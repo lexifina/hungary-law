@@ -1,8 +1,18 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1)[^16] Az állattartó tárgyév június 1-jétől június 30-áig terjedő időszakban nyújthatja be a támogatási kérelmét a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon a Kincstárhoz.
+5. §[^19] (1) Az állattartó tárgyév június 1-jétől június 30-áig terjedő időszakban nyújthatja be a támogatási kérelmét elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) A támogatási kérelem tartalmazza
+
+a) az állattartó azonosító adatait,
+
+b) az állattartó tenyészetére vonatkozó tenyészetkódokat,
+
+c) az állatfajonként igényelt állatlétszámot és
+
+d) a 4. § (1) bekezdés b) és c) pontjában, valamint e) pont ec) alpontjában foglaltakról szóló nyilatkozatokat.
+
+(3) A tenyésztőszervezet által kiállított igazolás tartalmazza
 
 a) az állattartó azonosító adatait,
 
@@ -22,10 +32,14 @@ dd) eladó adószámát, természetes személy esetén adóazonosító jelét,
 
 e) a 2. § (1) bekezdés b) pontjában foglalt tevékenység megvalósulása esetén a tenyészállat-vásárlási jegyzőkönyv adatait,
 
-f) a támogatási időszakban az állattartó tenyészetében lévő anyajuh, illetve anyakecske tenyésztő szervezet által – a 182/2009. (XII. 30.) FVM rendelet 11. § (1) bekezdése szerinti állomány-nyilvántartó alapján – igazolt egyedszámát,
+f) a támogatási időszakban az állattartó tenyészetében lévő anyajuh, illetve anyakecske tenyésztő szervezet által – a 182/2009. (XII. 30.) FVM rendelet 11. § (1) bekezdése szerinti állomány-nyilvántartó alapján – igazolt egyedszámát.
 
-g) az a)–f) pontokban foglaltak szakmai megfelelőségéről szóló tenyésztő szervezeti igazolást és
+(4) Az eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (a továbbiakban együtt: beadvány) is az elektronikus felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
 
-h) a 4. § (1) bekezdés b) és c) pontjában foglaltakról szóló nyilatkozatokat.
+(5) A támogatási kérelem a benyújtását követően legkésőbb az (1) bekezdésben meghatározott benyújtási határidő végéig, az elektronikus felületen keresztül módosítható. Módosítás esetén az utolsóként benyújtott támogatási kérelmet kell elbírálni. Az (1) bekezdés szerinti támogatási kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
-[^16]: Az 5. § (1) bekezdése a 11/2024. (III. 25.) AM rendelet 17. §-ával megállapított szöveg.
+(6) Ha a kötelezettségek elektronikus úton történő teljesítése során az állattartó helyett és nevében meghatalmazottja jár el, a meghatalmazott az elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárás tekintetében a Kincstár vonatkozó közleményében foglaltakat kell alkalmazni.
+
+(7) A támogatási kérelem benyújtása esetén a Kincstár megkeresésére a tenyésztőszervezet adatot szolgáltat a (3) bekezdésben foglaltakról.
+
+[^19]: Az 5. § a 7/2025. (IV. 10.) AM rendelet 36. §-ával megállapított szöveg.

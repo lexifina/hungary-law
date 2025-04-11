@@ -4,29 +4,17 @@
 
 a) tenyészkos- vagy tenyészbaknevelő központi telepről, illetve származási okmányon szereplő tenyésztőtől – támogatási időszakban – történő megvásárlása és tenyésztésbe állítása, illetve
 
-b)[^7] állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása a (2) bekezdés b) pontja szerinti, „A” törzskönyvben nyilvántartott tenyészkos és tenyészbak
+b)[^8] állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása a (2) bekezdés b) pontja szerinti, „A” törzskönyvben nyilvántartott tenyészkos és tenyészbak
 
 esetén az állattartó vissza nem térítendő mezőgazdasági csekély összegű támogatás (a továbbiakban: támogatás) igénybevételére jogosult.
 
-(2)[^8] A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén a b) pontban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
+(2)[^9] A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén a b) pontban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
 
-a) az apaállattá minősített növendék bakonként az
+a) az apaállattá minősített növendék bakonként 75 000 forint,
 
-aa) 1. § 9. pont a) alpontja szerinti időszakban 75 000 forint,
+b) az „A” törzskönyvben nyilvántartott tenyészkosonként, illetve tenyészbakonként 160 000 forint,
 
-ab) 1. § 9. pont b) alpontja szerinti időszakban 45 000 forint,
-
-b) az „A” törzskönyvben nyilvántartott tenyészkosonként, illetve tenyészbakonként az
-
-ba) 1. § 9. pont a) alpontja szerinti időszakban 160 000 forint,
-
-bb) 1. § 9. pont b) alpontja szerinti időszakban 120 000 forint,
-
-c) a „K” köztenyésztésre használható besorolást kapott tenyészkosonként, illetve tenyészbakonként az
-
-ca) 1. § 9. pont a) alpontja szerinti időszakban 120 000 forint,
-
-cb) 1. § 9. pont b) alpontja szerinti időszakban 90 000 forint,
+c) a „K” köztenyésztésre használható besorolást kapott tenyészkosonként, illetve tenyészbakonként 120 000 forint,
 
 azzal, hogy a támogatás nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretet.
 
@@ -38,17 +26,18 @@ b) ÁFA levonására nem jogosult, akkor a bruttó vételár
 
 kerül figyelembevételre.
 
-(4)[^9] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.
+(4)[^10] Az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon bármely három egymást követő év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelemmel az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdésére is.
 
 (5) A támogatáshoz kapcsolódó iratokat a támogatás odaítélését követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni. A támogatásról az Európai Bizottság kérésére húsz munkanapon belül információt kell szolgáltatni.
 
-(6)[^10] A mezőgazdasági termékek elsődleges előállításával foglalkozó ágazatban, valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az (EU) 2023/2831 bizottsági rendelet 3. cikk (2) bekezdésében rögzített felső határig halmozhatók az utóbbi tevékenységre vagy tevékenységekre tekintettel nyújtott támogatással, feltéve, hogy a tevékenységek szétválasztása vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön az (EU) 2023/2831 bizottsági rendelet alapján nyújtott támogatásban.
+(6)[^11] A támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
 
-(7) A mezőgazdasági termékek elsődleges előállításával foglalkozó ágazatban, valamint a halászati és akvakultúra-ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) 3. cikk (2) bekezdésében rögzített felső határig halmozhatók az utóbbi tevékenységre vagy tevékenységekre tekintettel az említett rendelettel összhangban nyújtott támogatásokkal, feltéve, hogy a tevékenységek szétválasztása vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet alapján nyújtott támogatásban.
+(7)[^12] Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható támogatás azon állattartó részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
 (8) A támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletekben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
 
-[^7]: A 2. § (1) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 18. §-ával megállapított szöveg.
-[^8]: A 2. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 15. §-ával megállapított, nyitó szövegrésze a 33/2024. (V. 30.) AM rendelet 20. §-a szerint módosított szöveg.
-[^9]: A 2. § (4) bekezdése a 14/2019. (IV. 10.) AM rendelet 40. §-ával megállapított szöveg.
-[^10]: A 2. § (6) bekezdése a 33/2024. (V. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^8]: A 2. § (1) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 18. §-ával megállapított szöveg.
+[^9]: A 2. § (2) bekezdése a 7/2025. (IV. 10.) AM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (4) bekezdése a 7/2025. (IV. 10.) AM rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § (6) bekezdése a 7/2025. (IV. 10.) AM rendelet 34. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § (7) bekezdése a 7/2025. (IV. 10.) AM rendelet 34. § (3) bekezdésével megállapított szöveg.
