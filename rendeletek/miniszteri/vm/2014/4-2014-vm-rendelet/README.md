@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-4-20-2Y
 | 2023-05-12 | 2014-4-20-2Y.19 | 22/2023. (V. 9.) AM rendelet |
 | 2023-07-21 | 2014-4-20-2Y.20 | 35/2018. (XII. 6.) AM rendelet |
 | 2024-03-26 | 2014-4-20-2Y.21 | 35/2018. (XII. 6.) AM rendelet |
+| 2025-04-11 | 2014-4-20-2Y.22 | 7/2025. (IV. 10.) AM rendelet |

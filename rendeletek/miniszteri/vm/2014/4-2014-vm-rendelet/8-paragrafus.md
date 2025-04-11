@@ -1,3 +1,3 @@
-8. §[^29]
+8. §[^32] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 7/2025. (IV. 10.) AM rendelettel [a továbbiakban: 7/2025. (IV. 10.) AM rendelet] megállapított 1. § 4. és 8. pontját, 2. § (1)–(1a) bekezdését, 2. § (2)–(2b) bekezdését és 3. § (2) és (5) bekezdését a 2025. évben benyújtott támogatási kérelmek alapján indult eljárásokban is alkalmazni kell.
 
-[^29]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2025. (IV. 10.) AM rendelet 17. §-a iktatta be.
