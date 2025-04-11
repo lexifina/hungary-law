@@ -1,6 +1,6 @@
-## 6b.[^16] Válságtámogatás
+## 6b.[^22] Válságtámogatás
 
-6/D. § (1)[^17] A kérelmező – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2023. és 2024. évben benyújtott támogatási kérelme alapján kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult.
+6/D. § (1)[^23] A kérelmező – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2023. és 2024. évben benyújtott támogatási kérelme alapján kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult.
 
 (2) A válságtámogatásra a 2–6. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -28,5 +28,5 @@ bd) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország
 
 (8) A válságtámogatás iránti kérelem a benyújtását követő naptól számított két napon belül, de legkésőbb az 5. § (1) bekezdésében meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó válságtámogatási kérelmet kell elbírálni. A válságtámogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
-[^16]: A 6b. alcímet (6/D–6/E. §) a 26/2022. (VIII. 31.) AM rendelet 21. §-a iktatta be.
-[^17]: A 6/D. § (1) bekezdése a 158/2022. (XII. 27.) AM rendelet 20. § b) pontja, a 46/2024. (IX. 2.) AM rendelet 10. § c) pontja szerint módosított szöveg.
+[^22]: A 6b. alcímet (6/D–6/E. §) a 26/2022. (VIII. 31.) AM rendelet 21. §-a iktatta be.
+[^23]: A 6/D. § (1) bekezdése a 158/2022. (XII. 27.) AM rendelet 20. § b) pontja, a 46/2024. (IX. 2.) AM rendelet 10. § c) pontja szerint módosított szöveg.
