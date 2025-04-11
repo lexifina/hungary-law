@@ -2,7 +2,7 @@
 
 | 1. | Igénylés éve | 2023 |
 
-| 2. | Támogatási keretösszeg | 246 226 481 |
+| 2.[^56] | Támogatási keretösszeg | 253 113 337 |
 
 | 3. | Fajlagos támogatási összeg minimuma | 60,64 |
 
@@ -119,3 +119,5 @@ Méhlegelő növények listája
 53) Murokrépa (Daucus carota L.)
 
 54) Édeskömény – magtermesztés céljára szolgáló típusa (Foeniculum vulgare var. vulgare)
+
+[^56]: A 2. mellékletben foglalt táblázat 2. sora a 7/2025. (IV. 10.) AM rendelet 71. §-ával megállapított szöveg.
