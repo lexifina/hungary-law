@@ -24,15 +24,15 @@ a) a szén-dioxid 2800 ppm-nél alacsonyabb mértékét és
 
 b) az ammónia 14 ppm-nél alacsonyabb mértékét.
 
-(4)[^23] A (2) és (3) bekezdés szerinti feltételek teljesülését a szolgáltató állatorvos igazolja az állományokra vonatkozó napló és helyszíni ellenőrzés alapján.
+(4)[^26] A (2) és (3) bekezdés szerinti feltételek teljesülését a szolgáltató állatorvos igazolja az állományokra vonatkozó napló és helyszíni ellenőrzés alapján.
 
 (5) A kifizetési kérelemhez csatolni kell
 
-a)[^24] a szolgáltató állatorvos igazolását a (2) bekezdés a) és b) pontjában, valamint a (3) bekezdésben meghatározott feltétel biztosításáról, és
+a)[^27] a szolgáltató állatorvos igazolását a (2) bekezdés a) és b) pontjában, valamint a (3) bekezdésben meghatározott feltétel biztosításáról, és
 
 b) az alom kezelésének, valamint beszerzésének költségeiről kiállított számla másolati példányát, amelynek kiállítási időpontja a támogatási évet megelőző év június 1. napjától kezdődő időpont lehet – vagy saját előállítású alom felhasználása esetén nyilatkozatot a saját előállítású alom használatáról –, és a kapcsolódó alom mozgatására (be- és kivételezésre) vonatkozó belső bizonylatok másolatait,
 
-c)[^25] a vágóhíd és a létesítmény felügyeletét ellátó hatósági vagy jogosult állatorvos igazolásának eredeti példányát, amely tartalmazza a levágott baromfi 1. melléklet szerinti megnevezését, darabszámát, vágási életkorát (napokban, házityúk esetében élethétben) és vágásának időpontját.
+c)[^28] a vágóhíd és a létesítmény felügyeletét ellátó hatósági vagy jogosult állatorvos igazolásának eredeti példányát, amely tartalmazza a levágott baromfi 1. melléklet szerinti megnevezését, darabszámát, vágási életkorát (napokban, házityúk esetében élethétben) és vágásának időpontját.
 
 (6) Az (4) bekezdés szerinti igazoláson szereplő mérési időpont nem lehet az adott tárgynegyedéven kívüli.
 
@@ -76,6 +76,6 @@ h) növendék kacsa esetén 26 940,2 Ft állategységenként,
 
 i) növendék pulyka esetén 6028,7 Ft állategységenként.
 
-[^23]: A 9. § (4) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § f) pontja szerint módosított szöveg.
-[^24]: A 9. § (5) bekezdés a) pontja a 26/2019. (VI. 7.) AM rendelet 12. § g) pontja szerint módosított szöveg.
-[^25]: A 9. § (5) bekezdés c) pontját a 26/2019. (VI. 7.) AM rendelet 9. §-a iktatta be.
+[^26]: A 9. § (4) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § f) pontja szerint módosított szöveg.
+[^27]: A 9. § (5) bekezdés a) pontja a 26/2019. (VI. 7.) AM rendelet 12. § g) pontja szerint módosított szöveg.
+[^28]: A 9. § (5) bekezdés c) pontját a 26/2019. (VI. 7.) AM rendelet 9. §-a iktatta be.

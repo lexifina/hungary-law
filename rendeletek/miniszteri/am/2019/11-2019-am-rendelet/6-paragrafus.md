@@ -1,4 +1,4 @@
-6. § (1)[^12] Az adott tárgynegyedévre vonatkozó támogatás kifizetése iránti kérelem – baromfi megnevezés-csoportonként kizárólag egy – a (2) bekezdésben meghatározott adattartalommal a Kincstár által erre a célra rendszeresített elektronikus űrlapkitöltő felületen nyújtható be, az (1a) bekezdésben előírt benyújtási időszakban.
+6. § (1)[^12] Az adott tárgynegyedévre vonatkozó támogatás kifizetése iránti kérelem – baromfi megnevezés-csoportonként kizárólag egy – a (2) bekezdésben meghatározott adattartalommal a Kincstár által erre a célra rendszeresített elektronikus felületen nyújtható be, az (1a) bekezdésben előírt benyújtási időszakban.
 
 (1a)[^13] A kifizetési kérelem
 
@@ -58,7 +58,7 @@ d) a támogatási igényre vonatkozó adatokat.
 
 (10)[^20] Ha az igénylő a (7) bekezdésben meghatározott határidőig nem nyújtja be a BTT-hez a szakmai ellenőrzési lapot, és ezért a tárgynegyedévre vonatkozóan a benyújtási időszak utolsó napját követő harmincadik napig nem érkezik be a BTT által ellenjegyzett szakmai ellenőrzési lap a Kincstárhoz, a kifizetési kérelmet a Kincstár elutasítja. A szakmai ellenőrzési lap benyújtása tekintetében hiánypótlásra nincs lehetőség.
 
-[^12]: A 6. § (1) bekezdése a 160/2022. (XII. 27.) AM rendelet 5. §-ával megállapított szöveg. [Ugyanezen módosító rendelet 9. § b) pontja által elrendelt módosítás, amely szerint a "megyei" szövegrész helyébe a "vármegyei" szöveg lép, nem vezethető át.]
+[^12]: A 6. § (1) bekezdése a 160/2022. (XII. 27.) AM rendelet 5. §-ával megállapított, a 7/2025. (IV. 10.) AM rendelet 49. §-a szerint módosított szöveg.
 [^13]: A 6. § (1a) bekezdését a 160/2022. (XII. 27.) AM rendelet 5. §-a iktatta be.
 [^14]: A 6. § (1b) bekezdését a 160/2022. (XII. 27.) AM rendelet 5. §-a iktatta be.
 [^15]: A 6. § (3) bekezdés c) pontja a 18/2020. (VI. 12.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.

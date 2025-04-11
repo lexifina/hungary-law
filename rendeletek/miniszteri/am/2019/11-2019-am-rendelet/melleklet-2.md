@@ -20,6 +20,6 @@
 
 | 10 | növendék pulyka | 0,0067 |
 
-2. melléklet a 11/2019. (IV. 1.) AM rendelethez[^48]
+2. melléklet a 11/2019. (IV. 1.) AM rendelethez[^52]
 
-[^48]: A 2. melléklet az 50/2021. (XII. 29.) AM rendelet 28. §-ával megállapított, a 6/2022. (II. 11.) AM rendelet 2. § b)–c) pontja, a 160/2022. (XII. 27.) AM rendelet 8. §-a, a 11/2024. (III. 25.) AM rendelet 28. §-a, a 68/2024. (XII. 20.) AM rendelet 2. §-a szerint módosított szöveg.
+[^52]: A 2. melléklet az 50/2021. (XII. 29.) AM rendelet 28. §-ával megállapított, a 6/2022. (II. 11.) AM rendelet 2. § b)–c) pontja, a 160/2022. (XII. 27.) AM rendelet 8. §-a, a 11/2024. (III. 25.) AM rendelet 28. §-a, a 68/2024. (XII. 20.) AM rendelet 2. §-a szerint módosított szöveg.

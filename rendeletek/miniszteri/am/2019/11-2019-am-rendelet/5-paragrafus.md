@@ -1,4 +1,4 @@
-5. § (1)[^6] A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év március 20-tól a támogatási év április 15-éig, a (2) bekezdésben meghatározott adattartalommal nyújthatja be kizárólag elektronikus úton, ügyfélkapus azonosítást követően a Kincstár által erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület).
+5. § (1)[^6] A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év március 20-tól a támogatási év április 15-éig, a (2) bekezdésben meghatározott adattartalommal nyújthatja be, kizárólag elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) Az igénylő támogatási kérelme az alábbi adatokat és dokumentumokat tartalmazza:
 
@@ -38,7 +38,7 @@ b)[^9]
 
 (9)[^11]
 
-[^6]: Az 5. § (1) bekezdése a 160/2022. (XII. 27.) AM rendelet 4. §-ával megállapított szöveg. [Ugyanezen módosító rendelet 9. § b) pontja által elrendelt módosítás, amely szerint a "megyei" szövegrész helyébe a "vármegyei" szöveg lép, nem vezethető át.]
+[^6]: Az 5. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 45. §-ával megállapított szöveg.
 [^7]: Az 5. § (2) bekezdés b) pontja a 43/2023. (VII. 20.) AM rendelet 2. §-ával megállapított szöveg.
 [^8]: Az 5. § (2) bekezdés h) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
 [^9]: Az 5. § (6) bekezdés b) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
