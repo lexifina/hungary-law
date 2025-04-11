@@ -4,11 +4,21 @@
 
 (2) Kétirányú mérés esetén az elszámolás alapját képező villamosenergia-mennyiségeket az adott mérési ponton a nemzetközi üzemi és kereskedelmi szabályzatban rögzített elszámolási mérési intervallumokban, irányonként kell megállapítani. A forgalmi díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell megfizetni.
 
-(3) A (2) bekezdéstől eltérően – a Vhr. 5. § (5)–(5b) bekezdését is figyelembe véve – az elosztóhoz 2023. szeptember 7. napjáig igazolt módon beérkezett létesítési vagy bővítési igénybejelentés alapján 2026. január 1. napjáig történő létesítés vagy bővítés – az elosztói szabályzatban meghatározottak szerint üzembe helyezés – esetében a háztartási méretű kiserőmű üzembe helyezését követő 10 éves időszak végével érintett naptári hónap utolsó napjáig – bővítés esetén a bővített háztartási méretű kiserőmű egésze tekintetében a bővítés időpontjától számítva – a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni. A különbséget az éves mennyiségek különbsége alapján kell képezni
+(3)[^3] A (2) bekezdéstől eltérően – a Vhr. 5. § (5)–(5b) bekezdését is figyelembe véve – az elosztóhoz 2023. szeptember 7. napjáig igazolt módon beérkezett, háztartási méretű kiserőmű létesítési vagy bővítési igénybejelentés alapján 2025. december 31. napjáig történő, az elosztói szabályzatban meghatározottak szerinti üzembe helyezés esetén
+
+a) a háztartási méretű kiserőmű üzembe helyezését,
+
+b) a háztartási méretű kiserőmű bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében a bővítés időpontját, vagy
+
+c) ha a háztartási méretű kiserőmű üzembe helyezésekor a háztartási méretű kiserőmű közcélú hálózatba történő betáplálása jogszabály alapján ideiglenes felfüggesztés hatálya alatt állt, akkor a hálózati engedélyes által a jogszabály alapján a felfüggesztés feloldásáról kiadott értesítés időpontját
+
+követő 10 éves időszak végével érintett naptári hónap utolsó napjáig a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni.
+
+(3a)[^4] A (3) bekezdés szerinti, irányonként elkülönített mennyiségeket éves szinten kell összegezni
 
 a) a 2023. szeptember 7-én üzemben lévő háztartási méretű kiserőmű esetében, ha a felhasználó vonatkozásában profil elszámolást alkalmaztak, vagy
 
-b) a 2023. szeptember 7-ig benyújtott igénybejelentés alapján 2023. szeptember 7. és 2025. december 31. között üzembe helyezett (beleértve a bővítést is) háztartási méretű kiserőmű esetében, ha az igénybejelentés időpontjában a felhasználó profil elszámolásúnak minősült.
+b) az elosztóhoz 2023. szeptember 7. napjáig igazolt módon beérkezett, háztartási méretű kiserőmű létesítési vagy bővítési igénybejelentés alapján 2025. december 31. napjáig történő, az elosztói szabályzat szerinti üzembe helyezés esetén, ha az igénybejelentés időpontjában a felhasználó profil elszámolásúnak minősült.
 
 (4) A (3) bekezdéstől eltérően a forgalmi díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell elszámolni és megfizetni,
 
@@ -25,3 +35,6 @@ b) le kell vonni belőle a magánvezetékre kapcsolódó felhasználók által v
 (6) Az (5) bekezdés szerinti előjelhelyes összegzés során a közcélú hálózatról történő vételezés pozitív, a közcélú hálózatba történő betáplálás negatív előjellel veendő figyelembe.
 
 (7) Több zónaidős elosztói forgalmi díj megállapítása esetén a (2), (4) és (5) bekezdést zónaidőnként külön-külön, a (3) bekezdést az egyes zónaidők szerinti mért mennyiségek összeadását követően kell alkalmazni.
+
+[^3]: A 19. § (3) bekezdése a 2/2025. (IV. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^4]: A 19. § (3a) bekezdését a 2/2025. (IV. 10.) MEKH rendelet 1. §-a iktatta be.
