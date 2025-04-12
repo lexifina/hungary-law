@@ -1,3 +1,3 @@
-11. §[^10]
+11. §[^12]
 
-[^10]: A 11. § a 15. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^12]: A 11. § a 15. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.

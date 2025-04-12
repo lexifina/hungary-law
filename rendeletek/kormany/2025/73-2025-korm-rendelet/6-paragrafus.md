@@ -1,3 +1,3 @@
-6. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet a következő 29. §-sal egészül ki:
+6. §[^7]
 
-„29. § E rendeletnek a beruházás megvalósítása céljából Magyarországra érkező vendégmunkások foglalkoztatásának szabályairól szóló 73/2025. (IV. 10.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 15/B. § (9) bekezdését a Módr. hatálybalépését megelőzően kiadott előzetes csoportos munkavállalási jóváhagyás tekintetében is alkalmazni kell.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
