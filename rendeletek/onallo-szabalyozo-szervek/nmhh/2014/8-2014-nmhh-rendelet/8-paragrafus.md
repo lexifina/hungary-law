@@ -16,8 +16,11 @@
 
 (7) Az emlékérem díszdobozban elhelyezett, proof kivitelű ezüstérem. Az érem átmérője 50 mm, vastagsága 5 mm. Előlapján a névadó mellképe, felette körívben a díj elnevezése látható. Hátoldalán a Laki-hegyi adóállomás stilizált képe, amelyet felülről a „NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG” felirat és alulról az adományozás évszámát jelző felirat vesz körül.
 
-(8) Az emlékérem értéke legfeljebb a kötelező legkisebb munkabér huszonöt százaléka lehet.
+(8)[^5] Az emlékérem értéke legfeljebb a Központi Statisztikai Hivatal által közzétett, tárgyévet megelőző évre vonatkozó havi bruttó átlagkereset huszonöt százaléka lehet.
 
-(9) A pénzjutalom összege a kötelező legkisebb munkabér háromszorosa, amely nem önálló tevékenységből származó jövedelemnek minősül és személyi jövedelemadó- és járulékfizetési kötelezettség terheli.
+(9)[^6] A pénzjutalom összege a Központi Statisztikai Hivatal által közzétett, tárgyévet megelőző évre vonatkozó havi bruttó átlagkereset háromszorosa, amely nem önálló tevékenységből származó jövedelemnek minősül és személyi jövedelemadó- és járulékfizetési kötelezettség terheli.
 
 (10) Posztumusz adományozás esetén a Dr. Magyari Endre-díjat és a díjjal járó pénzjutalmat a díjazott özvegye, leszármazója vagy más, intézkedésre jogosult hozzátartozója veheti át.
+
+[^5]: A 8. § (8) bekezdése az 5/2025. (IV. 4.) NMHH rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 8. § (9) bekezdése az 5/2025. (IV. 4.) NMHH rendelet 4. §-a szerint módosított szöveg.

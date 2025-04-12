@@ -6,4 +6,6 @@
 
 (4) A díjazott oklevelet és pénzjutalmat kap.
 
-(5) A pénzjutalom összege a kötelező legkisebb munkabér kétszerese, amely nem önálló tevékenységből származó jövedelemnek minősül és személyi jövedelemadó- és járulékfizetési kötelezettség terheli.
+(5)[^11] A pénzjutalom összege a Központi Statisztikai Hivatal által közzétett, tárgyévet megelőző évre vonatkozó havi bruttó átlagkereset kétszerese, amely nem önálló tevékenységből származó jövedelemnek minősül és személyi jövedelemadó- és járulékfizetési kötelezettség terheli.
+
+[^11]: A 11. § (5) bekezdése az 5/2025. (IV. 4.) NMHH rendelet 4. §-a szerint módosított szöveg.
