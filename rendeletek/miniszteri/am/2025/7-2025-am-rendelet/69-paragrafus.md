@@ -1,7 +1,3 @@
-69. § Hatályát veszti a 37/2020. (VII. 10.) AM rendelet
+69. §[^70]
 
-a) 1. § 4. pontja,
-
-b) 1. § 7. pontja és
-
-c) 6. § (1) bekezdése.
+[^70]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

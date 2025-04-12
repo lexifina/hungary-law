@@ -1,3 +1,3 @@
-45. § A 11/2019. (IV. 1.) AM rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+45. §[^46]
 
-„(1) A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év március 20-tól a támogatási év április 15-éig, a (2) bekezdésben meghatározott adattartalommal nyújthatja be, kizárólag elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.”
+[^46]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

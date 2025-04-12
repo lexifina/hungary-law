@@ -1,15 +1,3 @@
-## „4. egy és ugyanazon vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontja szerinti vállalkozás,”
+53. §[^54]
 
-53. § (1) A 29/2019. (VI. 20.) AM rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A támogatás mértékét, a támogatási időszakban a méhállományok védelméről és a mézelő méhek egyes betegségeinek megelőzéséről és leküzdéséről szóló 70/2003. (VI. 27.) FVM rendelet 7. §-a szerinti monitoring vizsgálat során megállapított és a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] szerinti Tenyészet Információs Rendszerbe (a továbbiakban: TIR) a kérelmező által a támogatási időszak október 15-éig bejelentett méhcsaládok száma alapján kell meghatározni.”
-
-(2) A 29/2019. (VI. 20.) AM rendelet 2. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek, valamint a § a következő (6)–(7) bekezdéssel egészül ki:
-
-„(4) Az (1) bekezdés szerinti támogatás bruttó támogatástartalma nem haladhatja meg kérelmező és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon bármely három egymást követő év során odaítélt 50 000 eurónak megfelelő forintösszeget, figyelemmel az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdésére is.
-
-(5) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható támogatás azon kérelmező részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
-
-(6) A támogatás halmozható azonos elszámolható költségek vonatkozásában vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl bármely csoportmentességi rendeletben vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális intenzitást vagy összeget.
-
-(7) A mezőgazdasági csekély összegű támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.”
+[^54]: Az 53. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

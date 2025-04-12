@@ -1,1 +1,3 @@
-49. § A 11/2019. (IV. 1.) AM rendelet 6. § (1) bekezdésében, valamint 6/A. § (2)–(3) bekezdésében az „elektronikus űrlapkitöltő felületen” szövegrész helyébe az „elektronikus felületen” szöveg lép.
+49. §[^50]
+
+[^50]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

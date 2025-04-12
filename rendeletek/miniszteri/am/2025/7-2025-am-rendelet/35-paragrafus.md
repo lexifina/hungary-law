@@ -1,7 +1,3 @@
-35. § A 74/2016. (XI. 29.) FM rendelet 4. § (1) bekezdés e) pontja a következő ec) alponttal egészül ki:
+35. §[^36]
 
-(Támogatás igénybevételére az az állattartó jogosult, aki vagy amely
-
-rendelkezik)
-
-„ec) a Magyar Juh- és Kecsketenyésztők Szövetsége (a továbbiakban: tenyésztőszervezet) által, az 5. § (2) bekezdésének megfelelően kiállított igazolással.”
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

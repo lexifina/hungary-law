@@ -1,1 +1,3 @@
-43. § Hatályát veszti a 39/2018. (XII. 13.) AM rendelet 14. § (1a) bekezdése és 14. § (5a) bekezdése.
+43. §[^44]
+
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

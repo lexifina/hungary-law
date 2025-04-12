@@ -1,5 +1,5 @@
 ## 3. A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet módosítása
 
-10. § A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet [a továbbiakban: 94/2013. (X. 10.) VM rendelet] 1. § 11. pontja helyébe a következő rendelkezés lép:
+10. §[^11]
 
-(E rendelet alkalmazásában:)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

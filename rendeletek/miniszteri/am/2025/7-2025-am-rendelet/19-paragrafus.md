@@ -1,1 +1,3 @@
-19. § Hatályát veszti a 4/2014. (I. 27.) VM rendelet 2. § (1b) bekezdése.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

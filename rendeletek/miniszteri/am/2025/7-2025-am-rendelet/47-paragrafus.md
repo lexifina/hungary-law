@@ -1,3 +1,3 @@
-47. § A 11/2019. (IV. 1.) AM rendelet a következő 11. §-sal egészül ki:
+47. §[^48]
 
-„11. § A 2. § (1) bekezdésében felsorolt tevékenységek kizárólag a mindenkor hatályos előírásokon túlmutató kötelezettségvállalások teljesítéséhez kapcsolódnak, és azok az alkalmazandó vidékfejlesztési programozási időszak szabályaihoz igazodnak.”
+[^48]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-37. § Hatályát veszti a 74/2016. (XI. 29.) FM rendelet
+37. §[^38]
 
-a) 1. § 9. pont b) alpontja,
-
-b) 6/D. és 6/E. §-a.
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

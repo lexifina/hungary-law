@@ -1,1 +1,3 @@
-32. § A 26/2014. (XI. 20.) FM rendelet 5. § (6) és (8) bekezdésében az „elektronikus űrlapkitöltő felületen” szövegrész helyébe az „elektronikus felületen” szöveg lép.
+32. §[^33]
+
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

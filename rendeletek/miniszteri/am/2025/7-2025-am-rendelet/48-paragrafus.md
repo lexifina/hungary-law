@@ -1,1 +1,3 @@
-48. § A 11/2019. (IV. 1.) AM rendelet 2. melléklete a 3. melléklet szerint módosul.
+48. §[^49]
+
+[^49]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 12. A méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról szóló 29/2019. (VI. 20.) AM rendelet módosítása
 
-52. § A méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról szóló 29/2019. (VI. 20.) AM rendelet [a továbbiakban: 29/2019. (VI. 20.) AM rendelet] 1. §-a a következő 4. ponttal egészül ki:
+52. §[^53]
 
-(E rendelet alkalmazásában:)
+[^53]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

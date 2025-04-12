@@ -1,5 +1,3 @@
-## „e) a támogatási kérelem benyújtásával egyidejűleg nyilatkozik a c) és d) pontban foglaltakról, valamint arról, hogy a kérelmező és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás mekkora összegű általános csekély összegű támogatásban részesült az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján a kérelem benyújtását megelőző három egymást követő évben.”
+55. §[^56]
 
-55. § A 29/2019. (VI. 20.) AM rendelet 5. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, akkor a meghatalmazott a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elvégzéséhez.”
+[^56]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

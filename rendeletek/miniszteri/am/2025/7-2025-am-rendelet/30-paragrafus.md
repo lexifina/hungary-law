@@ -1,9 +1,3 @@
-30. § (1) A 26/2014. (XI. 20.) FM rendelet 5/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+30. §[^31]
 
-„(1) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó mezőgazdasági termelő és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon bármely három egymást követő évben odaítélt támogatás bruttó támogatástartalma nem haladhatja meg az 50 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3) bekezdését is.”
-
-(2) A 26/2014. (XI. 20.) FM rendelet 5/A. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.
-
-(4) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható támogatás azon mezőgazdasági termelő részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.”
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 16. Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet módosítása
 
-72. § Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet [a továbbiakban: 16/2023. (IV. 19.) AM rendelet] a következő 28. §-sal egészül ki:
+72. §[^73]
 
-„28. § E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 7/2025. (IV. 10.)AM rendelettel [a továbbiakban: 7/2025. (IV. 10.) AM rendelet] megállapított 1. mellékletét a 2023. évben benyújtott kérelmekre indult eljárásokban kell alkalmazni.”
+[^73]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

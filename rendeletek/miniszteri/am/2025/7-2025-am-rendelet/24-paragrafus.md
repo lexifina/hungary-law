@@ -1,1 +1,3 @@
-24. § Hatályát veszti a 37/2014. (IV. 4.) VM rendelet 6. § (5a) bekezdése.
+24. §[^25]
+
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

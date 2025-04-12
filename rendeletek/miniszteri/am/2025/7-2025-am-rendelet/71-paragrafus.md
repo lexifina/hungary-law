@@ -1,1 +1,3 @@
-71. § A 15/2023. (IV. 19.) AM rendelet 2. melléklete a 4. melléklet szerint módosul.
+71. §[^72]
+
+[^72]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
