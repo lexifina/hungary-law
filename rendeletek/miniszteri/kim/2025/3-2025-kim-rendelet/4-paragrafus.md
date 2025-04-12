@@ -1,3 +1,3 @@
-4. § (1) Az Nmr. 1. számú melléklete az 1. melléklet szerint módosul.
+4. §[^5]
 
-(2) Az Nmr. 2. számú melléklete a 2. melléklet szerint módosul.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
