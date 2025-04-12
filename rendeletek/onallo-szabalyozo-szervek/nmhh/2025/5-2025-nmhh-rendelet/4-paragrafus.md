@@ -1,0 +1,1 @@
+4. § Az R. 8. § (8) és (9) bekezdésében, 9. § (8) és (9) bekezdésében, 10. § (5) bekezdésében, valamint 11. § (5) bekezdésében a „kötelező legkisebb munkabér” szövegrész helyébe a „Központi Statisztikai Hivatal által közzétett, tárgyévet megelőző évre vonatkozó havi bruttó átlagkereset” szöveg lép.
