@@ -1,0 +1,1 @@
+6. § A termék jellemzőiről, használatáról és hatásairól a fogyasztónak szóló tájékoztatást – a fogyasztó kifejezett kérésére – a dohánytermék-nagykereskedő elektronikus levél (e-mail) útján is hozzáférhetővé teheti a nála regisztrált fogyasztó részére. Az elektronikus kapcsolattartás e rendeletben kifejezetten nem nevesített formája tilos.

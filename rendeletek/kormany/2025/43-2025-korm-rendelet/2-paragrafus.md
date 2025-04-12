@@ -1,0 +1,1 @@
+2. § E rendelet alkalmazásában termékszakértő a dohánytermék-kiskereskedő, a dohánytermék-nagykereskedő vagy más személy által kifejezetten a 3. § (1) bekezdés a) pont ab) alpontja szerinti szóbeli tájékoztatás nyújtása céljából – megbízási jogviszony vagy munkaviszony keretében – alkalmazott természetes személy.
