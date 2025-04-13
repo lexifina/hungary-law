@@ -1,4 +1,4 @@
-2. § (1)[^1] Az igazgatási szolgáltatási díjat a szakképzésért felelős miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett, KIM Igazgatás 10032000-01425190-00000000 számú előirányzat-felhasználási keretszámlájára kell az eljárás megindítását megelőzően átutalással vagy az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel megfizetni az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését, a szakképzési tankönyvvé nyilvánítás alapjául szolgáló tankönyv megnevezését és az érintett tankönyv kiadói kódját.
+2. § (1)[^2] Az igazgatási szolgáltatási díjat a szakképzésért felelős miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett, KIM Igazgatás 10032000-01425190-00000000 számú előirányzat-felhasználási keretszámlájára kell az eljárás megindítását megelőzően átutalással vagy az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel megfizetni az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerint. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését, a szakképzési tankönyvvé nyilvánítás alapjául szolgáló tankönyv megnevezését és az érintett tankönyv kiadói kódját.
 
 (2) A szakképzésért felelős miniszter túlfizetés esetén az igazgatási szolgáltatási díjtöbbletet hivatalból, annak észlelésétől számított tizenöt napon belül visszatéríti, ha a kérelem és a befizetést igazoló iratok alapján megállapítható, hogy a kérelmező az e rendeletben meghatározott mértéket meghaladó összegű igazgatási szolgáltatási díjat fizetett.
 
@@ -12,4 +12,4 @@ b) 31. §-át az igazgatási szolgáltatási díjfizetésre kötelezettek köré
 
 tekintetében azzal az eltéréssel kell alkalmazni, hogy az illetéken igazgatási szolgáltatási díjat kell érteni.
 
-[^1]: A 2. § (1) bekezdése az 1/2022. (IX. 1.) KIM rendelet 14. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése az 1/2022. (IX. 1.) KIM rendelet 14. §-ával megállapított szöveg.
