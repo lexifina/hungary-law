@@ -9,3 +9,5 @@
 a) 28. § (2) és (3) bekezdését az igazgatási szolgáltatási díjfizetési kötelezettség fennállása és keletkezése,
 
 b) 31. §-át az igazgatási szolgáltatási díjfizetésre kötelezettek körének megállapítása
+
+tekintetében azzal az eltéréssel kell alkalmazni, hogy az illetéken igazgatási szolgáltatási díjat kell érteni.
