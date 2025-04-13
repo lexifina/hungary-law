@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-5
 | 2022-04-01 | 2013-12-20-5H.8 | 11/2022. (III. 31.) ITM rendelet |
 | 2022-09-02 | 2013-12-20-5H.9 | 1/2022. (IX. 1.) KIM rendelet |
 | 2023-01-01 | 2013-12-20-5H.10 | 11/2022. (III. 31.) ITM rendelet |
+| 2025-04-13 | 2013-12-20-5H.11 | 2/2025. (III. 13.) KIM rendelet |

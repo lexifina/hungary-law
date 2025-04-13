@@ -12,9 +12,9 @@
 
 | 6. |  |  |  |
 
-| 7. | Szakértői eljárás díja | 25 000 Ft | 25 000 Ft |
+| 7. | Szakértői eljárás díja | 25 000 Ft | 32 000 Ft |
 
-5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^21]
+5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^51]
 
 |  | A | B | C |
 
@@ -22,7 +22,7 @@
 
 | 2. | Adventista Teológiai Főiskola | Forint pénzforgalmi számla | OTP Bank Nyrt., 11742331-20003799-00000000 |
 
-| 3. | Állami Egészségügyi Ellátó Központ | Előirányzat-felhasználás keretszámla | Magyar Államkincstár, 10032000-01490576-00000000 |
+| 3. | Országos Kórházi Főigazgatóság | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00362241-00000000 |
 
 | 4. | Állatorvostudományi Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11784009-22232496-00000000 |
 
@@ -46,7 +46,7 @@
 
 | 14. | Budapesti és Pest Vármegyei Mérnöki Kamara | Forint pénzforgalmi számla | Budapest Bank Zrt., 10102086-68836102-00000000 |
 
-| 15. | Budapesti Gazdasági Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11784009-22236775-00000000 |
+| 15. | Budapesti Gazdaságtudományi Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11784009-22236775-00000000 |
 
 | 16. | Budapest Kortárstánc Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10405004-50526789-78811009 |
 
@@ -64,7 +64,7 @@
 
 | 23. | Edutus Egyetem | Forint pénzforgalmi számla | MKB Bank Zrt., 10300002-40000413-00003285 |
 
-| 24. | Emberi Erőforrások Minisztériuma | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01425190-00000000 |
+| 24. | Kulturális és Innovációs Minisztérium | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01425190-00000000 |
 
 | 25. | Eötvös József Főiskola | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10025004-01427439-00000000 |
 
@@ -78,7 +78,7 @@
 
 | 30. | Evangélikus Hittudományi Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11707024-20272733-00000000 |
 
-| 31. | Gábor Dénes Főiskola | Forint pénzforgalmi számla | OTP Bank Nyrt., 11711041-20955696-00000000 |
+| 31. | Gábor Dénes Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11711041-20955696-00000000 |
 
 | 32. | Gál Ferenc Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11735005-20560740-00000000 |
 
@@ -114,7 +114,7 @@
 
 | 48. | Moholy-Nagy Művészeti Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11784009-22232403-00000000 |
 
-| 49. | Innovációs és Technológiai Minisztérium | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00290713-00000000 |
+| 49. |  |  |  |
 
 | 50. | Nemzeti Média- és Hírközlési Hatóság | Forint pénzforgalmi számla | Magyar Államkincstár, 10032000-00300939-00000017 |
 
@@ -146,7 +146,7 @@
 
 | 64. | Sapientia Szerzetesi Hittudományi Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10201006-50062850-00000000 |
 
-| 65. | Sárospataki Református Teológiai Akadémia | Forint pénzforgalmi számla | OTP Bank Nyrt., 11734169-20001278-00000000 |
+| 65. | Sárospataki Református Hittudományi Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11734169-20001278-00000000 |
 
 | 66. | Semmelweis Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11784009-22236665-00000000 |
 
@@ -180,4 +180,4 @@
 
 | 81. | Tokaj-Hegyalja Egyetem | Forint pénzforgalmi számla | Takarékbank Zrt., 50463684-10008078-00000000 |
 
-[^21]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a, az 1/2022. (IX. 1.) KIM rendelet 9. és 11. §-a, a 9/2022. (XII. 28.) KIM rendelet 1. §-a szerint módosított szöveg.
+[^51]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a, az 1/2022. (IX. 1.) KIM rendelet 9. és 11. §-a, a 9/2022. (XII. 28.) KIM rendelet 1. §-a, a 2/2025. (III. 13.) KIM rendelet 8. § (2) bekezdése,s 9. § 34-36. pontja és 10. § c) pontja szerint módosított szöveg.
