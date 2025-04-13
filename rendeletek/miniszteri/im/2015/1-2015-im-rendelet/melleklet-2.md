@@ -1,6 +1,6 @@
 2. melléklet az 1/2015. (I. 22.) IM rendelethez
 
-## Az alapfokú iparjogvédelmi tanfolyam tantárgyainak témakörei
+Az alapfokú iparjogvédelmi tanfolyam tantárgyainak témakörei
 
 1. Szabadalmi jog:
 

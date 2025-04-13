@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1-20-06
 | --- | --- | --- |
 | 2015-01-30 | 2015-1-20-06.1 | 1/2015. (I. 22.) IM rendelet |
 | 2015-01-31 | 2015-1-20-06.2 | 2010: CXXX. törvény |
+| 2025-04-13 | 2015-1-20-06.3 | 2/2025. (III. 13.) KIM rendelet |

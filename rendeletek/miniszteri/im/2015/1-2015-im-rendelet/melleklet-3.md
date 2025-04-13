@@ -1,6 +1,6 @@
 3. melléklet az 1/2015. (I. 22.) IM rendelethez
 
-## A középfokú iparjogvédelmi tanfolyam tantárgyainak témakörei
+A középfokú iparjogvédelmi tanfolyam tantárgyainak témakörei
 
 1. Szabadalmi jog:
 

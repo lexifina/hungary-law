@@ -1,6 +1,6 @@
 4. melléklet az 1/2015. (I. 22.) IM rendelethez
 
-## A felsőfokú iparjogvédelmi tanfolyam tantárgyainak témakörei
+A felsőfokú iparjogvédelmi tanfolyam tantárgyainak témakörei
 
 1. Az iparjogvédelem gazdasági és jogi alapjai:
 

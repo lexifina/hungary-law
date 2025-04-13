@@ -1,6 +1,6 @@
 6. melléklet az 1/2015. (I. 22.) IM rendelethez
 
-## A középfokú szerzői jogi tanfolyam tantárgyainak témakörei
+A középfokú szerzői jogi tanfolyam tantárgyainak témakörei
 
 1. A szerzői jog alapjai:
 
