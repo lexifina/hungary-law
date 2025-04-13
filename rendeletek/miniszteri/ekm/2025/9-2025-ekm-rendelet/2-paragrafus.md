@@ -1,0 +1,3 @@
+2. § (1) Ha a közlekedési hatóság a hatósági eljárás során több építmény engedélyezése tárgyában dönt, a díjat az 1. melléklet szerint, építményenként, létesítményenként, útszakaszonként kell megállapítani.
+
+(2) Ha a közúthoz a közút kezelőjének hozzájárulása nélkül vagy az abban foglaltaktól eltérően létesítenek útcsatlakozást, illetve a közutat hozzájárulás nélkül vagy az abban foglaltaktól eltérően vették igénybe, a közlekedési hatóság az 1. mellékletben foglalt táblázat 146. sorában megállapított útügyi hatósági eljárás díjának megfizetésére az útcsatlakozás létesítőjét, illetve a közutat szabálytalanul igénybe vevőt kötelezi.
