@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-19-20-0
 | 2019-01-18 | 2005-19-20-0L.12 | 34/2018. (XII. 18.) ITM rendelet |
 | 2024-01-01 | 2005-19-20-0L.13 | 9/2023. (VIII. 31.) KIM rendelet |
 | 2024-09-08 | 2005-19-20-0L.14 | 31/2024. (VIII. 8.) KIM rendelet |
+| 2025-04-13 | 2005-19-20-0L.15 | 2/2025. (III. 13.) KIM rendelet |

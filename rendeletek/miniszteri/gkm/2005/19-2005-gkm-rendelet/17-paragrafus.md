@@ -1,5 +1,5 @@
-## 16. §[^46] Bármely iparjogvédelmi ügyben a jogutódlás és a hasznosítási, illetve használati engedély tárgyában a tudomásulvételre, jelzálogjog esetén a bejegyzésre irányuló kérelem díja ügyenként 16 500 forint; a szolgálati találmány és használati minta feltalálójának, a szolgálati növényfajta nemesítőjének, valamint a szolgálati formatervezési minta és topográfia szerzőjének jogszerzése esetén 3500 forint.
-
 ## A másolat, kivonat és hitelesítés díja
 
-[^46]: A 16. § a 35/2011. (XII. 22.) KIM rendelet 13. §-ával megállapított szöveg.
+17. §[^92] Az iparjogvédelmi eljárásban az iratról (pl. jegyzőkönyvről) készített másolat, illetőleg kivonat díja oldalanként 400 forint. A hitelesítés díja iratonként 4000 forint. Ha a másolat számítógéppel olvasható, elektronikus adathordozóról ugyanilyen adathordozóra készül, a másolat, illetve a kivonat díja az oldalszámtól függetlenül 1300 forint.
+
+[^92]: A 17. § a 2/2025. (III. 13.) KIM rendelet 6. § 63. pontja szerint módosított szöveg.

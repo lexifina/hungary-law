@@ -1,6 +1,6 @@
-25. § (1)[^57] Ha a Hivatal részére teljesített befizetés rendeltetése nem azonosítható, a befizetőt a Hivatal hiánypótlásra hívja fel.
+25. § (1)[^104] Ha a Hivatal részére teljesített befizetés rendeltetése vagy a befizető nem azonosítható, de a visszafizetéshez szükséges adatok rendelkezésre állnak, a Hivatal a befizetett összeget visszafizeti.
 
-(2)[^58] Ha a befizető nem azonosítható vagy nem értesíthető, illetve a hiánypótlás eredménytelen, de a visszafizetéshez szükséges adatok a Hivatal rendelkezésére állnak, a Hivatal a befizetett összeget visszafizeti.
+(2)[^105]
 
-[^57]: A 25. § (1) bekezdése a 23/2010. (XII. 28) KIM rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^58]: A 25. § (2) bekezdése a 23/2010. (XII. 28) KIM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^104]: A 25. § (1) bekezdése a 2/2025. (III. 13.) KIM rendelet 5. §-ával megállapított szöveg.
+[^105]: A 25. § (2) bekezdését a 2/2025. (III. 13.) KIM rendelet 7. § f) pontja hatályon kívül helyezte.

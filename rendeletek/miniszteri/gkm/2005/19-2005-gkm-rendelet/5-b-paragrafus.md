@@ -1,1 +1,3 @@
-5/B. § A kedvezményezett vállalkozásnak az Szt. 115/O. § (1a) és (2a) bekezdése szerinti támogatáshoz kapcsolódó iratokat az odaítélést követő 10 évig meg kell őriznie, és a támogatást nyújtó ilyen irányú felhívása esetén a kedvezményezett vállalkozás köteles azokat bemutatni. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni.
+5/B. §[^27]
+
+[^27]: Az 5/B. §-t a 2/2025. (III. 13.) KIM rendelet 7. § b) pontja hatályon kívül helyezte.
