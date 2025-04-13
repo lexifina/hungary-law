@@ -1,5 +1,3 @@
-5. § Hatályát veszti az R.
+5. §[^6]
 
-a) 1. § (1) bekezdésében az „(a továbbiakban együtt: szakmai díj)” szövegrész és
-
-b) 1. § (2) bekezdésében az „(a továbbiakban együtt: elismerő oklevél)” szövegrész.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
