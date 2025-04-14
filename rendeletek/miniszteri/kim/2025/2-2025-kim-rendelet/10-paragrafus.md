@@ -1,7 +1,3 @@
-10. § Hatályát veszti a 12/2013. (II. 12.) EMMI rendelet
+10. §[^11]
 
-a) 1. § (1a) bekezdésében a „szakmai gyakorlóhely vagy” szövegrész,
-
-b) 1. melléklet A) pontjában foglalt táblázat A:11 mezőjében a „tudományterületen, illetve új tudományágban történő” szövegrész,
-
-c) 5. mellékletében foglalt táblázat 49. sora.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -14,44 +14,6 @@
 
 ## 1. A Magyar Szabadalmi Hivatal előtti iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló 19/2005. (IV. 12.) GKM rendelet módosítása
 
-1. § A Magyar Szabadalmi Hivatal előtti iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló 19/2005. (IV. 12.) GKM rendelet [a továbbiakban: 19/2005. (IV. 12.) GKM rendelet] 3. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-„(6) Nukleotid- vagy aminosav-szekvenciák feltárását tartalmazó szabadalmi bejelentés esetén a szabadalmi leírás részét képező szekvencialista után fizetendő megadási díj a szekvencialista oldalszámától függetlenül 120 000 forint.
-
-(7) A szabadalmi fenntartási díj összege
-
-1. a harmadik évre 10 000 forint;
-
-2. a negyedik évre 75 000 forint;
-
-3. az ötödik évre 104 000 forint;
-
-4. a hatodik évre 141 000 forint;
-
-5. a hetedik évre 141 000 forint;
-
-6. a nyolcadik évre 141 000 forint;
-
-7. a kilencedik évre 141 000 forint;
-
-8. a tizedik évre 141 000 forint;
-
-9. a tizenegyedik évre 200 000 forint;
-
-10. a tizenkettedik évre 200 000 forint;
-
-11. a tizenharmadik évre 208 000 forint;
-
-12. a tizennegyedik évre 208 000 forint;
-
-13. a tizenötödik évre 208 000 forint;
-
-14. a tizenhatodik évre 208 000 forint;
-
-15. a tizenhetedik évre 215 000 forint;
-
-16. a tizennyolcadik évre 215 000 forint;
-
-17. a tizenkilencedik évre 223 000 forint;
-
-18. a huszadik évre 223 000 forint.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

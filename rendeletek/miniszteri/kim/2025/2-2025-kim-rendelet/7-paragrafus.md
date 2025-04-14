@@ -1,15 +1,3 @@
-7. § Hatályát veszti a 19/2005. (IV. 12.) GKM rendelet
+7. §[^8]
 
-a) 3. § (8) bekezdése,
-
-b) 5/A–5/C. §-a,
-
-c) 10. § (2a) bekezdése,
-
-d) 21. § (2) bekezdése,
-
-e) 24. § (2) bekezdése,
-
-f) 25. § (2) bekezdése,
-
-g) 27. § (7) bekezdése.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
