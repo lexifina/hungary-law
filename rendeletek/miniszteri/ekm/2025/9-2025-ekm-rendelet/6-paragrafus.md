@@ -1,1 +1,3 @@
-6. § Hatályát veszti az útügyi hatósági eljárások díjairól szóló 26/1997. (XII. 12.) KHVM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
