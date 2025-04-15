@@ -1,0 +1,5 @@
+9. § (1) Az OIHF e rendelet szerinti tájékoztatásának címzettjei a tájékoztatásban foglalt adatok kezelése során gondoskodnak arról, hogy védett adat ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására.
+
+(2) A kijelölt szolgáltató a teljes hálózatát érintő vagy az általa nyújtott – a 4. § (1) bekezdésében felsorolt bármely – szolgáltatás összes felhasználóját érintő szolgáltatáskimaradásról az OIHF-hez való bejelentéssel egyidejűleg tájékoztatást tesz közzé az ügyfélszolgálati helyiségében, valamint – ha objektív műszaki ok nem teszi lehetetlenné – az internetes honlapján. A kijelölt szolgáltató a szolgáltatáskimaradásról a telefonszolgáltatás igénybevételével elérhető ügyfélszolgálatán keresztül is tájékoztatást ad, kivéve, ha objektív műszaki ok ezt lehetetlenné teszi.
+
+(3) A Magyarország egész területét érintő szolgáltatáskimaradásról, valamint – az információ rendelkezésre állása esetén – a hibaelhárítás érdekében tervezett intézkedésről és a hibaelhárítás várható időpontjáról a Hatóság a honlapján – az első bejelentést vagy a tudomásszerzést követően haladéktalanul – közleményt tesz közzé.

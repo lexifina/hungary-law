@@ -1,0 +1,1 @@
+11. § Hatályát veszti az informatikai és elektronikus hírközlési, továbbá a postai ágazat ügyeleti rendszeréről, valamint a szolgáltatók bejelentési és kapcsolattartási kötelezettségeiről szóló 4/2016. (VII. 28.) NMHH rendelet.
