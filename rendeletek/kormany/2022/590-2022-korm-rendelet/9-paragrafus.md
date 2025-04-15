@@ -58,7 +58,7 @@ b) a 256/2021. (V. 18.) Korm. rendelet 168. § (1) bekezdése
 
 szerinti költségnövekménynek minősülő kiadás finanszírozásához szükséges, az előirányzat-felhasználásról az a) pont szerinti esetben az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 3–6. §-a szerint, a b) pont szerinti esetben a 256/2021. (V. 18.) Korm. rendelet 171–173. §-a szerint a Kormány egyedi ügyben hozott nyilvános határozatban dönt.
 
-(4a)[^25] Ha az (1) bekezdés f) pontja szerinti esetben az előirányzat-felhasználás a 272/2014. (XI. 5.) Korm. rendelet 156. § (8a) bekezdése, a 256/2021. (V. 18.) Korm. rendelet 385. § (2) bekezdése vagy a 373/2022. (IX. 30.) rendelet 203. § (5d) bekezdése alapján szükséges, az előirányzat-felhasználásról – a fejezetet irányító szerv vezetője és az államháztartásért felelős miniszter egyidejű tájékoztatása mellett – az előirányzat kezelő szerve dönt.
+(4a)[^25] Ha az (1) bekezdés f) pontja szerinti esetben az előirányzat-felhasználás a 272/2014. (XI. 5.) Korm. rendelet 156. § (8a) bekezdése, a 256/2021. (V. 18.) Korm. rendelet 385. § (2) bekezdése, a 373/2022. (IX. 30.) Korm. rendelet 203. § (5d) bekezdése vagy a 241/2023. (VI. 20.) Korm. rendelet 26. § (5) bekezdése alapján szükséges, az előirányzat-felhasználásról – a fejezetet irányító szerv vezetője és az államháztartásért felelős miniszter egyidejű tájékoztatása mellett – az előirányzat kezelő szerve dönt.
 
 (5) A Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat terhére megvalósuló projektek esetében az Európai Bizottság felé el nem számolható, a 373/2022. (IX. 30.) Korm. rendelet 2. § 6. pontjában meghatározott Helyreállítási és Ellenállóképességi Terv Európai Bizottság felé elszámolható összköltségének legfeljebb 5%-át kitevő kiadások erejéig az (1) bekezdés f) pontja szerinti előirányzat-felhasználáshoz az államháztartásért felelős miniszter jóváhagyása nem szükséges.
 
@@ -71,4 +71,4 @@ szerinti költségnövekménynek minősülő kiadás finanszírozásához szüks
 [^22]: A 9. § (1) bekezdés n) pontja az 51/2024. (III. 4.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
 [^23]: A 9. § (1) bekezdés o) pontját az 51/2024. (III. 4.) Korm. rendelet 3. § (4) bekezdése iktatta be.
 [^24]: A 9. § (2) bekezdése a 416/2023. (VIII. 31.) Korm. rendelet 25. § (1) bekezdésével megállapított, az 51/2024. (III. 4.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^25]: A 9. § (4a) bekezdését a 416/2023. (VIII. 31.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege az 51/2024. (III. 4.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^25]: A 9. § (4a) bekezdését a 416/2023. (VIII. 31.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 69/2025. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-590-20-
 | 2024-08-01 | 2022-590-20-22.7 | 218/2024. (VII. 31.) Korm. rendelet |
 | 2024-09-27 | 2022-590-20-22.8 | 279/2024. (IX. 26.) Korm. rendelet |
 | 2025-03-27 | 2022-590-20-22.9 | 58/2025. (III. 26.) Korm. rendelet |
+| 2025-04-15 | 2022-590-20-22.10 | 416/2023. (VIII. 31.) Korm. rendelet |
