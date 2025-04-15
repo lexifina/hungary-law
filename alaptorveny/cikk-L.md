@@ -1,6 +1,6 @@
 L) cikk
 
-(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az anya nő, az apa férfi.
+(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az ember férfi vagy nő. Az anya nő, az apa férfi.
 
 (2) Magyarország támogatja a gyermekvállalást.
 

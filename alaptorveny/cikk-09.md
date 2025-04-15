@@ -54,7 +54,7 @@ g)
 
 h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;
 
-i) dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;
+i) a felfüggesztés kivételével dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;
 
 j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.
 
