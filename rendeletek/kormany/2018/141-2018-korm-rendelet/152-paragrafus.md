@@ -1,4 +1,4 @@
-152. §[^494] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 278/2024. (IX. 26.) Korm. rendelettel (a továbbiakban: Módr144.) módosított 2. mellékletében foglalt táblázat 132. sorát a Módr144. hatálybalépésekor[^495] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+152. §[^495] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 278/2024. (IX. 26.) Korm. rendelettel (a továbbiakban: Módr144.) módosított 2. mellékletében foglalt táblázat 132. sorát a Módr144. hatálybalépésekor[^496] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^494]: A 152. §-t a 278/2024. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
-[^495]: A hatálybalépés időpontja 2024. szeptember 27.
+[^495]: A 152. §-t a 278/2024. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
+[^496]: A hatálybalépés időpontja 2024. szeptember 27.

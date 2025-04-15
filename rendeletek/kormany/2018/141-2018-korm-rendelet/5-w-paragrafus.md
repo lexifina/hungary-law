@@ -1,4 +1,4 @@
-5/W. §[^106] (1) A 2. mellékletben foglalt táblázat 123. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:123 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/W. §[^107] (1) A 2. mellékletben foglalt táblázat 123. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:123 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési eszköz és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -28,4 +28,4 @@ j) a telket vagy annak egy részét a közforgalom számára nem kell megnyitni,
 
 k) a telek beépítési módja nem korlátozott.
 
-[^106]: Az 5/W. §-t a 429/2023. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
+[^107]: Az 5/W. §-t a 429/2023. (IX. 14.) Korm. rendelet 6. §-a iktatta be.

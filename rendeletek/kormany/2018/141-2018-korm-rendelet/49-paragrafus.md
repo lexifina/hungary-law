@@ -1,4 +1,4 @@
-## 48. §[^288] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 635/2020. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr40.) megállapított 2. mellékletben foglalt táblázat 56. és 57. sorát a Módr40. hatálybalépésekor[^289] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 48. §[^289] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 635/2020. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr40.) megállapított 2. mellékletben foglalt táblázat 56. és 57. sorát a Módr40. hatálybalépésekor[^290] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^288]: A 48. §-t a 635/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
-[^289]: A hatálybalépés időpontja 2020. december 23.
+[^289]: A 48. §-t a 635/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^290]: A hatálybalépés időpontja 2020. december 23.
