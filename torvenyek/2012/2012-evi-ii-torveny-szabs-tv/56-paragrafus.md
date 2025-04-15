@@ -15,3 +15,5 @@ a) a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyi
 b) a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 28. §-a alapján vezetett nyilvántartásból.
 
 (4) Ha az adatigénylés nem vezetett az eljárás alá vont személy vagy tanú feltalálásához, a bíróság, a szabálysértési hatóság az eljárás alá vont személy vagy tanú utolsó ismert lakóhelye vagy tartózkodási helye szerint illetékes rendőri szerv közreműködését kéri. A megkeresett rendőri szerv jogosult felvilágosítást kérni az eljárás alá vont személy vagy tanú hollétéről az utolsó ismert lakóhelyén vagy tartózkodási helyén. Amennyiben a megkeresett rendőri szervnek hivatalból tudomása van a keresett személy lakó-, tartózkodási helyéről, azt közli a megkereső szervvel.
+
+(5) Szabálysértés elkövetésével gyanúsítható személy személyazonosságának megállapítása érdekében, ha az elkövető ismeretlen, a bíróság, a szabálysértési hatóság, az előkészítő eljárást lefolytató szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározottak szerint az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét veheti igénybe.

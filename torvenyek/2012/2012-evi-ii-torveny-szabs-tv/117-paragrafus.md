@@ -22,4 +22,4 @@
 
 (8) Ha a szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy lakóhelye, illetve tartózkodási helye ismeretlen, lakóhelyének, illetve tartózkodási helyének megállapítása, valamint előállítása érdekében a bíróság vagy az előkészítő eljárást folytató szerv a körözését rendelheti el. A körözést vissza kell vonni, ha az elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.
 
-(9) Szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy személyazonosságának megállapítása érdekében, amennyiben az elkövető ismeretlen, a bíróság vagy az előkészítő eljárást lefolytató szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározottak szerint az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét veheti igénybe.
+(9)

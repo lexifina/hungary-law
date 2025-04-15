@@ -4,7 +4,7 @@
 
 a) a bejelentési kötelezettség alá eső gyűlést bejelentési kötelezettsége elmulasztásával szervez,
 
-b)
+b) a gyülekezési jogról szóló 2018. évi LV. törvény 13/A. § (1) bekezdése szerint tilos gyűlést a gyülekezési jogról szóló törvény kijátszásával a gyűlés szervezőjeként vagy vezetőjeként szervez, megtart, valamint aki az ilyen gyűlésen felhívás alapján megjelenik és – a rendőrségnek a gyűlés helyszínen megtett, a gyűlés tilalmazott jellegéről való kifejezett tájékoztatása ellenére – azon részt vesz,
 
 c) a gyülekezési hatóság által tudomásul vett bejelentésben megjelölttől eltérő helyszínre, útvonalra vagy időpontra szervezi a rendezvényt, vagy a résztvevőket a bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre hívja fel,
 
@@ -38,6 +38,12 @@ szabálysértést követ el.
 
 (4) Nem valósul meg szabálysértés az (1) bekezdés c) pontja alapján, ha a gyülekezési hatóság által tudomásul vett bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre a gyűlés megtartásától független külső ok miatt kerül sor.
 
-(5)
+(5) Az e §-ban meghatározott szabálysértés miatt kiszabott helyszíni bírság vagy pénzbírság
 
-(6)
+a) közérdekű munkával történő megváltásának, valamint
+
+b) szabálysértési elzárásra történő átváltoztatásának
+
+nincs helye.
+
+(6) Az (1) bekezdés b) pontja szerinti szabálysértéssel összefüggésben megfizetett vagy behajtott pénzbírságot és helyszíni bírságot az állam a gyermekvédelem céljaira fordítja.
