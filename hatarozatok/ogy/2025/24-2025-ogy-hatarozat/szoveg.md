@@ -1,0 +1,1 @@
+Az Országgyűlés Tompos Márton Kristóf országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE.2877/2025/2-I. számú indítványára szándékos rongálással elkövetett tulajdon elleni szabálysértés gyanúja miatt a Budapesti Rendőr-főkapitányság VIII. kerületi Rendőrkapitánysága mint szabálysértési előkészítő hatóság előtt 01081/340/2024. ált. számon indított ügyben felfüggeszti.
