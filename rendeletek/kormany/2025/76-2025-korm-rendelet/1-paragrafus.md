@@ -1,0 +1,3 @@
+1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) a következő 4/H. §-sal egészül ki:
+
+„4/H. § A 2. mellékletben foglalt táblázat 137. sora szerinti beruházással érintett ingatlanon és az abból telekalakítási eljárás keretében létrejövő telkek területén munkásszállás elhelyezhető.”
