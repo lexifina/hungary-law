@@ -1,4 +1,4 @@
-60. §[^30] (1) Az 1. § (1) bekezdés c) pontja szerinti program esetén külföldi TA partnerek részére uniós előleg fizethető ki.
+60. §[^37] (1) Az 1. § (1) bekezdés c) pontja szerinti program esetén külföldi TA partnerek részére uniós előleg fizethető ki.
 
 (2) A külföldi TA partnerekre jutó uniós források kezelésére az irányító hatóság TA forráskezelési támogatási szerződést köt a közös titkársággal.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a TA forráskezelési támogatási szerződés alapját képező külön megállapodás módosul, melynek következtében változik a külföldi TA partnereke jutó uniós források együttes összege, a TA forráskezelési támogatási szerződést is módosítani szükséges.
 
-[^30]: A 60. § a 66/2024. (III. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^37]: A 60. § a 66/2024. (III. 28.) Korm. rendelet 5. §-ával megállapított szöveg.

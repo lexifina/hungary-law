@@ -1,6 +1,6 @@
 ## 28. Interreg VI-A IPA Magyarország–Szerbia Program
 
-75. §[^41] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
+75. §[^48] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
 
 1. az éghajlatváltozáshoz való alkalmazkodás és a katasztrófakockázatok megelőzése, valamint a reziliencia előmozdítása, figyelembe véve az ökoszisztéma-alapú megközelítéseket,
 
@@ -16,4 +16,4 @@
 
 7. a határátkelés igazgatása, valamint a mobilitás és a migráció kezelése területén végrehajtott tevékenységek, ideértve a harmadik országbeli személyek védelmét, valamint gazdasági és társadalmi integrációját.
 
-[^41]: A 75. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 15. pontja szerint módosított szöveg.
+[^48]: A 75. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 15. pontja szerint módosított szöveg.

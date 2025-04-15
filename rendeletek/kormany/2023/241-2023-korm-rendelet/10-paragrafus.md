@@ -6,7 +6,7 @@
 
 a) 1. § (1) bekezdés a)–c) pontja szerinti program esetén az irányító hatóság által meghozott, 49. § (3) bekezdése szerinti kifizetésre jóváhagyó döntés és
 
-b)[^18] 1. § (1) bekezdés d)–g) pontja szerinti program esetén az uniós támogatásnak a hazai partner számláján történő jóváírása
+b)[^20] 1. § (1) bekezdés d)–g) pontja szerinti program esetén az uniós támogatásnak a hazai partner számláján történő jóváírása
 
 számít.
 
@@ -20,4 +20,4 @@ számít.
 
 (8) A pénzügyi átutalási egység a Kincstár által kiállított pénzforgalmi számlakivonat adatait a terhelést vagy jóváírást követő öt munkanapon belül rögzíti és hagyja jóvá a NAHU rendszerben.
 
-[^18]: A 10. § (3) bekezdés b) pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. és 7. pontja szerint módosított szöveg.
+[^20]: A 10. § (3) bekezdés b) pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. és 7. pontja szerint módosított szöveg.

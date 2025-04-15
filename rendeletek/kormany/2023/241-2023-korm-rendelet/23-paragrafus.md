@@ -6,6 +6,6 @@ a) lefolytatja a szabálytalansági vizsgálatokat,
 
 b) összeállítja a szabálytalanságokkal és pénzügyi hibákkal kapcsolatos jelentéseket, valamint
 
-c)[^26] gondoskodik a szabálytalanságokkal és pénzügyi hibákkal kapcsolatos adatoknak a NAHU és az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén az INTERREG+ rendszerbe való feltöltéséről.
+c)[^30] gondoskodik a szabálytalanságokkal és pénzügyi hibákkal kapcsolatos adatoknak a NAHU és az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén az INTERREG+ rendszerbe való feltöltéséről.
 
-[^26]: A 23. § (2) bekezdés c) pontja a 66/2024. (III. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^30]: A 23. § (2) bekezdés c) pontja a 66/2024. (III. 28.) Korm. rendelet 4. §-ával megállapított szöveg.

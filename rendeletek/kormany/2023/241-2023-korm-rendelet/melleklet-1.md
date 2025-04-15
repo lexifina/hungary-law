@@ -1,4 +1,4 @@
-1. melléklet a 241/2023. (VI. 20.) Korm. rendelethez[^75]
+1. melléklet a 241/2023. (VI. 20.) Korm. rendelethez[^82]
 
 A 2021–2027-es időszakban a határon átnyúló Interreg programok végrehajtásában részt vevő hazai szervezetek kijelölése
 
@@ -26,4 +26,4 @@ A 2021–2027-es időszakban a határon átnyúló Interreg programok végrehajt
 
 | 11. | nemzeti hatóság feladatainak végrehajtásában közreműködő szervezet | Széchenyi Programiroda Nonprofit Kft. | Széchenyi Programiroda Nonprofit Kft. | Széchenyi Programiroda Nonprofit Kft. | Széchenyi Programiroda Nonprofit Kft. | Széchenyi Programiroda Nonprofit Kft. | Széchenyi Programiroda Nonprofit Kft. | Széchenyi Programiroda Nonprofit Kft. |
 
-[^75]: Az 1. melléklet a 66/2024. (III. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^82]: Az 1. melléklet a 66/2024. (III. 28.) Korm. rendelet 19. §-ával megállapított szöveg.

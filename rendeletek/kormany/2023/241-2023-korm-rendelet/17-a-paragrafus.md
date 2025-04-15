@@ -1,0 +1,13 @@
+17/A. §[^26] (1) Ha a közbeszerzés központosított közbeszerzés alkalmazásával valósul meg, az elszámolhatóság feltétele, hogy a központi beszerző szerv által lefolytatott dinamikus beszerzési rendszer létrehozására vagy keretmegállapodás megkötésére irányuló közbeszerzési eljárás – beleértve az ennek eredményeként megkötött szállítói szerződés módosítását is – rendelkezzen a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet [a továbbiakban: 256/2021. (V. 18.) Korm. rendelet] szerinti, a Nemzeti Fejlesztési Központ által kiállított, támogató tartalmú közbeszerzési záró tanúsítvánnyal vagy utóellenőrzésről készült jelentéssel.
+
+(2) A központosított közbeszerzés személyi és tárgyi hatálya alá tartozó vagy ahhoz önként csatlakozó hazai partner a beszerzési igénye központi beszerző szervezethez történő bejelentésekor köteles feltüntetni a projekt azonosító számát, valamint azt, hogy a beszerzés részben európai uniós forrásból valósul meg, és az elszámolhatóság feltétele az (1) bekezdés szerinti támogató tartalmú tanúsítvány vagy utóellenőrzésről készült jelentés rendelkezésre állása.
+
+(3) A központi beszerző szerv az általa lefolytatott közbeszerzési eljárás vonatkozásában az (1) bekezdés szerinti támogató tartalmú közbeszerzési záró tanúsítvány vagy utóellenőrzésről készült jelentés kiállítását a Nemzeti Fejlesztési Központnál közvetlenül kezdeményezheti.
+
+(4) A Nemzeti Fejlesztési Központnak a központi beszerző szerv által lefolytatott közbeszerzési eljárás, keretmegállapodás vagy dinamikus beszerzési rendszer közbeszerzési elszámolhatóságának ellenőrzésére irányuló eljárására a 256/2021. (V. 18.) Korm. rendelet 50–52. alcímének központosított közbeszerzésre vonatkozó rendelkezéseit kell alkalmazni, azzal az eltéréssel, hogy az eljárásban a határon átnyúló Interreg programok végrehajtásában részt vevő szervezetek nem vesznek részt.
+
+(5) A Nemzeti Fejlesztési Központ az utóellenőrzésről készült jelentés kiállításáról tájékoztatja a központi beszerző szervet. A központi beszerző szerv a záró tanúsítványt vagy az utóellenőrzésről készült jelentést közzéteszi vagy az érintett hazai partner rendelkezésére bocsájtja, aki azt a határon átnyúló Interreg program elektronikus monitoring és információs rendszerébe feltölti.
+
+(6) Amennyiben a keretmegállapodás vagy a dinamikus beszerzési rendszer a 26. § (3) bekezdése szerinti elszámolhatósági korláttal érintett, a partner beszerzése is csak arányos részében hitelesíthető.
+
+[^26]: A 17/A. §-t a 69/2025. (IV. 7.) Korm. rendelet 5. §-a iktatta be.

@@ -4,7 +4,7 @@ a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 7
 
 b) a támogatás összege nem haladhatja meg az elszámolható költségek és a projektből származó bevételek jelenértékének különbségét, azzal, hogy a bevételeket az elszámolható költségekből előzetesen vagy visszakövetelési mechanizmus alkalmazásával kell levonni.
 
-(2)[^64] A zenei és irodalmi alkotások kiadásához nyújtott támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
+(2)[^71] A zenei és irodalmi alkotások kiadásához nyújtott támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
 
 a) a szerző díjazása, ideértve a szerzői joggal kapcsolatos költséget is,
 
@@ -18,4 +18,4 @@ e) az elrendezés és nyomdai előkészítés költsége és
 
 f) a nyomtatás vagy elektronikus közzététel költsége.
 
-[^64]: A 99. § (2) bekezdése a 66/2024. (III. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^71]: A 99. § (2) bekezdése a 66/2024. (III. 28.) Korm. rendelet 15. §-ával megállapított szöveg.

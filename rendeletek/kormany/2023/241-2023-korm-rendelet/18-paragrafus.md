@@ -2,7 +2,7 @@
 
 (2) Legalább egy helyszíni ellenőrzést le kell folytatni abban az esetben, ha a projektrész infrastrukturális fejlesztést vagy
 
-a)[^24] az 1. § (1) bekezdés a), valamint d)–g) pontja szerinti programok esetén 10 000 euró feletti eszközbeszerzést vagy
+a)[^27] az 1. § (1) bekezdés a), valamint d)–g) pontja szerinti programok esetén 10 000 euró feletti eszközbeszerzést vagy
 
 b) az 1. § (1) bekezdés b) és c) pontja szerinti programok esetén 20 000 euró feletti eszközbeszerzést
 
@@ -32,4 +32,4 @@ h) az elkülönített számviteli nyilvántartás vezetését.
 
 (6) A helyszíni ellenőrzésről készült jegyzőkönyvet a hitelesítési tevékenységet végző szervezet feltölti a határon átnyúló Interreg programok elektronikus monitoring és információs rendszerébe.
 
-[^24]: A 18. § (2) bekezdés a) pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^27]: A 18. § (2) bekezdés a) pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
