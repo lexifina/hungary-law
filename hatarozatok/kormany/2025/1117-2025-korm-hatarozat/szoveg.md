@@ -2,4 +2,6 @@
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a Budai Várnegyed, a Citadella és a visegrádi műemlék-együttes területén megvalósuló kormányzati beruházásokkal kapcsolatos egyes feladatok ellátásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1277/2022. (V. 27.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
