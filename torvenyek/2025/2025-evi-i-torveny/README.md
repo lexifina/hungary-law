@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-1-00-00
 | --- | --- | --- |
 | 2023-03-06 | 2025. évi I. törvény | 2025-1-00-00.0 (közlönyállapot) |
 | 2023-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-1-00-00.1 |
+| 2025-04-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-1-00-00.2 |
