@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-76-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-04-15 | 2025-76-20-22.1 | 76/2025. (IV. 14.) Korm. rendelet |
+| 2025-04-16 | 2025-76-20-22.2 | 2010. évi CXXX. törvény |
