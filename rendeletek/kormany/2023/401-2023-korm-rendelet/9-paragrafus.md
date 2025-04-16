@@ -68,7 +68,7 @@ a) legalább érettségivel és katonai szakképzettséggel,
 
 b) honvéd altiszt, vagy azzal egyenértékű képzéssel, vagy
 
-c) katonai alapkiképzéssel és legalább három év katonai szolgálati viszonnyal
+c)[^6] katonai alapkiképzéssel és érettségivel, valamint katonai szolgálati viszonnyal
 
 rendelkezik.
 
@@ -81,3 +81,4 @@ b) a Magyar Honvédség által szervezett, kizárólag katonai munkakör betölt
 [^3]: A 9. § (6) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^4]: A 9. § (14) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^5]: A 9. § (15) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^6]: A 9. § (17) bekezdés c) pontja a 77/2025. (IV. 15.) Korm. rendelet 6. §-a szerint módosított szöveg.

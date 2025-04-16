@@ -2,13 +2,13 @@
 
 | 1. | A nevelő-oktató munka pedagógiai szakaszai / Nevelési-oktatási intézmények | Pedagógus-munkakör | Az alkalmazáshoz szükséges szakképzettség |
 
-| 2. | Óvodai nevelés | óvodapedagógus | óvodapedagógus, óvodai nevelő[^65] |
+| 2. | Óvodai nevelés | óvodapedagógus | óvodapedagógus, óvodai nevelő[^66] |
 
 | 3. | Alsó tagozat | tanító | tanító |
 
 | 4. | 5–8. évfolyam | tanár | a tantárgynak megfelelő szakos tanár, tanító |
 
-| 5. | 9–12. évfolyam gimnáziumban, szakgimnáziumban[^66] | gimnáziumi, szakgimnáziumi tanár[^67] | mesterfokozatú (az általános iskolai tanár kivételével), a tantárgynak megfelelő szakos tanár |
+| 5. | 9–12. évfolyam gimnáziumban, szakgimnáziumban[^67] | gimnáziumi, szakgimnáziumi tanár[^68] | mesterfokozatú (az általános iskolai tanár kivételével), a tantárgynak megfelelő szakos tanár |
 
 | 6. | Szakgimnázium (pedagógiai, közművelődési) | szakmai tantárgyat oktató tanár | a szakmai tantárgynak megfelelő szakos felsőfokú szakképzettség |
 
@@ -66,6 +66,6 @@ A nevelő és oktató munkát közvetlenül segítő munkakörök, valamint a ga
 
 A) A köznevelési foglalkoztatotti jogviszonyban álló nevelő és oktató munkát közvetlenül segítő munkakörök képesítési szintjei
 
-[^65]: A 2. mellékletben foglalt táblázat C:2 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 14. pontja szerint módosított szöveg.
-[^66]: A 2. mellékletben foglalt táblázat A:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 12. pontjával megállapított szöveg.
-[^67]: A 2. mellékletben foglalt táblázat B:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 13. pontjával megállapított szöveg.
+[^66]: A 2. mellékletben foglalt táblázat C:2 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 14. pontja szerint módosított szöveg.
+[^67]: A 2. mellékletben foglalt táblázat A:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 12. pontjával megállapított szöveg.
+[^68]: A 2. mellékletben foglalt táblázat B:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 13. pontjával megállapított szöveg.

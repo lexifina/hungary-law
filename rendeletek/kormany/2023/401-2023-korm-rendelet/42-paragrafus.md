@@ -1,6 +1,6 @@
 ## 17. A szakmai gyakorlat számítása
 
-42. § (1)[^33] A magasabb fokozatba történő előrelépéshez és a gyakornoki idő teljesítéséhez szükséges szakmai gyakorlatnak kell elfogadni
+42. § (1)[^34] A magasabb fokozatba történő előrelépéshez és a gyakornoki idő teljesítéséhez szükséges szakmai gyakorlatnak kell elfogadni
 
 a) a pedagógus-munkakörben foglalkoztatási jogviszonyban vagy pedagógus munkakörbe tartozó feladatok ellátására egyházi szolgálati jogviszonyban,
 
@@ -32,4 +32,4 @@ töltött jogszerű foglalkoztatás idejét.
 
 (3) Ha a pedagógus-munkakörben foglalkoztatott személy korábbi munkáltatója a gyermekjóléti, gyermekvédelmi alaptevékenységet ellátó intézményre vonatkozó szabály alapján az (1) bekezdésben foglaltakon kívüli időt is szakmai gyakorlatként vett figyelembe, az e rendelet hatálya alá tartozó munkáltatónál létesített köznevelési foglalkoztatotti jogviszonyban a korábban figyelembe vett szakmai gyakorlat időtartama emiatt utóbb nem csökkenthető.
 
-[^33]: A 42. § (1) bekezdés záró szövegrésze a 661/2023. (XII. 29.) Korm. rendelet 19. § 4. pontja szerint módosított szöveg.
+[^34]: A 42. § (1) bekezdés záró szövegrésze a 661/2023. (XII. 29.) Korm. rendelet 19. § 4. pontja szerint módosított szöveg.

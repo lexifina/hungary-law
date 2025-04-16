@@ -22,6 +22,6 @@ h) kommunikáció és szakmai együttműködés, problémamegoldás, valamint
 
 i) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
 
-(3)[^34]
+(3)[^35]
 
-[^34]: A 44. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § d) pontja alapján nem lép hatályba.
+[^35]: A 44. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § d) pontja alapján nem lép hatályba.
