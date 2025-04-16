@@ -160,8 +160,8 @@
 
 2. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez[^3]
 
-## A Balaton-felvidéki Nemzeti Park ingatlan-nyilvántartási helyrajzi számai
+A Balaton-felvidéki Nemzeti Park ingatlan-nyilvántartási helyrajzi számai
 
 II. A korábban védetté nyilvánított területek
 
-[^3]: A 2. számú melléklet a 73/2013. (VIII. 28.) VM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 73/2013. (VIII. 28.) VM rendelet 2. § (1) bekezdése, a 8/2025. (IV. 15.) AM rendelet 2. §-a szerint módosított szöveg.

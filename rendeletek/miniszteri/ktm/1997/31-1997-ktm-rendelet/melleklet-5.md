@@ -156,7 +156,7 @@
 
 5. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez
 
-## A Balaton-felvidéki Nemzeti Parkhoz csatolt védett természeti területek jegyzéke a jogforrások megjelölésével
+A Balaton-felvidéki Nemzeti Parkhoz csatolt védett természeti területek jegyzéke a jogforrások megjelölésével
 
 1. Badacsonyi Tájvédelmi Körzet
 

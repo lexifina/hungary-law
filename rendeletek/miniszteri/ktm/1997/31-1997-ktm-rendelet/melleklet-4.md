@@ -40,7 +40,7 @@
 
 4. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez[^5]
 
-## A Balaton-felvidéki Nemzeti Park fokozottan védett területének ingatlan-nyilvántartási helyrajzi számai és erdőgazdasági üzemtervi jelei
+A Balaton-felvidéki Nemzeti Park fokozottan védett területének ingatlan-nyilvántartási helyrajzi számai és erdőgazdasági üzemtervi jelei
 
 II. A korábban fokozottan védetté nyilvánított területek
 

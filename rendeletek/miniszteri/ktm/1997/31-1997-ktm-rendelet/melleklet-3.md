@@ -52,7 +52,7 @@
 
 ## Csopak
 
-## 0201/6, 0201/8–9, 0201/16, 0202, 0211, 0212/1, 0225/6, 0225/12, 0225/20, 0225/27, 0225/37, 0225/63, 0225/66–75, 0225/78–102, 0225/104–114, 0225/116–127, 0225/129–130
+## 0201/6, 0201/8–9, 0201/48, 0202, 0211, 0212/1, 0225/6, 0225/12, 0225/20, 0225/27, 0225/37, 0225/63, 0225/66–75, 0225/78–102, 0225/104–114, 0225/116–127, 0225/129–130
 
 ## Dörgicse
 
@@ -232,7 +232,7 @@
 
 3. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez
 
-## A Balaton-felvidéki Nemzeti Park fokozottan védett területének ingatlan-nyilvántartási helyrajzi számai és erdőgazdasági üzemtervi jelei
+A Balaton-felvidéki Nemzeti Park fokozottan védett területének ingatlan-nyilvántartási helyrajzi számai és erdőgazdasági üzemtervi jelei
 
 I. E rendelettel fokozottan védetté nyilvánított területek
 
