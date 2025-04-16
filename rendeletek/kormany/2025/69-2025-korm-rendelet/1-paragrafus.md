@@ -6,6 +6,6 @@
 
 ## 1. Az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet módosítása
 
-1. § Az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (4a) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4a) Ha az (1) bekezdés f) pontja szerinti esetben az előirányzat-felhasználás a 272/2014. (XI. 5.) Korm. rendelet 156. § (8a) bekezdése, a 256/2021. (V. 18.) Korm. rendelet 385. § (2) bekezdése, a 373/2022. (IX. 30.) Korm. rendelet 203. § (5d) bekezdése vagy a 241/2023. (VI. 20.) Korm. rendelet 26. § (5) bekezdése alapján szükséges, az előirányzat-felhasználásról – a fejezetet irányító szerv vezetője és az államháztartásért felelős miniszter egyidejű tájékoztatása mellett – az előirányzat kezelő szerve dönt.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
