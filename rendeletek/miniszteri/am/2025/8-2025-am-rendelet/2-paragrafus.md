@@ -1,0 +1,1 @@
+2. § A Balaton-felvidéki Nemzeti Park létesítéséről szóló 31/1997. (IX. 23.) KTM rendelet 2. számú mellékletében a „Csopak 0201/6, 0201/8–9, 0201/16” szövegrész helyébe a „Csopak 0201/6, 0201/8–9, 0201/48” szöveg lép.
