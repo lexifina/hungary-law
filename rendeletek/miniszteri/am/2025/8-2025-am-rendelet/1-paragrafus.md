@@ -4,4 +4,6 @@
 
 ## [3] A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 3. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Csopaki Kerekedi-öböl Természetvédelmi Terület létesítéséről szóló 9/1992. (III. 25.) KTM rendelet Mellékletében a „0201/16” szövegrész helyébe a „0201/48” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
