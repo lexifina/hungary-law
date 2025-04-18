@@ -64,4 +64,6 @@ f) a tevékenységgel érintett közmű esetén a közmű üzemeltető nyilatkoz
 
 (8) Ha a kérelmező a kérelemhez a (7) bekezdés b) és d) pontja szerinti dokumentumot nem mellékeli, annak beszerzéséről a bányafelügyelet gondoskodik.
 
-(9) A (7) bekezdés e) pontja szerinti költségterv elkészítésére a 42. § (6) bekezdését kell megfelelően alkalmazni.
+(9)[^166] A (7) bekezdés e) pontja szerinti költségterv elkészítésére a 41. § (3) bekezdését kell megfelelően alkalmazni.
+
+[^166]: A 47. § (9) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 24. § e) pontja szerint módosított szöveg.

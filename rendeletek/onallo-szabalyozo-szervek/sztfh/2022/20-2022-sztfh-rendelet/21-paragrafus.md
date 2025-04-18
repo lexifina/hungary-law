@@ -16,7 +16,7 @@ c) a GET szerinti szállítóvezeték-létesítési engedély tartalmazza.
 
 (5) Földgáz elosztóvezeték építése, valamint bővítése az építéssel érintett településre, településrészre, területre elosztói engedéllyel rendelkező engedélyes kérelmére és részére engedélyezhető.
 
-(6)[^76]
+(6)[^80]
 
 (7) A szénhidrogén-szállítóvezetékhez és a szén-dioxid-szállítóvezetékhez kapcsolódó távközlő hálózat technológiai berendezéseihez tartozó, telekhatáron belüli vagy a távközlési hálózat hozzáférési pontjain elhelyezni tervezett létesítmények létesítését a bányafelügyelet engedélyezi.
 
@@ -40,4 +40,4 @@ d) a szerződéssel már lekötött
 
 teljesítőképességen felül rendelkezésre álló kapacitás.
 
-[^76]: A 21. § (6) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 12. § d) pontja hatályon kívül helyezte.
+[^80]: A 21. § (6) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 12. § d) pontja hatályon kívül helyezte.

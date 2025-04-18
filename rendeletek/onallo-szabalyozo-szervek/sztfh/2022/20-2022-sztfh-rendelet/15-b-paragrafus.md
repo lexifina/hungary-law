@@ -8,6 +8,6 @@ c) az eltelt időszakban keletkezett
 
 adatokat.
 
-(2)[^69] A geotermikus védőidom felülvizsgálata eredményeként indokolt esetben a bányafelügyelet intézkedik a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés módosításáról, szükség esetén annak felmondásáról. Nem lehet a szerződést módosítani vagy felmondani, ha ennek következtében ellátatlan fogyasztó maradna.
+(2)[^73] A geotermikus védőidom felülvizsgálata eredményeként indokolt esetben a bányafelügyelet intézkedik a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés módosításáról, szükség esetén annak felmondásáról. Nem lehet a szerződést módosítani vagy felmondani, ha ennek következtében ellátatlan fogyasztó maradna.
 
-[^69]: A 15/B. § (2) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 22. § c) pontja szerint módosított szöveg.
+[^73]: A 15/B. § (2) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 22. § c) pontja szerint módosított szöveg.

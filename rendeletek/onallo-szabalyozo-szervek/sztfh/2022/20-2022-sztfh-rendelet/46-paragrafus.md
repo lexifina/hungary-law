@@ -16,6 +16,6 @@ b) gyűjti, kezeli és szolgáltatja az e tevékenységek során keletkezett fö
 
 a) elrendelheti a veszélyeztető állapot megszüntetését, valamint ellenőrzi annak végrehajtását,
 
-b)[^161]
+b)[^165]
 
-[^161]: A 46. § (2) bekezdés b) pontját a 4/2024. (V. 31.) SZTFH rendelet 12. § e) pontja hatályon kívül helyezte.
+[^165]: A 46. § (2) bekezdés b) pontját a 4/2024. (V. 31.) SZTFH rendelet 12. § e) pontja hatályon kívül helyezte.
