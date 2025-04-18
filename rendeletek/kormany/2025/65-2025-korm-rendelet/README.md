@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-65-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-04-01 | 2025-65-20-22.1 | 65/2025. (III. 31.) Korm. rendelet |
+| 2025-04-18 | 2025-65-20-22.2 | 82/2025. (IV. 17.) Korm. rendelet |
