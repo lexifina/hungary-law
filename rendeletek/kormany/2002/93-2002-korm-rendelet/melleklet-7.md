@@ -60,6 +60,6 @@
 
 ## Cégszerű aláírás
 
-7. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^211]
+7. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^213]
 
-[^211]: A 7. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § k) pontja.
+[^213]: A 7. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § k) pontja.

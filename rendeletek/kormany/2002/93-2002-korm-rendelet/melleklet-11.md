@@ -1,4 +1,4 @@
-11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^215]
+11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^217]
 
 IGAZOLÁS
 
@@ -28,9 +28,9 @@ b) székhelye
 
 c) akkreditációs száma
 
-d)[^216] felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma
+d)[^218] felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma
 
-6.[^217] A továbbképzés
+6.[^219] A továbbképzés
 
 a) formája (előadás, e-learning, online)
 
@@ -44,17 +44,17 @@ e) helyszíne (ha nem elektronikus a képzés)
 
 f) időpontja (év, hónap, nap)
 
-g)[^218] kezdeti és befejezési időpontja kontakt képzés esetén (óra, perc)
+g)[^220] kezdeti és befejezési időpontja kontakt képzés esetén (óra, perc)
 
-h)[^219] elektronikus naplózás szerinti megtekintési időpontjai e-learning és online képzés esetén (óra, perc)
+h)[^221] elektronikus naplózás szerinti megtekintési időpontjai e-learning és online képzés esetén (óra, perc)
 
-7.[^220] A teljesített továbbképzési program
+7.[^222] A teljesített továbbképzési program
 
 a) címe
 
 b) kreditpont-minősítési határozatának száma
 
-c)[^221]
+c)[^223]
 
 d) kreditpont-értéke a megjelölt szakterületen
 
@@ -66,10 +66,10 @@ d) kreditpont-értéke a megjelölt szakterületen
 
 11. Cégszerű aláírás, bélyegző
 
-[^215]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
-[^216]: A 11. számú melléklet 5. pont d) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 3. pontja iktatta be.
-[^217]: A 11. számú melléklet 6. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
-[^218]: A 11. számú melléklet 6. pont g) alpontja a 642/2023. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^219]: A 11. számú melléklet 6. pont h) alpontját a 642/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
-[^220]: A 11. számú melléklet 7. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
-[^221]: A 11. számú melléklet 7. pont c) alpontját a 719/2021. (XII. 20.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^217]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^218]: A 11. számú melléklet 5. pont d) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 3. pontja iktatta be.
+[^219]: A 11. számú melléklet 6. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^220]: A 11. számú melléklet 6. pont g) alpontja a 642/2023. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^221]: A 11. számú melléklet 6. pont h) alpontját a 642/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^222]: A 11. számú melléklet 7. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^223]: A 11. számú melléklet 7. pont c) alpontját a 719/2021. (XII. 20.) Korm. rendelet 5. §-a hatályon kívül helyezte.

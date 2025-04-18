@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-93-20-2
 | 2022-12-29 | 2002-93-20-22.29 | 307/2009. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2002-93-20-22.30 | 642/2023. (XII. 28.) Korm. rendelet |
 | 2025-01-01 | 2002-93-20-22.31 | 423/2024. (XII. 23.) Korm. rendelet |
+| 2025-04-18 | 2002-93-20-22.32 | 78/2025. (IV. 17.) Korm. rendelet |
