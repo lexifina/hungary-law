@@ -80,7 +80,7 @@
 
 ## a vadász-vadtenyésztő szakmunkás-bizonyítványt.
 
-9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^317]
+9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^320]
 
 A hivatásos vadászok hatósági nyilvántartása
 
@@ -110,4 +110,4 @@ A hivatásos vadászok hatósági nyilvántartása
 
 1.6.6. Munkaviszony megszűnésének időpontja és a nyilvántartásból való törlésről rendelkező döntés száma
 
-[^317]: A Vhr. 9. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (6) bekezdésével megállapított szöveg.
+[^320]: A Vhr. 9. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (6) bekezdésével megállapított szöveg.

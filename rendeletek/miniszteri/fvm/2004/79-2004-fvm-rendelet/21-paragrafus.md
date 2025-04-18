@@ -10,6 +10,8 @@
 
 (6)[^70] Az (5) bekezdés szerinti engedély megadásakor a gímszarvas, a dámszarvas, az őz és a szikaszarvas tekintetében a vadászati hatóság a Vtv. 37/A. § (4) bekezdésében és a Vtv. 71. § (3) bekezdésében meghatározott feltételek figyelembevételével dönt.
 
+(7)[^71] Az (5) bekezdésben meghatározott esetben, ha a hatósági vadászat formája nagyvad társas vadászata, akkor a 70. § (3) bekezdés d) pontjában meghatározott korlátozást nem kell alkalmazni és korosztályra való tekintet nélkül valamennyi trófeás vad elejthető.
+
 [^64]: A Vhr. 21. §-át megelőző „(A Vtv. 27. §-ához)” alcím címét az 56/2024. (X. 31.) AM rendelet 18. § g) pontja hatályon kívül helyezte.
 [^65]: A Vhr. 21. § (1) bekezdését a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^66]: A Vhr. 21. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
@@ -17,3 +19,4 @@
 [^68]: A Vhr. 21. § (4) bekezdése a 7/2010. (II. 2.) FVM rendelet 16. §-ával megállapított, a 24/2017. (V. 17.) FM rendelet 34. § 1. pontja szerint módosított szöveg.
 [^69]: A Vhr. 21. § (5) bekezdését az 56/2024. (X. 31.) AM rendelet 5. §-a iktatta be.
 [^70]: A Vhr. 21. § (6) bekezdését az 56/2024. (X. 31.) AM rendelet 5. §-a iktatta be.
+[^71]: A Vhr. 21. § (7) bekezdését a 6/2025. (IV. 10.) AM rendelet 1. §-a iktatta be.

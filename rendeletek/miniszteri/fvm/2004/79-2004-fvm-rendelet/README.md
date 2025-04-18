@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2024-03-13 | 2004-79-20-82.47 | 9/2024. (III. 12.) AM rendelet |
 | 2024-06-01 | 2004-79-20-82.48 | 24/2017. (V. 17.) FM rendelet |
 | 2024-11-08 | 2004-79-20-82.49 | 56/2024. (X. 31.) AM rendelet |
+| 2025-04-18 | 2004-79-20-82.50 | 6/2025. (IV. 10.) AM rendelet |

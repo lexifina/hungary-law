@@ -1,6 +1,6 @@
 ## (A Vtv. 32. §-ához)
 
-24. §[^74] (1) A Vtv. 17. § (2) bekezdése és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül az olyan kerítés, amely a bekerített mezőgazdasági növénykultúra tenyészidőszakát követő egy hónap elteltével is fennáll.
+24. §[^75] (1) A Vtv. 17. § (2) bekezdése és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül az olyan kerítés, amely a bekerített mezőgazdasági növénykultúra tenyészidőszakát követő egy hónap elteltével is fennáll.
 
 (2) Nem minősül tartós telepítésű kerítésnek
 
@@ -30,4 +30,4 @@ c) a kerítés tervezett nyomvonalát ábrázoló térképi mellékletet a kerí
 
 (4) A villanypásztor felszámolásának minősül, ha arról a drót eltávolítása megtörtént.
 
-[^74]: A Vhr. 24. §-a az 56/2024. (X. 31.) AM rendelet 6. §-ával megállapított szöveg.
+[^75]: A Vhr. 24. §-a az 56/2024. (X. 31.) AM rendelet 6. §-ával megállapított szöveg.

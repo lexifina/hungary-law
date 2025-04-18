@@ -180,6 +180,6 @@
 
 ## 4. A vadászterületen haszonbérleti vagy alhaszonbérleti szerződéssel létesült vadaskertet a vadászati hatóság a vadászterület hatjegyű kódszámának toldatával jelöli. A toldat a „Z” betűből és egy számból áll. Adott vadászterületen létesített több vadaskert esetén a „Z” betű utáni számok emelkedő számsorrendben követik egymást.
 
-5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^313]
+5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^316]
 
-[^313]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja, a 65/2015. (X. 26.) FM rendelet 2. §-a és 4. § c) pontja, az 52/2020. (X. 27.) AM rendelet 10. §-a, a 2/2021. (II. 15.) AM rendelet 3. §-a, a 38/2021. (X. 21.) AM rendelet 2. §-a, az 57/2023. (X. 16.) AM rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^316]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja, a 65/2015. (X. 26.) FM rendelet 2. §-a és 4. § c) pontja, az 52/2020. (X. 27.) AM rendelet 10. §-a, a 2/2021. (II. 15.) AM rendelet 3. §-a, a 38/2021. (X. 21.) AM rendelet 2. §-a, az 57/2023. (X. 16.) AM rendelet 27. § (4) bekezdése szerint módosított szöveg.
