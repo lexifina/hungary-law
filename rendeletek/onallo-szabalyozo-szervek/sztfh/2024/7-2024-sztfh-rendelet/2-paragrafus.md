@@ -38,7 +38,7 @@ c) rendelkezik olyan biztonságos kommunikációs eszközökkel, szoftverekkel, 
 
 d) rendelkezik az auditálás lefolytatásához szükséges adatok törlésére vonatkozó jogszabályi előírások teljesítése érdekében olyan törlési eljárásrenddel és megoldásokkal, amelyek biztosítják az adatok visszaállíthatatlan módon történő törlését a rendszereikből és az archív mentéseikből, és
 
-e) rendelkezik a Kibertan.tv. 23. § (11) bekezdése szerinti szabályzattal.
+e)[^2] rendelkezik a Kiberbiztonsági tv. 22. § (6) bekezdése szerinti szabályzattal.
 
 (5) Az auditornak a nyilvántartásba vételi eljárás során igazolnia kell – a (2) bekezdés b) pontjában megjelölt biztonsági osztályhoz tartozóan – a következő feltételek teljesítését:
 
@@ -46,7 +46,7 @@ a) foglalkoztat
 
 aa) „alap” biztonsági osztály esetén legalább kettő,
 
-ab) „jelentős” biztonsági osztály esetén legalább tíz,
+ab)[^3] „jelentős” biztonsági osztály esetén legalább tíz,
 
 a munka törvénykönyvéről szóló törvény szerinti munkavégzésre irányuló jogviszonyban álló személyt a Kibertan.tv. 23. § (11) bekezdése szerinti szabályzatban rögzített munkakörben;
 
@@ -72,9 +72,9 @@ e) „jelentős” biztonsági osztály esetén az auditjelentés kiállításá
 
 f) „magas” biztonsági osztály esetén szerepel a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló rendelete szerinti megfelelőségértékelő szervezetek jegyzékén „magas” megbízhatósági szinten.
 
-(6) Az auditor a Kibertan.tv. 23. § (4) bekezdésében meghatározott és a (4) és (5) bekezdés szerinti feltételek meglétét a következő módon igazolja:
+(6)[^4] Az auditor a Kiberbiztonsági tv. 21. § (2) bekezdésében meghatározott és a (4) és (5) bekezdés szerinti feltételek meglétét a következő módon igazolja:
 
-a) a Kibertan.tv. 23. § (4) bekezdésének teljesülését az Alkotmányvédelmi Hivatal által kiállított nyilvántartásba vételi határozattal;
+a)[^5] a Kiberbiztonsági tv. 21. § (2) bekezdésének teljesülését a Kiberbiztonsági tv. 57. § (1) bekezdés c) pontja szerinti, a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetekről vezetett nyilvántartásba vételről szóló határozattal;
 
 b) a (4) bekezdés a) pontja esetében az érintett munkavállalók felsőfokú végzettséget igazoló okirat másolatával és szakmai önéletrajzzal;
 
@@ -84,7 +84,7 @@ d) a (4) bekezdés c) pontja esetében a biztonságos kommunikációs eszközök
 
 e) a (4) bekezdés d) pontja esetében törlési eljárásrenddel és műszaki leírásokkal;
 
-f) a (4) bekezdés e) pontja esetében a Kibertan.tv. 23. § (11) bekezdése szerinti szabályzattal;
+f)[^6] a (4) bekezdés e) pontja esetében a Kiberbiztonsági tv. 22. § (6) bekezdése szerinti szabályzattal;
 
 g) az (5) bekezdés a) pontja esetében anonimizált munkaszerződésekkel;
 
@@ -102,6 +102,13 @@ l) az (5) bekezdés f) pontja esetében a nyilvántartásba vételi határozat s
 
 (8) A felügyeleti hatóság a benyújtott dokumentumok hitelességét a kiállító szerv bevonásával ellenőrizheti.
 
-(9) Ha az auditor a Kibertan.tv. 23. § (4) bekezdésében meghatározott és a (4) és (5) bekezdésben szereplő feltételeket nem teljesíti, a felügyeleti hatóság a nyilvántartásba vételre irányuló kérelmet elutasítja. A kérelmező auditor a hatósági döntés véglegessé válását követő 90 napon belül új nyilvántartásba vételi kérelmet nem nyújthat be.
+(9)[^7] Ha az auditor a Kiberbiztonsági tv. 21. § (2) bekezdésében meghatározott és a (4) és (5) bekezdésben szereplő feltételeket nem teljesíti, a felügyeleti hatóság a nyilvántartásba vételre irányuló kérelmet elutasítja. A kérelmező auditor a hatósági döntés véglegessé válását követő 90 napon belül új nyilvántartásba vételi kérelmet nem nyújthat be.
 
 (10) A felügyeleti hatóság nyilvántartja a (2) bekezdés a) pont af) alpontja, a (2) bekezdés b) pontja és a (6) bekezdés szerinti adatokat.
+
+[^2]: A 2. § (4) bekezdés e) pontja a 4/2025. (IV. 17.) SZTFH rendelet 34. § a) pontja szerint módosított szöveg.
+[^3]: [A 2. § (5) bekezdés a) pont ab) alpontjában a 4/2025. (IV. 17.) SZTFH rendelet 34. § a) pontja által elrendelt módosítás, amely szerint a „Kibertan.tv. 23. § (11)” szövegrész helyébe a „Kiberbiztonsági tv. 22. § (6)” szöveg lép, nem vezethető át.]
+[^4]: A 2. § (6) bekezdés nyitó szövegrésze a 4/2025. (IV. 17.) SZTFH rendelet 34. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (6) bekezdés a) pontja a 4/2025. (IV. 17.) SZTFH rendelet 33. §-ával megállapított szöveg.
+[^6]: A 2. § (6) bekezdés f) pontja a 4/2025. (IV. 17.) SZTFH rendelet 34. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (9) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 34. § c) pontja szerint módosított szöveg.
