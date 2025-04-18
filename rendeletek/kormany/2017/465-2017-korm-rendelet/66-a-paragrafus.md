@@ -1,6 +1,6 @@
-## 24/A.[^81] Egyéb elektronikus fizetési szolgáltatás
+## 24/A.[^83] Egyéb elektronikus fizetési szolgáltatás
 
-66/A. § (1)[^82] Ezen alcím szerinti elektronikus fizetési szolgáltatás tekintetében nem kell alkalmazni a 24. alcím rendelkezéseit. A 322/2024. (XI. 6.) Korm. rendelet szabályait az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+66/A. § (1)[^84] Ezen alcím szerinti elektronikus fizetési szolgáltatás tekintetében nem kell alkalmazni a 24. alcím rendelkezéseit. A 322/2024. (XI. 6.) Korm. rendelet szabályait az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) A természetes személy adózó az állami adó- és vámhatóság által biztosított elektronikus fizetési szolgáltatáson keresztül internetes felületen (VPOS) történő bankkártyás fizetéssel is teljesítheti gépjárműadó fizetési kötelezettségét.
 
@@ -22,5 +22,5 @@ e) a pénzforgalmi szolgáltató számára szükséges azonosító adatokat.
 
 (6) A pénzforgalmi szolgáltató által kiállított számla és az ahhoz csatolt tételes kimutatás alapján az (5) bekezdés szerinti kifizetés teljesíthetőségét az adóhatóság a számlához csatolt tételes analitika alapján előzetesen igazolja.
 
-[^81]: A 24/A. alcímet (66/A. §-t) a 611/2023. (XII. 22.) Korm. rendelet 28. §-a iktatta be.
-[^82]: A 66/A. § (1) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^83]: A 24/A. alcímet (66/A. §-t) a 611/2023. (XII. 22.) Korm. rendelet 28. §-a iktatta be.
+[^84]: A 66/A. § (1) bekezdése a 462/2024. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 44/A.[^98] Közös ellenőrzésre vonatkozó különös szabályok
+## 44/A.[^101] Közös ellenőrzésre vonatkozó különös szabályok
 
 94/A. § (1) Ha a megkereső hatóság meghatározott adókötelezettségek vizsgálatára vonatkozóan kéri az adóhatóságtól közös ellenőrzés lefolytatását, akkor a megkereső hatóság tisztviselője az Aktv. 12/A. § (6) és (7) bekezdése szerinti eljárási jogosultságait és kötelezettségeit kizárólag ezen adókötelezettségek teljesítésének vizsgálatához kapcsolódó ellenőrzési cselekmények során gyakorolhatja.
 
@@ -6,4 +6,4 @@
 
 (3) A zárójelentést érintően észrevétel megtételének nincs helye.
 
-[^98]: A 44/A. alcímet (94/A. §-t) a 611/2023. (XII. 22.) Korm. rendelet 31. §-a iktatta be.
+[^101]: A 44/A. alcímet (94/A. §-t) a 611/2023. (XII. 22.) Korm. rendelet 31. §-a iktatta be.
