@@ -12,4 +12,6 @@ c) csődeljárás, felszámolási eljárás, végelszámolási eljárás vagy k�
 
 d) akkreditált státuszát érintően változás következett be, a változást alátámasztó okirat csatolásával,
 
-e) a Kibertan.tv. 13. § (4) bekezdés b) pontja szerinti engedéllyel rendelkezik és az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének és műszaki vizsgálatának, továbbá a sérülékenységvizsgálat lefolytatásának szabályairól szóló 271/2018. (XII. 20.) Korm. rendelet 22. § (5) bekezdése szerinti, a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetekről vezetett nyilvántartásból törlésre került.
+e)[^13] a Kiberbiztonsági tv. 47. § (4) bekezdés b) pontja szerinti engedéllyel rendelkezik, és a Kiberbiztonsági tv. 57. § (1) bekezdés c) pontja szerinti, a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetekről vezetett nyilvántartásból törlésre került.
+
+[^13]: A 14. § (2) bekezdés e) pontja a 4/2025. (IV. 17.) SZTFH rendelet 29. §-ával megállapított szöveg.

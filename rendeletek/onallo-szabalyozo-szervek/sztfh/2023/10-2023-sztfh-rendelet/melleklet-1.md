@@ -1,4 +1,4 @@
-1. melléklet a 10/2023. (V. 15.) SZTFH rendelethez[^3]
+1. melléklet a 10/2023. (V. 15.) SZTFH rendelethez[^18]
 
 Megfelelőségi jelölés
 
@@ -10,4 +10,4 @@ Megfelelőségi jelölés
 
 4. 40 × 130 mm-es megfelelőségi jelölés
 
-[^3]: Az 1. mellékletet a 14/2024. (IX. 5.) SZTFH rendelet 2. §-a iktatta be.
+[^18]: Az 1. mellékletet a 14/2024. (IX. 5.) SZTFH rendelet 2. §-a iktatta be.

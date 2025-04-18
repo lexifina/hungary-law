@@ -1,8 +1,8 @@
 ## 9. A megfelelőségi jelölés elhelyezésére vonatkozó rendelkezések
 
-25. § (1) A Kibertan.tv. 10. § (1) bekezdése szerinti megfelelőségi jelölést az érintett IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban jól láthatóan, egyértelműen és maradandóan kell elhelyezni.
+25. § (1)[^15] A Kiberbiztonsági tv. 42. § (1) bekezdése szerinti megfelelőségi jelölést az érintett IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban jól láthatóan, egyértelműen és maradandóan kell elhelyezni.
 
-(1a)[^1] A Kibertan.tv. szerinti nemzeti megfelelőségi nyilatkozattal vagy nemzeti kiberbiztonsági tanúsítvánnyal rendelkező IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban az 1. melléklet szerinti megfelelőségi jelölést kell elhelyezni. Az adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat jellegétől függően a tanúsító hatóság a Kibertan.tv. 14. § (1) bekezdése szerinti nyilvántartásba vételről szóló határozata határozza meg, hogy az 1. melléklet 1–4. pontja szerinti megfelelőségi jelölés típusok közül mely típus alkalmazandó, azzal, hogy az 1. melléklet határozatban megjelölt pontján belül az egyes alpontokban szereplő változatok közül az alkalmazni kívánt változatot a gyártó választja ki.
+(1a)[^16] A Kiberbiztonsági tv. szerinti nemzeti megfelelőségi nyilatkozattal vagy nemzeti kiberbiztonsági tanúsítvánnyal rendelkező IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban az 1. melléklet szerinti megfelelőségi jelölést kell elhelyezni. Az adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat jellegétől függően a tanúsító hatóság a Kiberbiztonsági tv. 48. § (1) bekezdése szerinti nyilvántartásba vételről szóló határozata határozza meg, hogy az 1. melléklet 1–4. pontja szerinti megfelelőségi jelölés típusok közül mely típus alkalmazandó, azzal, hogy az 1. melléklet határozatban megjelölt pontján belül az egyes alpontokban szereplő változatok közül az alkalmazni kívánt változatot a gyártó választja ki.
 
 (2) Ahol a megfelelőségi jelölés elhelyezése nem értelmezhető, az IKT-termék, IKT-szolgáltatás vagy IKT-folyamat jellege által biztosított lehetőség szerinti formában kell feltüntetni a megfelelőségi jelölést vagy az erre történő utalást.
 
@@ -16,4 +16,5 @@
 
 (7) Ha a nemmegfelelőség továbbra is fennáll, a tanúsító hatóság felszólítja a gyártót a megfelelőségi jelölés eltávolítására a meg nem feleléssel érintett IKT-termékről, IKT-szolgáltatásról vagy IKT-folyamatról, illetve tájékoztatásról. Ha erre nincs lehetőség, vagy ha a gyártó e kötelezettségének nem tesz eleget, a tanúsító hatóság intézkedhet az adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat forgalomba hozatalának, nyújtásának korlátozása, megtiltása vagy forgalomból történő kivonása iránt.
 
-[^1]: A 25. § (1a) bekezdését a 14/2024. (IX. 5.) SZTFH rendelet 1. §-a iktatta be.
+[^15]: A 25. § (1) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 30. § f) pontja szerint módosított szöveg.
+[^16]: A 25. § (1a) bekezdését a 14/2024. (IX. 5.) SZTFH rendelet 1. §-a iktatta be, szövege a 4/2025. (IV. 17.) SZTFH rendelet 30. § a) és g) pontja szerint módosított szöveg.
