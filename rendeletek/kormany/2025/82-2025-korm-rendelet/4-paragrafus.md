@@ -1,0 +1,1 @@
+4. § A Bérgarancia Alapból történő támogatás-lehívás veszélyhelyzeti szabályairól szóló 65/2025. (III. 31.) Korm. rendelet 2. §-ában a „március 28. napját megelőzően” szövegrész helyébe az „április 4. napján vagy azt megelőzően” szöveg lép.
