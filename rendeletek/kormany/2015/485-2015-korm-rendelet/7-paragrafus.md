@@ -6,20 +6,20 @@ a) a hozzáadottérték-adó területén történő közigazgatási együttműk�
 
 b) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 4. § (3) bekezdés 8. pontjában megjelölt központi kapcsolattartó iroda részére meghatározott,
 
-c)[^27]
+c)[^29]
 
-d)[^28] a NAV szervezetén belül az Aktv. 43. § (1) bekezdésében megjelölt illetékes hatóság részére meghatározott,
+d)[^30] a NAV szervezetén belül az Aktv. 43. § (1) bekezdésében megjelölt illetékes hatóság részére meghatározott,
 
-e)[^29] a jövedéki adók területén való közigazgatási együttműködésről és a 2073/2004/EK rendelet hatályon kívül helyezéséről szóló, 2012. május 2-ai 389/2012/EU tanácsi rendeletben szabályozott illetékes hatóság és központi jövedéki kapcsolattartó hivatal részére meghatározott,
+e)[^31] a jövedéki adók területén való közigazgatási együttműködésről és a 2073/2004/EK rendelet hatályon kívül helyezéséről szóló, 2012. május 2-ai 389/2012/EU tanácsi rendeletben szabályozott illetékes hatóság és központi jövedéki kapcsolattartó hivatal részére meghatározott,
 
-f)[^30]
+f)[^32]
 
-g)[^31] a Magyarországon megtartandó OECD nemzetközi adóügyi szeminárium lebonyolításával kapcsolatos
+g)[^33] a Magyarországon megtartandó OECD nemzetközi adóügyi szeminárium lebonyolításával kapcsolatos
 
 feladatokat.
 
-[^27]: A 7. § c) pontját a 481/2016. (XII. 28.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
-[^28]: A 7. § d) pontja a 481/2016. (XII. 28.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^29]: A 7. § e) pontja a 481/2016. (XII. 28.) Korm. rendelet 20. § a) pontja, a 670/2020. (XII. 28.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^30]: A 7. § f) pontját a 481/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte az 506/2021. (VIII. 19.) korm. rendelet 9. § a) pontja.
-[^31]: A 7. § g) pontját a 670/2020. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^29]: A 7. § c) pontját a 481/2016. (XII. 28.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^30]: A 7. § d) pontja a 481/2016. (XII. 28.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^31]: A 7. § e) pontja a 481/2016. (XII. 28.) Korm. rendelet 20. § a) pontja, a 670/2020. (XII. 28.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^32]: A 7. § f) pontját a 481/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte az 506/2021. (VIII. 19.) korm. rendelet 9. § a) pontja.
+[^33]: A 7. § g) pontját a 670/2020. (XII. 28.) Korm. rendelet 4. §-a iktatta be.

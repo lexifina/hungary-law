@@ -1,3 +1,3 @@
-## 7/C.[^37]
+## 7/C.[^39]
 
-[^37]: A 7/C. alcím címét a 611/2023. (XII. 22.) Korm. rendelet 21. § 2. pontja hatályon kívül helyezte.
+[^39]: A 7/C. alcím címét a 611/2023. (XII. 22.) Korm. rendelet 21. § 2. pontja hatályon kívül helyezte.

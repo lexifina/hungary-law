@@ -1,3 +1,3 @@
-51. §[^176]
+51. §[^181]
 
-[^176]: Az 51. §-t a 611/2023. (XII. 22.) Korm. rendelet 21. § 5. pontja hatályon kívül helyezte.
+[^181]: Az 51. §-t a 611/2023. (XII. 22.) Korm. rendelet 21. § 5. pontja hatályon kívül helyezte.

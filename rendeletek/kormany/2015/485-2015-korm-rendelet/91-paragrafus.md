@@ -8,26 +8,29 @@
 
 a) az Európai Unió tagállamaiban kötelező érvénnyel bíró tarifális és származási felvilágosítás (KTF és KSZF) határozatokat ad ki;
 
-b)[^288] a jövedéki termékre és az abból előállított termékre kötelező érvényű KN-kód besorolás határozatot ad ki;
+b)[^294] a jövedéki termékre és az abból előállított termékre kötelező érvényű KN-kód besorolás határozatot ad ki;
 
 c) külön jogszabályban meghatározott esetekben a NAV szervek, illetve más hatóság kirendelésére igazságügyi szakértőként jár el;
 
-d)[^289] termékhamisítási ügyekben fizikai, kémiai vizsgálatokat végez, és azzal kapcsolatosan véleményt ad ki;
+d)[^295] termékhamisítási ügyekben fizikai, kémiai vizsgálatokat végez, és azzal kapcsolatosan véleményt ad ki;
 
 e) végzi a NAV szervek által vett minták műszaki, analitikai vizsgálatát és azok tarifális besorolására vonatkozó véleményt készít, valamint végzi a jövedéki termékek adójogi minősítését;
 
-f)[^290] ügyfél kérelmére tarifális besorolásra vagy laboratóriumi vizsgálatra vonatkozó, illetve jövedéki termékek adójogi minősítését tartalmazó szakmai véleményt ad ki;
+f)[^296] ügyfél kérelmére tarifális besorolásra vagy laboratóriumi vizsgálatra vonatkozó, illetve jövedéki termékek adójogi minősítését tartalmazó szakmai véleményt ad ki;
 
 g) mobil laboratóriumi szolgálatot üzemeltet;
 
-h)[^291] a NAV szervek, illetve más hatóság kirendelésére a jövedéki termékekből mintavételt végez,
+h)[^297] a NAV szervek, illetve más hatóság kirendelésére a jövedéki termékekből mintavételt végez,
 
 i) a feladatok ellátása érdekében alkalmazott kutatás-fejlesztési tevékenységet lát el;
 
-j)[^292] végzi a NAV szervek által beküldött, a kereskedelmi áruforgalomban érkező, tiltott, engedélyhez kötött ismeretlen vegyi anyag analitikai vizsgálatát, szerkezete megállapítását, amely alapján szakmai véleményt ad ki.
+j)[^298] végzi a NAV szervek által beküldött, a kereskedelmi áruforgalomban érkező, tiltott, engedélyhez kötött ismeretlen vegyi anyag analitikai vizsgálatát, szerkezete megállapítását, amely alapján szakmai véleményt ad ki.
 
-[^288]: A 91. § b) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
-[^289]: A 91. § d) pontja a 475/2017. (XII. 28.) Korm. rendelet 76. §-ával megállapított szöveg.
-[^290]: A 91. § f) pontja a 475/2017. (XII. 28.) Korm. rendelet 77. §-ával megállapított szöveg.
-[^291]: A 91. § h) pontja a 670/2020. (XII. 28.) Korm. rendelet 18. § l) pontja szerint módosított szöveg.
-[^292]: A 91. § j) pontját a 311/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
+k)[^299] folytatja le az üzemanyagtöltő állomáson forgalmazott folyékony motorhajtóanyagok esetében a 14. § f) pontja, valamint a 90. § (1) bekezdés a) pontja szerinti helyszíni ellenőrzést követő hatósági eljárást.
+
+[^294]: A 91. § b) pontja a 419/2016. (XII. 14.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
+[^295]: A 91. § d) pontja a 475/2017. (XII. 28.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^296]: A 91. § f) pontja a 475/2017. (XII. 28.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^297]: A 91. § h) pontja a 670/2020. (XII. 28.) Korm. rendelet 18. § l) pontja szerint módosított szöveg.
+[^298]: A 91. § j) pontját a 311/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
+[^299]: A 91. § k) pontját a 78/2025. (IV. 17.) Korm. rendelet 12. §-a iktatta be.

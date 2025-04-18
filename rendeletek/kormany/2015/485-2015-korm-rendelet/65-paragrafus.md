@@ -2,12 +2,12 @@
 
 (2) Ha az adózó jogutódlással jött létre – ide nem értve a szétválást –, akkor is a KAVIG hatáskörébe tartozik, ha jogelődje megfelelt a KAVIG hatáskörét megalapozó jogszabályban meghatározott feltételeknek.
 
-(3)[^231] Ha a KAVIG hatásköre az ellenőrzés megkezdését követően szűnik meg, a megkezdett ellenőrzés befejezésére és – szükség szerint – a hatósági eljárás lefolytatására a KAVIG jogosult. Ha az adózó az ellenőrzés megkezdését követően az (1) bekezdés vagy a 63. § (1) bekezdés c) pontja alapján a KAVIG hatáskörébe kerül, a megkezdett ellenőrzés befejezésére és – szükség szerint – a hatósági eljárás lefolytatására az ellenőrzést megkezdő vármegyei igazgatóság a jogosult.
+(3)[^235] Ha a KAVIG hatásköre az ellenőrzés megkezdését követően szűnik meg, a megkezdett ellenőrzés befejezésére és – szükség szerint – a hatósági eljárás lefolytatására a KAVIG jogosult. Ha az adózó az ellenőrzés megkezdését követően az (1) bekezdés vagy a 63. § (1) bekezdés c) pontja alapján a KAVIG hatáskörébe kerül, a megkezdett ellenőrzés befejezésére és – szükség szerint – a hatósági eljárás lefolytatására az ellenőrzést megkezdő vármegyei igazgatóság a jogosult.
 
-(3a)[^232] Ha az adózó az ellenőrzés megkezdését követően jogutódlással úgy szűnik meg, hogy a jogutód a KAVIG hatáskörébe kerül, a jogelőd adókötelezettségeinek, költségvetési támogatásainak vizsgálatára irányuló ellenőrzés lefolytatására, a hatósági eljárás lefolytatására, a jogelődre hatáskörrel és illetékességgel vagy a jogelőd ellenőrzésére a 19. § (1) bekezdése szerinti engedéllyel rendelkező megyei igazgatóság jogosult.
+(3a)[^236] Ha az adózó az ellenőrzés megkezdését követően jogutódlással úgy szűnik meg, hogy a jogutód a KAVIG hatáskörébe kerül, a jogelőd adókötelezettségeinek, költségvetési támogatásainak vizsgálatára irányuló ellenőrzés lefolytatására, a hatósági eljárás lefolytatására, a jogelődre hatáskörrel és illetékességgel vagy a jogelőd ellenőrzésére a 19. § (1) bekezdése szerinti engedéllyel rendelkező megyei igazgatóság jogosult.
 
-(4)[^233] Ha a felettes szerv vagy a bíróság új eljárásra utasítja az elsőfokú adóhatóságot, és az új eljárás megkezdését megelőzően a KAVIG – (1) bekezdés szerinti – hatásköre megszűnt, az új eljárást az adózó székhelye szerinti vármegyei igazgatóság folytatja le. Ha a felettes szerv vagy a bíróság új eljárásra utasítja az elsőfokú adóhatóságot, és az új eljárás megkezdését megelőzően az adózó a KAVIG – (1) bekezdés szerinti – hatáskörébe kerül, az új eljárást a KAVIG folytatja le.
+(4)[^237] Ha a felettes szerv vagy a bíróság új eljárásra utasítja az elsőfokú adóhatóságot, és az új eljárás megkezdését megelőzően a KAVIG – (1) bekezdés szerinti – hatásköre megszűnt, az új eljárást az adózó székhelye szerinti vármegyei igazgatóság folytatja le. Ha a felettes szerv vagy a bíróság új eljárásra utasítja az elsőfokú adóhatóságot, és az új eljárás megkezdését megelőzően az adózó a KAVIG – (1) bekezdés szerinti – hatáskörébe kerül, az új eljárást a KAVIG folytatja le.
 
-[^231]: A 65. § (3) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
-[^232]: A 65. § (3a) bekezdését az 506/2021. (VIII. 19.) Korm. rendelet 4. §-a iktatta be.
-[^233]: A 65. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
+[^235]: A 65. § (3) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
+[^236]: A 65. § (3a) bekezdését az 506/2021. (VIII. 19.) Korm. rendelet 4. §-a iktatta be.
+[^237]: A 65. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
