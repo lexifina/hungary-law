@@ -56,5 +56,8 @@ k) bányaművelő technikus
 
 szakképesítéssel rendelkező személy jogosult végezni a 2/A. §-ban meghatározott gyakorlati idő igazolásával.
 
+(4)[^3] A geotermikus energia kutatása, kinyerése és hasznosítása esetén a munkabiztonsági szaktevékenységnek minősülő feladatokat a (2) bekezdés szerinti, vagy mesterképzésben szerzett geotermikus szakmérnök szakképzettséggel rendelkező személy jogosult végezni a 2/A. §-ban meghatározott gyakorlati idő igazolásával.
+
 [^1]: A 2. § (2) bekezdés nyitó és záró szövegrésze a 3/2024. (V. 9.) SZTFH rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdés záró szövegrésze a 3/2024. (V. 9.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdését a 4/2025. (IV. 17.) SZTFH rendelet 11. §-a iktatta be.

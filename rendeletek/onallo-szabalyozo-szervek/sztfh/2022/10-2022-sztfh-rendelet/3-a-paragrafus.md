@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet 2022. február 1-jén lép hatályba.
 
-3/A. §[^4] Ez a rendelet
+3/A. §[^6] Ez a rendelet
 
 a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek és
 
@@ -8,4 +8,4 @@ b) a szakmák új szabályozásának elfogadását megelőző arányossági tesz
 
 való megfelelést szolgálja.
 
-[^4]: A 3/A. §-t a 3/2024. (V. 9.) SZTFH rendelet 7. §-a iktatta be.
+[^6]: A 3/A. §-t a 3/2024. (V. 9.) SZTFH rendelet 7. §-a iktatta be.
