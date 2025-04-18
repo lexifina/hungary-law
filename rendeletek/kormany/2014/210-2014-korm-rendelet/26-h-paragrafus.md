@@ -12,15 +12,18 @@ d) az oktatók és a képzésben részt vevők kapcsán felmerülő működési 
 
 e) a képzési projekthez kapcsolódó tanácsadás költsége, amely nem haladhatja meg a teljes elszámolható költségek 5%-át.
 
-(1a)[^219] Nem minősül elszámolható költségnek
+(1a)[^257] Nem minősül elszámolható költségnek
 
 a) az (1) bekezdés b) pontja szerinti azon személyi jellegű ráfordítás, amelyhez azonos időszakban a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális beruházási támogatás igénybevételére is sor kerül,
 
 b) azon tárgyi eszközöknek az (1) bekezdés d) pontjában meghatározott értékcsökkenési leírása, amelyeknek a beszerzésére támogatás igénybevételével került sor.
 
+c)[^258] a képzési támogatás kedvezményezettjével alkalmazotti viszonyban nem álló képzésben részt vevőkhöz kapcsolódó költség.
+
 (2) A képzési projekt megkezdése az elszámolható költségek alapjául szolgáló első jogilag kötelező érvényű kötelezettségvállalás napja.
 
-(3)[^220] Az üzemfejlesztés keretében beszerzett tárgyi eszközöknek és immateriális javaknak az Sztv. 47–51. §-ában vagy az IAS 16 és IAS 38 standardokban meghatározott költségei vehetők figyelembe a 18. és 19. §-ban foglalt feltételekkel – függetlenül attól, hogy a kérelmező vett-e igénybe ugyanezen költségekhez regionális beruházási támogatást – azzal, hogy az e rendelkezések szerinti beruházón a képzési támogatás kedvezményezettjét, beruházáson az üzemfejlesztést, a 18. § (3) bekezdésében, a (4) bekezdés b) pontjában, az (5) bekezdés d) pontjában és a (6) bekezdés b) pontjában meghatározott időszakon pedig a 26/I. § (3) bekezdése szerinti időszakot kell érteni.
+(3)[^259]
 
-[^219]: A 26/H. § (1a) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
-[^220]: A 26/H. § (3) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^257]: A 26/H. § (1a) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
+[^258]: A 26/H. § (1a) bekezdés c) pontját a 81/2025. (IV. 17.) Korm. rendelet 14. §-a iktatta be.
+[^259]: A 26/H. § (3) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 11. pontja hatályon kívül helyezte.

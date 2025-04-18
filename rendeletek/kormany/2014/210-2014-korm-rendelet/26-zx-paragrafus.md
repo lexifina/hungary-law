@@ -1,3 +1,3 @@
-## 15/ZH. A korlátozott összegű támogatás célja és szempontrendszere
+## 15/ZH.
 
-26/ZX. § A támogatás a 26/T. §-ban és a 26/ZI. §-ban megjelölt célokra vehető igénybe.
+26/ZX. §

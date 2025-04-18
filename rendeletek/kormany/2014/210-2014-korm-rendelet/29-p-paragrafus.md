@@ -1,4 +1,4 @@
-29/P. §[^312] (1) A Módr12.-vel megállapított IV/E. Fejezetben foglalt rendelkezések a beruházó ezirányú kérelme és a támogató jóváhagyó döntése alapján alkalmazhatóak olyan ügyekben is, amelyek a Módr12. hatálybalépésekor[^313] már megindultak, de támogatási szerződés megkötésére nem került sor, feltéve, hogy a támogatási kérelemben megjelölt beruházás megfelel a IV/E. Fejezetben foglalt szabályoknak és a IV/E. Fejezet alapján nyújtandó támogatás nem fogja meghaladni az eredetileg kérelmezett összeget.
+29/P. §[^388] (1) A Módr12.-vel megállapított IV/E. Fejezetben foglalt rendelkezések a beruházó ezirányú kérelme és a támogató jóváhagyó döntése alapján alkalmazhatóak olyan ügyekben is, amelyek a Módr12. hatálybalépésekor[^389] már megindultak, de támogatási szerződés megkötésére nem került sor, feltéve, hogy a támogatási kérelemben megjelölt beruházás megfelel a IV/E. Fejezetben foglalt szabályoknak és a IV/E. Fejezet alapján nyújtandó támogatás nem fogja meghaladni az eredetileg kérelmezett összeget.
 
 (2) A kedvezményezett az (1) bekezdés szerinti kérelmét a lebonyolító szerv részére nyújtja be. A kérelemnek tartalmaznia kell minden olyan információt, amely szükséges annak megállapításához, hogy az eredetileg tervezett beruházás megfelel a IV/E. Fejezetben foglalt feltételeknek.
 
@@ -16,5 +16,5 @@ d) a támogatás mértékét.
 
 (5) Ha a (3) bekezdés szerinti döntést a támogató az előzetes helyszíni jegyzőkönyv felvételét követően hozza meg, akkor a (4) bekezdésben foglalt adatok a jegyzőkönyv módosításában kerülnek rögzítésre.
 
-[^312]: A 29/P. §-t a 366/2023. (VIII. 3.) Korm. rendelet 8. §-a iktatta be.
-[^313]: A hatálybalépés időpontja 2023. augusztus 4.
+[^388]: A 29/P. §-t a 366/2023. (VIII. 3.) Korm. rendelet 8. §-a iktatta be.
+[^389]: A hatálybalépés időpontja 2023. augusztus 4.

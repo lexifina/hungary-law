@@ -4,12 +4,15 @@
 
 a) az üzemfejlesztés vagy a regionális szolgáltató központ létrehozása vagy bővítése milyen iparágban valósul meg,
 
-b) a megtartott munkahelyek és a 26/I. § (4) bekezdés a) pontja esetében az újonnan létesített munkahelyek száma,
+b)[^252]
 
-c) az üzemfejlesztés esetén az 5 millió eurónak megfelelő forintösszeget meghaladó értéke,
+c)[^253]
 
 d) a támogatott tevékenység által érintett helyszín gazdasági fejlettsége,
 
 e) a kérelmező vállalatmérete,
 
 f) képzések köre, jellemzői, céljai, tervezett eredményei.
+
+[^252]: A 26/F. § b) pontját a 81/2025. (IV. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
+[^253]: A 26/F. § c) pontját a 81/2025. (IV. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.

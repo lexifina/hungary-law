@@ -1,3 +1,5 @@
-## 15/ZC. A megújuló energia termelési beruházási támogatás biztosítékai
+## 15/ZC.[^304]
 
-26/ZQ. § A kedvezményezett az Ávr. 84. § (2) bekezdés a) pontja szerinti biztosíték rendelkezésre bocsátására köteles.
+26/ZQ. §
+
+[^304]: A 15/ZC. alcímet (26/ZQ. §-t) a 81/2025. (IV. 17.) Korm. rendelet 31. § 23. pontja hatályon kívül helyezte.

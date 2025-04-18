@@ -1,5 +1,8 @@
-## 15/ZZI. Az eredményalapú támogatásban részesíthetők köre, a támogatás területi hatálya
+## 15/ZZI.[^324] Az eredményalapú támogatásban részesíthetők köre
 
-26/ZZZK. § (1) A támogatást azon 6. §-nak megfelelő vállalatok vehetik igénybe, amelyek olyan multinacionális vállalatcsoport vagy nagy volumenű belföldi vállalatcsoport tagjai, amelynek a végső anyavállalat konszolidált pénzügyi beszámolója szerinti éves árbevétele a vizsgált pénzügyi évet közvetlenül megelőző négy pénzügyi év közül legalább kettőben eléri vagy meghaladja a 750 millió eurónak megfelelő forintösszeget.
+26/ZZZK. § (1)[^325]
 
 (2) A támogatás nagyvállalkozások által vehető igénybe.
+
+[^324]: A 15/ZZI. alcím címe a 81/2025. (IV. 17.) Korm. rendelet 31. § 30. pontja szerint módosított szöveg.
+[^325]: A 26/ZZZK. § (1) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 31. pontja hatályon kívül helyezte.

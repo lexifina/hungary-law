@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-210-20-
 | 2023-08-04 | 2014-210-20-22.21 | 366/2023. (VIII. 3.) Korm. rendelet |
 | 2023-12-24 | 2014-210-20-22.22 | 632/2023. (XII. 23.) Korm. rendelet |
 | 2025-01-01 | 2014-210-20-22.23 | 474/2024. (XII. 31.) Korm. rendelet |
+| 2025-04-18 | 2014-210-20-22.24 | 81/2025. (IV. 17.) Korm. rendelet |

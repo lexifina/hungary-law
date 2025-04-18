@@ -1,218 +1,209 @@
 |  | A | B |
 
-| 1 | Raktározás, szállítást kiegészítő tevékenység (52) | 52.10 Raktározás, tárolás |
+| 1 | Raktározás, tárolás, szállítást kiegészítő tevékenység (52) | 52.10 Raktározás, tárolás |
 
-| 2 | Információ-technológiai szolgáltatás (62) | 62.01 Számítógépes programozás 62.02 Információ-technológiai szaktanácsadás 62.03 Számítógép-üzemeltetés 62.09 Egyéb információ-technológiai szolgáltatás |
+| 2 | Információtechnológiai szolgáltatás (62) | 62.10 Számítógépes programozás 62.20 Információtechnológiai szaktanácsadás és számítástechnikai eszközök, rendszerek üzemeltetése 62.90 Egyéb információtechnológiai szolgáltatás |
 
-| 3 | Információs szolgáltatás (63) | 63.11 Adatfeldolgozás, web-hoszting szolgáltatás 63.99 M. n. s. egyéb információs szolgáltatás |
+| 3 | Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és egyéb információs szolgáltatási tevékenységek (63) | 63.10 Számítástechnikai infrastruktúra, adatfeldolgozás, tárhelyszolgáltatás és kapcsolódó szolgáltatások 63.92 Egyéb információs szolgáltatás |
 
-| 4 | Jogi, számviteli, adószakértői tevékenység (69) | 69.10 Jogi tevékenység 69.20 Számviteli, könyvvizsgálói, adószakértői tevékenység |
+| 4 | Jogi, számviteli tevékenység (69) | 69.10 Jogi tevékenység 69.20 Számviteli, könyvvizsgálói, adószakértői tevékenység |
 
-| 5 | Üzletvezetési, vezetői tanácsadás (70) | 70.22 Üzletviteli, egyéb vezetési tanácsadás |
+| 5 | Üzletvezetés, üzletvezetési tanácsadás (70) | 70.20 Üzletviteli, egyéb üzletvezetési tanácsadás |
 
-| 6 | Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés (71) | 71.12 Mérnöki tevékenység, műszaki tanácsadás |
+| 6 | Építészmérnöki, mérnöki tevékenység, műszaki vizsgálat, elemzés (71) | 71.12 Mérnöki tevékenység, műszaki tanácsadás |
 
-| 7 | Tudományos kutatás, fejlesztés (72) | 72.11 Biotechnológiai kutatás, fejlesztés 72.19 Egyéb természettudományi, műszaki kutatás, fejlesztés 72.20 Társadalomtudományi, humán kutatás, fejlesztés |
+| 7 | Tudományos kutatás, fejlesztés (72) | 72.10 Természettudományi, műszaki kutatás, kísérleti fejlesztés 72.20 Társadalomtudományi, humán kutatás, kísérleti fejlesztés |
 
-| 8 | Reklám, piackutatás (73) | 73.20 Piac-, közvélemény-kutatás 78.10 Munkaközvetítés |
+| 8 | Reklám, piackutatás, PR-tevékenység (73) | 73.20 Piac-, közvélemény-kutatás |
 
-| 9 | Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás (82) | 82.11 Összetett adminisztratív szolgáltatás 82.20 Telefoninformáció 82.99 M. n. s. egyéb kiegészítő üzleti szolgáltatás |
+| 9 | Munkaerőpiaci szolgáltatás (78) | 78.10 Munkaközvetítés |
 
-2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^322]
+| 10 | Adminisztratív, irodai és egyéb üzletmenetet támogató szolgáltatás (82) | 82.10 Adminisztratív, üzletmenetet támogató szolgáltatás 82.20 Telefonos ügyfélszolgálat 82.99 M.n.s. egyéb üzletmenetet támogató szolgáltatás |
 
-Az energiahatékonysági beruházási, a megújuló energia előállítására és tárolására, valamint a megújuló hidrogén előállítására irányuló beruházási támogatásban részesíthető tevékenységek felsorolása TEÁOR’08 kód szerint[^323]
+2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^402]
 
-| 1. | 101 Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
+Az energiahatékonysági beruházási, a megújuló energia előállítására és tárolására, valamint a megújuló hidrogén előállítására irányuló beruházási támogatásban részesíthető tevékenységek felsorolása TEÁOR’25 kód szerint
 
-| 2. | 102 Halfeldolgozás, -tartósítás |
+|  | A |
 
-| 3. | 103 Gyümölcs-, zöldségfeldolgozás, -tartósítás |
+| 1. | 10.1 Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
 
-| 4. | 104 Növényi, állati olaj gyártása |
+| 2. | 10.2 Hal, rákféle és puhatestű feldolgozása, tartósítása |
 
-| 5. | 105 Tejfeldolgozás |
+| 3. | 10.3 Gyümölcs-, zöldségfeldolgozás, -tartósítás |
 
-| 6. | 106 Malomipari termék, keményítő gyártása |
+| 4. | 10.4 Növényi, állati olaj gyártása |
 
-| 7. | 107 Pékáru, tésztafélék gyártása |
+| 5. | 10.5 Tejtermék, jégkrém gyártása |
 
-| 8. | 108 Egyéb élelmiszer gyártása |
+| 6. | 10.6 Malomipari termék, keményítő gyártása |
 
-| 9. | 109 Takarmány gyártása |
+| 7. | 10.7 Pékáru, tésztafélék gyártása |
 
-| 10. | 110 Italgyártás |
+| 8. | 10.8 Egyéb élelmiszer gyártása |
 
-| 11. | 120 Dohánytermék gyártása |
+| 9. | 10.9 Takarmány gyártása |
 
-| 12. | 131 Textilszálak fonása |
+| 10. | 11.0 Italgyártás |
 
-| 13. | 132 Textilszövés |
+| 11. | 12.0 Dohánytermék gyártása |
 
-| 14. | 133 Textilkikészítés |
+| 12. | 13.1 Textilszálak fonása |
 
-| 15. | 139 Egyéb textiláru gyártása |
+| 13. | 13.2 Textilszövés |
 
-| 16. | 141 Ruházat gyártása (kivéve: szőrmeruházat) |
+| 14. | 13.3 Textilkikészítés |
 
-| 17. | 142 Szőrmecikk gyártása |
+| 15. | 13.9 Egyéb textiláru gyártása |
 
-| 18. | 143 Kötött, hurkolt cikk gyártása |
+| 16. | 14.1 Kötött, hurkolt ruházati termék gyártása |
 
-| 19. | 151 Bőr, szőrme kikészítése; táskafélék, szíjazat gyártása |
+| 17. | 14.2 Egyéb ruházati termék, ruházati kiegészítő gyártása |
 
-| 20. | 152 Lábbeligyártás |
+| 18. | 15.1 Bőr, szőrme kikészítése; táskafélék, nyerges áru, szíjazat gyártása |
 
-| 21. | 161 Fűrészárugyártás |
+| 19. | 15.2 Lábbeligyártás |
 
-| 22. | 162 Fa-, parafatermék, fonottáru gyártása |
+| 20. | 16.1 Fűrészárugyártás, fa feldolgozása és felületkezelése |
 
-| 23. | 171 Papíripari rostanyag, papír gyártása |
+| 21. | 16.2 Fa-, parafatermék, fonottáru gyártása |
 
-| 24. | 172 Papírtermék gyártása |
+| 22. | 17.1 Papíripari rostanyag, papír gyártása |
 
-| 25. | 181 Nyomdai tevékenység |
+| 23. | 17.2 Papírtermék gyártása |
 
-| 26. | 182 Egyéb sokszorosítás |
+| 24. | 18.1 Nyomdai tevékenység |
 
-| 27. | 191 Kokszgyártás |
+| 25. | 18.2 Egyéb sokszorosítás |
 
-| 28. | 192 Kőolaj-feldolgozás |
+| 26. | 19.1 Kokszgyártás |
 
-| 29. | 201 Vegyi alapanyag gyártása |
+| 27. | 19.2 Kőolaj-feldolgozás, fosszilis tüzelőanyag-termékek gyártása |
 
-| 30. | 202 Mezőgazdasági vegyi termék gyártása |
+| 28. | 20.1 Vegyi alapanyag gyártása |
 
-| 31. | 203 Festék, bevonóanyag gyártása |
+| 29. | 20.2 Mezőgazdasági vegyi termék gyártása |
 
-| 32. | 204 Tisztítószer, testápolási cikk gyártása |
+| 30. | 20.3 Festék, bevonóanyag gyártása |
 
-| 33. | 205 Egyéb vegyi termék gyártása |
+| 31. | 20.4 Tisztítószer, testápolási cikk gyártása |
 
-| 34. | 206 Vegyi szál gyártása |
+| 32. | 20.5 Egyéb vegyi termék gyártása |
 
-| 35. | 211 Gyógyszeralapanyag-gyártás |
+| 33. | 20.6 Vegyi szál gyártása |
 
-| 36. | 212 Gyógyszerkészítmény gyártása |
+| 34. | 21.1 Gyógyszeralapanyag-gyártás |
 
-| 37. | 221 Gumitermék gyártása |
+| 35. | 21.2 Gyógyszerkészítmény gyártása |
 
-| 38. | 222 Műanyag termék gyártása |
+| 36. | 22.1 Gumitermék gyártása |
 
-| 39. | 231 Üveg, üvegtermék gyártása |
+| 37. | 22.2 Műanyag termék gyártása |
 
-| 40. | 232 Tűzálló termék gyártása |
+| 38. | 23.1 Üveg, üvegtermék gyártása |
 
-| 41. | 233 Kerámia, agyag építőanyag gyártása |
+| 39. | 23.2 Tűzálló termék gyártása |
 
-| 42. | 234 Porcelán, kerámiatermék gyártása |
+| 40. | 23.3 Kerámia, agyag építőanyag gyártása |
 
-| 43. | 235 Cement-, mész-, gipszgyártás |
+| 41. | 23.4 Porcelán, kerámiatermék gyártása |
 
-| 44. | 236 Beton-, gipsz-, cementtermék gyártása |
+| 42. | 23.5 Cement-, mész-, gipszgyártás |
 
-| 45. | 237 Kőmegmunkálás |
+| 43. | 23.6 Beton-, gipsz-, cementtermék gyártása |
 
-| 46. | 239 Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s. |
+| 44. | 23.7 Kőmegmunkálás |
 
-| 47.[^324] |  |
+| 45. | 23.9 M.n.s. egyéb csiszolótermék és nemfém ásványi termék gyártása |
 
-| 48.[^325] |  |
+| 46. | 24.3 Egyéb kohászati termék gyártása acélból |
 
-| 49. | 243 Egyéb kohászati termék gyártása acélból |
+| 47. | 24.4 Nemvasfém alapanyag gyártása |
 
-| 50. | 244 Nem vas fém alapanyag gyártása |
+| 48. | 24.5 Fémöntés |
 
-| 51. | 245 Fémöntés |
+| 49. | 25.1 Fémszerkezet, épületelem gyártása |
 
-| 52. | 251 Fémszerkezet, -épületelem gyártása |
+| 50. | 25.2 Központi fűtési radiátor, gőzkazán, kazán, fémtartály gyártása |
 
-| 53. | 252 Fűtési kazán, radiátor, fémtartály gyártása |
+| 51. | 25.3 Fegyver-, lőszergyártás |
 
-| 54. | 253 Gőzkazán gyártása |
+| 52. | 25.4 Fémalakítás, porkohászat |
 
-| 55. | 254 Fegyver-, lőszergyártás |
+| 53. | 25.5 Fém felületkezelése, megmunkálása |
 
-| 56. | 255 Fémalakítás, porkohászat |
+| 54. | 25.6 Evőeszköz, szerszám, általános fémáru gyártása |
 
-| 57. | 256 Fém felületkezelése, megmunkálása |
+| 55. | 25.9 Egyéb fémfeldolgozási termék gyártása |
 
-| 58. | 257 Evőeszköz, szerszám, általános fémáru gyártása |
+| 56. | 26.1 Elektronikai alkatrész, áramköri kártya gyártása |
 
-| 59. | 259 Egyéb fémfeldolgozási termék gyártása |
+| 57. | 26.2 Számítógép, perifériás egység gyártása |
 
-| 60. | 261 Elektronikai alkatrész, áramköri kártya gyártása |
+| 58. | 26.3 Híradás-technikai berendezés gyártása |
 
-| 61. | 262 Számítógép, perifériás egység gyártása |
+| 59. | 26.4 Elektronikus fogyasztási cikk gyártása |
 
-| 62. | 263 Híradás-technikai berendezés gyártása |
+| 60. | 26.5 Műszer-, óragyártás |
 
-| 63. | 264 Elektronikus fogyasztási cikk gyártása |
+| 61. | 26.6 Elektronikus orvosi berendezés gyártása |
 
-| 64. | 265 Műszer-, óragyártás |
+| 62. | 26.7 Optikai eszköz, mágneses, optikai adathordozó, fényképészeti berendezés gyártása |
 
-| 65. | 266 Elektronikus orvosi berendezés gyártása |
+| 63. | 27.1 Villamos motor, áramfejlesztő, transzformátor, áramelosztó, -szabályozó készülék gyártása |
 
-| 66. | 267 Optikai eszköz gyártása |
+| 64. | 27.2 Akkumulátor, szárazelem gyártása |
 
-| 67. | 268 Mágneses, optikai információhordozó gyártása |
+| 65. | 27.3 Vezeték, kábel, szerelvény gyártása |
 
-| 68. | 271 Villamos motor, áramfejlesztő, áramelosztó, -szabályozó készülék gyártása |
+| 66. | 27.4 Világítóberendezés gyártása |
 
-| 69. | 272 Akkumulátor, szárazelem gyártása |
+| 67. | 27.5 Háztartási készülék gyártása |
 
-| 70. | 273 Vezeték, kábel, szerelvény gyártása |
+| 68. | 27.9 Egyéb villamos berendezés gyártása |
 
-| 71. | 274 Villamos világítóeszköz gyártása |
+| 69. | 28.1 Általános rendeltetésű gép gyártása |
 
-| 72. | 275 Háztartási készülék gyártása |
+| 70. | 28.2 Egyéb általános rendeltetésű gép gyártása |
 
-| 73. | 279 Egyéb villamos berendezés gyártása |
+| 71. | 28.3 Mezőgazdasági, erdészeti gép gyártása |
 
-| 74. | 281 Általános rendeltetésű gép gyártása |
+| 72. | 28.4 Szerszámgépgyártás |
 
-| 75. | 282 Egyéb általános rendeltetésű gép gyártása |
+| 73. | 28.9 Egyéb speciális rendeltetésű gép gyártása |
 
-| 76. | 283 Mezőgazdasági, erdészeti gép gyártása |
+| 74. | 29.1 Közúti gépjármű gyártása |
 
-| 77. | 284 Szerszámgépgyártás |
+| 75. | 29.2 Gépjármű-karosszéria, pótkocsi gyártása |
 
-| 78. | 289 Egyéb speciális rendeltetésű gép gyártása |
+| 76. | 29.3 Gépjárműalkatrész és -tartozék gyártása |
 
-| 79. | 291 Közúti gépjármű gyártása |
+| 77. | 30.1 Hajó, csónak építése |
 
-| 80. | 292 Gépjármű-karosszéria, pótkocsi gyártása |
+| 78. | 30.2 Vasúti, kötöttpályás jármű gyártása |
 
-| 81. | 293 Közúti jármű alkatrészeinek gyártása |
+| 79. | 30.3 Légi, űrjármű gyártása |
 
-| 82. | 301 Hajó, csónak gyártása |
+| 80. | 30.4 Katonai harci jármű gyártása |
 
-| 83. | 302 Vasúti, kötöttpályás jármű gyártása |
+| 81. | 30.9 M.n.s. jármű gyártása |
 
-| 84. | 303 Légi, űrjármű gyártása |
+| 82. | 31.0 Bútorgyártás |
 
-| 85. | 304 Katonai harcjármű gyártása |
+| 83. | 32.1 Ékszer, bizsu és kapcsolódó termék gyártása |
 
-| 86. | 309 Egyéb jármű gyártása |
+| 84. | 32.2 Hangszergyártás |
 
-| 87. | 310 Bútorgyártás |
+| 85. | 32.3 Sportszergyártás |
 
-| 88. | 321 Ékszergyártás |
+| 86. | 32.4 Játékgyártás |
 
-| 89. | 322 Hangszergyártás |
+| 87. | 32.5 Orvosi eszköz gyártása |
 
-| 90. | 323 Sportszergyártás |
+| 88. | 32.9 M.n.s. feldolgozóipari tevékenység |
 
-| 91. | 324 Játékgyártás |
+| 89. | 33.1 Ipari gép, berendezés, eszköz javítása, karbantartása |
 
-| 92. | 325 Orvosi eszköz gyártása |
+| 90. | 33.2 Ipari gép, berendezés üzembe helyezése |
 
-| 93. | 329 M.n.s. egyéb feldolgozóipari tevékenység |
-
-| 94. | 331 Ipari gép, berendezés, eszköz javítása |
-
-| 95. | 332 Ipari gép, berendezés üzembe helyezése |
-
-[^322]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
-[^323]: A 2. melléklet címe a 632/2023. (XII. 23.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^324]: A 2. mellékletben foglalt táblázat 47. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.
-[^325]: A 2. mellékletben foglalt táblázat 48. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.
+[^402]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 29. § b) pontjával megállapított szöveg.

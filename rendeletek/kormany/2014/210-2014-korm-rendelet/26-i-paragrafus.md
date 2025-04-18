@@ -1,19 +1,26 @@
 ## 15/G. A képzési támogatás nyújtásának feltételei
 
-26/I. § (1)[^221] A képzési projekt hossza kérelmezőnként nem haladhatja meg a 24 hónapot a 26/H. § (2) bekezdés szerinti megkezdéstől az utolsó képzés befejezéséig.
+26/I. § (1)[^260] A képzési projekt hossza kérelmezőnként nem haladhatja meg a 36 hónapot a 26/H. § (2) bekezdés szerinti megkezdéstől az utolsó képzés befejezéséig.
 
-(2) A képzési támogatás feltétele, hogy a kedvezményezett regionális szolgáltató központ létesítést vagy bővítést, vagy minimum 5 millió eurónak megfelelő forintösszegű üzemfejlesztést valósítson meg.
+(2)[^261]
 
-(3) Üzemfejlesztés esetén a kedvezményezett köteles a megtartott munkahelyek számát a képzési projekt vagy az üzemfejlesztés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani.
+(3)[^262]
 
-(4)[^222] Regionális szolgáltató központ létesítés vagy bővítés esetén, ha a kedvezményezett
+(4)[^263]
 
-a) nem vesz igénybe a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást, köteles a megtartott munkahelyek számát legalább 25 újonnan létesített munkahellyel növelni, és az összes munkahelyet a képzési projekt vagy a regionális szolgáltató központ létesítés vagy bővítés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani,
+(5)[^264] A képzésben részt vevő személyek száma nem haladhatja meg a megtartott munkahelyek számának és az újonnan létesített munkahelyek számának összegét.
 
-b) a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást vesz igénybe, köteles a regionális támogatási kérelemben vagy támogatási szerződésben vállalt munkahelyek számával azonos számú munkahelyet a képzési projekt vagy a regionális szolgáltató központ létesítés vagy bővítés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani.
+(6)[^265] A kedvezményezett köteles a képzésben részt vevő személyek számának megfelelő számú munkahelyet, vagy amennyiben az magasabb, a megtartott munkahelyek számát a képzési projekt befejezését követően legalább 18 hónapon keresztül fenntartani.
 
-(5)[^223] A képzésben részt vevő személyek száma nem haladhatja meg a megtartott munkahelyek számának és az újonnan létesített munkahelyek számának összegét.
+(7)[^266] A képzésben részt vevő személyek száma el kell, hogy érje a 25 főt.
 
-[^221]: A 26/I. § (1) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^222]: A 26/I. § (4) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^223]: A 26/I. § (5) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+(8)[^267] A képzési támogatás elszámolható költségei el kell, hogy érjék a 250 ezer eurónak megfelelő forintösszeget.
+
+[^260]: A 26/I. § (1) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 29. § r) pontja, a 81/2025. (IV. 17.) Korm. rendelet 30. § 15. pontja szerint módosított szöveg.
+[^261]: A 26/I. § (2) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.
+[^262]: A 26/I. § (3) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.
+[^263]: A 26/I. § (4) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 12. pontja hatályon kívül helyezte.
+[^264]: A 26/I. § (5) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^265]: A 26/I. § (6) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 15. §-a iktatta be.
+[^266]: A 26/I. § (7) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 15. §-a iktatta be.
+[^267]: A 26/I. § (8) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 15. §-a iktatta be.

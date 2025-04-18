@@ -1,6 +1,6 @@
 ## 15/W. A támogatható tevékenységek köre
 
-26/ZH. § (1)[^234] A támogatás kizárólag a 2. mellékletben meghatározott tevékenységhez kapcsolódó, egyetlen gazdasági társaság által megvalósítandó beruházáshoz nyújtható, amely esetben kizárólag új berendezés támogatható.
+26/ZH. § (1)[^283] A támogatás kizárólag a 2. mellékletben meghatározott tevékenységhez kapcsolódóan, új berendezés beszerzése kapcsán igényelhető.
 
 (2) Az Ávr. 81. §-ában meghatározottakon túl nem nyújtható támogatás a 26/D. § (1) bekezdésében foglalt esetekben.
 
@@ -12,29 +12,23 @@ b) a 2000/60/EK európai parlamenti és tanácsi irányelvben meghatározott fel
 
 c) az általános csoportmentességi rendelet 41. cikkében meghatározott kizárt esetekben.
 
-(4)[^235] A villamosenergia-tárolási projektekhez − ideértve a hőtárolást is − nyújtott beruházási támogatás abban az esetben nyújtható, ha
+(4)[^284] A villamosenergia-tárolási projektekhez − ideértve a hőtárolást is − nyújtott beruházási támogatás abban az esetben nyújtható, ha a tárolást szolgáló berendezés energiájának évi legalább 75%-át a közvetlenül összekapcsolt megújulóenergia-termelő létesítményből nyeri.
 
-a) a beruházás megújuló energiatermelésre és tárolásra, vagy
-
-b) meglévő megújulóenergia-termelő létesítmény esetén kizárólag tárolásra
-
-irányul, és a tárolást szolgáló berendezés energiájának évi legalább 75%-át a közvetlenül összekapcsolt megújulóenergia-termelő létesítményből nyeri.
-
-(5)[^236] A bioüzemanyagok, folyékony bio-energiahordozók, biogáz − ideértve a biometánt is − és biomassza előállításához és tárolásához nyújtott beruházási támogatás abban az esetben nyújtható, ha
+(5)[^285] A bioüzemanyagok, folyékony bio-energiahordozók, biogáz − ideértve a biometánt is − és biomassza előállításához és tárolásához nyújtott beruházási támogatás abban az esetben nyújtható, ha
 
 a) a támogatott üzemanyagok megfelelnek az (EU) 2018/2001 irányelvben és annak végrehajtási vagy felhatalmazáson alapuló jogi aktusaiban foglalt, a fenntarthatóságra és az üvegházhatásúgáz-kibocsátás megtakarítására vonatkozó kritériumoknak, valamint az (EU) 2018/2001 irányelv IX. mellékletében felsorolt alapanyagból készültek, és
 
 b) a tárolást szolgáló berendezés tüzelőanyag-tartalmának évi legalább 75%-át a közvetlenül összekapcsolt, bioüzemanyagot, folyékony bio-energiahordozót, biogázt − ideértve a biometánt − és biomasszából előállított üzemanyagot termelő létesítményből szerzi be.
 
-(6)[^237] A (4) bekezdés a) pontja és az (5) bekezdés esetén a termelés, az előállítás és a tárolás a 26/ZK. § (3) bekezdése szerinti értékhatár tekintetében egyetlen beruházási projektnek minősül.
+(6)[^286] A (4) bekezdés és az (5) bekezdés esetén a termelés, az előállítás és a tárolás a 26/ZK. § (3) bekezdése szerinti értékhatár tekintetében egyetlen beruházási projektnek minősül.
 
-(7)[^238] A hidrogén előállítására irányuló beruházási támogatás kizárólag megújuló hidrogént előállító létesítményekhez nyújtható, ideértve a megújuló hidrogén átvitelére és elosztására szolgáló infrastruktúrát, valamint a megújuló hidrogént tároló létesítményeket is.
+(7)[^287] A hidrogén előállítására irányuló beruházási támogatás kizárólag megújuló hidrogént előállító létesítményekhez nyújtható, ideértve a megújuló hidrogén átvitelére és elosztására szolgáló infrastruktúrát, valamint a megújuló hidrogént tároló létesítményeket is.
 
-(8)[^239] A (7) bekezdés esetén, ha a támogatott projekt elektrolizátorból, egy vagy több megújuló energiatermelő egységből áll, és egy hálózati csatlakozási ponttal rendelkezik, az elektrolizátor kapacitása nem haladhatja meg a megújulóenergia-termelő egységek együttes kapacitását.
+(8)[^288] A (7) bekezdés esetén, ha a támogatott projekt elektrolizátorból, egy vagy több megújuló energiatermelő egységből áll, és egy hálózati csatlakozási ponttal rendelkezik, az elektrolizátor kapacitása nem haladhatja meg a megújulóenergia-termelő egységek együttes kapacitását.
 
-[^234]: A 26/ZH. § (1) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^235]: A 26/ZH. § (4) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^236]: A 26/ZH. § (5) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^237]: A 26/ZH. § (6) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^238]: A 26/ZH. § (7) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^239]: A 26/ZH. § (8) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^283]: A 26/ZH. § (1) bekezdése a 81/2025. (IV. 17.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^284]: A 26/ZH. § (4) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^285]: A 26/ZH. § (5) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^286]: A 26/ZH. § (6) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 30. § 18. pontja szerint módosított szöveg.
+[^287]: A 26/ZH. § (7) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^288]: A 26/ZH. § (8) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.

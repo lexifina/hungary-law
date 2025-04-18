@@ -10,11 +10,11 @@ c)[^3] az Európai Bizottságnak a regionális állami támogatásokról szóló
 
 d)[^4]
 
-e)[^5] az általános csoportmentességi rendelet 41. cikke szerinti megújuló energia támogatására irányuló beruházási,
+e)[^5] az általános csoportmentességi rendelet 41. cikke szerinti megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermelés támogatására irányuló beruházási,
 
-f)[^6] az Európai Bizottságnak az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú közleménye (a továbbiakban: Közlemény) 2.1. szakaszában, valamint az Európai Bizottság vonatkozó támogatási programot jóváhagyó SA.104850 számú és az azt módosító határozataiban foglalt feltételek szerinti korlátozott összegű,
+f)[^6]
 
-g)[^7] a Közlemény 2.8. szakasza szerinti, „A nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű ágazatokban történő gyorsított beruházásokhoz nyújtott támogatás” esetében,
+g)[^7] a az Európai Bizottságnak az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú közleménye (a továbbiakban: Közlemény) 2.8. szakasza szerinti, „A nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű ágazatokban történő gyorsított beruházásokhoz nyújtott támogatás” esetében,
 
 ga) a Közlemény (85) bekezdés alapján az Európai Bizottság vonatkozó ügyben hozott határozatában és az azt módosító határozataiban foglalt feltételekkel összhangban lévő,
 
@@ -30,6 +30,6 @@ támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyúj
 [^2]: A 2. § (1) bekezdés b) pontja a 632/2023. (XII. 23.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés c) pontja a 720/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 310/2022. (VIII. 11.) Korm. rendelet 12. § a) pontja, a 632/2023. (XII. 23.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés d) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, a 632/2023. (XII. 23.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
-[^5]: A 2. § (1) bekezdés e) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A 2. § (1) bekezdés f) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 366/2023. (VIII. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdés g) pontját a 366/2023. (VIII. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés e) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 30. § 1. pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés f) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, a 81/2025. (IV. 17.) Korm. rendelet 31. § 1. pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés g) pontját a 366/2023. (VIII. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be, nyitó szövegrésze a 81/2025. (IV. 17.) Korm. rendelet 30. § 2. pontja szerint módosított szöveg.
