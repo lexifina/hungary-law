@@ -1,5 +1,3 @@
-## 97. § A kártérítési felelősség megállapítására, illetve a kártérítés alóli mentesítésre, továbbá fizetési könnyítés engedélyezésére egymillió forintot meghaladó kár esetén a NAV vezetője jogosult.
-
 ## 24. Eltérés a fegyelmi eljárás szabályaitól
 
 ## 98. § A kártérítési eljárásra e rendelet fegyelmi eljárásra vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy
