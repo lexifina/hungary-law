@@ -1,0 +1,1 @@
+5. § A Hatóság kötelezi a szervezetet az elektronikus információs rendszer biztonsági osztályának felülvizsgálatára és módosítására, ha a kiberbiztonsági audit lefolytatása során, a szervezet által megállapított biztonsági osztály megfelelőségének vizsgálata eredményeként az auditor „nem megfelelő” értékelést rögzített.
