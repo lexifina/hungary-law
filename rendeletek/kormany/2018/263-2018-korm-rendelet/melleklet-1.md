@@ -4,9 +4,9 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolvány az alábbi adatokat tartalmazza:
 
-1. Kibocsátó szervezet megnevezése: „Pénzügyminisztérium”
+1.[^43] Kibocsátó szervezet megnevezése: „Nemzetgazdasági Minisztérium”
 
-2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^43] igazolvány”
+2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^44] igazolvány”
 
 3. Nyilvántartási szám
 
@@ -22,7 +22,7 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 6. Fénykép
 
-7. „A pénzügyminiszter az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló 263/2018. (XII. 20.) Korm. rendelet alapján adótanácsadói/adószakértői/okleveles adószakértői* tevékenység végzése céljából ............... számon nyilvántartásba vette. Ezen nyilvántartásba vétel alapján az igazolvány tulajdonosa adótanácsadói/adószakértői/okleveles adószakértői* tevékenység folytatására jogosult.”
+7.[^45] „A nemzetgazdasági miniszter az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló 263/2018. (XII. 20.) Korm. rendelet alapján adótanácsadói/adószakértői/okleveles adószakértői* tevékenység végzése céljából ............... számon nyilvántartásba vette. Ezen nyilvántartásba vétel alapján az igazolvány tulajdonosa adótanácsadói/adószakértői/okleveles adószakértői* tevékenység folytatására jogosult.”
 
 8. Igazolvány érvényességi ideje
 
@@ -30,4 +30,6 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 10. Kibocsátó aláírása, bélyegzője
 
-[^43]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.
+[^43]: Az 1. melléklet 1. pontja a 78/2025. (IV. 17.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^44]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.
+[^45]: Az 1. melléklet 7. pontja a 78/2025. (IV. 17.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
