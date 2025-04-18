@@ -6,6 +6,6 @@
 
 (4) Az elektori nyilvántartó rendszer rendelkezésre állásának biztosításáért, működtetéséért, az elektori gyűlések lebonyolításáért, technikai, tárgyi és személyi feltételeinek biztosításáért, valamint a gyűlések dokumentálásáért az elektori választást lebonyolító szerv felelős.
 
-(5)[^137] A (2) és (3) bekezdés szerinti jegyzőkönyveket a hivatalos honlapon kell nyilvánosságra hozni az elektori választással kapcsolatos összesített adatok rendelkezésre állását követő öt napon belül.
+(5)[^140] A (2) és (3) bekezdés szerinti jegyzőkönyveket a hivatalos honlapon kell nyilvánosságra hozni az elektori választással kapcsolatos összesített adatok rendelkezésre állását követő öt napon belül.
 
-[^137]: A 23. § (5) bekezdése az 5/2023. (VIII. 30.) MVM rendelet 7. §-ával megállapított szöveg.
+[^140]: A 23. § (5) bekezdése az 5/2023. (VIII. 30.) MVM rendelet 7. §-ával megállapított szöveg.

@@ -42,7 +42,7 @@
 
 | Z | ÖSSZESEN (Z=A+B+C+D) |  |  |  |  |  |
 
-8. melléklet az 5/2012. (II. 16.) KIM rendelethez[^200]
+8. melléklet az 5/2012. (II. 16.) KIM rendelethez[^203]
 
 Közzétételi lista
 
@@ -70,4 +70,4 @@ hivatalos honlap adattartalma
 
 |  | Alap támogatásaiból kizárt szervezet | A pályázati azonosító, a támogatás célja, a pályázó neve, címe, adószáma, képviselőjének neve, a pályázatot kiíró kollégium megnevezése, a pályázati felhívás címe, a visszavont összeg. | A hitelesített dokumentum beérkezését követő 3 napon belül | A honlapon történő közzététel évét követő 10 év | Alapkezelő |
 
-[^200]: A 8. melléklet a 23/2017. (X. 3.) EMMI rendelet 11. § d) pontjával megállapított szöveg.
+[^203]: A 8. melléklet a 23/2017. (X. 3.) EMMI rendelet 11. § d) pontjával megállapított szöveg.

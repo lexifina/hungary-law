@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-2T
 | 2024-03-09 | 2012-5-20-2T.24 | 31/2014. (IV. 14.) EMMI rendelet |
 | 2024-05-08 | 2012-5-20-2T.25 | 6/2024. (V. 7.) MVM rendelet |
 | 2024-11-14 | 2012-5-20-2T.26 | 5/2023. (VIII. 30.) MVM rendelet |
+| 2025-04-18 | 2012-5-20-2T.27 | 2/2025. (IV. 15.) MvM rendelet |
