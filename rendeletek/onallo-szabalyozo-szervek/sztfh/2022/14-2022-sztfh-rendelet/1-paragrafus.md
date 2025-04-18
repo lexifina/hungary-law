@@ -12,6 +12,6 @@ e) geotermikus energia földtana vagy
 
 f) ásványvagyon-gazdálkodás
 
-## szakterület vonatkozásában lehet megtenni.
+szakterület vonatkozásában lehet megtenni.
 
 (2) A bejelentés tartalmazza az (1) bekezdés szerinti szakterület megnevezését.

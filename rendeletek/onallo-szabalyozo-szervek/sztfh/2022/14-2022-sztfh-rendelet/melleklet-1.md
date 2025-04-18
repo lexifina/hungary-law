@@ -2,7 +2,7 @@
 
 1. melléklet a 14/2022. (I. 28.) SZTFH rendelethez
 
-## Az egyes földtani szakértői szakterületeken folytatható tevékenységek
+Az egyes földtani szakértői szakterületeken folytatható tevékenységek
 
 1. Általános földtan
 

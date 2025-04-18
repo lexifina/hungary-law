@@ -1,6 +1,6 @@
 2. § (1) A bejelentéshez mellékelni kell
 
-a) a szakirányú szakképzettséget, illetve a tudományos fokozatot igazoló oklevél másolatát és
+a)[^1] a 4. § szerinti szakirányú szakképzettséget, illetve a tudományos fokozatot igazoló oklevél másolatát és
 
 b) a szakmai gyakorlat teljesítéséről szóló igazolást.
 
@@ -15,3 +15,5 @@ b) az adott munkakörben, álláshelyen töltött időtartamot naptári napokban
 c) a munkáltató vagy foglalkoztató megnevezését, címét és cégszerű aláírását.
 
 (4) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a gyakorlati időt és az igazolást kérő személy természetes személyazonosító adatait tartalmazó szerződés vagy a munkavégzés igazolására alkalmas más dokumentum is elfogadható a szakmai gyakorlati idő igazolására.
+
+[^1]: A 2. § (1) bekezdés a) pontja a 4/2025. (IV. 17.) SZTFH rendelet 16. § a) pontja szerint módosított szöveg.
