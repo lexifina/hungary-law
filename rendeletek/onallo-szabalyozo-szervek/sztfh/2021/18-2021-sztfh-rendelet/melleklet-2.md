@@ -1,4 +1,4 @@
-2. melléklet a 18/2021. (X. 29.) SZTFH rendelethez[^35]
+2. melléklet a 18/2021. (X. 29.) SZTFH rendelethez[^40]
 
 Az egészségügyi tájékoztató digitális megjelenítéséhez szükséges technikai, rendszerbeli és üzemeltetési feltételek
 
@@ -26,4 +26,4 @@ Az egészségügyi tájékoztató digitális megjelenítéséhez szükséges tec
 
 Szolgáltató igénybevétele esetén annak érdekében, hogy a dohánytermék értékesítési helyén a fogyasztók kiszolgálását végzők az elektronikus eszköz kifogástalan működéséről megbizonyosodhassanak, az elektronikus eszköznek automatikusan be kell kapcsolnia a dohánytermék-értékesítési hely nyitása előtt, és a nyitvatartási idő kezdetekor meg kell kezdenie a megjelenítést, amelynek folyamatosságát biztosítani kell a teljes nyitvatartási időben. Ha szolgáltató igénybevételére nem kerül sor, a dohánytermék-kiskereskedelmi tevékenységet végző személy gondoskodik arról, hogy az elektronikus eszköz a nyitvatartási idő kezdetekor megkezdje a megjelenítést, amelynek folyamatosságát biztosítania kell a teljes nyitvatartási időben.
 
-[^35]: A 2. mellékletet a 13/2023. (VI. 30.) SZTFH rendelet 2. §-a iktatta be.
+[^40]: A 2. mellékletet a 13/2023. (VI. 30.) SZTFH rendelet 2. §-a iktatta be.
