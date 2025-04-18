@@ -1,6 +1,6 @@
 5/B. § (1) A megszüntetésre került álláshelyhez tartozó ügyeket az álláshely megszüntetésével egyidejűleg az átadó végrehajtó – a (2)–(4) bekezdésben foglalt kivétellel – az ugyanazon járásbíróság mellett működő másik önálló végrehajtó részére adja át. Az átadó végrehajtó az átadás megtörténtéről 2 munkanapon belül tájékoztatja a Kar Hivatali szervét.
 
-(2) Ha ugyanazon járásbíróság mellett a megszüntetésre kerülő álláshelyen kívül az 1. melléklet szerint egynél több álláshely van, az ugyanazon járásbíróság mellé kinevezett önálló végrehajtók az álláshely megszüntetését megelőző legkésőbb 45. napig – az (5) bekezdés szerinti módon és tartalommal – megállapodhatnak arról, hogy a megszüntetésre került álláshelyhez tartozó ügyeket közülük melyik önálló végrehajtó veszi át (átvevő végrehajtó). A megállapodás érvényességének feltétele, hogy azt valamennyi, ugyanazon járásbíróság mellé kinevezett önálló végrehajtó aláírja.
+(2)[^11] Ha ugyanazon járásbíróság mellett a megszüntetésre kerülő álláshelyen kívül az 1. melléklet szerint egynél több álláshely van, az ugyanazon járásbíróság mellé kinevezett önálló végrehajtók az álláshely megszüntetését megelőző legkésőbb 45. napig – a (6) bekezdés szerinti módon és tartalommal – megállapodhatnak arról, hogy a megszüntetésre került álláshelyhez tartozó ügyeket közülük melyik önálló végrehajtó veszi át (átvevő végrehajtó). A megállapodás érvényességének feltétele, hogy azt valamennyi, ugyanazon járásbíróság mellé kinevezett önálló végrehajtó aláírja.
 
 (3) A megállapodás egy közjegyzői okiratba foglalt példányát az átvevő végrehajtó a megállapodás aláírását követő 2 munkanapon belül benyújtja a Kar Hivatali szervének, és egyidejűleg tájékoztatja az átadó végrehajtót az átvevő végrehajtói minőségéről.
 
@@ -19,3 +19,5 @@ c) az átvevő végrehajtó nevét és jelvényszámát,
 d) a járásbíróság mellett működő valamennyi önálló végrehajtó nyilatkozatát arról, hogy tudomásul veszik, hogy a megszüntetésre került álláshelyhez tartozó ügyek a megállapodás szerint kerülnek átadásra, és
 
 e) a járásbíróság mellett működő valamennyi önálló végrehajtó aláírását.
+
+[^11]: Az 5/B. § (2) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
