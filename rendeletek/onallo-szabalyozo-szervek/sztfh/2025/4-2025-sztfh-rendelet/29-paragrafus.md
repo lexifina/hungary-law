@@ -1,3 +1,3 @@
-29. § A 10/2023. (V. 15.) SZTFH rendelet 14. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+29. §[^36]
 
-(A megfelelőségértékelő szervezet a változás beálltát követő 8 napon belül bejelenti a tanúsító hatóságnak, ha)
+[^36]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

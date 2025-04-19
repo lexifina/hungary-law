@@ -1,5 +1,5 @@
 ## 9. Az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló 10/2023. (V. 15.) SZTFH rendelet módosítása
 
-27. § Az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló 10/2023. (V. 15.) SZTFH rendelet [a továbbiakban: 10/2023. (V. 15.) SZTFH rendelet] 1. §-a helyébe a következő rendelkezés lép:
+27. §[^34]
 
-„1. § A Szabályozott Tevékenységek Felügyeleti Hatósága mint a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) 45. § (1) bekezdés a) pontjában kijelölt nemzeti kiberbiztonsági tanúsító hatóság (a továbbiakban: tanúsító hatóság) a tanúsító hatósági feladatokat – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel össze nem függő – európai vagy nemzeti kiberbiztonsági tanúsítási rendszer (a továbbiakban együtt: tanúsítási rendszer) hatálya alá tartozó IKT-termék, IKT-szolgáltatás vagy IKT-folyamat vonatkozásában látja el. A tanúsító hatóság hatásköre a Magyarországon letelepedett gyártó, illetve megfelelőségértékelő szervezet tevékenységére terjed ki.”
+[^34]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

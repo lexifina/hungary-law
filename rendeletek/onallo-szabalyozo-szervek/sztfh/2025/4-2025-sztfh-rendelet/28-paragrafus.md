@@ -1,7 +1,3 @@
-28. § A 10/2023. (V. 15.) SZTFH rendelet 2. § a) pont ad) alpontja helyébe a következő rendelkezés lép:
+28. §[^35]
 
-(A tanúsító hatóság
-
-kiberbiztonsági tanúsítási felügyeleti tevékenysége keretében végzi)
-
-„ad) a Kiberbiztonsági tv. 63. §-a szerinti kiberbiztonsági incidenskezelő központ bevonásával az IKT-termékkel, IKT-szolgáltatással vagy IKT-folyamattal kapcsolatosan bejelentett, sebezhetőséggel összefüggő feladatokat, valamint”
+[^35]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

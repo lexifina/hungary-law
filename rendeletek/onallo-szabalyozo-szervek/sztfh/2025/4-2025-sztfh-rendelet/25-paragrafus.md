@@ -1,5 +1,3 @@
-25. § Hatályát veszti a 20/2022. (I. 31.) SZTFH rendelet
+25. §[^32]
 
-a) 23. § (5) bekezdésében a „közérdekű” szövegrész és az „a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és” szövegrész,
-
-b) 30. § (3) bekezdésében a „rétegsavazást,” szövegrész.
+[^32]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

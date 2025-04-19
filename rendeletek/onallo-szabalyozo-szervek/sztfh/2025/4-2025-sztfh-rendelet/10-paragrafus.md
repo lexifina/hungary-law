@@ -1,3 +1,5 @@
 ## 3. A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló 22/2021. (XII. 28.) SZTFH rendelet módosítása
 
-10. § A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló 22/2021. (XII. 28.) SZTFH rendelet 1. § (1) bekezdés b) pontjában az „az Fdvtv. 15/F. §-a” szövegrész helyébe az „az Fdvtv. 15/H. §-a” szöveg lép.
+10. §[^17]
+
+[^17]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

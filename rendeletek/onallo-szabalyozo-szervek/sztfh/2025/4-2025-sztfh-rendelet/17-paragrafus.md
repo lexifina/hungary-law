@@ -1,7 +1,3 @@
-17. § Hatályát veszti a 14/2022. (I. 28.) SZTFH rendelet
+17. §[^24]
 
-a) 5. § (2) bekezdése,
-
-b) 10. § (1), (2), valamint (4) bekezdése,
-
-c) 2. melléklete.
+[^24]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 18/2021. (X. 29.) SZTFH rendelet 6/A. § (3) bekezdésében a „nem rendszeresen tartott,” szövegrész.
+9. §[^16]
+
+[^16]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

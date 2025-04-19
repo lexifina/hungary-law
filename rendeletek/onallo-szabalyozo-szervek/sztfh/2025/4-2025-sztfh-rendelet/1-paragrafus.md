@@ -56,6 +56,6 @@
 
 ## 1. A bírósági végrehajtás szervezetéről szóló 6/2021. (X. 29.) SZTFH rendelet módosítása
 
-1. § A bírósági végrehajtás szervezetéről szóló 6/2021. (X. 29.) SZTFH rendelet [a továbbiakban: 6/2021. (X. 29.) SZTFH rendelet] 6. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^1]
 
-„(1b) Új önálló bírósági végrehajtói álláshely létesítése esetén – ha e rendelet eltérően nem rendelkezik – az önálló végrehajtói álláshelyre a pályázatot a Kar Hivatali szerve a Hatóság elnöke egyetértésével, a Hatóság elnökének az álláshely létesítéséről szóló rendelete kihirdetését követően – az álláshely létesítését megelőzően – is kiírhatja.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
