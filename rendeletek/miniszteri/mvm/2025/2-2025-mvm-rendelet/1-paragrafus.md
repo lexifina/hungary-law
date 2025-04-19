@@ -2,6 +2,6 @@
 
 ## [2] Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 73. § (2) bekezdés a), c) és d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 30. § (1) bekezdés 5. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben a következőket rendelem el:
 
-1. § A Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet (a továbbiakban: NEAr.) 4. § (7) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(7) A pályázat elbírálását, illetve a jogosultság megállapítását követő tíz napon belül a döntéseket tartalmazó dokumentumot az Alapkezelő átadja a Tanács elnökének, és egyidejűleg nyilatkozattételre hívja fel. A Civil tv. 56. § (1) bekezdés a) és h) pontja szerinti támogatási cél esetében a Tanács elnöke nyilatkozik a jogosultsági listában szereplő pályázatok támogathatóságáról a 14/A. § (2) bekezdése és a 14/B. § (3) bekezdése figyelembevételével.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
