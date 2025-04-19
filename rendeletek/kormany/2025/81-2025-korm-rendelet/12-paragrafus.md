@@ -1,3 +1,3 @@
-12. § A Rendelet 26. § (2) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+12. §[^13]
 
-(A támogató eláll a támogatási szerződéstől, ha)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

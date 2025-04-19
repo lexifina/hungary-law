@@ -1,3 +1,3 @@
-11. § A Rendelet 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(2) Támogatási előleg nem nyújtható, kivéve, ha kisvállalkozás vagy középvállalkozás részesül támogatásban, ebben az esetben a támogató a beruházás kockázatértékelése alapján engedélyezheti előleg folyósítását a támogatási összeg 25%-ának mértékéig.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

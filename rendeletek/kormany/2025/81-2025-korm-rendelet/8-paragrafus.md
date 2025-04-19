@@ -1,3 +1,3 @@
-8. § A Rendelet 16. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Ha)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

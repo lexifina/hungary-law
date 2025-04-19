@@ -1,3 +1,3 @@
-17. § A Rendelet 26/P. § (2) bekezdése a következő f) ponttal egészül ki:
+17. §[^18]
 
-(A támogató elállhat a támogatási szerződéstől, ha)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

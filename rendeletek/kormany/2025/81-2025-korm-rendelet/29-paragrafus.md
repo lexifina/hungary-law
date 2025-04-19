@@ -1,7 +1,3 @@
-29. § A Rendelet
+29. §[^30]
 
-a) 1. melléklete helyébe az 1. melléklet,
-
-b) 2. melléklete helyébe a 2. melléklet
-
-lép.
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

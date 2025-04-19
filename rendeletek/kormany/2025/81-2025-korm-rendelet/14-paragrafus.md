@@ -1,3 +1,3 @@
-14. § A Rendelet 26/H. § (1a) bekezdése a következő c) ponttal egészül ki:
+14. §[^15]
 
-(Nem minősül elszámolható költségnek)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-10. § A Rendelet 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„(3) A (2) bekezdésben meghatározott biztosíték mellett a támogatási szerződésben további biztosíték nyújtását is elő kell írni, kivéve a 9. § (1) bekezdés h) pontja szerinti beruházás esetében. Biztosíték lehet az óvadék, a garancia, a készfizető kezesség vagy ingatlan-jelzálogjog, valamint ezek egyidejű vagy időben egymást követő kombinációja. E biztosítékok körét, kombinációját és benyújtásuk határidejét a támogató jogosult meghatározni a beruházás kockázatértékelését követően úgy, hogy az a támogatás maradéktalan, a lehető legrövidebb időn belüli visszafizetését – ideértve a jogszabály vagy a támogatási szerződés alapján járó esetleges kamatokat – eredményesen biztosítsa.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

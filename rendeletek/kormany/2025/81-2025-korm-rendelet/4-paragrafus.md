@@ -1,7 +1,3 @@
-4. § (1) A Rendelet 9/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(4) A kiegészítő energetikai beruházás támogatására – a 26/ZM. § (1) és (2) bekezdése kivételével – a IV/C. fejezetben meghatározott rendelkezéseket kell alkalmazni.”
-
-(2) A Rendelet 9/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A kiegészítő energetikai beruházás támogatására – a 26/ZM. § (1) és (2) bekezdése kivételével – a IV/C. fejezetben meghatározott rendelkezéseket kell alkalmazni.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
