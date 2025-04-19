@@ -1,9 +1,5 @@
 ## 2. A könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet módosítása
 
-2. § A könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet 3. számú melléklet
+2. §[^2]
 
-a) 1. pontjában a „Pénzügyminisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg,
-
-b) 8. pontjában a „pénzügyminiszter” szövegrész helyébe a „nemzetgazdasági miniszter” szöveg
-
-lép.
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

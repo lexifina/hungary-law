@@ -1,3 +1,3 @@
-4. § A NAV Korm. rendelet 6. §-a a következő (4) bekezdéssel egészül ki:
+4. §[^4]
 
-„(4) Az e-pénztárgép és a vevői alkalmazás forgalmazását a Központi Irányítás engedélyezi.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-1. melléklet a 78/2025. (IV. 17.) Korm. rendelethez
+1. melléklet a 78/2025. (IV. 17.) Korm. rendelethez[^29]
 
-Az Adóig. vhr. 1. melléklet 11. pont 11.4. alpontja helyébe a következő rendelkezés lép:
-
-(A kérelem tartalmazza)
-
-„11.4. a hiteles cégaláírási nyilatkozatot (ügyvéd által ellenjegyzett aláírásmintát, közjegyzői hitelesítéssel ellátott aláírási címpéldányt), kivéve, ha a képviseleti jogosultság igazolására szolgáló okiratot a cég törvényes képviselője elektronikus aláírással látta el,”
+[^29]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

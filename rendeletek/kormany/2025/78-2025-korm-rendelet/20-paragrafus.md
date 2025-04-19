@@ -1,3 +1,3 @@
-20. §[^5]
+20. §[^20]
 
-[^5]: A 20. § a 28. § (3) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+[^20]: A 20. § a 28. § (3) bekezdése alapján 2025. augusztus 1-jén lép hatályba.

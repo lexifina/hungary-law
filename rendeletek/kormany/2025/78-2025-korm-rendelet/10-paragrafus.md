@@ -1,3 +1,3 @@
-10. § A NAV Korm. rendelet 86. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+10. §[^10]
 
-(A Bűnügyi Főigazgatóság)
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

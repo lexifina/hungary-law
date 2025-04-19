@@ -1,9 +1,5 @@
 ## 5. Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló 263/2018. (XII. 20.) Korm. rendelet módosítása
 
-25. § Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló 263/2018. (XII. 20.) Korm. rendelet 1. melléklet
+25. §[^26]
 
-a) 1. pontjában a „Pénzügyminisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg,
-
-b) 7. pontjában a „pénzügyminiszter” szövegrész helyébe a „nemzetgazdasági miniszter” szöveg
-
-lép.
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

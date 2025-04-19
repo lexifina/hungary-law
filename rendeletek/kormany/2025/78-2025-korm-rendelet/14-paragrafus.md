@@ -1,3 +1,3 @@
-14. §[^2]
+14. §[^14]
 
-[^2]: A 14. § a 28. § (4) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^14]: A 14. § a 28. § (4) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

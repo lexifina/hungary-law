@@ -38,4 +38,6 @@
 
 ## 1. Az egészségügyi hozzájárulásról szóló 1996. évi LXXXVIII. törvény végrehajtásáról szóló 202/1996. (XII. 23.) Korm. rendelet hatályon kívül helyezése
 
-1. § Hatályát veszti az egészségügyi hozzájárulásról szóló 1996. évi LXXXVIII. törvény végrehajtásáról szóló 202/1996. (XII. 23.) Korm. rendelet.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

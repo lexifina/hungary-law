@@ -1,3 +1,3 @@
-5. § A NAV Korm. rendelet 14. §-a a következő f) ponttal egészül ki:
+5. §[^5]
 
-(A vármegyei igazgatóságok ellátják)
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
