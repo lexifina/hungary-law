@@ -2,6 +2,6 @@
 
 ## [2] Az illetékekről szóló 1990. évi XCIII. törvény 100. § (2) bekezdésében, valamint a mozgóképről szóló 2004. évi II. törvény 38. § i) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 10. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § A Nemzeti Filmiroda egyes eljárásainak igazgatási szolgáltatási díjairól és a díjfizetés módjáról szóló 6/2019. (XII. 30.) MK rendelet (a továbbiakban: R.) a következő 16. §-sal egészül ki:
+1. §[^2]
 
-„16. § E rendeletnek a Nemzeti Filmiroda egyes eljárásainak igazgatási szolgáltatási díjairól és a díjfizetés módjáról szóló 6/2019. (XII. 30.) MK rendelet módosításáról szóló 5/2025. (IV. 17.) KIM rendelettel (a továbbiakban: R1.) megállapított 10. § (2), (4) és (5) bekezdését, valamint 13. §-át az R1. hatálybalépését követően indult, valamint azokban a folyamatban lévő eljárásokban kell alkalmazni, ahol az e rendelet szerinti díjak megfizetése még nem történt meg.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

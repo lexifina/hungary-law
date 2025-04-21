@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-5-20-8O
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-04-20 | 2025-5-20-8O.1 | 5/2025. (IV. 17.) KIM rendelet |
+| 2025-04-21 | 2025-5-20-8O.2 | 2010. évi CXXX. törvény |
