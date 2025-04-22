@@ -20,6 +20,4 @@
 
 ## 1. Az Óvodai nevelés országos alapprogramjáról szóló 363/2012. (XII. 17.) Korm. rendelet módosítása
 
-1. §[^1]
-
-[^1]: Az 1. § a 7. § (2) bekezdése alapján 2025. április 22-én lép hatályba.
+1. § Az Óvodai nevelés országos alapprogramjáról szóló 363/2012. (XII. 17.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
