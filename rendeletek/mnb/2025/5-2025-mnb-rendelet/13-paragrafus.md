@@ -1,0 +1,1 @@
+13. § Hatályát veszti a Magyar Nemzeti Bank egyes hatósági döntéseivel kapcsolatos hatáskörgyakorlás, valamint a hatáskör gyakorlója helyettesítésének, kizárásának részletes szabályairól szóló 56/2022. (XII. 22.) MNB rendelet.
