@@ -1,0 +1,1 @@
+11. § A szolgálati jelvényre a 3. §-ban, a 6. § (1) bekezdésében, a 7. § (1) bekezdésében, a 7. § (2) bekezdés a) és b) pontjában, a 7. § (3) bekezdésében, a 8. §-ban, a 9. § (1) bekezdés a) pontjában, a 9. § (2) bekezdés a)–d) és g) pontjában, a 9. § (3)–(6) bekezdésében, valamint a 10. §-ban foglaltakat megfelelően alkalmazni kell.

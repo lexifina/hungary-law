@@ -1,0 +1,1 @@
+20. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai szolgálati igazolványának és szolgálati jelvényének rendszeresítéséről, valamint szolgálati igazolvánnyal és szolgálati jelvénnyel történő ellátásának rendjéről szóló 13/2023. (VI. 14.) MK rendelet.
