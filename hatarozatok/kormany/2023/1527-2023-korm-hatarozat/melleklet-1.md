@@ -16,10 +16,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1527/2023. (XII. 1.) Korm. határozathoz
+1. melléklet az 1527/2023. (XII. 1.) Korm. határozathoz[^4]
 
 A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési kerete
 
 [^1]: Az 1. pont c) alpontja az 1180/2024. (VI. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: Az 1. pont d) alpontját az 1180/2024. (VI. 20.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont e) alpontját az 1180/2024. (VI. 20.) Korm. határozat 3. pontja iktatta be.
+[^4]: Az 1. melléklet az 1124/2025. (IV. 22.) Korm. határozat 2. pontjával megállapított szöveg.
