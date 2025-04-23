@@ -1,6 +1,6 @@
 ## 8. § A doktori iskola megszüntetéséről a doktori tanács vagy a rektor kezdeményezésére a szenátus dönt. A rektor kezdeményezése esetén a szenátus – döntése előtt – beszerzi a doktori tanács véleményét. A rektor a szenátus döntése szerint kezdeményezi a Hivatalnál a doktori iskola nyilvántartott adatainak módosítását. A doktori iskolát a Hivatal bizonyítási eljárás lefolytatása nélkül törli a nyilvántartásból.
 
-## 1/A.[^12] A művészeti felsőoktatási intézmény doktori iskolája
+## 1/A.[^16] A művészeti felsőoktatási intézmény doktori iskolája
 
 8/A. § (1) A művészeti felsőoktatási intézményben doktori iskola létesítését legalább hét törzstag kezdeményezheti. A törzstagok többsége egyetemi tanár. Egy személy egyidejűleg csak egy doktori iskolában lehet törzstag.
 
@@ -24,4 +24,4 @@ a) megfelel a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvén
 
 b) a felsőoktatási intézménnyel vagy az azzal megállapodást kötő kutatóintézettel teljes- vagy részmunkaidőben munkaviszonyban vagy közalkalmazotti jogviszonyban áll.
 
-[^12]: Az 1/A. alcímet (8/A. §-t) a 617/2022. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^16]: Az 1/A. alcímet (8/A. §-t) a 617/2022. (XII. 29.) Korm. rendelet 7. §-a iktatta be.

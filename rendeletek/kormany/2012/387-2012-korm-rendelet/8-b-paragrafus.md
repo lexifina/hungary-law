@@ -1,4 +1,4 @@
-## 1/B.[^13] Az üzleti doktori képzés
+## 1/B.[^17] Az üzleti doktori képzés
 
 8/B. § (1) Az üzleti doktori képzés az Nftv. 40. § (6) bekezdésében meghatározott doktori iskolák önköltséges programjaként hirdethető meg. Az üzleti doktori képzés a gazdálkodás- és szervezéstudományok tudományághoz tartozó képzés. A doktori iskola törzstagsággal szemben támasztott követelménye megfelel a tudományos doktori cím követelményeitől eltérő követelményrendszer alapján működtetendő üzleti doktori képzés önálló programként való indításának.
 
@@ -26,4 +26,4 @@ b) részt vehet az üzleti doktori programot meghirdető doktori iskola programt
 
 (6) Üzleti doktori képzésben egyéni felkészülésre nincs lehetőség, a kutatási és disszertációs szakasz legkorábban a tanulmányok harmadik aktív félévének végén kezdhető meg a komplex vizsga letételével.
 
-[^13]: Az 1/B. alcímet (8/B. §-t) a 406/2024. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
+[^17]: Az 1/B. alcímet (8/B. §-t) a 406/2024. (XII. 18.) Korm. rendelet 10. §-a iktatta be.

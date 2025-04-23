@@ -22,7 +22,8 @@ i) a doktori iskola működési szabályzatát.
 
 (3) A doktori iskola létesítési dokumentációjának részét képezik a felsőoktatási intézmény által a doktori iskola tevékenységével kapcsolatos együttműködési megállapodások, különös tekintettel a 2. § (5) bekezdésében megjelölt együttműködési megállapodásokra.
 
-(4) A doktori tanács előzetes véleménye szükséges ahhoz, hogy a doktori iskola vezetőjének javasolt személy a doktori iskola létesítésére vonatkozó kérelmet – a rektor útján – a szenátus elé terjessze jóváhagyásra.
+(4)[^9] A doktori tanács előzetes véleménye szükséges ahhoz, hogy a doktori iskola vezetőjének javasolt személy a doktori iskola létesítésére vonatkozó kérelmet – a rektor útján – a szenátus vagy a szervezeti és működési szabályzatban megjelölt személy vagy szervezet (ezen alcím alkalmazásában a továbbiakban: a szenátus) elé terjessze jóváhagyásra.
 
 [^7]: Az 5. § (1) bekezdés e) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^8]: Az 5. § (1) bekezdés f) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
