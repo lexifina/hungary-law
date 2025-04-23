@@ -1,13 +1,11 @@
-12. § (1) Az EKÖP ösztöndíjprogram fedezetét a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) költségvetésében kell biztosítani.
+12. §[^15] (1) Az EKÖP ösztöndíjprogram fedezetét a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) Kutatási Alaprészében kell biztosítani. A program keretösszegére a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 10/D. § (1a) bekezdése alapján a Kutatási Kiválósági Tanács tesz javaslatot az NKFI Alap éves programstratégiájában.
 
-(2) Az EKÖP ösztöndíjprogram keretösszege (a továbbiakban: EKÖP keret) az NKFI Alap tárgyévi kiadási előirányzatának 5%-a, de legalább 10 milliárd forint, amely EKÖP alapkeretből és kooperatív doktori keretből áll.
+(2) Az ösztöndíjprogram keretösszege (a továbbiakban: EKÖP keret) EKÖP alapkeretből és EKÖP-KDP keretből áll.
 
-(3) Az NKFIH az EKÖP keret tárgyévi keretösszegét legkésőbb a tárgyév augusztus 31-ig biztosítja a felsőoktatási intézmény részére.
+(3) Az NKFIH az EKÖP keret tárgyévi keretösszegét a tanulmányi félévek rendje szerint biztosítja a felsőoktatási intézmény részére.
 
-(4) Az EKÖP alapkeret és a kooperatív doktori keret összege külön-külön a (2) bekezdés szerinti teljes keretösszeg 50%-a.
+(4) Az EKÖP keret egyes felsőoktatási intézmények közötti felosztásáról az NKFIH dönt, amelyet az NKFIH a honlapján a keretelosztás módszertanával együtt közzétesz.
 
-(5) Az EKÖP ösztöndíjprogram keretösszegének egyes felsőoktatási intézmények közötti felosztásáról – az EKÖP Tanács javaslata alapján – az NKFIH elnöke a tárgyévet megelőző év szeptember 30-ig dönt, amelyet az NKFIH a honlapján a keretelosztás módszertanával együtt közzétesz.
+(5) Az NKFIH (4) bekezdés szerinti döntése tartalmazza az EKÖP alapkeret és az EKÖP-KDP keret közötti megoszlást, valamint a felsőoktatási intézményeknek az ösztöndíjprogram lebonyolítására fordítható keretét is.
 
-(6)[^7] Az NKFIH elnökének (5) bekezdés szerinti döntése tartalmazza az EKÖP alapkeret és a kooperatív doktori keret közötti megoszlást, valamint a felsőoktatási intézményeknek az ösztöndíjprogram lebonyolítására fordítható keretét is.
-
-[^7]: A 12. § (6) bekezdése a 114/2024. (V. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 12. § a 84/2025. (IV. 22.) Korm. rendelet 19. §-ával megállapított szöveg.

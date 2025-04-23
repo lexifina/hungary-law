@@ -1,11 +1,11 @@
 ## 26. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-27. §[^24] (1) A 2017. december 31. napján roma szakkollégiumként működő szakkollégiumok – ha e rendeletnek a Roma Szakkollégiumi Tanács létrehozásával és működésével kapcsolatos egyes kormányrendeletek módosításáról szóló 362/2017. (XI. 30.) Korm. rendelettel módosított 21. §-a alapján roma szakkollégiumi minősítésük Oktatási Hivatal általi nyilvántartásba vételére nem kerül sor – 2018. december 1-jétől szakkollégiumként működnek tovább.
+27. §[^30] (1) A 2017. december 31. napján roma szakkollégiumként működő szakkollégiumok – ha e rendeletnek a Roma Szakkollégiumi Tanács létrehozásával és működésével kapcsolatos egyes kormányrendeletek módosításáról szóló 362/2017. (XI. 30.) Korm. rendelettel módosított 21. §-a alapján roma szakkollégiumi minősítésük Oktatási Hivatal általi nyilvántartásba vételére nem kerül sor – 2018. december 1-jétől szakkollégiumként működnek tovább.
 
-(2)[^25]
+(2)[^31]
 
-(3)[^26]
+(3)[^32]
 
-[^24]: A 27. §-t a 345/2015. (XI. 19.) Korm. rendelet 52. § 2. pontja hatályon kívül helyezte, újonnan a 362/2017. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
-[^25]: A 27. § (2) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 120. §-a hatályon kívül helyezte.
-[^26]: A 27. § (3) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 120. §-a hatályon kívül helyezte.
+[^30]: A 27. §-t a 345/2015. (XI. 19.) Korm. rendelet 52. § 2. pontja hatályon kívül helyezte, újonnan a 362/2017. (XI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^31]: A 27. § (2) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 120. §-a hatályon kívül helyezte.
+[^32]: A 27. § (3) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 120. §-a hatályon kívül helyezte.
