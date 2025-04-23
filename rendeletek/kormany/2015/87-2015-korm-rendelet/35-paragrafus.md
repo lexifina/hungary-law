@@ -18,7 +18,7 @@
 
 9. záróvizsga-jegyzőkönyv;
 
-10.[^190] doktori szigorlati jegyzőkönyv, komplexvizsga-jegyzőkönyv;
+10.[^216] doktori szigorlati jegyzőkönyv, komplexvizsga-jegyzőkönyv;
 
 11. doktori védési jegyzőkönyv;
 
@@ -40,4 +40,4 @@
 
 (2) Az (1) bekezdés 5., 7., 12–19. pont szerinti formanyomtatványok magyar nyelvű szövegét – a doktori oklevél kivételével – a 9. melléklet tartalmazza.
 
-[^190]: A 35. § (1) bekezdés 10. pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^216]: A 35. § (1) bekezdés 10. pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

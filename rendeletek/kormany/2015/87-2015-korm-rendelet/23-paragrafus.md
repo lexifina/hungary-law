@@ -6,6 +6,6 @@
 
 (3) A miniszter az eljárást lezáró döntését megküldi az ellenőrzött és a Hivatal részére.
 
-(4)[^146]
+(4)[^171]
 
-[^146]: A 23. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^171]: A 23. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

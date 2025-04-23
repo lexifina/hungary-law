@@ -4,17 +4,17 @@ a) a hallgató a felsőoktatási intézmény szabályzatában meghatározott mó
 
 b) a felsőoktatási intézmény a hallgató számára a szóbeli számonkérés esetén – a felsőoktatási intézmény szabályzatában meghatározott módon és időben – teljesítési lapot biztosít a (2) bekezdés szerinti tartalommal;
 
-c) a b) ponttól eltérő számonkérés esetén a felsőoktatási intézmény a hallgató számára a szabályzatában meghatározott módon és időben értesítést küld a hallgató értékeléséről; valamint
+c)[^242] a felsőoktatási intézmény a hallgató számára a szabályzatában meghatározott módon és időben értesítést küld a hallgató értékeléséről; valamint
 
 d) az intézmény által működtetett TR alkalmas arra, hogy a hallgató nyomtatható formában hozzáférjen a saját képzése 36. § (12) bekezdésében szabályozott törzslap-kivonatának adattartalmához, továbbá biztosítja a hallgató kérésére a 36. § (2) bekezdés 7. pontjában meghatározott adatok ingyenes hitelesítését félévente egy alkalommal.
 
-(2)[^212] A teljesítési lap tartalmazza az adott tanév félévét, a hallgató nevét, a oktatási azonosító számot, a hallgató által felvett tantárgy, tantervi egység megnevezését, a vizsga időpontját, a vizsga értékelését, a vizsgáztató oktató nevét, oktatási azonosító számát és aláírását.
+(2)[^243] A teljesítési lap tartalmazza az adott tanév félévét, a hallgató nevét, a oktatási azonosító számot, a hallgató által felvett tantárgy, tantervi egység megnevezését, a vizsga időpontját, a vizsga értékelését, a vizsgáztató oktató nevét, oktatási azonosító számát és aláírását.
 
 (3) Az egyedi sorszámmal ellátott, papír alapú leckekönyv tartalmazza legalább:
 
 1. a felsőoktatási intézmény nevét, székhelyét, intézményi azonosító számát;
 
-2.[^213] a hallgató oktatási azonosító számát, törzskönyvi számát;
+2.[^244] a hallgató oktatási azonosító számát, törzskönyvi számát;
 
 3. a hallgató személyazonosító adatait (neve, születési neve, születési helye és ideje, állampolgársága, anyja születési neve), a hallgató fényképét, a hallgató aláírását;
 
@@ -70,5 +70,6 @@ b) a külföldi felsőoktatási intézményben hallgatói jogviszonnyal rendelke
 
 (12) A felsőoktatási intézmény a hallgatói jogviszony fennállása alatt az elveszett vagy megsemmisült leckekönyv pótlására a törzslap alapján új leckekönyvet állít ki.
 
-[^212]: A 41. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) és h) pontja szerint módosított szöveg.
-[^213]: A 41. § (3) bekezdés 2. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^242]: A 41. § (1) bekezdés c) pontja a 84/2025. (IV. 22.) Korm. rendelet 42. § 14. pontja szerint módosított szöveg.
+[^243]: A 41. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) és h) pontja szerint módosított szöveg.
+[^244]: A 41. § (3) bekezdés 2. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.

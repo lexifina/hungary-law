@@ -4,9 +4,9 @@ a) a FIR alrendszerei és alkalmazásai technikailag képesek legyenek kapcsoló
 
 b) azon felsőoktatási intézmény számára, amellyel a hallgató, a doktorjelölt, az oktató, a kutató, a tanár jogviszonyban áll vagy állt, a FIR útján a FIR-ben tárolt és az adott felsőoktatási intézmény által közölt személyes adatok elektronikus formában hozzáférhetők legyenek;
 
-c)[^159] a FIR útján a felsőoktatási intézményekkel, a képzési rendszerükkel összefüggő és a FIR-ben tárolt intézményi és egyéb statisztikai adatok, információk elektronikus formában hozzáférhetők legyenek a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok és a hallgatók, a doktorjelöltek, a felsőoktatásba jelentkezők, a szakmai és érdek-képviseleti szervezetek számára;
+c)[^184] a FIR útján a felsőoktatási intézményekkel, a képzési rendszerükkel összefüggő és a FIR-ben tárolt intézményi és egyéb statisztikai adatok, információk elektronikus formában hozzáférhetők legyenek a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok és a hallgatók, a doktorjelöltek, a felsőoktatásba jelentkezők, a szakmai és érdek-képviseleti szervezetek számára;
 
-d)[^160] a FIR a Hivatal által meghatározott szakmai specifikáció szerint biztosítani tudja
+d)[^185] a FIR a Hivatal által meghatározott szakmai specifikáció szerint biztosítani tudja
 
 da) a felsőoktatási intézménytörzzsel kapcsolatos hatósági feladatok,
 
@@ -18,7 +18,7 @@ dd) a felsőoktatási statisztikai adatközlési feladatok,
 
 de) a felsőoktatási felvételi alkalmazással kapcsolatos feladatok és
 
-df)[^161]
+df)[^186]
 
 ellátását;
 
@@ -26,7 +26,7 @@ e) a FIR biztosítani tudja a miniszter számára a jogorvoslati és döntés-fe
 
 (2) A FIR működésével összefüggésben, a Hivatal a hatósági feladataihoz kapcsolódóan biztosítja
 
-a)[^162] a felsőoktatási intézmények számára azokat a szakmai specifikációkat, amelyek alapján a felsőoktatási intézmények fel tudják készíteni a TR-jeiket az adatszolgáltatásra;
+a)[^187] a felsőoktatási intézmények számára azokat a szakmai specifikációkat, amelyek alapján a felsőoktatási intézmények fel tudják készíteni a TR-jeiket az adatszolgáltatásra;
 
 b) az adatok szolgáltatásához és az adatszolgáltatás hitelesítéséhez szükséges technikai feltételek szakmai specifikációját;
 
@@ -38,7 +38,7 @@ e) a FIR-ben kezelt közérdekű és közérdekből nyilvános adatok nyilvános
 
 (3) A FIR-ből adatok, elemzések – a jogszabályban megállapított állami feladat ellátásához szükséges adatokat kivéve – az adatok előállításával és közlésével kapcsolatban felmerült, a Hivatalnak megtérített költségek megfizetése esetén kérhetők.
 
-[^159]: A 26. § (1) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 5. pontja szerint módosított szöveg.
-[^160]: A 26. § (1) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^161]: A 26. § (1) bekezdés d) pont df) alpontját a 13/2020. (II. 7.) Korm. rendelet 102. § 5. pontja hatályon kívül helyezte.
-[^162]: A 26. § (2) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 16. pontja szerint módosított szöveg.
+[^184]: A 26. § (1) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 5. pontja szerint módosított szöveg.
+[^185]: A 26. § (1) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^186]: A 26. § (1) bekezdés d) pont df) alpontját a 13/2020. (II. 7.) Korm. rendelet 102. § 5. pontja hatályon kívül helyezte.
+[^187]: A 26. § (2) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 16. pontja szerint módosított szöveg.

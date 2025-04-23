@@ -1,3 +1,3 @@
-15. §[^58] A felsőoktatási intézmény duális képzési megállapodásainak, valamint a duális képzés egybefüggő szakmai gyakorlati részének megvalósítását szolgáló, a felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről szóló 230/2012. (VIII. 28.) Korm. rendelet [a továbbiakban: 230/2012. (VIII. 28.) Korm. rendelet] szerinti belső gyakorlóhelyeinek nyilvántartásba vételét, a nyilvántartásba vett megállapodások és belső gyakorlóhelyek tekintetében bekövetkezett adatváltozásokat, a megszűnt megállapodások és belső gyakorlóhelyek törlését a felsőoktatási intézmény vezetője a Duális Képzési Tanácsnak az Nftv. 108. § 1b. pontja szerinti minősítési rendszerében meghatározott mellékletek benyújtásával kérelmezi.
+15. §[^65]
 
-[^58]: A 15. § a 610/2023. (XII. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^65]: A 15. §-t a 84/2025. (IV. 22.) Korm. rendelet 42. § 3. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-38. § (1)[^201] A beiratkozás a beiratkozási lap kitöltésével és aláírásával kezdeményezhető.
+38. § (1)[^229] A beiratkozás a beiratkozási lap kitöltésével és aláírásával kezdeményezhető.
 
 (2) A beiratkozási lap lehet:
 
@@ -14,7 +14,7 @@ a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
 b) az aktuális tanév-félév megnevezését,
 
-c)[^202] a hallgató Nftv. 3. melléklet I/B. alcím 1. pont b) pont ba) alpontjában meghatározott adatait, oktatási azonosító számát,
+c)[^230] a hallgató Nftv. 3. melléklet I/B. alcím 1. pont b) pont ba) alpontjában meghatározott adatait, oktatási azonosító számát,
 
 d) a megkezdett szak megnevezését, szintjét, munkarendjét, nyelvét, finanszírozási formáját, a képzés helyét,
 
@@ -24,7 +24,7 @@ f) a hallgató adóazonosító jelét, társadalombiztosítási azonosító jel�
 
 g) a magyar állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkező esetében a jelentkezőnek a 9. melléklet szerinti nyilatkozatát arról, hogy megismerte és vállalja a magyar állami (rész)ösztöndíjjal támogatott képzésnek az Nftv.-ben rögzített feltételeit,
 
-h) a hallgató nyilatkozatát az intézményi tájékoztató megismeréséről,
+h)[^231] a hallgató nyilatkozatát a képzés jellemző értékelési és ellenőrzési módszereiről, eljárásairól és a képzés alapvető szabályairól, a kreditrendszerű képzéssel kapcsolatos tanulmányi tájékoztató kiadvány (a továbbiakban: intézményi tájékoztató) megismeréséről,
 
 i) az intézményi szabályzatban meghatározott további adatokat a hallgatói jogokkal, illetve kötelezettségekkel kapcsolatban,
 
@@ -34,22 +34,23 @@ k) a 34. § (4) bekezdés szerinti hitelesítést.
 
 (4) A beiratkozási lap mellékletei:
 
-a)[^203] a felvételi eljárás során a felvétel feltételeként benyújtott okirat(ok) másolata, amelyet az eredeti okirattal vagy elektronikusan hiteles eredeti okirattal való összevetés után a felsőoktatási intézmény hitelesítéssel lát el,
+a)[^232] a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 12. § (5) bekezdése alapján a felsőoktatási intézmény szabályzatában előírt dokumentumok felsőoktatási intézmény által ellenőrzött másolatai,
 
 b) a felsőoktatási intézmény és az önköltséges hallgató között létrejött képzési szerződés egy eredeti, minden fél által aláírt példánya,
 
 c) a felsőoktatási intézmény által kért egyéb nyilatkozatok, és
 
-d)[^204] a képviselő útján beiratkozott hallgató esetén a képviselőnek a képviseletre jogosító okirata.
+d)[^233] a képviselő útján beiratkozott hallgató esetén a képviselőnek a képviseletre jogosító okirata.
 
-(5)[^205] Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.
+(5)[^234] Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.
 
 (6) A beiratkozási lap a törzslap melléklete.
 
 (7) A (3) bekezdés g) pont, a (4) bekezdés b) és c) pont szerinti dokumentum a beiratkozás időpontjához képest későbbi időpontban is keletkezhet, ebben az esetben azt a beiratkozási laphoz kell csatolni.
 
-[^201]: A 38. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
-[^202]: A 38. § (3) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^203]: A 38. § (4) bekezdés a) pontja a 617/2022. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^204]: A 38. § (4) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 9. pontja szerint módosított szöveg.
-[^205]: A 38. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.
+[^229]: A 38. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
+[^230]: A 38. § (3) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^231]: A 38. § (3) bekezdés h) pontja a 84/2025. (IV. 22.) Korm. rendelet 41. § 20. pontja szerint módosított szöveg.
+[^232]: A 38. § (4) bekezdés a) pontja a 84/2025. (IV. 22.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^233]: A 38. § (4) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 9. pontja szerint módosított szöveg.
+[^234]: A 38. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.

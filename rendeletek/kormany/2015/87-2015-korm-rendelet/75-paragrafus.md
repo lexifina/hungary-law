@@ -1,9 +1,9 @@
-## 74. §[^289] E rendeletnek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 407/2017. (XII. 15.) Korm. rendelettel megállapított 21/B. § (5) bekezdését gyakorlatvezető mentori feladat ellátására szóló új megbízáskor 2020. január 1-jétől kezdődően kell alkalmazni.
+## 74. §[^332] E rendeletnek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 407/2017. (XII. 15.) Korm. rendelettel megállapított 21/B. § (5) bekezdését gyakorlatvezető mentori feladat ellátására szóló új megbízáskor 2020. január 1-jétől kezdődően kell alkalmazni.
 
-75. §[^290] (1) A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 191/2019. (VII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 63. § (2) és (3) bekezdésében meghatározott rendelkezéseket a 2020. szeptember 1. napját követően kibocsátott szakértői véleményekre kell alkalmazni azzal, hogy a 2020. szeptember 1-jét megelőzően kibocsátott szakértői véleményeket a fogyatékossággal élő hallgató (jelentkező) fogyatékossága típusának megállapítására továbbra is alkalmazni kell.
+75. §[^333] (1) A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 191/2019. (VII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 63. § (2) és (3) bekezdésében meghatározott rendelkezéseket a 2020. szeptember 1. napját követően kibocsátott szakértői véleményekre kell alkalmazni azzal, hogy a 2020. szeptember 1-jét megelőzően kibocsátott szakértői véleményeket a fogyatékossággal élő hallgató (jelentkező) fogyatékossága típusának megállapítására továbbra is alkalmazni kell.
 
-(2) A Módr.-rel megállapított 15. § (7) bekezdését és a Módr.-rel módosított 3. mellékletet a Módr. hatálybalépésekor[^291] folyamatban lévő eljárásokban is alkalmazni kell.
+(2)[^334]
 
-[^289]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 407/2017. (XII. 15.) Korm. rendelet 39. §-a iktatta be.
-[^290]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 191/2019. (VII. 30.) Korm. rendelet 67. §-a iktatta be.
-[^291]: A hatálybalépés időpontja 2019. augusztus 1.
+[^332]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 407/2017. (XII. 15.) Korm. rendelet 39. §-a iktatta be.
+[^333]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 191/2019. (VII. 30.) Korm. rendelet 67. §-a iktatta be.
+[^334]: A 75. § (2) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 42. § 20. pontja hatályon kívül helyezte.

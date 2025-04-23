@@ -1,4 +1,4 @@
-21/E. §[^122] (1) Hitéleti alapképzésnek, mesterképzésnek, osztatlan képzésnek vagy felsőoktatási szakképzésnek a hitéleti képzések jegyzékére történő felvételét, valamint képzési és kimeneti követelményeinek nyilvántartásba vételét az egyházi felsőoktatási intézmény fenntartója kérelmezheti.
+21/E. §[^139] (1) Hitéleti alapképzésnek, mesterképzésnek, osztatlan képzésnek vagy felsőoktatási szakképzésnek a hitéleti képzések jegyzékére történő felvételét, valamint képzési és kimeneti követelményeinek nyilvántartásba vételét az egyházi felsőoktatási intézmény fenntartója kérelmezheti.
 
 (2) A kérelemhez mellékelni kell:
 
@@ -14,7 +14,7 @@ b) a hitéleti képzésben szerezhető végzettségi szint megjelölése;
 
 c) a hitéleti képzésben szerezhető szakképzettség oklevélben szereplő megnevezése magyar és angol nyelven;
 
-d)[^123] a hitéleti képzésben választható esetleges szakirányok;
+d)[^140] a hitéleti képzésben választható esetleges szakirányok;
 
 e) a hitéleti képzési terület megjelölése;
 
@@ -40,5 +40,14 @@ j) a képzést megkülönböztető speciális jegyek.
 
 (6) Az (1)−(5) bekezdésben foglaltakat a hitéleti képzés (3) bekezdés szerint nyilvántartásba vett adatának módosítása esetében is alkalmazni kell.
 
-[^122]: A 21/E. §-t az 550/2022. (XII. 22.) Korm. rendelet 3. §-a iktatta be.
-[^123]: A 21/E. § (3) bekezdés d) pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 8. pontja szerint módosított szöveg.
+(7)[^141] A hitéleti képzés nyilvántartásba vett képzési és kimeneti követelményeinek módosítása esetében mellékelni kell a módosított képzési és kimeneti követelményeket, továbbá a képzést folytató többi felsőoktatási intézmény fenntartójának támogató véleményét a módosításról. A módosítás nem irányulhat a képzés képzési területének, képzési idejének vagy kreditszámának a megváltoztatására.
+
+(8)[^142] A hitéleti képzést törölni kell a nyilvántartásból, ha azt a képzés folytatásának jogával rendelkező valamennyi felsőoktatási intézmény kéri.
+
+(9)[^143] A hitéleti képzés (8) bekezdés szerinti törlését követően a hitéleti képzést meghirdetni nem lehet, de a hitéleti képzést a hallgatók a rá irányadó képzési és kimeneti követelmények szerint fejezhetik be.
+
+[^139]: A 21/E. §-t az 550/2022. (XII. 22.) Korm. rendelet 3. §-a iktatta be.
+[^140]: A 21/E. § (3) bekezdés d) pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 8. pontja szerint módosított szöveg.
+[^141]: A 21/E. § (7) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 30. §-a iktatta be.
+[^142]: A 21/E. § (8) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 30. §-a iktatta be.
+[^143]: A 21/E. § (9) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 30. §-a iktatta be.

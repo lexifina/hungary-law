@@ -1,11 +1,11 @@
-21/C. §[^116] (1) A felsőoktatási intézmény olyan alapképzési vagy mesterképzési szakhoz kapcsolódó szakirányú továbbképzés létesítésére és indítására jogosult, amely szakon képzést folytathat.
+21/C. §[^133] (1) A felsőoktatási intézmény olyan alapképzési vagy mesterképzési szakhoz kapcsolódó szakirányú továbbképzés létesítésére és indítására jogosult, amely szakon képzést folytathat.
 
-(1a)[^117] A 21/A. § (1) bekezdés c) pontjában meghatározott szakirányú továbbképzés esetében a felsőoktatási intézmény a gyógypedagógia alapképzési szak olyan szakirányához kapcsolódó szakirányú továbbképzés létesítésére és indítására jogosult, amely szakirányon képzést folytathat.
+(1a)[^134] A 21/A. § (1) bekezdés c) pontjában meghatározott szakirányú továbbképzés esetében a felsőoktatási intézmény a gyógypedagógia alapképzési szak olyan szakirányához kapcsolódó szakirányú továbbképzés létesítésére és indítására jogosult, amely szakirányon képzést folytathat.
 
-(2)[^118] A Hivatal által nyilvántartásba vett képzési és kimeneti követelményekre épülő, saját tanterv alapján szervezett szakirányú továbbképzést a felsőoktatási intézmény kizárólag az alapító okiratában meghatározott olyan képzési területen létesíthet, illetve indíthat, amelyen alap- vagy mesterképzés folytatására szakindítási engedéllyel rendelkezik.
+(2)[^135] A Hivatal által nyilvántartásba vett képzési és kimeneti követelményekre épülő, saját tanterv alapján szervezett szakirányú továbbképzést a felsőoktatási intézmény kizárólag az alapító okiratában meghatározott olyan képzési területen létesíthet, illetve indíthat, amelyen nyilvántartásba vett alap- vagy mesterképzéssel rendelkezik.
 
 (3) Az (1) és (2) bekezdésben foglalt rendelkezéseket a szakfordító szakirányú továbbképzések esetén nem kell alkalmazni.
 
-[^116]: A 21/C. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
-[^117]: A 21/C. § (1a) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 31. § (1) bekezdése iktatta be.
-[^118]: A 21/C. § (2) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^133]: A 21/C. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
+[^134]: A 21/C. § (1a) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 31. § (1) bekezdése iktatta be.
+[^135]: A 21/C. § (2) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 31. § (2) bekezdésével megállapított, a 84/2025. (IV. 22.) Korm. rendelet 41. § 18. pontja szerint módosított szöveg.
