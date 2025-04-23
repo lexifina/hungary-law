@@ -1,0 +1,3 @@
+49. § Az Szkr. 174. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a szakképző intézmény a tanulmányi rendszerben helytelen adatokat rögzít, vagy nem gondoskodik az Szkt. 59. § (1) bekezdése szerinti tanulói juttatások alapját képező adatok naprakészen tartásáról, és emiatt a tanuló jogosulatlanul részesül tanulói juttatásban, a szakképző intézmény – szakképzési centrum részeként működő szakképző intézmény esetében a szakképzési centrum – köteles a jogalap nélkül megfizetett tanulói juttatás összegét a 340. § (1) bekezdése szerinti kezelő szerv által kiadott visszafizetési kötelezettséget előíró dokumentumban rögzítettek szerint a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap részére visszafizetni.”

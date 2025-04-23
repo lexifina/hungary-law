@@ -1,0 +1,3 @@
+24. § A 87/2015. (IV. 9.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A diákotthon, ha nem költségvetési szervként működik, a Hivatal által vezetett nyilvántartásba történő bejegyzéssel, ha költségvetési szervként működik, a törzskönyvi nyilvántartásba vétellel jön létre. A Hivatal nyilvántartásba vételi eljárása során azt kell vizsgálni, hogy a diákotthon rendelkezik-e a tevékenység ellátásához szükséges személyi, tárgyi, pénzügyi feltételekkel. A kollégium nyilvántartásba vételi eljárása során azt kell vizsgálni, hogy felsőoktatási intézmény rendelkezik-e a kollégiumi tevékenység ellátásához szükséges személyi, tárgyi feltételekkel.”
