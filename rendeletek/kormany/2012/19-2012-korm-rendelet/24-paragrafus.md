@@ -1,5 +1,9 @@
-24. §[^42] (1) A MAB az Nftv. 71/B. § (1) bekezdésében meghatározott szakvélemény elkészítéséhez szükséges intézményi dokumentumokat bekérheti, vagy a helyszínen megtekintheti.
+24. §[^44] (1) A doktori iskola létesítéséhez, létesített doktori iskola új tudományágban doktori képzés indításához szükséges MAB-szakvéleményhez benyújtandó kérelem tartalmazza a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló 387/2012. (XII. 19.) Korm. rendelet [a továbbiakban: 387/2012. (XII. 19.) Korm. rendelet] 6. § (2) bekezdésében meghatározottakat.
 
-(2) A MAB az (1) bekezdésben meghatározott szakvélemény elkészítése során azt vizsgálja, hogy bírálati szempontrendszerében meghatározott feltételeknek a felsőoktatási intézmény, képzés és doktori iskola megfelel-e.
+(2) A MAB vagy az akkreditációs szervezet által adott szakvéleménynek a 387/2012. (XII. 19.) Korm. rendelet 6. § (3) bekezdésében, 8/A. § (3) bekezdés c) pontjában, valamint 8/A. § (4) bekezdésében meghatározottakra is tekintettel tartalmaznia kell azt, hogy
 
-[^42]: A 24. § a 441/2015. (XII. 28.) Korm. rendelet 166. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+a) hogyan segíti elő a felsőoktatási intézmény által kidolgozott tanterv a kimeneti kompetenciák hallgató általi elsajátítását, milyen a tanulástámogatás intézményi eszközrendszere, módszertana, és
+
+b) megvannak-e az intézményben az indításhoz szükséges személyi és tárgyi feltételek.
+
+[^44]: A 24. § a 84/2025. (IV. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
