@@ -20,4 +20,6 @@
 
 ## 1. Az Óvodai nevelés országos alapprogramjáról szóló 363/2012. (XII. 17.) Korm. rendelet módosítása
 
-1. § Az Óvodai nevelés országos alapprogramjáról szóló 363/2012. (XII. 17.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
