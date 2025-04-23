@@ -980,7 +980,7 @@ Majki Kamalduli Remeteség kertje
 
 Oroszlány
 
-073, 074/19, 074/20, 075, 077, 078, 079/1
+032/1, 073, 074/19, 074/20, 075, 076, 077, 078, 079/3, 079/4
 
 Rédei Esterházy park
 
@@ -1806,6 +1806,12 @@ Zirc
 
 209/1, 209/2, 209/3, 211, 213/3
 
+Folly Arborétum
+
+Badacsonytomaj
+
+0263/3, 0263/5, 0263/7, 0263/8
+
 Zala vármegye
 
 Cserszegtomaji exótakert
@@ -1850,4 +1856,4 @@ Zalaapáti
 
 695/1
 
-[^1]: Az 1. melléklet a 20/2013. (III. 21.) VM rendelet 1. §-a, a 38/2015. (VII. 2.) FM rendelet 1. §-a, a 38/2018. (XII. 12.) AM rendelet 1. §-a, a 125/2022. (XII. 27.) AM rendelet 1. §-a, a 42/2024. (VIII. 8.) AM rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 20/2013. (III. 21.) VM rendelet 1. §-a, a 38/2015. (VII. 2.) FM rendelet 1. §-a, a 38/2018. (XII. 12.) AM rendelet 1. §-a, a 125/2022. (XII. 27.) AM rendelet 1. §-a, a 42/2024. (VIII. 8.) AM rendelet 1–2. §-a szerint módosított szöveg.
