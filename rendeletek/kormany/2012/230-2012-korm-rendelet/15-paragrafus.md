@@ -8,12 +8,12 @@
 
 (5)[^24]
 
-(6)[^25] Az Oktatási Hivatal helyszíni ellenőrzés keretében vizsgálhatja a felsőoktatási intézmény duális képzési szakmaigyakorlat-szervezési tevékenységét, a nyilvántartásában lévő duális képzési megállapodás, valamint a duális képzés szakmai gyakorlati részének megvalósítását szolgáló belső gyakorlóhely nyilvántartási adatainak valódiságát, teljességét, megfelelőségét és jogszerűségét. Az Oktatási Hivatal az ellenőrzésben való közreműködésre felkérheti a szakmailag illetékes kamarát, illetve a Magyar Rektori Konferenciát. Az ellenőrzés eredményéről tájékoztatni kell a felsőoktatási intézmény fenntartóját.
+(6)[^25]
 
-(7)[^26] Az Oktatási Hivatal más szakértőt is felkérhet közreműködésre, ha a szakmailag illetékes kamara vagy a Magyar Rektori Konferencia szakértői az adott szakmai területen nem rendelkeznek megfelelő szakismerettel.
+(7)[^26]
 
 [^22]: A 15. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 24. §-a szerint módosított szöveg.
 [^23]: A 15. § (4) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^24]: A 15. § (5) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 17. §-a iktatta be, a 191/2019. (VII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
-[^25]: A 15. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 17. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^26]: A 15. § (7) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^25]: A 15. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 17. §-a iktatta be, a 84/2025. (IV. 22.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^26]: A 15. § (7) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 11. § (2) bekezdése iktatta be, a 84/2025. (IV. 22.) Korm. rendelet 10. §-a hatályon kívül helyezte.

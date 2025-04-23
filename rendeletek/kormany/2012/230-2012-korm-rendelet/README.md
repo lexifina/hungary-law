@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-230-20-
 | 2022-01-01 | 2012-230-20-22.13 | 800/2021. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2012-230-20-22.14 | 610/2023. (XII. 22.) Korm. rendelet |
 | 2024-12-19 | 2012-230-20-22.15 | 406/2024. (XII. 18.) Korm. rendelet |
+| 2025-04-23 | 2012-230-20-22.16 | 345/2015. (XI. 19.) Korm. rendelet |
