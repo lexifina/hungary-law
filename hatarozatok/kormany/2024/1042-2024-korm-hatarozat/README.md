@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1042-30
 | --- | --- | --- |
 | 2024-03-05 | 2024-1042-30-22.1 | 1042/2024. (III. 4.) Korm. határozat |
 | 2025-02-08 | 2024-1042-30-22.2 | 1018/2025. (II. 7.) Korm. határozat |
+| 2025-04-23 | 2024-1042-30-22.3 | 1125/2025. (IV. 22.) Korm. határozat |
