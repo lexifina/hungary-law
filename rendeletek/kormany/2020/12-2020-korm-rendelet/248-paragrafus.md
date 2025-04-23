@@ -1,3 +1,3 @@
-248. §[^346]
+248. §[^355]
 
-[^346]: A 248. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 50. pontja hatályon kívül helyezte.
+[^355]: A 248. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 50. pontja hatályon kívül helyezte.

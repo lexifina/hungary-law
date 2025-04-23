@@ -44,14 +44,15 @@ d) elektronikus úton előállított és hitelesített papíralapú nyomtatvány
 
 lehet.
 
-(4)[^71] Az (1) bekezdés 3–5. és 7–9. pontja szerinti nyomtatványt a szakképző intézmény a regisztrációs és tanulmányi alaprendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
+(4)[^71] Az (1) bekezdés 3–5. és 7–9. pontja szerinti nyomtatványt a szakképző intézmény a tanulmányi rendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
 
-(5) Az (1) és (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a regisztrációs és tanulmányi alaprendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
+(5)[^72] Az (1) és (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a tanulmányi rendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
 
-(6)[^72] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelye településének nevét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
+(6)[^73] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelye településének nevét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
 
 [^68]: A 25. § (1) bekezdés 8. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 18. pontja szerint módosított szöveg.
 [^69]: A 25. § (1) bekezdés 9. pontját a 380/2021. (VI. 30.) Korm. rendelet 17. §-a iktatta be.
 [^70]: A 25. § (2) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
-[^71]: A 25. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 19. pontja szerint módosított szöveg.
-[^72]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^71]: A 25. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 19. pontja, a 84/2025. (IV. 22.) Korm. rendelet 58. § 3. pontja szerint módosított szöveg.
+[^72]: A 25. § (5) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 58. § 5. pontja szerint módosított szöveg.
+[^73]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.

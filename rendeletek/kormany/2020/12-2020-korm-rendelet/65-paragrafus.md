@@ -10,6 +10,6 @@ b) megbízható adózónak minősül.
 
 a) korábban vezető állású személy volt olyan szakképző intézményben vagy fenntartónál, amelynek tevékenységtől eltiltását vagy adószámának törlését hatóság végleges határozata vagy bíróság jogerős ítélete öt évnél nem régebben elrendelte, vagy
 
-b)[^160] olyan tisztséget tölt be, amely korlátozhatja a fenntartói irányítási hatáskör gyakorlásában vagy a szakképzésialapfeladat-ellátási tevékenység ellátásában.
+b)[^162] olyan tisztséget tölt be, amely korlátozhatja a fenntartói irányítási hatáskör gyakorlásában vagy a szakképzésialapfeladat-ellátási tevékenység ellátásában.
 
-[^160]: A 65. § (3) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 29. pontja szerint módosított szöveg.
+[^162]: A 65. § (3) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 29. pontja szerint módosított szöveg.

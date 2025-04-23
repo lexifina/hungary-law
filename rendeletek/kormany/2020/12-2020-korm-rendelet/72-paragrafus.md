@@ -1,3 +1,3 @@
-72. §[^166]
+72. §[^168]
 
-[^166]: A 72. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 29. pontja hatályon kívül helyezte.
+[^168]: A 72. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 29. pontja hatályon kívül helyezte.

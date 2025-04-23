@@ -12,10 +12,12 @@ b) duális képzőhely által működtetett tanműhely.
 
 a) a tanműhelyvezetőről, aki ezt a tevékenységet más munkaköre mellett is elláthatja,
 
-b) a gyakorlati oktatóról, továbbá
+b)[^338] a duális oktatóról, továbbá
 
 c) a termelő-szolgáltató tevékenység előkészítéséhez szükséges műszaki, fizikai dolgozóról
 
 a duális képzőhely gondoskodik.
 
 (5) A (4) bekezdés c) pontja szerinti feladat a duális képzőhely technológiai, munkaszervezési rendjében is elvégezhető.
+
+[^338]: A 238. § (4) bekezdés b) pontja a 84/2025. (IV. 22.) Korm. rendelet 58. § 25. pontja szerint módosított szöveg.

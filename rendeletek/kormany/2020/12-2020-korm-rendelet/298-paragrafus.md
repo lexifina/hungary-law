@@ -8,11 +8,11 @@
 
 ## 98. Az Szkt. 96. §-ához
 
-298. § (1)[^448] A szakképzésért felelős miniszter
+298. § (1)[^460] A szakképzésért felelős miniszter
 
 a) a szakképzés szakmai és módszertani fejlesztése keretében
 
-aa)[^449] meghatározza a képzési és kimeneti követelmények elkészítésének és módosításának egységes alapelveit,
+aa)[^461] meghatározza a képzési és kimeneti követelmények elkészítésének és módosításának egységes alapelveit,
 
 ab) a szakképzéssel összefüggő regionális és országos kutatásokat végez, valamint elemzési és értékelési feladatokat lát el,
 
@@ -38,36 +38,37 @@ c) az oktatók továbbképzésével összefüggésben kidolgozza a továbbképz�
 
 d) a szakképzés együttműködési rendszerével összefüggésben fejleszti az Európai Unió tagállamainak szakképzésben részt vevő intézményeivel történő együttműködését, részt vesz hazai és nemzetközi szakképzési kutatásokban, közreműködik nemzetközi fejlesztési projektek lebonyolításában.
 
-e)[^450] végzi a tanuló, illetve a képzésben részt vevő személy korábbi tanulmányainak, megszerzett ismereteinek és előzetes gyakorlatának beszámítását segítő tevékenységet.
+e)[^462] végzi a tanuló, illetve a képzésben részt vevő személy korábbi tanulmányainak, megszerzett ismereteinek és előzetes gyakorlatának beszámítását segítő tevékenységet.
 
-(2)[^451]
+(2)[^463]
 
-(3)[^452] A szakképzésért felelős miniszter az Szkt.
+(3)[^464] A szakképzésért felelős miniszter
 
-a)[^453] 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
+a) az Szkt. 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
 
-aa) az (1) bekezdés b) pont ba) alpontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
+aa) az (1) bekezdés b) pont ba) alpontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság,
 
 ab) az (1) bekezdés b) pont bb)–be) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-b)[^454] 96. § (1) bekezdés e) pont ec) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
+b) az Szkt. 96. § (1) bekezdés e) pont ec) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-c) 96. § (1) bekezdés g) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
+c) az Szkt. 96. § (1) bekezdés g) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság,
 
-d)[^455] 96. § (1) bekezdés h) pontjában – az f) pont kivételével – és azzal összefüggésben az (1) bekezdés a) pont ab) alpontjában és d) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
+d) az Szkt. 96. § (1) bekezdés h) pontjában – az f) pontban meghatározott kivétellel – és azzal összefüggésben az (1) bekezdés a) pont ab) alpontjában és d) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság,
 
-e) 96. § (1) bekezdés i) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
+e) az Szkt. 96. § (1) bekezdés i) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-f)[^456] 96. § (1) bekezdés h) pontjával összefüggésben az (1) bekezdés e) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal
+f) az Szkt. 96. § (1) bekezdés h) pontjával összefüggésben az (1) bekezdés e) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-útján végzi. E feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt, azzal, hogy az f) pontban meghatározott feladat végrehajtását a Nemzeti Szakképzési és Felnőttképzési Hivatal a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társasággal együttműködésben is végezheti.
+g) az (1) bekezdés c) pontjában meghatározott feladatok közül az oktatói továbbképzések struktúrája kidolgozását és más szakmai fórumok lebonyolítását az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság
 
-[^448]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^449]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
-[^450]: A 298. § (1) bekezdés e) pontját a 129/2024. (VI. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^451]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
-[^452]: A 298. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 43. §-ával megállapított, záró szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 69. pontja szerint módosított szöveg.
-[^453]: A 298. § (3) bekezdés a) pont nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 41. pontja szerint módosított szöveg.
-[^454]: A 298. § (3) bekezdés b) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 42. pontja szerint módosított szöveg.
-[^455]: A 298. § (3) bekezdés d) pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 68. pontja szerint módosított szöveg.
-[^456]: A 298. § (3) bekezdés f) pontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 57. pontja hatályon kívül helyezte, újonnan a 129/2024. (VI. 17.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+útján végzi.
+
+(4)[^465] A (3) bekezdésben meghatározott feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt, azzal, hogy a (3) bekezdés f) pontjában meghatározott feladat végrehajtását a Nemzeti Szakképzési és Felnőttképzési Hivatal a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társasággal együttműködésben is végezheti.
+
+[^460]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^461]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
+[^462]: A 298. § (1) bekezdés e) pontját a 129/2024. (VI. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^463]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
+[^464]: A 298. § (3) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^465]: A 298. § (4) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 54. §-a iktatta be.
