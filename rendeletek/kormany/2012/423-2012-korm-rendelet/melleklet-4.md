@@ -1,4 +1,4 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^260]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^263]
 
 A középszintű érettségi vizsga százalékos eredményének felvételi érettségi pontokként figyelembe vehető pontjai
 
@@ -168,4 +168,4 @@ A középszintű érettségi vizsga százalékos eredményének felvételi éret
 
 | 82. | 100 | 67 |
 
-[^260]: A 4. mellékletet újonnan a 339/2022. (IX. 7.) Korm. rendelet 21. §-a iktatta be, szövege a 406/2024. (XII. 18.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^263]: A 4. mellékletet újonnan a 339/2022. (IX. 7.) Korm. rendelet 21. §-a iktatta be, szövege a 406/2024. (XII. 18.) Korm. rendelet 16. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-20. §[^159] Ha a jelentkező az önkéntes tartalékos jogállásról szóló 13/2024. (VII. 23.) HM rendelet (a továbbiakban: HM rendelet) szerint önkéntes tartalékos katonaként
+20. §[^160] Ha a jelentkező az önkéntes tartalékos jogállásról szóló 13/2024. (VII. 23.) HM rendelet (a továbbiakban: HM rendelet) szerint önkéntes tartalékos katonaként
 
 a) a HM rendelet 11. § (1) bekezdése szerinti alapkiképzést teljesítette, akkor 16 többletpontra,
 
@@ -8,4 +8,4 @@ c) a b) pont szerinti szakkiképzés után, az azt folytatólagosan követő hat
 
 jogosult.
 
-[^159]: A 20. § a 487/2024. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^160]: A 20. § a 487/2024. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
