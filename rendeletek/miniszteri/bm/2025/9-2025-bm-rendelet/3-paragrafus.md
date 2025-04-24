@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 15. § (2) bekezdése alapján 2025. április 24-én lép hatályba.
+3. § A 16/2010. (IV. 15.) EüM rendelet 21. § (1) bekezdésében a „40 000 Ft” szövegrész helyébe az „50 000 Ft” szöveg lép.
