@@ -1,7 +1,3 @@
-28. § (1) A 87/2015. (IV. 9.) Korm. rendelet 20. §-a a következő (3f) bekezdéssel egészül ki:
+28. §[^28]
 
-„(3f) Az európai finanszírozású közös képzés nyilvántartásba vett képzési és kimeneti követelményeinek módosítása esetében mellékelni kell a módosított képzési és kimeneti követelményeket, továbbá a képzést folytató többi felsőoktatási intézmény támogató véleményét a módosításról. A módosítás nem irányulhat a képzés képzési területének, képzési idejének vagy kreditszámának a megváltoztatására.”
-
-(2) A 87/2015. (IV. 9.) Korm. rendelet 20. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Ha az Nftv. 78. § (3) bekezdése szerinti, nem európai finanszírozásúnak minősülő közös képzés felsőoktatási képesítési jegyzékbe történő felvételére nem kerül sor, a Hivatal a közös képzés alapjául szolgáló, az Nftv. 78. § (3) bekezdés c) pontja szerinti, a közös képzéssel azonos végzettségi szintet eredményező képzéshez (a továbbiakban: alapul szolgáló képzés) kapcsolódó együttműködési megállapodás adatait veszi nyilvántartásba, továbbá a közös képzés adatait az alapul szolgáló képzéshez tartozó képzésként nyilvántartja. Az így nyilvántartott közös képzések alapján az Nftv. 6. § (2) bekezdése szerinti állami elismerésre irányuló kérelmet nem lehet benyújtani. A Hivatal a közös képzést törli a nyilvántartásából, ha az alapul szolgáló képzés a felsőoktatási intézmény által már nem folytatható.”
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

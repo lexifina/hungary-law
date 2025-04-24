@@ -1,3 +1,3 @@
-52. § Az Szkr. 270. §-a a következő (5a) bekezdéssel egészül ki:
+52. §[^52]
 
-„(5a) Az érettségi végzettséggel nem rendelkező technikumi tanuló sikeres szakmai vizsgája esetén a vizsgatörzslap-kivonatot legkésőbb a szakmai vizsga utolsó napját követő munkanapon ki kell állítani.”
+[^52]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

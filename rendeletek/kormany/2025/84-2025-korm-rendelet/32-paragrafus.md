@@ -1,3 +1,3 @@
-32. § A 87/2015. (IV. 9.) Korm. rendelet 34. § (4) bekezdése helyébe a következő rendelkezés lép:
+32. §[^32]
 
-„(4) A papíralapú iratot a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel kell hitelesíteni. Az elektronikus iratot az elektronikus irat kiállítására jogosult által minősített vagy minősített tanúsítványon alapuló, legalább fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel kell ellátni, és ezen túlmenően olyan szolgáltató által kiadott időbélyegzővel kell hitelesíteni, amely e szolgáltatást minősített szolgáltatóként nyújtja. Természetes személyhez kötött elektronikus aláírás esetén az elektronikus aláírásnak tartalmaznia kell a személy elektronikus irat kiállítására jogosító szerepkörét is.”
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

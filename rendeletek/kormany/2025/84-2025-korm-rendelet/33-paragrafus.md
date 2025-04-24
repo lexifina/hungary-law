@@ -1,3 +1,3 @@
-33. § A 87/2015. (IV. 9.) Korm. rendelet 36. §-a a következő (10) bekezdéssel egészül ki:
+33. §[^33]
 
-„(10) A felsőoktatási intézmény a hallgatói jogviszony megszűnése után a hallgató kérelmére papíralapú hitelesített törzslapkivonatot ad ki.”
+[^33]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

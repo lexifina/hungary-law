@@ -1,3 +1,3 @@
-29. § A 87/2015. (IV. 9.) Korm. rendelet 21. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+29. §[^29]
 
-(A kérelemhez mellékelni kell)
+[^29]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

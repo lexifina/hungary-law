@@ -24,6 +24,6 @@
 
 ## 1. A felsőoktatási minőségértékelés és -fejlesztés egyes kérdéseiről szóló 19/2012. (II. 22.) Korm. rendelet módosítása
 
-1. § A felsőoktatási minőségértékelés és -fejlesztés egyes kérdéseiről szóló 19/2012. (II. 22.) Korm. rendelet [a továbbiakban: 19/2012. (II. 22.) Korm. rendelet] 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(3) A MAB a döntéshozatali folyamatait támogató döntés-előkészítő bizottságokat, kollégiumokat hozhat létre, és külső – független – szaktanácsadókat vehet igénybe feladatellátása során az alaptevékenységének hatékony ellátása érdekében. A szaktanácsadói tevékenység és vélemény a döntéshozatali folyamatban kerül felhasználásra. A döntéshozatali jogosultságokat sem a Testület, sem a Felülvizsgálati Bizottság nem ruházhatja át.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

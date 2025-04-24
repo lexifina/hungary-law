@@ -1,3 +1,3 @@
-37. § A 87/2015. (IV. 9.) Korm. rendelet 46. §-a a következő (11) bekezdéssel egészül ki:
+37. §[^37]
 
-„(11) A (10) bekezdés szerinti oklevelet az Nftv. 52. § (1) bekezdésében meghatározott nyelven vagy nyelveken túl egyéb nyelven vagy nyelveken is ki lehet állítani.”
+[^37]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

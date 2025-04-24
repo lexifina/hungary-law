@@ -1,3 +1,3 @@
-45. §[^4]
+45. §[^45]
 
-[^4]: A 45. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^45]: A 45. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

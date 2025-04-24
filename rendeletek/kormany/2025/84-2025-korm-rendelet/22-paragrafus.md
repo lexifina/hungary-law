@@ -1,1 +1,3 @@
-22. § Hatályát veszti a 24/2013. (II. 5.) Korm. rendelet 12/A. §-a.
+22. §[^22]
+
+[^22]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

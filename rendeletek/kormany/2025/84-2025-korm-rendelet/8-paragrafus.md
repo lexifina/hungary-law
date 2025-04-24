@@ -1,1 +1,3 @@
-8. § A 19/2012. (II. 22.) Korm. rendelet 6. alcím címében a „Szakértői tevékenység” szövegrész helyébe az „A MAB szakvéleményezési tevékenysége” szöveg lép.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

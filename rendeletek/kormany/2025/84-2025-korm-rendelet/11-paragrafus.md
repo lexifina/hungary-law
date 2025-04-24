@@ -1,3 +1,5 @@
 ## 3. A tanárképzés rendszeréről, a szakosodás rendjéről és a tanárszakok jegyzékéről szóló 283/2012. (X. 4.) Korm. rendelet módosítása
 
-11. § A tanárképzés rendszeréről, a szakosodás rendjéről és a tanárszakok jegyzékéről szóló 283/2012. (X. 4.) Korm. rendelet 15. §-ában a „gyakorlatorientált osztatlan” szövegrész helyébe a „gyakorlatorientált, osztott vagy osztatlan” szöveg lép.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

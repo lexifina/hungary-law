@@ -1,3 +1,3 @@
-18. § A 24/2013. (II. 5.) Korm. rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+18. §[^18]
 
-„(1) Az EKÖP ösztöndíjpályázatokat a felsőoktatási intézmény hirdeti meg, amelyeket a honlapján közzétesz. A felsőoktatási intézmény az EKÖP ösztöndíjpályázatokat a meghirdetést megelőzően legalább 30 nappal jóváhagyásra megküldi az NKFIH részére. A pályázati eljárás elektronikus úton történő teljes lebonyolítását, ennek keretében különösen a pályázatok elbírálását, a támogatási döntés meghozatalát, az ösztöndíjprogrammal kapcsolatos szerződések elkészítését, valamint a pályázat útján elnyert ösztöndíj folyósítását a felsőoktatási intézmény végzi. A felsőoktatási intézmény feladata továbbá évente legalább egy alkalommal rendezvényt szervezni az ösztöndíjasok és a már fokozatot szerzett volt ösztöndíjasok számára.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 19/2012. (II. 22.) Korm. rendelet 20. § (2) bekezdése.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

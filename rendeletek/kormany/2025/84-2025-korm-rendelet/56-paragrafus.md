@@ -1,3 +1,3 @@
-56. §[^8]
+56. §[^56]
 
-[^8]: Az 56. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^56]: Az 56. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

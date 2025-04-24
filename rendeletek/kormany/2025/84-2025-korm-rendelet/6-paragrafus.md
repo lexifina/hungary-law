@@ -1,3 +1,3 @@
-6. § A 19/2012. (II. 22.) Korm. rendelet 26. §-a a következő e) ponttal egészül ki:
+6. §[^6]
 
-(A MAB)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

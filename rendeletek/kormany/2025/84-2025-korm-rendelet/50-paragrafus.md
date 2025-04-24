@@ -1,3 +1,3 @@
-50. §[^7]
+50. §[^50]
 
-[^7]: Az 50. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^50]: Az 50. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-47. §[^6]
+47. §[^47]
 
-[^6]: A 47. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^47]: A 47. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
