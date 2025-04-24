@@ -54,9 +54,11 @@ f)[^87] a Közösségen belül közlekedő egyes közúti járművek nemzeti és
 
 g)[^88] a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelvnek
 
+h)[^89] a közúti szállítási tevékenységekre vonatkozó szociális jogszabályok tekintetében az 561/2006/EK és a 165/2014/EU rendelet, valamint a 2002/15/EK irányelv végrehajtásának minimumfeltételeiről szóló 2006/22/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2024. március 14-i (EU) 2024/846 felhatalmazáson alapuló bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
-(10)[^89]
+(10)[^90]
 
 [^66]: A 16. § (2) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 99/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^67]: A 16. § (3) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 228/2012. (VIII. 23.) Korm. rendelet 4. § (4) bekezdése iktatta be.
@@ -81,4 +83,5 @@ való megfelelést szolgálja.
 [^86]: A 16. § (9) bekedés e) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
 [^87]: A 16. § (9) bekedés f) pontját a 289/2018. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
 [^88]: A 16. § (9) bekezdés g) pontját a 791/2021. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^89]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^89]: A 16. § (9) bekezdés h) pontját az 51/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

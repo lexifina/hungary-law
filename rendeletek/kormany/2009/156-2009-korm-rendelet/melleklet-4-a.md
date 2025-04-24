@@ -14,9 +14,9 @@
 
 | 7 | H3 | A járművezető hamisított járművezetői kártyával vezet (úgy tekintendő, mintha járművezetői kártya nélkül vezetne) | RSJ | 780 000 | járművezető |
 
-| 8 | H4 | A járművezető olyan járművezetői kártyával vezet, amelynek nem ő a jogosultja | RSJ | 800 000[^95] | járművezető |
+| 8 | H4 | A járművezető olyan járművezetői kártyával vezet, amelynek nem ő a jogosultja | RSJ | 800 000[^100] | járművezető |
 
-| 9 | H5 | Járművezetői kártya (adatrögzítő lap behelyezése) nélküli vezetés vagy a járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok és/vagy hamisokmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne)[^96] | RSJ | 1 040 000 | járművezető, szállító[^97] |
+| 9 | H5 | Járművezetői kártya (adatrögzítő lap behelyezése) nélküli vezetés vagy a járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok és/vagy hamisokmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne)[^101] | RSJ | 1 040 000 | járművezető, szállító[^102] |
 
 | 10 | H6 | A menetíró készülék nem működik megfelelően (pl. nem került sor a menetíró készülék megfelelő felülvizsgálatára, kalibrálására és plombálására) | NSJ | 390 000 | szállító |
 
@@ -50,7 +50,7 @@
 
 | 25 | H16 | Kötelező kézi adatbevitel elmulasztása analóg és digitális menetíró készülék esetében egyaránt, amennyiben az I2 vagy I3 vagy I4 sorban szereplő tényállás nem valósul meg | NSJ | 195 000 | járművezető |
 
-| 26 | H17 | Nem megfelelő adatrögzítő lap használata vagy a vezetői kártya nem megfelelő nyílásba történő beillesztése (többfős személyzet)[^98] | SJ | 195 000 | járművezető |
+| 26 | H17 | Nem megfelelő adatrögzítő lap használata vagy a vezetői kártya nem megfelelő nyílásba történő beillesztése (többfős személyzet)[^103] | SJ | 195 000 | járművezető |
 
 | 27 | H18 | Kapcsoló berendezés helytelen használata | NSJ | 195 000 | járművezető |
 
@@ -78,17 +78,17 @@
 
 | 39 | H27 | Az adatrögzítő lapról hiányzik az utónév | NSJ | 130 000 | járművezető |
 
-| 40 | H28 | A lap használatba vétele kezdetének vagy végének ideje hiányzik | SJ | 65 000 | járművezető |
+| 40[^104] | H28 | A lap használatba vétele kezdetének vagy végének ideje hiányzik | NSJ | 130 000 | járművezető |
 
-| 41 | H29 | A lap használatba vétele kezdetének vagy végének helye hiányzik | EJ | 26 000 | járművezető |
+| 41[^105] | H29 | A lap használatba vétele kezdetének vagy végének helye hiányzik | NSJ | 130 000 | járművezető |
 
-| 42 | H30 | Az adatrögzítő lapról hiányzik a rendszám | EJ | 26 000 | járművezető |
+| 42[^106] | H30 | Az adatrögzítő lapról hiányzik a rendszám | NSJ | 130 000 | járművezető |
 
-| 43 | H31 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (első menet előtt) | SJ | 65 000 | járművezető |
+| 43[^107] | H31 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (első menet előtt) | NSJ | 130 000 | járművezető |
 
-| 44 | H32 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (utolsó menet végén) | EJ | 26 000 | járművezető |
+| 44[^108] | H32 | Az adatrögzítő lapról hiányzik a kilométer-számláló állása (utolsó menet végén) | NSJ | 130 000 | járművezető |
 
-| 45 | H33 | Az adatrögzítő lapról hiányzik a járműcsere időpontja | EJ | 26 000 | járművezető |
+| 45[^109] | H33 | Az adatrögzítő lapról hiányzik a járműcsere időpontja | NSJ | 130 000 | járművezető |
 
 | 46 | I | Adatok bemutatása |
 
@@ -146,10 +146,16 @@
 
 | 73 | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 390 000 | a menetíró szerelőműhely üzeme |
 
-4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
+4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^110]
 
-[^95]: A 4. mellékletben foglalt táblázat D:8 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § f) pontjával megállapított szöveg.
-[^96]: A 4. mellékletben foglalt táblázat B:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
-[^97]: A 4. mellékletben foglalt táblázat E:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § h) pontjával megállapított szöveg.
-[^98]: A 4. mellékletben foglalt táblázat B:26 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
-[^99]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^100]: A 4. mellékletben foglalt táblázat D:8 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § f) pontjával megállapított szöveg.
+[^101]: A 4. mellékletben foglalt táblázat B:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^102]: A 4. mellékletben foglalt táblázat E:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § h) pontjával megállapított szöveg.
+[^103]: A 4. mellékletben foglalt táblázat B:26 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
+[^104]: A 4. mellékletben foglalt táblázat 40. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^105]: A 4. mellékletben foglalt táblázat 41. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^106]: A 4. mellékletben foglalt táblázat 42. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^107]: A 4. mellékletben foglalt táblázat 43. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^108]: A 4. mellékletben foglalt táblázat 44. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^109]: A 4. mellékletben foglalt táblázat 45. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^110]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.

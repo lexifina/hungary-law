@@ -174,19 +174,19 @@
 
 | 87 | E5 | 18 h ≤ … | 325 000 |
 
-| 88 | E6 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 66 h < … ≤ 67 h | SJ | 26 000 | járművezető szállító |
+| 88[^94] | E6 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 67 h < … ≤ 69 h | EJ | 13 000 | járművezető szállító |
 
-| 89 | E7 | 65 h < … ≤ 66 h | 78 000 |
+| 89[^95] | E7 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 65 h < … ≤ 67 h | SJ | 78 000 | járművezető szállító |
 
-| 90 | E8 | 64 h < … ≤ 65 h | NSJ | 130 000 |
+| 90[^96] | E8 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 64 h < … ≤ 65 h | NSJ | 130 000 | járművezető szállító |
 
-| 91 | E9 | … ≤ 64 h | 325 000 |
+| 91[^97] | E9 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | … ≤ 64 h | NSJ | 325 000 | járművezető szállító |
 
 | 92 | E10 | 22:00 óra és 6:00 óra között 3 órát meghaladó vezetési idő szünet tartása előtt, ha a járművet nem többfős személyzet vezeti | 3 h < … < 3 h 45 | SJ | 26 000 | járművezető szállító |
 
 | 93 | E11 | 3 h 45 ≤ … < 4 h 30 | 78 000 |
 
-| 94 | E12 | 4 h 30 ≤ … < 5 h 15[^93] | NSJ | 130 000 |
+| 94 | E12 | 4 h 30 ≤ … < 5 h 15[^98] | NSJ | 130 000 |
 
 | 95 | E13 | 5 h 15 ≤ … | 325 000 |
 
@@ -200,7 +200,11 @@
 
 | 100 | F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 325 000 | szállító |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^94]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
 
-[^93]: A 3. mellékletben foglalt táblázat C:94 mezője a 251/2024. (VIII. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^94]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^94]: A 3. mellékletben foglalt táblázat 88. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^95]: A 3. mellékletben foglalt táblázat 89. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^96]: A 3. mellékletben foglalt táblázat 90. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^97]: A 3. mellékletben foglalt táblázat 91. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^98]: A 3. mellékletben foglalt táblázat C:94 mezője a 251/2024. (VIII. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^99]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

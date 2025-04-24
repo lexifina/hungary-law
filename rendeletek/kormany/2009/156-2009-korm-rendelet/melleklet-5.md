@@ -54,6 +54,6 @@
 
 | 27 | R2 | Az alkalmazott/önfoglalkoztató járművezetők meghamisítják az adatokat vagy megtagadják azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 390 000 | járművezető |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^111]
 
-[^100]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^111]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

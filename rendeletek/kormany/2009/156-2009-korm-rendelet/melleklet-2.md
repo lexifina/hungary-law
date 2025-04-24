@@ -110,6 +110,6 @@
 
 | 55 | 28. | A 2. § o) pontjában meghatározott Megállapodás szerinti matrica hiánya | NSJ | 300 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^91]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^92]
 
-[^91]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 574/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^92]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 574/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
