@@ -1,1 +1,3 @@
-2. § A 19/2011. (III. 16.) VM rendelet 1. mellékletében a „073, 074/19, 074/20, 075, 077, 078, 079/1” szövegrész helyébe a „032/1, 073, 074/19, 074/20, 075, 076, 077, 078, 079/3, 079/4” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

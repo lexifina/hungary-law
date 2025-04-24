@@ -6,4 +6,6 @@
 
 ## [4] Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 5. és 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az arborétumok jegyzékéről szóló 19/2011. (III. 16.) VM rendelet [a továbbiakban: 19/2011. (III. 16.) VM rendelet] 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

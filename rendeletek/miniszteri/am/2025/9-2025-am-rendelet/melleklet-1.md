@@ -1,9 +1,3 @@
-1. melléklet a 9/2025. (IV. 15.) AM rendelethez
+1. melléklet a 9/2025. (IV. 15.) AM rendelethez[^4]
 
-A 19/2011. (III. 16.) VM rendelet 1. melléklete a „Veszprém vármegye” szövegrészt követően a következő rendelkezéssel egészül ki:
-
-„Folly Arborétum
-
-Badacsonytomaj
-
-0263/3, 0263/5, 0263/7, 0263/8”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
