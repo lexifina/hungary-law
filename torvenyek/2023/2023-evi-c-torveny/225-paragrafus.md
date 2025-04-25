@@ -150,7 +150,7 @@ e) az összehangolt védelmi tevékenység során, illetve a tömeges bevándorl
 
 42. a műemléki értékek kategóriába sorolásának, valamint az örökségvédelmi bírság kiszabása során alkalmazandó értékkategóriák, a bírság megállapításának alapjául szolgáló értékelés szempontjait, valamint a bírságösszege számítási módjának részletes szabályait,
 
-43. a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékkal élő személyek esélyegyenlőségének előmozdítására,
+43. a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékossággal élő személyek esélyegyenlőségének előmozdítására,
 
 44. a műemlék fenntartására és eszmei értékével összhangban álló használatára vonatkozó szabályokat,
 

@@ -22,4 +22,4 @@ d) javaslatot tesz tananyagfejlesztés (interaktív tananyagok), oktatási móds
 
 (5) Az építészeti oktatás, képzés és szakmai továbbképzés kiterjed az épített környezet emberhez méltó, akadálymentes, egyenlő esélyű hozzáférést biztosító egészséges alakítására is.
 
-(6) A szakmai kamarák feladata a szakmai továbbképzések során a fogyatékkal élő személyek helyzetének bemutatása és a továbbképzésen részt vevők ezzel összefüggő szemléletformálása.
+(6) A szakmai kamarák feladata a szakmai továbbképzések során a fogyatékossággal élő személyek helyzetének bemutatása és a továbbképzésen részt vevők ezzel összefüggő szemléletformálása.
