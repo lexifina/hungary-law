@@ -26,7 +26,7 @@ h) a rendelkezésére álló pénzből havonta meghatározott összeget személy
 
 i) a szabadságvesztés végrehajtása során keletkezett kárának megtérítésére,
 
-j) sajátos védelemre a nők, fiatalkorúak és a fogyatékkal élők a rájuk vonatkozó eltérésekkel,
+j) sajátos védelemre a nők, fiatalkorúak és a fogyatékossággal élők a rájuk vonatkozó eltérésekkel,
 
 k) jogszabályban meghatározottak szerint saját ruha viselésére, illetve használati tárgyak tartására; az elítélt magánál tartható tárgyainak köre a bv. intézet rendjére és biztonságára figyelemmel, valamint az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint korlátozható, azonban a korlátozás – a biztonsági elkülönítés és a magánelzárás fenyítés végrehajtását kivéve – a tankönyvekre és tanszerekre, a könyvtári könyvekre, a családi fényképekre és levelekre, valamint az engedélyezett kegytárgyakra és imakönyvre nem terjedhet ki,
 
