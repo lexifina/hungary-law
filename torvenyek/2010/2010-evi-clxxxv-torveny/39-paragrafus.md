@@ -1,6 +1,6 @@
 ## Fogyatékossággal élő személyek számára hozzáférhető műsorszámok
 
-39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait folyamatosan és fokozatosan egyre akadálymentesebben hozzáférhetővé tegye a fogyatékkal élő személyek számára.
+39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait folyamatosan és fokozatosan egyre akadálymentesebben hozzáférhetővé tegye a fogyatékossággal élő személyek számára.
 
 (2) Az országos audiovizuális médiaszolgáltató – amennyiben előző naptári évi átlagos közönségaránya az 1%-ot meghaladja – köteles biztosítani, hogy – a televíziós vásárlási műsorablak, reklám és a műsorelőzetesek kivételével – valamennyi műsorszáma magyar nyelvű felirattal – például teletext szolgáltatáson keresztül – vagy jelnyelvi tolmácsolással is elérhető legyen.
 
@@ -20,4 +20,4 @@
 
 (9) Az audiovizuális médiaszolgáltatás médiaszolgáltatója köteles az akadálymentesítést célzó intézkedésekről cselekvési tervet készíteni és a cselekvési tervről, az annak alapján végrehajtott intézkedésekről köteles a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) felhívására tájékoztatást adni. Az (1) bekezdésben foglaltak teljesítéséről a Hatóság háromévente jelentést készít az Európai Bizottság részére.
 
-(10) A Hatóság a 184. § (1) bekezdése szerinti hatáskörébe tartozó, az akadálymentesítéssel összefüggő bejelentéskezelés, valamint az akadálymentesítési kérdésekre vonatkozó tájékoztatás biztosítására az internetes honlapján köteles kialakítani egy, a fogyatékkal élő személyek számára is könnyen elérhető online kapcsolattartási pontot.
+(10) A Hatóság a 184. § (1) bekezdése szerinti hatáskörébe tartozó, az akadálymentesítéssel összefüggő bejelentéskezelés, valamint az akadálymentesítési kérdésekre vonatkozó tájékoztatás biztosítására az internetes honlapján köteles kialakítani egy, a fogyatékossággal élő személyek számára is könnyen elérhető online kapcsolattartási pontot.

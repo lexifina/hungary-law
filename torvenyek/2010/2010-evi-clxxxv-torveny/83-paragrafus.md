@@ -12,7 +12,7 @@ d) az alkotmányos jogoknak, a törvényes rend alapértékeinek és a demokrati
 
 e) nemzetiségek, vallási közösségek valamint egyéb közösségek médiával szemben támasztott igényeinek kielégítése, kultúrájának bemutatása, a nemzetiségek anyanyelvének ápolása,
 
-f) az életkoruk, testi, szellemi vagy lelki állapotuk, társadalmi körülményeik következtében súlyosan hátrányos helyzetben lévő csoportoknak, valamint a fogyatékkal élőknek a médiaszolgáltatásokkal szemben támasztott sajátos igényeinek kielégítése,
+f) az életkoruk, testi, szellemi vagy lelki állapotuk, társadalmi körülményeik következtében súlyosan hátrányos helyzetben lévő csoportoknak, valamint a fogyatékossággal élőknek a médiaszolgáltatásokkal szemben támasztott sajátos igényeinek kielégítése,
 
 g) a határon túli magyarság kulturális igényeinek szolgálata, nemzeti önazonosságuk és anyanyelvük megőrzésének elősegítése, az anyaországgal való szellemi kapcsolattartásuk lehetővé tétele,
 

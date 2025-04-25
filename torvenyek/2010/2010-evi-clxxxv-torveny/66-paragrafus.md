@@ -30,7 +30,7 @@ a) rendszeresen tájékoztat egy adott társadalmi vagy helyi közösség hírei
 
 b) kulturális műsorszámokat tesz közzé,
 
-c) törekszik a fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
+c) törekszik a fogyatékossággal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
 
 d)
 

@@ -10,7 +10,7 @@ ca) a politikai reklámra, közérdekű közleményre és a társadalmi célú r
 
 cb) a közszolgálati és közösségi médiaszolgáltatásban közzétett reklámra és közérdekű közleményre vonatkozó szabályok (36. §),
 
-cc) a fogyatékkal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
+cc) a fogyatékossággal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
 
 cd) a médiaszolgáltató, a sajtótermék kiadója és a kiegészítő szolgáltatást nyújtó tulajdoni viszonyaiban és más adataiban bekövetkezett változásokkal, azok bejelentésével és az egyes adatok közzétételével kapcsolatos szabályok,
 
