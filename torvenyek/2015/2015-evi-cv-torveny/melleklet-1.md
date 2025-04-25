@@ -86,7 +86,7 @@ ee) együtt élő személyek eltartásra jogosultak-e
 
 ef) együtt élő személyeknek van-e a szociális vetítési alap összegét meghaladó mértékű rendszeres bevételük
 
-eg) együtt élő személyek között van-e fogyatékkal élő, súlyosan vagy tartósan beteg
+eg) együtt élő személyek között van-e fogyatékossággal élő, súlyosan vagy tartósan beteg
 
 eh) házastársi vagyonközösség fennáll-e
 
@@ -102,7 +102,7 @@ ia) az ingatlan mérete, alapterülete, lakószobák hasznos alapterülete, műs
 
 ib) tulajdoni-használati viszonyok
 
-ic) az ingatlanban közös háztartásban együtt élők száma, ezek közül a közeli hozzátartozók, kiskorúak, más inaktívak száma, ezek közül az eltartásra jogosultak, eltartásra kötelezettek, aktív korúak, álláskeresők, közmunkások, fogyatékkal élők, szociális vagy gyermekvédelmi intézményben elhelyezettek, fogvatartottak
+ic) az ingatlanban közös háztartásban együtt élők száma, ezek közül a közeli hozzátartozók, kiskorúak, más inaktívak száma, ezek közül az eltartásra jogosultak, eltartásra kötelezettek, aktív korúak, álláskeresők, közmunkások, fogyatékossággal élők, szociális vagy gyermekvédelmi intézményben elhelyezettek, fogvatartottak
 
 j) van-e folyamatban zálogtárgy értékesítése, a zálogkötelezett neve, természetes azonosító adatai
 

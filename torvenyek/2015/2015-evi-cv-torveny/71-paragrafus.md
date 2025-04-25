@@ -22,7 +22,7 @@ ba) kiskorú,
 
 bb) tartósan és súlyosan beteg,
 
-bc) fogyatékkal élő vagy
+bc) fogyatékossággal élő vagy
 
 bd) 70 év feletti személy, és
 

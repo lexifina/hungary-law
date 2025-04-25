@@ -38,7 +38,7 @@ bd) az adósságtörlesztési határozatban meghatározott kötelezettségeit sz
 
 6. adótartozás: az Art. által meghatározott, lejárt esedékességű, és az ott meghatározott, nettó módon számított fizetési kötelezettség,
 
-7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékkal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
+7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékossággal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
 
 8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles országos központi nyilvántartás,
 
@@ -94,7 +94,7 @@ d) az egyéni cég tagja az egyéni vállalkozóról és az egyéni cégről sz�
 
 21. fogyasztó: a Ptk. 8:1. § (1) bekezdés 3. pontja szerinti személy,
 
-22. fogyatékkal élő: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény értelmében súlyosan fogyatékos személynek minősül,
+22. fogyatékossággal élő: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény értelmében súlyosan fogyatékos személynek minősül,
 
 23. forgalmi érték: az e törvény végrehajtási rendeletében meghatározott, pénzben kifejezett érték,
 
