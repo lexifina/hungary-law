@@ -4,29 +4,17 @@
 
 (3) Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatás az Európai Bizottság jóváhagyó határozatának meghozatalát követően fizethető ki.
 
-(4)[^68] Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
+(4)[^86] Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
-(5)[^69]
+(5)[^87]
 
-(6)[^70] Az Atr. 18. § (2) bekezdés a) és c) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
+(6)[^88] Az Atr. 18. § (2) bekezdés a) és c) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
-a)[^71]
+a)[^89]
 
-b) kutatásfejlesztési projekthez nyújtott támogatás esetén
+b)[^90]
 
-ba) vállalkozásonként és projektenként meghaladja az 55 millió eurónak megfelelő forintösszeget, ha a projekt elszámolható költségeinek több mint fele az alapkutatás kategóriájába tartozó tevékenységgel kapcsolatban merül fel,
-
-bb) vállalkozásonként és projektenként meghaladja a 35 millió eurónak megfelelő forintösszeget, ha a projekt elszámolható költségeinek több mint fele az ipari kutatás kategóriájába vagy együttesen véve az ipari kutatás és az alapkutatás kategóriájába tartozó tevékenységgel kapcsolatban merül fel,
-
-bc) vállalkozásonként és projektenként meghaladja a 25 millió eurónak megfelelő forintösszeget, ha a projekt elszámolható költségeinek több mint fele a kísérleti fejlesztés kategóriájába tartozó tevékenységgel kapcsolatban merül fel,
-
-bd)[^72] meghaladja a ba)–bc) alpont szerinti összeg kétszeresét EUREKA-projekt vagy az EUMSz 185. vagy 187. cikke alapján létrehozott közös vállalkozás által megvalósított vagy a 28/B. § (5) bekezdés b) pontjában előírt feltételeknek megfelelő projekt esetén,
-
-be) meghaladja a ba)–bd) alpont szerinti összeg 150%-át, ha a kutatásfejlesztési projekthez a támogatást visszafizetendő előleg formájában nyújtják − amelyet a bruttó támogatási egyenérték kiszámításához használt módszertan hiánya esetén az elszámolható költségek százalékában kell kifejezni −, és ha az intézkedés biztosítja, hogy a projekt észszerű és prudenciális megfontolások alapján megállapított, sikeres befejezése esetén az előleg legalább a támogatás odaítélésekor irányadó diszkont kamatláb szerint számított kamattal megnövelve kerül visszafizetésre,
-
-bf) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz nyújtott támogatás esetén tanulmányonként meghaladja a 8,25 millió eurónak megfelelő forintösszeget,
-
-c)[^73]
+c)[^91]
 
 d) sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén meghaladja a 33 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 110 millió eurónak megfelelő forintösszeget, valamint sportlétesítményhez nyújtott működési támogatás esetén infrastruktúránként és évenként meghaladja a 2,2 millió eurónak megfelelő forintösszeget,
 
@@ -38,9 +26,9 @@ eb) a 41,25 millió eurónak megfelelő forintösszeget, ha a maximális region�
 
 ec) a 49,5 millió eurónak megfelelő forintösszeget, ha a maximális regionális támogatási intenzitás 60%;
 
-f) a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2,2 millió eurónak megfelelő forintösszeget,
+f)[^92]
 
-g)[^74]
+g)[^93]
 
 h) képzési támogatás esetén képzési projektenként meghaladja a 3 millió eurónak megfelelő forintösszeget,
 
@@ -52,43 +40,44 @@ ib) működési támogatás esetén meghaladja vállalkozásonként évente 82,5
 
 j) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 11 millió eurónak megfelelő forintösszeget vagy a 22 millió eurónak megfelelő forintösszeget meghaladó összköltséget,
 
-k)[^75]
+k)[^94]
 
-l)[^76]
+l)[^95]
 
 m) kis- és középvállalkozásoknak nyújtott beruházási támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 8,25 millió eurónak megfelelő forintösszeget.
 
-(6a)[^77] A széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget, pénzügyi eszköz formájában odaítélt támogatás esetén pedig, ha a kedvezményezettnek nyújtott teljes finanszírozás névértéke bármely projekt esetén meghaladja a 150 millió eurót.
+(6a)[^96]
 
 (7) E rendelet alapján
 
-a)[^78] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2027. június 30-ig,
+a)[^97] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2027. június 30-ig,
 
-b)[^79] csekély összegű támogatás esetén 2031. június 30-ig
+b)[^98] csekély összegű támogatás esetén 2031. június 30-ig
 
-c)[^80]
+c)[^99]
 
-d)[^81] csekély összegű közszolgáltatási támogatás esetén 2031. június 30-ig
+d)[^100] csekély összegű közszolgáltatási támogatás esetén 2031. június 30-ig
 
-e)[^82]
+e)[^101]
 
-f)[^83]
+f)[^102]
 
 lehet támogatási döntést hozni.
 
-[^68]: A 7. § (4) bekezdése a 26/2023. (IX. 21.) MK rendelet 2. §-ával megállapított szöveg.
-[^69]: A 7. § (5) bekezdését a 26/2023. (IX. 21.) MK rendelet 11. § h) pontja hatályon kívül helyezte.
-[^70]: A 7. § (6) bekezdése a 30/2023. (XII. 27.) MK rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^71]: A 7. § (6) bekezdés a) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
-[^72]: A 7. § (6) bekezdés b) pont bd) alpontja a 4/2024. (VI. 14.) MK rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^73]: A 7. § (6) bekezdés c) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
-[^74]: A 7. § (6) bekezdés g) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
-[^75]: A 7. § (6) bekezdés k) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
-[^76]: A 7. § (6) bekezdés l) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
-[^77]: A 7. § (6a) bekezdését a 26/2023. (IX. 21.) MK rendelet 3. §-a iktatta be.
-[^78]: A 7. § (7) bekezdés a) pontja a 26/2023. (IX. 21.) MK rendelet 4. § (1) bekezdésével megállapított, a 30/2023. (XII. 27.) MK rendelet 15. § b) pontja szerint módosított szöveg.
-[^79]: A 7. § (7) bekezdés b) pontja a 4/2024. (VI. 14.) MK rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^80]: A 7. § (7) bekezdés c) pontját a 15/2024. (XII. 2.) MK rendelet 4. § c) pontja hatályon kívül helyezte.
-[^81]: A 7. § (7) bekezdés d) pontját a 26/2023. (IX. 21.) MK rendelet 11. § i) pontja hatályon kívül helyezte, újonnan a 4/2024. (VI. 14.) MK rendelet 3. § (3) bekezdése iktatta be.
-[^82]: A 7. § (7) bekezdés e) pontját a 26/2023. (IX. 21.) MK rendelet 11. § i) pontja hatályon kívül helyezte.
-[^83]: A 7. § (7) bekezdés f) pontját a 4/2024. (VI. 14.) MK rendelet 14. § f) pontja hatályon kívül helyezte.
+[^86]: A 7. § (4) bekezdése a 26/2023. (IX. 21.) MK rendelet 2. §-ával megállapított szöveg.
+[^87]: A 7. § (5) bekezdését a 26/2023. (IX. 21.) MK rendelet 11. § h) pontja hatályon kívül helyezte.
+[^88]: A 7. § (6) bekezdése a 30/2023. (XII. 27.) MK rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^89]: A 7. § (6) bekezdés a) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
+[^90]: A 7. § (6) bekezdés b) pontját a 10/2025. (IV. 24.) MK rendelet 5. § c) pontja hatályon kívül helyezte.
+[^91]: A 7. § (6) bekezdés c) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
+[^92]: A 7. § (6) bekezdés f) pontját a 10/2025. (IV. 24.) MK rendelet 5. § c) pontja hatályon kívül helyezte.
+[^93]: A 7. § (6) bekezdés g) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
+[^94]: A 7. § (6) bekezdés k) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
+[^95]: A 7. § (6) bekezdés l) pontját a 4/2024. (VI. 14.) MK rendelet 14. § e) pontja hatályon kívül helyezte.
+[^96]: A 7. § (6a) bekezdését a 26/2023. (IX. 21.) MK rendelet 3. §-a iktatta be, a 10/2025. (IV. 24.) MK rendelet 5. § d) pontja hatályon kívül helyezte.
+[^97]: A 7. § (7) bekezdés a) pontja a 26/2023. (IX. 21.) MK rendelet 4. § (1) bekezdésével megállapított, a 30/2023. (XII. 27.) MK rendelet 15. § b) pontja szerint módosított szöveg.
+[^98]: A 7. § (7) bekezdés b) pontja a 4/2024. (VI. 14.) MK rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^99]: A 7. § (7) bekezdés c) pontját a 15/2024. (XII. 2.) MK rendelet 4. § c) pontja hatályon kívül helyezte.
+[^100]: A 7. § (7) bekezdés d) pontját a 26/2023. (IX. 21.) MK rendelet 11. § i) pontja hatályon kívül helyezte, újonnan a 4/2024. (VI. 14.) MK rendelet 3. § (3) bekezdése iktatta be.
+[^101]: A 7. § (7) bekezdés e) pontját a 26/2023. (IX. 21.) MK rendelet 11. § i) pontja hatályon kívül helyezte.
+[^102]: A 7. § (7) bekezdés f) pontját a 4/2024. (VI. 14.) MK rendelet 14. § f) pontja hatályon kívül helyezte.

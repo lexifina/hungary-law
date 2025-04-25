@@ -1,5 +1,5 @@
-## 27.[^118]
+## 27.[^137]
 
 50. §
 
-[^118]: A 27. alcímet (50-52. §-t) a 26/2023. (IX. 21.) MK rendelet 11. § l) pontja hatályon kívül helyezte.
+[^137]: A 27. alcímet (50-52. §-t) a 26/2023. (IX. 21.) MK rendelet 11. § l) pontja hatályon kívül helyezte.

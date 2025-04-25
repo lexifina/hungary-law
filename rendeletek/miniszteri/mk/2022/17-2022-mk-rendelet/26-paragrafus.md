@@ -1,4 +1,4 @@
-26. §[^104] (1) Működési támogatás esetén a támogatás összege nem haladhatja meg a támogatással érintett időszakban keletkező működési veszteséget.
+26. §[^123] (1) Működési támogatás esetén a támogatás összege nem haladhatja meg a támogatással érintett időszakban keletkező működési veszteséget.
 
 (2) Működési támogatás esetén a támogatás a működési veszteségen felül fedezetet nyújthat az észszerű nyereségre is.
 
@@ -36,4 +36,4 @@ e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jelle
 
 f) a külső tanácsadással és külső szolgáltatók által biztosított támogató szolgáltatásokkal kapcsolatos, közvetlenül a projekt eredményeként felmerülő költség.
 
-[^104]: A 26. §-t a 30/2023. (XII. 27.) MK rendelet 8. §-a hatályon kívül helyezte, újonnan a 4/2024. (VI. 14.) MK rendelet 7. §-a iktatta be.
+[^123]: A 26. §-t a 30/2023. (XII. 27.) MK rendelet 8. §-a hatályon kívül helyezte, újonnan a 4/2024. (VI. 14.) MK rendelet 7. §-a iktatta be.

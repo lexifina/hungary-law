@@ -1,4 +1,4 @@
-## 26.[^117] A kis- és középvállalkozásoknak nyújtott beruházási támogatás
+## 26.[^136] A kis- és középvállalkozásoknak nyújtott beruházási támogatás
 
 49. § (1) A kis- és középvállalkozásnak nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) kis- és középvállalkozás induló beruházásához nyújtható.
 
@@ -20,4 +20,4 @@ számolható el.
 
 (6) A beruházás megkezdésének napja a 13. § (4) bekezdése szerint kerül meghatározásra.
 
-[^117]: A 26. alcím (49. §) a 30/2023. (XII. 27.) MK rendelet 13. §-ával megállapított szöveg.
+[^136]: A 26. alcím (49. §) a 30/2023. (XII. 27.) MK rendelet 13. §-ával megállapított szöveg.

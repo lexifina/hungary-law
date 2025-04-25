@@ -1,3 +1,3 @@
-27. §[^105]
+27. §[^124]
 
-[^105]: A 27. §-t a 30/2023. (XII. 27.) MK rendelet 8. §-a hatályon kívül helyezte.
+[^124]: A 27. §-t a 30/2023. (XII. 27.) MK rendelet 8. §-a hatályon kívül helyezte.

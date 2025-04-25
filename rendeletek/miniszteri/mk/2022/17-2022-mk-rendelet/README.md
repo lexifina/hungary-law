@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-17-20-7
 | 2024-06-15 | 2022-17-20-7G.8 | 4/2024. (VI. 14.) MK rendelet |
 | 2024-07-24 | 2022-17-20-7G.9 | 8/2024. (VII. 23.) MK rendelet |
 | 2024-12-03 | 2022-17-20-7G.10 | 15/2024. (XII. 2.) MK rendelet |
+| 2025-04-25 | 2022-17-20-7G.11 | 10/2025. (IV. 24.) MK rendelet |

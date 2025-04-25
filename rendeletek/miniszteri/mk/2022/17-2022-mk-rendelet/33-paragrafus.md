@@ -1,4 +1,4 @@
-## 20.[^111] A közszolgáltatásért járó ellentételezés
+## 20.[^130] A közszolgáltatásért járó ellentételezés
 
 33. § (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett − ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat − részére nyújtható, amennyiben
 
@@ -40,4 +40,4 @@ f) a hivatkozást a 2012/21/EU bizottsági határozatra.
 
 (10) Ha a közszolgáltatási megbízás időtartama alatt a jelen alcímben foglalt feltételek nem teljesülnek, a támogatást nyújtó az Atr. 7. §-a alapján köteles a támogatást bejelenteni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-[^111]: A 20. alcím (33. §) a 4/2024. (VI. 14.) MK rendelet 8. §-ával megállapított szöveg.
+[^130]: A 20. alcím (33. §) a 4/2024. (VI. 14.) MK rendelet 8. §-ával megállapított szöveg.

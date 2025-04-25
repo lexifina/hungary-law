@@ -1,5 +1,5 @@
-## 6.[^93]
+## 6.[^111]
 
 12. §
 
-[^93]: A 6. alcímet (12. §-t) a 4/2024. (VI. 14.) MK rendelet 14. § i) pontja hatályon kívül helyezte.
+[^111]: A 6. alcímet (12. §-t) a 4/2024. (VI. 14.) MK rendelet 14. § i) pontja hatályon kívül helyezte.
