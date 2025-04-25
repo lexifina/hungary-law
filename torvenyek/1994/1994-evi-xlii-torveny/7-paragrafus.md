@@ -6,7 +6,7 @@ b) az Eximbank által az állam készfizető kezessége mellett vállalható gar
 
 c) a Mehib által az állam készfizető kezessége mellett vállalható biztosítási kötelezettségek és viszontbiztosításból eredő kötelezettségek állományának felső határát,
 
-d) a kamatkiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
+d) a kamatkiegyenlítési és tőkekiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 
 e) az Eximbank által folyósított kötött segélyhitelekhez kapcsolódó, a központi költségvetés terhére nyújtott támogatások előirányzatát.
 

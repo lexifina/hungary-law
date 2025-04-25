@@ -16,4 +16,6 @@ e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a
 
 f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
 
+g) az Eximbank tőkekiegyenlítési rendszere részletes szabályait.
+
 (2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék és költségátalány mértékét.

@@ -16,7 +16,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (3) Az Eximbanknak az (1) bekezdés b) és c) pontja, valamint a Mehibnek a (2) bekezdés szerinti fizetési kötelezettsége teljesítéséhez szükséges forrásokat a központi költségvetés közvetlenül biztosítja.
 
-(4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja.
+(4)
 
 (4a)
 

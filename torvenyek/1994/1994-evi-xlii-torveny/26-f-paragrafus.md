@@ -1,0 +1,1 @@
+26/F. § Az egyes állami tulajdonban lévő részvénytársaságokkal kapcsolatos törvények módosításáról szóló 2025. évi IX. törvénnyel (a továbbiakban: Módtv4.) megállapított 6/A. § c) pontját nem kell alkalmazni azon alapok vonatkozásában, amelyek futamideje a Módtv4. hatálybalépésekor már lejárt és a megszüntetési eljárás még nem zárult le.
