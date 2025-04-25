@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, és másrészről az Afrikai, Karibi és Csendes-óceáni Államok Szervezetének tagjai közötti partnerségi megállapodás (a továbbiakban: Partnerségi Megállapodás) kötelező hatályának elismerésére.
