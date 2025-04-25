@@ -109,3 +109,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2007-86-00-00.116 |
 | 2025-01-23 | 2024. évi LXXXIX. törvény | 2007-86-00-00.121 |
 | 2025-02-22 | 2024. évi LXXXIX. törvény | 2007-86-00-00.122 |
+| 2025-04-25 | 2025. évi V. törvény | 2007-86-00-00.124 |

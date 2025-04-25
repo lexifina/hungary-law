@@ -70,7 +70,7 @@
 
 33. az elosztó hálózati engedélyesnek háztartási kiserőművek hálózatra csatlakoztatásával, hálózathasználatával, elszámolásával, valamint nyilvántartásával kapcsolatos feladatait, valamint az elosztó hálózati engedélyes, a villamosenergia-kereskedő, és az egyetemes szolgáltató védendő fogyasztókkal kapcsolatos feladatait, jogait és kötelezettségeit, a védendő fogyasztó szerződésszegése esetén alkalmazható jogkövetkezményeket,
 
-34. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
+34. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékossággal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
 35. az okosmérőkre, azok felszerelésére, az engedélyesek és a felhasználók jogaira és kötelezettségeire, valamint az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra vonatkozó szabályokat,
 

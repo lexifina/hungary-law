@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti minimális szolgáltatás igénybevételének joga megilleti
 
-a) a négynél több szintes társasházat, ha abban az ingatlan tulajdonosaként fogyatékkal élő fogyasztó lakik, vagy
+a) a négynél több szintes társasházat, ha abban az ingatlan tulajdonosaként fogyatékossággal élő fogyasztó lakik, vagy
 
 b) azt a társasházat, amely a közösköltség-tartozást felhalmozó tulajdonostárssal szemben a fizetési meghagyásos eljárást a társasház közös képviselője által igazoltan megindította
 
