@@ -90,9 +90,9 @@ b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezeté
 
 28. holding: a számvitelről szóló törvény szerint anyavállalatnak és leányvállalatnak minősülő társaságok együttese, ahol az anyavállalat egyidejűleg megfelel a nemzeti vagyonról szóló törvény tulajdonosi joggyakorlóval szemben támasztott követelményeinek is.
 
-29. védendő felhasználó: az a természetes személy felhasználó, ideértve a mellékvízmérővel rendelkező elkülönített vízhasználót, valamint a fogyatékkal élő felhasználót is, aki jogszabályban meghatározott szociális helyzete alapján a víziközmű-szolgáltatásban megkülönböztetett feltételek szerint vehet részt,
+29. védendő felhasználó: az a természetes személy felhasználó, ideértve a mellékvízmérővel rendelkező elkülönített vízhasználót, valamint a fogyatékossággal élő felhasználót is, aki jogszabályban meghatározott szociális helyzete alapján a víziközmű-szolgáltatásban megkülönböztetett feltételek szerint vehet részt,
 
-30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
+30. fogyatékossággal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
 
 31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 
