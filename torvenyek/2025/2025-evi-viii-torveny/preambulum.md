@@ -1,0 +1,3 @@
+[1] Az egyrészről az Európai Unió és tagállamai, másrészről a Kirgiz Köztársaság közötti Megerősített Partnerségi és Együttműködési Megállapodás célja, hogy az Európai Unió tagállamai, valamint a Kirgiz Köztársaság megerősítsék és magasabb szintre emeljék a korábbi partnerségi és együttműködési megállapodások révén létrejött kölcsönösen előnyös együttműködést.
+
+[2] A Felek közös szándéka, hogy minden szinten megerősítsék, elmélyítsék és diverzifikálják együttműködésüket a kölcsönös érdeklődésre számot tartó kétoldalú, regionális és nemzetközi kérdésekben, illetve a továbbfejlesszék a kölcsönös érdeklődésre számot tartó kétoldalú és nemzetközi kérdésekről folytatott rendszeres politikai párbeszédet.
