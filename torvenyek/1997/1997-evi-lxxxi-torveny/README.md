@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 1997-81-00-00.96 |
 | 2025-01-01 | 2024. évi LXXIV. törvény | 1997-81-00-00.91 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 1997-81-00-00.98 |
+| 2025-04-25 | 2025. évi V. törvény | 1997-81-00-00.99 |
