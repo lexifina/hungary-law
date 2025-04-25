@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény (a továbbiakban: Egyezmény) Annex 1. 169-A–176. módosításait és 1. sz. helyesbítését, illetve Annex 2. 41–46. módosításait e törvénnyel kihirdeti.
