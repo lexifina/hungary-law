@@ -1,3 +1,3 @@
-269. §[^38]
+269. §[^41]
 
-[^38]: A 269. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 269. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

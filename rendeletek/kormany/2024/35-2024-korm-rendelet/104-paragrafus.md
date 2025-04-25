@@ -1,4 +1,4 @@
-104. § (1)[^13] A kitoloncolást Magyarország államhatáráig, amennyiben a harmadik országbeli állampolgár személy kíséret nélküli utazása a repülés biztonságára veszélyt jelentene, vagy azt nemzetközi szerződés (visszafogadási egyezmény) kötelezően előírja, a harmadik országbeli állampolgár származási államáig vagy más visszafogadásra köteles államig kell elrendelni.
+104. § (1)[^16] A kitoloncolást Magyarország államhatáráig, amennyiben a harmadik országbeli állampolgár személy kíséret nélküli utazása a repülés biztonságára veszélyt jelentene, vagy azt nemzetközi szerződés (visszafogadási egyezmény) kötelezően előírja, a harmadik országbeli állampolgár származási államáig vagy más visszafogadásra köteles államig kell elrendelni.
 
 (2) Az érintettet a kitoloncolás módjáról, körülményeiről (a továbbiakban: foganatosítás), továbbá a foganatosítással szembeni panasz benyújtásának lehetőségéről az anyanyelvén vagy az általa értett más nyelven tájékoztatni kell. A tájékoztatásnak ki kell terjednie
 
@@ -14,4 +14,4 @@ c) arra, hogy a foganatosítás milyen járművön, továbbá arra, hogy kísér
 
 (5) Az érintett a foganatosítás ellen panasszal élhet a foganatosítás befejezését követő nyolc napon belül, amelyet írásban, postai úton kell előterjeszteni. A panasz kivizsgálása során a Rendőrségről szóló törvény megfelelő alkalmazásával kell eljárni.
 
-[^13]: A 104. § (1) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^16]: A 104. § (1) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.

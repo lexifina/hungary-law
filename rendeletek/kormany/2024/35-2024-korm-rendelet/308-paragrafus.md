@@ -1,3 +1,3 @@
-308. §[^77]
+308. §[^80]
 
-[^77]: A 308. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 308. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

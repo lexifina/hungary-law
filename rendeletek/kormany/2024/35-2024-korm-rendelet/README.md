@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-35-20-2
 | 2024-07-01 | 2024-35-20-22.6 | 166/2024. (VI. 28.) Korm. rendelet |
 | 2024-09-01 | 2024-35-20-22.7 | 217/2024. (VII. 31.) Korm. rendelet |
 | 2025-01-01 | 2024-35-20-22.3 | 479/2024. (XII. 31.) Korm. rendelet |
+| 2025-04-25 | 2024-35-20-22.9 | 88/2025. (IV. 24.) Korm. rendelet |

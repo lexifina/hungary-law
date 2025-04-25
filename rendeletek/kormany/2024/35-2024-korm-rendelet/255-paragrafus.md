@@ -1,6 +1,6 @@
 ## 109. A Vízuminformációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok
 
-255. §[^24] (1) A VIS rendelet 34. cikke szerinti nyilvántartás vezetőjeként, a 28. cikk (4) bekezdés c) pontja szerinti hozzáférést biztosító nemzeti hatóságként a Kormány a Főigazgatóságot jelöli ki.
+255. §[^27] (1) A VIS rendelet 34. cikke szerinti nyilvántartás vezetőjeként, a 28. cikk (4) bekezdés c) pontja szerinti hozzáférést biztosító nemzeti hatóságként a Kormány a Főigazgatóságot jelöli ki.
 
 (2) A VIS rendelet alapján a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt adatokhoz történő hozzáférés szempontjából
 
@@ -12,4 +12,4 @@ c) a VIS rendelet 17. cikke szerinti vízumhatóság a 162. §-ban meghatározot
 
 d) a VIS rendelet 19. és 20. cikke szerinti ellenőrző hatóság a Rendőrség, a Főigazgatóság és a regionális igazgatóság.
 
-[^24]: A 255. § a 479/2024. (XII. 31.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg.
+[^27]: A 255. § a 479/2024. (XII. 31.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg.

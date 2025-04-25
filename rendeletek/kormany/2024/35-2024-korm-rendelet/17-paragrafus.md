@@ -1,3 +1,3 @@
-17. §[^4]
+17. §[^7]
 
-[^4]: A 17. §-t a 450/2024. (XII. 23.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^7]: A 17. §-t a 450/2024. (XII. 23.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

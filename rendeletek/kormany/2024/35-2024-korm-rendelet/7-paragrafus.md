@@ -28,7 +28,7 @@ a) a vagyon, vagyoni értékű jog, vagyoni érték eredetét igazoló közokira
 
 b) a rendszeres, munkavégzésre irányuló jogviszonyból vagy vállalkozási tevékenységből származó adóköteles jövedelem igazolásával.
 
-(6) A vízumeljárásban a harmadik országbeli állampolgárnak mellékelnie kell a valós magyarországi szállásának címét igazoló dokumentumot.
+(6)[^2] A vízumeljárásban a harmadik országbeli állampolgárnak magyarországi szálláshelyeként valós belföldi szálláshely címet kell bejelentenie.
 
 (7) A Tv. 17. § (1) bekezdés d) és g) pontjában foglalt feltétel igazolására az (5) bekezdésben csatolt igazolások elfogadhatóak, vagy azok benyújtását a Főigazgatóság Központi Regionális Igazgatósága (a továbbiakban: Központi Regionális Igazgatóság) kérheti.
 
@@ -41,3 +41,4 @@ b) a rendszeres, munkavégzésre irányuló jogviszonyból vagy vállalkozási t
 (11) A (3) bekezdés tekintetében a nem euróban történt befektetés esetében a befektetés euróban való értékének meghatározása során a befektetés napján a Magyar Nemzeti Bank által nyilvánosságra hozott árfolyamok alkalmazásával számított értéket kell figyelembe venni.
 
 [^1]: A 7. § a 479/2024. (XII. 31.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^2]: A 7. § (6) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-320. §[^89]
+320. §[^92]
 
-[^89]: A 320. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 320. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-311. §[^80]
+311. §[^83]
 
-[^80]: A 311. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 311. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
