@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-9-20-0A
 | 2025-03-27 | 2025-9-20-0A.1 | 9/2025. (III. 24.) BM rendelet |
 | 2025-03-28 | 2025-9-20-0A.2 | 2010. évi CXXX. törvény |
 | 2025-04-24 | 2025-9-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-04-25 | 2025-9-20-0A.4 | 2010. évi CXXX. törvény |
