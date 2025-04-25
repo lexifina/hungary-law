@@ -2,7 +2,7 @@
 
 8. § Közvetlen hátrányos megkülönböztetésnek minősül az olyan rendelkezés, amelynek eredményeként egy személy vagy csoport valós vagy vélt
 
-a) neme,
+a) neme, illetve ennek megfelelő identitása,
 
 b) faji hovatartozása,
 
@@ -28,7 +28,7 @@ l) anyasága (terhessége) vagy apasága,
 
 m) szexuális irányultsága,
 
-n) nemi identitása,
+n)
 
 o) életkora,
 
