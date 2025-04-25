@@ -44,7 +44,7 @@
 
 ## 12.1. pasztőrözés:
 
-## 12.1.1.[^65] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
+## 12.1.1.[^73] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
 
 ## 12.1.2. pillanathevítés: olyan hőkezelés, amely során a tejet, tejszínt vagy a tejterméket 100 °C alatti hőmérsékleten olyan hőmérséklet-idő kombinációval kezelik, amely eredményeként a hőkezelés után az alkalikus-foszfatáz- és a peroxidáz-próba egyaránt negatív;
 
@@ -54,7 +54,7 @@
 
 ## 13. Író: köpüléskor a zsír kiválása után a tejfölből, tejszínből visszamaradó folyékony termék.
 
-## 14. Ízesítőanyag: gyümölcs-, zöldségkészítmények, fűszerek, növényi kivonatok, cukor, méz, egyéb élelmiszerek, az 1334/2008/EK európai parlamenti és tanácsi rendelet szerinti aromák, amelyeket a termékek jellegzetes ízének elérése érdekében adnak a termékhez.
+## 14.[^74] Ízesítőanyag: gyümölcs-, zöldségkészítmények, fűszerek, cukor, méz, egyéb élelmiszerek, az 1334/2008/EK európai parlamenti és tanácsi rendelet szerinti aromák (például növényi kivonatok), amelyeket a termékek jellegzetes ízének elérése érdekében adnak a termékhez.
 
 ## 15. Kéregflóra: a sajt kiszáradt felületén, a kérgén megtelepedő, emberi egészségre ártalmatlan mikroorganizmusok összessége.
 
@@ -110,11 +110,11 @@
 
 ## 39. Vízmentes tejzsír: legalább 99,8% tejzsírt és legfeljebb 0,1% vizet tartalmazó termék.
 
-## III.
+## III.[^75]
 
 ## 1. Ízesített termék esetén az ízesítőanyag mennyiségének – ahol nincs erre vonatkozó előírás – a termék jellegzetességét biztosító arányúnak kell lennie.
 
-## 2. A csomagolás semmilyen tulajdonságával (így különösen méret, megjelenés, tömeg, térfogat) nem vezetheti félre a fogyasztót.
+## 2. A csomagolás semmilyen tulajdonságával nem vezetheti félre a fogyasztót.
 
 ## 3. Tejtermék jelölésénél a jogszabályi előírások, valamint a B részben meghatározottak mellett a következőket kell figyelembe venni:
 
@@ -122,45 +122,41 @@
 
 ## 3.1.1. Tehéntejből gyártott termék esetén a megnevezésben nem kötelező a tehéntejre utalni. Tehéntejre utalás esetén elegendő a „tej” szó használata.
 
-## 3.1.2. Nem tehéntejből gyártott termék esetén a megnevezésben utalni kell a felhasznált tejféleségre (például „ízesített tejkészítmény kecsketejből”). Különféle tejelő állatoktól származó tejből, illetve tejtermékből (a továbbiakban: kevert alapanyag) készített termék esetén az állatfaj neve kizárólag akkor tüntethető fel a termék megnevezésében, ha az egyszerű termékhányad legalább 70%-a a megnevezett állatfaj tejéből származik. Az állatfaj nevének feltüntetése esetén a kevert alapanyagra való utalást a megnevezésben szintén fel kell tüntetni (például „juhgomolya kevert tejből”).
+## 3.1.2. Nem tehéntejből gyártott termék esetén a megnevezésben utalni kell a felhasznált tejféleségre, például „ízesített tejkészítmény kecsketejből”.
 
-## 3.1.3. Kevert alapanyagból készített termék esetén a kevert alapanyagra való utalást a megnevezésben fel kell tüntetni (például „zsíros, félkemény sajt kevert tejből”).
+## 3.1.3. „Kecskesajt” megnevezéssel azok a B rész 4. pontja szerinti oltós alvasztású érlelt sajtok, továbbá a B rész 5. pontja szerinti savas és vegyes alvasztású sajtok jelölhetők, amelyek előállításához kizárólag kecsketejet használtak fel.
 
-## 3.1.4. Ízesített készítmények megnevezésében utalni kell az ízesítőanyagként használt élelmiszer nevére (például „Málnás joghurt”). Többféle ízesítőanyag használatakor a megnevezésben a meghatározó ízre kell utalni, melynek során az ízesítőanyagok közismert gyűjtőneve (például „Erdei vegyes gyümölcsös joghurt”) is használható. Kizárólag aromával ízesített termék esetén a megnevezésben a termék jellegére való utalásként egyedül a(z) „…ízű” kifejezés használható (például „Őszibarackízű aludttej”).
+## 3.1.4. Különféle tejelő állatoktól származó tejből, illetve tejtermékből (a továbbiakban: kevert alapanyag) készített termék esetén az állatfaj neve a 3.1.3. pontban előírtak kivételével akkor tüntethető fel a termék megnevezésében, ha az egyszerű termékhányad legalább 70%-a a megnevezett állatfaj tejéből származik. Az állatfaj nevének feltüntetése esetén a kevert alapanyagra való utalást a megnevezésben szintén fel kell tüntetni, például „juhgomolya kevert tejből”.
 
-## 3.1.5. „Félzsíros” tejnek a 2,8% zsírtartalmú tej nevezhető.
+## 3.1.5. Kevert alapanyagból készített termék esetén a kevert alapanyagra való utalást a megnevezésben fel kell tüntetni, például „zsíros, félkemény sajt kevert tejből”.
 
-## 3.1.6. A fogyasztói tejek jelölésén feltüntetett zsírtartalom érték és az ellenőrzések során mért érték különbsége a mérési bizonytalanságot is beleértve +/− 0,15% lehet, azonban a termék mért zsírtartalma az 1308/2013/EU európai parlamenti és tanácsi rendeletben meghatározott kategóriákhoz tartozó zsírtartalmak minimum és maximum értékeit nem lépheti át.
+## 3.1.6. Ízesített készítmények megnevezésében utalni kell az ízesítőanyagként használt élelmiszer nevére, például „Málnás joghurt”. Többféle ízesítőanyag használatakor a megnevezésben a meghatározó ízre kell utalni, melynek során az ízesítőanyagok közismert gyűjtőneve – például „Erdei vegyes gyümölcsös joghurt” – is használható. Kizárólag természetes vagy nem természetes aromával ízesített termék esetén a megnevezésben a termék jellegére való utalásként egyedül a(z) „… ízű” kifejezés használható, például „Őszibarackízű aludttej”.
 
-## 3.1.7. Füstölés, füstölt íz kialakítása esetén a tejtermék megnevezésében a következő jelzőt kell feltüntetni:
+## 3.1.7. „Félzsíros” tejnek a 2,8% zsírtartalmú tej nevezhető.
 
-## 3.1.7.1. a füstöléssel előállított tejtermék megnevezésében a „füstölt” jelzőt,
+## 3.1.8. A fogyasztói tejek jelölésén feltüntetett zsírtartalomérték és az ellenőrzések során mért érték különbsége a mérési bizonytalanságot is beleértve +/− 0,15% lehet, azonban a termék mért zsírtartalma az 1308/2013/EU európai parlamenti és tanácsi rendeletben meghatározott kategóriákhoz tartozó zsírtartalmak minimum és maximum értékeit nem lépheti át.
 
-## 3.1.7.2. a regenerált füstaroma használatával előállított tejtermék megnevezésében a „folyékony füsttelt füstölt” vagy „füstoldattal füstölt” jelzőt,
+## 3.1.9. Füstölés, füstölt íz kialakítása esetén a tejtermék megnevezésében a következő jelzőt kell feltüntetni:
 
-## 3.1.7.3. a füst ízesítéssel előállított tejtermék megnevezésében a „füst ízű” vagy „füst ízesítésű” jelzőt.
+## 3.1.9.1. a fa elégetéséből származó füsttel, füstöléssel előállított tejtermék megnevezésében a „füstölt” jelzőt,
 
-## 3.1.8. Engedélyezett laktózbontó enzimmel előállított laktózmentes tejtermék megnevezésében a „laktózmentes” jelzőt fel kell tüntetni.
+## 3.1.9.2. a füstaromából előállított regenerált füst felhasználásával, füstöléssel előállított tejtermék megnevezésében a „folyékony füsttel füstölt” vagy „füstoldattal füstölt” jelzőt,
+
+## 3.1.9.3. füstaroma ízesítéssel, a 3.1.9.2. ponttól eltérő módon előállított tejtermék megnevezésében a „füst ízű” vagy „füst ízesítésű” jelzőt.
+
+## 3.1.10. Engedélyezett laktózbontó enzimmel előállított laktózmentes tejtermék megnevezésében a „laktózmentes” jelzőt fel kell tüntetni.
 
 ## 3.2. Egyéb jelölés
 
-## 3.2.1. Az összetevők mennyiségi jelölésére vonatkozó általános szabályoknak megfelelően fel kell tüntetni
-
-## 3.2.1.1. kevert alapanyagból gyártott termékek esetében a felhasznált tejféleségek mennyiségét is,
-
-## 3.2.1.2. a nem kizárólagosan aromával ízesített termékek esetén az ízesítőanyag mennyiségét.
-
-## 3.2.2. A laktózmentes tejtermék maradék laktóztartalmát a következők szerint kell feltüntetni a termék jelölésén: „laktóztartalom < 0,1 g/100 g”.
+## 3.2.1. A laktózmentes tejtermék maradék laktóztartalmát a következők szerint kell feltüntetni a termék jelölésén: „laktóztartalom < 0,1 g/100 g”.
 
 ## 4. A B részben szereplő tejtermékek előállításához a B részben meghatározottakon túl felhasználható
 
 ## 4.1. élelmiszer-adalékanyag az 1333/2008/EK európai parlamenti és tanácsi rendeletben meghatározott termék esetén, az ott megjelölt mennyiségben, az 5. pontban foglaltak kivételével,
 
-## 4.2. vitamin, ásványi anyag és bizonyos egyéb anyag, a vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadásáról szóló, 2006. december 20-i 1925/2006/EK európai parlamenti és tanácsi rendeletben foglaltaknak megfelelően.
+## 4.2. vitamin, ásványi anyag és bizonyos egyéb anyag az 1925/2006/EK európai parlamenti és tanácsi rendeletben foglaltaknak megfelelően.
 
 ## 5. A tejföl, a túró és a túrósajt esetében élelmiszer-adalékanyag, a kakaós és a karamellás tej előállítása során pedig színezék hozzáadása nem megengedett.
-
-## 6. Az összetett élelmiszerek esetén az élelmiszer-kategória meghatározása a tejalapú összetevőre vonatkozik.
 
 ## B rész
 
@@ -184,7 +180,7 @@
 
 ## 1.1.2.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4
 
-## 1.1.2.2. Tejalapú ital az a termék, amelyben a tejhányad legalább 50% (m/m), de nem éri el a 70%-ot (m/m), és az előállításához savót, írót, permeátumot vagy ezek keverékeit, ízesítőanyagot, továbbá szükség szerint vizet, színezéket és egyéb élelmiszer-adalékanyagot is felhasználnak.
+## 1.1.2.2.[^76] Tejalapú ital az a termék, amelyben a tejhányad legalább 50% (m/m), és az előállításához savót, írót, permeátumot vagy ezek keverékeit, ízesítőanyagot, továbbá szükség szerint vizet, színezéket és egyéb élelmiszer-adalékanyagot is felhasználnak.
 
 ## 1.1.3. Savó-, író- és permeátumalapú italok
 
@@ -944,9 +940,12 @@
 
 | 32. | MSZ ISO 22935-3 Tej és tejtermékek. Érzékszervi vizsgálat. 3. rész: Útmutató a termékleírásban szereplő érzékszervi tulajdonságoknak való megfelelés pontozásos értékelési módszerére |
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^66]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^77]
 
 A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
-[^65]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
-[^66]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^73]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^74]: A 13. melléklet A rész II. fejezet 14. pontja a 11/2025. (IV. 22.) AM rendelet 4. § e) pontja és az 5. § b) pontja szerint módosított szöveg.
+[^75]: A 13. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 3. §-ával megállapított szöveg.
+[^76]: A 13. melléklet B rész 1.1.2.2. pontja a 11/2025. (IV. 22.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^77]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.

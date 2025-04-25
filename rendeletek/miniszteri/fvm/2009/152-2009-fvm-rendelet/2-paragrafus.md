@@ -38,6 +38,8 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 
 (18)[^42] A 10. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 44/2023. (VII. 27.) AM rendelettel (a továbbiakban: MódR8.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR8. hatálybalépésének napját[^43] megelőző napon hatályos előírásoknak megfelelő termékek a MódR8. hatálybalépésének napjától számított 6. hónap utolsó napjáig forgalomba hozhatók, és a minőségmegőrzési idejük lejártáig forgalomban tarthatók.
 
+(19)[^44] A 13. melléklet A rész III. fejezetének, valamint B rész 1.1.2.2. pontjának a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 11/2025. (IV. 22.) AM rendelettel (a továbbiakban: MódR9.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR9. hatálybalépésének[^45] napját megelőző napon hatályos előírásoknak megfelelő, 13. melléklet szerinti termékek a MódR9. hatálybalépésének napjától számított 12. hónap utolsó napjáig forgalomba hozhatók, és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.
+
 [^22]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^23]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^24]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
@@ -60,3 +62,5 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 [^41]: A hatálybalépés időpontja 2021. október 2.
 [^42]: A 2. § (18) bekezdését a 44/2023. (VII. 27.) AM rendelet 1. §-a iktatta be.
 [^43]: A hatálybalépés időpontja 2023. augusztus 11.
+[^44]: A 2. § (19) bekezdését a 11/2025. (IV. 22.) AM rendelet 1. §-a iktatta be.
+[^45]: A hatálybalépés időpontja 2025. április 25.

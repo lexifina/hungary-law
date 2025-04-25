@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2023-08-11 | 2009-152-20-82.41 | 44/2023. (VII. 27.) AM rendelet |
 | 2024-09-01 | 2009-152-20-82.42 | 43/2024. (VIII. 29.) AM rendelet |
 | 2024-12-07 | 2009-152-20-82.43 | 59/2024. (XII. 6.) AM rendelet |
+| 2025-04-25 | 2009-152-20-82.44 | 11/2025. (IV. 22.) AM rendelet |

@@ -1,3 +1,3 @@
-27. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^80]
+27. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^93]
 
-[^80]: A 27. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 77/2011. (VIII. 3.) VM rendelet 3. § c) pontja.
+[^93]: A 27. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 77/2011. (VIII. 3.) VM rendelet 3. § c) pontja.
