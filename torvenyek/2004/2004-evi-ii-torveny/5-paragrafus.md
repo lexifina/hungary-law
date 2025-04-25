@@ -4,7 +4,7 @@
 
 (3) A mozgóképszakmai támogatási rendszer működtetése során törekedni kell a közpénzek hatékony és eredményes felhasználására, továbbá úgy kell eljárni, hogy azok felhasználása átlátható és ellenőrizhető legyen.
 
-(4) E törvény alkalmazása és a mozgóképszakmai támogatási rendszer működtetése során úgy kell eljárni, hogy az segítse a különböző társadalmi nemzetiségekhez tartozó, valamint a fogyatékkal élő emberek társadalmon belüli esélyegyenlőségének megteremtését.
+(4) E törvény alkalmazása és a mozgóképszakmai támogatási rendszer működtetése során úgy kell eljárni, hogy az segítse a különböző társadalmi nemzetiségekhez tartozó, valamint a fogyatékossággal élő emberek társadalmon belüli esélyegyenlőségének megteremtését.
 
 ## I/A. Fejezet
 
