@@ -82,7 +82,7 @@ c) kettőnél több gyermek esetén összesen tizennégy
 
 munkanap pótszabadság igénybevételére jogosult.
 
-(10) A (9) bekezdés szerinti pótszabadság fogyatékkal élő gyermekenként két munkanappal nő.
+(10) A (9) bekezdés szerinti pótszabadság fogyatékossággal élő gyermekenként két munkanappal nő.
 
 (11) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizennyolcadik életévét betölti.
 
