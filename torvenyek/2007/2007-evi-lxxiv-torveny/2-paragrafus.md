@@ -8,4 +8,4 @@ c) nemzeti kultúra műsorterjesztésen keresztüli megőrzése, védelme és t�
 
 d) a digitális átállás előnyeinek biztosítása a fogyasztók és a vállalkozások számára;
 
-e) a fogyatékkal élők és az alacsony jövedelmű felhasználók igényeinek figyelembevétele a digitális átállás során.
+e) a fogyatékossággal élők és az alacsony jövedelmű felhasználók igényeinek figyelembevétele a digitális átállás során.
