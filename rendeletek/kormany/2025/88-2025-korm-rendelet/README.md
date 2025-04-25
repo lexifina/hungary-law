@@ -1,0 +1,9 @@
+# 88/2025. (IV. 24.) Korm. rendelet
+
+a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-88-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-04-25 | 2025-88-20-22.1 | 88/2025. (IV. 24.) Korm. rendelet |
