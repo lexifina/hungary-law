@@ -22,7 +22,7 @@
 
 7. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a kormánytisztviselő az álláshelyén ellátandó feladatokhoz kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
 
-8. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
+8. fogyatékossággal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 
 9. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 
