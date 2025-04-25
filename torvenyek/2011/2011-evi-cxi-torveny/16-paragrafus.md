@@ -16,6 +16,8 @@ f) a felmentésével vagy
 
 g) a tisztségtől való megfosztással.
 
+(1a) Ha az alapvető jogok biztosa megbízatása az (1) bekezdés a) pontja alapján szűnt meg, az alapvető jogok biztosát megillető jogköröket az új alapvető jogok biztosa megbízatása kezdetéig gyakorolja.
+
 (2) Az alapvető jogok biztosa megbízatásának a megszűnését az (1) bekezdés b) és c) pontja esetében az Országgyűlés elnöke állapítja meg. Az (1) bekezdés d)–g) pontja esetében a megbízatás megszűnéséről az Országgyűlés határoz.
 
 (3) A lemondást írásban kell közölni az Országgyűlés elnökével. Az alapvető jogok biztosának a megbízatása a lemondásában megjelölt napon, ennek hiányában a lemondás közlésének a napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
