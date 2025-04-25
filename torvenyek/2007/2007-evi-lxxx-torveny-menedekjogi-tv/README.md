@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-80-00-00
 | 2025-01-01 | 2024. évi LXXXIV. törvény | 2007-80-00-00.46 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2007-80-00-00.51 |
 | 2025-04-01 | 2024. évi LXXI. törvény | 2007-80-00-00.50 |
+| 2025-04-25 | 2025. évi V. törvény | 2007-80-00-00.53 |
