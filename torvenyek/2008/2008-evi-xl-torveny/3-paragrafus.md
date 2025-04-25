@@ -78,7 +78,7 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 21. Fogyasztói vezeték: az a vezetékszakasz tartozékaival együtt, amely a gázmérőtől – ennek hiányában a fogyasztói főcsaptól – a gázfogyasztó készülékig terjed.
 
-22. Fogyatékkal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a földgázellátásból való kikapcsolás vagy annak megszakadása közvetlenül veszélyezteti.
+22. Fogyatékossággal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a földgázellátásból való kikapcsolás vagy annak megszakadása közvetlenül veszélyezteti.
 
 22a. Föld alatti gáztároló: az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 2. cikk 31. pontja szerinti föld alatti gáztároló.
 

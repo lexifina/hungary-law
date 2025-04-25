@@ -54,7 +54,7 @@
 
 25. a felhasználó kereskedőváltásának és ellátási formaváltásának feltételeit, részletes szabályait, valamint az egyetemes szolgáltatásra jogosult nem lakossági fogyasztótól az egyetemes szolgáltatási szerződés megkötésének feltételeként kérhető pénzügyi biztosíték összegét,
 
-26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
+26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékossággal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
 27. az adatcsere-ellenőrzési testület létrehozására és működtetésére vonatkozó szabályokat, továbbá az adatcsere bizottság létrehozására és működtetésére vonatkozó szabályokat,
 

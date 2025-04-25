@@ -105,3 +105,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2025-02-22 | 2024. évi LXXXIX. törvény | 2008-40-00-00.105 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2008-40-00-00.102 |
 | 2025-04-01 | 2024. évi LXXXIX. törvény | 2008-40-00-00.106 |
+| 2025-04-25 | 2025. évi V. törvény | 2008-40-00-00.107 |
