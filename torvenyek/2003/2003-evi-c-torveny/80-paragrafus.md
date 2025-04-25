@@ -2,4 +2,4 @@
 
 (2) A rádióberendezés megfelelőségét a gyártó megfelelőségértékelési eljárás lefolytatása alapján kiállított megfelelőségi nyilatkozattal igazolja.
 
-(3) Az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák akkor hozhatók forgalomba, forgalmazhatók vagy helyezhetők üzembe, ha teljesítik az Európai Bizottság által meghatározott együttműködési képességre, csalás elleni védettségre, az előfizetők és felhasználók magánszférájának védelmére, a fogyatékkal élők hozzáférésének biztosítására és a segélyhívó szolgálatok elérésének támogatására vonatkozó követelményeket.
+(3) Az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák akkor hozhatók forgalomba, forgalmazhatók vagy helyezhetők üzembe, ha teljesítik az Európai Bizottság által meghatározott együttműködési képességre, csalás elleni védettségre, az előfizetők és felhasználók magánszférájának védelmére, a fogyatékossággal élők hozzáférésének biztosítására és a segélyhívó szolgálatok elérésének támogatására vonatkozó követelményeket.
