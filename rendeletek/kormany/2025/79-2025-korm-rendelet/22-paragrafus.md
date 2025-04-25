@@ -1,0 +1,1 @@
+22. § A Nemzeti Földalap kezeléséért felelős szerv az Eljárással érintett valamennyi földrészlet adatait, valamint a korábban megindult, de le nem zárult eljárások során keletkezett, rendelkezésre álló anyagokat az e rendelet hatálybalépését követő 8 napon belül megküldi a földrészlet fekvése szerint illetékes ingatlanügyi hatóságnak.

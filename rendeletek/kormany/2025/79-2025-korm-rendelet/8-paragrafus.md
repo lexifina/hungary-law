@@ -1,0 +1,11 @@
+8. § (1) A megosztási eljárás előkészítése mezőgazdászi helyszínelésből és keretmérésből áll. A keretmérés során – az ingatlanügyi hatóság által esetlegesen biztosított, a keretmérés végrehajtásához technológiát meghatározó vázlatnak megfelelően – a helyszíni állapot műszaki felmérésére kerül sor. A mezőgazdászi helyszínelésről és a keretmérésről a kérelmezőket előzetesen nem kell értesíteni. A mezőgazdászi helyszínelésről és a keretmérésről jegyzőkönyvet kell felvenni.
+
+(2) A mezőgazdászi helyszínelés végrehajtásához négy évnél nem régebben készített, legalább 50 cm terepi felbontású, a keretmérés végrehajtásához két évnél nem régebben, lombtalan időszakban készített, belterületen legalább 10 cm – ±18 cm geometriai pontosságú –, külterületen legalább 20 cm terepi felbontású – ±40 cm geometriai pontosságú –, az állami digitális távérzékelési adatbázisban tárolt adatok is felhasználhatók.
+
+(3) A keretmérésről készült jegyzőkönyvet és a mérésről készített mérési vázlatot a 8/2018. (VI. 29.) AM rendelet szerinti tartalommal, a keretmérést követően 8 napon belül át kell adni az ingatlanügyi hatóságnak. Az átadott munkarészeket az ingatlanügyi hatóság soron kívül vizsgálja.
+
+(4) Ha a megosztást olyan földrészleten kell elvégezni, amely egy korábbi megosztási eljárás eredményeként mint visszamaradó földrészlet keletkezett, a mezőgazdászi helyszínelést és a keretmérést ismét el kell végezni.
+
+(5) Ha a keretmérés eredménye a 8/2018. (VI. 29.) AM rendeletben foglalt tűréshatáron túl eltér az ingatlan-nyilvántartási állapottól, és az felmérési, térképezési vagy területszámítási hibából adódik, az ingatlanügyi hatóság a változást soron kívül átvezeti az ingatlan-nyilvántartásban.
+
+(6) Az (5) bekezdés szerinti változás meghatározását az ingatlanügyi hatóság a hiba kiigazítására irányuló eljárásában a (3) bekezdés szerint átadott adatok, szükség esetén saját mérése során keletkezett adatok, valamint az állami távérzékelési adatbázisban található, 5 évnél nem régebbi, lombtalan vegetációs periódusban készült, legalább 20 cm terepi felbontású, ±40 cm négyzetes középhiba megbízhatóságú vagy ennél pontosabb, államilag átvett ortofotó felhasználásával végzi. Felmérési, térképezési vagy területszámítási hiba fennállása esetén a változás meghatározására ortofotó nem használható.
