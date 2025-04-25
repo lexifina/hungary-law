@@ -89,3 +89,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2024-12-30 | 2024. évi LXXVII. törvény | 1993-3-00-00.141 |
 | 2025-01-01 | 2024. évi XV. törvény | 1993-3-00-00.136 |
 | 2025-01-16 | 2024. évi LXXIII. törvény | 1993-3-00-00.139 |
+| 2025-04-25 | 2025. évi V. törvény | 1993-3-00-00.142 |
