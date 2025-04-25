@@ -14,7 +14,7 @@
 
 6. szabályozza az örökségvédelemmel kapcsolatos szakértői tevékenységek szakmagyakorlási feltételeit, ennek keretében a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
-7. szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékkal élő személyek esélyegyenlőségének előmozdítására;
+7. szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékossággal élő személyek esélyegyenlőségének előmozdítására;
 
 8. meghatározza a feltáráson előkerülő, a helyszínen meg nem őrizhető régészeti emlékek elhelyezésének szabályait;
 
