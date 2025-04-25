@@ -6,6 +6,6 @@
 
 (2) Az, aki a szakképző iskolában folytatott tanulmányokhoz kapcsolódóan szakmát szerzett és annak megszerzését követően kíván érettségi vizsgát tenni, mentesül az érettségi vizsga kötelezően választandó vizsgatárgya alól.
 
-(3) Az érettségi vizsgán az érettségi vizsga kötelező vizsgatárgyai helyett a sajátos nevelési igényű vagy fogyatékkal élő személy – jogszabályban meghatározottak szerint – másik tantárgyat választhat.
+(3) Az érettségi vizsgán az érettségi vizsga kötelező vizsgatárgyai helyett a sajátos nevelési igényű vagy fogyatékossággal élő személy – jogszabályban meghatározottak szerint – másik tantárgyat választhat.
 
 (4) Az érettségi vizsga megszervezésére és lebonyolítására az Nkt.-t kell alkalmazni.

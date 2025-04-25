@@ -6,4 +6,4 @@
 
 (3) A szakképző intézményben folyó oktatás nyelve a magyar. A szakképzés – részben vagy egészben – nem magyar nyelven is folyhat. Az állam biztosítja, hogy minden szakma tekintetében elérhető legyen magyar nyelven folyó szakmai oktatás.
 
-(4) A szakképzés kiemelt feladata a sajátos nevelési igényű vagy fogyatékkal élő személy, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló speciális igényeinek figyelembevétele és egyéni képességeihez igazodó, legeredményesebb fejlődésének elősegítése a minél teljesebb társadalmi beilleszkedés lehetőségeinek megteremtése érdekében.
+(4) A szakképzés kiemelt feladata a sajátos nevelési igényű vagy fogyatékossággal élő személy, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló speciális igényeinek figyelembevétele és egyéni képességeihez igazodó, legeredményesebb fejlődésének elősegítése a minél teljesebb társadalmi beilleszkedés lehetőségeinek megteremtése érdekében.

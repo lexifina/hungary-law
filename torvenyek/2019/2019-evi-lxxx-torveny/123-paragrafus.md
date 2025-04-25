@@ -68,7 +68,7 @@
 
 22. a tanulók egészségügyi ellátására és egészségfejlesztésére vonatkozó részletes szabályokat,
 
-23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű vagy fogyatékkal élő személy szakmai oktatásával kapcsolatos részletes szabályokat,
+23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű vagy fogyatékossággal élő személy szakmai oktatásával kapcsolatos részletes szabályokat,
 
 24. a tanuló heti kötelező foglalkozásainak számát,
 

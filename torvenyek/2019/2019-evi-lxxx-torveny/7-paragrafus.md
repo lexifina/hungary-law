@@ -8,7 +8,7 @@ E törvény alkalmazásában
 
 1. akkreditált szakképzési vizsgaközpont: a szakképzési államigazgatási szerv minősítő eljárásában a jogszabályi követelmények teljesítésére, valamint a szakmai és képesítő vizsgáztatási tevékenység folytatására alkalmasnak minősített és az akkreditált szakképzési vizsgaközpontok nyilvántartásába bejegyzett szervezet,
 
-1a. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényű vagy fogyatékkal élő személynek,
+1a. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényű vagy fogyatékossággal élő személynek,
 
 1b. digitális kollaborációs tér: a tanulmányi rendszer modulja, amely biztosítani képes legalább a tanárok és a diákok egyéni vagy csoportos, interaktív és távolléti kapcsolattal megvalósuló, teljes értékű, digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
 
@@ -24,7 +24,7 @@ E törvény alkalmazásában
 
 4. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – képzési és kimeneti követelményekben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a szakmai vizsgára és a szakma végzésére,
 
-5. sajátos nevelési igényű vagy fogyatékkal élő személy: az a tanuló, illetve képzésben részt vevő személy, aki az Nkt. szerinti szakértői bizottság vagy a rehabilitációs hatóság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
+5. sajátos nevelési igényű vagy fogyatékossággal élő személy: az a tanuló, illetve képzésben részt vevő személy, aki az Nkt. szerinti szakértői bizottság vagy a rehabilitációs hatóság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
 
 6. szakképzési alapfeladat: a szakképző intézmény alapító okiratában meghatározott technikumi szakmai oktatás és szakképző iskolai szakmai oktatás, továbbá ahhoz kapcsolódóan az előkészítő évfolyam és a műhelyiskola megszervezése,
 
