@@ -1,0 +1,1 @@
+8. § Amennyiben a tervezési szerződés teljesítése során, a tervezést követően közvetlenül nem kezdődik meg a kivitelezés, az építtető írásbeli hozzájárulásával a kivitelezés megkezdéséig tartó időszakban a biztosított tervezőnek nem kötelező biztosítási fedezettel rendelkeznie.

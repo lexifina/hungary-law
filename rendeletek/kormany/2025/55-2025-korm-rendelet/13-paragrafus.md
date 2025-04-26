@@ -1,0 +1,1 @@
+13. § A fedezetnek a kivitelezés megkezdésekor rendelkezésre kell állnia, a fedezetigazolást a biztosítottnak a munkaterület átadás-átvételi eljárás megkezdéséig az építtető felé igazolnia kell a fedezetigazolás megküldésével.

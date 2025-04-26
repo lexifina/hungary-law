@@ -1,0 +1,1 @@
+5. § A biztosítási összeg meghatározása szempontjából a tervezők esetében a tervezési szerződés, a kivitelezők esetében a kivitelezési szerződés megkötésének időpontja szerinti kivitelezési költségkeret az irányadó.
