@@ -1,1 +1,1 @@
-6. § Hatályát veszti az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 8. § n) pontja.
+### 6. §
