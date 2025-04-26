@@ -8,6 +8,6 @@
 
 ## [5] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 5. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: R.) 2. §-a a következő (19) bekezdéssel egészül ki:
+1. §[^2]
 
-„(19) A 13. melléklet A rész III. fejezetének, valamint B rész 1.1.2.2. pontjának a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 11/2025. (IV. 22.) AM rendelettel (a továbbiakban: MódR9.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR9. hatálybalépésének napját megelőző napon hatályos előírásoknak megfelelő, 13. melléklet szerinti termékek a MódR9. hatálybalépésének napjától számított 12. hónap utolsó napjáig forgalomba hozhatók, és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
