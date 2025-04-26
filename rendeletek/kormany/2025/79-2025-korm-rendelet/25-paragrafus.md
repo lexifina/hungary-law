@@ -1,1 +1,3 @@
-25. § Hatályát veszti a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 374/2014. (XII. 31.) Korm. rendelet.
+25. §[^1]
+
+[^1]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
