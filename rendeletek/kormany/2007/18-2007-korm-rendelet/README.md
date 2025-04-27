@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-2
 | 2012-01-01 | 2007-18-20-22.6 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 2007-18-20-22.7 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2022-03-05 | 2007-18-20-22.8 | 67/2022. (II. 28.) Korm. rendelet |
+| 2025-04-27 | 2007-18-20-22.9 | 86/2025. (IV. 24.) Korm. rendelet |

@@ -8,10 +8,12 @@
 
 (4) Az alagútkezelő minden egyes alagút esetében, valamennyi tervfázisban összeállítja a biztonsági dokumentációt, és azt folyamatosan aktualizálja. Az alagútkezelő a biztonsági dokumentáció egy példányát átadja a biztonsági tisztnek.
 
-(5) A biztonsági dokumentáció ismerteti az alagutat használók biztonsága érdekében szükséges megelőző és óvintézkedéseket – tekintettel a mozgáskorlátozott és a fogyatékkal élő személyekre is –, az útvonal jellegét, a szerkezet konstrukcióját és annak környezetét, a forgalom jellegét és a rendelet 2. § d) pontjában meghatározott segélyszolgálatok tevékenységének hatókörét.
+(5)[^23] A biztonsági dokumentáció ismerteti az alagutat használók biztonsága érdekében szükséges megelőző és óvintézkedéseket – tekintettel a mozgáskorlátozott és a fogyatékossággal élő személyekre is –, az útvonal jellegét, a szerkezet konstrukcióját és annak környezetét, a forgalom jellegét és a rendelet 2. § d) pontjában meghatározott segélyszolgálatok tevékenységének hatókörét.
 
 (6) Az alagútkezelő a kockázatelemzést egy tőle funkcionális szempontból független – közúti létesítmények kapcsán elvégzett kockázatelemzési gyakorlattal rendelkező – szervezettel végezteti el, amellyel a (7) bekezdés szerinti módszertan követelményeinek alkalmazását előíró szerződést köt.
 
 (7) A kockázatelemzés módszertanát a Hatóság – az Országos Katasztrófavédelmi Főigazgatóság bevonásával – határozza meg és erről tájékoztatja a Bizottságot.
 
 (8) A Hatóság a kockázatelemzés módszertanát a honlapján közzéteszi.
+
+[^23]: A 13. § (5) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.

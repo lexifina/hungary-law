@@ -1,8 +1,8 @@
-## 18. §[^28] Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 18. §[^29] Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 18/2007. (II. 20.) Korm. rendelethez
 
-## Alagutak biztonsági minimumkövetelményei
+Alagutak biztonsági minimumkövetelményei
 
 1. Biztonsági minimumkövetelmények
 
@@ -48,9 +48,9 @@
 
 1.2. Minimumkövetelmények
 
-1.2.1.[^29] Legalább a következő pontok szerinti biztonsági intézkedéseket végre kell hajtani annak érdekében, hogy a rendelet hatálya alá tartozó valamennyi alagútban a biztonsági szint a minimumkövetelményeknek megfelelően biztosítva legyen.
+1.2.1.[^30] Legalább a következő pontok szerinti biztonsági intézkedéseket végre kell hajtani annak érdekében, hogy a rendelet hatálya alá tartozó valamennyi alagútban a biztonsági szint a minimumkövetelményeknek megfelelően biztosítva legyen.
 
-1.2.2.[^30]
+1.2.2.[^31]
 
 1.3. A forgalom nagysága
 
@@ -168,7 +168,7 @@ Minden olyan alagút fő szerkezete esetében, ahol a szerkezet helyi beomlása 
 
 Minden alagútban gondoskodni kell a vízellátásról. Tűzcsapokat kell biztosítani a bejáratok közelében és az alagút belsejében, 250 métert meg nem haladó távolságonként. Amennyiben a vízellátás nem biztosított, kötelező annak ellenőrzése, hogy kellő mennyiségű víz áll egyéb módon rendelkezésre.
 
-2.12.[^31] Tájékoztató és közúti jelzések
+2.12.[^32] Tájékoztató és közúti jelzések
 
 2.12.1. Az alagút használói számára minden biztonsági létesítményt meghatározott jelzéssel kell ellátni. Az alagutakban alkalmazandó jelzéseket és jelzőtáblákat a 3. melléklet tartalmazza.
 
@@ -213,6 +213,8 @@ Az alagútban elhelyezett valamennyi berendezés tűzállósági szintje tekinte
 2.19. A minimumkövetelményeket összefoglaló tájékoztató táblázat
 
 A következő táblázat összefoglalja a korábbi bekezdésekben megállapított minimumkövetelményeket.
+
+## 7M00905_0
 
 | A minimumkövetelmények összegzése | A forgalomnagyság <2000 jármű forgalmi sávonként | A forgalomnagyság > 2000 jármű forgalmi sávonként | További kötelezően megvalósítandó feltételek vagy észrevételek |
 
@@ -338,7 +340,7 @@ A hazai és a nemzetközi szervezetek összehangolt munkája figyelembevételév
 
 Az alagutakat használók számára megfelelő helyen tájékoztatást kell elhelyezni a rendelkezésre álló biztonsági berendezésekről és az út használói által az alagutakban tanúsítandó megfelelő viselkedésről (például az alagutak előtti pihenőhelyeken, az alagutak bejáratánál, amikor a forgalmat megállítják vagy az Interneten).
 
-[^28]: A 18. §-t a 477/2016. (XII. 27.) Korm. rendelet 37. § (3) bekezdése iktatta be.
-[^29]: Az 1. melléklet 1.2. pont 1.2.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 526. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^30]: Az 1. melléklet 1.2. pont 1.2.2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^31]: Az 1. melléklet 2. pont 2.12. alpontja a 67/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^29]: A 18. §-t a 477/2016. (XII. 27.) Korm. rendelet 37. § (3) bekezdése iktatta be.
+[^30]: Az 1. melléklet 1.2. pont 1.2.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 526. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: Az 1. melléklet 1.2. pont 1.2.2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: Az 1. melléklet 2. pont 2.12. alpontja a 67/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

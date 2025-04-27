@@ -1,14 +1,14 @@
 2. melléklet a 18/2007. (II. 20.) Korm. rendelethez
 
-## A tervek és a biztonsági dokumentáció jóváhagyása és időszakos gyakorlatok[^32]
+A tervek és a biztonsági dokumentáció jóváhagyása és időszakos gyakorlatok[^33]
 
 1. A terv jóváhagyása
 
 1.1. E rendeletnek és mellékleteinek előírásait a tervezés minden fázisában alkalmazni kell.
 
-1.2.[^33] Az építési munkálatok megkezdését megelőzően az alagútkezelő a kiviteli tervdokumentáció részeként összeállítja az alagútra vonatkozó, 2.2. és 2.3. pont szerinti biztonsági dokumentációt, és egyeztet a biztonsági tiszttel. A tervdokumentációt, valamint a biztonsági tiszt véleményét az alagútkezelő a Hatósághoz elektronikus úton nyújtja be.
+1.2.[^34] Az építési munkálatok megkezdését megelőzően az alagútkezelő a kiviteli tervdokumentáció részeként összeállítja az alagútra vonatkozó, 2.2. és 2.3. pont szerinti biztonsági dokumentációt, és egyeztet a biztonsági tiszttel. A tervdokumentációt, valamint a biztonsági tiszt véleményét az alagútkezelő a Hatósághoz elektronikus úton nyújtja be.
 
-1.3.[^34]
+1.3.[^35]
 
 2. Biztonsági dokumentáció
 
@@ -22,11 +22,11 @@
 
 – az ellenőrző szervezet vagy külső szakértő biztonsággal kapcsolatos véleménye.
 
-2.2. Az üzembe helyezési biztonsági dokumentációnak a tervezési szakaszban előírt dokumentáció mellett a következőket kell tartalmaznia:
+2.2.[^36] Az üzembe helyezési biztonsági dokumentációnak a tervezési szakaszban előírt dokumentáció mellett a következőket kell tartalmaznia:
 
 – az alagút üzemi szervezet leírása, emberi és anyagi erőforrások és az alagútkezelő által előírt utasítások az alagút üzemeltetésének és karbantartásának biztosításához,
 
-– a segélyszolgálatokkal közösen kidolgozott vészhelyzeti intézkedési terv, amely tekintettel van a mozgáskorlátozott és a fogyatékkal élő személyekre is,
+– a segélyszolgálatokkal közösen kidolgozott vészhelyzeti intézkedési terv, amely tekintettel van a mozgáskorlátozott és a fogyatékossággal élő személyekre is,
 
 – a tapasztalatok állandó visszacsatolási rendszerének leírása, amely révén nyilvántarthatók és elemezhetők az alagút üzemi rendkívüli események.
 
@@ -36,9 +36,9 @@
 
 – a végrehajtott biztonsági gyakorlatok jegyzéke és az ezekből levont tanulságok elemzése.
 
-3.[^35] Üzembe helyezés, a működési engedély kiadásának rendje
+3.[^37] Üzembe helyezés, a működési engedély kiadásának rendje
 
-4.[^36] Módosítások, eltérések engedélyezése
+4.[^38] Módosítások, eltérések engedélyezése
 
 5. Időszakos gyakorlatok
 
@@ -58,8 +58,9 @@ a) A lehető legélethűbb körülmények között végrehajtott teljes körű g
 
 b) A biztonsági tiszt és a segélyszolgálatok közösen értékelik ezeket a gyakorlatokat, jelentést készítenek, és megfelelő ajánlásokat tesznek.
 
-[^32]: A 2. melléklet címe a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: A 2. melléklet 1. pont 1.2. alpontja a 477/2016. (XII. 27.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg.
-[^34]: A 2. melléklet 1.3. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^35]: A 2. melléklet 3. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: A 2. melléklet 4. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 2. melléklet címe a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 2. melléklet 1. pont 1.2. alpontja a 477/2016. (XII. 27.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg.
+[^35]: A 2. melléklet 1.3. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 2. melléklet 2.2. pontja a 86/2025. (IV. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^37]: A 2. melléklet 3. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A 2. melléklet 4. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
