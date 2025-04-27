@@ -30,7 +30,7 @@ i) a tanulmányok alatti vizsgára vonatkozó adatokat, és
 
 j)[^88] a tanulót érintő gyermekvédelmi intézkedéssel, hátrányos helyzet, halmozottan hátrányos helyzet megállapításával kapcsolatos és tanulói jogviszonyából következő döntéseket, határozatokat, záradékokat.
 
-(4)[^89] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy tekintetében a törzslapon fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
+(4)[^89] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékossággal élő személy tekintetében a törzslapon fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
 
 (5)[^90] Az egyéni törzslapokat a tanulói jogviszony megszűnését követően a törzslap külívének teljes lezárása után szétválaszthatatlanul össze kell fűzni, és ilyen módon kell tárolni.
 
@@ -61,7 +61,7 @@ b) az egyéni törzslapon nem kell feltüntetni a (3) bekezdés c), d), f), g) �
 [^86]: A 28. § (3) bekezdés d) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 15. pontja szerint módosított szöveg.
 [^87]: A 28. § (3) bekezdés e) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 8. pontja és 48. § 16. pontja szerint módosított szöveg.
 [^88]: A 28. § (3) bekezdés j) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 17. pontja szerint módosított szöveg.
-[^89]: A 28. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 21. pontja szerint módosított szöveg.
+[^89]: A 28. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 21. pontja, a 86/2025. (IV. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^90]: A 28. § (5) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
 [^91]: A 28. § (6) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 9. pontja szerint módosított szöveg.
 [^92]: A 28. § (7) bekezdés d) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 19. pontja szerint módosított szöveg.

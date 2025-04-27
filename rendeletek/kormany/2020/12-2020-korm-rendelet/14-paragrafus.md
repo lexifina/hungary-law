@@ -56,7 +56,7 @@ c)[^38] a szakmai vizsgához kapcsolódóan szervezett egybefüggő felkészít�
 
 (4)[^42] A szakképző intézmény szakmai programjában meg kell határozni a tanuló magasabb évfolyamba lépésének feltételeit. A rendvédelmi szakképző intézmény, illetve a honvédségi szakképző intézmény szervezeti és működési szabályzata a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
 
-(5)[^43] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy tekintetében a szakképző intézmény szakmai programja
+(5)[^43] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékossággal élő személy tekintetében a szakképző intézmény szakmai programja
 
 a) a fogyatékosság típusához és fokához igazodó fejlesztő programot is tartalmazza és
 
@@ -75,4 +75,4 @@ b) az egyes évfolyamok követelményeinek teljesítéséhez egy tanítási évn
 [^40]: A 14. § (2) bekezdés 5. pontját a 292/2023. (VII. 6.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^41]: A 14. § (3) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 59. § 7. pontja hatályon kívül helyezte.
 [^42]: A 14. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 10. pontja szerint módosított szöveg.
-[^43]: A 14. § (5) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 11. pontja szerint módosított szöveg.
+[^43]: A 14. § (5) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 11. pontja, a 86/2025. (IV. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.

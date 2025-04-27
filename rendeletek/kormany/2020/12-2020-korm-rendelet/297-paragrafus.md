@@ -1,6 +1,6 @@
-297. § (1)[^456] A szakmai vizsga tekintetében a beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy részére az akkreditált szakképzési vizsgaközpont az Nkt. szerinti szakértői bizottság szakértői véleményére tekintettel az e §-ban meghatározott kedvezményeket biztosítja.
+297. § (1)[^456] A szakmai vizsga tekintetében a beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékossággal élő személy részére az akkreditált szakképzési vizsgaközpont az Nkt. szerinti szakértői bizottság szakértői véleményére tekintettel az e §-ban meghatározott kedvezményeket biztosítja.
 
-(2)[^457] Az interaktív vizsgatevékenységen beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy számára lehetővé kell tenni a tanulmányok során alkalmazott segédeszköz használatát vagy segédszemély igénybevételét. Az akkreditált szakképzési vizsgaközpont a halláskárosodott vizsgázó kérelmére a vizsgatevékenység szóban történő részének idejére – ha az indokolt – jelnyelvi tolmácsot biztosít.
+(2)[^457] Az interaktív vizsgatevékenységen beilleszkedési, tanulási, magatartási rendellenességgel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékossággal élő személy számára lehetővé kell tenni a tanulmányok során alkalmazott segédeszköz használatát vagy segédszemély igénybevételét. Az akkreditált szakképzési vizsgaközpont a halláskárosodott vizsgázó kérelmére a vizsgatevékenység szóban történő részének idejére – ha az indokolt – jelnyelvi tolmácsot biztosít.
 
 (3)[^458] Ha azt a beilleszkedési, tanulási, magatartási nehézség, a sajátos nevelési igény, illetve a fogyatékosság jellege indokolja, a vizsgázó igazolt kérelme alapján az akkreditált szakképzési vizsgaközpont engedélyezheti
 
@@ -12,7 +12,7 @@ c) az adott vizsgatevékenység az arra meghatározott időnél hosszabb idő al
 
 (4)[^459] Az interaktív vizsgatevékenység (3) bekezdés b) pontja szerint történő szóbeli vizsgatevékenységgel való felváltása esetén a vizsgatevékenység feladatait az akkreditált szakképzési vizsgaközpont határozza meg a képzési és kimeneti követelményekben az interaktív vizsgatevékenységre vonatkozóan, a 12. § h) és k) pontja alapján meghatározott kereteken belül.
 
-[^456]: A 297. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 83. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 64. pontja szerint módosított szöveg.
-[^457]: A 297. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 84. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 65. pontja szerint módosított szöveg.
+[^456]: A 297. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 83. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 64. pontja, a 86/2025. (IV. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^457]: A 297. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 84. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 65. pontja, a 86/2025. (IV. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^458]: A 297. § (3) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 66. pontja szerint módosított szöveg.
 [^459]: A 297. § (4) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 39. §-a iktatta be, szövege a 129/2024. (VI. 17.) Korm. rendelet 18. § 67. pontja szerint módosított szöveg.
