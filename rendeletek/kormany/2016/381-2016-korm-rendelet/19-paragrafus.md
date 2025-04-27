@@ -12,6 +12,7 @@ b) a más tagállamokban lévő nemzeti kapcsolattartó pont vagy pontok elérhe
 
 (3) A Szolgálat a (2) bekezdésben írt jogkörében eljárva együttműködik más nemzeti kapcsolattartó pontokkal, az Európai Bizottsággal, betegszervezetekkel, egészségügyi szolgáltatókkal és egészségbiztosítókkal az európai uniós szabályokkal összhangban.
 
-(4) A Szolgálat a (2) bekezdésben meghatározott feladatainak ellátása érdekében ingyenesen hívható zöld számot, valamint – a fogyatékkal élők számára akadálymentesen is elérhető – tájékoztató honlapot működtet, és adattartalmának frissítéséről szükség szerint gondoskodik.
+(4)[^16] A Szolgálat a (2) bekezdésben meghatározott feladatainak ellátása érdekében ingyenesen hívható zöld számot, valamint – a fogyatékossággal élők számára akadálymentesen is elérhető – tájékoztató honlapot működtet, és adattartalmának frissítéséről szükség szerint gondoskodik.
 
 [^15]: A 19. § a 600/2021. (X. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 19. § (4) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 12. §-a szerint módosított szöveg.

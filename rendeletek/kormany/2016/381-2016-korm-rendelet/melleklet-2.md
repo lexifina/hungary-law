@@ -128,7 +128,7 @@
 
 ## j) Esetfeldolgozások, a gyermekek jogsérelmeinek kezelése
 
-2. melléklet a 381/2016. (XII. 2.) Korm. rendelethez[^17]
+2. melléklet a 381/2016. (XII. 2.) Korm. rendelethez[^18]
 
 A kérelem adattartalma
 
@@ -186,4 +186,4 @@ VI. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a
 
 VII. A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett adatainak a Szolgálat általi – az információs önrendelkezési jogról és az információszabadságról szóló 2011. CXII. törvény alapján történő – kezeléséhez.
 
-[^17]: A 2. melléklet az 507/2017. (XII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^18]: A 2. melléklet az 507/2017. (XII. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
