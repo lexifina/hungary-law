@@ -20,7 +20,7 @@ jogosult.
 
 (2a)[^255] Az iskolai, ifjúsági fogászati szolgálat által nyújtott iskolafogászati ellátás finanszírozására a NEAK a Vhr. 16. § (1) bekezdése szerint köt szerződést.
 
-(3)[^256] A NEAK szerződést köthet fogyatékkal élő gyermekek és felnőttek ellátására Budapesten heti 90, vármegyénként összességében heti 45-45 fogászati óraszámra. Ez a feladat a fogorvosi körzet működtetése mellett csökkentett fogászati óraszámban, de legalább heti 6 órában is ellátható. Az ellátást nyújtó havi alapdíjra jogosult a rendelkezésre állásra és a speciális tevékenységre tekintettel. Az alapdíj rendelésenként – önálló szervezeti egységkóddal rendelkező szervezeti egységenként – heti 30 óra rendelési idő esetén 12 000 korcsoportos pontszámnak megfelelő összeg, ennél alacsonyabb heti rendelési idő esetén az összeg időarányos része.
+(3)[^256] A NEAK szerződést köthet fogyatékossággal élő gyermekek és felnőttek ellátására Budapesten heti 90, vármegyénként összességében heti 45-45 fogászati óraszámra. Ez a feladat a fogorvosi körzet működtetése mellett csökkentett fogászati óraszámban, de legalább heti 6 órában is ellátható. Az ellátást nyújtó havi alapdíjra jogosult a rendelkezésre állásra és a speciális tevékenységre tekintettel. Az alapdíj rendelésenként – önálló szervezeti egységkóddal rendelkező szervezeti egységenként – heti 30 óra rendelési idő esetén 12 000 korcsoportos pontszámnak megfelelő összeg, ennél alacsonyabb heti rendelési idő esetén az összeg időarányos része.
 
 (4)[^257] Az egyetemi képzést és továbbképzést végző intézmény havi alapdíjra jogosult a külön jogszabály szerint fogászati alap- és szakellátást (a továbbiakban: egyetemi fogászati ellátás) nyújtó szolgálatai tevékenységéért, a progresszív ellátásra és a rendelkezésre állásra is tekintettel. Az egészségügyi szolgáltatókat legfeljebb az alábbi heti óraszámra illeti meg az alapdíj:
 
@@ -79,7 +79,7 @@ valamint az e rendelet hatálybalépésekor is működő ügyeleti szolgálatra 
 [^253]: A 22. § (2) bekezdés b) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
 [^254]: A 22. § (2) bekezdésének c) pontja a 29/2001. (III. 2.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
 [^255]: A 22. § (2a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^256]: A 22. § (3) bekezdése a 266/2007. (X. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja, a 616/2022. (XII. 29.) Korm. rendelet 32. § e) pontja szerint módosított szöveg.
+[^256]: A 22. § (3) bekezdése a 266/2007. (X. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja, a 616/2022. (XII. 29.) Korm. rendelet 32. § e) pontja, a 86/2025. (IV. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^257]: A 22. § (4) bekezdése a 187/2001. (X. 12.) Korm. rendelet 3. §-ával megállapított, záró szövegrésze a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést első alkalommal a 2007. március havi kifizetéseknél kell alkalmazni.
 [^258]: A 22. § (4) bekezdés a) pontja a 125/2013. (IV. 26.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^259]: A 22. § (4) bekezdésének b) pontja a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg.
