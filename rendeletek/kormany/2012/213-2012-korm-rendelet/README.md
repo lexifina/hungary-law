@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-213-20-
 | 2023-12-27 | 2012-213-20-22.11 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-12-24 | 2012-213-20-22.12 | 425/2024. (XII. 23.) Korm. rendelet |
 | 2025-03-01 | 2012-213-20-22.13 | 612/2023. (XII. 22.) Korm. rendelet |
+| 2025-04-27 | 2012-213-20-22.14 | 86/2025. (IV. 24.) Korm. rendelet |
