@@ -106,7 +106,7 @@ Az egészséges életmódra nevelés hozzásegít az egészséges testi és lelk
 
 Felelősségvállalás másokért, önkéntesség
 
-A Nat ösztönzi a személyiség fejlesztését, kibontakozását segítő nevelést-oktatást: célul tűzi ki a hátrányos helyzetű vagy fogyatékkal élő emberek iránti szociális érzékenység, segítő magatartás kialakítását a tanulókban úgy, hogy saját élményű tanuláson keresztül ismerik meg ezeknek a csoportoknak a sajátos igényeit, élethelyzetét. A segítő magatartás számos olyan képességet igényel és fejleszt is egyúttal (együttérzés, együttműködés, problémamegoldás, önkéntes feladatvállalás és -megvalósítás), amelyek gyakorlása elengedhetetlen a tudatos, felelős állampolgári léthez.
+A Nat ösztönzi a személyiség fejlesztését, kibontakozását segítő nevelést-oktatást: célul tűzi ki a hátrányos helyzetű vagy fogyatékossággal élő emberek iránti szociális érzékenység, segítő magatartás kialakítását a tanulókban úgy, hogy saját élményű tanuláson keresztül ismerik meg ezeknek a csoportoknak a sajátos igényeit, élethelyzetét. A segítő magatartás számos olyan képességet igényel és fejleszt is egyúttal (együttérzés, együttműködés, problémamegoldás, önkéntes feladatvállalás és -megvalósítás), amelyek gyakorlása elengedhetetlen a tudatos, felelős állampolgári léthez.
 
 Fenntarthatóság, környezettudatosság
 
@@ -292,7 +292,7 @@ A sajátos nevelési igényű tanulók esetében is a Nat-ban meghatározott egy
 
 – szükség esetén a tanuló számára legmegfelelőbb alternatív kommunikációs módszerek és eszközök, siket tanulóknál a magyar jelnyelv elsajátításának, alkalmazásának beépítése a nevelés, oktatás folyamatába;
 
-– az iskolák segítő megkülönböztetéssel, egyénileg is támogassák a tanulókat, elsősorban az önmagukhoz mért fejlődésüket értékelve; az egyes fogyatékkal élő tanulókkal összefüggő feladatokról a Sajátos nevelési igényű tanulók iskolai oktatásának tantervi irányelve és a vizsgaszabályzatok adnak eligazítást.
+– az iskolák segítő megkülönböztetéssel, egyénileg is támogassák a tanulókat, elsősorban az önmagukhoz mért fejlődésüket értékelve; az egyes fogyatékossággal élő tanulókkal összefüggő feladatokról a Sajátos nevelési igényű tanulók iskolai oktatásának tantervi irányelve és a vizsgaszabályzatok adnak eligazítást.
 
 A nemzetiségi nevelés és oktatás elvei
 
@@ -5056,26 +5056,8 @@ Az etika tanterv főbb pedagógiai alapelvei:
 
 5. Az aktív, cselekvő viselkedés, magatartás megélésére ösztönzi a tanulókat a különböző élethelyzeteikben.
 
-6. Fontosnak tartja a nevelés három színterét: család, iskola, társadalom.
-
-7. Az etika tantárgyban elsődleges az érzelmi, érzületi nevelés, a morál- és morális fejlesztés, amely során a gyermekek cselekedtetése, meggyőződésének formálása elengedhetetlenül szükséges a lelkiismeretes magatartás megszilárdulása érdekében.
-
-8. A nevelés mindig egy társadalmi közegben történik, így a nemzeti értékeink megismerése és megőrzése alapfeladat.
-
-Az etika természete szerint értelmező jellegű is, a tényekről alkotott különböző vélemények szükségszerűen vitákat eredményeznek. A tanulás során ezek a viták arra ösztönzik a tanulót, hogy elgondolkodjon az emberi értékekről, illetve az élet alapvető dilemmáit megjelenítő olyan fogalmakról, mint például az igazságosság, hűség, hatékonyság, empátia és felelősség. A viták úgy szolgálhatják a tanulást, ha a tanulóban megerősödnek társadalmunk és európai zsidó-keresztény, keresztyén gyökerű civilizációnk alapértékei.
-
-Ez a megközelítés hozzásegíti a tanulót, hogy megértse és méltányolja a magyarság, a magyar nemzet, illetve Magyarország sajátos helyzetéből adódó jelenségeket és folyamatokat, így alakulhat ki benne a tényeken alapuló reális és pozitív nemzettudat.
-
-A tanulási folyamat hatékonyságát elősegítik az egyéni és társas tanulás változatos módszerei és formái, melyek az együttműködés közösségi élményének a megélését eredményezik.
-
-Az etika tantárgy alapvető célja annak felismertetése, hogy a kulturális hagyományokban gyökerező etikai elvek, társas szabályok, szocio-emocionális készségek miként járulnak hozzá az egyéni és közösségi identitás formálódásához, stabilitásához, valamint az egyének és csoportok közti együttműködés megteremtéséhez. A tanuló elsősorban az európai vallásokkal való megismerkedésen keresztül, az elsajátított információkra reflektálva tanulmányozza, hogy az egyes hitrendszerek milyen értékek mentén kínálnak értelmezési keretet az emberi létezésre vonatkozó gondolkodáshoz. A társadalmi együttélést szabályozó, egymástól eltérő jogrendszerek egyes elemeinek értékközpontú vizsgálata elősegíti a társadalmi csoportok és egyének érdekérvényesítésének megértését.
-
-Az etika tantárgy tanulásának célja, hogy a tanuló:
-
-1. olyan tartalmakat kapjon, amelyek segítik saját értékrendjének gazdagításában, és az alapvető értékek emberi életben betöltött szerepének megértésében;
-
 [^31]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
 [^32]: A hatálybalépés időpontja 2020. február 8.
-[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja, a 201/2024. (VII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja, a 201/2024. (VII. 29.) Korm. rendelet 3. §-a, a 86/2025. (IV. 24.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^34]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
 [^35]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.
