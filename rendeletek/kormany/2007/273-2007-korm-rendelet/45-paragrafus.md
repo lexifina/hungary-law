@@ -1,6 +1,6 @@
-45. §[^290] (1) A Hivatal a hálózati elem közcélúvá minősítéséről, valamint átminősítéséről a villamosenergia-rendszer együttműködése, az ellátásbiztonság, a hatékony és folyamatos villamosenergia-ellátás, az adott hálózati elemhez csatlakozó felhasználók vagy kapcsolódó vételezők száma és azok felhasználásának vagy vételezésének mértéke, a VET 25. § szerinti hálózatfejlesztési terv, valamint az adott esetben jelentős egyéb körülmények alapján dönt.
+45. §[^296] (1) A Hivatal a hálózati elem közcélúvá minősítéséről, valamint átminősítéséről a villamosenergia-rendszer együttműködése, az ellátásbiztonság, a hatékony és folyamatos villamosenergia-ellátás, az adott hálózati elemhez csatlakozó felhasználók vagy kapcsolódó vételezők száma és azok felhasználásának vagy vételezésének mértéke, a VET 25. § szerinti hálózatfejlesztési terv, valamint az adott esetben jelentős egyéb körülmények alapján dönt.
 
-(2)[^291] A Hivatal a közcélúvá minősítő határozatát visszavonja, ha a hálózati elem még nem valósult meg, de már nem szerepel a jóváhagyott hálózatfejlesztési tervben.
+(2)[^297] A Hivatal a közcélúvá minősítő határozatát visszavonja, ha a hálózati elem még nem valósult meg, de már nem szerepel a jóváhagyott hálózatfejlesztési tervben.
 
 (3) A Hivatal a közvetlen vezeték, a termelői vezeték vagy a magánvezeték közcélúvá minősítésével egyidejűleg hivatalból módosítja a hálózati engedélyes működési engedélyét.
 
@@ -10,5 +10,5 @@
 
 (6) A közvetlen vezeték engedélyese a közcélú hálózatra kapcsolásig a közvetlen vezetékhez való hozzáférést változatlan feltételekkel biztosítja, továbbá a közvetlen vezetéket a VET, az e rendelet és a vonatkozó jogszabályok rendelkezései szerint üzemelteti és fenntartja.
 
-[^290]: A Vhr. 45. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^291]: A Vhr. 45. § (2) bekezdése a 680/2023. (XII. 29.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^296]: A Vhr. 45. §-a a 378/2011. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^297]: A Vhr. 45. § (2) bekezdése a 680/2023. (XII. 29.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.

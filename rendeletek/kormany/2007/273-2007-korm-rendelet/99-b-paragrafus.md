@@ -1,4 +1,4 @@
-99/B. §[^437] (1) A megfelelési ellenőr
+99/B. §[^443] (1) A megfelelési ellenőr
 
 a) figyelemmel kíséri és ellenőrzi a megfelelési program végrehajtását;
 
@@ -14,7 +14,7 @@ f) tájékoztatja a Hivatalt, ha a vertikálisan integrált villamosenergia-ipar
 
 g) a feladatai ellátása során a megfelelési program végrehajtását érintő tapasztaltakról negyedévente, írásban tájékoztatja a Hivatalt, valamint a b) pontban foglaltakon túl további tájékoztatást nyújthat a felügyelőbizottságnak;
 
-h)[^438] az átviteli rendszerirányító ügyvezető testülete, legfőbb szerve és felügyelőbizottsága valamennyi ülésén jogosult részt venni; részvétele pedig kötelező
+h)[^444] az átviteli rendszerirányító ügyvezető testülete, legfőbb szerve és felügyelőbizottsága valamennyi ülésén jogosult részt venni; részvétele pedig kötelező
 
 ha) az (EU) 2019/943 európai parlamenti és tanácsi rendeletben meghatározottak szerinti hálózathoz való hozzáférés feltételeit tárgyaló ülésen,
 
@@ -52,8 +52,8 @@ d) a megfelelési ellenőrré való kinevezés előzetes jóváhagyására irán
 
 (4) A jogi személy megfelelési ellenőr legalább egy vezető tisztségviselőjének, továbbá az ellenőrzési tevékenység irányításáért közvetlenül felelős vezetőnek vagy az ellenőrzési tevékenységet közvetlenül végző legalább egy személynek meg kell felelnie a (2)–(3) bekezdésben meghatározott feltételeknek.
 
-(5)[^439] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését végleges hatósági határozat megállapította.
+(5)[^445] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését végleges hatósági határozat megállapította.
 
-[^437]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
-[^438]: A Vhr. 99/B. § (1) bekezdés h) pontja a 401/2020. (VIII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^439]: A Vhr. 99/B. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 198. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^443]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^444]: A Vhr. 99/B. § (1) bekezdés h) pontja a 401/2020. (VIII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^445]: A Vhr. 99/B. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 198. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

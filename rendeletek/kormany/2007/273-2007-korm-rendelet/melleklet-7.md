@@ -1,3 +1,3 @@
-7. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^635]
+7. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^641]
 
-[^635]: A Vhr. 7. számú melléklete a 787/2021. (XII. 27.) Korm. rendelet 22. § e) pontjával megállapított szöveg.
+[^641]: A Vhr. 7. számú melléklete a 787/2021. (XII. 27.) Korm. rendelet 22. § e) pontjával megállapított szöveg.

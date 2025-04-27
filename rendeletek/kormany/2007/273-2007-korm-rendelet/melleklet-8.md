@@ -64,7 +64,7 @@
 
 8. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^636]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^642]
 
 1. Az engedély száma, lejártának dátuma (erőmű maradék élettartama),
 
@@ -90,4 +90,4 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamose
 
 – Megállapítások, következtetések.
 
-[^636]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
+[^642]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
