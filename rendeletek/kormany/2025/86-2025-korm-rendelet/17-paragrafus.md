@@ -1,0 +1,1 @@
+17. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 14. § (5) bekezdésében, 28. § (4) bekezdésében, 117. § (4) bekezdésében, 293. § (2) bekezdésében, 294. § (1) bekezdés b) pontjában, 294. § (2) bekezdés b) pontjában, 296. § (1) bekezdésében, 297. § (1) és (2) bekezdésében a „fogyatékkal” szövegrész helyébe a „fogyatékossággal” szöveg lép.
