@@ -1,4 +1,4 @@
-## 29. §[^83] Az eredményes közigazgatási vagy ügykezelői alapvizsgáról az egyes közszolgálati tárgyú kormányrendeletek módosításáról szóló 108/2016. (V. 18.) Korm. rendelet hatálybalépését[^84] megelőzően kiállított, de elveszett vagy megsemmisült bizonyítvány pótlására – a vizsgajegyzőkönyv alapján – a vizsgaszervező kérelemre hiteles bizonyítvány másodlatot állít ki. A hiteles bizonyítvány másodlat tartalma megegyezik a bizonyítványéval.
+## 29. §[^89] Az eredményes közigazgatási vagy ügykezelői alapvizsgáról az egyes közszolgálati tárgyú kormányrendeletek módosításáról szóló 108/2016. (V. 18.) Korm. rendelet hatálybalépését[^90] megelőzően kiállított, de elveszett vagy megsemmisült bizonyítvány pótlására – a vizsgajegyzőkönyv alapján – a vizsgaszervező kérelemre hiteles bizonyítvány másodlatot állít ki. A hiteles bizonyítvány másodlat tartalma megegyezik a bizonyítványéval.
 
 1. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
@@ -16,7 +16,7 @@ Közigazgatási alapvizsga vizsgaszabályzata
 
 6. A vizsgabiztos feladatainak ellátásához szükséges felkészítéséről a vizsgaszervező gondoskodik.
 
-7.[^85] A vizsgabiztos feladatai különösen: a vizsgán tájékoztatja a vizsgázót a vizsga menetéről és a vizsgáztatás rendjéről; felel a vizsgarend fenntartásáért; ellenőrzi a vizsgázó személyazonosságát; tájékoztatja a vizsgázót a vizsga eredményéről; gondoskodik a vizsgajegyzőkönyvek kiállításáról, ellenőrzi az adatok pontosságát és valódiságát; dönt a vizsgázó vizsgájának a felfüggesztéséről.
+7.[^91] A vizsgabiztos feladatai különösen: a vizsgán tájékoztatja a vizsgázót a vizsga menetéről és a vizsgáztatás rendjéről; felel a vizsgarend fenntartásáért; ellenőrzi a vizsgázó személyazonosságát; tájékoztatja a vizsgázót a vizsga eredményéről; gondoskodik a vizsgajegyzőkönyvek kiállításáról, ellenőrzi az adatok pontosságát és valódiságát; dönt a vizsgázó vizsgájának a felfüggesztéséről.
 
 8. A vizsgabiztost vizsgázónként a közigazgatási alapvizsga díj 3%-a illeti meg, amely magában foglalja a munkáltató által fizetendő járulékokat is.
 
@@ -64,6 +64,6 @@ P. H.
 
 vizsgabiztos
 
-[^83]: A 29. §-t a 108/2016. (V. 18.) Korm. rendelet 19. §-a iktatta be.
-[^84]: A hatálybalépés időpontja 2016. június 1.
-[^85]: Az 1. melléklet 7. pontja a 108/2016. (V. 18.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^89]: A 29. §-t a 108/2016. (V. 18.) Korm. rendelet 19. §-a iktatta be.
+[^90]: A hatálybalépés időpontja 2016. június 1.
+[^91]: Az 1. melléklet 7. pontja a 108/2016. (V. 18.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.

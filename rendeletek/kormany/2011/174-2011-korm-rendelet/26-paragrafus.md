@@ -1,1 +1,0 @@
-## 25. § A közigazgatási alapvizsga tekintetében a fogyatékkal élő vizsgázókra vonatkozó speciális szabályok (10. §) megfelelően alkalmazandóak az ügykezelői alapvizsga tekintetében is azzal az eltéréssel, hogy a vizsgajegyzőkönyvet a vizsgabizottság tagjai hitelesítik.
