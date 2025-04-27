@@ -14,11 +14,11 @@ c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t�
 
 d) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
-e)[^31] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
+e)[^33] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
 
-f)[^32] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
+f)[^34] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
 
-g)[^33] a Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet
+g)[^35] a Vidéki Otthonfelújítási Programról szóló 389/2024. (XII. 11.) Korm. rendelet
 
 szerinti kölcsön minősül.
 
@@ -32,6 +32,6 @@ b) a Kit. 149. § (3) bekezdés e) pontja szerinti, a hitelfelvevő, illetve a v
 
 alapján.
 
-[^31]: A 84. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
-[^32]: A 84. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
-[^33]: A 84. § (1) bekezdés g) pontját a 389/2024. (XII. 11.) Korm. rendelet 33. § (1) bekezdése iktatta be.
+[^33]: A 84. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
+[^34]: A 84. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
+[^35]: A 84. § (1) bekezdés g) pontját a 389/2024. (XII. 11.) Korm. rendelet 33. § (1) bekezdése iktatta be.

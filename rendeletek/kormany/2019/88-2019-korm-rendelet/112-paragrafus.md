@@ -1,3 +1,3 @@
-112. §[^40]
+112. §[^42]
 
-[^40]: A 112. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 112. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 ## 32. Gyermeknevelési támogatás
 
-65. § (1)[^23] A kormánytisztviselő részére a Kit. 162. § (3) bekezdése alapján nyújtott gyermeknevelési támogatás a közszolgálati szabályzatban meghatározottak szerinti kérelem alapján állapítható meg. A (3) bekezdés b) pontjában meghatározott gyermekre tekintettel benyújtott kérelemhez csatolni kell a diákigazolvány vagy az arról szóló igazolás másolatát.
+65. § (1)[^24] A kormánytisztviselő részére a Kit. 162. § (3) bekezdése alapján nyújtott gyermeknevelési támogatás a közszolgálati szabályzatban meghatározottak szerinti kérelem alapján állapítható meg. A (3) bekezdés b) pontjában meghatározott gyermekre tekintettel benyújtott kérelemhez csatolni kell a diákigazolvány vagy az arról szóló igazolás másolatát.
 
 (2) Gyermeknevelési támogatásra az a kormánytisztviselő jogosult, aki a kérelem benyújtásakor kormányzati szolgálati jogviszonyban áll, a gyermeknek szülője (ideértve a vér szerinti, az örökbefogadó és nevelő szülőt), gyámja – kivéve a gyermekvédelmi gyámot – vagy a szülőnek, gyámnak közös háztartásban élő házastársa vagy élettársa, és a gyermeket saját háztartásában neveli.
 
@@ -8,7 +8,7 @@
 
 a) a gyermek születésétől annak az évnek a végéig jogosult, amelyben a gyermek tankötelezettsége megszűnik,
 
-b)[^24] a tankötelezettségének megszűnését követően köznevelési intézményben, illetve szakképző intézményben tanulmányokat folytató gyermek (személy) esetében legkésőbb addig az évig jogosult, amelyben a gyermek (személy) a huszadik életévét, illetve – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik életévét – betölti.
+b)[^25] a tankötelezettségének megszűnését követően köznevelési intézményben, illetve szakképző intézményben tanulmányokat folytató gyermek (személy) esetében legkésőbb addig az évig jogosult, amelyben a gyermek (személy) a huszadik életévét, illetve – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik életévét – betölti.
 
 (4) A gyermeknevelési támogatás bruttó összege az alapösszegből és – két vagy több gyermek esetén – a gyermekszámhoz igazodó kiegészítő összegből áll. A támogatás alapösszege
 
@@ -20,7 +20,7 @@ ba) gyermekét egyedül nevelő,
 
 bb) három vagy több gyermeket nevelő vagy
 
-bc) fogyatékkal élő gyermeket nevelő
+bc)[^26] fogyatékossággal élő gyermeket nevelő
 
 jogosult esetében a kérelem benyújtásakor érvényes havi minimálbér bruttó összegének 120%-a.
 
@@ -42,5 +42,6 @@ b) a megállapított támogatást legkésőbb a benyújtásra nyitva álló hat�
 
 (11) Nem nyújtható gyermeknevelési támogatás annak a kormánytisztviselőnek, aki kérelmében vagy pótigényében szándékosan valótlan adatot, tényt közöl, vagy valamely jelentős tényt, körülményt elhallgat.
 
-[^23]: A 65. § (1) bekezdése a 212/2023. (VI. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^24]: A 65. § (3) bekezdés b) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 65. § (1) bekezdése a 212/2023. (VI. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^25]: A 65. § (3) bekezdés b) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 65. § (4) bekezdés b) pont bc) alpontja a 86/2025. (IV. 24.) Korm. rendelet 14. §-a szerint módosított szöveg.
