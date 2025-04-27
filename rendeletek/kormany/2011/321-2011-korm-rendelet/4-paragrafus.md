@@ -1,4 +1,4 @@
-## 3. §[^5] A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi a TEF számára, mely azt honlapján közzéteszi.
+## 3. §[^6] A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi a TEF számára, mely azt honlapján közzéteszi.
 
 ## 2. A helyi esélyegyenlőségi program elkészítésének szempontjai
 
@@ -32,9 +32,9 @@ bc) a lakosság integrációját támogató közösségfejlesztő programokra;
 
 bd) a tervezett beavatkozások és a településfejlesztési dokumentumok összhangjára.
 
-be)[^6] a szegregáció megelőzésére és
+be)[^7] a szegregáció megelőzésére és
 
-bf)[^7] a tervezett és a végrehajtott intézkedések szegregációs hatásainak vizsgálatára.
+bf)[^8] a tervezett és a végrehajtott intézkedések szegregációs hatásainak vizsgálatára.
 
 (2) A gyermekek esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
 
@@ -42,7 +42,7 @@ a) a hátrányos vagy halmozottan hátrányos helyzetű gyermekek szolgáltatás
 
 b) a színvonalas gyermekétkeztetés biztosítására;
 
-c)[^8] a halmozottan hátrányos helyzetű gyerekek köznevelési esélyegyenlősége tekintetében
+c)[^9] a halmozottan hátrányos helyzetű gyerekek köznevelési esélyegyenlősége tekintetében
 
 ca) az intézmények között és az egyes intézményeken belüli szegregáció mértékére;
 
@@ -78,17 +78,17 @@ c) közösségi élet gyakorlásához való hozzáférés
 
 biztosítására.
 
-(5) A fogyatékkal élők esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
+(5)[^10] A fogyatékossággal élők esélyegyenlőtlenségének csökkentésénél különös tekintettel kell lenni
 
-a) a közszférában és a versenypiacon a fogyatékkal élők teljes lakossághoz viszonyított arányuknak megfelelő mértékű foglalkoztatására;
+a) a közszférában és a versenypiacon a fogyatékossággal élők teljes lakossághoz viszonyított arányuknak megfelelő mértékű foglalkoztatására;
 
 b) az egészségügyi ellátások elérhetőségére;
 
 c) az egészségügyi ellátórendszer és rehabilitációs intézmények közti információáramlásra és együttműködésre;
 
-d) a szociális szolgáltatások szerepére a fogyatékkal élők rehabilitációjában;
+d) a szociális szolgáltatások szerepére a fogyatékossággal élők rehabilitációjában;
 
-e)[^9] a köznevelési intézmények és a szakképző intézmények elérhetőségére, hozzáférhetőségére;
+e)[^11] a köznevelési intézmények és a szakképző intézmények elérhetőségére, hozzáférhetőségére;
 
 f) az egyenlő esélyű hozzáférés biztosítása érdekében
 
@@ -100,8 +100,9 @@ fc) az építésügyi hatóságok felkészültségére az akadálymentesítés �
 
 fd) a helyi tömegközlekedés akadálymentesítésére.
 
-[^5]: A 3. § a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
-[^6]: A 4. § (1) bekezdés b) pont be) alpontját a 486/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A 4. § (1) bekezdés b) pont bf) alpontját a 486/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^8]: A 4. § (2) bekezdés c) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 59. § 1. pontja szerint módosított szöveg.
-[^9]: A 4. § (5) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 59. § 2. pontja szerint módosított szöveg.
+[^6]: A 3. § a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés b) pont be) alpontját a 486/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 4. § (1) bekezdés b) pont bf) alpontját a 486/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 4. § (2) bekezdés c) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 59. § 1. pontja szerint módosított szöveg.
+[^10]: A 4. § (5) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 59. § 2. pontja szerint módosított szöveg.
