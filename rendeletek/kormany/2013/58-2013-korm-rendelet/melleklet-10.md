@@ -1,4 +1,4 @@
-## 4X08342.docx
+## 9_5X02686M.docx
 
 ## A)
 
@@ -146,7 +146,7 @@
 
 ## 1. Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
 
-## 2. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58/A. § (1) bekezdése alapján a védendő felhasználók nyilvántartásába történő felvétel szociálisan rászoruló felhasználóként és/vagy fogyatékkal élő felhasználóként kérelmezhető.
+## 2. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 58/A. § (1) bekezdése alapján a védendő felhasználók nyilvántartásába történő felvétel szociálisan rászoruló felhasználóként és/vagy fogyatékossággal élő felhasználóként kérelmezhető.
 
 ## 3. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 88/B. § (1) bekezdése értelmében szociálisan rászoruló felhasználónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy
 
@@ -168,7 +168,7 @@
 
 ## i) a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
-## 4. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékkal élő felhasználó
+## 4. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékossággal élő felhasználó
 
 ## a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy,
 
@@ -176,7 +176,7 @@
 
 ## c) az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti.
 
-## 5. Az az igénylő, aki egyidejűleg mind szociálisan rászoruló felhasználónak, mind fogyatékkal élő felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre, valamint a fogyatékkal élőket megillető különleges bánásmódra. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó szociálisan rászoruló felhasználónak, illetve fogyatékkal élő felhasználónak minősül. A fogyatékkal élő felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 10. melléklet szerinti adatlapot kell benyújtani.
+## 5. Az az igénylő, aki egyidejűleg mind szociálisan rászoruló felhasználónak, mind fogyatékossággal élő felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre, valamint a fogyatékossággal élőket megillető különleges bánásmódra. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó szociálisan rászoruló felhasználónak, illetve fogyatékossággal élő felhasználónak minősül. A fogyatékossággal élő felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 10. melléklet szerinti adatlapot kell benyújtani.
 
 ## 6. Az A) részben szereplő adatokat a felhasználó tölti ki, és az adatok valódiságát aláírásával igazolja.
 
@@ -188,8 +188,8 @@
 
 ## 10. A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^450]
+10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^459]
 
-Kérelem fogyatékkal élő személyként a védendő felhasználók nyilvántartásába történő felvétel / nyilvántartás meghosszabbítása iránt
+Kérelem fogyatékossággal élő személyként a védendő felhasználók nyilvántartásába történő felvétel / nyilvántartás meghosszabbítása iránt
 
-[^450]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
+[^459]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (7) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.

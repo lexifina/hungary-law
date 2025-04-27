@@ -1,4 +1,4 @@
-## 1.[^440] Az üzletszabályzatra vonatkozó előírások
+## 1.[^449] Az üzletszabályzatra vonatkozó előírások
 
 ## Az üzletszabályzatot elektronikus úton, elektronikus aláírással ellátva, valamint szerkeszthető formában kell jóváhagyásra benyújtani. Az oldalakat folyamatos számozással kell ellátni, a mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik víziközmű-szolgáltató üzletszabályzatáról van szó. Az üzletszabályzat módosításának kérelmezése esetében szükséges korrektúrás változatot is csatolni, melyből egyértelműen megállapíthatók a módosítások. A benyújtott üzletszabályzathoz mellékelni kell a jóváhagyásra vonatkozó kérelmet és az igazgatási szolgáltatási díj átutalását igazoló dokumentumot. Ha az üzletszabályzat mérete a megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az engedélyes a nyilatkozatát tartós adathordozón nyújtja be. Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot nem szerkeszthető formában, elektronikus aláírással ellátva kell benyújtani.
 
@@ -44,7 +44,7 @@
 
 ## cc) mérés, hibás mérés elszámolása, illetve eljárás a felhasználó hibájából eredő leolvasás elmaradása esetén,
 
-## cd)[^441] azon időszak meghatározása, amelynek alapulvételével felülvizsgálható az adott felhasználási hely átlagfogyasztása, valamint az ezen időszak átlagfogyasztását meghaladó jelentős eltérés mértékére vonatkozó arány meghatározása,
+## cd)[^450] azon időszak meghatározása, amelynek alapulvételével felülvizsgálható az adott felhasználási hely átlagfogyasztása, valamint az ezen időszak átlagfogyasztását meghaladó jelentős eltérés mértékére vonatkozó arány meghatározása,
 
 ## ce) fizetési módok és határidők,
 
@@ -94,9 +94,9 @@
 
 ## hd) felhasználói jogutódlás vagy képviselőjének személyében beállt változás intézésének szabályai;
 
-## i)[^442] a felhasználói panasz intézésére vonatkozó rendelkezések:
+## i)[^451] a felhasználói panasz intézésére vonatkozó rendelkezések:
 
-## ia)[^443] a beérkező felhasználói panaszok rögzítése, archiválása,
+## ia)[^452] a beérkező felhasználói panaszok rögzítése, archiválása,
 
 ## ib) a szükséges egyeztetések végrehajtásának dokumentálása,
 
@@ -104,7 +104,7 @@
 
 ## id) a válaszadási határidő elmulasztásának következménye;
 
-## ie)[^444] az elektronikus úton benyújtott felhasználói panasz beküldésére szolgáló elektronikus űrlap elérhetőségének megjelölése;
+## ie)[^453] az elektronikus úton benyújtott felhasználói panasz beküldésére szolgáló elektronikus űrlap elérhetőségének megjelölése;
 
 ## j) ügyfélszolgálatok, fiókirodák, egyéb elérhetőségek:
 
@@ -124,30 +124,30 @@
 
 ## kc) kölcsönös értesítések rendje, határideje, módja.
 
-## l)[^445] la védendő felhasználókra vonatkozó szabályok.
+## l)[^454] la védendő felhasználókra vonatkozó szabályok.
 
 ## 4. A bekötővezeték, a fogyasztásmérő, illetve a mérőhely kialakításának, a mellékvízmérő üzembe helyezésének, valamint bélyegzéssel és zárral való ellátásának részletes szabályai.
 
-## 4a.[^446] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
+## 4a.[^455] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
 
 ## 5. Víziközmű-szolgáltatás szüneteltetése iránti kérelem részletes szabályai.
 
 ## 6. A vízközmű-szolgáltató által a felhasználói körben (mellékszolgáltatást is ide értve) alkalmazott szerződésminták.
 
-## 7.[^447] A vízközmű-szolgáltató által a mellékvízmérők cseréje vagy újrahitelesítése alkalmával felszámítható díjtételeket tartalmazó árjegyzék elérhetőségének megjelölése, valamint a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő szolgáltatások köre és az alkalmazott díjakat tartalmazó árjegyzék elérhetőségének megjelölése.
+## 7.[^456] A vízközmű-szolgáltató által a mellékvízmérők cseréje vagy újrahitelesítése alkalmával felszámítható díjtételeket tartalmazó árjegyzék elérhetőségének megjelölése, valamint a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő szolgáltatások köre és az alkalmazott díjakat tartalmazó árjegyzék elérhetőségének megjelölése.
 
 ## 8. E rendeletben meghatározott más követelmények.
 
-8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^448]
+8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^457]
 
 Fogyasztásmérővel nem rendelkező fogyasztási helyek esetében irányadó átalány ivóvízfogyasztás
 
-[^440]: A 7. melléklet 1. alcíme a 477/2016. (XII. 27.) Korm. rendelet 68. § (2) bekezdésével megállapított, a 243/2023. (VI. 20.) Korm. rendelet 17. § 34. pontja szerint módosított szöveg.
-[^441]: A 7. melléklet 3. alcím 3. pont c) alpont cd) pontja a 358/2024. (XI. 25.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
-[^442]: A 7. melléklet 3. pont 3. alpont i) pontja a 24 a 243/2023. (VI. 20.) Korm. rendelet 17. § 36. pontja szerint módosított szöveg.
-[^443]: A 7. melléklet 3. pont 3. alpont i) pont ia) alpontja a 243/2023. (VI. 20.) Korm. rendelet 17. § 37. pontja szerint módosított szöveg.
-[^444]: A 7. melléklet 3. alcím 3. pont i) alpont ie) pontját a 243/2023. (VI. 20.) Korm. rendelet 16. § (5) bekezdése iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
-[^445]: A 7. melléklet 3. pont 3. alpont l) pontja a 243/2023. (VI. 20.) Korm. rendelet 16. § (5) bekezdése iktatta be.
-[^446]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
-[^447]: A 7. melléklet 3. pont 7. alpontja a 243/2023. (VI. 20.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
-[^448]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
+[^449]: A 7. melléklet 1. alcíme a 477/2016. (XII. 27.) Korm. rendelet 68. § (2) bekezdésével megállapított, a 243/2023. (VI. 20.) Korm. rendelet 17. § 34. pontja szerint módosított szöveg.
+[^450]: A 7. melléklet 3. alcím 3. pont c) alpont cd) pontja a 358/2024. (XI. 25.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
+[^451]: A 7. melléklet 3. pont 3. alpont i) pontja a 24 a 243/2023. (VI. 20.) Korm. rendelet 17. § 36. pontja szerint módosított szöveg.
+[^452]: A 7. melléklet 3. pont 3. alpont i) pont ia) alpontja a 243/2023. (VI. 20.) Korm. rendelet 17. § 37. pontja szerint módosított szöveg.
+[^453]: A 7. melléklet 3. alcím 3. pont i) alpont ie) pontját a 243/2023. (VI. 20.) Korm. rendelet 16. § (5) bekezdése iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
+[^454]: A 7. melléklet 3. pont 3. alpont l) pontja a 243/2023. (VI. 20.) Korm. rendelet 16. § (5) bekezdése iktatta be.
+[^455]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
+[^456]: A 7. melléklet 3. pont 7. alpontja a 243/2023. (VI. 20.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^457]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
