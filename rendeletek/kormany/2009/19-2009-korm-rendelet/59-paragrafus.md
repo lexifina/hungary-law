@@ -1,4 +1,4 @@
-59. §[^271] (1) A lakossági fogyasztó – fogyatékkal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
+59. §[^271] (1)[^272] A lakossági fogyasztó – fogyatékossággal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
 
 a) a 10. számú melléklet A) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, és
 
@@ -10,9 +10,11 @@ d) ha a földgázellátásból való kikapcsolás vagy a földgázellátás megs
 
 benyújtásával igazolhatja. A benyújtott iratokat vagy azok másolatát az engedélyes a jogosultság megszűnését követő 2 évig köteles megőrizni.
 
-(2) A fogyatékosság jellegét – amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a fogyasztásmérő berendezés leolvasására, mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés d) pontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos a 10. számú melléklet C) része szerinti nyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát.
+(2)[^273] A fogyatékosság jellegét – amely a fogyatékossággal élő fogyasztót alkalmatlanná teszi a fogyasztásmérő berendezés leolvasására, mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés d) pontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos a 10. számú melléklet C) része szerinti nyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát.
 
-(3)[^272] Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos vagy háziorvos e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján állapítja meg a fogyatékosság jellegét vagy az (1) bekezdés d) pontjának való megfelelést.
+(3)[^274] Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos vagy háziorvos e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján állapítja meg a fogyatékosság jellegét vagy az (1) bekezdés d) pontjának való megfelelést.
 
 [^271]: A Vhr. 59. §-a a 378/2011. (XII. 31.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^272]: A Vhr. 59. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 129. § (1) bekezdésével megállapított szöveg.
+[^272]: A Vhr. 59. § (1) bekezdés nyitó szövegrésze a 86/2025. (IV. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^273]: A Vhr. 59. § (2) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^274]: A Vhr. 59. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 129. § (1) bekezdésével megállapított szöveg.

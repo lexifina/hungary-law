@@ -1,6 +1,6 @@
-## A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok[^542]
+## A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok[^547]
 
-137/A. §[^543] A rendszerüzemeltető vezető tisztségviselője, felügyelőbizottságának – földgázelosztó, LNG-létesítmény üzemeltető és földgáztárolói engedélyes esetén ügydöntő felügyelőbizottságának – tagja, cégvezetője, vezető állású munkavállalója és szervezeti egység vezetője a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (a továbbiakban együtt: munkaviszony) megszűnését követően köteles üzleti titokként kezelni a rendszerüzemeltetőnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetőek.
+137/A. §[^548] A rendszerüzemeltető vezető tisztségviselője, felügyelőbizottságának – földgázelosztó, LNG-létesítmény üzemeltető és földgáztárolói engedélyes esetén ügydöntő felügyelőbizottságának – tagja, cégvezetője, vezető állású munkavállalója és szervezeti egység vezetője a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (a továbbiakban együtt: munkaviszony) megszűnését követően köteles üzleti titokként kezelni a rendszerüzemeltetőnél tudomására jutott mindazon információkat, amelyek a piaci szereplők számára nyilvánosan nem hozzáférhetőek.
 
-[^542]: A Vhr. „A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok” alcímet (137/A. §) a 75/2011. (V. 2.) Korm. rendelet 18. §-a iktatta be.
-[^543]: A Vhr. 137/A. §-a a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja, a 652/2023. (XII. 28.) Korm. rendelet 16. § 26. pontja szerint módosított szöveg.
+[^547]: A Vhr. „A vertikálisan integrált földgázipari vállalkozásokra vonatkozó közös szétválasztási szabályok” alcímet (137/A. §) a 75/2011. (V. 2.) Korm. rendelet 18. §-a iktatta be.
+[^548]: A Vhr. 137/A. §-a a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja, a 652/2023. (XII. 28.) Korm. rendelet 16. § 26. pontja szerint módosított szöveg.

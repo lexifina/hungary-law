@@ -1,4 +1,4 @@
-144/A. §[^574] (1)[^575] A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával a következő tevékenységeket szervezheti ki
+144/A. §[^579] (1)[^580] A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával a következő tevékenységeket szervezheti ki
 
 a) elosztóvezeték tervezése, valamint azon tevékenységek, amelyek költségei az Szt. szerint a beruházás értékében aktiválandók,
 
@@ -20,9 +20,9 @@ i) korrózióvédelemmel összefüggő karbantartási feladatok végrehajtása, 
 
 j) ügyfélszolgálati tevékenység, ideértve a felhasználóval való kapcsolattartással, számlakibocsátással és ellenérték-beszedéssel kapcsolatos tevékenységeket.
 
-(2)[^576]
+(2)[^581]
 
-(3)[^577] A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
+(3)[^582] A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
 
 a) más földgázelosztótól vagy a villamos energiáról szóló törvény szerinti elosztótól, a Hivatal által előzetesen jóváhagyott szerződés alapján az engedélyköteles tevékenysége körébe tartozó szolgáltatásokat, valamint
 
@@ -30,7 +30,7 @@ b) az (1) bekezdés szerinti, elosztóvezeték építését végző kapcsolt vá
 
 igénybe vehet.
 
-[^574]: A Vhr. 144/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^575]: A Vhr. 144/A. § (1) bekezdése a 467/2024. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^576]: A Vhr. 144/A. § (2) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
-[^577]: A Vhr. 144/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^579]: A Vhr. 144/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^580]: A Vhr. 144/A. § (1) bekezdése a 467/2024. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^581]: A Vhr. 144/A. § (2) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^582]: A Vhr. 144/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 8. §-ával megállapított szöveg.

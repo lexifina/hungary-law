@@ -12,7 +12,7 @@
 
 ## 1.2. A gázigénylő előzetes tájékoztatást kérhet a földgázelosztótól csatlakozás iránti vagy többlet vásárolt kapacitás iránti igényének bejelentése előtt az igény-kielégítés feltételeiről és lehetőségeiről.
 
-## 1.3.[^653] Az előzetes tájékoztatást a kérelem beérkezésétől számított 10 napon belül írásban kell kiadni.
+## 1.3.[^658] Az előzetes tájékoztatást a kérelem beérkezésétől számított 10 napon belül írásban kell kiadni.
 
 ## 2. Igénybejelentés
 
@@ -28,13 +28,13 @@
 
 ## c) igényelt gázteljesítmény és gázmennyiség.
 
-## 2.4.[^654] Ha az igénybejelentés hiányos vagy az elbíráláshoz további adat, okirat szükséges, úgy arról az igénybejelentőt 3 munkanapon belül értesíteni kell.
+## 2.4.[^659] Ha az igénybejelentés hiányos vagy az elbíráláshoz további adat, okirat szükséges, úgy arról az igénybejelentőt 3 munkanapon belül értesíteni kell.
 
 ## 2.5. Az előzetes tájékoztatásért és az igénybejelentésre adott ajánlatért a földgázelosztó díjat nem számíthat fel.
 
 ## 3. Csatlakozási igény kielégítésére vonatkozó ajánlat
 
-## 3.1.[^655] A földgázelosztó a gázigénylő igénybejelentése esetén valamennyi dokumentum rendelkezésre állásától számított 8 napon belül írásban ajánlatot tesz, vagy ha az igényt elutasítja, erről – az elutasítás részletes indokolásával – a gázigénylőt tájékoztatja. Ha az ajánlattétel előtt más szerv nyilatkozatának beszerzése vagy eljárásának lefolytatása szükséges, a földgázelosztó az igénybejelentés kézhezvételét követő 2. munkanapon a nyilatkozat beszerzését, illetve az eljárás lefolytatását kezdeményezi. Az ajánlattételre nyitva álló határidőbe nem számít bele az elosztóvezeték építéséhez szükséges, a földgázelosztó által végzett műszaki megvalósításra vonatkozó helyszíni felméréshez szükséges időtartam és más szerv
+## 3.1.[^660] A földgázelosztó a gázigénylő igénybejelentése esetén valamennyi dokumentum rendelkezésre állásától számított 8 napon belül írásban ajánlatot tesz, vagy ha az igényt elutasítja, erről – az elutasítás részletes indokolásával – a gázigénylőt tájékoztatja. Ha az ajánlattétel előtt más szerv nyilatkozatának beszerzése vagy eljárásának lefolytatása szükséges, a földgázelosztó az igénybejelentés kézhezvételét követő 2. munkanapon a nyilatkozat beszerzését, illetve az eljárás lefolytatását kezdeményezi. Az ajánlattételre nyitva álló határidőbe nem számít bele az elosztóvezeték építéséhez szükséges, a földgázelosztó által végzett műszaki megvalósításra vonatkozó helyszíni felméréshez szükséges időtartam és más szerv
 
 ## a) nyilatkozatának beszerzéséhez vagy
 
@@ -44,7 +44,7 @@
 
 ## 3.2. A 2.4. pont szerinti hiánypótlás esetén a 3.1. pontban meghatározott határidő a hiánypótlás teljesítésétől számítandó.
 
-## 3.3.[^656]
+## 3.3.[^661]
 
 ## 3.4. Ha az adott ingatlanon már megvalósult az elosztói csatlakozás, de annak elhelyezkedése a gázigénylőnek nem felel meg, a meglévő csatlakozási pont ingatlanon belüli áthelyezésének vagy további csatlakozási pontok kiépítésének költsége a gázigénylő költségére történik.
 
@@ -58,11 +58,11 @@
 
 ## d) a csatlakozási díj mértékét,
 
-## e)[^657] az ajánlat szerinti hálózati kapacitás vagy többletkapacitás biztosításának időpontját, amely nem lehet későbbi, mint az elosztói csatlakozási szerződés hatálybalépésétől, amennyiben csatlakozási díjfizetési kötelezettség merül fel, és ez utóbbi későbbi időpontra esik, akkor a csatlakozási díj befizetésétől számított 60 nap, kivéve, ha a gázigénylő ennél későbbi időpontra kéri. A határidőbe nem számít bele
+## e)[^662] az ajánlat szerinti hálózati kapacitás vagy többletkapacitás biztosításának időpontját, amely nem lehet későbbi, mint az elosztói csatlakozási szerződés hatálybalépésétől, amennyiben csatlakozási díjfizetési kötelezettség merül fel, és ez utóbbi későbbi időpontra esik, akkor a csatlakozási díj befizetésétől számított 60 nap, kivéve, ha a gázigénylő ennél későbbi időpontra kéri. A határidőbe nem számít bele
 
 ## ea) amennyiben a csatlakozáshoz elosztóvezeték építése szükséges, az elosztóvezeték kiépítésének időtartama, de legfeljebb 60 nap,
 
-## eb)[^658] más szerv nyilatkozatának beszerzéséhez vagy eljárása lefolytatásához szükséges időtartam azzal, hogy a földgázelosztó a nyilatkozat beszerzését, illetve az eljárás lefolytatását 10 napon belül köteles kezdeményezni,
+## eb)[^663] más szerv nyilatkozatának beszerzéséhez vagy eljárása lefolytatásához szükséges időtartam azzal, hogy a földgázelosztó a nyilatkozat beszerzését, illetve az eljárás lefolytatását 10 napon belül köteles kezdeményezni,
 
 ## ec) az az időtartam, amely alatt jogszabály nem teszi lehetővé a munkavégzést,
 
@@ -136,7 +136,7 @@
 
 ## d) a tervezéshez szükséges egyéb adatokat.
 
-## 5.2.[^659] A csatlakozóvezeték és felhasználói berendezés készítése, átalakítása esetén kiviteli tervet kell készíteni, kivéve, ha a gáz csatlakozóvezetékekre és fogyasztói berendezésekre vonatkozó műszaki-biztonsági előírásokról szóló miniszteri rendelet eltérően rendelkezik. A kiviteli tervet a gázfogyasztó készülékcsere kivételével a földgázelosztó műszaki-biztonsági szempontból felülvizsgálja.
+## 5.2.[^664] A csatlakozóvezeték és felhasználói berendezés készítése, átalakítása esetén kiviteli tervet kell készíteni, kivéve, ha a gáz csatlakozóvezetékekre és fogyasztói berendezésekre vonatkozó műszaki-biztonsági előírásokról szóló miniszteri rendelet eltérően rendelkezik. A kiviteli tervet a gázfogyasztó készülékcsere kivételével a földgázelosztó műszaki-biztonsági szempontból felülvizsgálja.
 
 ## 5.3. A kiviteli tervet arra jogosult tervező készítheti. A tervező jogosultságát a földgázelosztó ellenőrzi. A terv készítője a csatlakozóvezeték és a felhasználói berendezés üzembe helyezési munkáinak feltételeit, a fogyasztásmérő berendezés csatlakozását, teljesítményét és típusát, valamint nem lakossági fogyasztó esetében a nyomásszabályozó típusát és annak az üzemvitel szempontjából szükséges szerelvényezését, illetve védelmét a földgázelosztóval előzetesen egyeztetni köteles.
 
@@ -148,7 +148,7 @@
 
 ## 6. Műszaki-biztonsági ellenőrzés
 
-## 6.1.[^660] Az elkészült gázszerelés ellenőrzését a gázfogyasztó készülékcsere kivételével az ingatlantulajdonos vagy megbízása alapján a kivitelező szerelési nyilatkozat benyújtásával kezdeményezi a földgázelosztónál, a gázfogyasztó készülékcsere esetén a tervezőnél. A gázfogyasztó készülékcsere estén a műszaki-biztonsági ellenőrzést a tervező végzi el.
+## 6.1.[^665] Az elkészült gázszerelés ellenőrzését a gázfogyasztó készülékcsere kivételével az ingatlantulajdonos vagy megbízása alapján a kivitelező szerelési nyilatkozat benyújtásával kezdeményezi a földgázelosztónál, a gázfogyasztó készülékcsere esetén a tervezőnél. A gázfogyasztó készülékcsere estén a műszaki-biztonsági ellenőrzést a tervező végzi el.
 
 ## 6.2. A szerelési nyilatkozatnak tartalmaznia kell:
 
@@ -164,7 +164,7 @@
 
 ## f) a megvalósulási dokumentációt.
 
-## 6.3.[^661] Az ellenőrzést – a 6.1. pont szerinti kezdeményezővel egyeztetett időpontban – a szerelési nyilatkozat benyújtásától számított 8 munkanapon belül a földgázelosztó lefolytatja. A 6.1. pont szerinti kezdeményező gondoskodik arról, hogy a kivitelező az ellenőrzésnél jelen legyen. A kivitelezőnek biztosítania kell az ellenőrzés elvégzéséhez szükséges eszközöket és feltételeket. Az ellenőrzés eredményéről jegyzőkönyvet kell készíteni, és annak egy példányát a 6.1. pont szerinti kezdeményezőnek át kell adni. Készülékcsere esetén a kiviteli tervet és a tervezői műszaki biztonsági ellenőrzésről készített jegyzőkönyvet a kivitelező köteles a földgázelosztónak az ellenőrzést követő 2 munkanapon belül átadni. A földgázelosztó a kiviteli tervet és az ellenőrzésről készült jegyzőkönyv egy példányát köteles megőrizni.
+## 6.3.[^666] Az ellenőrzést – a 6.1. pont szerinti kezdeményezővel egyeztetett időpontban – a szerelési nyilatkozat benyújtásától számított 8 munkanapon belül a földgázelosztó lefolytatja. A 6.1. pont szerinti kezdeményező gondoskodik arról, hogy a kivitelező az ellenőrzésnél jelen legyen. A kivitelezőnek biztosítania kell az ellenőrzés elvégzéséhez szükséges eszközöket és feltételeket. Az ellenőrzés eredményéről jegyzőkönyvet kell készíteni, és annak egy példányát a 6.1. pont szerinti kezdeményezőnek át kell adni. Készülékcsere esetén a kiviteli tervet és a tervezői műszaki biztonsági ellenőrzésről készített jegyzőkönyvet a kivitelező köteles a földgázelosztónak az ellenőrzést követő 2 munkanapon belül átadni. A földgázelosztó a kiviteli tervet és az ellenőrzésről készült jegyzőkönyv egy példányát köteles megőrizni.
 
 ## 6.4. Ha a kivitelezés nem felel meg a műszaki-biztonsági előírásoknak, a bekapcsolást a földgázelosztó a hiba kijavításáig köteles megtagadni. Biztonsági okokból a földgázelosztó a főcsapot vagy a fogyasztói főelzárót elzárhatja, és azokat biztonsági záróelemmel láthatja el. A biztonsági záróelemet eltávolítani és a lezárt főcsapot vagy a fogyasztói főelzárót kinyitni csak a földgázelosztó jogosult.
 
@@ -172,11 +172,11 @@
 
 ## 6.6. Ha a szolgáltatás hat hónapot meghaladóan szünetel, a földgázelosztó jogosult a visszakapcsolás előtt a felhasználói berendezést és a csatlakozóvezetéket műszaki-biztonsági szempontból a felhasználó költségére felülvizsgálni.
 
-## 6.7.[^662] A gázfogyasztó készüléknek a gáz csatlakozóvezetékek, a felhasználói berendezések és a telephelyi vezetékek műszaki-biztonsági hatósági felügyeletéről szóló kormányrendelet szerinti egyszerűsített cseréjét a földgázelosztó jogosult ellenőrizni. Az ellenőrzés időpontjáról a földgázelosztó az ellenőrzés napját megelőzően legalább 15 nappal köteles értesíteni a felhasználót és a kivitelezőt. Az ellenőrzésen a kivitelező köteles megjelenni.
+## 6.7.[^667] A gázfogyasztó készüléknek a gáz csatlakozóvezetékek, a felhasználói berendezések és a telephelyi vezetékek műszaki-biztonsági hatósági felügyeletéről szóló kormányrendelet szerinti egyszerűsített cseréjét a földgázelosztó jogosult ellenőrizni. Az ellenőrzés időpontjáról a földgázelosztó az ellenőrzés napját megelőzően legalább 15 nappal köteles értesíteni a felhasználót és a kivitelezőt. Az ellenőrzésen a kivitelező köteles megjelenni.
 
-## 6.8.[^663] A csatlakozóvezetéknek és a fogyasztói vezetéknek a GET. 89. § (7) bekezdése alapján a fogyasztásmérő berendezés cseréjével egyidejűleg esedékes, szivárgás-ellenőrzéssel végzendő gáztömörségi felülvizsgálatának időpontjáról a földgázelosztó a munkavégzését megelőzően a 10.3. pontban foglaltak szerint értesíti a felhasználót.
+## 6.8.[^668] A csatlakozóvezetéknek és a fogyasztói vezetéknek a GET. 89. § (7) bekezdése alapján a fogyasztásmérő berendezés cseréjével egyidejűleg esedékes, szivárgás-ellenőrzéssel végzendő gáztömörségi felülvizsgálatának időpontjáról a földgázelosztó a munkavégzését megelőzően a 10.3. pontban foglaltak szerint értesíti a felhasználót.
 
-## 6.9.[^664] Készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését olyan tervezőmérnök végezheti, aki a tevékenység végzésének időtartama alatt rendelkezik legalább évi 2 000 000 Ft értékű felelősségbiztosítással. Több lakást vagy több nem lakás céljára szolgáló helyiséget magában foglaló ingatlant érintő készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését olyan tervezőmérnök végezheti, aki a tevékenység végzésének időtartama alatt rendelkezik legalább évi 5 000 000 Ft értékű felelősségbiztosítással.
+## 6.9.[^669] Készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését olyan tervezőmérnök végezheti, aki a tevékenység végzésének időtartama alatt rendelkezik legalább évi 2 000 000 Ft értékű felelősségbiztosítással. Több lakást vagy több nem lakás céljára szolgáló helyiséget magában foglaló ingatlant érintő készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését olyan tervezőmérnök végezheti, aki a tevékenység végzésének időtartama alatt rendelkezik legalább évi 5 000 000 Ft értékű felelősségbiztosítással.
 
 ## 7. Az elosztóhálózat-használati szerződés
 
@@ -242,9 +242,9 @@
 
 ## 8.8. A földgázelosztó kérés esetén az elosztóhálózat-használati szerződés másolati példányát a földgázkereskedő rendelkezésére bocsátja.
 
-## 8.9.[^665] A földgázelosztó az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt az elosztóhálózat-használati szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
+## 8.9.[^670] A földgázelosztó az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt az elosztóhálózat-használati szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
 
-## 8.10.[^666] Az egyetemes szolgáltatási vagy földgáz-kereskedelmi szerződés bármelyik fél részéről történő megszüntetése esetén az elosztó jogosult a felhasználási helyen ellenőrzést tartani. Az ellenőrzés sikeres lefolytatását követően, és az elosztó tulajdonában lévő fogyasztásmérő berendezés és tartozékainak, valamint nyomásszabályozó leszerelését követően szüntethető meg az elosztóhálózat-használati szerződés.
+## 8.10.[^671] Az egyetemes szolgáltatási vagy földgáz-kereskedelmi szerződés bármelyik fél részéről történő megszüntetése esetén az elosztó jogosult a felhasználási helyen ellenőrzést tartani. Az ellenőrzés sikeres lefolytatását követően, és az elosztó tulajdonában lévő fogyasztásmérő berendezés és tartozékainak, valamint nyomásszabályozó leszerelését követően szüntethető meg az elosztóhálózat-használati szerződés.
 
 ## 9. Bekapcsolás, üzembe helyezés
 
@@ -268,7 +268,7 @@
 
 ## d) a 9.5. pontban foglalt eset kivételével a szakszerű használatról és a felhasználói kötelezettségekről írásbeli tájékoztatást ad.
 
-## 9.7.[^667] Az üzembe helyezés alkalmával a földgázelosztó köteles a felhasználóval a csatlakozóvezeték és a fogyasztói vezeték szakszerű és biztonságos használatát, a fogyasztásmérő és a házi nyomásszabályozó berendezés berendezés állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni, ezen belül kiemelve a csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartásának, a rendszeres karbantartások, javítások, a szükséges cserék és a műszaki-biztonsági felülvizsgálatok elvégzésének kötelezettségét.
+## 9.7.[^672] Az üzembe helyezés alkalmával a földgázelosztó köteles a felhasználóval a csatlakozóvezeték és a fogyasztói vezeték szakszerű és biztonságos használatát, a fogyasztásmérő és a házi nyomásszabályozó berendezés berendezés állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni, ezen belül kiemelve a csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartásának, a rendszeres karbantartások, javítások, a szükséges cserék és a műszaki-biztonsági felülvizsgálatok elvégzésének kötelezettségét.
 
 ## 9.8. A tájékoztatás megtörténtének tényét a földgázelosztó és a felhasználó írásban köteles rögzíteni.
 
@@ -288,15 +288,15 @@
 
 ## 9.12. A fogyasztásmérő berendezés vagy mérési rendszer telepítéséhez szükséges mérési hely kialakítását és fenntartását a felhasználó saját költségén biztosítja.
 
-## 9.13.[^668] Ha a fogyasztásmérő és a házi nyomásszabályozó berendezés berendezés cseréjére a felhasználó állagmegóvási kötelezettségének megszegése miatt kerül sor, az ezzel kapcsolatos költségeket a felhasználó viseli akkor is, ha a mérő cseréje más ok miatt is szükségessé vált.
+## 9.13.[^673] Ha a fogyasztásmérő és a házi nyomásszabályozó berendezés berendezés cseréjére a felhasználó állagmegóvási kötelezettségének megszegése miatt kerül sor, az ezzel kapcsolatos költségeket a felhasználó viseli akkor is, ha a mérő cseréje más ok miatt is szükségessé vált.
 
 ## 9.14. A földgázelosztót terheli lakossági fogyasztó esetében a fogyasztásmérő berendezés és a fogyasztói nyomáscsökkentő, egyéb felhasználó esetében a fogyasztásmérő berendezés költsége, valamint az e berendezésekkel összefüggő tevékenységek során felmerülő költség. E berendezések felszerelése, karbantartása és hitelesítése a földgázelosztó kötelezettsége.
 
 ## 10. A felhasználók értesítése
 
-## 10.1.[^669] A földgázelosztó a fogyasztásmérő berendezés hitelességi idejének lejárta miatti csere esetén szükséges munkavégzésről, a fogyasztásmérő-berendezés ellenőrző leolvasása vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzésnek legfeljebb 4 órás időtartamban megjelölt, tervezett kezdő időpontjáról tértivevényes ajánlott levélben vagy egyéb igazolható módon értesíti a felhasználót. Az értesítésben megjelölt, az időpont-egyeztetési lehetőség során választható munkavégzési időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell tartalmaznia. Az értesítésnek tartalmaznia kell a földgázelosztó időpont egyeztetésre alkalmas elérhetőségét is. Az értesítésnek legalább 8 nappal a megjelölt legkorábbi munkavégzési időpont előtt a felhasználó rendelkezésére kell állnia.
+## 10.1.[^674] A földgázelosztó a fogyasztásmérő berendezés hitelességi idejének lejárta miatti csere esetén szükséges munkavégzésről, a fogyasztásmérő-berendezés ellenőrző leolvasása vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzésnek legfeljebb 4 órás időtartamban megjelölt, tervezett kezdő időpontjáról tértivevényes ajánlott levélben vagy egyéb igazolható módon értesíti a felhasználót. Az értesítésben megjelölt, az időpont-egyeztetési lehetőség során választható munkavégzési időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell tartalmaznia. Az értesítésnek tartalmaznia kell a földgázelosztó időpont egyeztetésre alkalmas elérhetőségét is. Az értesítésnek legalább 8 nappal a megjelölt legkorábbi munkavégzési időpont előtt a felhasználó rendelkezésére kell állnia.
 
-## 10.2.[^670] A felhasználó köteles a földgázelosztóval a 10.1. pontban foglaltak szerint egyeztetett időpontban a felhasználási helyhez tartozó mérőhelyen a földgázelosztó általi munkavégzést lehetővé tenni.
+## 10.2.[^675] A felhasználó köteles a földgázelosztóval a 10.1. pontban foglaltak szerint egyeztetett időpontban a felhasználási helyhez tartozó mérőhelyen a földgázelosztó általi munkavégzést lehetővé tenni.
 
 ## 10.3. A 100 m3/h kapacitás-lekötés alatti felhasználók esetében a munkavégzés megkezdése előtt 15 nappal, a 100 m3/h kapacitás-lekötés feletti felhasználók esetében 30 nappal kell az értesítést közölni.
 
@@ -308,7 +308,7 @@
 
 ## 11.3. Az ellenőrzés, illetve csere költsége a földgázelosztót terheli, ha a fogyasztásmérő berendezés mérési hibája a jogszabályi hibahatárt túllépi. Egyéb esetben a költségeket a felhasználó köteles megtéríteni.
 
-## 11.4.[^671] A fogyasztásmérő berendezés cseréje esetén a földgázelosztó köteles gondoskodni arról, hogy
+## 11.4.[^676] A fogyasztásmérő berendezés cseréje esetén a földgázelosztó köteles gondoskodni arról, hogy
 
 ## a) ha a fogyasztásmérő berendezés cseréjére nem a 11.2. pont szerint, azonnali beavatkozással kerül sor, a csere időpontjáról a felhasználó a 10.3. pontban foglaltak szerint értesítést kapjon,
 
@@ -316,7 +316,7 @@
 
 ## c) a fogyasztásmérő berendezés műszaki adatai a mérő állásával együtt jegyzőkönyvben kerüljenek rögzítésre, és annak egy példánya a felhasználó részére átadásra kerüljön.
 
-## 11.5.[^672] A leszerelt fogyasztásmérő berendezés mérőállását és állapotát a földgázelosztó jogosult fotótechnikai vagy elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési idő végéig – elszámoló számlára vonatkozó felhasználói panasz véglegessé vált döntéssel való lezárásáig vagy jogvita esetén a jogvita jogerős lezárásáig – a földgázelosztó köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő berendezést változatlan állapotban megőrizni. A felhasználói panasz fennállásáról és annak véglegessé vált döntéssel való lezárásáról, továbbá a jogvita fennállásáról és annak jogerős lezárásáról a felhasználót ellátó kereskedő a földgázelosztót tájékoztatja.
+## 11.5.[^677] A leszerelt fogyasztásmérő berendezés mérőállását és állapotát a földgázelosztó jogosult fotótechnikai vagy elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési idő végéig – elszámoló számlára vonatkozó felhasználói panasz véglegessé vált döntéssel való lezárásáig vagy jogvita esetén a jogvita jogerős lezárásáig – a földgázelosztó köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő berendezést változatlan állapotban megőrizni. A felhasználói panasz fennállásáról és annak véglegessé vált döntéssel való lezárásáról, továbbá a jogvita fennállásáról és annak jogerős lezárásáról a felhasználót ellátó kereskedő a földgázelosztót tájékoztatja.
 
 ## 11.6. A felhasználó jogosult saját költségén – a földgázelosztóval egyeztetett módon – ellenőrző mérőeszközt alkalmazni. Eltérő mérési eredmény esetén a fogyasztás elszámolásánál a mérésügyi felülvizsgálat befejezéséig az elosztó tulajdonát képező mérő mérési adatai szolgálnak az elszámolás alapjául.
 
@@ -330,7 +330,7 @@
 
 ## b) a 20–100 m3/h kapacitásigényű felhasználási hely fogyasztásmérő berendezésének névleges kapacitása a beépített gázfogyasztó készülékek névleges kapacitásainak összegéhez viszonyítva 15%-kal nagyobb.
 
-## 11.10.[^673] A földgázelosztó 30 napon belül köteles a 11.9. pont szerinti kezdeményezést a rendelkezésére álló műszaki adatok figyelembevételével felülvizsgálni és a felülvizsgálat eredményéről a kezdeményezőt tájékoztatni, kivéve, ha a kezdeményezésre a földgázelosztó 11.13. pont szerinti tájékoztatása alapján kerül sor. A 11.9. pontban előírt feltételek fennállása esetén a földgázelosztó köteles a fogyasztásmérő berendezést kicserélni és a kezdeményezés időpontjától a fogyasztásmérő berendezés névleges kapacitása alapján megállapított rendszerhasználati díjat alkalmazni. Az új fogyasztásmérő berendezést – a 11.13. pontban foglalt kivétellel – a kezdeményező fizeti meg. A fogyasztásmérő berendezés cseréjével kapcsolatos mérőhely kialakításának költsége – a 11.13. pontban foglalt kivétellel – a kezdeményezőt terheli, kivéve, ha a földgázelosztó fogyasztásmérő berendezés indokolt cseréjét 3 hónapon belül nem hajtja végre.
+## 11.10.[^678] A földgázelosztó 30 napon belül köteles a 11.9. pont szerinti kezdeményezést a rendelkezésére álló műszaki adatok figyelembevételével felülvizsgálni és a felülvizsgálat eredményéről a kezdeményezőt tájékoztatni, kivéve, ha a kezdeményezésre a földgázelosztó 11.13. pont szerinti tájékoztatása alapján kerül sor. A 11.9. pontban előírt feltételek fennállása esetén a földgázelosztó köteles a fogyasztásmérő berendezést kicserélni és a kezdeményezés időpontjától a fogyasztásmérő berendezés névleges kapacitása alapján megállapított rendszerhasználati díjat alkalmazni. Az új fogyasztásmérő berendezést – a 11.13. pontban foglalt kivétellel – a kezdeményező fizeti meg. A fogyasztásmérő berendezés cseréjével kapcsolatos mérőhely kialakításának költsége – a 11.13. pontban foglalt kivétellel – a kezdeményezőt terheli, kivéve, ha a földgázelosztó fogyasztásmérő berendezés indokolt cseréjét 3 hónapon belül nem hajtja végre.
 
 ## 11.11. Ha a fogyasztásmérő berendezés 100 mbar-nál nagyobb üzemi nyomású szakaszba került beépítésre, a földgázelosztó jogosult a fogyasztásmérő berendezés névleges kapacitását gáztechnikai normálállapotra átszámítani. Az átszámításnál üzemi értékként a fogyasztásmérő berendezésnél mért üzemi nyomás átlagát, illetve a földgáz hőmérsékletének átlagát kell figyelembe venni.
 
@@ -344,19 +344,19 @@
 
 ## a földgázelosztó kezdeményezheti a fogyasztásmérő berendezés cseréjét a gyártási méretsorozatnak megfelelő típusú és kapacitású, illetve a mérésügyi előírásoknak megfelelő fogyasztásmérő berendezésre. Ebben az esetben a fogyasztásmérő berendezés cseréje és a mérőhely esetleges átalakításának költsége a földgázelosztót terheli. A felhasználó köteles tűrni a fogyasztásmérő berendezés cseréjét.
 
-## 11.13.[^674] Ha a földgázelosztó a 11.9. pontban meghatározott feltételek fennállását észleli, köteles a felhasználó figyelmét felhívni a fogyasztásmérő berendezés cseréjének lehetőségére. A fogyasztásmérő berendezés 11.9. pont szerinti cseréje, a fogyasztásmérő berendezés cseréjével kapcsolatos kiviteli terv elkészítése és a mérőhely kialakítása egyetemes szolgáltatásra jogosult felhasználó, a cserét követően egyetemes szolgáltatásra jogosulttá váló felhasználó és közintézményi felhasználó esetén a földgázelosztó kötelessége, saját költségén. A közintézményi felhasználó a fogyasztásmérő berendezés cseréjének kezdeményezésével egyidejűleg az 55/B. § (2) bekezdésében meghatározott dokumentumokkal igazolja, hogy közintézményi felhasználónak minősül.
+## 11.13.[^679] Ha a földgázelosztó a 11.9. pontban meghatározott feltételek fennállását észleli, köteles a felhasználó figyelmét felhívni a fogyasztásmérő berendezés cseréjének lehetőségére. A fogyasztásmérő berendezés 11.9. pont szerinti cseréje, a fogyasztásmérő berendezés cseréjével kapcsolatos kiviteli terv elkészítése és a mérőhely kialakítása egyetemes szolgáltatásra jogosult felhasználó, a cserét követően egyetemes szolgáltatásra jogosulttá váló felhasználó és közintézményi felhasználó esetén a földgázelosztó kötelessége, saját költségén. A közintézményi felhasználó a fogyasztásmérő berendezés cseréjének kezdeményezésével egyidejűleg az 55/B. § (2) bekezdésében meghatározott dokumentumokkal igazolja, hogy közintézményi felhasználónak minősül.
 
-## 11.14.[^675] A 20–100 m3/h kapacitásigényű felhasználási helyen az elosztási alapdíjat fizető felhasználók esetében ötévente, a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 2. számú mellékletében meghatározott időszakos gázmérő hitelesítéssel összefüggő gázmérőcserét megelőzően a földgázelosztó köteles meghatározni a felhasználó számított órai teljesítményét a felhasználó gázmérőcserét megelőző öt év legnagyobb havi tény fogyasztási adata alapján.
+## 11.14.[^680] A 20–100 m3/h kapacitásigényű felhasználási helyen az elosztási alapdíjat fizető felhasználók esetében ötévente, a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 2. számú mellékletében meghatározott időszakos gázmérő hitelesítéssel összefüggő gázmérőcserét megelőzően a földgázelosztó köteles meghatározni a felhasználó számított órai teljesítményét a felhasználó gázmérőcserét megelőző öt év legnagyobb havi tény fogyasztási adata alapján.
 
-## 11.15.[^676] A 11.14. pont szerinti felülvizsgálat eredményéről és a gázmérőcsere 11.16. pont szerinti kezdeményezésének lehetőségéről a földgázelosztó köteles a felhasználót a gázmérőcserét megelőzően, a 10.1. pontjában meghatározott értesítéssel egyidejűleg tájékoztatni. A földgázelosztó a tájékoztatás keretében igazolható módon köteles tájékoztatni a felhasználót a számított órai teljesítményhez igazodó fogyasztásmérő berendezés felszerelésének kockázatairól, valamint arról, hogy a számított órai teljesítményt meghaladó földgázfogyasztás miatt bekövetkező szolgáltatási szünet nem minősül a földgázelosztó által történő kikapcsolásnak, az abból származó kárt a felhasználó viseli.
+## 11.15.[^681] A 11.14. pont szerinti felülvizsgálat eredményéről és a gázmérőcsere 11.16. pont szerinti kezdeményezésének lehetőségéről a földgázelosztó köteles a felhasználót a gázmérőcserét megelőzően, a 10.1. pontjában meghatározott értesítéssel egyidejűleg tájékoztatni. A földgázelosztó a tájékoztatás keretében igazolható módon köteles tájékoztatni a felhasználót a számított órai teljesítményhez igazodó fogyasztásmérő berendezés felszerelésének kockázatairól, valamint arról, hogy a számított órai teljesítményt meghaladó földgázfogyasztás miatt bekövetkező szolgáltatási szünet nem minősül a földgázelosztó által történő kikapcsolásnak, az abból származó kárt a felhasználó viseli.
 
-## 11.16.[^677] Ha a felhasználási helyen felszerelt fogyasztásmérő berendezés névleges teljesítménye legalább 15 százalékkal nagyobb, mint a felhasználó számított órai teljesítménye, akkor a földgázelosztó a felhasználási hely tulajdonosa vagy meghatalmazásával a felhasználó kezdeményezése esetén köteles a számított órai teljesítménynek megfelelő kapacitású fogyasztásmérő berendezés felszerelésére a 11.14. pont szerinti gázmérő hitelesítéssel összefüggő gázmérőcserével egyidejűleg.
+## 11.16.[^682] Ha a felhasználási helyen felszerelt fogyasztásmérő berendezés névleges teljesítménye legalább 15 százalékkal nagyobb, mint a felhasználó számított órai teljesítménye, akkor a földgázelosztó a felhasználási hely tulajdonosa vagy meghatalmazásával a felhasználó kezdeményezése esetén köteles a számított órai teljesítménynek megfelelő kapacitású fogyasztásmérő berendezés felszerelésére a 11.14. pont szerinti gázmérő hitelesítéssel összefüggő gázmérőcserével egyidejűleg.
 
-## 11.17.[^678] A fogyasztásmérő berendezés 11.16. pont szerinti cseréje, a fogyasztásmérő berendezés cseréjével kapcsolatos kiviteli terv elkészítése és a mérőhely esetleges átalakítása egyetemes szolgáltatásra jogosult felhasználó, a cserét követően egyetemes szolgáltatásra jogosulttá váló felhasználó és közintézményi felhasználó esetén a földgázelosztó kötelessége, saját költségén.
+## 11.17.[^683] A fogyasztásmérő berendezés 11.16. pont szerinti cseréje, a fogyasztásmérő berendezés cseréjével kapcsolatos kiviteli terv elkészítése és a mérőhely esetleges átalakítása egyetemes szolgáltatásra jogosult felhasználó, a cserét követően egyetemes szolgáltatásra jogosulttá váló felhasználó és közintézményi felhasználó esetén a földgázelosztó kötelessége, saját költségén.
 
-## 11.18.[^679] A földgázelosztók kötelesek a felhasználó számított órai teljesítményének meghatározására egységes módszertant kialakítani, és azt az üzletszabályzatukban nyilvánossá tenni.
+## 11.18.[^684] A földgázelosztók kötelesek a felhasználó számított órai teljesítményének meghatározására egységes módszertant kialakítani, és azt az üzletszabályzatukban nyilvánossá tenni.
 
-## 11.19.[^680] A közintézményi felhasználó a fogyasztásmérő berendezés 11.16. pont szerinti cseréjének kezdeményezésével egyidejűleg az 55/B. § (2) bekezdésében meghatározott dokumentumokkal igazolja, hogy közintézményi felhasználónak minősül.
+## 11.19.[^685] A közintézményi felhasználó a fogyasztásmérő berendezés 11.16. pont szerinti cseréjének kezdeményezésével egyidejűleg az 55/B. § (2) bekezdésében meghatározott dokumentumokkal igazolja, hogy közintézményi felhasználónak minősül.
 
 ## 12. Elszámolás hibás, nem hiteles mérés esetén
 
@@ -372,7 +372,7 @@
 
 ## 12.3. A hibás mérés időtartamának megállapítását követően a fogyasztásmérő berendezés mérésügyi hatóság vagy a mérésügyi hatóság által akkreditált laboratórium által megállapított hibaszázalékával helyesbíteni kell a hibás mérés időszakára kibocsátott elszámolásokat.
 
-## 12.4.[^681] A hibás méréssel érintett időszakban felhasznált földgáz mennyiségét a hibás mérést megelőző utolsó helyes vagy a felek által közösen helyesnek elfogadott elszámolási időszak adatait és a hibás mérést követő elszámolási időszak adatait átlagolva kell megállapítani, ha
+## 12.4.[^686] A hibás méréssel érintett időszakban felhasznált földgáz mennyiségét a hibás mérést megelőző utolsó helyes vagy a felek által közösen helyesnek elfogadott elszámolási időszak adatait és a hibás mérést követő elszámolási időszak adatait átlagolva kell megállapítani, ha
 
 ## a) a mérésügyi hatóság vagy a mérésügyi hatóság által akkreditált laboratórium nem tudja megállapítani a fogyasztásmérő-berendezés hibaszázalékát,
 
@@ -380,11 +380,11 @@
 
 ## c) a fogyasztásmérő berendezés hitelesítési ideje lejárt.
 
-## 12.5.[^682] A hibás mérést megelőző időszakra vonatkozó adatok hiányában, vagy ha a felhasználó felhasználásában lényeges változás következett be, a hibás mérés elszámolása a hibás mérést követő egy év felhasználási adatai alapján történik.
+## 12.5.[^687] A hibás mérést megelőző időszakra vonatkozó adatok hiányában, vagy ha a felhasználó felhasználásában lényeges változás következett be, a hibás mérés elszámolása a hibás mérést követő egy év felhasználási adatai alapján történik.
 
-## 12.6.[^683] Lejárt hitelességű mérőberendezés esetén a 12.2. pont a) pontjában, valamint a 12.4. és 12.5. pontban foglalt szabályokat kell alkalmazni.
+## 12.6.[^688] Lejárt hitelességű mérőberendezés esetén a 12.2. pont a) pontjában, valamint a 12.4. és 12.5. pontban foglalt szabályokat kell alkalmazni.
 
-## 12.7.[^684] Lejárt hitelességű fogyasztásmérő berendezés esetén a földgázelosztó szabálytalan vételezésre kizárólag akkor hivatkozhat, ha bizonyítja, hogy a fogyasztásmérő berendezés megfelelő időben történő hitelesítése, cseréje a felhasználó érdekkörében fennálló okból nem vezetett eredményre és ennek érdekében a mérőhelyre való bejutás a járásbíróságnál kezdeményezte.
+## 12.7.[^689] Lejárt hitelességű fogyasztásmérő berendezés esetén a földgázelosztó szabálytalan vételezésre kizárólag akkor hivatkozhat, ha bizonyítja, hogy a fogyasztásmérő berendezés megfelelő időben történő hitelesítése, cseréje a felhasználó érdekkörében fennálló okból nem vezetett eredményre és ennek érdekében a mérőhelyre való bejutás a járásbíróságnál kezdeményezte.
 
 ## 13. Gázömlés (üzemzavar) elhárítása
 
@@ -402,13 +402,13 @@
 
 ## 14. Az elosztási szolgáltatás megtagadása, szüneteltetése
 
-## 14.1.[^685] A földgázelosztó az élet- és vagyonbiztonság, valamint a gázszolgáltatás folyamatosságának veszélyeztetettsége esetén a készülék vagy a teljes felhasználási hely kizárásával a gázszolgáltatást szüneteltetni köteles.
+## 14.1.[^690] A földgázelosztó az élet- és vagyonbiztonság, valamint a gázszolgáltatás folyamatosságának veszélyeztetettsége esetén a készülék vagy a teljes felhasználási hely kizárásával a gázszolgáltatást szüneteltetni köteles.
 
-## 14.2.[^686] A földgázelosztó az elosztóhálózat-használati szerződés fennállása alatt a jogcímet alátámasztó okiratokat jogosult a felhasználótól bekérni. Ha a földgázelosztó tudomására jut, hogy a felhasználó a szerződéskötéshez szükséges jogcímmel nem rendelkezik, jogosult az elosztóhálózat-használati szerződést azonnali hatállyal felmondani.
+## 14.2.[^691] A földgázelosztó az elosztóhálózat-használati szerződés fennállása alatt a jogcímet alátámasztó okiratokat jogosult a felhasználótól bekérni. Ha a földgázelosztó tudomására jut, hogy a felhasználó a szerződéskötéshez szükséges jogcímmel nem rendelkezik, jogosult az elosztóhálózat-használati szerződést azonnali hatállyal felmondani.
 
 ## 14.3. Az elosztási szolgáltatás szüneteltetésére a felhasználóval szerződéses kapcsolatban álló egyetemes szolgáltató vagy földgázkereskedő kezdeményezésére is sor kerülhet, amely esetben a földgázelosztó nem vizsgálja a kizárás jogszerűségét. A jogszerűtlen kizárásból eredő károkért és annak költsége azt az engedélyest terhelik, akinek magatartása folytán a kizárásra sor került.
 
-## 14.4.[^687] A GET 16. § (2) bekezdésében meghatározott kötelezettség megszegése esetén a földgázelosztó kötbért fizet a felhasználónak, amelynek mértéke a Hivatal elosztói külön díj ellenében végezhető szolgáltatásokról szóló határozatában meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
+## 14.4.[^692] A GET 16. § (2) bekezdésében meghatározott kötelezettség megszegése esetén a földgázelosztó kötbért fizet a felhasználónak, amelynek mértéke a Hivatal elosztói külön díj ellenében végezhető szolgáltatásokról szóló határozatában meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
 
 ## a) 50%-a, ha az elosztó érdekkörében felmerült okból a visszakapcsolásra a kizárás alapjául szolgáló helyzet megszűnéséről való tudomásszerzést követő 48 óránál később, de 72 órán belül kerül sor,
 
@@ -424,7 +424,7 @@
 
 ## 16.1. A felhasználó a földgázelosztónál írásban kérheti a rendszerhasználat szüneteltetését. A kérelemnek tartalmaznia kell a szüneteltetés kezdetét és időtartamát.
 
-## 16.2.[^688] A szüneteltetés feltétele a fogyasztásmérő berendezés leszerelése, ha a fogyasztásmérő berendezés a földgázelosztó tulajdonában van. Ha a fogyasztásmérő berendezés nem a földgázelosztó tulajdonában van, vagy a felhasználási helyen mérő nélküli átalánydíjas fogyasztás történik, a szüneteltetés időtartamára a fogyasztói főelzáró kerül elzárásra, és záró pecséttel rögzítésre. A földgázelosztó a felhasználó írásbeli bejelentésének beérkezésétől számított legfeljebb 8 munkanapon belül, vagy a felhasználóval történt megállapodás alapján ettől eltérő időpontban gondoskodik a fogyasztásmérő berendezés leszereléséről, vagy a fogyasztói főelzáró elzárásáról és záró pecséttel történő rögzítéséről, amelynek költsége mindkét esetben a felhasználót terheli.
+## 16.2.[^693] A szüneteltetés feltétele a fogyasztásmérő berendezés leszerelése, ha a fogyasztásmérő berendezés a földgázelosztó tulajdonában van. Ha a fogyasztásmérő berendezés nem a földgázelosztó tulajdonában van, vagy a felhasználási helyen mérő nélküli átalánydíjas fogyasztás történik, a szüneteltetés időtartamára a fogyasztói főelzáró kerül elzárásra, és záró pecséttel rögzítésre. A földgázelosztó a felhasználó írásbeli bejelentésének beérkezésétől számított legfeljebb 8 munkanapon belül, vagy a felhasználóval történt megállapodás alapján ettől eltérő időpontban gondoskodik a fogyasztásmérő berendezés leszereléséről, vagy a fogyasztói főelzáró elzárásáról és záró pecséttel történő rögzítéséről, amelynek költsége mindkét esetben a felhasználót terheli.
 
 ## 16.3. A gázszolgáltatás ismételt megindításának feltétele a fogyasztásmérő berendezés felszerelése vagy a fogyasztói főelzáró nyitása, amelynek költségei a felhasználót terhelik. Ha a gázszolgáltatás ismételt megindítását nem a rendszerhasználat szüneteltetését kérő, hanem új felhasználó kéri, a költségek e felhasználót terhelik.
 
@@ -442,27 +442,27 @@
 
 ## 17.2. Az ingatlanon belüli gázszivárgás, gázömlés esetén a felhasználó köteles a veszély elhárítása érdekében a tőle elvárható intézkedéseket megtenni.
 
-## 17.3.[^689]
+## 17.3.[^694]
 
 ## 17.4. Üzemzavar vagy forráshiány miatti fogyasztáskorlátozás esetén a felhasználó köteles a korlátozási sorrend szerinti vételezés végrehajtására.
 
-## 17.5.[^690]
+## 17.5.[^695]
 
-## 17.6.[^691] A földgázelosztó a bejelentés kézhezvételét követő nyolc napon belül – a GET 17. § (3) bekezdésében foglalt esetekben – köteles a csatlakozóvezeték, fogyasztói vezeték és a fogyasztásmérő berendezés állapotának helyszíni ellenőrzésére és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben való rögzítésére. Az ellenőrzéssel, annak körülményeivel, illetve eredményével kapcsolatos állásfoglalását a felhasználó és az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a földgázelosztó a korábbi és az új felhasználónak átadni vagy postán megküldeni, egy további példányát megőrizni köteles. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.
+## 17.6.[^696] A földgázelosztó a bejelentés kézhezvételét követő nyolc napon belül – a GET 17. § (3) bekezdésében foglalt esetekben – köteles a csatlakozóvezeték, fogyasztói vezeték és a fogyasztásmérő berendezés állapotának helyszíni ellenőrzésére és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben való rögzítésére. Az ellenőrzéssel, annak körülményeivel, illetve eredményével kapcsolatos állásfoglalását a felhasználó és az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a földgázelosztó a korábbi és az új felhasználónak átadni vagy postán megküldeni, egy további példányát megőrizni köteles. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.
 
 ## 17.7. A helyszíni ellenőrzés lefolytatásáig a korábbi felhasználó felel a csatlakozóvezeték, a felhasználói berendezés, a nyomásszabályozó és a fogyasztásmérő berendezés állapotáért, a rendszerhasználati díjak megfizetéséért, szabálytalan vételezés esetén a következményekért.
 
-## 17.8.[^692] A korábbi felhasználó mentesül a felelősség alól, ha a helyszíni ellenőrzés a bejelentés földgázelosztó általi kézhezvételét követő 20 napon belül a felhasználási helyen vételező új felhasználó magatartása miatt, írásbeli felszólítás ellenére nem hajtható végre. Ebben az esetben a bejelentés napjától az új felhasználót terheli a felelősség.
+## 17.8.[^697] A korábbi felhasználó mentesül a felelősség alól, ha a helyszíni ellenőrzés a bejelentés földgázelosztó általi kézhezvételét követő 20 napon belül a felhasználási helyen vételező új felhasználó magatartása miatt, írásbeli felszólítás ellenére nem hajtható végre. Ebben az esetben a bejelentés napjától az új felhasználót terheli a felelősség.
 
-## 17.9.[^693] A földgázelosztó nem hivatkozhat szabálytalan vételezésre, és igényt nem érvényesíthet a felhasználóval szemben, ha helyszíni ellenőrzésre nyolc napon belül nem kerül sor, kivéve, ha bizonyítja, hogy az ellenőrzést az a felhasználó akadályozta, akivel szemben a szabálytalan vételezés miatt igényét érvényesíteni kívánja.
+## 17.9.[^698] A földgázelosztó nem hivatkozhat szabálytalan vételezésre, és igényt nem érvényesíthet a felhasználóval szemben, ha helyszíni ellenőrzésre nyolc napon belül nem kerül sor, kivéve, ha bizonyítja, hogy az ellenőrzést az a felhasználó akadályozta, akivel szemben a szabálytalan vételezés miatt igényét érvényesíteni kívánja.
 
-## 17.10.[^694] Az új felhasználó hatályos csatlakozási szerződés megléte, valamint az elosztóhálózat-használati szerződés megkötése esetén jogosult a rendszerhasználatra.
+## 17.10.[^699] Az új felhasználó hatályos csatlakozási szerződés megléte, valamint az elosztóhálózat-használati szerződés megkötése esetén jogosult a rendszerhasználatra.
 
 ## 17.11. A 17. pont szerinti bejelentések megtételének bizonyítása a felhasználót, a helyszíni ellenőrzés akadályozásának bizonyítása a földgázelosztót terheli.
 
-## 17.12.[^695]
+## 17.12.[^700]
 
-## 17.13.[^696]
+## 17.13.[^701]
 
 ## 18. Az elosztóhálózat-használati szerződés megszegésének esetei
 
@@ -558,50 +558,50 @@
 
 ## Szerződés nélkül használja a gázelosztó-vezetéket az a felhasználó, aki nem rendelkezik elosztóhálózat-használati szerződéssel.
 
-2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^697]
+2. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^702]
 
-[^653]: A Vhr. 1. számú melléklet 1.3. pontja a 157/2017. (VI. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^654]: A Vhr. 1. számú melléklet 2.4. pontja a 157/2017. (VI. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^655]: A Vhr. 1. számú melléklet 3.1. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontjával megállapított szöveg.
-[^656]: A Vhr. 1. számú melléklet 3.3. pontját a 157/2017. (VI. 16.) Korm. rendelet 1. §-a hatályon kívül helyezte.
-[^657]: A Vhr. 1. számú melléklet 3.5. pont e) alpontja a 157/2017. (VI. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^658]: A Vhr. 1. számú melléklet 3.5. pont e) pont eb) alpontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^659]: A Vhr. 1. számú melléklet 5.2. pontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^660]: A Vhr. 1. számú melléklet 6.1. pontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^661]: A Vhr. 1. számú melléklet 6.3. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
-[^662]: A Vhr. 1. számú melléklet 6.7. pontját a 245/2012. (VIII. 31.) Korm. rendelet 14. §-a iktatta be, szövege a 401/2020. (VIII. 17.) Korm. rendelet 29. § 19. pontja szerint módosított szöveg.
-[^663]: A Vhr. 1. számú melléklet 6.8. pontját a 343/2017. (XI. 15.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontjával megállapított szöveg.
-[^664]: A Vhr. 1. számú melléklet 6.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^665]: A Vhr. 1. számú melléklet 8.9. pontját a 275/2017. (IX. 21.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^666]: A Vhr. 1. számú melléklet 8.10. pontját a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontja iktatta be.
-[^667]: Az 1. melléklet 9.7 pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
-[^668]: A Vhr. 1. számú melléklet 9.13. pontja a 110/2014. (IV. 1.) Korm. rendelet 11. §-a, a 216/2023. (VI. 1.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
-[^669]: A Vhr. 1. számú melléklet 10.1. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 29. § 20. pontja szerint módosított szöveg.
-[^670]: A Vhr. 1. számú melléklet 10.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^671]: A Vhr. 1. számú melléklet 11.4. pontja a 119/2013. (IV. 23.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^672]: A Vhr. 1. számú melléklet 11.5. pontja a 119/2013. (IV. 23.) Korm. rendelet 22. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 235. § e)–f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^673]: A Vhr. 1. számú melléklet 11. pont 11.10. alpontja a 277/2015. (IX. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^674]: A Vhr. 1. számú melléklet 11. pont 11.13. alpontját a 137/2015. (VI. 2.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 277/2015. (IX. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^675]: A Vhr. 1. számú melléklet 11. pont 11.14. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 216/2023. (VI. 1.) Korm. rendelet 4. § (12) bekezdés b) pontja szerint módosított szöveg.
-[^676]: A Vhr. 1. számú melléklet 11. pont 11.15. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
-[^677]: A Vhr. 1. számú melléklet 11. pont 11.16. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
-[^678]: A Vhr. 1. számú melléklet 11. pont 11.17. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
-[^679]: A Vhr. 1. számú melléklet 11. pont 11.18. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
-[^680]: A Vhr. 1. számú melléklet 11. pont 11.19. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
-[^681]: A Vhr. 1. melléklet 12.4. pontja a 458/2016. (XII. 23.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^682]: A Vhr. 1. számú melléklet 12. pont 12.5. pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § n) pontja szerint módosított szöveg.
-[^683]: A Vhr. 1. melléklet 12.6. pontja a 458/2016. (XII. 23.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^684]: A Vhr. 1. számú melléklet 12. pont 12.7. alpontja a 440/2016. (XII. 16.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^685]: A Vhr. 1. számú melléklet 14.1. pontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^686]: A Vhr. 1. számú melléklet 14. pont 14.2. alpontját a 343/2017. (XI. 15.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 672/2021. (XII. 2.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^687]: A Vhr. 1. számú melléklet 14.4. pontját a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontja iktatta be.
-[^688]: A Vhr. 1. számú melléklet 16.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^689]: Az 1. számú melléklet 17.3. pontját a 245/2012. (VIII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^690]: A Vhr. 1. számú melléklet 17. pont 17.5. alpontját a 652/2023. (XII. 28.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte.
-[^691]: A Vhr. 1. számú melléklet 17.6. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
-[^692]: A Vhr. 1. számú melléklet 17.8. pontja a 252/2012. (IX. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^693]: A Vhr. 1. számú melléklet 17.9. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
-[^694]: A Vhr. 1. számú melléklet 17.10. pontja a 252/2012. (IX. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^695]: A Vhr. 1. számú melléklet 17.12. pontját a 252/2012. (IX. 7.) Korm. rendelet 6. §-a iktatta be, a a 652/2023. (XII. 28.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte..
-[^696]: A Vhr. 1. számú melléklet 17. pont 17.13. alpontját a 252/2012. (IX. 7.) Korm. rendelet 6. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte..
-[^697]: A 2. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^658]: A Vhr. 1. számú melléklet 1.3. pontja a 157/2017. (VI. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^659]: A Vhr. 1. számú melléklet 2.4. pontja a 157/2017. (VI. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^660]: A Vhr. 1. számú melléklet 3.1. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontjával megállapított szöveg.
+[^661]: A Vhr. 1. számú melléklet 3.3. pontját a 157/2017. (VI. 16.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^662]: A Vhr. 1. számú melléklet 3.5. pont e) alpontja a 157/2017. (VI. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^663]: A Vhr. 1. számú melléklet 3.5. pont e) pont eb) alpontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^664]: A Vhr. 1. számú melléklet 5.2. pontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^665]: A Vhr. 1. számú melléklet 6.1. pontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^666]: A Vhr. 1. számú melléklet 6.3. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^667]: A Vhr. 1. számú melléklet 6.7. pontját a 245/2012. (VIII. 31.) Korm. rendelet 14. §-a iktatta be, szövege a 401/2020. (VIII. 17.) Korm. rendelet 29. § 19. pontja szerint módosított szöveg.
+[^668]: A Vhr. 1. számú melléklet 6.8. pontját a 343/2017. (XI. 15.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontjával megállapított szöveg.
+[^669]: A Vhr. 1. számú melléklet 6.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^670]: A Vhr. 1. számú melléklet 8.9. pontját a 275/2017. (IX. 21.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^671]: A Vhr. 1. számú melléklet 8.10. pontját a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontja iktatta be.
+[^672]: Az 1. melléklet 9.7 pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^673]: A Vhr. 1. számú melléklet 9.13. pontja a 110/2014. (IV. 1.) Korm. rendelet 11. §-a, a 216/2023. (VI. 1.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^674]: A Vhr. 1. számú melléklet 10.1. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 29. § 20. pontja szerint módosított szöveg.
+[^675]: A Vhr. 1. számú melléklet 10.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^676]: A Vhr. 1. számú melléklet 11.4. pontja a 119/2013. (IV. 23.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^677]: A Vhr. 1. számú melléklet 11.5. pontja a 119/2013. (IV. 23.) Korm. rendelet 22. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 235. § e)–f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^678]: A Vhr. 1. számú melléklet 11. pont 11.10. alpontja a 277/2015. (IX. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^679]: A Vhr. 1. számú melléklet 11. pont 11.13. alpontját a 137/2015. (VI. 2.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 277/2015. (IX. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^680]: A Vhr. 1. számú melléklet 11. pont 11.14. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 216/2023. (VI. 1.) Korm. rendelet 4. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^681]: A Vhr. 1. számú melléklet 11. pont 11.15. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^682]: A Vhr. 1. számú melléklet 11. pont 11.16. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^683]: A Vhr. 1. számú melléklet 11. pont 11.17. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^684]: A Vhr. 1. számú melléklet 11. pont 11.18. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^685]: A Vhr. 1. számú melléklet 11. pont 11.19. alpontját a 277/2015. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^686]: A Vhr. 1. melléklet 12.4. pontja a 458/2016. (XII. 23.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^687]: A Vhr. 1. számú melléklet 12. pont 12.5. pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § n) pontja szerint módosított szöveg.
+[^688]: A Vhr. 1. melléklet 12.6. pontja a 458/2016. (XII. 23.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^689]: A Vhr. 1. számú melléklet 12. pont 12.7. alpontja a 440/2016. (XII. 16.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^690]: A Vhr. 1. számú melléklet 14.1. pontja a 343/2017. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^691]: A Vhr. 1. számú melléklet 14. pont 14.2. alpontját a 343/2017. (XI. 15.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 672/2021. (XII. 2.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^692]: A Vhr. 1. számú melléklet 14.4. pontját a 652/2023. (XII. 28.) Korm. rendelet 15. § a) pontja iktatta be.
+[^693]: A Vhr. 1. számú melléklet 16.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^694]: Az 1. számú melléklet 17.3. pontját a 245/2012. (VIII. 31.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^695]: A Vhr. 1. számú melléklet 17. pont 17.5. alpontját a 652/2023. (XII. 28.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte.
+[^696]: A Vhr. 1. számú melléklet 17.6. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^697]: A Vhr. 1. számú melléklet 17.8. pontja a 252/2012. (IX. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^698]: A Vhr. 1. számú melléklet 17.9. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^699]: A Vhr. 1. számú melléklet 17.10. pontja a 252/2012. (IX. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^700]: A Vhr. 1. számú melléklet 17.12. pontját a 252/2012. (IX. 7.) Korm. rendelet 6. §-a iktatta be, a a 652/2023. (XII. 28.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte..
+[^701]: A Vhr. 1. számú melléklet 17. pont 17.13. alpontját a 252/2012. (IX. 7.) Korm. rendelet 6. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte..
+[^702]: A 2. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
