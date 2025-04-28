@@ -4,9 +4,9 @@ A megengedett össztömeget, tengelyterhelést, tengelycsoport-terhelést és m�
 
 1. A szakkíséretre vonatkozó személyi feltételek
 
-1.1.[^104] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
+1.1.[^106] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
 
-1.2.[^105] Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
+1.2.[^107] Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
 
 1.3. A szakkísérőnek a következő témakörökből kell vizsgát tennie:
 
@@ -96,5 +96,5 @@ Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategó
 
 4.11. A hajtott kerekekre felszerelhető hólánc.
 
-[^104]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
-[^105]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított szöveg.
+[^106]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
+[^107]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított szöveg.

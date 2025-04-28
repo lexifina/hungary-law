@@ -34,7 +34,9 @@ f) éves hozzájárulás: a hozzájárulást kérelmező által megjelölt kezd�
 
 (9)[^14] A (2) bekezdés szerint kiadott hozzájárulásban, egy vontatóból és egy pótkocsiból, vagy egy nyergesvontatóból és félpótkocsiból álló járműszerelvény esetén, egy vontató vagy nyergesvontató és legfeljebb öt pótkocsi vagy félpótkocsi szerepelhet.
 
-(10)[^15] A határozott időre szóló hozzájárulás túlméretes jármű esetében 16. § (1a) bekezdésben meghatározott méretekig, össztömeg túlsúlyos esetében 50%-nál, tengelytúllépés esetén a 10%-nál, tengelycsoport terhelés esetén 30%-nál nem nagyobb túllépés esetén adható ki.
+(9a)[^15] A 15. § (8) bekezdése szerinti járművek és járműszerelvények vonatkozásában a bejelentésben elegendő a gépjárművet feltüntetni. A járművek számának (9) bekezdés szerinti korlátozása ebben az esetben nem alkalmazható.
+
+(10)[^16] A határozott időre szóló hozzájárulás túlméretes jármű esetében 16. § (1a) bekezdésben meghatározott méretekig, össztömeg túlsúlyos esetében 50%-nál, tengelytúllépés esetén a 10%-nál, tengelycsoport terhelés esetén 30%-nál nem nagyobb túllépés esetén adható ki.
 
 [^9]: A 4. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. § (3) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -42,4 +44,5 @@ f) éves hozzájárulás: a hozzájárulást kérelmező által megjelölt kezd�
 [^12]: A 4. § (7) bekezdése az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^13]: A 4. § (8) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
 [^14]: A 4. § (9) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
-[^15]: A 4. § (10) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.
+[^15]: A 4. § (9a) bekezdését a 6/2025. (II. 27.) ÉKM rendelet 1. §-a iktatta be.
+[^16]: A 4. § (10) bekezdését az 56/2017. (XII. 27.) NFM rendelet 3. § (3) bekezdése iktatta be.

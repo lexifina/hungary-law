@@ -1,4 +1,4 @@
-19. §[^72] (1) A hozzájárulás más közútkezelő, a vasút vagy más létesítmény kezelőjének egyetértésével vagy az általuk meghatározott feltételekkel adható meg, ha a hozzájárulásban kijelölni tervezett útvonal
+19. §[^74] (1) A hozzájárulás más közútkezelő, a vasút vagy más létesítmény kezelőjének egyetértésével vagy az általuk meghatározott feltételekkel adható meg, ha a hozzájárulásban kijelölni tervezett útvonal
 
 a) a hozzájárulási kérelmet elbíráló szervezet által kezelt közúthálózaton kívüli más közútkezelő kezelésébe tartozó úthálózatot érint
 
@@ -22,4 +22,4 @@ a) attól a naptól számítandó, amikor a hozzájárulási kérelmet beadták 
 
 b) az (5) bekezdésben foglalt esetekben a hozzájárulást kérelmező által beszerzett és a hozzájárulási kérelmet elbíráló szervezet részére átadott utolsó hozzájárulás átadásának napját követő ötödik napig tart.
 
-[^72]: A 19. § az 56/2017. (XII. 27.) NFM rendelet 13. §-ával megállapított szöveg.
+[^74]: A 19. § az 56/2017. (XII. 27.) NFM rendelet 13. §-ával megállapított szöveg.

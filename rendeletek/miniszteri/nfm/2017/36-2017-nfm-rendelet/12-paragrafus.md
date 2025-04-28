@@ -1,4 +1,4 @@
-## 12. §[^44] A hozzájárulás kiadására jogosult szerv a hozzájárulás iránti igényt elutasítja, ha a túlsúlyos, illetve túlméretes jármű közlekedéséhez a hozzájárulás egyedi elbírálás alapján adható csak meg, és
+## 12. §[^45] A hozzájárulás kiadására jogosult szerv a hozzájárulás iránti igényt elutasítja, ha a túlsúlyos, illetve túlméretes jármű közlekedéséhez a hozzájárulás egyedi elbírálás alapján adható csak meg, és
 
 a) a szállítmány más közlekedési eszközzel továbbítható, és az nem jár a szállítás költségeinek aránytalan megnövekedésével,
 
@@ -8,4 +8,4 @@ c) más közútkezelő, vasútiátjáró-kezelő vagy más létesítménykezelő
 
 d) a közút alatt elhelyezett nyomvonal jellegű létesítmények vagy a közút feletti és melletti szabad tér mérete a túlsúlyos, illetve túlméretes jármű közlekedését nem teszi lehetővé.
 
-[^44]: A 12. § az 56/2017. (XII. 27.) NFM rendelet 8. §-ával megállapított szöveg.
+[^45]: A 12. § az 56/2017. (XII. 27.) NFM rendelet 8. §-ával megállapított szöveg.

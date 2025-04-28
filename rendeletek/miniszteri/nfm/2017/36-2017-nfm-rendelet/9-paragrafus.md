@@ -1,8 +1,8 @@
 ## 4. A hozzájárulás megadásának általános feltételei
 
-9. § (1)[^27] A hozzájárulást megadó szervnek a hozzájárulás megadását megelőzően meg kell győződnie arról, hogy a jármű műszakilag alkalmas a kérelemben megjelölt mértékű túlsúly-, illetve túlméret-paraméterekkel történő közlekedésre. Ennek megállapítása érdekében a hozzájárulást kérelmezőnek – kivéve a 11. § (1b) bekezdése esetén – be kell mutatnia vagy elektronikus eljárás keretében be kell csatolnia
+9. § (1)[^28] A hozzájárulást megadó szervnek a hozzájárulás megadását megelőzően meg kell győződnie arról, hogy a jármű műszakilag alkalmas a kérelemben megjelölt mértékű túlsúly-, illetve túlméret-paraméterekkel történő közlekedésre. Ennek megállapítása érdekében a hozzájárulást kérelmezőnek – kivéve a 11. § (1b) bekezdése esetén – be kell mutatnia vagy elektronikus eljárás keretében be kell csatolnia
 
-a)[^28] a jármű érvényes forgalmi engedélyét vagy elektronikus eljárás esetén annak elektronikus másolatát, vagy
+a)[^29] a jármű érvényes forgalmi engedélyét vagy elektronikus eljárás esetén annak elektronikus másolatát, vagy
 
 b) a járműhöz tartozó egyéb iratot, amellyel igazolni tudja az előírttól eltérő túlsúly-, illetve túlméret-paraméterekkel történő közlekedéshez szükséges műszaki feltételek meglétét.
 
@@ -24,5 +24,5 @@ kötheti.
 
 (6) A kíséret feltételeit a hozzájárulást megadó szerv határozza meg a hozzájárulásában, figyelemmel a 4. mellékletben foglaltakra.
 
-[^27]: A 9. § (1) bekezdés nyitó szövegrésze a 44/2023. (XII. 29.) ÉKM rendelet 3. §-a szerint módosított szöveg.
-[^28]: A 9. § (1) bekezdés a) pontja az 56/2017. (XII. 27.) NFM rendelet 20. § b) pontja szerint módosított szöveg.
+[^28]: A 9. § (1) bekezdés nyitó szövegrésze a 44/2023. (XII. 29.) ÉKM rendelet 3. §-a szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés a) pontja az 56/2017. (XII. 27.) NFM rendelet 20. § b) pontja szerint módosított szöveg.

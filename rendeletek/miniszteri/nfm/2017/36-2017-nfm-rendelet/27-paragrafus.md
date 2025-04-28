@@ -6,6 +6,6 @@
 
 (3) A (2) bekezdés szerinti hozzájárulások helyett a közútkezelő 2017. december 31-ig benyújtott kérelem esetén hatályát vesztett hozzájárulásonként egy hozzájárulást eljárásidíj-mentesen ad ki.
 
-(4)[^84]
+(4)[^86]
 
-[^84]: A 27. § (4) bekezdését az 53/2020. (XII. 23.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^86]: A 27. § (4) bekezdését az 53/2020. (XII. 23.) ITM rendelet 10. §-a hatályon kívül helyezte.
