@@ -724,7 +724,7 @@ Varga Szimeon (nemzetiségi szószóló)[^96]
 [^57]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
 [^58]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
 [^59]: Az 1/2025. (II. 25.) OGY határozat 2. pontjával megállapított szöveg.
-[^60]: A 34/2022. (VII. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^60]: A 26/2025. (IV. 30.) OGY határozat 1. pontjával megállapított szöveg.
 [^61]: A 29/2022. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^62]: A 29/2022. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^63]: A 2/2023. (III. 8.) OGY határozat 2. pontjával megállapított szöveg.
