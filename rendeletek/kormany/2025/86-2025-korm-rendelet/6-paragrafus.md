@@ -1,9 +1,5 @@
 ## 6. A közigazgatási és az ügykezelői alapvizsgáról szóló 174/2011. (VIII. 31.) Korm. rendelet módosítása
 
-6. § A közigazgatási és az ügykezelői alapvizsgáról szóló 174/2011. (VIII. 31.) Korm. rendelet
+6. §[^7]
 
-a) 9. alcím címében, 10. § (1)–(3) bekezdésében, 25. §-ában a „fogyatékkal” szövegrész helyébe a „fogyatékossággal” szöveg,
-
-b) 10. § (5) bekezdésében a „fogyatékkal” szövegrészek helyébe a „fogyatékossággal” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
