@@ -6,6 +6,6 @@
 
 ## [4] A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 27. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet 4. §-a a következő (9a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(9a) A 15. § (8) bekezdése szerinti járművek és járműszerelvények vonatkozásában a bejelentésben elegendő a gépjárművet feltüntetni. A járművek számának (9) bekezdés szerinti korlátozása ebben az esetben nem alkalmazható.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § A meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet 15. §-a a következő (8) bekezdéssel egészül ki:
+2. §[^3]
 
-„(8) Nem kell eljárási díjat és túlméretdíjat fizetni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő, az energiahatékonyság javítása érdekében aerodinamikai eszközökkel felszerelt járművek közlekedése esetén, ha a gépjárművet az üzembentartó az MK NZrt. által működtetett rendszerben rögzítette. A mentesség az MK NZrt. által működtetett rendszerben való rögzítéssel jön létre, és a rögzítés időpontjától számított egy évig hatályos, azzal, hogy az időközben bekövetkezett változásokat haladéktalanul be kell jelenteni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
