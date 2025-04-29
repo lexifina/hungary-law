@@ -1,3 +1,0 @@
-## 21. Záró rendelkezések
-
-23. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
