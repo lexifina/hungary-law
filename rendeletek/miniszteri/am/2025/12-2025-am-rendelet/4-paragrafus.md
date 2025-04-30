@@ -1,0 +1,3 @@
+4. § A 68/2020. (XII. 23.) AM rendelet 6. § (15) bekezdése helyébe a következő rendelkezés lép:
+
+„(15) A mezőgazdasági termelőnek a mezőgazdasági jövedelem-kimutatás – (7) bekezdés szerinti – módszerének megváltoztatására irányuló szándékát a tárgyévi jövedelemre vonatkozó adatszolgáltatási kötelezettség évének február 28-áig az elektronikus felületen keresztül – nyilatkozat benyújtásával – be kell jelentenie a krízisbiztosítási szerv részére. Ha a módszerváltás feltételei a (11)–(14) bekezdésre, valamint a megváltozott módszer szerinti adatszolgáltatásra figyelemmel nem teljesülnek, akkor a mezőgazdasági jövedelem-kimutatás módszere nem módosítható, amely tényről a krízisbiztosítási szerv haladéktalanul tájékoztatja a mezőgazdasági termelőt.”
