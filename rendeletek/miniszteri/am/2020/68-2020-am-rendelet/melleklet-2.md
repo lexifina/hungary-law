@@ -1,9 +1,3 @@
-## ahol:
-
-## A1+A2+….+An= az év egyes takarmányozási napjainak állatlétszám adata darabban
-
-## n= az év napjainak száma, szökőévben 366 nap
-
 2. melléklet a 68/2020. (XII. 23.) AM rendelethez
 
 A mezőgazdasági jövedelemváltozás meghatározása
@@ -16,17 +10,17 @@ MJ R átlag = Σ MJ R / 3
 
 STÉ R átlag= Σ STÉ R / 3
 
-3. Üzemméretre jutó mezőgazdasági referenciajövedelem-mutató
+3.[^69] Üzemméretre vetített mezőgazdasági referenciajövedelem-mutató
 
 MJI R = MJ R átlag / STÉ R átlag
 
-4. Üzemméretre jutó tárgyévi mezőgazdasági jövedelemmutató
+4.[^70] Üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató
 
 MJI T = MJ T / STÉ T
 
-5. Mezőgazdasági jövedelemváltozás mértéke
+5.[^71] Mezőgazdasági jövedelemváltozás mértéke
 
-MJ% = (MJI T / MJI R -1) x 100
+MJ% = (MJI T – MJI R) / ABS (MJI R) × 100,
 
 ahol:
 
@@ -36,6 +30,12 @@ T = tárgyév
 
 MJ = mezőgazdasági jövedelem
 
-MJI = üzemméretre jutó mezőgazdasági jövedelemmutató
+MJI = üzemméretre vetített mezőgazdasági jövedelemmutató
 
 STÉ (Standard Termelési Érték) = üzemméret (adott területen és adott átlagos állatállománnyal egy naptári évben folytatott mezőgazdasági tevékenységek termelési értéke)
+
+ABS = abszolút érték
+
+[^69]: A 2. melléklet 3. pontja a 12/2025. (IV. 22.) AM rendelet 14. § 22. pontja szerint módosított szöveg.
+[^70]: A 2. melléklet 4. pontja a 12/2025. (IV. 22.) AM rendelet 14. § 22. pontja szerint módosított szöveg.
+[^71]: A 2. melléklet 5. pontja a 12/2025. (IV. 22.) AM rendelet 13. § (2) bekezdésével megállapított szöveg.

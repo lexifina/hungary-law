@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-68-20-7
 | 2023-07-01 | 2020-68-20-7R.5 | 26/2023. (VI. 30.) AM rendelet |
 | 2024-02-28 | 2020-68-20-7R.6 | 7/2024. (II. 27.) AM rendelet |
 | 2024-04-10 | 2020-68-20-7R.7 | 25/2024. (IV. 9.) AM rendelet |
+| 2025-04-30 | 2020-68-20-7R.8 | 12/2025. (IV. 22.) AM rendelet |

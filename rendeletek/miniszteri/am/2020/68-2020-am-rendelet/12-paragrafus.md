@@ -2,28 +2,45 @@
 
 12. § (1) A krízisbiztosítási szerv a krízisbiztosítási adatbázisban rögzíti a krízisbiztosítási hozzájárulás befizetésére vonatkozó kötelezettségeket és a befizetési kötelezettségek teljesítését, továbbá vizsgálja a kompenzációs kérelmek jogosságát, valamint feldolgozza a kompenzációs kérelmek adatait, és azokról adatállományt készít.
 
-(2) A krízisbiztosítási szerv a jogos kompenzáció iránti igények teljesítése érdekében kifizetési tervet készít, amelyet a tárgyévet követő év szeptember 30-áig megküld a miniszter részére.
+(2)[^37] A krízisbiztosítási szerv a jogos kompenzáció iránti igények teljesítése érdekében kifizetési tervet készít, amelyet a tárgyévet követő év október 31-éig megküld a miniszter részére.
 
-(3) A (2) bekezdés szerinti kifizetési terv az alábbi adatokat tartalmazza:
+(3)[^38] A (2) bekezdés szerinti kifizetési terv az alábbi adatokat tartalmazza:
 
-a) a tagok által befizetett krízisbiztosítási hozzájárulás összege,
+a) a tagok által befizetett krízisbiztosítási hozzájárulás tárgyévet követő év május 31-éig befizetett összege,
 
-b) az önkéntes befizetések összege,
+b) az önkéntes befizetések tárgyévet követő év május 31-éig befizetett összege,
 
 c) a kompenzáció kifizetésére felhasználható vidékfejlesztési (Európai Mezőgazdasági Vidékfejlesztési Alapból és hazai forrásból származó) támogatás összege,
 
-d) a benyújtott, a jóváhagyható és a részben jóváhagyható kompenzációs kérelmek száma,
+d) az állam által a központi költségvetésből nyújtott támogatás összege,
 
-e) a jóváhagyható és a részben jóváhagyható kompenzációs kérelmekben szereplő kieső jövedelem összege,
+e) az a)–d) pontban foglaltak szerinti összegek mindenkori maradványa, beleértve a támogatás jogosulatlan igénybevétele miatt visszakövetelt krízisbiztosítási kompenzáció összegét is,
 
-f) az e) pont alapján kifizetésre javasolt kompenzáció összege [tevékenység, tagi hozzájárulás és önkéntes befizetés szerinti bontásban, a c) pont szerinti vidékfejlesztési támogatás összegének feltüntetésével],
+f) a benyújtott, valamint a benyújtott kérelmekből jóváhagyható kompenzációs kérelmek száma,
 
-g) a kifizetéssel érintett mikro-, kis- és középvállalkozásnak, valamint nagyvállalkozásnak minősülő mezőgazdasági termelők száma,
+g) a jóváhagyható kompenzációs kérelmekben szereplő kieső jövedelem összege,
 
-h) a mikro-, kis- és középvállalkozásnak, valamint a nagyvállalkozásnak minősülő mezőgazdasági termelők részére kifizetni javasolt kompenzáció összege.
+h) a g) pont alapján kifizetésre javasolt kompenzáció összege, a c) pont szerinti vidékfejlesztési támogatás összegének feltüntetésével
 
-(4) A miniszter a (2) és (3) bekezdésben foglaltak szerint összeállított és előterjesztett kifizetési tervet – egyetértése esetén – jóváhagyja, és a kifizetési terv jóváhagyásáról a tárgyévet követő év október 10-éig tájékoztatja a krízisbiztosítási szervet.
+ha) tevékenység,
 
-(5) A krízisbiztosítási szerv a kifizetési terv – (4) bekezdés szerinti – jóváhagyásáról szóló döntés kézhezvételét követően legkésőbb a tárgyévet követő év október 31-éig határozatban értesíti a mezőgazdasági termelőt a jóváhagyott kompenzáció összegéről és a forrás rendelkezésre állása esetén intézkedik annak kifizetéséről.
+hb) tagi hozzájárulás és
+
+hc) önkéntes befizetés
+
+szerinti bontásban,
+
+i) a kifizetéssel érintett mikro-, kis- és középvállalkozásnak, valamint nagyvállalkozásnak minősülő mezőgazdasági termelők száma, valamint
+
+j) a mikro-, kis- és középvállalkozásnak, valamint a nagyvállalkozásnak minősülő mezőgazdasági termelők részére kifizetni javasolt kompenzáció összege.
+
+(4)[^39] A miniszter a (2) és (3) bekezdésben foglaltak szerint összeállított és előterjesztett kifizetési tervet – egyetértése esetén – jóváhagyja, és a kifizetési terv jóváhagyásáról a tárgyévet követő év november 15-éig tájékoztatja a krízisbiztosítási szervet.
+
+(5)[^40] A krízisbiztosítási szerv a kifizetési terv – (4) bekezdés szerinti – jóváhagyásáról szóló döntés kézhezvételét követően legkésőbb a tárgyévet követő év december 15-éig határozatban értesíti a mezőgazdasági termelőt a jóváhagyott kompenzáció összegéről és a forrás rendelkezésre állása esetén intézkedik annak kifizetéséről.
 
 (6) A mezőgazdasági termelő a tárgyévben részére megállapított kompenzációra abban az esetben jogosult, ha annak összege legalább tízezer forint.
+
+[^37]: A 12. § (2) bekezdése a 12/2025. (IV. 22.) AM rendelet 14. § 11. pontja szerint módosított szöveg.
+[^38]: A 12. § (3) bekezdése a 12/2025. (IV. 22.) AM rendelet 8. §-ával megállapított szöveg.
+[^39]: A 12. § (4) bekezdése a 12/2025. (IV. 22.) AM rendelet 14. § 12. pontja szerint módosított szöveg.
+[^40]: A 12. § (5) bekezdése a 12/2025. (IV. 22.) AM rendelet 14. § 13. pontja szerint módosított szöveg.

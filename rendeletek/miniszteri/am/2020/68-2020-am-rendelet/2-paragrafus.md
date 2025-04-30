@@ -1,6 +1,6 @@
-2. § (1) A mezőgazdasági termelőnek a krízisbiztosítási rendszerhez történő csatlakozása évének február 1-jétől február 28-áig az elektronikus űrlapkitöltő felületen, az ott szereplő termékkör szerinti bontásban, – a (9) bekezdés szerint csatolt igazolásokra is figyelemmel – meg kell adnia
+2. § (1)[^12] A mezőgazdasági termelőnek a krízisbiztosítási rendszerhez történő csatlakozása évének február 1-jétől február 28-áig az elektronikus felületen, az ott szereplő termékkör szerinti bontásban, – a (9) bekezdés szerint csatolt igazolásokra is figyelemmel – meg kell adnia
 
-a) a csatlakozás évét megelőző harmadik és második évek tekintetében
+a)[^13] a csatlakozás évét megelőző harmadik és második évek tekintetében, az 1. § (9) bekezdése szerinti mezőgazdasági termékek vonatkozásában
 
 aa) az egységes kérelemben bejelentett területre vonatkozó, (2) bekezdés a)–c) pontja szerinti adatokat,
 
@@ -8,21 +8,17 @@ ab) az egységes kérelemben be nem jelentett, üveg-, fólia-, gombaházban, il
 
 ac) az éves átlagos állatállományi létszámra vonatkozó, (2) bekezdés d) pontja szerinti adatokat,
 
-ad) a termelő 6. § (7) bekezdése szerinti jövedelem-kimutatásának megfelelő, 6. § (8)–(10) bekezdése szerinti mezőgazdasági jövedelemadatokat,
+ad)[^14] a termelő 6. § (7) bekezdése szerinti jövedelem-kimutatásának megfelelő, 6. § (8)–(10) bekezdése szerinti mezőgazdasági jövedelemadatokat, és
 
 ae) a (3) bekezdés szerinti adatokat tartalmazó készletnyilvántartást, ha a mezőgazdasági termelő a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számv. tv.) szerinti készletnyilvántartás vezetésére nem kötelezett;
 
-b) a csatlakozás évét megelőző év tekintetében
+b)[^15]
 
-ba) az egységes kérelemben bejelentett területre vonatkozó, (2) bekezdés a)–c) pontja szerinti adatokat,
+c)[^16] az 1. § (10) bekezdése szerinti benyújtás esetén az őstermelők családi gazdaságának nyilvántartási számát, tagjainak családi és utónevét, születési családi és utónevét, ügyfél-azonosítóját és az élelmiszerlánc-felügyeleti információs rendszerben (FELIR) nyilvántartott azonosítóját.
 
-bb) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területre vonatkozó, (2) bekezdés a)–c) pontja szerinti adatokat.
+(2)[^17] A mezőgazdasági termelőnek az (1) bekezdés a) pont aa)–ac) alpontjában foglaltak alapján az alábbi gazdálkodási adatokat kell megadnia:
 
-c)[^5] az őstermelők családi gazdaságának nyilvántartási számát, tagjainak családi és utónevét, születési családi és utónevét, ügyfél-azonosítóját és az élelmiszerlánc-felügyeleti információs rendszerben (FELIR) nyilvántartott azonosítóját.
-
-(2) A mezőgazdasági termelőnek az (1) bekezdés a) pont aa)–ac) alpontjában, valamint b) pontjában foglaltak alapján az alábbi gazdálkodási adatokat kell megadnia:
-
-a) hasznosítási kód, hasznosítási kategória megnevezése,
+a)[^18] a növénykultúra növényfaj vagy növényfajta szerinti, az egységes kérelemhez kiadott hasznosítási kód alapján történő megnevezése, valamint a termesztés – termesztőberendezéses, illetve szaporítóanyag-célú – típusa,
 
 b) fővetésre vonatkozó adatok [területméret (hektár), hozam (tonna/hektár), hozamkiesés oka, hozamkiesés mértéke (%)],
 
@@ -38,27 +34,25 @@ b) mezőgazdasági haszonállatokra vonatkozó adatok [faj megnevezés korcsopor
 
 c) állati termékre vonatkozó adatok [megnevezés, nyitó- és zárókészlet mennyisége (liter/kilogramm/darab), megtermelt és értékesített mennyiség (liter/kilogramm/darab), értékesítés nettó árbevétele (forint), üzemi belső felhasználás mennyisége (liter/kilogramm/darab), veszteség (liter/kilogramm/darab), saját célú fogyasztásra szánt mennyiség (liter/kilogramm/darab)].
 
-(4) A mezőgazdasági termelőnek tárgyév május 2-ától május 31-éig – a (9) bekezdés szerint csatolt igazolásokra is figyelemmel – az elektronikus űrlapkitöltő felületen meg kell adnia a tárgyévet megelőző év tekintetében
+(4)[^19] A mezőgazdasági termelőnek a krízisbiztosítási rendszerhez történő csatlakozása évében és az azt követő években évente egy alkalommal, tárgyév május 15-étől június 15-éig – a (9) bekezdés szerint csatolt igazolásokra is figyelemmel – az éves kötelező adatszolgáltatás részeként az elektronikus felületen meg kell adnia a krízisbiztosítási kompenzációval érintett évet (a továbbiakban: tárgyév) megelőző év tekintetében
 
-a) az éves átlagos állatállományi létszámra vonatkozó, (2) bekezdés d) pontja szerinti adatokat,
+a) az egységes kérelemben bejelentett területre vonatkozó, (2) bekezdés a)–c) pontja szerinti adatokat,
 
-b) a termelő 6. § (7) bekezdése szerinti jövedelem-kimutatásának megfelelő, 6. § (8)–(10) bekezdése szerinti mezőgazdasági jövedelemadatokat,
+b) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területre vonatkozó, (2) bekezdés a)–c) pontja szerinti adatokat,
 
-c) a (3) bekezdés szerinti adatokat tartalmazó készletnyilvántartást, ha a mezőgazdasági termelő a Számv. tv. szerinti készletnyilvántartás vezetésére nem kötelezett.
+c) az éves átlagos állatállományi létszámra vonatkozó, (2) bekezdés d) pontja szerinti adatokat,
 
-(5) A mezőgazdasági termelőnek tárgyév július 1-jétől július 31-éig – a (9) bekezdés szerint csatolt igazolásokra is figyelemmel – az elektronikus űrlapkitöltő felületen meg kell adnia a tárgyév tekintetében
+d) a termelő 6. § (7) bekezdése szerinti jövedelem-kimutatásának megfelelő, 6. § (8)–(10) bekezdése szerinti mezőgazdasági jövedelemadatokat és
 
-a) az egységes kérelemben bejelentett területre,
+e) a (3) bekezdés szerinti adatokat tartalmazó készletnyilvántartást, ha a mezőgazdasági termelő a Számv. tv. szerinti készletnyilvántartás vezetésére nem kötelezett.
 
-b) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területre
+(5)[^20]
 
-vonatkozó, a (2) bekezdés a)–c) pontjában meghatározott adatokat azzal, hogy a fővetés hozamára, a hozamkiesés okára, mértékére, valamint a másodvetés területének méretére, hozamára, a hozamkiesés okára és mértékére vonatkozó adatokat a tárgyévet követő év május 31-éig kell megadnia.
+(6)[^21] Az éves átlagos állatállományi létszámot az 1. melléklet szerinti számítás alapján
 
-(6) Az éves átlagos állatállományi létszámot az 1. melléklet szerinti számítás alapján
+a) az 1. melléklet 3. pontja szerinti állatok esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által kezelt Egységes Nyilvántartási és Azonosítási Rendszerben (a továbbiakban: ENAR) és a Baromfi Információs Rendszerben rögzített,
 
-a) szarvasmarha, tenyészsertés, anyajuh, tenyészkos, anyakecske, tenyésztyúk, tenyészkacsa, tenyészpulyka és tenyészliba tekintetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által kezelt Egységes Nyilvántartási és Azonosítási Rendszerben (a továbbiakban: ENAR) és a Baromfi Információs Rendszerben rögzített,
-
-b) malac (választásig), hízósertés, bárány (hat hónapos korig), növendék juh, egyéb juh, egyéb kecske, napos csibe, napos kacsa, napos pulyka, napos liba, növendék jérce, növendék kacsa, növendék pulyka, növendék liba, hízócsirke, hízókacsa, hízópulyka, hízóliba, tojótyúk, anyanyúl, egyéb nyúl, és méhcsalád tekintetében a hatósági állatorvos által kiadott igazolás alapján a termelő által szolgáltatott
+b) az 1. melléklet 4. pontja szerinti állatok esetében a hatósági állatorvos által kiadott igazolás alapján a termelő által szolgáltatott
 
 létszámadatok figyelembevételével kell meghatározni.
 
@@ -72,15 +66,25 @@ c) a mezőgazdasági haszonállat éves átlaglétszáma korcsoport szerinti bon
 
 (8) A (6) bekezdés b) pontja szerint igazolt éves átlagos állatállományi létszám – 1. melléklet 2. pontja szerinti – meghatározása során a takarmányozási napokat kell figyelembe venni. Erre vonatkozó termelői adat hiányában az állatállományi létszámot úgy kell meghatározni, hogy a kibocsátott (megtermelt) darabszámot el kell osztani az üzemben jellemző termelési ciklusok mennyiségével.
 
-(9)[^6] A mezőgazdasági termelő az (1) bekezdés a) pont ab), ac) alpontja és b) pont bb) alpontja, c) pontja, a (4) bekezdés a) pontja és az (5) bekezdés b) pontja szerinti adatszolgáltatás teljesítésével egyidejűleg csatolja
+(9)[^22] A mezőgazdasági termelő csatolja
 
-a) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területek (2) bekezdés a) és b) pontja szerinti adataira vonatkozó, a Nemzeti Agrárgazdasági Kamara (a továbbiakban: NAK) – (10) bekezdés szerint kiállított – igazolását,
+a) az (1) bekezdés szerinti csatlakozási kérelem benyújtásával egyidejűleg a csatlakozás évét megelőző harmadik és második évek tekintetében
 
-b) a (6) bekezdés b) pontja szerinti hatósági állatorvosi igazolást, illetve
+aa) az (1) bekezdés a) pont ab) alpontja szerinti adat megadása esetén a nyilatkozatát az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területek vonatkozásában, amely tartalmazza az ügyfél-azonosítóját, a (2) bekezdés a) pontja szerinti adatokat és a termesztőberendezés területét − hektárban megadva −,
 
-c) az őstermelők családi gazdaságának alapításáról szóló szerződést.
+ab) az (1) bekezdés a) pont ac) alpontja szerinti adat megadása esetén a (6) bekezdés b) pontja szerinti hatósági állatorvosi igazolást, illetve
 
-(10) A NAK a (9) bekezdés a) pontja szerinti, a mezőgazdasági termelő ügyfél-azonosítóját is tartalmazó igazolást, helyszíni ellenőrzés alapján állítja ki. Az igazolás kiállítása érdekében a mezőgazdasági termelőnek az (1), (4) és (5) bekezdésben meghatározott határidők utolsó napját legalább harminc nappal megelőzően a NAK részére elektronikus úton megkeresést kell küldenie.
+ac) az 1. § (10) bekezdése szerinti benyújtás esetén az őstermelők családi gazdaságának alapításáról szóló szerződést,
+
+b) a (4) bekezdés szerinti adatszolgálás teljesítésével egyidejűleg, de kizárólag a csatlakozás évében, a csatlakozás évét megelőző év vonatkozásában, az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területek vonatkozásában a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) – (10) bekezdés szerint kiállított – igazolását, illetve
+
+c) a (4) bekezdés szerinti adatszolgálás teljesítésével egyidejűleg, a krízisbiztosítási rendszerhez történő csatlakozása évében és az azt követő években évente, a (4) bekezdés c) pontja szerinti adat megadása esetén a (6) bekezdés b) pontja szerinti hatósági állatorvosi igazolást.
+
+(10)[^23] A NAK a mezőgazdasági termelőnek a NAK részére a csatlakozás évét megelőző év november 31-éig elektronikus úton küldött megkeresésére, helyszíni ellenőrzés alapján állítja ki a (9) bekezdés b) pontja szerinti igazolást, amely tartalmazza
+
+a) a mezőgazdasági termelő ügyfél-azonosítóját és
+
+b) a (2) bekezdés a) pontja szerinti adatokat, valamint a termesztőberendezés területét hektárban meghatározva.
 
 (11) A mezőgazdasági termelő a csatlakozási kérelem benyújtásával kötelezettséget vállal arra, hogy
 
@@ -92,8 +96,18 @@ c) a (3) bekezdés szerinti adatokat tartalmazó készletnyilvántartást vezet.
 
 (12) A mezőgazdasági termelőnek a csatlakozás évét megelőző három lezárt év vonatkozásában is rendelkeznie kell a (11) bekezdés szerinti adatok alátámasztására és ellenőrzésére alkalmas kimutatásokkal.
 
-(13)[^7] Ha a mezőgazdasági termelő az (1)–(5) bekezdésben foglalt adatszolgáltatási kötelezettségét hiányosan teljesíti, akkor a krízisbiztosítási szerv hiánypótlásra szólítja fel.
+(13)[^24] Ha a mezőgazdasági termelő az (1) bekezdésben foglalt adatszolgáltatási kötelezettségét hibásan vagy hiányosan teljesíti, illetve a (4) bekezdésben foglalt éves, kötelező adatszolgáltatási kötelezettségét hibásan, hiányosan vagy egyáltalán nem teljesíti, a krízisbiztosítási szerv a Támogatási törvény 41. §-a alapján hiánypótlásra szólítja fel.
 
-[^5]: A 2. § (1) bekezdés c) pontját a 3/2022. (I. 28.) AM rendelet 2. § (1) bekezdése iktatta be.
-[^6]: A 2. § (9) bekezdése a 3/2022. (I. 28.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (13) bekezdése a 3/2022. (I. 28.) AM rendelet 4. §-a szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés nyitó szövegrésze a 12/2025. (IV. 22.) AM rendelet 14. § 2. pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés a) pont nyitó szövegrésze a 12/2025. (IV. 22.) AM rendelet 14. § 3. pontja szerint módosított szöveg.
+[^14]: A 2. § (1) bekezdés a) pont ad) alpontja a 12/2025. (IV. 22.) AM rendelet 14. § 4. pontja szerint módosított szöveg.
+[^15]: A 2. § (1) bekezdés b) pontját a 12/2025. (IV. 22.) AM rendelet 15. § c) pontja hatályon kívül helyezte.
+[^16]: A 2. § (1) bekezdés c) pontját a 3/2022. (I. 28.) AM rendelet 2. § (1) bekezdése iktatta be, szövege a 12/2025. (IV. 22.) AM rendelet 14. § 5. pontja szerint módosított szöveg.
+[^17]: A 2. § (2) bekezdés nyitó szövegrésze a 12/2025. (IV. 22.) AM rendelet 14. § 6. pontja szerint módosított szöveg.
+[^18]: A 2. § (2) bekezdés a) pontja a 12/2025. (IV. 22.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^19]: A 2. § (4) bekezdése a 12/2025. (IV. 22.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. § (5) bekezdését a 12/2025. (IV. 22.) AM rendelet 15. § d) pontja hatályon kívül helyezte.
+[^21]: A 2. § (6) bekezdése a 12/2025. (IV. 22.) AM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^22]: A 2. § (9) bekezdése a 12/2025. (IV. 22.) AM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^23]: A 2. § (10) bekezdése a 12/2025. (IV. 22.) AM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^24]: A 2. § (13) bekezdése a 12/2025. (IV. 22.) AM rendelet 2. § (5) bekezdésével megállapított szöveg.
