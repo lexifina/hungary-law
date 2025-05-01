@@ -20,11 +20,11 @@ meghaladja.
 
 (5) A referencia készítmény ATC-csoport besorolása alapján az ESZCSM rendelet 1. számú melléklete szerinti, az adott hatóanyagot tartalmazó ATC-csoportra megállapított százalékos támogatásban részesül. A referencia készítmény – referencia státusz megszerzésekori – közfinanszírozás alapjául elfogadott ára az adott csoportban a referencia ár. A referencia árnál alacsonyabb napi terápiás költségű gyógyszerek támogatásának mértéke megegyezik a referencia árhoz nyújtott százalékos támogatás mértékével.
 
-(6)[^17] A naptári negyedévente megképezésre kerülő, hatóanyag-alapú fix csoportok esetében lefolytatott fixesítési eljárás során képzett támogatási csoportba tartozó, a referenciaárnál magasabb napi terápiás költségű gyógyszerek támogatása a referenciaárhoz nyújtott támogatás fix összege.
+(6)[^20] A naptári negyedévente megképezésre kerülő, hatóanyag-alapú fix csoportok esetében lefolytatott fixesítési eljárás során képzett támogatási csoportba tartozó, a referenciaárnál magasabb napi terápiás költségű gyógyszerek támogatása a referenciaárhoz nyújtott támogatás fix összege.
 
-(7)[^18] A naptári félévente megképezésre kerülő, hatóanyag-alapú fix csoportok esetében lefolytatott fixesítési eljárás szerinti eljárás során képzett támogatási csoportba tartozó, a referenciagyógyszer napi terápiás költségét legfeljebb 20%-kal meghaladó napi terápiás költségű gyógyszer támogatása a referenciaárhoz nyújtott támogatás fix összege.
+(7)[^21] A naptári félévente megképezésre kerülő, hatóanyag-alapú fix csoportok esetében lefolytatott fixesítési eljárás szerinti eljárás során képzett támogatási csoportba tartozó, a referenciagyógyszer napi terápiás költségét legfeljebb 20%-kal meghaladó napi terápiás költségű gyógyszer támogatása a referenciaárhoz nyújtott támogatás fix összege.
 
-(8)[^19] A naptári félévente megképezésre kerülő, hatóanyag-alapú fix csoportok esetében lefolytatott fixesítési eljárás során meghatározott, napi terápiás költségük alapján preferált referencia-ársávba nem tartozó készítmények társadalombiztosítási támogatásának számítása a támogatási kategória változatlanul hagyása mellett az (5) és (7) bekezdés szerinti számítási módszerrel, de a referenciagyógyszer árához nyújtott támogatás összegénél 15%-kal alacsonyabb támogatási összeg alkalmazásával kerül megállapításra.
+(8)[^22] A naptári félévente megképezésre kerülő, hatóanyag-alapú fix csoportok esetében lefolytatott fixesítési eljárás során meghatározott, napi terápiás költségük alapján preferált referencia-ársávba nem tartozó készítmények társadalombiztosítási támogatásának számítása a támogatási kategória változatlanul hagyása mellett az (5) és (7) bekezdés szerinti számítási módszerrel, de a referenciagyógyszer árához nyújtott támogatás összegénél 15%-kal alacsonyabb támogatási összeg alkalmazásával kerül megállapításra.
 
 (9) A referencia készítmény az a meghatározott fix támogatási csoportba tartozó gyógyszer,
 
@@ -36,16 +36,16 @@ c) amelynek az adott csoportba tartozó gyógyszerek közül a bruttó fogyaszt�
 
 d) amelynek a kiszerelési formája a támogatás alapját képező indikációt tekintve nem haladja meg az érvényes alkalmazási előírásában meghatározott egy havi terápiához szükséges, a maximális dózissal számolt mennyiséget vagy ahhoz legközelebb álló csomagolási egységet, kivéve azon csoportok esetében, ahol az egy havi terápiához szükséges mennyiséget meghaladó csomagolási egységek DOT-ban mért forgalma meghaladja a csoport DOT forgalmának 60%-át, és
 
-e)[^20] amelynek a csoporton belüli forgalmi részesedése a naptári negyedévente megképezésre kerülő hatóanyag-alapú fix csoportok esetében megindult fixesítési eljárás kezdőnapját megelőző hét hónapon belül – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – a DOT tekintetében legalább két egymást követő hónapban az 3%-ot, a naptári félévente megképezésre kerülő hatóanyag-alapú fix csoportok esetében megindult eljárásban az 5%-ot elérte.
+e)[^23] amelynek a csoporton belüli forgalmi részesedése a naptári negyedévente megképezésre kerülő hatóanyag-alapú fix csoportok esetében megindult fixesítési eljárás kezdőnapját megelőző hét hónapon belül – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – a DOT tekintetében legalább két egymást követő hónapban az 3%-ot, a naptári félévente megképezésre kerülő hatóanyag-alapú fix csoportok esetében megindult eljárásban az 5%-ot elérte.
 
 (10) A referencia készítmény vagy a referencia ár meghatározásánál, illetve a forgalmi részesedés megállapításánál nem kerülnek beszámításra a nem egyenértékű, illetve a nyilvántartásból törölt készítmények. Ha ezen készítmények napi terápiás költsége a referencia készítmény napi terápiás költségénél magasabb, a referencia készítmény napi terápiás költségéhez rendelt támogatási összeg kerül megállapításra, ellenkező esetben ezen készítmények a referencia készítmény támogatásának százalékos mértékét kapják.
 
 (11) Ha a referencia készítmény forgalomba hozatali engedélyének jogosultja a megrendeléseket bizonyítottan, egy hónapon keresztül nem tudja teljesíteni, a NEAK a készítményt a társadalombiztosítási támogatásból kizárja, és az adott készítmény a következő referencia ár meghatározását követő kilenc hónapban nem részesíthető társadalombiztosítási támogatásban.
 
-(12)[^21] A NEAK a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 25. napjáig a honlapján közzéteszi.
+(12)[^24] A NEAK a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 25. napjáig a honlapján közzéteszi.
 
-[^17]: A 13. § (6) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^18]: A 13. § (7) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 378/2021. (VI. 30.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^19]: A 13. § (8) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^20]: A 13. § (9) bekezdés e) pontja a 110/2019. (V. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 378/2021. (VI. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^21]: A 13. § (12) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^20]: A 13. § (6) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^21]: A 13. § (7) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 378/2021. (VI. 30.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^22]: A 13. § (8) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^23]: A 13. § (9) bekezdés e) pontja a 110/2019. (V. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 378/2021. (VI. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: A 13. § (12) bekezdése a 110/2019. (V. 14.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-22/A. §[^29] (1) A NEAK hivatalból eljárást folytat le a tételes elszámolás alá eső hatóanyagot tartalmazó biológiai gyógyszerek és hasonló biológiai gyógyszerek támogatásának felülvizsgálatára, amelynek eredményeképpen átsorolhatja azokat az árhoz nyújtott támogatással rendelhető gyógyszerek körébe. A NEAK hivatalból folytatott eljárása kiterjed azon biológiai gyógyszerekre is, amelyek a tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszerek közül kerültek korábban az árhoz nyújtott támogatással rendelhető gyógyszerek közé.
+22/A. §[^32] (1) A NEAK hivatalból eljárást folytat le a tételes elszámolás alá eső hatóanyagot tartalmazó biológiai gyógyszerek és hasonló biológiai gyógyszerek támogatásának felülvizsgálatára, amelynek eredményeképpen átsorolhatja azokat az árhoz nyújtott támogatással rendelhető gyógyszerek körébe. A NEAK hivatalból folytatott eljárása kiterjed azon biológiai gyógyszerekre is, amelyek a tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszerek közül kerültek korábban az árhoz nyújtott támogatással rendelhető gyógyszerek közé.
 
 (2) A NEAK az (1) bekezdés szerinti eljárást minden év július 1-jével indítja meg, amelynek keretében meghatározza az adott év szeptember 1-jétől egy éven keresztül érvényes, a (3) bekezdésben foglaltak szerint meghatározott, az ESzCsM rendelet 2. számú mellékletében a kiemelt EÜ100 77. indikációs pont alatt megképzett alpontokon írható gyógyszerek körét és a csoportba tartozó készítmények támogatását. Azok a gyógyszerek kerülhetnek egy csoportba, amelyek azonos kétszintű háromjegyű ATC-csoportba tartoznak, és amely gyógyszereknek van azonos indikációja.
 
@@ -76,4 +76,4 @@ b) besorolja azokat a készítményeket, amelyeknek a terápiás költsége az a
 
 (15) Az eljárást lezáró döntésben a finanszírozás kezdőnapjaként az adott év szeptember 1. napját kell kijelölni.
 
-[^29]: A 22/A. §-t a 363/2022. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
+[^32]: A 22/A. §-t a 363/2022. (IX. 23.) Korm. rendelet 2. §-a iktatta be.
