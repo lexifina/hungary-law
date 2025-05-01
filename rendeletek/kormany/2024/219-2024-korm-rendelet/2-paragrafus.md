@@ -1,3 +1,5 @@
-2. §[^2]
+## „j) bármely járási hivatal és a kijelölt kormányhivatal, ha a korábban kiadott igazolványt a polgár elvesztette, az megsemmisült, azt eltulajdonították, vagy megrongálódása miatt használhatatlanná vált, az új hatósági igazolvány kiállításával”
 
-[^2]: A 2. § a 9. § (3) bekezdése alapján 2025. május 1-jén lép hatályba.
+## (kapcsolatos eljárásban.)
+
+2. § Hatályát veszti az R1. 19. § (1) és (1a) bekezdése.
