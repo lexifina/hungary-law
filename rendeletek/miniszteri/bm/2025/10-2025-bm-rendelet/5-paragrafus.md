@@ -1,29 +1,22 @@
 5. § Hatályát veszti a 9/1993. (IV. 2.) NM rendelet
 
-a)[^5]
+a) 1. számú melléklet 23. és 27. pontja;
 
-b)[^6]
+b) 2. számú melléklet „A járóbeteg-szakellátás tevékenységi kódjai” megjelölésű rész „13412”, „54287”, „54902” és „59542” megjelölésű sora;
 
-c)[^7]
+c) 2. számú melléklet „A járóbeteg-szakellátásban használt index/* jelzésű eljárások az alábbi intézetekben végezhetők, a szakmai feltételektől és igényektől függően a NEAK-kal kötött szerződésben meghatározott mennyiségi korlátozással” megjelölésű rész 56/a. pontjában a „2137” és a „2880” megjelölésű sora;
 
-d)[^8]
+d)[^3]
 
-e)[^9]
+e) 4. számú melléklet 94/g., 94/h., 94/i., 94/j., 94/k. pont „2880” és „2137” megjelölésű sora;
 
-f)[^10]
+f) 4. számú melléklet 122/i. pontja;
 
-g)[^11]
+g)[^4]
 
-h)[^12]
+h) 9. számú melléklet I. pontjában foglalt táblázat 256. és 265. sora, valamint III. pontjában foglalt táblázat 318. és 327. sora;
 
-i)[^13]
+i) 9/a. számú mellékletében foglalt táblázat „54902” és „54935” megjelölésű sora.
 
-[^5]: Az 5. § a) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
-[^6]: Az 5. § b) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
-[^7]: Az 5. § c) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
-[^8]: Az 5. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 5. § e) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
-[^10]: Az 5. § f) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
-[^11]: Az 5. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: Az 5. § h) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
-[^13]: Az 5. § i) pontja a 34. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
+[^3]: Az 5. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

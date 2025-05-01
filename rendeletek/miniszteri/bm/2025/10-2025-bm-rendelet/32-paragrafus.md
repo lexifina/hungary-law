@@ -1,25 +1,25 @@
 32. § A 23/2012. (IX. 14.) EMMI rendelet
 
-1.[^37]
+1.[^24]
 
-2.[^38]
+2.[^25]
 
-3.[^39]
+3.[^26]
 
-4.[^40]
+4.[^27]
 
-5.[^41]
+5.[^28]
 
-6.[^42]
+6.[^29]
 
-7.[^43]
+7.[^30]
 
 lép.
 
-[^37]: A 32. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^38]: A 32. § 2. pontja a 34. § (3) bekezdése alapján 2025. május 5-én lép hatályba.
-[^39]: A 32. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 32. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 32. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 32. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 32. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 32. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 32. § 2. pontja a 34. § (3) bekezdése alapján 2025. május 5-én lép hatályba.
+[^26]: A 32. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 32. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 32. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 32. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 32. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
