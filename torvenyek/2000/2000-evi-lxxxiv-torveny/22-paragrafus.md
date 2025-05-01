@@ -2,4 +2,4 @@
 
 (2) A munkáltató az általa tett intézkedés közlése mellett köteles a Kamarát értesíteni, amennyiben a kamarai tag olyan magatartást tanúsít, amely – véleménye szerint – a törvényben meghatározott szakmai vagy etikai vétséget valósítja meg.
 
-(3) A területi szervezet etikai-fegyelmi bizottsága a továbbiakban a jogerős fegyelmi döntés alapján az (1) bekezdés hatálya alá nem tartozó személyekre irányadó szabályok szerint jár el. Amennyiben a munkáltató nem hivatalvesztés, illetve elbocsátás fegyelmi büntetést alkalmazott a kamarai taggal szemben, a 26. § (1) bekezdés c)–d) pontjaiban szereplő fegyelmi büntetések nem alkalmazhatóak.
+(3) A területi szervezet etikai-fegyelmi bizottsága a fegyelmi eljárást az (1) bekezdés szerinti tájékoztatást és a (2) bekezdés szerinti értesítést követően a 23. §-ban foglaltak szerint folytatja le.

@@ -14,13 +14,13 @@ d) az éves költségvetésének és a költségvetés végrehajtásáról szól
 
 e) a kamarai tagsági díj bevételének a területi szervezet és országos szervezet közötti megosztása arányának elfogadása.
 
-(3) A Kamara hatáskörébe tartozik minden olyan ügy, amit a törvény vagy az Alapszabály a küldöttközgyűlés hatáskörébe utal.
+(3) A hatáskörébe tartozik minden olyan ügy, amit a törvény vagy az Alapszabály a hatáskörébe utal.
 
 (4) A küldöttközgyűlés tagjai:
 
 a) minden területi szervezet tagjai által delegált öt fő – négy évre megválasztva – szavazati joggal; továbbá
 
-b) az Alapszabályban meghatározott kamarai országos tisztségviselők.
+b) az Alapszabályban meghatározott kamarai országos tisztségviselők tanácskozási joggal.
 
 (5) A küldöttközgyűlés összehívására a 4. § (4) bekezdésében foglaltak értelemszerűen irányadók azzal, hogy a területi vezetőség alatt az elnökséget, a területi szervezet tagjai alatt a küldöttközgyűlés tagjait kell érteni.
 

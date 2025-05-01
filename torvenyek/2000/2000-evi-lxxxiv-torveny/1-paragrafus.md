@@ -4,17 +4,17 @@
 
 1. § (1) A Magyar Növényvédő Mérnöki–Növényorvosi Kamara (a továbbiakban: Kamara) a növényvédő mérnökök–növényorvosok közfeladatokat ellátó szakmai és önkormányzati köztestülete.
 
-(2) A Kamara feladatait:
+(2) A Kamara
 
-a) a vármegyékben és a fővárosban működő területi szervezetei (a továbbiakban: területi szervezet), valamint
+a) országos szervezettel, valamint
 
-b) országos szervezete
+b) a vármegyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
 
-útján látja el.
+rendelkezik.
 
 (3) A Kamara tagjai a Kamara Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint, a területi szervezeteken belül helyi csoportokat alakíthatnak, amelyek ellátják az Alapszabályban, illetve (2) bekezdésben meghatározott szervezetek által átruházott kamarai feladatokat.
 
-(4) A Kamara országos szervezete és területi szervezetei jogi személyek.
+(4) A Kamara jogi személyiséggel rendelkezik.
 
 (5) A területi szervezet elnevezésben utalni kell annak működési területére.
 

@@ -2,7 +2,7 @@
 
 (2) A vezetőségbe tisztségviselőként elnököt, egy alelnököt, valamint egy titkárt és – az Alapszabályban meghatározott számú – vezetőségi tagot kell választani.
 
-(3) A területi szervezetet az elnök, akadályoztatása esetén az alelnök képviseli. A titkár az Alapszabályban meghatározott feladatokat látja el.
+(3) A területi szervezetet az elnök, akadályoztatása esetén az alelnök képviseli. A titkár ellátja a 2. § (5a) bekezdése, a 26. § (2) bekezdése szerinti, valamint az Alapszabályban meghatározott feladatokat.
 
 (4) Az Alapszabály a (2) bekezdésben felsoroltakon kívül más tisztségviselő választását is kötelezővé teheti.
 

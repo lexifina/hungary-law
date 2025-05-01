@@ -58,6 +58,6 @@ b) a 2. § (3) bekezdés c), p) és q) pontja szerinti eljárása
 
 során.
 
-(5a) Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az országos szervezet jogosult.
+(5a) Az (5) bekezdés szerinti eljárásokat első fokon a titkár folytatja le. A titkár döntése ellen fellebbezésnek van helye, amelynek elbírálására a főtitkár jogosult.
 
 (6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve kiadmányozási jog felhatalmazottja csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A kiadmányozási jog felhatalmazottjára és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.

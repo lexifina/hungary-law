@@ -2,15 +2,15 @@
 
 (2) Az elnökség kizárólagos hatáskörébe tartozik:
 
-a) a küldöttközgyűlés ülésének összehívása;
+a) a Kamara általános képviselete;
 
-b) a 17. § (4) bekezdésében, illetőleg a 19. § (4) bekezdésében meghatározott fellebbezések elbírálása;
+b) a küldöttközgyűlés ülésének összehívása;
 
-c) a 2. §-ban szabályozott véleményezési jog gyakorlása;
+c) két küldöttközgyűlés közötti időben a Kamara operatív tevékenységének szervezése és irányítása;
 
 d) jogszabály alapján, illetve az Alapszabály által meghatározott egyéb kamarai feladatok ellátása.
 
-(3) A 2. §-ban szabályozott véleményezési jog gyakorlását, valamint a 10. § (2) bekezdésében megjelölt, az elnökség kizárólagos hatáskörébe tartozó hatáskörök gyakorlását a küldöttközgyűlés magához vonhatja, illetve azok gyakorlásának módjára utasítást adhat.
+(3)
 
 (4) Az elnökség szükség szerint, de legalább három havonta ülésezik. Az Alapszabály az elnökség kötelező összehívásának egyéb eseteit is meghatározhatja.
 
@@ -20,4 +20,16 @@ d) jogszabály alapján, illetve az Alapszabály által meghatározott egyéb ka
 
 (7) Az országos szervezetet az elnök, akadályoztatása esetén – az Alapszabályban meghatározott körben – az alelnök képviseli.
 
-(8) A főtitkár az Alapszabályban meghatározott körben képviseli az országos szervezetet, továbbá ellátja az Alapszabályban meghatározott feladatokat.
+(8) A főtitkár
+
+a) az Alapszabályban meghatározott körben képviseli az országos szervezetet,
+
+b) irányítja a vármegyei titkárok munkáját,
+
+c) elbírálja a 2. § (5a) bekezdése szerinti fellebbezéseket és határozatot hoz a 26. § (2) bekezdése szerint,
+
+d) gyakorolja a 2. §-ban szabályozott véleményezési jogot, valamint
+
+e) ellátja az Alapszabályban meghatározott feladatokat.
+
+(9) A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet. A főtitkár felett a munkáltatói jogokat az országos szervezet elnöke gyakorolja.

@@ -4,8 +4,8 @@
 
 ## A területi szervezet
 
-3. § (1) Valamennyi vármegyében és a fővárosban képviseleti, ügyintéző szervekkel, valamint önálló költségvetéssel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri.
+3. § (1) Az Alapszabályban meghatározott területen és székhelyen képviseleti és ügyintéző szervekkel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri. A területi szervezet területe összefüggő, legalább egy vármegye (vagy a főváros) területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet. A Kamara küldöttközgyűlése négyötödös szavazattöbbséggel meghozott határozatával jogosult területi szervezeteket megszüntetni, összevonni, amennyiben a kamarai szervezet működése azt indokolja.
 
-(2) A területi szervezet ellátja a jogszabályban és az Alapszabályban hatáskörébe utalt feladatokat.
+(2) A területi szervezet ellátja az e törvényben és az Alapszabályban hatáskörébe utalt feladatokat.
 
-(3) A területi szervezeten belül az Alapszabály szerint a területi szervezet költségvetéséből működtetett helyi csoportok alapíthatók.
+(3) A területi szervezeten belül az Alapszabály szerint helyi csoportok alapíthatók.

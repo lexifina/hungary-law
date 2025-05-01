@@ -2,7 +2,7 @@
 
 ## A KAMARA ÁLLAMI FELÜGYELETE
 
-29. § (1) A Kamara törvényességi felügyeletét az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) látja el.
+29. § (1) A Kamara törvényességi felügyeletét a miniszter látja el.
 
 (2) Jogszabálysértés esetén – határidő kitűzésével – a miniszter felhívja a kamarai szervezetet a jogszabálysértés megszüntetésére.
 

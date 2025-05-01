@@ -12,7 +12,7 @@ c) az Alapszabályban meghatározott kamarai tagdíjat megfizeti; továbbá
 
 d) az Alapszabályban foglaltakat magára nézve kötelezően elismeri.
 
-(2) Azt a személyt, aki az (1) bekezdésben meghatározott feltételeknek megfelel, kérelmére fel kell venni.
+(2) Azt a személyt, aki az (1) bekezdésben meghatározott feltételeknek megfelel, kérelmére fel kell venni. A felvételről és a tagsági viszony megszüntetéséről a titkár hoz döntést.
 
 (3) Nem vehető fel a Kamarába:
 
