@@ -1,0 +1,1 @@
+3. § Az R2. 1. § (1) bekezdés nyitó szövegrészében a „– törvény eltérő rendelkezése hiányában –” szövegrész helyébe a „törvény eltérő rendelkezése hiányában – az (1a) bekezdésben foglalt kivétellel –” szöveg lép.
