@@ -1,5 +1,3 @@
-## 10.[^39]
+## 10. A kormányablakok működésével és az állami és önkormányzati közfeladat-kataszterrel kapcsolatos egyes kormányrendeletek módosításáról szóló 219/2024. (VII. 31.) Korm. rendelet módosításáról
 
-39. §
-
-[^39]: A 10. alcím a 40. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
+39. § A kormányablakok működésével és az állami és önkormányzati közfeladat-kataszterrel kapcsolatos egyes kormányrendeletek módosításáról szóló 219/2024. (VII. 31.) Korm. rendelet 1. § (1) bekezdésének a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet 17. § (1) bekezdés h) pont hb) alpontját módosító rendelkezése az „a honosított polgár és – a 10. §-ban, valamint a 12. § (1) bekezdés b) és f) pontjában” szövegrész helyett az „– a 10. §-ban, valamint a 12. § (1) bekezdés b) pontjában” szöveggel lép hatályba.
