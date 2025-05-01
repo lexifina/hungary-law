@@ -33,3 +33,7 @@ téríti meg.
 (5) Ha az eljárás alá vont személy a jövedelmi és vagyoni viszonyai folytán a szabálysértési költséget előreláthatóan nem tudja megfizetni és ezt a közigazgatási hatósági eljárásokban a személyes költségmentesség megállapításáról szóló kormányrendeletben meghatározottaknak megfelelően igazolta, az eljárás alá vont személy vagy képviselője kérelmére a szabálysértési hatóság, illetve a bíróság határoz arról, hogy az eljárás alá vont személy részére személyes költségmentességet engedélyez.
 
 (6) A szabálysértési költség viselését határozatban kell megállapítani.
+
+(7) A kirendelt ügyvéd díjazásra (munkadíjra és költségtérítésre) jogosult.
+
+(8) A szabálysértési hatóság a szabálysértési költség részét képező kirendelt ügyvéd díját (munkadíját és költségtérítését) a Magyar Ügyvédi Kamara (a továbbiakban: Kamara) honlapján közzétett, a Kamarának a kirendelt védő óradíjáról, továbbá a kirendelt védői tevékenységért járó díjazásáról szóló szabályzatában foglaltak szerint, az abban meghatározott díj alapján állapítja meg. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 194/B. §-a szerinti megállapodás hiányában a szabálysértési hatóság a kirendelt védő óradíját és a kirendelt védői tevékenységért járó díjazást az állam által előlegezett kirendelt védői díjakról szóló miniszteri rendelet alapján állapítja meg.
