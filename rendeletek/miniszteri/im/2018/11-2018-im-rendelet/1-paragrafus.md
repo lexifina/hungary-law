@@ -1,4 +1,4 @@
-1. § (1) A bűnügyi költséget – törvény eltérő rendelkezése hiányában – a rendelkezésére álló költségvetési fedezet terhére
+1. § (1)[^1] A bűnügyi költséget törvény eltérő rendelkezése hiányában – az (1a) bekezdésben foglalt kivétellel – a rendelkezésére álló költségvetési fedezet terhére
 
 a) az előkészítő eljárásban az előkészítő eljárást folytató szerv,
 
@@ -24,6 +24,11 @@ ea) az ügyészség által elrendelt perújítási nyomozásban – a b) pontban
 
 eb) a bíróság által elrendelt perújítási nyomozásban a nyomozó hatóság
 
-## (a továbbiakban együtt: eljáró szerv) előlegezi.
+(a továbbiakban együtt: eljáró szerv) előlegezi.
+
+(1a)[^2] Ha az (1) bekezdés szerinti eljárásban a kirendelt védő díját és költségét az ügyészség vagy a nyomozó hatóság állapította meg, valamint az (1) bekezdés b) pont bc) alpontja szerinti esetben a kirendelt védő díját és költségét az Igazságügyi Minisztérium előlegezi.
 
 (2) Ha a bizonyítás felvétele megkeresett bíróság útján történik, a bizonyítást a megkeresett bíróság saját költségére veszi fel, majd az így felmerült bűnügyi költséget részére a megkereső bíróság előlegezi.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 4/2025. (IV. 30.) IM rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 4/2025. (IV. 30.) IM rendelet 2. § (1) bekezdése iktatta be.
