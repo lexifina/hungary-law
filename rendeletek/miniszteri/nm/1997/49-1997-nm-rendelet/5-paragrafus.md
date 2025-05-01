@@ -2,6 +2,6 @@
 
 5. § (1) E rendelet 1998. január 1-jén lép hatályba.
 
-(2)–(3)[^16]
+(2)–(3)[^19]
 
-[^16]: Az 5. § (2)–(3) bekezdését az 50/2001. (XII. 28.) EüM rendelet 1. §-ának (2) bekezdése hatályon kívül helyezte.
+[^19]: Az 5. § (2)–(3) bekezdését az 50/2001. (XII. 28.) EüM rendelet 1. §-ának (2) bekezdése hatályon kívül helyezte.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-49-20-3
 | 2017-10-01 | 1997-49-20-3D.9 | 18/2017. (VIII. 31.) EMMI rendelet |
 | 2023-11-01 | 1997-49-20-3D.10 | 34/2023. (VIII. 24.) BM rendelet |
 | 2024-01-01 | 1997-49-20-3D.11 | 70/2023. (XII. 23.) BM rendelet |
+| 2025-05-01 | 1997-49-20-3D.12 | 10/2025. (IV. 4.) BM rendelet |
