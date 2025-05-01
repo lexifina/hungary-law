@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2017-90-00-00.27 |
 | 2025-01-01 | 2024. évi LI. törvény | 2017-90-00-00.30 |
 | 2025-03-01 | 2024. évi LXIV. törvény | 2017-90-00-00.31 |
+| 2025-05-01 | 2024. évi LXXXII. törvény | 2017-90-00-00.33 |
