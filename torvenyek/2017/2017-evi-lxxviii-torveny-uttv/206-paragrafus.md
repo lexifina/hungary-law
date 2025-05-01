@@ -10,6 +10,6 @@ d) az arcképes igazolványra vonatkozó részletes szabályokat,
 
 e) az adópolitikáért felelős miniszterrel egyetértésben, a kérelemre induló kamarai hatósági eljárásokért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó szabályokat,
 
-f)
+f) a 194/B. § szerinti megállapodás hiányában a büntetőeljárásnak a vádemelésig terjedő szakaszában a kirendelt védő óradíját, a kirendelt védői tevékenységért járó díjazást, továbbá a kifizetés eljárásrendjének részletes szabályait az állam által előlegezett kirendelt védői díjakról szóló
 
 rendeletben szabályozza.
