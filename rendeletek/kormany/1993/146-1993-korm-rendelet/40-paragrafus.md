@@ -1,4 +1,4 @@
-40. §[^300] (1) A bejelentő akkor teljesítheti elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentést, ha
+40. §[^302] (1) A bejelentő akkor teljesítheti elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentést, ha
 
 a) a lakás kizárólagos tulajdonosa vagy annak egyedüli haszonélvezője,
 
@@ -6,7 +6,7 @@ b) a szállásadó a lakcímbejelentéshez az Nytv. 27/A. § (1) bekezdés b) po
 
 c) az Nytv. 27/A. § (3) bekezdésében meghatározott okiratot csatolja, vagy
 
-d)[^301] csatolja a szállásadó hozzájárulását, illetve több szállásadó esetén a lakcímbejelentés során eljáró szállásadó nyilatkozatát a többi szállásadó hozzájárulásáról.
+d)[^303] csatolja a szállásadó hozzájárulását, illetve több szállásadó esetén a lakcímbejelentés során eljáró szállásadó nyilatkozatát a többi szállásadó hozzájárulásáról.
 
 (2) Elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentés akkor is benyújtható, ha a szállásadó a szállásadói hozzájárulását a rendelkezési nyilvántartásban tette meg. A bejelentő a benyújtáskor erről nyilatkozni köteles.
 
@@ -14,7 +14,7 @@ d)[^301] csatolja a szállásadó hozzájárulását, illetve több szállásad�
 
 a) a polgár a bejelentést bármely járási hivatalnál teljesítheti, az ügyben az a járási hivatal jár el, amely felé a bejelentés megtörtént,
 
-b)[^302] a járási hivatal a lakcímbejelentésről hatósági igazolványt állít ki, kivéve, ha a polgár kiállítást megakadályozó nyilatkozatot tesz,
+b)[^304] a járási hivatal a lakcímbejelentésről hatósági igazolványt állít ki, kivéve, ha a polgár kiállítást megakadályozó nyilatkozatot tesz,
 
 c) a lakcímbejelentési kötelezettséget a bejelentő, illetve a meghatalmazott vagy a törvényes képviselő teljesíti, a képviseleti jogosultságot igazoló okiratot – ha azt a rendelkezési nyilvántartás nem tartalmazza – csatolni szükséges,
 
@@ -28,19 +28,19 @@ eb) a szállásadó Nytv. 27/A. § (1) bekezdés b) pontja szerinti hozzájárul
 
 ec) a bejelentés egyéb okból nem felel meg a vonatkozó jogszabályi rendelkezéseknek,
 
-f)[^303] a járási hivatal átvezeti a nyilvántartáson a lakcímbejelentés adatait, valamint a kiadott hatósági igazolványt a polgár választása szerint személyesen adja át, vagy kérelmére és igazgatási szolgáltatási díj megfizetése esetén könyvelt küldeményként kézbesíti,
+f)[^305] a járási hivatal átvezeti a nyilvántartáson a lakcímbejelentés adatait, valamint a kiadott hatósági igazolványt a polgár választása szerint személyesen adja át, vagy kérelmére és igazgatási szolgáltatási díj megfizetése esetén könyvelt küldeményként kézbesíti,
 
 g) a lakcímbejelentés időpontja a bejelentés benyújtásának napja,
 
 h) a 36. § (4) bekezdése szerinti lakóhely nem jelenthető be.
 
-(3a)[^304]
+(3a)[^306]
 
-(3b)[^305]
+(3b)[^307]
 
-(3c)[^306]
+(3c)[^308]
 
-(3d)[^307]
+(3d)[^309]
 
 (4) A tartózkodási hely újabb tartózkodási hely létesítése nélküli megszüntetésére irányuló eljárást a járási hivatal az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján folytatja le.
 
@@ -56,11 +56,11 @@ h) a 36. § (4) bekezdése szerinti lakóhely nem jelenthető be.
 
 (10) Az elektronikus lakcímbejelentést tárolni és az Nytv. általános szabályai szerinti ideig őrizni kell, valamint a bejelentésről az Nytv. általános szabályai szerint teljesíthető adatszolgáltatás.
 
-[^300]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 317/2020. (VII. 1.) Korm. rendelet 2. § (5) bekezedése iktatta be.
-[^301]: Az R. 40. § (1) bekezdés d) pontja a 375/2021. (VI. 30.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
-[^302]: Az R. 40. § (3) bekezdés b) pontja a 478/2024. (XII. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^303]: Az R. 40. § (3) bekezdés f) pontja a 478/2024. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^304]: Az R. 40. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
-[^305]: Az R. 40. § (3b) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
-[^306]: Az R. 40. § (3c) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
-[^307]: Az R. 40. § (3d) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
+[^302]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 317/2020. (VII. 1.) Korm. rendelet 2. § (5) bekezedése iktatta be.
+[^303]: Az R. 40. § (1) bekezdés d) pontja a 375/2021. (VI. 30.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
+[^304]: Az R. 40. § (3) bekezdés b) pontja a 478/2024. (XII. 31.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^305]: Az R. 40. § (3) bekezdés f) pontja a 478/2024. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^306]: Az R. 40. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
+[^307]: Az R. 40. § (3b) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
+[^308]: Az R. 40. § (3c) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
+[^309]: Az R. 40. § (3d) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 12. § o) pontja hatályon kívül helyezte.
