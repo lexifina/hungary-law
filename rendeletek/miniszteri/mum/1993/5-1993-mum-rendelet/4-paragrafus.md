@@ -2,6 +2,6 @@
 
 ## (Az Mvt. 57. §-ához)
 
-4. §[^6] A 2. számú mellékletben meghatározott tevékenységet folytató és veszélyességi osztályba sorolt munkáltató a mellékletben megállapított munkavállalói létszámhoz és képesítési feltételekhez igazodóan köteles a tevékenységhez elegendő létszámot és időt biztosítva, de legalább az előírt időtartamokra munkavédelmi (munkabiztonsági) szakmai képesítéssel rendelkező elegendő, de legalább az előírt létszámú szakembert foglalkoztatni.
+4. §[^6] A 2. számú mellékletben meghatározott tevékenységet folytató és veszélyességi osztályba sorolt munkáltató a mellékletben megállapított munkavállalói létszámhoz és képesítési feltételekhez igazodóan köteles a tevékenységhez elegendő létszámot és időt biztosítva, de legalább az előírt időtartamokra munkavédelmi szakmai képesítéssel rendelkező elegendő, de legalább az előírt létszámú szakembert foglalkoztatni.
 
-[^6]: A Vhr. 4. §-a a 16/2004. (IV. 19.) FMM rendelet 1. §-ával megállapított, az 56/2023. (XII. 28.) GFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^6]: A Vhr. 4. §-a a 16/2004. (IV. 19.) FMM rendelet 1. §-ával megállapított, az 56/2023. (XII. 28.) GFM rendelet 4. § a) pontja, a 11/2025. (IV. 30.) NGM rendelet 3. § (3) bekezdése szerint módosított szöveg.

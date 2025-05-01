@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-5-20-39
 | 2023-12-31 | 1993-5-20-39.29 | 56/2023. (XII. 28.) GFM rendelet |
 | 2025-01-01 | 1993-5-20-39.30 | 56/2024. (XII. 31.) NGM rendelet |
 | 2025-02-26 | 1993-5-20-39.31 | 5/2010. (III. 9.) SZMM rendelet |
+| 2025-05-01 | 1993-5-20-39.32 | 16/2004. (IV. 19.) FMM rendelet |

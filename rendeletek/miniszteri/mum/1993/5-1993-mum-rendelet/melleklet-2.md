@@ -1,4 +1,4 @@
-2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^40]
+2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^41]
 
 Munkavédelmi szakmai képesítéssel rendelkező személy foglalkoztatásának feltételei
 
@@ -236,7 +236,7 @@ d) 501–1000 munkavállaló között;
 
 e) 1000 munkavállaló felett.
 
-3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontban meghatározott eltérés figyelembevételével – legalább az alábbiakban meghatározott létszámú és munkavédelmi szakképesítésű személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
+3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontban meghatározott eltérés figyelembevételével – legalább az alábbiakban meghatározott létszámú és munkavédelmi szakmai képesítéssel rendelkező személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
 
 ## I/a) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt heti négy órára,
 
@@ -286,4 +286,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^40]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése, az 56/2023. (XII. 28.) GFM rendelet 3. §-a, az 56/2024. (XII. 31.) NGM rendelet 3. §-a, a 3/2025. (II. 25.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^41]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése, az 56/2023. (XII. 28.) GFM rendelet 3. §-a, az 56/2024. (XII. 31.) NGM rendelet 3. §-a, a 3/2025. (II. 25.) NGM rendelet 1. §-a szerint módosított szöveg.
