@@ -1,4 +1,4 @@
-29. §[^249] (1) E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelettel (a továbbiakban: Mkr2.) megállapított rendelkezéseit az Mkr2. hatálybalépésekor[^250] folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy amennyiben a tervezett környezethasználat
+29. §[^251] (1) E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelettel (a továbbiakban: Mkr2.) megállapított rendelkezéseit az Mkr2. hatálybalépésekor[^252] folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy amennyiben a tervezett környezethasználat
 
 a) az 1. számú mellékletben szerepel,
 
@@ -10,5 +10,5 @@ a környezethasználó az előzetes vizsgálat iránti kérelmét az Mkr2. hatá
 
 (2) Ha az (1) bekezdés szerinti esetben a kérelem visszavonására nem kerül sor, az előzetes vizsgálat iránti kérelem előzetes konzultáció kezdeményezésének minősül.
 
-[^249]: A 29. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 402. pontja hatályon kívül helyezte, újonnan a 228/2010. (VIII. 13.) Korm. rendelet 2. § (7) bekezdése iktatta be.
-[^250]: A hatálybalépés időpontja: 2010. augusztus 28.
+[^251]: A 29. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 402. pontja hatályon kívül helyezte, újonnan a 228/2010. (VIII. 13.) Korm. rendelet 2. § (7) bekezdése iktatta be.
+[^252]: A hatálybalépés időpontja: 2010. augusztus 28.

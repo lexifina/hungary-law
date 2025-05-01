@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2024-12-07 | 2005-314-20-22.67 | 208/2021. (IV. 29.) Korm. rendelet |
 | 2024-12-31 | 2005-314-20-22.69 | 472/2024. (XII. 30.) Korm. rendelet |
 | 2025-01-01 | 2005-314-20-22.68 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2025-05-01 | 2005-314-20-22.70 | 61/2025. (III. 31.) Korm. rendelet |
