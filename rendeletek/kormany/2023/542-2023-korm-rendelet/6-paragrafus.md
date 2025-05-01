@@ -1,3 +1,1 @@
-6. §[^3]
-
-[^3]: A 6. § a 4. § (2) bekezdés alapján a Megállapodás 10. cikkében meghatározott időpontban lép hatályba.
+6. § Hatályát veszti a Közép-Európai Felsőoktatási Csereprogramról szóló egyezmény (CEEPUS III.) kihirdetéséről szóló 156/2010. (V. 6.) Korm. rendelet.
