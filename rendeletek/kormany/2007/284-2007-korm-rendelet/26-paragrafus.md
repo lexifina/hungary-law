@@ -20,5 +20,8 @@ alapján állapítja meg (a továbbiakban: zaj- és rezgésbírság).
 
 (2) Az (1) bekezdés a)–d) pontja szerinti bírság az intézkedési terv végrehajtásának ideje alatt nem szabható ki.
 
+(3)[^47] A 3. számú melléklet 4. pont 4.1.1.1. alpontja szerinti bírság esetében jogi személyre a környezetvédelmi hatóság a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 10. § (2) bekezdésében meghatározott felső határnál magasabb összegű bírságot is kiszabhat.
+
 [^45]: A 26. § (1) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
 [^46]: A 26. § (1) bekezdés a) pont ab) alpontja a 61/2019. (III. 26.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^47]: A 26. § (3) bekezdését a 61/2025. (III. 31.) Korm. rendelet 5. § (1) bekezdése iktatta be.

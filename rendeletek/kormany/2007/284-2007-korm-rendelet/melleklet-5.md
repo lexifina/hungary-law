@@ -16,7 +16,7 @@
 
 | G* jelű övezet | 50≥LAM>45 | 40≥LAM>35 |
 
-5. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^61]
+5. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^67]
 
 Üzemi vagy szabadidős zajforrás mérési jegyzőkönyvének tartalmi követelményei
 
@@ -68,4 +68,4 @@ Joghatással járó zajmérés mérési jegyzőkönyvének a következőket kell
 
 23. a mérésért felelős személy nevét és aláírását.
 
-[^61]: Az 5. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 201. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^67]: Az 5. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 201. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -12,9 +12,9 @@ a 10. § (1) bekezdésben foglalt zajkibocsátási határérték megállapítás
 
 (3) A (2) bekezdés alapján benyújtott kérelemre megállapított zajkibocsátási határérték teljesítési határideje 2012. január 1.
 
-(4)[^57] Az a nemzetközi versenypálya üzemeltető, aki a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet módosításáról szóló 61/2019. (III. 26.) Korm. rendelet (a továbbiakban: R1.) hatálybalépésekor a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. § (1) bekezdés b) pontja alapján megállapított, zajkibocsátási határértéket megállapító határozattal rendelkezik, az R1. hatálybalépésétől számított 45 napig új zajkibocsátási határérték megállapítását kérheti a környezetvédelmi hatóságtól.
+(4)[^61] Az a nemzetközi versenypálya üzemeltető, aki a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet módosításáról szóló 61/2019. (III. 26.) Korm. rendelet (a továbbiakban: R1.) hatálybalépésekor a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. § (1) bekezdés b) pontja alapján megállapított, zajkibocsátási határértéket megállapító határozattal rendelkezik, az R1. hatálybalépésétől számított 45 napig új zajkibocsátási határérték megállapítását kérheti a környezetvédelmi hatóságtól.
 
-(5)[^58] Ha a versenypálya üzemeltetője a (4) bekezdés szerinti kérelmet nem nyújtja be, a környezetvédelmi hatóság hivatalból indult eljárás keretében a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. § (1) bekezdés a) pontjának alkalmazásával állapítja meg a zajkibocsátási határértéket.
+(5)[^62] Ha a versenypálya üzemeltetője a (4) bekezdés szerinti kérelmet nem nyújtja be, a környezetvédelmi hatóság hivatalból indult eljárás keretében a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. § (1) bekezdés a) pontjának alkalmazásával állapítja meg a zajkibocsátási határértéket.
 
-[^57]: A 34. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 23. pontja hatályon kívül helyezte, újonnan a 61/2019. (III. 26.) Korm. rendelet 7. §-a iktatta be.
-[^58]: A 34. § (5) bekezdését a 61/2019. (III. 26.) Korm. rendelet 7. §-a iktatta be.
+[^61]: A 34. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 23. pontja hatályon kívül helyezte, újonnan a 61/2019. (III. 26.) Korm. rendelet 7. §-a iktatta be.
+[^62]: A 34. § (5) bekezdését a 61/2019. (III. 26.) Korm. rendelet 7. §-a iktatta be.
