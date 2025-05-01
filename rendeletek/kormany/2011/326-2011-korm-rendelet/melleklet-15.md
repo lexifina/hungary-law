@@ -150,12 +150,6 @@ ab) E adatmező,
 
 ac) F adatmező: (F.1.) kötelezően, a Megfelelőségi nyilatkozatnak megfelelően,
 
-ad) K adatmező (Típusbizonyítvány hiánya esetén forgalomba helyezési engedély kötelező),
-
-ae) P adatmező (ha a járműben beépített motor van): (P.1), (P.2.), (P.3.) Megfelelőségi nyilatkozat alapján, (P.5.) mező a jármű motorkódjával együtt, a fellelhető gyári motorszám (ha van) adatmező,
-
-af) Gyártó megnevezése,
-
 [^658]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
 [^659]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
 [^660]: A 15. melléklet II. rész I. pont a) alpontja a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
