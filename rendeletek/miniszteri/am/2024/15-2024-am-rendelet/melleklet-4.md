@@ -96,7 +96,7 @@
 
 | 13. | átellenes rucaöröm | Salvinia molesta (Salvinia adnata) |
 
-4. melléklet a 15/2024. (IV. 9.) AM rendelethez[^62]
+4. melléklet a 15/2024. (IV. 9.) AM rendelethez[^63]
 
 Az EMVA és EMGA állatalapú támogatások esetén alkalmazandó állategység átváltási arányok
 
@@ -138,4 +138,4 @@ Az EMVA és EMGA állatalapú támogatások esetén alkalmazandó állategység 
 
 | 18. | méh méhcsaládonként | 1 | 0,2 ÁE |
 
-[^62]: A 4. mellékletet az 5/2025. (IV. 3.) AM rendelet 18. §-a iktatta be.
+[^63]: A 4. mellékletet az 5/2025. (IV. 3.) AM rendelet 18. §-a iktatta be.
