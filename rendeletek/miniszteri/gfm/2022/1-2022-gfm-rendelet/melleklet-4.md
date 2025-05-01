@@ -2,7 +2,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2026. december 31. |
+| 1. | Diákhitel Központ Zártkörűen Működő Részvénytársaság | 01-10-044593 | 2026. december 31. |
 
 4. melléklet az 1/2022. (V. 26.) GFM rendelethez[^6]
 

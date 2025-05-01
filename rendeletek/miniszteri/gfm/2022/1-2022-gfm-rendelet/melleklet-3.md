@@ -18,7 +18,7 @@ I. Tulajdonosi joggyakorló: Magyar Turisztikai Ügynökség Zártkörűen Műk�
 
 | 2. | Kisfaludy2030 Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140072 | 2026. december 31. |
 
-| 3. |  |  |  |
+| 3. | Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság | 01-10-044294 | 2026. december 31. |
 
 | 4. |  |  |  |
 
@@ -104,4 +104,12 @@ VII. Tulajdonosi joggyakorló: Nemzeti Regionális Repülőtér Üzemeltető Hol
 
 VIII. Tulajdonosi joggyakorló: IdomSoft Informatikai Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1–2. §-a, a 29/2023. (XI. 29.) GFM rendelet 2. §-a, a 42/2023. (XII. 27.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 2. §-a, az 5/2024. (II. 6.) NGM rendelet 2. §-a, a 9/2024. (III. 21.) NGM rendelet 3. §-a, a 12/2024. (IV. 8.) NGM rendelet 2. §-a, a 16/2024. (V. 31.) NGM rendelet 2. §-a, a 17/2024. (V. 31.) NGM rendelet 1. §-a, a 21/2024. (VI. 28.) NGM rendelet 1. §-a, a 48/2024. (XII. 18.) NGM rendelet 2. § b) pontja, az 50/2024. (XII. 23.) NGM rendelet 1. és 2. §-a, a 4/2025. (III. 5.) NGM rendelet 2. §-a és 3. § b) pontja, a 9/2025. (IV. 7.) NGM rendelet 2. §-a szerint módosított szöveg.
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2026. december 31. |
+
+IX. Tulajdonosi joggyakorló: MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság
+
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1–2. §-a, a 29/2023. (XI. 29.) GFM rendelet 2. §-a, a 42/2023. (XII. 27.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 2. §-a, az 5/2024. (II. 6.) NGM rendelet 2. §-a, a 9/2024. (III. 21.) NGM rendelet 3. §-a, a 12/2024. (IV. 8.) NGM rendelet 2. §-a, a 16/2024. (V. 31.) NGM rendelet 2. §-a, a 17/2024. (V. 31.) NGM rendelet 1. §-a, a 21/2024. (VI. 28.) NGM rendelet 1. §-a, a 48/2024. (XII. 18.) NGM rendelet 2. § b) pontja, az 50/2024. (XII. 23.) NGM rendelet 1. és 2. §-a, a 4/2025. (III. 5.) NGM rendelet 2. §-a és 3. § b) pontja, a 9/2025. (IV. 7.) NGM rendelet 2. §-a, a 12/2025. (IV. 30.) NGM rendelet 1. §-a szerint módosított szöveg.
