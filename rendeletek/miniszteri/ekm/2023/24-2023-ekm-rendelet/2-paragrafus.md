@@ -30,6 +30,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 11. bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 111. pontja szerinti üzemanyag,
 
+11a.[^1] bruttó támogatási egyenérték: a 651/2014/EU bizottsági rendelet 2. cikk 22. pontja szerinti támogatási összeg,
+
 12. dedikált infrastruktúra: az előzetesen azonosítható vállalkozás(ok) számára épített és az ő igényeikhez szabott infrastruktúra,
 
 13. dedikált energetikai infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 130. pontjának utolsó mondata szerinti energetikai infrastruktúra,
@@ -38,9 +40,11 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 15. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-16.[^1] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk 2. pontja szerinti vállalkozás,
+16.[^2] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk 2. pontja szerinti vállalkozás,
 
 17. töltőinfrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 102a. pontja szerinti infrastruktúra,
+
+17a.[^3] egyedi támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 14. pontja szerinti támogatás,
 
 18. eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti módszer alkalmazása,
 
@@ -58,7 +62,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 25. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés,
 
-25a.[^2] halászati és akvakultúra-termékek: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek,
+25a.[^4] halászati és akvakultúra-termékek: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek,
+
+25b.[^5] hatékony együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 90. pontja szerinti együttműködés,
 
 26. helyi infrastruktúra: olyan infrastruktúra, amely helyi szinten járul hozzá az üzleti és fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez,
 
@@ -78,6 +84,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 34. kapcsolt energiatermelés vagy kapcsolt hő- és villamosenergia-termelés: a 651/2014/EU bizottsági rendelet 2. cikk 108. pontja szerinti energiatermelés,
 
+34a.[^6] kezességvállalás: harmadik fél újonnan szerzett kölcsönügyleteiért és kvázi-sajáttőkéjéért való részleges vagy teljes felelősségvállalásra vonatkozó írásbeli kötelezettségvállalás,
+
 35. kikötő: a 651/2014/EU bizottsági rendelet 2. cikk 154. pontja szerinti vízi és szárazföldi részből álló terület,
 
 36. kikötői felépítmény: a 651/2014/EU bizottsági rendelet 2. cikk 158. pontja szerinti felépítmény,
@@ -91,6 +99,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 40. kísérleti fejlesztés: a 651/2014/EU bizottsági rendelet 2. cikk 86. pontja szerinti fejlesztés,
 
 41. kotrás: a 651/2014/EU bizottsági rendelet 2. cikk 160. pontja szerinti tevékenység,
+
+41a.[^7] kölcsön: a 651/2014/EU bizottsági rendelet 2. cikk 82. pontja szerinti megállapodás,
 
 42. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység,
 
@@ -162,7 +172,11 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 76. szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, valamint a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné,
 
+76a.[^8] szokásos piaci feltételek: a 651/2014/EU bizottsági rendelet 2. cikk 39a. pontja szerinti feltétel,
+
 77. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
+
+77a.[^9] támogatási program: a 651/2014/EU bizottsági rendelet 2. cikk 15. pontja szerinti támogatási intézkedés,
 
 78. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
@@ -172,5 +186,12 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 81. versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
 
-[^1]: A 2. § 16. pontja a 20/2024. (VII. 29.) ÉKM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § 25a. pontját a 20/2024. (VII. 29.) ÉKM rendelet 2. §-a iktatta be.
+[^1]: A 2. § 11a. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § 16. pontja a 20/2024. (VII. 29.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 17a. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 25a. pontját a 20/2024. (VII. 29.) ÉKM rendelet 2. §-a iktatta be.
+[^5]: A 2. § 25b. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (3) bekezdése iktatta be.
+[^6]: A 2. § 34a. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (4) bekezdése iktatta be.
+[^7]: A 2. § 41a. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (5) bekezdése iktatta be.
+[^8]: A 2. § 76a. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (6) bekezdése iktatta be.
+[^9]: A 2. § 77a. pontját a 11/2025. (IV. 30.) ÉKM rendelet 1. § (7) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## 25. A csekély összegű közszolgáltatási támogatás
 
-60. §[^23] (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+60. §[^31] (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
 (2) A kedvezményezettnek az (EU) 2023/2832 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év − háromszor háromszázhatvanöt nap − során nyújtott csekély összegű támogatások támogatástartalmáról.
 
@@ -14,4 +14,4 @@
 
 (7) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
 
-[^23]: A 60. § a 20/2024. (VII. 29.) ÉKM rendelet 12. §-ával megállapított szöveg.
+[^31]: A 60. § a 20/2024. (VII. 29.) ÉKM rendelet 12. §-ával megállapított szöveg.

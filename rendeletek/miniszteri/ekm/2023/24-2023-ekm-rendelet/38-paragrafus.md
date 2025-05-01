@@ -28,6 +28,6 @@ b) a tárolást szolgáló berendezés tüzelőanyag-tartalmának évi legalább
 
 (9) A (8) bekezdés szerinti beruházási támogatás nem nyújtható fosszilis tüzelőanyaggal működő kapcsolt energiatermelő létesítményhez, kivéve az olyan földgázzal működő kapcsolt energiatermelő létesítményt, amely esetében a 2021/2139/EU felhatalmazáson alapuló bizottsági rendelet 1. mellékletének 4.30. szakaszával összhangban, a 2030-ra és 2050-re vonatkozó éghajlati céloknak való megfelelés biztosított.
 
-(10)[^20] Megújuló energiaforrásokon alapuló, nagy hatásfokú kapcsolt energiatermeléshez közvetlenül kapcsolódó villamosenergia- és hőtárolási projektekhez nyújtott beruházási támogatás a (3) bekezdésben foglalt feltételek teljesülése esetén nyújtható.
+(10)[^28] Megújuló energiaforrásokon alapuló, nagy hatásfokú kapcsolt energiatermeléshez közvetlenül kapcsolódó villamosenergia- és hőtárolási projektekhez nyújtott beruházási támogatás a (3) bekezdésben foglalt feltételek teljesülése esetén nyújtható.
 
-[^20]: A 38. § (10) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 16. § f) pontja szerint módosított szöveg.
+[^28]: A 38. § (10) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 16. § f) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 24. A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
 
-59. §[^22] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, amennyiben
+59. §[^30] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, amennyiben
 
 a) a támogatás összege nem haladja meg éves szinten a 15 millió eurónak megfelelő forintösszeget, és
 
@@ -40,4 +40,4 @@ f) hivatkozást a 2012/21/EU bizottsági határozatra.
 
 (10) Ha a közszolgáltatási megbízás időtartama alatt az ezen alcímben foglalt feltételek nem teljesülnek, a támogatást nyújtó az Atr. 7. §-a alapján köteles a támogatást bejelenteni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-[^22]: Az 59. § a 20/2024. (VII. 29.) ÉKM rendelet 11. §-ával megállapított szöveg.
+[^30]: Az 59. § a 20/2024. (VII. 29.) ÉKM rendelet 11. §-ával megállapított szöveg.
