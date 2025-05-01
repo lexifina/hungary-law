@@ -1,7 +1,3 @@
-3. § A 68/2020. (XII. 23.) AM rendelet 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(5) A krízisbiztosítási szerv tárgyév szeptember 15-éig határozatban értesíti a mezőgazdasági termelőt
-
-a) a tagsági jogviszony létrejöttéről, valamint a krízisbiztosítási hozzájárulás-fizetési kötelezettségének keletkezéséről és annak összegéről vagy
-
-b) a csatlakozás évében a tagsági jogviszony 1. § (8) bekezdés c) vagy d) pontja szerinti okból történő megszűnéséről.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § A 68/2020. (XII. 23.) AM rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-„(1) A kompenzáció összege az üzemméretre vetített mezőgazdasági referenciajövedelem mutató és az üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató különbsége tárgyévi STÉ-vel megszorzott értékének 69,9 százaléka.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
