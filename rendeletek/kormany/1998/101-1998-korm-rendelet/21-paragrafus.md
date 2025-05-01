@@ -1,10 +1,10 @@
-## Különleges eljárások[^131]
+## Különleges eljárások[^132]
 
-21. §[^132] (1)[^133] A konzuli tisztviselő a külföldön élő vagy tartózkodó állampolgár részére az ideiglenes magánútlevelet haladéktalanul állítja ki, ha az ideiglenes magánútlevél kiállítására a konzuli védelemről szóló 2001. évi XLVI. törvény 5. §-a értelmében kerül sor.
+21. §[^133] (1)[^134] A konzuli tisztviselő a külföldön élő vagy tartózkodó állampolgár részére az ideiglenes magánútlevelet haladéktalanul állítja ki, ha az ideiglenes magánútlevél kiállítására a konzuli védelemről szóló 2001. évi XLVI. törvény 5. §-a értelmében kerül sor.
 
-(2)[^134] Az útlevélhatóság a magánútlevelet és a második magánútlevelet soron kívüli eljárás keretében öt napon belül kiállítja.
+(2)[^135] Az útlevélhatóság a magánútlevelet és a második magánútlevelet soron kívüli eljárás keretében öt napon belül kiállítja.
 
-[^131]: A 21. §-t megelőző alcím a 360/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^132]: A 21. § a 360/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^133]: A 21. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése h) pontja, a 317/2020. (VII. 1.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
-[^134]: A 21. § (2) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
+[^132]: A 21. §-t megelőző alcím a 360/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^133]: A 21. § a 360/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^134]: A 21. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése h) pontja, a 317/2020. (VII. 1.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^135]: A 21. § (2) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
