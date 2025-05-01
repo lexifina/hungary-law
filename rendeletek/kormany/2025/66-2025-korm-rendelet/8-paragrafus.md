@@ -1,3 +1,3 @@
-8. §[^3]
+8. § Az R. a következő 77/J. §-sal egészül ki:
 
-[^3]: A 8. § az 5. § (2) bekezdése alapján 2025. május 1-jén lép hatályba.
+„77/J. § A Nemzeti Dialízis Központ létrehozásával kapcsolatos feladatokról és egyéb, az egészségügyi szolgáltatókat segítő finanszírozási intézkedésekről szóló 66/2025. (IV. 4.) Korm. rendelettel megállapított 8. számú mellékletben foglaltakat elsőként a 2024. november havi teljesítmények elszámolásától kell alkalmazni.”

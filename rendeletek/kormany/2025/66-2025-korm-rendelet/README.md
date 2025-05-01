@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-66-20-2
 | --- | --- | --- |
 | 2025-04-05 | 2025-66-20-22.1 | 66/2025. (IV. 4.) Korm. rendelet |
 | 2025-04-06 | 2025-66-20-22.2 | 2010. évi CXXX. törvény |
+| 2025-05-01 | 2025-66-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
