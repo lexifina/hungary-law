@@ -1,4 +1,4 @@
-7. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^152]
+7. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^157]
 
 ## A levegőtisztaság-védelmi éves jelentés adattartalma (LM lap)
 
@@ -214,4 +214,4 @@
 
 17.6. Használt elemzési vagy számítási módszer
 
-[^152]: A 7. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^157]: A 7. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.

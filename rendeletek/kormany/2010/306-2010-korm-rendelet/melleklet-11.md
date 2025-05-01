@@ -1,10 +1,10 @@
-11. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^163]
+11. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^168]
 
 ## Az országos emisszió kataszterek és légszennyezőanyagkibocsátás-előrejelzések, a tájékoztató kataszterjelentések és a kiigazított országos emisszió kataszterek elkészítésének és aktualizálásának módszerei
 
 1. Országos emisszió kataszter
 
-1.1.[^164] A 32/A. § (1) bekezdése szerinti országos emisszió katasztert, a kiigazított országos emisszió katasztert, a térbeli bontásban megadott adatokat tartalmazó országos emisszió katasztert, a nagy pontszerű forrásokra vonatkozó katasztert, az országos légszennyezőanyag kibocsátás-előrejelzést és a tájékoztató kataszterjelentéseket az LRTAP egyezményhez kapcsolódó, a savasodás, az eutrofizáció és a talaj közeli ózon csökkentését előíró Göteborgi Jegyzőkönyv kihirdetését megvalósító kormányrendeletben, és a Magyar Köztársaságnak az Európai Környezetvédelmi Ügynökségben és az Európai Környezeti Tájékoztató és Megfigyelő Hálózatban való részvételéről szóló Megállapodás kihirdetéséről szóló törvényben meghivatkozott jelentésadásra vonatkozó iránymutatásokban (EMEP Reporting Guidelines, a továbbiakban: EMEP jelentéstételi iránymutatás) és emisszió kataszter készítésére szolgáló útmutatókban (EMEP/EEA Guidebooks, a továbbiakban: EMEP/EKÜ módszertani útmutató) meghatározott módszerek alapján az e rendelet 13. mellékletében szereplő jelentéstételre vonatkozó előírások és e mellékletben megfogalmazott további követelmények alapján kell elkészíteni.
+1.1.[^169] A 32/A. § (1) bekezdése szerinti országos emisszió katasztert, a kiigazított országos emisszió katasztert, a térbeli bontásban megadott adatokat tartalmazó országos emisszió katasztert, a nagy pontszerű forrásokra vonatkozó katasztert, az országos légszennyezőanyag kibocsátás-előrejelzést és a tájékoztató kataszterjelentéseket az LRTAP egyezményhez kapcsolódó, a savasodás, az eutrofizáció és a talaj közeli ózon csökkentését előíró Göteborgi Jegyzőkönyv kihirdetését megvalósító kormányrendeletben, és a Magyar Köztársaságnak az Európai Környezetvédelmi Ügynökségben és az Európai Környezeti Tájékoztató és Megfigyelő Hálózatban való részvételéről szóló Megállapodás kihirdetéséről szóló törvényben meghivatkozott jelentésadásra vonatkozó iránymutatásokban (EMEP Reporting Guidelines, a továbbiakban: EMEP jelentéstételi iránymutatás) és emisszió kataszter készítésére szolgáló útmutatókban (EMEP/EEA Guidebooks, a továbbiakban: EMEP/EKÜ módszertani útmutató) meghatározott módszerek alapján az e rendelet 13. mellékletében szereplő jelentéstételre vonatkozó előírások és e mellékletben megfogalmazott további követelmények alapján kell elkészíteni.
 
 1.2. Az 1.1. pontban említett iránymutatások alapján összeállítják az országos emisszió kataszterek és légszennyezőanyagkibocsátás-előrejelzések értékeléséhez szükséges kiegészítő információkat, különös tekintettel a tevékenységekre vonatkozó adatokra.
 
@@ -108,5 +108,5 @@ c) a használt módszerek, modellek, az alapfeltételezések, valamint a legfont
 
 4.2. A kiigazítás által érintett valamennyi év tekintetében újra kell számítani a kiigazított kibocsátási értékeket az időszakok következetességének lehető legnagyobb mértékű biztosítására.
 
-[^163]: A 11. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § b) pontja iktatta be.
-[^164]: A 11. melléklet 1. pont 1.1. alpontja a 122/2021. (III. 10.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^168]: A 11. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § b) pontja iktatta be.
+[^169]: A 11. melléklet 1. pont 1.1. alpontja a 122/2021. (III. 10.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
