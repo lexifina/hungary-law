@@ -16,6 +16,8 @@
 
 (6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, illetőleg mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, illetőleg az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
 
+(6b) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 106. § (3)–(3c) bekezdésében foglaltakat hatálybalépésüket követően indult ügyekben kell alkalmazni.
+
 (7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 1. a települési önkormányzat polgármesterének és jegyzőjének részletes környezetvédelmi államigazgatási hatáskörét;
@@ -28,7 +30,7 @@
 
 5. a környezetre súlyos veszélyt jelentő anyagok és termékek előállítása, behozatala, forgalmazása, valamint tevékenységek és technológiák alkalmazása részletes feltételeit és az e tevékenységre jogosító engedély kiadásának rendjét, továbbá az engedéllyel rendelkezők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az ilyen tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
-6. a környezetvédelmi bírságok fajtáit és mértékét, megállapításának módját;
+6. a környezetvédelmi bírságok fajtáit és mértékét, megállapításának módját, valamint a környezetvédelmi bírságtól eltérő, egyéb közigazgatási szankciónak nem minősülő környezetvédelmi jogkövetkezményekre és azok nyilvántartására vonatkozó részletes szabályokat;
 
 7. a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák körét, minősítésének általános szabályait;
 

@@ -89,3 +89,5 @@
 40. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
 41. meteorológiai obszervatórium: nagy léptékű időjárási folyamatok megfigyelésére alkalmas magaslégköri szondával, időjárási radarral, szélradarral, légkörfizikai mérőeszközökkel rendelkező létesítmény, ahol nagy területi reprezentativitású, különösen pontos meteorológiai megfigyeléseket vagy viharjelzést, légkörfizikai, magaslégköri kutatást folytatnak.
+
+42. kiemelt környezetvédelmi szabályszegést elkövető: az a természetes személy vagy gazdálkodó szervezet, akit vagy amelyet a környezetvédelmi hatóság egy költségvetési évben az e törvény végrehajtására kiadott kormányrendeletben meghatározott összeget elérő környezetvédelmi bírsággal sújt.
