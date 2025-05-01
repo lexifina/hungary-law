@@ -54,11 +54,11 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (4a) Az MFB Zrt. az (1)–(4) bekezdésben meghatározott üzletszerű tevékenységek mellett a 8. § (3) és (6) bekezdése szerinti befektetett pénzügyi eszközhöz kapcsolódó befektetési tevékenységet is alaptevékenységként végzi.
 
-(5) Az 1. mellékletben meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – az állam nevében az MFB Zrt. gyakorolja (a továbbiakban: tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
+(5) Az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
 
 (6) Kizárólag az (5) bekezdésben meghatározott társasági részesedések tulajdonjogának – az erre feljogosított szervezet által történő – átruházása, biztosítékul adása vagy más módon történő megterhelése, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítása, illetve a gazdálkodó szervezet végelszámolással történő megszüntetése esetén kell az állami vagyonról szóló 2007. évi CVI. törvény, valamint annak végrehajtására kiadott más jogszabályok rendelkezéseit alkalmazni.
 
-(7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
+(7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
 
 (8) A hallgatói hitelrendszerről szóló jogszabályban meghatározott Diákhitel szervezet számára nyújtott szolgáltatások teljesítése érdekében a Diákhitel szervezet a személyes adatokat továbbítja az MFB Zrt.-nek. Az MFB Zrt. a személyes adatokat kizárólag e szolgáltatások nyújtása céljából jogosult kezelni, mindaddig, amíg a hallgatói hitelszerződés alapján a Diákhitel szervezetet vagy a hallgatót jogok illethetik meg, illetve kötelezettségek terhelhetik.
 
@@ -72,6 +72,6 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (13) Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
 
-(14) Az MFB Zrt. jogosult ellenőrizni az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
+(14) Az MFB Zrt. jogosult ellenőrizni az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
 
 (15) Az MFB Zrt. veszteségmérséklés céljából pénzügyi intézménytől hitelállományt vehet át és követelést vásárolhat.

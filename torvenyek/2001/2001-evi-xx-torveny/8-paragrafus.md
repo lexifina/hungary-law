@@ -12,7 +12,7 @@ c) pénzügyi intézménynek nem minősülő egy ügyféllel vagy egy ügyfélcs
 
 (1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt, és amelyek a befektetési alapra, az alapkezelőre, az alapkezelők keresztkapcsolataira, vagy a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre tekintettel képeznének egyetlen kockázati tényezőt.
 
-(1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az 1. mellékletben meghatározott gazdasági társaságokra.
+(1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaságokra.
 
 (2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.
 
@@ -34,7 +34,7 @@ f) korlátolt felelősségű társaságban, részvénytársaságban átmenetileg
 
 g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából korlátolt felelősségű társaságban, részvénytársaságban,
 
-h) az 1. mellékletben meghatározott, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben,
+h) az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben,
 
 i) az MFB Zrt. feletti tulajdonosi jogokat gyakorló miniszter döntésében meghatározott egyéb olyan gazdálkodó szervezetben, amelynek működése az MFB Zrt. 3. § szerinti alaptevékenységéhez kapcsolódik, valamint
 
@@ -48,7 +48,7 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 (6) A (3) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. közvetlen vagy közvetett részesedésszerzése esetén, ha annak tárgya
 
-a) az 1. mellékletben meghatározott gazdálkodó szervezetben fennálló, vagy annak közvetlen vagy közvetett tulajdonában álló társasági részesedés,
+a) az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezetben fennálló, vagy annak közvetlen vagy közvetett tulajdonában álló társasági részesedés,
 
 b) az MFB Zrt. közvetlen vagy közvetett tulajdonában álló társasági részesedés vagy
 

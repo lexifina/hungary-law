@@ -36,7 +36,7 @@ k) az MFB Zrt., valamint az állam közvetlen vagy közvetett tulajdoni részese
 
 l) az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében,;
 
-m) az 1. mellékletben meghatározott, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;
+m) az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;
 
 m)
 

@@ -8,4 +8,4 @@
 
 (4a) Az MFB Zrt. tekintetében a Hpt. 150. §-ában foglaltakat nem kell alkalmazni.
 
-(5) Az (1)–(4) bekezdésben foglaltakat az 1. mellékletben szereplő pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az 1. mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
+(5) Az (1)–(4) bekezdésben foglaltakat az MFB Zrt. tulajdonosi joggyakorlása alatt álló pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
