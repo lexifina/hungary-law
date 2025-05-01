@@ -4,8 +4,11 @@
 
 (3) Az ügyintéző a SMART kártya elvesztését, megrongálódását, megsemmisülését, illetéktelen birtokába kerülését haladéktalanul köteles bejelenteni a járási hivatal vagy a KOF vezetőjének.
 
-(4) A (3) bekezdésben meghatározott esetben a járási hivatal vagy a KOF vezetője haladéktalanul, de legkésőbb a tudomásszerzés napját követő munkanapon a Miniszterelnöki Kabinetiroda által rendszeresített formanyomtatványon köteles tájékoztatni a Miniszterelnöki Kabinetirodát a szükséges intézkedések végrehajtása érdekében.
+(4)[^8] A (3) bekezdésben meghatározott esetben a járási hivatal vagy a KOF vezetője haladéktalanul, de legkésőbb a tudomásszerzés napját követő munkanapon az Energiaügyi Minisztérium által rendszeresített formanyomtatványon köteles tájékoztatni az Energiaügyi Minisztériumot a szükséges intézkedések végrehajtása érdekében.
 
-(5) A Miniszterelnöki Kabinetiroda a SMART kártya pótlását 5 munkanapon belül biztosítja.
+(5)[^9] Az Energiaügyi Minisztérium a SMART kártya pótlását 5 munkanapon belül biztosítja.
 
 (6) Az ügyintéző a kártyát a hozzáférési jogosultsága megszűnésekor, az utolsó ügyintézői munkakörben töltött munkanapján, valamint új SMART kártya kibocsátása esetén köteles leadni a járási hivatal vagy a KOF vezetőjének, aki az átvételt írásban igazolja, és a 8. § (6) bekezdése szerint jár el.
+
+[^8]: A 10. § (4) bekezdése a 4/2025. (IV. 30.) KTM rendelet 1. § c) és d) pontja szerint módosított szöveg.
+[^9]: A 10. § (5) bekezdése a 4/2025. (IV. 30.) KTM rendelet 1. § b) pontja szerint módosított szöveg.
