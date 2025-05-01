@@ -1,3 +1,1 @@
-2. § (1) A támogatás havi összege a települési önkormányzat és a települési önkormányzat társulása által fenntartott óvodákban foglalkoztatottak részére előző hónapra számfejtett, tárgyhónapban kifizetendő havi esélyteremtési illetményrész szociális hozzájárulási adóval növelt bruttó összege. A támogatás folyósítása – a Kincstár tárgyhónap 5-éig a támogatás önkormányzatokat megillető összegével kapcsolatosan teljesített adatszolgáltatása és a helyi önkormányzatokért felelős miniszter utalványozása alapján – minden hónap 15. napjáig történik.
-
-(2) A települési önkormányzat az esélyteremtési illetményrész támogatás felhasználásáról 2024. december 31-i fordulónappal az éves költségvetési beszámolójában számol el. A támogatás szempontjából kizárólag az „Óvodai nevelés, ellátás szakmai feladatai” kormányzati funkción elszámolt kiadások vehetők figyelembe.
+2. §
