@@ -614,7 +614,7 @@
 
 | 30 | Spermium funkcionális tesztek | 28958 | DNS fragmentáció vizsgálata |
 
-| 31 | Ejakulációs képtelenség esetén | 8631E | Számítógép vezérelt idegszál specifikus neuromuscularis elektrostimuláció |
+| 31 | Ejakulációs képtelenség esetén | 86623 | Ejakulációs képtelenség esetén alkalmazott elektrostimuláció |
 
 | 32 | Andrológiai alap hormonvizsgálat | 24120 | Follikulus Stimuláló Hormon (FSH) meghatározása |
 
@@ -636,7 +636,7 @@
 
 | 41 | 24434 | Anti-Müllerian hormon meghatározása |
 
-| 42 | 23691 | 1-25 Dihydroxy-D vitamin meghatározása ligand assay-vel |
+| 42 | 23691 | 1–25 Dihydroxy-D vitamin meghatározása ligand assay-vel |
 
 | 43 | 24171 | Prolaktin meghatározása |
 
