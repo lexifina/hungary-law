@@ -1,6 +1,6 @@
-## 19. §[^72] A cselekvőképességet teljesen korlátozó gondnokság alatt álló kérelmező esetében a 18. §-ban meghatározottakon túl a törvényes képviselőnek igazolnia kell a gondnokság alá helyezést, továbbá a törvényes képviseletet, valamint a törvényes képviselő személyazonosságát is. Az igazolás történhet különösen jogerős bírósági, valamint végleges gyámhatósági határozattal.
+## 19. §[^73] A cselekvőképességet teljesen korlátozó gondnokság alatt álló kérelmező esetében a 18. §-ban meghatározottakon túl a törvényes képviselőnek igazolnia kell a gondnokság alá helyezést, továbbá a törvényes képviseletet, valamint a törvényes képviselő személyazonosságát is. Az igazolás történhet különösen jogerős bírósági, valamint végleges gyámhatósági határozattal.
 
-20. §[^73] Cselekvőképtelen kiskorú kérelmező esetében a 18. §-ban meghatározottakon túl a jelen lévő törvényes képviselő személyazonosságát is ellenőrizni kell.
+20. §[^74] Cselekvőképtelen kiskorú kérelmező esetében a 18. §-ban meghatározottakon túl a jelen lévő törvényes képviselő személyazonosságát is ellenőrizni kell.
 
-[^72]: A 19. § a 457/2017. (XII. 28.) Korm. rendelet 554. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^73]: A 20. § az 561/2023. (XII. 14.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^73]: A 19. § a 457/2017. (XII. 28.) Korm. rendelet 554. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^74]: A 20. § az 561/2023. (XII. 14.) Korm. rendelet 35. §-ával megállapított szöveg.
