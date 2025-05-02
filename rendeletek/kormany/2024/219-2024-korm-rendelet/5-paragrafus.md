@@ -1,5 +1,5 @@
 ## 4. A településkép védelméről szóló törvény reklámok közzétételével kapcsolatos rendelkezéseinek végrehajtásáról szóló 104/2017. (IV. 28.) Korm. rendelet módosítása
 
-5. §[^4]
+5. §[^6]
 
-[^4]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
