@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-661-20-
 | 2025-03-31 | 2023-661-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-04-01 | 2023-661-20-22.4 | 2010. évi CXXX. törvény |
 | 2025-05-01 | 2023-661-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-05-02 | 2023-661-20-22.6 | 2010. évi CXXX. törvény |
