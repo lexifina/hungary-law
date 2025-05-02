@@ -1,7 +1,3 @@
-8. § A 284/2007. (X. 29.) Korm. rendelet
+8. §[^9]
 
-a) 28. § (3) bekezdés a) pontjában a „c) és d) alpontja” szövegrész helyébe a „4.1.3. és 4.1.4. alpontja” szöveg,
-
-b) 28. § (3) bekezdés b) pontjában a „c) és d) alpontja” szövegrész helyébe a „4.1.3. és 4.1.4. alpontja” szöveg
-
-lép.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

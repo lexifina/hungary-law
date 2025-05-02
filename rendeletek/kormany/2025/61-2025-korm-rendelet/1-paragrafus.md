@@ -8,16 +8,6 @@
 
 ## 1. A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosítása
 
-1. § (1) A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet [a továbbiakban: 314/2005. (XII. 25.) Korm. rendelet] 26. §-a a következő (3a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3a) A környezetvédelmi hatóság a bírság kiszabása során a Kvt.-ben és a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben foglalt mérlegelési szempontokon felül
-
-a) a mulasztás körülményeit és
-
-b) a kötelezettségszegés lehetséges egészségkárosító hatását
-
-veszi figyelembe.”
-
-(2) A 314/2005. (XII. 25.) Korm. rendelet 26. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A (4) bekezdés szerint kiszabott bírság összege a számvitelről szóló 2000. évi C. törvény hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás esetében ötszázezer forinttól a vállalkozás előző évi nettó árbevételének 5%-áig, de legfeljebb 2 milliárd forintig terjedhet.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

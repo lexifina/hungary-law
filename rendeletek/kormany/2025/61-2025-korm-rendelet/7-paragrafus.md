@@ -1,1 +1,3 @@
-7. § A 284/2007. (X. 29.) Korm. rendelet 3. számú melléklete az 1. melléklet szerint módosul.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

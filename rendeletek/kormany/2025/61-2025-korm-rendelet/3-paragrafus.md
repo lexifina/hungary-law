@@ -1,3 +1,3 @@
-3. § A 314/2005. (XII. 25.) Korm. rendelet 30. §-a a következő f) ponttal egészül ki:
+3. §[^4]
 
-(Ez a rendelet a Kvt.-vel együtt)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

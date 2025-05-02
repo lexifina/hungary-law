@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 284/2007. (X. 29.) Korm. rendelet 30. § (4) bekezdésében az „ , egyéb esetben a zajbírság 6 havonta ismételhető” szövegrész.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
