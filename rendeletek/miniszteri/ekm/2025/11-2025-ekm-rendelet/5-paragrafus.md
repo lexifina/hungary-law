@@ -1,1 +1,3 @@
-5. § A Rendelet 15. § (1) bekezdésében a „(2)–(6) bekezdésben” szövegrész helyébe a „(2)–(5) bekezdésben” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
