@@ -1,1 +1,3 @@
-8. § Az egyes okmányok kiállításával és a postai kézbesítéssel kapcsolatos igazgatási szolgáltatási díjak mértékéről szóló 19/2024. (XII. 31.) MK rendelet 1. § (1) bekezdésében az „a Miniszterelnöki Kabinetiroda” szövegrészek helyébe az „az Energiaügyi Minisztérium” szöveg, az „10032000-00335814-06020020” szövegrész helyébe az „10032000-00290713-06020037” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
