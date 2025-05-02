@@ -16,8 +16,6 @@
 
 ## 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
 
-1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet a következő 16/A. §-sal egészül ki:
+1. §[^2]
 
-„16/A. § (1) A nyilvántartást kezelő szerv által kiállított hatósági igazolvány kiállítójának Magyarország Kormányát kell tekinteni. A hatósági igazolványon Magyarország Kormányának rövidítése: MK.
-
-(2) Az (1) bekezdés szerinti kiállító meghatározása nem érinti a hatáskör gyakorlójának személyét.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

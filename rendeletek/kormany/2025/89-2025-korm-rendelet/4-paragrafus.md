@@ -1,3 +1,5 @@
 ## 4. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
 
-4. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 1. § (6) és (7) bekezdésében a „Miniszterelnöki Kabinetirodát vezető” szövegrész helyébe a „személyiadat- és lakcímnyilvántartásért felelős” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
