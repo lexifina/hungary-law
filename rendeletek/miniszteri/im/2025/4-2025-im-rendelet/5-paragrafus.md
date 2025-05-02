@@ -1,7 +1,3 @@
-5. § Az R3.
+5. §[^6]
 
-a) 1. § (1) és (2) bekezdésében a „Mellékletben” szövegrészek helyébe az „1. mellékletben” szöveg,
-
-b) Mellékletének megjelölése helyébe az „1. melléklet a 16/2024. (XII. 6.) IM rendelethez” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

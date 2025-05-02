@@ -1,1 +1,3 @@
-3. § Az R2. 1. § (1) bekezdés nyitó szövegrészében a „– törvény eltérő rendelkezése hiányában –” szövegrész helyébe a „törvény eltérő rendelkezése hiányában – az (1a) bekezdésben foglalt kivétellel –” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
