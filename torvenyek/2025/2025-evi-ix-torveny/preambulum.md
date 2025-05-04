@@ -1,5 +1,0 @@
-[1] Jelen törvénymódosítás célja a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság befektetési jegyeire vonatkozó tőkekiegyenlítési elszámolás és az állami készfizető kezesség beváltását követő elszámolási szabályok bevezetése, valamint külföldi követelések értékesítésével kapcsolatos jóváhagyási folyamat és hatáskörök szabályozása.
-
-[2] Jelen törvénymódosítás célja, hogy a hazai ipar és gazdaság fellendítésén keresztül az új lakásfejlesztési tőkeprogram indításával, társasházak (lakások) építésével segítse elő a lakáshoz jutást, figyelembe véve a minőségi lakhatási feltételek mellett az energiahatékonyság, a környezetvédelem és a társadalom-fejlesztési szempontok érvényesülését is.
-
-[3] Jelen törvénymódosítás célja egy kockázatkezelési mechanizmus kialakítása a tőkekiegyenlítés rendszerével, amely a Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság esetleges tőkeigényét csökkenti, mérsékelve és kiszámíthatóbbá téve ezzel a költségvetés esetleges terheit, és növelve a Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság forrásbevonási lehetőségeit.
