@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-23-20-5
 | 2024-09-29 | 2012-23-20-5H.18 | 45/2024. (IX. 26.) BM rendelet |
 | 2025-01-30 | 2012-23-20-5H.19 | 7/2024. (II. 12.) BM rendelet |
 | 2025-04-05 | 2012-23-20-5H.20 | 10/2025. (IV. 4.) BM rendelet |
+| 2025-05-05 | 2012-23-20-5H.21 | 10/2025. (IV. 4.) BM rendelet |
