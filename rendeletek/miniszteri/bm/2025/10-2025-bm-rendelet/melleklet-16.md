@@ -1,3 +1,3 @@
-16. melléklet a 10/2025. (IV. 4.) BM rendelethez[^55]
+16. melléklet a 10/2025. (IV. 4.) BM rendelethez[^54]
 
-[^55]: A 16. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 16. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

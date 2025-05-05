@@ -1,3 +1,3 @@
-14. melléklet a 10/2025. (IV. 4.) BM rendelethez[^53]
+14. melléklet a 10/2025. (IV. 4.) BM rendelethez[^52]
 
-[^53]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
