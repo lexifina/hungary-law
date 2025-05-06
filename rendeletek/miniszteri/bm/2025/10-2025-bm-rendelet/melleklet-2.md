@@ -1,3 +1,3 @@
-2. melléklet a 10/2025. (IV. 4.) BM rendelethez[^40]
+2. melléklet a 10/2025. (IV. 4.) BM rendelethez[^36]
 
-[^40]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
