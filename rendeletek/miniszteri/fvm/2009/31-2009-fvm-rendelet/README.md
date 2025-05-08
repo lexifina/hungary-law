@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-31-20-8
 | 2015-08-15 | 2009-31-20-82.4 | 46/2015. (VIII. 7.) FM rendelet |
 | 2017-08-18 | 2009-31-20-82.5 | 46/2015. (VIII. 7.) FM rendelet |
 | 2023-01-01 | 2009-31-20-82.6 | 46/2015. (VIII. 7.) FM rendelet |
+| 2025-05-08 | 2009-31-20-82.7 | 13/2025. (IV. 30.) AM rendelet |

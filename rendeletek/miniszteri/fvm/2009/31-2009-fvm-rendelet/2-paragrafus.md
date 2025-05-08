@@ -6,39 +6,48 @@
 
 2.[^1] Ártalmatlanítás: a nem emberi fogyasztásra szánt állati eredetű melléktermékekre és származtatott termékekre vonatkozó egészségügyi szabályok megállapításáról, valamint az 1774/2002/EK rendelet hatályon kívül helyezéséről szóló, 2009. október 21-i 1069/2009/EK európai parlamenti és tanácsi rendeletben szabályozott eljárás;
 
-3.[^2] Betegség gyanúja: a kéknyelv betegségre utaló klinikai tünet megjelenése vagy pozitív laborvizsgálati eredmény fogékony állatfaj valamely egyedében, ha olyan járványügyi adatok támasztják alá, amelyek alapján a betegség állományon belüli terjedése valószínűsíthető;
+3.[^2] Betegség gyanúja: egy állat vagy állatcsoport vonatkozásában
 
-4. Elkülönített vágás: egy állatnak vágóhídon, térben vagy időben elkülönítetten történő levágása;
+a) klinikai, kórbonctani vagy laboratóriumi vizsgálat alapján klinikai tünet, kórbonctani elváltozás vagy szövettani eredmény kéknyelv betegségre utal,
+
+b) az állatból vett mintában a diagnózis kéknyelv betegség valószínű jelenlétére utal, vagy
+
+c) járványügyi kapcsolatot állapítottak meg egy megerősített esettel;
+
+4.[^3]
 
 5. Fogékony állatfajok: valamennyi kérődző;
 
 6. Gazdaság: olyan létesítmény, ahol a kéknyelv betegségre fogékony fajú állatokat állandóan vagy átmeneti jelleggel tenyésztenek, illetve tartanak;
 
-7.[^3] Hatósági megállapítás: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalnak (a továbbiakban: járási hivatal) a Nemzeti Referencia Laboratórium (a továbbiakban: NRL) eredményeire alapozott határozata, mely szerint a kéknyelv betegség vírusa az adott állományban terjed;
+7.[^4] Hatósági megállapítás: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalnak (a továbbiakban: járási hivatal) a Nemzeti Referencia Laboratórium (a továbbiakban: NRL) eredménye alapján az (EU) 2020/689 felhatalmazáson alapuló bizottsági rendelet 9. cikk (2) bekezdése szerinti esetet megállapító döntése;
 
-8.[^4] Helyi Járványvédelmi Központ (HJK): az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatalon (a továbbiakban: vármegyei kormányhivatal) belüli, a betegség felszámolását irányító szervezet;
+8.[^5]
 
 9. Kórokozó átvivő (vektor): a Culicoides imicola rovarfajhoz vagy más, a Culicoides nemhez tartozó rovar, amely képes a kéknyelv betegség közvetítésére;
 
-10. Leölés: minden olyan hatósági eljárás a levágáson kívül, amely az állat halálát okozza;
+10.[^6]
 
 11. Levágás: minden olyan eljárás, amely egy állat kivéreztetéssel bekövetkező halálát okozza, emberi fogyasztás céljából;
 
-12.[^5] Országos Járványvédelmi Központ (OJK): a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) szervezeti keretein belüli, a kéknyelv betegség felszámolását irányító országos szervezet;
+12.[^7]
 
-13.[^6] Élő attenuált vakcina: olyan vakcina, amelyet a kéknyelv betegség vad vírus izolátumainak szövetkultúrán vagy embrionált tyúktojásban végzett többszöri átoltással történő legyengítésével állítanak elő.
+13.[^8] Élő attenuált vakcina: olyan vakcina, amelyet a kéknyelv betegség vad vírus izolátumainak szövetkultúrán vagy embrionált tyúktojásban végzett többszöri átoltással történő legyengítésével állítanak elő.
 
-14.[^7] Védőkörzet: legalább 100 kilométer sugarú kör által határolt terület azon gazdaság körül, amelyben a betegséget hatóságilag megállapították;
+14.[^9]
 
-15.[^8] Megfigyelési körzet: a védőkörzetet legalább 50 kilométer széles sávban övező, korlátozás alá vont terület, amelyben az elmúlt 12 hónapban a kéknyelv-betegség ellen élő attenuált vakcinával nem vakcináztak.
+15.[^10]
 
-(2) E rendelet végrehajtása során a kéknyelv betegségre fogékony fajokhoz tartozó egyes állatok szállításának ellenőrzése, megfigyelése, felügyelete és korlátozása tekintetében a 2000/75/EK tanácsi irányelv végrehajtási szabályairól szóló 2007. október 26-i 1266/2007/EK rendelet (a továbbiakban: 1266/2007/EK rendelet) 2. cikkében szereplő fogalommeghatározásokat is alkalmazni kell.
+(2)[^11] E rendelet végrehajtása során az (EU) 2020/689 felhatalmazáson alapuló bizottsági rendelet szerinti fogalommeghatározásokat is alkalmazni kell.
 
 [^1]: A 2. § (1) bekezdés 2. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 3. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 7. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (2) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 124. §-a szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés 8. pontja a 46/2015. (VIII. 7.) FM rendelet 36. § (2) bekezdésével megállapított, a 113/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés 12. pontja a 117/2012. (XI. 21.) VM rendelet 8. § c) pontja szerint módosított szöveg.
-[^6]: A 2. § (1) bekezdés 13. pontját a 117/2012. (XI. 21.) VM rendelet 1. §-a iktatta be.
-[^7]: A 2. § (1) bekezdés 14. pontját a 46/2015. (VIII. 7.) FM rendelet 36. § (3) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdés 15. pontját a 46/2015. (VIII. 7.) FM rendelet 36. § (3) bekezdése iktatta be.
+[^2]: A 2. § (1) bekezdés 3. pontja a 13/2025. (IV. 30.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 4. pontját a 13/2025. (IV. 30.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés 7. pontja a 13/2025. (IV. 30.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 8. pontját a 13/2025. (IV. 30.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 10. pontját a 13/2025. (IV. 30.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 12. pontját a 13/2025. (IV. 30.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés 13. pontját a 117/2012. (XI. 21.) VM rendelet 1. §-a iktatta be.
+[^9]: A 2. § (1) bekezdés 14. pontját a 46/2015. (VIII. 7.) FM rendelet 36. § (3) bekezdése iktatta be, a 13/2025. (IV. 30.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés 15. pontját a 46/2015. (VIII. 7.) FM rendelet 36. § (3) bekezdése iktatta be, a 13/2025. (IV. 30.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (2) bekezdése a 13/2025. (IV. 30.) AM rendelet 1. § (3) bekezdésével megállapított szöveg.
