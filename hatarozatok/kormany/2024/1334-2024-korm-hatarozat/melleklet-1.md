@@ -12,7 +12,7 @@
 
 | Határidő: | azonnal |
 
-## c) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 29 888 648 409 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## c) [^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 29 888 648 409 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 | Az átcsoportosítás tekintetében |
 
@@ -24,7 +24,7 @@
 
 | Felelős: | honvédelmi miniszter belügyminiszter építési és közlekedési miniszter külgazdasági és külügyminiszter kultúráért és innovációért felelős miniszter Miniszterelnöki Kabinetirodát vezető miniszter nemzetgazdasági miniszter |
 
-| Határidő: | 2025. május 31. |
+| Határidő: | 2025. május 31., a Nemzetbiztonsági Szakszolgálat cím javára átcsoportosított 2 000 000 000 forint tekintetében 2026. február 28. |
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 2 320 000 000 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -32,17 +32,18 @@
 
 | Határidő: | azonnal |
 
-## e) [^1]
+## e) [^2]
 
-## 2.[^2]
+## 2.[^3]
 
-## 3.[^3]
+## 3.[^4]
 
-## 4.[^4]
+## 4.[^5]
 
 1. melléklet az 1334/2024. (XI. 6.) Korm. határozathoz
 
-[^1]: Az 1. pont e) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontja az 1136/2025. (V. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. pont e) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
