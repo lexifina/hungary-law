@@ -40,6 +40,8 @@
 
 ## e) egyetért azzal, hogy a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 4. Sportegészségügy, sporttudomány támogatása alcímen belül a K512. Egyéb működési célú kiadások államháztartáson kívülre rovat kiadási előirányzata terhére 600 000 000 forint átcsoportosításra kerül sor a K336. Szakmai tevékenységet segítő szolgáltatások rovat kiadási előirányzata javára.
 
-## 2. A címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő és fejezeten belüli előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1334/2024. (XI. 6.) Korm. határozat 1. pont c) alpontjában a „2025. május 31.” szövegrész helyébe a „2025. május 31., a Nemzetbiztonsági Szakszolgálat cím javára átcsoportosított 2 000 000 000 forint tekintetében 2026. február 28.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1136/2025. (V. 8.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
