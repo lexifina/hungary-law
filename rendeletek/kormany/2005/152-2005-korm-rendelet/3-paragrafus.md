@@ -1,4 +1,4 @@
-3. § (1)[^15] Az 1. § (2) bekezdés a)–c) pontja szerinti esélyteremtő ösztöndíj esetében olyan, tanulói jogviszonyban álló magyar állampolgár vagy külföldi állampolgár pályázhat, aki halmozottan hátrányos helyzetű, védelembe vett, családba fogadott, ideiglenes hatállyal elhelyezett, utógondozásban részesül vagy hátrányos helyzetű, és a pályázat időszakának tanévében
+3. § (1)[^15] Az 1. § (2) bekezdés a)–c) pontja szerinti esélyteremtő ösztöndíj esetében olyan, tanulói jogviszonyban álló magyar állampolgár vagy külföldi állampolgár pályázhat, aki halmozottan hátrányos helyzetű, védelembe vett, családba fogadott, ideiglenes hatállyal elhelyezett, utógondozásban vagy rendszeres gyermekvédelmi kedvezményben részesül, és a pályázat időszakának tanévében
 
 a) az Út a középiskolába ösztöndíj esetén az általános iskola 7–8. évfolyamán,
 
@@ -38,7 +38,7 @@ b) a pedagógusképzést folytató felsőoktatási intézmény olyan hallgatója
 
 (7)[^23]
 
-[^15]: A 3. § (1) bekezdése a 13/2020. (II. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^15]: A 3. § (1) bekezdése a 13/2020. (II. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított, nyitó szövegrésze a 92/2025. (V. 8.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^16]: A 3. § (1) bekezdés c) pontja a 455/2020. (X. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^17]: A 3. § (2) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^18]: A 3. § (3) bekezdése a 13/2020. (II. 7.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.

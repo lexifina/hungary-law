@@ -1,4 +1,4 @@
-6/A. §[^50] (1) Az 1. § (2) bekezdés a)–c) pontjai szerinti esélyteremtő ösztöndíjak esetében a tanuló kötelessége, hogy
+6/A. §[^48] (1) Az 1. § (2) bekezdés a)–c) pontjai szerinti esélyteremtő ösztöndíjak esetében a tanuló kötelessége, hogy
 
 a) együttműködjön a mentorral,
 
@@ -16,4 +16,4 @@ b) mentorváltást kezdeményezzen,
 
 c) ösztöndíjat kapjon.
 
-[^50]: A 6/A. §-t a 207/2013. (VI. 17.) Korm. rendelet 6. §-a iktatta be, szövege a 171/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^48]: A 6/A. §-t a 207/2013. (VI. 17.) Korm. rendelet 6. §-a iktatta be, szövege a 171/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.

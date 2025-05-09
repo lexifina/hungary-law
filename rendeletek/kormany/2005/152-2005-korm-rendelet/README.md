@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-152-20-
 | 2022-07-01 | 2005-152-20-22.24 | 222/2012. (VIII. 15.) Korm. rendelet |
 | 2023-07-01 | 2005-152-20-22.25 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2024-03-01 | 2005-152-20-22.26 | 38/2007. (III. 7.) Korm. rendelet |
+| 2025-05-09 | 2005-152-20-22.27 | 92/2025. (V. 8.) Korm. rendelet |
