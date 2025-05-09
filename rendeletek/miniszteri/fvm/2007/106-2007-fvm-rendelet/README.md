@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-106-20-
 | 2024-02-02 | 2007-106-20-82.23 | 3/2024. (I. 30.) AM rendelet |
 | 2024-04-10 | 2007-106-20-82.24 | 25/2024. (IV. 9.) AM rendelet |
 | 2025-04-04 | 2007-106-20-82.25 | 25/2024. (IV. 9.) AM rendelet |
+| 2025-05-09 | 2007-106-20-82.26 | 15/2025. (V. 8.) AM rendelet |
