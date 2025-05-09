@@ -1,0 +1,1 @@
+2. § Az 1. § szerinti behozatali tilalom nem alkalmazható arra a szállítmányra, amelynek Magyarország területére történő behozatalára a fuvarozó nyilatkozata alapján átszállítás céljából kerül sor úgy, hogy a behozatal napjától számított 5. nap végéig elhagyja Magyarország területét.
