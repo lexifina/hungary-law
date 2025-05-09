@@ -1,3 +1,3 @@
-1. melléklet a 18/2024. (IV. 9.) AM rendelethez[^8]
+1. melléklet a 18/2024. (IV. 9.) AM rendelethez[^13]
 
-[^8]: Az 1. mellékletet az 5/2025. (IV. 3.) AM rendelet 52. §-a hatályon kívül helyezte.
+[^13]: Az 1. mellékletet az 5/2025. (IV. 3.) AM rendelet 52. §-a hatályon kívül helyezte.
