@@ -32,4 +32,6 @@ III. csoport (civil társadalmi szervezetek):
 
 4. dr. Szendrei Róbert Tamás;
 
-2. visszavonja az Európai Gazdasági és Szociális Bizottság tagjainak jelöléséről szóló 1294/2020. (VI. 11.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
