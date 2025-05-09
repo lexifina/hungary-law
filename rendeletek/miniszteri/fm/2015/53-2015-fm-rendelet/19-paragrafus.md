@@ -6,6 +6,8 @@
 
 a) 13. §-a az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet,
 
-b) 14. §-a az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet
+b)[^94] 14. §-a az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^94]: A 19. § b) pontja a 15/2025. (V. 8.) AM rendelet 15. §-ával megállapított szöveg.

@@ -1,10 +1,11 @@
-6. § (1)[^18] A 2016. évtől kezdődően a szerkezetátalakítási program alapján vállalt elismert tevékenységből származó árbevétel mint feltétel nem vagy csak részleges teljesítése esetén a Kincstár – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kéréseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Eljárási törvény) foglaltak szerint – a dohánytermelő vonatkozásában nem teljesítési bírságot szab ki, amelynek mértéke az elmaradt árbevétel összegének kétszáz forintos egységértékeiként egy euró. A szerkezetátalakítási program alapján vállalt élőmunka ráfordítási kötelezettség feltételeinek nem vagy csak részleges teljesítése esetén az Eljárási törvény szerinti nem teljesítési bírság mértéke a dohánytermelő vonatkozásában munkaóránként egy euró.
+6. § (1)[^36]
 
 (2) A szerkezetátalakítási program előírásai teljesítési arányának meghatározásánál azt a szerkezetátalakítási programban való részvételhez kapcsolódó, munkaórához vagy árbevételhez kötött feltételt kell figyelembe venni, amelyet a dohánytermelő a legkisebb mértékben teljesített.
 
-(3)[^19] A szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságról, valamint a szerkezetátalakítási program előírásai teljesítési arányának meghatározásáról a Kincstár a vonatkozó egységes területalapú támogatási kérelem lezárását követő 70 napon belül határozatot hoz.
+(3)[^37] A szerkezetátalakítási program feltételeinek teljesítési arányáról a Kincstár a tárgyévi fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás lezárását követő 70 napon belül határozatot hoz.
 
-(4) Az (1) bekezdésben foglalt szankciók egyidejűleg összevontan nem alkalmazhatóak, közülük a magasabb összegű bírságot kell alkalmazni.
+(4)[^38]
 
-[^18]: A 6. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
-[^19]: A 6. § (3) bekezdése a 9/2018. (VII. 2.) AM rendelet 16. §-ával megállapított szöveg.
+[^36]: A 6. § (1) bekezdését a 15/2025. (V. 8.) AM rendelet 17. § c) pontja hatályon kívül helyezte.
+[^37]: A 6. § (3) bekezdése a 15/2025. (V. 8.) AM rendelet 7. §-ával megállapított szöveg.
+[^38]: A 6. § (4) bekezdését a 15/2025. (V. 8.) AM rendelet 17. § c) pontja hatályon kívül helyezte.
