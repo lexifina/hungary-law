@@ -2,7 +2,7 @@
 
 20. § (1) A gyepek megőrzése gyakorlat (a továbbiakban: gyakorlat10) keretében a tárgyévet megelőző év gyepterületeit meg kell őrizni azzal, hogy az állandó gyepeket parcella szinten kell megőrizni a jogszerű földhasználó személyében bekövetkező változástól függetlenül, míg az ideiglenes gyepek elhelyezkedése változhat.
 
-(2)[^56] A gyepterületek feltörése, szántása, más hasznosítássá történő átalakítása az Egységes Kérelem rendelet 16/A. § a) pontjától eltérően, tárgyévben december 31-ig tilos.
+(2)[^57] A gyepterületek feltörése, szántása, más hasznosítássá történő átalakítása az Egységes Kérelem rendelet 16/A. § a) pontjától eltérően, tárgyévben december 31-ig tilos.
 
 (3) Az ideiglenes gyep területének előző évhez képest történő csökkenése csak abban az esetben fogadható el, amennyiben a csökkenés oka az ideiglenes gyep állandó gyeppé történő átminősítése.
 
@@ -22,4 +22,4 @@ c) a vállalásba bevont területek Natura 2000 fedvényen helyezkednek el; vagy
 
 d) a gazdaság egészét tekintve csökkent az ideiglenes gyepterület nagysága, ide nem értve azon területeket, amelyeket tárgyévben állandó gyeppé minősítettek át, vagy a (4) bekezdés szerinti esetet.
 
-[^56]: A 20. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 48. § 28. pontja szerint módosított szöveg.
+[^57]: A 20. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 48. § 28. pontja szerint módosított szöveg.

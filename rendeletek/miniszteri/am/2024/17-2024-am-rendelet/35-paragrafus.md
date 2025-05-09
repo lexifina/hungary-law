@@ -34,7 +34,7 @@ c) a felhasznált mennyiséget és a felhasználhatósági időt igazoló kísé
 
 (6) Az (5) bekezdés szerinti igazoló dokumentumokat a mezőgazdasági termelőnek a KAP Vhr. 19. §-a szerint kell megőriznie, amelyeket a Kincstár helyszíni vizsgálat keretében jogosult ellenőrizni.
 
-(7)[^70] A gyakorlat20 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
+(7)[^71] A gyakorlat20 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
 
 (8) A gyakorlat20-at nem teljesítettnek kell tekinteni a gyakorlat20-al érintett tábla vonatkozásában, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
@@ -56,7 +56,7 @@ b) nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agr
 
 c) az egységes kérelemben nem jelentette be, hogy mely tábla vonatkozásában kívánja teljesíteni a gyakorlat20-at; vagy
 
-d)[^71] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
+d)[^72] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
 
-[^70]: A 35. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^71]: A 35. § (9) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 45. § (2) bekezdésével megállapított szöveg.
+[^71]: A 35. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^72]: A 35. § (9) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 45. § (2) bekezdésével megállapított szöveg.

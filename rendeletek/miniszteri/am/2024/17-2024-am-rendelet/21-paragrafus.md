@@ -22,6 +22,6 @@ a) a gyakorlat11 teljesítésébe bevont táblákat és
 
 b) a gyakorlat11 teljesítésébe bevont táblánként a legeltetés tervezett típusát, valamint a legeltetni tervezett állatfajt.
 
-(10)[^57]
+(10)[^58]
 
-[^57]: A 21. § (10) bekezdését a 33/2024. (V. 30.) AM rendelet 47. § b) pontja hatályon kívül helyezte.
+[^58]: A 21. § (10) bekezdését a 33/2024. (V. 30.) AM rendelet 47. § b) pontja hatályon kívül helyezte.

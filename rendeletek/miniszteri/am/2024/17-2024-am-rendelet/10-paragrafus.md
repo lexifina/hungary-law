@@ -14,7 +14,7 @@ c) a tarló fennhagyásával annak kultúrállapotban tartása mellett
 
 (3) A (2) bekezdés a) és b) pontja szerinti talajtakarási módok a 6. melléklet szerinti növényekkel valósíthatóak meg.
 
-(4)[^16] A 7. mellékletben felsorolt növénykultúrák betakarítása után visszamaradó földterületen a (2) bekezdés c) pontja szerinti talajtakarási mód a Feltételesség rendelet 15. § (3) bekezdésének megfelelő mulcsozással teljesíthető.
+(4)[^17] A 7. mellékletben felsorolt növénykultúrák betakarítása után visszamaradó földterületen a (2) bekezdés c) pontja szerinti talajtakarási mód a Feltételesség rendelet 15. § (3) bekezdésének megfelelő mulcsozással teljesíthető.
 
 (5) A gyakorlat1-et választó mezőgazdasági termelőnek az egységes kérelem keretében a gyakorlat1-gyel érintett táblák vonatkozásában meg kell jelölnie a talajtakarás megvalósításának módját. Egy táblán egy talajtakarási mód választható.
 
@@ -36,15 +36,15 @@ b) nem a (3) bekezdés szerinti takarónövény került elvetésre;
 
 c) a mezőgazdasági termelő az Egységes kérelem rendeletben szabályozott agrotechnikai művelet bejelentésének nem, vagy nem határidőn belül tett eleget;
 
-d)[^17] a mezőgazdasági termelő nem biztosította a talajtakarást a (2) bekezdés szerinti talajtakarási módnak megfelelően legalább a tárgyévet követő év február 28. napjáig;
+d)[^18] a mezőgazdasági termelő nem biztosította a talajtakarást a (2) bekezdés szerinti talajtakarási módnak megfelelően legalább a tárgyévet követő év február 28. napjáig;
 
-e)[^18] a mezőgazdasági termelő a gyakorlat3 vagy a gyakorlat3a gyakorlat keretében nem termelő területként bejelentett ökológiai másodvetéssel kívánta teljesíteni a gyakorlat1-et a táblán; vagy
+e)[^19] a mezőgazdasági termelő a gyakorlat3 vagy a gyakorlat3a gyakorlat keretében nem termelő területként bejelentett ökológiai másodvetéssel kívánta teljesíteni a gyakorlat1-et a táblán; vagy
 
-f)[^19]
+f)[^20]
 
 g) a tárgyév bármely szakaszában a terület talajtakarás nélküli parlagként volt hasznosítva.
 
-[^16]: A 10. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 48. § 4. pontja szerint módosított szöveg.
-[^17]: A 10. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 5. pontja szerint módosított szöveg.
-[^18]: A 10. § (8) bekezdés e) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 6. pontja szerint módosított szöveg.
-[^19]: A 10. § (8) bekezdés f) pontját az 5/2025. (IV. 3.) AM rendelet 49. § a) pontja hatályon kívül helyezte.
+[^17]: A 10. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 48. § 4. pontja szerint módosított szöveg.
+[^18]: A 10. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 5. pontja szerint módosított szöveg.
+[^19]: A 10. § (8) bekezdés e) pontja az 5/2025. (IV. 3.) AM rendelet 48. § 6. pontja szerint módosított szöveg.
+[^20]: A 10. § (8) bekezdés f) pontját az 5/2025. (IV. 3.) AM rendelet 49. § a) pontja hatályon kívül helyezte.

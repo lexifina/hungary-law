@@ -36,7 +36,7 @@ kell igazolnia.
 
 (6) Az (5) bekezdés szerinti igazoló dokumentumokat a mezőgazdasági termelőnek a KAP Vhr. 19. §-a szerint kell megőriznie, amelyeket a Kincstár helyszíni vizsgálat keretében jogosult ellenőrizni.
 
-(7)[^68] A gyakorlat19 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
+(7)[^69] A gyakorlat19 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
 
 (8) A gyakorlat19-et nem teljesítettnek kell tekinteni a gyakorlat19 teljesítésébe bevont tábla vonatkozásában, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
@@ -44,7 +44,7 @@ a) a gyakorlat19-cel érintett egyéb állandó kultúra földhasználati kateg�
 
 b) nem teljesítette a (3) bekezdésben meghatározott valamely feltételt; vagy
 
-c)[^69] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
+c)[^70] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
 
 (9) A gyakorlat19-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
@@ -52,5 +52,5 @@ a) az egyéb állandó kultúra terület legalább 50%-án nem használt, vagy n
 
 b) nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agrotechnikai műveletként a mikrobiológiai készítmény alkalmazását az egyéb állandó kultúra területnek a gyakorlat19 teljesítésére bejelentett táblák mindegyikén, de legalább a teljes egyéb állandó kultúra terület 50%-án.
 
-[^68]: A 34. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 44. § (1) bekezdésével megállapított szöveg.
-[^69]: A 34. § (8) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^69]: A 34. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^70]: A 34. § (8) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 44. § (2) bekezdésével megállapított szöveg.

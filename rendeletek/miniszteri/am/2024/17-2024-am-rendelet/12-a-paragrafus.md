@@ -1,4 +1,4 @@
-## 9a.[^29] Nem termelő tájképi elemek és területek emelt szintű kijelölése szántóterületeken
+## 9a.[^30] Nem termelő tájképi elemek és területek emelt szintű kijelölése szántóterületeken
 
 12/A. § (1) A nem termelő tájképi elemek és területek emelt szintű kijelölése szántóterületen gyakorlat (a továbbiakban: gyakorlat3a) a mezőgazdasági üzem teljes szántóterületére vonatkozik.
 
@@ -38,4 +38,4 @@ c) a gyakorlat keretében megjelölt tájképi elem vagy terület nem felel meg 
 
 (12) Amennyiben az ellenőrzés eredményeképpen megállapításra kerül, hogy a gyakorlat3a nem teljesül, de a gyakorlat3 igen, akkor úgy kell tekinteni, mintha a mezőgazdasági termelő a gyakorlat3-at választotta és teljesítette volna.
 
-[^29]: A 9a. alcímet (12/A. §-t) az 5/2025. (IV. 3.) AM rendelet 37. §-a iktatta be.
+[^30]: A 9a. alcímet (12/A. §-t) az 5/2025. (IV. 3.) AM rendelet 37. §-a iktatta be.

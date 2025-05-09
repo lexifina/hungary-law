@@ -46,7 +46,7 @@
 
 | 23. | Kecske | magyar parlagi kecske |
 
-10. melléklet a 17/2024. (IV. 9.) AM rendelethez[^95]
+10. melléklet a 17/2024. (IV. 9.) AM rendelethez[^98]
 
 A gyakorlat22 teljesítéséhez alkalmazható sorköztakaró növények listája
 
@@ -140,4 +140,4 @@ A gyakorlat22 teljesítéséhez alkalmazható sorköztakaró növények listája
 
 | 44. | Zöldugar kultúra |
 
-[^95]: A 10. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (6) bekezdésével megállapított szöveg.
+[^98]: A 10. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (6) bekezdésével megállapított szöveg.
