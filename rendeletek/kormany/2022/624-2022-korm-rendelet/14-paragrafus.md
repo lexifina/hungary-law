@@ -12,7 +12,7 @@ e)[^32] adatot szolgáltat a területi környezetveszélyeztetésekről és kör
 
 f) részt vesz a környezeti tudat- és szemléletformáló feladatok ellátásában.
 
-(2)[^33] A területi környezetvédelmi hatóság a levegőtisztaság-védelmi emisszió mérés, a mobil mérőegységekkel elvégezhető levegőminőségi mérés és zajmérés vonatkozásában a 2. § (1) bekezdése szerinti általános illetékességi területére a hatósági ellenőrzési terv előkészítése céljából az ellenőrzési időszakot megelőző 30. napig hatósági mérési tervet készít. A hatósági mérési terv – a 7. melléklet szerint – az adott területen a regionális laboratóriumot üzemeltető vármegyei kormányhivatal bevonásával és jóváhagyásával készül.
+(2)[^33] A területi környezetvédelmi hatóság a levegőtisztaság-védelmi emisszió mérés és zajmérés vonatkozásában a 2. § (1) bekezdése szerinti általános illetékességi területére a hatósági ellenőrzési terv előkészítése céljából az ellenőrzési időszakot megelőző 30. napig hatósági mérési tervet készít. A hatósági mérési terv – a 7. melléklet szerint – az adott területen a regionális laboratóriumot üzemeltető vármegyei kormányhivatal bevonásával és jóváhagyásával készül.
 
 (3) A területi vízvédelmi hatóság, valamint a területi vízvédelmi és a területi vízügyi igazgatási szerv részére a területi környezetvédelmi hatóság biztosítja az (1) bekezdés a) pontja és a 15. § a)–c) pontja szerinti rendszerben rögzített, a vizekre vonatkozó adatokhoz történő hozzáférést.
 
@@ -20,4 +20,4 @@ f) részt vesz a környezeti tudat- és szemléletformáló feladatok ellátás�
 
 [^31]: A 14. § (1) bekezdés c) pontja a 20. § (4) bekezdése szerint módosított szöveg.
 [^32]: A 14. § (1) bekezdés e) pontja a 119/2024. (VI. 10.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
-[^33]: A 14. § (2) bekezdése a 20. § (3) bekezdése szerint módosított szöveg.
+[^33]: A 14. § (2) bekezdése a 20. § (3) bekezdése, a 91/2025. (V. 8.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

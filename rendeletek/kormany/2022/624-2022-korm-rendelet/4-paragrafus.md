@@ -26,7 +26,7 @@ c)[^11] vízvédelemmel kapcsolatos megállapítást is tartalmaz, a környezetv
 
 véleményét.
 
-(6)[^12] A miniszter az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.-t (a továbbiakban: HungaroMet Nonprofit Zrt.) közreműködőként veheti igénybe.
+(6)[^12]
 
 [^5]: A 4. § (1) bekezdés a) pontját a 119/2024. (VI. 10.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (1) bekezdése iktatta be.
 [^6]: A 4. § (2) bekezdését a 119/2024. (VI. 10.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (2) bekezdése iktatta be.
@@ -35,4 +35,4 @@ véleményét.
 [^9]: A 4. § (5) bekezdését a 119/2024. (VI. 10.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (2) bekezdése iktatta be.
 [^10]: A 4. § (5) bekezdés b) pontja a 257/2024. (VIII. 29.) Korm. rendelet 356. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § (5) bekezdés c) pontja a 257/2024. (VIII. 29.) Korm. rendelet 356. § b) pontja szerint módosított szöveg.
-[^12]: A 4. § (6) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (6) bekezdését a 91/2025. (V. 8.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

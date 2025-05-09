@@ -6,7 +6,7 @@ aa) a Magyarország nemzeti meteorológiai szolgáltatójáról és a meteoroló
 
 ab) a levegő védelméről szóló kormányrendelet szerinti feladatkörében
 
-a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság,
+a HungaroMet Nonprofit Zrt.,
 
 b)[^25] az Országos Környezetvédelmi Információs Rendszer működtetése vonatkozásában a feladatköréhez tartozó ügyekben
 
@@ -18,5 +18,5 @@ bc) a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár 
 
 jár el.
 
-[^24]: A 10. § a) pontja az 591/2023. (XII. 20.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^24]: A 10. § a) pontja az 591/2023. (XII. 20.) Korm. rendelet 27. §-ával megállapított, záró szövegrésze a 91/2025. (V. 8.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^25]: A 10. § b) pontja a 119/2024. (VI. 10.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

@@ -8,6 +8,6 @@
 
 | 4. | A felszámolási eljárás és a végelszámolás környezet- és természetvédelmi követelményeiről szóló kormányrendelet szerinti környezetvédelmi hatósági eljárások | Ha a tevékenység jellemzői alapján a vizek minőségi és mennyiségi állapotára hatással van. | A szükséges vízügyi és a vízvédelmi intézkedés megállapításának kérdésében |
 
-6. melléklet a 624/2022. (XII. 30.) Korm. rendelethez[^116]
+6. melléklet a 624/2022. (XII. 30.) Korm. rendelethez[^117]
 
-[^116]: A 6. mellékletet a 416/2024. (XII. 20.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^117]: A 6. mellékletet a 416/2024. (XII. 20.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
