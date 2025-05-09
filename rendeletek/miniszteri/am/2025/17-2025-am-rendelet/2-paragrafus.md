@@ -1,0 +1,3 @@
+2. § A 17/2024. (IV. 9.) AM rendelet a következő 43. §-sal egészül ki:
+
+„43. § E rendeletnek a Közös Agrárpolitika Stratégiai Tervből megvalósuló Agro-ökológiai Programhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 17/2024. (IV. 9.) AM rendelet módosításáról szóló 17/2025. (V. 8.) AM rendelettel (a továbbiakban: R.) megállapított 4. § (3) bekezdését az R. hatálybalépése napján folyamatban lévő eljárásokban is alkalmazni kell.”
