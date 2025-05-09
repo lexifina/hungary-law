@@ -34,21 +34,7 @@ k) az információs önrendelkezési jogról és az információszabadságról s
 
 az LRK látja el.
 
-(2a)[^43] Magyarország területén
-
-a) az OLM miniszter által kijelölt automata mérőállomásainak, mobil mérőegységeinek és manuális mintavételi pontjainak a levegő terheltségi szint és a helyhez kötött légszennyező források kibocsátásainak vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló miniszteri rendelet előírásainak megfelelő üzemeltetését,
-
-b) az OLM által vett minták laboratóriumi elemzését,
-
-c) az OLM éves mintavételi programjának végrehajtását,
-
-d) az OLM területi adatainak gyűjtését, elsődleges értékelését, az adatok LRK-nak történő továbbítását,
-
-e) az a)–d) pontok ellátásához szükséges informatikai és telekommunikációs rendszer folyamatos üzemeltetését, és
-
-f) a szmogriadóval kapcsolatos ügyeleti rendszer működtetését
-
-a regionális laboratóriumot üzemeltető vármegyei kormányhivatal bevonásával a területi környezetvédelmi hatóság látja el.
+(2a)[^43]
 
 (3) A levegőterheltségi vizsgálatok kiterjednek minden olyan légköri (időjárási) jelenségre is, amely a levegő minőségét bármilyen módon és mértékben befolyásolhatja.
 
@@ -68,6 +54,6 @@ c) az egyéb időszakos mérés esetén az értékelések éves
 [^40]: A 9. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
 [^41]: A 9. § (1b) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
 [^42]: A 9. § (2) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^43]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 20/2017. (II. 2.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 116. §-a szerint módosított szöveg.
+[^43]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, a 91/2025. (V. 8.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^44]: A 9. § (4) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^45]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.

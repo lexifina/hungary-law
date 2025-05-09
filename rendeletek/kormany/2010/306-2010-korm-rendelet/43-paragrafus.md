@@ -18,19 +18,21 @@ h) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 i)[^145] a közepes tüzelőberendezésekből származó egyes szennyező anyagok levegőbe történő kibocsátásának korlátozásáról szóló, 2015. november 25-i 2015/2193 európai parlamenti és tanácsi irányelvnek
 
+j)[^146] az (EU) 2016/2284 európai parlamenti és tanácsi irányelvnek az egyes légköri szennyező anyagok előre jelzett kibocsátásaira vonatkozó jelentéstétel módszertana tekintetében módosításáról szóló, 2023. október 27-i (EU) 2024/299 felhatalmazáson alapuló bizottsági irányelvnek
+
 ## való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
 a) a veszélyes hulladékégetésről szóló 94/67/EK tanácsi irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 1998. február 25-i 98/184/EK bizottsági határozatnak,
 
-b)–c)[^146]
+b)–c)[^147]
 
 d) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2006. január 18-i 166/2006/EK európai parlamenti és tanácsi rendelet 7. cikkének, továbbá
 
 e) az ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai parlamenti és tanácsi rendelet 26. cikkének
 
-f)[^147] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet
+f)[^148] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet
 
 [^140]: A 43. § a 378/2013. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^141]: A 43. § (1) bekezdés a)–b) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
@@ -38,5 +40,6 @@ f)[^147] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és sz
 [^143]: A 43. § (1) bekezdés d) pontja a 133/2018. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^144]: A 43. § (1) bekezdés g) pontja a 158/2017. (VI. 16.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^145]: A 43. § (1) bekezdés i) pontját a 158/2017. (VI. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^146]: A 43. § (2) bekezdés b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^147]: A 43. § (2) bekezdés f) pontját a 174/2019. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^146]: A 43. § (1) bekezdés j) pontját a 91/2025. (V. 8.) Korm. rendelet 1. §-a iktatta be.
+[^147]: A 43. § (2) bekezdés b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^148]: A 43. § (2) bekezdés f) pontját a 174/2019. (VII. 16.) Korm. rendelet 1. §-a iktatta be.

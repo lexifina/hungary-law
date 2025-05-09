@@ -1,4 +1,4 @@
-12. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^170]
+12. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^172]
 
 I. Az Országos Levegőterhelés-csökkentési Program tartalmi követelményei
 
@@ -102,4 +102,4 @@ II. A 21/I. § (2) bekezdésében meghatározott kibocsátáscsökkentő intézk
 
 4. Az intézkedések meghatározásánál a kis- és mikrogazdaságokra gyakorolt hatásokat teljeskörűen figyelembe kell venni. Az alkalmazandó légszennyezőanyag kibocsátás-csökkentési kötelezettség szempontjából lehetséges és célszerű mértékben a kis- és mikrogazdaságok mentesíthetők egyes intézkedések alól.
 
-[^170]: A 12. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § c) pontja iktatta be.
+[^172]: A 12. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § c) pontja iktatta be.

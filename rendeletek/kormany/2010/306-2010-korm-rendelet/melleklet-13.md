@@ -1,4 +1,4 @@
-13. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^171]
+13. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^173]
 
 A kibocsátások jelentésére vonatkozó előírások
 
@@ -56,15 +56,15 @@ A kibocsátások jelentésére vonatkozó előírások
 
 3.1. A 32/A. § (1) bekezdése szerinti kibocsátások jelentésére vonatkozó előírások
 
-|  |  | A | B | C | D |
+|  | A | B | C | D |
 
-|  | 1 | Jelentéstípus | Szennyezőanyagok | Időszak | Jelentéstétel határideje |
+| 1 | Jelentéstípus | Szennyezőanyagok | Időszak | Jelentéstétel határideje |
 
-|  | 2 | Területi bontású országos kibocsátási adatok forráskategó- riánként (GNFR) | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10; – Cd, Hg, Pb; – POP-ok, összes PAH, dioxinok/furánok, PCB-k, HCB; – korom, ha rendelkezésre áll | 2017-től négyévente, a jelentéstételi év előtti 2. évre (X–2) | május 1. |
+| 2 | Területi bontású országos kibocsátási adatok forráskategóriák szerint (GNFR) | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10 – nehézfémek (Cd, Hg, Pb) – POP-ok (minden PAH, dioxinok/furánok, PCB-k, HCB) – korom (ha rendelkezésre áll) | négyévente, a jelentéstételi év előtti 2 évig (X–2) 2017-től | május 1. |
 
-|  | 3 | Nagy pontszerű források (LPS) kibocsátásai forráskategóriái szerint | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10; – Cd, Hg, Pb; – POP-ok, összes PAH, dioxinok/furánok, PCB-k, HCB; – korom, ha rendelkezésre áll | 2017-től négyévente, a jelentéstételi év előtti 2. évre (X–2) | május 1. |
+| 3 | Nagy pontszerű források (LPS) kibocsátásai forráskategóriák szerint (GNFR) | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10 – nehézfémek (Cd, Hg, Pb) – POP-ok (minden PAH, dioxinok/furánok, PCB-k, HCB) – korom (ha rendelkezésre áll) | négyévente, a jelentéstételi év előtti 2 évig (X–2) 2017-től | május 1. |
 
-|  | 4 | Légszennyező- anyag kibocsátások előrejelzése, országos összkibocsátások összesített NFR forráskategóriák szerint | – SO2, NOx, NMVOC, NH3, PM2,5, korom, ha rendelkezésre áll | 2017-től kétévente, a 2020-as, 2025-ös, 2030-as, valamint rendelkezésre álló adat esetén a 2040-es és 2050-es előrejelzési év | március 15. |
+| 4 | Légszennyezőanyag-kibocsátások előrejelzése NFR forráskategóriák szerint | – SO2, NOx, NMVOC, NH3, PM2,5, korom (ha van rendelkezésre álló adat) | kétévente, a 2020-as, 2025-ös, 2030-as, valamint – ha van rendelkezésre álló adat – 2040-es és 2050-es előrejelzési évet is beleértve 2017-től | március 15. |
 
 3.2. Hibás jelentés esetén a benyújtási határidőt követően legkésőbb négy héten belül új jelentést kell benyújtani a változtatásokhoz fűzött magyarázattal együtt.
 
@@ -76,4 +76,4 @@ A kibocsátások jelentésére vonatkozó előírások
 
 |  | 2 | Tájékoztató kataszterjelentés | – SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10; – Cd, Hg, Pb és korom; – POP-ok, összes PAH, dioxinok/furánok, PCB-k, HCB; – As, Cr, Cu, Ni, Se, Zn, valamint ezek vegyületei és TSP | évente | március 15. |
 
-[^171]: A 13. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § d) pontja iktatta be, szövege a 122/2021. (III. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^173]: A 13. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § d) pontja iktatta be, szövege a 122/2021. (III. 10.) Korm. rendelet 6. § b) pontja, a 91/2025. (V. 8.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
