@@ -1,0 +1,1 @@
+7. § E rendelet 1. és 2. §-a az (EU) 2016/2284 európai parlamenti és tanácsi irányelvnek az egyes légköri szennyező anyagok előre jelzett kibocsátásaira vonatkozó jelentéstétel módszertana tekintetében módosításáról szóló, 2023. október 27-i (EU) 2024/299 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
