@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában:
 
-1. alapellátás: az országos, a regionális és az elővárosi személyszállítási közszolgáltatások ellátásért felelős által biztosítandó, az e törvény 27. § (2) és (3) bekezdésében meghatározott mértékű szolgáltatás, a főváros esetében és a megyei jogú városok közül azoknál, amelyek helyi személyszállítási közszolgáltatást működtetnek, a Főváros Közgyűlésének vagy a megyei jogú város képviselő-testületének rendeletében meghatározott szolgáltatási szint;
+1. alapellátás: az országos, a regionális és az elővárosi személyszállítási közszolgáltatások esetében az e törvény és a felhatalmazása alapján a közlekedésért felelős miniszter által az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokról szóló rendeletben meghatározott mértékű szolgáltatás, a főváros és a helyi személyszállítási közszolgáltatást működtető megyei jogú városok esetében a Főváros Közgyűlésének vagy a megyei jogú város képviselő-testületének rendeletében meghatározott szolgáltatási szint;
 
 2. belföldi személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye egyaránt Magyarország területén van;
 
@@ -22,9 +22,11 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 
-6a.
+6a. garantált átszállás: a közforgalmú menetrend által biztosított átszállási lehetőség a közösségi közlekedés járatai között;
 
 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
+
+7a. haváriahelyzet: természeti csapás, emberi tevékenység vagy mulasztás hatására előállt helyzet, baleset, katasztrófa vagy hirtelen bekövetkező műszaki jellegű meghibásodás, amely a személyszállítási közszolgáltatás ellátásában zavart okoz;
 
 8. helyi személyszállítási szolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a közúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső vasútállomására (vasúti megállóhelyére), komp- vagy révátkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is;
 

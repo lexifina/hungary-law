@@ -1,16 +1,16 @@
 ## 28. Még elégséges szolgáltatás a közforgalmú közlekedésben
 
-39. § (1) A sztrájkról szóló 1989. évi VII. törvény (a továbbiakban: Sztrájk tv.) 4. § (2) bekezdésében meghatározott, még elégséges szolgáltatás mértéke a munkabeszüntetésben érintett időszakra vetítve vonalanként
+39. § (1) A sztrájkról szóló 1989. évi VII. törvény 4. § (2) bekezdésében meghatározott, még elégséges szolgáltatás mértéke a munkabeszüntetésben érintett időszak vonatkozásában nem lehet kevesebb, mint
 
-a) a helyi és elővárosi személyszállítási közszolgáltatások esetén a megrendelt személyszállítási szolgáltatás mennyiségének 66%-a,
+a) helyi személyszállítási közszolgáltatások esetén a megrendelt személyszállítási közszolgáltatás mennyiségének 66%-a,
 
-b) az országos és a regionális személyszállítási közszolgáltatások esetén a megrendelt személyszállítási szolgáltatás mennyiségének 50%-a.
+b) országos, elővárosi és regionális személyszállítási közszolgáltatások esetén a (3) bekezdésben jóváhagyott sztrájkmenetrend.
 
-(2) Az (1) bekezdésben meghatározott arányokat vonalankénti bontásban, járatonként számolva, tört szám esetén felfelé kerekítve kell meghatározni. A még elégséges szolgáltatás mértéke az (1) bekezdésben meghatározott mennyiséget a munkabeszüntetés szervezői és a munkáltató közös megállapodásával meghaladhatja.
+(2) A személyszállítási közszolgáltatást végző közlekedési szolgáltató minden menetrendi évben sztrájkmenetrend-tervezetet készít a munkavállalók képviselőinek bevonásával, amelyet – a munkavállalók képviselőinek álláspontjáról szóló tájékoztatással együtt – az éves menetrend felterjesztésével egyidejűleg jóváhagyásra megküld a megrendelőnek. A megrendelő a sztrájkmenetrendet minden évben november 18-ig, de legkésőbb a menetrend felterjesztés beérkezésétől számított 14 napon belül jóváhagyja.
 
-(3) Az (1) bekezdésben meghatározott mértékeket a munkabeszüntetés első 24 órája tekintetében óránként, ezt követően napi bontásban kell érvényesíteni oly módon, hogy ha a munkabeszüntetés munkanapon 6:00–9:00, illetve 15:00–18:00 közötti időszakot is érint, az (1) bekezdésben meghatározott mértékeknek ezen időszakokra vetítve önállóan, óránkénti bontásban is teljesülniük kell.
+(3) A lakosság közszolgáltatásokhoz való hozzáférésének biztosítása érdekében a közlekedési szolgáltató köteles legalább a (2) bekezdés szerinti, a megrendelő által jóváhagyott sztrájkmenetrendnek megfelelő szolgáltatást biztosítani.
 
-(4) A sztrájkkal érintett közlekedési szolgáltató az (1)–(3) bekezdésben foglaltaknak megfelelő és eleget tevő menetrendtervezetet dolgoz ki és azt legkésőbb sztrájk megkezdésének időpontját két nappal megelőzően a lakosság egyidejű tájékoztatásával meghirdeti.
+(4) A még elégséges szolgáltatás mértéke az (1) bekezdésben meghatározott mennyiséget a munkabeszüntetés szervezői és a munkáltató közös megállapodásával meghaladhatja.
 
 (5) Az (1) bekezdésben meghatározott mértékű szolgáltatás nyújtása csak abban az esetben tekinthető a még elégséges szolgáltatás teljesítésének, ha az a menetrendben előre meghirdetett útvonalon és időpontban megvalósul.
 

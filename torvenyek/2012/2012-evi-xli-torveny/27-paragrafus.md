@@ -1,29 +1,43 @@
-27. § (1) Amennyiben a közlekedési hálózat műszaki állapota lehetővé teszi, az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátást minden település számára – elsődlegesen menetrend szerinti közlekedéssel – kell biztosítani.
+27. § (1) Ha a közlekedési hálózat műszaki állapota lehetővé teszi, az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátást minden település számára elsődlegesen menetrend szerinti közlekedéssel kell biztosítani.
 
-(2) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátásnak – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül – biztosítani kell:
+(2) Az országos, regionális és elővárosi szegmensenként egy vonalon egyféle, az utasforgalmi adatok alapján azonosítható utazási igények leghatékonyabb kiszolgálását célzó közlekedési mód (a továbbiakban: leghatékonyabb közlekedési mód) finanszírozását biztosítja a megrendelő. A megrendelő dönthet a közlekedés módjának megváltoztatásáról, további közlekedési módok alkalmazásáról. A megrendelő a közszolgáltatási menetrendet az azonosítható utazási igények figyelembevételével határozza meg.
 
-a) adott település és a a járásközpont vagy gyakorlatban kialakult vonzásközpont közötti közvetlen eljutási lehetőséget,
+(3) A (2) bekezdés szerinti leghatékonyabb közlekedési mód tekintetében kivételt képeznek a főváros és a megyei jogú városok elővárosaiban 20 km távolságon vagy 30 percen belüli eljutások. Nem szűnhet meg olyan vonat és busz közötti párhuzamosság, ahol a párhuzamosság megszüntetése 50%-nál nagyobb mértékű eljutásiidő-növekedést jelentene.
 
-b) adott település és annak vármegyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
+(4) Az országos, regionális és elővárosi személyszállítási közszolgáltatást igénybe vevő – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott esetek kivételével, térítés ellenében – az alapellátás keretében legalább a következő szolgáltatások igénybevételére jogosult:
 
-c) az adott település és a főváros közötti legfeljebb két átszállással történő eljutási lehetőséget,
+a) adott település és a járásközpont közötti közvetlen eljutási lehetőség,
 
-d) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőséget, valamint
+b) a járásközpont és a vármegyeszékhely közötti közvetlen eljutási lehetőség,
 
-e) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőséget.
+c) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
 
-(3) Amennyiben az infrastrukturális adottságok lehetővé teszik – és az adott település közösségi közlekedési rendszere kizárólag országos, regionális vagy elővárosi menetrendszerinti autóbuszos vagy vasúti személyszállítási szolgáltatás révén biztosított – a (2) bekezdésben meghatározott viszonylatokban nyújtott alapellátás településenként napi 3 – a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrendi fekvésű – járatpár.
+d) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőség.
 
-(4) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátás keretében a (2) és (3) bekezdésben meghatározott szolgáltatási mennyiség biztosítása a hétköznapokra nézve kötelező, a munkaszüneti és szabadnapok tekintetében irányadó.
+(5) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokat igénybe vevőknek naponta legalább három alkalommal a (4) bekezdés a) pontjában és naponta legalább két alkalommal a (4) bekezdés b)–d) pontjában meghatározott viszonylatokon nyújtott alapellátást kell biztosítani településenként, a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrend szerint közlekedő járattal.
 
-(5) Az országos, regionális és elővárosi személyszállítási közszolgáltatás – és azon belül az alapellátás – mennyiségi és minőségi tartalmának kialakításakor – az alábbi igényeket kell figyelembe venni:
+(6) A lakosság mobilitásának elősegítése érdekében a (4) és (5) bekezdésben foglaltakon felül e törvény felhatalmazása alapján a közlekedésért felelős miniszter rendeletben az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozóan a személyszállítási közszolgáltatások keretében nyújtandó alapellátás részeként további kötelező eljutási lehetőségek biztosítását határozhatja meg.
 
-a) az alapvető életszükségletek kielégítéséhez szükséges kereskedelmi szolgáltatásokhoz való hozzáférés,
+(7) Az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó alapellátás keretében a (4)–(6) bekezdésben meghatározott szolgáltatási mennyiség biztosítása a hét valamennyi napján kötelező.
 
-b) a munkába járás és az oktatási, nevelési intézményekbe történő eljutás,
+(8) A megrendelő a (2)–(7) bekezdésben meghatározott személyszállítási közszolgáltatások kialakítása során figyelembe veszi
 
-c) a közigazgatási és egészségügyi szolgáltatásokhoz való hozzáférés, továbbá
+a) a munkába járás és az oktatási, nevelési intézményekbe történő eljutás biztosítását,
 
-d) az egyéb célú tevékenységek támogatása.
+b) a közigazgatási, az egészségügyi és szociális szolgáltatásokhoz való hozzáférés biztosítását,
 
-(6) Az (5) bekezdésben meghatározott igényektől eltérő, egyéb célú utazások önmagukban nem teszik indokolttá az alapellátást meghaladó személyszállítási közszolgáltatási kötelezettség előírását, illetve fenntartását.
+c) az alapvető életszükségletek kielégítéséhez szükséges kereskedelmi szolgáltatásokhoz való hozzáférés biztosítását,
+
+d) az elmaradott térségek közlekedési kapcsolatainak fenntartását,
+
+e) a környezetvédelem és a fenntarthatóság érvényre juttatását,
+
+f) az egyes alágazatok közötti hatékony és takarékos együttműködés előmozdítását,
+
+g) a legkisebb költség és a működési hatékonyság érvényesülésének biztosítását, valamint
+
+h) a közösségi közlekedés járatai közötti garantált átszállás érvényesülésének biztosítását.
+
+(9) Az éves menetrendben meg kell határozni a (4)–(8) bekezdés szerinti alapellátást biztosító járatokat, amelyeket elsősorban a munkába és iskolába járás szempontjának érvényesülése és az utasforgalom nagyságrendje alapján kell kijelölni.
+
+(10) Ha a közlekedési hálózat műszaki állapota lehetővé teszi, a (4)–(8) bekezdés szerinti alapellátást haváriahelyzetben is biztosítani szükséges.

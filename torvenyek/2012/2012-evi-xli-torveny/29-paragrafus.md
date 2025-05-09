@@ -20,6 +20,6 @@ c) a szolgáltatónak kiegyenlíti a közszolgáltatási kötelezettségből ere
 
 (5) A (4) bekezdésben meghatározott szolgáltatást a vasúti személyszállítási közszolgáltatást végző vasúti társaság – ha megfelel az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabályban előírt személyi és tárgyi feltételeknek is – kizárólag a vasúti személyszállítási szolgáltatásra megállapított díj alkalmazása mellett, és az érintett települések önkormányzatával történő előzetes egyeztetés alapján a 10. §-ban meghatározott járati engedéllyel végezheti.
 
-(6) Ha a vasúti személyszállítási közszolgáltatást végző közlekedési szolgáltató által végzett személyszállítási közszolgáltatás műszaki okból vasúti járművel nem látható el, a közlekedési szolgáltató az (5) bekezdésben meghatározott feltételeket csak abban az esetben köteles teljesíteni, ha az autóbusszal végzett tevékenység meghaladja a két hónapot (vonatpótló járat).
+(6) Ha a vasúti személyszállítási közszolgáltatást végző közlekedési szolgáltató által végzett személyszállítási közszolgáltatás műszaki okból vasúti járművel nem látható el, a közlekedési szolgáltató az (5) bekezdésben meghatározott feltételeket nem köteles teljesíteni.
 
 (7) Az önkormányzatok az érintett országos, regionális, elővárosi vagy helyi személyszállítási közszolgáltatásra a közszolgáltatási menetrendben nem szereplő közszolgáltatási tevékenység ellátására szerződést köthetnek. A szerződésre az (1)–(6) bekezdésekben meghatározott rendelkezéseket kell megfelelően alkalmazni.
