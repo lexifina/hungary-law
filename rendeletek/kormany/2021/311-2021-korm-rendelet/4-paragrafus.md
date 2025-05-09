@@ -1,4 +1,4 @@
-4. § (1) Komplex felzárkózási képzést az az Fktv. 1. § (1) bekezdés a) pontja szerinti olyan felnőttképző végezhet, amely
+4. § (1)[^4] Komplex felzárkózási képzést a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 1. § (1) bekezdés a) pontja szerinti olyan felnőttképző végezhet, amely
 
 a) tevékenységét az Fktv. szerinti engedély alapján végzi, és a felnőttképzési államigazgatási szerv nyilvántartásában szerepel,
 
@@ -12,7 +12,7 @@ d) a 3. § (2) bekezdés c) pontja szerinti célból szervezett képzés esetéb
 
 a) a képzés résztvevőinek létszáma csoportonként legfeljebb 20 fő lehet,
 
-b) egy képzésben 20 fő résztvevőre egy mobilitási mentort kell foglalkoztatni.
+b)[^5] egy képzésben 20 fő résztvevőre legalább egy mobilitási mentort kell foglalkoztatni.
 
 (3) A mobilitási mentori szolgáltatásban mobilitási mentorként legalább középfokú iskolai végzettséggel rendelkező személy foglalkoztatható, aki
 
@@ -21,3 +21,6 @@ a) a Főigazgatóság által a 2. melléklet alapján szervezett mobilitási men
 b) a képzésben részt vevők vonatkozásában hatósági feladatot nem lát el, valamint ugyanazon képzésen oktatói feladatot nem végez.
 
 (4) A Főigazgatóság mint felnőttképző komplex felzárkózási képzést az e rendelet szerint összeállított szolgáltatási programja alapján, komplexitási igazolás nélkül végezhet.
+
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 92/2025. (V. 8.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés b) pontja a 92/2025. (V. 8.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

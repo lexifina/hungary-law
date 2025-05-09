@@ -16,7 +16,7 @@ d) anyagi, pénzügyi likviditási nehézségek
 
 enyhítésére és megszüntetésére.
 
-(4) A mobilitási mentor a képzést megelőzően felméri a (3) bekezdésben meghatározott körülményeket, amelyeket személyenként, írásban rögzít. A felmérés eredményeként a mobilitási mentor egyéni fejlesztési tervet állít össze, amelyben figyelembe kell venni az állami foglalkoztatási szerv által készített egyéni cselekvési terv részletes szabályairól szóló miniszteri rendelet alapján készített dokumentumban, valamint a szociális igazgatásról és szociális ellátásokról szóló törvény szerint készített szociális diagnózis alapján javasolt szociális szolgáltatások és gyermekjóléti alapellátások igénybevételére vonatkozó tervben foglaltakat. A mobilitási mentor a fejlesztési tervet az egyéni cselekvési tervet és a szociális diagnózis alapján készített tervet jogszabályi előírás alapján kidolgozó szervezetek közreműködésével állítja össze.
+(4)[^6] A mobilitási mentor a képzést megelőzően felméri a (3) bekezdésben meghatározott körülményeket, amelyeket személyenként, írásban rögzít. A felmérés eredményeként a mobilitási mentor egyéni fejlesztési tervet állít össze, amelyben figyelembe kell venni a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendeletben meghatározottak szerinti, az állami foglalkoztatási szerv által készített egyéni cselekvési tervben, valamint a szociális igazgatásról és szociális ellátásokról szóló törvény szerint készített szociális diagnózis alapján javasolt szociális szolgáltatások és gyermekjóléti alapellátások igénybevételére vonatkozó tervben foglaltakat. A mobilitási mentor a fejlesztési tervet az egyéni cselekvési tervet és a szociális diagnózis alapján készített tervet jogszabályi előírás alapján kidolgozó szervezetek közreműködésével állítja össze.
 
 (5) A fejlesztési tervben meg kell határozni
 
@@ -41,3 +41,5 @@ e) a felzárkózási célú kompetencia- és pályafelmérés
 (9) A mobilitási mentori szolgáltatást a képzés befejezésének időpontjától számítva legalább két hónapig fenn kell tartani az egyéni fejlesztési igényekhez igazodó tartalommal és ütemezéssel.
 
 (10) A felzárkózási képzést folytató szervezet e képzéshez jogosult az állami foglalkoztatási szerv által foglalkoztatott mentorokat díjazás ellenében igénybe venni.
+
+[^6]: A 6. § (4) bekezdése a 92/2025. (V. 8.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.

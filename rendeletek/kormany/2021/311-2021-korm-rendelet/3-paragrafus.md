@@ -1,10 +1,10 @@
 3. § (1) Kizárólag komplex felzárkózási képzés szervezhető, ha a képzés
 
-a) az állami támogatásból megvalósuló kiemelt és standard programokban, illetve projektekben folyik,
+a)[^1] az állami támogatásból megvalósuló kiemelt és standard programokban, illetve projektekben folyik, és
 
-b) legfeljebb alapfokú iskolai végzettségű vagy iskolai végzettséggel nem rendelkező, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/B. § (4) bekezdés 1. pont a) alpontjában meghatározott, nem foglalkoztatott nagykorú személyek részére szól, és
+b)[^2] legfeljebb alapfokú iskolai végzettségű vagy iskolai végzettséggel nem rendelkező, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/B. § (4) bekezdés 1. pont a) alpontjában meghatározott, nem foglalkoztatott nagykorú személyek részére szól.
 
-c) a (2) bekezdésben meghatározott céloknak megfelelő, a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) szerinti oktatás és képzés mellett felnőttképzési tevékenységhez kapcsolódó szolgáltatásként mobilitási mentori szolgáltatást tartalmaz.
+c)[^3]
 
 (2) A komplex felzárkózási képzés céljai:
 
@@ -15,3 +15,7 @@ b) a közfoglalkoztatásra és a szociális szövetkezeti foglalkoztatásra tör
 c) a szakmai kompetenciák fejlesztése, valamint a részszakma vagy szakképesítés biztosítása.
 
 (3) Regisztrált álláskereső személy komplex felzárkózási képzésben az állami foglalkoztatási szerv döntése alapján vesz részt.
+
+[^1]: A 3. § (1) bekezdés a) pontja a 92/2025. (V. 8.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés b) pontja a 92/2025. (V. 8.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés c) pontját a 92/2025. (V. 8.) Korm. rendelet 6. §-a hatályon kívül helyezte.
