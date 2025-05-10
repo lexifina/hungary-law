@@ -1,5 +1,3 @@
-## 23/A. §[^254] Az Ábk. hatálya alá tartozó beruházások egységes és folyamatos nyomon követése érdekében a miniszter az MNV Zrt. útján, a BMSK Beruházási, Műszaki Ellenőrzési, Sportfejlesztési és Közbeszerzési Zártkörűen Működő Részvénytársaság bevonásával ellenőrzi az állami vagyonon végzett, az Ábk. hatálya alá tartozó beruházások tekintetében az állami vagyon értéke növelésének megvalósulását, illetve a beruházási célú központi költségvetési támogatások nyújtása esetén azok vagyongazdálkodási szempontú felhasználását és hasznosulását. Az ellenőrzésre jogosult személy köteles értesíteni a megbízatásról az érintett ingatlan tulajdonosát, tulajdonosi joggyakorlóját, vagyonkezelőjét, haszonélvezőjét vagy egyéb jogcímen használóját. Az ellenőrzést végző személy jogaira a 21. §-ban, az ellenőrzöttek jogai tekintetében a 22. §-ban foglaltak alkalmazandók.
-
 ## VII. Fejezet
 
 ## ÁLLAMI VAGYON ÉRTÉKESÍTÉSE
@@ -10,6 +8,5 @@
 
 (3)[^256] A (2) bekezdést nem kell alkalmazni a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény hatálya alá tartozó lakott állami ingatlan értékesítése esetén.
 
-[^254]: A 23/A. §-t a 469/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be, szövege a 331/2019. (XII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^255]: A 24. § (1) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
 [^256]: A 24. § (3) bekezdését a 77/2014. (III. 14.) Korm. rendelet 11. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 1. § (1)[^1] E rendelet hatálya a Vtv. hatálya alá tartozó állami vagyonra, az állami vagyonnal kapcsolatos eljárásokra, jogügyletekre, jogviszonyokra, valamint az azokban részt vevő személyekre terjed ki.
 
-(1a)[^2] E rendelet hatálya a 23/A. § tekintetében az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet (a továbbiakban: Ábk.) hatálya alá tartozó építési beruházásokra is kiterjed.
+(1a)[^2]
 
 (2)[^3] A rendelet hatálya alá tartozó polgári jogi jogviszonyokra az e rendeletben nem szabályozott kérdésekben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) előírásai irányadók.
 
@@ -97,7 +97,7 @@ f) azt a társasági részesedést vagy pénzügyi eszközt, amely olyan többle
 g) az Európai Unió költségvetéséből finanszírozott támogatási program keretében beszerzett, fenntartási kötelezettséggel terhelt vagyonelemet a fenntartási időszak időtartamának lejártáig.
 
 [^1]: Az 1. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1a) bekezdését a 469/2016. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^2]: Az 1. § (1a) bekezdését a 469/2016. (XII. 23.) Korm. rendelet 6. §-a iktatta be, a 74/2025. (IV. 10.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 827/2021. (XII. 28.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (7) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
