@@ -1,3 +1,3 @@
-2. § A Rendelet1 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-[Az 1. § (2) bekezdés a)−c) pontjai szerinti esélyteremtő ösztöndíjak esetében a mentor feladata, hogy segítse a tanulót a tanulásban és a pályaválasztásban. A mentor kötelessége, hogy]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

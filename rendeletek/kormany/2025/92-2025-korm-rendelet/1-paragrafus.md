@@ -8,12 +8,6 @@
 
 ## 1. Az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet módosítása
 
-1. § Az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet (a továbbiakban: Rendelet1) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az 1. § (2) bekezdés a)−c) pontja szerinti esélyteremtő ösztöndíjak esetében a pályázatok elbírálásakor előnyben részesül az a tanuló, aki az alábbi feltételek közül a sorrendben előbb álló feltételnek megfelel:
-
-a) továbbfutó pályázó;
-
-b) a pályázó tanulmányi átlageredménye – a pályázat benyújtásának időpontjában már lezárt utolsó tanévben – a többi pályázóhoz viszonyítva magasabb;
-
-c) a pályázó halmozottan hátrányos helyzetű, védelembe vett, ideiglenes hatállyal elhelyezett, vagy utógondozásban részesül.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
