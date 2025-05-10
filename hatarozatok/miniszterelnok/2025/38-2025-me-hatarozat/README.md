@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-38-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-05-09 | 2025-38-30-63.1 | 38/2025. (V. 8.) ME határozat |
+| 2025-05-10 | 2025-38-30-63.2 | 2010. évi CXXX. törvény |
