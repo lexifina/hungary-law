@@ -16,7 +16,7 @@ f) a közreműködő szervezetekről, illetve hatóságokról, valamint
 
 g) a szükséges engedélyekről, hozzájárulásokról.
 
-(2) A miniszter az ágazati beruházási terv vagy a keretprogram elfogadása vagy módosítása előtt mentesítést adhat az érintett állami építési beruházás vonatkozásában az Ábtv. 55. § (3) bekezdésének alkalmazása alól, ha
+(2)[^1] A miniszter mentesítést adhat az érintett állami építési beruházás vonatkozásában az Ábtv. 55. § (3) bekezdésének alkalmazása alól, ha
 
 a) a magasépítési és a sajátos építményfajtának minősülő építmény külön-külön tervezése vagy kivitelezése vagy a tervezésre vagy kivitelezésre irányuló közbeszerzési eljárások lefolytatása 25%-kal nagyobb idő- vagy költségigényt jelentene az azonos beruházási szabályok szerinti megvalósításhoz képest, feltéve, hogy az idő- vagy költségeltérés nem a minisztérium, a szakminisztérium, az építtető vagy – amennyiben nem az építtető az ajánlatkérő – az ajánlatkérő hibájára vezethető vissza,
 
@@ -25,3 +25,5 @@ b) az eltérő építményfajtákat egy időben célszerű vagy lehetséges üze
 c) építészetileg vagy nemzetgazdasági szempontból nem kiemelt jelentőségű a magasépítési beruházásrész általános szabályok szerinti megvalósítása.
 
 (3) A magasépítési beruházási elem tekintetében a kivitelezési dokumentáció rendelkezésre állására vonatkozó, az Ábtv. 43. § (1) bekezdése szerinti kötelezettség alól mentesítés a (2) bekezdés szerinti mentesítésre tekintettel nem adható.
+
+[^1]: A 26. § (2) bekezdés nyitó szövegrésze a 74/2025. (IV. 10.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
