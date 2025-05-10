@@ -1,3 +1,3 @@
-15. § Az 53/2015. (IX. 14.) FM rendelet 19. § b) pontja helyébe a következő rendelkezés lép:
+15. §[^16]
 
-(E rendelet)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

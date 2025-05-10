@@ -1,3 +1,3 @@
-8. § Az 53/2015. (IX. 14.) FM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(2) Ha a dohánytermelő fenntarthatóságot elősegítő alapszintű-jövedelemtámogatásra jogosult területei közül a vis maior eseménnyel nem érintett szántó vagy ültetvény besorolású területeinek hektárszáma kisebb, mint a dohánytermelő támogatási jogosultságainak darabszáma, a vis maior eseménnyel nem érintett szántó és ültetvényterület hektárszámának megfelelő számú támogatási jogosultság után kell a dohánytermelőnek a szerkezetátalakítási program alapján vállalt támogatási feltételeket teljesíteni, azzal, hogy ha a vis maior eseménnyel érintett fenntarthatóságot elősegítő alapszintű-jövedelemtámogatásra jogosult területen található szántó vagy ültetvény besorolású területe egyenlő vagy nagyobb, mint a támogatási jogosultságainak darabszáma, a feltételek teljesítése szempontjából az összes területet vis maior eseménnyel érintett területnek kell tekinteni.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

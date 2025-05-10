@@ -16,6 +16,6 @@
 
 ## 1. A történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet módosítása
 
-1. § A történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet [a továbbiakban: 106/2007. (IX. 24.) FVM rendelet] 9. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„9. § A ki nem osztott, megvont vagy a mezőgazdasági termelő által lemondott történelmi bázis jogosultságokból országos tartalékot kell képezni. Az országos tartalékból az alapszintű-jövedelemtámogatás alkalmazásakor bázis jogosultság igénylésére az 5. § (4) bekezdés c) pont cd) és ce) alpontjában foglalt jogosultságokon kívül nincs lehetőség.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

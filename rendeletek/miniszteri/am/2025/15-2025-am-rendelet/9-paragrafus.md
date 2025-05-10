@@ -1,7 +1,3 @@
-9. § (1) Az 53/2015. (IX. 14.) FM rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(1) A tárgyév vonatkozásában a 3. § (2) bekezdésében és a 4. § (1) bekezdés b) pontjában foglalt feltételek teljesítése esetén a szerkezetátalakítási programban részt vevő dohánytermelő mezőgazdasági csekély összegű támogatás iránti kérelmet (a továbbiakban: támogatási kérelem) és a dohánytermelő a 14. §-ban foglaltak szerint, általános csekély összegű támogatás iránti kérelmet nyújthat be a Kincstárhoz a tárgyévet követő év február 15-ig, a Kincstár által rendszeresített és a honlapján közleményben közzétett nyomtatványon. A támogatási kérelmet a 4. § (1) bekezdés e) pontjában foglalt nyilatkozattal együtt az aktivált támogatási jogosultságok számát nem meghaladóan azon támogatási jogosultságok mértékéig lehet benyújtani, amelyek vonatkozásában a dohánytermelő a szerkezetátalakítási programban előírt követelményeket teljesítette.”
-
-(2) Az 53/2015. (IX. 14.) FM rendelet 9. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A támogatási kérelemhez csatolni kell a 13. § (4) bekezdése és a 14. § (3), (8) és (12) bekezdése szerinti dokumentumokat. A támogatási kérelemben meg kell jelölni, hogy a dohánytermelő hány támogatási jogosultság figyelembevételével igényel csekély összegű támogatást, azzal, hogy mezőgazdasági csekély összegű támogatás igénybevétele esetén dohánytermelőnként legfeljebb tizenöt szerkezetátalakítási támogatási jogosultság állapítható meg.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
