@@ -8,6 +8,6 @@
 
 ## 1. A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet módosítása
 
-1. § A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet [a továbbiakban: 306/2010. (XII. 23.) Korm. rendelet] 43. § (1) bekezdése a következő j) ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

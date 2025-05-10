@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 624/2022. (XII. 30.) Korm. rendelet
+5. §[^6]
 
-a) 4. § (6) bekezdése,
-
-b) 14. § (2) bekezdésében az „ , a mobil mérőegységekkel elvégezhető levegőminőségi mérés” szövegrész.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
