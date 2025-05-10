@@ -1,6 +1,6 @@
 ## 4. A Monitoring Iroda feladatai
 
-4. § (1)[^5] Az OBMR működtetéséről a kormánybiztos a Monitoring Iroda és a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
+4. § (1)[^8] Az OBMR működtetéséről a kormánybiztos a Monitoring Iroda és a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
 
 (2) A Monitoring Iroda a működtetés keretében
 
@@ -18,7 +18,7 @@ f) pénzügyi monitoring tevékenységének keretében vizsgálja a rendelkezés
 
 g) szakmai monitoring tevékenységének keretében nyomon követi a beruházások eredményes előkészítését és megvalósítását, különösen a beruházás ütemtervnek való megfelelésére vonatkozó követelményeket;
 
-h)[^6] tájékoztatja a kormánybiztost az ütemtervtől való eltérésről, a beruházások előkészítése és megvalósítása érdekében intézkedési javaslatokat készít elő;
+h)[^9] tájékoztatja a kormánybiztost az ütemtervtől való eltérésről, a beruházások előkészítése és megvalósítása érdekében intézkedési javaslatokat készít elő;
 
 i) biztosítja az OBMR-t támogató informatikai infrastruktúrához és alkalmazáshoz (a továbbiakban együtt: informatikai rendszer) történő hozzáférési jogosultságot;
 
@@ -42,7 +42,8 @@ f) elemzést, értékelést készít a beérkezett adatok alapján;
 
 g) negyedévente vagy szükség szerint jelentést készít a Kormány részére a beruházások előrehaladásáról.
 
-(4) A beruházásokat a Monitoring Iroda folyamatosan figyelemmel kíséri, és a beérkezett információk alapján ajánlásokat tehet a hatáskörrel rendelkező kormányzati döntés-előkészítő vagy döntéshozó fórum számára a beruházás kapcsán felmerülő többletforrás igény indokoltságával kapcsolatban, különös tekintettel az ütemezett forrásigényre.
+(4)[^10] A beruházásokat a Monitoring Iroda folyamatosan figyelemmel kíséri, és a beérkezett információk alapján az állami beruházásokért felelős minisztert és a kormánybiztost tájékoztatja, valamint ajánlásokat tehet a hatáskörrel rendelkező kormányzati döntés-előkészítő vagy döntéshozó fórum számára a beruházás kapcsán felmerülő többletforrás igény indokoltságával kapcsolatban, különös tekintettel az ütemezett forrásigényre.
 
-[^5]: A 4. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 215. § c) pontja szerint módosított szöveg.
-[^6]: A 4. § (2) bekezdés h) pontja a 238/2022. (VI. 30.) Korm. rendelet 215. § d) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 215. § c) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdés h) pontja a 238/2022. (VI. 30.) Korm. rendelet 215. § d) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdése a 74/2025. (IV. 10.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
