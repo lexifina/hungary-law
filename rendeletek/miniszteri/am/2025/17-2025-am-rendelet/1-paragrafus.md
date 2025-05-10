@@ -6,6 +6,6 @@
 
 ## [4] A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (3) bekezdés 2. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Közös Agrárpolitika Stratégiai Tervből megvalósuló Agro-ökológiai Programhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 17/2024. (IV. 9.) AM rendelet [a továbbiakban: 17/2024. (IV. 9.) AM rendelet] 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) A mezőgazdasági termelő részére kifizetésre kerülő támogatás fajlagos összegét a Magyar Államkincstár, mint Nemzeti Kifizető Ügynökség (a továbbiakban: Kincstár) a (2) bekezdés szerinti pénzügyi keret és az ellenőrzések alapján megállapított összes támogatható terület hányadosa alapján – az 5. és 6. §-ban foglalt szabályozás eredményeként felszabadult forrás, valamint a jogorvoslat várható forrásigénye figyelembevételével – állapítja meg.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
