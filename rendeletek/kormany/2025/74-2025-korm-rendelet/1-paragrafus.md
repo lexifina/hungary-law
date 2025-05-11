@@ -14,12 +14,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) Az Országos Beruházás Monitoring Rendszer eljárásrendjéről és működtetéséről szóló 575/2021. (X. 12.) Korm. rendelet (a továbbiakban: OBMR rendelet) 3. § d) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A kormányzati egyeztetések koordinálásáért, valamint az OBMR működtetéséért felelős kormánybiztos (a továbbiakban: kormánybiztos)]
-
-## „d) a Monitoring Irodán és az OBMR-en keresztül folyamatosan figyelemmel kíséri a beruházások előrehaladását az állami beruházásokért felelős miniszter bevonásával, és szükség esetén a beruházás előrehaladását segítő intézkedéseket kezdeményez;”
-
-(2) Az OBMR rendelet 3. §-a a következő f) ponttal egészül ki:
-
-[A kormányzati egyeztetések koordinálásáért, valamint az OBMR működtetéséért felelős kormánybiztos (a továbbiakban: kormánybiztos)]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
