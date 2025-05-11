@@ -64,9 +64,9 @@ Kistermelői élelmiszer termelésére, előállítására és értékesítésé
 
 2.2.2. A tojást értékesítésig és felhasználásig tiszta, hűvös, száraz, jól szellőző, napfénytől védett helyen kell tárolni. A tojásokat a tojásrakást követően 28 napon belül kell értékesíteni.
 
-3. Kiegészítő higiéniai követelmények a 3. melléklet szerinti II. mennyiségi kategória esetén
+3.[^9] Kiegészítő higiéniai követelmények a 3. melléklet szerinti II. mennyiségi kategória, valamint a 3. mellékletbe foglalt táblázat 9a. sora szerinti I. kategória esetén
 
-3.1. Ha a kistermelő által az elsődleges termelés, az alaptermékek kezelése, valamint az élelmiszer előállítása során keletkezett termék mennyisége a 3. mellékletben meghatározott II. mennyiségi kategóriába esik, az általános higiéniai követelményeken túl a következő követelmények teljesítése szükséges:
+3.1.[^10] Ha a kistermelő által az elsődleges termelés, az alaptermékek kezelése, valamint az élelmiszer előállítása során keletkezett termék mennyisége a 3. mellékletben meghatározott II. mennyiségi kategóriába esik, vagy az I. kategóriába tartozó kistermelő heti 100 kg, illetve évi 3 tonnánál nagyobb mennyiségű, sertés levágatásából származó hústermék előállítását végzi, az általános higiéniai követelményeken túl a következő követelmények teljesítése szükséges:
 
 3.1.1. Az élelmiszer-előállításhoz külön, kizárólag erre a célra használt helyiséget, valamint a szükséges kiegészítő helyiségeket biztosítani kell.
 
@@ -117,3 +117,6 @@ Kistermelői élelmiszer termelésére, előállítására és értékesítésé
 4.1.8. A darált húst és az előkészített húst az előállítást követően azonnal egyedi csomagolással kell ellátni, és darált hús esetében +2 °C vagy az alatti, előkészített hús esetében pedig +4 °C vagy az alatti maghőmérsékletre kell lehűteni, vagy –18 °C vagy az alatti maghőmérsékletre kell lefagyasztani. Ezeket a hőmérsékleti feltételeket a tárolás, a szállítás és az értékesítés során is fenn kell tartani.
 
 4.1.9. A darált hús és az előkészített hús felengedés után nem fagyasztható újra.
+
+[^9]: A 6. melléklet 3. pont címe a 16/2025. (V. 8.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. melléklet 3.1. pontja a 16/2025. (V. 8.) AM rendelet 2. § b) pontja szerint módosított szöveg.

@@ -18,7 +18,9 @@
 
 | 8. | Nyúlféle levágása és húsának értékesítése | 50 db | – | 150 db | – |
 
-| 9. | Hústermék előállítása és értékesítése | 70 kg | 2 600 kg | 210 kg | 7 800 kg |
+| 9.[^7] | Hústermék előállítása és értékesítése, kifejlett vagy növendék sertés levágatásából származó hústermék előállítása és értékesítése kivételével | 70 kg | 2600 kg | 210 kg | 7800 kg |
+
+| 9a.[^8] | Kifejlett vagy növendék sertés levágatásából származó hústermék előállítása és értékesítése | 6 db sertés levágatásából származó hús teljes mennyiségének feldolgozása | 72 db sertés levágatásából származó hús teljes mennyiségének feldolgozása | 800 kg | 30 tonna |
 
 | 10. | Tej vagy tejtermék értékesítése | napi 200 liter | – | napi 500 liter | – |
 
@@ -53,3 +55,6 @@
 4. melléklet a 60/2023. (XI. 15.) AM rendelethez
 
 A kistermelő által nyújtható szolgáltatások
+
+[^7]: A 3. mellékletben foglalt táblázat 9. sora a 16/2025. (V. 8.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. mellékletben foglalt táblázat 9a. sorát a 16/2025. (V. 8.) AM rendelet 1. § (1) bekezdése iktatta be.
