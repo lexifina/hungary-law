@@ -29,3 +29,7 @@ a) a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok
 b) az iratot más, az a) pontban nem említett, önhibáján kívüli okból nem volt módja átvenni.
 
 (9) Nem természetes személy címzett csak akkor terjeszthet elő kifogást, ha a kézbesítés nem szabályszerűen történt.
+
+(10)[^6] A vitarendezési testület az eljárás érdemében hozott, az Iszt. 19. § (2) bekezdése szerinti döntését a 17. § (8) bekezdése szerinti internetes honlapján – a személyes adatok és az eljárásban zártan kezelt adatok védelmére vonatkozó előírásokra is tekintettel – közzéteheti.
+
+[^6]: A 13. § (10) bekezdését a 6/2025. (V. 8.) NMHH rendelet 5. §-a iktatta be.

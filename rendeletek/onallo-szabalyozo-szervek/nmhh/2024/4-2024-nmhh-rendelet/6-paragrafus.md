@@ -1,6 +1,6 @@
 6. § (1) A kérelemnek – a vitarendezési testület tanúsítványában megjelölt nyelven – tartalmaznia kell legalább
 
-a) a természetes személy kérelmező esetén a természetes személy nevét és lakcímét, továbbá a lakcímtől eltérő levelezési címét, elektronikus elérhetőségét, telefonszámát, nem természetes személy kérelmező esetén a nevét, székhelyét, a képviselőjének nevét, lakcímét, elektronikus elérhetőségét, telefonszámát;
+a)[^2] a természetes személy kérelmező esetén a természetes személy nevét és lakcímét, továbbá a lakcímtől eltérő levelezési címét, elektronikus elérhetőségét, telefonszámát, nem természetes személy kérelmező esetén a nevét, székhelyét, cégjegyzékszámát, ennek hiányában egyéb, az azonosítást szolgáló nyilvántartási számát, a képviselőjének nevét, lakcímét, elektronikus elérhetőségét, telefonszámát;
 
 b) a vitában érintett szolgáltató nevét;
 
@@ -18,8 +18,11 @@ g) papír alapon előterjesztetett kérelem esetén a kérelmező vagy a képvis
 
 (3) Ha a kérelmező képviselő útján jár el, a kérelemhez csatolni kell a meghatalmazást vagy a képviseleti jog igazolását.
 
-(4) A kérelmező a kérelemben nyilatkozik arról, hogy kéri-e meghallgatás tartását, továbbá hozzájárul-e az írásbelinek nem minősülő elektronikus úton történő kapcsolattartáshoz. Hozzájárulás esetén a kérelmező nyilatkozik az 5. § (4) bekezdése szerinti elektronikus levelezési címéről.
+(4)[^3] A kérelmező a kérelemben nyilatkozik arról, hogy hozzájárul-e az írásbelinek nem minősülő elektronikus úton történő kapcsolattartáshoz. Hozzájárulás esetén a kérelmező nyilatkozik az 5. § (4) bekezdése szerinti elektronikus levelezési címéről.
 
 (5) Ha a kérelem nem felel meg az (1)–(3) bekezdésben foglaltaknak, az eljáró tanács a hiány megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – a kérelem beérkezésétől számított nyolc napon belül, legfeljebb tíznapos határidő tűzésével – hiánypótlásra hívja fel a kérelmezőt.
 
 (6) Ha az eljárás során a természetes személy kérelmező kiléte kétséges, az eljáró tanács jogosult felhívni a kérelmezőt, hogy személyazonosságát igazolja. Ha a kérelmező személyazonosságát nem igazolja hitelt érdemlően, az eljáró tanács jogosult a kérelmet további vizsgálat nélkül elutasítani vagy az eljárást megszüntetni.
+
+[^2]: A 6. § (1) bekezdés a) pontja a 6/2025. (V. 8.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^3]: A 6. § (4) bekezdése a 6/2025. (V. 8.) NMHH rendelet 9. §-a szerint módosított szöveg.

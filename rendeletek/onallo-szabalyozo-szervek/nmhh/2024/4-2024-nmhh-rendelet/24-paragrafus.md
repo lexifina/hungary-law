@@ -1,3 +1,13 @@
-24. § (1) Az eljáró tanács elnökét hatvanezer forint, az eljáró tanács tagját negyvenötezer forint díjazás illeti meg felek közötti egyezség eljáró tanács általi jóváhagyása, továbbá az eljáró tanács Iszt. 19. § (2) bekezdése szerinti döntése esetén. A kérelem érdemi vizsgálat nélkül történő elutasítása vagy – a felek közötti egyezség eljáró tanács általi jóváhagyása kivételével – az eljárás megszüntetése esetén az eljáró tanács elnökét és tagját külön díjazás nem illeti meg.
+24. §[^9] (1) A Tanács elnökét és tagjait – az általuk ellátott ügyek számától függetlenül – havonta kettőszázezer forint alapdíj illeti meg.
 
-(2) Az eljáró tanács elnöke és tagja havonta az (1) bekezdés szerinti elintézett ügyek alapján legalább százezer, de legfeljebb ötszázezer forint összegű díjazásra jogosult.
+(2) Az alapdíjon felül az adott hónapban elintézett ügyenként
+
+a) a felek közötti egyezség eljáró tanács általi jóváhagyása vagy az eljáró tanács – Iszt. 19. § (2) bekezdése szerinti – döntése esetén az eljáró tanács elnökét hetvenötezer forint, az eljáró tanács tagját ötvenezer forint,
+
+b) a felek közötti egyezség eljáró tanács általi jóváhagyása kivételével, a kérelem érdemi vizsgálat nélkül történő elutasítása vagy az eljárás megszüntetése esetén az eljáró tanács elnökét ötvenezer forint, az eljáró tanács tagját huszonötezer forint
+
+külön díjazás illeti meg.
+
+(3) A Tanács elnöke és tagja havonta az (1) bekezdés szerinti alapdíjra és a (2) bekezdés szerinti, elintézett ügyek után járó külön díjazásra jogosult, amelyek együttes összege nem haladhatja meg a havi hétszázötvenezer forintot.
+
+[^9]: A 24. § a 6/2025. (V. 8.) NMHH rendelet 6. §-ával megállapított szöveg.
