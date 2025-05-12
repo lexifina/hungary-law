@@ -10,6 +10,6 @@
 
 ## [6] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 29. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § (1) A kis mennyiségű, helyi és marginális élelmiszer-előállítás és -értékesítés higiéniai feltételeiről szóló 60/2023. (XI. 15.) AM rendelet [a továbbiakban: 60/2023. (XI. 15.) AM rendelet] 3. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
 
-(2) A 60/2023. (XI. 15.) AM rendelet 6. melléklete a 2. melléklet szerint módosul.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
