@@ -1,7 +1,3 @@
-8. § Az R.
+8. §[^8]
 
-a) 14. § (1) bekezdés b) pontjában az „(1) bekezdése” szövegrész helyébe a „(2) bekezdése” szöveg,
-
-b) 20. § (2) bekezdés c) pontjában a „meghallgatás kitűzése” szövegrész helyébe az „érdemi vizsgálat” szöveg
-
-lép.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

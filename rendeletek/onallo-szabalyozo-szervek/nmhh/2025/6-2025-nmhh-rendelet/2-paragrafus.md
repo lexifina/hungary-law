@@ -1,3 +1,3 @@
-2. § Az R. 6. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+2. §[^2]
 
-(A kérelemnek – a vitarendezési testület tanúsítványában megjelölt nyelven – tartalmaznia kell legalább)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

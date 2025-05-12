@@ -1,1 +1,3 @@
-9. § Hatályát veszti az R. 6. § (4) bekezdésében a „kéri-e meghallgatás tartását, továbbá” szövegrész.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
