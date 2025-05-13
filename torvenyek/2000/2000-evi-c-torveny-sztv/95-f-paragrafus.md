@@ -23,3 +23,11 @@ c) annak tényét, hogy a vállalkozó mentesül a 95/E. § (1)–(11) bekezdés
 (9) Az (1)–(3) bekezdés alkalmazásában a 2013/34/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdés első albekezdés a) pontjában említett, a 2009/138/EK irányelv 212. cikk (1) bekezdés c) pont ii. alpontjában említett pénzügyi kapcsolat alapján egy csoport részét képező és a 2009/138/EK irányelv 213. cikk (2) bekezdés a)–c) pontjával összhangban csoportszintű felügyelet alatt álló biztosítókat az említett csoport anyavállalatának leányvállalataként kell kezelni.
 
 (10) Az (1)–(3) bekezdés szerinti mentesség nem alkalmazható azokra a 95/E. § (1) bekezdés a) pontja hatálya alá tartozó vállalkozókra, amelyek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták.
+
+(11) A VI/C. Fejezet szerinti összevont (konszolidált) fenntarthatósági jelentést készítő anyavállalatot úgy kell tekinteni, hogy teljesítette a 95/E. § (1)–(11) és (13) bekezdése szerinti fenntarthatósági jelentéstételi kötelezettségét, valamint a 95. § (3) bekezdésében foglalt követelményt.
+
+(12) A (11) bekezdés akkor alkalmazható, ha a mentesülő anyavállalat üzleti jelentése tartalmazza
+
+a) az általa készített összevont (konszolidált) fenntarthatósági jelentés és a 134/L. § (1) bekezdése szerinti bizonyossági vélemény közzétételének helyét, valamint
+
+b) a (11) bekezdés szerinti mentesség tényét.

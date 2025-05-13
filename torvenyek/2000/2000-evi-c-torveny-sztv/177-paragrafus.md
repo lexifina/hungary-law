@@ -293,3 +293,5 @@ e törvénynek a Mód2. törvény által megállapított fenntarthatósági jele
 (109) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 3. § (2) bekezdés 8. pontját, 9. § (2) bekezdés a) és b) pontját, 14. § (7) bekezdését, 117. § (1) bekezdés a) és b) pontját, 134/B. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (1) bekezdés a) pont aa) és ab) alpontját, 134/C. § (4) bekezdés a) és b) pontját a 2024. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
 (110) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 14. § (7) bekezdésében meghatározott értékhatárokat teljesítő vállalkozó akkor is mentesül az önköltségszámítás rendjére vonatkozó belső szabályzat elkészítése alól, ha a megelőző üzleti év(ek)ben a mentesítés lehetőségével nem élhetett.
+
+(111) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel megállapított 95/B. § (2a) bekezdése, valamint 95/F. § (11) és (12) bekezdése a 2024. évben induló üzleti évre is alkalmazható.
