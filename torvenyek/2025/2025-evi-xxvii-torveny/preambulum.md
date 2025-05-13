@@ -1,0 +1,7 @@
+[1] Hazánk számára kiemelt fontosságú a szomszédos országokkal való igazságügyi kapcsolatok hatékony működése, amely az állampolgárok és a gazdasági szereplők számára biztosítja a határon átnyúló polgári és kereskedelmi ügyekben való könnyebb igényérvényesítést, az igazságszolgáltatáshoz való jobb hozzáférést, valamint a bíróságok, hatóságok hatékony együttműködését.
+
+[2] Az igazságügyi együttműködés továbbfejlesztése különösen fontos hazánk és Szerbia viszonylatában. A két állam közötti polgári, családjogi és kereskedelmi kapcsolatok nagyságrendje, a kettős állampolgársággal rendelkező személyek száma jelentős, ugyanakkor az igazságügyi együttműködést jelenleg szabályozó kétoldalú jogsegélyszerződés több mint 30 évvel ezelőtti, és eltérő politikai, gazdasági és társadalmi viszonyok között jött létre.
+
+[3] A 2024. november 14-én aláírt új polgári jogsegélyszerződés rendelkezései lehetőséget adnak hazánk és Szerbia között a bírósági, hatósági eljárások felgyorsítására és az eljárások költségeinek csökkentésére, továbbá biztosítják a modern technikák alkalmazását a két ország igazságügyi hatóságainak együttműködése során, mindezzel megkönnyítik az állampolgárok igényérvényesítését. Az új jogsegélyszerződés megkötésével hazánk egyidejűleg teljesíti az uniós jogból adódó kötelezettségét is.
+
+[4] A nemzetközi szerződés kötelező hatályának elismerésére az Országgyűlés ad felhatalmazást és törvénnyel kerül kihirdetésre, a fentiekre figyelemmel az Országgyűlés a következő törvényt alkotja:

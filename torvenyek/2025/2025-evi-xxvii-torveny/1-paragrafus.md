@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Szerb Köztársaság között a polgári ügyekben nyújtandó jogsegélyről szóló szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
