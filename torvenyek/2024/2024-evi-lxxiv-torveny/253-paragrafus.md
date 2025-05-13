@@ -2,7 +2,7 @@
 
 (2) A 251. § szerinti, nem a Kbt. hatálya alá tartozó építési beruházásra vonatkozó beszerzési eljárások kizárólag e törvény rendelkezéseinek figyelembevételével folytathatóak le.
 
-(3) Az (1) bekezdésben meghatározott feltételes beszerzési vagy közbeszerzési eljárás eredményeként megkötésre kerülő építési beruházásra vonatkozó szerződés megkötésére – e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint – kizárólag az állami beruházásokért felelős miniszternek (a továbbiakban: miniszter) a legkedvezőbb érvényes ajánlatra vonatkozó költségellenőrzést tartalmazó véleménye beszerzését követően kerülhet sor.
+(3) Az (1) bekezdésben meghatározott feltételes beszerzési vagy közbeszerzési eljárás eredményeként megkötésre kerülő építési beruházásra vonatkozó szerződés megkötésére – e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint – kizárólag az állami beruházásokért felelős miniszternek (ezen alcím alkalmazásában a továbbiakban: miniszter) a legkedvezőbb érvényes ajánlatra vonatkozó költségellenőrzést tartalmazó véleménye beszerzését követően kerülhet sor.
 
 (4) Abban az esetben, ha a 251. §-ban meghatározott építési beruházás kiviteli tervvel rendelkezik, a kivitelezésre vonatkozó feltételes beszerzési vagy közbeszerzési eljárás megkezdésére a miniszter becsült értékre vonatkozó költségellenőrzést tartalmazó véleményének beszerzését követően kerülhet sor.
 
