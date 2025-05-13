@@ -1,19 +1,17 @@
 28. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény
 
-a) 19. § (1) bekezdésében a „közjegyzőként,” szövegrész helyébe a „közjegyzőként, bírósági végrehajtóként, bírósági titkárként, alügyészként, közjegyzőhelyettesként, bírósági végrehajtó-helyettesként, a jogi szakvizsga megszerzését követően bírósági vagy ügyészségi fogalmazóként,” szöveg,
+a)
 
-b) 54. § (5) bekezdésében az „ötévenként” szövegrész helyébe a „legalább ötévenként kérelemre” szöveg,
+b)
 
-c) 85. § (1) bekezdés a) pontjában az „elhunyt ügyvéd és európai közösségi jogász ügyvédi irodája” szövegrész helyébe az „ügyvédi iroda vagy európai közösségi jogászi iroda” szöveg,
+c)
 
-d) 86. § (1) bekezdés nyitó szövegrészében a „gyakorlattal” szövegrész helyébe a „joggyakorlattal” szöveg,
+d)
 
 e) 158. § (2) bekezdésében a „20. és 21. pontban” szövegrész helyébe a „20., 21. és 39. pontban” szöveg,
 
-f) 189. § (4) bekezdésében a „digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény” szövegrész helyébe a „Dáptv.” szöveg,
+f)
 
 g) 194/B. § (1) bekezdésében a „Magyar Ügyvédi Kamarával.” szövegrész helyébe a „Magyar Ügyvédi Kamarával, vagy a Magyar Ügyvédi Kamara által egyedüli alapítóként létesített jogi személlyel.” szöveg,
 
-h) 195. § (1) bekezdésében a „megbízási jogviszonyukkal összefüggésben álló” szövegrész helyébe az „az ügyvédi tevékenységgel összefüggő” szöveg
-
-lép.
+h)

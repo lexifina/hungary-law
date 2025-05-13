@@ -1,5 +1,3 @@
-## „a) a támogatás engedélyezésének, felülvizsgálatának, megvonásának, visszatérítésének a feltételeiről a hozzá a támogatás igénybevétele érdekében vagy tájékoztatásért forduló felet tájékoztatja,”
-
 ## 4. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
 5. § A társasházakról szóló 2003. évi CXXXIII. törvény (a továbbiakban: Tht.) 64/A. §-a helyébe a következő rendelkezés lép és a Tht. a következő 64/B. §-sal egészül ki:
