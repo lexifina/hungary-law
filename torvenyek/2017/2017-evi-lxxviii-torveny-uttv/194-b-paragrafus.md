@@ -2,7 +2,7 @@
 
 ## AZ ÁLLAM ÁLTAL ELŐLEGEZETT KIRENDELT VÉDŐI DÍJAK KIFIZETÉSE
 
-194/B. § (1) A büntetőeljárás vádemelésig terjedő szakaszában az állam által előlegezett kirendelt védői díjak kifizetésére, mint közfeladat ellátására az állam nevében eljáró miniszter megállapodást köthet a Magyar Ügyvédi Kamarával.
+194/B. § (1) A büntetőeljárás vádemelésig terjedő szakaszában az állam által előlegezett kirendelt védői díjak kifizetésére, mint közfeladat ellátására az állam nevében eljáró miniszter megállapodást köthet a Magyar Ügyvédi Kamarával, vagy a Magyar Ügyvédi Kamara által egyedüli alapítóként létesített jogi személlyel.
 
 (2) A megállapodásnak tartalmaznia kell az (1) bekezdés szerinti közfeladat ellátásának és finanszírozásának részletes szabályait.
 

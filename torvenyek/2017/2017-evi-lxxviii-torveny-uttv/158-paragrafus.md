@@ -78,7 +78,7 @@
 
 39. a 194/B. § szerinti közfeladat-ellátás esetére a büntetőeljárásnak a vádemelésig terjedő szakaszában a 36. § (9) bekezdésében meghatározottak szerint a kirendelt védő óradíjáról, a kirendelt védői tevékenységért járó díjazásról, továbbá a kifizetés eljárásrendjének részletes szabályairól.
 
-(2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20. és 21. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
+(2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20., 21. és 39. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
 
 (3) Az Alapszabály a Magyar Ügyvédi Kamara tagjaira, a Magyar Ügyvédi Kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által az ügyvédi kamarai nyilvántartásba vett személyekre kötelező.
 
