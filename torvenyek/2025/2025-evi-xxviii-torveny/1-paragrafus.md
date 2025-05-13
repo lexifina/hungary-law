@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a nemzeti joghatóságon kívül eső területek tengeri biológiai sokféleségének megőrzéséről és fenntartható hasznosításáról szóló, az ENSZ Tengerjogi Egyezménye keretében létrejövő Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
