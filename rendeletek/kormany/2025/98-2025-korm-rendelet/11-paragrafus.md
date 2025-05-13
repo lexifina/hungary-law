@@ -1,0 +1,1 @@
+11. § Ha a szerződéskötést megelőzően a nyertes ajánlattevő személye módosul, a miniszter a 10. § szerinti hiánypótlási felhívást a kérelem beérkezésétől számított 10 napon belül küldi meg az ajánlatkérőnek, majd az ajánlatkérő a szükséges dokumentumokat 5 napon belül tölti fel az informatikai rendszerbe.

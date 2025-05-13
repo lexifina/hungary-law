@@ -1,0 +1,1 @@
+6. § A költségellenőrzéssel kapcsolatos informatikai feladatokat, így különösen az informatikai rendszerek szoftverfejlesztésével és alkalmazásfelügyeletével kapcsolatos feladatokat a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság látja el.

@@ -1,0 +1,3 @@
+12. § (1) A miniszter költségellenőrzésre vonatkozó véleményét az informatikai rendszeren keresztül elektronikusan és postai úton küldi meg a kérelmező részére. Az elektronikus úton megküldött költségellenőrzési vélemény alapján a beszerzési, közbeszerzési vagy szerződésmódosítási eljárás folytatható.
+
+(2) A 9. § (3) bekezdése szerinti, minősített adatot tartalmazó költségellenőrzési véleményt a Mavtv. által előírt módon kell előkészíteni és az ajánlatkérő részére megküldeni, azzal, hogy a megküldött költségellenőrzési vélemény alapján a beszerzési, közbeszerzési vagy szerződésmódosítási eljárás folytatható.

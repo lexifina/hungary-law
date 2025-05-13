@@ -1,0 +1,1 @@
+2. § E rendelet hatálya kiterjed az 1. §-ban meghatározott értékhatárokat elérő, megkötött építési beruházásokkal összefüggő szerződések módosítására, a pótmunkákra, valamint a szerződéses tartalékkeretek felhasználására vonatkozó kötelezettségvállalásokra is.
