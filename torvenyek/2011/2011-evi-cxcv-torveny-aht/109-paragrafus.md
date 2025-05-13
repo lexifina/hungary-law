@@ -30,7 +30,7 @@
 
 12. a költségvetési felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
 
-13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat,
+13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat, valamint a 39/A. § (1a) bekezdés b) pontja szerinti kijelölés részletes szabályait,
 
 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 
@@ -65,6 +65,8 @@ részletes szabályait,
 20. a 78. § (2) bekezdése szerinti likviditási tervek tartalmát, elkészítésének, aktualizálásának, valamint a 78. § (4) bekezdése szerinti finanszírozási igényeket és azok megelőlegezése feltételeinek, a megelőlegezett összeg visszapótlásának szabályait,
 
 21. a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, és a térségi fejlesztési tanács fizetési számláinak és az ahhoz kapcsolódó alszámlák körét, felhasználásuk szabályait, a kincstár által végzett fedezetvizsgálat szempontjait, a fedezetvizsgálat alóli kivételeket, és a 80. § (2) bekezdése szerinti szabályzat további tartalmi elemeit,
+
+21a. a 84. § szerinti kincstári számlára és számláról való átutalás, annak rendszeressége, eljárási, technikai, egyes kapcsolódó kérdései, időbelisége, kapcsolódó információk kezelése és előállítása, a források nyilvántartása, a kincstári számláról a kereskedelmi banki számlára való utalás és az ezekről való önkormányzati rendelkezés részletes szabályait,
 
 22. az államháztartás alrendszereiben a készpénzhasználat és a házipénztár működtetésének részletes szabályait,
 

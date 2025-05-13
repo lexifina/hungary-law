@@ -100,6 +100,12 @@
 
 (44) E törvénynek a Módtv4.-gyel megállapított 70. § (7c) bekezdését a hatálybalépése napján folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
 
-(45) E törvénynek a Módtv4.-gyel megállapított 51. § (4b) bekezdése szerinti szervek és szervezetek a nem a kincstárnál vezetett fizetési számláján lévő összegeket 2025. március 31-éig kötelesek a kincstári számlára átutalni.
+(45)
 
 (46) E törvénynek Módtv4.-gyel megállapított 79. § (2b) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv4. hatályba lépését megelőző három vagy ennél korábbi évben, határozatlan időre kiadott, e törvény hatálybalépése napján még érvényes felmentések esetében legkésőbb 2025. június 30-ig kell elvégezni.
+
+(47) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 51/A. § (1) bekezdését, 53/A. § (2b) és (3) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatási jogviszonyokban is alkalmazni kell.
+
+(48) A 2025. január 1-jét megelőzően a Közvetlen uniós programok támogatása előirányzat terhére létrejött támogatási jogviszonyokra, a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatokra a Kormány rendeletében meghatározott, e jogviszonyok létrejöttekor hatályos előleg-elszámolási szabályokat kell alkalmazni.
+
+(49) A 2025. január 1-je és a Módtv5. hatálybalépése közötti időszakban az 51. § (4b) bekezdése szerinti szervek és szervezeteknek a nem a kincstárnál vezetett fizetési számláján lévő, de a kincstár által vezetett fizetési számlára átutalt támogatási összeget a kincstár a kedvezményezett részére visszatéríti.

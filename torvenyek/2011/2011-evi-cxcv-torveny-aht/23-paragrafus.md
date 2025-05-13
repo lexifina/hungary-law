@@ -34,13 +34,15 @@ h) a költségvetés végrehajtásával kapcsolatos hatásköröket, így külö
 
 i) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg főösszegű gazdasági társasággal – kötelező önkormányzati feladatellátásra – kötött közszolgáltatási szerződésből eredő, az érintett gazdasági társaság önkormányzat által nem vitatott, a költségvetés tervezésekor fennálló követelésének összegét,
 
+j) a helyi önkormányzat és az általa alapított költségvetési szervek – önkormányzati szinten összesített és a helyi önkormányzat által irányított költségvetési szervek szerinti tételes megbontásban a – költségvetési évre vonatkozó, jogviszonyonkénti tervezett létszámadatait.
+
 (2a) A helyi önkormányzat költségvetése tartalmazza a (2) bekezdésben foglaltakon túl
 
 a) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg-főösszegű gazdasági társaság,
 
 b) a helyi önkormányzat kizárólagos vagy többségi tulajdoni részesedésével működő, utolsó lezárt üzleti év szerint 30 milliárd forintot meghaladó mérleg-főösszegű gazdasági társaság által alapított gazdasági társaság
 
-előző évi elfogadott beszámolóját, és amennyiben jogszabályi kötelezettség előírta, az ezekre vonatkozó könyvvizsgálói jelentést is.
+legutóbbi elfogadott beszámolóját, és amennyiben jogszabályi kötelezettség előírta, az ezekre vonatkozó könyvvizsgálói jelentést is.
 
 (2b) Ha a (2a) bekezdés szerinti beszámoló alapján a gazdasági társaság az előző évben veszteséges volt, és azt a mérlegben szereplő, a saját tőke részét képező eredménytartalék sem ellensúlyozta, az önkormányzat költségvetési rendeletéhez mellékelni kell az érintett gazdasági társaság tárgyévi üzleti tervét is, amelyben
 
@@ -53,3 +55,5 @@ b) amennyiben a gazdasági társaság üzleti tervében veszteséget tervez, akk
 (3) A költségvetési rendeletben elkülönítetten szerepel az évközi többletigények, valamint az elmaradt bevételek pótlására szolgáló általános tartalék és céltartalék.
 
 (4) A Mötv. 111. § (4) bekezdésének alkalmazásában működési hiányon a (2) bekezdés e) pontja szerinti külső finanszírozású működési célú költségvetési hiányt kell érteni.
+
+(5) A költségvetési rendelet 34. § (4) bekezdése szerinti módosítása részletesen bemutatja a tárgyévet megelőző év rendelkezésre álló tényadatának feltüntetése mellett azonos szerkezetben, átlátható módon és észszerű részletezettséggel a tárgyévi előirányzat-módosítások, előirányzat-átcsoportosítások összegszerű változásait, valamint annak – szükségességének oka szerinti – indokait és tervezett hatását is.

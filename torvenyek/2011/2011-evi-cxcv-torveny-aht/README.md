@@ -122,3 +122,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2024-12-21 | 2024. évi LXXIV. törvény | 2011-195-00-00.115 |
 | 2025-01-01 | 2024. évi LXXIV. törvény | 2011-195-00-00.116 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2011-195-00-00.119 |
+| 2025-05-13 | 2025. évi XXI. törvény | 2011-195-00-00.122 |
