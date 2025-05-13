@@ -20,7 +20,7 @@ g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közter
 
 h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
 
-i) az önkormányzati csődbiztos kijelölésére, tevékenységére, eljárására díjazására vonatkozó szabályokat
+i) az önkormányzati csődbiztos kijelölésére, tevékenységére, eljárására és díjazására vonatkozó szabályokat
 
 (2) Felhatalmazást kap a Kormány, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 

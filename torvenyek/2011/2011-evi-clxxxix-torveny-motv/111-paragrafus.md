@@ -12,7 +12,7 @@
 
 (4b) A (4a) bekezdés szerinti eljárás során a fővárosi vagy vármegyei kormányhivatal vezetője az érintett helyi önkormányzattól – legfeljebb 8 napos határidő tűzésével – további információkat, adatokat kérhet.
 
-(4c) Ha a helyi önkormányzat adott évi költségvetési rendeletében meghatározott, az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2) bekezdés g) pontja szerinti saját bevételének mértéke legalább 20%-kal, és legalább 1 milliárd forinttal meghaladja az előző évi jóváhagyott költségvetési rendeletében szereplő saját bevétel összegét, úgy a megtervezett támogatási összeg saját bevétel közgazdasági megalapozottságát a helyi önkormányzatnak szükséges alátámasztania a fővárosi vagy vármegyei kormányhivatal részére.
+(4c) Ha a helyi önkormányzat adott évi költségvetési rendeletében meghatározott, az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2) bekezdés g) pontja szerinti saját bevételének mértéke legalább 20%-kal, és legalább 1 milliárd forinttal meghaladja az előző évi jóváhagyott költségvetési rendeletében szereplő saját bevétel összegét, úgy a megtervezett támogatási összeg fedezetéül szolgáló saját bevétel közgazdasági megalapozottságát a helyi önkormányzatnak szükséges alátámasztania a fővárosi vagy vármegyei kormányhivatal részére.
 
 (4d) A (4a) és (4c) szerinti eljárás lefolytatása az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2b) bekezdés b) pontja alapján mellékelt üzleti tervre is kiterjed a közgazdasági megalapozottság megállapításához szükséges mértékben.
 
@@ -24,9 +24,11 @@ b) az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (
 
 c) a (4) bekezdésében foglaltakat megsérti,
 
-d) a (4b) vagy (4d) bekezdésben foglalt adatszolgáltatást nem teljesíti, vagy
+d) a (4b) vagy (4d) bekezdésben foglalt adatszolgáltatást nem teljesíti,
 
-e) a (4a) és (4c) bekezdés szerinti vizsgálat eredménye alapján indokolt.
+e) a (4a) és (4c) bekezdés szerinti vizsgálat eredménye alapján indokolt, vagy
+
+f) az államháztartásról szóló 2011. évi CXCV. törvény 39. § (9) bekezdés c) pontja szerint azt a költségvetési felügyelő, vagy az államháztartásról szóló 2011. évi CXCV. törvény 39/A. § (3b) bekezdése szerint azt a költségvetési biztos kezdeményezi.
 
 (4f) A (4e) bekezdés szerinti önkormányzati csődbiztosnak
 
