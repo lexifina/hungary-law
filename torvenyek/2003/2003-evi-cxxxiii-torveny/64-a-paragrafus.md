@@ -1,1 +1,1 @@
-64/A. § A közgyűlés által megválasztott közös képviselő vagy az intézőbizottság elnöke a közösség ügyintézését ellátó tevékenységet 2025. május 1. napjáig – nyilvántartásba vételtől függetlenül – elláthatja, ha a tevékenység végzésére való jogosultságát hitelt érdemlő módon igazolja.
+64/A. § A közgyűlés által megválasztott közös képviselő vagy az intézőbizottság elnöke a közösség ügyintézését ellátó tevékenységet 2026. október 31. napjáig – nyilvántartásba vételtől függetlenül – elláthatja, ha a tevékenység végzésére való jogosultságát hitelt érdemlő módon igazolja.
