@@ -1,0 +1,3 @@
+[1] E törvény célja, hogy az Európa Tanács labdarúgó-mérkőzések és egyéb sportrendezvények biztonságához, biztosításához és az ott nyújtott szolgáltatásokhoz kapcsolódó integrált megközelítésről szóló Egyezménye kihirdetésével lehetővé tegye a labdarúgó- és egyéb sportrendezvények biztonságos, védett és barátságos környezetben történő megrendezésének lehetőségét, az erőszakos cselekmények, a rendzavarás és egyéb nem megfelelő magatartások megelőzését.
+
+[2] A sportrendezvényeken – ezek között is elsősorban, de nem kizárólagosan a labdarúgó-mérkőzéseken – biztosítani kell valamennyi érintett szerv, szervezet együttműködésének lehetőségét a jogsértő magatartások megelőzése, illetve jogsértő magatartás elkövetése esetén annak szankcionálása érdekében.
