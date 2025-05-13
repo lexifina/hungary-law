@@ -1,0 +1,1 @@
+3. § A számvitelről szóló 2000. évi C. törvény 95/B. § (2a) bekezdésében a „fenntarthatósági jelentése” szövegrész helyébe a „fenntarthatósági jelentése, a 95/F. § (11) bekezdése szerinti anyavállalat esetében az összevont (konszolidált) fenntarthatósági jelentése” szöveg lép.

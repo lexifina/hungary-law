@@ -1,0 +1,3 @@
+8. § Az államháztartásról szóló 2011. évi CXCV. törvény 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelettervezetet a polgármester február 15-éig, ha a központi költségvetésről szóló törvényt az Országgyűlés a naptári év kezdetéig nem fogadta el, a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek. A költségvetési rendelettervezet képviselő-testületnek való benyújtása nem előzheti meg a központi költségvetésről szóló törvény Országgyűlés általi elfogadását.”
