@@ -30,5 +30,8 @@ A Kormány a csapatmozgásokkal összefüggő szabályokról szóló 312/2024. (
 
 15.[^2] DEFENDER EUROPE (SABER GUARDIAN) – összhaderőnemi harcászati gyakorlat.
 
+16.[^3] STRONG BASTION 2025 – Közép-európai Többnemzeti Hadosztályparancsnokság harcászati szintű törzsvezetési gyakorlata.
+
 [^1]: A 14. pontot az 1055/2025. (III. 13.) Korm. határozat szövege iktatta be.
 [^2]: A 15. pontot az 1055/2025. (III. 13.) Korm. határozat szövege iktatta be.
+[^3]: A 16. pontot az 1148/2025. (V. 14.) Korm. határozat szövege iktatta be.
