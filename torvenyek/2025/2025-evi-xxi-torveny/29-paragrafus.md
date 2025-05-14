@@ -1,1 +1,1 @@
-29. § A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény 253. § (3) bekezdésében az „(a továbbiakban: miniszter)” szövegrész helyébe az „(ezen alcím alkalmazásában a továbbiakban: miniszter)” szöveg lép.
+### 29. §

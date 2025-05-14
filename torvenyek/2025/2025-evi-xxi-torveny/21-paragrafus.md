@@ -1,5 +1,3 @@
 ## 5. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-21. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (3h) bekezdése helyébe a következő rendelkezés lép:
-
-„(3h) A Kormány kiemelt nemzetgazdasági érdekből egyedi határozatban dönthet a 4. § (1) bekezdés h) pontja szerinti vagyon tekintetében földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről azzal a feltétellel, hogy az elidegenítés e vagyon állam általi működtetését, valamint a műemléki védelem alatt álló építmények és építményegyüttesek esetében a műemlék fenntartását nem veszélyeztetheti (e bekezdés alkalmazásában a továbbiakban együtt: garanciális feltételek). A Kormány abban az esetben is dönthet földhasználati jog alapításáról, illetve osztott tulajdon létesítéséről, valamint osztatlan közös tulajdon létrehozása, valamint annak megszüntetése érdekében e vagyon elidegenítéséről – a garanciális feltételek fennállása esetén –, ha a 4. § (1) bekezdés h) pontja szerinti vagyon valamely része a 4. § (1) bekezdés d)–g) pontja szerinti kizárólagos állami vagyonba tartozik, illetve a 2. melléklet III. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül.”
+### 21. §
