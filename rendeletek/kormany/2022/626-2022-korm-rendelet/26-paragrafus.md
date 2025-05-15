@@ -16,17 +16,23 @@ a) a régióhoz tartozó külképviseletek esetében, a külképviseletek műkö
 
 b) a régióhoz tartozó külképviseletek esetében, a külképviselet szakmai feladatellátását szolgáló előirányzata tekintetében az egyes külképviseletek vezetői a (2) bekezdés a) pontjában meghatározott helyettesítési rendben;
 
-c) az intézetigazgató, távollétében vagy akadályoztatása esetén a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével a (2) bekezdés a) pontjában meghatározott személy az ott meghatározott rendben, ha a gazdasági régióhoz tartozó külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret tekintetében;
+c)[^19] − ha a gazdasági régióhoz tartozó külképviselet részeként kulturális intézet működik − a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret tekintetében – ideértve a kulturális intézet részére munkát végző, külképviselet által foglalkoztatott házastársat vagy munkavállalót is – a (2) bekezdés b) pontjában meghatározott rendben megjelölt személy;
 
-d) a szakdiplomata a szakmai feladatainak ellátására biztosított előirányzati keret tekintetében, ha a gazdasági régióhoz tartozó külképviseleten másik minisztériumtól áthelyezett szakdiplomata működik.
+d)[^20] − ha a gazdasági régióhoz tartozó külképviseleten szakdiplomata működik − a szakmai feladatainak ellátására biztosított előirányzati keret tekintetében a (2) bekezdés c) pontjában meghatározott rendben megjelölt személy.
 
 (4) A külképviseleten utalványozásra jogosult,
 
-a)[^19] ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével valamennyi előirányzat tekintetében a külképviselet-vezető, a külképviselet-vezető távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy az első beosztott konzul;
+a)[^21] ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével, valamint ha a külképviseleten szakdiplomata működik, a szakdiplomata szakmai feladatainak ellátására biztosított előirányzat kivételével valamennyi előirányzat tekintetében a külképviselet-vezető, a külképviselet-vezető távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy az első beosztott konzul, rendkívüli esetben együttes távollétük esetén a kihelyező szerv külképviseletek gazdálkodását felügyelő helyettes államtitkára által kijelölt személy;
 
 b) ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret tekintetében az intézetigazgató, az intézetigazgató távollétében vagy akadályoztatása esetén a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével az a) pontban meghatározott személy, az ott meghatározott rendben;
 
-c) gazdasági régió működése esetén, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével valamennyi előirányzat tekintetében a regionális gazdasági igazgató, a regionális gazdasági igazgató távollétében vagy akadályoztatása esetén, ha a régióban van megfelelő végzettséggel, képzettséggel rendelkező gazdasági munkatárs, akkor a kihelyező szerv külképviseletek gazdálkodását felügyelő helyettes államtitkára által kijelölt helyettesítő személy, ilyen munkatárs hiányában pedig az a) pontban meghatározott személy, az ott meghatározott rendben.
+c)[^22] ha a külképviseleten szakdiplomata működik, akkor a szakdiplomata szakmai feladatainak ellátására biztosított előirányzati keret tekintetében a szakdiplomata, akadályoztatása esetén a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével az a) pontban meghatározott személy az ott meghatározott rendben, gazdasági régió működése esetén a d) pontban meghatározott személy az ott meghatározott rendben;
+
+d)[^23] gazdasági régió működése esetén, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével, valamint ha a külképviseleten szakdiplomata működik, a szakdiplomata szakmai feladatainak ellátására biztosított előirányzat kivételével valamennyi előirányzat tekintetében a regionális gazdasági igazgató, a regionális gazdasági igazgató távollétében vagy akadályoztatása esetén, ha a régióban van megfelelő végzettséggel, képzettséggel rendelkező gazdasági munkatárs, akkor a kihelyező szerv külképviseletek gazdálkodását felügyelő helyettes államtitkára által kijelölt helyettesítő személy, ilyen munkatárs hiányában pedig az a) pontban meghatározott személy, az ott meghatározott rendben.
 
 [^18]: A 26. § (2) bekezdés b) pontja a 444/2024. (XII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^19]: A 26. § (4) bekezdés a) pontja az 536/2023. (XII. 5.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.
+[^19]: A 26. § (3) bekezdés c) pontja a 100/2025. (V. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 26. § (3) bekezdés d) pontja a 100/2025. (V. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: A 26. § (4) bekezdés a) pontja a 100/2025. (V. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^22]: A 26. § (4) bekezdés c) pontja a 100/2025. (V. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^23]: A 26. § (4) bekezdés d) pontját a 100/2025. (V. 14.) Korm. rendelet 1. § (4) bekezdése iktatta be.
