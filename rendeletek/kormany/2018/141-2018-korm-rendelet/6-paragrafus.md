@@ -1,4 +1,4 @@
-6. § (1)[^113] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2), (3b), (5)–(9) bekezdés állapítja meg, valamint a 2. mellékletben foglalt táblázat 7a. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (3a)–(3c), (6) és (9) bekezdés állapítja meg, továbbá a 2. mellékletben foglalt táblázat 7b. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7b mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2a)–(2b), (3) és (9) bekezdés állapítja meg, azzal, hogy
+6. § (1)[^114] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2), (3b), (5)–(9) bekezdés állapítja meg, valamint a 2. mellékletben foglalt táblázat 7a. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (3a)–(3c), (6) és (9) bekezdés állapítja meg, továbbá a 2. mellékletben foglalt táblázat 7b. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7b mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2a)–(2b), (3) és (9) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és OTÉK előírásait a (2)–(9) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -6,13 +6,13 @@ b) ha a hatályos településrendezési terv a beépítés és az egyedi épít�
 
 c) a 2. mellékletben foglalt táblázat B:7b mezőjében megjelölt telkekre a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény erdők övezetére vonatkozó 29. §-át, valamint 40. § (1), (5), (6) és (8) bekezdését nem kell alkalmazni.
 
-(2)[^114] A 2. mellékletben foglalt táblázat B:7 mezőjében megjelölt telkeken a környezetre jelentős hatást nem gyakorló ipari tevékenységi célú építmények és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(2)[^115] A 2. mellékletben foglalt táblázat B:7 mezőjében megjelölt telkeken a környezetre jelentős hatást nem gyakorló ipari tevékenységi célú építmények és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telkek beépítési módja szabadon álló,
 
-b)[^115] a kialakítható telek legkisebb területe 20 000 m2,
+b)[^116] a kialakítható telek legkisebb területe 20 000 m2,
 
-c)[^116] a beépítettség megengedett legnagyobb mértéke 60%,
+c)[^117] a beépítettség megengedett legnagyobb mértéke 60%,
 
 d) a terepszint alatti építés legnagyobb mértéke 10%,
 
@@ -24,17 +24,17 @@ g) az épületmagasság megengedett legnagyobb mértéke 25 méter,
 
 h) az épület legmagasabb pontja nem haladhatja meg a 40 métert,
 
-i)[^117] az előkert mérete 10 méter,
+i)[^118] az előkert mérete 10 méter,
 
 j) az oldalkert és a hátsókert mérete 15 méter,
 
-k)[^118] a kialakítható telek legkisebb szélessége 50 méter,
+k)[^119] a kialakítható telek legkisebb szélessége 50 méter,
 
-l)[^119] a teherforgalmat kiszolgáló út elhelyezésére legalább 16 méter építési területet (keresztmetszetet) kell biztosítani,
+l)[^120] a teherforgalmat kiszolgáló út elhelyezésére legalább 16 méter építési területet (keresztmetszetet) kell biztosítani,
 
-m)[^120] az építési telkeken az építési övezetre előírt zöldfelület megengedett legkisebb mértéke alapján kialakított zöldfelület minden megkezdett 100 m2-e után legalább egy környezettűrő, nagy lombkoronát növelő fát kell telepíteni.
+m)[^121] az építési telkeken az építési övezetre előírt zöldfelület megengedett legkisebb mértéke alapján kialakított zöldfelület minden megkezdett 100 m2-e után legalább egy környezettűrő, nagy lombkoronát növelő fát kell telepíteni.
 
-(2a)[^121] A 2. mellékletben foglalt táblázat B:7b mezőjében megjelölt telkeken elhelyezhetőek napelemes erőmű építményei, az erőmű üzemeltetéséhez szükséges utak, parkolók; szociális épület, valamint kizárólag a működést szolgáló gazdasági épület az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(2a)[^122] A 2. mellékletben foglalt táblázat B:7b mezőjében megjelölt telkeken elhelyezhetőek napelemes erőmű építményei, az erőmű üzemeltetéséhez szükséges utak, parkolók; szociális épület, valamint kizárólag a működést szolgáló gazdasági épület az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a beépítettség megengedett legnagyobb mértéke 50%,
 
@@ -44,11 +44,11 @@ c) az épületmagasság megengedett legnagyobb mértéke 25 méter,
 
 d) a zöldfelület megengedett legkisebb mértéke 15%.
 
-(2b)[^122] A 2. mellékletben foglalt táblázat 7b. sora szerinti beruházás esetében a kialakításra kerülő megújuló energia termelését szolgáló létesítményeket, valamint ezek kiszolgáló építményeket a 2. mellékletben foglalt táblázat B:7b mezőjében szereplő földrészletekből, valamint ezen földrészletekből a telekalakítási eljárásában hozott döntés véglegessé válását követően kialakított földrészletekből álló egységes területén, annak nyugati határán 50 méter széles fasor telepítését is magában foglaló zöldterületet is kell biztosítani, amely biztosítja a 2. mellékletben foglalt táblázat 7. sora szerinti területen működő létesítmények környező lakóterületekre gyakorolt hatásainak különösen a zaj- és levegőszennyezés hatékony mérséklését.
+(2b)[^123] A 2. mellékletben foglalt táblázat 7b. sora szerinti beruházás esetében a kialakításra kerülő megújuló energia termelését szolgáló létesítményeket, valamint ezek kiszolgáló építményeket a 2. mellékletben foglalt táblázat B:7b mezőjében szereplő földrészletekből, valamint ezen földrészletekből a telekalakítási eljárásában hozott döntés véglegessé válását követően kialakított földrészletekből álló egységes területén, annak nyugati határán 50 méter széles fasor telepítését is magában foglaló zöldterületet is kell biztosítani, amely biztosítja a 2. mellékletben foglalt táblázat 7. sora szerinti területen működő létesítmények környező lakóterületekre gyakorolt hatásainak különösen a zaj- és levegőszennyezés hatékony mérséklését.
 
-(3)[^123] A (2) bekezdés g) pontjának, valamint a (2a) bekezdés d) pontjának alkalmazása során az épületmagasságot a 2024. október 15-én hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
+(3)[^124] A (2) bekezdés g) pontjának, valamint a (2a) bekezdés d) pontjának alkalmazása során az épületmagasságot a 2024. október 15-én hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-(3a)[^124] Az ingatlan-nyilvántartás szerinti Göd külterület 050/18 helyrajzi számú telek területén a környezetre jelentős hatást nem gyakorló ipari tevékenységi célú építmények és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(3a)[^125] Az ingatlan-nyilvántartás szerinti Göd külterület 050/18 helyrajzi számú telek területén a környezetre jelentős hatást nem gyakorló ipari tevékenységi célú építmények és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telkek beépítési módja szabadon álló,
 
@@ -76,39 +76,39 @@ l) a kialakítható telek legkisebb mélysége 5 méter,
 
 m) az előkert méretén belül portaépület elhelyezhető.
 
-(3b)[^125] A (3a) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
+(3b)[^126] A (3a) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-(3c)[^126] A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a Göd külterület 062/47 helyrajzi számú ingatlanon kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
+(3c)[^127] A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a Göd külterület 062/47 helyrajzi számú ingatlanon kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
 
-(4)[^127]
+(4)[^128]
 
-(5)[^128] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházás esetében a kialakításra kerülő ipari rendeltetésű építményeket a 2. mellékletben foglalt táblázat B:7 mezőjében szereplő földrészletekből, valamint ezen földrészletekből a telekalakítási eljárásában hozott döntés véglegessé válását követően kialakított földrészletekből álló egységes területén, annak nyugati határán telepített, 10 méter széles, többszintes növényállománnyal kell takarni.
+(5)[^129] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházás esetében a kialakításra kerülő ipari rendeltetésű építményeket a 2. mellékletben foglalt táblázat B:7 mezőjében szereplő földrészletekből, valamint ezen földrészletekből a telekalakítási eljárásában hozott döntés véglegessé válását követően kialakított földrészletekből álló egységes területén, annak nyugati határán telepített, 10 méter széles, többszintes növényállománnyal kell takarni.
 
-(6)[^129] Az OTÉK 26. § (2) bekezdésétől eltérően, a 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházások esetében a közlekedési kapacitásbővítéssel összefüggő útszélesítéseket a 3. mellékletben foglalt földrészleteken, valamint ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteken a 3. mellékletben megjelölt szélességű építési területek alapján kell végrehajtani.
+(6)[^130] Az OTÉK 26. § (2) bekezdésétől eltérően, a 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházások esetében a közlekedési kapacitásbővítéssel összefüggő útszélesítéseket a 3. mellékletben foglalt földrészleteken, valamint ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteken a 3. mellékletben megjelölt szélességű építési területek alapján kell végrehajtani.
 
-(7)[^130] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+(7)[^131] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
-(8)[^131] A (7) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+(8)[^132] A (7) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
 
-(9)[^132] A 2. mellékletben foglalt táblázat B:7a és B:7b mezőjében megjelölt beruházási helyszínek közül a 7. mellékletben lehatárolt területek közúti közlekedési célt szolgálnak, azokon lakóépület nem helyezhető el.
+(9)[^133] A 2. mellékletben foglalt táblázat B:7a és B:7b mezőjében megjelölt beruházási helyszínek közül a 7. mellékletben lehatárolt területek közúti közlekedési célt szolgálnak, azokon lakóépület nem helyezhető el.
 
-[^113]: A 6. § (1) bekezdése a 489/2024. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^114]: A 6. § (2) bekezdés nyitó szövegrésze a 160/2019. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^115]: A 6. § (2) bekezdés b) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^116]: A 6. § (2) bekezdés c) pontja a 811/2021. (XII. 28.) korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^117]: A 6. § (2) bekezdés i) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^118]: A 6. § (2) bekezdés k) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^119]: A 6. § (2) bekezdés l) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^120]: A 6. § (2) bekezdés m) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^121]: A 6. § (2a) bekezdését a 489/2024. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^122]: A 6. § (2b) bekezdését a 489/2024. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^123]: A 6. § (3) bekezdése a 489/2024. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^124]: A 6. § (3a) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 332/2023. (VII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^125]: A 6. § (3b) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be.
-[^126]: A 6. § (3c) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^127]: A 6. § (4) bekezdését a 489/2024. (XII. 31.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^128]: A 6. § (5) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^129]: A 6. § (6) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^130]: A 6. § (7) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^131]: A 6. § (8) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^132]: A 6. § (9) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 489/2024. (XII. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^114]: A 6. § (1) bekezdése a 489/2024. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^115]: A 6. § (2) bekezdés nyitó szövegrésze a 160/2019. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^116]: A 6. § (2) bekezdés b) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^117]: A 6. § (2) bekezdés c) pontja a 811/2021. (XII. 28.) korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^118]: A 6. § (2) bekezdés i) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^119]: A 6. § (2) bekezdés k) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^120]: A 6. § (2) bekezdés l) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^121]: A 6. § (2) bekezdés m) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^122]: A 6. § (2a) bekezdését a 489/2024. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^123]: A 6. § (2b) bekezdését a 489/2024. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^124]: A 6. § (3) bekezdése a 489/2024. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^125]: A 6. § (3a) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 332/2023. (VII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^126]: A 6. § (3b) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be.
+[^127]: A 6. § (3c) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^128]: A 6. § (4) bekezdését a 489/2024. (XII. 31.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^129]: A 6. § (5) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^130]: A 6. § (6) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^131]: A 6. § (7) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^132]: A 6. § (8) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^133]: A 6. § (9) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 489/2024. (XII. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

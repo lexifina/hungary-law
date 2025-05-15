@@ -1,10 +1,10 @@
-6/ZS. §[^203] (1)[^204] A 2. mellékletben foglalt táblázat 85. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(2c) bekezdés állapítja meg, azzal, hogy
+6/ZS. §[^204] (1)[^205] A 2. mellékletben foglalt táblázat 85. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(2c) bekezdés állapítja meg, azzal, hogy
 
-a)[^205] a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(2c) bekezdésben foglalt eltérésekkel kell alkalmazni,
+a)[^206] a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(2c) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^206] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2)–(2c) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+b)[^207] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2)–(2c) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
-(2)[^207] A 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt földrészlet egyéb ipari gazdasági terület, melyre meghatározott sajátos beépítési szabályok:
+(2)[^208] A 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt földrészlet egyéb ipari gazdasági terület, melyre meghatározott sajátos beépítési szabályok:
 
 a) a telkek beépítési módja szabadon álló,
 
@@ -14,11 +14,11 @@ c) a zöldfelület megengedett legkisebb mértéke 20%,
 
 d) a kialakítható telek megengedett legkisebb területe 5000 m2.
 
-(2a)[^208] A 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt ingatlanok 14. melléklet szerint lehatárolt részén – a (2b) bekezdésben foglaltak kivételével – kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
+(2a)[^209] A 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt ingatlanok 14. melléklet szerint lehatárolt részén – a (2b) bekezdésben foglaltak kivételével – kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
 
-(2b)[^209] A 2. mellékletben foglalt táblázat 85. sora szerinti beruházás esetében a 14. melléklet szerint lehatárolt területen meghatározott véderdőterület, továbbá erdősített vagy fásított terület teljes értékűen beleszámolható a zöldfelületi számításba, valamint elhelyezhetőek azokon nyomvonaljellegű építmények és műtárgyaik, köztárgyak, kutatást és ismeretterjesztést szolgáló műtárgyak.
+(2b)[^210] A 2. mellékletben foglalt táblázat 85. sora szerinti beruházás esetében a 14. melléklet szerint lehatárolt területen meghatározott véderdőterület, továbbá erdősített vagy fásított terület teljes értékűen beleszámolható a zöldfelületi számításba, valamint elhelyezhetőek azokon nyomvonaljellegű építmények és műtárgyaik, köztárgyak, kutatást és ismeretterjesztést szolgáló műtárgyak.
 
-(2c)[^210] Az OTÉK 20. § (2) bekezdés b) pontja szerinti, a gazdasági területhez kapcsolódó munkásszállás kizárólag a 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt ingatlanok 15. melléklet szerint lehatárolt részén helyezhető el.
+(2c)[^211] Az OTÉK 20. § (2) bekezdés b) pontja szerinti, a gazdasági területhez kapcsolódó munkásszállás kizárólag a 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt ingatlanok 15. melléklet szerint lehatárolt részén helyezhető el.
 
 (3) A 2. mellékletben foglalt táblázat 85. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
@@ -26,11 +26,11 @@ d) a kialakítható telek megengedett legkisebb területe 5000 m2.
 
 (5) A (4) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
-[^203]: A 6/ZS. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
-[^204]: A 6/ZS. § (1) bekezdés nyitó szövegrésze az 53/2025. (III. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^205]: A 6/ZS. § (1) bekezdés a) pontja az 53/2025. (III. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^206]: A 6/ZS. § (1) bekezdés b) pontja az 53/2025. (III. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^207]: A 6/ZS. § (2) bekezdés nyitó szövegrésze az 53/2025. (III. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^208]: A 6/ZS. § (2a) bekezdését az 53/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.
-[^209]: A 6/ZS. § (2b) bekezdését az 53/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.
-[^210]: A 6/ZS. § (2c) bekezdését az 53/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.
+[^204]: A 6/ZS. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
+[^205]: A 6/ZS. § (1) bekezdés nyitó szövegrésze az 53/2025. (III. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^206]: A 6/ZS. § (1) bekezdés a) pontja az 53/2025. (III. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^207]: A 6/ZS. § (1) bekezdés b) pontja az 53/2025. (III. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^208]: A 6/ZS. § (2) bekezdés nyitó szövegrésze az 53/2025. (III. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^209]: A 6/ZS. § (2a) bekezdését az 53/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.
+[^210]: A 6/ZS. § (2b) bekezdését az 53/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.
+[^211]: A 6/ZS. § (2c) bekezdését az 53/2025. (III. 24.) Korm. rendelet 1. §-a iktatta be.

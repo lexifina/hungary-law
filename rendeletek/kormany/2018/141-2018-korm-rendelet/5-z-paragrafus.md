@@ -1,4 +1,4 @@
-5/Z. §[^112] (1) A 2. mellékletben foglalt táblázat 128. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:128 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/Z. §[^113] (1) A 2. mellékletben foglalt táblázat 128. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:128 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -18,4 +18,4 @@ e) a telken szálláshely rendeltetésű épületek és ezeket kiszolgáló ép�
 
 f) az előkert méretén belül portaépület és kerékpártároló elhelyezhető, üzemanyagtároló, töltőállás és olajtároló a telken bárhol elhelyezhető.
 
-[^112]: Az 5/Z. §-t a 669/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^113]: Az 5/Z. §-t a 669/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
