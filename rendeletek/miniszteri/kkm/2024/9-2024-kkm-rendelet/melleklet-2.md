@@ -1,7 +1,9 @@
-## 5X00125M.pdf
+## 5X03136M.pdf
 
-2. melléklet a 9/2024. (VI. 10.) KKM rendelethez
+2. melléklet a 9/2024. (VI. 10.) KKM rendelethez[^26]
 
-A XVIII. Külgazdasági és Külügyminisztérium fejezet 2024. évi költségvetési kiadási előirányzatainak feladatterve a központi kezelésű előirányzatokra vonatkozóan
+A XVIII. Külgazdasági és Külügyminisztérium fejezet 2025. évi költségvetési kiadási előirányzatainak feladatterve a központi kezelésű előirányzatokra vonatkozóan
 
-4X03783.pdf
+5X03136N.pdf
+
+[^26]: A 2. melléklet a 7/2025. (V. 14.) KKM rendelet 8. § b) pontja, 9. § d) pontja szerint módosított szöveg.

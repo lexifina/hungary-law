@@ -14,10 +14,10 @@ f) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezd�
 
 g) az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú, 2015. november 23-i Európai Bizottsági határozat,
 
-h)[^13]
+h)[^23] az Európai Bizottság SA.46515 (2016/N), SA.59053 (2020/N) és SA.103592 (2022/N) számú határozata,
 
 i) az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásáról szóló közleménye (2014/C99/03)
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^13]: A 97. § h) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^23]: A 97. § h) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 7/2025. (V. 14.) KKM rendelet 7. §-a iktatta be.

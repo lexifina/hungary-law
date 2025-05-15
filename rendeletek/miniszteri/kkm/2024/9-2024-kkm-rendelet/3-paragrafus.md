@@ -1,4 +1,4 @@
-3. § (1)[^1] E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat
+3. § (1)[^2] E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat
 
 a) 4. sora alapján a beruházás ösztönzési célelőirányzat felhasználásáról szóló kormányrendeletben meghatározott szabályok szerinti támogatás;
 
@@ -27,6 +27,8 @@ b) 6. sora alapján
 11. a 651/2014/EU bizottsági rendelet 41. cikke szerinti, a megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás,
 
 12. a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
+
+12a.[^3] a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
 
 13. az (EU) 2022/2472 bizottsági rendelet 17. cikke szerinti mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás,
 
@@ -198,7 +200,13 @@ h) 21. sora alapján
 
 20. a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás,
 
-21. az Európai Bizottságnak az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú, 2015. november 23-i határozatának megfelelő támogatás
+21.[^4] az Európai Bizottságnak az SA.38454 (2015/C) (ex2015/N) C(2015) 8227 final számú, 2015. november 23-i határozatának megfelelő támogatás,
+
+i)[^5] 22. sora alapján
+
+1. az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás,
+
+2. az Európai Bizottság SA.46515 (2016/N), SA.59053 (2020/N) és SA.103592 (2022/N) számú határozatában foglaltakkal összhangban a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló iránymutatások (2022/C 485/01) 1.1.10.1. pontja szerinti, a tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, 1.1.10.2. pontja szerinti, a tanácsadási szolgáltatásokhoz nyújtott támogatás, 1.1.11. pontja szerinti, a mezőgazdasági ágazatban folytatott együttműködés céljából, valamint 1.3.4. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez kapcsolódó támogatás
 
 nyújtható.
 
@@ -280,9 +288,12 @@ c) 11. sora alapján
 
 2. a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-d)[^2]
+d)[^6]
 
 nyújtható.
 
-[^1]: A 3. § (1) bekezdése a 21/2024. (XII. 23.) KKM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 3. § (2) bekezdés d) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 3. § (1) bekezdése a 21/2024. (XII. 23.) KKM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés b) pont 12a. alpontját a 7/2025. (V. 14.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 3. § (1) bekezdés h) pont 21. alpontja a 7/2025. (V. 14.) KKM rendelet 9. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés i) pontját a 7/2025. (V. 14.) KKM rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdés d) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés a) pontja hatályon kívül helyezte.

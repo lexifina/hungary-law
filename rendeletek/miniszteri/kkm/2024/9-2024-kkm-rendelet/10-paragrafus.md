@@ -70,6 +70,8 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 a) a 44 millió eurónak vagy
 
-b) − a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet 47. cikkében meghatározott munkatervben szereplő belvízi kikötő esetén − az 55 millió eurónak
+b)[^10] – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról, az (EU) 2021/1153 és a 913/2010/EU rendelet módosításáról, valamint az 1315/2013/EU rendelet hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1679 európai parlamenti és tanácsi rendelet 54. és 55. cikkében meghatározott munkatervben szereplő belvízi kikötő esetén – az 55 millió eurónak
 
 megfelelő forintösszeget, azzal, hogy ha a projekt kotrást is tartalmaz, e pont alkalmazásában az adott belvízi kikötőben egy naptári éven belül végrehajtott összes kotrási tevékenység tekintendő a projekt részének.
+
+[^10]: A 10. § (2) bekezdés b) pontja a 7/2025. (V. 14.) KKM rendelet 2. §-ával megállapított szöveg.

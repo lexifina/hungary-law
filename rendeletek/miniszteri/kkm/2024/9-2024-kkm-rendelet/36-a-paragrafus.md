@@ -1,4 +1,4 @@
-36/A. §[^11] (1) Működési támogatás az innovációs klaszter működtetésére nyújtható, amelynek időtartama nem haladhatja meg a 10 évet.
+36/A. §[^18] (1) Működési támogatás az innovációs klaszter működtetésére nyújtható, amelynek időtartama nem haladhatja meg a 10 évet.
 
 (2) Működési támogatás esetén
 
@@ -12,4 +12,4 @@ számolhatók el.
 
 (3) Működési támogatás esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
-[^11]: A 36/A. §-t a 21/2024. (XII. 23.) KKM rendelet 5. §-a iktatta be.
+[^18]: A 36/A. §-t a 21/2024. (XII. 23.) KKM rendelet 5. §-a iktatta be.

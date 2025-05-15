@@ -8,10 +8,11 @@ c) az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatá
 
 d) az (EU) 2023/2832 bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás esetén 2031. június 30-ig,
 
-e) mezőgazdasági csekély összegű támogatás esetén 2028. június 30-ig,
+e)[^11] az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás esetén 2033. június 30-ig,
 
-f)[^6]
+f)[^12]
 
 lehet támogatási döntést hozni.
 
-[^6]: A 13. § f) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^11]: A 13. § e) pontja a 7/2025. (V. 14.) KKM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 13. § f) pontját a 21/2024. (XII. 23.) KKM rendelet 8. § (1) bekezdés b) pontja hatályon kívül helyezte.
