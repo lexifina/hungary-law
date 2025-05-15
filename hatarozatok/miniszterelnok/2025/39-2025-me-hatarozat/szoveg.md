@@ -22,4 +22,6 @@ a) dr. Feldman Zsoltot a Magyar Halgazdálkodási Operatív Program Plusz monito
 
 b) dr. Viski Józsefet, az Agrárminisztérium államtitkárát a Magyar Halgazdálkodási Operatív Program Plusz monitoring bizottsága elnökévé – 2025. május 6-i hatállyal – kinevezem.
 
-3. Visszavonom a Vidékfejlesztési Program monitoring bizottsága és a Magyar Halgazdálkodási Operatív Program monitoring bizottsága elnökének felmentéséről, valamint a monitoring bizottságok elnökének kinevezéséről szóló 10/2020. (I. 31.) ME határozatot, valamint a monitoring bizottságok elnökeinek kinevezéséről és monitoring bizottságok elnökeinek felmentéséről szóló 22/2023. (III. 13.) ME határozat 1. pont f) alpontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
