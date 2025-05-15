@@ -1,3 +1,0 @@
-7. § (1) Ha a munkavállaló a bejelentési kötelezettségének balesete, vagy a személyét érintő más elháríthatatlan akadály miatt nem tud eleget tenni, a bejelentést az akadályoztatás megszűnését követő munkanapon teszi meg.
-
-(2) A parancsnok a bejelentési kötelezettség teljesítését elmulasztó munkavállalóval szemben fegyelmi eljárást kezdeményez. A fegyelmi eljárást legkorábban a bejelentési kötelezettség teljesítésének elmulasztásáról történő tudomásszerzést követő első munkanapon lehet kezdeményezni. A baleset bejelentésének elmulasztása esetén a munkavállaló köteles bizonyítani, hogy a sérülés, vagy más egészségkárosodás honvédelmi baleset következménye.
