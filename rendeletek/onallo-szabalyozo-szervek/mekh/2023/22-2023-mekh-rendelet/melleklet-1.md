@@ -12,11 +12,11 @@ b) típusa,
 
 c) az üzembe helyezés dátuma,
 
-d) a működési engedély vagy annak módosítása iránti kérelem benyújtásának dátuma (az eljárás ügyiratszáma),
+d)[^1] a víziközmű-szolgáltatói működési engedély vagy annak módosítása iránti kérelem benyújtásának dátuma (az eljárás ügyiratszáma),
 
 e) a rákötések száma (az összes tervezett és a kérelem benyújtásáig megvalósított),
 
-f) a tervezett ivóvíz fogyasztás, valamint a tervezett szennyvízelvezetés, illetve tisztítás adatai (m3-ben),
+f)[^2] a tervezett ivóvízfogyasztás, valamint az elvezetni és megtisztítani tervezett szennyvíz mennyisége (m3-ben),
 
 g) a tervezett felhasználói egyenérték,
 
@@ -49,3 +49,6 @@ c) személyi jellegű egyéb kifizetések;
 8. a Vksztv. 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott miniszteri rendelet hatálya alá nem tartozó felhasználói kategória tekintetében a tervezett alapdíjra és fogyasztással arányos díjra vonatkozó adatok (érintett fogyasztásmérő berendezések darabszáma átfolyási átmérőnként, valamint az egyes felhasználói kategóriákra eső tervezett fogyasztási adatok);
 
 9. az egyéb, nem besorolható költségek.
+
+[^1]: Az 1. melléklet 1. pont d) alpontja a 4/2025. (V. 12.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet 1. pont f) alpontja a 4/2025. (V. 12.) MEKH rendelet 1. §-ával megállapított szöveg.
