@@ -1,0 +1,1 @@
+6. § A baleset késedelmes bejelentése vagy a bejelentés elmulasztása, valamint az egészségügyi ellátás igénybevételének elmulasztása esetén a foglalkoztatott köteles bizonyítani, hogy a sérülés vagy más egészségkárosodás honvédelmi baleset következménye.

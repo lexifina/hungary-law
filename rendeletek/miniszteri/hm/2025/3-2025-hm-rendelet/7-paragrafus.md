@@ -1,0 +1,5 @@
+## 3. Honvédelmi szervezetnél bekövetkezett súlyos honvédelmi baleset bejelentése a katonai munkavédelmi hatóságnak
+
+7. § (1) A munkáltató a súlyos honvédelmi balesetet vagy annak gyanúját haladéktalanul bejelenti a honvédelmi szervezet vezető ügyeleti szolgálat útján a katonai munkavédelmi hatóság Baleseti Készenléti Szolgálata (a továbbiakban: BKSZ) részére. A súlyos honvédelmi baleset bejelentését a szükséges intézkedések megtételét követően írásban, elektronikus formában haladéktalanul meg kell ismételni, ha a bejelentés személyesen vagy telefonon történt.
+
+(2) Súlyos honvédelmi baleset, illetve annak gyanúja esetén a BKSZ intézkedéséig a munkáltató gondoskodik a baleseti helyszín balesetkori állapotban történő megőrzéséről. Ha a balesetkori állapot megőrzése további súlyos veszélyt idézne elő, vagy jelentős anyagi kárral járna, a veszélyt vagy a jelentős anyagi kár bekövetkezését valószínűsítő állapot megszüntetésével egyidejűleg a baleseti helyszínről fényképet, videófelvételt vagy egyéb, a baleset kivizsgálását elősegítő dokumentumot kell készíteni.

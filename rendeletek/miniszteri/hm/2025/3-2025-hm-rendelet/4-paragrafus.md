@@ -1,0 +1,5 @@
+4. § (1) A munkavégzést irányító személy – a 3. § (5) bekezdése szerinti intézkedések meghozatalát követően – haladéktalanul értesíti a bejelentett balesetről a baleset helyszíne szerint illetékes döntésre jogosult elöljáró által kijelölt ügyeleti szolgálatot (a továbbiakban: ügyeleti szolgálat), amely a baleset tényét bejegyzi a honvédelmi szervezet baleseti naplójába.
+
+(2) A több telephellyel rendelkező honvédelmi szervezet esetén a baleseti naplót a honvédelmi szervezet székhelyén összevontan és telephelyenként külön-külön is vezetni kell. A telephelyeken történt balesetre vonatkozó bejelentést a telephelyen lévő ügyeleti szolgálat haladéktalanul továbbítja a honvédelmi szervezet székhelyén lévő ügyeleti szolgálat részére.
+
+(3) Az ügyeleti szolgálat a balesetről a honvédségi szervezetnél helyben kialakított módon – legkésőbb a baleset bekövetkezését követő munkanapon – tájékoztatja a munkáltatót, valamint a balesetek kivizsgálását végrehajtó személyt, és irányítja a 3. § (5) bekezdésében meghatározott feladatok végrehajtását. Az ügyeleti szolgálat a súlyos honvédelmi baleset, illetve annak gyanúja esetén a tájékoztatást haladéktalanul teljesíti.

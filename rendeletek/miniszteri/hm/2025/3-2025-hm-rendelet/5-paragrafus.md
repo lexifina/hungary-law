@@ -1,0 +1,1 @@
+5. § A foglalkoztatott a szervezett tevékenységen kívül bekövetkezett baleseti eredetű sérüléséről haladéktalanul tájékoztatja közvetlen szolgálati elöljáróját, munkahelyi vezetőjét, továbbá bejelenti azt a honvédelmi szervezet munkabiztonsági szaktevékenységet ellátó személy részére legkésőbb a baleset miatti munkaképtelenség megszűnését követő munkanapon.
