@@ -1,1 +1,3 @@
-2. § A 22/2023. (XII. 28.) MEKH rendelet 1. melléklet 1. pont d) alpontjában az „a működési” szövegrész helyébe az „a víziközmű-szolgáltatói működési” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
