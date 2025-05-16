@@ -36,6 +36,12 @@ fa) nettó árbevétel, valamint
 
 fb) pénzügyi műveletekből származó bevétel
 
+g) hitelgondozó, hitelgondozási szolgáltató, hitelfelvásárló (képviselője) esetén a hitelgondozási, hitelfelvásárlási tevékenységből származó
+
+ga) nettó árbevétel, valamint
+
+gb) pénzügyi műveletekből származó bevétel
+
 összegét kell figyelembe venni.
 
 (4) Az (1) bekezdés alkalmazásában, ha a szervezet vagy személy az adatokat devizában adja meg, a forintra történő átszámításkor az MNB által megállapított, a szervezet vagy személy üzleti évének lezárásakor – újonnan alapított szolgáltató esetén a tárgyévet megelőző év utolsó napján – érvényes hivatalos devizaárfolyamot kell alkalmazni.
