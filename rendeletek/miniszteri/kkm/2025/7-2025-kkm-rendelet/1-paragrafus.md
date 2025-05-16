@@ -8,14 +8,6 @@
 
 ## [5] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 18. alpontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben a következőket rendelem el:
 
-1. § (1) A fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 9/2024. (VI. 10.) KKM rendelet (a továbbiakban: KKM Rendelet) 3. § (1) bekezdés b) pontja a következő 12a. alponttal egészül ki:
+1. §[^2]
 
-[E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat 6. sora alapján]
-
-## „12a. a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,”
-
-## [nyújtható.]
-
-(2) A KKM Rendelet 3. § (1) bekezdése a következő i) ponttal egészül ki:
-
-[E rendelet szerinti, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet szerinti táblázat]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

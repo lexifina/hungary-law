@@ -1,3 +1,3 @@
-7. § A KKM Rendelet 97. §-a a következő h) ponttal egészül ki:
+7. §[^8]
 
-(E Rendelet)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
