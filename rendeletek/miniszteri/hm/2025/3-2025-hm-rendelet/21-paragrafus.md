@@ -1,1 +1,3 @@
-21. § Hatályát veszti a honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet.
+21. §[^1]
+
+[^1]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
