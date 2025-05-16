@@ -1,0 +1,1 @@
+7. § Ez a rendelet a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
