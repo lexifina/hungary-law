@@ -1,0 +1,1 @@
+7. § Hatályát veszti a befektetési vállalkozások, a pénzforgalmi intézmények, az elektronikuspénz-kibocsátó intézmények, az utalványkibocsátók, a pénzügyi intézmények és a független pénzügyi szolgáltatás közvetítők panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról szóló 435/2016. (XII. 16.) Korm. rendelet.
