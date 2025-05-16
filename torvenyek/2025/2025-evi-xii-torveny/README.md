@@ -1,0 +1,7 @@
+# 2025. évi XII. törvény a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-12-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2025-05-16 | 2025. évi XII. törvény | 2025-12-00-00.0 (közlönyállapot) |
