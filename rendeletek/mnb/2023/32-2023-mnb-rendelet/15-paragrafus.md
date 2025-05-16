@@ -18,13 +18,13 @@ c) egyesülése, szétválása, átalakulása engedélyezésére irányuló elj�
 
 az igazgatási szolgáltatási díj.
 
-(4)[^17] Biztosító részvénytársaságban és biztosító szövetkezetben történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – az (5) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 1 000 000 forint.
+(4)[^18] Biztosító részvénytársaságban és biztosító szövetkezetben történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – az (5) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 1 000 000 forint.
 
-(5)[^18] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a biztosító részvénytársaságban és biztosító szövetkezetben történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 350 000 forint.
+(5)[^19] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a biztosító részvénytársaságban és biztosító szövetkezetben történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 350 000 forint.
 
 (6) Biztosító fióktelepének harmadik országban történő létesítésére irányuló eljárásért az igazgatási szolgáltatási díj 500 000 forint.
 
 (7) Biztosító által harmadik országban működő biztosító alapítása engedélyezésére irányuló eljárásért az igazgatási szolgáltatási díj 500 000 forint.
 
-[^17]: A 15. § (4) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (7) bekezdésével megállapított szöveg.
-[^18]: A 15. § (5) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 15. § (4) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (7) bekezdésével megállapított szöveg.
+[^19]: A 15. § (5) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.

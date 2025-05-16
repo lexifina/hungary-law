@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-32-20-2
 | 2023-08-19 | 2023-32-20-2C.2 | 2010. évi CXXX. törvény |
 | 2024-06-11 | 2023-32-20-2C.3 | 21/2024. (VI. 10.) MNB rendelet |
 | 2024-06-30 | 2023-32-20-2C.4 | 21/2024. (VI. 10.) MNB rendelet |
+| 2025-05-16 | 2023-32-20-2C.5 | 11/2025. (V. 14.) MNB rendelet |

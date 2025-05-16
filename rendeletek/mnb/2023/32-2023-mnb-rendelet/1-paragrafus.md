@@ -12,9 +12,9 @@ e) szabályzata módosításának jóváhagyására irányuló eljárásban szab
 
 az igazgatási szolgáltatási díj.
 
-(2)[^1] Bankban és szakosított hitelintézetben történő befolyásoló részesedésszerzés engedélyezése iránti eljárásért – a (3) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 1 100 000 forint.
+(2)[^2] Bankban és szakosított hitelintézetben történő befolyásoló részesedésszerzés engedélyezése iránti eljárásért – a (3) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 1 100 000 forint.
 
-(3)[^2] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a bankban és szakosított hitelintézetben történő befolyásoló részesedésszerzés engedélyezéséért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 600 000 forint.
+(3)[^3] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a bankban és szakosított hitelintézetben történő befolyásoló részesedésszerzés engedélyezéséért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 600 000 forint.
 
 (4) Szövetkezeti hitelintézet
 
@@ -30,9 +30,9 @@ e) szabályzata módosításának jóváhagyására irányuló eljárásban szab
 
 az igazgatási szolgáltatási díj.
 
-(5)[^3] Szövetkezeti hitelintézetben történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a (6) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 450 000 forint.
+(5)[^4] Szövetkezeti hitelintézetben történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a (6) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 450 000 forint.
 
-(6)[^4] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a szövetkezeti hitelintézetben történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 250 000 forint.
+(6)[^5] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a szövetkezeti hitelintézetben történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 250 000 forint.
 
 (7) Hitelintézet fióktelepének az Európai Unió tagállamán vagy az Európai Gazdasági Térségről szóló megállapodásban részes államon (a továbbiakban: EGT-állam) kívüli országban (a továbbiakban: harmadik ország) történő létesítése engedélyezésére irányuló eljárásért az igazgatási szolgáltatási díj 500 000 forint.
 
@@ -60,7 +60,7 @@ az igazgatási szolgáltatási díj.
 
 (11) Külföldi székhelyű hitelintézet magyarországi bankképviseletének nyilvántartásba vételére irányuló eljárásért az igazgatási szolgáltatási díj 500 000 forint.
 
-[^1]: Az 1. § (2) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (3) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (5) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (6) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (6) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.

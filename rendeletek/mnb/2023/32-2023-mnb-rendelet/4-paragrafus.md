@@ -8,9 +8,9 @@ c) szabályzata módosításának jóváhagyására irányuló eljárásban szab
 
 az igazgatási szolgáltatási díj.
 
-(2)[^7] Befektetési vállalkozásban történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a (3) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 900 000 forint.
+(2)[^8] Befektetési vállalkozásban történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a (3) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 900 000 forint.
 
-(3)[^8] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a befektetési vállalkozásban történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – az igazgatási szolgáltatási díj 450 000 forint.
+(3)[^9] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a befektetési vállalkozásban történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – az igazgatási szolgáltatási díj 450 000 forint.
 
 (4) Más EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepe
 
@@ -20,5 +20,5 @@ b) szabályzata módosításának jóváhagyására irányuló eljárásban szab
 
 az igazgatási szolgáltatási díj.
 
-[^7]: A 4. § (2) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^8]: A 4. § (3) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. § (3) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.
