@@ -22,8 +22,11 @@ j) a kollektív befektetési formákról és kezelőikről, valamint egyes pénz
 
 k) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 324–326. §-a és 436. §-a
 
-l)[^1] a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) 12. §-a
+l)[^2] a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) 12. §-a
+
+m)[^3] a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló 2025. évi XII. törvény (a továbbiakban: Nhf.) 28. §-a
 
 alapján a Magyar Nemzeti Bank (a továbbiakban: MNB) részére felügyeleti díj fizetésére kötelezett szervezetekre és személyekre (a továbbiakban együtt: felügyeleti díj fizetésére kötelezett) terjed ki.
 
-[^1]: Az 1. § l) pontját a 21/2024. (VI. 10.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^2]: Az 1. § l) pontját a 21/2024. (VI. 10.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^3]: Az 1. § m) pontját a 11/2025. (V. 14.) MNB rendelet 1. § (1) bekezdése iktatta be.

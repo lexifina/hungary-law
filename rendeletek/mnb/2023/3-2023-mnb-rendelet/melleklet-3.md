@@ -108,6 +108,28 @@
 
 ## A tábla kitöltésére a PVVDN kódú tábla kitöltésére vonatkozó előírások az irányadók.
 
+## 1.4a.[^9] Hitelgondozó
+
+## 1.4a.1. A hitelgondozó által fizetendő felügyeleti változó díj éves mértékét az Nhf. 28. § (3) bekezdése alapján kell meghatározni.
+
+## 1.4a.2. GONDVDN Hitelgondozó felügyeleti változó díj számítása (negyedéves) tábla kitöltése
+
+## A GONDVDN02 soron a negyedév végi mérlegfőösszeget kell megadni.
+
+## A GONDVDN03 sorban a GONDVDN02 soron feltüntetett mérlegfőösszeg alapján fizetendő felügyeleti változó díj éves mértékének negyedévre jutó időarányos részét kell megadni, figyelembe véve a felügyeleti változó díj mértékének a tárgynegyedévben esetlegesen bekövetkezett változása miatt szükséges arányosítást.
+
+## A GONDVDN04 sorban a tárgyévben a GONDVDN03 soron jelentett felügyeleti változó díj kumulált összegét kell szerepeltetni (első negyedévben az első negyedévre jelentett felügyeleti változó díj, második negyedévben az első és második negyedévre jelentett felügyeleti változó díjak összege stb.).
+
+## Az előző évi felügyeleti változó díjra vonatkozó adatokat tartalmazó GONDVDN05–GONDVDN09 sorokat kizárólag a második negyedéves bevallásban kell megadni.
+
+## A GONDVDN06 sorban az előző év végi auditált mérlegfőösszeget kell szerepeltetni.
+
+## A GONDVDN07 sorban az előző évre, a GONDVDN06 soron jelentett mérlegfőösszeg után számított felügyeleti változó díjat kell megadni, figyelembe véve a felügyeleti változó díj mértékének a tárgyévben esetlegesen bekövetkezett változása miatt szükséges arányosítást.
+
+## GONDVDN08 sor: az előző évben kiszámított és negyedévente a GONDVDN03 soron bevallott felügyeleti változó díjak összege.
+
+## GONDVDN09=GONDVDN08–GONDVDN07
+
 ## 1.5. Pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, az ezen típusú EGT-állambeli intézmények fióktelepe
 
 ## 1.5.1. A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény, illetve az ezen típusú EGT-állambeli intézmények magyarországi fióktelepe által fizetendő felügyeleti változó díj éves mértékét az Fsztv. 71. § (5), illetve (6) bekezdése alapján kell meghatározni.
@@ -356,7 +378,7 @@
 
 ## KSZFVDN09=KSZFVDN08–KSZFVDN07
 
-## 2.10.[^5] Kriptoeszköz-szolgáltató
+## 2.10.[^10] Kriptoeszköz-szolgáltató
 
 ## 2.10.1. A kriptoeszköz-szolgáltató által fizetendő felügyeleti változó díj éves mértékét a Kriptotv. 12. § (5) bekezdése alapján kell meghatározni.
 
@@ -462,7 +484,7 @@
 
 ## 4.1.1. A magánnyugdíjpénztár által fizetendő felügyeleti változó díj éves mértékét az Mpt. 116. § (5) bekezdése alapján kell meghatározni.
 
-## 4.1.2.[^6] 71MNYVDN Magánnyugdíjpénztár felügyeleti változó díj számítása (negyedéves) tábla kitöltése
+## 4.1.2.[^11] 71MNYVDN Magánnyugdíjpénztár felügyeleti változó díj számítása (negyedéves) tábla kitöltése
 
 ## A 71MNYVDN02 soron a pénztári vagyon negyedév végi piaci értékét kell jelenteni.
 
@@ -484,7 +506,7 @@
 
 ## 4.2.1. Az önkéntes nyugdíjpénztár által fizetendő felügyeleti változó díj éves mértékét az Öpt. 9/A. § (6) bekezdése alapján kell meghatározni.
 
-## 4.2.2.[^7] 71ONYVDN Önkéntes nyugdíjpénztár felügyeleti változó díj számítása (negyedéves) tábla kitöltése
+## 4.2.2.[^12] 71ONYVDN Önkéntes nyugdíjpénztár felügyeleti változó díj számítása (negyedéves) tábla kitöltése
 
 ## A 71ONYVDN02 soron a pénztári vagyon negyedév végi piaci értékét kell jelenteni.
 
@@ -646,9 +668,13 @@ A felügyeleti díj megfizetésekor feltüntetendő pénzforráskódok
 
 | 47. | EPENZKIBOCS_FT | elektronikuspénz-kibocsátó intézmény fióktelepe |
 
-| 48.[^8] | KRIPTOESZK_SZOLG | kriptoeszköz-szolgáltató |
+| 48.[^13] | KRIPTOESZK_SZOLG | kriptoeszköz-szolgáltató |
 
-[^5]: A 2. melléklet II. 2. pont 2.10. alpontját a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
-[^6]: A 2. melléklet II. pont 4.1.2. alpontja a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 2. melléklet II. pont 4.2.2. alpontja a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^8]: A 3. mellékletben foglalt táblázat 48. sorát a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
+| 49.[^14] | HITGOND | hitelgondozó |
+
+[^9]: A 2. melléklet II. pont 1. alpont 1.4a. pontját a 11/2025. (V. 14.) MNB rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. melléklet II. 2. pont 2.10. alpontját a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 2. melléklet II. pont 4.1.2. alpontja a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 2. melléklet II. pont 4.2.2. alpontja a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 3. mellékletben foglalt táblázat 48. sorát a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
+[^14]: A 3. mellékletben foglalt táblázat 49. sorát a 11/2025. (V. 14.) MNB rendelet 1. § (2) bekezdése iktatta be.

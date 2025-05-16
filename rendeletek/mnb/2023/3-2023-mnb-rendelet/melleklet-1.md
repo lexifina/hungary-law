@@ -2,7 +2,7 @@
 
 A felügyeleti változó díj bevallására szolgáló táblák
 
-I.[^3] Összefoglaló tábla
+## I.[^5] Összefoglaló tábla
 
 | Sorszám | Felügyeleti változó díj bevallására szolgáló tábla kódja | Felügyeleti változó díj bevallására szolgáló tábla megnevezése | Felügyeleti díj bevallására kötelezettek köre | Gyakoriság |
 
@@ -13,6 +13,8 @@ I.[^3] Összefoglaló tábla
 | 3. | PVVDN | Pénzügyi vállalkozás felügyeleti változó díj számítása (negyedéves) | pénzügyi vállalkozás, ideértve a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozást is | negyedéves |
 
 | 4. | PVFVDN | EGT-állambeli pénzügyi vállalkozás fióktelepe felügyeleti változó díj számítása (negyedéves) | EGT-állambeli pénzügyi vállalkozás fióktelepe | negyedéves |
+
+| 4a.[^6] | GONDVDN | Hitelgondozó felügyeleti változó díj számítása (negyedéves) | hitelgondozó, a hitelgondozói tevékenységet végző hitelintézet és hitelintézetnek nem minősülő hitelező kivételével | negyedéves |
 
 | 5. | PIVDN | Elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény felügyeleti változó díj számítása (negyedéves) | elektronikuspénz-kibocsátó intézmény, pénzforgalmi intézmény | negyedéves |
 
@@ -223,6 +225,42 @@ EGT-állambeli pénzügyi vállalkozás fióktelepe felügyeleti változó díj 
 | 008 | PVFVDN08 | Előző évre számított és negyedévente bevallott változó díj |  |  |
 
 | 009 | PVFVDN09 | Előző évre számított változó díj korrekciója (PVFVDN08 – PVFVDN07) |  |  |
+
+4a.[^7]
+
+## GONDVDN
+
+## Hitelgondozó változó díj számítása (negyedéves)
+
+| Nagyságrend: ezer forint |
+
+| Sorszám | Sorkód | Megnevezés | Tárgynegyedévi változó díj |  |
+
+| Érték | Mód |
+
+| 1 | 2 |
+
+| a | z |
+
+| 001 | GONDVDN01 | Tárgynegyedévi működés napjainak száma (nap) |  |  |
+
+| 002 | GONDVDN02 | Tárgynegyedévi változó díj alapja – mérlegfőösszeg |  |  |
+
+| 003 | GONDVDN03 | Tárgynegyedévre számított változó díj összesen – mérlegfőösszeg után |  |  |
+
+| 004 | GONDVDN04 | Tárgyévre negyedévente jelentett változó díj összesen |  |  |
+
+|  |  |  | Előző évi változó díjra vonatkozó adatok (csak a II. negyedévben töltendő) |  |
+
+| 005 | GONDVDN05 | Előző évi működés napjainak száma (nap) |  |  |
+
+| 006 | GONDVDN06 | Előző évi változó díj alapja – mérlegfőösszeg után – auditált adatok alapján |  |  |
+
+| 007 | GONDVDN07 | Előző évre számított változó díj – mérlegfőösszeg után – auditált adatok alapján |  |  |
+
+| 008 | GONDVDN08 | Előző évre számított és negyedévente bevallott változó díj |  |  |
+
+| 009 | GONDVDN09 | Előző évre számított változó díj korrekciója (GONDVDN08–GONDVDN07) |  |  |
 
 5.
 
@@ -710,7 +748,7 @@ Központi szerződő fél felügyeleti változó díj számítása (negyedéves)
 
 | 009 | KSZFVDN09 | Előző évre számított változó díj korrekciója (KSZFVDN08 – KSZFVDN07) |  |  |
 
-16a.[^4]
+16a.[^8]
 
 KRIPTOVDN
 
@@ -976,5 +1014,7 @@ Egészségpénztár, önsegélyező pénztár, egészség- és önsegélyező p�
 
 Foglalkoztatói nyugdíjszolgáltató intézmény felügyeleti változó díj számítása (negyedéves)
 
-[^3]: Az 1. melléklet I. pontjában foglalt „Összefoglaló tábla” megnevezésű táblázat a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^4]: Az 1. melléklet II. pont 16a. alpontját a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
+[^5]: Az 1. melléklet I. pontjában foglalt „Összefoglaló tábla” megnevezésű táblázat a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet I. pontjában foglalt táblázat 4a. sorát a 11/2025. (V. 14.) MNB rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. melléklet II. pont 4a. alpontját a 11/2025. (V. 14.) MNB rendelet 1. § (2) bekezdése iktatta be.
+[^8]: Az 1. melléklet II. pont 16a. alpontját a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
