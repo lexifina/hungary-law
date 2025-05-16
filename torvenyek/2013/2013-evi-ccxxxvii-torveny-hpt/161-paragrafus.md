@@ -68,6 +68,8 @@ f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján k
 
 g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
+h) a pénzügyi intézmény a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény szerint szolgáltat adatot.
+
 (4) Az adatkérésben, illetve az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és – a nemzetbiztonsági szolgálatok kivételével – az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
 (4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény rendőrség és a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szerve, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.

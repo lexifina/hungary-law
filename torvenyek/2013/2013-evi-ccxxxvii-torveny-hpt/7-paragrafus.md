@@ -24,7 +24,7 @@ h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCV
 
 i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
 
-j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
+j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet, ideértve a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvényben meghatározott hitelgondozási tevékenységet is,
 
 k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
 
