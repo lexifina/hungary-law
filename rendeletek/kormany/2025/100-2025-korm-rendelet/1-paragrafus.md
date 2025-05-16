@@ -4,26 +4,6 @@
 
 ## [3] A Kormány a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 26. § (3) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-(Gazdasági régió működése esetén kötelezettségvállalásra jogosult)
-
-## „c) − ha a gazdasági régióhoz tartozó külképviselet részeként kulturális intézet működik − a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret tekintetében – ideértve a kulturális intézet részére munkát végző, külképviselet által foglalkoztatott házastársat vagy munkavállalót is – a (2) bekezdés b) pontjában meghatározott rendben megjelölt személy;
-
-## d) − ha a gazdasági régióhoz tartozó külképviseleten szakdiplomata működik − a szakmai feladatainak ellátására biztosított előirányzati keret tekintetében a (2) bekezdés c) pontjában meghatározott rendben megjelölt személy.”
-
-(2) A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 26. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A külképviseleten utalványozásra jogosult,)
-
-## „a) ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével, valamint ha a külképviseleten szakdiplomata működik, a szakdiplomata szakmai feladatainak ellátására biztosított előirányzat kivételével valamennyi előirányzat tekintetében a külképviselet-vezető, a külképviselet-vezető távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy az első beosztott konzul, rendkívüli esetben együttes távollétük esetén a kihelyező szerv külképviseletek gazdálkodását felügyelő helyettes államtitkára által kijelölt személy;”
-
-(3) A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 26. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A külképviseleten utalványozásra jogosult,)
-
-## „c) ha a külképviseleten szakdiplomata működik, akkor a szakdiplomata szakmai feladatainak ellátására biztosított előirányzati keret tekintetében a szakdiplomata, akadályoztatása esetén a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével az a) pontban meghatározott személy az ott meghatározott rendben, gazdasági régió működése esetén a d) pontban meghatározott személy az ott meghatározott rendben;”
-
-(4) A külképviseletek gazdálkodásáról szóló 626/2022. (XII. 30.) Korm. rendelet 26. § (4) bekezdése a következő d) ponttal egészül ki:
-
-(A külképviseleten utalványozásra jogosult,)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
