@@ -4,4 +4,18 @@
 
 (3) Jelzáloghitel-szerződés felmondását megelőzően a hitelező az (1) bekezdésben meghatározott írásbeli fizetési felszólítással és tájékoztatással egyidejűleg köteles a fogyasztónak bemutatni a fogyasztó által a szerződés megkötésétől kezdődően – egyes évekre összesítve, de a fogyasztó külön kérésére havi bontásban is – teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
 
-(4) Jelzáloghitel fedezetéül szolgáló ingatlanra történő végrehajtás elkerülése érdekében a hitelező belső szabályzatában rögzíti a szükséges intézkedéseket, így különösen a fogyasztó megkeresését és a késedelmes tartozás kiegyenlítésének végrehajtási eljáráson kívüli rendezésének megkísérlését.
+(4) A hitelező belső szabályzatában rögzíti azokat az átstrukturálási lehetőségeket és eljárásokat, amelyeket a végrehajtási eljárás megindítását megelőzően a fogyasztók részére biztosít. Az átstrukturálási lehetőségek kialakítása során figyelembe kell venni a fogyasztó körülményeit is és legalább a következőket kell tartalmazniuk:
+
+a) a hitel futamidejének meghosszabbítása,
+
+b) a hitel típusának módosítása,
+
+c) a törlesztési kötelezettség egészének vagy egy részének elhalasztása,
+
+d) a kamatláb módosítása,
+
+e) halasztott törlesztés,
+
+f) a tartozás pénznemének módosítása,
+
+g) a tartozás részleges elengedése és adósságkonszolidáció.
