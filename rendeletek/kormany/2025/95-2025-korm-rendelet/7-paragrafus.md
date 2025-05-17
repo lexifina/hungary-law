@@ -1,1 +1,3 @@
-7. § Hatályát veszti a befektetési vállalkozások, a pénzforgalmi intézmények, az elektronikuspénz-kibocsátó intézmények, az utalványkibocsátók, a pénzügyi intézmények és a független pénzügyi szolgáltatás közvetítők panaszkezelésének eljárásával, valamint panaszkezelési szabályzatával kapcsolatos részletes szabályokról szóló 435/2016. (XII. 16.) Korm. rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
