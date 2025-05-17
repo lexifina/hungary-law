@@ -1,7 +1,3 @@
-2. § (1) A pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról szóló 32/2023. (VII. 19.) MNB rendelet a következő 19/B. §-sal egészül ki:
+2. §[^3]
 
-„19/B. § A hitelgondozó működésére jogosító engedély megadására irányuló eljárásért az igazgatási szolgáltatási díj 800 000 forint.”
-
-(2) A pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról szóló 32/2023. (VII. 19.) MNB rendelet 26. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E rendeletnek a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 3/2023. (I. 19.) MNB rendelet és a pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról szóló 32/2023. (VII. 19.) MNB rendelet módosításáról szóló 11/2025. (V. 14.) MNB rendelettel megállapított rendelkezéseit a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 3/2023. (I. 19.) MNB rendelet és a pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról szóló 32/2023. (VII. 19.) MNB rendelet módosításáról szóló 11/2025. (V. 14.) MNB rendelet hatálybalépését követően indult eljárásokban kell alkalmazni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

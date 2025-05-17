@@ -6,12 +6,6 @@
 
 ## a következőket rendelem el:
 
-1. § (1) A felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 3/2023. (I. 19.) MNB rendelet [a továbbiakban: 3/2023. (I. 19.) MNB rendelet] 1. §-a a következő m) ponttal egészül ki:
+1. §[^2]
 
-[E rendelet hatálya]
-
-## „m) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló 2025. évi XII. törvény (a továbbiakban: Nhf.) 28. §-a”
-
-## [alapján a Magyar Nemzeti Bank (a továbbiakban: MNB) részére felügyeleti díj fizetésére kötelezett szervezetekre és személyekre (a továbbiakban együtt: felügyeleti díj fizetésére kötelezett) terjed ki.]
-
-(2) A 3/2023. (I. 19.) MNB rendelet 1–3. melléklete az 1–3. melléklet szerint módosul.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
