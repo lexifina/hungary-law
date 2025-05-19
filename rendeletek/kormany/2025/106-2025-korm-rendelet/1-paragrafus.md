@@ -2,4 +2,6 @@
 
 ## [2] A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 9. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Hatályát veszti a „Gerecse 50 Teljesítménytúra” megnevezésű rendezvény elhalasztásáról szóló 75/2025. (IV. 10.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
