@@ -2,4 +2,6 @@
 
 ## [2] A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 42. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 18. pontjában meghatározott feladatkörében eljáró energiaügyi miniszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § A közúti közlekedési igazgatási hatósági eljárások díjairól szóló 47/2024. (XII. 30.) ÉKM rendelet 1. § (2) bekezdés a) pontjában a „díjakat az” szövegrész helyébe a „díjakat, az” szöveg, a „Miniszterelnöki Kabinetiroda” szövegrész helyébe az „Energiaügyi Minisztérium” szöveg, az „10032000-00335814-06020020” szövegrész helyébe az „10032000-00290713-06020037” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
