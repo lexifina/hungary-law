@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-38-30-4
 | --- | --- | --- |
 | 2019-11-04 | 2019-38-30-41.1 | 38/2019. (XI. 5.) OGY határozat |
 | 2021-05-18 | 2019-38-30-41.2 | 14/2021. (V. 19.) OGY határozat |
+| 2025-05-20 | 2019-38-30-41.3 | 30/2025. (V. 20.) OGY határozat |

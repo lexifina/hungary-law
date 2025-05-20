@@ -4,7 +4,7 @@ Tirts Tamás Attilát,[^2]
 
 dr. László Miklóst,
 
-Varga Szilviát,
+Sasvári Szilárdot,[^3]
 
 továbbá
 
@@ -19,3 +19,4 @@ a Közszolgálati Közalapítvány Kuratóriuma tagjának megválasztja.
 2. Ez a határozat az elfogadásakor lép hatályba.
 
 [^2]: A 14/2021. (V. 19.) OGY határozat 1. pontja alapján megállapított szöveg.
+[^3]: A 30/2025. (V. 20.) OGY határozat 2. pontjával megállapított szöveg.
