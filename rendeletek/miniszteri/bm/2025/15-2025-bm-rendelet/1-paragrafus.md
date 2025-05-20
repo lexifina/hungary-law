@@ -1,0 +1,9 @@
+## [1] Az államháztartásról szóló 2011. évi CXCV. törvény 28. § (1) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 30. §-ában foglalt rendelkezések alapján, a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény hatálybalépésére tekintettel a rendelet célja, hogy biztosítsa a Belügyminisztérium fejezet fejezeti és központi kezelésű előirányzatai megváltozott felhasználási szabályainak mihamarabbi alkalmazhatóságát és az érintettek számára a támogatásokhoz történő mielőbbi hozzáférést.
+
+## [2] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 14. alpontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
+
+## 1. A fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 13/2020. (V. 5.) BM rendelet módosítása
+
+1. § A fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 13/2020. (V. 5.) BM rendelet [a továbbiakban: 13/2020. (V. 5.) BM rendelet] a következő 14/B. §-sal egészül ki:
+
+„14/B. § E rendeletnek a fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 13/2020. (V. 5.) BM rendelet és a központi kezelésű előirányzatok felhasználásának rendjéről szóló 6/2021. (III. 3.) BM rendelet módosításáról szóló 15/2025. (V. 19.) BM rendelettel (a továbbiakban: Módr2.) megállapított 1. mellékletében foglalt táblázat 73., 75. és 78a. sorát a Módr2. hatálybalépése napján már megkezdett tevékenységekre is alkalmazni kell.”
