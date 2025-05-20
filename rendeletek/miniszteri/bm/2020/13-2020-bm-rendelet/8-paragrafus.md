@@ -1,6 +1,6 @@
 ## 5. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
-8. §[^36] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
+8. §[^40] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
 a) beruházási támogatásként, ideértve az infrastruktúra építését, bővítését vagy korszerűsítését,
 
@@ -24,4 +24,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^36]: A 8. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
+[^40]: A 8. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.

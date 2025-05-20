@@ -1,6 +1,6 @@
 ## 4. Csekély összegű támogatás
 
-7. §[^35] (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+7. §[^39] (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
 (2) A kedvezményezettnek az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével − az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon − nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
 
@@ -10,4 +10,4 @@
 
 (5) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-[^35]: A 7. § az 51/2024. (X. 14.) BM rendelet 4. §-ával megállapított szöveg.
+[^39]: A 7. § az 51/2024. (X. 14.) BM rendelet 4. §-ával megállapított szöveg.

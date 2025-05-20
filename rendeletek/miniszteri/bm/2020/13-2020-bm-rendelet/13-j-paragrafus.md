@@ -1,6 +1,6 @@
-## 5/F.[^48] A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
+## 5/F.[^52] A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
 
-13/J. §[^49] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, ha
+13/J. §[^53] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, ha
 
 a) a támogatás összege nem haladja meg éves szinten a 15 millió eurónak megfelelő forintösszeget, és
 
@@ -40,5 +40,5 @@ f) a hivatkozást a 2012/21/EU bizottsági határozatra.
 
 (10) Ha a közszolgáltatási megbízás időtartama alatt a jelen alcímben foglalt feltételek nem teljesülnek, a támogatást nyújtó az Atr. 7. §-a alapján köteles a támogatást bejelenteni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-[^48]: Az 5/F. alcímet (13/J. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
-[^49]: A 13/J. § az 51/2024. (X. 14.) BM rendelet 5. §-ával megállapított szöveg.
+[^52]: Az 5/F. alcímet (13/J. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^53]: A 13/J. § az 51/2024. (X. 14.) BM rendelet 5. §-ával megállapított szöveg.
