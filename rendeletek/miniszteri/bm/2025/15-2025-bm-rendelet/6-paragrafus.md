@@ -1,1 +1,3 @@
-6. § A 6/2021. (III. 3.) BM rendelet 1. mellékletében foglalt táblázat címében a „2024.” szövegrész helyébe a „2025.” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

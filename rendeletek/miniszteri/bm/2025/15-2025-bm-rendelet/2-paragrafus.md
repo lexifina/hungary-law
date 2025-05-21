@@ -1,1 +1,3 @@
-2. § A 13/2020. (V. 5.) BM rendelet 1. melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
