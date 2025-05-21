@@ -1,9 +1,11 @@
 3. § Hatályát veszti az R.
 
-a) 1. melléklet I. rész 1.4–1.6. pontja,
+a)[^3]
 
-b) 1. melléklet I. rész 2.13. pontja és
+b)[^4]
 
-c)[^3]
+c)[^5]
 
-[^3]: A 3. § c) pontja a 4. § (2) bekezdése alapján 2025. június 11-én lép hatályba.
+[^3]: A 3. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. § c) pontja a 4. § (2) bekezdése alapján 2025. június 11-én lép hatályba.
