@@ -6,6 +6,8 @@ Sasvári Szilárdot
 
 a Közszolgálati Közalapítvány Kuratóriuma tagjának megválasztja.
 
-2. A Közszolgálati Közalapítvány Kuratóriuma tagjainak megválasztásáról szóló 38/2019. (XI. 5.) OGY határozat 1. pontjában a „Varga Szilviát” szövegrész helyébe a „Sasvári Szilárdot” szöveg lép.
+2.[^2]
 
 3. Ez a határozat az elfogadásakor lép hatályba.
+
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
