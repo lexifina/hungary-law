@@ -10,6 +10,6 @@
 
 (5) A kisplasztika bronzból készült, magassága 30 cm, Batthyány Lajos mellképét ábrázolja, a talapzaton az „Allez Jäger, éljen a haza!” felirat olvasható. A kisplasztika Elek Imre szobrászművész alkotása.
 
-(6)[^10] A díjhoz 2 500 000 Ft összegű pénzjutalom jár. Posztumusz adományozás esetén a díj és a díjjal járó pénzjutalom átvételére a díjazott özvegye vagy örököse jogosult.
+(6)[^11] A díjhoz 2 500 000 Ft összegű pénzjutalom jár. Posztumusz adományozás esetén a díj és a díjjal járó pénzjutalom átvételére a díjazott özvegye vagy örököse jogosult.
 
-[^10]: A 12. § (6) bekezdése a 1/2020. (I. 6.) MvM rendelet 7. § c) pontja, a 2/2023. (III. 13.) MVM rendelet 1. § a) pontja szerint módosított szöveg.
+[^11]: A 12. § (6) bekezdése a 1/2020. (I. 6.) MvM rendelet 7. § c) pontja, a 2/2023. (III. 13.) MVM rendelet 1. § a) pontja szerint módosított szöveg.

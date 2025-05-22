@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-15-20-6
 | 2022-10-04 | 2015-15-20-6N.7 | 14/2022. (X. 3.) MVM rendelet |
 | 2023-03-14 | 2015-15-20-6N.8 | 1/2020. (I. 6.) MvM rendelet |
 | 2024-03-06 | 2015-15-20-6N.9 | 1/2024. (III. 5.) MVM rendelet |
+| 2025-05-22 | 2015-15-20-6N.10 | 5/2025. (V. 21.) KTM rendelet |

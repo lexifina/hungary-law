@@ -1,4 +1,4 @@
-6/B. §[^8] (1) Az Értékteremtő Közösségekért díj adományozására vonatkozó javaslatokat bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
+6/B. §[^9] (1) Az Értékteremtő Közösségekért díj adományozására vonatkozó javaslatokat bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
 
 (2) A bíráló bizottság tagjai:
 
@@ -12,4 +12,4 @@ b) a miniszter által felkért legalább két személy.
 
 (5) A bíráló bizottság tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottság melletti titkársági feladatok ellátásáról a civil és társadalmi kapcsolatokért felelős helyettes államtitkár gondoskodik.
 
-[^8]: A 6/B. §-t a 1/2020. (I. 6.) MvM rendelet 2. §-a iktatta be.
+[^9]: A 6/B. §-t a 1/2020. (I. 6.) MvM rendelet 2. §-a iktatta be.
