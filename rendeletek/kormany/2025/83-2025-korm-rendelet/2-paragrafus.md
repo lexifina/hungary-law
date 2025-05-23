@@ -1,1 +1,3 @@
-2. § A 96/2003. (VII. 15.) Korm. rendelet 14. § (2) bekezdés b) pontjában a „6. § (4) bekezdés e) pontjában” szövegrész helyébe a „6/B. § (1) és (2) bekezdésében” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -12,6 +12,6 @@
 
 ## 1. Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet módosítása
 
-1. § Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet [a továbbiakban: 96/2003. (VII. 15.) Korm. rendelet] 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4) A (2) bekezdés b) pontja szerinti jelentéseket elektronikusan, az NNGYK elektronikus humán erőforrás nyilvántartó informatikai rendszere útján kell megtenni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
