@@ -1,5 +1,5 @@
 ## 2. A közigazgatási és területfejlesztési miniszter által adományozható elismerésekről szóló 3/2024. (IV. 9.) KTM rendelet módosítása
 
-2. § A közigazgatási és területfejlesztési miniszter által adományozható elismerésekről szóló 3/2024. (IV. 9.) KTM rendelet (a továbbiakban: R.) 2. § (2) bekezdése a következő j) ponttal egészül ki:
+2. §[^3]
 
-(A miniszter által adományozható elismerések:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

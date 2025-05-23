@@ -6,14 +6,6 @@
 
 ## 1. A Miniszterelnökséget vezető miniszter által adományozható elismerésekről szóló 15/2015. (III. 11.) MvM rendelet módosítása
 
-1. § Hatályát veszti a Miniszterelnökséget vezető miniszter által adományozható elismerésekről szóló 15/2015. (III. 11.) MvM rendelet
+1. §[^2]
 
-a) 3. § b) pontja,
-
-b) 4. § (1) bekezdésében a „b) és” szövegrész,
-
-c) 5. §-a,
-
-d) 13. §-a,
-
-e) 23. §-a.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

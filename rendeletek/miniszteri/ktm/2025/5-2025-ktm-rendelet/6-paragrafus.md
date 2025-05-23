@@ -1,3 +1,3 @@
-6. § Az R. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(2) Miniszteri Elismerő Oklevél adományozható továbbá a főispán javaslatára a közigazgatásban huzamos ideig végzett magas színvonalú kormánytisztviselői szakmai munka elismerésére.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
