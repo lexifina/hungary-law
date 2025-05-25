@@ -1,0 +1,1 @@
+3. § Az NBSZ a díj megfizetéséről való tudomásszerzést követő 15 napon belül intézkedik a többlet visszatérítése iránt, amennyiben az ügyfél által megfizetett összeg meghaladja az 1. mellékletben meghatározott díj összegét.
