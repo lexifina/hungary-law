@@ -29,3 +29,5 @@ b) a 11. § (3) bekezdése szerinti igazolással, vagy az egyezmény alapján ki
 a munkáltató közterhet nem fizet.
 
 (6) Az állami adó- és vámhatóság a minimálbér változásának napját magában foglaló hónap 10. napjáig honlapján közzéteszi a 8. § (2) bekezdése szerinti közterhek mértékét, valamint a 4. § (2) bekezdése szerinti összeget és a nyugellátás 10. § (2) bekezdés szerint meghatározott alapját.
+
+(7) A 3. § (1) bekezdése szerinti bejelentés időpontjától függetlenül a közterhet a munkavégzés napján hatályos köztehermértékkel kell teljesíteni.
