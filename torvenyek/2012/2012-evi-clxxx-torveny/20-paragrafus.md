@@ -13,3 +13,13 @@
 (6) A bíróság az átadás végrehajtását kivételesen ideiglenesen elhalaszthatja különös méltánylást érdemlő emberiességi okból, különösen, ha megalapozottan feltételezhető, hogy az átadás végrehajtása veszélyeztetné a terhelt életét vagy egészségét. A bíróság az ideiglenes elhalasztásról, annak okáról, és ha előre látható, annak feltételezett tartamáról – a miniszter útján – haladéktalanul tájékoztatja a kibocsátó tagállami igazságügyi hatóságot. Az ideiglenes elhalasztási ok megszűnését a bíróság állapítja meg, amelyről a miniszter útján tájékoztatja a kibocsátó tagállami hatóságot. A terheltet az ideiglenes elhalasztási ok megszűnését követő tíz napon belül kell átadni. A bíróság az ideiglenes elhalasztással kapcsolatos döntését az ügyiratok alapján is meghozhatja.
 
 (7) Ha a terhelt átadásának végrehajtására nem került sor, az átadási letartóztatás a (4)–(6) bekezdésben említett határidők lejártával megszűnik.
+
+(8) Ha a bíróság határozata a 13. § (1) bekezdése alapján a terhelt átadását rendelte el, és a terhelt átadásának végrehajtása előtt az átadás megtagadása céljából a legfőbb ügyész a törvényesség érdekében jogorvoslatot jelentett be, a jogorvoslat bejelentése a határozat végrehajtására halasztó hatályú.
+
+(9) Ha a Kúria a törvényesség érdekében bejelentett jogorvoslatot alaposnak találja, a törvénysértő határozatot
+
+a) megváltoztathatja, vagy
+
+b) hatályon kívül helyezheti, és az eljárást megszüntetheti, vagy az eljárt bíróságot új eljárásra utasíthatja.
+
+(10) A Kúria a törvényesség érdekében bejelentett jogorvoslat elbírálása során a 16. §-ban meghatározott határidők figyelembevételével jár el.
