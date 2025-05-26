@@ -1,4 +1,4 @@
-## 1. a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet 62/A. § a) pontjában foglaltakra figyelemmel – a beruházási célterületre történő művelési ág változás átvezetése céljából – beruházási célterületté nyilvánítja a Kecskemét megyei jogú város közigazgatási területén fekvő, az ingatlan-nyilvántartás szerint Kecskemét külterület 0220/24 helyrajzi számú földrészlet „b” jelű, szőlő művelési ág alrészletét, a 0220/311, 0220/318 és a 0220/380 helyrajzi számú földrészlet 1. melléklet szerinti EOV koordinátákkal lehatárolt területét, valamint az ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteket;
+## 1.[^1] a termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tftv.) 11. § (2) és (3) bekezdésében és az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtásáról szóló 179/2023. (V. 15.) Korm. rendelet (a továbbiakban: Inytv. Vhr.) 95. §-ában foglaltakra figyelemmel – a beruházási célterületre történő művelési ág változás átvezetése céljából – beruházási célterületté nyilvánítja a Kecskemét megyei jogú város közigazgatási területén fekvő, az ingatlan-nyilvántartás szerint Kecskemét külterület 0220/23, 0220/24, 0220/25, 0220/126, 0220/311, 0220/318, 0220/380 és 0220/382 helyrajzi számú földrészletet, valamint az ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteket;
 
 ## 2. e kormányhatározatot részlegesen vagy teljesen visszavonja, ha
 
@@ -117,3 +117,5 @@
 | 52. | 696 620,35 | 177 745,16 |
 
 | 53. | 696 630,36 | 177 759,16 |
+
+[^1]: Az 1. pont az 1169/2025. (V. 26.) Korm. határozat szövegével megállapított szöveg.
