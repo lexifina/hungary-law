@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-368-20-
 | --- | --- | --- |
 | 2024-11-29 | 2024-368-20-22.1 | 368/2024. (XI. 28.) Korm. rendelet |
 | 2024-11-30 | 2024-368-20-22.2 | 2010. évi CXXX. törvény |
+| 2025-05-27 | 2024-368-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
