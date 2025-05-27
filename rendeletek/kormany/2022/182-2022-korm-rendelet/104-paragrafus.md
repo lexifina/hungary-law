@@ -2,7 +2,7 @@
 
 a) szakmai javaslatot tesz a Kormány részére a gazdaságfejlesztési célból állami hitel-, tőke- és garanciaprogramokra,
 
-b)[^145] előkészíti a Kormány részére a mikro-, kis- és középvállalatok – beleértve az Agrár Széchenyi Kártya Konstrukciókat igénybe vevő agrár mikro-, kis- és középvállalkozások – finanszírozására vonatkozó javaslatot, ideértve a kamattámogatott hitel-, tőke- és garanciaprogramokat,
+b)[^146] előkészíti a Kormány részére a mikro-, kis- és középvállalatok – beleértve az Agrár Széchenyi Kártya Konstrukciókat igénybe vevő agrár mikro-, kis- és középvállalkozások – finanszírozására vonatkozó javaslatot, ideértve a kamattámogatott hitel-, tőke- és garanciaprogramokat,
 
 c) a Kormány részére évente előterjeszti az állami pénzintézetek stratégiáját és felügyeli annak végrehajtását,
 
@@ -12,4 +12,4 @@ e) előkészíti a Magyar Fejlesztési Bankra és az Eximbankra vonatkozó jogsz
 
 f) kezeli az állam többségi és kisebbségi pénzintézeti tulajdonát és biztosítja annak képviseletét.
 
-[^145]: A 104. § b) pontja az 599/2023. (XII. 22.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^146]: A 104. § b) pontja az 599/2023. (XII. 22.) Korm. rendelet 23. §-ával megállapított szöveg.

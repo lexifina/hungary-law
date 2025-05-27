@@ -2,9 +2,9 @@
 
 a) előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat,
 
-b)[^267]
+b)[^268]
 
-c)[^268] működteti a Műszaki Notifikációs Központot és a Szolgáltatási Notifikációs Központot, belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert,
+c)[^269] működteti a Műszaki Notifikációs Központot és a Szolgáltatási Notifikációs Központot, belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert,
 
 d) gondoskodik a speciális notifikációnak az Európai Unió érintett intézményének történő megküldéséről,
 
@@ -20,8 +20,8 @@ fc) figyelemmel kíséri az eljárásokat és szükség szerint felhívja a Korm
 
 g) összehangolja az európai uniós jogállamisági eljárásokban és mechanizmusokban képviselendő magyar álláspont kialakításával és képviseletével kapcsolatos feladatokat.
 
-h)[^269] gondoskodik a hazai források és az európai uniós források tekintetében az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése hatálya alá tartozó állami támogatások versenyszempontú vizsgálatáról.
+h)[^270] gondoskodik a hazai források és az európai uniós források tekintetében az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése hatálya alá tartozó állami támogatások versenyszempontú vizsgálatáról.
 
-[^267]: A 183/B. § b) pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § n) pontja hatályon kívül helyezte.
-[^268]: A 183/B. § c) pontja az 599/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^269]: A 183/B. § h) pontját az 599/2023. (XII. 22.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^268]: A 183/B. § b) pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § n) pontja hatályon kívül helyezte.
+[^269]: A 183/B. § c) pontja az 599/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^270]: A 183/B. § h) pontját az 599/2023. (XII. 22.) Korm. rendelet 36. § (2) bekezdése iktatta be.

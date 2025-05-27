@@ -1,4 +1,4 @@
-182/B. §[^257] (1) A miniszter a közigazgatás-fejlesztésért való felelőssége keretében
+182/B. §[^258] (1) A miniszter a közigazgatás-fejlesztésért való felelőssége keretében
 
 a) összehangolja a közigazgatás-politika, a közigazgatás-fejlesztés és a közigazgatás-korszerűsítés kormányzati feladatait, és a kormányzati döntés-előkészítés során érvényesíti azok követelményeit,
 
@@ -10,4 +10,4 @@ a) gondoskodik az erre vonatkozó kormányzati politika kialakításáról, érv
 
 b) ellátja a közigazgatási szervek nemzetközi együttműködésének koordinálását, részt vesz a közigazgatási szervek nemzetközi képviseletében, elősegíti azok fejlesztését.
 
-[^257]: A 182/B. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.
+[^258]: A 182/B. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.

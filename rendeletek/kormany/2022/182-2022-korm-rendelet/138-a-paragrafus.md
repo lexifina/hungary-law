@@ -1,5 +1,5 @@
-138/A. §[^197] (1) A miniszter a mozgóképszakmáért való felelőssége keretében előkészíti a mozgóképszakmára vonatkozó jogszabályokat.
+138/A. §[^198] (1) A miniszter a mozgóképszakmáért való felelőssége keretében előkészíti a mozgóképszakmára vonatkozó jogszabályokat.
 
 (2) A Kormány a mozgóképről szóló 2004. évi II. törvény 18. § (2) bekezdésében meghatározott miniszterként a minisztert jelöli ki.
 
-[^197]: A 138/A. §-t a 21/2025. (II. 24.) Korm. rendelet 12. §-a iktatta be.
+[^198]: A 138/A. §-t a 21/2025. (II. 24.) Korm. rendelet 12. §-a iktatta be.

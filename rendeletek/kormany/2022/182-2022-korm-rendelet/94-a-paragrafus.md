@@ -1,3 +1,3 @@
-94/A. §[^106] A miniszter ellátja a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvénnyel kapcsolatos kodifikációs feladatokat.
+94/A. §[^107] A miniszter ellátja a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvénnyel kapcsolatos kodifikációs feladatokat.
 
-[^106]: A 94/A. §-t a 172/2024. (VII. 2.) Korm. rendelet 5. §-a iktatta be.
+[^107]: A 94/A. §-t a 172/2024. (VII. 2.) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-111/N. §[^171] A miniszter költségvetés makrogazdasági megalapozásáért való felelőssége keretében
+111/N. §[^172] A miniszter költségvetés makrogazdasági megalapozásáért való felelőssége keretében
 
 a) nemzeti középtávú fiskális-strukturális tervet készít, és ellátja az EU jogharmonizáció keretében felmerülő makrogazdasági feladatokat,
 
@@ -8,4 +8,4 @@ c) figyelemmel kíséri és elemzi a gazdasági folyamatokat, a gazdaságpolitik
 
 d) ellátja a Kormány gazdaságpolitikai stratégia alkotási, középtávú programkészítési, valamint a pénzügypolitika megalapozását célzó rövid- és középtávú makrogazdasági prognózisokat és hatásvizsgálatokat készít.
 
-[^171]: A 111/N. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^172]: A 111/N. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.

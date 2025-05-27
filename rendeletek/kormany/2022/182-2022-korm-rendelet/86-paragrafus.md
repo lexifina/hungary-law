@@ -1,3 +1,3 @@
-86. §[^105]
+86. §[^106]
 
-[^105]: A 86. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.
+[^106]: A 86. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.

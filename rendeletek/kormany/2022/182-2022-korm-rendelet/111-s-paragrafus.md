@@ -1,4 +1,4 @@
-111/S. §[^176] A miniszter a nyugdíjpolitikáért való felelőssége keretében
+111/S. §[^177] A miniszter a nyugdíjpolitikáért való felelőssége keretében
 
 a) meghatározza a nyugdíjpolitikával kapcsolatos területek szakmai felügyeleti rendszerét, illetve annak fejlesztési irányait, feladatait,
 
@@ -6,4 +6,4 @@ b) ellátja a társadalombiztosítási nyugellátások rendszerének irányítá
 
 c) előkészíti a társadalombiztosítási nyugellátásokra vonatkozó jogszabályokat.
 
-[^176]: A 111/S. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^177]: A 111/S. §-t a 440/2024. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
