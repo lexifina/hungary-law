@@ -4,7 +4,7 @@
 
 ## Általános rendelkezések
 
-67/A. §[^185] (1)[^186] A miniszter a köziratok kezelésének szakmai irányításával összefüggő ellenőrzési feladatait az éves munkatervben meghatározott ütemezéssel, a központi államigazgatási szerveknél végzi.
+67/A. §[^185] (1)[^186] A miniszter a köziratok kezelésének szakmai irányításával összefüggő ellenőrzési feladatait az éves munkatervben meghatározott ütemezéssel a központi kormányzati igazgatási szerveknél, a rendvédelmi szerveknél és a nemzetbiztonsági szolgálatoknál végzi.
 
 (1a)[^187] A miniszter a köziratok kezelésének szakmai irányításával összefüggésben a 3. mellékletben meghatározott szerveknél ellenőrzi az iratkezelési szabályok betartását, különösen
 
@@ -32,7 +32,7 @@ c) az elektronikus belső ügymenetre vonatkozó előírások betartását.
 
 [^184]: Az V/A. Fejezet megjelölését a 64/2010. (III. 18.) Korm. rendelet 30. §-a iktatta be.
 [^185]: A 67/A. §-t és az azt megelőző alcímeket a 239/2007. (IX. 12.) Korm. rendelet 9. §-a iktatta be.
-[^186]: A 67/A. § (1) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 269/2017. (IX. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^186]: A 67/A. § (1) bekezdése a 114/2025. (V. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^187]: A 67/A. § (1a) bekezdését a 269/2017. (IX. 13.) Korm. rendelet 2. §-a iktatta be.
 [^188]: A 67/A. § (1b) bekezdését a 269/2017. (IX. 13.) Korm. rendelet 2. §-a iktatta be.
 [^189]: A 67/A. § (2) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
