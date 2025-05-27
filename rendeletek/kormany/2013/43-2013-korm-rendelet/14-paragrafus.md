@@ -14,9 +14,9 @@
 
 (6) A kijelölt tanúsító szervezet köteles az ellenőrző szervvel az ellenőrzés végrehajtása érdekében együttműködni.
 
-(7)[^6] Az ellenőrző szerv (1)–(6) bekezdéseiben rögzített ellenőrzési tevékenysége nem érinti az akkreditáló szerv ellenőrzési jogosultságait szabályozó jogszabályi előírásokat. A kijelölő köteles figyelembe venni az akkreditáló szerv által lefolytatott éves felügyeleti vizsgálat eredményét, amelyről az akkreditáló szerv a jogerőre emelkedést követő 8 napon belül tájékoztatja a kijelölőt.
+(7)[^7] Az ellenőrző szerv (1)–(6) bekezdéseiben rögzített ellenőrzési tevékenysége nem érinti az akkreditáló szerv ellenőrzési jogosultságait szabályozó jogszabályi előírásokat. A kijelölő köteles figyelembe venni az akkreditáló szerv által lefolytatott éves felügyeleti vizsgálat eredményét, amelyről az akkreditáló szerv a határozata véglegessé válását követő 8 napon belül tájékoztatja a kijelölőt.
 
-(8)[^7] Az akkreditáló szerv a kijelölt tanúsító szervezetek akkreditált státuszának felfüggesztéséről, illetve visszavonásáról 8 napon belül tájékoztatja a kijelölőt.
+(8)[^8] Az akkreditáló szerv a kijelölt tanúsító szervezetek akkreditált státuszának felfüggesztéséről, illetve visszavonásáról 8 napon belül tájékoztatja a kijelölőt.
 
-[^6]: A 14. § (7) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^7]: A 14. § (8) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^7]: A 14. § (7) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § c) pontja, a 114/2025. (V. 26.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^8]: A 14. § (8) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

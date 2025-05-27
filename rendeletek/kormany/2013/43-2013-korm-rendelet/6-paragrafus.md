@@ -16,10 +16,10 @@ e) a kérelmező képviselőjének nyilatkozatát arra vonatkozóan, hogy a kije
 
 (3) A kérelemhez csatolni kell:
 
-a)[^2] a kijelölési kérelem tárgya szerinti iratkezelési szoftver terméktanúsítási szakterületre kiállított érvényes akkreditálási okiratának másolatát,
+a)[^3] a kijelölési kérelem tárgya szerinti iratkezelési szoftver terméktanúsítási szakterületre kiállított érvényes akkreditálási okiratának másolatát,
 
 b) minőségirányítási kézikönyvet, ennek a kijelölés szakterületéhez kapcsolódó részét és a kijelölési kérelem tárgyát képező tevékenységre vonatkozó eljárási szabályzatok másolatát,
 
 c) a közfeladatot ellátó szervek iratkezelése tekintetében szerzett referenciák felsorolását.
 
-[^2]: A 6. § (3) bekezdés a) pontja a 425/2015. (XII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^3]: A 6. § (3) bekezdés a) pontja a 425/2015. (XII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg.

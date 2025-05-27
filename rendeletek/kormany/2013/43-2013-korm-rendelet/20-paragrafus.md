@@ -1,7 +1,5 @@
 ## 10. Jogorvoslatok
 
-20. § (1) A kijelölő határozatai ellen a Ket. 109. § (1) bekezdésének a) pontja értelmében bírósági felülvizsgálatnak van helye.
+20. §[^12]
 
-(2) A kijelölő határozatai ellen a Ket. 112. §-a értelmében újrafelvételi kérelem nem nyújtható be.
-
-(3) A kijelölő határozatainak felügyeleti jogkörben való visszavonására, módosítására a Ket. 114. § (4) bekezdése értelmében nincs lehetőség.
+[^12]: A 20. §-t a 114/2025. (V. 26.) Korm. rendelet 8. §-a hatályon kívül helyezte.

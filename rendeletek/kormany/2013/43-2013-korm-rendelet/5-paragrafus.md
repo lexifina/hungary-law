@@ -1,4 +1,4 @@
-5. §[^1] (1) A bizottságnak két tagja van.
+5. §[^2] (1) A bizottságnak két tagja van.
 
 (2) A bizottság vezetőjét a kijelölő kéri fel. A bizottság további egy tagját az e-közigazgatásért felelős miniszter és az informatikáért felelős miniszter együttesen delegálja.
 
@@ -12,4 +12,4 @@
 
 (7) A bizottság működési rendjét ügyrendjében határozza meg. A bizottság a tényállás tisztázása érdekében, javaslata kialakításához adatokat kérhet be a kérelmezőtől.
 
-[^1]: Az 5. § a 239/2022. (VI. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^2]: Az 5. § a 239/2022. (VI. 30.) Korm. rendelet 21. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 16. § (1) A kijelölő a kijelölést felfüggeszti:
 
-a)[^8] ha a kijelölt tanúsító szervezet akkreditáltságát az akkreditáló szerv felfüggesztette,
+a)[^9] ha a kijelölt tanúsító szervezet akkreditáltságát az akkreditáló szerv felfüggesztette,
 
 b) ha a 14. § szerinti ellenőrzés során megállapítást nyer, hogy a kijelölt tanúsító szervezet nem felel meg a kijelölés feltételeinek,
 
@@ -18,4 +18,4 @@ e) ha ezt a kijelölt tanúsító szervezet maga kéri.
 
 (4) Ha a felfüggesztés időtartamán belül a kijelölt tanúsító szervezet az előírt feltételeket teljesítette a felfüggesztés megszüntetésre kerül.
 
-[^8]: A 16. § (1) bekezdés a) pontja a 425/2015. (XII. 23.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^9]: A 16. § (1) bekezdés a) pontja a 425/2015. (XII. 23.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
