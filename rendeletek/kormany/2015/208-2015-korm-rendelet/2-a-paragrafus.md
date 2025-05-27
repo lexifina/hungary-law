@@ -1,5 +1,3 @@
-## 2. §[^8] Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban – ha jogszabály rövidebb határidőt nem állapít meg – a szakhatósági eljárásokra vonatkozó ügyintézési határidő tíz nap.
-
 2/A. §[^9] (1) A Beruházás során megvalósuló, az ingatlan-nyilvántartás szerinti Paks belterület 8802/35, 8802/36, 8802/37, 8802/38, 8802/39 és 8802/45 helyrajzi számú ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben meghatározott eltérésekkel kell alkalmazni, és
@@ -42,5 +40,4 @@ o) a hatályos településrendezési terv szerinti szabályozási vonalat nem ke
 
 (4) Az (1) bekezdéssel összefüggésben településkép-védelmi tájékoztatásnak és szakmai konzultációnak, településképi bejelentésnek nincs helye, településképi véleményezési eljárást nem kell lefolytatni, építészeti-műszaki tervtanácsi véleményt, valamint az Országos Építészeti Tervtanács véleményét nem kell beszerezni.
 
-[^8]: A 2. § a 458/2017. (XII. 28.) Korm. rendelet 197. §-ával megállapított szöveg.
 [^9]: A 2/A. §-t a 488/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
