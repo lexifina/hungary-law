@@ -4,9 +4,15 @@
 
 1. melléklet az 1308/2023. (VII. 20.) Korm. határozathoz[^2]
 
-Az Emberi Erőforrás Fejlesztési Operatív Program Plusz éves fejlesztési kerete
+Az Emberi Erőforrás Fejlesztési Operatív Program Plusz Éves fejlesztési kerete
 
 1. XXI. századi köznevelésről szóló 1. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) (uniós és nemzeti hozzájárulás összesen) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP Plusz-1.3.1-25 | A tanulói eredményesség javítása esélyteremtéssel és a kulcskompetenciák fejlesztésével | 26,9 (ESZA+) | kiemelt | 2025. III. negyedév |
 
 2. A Pedagógus életpálya modellről szóló 2. prioritás
 
@@ -26,17 +32,39 @@ Az Emberi Erőforrás Fejlesztési Operatív Program Plusz éves fejlesztési ke
 
 | 2. | EFOP Plusz-3.1.1-24 | Társadalmi kohéziót erősítő komplex bűnmegelőzési és reintegrációs program | 6,17 (ESZA+) | kiemelt | 2024. I. negyedév |
 
-| 3. | EFOP Plusz-3.1.2-25 | „Közfoglalkoztatottak munkaerőpiaci integrációja” | 25,78 (ESZA+) | kiemelt | 2025. I. negyedév |
+| 3. | EFOP Plusz-3.1.2-25 | „Közfoglalkoztatottak munkaerőpiaci integrációja” | 25,78 (ESZA+) | kiemelt | 2025. III. negyedév |
 
-| 4. | EFOP Plusz-3.1.3-25 | „Nő az esély” a közszolgáltatásokban | 27,01 (ESZA+) | kiemelt | 2025. I. negyedév |
+| 4. | EFOP Plusz-3.1.3-25 | „Nő az esély” a közszolgáltatásokban | 27,01 (ESZA+) | kiemelt | 2025. II. negyedév |
 
-| 5. | EFOP Plusz-3.1.4-25 | „Aktívan a tudásért” | 10,23 (ESZA+) | kiemelt | 2025. I. negyedév |
+| 5. | EFOP Plusz-3.1.4-25 | „Aktívan a tudásért” | 10,23 (ESZA+) | kiemelt | 2025. II. negyedév |
 
-| 6. | EFOP Plusz-3.3.1-25 | „Egy eséllyel több” – Esélyteremtő szakmai hálózat fejlesztése | 11,49 (ESZA+) | kiemelt | 2025. I. negyedév |
+| 6. | EFOP Plusz-3.1.5-25 | Esélyműhely – hátrányos helyzetűek szakmai oktatási és foglalkoztató műhelye (ESZA+) | 4,07 (ESZA+) | egyszerűsített | 2025.III. negyedév |
 
-| 7. | EFOP Plusz-3.3.2-25 | Stratégiai fejlesztések a társadalmi esélyteremtési politikában | 2,00 (ESZA+) | kiemelt | 2025. I. negyedév |
+| 7. | EFOP Plusz-3.3.1-25 | „Egy eséllyel több” – Esélyteremtő szakmai hálózat fejlesztése | 11,49 (ESZA+) | kiemelt | 2025. II. negyedév |
 
-| 8. | EFOP Plusz-3.3.3-25 | Roma lányok végzettség nélküli iskolaelhagyásának megelőzése | 5,60 (ebből kevésbé fejlett régiók: 5,00 Mrd Ft) (ESZA+) | egyszerűsített | 2025. II. negyedév |
+| 8. | EFOP Plusz-3.3.2-25 | Stratégiai fejlesztések a társadalmi esélyteremtési politikában | 2,00 (ESZA+) | kiemelt | 2025. II. negyedév |
+
+| 9. | EFOP Plusz-3.3.3-25 | Roma lányok végzettség nélküli iskolaelhagyásának megelőzése | 5,60 (ebből kevésbé fejlett régiók: 5,00 Mrd Ft) (ESZA+) | egyszerűsített | 2025. II. negyedév |
+
+| 10. | EFOP Plusz-3.3.4-25 | Biztos Kezdet Gyerekházak területi alapú fejlesztése (ESZA+) | 2,50 (ESZA+) | egyszerűsített | 2025. III. negyedév |
+
+| 11. | EFOP Plusz-3.3.5-25 | Tanodák területi alapú fejlesztése (ESZA+) | 3,06 (ebből kevésbé fejlett régiók: 2,72 Mrd Ft) (ESZA+) | egyszerűsített | 2025. III. negyedév |
+
+| 12. | EFOP Plusz-3.3.6-25 | Társadalmi Pláza – esélyteremtés célú közösségi szolgáltató terek szakmai fejlesztése | 4,00 (ESZA+) | egyszerűsített | 2025. III. negyedév |
+
+| 13. | EFOP Plusz-3.3.7-25 | Roma Szakkollégiumok utánpótlásának biztosítása | 1,60 (ebből kevésbé fejlett régiók: 1,35 Mrd Ft) (ESZA+) | standard | 2025. III. negyedév |
+
+| 14. | EFOP Plusz-3.3.8-25 | „Esélysuli” – Járások a gyermekek esélyeiért (ESZA+) | 12,10 (ESZA+) | egyszerűsített | 2025. III. negyedév |
+
+| 15. | EFOP Plusz-3.4.1-25 | Gyermekek esélynövelő szolgáltatásainak infrastrukturális fejlesztése | 7,16 (ERFA) | egyszerűsített | 2025. III. negyedév |
+
+| 16. | EFOP Plusz-3.4.2-25 | Biztos Kezdet Gyerekházak területi alapú fejlesztése (ERFA) | 1,80 (ERFA) | egyszerűsített | 2025. III. negyedév |
+
+| 17. | EFOP Plusz-3.4.3-25 | Tanodák területi alapú fejlesztése (ERFA) | 1,25 (ERFA) | egyszerűsített | 2025. III. negyedév |
+
+| 18. | EFOP Plusz-3.4.4-25 | Esélyműhelyek – hátrányos helyzetűek szakmai oktatási és foglalkoztató műhelye (ERFA) | 4,73 (ERFA) | egyszerűsített | 2025. III. negyedév |
+
+| 19. | EFOP Plusz-3.4.5-25 | „Esélysuli” – Járások a gyermekek esélyeiért (ERFA) | 1,43 (ERFA) | egyszerűsített | 2025. III. negyedév |
 
 4. Szociális fejlesztésekről szóló 4. prioritás
 
@@ -44,9 +72,11 @@ Az Emberi Erőforrás Fejlesztési Operatív Program Plusz éves fejlesztési ke
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) (uniós és nemzeti hozzájárulás összesen) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | EFOP Plusz-4.1.1-25 | Foglalkozási rehabilitációs szolgáltatásokkal felkészítés a munkavállalásra | 4,00 (ESZA+) | kiemelt | 2025. I. negyedév |
+| 2. | EFOP Plusz-4.1.1-25 | Foglalkozási rehabilitációs szolgáltatásokkal felkészítés a munkavállalásra | 1,00 (ESZA+) | kiemelt | 2025. IV. negyedév |
 
-| 3. | EFOP Plusz-4.1.2-25 | Fogyatékos és sajátos nevelési igényű fiatalok munkatapasztalat szerzésének támogatása, munkakompetenciák fejlesztése | 3,76 (ebből kevésbé fejlett régiók: 3,24 Mrd Ft) (ESZA+) | egyszerűsített | 2025. I. negyedév |
+| 3. | EFOP Plusz-4.1.2-25 | Fogyatékos és sajátos nevelési igényű fiatalok munkatapasztalat szerzésének támogatása, munkakompetenciák fejlesztése | 3,43 (ebből kevésbé fejlett régiók: 3,23 Mrd Ft) (ESZA+) | egyszerűsített | 2025. II. negyedév |
+
+| 4. | EFOP Plusz-4.1.3-25 | Fogyatékossággal élő, vagy megváltozott munkaképességű személy számára elhelyezkedést segítő szolgáltatások nyújtása | 3,33 (ebből kevésbé fejlett régiók: 3,00 Mrd Ft) (ESZA+) | egyszerűsített | 2025. II. negyedév |
 
 5. Rászoruló személyek támogatásáról szóló 5. prioritás
 
@@ -54,7 +84,7 @@ Az Emberi Erőforrás Fejlesztési Operatív Program Plusz éves fejlesztési ke
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) (uniós és nemzeti hozzájárulás összesen) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | EFOP Plusz-5.1.1-24 | Élelmiszer és alapvető anyagi támogatás biztosítása rendkívül alacsony jövedelmű személyek és gyermeket nevelő családok számára | 40,00 (ESZA+) | kiemelt | 2024. IV. negyedév |
+| 2. | EFOP Plusz-5.1.1-25 | Élelmiszer és alapvető anyagi támogatás biztosítása rendkívül alacsony jövedelmű személyek és gyermeket nevelő családok számára | 10,00 (ESZA+) | kiemelt | 2025. IV. negyedév |
 
 | 3. | EFOP Plusz-5.2.1-23 | Élelmiszer támogatás biztosítása hajléktalan személyek részére | 8,50 (ESZA+) | kiemelt | 2023. IV. negyedév |
 
@@ -85,4 +115,4 @@ Az Emberi Erőforrás Fejlesztési Operatív Program Plusz éves fejlesztési ke
 | 3. | EFOP Plusz-7.2.1-24 | „Jelenlét a felzárkózó településeken” (ERFA) | 9,83 (ERFA) | kiemelt | 2024. IV. negyedév |
 
 [^1]: Az 1. pont az 1348/2024. (XI. 14.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: Az 1. melléklet az 1053/2025. (III. 11.) Korm. határozat 1. pont a) alpontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1171/2025. (V. 26.) Korm. határozat 1. pontjával megállapított szöveg.
