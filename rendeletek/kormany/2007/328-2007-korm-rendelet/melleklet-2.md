@@ -82,6 +82,8 @@ b) sürgősségi útlevél (Emergency passport)
 
 20.[^14] A Vöröskereszt Nemzetközi Bizottság úti okmánya a Magyarország Kormánya külön döntésében meghatározott áttelepítési programban résztvevő harmadik országbeli állampolgárok magyarországi beutazása céljából.
 
+21.[^15] Japán – sürgősségi útlevél (Emergency Passport)
+
 [^8]: A 2. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés b) pontjával megállapított szöveg.
 [^9]: A 2. melléklet 8. pont d) alpontját a 441/2016. (XII. 16.) Korm. rendelet 15. §-a iktatta be.
 [^10]: A 2. melléklet 16. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -89,3 +91,4 @@ b) sürgősségi útlevél (Emergency passport)
 [^12]: A 2. melléklet 18. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^13]: A 2. melléklet 19. pontját a 170/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
 [^14]: A 2. melléklet 20. pontját a 441/2016. (XII. 16.) Korm. rendelet 15. §-a iktatta be.
+[^15]: A 2. melléklet 21. pontját a 115/2025. (V. 26.) Korm. rendelet 1. §-a iktatta be.
