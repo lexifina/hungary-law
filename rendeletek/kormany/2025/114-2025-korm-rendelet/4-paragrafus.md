@@ -1,0 +1,1 @@
+4. § A Vet. vhr. 5. § (5) bekezdés a) és b) pontjában, 5. § (5b) bekezdésében, valamint 5. § (5c) bekezdés a)–c), f) és h) pontjában a „2023. szeptember 7.” szövegrész helyébe a „2023. szeptember 13.” szöveg lép.
