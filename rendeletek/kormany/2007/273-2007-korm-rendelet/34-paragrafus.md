@@ -1,10 +1,10 @@
-34. § (1)[^269] A vakok személyi járadékában vagy fogyatékossági támogatásban részesülő személyt mint fogyatékossággal élő fogyasztót nem kell személyes körülményeinek megfelelő, különleges bánásmódban részesíteni, amennyiben háztartásában van olyan nagykorú személy, aki nem fogyatékossággal élő fogyasztó.
+34. § (1)[^274] A vakok személyi járadékában vagy fogyatékossági támogatásban részesülő személyt mint fogyatékossággal élő fogyasztót nem kell személyes körülményeinek megfelelő, különleges bánásmódban részesíteni, amennyiben háztartásában van olyan nagykorú személy, aki nem fogyatékossággal élő fogyasztó.
 
-(2)[^270] A fogyatékossággal élő fogyasztó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja.
+(2)[^275] A fogyatékossággal élő fogyasztó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja.
 
-(3)[^271] A 33. § (1) bekezdés b) pont bc) alpontja szerinti körbe tartozó, a fogyasztóval egy háztartásban élő fogyatékossággal élő személyre tekintettel a fogyatékossággal élő személyek nyilvántartásába történő felvételét fogyatékossággal élőnek nem minősülő fogyasztó is kérheti, de ugyanazon fogyatékossággal élő személyre tekintettel csak egy fogyasztó egy fogyasztási helye szerepelhet a nyilvántartásban védelemre jogosultként.
+(3)[^276] A 33. § (1) bekezdés b) pont bc) alpontja szerinti körbe tartozó, a fogyasztóval egy háztartásban élő fogyatékossággal élő személyre tekintettel a fogyatékossággal élő személyek nyilvántartásába történő felvételét fogyatékossággal élőnek nem minősülő fogyasztó is kérheti, de ugyanazon fogyatékossággal élő személyre tekintettel csak egy fogyasztó egy fogyasztási helye szerepelhet a nyilvántartásban védelemre jogosultként.
 
-(4)[^272] A 33. § (1) bekezdés b) pont ba) és bb) alpontja szerinti körbe tartozó fogyatékossággal élő fogyasztót megillető különleges bánásmód lehet:
+(4)[^277] A 33. § (1) bekezdés b) pont ba) és bb) alpontja szerinti körbe tartozó fogyatékossággal élő fogyasztót megillető különleges bánásmód lehet:
 
 a) havi (időközi) mérőleolvasás a felhasználási helyen,
 
@@ -16,13 +16,13 @@ d) a számla értelmezéséhez az érintett engedélyes üzletszabályzata szeri
 
 e) az érintett engedélyes üzletszabályzatában meghatározott, a fogyatékossággal élők villamosenergia-ellátásban való részvételét megkönnyítő egyéb szolgáltatás.
 
-(5)[^273] A lakossági fogyasztó a fogyatékossággal élő fogyasztók nyilvántartásába történő felvétel iránti igény bejelentésekor nyilatkozik arról, hogy a (4) bekezdésben meghatározott vagy az érintett engedélyesek által nyújtott egyéb szolgáltatások közül melyekre tart igényt. Az igényelt szolgáltatást a nyilvántartásba vételt követő legkésőbb 30. naptól kell biztosítani. Nem vehető nyilvántartásba az, aki felhívás ellenére sem nyilatkozik az igénybe venni kívánt különleges bánásmód szerinti szolgáltatásról.
+(5)[^278] A lakossági fogyasztó a fogyatékossággal élő fogyasztók nyilvántartásába történő felvétel iránti igény bejelentésekor nyilatkozik arról, hogy a (4) bekezdésben meghatározott vagy az érintett engedélyesek által nyújtott egyéb szolgáltatások közül melyekre tart igényt. Az igényelt szolgáltatást a nyilvántartásba vételt követő legkésőbb 30. naptól kell biztosítani. Nem vehető nyilvántartásba az, aki felhívás ellenére sem nyilatkozik az igénybe venni kívánt különleges bánásmód szerinti szolgáltatásról.
 
-(6)[^274] A fogyatékossággal élő fogyasztók nyilvántartásában szereplő személy olyan igényét, amelyet a benyújtott iratok nem támasztanak alá, az érintett engedélyes nem köteles teljesíteni.
+(6)[^279] A fogyatékossággal élő fogyasztók nyilvántartásában szereplő személy olyan igényét, amelyet a benyújtott iratok nem támasztanak alá, az érintett engedélyes nem köteles teljesíteni.
 
-[^269]: A Vhr. 34. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^270]: A Vhr. 34. § (2) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^271]: A Vhr. 34. § (3) bekezdése a 20/2009. (I. 30.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 378/2011. (XII. 31) Korm. rendelet 32. § (2) bekezdése, a 86/2025. (IV. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^272]: A Vhr. 34. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^273]: A Vhr. 34. § (5) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^274]: A Vhr. 34. §-ának (6) bekezdését a 20/2009. (I. 30.) Korm. rendelet 3. § (10) bekezdése iktatta be, szövege a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^274]: A Vhr. 34. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^275]: A Vhr. 34. § (2) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^276]: A Vhr. 34. § (3) bekezdése a 20/2009. (I. 30.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 378/2011. (XII. 31) Korm. rendelet 32. § (2) bekezdése, a 86/2025. (IV. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^277]: A Vhr. 34. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^278]: A Vhr. 34. § (5) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^279]: A Vhr. 34. §-ának (6) bekezdését a 20/2009. (I. 30.) Korm. rendelet 3. § (10) bekezdése iktatta be, szövege a 86/2025. (IV. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

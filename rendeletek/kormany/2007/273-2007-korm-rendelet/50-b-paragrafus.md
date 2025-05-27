@@ -1,4 +1,4 @@
-50/B. §[^327] (1) Az elosztó hálózati engedélyesek és a villamosenergia-kereskedők az adatcsere szabályzat kidolgozásával, módosításával és felülvizsgálatával kapcsolatos egyeztetés céljából létrehozzák és működtetik az adatcsere operatív kidolgozását végző adatcsere bizottságot és az adatcsere bizottság működésére vonatkozóan döntést hozó, az adatcsere bizottság ügyrend szerinti működését ellenőrző adatcsere-ellenőrzési testületet.
+50/B. §[^332] (1) Az elosztó hálózati engedélyesek és a villamosenergia-kereskedők az adatcsere szabályzat kidolgozásával, módosításával és felülvizsgálatával kapcsolatos egyeztetés céljából létrehozzák és működtetik az adatcsere operatív kidolgozását végző adatcsere bizottságot és az adatcsere bizottság működésére vonatkozóan döntést hozó, az adatcsere bizottság ügyrend szerinti működését ellenőrző adatcsere-ellenőrzési testületet.
 
 (2) Az elosztó hálózati engedélyesek és a villamosenergia-kereskedők az adatcsere bizottságon és adatcsere-ellenőrzési testületen keresztül olyan előkészítő munkát végeznek, amely lehetővé teszi, hogy jogszabály vagy villamosenergia-ellátási szabályzat változásának kihirdetését követő 90 napon belül a szükséges módosítások az adatcsere szabályzatba átvezetésre, és a Hivatalhoz jóváhagyás céljából benyújtásra kerüljenek.
 
@@ -12,4 +12,4 @@
 
 (7) A Hivatal az adatcsere-ellenőrzési testületet az adatcserét érintő javaslatok előkészítésébe, a Hivatal elnöke rendeleteinek egyeztetési folyamataiba bevonja.
 
-[^327]: A Vhr. 50/B. §-át a 680/2023. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^332]: A Vhr. 50/B. §-át a 680/2023. (XII. 29.) Korm. rendelet 10. §-a iktatta be.

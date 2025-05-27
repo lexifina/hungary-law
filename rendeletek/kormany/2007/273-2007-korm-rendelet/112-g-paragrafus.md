@@ -1,4 +1,4 @@
-112/G. §[^471] (1) Eljárási bírság VET 112. §-a szerinti megállapítása esetén, az eljárási bírság napi összege jogi személyek esetében legfeljebb az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért bruttó árbevétel egy napra jutó összegének három százaléka, természetes személy esetében legfeljebb az előző évben személyi jövedelemadó-bevallással igazolt bruttó jövedelem egy napra jutó összegének két százaléka.
+112/G. §[^476] (1) Eljárási bírság VET 112. §-a szerinti megállapítása esetén, az eljárási bírság napi összege jogi személyek esetében legfeljebb az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért bruttó árbevétel egy napra jutó összegének három százaléka, természetes személy esetében legfeljebb az előző évben személyi jövedelemadó-bevallással igazolt bruttó jövedelem egy napra jutó összegének két százaléka.
 
 (2) Megállapítható árbevétel hiányában az eljárási bírság legkisebb összege nem természetes személy esetében ötvenezer forint, természetes személy esetében tízezer forint, legmagasabb összege nem természetes személy esetében tízmillió forint, természetes személy esetében ötmillió forint.
 
@@ -6,4 +6,4 @@
 
 (4) A bírságok az árképzésnél költségnövelő tényezőként nem vehetőek figyelembe.
 
-[^471]: A Vhr. 112/G. §-át a 80/2019. (IV. 15.) Korm. rendelet 14. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^476]: A Vhr. 112/G. §-át a 80/2019. (IV. 15.) Korm. rendelet 14. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
