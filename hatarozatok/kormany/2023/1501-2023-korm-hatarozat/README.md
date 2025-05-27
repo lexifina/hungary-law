@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1501-30
 | 2023-11-17 | 2023-1501-30-22.1 | 1501/2023. (XI. 16.) Korm. határozat |
 | 2025-02-08 | 2023-1501-30-22.2 | 1018/2025. (II. 7.) Korm. határozat |
 | 2025-04-23 | 2023-1501-30-22.3 | 1125/2025. (IV. 22.) Korm. határozat |
+| 2025-05-27 | 2023-1501-30-22.4 | 1168/2025. (V. 26.) Korm. határozat |

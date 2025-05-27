@@ -30,7 +30,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program Plusz éves fejlesztés
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP Plusz-1.1.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése Budapesten és agglomerációs településein | 482,76 | kiemelt | Meghirdetve: 2023. december 1. |
+| 2. | IKOP Plusz-1.1.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése Budapesten és agglomerációs településein | 536,91[^5] | kiemelt | Meghirdetve: 2023. december 1. |
 
 | 3. | IKOP Plusz-1.2.0-23 | Tiszta üzemű városi-elővárosi közlekedés erősítése a fővároson és a budapesti agglomeráción kívüli településeken | 275,08 | kiemelt | Meghirdetve: 2023. december 1. |
 
@@ -56,3 +56,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program Plusz éves fejlesztés
 [^2]: Az 1. pont b) pont bb) alpontját az 1125/2025. (IV. 22.) Korm. határozat 4. pontja hatályon kívül helyezte.
 [^3]: Az 1. pont c) alpontja az 1125/2025. (IV. 22.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^4]: Az 1. melléklet az 1125/2025. (IV. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 1. pontjában foglalt táblázat C:2 mezője az 1168/2025. (V. 26.) Korm. határozat 3. pontjával megállapított szöveg.
