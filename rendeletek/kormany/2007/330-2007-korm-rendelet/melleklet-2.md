@@ -698,6 +698,8 @@
 
 ## 6.50. Kapuvár
 
+## 6.50a. Károlyháza
+
 ## 6.51. Kimle
 
 ## 6.52. Kisbajcs
@@ -732,7 +734,9 @@
 
 ## 6.67. Mosonszolnok
 
-## 6.67/A. Mosonudvar
+## 6.67a. Mosonudvar
+
+## 6.67/A.
 
 ## 6.68. Nagybajcs
 
@@ -759,6 +763,8 @@
 ## 6.79. Rábapatona
 
 ## 6.80. Rábatamási
+
+## 6.80a. Rábcakapi
 
 ## 6.81. Rajka
 
@@ -890,6 +896,8 @@
 
 ## 8.2. Almásfüzitő
 
+## 8.2a. Annavölgy
+
 ## 8.3. Baj
 
 ## 8.4. Bajót
@@ -897,6 +905,8 @@
 ## 8.5. Bana
 
 ## 8.6. Bábolna
+
+## 8.6a. Csém
 
 ## 8.7. Csolnok
 
@@ -947,6 +957,8 @@
 ## 8.30. Tát
 
 ## 8.31. Tokod
+
+## 8.32. Tokodaltáró
 
 ## 9. Nógrád vármegye
 
@@ -1500,6 +1512,8 @@
 
 ## 13.13. Felsőcsatár
 
+## 13.13a. Felsőjánosfa
+
 ## 13.14. Felsőmarác
 
 ## 13.15. Felsőszölnök
@@ -1660,6 +1674,8 @@
 
 ## 14.11. Csesztreg
 
+## 14.11a. Csöde
+
 ## 14.12. Csömödér
 
 ## 14.13. Csörnyeföld
@@ -1696,6 +1712,8 @@
 
 ## 14.29. Kiscsehi
 
+## 14.29a. Kissziget
+
 ## 14.30. Kistolmács
 
 ## 14.31. Kozmadombja
@@ -1724,6 +1742,8 @@
 
 ## 14.43. Márokföld
 
+## 14.43a. Mikekarácsonyfa
+
 ## 14.44. Molnári
 
 ## 14.45. Murakeresztúr
@@ -1739,6 +1759,8 @@
 ## 14.50. Nemespátró
 
 ## 14.51. Nova
+
+## 14.51a. Ortaháza
 
 ## 14.52. Páka
 
@@ -1791,6 +1813,8 @@
 ## 14.76. Zalalövő
 
 ## 14.77. Zalaszombatfa
+
+## 14.78. Zebecke
 
 2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^16]
 
