@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1556-30
 | 2023-07-18 | 2022-1556-30-22.2 | 1285/2023. (VII. 17.) Korm. határozat |
 | 2023-12-21 | 2022-1556-30-22.3 | 1586/2023. (XII. 20.) Korm. határozat |
 | 2024-08-01 | 2022-1556-30-22.4 | 1226/2024. (VII. 31.) Korm. határozat |
+| 2025-05-27 | 2022-1556-30-22.5 | 1165/2025. (V. 26.) Korm. határozat |
