@@ -1,6 +1,6 @@
-18. §[^187]
+18. §[^189]
 
-18. §[^188]
+18. §[^190]
 
-[^187]: A 18. §-t a 227/2016. (VII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § a) pontja.
-[^188]: Az újabb 18. §-t a 275/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § b) pontja.
+[^189]: A 18. §-t a 227/2016. (VII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § a) pontja.
+[^190]: Az újabb 18. §-t a 275/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § b) pontja.

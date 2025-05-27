@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2024-11-26 | 2007-329-20-22.58 | 357/2024. (XI. 25.) Korm. rendelet |
 | 2025-01-01 | 2007-329-20-22.59 | 479/2024. (XII. 31.) Korm. rendelet |
 | 2025-03-01 | 2007-329-20-22.60 | 13/2025. (II. 18.) Korm. rendelet |
+| 2025-05-27 | 2007-329-20-22.61 | 111/2025. (V. 26.) Korm. rendelet |
