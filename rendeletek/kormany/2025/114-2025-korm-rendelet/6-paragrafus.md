@@ -1,1 +1,3 @@
-6. § Hatályát veszti a határterületről, valamint a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás szabályairól szóló 330/2007. (XII. 13.) Korm. rendelet 1. melléklet 6.67/A. pontja.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

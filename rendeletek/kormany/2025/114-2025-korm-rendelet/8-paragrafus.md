@@ -1,1 +1,3 @@
-8. § Hatályát veszti a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverek megfelelőségét tanúsító szervezetek kijelölésének részletes szabályairól szóló 43/2013. (II. 19.) Korm. rendelet 1. § (2) bekezdése és 20. §-a.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

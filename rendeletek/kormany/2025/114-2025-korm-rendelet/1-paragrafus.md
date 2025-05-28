@@ -30,6 +30,6 @@
 
 ## 1. A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosítása
 
-1. § A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 67/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) A miniszter a köziratok kezelésének szakmai irányításával összefüggő ellenőrzési feladatait az éves munkatervben meghatározott ütemezéssel a központi kormányzati igazgatási szerveknél, a rendvédelmi szerveknél és a nemzetbiztonsági szolgálatoknál végzi.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
