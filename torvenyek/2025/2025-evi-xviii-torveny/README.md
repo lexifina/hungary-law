@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-18-00-00
 | --- | --- | --- |
 | 2025-05-15 | 2025. évi XVIII. törvény | 2025-18-00-00.0 (közlönyállapot) |
 | 2025-05-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-18-00-00.1 |
+| 2025-05-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-18-00-00.2 |
