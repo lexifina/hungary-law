@@ -1,1 +1,3 @@
-2. § Az R. 3. § (1) bekezdésében a „legfeljebb egy” szövegrész helyébe a „legfeljebb a belépéstől számított egy” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
