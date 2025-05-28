@@ -11,3 +11,5 @@ c) lemondással,
 d) az összeférhetetlenség kimondásával,
 
 e) az Európai Parlament közgyűlése megbízatásának megszűnésével.
+
+f) a vagyonnyilatkozat-tételi előírások e törvény szerinti megsértésének megállapításával.
