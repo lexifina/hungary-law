@@ -1,0 +1,19 @@
+## 1. egyetért azzal, hogy a mezőgazdaságot érintő, növekvő mértékű és gyakoriságú vízhiány kezelése és kártételeinek csökkentése érdekében állami beavatkozások szükségesek, ennek érdekében;
+
+## 2. felhívja az energiaügyi minisztert, hogy az agrárminiszter bevonásával a fenyegető vízhiányos állapot megelőzése, illetve kezelése érdekében a vízvisszatartáshoz szükséges műszaki feltételek biztosítása céljából gondoskodjon azonnali beavatkozások végrehajtásáról és a vízkészlet növelése érdekében a csatornák, tározók, holtágak tározókapacitásának maximális kihasználásáról;
+
+| Felelős: | energiaügyi miniszter agrárminiszter |
+
+| Határidő: | 2025. augusztus 31. |
+
+## 3. a 2. pont szerinti beavatkozások végrehajtása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 4 700 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 52. Központi Maradványelszámolási Alap cím terhére, az 1. melléklet szerint;
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | azonnal |
+
+## 4. mentesíti a 2. pontban foglaltakkal összefüggésben felmerülő építési beruházásokat – arra figyelemmel, hogy a fenyegető vízhiányos állapot megelőzése, illetve kezelése kiemelt nemzeti érdek – az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 4. § (2) bekezdése alapján a törvény alkalmazása alól, és a beruházások lebonyolítására az Országos Vízügyi Főigazgatóságot és a működési terület szerint illetékes vízügyi igazgatóságot jelöli ki.
+
+1. melléklet az 1178/2025. (V. 29.) Korm. határozathoz
+
+5X03485.pdf
