@@ -1,4 +1,4 @@
-1. melléklet a 10/2023. (VI. 30.) MEKH rendelethez[^12]
+1. melléklet a 10/2023. (VI. 30.) MEKH rendelethez[^14]
 
 A rendszeres adatszolgáltatási kötelezettség adatkörei, teljesítésének gyakorisága, teljesítésének határideje és az adatszolgáltatással érintett időpont vagy időszak
 
@@ -22,4 +22,4 @@ A rendszeres adatszolgáltatási kötelezettség adatkörei, teljesítésének g
 
 | 9. | A hulladékgazdálkodási eszközzel kapcsolatos műszaki, gazdasági adatok és vagyonadatok. | Évenkénti | február 20. | Az adatszolgáltatás teljesítési határidejét megelőző naptári év december 31. napja |
 
-[^12]: Az 1. melléklet a 6/2024. (VIII. 29.) MEKH rendelet 7. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet a 6/2024. (VIII. 29.) MEKH rendelet 7. §-ával megállapított szöveg.

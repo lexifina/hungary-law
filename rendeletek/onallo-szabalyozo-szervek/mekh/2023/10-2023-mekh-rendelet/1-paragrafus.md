@@ -10,9 +10,9 @@ c) 47/D. § (1) bekezdése szerinti vagyonkataszter működtetéséhez
 
 szükséges rendszeres adatszolgáltatásokra.
 
-(2) Az (1) bekezdés
+(2)[^1] Az (1) bekezdés
 
-a)[^1] a) pontja alapján
+a)[^2] a) pontja alapján
 
 aa) a B3 alkategóriájú hulladéklerakó üzemeltetője és
 
@@ -32,6 +32,7 @@ ca) használója és
 
 cb) tulajdonosa
 
-[az 1. és 2. alcím tekintetében a továbbiakban az a)–c) pontban foglaltak együtt: adatszolgáltató] rendszeres adatszolgáltatást teljesít a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
+[a 4. § tekintetében a továbbiakban az a)–c) pontban foglaltak együtt: adatszolgáltató] rendszeres adatszolgáltatást teljesít a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 6/2024. (VIII. 29.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (2) bekezdés záró szövegrésze a 6/2025. (V. 21.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontja a 6/2024. (VIII. 29.) MEKH rendelet 1. §-ával megállapított szöveg.
