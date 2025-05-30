@@ -52,7 +52,7 @@
 
 ## A nyilatkozatot a katasztrófavédelmi szerv vagy a polgármester képviselője hitelesíti.
 
-2. melléklet a 62/2011. (XII. 29.) BM rendelethez[^50]
+2. melléklet a 62/2011. (XII. 29.) BM rendelethez[^60]
 
 ## A polgári védelmi szervezetek tagjai igazolványának leírása
 
@@ -116,4 +116,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 5. Az igazolvány színe: kék
 
-[^50]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a, a 45/2022. (XII. 20.) BM rendelet 61. § c) pontja szerint módosított szöveg.
+[^60]: Az eredeti melléklet megjelölését a 61/2012. (XII. 11.) BM rendelet 4. §-a 2. mellékletre változtatta. A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 7. §-a, a 45/2022. (XII. 20.) BM rendelet 61. § c) pontja szerint módosított szöveg.

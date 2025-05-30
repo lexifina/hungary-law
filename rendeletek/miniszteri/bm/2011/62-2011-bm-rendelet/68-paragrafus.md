@@ -12,7 +12,7 @@ b) a II. katasztrófavédelmi osztályba sorolt településeken 3 évente legal�
 
 a) tájékoztató kiadványok kibocsátásával,
 
-b)[^45] a helyi sajtóban, az önkormányzat lapjában, a vármegyei lapokban, helyi és regionális televíziókban, kábeltelevíziókban, helyi rádiókban megjelenő tájékoztató közlemények megjelentetésével, internetes tájékoztató felületek megjelentetésével,
+b)[^55] a helyi sajtóban, az önkormányzat lapjában, a vármegyei lapokban, helyi és regionális televíziókban, kábeltelevíziókban, helyi rádiókban megjelenő tájékoztató közlemények megjelentetésével, internetes tájékoztató felületek megjelentetésével,
 
 c) lakossági fórumok szervezésével,
 
@@ -30,4 +30,4 @@ d) az adott területet fenyegető természeti és civilizációs kockázatok,
 
 e) a veszélyek elhárításának lehetséges módjai.
 
-[^45]: A 68. § (2) bekezdés b) pontja a 45/2022. (XII. 20.) BM rendelet 61. § a) pontja szerint módosított szöveg.
+[^55]: A 68. § (2) bekezdés b) pontja a 45/2022. (XII. 20.) BM rendelet 61. § a) pontja szerint módosított szöveg.

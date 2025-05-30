@@ -4,7 +4,7 @@
 
 ## ÉS A VÉDEKEZÉS VÉGREHAJTÁSÁNAK EGYSÉGES RENDJE
 
-3. § (1) A veszélyelhárítási feladattervet a 2. § e) pontjában meghatározott szerv vezetője készíti el, és a BM OKF főigazgatója (a továbbiakban: főigazgató) útján jóváhagyásra felterjeszti a belügyminiszternek.
+3. § (1)[^8] A veszélyelhárítási feladattervet a 2. § e) pontjában meghatározott szerv vezetője készíti el, és a BM OKF főigazgatója útján jóváhagyásra felterjeszti a belügyminiszternek.
 
 (2) A veszélyelhárítási feladatterv tartalmazza a 2. § e) pontjában meghatározott szerv katasztrófaveszély és veszélyhelyzet idejére vonatkozó, a feladat-ellátást rendkívüli körülmények között is biztosító, a személyi és anyagi erőforrásokra is kiterjedő működési szabályait.
 
@@ -25,3 +25,5 @@ bb) az adott szervet érintő jelentősebb változást követően.
 a) a veszélyelhárítási feladatterv végrehajtásában résztvevő állomány a feladattervet megismerje, valamint begyakorolja;
 
 b) a veszélyelhárítási feladattervben megjelölt erők és eszközök működőképes állapotban rendelkezésre álljanak.
+
+[^8]: A 3. § (1) bekezdése a 16/2025. (V. 29.) BM rendelet 19. §-a szerint módosított szöveg.

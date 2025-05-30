@@ -1,6 +1,6 @@
-## 32.[^43] A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők katasztrófavédelmi felkészítése
+## 32.[^53] A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők katasztrófavédelmi felkészítése
 
-61. §[^44] (1) A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők részére évente legalább egy alkalommal
+61. §[^54] (1) A katasztrófavédelmi feladatok ellátásában, valamint a védelmi és biztonsági igazgatásban közreműködők részére évente legalább egy alkalommal
 
 a) országos szinten a BM OKF,
 
@@ -24,5 +24,5 @@ f) a riasztási és értesítési, kapcsolattartási és jelentési rend, valami
 
 g) a döntéshozatali eljárások.
 
-[^43]: A 32. alcím (61. §) a 41/2022. (XII. 9.) BM rendelet 7. §-ával megállapított szöveg.
-[^44]: A 61. § a 41/2022. (XII. 9.) BM rendelet 7. §-ával megállapított szöveg.
+[^53]: A 32. alcím (61. §) a 41/2022. (XII. 9.) BM rendelet 7. §-ával megállapított szöveg.
+[^54]: A 61. § a 41/2022. (XII. 9.) BM rendelet 7. §-ával megállapított szöveg.

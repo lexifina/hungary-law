@@ -2,11 +2,11 @@
 
 60. § (1) Az igazgatóság:
 
-a)[^40] évente legalább egyszer katasztrófavédelmi felkészítésben részesíti az I. katasztrófavédelmi osztályba sorolt települések polgármestereit, jegyzőit és a polgármester által kijelölt közbiztonsági referenst,
+a)[^50] évente legalább egyszer katasztrófavédelmi felkészítésben részesíti az I. katasztrófavédelmi osztályba sorolt települések polgármestereit, jegyzőit és a polgármester által kijelölt közbiztonsági referenst,
 
-b)[^41] kétévente legalább egyszer katasztrófavédelmi felkészítésben részesíti a II. katasztrófavédelmi osztályba sorolt települések polgármestereit, jegyzőit és a polgármester által kijelölt közbiztonsági referenst,
+b)[^51] kétévente legalább egyszer katasztrófavédelmi felkészítésben részesíti a II. katasztrófavédelmi osztályba sorolt települések polgármestereit, jegyzőit és a polgármester által kijelölt közbiztonsági referenst,
 
-c)[^42] önkormányzati választási ciklusonként legalább egyszer katasztrófavédelmi felkészítésben részesíti a III. katasztrófavédelmi osztályba sorolt települések polgármestereit, jegyzőit és a polgármester által kijelölt közbiztonsági referenst.
+c)[^52] önkormányzati választási ciklusonként legalább egyszer katasztrófavédelmi felkészítésben részesíti a III. katasztrófavédelmi osztályba sorolt települések polgármestereit, jegyzőit és a polgármester által kijelölt közbiztonsági referenst.
 
 (2) A felkészítés tartalma különösen:
 
@@ -26,6 +26,6 @@ g) a lakosság tájékoztatása és riasztása, valamint
 
 h) a távolsági védelem ismeretei.
 
-[^40]: A 60. § (1) bekezdés a) pontja a 41/2022. (XII. 9.) BM rendelet 10. § h) pontja szerint módosított szöveg.
-[^41]: A 60. § (1) bekezdés b) pontja a 41/2022. (XII. 9.) BM rendelet 10. § h) pontja szerint módosított szöveg.
-[^42]: A 60. § (1) bekezdés c) pontja a 41/2022. (XII. 9.) BM rendelet 10. § h) pontja szerint módosított szöveg.
+[^50]: A 60. § (1) bekezdés a) pontja a 41/2022. (XII. 9.) BM rendelet 10. § h) pontja szerint módosított szöveg.
+[^51]: A 60. § (1) bekezdés b) pontja a 41/2022. (XII. 9.) BM rendelet 10. § h) pontja szerint módosított szöveg.
+[^52]: A 60. § (1) bekezdés c) pontja a 41/2022. (XII. 9.) BM rendelet 10. § h) pontja szerint módosított szöveg.
