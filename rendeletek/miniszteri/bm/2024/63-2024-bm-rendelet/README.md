@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-63-20-0
 | --- | --- | --- |
 | 2025-01-01 | 2024-63-20-0A.1 | 63/2024. (XII. 30.) BM rendelet |
 | 2025-01-02 | 2024-63-20-0A.2 | 2010. évi CXXX. törvény |
+| 2025-05-30 | 2024-63-20-0A.5 | 16/2025. (V. 29.) BM rendelet |
