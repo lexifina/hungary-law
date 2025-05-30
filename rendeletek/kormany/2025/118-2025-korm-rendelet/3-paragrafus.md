@@ -1,0 +1,3 @@
+3. § Az R. a következő 162. §-sal egészül ki:
+
+„162. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 118/2025. (V. 29.) Korm. rendelettel (a továbbiakban: Módr154.) megállapított 4/F. § (10)–(12) bekezdését, valamint 16. mellékletét, továbbá módosított 4/F. § (8) és (9) bekezdését, valamint 2. mellékletben foglalt táblázat 135. sorát a Módr154. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
