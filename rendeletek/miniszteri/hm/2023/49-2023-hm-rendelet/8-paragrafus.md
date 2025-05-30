@@ -12,4 +12,12 @@ c) a beruházási célú létesítménytámogatás esetén meghaladja a 33 000 0
 
 (4) E rendelet hatálya alá tartozó állami támogatás kizárólag átlátható formában nyújtható.
 
-(5) E rendelet alapján képzési támogatás, létesítménytámogatás esetén 2027. június 30-ig, csekély összegű támogatás esetén 2024. június 30-ig lehet támogatási döntést hozni.
+(5)[^9] E rendelet alapján
+
+a) képzési támogatás és létesítménytámogatás esetén 2027. június 30-ig,
+
+b) csekély összegű támogatás esetén 2031. június 30-ig
+
+lehet támogatási döntést hozni.
+
+[^9]: A 8. § (5) bekezdése a 4/2025. (V. 29.) HM rendelet 4. §-ával megállapított szöveg.

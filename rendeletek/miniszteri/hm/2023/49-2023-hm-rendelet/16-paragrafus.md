@@ -1,1 +1,1 @@
-16. § A válságtámogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 2 250 000 eurónak megfelelő forintösszeget.
+16. §

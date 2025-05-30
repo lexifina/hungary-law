@@ -1,9 +1,5 @@
-## 8. Válságtámogatás
+## 8.[^11]
 
-14. § (1) Válságtámogatás a jelen alcím szerinti támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően nyújtható olyan, az Ukrajna elleni orosz agresszió, a bevezetett szankciók vagy a válaszként hozott megtorló ellenintézkedések által érintett vállalkozásoknak, amelyek működését a katonai agresszió gazdasági hatásai hátrányosan érintik. Az érintettségről a vállalkozás a támogatás odaítélését megelőzően nyilatkozni köteles.
+14. §
 
-(2) Válságtámogatás vissza nem térítendő támogatás formájában nyújtható.
-
-(3) Válságtámogatás az Európai Bizottság (1) bekezdés szerinti jóváhagyó határozatának elfogadását követően 2024. június 30-ig nyújtható.
-
-(4) Válságtámogatás az 1. és 2. melléklet szerinti előirányzatokról, az ott részletezett feladatokra nyújtható.
+[^11]: A 8. alcímet (14–19. §-t) a 4/2025. (V. 29.) HM rendelet 10. § c) pontja hatályon kívül helyezte.

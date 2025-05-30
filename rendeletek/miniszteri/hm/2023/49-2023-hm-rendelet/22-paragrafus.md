@@ -1,9 +1,12 @@
 22. § Ez a rendelet
 
-a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
+a)[^12] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet (HL L 2023.12.15.),
 
 b) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.),
 
-c) az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza
+c)[^13]
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^12]: A 22. § a) pontja a 4/2025. (V. 29.) HM rendelet 6. §-ával megállapított szöveg.
+[^13]: A 22. § c) pontját a 4/2025. (V. 29.) HM rendelet 10. § d) pontja hatályon kívül helyezte.

@@ -6,11 +6,11 @@
 
 2. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
-3. csekély összegű támogatás: az 1407/2013/EU bizottsági rendelet szerinti támogatás,
+3.[^1] csekély összegű támogatás: az (EU) 2023/2831 bizottsági rendelet szerinti támogatás,
 
 4. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-5. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+5.[^2] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
 6. elszámolható költség: az Atr. 2. § 6. pontja szerinti költség,
 
@@ -40,6 +40,10 @@
 
 19. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-20. válságtámogatás: az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatás.
+20.[^3]
 
 (2) Az (1) bekezdés 9. pontja szerinti ellenszolgáltatást úgy kell megállapítani, hogy az ellenszolgáltatás meghaladja a részvételi költségeket, és elérje a sportoló jövedelmének legalább 50%-át, függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e munka- vagy más, munkavégzésre irányuló szerződést. Nem minősül ellenszolgáltatásnak a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek megtérítése.
+
+[^1]: A 2. § (1) bekezdés 3. pontja a 4/2025. (V. 29.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 5. pontja a 4/2025. (V. 29.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 20. pontját a 4/2025. (V. 29.) HM rendelet 10. § a) pontja hatályon kívül helyezte.
