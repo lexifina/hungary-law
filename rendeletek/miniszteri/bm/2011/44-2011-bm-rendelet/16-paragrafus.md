@@ -1,5 +1,3 @@
-## 15/A. §
-
 ## 7. Záró rendelkezések
 
 16. § (1) Ez a rendelet 2012. január 1-jén lép hatályba.

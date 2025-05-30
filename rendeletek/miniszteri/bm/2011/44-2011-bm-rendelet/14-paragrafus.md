@@ -2,4 +2,6 @@
 
 ## 6.[^15]
 
+14. §
+
 [^15]: A 6. alcímet (14–15. §) a 44/2017. (XII. 29.) BM rendelet 67. § b) pontja hatályon kívül helyezte.
