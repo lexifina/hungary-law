@@ -1,4 +1,4 @@
-4/G. §[^32] (1) A 2. mellékletben foglalt táblázat B:136 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
+4/G. §[^37] (1) A 2. mellékletben foglalt táblázat B:136 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervet és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -22,4 +22,4 @@ f) a telken elhelyezhető épületek és rendeltetési egységek száma nem korl
 
 (4) A 2. mellékletben foglalt táblázat B:136 mezőjében megjelölt beruházás esetében zöldfelületi tanúsítványt nem kell készíteni.
 
-[^32]: A 4/G. §-t a 491/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 4/G. §-t a 491/2024. (XII. 31.) Korm. rendelet 1. §-a iktatta be.

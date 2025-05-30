@@ -1,4 +1,4 @@
-## 40. §[^274] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 274/2020. (VI. 12.) Korm. rendelettel (a továbbiakban: Módr32.) megállapított 2. mellékletben foglalt táblázat 45. sorát a Módr32. hatálybalépésekor[^275] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 40. §[^279] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 274/2020. (VI. 12.) Korm. rendelettel (a továbbiakban: Módr32.) megállapított 2. mellékletben foglalt táblázat 45. sorát a Módr32. hatálybalépésekor[^280] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^274]: A 40. §-t a 274/2020. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
-[^275]: A hatálybalépés időpontja 2020. június 13.
+[^279]: A 40. §-t a 274/2020. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
+[^280]: A hatálybalépés időpontja 2020. június 13.

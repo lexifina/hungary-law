@@ -1,6 +1,6 @@
-6/K. §[^159] (1)[^160] A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(12) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(9) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azokat korlátozza, illetve azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési terv vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
+6/K. §[^164] (1)[^165] A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(12) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(9) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azokat korlátozza, illetve azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési terv vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
 
-(2)[^161] A Balatonvilágos belterület 292/3–11, 292/15–19, 295/5, 297/2, 301/1 helyrajzi számú telkekre meghatározott sajátos településrendezési és építési követelmények:
+(2)[^166] A Balatonvilágos belterület 292/3–11, 292/15–19, 295/5, 297/2, 301/1 helyrajzi számú telkekre meghatározott sajátos településrendezési és építési követelmények:
 
 1. a beépítettség megengedett legnagyobb mértéke 80%,
 
@@ -52,7 +52,7 @@
 
 25. a telkeken belül támfal 4,0 méteres, kerítés 2,0 méteres magasságig létesíthető.
 
-(3)[^162] A Balatonvilágos belterület 294/1–15 helyrajzi számú telekre vonatkozó sajátos településrendezési és építési követelmények:
+(3)[^167] A Balatonvilágos belterület 294/1–15 helyrajzi számú telekre vonatkozó sajátos településrendezési és építési követelmények:
 
 1. a beépítettség megengedett legnagyobb mértéke 25%,
 
@@ -98,7 +98,7 @@
 
 22. a meglévő épületek bővítése a beépítés mértékéig nem korlátozott.
 
-(4)[^163] A Balatonvilágos belterület 295/7, 295/8 és 295/9 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
+(4)[^168] A Balatonvilágos belterület 295/7, 295/8 és 295/9 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
 
 a) a kialakítható telek mérete nem korlátozott, magánút kialakítása esetén a telek megosztható,
 
@@ -114,7 +114,7 @@ f) a TNM Rendelet „kötelezően megtartandó közterület” minősítését a
 
 g) a telken elhelyezhető épületek és rendeltetési egységek száma nem korlátozott.
 
-(5)[^164] A Balatonvilágos belterület 295/6, 295/11 és 295/13 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
+(5)[^169] A Balatonvilágos belterület 295/6, 295/11 és 295/13 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
 
 1. a beépítettség megengedett legnagyobb mértéke 5%,
 
@@ -160,7 +160,7 @@ g) a telken elhelyezhető épületek és rendeltetési egységek száma nem korl
 
 22. kerékpártárolók kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 7. számú melléklete szerint meghatározott számú kerékpártároló legalább 30%-ának elhelyezését kell biztosítani.
 
-(6)[^165] A Balatonvilágos belterület 295/14 és 295/16 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
+(6)[^170] A Balatonvilágos belterület 295/14 és 295/16 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
 
 1. a beépítettség megengedett legnagyobb mértéke 30%,
 
@@ -206,7 +206,7 @@ g) a telken elhelyezhető épületek és rendeltetési egységek száma nem korl
 
 22. kerékpártárolók kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 7. számú melléklete szerint meghatározott számú kerékpártároló legalább 30%-ának elhelyezését kell biztosítani.
 
-(7)[^166]
+(7)[^171]
 
 (8) A Balatonvilágos belterület 1412 helyrajzi számú telekre meghatározott sajátos beépítési szabályok:
 
@@ -232,13 +232,13 @@ j) az építési hely az érintett ingatlanok teljes területe,
 
 k) parkoló funkciójú telekként kialakítható telek legkisebb területe 600 m2, legnagyobb területe 2000 m2, valamint legkisebb szélessége, változó szélesség esetében átlagos szélessége 15 méter,
 
-l)[^167] a hatályos településrendezési terv szerinti szabályozási vonalat nem kell alkalmazni,
+l)[^172] a hatályos településrendezési terv szerinti szabályozási vonalat nem kell alkalmazni,
 
 m) magánút korlátozás nélkül létesíthető.
 
 (9) A 2. mellékletben foglalt táblázat 49. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:49 mezőjében megjelölt telkek és az azokból telekalakítással kialakításra kerülő telkek közterületként, illetve közútként nem alakíthatók ki.
 
-(10)[^168] A Balatonvilágos belterület 297/1 helyrajzi számú telekre meghatározott sajátos településrendezési és építési követelmények:
+(10)[^173] A Balatonvilágos belterület 297/1 helyrajzi számú telekre meghatározott sajátos településrendezési és építési követelmények:
 
 1. a beépítettség megengedett legnagyobb mértéke 80%,
 
@@ -294,7 +294,7 @@ m) magánút korlátozás nélkül létesíthető.
 
 27. telkeken belül támfal és kerítés 3,0 méteres magasságig létesíthető.
 
-(11)[^169] A Balatonvilágos belterület 292/14 helyrajzi számú telekre meghatározott sajátos településrendezési és építési követelmények:
+(11)[^174] A Balatonvilágos belterület 292/14 helyrajzi számú telekre meghatározott sajátos településrendezési és építési követelmények:
 
 1. a beépítettség megengedett legnagyobb mértéke 60%,
 
@@ -348,7 +348,7 @@ m) magánút korlátozás nélkül létesíthető.
 
 26. telkeken belül támfal és kerítés 2,0 méteres magasságig létesíthető.
 
-(12)[^170] A Balatonvilágos belterület 295/10, 295/12, 295/17, 296, 298, 294/16, 293 és 292/1 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
+(12)[^175] A Balatonvilágos belterület 295/10, 295/12, 295/17, 296, 298, 294/16, 293 és 292/1 helyrajzi számú telkekre vonatkozó sajátos településrendezési és építési követelmények:
 
 a) a 295/10 és 295/12 helyrajzi számú ingatlan közhasználat céljára átadott terület, az ingatlanokon a közterületekre vonatkozó előírásokat nem kell alkalmazni,
 
@@ -360,15 +360,15 @@ d) a 294/16, 293 és 292/1 közforgalom elől el nem zárt magánútnak minősü
 
 e) az ingatlanok kialakítása és átépítése során a helyi építési szabályzat utakra és közművekre vonatkozó előírásait nem kell alkalmazni.
 
-[^159]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
-[^160]: A 6/K. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 99. § e) pontja, a 429/2023. (IX. 14.) Korm. rendelet 11. § i) pontja szerint módosított szöveg.
-[^161]: A 6/K. § (2) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^162]: A 6/K. § (3) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^163]: A 6/K. § (4) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^164]: A 6/K. § (5) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^165]: A 6/K. § (6) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^166]: A 6/K. § (7) bekezdését a 136/2021. (III. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^167]: A 6/K. § (8) bekezdés l) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § g) pontja szerint módosított szöveg.
-[^168]: A 6/K. § (10) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 8. §-a iktatta be.
-[^169]: A 6/K. § (11) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 8. §-a iktatta be.
-[^170]: A 6/K. § (12) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 8. §-a iktatta be.
+[^164]: A 6/K. §-t a 388/2020. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^165]: A 6/K. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 99. § e) pontja, a 429/2023. (IX. 14.) Korm. rendelet 11. § i) pontja szerint módosított szöveg.
+[^166]: A 6/K. § (2) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^167]: A 6/K. § (3) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^168]: A 6/K. § (4) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^169]: A 6/K. § (5) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^170]: A 6/K. § (6) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^171]: A 6/K. § (7) bekezdését a 136/2021. (III. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^172]: A 6/K. § (8) bekezdés l) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § g) pontja szerint módosított szöveg.
+[^173]: A 6/K. § (10) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 8. §-a iktatta be.
+[^174]: A 6/K. § (11) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 8. §-a iktatta be.
+[^175]: A 6/K. § (12) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 8. §-a iktatta be.

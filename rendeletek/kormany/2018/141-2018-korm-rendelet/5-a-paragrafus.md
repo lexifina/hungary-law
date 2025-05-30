@@ -1,4 +1,4 @@
-5/A. §[^36] (1) A 2. mellékletben foglalt táblázat 86. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:86 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/A. §[^41] (1) A 2. mellékletben foglalt táblázat 86. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:86 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -24,4 +24,4 @@ h) a beépítésre szánt terület megközelítését, kiszolgálását biztosí
 
 (3) A 2. mellékletben foglalt táblázat 86. sora szerinti beruházás kiszolgálását biztosító 2. mellékletben foglalt táblázat B:86 mezője szerinti 0362/110, 0362/120 és 0362/124 helyrajzi számú ingatlanokon kiszolgálóút létesíthető, és a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 34. alcíme szerinti közterület alakítási terv készítésének és alkalmazásának nincs helye.
 
-[^36]: Az 5/A. §-t a 22/2022. (I. 25.) Korm. rendelet 1. §-a iktatta be.
+[^41]: Az 5/A. §-t a 22/2022. (I. 25.) Korm. rendelet 1. §-a iktatta be.

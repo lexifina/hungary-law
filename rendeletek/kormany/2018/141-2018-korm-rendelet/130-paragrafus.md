@@ -1,4 +1,4 @@
-130. §[^451] E rendeletnek a gazdaságfejlesztési célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 398/2023. (VIII. 24.) Korm. rendelettel (a továbbiakban: Módr122.) megállapított 5/T. §-át és 2. mellékletében foglalt táblázat 119. sorát a Módr122. hatálybalépésekor[^452] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+130. §[^456] E rendeletnek a gazdaságfejlesztési célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 398/2023. (VIII. 24.) Korm. rendelettel (a továbbiakban: Módr122.) megállapított 5/T. §-át és 2. mellékletében foglalt táblázat 119. sorát a Módr122. hatálybalépésekor[^457] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^451]: A 130. §-t a 398/2023. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
-[^452]: A hatálybalépés időpontja 2023. augusztus 25.
+[^456]: A 130. §-t a 398/2023. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
+[^457]: A hatálybalépés időpontja 2023. augusztus 25.

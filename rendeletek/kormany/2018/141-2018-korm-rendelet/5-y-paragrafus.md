@@ -1,4 +1,4 @@
-5/Y. §[^112] (1) A 2. mellékletben foglalt táblázat 127. sora szerinti beruházással érintett ingatlanok telkére lakó rendeltetésű épületek és ezek kiszolgáló építményei helyezhetők el, a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+5/Y. §[^117] (1) A 2. mellékletben foglalt táblázat 127. sora szerinti beruházással érintett ingatlanok telkére lakó rendeltetésű épületek és ezek kiszolgáló építményei helyezhetők el, a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési terv vagy az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -20,4 +20,4 @@ f) új építmény a telken belül jelölt építési övezeti határ figyelembe
 
 g) önálló rendeltetési egység létesíthető az általános szintterületi mutató alapján építhető szintterület minden 100 m2-e után.
 
-[^112]: Az 5/Y. §-t az 555/2023. (XII. 12.) Korm. rendelet 5. §-a iktatta be.
+[^117]: Az 5/Y. §-t az 555/2023. (XII. 12.) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 24. §[^242] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 254/2019. (X. 28.) Korm. rendelettel (a továbbiakban: Módr16.) megállapított 2. mellékletben foglalt táblázat 28. sorát a Módr16. hatálybalépésekor[^243] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 24. §[^247] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 254/2019. (X. 28.) Korm. rendelettel (a továbbiakban: Módr16.) megállapított 2. mellékletben foglalt táblázat 28. sorát a Módr16. hatálybalépésekor[^248] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^242]: A 24. §-t a 254/2019. (X. 28.) Korm. rendelet 1. §-a iktatta be.
-[^243]: A hatálybalépés időpontja 2019. október 29.
+[^247]: A 24. §-t a 254/2019. (X. 28.) Korm. rendelet 1. §-a iktatta be.
+[^248]: A hatálybalépés időpontja 2019. október 29.

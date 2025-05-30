@@ -1,4 +1,4 @@
-116. §[^423] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 42/2023. (II. 20.) Korm. rendelettel (a továbbiakban: Módr108.) megállapított 3. § (2a) bekezdését a Módr108. hatálybalépésekor[^424] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+116. §[^428] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 42/2023. (II. 20.) Korm. rendelettel (a továbbiakban: Módr108.) megállapított 3. § (2a) bekezdését a Módr108. hatálybalépésekor[^429] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^423]: A 116. §-t a 42/2023. (II. 20.) Korm. rendelet 4. §-a iktatta be.
-[^424]: A hatálybalépés időpontja 2023. február 23.
+[^428]: A 116. §-t a 42/2023. (II. 20.) Korm. rendelet 4. §-a iktatta be.
+[^429]: A hatálybalépés időpontja 2023. február 23.

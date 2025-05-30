@@ -1,4 +1,4 @@
-## 38. §[^270] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 256/2020. (VI. 3.) Korm. rendelettel (a továbbiakban: Módr30.) megállapított 2. mellékletben foglalt táblázat 43. sorát a Módr30. hatálybalépésekor[^271] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 38. §[^275] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 256/2020. (VI. 3.) Korm. rendelettel (a továbbiakban: Módr30.) megállapított 2. mellékletben foglalt táblázat 43. sorát a Módr30. hatálybalépésekor[^276] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^270]: A 38. §-t a 256/2020. (VI. 3.) Korm. rendelet 1. §-a iktatta be.
-[^271]: A hatálybalépés időpontja 2020. június 4.
+[^275]: A 38. §-t a 256/2020. (VI. 3.) Korm. rendelet 1. §-a iktatta be.
+[^276]: A hatálybalépés időpontja 2020. június 4.

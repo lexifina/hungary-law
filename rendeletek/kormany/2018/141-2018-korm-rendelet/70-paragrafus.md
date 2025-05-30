@@ -1,4 +1,4 @@
-## 69. §[^332] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 557/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr61.) megállapított 2. mellékletben foglalt táblázat 74. sorát a Módr61. hatálybalépésekor[^333] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 69. §[^337] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 557/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr61.) megállapított 2. mellékletben foglalt táblázat 74. sorát a Módr61. hatálybalépésekor[^338] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^332]: A 69. §-t az 557/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
-[^333]: A hatálybalépés időpontja 2021. szeptember 30.
+[^337]: A 69. §-t az 557/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^338]: A hatálybalépés időpontja 2021. szeptember 30.
