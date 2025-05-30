@@ -6,7 +6,7 @@ a) a munkáltatói jogkör gyakorlója a Módtv3. hatálybalépését követő t
 
 b) a gyermekvédelmi intézményben foglalkoztatott az a) pont szerinti felhívástól számított harminc napon belül, elháríthatatlan akadály igazolása esetén a felhívástól számított negyvenöt napon belül benyújtja a 2. és 3. melléklet szerinti nyilatkozatot,
 
-c) ha a gyermekvédelmi intézményben foglalkoztatott a b) pont szerinti kötelezettségének nem tesz eleget, foglalkoztatásra irányuló jogviszonyát azonnali hatállyal meg kell szüntetni; a foglalkoztatási jogviszony e jogcímen történő megszüntetése esetén végkielégítés nem jár,
+c) ha a gyermekvédelmi intézményben foglalkoztatott a b) pont szerinti kötelezettségének nem tesz eleget, foglalkoztatásra irányuló jogviszonyát azonnali hatállyal meg kell szüntetni;,
 
 d) a munkáltatói jogkör gyakorlója az első pszichológiai alkalmassági vizsgálat lefolytatását – kivéve, ha azt a pszichológiai alkalmassági vizsgálatról rendelkező Korm. rendeletben foglaltak alapján a Módtv3. hatálybalépésének napjáig már kezdeményezte –, valamint a kifogástalan életvitel ellenőrzés lefolytatását a Módtv3. hatálybalépését követő hatvan napon belül kezdeményezi a vizsgálatok lefolytatására jogosult szervnél,
 
