@@ -12,12 +12,15 @@ c)[^4] az 1. melléklet 16. pontjában meghatározott foglalkozási ág (munkak�
 
 (4) Az 1. melléklet 10. pontja szerinti szakvizsga képesít az 1. melléklet 8. pontja szerinti, az 1. melléklet 11. pontja szerinti szakvizsga az 1. melléklet 9. pontja szerinti munkakör betöltésére is.
 
+(4a)[^5] Az 1. melléklet 5. és 7. pontja szerinti szakvizsga egyaránt képesítést biztosít a jogszabályban meghatározott, a polgári célú speciális repülőtereken mentő és tűzoltó képességet ellátó munkakör betöltésére is.
+
 (5) A tűzvédelmi szakvizsga bizonyítvány (a továbbiakban: bizonyítvány) számozása a 4. melléklet szerint történik.
 
-(6)[^5] Az 1. melléklet 2. pontjában meghatározott foglalkozási ág (munkakör) esetében a mennyiségek számításánál az üzemanyagtöltő-állomásokon a kimérő szerkezetekhez kapcsolódó technológiai tartályokban tárolt üzemanyagot figyelmen kívül kell hagyni.
+(6)[^6] Az 1. melléklet 2. pontjában meghatározott foglalkozási ág (munkakör) esetében a mennyiségek számításánál az üzemanyagtöltő-állomásokon a kimérő szerkezetekhez kapcsolódó technológiai tartályokban tárolt üzemanyagot figyelmen kívül kell hagyni.
 
 [^1]: Az 1. § (2) bekezdése a 24/2012. (V. 8.) BM rendelet 9. § (1) bekezdésével megállapított, a 64/2013. (XII. 4.) BM rendelet 9. § (7) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 67/2012. (XII. 14.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés b) pontja a 64/2013. (XII. 4.) BM rendelet 9. § (1) bekezdése, a 4/2015. (II. 27.) BM rendelet 10. § (2) bekezdése szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés c) pontját a 64/2013. (XII. 4.) BM rendelet 3. §-a iktatta be.
-[^5]: Az 1. § (6) bekezdését a 67/2012. (XII. 14.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (4a) bekezdését a 16/2025. (V. 29.) BM rendelet 16. §-a iktatta be.
+[^6]: Az 1. § (6) bekezdését a 67/2012. (XII. 14.) BM rendelet 14. § (2) bekezdése iktatta be.
