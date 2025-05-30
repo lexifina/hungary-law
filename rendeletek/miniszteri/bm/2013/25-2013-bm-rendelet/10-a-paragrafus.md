@@ -1,4 +1,4 @@
-## 5/A. [^17] Az előkészítő eljárás folytatására vonatkozó eltérő rendelkezések
+## 5/A. [^18] Az előkészítő eljárás folytatására vonatkozó eltérő rendelkezések
 
 10/A. § (1) Az előkészítő eljárásra e rendelet hatáskörre, illetve illetékességre vonatkozó rendelkezéseit a jelen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -16,4 +16,4 @@ a) a helyi nyomozó hatóság hatáskörébe tartozó bűncselekmény miatt is f
 
 b) az előkészítő eljárás lefolytatását az illetékességi területén működő rendőrkapitányság vagy vízirendészeti rendőrkapitányság hatáskörébe utalhatja.
 
-[^17]: Az 5/A. alcímet (10/A. §) a 32/2019. (VII. 31.) BM rendelet 1. §-a iktatta be.
+[^18]: Az 5/A. alcímet (10/A. §) a 32/2019. (VII. 31.) BM rendelet 1. §-a iktatta be.
