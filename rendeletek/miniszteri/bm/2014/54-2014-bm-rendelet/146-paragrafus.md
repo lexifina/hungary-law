@@ -22,15 +22,15 @@ i) tömegtartózkodásra szolgáló helyiségben,
 
 j) ahol e rendelet előírja és
 
-k)[^344] ahol a tűzvédelmi hatóság a menekülés biztosítása érdekében előírja.
+k)[^351] ahol a tűzvédelmi hatóság a menekülés biztosítása érdekében előírja.
 
-(2)[^345] Kívülről vagy belülről megvilágított magasan, vagy ha nem lehetséges, középmagasan elhelyezett menekülési jeleket kell létesíteni
+(2)[^352] Kívülről vagy belülről megvilágított magasan, vagy ha nem lehetséges, középmagasan elhelyezett menekülési jeleket kell létesíteni
 
 a) az AK, KK és MK osztályú épület menekülési útvonalán vagy
 
 b) a 100 fő feletti befogadóképességű helyiségben.
 
-(3)[^346] A magasan vagy középmagasan elhelyezett menekülési jelek kiválthatók alacsonyan telepített menekülési jelekkel ott, ahol a környezet műemléki jellege ezt indokolttá teszi.
+(3)[^353] A magasan vagy középmagasan elhelyezett menekülési jelek kiválthatók alacsonyan telepített menekülési jelekkel ott, ahol a környezet műemléki jellege ezt indokolttá teszi.
 
 (4) A (2) bekezdésben előírt menekülési jelek megvilágításának a használat időtartama alatt folyamatos üzeműnek kell lennie abban az épületrészben, ahol a menekülő személyek nem rendelkeznek helyismerettel.
 
@@ -40,7 +40,7 @@ a) tömegtartózkodásra szolgáló helyiségben és
 
 b) a nem menthető vagy előkészítéssel menthető személyek elhelyezésére szolgáló helyiségekben.
 
-(6)[^347] A tűzvédelmi hatósággal egyeztetett kialakítású menekülési útirányt jelző rendszert kell létesíteni a magasan telepített biztonsági jelek kiegészítéseként, ahol
+(6)[^354] A tűzvédelmi hatósággal egyeztetett kialakítású menekülési útirányt jelző rendszert kell létesíteni a magasan telepített biztonsági jelek kiegészítéseként, ahol
 
 a) e rendelet vagy
 
@@ -48,7 +48,7 @@ b) a tűzvédelmi hatóság a menekülés biztosítása, a füstfejlődés jelle
 
 előírja.
 
-[^344]: A 146. § (1) bekezdés k) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 48. pontja szerint módosított szöveg.
-[^345]: [A 8/2022. (IV. 14.) BM rendelet 75. § 35. pontjával elrendelt módosítás, amely szerint az „osztályú” szövegrész helyébe a „mértékadó kockázati osztályú” szöveg lép, nem vezethető át.]
-[^346]: A 146. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 38. pontja hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 49. §-a iktatta be.
-[^347]: A 146. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 74. §-ával megállapított szöveg.
+[^351]: A 146. § (1) bekezdés k) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 48. pontja szerint módosított szöveg.
+[^352]: [A 8/2022. (IV. 14.) BM rendelet 75. § 35. pontjával elrendelt módosítás, amely szerint az „osztályú” szövegrész helyébe a „mértékadó kockázati osztályú” szöveg lép, nem vezethető át.]
+[^353]: A 146. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 38. pontja hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 49. §-a iktatta be.
+[^354]: A 146. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 74. §-ával megállapított szöveg.

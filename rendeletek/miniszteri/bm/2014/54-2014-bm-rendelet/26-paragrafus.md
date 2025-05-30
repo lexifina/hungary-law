@@ -6,7 +6,7 @@ b) a B-E tűzvédelmi osztályú külső térelhatároló falszerkezettel szembe
 
 c) a légrés nélkül rögzített, szerelt B-D tűzvédelmi osztályú burkolati-, bevonati-, vakolt hőszigetelő rendszerek, valamint a légréses A1-D tűzvédelmi osztályú burkolati-, bevonati-, vakolt hőszigetelő rendszerek alkalmazása esetén az érintett külső térelhatároló falszerkezettel szemben.
 
-(2)[^67] A homlokzati tűzterjedési határérték vizsgálattal igazolt biztosítása helyettesíthető
+(2)[^73] A homlokzati tűzterjedési határérték vizsgálattal igazolt biztosítása helyettesíthető
 
 a) a homlokzati tűzterjedési gátnak megfelelő homlokzatkialakítással,
 
@@ -20,7 +20,7 @@ b) földszint és legalább 3, legfeljebb 4 további építményszint esetén 30
 
 c) földszint és 4-nél több további építményszint esetén 45 perc.
 
-(4)[^68] A (3) bekezdés a) pontjában meghatározott homlokzati tűzterjedési határérték-követelmény figyelmen kívül hagyható, ha az épület
+(4)[^74] A (3) bekezdés a) pontjában meghatározott homlokzati tűzterjedési határérték-követelmény figyelmen kívül hagyható, ha az épület
 
 a) ipari, mezőgazdasági vagy tárolási rendeltetésű,
 
@@ -32,5 +32,5 @@ d) külső térelhatároló fala légrés nélküli, és
 
 e) érintett homlokzatrészét tartalmazó tűzszakasz teljes területén a homlokzat védelmére is kiterjedő beépített vízzel oltó tűzoltó berendezés létesül.
 
-[^67]: A 26. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 20. §-ával megállapított szöveg.
-[^68]: A 26. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 12. §-a iktatta be.
+[^73]: A 26. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 20. §-ával megállapított szöveg.
+[^74]: A 26. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 12. §-a iktatta be.

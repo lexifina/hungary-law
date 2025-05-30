@@ -1,5 +1,3 @@
-## 206/A. §[^488] A legfeljebb 180 napig fennálló közösségi, tömegtartózkodás céljára szolgáló ponyvaszerkezetű építményre a vonatkozó tűzvédelmi előírásokat – a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet szerinti zenés, táncos rendezvények kivételével – a rendezvény szervezője köteles írásban meghatározni és a rendezvény kezdetének időpontja előtt legalább tíz nappal azt tájékoztatás céljából az illetékes első fokú tűzvédelmi hatóságnak megküldeni.
-
 ## 106. Szabadtéri rendezvények
 
 207. § (1) Szabadtéri rendezvény veszélyeztetett területéről a gyors és biztonságos menekülés, menekítés érdekében menekülési lehetőséget kell biztosítani.
@@ -17,5 +15,3 @@
 (7) Az egymás mellett elhelyezkedő szabadtéri rendezvények kiüríthetőségét a rendezvények együttes vizsgálatával kell meghatározni, egymásra hatásuk figyelembevételével úgy, hogy a (6) bekezdés szerinti követelmény teljesüljön.
 
 (8) Menekülésre nem vehető figyelembe 25%-nál meredekebb lejtő, emelkedő és olyan terület, amelynek esetében a gyalogos közlekedés lehetősége korlátozott.
-
-[^488]: A 206/A. §-t az 58/2016. (XII. 22.) BM rendelet 46. §-a iktatta be.

@@ -1,6 +1,6 @@
 182. § (1) Ponyvaszerkezetű építmény nem alkalmazható
 
-a)[^428] a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyagok tárolására, forgalmazására, árusítására,
+a)[^437] a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyagok tárolására, forgalmazására, árusítására,
 
 b) a menekülésben korlátozott személyek huzamos elhelyezésére és
 
@@ -16,4 +16,4 @@ c) azokban az esetekben, ahol azt jogszabály tiltja.
 
 (6) A ponyvaszerkezetű építményekbe gépi berendezés csak akkor telepíthető, fűtésére berendezés csak akkor alkalmazható, ha az a közvetlen környezetre tűzveszélyt nem jelent.
 
-[^428]: A 182. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja szerint módosított szöveg.
+[^437]: A 182. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja szerint módosított szöveg.

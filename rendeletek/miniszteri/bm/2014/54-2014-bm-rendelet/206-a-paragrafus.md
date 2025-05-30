@@ -1,0 +1,3 @@
+206/A. §[^498] A legfeljebb 180 napig fennálló közösségi, tömegtartózkodás céljára szolgáló ponyvaszerkezetű építményre a vonatkozó tűzvédelmi előírásokat – a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet szerinti zenés, táncos rendezvények kivételével – a rendezvény szervezője köteles írásban meghatározni és a rendezvény kezdetének időpontja előtt legalább tíz nappal azt tájékoztatás céljából az illetékes tűzvédelmi hatóságnak megküldeni.
+
+[^498]: A 206/A. §-t az 58/2016. (XII. 22.) BM rendelet 46. §-a iktatta be, szövege a 16/2025. (V. 29.) BM rendelet 28. § b) pontja szerint módosított szöveg.

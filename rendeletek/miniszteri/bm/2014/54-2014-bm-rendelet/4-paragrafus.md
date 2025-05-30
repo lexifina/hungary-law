@@ -30,7 +30,7 @@ e) vegyes alaprendeltetés: eltérő alaprendeltetésű önálló rendeltetési 
 
 4. állvány jellegű építmény: olyan építmény, amelynek tartószerkezete a használati célnak megfelelő állékonysági teljesítményre méretezett, külső térelhatároló falszerkezettel nem rendelkezik, és az építményen bizonyos magasságban rendeltetés elhelyezésére és emberi tartózkodásra szolgáló teret alakítanak ki,
 
-5. álmennyezet: az országos településrendezési és építési követelményekről szóló kormányrendelet (a továbbiakban: OTÉK) szerinti álmennyezet azzal, hogy e rendelet alkalmazásában az álmennyezet emberi tartózkodásra alkalmas teret csak az alsó felületével határol, és az általa kettéosztott légtér mindkét része ugyanabba a működésbeli egységbe vagy tűzszakaszba tartozik,
+5.[^5] álmennyezet: a településrendezési és építési követelmények alapszabályzatáról szóló kormányrendelet (a továbbiakban: TÉKA) szerinti álmennyezet, azzal, hogy e rendelet alkalmazásában az álmennyezet emberi tartózkodásra alkalmas teret csak az alsó felületével határol, és az általa kettéosztott légtér mindkét része ugyanabba a működési egységbe vagy tűzszakaszba tartozik,
 
 6. álpadló: a teherhordó födémre támaszkodó, önálló tűzállósági teljesítménnyel rendelkező vízszintes térelhatároló szerkezet, amely épületgépészeti és elektromos installáció fogadására szolgálhat:
 
@@ -44,13 +44,13 @@ b) üreges padló: teherhordó réteg, amely egy speciális alsó szerkezettel �
 
 9. beépített tűzjelző berendezés részegysége: a vonatkozó műszaki követelményben I. típusú vagy II. típusú komponensnek definiált eszköz,
 
-10. beépített tűzjelző berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz kifejlődésének korai szakaszában észlelést, jelzést és megfelelő tűzvédelmi intézkedést önműködően végző olyan berendezés, amely rendelkezik a tűzvédelmi hatóság használatbavételi engedélyével,
+10.[^6] beépített tűzjelző berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz kifejlődésének korai szakaszában észlelést, jelzést és megfelelő tűzvédelmi intézkedést önműködően végző olyan berendezés, amely rendelkezik a tűzvédelmi hatóság használatbavételi engedélyével, vagy amelynek használatbavétel iránti bejelentését a tűzvédelmi hatóság tudomásul vette,
 
 11. beépített tűzjelző és tűzoltó berendezés telepítője: a telepítési folyamat minden egyes részéért felelős személy vagy szervezet,
 
 12. beépített tűzjelző, tűzoltó berendezés üzembe helyezése: olyan eljárás, amelynek során az üzembe helyező mérnök meggyőződik arról, hogy a telepített berendezés megfelel-e a vonatkozó jogszabályban, nemzeti szabványban, a tűzvédelmi hatóság által előírt, továbbá a gyártó által megadott követelményeknek és az engedélyezett, elfogadott tervdokumentációnak,
 
-13. beépített tűzoltó berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz oltására, a beavatkozás könnyítésére, a tűz terjedésének megakadályozására, a tűzkár csökkentésére alkalmazott, tűzoltó vízforrásnak nem minősülő, önműködő vagy kézi indítású vagy mindkét módon indítható olyan berendezés, amely rendelkezik a tűzvédelmi hatóság használatbavételi engedélyével,
+13.[^7] beépített tűzoltó berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz oltására, a beavatkozás könnyítésére, a tűz terjedésének megakadályozására, a tűzkár csökkentésére alkalmazott, tűzoltó vízforrásnak nem minősülő, önműködő vagy kézi indítású vagy mindkét módon indítható olyan berendezés, amely rendelkezik a tűzvédelmi hatóság használatbavételi engedélyével, vagy amelynek használatbavétel iránti bejelentését a tűzvédelmi hatóság tudomásul vette,
 
 14. beépített tűzterjedésgátló berendezés: tűzgátló építményszerkezet helyett, tűzterjedés elleni védelem céljából alkalmazott beépített automatikus tűzvédelmi berendezés, amely a tűz átterjedését a helyettesített tűzgátló építményszerkezettel védendő térrészbe meghatározott ideig meggátolja,
 
@@ -108,7 +108,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 38. értékvédelmi jellegű védelem: az építmény, tűzszakasz, szabadtér területén elhelyezett anyagi javak védelme érdekében, a tűz korai jelzésével, a hatékony tűzoltás feltételeinek biztosítására létesített beépített tűzjelző, tűzoltó berendezés által nyújtott védelem,
 
-39. fedett átrium: az OTÉK szerinti átrium azzal, hogy e rendelet alkalmazásában két vagy több szintet egybefüggő légtérrel köt össze, és felülről a külső légtértől építményszerkezet választja el,
+39.[^8] fedett átrium: a TÉKA szerinti átrium, azzal, hogy e rendelet alkalmazásában két vagy több szintet egybefüggő légtérrel köt össze, és felülről a külső légtértől építményszerkezet választja el,
 
 40. fedélszerkezet: a tetőszerkezet teherhordó része, amely tartja, és amelyhez rögzítik a tetőfedést,
 
@@ -206,7 +206,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 87. létesítmény: az egy telken álló építmények és szabadterek összessége,
 
-88. magasépület: az OTÉK szerinti olyan magasépítmény, ami épületnek minősül,
+88.[^9] magasépület: olyan épület, amelyben a legfelső építményszint szintmagassága a 30 métert meghaladja,
 
 89. menekülésben korlátozott személy: olyan személy, aki életkora, értelmi vagy fizikai-egészségi állapota alapján, esetleg külső korlátozás miatt önálló menekülésre nem képes,
 
@@ -413,3 +413,8 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 190. zárt közlekedő helyiség: minden oldalról elsődleges építményszerkezettel határolt közlekedő helyiség.
 
 [^4]: A 4. § (2) bekezdése a 8/2022. (IV. 14.) BM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdés 5. pontja a 16/2025. (V. 29.) BM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdés 10. pontja a 16/2025. (V. 29.) BM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdés 13. pontja a 16/2025. (V. 29.) BM rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (2) bekezdés 39. pontja a 16/2025. (V. 29.) BM rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § (2) bekezdés 88. pontja a 16/2025. (V. 29.) BM rendelet 25. § (5) bekezdésével megállapított szöveg.

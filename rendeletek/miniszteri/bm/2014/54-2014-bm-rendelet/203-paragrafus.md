@@ -24,11 +24,12 @@ f) a tűzoltást segítő körülményeket, mint hő- és füstelvezetés indít
 
 g) a kapcsolattartó nevét, telefonszámát.
 
-(4)[^477] A tűzjelzést adó létesítmény tulajdonosa, üzemeltetője, kezelője, használója és a távfelügyeleti központ üzemeltetője közötti szolgáltatói szerződés tartalmazza a téves riasztásokból bekövetkező eseményekből származó költségek megtérítésének felelősségét és módját.
+(4)[^486] A tűzjelzést adó létesítmény tulajdonosa, üzemeltetője, kezelője, használója és a távfelügyeleti központ üzemeltetője közötti szolgáltatói szerződés tartalmazza a téves riasztásokból bekövetkező eseményekből származó költségek megtérítésének felelősségét és módját.
 
-(5) Ha a távfelügyelet vagy az első fokú tűzvédelmi hatóság által a tűzátjelzés fogadásra meghatározott helyszín megváltozik, az új helyszínre az automatikus tűzátjelzés továbbítását 90 napon belül – a berendezés állandó felügyeletének folyamatos biztosítása mellett – kell megvalósítani.
+(5)[^487] Ha a távfelügyelet vagy a tűzvédelmi hatóság által a tűzátjelzés fogadásra meghatározott helyszín megváltozik, az új helyszínre az automatikus tűzátjelzés továbbítását 90 napon belül – a berendezés állandó felügyeletének folyamatos biztosítása mellett – kell megvalósítani.
 
-(6)[^478] A távfelügyelet haladéktalanul köteles a hozzá beérkező hibajelzésről az adott létesítmény üzemeltetőjét értesíteni.
+(6)[^488] A távfelügyelet haladéktalanul köteles a hozzá beérkező hibajelzésről az adott létesítmény üzemeltetőjét értesíteni.
 
-[^477]: A 203. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 138. pontja szerint módosított szöveg.
-[^478]: A 203. § (6) bekezdését a 288. § (2) bekezdése hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 62. §-a iktatta be.
+[^486]: A 203. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 138. pontja szerint módosított szöveg.
+[^487]: A 203. § (5) bekezdése a 16/2025. (V. 29.) BM rendelet 27. § b) pontja szerint módosított szöveg.
+[^488]: A 203. § (6) bekezdését a 288. § (2) bekezdése hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 62. §-a iktatta be.

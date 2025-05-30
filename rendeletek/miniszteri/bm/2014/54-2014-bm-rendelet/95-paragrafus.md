@@ -1,6 +1,6 @@
 ## 55. Légpótlás
 
-95. § (1)[^282] A természetes légpótlás mértéke megegyezik legalább a természetes füstelvezetés számítással megállapított vagy a 9. mellékletben foglalt 1. táblázat szerint előírt mértékével.
+95. § (1)[^289] A természetes légpótlás mértéke megegyezik legalább a természetes füstelvezetés számítással megállapított vagy a 9. mellékletben foglalt 1. táblázat szerint előírt mértékével.
 
 (2) A gépi légpótlás mértéke a gépi füstelvezetés előírt legkisebb mértékének 90–100%-a.
 
@@ -14,17 +14,17 @@ c) négy vagy több füstszakasz esetében a második, harmadik és a negyedik l
 
 megnövelve kell méretezni.
 
-(4)[^283] A légpótlást biztosító ventilátorra a füstelvezető ventilátor követelményei vonatkoznak, a hőállósági követelmény kivételével tűzhatástól védett elhelyezés esetén. A légpótlást biztosító légcsatorna-hálózatra a 9. mellékletben foglalt 2. táblázatban előírtakat kell betartani, kivéve azokat a kültéri légcsatorna-szakaszokat, amelyek elhelyezésük és környezetük alapján védettek a tűz és füst hatásai ellen.
+(4)[^290] A légpótlást biztosító ventilátorra a füstelvezető ventilátor követelményei vonatkoznak, a hőállósági követelmény kivételével tűzhatástól védett elhelyezés esetén. A légpótlást biztosító légcsatorna-hálózatra a 9. mellékletben foglalt 2. táblázatban előírtakat kell betartani, kivéve azokat a kültéri légcsatorna-szakaszokat, amelyek elhelyezésük és környezetük alapján védettek a tűz és füst hatásai ellen.
 
-(5)[^284] Gépi légpótlás esetén a 90. § (3) bekezdésében foglalt esetek kivételével a levegő belépési sebessége
+(5)[^291] Gépi légpótlás esetén a 90. § (3) bekezdésében foglalt esetek kivételével a levegő belépési sebessége
 
 a) legfeljebb 3 m/s olyan helyiségben, ahol füstszegény levegőréteget kell biztosítani,
 
 b) legfeljebb 5 m/s egyéb esetben.
 
-(6)[^285] A légpótló szerkezet átfolyási tényezőjét vizsgálattal vagy normatív érték alapján kell megállapítani.
+(6)[^292] A légpótló szerkezet átfolyási tényezőjét vizsgálattal vagy normatív érték alapján kell megállapítani.
 
-(7)[^286] A légpótlás biztosítható
+(7)[^293] A légpótlás biztosítható
 
 a) természetes úton légpótló szerkezettel vagy állandóan nyitott szabad nyílással,
 
@@ -32,11 +32,11 @@ b) gépi úton légpótló berendezéssel vagy
 
 c) a természetes és a gépi megoldás kombinációjával.
 
-(8)[^287] A légpótlásra szolgáló szabad nyílások esetében a légpótló szerkezetekre vonatkozó követelményeket a hatásos nyílásfelület, valamint az elhelyezés tekintetében alkalmazni kell.
+(8)[^294] A légpótlásra szolgáló szabad nyílások esetében a légpótló szerkezetekre vonatkozó követelményeket a hatásos nyílásfelület, valamint az elhelyezés tekintetében alkalmazni kell.
 
-[^282]: A 95. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^283]: A 95. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 44. §-ával megállapított szöveg.
-[^284]: A 95. § (5) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 86. pontja szerint módosított szöveg.
-[^285]: A 95. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 87. pontja szerint módosított szöveg.
-[^286]: A 95. § (7) bekezdését a 30/2019. (VII. 26.) BM rendelet 61. § (2) bekezdése iktatta be.
-[^287]: A 95. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 61. § (2) bekezdése iktatta be.
+[^289]: A 95. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^290]: A 95. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 44. §-ával megállapított szöveg.
+[^291]: A 95. § (5) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 86. pontja szerint módosított szöveg.
+[^292]: A 95. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 87. pontja szerint módosított szöveg.
+[^293]: A 95. § (7) bekezdését a 30/2019. (VII. 26.) BM rendelet 61. § (2) bekezdése iktatta be.
+[^294]: A 95. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 61. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## 75. Elektrosztatikus feltöltődés és kisülés elleni védelem
 
-145. §[^343] (1) Ezen alcímet nem kell alkalmazni azon technológiai berendezések elektrosztatikus feltöltődés elleni védelmére, amelyek a robbanásveszélyes környezetben történő alkalmazásra tanúsítással rendelkeznek.
+145. §[^350] (1) Ezen alcímet nem kell alkalmazni azon technológiai berendezések elektrosztatikus feltöltődés elleni védelmére, amelyek a robbanásveszélyes környezetben történő alkalmazásra tanúsítással rendelkeznek.
 
 (2) Azokon a területeken, szabadtereken, robbanásveszélyes zónákban – beleértve az (1) bekezdésben meghatározott berendezések környezetét is –, ahol robbanásveszélyes osztályba tartozó anyagokat állítanak elő, dolgoznak fel, használnak, tárolnak vagy forgalomba hoznak, és az elektrosztatikus feltöltődés tüzet vagy robbanást okozhat, elektrosztatikus feltöltődés elleni védelmet kell biztosítani. A tervezés és kivitelezés során az elektrosztatikus gyújtás megakadályozása érdekében dokumentált védelmi intézkedéseket kell végrehajtani, és fel kell mérni az elektrosztatikai kockázatot.
 
@@ -10,4 +10,4 @@
 
 (5) Az elektrosztatikus feltöltődés elleni védelem megfelelő, ha a tervezést, létesítést, üzemeltetést és karbantartást a vonatkozó műszaki követelmény szerint vagy azzal legalább egyenértékű biztonságot nyújtó módon végzik, és az elektrosztatikus feltöltődés elleni védelmet a felülvizsgálatot követően a felülvizsgáló megfelelőnek minősíti.
 
-[^343]: A 145. § a 30/2019. (VII. 26.) BM rendelet 73. §-ával megállapított szöveg.
+[^350]: A 145. § a 30/2019. (VII. 26.) BM rendelet 73. §-ával megállapított szöveg.

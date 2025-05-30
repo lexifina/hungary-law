@@ -1,10 +1,10 @@
-## 15. [^110] Oktatási, nevelési, gyermekfoglalkoztató, gyermekek napközbeni ellátását biztosító, továbbá játszóház rendeltetés
+## 15. [^116] Oktatási, nevelési, gyermekfoglalkoztató, gyermekek napközbeni ellátását biztosító, továbbá játszóház rendeltetés
 
-38. §[^111] (1)[^112] Bölcsődei rendeltetés, továbbá az (5) bekezdésben foglaltak kivételével a jellemzően 3 éves kor alatti gyermekek napközbeni ellátására szolgáló helyiség kizárólag a földszinten vagy a kijárati szinten alakítható ki.
+38. §[^117] (1)[^118] Bölcsődei rendeltetés, továbbá az (5) bekezdésben foglaltak kivételével a jellemzően 3 éves kor alatti gyermekek napközbeni ellátására szolgáló helyiség kizárólag a földszinten vagy a kijárati szinten alakítható ki.
 
-(2)[^113] Óvodai rendeltetés, továbbá az (5) bekezdésben foglaltak kivételével a jellemzően 3–6 éves korú gyermekek napközbeni ellátására, foglalkoztatására szolgáló helyiség kizárólag az alagsorban, a földszinten vagy a kijárati szinten, valamint az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 m-rel magasabban elhelyezkedő szinten alakítható ki.
+(2)[^119] Óvodai rendeltetés, továbbá az (5) bekezdésben foglaltak kivételével a jellemzően 3–6 éves korú gyermekek napközbeni ellátására, foglalkoztatására szolgáló helyiség kizárólag az alagsorban, a földszinten vagy a kijárati szinten, valamint az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 m-rel magasabban elhelyezkedő szinten alakítható ki.
 
-(3)[^114] A 10 éves kor alatti gyermekek elhelyezésére, huzamos tartózkodására szolgáló helyiség
+(3)[^120] A 10 éves kor alatti gyermekek elhelyezésére, huzamos tartózkodására szolgáló helyiség
 
 a) falburkolata KK kockázati osztályú kockázati egység esetén legalább B-s1, d0, MK kockázati osztályú kockázati egység esetén legalább A2-s1, d0 tűzvédelmi osztályú,
 
@@ -32,11 +32,11 @@ b) a gyermekek ellátására szolgáló helyiséget az alagsor, földszint, kij�
 
 (8) A 20 fő feletti befogadóképességű tantermet, előadótermet, foglalkoztató és hasonló rendeltetésű helyiséget legalább tűzgátló válaszfallal kell határolni a szomszédos helyiségektől.
 
-(9)[^115] Bölcsődei és óvodai rendeltetést is magába foglaló kockázati egység esetén – a kiürítésre és a gyermekek tartózkodására szolgáló helyiség elhelyezésére vonatkozó követelmények kivételével – elegendő az AK kockázati osztályhoz tartozó követelmények érvényesítése, ha a KK kockázati osztályt kizárólag a gyermekek életkorának figyelembevétele eredményezi. Ebben az esetben az épület mértékadó kockázati osztályának megállapításánál ez a kockázati egység AK kockázati osztályú kockázati egységként vehető figyelembe.
+(9)[^121] Bölcsődei és óvodai rendeltetést is magába foglaló kockázati egység esetén – a kiürítésre és a gyermekek tartózkodására szolgáló helyiség elhelyezésére vonatkozó követelmények kivételével – elegendő az AK kockázati osztályhoz tartozó követelmények érvényesítése, ha a KK kockázati osztályt kizárólag a gyermekek életkorának figyelembevétele eredményezi. Ebben az esetben az épület mértékadó kockázati osztályának megállapításánál ez a kockázati egység AK kockázati osztályú kockázati egységként vehető figyelembe.
 
-[^110]: A 15. alcím címe a 30/2019. (VII. 26.) BM rendelet 29. §-ával megállapított szöveg.
-[^111]: A 38. § a 30/2019. (VII. 26.) BM rendelet 30. §-ával megállapított szöveg.
-[^112]: A 38. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^113]: A 38. § (2) bekezdése a 8/2022. (IV. 14.) BM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^114]: A 38. § (3) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 10. pontja szerint módosított szöveg.
-[^115]: A 38. § (9) bekezdése a 8/2022. (IV. 14.) BM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^116]: A 15. alcím címe a 30/2019. (VII. 26.) BM rendelet 29. §-ával megállapított szöveg.
+[^117]: A 38. § a 30/2019. (VII. 26.) BM rendelet 30. §-ával megállapított szöveg.
+[^118]: A 38. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^119]: A 38. § (2) bekezdése a 8/2022. (IV. 14.) BM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^120]: A 38. § (3) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 10. pontja szerint módosított szöveg.
+[^121]: A 38. § (9) bekezdése a 8/2022. (IV. 14.) BM rendelet 19. § (2) bekezdésével megállapított szöveg.

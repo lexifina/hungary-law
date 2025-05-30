@@ -6,11 +6,11 @@
 
 a) a táblázat 2. sorának B és C oszlopában rögzített távolságértékek legfeljebb 1 méterig, ha az építmény és a berendezés között a berendezés méreteit minden irányban legalább 0,5 méterrel meghaladó, A1 tűzvédelmi osztályú, nyomásálló védőfal kerül kiépítésre,
 
-b)[^386] a táblázat 3. sorának B és C oszlopában rögzített távolságértékek legfeljebb 1 méterig, ha az építmény és a mérsékelten tűzveszélyes osztályba tartozó folyadékot kiszolgáló berendezés között a berendezés méreteit minden irányban legalább 0,5 méterrel meghaladó, A1 tűzvédelmi osztályú, EI 90 tűzállóságiteljesítmény-jellemzőjű védőfal kerül kiépítésre,
+b)[^395] a táblázat 3. sorának B és C oszlopában rögzített távolságértékek legfeljebb 1 méterig, ha az építmény és a mérsékelten tűzveszélyes osztályba tartozó folyadékot kiszolgáló berendezés között a berendezés méreteit minden irányban legalább 0,5 méterrel meghaladó, A1 tűzvédelmi osztályú, EI 90 tűzállóságiteljesítmény-jellemzőjű védőfal kerül kiépítésre,
 
-c)[^387] a táblázat 3. sorának B és C oszlopában rögzített távolságértékek legfeljebb 1 méterig, ha az építmény és a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot kiszolgáló berendezés között a berendezés méreteit minden irányban legalább 0,5 méterrel meghaladó, A1 tűzvédelmi osztályú, nyomásálló védőfal kerül kiépítésre.
+c)[^396] a táblázat 3. sorának B és C oszlopában rögzített távolságértékek legfeljebb 1 méterig, ha az építmény és a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékot kiszolgáló berendezés között a berendezés méreteit minden irányban legalább 0,5 méterrel meghaladó, A1 tűzvédelmi osztályú, nyomásálló védőfal kerül kiépítésre.
 
 (3) Konténerkút telepítése esetén a kiszolgáláshoz szükséges kezelőszervek a konténerházon kívül is elhelyezhetőek.
 
-[^386]: A 169. § (2) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 109. pontja szerint módosított szöveg.
-[^387]: A 169. § (2) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^395]: A 169. § (2) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 109. pontja szerint módosított szöveg.
+[^396]: A 169. § (2) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
