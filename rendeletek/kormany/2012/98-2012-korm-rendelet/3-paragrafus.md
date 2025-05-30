@@ -22,9 +22,11 @@ is történhet.
 
 (2) A határon túli költségvetési támogatással kapcsolatos feladatok ellátását végző határon túli lebonyolító szerv és más támogatásközvetítői feladatokat ellátó szervezet – jogszabály eltérő rendelkezése hiányában – legfeljebb a lebonyolítás céljából átadott összeg 8%-át használhatja fel a feladat ellátásával kapcsolatos saját működési és felhalmozási költségeinek fedezeteként.
 
-(3)[^14] Az ötmilliárd forintot el nem érő összegű határon túli költségvetési támogatás esetén támogatási szerződés alapján is nyújtható támogatás, így különösen a támogatás lebonyolításában részt vevő, (2) bekezdés szerinti szervezet, zálogjog biztosíték alkalmazása, vagy az Ávr. 88. § (1) bekezdés b)–c) pontjában meghatározott támogatás folyósítása esetén.
+(2a)[^14] A 2. § (1) bekezdés c) pontja szerinti szervezet az általa lebonyolított támogatási jogviszonyok fenntartási időszaka során felmerülő feladatok költségei fedezetére indokolt esetben, a szükséges forrás rendelkezésre állása esetén, a fejezetet irányító szerv egyedi mérlegelés alapján meghozott ez irányú döntésével, a (2) bekezdésben meghatározott mértéken felül további 5%-ot is felhasználhat, elsődlegesen a lebonyolítás céljából átadott összeg terhére.
 
-(4)[^15] Határon túli költségvetési támogatás esetén a támogatás nyújtásának feltételeként előírt ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzésének legkésőbb a jelzálogjoggal érintett ingatlanra vonatkozó hatósági használatbavételi engedély (vagy az ennek megfelelő, a helyi jog szerinti engedély) kiállításától vagy a biztosítékkal érintett ingatlanra vonatkozó tulajdonjog bejegyzésétől számított százhuszadik napon belül kell megtörténnie. A költségvetési támogatás folyósításának feltétele, hogy az ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzéséig az Ávr. 84. § (2) bekezdése szerinti biztosítékot kell nyújtani.
+(3)[^15] Az ötmilliárd forintot el nem érő összegű határon túli költségvetési támogatás esetén támogatási szerződés alapján is nyújtható támogatás, így különösen a támogatás lebonyolításában részt vevő, (2) bekezdés szerinti szervezet, zálogjog biztosíték alkalmazása, vagy az Ávr. 88. § (1) bekezdés b)–c) pontjában meghatározott támogatás folyósítása esetén.
+
+(4)[^16] Határon túli költségvetési támogatás esetén a támogatás nyújtásának feltételeként előírt ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzésének legkésőbb a jelzálogjoggal érintett ingatlanra vonatkozó hatósági használatbavételi engedély (vagy az ennek megfelelő, a helyi jog szerinti engedély) kiállításától vagy a biztosítékkal érintett ingatlanra vonatkozó tulajdonjog bejegyzésétől számított százhuszadik napon belül kell megtörténnie. A költségvetési támogatás folyósításának feltétele, hogy az ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzéséig az Ávr. 84. § (2) bekezdése szerinti biztosítékot kell nyújtani.
 
 [^6]: A 3. § (1) bekezdése a 128/2014. (IV. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1a) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 221/2019. (IX. 17.) Korm. rendelet 6. §-ával megállapított, a 13/2020. (II. 7.) Korm. rendelet 67. §-a szerint módosított szöveg.
@@ -34,5 +36,6 @@ is történhet.
 [^11]: A 3. § (1e) bekezdése a 388/2014. (XII. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 20/2015. (II. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^12]: A 3. § (1f) bekezdését a 264/2017. (IX. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 68. § 1. pontja.
 [^13]: A 3. § (1g) bekezdését a 264/2017. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
-[^14]: A 3. § (3) bekezdését a 20/2015. (II. 17.) Korm. rendelet 18. §-a hatályon kívül helyezte, újonnan a 182/2018. (X. 2.) Korm. rendelet 2. §-a iktatta be.
-[^15]: A 3. § (4) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 182/2018. (X. 2.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 3. § (2a) bekezdését a 117/2025. (V. 29.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § (3) bekezdését a 20/2015. (II. 17.) Korm. rendelet 18. §-a hatályon kívül helyezte, újonnan a 182/2018. (X. 2.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A 3. § (4) bekezdését a 128/2014. (IV. 10.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte, újonnan a 182/2018. (X. 2.) Korm. rendelet 2. §-a iktatta be.

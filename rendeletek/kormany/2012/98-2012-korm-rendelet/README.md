@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-98-20-2
 | 2019-09-18 | 2012-98-20-22.13 | 221/2019. (IX. 17.) Korm. rendelet |
 | 2020-02-15 | 2012-98-20-22.14 | 2010: CXXX. törvény |
 | 2023-07-09 | 2012-98-20-22.15 | 294/2023. (VII. 6.) Korm. rendelet |
+| 2025-05-30 | 2012-98-20-22.16 | 117/2025. (V. 29.) Korm. rendelet |
