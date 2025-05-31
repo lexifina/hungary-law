@@ -1,0 +1,9 @@
+91/B. § (1) A nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltató a hálózat és a szolgáltatás biztonságának növelése érdekében, az azonosító felhasználásával elkövetett egyes visszaélések elleni hatékony fellépés céljából, a hálózatába nemzetközi irányból érkező hívás irányítása – ideértve a végződtetést is – előtt az Elnök rendeletében meghatározott módon azonosítóval való visszaélés megelőzését szolgáló vizsgálatot végez. A hívást a szolgáltató abban az esetben irányíthatja tovább, ha az Elnök rendeletében foglalt feltételek megvalósultak.
+
+(2) Az (1) bekezdés szerinti kötelezettség teljesítése érdekében a nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltatók kötelesek a Hatósággal és egymással az Elnök rendeletében meghatározott módon együttműködni.
+
+(3) A (2) bekezdés szerint együttműködésre kötelezett szolgáltató az (1) bekezdés szerinti vizsgálat elvégzése, az ezzel kapcsolatos előfizetői panaszokkal és hibabejelentésekkel összefüggő feladatok ellátása céljából kezeli a 157. § (2) bekezdés a)–c) és e)–f) pontja szerinti adatok közül azokat, amelyek a visszaélés megelőzését szolgáló vizsgálatok elvégzéséhez, a panaszok és a hibabejelentések kezeléséhez feltétlenül szükségesek. Az adatok kezelésére az (1) bekezdés szerinti vizsgálat lefolytatása céljából a vizsgálathoz szükséges mértékben és ideig kerülhet sor.
+
+(4) A Hatóság ajánlást adhat ki a (2) bekezdés szerinti együttműködési kötelezettség teljesítésével, valamint az (1) bekezdés szerinti vizsgálattal összefüggő intézkedések részletes műszaki tartalmáról, amelyet a honlapján közzétesz.
+
+(5) Ha a szolgáltató az (1) és (2) bekezdés szerinti kötelezettségeinek nem tesz eleget, a Hivatal ideiglenes biztosítási intézkedésként megtilthatja a szolgáltató hálózatába nemzetközi irányból érkező hívások fogadását és irányítását.

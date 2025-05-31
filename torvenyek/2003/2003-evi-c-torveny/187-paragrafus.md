@@ -48,6 +48,8 @@ k) a spektrumhasználatra vonatkozó információk Közösségen belüli harmoni
 
 l) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
 
+m) az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (3) E törvény 92/C. §-a, a 145/A. §-a, a 149/F. § (1) és (2) bekezdése, a 163/Q. § (2)–(4) bekezdése és a 182. § (1) bekezdés h) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

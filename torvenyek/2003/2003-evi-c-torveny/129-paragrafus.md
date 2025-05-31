@@ -12,7 +12,7 @@ b) az előfizetői szerződés adatainak összefoglalóját tömör és könnyen
 
 (1c) Az előzetes tájékoztatás és az előfizetői szerződés adatainak összefoglalója az előfizető rendelkezésére bocsátott tartalommal válik az előfizetői szerződés részévé, kivéve, ha a felek a szerződés megkötésekor egyező akarattal eltérnek azok tartalmától.
 
-(2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően, illetve a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
+(2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően és a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
 
 (2a) A (2) bekezdésben meghatározott, az előfizető személyazonosságának sikeres ellenőrzésének hiányában az előfizetői szerződés nem köthető meg, valamint a szolgáltató a szolgáltatás nyújtását nem kezdheti meg.
 
