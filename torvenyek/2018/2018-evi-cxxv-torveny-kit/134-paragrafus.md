@@ -19,3 +19,7 @@ a) általános teljes napi munkaidő esetén: 174 órával,
 b) általánostól eltérő teljes napi vagy részmunkaidő esetén: 174 óra időarányos részével.
 
 (5) A kormánytisztviselő megállapított illetménye teljesítményértékelés alapján módosítható. Az illetmény teljesítményértékelés nélkül is módosítható, ha azt a kormánytisztviselő által betöltött álláshely besorolási kategóriájának módosulása teszi szükségessé.
+
+(6) Az illetmény – az (5) bekezdésben foglaltakon túl – teljesítményértékelés nélkül megemelhető akkor is, ha a kormánytisztviselő 156. § szerinti szülési szabadsága, illetve 131. § vagy 157. § szerinti fizetés nélküli szabadsága ideje alatt a kormánytisztviselő álláshelye szerinti kormányzati igazgatási szervnél foglalkoztatottak legalább 70 százalékát érintő illetményemelésre került sor.
+
+(7) A (6) bekezdés szerinti illetményemelésre a 156. § szerinti szülési szabadság, illetve a 131. § és a 157. § szerinti fizetés nélküli szabadság megszűnését követő két hónapon belül kerülhet sor, azzal, hogy az illetményemelést visszamenőlegesen legfeljebb a 156. § szerinti szülési szabadság, illetve a 131. § és a 157. § szerinti fizetés nélküli szabadság megszűnésének időpontjától lehet alkalmazni.

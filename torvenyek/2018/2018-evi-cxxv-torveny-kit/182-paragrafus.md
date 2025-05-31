@@ -22,6 +22,8 @@ h) közjegyzői szolgálata a politikai felsővezetői kinevezés időtartamára
 
 i) nemzetbiztonsági szolgálati jogviszonya a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 
+j) önkéntes tartalékos szolgálati viszonyt létesítsen.
+
 (3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár, a miniszterelnök politikai igazgatója és a miniszterelnök nemzetbiztonsági főtanácsadója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.
 
 (3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni, azzal hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.

@@ -167,27 +167,3 @@
 ## 9. kompetenciaadatai
 
 ## 10. próbaidejének adatai
-
-## VI.
-
-## 1. személyi juttatások nyilvántartása a központi létszám- és bérgazdálkodási statisztikai információs rendszer figyelembevételével
-
-## VII.
-
-## 1. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
-
-## 2. kormányzati kirendelésének adatai
-
-## VIII.
-
-## 1. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
-
-## 2. a felmentési időtartam adatai
-
-## IX.
-
-## 1. az összeférhetetlenséggel összefüggő adatai, együttalkalmazási tilalomra vonatkozó adatok (gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszony rá vonatkozó információk, illetve bejelentésének adata; további jogviszonyra vonatkozó adatok, előzetes engedélykérés információi)
-
-## X.
-
-## 1. az állami készfizető kezességvállalással összefüggő adatok (a hitelszerződést kötő pénzintézet neve, címe; az állami kezességvállalással biztosított hitel nagysága; a hitel lejártának időpontja)
