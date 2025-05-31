@@ -1,0 +1,21 @@
+76. § (1) A 26. §, az 53. § (1)–(4) bekezdése, az 54. §, az 56–59. §, a 61. §, a 63. §, a 65. §, a 67. §, a 69. § (4) és (5) bekezdése, a 71. § 2., 13–15., 17–19. és 27. pontja az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) A 62. §, a 64. §, a 69. § (1) bekezdése az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelv 31. cikk (1) bekezdésének való megfelelést szolgálja.
+
+(3) A 45–50. § a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendeletnek és az azt módosító, a 910/2014/EU rendeletnek az európai digitális személyazonossági keret létrehozása tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1183 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) A 66. §, a 69. § (2) és (6) bekezdése az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) szóló, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(5) A 68. §, a 69. § (3) bekezdése az Európai Kiberbiztonsági Ipari, Technológiai és Kutatási Kompetenciaközpontnak és a nemzeti koordinációs központok hálózatának a létrehozásáról szóló, 2021. május 20-i (EU) 2021/887 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+|
+
+Dr. Sulyok Tamás s. k.,
+
+köztársasági elnök
+
+|
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke

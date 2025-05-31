@@ -1,0 +1,3 @@
+8. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 36. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az adatszolgáltatásért, a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, valamint a 29/J. § (8) bekezdése szerinti tájékoztatásért fizetendő igazgatási szolgáltatási díj megfizetése alól – ide nem értve a hatóságnak az eljárás során felmerült igazolt költségét – mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, az önálló bírósági végrehajtót, a Kormány által a Gondosóra program megvalósítására kijelölt jogi személyt, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.”
