@@ -16,7 +16,7 @@ b) a jármű tulajdonjogát igazoló hatósági igazolvány (a továbbiakban: t�
 
 ba) ellenőrzi a törzskönyv kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
 
-bb) eljár a törzskönyv kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor a törzskönyv automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+bb) eljár a törzskönyv kiállítása, cseréje, pótlása ügyében,
 
 bc) a ba) és bb) alpontban meghatározott esetekben gondoskodik a törzskönyv kiállításáról,
 
@@ -26,7 +26,7 @@ c) a jármű nyilvántartásba vételét igazoló okmány kapcsán:
 
 ca) ellenőrzi a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
 
-cb) eljár a jármű nyilvántartásba vételét igazoló okmány kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor az állandó forgalmi engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+cb) eljár a jármű nyilvántartásba vételét igazoló okmány kiállítása, cseréje, pótlása ügyében,
 
 cc) a ca) és cb) alpontban meghatározott esetekben gondoskodik a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány kiállításáról,
 
