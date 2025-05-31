@@ -12,7 +12,7 @@
 
 (5a) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást igényelni közvetlen adatkapcsolat útján.
 
-(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással, vagy a megfeleltethetőség ténye nem áll fenn.
+(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább egy elemző személy elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással, vagy a megfeleltethetőség ténye nem áll fenn.
 
 (6) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult felhasználni a metaadatokat.
 

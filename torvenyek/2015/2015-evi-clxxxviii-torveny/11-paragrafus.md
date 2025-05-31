@@ -12,7 +12,7 @@
 
 (6) A (3) bekezdés szerinti kiértékelés eredményessége esetén az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv részére az igény beérkezésétől számított nyolc munkanapon belül továbbítja a kiértékelés eredményeként kapott arckép profilhoz tartozó, a nyilvántartásban kezelt technikai kapcsoló számot, vagy tájékoztatja az igénybevételre jogosult szervet az arckép profil nyilvántartás tekintetében a nem megfeleltethetőség tényéről.
 
-(6a) A (3) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás megfeleltethető az arcképelemző rendszer által végzett összehasonlítás eredményeképpen előálló találati lista egy vagy több elemével.
+(6a) A (3) bekezdés szerinti kiértékelés akkor eredményes, ha legalább egy elemző személy elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás megfeleltethető az arcképelemző rendszer által végzett összehasonlítás eredményeképpen előálló találati lista egy vagy több elemével.
 
 (6b) A (6) bekezdés szerinti nem megfeleltethetőség tényéről az arcképelemző tevékenységet végző szerv abban az esetben tájékoztatja az igénybevételre jogosult szervet, ha a találati lista elemeivel összehasonlítva az arcképelemző tevékenységet végző szerv nem állapít meg releváns találatot a (3) bekezdés szerinti kiértékelés során.
 
