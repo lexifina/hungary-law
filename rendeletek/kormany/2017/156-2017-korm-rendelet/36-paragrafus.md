@@ -46,6 +46,8 @@ k)[^63] a 2009/43/EK európai parlamenti és tanácsi irányelvnek az annak mell
 
 l)[^64] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékeket tartalmazó jegyzéknek az Európai Unió 2023. február 20-i naprakésszé tett közös katonai listájával összhangban való naprakésszé tétele tekintetében történő módosításáról szóló, 2023. szeptember 27-i (EU) 2024/242 felhatalmazáson alapuló bizottsági irányelvnek
 
+m)[^65] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékeket tartalmazó jegyzéknek az Európai Unió 2024. február 19-i naprakésszé tett közös katonai listájával összhangban való naprakésszé tétele tekintetében történő módosításáról szóló, 2024. október 4-ei (EU) 2025/290 felhatalmazáson alapuló bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 (3) A rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti bejelentése megtörtént.
@@ -58,3 +60,4 @@ való megfelelést szolgálja.
 [^62]: A 36. § (2) bekezdés j) pontját a 360/2022. (IX. 19.) Korm. rendelet 30. §-a iktatta be.
 [^63]: A 36. § (2) bekezdés k) pontját a 360/2022. (IX. 19.) Korm. rendelet 30. §-a iktatta be.
 [^64]: A 36. § (2) bekezdés l) pontját a 204/2023. (V. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 122/2024. (VI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^65]: A 36. § (2) bekezdés m) pontját a 116/2025. (V. 29.) Korm. rendelet 2. §-a iktatta be.
