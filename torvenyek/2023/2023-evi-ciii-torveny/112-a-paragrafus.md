@@ -1,4 +1,4 @@
-## 57a. A Kép-, hang, kép- és hangfelvétel központi tárolása
+## 57/A. A Kép-, hang, kép- és hangfelvétel központi tárolása
 
 112/A. § (1) A Kormány által rendeletben kijelölt szerv (a továbbiakban: tárhelyszolgáltató) informatikai alkalmazás útján, központi tárhely működtetésével biztosítja
 

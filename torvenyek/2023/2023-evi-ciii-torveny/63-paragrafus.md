@@ -16,7 +16,7 @@ tehető meg.
 
 (3) A személyes megjelenés nélkül történő személyazonosításnak meg kell felelnie a bizalmi szolgáltatások esetében alkalmazható, a személyes jelenléttel egyenértékű biztosítékot nyújtó, jogszabályban előírt azonosítási módszernek.
 
-(4) A távoli azonosítás során a digitális állampolgárság szolgáltató a videojel segítségével a személyazonosság igazolásához használt okmányról vagy a tárolóeleméből kiolvasott természetes személyazonosító adatokat, az állampolgárságot és az okmányazonosítót összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő adatokkal, ellenőrzi az okmány érvényességét. A felhasználó személyazonosságának ellenőrzésére az Atv. 12/B. §-ában meghatározott szolgáltatás is alkalmazható.
+(4) A távoli azonosítás során a digitális állampolgárság szolgáltató a videójel segítségével a személyazonosság igazolásához használt okmányról vagy a tárolóeleméből kiolvasott természetes személyazonosító adatokat, az arcképmást, az állampolgárságot és az okmányazonosítót összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő adatokkal, ellenőrzi az okmány érvényességét. A távoli azonosítás során a digitális állampolgárság szolgáltató a felhasználóról videójel segítségével készített arcképet összehasonlítja a személyazonosság igazolásához használt okmányon szereplő vagy a tárolóelemből kiolvasott arcképmással. A felhasználó személyazonosságának ellenőrzésére az Atv. 12/B. §-ában meghatározott szolgáltatás is alkalmazható.
 
 (5) A tárolóelemet tartalmazó személyazonosító igazolvánnyal történő azonosítás során a digitális állampolgárság szolgáltató a keretalkalmazáson keresztül az okmányról vagy a tárolóeleméből kiolvasott okmányazonosítót, érvényességi időt és a természetes személyazonosító adatokat összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő adatokkal, ellenőrzi az okmány érvényességét.
 
@@ -32,7 +32,7 @@ a felhasználó személyazonosságának ellenőrzése, a (7) bekezdés szerinti 
 
 (8) A (4) bekezdés szerinti eljárás során a nyilvántartásban szereplő adatok egyezősége, a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén a személyazonosítás sikeresen megtörténik.
 
-(9) A (4) bekezdés szerint elvégzett azonosítás sikertelensége esetén a felhasználó az azonosítást végző digitális állampolgárság szolgáltató ügyintézőjének támogatásával is megkísérelheti a személyazonosítást.
+(9) A (8) bekezdés szerint elvégzett azonosítás sikertelensége esetén a felhasználó az azonosítást végző digitális állampolgárság szolgáltató ügyintézőjének támogatásával is megkísérelheti a személyazonosítást.
 
 (10) A (7) bekezdés szerinti személyazonosítás sikeressége esetén az azonosítás eredményét – az érintett természetes személyazonosító adataival és az állampolgárságával, valamint a személyazonosság igazolására alkalmas hatósági igazolványra vonatkozó adatokkal együtt – a felhasználói profil aktiválása céljából a digitális állampolgárság szolgáltató átadja a digitális állampolgárság nyilvántartást vezető szervnek. A digitális állampolgárság nyilvántartást vezető szerv a felhasználói profil aktiválásáról értesíti a digitális állampolgárság szolgáltatót. Az értesítés tartalmazza az érintett digitális állampolgár azonosítóját.
 
@@ -58,6 +58,8 @@ c) a külföldre utazásról szóló 1998. évi XII. törvény 24. § (1) bekezd
 
 jogosult igényelni a nyilvántartások vezetőjétől.
 
-(14) A felhasználó személyazonosságának igazolását követően a digitális állampolgárság szolgáltató a (12) bekezdés szerinti szerv útján a felhasználó rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a felhasználó a keretalkalmazás segítségével a mobileszközében eltárolja. A digitális állampolgárság szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja.
+(14) A felhasználó személyazonosságának igazolását követően a digitális állampolgárság szolgáltató a (12) bekezdés szerinti szerv útján a felhasználó rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a felhasználó a keretalkalmazás segítségével a mobileszközében eltárolja. A digitális állampolgárság szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja. A digitális állampolgárság szolgáltató a regisztráció sikeres befejezéséről értesíti a digitális állampolgárság nyilvántartást vezető szervet.
+
+(14a) A (14) bekezdés szerinti értesítést követően a digitális állampolgárság nyilvántartást vezető szerv a felhasználói profil aktiválásáról értesíti a digitális állampolgárság szolgáltatót. Az értesítés tartalmazza a felhasználó digitális állampolgár azonosítóját.
 
 (15) Az előregisztrációs adatokat a digitális állampolgárság szolgáltató az eAláírást biztosító bizalmi szolgáltató rendelkezésére bocsáthatja, és az adatokat a bizalmi szolgáltató az eAláíráshoz kapcsolódó aláíró tanúsítvány kiállításához felhasználhatja.

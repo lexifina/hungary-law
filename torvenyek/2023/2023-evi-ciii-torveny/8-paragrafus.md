@@ -2,7 +2,9 @@
 
 8. § E törvény alkalmazásában:
 
-1. ajánlott elektronikus kézbesítési szolgáltatás: a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 36. pontjában meghatározott fogalom;
+1. aggregátum szolgáltatás: az állami nyilvántartásokban és egyéb elektronikus információs rendszerekben kezelt adatokra épülő integrált szolgáltatás, amelyet digitális állampolgárság szolgáltató a szolgáltatáshoz csatlakozott szervezetek által kezelt adatok felhasználásával nyújt;
+
+1a. ajánlott elektronikus kézbesítési szolgáltatás: az eIDAS Rendelet 3. cikk 36. pontjában meghatározott fogalom;
 
 2. attribútum: az eIDAS Rendelet 3. cikk 43. pontjában meghatározott fogalom;
 
@@ -32,6 +34,8 @@
 
 15. egyszerű elektronikus aláírás: az eIDAS Rendelet 3. cikk 10. pontjában meghatározott olyan aláírás, amely nem felel meg az eIDAS Rendelet 3. cikk 11. és 12. pontjában meghatározott követelményeknek;
 
+15a. elektronikus attribútumtanúsítvány: az eIDAS Rendelet 3. cikk 44. pontja szerinti tanúsítvány;
+
 16. elektronikus bélyegző: az eIDAS Rendelet 3. cikk 25. pontja szerinti bélyegző;
 
 17. elektronikus időbélyegző: az eIDAS Rendelet 3. cikk 33. pontja szerinti időbélyegző;
@@ -40,7 +44,7 @@
 
 19. érvényesítési adat: az eIDAS Rendelet 3. cikk 40. pontja szerinti adat;
 
-20.
+20. európai digitális személyiadat-tárca: az eIDAS rendelet 3. cikk 42. pontja szerinti eszköz;
 
 21. felhasználó: a digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügyben ügyfélként, félként vagy az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybe vevőjeként vagy ezek képviselőjeként részt vevő természetes személy vagy egyéb jogalany, ide nem értve a digitális szolgáltatást biztosító szervezetet és az ügyben eljáró digitális szolgáltatást biztosító szervezet tagját vagy alkalmazottját, továbbá a HATODIK RÉSZ tekintetében az eIDAS Rendelet 3. cikk 5a. pontjában meghatározott természetes vagy jogi személy;
 

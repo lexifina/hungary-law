@@ -1,1 +1,1 @@
-13/A. § A közhiteles nyilvántartást vezető szerv, valamint a digitális szolgáltatást biztosító szerv a digitális állampolgár azonosítót a felhasználó azonosítása, valamint az általa a digitális térben nyújtott szolgáltatások biztosítása céljából kezelheti.
+13/A. § A közhiteles nyilvántartást vezető szervezet, valamint a digitális szolgáltatást biztosító szervezet a digitális állampolgár azonosítót a felhasználó azonosítása, valamint az általa a digitális térben nyújtott szolgáltatások biztosítása céljából kezelheti.

@@ -1,3 +1,13 @@
-61. § (1) Személyazonosság¸ személyazonosító adatok, illetve valamely attribútum igazolása céljából nemzeti digitális irattárca-szolgáltatás keretében elérhető okmány (a továbbiakban: digitális okmány) vagy a közhiteles nyilvántartásban tárolt adattartalomnak nemzeti digitális irattárca-szolgáltatás keretében történő megjelenítésére szolgáló adattároló kód (a továbbiakban: adattároló kód) hozzáférhetővé tétele a fizikai okmány felmutatásával egyenértékű.
+61. § (1) Személyazonosság¸ személyazonosító adatok, illetve valamely attribútum igazolása céljából a nemzeti digitális irattárca-szolgáltatás keretében
 
-(2) Az erre feljogosított személy vagy szervezet a hozzáférhetővé tett digitális okmány adatait vagy az adattároló kód alapján a közhiteles nyilvántartásból megjelenített adatokat az (1) bekezdés szerinti célból ellenőrzi, és egyezőség esetén a személyazonosságot, a személyazonosító adatokat, illetve az attribútumot igazoltnak tekinti.
+a) elérhető elektronikus attribútumtanúsítvány megosztása,
+
+b) a közhiteles nyilvántartásban tárolt adattartalom megjelenítésére szolgáló adattároló kód hozzáférhetővé tétele vagy
+
+c) a közhiteles nyilvántartásban tárolt adattartalomról a digitális állampolgárság szolgáltató által digitálisan előállított hitelesített igazolás megosztása
+
+a személyazonosságot igazoló vagy személyazonosító adatot, illetve attribútumot tartalmazó fizikai okmány felmutatásával egyenértékű.
+
+(2) Az erre feljogosított személy vagy szervezet az (1) bekezdés b) pontja szerint hozzáférhetővé tett adattároló kód alapján a közhiteles nyilvántartásból megjelenített adatokat az (1) bekezdés szerinti célból ellenőrizheti, és egyezőség esetén a személyazonosságot, a személyazonosító adatokat, illetve az attribútumot igazoltnak tekinti.
+
+(3) Az (1) és (2) bekezdéstől eltérően a nemzeti digitális irattárca-szolgáltatás keretében kormányrendeletben meghatározott attribútum a keretalkalmazáson keresztül történő felmutatásával is igazolható.

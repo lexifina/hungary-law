@@ -14,16 +14,20 @@ a) dönt a szükséges fejlesztések koncepcionális irányairól és tartalmár
 
 b) a (2) bekezdés szerinti kormányrendeletben kijelölt szakmai közreműködő javaslatának figyelembevételével megtervezi az életesemény-alapú szolgáltatást,
 
-c) kialakítja az eredményes szolgáltatáshoz szükséges adatkapcsolatokat és a leghatékonyabb műszaki megoldásokat a szolgáltató oldaláról,
+c) kialakítja az eredményes szolgáltatáshoz szükséges adatkapcsolatokat és a leghatékonyabb műszaki megoldásokat a szolgáltató oldaláról, és a szakmai közreműködőnél kezdeményezi (6) bekezdés b) pontja szerinti adatkapcsolat kialakítását,
 
 d) az életesemény keretében összekapcsolt ügyeknél meghatározza az optimális ügymenetet és a szükséges mértékben adatot kezel,
 
-e) keretalkalmazáson keresztül elérhetővé teszi az életesemény-alapú szolgáltatást.
+e) keretalkalmazáson keresztül, illetve egyéb digitális ügyintézési felületen elérhetővé teszi az életesemény-alapú szolgáltatást.
 
 (6) A szakmai közreműködő az (5) bekezdés vonatkozásában
 
 a) javaslatot tesz az életesemény-szolgáltatónak új életesemény kialakítására,
 
 b) kialakítja az eredményes szolgáltatáshoz szükséges adatkapcsolatokat és a leghatékonyabb műszaki megoldásokat a szakmai közreműködő oldaláról.
+
+c) ügyviteli folyamatait az életesemény-alapú szolgáltatás kialakításához szükséges mértékben átalakítja,
+
+d) amennyiben az életesemény-alapú szolgáltatás kialakításához szükséges, az életesemény-szolgáltató egyetértésével a Kormány feladatkörrel rendelkező tagjánál kezdeményezi a feladatkörét érintő jogszabály módosítását.
 
 (7) Az (5) és (6) bekezdésben foglalt együttműködés keretében, az életesemény-alapú szolgáltatás kialakítása tekintetében az életesemény szolgáltatója iránymutatást adhat a szakmai közreműködőnek, amelyet a szakmai közreműködő köteles figyelembe venni.

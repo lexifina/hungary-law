@@ -4,7 +4,7 @@
 
 (3) Az eAláíráshoz kapcsolódó tanúsítványban álnév nem tüntethető fel.
 
-(4) Az eAláírás szolgáltatás a 63. § szerinti sikeres aktiválást követően vehető igénybe.
+(4) Az eAláírás szolgáltatás a nemzeti digitális irattárcában történő aktiválást követően vehető igénybe.
 
 (5) A felhasználó felhasználói profilja aktiválásáról, valamint inaktiválásáról a digitális állampolgárság szolgáltató az eAláíráshoz kapcsolódó tanúsítvány létrehozásával, ellenőrzésével és érvényesítésével összefüggő feladatok elvégzése érdekében a bizalmi szolgáltatót a digitális állampolgár azonosítóval értesíti.
 

@@ -12,6 +12,6 @@
 
 (6) A digitális szolgáltatások elsődlegesen a digitális állampolgárság keretalkalmazáson keresztül érhetők el.
 
-(7) A nemzeti digitális irattárca olyan, mobilalkalmazásra fejlesztett szolgáltatás, amely alkalmas a személyazonosításra mind a digitális térben, mind a személyes interakciók során.
+(7) A nemzeti digitális irattárca olyan, mobilalkalmazásra fejlesztett szolgáltatás, amely alkalmas a személyazonosításra és egyéb adatok, attribútumok igazolására mind a digitális térben, mind a személyes interakciók során.
 
 (8) A digitális állampolgárság szolgáltatások felhasználhatók a közszolgáltatások és más szolgáltatások nyújtása során is. A digitális szolgáltatásokat az e törvényben meghatározott szervezetek kötelesek nyújtani a felhasználók számára, a gazdálkodó szervezet egyes digitális szolgáltatások nyújtását engedély alapján önként vállalhatja.

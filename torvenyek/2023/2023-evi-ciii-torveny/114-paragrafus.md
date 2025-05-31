@@ -32,6 +32,10 @@
 
 16. a tárhelyszolgáltatót.
 
+17. az európai digitális személyiadat-tárca szolgáltatóját,
+
+18. az európai digitális személyiadat-tárca részére a személyazonosító adatok és a közigazgatási szerv nevében kibocsátott elektronikus attribútumtanúsítványok szolgáltatóját.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
 1. a 15. § (2)–(5) bekezdés szerinti adatkezelés szabályait,

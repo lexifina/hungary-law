@@ -1,0 +1,1 @@
+15/A. § Az életesemény-alapú szolgáltatás és az európai digitális személyiadat-tárcával kapcsolatos szolgáltatások jogszabályban kijelölt szolgáltatója, valamint a szolgáltatások nyújtásában közreműködő szerv a felhasználó mindazon személyes adatához hozzáfér és azokat kezeli, amelyek az e § szerinti szolgáltatás nyújtásához szükségesek.

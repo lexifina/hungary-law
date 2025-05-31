@@ -1,4 +1,4 @@
-17. § (1) A Kormány rendeletében meghatározott proaktív szolgáltatásokat a digitális állampolgárság szolgáltató egyedi kérelem vagy szolgáltatás-igénybevétel kezdeményezése nélkül nyújtja.
+17. § (1) A Kormány rendeletében meghatározott proaktív szolgáltatások egyedi kérelem vagy szolgáltatás-igénybevétel kezdeményezése nélkül nyújthatóak.
 
 (2) A proaktív szolgáltatás elsősorban az életesemény-alapú és egyéb digitális szolgáltatásokhoz kapcsolódó, a kötelezettségek teljesítését vagy jogok gyakorlását elősegítő tájékoztatást szolgálja.
 

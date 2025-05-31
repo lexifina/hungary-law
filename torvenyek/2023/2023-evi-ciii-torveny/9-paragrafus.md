@@ -42,7 +42,7 @@ bb) által meghatározott szolgáltatási feltételek elfogadása,
 
 bc) által meghatározott műszaki követelmények teljesítése,
 
-bd) részére kormányrendeletben meghatározott mértékű szolgáltatási díj megfizetése.
+bd) részére igazgatási szolgáltatási díj megfizetése.
 
 (4a) Kormányrendelet a (4) bekezdésben foglaltakon túl további csatlakozási feltételeket határozhat meg.
 

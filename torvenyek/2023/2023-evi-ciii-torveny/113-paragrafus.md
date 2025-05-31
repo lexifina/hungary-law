@@ -79,3 +79,11 @@
 8. a nemzeti digitális irattárca szolgáltatás egyes funkcióit, valamint a szolgáltatás nyújtásának és igénybevételének feltételeit,
 
 9. a digitális szolgáltatás nyújtására köteles szervek egymás közötti, valamint a természetes személyekkel vagy gazdálkodó szervezetekkel történő elektronikus kapcsolattartására vonatkozó szabályokat.
+
+10. a proaktív szolgáltatásokat, valamint a proaktív szolgáltatás nyújtására vonatkozó szabályokat,
+
+11. a hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat,
+
+12. az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat,
+
+13. az európai digitális személyiadat-tárca felügyelet feladatának részletszabályait.

@@ -1,8 +1,8 @@
 ## XIV. Fejezet
 
-## EGYÜTTMŰKÖDÉS SORÁN HASZNÁLT SZABÁLYOZOTT ÉS KÖZPONTI ELEKTRONIKUS ÜGYINTÉZÉSI SZOLGÁLTATÁSOK
+## EGYÜTTMŰKÖDÉS SORÁN HASZNÁLT TÁMOGATÓ SZOLGÁLTATÁSOK
 
-79. § (1) Az együttműködés elősegítése érdekében az együttműködő szerv az együttműködés során, valamint a belső elektronikus ügymenete során a VI. és VII. Fejezetben, valamint e törvény végrehajtási rendeletében meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat igénybe veheti.
+79. § (1) Az együttműködés elősegítése érdekében az együttműködő szerv az együttműködés során, valamint a belső elektronikus ügymenete során a VI. és VII. Fejezetben, valamint e törvény végrehajtási rendeletében meghatározott támogató szolgáltatásokat igénybe veheti.
 
 (2) Az (1) bekezdés szerinti igénybevétel során a VI. és VII. Fejezetben meghatározott szabályokat értelemszerűen, az adatkezelésére vonatkozó szabályok betartásával kell alkalmazni.
 
