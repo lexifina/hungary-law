@@ -1,3 +1,3 @@
-4. § (1) Az R. 2. melléklete az 1. melléklet szerint módosul.
+4. §[^5]
 
-(2) Az R. a 2. melléklet szerinti 16. melléklettel egészül ki.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
