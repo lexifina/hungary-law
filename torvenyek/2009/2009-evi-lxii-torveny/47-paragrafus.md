@@ -36,7 +36,7 @@ lb) a közúti közlekedésről szóló törvényben meghatározott ellenőrző 
 
 m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
 
-n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett;
+n) a 46. § (2) bekezdés a), d) és e) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett;
 
 o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – a gépjármű hatósági jelzése alapján – a biztosítási kockázatviselés fennállásának tényére vonatkozóan a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényben (a továbbiakban: Kknyt.) meghatározott járműéletút-adatszolgáltatás céljából a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv.
 
