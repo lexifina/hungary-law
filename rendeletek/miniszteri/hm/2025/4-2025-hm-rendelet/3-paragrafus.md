@@ -1,3 +1,3 @@
-3. § Az R. 7. § (5) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(5) Az egy projekthez több forrásból igénybe vett összes állami támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – mértéke nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

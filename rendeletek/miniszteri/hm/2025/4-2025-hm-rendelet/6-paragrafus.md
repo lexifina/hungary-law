@@ -1,3 +1,3 @@
-6. § Az R. 22. § a) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(Ez a rendelet)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
