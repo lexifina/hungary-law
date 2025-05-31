@@ -1,0 +1,1 @@
+11. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 256. § (1) bekezdésében a „nem létesíthet” szövegrész helyébe a „kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, továbbá” szöveg lép.
