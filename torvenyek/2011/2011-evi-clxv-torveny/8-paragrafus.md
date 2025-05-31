@@ -41,3 +41,5 @@ e) minden olyan kérdés, amelyet az alapszabály a küldöttgyűlés kizáróla
 (7) Az Országos Polgárőr Szövetség gazdálkodását az ellenőrző testület mellett a küldöttgyűlés által választott könyvvizsgáló is ellenőrzi. Az ellenőrző testület, valamint a könyvvizsgáló írásbeli jelentése hiányában a küldöttgyűlés a számvitelről szóló törvény szerinti beszámolóról nem dönthet.
 
 (8) Az Országos Polgárőr Szövetség működésének részletes szabályait e törvény, valamint az egyéb jogszabályok rendelkezéseinek figyelembevételével a küldöttgyűlés által elfogadott alapszabály határozza meg.
+
+(9) Az Országos Polgárőr Szövetség vezető tisztségviselője az annak tagegyesületében tagsággal és polgárőr igazolvánnyal rendelkező természetes személy lehet.

@@ -31,3 +31,5 @@ e) a működési területén működő polgárőr egyesület Országos Polgárő
 f) elfogadja a területi polgárőr szövetség éves költségvetését, valamint a költségvetés végrehajtásáról szóló beszámolót, valamint
 
 g) elbírálja a működési támogatásra vonatkozó kérelmet.
+
+(7) Területi polgárőr szövetség vezető tisztségviselője az annak tagegyesületében tagsággal és polgárőr igazolvánnyal rendelkező természetes személy lehet.
