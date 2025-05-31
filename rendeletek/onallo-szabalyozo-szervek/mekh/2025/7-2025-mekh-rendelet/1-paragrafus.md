@@ -1,0 +1,7 @@
+## [1] A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendeletnek a 2/2025. (V. 8.) AB határozat következtében történő módosítása kapcsán a jogszabályok tartalmának összhangba hozása, valamint a számlázás egységének megőrzése érdekében vált szükségessé a Hivatal rendeletének módosítása is.
+
+## [2] A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdés 1. pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+1. § A villamos energia rendszerhasználati díjak és külön díjak alkalmazási szabályairól szóló 10/2024. (XI. 14.) MEKH rendelet (a továbbiakban: Rendelet) a következő 44. §-sal egészül ki:
+
+„44. § E rendeletnek a villamos energia rendszerhasználati díjak és külön díjak alkalmazási szabályairól szóló 10/2024. (XI. 14.) MEKH rendelet módosításáról szóló 7/2025. (V. 30.) MEKH rendelettel módosított 19. § (3) bekezdése, 19. § (3a) bekezdés a) és b) pontja és 19. § (4) bekezdés b) pontja alapján újonnan, a módosítás következtében létrejött szaldó elszámolási jogosultság a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 126. §-ában foglalt időszakban áll fenn.”
