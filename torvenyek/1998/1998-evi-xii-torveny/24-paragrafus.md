@@ -10,7 +10,7 @@ b) az állampolgár arcképmását és saját kezű aláírását, ha 12. élet�
 
 c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 
-d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, amennyiben ezen nyilatkozat figyelembe vételével került sor úti okmány kiállítására, illetve a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatai közül a bíróság vagy hatóság megnevezését, ügyszámát,
+d) kiskorú esetében a külföldre utazáshoz hozzájáruló szülői nyilatkozat, szülők között létrejött megállapodás adatait, amennyiben ezen nyilatkozat, megállapodás figyelembevételével került sor úti okmány kiállítására, továbbá a szülői felügyeleti jog megszűnését, szünetelését, megszüntetését, visszaállítását igazoló végleges gyámhatósági, jogerős bírósági döntés vagy egyéb közokirat esetén az eljáró szerv megnevezését, ügyszámát,
 
 e) az állampolgár számára kiadott úti okmány típusát, számát, érvényességének tényét, kiállítás szerinti érvényességi idejét, valamint az úti okmányra való jogosultság megszűnésének okát és időpontját,
 
