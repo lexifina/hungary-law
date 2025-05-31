@@ -84,7 +84,7 @@ a) a Magyar Honvédség központi nyilvántartó szervének és a területi kato
 
 b) az idegenrendészeti hatóságnak a huzamos tartózkodási jogosultsággal rendelkező polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, külföldön történő letelepedéséről, továbbá a huzamos tartózkodási jogosultsággal rendelkező polgár családi állapotának változásáról;
 
-c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
+c)
 
 d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
 
