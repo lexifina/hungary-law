@@ -2,13 +2,13 @@
 
 a) amelyet a vonatkozó nemzeti vagy európai kiberbiztonsági tanúsítási rendszerben meghatározott követelményekre figyelemmel a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv akkreditált vagy külföldi akkreditált státusz esetén e státuszát elismerte,
 
-b) amely az SZTFH elnökének – a 45. § (1) bekezdés b) pontja szerinti tanúsító hatóság tekintetében a Kormány – rendeletében az egyes megbízhatósági szintekre vonatkozóan meghatározott követelményeknek megfelel, és
+b) amely – az európai tanúsítási rendszer kivételével – az SZTFH elnökének – a 45. § (1) bekezdés b) pontja szerinti tanúsító hatóság tekintetében a Kormány – rendeletében az egyes megbízhatósági szintekre vonatkozóan meghatározott követelményeknek megfelel, és
 
 c) amelyet a tanúsító hatóság nyilvántartásba vett.
 
-(2) A megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat
+(2) A megfelelőségi önértékelésre, a tanúsítási eljárásra, európai tanúsítási rendszer esetében az (1) bekezdés c) pontja szerinti nyilvántartásba vétel feltételeire, valamint a megfelelőségértékelő szervezetek kötelezettségeire és tevékenységére vonatkozó részletes szabályokat
 
-a) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével az SZTFH elnöke
+a) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével az SZTFH elnöke,
 
 b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem vonatkozásban a Kormány
 

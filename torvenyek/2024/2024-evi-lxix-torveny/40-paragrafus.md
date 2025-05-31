@@ -4,15 +4,15 @@
 
 (2) A megbízhatósági szint arra vonatkozóan szolgál biztosítékkal, hogy az adott IKT-termékek, IKT-szolgáltatások vagy IKT-folyamatok teljesítik a vonatkozó biztonsági követelményeket, biztonsági funkciókat és olyan szintű értékelésen estek át, amely
 
-a) „alap” megbízhatósági szinten a biztonsági eseményekkel és támadásokkal kapcsolatos alapvető, ismert kockázatok,
+a) „alap” megbízhatósági szinten a kiberbiztonsági incidensekkel és támadásokkal kapcsolatos alapvető, ismert kockázatok,
 
-b) „jelentős” megbízhatósági szinten az ismert kiberbiztonsági kockázatok, valamint a korlátozott szakértelemmel és erőforrásokkal rendelkező elkövetők által végrehajtott biztonsági események és kiberbiztonsági támadások kockázatának,
+b) „jelentős” megbízhatósági szinten az ismert kiberbiztonsági kockázatok, valamint a korlátozott szakértelemmel és erőforrásokkal rendelkező elkövetők által végrehajtott kiberbiztonsági incidensek és kiberbiztonsági támadások kockázatának,
 
 c) „magas” megbízhatósági szinten a jelentős szakértelemmel és erőforrásokkal rendelkező elkövetők által, a tudomány legutolsó állása szerinti technológiával végrehajtott kibertámadások kockázatának
 
 minimalizálására törekszik.
 
-(3) A megbízhatósági szintnek a biztonsági események valószínűsége és hatása szempontjából arányban kell állnia az IKT-termék, az IKT-szolgáltatás vagy az IKT-folyamat rendeltetés szerinti használatához kapcsolódó kockázat szintjével.
+(3) A megbízhatósági szintnek a kiberbiztonsági incidensek valószínűsége és hatása szempontjából arányban kell állnia az IKT-termék, az IKT-szolgáltatás vagy az IKT-folyamat rendeltetés szerinti használatához kapcsolódó kockázat szintjével.
 
 (4) Az elvégzendő értékelési tevékenységeknek legalább a következőket kell magukban foglalniuk:
 

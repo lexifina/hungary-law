@@ -34,7 +34,7 @@ b) a központi rendszer felett rendelkezési jogot gyakorló szervezet által me
 
 c) a központi rendszert érintő kiberbiztonsági incidenseket bejelenti az illetékes kiberbiztonsági incidenskezelő központ és a központi rendszer felett rendelkezési jogot gyakorló szervezet részére.
 
-(3) Jogszabály alapján kötelezően igénybe vett felett rendelkezési jogot gyakorló szervezet esetén a központi rendszer szolgáltatója és a felhasználó szervezet közötti feladat- és felelősségmegosztást az adott központi rendszerre vonatkozó jogszabály rögzíti. Ennek hiányában, valamint önkéntesen igénybe vett központi rendszer esetében a központi rendszer felett rendelkezési jogot gyakorló szervezet és a felhasználó szervezet szolgáltatási szerződést köt.
+(3) Jogszabály alapján kötelezően igénybe vett központi rendszer felett rendelkezési jogot gyakorló szervezet esetén a központi rendszer szolgáltatója és a felhasználó szervezet közötti feladat- és felelősségmegosztást az adott központi rendszerre vonatkozó jogszabály rögzíti. Ennek hiányában, valamint önkéntesen igénybe vett központi rendszer esetében a központi rendszer felett rendelkezési jogot gyakorló szervezet és a felhasználó szervezet szolgáltatási szerződést köt.
 
 (4) A központi rendszerekről a nemzeti kiberbiztonsági hatóság nyilvántartást vezet.
 

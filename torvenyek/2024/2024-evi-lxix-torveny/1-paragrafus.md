@@ -8,13 +8,17 @@
 
 a) az 1. mellékletben felsorolt, a közigazgatási ágazathoz tartozó szervezetekre,
 
-b) a többségi állami befolyás alatt álló azon gazdálkodó szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint meghaladják a középvállalkozásokra vonatkozó küszöbértékeket,
+b) a többségi állami befolyás alatt álló azon gazdálkodó szervezetekre, amelyek nem tartoznak az a) pont hatálya alá és amelyek vonatkozásában legalább az egyik feltétel teljesül az alábbiak közül:
+
+ba) összes foglalkoztatotti létszáma eléri vagy meghaladja az 50 főt, vagy
+
+bb) éves nettó árbevétele és mérlegfőösszege meghaladja a 10 millió eurónak megfelelő forintösszeget,
 
 c) a 23. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági hatóság (a továbbiakban: nemzeti kiberbiztonsági hatóság), vagy a 23. § (2) bekezdése szerinti honvédelmi kiberbiztonsági hatóság (a továbbiakban: honvédelmi kiberbiztonsági hatóság) által a (6) bekezdés szerint alapvető vagy fontos szervezetként azonosított, az a), b) és d)–f) pont, valamint az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó szervezetekre,
 
-d) a 2. és 3. melléklet szerinti szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásoknak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket,
+d) azokra a 2. és 3. melléklet szerinti szervezetekre, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásoknak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket, és nem tartoznak az a) pont hatálya alá,
 
-e) méretüktől függetlenül a 2. és 3. melléklet szerinti szervezetekre, ha a szervezet
+e) méretüktől függetlenül, az a) pont hatálya alá nem tartozó, a 2. és 3. melléklet szerinti szervezetekre, ha a szervezet
 
 ea) elektronikus hírközlési szolgáltató,
 
@@ -30,13 +34,15 @@ f) a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági tá
 
 (2) A kritikus szervezetek ellenálló képességéről szóló törvény (a továbbiakban: Kszetv.) alapján kijelölt kritikus szervezetek és kritikus infrastruktúrák (a továbbiakban együtt: kritikus szervezet), valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény (a továbbiakban: Vbö.) alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezetek és infrastruktúrák (a továbbiakban együtt: az ország védelme és biztonsága szempontjából jelentős szervezet) vonatkozásában a szervezetnek az (1) bekezdés szerinti minősülése az irányadó e törvény rendelkezéseinek az alkalmazása során, kivéve, ha a kritikus szervezet vagy az ország védelme és biztonsága szempontjából jelentős szervezet az (EU) 2022/2554 európai parlamenti és tanácsi rendelet hatálya alá tartozik.
 
+(2a) E törvénynek – a 9. § és a 13–15. § kivételével – az 1. § (1) bekezdés a) pontja szerinti szervezetekre irányadó rendelkezéseit kell alkalmazni arra a kritikus szervezetre vagy az ország védelme és biztonsága szempontjából jelentős szervezetre, amely nem minősül az (1) bekezdés szerinti szervezetnek.
+
 (3) A szervezetek – az általuk nyújtott szolgáltatásnak az állam, a társadalom, a gazdaság működése szempontjából való kritikussága, valamint bizonyos esetekben a szervezet mérete alapján – alapvető vagy fontos szervezeteknek minősülnek.
 
 (4) Az (1) bekezdés szerinti szervezetek közül alapvető szervezetnek minősülnek az alábbi szervezetek:
 
 a) az 1. melléklet szerinti szervezetek, kivéve a 20 000 főt meg nem haladó lakosságszámú települések képviselő-testületének hivatalai,
 
-b) a többségi állami befolyás alatt álló gazdálkodó szervezetek, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket,
+b) az (1) bekezdés b) pontja szerinti szervezetek,
 
 c) azon szervezetek, amelyeket a nemzeti kiberbiztonsági hatóság vagy a honvédelmi kiberbiztonsági hatóság alapvető szervezetként azonosított,
 
@@ -47,6 +53,8 @@ e) a Vbö. alapján kijelölt, az ország védelme és biztonsága szempontjáb�
 f) a 2. melléklet szerinti azon szervezetek, amelyek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint középvállalkozásnak minősülnek vagy meghaladják a középvállalkozásokra vonatkozóan előírt küszöbértékeket, valamint
 
 g) a minősített bizalmi szolgáltatók és a legfelső szintű doménnév-nyilvántartók, valamint a DNS-szolgáltatók, méretüktől függetlenül.
+
+h) a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok.
 
 (5) Az (1) bekezdés szerinti szervezetek közül fontos szervezetnek minősülnek és a szervezetekre vonatkozó rendelkezéseket az e törvényben foglalt eltérésekkel kell alkalmazni az alábbi szervezetekre:
 
@@ -108,7 +116,7 @@ bf) a hulladékról szóló törvény.
 
 (9) E törvény sérülékenységvizsgálatra vonatkozó rendelkezéseit kell alkalmazni:
 
-a) az (1) bekezdés a)–c) pontja szerinti szervezetek elektronikus információs rendszereit, valamint
+a) az (1) bekezdés a)–c) és f) pontja szerinti szervezetek elektronikus információs rendszereit, valamint
 
 b) a megállapodásban foglalt eltérésekkel a 61. § szerinti megállapodásban meghatározott elektronikus információs rendszereket
 

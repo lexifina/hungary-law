@@ -44,7 +44,7 @@ d) a szervezet rendelkezésében lévő vagy a szervezet által használt egyéb
 
 13. gondoskodik a kiberbiztonsági hatósági kötelezések teljesítéséről.
 
-(4) A (3) bekezdés 10. pontjában meghatározott feladatokat a szervezet vezetője legalább kétévente, a biztonsági osztályba sorolás felülvizsgálatával egyidejűleg hajtja végre.
+(4) A (3) bekezdés 10. pontjában meghatározott feladatokat a szervezet vezetője legalább kétévente, az információbiztonsági szabályzat felülvizsgálatával, illetve amennyiben annak végrehajtására kötelezett, a biztonsági osztályba sorolás felülvizsgálatával egyidejűleg hajtja végre.
 
 (5) A szervezet vezetője az elektronikus információs rendszer védelmének biztosítása érdekében
 
@@ -74,16 +74,16 @@ j) megteszi az elektronikus információs rendszer védelme érdekében felmerü
 
 (8) Az (1)–(5) bekezdés szerinti egyes követelményeknek való megfelelés igazolására – ha rendelkezésre áll – európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termék, IKT-szolgáltatás vagy IKT-folyamat alkalmazható.
 
-(9) Az informatikáért felelős miniszter rendeletében – a honvédelmi célú elektronikus információs rendszerek tekintetében a honvédelmi miniszter rendeletében – meghatározott, 1. § (1) bekezdés a)–c) pontja szerinti szervezetek, valamint az SZTFH elnökének rendeletében meghatározott, 1. § (1) bekezdés d) és e) pontja szerinti szervezetek kötelesek az európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított – az informatikáért felelős miniszter, a honvédelmi miniszter vagy az SZTFH elnöke rendeletében meghatározott – IKT-terméket, IKT-szolgáltatást vagy IKT-folyamatot használni.
+(9) Az informatikáért felelős miniszter rendeletében – a honvédelmi célú elektronikus információs rendszerek tekintetében a honvédelmi miniszter rendeletében – meghatározott, 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezetek, valamint az SZTFH elnökének rendeletében meghatározott, 1. § (1) bekezdés d) és e) pontja szerinti szervezetek kötelesek az európai vagy nemzeti kiberbiztonsági tanúsítási rendszer alapján tanúsított – az informatikáért felelős miniszter, a honvédelmi miniszter vagy az SZTFH elnöke rendeletében meghatározott – IKT-terméket, IKT-szolgáltatást vagy IKT-folyamatot használni.
 
 (10) Az 1. § (1) bekezdés a) és c) pontja hatálya alá tartozó fontos szervezet, valamint a 2. és 3. melléklet szerinti szervezetnek nem minősülő, 1. § (1) bekezdés b) pontja hatálya alá tartozó szervezet rendelkezésében lévő elektronikus információs rendszerek vonatkozásában
 
 a) nem szükséges a (2) bekezdésben foglalt teljes körű kockázatmenedzsment keretrendszert működtetni,
 
-b) nem kell teljesíteni a (3) bekezdés 4–5., 9. pontjában és a (4) bekezdésben foglaltakat, valamint
+b) nem kell teljesíteni a (3) bekezdés 4–5. és 9. pontjában foglaltakat, valamint
 
 c) legalább az „alap” biztonsági osztályra irányadó követelményeket kell teljesíteni.
 
 (11) A honvédelmi célú elektronikus információs rendszer felett rendelkezési jogosultsággal bíró szervezet a honvédelmi célú elektronikus információs rendszer vonatkozásában a hatósági eljárásban a honvédelmi kiberbiztonsági hatóságot keresi meg, az e törvény által előírt bejelentési és egyéb kötelezettségeket a honvédelmi kiberbiztonsági hatóság felé teljesíti.
 
-(12) A hazai kiberbiztonsági gyakorlatok megtartásának részletszabályait, valamint az 1. § (1) bekezdés a)–c) pontja hatálya alá tartozó szervezetek kötelezettségeire vonatkozó részletes rendelkezéseket kormányrendelet határozza meg.
+(12) A hazai kiberbiztonsági gyakorlatok megtartásának részletszabályait, valamint az 1. § (1) bekezdés a)–c) és f) pontja hatálya alá tartozó szervezetek kötelezettségeire vonatkozó részletes rendelkezéseket kormányrendelet határozza meg.

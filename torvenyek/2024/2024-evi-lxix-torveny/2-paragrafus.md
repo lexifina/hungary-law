@@ -4,7 +4,7 @@ a) a Magyarország területén letelepedett vagy letelepedett képviselővel ren
 
 b) a Magyarország területén szolgáltatást nyújtó elektronikus hírközlési szolgáltatókra,
 
-c) azokra a DNS-szolgáltatókra, legfelső szintű doménnév-nyilvántartókra, doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetekre, felhőszolgáltatókra, adatközpont-szolgáltatókra, tartalomszolgáltató hálózati szolgáltatókra, irányított szolgáltatókra, irányított biztonsági szolgáltatókra, az online piacterek, online keresőprogramok és közösségimédia-szolgáltatási platformok szolgáltatóira, amelyek üzleti tevékenységének fő helye Magyarország területén található.
+c) azokra a DNS-szolgáltatókra, legfelső szintű doménnév-nyilvántartókra, doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetekre, felhőszolgáltatókra, adatközpont-szolgáltatókra, tartalomszolgáltató hálózati szolgáltatókra, kihelyezett (irányított) infokommunikációs szolgáltatást nyújtó szolgáltatókra, kihelyezett (irányított) infokommunikációs biztonsági szolgáltatást nyújtó szolgáltatókra, az online piacterek, online keresőprogramok és közösségimédia-szolgáltatási platformok szolgáltatóira, amelyek üzleti tevékenységének fő helye Magyarország területén található.
 
 (2) Az (1) bekezdés c) pontja szerinti szervezet üzleti tevékenységének fő helye abban az esetben van Magyarországon, ha
 

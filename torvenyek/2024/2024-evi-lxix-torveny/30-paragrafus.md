@@ -22,7 +22,7 @@ a) kötelezheti a szervezetet arra, hogy a jogszabálysértés tényét és kör
 
 b) elrendelheti a szervezet által nyújtott szolgáltatásokat igénybe vevők tájékoztatását az azokat potenciális érintő fenyegetésről, valamint az ilyen fenyegetés elhárításához szükséges vagy lehetséges megelőző, védelmi vagy helyreállítási intézkedésekről, azok várható hatásairól,
 
-c) kiberbiztonsági incidens bekövetkezése esetén honlapján tájékoztathatja a nyilvánosságot, illetve a szervezeteket határozatban kötelezheti tájékoztatásra, ha az egy adott biztonsági esemény megelőzéséhez vagy egy már folyamatban lévő kiberbiztonsági incidens kezeléséhez szükséges és
+c) kiberbiztonsági incidens bekövetkezése esetén honlapján tájékoztathatja a nyilvánosságot, illetve a szervezeteket határozatban kötelezheti tájékoztatásra, ha az egy adott kiberbiztonsági incidens megelőzéséhez vagy egy már folyamatban lévő kiberbiztonsági incidens kezeléséhez szükséges és
 
 d) kötelezheti a szervezetet arra, hogy válságkezelési vagy veszélyhelyzet-kezelési intézkedés megtételének szükségessége esetén a kiberbiztonsági hatóságot tájékoztassa.
 
@@ -38,7 +38,7 @@ b) kezdeményezheti a cégbíróságnál az alapvető szervezet vezetőjének az
 
 (9) A kiberbiztonsági hatóság a jogkövetkezmények alkalmazása során az arányosság és a fokozatosság szempontjait figyelembe véve jár el, szem előtt tartva a jogkövetkezmény hatékonyságát és visszatartó erejét.
 
-(10) Ha a hatósági kötelezést az 1. § (1) bekezdés a)–c) pontja szerinti szervezet figyelmen kívül hagyja, vagy a nemzeti kiberbiztonsági hatóság által javasolt védelmi intézkedéseket önhibájából nem teljesíti és ezzel kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet áll elő, a nemzeti kiberbiztonsági hatóság a szervezetet a kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet bekövetkezésének elhárítására fordított költségének megtérítésére kötelezheti.
+(10) Ha a hatósági kötelezést az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet figyelmen kívül hagyja, vagy a nemzeti kiberbiztonsági hatóság által javasolt védelmi intézkedéseket önhibájából nem teljesíti és ezzel kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet áll elő, a nemzeti kiberbiztonsági hatóság a szervezetet a kiberbiztonsági incidens vagy kiberbiztonsági incidensközeli helyzet bekövetkezésének elhárítására fordított költségének megtérítésére kötelezheti.
 
 (11) Ha az 1. § (1) bekezdés d) és e) pontja szerinti szervezet a jogszabályokban foglalt kiberbiztonsági követelményeket vagy az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, az SZTFH az (1)–(5) bekezdésben foglaltakon túl
 

@@ -86,7 +86,7 @@ a) a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói i
 
 b) az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet és infrastruktúra elektronikus információs rendszerei,
 
-c) az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi szervezet és honvédelmi infrastruktúra elektronikus információs rendszerei, valamint
+c) az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet és infrastruktúra elektronikus információs rendszerei, valamint
 
 d) a honvédelmi kiberbiztonsági hatóság által alapvető vagy fontos szervezetként azonosított szervezet elektronikus információs rendszere;
 
@@ -194,7 +194,7 @@ b) a honvédségi szervezetek által, a törvényben meghatározott katonai műv
 
 79. nemzeti kiberbiztonsági tanúsítvány: olyan független harmadik fél által kiállított dokumentum, amely igazolja, hogy egy adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat esetében értékelték, hogy az megfelel-e valamely nemzeti kiberbiztonsági tanúsítási rendszer biztonsági követelményeinek;
 
-80. nemzeti válságkezelési terv: az (EU) 2022/2555 európai parlamenti és tanácsi irányelv alapján a nagyszabású kiberbiztonsági események és válságok elhárítására szolgáló nemzeti terv, amely meghatározza a nagyszabású kiberbiztonsági események és válságok kezelésének célkitűzéseit és szabályait;
+80. nemzeti válságkezelési terv: az (EU) 2022/2555 európai parlamenti és tanácsi irányelv alapján a nagyszabású kiberbiztonsági incidensek és válságok elhárítására szolgáló nemzeti terv, amely meghatározza a nagyszabású kiberbiztonsági incidensek és válságok kezelésének célkitűzéseit és szabályait;
 
 81. online keresőprogram: az online közvetítő szolgáltatások üzleti felhasználói tekintetében alkalmazandó tisztességes és átlátható feltételek előmozdításáról szóló, 2019. június 20-i (EU) 2019/1150 európai parlamenti és tanácsi rendelet 2. cikk 5. pontjában meghatározott fogalom;
 

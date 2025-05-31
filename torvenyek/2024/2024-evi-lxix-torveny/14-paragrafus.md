@@ -1,8 +1,10 @@
-14. § (1) A 13. §-ban foglaltaktól eltérően, ha az elektronikus információs rendszer fejlesztése
+14. § (1) Ha az elektronikus információs rendszer fejlesztése
 
-a) az 1. § (1) bekezdés b) pontja szerinti és egyben a 2. vagy 3. melléklet szerinti szervezetnek minősülő alapvető szervezet által történik, az alapvető szervezet köteles biztonsági osztályba sorolni az elektronikus információs rendszert és az annak megfelelő védelmi követelményeket kell teljesíteni,
+a) a 2. vagy 3. melléklet szerinti szervezetnek nem minősülő, az 1. § (1) bekezdés b) pontja szerinti alapvető szervezet vagy
 
-b) fontos szervezet által történik, a fejlesztés során legalább az „alap” biztonsági osztálynak megfelelő védelmi követelményeket kell teljesíteni.
+b) az 1. § (1) bekezdés a) és c) pontja szerinti fontos szervezet által történik,
+
+a 13. §-ban foglaltak helyett e § rendelkezései az irányadóak.
 
 (2) Az (1) bekezdés szerinti szervezet intézkedik a védelmi követelmények megvalósulása iránt a fejlesztést végző szervezet felé.
 

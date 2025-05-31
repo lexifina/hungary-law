@@ -8,7 +8,7 @@ a) gondoskodik a jogszabályban és a hatóság honlapján meghatározottak szer
 
 b) biztosítja az ellenőrzés lefolytatásához szükséges feltételeket.
 
-(4) Az 1. § (1) bekezdés a)–c) pontja szerinti szervezet – az 51. alcímben foglalt kivételekkel – az e törvény hatálya alá kerülését követő
+(4) Az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet – az 51. alcímben foglalt kivételekkel – az e törvény hatálya alá kerülését követő
 
 a) 30 napon belül bejelenti a nemzeti kiberbiztonsági hatóság részére a 28. § (1) bekezdés 1. pont a)–e) és j) alpontjában meghatározott adatokat,
 
@@ -20,7 +20,7 @@ d) 120 napon belül – ha releváns – elvégzi a 9. § szerinti adatosztályo
 
 e) 180 napon belül megküldi a nemzeti kiberbiztonsági hatóság részére a szervezet információbiztonsági szabályzatát,
 
-f) 180 napon belül – a 6. § szerinti kockázatmenedzsment keretrendszer létrehozatalával együttesen – elvégzi a már meglévő elektronikus információs rendszereinek biztonsági osztályba sorolását és megteszi a Kormány rendeletében meghatározott tartalmú bejelentést a nemzeti kiberbiztonsági hatóságnak.
+f) 180 napon belül a 6. § szerinti kockázatmenedzsment keretrendszer létrehozatalával együttesen – amennyiben annak végrehajtására kötelezett – elvégzi a már meglévő elektronikus információs rendszereinek biztonsági osztályba sorolását, valamint felméri az elektronikus információs rendszerekhez kapcsolódó védelmi intézkedéseket, azok megfelelőségét és státuszát, továbbá megteszi a Kormány rendeletében meghatározott tartalmú bejelentést a nemzeti kiberbiztonsági hatóságnak.
 
 (5) Az 1. § (1) bekezdés b) pontja hatálya alá tartozó, és egyidejűleg 2. és 3. melléklet szerinti szervezetnek minősülő szervezet, valamint az 1. § (1) bekezdés d) és e) pontja szerinti szervezet köteles a működése megkezdését követő vagy az e törvény hatálya alá kerülést követő 30 napon belül a 29. § (1) bekezdés a) pontjában meghatározott adatokat – a 29. § (1) bekezdés a) pont ab) alpontja szerinti adatok kivételével – megküldeni az SZTFH részére a nyilvántartásba vétel érdekében.
 

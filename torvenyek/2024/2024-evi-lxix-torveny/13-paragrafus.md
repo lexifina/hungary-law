@@ -4,7 +4,7 @@
 
 a) az 1. § (1) bekezdés a) és c) pontja szerinti szervezet, valamint
 
-b) a 2. és 3. melléklet szerinti szervezetnek nem minősülő, az 1. § (1) bekezdés b) pontja szerinti szervezet.
+b) az 1. § (1) bekezdés b) pontja szerinti és egyben a 2. és 3. melléklet szerinti szervezetnek minősülő szervezet.
 
 (2) Elektronikus információs rendszer fejlesztése esetén a szervezet az információbiztonsági követelmények teljesülésének biztosítása és az elektronikus információs rendszer működésének nemzeti kiberbiztonsági hatóság általi jóváhagyása érdekében a kormányrendeletben meghatározottak szerint jár el.
 

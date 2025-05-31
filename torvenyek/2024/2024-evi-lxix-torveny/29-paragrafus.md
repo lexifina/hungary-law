@@ -22,7 +22,7 @@ d) a kiberbiztonsági incidensek kezelésére jogosult gazdálkodó szervezetek 
 
 (2) Az SZTFH összeállítja az 1. § (1) bekezdés d) és e) pontja hatálya alá tartozó alapvető és fontos szervezetek, valamint a doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetek jegyzékét, és azt kétévente felülvizsgálja. A jegyzék összeállítását és felülvizsgálatát követően az SZTFH tájékoztatja a nemzeti kiberbiztonsági hatóságot a kormányrendeletben meghatározott adatokról.
 
-(3) Az (1) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a kiberbiztonsági hatóságok, valamint a kiberbiztonsági incidenskezelő központok részére végezhető.
+(3) Az (1) bekezdés szerinti nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a kiberbiztonsági hatóságok, a kiberbiztonsági incidenskezelő központok, valamint a 24. § (9) bekezdése szerinti szervezetek részére végezhető.
 
 (4) Az SZTFH közvetlen hozzáférést biztosít a nemzeti kiberbiztonsági hatóság, valamint a nemzeti kiberbiztonsági incidenskezelő központ részére a szervezetnek az SZTFH által kezelt nyilvántartási adataihoz.
 

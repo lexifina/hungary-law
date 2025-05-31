@@ -2,7 +2,7 @@
 
 12. § (1) A kiberbiztonsággal kapcsolatos képzést folytató felsőoktatási intézmény a képzési tevékenység ellátásával összefüggésben
 
-a) gondoskodik az elektronikus információs rendszer biztonságáért felelős személyek képzéséről, továbbá
+a)
 
 b) közreműködhet az információbiztonsági, kibervédelmi, valamint a kritikus szervezetek vonatkozásában a komplex ellenálló képességi gyakorlatokon.
 

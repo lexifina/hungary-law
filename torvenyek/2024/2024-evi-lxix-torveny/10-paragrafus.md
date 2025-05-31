@@ -8,7 +8,7 @@
 
 (4) A szervezet az elektronikus információs rendszer biztonsági osztálya alapján meghatározza és megvalósítja az informatikáért felelős miniszter rendeletében előírt védelmi intézkedéseket az adott elektronikus információs rendszerre vonatkozóan.
 
-(5) Az 1. § (1) bekezdés a) pontja szerinti szervezet, valamint a 2. és 3. melléklet szerinti szervezetnek nem minősülő, 1. § (1) bekezdés b) pontja szerinti szervezet elektronikus információs rendszere vonatkozásában az e törvény hatálya alá kerüléskor teljesítenie kell legalább az informatikáért felelős miniszter rendeletében az „alap” biztonsági osztály vonatkozásában előírt védelmi intézkedéseket.
+(5) Az 1. § (1) bekezdés a) és a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti szervezet, valamint a 2. és 3. melléklet szerinti szervezetnek nem minősülő, 1. § (1) bekezdés b) pontja szerinti szervezet elektronikus információs rendszere vonatkozásában az e törvény hatálya alá kerüléskor teljesítenie kell legalább az informatikáért felelős miniszter rendeletében az „alap” biztonsági osztály vonatkozásában előírt védelmi intézkedéseket.
 
 (6) Ha az (5) bekezdés szerinti elektronikus információs rendszer vonatkozásában a biztonsági osztályba sorolás alapján az „alap”-nál magasabb biztonsági osztály került meghatározásra, a védelem elvárt erősségének eléréséhez a szervezetnek a biztonsági osztályba sorolást követően legfeljebb két év áll rendelkezésére a biztonsági osztályhoz rendelt biztonsági intézkedések kivitelezésére.
 

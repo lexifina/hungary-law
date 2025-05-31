@@ -12,4 +12,4 @@ b) a kiberbiztonsági auditot első alkalommal a nyilvántartásba vételét kö
 
 (4) Ha az (1) bekezdés szerinti szervezet honvédelmi célú elektronikus információs rendszer felett is rendelkezési jogosultsággal bír, a szervezet vezetője felelős a (3) bekezdésben foglalt rendelkezések teljesüléséért.
 
-(5) A honvédelmi kiberbiztonsági hatóság a jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett honvédelmi szervezet és honvédelmi infrastruktúra elektronikus információs rendszere esetében a honvédelmi célú elektronikus információs rendszerként történő nyilvántartásba vételről tájékoztatja az SZTFH-t.
+(5) A honvédelmi kiberbiztonsági hatóság a jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok és az ország védelme és biztonsága szempontjából jelentős kettős kijelöléssel nem érintett szervezet és honvédelmi infrastruktúra elektronikus információs rendszere esetében a honvédelmi célú elektronikus információs rendszerként történő nyilvántartásba vételről tájékoztatja az SZTFH-t.

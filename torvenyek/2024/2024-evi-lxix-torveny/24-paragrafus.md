@@ -62,7 +62,7 @@ b) elrendelhet és ellenőrizhet minden olyan, az elektronikus információs ren
 
 c) nyilvántartja a 29. § (1) bekezdése szerinti adatokat,
 
-d) jelentős biztonsági esemény bekövetkezése vagy a biztonsági követelményeknek való nem megfelelés gyanúja esetén rendkívüli ellenőrzést hajthat végre vagy rendkívüli auditot rendelhet el,
+d) jelentős kiberbiztonsági incidens bekövetkezése vagy a biztonsági követelményeknek való nem megfelelés gyanúja esetén rendkívüli ellenőrzést hajthat végre vagy rendkívüli auditot rendelhet el,
 
 e) a cél megjelölésével jogosult a szervezettől bekérni és megismerni:
 
@@ -82,4 +82,4 @@ b) a kijelölt képviselővel egyik európai uniós tagállamban sem rendelkező
 
 (8) A kiberbiztonsági hatóság jogszabályban meghatározott feladatai ellátása érdekében jogosult kockázatelemzés alapján rangsorolni a felügyeleti feladatok végrehajtását.
 
-(9) Az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti szerv minden év február 1. napjáig tájékoztatja az SZTFH-t – a 23. § (1) bekezdés b) pontja szerinti kiberbiztonsági felügyelettel kapcsolatos feladatok ellátása céljából – a 3. mellékletben foglalt táblázat 3. sora szerinti szervezetek megnevezéséről és székhelyéről.
+(9) A Kormány rendeletében meghatározott élelmiszerlánc-felügyeleti szervek minden év február 1. napjáig tájékoztatják az SZTFH-t – a 23. § (1) bekezdés b) pontja szerinti kiberbiztonsági felügyelettel kapcsolatos feladatok ellátása céljából – a 3. mellékletben foglalt táblázat 3. sora szerinti szervezetek megnevezéséről, székhelyéről és adószámáról.
