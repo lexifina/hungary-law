@@ -32,4 +32,6 @@ l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgált
 
 m) turisztikailag kiemelt jelentőségű településeket
 
+n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön Nemzeti Turisztikai Adatszolgáltató Központ közreműködésével történő nyújtásának és igénybevételének részletes szabályait
+
 rendeletben határozza meg.
