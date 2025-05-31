@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2024-07-01 | 2024. évi XIII. törvény | 2014-76-00-00.28 |
 | 2024-09-01 | 2024. évi XII. törvény | 2014-76-00-00.27 |
 | 2025-01-01 | 2024. évi XCI. törvény | 2014-76-00-00.30 |
+| 2025-05-31 | 2025. évi XXXVIII. törvény | 2014-76-00-00.32 |

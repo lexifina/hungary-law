@@ -16,7 +16,7 @@ d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációj�
 
 e) a technológia transzfer tevékenységgel összefüggő részletes szabályokat,
 
-f) a Magyar Formatervezési Tanács feladatainak, szervezetének és működésének részletes szabályait,
+f) a Magyar Kreatívipari Tanács feladatainak, szervezetének és működésének részletes szabályait,
 
 g) a kutatóhely költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait.
 
