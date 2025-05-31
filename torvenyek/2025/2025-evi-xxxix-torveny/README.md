@@ -1,0 +1,7 @@
+# 2025. évi XXXIX. törvény az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-39-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2025-05-31 | 2025. évi XXXIX. törvény | 2025-39-00-00.0 (közlönyállapot) |
