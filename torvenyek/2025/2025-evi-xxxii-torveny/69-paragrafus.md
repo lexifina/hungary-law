@@ -24,11 +24,7 @@
 
 ## c) a – 11. § (3) bekezdés b) pontjában megjelölt szervezetek vonatkozásában – az elektronikus információs rendszer biztonságáért felelős személyeknél a feladatellátásához szükséges végzettséget, a szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét, vagy az elfogadható szakmai tapasztalatot, valamint – az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek vonatkozásában – az információbiztonsági felügyelő feladatellátásához szükséges végzettséget, továbbképzési kötelezettséget és szakmai gyakorlatot és a szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét,”
 
-(5) A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 81. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap az informatikáért felelős miniszter, hogy rendeletben meghatározza)
-
-## „c) a – 11. § (3) bekezdés b) pontjában megjelölt szervezetek vonatkozásában – az elektronikus információs rendszer biztonságáért felelős személyeknél a feladatellátásához szükséges végzettséget, a szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét, valamint – az 1. § (1) bekezdés a)–c) pontja szerinti szervezetek vonatkozásában – az információbiztonsági felügyelő feladatellátásához szükséges végzettséget, továbbképzési kötelezettséget és szakmai gyakorlatot és szakképzettségeknek a 75. § (1) bekezdése szerinti nemzeti koordinációs központ általi közzétételi rendjét,”
+(5)
 
 (6) A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 81. § (6) bekezdés l) pontja helyébe a következő rendelkezés lép:
 

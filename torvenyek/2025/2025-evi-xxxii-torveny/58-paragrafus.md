@@ -10,11 +10,7 @@
 
 ## bb) az informatikáért felelős miniszter rendeletében meghatározott szakterületen szerzett szakmai tapasztalattal.”
 
-(2) A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 11. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az elektronikus információs rendszer biztonságáért felelős személy feladatait csak olyan személy végezheti, aki)
-
-## „b) az 1. § (1) bekezdés a)–c) és f) pontja szerinti szervezet, a Kszetv. alapján kritikus szervezetként kijelölt szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet esetében rendelkezik a feladatellátáshoz szükséges, az informatikáért felelős miniszter rendeletében előírt végzettséggel, valamint a 75. § (1) bekezdése szerinti nemzeti koordinációs központ által – az informatikáért felelős miniszter rendeletében foglaltak szerint – közzétett szakképzettséggel, akkreditált nemzetközi képzettséggel (a továbbiakban együtt: szakképzettség).”
+(2)
 
 (3) A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 11. § (6) bekezdés d) pontja helyébe a következő rendelkezés lép:
 

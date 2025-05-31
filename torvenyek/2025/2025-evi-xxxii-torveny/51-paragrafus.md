@@ -14,9 +14,9 @@ f) XIV. Fejezet címében a „SZABÁLYOZOTT ÉS KÖZPONTI ELEKTRONIKUS ÜGYINT�
 
 g) 79. § (1) bekezdésében a „szabályozott és központi elektronikus ügyintézési” szövegrész helyébe a „támogató” szöveg,
 
-h) 81. § (1) bekezdés nyitó szövegrészében a „(2)–(4)” szövegrész helyébe a „(2)–(6)” szöveg,
+h)
 
-i) 81. § (1) bekezdés e) pontjában az „a kormányrendeletben meghatározott mértékű szolgáltatási díj” szövegrész helyébe az „igazgatási szolgáltatási díj” szöveg,
+i)
 
 j) 109. § (3) bekezdésében az „a Pmt. 77. § (3) bekezdés d) pontja” szövegrész helyébe az „a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 77. § (3) bekezdés d) pontja” szöveg,
 
