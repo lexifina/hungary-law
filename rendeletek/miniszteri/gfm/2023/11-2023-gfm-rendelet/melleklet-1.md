@@ -1,5 +1,5 @@
-1. melléklet a 11/2023. (VI. 22.) GFM rendelethez[^1]
+1. melléklet a 11/2023. (VI. 22.) GFM rendelethez[^3]
 
 Az árfigyelő rendszerbe tartozó termékkategóriák és termékek felsorolása
 
-[^1]: Az 1. melléklet a 6/2025. (III. 11.) NGM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet a 15/2025. (V. 23.) NGM rendelet 2. §-ával megállapított szöveg.

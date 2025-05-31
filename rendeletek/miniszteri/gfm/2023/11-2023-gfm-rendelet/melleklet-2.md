@@ -18,11 +18,11 @@
 
 | 9. | Natúr joghurt | 125 g-tól | nem görög, nem laktózmentes, nem bio | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
 
-| 10. | Kefir és kaukázusi kefír | 130 g-tól | nem laktózmentes, nem bio | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 10. | Kefir és kaukázusi kefir | 130 g-tól | nem laktózmentes, nem bio | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
 
 | 11. | Tehéntúró | 250–500 g-os | félzsíros és zsírszegény, nem laktózmentes | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
-| 12. | Trappista sajt | valamennyi kiszerelés, egész tömbben, darabolt és szeletelt kiszerelésben | félkemény sajt, natúr, nem light, nem laktózmentes | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 12. | Trappista sajt | valamennyi kiszerelés, egész tömbben, darabolt és szeletelt kiszerelésben | félkemény sajt, natúr, nem light, nem laktózmentes | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
 
 | 13. | Margarin | 200–500 g-os | legalább 39%-os zsírtartalmú, nem sózott, nem sütő, nem dúsított, nem bio | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
 
@@ -54,7 +54,7 @@
 
 | 27. | Téliszalámi | 350 g-tól (rúd) | Magyar Élelmiszerkönyv szerinti téliszalámi | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
 
-| 28. | Pulykamellsonka | 80–150 g-os | szeletelt, nem ízesített, glutén- és laktózmenteset is beleértve, Magyar Élelmiszerkönyv szerinti formában vagy bélben hőkezelt sonkák | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
+| 28. | Pulykamell sonka | 80–150 g-os | szeletelt, nem ízesített, glutén- és laktózmenteset is beleértve, Magyar Élelmiszerkönyv szerinti formában vagy bélben hőkezelt sonkák | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
 | 29. | Sonka, sertéscombból | 100–200 g-os | szeletelt, nem ízesített, nem nyers, glutén- és laktózmenteset is beleértve, Magyar Élelmiszerkönyv szerinti formában vagy bélben hőkezelt sonkák | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
@@ -124,9 +124,9 @@
 
 | 62. | Hasábburgonya | 750–1000 g-os | gyorsfagyasztott, olajban és/vagy sütőben süthető, minden normál vastagságú, extra vékony és vastag, nem cikkcakk, nem hullámos, nem fűszerezett | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
-| 63. | Narancslé | 1 l-es | dobozos és PET-palackos, 100%-os, sűrítményből, gyümölcshússal vagy anélkül | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+| 63. | Narancslé | 1 l-es | dobozos és PET palackos, 100%-os, sűrítményből, gyümölcshússal vagy anélkül | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
 
-| 64. | Almalé | 1 l-es | dobozos és PET-palackos, 100%-os, szűrt | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+| 64. | Almalé | 1 l-es | dobozos és PET palackos, 100%-os, szűrt | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
 
 | 65. | Sütőmargarin | 250–500 g-os | nem laktózmentes | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
 
@@ -160,13 +160,13 @@
 
 | 80. | Gluténmentes száraztészta | 200–500 g-os | spagetti, fusilli, penne, tarhonya és cérnametélt | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
-| 81. | Főzőtejszín | valamennyi kiszerelés | legalább 10%-os zsírtartalmú főzőtejszín | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 81. | Főzőtejszín | valamennyi kiszerelés | legalább 10%-os zsírtartalmú főzőtejszín | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
 
-| 82. | Habtejszín | valamennyi kiszerelés | legalább 28%-os zsírtartalmú habtejszín | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 82. | Habtejszín | valamennyi kiszerelés | legalább 28%-os zsírtartalmú habtejszín | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
 
-| 83. | Tejszín helyettesítésére szolgáló növényi krém | valamennyi kiszerelés | bármilyen növényi alapú, tejszín helyettesítésére szolgáló növényi krém | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 83. | Tejszín helyettesítésére szolgáló növényi krém | valamennyi kiszerelés | bármilyen növényi alapú, tejszín helyettesítésére szolgáló növényi krém | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
 
-| 84. | Gyümölcsjoghurt | 125–450 g-os | minimum 5%-os gyümölcstartalommal és minimum 2%-os zsírtartalommal | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 84. | Gyümölcsjoghurt | 125–450 g-os | minimum 5%-os gyümölcstartalommal és minimum 2%-os zsírtartalommal | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
 
 | 85. | Darált sertéshús | 400–1000 g-os, védőgázas csomagolásban | maximum 30%-os zsírtartalommal | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
@@ -180,11 +180,11 @@
 
 | 90. | Pontyszelet | lédig és csomagolt | friss pontyszelet | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
-| 91. | Harcsafilé | lédig és csomagolt | afrikaiharcsa-filé | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
+| 91. | Harcsafilé | lédig és csomagolt | afrikai harcsa filé | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
 | 92. | Tengeri halfilé | valamennyi kiszerelés | friss, hűtött és fagyasztott lazac és tőkehal | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
-| 93. | Zsemle | – | Magyar Élelmiszerkönyv szerinti vizes zsemle | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
+| 93. | Zsemle | – | Magyar Élelmiszerkönyv szerinti vizes zsemle | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
 
 | 94. | Rizs | 1000 g-os | fehér „B” minőségű rizs | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
@@ -202,7 +202,87 @@
 
 | 101. | Tea | valamennyi kiszerelés | ízesítés nélküli zöld tea, earl grey | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
 
-| 102. | Kakaópor | 70–200 g-os | 10–12%-os és 20–22%-os kakaóvaj- tartalommal | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
+| 102. | Kakaópor | 70–200 g-os | 10–12% és 20–22%-os kakaóvaj tartalommal | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
+
+| 103. | Kemény sajt | valamennyi kiszerelés, egész tömbben, darabolt és szeletelt kiszerelésben | Magyar Élelmiszerkönyv szerinti kemény sajtok közül az ementáli és a cheddar sajt, nem laktózmentes, nem bio | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 104. | Félkemény sajt | valamennyi kiszerelés, egész tömbben, darabolt és szeletelt kiszerelésben | Magyar Élelmiszerkönyv szerinti félkemény sajtok közül a gouda és az edami sajt, nem laktózmentes, nem bio | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 105. | Lágy sajt | valamennyi kiszerelés, tégelyes, dobozos és fóliázott formában | Magyar Élelmiszerkönyv szerinti lágy sajtok közül a camambert, a brie, a feta és a mozzarella, nem laktózmentes, nem bio | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 106. | Ömlesztett sajt | valamennyi kiszerelés, tégelyes, tömlős, cikkelyes és szeletelt formában | Magyar Élelmiszerkönyv szerinti ömlesztett sajt és sajtkészítmény, beleértve az ízesített készítményeket, nem laktózmentes, nem bio | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 107. | Túródesszert | valamennyi kiszerelés | Magyar Élelmiszerkönyv szerinti desszert jellegű sajtkészítmény, amely bevonattal rendelkező túrórúd, beleértve a laktózmenteset | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 108. | Sertésoldalas | vákuumcsomagolt, védőgázas csomagolású és lédig (pultos) | – | – | egységár (kg) | – | egységár (kg) | – | egységár (kg) |
+
+| 109. | Sertéstarja | vákuumcsomagolt, védőgázas csomagolású és lédig (pultos) | csont nélkül, darabolt és szeletelt | – | egységár (kg) | – | egységár (kg) | – | egységár (kg) |
+
+| 110. | Olívaolaj | valamennyi kiszerelés | extra szűz olívaolaj és olívapogácsa olaj (részben vagy egészben olívapogácsa olajat tartalmazó készítmény), üveges és PET palackos (nem spray), nem bio, nem ízesített | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+
+| 111. | Szemes kávé | 900–1000 g-os | szemes kávé, nem bio | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
+
+| 112. | Bébiétel | valamennyi kiszerelés | pépes bébiétel, tej- és gabonapép, illetve tejalapú anyatej-kiegészítő vagy -helyettesítő tápszer | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 113. | Egészségügyi papír | valamennyi kiszerelés | minden rétegszámú tekercses toalettpapír | csomagár | egységár (darab) | csomagár | egységár (darab) | csomagár | egységár (darab) |
+
+| 114. | Papír kéztörlő henger | valamennyi kiszerelés | minden rétegszámú hengeres háztartási papírtörlő | csomagár | egységár (darab) | csomagár | egységár (darab) | csomagár | egységár (darab) |
+
+| 115. | Papír zsebkendő | valamennyi kiszerelés | minden rétegszámú papír zsebkendő, nem kozmetikai kendő | csomagár | egységár (darab) | csomagár | egységár (darab) | csomagár | egységár (darab) |
+
+| 116. | Alufólia | valamennyi kiszerelés | alumíniumból készült csomagoló fólia | darabár | egységár (m) | darabár | egységár (m) | darabár | egységár (m) |
+
+| 117. | Mosópor | valamennyi kiszerelés | szemcsés állagú ruha- és textiltisztító szer | csomagár | egységár (kg) | csomagár | egységár (kg) | csomagár | egységár (kg) |
+
+| 118. | Folyékony mosószer | valamennyi kiszerelés | folyékony mosószer és mosógél, beleértve a mosókapszulákat | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 119. | Öblítő | valamennyi kiszerelés | textilöblítő és textilöblítő koncentrátum | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 120. | Mosogatószer | valamennyi kiszerelés | folyékony kézi mosogatószer | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 121. | Gépi mosogató tabletta | valamennyi kiszerelés | gépi mosogatáshoz alkalmas, adagolt edénytisztítószer, mint tabletta és kapszula | csomagár | egységár (darab) | csomagár | egységár (darab) | csomagár | egységár (darab) |
+
+| 122. | Folyékony súrolószer | valamennyi kiszerelés | folyékony súrolókrém és súrolótej | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+
+| 123. | Általános tisztítószer | valamennyi kiszerelés | minden lemosható felület tisztítására alkalmas folyékony univerzális tisztítószer és univerzális fertőtlenítőszer | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+
+| 124. | Folyékony szappan | valamennyi kiszerelés | folyékony szappan, beleértve az utántöltő kiszereléseket | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+
+| 125. | Szappan | valamennyi kiszerelés | illatosított és illatmentes pipereszappan és krémszappan | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 126. | Kézfertőtlenítő gél | valamennyi kiszerelés | – | darabár | egységár (l) | darabár | egységár (l) | darabár | egységár (l) |
+
+| 127. | Sampon | valamennyi kiszerelés | sampon, valamint elsődlegesen samponként szolgáló 2az1-ben, 3az1-ben készítmény, beleértve a babasampont | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 128. | Tusfürdő | valamennyi kiszerelés | tusfürdő, valamint elsődlegesen tusfürdőként szolgáló 2az1-ben, 3az1-ben és 4az1-ben készítmény, beleértve a babatusfürdőt és a babafürdetőt | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 129. | Testápoló | valamennyi kiszerelés | elsődlegesen a bőr hidratálását szolgáló testápoló krém (nem gél, nem zselé, nem olaj és nem testvaj), beleértve a babatestápoló termékeket (nem önbarnító, nem zsírégető és nem bőrbetegség kezelését szolgáló készítmény) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 130. | Golyós dezodor | valamennyi kiszerelés | deo roll-on | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 131. | Izzadásgátló stift | valamennyi kiszerelés | deo stift és krém | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 132. | Dezodor | valamennyi kiszerelés | deo spray | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 133. | Fogkrém | valamennyi kiszerelés | felnőtt és gyermek fogkrém | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) | darabár vagy csomagár | egységár (kg) |
+
+| 134. | Fogkefe | valamennyi kiszerelés | hagyományos felnőtt és gyermek fogkefe | darabár vagy csomagár | egységár (db) | darabár vagy csomagár | egységár (db) | darabár vagy csomagár | egységár (db) |
+
+| 135. | Eldobható borotva | valamennyi kiszerelés | – | csomagár | egységár (db) | csomagár | egységár (db) | csomagár | egységár (db) |
+
+| 136. | Utántöltő borotvafej | valamennyi kiszerelés | hagyományos cserélhető fejű borotvához használatos borotvafej | csomagár | egységár (db) | csomagár | egységár (db) | csomagár | egységár (db) |
+
+| 137. | Borotvahab | valamennyi kiszerelés | – | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 138. | Borotvazselé | valamennyi kiszerelés | borotvazselé és borotvagél | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) | darabár vagy csomagár | egységár (l) |
+
+| 139. | Egészségügyi és tisztasági betét | valamennyi kiszerelés | illatosított és illatmentes szárnyas betét, betét és tisztasági betét | csomagár | egységár (db) | csomagár | egységár (db) | csomagár | egységár (db) |
+
+| 140. | Tampon | valamennyi kiszerelés | – | csomagár | egységár (db) | csomagár | egységár (db) | csomagár | egységár (db) |
+
+| 141. | Eldobható pelenka | valamennyi kiszerelés | egyszer használatos nadrágpelenka és bugyipelenka gyermekek részére, nem úszópelenka | csomagár | egységár (db) | csomagár | egységár (db) | csomagár | egységár (db) |
+
+| 142. | Hintőpor | valamennyi kiszerelés | folyékony és por állagú babahintőpor és hintőpor | darabár | egységár (kg) | darabár | egységár (kg) | darabár | egységár (kg) |
 
 2. melléklet a 11/2023. (VI. 22.) GFM rendelethez
 
