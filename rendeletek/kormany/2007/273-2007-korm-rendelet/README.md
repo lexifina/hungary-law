@@ -72,3 +72,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2025-01-15 | 2007-273-20-22.76 | 344/2013. (IX. 27.) Korm. rendelet |
 | 2025-04-27 | 2007-273-20-22.79 | 20/2009. (I. 30.) Korm. rendelet |
 | 2025-05-27 | 2007-273-20-22.81 | 114/2025. (V. 26.) Korm. rendelet |
+| 2025-05-31 | 2007-273-20-22.80 | 2/2025. (V. 8.) AB határozat |

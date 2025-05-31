@@ -68,7 +68,7 @@ b) az (5c) bekezdés szerinti esetben.
 [^39]: A Vhr. 5. § (5a) bekezdését a 721/2020. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 427/2023. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^40]: A Vhr. 5. § (5b) bekezdését a 427/2023. (IX. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 5. §-ával megállapított, a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^41]: A Vhr. 5. § (5c) bekezdését a 460/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 680/2023. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^42]: A Vhr. 5. § (5c) bekezdés a) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^42]: A Vhr. 5. § (5c) bekezdés a) pontját az Alkotmánybíróság a 2/2025. (V. 8.) AB határozatával megsemmisítette 2025. május 31. napjával, újonnan a 114/2025. (V. 26.) Korm. rendelet 2. §-a iktatta be.
 [^43]: A Vhr. 5. § (5c) bekezdés b) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^44]: A Vhr. 5. § (5c) bekezdés c) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^45]: A Vhr. 5. § (5c) bekezdés d) pontja a 680/2023. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
