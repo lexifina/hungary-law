@@ -1,7 +1,3 @@
-27. § Az Országos Tűzvédelmi Szabályzatról szóló 54/2014. (XII. 5.) BM rendelet
+27. §[^27]
 
-a) 21. § (1) bekezdés c) pontjában a „tűzvédelmi szakhatóság” szövegrész helyébe a „tűzvédelmi hatóság” szöveg,
-
-b) 156. § (1) bekezdés nyitó szövegrészében, 156. § (2) bekezdésében, 202. § (5) bekezdésében és 203. § (5) bekezdésében az „az első fokú tűzvédelmi” szövegrész helyébe az „a tűzvédelmi” szöveg
-
-lép.
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

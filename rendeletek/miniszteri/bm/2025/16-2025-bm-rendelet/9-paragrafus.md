@@ -1,3 +1,3 @@
-9. § A tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló 22/2009. (VII. 23.) ÖM rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+9. §[^9]
 
-„(2) Az e rendeletben meghatározott műszaki szabályoknak nem kell megfelelnie az olyan terméknek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások az emberi egészség és élet védelme tekintetében a termékre vonatkozó magyarországi előírásokkal egyenértékű védelmet nyújtanak. Az emberi egészség és élet védelmének érdekében az egyenértékűség vizsgálatára a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium jogosult.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

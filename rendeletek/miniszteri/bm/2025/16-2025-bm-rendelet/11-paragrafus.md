@@ -1,3 +1,3 @@
-## „f) a tanúsított termék típusát, azonosító jelét vagy jelzetét, leírását, műszaki adatait, fő egységeit;”
+11. §[^11]
 
-11. § A tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló 22/2009. (VII. 23.) ÖM rendelet 1. melléklete a 3. melléklet szerint módosul.
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
