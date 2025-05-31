@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-226-20-
 | --- | --- | --- |
 | 2016-08-01 | 2016-226-20-22.1 | 226/2016. (VII. 29.) Korm. rendelet |
 | 2016-08-02 | 2016-226-20-22.2 | 2010: CXXX. törvény |
+| 2025-05-31 | 2016-226-20-22.3 | 116/2025. (V. 29.) Korm. rendelet |
