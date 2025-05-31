@@ -15,3 +15,5 @@ miatt a külföldre utazásról szóló törvényben meghatározott okból külf
 (3) Ha az abban foglalt érvényességi ideje még nem telt el, a polgár (1) bekezdés szerinti személyazonosító igazolványa ismét érvényes, ha az (1) bekezdésben foglalt feltétel már nem áll fent.
 
 (4) Az (1) bekezdésben szereplő adatokat a kijelölt kormányhivatal kizárólag a személyazonosító igazolvány érvényességének vizsgálata, valamint a személyazonosító igazolvány kiállítása céljából kezeli. A kijelölt kormányhivatal az adatokat a külföldre utazási korlátozás megszűnésétől számított hat évig kezeli.
+
+(5) Az (1) bekezdésben megjelölt polgár a (2) bekezdés szerinti személyazonosító igazolvány kiadása érdekében a kényszerintézkedést vagy büntetést foganatosító büntetés-végrehajtási intézet (a továbbiakban: bv. szerv) rendelkezésére bocsátja arcképmását, saját kezű aláírását, valamint a 29/A. § (1) bekezdése szerint az ujjnyomatát. A bv. szerv – ha törvény eltérően nem rendelkezik – az adatokat a kijelölt kormányhivatal részére történő megküldésig kezeli.

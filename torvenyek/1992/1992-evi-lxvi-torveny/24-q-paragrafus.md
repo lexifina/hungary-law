@@ -1,0 +1,1 @@
+24/Q. § A nyilvántartást kezelő szerv a Bnytv. 6. § (1a) bekezdésében foglaltak teljesítése érdekében a bűnügyi nyilvántartó szerv részére átadja a polgár utolsó alkalommal nyilvántartásba vett arcképmását, amennyiben a polgár arcképmásával a bűnügyi nyilvántartó szerv nem rendelkezik.

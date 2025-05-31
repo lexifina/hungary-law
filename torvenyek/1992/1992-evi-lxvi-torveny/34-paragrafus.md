@@ -12,7 +12,7 @@
 
 (4) A Kormány rendeletében meghatározott esetekben és feltételekkel a nyilvántartás szerve az eljárást a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le.
 
-(5) Törvényes képviselő a cselekvőképtelen kiskorú kérelmező személyazonosító igazolványa kiadásához szükséges hozzájáruló nyilatkozatot elektronikus azonosítást követően, elektronikus kapcsolattartás útján is tehet.
+(5)
 
 (6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe.
 

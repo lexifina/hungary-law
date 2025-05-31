@@ -4,7 +4,7 @@ a) a lakcímadatok, családi állapot, a házasságkötés vagy bejegyzett élet
 
 b) a Magyar Honvédség központi nyilvántartó szerve, a területi katonai igazgatási szervek és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;
 
-c)
+c) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nyilvántartásból való, az elhalálozáson kívüli kikerülés oka és ideje kivételével a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben (a továbbiakban: Bnytv.) meghatározott feladatai ellátásához;
 
 d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 
