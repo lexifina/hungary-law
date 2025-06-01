@@ -60,6 +60,10 @@
 
 27. az integrátorral szembeni szakmai és infrastrukturális követelményeket.
 
+28. a 81. § (4) bekezdése szerinti tanúsító szervezettel, a tanúsítással és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeket,
+
+29. a 81. § (1)–(7) bekezdése szerinti feltételek folyamatos biztosításának módját és azok igazolását.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
 1. a 7. § (3) bekezdés szerinti időpontot,

@@ -76,7 +76,9 @@ b) gazdálkodó szervezetnek minősül az adószámmal rendelkező egyesület, a
 
 33. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam a piac szereplői részére a kijelölt központi szolgáltatón keresztül biztosít;
 
-33a. közszférabeli szervezet: az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 6. pontja szerinti szervezet, a 9. § (2) bekezdése szerinti digitális szolgáltatás nyújtására köteles szerv;
+33a. közszférabeli szervezet: az (EU) 2024/903 európai parlamenti és tanácsi rendelet 2. cikk 6. pontja szerinti szervezet, a 9. § (2) bekezdése szerinti digitális szolgáltatás nyújtására köteles szerv és a 80. § (1) bekezdés a)–e),
+
+g) és h) pontja szerinti digitális szolgáltatás biztosítására kötelezett szervezet;
 
 34. lenyomat: olyan meghatározott hosszúságú, az elektronikus dokumentumhoz rendelt bitsorozat, amelynek képzése során a használt eljárás (lenyomatképző eljárás) a képzés időpontjában teljesíti az e törvény végrehajtására kiadott rendeletben megfogalmazott követelményeket;
 
