@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^160]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^161]
 
 I. RÉSZ
 
@@ -36,15 +36,15 @@ I. RÉSZ
 
 | 11. | Brassica oleracea L. | Leveles kel | TP 90/1 2011. 2. 16. |
 
-| 12. | Brassica oleracea L. | Karfiol | TP 45/2 Rev. 2., 2018.3.21. |
+| 12. | Brassica oleracea L. | Karfiol | TP 45/2 Rev. 3., 2024.4.11. |
 
-| 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 Rev. 2., 2020.4.21. |
+| 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 Rev. 3 Corr., 2024.4.11. |
 
-| 14. | Brassica oleracea L. | Bimbóskel | TP 54/2 rev. 2017. 3. 15. |
+| 14. | Brassica oleracea L. | Bimbóskel | TP 54/2 Rev. 2., 2024.4.11. |
 
-| 15. | Brassica oleracea L. | Karalábé | TP 65/2, 2023.5.30. |
+| 15. | Brassica oleracea L. | Karalábé | TP 65/2 Rev., 2024.4.11. |
 
-| 16. | Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | TP 48/3 Rev. 2., 2021.3.25. |
+| 16. | Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | TP 48/3 Rev. 3., 2024.4.11. |
 
 | 17. | Brassica rapa L. | Kínai kel | TP 105/1 2008. 3. 13. |
 
@@ -58,7 +58,7 @@ I. RÉSZ
 
 | 21/a. | Cichorium intybus L. | Leveles cikória | TP 154/2 Rev., 2023.3.31. |
 
-| 22. | Citrullus lanatus (Thunb.) Matsum. et Nakai | Görögdinnye | TP 142/2 Rev. 2., 2023.3.31. |
+| 22. | Citrullus lanatus (Thunb.) Matsum. et Nakai | Görögdinnye | TP 142/2 Rev. 3., 2024.2.29. |
 
 | 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 Rev. 2., 2021.3.25. |
 
@@ -74,7 +74,7 @@ I. RÉSZ
 
 | 28. | Foeniculum vulgare Mill. | Édeskömény | TP 183/2, 2021.4.14. |
 
-| 29. | Lactuca sativa L. | Saláta | TP 13/6 Rev. 3., 2022.4.27. |
+| 29. | Lactuca sativa L. | Saláta | TP 13/6 Rev. 4., 2024.2.29. |
 
 | 30. | Solanum lycopersicum L. | Paradicsom | TP 44/4 Rev. 5., 2021.4.14. |
 
@@ -86,7 +86,7 @@ I. RÉSZ
 
 | 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 Rev. 3 Corr., 2020.3.6. |
 
-| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 Rev. Corr., 2015.3.11. |
+| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 Rev. 2., 2024.2.29. |
 
 | 35/a. | Scorzonera hispanica L. | Feketegyökér | TP 116/1, 2015.3.11. |
 
@@ -96,15 +96,15 @@ I. RÉSZ
 
 | 37. | Spinacia oleracea L. | Spenót vagy paraj | TP 55/5 Rev. 4., 2022.4.27. |
 
-| 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 2007. 3. 21. |
+| 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 Rev., 2024.2.29. |
 
 | 39. | Vicia faba L. (partim) | Lóbab | TP 206/1, 2004.3.25. |
 
 | 40. | Zea mays L. (partim) | Csemegekukorica és pattogatni való kukorica | TP 2/3 2010. 3. 11. |
 
-| 41. | Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp & D.M. Spooner | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 Rev. 5., 2021.4.14. |
+| 41. | Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp & D.M. Spooner | Paradicsomalany | TP 294/1 Rev. 6., 2024.2.29 |
 
-| 42. | Cucurbita maxima Duchesne x Cucurbita moschata Duchesne | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TP/311/1, 2017. 3. 15. |
+| 42. | Cucurbita maxima Duchesne x Cucurbita moschata Duchesne | Sütőtök x muskotálytök interspecifikus hibridje | TP/311/1, 2017. 3. 15. |
 
 II. RÉSZ
 
@@ -130,4 +130,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^160]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (2) bekezdése, a 62/2023. (XI. 22.) AM rendelet 2. § e)-k) pontja szerint módosított szöveg.
+[^161]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (2) bekezdése, a 62/2023. (XI. 22.) AM rendelet 2. § e)–k) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (2) bekezdése szerint módosított szöveg.

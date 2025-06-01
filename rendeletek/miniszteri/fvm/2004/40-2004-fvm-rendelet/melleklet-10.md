@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^159]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^160]
 
 I. RÉSZ
 
@@ -70,7 +70,7 @@ I. RÉSZ
 
 | 21. | Zea mays L. (partim) | Kukorica | TP 2/3 2010. 3. 11. |
 
-| 22. | Solanum tuberosum L. | Burgonya | TP 23/3, 2017. 3. 15. |
+| 22. | Solanum tuberosum L. | Burgonya | TP 23/4, 2023.11.28. |
 
 | 23. | Poa pratensis L. | Réti perje | TP 33/1, 2017. 3. 15. |
 
@@ -156,7 +156,7 @@ II. RÉSZ
 
 | 28. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TG/185/3 2002. 4. 17. |
 
-| 29. | Carthamus tinctorius L. | Sáfrányos szeklice | TG/134/3 1990. 10. 12. |
+| 29. | Carthamus tinctorius L. | Sáfrányos szeklice | TG 134/4, 2023.10.24. |
 
 | 30. | Brassica juncea (L.) Czern. | Szareptai mustár | TG 335/1, 2020.12.17. |
 
@@ -194,4 +194,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^159]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)-d) pontja szerint módosított szöveg.
+[^160]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)–d) pontja, a 18/2025. (V. 30.) AM rendelet 2. § (1) bekezdése szerint módosított szöveg.
