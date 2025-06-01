@@ -8,7 +8,7 @@ a) a tárgyévben beérkezett kérelmek számát és ügytípus szerinti megoszl
 
 b) a kérelmezők és szolgáltatók közötti vitákat eredményező, rendszeresen előforduló vagy jelentős problémákat, valamint ezen információkhoz csatolt ajánlásokat arra vonatkozóan, hogy a jövőben az ilyen problémák hogyan kerülhetők el vagy oldhatók meg;
 
-c)[^8] azon vitarendezési eljárások számára vonatkozó adatokat, amelyekben a kérelem érdemi vizsgálat nélküli elutasítására került sor, továbbá az elutasítás hátterében álló indokokat és ezek százalékos arányát;
+c)[^9] azon vitarendezési eljárások számára vonatkozó adatokat, amelyekben a kérelem érdemi vizsgálat nélküli elutasítására került sor, továbbá az elutasítás hátterében álló indokokat és ezek százalékos arányát;
 
 d) az adott évben meghozott döntési típusoknak a teljes ügyszámhoz viszonyított arányát, a kérelmező igényének megalapozottsága, megalapozatlansága szerinti bontásban, külön kitérve az eljárást megszüntető döntésekre és ez utóbbiak okaira, ha ismertek;
 
@@ -24,4 +24,4 @@ h) a vitarendezési testület értékelését az általa lefolytatott eljáráso
 
 (4) Az Elnök hivatalból hatósági ellenőrzés vagy hatósági eljárás keretében felügyeli az (1)–(3) bekezdésben foglaltak vitarendezési testület általi teljesítését. Ha a vitarendezési testület a jelentéstételi kötelezettségét az Elnök felhívását követően is elmulasztja, az Elnök a tanúsítvány visszavonása érdekében hatósági eljárást indíthat.
 
-[^8]: A 20. § (2) bekezdés c) pontja a 6/2025. (V. 8.) NMHH rendelet 8. § b) pontja szerint módosított szöveg.
+[^9]: A 20. § (2) bekezdés c) pontja a 6/2025. (V. 8.) NMHH rendelet 8. § b) pontja szerint módosított szöveg.

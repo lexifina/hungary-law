@@ -1,4 +1,4 @@
-24. §[^9] (1) A Tanács elnökét és tagjait – az általuk ellátott ügyek számától függetlenül – havonta kettőszázezer forint alapdíj illeti meg.
+24. §[^10] (1) A Tanács elnökét és tagjait – az általuk ellátott ügyek számától függetlenül – havonta kettőszázezer forint alapdíj illeti meg.
 
 (2) Az alapdíjon felül az adott hónapban elintézett ügyenként
 
@@ -10,4 +10,4 @@ külön díjazás illeti meg.
 
 (3) A Tanács elnöke és tagja havonta az (1) bekezdés szerinti alapdíjra és a (2) bekezdés szerinti, elintézett ügyek után járó külön díjazásra jogosult, amelyek együttes összege nem haladhatja meg a havi hétszázötvenezer forintot.
 
-[^9]: A 24. § a 6/2025. (V. 8.) NMHH rendelet 6. §-ával megállapított szöveg.
+[^10]: A 24. § a 6/2025. (V. 8.) NMHH rendelet 6. §-ával megállapított szöveg.
