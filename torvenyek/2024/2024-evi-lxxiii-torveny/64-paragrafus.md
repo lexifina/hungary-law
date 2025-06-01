@@ -4,4 +4,6 @@
 
 (2)
 
-(3)
+(3) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 8. § 33a. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
