@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a hitelintézetre és az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban (a továbbiakban: EGT-állam) székhellyel rendelkező hitelintézet magyarországi fióktelepére (a továbbiakban: EGT-fióktelep) (a továbbiakban együtt: adatszolgáltató) terjed ki.
