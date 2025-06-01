@@ -1,6 +1,11 @@
-7. § (1)[^7]
+7. § (1) A Tszt. Vhr.
 
-(2)[^8]
+a) 3. melléklet 18.7.1. pontjában a „felhasználó” szövegrész helyébe a „felhasználó vagy díjfizető” szöveg,
 
-[^7]: A 7. § (1) bekezdése a 20. § (2) bekezdése alapján 2025. június 1-jén lép hatályba.
-[^8]: A 7. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+b) 3. melléklet 18.7.2.4. pontjában a „felhasználó” szövegrész helyébe a „felhasználó vagy díjfizető” szöveg
+
+lép.
+
+(2)[^7]
+
+[^7]: A 7. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
