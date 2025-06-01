@@ -1,6 +1,6 @@
-## A tervezett éves keret megállapításának szabályai[^313]
+## A tervezett éves keret megállapításának szabályai[^314]
 
-27. §[^314] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg- és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
+27. §[^315] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg- és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
 
 (2) A tervezett éves keretek meghatározása a tárgyidőszakot megelőző finanszírozási évben (november–október) jelentett teljesítmények figyelembevételével történik, az e §-ban foglalt ellátási formáknak megfelelő speciális szabályok szerint.
 
@@ -64,8 +64,8 @@ kivételével történik.
 
 (19) A szolgáltatók tervezett éves keretei a finanszírozási év során a jelentett teljesítmények figyelembevételével felülvizsgálatra kerülhetnek, mely alapján az egészségügyért felelős miniszter kezdeményezheti a tervezett éves keretek mértékének megváltoztatását.
 
-(20)[^315] A röntgendiagnosztika, teljes körű ultrahangdiagnosztika, gyermekradiológia, CT- és MR-diagnosztika vizsgálatokat végző járóbeteg-szakellátást nyújtó egészségügyi szolgáltató tervezett éves kerete – az egészségügyi szolgáltató teljesítményét is figyelembe véve – megemelhető, ha az egészségügyi szolgáltató e vizsgálatok tekintetében, e vizsgálatokra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben előírt feltételekkel az EESZT digitális időpontfoglalási rendszer szolgáltatást lehetővé teszi. Az e bekezdés szerinti módon megemelt tervezett éves keretet az egészségügyi szolgáltató az e bekezdés szerinti képalkotó diagnosztikai vizsgálatok elvégzésére fordítja.
+(20)[^316] A röntgendiagnosztika, teljes körű ultrahangdiagnosztika, gyermekradiológia, CT- és MR-diagnosztika vizsgálatokat végző járóbeteg-szakellátást nyújtó egészségügyi szolgáltató tervezett éves kerete – az egészségügyi szolgáltató teljesítményét is figyelembe véve – megemelhető, ha az egészségügyi szolgáltató e vizsgálatok tekintetében, e vizsgálatokra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben előírt feltételekkel az EESZT digitális időpontfoglalási rendszer szolgáltatást lehetővé teszi. Az e bekezdés szerinti módon megemelt tervezett éves keretet az egészségügyi szolgáltató az e bekezdés szerinti képalkotó diagnosztikai vizsgálatok elvégzésére fordítja.
 
-[^313]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^314]: A 27. § a 293/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^315]: A 27. § (20) bekezdését a 29/2025. (III. 5.) Korm. rendelet 4. §-a iktatta be.
+[^314]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^315]: A 27. § a 293/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^316]: A 27. § (20) bekezdését a 29/2025. (III. 5.) Korm. rendelet 4. §-a iktatta be.
