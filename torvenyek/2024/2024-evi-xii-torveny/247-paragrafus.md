@@ -18,7 +18,7 @@ h)
 
 i)
 
-j)
+j) 80. § (1) bekezdés i) pontja a „pénzügyi szolgáltató” szövegrész helyett a „pénzügyi vállalkozás” szöveggel,
 
 k)
 
