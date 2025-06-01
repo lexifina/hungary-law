@@ -1,3 +1,1 @@
-2. § Az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 22. alcíme a következő 65/A. §-sal egészül ki:
-
-„65/A. § E törvénynek az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény módosításáról szóló 2025. évi XXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 46/A. §-át a Módtv. hatálybalépését megelőzően megindított közbeszerzési eljárások eredményeként, a Módtv. hatálybalépése előtt megkötött szerződésekre is alkalmazni kell, amennyiben az érintett szerződés alapján lefolytatandó valamennyi műszaki átadás-átvételi eljárás lezárására még nem került sor.”
+### 2. §
