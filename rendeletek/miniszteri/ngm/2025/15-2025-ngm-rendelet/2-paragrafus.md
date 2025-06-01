@@ -1,1 +1,3 @@
-2. § A 11/2023. (VI. 22.) GFM rendelet 1. melléklete helyébe az 1. melléklet lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
