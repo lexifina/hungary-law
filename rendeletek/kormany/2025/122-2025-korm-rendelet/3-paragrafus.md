@@ -1,3 +1,3 @@
-3. § Az R. 3/B. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Az MFT a következő feladatokat látja el:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
