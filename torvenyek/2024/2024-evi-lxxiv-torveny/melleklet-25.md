@@ -21,5 +21,3 @@ f) SZHtárgyév/i = tárgyévi szolidaritási hozzájárulás tárgyhónapig tel
 g) SZHelőző év/i = tárgyévet megelőző évi szolidaritási hozzájárulás tárgyévet megelőző év tárgyhónappal azonos hónapjáig teljesített összege,h) E∑i = tárgyhónapot megelőzően teljesült összes elvonás.
 
 2. A tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén
-
-## A HIPAtárgyév/i értéke az önkormányzat tárgyhónapra vonatkozó időközi költségvetési jelentésében meghatározott, a tárgyhónapot követő hónap 20-áig rögzített összege. Ha az önkormányzat e határidőig nem rögzít összeget, akkor az első késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,15-szeresének 0 tizedesre kerekített összegével. A második késedelmes adatszolgáltatás esetén a HIPAtárgyév/i értéke megegyezik a HIPAelőző év/i 1,2-szeresének 0 tizedesre kerekített összegével.

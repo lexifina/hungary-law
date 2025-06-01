@@ -1,0 +1,1 @@
+257/D. § Ezen alcímet az ezen alcím hatálybalépését követően indult 257/A. § (1) bekezdése szerinti közbeszerzési eljárásokra, valamint az ezen alcím hatálybalépését követően megkötendő 257/A. § (1) bekezdése szerinti, a nemzeti értékhatárt meghaladó összegű, a Kbt. 9. § (1) bekezdés h) és i) pontjában meghatározott szerződésekre kell alkalmazni.
