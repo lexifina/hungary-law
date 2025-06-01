@@ -12,7 +12,7 @@
 
 | 5. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, továbbá ha a távhővezetéket külterületen, továbbá – egyedi tájérték, természeti terület és országos jelentőségű védett természeti terület, Natura 2000 terület vagy barlang védőövezete esetén – belterületen valósítják meg. | Annak vizsgálata, hogy a tevékenység az ivóvízbázisok védelme követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-8. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^182]
+8. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^183]
 
 Költséghatékonysági vizsgálat fűtési célú hőmennyiség épületrészenkénti hiteles mérésének kialakítása vagy fűtési költségmegosztók alkalmazása esetére
 
@@ -52,4 +52,4 @@ G. Az egyedi, hiteles hőmennyiség mérő vagy a fűtési költségmegosztó gy
 
 A vizsgált beruházás akkor költséghatékony, ha F × G > C + G × D
 
-[^182]: A Vhr. 8. mellékletét a 677/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^183]: A Vhr. 8. mellékletét a 677/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.

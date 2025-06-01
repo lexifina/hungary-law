@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-157-20-
 | 2024-06-01 | 2005-157-20-22.43 | 677/2023. (XII. 29.) Korm. rendelet |
 | 2024-10-01 | 2005-157-20-22.45 | 70/2015. (III. 30.) Korm. rendelet |
 | 2025-01-01 | 2005-157-20-22.46 | 471/2024. (XII. 30.) Korm. rendelet |
+| 2025-06-01 | 2005-157-20-22.47 | 677/2023. (XII. 29.) Korm. rendelet |
