@@ -1,6 +1,6 @@
 ## Az anyakönyvi kivonat
 
-73/A. § (1) Az anyakönyvi kivonat közhitelesen tanúsítja a kiállítás időpontjában az anyakönyvi eseményhez kapcsolódóan az anyakönyvben szereplő adatokat.
+73/A. § (1) Az anyakönyvi kivonat – a (3a) bekezdésben foglalt kivétellel – a kiállítás időpontjában érvényes adatokkal közhitelesen tanúsítja az anyakönyvi eseményhez kapcsolódóan az anyakönyvbe bejegyzett adatokat.
 
 (2) A születési anyakönyvi kivonat tartalmazza
 
@@ -48,9 +48,13 @@ da) megszűnésének tényét, idejét,
 
 db) érvénytelenné nyilvánításának tényét, idejét,
 
-e) a házastársak házassági neve módosításának tényét a hatálybalépés megjelölésével,
+dc) megszűnése vagy érvénytelenné nyilvánítása esetén annak tényét, hogy a házassági anyakönyvi kivonat az adatokat a házasság megszűnésének vagy érvénytelenné nyilvánításának időpontjában nyilvántartott adatokkal tartalmazza,
+
+e) fennálló házasság esetén a házastársak házassági neve változásának tényét a hatálybalépés megjelölésével,
 
 f) az érvényes házasságnak a magyar jog szerinti kezdő időpontját.
+
+(3a) Házasság megszűnése esetén a házassági anyakönyvi kivonat a 69/D. § (1) bekezdés i) pontja szerinti adatot nem tartalmazza.
 
 (4) A bejegyzett élettársi kapcsolat létesítéséről kiállított anyakönyvi kivonat tartalmazza
 

@@ -16,15 +16,7 @@ g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilván
 
 h) a házasság fennállása alatt a b) pontban meghatározott adatokban bekövetkezett változást,
 
-i) a házasság megszűnését követően
-
-ia) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági névviselési forma módosítása következtében történt változását és annak időpontját,
-
-ib) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági név megváltoztatása következtében történt változását és annak időpontját,
-
-ic) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak az utónév-módosítás következtében történt változását és annak időpontját,
-
-id) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a névváltoztatás következtében történt változását és annak időpontját,
+i) a házasság megszűnését követően a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adat anyakönyvi eljárásban történő változását és annak időpontját,
 
 j) az e)–g) pontban szereplő adatok változását,
 
