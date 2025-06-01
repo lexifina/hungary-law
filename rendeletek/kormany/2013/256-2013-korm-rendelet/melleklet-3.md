@@ -574,7 +574,7 @@
 
 | 287. | Nyíregyházi Szociális Gondozási és Egészségügyi Alapellátási Központ | Nyíregyháza |
 
-| 288. | Nemzeti Dialízis Központ Korlátolt Felelősségű Társaság | Budapest |
+| 288. | Nemzeti Dialízis Központ | Budapest |
 
 | 289. | Katolikus Szeretetszolgálat Börzsei Barbara Komplex Korai Intervenciós és Gyermek Mozgásfejlesztő Központ | Veszprém |
 
