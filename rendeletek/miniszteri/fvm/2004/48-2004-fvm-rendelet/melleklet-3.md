@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^205]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^206]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -836,4 +836,4 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 1.1.2.1. Minősítési határértékek:
 
-[^205]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja, a 35/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, a 2/2022. (I. 27.) AM rendelet 3. § 17–19. pontja szerint módosított szöveg.
+[^206]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja, a 35/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, a 2/2022. (I. 27.) AM rendelet 3. § 17–19. pontja szerint módosított szöveg.

@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-48-20-8
 | 2022-07-30 | 2004-48-20-82.33 | 21/2022. (VII. 29.) AM rendelet |
 | 2022-09-25 | 2004-48-20-82.34 | 29/2022. (IX. 22.) AM rendelet |
 | 2023-01-01 | 2004-48-20-82.35 | 67/2012. (VII. 10.) VM rendelet |
+| 2025-06-01 | 2004-48-20-82.36 | 19/2025. (V. 30.) AM rendelet |
