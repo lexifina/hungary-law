@@ -1,0 +1,1 @@
+6. § Ez a rendelet a 2002/55/EK és a 2002/57/EK tanácsi irányelvnek, valamint a 93/61/EGK bizottsági irányelvnek a vetőmagon és egyéb növényi szaporítóanyagokon előforduló növénykárosítók jegyzéke tekintetében történő módosításáról szóló, 2024. november 29-i (EU) 2024/3010 bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
