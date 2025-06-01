@@ -20,6 +20,4 @@ c) a Nemzeti Média- és Hírközlési Hatóságra.
 
 (3) A leplezett eszközök alkalmazásában, engedélyezésében részt vevő szervek, valamint személyek e feladatkörükben eljárva, egymás közötti, zárt körben történő elektronikus aláírás vagy bélyegző létrehozását, elfogadását, felhasználását a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EUeurópai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 2. cikk (2) bekezdése szerint külön megállapodásban szabályozhatják. Az ilyen megállapodás alapján nyújtott szolgáltatásokra a NEGYEDIK RÉSZ előírásait nem kell alkalmazni.
 
-(4)[^1]
-
-[^1]: Az 1. § (4) bekezdése a 151. § (3) bekezdése alapján 2025. június 1-jén lép hatályba.
+(4) A Dáptv. 80. § (1) bekezdés i)–o) pontja szerinti szervezetre, valamint a Dáptv. 80. § (1) bekezdés a)–h) pontja szerinti azon szervezetre, amely a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 50 000 számlát nem bocsátott ki, a rendelet IX. Fejezetének hatálya terjed ki.

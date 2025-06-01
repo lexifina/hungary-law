@@ -1,5 +1,7 @@
-## IX. Fejezet[^4]
+## IX. Fejezet
 
-90. §
+## A DÁPTV. 80. §-A SZERINTI SZERVEZETEK ÁLTALI IGÉNYBEVÉTELRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
-[^4]: A IX. Fejezet a 151. § (3) bekezdése alapján 2025. június 1-jén lép hatályba.
+90. § (1) A Dáptv. 80. §-a szerinti, digitális szolgáltatás biztosítására kötelezett szervezet a Dáptv. 80. §-a szerinti szolgáltatások igénybevételét a digitális állampolgárság szolgáltatónál kezdeményezi a Dáptv. 81. § (1) bekezdés a) pontja szerinti regisztrációval. A regisztráció során a digitális állampolgárság szolgáltató ellenőrzi a Dáptv. 81. §-a szerinti feltételek teljesülését.
+
+(2) A támogató szolgáltatások igénybevételét a digitális szolgáltatás biztosítására kötelezett szervezet az (1) bekezdés szerinti regisztrációt követően kezdeményezheti.
