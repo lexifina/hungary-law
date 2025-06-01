@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-66-20-2
 | 2025-04-06 | 2025-66-20-22.2 | 2010. évi CXXX. törvény |
 | 2025-05-01 | 2025-66-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-05-02 | 2025-66-20-22.4 | 2010. évi CXXX. törvény |
+| 2025-06-01 | 2025-66-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |

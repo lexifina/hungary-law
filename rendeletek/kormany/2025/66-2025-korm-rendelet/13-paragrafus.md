@@ -1,3 +1,1 @@
-13. §[^8]
-
-[^8]: A 13. § az 5. § (3) bekezdése alapján 2025. június 1-jén lép hatályba.
+13. § Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet 2. § (1) bekezdés a) pontjában a „gyógyintézetek és az országos társgyógyintézetek” szövegrész helyébe a „gyógyintézetek, az országos társgyógyintézetek és a Nemzeti Dialízis Központ” szöveg lép.

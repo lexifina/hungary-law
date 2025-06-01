@@ -1,3 +1,1 @@
-12. §[^7]
-
-[^7]: A 12. § az 5. § (3) bekezdése alapján 2025. június 1-jén lép hatályba.
+12. § Hatályát veszti az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat 288. sorában a „Korlátolt Felelősségű Társaság” szövegrész.
