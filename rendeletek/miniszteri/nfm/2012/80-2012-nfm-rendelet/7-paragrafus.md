@@ -2,12 +2,12 @@
 
 (2) A (3) bekezdés d) pontja 2013. május 1-jén lép hatályba.
 
-(3)[^20]
+(3)[^23]
 
-a)–c)[^21]
+a)–c)[^24]
 
-d)[^22]
+d)[^25]
 
-[^20]: A 7. § (3) bekezdés nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 7. § (3) bekezdés a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 7. § (3) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 7. § (3) bekezdés nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 7. § (3) bekezdés a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 7. § (3) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
