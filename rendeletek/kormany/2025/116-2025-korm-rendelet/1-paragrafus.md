@@ -10,4 +10,6 @@
 
 ## 1. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény hatálya alá tartozó haditechnikai eszközök és szolgáltatások részletes paramétereinek meghatározásáról szóló 226/2016. (VII. 29.) Korm. rendelet módosítása
 
-1. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény hatálya alá tartozó haditechnikai eszközök és szolgáltatások részletes paramétereinek meghatározásáról szóló 226/2016. (VII. 29.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
