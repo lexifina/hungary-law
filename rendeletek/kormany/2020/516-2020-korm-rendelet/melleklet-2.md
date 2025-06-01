@@ -1,4 +1,4 @@
-2. melléklet az 516/2020. (XI. 25.) Korm. rendelethez[^36]
+2. melléklet az 516/2020. (XI. 25.) Korm. rendelethez[^38]
 
 Az EESZT működtetője által az OKFŐ számára átadandó adatok
 
@@ -48,4 +48,4 @@ Az EESZT működtetője által az OKFŐ számára átadandó adatok
 
 Az időpontok minden esetben a dátumon túl az óra- és percadatokat is tartalmazzák.
 
-[^36]: A 2. mellékletet a 42/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.
+[^38]: A 2. mellékletet a 42/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.

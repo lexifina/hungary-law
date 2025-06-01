@@ -1,4 +1,4 @@
-4/A. §[^14] (1) Az OKFŐ működteti a külön jogszabály szerinti központi kórházi integrált gazdálkodási rendszer (a továbbiakban: KKIGR) központi elemeit, továbbá ehhez kapcsolódóan – az érintett egészségügyi szolgáltató fenntartójának bevonásával – gondoskodik
+4/A. §[^16] (1) Az OKFŐ működteti a külön jogszabály szerinti központi kórházi integrált gazdálkodási rendszer (a továbbiakban: KKIGR) központi elemeit, továbbá ehhez kapcsolódóan – az érintett egészségügyi szolgáltató fenntartójának bevonásával – gondoskodik
 
 a) az egységesített számlatükör és kontrolling kézikönyv,
 
@@ -14,7 +14,7 @@ előkészítéséről, folyamatos karbantartásáról és azoknak a honlapján t
 
 (2) Az OKFŐ a KKIGR rendszer központi szerződéstár alkalmazása tekintetében a 2. § (1) bekezdése szerinti intézmények adatfeldolgozójaként jár el.
 
-(3)[^15] A 7. § (4) bekezdése szerinti feladata ellátása során, a digitális járóbeteg-irányítás eredményességének monitorozása érdekében az OKFŐ a KKIGR útján veszi át az Elektronikus Egészségügyi Szolgáltatási Térből (a továbbiakban: EESZT) – személyes adatok nélkül – a 2. melléklet szerinti adatokat.
+(3)[^17] A 7. § (4) bekezdése szerinti feladata ellátása során, a digitális járóbeteg-irányítás eredményességének monitorozása érdekében az OKFŐ a KKIGR útján veszi át az Elektronikus Egészségügyi Szolgáltatási Térből (a továbbiakban: EESZT) – személyes adatok nélkül – a 2. melléklet szerinti adatokat.
 
-[^14]: A 4/A. §-t az 588/2020. (XII. 17.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^15]: A 4/A. § (3) bekezdését a 42/2024. (II. 29.) Korm. rendelet 5. §-a iktatta be.
+[^16]: A 4/A. §-t az 588/2020. (XII. 17.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^17]: A 4/A. § (3) bekezdését a 42/2024. (II. 29.) Korm. rendelet 5. §-a iktatta be.
