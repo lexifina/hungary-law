@@ -1,6 +1,6 @@
 ## A fenti fajok F-1 hibrid fajtái esetében a minta előírt legkisebb tömege a megadott tömeg negyedére csökkenthető. A minta tömege azonban legalább 5 g kell legyen és legalább 400 vetőmagból kell álljon.
 
-9. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^258]
+9. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^259]
 
 Dughagyma és fokhagyma forgalomba hozatalára vonatkozó feltételek
 
@@ -74,4 +74,4 @@ Dughagyma és fokhagyma forgalomba hozatalára vonatkozó feltételek
 
 9.4. Fagyott, idegen szagú, penészes dughagyma és fokhagyma szaporítóanyag nem hozható forgalomba.
 
-[^258]: A 9. számú mellékletet a 35/2020. (VI. 29.) AM rendelet 8. §-a hatályon kívül helyezte, újonnan a 41/2024. (VIII. 8.) AM rendelet 2. §-a iktatta be.
+[^259]: A 9. számú mellékletet a 35/2020. (VI. 29.) AM rendelet 8. §-a hatályon kívül helyezte, újonnan a 41/2024. (VIII. 8.) AM rendelet 2. §-a iktatta be.

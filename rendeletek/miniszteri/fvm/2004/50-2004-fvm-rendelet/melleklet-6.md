@@ -174,29 +174,33 @@
 
 |  | Standard szaporítás esetén a határértékek megegyeznek a certifikált vetőmag határértékeivel. |
 
-| A vizsgálat tárgya | Egység | Elit | Certifikált | Megjegyzések |
+|  | A | B | C | D | E |
 
-| szaporítási fok |
+| 1. | A vizsgálat tárgya | Egység | Elit szaporítási fok | Certifikált szaporítási fok | Megjegyzések |
 
-| Elválasztó sáv, legalább | m | 2 |  |
+| 2. | 1. Elválasztó sáv, legalább | méter | 2 | 2 |  |
 
-| Gyomosság, legfeljebb | minősítő szám | 2 |  |
+| 3. | 2. Gyomosság, legfeljebb | minősítő szám | 2 | 2 |  |
 
-| Fejlettség. legalább |  |  |  |
+| 4. | 3. Kultúrállapot, legalább | értékszám | 4 | 4 |  |
 
-| Kiegyenlítettség, legalább | érték- szám | 4 |  |
+| 5. | 4. Fejlettség, legalább | értékszám | 4 | 4 |  |
 
-| Kultúrállapot, legalább |  |  |  |
+| 6. | 5. Kiegyenlítettség, legalább | értékszám | 4 | 4 |  |
 
-| Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 0 | 0,3 |  |
+| 7. | 6. Idegen fajta a mintaterek átlagában, legfeljebb | db növény | 0 | 0,3 |  |
 
-| Vírusos vagy mikoplazmás megbetegedések, a mintaterek átlagában, legfeljebb | % | 5 | 10 | Tünetek: törpülés, mozaikosság, tarkalevelűség, nekrózis. |
+| 8. | 7. Vírusos vagy mikoplazmás megbetegedések, a mintaterek átlagában, legfeljebb | % | 5 | 10 | Tünetek: törpülés, mozaikosság, tarkalevelűség, nekrózis. |
 
-| Baktériumos betegségek a mintaterek átlagában, együttesen legfeljebb Baktériumos varasodás (Xanthomonas campestris pv. vesicatoria), Klavibakteres hervadás (Clavibacter michiganensis) | növény db | 5 | 10 | A határértékek a beteg bogyójú növényegyedekre vonatkoznak. |
+| 9. | 7.1. Paradicsom barna termésráncosodás vírus (ToBRFV), a mintaterek átlagában, legfeljebb | % | 0 | 0 |  |
 
-| Gombabetegségek, a mintaterek átlagában, együttesen legfeljebb Didimellás tőszáradás (Didymella lycopersici), Kolletotrihumos termésfoltosság és tőkorhadás (Colletotrichum atramentarium) Alternáriás betegség (Alternaria porri f. sp. solani) | % | 3 | 6 |  |
+| 10. | 8. Baktériumos betegségek a mintaterek átlagában, összesen legfeljebb Baktériumos varasodás (Xanthomonas campestris pv. vesicatoria), Klavibakteres hervadás (Clavibacter michiganensis) | db növény | 5 | 10 | A határértékek a beteg bogyójú növényegyedekre vonatkoznak. |
 
-| a mintaterek átlagában, együttesen legfeljebb Paradicsomvész (Phytophthora infestans), Szeptóriás levélfoltosság (Septoria lycopersici), Fuzáriumos és verticilliumos tőhervadás (Fusarium oxysporum. Verticillium albo-atrum) | minősítő szám | 2 |  |
+| 11. | 9. Gombabetegségek a mintaterek átlagában, összesen legfeljebb |  |
+
+| 12. | 9.1. Didimellás tőszáradás (Didymella lycopersici), Kolletotrihumos termésfoltosság és tőkorhadás (Colletotrichum atramentarium), Alternáriás betegség (Alternaria porri f. sp. solani) | % | 3 | 6 |  |
+
+| 13. | 9.2. Paradicsomvész (Phytophthora infestans), Szeptóriás levélfoltosság (Septoria lycopersici), Fuzáriumos és verticilliumos tőhervadás (Fusarium oxysporum. Verticillium albo-atrum) | minősítő szám | 2 | 2 |  |
 
 ## RÉPAFÉLÉK
 
@@ -758,29 +762,33 @@
 
 | Egyéb követelmények: | Standard szaporítás esetén a határértékek megegyeznek a certifikált vetőmag határértékeivel. |
 
-| A vizsgálat tárgya | Egység | Elit | Certifikált | Megjegyzések |
+|  | A | B | C | D | E |
 
-| szaporítási fok |
+| 1. | A vizsgálat tárgya | Egység | Elit szaporítási fok | Certifikált szaporítási fok | Megjegyzések |
 
-| Izolációs távolság, más fajtától legalább | m | 300 |  |
+| 2. | 1. Izolációs távolság, más fajtától legalább | méter | 300 | 300 |  |
 
-| Gyomosság, legfeljebb | minősítő szám | 2 |  |
+| 3. | 2. Gyomosság, legfeljebb | minősítő szám | 2 | 2 |  |
 
-| Fejlettség, legalább |  |  |  |
+| 4. | 3. Kultúrállapot, legalább | értékszám | 4 | 4 |  |
 
-| Kiegyenlítettség, legalább | érték- szám | 4 |  |
+| 5. | 4. Fejlettség, legalább | értékszám | 4 | 4 |  |
 
-| Kultúrállapot, legalább |  |  |  |
+| 6. | 5. Kiegyenlítettség, legalább | értékszám | 4 | 4 |  |
 
-| Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 0 | 0,3 | Az első ellenőrzéskor kell véglegesen elbírálni. |
+| 7. | 6. Idegen fajta a mintaterek átlagában, legfeljebb | db növény | 0 | 0,3 | Az első ellenőrzéskor kell véglegesen elbírálni. |
 
-| Virusos vagy mikoplazmás megbetegedések, a mintaterek átlagában, legfeljebb |  | 10 | Tünetek: rozettás törpülés, mozaikosság, tarkalevelűség, nekrózis. |
+| 8. | 7. Vírusos vagy mikoplazmás megbetegedések, a mintaterek átlagában, legfeljebb | % | 10 | 10 | Tünetek: rozettás törpülés, mozaikosság, tarkalevelűség, nekrózis. |
 
-| Baktériumos betegségek, a mintaterek átlagában, együttesen legfeljebb Baktériumos levélfoltosság Xanthomonas vesicatoria), Baktériumos lágyrothadás (Pseudomonas syringae var. capsici) | % | 10 | A határértékek a beteg bogyójú növényegyedekre vonatkoznak. |
+| 9. | 7.1. Paradicsom barna termés-ráncosodás vírus (ToBRFV), a mintaterek átlagában, legfeljebb | % | 0 | 0 | A ToBRFV vírussal szemben ismerten ellenálló fajták kivételével. |
 
-| Gombabetegségek, a mintaterek átlagában, együttesen legfeljebb Botritiszes szár- és termésrothadás (Botrytis cinerea), Alternáriás szárazrothadás (Alternaria spp.), Kolletotrihumos termésfoltosság és rothadás (Colletotrichum atramentarium) | % | 3 | 6 |  |
+| 10. | 8. Baktériumos betegségek, a mintaterek átlagában, együttesen legfeljebb Baktériumos levélfoltosság (Xanthomonas vesicatoria), Baktériumos lágyrothadás (Pseudomonas syringae var.capsici) | % | 10 | 10 | A határértékek a beteg bogyójú növényegyedekre vonatkoznak. |
 
-| Fuzáriumos és verticilliumos tőhervadás (Verticillium alboatrum, Fusarium moniliforme, Verticillium dahliae). | Minősítő szám | 2 |  |
+| 11. | 9. Gombabetegségek a mintaterek átlagában, együttesen legfeljebb |  |
+
+| 12. | 9.1. Botritiszes szár- és termésrothadás (Botrytis cinerea), Kolletotrihumos termésfoltosság és rothadás (Colletotrichum atramentarium), Alternáriás szárazrothadás (Alternaria spp.) | % | 3 | 6 |  |
+
+| 13. | 9.2. Fuzáriumos és verticilliumos tőhervadás (Verticillium alboatrum, Fusarium moniliforme, Verticillium dahliae) | minősítő szám | 2 | 2 |  |
 
 ## Bab (Phaseolus vulgaris L.)
 
@@ -1046,6 +1054,6 @@
 
 | ***** | Az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer egy-egy ellenőrzésen legfeljebb 0,5% lehet. |
 
-6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^255]
+6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^256]
 
-[^255]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a, a 47/2016. (VII. 15.) FM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^256]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a, a 47/2016. (VII. 15.) FM rendelet 9. § (1) bekezdése szerint módosított szöveg.

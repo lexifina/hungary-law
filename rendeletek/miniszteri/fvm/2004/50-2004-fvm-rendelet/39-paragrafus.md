@@ -36,9 +36,11 @@ m)[^245] a Bizottság 2020/432/EU végrehajtási irányelve (2020. március 23.)
 
 n)[^246] a Bizottság (EU) 2021/971 végrehajtási irányelve (2021. június 16.) a takarmánynövény-vetőmagok forgalmazásáról szóló 66/401/EGK tanácsi irányelv I. mellékletének, a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanácsi irányelv I. mellékletének, a répavetőmag forgalmazásáról szóló 2002/54/EK tanács irányelv I. mellékletének, a zöldségvetőmagok forgalmazásáról szóló 2002/55/EK tanácsi irányelv I. mellékletének, valamint az olaj- és rostnövények vetőmagjának forgalmazásáról szóló 2002/57/EK tanácsi irányelv I. mellékletének a biokémiai és molekuláris technikák alkalmazása tekintetében történő módosításáról.
 
-(3)[^247] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+o)[^247] a Bizottság (EU) 2024/3010 végrehajtási irányelve (2024. november 29.) a 2002/55/EK és a 2002/57/EK tanácsi irányelvnek, valamint a 93/61/EGK bizottsági irányelvnek a vetőmagon és egyéb növényi szaporítóanyagokon előforduló növénykárosítók jegyzéke tekintetében történő módosításáról.
 
-(4)[^248] E rendelet
+(3)[^248] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4)[^249] E rendelet
 
 a) a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet, valamint
 
@@ -59,5 +61,6 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 [^244]: A 39. § (2) bekezdés l) pontját a 36/2020. (VI. 29.) AM rendelet 4. §-a iktatta be.
 [^245]: A 39. § (2) bekezdés m) pontját a 36/2020. (VI. 29.) AM rendelet 4. §-a iktatta be.
 [^246]: A 39. § (2) bekezdés n) pontját a 29/2022. (IX. 22.) AM rendelet 6. §-a iktatta be.
-[^247]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.
-[^248]: A 39. § (4) bekezdését a 35/2020. (VI. 29.) AM rendelet 5. § (2) bekezdése iktatta be.
+[^247]: A 39. § (2) bekezdés o) pontját a 19/2025. (V. 30.) AM rendelet 3. §-a iktatta be.
+[^248]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.
+[^249]: A 39. § (4) bekezdését a 35/2020. (VI. 29.) AM rendelet 5. § (2) bekezdése iktatta be.

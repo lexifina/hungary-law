@@ -1,4 +1,4 @@
-8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^257]
+8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^258]
 
 A zöldségvetőmag minták tömege
 
@@ -92,4 +92,4 @@ A vetőmag megengedett legnagyobb árutételének tömege nem léphető túl 5%-
 
 | Zea mays | 1000 |  |
 
-[^257]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése, a 14/2011. (II. 24.) VM rendelet 16. § (2) bekezdése, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^258]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése, a 14/2011. (II. 24.) VM rendelet 16. § (2) bekezdése, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
