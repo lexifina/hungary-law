@@ -1,13 +1,13 @@
-## 5/B. [^201] Adatszolgáltatási kötelezettség
+## 5/B. [^212] Adatszolgáltatási kötelezettség
 
-15/B. §[^202] (1) A sportpolitikáért felelős miniszter a sportfejlesztési programok jóváhagyásáról szóló döntések 4. § szerinti meghozatalát követően, de legkésőbb a tárgyév október 30-áig adatot szolgáltat az államháztartásért felelős miniszter és az adópolitikáért felelős miniszter részére a sportfejlesztési programban feltüntetett, egyes jogcímeken igénybe vehető támogatás teljes értékéről.
+15/B. §[^213] (1) A sportpolitikáért felelős miniszter a sportfejlesztési programok jóváhagyásáról szóló döntések 4. § szerinti meghozatalát követően, de legkésőbb a tárgyév október 30-áig adatot szolgáltat az államháztartásért felelős miniszter és az adópolitikáért felelős miniszter részére a sportfejlesztési programban feltüntetett, egyes jogcímeken igénybe vehető támogatás teljes értékéről.
 
 (2) A sportpolitikáért felelős miniszter negyedévente adatokat szolgáltat az államháztartásért felelős miniszter és az adópolitikáért felelős miniszter részére a támogatott szervezetek részére az egyes támogatási jogcímeken kiadott igazolásokról és támogatási igazolásokról.
 
-(3)[^203] A Tao. tv. 22/C. § (1) bekezdés c) pont cb), cd) és cf) alpontjában meghatározott jogcímekre nyújtott támogatás és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a támogatás a Tao. tv. 30/I. §-a alapján az Európai Bizottságnak a Tao. tv. 30/I. § (1) bekezdésében rögzített határozatai vagy a 651/2014/EU bizottsági rendelet hatálya alá tartozik, a Tao. tv. 22/C. § (1) bekezdés a) pont ac) és ag) alpontjában, b) pont bd), bf) és bg) alpontjában, továbbá d) pont dc), de) és dg) alpontjában meghatározott jogcímek szerinti, egyenként 100 ezer eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról a jóváhagyást végző szervezet adatot köteles szolgáltatni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke, illetve az Európai Bizottságnak az Európai Unió működéséről szóló szerződés 107. cikk (3) bekezdés a) vagy c) pontja szerinti egyedi határozata szerinti közzététel céljából.
+(3)[^214] A Tao. tv. 22/C. § (1) bekezdés c) pont cb), cd) és cf) alpontjában meghatározott jogcímekre nyújtott támogatás és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a támogatás a Tao. tv. 30/I. §-a alapján az Európai Bizottságnak a Tao. tv. 30/I. § (1) bekezdésében rögzített határozatai vagy a 651/2014/EU bizottsági rendelet hatálya alá tartozik, a Tao. tv. 22/C. § (1) bekezdés a) pont ac) és ag) alpontjában, b) pont bd), bf) és bg) alpontjában, továbbá d) pont dc), de) és dg) alpontjában meghatározott jogcímek szerinti, egyenként 100 ezer eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról a jóváhagyást végző szervezet adatot köteles szolgáltatni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke, illetve az Európai Bizottságnak az Európai Unió működéséről szóló szerződés 107. cikk (3) bekezdés a) vagy c) pontja szerinti egyedi határozata szerinti közzététel céljából.
 
 (4) A jóváhagyó szervezet (3) bekezdés szerinti adatszolgáltatására és közzétételre az Atr. 18/A–18/D. § rendelkezéseit kell alkalmazni.
 
-[^201]: Az 5/B. alcímet (15/B. §) a 76/2012. (IV. 13.) Korm. rendelet 7. §-a iktatta be.
-[^202]: A 15/B. § a 318/2018. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^203]: A 15/B. § (3) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^212]: Az 5/B. alcímet (15/B. §) a 76/2012. (IV. 13.) Korm. rendelet 7. §-a iktatta be.
+[^213]: A 15/B. § a 318/2018. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^214]: A 15/B. § (3) bekezdése a 398/2024. (XII. 16.) Korm. rendelet 10. §-ával megállapított szöveg.

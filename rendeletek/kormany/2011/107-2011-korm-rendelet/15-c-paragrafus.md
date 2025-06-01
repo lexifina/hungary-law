@@ -1,6 +1,6 @@
-## 5/C. [^204] Utóellenőrzések elrendelése
+## 5/C. [^215] Utóellenőrzések elrendelése
 
-15/C. §[^205] (1) Utóellenőrzés keretében a sportfejlesztési program részben vagy egészben történt megvalósulásának utólagos ellenőrzésére – ideértve a sportfejlesztési program jóváhagyását, a támogatási igazolás kiállítását, a jóváhagyott sportfejlesztési program megvalósítását, a támogatások, kiegészítő sportfejlesztési támogatások, a kamatozó tartalék és a sportfejlesztési program megvalósítását biztosító saját forrás összege felhasználásának ellenőrzését – kerülhet sor.
+15/C. §[^216] (1) Utóellenőrzés keretében a sportfejlesztési program részben vagy egészben történt megvalósulásának utólagos ellenőrzésére – ideértve a sportfejlesztési program jóváhagyását, a támogatási igazolás kiállítását, a jóváhagyott sportfejlesztési program megvalósítását, a támogatások, kiegészítő sportfejlesztési támogatások, a kamatozó tartalék és a sportfejlesztési program megvalósítását biztosító saját forrás összege felhasználásának ellenőrzését – kerülhet sor.
 
 (2) A sportpolitikáért felelős miniszter az utóellenőrzés lefolytatását hivatalból elrendelheti, ha az Stv. 51. § (2) bekezdés g) pont gd) alpontja szerint meghatározott feladataival összefüggésben saját hatáskörben olyan tényt, körülményt tár fel, amely az általa lefolytatott ellenőrzés megállapításainak megváltoztatását eredményezheti. Az utóellenőrzés lefolytatását elrendelő döntésben meg kell határozni az utóellenőrzés lefolytatásának kezdő időpontját.
 
@@ -30,5 +30,5 @@
 
 (15) Az utóellenőrzésre a 12. §-ban, valamint a 13. § (4)–(4a) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-[^204]: Az 5/C. alcímet (15/C. §) a 128/2017. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
-[^205]: A 15/C. § a 398/2024. (XII. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^215]: Az 5/C. alcímet (15/C. §) a 128/2017. (VI. 8.) Korm. rendelet 2. §-a iktatta be.
+[^216]: A 15/C. § a 398/2024. (XII. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
