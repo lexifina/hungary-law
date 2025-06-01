@@ -2,6 +2,8 @@
 
 ## A DIGITÁLIS TÉR ÉS A SZOLGÁLTATÓK KAPCSOLATA
 
-65. §[^2]
+65. § Nem köteles alkalmazni a HARMADIK RÉSZ előírásait
 
-[^2]: A 65. § a 76. § (2) bekezdése alapján 2025. június 1-jén lép hatályba.
+a) a Dáptv. 80. § (1) bekezdés i)–o) pontja szerinti szervezet és
+
+b) a Dáptv. 80. § (3) bekezdése szerinti szervezet.
