@@ -1,4 +1,4 @@
-87/A. §[^447] (1) Az Áht. 51. § (4b) bekezdése szerinti támogatási előleg mértéke a megítélt támogatás összegének
+87/A. §[^449] (1) Az Áht. 51. § (4b) bekezdése szerinti támogatási előleg mértéke a megítélt támogatás összegének
 
 a) legfeljebb 100%-a, ha a kedvezményezett előlegek fogadására szolgáló fizetési számláját a Kincstár vezeti, vagy a Kincstárnál külön fizetési számlával rendelkezik, és a megítélt támogatás összege meghaladja az ötvenmillió forintot,
 
@@ -14,4 +14,4 @@ d) legfeljebb 25%-a, ha nem tartozik az a)–c) pontba.
 
 (4) A támogató az államháztartásért felelős miniszter egyetértésével az (1) bekezdés a)–d) pontja szerinti százalékos mértéktől, valamint összeghatártól eltérhet, ha a kedvezményezett eltérő mértékű, illetve összegű támogatási előleg szükségességét megalapozottan indokolja és a támogatási előleg kifizetése ütemezését alátámasztó likviditási tervet készít.
 
-[^447]: Az Ávr. 87/A. §-át a 462/2024. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^449]: Az Ávr. 87/A. §-át a 462/2024. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

@@ -1,6 +1,6 @@
-## [Az Áht. 36. § (2) bekezdéséhez][^186]
+## [Az Áht. 36. § (2) bekezdéséhez][^188]
 
-45/A. §[^187] (1) A Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában fel kell tüntetni
+45/A. §[^189] (1) A Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában fel kell tüntetni
 
 a) a kötelezettségvállalás célját,
 
@@ -14,10 +14,10 @@ d) azt a határidőt, amelyen belül az államháztartásért felelős miniszter
 
 (3) A Kormány Áht. 36. § (2) bekezdés szerinti egyedi határozatának elfogadására vonatkozó előterjesztés az államháztartásért felelős miniszter álláspontjának beszerzését követően nyújtható be a Kormány részére.
 
-(4)[^188] Az előirányzat-átcsoportosításról az államháztartásért felelős miniszter a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában megállapított határidőn belül gondoskodik. Az átcsoportosított előirányzat kizárólag a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában megjelölt kötelezettségvállalás fedezetéül szolgálhat, annak terhére más kötelezettség nem vállalható.
+(4)[^190] Az előirányzat-átcsoportosításról az államháztartásért felelős miniszter a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában megállapított határidőn belül gondoskodik. Az átcsoportosított előirányzat kizárólag a Kormány Áht. 36. § (2) bekezdése szerinti egyedi határozatában megjelölt kötelezettségvállalás fedezetéül szolgálhat, annak terhére más kötelezettség nem vállalható.
 
 (5) Az Áht. 36. § (2) bekezdése szerinti kötelezettség úgy vállalható, hogy az ahhoz kapcsolódó fizetési kötelezettség teljesítésének legkorábbi időpontja az előirányzat-átcsoportosítás (4) bekezdés szerinti időpontjánál későbbi időpontra essen.
 
-[^186]: Az Ávr. 45/A. §-át megelőző alcím címet a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^187]: Az Ávr. 45/A. §-át a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^188]: Az Ávr. 45/A. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.
+[^188]: Az Ávr. 45/A. §-át megelőző alcím címet a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^189]: Az Ávr. 45/A. §-át a 89/2016. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^190]: Az Ávr. 45/A. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.

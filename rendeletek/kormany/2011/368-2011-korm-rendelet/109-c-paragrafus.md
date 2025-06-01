@@ -1,4 +1,4 @@
-109/C. §[^524] (1) Az ellenőrzés vezetője felelős
+109/C. §[^526] (1) Az ellenőrzés vezetője felelős
 
 a) a helyszíni ellenőrzés előkészítéséért, a helyszíni ellenőrzés megszervezéséért,
 
@@ -12,7 +12,7 @@ e) a készített iratoknak és iratmásolatoknak az ellenőrzés dokumentációj
 
 (2) Az ellenőr jogosult
 
-a)[^525] a helyi önkormányzat, az önkormányzati hivatal és más önkormányzati költségvetési szerv által végzett felügyeleti ellenőrzés, belső ellenőrzés és a törvényességi felügyeletet ellátó fővárosi és vármegyei kormányhivatal és más ellenőrzést végző közigazgatási szerv megállapításait felhasználni,
+a)[^527] a helyi önkormányzat, az önkormányzati hivatal és más önkormányzati költségvetési szerv által végzett felügyeleti ellenőrzés, belső ellenőrzés és a törvényességi felügyeletet ellátó fővárosi és vármegyei kormányhivatal és más ellenőrzést végző közigazgatási szerv megállapításait felhasználni,
 
 b) az ellenőrzött helyi önkormányzat polgármesterétől és jegyzőjétől, továbbá az ellenőrzött szerv vezetőjétől a rendelkezésére bocsátott dokumentáció, adatok teljességéről nyilatkozatot (a továbbiakban: teljességi nyilatkozat) kérni,
 
@@ -46,5 +46,5 @@ c) az ellenőrökkel együttműködni és velük folyamatosan kapcsolatot tartan
 
 d) a rendelkezésre bocsátott dokumentáció (iratok, okiratok, adatok) teljességéről felhívásra nyilatkozni.
 
-[^524]: Az Ávr. 109/C. §-át a 175/2015. (VII. 7.) Korm. rendelet 19. §-a iktatta be.
-[^525]: A 109/C. § (2) bekezdés a) pontja a 480/2022. (XI. 28.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^526]: Az Ávr. 109/C. §-át a 175/2015. (VII. 7.) Korm. rendelet 19. §-a iktatta be.
+[^527]: A 109/C. § (2) bekezdés a) pontja a 480/2022. (XI. 28.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.

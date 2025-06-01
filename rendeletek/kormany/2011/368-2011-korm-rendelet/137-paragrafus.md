@@ -1,8 +1,8 @@
-137. § (1)[^642]
+137. § (1)[^644]
 
-(2)[^643]
+(2)[^645]
 
 (3) Az egészségügyi szolgáltatások ártámogatásának kincstári teljesítéséhez a megbízásokat a teljesítést egy munkanappal megelőzően kell a Kincstárnak átadni.
 
-[^642]: Az Ávr. 137. § (1) bekezdését a 801/2021. (XII. 28.) Korm. rendelet 16. § (1) bekezdés 5. pontja hatályon kívül helyezte.
-[^643]: Az Ávr. 137. § (2) bekezdését a 801/2021. (XII. 28.) Korm. rendelet 16. § (1) bekezdés 5. pontja hatályon kívül helyezte.
+[^644]: Az Ávr. 137. § (1) bekezdését a 801/2021. (XII. 28.) Korm. rendelet 16. § (1) bekezdés 5. pontja hatályon kívül helyezte.
+[^645]: Az Ávr. 137. § (2) bekezdését a 801/2021. (XII. 28.) Korm. rendelet 16. § (1) bekezdés 5. pontja hatályon kívül helyezte.
