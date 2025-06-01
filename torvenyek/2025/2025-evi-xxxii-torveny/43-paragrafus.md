@@ -1,11 +1,1 @@
-43. § (1) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A távoli azonosítás során a digitális állampolgárság szolgáltató a videójel segítségével a személyazonosság igazolásához használt okmányról vagy a tárolóeleméből kiolvasott természetes személyazonosító adatokat, az arcképmást, az állampolgárságot és az okmányazonosítót összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő adatokkal, ellenőrzi az okmány érvényességét. A távoli azonosítás során a digitális állampolgárság szolgáltató a felhasználóról videójel segítségével készített arcképet összehasonlítja a személyazonosság igazolásához használt okmányon szereplő vagy a tárolóelemből kiolvasott arcképmással. A felhasználó személyazonosságának ellenőrzésére az Atv. 12/B. §-ában meghatározott szolgáltatás is alkalmazható.”
-
-(2) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. § (14) bekezdése helyébe a következő rendelkezés lép:
-
-„(14) A felhasználó személyazonosságának igazolását követően a digitális állampolgárság szolgáltató a (12) bekezdés szerinti szerv útján a felhasználó rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható kódot, amely a sikeres előregisztráció megtörténtét igazoló információt (a továbbiakban: előregisztrációs adat) tartalmazza. Az előregisztrációs adatot a felhasználó a keretalkalmazás segítségével a mobileszközében eltárolja. A digitális állampolgárság szolgáltató az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja. A digitális állampolgárság szolgáltató a regisztráció sikeres befejezéséről értesíti a digitális állampolgárság nyilvántartást vezető szervet.”
-
-(3) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. §-a a következő (14a) bekezdéssel egészül ki:
-
-„(14a) A (14) bekezdés szerinti értesítést követően a digitális állampolgárság nyilvántartást vezető szerv a felhasználói profil aktiválásáról értesíti a digitális állampolgárság szolgáltatót. Az értesítés tartalmazza a felhasználó digitális állampolgár azonosítóját.”
+### 43. §

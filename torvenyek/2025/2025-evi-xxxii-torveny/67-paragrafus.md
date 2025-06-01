@@ -1,3 +1,1 @@
-67. § A Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény 57. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A sérülékenységvizsgálatot a sérülékenységvizsgálat végzésére jogosult állami szerv végzi el, ha az (5) bekezdés a) pontja szerinti elektronikus információs rendszereken kívüli, a Kszetv. szerinti kritikus szervezet, valamint a Vbö. alapján az ország védelme és biztonsága szempontjából jelentős szervezetként kijelölt szervezet elektronikus információs rendszere tekintetében nincs a sérülékenységvizsgálat elvégzésére e törvényben meghatározott feltételeknek megfelelő, sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezet.”
+### 67. §

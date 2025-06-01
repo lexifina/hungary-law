@@ -1,3 +1,1 @@
-6. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/G. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az (1) bekezdésben megjelölt polgár a (2) bekezdés szerinti személyazonosító igazolvány kiadása érdekében a kényszerintézkedést vagy büntetést foganatosító büntetés-végrehajtási intézet (a továbbiakban: bv. szerv) rendelkezésére bocsátja arcképmását, saját kezű aláírását, valamint a 29/A. § (1) bekezdése szerint az ujjnyomatát. A bv. szerv – ha törvény eltérően nem rendelkezik – az adatokat a kijelölt kormányhivatal részére történő megküldésig kezeli.”
+### 6. §

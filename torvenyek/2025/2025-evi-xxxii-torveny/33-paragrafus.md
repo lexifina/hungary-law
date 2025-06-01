@@ -1,3 +1,1 @@
-33. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 19. §-a helyébe a következő rendelkezés lép:
-
-„19. § Ahol e törvény a 7. § (2) bekezdés a) pontjában meghatározott adatok igazolását írja elő, ott az adatszolgáltatás és az adatok igazoló ellenőrzése a digitális állampolgárság szolgáltató által szolgáltatott adat alapján vagy digitálisan kiállított hiteles igazolás alapján is elvégezhető.”
+### 33. §
