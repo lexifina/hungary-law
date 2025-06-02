@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-25-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 2000-25-00-00.33 |
 | 2023-06-01 | 2023. évi XIX. törvény | 2000-25-00-00.34 |
 | 2024-01-01 | 2023. évi CIX. törvény | 2000-25-00-00.35 |
+| 2025-06-02 | 2025. évi XXXIV. törvény | 2000-25-00-00.36 |

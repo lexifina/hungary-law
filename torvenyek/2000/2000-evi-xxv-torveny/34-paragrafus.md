@@ -56,7 +56,7 @@ ae)
 
 af) a vegyi anyagok okozta mérgezési esetek kötelező bejelentésének szabályait,
 
-ag) az osztályba sorolt veszélyes anyagok jegyzékbe vételének, a veszélyes keverékek nyilvántartásának rendjét, valamint a jegyzék közzétételére és rendszeres felülvizsgálatára vonatkozó részletes szabályokat,
+ag)
 
 ah) a veszélyes anyagokkal és a veszélyes keverékekkel végzett tevékenység előzetes bejelentésének, a bejelentési eljárásnak a részletes szabályait,
 
