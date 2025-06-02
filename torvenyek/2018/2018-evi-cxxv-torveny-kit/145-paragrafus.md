@@ -36,6 +36,8 @@ i) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként p
 
 j) az egészségügyi szolgálati jogviszonyban töltött időt
 
+k) a köznevelési foglalkoztatotti jogviszonyban töltött időt
+
 kell figyelembe venni.
 
 (4) A kormánytisztviselő nem jogosult a szolgálati elismerésnek arra a fokozatára, amelyben másik foglalkoztatási jogviszonyban szolgálati idő elismerésként vagy jubileumi jutalomként részesült.
