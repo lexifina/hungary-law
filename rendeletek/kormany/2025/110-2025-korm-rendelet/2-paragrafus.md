@@ -1,5 +1,5 @@
 ## 2. Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet módosítása
 
-2. § Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet 3. § (2) bekezdése a következő c) ponttal egészül ki:
+2. §[^3]
 
-[Az OKFŐ a 2. § (1) bekezdése szerinti egészségügyi intézmények vonatkozásában]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
