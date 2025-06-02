@@ -2,7 +2,7 @@
 
 a) az ápolt személy két hónapot meghaladóan fekvőbeteg-gyógyintézeti, valamint nappali ellátást nyújtó vagy bentlakásos szociális intézményi ellátásban, óvodai elhelyezésben vagy gyermekvédelmi szakellátást nyújtó bentlakásos intézményi elhelyezésben részesül, illetve köznevelési intézmény tanulója vagy felsőoktatási intézmény nappali képzésben részt vevő hallgatója, kivéve, ha
 
-aa) a köznevelési intézményben eltöltött idő a köznevelési intézményben, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
+aa) az iskolában, szakképző intézményben eltöltött idő a jogszabályban előírt, az iskolában, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
 
 ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg,
 
@@ -46,7 +46,7 @@ a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban, korhatár e
 
 b) az a) pont szerinti ellátásra való jogosultság keletkezését megelőző napon a 41. § (1) bekezdés a) pont aa) alpontja szerinti vagy kiemelt ápolási díjra volt jogosult, és
 
-c) az a) pont szerinti ellátásra való jogosultság kezdő napját megelőző húsz éven belül a 41. § (1) bekezdés a) pont aa) alpontja szerinti vagy a kiemelt ápolási díjra való jogosultsága legalább tíz évig fennállt.
+c) az a) pont szerinti ellátásra való jogosultság kezdő napját megelőző húsz éven belül a 41. § (1) bekezdés a) pont aa) alpontja szerinti vagy a kiemelt ápolási díjra vagy gyermekek otthongondozási díjára való jogosultsága legalább tíz évig fennállt.
 
 (5) A (4) bekezdés alkalmazása során a 41. § (1) bekezdés a) pont aa) alpontja szerinti, valamint kiemelt ápolási díjra való jogosultság időtartamát össze kell számítani.
 

@@ -2,7 +2,7 @@
 
 a) a gyermek két hónapot meghaladóan fekvőbeteg-gyógyintézeti, valamint nappali ellátást nyújtó vagy bentlakásos szociális intézményi ellátásban, óvodai elhelyezésben vagy gyermekvédelmi szakellátást nyújtó bentlakásos intézményi elhelyezésben részesül, illetve köznevelési intézmény tanulója vagy felsőoktatási intézmény nappali képzésben részt vevő hallgatója, kivéve, ha
 
-aa) a köznevelési intézményben eltöltött idő a köznevelési intézményben, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
+aa) az iskolában, szakképző intézményben eltöltött idő a jogszabályban előírt, az iskolában, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
 
 ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg, vagy
 

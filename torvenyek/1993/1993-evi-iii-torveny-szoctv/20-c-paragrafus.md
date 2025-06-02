@@ -20,6 +20,12 @@ gb) annak a jogviszonynak a típusát, amelyben az ellátott fejlesztő foglalko
 
 gc) az ellátott által ledolgozott foglalkoztatási órák számát.
 
+h) fogyatékos személyek nappali és bentlakásos ellátása, valamint támogató szolgáltatás esetén az igénybe vevő fogyatékosságának típusát, támogató szolgáltatás esetén továbbá a személyi segítéssel, szállítási szolgáltatással teljesített feladatmutatót,
+
+i) pszichiátriai betegek és szenvedélybetegek közösségi ellátása, nappali és bentlakásos ellátása esetén az igénybe vevő diagnóziskódját vagy szenvedélybetegségének típusát,
+
+j) azt, hogy az igénybe vevő ellátása külső férőhelyen történik-e.
+
 (2) Nem kell az (1) bekezdés szerinti nyilvántartásba venni az adatokat falugondnoki és tanyagondnoki szolgáltatás, szenvedélybetegek alacsonyküszöbű ellátása és utcai szociális munka esetén.
 
 (3) Az (1) bekezdés a) pontja szerinti adatok közül csak a 20. § (2) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni

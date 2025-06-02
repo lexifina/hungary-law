@@ -1,3 +1,9 @@
-23. § (1) Ha törvény másként nem rendelkezik, a 18–18/B. §, a 20. § vagy a 20/C. § szerinti nyilvántartásokból a szociális ellátásra való jogosultság megszűnésétől számított öt év elteltével – a szolgálati időre jogosító ellátások kivételével – törölni kell az adott személyre vonatkozó adatokat. A szolgálati időre jogosító ellátások esetében az adott személyre vonatkozó adatok törlését a Kormány rendeletben szabályozza.
+23. § (1) Ha törvény másként nem rendelkezik, a 18–18/B. §, a 20. § vagy a 20/C. § szerinti nyilvántartásokból
+
+a) a szociális ellátás iránti kérelem elutasításától,
+
+b) megállapított ellátás esetén – a szolgálati időre jogosító ellátások kivételével – az ellátásra való jogosultság megszűnésétől
+
+számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A szolgálati időre jogosító ellátások esetében az adott személyre vonatkozó adatok törlését a Kormány rendeletben szabályozza.
 
 (2) A 18/B. § szerinti nyilvántartásból az adatokat a Kormány által kijelölt szerv törli. A 18/B. § (2) bekezdés d) pontja szerinti adatkör tekintetében a Gyvt. 142. § (1) bekezdése szerint törölhetők az adatok.

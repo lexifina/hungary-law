@@ -14,6 +14,8 @@ c) a személyes gondoskodást nyújtó szociális ellátás esetében az intézm
 
 (3) A szociális hatáskört gyakorló szerv a jogosulatlanul igénybe vett ellátás megtérítését az igénybevételről való tudomásszerzésétől számított három hónapon belül rendelheti el. Nem lehet a megtérítést elrendelni, ha az igénybevételtől, illetőleg folyamatos ellátás esetén az ellátás megszűnésétől egy év már eltelt.
 
+(3a) A folyamatosan nyújtott ellátás megtérítését legfeljebb egy évre visszamenőlegesen lehet elrendelni.
+
 (4) Ha a járási hivatal a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 
 a) csökkentheti vagy elengedheti, ha a visszafizetésre kötelezett személy családjának egy főre jutó havi jövedelme nem haladja meg a szociális vetítési alap összegének két és félszeresét,
@@ -36,7 +38,7 @@ c) részletekben fizettetheti meg.
 
 a) részére a kérelem benyújtásakor más rendszeres pénzellátás megállapítására irányuló eljárás van folyamatban, vagy
 
-b) az időskorúak járadéka, az aktív korúak ellátása, gyermekek otthongondozási díja vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a végleges döntés meghozatalát megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
+b) az időskorúak járadéka, az aktív korúak ellátása, gyermekek otthongondozási díja vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a döntés véglegessé válását megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
 
 (8) Az időskorúak járadékában, gyermekek otthongondozási díjában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési ellátás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
 

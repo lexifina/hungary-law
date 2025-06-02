@@ -82,7 +82,7 @@ kell folyósítani.
 
 (12) A jövedelemszámításnál
 
-a) a (4)–(6) bekezdés szerinti felülvizsgálat során annak a havi rendszeres szociális ellátásnak az összegét, amelynek összegére vagy jogosultsági feltételeinek fennállására a felülvizsgálat vonatkozik,
+a) a (4)–(6) bekezdés szerinti felülvizsgálat során annak a havi rendszeres szociális ellátásnak, foglalkoztatást helyettesítő támogatásnak az összegét, amelynek összegére vagy jogosultsági feltételeinek fennállására a felülvizsgálat vonatkozik,
 
 b) a foglalkoztatást helyettesítő támogatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a foglalkoztatást helyettesítő támogatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet,
 

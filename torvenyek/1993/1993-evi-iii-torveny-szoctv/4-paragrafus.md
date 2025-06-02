@@ -10,7 +10,7 @@ b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatl
 
 ba) külön-külön számított forgalmi értéke, illetve összege a szociális vetítési alap összegének a harmincszorosát, vagy
 
-bb) együttes forgalmi értéke a szociális vetítési alap összegének a nyolcvanszorosát
+bb) együttes forgalmi értéke, illetve összege a szociális vetítési alap összegének a nyolcvanszorosát
 
 meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatánál nem minősül vagyonnak az az ingatlan, amelyben az érintett személy életvitelszerűen lakik, az a vagyoni értékű jog, amely az általa lakott ingatlanon áll fenn, továbbá a mozgáskorlátozottságra tekintettel fenntartott gépjármű;
 
@@ -66,7 +66,7 @@ nb) a betétszerződés és takarékbetét-szerződés alapján takarékbetétk�
 
 1. a rendkívüli települési támogatás, valamint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez, a gyógyszerkiadások viseléséhez és a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére nyújtott települési támogatás,
 
-2. a rendkívüli gyermekvédelmi támogatás, a Gyvt. 20/A. §-a szerinti támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
+2. a Gyvt. 20/A. §-a szerinti támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
 
 3. az anyasági támogatás,
 

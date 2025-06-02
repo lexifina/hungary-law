@@ -32,7 +32,7 @@ c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának me
 
 d)
 
-e) aki a foglalkoztatást helyettesítő támogatásra való jogosultságának a 25. § (4) bekezdés b) pontja szerinti éves felülvizsgálata során, a felülvizsgálat időpontját megelőző egy évben a foglalkoztatást helyettesítő támogatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
+e) aki a foglalkoztatást helyettesítő támogatásra való jogosultságának a 25. § (4) bekezdés c) pontja szerinti éves felülvizsgálata során, a felülvizsgálat időpontját megelőző egy évben a foglalkoztatást helyettesítő támogatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
 
 ea) közfoglalkoztatásban nem vett részt,
 
