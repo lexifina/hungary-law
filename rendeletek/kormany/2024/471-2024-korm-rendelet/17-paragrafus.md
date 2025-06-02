@@ -1,5 +1,5 @@
 ## 5. A központi fűtésről és melegvíz-szolgáltatásról szóló 676/2023. (XII. 29.) Korm. rendelet módosítása
 
-17. §[^17]
+17. §[^18]
 
-[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
