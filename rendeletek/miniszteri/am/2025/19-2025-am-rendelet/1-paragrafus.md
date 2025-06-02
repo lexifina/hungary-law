@@ -8,6 +8,6 @@
 
 ## 1. A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet módosítása
 
-1. § A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet [a továbbiakban: 48/2004. (IV. 21.) FVM rendelet] 59. § (2) bekezdése a következő 29. ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
