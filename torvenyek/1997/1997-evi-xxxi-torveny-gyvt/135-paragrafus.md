@@ -48,7 +48,7 @@ aj) fényképére, a róla készített mozgóképre vonatkozó,
 
 ak) hátrányos vagy halmozottan hátrányos helyzetére vonatkozó;
 
-b) a szülő, törvényes képviselő, befogadó szülő
+b) a szülő, törvényes képviselő, befogadó szülő, bántalmazott személy, várandós anya
 
 ba) személyazonosító, és a társadalombiztosítási azonosító jelére vonatkozó,
 
@@ -150,6 +150,8 @@ b) a nevelőszülőnek a (2) bekezdés b) pontjában foglalt adatain túl a neve
 
 c) a nevelőszülőnek jelentkező személlyel és a nevelőszülővel egy háztartásban élő személyek személyazonosító adatait, a gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó adatait és azon egészségi állapotra vonatkozó adatait, amelyek kihatással lehetnek a gyermek ellátására.
 
+d) a nevelőszülőnek jelentkező személy és a nevelőszülő háztartására, a feladatellátás helyszínéül szolgáló ingatlanára és az arról készített fényképre vonatkozó adatot.
+
 (5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése, utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhatóság kezeli
 
 a) a családba fogadó személy személyazonosító adatait, valamint az egészségi állapotára és a vagyoni helyzetére vonatkozó adatokat,
@@ -210,7 +212,7 @@ ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósá
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
-(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, rendőrség, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
 
 a) az az adott gyermekre tartalmaz-e adatot,
 
@@ -221,6 +223,8 @@ ba) a gyermek szülőjének, családbafogadó gyámjának a lakcímét, elérhet
 bb) a gyermek gyermekvédelmi gyámjának és az utógondozói ellátásban részesülő fiatal felnőtt hivatásos gondnokának a hivatalos elérhetőségét, és
 
 c) a gyermek ügyében mely gyermekjóléti, gyermekvédelmi szolgáltató és gyámhatóság jár vagy járt el.
+
+(6e) A nevelőszülői hálózatnak a szolgáltatói nyilvántartásba történő bejegyzés és adatmódosítás iránti kérelme benyújtása céljából e kérelmeknek a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendeletben meghatározott kötelező adattartalmát a nevelőszülői hálózat fenntartója a Gyermekeink védelmében elnevezésű informatikai rendszer nevelőszülői alkalmassági alrendszeréből átadja a működést engedélyező szerv részére.
 
 (7) Gyámhatóság, a gyermekjóléti központ vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(5) bekezdésében meghatározott szolgáltatások, ellátások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő központ tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 

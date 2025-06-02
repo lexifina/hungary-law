@@ -30,7 +30,7 @@ b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott kés
 
 (6) Az utógondozói ellátás ismételten elrendelhető az (1) bekezdésben meghatározott ok fennállása esetén, legfeljebb a (2) bekezdésben meghatározott időtartamig.
 
-(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b), c), e) és f) pontjában foglaltak miatt került sor és a megszüntető határozat véglegessé válásától számítva egy év még nem telt el.
+(7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b), c), és e)–g) pontjában foglaltak miatt került sor és a megszüntető határozat véglegessé válásától számítva egy év még nem telt el.
 
 (8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
 
@@ -57,3 +57,5 @@ d) azt kéri,
 e) az (1) bekezdés b) pontja alapján elrendelt utógondozói ellátás esetén a tanulmányi vagy vizsgakötelezettségét önhibájából nem teljesíti,
 
 f) az ellátás megállapításáról szóló gyámhatósági határozat közlésétől számított 15 napon belül az ellátást nem vette igénybe és ennek okáról önhibájából nem értesítette az ellátást nyújtót.
+
+g) az ellátás igénybevételéről szóló megállapodásban foglaltakat súlyosan megszegi.

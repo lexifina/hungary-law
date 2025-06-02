@@ -6,4 +6,4 @@
 
 (3a)
 
-(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1) bekezdésben meghatározott gyermeklétszámtól – a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit szabályozó kormányrendeletben foglaltak szerint – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.
+(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1) bekezdésben meghatározott gyermeklétszámtól – a szükséges személyi és tárgyi feltételek megléte esetén – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.

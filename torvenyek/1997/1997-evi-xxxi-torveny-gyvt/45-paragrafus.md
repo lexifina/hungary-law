@@ -4,7 +4,7 @@
 
 ## Az ellátás tartalma
 
-45. § (1) A gyermekek átmeneti gondozása keretében – kivéve, ha a gyermek átmeneti gondozását családok átmeneti otthona biztosítja – a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, lakhatásáról (a továbbiakban: teljes körű ellátás) kell gondoskodni.
+45. § (1) A gyermekek átmeneti gondozása keretében – kivéve, ha a gyermek átmeneti gondozását családok átmeneti otthona biztosítja, vagy ha az 50/B. § (3) bekezdése szerinti eset áll fenn – a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, lakhatásáról (a továbbiakban: teljes körű ellátás) kell gondoskodni.
 
 (2) A gyermekek átmeneti gondozását – a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő (a továbbiakban együtt: szülő) kérelmére vagy belegyezésével – ideiglenes jelleggel, teljes körű ellátással kell biztosítani, ha a szülő egészségi állapota, életvezetési problémája, indokolt távolléte vagy más akadályoztatása miatt a gyermek nevelését a családban nem tudja megoldani, vagy utógondozói ellátásban részesül. A fogyatékos gyermek számára a különleges szükségleteihez igazodó ellátást kell biztosítani.
 
