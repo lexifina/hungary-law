@@ -2,8 +2,8 @@
 
 a) 5. § (7) bekezdésében az „az általa vezetett minisztérium honlapján” szövegrész,
 
-b) 6. § (2) bekezdés e) pontjában a „ ; szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrész,
+b)
 
-c) 12. § (5) bekezdésében a „ , hetedik” szövegrész,
+c)
 
 d) 99/K. § (2) és (3) bekezdése.

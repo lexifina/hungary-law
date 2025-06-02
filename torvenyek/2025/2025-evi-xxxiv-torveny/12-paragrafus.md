@@ -2,6 +2,6 @@
 
 a) 4. § (1a) bekezdés 2. pontjában a „rendkívüli gyermekvédelmi támogatás, a” szövegrész,
 
-b) 25. § (14) bekezdése,
+b)
 
 c) 34. § (3) bekezdésében a „ , d)” szövegrész.
