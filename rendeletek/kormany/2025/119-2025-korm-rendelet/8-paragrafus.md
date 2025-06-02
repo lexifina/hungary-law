@@ -1,7 +1,3 @@
-8. § Az R.
+8. §[^8]
 
-a) 6. § (1b) bekezdésében a „gazdasági” szövegrész helyébe az „üzleti” szöveg,
-
-b) 6. § (5) bekezdésében a „szervezetettel” szövegrész helyébe a „szervezettel” szöveg
-
-lép.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § Az R. 4. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+2. §[^2]
 
-(A kérelemhez a támogatás igénybevételére jogosult szervezet részéről csatolni kell)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
