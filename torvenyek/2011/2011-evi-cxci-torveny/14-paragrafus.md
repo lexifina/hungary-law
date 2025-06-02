@@ -1,6 +1,6 @@
 ## 5. A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályok
 
-14. § (1) A megváltozott munkaképességű személyek ellátásait a rehabilitációs hatóságnál az erre rendszeresített nyomtatványon vagy elektronikus űrlapon lehet kérelmezni. Az ellátásra való jogosultságot megállapító, vagy az egészségi állapotra tekintettel hozott elutasító döntés véglegessé válását vagy jogerőre emelkedését követő 12 hónapon belül előterjesztett újabb kérelmet csak akkor kell elbírálni, ha a rendelkezésre álló egészségügyi dokumentáció alapján megállapítható, hogy a kérelmező egészségi állapotában a korábbi döntésben még figyelembe nem vett tartós változás következett be.
+14. § (1) A megváltozott munkaképességű személyek ellátásait a rehabilitációs hatóságnál az erre rendszeresített nyomtatványon vagy elektronikus űrlapon lehet kérelmezni. Az ellátásra való jogosultságot megállapító, vagy az egészségi állapotra tekintettel hozott elutasító döntés véglegessé válását követő 12 hónapon belül előterjesztett újabb kérelmet csak akkor kell elbírálni, ha a rendelkezésre álló egészségügyi dokumentáció alapján megállapítható, hogy a kérelmező egészségi állapotában a korábbi döntésben még figyelembe nem vett tartós változás következett be.
 
 (1a) Ha a megváltozott munkaképességű személyek ellátásában részesülő személy az ellátásra való jogosultságot megállapító döntés véglegessé válását követően újabb kérelmet terjeszt elő, azt a 19. § (1) bekezdés b) pontja szerinti felülvizsgálat iránti kérelemnek kell tekinteni.
 

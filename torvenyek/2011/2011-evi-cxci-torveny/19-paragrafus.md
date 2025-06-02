@@ -4,7 +4,7 @@ a) az ellátást megállapító döntésben meghatározott időpontban,
 
 b) az ellátott kérelmére,
 
-c) a rehabilitációs ellátásban részesülő egészségi állapotában történt, a rehabilitációt lehetetlenné tevő tartós rosszabbodás vagy legalább 60 napi egybefüggő keresőképtelen állapot esetén,
+c) a rehabilitációs ellátásban részesülő egészségi állapotában történt, a rehabilitációt lehetetlenné tevő tartós rosszabbodás vagy legalább 90 napi egybefüggő keresőképtelen állapot esetén,
 
 d) olyan tényről vagy körülményről történő tudomásszerzés esetén, amely valószínűsíti, hogy a korábbi komplex minősítés során megállapított körülmény nem áll fent (rendkívüli felülvizsgálat), vagy
 

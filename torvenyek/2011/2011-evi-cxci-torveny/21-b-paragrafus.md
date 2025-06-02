@@ -94,6 +94,6 @@ e) az akkreditált munkaadó adatait az akkreditált munkaadói minősítése me
 
 f) a nem akkreditált munkaadó adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
 
-(4) Az akkreditált munkaadó az Flt. 8. § (6) bekezdés b) pontjában meghatározott – a megváltozott munkaképességű személyek foglalkoztatására irányuló – munkaerőigény bejelentésével kapcsolatos kötelezettségét a rehabilitációs hatóság felé teljesíti.
+(4) Az akkreditált munkaadó a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 3. § (3) bekezdésében meghatározott – a megváltozott munkaképességű személyek foglalkoztatására irányuló – munkaerőigény bejelentésével kapcsolatos kötelezettségét a rehabilitációs hatóság felé teljesíti.
 
 (5) E § alkalmazása során megváltozott munkaképességű személynek kell tekinteni a fogyatékossági támogatásban vagy a vakok személyi járadékában részesülő személyt is.
