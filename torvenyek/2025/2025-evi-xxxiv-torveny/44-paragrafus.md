@@ -1,0 +1,1 @@
+44. § A termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény 1. melléklet 4. pont 4.1. alpontja a „beleértve a segélyhívásokat is” szövegrész helyett a „2027. június 28-ától beleértve a segélyhívásokat is” szöveggel lép hatályba.

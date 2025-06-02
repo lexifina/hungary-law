@@ -1,0 +1,21 @@
+## 9. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
+
+29. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. § 14a. pontja a következő y) alponttal egészül ki:
+
+(E törvény alkalmazásában
+
+köznevelési alapfeladat: a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában meghatározott olyan köznevelési feladat, amely)
+
+„y) a 30/B. § szerinti gépjárművezetői elméleti tanfolyam és vizsga szervezése”
+
+(lehet,)
+
+(2) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. § 32a. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+## „32a. tanulmányi rendszer: a köznevelési intézmény rendeltetésszerű működéséhez, a szülői felelősséggel összefüggő döntési és felügyeleti jogok gyakorlásához, a nevelés-oktatás megszervezéséhez, a köznevelési intézmény iratkezelésének, továbbá pénzügyi, számviteli, bér- és humánügyviteli funkcióinak biztosításához vagy támogatásához, az elektronikus dokumentumok hiteles nyilvántartásához és változáskövetéséhez, a Digitális Kollaborációs Tér és e-ügyintézési funkcionalitások biztosításához, az intézmények – ide értve a pedagógusoknak és tanulóknak kiadott eszközöket is – leltáradatainak nyilvántartásához, a tanulók fizikai, egészségi állapotának és edzettségének mérésével kapcsolatos adatok nyilvántartásához, az EESZT-kapcsolattal rendelkező iskola-egészségügyi funkcionalitás biztosításához, a tanulmányi rendszer üzemeltetője, a miniszter, a hatóság és a fenntartó általi közvetlen intézményi, tanulói, szülői, pedagógusi kommunikáció biztosításához, a pedagógusi munka objektív véleményezésének személyazonosításra alkalmatlan módon történő biztosításához, a pedagógusi munka értékeléséhez tartozó indikátorok biztosításához, a munkáltatói jogok gyakorlásához, illetve a köznevelési intézmény által foglalkoztatottak jogainak gyakorlásához, kötelezettségeik teljesítéséhez és az ezekhez kapcsolódó igazolások kiállításához, a jogszabályban meghatározott nyilvántartások vezetéséhez, a jogszabályban, illetve a köznevelési intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához, a zárt rendszerű elektronikus távolléti oktatás biztosításához, a közlekedési alapismeretek elméleti vizsgájának és az elsősegélynyújtási vizsga letételéhez szükséges alapismeretek elsajátításának biztosításához, az intézményi fogadóórák és szülői értekezletek megszervezéséhez, a felsőoktatási tanulmányi rendszerekkel integrált pályaválasztási támogatás biztosításához, a szabályozott és központi elektronikus ügyintézési szolgáltatások díjmentes eléréséhez, a gyermekétkeztetési szolgáltatás eléréséhez, a kollégiumi funkcionalitások biztosításához, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/A. § (9) bekezdés a)–e) pontjához szükséges nyilatkozatok és az étkezéssel kapcsolatos funkciók eléréséhez, a szülő, a tanuló, a köznevelési intézmény hozzáférésének biztosításához, valamint az ezek és ezekkel kapcsolatos adatok, dokumentumok tárolásához, az alapfokú művészetoktatási intézményekre vonatkozó funkcionalitások biztosításához, az egységes gyógypedagógiai módszertani intézményekre vonatkozó funkcionalitások biztosításához, valamint a köznevelési információs rendszerrel elektronikus úton való kapcsolattartáshoz a köznevelési intézmény által használt intézményi alaprendszer a moduljaival és a kapcsolódó rendszerekkel együtt, amelyet az állam díjmentesen biztosít és azt úgy szükséges kialakítani, hogy valamennyi felhasználói felülete és funkcionalitása magyar nyelven biztosítsa az egyenlő hozzáférést webes és natív applikáción keresztül diákoknak, szülőknek és pedagógusoknak egyaránt,”
+
+(3) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. §-a a következő 32b. ponttal egészül ki:
+
+(E törvény alkalmazásában)
