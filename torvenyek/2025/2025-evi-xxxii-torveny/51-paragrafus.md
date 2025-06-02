@@ -14,9 +14,9 @@ f)
 
 g)
 
-h)
+h) 81. § (1) bekezdés nyitó szövegrészében a „(2)–(4)” szövegrész helyébe a „(2)–(6)” szöveg,
 
-i)
+i) 81. § (1) bekezdés e) pontjában az „a kormányrendeletben meghatározott mértékű szolgáltatási díj” szövegrész helyébe az „igazgatási szolgáltatási díj” szöveg,
 
 j)
 
