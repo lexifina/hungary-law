@@ -122,7 +122,7 @@ e) növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 
 29. pedagógus: ha jogszabály eltérően nem rendelkezik, a Kormány rendeletében meghatározott pedagógus-munkakört betöltő személy,
 
-29a. pedagógus továbbképzés: a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló jogszabályban meghatározott továbbképzés,
+29a. pedagógus továbbképzés: a pedagógus továbbképzés rendszeréről szóló jogszabályban meghatározott továbbképzés,
 
 30. szakszervezet: a köznevelésben foglalkoztatottak minden olyan szervezete, amelynek elsődleges célja a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonnyal vagy munkaviszonnyal kapcsolatos érdekeinek előmozdítása és megvédése,
 

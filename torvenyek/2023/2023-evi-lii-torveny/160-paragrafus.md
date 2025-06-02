@@ -2,7 +2,7 @@
 
 (1) A 2024. január 1-jén már folyamatban lévő próbaidő a jogviszony létesítésekor kikötött időtartamban áll fenn.
 
-(2) Az a pedagógus, akinek esetében 2024. január 1-jén az öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra, vagy 2024. január 1-je előtt jogszabály alapján életkorára tekintettel a pedagógus-továbbképzésben való részvétel alól mentesült, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
+(2)
 
 (3) A 2024. január 1-jén fennálló és még be nem jelentett, engedélykötelessé vagy bejelentés kötelessé váló jogviszonyokról, tevékenységekről a köznevelési foglalkoztatotti jogviszonyban álló 30 napon belül köteles az engedélyt megkérni vagy a bejelentést megtenni.
 
