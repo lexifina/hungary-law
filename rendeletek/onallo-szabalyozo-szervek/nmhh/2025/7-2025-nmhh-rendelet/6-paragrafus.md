@@ -1,0 +1,1 @@
+6. § A 2. § (1) bekezdése szerinti listát az Elnök első alkalommal e rendelet hatálybalépését követő tizenöt napon belül, az első módosítását 2025. november 30-ig teszi elérhetővé a szolgáltatók számára.
