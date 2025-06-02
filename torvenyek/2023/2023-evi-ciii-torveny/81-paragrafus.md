@@ -1,4 +1,4 @@
-81. § (1) A digitális szolgáltatás biztosítására kötelezett szervezet a következő feltételeket köteles teljesíteni a 80. § (2)–(4) bekezdése alapján kötelezően biztosított, valamint az ezen felül igénybe vett digitális állampolgárság szolgáltatáshoz, valamint támogató szolgáltatáshoz kapcsolódóan:
+81. § (1) A digitális szolgáltatás biztosítására kötelezett szervezet a következő feltételeket köteles teljesíteni a 80. § (2)–(6) bekezdése alapján kötelezően biztosított, valamint az ezen felül igénybe vett digitális állampolgárság szolgáltatáshoz, valamint támogató szolgáltatáshoz kapcsolódóan:
 
 a) a digitális állampolgárság szolgáltató által történő regisztráció elektronikus kapcsolattartás útján,
 
@@ -8,7 +8,7 @@ c) a digitális állampolgárság szolgáltató által meghatározott műszaki k
 
 d) az elektronikus információs rendszerei tekintetében a kiberbiztonsági követelményeknek való megfelelés teljesítése, és
 
-e) a kormányrendeletben meghatározott mértékű szolgáltatási díj megfizetése a digitális állampolgárság szolgáltató részére.
+e) igazgatási szolgáltatási díj megfizetése a digitális állampolgárság szolgáltató részére.
 
 (2) A 80. § (1) bekezdés a)–h), valamint o) pontja szerinti szervezet az (1) bekezdés d) pontja szerinti feltételt a Magyarország kiberbiztonságáról szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosításával, valamint kiberbiztonsági audit lefolytatásával teljesíti.
 
