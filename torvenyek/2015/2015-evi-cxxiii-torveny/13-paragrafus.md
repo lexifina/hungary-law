@@ -34,7 +34,7 @@ a) az egészségi állapot javítására, a rizikótényezők elkerülésére, c
 
 b) a rizikótényezők, az elváltozások, a megbetegedések korai felismerésére és jelzésére irányul (másodlagos megelőzés),
 
-c) a tartós megbetegedésben, fogyatékkal, hátrányos helyzetben élő személyek, családok fokozott gondozására, egészségi állapotuk, szociális helyzetük és környezetük nyomon követésére, az elfogadható körülmények és életvitel kialakításában történő segítségnyújtásra irányul (harmadlagos megelőzés),
+c) a tartós megbetegedésben, fogyatékossággal, hátrányos helyzetben élő személyek, családok fokozott gondozására, egészségi állapotuk, szociális helyzetük és környezetük nyomon követésére, az elfogadható körülmények és életvitel kialakításában történő segítségnyújtásra irányul (harmadlagos megelőzés),
 
 d) együttműködik a szociális, köznevelési, család- és ifjúságügyi, felzárkózási, civil- és egyházi, a kulturális és további érintett ágazatokkal.
 
