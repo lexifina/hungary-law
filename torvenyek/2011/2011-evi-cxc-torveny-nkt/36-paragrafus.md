@@ -8,7 +8,7 @@ b) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a 
 
 c) a nevelő-oktató munka pedagógus-munkakörben, szolgálati viszonyban is ellátható,
 
-d) a fenntartó pályáztatás és további eljárás nélkül is adhat igazgatói megbízást, nem kell alkalmazni a 67. § (7) bekezdésében foglaltakat,
+d) a fenntartó pályáztatás és további eljárás nélkül is adhat igazgatói megbízást, nem kell alkalmazni a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 37. § (1) bekezdésében foglaltakat,
 
 e) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
 

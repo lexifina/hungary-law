@@ -42,7 +42,7 @@ aa) a szakgimnáziumban, a szakiskolában, valamint a pedagógia, közművelőd�
 
 ab) a szakgimnáziumi szakképesítések programkövetelményeit és kerettanterveit, valamint a szakiskolai szakképesítések kerettanterveit,
 
-ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált szakképzési vizsgaközpontokat,
+ac) a szakgimnáziumi képesítővizsgák, a szakiskolai szakmai vizsgák és képesítő vizsgák, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzések képesítővizsgáinak lebonyolítására jogosult, az Szkt. szerint akkreditált szakképzési vizsgaközpontokat, amelyekkel megállapodást köt,
 
 ad) a tanulókat megillető juttatások mértékét,
 

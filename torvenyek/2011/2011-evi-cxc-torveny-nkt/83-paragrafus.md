@@ -16,7 +16,7 @@ e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének 
 
 f)
 
-g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, továbbképzési programját, tantárgyfelosztását,
+g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, pedagógus-továbbképzési intézményi programját, tantárgyfelosztását,
 
 h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghatározott feladatok végrehajtását, a pedagógiai-szakmai munka eredményességét,
 

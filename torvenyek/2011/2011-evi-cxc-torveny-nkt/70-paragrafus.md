@@ -12,7 +12,7 @@ c)
 
 d)
 
-e) a továbbképzési program elfogadásáról,
+e) a pedagógus-továbbképzési intézményi program elfogadásáról,
 
 f) a nevelőtestület képviseletében eljáró pedagógus kiválasztásáról,
 

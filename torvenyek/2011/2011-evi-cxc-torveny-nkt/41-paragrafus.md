@@ -94,6 +94,6 @@ továbbítható.
 
 (10) A köznevelési intézmény a nyilvántartott gyermek, tanuló, szülő, értesítendő hozzátartozó adatait a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait – ha törvény eltérő határidőt nem állapít meg – a jogviszony megszűnésétől számított öt évig őrzi és kezeli.
 
-(11) Ha törvény alapján a kiskorú gyermek, tanuló adatai a szülő részére továbbíthatóak, törvény eltérő rendelkezése hiányában a szülői felügyeleti jog gyakorlásától függetlenül az adatokat mindkét szülőnek továbbítani kell.
+(11) Ha törvény alapján a kiskorú gyermek, tanuló adatai mindkét szülő részére továbbíthatóak, a szülői felügyeleti jogát nem gyakorló külön élő szülő részére a (2) bekezdés c) és d) pontjában, valamint e) pont eb) alpontjában nyilvántartott adatokat kell továbbítani.
 
 (12) A (11) bekezdés szerinti adatok nem továbbíthatóak azon szülőnek, akinek a bíróság – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:175. § (1) bekezdése szerint – a gyermek sorsát érintő lényeges kérdésekben a szülői felügyeleti jogát korlátozta vagy megvonta.

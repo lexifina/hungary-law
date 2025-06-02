@@ -34,4 +34,4 @@ b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos
 
 alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de legkésőbb 2015. szeptember 1-ig az egyéb pszichés fejlődési zavart (súlyos tanulási, figyelem- vagy magatartásszabályozási zavart) is érteni kell.
 
-(10) A szakképzésről szóló 2011. évi CLXXXVII. törvény szerint indított kifutó képzések, valamint az Szkt. szerint indított szakiskolai és szakgimnáziumi képzések esetében a szakmai vizsgát, képesítő vizsgát 2025. december 31-éig az addig vizsgáztatást végző képzőintézményben is meg lehet szervezni azzal, hogy a vizsgaközpont alatt a képzőintézményt kell érteni.
+(10) A szakképzésről szóló 2011. évi CLXXXVII. törvény szerint indított kifutó képzések, valamint az Szkt. szerint indított szakiskolai és szakgimnáziumi képzések esetében a szakmai vizsgát, képesítő vizsgát 2027. december 31-éig az addig vizsgáztatást végző képzőintézményben is meg lehet szervezni azzal, hogy a vizsgaközpont alatt a képzőintézményt kell érteni.
