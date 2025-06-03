@@ -1,1 +1,0 @@
-4. § Ez a rendelet a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2024. november 29-i (EU) 2024/2963 bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
