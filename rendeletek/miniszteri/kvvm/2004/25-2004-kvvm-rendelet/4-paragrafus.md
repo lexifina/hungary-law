@@ -1,5 +1,5 @@
 ## A vasútra vonatkozó adatok
 
-4. §[^7]
+4. §[^8]
 
-[^7]: A 4. §-t a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^8]: A 4. §-t a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte.
