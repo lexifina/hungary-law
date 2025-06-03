@@ -1,1 +1,3 @@
-5. § A fegyverismereti vizsga, a fegyverforgalmazási vizsga, a lőfegyver, lőszer hatósági tárolása és a fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezésének igazgatási szolgáltatási díjairól szóló 50/2004. (VIII. 31.) BM rendelet 2. számú mellékletében foglalt táblázat B:1 mezőjében a „számla” szövegrész helyébe a „keretszámla” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

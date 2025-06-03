@@ -6,16 +6,6 @@
 
 ## [4] A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § (1) A fegyverismereti vizsga, a fegyverforgalmazási vizsga, a lőfegyver, lőszer hatósági tárolása és a fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezésének igazgatási szolgáltatási díjairól szóló 50/2004. (VIII. 31.) BM rendelet 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) Az (1) bekezdésben foglalt igazgatási szolgáltatási díjat
-
-a) – a b) pont szerinti kivétellel – az ügyben elsőfokon eljáró rendőrkapitányságot irányító, illetve az elsőfokon eljáró vármegyei rendőr-főkapitányság – Budapesten a Budapesti Rendőr-főkapitányság –,
-
-b) a határvámhivatal igazolásáért fizetendő igazgatási szolgáltatási díj esetében a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV)
-
-előirányzat-felhasználási keretszámlájára kell befizetni.”
-
-(2) A fegyverismereti vizsga, a fegyverforgalmazási vizsga, a lőfegyver, lőszer hatósági tárolása és a fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezésének igazgatási szolgáltatási díjairól szóló 50/2004. (VIII. 31.) BM rendelet 1. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az (5) bekezdésben foglalt igazgatási szolgáltatási díjat az ügyben másodfokon eljáró vármegyei rendőr-főkapitányság – Budapesten a Budapesti Rendőr-főkapitányság –, illetve a másodfokon eljáró Országos Rendőr-főkapitányság előirányzat-felhasználási keretszámlájára kell befizetni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
