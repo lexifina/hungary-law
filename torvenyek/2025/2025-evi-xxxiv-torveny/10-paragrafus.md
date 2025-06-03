@@ -1,5 +1,1 @@
-10. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény a következő 140/D. §-sal egészül ki:
-
-„140/D. § (1) A TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 17. § (3a) bekezdését, 25. § (12) bekezdés a) pontját és 42. § (4) bekezdés c) pontját a Módtv1. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) A Módtv1.-gyel megállapított 20/C. § (1) bekezdés h)–j) pontjában meghatározott adatokat a Módtv1. hatálybalépésekor ellátotti jogviszonnyal rendelkezők esetén a szociális szolgáltatást nyújtó szolgáltató, intézmény 2026. június 30-ig rögzíti az igénybevevői nyilvántartásban.”
+### 10. §
