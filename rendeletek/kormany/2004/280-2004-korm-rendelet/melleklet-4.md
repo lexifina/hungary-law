@@ -12,107 +12,300 @@
 
 ## A fent meghatározott napszakok minden zajforrásra vonatkozóan ugyanazok.
 
-4. számú melléklet a 280/2004. (X. 20.) Korm. rendelethez[^61]
+4. számú melléklet a 280/2004. (X. 20.) Korm. rendelethez[^65]
 
-A zajtérképkészítéssel érintett önkormányzat közigazgatási határán belül működő üzemi létesítmény adatszolgáltatása a környezeti zajkibocsátásáról
+A stratégiai zajtérképek elkészítéséhez szükséges adatszolgáltatások adattartalma
 
-1. Az üzemi létesítmény zajkibocsátásáról legalább a következő adatokat kell szolgáltatni:
+1. Az országos közutak nyilvántartását ellátó szervezetre vonatkozó adatszolgáltatási kötelezettség tartalma
 
-1.1. Az üzemeltető
+1.1. A 6/A. § (1) bekezdése szerinti adatszolgáltatást az alábbi tartalommal kell elkészíteni:
 
-teljes neve:
+1.1.1. az adatszolgáltatóra vonatkozó adatok:
 
-KSH törzsszáma:
+a) az adatszolgáltató szerv neve,
 
-székhelye:
+b) az adatszolgáltató szerv címe,
 
-1.2. Az ügyintéző
+c) kapcsolattartó neve,
 
-neve:
+d) kapcsolattartó elérhetősége (telefon, e-mail-cím),
 
-telefonszáma:
+e) az adatszolgáltatás kitöltésének dátuma,
 
-1.3. Az üzemi létesítmény
+1.1.2. a zajtérképkészítéssel érintett közútszakaszokra vonatkozó adatok:
 
-megnevezése:
+1.1.2.1. annak a naptári évnek a megjelölése, amire az adatszolgáltatásban szereplő adatok vonatkoznak,
 
-címe:
+1.1.2.2. a közútszakaszok azonosító adatai:
 
-1.4. A tevékenység külön jogszabály[^62] szerinti besorolása.
+a) a közút száma,
 
-1.5. A telephelyen folytatott tevékenység, alkalmazott technológia, helyhez kötött vagy mozgó berendezés, üzemi zajforrásnak minősülő tevékenység leírása, ismertetése:
+b) a közút megnevezése,
 
-1.5.1. A telephely működési rendje:
+c) a közút kategóriája,
 
-a) Műszak-, működési idő munkanapokon:
+d) nemzetközi útjelzés,
 
-| Üzemrész, zajforrás megnevezése | Napközben 6–18 óra között | Este 18–22 óra között | Éjjel 22–6 óra között |
+e) kezdő azonosító útszelvény és végazonosító útszelvény,
 
-b) Hétvégi (szombat-vasárnap-ünnepnap) működési rend, ha a)-tól eltérő:
+1.1.2.3. forgalmi adatok:
 
-| Üzemrész, zajforrás megnevezése | Napközben 6–18 óra között | Este 18–22 óra között | Éjjel 22–6 óra között |
+a) éves átlagos összes motoros forgalom (jármű/nap),
 
-c) Szezonális (nyári, téli vagy más) működési rend:
+b) éves átlagos napi forgalom (jármű/nap) az alábbi járműosztályokra:
 
-1.6. A gépek, berendezések vagy az üzem zajkibocsátásának adatai, az 1.6.1–1.6.4. pontok valamelyike szerint:
+ba) személygépkocsi,
 
-1.6.1. A gépek, berendezések zajkibocsátásának a gyártó által közölt adatai:
+bb) kistehergépkocsi,
 
-– a gép, berendezés azonosító adatai;
+bc) egyes autóbusz,
 
-– hivatkozás a mérési szabványra (MSZ EN ISO 3744 vagy MSZ EN ISO 3746 vagy az ezen zajkibocsátás-vizsgálati alapszabványok szerinti zajvizsgálati előírás);
+bd) csuklós autóbusz,
 
-– a zajkibocsátás jellemző mennyiségei:
+be) közepesen nehéz tehergépkocsi,
 
-| LWA | A-hangteljesítményszint, |
+bf) nehéz tehergépkocsi,
 
-| K | bizonytalansági tényezőre vonatkozó rendelkezésre álló adat, |
+bg) pótkocsis tehergépkocsi,
 
-| LWokt | oktáv-hangteljesítményszintekre vonatkozó rendelkezésre álló adat, |
+bh) nyerges szerelvény,
 
-| DI | irányítottsági tényezőre vonatkozó rendelkezésre álló adat, |
+bi) speciális nehéz jármű,
 
-## minden egyéb, a zajkibocsátást jellemző adat.
+bj) motorkerékpár és segédmotoros kerékpár,
 
-1.6.2. A gép, berendezés zajkibocsátásának az üzemeltető által, a jelen adatszolgáltatáshoz végzett méréssel meghatározott adatai:
+1.1.2.4. az útszakasz fekvése (belterület/külterület),
 
-– az 1.6.1. szerint.
+1.1.2.5. a közútszakasz fizikai jellemzői:
 
-1.6.3. Az üzem zajkibocsátásának az MSZ ISO 8297 szerinti méréssel meghatározott adatai:
+a) a szakasz hossza,
 
-– az adatok az MSZ ISO 8297 12. fejezete szerint.
+b) forgalmi sávok száma,
 
-1.6.4. Az üzem zajkibocsátásának a stratégiai zajtérkép készítésére alkalmazott számítási módszereket tartalmazó külön jogszabály szerinti módszerrel meghatározott adatai:
+c) a forgalom irányultsága,
 
-– az adatszolgáltatáshoz be kell mutatni a felhasznált adatok forrását (mérési jegyzőkönyvet);
+d) kopóréteg típusa,
 
-– a számítások részadatait; és
+e) kopóréteg építésének éve,
 
-– minden olyan adatot, amely a zajkibocsátás megbízhatóságát igazolja.
+f) a forgalom lefolyásának napi jellege (jelleg2),
 
-2. A zajkibocsátási adatokat (az 1.6.1. és 1.6.2. szerinti esetekben a gépek, berendezések működési idejét, az 1.6.3. és 1.6.4. szerinti esetekben az üzemi létesítmény egésze zajkibocsátásának időbeli alakulását)
+1.1.2.6. sebességkorlátozott útszakaszokra vonatkozó adatok:
 
-– éves átlagban a napközbeni (6–18 óra között); az esti (18–22 óra között) és az éjszakai (22–6 óra között) napszakokra kell megadni, valamint
+a) sebességkorlátozás helye,
 
-– ha a zajkibocsátás az időben szakaszos (meghatározható „zajos” és „csendes” működési időszakok vannak), akkor a „zajos” működés időarányát is közölni kell.
+b) sebességkorlátozás típusa,
 
-3. Az adatszolgáltató az aláírásával igazolja, hogy a közölt adatok a valóságnak megfelelnek.
+c) sebességkorlátozás mértéke (km/h),
 
-4. Az adatszolgáltatáshoz csatolandó a területre (a zajforrás helyére és környezetére) vonatkozó
+d) sebességkorlátozás iránya,
 
-– a telephely és környezete érvényes rendezési terv szabályozási tervlapi kivonata, bejelölve a vizsgált üzemi létesítmény területét,
+e) sebességkorlátozás érvényességének kezdete,
 
-– szabályozási előírás kivonat,
+f) sebességkorlátozás érvényességének vége,
 
-– léptékhelyes helyszínrajz, amely bemutatja a telephely területét, a rajta lévő építményekkel, zajforrásokkal, jellemző méretekkel (szélesség, hosszúság, magasság),
+1.1.2.7. a hidakra vonatkozó adatok:
 
-– az üzemi létesítmény terhelési területének legalább 1:4000 léptékű térképe (ha van), megjelölve ezen
+a) a híd két végéhez tartozó szelvényszámok,
 
-= a zajtól védendő épületeket utca, házszámmal, helyrajzi számmal, épületmagassággal,
+b) a híd helye WGS84 és EOV koordinátákkal megadva,
 
-= minden más létesítményt, az épületek magassági adatával,
+c) hossz (m),
 
-– mellékelni kell az üzemi létesítmény környezeti zajvizsgálatáról készült jegyzőkönyvet.
+d) szélesség (m),
 
-[^61]: A 4. számú melléklet a 106/2017. (IV. 28.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
-[^62]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
+e) a híd neve, típusa,
+
+f) a híd szerkezete, anyaga,
+
+1.1.2.8. a zajárnyékoló falakra vonatkozó adatok:
+
+a) fal végeihez tartozó szelvényszámok,
+
+b) a fal helye WGS84 és EOV koordinátákkal megadva,
+
+c) hossz (m),
+
+d) magasság (m),
+
+e) szerkezet, anyag: beton, üveg vagy egyéb anyag,
+
+1.1.2.9. forgalomirányító jelzőlámpák helye szelvényszámmal megadva (ha rendelkezésre áll),
+
+1.1.2.10. körforgalmak helye és azonosítója.
+
+1.2. Az 1.1. pont szerinti adatokat olyan bontásban kell megadni, hogy a vizsgált szakaszra az 1.1.2.2–1.1.2.6. pont szerinti adatok azonosak legyenek.
+
+1.3. Az 1.1. pont szerinti adatok mindegyikét a 14. § (2) és (4) bekezdésében megjelölt határidőt megelőző naptári évre kell megadni. Amennyiben az előző naptári évre vonatkozó adatok nem állnak rendelkezésre, akkor azokat a legutolsó rendelkezésre álló adatok alapján kell meghatározni, amely azonban nem lehet régebbi, mint a 14. § (2) és (4) bekezdése szerinti határidőt megelőző negyedik naptári év.
+
+2. A pályavasúti társaságra vonatkozó adatszolgáltatási kötelezettség tartalma
+
+2.1. A 6/A. § (2) bekezdés szerinti adatszolgáltatást az alábbi tartalommal kell elkészíteni:
+
+2.1.1. az adatszolgáltatóra vonatkozó adatok:
+
+a) az adatszolgáltató szerv neve,
+
+b) az adatszolgáltató szerv címe,
+
+c) kapcsolattartó neve,
+
+d) kapcsolattartó elérhetősége (telefon, e-mail-cím),
+
+e) az adatszolgáltatás kitöltésének dátuma,
+
+2.1.2. a zajtérképkészítéssel érintett vasúti szakaszokra vonatkozó adatok:
+
+2.1.2.1. annak a naptári évnek a megjelölése, amire az adatszolgáltatásban szereplő adatok vonatkoznak,
+
+2.1.2.2. a vasúti szakasz azonosító adatai:
+
+a) a vasútvonal száma,
+
+b) a vasútvonal megnevezése,
+
+c) a szakasz kezdőszelvénye és végszelvénye,
+
+2.1.2.3. a vasúti pálya fizikai jellemzői:
+
+a) felépítmény típusa (zúzottkő ágyazatos / merevlemezes),
+
+b) alj típusa (beton keresztalj / fa alj / alj nélküli felépítmény),
+
+c) sínrendszer típusa (UIC 60, UIC 54, MÁV 48, egyéb),
+
+d) párhuzamosan futó vasúti pályák esetén a vasúti pályák száma,
+
+e) az utolsó síncsiszolás óta eltelt idő (több mint 24 hónap, kevesebb mint 24 hónap, nincs adat),
+
+f) a kitérők helye,
+
+g) hevederes sínkötés esetén a sínillesztések száma (db / 100 m),
+
+h) a kisívű pályaívek és kitérőívek, valamint a nagyívű pályaívek helye,
+
+2.1.2.4. vasúti hidak jellemzői:
+
+a) a vasúti pálya kezdő- és végszelvényei a híd végeinél,
+
+b) a híd helye WGS84 és EOV koordinátákkal megadva,
+
+c) állomásköz,
+
+d) hossz (m),
+
+e) szélesség (m),
+
+f) név, típus,
+
+g) szerkezet, anyag,
+
+2.1.2.5. zajárnyékoló falak:
+
+a) a fal végeihez tartozó szelvényszámok,
+
+b) a fal helye WGS84 és EOV koordinátákkal megadva,
+
+c) hossz (m),
+
+d) magasság (m),
+
+e) szerkezet, anyag: beton vagy üveg, illetve egyéb anyag,
+
+2.1.2.6. járműtípusokhoz vagy járműkategóriához rendelt adatok:
+
+a) járműtípus megnevezése (ha ismert),
+
+b) járműkategória megnevezése,
+
+c) tengelyszám (db/jármű),
+
+d) kerékátmérő új állapotban (mm),
+
+e) rugózatlan tömeg, vagy ha nem ismert, a terheletlen tömeg (kg),
+
+f) dízelmozdony esetén a jármű teljesítménye (kW),
+
+2.1.2.7. a számítási szakaszra vonatkozó forgalmi adatok járműtípusonkénti vagy járműkategóriánkénti bontásban:
+
+a) éves átlagos óraforgalom (jármű/h) napközben (6:00–18:00), este (18:00–22:00) és éjjel (22:00–6:00),
+
+b) mértékadó sebesség (km/h),
+
+c) fékrendszer típusa (öntöttvas tuskófék, kompozit tuskófék, tárcsafék vagy egyéb futófelülettel nem érintkező fék),
+
+d) az éves átlagban egybefüggően legalább 30 min/napszak állóhelyzeti üzemeltetés esetén az üzemeltetés pontos helye, éves átlagos üzemidő napszakonkénti bontásban és járműhossz.
+
+2.2. A 2.1. pont szerinti adatok mindegyikét a 14. § (2) és (4) bekezdésében megjelölt határidőt megelőző naptári évre kell megadni. Amennyiben az előző naptári évre vonatkozó adatok nem állnak rendelkezésre, akkor azokat a legutolsó rendelkezésre álló adatok alapján kell meghatározni, amely azonban nem lehet régebbi, mint a 14. § (2) és (4) bekezdései szerinti határidőt megelőző negyedik naptári év.
+
+3. Az üzemi létesítmény üzemeltetőire vonatkozó adatszolgáltatás tartalmi követelményei
+
+3.1. Az üzemi létesítmény zajkibocsátásáról legalább a következő adatokat kell szolgáltatni:
+
+3.1.1. az üzemeltető adatai:
+
+a) teljes név,
+
+b) KSH törzsszám,
+
+c) székhely,
+
+d) KÜJ szám,
+
+e) kapcsolattartó neve,
+
+f) kapcsolattartó elérhetősége (telefon, e-mail-cím),
+
+3.1.2. az üzemi létesítmény alapadatai:
+
+a) megnevezés,
+
+b) cím,
+
+c) KTJ szám,
+
+d) létesítmény azonosító KTJ szám,
+
+3.1.3. a telephelyen folytatott tevékenységek felsorolása az egységes környezethasználati engedély köteles tevékenységeknek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. számú melléklete szerinti besorolás megjelölésével,
+
+3.1.4. zajforrásonkénti bontásban a zajforrásra és annak kibocsátására vonatkozó adatok az e pont szerinti táblázatban megadva:
+
+|  | A | B | C | D | E | F | G | H | I |
+
+| 1 | zajforrás (tevékenység, berendezés, üzem vagy üzemrész) azonosítója |  |
+
+| 2 | zajforrás megnevezése |  |
+
+| 3 | zajforrás típusa (pont-, vonal- vagy felületi forrás) |  |
+
+| 4 | zajforrás elhelyezkedése: x, y, z koordináták (vonalforrás esetén a forrás egyenes szakaszokra bontott szakaszainak kezdő és végponti koordinátái, felületi forrás esetén a forrást reprezentáló sokszög szögeinek koordinátái) |  |
+
+| 5 | a zajforrás helyzete a visszaverő felületekhez képest: a) a térben bárhol, magasan a talajszint fölött, b) egy erősen tükröző felületen, felett vagy előtt (tető, padló), c) két, egymásra merőleges felület előtt (padló feletti falfelület), d) három, egymásra merőleges sík előtt (sarokban) |  |
+
+| 6 | éves átlagos üzemidő napközben 6:00–18:00 óra között (min) |  |
+
+| 7 | éves átlagos üzemidő este 18:00–22:00 óra között (min) |  |
+
+| 8 | éves átlagos üzemidő éjjel 22:00–6:00 óra között (min) |  |
+
+| 9 | oktávsáv-középfrekvencia (Hz) | 63 | 125 | 250 | 500 | 1000 | 2000 | 4000 | 8000 |
+
+| 10 | Lw frekvenciasúlyozás nélküli, szabadhangtérre megadott, irányítatlan hangteljesítményszint (pontforrásánál: dB, vonalforrásnál: dB/m, felületi forrásnál: dB/m2) |  |  |  |  |  |  |  |  |
+
+3.1.5. amennyiben a pont- vagy vonalforrás sugárzása a szabad hangtérben jelentős mértékű irányítottságot mutat, forrásonként a DI irányítottsági tényező:
+
+a) pontforrások esetében a három derékszögű koordináta (x, y, z) szerinti irányítottsággal, legalább 10°-onként, oktávsávonként,
+
+b) vonalforrások esetén a vonalforrás tengelyére vonatkozó két derékszögű koordináta szerinti irányítottsággal, legalább 10°-onként, oktávsávonként.
+
+3.2. Az adatszolgáltató az aláírásával igazolja, hogy a közölt adatok a valóságnak megfelelnek.
+
+3.3. Az adatszolgáltatáshoz mellékelni kell
+
+a) a területre (a zajforrás helyére és környezetére) vonatkozó méretarányos helyszínrajzot, amely bemutatja az üzemi létesítmény területét, a rajta lévő építményekkel, a zajforrások pontos elhelyezkedésével, jellemző méretekkel (szélesség, hosszúság, magasság),
+
+b) a hangteljesítményszint méréssel történő meghatározása esetén a mérési jegyzőkönyvet,
+
+c) a hangteljesítményszintnek a berendezés gyártója általi adatközlése esetén a gyártó által kiállított, a hangteljesítményszintet tartalmazó dokumentumot.
+
+[^65]: A 4. számú melléklet a 124/2025. (VI. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

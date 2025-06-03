@@ -1,45 +1,47 @@
 ## Értelmező rendelkezések
 
-## 3. § E rendelet alkalmazásában:
+3. §[^6] E rendelet alkalmazásában
 
-a) környezeti zaj: a közúti, a vasúti és a légi közlekedésből, valamint a külön jogszabály[^6] hatálya alá eső tevékenységekből származó káros hatású kültéri zaj;
+1. csendes terület: a települési önkormányzat (a továbbiakban: önkormányzat) képviselő-testülete által, a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló Korm. rendelet szerint kijelölt, zajvédelmi szempontból fokozottan védett terület, illetve zaj ellen fokozott védelmet igénylő létesítmények körül kijelölt csendes övezet;
 
-b) káros hatás: a zajnak az emberi egészségre gyakorolt kedvezőtlen hatása;
+2. egyéb közlekedési létesítmény: a kötelezett önkormányzat közigazgatási területén található minden közút, vasút, repülőtér a fő közlekedési létesítmények kivételével;
 
-c) zajjellemző: a környezeti zaj leírására szolgáló, a káros hatással arányos fizikai mennyiség;
+3. értékelés: a zajjellemző értékének vagy az ahhoz kapcsolódó káros hatás számítási, mérési módszere, előrejelzése, becslése;
 
-d) értékelés: a zajjellemző értékének vagy az ahhoz kapcsolódó káros hatás számítási, mérési módszere, előrejelzése, becslése;
+4. fő közlekedési létesítmény: a nagyforgalmú közút, nagyforgalmú vasút és fő repülőtér együttesen;
 
-e) Lden napi (napközben-este-éjszaka) zajjellemző: a teljes napi zajterhelésre vonatkozó zajjellemző;
+5. fő repülőtér: olyan polgári repülőtér, ahol évente az aktuális évet megelőző 3 év átlagában a repülőgépek egy naptári évben több mint 50 000 repülési műveletet (leszállás és felszállás) hajtanak végre, kivéve az olyan, kizárólag kiképzési célt szolgáló oktatási és gyakorlási célú repülési műveleteket, amelyeket 9000 kg maximális felszálló súly alatti repülőgépekkel hajtanak végre;
 
-f) Lnapköz (napközbeni, 0600–1800) zajjellemző: a napközbeni időszak zajterhelésére vonatkozó zajjellemző;
+6. helyi közforgalmú vasút: mélyvezetésű vasút (metró), közúti vasút (villamos), vasút-villamos könnyű vasúti pályahálózaton közlekedő szakasza, helyiérdekű vasút (HÉV), fogaskerekű vasút;
 
-g) Leste (esti, 1800–2200) zajjellemző: az esti időszak zajterhelésére vonatkozó zajjellemző;
+7. káros hatás: a zajnak az emberi egészségre gyakorolt kedvezőtlen hatása;
 
-h) Léjjel (éjszakai, 2200–0600) zajjellemző: az éjszakai időszak zajterhelésére vonatkozó zajjellemző;
+8. konfliktustérkép: a zajterhelés és a stratégiai küszöbértékek összehasonlításával készült stratégiai zajtérkép;
 
-i) terhelés-hatás: a zajjellemző és a káros hatás közötti összefüggés;
+9. környezeti zaj: a közúti, a vasúti és a légi közlekedésből, valamint a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló Korm. rendelet hatálya alá eső tevékenységekből származó, káros hatású kültéri zaj;
 
-j) csendes terület: a települési önkormányzat (a továbbiakban: önkormányzat) képviselő-testülete által, külön jogszabály[^7] szerint kijelölt, zajvédelmi szempontból fokozottan védett terület, illetve zaj ellen fokozott védelmet igénylő létesítmények körül kijelölt csendes övezet;
+10. Lden napi (napközben-este-éjszaka) zajjellemző: a teljes napi zajterhelésre vonatkozó zajjellemző;
 
-k) nagyforgalmú közút: országos közút – az utolsó három év átlagából figyelembe vett mérési adatai alapján – évi hárommilliónál több gépjármű áthaladását meghaladó forgalmi szakasza;
+11. Léjjel (éjszakai, 2200–0600) zajjellemző: az éjszakai időszak zajterhelésére vonatkozó zajjellemző;
 
-l) nagyforgalmú vasút: olyan vasútvonal, amelyen évente 30 000-nél több vonatszerelvény halad át;
+12. Leste (esti, 1800–2200) zajjellemző: az esti időszak zajterhelésére vonatkozó zajjellemző;
 
-m) fő repülőtér: olyan polgári repülőtér, ahol évente az aktuális évet megelőző 3 év átlagában a repülőgépek egy naptári évben több mint 50 000 repülési műveletet (leszállás és felszállás) hajtanak végre, kivéve az olyan, kizárólag kiképzési célt szolgáló oktatási és gyakorlási célú repülési műveleteket, amelyeket 9000 kg maximális felszálló súly alatti repülőgépekkel hajtanak végre;
+13. Lnapköz (napközbeni, 0600–1800) zajjellemző: a napközbeni időszak zajterhelésére vonatkozó zajjellemző;
 
-n) fő közlekedési létesítmény: a nagyforgalmú közút, nagyforgalmú vasút és fő repülőtér együttesen;
+14. nagyforgalmú közút: országos közút – az utolsó három év átlagából figyelembe vett mérési adatok alapján – évi hárommilliónál több gépjármű áthaladását meghaladó forgalmi szakasza;
 
-o) egyéb közlekedési létesítmény: a kötelezett önkormányzat közigazgatási területén található minden közút, vasút, repülőtér a fő közlekedési létesítmények kivételével;
+15. nagyforgalmú vasút: olyan vasútvonal, amelyen évente 30 000-nél több vonatszerelvény halad át;
 
-p) stratégiai zajtérkép: a környezeti zaj átfogó értékelésére, illetve az adott területen belüli aktuális zajhelyzet értékelésére és a jövőbeli zajhelyzet előrejelzésére készített térkép;
+16. stratégiai zajtérkép: a környezeti zaj átfogó értékelésére, illetve az adott területen belüli aktuális zajhelyzet értékelésére és a jövőbeli zajhelyzet előrejelzésére készített térkép;
 
-q) zajterhelési zajtérkép: a meghatározott vonatkoztatási időre, meghatározott állapotot ábrázoló stratégiai zajtérkép, amely a vizsgált terület különböző környezeti zajforrásai által okozott zajterhelést, mutatja be zajszintövezetekkel, illetve zajszintgörbékkel;
+17. terhelés-hatás: a zajjellemző és a káros hatás közötti összefüggés;
 
-r) konfliktustérkép: a zajterhelés és a stratégiai küszöbértékek összehasonlításával készült stratégiai zajtérkép;
+18. üzemi létesítmény: a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló Korm. rendelet szerint egységes környezethasználati engedély köteles tevékenységet folytató létesítmény;
 
-s) üzemi létesítmény: a külön jogszabály[^8] szerint egységes környezethasználati engedély köteles tevékenységet folytató létesítmény.
+19. városi közlekedési zajtérkép: olyan zajterhelési zajtérkép és konfliktustérkép, amely a közutakon közlekedő közúti járművektől és a helyi közforgalmú vasutak felszíni szakaszán közlekedő járművektől származó zaj együttes zajterhelését ábrázolja;
 
-[^6]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
-[^7]: A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény.
-[^8]: Az egységes környezethasználati engedélyezési eljárás részletes szabályairól szóló 193/2001. (X. 19.) Korm. rendelet.
+20. zajjellemző: a környezeti zaj leírására szolgáló, a káros hatással arányos fizikai mennyiség;
+
+21. zajterhelési zajtérkép: a meghatározott vonatkoztatási időre, meghatározott állapotot ábrázoló stratégiai zajtérkép, amely a vizsgált terület különböző környezeti zajforrásai által okozott zajterhelést mutatja be zajszintsávokkal, illetve zajszintgörbékkel.
+
+[^6]: A 3. § a 124/2025. (VI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
