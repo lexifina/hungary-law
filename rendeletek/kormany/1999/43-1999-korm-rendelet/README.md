@@ -151,3 +151,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2025-04-27 | 1999-43-20-22.223 | 266/2007. (X. 10.) Korm. rendelet |
 | 2025-05-01 | 1999-43-20-22.222 | 66/2025. (IV. 4.) Korm. rendelet |
 | 2025-06-01 | 1999-43-20-22.224 | 110/2025. (V. 26.) Korm. rendelet |
+| 2025-06-03 | 1999-43-20-22.225 | 123/2025. (VI. 2.) Korm. rendelet |

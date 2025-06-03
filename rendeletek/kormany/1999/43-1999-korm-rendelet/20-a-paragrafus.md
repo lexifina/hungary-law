@@ -1,4 +1,4 @@
-20/A. §[^220] (1) Az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó iskolaorvosi szolgálatot működtető szolgáltató szolgálatonként heti 40 órában foglalkoztatott iskolaorvos után havonta iskolaorvosi bértámogatásra jogosult, amelyet az iskolaorvosi szolgáltató az iskolaorvost közvetlenül megillető munkabérére és annak közterheire köteles fordítani. A bértámogatás összegét a 38. számú melléklet tartalmazza.
+20/A. §[^221] (1) Az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó iskolaorvosi szolgálatot működtető szolgáltató szolgálatonként heti 40 órában foglalkoztatott iskolaorvos után havonta iskolaorvosi bértámogatásra jogosult, amelyet az iskolaorvosi szolgáltató az iskolaorvost közvetlenül megillető munkabérére és annak közterheire köteles fordítani. A bértámogatás összegét a 38. számú melléklet tartalmazza.
 
 (2) Az iskola-egészségügyi szolgálat orvosának 38. számú melléklet szerinti gyakorlati idejét az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (8) és (9) bekezdése és az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet 4. § (3) bekezdése szerint kell megállapítani.
 
@@ -10,4 +10,4 @@
 
 (6) Az iskolaorvosi bértámogatás fedezetéül az 5. számú melléklet szerinti Iskolaegészségügyi ellátás bértámogatás előirányzat szolgál.
 
-[^220]: A 20/A. §-t a 277/2021. V. 26.) Korm. rendelet 9. §-a iktatta be.
+[^221]: A 20/A. §-t a 277/2021. V. 26.) Korm. rendelet 9. §-a iktatta be.

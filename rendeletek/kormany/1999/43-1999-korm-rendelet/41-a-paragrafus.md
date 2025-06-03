@@ -1,12 +1,12 @@
-## Aktív fekvőbeteg-szakellátás keretében végzett egynapos ellátások[^485]
+## Aktív fekvőbeteg-szakellátás keretében végzett egynapos ellátások[^486]
 
-41/A. §[^486] (1)[^487] Az aktív fekvőbeteg-szakellátás esetében az egyes egészségügyi szolgáltatók által az egynapos sebészeti és a kúraszerűen végezhető ellátások szakmai feltételeiről szóló miniszteri rendelet és az R. szerint egynaposként elszámolható teljesítménymennyiség is a tervezett éves keret részét képezi, melyre a tervezett éves keret megállapításának szabályai irányadók.
+41/A. §[^487] (1)[^488] Az aktív fekvőbeteg-szakellátás esetében az egyes egészségügyi szolgáltatók által az egynapos sebészeti és a kúraszerűen végezhető ellátások szakmai feltételeiről szóló miniszteri rendelet és az R. szerint egynaposként elszámolható teljesítménymennyiség is a tervezett éves keret részét képezi, melyre a tervezett éves keret megállapításának szabályai irányadók.
 
-(2)[^488] A szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátás keretében egynapos sebészeti ellátásként jelentett és elszámolt teljesítményeket a finanszírozó az alapdíj 100%-ával számolja el.
+(2)[^489] A szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátás keretében egynapos sebészeti ellátásként jelentett és elszámolt teljesítményeket a finanszírozó az alapdíj 100%-ával számolja el.
 
 (3) Az aktív fekvőbeteg-szakellátás keretében egynapos sebészeti ellátásként jelentett és elszámolt teljesítmények elszámolása 1,1-es szorzó alkalmazásával történik.
 
-[^485]: Az „Aktív fekvőbeteg-szakellátás keretében végzett egynapos ellátások” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^486]: A 41/A. §-t a 697/2020. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^487]: A 41/A. § (1) bekezdése a 277/2021. V. 26.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^488]: A 41/A. § (2) bekezdése a 277/2021. (V. 26.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^486]: Az „Aktív fekvőbeteg-szakellátás keretében végzett egynapos ellátások” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^487]: A 41/A. §-t a 697/2020. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^488]: A 41/A. § (1) bekezdése a 277/2021. V. 26.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^489]: A 41/A. § (2) bekezdése a 277/2021. (V. 26.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
