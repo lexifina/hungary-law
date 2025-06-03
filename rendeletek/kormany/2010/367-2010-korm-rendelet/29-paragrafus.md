@@ -1,3 +1,3 @@
-## 28. §[^33]
+29. §[^38]
 
-[^33]: A 9. alcímet (28. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^38]: A 29. §-t a 384/2012. (XII. 19.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 10/C. [^47] Az oktatás-nevelési támogatások és a hallgatói támogatások
+## 10/C. [^54] Az oktatás-nevelési támogatások és a hallgatói támogatások
 
-32/C. §[^48] (1) Az Alap terhére a Szátv.14. §-a szerinti oktatási támogatásként
+32/C. §[^55] (1) Az Alap terhére a Szátv.14. §-a szerinti oktatási támogatásként
 
 a) nevelési, oktatási, valamint tankönyv- és taneszköz-támogatást (a továbbiakban együtt: oktatás-nevelési támogatás) és
 
@@ -18,7 +18,7 @@ ba) az adott államban működő akkreditált oktatási intézményben alap- vag
 
 bb) a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
 
-c)[^49] az a középiskolai tanuló, aki a tanév megkezdéséig a felhívásban szereplő tizennyolcadik életévét betöltötte, de az adott állam oktatási rendszerének tanulmányi időszakra vonatkozó rendelkezései szerint kötelező képzésben részesül, ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
+c)[^56] az a középiskolai tanuló, aki a tanév megkezdéséig a felhívásban szereplő tizennyolcadik életévét betöltötte, de az adott állam oktatási rendszerének tanulmányi időszakra vonatkozó rendelkezései szerint kötelező képzésben részesül, ha a régiós felhívásban meghatározottnál többet igazolatlanul nem hiányzott,
 
 d) az a sérült vagy halmozottan sérült magyar nemzetiségű kiskorú személy, aki nem akkreditált oktatási intézményben folytat magyar nyelvű tanulmányokat vagy egyéb magyar nyelvű nevelésben részesül és
 
@@ -28,6 +28,6 @@ e) az a kiskorú személy, aki sajátos nevelési igényeinek megfelelő – ré
 
 (4) Az oktatás-nevelési támogatás és a hallgatói támogatás egy főre jutó éves összegét évente a Bizottság állapítja meg.
 
-[^47]: A 10/C. alcímet a 264/2017. (IX. 11.) Korm. rendelet 7. §-a iktatta be.
-[^48]: A 32/C. § a 264/2017. (IX. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^49]: A 32/C. § (2) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^54]: A 10/C. alcímet a 264/2017. (IX. 11.) Korm. rendelet 7. §-a iktatta be.
+[^55]: A 32/C. § a 264/2017. (IX. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^56]: A 32/C. § (2) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 51. §-a szerint módosított szöveg.
