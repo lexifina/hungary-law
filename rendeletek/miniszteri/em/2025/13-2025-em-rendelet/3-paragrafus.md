@@ -1,3 +1,3 @@
-3. § (1) A 25/2004. (XII. 20.) KvVM rendelet az 1. melléklet szerinti 2. melléklettel egészül ki.
+3. §[^3]
 
-(2) A 25/2004. (XII. 20.) KvVM rendelet a 2. melléklet szerinti 3. melléklettel egészül ki.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-8. §[^5]
+8. §[^8]
 
-[^5]: A 8. § a 9. § (2) bekezdése alapján 2025. november 29-én lép hatályba.
+[^8]: A 8. § a 9. § (2) bekezdése alapján 2025. november 29-én lép hatályba.
