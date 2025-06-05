@@ -8,15 +8,13 @@ Az 1. öttagú tanács tagjai:
 
 Dr. Varga Réka tanácsvezető alkotmánybíró,
 
+Dr. Hende Csaba alkotmánybíró,
+
 Dr. Horváth Attila alkotmánybíró,
 
 Dr. Juhász Miklós alkotmánybíró,
 
-Dr. Lomnici Zoltán alkotmánybíró,
-
-Dr. Schanda Balázs alkotmánybíró.
-
-Előadó alkotmánybíróként Dr. Lomnici Zoltán alkotmánybíró a 3. öttagú tanácsban, Dr. Schanda Balázs alkotmánybíró a 2. öttagú tanácsban jár el.
+Dr. Polt Péter alkotmánybíró.
 
 A 2. öttagú tanács tagjai:
 
@@ -52,5 +50,5 @@ Előadó alkotmánybíróként dr. Horváth Attila alkotmánybíró az 1. öttag
 
 Alkotmánybírósági ügyszám: XVIII/1886/2023.
 
-[^1]: A 2. pont az 1004/2024. (IX. 12.) AB Tü. határozat 2. pontja, az 1002/2025. (III. 11.) AB Tü. határozat 1. pontja, az 1003/2025. (IV. 17.) AB Tü. határozat 1. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1002/2025. (III. 11.) AB Tü. határozat 1. pontja, az 1004/2025. (VI. 4.) AB Tü. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
