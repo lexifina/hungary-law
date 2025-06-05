@@ -1,3 +1,3 @@
-## 19. [^54] A műszaki biztonsági szempontból jelentős munkakörök betöltéséhez szükséges képzések és továbbképzések képzési programjának alapkövetelményei
+## 19. [^55] A műszaki biztonsági szempontból jelentős munkakörök betöltéséhez szükséges képzések és továbbképzések képzési programjának alapkövetelményei
 
-[^54]: A 19. alcím (34. §) a 28/2019. (VIII. 27.) ITM rendelet 3. §-ával megállapított szöveg.
+[^55]: A 19. alcím (34. §) a 28/2019. (VIII. 27.) ITM rendelet 3. §-ával megállapított szöveg.

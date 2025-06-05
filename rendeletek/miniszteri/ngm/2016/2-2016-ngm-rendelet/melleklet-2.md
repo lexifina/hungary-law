@@ -1,4 +1,4 @@
-2. melléklet a 2/2016. (I. 5.) NGM rendelethez[^61]
+2. melléklet a 2/2016. (I. 5.) NGM rendelethez[^62]
 
 A nyomástartó berendezések, a töltő berendezések, a kisteljesítményű sűrített gáztöltő berendezések műszaki biztonsági szabályzata
 
@@ -270,13 +270,13 @@ f) az észlelt rendellenességekről és a megtett intézkedésekről szóló t�
 
 4.7. A töltőállomást úgy kell kialakítani, hogy területén a közlekedés ne veszélyeztesse a kimérő szerkezetet és az autógáz töltő berendezés további egységeit.
 
-4.8.[^62] A töltőállomáson föld feletti, földdel nem fedett kivitelű tárolótartályban LPG esetén legfeljebb 10 m3, LNG esetén legfeljebb 150 m3, sűrített H2 esetén legfeljebb 1 t, cseppfolyós H2 esetén kevesebb, mint 5 t autógáz tárolható. A tárolótartályok több tartályból álló rendszert is képezhetnek, de össztérfogatuk az LNG és a sűrített H2 esetének kivételével nem haladhatja meg ezeket az értékeket. A több tartályból álló rendszer össztérfogata LNG töltet esetében legfeljebb 1200 m3, sűrített H2 töltet esetében kevesebb, mint 5 t lehet.
+4.8.[^63] A töltőállomáson föld feletti, földdel nem fedett kivitelű tárolótartályban LPG esetén legfeljebb 10 m3, LNG esetén legfeljebb 150 m3, sűrített H2 esetén legfeljebb 1 t, cseppfolyós H2 esetén kevesebb, mint 5 t autógáz tárolható. A tárolótartályok több tartályból álló rendszert is képezhetnek, de össztérfogatuk az LNG és a sűrített H2 esetének kivételével nem haladhatja meg ezeket az értékeket. A több tartályból álló rendszer össztérfogata LNG töltet esetében legfeljebb 1200 m3, sűrített H2 töltet esetében kevesebb, mint 5 t lehet.
 
 4.9. A töltőállomáson föld alatti kivitelű tárolótartályban LPG esetén legfeljebb 30 m3 autógáz tárolható. A tárolótartályok több tartályból álló rendszert is képezhetnek, de össztérfogatuk nem haladhatja meg ezeket az értékeket.
 
-4.10.[^63]
+4.10.[^64]
 
-4.11.[^64]
+4.11.[^65]
 
 4.12. LPG és LNG esetében a tárolótartályba autógázt lefejteni csak a lefejtő helyre beállt tartályos szállító járműről szabad.
 
@@ -286,7 +286,29 @@ f) az észlelt rendellenességekről és a megtett intézkedésekről szóló t�
 
 4.15. LPG esetében az autógázt szállító közúti tartályos jármű lefejtésekor a töltőállomáson üzemanyagot szállító más tartályos jármű nem tartózkodhat, amennyiben a biztonsági távolság megtartása nem biztosítható.
 
-4.16. Cseppfolyós autógázt tárolótartályból tölteni csak e célra kialakított, az ENSZ-EGB 67. számú Előírás követelményeit kielégítő tartályba, palackba lehet azután, hogy a motort leállították, és a járművet a kézifék behúzásával elgurulás ellen rögzítették.
+4.16.[^66] Autógáz-töltőállomáson cseppfolyós autógáz töltése tartályba, palackba vagy szállítható nyomástartó berendezésbe
+
+4.16.1. Cseppfolyós autógázt tárolótartályból tölteni e célra kialakított, az ENSZ-EGB 67. számú Előírás követelményeit kielégítő tartályba, palackba lehet azután, hogy a motort leállították, és a járművet a kézifék behúzásával elgurulás ellen rögzítették.
+
+4.16.2. Autógáz-töltőállomáson üzemelő LPG töltőberendezésen a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló rendeletben meghatározott lakóautóhoz tartozó szállítható nyomástartó berendezés a következő feltételek együttes teljesülése esetén tölthető:
+
+a) a szállítható nyomástartó berendezés rendelkezik a berendezés túltöltését megakadályozó szerelvénnyel,
+
+b) a szállítható nyomástartó berendezés el van látva biztonsági lefúvató szeleppel,
+
+c) a szállítható nyomástartó berendezés rendelkezik a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról szóló 29/2011. (VIII. 3.) NGM rendelet 2. mellékletében meghatározott megfelelőségi jelöléssel,
+
+d) a szállítható nyomástartó berendezésnek a lakóautón való biztonságos szállítás és használat szempontjából a lakóautóba beépített nyomástartó berendezéssel egyenértékűsége igazolt,
+
+e) a szállítható nyomástartó berendezésen sérülés nem látható,
+
+f) a szállítható nyomástartó berendezés nyomáspróbájának érvényességi ideje a töltés időpontjában még nem járt le, és
+
+g) a szállítható nyomástartó berendezésre felszerelt töltőszelep alkalmas a töltőpisztoly csatlakoztatására.
+
+4.16.3. Autógáz-töltőállomáson a szállítható nyomástartó berendezés töltését a 4.16.2. alpontban meghatározott esetkörben kizárólag az e tevékenységre a gázforgalmazó által kioktatott töltőállomás-kezelő végezheti.
+
+4.16.4. A töltőállomás-kezelő köteles megtagadni a szállítható nyomástartó berendezés töltését, ha a 4.16.2. alpontban meghatározott feltételek bármelyikének teljesüléséről nem tud meggyőződni.
 
 4.17. Az autógáz-töltőállomás üzemeltetője biztosítja, hogy az autógáz-töltőállomás kezelését a biztonságos üzemeltetés műszaki és biztonságtechnikai követelményeit ismerő és azokat alkalmazni tudó személy végezze. Az önkiszolgáló módon üzemeltethető autógáz-töltőállomáson gázüzemű jármű felhasználó által történő töltésére (tankolására) nem kell alkalmazni az autógáz-töltőállomás műszaki kezelésére vonatkozó követelményeket.
 
@@ -310,15 +332,15 @@ d) a töltőfej járműről történő leválasztása esetén a légtérbe legfe
 
 4.23. A sűrített gáz töltőberendezés névleges nyomásától alacsonyabb nyomástartományra vizsgált palackkal szerelt gépjárművet, munkagépet tölteni tilos.
 
-4.24. Autógáz-töltőállomáson autógázt palackos PB-gáz töltésére szolgáló gázpalackba tölteni tilos.
+4.24.[^67] Autógáz-töltőállomáson autógázt a 4.16.1. és a 4.16.2. alpontban meghatározott esetkörök kivételével palackba tölteni tilos.
 
-4.25.[^65]
+4.25.[^68]
 
-4.26.[^66]
+4.26.[^69]
 
-4.27.[^67]
+4.27.[^70]
 
-4.28.[^68]
+4.28.[^71]
 
 5. A kisteljesítményű lassú üzemű sűrített gáztöltő berendezésekre vonatkozó sajátos követelmények
 
@@ -438,11 +460,13 @@ p) a kitöltés kelte hatóságnál;
 
 q) a műszaki biztonsági hatóság ügyintézőjének aláírása (papíralapú irat esetén).
 
-[^61]: A 2. melléklet a 27/2020. (VII. 16.) ITM rendelet 22. §-ával megállapított szöveg.
-[^62]: A 2. melléklet 4.8. pontja a 80/2023. (XII. 29.) GFM rendelet 2. §-ával megállapított szöveg.
-[^63]: A 2. melléklet 4.10. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^64]: A 2. melléklet 4.11. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^65]: A 2. melléklet 4.25. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^66]: A 2. melléklet 4.26. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^67]: A 2. melléklet 4.27. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^68]: A 2. melléklet 4.28. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^62]: A 2. melléklet a 27/2020. (VII. 16.) ITM rendelet 22. §-ával megállapított szöveg.
+[^63]: A 2. melléklet 4.8. pontja a 80/2023. (XII. 29.) GFM rendelet 2. §-ával megállapított szöveg.
+[^64]: A 2. melléklet 4.10. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^65]: A 2. melléklet 4.11. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^66]: A 2. melléklet 4.16. alpontja a 14/2025. (V. 21.) NGM rendelet 2. §-ával megállapított szöveg.
+[^67]: A 2. melléklet 4.24. alpontja a 14/2025. (V. 21.) NGM rendelet 2. §-ával megállapított szöveg.
+[^68]: A 2. melléklet 4.25. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^69]: A 2. melléklet 4.26. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^70]: A 2. melléklet 4.27. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^71]: A 2. melléklet 4.28. pontját a 15/2024. (V. 30.) NGM rendelet 3. § c) pontja hatályon kívül helyezte.
