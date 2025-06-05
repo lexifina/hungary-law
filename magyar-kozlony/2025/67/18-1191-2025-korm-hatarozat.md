@@ -1,0 +1,240 @@
+# A Kormány 1191/2025. (VI. 5.) Korm. határozata
+
+Magyar Közlöny 2025. évi 67. szám, 2025. június 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/mfuQZ0js672CIXBy7A286838bd52bcf29/dokumentumok/3f19670686e2053fd1d86bf28539215e818048c8/letoltes)
+
+---
+
+A Kormány 1191/2025. (VI. 5.) Korm. határozata
+Magyarország kritikus szervezetek ellenálló képességére vonatkozó nemzeti kockázatértékeléséről
+A Kormány
+1. elfogadja Magyarország kritikus szervezetek ellenálló képességére vonatkozó nemzeti kockázatértékelését,
+az 1. mellékletben foglaltak szerint, és felhívja a katasztrófák elleni védekezésért felelős minisztert, hogy
+gondoskodjon a nemzeti kockázatértékelés kormányzati honlapon történő közzétételéről;
+Felelős: a katasztrófák elleni védekezésért felelős miniszter
+Határidő: azonnal
+2. felhívja a katasztrófák elleni védekezésért felelős minisztert, hogy a Magyarország kritikus szervezetek
+ellenálló képességének növelésére vonatkozó nemzeti kockázatértékelésének az Ellenálló Képesség Fejlesztési
+Munkacsoport által elvégzett időszakos felülvizsgálatáról és szükség szerinti aktualizálásáról szóló előterjesztést
+nyújtsa be a Kormány részére.
+Felelős: a katasztrófák elleni védekezésért felelős miniszter
+Határidő: 2029. április 30.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1191/2025. (VI. 5.) Korm. határozathoz
+Magyarország kritikus szervezetek ellenálló képességére vonatkozó nemzeti kockázatértékelése
+1. Stratégiai célkitűzés
+A kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény (a továbbiakban: Kszetv.)
+alapján a kritikus szervezetek ellenálló képességére vonatkozó nemzeti kockázatértékelés (a továbbiakban:
+Kockázatértékelés) a Kormány által határozattal elfogadott tervezési dokumentum, amelyet a kritikus szervezetek
+és kritikus infrastruktúrák ellenálló képességének támogatása érdekében kell elkészíteni és 4 évente felülvizsgálni.
+A Kszetv. hatálya alá tartozó kritikus szervezet a Kockázatértékelés figyelembevételével alakítja ki
+a kockázatértékelését, az ellenálló képességi mátrixot és az ellenálló képességi intézkedéseit. A védelmi és
+biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény V/A. fejezetének hatálya alá tartozó,
+az ország védelme és biztonsága szempontjából jelentős szervezetek esetében a Kockázatértékelés követelményeit
+– a jogszabályok eltérő rendelkezései által nem érintett elemeiben – megfelelően alkalmazni kell.
+Fentiek alapján a nemzeti ellenálló képességi rendszer fejlesztése és a kritikus szervezetek ellenálló képességének
+növelése érdekében elkészített Kockázatértékelés kiterjed különösen a releváns természeti és ember okozta
+kockázatokra, beleértve a több ágazatot érintő vagy a határokon átnyúló jellegű kockázatokat, bekövetkezhető
+baleseteket, a természeti katasztrófákat, az egészségügyi válsághelyzeteket, a hibrid fenyegetéseket vagy egyéb
+ellenséges fenyegetéseket. Az egyedi kockázatértékelés lényege, hogy kiterjedjen valamennyi releváns kockázat
+értékelésére, amely akadályozhatja az alapvető szolgáltatások nyújtását.
+A Kockázatértékelés elkészítése során a Kormány figyelemmel volt az EU Polgári Védelmi Mechanizmus alapján
+elkészített Magyarország nemzeti katasztrófakockázat-értékelésére, az általános és ágazatspecifikus kockázatokra
+és az azokra kidolgozott ágazati védekezési tervekre, az uniós jogi normák alapján készített, így különösen
+a terrorizmus elleni küzdelemről, a földgázellátás biztonságának megőrzését szolgáló intézkedésekről,
+a villamosenergia-ágazati kockázatokra való felkészülésről, az árvízkockázatok értékeléséről és a veszélyes
+anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről szóló szabályozások alapján készített ágazati
+kockázatelemzésekre vagy -értékelésekre, továbbá a védelmi és biztonsági tevékenységek összehangolásáról
+szóló törvény szerinti védelmi és biztonsági célú tervezéshez kapcsolódó feladatokra, valamint a rendkívüli
+események jelentésére és kezelésére vonatkozó információkra.
+Az összveszély-megközelítés elve érvényesül a kockázatértékelés során, a kritikus infrastruktúrákra és a kritikus
+szervezetekre készített egyedi kockázatértékelés kiterjed az általános kockázatok mellett az ágazatspecifikus és
+más, az alapvető szolgáltatások és kritikus szervezetek egyedi sajátosságaira is, a kritikus szervezetek rezilienciájáról
+és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai
+parlamenti és tanácsi irányelv (a továbbiakban: CER irányelv) 5. cikkének megfelelően.
+Mind a CER irányelv, mind az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító
+intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és
+az (EU) 2016/1148 irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i 2022/2555 európai parlamenti és
+tanácsi irányelv (a továbbiakban: NIS 2 irányelv) hangsúlyos eleme az együttműködés és információcsere a kritikus
+szervezeteket érintő kiberbiztonsági kockázatokkal, kiberfenyegetésekkel és kiberjellegű eseményekkel, valamint
+a nem kiberjellegű kockázatokkal, fenyegetésekkel és eseményekkel kapcsolatban, ezért a Kockázatértékelésnek
+erre is figyelemmel kell lennie.
+Annak érdekében, hogy az állami és a nem állami szervek a kritikus szervezetekkel kapcsolatos ellenálló képesség
+fejlesztési folyamataikat költséghatékonyan, eredményesen, az adminisztratív terhek indokolatlan növelése nélkül
+legyenek képesek végrehajtani, alkalmazni kell az egyenértékűség elvét. Ezen elvnek megfelelően más, jellemzően
+ágazati jogszabályban megállapított kötelezettség alapján elkészített kockázatértékelés és ahhoz kapcsolódó
+releváns dokumentumok alkalmazhatóak az egyedi eljárásokban, amennyiben azok megfelelnek a kritikus
+szervezetek kockázatértékelésére vonatkozó jogszabályi előírásoknak, és tartalmazzák a releváns kockázatokat,
+illetve a függőség releváns mértékét.
+Fentiek alapján a Kormány a nemzeti ellenálló képességi rendszer fejlesztése érdekében, figyelemmel a releváns
+természeti és ember okozta kockázatokra, beleértve a több ágazatot érintő vagy a határokon átnyúló jellegű
+kockázatokat, a kiber- és a hibrid fenyegetéseket vagy más ellenséges fenyegetéseket, a kritikus szervezetek
+ellenálló képességének növeléséhez a Kockázatértékelést az alábbiak szerint határozza meg.
+
+2. Általános és ágazati kockázatértékelés
+2.1. Általános kockázatértékelés
+A Magyarország Nemzeti Biztonsági Stratégiájában elemzettek alapján, a kritikus szervezetek és
+infrastruktúrák, valamint az alapvető szolgáltatások biztonságos és üzemfolytonos nyújtása szempontjából
+gyakorolt hatása miatt leginkább jelentős, kiemelt biztonsági kockázatok a következők:
+a) váratlan fegyveres támadás;
+b) hibrid fenyegetések és események Magyarország destabilizálása, kormányzati
+cselekvőképességének, politikai stabilitásának és társadalmi egységének gyengítése, továbbá
+nemzetközi érdekérvényesítő képességének korlátozása céljából;
+c) jelentős károkat okozó kibertámadások a kormányzati informatikai rendszerek, az e-közigazgatás,
+a közműszolgáltatók, a stratégiai vállalatok, a létfontosságú infrastruktúra egyéb elemei és más,
+a társadalom működésében fontos szervezetek számítógépes hálózatai ellen;
+d) terrorcselekmények;
+e) energiaellátási válsághelyzet (villamosenergia-ellátási, földgázellátási, valamint kőolaj- és
+kőolajtermék-ellátási válsághelyzet);
+f) ipari balesetek és katasztrófák;
+g) tömeges megbetegedést okozó humán és állati eredetű járványos betegségek, ennek részeként
+az élelmiszerellátási lánc biztonságára ható kockázatok;
+h) természeti katasztrófák rendszeres bekövetkezése.
+A 2023. évben elkészült, Magyarország nemzeti katasztrófakockázat-értékeléséről szóló jelentés
+(a továbbiakban: jelentés) tartalmazza az ország szempontjából jelentőséggel bíró kockázatok széles
+spektrumának elemzését, mind a valószínűségek, mind a következmények tekintetében, valamint azonosítja
+mindazon katasztrófa-eseményeket, amelyek súlyos következményeket jelenthetnek az ország teljes vagy
+jelentős területére, a népességre, a gazdaságra, valamint a természeti környezetre.
+A jelentésben foglalt kockázatértékelési módszertan figyelembe veszi a különböző szakterületek, ágazatok
+kockázatértékelési szabványait és protokolljait, továbbá az éghajlatváltozáshoz való alkalmazkodás
+szempontjait, a készítéskor hatályos szabályozás szerinti létfontosságú rendszerek, létesítmények védelmével
+kapcsolatos egyes aspektusokat, és kezeli az egyedi/többes kockázat koncepcióját, összhangban az EU által
+készített útmutatóban foglaltakkal.
+A jelentés szerint általános értelemben biztonsági és nemzetbiztonsági szempontból hazánk kitettsége
+folyamatosan változik, a különböző természetű kockázatok egyre több szálon kapcsolódnak egymáshoz.
+A jelentés a kockázatokat három főbb kategóriába sorolja be, amelyek a természeti események, a súlyos
+balesetek, valamint a szándékos cselekmények. Az EU módszertan alapján készült kockázati területek
+jegyzéke a következő:
+a) szélsőséges időjárás,
+b) vizek kártételei,
+c) földtani kockázatok,
+d) egészségügyi válsághelyzet,
+e) űridőjárás,
+f) veszélyes anyagok,
+g) közlekedési baleset,
+h) nukleáris baleset,
+i) terrorizmus,
+j) infokommunikációs válsághelyzet,
+k) biztonságpolitikai válság,
+l) energiaellátási válság.
+Ezen kockázati jegyzék általános kockázatértékelésnek minősül, amelynek célja a katasztrófakockázat-
+kezelési tervek elkészítésének megalapozása.
+
+Fontos kiemelni – a NIS 2 irányelvvel összhangban –, hogy a hálózati és információs rendszerek a mindennapi
+élet központi elemévé fejlődtek a társadalom gyors digitális átalakulásával és összekapcsolódásával, amely
+a kiberfenyegetettség bővüléséhez vezetett. Az események száma, nagysága, kifinomultsága, gyakorisága
+és hatása növekszik, és komoly veszélyt jelentenek a hálózati és információs rendszerek működésére,
+így akadályozhatják a gazdasági tevékenységek folytatását, pénzügyi veszteséget okozhatnak, alááshatják
+a felhasználók bizalmát, és jelentős károkat okozhatnak a gazdaságban és a társadalomban. A kiberbiztonság
+valamennyi kritikus ágazat szempontjából kulcsfontosságú tényező, ezért kiemelt jelentőségű
+a kiberbiztonsági kockázatok és függőségek elemzése és értékelése is.
+2.2. Ágazati kockázatértékelések
+A vonatkozó EU szabályozó alapján a nemzeti kockázatértékelésben az általános kockázatértékelés mellett
+figyelembe kell venni a releváns ágazatspecifikus uniós jogi aktusok követelményeinek megfelelően
+elvégzett kockázatértékeléseket, amelyek Magyarországon a következők:
+a) Magyarország Kormánya az 1824/2015. (XI. 19.) Korm. határozattal elfogadta a terrorizmus
+elleni küzdelem feladatainak egységes végrehajtási rendjét, amely részletesen tartalmazza
+a fenyegetettség mértékének megfelelő fokozatokat és a szükséges intézkedéseket.
+b) A Magyar Energetikai és Közmű-szabályozási Hivatal elkészítette és közzétette Magyarország
+földgázellátás-biztonsági Megelőzési Cselekvési Tervét 2024. évben, amelyben azonosították és
+értékelték a kockázatokat.1
+c) A Magyar Energetikai és Közmű-szabályozási Hivatal elfogadta és közzétette a villamos energia
+kockázati készültségi tervet, amelyben 18 db releváns nemzeti forgatókönyvet azonosítottak, és
+amelyek kezelésére a kockázati készültségi tervet kidolgozták 2023. évben.2
+d) Magyarország Kormánya az 1480/2022. (X. 13.) Korm. határozattal elfogadta Magyarország 2021. évi
+árvízkockázat-kezelési tervét, amely részletesen tartalmazza a vizek többletéből eredő kockázattal
+érintett területek meghatározását, a veszély- és kockázati térképeket, valamint a kockázatkezelési
+terveket.
+e) A veszélyes anyagokkal kapcsolatos súlyos balesetekkel összefüggő kockázatértékelést, azok
+kezelésére hozandó üzemeltetői intézkedéseket, valamint annak hatósági felügyeletére vonatkozó
+követelményeket a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról
+szóló 2011. évi CXXVIII. törvény IV. fejezete, valamint a végrehajtási rendelete tartalmazza.
+f) Magyarország Kormánya az 1089/2025. (III. 31.) Korm. határozattal elfogadta Magyarország
+Kiberbiztonsági Stratégiáját, amely a kritikus szervezetek kritikus infrastruktúráival kapcsolatos
+kiberbiztonsági kockázatokat és azok kezelésére vonatkozó stratégiai elemeket tartalmaz.
+2.3. A kritikus szervezetek kockázatértékelésének témakörei
+Magyarországon – a kritikus szervezetek és infrastruktúrák, valamint az alapvető szolgáltatások folytonossága
+tekintetében – az alábbi kockázatok értékelése és kezelése indokolt:
+a) meteorológiai,
+b) geológiai,
+c) humán,
+d) technikai,
+e) technológiai,
+f) tűzeseti,
+g) informatikai,
+h) veszélyes anyagokkal és technológiákkal kapcsolatos,
+i) ágazatspecifikus
+kockázatok.
+1 A hatályos változat a Magyar Energetikai és Közmű-szabályozási Hivatal honlapján közzétéve.
+2 A hatályos változat a Magyar Energetikai és Közmű-szabályozási Hivatal honlapján közzétéve.
+
+3. Ágazatok egymás közötti függőségéből eredő kockázatok
+A kritikus szervezetek és infrastruktúrák rendkívüli eseményei széles körű és súlyos következményekkel,
+dominóhatással is járhatnak. Az egyes ágazatok egymástól is függenek, illetve működésük egymásra is
+hatást gyakorol, amely kifejezetten befolyásolja és kitettséget okoz a kritikus szervezeteknél, az ellátási lánc
+folyamatosságát megszakíthatja, és ezzel további negatív hatást gyakorolhat a másik ágazatban bekövetkező kiesés,
+vagy szolgáltatás elmaradása.
+A kibervédelem területén megfogalmazott, ugyanakkor általános érvényű tapasztalat, hogy az infrastruktúra
+és az ágazatok közötti növekvő kölcsönös függőségek annak eredményeként alakulnak ki, hogy egyre inkább
+szektorokon, határokon átívelő és egymástól kölcsönösen függő, a kulcsfontosságú-kritikus infrastruktúrát
+használó szolgáltatási hálózatok jönnek létre az energia, a közlekedés, a banki szolgáltatások, az ivóvíz, a szennyvíz,
+az élelmiszer-termelés, -feldolgozás és -forgalmazás, az egészségügy, a világűr, a pénzügyi piaci infrastruktúra és
+a digitális infrastruktúra ágazatában, valamint a közigazgatási ágazat bizonyos aspektusaiban.
+A kölcsönös függőségek jelentősége, hogy az alapvető szolgáltatások zavara dominóhatás jelleggel további
+következményeket okozhat akkor is, ha a kezdő időpontban csak egy szervezet vagy ágazat volt érintett. Az elmúlt
+években a koronavírus-világjárvány, a rendkívül nagy méretű teherszállító hajó elakadása egy stratégiai tengeri
+közlekedési útvonalon, valamint a nemzetközi fegyveres konfliktusok rámutattak az egyre inkább egymásra
+utalt társadalmak és gazdaságok sebezhetőségére az addig nagy hatású, csekély valószínűségűnek tekintett
+kockázatokkal (HILP – high impact, low probability) szemben.
+Az ágazatok közötti függőség fő jellemzője, hogy olyan hatások (főként szolgáltatások) meghatározóak, amelyek
+a kritikus szervezet által biztosított alapvető szolgáltatás nyújtását befolyásolják, és amelye(ke)t az alapvető
+szolgáltatás nyújtásához igénybe vesz mástól. Ilyen lehet különösen (de nem kizárólag) az energia- vagy
+az internetellátás, esetlegesen különböző gyártási, karbantartási szolgáltatások. Általános függőség jellemzi például
+az energia, a közlekedés, a banki szolgáltatás, az ivóvíz és az IKT-ágazatok alapvető szolgáltatásait igénybe vevő más
+ágazati kritikus szervezeteket. Fontos vizsgálni az ágazaton belüli, alágazatok közötti függőségeket is, amelyekre
+példa lehet az egészségügy ágazatban a betegellátás és a gyógyszer-ellátás, egészségügyi eszközellátás alágazatok
+viszonya. Mindezekre tekintettel kiemelkedő jelentőségű, hogy a függőségeket az alapvető szolgáltatások szintjén
+szükséges elemezni és értékelni.
+A kritikus szervezetekre vonatkozó szabályozásban a korábbiakhoz képest alapvető változás volt a szervezet-, illetve
+rendszerszemlélet bevezetése, amelynek kulcsfontosságú kérdésköre az ellátási láncok vizsgálata. A kockázatok
+azonosításakor és értékelésekor szükségszerű a kritikus szervezet – nemzeti és akár nemzetközi szintű – szolgáltatási
+hálózatának vizsgálata, a különböző beszállítói vagy más szerződéses partneri és szolgáltatási kapcsolatból fakadó
+kitettségek és függőségek feltárása, majd annak kezelésére vonatkozó intézkedések meghozatala.
+A Magyarország Kiberbiztonsági Stratégiájáról szóló 1089/2025. (III. 31.) Korm. határozat alapján az ellátási láncok
+fenyegetettsége az elmúlt években kiemelt veszélyforrássá vált, mivel az azokhoz kapcsolódó, többnyire előre nem
+látható események kölcsönhatásai súlyos társadalmi, gazdasági és politikai következményekkel járhatnak. Az ellátási
+láncokban hangsúlyos a kis- és középvállalkozások által nyújtott alapvető szolgáltatások szerepe, különösen
+az ágazati függőségeket jelentő kiberbiztonsági kérdésekben, ezért a Kiberbiztonsági Stratégia megfogalmazta,
+hogy intézkedéseket szükséges hozni a kis- és középvállalkozások ellátási láncaiban felmerülő kihívások
+kezeléséhez.
+Az egyenértékűség és az arányos megközelítés érvényesítésével, összehangolt kockázatértékeléssel biztosítható,
+hogy az ágazatok, alágazatok közötti függőség és kölcsönös függőség, az ellátási láncokkal kapcsolatos
+fenyegetettség, kitettség, sérülékenység, kockázat, mely zavart okozhat az alapvető szolgáltatás nyújtásában,
+a zavar, mely hatást okozhat, és mely kockázatkezelés intézkedések szükségesek, azokból már bevezetésre került-e
+intézkedés. Különös figyelemmel kell lenni a rendszerszintű zavarok bekövetkezhetőségére, az ellátási láncokban
+történő lehetséges hatásokra, továbbá kifejezetten az IKT-szolgáltatások, -rendszerek vagy -termékek esetében azok
+jövőbeli jelentőségére a kritikus szervezetek tevékenysége szempontjából.
+Mindezek alapján az egyes kritikus szervezet általi kockázatértékeléseknek ki kell terjedniük az általános és
+ágazati kockázatértékelésen túl arra is, hogy a további ágazatok milyen mértékben függenek a kritikus szervezet
+által nyújtott alapvető szolgáltatástól, és hogy az említett kritikus szervezet milyen mértékben függ az ilyen más
+ágazatokban működő más szervezetek által nyújtott alapvető szolgáltatásoktól.
+
+Az ágazatok közötti függőségek okán egyre erősödik az energia- és vízellátással, a közlekedéssel, a gyártással,
+az egészségügyi rendszerekkel, valamint a kiberbiztonsággal kapcsolatos ellenálló képesség szintjének jelentősége,
+ezért a kockázatértékelés részeként hangsúlyosan kell vizsgálni a kritikus szervezetek beszállítóinak, szolgáltatóinak
+és azok termékeinek, valamint a nyújtott szolgáltatásainak kiberbiztonsági kockázatkezelési intézkedéseinek
+általános minőségét és ellenálló képességét.
+Összességében a Kockázatértékelés alapján a kritikus szervezetek egyedi sajátosságainak megfelelő
+kockázatértékelési módszerek alkalmazásával biztosítható az ágazatok közötti függőségek, valamint kölcsönös
+függőségek feltárása és értékelése, az ellátási láncban szereplő beszállítók, külső szolgáltatásoknak való kitettség,
+azaz a nélkülözhetetlen szolgáltatások és szolgáltatók, valamint az ellátási lánc jellemzői.
+Annak érdekében, hogy a kritikus szervezetek a kockázatértékelésük készítése során a lehető legteljesebb
+vizsgálatot végezzék, a hatóság biztosítja a módszertani útmutatókat, segédleteket és iratmintákat, amelyek
+részletesen tartalmazzák az általános, az ágazati és az ágazatok közötti függőségekre vonatkozó szempontokat.
+A kockázatértékelésen alapuló tervezési modellel, valamint a gyakorlatokkal és további intézkedésekkel
+fejleszthető a kritikus szervezetek ellenálló képessége, amely magában foglalja azon képességét, hogy megelőzzön
+egy rendkívüli eseményt, azzal szemben védekezzen, arra reagáljon, annak ellenálljon, azt enyhítse, tompítsa, ahhoz
+alkalmazkodjon és abból helyreálljon. Továbbá mindez azt is biztosítja, hogy a rendkívüli események kezelése
+a kritikus szervezetek és a közigazgatási szervezetrendszer együttműködésével és koordinált módon, hatékonyan
+valósuljon meg.
