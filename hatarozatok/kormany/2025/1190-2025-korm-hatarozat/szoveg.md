@@ -1,1 +1,0 @@
-A Széchenyi Kártya Program keretében adható támogatások nyújtására vállalható kötelezettségek felső korlátjáról szóló 1260/2023. (VI. 29.) Korm. határozatban az „1 700 000 000 000 forintban” szövegrész helyébe a „2 000 000 000 000 forintban” szöveg lép.
