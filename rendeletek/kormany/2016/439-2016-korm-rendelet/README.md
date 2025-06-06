@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-439-20-
 | 2022-11-10 | 2016-439-20-22.9 | 69/2022. (II. 28.) Korm. rendelet |
 | 2023-04-01 | 2016-439-20-22.10 | 69/2022. (II. 28.) Korm. rendelet |
 | 2024-03-14 | 2016-439-20-22.11 | 69/2022. (II. 28.) Korm. rendelet |
+| 2025-06-06 | 2016-439-20-22.12 | 69/2022. (II. 28.) Korm. rendelet |

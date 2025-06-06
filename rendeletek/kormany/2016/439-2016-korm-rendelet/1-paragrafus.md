@@ -1,3 +1,3 @@
-1. §[^1] A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 31/C. § (5) bekezdés b) pontjában meghatározott, a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság rendelkezése alatt álló, Kincstárnál vezetett letéti számlára az Mktv. 31/D. § (7) bekezdése alapján befizetett összeg a 2024. évben a 69 000 000 000 forintot nem haladhatja meg.
+1. §[^1] A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 31/C. § (5) bekezdés b) pontjában meghatározott, a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság rendelkezése alatt álló, Kincstárnál vezetett letéti számlára az Mktv. 31/D. § (7) bekezdése alapján befizetett összeg a 2025. évben a 81 000 000 000 forintot nem haladhatja meg.
 
-[^1]: Az 1. § a 69/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított, a 60/2024. (III. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. § a 69/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított, a 60/2024. (III. 13.) Korm. rendelet 1. §-a, a 134/2025. (VI. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
