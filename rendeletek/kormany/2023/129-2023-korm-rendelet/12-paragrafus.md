@@ -4,9 +4,9 @@
 
 (3) A (2) bekezdést nem kell alkalmazni, ha a külföldi részvételi jelentkező kizárólag a 2018. évi LVII. törvény átmeneti szabályát megállapító, a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 114. §-a alapján minősül külföldi részvételi jelentkezőnek.
 
-(4) A külföldi részvételi jelentkező akkor is a 2018. évi LVII. törvény szerinti külföldi befektetőnek minősül, ha az adós gazdasági tevékenységének folytatására alapított gazdasági társaság a 246/2018. (XII. 17.) Korm. rendelet 1. melléklet 5–7. pontjában meghatározott tevékenységet nem a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 1. § j) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzi.
+(4)[^10] A külföldi részvételi jelentkező akkor is a 2018. évi LVII. törvény szerinti külföldi befektetőnek minősül, ha az adós gazdasági tevékenységének folytatására alapított gazdasági társaság a 246/2018. (XII. 17.) Korm. rendelet 1. melléklet 5–7. pontjában meghatározott tevékenységet nem a kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény 3. § 28. pontja szerinti kritikus infrastruktúra közvetlen igénybevétele útján végzi.
 
-(5)[^9] A felszámoló a 8. § (8) bekezdése szerinti határidőben a részvételi jelentkezések felbontását követően az érvényes jelentkezést benyújtó külföldi befektetők vonatkozásában a (2) bekezdés szerinti adatokat továbbítja (a továbbiakban: előzetes bejelentés) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter (e § alkalmazásában a továbbiakban: miniszter) részére a (6) bekezdés szerinti eljárás lefolytatása érdekében.
+(5)[^11] A felszámoló a 8. § (8) bekezdése szerinti határidőben a részvételi jelentkezések felbontását követően az érvényes jelentkezést benyújtó külföldi befektetők vonatkozásában a (2) bekezdés szerinti adatokat továbbítja (a továbbiakban: előzetes bejelentés) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter (e § alkalmazásában a továbbiakban: miniszter) részére a (6) bekezdés szerinti eljárás lefolytatása érdekében.
 
 (6) A miniszter Magyarország biztonsági érdekének védelme céljából nemzetbiztonsági előminősítő eljárást (a továbbiakban: nemzetbiztonsági előminősítő eljárás) folytat le. A nemzetbiztonsági előminősítő eljárás során a 2018. évi LVII. törvény és a 246/2018. (XII. 17.) Korm. rendelet szerinti szabályokat az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
@@ -30,4 +30,5 @@ d) amennyiben a vizsgálat eredményeként a külföldi részvételi jelentkező
 
 (12) A (11) bekezdésben meghatározott esetben a 9. § (1) bekezdésében meghatározott határidőt a (11) bekezdésben meghatározott határidő lejárata alapján kell számítani.
 
-[^9]: A 12. § (5) bekezdése a 232/2023. (VI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 12. § (4) bekezdése a 131/2025. (VI. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 12. § (5) bekezdése a 232/2023. (VI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

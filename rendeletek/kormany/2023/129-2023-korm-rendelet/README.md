@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-129-20-
 | 2023-06-29 | 2023-129-20-22.5 | 266/2023. (VI. 28.) Korm. rendelet |
 | 2023-07-06 | 2023-129-20-22.6 | 290/2023. (VII. 5.) Korm. rendelet |
 | 2023-10-26 | 2023-129-20-22.7 | 472/2023. (X. 25.) Korm. rendelet |
+| 2025-06-06 | 2023-129-20-22.8 | 131/2025. (VI. 5.) Korm. rendelet |
