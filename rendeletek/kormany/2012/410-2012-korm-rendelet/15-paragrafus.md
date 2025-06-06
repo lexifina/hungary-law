@@ -1,10 +1,5 @@
-## 6. [^121] A nemzetközi jóváírási jogosultságok felhasználása, valamint a kibocsátás-csökkentési egység (ERU) és az igazolt kibocsátás-csökkentési egység (CER) beszámítása és átváltása
+## 6.[^175]
 
-15. § (1) Az üzemeltető és a légi jármű üzembentartó az Ügkr. tv. 29. § (1)–(4) bekezdése alapján kérheti nemzetközi jóváírási jogosultságainak ÜHG-egységekre történő átváltását.
+15. §
 
-(2) Az átváltást az üzemeltető és a légi jármű üzembentartó kezdeményezi a forgalmi jegyzékben a jegyzékkezelőnél.
-
-(3)[^122]
-
-[^121]: A 6. alcím (15. §) a 131/2015. (V. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^122]: A 15. § (3) bekezdését az 527/2020. (XI. 26.) Korm. rendelet 16. § f) pontja hatályon kívül helyezte.
+[^175]: A 6. alcímet (15. §-t) a 127/2025. (VI. 5.) Korm. rendelet 33. § (1) bekezdés 14. pontja hatályon kívül helyezte.

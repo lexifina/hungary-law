@@ -1,10 +1,4 @@
-3/A. §[^53] (1) A légi jármű üzembentartó
-
-a) az Ügkr. tv. 1. mellékletében foglalt táblázat 37. sora szerinti tevékenysége, valamint az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülések során keletkező szén-dioxid kibocsátása, és
-
-b) ha térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, a tonnakilométer adatai
-
-nyomon követésére és jelentésére vonatkozóan nyomonkövetési tervet készít, és azt a hatóság részére jóváhagyás céljából megküldi az (EU) 2018/2066 bizottsági végrehajtási rendelet 52. cikkében meghatározott határidők betartásával.
+3/A. §[^47] (1)[^48] A légijármű-üzembentartó az Ügkr. tv. 1. mellékletében foglalt táblázat 37. sora szerinti tevékenysége, valamint az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülések során keletkező szén-dioxid kibocsátása nyomon követésére és jelentésére vonatkozóan nyomonkövetési tervet készít, és azt a hatóság részére jóváhagyás céljából megküldi az (EU) 2018/2066 felhatalmazáson alapuló bizottsági végrehajtási rendelet 52. cikkében meghatározott határidők betartásával.
 
 (2) Ha az (1) bekezdés szerinti nyomonkövetési terv megfelel az (EU) 2018/2066 bizottsági végrehajtási rendelet, valamint e kormányrendeletben foglaltaknak, a hatóság a nyomonkövetési tervet jóváhagyja.
 
@@ -12,4 +6,5 @@ nyomon követésére és jelentésére vonatkozóan nyomonkövetési tervet kés
 
 (4) Ha az egyszerűsített nyomon követést alkalmazó üzemeltető vagy légi jármű üzembentartó egy jelentési évben túllépi a kis kibocsátók számára megállapított küszöbértéket, e tényről a bejelentés alapjául szolgáló esemény napját követő 8 napon belül értesíti a hatóságot, és megküldi a nyomonkövetési terv módosítására vonatkozó javaslatát, és kéri a kibocsátási engedélye módosítását.
 
-[^53]: A 3/A. §-t az 527/2020. (XI. 26.) Korm. rendelet 4. §-a iktatta be.
+[^47]: A 3/A. §-t az 527/2020. (XI. 26.) Korm. rendelet 4. §-a iktatta be.
+[^48]: A 3/A. § (1) bekezdése a 127/2025. (VI. 5.) Korm. rendelet 4. §-ával megállapított szöveg.

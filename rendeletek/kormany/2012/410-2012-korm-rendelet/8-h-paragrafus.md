@@ -1,4 +1,4 @@
-8/H. §[^82] (1) Beolvadás és kiválás bejelentésére vonatkozó követelményekkel és az ingyenes kiosztás ezen esetekben történő meghatározásával kapcsolatban az (EU) 2019/331 felhatalmazáson alapuló bizottsági rendelet megfelelően alkalmazandó.
+8/H. §[^123] (1) Beolvadás és kiválás bejelentésére vonatkozó követelményekkel és az ingyenes kiosztás ezen esetekben történő meghatározásával kapcsolatban az (EU) 2019/331 felhatalmazáson alapuló bizottsági rendelet megfelelően alkalmazandó.
 
 (2) A beolvadást és a kiválást az erre tekintettel kiadott kibocsátási engedély véglegessé válásától számított 45 napon belül az érintett létesítmények vonatkozásában az (1) bekezdésben foglaltak szerint a hatóság honlapján közzétett módon kell bejelenteni a hatóságnak.
 
@@ -12,4 +12,4 @@
 
 (7) Ha a (2) bekezdés szerinti bejelentés nem felel meg az e rendelet szerinti követelményeknek, a hatóság az üzemeltetőt legfeljebb kétszer hiánypótlásra szólítja fel.
 
-[^82]: A 8/H. §-t az 527/2020. (XI. 26.) Korm. rendelet 8. §-a iktatta be.
+[^123]: A 8/H. §-t az 527/2020. (XI. 26.) Korm. rendelet 8. §-a iktatta be.

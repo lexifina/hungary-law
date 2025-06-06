@@ -1,0 +1,3 @@
+3/D. §[^66] Az Ügkr. tv. 10/A. §-a szerinti jelentéstételi kötelezettségre vonatkozóan 2025. január 1-től kezdődően a légijármű-üzembentartó minden egyes légijármű nem szén-dioxiddal kapcsolatos hatásait az (EU) 2018/2066 bizottsági végrehajtási rendelet iránymutatásai alapján az Európai Bizottság által elfogadott végrehajtási jogi aktusokkal összhangban nyomon követi, és a jelentési időszak, azaz tárgyév éves vonatkozó kibocsátását tartalmazó hitelesített kibocsátási jelentését a hatóság részére a tárgyévet követő év március 31-ig benyújtja.
+
+[^66]: A 3/D. §-t a 127/2025. (VI. 5.) Korm. rendelet 6. §-a iktatta be.

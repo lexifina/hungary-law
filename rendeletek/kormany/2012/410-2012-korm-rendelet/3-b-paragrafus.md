@@ -1,5 +1,5 @@
-3/B. §[^54] (1) A nyomonkövetési terv jelentős – az (EU) 2018/2066 bizottsági végrehajtási rendelet 15. cikk (3) és (4) bekezdése szerinti – módosítását eredményező változásokat az üzemeltető és a légi jármű üzembentartó a változás bekövetkeztétől számított 8 napon belül bejelenti a hatóságnak. A nyomonkövetési terv jelentős módosításához a hatóság engedélye szükséges.
+3/B. §[^49] (1) A nyomonkövetési terv jelentős – az (EU) 2018/2066 bizottsági végrehajtási rendelet 15. cikk (3) és (4) bekezdése szerinti – módosítását eredményező változásokat az üzemeltető és a légi jármű üzembentartó a változás bekövetkeztétől számított 8 napon belül bejelenti a hatóságnak. A nyomonkövetési terv jelentős módosításához a hatóság engedélye szükséges.
 
 (2) A nyomonkövetési terv jelentősnek nem minősülő módosítását az üzemeltető és a légi jármű üzembentartó hatósági jóváhagyás nélkül is elvégezheti. A nyomonkövetési terv naptári évben végrehajtott jelentősnek nem minősülő módosításairól az üzemeltető és a légi jármű üzembentartó minden év december 31-ig értesíti a hatóságot. Ha a hatóság megállapítja, hogy a nyomonkövetési terv nincs összhangban az (EU) 2018/2066 bizottsági végrehajtási rendelet, az Ügkr. tv., valamint e kormányrendelet rendelkezéseivel, felszólítja az üzemeltetőt és a légi jármű üzembentartót a nyomonkövetési terv módosítására és a kibocsátási engedély módosítására irányuló kérelem benyújtására.
 
-[^54]: A 3/B. §-t az 527/2020. (XI. 26.) Korm. rendelet 4. §-a iktatta be.
+[^49]: A 3/B. §-t az 527/2020. (XI. 26.) Korm. rendelet 4. §-a iktatta be.

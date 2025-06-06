@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-410-20-
 | 2023-01-01 | 2012-410-20-22.24 | 131/2015. (V. 27.) Korm. rendelet |
 | 2023-09-22 | 2012-410-20-22.25 | 439/2023. (IX. 21.) Korm. rendelet |
 | 2024-01-01 | 2012-410-20-22.26 | 653/2023. (XII. 28.) Korm. rendelet |
+| 2025-06-06 | 2012-410-20-22.27 | 127/2025. (VI. 5.) Korm. rendelet |

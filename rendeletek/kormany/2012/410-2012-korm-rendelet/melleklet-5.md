@@ -1,4 +1,4 @@
-5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^206]
+5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^297]
 
 A kibocsátások nyomon követésére és jelentésére vonatkozó szabályok
 
@@ -34,9 +34,9 @@ A) Ha az (EU) 2018/2066 bizottsági végrehajtási rendelet lehetővé teszi ors
 
 ## b 0 °C-ra vonatkoztatott érték 35,87 MJ/Nm3 1013,25 hPa nyomáson.
 
-## c A tiszta biomassza tüzelőanyagokat nulla kibocsátási tényezővel kell figyelembe venni.
+## c A tiszta biomassza tüzelőanyagokat nulla kibocsátási tényezővel kell figyelembe venni abban az esetben, amennyiben az 1. § (12) bekezdésében foglalt fenntarthatósági és üvegházhatásúgázkibocsátás-megtakarítási kritériumoknak való megfelelés teljesül. A földgáz biogáz hányadának meghatározása esetében figyelembe kell venni az (EU) 2018/2066 bizottsági végrehajtási rendelet 39. cikk (3) és (4) bekezdésében foglaltakat.
 
-## B) Amennyiben a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus oxidációs tényező alkalmazását, az alábbi 2. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál.
+## B) Amennyiben az (EU) 2018/2066 bizottsági végrehajtási rendelet lehetővé teszi országspecifikus oxidációs tényező alkalmazását, az alábbi 2. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál.
 
 2. táblázat: Országspecifikus tüzelőanyag oxidációs tényezők
 
@@ -50,4 +50,4 @@ A) Ha az (EU) 2018/2066 bizottsági végrehajtási rendelet lehetővé teszi ors
 
 | 4 | Gáz | 1 |
 
-[^206]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított, az 527/2020. (XI. 26.) Korm. rendelet 15. § 41. pontja szerint módosított szöveg.
+[^297]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított, az 527/2020. (XI. 26.) Korm. rendelet 15. § 41. pontja, a 127/2025. (VI. 5.) Korm. rendelet 32. § 42. és 43. pontja szerint módosított szöveg.
