@@ -1,0 +1,3 @@
+7. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az akkreditált hitelesítő szervezet által hitelesített éves kibocsátási jelentést az üzemeltető, a légijármű-üzembentartó vagy a hajózási társaság a hatóság által honlapján közzétett kérelem és nyomtatványok alkalmazásával elektronikus úton nyújtja be a hatóság részére. A számításokat tartalmazó mellékleteket elektronikus úton újraszámolható formátumban is be kell nyújtani.”

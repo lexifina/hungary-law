@@ -1,0 +1,3 @@
+28. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet a következő 22/D. §-sal egészül ki:
+
+„22/D. § E rendeletnek az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet módosításáról szóló 127/2025. (VI. 5.) Korm. rendelettel (a továbbiakban: Mód. Kr.) módosított 21/A. §-sát a Mód. Kr. hatálybalépésekor folyamatban lévő és a megismételt eljárásokban is alkalmazni kell.”
