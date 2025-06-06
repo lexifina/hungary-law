@@ -24,7 +24,7 @@ e) országos viszonylatban legalább negyven főt foglalkoztat munkaviszonyban, 
 
 (4) E rendelet alkalmazásában
 
-a) karitatív tevékenységek: a mentéshez, a katasztrófaelhárításhoz, a szociálisan hátrányos helyzetben lévők, így különösen az idősek, a gyermekek a fogyatékosok, a hajléktalanok, valamint a büntetés-végrehajtási intézetekből szabadultak ellátásához természetben nyújtott humanitárius segélyezési tevékenységek, amelyek során a segélyezés, illetve a segítségnyújtás
+a)[^6] karitatív tevékenységek: a mentéshez, a katasztrófaelhárításhoz, a szociálisan hátrányos helyzetben lévők, így különösen az idősek, a gyermekek, a fogyatékossággal élő személyek, a hajléktalanok, valamint a büntetés-végrehajtási intézetekből szabadultak ellátásához természetben nyújtott humanitárius segélyezési tevékenységek, amelyek során a segélyezés, illetve a segítségnyújtás
 
 aa) fajra, nemre, nemzetiségre, meggyőződésre, felekezeti hovatartozásra tekintet nélkül történik, továbbá
 
@@ -41,3 +41,4 @@ b) megfelelő logisztikai háttér: a 2. § szerinti közlemény közzétételé
 [^3]: Az 1. § (2) bekezdés b) pont nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^4]: Az 1. § (2a) bekezdését a 133/2023. (IV. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (3) bekezdése a 133/2023. (IV. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (4) bekezdés a) pont nyitó szövegrésze a 130/2025. (VI. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.

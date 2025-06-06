@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-65-20-2
 | 2018-08-31 | 2000-65-20-22.12 | 343/2004. (XII. 22.) Korm. rendelet |
 | 2020-12-23 | 2000-65-20-22.13 | 629/2020. (XII. 22.) Korm. rendelet |
 | 2023-04-19 | 2000-65-20-22.14 | 133/2023. (IV. 18.) Korm. rendelet |
+| 2025-06-06 | 2000-65-20-22.15 | 130/2025. (VI. 5.) Korm. rendelet |
