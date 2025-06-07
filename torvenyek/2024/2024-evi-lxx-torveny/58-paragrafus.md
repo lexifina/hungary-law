@@ -26,7 +26,7 @@ a) jogellenes magatartásával,
 
 b) alkohol- vagy kábítószer-függőségével, vagy ezek fogyasztásával,
 
-c) önhibájából eredő ittas állapotával, kábítószer vagy bódító hatású anyag miatti tudatzavarával vagy belátási képességének csökkenésével,
+c) önhibájából eredő ittas állapotával vagy kábítószer miatti tudatzavarával vagy belátási képességének csökkenésével,
 
 d) vezetői engedély vagy más szükséges hatósági engedély nélküli, ittas vagy bódult állapotban történő járművezetéssel,
 

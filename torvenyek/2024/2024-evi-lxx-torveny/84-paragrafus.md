@@ -6,7 +6,7 @@ a) Magyarország nemzetbiztonsági érdekeit minden törvényes eszközzel érv�
 
 b) az előírt helyen és időben, szolgálatképes állapotban megjelenni, ezt az állapotot a szolgálat teljes ideje alatt fenntartani és feladatát teljesíteni, valamint e célból rendelkezésre állni,
 
-c) a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából az alkohol, a kábítószer vagy pszichotróp anyag fogyasztásának ellenőrzését célzó, műtétnek nem minősülő vizsgálatnak magát alávetni a miniszter által rendeletben meghatározott szabályok szerint,
+c) a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából az alkohol vagy a kábítószer fogyasztásának ellenőrzését célzó, műtétnek nem minősülő vizsgálatnak magát alávetni a miniszter által rendeletben meghatározott szabályok szerint,
 
 d) a szolgálati beosztásából eredő, valamint – a rendes szolgálatteljesítési idején belül külön ellentételezés nélkül – a szolgálati beosztásához nem tartozó, a végzettsége, szakképesítése, szakmai képesítése alapján részére a foglalkoztató szervezeti egység feladatkörén belül meghatározott szolgálati feladatait a törvényes előírásoknak, az utasításoknak és intézkedéseknek megfelelően – szükség esetén a veszély vállalásával –, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan végrehajtani,
 

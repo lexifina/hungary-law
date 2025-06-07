@@ -70,7 +70,7 @@ kell érteni.
 
 23. az alapszabadság tekintetében a 119. § (1) bekezdése,
 
-24. a szülési szabadság tekintetében a 121. § (5) bekezdése,
+24. a szülési szabadság tekintetében a 121. § (5) és (6) bekezdése,
 
 25. az egészségügyi szabadságra vonatkozó 124. §,
 
