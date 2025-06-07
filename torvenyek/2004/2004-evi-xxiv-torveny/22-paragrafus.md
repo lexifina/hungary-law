@@ -28,7 +28,7 @@ b) a polgári célú pirotechnikai tevékenység feltételeként előírt képes
 
 (4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben meghatározza a fegyvertartáshoz, illetve a fegyver jogszerű használatához szükséges egészségi alkalmasság feltételeit és vizsgálatának szabályait.
 
-(5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben rendeletben:
+(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben:
 
 a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait;
 
