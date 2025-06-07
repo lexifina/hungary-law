@@ -5,3 +5,7 @@
 (3) A védetté nyilvánítás célja az 1996-ban – Makovecz Imre tervei alapján – Péterfy László által készített tabáni emlékmű építészeti értékeinek, illetve Makovecz Imre szellemi örökségének védelme.
 
 (4) Műemléki környezetet nem jelölök ki.
+
+(5)[^3] Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.
+
+[^3]: A 3. § (5) bekezdését a 15/2025. (V. 30.) ÉKM rendelet 29. §-a iktatta be.

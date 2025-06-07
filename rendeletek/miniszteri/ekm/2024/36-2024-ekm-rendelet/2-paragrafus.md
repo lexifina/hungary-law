@@ -5,3 +5,7 @@
 (3) A védetté nyilvánítás célja a Makovecz Imre tervei alapján 1964-ben felépült vendéglő építészeti, belsőépítészeti értékeinek, illetve Makovecz Imre szellemi örökségének védelme.
 
 (4) Műemléki környezetet nem jelölök ki.
+
+(5)[^2] Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.
+
+[^2]: A 2. § (5) bekezdését a 15/2025. (V. 30.) ÉKM rendelet 28. §-a iktatta be.
