@@ -2,4 +2,4 @@
 
 ## n) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. §-ában meghatározott feladatkör végrehajtására kijelölt nemzetbiztonsági szolgálat, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (1) bekezdés a) és h) pontja szerinti, a nyomozóhatósági, bűnmegelőzési és bűnfelderítési feladatokat ellátó szervek számára végzett tevékenysége ellátásához a figyelmeztető jelzések teljes körét érintően.”
 
-60. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 3. § (1) bekezdésében a „Nemzetközi Bűnügyi Együttműködési Központ” szövegrész helyébe a „rendőrség nemzetközi bűnügyi együttműködési központja” szöveg lép.
+### 60. §

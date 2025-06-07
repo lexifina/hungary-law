@@ -1,3 +1,3 @@
-## 3. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
+## 3.
 
-9. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 3. melléklete a 2. melléklet szerint módosul.
+### 9. §
