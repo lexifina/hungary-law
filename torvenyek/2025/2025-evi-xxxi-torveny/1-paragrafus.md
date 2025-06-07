@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló, 2014. március 28-án kelt megállapodás módosításáról szóló 2. számú jegyzőkönyvet (a továbbiakban: 2. sz. Jegyzőkönyv) e törvénnyel kihirdeti.
