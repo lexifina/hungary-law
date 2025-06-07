@@ -1,0 +1,3 @@
+## „j) a Magyarország területére, vagy Magyarország területéről külföldre irányuló, továbbá a Magyarország területén áthaladó, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzése, valamint a közúti fuvarozáshoz kapcsolódó jogsértések felderítése céljából hozzáférési jogosultsággal rendelkezik a rendőrség által üzemeltetett Közúti Intelligens Kamerahálózathoz.”
+
+44. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 37/C. § (2) bekezdésében a „Nemzetközi Bűnügyi Együttműködési Központ” szövegrész helyébe a „rendőrség nemzetközi bűnügyi együttműködési központja” szöveg lép.
