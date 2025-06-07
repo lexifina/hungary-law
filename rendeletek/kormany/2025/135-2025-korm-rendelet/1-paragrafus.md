@@ -6,4 +6,6 @@
 
 ## [4] A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 9. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az összehangolt védelmi tevékenység elrendeléséről és az ahhoz kapcsolódó intézkedésekről szóló 67/2025. (IV. 4.) Korm. rendelet 1. § (2) bekezdésében az „a katasztrófák elleni védekezésért” szövegrész helyébe az „az élelmiszerlánc-felügyeletért” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

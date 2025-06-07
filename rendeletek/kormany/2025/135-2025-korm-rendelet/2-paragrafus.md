@@ -1,1 +1,3 @@
-2. § Hatályát veszti az összehangolt védelmi tevékenység elrendeléséről és az ahhoz kapcsolódó intézkedésekről szóló 67/2025. (IV. 4.) Korm. rendelet 2. §-a.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
