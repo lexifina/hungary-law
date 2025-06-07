@@ -1,3 +1,3 @@
-13. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 8/E. §-a helyébe a következő rendelkezés lép:
+13. §[^13]
 
-„8/E. § A kibocsátási egységek ingyenes kiosztásáról az Ügkr. tv. 2. § 29. pont b) alpontja szerinti új belépő számára az (EU) 2019/331 felhatalmazáson alapuló bizottsági rendelet, az (EU) 2019/708 felhatalmazáson alapuló bizottsági határozat, a 2003/87/EK irányelv, az (EU) 2023/956 európai parlamenti és tanácsi rendelet, valamint a referenciaértékekre vonatkozó uniós rendelkezések szerint gondoskodik a hatóság.”
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-8. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 6. §-a helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„6. § A miniszter minden évben – az Európai Bizottság erre vonatkozó közlésétől számított 30 napon belül – tájékoztatja a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaságot (a továbbiakban: MNV Zrt.) az adott évben az állam által az 1031/2010/EU bizottsági rendeletben meghatározott módon értékesíthető kibocsátási egységek mennyiségéről.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

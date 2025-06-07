@@ -2,14 +2,6 @@
 
 ## [2] A Kormány az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 39. § (1) bekezdés 1–5., 7., 9–18., 31. és 32. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 1. § (1a) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1a) A klímavédelemért felelős hatóság Ügkr. tv.-ben megállapított feladatait, hatósági jogkörei gyakorlását – ideértve valamennyi tevékenység engedélyezését, hatósági ellenőrzését, felügyeletét, továbbá a bírság kiszabását – országos illetékességgel az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: Minisztérium) részeként működő Nemzeti Klímavédelmi Hatóság (a továbbiakban: hatóság) látja el. A hatóság jogszabályban meghatározott feladat- és hatáskörei ellátásával kapcsolatban önállóan jár el, nem utasítható, csak jogszabálynak van alárendelve. Az e rendelet hatálya alá tartozó tevékenységekre vonatkozó kérelem kizárólag a hatóságnál nyújtható be, az e rendeletben foglalt kivételekkel.”
-
-(2) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 1. §-a a következő (1d) bekezdéssel egészül ki:
-
-„(1d) A hajózási társaság tekintetében felelős hatóság az Ügkr. tv.-ben megállapított feladatait a hatóság látja el.”
-
-(3) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 1. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) Az üzemeltető és annak forrásanyag szolgáltatója, beszállítója köteles biztosítani a fenntarthatósági és az üvegházhatású gázkibocsátás-megtakarítási kritériumoknak való megfelelést tiszta biomassza tüzelőanyag használata esetében a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeiről és igazolásáról szóló kormányrendeletben meghatározott követelmények szerint, figyelembe véve az (EU) 2018/2066 bizottsági végrehajtási rendelet 38. cikk (5) bekezdésében foglaltakat.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

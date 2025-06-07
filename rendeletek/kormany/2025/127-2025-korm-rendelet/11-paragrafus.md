@@ -1,7 +1,3 @@
-11. § (1) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 8/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+11. §[^11]
 
-„(4) A Nemzeti Végrehajtási Intézkedés 8/A. § (6) bekezdése szerinti jóváhagyásáról a hatóság tájékoztatást küld az (1) bekezdés szerinti kérelmet benyújtó üzemeltetőnek. Az üzemeltető a tájékoztatás kézhezvételétől számított 30 napon belül engedélymódosítási kérelmet nyújt be a hatóságnak az (1) bekezdés szerinti mentesítés átvezetése érdekében.”
-
-(2) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 8/B. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az (1) és (2) bekezdésben meghatározott esetben az üzemeltető köteles az adott Nemzeti Végrehajtási Intézkedés kiosztási időszaka kezdetétől a tartalék és készenléti egység üzemóráját nyilvántartani, és a létesítmény 1/A. §-nak megfelelő hitelesített kibocsátási jelentése részeként a tartalék és készenléti egység vonatkozásában kizárólag a tárgyévet megelőző év működésének igazolt óraszámáról nyilatkozni, mellékelve az azt alátámasztó dokumentumokat.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
