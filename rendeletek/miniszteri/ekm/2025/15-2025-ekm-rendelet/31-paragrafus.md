@@ -1,3 +1,3 @@
-31. § A Rendelet 5. §-a a következő (5) bekezdéssel egészül ki:
+31. §[^5]
 
-„(5) Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.”
+[^5]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

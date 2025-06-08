@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-15-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-06-07 | 2025-15-20-8X.1 | 15/2025. (V. 30.) ÉKM rendelet |
+| 2025-06-08 | 2025-15-20-8X.2 | 2010. évi CXXX. törvény |

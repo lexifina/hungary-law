@@ -1,3 +1,3 @@
-32. § A Rendelet 6. §-a a következő (5) bekezdéssel egészül ki:
+32. §[^6]
 
-„(5) Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.”
+[^6]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

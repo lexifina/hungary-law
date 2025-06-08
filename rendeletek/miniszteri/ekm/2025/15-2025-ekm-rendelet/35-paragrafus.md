@@ -1,3 +1,3 @@
-35. § A Rendelet 9. §-a a következő (5) bekezdéssel egészül ki:
+35. §[^9]
 
-„(5) Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.”
+[^9]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-38. § A Rendelet 12. §-a a következő (5) bekezdéssel egészül ki:
+38. §[^12]
 
-„(5) Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.”
+[^12]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

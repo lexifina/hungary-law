@@ -1,3 +1,3 @@
-30. § A Rendelet 4. §-a a következő (5) bekezdéssel egészül ki:
+30. §[^4]
 
-„(5) Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.”
+[^4]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

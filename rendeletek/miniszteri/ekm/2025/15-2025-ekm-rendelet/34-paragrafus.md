@@ -1,3 +1,3 @@
-34. § A Rendelet 8. §-a a következő (5) bekezdéssel egészül ki:
+34. §[^8]
 
-„(5) Az (1) bekezdésben meghatározott műemlék ingatlanra vonatkozóan a magyar államot elővásárlási jog illeti meg.”
+[^8]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
