@@ -1,0 +1,1 @@
+94. § Az építtető – vagy az általa megbízott vállalkozó kivitelező – a minőségigazolási dokumentációt (MD) – az útügyi közlekedési hatósági vagy egyéb kapcsolódó hatósági engedélyhez kötött kísérleti útépítési munka esetén a vonatkozó engedélyekkel együtt – digitális formátumban és egy eredeti példányban megküldi a Koordináló Szervezet részére.

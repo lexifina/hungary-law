@@ -1,0 +1,1 @@
+104. § A műszaki átadás-átvételi eljárás a téli útüzemeltetési időszakban vagy rendkívüli időjárási körülmények esetén szüneteltethető. A szüneteltetés időtartama a műszaki átadás-átvételi eljárás időtartamába nem számít bele.

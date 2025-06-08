@@ -1,0 +1,3 @@
+38. § (1) A földműszerkezet tervezése során a várható geotechnikai nehézségek és kockázatok, valamint az alkalmazandó eszközök, eljárások szempontjából a földműszerkezetet értékelni kell, és az együttes értékelés alapján a földműszerkezetet a vonatkozó útügyi műszaki szabályozási dokumentumoknak megfelelően geotechnikai kategóriába kell sorolni.
+
+(2) A földműszerkezet tervezését befolyásoló talajkörnyezet felépítését és tulajdonságait olyan mértékig kell felderíteni, hogy az építmény vagy az építkezés, valamint a környezet geotechnikai jellegű kölcsönhatásai megítélhetők, a geotechnikai feladatok megoldhatók legyenek.

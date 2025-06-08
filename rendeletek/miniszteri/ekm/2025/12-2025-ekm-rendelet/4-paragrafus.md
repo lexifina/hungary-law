@@ -1,0 +1,1 @@
+4. § Az e rendeletben nem szabályozott kérdésekben az útügyi műszaki előírások kidolgozására, kiadására és közzétételére vonatkozó szabályokról szóló miniszteri rendelet alapján kiadott útügyi műszaki előírások az irányadók.

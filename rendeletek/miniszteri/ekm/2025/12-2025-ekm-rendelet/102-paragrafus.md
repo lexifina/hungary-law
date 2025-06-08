@@ -1,0 +1,1 @@
+102. § A téli útüzemeltetési időszakban a közút kezelőjének hozzájárulásával lehet közúti beruházáshoz kapcsolódó helyszíni kivitelezést végezni. A közút kezelője a hozzájárulásban a munkavégzéssel kapcsolatosan korlátozásokat és egyéb feltételeket is meghatározhat.

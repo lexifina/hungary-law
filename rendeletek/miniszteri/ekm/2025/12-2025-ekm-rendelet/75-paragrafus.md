@@ -1,0 +1,1 @@
+75. § Az építtetői ellenőrzést a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MK NZrt.) végzi az országos közúthálózaton, valamint a helyi közúthálózat azon elemein, melyek fejlesztése vagy felújítása az építtető beruházásában valósul meg.

@@ -1,0 +1,1 @@
+40. § A földműszerkezet tervezése során gondoskodni kell a földműszerkezet víztelenítéséről, az útpályáról lefolyó vizek és a felszín alatti vizek összegyűjtéséről és elvezetéséről, a földmű statikai megfelelőségének megőrzése érdekében.

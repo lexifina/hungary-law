@@ -1,0 +1,1 @@
+101. § Ha egy kivitelezési szerződés keretében több létesítmény is megvalósul, a felelős műszaki vezetőt és az építési műszaki ellenőrt létesítményenként kell megbízni. A kivitelezési szerződés eltérő rendelkezésének hiányában egy természetes személy egyszerre több létesítményre vonatkozó felelős műszaki vezetői és építési műszaki ellenőri feladatokat is elláthat.
