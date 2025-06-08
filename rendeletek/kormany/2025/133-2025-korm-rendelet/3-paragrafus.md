@@ -1,0 +1,3 @@
+3. § (1) A Minisztérium által 2020. január 1. napját követően, 2023. szeptember 10. napjáig biztosított, a határon túli gazdaságfejlesztési stratégiák megvalósítását összefogó és Ukrajna területén székhellyel rendelkező szervezet által nyújtott költségvetési támogatások végső kedvezményezettje a 2. § (1) bekezdése szerinti egyszerűsített elszámolással élhet legkésőbb 2025. november 14. napjáig, ha a végső kedvezményezetti támogatási szerződés ennél hosszabb határidőt nem állapít meg.
+
+(2) Az (1) bekezdés szerinti elszámolás benyújtásához nem kell a 2. § (2) bekezdése szerinti számviteli bizonylatokról készített összesítőt megküldeni, ha a támogatás összege pályázónként nem haladja meg az ötmillió forint értéket.
