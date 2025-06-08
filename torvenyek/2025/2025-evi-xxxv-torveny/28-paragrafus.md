@@ -1,1 +1,1 @@
-28. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (5) bekezdés nyitó szövegrészében a „kereskedelemért felelős miniszter, hogy a rendészetért” szövegrész helyébe a „rendészetért felelős miniszter, hogy a kereskedelemért” szöveg lép.
+### 28. §
