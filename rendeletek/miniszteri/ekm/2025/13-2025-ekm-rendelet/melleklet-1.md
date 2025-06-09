@@ -1,3 +1,3 @@
-1. melléklet a 13/2025. (V. 8.) ÉKM rendelethez
+1. melléklet a 13/2025. (V. 8.) ÉKM rendelethez[^4]
 
-„1. melléklet a 25/2013. (V. 31.) NFM rendelethez
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
