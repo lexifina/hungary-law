@@ -6,7 +6,7 @@ b) az állampolgárságra, a családi állapotra, a házasságkötés vagy bejeg
 
 c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
 
-cs)
+cs) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára és idejére vonatkozó adatok kivételével a szerencsejáték-felügyeleti hatóság a játékosvédelmi nyilvántartás vezetése céljából;
 
 d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 
