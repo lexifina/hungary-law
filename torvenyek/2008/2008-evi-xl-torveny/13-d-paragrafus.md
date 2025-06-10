@@ -1,0 +1,1 @@
+13/D. § A hidrogénszállításihálózat-üzemeltető részt vesz az (EU) 2024/1789 európai parlamenti és tanácsi rendelet szerinti Hidrogénhálózat-üzemeltetők Európai Hálózatának és más nemzetközi, a feladatkörébe tartozó funkciót ellátó szervezetek munkájában, amely részvétel során képviseli az országos igényeket és a jóváhagyott 10 éves fejlesztési tervet.

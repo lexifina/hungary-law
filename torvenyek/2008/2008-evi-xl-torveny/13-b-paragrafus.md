@@ -1,0 +1,1 @@
+13/B. § A hidrogénszállításihálózat-üzemeltető köteles úgy működni, hogy a hidrogénszállításihálózat-üzemeltetési tevékenység megfelelő és hatékony gyakorlásához, valamint a hidrogénszállításihálózat-üzemeltetéséhez, karbantartásához és fejlesztéséhez szükséges erőforrások mindenkor a rendelkezésére álljanak.

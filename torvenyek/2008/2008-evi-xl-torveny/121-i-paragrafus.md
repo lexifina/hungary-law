@@ -10,7 +10,7 @@ c) meg kell felelnie a Hivatal által jóváhagyott 10 éves fejlesztési tervne
 
 d) a kizárólag adminisztratív és informatikai szolgáltatások kivételével nem vehet igénybe harmadik személyektől olyan szolgáltatásokat, amelyeket a harmadik személyek a szállítóvezeték tulajdonosa számára is nyújtanak, valamint
 
-e) igazolnia kell, hogy eleget tesz a szállítási rendszerüzemeltető 715/2009/EK európai parlamenti és tanácsi rendelet szerinti kötelezettségeinek.
+e) igazolnia kell, hogy eleget tesz a szállítási rendszerüzemeltető (EU) 2024/1789 európai parlamenti és tanácsi rendelet szerinti kötelezettségeinek.
 
 (2) A szállítóvezeték tulajdonosa köteles
 

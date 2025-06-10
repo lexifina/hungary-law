@@ -26,6 +26,8 @@ j) a szállítóvezeték-létesítő által történő szállítóvezeték-léte
 
 k) LNG-létesítmény-üzemeltetés, kivéve az (1a) bekezdésben foglalt tevékenységeket.
 
+l) hidrogénszállításihálózat-üzemeltetés.
+
 (1a) Regisztrációköteles tevékenységként végezheti
 
 a) az LNG-létesítmény-üzemeltető felhasználó az LNG-létesítmény-üzemeltetést, és

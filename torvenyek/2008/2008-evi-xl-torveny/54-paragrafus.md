@@ -1,6 +1,6 @@
 54. § (1) Az egyablakos kiszolgálású nemzetközi szállítóvezeték Magyarország államhatárán belüli szakaszán az együttműködő földgázrendszerrel való kapcsolódási pontjainak technikai és szabad kapacitását a kapcsolódó rendszerüzemeltetővel közösen kell meghatározni.
 
-(1a) Az egyablakos kiszolgálású nemzetközi szállítóvezeték és az együttműködő földgázrendszer kapcsolódási pontjait a két rendszer közötti rendszer-összekötési pontnak kell tekinteni. A lekötött, de fel nem használt kapacitás értékesítésére a 715/2009/EK európai parlamenti és tanácsi rendeletben foglaltak irányadók.
+(1a) Az egyablakos kiszolgálású nemzetközi szállítóvezeték és az együttműködő földgázrendszer kapcsolódási pontjait a két rendszer közötti rendszer-összekötési pontnak kell tekinteni. A lekötött, de fel nem használt kapacitás értékesítésére az (EU) 2024/1789 európai parlamenti és tanácsi rendeletben foglaltak irányadók.
 
 (2) Az egyablakos kiszolgálású nemzetközi szállítóvezeték Magyarország államhatárán belüli szakaszának tulajdonosa Magyarország államhatárán belüli vezetékszakasz kapacitását kizárólag az egyablakos kapacitás értékesítő részére adhatja el vagy adhatja át, az e tárgyban a Hivatal által, a 85. § alapján kiadott felmentésben foglaltaknak megfelelően. Az egyablakos kiszolgálású nemzetközi szállítóvezeték Magyarország államhatárán belüli szakaszán lévő kapacitásra a felmentésében meghatározott mértékig nem vonatkoznak az e törvényben szabályozott hozzáférési, árszabályozási és árfelügyeleti szabályok.
 

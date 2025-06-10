@@ -1,0 +1,3 @@
+## Hidrogénszállításihálózat-üzemeltetők szétválasztása
+
+121/J. § Amennyiben egy hidrogénszállítási hálózat a Hivatal által korábban a 121/B–121/G. § szerint tanúsított szállításirendszer-üzemeltető részét képezi, akkor a Hivatal – amennyiben az általa készített nyilvánosan hozzáférhető pozitív költség-haszon elemzés alátámasztja – integrált hidrogénszállítási hálózat üzemeltetőként jelöli ki az adott szállítási rendszerüzemeltetőt. Ebben az esetben a szállítási rendszerüzemeltető integrált hidrogénszállítási hálózat üzemeltetőként is meg kell felelnie a 121/B–121/G. §-ban foglalt szétválasztási szabályoknak.

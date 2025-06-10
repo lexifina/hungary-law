@@ -1,4 +1,4 @@
-10/A. § (1) A szállítási rendszerüzemeltető részt vesz a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti Földgázpiaci Szállítási Rendszerüzemeltetők Európai Hálózatának (ENTSOG) és az egyéb nemzetközi szervezeteknek a munkájában, amely részvétel során köteles képviselni az országos igényeket és a jóváhagyott 10 éves fejlesztési tervet.
+10/A. § (1) A szállítási rendszerüzemeltető részt vesz az (EU) 2024/1789 európai parlamenti és tanácsi rendelet szerinti Földgázpiaci Szállítási Rendszerüzemeltetők Európai Hálózatának (ENTSOG) és az egyéb nemzetközi szervezeteknek a munkájában, amely részvétel során köteles képviselni az országos igényeket és a jóváhagyott 10 éves fejlesztési tervet.
 
 (2) A szállítási rendszerüzemeltető az (1) bekezdésben meghatározott feladatkörében
 

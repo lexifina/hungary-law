@@ -1,0 +1,1 @@
+121/K. § A vertikálisan integrált földgázipari vállalkozás bármikor jogosult a hidrogénszállításihálózat-üzemeltető teljes tulajdonosi szétválasztása mellett dönteni. A tanúsítás iránti kérelem benyújtásakor a teljes tulajdonosi szétválasztás eredményeképpen létrejött hidrogénszállításihálózat-üzemeltetőnek meg kell felelnie a 121/H. §-ban foglalt követelményeknek.

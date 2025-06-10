@@ -38,7 +38,7 @@ o) a hidrogénnek a földgáz-infrastruktúrába történő betáplálásával k
 
 p) a földgáz-infrastruktúrát a tiszta hidrogén szállítására alkalmassá tevő eljárások, fejlesztések támogatása,
 
-q) a 715/2009/EK európai parlamenti és tanácsi rendelet 3a. cikkében foglaltak szerint a tárolásirendszer-üzemeltetők tanúsítása, beleértve a valamely szállításirendszer-üzemeltető irányítása alatt álló tárolásirendszer-üzemeltetőket is,
+q) az (EU) 2024/1789 európai parlamenti és tanácsi rendelet 15. cikkében foglaltak szerint a tárolásirendszer-üzemeltetők tanúsítása, beleértve a valamely szállításirendszer-üzemeltető irányítása alatt álló tárolásirendszer-üzemeltetőket is,
 
 r) a föld alatti gáztárolók folyamatos üzemeltetése érdekében szükséges intézkedések biztosítása,
 

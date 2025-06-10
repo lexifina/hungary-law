@@ -92,7 +92,7 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 25. Földgáz-kereskedelem: a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlása és értékesítése.
 
-26. Földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázok: olyan mesterségesen előállított gázkeverékek, amelyek a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott feltételek mellett, környezetvédelmi és műszaki-biztonsági szempontból megfelelő módon az együttműködő földgázrendszerbe juttathatók (szállíthatók, eloszthatók és tárolhatók), a földgázzal keverhetők, és ez a keverék a földgázrendszerbe juttatáskor megfelel a földgáz minőségére vonatkozó a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott minőségi követelményeknek.
+26. Földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázok: olyan mesterségesen előállított gázkeverékek, ideértve a biometánná alakított biogázt is, amelyek környezetvédelmi és műszaki-biztonsági szempontból megfelelő módon az együttműködő földgázrendszerbe juttathatók (szállíthatók, eloszthatók és tárolhatók), a földgázzal keverhetők, és ez a keverék a földgázrendszerbe juttatáskor megfelel a földgáz minőségére vonatkozó minőségi követelményeknek.
 
 27. Földgáz-nagykereskedelem: a III. Fejezet vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt más földgázkereskedőnek értékesíti.
 
@@ -134,11 +134,23 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 40d. Informatikai támogatási szolgáltatás: a megvásárolt szoftverek, modulok legújabb verzióinak használata (termékkövetési szolgáltatás) és a szoftver működésével és kezelésével kapcsolatos terméktámogatás (támogatási szolgáltatás).
 
+40e. Hidrogéntároló létesítmény: nagy tisztaságú hidrogén tárolására használt létesítmény, ideértve
+
+a) a hidrogénterminál tárolásra használt részét, kivéve a hidrogéntermelési műveletekhez használt részt, valamint a kizárólag a hidrogénhálózat-üzemeltetők számára, feladataik ellátásához fenntartott létesítményeket, és
+
+b) a nagy kiterjedésű, különösen föld alatti hidrogéntárolást, kivéve a könnyen felépíthető hidrogéntárolókat.
+
+40f. Hidrogénterminál: olyan létesítmény, amelyet a folyékony hidrogén vagy a folyékony ammónia átfejtéséhez és – a hidrogénhálózatba vagy a földgázrendszerbe történő betáplálás céljából – gáz-halmazállapotú hidrogénné történő átalakításához, vagy a gáz-halmazállapotú hidrogén cseppfolyósításához és befejtéséhez használnak, ideértve az átalakítási folyamathoz, majd azt követően a hidrogénhálózatba történő betápláláshoz szükséges kiegészítő szolgáltatásokat és átmeneti tárolást, de nem ideértve a hidrogénterminál tárolásra használt részeit.
+
+40g. Hidrogénszállítási hálózat: nagy tisztaságú hidrogén szállítására használt csővezeték-hálózat, különösen olyan hálózat, amely hidrogénrendszer-összekötőket tartalmaz, vagy amely közvetlenül kapcsolódik hidrogéntároló létesítményekhez vagy hidrogénterminálokhoz, vagy amelynek elsődleges célja a hidrogén más hidrogénhálózatokba, hidrogéntároló létesítményekbe vagy hidrogénterminálokba történő szállítása, azon lehetőség kizárása nélkül, hogy ezek a hálózatok a közvetlenül kapcsolódó felhasználók ellátásának a célját szolgálják.
+
+40h. Hidrogénszállításihálózat-üzemeltető: az a természetes vagy jogi személy, aki vagy amely felelős egy adott terület hidrogénszállítási hálózatának üzemeltetéséért, karbantartásáért, valamint szükség esetén annak fejlesztéséért, és adott esetben annak összekapcsolásáért más hidrogénhálózatokkal, hidrogéntároló létesítményekkel, hidrogénterminálokkal és hidrogénrendszer-összekötőkkel; továbbá annak biztosításáért, hogy a hálózat hosszú távon képes legyen a hidrogén szállításával kapcsolatos észszerű igények kielégítésére.
+
 41. Integrált földgázipari vállalkozás:
 
-a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a földgázipari vállalkozás vagy vállalkozáscsoport a földgázszállítás, a földgázelosztás, az LNG-létesítmény üzemeltetés (kivéve LNG-létesítmény üzemeltető felhasználónál) vagy a földgáztárolás mellett egyidejűleg az LNG-kereskedelem, a földgáztermelés és a földgáz-kereskedelem közül legalább az egyik tevékenységet végzi, vagy arra engedéllyel rendelkezik. A vertikálisan integrált vállalkozás részének minősül az említett vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek is.
+a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy olyan földgázipari vállalkozások csoportja vagy olyan hidrogénipari vállalkozás vagy olyan hidrogénipari vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a vállalkozás vagy vállalkozáscsoport a szállítás, elosztás, hidrogéntovábbítás, hidrogénterminál-üzemeltetés, LNG- vagy földgáz- vagy hidrogéntárolás közül legalább az egyik feladatot, és a földgáz- vagy hidrogéntermelés és -ellátás közül is legalább az egyik feladatot ellátja.
 
-b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedély-, bejelentés- vagy regisztrációköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
+b) Horizontálisan integrált vállalkozás: olyan vállalkozás, amely a földgáztermelés, -szállítás, -elosztás, -ellátás vagy -tárolás közül legalább az egyik feladatot ellátja, valamint egyéb, nem földgázzal kapcsolatos tevékenységet is folytat.
 
 41a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat.
 
@@ -203,6 +215,8 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval, az LNG-létesítmény üzemeltetőjével vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
 
 51a. Rendszerhasználó: az a felhasználó, földgáztermelő, földgázkereskedő – beleértve a korlátozott földgázkereskedelmi engedélyest és az egyetemes szolgáltatót is –, illetve rendszerüzemeltető – beleértve a határkeresztező gázvezetéken földgázt átszállító külföldi székhelyű szállítási rendszerüzemeltetőt is –, aki rendszerhasználati szerződés alapján a földgázrendszer vagy az LNG-létesítmény kapacitását leköti, vagy azt földgáz betáplálására vagy vételezésére igénybe veszi.
+
+51b. Hidrogénrendszer-használó: azon természetes vagy jogi személy, aki, illetve amely a hálózatot hidrogénnel ellátja, vagy akit, illetve amelyet a hálózatról hidrogénnel látnak el.
 
 52. Rendszerirányítás: az együttműködő földgázrendszer e törvényben meghatározott irányítási és koordinációs feladatainak ellátása.
 
@@ -316,9 +330,9 @@ j) a polgári nemzetbiztonsági szolgálat.
 
 a) a lakossági fogyasztó,
 
-b) a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató,
+b) a 75. pont a)–e) és j) alpontja szerinti alapvető szociális szolgáltató,
 
-c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági felhasználó vagy a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
+c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági felhasználó vagy a 75. pont a)–e) és j) alpontja szerinti alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
 
 77. Uniós riasztás: az (EU) 2022/1369 tanácsi rendelet 2. cikk 2. pontja szerinti riasztás.
 

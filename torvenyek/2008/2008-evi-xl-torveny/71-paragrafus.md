@@ -12,7 +12,7 @@
 
 (5) A szállítási rendszerüzemeltető és a földgázelosztó szabad kapacitásait gázévre, gázév negyedévére, hónapjára, napjára és gáznapon belül a gáznap hátralevő részére vonatkozóan, egész órában meghatározott időtartamokra ajánlja fel lekötésre.
 
-(5a) A földgázszállító rendszeren egy adott kapacitástermék vonatkozásában a kapacitástermék minősége a teljes használati időszak alatt vagy kizárólag nem megszakítható, vagy kizárólag megszakítható lehet.
+(5a) A földgázszállító rendszeren egy adott kapacitástermék vonatkozásában a kapacitástermék minősége a teljes használati időszak alatt vagy kizárólag nem megszakítható, vagy kizárólag megszakítható lehet. Nem megszakítható kapacitás a Hivatal elnökének rendelete szerint feltételes kapacitásként is felkínálható.
 
 (6) Megszakítható kapacitás nem kínálható fel a felkínált nem megszakítható kapacitás terhére. A szállítási rendszerüzemeltető nem különíthet el nem megszakítható kapacitásként felkínálható kapacitást megszakítható kapacitásként való felkínálás céljából.
 

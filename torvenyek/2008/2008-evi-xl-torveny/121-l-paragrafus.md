@@ -1,0 +1,1 @@
+121/L. § Az ügyfél erre irányuló kérelme esetén a Hivatal független hidrogénszállításihálózat-üzemeltetőt jelöl ki. Ebben az esetben a független hidrogénszállításihálózat-üzemeltetőnek meg kell felelnie a 121/I. §-ban foglalt követelményeknek.

@@ -4,6 +4,6 @@
 
 a) az Európai Parlament és a Tanács a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i 2009/72/EK irányelve alatt a 2009/73/EK irányelv,
 
-b) az Európai Parlament és a Tanács a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 714/2009/EK rendelete alatt a 715/2009/EK európai parlamenti és tanácsi rendelet
+b) az Európai Parlament és a Tanács a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 714/2009/EK rendelete alatt az (EU) 2024/1789 európai parlamenti és tanácsi rendelet
 
 értendő.
