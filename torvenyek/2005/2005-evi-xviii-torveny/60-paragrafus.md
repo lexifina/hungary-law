@@ -14,15 +14,15 @@ f) a fűtéshez és a használati melegvíz-készítéshez felhasznált hőmenny
 
 g) a távhőszolgáltató, a felhasználó, a felhasználó megbízottja és a díjfizető közötti jogviszony általános szabályait (52. §);
 
-h) a távhő előállítására szolgáló megújuló energia hasznosításának szabályait [3. § m) pont];
+h) a távhő előállítására szolgáló megújuló energia hasznosításának szabályait [3. § 18. pont];
 
 i) a távhőszolgáltatás árképzése átláthatóságának biztosítása érdekében, a távhőszolgáltatók által közérdekből közzéteendő adatok – különösen a távhőszolgáltatással kapcsolatos árszabályozás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
 
-j)
+j) a megújuló energiatermelésből származó hőenergia eredetét igazoló származási garanciára, annak kiállítására, nyilvántartására, kijavítására, módosítására, átruházására, felhasználására, ellenőrzésére és törlésére, az ilyen módon termelt energiát értékesítő távhőszolgáltatók beszámolási és adatszolgáltatási kötelezettségére, a megújuló energiaforrást hasznosító erőműegységek minősítésére, valamint a számlatulajdonosok adatainak közzétételére vonatkozó részletes szabályokat;
 
 k) a műszaki biztonsági szerv vagy szervek kijelölését,
 
-l)
+l) a távhőtermelő létesítmény és berendezése, valamint az azoknak helyet adó ingatlan tulajdonjogának közcélú megváltására vonatkozó részletes szabályokat.
 
 m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó szabályokat;
 
@@ -34,11 +34,15 @@ p) a cégjogi események és befolyásszerzés engedélyezésének részletes sz
 
 q) a központi fűtés és melegvíz-szolgáltatás feltételeire, a felek jogaira és kötelezettségeire, a szolgáltatás díjának, továbbá a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó részletes szabályokat.
 
+r) a helyi hőhasznosítási terv elkészítésére és tartalmi elemeire vonatkozó részletes szabályokat;
+
+s) a távhőszolgáltató által készítendő fejlesztési terv tartalmi elemeire és jóváhagyási szempontjaira vonatkozó részletes szabályokat.
+
 (2) Az miniszter rendeletben
 
 a)
 
-b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, továbbá az árelőkészítés módszertanára vonatkozó szabályokat;
+b) állapítja meg a távhőszolgáltatónak értékesített távhő, valamint a maradékhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, továbbá az árelőkészítés módszertanára vonatkozó szabályokat;
 
 c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 

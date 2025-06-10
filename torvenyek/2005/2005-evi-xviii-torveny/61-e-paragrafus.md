@@ -1,0 +1,1 @@
+61/E. § E törvénynek a távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosításáról szóló 2025. évi XLV. törvénnyel megállapított 34/B. § (1) bekezdése szerinti fejlesztési tervet 2026. december 31. napjáig kell benyújtani jóváhagyásra a Hivatal részére.

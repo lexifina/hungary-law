@@ -1,10 +1,10 @@
 ## Számviteli szétválasztás
 
-18/A. § (1) Az engedélyes beszámolási és könyvvezetési kötelezettségére, a beszámoló összeállítására, a könyvek vezetésére, valamint a nyilvánosságra hozatalra és közzétételre a számvitelről szóló törvény rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
+18/A. § (1) A távhőtermelői engedélyes és a távhőszolgáltatói engedélyes beszámolási és könyvvezetési kötelezettségére, a beszámoló összeállítására, a könyvek vezetésére, valamint a nyilvánosságra hozatalra és közzétételre a számvitelről szóló törvény rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(2) Az engedélyes – a számviteli politika részeként – olyan számviteli szétválasztási szabályzatot dolgoz ki, és az egyes tevékenységeire olyan elkülönült számviteli nyilvántartást vezet, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
+(2) A távhőtermelői engedélyes és a távhőszolgáltatói engedélyes – a számviteli politika részeként – olyan számviteli szétválasztási szabályzatot dolgoz ki, és az egyes tevékenységeire olyan elkülönült számviteli nyilvántartást vezet, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
 
-(3) Az engedélyes
+(3) A távhőtermelői engedélyes és a távhőszolgáltatói engedélyes
 
 a) a villamosenergia-termelést és a távhőtermelést telephelyenkénti bontásban,
 
@@ -18,4 +18,4 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 (5)
 
-(6) A Hivatal jogosult az engedélyes pénzügyi-számviteli kimutatásaiba, és az ahhoz kapcsolódó bizonylatokba és iratokba betekinteni.
+(6) A Hivatal jogosult a távhőtermelői engedélyes és a távhőszolgáltatói engedélyes pénzügyi-számviteli kimutatásaiba, és az ahhoz kapcsolódó bizonylatokba és iratokba betekinteni.

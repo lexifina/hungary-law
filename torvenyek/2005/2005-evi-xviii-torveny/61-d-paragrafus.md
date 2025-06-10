@@ -1,0 +1,1 @@
+61/D. § E törvénynek a távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosításáról szóló 2025. évi XLV. törvénnyel (a továbbiakban: Mód. törvény) megállapított 18. § (1) bekezdés g) pontját a Mód. törvény hatálybalépésekor már meglevő és hatályos működési engedélyesek esetében, a Mód. törvény hatálybalépését követő 180. naptól kell alkalmazni.

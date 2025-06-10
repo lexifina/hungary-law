@@ -20,6 +20,8 @@ ae) a távhőszolgáltatói működési engedélyt,
 
 af) a távhőszolgáltatói tevékenység megszüntetésére vonatkozó engedélyt;
 
+ag) a maradékhő-értékesítői engedélyt;
+
 b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyében előírt követelmények, feltételek betartását, e tekintetben együttműködik a fogyasztóvédelmi hatósággal, továbbá a felhasználói érdekképviseletekkel;
 
 c) jóváhagyja az e törvény hatálya alá tartozó engedélyest érintő, a 19. § (1) bekezdése szerinti cégjogi eseményeket, valamint az engedélyesben történő befolyásszerzéseket;
@@ -31,6 +33,8 @@ e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény f
 f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a közigazgatás-szervezésért felelős minisztert a hatósági ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
 
 g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
+
+h) jóváhagyja a 34/B. § (1) bekezdése alapján benyújtott fejlesztési terveket és a fejlesztési tervek felülvizsgálatait.
 
 (2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén, valamint engedélyköteles tevékenység engedély nélkül történő végzése esetében az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 

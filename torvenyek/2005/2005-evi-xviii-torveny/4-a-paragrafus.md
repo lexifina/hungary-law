@@ -1,0 +1,3 @@
+4/A. § (1) A Hivatal származási garanciát állít ki a megújuló hőenergiára vonatkozóan és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A Hivatal biztosítja, hogy a származási garanciák pontosak, megbízhatóak és hitelesek legyenek, valamint a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen. A megújuló hőenergia származási garanciáira vonatkozó részletes szabályokat az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
+
+(2) A Hivatal az (1) bekezdés szerinti egyes feladatok ellátására közreműködő szervezeteket bízhat meg.

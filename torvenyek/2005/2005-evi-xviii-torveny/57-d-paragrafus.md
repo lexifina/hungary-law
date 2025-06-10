@@ -1,4 +1,4 @@
-57/D. § (1) A távhőszolgáltatónak értékesített távhő árát, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díját – mint legmagasabb hatósági árat (a továbbiakban együtt: hatósági ár) –, a hatósági ár szerkezetét és alkalmazási feltételeit a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
+57/D. § (1) A távhőszolgáltatónak értékesített távhő és maradékhő árát, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díját – mint legmagasabb hatósági árat (a továbbiakban együtt: hatósági ár) –, a hatósági ár szerkezetét és alkalmazási feltételeit a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
 
 (2) A Hivatal az ármegállapítással, árváltozással és a távhőszolgáltatási támogatással kapcsolatos javaslatát a miniszter részére minden év augusztus 31-ig küldi meg.
 

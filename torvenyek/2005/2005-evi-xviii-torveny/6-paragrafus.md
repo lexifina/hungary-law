@@ -2,7 +2,7 @@
 
 6. § (1) A területileg illetékes települési önkormányzat, a fővárosban a fővárosi önkormányzat (a továbbiakban együtt: önkormányzat) az engedélyes vagy engedélyesek útján köteles biztosítani a távhőszolgáltatással ellátott létesítmények távhőellátását.
 
-(2) az önkormányzat képviselő-testülete, a fővárosban a fővárosi közgyűlés:
+(2) Az önkormányzat képviselő-testülete, a fővárosban a fővárosi közgyűlés:
 
 a) rendeletben határozza meg a távhőszolgáltató és a felhasználó közötti jogviszony részletes szabályait, valamint a hőmennyiségmérés helyét, ideértve a mérés technológiai helyét is;
 
@@ -24,6 +24,14 @@ i) rendeletben határozza meg a h) pont szerinti díj mértékét, esedékesség
 
 j) rendeletben állapítja meg – az e törvény végrehajtására kiadott rendeletben meghatározott általános előírások figyelembevételével – a fűtési költségmegosztó felszerelésének műszaki megvalósíthatósági és költséghatékonysági egyedi szempontjait, ütemezését és egyéb feltételeit.
 
+k) figyelembe veszi a megújuló energiaforrásokból előállított energia hasznosításának lehetőségeit a városfejlesztés során;
+
+l) konzultációt kezdeményezhet a területileg illetékes energiahálózatok engedélyeseivel a települést érintő energiahatékonysági és megújulóenergia-ellátási tervekről, figyelembe véve az energiahálózatok engedélyeseinek infrastruktúra-fejlesztési terveit;
+
+m) 45 000 főnél nagyobb összlakosságú település esetén helyi hőhasznosítási tervet készít.
+
 (3) A (2) bekezdés h) pontja szerinti díj alapja a helyi önkormányzat rendeletében meghatározottak szerint számított és hiteles adatokkal alátámasztott naptári éves széndioxid-kibocsátási különbözet természetes mértékegységben (kilogrammban) kifejezett tömege. A díj mértékét az önkormányzat képviselő-testülete rendeletben állapítja meg, amely azonban nem lehet magasabb kilogrammonként 15 forintnál.
 
 (4) A díjat az önkormányzati adóhatóság veti ki, az a helyi önkormányzat bevételét képezi. A díjfizetési kötelezettségre egyebekben az adózás rendjéről szóló törvény szabályait kell alkalmazni.
+
+(5) A (2) bekezdés m) pontja szerinti helyi hőhasznosítási terv elkészítésének részletszabályait és tartalmi elemeit az e törvény végrehajtására kiadott kormányrendelet tartalmazza.

@@ -1,4 +1,4 @@
-## A működési engedély visszavonása, a távhőellátás fenntartása
+## A működési engedély visszavonása, a távhőellátás fenntartása és a maradékhő-értékesítői engedély visszavonása
 
 20. § (1) A Hivatal a működési engedélyt visszavonja, ha az engedélyes
 

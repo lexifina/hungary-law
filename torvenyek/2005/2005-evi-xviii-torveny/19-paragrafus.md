@@ -1,14 +1,18 @@
 ## Cégjogi események, befolyásszerzés engedélyezése
 
-19. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, valamint jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal előzetes hozzájáruló határozata szükséges.
+19. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, valamint jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) – a (3a) bekezdésben meghatározott kivétellel – a Hivatal előzetes hozzájáruló határozata szükséges.
 
 (2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a Hivatal hozzájáruló határozatával együtt kell benyújtani a cégbírósághoz. A cégbejegyzési kérelem benyújtási határideje a Hivatal hozzájáruló határozatának közlését követő napon kezdődik.
 
 (3) A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
-(4) Az engedélyes vállalkozásban a szavazatok öt, húsz, huszonöt, harminchárom, ötven, hetvenöt vagy kilencven százalékát elérő vagy meghaladó, valamint száz százalékát elérő közvetlenül vagy közvetve birtokolt, szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához a befolyásszerzőnek a Hivatal előzetes hozzájárulását kell kérnie.
+(3a) A cégjogi esemény nem igényli a Hivatal hozzájárulását a maradékhő-értékesítői engedélyes esetében.
+
+(4) Az engedélyes vállalkozásban a szavazatok öt, húsz, huszonöt, harminchárom, ötven, hetvenöt vagy kilencven százalékát elérő vagy meghaladó, valamint száz százalékát elérő közvetlenül vagy közvetve birtokolt, szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához – az (5a) bekezdésben meghatározott kivétellel – a befolyásszerzőnek a Hivatal előzetes hozzájárulását kell kérnie.
 
 (5) Nem kell a Hivatal előzetes hozzájárulása a (4) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (4) bekezdés szerinti következő mértéket.
+
+(5a) Nem kell alkalmazni a (4) bekezdést a maradékhő-értékesítői engedélyesben történő befolyásszerzés esetében azzal, hogy a befolyásszerző a befolyásszerzés hatályosulásától számított 30 napon belül a befolyásszerzés tényéről tájékoztatja a Hivatalt, kivéve, ha a 4. § (1) bekezdés a) pont ag) alpontja szerinti maradékhő-értékesítői engedélyes olyan más, e törvény, a Get., vagy a Vet. szerinti engedéllyel is rendelkezik, amely alapján a befolyásszerzéshez a Hivatal előzetes hozzájárulása vagy tudomásulvételről szóló döntése szükséges.
 
 (6) A (3) bekezdésben meghatározott kivétellel a Hivatal az (1) és (4) bekezdésben meghatározott ügyletekhez történő hozzájárulását megtagadhatja vagy feltételhez kötheti, ha azok végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, a felhasználók érdekeit sérti, vagy a legkisebb költség elvének érvényesülését veszélyezteti.
 
