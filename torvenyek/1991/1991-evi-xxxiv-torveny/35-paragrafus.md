@@ -12,7 +12,7 @@
 
 (3a) Ha az online kaszinó(k) tiszta játékbevétele meghaladja a szervező által üzemeltetett játékkaszinó-egység(ek) összesített tiszta játékbevételét, a pozitív különbözetet az (1)–(3) bekezdéstől függetlenül, további 15% játékadó terheli. E bekezdés alkalmazásában a játékkaszinók tiszta játékbevételének számításakor a (2) bekezdést nem lehet alkalmazni.
 
-(4) A játékkaszinók és online kaszinók játékadójának 3%-át játékosvédelmi vagy karitatív célra kell fordítani. E rendelkezés alkalmazásában játékosvédelmi célnak minősül különösen a játékosok által ingyenesen, 0-24 óra között hívható telefonos ügyfélszolgálat (zöld szám) fenntartása, a játékosok részére a szociális ellátórendszer keretében elérhető közösségi ellátásokról szóló figyelemfelhívó, illetve folyamatos tájékoztatás biztosítása, valamint a szerencsejátékkal kapcsolatos, esetleges káros mentális, pszichikai vagy szociális hatások megelőzése, kezelése.
+(4)
 
 3. CÍM
 

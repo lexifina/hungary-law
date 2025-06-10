@@ -28,4 +28,4 @@ d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezd�
 
 (6) A közigazgatási bírság kiszabásánál figyelembe kell venni a mulasztás vagy a kötelezettségszegés súlyát, és azt, hogy a jogsértővel szemben a szerencsejáték-felügyeleti hatóság a jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt végleges döntésével szabott-e ki közigazgatási bírságot.
 
-(7) A közigazgatási bírság együttesen, illetve a 13. § (1)–(3) bekezdéseiben foglalt intézkedés vagy közigazgatási szankció mellett is kiszabható. Több közigazgatási bírság együttes kiszabása esetén a bírságok együttes összege meghaladhatja a (3) bekezdés pontjaiban meghatározott egyes bírságösszegek felső határát.
+(7) A közigazgatási bírság együttesen, illetve az e törvényben foglalt intézkedés vagy közigazgatási szankció mellett is kiszabható. Több közigazgatási bírság együttes kiszabása esetén a bírságok együttes összege meghaladhatja a (3) bekezdés pontjaiban meghatározott egyes bírságösszegek felső határát.

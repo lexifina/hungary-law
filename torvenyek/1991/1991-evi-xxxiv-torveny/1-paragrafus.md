@@ -38,6 +38,34 @@ e) a szerencsejáték káros mentális, pszichikai és szociális hatásainak me
 
 (5c) A szervező a szerencsejátékban való részvételre létrejött szerződést súlyosan megszegő játékossal szemben a belépés, online bejelentkezés és a szerencsejátékban való részvétel megtagadása (a továbbiakban: kitiltás) hatékony végrehajtása céljából nyilvántartást vezet. A nyilvántartásban a szervező a játékos 29/H. § (1) bekezdés szerinti adatait, a kitiltás tényét, indokát, elrendelésének időpontját, továbbá eseti jellegét vagy határozott, legfeljebb 5 éves időtartamát tünteti fel. A szervező a nyilvántartás adatait a kitiltás elrendelésétől számított 6 évig kezelheti. A kitiltással kapcsolatos nyilvántartásba a kitiltott játékos a játékost érintő kitiltás adatai vonatkozásában tekinthet be. A játékos a betekintéssel egyidejűleg a nyilvántartott adatokról okirat kiállítását igényelheti, amelyet a szervező a betekintéssel egyidejűleg, de legfeljebb az azt követő munkanapon térítésmentesen köteles teljesíteni.
 
+(5d) A távszerencsejátéknak és online kaszinójátéknak nem minősülő, hírközlő eszköz és rendszer útján szervezett szerencsejáték szervezője a játékost a játékosvédelem biztosítása érdekében a következő adatok rögzítésével nyilvántartásba veszi:
+
+a) családi és utónév, születési családi és utónév, anyja születési neve,
+
+b) születési hely és idő.
+
+(5e) A szervező a nyilvántartásba vételkor az (5d) bekezdésben meghatározott természetes személy által megadott adatok nyilvántartási adatokkal való egyezőségének megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvántartást, a központi útiokmány-nyilvántartást, illetve a közúti közlekedési nyilvántartás engedély-nyilvántartását. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel, a szervező a nyilvántartással történő egyezőség hiánya alapján a játékban történő részvételt a játéktervben foglaltak szerint biztosíthatja vagy megtagadhatja, illetve előírhatja a játékos részére az egyezőséget igazoló okiratmásolatnak a játékos azonosított elektronikus levelezési címéről történő biztonságos megküldését, vagy a szervező által a játékossal való kapcsolattartás érdekében üzemeltetett elektronikus felületre történő feltöltését.
+
+(5f) A szervező a személyiadat- és lakcímnyilvántartást az (5e) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
+
+a) családi és utónév, születési családi és utónév, anyja neve,
+
+b) születési hely és idő.
+
+(5g) A szervező a központi útiokmány-nyilvántartást az (5e) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
+
+a) családi és utónév, születési családi és utónév, anyja neve,
+
+b) születési hely és idő.
+
+(5h) A szervező a közúti közlekedési nyilvántartás engedély-nyilvántartását az (5e) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
+
+a) családi és utónév, születési családi és utónév, anyja neve,
+
+b) születési hely és idő.
+
+(5i) A nyilvántartásba vétel időtartama alatt, a játékos által megadott adatok nyilvántartási adatokkal való egyezőségének megállapítása érdekében a szervező megkeresheti a személyiadat- és lakcímnyilvántartást, a központi útiokmány-nyilvántartást, illetve a közúti közlekedési nyilvántartás engedély-nyilvántartását. Erre az esetre az (5d)–(5h) bekezdésben foglaltak irányadóak.
+
 (6) Játékkaszinóban és kártyateremben szervezett szerencsejátékban, valamint hírközlő eszköz és rendszer útján szervezett kaszinójátékban (a továbbiakban: online kaszinójáték) és távszerencsejátékban nem vehet részt az a személy, akit a bíróság a cselekvőképességét teljesen korlátozó gondnokság alá helyezett, vagy akinek cselekvőképességét a bíróság a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozta. E követelményt a szerencsejáték-szervező a felelős játékszervezés elvének megfelelően, külön jogszabályban meghatározott módon köteles biztosítani.
 
 (6a) Ha a bíróság a személyt cselekvőképességet teljesen korlátozó vagy a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozó gondnokság alá helyezi, az elsőfokú határozatot hozó bíróság e tényről, valamint a határozat jogerőre emelkedésének időpontjáról a jogerő beálltától – másodfokú eljárás esetén az iratoknak az elsőfokú bírósághoz való érkezésétől – számított 8 napon belül értesíti a szerencsejáték-felügyeleti hatóságot.
@@ -53,6 +81,10 @@ a) elkülönítve a jelentős önkorlátozó nyilatkozatot adó személyek, vala
 b) az adatkezelés jellegét (önkéntes elhatározáson vagy bírósági határozaton alapuló korlátozás),
 
 c) a megszűnés időpontját (az adatkezelés határozott vagy határozatlan időtartamú jellegét).
+
+(6e) A (6d) bekezdés szerinti adatokat és az azt alátámasztó okirati bizonyítékokat a szerencsejáték-felügyeleti hatóság a (6b) bekezdés szerinti célból a korlátozás megszűnését, megszüntetését követő 6 évig kezeli.
+
+(6f) A szerencsejáték-felügyeleti hatóság a (6) bekezdés szerinti személyek (6d) bekezdés a) pontja szerinti adatai ellenőrzése vagy a hiányzó adatok beszerzése, és a nyilvántartásból való, elhalálozás miatti kikerülés időpontja tekintetében jogosult a személyiadat- és lakcímnyilvántartásból közvetlen hozzáféréssel adatszolgáltatást igényelni.
 
 (7)
 

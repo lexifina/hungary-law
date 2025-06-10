@@ -1,8 +1,8 @@
 8/A. § (1) Ha az e törvény szerinti közigazgatási hatósági ellenőrzés vagy hatósági eljárás (e § alkalmazásában a továbbiakban együtt: hatósági eljárás) tárgya olyan közigazgatási szabályszegés, amely esetén
 
-a) a tiltott szerencsejátékot szervező személlyel, szervezettel, vagy a vele együttműködő pénzforgalmi szolgáltatóval szemben a 13/C–13/E. § vagy a 36/G–36/J. § szerinti közigazgatási szankció alkalmazásának lehet helye,
+a) a tiltott szerencsejáték szervezését, tiltott szerencsejátékban való részvételre ajánlat közzétételét, tiltott reklám közzétételét vagy közvetítő szolgáltatás keretében tiltott szerencsejáték közvetítését megvalósító személlyel, szervezettel, vagy a vele együttműködő pénzforgalmi szolgáltatóval szemben a 13/C–13/E. § vagy a 36/G–36/J. § szerinti közigazgatási szankció alkalmazásának lehet helye,
 
-b) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton történő kézbesítés kizárt, és
+b) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton történő kézbesítés kizárt, és
 
 c) az egyetemes postai szolgáltatás szerinti kézbesítés időtartama az eljárás sikerességét veszélyezteti
 

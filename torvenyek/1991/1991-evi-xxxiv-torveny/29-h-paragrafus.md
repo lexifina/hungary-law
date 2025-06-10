@@ -1,4 +1,4 @@
-29/H. § (1) A szervező a játékost a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítási intézkedések elvégzése, valamint a játékosvédelem biztosítása érdekében a következő adatok rögzítésével nyilvántartásba veszi:
+29/H. § (1) A szervező a játékost a Pmt.-ben meghatározott ügyfél-átvilágítási intézkedések elvégzése, valamint a játékosvédelem biztosítása érdekében a következő adatok rögzítésével nyilvántartásba veszi:
 
 a) családi és utónév, születési családi és utónév, anyja születési neve,
 
@@ -10,7 +10,7 @@ d) azonosító okmány típusa, száma,
 
 e) születési hely és idő.
 
-(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében a megadott adatok nyilvántartási adatokkal való egyezőségének és az okmány érvényességének megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvántartást, a központi útiokmány-nyilvántartást, illetve a közúti közlekedési nyilvántartás engedély-nyilvántartását. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget és az érvényességet nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel, a szervező az ügyfél-azonosítást a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 17. §-a szerint végzi el.
+(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében a megadott adatok nyilvántartási adatokkal való egyezőségének és az okmány érvényességének megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvántartást, a központi útiokmány-nyilvántartást, illetve a közúti közlekedési nyilvántartás engedély-nyilvántartását. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget és az érvényességet nem támasztja alá, vagy a személy a nyilvántartásban nem szerepel, a szervező az ügyfél-azonosítást a Pmt. 17. §-a szerint végzi el.
 
 (3) A szervező a személyiadat- és lakcímnyilvántartást a (2) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
 

@@ -60,10 +60,20 @@ e) az ellenőrzés alá vont időszakot.
 
 (3g) A szerencsejáték-felügyeleti hatóság jogosult a helyszíni ellenőrzést a helyszínre vagy a hatósági nyilvántartásához telepített, illetve a folyamatba beépített ellenőrző rendszerből történő távadat-szolgáltatás útján lefolytatni.
 
-(3h) A szerencsejáték-felügyeleti hatóság a helyszíni ellenőrzés során jogosult próbajátékot lefolytatni. A próbajáték keretében a szerencsejáték-felügyeleti hatóság által megszerzett nyeremény a központi költségvetés bevétele, amelyet a szerencsejáték-felügyeleti hatóság annak megszerzésétől számított 30 napon belül köteles befizetni.
+(3h) A szerencsejáték-felügyeleti hatóság jogosult próbajátékot lefolytatni. A próbajáték keretében a szerencsejáték-felügyeleti hatóság által megszerzett nyeremény a központi költségvetés bevétele, amelyet a szerencsejáték-felügyeleti hatóság annak megszerzésétől számított 30 napon belül köteles befizetni.
 
 (3i) Ha a szerencsejáték-felügyeleti hatóság az ellenőrzés során megállapítja, hogy a pénznyerő automatát engedély nélkül vagy a játékautomatát a 29/A. § szerinti bejelentési kötelezettség teljesítése nélkül működtetnek, a 26/A. §-ában meghatározott intézkedés kezdeményezése céljából jegyzőkönyvet készít, és azt a települési önkormányzat jegyzőjének továbbítja.
 
 (4) A szerencsejáték-felügyeleti hatóság ellenőrei az adatgyűjtésre irányuló, illetve a játékban való részvétel útján történő ellenőrzés esetén az eljárási cselekmény befejezésekor igazolják az ellenőrzési jogosultságot. Ha a tényállás további tisztázása szükséges és az ellenőrzés felfedése az eljárás eredményes lefolytatását veszélyeztetné, a szerencsejáték-felügyeleti hatóság ellenőrei az eljárási cselekmény befejezésekor sem igazolják ellenőrzési jogosultságukat és az ellenőrzésről felvett jegyzőkönyvet a szerencsejáték-felügyeleti hatóság legkésőbb a hatósági eljárás megindításáról szóló értesítéssel egyidejűleg küldi meg az ügyfélnek, amennyiben a feltárt adatok alapján jogsértés állapítható meg és a szerencsejáték-felügyeleti hatóság hatósági eljárást indított. A szerencsejáték-felügyeleti hatóság ellenőrei az ellenőrzött szerencsejátékban büntetőjogi, illetve szabálysértési jogkövetkezmények terhe nélkül vehetnek részt.
 
-(5)
+(5) Próbajáték lefolytatásához a szerencsejáték-felügyeleti hatóság közreműködő személyt vehet igénybe. A közreműködő személlyel a szerencsejáték-felügyeleti hatóság megbízási szerződést köthet, amely alapján a közreműködő személy megbízási díjra jogosult.
+
+(6) A közreműködő személy részére a közreműködést igénybe vevő szerencsejáték-felügyeleti hatóság megbízólevelet állít ki, amely tartalmazza a szerencsejáték-felügyeleti hatóság elnevezését, a megbízólevél érvényességi idejét, a közreműködő személy nevét, továbbá azt, hogy milyen típusú ellenőrzésben vehet részt.
+
+(7) A közreműködő személyre az Ákr. ügyintézőre vonatkozó kizárási szabályait kell alkalmazni.
+
+(8) A próbajáték befejezését követően, az ellenőrzési jogosultság igazolásakor a szerencsejáték-szervező képviseletében jelen lévő személy köteles
+
+a) a termék visszavétele mellett annak árát visszatéríteni, illetve
+
+b) a szolgáltatás árát visszatéríteni.

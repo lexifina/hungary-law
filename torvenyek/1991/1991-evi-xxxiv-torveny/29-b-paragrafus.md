@@ -12,7 +12,7 @@
 
 (6) Ifjúsági, gyermek, oktatási vagy nevelési intézmény, ifjúsági klub, egészségügyi intézmény, nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet ellátó egyházi jogi személy e célt szolgáló ingatlana,, továbbá kártyaterem engedélyezése iránti kérelem benyújtásakor már engedélyezett játékkaszinó 200 méteres körzetében kártyaterem nem működhet. A kártyatermet 18 éven aluliak nem látogathatják.
 
-(7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
+(7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a Pmt.-ben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
 
 (8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított húsz napon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
 
@@ -30,7 +30,7 @@
 
 (15) A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell:
 
-a) a kártyaterem 1:200 léptékű berendezési tervét,
+a) a kártyaterem 1:200 léptékű berendezési tervét és kameratervét,
 
 b) a kérelmező nyilatkozatát a kártyaterem alapterületére és a vendéglátásra szolgáló helyiség alapterületére vonatkozóan,
 

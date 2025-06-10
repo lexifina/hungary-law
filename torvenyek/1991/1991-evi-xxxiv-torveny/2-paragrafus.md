@@ -16,7 +16,7 @@ c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irán
 
 a) a folytatni kívánt tevékenység sértené a jóérzést, közbiztonságot, a közszemérmet, illetőleg gyermek vagy ifjúságpolitikai érdekeket,
 
-b) a kérelmező, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó szerencsejáték szervezése esetén a kérelmezőnek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti tényleges tulajdonosa (a továbbiakban: tényleges tulajdonos), illetve vezető tisztségviselője vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű,
+b) a kérelmező, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) hatálya alá tartozó szerencsejáték szervezése esetén a kérelmezőnek a Pmt. szerinti tényleges tulajdonosa (a továbbiakban: tényleges tulajdonos), illetve vezető tisztségviselője vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű,
 
 ba) a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), közbizalom elleni (1978. évi IV. törvény XVI. Fejezet III. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet), vagyon elleni (1978. évi IV. törvény XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét,
 

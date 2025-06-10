@@ -4,7 +4,7 @@
 
 (2a) Az ügyfél személyes jelenléte nélkül nem lefolytatható, az (1) bekezdés szerinti ügyben – különösen a szerencsejáték-szervezői tevékenység engedélyezése, illetve a játékautomata-üzemeltetés bejelentése iránti eljárásban – a kapcsolattartási forma ügyfél által történő megválasztásának nincs helye.
 
-(2b) Az e törvényben meghatározott ügyben hozott döntés ellen – a bírságot kiszabó döntés kivételével – benyújtott keresetlevélnek halasztó hatálya van, kivéve, ha a hatóság a döntést azonnal végrehajthatóvá nyilvánította.
+(2b) Az e törvényben meghatározott ügyben hozott döntés ellen – a bírságot kiszabó döntés kivételével – benyújtott keresetlevélnek halasztó hatálya van, kivéve, ha a hatóság a döntést azonnal végrehajthatóvá nyilvánította vagy a döntés azonnali végrehajthatóságát e törvény elrendeli.
 
 (3) A szerencsejáték-felügyeleti hatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül a szerencsejáték-felügyeleti hatóság intézkedik a hiánypótlási felhívás kibocsátásáról. Hiánypótlási felhívásnak több ízben is helye van.
 
@@ -35,3 +35,5 @@ b) a személyi megfelelőség megállapítására irányuló eljárás során az
 c) a tevékenység hatósági ellenőrzés során a hatósági ellenőrzés időtartamára, de legfeljebb a jogkövetkezmények megállapítására irányuló eljárás befejezéséig
 
 kezeli.
+
+(10) A szerencsejáték-felügyeleti hatóság szerencsejáték-felügyeleti, valamint a szerencsejátékot népszerűsítő reklám tekintetében a hatáskörébe tartozó ellenőrzési és hatósági eljárás lefolytatása érdekében a természetes személy ügyfél természetes személyazonosító adatai, valamint lakcímadatai tekintetében jogosult a személyiadat- és lakcímnyilvántartásból közvetlen hozzáféréssel adatszolgáltatást igényelni.

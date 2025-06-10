@@ -4,7 +4,7 @@
 
 a) pénzváltási tevékenység végzése esetén az ehhez szükséges – a Hpt.-ben előírt – engedélyt,
 
-b) a játékkaszinó 1:200 léptékű építési és berendezési tervét, építészeti műleírását,
+b) a játékkaszinó 1:200 léptékű építési és berendezési tervét, kameratervét, építészeti műleírását,
 
 c) az épület, illetve helyiség jogszerű birtoklását igazoló okmányt, három hónapnál nem régebbi tulajdoni lapot,
 
