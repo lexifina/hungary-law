@@ -38,7 +38,7 @@ c) a tevékenység folytatására vonatkozó igényét az örökös kinyilvání
 
 d) a tevékenység folytatására vonatkozó jogszabályban, valamint az örökhagyóra irányadó dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásában írt egyéb feltételeknek az örökös is megfelel.
 
-(8a) Ha a dohánytermék-kiskereskedelmi tevékenység jogosultjának kizárólag kiskorú örököse van, a kiskorú örökös abban az esetben válik a 18. életévének betöltését követően a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha a koncessziós szerződésből eredő jogok és kötelezettségek gyakorlását nagykorúvá válásáig tőle
+(8a) Ha a dohánytermék-kiskereskedelmi tevékenység jogosultjának kizárólag kiskorú örököse van, a kiskorú örökös abban az esetben válhat a 18. életévének betöltését követően a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha a koncessziós szerződésből eredő jogok és kötelezettségek gyakorlását nagykorúvá válásáig tőle
 
 a) végintézkedésen alapuló öröklés esetében az örökhagyó végrendeletében megjelölt nagykorú személy, ennek hiányában
 

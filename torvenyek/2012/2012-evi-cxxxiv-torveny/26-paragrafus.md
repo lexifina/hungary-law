@@ -8,7 +8,7 @@ c) a dohánytermék-kiskereskedelem engedélyezésére, a dohánytermék-kiskere
 
 d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére,
 
-e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
+e) a dohánytermék-nagykereskedő e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály szerinti kötelezettségeinek ellenőrzésére
 
 f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a termékregisztrátorok és az általuk forgalmazott érintett termékek körének meghatározására, azok hatósági nyilvántartásba vételére, a dohánygyártmányok árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére,
 

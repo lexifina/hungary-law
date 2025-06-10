@@ -26,7 +26,7 @@ d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a f
 
 e)
 
-f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
+f) végzi a dohánytermék-nagykereskedőknek az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabály szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
 
 g) a dohánytermék-kiskereskedelmi tevékenységet végző személyek részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
 
