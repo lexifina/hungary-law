@@ -38,10 +38,6 @@ b) születési hely és idő.
 
 (6f) A szerencsejáték-felügyeleti hatóság a (6) bekezdés szerinti személyek (6d) bekezdés a) pontja szerinti adatai ellenőrzése vagy a hiányzó adatok beszerzése, és a nyilvántartásból való, elhalálozás miatti kikerülés időpontja tekintetében jogosult a személyiadat- és lakcímnyilvántartásból közvetlen hozzáféréssel adatszolgáltatást igényelni.”
 
-(3) Az Szjtv. 1. §-a a következő (11a) bekezdéssel egészül ki:
+(3)
 
-„(11a) Szerencsejáték műszaki-informatikai rendszer auditálását a Magyarország kiberbiztonságáról szóló törvény szerinti, „jelentős” vagy „magas” biztonsági osztályra nyilvántartásba vett auditor végzi, amely rendelkezik a nemzeti akkreditálásról szóló törvény szerint kijelölt akkreditáló szerv vagy az akkreditáló szerv által elismert külföldi akkreditáló szervezet által odaítélt akkreditált státusszal a szerencsejáték műszaki-informatikai rendszerek auditálására (a továbbiakban: auditor).”
-
-(4) Az Szjtv. 1. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A nyereményigazolások zárt számítástechnikai rendszeren keresztül történő kiállításának jóváhagyása iránt a szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjeszthet elő kérelmet. A kérelemhez csatolni kell az auditor által kiadott, a rendszer auditálását igazoló okiratot.”
+(4)

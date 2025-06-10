@@ -1,5 +1,3 @@
-## „27. Szerencsejáték műszaki-informatikai rendszer: a szerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.”
-
 15. § Az Szjtv.
 
 1. 2. § (4) bekezdés b) pontjában az „a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó szerencsejáték szervezése esetén a kérelmezőnek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény” szövegrész helyébe az „a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) hatálya alá tartozó szerencsejáték szervezése esetén a kérelmezőnek a Pmt.” szöveg,
