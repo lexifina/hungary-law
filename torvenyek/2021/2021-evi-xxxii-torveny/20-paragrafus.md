@@ -34,7 +34,7 @@ c) kulturális, művészeti, sport- és egészségügyi programoknak, valamint
 
 d) civil fogyasztóvédelmi és függőségkezelési szervezeteknek
 
-a támogatására fordítható.
+a támogatására fordítható, továbbá azt a Hatóság a működési kiadásaira is felhasználhatja.
 
 (5) A tárgyévben a (4) bekezdés szerint rendelkezésre álló, de fel nem használt összeg a következő évre átvihető és azonos célokra felhasználható.
 
