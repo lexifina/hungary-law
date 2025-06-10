@@ -6,7 +6,7 @@ b) 10/A. § (1) bekezdésében az „a 715/2009/EK” szövegrész helyébe az �
 
 c) 54. § (1a) bekezdésében az „a 715/2009/EK” szövegrész helyébe az „az (EU) 2024/1789” szöveg,
 
-d) 60. § (4) bekezdésében az „a villamosenergiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló” szövegrész helyébe az „az e törvény végrehajtására kiadott” szöveg,
+d)
 
 e) 73. § (2) bekezdésében az „A 715/2009/EK” szövegrész helyébe az „Az (EU) 2024/1789” szöveg,
 

@@ -1,6 +1,6 @@
 28. § Hatályát veszti a Vet.
 
-a) 3. § 49a. pontja,
+a)
 
 b) 16. § i) pontjában a „valamint” szövegrész,
 
