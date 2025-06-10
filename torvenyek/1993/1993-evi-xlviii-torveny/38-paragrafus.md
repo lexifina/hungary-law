@@ -12,6 +12,8 @@
 
 (6) Az elhelyezési szolgalom alapján a bányavállalkozó, az egyéb gáz- és gáztermékvezeték üzemeltetője és az előkutatás végzésére jogosult az építési tevékenység végzéséhez, illetve a kutatáshoz szükséges mértékben jogosult az ingatlan igénybevételére. Az üzemelési szolgalom alapján a bányavállalkozó, az egyéb gáz- és gáztermékvezeték üzemeltetője a tevékenység végzéséhez szükséges mértékben jogosult az ingatlan igénybevételére, ellenőrzés, javítás, karbantartás, kapacitásfenntartás és -bővítés, az üzemelés és a biztonság fenntartása, az üzemzavar megelőzése és elhárítása érdekében szükséges intézkedések végrehajtására. Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni. A szolgalom az ingatlan-nyilvántartási bejegyzés előtt is gyakorolható, azonban az harmadik személyekkel szemben akkor hatályos, ha azt az ingatlan-nyilvántartásba bejegyezték.
 
+(6a) Szolgalom alapítható a bányászati létesítmény elhelyezéséhez kapcsolódó építési helyszín megközelítéséhez szükséges területre is. Nem alapítható szolgalom, ha az építési helyszín megközelítése az ingatlan-nyilvántartásba közútként, közforgalom elől el nem zárt magánútként vagy földútként bejegyzett területen biztosítható.
+
 (7) A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak, az egyéb gáz- és gáztermékvezeték üzemeltetőjének és az előkutatás végzésére jogosultnak az ingatlan tulajdonosával vagy vagyonkezelőjével – harminc napos válaszadási határidőt tartalmazó ajánlat megküldésével – kell az egyezség létrehozását megkísérelnie. Ha a használattal érintett ingatlan közös tulajdonban áll, a megállapodáshoz a tulajdonostársak tulajdoni hányad alapján számított többségi hozzájárulása szükséges. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni.
 
 (8) Közös tulajdonban álló ingatlan esetében a megállapodás megkötéséhez való hozzájárulást vélelmezni kell az olyan tulajdonostárs részéről, akinek a megállapodás tervezetének közlése
@@ -38,7 +40,7 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (13) Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó vagy az egyéb gáz- és gáztermékvezeték üzemeltetője kérelmére a bányafelügyelet állapítja meg. A megállapodáson és a hatósági határozaton alapuló jog a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:27. §-ában és 5:164. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
 
-(14) A szolgalom alapítására irányuló kérelemben meg kell jelölni a szolgalom célját és a szolgalom gyakorlása megkezdésének, elhelyezési szolgalom esetén befejezésének várható időpontját. A kérelemhez mellékelni kell
+(14) A szolgalom alapítására irányuló kérelemben meg kell jelölni a szolgalom célját és a szolgalom gyakorlása megkezdésének, elhelyezési szolgalom, valamint a (6a) bekezdés szerinti szolgalom esetén befejezésének várható időpontját. A kérelemhez mellékelni kell
 
 a) a szolgalom alapítására vonatkozó szerződéses ajánlatot és annak közlését vagy a közlés sikertelenségét igazoló okiratot,
 
@@ -58,7 +60,7 @@ kell figyelembe venni.
 
 (16) A szolgalom alapítási eljárás eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a szolgalom alapítását kérő viseli.
 
-(17) A bányafelügyelet a kérelemnek helyt adó határozatában külön rendelkezik a szolgalom alapításából eredő kárért megállapított kártalanítás mértékéről és az ingatlan birtokba bocsátásának időpontjáról. A bányafelügyelet a szolgalom alapítására vonatkozó végleges határozatával megkeresi az ingatlanügyi hatóságot a szolgalom ingatlan-nyilvántartásba történő bejegyzése iránt. A határozathoz mellékelni kell az ingatlannak a szolgalommal érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+(17) A bányafelügyelet a kérelemnek helyt adó határozatában külön rendelkezik a szolgalom alapításából eredő kárért megállapított kártalanítás mértékéről és az ingatlan birtokba bocsátásának időpontjáról. A bányafelügyelet a szolgalom alapítására vonatkozó végleges határozatával megkeresi az ingatlanügyi hatóságot a szolgalom ingatlan-nyilvántartásba történő bejegyzése iránt. A határozathoz mellékelni kell az ingatlannak a szolgalommal érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A bányafelügyelet az üzemelési szolgalmat alapító határozatban rendelkezik az elhelyezési szolgalom ingatlan-nyilvántartásból történő törléséről is, ha az elhelyezési szolgalmat a bányafelügyelet alapította.
 
 (18) A kártalanítási összeget a határozat véglegessé válását követő 15 napon belül kell megfizetni és az azt követő 8 napon belül kell a bányafelügyelet részére a megfizetést igazolni.
 

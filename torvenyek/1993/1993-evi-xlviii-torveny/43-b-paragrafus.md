@@ -30,7 +30,7 @@ c) a döntés szóban nem közölhető.
 
 (8) Megállapítható, hogy nincs ellenérdekű ügyfél, ha a kérelmező ügyfél benyújtotta az ügyben érintett összes ismert ügyfélnek a kérelmezett tevékenység végzéséhez történő hozzájáruló nyilatkozatát vagy a tevékenység végzését lehetővé tevő megállapodást.
 
-(9) A bányafelügyelet által adott engedély jogosítottjának polgári jog szerinti jogutódja az engedély alapján jogosított helyébe léphet, köteles azonban a jogutódlást – annak megfelelő igazolása mellett – az engedélyben meghatározott tevékenység megkezdése vagy folytatása előtt írásban a bányafelügyeletnek bejelenteni.
+(9) A bányafelügyelet által adott engedély vagy jog jogosítottjának polgári jog szerinti jogutódja az adott engedély vagy jog alapján jogosított helyébe léphet, köteles azonban a jogutódlást – annak megfelelő igazolása mellett – az engedélyben meghatározott tevékenység megkezdése vagy folytatása előtt, továbbá a jog megszerzését követően írásban a bányafelügyeletnek bejelenteni.
 
 (10) A bányafelügyelet hatósági eljárása során a székhelyén lakcímmel nem rendelkező természetes személyt vagy a székhellyel nem rendelkező jogi személy törvényes képviselőjét is idézheti székhelyére.
 

@@ -1,6 +1,6 @@
 50/A. § (1) Felhatalmazást kap a Kormány
 
-1.
+1. a Bizottság létrehozására és összetételére, valamint feladatára és működésére,
 
 2.
 
@@ -136,7 +136,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra, és a meghirdetett bányászati jog ellenértékének meghatározására,
 
-12. a geotermikus energia kutatására, a kutatási terület kialakítására és mértékére, a geotermikus energia kutatásának engedélyezésére, a kutatási engedély tartalmi követelményeire, a kutatási engedélyhez szükséges pénzügyi biztosítékra, az azonos bányavállalkozó jogosultságában álló kutatási blokkok számára, a geotermikus védőidom meghatározására és kijelölésére, a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződésre, a szerződés megszűnése esetén az új jogosult kijelölése iránti pályázatra, továbbá a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
+12. a geotermikus energia kutatására, a kutatási terület kialakítására és mértékére, a geotermikus energia kutatásának engedélyezésére, a kutatási engedély tartalmi követelményeire, a kutatási engedélyhez szükséges pénzügyi biztosítékra, az azonos bányavállalkozó jogosultságában álló kutatási blokkok számára, a geotermikus védőidom meghatározására és kijelölésére, a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződésre, a geotermikus energia kinyeréséhez és hasznosításához kapcsolódó adatszolgáltatás és vízkémiai vizsgálatok tartalmára, teljesítésének módjára és formájára, a szerződés megszűnése esetén az új jogosult kijelölése iránti pályázatra, továbbá a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 
 13. az ásványi nyersanyag természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 
@@ -207,6 +207,8 @@ j) az új tárolási engedélyes kijelölésére,
 36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására
 
 37. a szakági műszaki bizottságok létesítésére, feladataikra
+
+38. a feltáró kutatásra vonatkozó kérelem tartalmi követelményeire, a feltáró kutatás engedélyezésére, az engedély tartalmi követelményeire, a kutatás során megszerzett földtani adatok szolgáltatásának rendjére
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
