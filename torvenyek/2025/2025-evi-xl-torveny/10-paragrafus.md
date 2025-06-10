@@ -1,0 +1,3 @@
+10. § A Vet. 45. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (2) bekezdés szerinti árszabást tartalmazó és a (3) bekezdésben meghatározott villamosenergia-vásárlási szerződés tartalmára vonatkozóan a 62. § (1a) bekezdése irányadó azzal, hogy a szerződéses ár esetén meg kell jelölni, hogy az fix, több zónaidős vagy rugalmas, és rugalmas ár alkalmazása esetén a szerződésnek tartalmaznia kell az ár megállapításához szükséges képletet vagy módszertant. A (3) bekezdés szerinti villamosenergia-vásárlási szerződés alapján vételező felhasználó elosztói rugalmassági szolgáltatás nyújtásához fűződő jogának gyakorlását kizáró rendelkezés semmis.”
