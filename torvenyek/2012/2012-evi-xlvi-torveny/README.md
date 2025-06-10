@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2025-01-01 | 2019. évi CX. törvény | 2012-46-00-00.54 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2012-46-00-00.42 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2012-46-00-00.55 |
+| 2025-06-10 | 2025. évi XLII. törvény | 2012-46-00-00.56 |

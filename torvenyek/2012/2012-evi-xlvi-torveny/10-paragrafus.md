@@ -30,4 +30,4 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4a) A felsőrendű vízszintes alapponthálózat kiemelt pontjain létesített vasbeton mérőtornyok geodéziai építményeknek minősülnek.
 
-(5) Alapponthálózati pontnak minősülnek az Országos Gravimetriai Hálózat pontjai, de azok létesítése e törvény szerint nem minősül állami alapmunkának, és pontjainak karbantartása, helyszínelése, valamint pótlásuk a bányászati ügyekért felelős miniszter feladata.
+(5) Alapponthálózati pontnak minősülnek az Országos Gravimetriai Hálózat pontjai, de azok létesítése e törvény szerint nem minősül állami alapmunkának, és pontjainak karbantartása, helyszínelése, valamint pótlásuk a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: SZTFH) a feladata.
