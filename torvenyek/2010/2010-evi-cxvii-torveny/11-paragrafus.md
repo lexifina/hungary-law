@@ -1,4 +1,4 @@
-## 7.
+## 7. Adatszolgáltatás
 
 11. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv, a mezőgazdasági igazgatási szerv, az erdészeti hatóság, az állami adó- és vámhatóság, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Magyar Energetikai és Közmű-szabályozási Hivatal a biomassza, a köztes termék, a bioüzemanyagok és folyékony bio-energiahordozók, valamint a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló dokumentumok nyilvántartásához, a dokumentumban szereplő adatok és a nyomon követhetőség ellenőrzéséhez, valamint fenntarthatósági bizonyítvány kiállításához az általuk kezelt adatbázisokból egymásnak adatot szolgáltatnak.
 

@@ -54,7 +54,7 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 19. lignocellulóz-tartalmú anyagok: ligninből, cellulózból és hemicellulózból álló anyagok, mint például az erdőkből, a fás szárú energianövényekből, illetve erdészeti iparágak maradék-, illetve hulladékanyagából származó biomassza;
 
-20. megújuló üzemanyag: a fenntarthatósági követelményeket teljesítő bioüzemanyagok, a nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok;
+20. megújuló tüzelő- és üzemanyag: megújuló üzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok;
 
 21. mezőgazdasági, akvakultúra-, halászati, és erdészeti maradványok: olyan maradványanyagok, amelyeket közvetlenül a mezőgazdaság, az akvakultúra, a halászat és az erdészet állít elő; a kapcsolódó iparágakból vagy feldolgozási folyamatokból származó maradványanyagokat nem foglalják magukban;
 
@@ -62,7 +62,7 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 22. motorbenzin: minden olyan illékony ásványolajtermék, amelynek rendeltetése külső gyújtású belső égésű motorok (Otto-motorok) működtetése (a 2710 12 31-2710 12 49 KN-kód szerinti termék);
 
-23. nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok: a bioüzemanyagok és biogáz kivételével azon folyékony vagy gáznemű üzemanyagok, amelyek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik, és amelyeket a közlekedés területén használnak;
+23. nem biológiai eredetű, megújuló energiaforrásból származó üzemanyag: olyan folyékony és gáznemű üzemanyag, amelynek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik;
 
 24. nem élelmezési célú cellulóztartalmú alapanyagok: főként cellulózból és hemicellulózból álló, a lignocellulóz-tartalmú anyagoknál alacsonyabb lignintartalmú alapanyagok; ide tartozik többek között: élelmiszer- és takarmánynövény-maradékanyagok, például szalma, kukoricaszár, hüvely és héj, alacsony keményítőtartalmú, a fűfélék közé tartozó energianövények, például perje, vesszős köles, elefántfű, óriásnád, a fő termények előtt és után termesztett takarónövények, takarmánynövények, ipari maradékanyagok, például olyan élelmiszer- és takarmánynövények, amelyekből kisajtolták a növényi olajokat, kivonták a cukrokat, a keményítőt és a fehérjét, és biohulladékból származó anyagok, e szempontból takarmány-, illetve takarónövény alatt a legelőkön átmenetileg, rövid távra vetett, alacsony keményítőtartalmú fűfélék és pillangósok keverékéből álló növényzet értendő, amelynek rendeltetése takarmány termelése az állatállomány számára, illetve a talaj termelékenységének javítása a fő szántóföldi növények hozamának növelése érdekében;
 
