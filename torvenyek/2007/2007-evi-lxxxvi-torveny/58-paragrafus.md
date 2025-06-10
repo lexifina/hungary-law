@@ -12,4 +12,4 @@
 
 (4) A hálózati engedélyes az átviteli és az elosztó hálózathoz való csatlakozás megtagadásakor a 27. §-ban meghatározottak szerint jár el.
 
-(5)
+(5) A hálózati engedélyes a csatlakozás megengedhetősége esetén kérelemre legalább negyedévente díj- és költségmentesen tájékoztatja a csatlakozást kérőt a csatlakozáshoz a hálózati engedélyes által teljesítendő feltételek állásáról, ha jogszabály vagy a felek megállapodása a hálózati engedélyes teljesítésére rövidebb határidőt nem állapít meg. A tájékoztatás részletes szabályait az üzemi szabályzat és az elosztói szabályzat tartalmazza.

@@ -28,7 +28,7 @@
 
 12. a magánvezeték és a közvetlen vezeték létesítésére és üzemeltetésére, valamint a villamos energia továbbadására vonatkozó részletes szabályokat,
 
-13. a felhasználó villamos energia vásárlásának és értékesítésének feltételeit,
+13. a felhasználó villamosenergia-vásárlásának és -értékesítésének, valamint a villamosenergia-megosztásban való részvételének feltételeit,
 
 14. a villamosenergia-kereskedő villamos energia értékesítésére vonatkozó szerződése megkötésének feltételeit, kötelező tartalmi és formai elemeit,
 
@@ -44,7 +44,7 @@
 
 20. a szervezett villamosenergia-piac működésére, engedélyezésére, a szervezett villamosenergia-piaci engedélyesnek az energiakereskedelem fizikai teljesítésű ügyleteivel összefüggő feladataira, jogaira és kötelezettségeire vonatkozó részletes szabályokat, továbbá a szervezett villamosenergia-piaci szabályzat elkészítésének, közzétételének rendjét, a szervezett villamosenergia-piac engedélyese és az átviteli rendszerirányító együttműködésének szabályait,
 
-21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózathasználati szerződés és a kereskedési szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
+21. az átviteli rendszerirányító és az elosztó tájékoztatási kötelezettségének, valamint a hálózati engedélyesek és a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, a hálózati csatlakozási szerződésben rögzített teljesítmény igénybevételének részletes szabályait, a hálózathasználati szerződés és a kereskedési szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
 
 22. az aggregátorok és az energiaközösségek nyilvántartásba vételére és működésére vonatkozó szabályokat, valamint a társasházi energiaközösség vonatkozásában a tagokra, a háztartási méretű kiserőmű csatlakoztatására vonatkozó igénybejelentésre, a társasházi energiaközösség esetén alkalmazandó mérőkre, a helyben termelt és felhasznált villamos energia és a rendszerhasználati díj felek közötti elszámolására vonatkozó szabályokat,
 
@@ -94,7 +94,7 @@
 
 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 
-46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat,
+46. kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat, valamint a földkábellel párhuzamosan futó szabadvezeték üzemeltethetőségének részletszabályait,
 
 47. a 2019/943/EU rendelet alapján általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusokban tagállami hatáskörbe utalt, egyes követelmények meghatározásáért felelős rendszerüzemeltetőre vonatkozó kijelöléseket,
 
@@ -102,7 +102,7 @@
 
 49. a könnyített térség kijelölésének részletes szabályait, a kijelölés során figyelembe veendő szempontokat, a földrajzi adottságok meghatározásának ismérveit és könnyített térségben időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi és építési engedélyeztetése során alkalmazandó hatósági eljárási szabályokat, a szakhatóságok bevonására, az eljárási határidőre, és az eljáró hatóságra vonatkozó részletes szabályokat,
 
-50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat,
+50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló töltöttségi és üzemi állapotára vonatkozó alapvető adatok körét és a hozzáférés módját, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat és műszaki követelményeket,
 
 51. a közvilágítási berendezések tulajdonjoga átruházása vagy cseréje esetén a közvilágításra kötelezett és az elosztó együttműködésének és a vagyon nyilvántartásának és elszámolásának szabályait,
 
@@ -123,6 +123,8 @@
 59. a termelői vezeték és a csatlakozási pont közös használatára vonatkozó szabályokat, a közös használatra vonatkozó megállapodás minimális tartalmi követelményeit, valamint az önellátó termelői egységhez tartozó vezetékre vonatkozó adatszolgáltatás szabályait,
 
 60. a betáplálásra irányuló hálózati hozzáférés szabályainak részletszabályit, valamint a miniszternek a 35/A. § (2) bekezdésben meghatározott feladatának végrehajtását segítő szerv létrehozására, működésére, feladat- és hatáskörére, valamint tagjaira vonatkozó részletszabályokat,
+
+61. a zöldtöltés-igazolási rendszerre vonatkozó részletes szabályokat, az igazolás kiállítására, jóváírására, nyilvántartására, átruházására, felhasználására, ellenőrzésére, kijavítására, módosítására és törlésére, az elektromostöltőberendezés-üzemeltető jogaira és kötelezettségeire vonatkozó szabályokat,
 
 rendeletben állapítsa meg.
 
@@ -247,3 +249,5 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 14. a közép- és nagyfeszültségű hálózatokon elérhető szabad kapacitások kiosztására irányuló pályázati dokumentáció átvételéért és a pályázaton való részvétel feltételeként fizetendő díjakat,
 
 15. az NCCS hatálya alá tartozó szervezetek azonosítására, felügyeletére, ellenőrzésére, az eseménykezelésre és a végrehajtás nyomon követésére, valamint az egyéb, az NCCS végrehajtására vonatkozó részletszabályokat.
+
+16. a rugalmas csatlakozás alkalmazásának feltételeit.

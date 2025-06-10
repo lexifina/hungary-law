@@ -40,4 +40,10 @@ a Hivatal a kérelmet ezekre nézve visszautasíthatja, az eljárást megszünte
 
 (9) A Hivatal a panaszeljárásában – ha az a felhasználók jogi vagy vagyoni érdekeinek védelme érdekében indokolt – a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, és elrendelheti a jogsértő állapot megszüntetését. A Hivatal e végzését soron kívül hozza meg.
 
-(10) Az (1), (2) vagy (4a) bekezdés szerinti eljárás hatálya alá tartozó panasz esetén a villamosenergia-kereskedő a felhasználóval kötött villamosenergia-vásárlási szerződését a panaszeljárás lezárásáig a panaszeljárással érintett szerződésszegés miatt egyoldalúan nem szüntetheti meg.
+(10) Az (1), (2), (4a) vagy (6) bekezdés hatálya alá tartozó panasz esetén a villamosenergia-kereskedő a felhasználóval kötött villamosenergia-vásárlási szerződését a panaszeljárásról való tudomásszerzéstől annak lezárásáig a felhasználói panaszban vitatott tényre hivatkozva egyoldalúan nem szüntetheti meg és nem kezdeményezheti a felhasználó villamosenergia-ellátásból történő kikapcsolását. A Vhr.-ben meghatározott esetek kivételével a panaszeljárás nem mentesíti a feleket a villamosenergia-vásárlási szerződésből eredő kötelezettségeik teljesítése alól.
+
+(11) Nem kell alkalmazni a (10) bekezdés szerinti szerződésmegszüntetési és kikapcsolási korlátot
+
+a) a felhasználónak ugyanazon ténybeli alapból származó, érdemben azonos igény érvényesítése iránt előterjesztett és elbírált, új információt nem tartalmazó ismételt panasza esetén, vagy
+
+b) ha a felhasználói panasz az eset összes körülményére figyelemmel a joggal való visszaélés tilalmába ütközik.

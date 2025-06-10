@@ -20,4 +20,4 @@ f) a magyar villamosenergia-piac integrációja az Európai Unió egységesülő
 
 g) új termelő kapacitások és új hálózati infrastruktúra létesítésének, a villamosenergia-piacra új szereplőként belépők megjelenésének az elősegítése,
 
-h) a megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia termelésének elősegítése.
+h) a megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia termelésének és integrációjának elősegítése.

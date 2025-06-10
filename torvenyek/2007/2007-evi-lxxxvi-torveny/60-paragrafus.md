@@ -14,7 +14,7 @@ c) a (4) és (6) bekezdés szerinti esetekben ingyenesen átszáll a hálózati 
 
 d) a közúti közlekedésről szóló törvény szerinti nyilvános töltőberendezés ellátását biztosító csatlakozási pont esetében a nyilvános töltőberendezés további üzemeltetése céljából az új töltőberendezés üzemeltetőre átruházható.
 
-(3) A rendszerhasználó rendelkezési jogát – a (4) és a (6) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
+(3) A rendszerhasználó rendelkezési jogát – a (4), (5) és a (6) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
 
 (4) Ha a termelő villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig nem veszi igénybe, a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre száll át. E bekezdés alkalmazása szempontjából a tevékenység megszüntetésének napja.
 
@@ -26,7 +26,7 @@ c) ha a legalább 0,5 MW névleges teljesítőképességű kiserőmű a csatlako
 
 d) ha a 0,5 MW-ot el nem érő névleges teljesítőképességű kiserőmű – a háztartási méretű kiserőmű kivételével – a csatlakozási pontján egybefüggő 24 hónapig nem táplál be villamos energiát, ezen időtartam elteltét követő naptári hónap első napja.
 
-(5) Ha a termelő a hálózati csatlakozási szerződésben rögzített teljesítményt, a hálózati csatlakozási szerződésben rögzített üzembe helyezési időpontot követő két éven belül nem veszi igénybe, a rendelkezési jog az igénybe nem vett teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre száll át.
+(5) Ha a rendszerhasználó a hálózati csatlakozási szerződésben rögzített teljesítményt a hálózati csatlakozási szerződésben rögzített üzembe helyezési időpontot követő két éven belül nem veszi igénybe, a rendelkezési jog az igénybe nem vett teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre száll át. A hálózati csatlakozási szerződésben rögzített teljesítmény igénybevételének részletszabályait az e törvény végrehajtására kiadott rendelet állapítja meg.
 
 (6) Ha a felhasználó vagy a termelő
 
@@ -36,9 +36,9 @@ b) rendszerhasználati díj-fizetési kötelezettség elmulasztása miatti kikap
 
 a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre száll át.
 
-(7)
+(7) A rendszerhasználó vagy a csatlakozási és hálózathasználati szerződés megkötése iránti igény bejelentője az igénybejelentést, ezek mellékletét és minden egyéb kapcsolódó okiratot választása szerint elektronikus úton is benyújthatja az elosztó részére. Az elektronikus út választására vonatkozó bejelentés a hálózathoz való hozzáférés iránti eljárás bármely szakaszában megtehető. A bejelentést követően az elosztó köteles a kapcsolatot kizárólagosan elektronikus úton tartani és nem kérheti az okiratok papíralapú benyújtását.
 
-(8) Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezéseire is figyelemmel – az elektronikus kapcsolattartást választja, az e törvényben és a Vhr.-ben a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
+(8)
 
 (9) A hálózati engedélyes – jogszabály eltérő rendelkezése hiányában – akkor jogosult a felhasználóval a kapcsolatot elektronikusan tartani, ha ahhoz a felhasználó hozzájárult. Ha a felhasználó elektronikus úton, a hálózati engedélyes által biztosított informatikai felületen vagy elektronikus levélben lép kapcsolatba a hálózati engedélyessel, a hozzájárulást megadottnak kell tekinteni, ha a kapcsolatfelvétel során tett nyilatkozata vagy tanúsított magatartása ezzel ellentétes szándékot nem fejez ki. Ha a felhasználó az elektronikus kapcsolattartáshoz hozzájárult, az e törvényben és az e törvény végrehajtására kiadott jogszabályban a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
 

@@ -14,4 +14,6 @@ f) közreműködik a regionális piacok kialakításában, és jogosult az egys�
 
 g) a kijelölt villamosenergiapiac-üzemeltetővel kötött megállapodás esetén hozzájárulhat a 2015/1222/EU bizottsági rendelet 76. cikk (1) bekezdésében előírt költségekhez, amennyiben a Hivatal a 2015/1222/EU rendelet 76. cikk (3) bekezdésében foglaltak szerint a költség-hozzájárulási javaslatot előzetesen jóváhagyja.
 
+h) az elosztókkal együttműködve a Hivatal felkérésére elkészíti és jóváhagyásra benyújtja a Hivatalnak az (EU) 2019/943 európai parlamenti és tanácsi rendelet 19e. cikk szerinti jelentést.
+
 (2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.

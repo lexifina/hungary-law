@@ -98,7 +98,7 @@ e) az érintett felhasználók tájékoztatása,
 
 f) a decentralizált energiatermelés hatékonyabb intergrációjának támogatása,
 
-g) az energiaközösségek, aggregátorok, aktív felhasználók adatalapú támogatása
+g) az energiaközösségek, aggregátorok, aktív felhasználók adatalapú támogatása,
 
 h) az e törvény végrehajtására kiadott rendeletben foglaltak szerint a hálózati engedélyesek közötti adat- és információcsere-folyamatok segítése, fejlesztése
 

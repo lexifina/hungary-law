@@ -16,7 +16,7 @@ g) az üzemi szabályzatban meghatározott rendszerszintű szolgáltatások bizt
 
 h) a szervezett villamosenergia-piacon megkötött ügyletek végrehajtásában történő közreműködés,
 
-i) a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések megtervezése, elrendelése, beleértve a villamosenergia-rendszer jelentős zavara, valamint az átvitel, az elosztás és a felhasználók ellátásának korlátozása, illetve szüneteltetése esetén szükséges intézkedéseket is,
+i) a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések megtervezése, elrendelése, beleértve a villamosenergia-rendszer jelentős zavara, az átvitel, az elosztás és a felhasználók ellátásának korlátozása, illetve szüneteltetése esetén szükséges intézkedéseket is,
 
 j) az átviteli hálózat és az átvitelt befolyásoló elosztó hálózat üzemének tervezése és irányítása a teljesítmény-egyensúly folyamatos fenntartása mellett,
 
@@ -35,3 +35,5 @@ p) az átviteli hálózattal kapcsolatos valamennyi díj, a 2019/943/EU rendelet
 q) Vhr.-ben meghatározott pénzügyi biztosítékok meglétének folyamatos figyelemmel kísérése, és a Vhr.-ben meghatározott esetekben a Hivatal tájékoztatása,
 
 r) a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendeletben foglalt feladatok elvégzése.
+
+s) az átviteli hálózat digitalizálása.

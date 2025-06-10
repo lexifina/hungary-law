@@ -16,6 +16,6 @@ g) fejlett műszaki megoldások alkalmazása;
 
 h) a villamosenergia-ellátás biztonsága;
 
-i) a felhasználók védelme.
+i) a felhasználók védelme, valamint
 
 j) az új termelői kapacitások létesítése helyetti alternatívák, így különösen a keresletoldali szabályozással kapcsolatos megoldások és a villamosenergia-tárolás alkalmazása.

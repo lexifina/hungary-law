@@ -11,3 +11,5 @@ c) a jövőre vonatkozó piacfejlesztési lehetőségek bemutatását.
 (3) A Hivatal (2) bekezdés szerinti döntése esetén alkalmazandó részletszabályokat az elosztói szabályzat tartalmazza.
 
 (4) Az (1) bekezdés szerinti jelentésben négyévente be kell mutatni a távfűtési és távhűtési rendszerek lehetséges részvételét a rugalmassági szolgáltatások biztosításában, valamint ezen megoldások technológiai szempontjait és adottságait, valamint erőforrás- és költséghatékonyságának értékelését.
+
+(5) A (4) bekezdés szerinti megállapításokat az átviteli rendszerirányító és az elosztó az elosztó hálózat fejlesztésének tervezése során a 25. § (3) bekezdés a) pontja szerint figyelembe veszi.
