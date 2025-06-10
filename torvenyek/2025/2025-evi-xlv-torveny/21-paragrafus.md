@@ -7,15 +7,3 @@ b) az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK 
 c) az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról (átdolgozás) szóló, 2023. szeptember 13-i (EU) 2023/1791 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
