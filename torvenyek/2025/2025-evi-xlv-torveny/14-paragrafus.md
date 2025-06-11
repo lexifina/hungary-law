@@ -1,5 +1,1 @@
-14. § A Tszt. V. Fejezete a következő 34/B. §-sal egészül ki:
-
-„34/B. § (1) A távhőszolgáltató elkészíti a távhőszolgáltatásról szóló törvény végrehajtására kiadott kormányrendeletben meghatározott követelményeknek megfelelő fejlesztési tervet, amit ötévente felülvizsgál. A fejlesztési tervet és a fejlesztési tervek felülvizsgálatait jóváhagyásra be kell nyújtani a Hivatalhoz.
-
-(2) Az 5 MW feletti rendelkezésre álló hőteljesítményű rendszer távhőszolgáltatójának az (1) bekezdés szerinti fejlesztési tervben be kell mutatni a hatékony távfűtés kritériumának való megfelelést célzó intézkedéseket a távhőszolgáltatásról szóló törvény végrehajtására kiadott kormányrendelet szerint.”
+### 14. §

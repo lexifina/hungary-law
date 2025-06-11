@@ -1,5 +1,1 @@
-11. § A Tszt. 18/B. §-a helyébe a következő rendelkezés lép:
-
-„18/B. § (1) A távhőtermelői engedélyes és a távhőszolgáltatói engedélyes könyvvizsgálója a beszámolóra vonatkozó független könyvvizsgálói jelentésében nyilatkozik az engedélyes által kidolgozott számviteli szétválasztási szabályzat e törvény előírásainak való megfelelőségéről.
-
-(2) A távhőtermelői engedélyes és a távhőszolgáltatói engedélyes könyvvizsgálója a beszámolóra vonatkozó független könyvvizsgálói jelentésében külön véleményt fogalmaz meg arról, hogy a beszámoló kiegészítő mellékletében bemutatott, tevékenységenként szétválasztott mérleg és eredménykimutatás a számvitelről szóló törvény előírásaival, valamint az engedélyes számviteli szétválasztási szabályzatában foglaltakkal összhangban áll.”
+### 11. §
