@@ -1,20 +1,20 @@
-17. §[^35] (1) Beavatkozással nem járó vizsgálatot végezni
+17. §[^44] (1) Beavatkozással nem járó vizsgálatot végezni
 
-a)[^36] a 16. § a) pontjában említett vizsgálatok és kutatások esetében
+a)[^45] a 16. § a) pontjában említett vizsgálatok és kutatások esetében
 
-aa)[^37] az embriókkal, illetve ivarsejtekkel, őssejtekkel végezhető beavatkozással nem járó vizsgálat esetében az ETT HRB szakmai etikai szakhatósági állásfoglalása alapján az országos tisztifőorvos engedélyének,
+aa)[^46] az embriókkal, illetve ivarsejtekkel, őssejtekkel végezhető beavatkozással nem járó vizsgálat esetében az ETT HRB szakmai etikai szakhatósági állásfoglalása alapján az országos tisztifőorvos engedélyének,
 
 ab) minden más esetben az ETT TUKEB szakmai-etikai engedélyének
 
 birtokában lehet;
 
-b)[^38] a 16. § c) pontjában említett vizsgálat esetében
+b)[^47] a 16. § c) pontjában említett vizsgálat esetében
 
-ba)[^39] amennyiben a vizsgálat nem a bb) alpontban említett vizsgálat, akkor a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) engedélyének birtokában lehet,
+ba)[^48] amennyiben a vizsgálat nem a bb) alpontban említett vizsgálat, akkor a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) engedélyének birtokában lehet,
 
-bb)[^40] amennyiben engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végzésére hatósági határozat teljesítése érdekében van szükség és az más EGT-tagállamot is érint, a Gytv. 1. § 31. pontjában említett farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) által kiadott jóváhagyó levél és az ETT TUKEB etikai engedélyének birtokában lehet, azzal, hogy a vizsgálatot legkésőbb annak megkezdéséig be kell jelenteni az NNGYK részére.
+bb)[^49] amennyiben engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végzésére hatósági határozat teljesítése érdekében van szükség és az más EGT-tagállamot is érint, a Gytv. 1. § 31. pontjában említett farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) által kiadott jóváhagyó levél és az ETT TUKEB etikai engedélyének birtokában lehet, azzal, hogy a vizsgálatot legkésőbb annak megkezdéséig be kell jelenteni az NNGYK részére.
 
-c)[^41] a 16. § b) pontjában említett vizsgálatok esetében az NNGYK részére történt bejelentést követően lehet.
+c)[^50] a 16. § b) pontjában említett vizsgálatok esetében az NNGYK részére történt bejelentést követően lehet.
 
 (2) Kiskorúakon tervezett beavatkozással nem járó vizsgálat esetén az ETT TUKEB gyermekgyógyász szakorvos véleményének birtokában hoz döntést.
 
@@ -30,10 +30,10 @@ c) az ETT-TUKEB etikai engedélyének másolatát,
 
 d) a vizsgálat lefolytatása során alkalmazott valamennyi dokumentum eredeti és magyar nyelvű változatát.
 
-[^35]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^36]: A 17. § (1) bekezdés a) pontja a 172/2016. (VII. 1.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^37]: A 17. § (1) bekezdés a) pont aa) alpontja a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^38]: A 17. § (1) bekezdés b) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^39]: A 17. § (1) bekezdés b) pont ba) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^40]: A 17. § (1) bekezdés b) pont bb) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^41]: A 17. § (1) bekezdés c) pontját a 164/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 4. pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^44]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^45]: A 17. § (1) bekezdés a) pontja a 172/2016. (VII. 1.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^46]: A 17. § (1) bekezdés a) pont aa) alpontja a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^47]: A 17. § (1) bekezdés b) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^48]: A 17. § (1) bekezdés b) pont ba) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^49]: A 17. § (1) bekezdés b) pont bb) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^50]: A 17. § (1) bekezdés c) pontját a 164/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 4. pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

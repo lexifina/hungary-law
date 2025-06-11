@@ -14,7 +14,19 @@ f) a kutatás kezdetének időpontját és várható időtartamát,
 
 g) annak megjelölését, hogy egy vagy több központban végzett kutatást terveznek, több központban végzett kutatás esetén a tervezett kutatási helyszínek felsorolását.
 
-(2)[^13] A kérelemhez az elektronikus ügyintézői felületen keresztül csatolni kell
+h)[^13] nemzetstratégiai jelentőségű orvostudományi kutatás engedélyezésére irányuló kérelem esetén – az a)–g) pontban foglaltakon túl – azokat a kutatási célokat, illetve várt eredményeket, amelyek alapján a kérelmező az Eütv. 3/A. § g) pontja szerinti kutatásként történő engedélyezést kéri,
+
+i)[^14] nemzetstratégiai jelentőségű orvostudományi kutatás engedélyezésére irányuló kérelem esetén – az a)–h) pontban foglaltakon túl – a kérelmező
+
+ia) elektronikus információs rendszer biztonságáért felelős személy kijelölésére,
+
+ib) információbiztonsági szabályzat elkészítésére, valamint
+
+ic) az adatátadásban és adatkezelésben érintett elektronikus információs rendszerek biztonsági osztályhoz kapcsolódó védelmi intézkedésekre
+
+vonatkozó nyilatkozatát.
+
+(2)[^15] A kérelemhez az elektronikus ügyintézői felületen keresztül csatolni kell
 
 a) a kutatási tervet,
 
@@ -34,7 +46,7 @@ h) nyilatkozatot a kutatás vezetőjének és a kutatásban közreműködők dí
 
 (3) A kutatási terv tartalmazza
 
-a) a kutatás céljának, indokoltságának, a várt eredménynek részletes leírását,
+a)[^16] a kutatás céljának, indokoltságának, illetve a várt eredménynek a részletes leírását – nemzetstratégiai jelentőségű orvostudományi kutatásként engedélyezni kívánt kutatás esetében annak bemutatását is, hogy a kutatás célja és várt eredményei miként felelnek meg az Eütv. 3/A. § g) pontjában foglalt feltételeknek –,
 
 b) a kutatás tudományos megalapozottságát, indokoltságát alátámasztó irodalmi hivatkozások megjelölését,
 
@@ -55,4 +67,7 @@ i) a kutatás vezetőjének nyilatkozatát arról, hogy a kutatási terv össze�
 (4) A (3) bekezdés a)–h) pontjában szereplő adatok közérdekű adatnak minősülnek. A kutatási terv engedélyezésénél és elfogadhatóságának véleményezésénél nem minősül közérdekű adatnak a kutatási tervre vonatkozó tudományos munkahipotézis, és különösen a gyógyszerkutatás esetén a preklinikai vizsgálatok eredménye. Ezek az adatok kizárólag a hatóság, illetve etikai bizottság számára hozzáférhetőek.
 
 [^12]: A 3/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^13]: A 3/A. § (2) bekezdés nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^13]: A 3/A. § (1) bekezdés h) pontját a 96/2025. (V. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 3/A. § (1) bekezdés i) pontját a 96/2025. (V. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^15]: A 3/A. § (2) bekezdés nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^16]: A 3/A. § (3) bekezdés a) pontja a 96/2025. (V. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
