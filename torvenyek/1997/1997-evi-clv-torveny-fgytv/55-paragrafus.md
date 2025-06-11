@@ -31,3 +31,5 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 (3) Felhatalmazást kap a Kormány, hogy meghatározza a pótalkatrészek kötelező forgalmazására alkalmazandó követelményeket, a gyártók által jogellenesen tervezett avulással kapcsolatos jogkövetkezményeket, a pótalkatrészek és a javítóhálózat biztosításával, a tájékoztatással kapcsolatos kötelezettségeket, a digitális és csatlakoztatott eszközök élettartamával, a szoftverek elavulásával kapcsolatos kötelezettségeket, valamint az áru megvásárlásával egyidejűleg szállított operációs rendszer és a szoftver frissítéseihez kapcsolódó szoftverek elavulása miatti kockázatok csökkentésének lehetséges módjait.
 
 (4) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben szabályozza a 16/A. § (7) bekezdés szerinti hallásvédelmi tájékoztató tartalmára vonatkozó szabályokat.
+
+(5) Felhatalmazást kap a Kormány, hogy a tizennyolcadik életévét be nem töltött személy részére nem értékesíthető, illetve nem kiszolgálható energiaital összetételét rendeletben állapítsa meg.

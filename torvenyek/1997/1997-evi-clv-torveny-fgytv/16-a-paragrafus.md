@@ -4,6 +4,8 @@
 
 16/A. § (1) Tilos tizennyolcadik életévét be nem töltött személy részére – a kizárólag orvosi rendelvényre kiadható gyógyszer kivételével – alkoholtartalmú italt értékesíteni, illetve kiszolgálni.
 
+(1a) Tilos tizennyolcadik életévét be nem töltött személy részére a kormány rendeletében meghatározott összetételű energiaitalt (a továbbiakban: energiaital) értékesíteni, illetve kiszolgálni.
+
 (2) Tilos tizennyolcadik életévét be nem töltött személy részére szexuális terméket értékesíteni, illetve kiszolgálni.
 
 (3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket, valamint vízipipát értékesíteni, illetve kiszolgálni.

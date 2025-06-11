@@ -12,7 +12,7 @@ d) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK 
 
 e) a fogyasztói jogviták bírósági eljáráson kívül rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről szóló, 1998. március 30-i 98/247/EK bizottsági ajánlás [18–37/A. §];
 
-f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [2. § 12. pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
+f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [2. § 12. pontja, a 16/A. § (1a) bekezdése, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése, az 55. § (5) bekezdése];
 
 g) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv [a 37/B. § (1)–(2) bekezdése],
 
