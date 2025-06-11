@@ -2,4 +2,4 @@
 
 ## ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
-29. §
+### 29. §
