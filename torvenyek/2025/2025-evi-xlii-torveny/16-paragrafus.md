@@ -2,6 +2,6 @@
 
 a)
 
-b) 35. § (4) bekezdése,
+b)
 
-c) 36. § (3h) bekezdésében az „a helyszíni ellenőrzés során” szövegrész.
+c)
