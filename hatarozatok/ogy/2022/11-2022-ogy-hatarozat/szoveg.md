@@ -76,7 +76,7 @@ dr. Dávid Ferenc (DK)
 
 Z. Kárpát Dániel (Jobbik)
 
-Orosz Anna (Momentum)[^13]
+Stummer János (Momentum)[^13]
 
 dr. Mellár Tamás (Párbeszéd)
 
@@ -236,7 +236,7 @@ dr. Brenner Koloman (Jobbik)
 
 dr. Gurmai Zita (MSZP)
 
-Tompos Márton Kristóf (Momentum)[^35]
+Gelencsér Ferenc (Momentum)[^35]
 
 i) Mentelmi bizottság (6 fő)
 
@@ -250,7 +250,7 @@ dr. Hargitai János (KDNP)
 
 Hegedüs Andrea (DK)[^36]
 
-Orosz Anna (Momentum)[^37]
+Stummer János (Momentum)[^37]
 
 Komjáthi Imre (MSZP)
 
@@ -636,11 +636,11 @@ Varga Ferenc (független)[^97]
 
 o) Törvényalkotási bizottság
 
-Elnök: Hende Csaba (Fidesz)
+Elnök: dr. Fazekas Sándor (Fidesz)[^98]
 
-Alelnök: Süli János (KDNP)[^98]
+Alelnök: Süli János (KDNP)[^99]
 
-Pogácsás Tibor (Fidesz)[^99]
+Pogácsás Tibor (Fidesz)[^100]
 
 dr. Salacz László (Fidesz)
 
@@ -654,17 +654,17 @@ p) Magyarországi nemzetiségek bizottsága
 
 Elnök: Ritter Imre (nemzetiségi képviselő)
 
-Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^100]
+Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^101]
 
-Kissné Köles Erika (nemzetiségi szószóló),[^101]
+Kissné Köles Erika (nemzetiségi szószóló),[^102]
 
-Varga Szimeon (nemzetiségi szószóló)[^102]
+Varga Szimeon (nemzetiségi szószóló)[^103]
 
 5. Ez a határozat az elfogadásakor lép hatályba.
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^103]
+7.[^104]
 
 [^2]: Az 1/2025. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 21/2024. (XI. 6.) OGY határozat 1. pontjával megállapított szöveg.
@@ -677,7 +677,7 @@ Varga Szimeon (nemzetiségi szószóló)[^102]
 [^10]: Az 5/2024. (II. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^11]: A 15/2025. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^12]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^13]: Az 1/2025. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^13]: A 37/2025. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
 [^14]: A 15/2025. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^15]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^16]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
@@ -699,9 +699,9 @@ Varga Szimeon (nemzetiségi szószóló)[^102]
 [^32]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^33]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^34]: A 23/2024. (XI. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^35]: A 38/2022. (IX. 27.) OGY határozat 1. pontja iktatta be.
+[^35]: A 37/2025. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
 [^36]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^37]: Az 1/2025. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^37]: A 37/2025. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
 [^38]: A 17/2024. (X. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^39]: A 31/2025. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^40]: A 2/2023. (III. 8.) OGY határozat 1. pontjával megállapított szöveg.
@@ -762,9 +762,10 @@ Varga Szimeon (nemzetiségi szószóló)[^102]
 [^95]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
 [^96]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^97]: A 4/2023. (III. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^98]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
-[^99]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^100]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^98]: A 38/2025. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^99]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
+[^100]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^101]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
 [^102]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^103]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^104]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
