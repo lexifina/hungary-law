@@ -24,7 +24,7 @@ e) az ártámogatási szerződéssel rendelkező gyógyászatisegédeszköz-forg
 
 (8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e. Ha jogszabály az EESZT működtetőjének erről szóló tájékoztatási kötelezettségét előírja, az ellenőrzésének eredményét a hatósági ellenőrzést végző államigazgatási szerv számára automatizált lekérdező felület útján is – a személyes adatok törvényben meghatározott kezelésének szabályai betartása mellett – biztosíthatja.
 
-(9) Törvényben vagy kormányrendeletben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
+(9) Törvényben vagy kormányrendeletben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szervezet részére is továbbítható adat.
 
 (10) A betegellátás során nem követelhető meg az érintettől olyan egészségügyi dokumentáció bemutatása vagy egészségügyi adat igazolása, amely az EESZT-ben elérhető.
 

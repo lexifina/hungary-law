@@ -8,7 +8,7 @@ a) az egészség megőrzésének, javításának, fenntartásának előmozdítá
 
 b) a betegellátó eredményes gyógykezelési tevékenységének elősegítése, ideértve a szakfelügyeleti tevékenységet is,
 
-c) az érintett egészségi állapotának nyomon követése,
+c) az érintett – ideértve az orvostudományi kutatásba bevont érintettet is – egészségi állapotának nyomon követése,
 
 d) a népegészségügyi [16. §], közegészségügyi és járványügyi érdekből szükségessé váló intézkedések megtétele,
 

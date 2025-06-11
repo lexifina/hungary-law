@@ -72,6 +72,8 @@ e) a 35/L. § szerinti kapcsolati kódot kezelő szervet
 
 f) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szervet
 
+g) a 21/B. § (4) bekezdésében meghatározott szervet
+
 rendeletben jelölje ki.
 
 (3a) Felhatalmazást kap a Kormány, hogy a 35/T. § (2) bekezdése szerinti szervet és bejelentési módokat rendeletben határozza meg.
