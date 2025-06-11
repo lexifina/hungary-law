@@ -10,8 +10,12 @@ c) az igénylő által meghatározott paraméterek szerint előre leválogatott 
 
 (2) A Nahtv. szerinti kulcsszolgáltatást a DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság nyújtja.
 
+(2a)[^1] Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 21/B. § (4) bekezdése szerinti kulcsszolgáltatást a DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság nyújtja.
+
 (3) A kulcsszolgáltató az e rendeletben meghatározott közfeladata elősegítése érdekében a szolgáltatás nyújtásával kapcsolatos részletes tájékoztatót a NAVÜ által meghatározott módon közzéteszi a Nemzeti Közadatportálon.
 
 (4) Az e rendeletben foglaltak teljesítése érdekében, az ahhoz szükséges mértékben, a NAVÜ jogosult meghatározni a közfeladatot ellátó szerv részére az adatoknak a NAVÜ feladatainak végrehajtása céljára történő rendelkezésre bocsátásához, a személyes vagy védett adatok személytelenítéséhez szükséges alapvető informatikai feltételeket.
 
 (5) A közfeladatot ellátó szerv a (4) bekezdés szerinti feltételeknek soron kívül, de legkésőbb az azokról való tudomásszerzést követő 15 napon belül köteles megfelelni. Önmagában az a körülmény, hogy a közfeladatot ellátó szerv nem felel meg a (4) bekezdés szerinti feltételeknek, vagy a feltételeknek való megfelelés költségét részére a NAVÜ vagy a kulcsszolgáltató nem téríti meg, a közfeladatot ellátó szervet nem mentesíti az e rendeletben foglalt kötelezettségei teljesítése alól.
+
+[^1]: A 22. § (2a) bekezdését a 96/2025. (V. 12.) Korm. rendelet 8. §-a iktatta be.
