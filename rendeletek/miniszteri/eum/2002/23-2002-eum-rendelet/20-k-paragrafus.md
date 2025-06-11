@@ -1,3 +1,3 @@
-20/K. §[^75]
+20/K. §[^76]
 
-[^75]: A 20/K–20/L. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 10. § d)–e) pontja.
+[^76]: A 20/K–20/L. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 10. § d)–e) pontja.
