@@ -12,7 +12,7 @@ Dúró Dóra (Mi Hazánk)
 
 Törvényalkotásért felelős alelnök:
 
-Hende Csaba (Fidesz)
+dr. Fazekas Sándor (Fidesz)[^2]
 
 Jegyző: Gelencsér Attila (Fidesz)
 
@@ -26,7 +26,7 @@ dr. Aradszki András (KDNP)
 
 Földi László (KDNP)
 
-Mihálffy Béla (KDNP)[^2]
+Mihálffy Béla (KDNP)[^3]
 
 Z. Kárpát Dániel (Jobbik)
 
@@ -36,18 +36,19 @@ Szabó Sándor (MSZP)
 
 Dócs Dávid (Mi Hazánk)
 
-Barkóczi Balázs (DK)[^3]
+Barkóczi Balázs (DK)[^4]
 
-Berki Sándor (Párbeszéd)[^4]
+Berki Sándor (Párbeszéd)[^5]
 
-dr. Vadai Ágnes (DK)[^5]
+dr. Vadai Ágnes (DK)[^6]
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^6]
+3.[^7]
 
-[^2]: A 22/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^3]: A 14/2025. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^4]: A 14/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 33/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 35/2025. (VI. 11.) OGY határozat 2. pontjával megállapított szöveg.
+[^3]: A 22/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 14/2025. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 14/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 33/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
