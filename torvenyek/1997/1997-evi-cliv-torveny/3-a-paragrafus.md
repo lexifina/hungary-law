@@ -12,6 +12,12 @@ e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és 
 
 f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.
 
+g) nemzetstratégiai jelentőségű orvostudományi kutatás: a magyar társadalom egészségügyi helyzetét jelentősen érintő, a magyar népesség egészségmegőrzését és -javítását – különös figyelemmel a hazai lakosság körében tipikusan felmerülő népbetegségek gyógyítására, az elhalálozások ok-okozati összefüggéseinek vizsgálatára –, a súlyos betegségek korai stádiumban történő felismerését, és ezzel a gyógykezelések hatékonyságának növelését előreláthatóan össztársadalmi szinten szolgáló kutatás;
+
+h) biológiai minta: diagnosztikai vizsgálat vagy orvostudományi kutatás céljából levett, emberből származó sejt, szövet, vér, véralkotórész vagy más testnedvek;
+
+i) széles körű beleegyezés: az érintett akaratának önkéntes, megfelelő tájékoztatáson alapuló és egyértelmű kinyilvánítása, amellyel az érintett jogszabályban meghatározott formában beleegyezését adja biológiai mintáinak és adatainak valamely engedélyezett vagy jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatás során történő felhasználásához olyan módon, hogy a beleegyező nyilatkozat megtételének módja és tartalma alapján a már engedélyezett vagy a jövőben engedélyezésre kerülő nemzetstratégiai jelentőségű orvostudományi kutatásokban való részvételi szándéka egyértelműen elkülöníthető.
+
 4. CÍM
 
 A törvény hatálya

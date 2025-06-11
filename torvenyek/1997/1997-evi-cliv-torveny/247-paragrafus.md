@@ -106,6 +106,10 @@ m) állapítsa meg a 140/B. § (11) bekezdése szerinti etikai eljárás részle
 
 n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.
 
+o) állapítsa meg a nemzetstratégiai jelentőségű orvostudományi kutatás végzésére vonatkozó – az (1) bekezdés u) pontja alapján kiadott Korm. rendeletben nem szabályozott, vagy az abban foglaltaktól eltérő – követelményeket, a kutatás céljait szolgáló eszköz rendelkezésre bocsátására, valamint az eszköz ellentételezésére vonatkozó részletes szabályokat,
+
+p) állapítsa meg a 158/B. § (1) bekezdés szerinti Bizottság összetételére, eljárására, a véleménye kialakítására irányadó követelményekre vonatkozó részletes szabályokat.
+
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
 
 a) egészségügyi válsághelyzet elrendelésével járványügyi készültséget vezessen be,
@@ -347,3 +351,45 @@ cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgála
 ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
 
 cf) az egészségügyi szakértői tevékenység folytatására irányuló szándék bejelentéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők bejelentéséért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a köznevelési intézményekben vagy szakképző intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
+
+e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a taktikai medicina – mint a rendőri speciális műveleti feladatok végrehajtása során végezhető egészségügyi tevékenység – szakmai, személyi, tárgyi feltételeit és követelményeit, valamint ezek szakmai tartalmát;
+
+f) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a rendőri intézkedések kapcsán szükségessé váló, az intézkedéstaktikába épített elsősegélynyújtás képzések részletes tematikáját, az oktatásra jogosultak körét, az oktatásban részt vevők kompetenciáit;
+
+g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait;
+
+h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
+
+i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
+
+j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
+
+rendeletben állapítsa meg.
+
+(5a) Felhatalmazást kap
+
+a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;

@@ -1,0 +1,3 @@
+158/B. § (1) A Bizottság a nemzetstratégiai jelentőségű orvostudományi kutatások engedélyezését véleményével segítő, három tagból álló szakmai tanácsadó testület.
+
+(2) A Bizottság a 158/A. § (7) bekezdés b) pontja szerinti vélemény kialakítása során különösen azt vizsgálja, hogy a kutatási engedély iránti kérelemben megjelölt nemzetstratégiai jelentőségű orvostudományi kutatás, valamint az ahhoz kapcsolódó adatátadás és adatkezelés összhangban áll-e a hazai egészségügyi adatpolitika általános elveivel, továbbá hozzájárul-e az elektronikus egészségügyi adatoknak az – adatok integritását és bizalmas jellegét biztosító, össztársadalmi célokat szolgáló – eredményes másodlagos hasznosításához.
