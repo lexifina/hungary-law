@@ -2,10 +2,10 @@
 
 a)
 
-b) 16. § i) pontjában a „valamint” szövegrész,
+b)
 
-c) 35. § (8) bekezdése,
+c)
 
-d) 60. § (8) bekezdése, és
+d)
 
-e) 158. § (2) bekezdés g) pontjában a „valamint” szövegrész.
+e)
