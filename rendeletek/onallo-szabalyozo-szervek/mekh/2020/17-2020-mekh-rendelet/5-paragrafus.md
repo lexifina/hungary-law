@@ -2,7 +2,7 @@
 
 5. § (1) A végrehajtó hatóság az elért energiamegtakarítás számbavételéhez és felülvizsgálatához szükséges rendelkezésre álló adatokat az EKR adatgyűjtő rendszer útján küldi meg a Hivatal számára.
 
-(2)[^20] Az (1) bekezdés szerinti adatszolgáltatás számszerűsíthető hatású támogatás, tanácsadás esetén energiahatékonyság-javító beruházásonként, intézkedésenként a következő adatokat tartalmazza:
+(2)[^22] Az (1) bekezdés szerinti adatszolgáltatás számszerűsíthető hatású támogatás, tanácsadás esetén energiahatékonyság-javító beruházásonként, intézkedésenként a következő adatokat tartalmazza:
 
 a) az alternatív szakpolitikai intézkedésnek és nevesített részintézkedésnek az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 8. melléklet III. része szerinti megnevezése, amennyiben az alternatív szakpolitikai intézkedés vagy nevesített részintézkedés további alprogramra bontható, annak megnevezése,
 
@@ -34,7 +34,7 @@ n) egyéb alternatív szakpolitikai intézkedéssel való kombinálás esetén a
 
 o) annak megjelölése, ha az adott energiahatékonysági beruházást, intézkedést a végrehajtó hatóság saját hatáskörben ellenőrizte.
 
-(3)[^21] Az (1) bekezdés szerinti adatszolgáltatás beruházásonként, intézkedésenként nem számszerűsíthető hatású alternatív szakpolitika és olyan alternatív szakpolitika esetén, amely által elért energiamegtakarítás utólagos felméréssel kerül megállapításra, a következő adatokat tartalmazza:
+(3)[^23] Az (1) bekezdés szerinti adatszolgáltatás beruházásonként, intézkedésenként nem számszerűsíthető hatású alternatív szakpolitika és olyan alternatív szakpolitika esetén, amely által elért energiamegtakarítás utólagos felméréssel kerül megállapításra, a következő adatokat tartalmazza:
 
 a) az alternatív szakpolitikai intézkedésnek és nevesített részintézkedésnek az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 8. melléklet III. része szerinti megnevezése, amennyiben az alternatív szakpolitikai intézkedés vagy nevesített részintézkedés további alprogramra bontható, annak megnevezése,
 
@@ -46,5 +46,5 @@ d) az alternatív szakpolitika által elért végső felhasználók száma (db/k
 
 e) az energiamegtakarítás értéke a teljes sokaságra vonatkozóan (GJ/év).
 
-[^20]: Az 5. § (2) bekezdése a 8/2023. (V. 12.) MEKH rendelet 2. §-ával megállapított szöveg.
-[^21]: Az 5. § (3) bekezdését a 8/2023. (V. 12.) MEKH rendelet 2. §-a iktatta be.
+[^22]: Az 5. § (2) bekezdése a 8/2023. (V. 12.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^23]: Az 5. § (3) bekezdését a 8/2023. (V. 12.) MEKH rendelet 2. §-a iktatta be.
