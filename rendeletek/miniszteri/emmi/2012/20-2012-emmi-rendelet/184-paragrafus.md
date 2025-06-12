@@ -14,19 +14,19 @@ e) a verseny fordulóit, amely
 
 ea) iskolai forduló,
 
-eb)[^599] vármegyei, és ha szerveznek, akkor területi válogató,
+eb)[^600] vármegyei, és ha szerveznek, akkor területi válogató,
 
 ec) országos döntő
 
 lehet,
 
-f)[^600] a vármegyei, és – ha szerveznek – területi válogatókról történő továbbjutás feltételeit, a továbbjutott versenyzők értesítésének módját, határidejét,
+f)[^601] a vármegyei, és – ha szerveznek – területi válogatókról történő továbbjutás feltételeit, a továbbjutott versenyzők értesítésének módját, határidejét,
 
 g) az országos döntőben részt vevő versenyzők maximális létszámát,
 
 h) a nevezés módját, a nevezési lapot,
 
-i)[^601] a versenyző vagy intézménye által fizetendő díjakat, úgymint a, nevezési díjat, a vármegyei és – ha szerveznek – a területi fordulón való részvétel díját, a részvételi díjat (szállás, ellátás) a döntő fordulóra, valamint ezek mértékét, továbbá annak megjelölését, hogy a fizetés tanulónként vagy csapatonként, iskolánként értendő-e, valamint a díjak fizetésének módját,
+i)[^602] a versenyző vagy intézménye által fizetendő díjakat, úgymint a, nevezési díjat, a vármegyei és – ha szerveznek – a területi fordulón való részvétel díját, a részvételi díjat (szállás, ellátás) a döntő fordulóra, valamint ezek mértékét, továbbá annak megjelölését, hogy a fizetés tanulónként vagy csapatonként, iskolánként értendő-e, valamint a díjak fizetésének módját,
 
 j) a verseny témáját, ismeretanyagát, felkészüléshez felhasználható irodalmat,
 
@@ -40,6 +40,6 @@ tartalmazza.
 
 (2) A verseny lebonyolítását érintő rendkívüli események bekövetkezéséről jegyzőkönyvet kell készíteni.
 
-[^599]: A 184. § (1) bekezdés e) pont eb) alpontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
-[^600]: A 184. § (1) bekezdés f) pontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
-[^601]: A 184. § (1) bekezdés i) pontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
+[^600]: A 184. § (1) bekezdés e) pont eb) alpontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
+[^601]: A 184. § (1) bekezdés f) pontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
+[^602]: A 184. § (1) bekezdés i) pontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-136/A. §[^434] (1) Ha az iskola két tanítási nyelvű oktatást szervez, akkor a két tanítási nyelven történő oktatást és a célnyelv oktatását az első, de legkésőbb a harmadik évfolyamon meg kell kezdenie. A két tanítási nyelvű iskolai oktatás csak akkor szervezhető meg az iskolában, ha attól az évfolyamtól kezdve, amelyen megkezdik a két tanítási nyelven történő oktatást és a célnyelv oktatását, minden évfolyamra kiterjed a két tanítási nyelven történő oktatás és a célnyelv oktatása.
+136/A. §[^435] (1) Ha az iskola két tanítási nyelvű oktatást szervez, akkor a két tanítási nyelven történő oktatást és a célnyelv oktatását az első, de legkésőbb a harmadik évfolyamon meg kell kezdenie. A két tanítási nyelvű iskolai oktatás csak akkor szervezhető meg az iskolában, ha attól az évfolyamtól kezdve, amelyen megkezdik a két tanítási nyelven történő oktatást és a célnyelv oktatását, minden évfolyamra kiterjed a két tanítási nyelven történő oktatás és a célnyelv oktatása.
 
 (2) Az iskola a két tanítási nyelvű oktatást úgy szervezi meg, hogy a célnyelv mellett az 1–2. évfolyamon legalább kettő, a 3–12. évfolyamon legalább három tantárgyat célnyelven tanít, vagy a célnyelv és a célnyelven oktatott tantárgyak óraszáma a tanuló heti kötelező óraszámának legalább harminc százaléka.
 
@@ -34,4 +34,4 @@ b) a kilencedik évfolyamtól kezdődő oktatás, amely a célnyelvből az idege
 
 (10) A célnyelvi előkészítéssel folyó két tanítási nyelvű oktatásban a középiskola a kilencedik évfolyamot megelőzően nyelvi előkészítő évfolyamot szervez.
 
-[^434]: A 136/A. §-t a 31/2020. (VIII. 31.) EMMI rendelet 12. §-a iktatta be.
+[^435]: A 136/A. §-t a 31/2020. (VIII. 31.) EMMI rendelet 12. §-a iktatta be.

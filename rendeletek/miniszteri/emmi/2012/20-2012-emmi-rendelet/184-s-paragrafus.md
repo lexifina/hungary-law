@@ -4,8 +4,8 @@
 
 (3) Az írásbeli vizsgán az elnök van jelen, akadályoztatása esetén az elnök más vizsgabizottsági tagot is kijelölhet.
 
-(4)[^625] Az írásbeli vizsgafeladatot a szakgimnázium, szakiskola, képző intézmény által megbízott javító tanár a feladatlapok javításához, értékeléséhez kiadott útmutató (a továbbiakban: javítási útmutató) alapján javítja és értékeli. A javító tanár a kijavított vizsgafeladatokat a javasolt érdemjeggyel legkésőbb a szóbeli vizsga megkezdése előtt átadja a vizsgabizottságnak.
+(4)[^626] Az írásbeli vizsgafeladatot a szakgimnázium, szakiskola, képző intézmény által megbízott javító tanár a feladatlapok javításához, értékeléséhez kiadott útmutató (a továbbiakban: javítási útmutató) alapján javítja és értékeli. A javító tanár a kijavított vizsgafeladatokat a javasolt érdemjeggyel legkésőbb a szóbeli vizsga megkezdése előtt átadja a vizsgabizottságnak.
 
 (5) Ha a vizsgabizottság megállapítja, hogy a vizsgafeladat javítási útmutatójától eltérően történt az értékelés, akkor a vizsgadolgozat eredményét saját hatáskörében, a javítási útmutató szerint állapítja meg.
 
-[^625]: A 184/S. § (4) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 22. pontja szerint módosított szöveg.
+[^626]: A 184/S. § (4) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 22. pontja szerint módosított szöveg.

@@ -1,22 +1,22 @@
 ## XIV. Fejezet
 
-## A FELNŐTTOKTATÁSRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK[^457]
+## A FELNŐTTOKTATÁSRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK[^458]
 
 ## 55. A felnőttoktatásra vonatkozó rendelkezések
 
 143. § (1) A felnőttoktatásban a 26–36. és a 39–45. §-ok rendelkezéseit nem kell alkalmazni, a felnőttoktatást folytató nevelési-oktatási intézmény azonban a felvételt a pedagógiai programjában meghatározott felvételi követelményekhez kötheti.
 
-(2)[^458] A felnőttoktatást folytató nevelési-oktatási intézmény igazgatója – az (1) bekezdésben meghatározottakkal összhangban – a jelentkezőt kérelmére felveszi az intézménybe.
+(2)[^459] A felnőttoktatást folytató nevelési-oktatási intézmény igazgatója – az (1) bekezdésben meghatározottakkal összhangban – a jelentkezőt kérelmére felveszi az intézménybe.
 
 (3) A felnőttoktatást folytató nevelési-oktatási intézmény a képzés indítását legalább harminc nappal megelőzően a képzés indításának tényét a helyben szokásos módon nyilvánosságra hozza.
 
-(4)[^459] A felnőttoktatást folytató nevelési-oktatási intézménybe történő beiratkozáshoz be kell mutatni a jelentkező nevére kiállított személyazonosságot igazoló hatósági igazolványokat, valamint a jelentkező által elvégzett iskolai évfolyamokról kiállított bizonyítványt.
+(4)[^460] A felnőttoktatást folytató nevelési-oktatási intézménybe történő beiratkozáshoz be kell mutatni a jelentkező nevére kiállított személyazonosságot igazoló hatósági igazolványokat, valamint a jelentkező által elvégzett iskolai évfolyamokról kiállított bizonyítványt.
 
 (5) A felnőttoktatásban a tanuló nappali, valamint esti, levelező vagy más sajátos munkarend szerint megszervezett oktatásban, az iskola helyi tantervében meghatározottak szerint vesz részt a kötelező tanórai foglalkozásokon.
 
 (6) A felnőttoktatásban résztvevő tanuló esetében az e rendeletben foglaltakat az alábbi eltérésekkel kell alkalmazni:
 
-a)[^460] a tanuló tudását – ha az iskola helyi tanterve eltérően nem rendelkezik – a tanítási év végén vizsgán kell értékelni,
+a)[^461] a tanuló tudását – ha az iskola helyi tanterve eltérően nem rendelkezik – a tanítási év végén vizsgán kell értékelni,
 
 b) az elméleti tanítási órákat délelőtt vagy délután, vagy ha nem áll rendelkezésre megfelelő számú tanterem, délelőtti és délutáni váltásban kell szervezni, e beosztások azonban a helyi sajátosságok alapján módosíthatók,
 
@@ -28,25 +28,25 @@ c) a tanulmányok alatti vizsga reggel nyolc óra előtt is elkezdhető és tize
 
 (9) Megszűnik a tanuló tanulói jogviszonya, ha a szorgalmi időszakban húsz tanóránál többet mulasztott igazolatlanul.
 
-(10)[^461] Ha a tanuló a tanórai foglalkozások több mint ötven százalékáról távol maradt, félévkor és év végén minden esetben osztályozó vizsgán köteles számot adni tudásáról. Az osztályozó vizsga alól felmentés nem adható.
+(10)[^462] Ha a tanuló a tanórai foglalkozások több mint ötven százalékáról távol maradt, félévkor és év végén minden esetben osztályozó vizsgán köteles számot adni tudásáról. Az osztályozó vizsga alól felmentés nem adható.
 
-(11)[^462] Ha a tanuló az iskola két vagy több évfolyamára megállapított tanulmányi követelmények egy tanévben vagy az előírtnál rövidebb idő alatt történő teljesítésével összefüggő osztályozó vizsgát kíván tenni, az intézmény igazgatója a vizsga megkezdése előtt legalább harminc nappal a vizsgázói létszám, az évfolyamok feltüntetése, valamint a vizsgabeosztás megküldése mellett a kormányhivatal vezetőjétől vizsgabiztos kirendelését kéri. A vizsgabiztos kirendelésének kérésére vonatkozó kötelezettség elmulasztása miatt vizsgabiztos közreműködése nélkül lebonyolított osztályozó vizsga eredménye érvénytelen.
+(11)[^463] Ha a tanuló az iskola két vagy több évfolyamára megállapított tanulmányi követelmények egy tanévben vagy az előírtnál rövidebb idő alatt történő teljesítésével összefüggő osztályozó vizsgát kíván tenni, az intézmény igazgatója a vizsga megkezdése előtt legalább harminc nappal a vizsgázói létszám, az évfolyamok feltüntetése, valamint a vizsgabeosztás megküldése mellett a kormányhivatal vezetőjétől vizsgabiztos kirendelését kéri. A vizsgabiztos kirendelésének kérésére vonatkozó kötelezettség elmulasztása miatt vizsgabiztos közreműködése nélkül lebonyolított osztályozó vizsga eredménye érvénytelen.
 
-(12)[^463] Vizsgabiztosi feladat ellátására megbízást az kaphat, aki a hivatal által vezetett Országos érettségi vizsgaelnöki névjegyzékben szerepel. A vizsgabiztos megvizsgálja, hogy a vizsga előkészítése során és a vizsgákon betartották-e a tanulmányok alatti vizsgákra vonatkozó szabályokat.
+(12)[^464] Vizsgabiztosi feladat ellátására megbízást az kaphat, aki a hivatal által vezetett Országos érettségi vizsgaelnöki névjegyzékben szerepel. A vizsgabiztos megvizsgálja, hogy a vizsga előkészítése során és a vizsgákon betartották-e a tanulmányok alatti vizsgákra vonatkozó szabályokat.
 
-(13)[^464] A (12) bekezdés szerinti feladatellátás keretében a vizsgabiztos részt vesz az érintett osztályozó vizsgák valamennyi vizsgarészén és az osztályozó vizsga előkészítésében. A vizsgabiztos az osztályozó vizsgák során keletkezett valamennyi dokumentumba betekinthet, azokról másolatot kérhet, amely során az igazgató a vizsgabiztossal köteles együttműködni.
+(13)[^465] A (12) bekezdés szerinti feladatellátás keretében a vizsgabiztos részt vesz az érintett osztályozó vizsgák valamennyi vizsgarészén és az osztályozó vizsga előkészítésében. A vizsgabiztos az osztályozó vizsgák során keletkezett valamennyi dokumentumba betekinthet, azokról másolatot kérhet, amely során az igazgató a vizsgabiztossal köteles együttműködni.
 
-(14)[^465] A vizsgabiztos megfigyeléseiről, megállapításairól két példányban jegyzőkönyvet készít. A vizsga befejezését követő 8 napon belül a jegyzőkönyv egyik példányát eljuttatja az őt megbízó kormányhivatal vezetőjének, a másik példányt pedig az intézmény igazgatójának.
+(14)[^466] A vizsgabiztos megfigyeléseiről, megállapításairól két példányban jegyzőkönyvet készít. A vizsga befejezését követő 8 napon belül a jegyzőkönyv egyik példányát eljuttatja az őt megbízó kormányhivatal vezetőjének, a másik példányt pedig az intézmény igazgatójának.
 
-(15)[^466] A vizsgabiztosi feladatok ellátásáért díjazás jár, amelyet a kirendelést kérő intézmény visel. A vizsgabiztos díja szóbeli vizsgán a vizsgabizottsághoz beosztott vizsgázónként 3600 forint. A vizsgabiztos díja írásbeli vizsgacsoportonként 9000 forint.
+(15)[^467] A vizsgabiztosi feladatok ellátásáért díjazás jár, amelyet a kirendelést kérő intézmény visel. A vizsgabiztos díja szóbeli vizsgán a vizsgabizottsághoz beosztott vizsgázónként 3600 forint. A vizsgabiztos díja írásbeli vizsgacsoportonként 9000 forint.
 
-[^457]: A XIV. fejezet címe a 20/2016. (VIII. 24.) EMMI rendelet 28. § 9. pontja szerint módosított szöveg.
-[^458]: A 143. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
-[^459]: A 143. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 14. pontja szerint módosított szöveg.
-[^460]: A 143. § (6) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 10. pontja szerint módosított szöveg.
-[^461]: A 143. § (10) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 5. §-ával megállapított, a 24/2017. (X. 3.) EMMI rendelet 15. § 2. pontja szerint módosított szöveg.
-[^462]: A 143. § (11) bekezdése a 24/2017. (X. 3.) EMMI rendelet 5. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 10. § (1) bekezdése, a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja, a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
-[^463]: A 143. § (12) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
-[^464]: A 143. § (13) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
-[^465]: A 143. § (14) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be, szövege a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja, a 44/2023. (X. 19.) BM rendelet 23. § 20. pontja szerint módosított szöveg.
-[^466]: A 143. § (15) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.
+[^458]: A XIV. fejezet címe a 20/2016. (VIII. 24.) EMMI rendelet 28. § 9. pontja szerint módosított szöveg.
+[^459]: A 143. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
+[^460]: A 143. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 14. pontja szerint módosított szöveg.
+[^461]: A 143. § (6) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 10. pontja szerint módosított szöveg.
+[^462]: A 143. § (10) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 5. §-ával megállapított, a 24/2017. (X. 3.) EMMI rendelet 15. § 2. pontja szerint módosított szöveg.
+[^463]: A 143. § (11) bekezdése a 24/2017. (X. 3.) EMMI rendelet 5. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 10. § (1) bekezdése, a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja, a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
+[^464]: A 143. § (12) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
+[^465]: A 143. § (13) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
+[^466]: A 143. § (14) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be, szövege a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja, a 44/2023. (X. 19.) BM rendelet 23. § 20. pontja szerint módosított szöveg.
+[^467]: A 143. § (15) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.

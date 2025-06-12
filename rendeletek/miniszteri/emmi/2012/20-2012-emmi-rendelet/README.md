@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-20-5
 | 2024-12-31 | 2012-20-20-5H.42 | 44/2023. (X. 19.) BM rendelet |
 | 2025-01-30 | 2012-20-20-5H.43 | 20/2019. (VIII. 30.) EMMI rendelet |
 | 2025-04-11 | 2012-20-20-5H.44 | 11/2025. (IV. 10.) BM rendelet |
+| 2025-06-12 | 2012-20-20-5H.45 | 18/2025. (VI. 4.) BM rendelet |

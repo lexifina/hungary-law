@@ -1,6 +1,6 @@
 184/P. § (1) Képesítővizsgára írásban kell jelentkezni a vizsgaközpont honlapján közzétett jelentkezési lap benyújtásával.
 
-(2)[^620] A képesítővizsgára történő jelentkezést követő vizsgabejelentés
+(2)[^621] A képesítővizsgára történő jelentkezést követő vizsgabejelentés
 
 a) a február–márciusi vizsgaidőszak esetén a vizsgaidőszakot megelőző év december hónapjának 15. napja,
 
@@ -24,4 +24,4 @@ c) a szakmai képzés befejezését igazoló bizonyítványt.
 
 (6) A vizsgaközpont a jelentkezési lap aláírásával nyilatkozik arról, hogy a vizsgázó megfelel a programkövetelményben előírt vizsgára bocsátás feltételeinek.
 
-[^620]: A 184/P. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 17. §-ával megállapított szöveg.
+[^621]: A 184/P. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 17. §-ával megállapított szöveg.

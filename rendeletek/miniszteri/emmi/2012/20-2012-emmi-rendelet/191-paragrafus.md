@@ -1,6 +1,0 @@
-## 190. §[^633] A tartós gyógykezelés alatt álló gyermek, tanuló nevelése-oktatása esetében a nevelési-oktatási intézményben foglalkoztatott pedagógus munkáltatója az egészségügyi intézmény vagy rehabilitációs intézmény írásbeli kérelmére, az Nkt. 65. § (5b) bekezdése szerinti célfeladatot állapíthat meg a pedagógus részére a nevelési-oktatási tevékenységnek az egészségügyi intézmény vagy rehabilitációs intézmény számára történő ellátására, ha a pedagógus a megfelelő szakképzettséggel rendelkezik és vállalja, hogy a célfeladatot az e rendeletben foglaltak szerint, az egészségügyi intézmény vagy rehabilitációs intézmény szakmai vezetése alatt, az egészségügyi intézmény vagy rehabilitációs intézmény alkalmazottaira vonatkozó szabályok betartásával végzi. A célfeladat megállapításakor előnyben kell részesíteni azt a pedagógust, aki egyebekben a célfeladat ellátásával megegyező feladat-ellátási helyen végzi nevelési-oktatási feladatait. A célfeladatot vissza kell vonni, ha azt az egészségügyi intézmény vagy rehabilitációs intézmény írásban kezdeményezi.
-
-191. §[^634]
-
-[^633]: A 190. §-t újonnan a 37/2021. (VIII. 31.) EMMI rendelet 17. §-a iktatta be.
-[^634]: A 191. §-t a 20/2019. (VIII. 30.) EMMI rendelet 25. § (1) bekezdése hatályon kívül helyezte.
