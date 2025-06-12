@@ -15,7 +15,3 @@ Kötelező elektronikus kapcsolattartással érintett egyes ügyek
 1.1.3. nyilvános, nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
 1.1.4. nyilvános, zárt végű értékpapíralap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
-
-1.1.5. nyilvános, zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
-
-1.1.6. az ABAK által kezelt, más EGT-államban engedélyezett uniós ABA kollektív befektetési értékpapírjainak Magyarországon lakossági befektetők számára történő forgalmazásának engedélyezésére,

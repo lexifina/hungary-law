@@ -15,3 +15,5 @@ a) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kén
 b) az NMHH az Eht. 159/B. § (5) bekezdése alapján jelzi, hogy a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott tartalommal kétséges lehet.
 
 (7) Az MNB a befektetők érdekeinek hatékony védelme érdekében a honlapján közzéteszi az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésével érintett honlapok elnevezését.
+
+(8) Az MNB-t nem terheli felelősség azért a kárért, amely abból származik, hogy az ideiglenesen hozzáférhetetlenné tett elektronikus adat az (1) bekezdésben foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.

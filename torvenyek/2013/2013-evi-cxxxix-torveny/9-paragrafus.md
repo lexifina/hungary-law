@@ -18,7 +18,7 @@ f) döntés minden olyan további kérdésben, amit törvény a Monetáris Taná
 
 (2) A Monetáris Tanács szükség esetén bármikor összehívható, de havonta legalább egy alkalommal ülésezik.
 
-(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
+(3) A Monetáris Tanács legalább öt-, legfeljebb tizenegy tagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
 
 (4) A Monetáris Tanács tagjai:
 

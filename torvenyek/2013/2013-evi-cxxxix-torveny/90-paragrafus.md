@@ -2,7 +2,7 @@
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői, hitelgondozási tevékenység gyanúja esetén,
+a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység, bizalmi vagyonkezelési tevékenység, hitelgondozási tevékenység gyanúja esetén,
 
 b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 

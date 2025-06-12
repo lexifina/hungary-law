@@ -4,4 +4,4 @@
 
 (3) Ha az MNB által folytatott piacfelügyeleti eljárásban vizsgált tevékenység kapcsán büntetőeljárás van folyamatban, az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés meghozatalával, valamint megszüntetésével egyidejűleg értesíti a büntetőügyben eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, ha megítélése szerint a befektetők érdekeinek megóvása megalapozza az elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve az elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés alkalmazhatóságát.
 
-(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(7) bekezdésében foglaltak az irányadók.
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(8) bekezdésében foglaltak az irányadók.
