@@ -1,3 +1,3 @@
-6. § A 235/2009. (X. 20.) Korm. rendelet 11. § (3) bekezdése a következő g) ponttal egészül ki:
+6. §[^7]
 
-(A kutatási terv lényeges módosításának minősül különösen, ha)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 2. A Nemzeti Adatvagyon Ügynökség feladatairól és az adathasznosítás-támogatási szolgáltatásokról szóló 250/2024. (VIII. 15.) Korm. rendelet módosítása
 
-8. § A Nemzeti Adatvagyon Ügynökség feladatairól és az adathasznosítás-támogatási szolgáltatásokról szóló 250/2024. (VIII. 15.) Korm. rendelet 22. §-a a következő (2a) bekezdéssel egészül ki:
+8. §[^9]
 
-„(2a) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 21/B. § (4) bekezdése szerinti kulcsszolgáltatást a DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság nyújtja.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
