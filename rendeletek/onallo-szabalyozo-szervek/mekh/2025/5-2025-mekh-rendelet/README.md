@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-5-20-5Z
 | 2025-05-20 | 2025-5-20-5Z.1 | 5/2025. (V. 19.) MEKH rendelet |
 | 2025-05-21 | 2025-5-20-5Z.2 | 2010. évi CXXX. törvény |
 | 2025-06-11 | 2025-5-20-5Z.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-06-12 | 2025-5-20-5Z.4 | 2010. évi CXXX. törvény |
