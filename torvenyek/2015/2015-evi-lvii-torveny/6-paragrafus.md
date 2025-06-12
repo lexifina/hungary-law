@@ -40,6 +40,6 @@
 
 17. megtervezi és az integrált nemzeti energia- és klímaterv esedékes felülvizsgálatai során rögzíti az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező tartalmi elemeknek megfelelően az energiamegtakarítási célok teljesülését elősegítő szakpolitikai intézkedések körét, valamint meghatározza az egyes szakpolitika intézkedések nyomon követéséhez és hitelesítéséhez szükséges módszertani eljárások kereteit;
 
-18. a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslata alapján, de legalább kétévente felülvizsgálja az energiahatékonysági kötelezettségi rendszeren belül az energiamegtakarítási kötelezettség 15. § (1) bekezdésben meghatározott mértékét;
+18. a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslata alapján, de legalább kétévente felülvizsgálja az energiahatékonysági kötelezettségi rendszeren belül az energiamegtakarítási kötelezettség 15. § (1) és (1a) bekezdésben meghatározott mértékét;
 
 19. biztosítja az energiahatékonysági intézkedések és az energetikai felújítások magánfinanszírozásának erősödését, ennek keretében pedig intézkedéseket határozhat meg az energetikai auditok jobb felhasználására az egyéni fellépések befolyásolása érdekében, továbbá optimális mértékben alkalmazza az „Intelligens finanszírozás – intelligens épületek” európai uniós közösségi kezdeményezésben javasolt lehetőségeket és eszközöket.

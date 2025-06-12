@@ -14,4 +14,10 @@ f) az energetikai felülvizsgáló által teljesítendő díjfizetési köteleze
 
 g) az energetikai felülvizsgáló nyilvántartásba vételéhez, névjegyzékbe való felvételéhez szükséges jogosultságokat
 
+h) az egyes energiahatékonyság-javító intézkedésekből származó energiamegtakarítás mértékét meghatározó jegyzéket,
+
+i) az általános politikai koordinációért felelős miniszterrel egyetértésben az állami támogatási programokban megvalósuló, lakóépületek és középületek energiahatékonyságát javító egyéni fellépés során keletkező energiamegtakarításokra vonatkozó kötelező állampolgári tájékoztatás részletes szabályait,
+
+j) a 15. § (2c) bekezdés szerinti építési kulcstermékek körét
+
 rendeletben állapítsa meg.

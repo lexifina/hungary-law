@@ -28,11 +28,11 @@
 
 (12) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-(13)
+(13) A 15/B. § (7) bekezdésében megállapított tranzakciósdíj-fizetési kötelezettséget nem kell alkalmazni a kötelezett fél és a vállalkozáscsoportjába tartozó gazdálkodó szervezet közötti átruházás esetén.
 
 (14) Energetikai szakreferens tevékenységét névjegyzékbe vétel nélkül legkésőbb 2019. június 30-ig végezheti.
 
-(15) Az energetikai szakreferens a 21/C. § (1) bekezdése szerinti adatszolgáltatást az egyes energetikai tárgyú jogszabályok jogharmonizációs célú módosításáról szóló 2019. évi ... törvény hatálybalépését követő 30 napon belül a 2019. január 15-én és az adatszolgáltatás időpontjában is fennálló energetikai szakreferensi szolgáltatásra irányuló jogviszonyai tekintetében is köteles teljesíteni.
+(15) A Hivatal a 2025. évben esedékes energiamegtakarítási kötelezettség mértékét 2025. július 1-ig kiigazítja.
 
 (16) A Hivatal a 2021. évben esedékes energiamegtakarítás mértékéről 2021. március 31-ig hoz határozatot, amelyhez a Nemzeti Adó- és Vámhivatal 2021. január 31-ig nyújt a 15/C. § (2) bekezdése szerint adatot.
 
@@ -48,8 +48,14 @@
 
 (22) E törvénynek a klímagázokról szóló 2024. évi LXXXVII. törvénnyel (a továbbiakban: Klímagáz tv.) megállapított 15. § (4a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megindult alternatív szakpolitikai intézkedésekre.
 
-(23) E törvénynek a Klímagáz tv.-vel megállapított 15. § (5a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
+(23) A 15. § (5a) bekezdése szerinti tiltást nem kell alkalmazni a 15. § (5a) bekezdés a)–d) pontjában szereplő, 2025. január 1-jét megelőzően – víztakarékos zuhanyfej felszereléséből vagy cseréjéből, víztakarékossági szemléletformálásból származó energiamegtakarítás esetén az energiahatékonyságról szóló 2015. évi LVII. törvény módosításáról szóló 2025. évi XXV. törvény hatálybalépését megelőzően – megkezdett intézkedésekre, ha az intézkedésből származó energiamegtakarítást 2025. március 31-ig – víztakarékos zuhanyfej felszereléséből vagy cseréjéből, víztakarékossági szemléletformálásból származó energiamegtakarítás esetén 2025. május 31-ig – felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
 
-(24) E törvénynek a Klímagáz tv.-vel megállapított 15/D. § (2a) bekezdését nem kell alkalmazni a Klímagáz tv. hatálybalépését megelőzően megkezdett intézkedésekre, amennyiben az intézkedésből származó energiamegtakarítást 2025. március 31-ig felvezetik a hitelesített energiamegtakarítások nyilvántartásába.
+(24) Az energiamegtakarítási kötelezettség alapjának 0,5%-a feletti kötelezettségi részbe a Hivatal elnökének rendelete szerinti jegyzék, vagy egyedi audit alapján számított és hitelesített, a 15. § (2b) bekezdésben meghatározott miniszteri rendeletben meghatározott jegyzékben is szereplő intézkedésből származó energiamegtakarítás abban az esetben számítható be, ha az energiamegtakarítás számítására és hitelesítésére a 15. § (2b) bekezdésben meghatározott miniszteri rendeletben meghatározott jegyzékkel megegyezően került sor, vagy amennyiben azt a 15. § (2b) bekezdésben meghatározott miniszteri rendeletben meghatározott jegyzék szerint újra kiszámították és újrahitelesítették. Az újrahitelesítésre a 15/A. § (4) bekezdésében a hitelesítésre meghatározott időkorlát vonatkozik.
 
 (25) E törvénynek a Klímagáz tv.-vel megállapított 21/F. § (1) bekezdése szerinti adatszolgáltatást első alkalommal 2025. május 15-ig kell teljesíteni.
+
+(26) Az energiahatékonysági kötelezettségi rendszerben a 2025. évre és azt követően nem lehet szorzót igénybe venni.
+
+(27) A 15. § (2c) és (2d) bekezdésében foglaltakat nem kell alkalmazni a 2026. január 1-jét megelőzően megkezdett intézkedésekre. Lakóépületek energiahatékonyságát javító beruházás megvalósításának európai uniós forrásból finanszírozott alternatív szakpolitikai intézkedéssel történő kombinálása esetén a 15. § (2c) abban az esetben alkalmazandó, ha az adott alternatív szakpolitikai intézkedésre vonatkozó pályázati felhívás a kulcstermékek beépítését kifejezetten előírja.
+
+(28) A Hivatal a 15/D. § (5) bekezdése szerinti, részben vagy egészben energiahatékonysági járulék megfizetését választó kötelezett felek listáját a 2025. évben az energiahatékonyságról szóló 2015. évi LVII. törvény módosításáról szóló 2025. évi XXV. törvény hatálybalépését követő 15 napon belül teszi közzé.

@@ -4,7 +4,7 @@
 
 (1b) Az (1a) bekezdés szerinti adatszolgáltatási kötelezettség teljesítését a Hivatal ellenőrzi. Az adatszolgáltatási kötelezettség nem, vagy nem megfelelő teljesítése esetén a Hivatal a Vet. vagy a Get. hatálya alá tartozó kötelezett féllel szemben a Vet. vagy a Get. szerinti jogkövetkezményeket alkalmazza, a közlekedési célú üzemanyagot végső felhasználók részére értékesítő kötelezett féllel, valamint az adóraktári engedélyessel és a jövedéki engedélyes kereskedővel szemben tízmillió forintig terjedő bírságot szabhat ki azzal, hogy az alkalmazott jogkövetkezmény nem mentesíti a kötelezett felet az energiamegtakarítási kötelezettsége alól. A bírság kiszabásánál a Hivatal mérlegeli, hogy a mulasztás milyen mértékben lehetetleníti el a kötelezettség megállapítását a rendelkezésre álló adatok alapján.
 
-(2) A Nemzeti Adó- és Vámhivatal minden év szeptember 30-ig a Hivatal rendelkezésére bocsátja a közlekedési célú üzemanyagot értékesítők 15. § (1) bekezdése szerinti kötelezettségének megállapításához szükséges adatokat.
+(2) A Nemzeti Adó- és Vámhivatal minden év szeptember 30-ig a Hivatal rendelkezésére bocsátja a közlekedési célú üzemanyagot értékesítők 15. § (1) és (1a) bekezdése szerinti kötelezettségének megállapításához szükséges adatokat.
 
 (2a) A Nemzeti Adó- és Vámhivatal minden év január 31-ig a Hivatal rendelkezésére bocsátja a megelőző évben engedélyessé váló, valamint értékesítési tevékenységet megkezdő közlekedési célú üzemanyagot értékesítők névsorát és a megelőző évre vonatkozó értékesítési adatait.
 
@@ -24,6 +24,6 @@ b) a tárgyévet megelőző két év egyikében sem rendelkezett vagy a tárgyé
 
 a) alapja a (6) bekezdés a) pontja szerinti esetben a tárgyévet megelőző évben, a (6) bekezdés b) pontja szerinti esetben a tárgyévben végső felhasználók részére Magyarországon értékesített és szállított, kötelezettség alá vont energiamennyiség,
 
-b) mértéke a 15. § (1) bekezdésben a tárgyévre előírt %-os mérték.
+b) mértéke a 15. § (1) és (1a) bekezdésben a tárgyévre előírt %-os mérték.
 
 (8) A tárgyévben kötelezetté váló közlekedési célú üzemanyagot végső felhasználók részére értékesítő gazdálkodó szervezet, egyesület a kötelezetté válását követő harminc napon belül köteles regisztrálni a Hivatal energiahatékonysági kötelezettségi rendszer működését támogató adatgyűjtő rendszerébe.

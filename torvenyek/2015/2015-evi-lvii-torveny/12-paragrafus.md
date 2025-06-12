@@ -10,7 +10,7 @@
 
 (3) Az első kötelezettségi időszakban a végfelhasználási energiamegtakarítás mértéke az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint legfeljebb 25%-kal csökkenthető.
 
-(4) A második kötelezettségi időszakban a végfelhasználási energiamegtakarítás éves célértékeit a Kormány az e törvény végrehajtására kiadott rendeletben határozza meg azzal, hogy a kötelezettségi időszak végéig a (2) bekezdésben meghatározott végfelhasználási energiamegtakarítást el kell érni.
+(4) A második kötelezettségi időszakban, valamint azt követően a végfelhasználási energiamegtakarítás éves célértékeit a Kormány az e törvény végrehajtására kiadott rendeletben határozza meg azzal, hogy a kötelezettségi időszak végéig a (2) bekezdésben meghatározott végfelhasználási energiamegtakarítást el kell érni.
 
 (5) A 2031. január 1. és 2040. december 31. közötti kötelezettségi időszakban és a 2041. január 1. és 2050. december 31. közötti kötelezettségi időszakban a (2) bekezdéssel összhangban megállapított mértékű végfelhasználási energiamegtakarítást kell elérni.
 

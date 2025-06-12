@@ -1,10 +1,10 @@
-## 17. Kiskereskedelmi energiaértékesítő vállalatok és a Magyar Mérnöki Kamara tájékoztatási feladatai
+## 17. Nagyvállalatok és a Magyar Mérnöki Kamara tájékoztatási feladatai
 
-21. § (1) A kiskereskedelmi energiaértékesítő vállalat köteles ügyfélszolgálatán és honlapján az energiahatékonysággal kapcsolatos olyan tájékoztatást és tanácsadást nyújtani az energiafogyasztók számára, amely segíti a fogyasztók tudatos energiafogyasztási szemléletének kialakítását, gyakorlatias és hasznos információkat tartalmaz az egyes fogyasztói célcsoportok által kivitelezhető energiamegtakarítási lehetőségekről és a beruházásokhoz elérhető támogatási konstrukciókról.
+21. § (1) Az a nagyvállalat, amelynek a tárgyévet megelőző évben a végső felhasználók részére történő energiaértékesítése meghaladja a 15 000 000 GJ-t, saját maga, vagy a vállalkozáscsoportjába tartozó gazdálkodó szervezeten keresztül köteles ügyfélszolgálatán és honlapján az energiahatékonysággal kapcsolatos olyan tájékoztatást és technikai, adminisztratív, pénzügyi tanácsadást nyújtani az energiafogyasztók számára, amely segíti az energiafogyasztók tudatos energiafogyasztási szemléletének kialakítását. A nagyvállalat, illetve a vállalkozáscsoportjába tartozó gazdálkodó szervezet által nyújtott tájékoztatásnak gyakorlatias és hasznos információkat kell tartalmaznia az egyes fogyasztói célcsoportok által kivitelezhető energiamegtakarítási lehetőségekről és az energiamegtakarítási beruházásokhoz elérhető támogatási konstrukciókról, projektekről, a beruházás megvalósításához képesítéssel rendelkező energetikai szakemberekről és elérhetőségükről, továbbá az energiahatékonysági kötelezettségi rendszer finanszírozásában vagy társfinanszírozásában megvalósuló lakossági energiahatékonysági intézkedésekhez történő hozzáférés lehetőségéről.
 
-(2) A tájékoztatási és tanácsadási kötelezettséget a kiskereskedelmi energiaértékesítő vállalat üzletszabályzatában fel kell tüntetni.
+(2)
 
-(3) A kiskereskedelmi energiaértékesítő vállalat köteles honlapján az energiahatékonysági tájékoztató honlapra mutató hivatkozást feltüntetni.
+(3) Az (1) bekezdés szerinti tájékoztató honlapon fel kell tüntetni az energiahatékonysági tájékoztató honlapra mutató hivatkozást.
 
 (4) A Magyar Mérnöki Kamara
 
