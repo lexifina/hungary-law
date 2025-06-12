@@ -4,6 +4,8 @@ dr. Fazekas Sándort (Fidesz)
 
 megválasztja.
 
-2. Az Országgyűlés alelnökeinek, a törvényalkotásért felelős alelnökének, valamint jegyzőinek megválasztásáról szóló 9/2022. (V. 2.) OGY határozat 1. pontjában a „Hende Csaba (Fidesz)” szövegrész helyébe a „dr. Fazekas Sándor (Fidesz)” szöveg lép.
+2.[^2]
 
 3. Ez a határozat az elfogadásakor lép hatályba.
+
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-35-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-06-11 | 2025-35-30-41.1 | 35/2025. (VI. 11.) OGY határozat |
+| 2025-06-12 | 2025-35-30-41.2 | 15/2026. (V. 9.) OGY határozat |
