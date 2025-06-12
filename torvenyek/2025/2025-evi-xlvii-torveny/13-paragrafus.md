@@ -1,0 +1,5 @@
+## „a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység, bizalmi vagyonkezelési tevékenység, hitelgondozási tevékenység gyanúja esetén,”
+
+13. § Az Mnbtv. 91/A. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Az MNB-t nem terheli felelősség azért a kárért, amely abból származik, hogy az ideiglenesen hozzáférhetetlenné tett elektronikus adat az (1) bekezdésben foglaltak mellett olyan egyéb tartalmat is magában foglal, amelynek technikai elválasztására nincs lehetőség, vagy nem várható el a hozzáférhetetlenné tétel végrehajtása során.”
