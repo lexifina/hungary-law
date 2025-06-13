@@ -1,1 +1,3 @@
-3. § A Nevir. 128. § (8) bekezdésében a „(7) bekezdés” szövegrész helyébe a „40/A. alcím” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
