@@ -21,3 +21,18 @@ b) a 2026–2034. években évi 22 641 073 forint az éves központi költségve
 | Felelős: | nemzetgazdasági miniszter a miniszterelnök általános helyettese |
 
 | Határidő: | az a) alpont tekintetében azonnal a b) alpont tekintetében az adott évi költségvetés tervezése során |
+
+4.[^1] felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban foglalt cél megvalósítása érdekében a 2. pont a) alpontjában megjelölt forrás terhére a 2025. évben legfeljebb 2 500 000 000 forint támogatási összegben létesítsen támogatási jogviszonyokat;
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | a 2. pont a) alpontja szerinti forrás rendelkezésre állását követően azonnal |
+
+5.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi a miniszterelnök általános helyettese számára, hogy az 1. pontban foglalt cél megvalósítása érdekében a 2026. évi központi költségvetés XI. Miniszterelnökség fejezetében, az egyházi épített örökség védelme és egyéb beruházások támogatását szolgáló fejezeti kezelésű előirányzat terhére a 2026. évre legfeljebb 2 500 000 000 forint összegben éven túli kötelezettséget vállaljon.
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | a 2026. évi központi költségvetés kihirdetését követően azonnal |
+
+[^1]: A 4. pontot az 1197/2025. (VI. 13.) Korm. határozat iktatta be.
+[^2]: Az 5. pontot az 1197/2025. (VI. 13.) Korm. határozat iktatta be.
