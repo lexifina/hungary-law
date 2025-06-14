@@ -1,7 +1,0 @@
-## [1] A gyermekek és tanulók mentális és testi egészségének védelme érdekében a köznevelési intézményekben való nevelés és oktatás során különös figyelmet kell fordítani a testi és lelki fejlődésükre. A nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet X. Fejezete a gyermekek és tanulók számára biztosított védelmi intézkedések érvényesítését segíti elő. Az új szabályozás alapján a kábítószer-fogyasztás, az internet veszélyei, valamint a testi és szellemi egészségfejlesztés területén olyan programok megvalósítása válik lehetővé, amelyek megfelelnek a legszigorúbb szakmai és jogi követelményeknek. A programok nyilvántartásba vételével a módosítás biztosítja a programok végrehajtásában részt vevő szakemberek előképzettségét és az elvárt tapasztalatot azért, hogy minden tanuló számára megfelelő, az életkori igényeikhez illeszkedő foglalkozások tartására kerülhessen sor. Ezen intézkedések révén garantálható, hogy a köznevelésben részt vevő gyermekek és tanulók egészsége, testi és lelki fejlődése minden szempontból biztosított legyen.
-
-## [2] A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (1) bekezdés j) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 29. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
-
-1. §[^2]
-
-[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
