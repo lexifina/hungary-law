@@ -1,0 +1,1 @@
+4. § A miniszter és a Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) elnöke a vizsga eredményéről, valamint a nyelvi jogosítvány kiadásáról és visszavonásáról szóló döntéséről haladéktalanul értesíti egymást.

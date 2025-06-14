@@ -1,0 +1,1 @@
+7. § Közjegyzőhelyettes a névjegyzékbe történt bejegyzésétől számított összesen 1 év közjegyzőhelyettesi gyakorlat után jelentkezhet a vizsgára. A közjegyzőjelölti szolgálat a gyakorlati időbe beszámít.

@@ -1,0 +1,1 @@
+12. § Az írásbeli rész akkor sikeres, ha a vizsgázó az írásbeli résznél elérhető összpontszám legalább 70%-át teljesíti úgy, hogy emellett valamennyi, 2. mellékletben meghatározott típusfeladatból a maximális pontszám legalább 45%-át, valamint a 2. melléklet 5. pontjában meghatározott részfeladatból a maximális pontszám legalább 80%-át eléri.
