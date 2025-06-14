@@ -114,6 +114,8 @@ f) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a na
 
 g) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat.
 
+h) az örökbefogadás szabályaival és az országos örökbefogadást elősegítő szerv feladataival, működésével kapcsolatos részletes szabályokat.
+
 (4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.

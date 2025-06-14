@@ -96,3 +96,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2025-01-15 | 2021. évi CXLVI. törvény | 1997-31-00-00.118 |
 | 2025-05-30 | 3/2025. (V. 29.) AB határozat | 1997-31-00-00.132 |
 | 2025-06-02 | 2025. évi XXXIV. törvény | 1997-31-00-00.134 |
+| 2025-06-14 | 2025. évi XXXIII. törvény | 1997-31-00-00.133 |
