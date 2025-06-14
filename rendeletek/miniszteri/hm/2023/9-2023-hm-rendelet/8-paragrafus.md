@@ -1,1 +1,0 @@
-8. § Méltatlanná válik a miniszter által adományozott díjra az a személy, akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek. A méltatlanná vált személytől a tudomásszerzést követően a miniszter a díjat visszavonja.

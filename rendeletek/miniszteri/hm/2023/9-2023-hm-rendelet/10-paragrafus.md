@@ -1,1 +1,0 @@
-10. § A miniszter által adományozható elismerésekkel összefüggő kiadások fedezetét a központi költségvetési törvény alapján a minisztérium igazgatási előirányzatán rendelkezésre álló forrásból kell biztosítani.
