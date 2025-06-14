@@ -1,0 +1,1 @@
+15. § A miniszter által adományozható elismerésekkel összefüggő pénzjutalom fedezetét a központi költségvetési törvény Honvédelmi Minisztérium igazgatása alcímen, a díjtárgy beszerzésének fedezetét a Honvédelmi Minisztérium sportcélú fejezeti kezelésű előirányzata terhére kell biztosítani.
