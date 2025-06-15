@@ -1,0 +1,3 @@
+26. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) E törvény alkalmazásában kábítószer a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén szereplő anyag, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő anyag, valamint 3. mellékletében meghatározott anyag. A 160. §, a 164. §, a 184. §, a 339. §, a 340. §, a 365. §, a 366. §, a 370. §, a 371. § és a 380. § alkalmazása szempontjából kábítószernek minősül továbbá a bódult állapot előidézésére alkalmas, nem emberi fogyasztásra szánt anyag, ideértve a más szer hozzáadásával vagy szerkezete átalakításával előállított anyagokat, illetve a más tudatmódosító szereket is.”
