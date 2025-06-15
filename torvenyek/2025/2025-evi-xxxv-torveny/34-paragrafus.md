@@ -1,3 +1,21 @@
 ## 19. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-### 34. §
+34. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 44. § (1) bekezdés b) pont bc) alpontja helyébe a következő rendelkezés lép:
+
+(A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában annak a büntetőeljárás alá vont személynek az ujj- és tenyérnyomatát kell nyilvántartani, akit
+
+öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos)
+
+„bc) a Btk. 2025. június 15-ig hatályban volt 184–184/C. §-a szerinti új pszichoaktív anyaggal visszaélés bűncselekmény megalapozott gyanúja, vagy”
+
+(miatt büntetőeljárás alá vontak.)
+
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 44. § (1) bekezdés b) pontja a következő bd) alponttal egészül ki:
+
+(A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában annak a büntetőeljárás alá vont személynek az ujj- és tenyérnyomatát kell nyilvántartani, akit
+
+öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos)
+
+„bd) testi sértés (Btk. 164. §), segítségnyújtás elmulasztása (Btk. 166. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178. és 179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), tudatmódosító anyaggal visszaélés (Btk. 184. §), teljesítményfokozó szerrel visszaélés (Btk. 185. §), gyógyszerhamisítás (Btk. 185/A. §), egészségügyi termék hamisítása (Btk. 186. §), emberkereskedelem és kényszermunka (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204–204/A. §), magánlaksértés (Btk. 221. §), közlekedés biztonsága elleni bűncselekmény (Btk. 232. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 233. §), közúti veszélyeztetés (Btk. 234. §), cserbenhagyás (Btk. 239. §), hamis vád (Btk. 268. §), bűnpártolás (Btk. 282. §), vesztegetés (Btk. 290. §), vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), befolyás vásárlása (Btk. 298. §), befolyással üzérkedés (Btk. 299. §), bántalmazás hivatalos eljárásban (Btk. 301. §), bántalmazás közfeladatot ellátó személy eljárásában (Btk. 302. §), hivatali visszaélés (Btk. 305. §), közfeladati helyzettel visszaélés (Btk. 306. §), hivatalos személy elleni erőszak (Btk. 310. §), közfeladatot ellátó személy elleni erőszak (Btk. 311. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), közveszély okozása (Btk. 322. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), közveszéllyel fenyegetés (Btk. 338. §), garázdaság (Btk. 339. §), rendbontás (Btk. 340. §), közokirat-hamisítás (Btk. 342. §), biztonsági okmány hamisítása (Btk. 344. §) hamis magánokirat felhasználása (Btk. 345. §), egyedi azonosító jellel visszaélés (Btk. 347. §), határzár tiltott átlépése (Btk. 352/A. § (1) bekezdés), határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), jármű önkényes elvétele (Btk. 380. §), pénzhamisítás (Btk. 389. §), készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 393. §), költségvetési csalás (Btk. 396. §), tiltott adatszerzés (Btk. 422. §), információs rendszer vagy adat megsértése (Btk. 423. §) bűncselekmény megalapozott gyanúja”
+
+(miatt büntetőeljárás alá vontak.)
