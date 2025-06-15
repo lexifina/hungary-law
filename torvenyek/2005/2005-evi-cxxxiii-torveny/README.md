@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-133-00-00
 | 2024-07-01 | 2024. évi XXV. törvény | 2005-133-00-00.44 |
 | 2025-01-16 | 2024. évi LXXIII. törvény | 2005-133-00-00.46 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2005-133-00-00.45 |
+| 2025-06-15 | 2025. évi XXXV. törvény | 2005-133-00-00.47 |
