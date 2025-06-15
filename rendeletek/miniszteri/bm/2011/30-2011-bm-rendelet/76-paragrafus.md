@@ -14,6 +14,6 @@ b) megerősített a kísérés módja, ha a kísért személy szökésétől vag
 
 (5) A kísért személy figyelmét fel kell hívni a kísérés alatt tanúsítandó magatartásra, figyelmeztetni kell, hogy szökés, támadás vagy a kísérő őrnek való ellenszegülés esetén kényszerítő eszköz alkalmazására kerül sor. Ha a kísért személy veszélyessége ezt indokolja, a kísért személyt meg kell bilincselni. Ha a kísérő őr a kísérés biztonságát veszélyeztető körülményt észlel, haladéktalanul a legközelebbi általános rendőrségi feladatok ellátására létrehozott szervhez fordul.
 
-(6)[^136] A kísérés során a kijelölt útvonaltól csak abban az esetben lehet eltérni, ha az eredeti útvonalon történő haladás a biztonságos kísérést veszélyezteti. Ha a kísért személy megszökött, elfogására azonnal meg kell tenni a szükséges intézkedéseket. Ha az elfogásra tett haladéktalan intézkedés nem vezetett eredményre, azonnal jelentést kell tenni a rendőrség ügyeletesénél.
+(6)[^137] A kísérés során a kijelölt útvonaltól csak abban az esetben lehet eltérni, ha az eredeti útvonalon történő haladás a biztonságos kísérést veszélyezteti. Ha a kísért személy megszökött, elfogására azonnal meg kell tenni a szükséges intézkedéseket. Ha az elfogásra tett haladéktalan intézkedés nem vezetett eredményre, azonnal jelentést kell tenni a rendőrség ügyeletesénél.
 
-[^136]: A 76. § (6) bekezdése az 50/2016. (XII. 14.) BM rendelet 19. § i) pontja szerint módosított szöveg.
+[^137]: A 76. § (6) bekezdése az 50/2016. (XII. 14.) BM rendelet 19. § i) pontja szerint módosított szöveg.
