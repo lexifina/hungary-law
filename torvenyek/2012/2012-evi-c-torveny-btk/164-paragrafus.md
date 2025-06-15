@@ -8,29 +8,29 @@
 
 (4) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a könnyű testi sértést
 
-a) aljas indokból vagy célból,
+a) aljas indokból vagy célból követik el,
 
-b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére, illetve
+b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére követik el,
 
-c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére
+c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére követik el, vagy
 
-követik el.
+d) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (5) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a könnyű testi sértés maradandó fogyatékosságot vagy súlyos egészségromlást okoz.
 
 (6) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a súlyos testi sértést
 
-a) aljas indokból vagy célból,
+a) aljas indokból vagy célból követik el,
 
-b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére,
+b) védekezésre vagy akaratnyilvánításra képtelen személy sérelmére követik el,
 
-c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére,
+c) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére követik el,
 
-d) maradandó fogyatékosságot vagy súlyos egészségromlást okozva,
+d) maradandó fogyatékosságot vagy súlyos egészségromlást okozva követik el,
 
-e) különös kegyetlenséggel
+e) különös kegyetlenséggel követik el, vagy
 
-követik el.
+f) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (7) Aki a (3) vagy (6) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 

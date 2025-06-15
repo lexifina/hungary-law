@@ -18,6 +18,8 @@ b) csoportosan,
 
 c) bűnszövetségben
 
+d) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében
+
 követik el.
 
 (3) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a kifosztást

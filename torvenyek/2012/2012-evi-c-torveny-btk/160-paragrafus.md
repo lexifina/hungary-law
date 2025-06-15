@@ -8,31 +8,31 @@
 
 (2) A büntetés tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha az emberölést
 
-a) előre kitervelten,
+a) előre kitervelten követik el,
 
-b) nyereségvágyból,
+b) nyereségvágyból követik el,
 
-c) aljas indokból vagy célból,
+c) aljas indokból vagy célból követik el,
 
-d) különös kegyetlenséggel,
+d) különös kegyetlenséggel követik el,
 
-e) hivatalos személy vagy külföldi hivatalos személy sérelmére, hivatalos eljárása alatt, illetve emiatt, közfeladatot ellátó személy sérelmére, e feladatának teljesítése során, továbbá a hivatalos, a külföldi hivatalos vagy a közfeladatot ellátó személy támogatására vagy védelmére kelt személy sérelmére,
+e) hivatalos személy vagy külföldi hivatalos személy sérelmére, hivatalos eljárása alatt, illetve emiatt, közfeladatot ellátó személy sérelmére, e feladatának teljesítése során, továbbá a hivatalos, a külföldi hivatalos vagy a közfeladatot ellátó személy támogatására vagy védelmére kelt személy sérelmére követik el,
 
-f) több ember sérelmére,
+f) több ember sérelmére követik el,
 
-g) több ember életét veszélyeztetve,
+g) több ember életét veszélyeztetve követik el,
 
-h) különös visszaesőként,
+h) különös visszaesőként követik el,
 
-i) tizennegyedik életévét be nem töltött személy sérelmére,
+i) tizennegyedik életévét be nem töltött személy sérelmére követik el,
 
-j) védekezésre képtelen személy sérelmére,
+j) védekezésre képtelen személy sérelmére követik el,
 
-k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére, vagy
+k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére követik el,
 
-l) az elkövetővel szemben emberölés miatt történt vádemelés után
+l) az elkövetővel szemben emberölés miatt történt vádemelés után követik el, vagy
 
-követik el.
+m) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (3) Aki emberölésre irányuló előkészületet követ el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 

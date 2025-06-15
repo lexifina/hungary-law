@@ -146,7 +146,7 @@ e) a házastárs vagy az élettárs egyeneságbeli rokona és testvére;
 
 17. vagyoni hátrány: e törvény eltérő rendelkezése hiányában a vagyonban okozott kár és az elmaradt vagyoni előny;
 
-18. kábítószer: a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
+18.
 
 19. készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz és a forgatható utalvány, a kincstári kártya, az utazási csekk, a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalvány és a váltó, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett;
 
@@ -242,7 +242,7 @@ c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindh�
 
 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
 
-33. új pszichoaktív anyag: a 78/2022. (XII. 28.) BM rendelet 3. mellékletében meghatározott anyag;
+33.
 
 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
 
@@ -257,6 +257,8 @@ b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelöl
 37. tiltott külföldi támogatás: olyan külföldről származó támogatás, amelynek elfogadását vagy felhasználását a pártok működéséről és gazdálkodásáról szóló törvény, illetve a választási eljárásról szóló törvény tiltja.
 
 38. felelős személy: a civil szervezetekről szóló törvényben meghatározott felelős személy.
+
+(1a) E törvény alkalmazásában kábítószer a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén szereplő anyag, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő anyag, valamint 3. mellékletében meghatározott anyag. A 160. §, a 164. §, a 184. §, a 339. §, a 340. §, a 365. §, a 366. §, a 370. §, a 371. § és a 380. § alkalmazása szempontjából kábítószernek minősül továbbá a bódult állapot előidézésére alkalmas, nem emberi fogyasztásra szánt anyag, ideértve a más szer hozzáadásával vagy szerkezete átalakításával előállított anyagokat, illetve a más tudatmódosító szereket is.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 

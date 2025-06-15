@@ -12,9 +12,15 @@ d) amelynek a birtoklása a közbiztonságot veszélyezteti, vagy jogszabályba 
 
 (2) El kell kobozni azt a sajtóterméket, amelyben a bűncselekmény megvalósul.
 
-(3) Az (1) bekezdés a) és c) pontja esetében – feltéve, hogy a tulajdonos az elkövetésről előzetesen nem tudott – az elkobzást nem lehet elrendelni, ha a dolog nem az elkövető tulajdona, kivéve, ha az elkobzás mellőzését nemzetközi jogi kötelezettség kizárja.
+(2a) Ha az (1) bekezdés alapján nem esik elkobzás alá, el lehet kobozni
 
-(4) Az elkobzást akkor is el kell rendelni, ha
+a) a kábítószer termesztése vagy előállítása esetén a kábítószer tárolására, feldolgozására, elrejtésére, termesztésére vagy előállítására használt ingatlant, illetve
+
+b) kábítószer-kereskedelem esetén a kábítószer szállításához, tárolásához használt járművet.
+
+(3) Az (1) bekezdés a) és c) pontja, illetve a (2a) bekezdés szerinti esetben – feltéve, hogy a tulajdonos az elkövetésről előzetesen nem tudott – az elkobzást nem lehet elrendelni, ha a dolog nem az elkövető tulajdona, kivéve, ha az elkobzás mellőzését nemzetközi jogi kötelezettség kizárja.
+
+(4) Az elkobzásnak abban az esetben is helye van, ha
 
 a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
 

@@ -8,11 +8,11 @@ a) a rongálás kisebb kárt okoz, vagy
 
 b) a szabálysértési értékhatárt meg nem haladó kárt okozó rongálást
 
-ba) falfirka elhelyezésével vagy
+ba) falfirka elhelyezésével követik el,
 
-bb) bűnszövetségben
+bb) bűnszövetségben követik el, vagy
 
-követik el.
+bc) úgy követik el, hogy az elkövető a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
 
 (3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 

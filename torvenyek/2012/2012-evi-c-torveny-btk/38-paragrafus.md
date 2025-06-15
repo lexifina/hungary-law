@@ -34,6 +34,8 @@ ed) fogolyzendülés, terrorcselekmény, jármű hatalomba kerítése és zendü
 
 ee) elöljáró vagy szolgálati közeg elleni erőszak [445. § (5) bekezdés a) pont].
 
+f) az, aki a kábítószer-kereskedelem bűncselekményt különös visszaesőként követte el.
+
 (5) Nem bocsátható feltételes szabadságra az sem, akit
 
 a) a (4) bekezdés e) pontjában meghatározott bűncselekmény elkövetése esetén

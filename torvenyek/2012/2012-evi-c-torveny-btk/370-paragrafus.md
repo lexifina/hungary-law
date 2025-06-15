@@ -26,9 +26,11 @@ bf) helyiségbe vagy ehhez tartozó bekerített helyre megtévesztéssel, vagy a
 
 bg) hamis vagy lopott kulcs használatával,
 
-bh) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére vagy
+bh) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére,
 
-bi) erdőben jogellenes fakivágással
+bi) erdőben jogellenes fakivágással vagy
+
+bj) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében
 
 követik el.
 
@@ -46,7 +48,9 @@ bc) vallási tisztelet tárgyára,
 
 bd) holttesten lévő tárgyra, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyra,
 
-be) nemesfémre vagy
+be) nemesfémre,
+
+bf) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében, vagy
 
 c) a lopást szabálysértési vagy kisebb értékre közveszély színhelyén
 

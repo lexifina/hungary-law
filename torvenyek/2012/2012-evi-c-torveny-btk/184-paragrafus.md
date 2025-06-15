@@ -1,27 +1,7 @@
-## Új pszichoaktív anyaggal visszaélés
+## Tudatmódosító anyaggal visszaélés
 
-184. § (1) Aki új pszichoaktív anyagot kínál, átad, forgalomba hoz vagy azzal kereskedik, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+184. § (1) Aki, abból a célból, hogy a kóros élvezetéhez másnak segítséget nyújtson, kábítószert kínál, átad, ha más bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt
+(2) A büntetés az (1) bekezdés esetén bűntett miatt három évig terjedő szabadságvesztés, ha a bűncselekmény elkövetésével a kábítószer több mint tíz személy számára válik hozzáférhetővé.
 
-a) bűnszövetségben,
-
-b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy
-
-c) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok vagy a Nemzeti Adó- és Vámhivatal létesítményében
-
-követik el.
-
-(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
-
-(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
-
-(4) Aki csekély mennyiségű új pszichoaktív anyagot kínál vagy átad,
-
-a) az (1) bekezdésben meghatározott esetben vétség miatt egy évig,
-
-b) a (2) bekezdés b)–c) pontjában meghatározott esetben bűntett miatt három évig
-
-terjedő szabadságvesztéssel büntetendő.
-
-(5) Aki az (1)–(2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(3) Aki abból a célból, hogy a kóros élvezetéhez másnak segítséget nyújtson, kábítószert forgalomba hoz vagy azzal kereskedik, ha más bűncselekmény nem valósul meg, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.

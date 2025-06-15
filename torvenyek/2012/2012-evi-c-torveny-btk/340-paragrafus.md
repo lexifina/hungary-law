@@ -4,6 +4,8 @@
 
 (2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő, aki sportrendezvényen a létesítménynek a nézőktől vagy a nézők meghatározott csoportjától elzárt területére jogosulatlanul belép, ott tartózkodik, vagy e területre a sportrendezvény megtartását vagy mások testi épségét veszélyeztető tárgyat bedob.
 
+(2a) Az (1) bekezdés szerint büntetendő, aki a (2) bekezdés szerinti cselekményt úgy követi el, hogy a cselekményt megelőzően – annak elkövetésével összefüggésbe hozható módon – kábítószert fogyasztott.
+
 (3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a rendbontást
 
 a) csoportosan,

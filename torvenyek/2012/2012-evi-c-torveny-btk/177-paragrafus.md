@@ -2,7 +2,7 @@
 
 a) tizennyolcadik életévét be nem töltött személynek kábítószert kínál, átad,
 
-b) tizennyolcadik életévét be nem töltött személy felhasználásával kábítószert forgalomba hoz, vagy azzal kereskedik,
+b) tizennyolcadik életévét be nem töltött személy részére, illetve felhasználásával kábítószert forgalomba hoz, vagy azzal kereskedik,
 
 c) oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében kábítószert
 

@@ -12,7 +12,7 @@ ideje alatt szerzett.
 
 a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176. § (1)–(4) és (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont és (2)–(3) és (5) bekezdés], kábítószer termesztése, előállítása, az ország területére behozatala, kivitele, átszállítása [178. § (1)–(5) bekezdés és 179. §], a kábítószer készítésének elősegítése [182. § (1)–(4) bekezdés], a kábítószer-prekurzor forgalomba hozatala, szállítása, azzal közvetítői tevékenység végzése [183. § (1) bekezdés a) pont],
 
-b) az új pszichoaktív anyag előállítása, az ország területére behozatala, kivitele, átszállítása, forgalomba hozatala, illetve az azzal való kereskedés [184. § (1)–(3) és (5) bekezdés, 184/A. § (1) bekezdés b) pont és c) pont cb) alpont, (2)–(3) és (5) bekezdés, 184/B. § (1) bekezdés a) pont, (2)–(5) bekezdés, 184/C. § (1) bekezdés a) pont aa) alpont, b) pont ba) alpont, (2)–(5) bekezdés],
+b)
 
 c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
 

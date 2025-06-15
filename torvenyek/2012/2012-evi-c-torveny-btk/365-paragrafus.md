@@ -30,6 +30,8 @@ f) hivatalos személy, külföldi hivatalos személy vagy közfeladatot ellátó
 
 g) a bűncselekmény felismerésére vagy elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére
 
+h) kábítószer vásárlásához szükséges anyagi javak megszerzése érdekében
+
 követik el.
 
 (4) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a rablást
