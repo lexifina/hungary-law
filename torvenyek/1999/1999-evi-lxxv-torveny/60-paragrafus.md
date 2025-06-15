@@ -2,4 +2,4 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-60. §
+### 60. §

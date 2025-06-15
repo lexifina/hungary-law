@@ -2,4 +2,4 @@
 
 ## A személyes adatok kezelésével összefüggő szabályok
 
-37–45. §
+### 37. §

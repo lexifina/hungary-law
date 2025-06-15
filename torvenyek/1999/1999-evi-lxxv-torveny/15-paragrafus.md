@@ -2,4 +2,4 @@
 
 ## Idegenrendészeti és menekültügyi szabályok
 
-15–35. §
+### 15. §
