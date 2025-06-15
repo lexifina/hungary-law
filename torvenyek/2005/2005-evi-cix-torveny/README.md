@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2020-07-01 | 2020. évi XXX. törvény | 2005-109-00-00.19 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2005-109-00-00.20 |
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2005-109-00-00.21 |
+| 2025-06-15 | 2025. évi XXXV. törvény | 2005-109-00-00.22 |
