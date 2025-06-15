@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet 2015. július 1-jén lép hatályba.
 
-1. melléklet a 22/2015. (VI. 15.) BM rendelethez[^5]
+1. melléklet a 22/2015. (VI. 15.) BM rendelethez[^6]
 
 ## ....................................
 
@@ -58,10 +58,10 @@ I. Hivatásos állomány vizsgálat alá vont tagjának
 
 ## Hivatásos állomány vizsgálat alá vont tagja:
 
-## Kábítószer, pszichotróp anyag, új pszichoaktív anyag fogyasztása:
+## Kábítószer fogyasztása:
 
 | mit: ................................................., mikor: ........................................., mennyit: ..................................................... |
 
 II. Alkoholteszterrel ........ év ..... hó ...... nap ..... óra ..... perckor történt mérés ............... mg/l légalkohol értékét elfogadom, és kijelentem, hogy az kizárólag a szolgálatba lépése előtt elfogyasztott szeszes italtól származik.
 
-[^5]: Az 1. melléklet a 33/2019. (VIII. 30.) BM rendelet 7. §-a szerint módosíttot szöveg.
+[^6]: Az 1. melléklet a 33/2019. (VIII. 30.) BM rendelet 7. §-a, a 19/2025. (VI. 13.) BM rendelet 13. §-a szerint módosított szöveg.
