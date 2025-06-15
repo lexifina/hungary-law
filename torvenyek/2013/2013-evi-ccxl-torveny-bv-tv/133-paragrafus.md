@@ -26,6 +26,8 @@ j) a képességeinek és a bv. intézet adottságainak megfelelő képzésben, i
 
 k) jeladóval rendelkező elektronikus karpántot viselni tartózkodási helyének és fizikai állapotának nyomon követése, valamint közvetlen utasítása és értesítése céljából.
 
+l) a bv. intézet által meghatározottak szerint közösségi jóvátételi programban részt venni.
+
 (3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg – teljes munkaidőben történő foglalkoztatás esetén – nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
 
 (4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A fogvatartás megkezdésétől a tartalékolás havonta meghatározott összege a fogvatartás első négy évében az egyhavi alapmunkadíj ötven százalékának egytizenketted része, ezt meghaladó tartamú fogvatartás esetén havonta az egyhavi alapmunkadíj huszonöt százalékának egytizenketted része.

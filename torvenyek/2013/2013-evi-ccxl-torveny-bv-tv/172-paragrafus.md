@@ -22,7 +22,7 @@ rendelkezhet.
 
 (7) Ha az elítélttel szemben több büntetőeljárás van folyamatban, a rendelkezési jogkör gyakorlójának az adott büntetőeljárásban a (4) bekezdés alapján meghozott rendelkezését a bv. intézet valamennyi büntetőeljárás vonatkozásában érvényesíti.
 
-(8) A kapcsolattartásból legfeljebb hat hónapra, ismételt szabályszegés esetén legfeljebb két évre kizárható az a kapcsolattartó, aki magatartásával súlyosan megsérti a bv. intézet rendjét, a fogvatartás biztonságát vagy a kapcsolattartás szabályait, így különösen, ha a szabályszegés bűncselekményt valósít meg vagy a kapcsolattartás során kábítószer, új pszichoaktív anyag, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer bejuttatására irányul.
+(8) A kapcsolattartásból legfeljebb hat hónapra, ismételt szabályszegés esetén legfeljebb két évre kizárható az a kapcsolattartó, aki magatartásával súlyosan megsérti a bv. intézet rendjét, a fogvatartás biztonságát vagy a kapcsolattartás szabályait, így különösen, ha a szabályszegés bűncselekményt valósít meg vagy a kapcsolattartás során kábítószer, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer bejuttatására irányul.
 
 (9) A kizárás egy vagy több kapcsolattartási formára és az adott bv. intézetben fogva lévő egy vagy több elítélttel történő kapcsolattartásra vonatkozhat. A tizennyolcadik életévét be nem töltött személy csak ismételt szabályszegés esetén, legfeljebb hat hónapra zárható ki a kapcsolattartásból. A tizennegyedik életévét be nem töltött személy nem zárható ki a kapcsolattartásból.
 

@@ -28,7 +28,7 @@ c) az elítélttel szemben újabb vagy összbüntetésként megállapított szab
 
 (8) A (7) bekezdés alkalmazásában kiemelkedően súlyos fegyelemsértés:
 
-a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, új pszichoaktív anyag, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
+a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
 
 b) bűncselekményt megvalósító, személy elleni erőszakos vagy súlyos sérülést okozó fegyelemsértés.
 
