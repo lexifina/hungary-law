@@ -20,14 +20,15 @@ fedezhetőek fel.
 
 (3) A vizsgálat során tapasztaltakat összességükben kell megítélni. Mivel egyes testi és pszichikai tünetek előidézésére egyéb állapotok – különösen fáradtság, esetleges betegség – is alkalmasak, illetve egyéb testi jelnek oka lehet más beavatkozás – így különösen egészségügyi kezelés – is, ezért a hivatásos állomány vizsgálat alá vont tagját mindezekre vonatkozóan nyilatkoztatni kell.
 
-(4)[^9] A (3) bekezdés szerinti nyilatkozatban szükséges feltüntetni
+(4)[^12] A (3) bekezdés szerinti nyilatkozatban szükséges feltüntetni
 
 a) a vizsgálatot szükségessé tevő cselekmény vagy körülmény leírását, helyét, időpontját, valamint
 
 b) ha arra a vizsgálat alá vont nyilatkozni kíván,
 
-ba) a kábítószer, pszichotróp anyag, új pszichoaktív anyag fogyasztására vonatkozó adatokat,
+ba)[^13] a kábítószer fogyasztására vonatkozó adatokat,
 
 bb) a központi idegrendszer működését befolyásoló gyógyszer szedésére vonatkozó adatokat.
 
-[^9]: A 6. § (4) bekezdését a 34/2024. (VIII. 8.) BM rendelet 38. §-a iktatta be.
+[^12]: A 6. § (4) bekezdését a 34/2024. (VIII. 8.) BM rendelet 38. §-a iktatta be.
+[^13]: A 6. § (4) bekezdés b) pont ba) alpontja a 19/2025. (VI. 13.) BM rendelet 15. §-a szerint módosított szöveg.

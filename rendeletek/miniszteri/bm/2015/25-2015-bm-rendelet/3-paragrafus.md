@@ -12,11 +12,11 @@ b) fogyasztott-e kábítószert vagy a központi idegrendszer működését befo
 
 (3) Az alkoholteszter 0,10 mg/l légalkohol értéket meg nem haladó mérési eredménye orvosszakértői szempontból nem értékelhető, ezért ilyen esetben további mintavételre csak akkor kerülhet sor, ha korábban a hivatásos állomány vizsgálat alá vont tagja a szeszesital fogyasztásának tényéről nyilatkozott.
 
-(4)[^1]
+(4)[^3]
 
-(5)[^2]
+(5)[^4]
 
-(6)[^3] Ha az alkoholteszterrel végzett mérés eredménye a 0,10 mg/l légalkohol értéket meghaladja, vagy nem haladja meg, de a hivatásos állomány vizsgálat alá vont tagja korábban szeszes ital fogyasztásának tényéről nyilatkozott, a hivatásos állomány vizsgálat alá vont tagját szóban nyilatkoztatni kell arról, hogy hajlandó-e magát alávetni hiteles mérőeszközzel történő vizsgálatnak, továbbá arról, hogy szenved-e tüdőbetegségben, vagy van-e testhőmérséklet-emelkedése. Ha a hivatásos állomány vizsgálat alá vont tagja hajlandó magát a vizsgálatnak alávetni, és nyilatkozata szerint nem szenved tüdőbetegségben, és nincs testhőmérséklet-emelkedése, hiteles mérőeszközzel történő mérésre kell intézkedni.
+(6)[^5] Ha az alkoholteszterrel végzett mérés eredménye a 0,10 mg/l légalkohol értéket meghaladja, vagy nem haladja meg, de a hivatásos állomány vizsgálat alá vont tagja korábban szeszes ital fogyasztásának tényéről nyilatkozott, a hivatásos állomány vizsgálat alá vont tagját szóban nyilatkoztatni kell arról, hogy hajlandó-e magát alávetni hiteles mérőeszközzel történő vizsgálatnak, továbbá arról, hogy szenved-e tüdőbetegségben, vagy van-e testhőmérséklet-emelkedése. Ha a hivatásos állomány vizsgálat alá vont tagja hajlandó magát a vizsgálatnak alávetni, és nyilatkozata szerint nem szenved tüdőbetegségben, és nincs testhőmérséklet-emelkedése, hiteles mérőeszközzel történő mérésre kell intézkedni.
 
 (7) Ha az alkoholszondával végzett ittasság ellenőrzés eredménye pozitív, a hivatásos állomány vizsgálat alá vont tagját szóban nyilatkoztatni kell arról, hogy szenved-e tüdőbetegségben vagy van-e testhőmérséklet emelkedése. Ha a hivatásos állomány vizsgálat alá vont tagja nyilatkozata szerint nem szenved tüdőbetegségben és nincs testhőmérséklet emelkedése, a (6) bekezdés szerint kell eljárni.
 
@@ -24,6 +24,6 @@ b) fogyasztott-e kábítószert vagy a központi idegrendszer működését befo
 
 (9) Eseti jelleggel szúrópróbaszerűen is ellenőrizhető a hivatásos állomány tagjának szolgálatképes állapota.
 
-[^1]: A 3. § (4) bekezdését a 34/2024. (VIII. 8.) BM rendelet 41. § a) pontja hatályon kívül helyezte.
-[^2]: A 3. § (5) bekezdését a 34/2024. (VIII. 8.) BM rendelet 41. § a) pontja hatályon kívül helyezte.
-[^3]: A 3. § (6) bekezdése a 34/2024. (VIII. 8.) BM rendelet 36. §-ával megállapított szöveg.
+[^3]: A 3. § (4) bekezdését a 34/2024. (VIII. 8.) BM rendelet 41. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § (5) bekezdését a 34/2024. (VIII. 8.) BM rendelet 41. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (6) bekezdése a 34/2024. (VIII. 8.) BM rendelet 36. §-ával megállapított szöveg.
