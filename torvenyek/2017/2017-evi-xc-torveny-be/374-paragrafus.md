@@ -2,7 +2,7 @@
 
 374. § (1) Felülbírálati indítvány terjeszthető elő
 
-a) a távoltartás, illetve a bűnügyi felügyelet magatartási szabályainak részleges feloldására irányuló indítvány elutasítása ellen,
+a) a bűnmegelőzési célú felügyelet elrendelése ellen, valamint a távoltartás, illetve a bűnügyi felügyelet magatartási szabályainak részleges feloldására irányuló indítvány elutasítása ellen,
 
 b) az elkobzás, illetve a vagyonelkobzás biztosítása érdekében alkalmazott lefoglalás elrendelése ellen,
 

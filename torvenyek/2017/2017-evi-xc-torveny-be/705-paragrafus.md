@@ -9,3 +9,5 @@
 (4) A (3) bekezdésben meghatározott okból elrendelt letartóztatás megszűnik a terhelt szolgálati viszonyának megszűnésével.
 
 (5) Ha a honvéddel szemben olyan bűnügyi felügyeletet rendelnek el, amelynek során a bíróság a terhelt számára előírta, hogy a számára meghatározott területet ne hagyja el, ennek a korlátozásnak a megtartását a parancsnok vagy akadályoztatása esetén más elöljáró ellenőrzi.
+
+(6) Katonával szemben bűnmegelőzési célú felügyelet nem rendelhető el.

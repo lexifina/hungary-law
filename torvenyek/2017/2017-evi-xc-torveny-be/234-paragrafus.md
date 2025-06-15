@@ -4,7 +4,7 @@
 
 a) az üzletszerűen vagy bűnszövetségben elkövetett bűncselekmény,
 
-b) a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
+b) a Btk. 178. § (6) bekezdése szerinti kábítószer birtoklása a Btk. 180. § (1) bekezdés c) pontja szerinti feltétel teljesülésének a hiányában, a tudatmódosító anyaggal visszaélés, a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
 
 c) a szexuális visszaélés, a kerítés, a prostitúció elősegítése, a kitartottság, a gyermekprostitúció kihasználása, a gyermekpornográfia,
 

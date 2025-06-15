@@ -12,9 +12,11 @@ b) a távoltartás,
 
 c) a bűnügyi felügyelet,
 
-d) a letartóztatás és
+d) a letartóztatás
 
-e) az előzetes kényszergyógykezelés [a b)–e) pont a továbbiakban együtt: személyi szabadságot érintő bírói engedélyes kényszerintézkedés].
+e) az előzetes kényszergyógykezelés [a b)–e) pont a továbbiakban együtt: személyi szabadságot érintő bírói engedélyes kényszerintézkedés], valamint
+
+f) a bűnmegelőzési célú felügyelet.
 
 (3) Vagyont érintő kényszerintézkedés
 

@@ -40,7 +40,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 13. az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a pszichiátriai fekvőbeteg-intézetben az elmeállapot megfigyelésével kapcsolatos költségeket és ezek elszámolását az egészségügyért felelős miniszterrel egyetértésben,
 
-14. a bűnügyi felügyelet és a távoltartás végrehajtásának szabályait a rendészetért felelős miniszterrel egyetértésben,
+14. a bűnügyi felügyelet, a távoltartás és a bűnmegelőzési célú felügyelet végrehajtásának szabályait a rendészetért felelős miniszterrel egyetértésben,
 
 15. az óvadék letétele esetén a bírósági letét szabályait,
 
