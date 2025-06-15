@@ -30,7 +30,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 5.4. Btk. 183. § (1) bekezdés – Kábítószer-prekurzorral visszaélés bűntette
 
-5.5.[^72] Btk. 184/B. § (2) bekezdés b) pont, (2b) és (3) bekezdés – Bűnszövetségben elkövetett, illetve különösen jelentős mennyiségű új pszichoaktív anyag előállításával megvalósított új pszichoaktív anyaggal visszaélés bűntette, valamint a Btk. 184/B. § (1)–(2b) bekezdésében meghatározott bűncselekmény elkövetéséhez anyagi eszközök szolgáltatásával megvalósított új pszichoaktív anyaggal visszaélés
+5.5.[^72]
 
 6. Btk. XVIII. Fejezet – az emberi szabadság elleni bűncselekmények
 
@@ -180,7 +180,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 [^70]: A 2. melléklet 5. pontja a 32/2019. (VII. 31.) BM rendelet 4. §-ával megállapított szöveg.
 [^71]: A 2. melléklet 5.2. pontját a 11/2020. (IV. 27.) BM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^72]: A 2. melléklet 5.5. pontja a 66/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
+[^72]: A 2. melléklet 5. pont 5.5. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
 [^73]: A 2. melléklet 6.5. pontja a 66/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
 [^74]: A 2. melléklet 8.1. pontja az 50/2022. (XII. 27.) BM rendelet 6. § b) pontja szerint módosított szöveg.
 [^75]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 11/2020. (IV. 27.) BM rendelet 3. § b) pontja.

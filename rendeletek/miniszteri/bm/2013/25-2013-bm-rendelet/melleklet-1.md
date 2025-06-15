@@ -60,13 +60,13 @@ A vármegyei (fővárosi) rendőr-főkapitányságok hatáskörébe tartozó bű
 
 3.9.[^33] Btk. 182. § (3) bekezdés b) pont – Üzletszerűen elkövetett kábítószer készítésének elősegítése bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-3.10.[^34] Btk. 184. § (2)–(3) bekezdés – Bűnszövetségben, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva, vagy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett új pszichoaktív anyaggal visszaélés bűntette, illetve jelentős mennyiségű új pszichoaktív anyagra elkövetett új pszichoaktív anyaggal visszaélés bűntette, valamint az e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatásával megvalósított új pszichoaktív anyaggal visszaélés bűntette
+3.10.[^34]
 
-3.11.[^35] Btk. 184/A. § (2) és (3) bekezdés – Bűnszövetségben elkövetett, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva elkövetett, jelentős mennyiségű új pszichoaktív anyagra elkövetett új pszichoaktív anyaggal visszaélés bűntette, valamint az e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatásával megvalósított új pszichoaktív anyaggal visszaélés bűntette
+3.11.[^35]
 
-3.12.[^36] Btk. 184/B. § (2) bekezdés a) és c) pont, (2a) bekezdés, (3) bekezdés – Üzletszerűen elkövetett, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva elkövetett, illetve jelentős mennyiségű új pszichoaktív anyag előállításával megvalósított új pszichoaktív anyaggal visszaélés bűntette, valamint az e bűncselekmény elkövetéséhez anyagi eszközök szolgáltatásával megvalósított új pszichoaktív anyaggal visszaélés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+3.12.[^36]
 
-3.13.[^37] Btk. 184/C. § (2a) és (3) bekezdés – Jelentős mennyiségű új pszichoaktív anyagra elkövetett új pszichoaktív anyaggal visszaélés bűntette, valamint az e bűncselekmény elkövetéséhez kapcsolódóan anyagi eszközök szolgáltatásával megvalósított új pszichoaktív anyaggal visszaélés bűntette
+3.13.[^37]
 
 3.14.[^38] Btk. 185. § (2) és (3) bekezdés – Üzletszerűen vagy bűnszövetségben elkövetett teljesítményfokozó szerrel visszaélés bűntette, valamint teljesítményfokozó szerrel visszaélés bűntette, ha a bűncselekmény folytán tizennyolcadik életévét be nem töltött személy jut tiltott teljesítményfokozó szerhez, illetve ha a tiltott teljesítményfokozó szer előállítását, kínálását, átadását vagy forgalomba hozatalát tizennyolcadik életévét be nem töltött személy felhasználásával követik el, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -364,10 +364,10 @@ Az e fejezetben felsorolt valamennyi bűncselekmény.
 [^31]: Az 1. melléklet 1. pont 1.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 5. pontja szerint módosított szöveg.
 [^32]: Az 1. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 6. pontja szerint módosított szöveg.
 [^33]: Az 1. melléklet 3. pont 3.9. alpontja a 32/2019. (VII. 31.) BM rendelet 3. §-ával megállapított szöveg.
-[^34]: Az 1. melléklet 3.10. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^35]: Az 1. melléklet 3.11. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^36]: Az 1. melléklet 3.12. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^37]: Az 1. melléklet 3.13. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^34]: Az 1. melléklet 3. pont 3.10. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^35]: Az 1. melléklet 3. pont 3.11. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^36]: Az 1. melléklet 3. pont 3.12. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^37]: Az 1. melléklet 3. pont 3.13. alpontját a 19/2025. (VI. 13.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
 [^38]: Az 1. melléklet 3.14. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
 [^39]: Az 1. melléklet 3.15. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
 [^40]: Az 1. melléklet 3.16. pontja a 66/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
