@@ -1,0 +1,1 @@
+3/C. § Ezen alcím alkalmazásában kábítószer az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén szereplő anyag, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő anyag, valamint 3. mellékletében meghatározott új pszichoaktív anyag.

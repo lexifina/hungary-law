@@ -18,7 +18,7 @@ ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabads
 
 ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 
-ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
+ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, tudatmódosító anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
 
 ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, információs rendszer vagy adat megsértése, online hálózaton elkövetett csalás, információs rendszer védelmét biztosító technikai intézkedés kijátszása, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
 
