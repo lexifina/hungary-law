@@ -12,6 +12,8 @@ Foglalkoztatást kizáró oknak minősülő bűncselekmények
 
 4. a Btk. 183. § (2) bekezdése szerinti kábítószer-prekurzorral visszaélés,
 
+4a. a Btk. 184. §-a szerinti tudatmódosító anyaggal visszaélés,
+
 5. a Btk. 188. § (1) bekezdése szerinti méreggel visszaélés,
 
 6. a Btk. 205. § (1) bekezdése szerinti szeméremsértés,
