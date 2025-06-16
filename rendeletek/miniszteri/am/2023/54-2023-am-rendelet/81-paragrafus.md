@@ -1,9 +1,11 @@
-81. § (1) Ha a kedvezményezett a 80. § (3) bekezdése szerinti fizetési számlával nem rendelkezik, az előleg és az abból történő kifizetés teljesítésére valamely hitelintézetnél fizetési számlát (a továbbiakban: projektszámla) nyit.
+81. §[^203] (1) Az előleget kizárólag a művelet megvalósítására lehet felhasználni. Az előleg elszámolását a 84. § (1) bekezdésben foglaltak teljesítése mellett az igényelt előleg folyósítását követően benyújtandó kifizetési kérelemben, amelynek benyújtása – felhívás eltérő rendelkezése hiányában – nem eshet az előleg folyósításának napját követő 12 hónapnál későbbi időpontra, meg kell kezdeni.
 
-(2) A projektszámla forintban vezetett, a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 21. § (2) bekezdése szerinti korlátozott rendeltetésű számla, amely felett a kedvezményezett rendelkezik.
+(2) Az előleg teljes összegével legkésőbb a záró kifizetési kérelemben el kell számolni. Az előleg teljes összegének elszámolása akkor minősül teljesítettnek, ha a kedvezményezett által elszámolni kívánt elszámolható költségek alapján a megállapított támogatás összegéből a kedvezményezett részére megítélt előleg teljes összege a vonatkozó kifizetési döntésben levonásra került.
 
-(3) A kedvezményezett a projektszámla megnyitását az előlegre vonatkozó kérelem benyújtásával egyidejűleg igazolja. A kedvezményezett az előlegre vonatkozó döntésről, annak közlésétől számított három napon belül tájékoztatja a hitelintézetet.
+(3) Ha a kedvezményezett által elszámolni kívánt költségek alapján számított támogatás összege meghaladja a támogatási döntésben meghatározott támogatási összeg 80%-ának az el nem számolt előleg összegével csökkentett részét, a Nemzeti Kifizető Ügynökség az előleggel való elszámolás kezdeményezésének tekinti a benyújtott kifizetési kérelmet.
 
-(4) Ha a kedvezményezett több műveletet valósít meg, a felmerült költségek kezelése az egyes műveletekhez tartozó elkülönült projektszámlán történik.
+(4) Ha a kedvezményezett az előleggel nem, vagy csak részben számol el, a kedvezményezett terhére támogatás jogosulatlan igénybevételének megállapítására kerül sor, amely alapján a támogató az agrártámogatási jogviszonyt keletkeztető döntését visszavonhatja.
 
-(5) A projektszámla betétlekötés és készpénztranzakció teljesítésére nem használható. A projektszámlához hitelkeret nem kapcsolódhat. A projektszámlához bankkártya kapcsolódhat.
+(5) A kifizetett, de el nem számolt előleg összegét a kedvezményezettnek vissza kell fizetnie.
+
+[^203]: A 81. § a 23/2025. (VI. 13.) AM rendelet 10. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet az 54/2023. (IX. 13.) AM rendelethez[^220]
+3. melléklet az 54/2023. (IX. 13.) AM rendelethez[^254]
 
 Az árajánlat kötelező tartalmi elemei
 
@@ -28,4 +28,4 @@ j) az ajánlatadó nyilatkozata arról, hogy az ajánlat tárgyát képező tét
 
 4. Az árajánlathoz továbbá csatolni kell a tételről a gyártó által készített, műszaki paraméterekre vonatkozó termékleírást. Amennyiben készült a prospektusról magyar nyelvű kiadás, úgy annak benyújtása, ennek hiányában lehetőleg angol nyelvű változat csatolása szükséges.
 
-[^220]: A 3. melléklet a 48/2024. (IX. 5.) AM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^254]: A 3. melléklet a 48/2024. (IX. 5.) AM rendelet 32. § (1) bekezdésével megállapított szöveg.

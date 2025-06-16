@@ -18,7 +18,7 @@ foglaltak szerint, kérelemmel igényelhető.
 
 a) a honlapján közleményt, valamint tájékoztatót tesz közzé,
 
-b) elektronikuskérelem-benyújtó felületet vagy elektronikus űrlapot (a továbbiakban együtt: elektronikus felület) biztosít, illetve közleménnyel nyomtatványt, iratmintát rendszeresít.
+b)[^14] a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 2. § 5. pontja szerinti elektronikus űrlapnak minősülő elektronikus kérelem-benyújtó felületet vagy elektronikus űrlapot (a továbbiakban együtt: elektronikus felület) biztosít, illetve közleménnyel nyomtatványt, iratmintát rendszeresít.
 
 (4) A kedvezményezett köteles az eljárás során a (3) bekezdés szerinti elektronikus felületet vagy nyomtatványt alkalmazni.
 
@@ -30,9 +30,10 @@ b) elektronikuskérelem-benyújtó felületet vagy elektronikus űrlapot (a tov�
 
 (8) A miniszter – az éven túli kötelezettségvállalásokra vonatkozó szabályokra is figyelemmel – keretkimerülésről közleményt ad ki.
 
-(9)[^14] Az eljárásban a KAP törvény 11. § (5) bekezdés a) pont aa) alpontjától eltérően jogutódlás esetén a 16. életévét be nem töltött természetes személy is részt vehet.
+(9)[^15] Az eljárásban a KAP törvény 11. § (5) bekezdés a) pont aa) alpontjától eltérően kizárólag az 50. § szerinti jogutódlás esetén a 16. életévét be nem töltött természetes személy is részt vehet.
 
 [^11]: A 3. § (2) bekezdés a) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 2. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
 [^12]: A 3. § (2) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
 [^13]: [A 3. § (3) bekezdésében a 48/2024. (IX. 5.) AM rendelet 33. § 3. pontja által elrendelt módosítás, amely szerint a „tesz közzé,” szövegrész helyébe a „tesz közzé, vagy közvetlenül tájékoztatást küld, továbbá” szöveg lép, nem vezethető át.]
-[^14]: A 3. § (9) bekezdését a 48/2024. (IX. 5.) AM rendelet 3. §-a iktatta be.
+[^14]: A 3. § (3) bekezdés b) pontja a 23/2025. (VI. 13.) AM rendelet 16. § 1. pontja szerint módosított szöveg.
+[^15]: A 3. § (9) bekezdését a 48/2024. (IX. 5.) AM rendelet 3. §-a iktatta be, szövege a 23/2025. (VI. 13.) AM rendelet 16. § 2. pontja szerint módosított szöveg.

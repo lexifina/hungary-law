@@ -1,4 +1,4 @@
-79/A. §[^173] (1) Indokolt esetben a kedvezményezett a következő szempontok szerint a műveleten belül költségvetés-módosítást kezdeményezhet:
+79/A. §[^201] (1) Indokolt esetben a kedvezményezett a következő szempontok szerint a műveleten belül költségvetés-módosítást kezdeményezhet:
 
 a) az egyes költségek támogatási okiratban jóváhagyott tevékenységen belüli módosítása nem minősül a 79. § szerinti változás-bejelentésnek, és azt a kifizetési kérelemben kell kezdeményezni;
 
@@ -26,4 +26,4 @@ f) az áfa-levonási jogosultságban vagy egyes beszerzett termékek, szolgálta
 
 (3) Az (1) bekezdés szerinti költségátcsoportosítás a kifizetési kérelemben érvényesíthető.
 
-[^173]: A 79/A. §-t a 48/2024. (IX. 5.) AM rendelet 16. §-a iktatta be.
+[^201]: A 79/A. §-t a 48/2024. (IX. 5.) AM rendelet 16. §-a iktatta be.

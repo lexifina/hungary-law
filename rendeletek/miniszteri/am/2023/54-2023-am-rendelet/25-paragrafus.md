@@ -8,13 +8,13 @@
 
 (4) Hiánypótlásra azonos tárgykörben – jogszabály vagy pályázati felhívás eltérő rendelkezése hiányában – csak egyszer van lehetőség.
 
-(5)[^66] Az (1) bekezdés szerinti hiánypótlásnak a saját hatáskörben indult eljárás során és a döntés saját hatáskörben történő felülvizsgálata során is helye van.
+(5)[^76] Az (1) bekezdés szerinti hiánypótlásnak a saját hatáskörben indult eljárás során és a döntés saját hatáskörben történő felülvizsgálata során is helye van.
 
 (6) Hiánypótlásra való felhívásnak a KAP törvény 17. § (1) bekezdése szerinti nyilvántartások adattartalmával kapcsolatban nincs helye.
 
-(7)[^67] A kérelem benyújtási időszak lejártát követően benyújtott önkéntes hiánypótlást – jogszabály vagy pályázati felhívás eltérő rendelkezése hiányában – a döntés meghozatalánál kizárólag abban az esetben lehet figyelembe venni, ha ugyanazon tárgyban az ellenőrzés során hiánypótlásra kerülne sor.
+(7)[^77] A kérelem benyújtási időszak lejártát követően benyújtott önkéntes hiánypótlást – jogszabály vagy pályázati felhívás eltérő rendelkezése hiányában – a döntés meghozatalánál kizárólag abban az esetben lehet figyelembe venni, ha ugyanazon tárgyban az ellenőrzés során hiánypótlásra kerülne sor.
 
 (8) Ha jogszabály vagy pályázati felhívás a hiánypótlást kizárja, akkor a kérelem benyújtási időszak lejártát követően benyújtott önkéntes hiánypótlást a döntés meghozatalánál nem lehet figyelembe venni.
 
-[^66]: A 25. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 13. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^67]: A 25. § (7) bekezdése a 48/2024. (IX. 5.) AM rendelet 33. § 18. pontja szerint módosított szöveg.
+[^76]: A 25. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 13. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^77]: A 25. § (7) bekezdése a 48/2024. (IX. 5.) AM rendelet 33. § 18. pontja szerint módosított szöveg.

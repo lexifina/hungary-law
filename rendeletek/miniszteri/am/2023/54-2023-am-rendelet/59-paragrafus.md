@@ -1,3 +1,5 @@
-59. §[^140] Ha a jogorvoslati kérelem elbírálása során a miniszter megállapítja, hogy a jogorvoslati kérelemmel érintett döntés alapját képező másik támogatói döntés jogszabálysértő, akkor a 33. § (1) bekezdése szerinti eljárás lefolytatására hívja fel a támogatót.
+59. §[^158] (1) Ha a jogorvoslati kérelem elbírálása során a miniszter megállapítja, hogy a jogorvoslati kérelemmel érintett döntés alapját képező másik támogatói döntés jogszabálysértő, a 33. § (1) bekezdése szerinti eljárás lefolytatására hívja fel a támogatót.
 
-[^140]: Az 59. § a 24/2024. (IV. 9.) AM rendelet 24. §-ával megállapított, a 48/2024. (IX. 5.) AM rendelet 33. § 31. pontja szerint módosított szöveg.
+(2) Az (1) bekezdés szerint elrendelt felülvizsgálati eljárás lezárásáig a jogorvoslati eljáráshoz kapcsolódó határidő nyugszik.
+
+[^158]: Az 59. § a 23/2025. (VI. 13.) AM rendelet 6. §-ával megállapított szöveg.

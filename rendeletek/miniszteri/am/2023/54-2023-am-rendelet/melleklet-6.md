@@ -1,4 +1,4 @@
-6. melléklet az 54/2023. (IX. 13.) AM rendelethez[^224]
+6. melléklet az 54/2023. (IX. 13.) AM rendelethez[^260]
 
 A kifizetési kérelemben benyújtandó alátámasztó dokumentumok ellenőrzési szempontjai
 
@@ -556,11 +556,11 @@ Szakmai rendezvény esetén a teljesítés igazolása a 9.1–9.4. pontban megha
 
 10.1.1. Személy jellegű költségek összesítője.
 
-10.1.1.1. Az összesítőn kizárólag a projektmenedzsment tevékenységében vagy művelethez kapcsolódó személyi jellegű költségei találhatók.
+10.1.1.1.[^261] Az összesítőn kizárólag a műveletmenedzsment tevékenységében vagy művelethez kapcsolódó személyi jellegű költségei találhatók.
 
 10.1.1.2. Az összesítőn minden tételnél beazonosítható, hogy mely költségvetési sor terhére kívánja azt a kedvezményezett elszámolni.
 
-10.1.1.3. A kiadások a projektmenedzsmentjéhez, előkészítéséhez vagy szakmai megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
+10.1.1.3.[^262] A kiadások a műveletmenedzsmentjéhez, előkészítéséhez vagy szakmai megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
 
 10.1.1.4. A járulékok a jogszabályoknak megfelelően, az elszámolni kívánt bérrel arányosan kerültek megállapításra.
 
@@ -590,9 +590,9 @@ Szakmai rendezvény esetén a teljesítés igazolása a 9.1–9.4. pontban megha
 
 10.2.1. Összesítő az utazási és kiküldetési költségtérítés elszámolásához
 
-10.2.1.1. Az összesítő kizárólag a projektmenedzsment tevékenységében vagy megvalósításában részt vevők művelethez kapcsolódó útiköltségeit és kiküldetési költségeit tartalmazza.
+10.2.1.1.[^263] Az összesítő kizárólag a műveletmenedzsment tevékenységében vagy megvalósításában részt vevők művelethez kapcsolódó útiköltségeit és kiküldetési költségeit tartalmazza.
 
-10.2.1.2. A kiadások a projektmenedzsmenthez vagy megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
+10.2.1.2.[^264] A kiadások a műveletmenedzsmenthez vagy megvalósításához szorosan kapcsolódnak, a művelet keretében elszámolhatók.
 
 10.2.2. Kiküldetési rendelvény, kiküldetési utasítás vagy menetlevél
 
@@ -652,4 +652,8 @@ Szakmai rendezvény esetén a teljesítés igazolása a 9.1–9.4. pontban megha
 
 13.1.1.4. Ha fordított áfa-előleg elszámolást tartalmaz a fordított áfa-összesítő, úgy azt az adóhatóság felé történt bevallástól, befizetéstől számított 5 munkanapon belül nyújtotta be.
 
-[^224]: A 6. mellékletet a 48/2024. (IX. 5.) AM rendelet 32. § (4) bekezdése iktatta be.
+[^260]: A 6. mellékletet a 48/2024. (IX. 5.) AM rendelet 32. § (4) bekezdése iktatta be.
+[^261]: A 6. melléklet 10.1.1.1. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 27. pontja szerint módosított szöveg.
+[^262]: A 6. melléklet 10.1.1.3. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 28. pontja szerint módosított szöveg.
+[^263]: A 6. melléklet 10.2.1.1. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 27. pontja szerint módosított szöveg.
+[^264]: A 6. melléklet 10.2.1.2. pontja a 23/2025. (VI. 13.) AM rendelet 16. § 29. pontja szerint módosított szöveg.

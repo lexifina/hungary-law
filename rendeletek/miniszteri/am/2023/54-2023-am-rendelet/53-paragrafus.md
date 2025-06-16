@@ -1,14 +1,14 @@
 ## 27. Fizetési kedvezmény
 
-53. § (1)[^128] A kedvezményezett által a visszafizetési kötelezettséget elrendelő döntés véglegessé válását követő három hónapon belül benyújtott kérelmére, a KAP törvény hatálya alá tartozó intézkedésekkel összefüggésben előírt fizetési kötelezettsége teljesítésére fizetési halasztás vagy részletfizetés (a továbbiakban együtt: fizetési kedvezmény) engedélyezhető legfeljebb tizennyolc hónapra. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
+53. § (1)[^144] A kedvezményezett által a visszafizetési kötelezettséget elrendelő döntés véglegessé válását követő három hónapon belül benyújtott kérelmére, a KAP törvény hatálya alá tartozó intézkedésekkel összefüggésben előírt fizetési kötelezettsége teljesítésére fizetési halasztás vagy részletfizetés (a továbbiakban együtt: fizetési kedvezmény) engedélyezhető legfeljebb tizennyolc hónapra. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
 
-a)[^129] a kedvezményezettnek nem róható fel, és bizonyítja, hogy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható, és
+a)[^145] a kedvezményezettnek nem róható fel, és bizonyítja, hogy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható, és
 
-b)[^130] átmeneti jellegű, tehát a tartozás kérelmezett futamidőn belüli megfizetése valószínűsíthető.
+b)[^146] átmeneti jellegű, tehát a tartozás kérelmezett futamidőn belüli megfizetése valószínűsíthető.
 
-(1a)[^131] Fizetési kedvezmény iránti kérelem az agrártámogatási jogviszony megszűnését követően nem nyújtható be.
+(1a)[^147] Fizetési kedvezmény iránti kérelem az agrártámogatási jogviszony megszűnését követően nem nyújtható be.
 
-(1b)[^132] A Nemzeti Kifizető Ügynökség az (1) bekezdés szerinti három hónapos határidő alatt is megkeresheti az állami adóhatóságot a lejárt, esedékes tartozás adók módjára behajtandó köztartozás végrehajtásának érdekében.
+(1b)[^148] A Nemzeti Kifizető Ügynökség az (1) bekezdés szerinti három hónapos határidő alatt is megkeresheti az állami adóhatóságot a lejárt, esedékes tartozás adók módjára behajtandó köztartozás végrehajtásának érdekében.
 
 (2) Természetes személy esetében a fizetési kedvezmény az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha igazolja, hogy a tartozás azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos megterhelést jelent.
 
@@ -20,8 +20,8 @@ b)[^130] átmeneti jellegű, tehát a tartozás kérelmezett futamidőn belüli 
 
 (6) Az eljárásban nincs lehetőség a fennálló követelés elengedésére, mérséklésére. A Nemzeti Kifizető Ügynökség a tárgyévben ugyanazon intézkedés alapján nyilvántartott, ezer forintot el nem érő tartozás megfizetésére a kedvezményezettet nem kötelezi, és a tartozást nyilvántartásában leírja.
 
-[^128]: Az 53. § (1) bekezdés nyitó szövegrésze a 24/2024. (IV. 9.) AM rendelet 33. § 37. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^129]: Az 53. § (1) bekezdés a) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 38. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^130]: Az 53. § (1) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 39. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^131]: Az 53. § (1a) bekezdését a 48/2024. (IX. 5.) AM rendelet 9. §-a iktatta be.
-[^132]: Az 53. § (1b) bekezdését a 48/2024. (IX. 5.) AM rendelet 9. §-a iktatta be.
+[^144]: Az 53. § (1) bekezdés nyitó szövegrésze a 24/2024. (IV. 9.) AM rendelet 33. § 37. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^145]: Az 53. § (1) bekezdés a) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 38. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^146]: Az 53. § (1) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 39. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^147]: Az 53. § (1a) bekezdését a 48/2024. (IX. 5.) AM rendelet 9. §-a iktatta be.
+[^148]: Az 53. § (1b) bekezdését a 48/2024. (IX. 5.) AM rendelet 9. §-a iktatta be.

@@ -10,6 +10,9 @@
 
 (5) A (4) bekezdéstől eltérően a támogató a kérelemnek részben vagy egészben helyt adó döntés helyt adó része alapján a támogatást a jogorvoslati eljárásra tekintet nélkül a kedvezményezett részére folyósítja.
 
-(6)[^135] A 11. § (2) bekezdés a) pontja szerinti kérelemre hozott támogatási vagy kifizetési döntéssel szemben egy jogorvoslati kérelem benyújtására van lehetőség.
+(6)[^151] A 11. § (2) bekezdés a) pontja szerinti kérelemre hozott támogatási vagy kifizetési döntéssel szemben egy jogorvoslati kérelem benyújtására van lehetőség.
 
-[^135]: Az 55. § (6) bekezdését a 48/2024. (IX. 5.) AM rendelet 11. §-a iktatta be.
+(7)[^152] A kérelem 24. § b), e) és i) pontja szerinti visszautasítása esetén jogorvoslati kérelem benyújtásának nincs helye.
+
+[^151]: Az 55. § (6) bekezdését a 48/2024. (IX. 5.) AM rendelet 11. §-a iktatta be.
+[^152]: Az 55. § (7) bekezdését a 23/2025. (VI. 13.) AM rendelet 5. §-a iktatta be.

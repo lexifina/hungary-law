@@ -146,7 +146,7 @@
 
 | 73. | 6.3.1. | Minta a tárgyiasult szolgáltatásról elektronikus adathordozón dokumentáltan (fotó, hangfelvétel, videó), a művelet-tevékenységhez kapcsolódó, nem a felhívás keretében meghatározott kötelező kommunikációs tevékenységek eredménye: kiadványok, információs füzetek, elektronikus megjelenés, képzések meghirdetése, tudatosság növelése, tájékoztatás, kommunikációs kampányok stb.) | A költség elszámolásakor, illetve a záró kifizetési kérelemmel |  |
 
-| 74. | 6.4. | Projektmenedzsment |  |  |
+| 74.[^256] | 6.4. | Műveletmenedzsment |  |  |
 
 | 75. | 6.4.1. | Kizárólag technikai segítségnyújtás keretében támogatott, személyi jellegű ráfordítások finanszírozását szolgáló műveletek esetén az 5.1.1–5.1.3. azonosító szerinti dokumentumok benyújtása (5.1. Személyi jellegű költségek) | A költség elszámolásakor |  |
 
@@ -198,7 +198,7 @@
 
 | 99. | 14. | Felhívásban előírt kötelezettségek és vállalások, valamint megemelt támogatási intenzitásra jogosító szempont (pl. gazdaságátadás) teljesítésének alátámasztását igazoló dokumentumok | A felhívás előírása szerint, az első /az elszámolással érintett / a záró kifizetési kérelem benyújtásakor |  |
 
-5. melléklet az 54/2023. (IX. 13.) AM rendelethez[^222]
+5. melléklet az 54/2023. (IX. 13.) AM rendelethez[^257]
 
 ÚTMUTATÓaz elszámolható költségekhez
 
@@ -324,7 +324,7 @@
 
 3.2.1.5. szükséges engedélyezési dokumentumok, műszaki tervek, kiviteli és tendertervek és ezek hatósági díjának (illeték, igazgatási szolgáltatási díj, egyéb eljárási költség) költségei, ideértve a művelési ág váltását, művelési ágból való kivétel adminisztratív költségét is,
 
-3.2.1.6. tervellenőr költsége, ha alkalmazása jogszabály alapján kötelező,
+3.2.1.6.[^258] tervellenőr költsége,
 
 3.2.1.7. közbeszerzési eljárások lebonyolításával kapcsolatos költségek (ideértve a közbeszerzési eljárások lebonyolításával kapcsolatos szakértő díját is),
 
@@ -466,7 +466,7 @@ b) a beruházás célja
 
 3.4.3.14. a fejlesztés tárgyára vonatkozó, az üzembe helyezést követően felmerülő vagyonbiztosítás (pl. a művelet keretében beszerzett és használt nagy értékű eszközök külön biztosítása) díja a megvalósítási időszak végéig számolható el, az üzembe helyezést megelőzően felmerülő, a beszerzett tárgyi eszközhöz kötődő, a bekerülési érték részét képező biztosítási díj az eszközbeszerzések között számolandó el,
 
-3.4.3.15. [^223] a beruházás megvalósításához felvett hitelhez az Agrár-Vállalkozási Hitelgarancia Alapítvány által nyújtott készfizető kezességvállalás díja.
+3.4.3.15. [^259] a beruházás megvalósításához felvett hitelhez az Agrár-Vállalkozási Hitelgarancia Alapítvány által nyújtott készfizető kezességvállalás díja.
 
 3.4.4. A művelet megvalósításával kapcsolatban közvetve felmerülő, általános szolgáltatások:
 
@@ -792,5 +792,7 @@ b) a beruházás célja
 
 5.1.7. a bírságok, kedvezményezett által fizetett kötbérek és a polgári perrendtartásról szóló törvény szerinti perköltség, függetlenül attól, hogy bíróság által megítélésre került-e.
 
-[^222]: Az 5. melléklet a 48/2024. (IX. 5.) AM rendelet 32. § (3) bekezdésével megállapított szöveg.
-[^223]: Beiktatta: 24/2024. (IV. 9.) AM rendelet 32. § (2) bekezdés, 2. melléklet. Hatályos: 2024. IV. 10-től. Lásd: 24/2024. (IV. 9.) AM rendelet 35. §.
+[^256]: A 4. mellékletben foglalt táblázat 74. sora a 23/2025. (VI. 13.) AM rendelet 15. §-ával megállapított szöveg.
+[^257]: Az 5. melléklet a 48/2024. (IX. 5.) AM rendelet 32. § (3) bekezdésével megállapított szöveg.
+[^258]: Az 5. melléklet 3.2.1.6. pontja a 23/2025. (VI. 13.) AM rendelet 17. § 7. pontja szerint módosított szöveg.
+[^259]: Beiktatta: 24/2024. (IV. 9.) AM rendelet 32. § (2) bekezdés, 2. melléklet. Hatályos: 2024. IV. 10-től. Lásd: 24/2024. (IV. 9.) AM rendelet 35. §.
