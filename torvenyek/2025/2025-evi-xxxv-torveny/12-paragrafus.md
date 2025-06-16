@@ -1,7 +1,3 @@
 ## 6. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-12. § Az atomenergiáról szóló 1996. évi CXVI. törvény 11. § (3) bekezdés b) pont 3. alpontja helyébe a következő rendelkezés lép:
-
-[A nukleáris létesítményben, radioaktívhulladék-tárolókban, továbbá a létesítmény hatósági felügyeletével, tervezésével, építésével, üzemeltetésével és átalakításával, megszüntetésével, lezárásával és intézményes ellenőrzésével, a nukleáris létesítmény fizikai védelmi rendszerének tervezésével, üzemeltetésével és karbantartásával, a nukleáris rendszer, rendszerelem karbantartásával, valamint a – jogszabályban meghatározott – I., II. és III. kategóriába tartozó nukleáris, 1-es, 2-es és 3-as veszélyességi kategóriába tartozó zárt radioaktív sugárforrások, 1-es, 2-es és 3-as veszélyességi kategóriába tartozó nyitott radioaktív sugárforrások, valamint 1-es és 2-es veszélyességi kategóriába tartozó radioaktív hulladékok kezelésével, felhasználásával, tárolásával, szállításával, szállítmányok kísérésével, ezek fizikai védelmi rendszerének tervezésével, üzemeltetésével és karbantartásával, valamint a fenti kategóriába tartozó sugárforrásokkal kapcsolatos sugárvédelmi felügyeleti tevékenység irányításával összefüggő munkakörökben nem foglalkoztatható az a személy:
-
-akit a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben vagy a Btk.-ban meghatározott alábbi bűncselekmények elkövetése miatt a bíróság elítélt, és a (4) bekezdésben meghatározott időtartam még nem telt el:]
+### 12. §
