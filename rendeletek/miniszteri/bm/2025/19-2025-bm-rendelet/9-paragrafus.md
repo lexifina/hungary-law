@@ -1,5 +1,5 @@
-## 6.[^6]
+## 6.[^8]
 
 9. §
 
-[^6]: A 6. alcím a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^8]: A 6. alcím a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.

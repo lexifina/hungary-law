@@ -1,1 +1,3 @@
-15. § Hatályát veszti az Országgyűlési Őrség hivatásos állományú tagjainak szolgálatképes állapota megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok köréről és a vizsgálat végrehajtásának szabályairól szóló 25/2015. (VI. 15.) BM rendelet 4. § (2) bekezdés b) pontjában, 4. § (3) bekezdés d) pontjában és 6. § (4) bekezdés b) pont ba) alpontjában a „ , pszichotróp anyag, új pszichoaktív anyag” szövegrész.
+15. §[^14]
+
+[^14]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
