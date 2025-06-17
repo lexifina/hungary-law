@@ -1,4 +1,4 @@
-2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^9]
+2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^12]
 
 ## A Központ kábítószer adat- és információgyűjtő tevékenységében adat-, illetve információ-szolgáltatási kötelezettség teljesítésével feladatkörük szerint résztvevő minisztériumok, egyéb állami szervek:
 
@@ -40,4 +40,4 @@
 
 19. Szociális és Gyermekvédelmi Főigazgatóság
 
-[^9]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
