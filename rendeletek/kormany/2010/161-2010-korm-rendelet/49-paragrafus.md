@@ -1,7 +1,9 @@
 ## 22. A TEMPEST követelmények érvényesítése
 
-49. § (1)[^53] A „Titkos!” és „Szigorúan titkos!” minősítési szintű nemzeti minősített adatot kezelő rendszer, valamint a „Bizalmas!” és magasabb minősítési szintű külföldi minősített adatot kezelő rendszer védelme megfelel a TEMPEST követelményeknek.
+49. §[^53] (1) A „Bizalmas!” és magasabb minősítési szintű külföldi minősített adatot kezelő rendszer, valamint az adminisztratív zóna határától legfeljebb 8 méterre elhelyezkedő „Titkos!” és „Szigorúan titkos!” minősítési szintű nemzeti minősített adatot kezelő rendszer esetén a minősített adatot kezelő szerv gondoskodik a TEMPEST követelmények teljesítéséről.
 
-(2) A TEMPEST követelmények kiterjednek a rendszer környezetében alkalmazható berendezésekre, elektromos árnyékolástechnikai megoldásokra, csökkentett kisugárzású hardver eszközök alkalmazására, az építészeti, épületgépészeti, épületvillamossági, valamint a rendszerhez tartozó vagy a rendszer környezetében található fém berendezések földelésére.
+(2) Az adminisztratív zóna határától legfeljebb 8 méterre elhelyezkedő „Titkos!” és „Szigorúan titkos!” minősítési szintű nemzeti minősített adatot kezelő rendszer esetén a legmagasabb TEMPEST védelmet biztosító rendszerelemek alkalmazása szükséges.
 
-[^53]: A 49. § (1) bekezdését a 318/2015. (X. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+(3) Ha a (2) bekezdés szerinti TEMPEST védelmet biztosító rendszerelemek alkalmazása nem lehetséges, az NBF helyszíni szemle keretében, a TEMPEST biztonsági követelményekben meghatározottak szerint állapítja meg a TEMPEST védelem biztosítása érdekében alkalmazandó intézkedéseket.
+
+[^53]: A 49. § a 137/2025. (VI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
