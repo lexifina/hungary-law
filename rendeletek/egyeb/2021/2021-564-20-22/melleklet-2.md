@@ -20,7 +20,9 @@
 
 | 9. | kábítószerfüggő személy által elkövetett kábítószerrel visszaélés | 282/C. § (2)–(4) bekezdés |
 
-| 10. | új pszichoaktív anyaggal visszaélés | 184. § 184/A. § 184/B. § 184/C. § | új pszichoaktív anyaggal visszaélés | 283/B. § |
+| 10. | új pszichoaktív anyaggal visszaélés (2025. június 15-ét megelőzően)[^17] | 184. § 184/A. § 184/B. § 184/C. § | új pszichoaktív anyaggal visszaélés | 283/B. § |
+
+| 10a.[^18] | Kábítószerrel kapcsolatos bűncselekmények | tudatmódosító anyaggal visszaélés | 184. § |  |  |
 
 | 11. | Gazdasági és pénzügyi bűncselekmények | gazdasági csalás | 374. § |  |  |
 
@@ -365,3 +367,6 @@
 | 6. | Kikérdezés | igen | igen | igen | igen | igen | igen |
 
 | 7. | Rejtett ellenőrzés | igen | igen | igen | igen | igen | igen |
+
+[^17]: Az 1. mellékletben foglalt táblázat B:10 mezője a 137/2025. (VI. 16.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat 10a. sorát a 137/2025. (VI. 16.) Korm. rendelet 6. §-a iktatta be.
