@@ -1,0 +1,9 @@
+# 24/2025. (VI. 16.) AM rendelet
+
+a földhasználati nyilvántartásból való adatszolgáltatásra vonatkozó igazgatási szolgáltatási díj mértékéről és a díjfizetés részletes szabályairól szóló 155/2009. (XI. 16.) FVM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-24-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-06-17 | 2025-24-20-7R.1 | 24/2025. (VI. 16.) AM rendelet |
