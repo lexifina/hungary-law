@@ -1,0 +1,1 @@
+6. § A rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) keretében történő információcsere részletes szabályairól szóló 564/2021. (X. 4.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.

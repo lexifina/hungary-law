@@ -1,0 +1,1 @@
+7. § A jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése és a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) keretében történő információcsere részletes szabályairól szóló 565/2021. (X. 4.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
