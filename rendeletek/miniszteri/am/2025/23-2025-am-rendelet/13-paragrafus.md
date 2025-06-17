@@ -1,3 +1,3 @@
-13. § A KAP vhr. 95. § (3) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(3) Az egyszeri elszámolásról többszöri elszámolásra egy alkalommal lehet áttérni. Egyszeri elszámolás esetén – felhívás eltérő rendelkezése hiányában – előleg nem igényelhető.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

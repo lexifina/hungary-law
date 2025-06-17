@@ -1,3 +1,3 @@
-11. § A KAP vhr. 91/A. §-a a következő (3) bekezdéssel egészül ki:
+11. §[^12]
 
-„(3) Ha a közbeszerzés ellenőrzés eredményeként a kedvezményezett részére fizetési kötelezettség megállapítására kerül sor, elsődlegesen a támogatási kérelemnek részben vagy egészben helyt adó döntésben a műveletmenedzsment vagy az előkészítés költségei közül a közbeszerzési költségek terhére történik annak megállapítása.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-20. § (1) A KSZ rendelet 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+20. §[^21]
 
-(A Nemzeti Irányító Hatóság a KAP Stratégiai Tervben szereplő intézkedések végrehajtása tekintetében az alábbi feladatokat ruházza át a Kincstárra:)
-
-## „a) a kérelem benyújtására és ügyintézésére szolgáló elektronikus felület biztosítása,”
-
-(2) A KSZ rendelet 4. § (1) bekezdése a következő k)–m) ponttal egészül ki:
-
-(A Nemzeti Irányító Hatóság a KAP Stratégiai Tervben szereplő intézkedések végrehajtása tekintetében az alábbi feladatokat ruházza át a Kincstárra:)
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

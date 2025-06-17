@@ -1,5 +1,3 @@
-6. § A KAP vhr. 59. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„59. § (1) Ha a jogorvoslati kérelem elbírálása során a miniszter megállapítja, hogy a jogorvoslati kérelemmel érintett döntés alapját képező másik támogatói döntés jogszabálysértő, a 33. § (1) bekezdése szerinti eljárás lefolytatására hívja fel a támogatót.
-
-(2) Az (1) bekezdés szerint elrendelt felülvizsgálati eljárás lezárásáig a jogorvoslati eljáráshoz kapcsolódó határidő nyugszik.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § A KAP vhr. 13. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A KNYR-ben történő nyilvántartásba vétel iránti kérelem elektronikus felületen történő benyújtásának feltétele, hogy)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

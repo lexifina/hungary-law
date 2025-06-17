@@ -1,3 +1,3 @@
-8. § A KAP vhr. 75. §-a a következő (3) bekezdéssel egészül ki:
+8. §[^9]
 
-„(3) A 21. § (1) bekezdésétől eltérően a támogatási kérelem a döntés meghozataláig akkor is módosítható, ha az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény alapján az állami beruházásokért felelős miniszter a műveletbe konzorciumi tagként belép.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

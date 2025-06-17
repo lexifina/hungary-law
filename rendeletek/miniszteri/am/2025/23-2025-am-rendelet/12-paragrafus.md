@@ -1,3 +1,3 @@
-12. § A KAP vhr. 92. § (1) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(1) Építési tevékenység végzése esetén a támogatási és kifizetési kérelem összeállítása során a Nemzeti Kifizető Ügynökség honlapján közzétett Építési Normagyűjtemény (a továbbiakban: ÉNGY) alkalmazandó. A támogatási kérelem keretében történő költségvetés tervezését a támogatási kérelem benyújtásakor érvényes ÉNGY-ben szereplő tételek azonosítója szerint kell elvégezni. A kifizetési kérelem vonatkozásában a kifizetési kérelem benyújtásakor érvényes ÉNGY referenciaárak mértékéig, közbeszerzési eljárás lefolytatásával megvalósuló beruházás esetén a támogatási okiratban a tevékenységre jóváhagyott összeg mértékéig lehet elszámolni. Ha a kifizetési kérelem benyújtásakor érvényes ÉNGY nem tartalmazza az elszámolandó építési tételt, akkor – a kifizetési kérelem és a támogatási kérelem benyújtása közötti időszakon belül – az utolsó olyan, érvényes ÉNGY-t kell figyelembe venni, amelyben az építési tétel szerepelt.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
