@@ -1,3 +1,3 @@
-4. §[^7]
+4. §[^8]
 
-[^7]: A 4. §-t a 63/2020. (XII. 16.) AM rendelet 2. § 2. pontja hatályon kívül helyezte.
+[^8]: A 4. §-t a 63/2020. (XII. 16.) AM rendelet 2. § 2. pontja hatályon kívül helyezte.
