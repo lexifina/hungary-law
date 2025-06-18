@@ -1,1 +1,3 @@
-7. § A jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése és a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) keretében történő információcsere részletes szabályairól szóló 565/2021. (X. 4.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
