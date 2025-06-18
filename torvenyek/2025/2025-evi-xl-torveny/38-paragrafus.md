@@ -6,7 +6,7 @@ b)
 
 c)
 
-d)
+d) 60. § (4) bekezdésében az „a villamosenergiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló” szövegrész helyébe az „az e törvény végrehajtására kiadott” szöveg,
 
 e)
 
