@@ -4,4 +4,4 @@
 
 (3) Az eljárási bírság maximum 6 hónapos időtartamra szabható ki, azonban egy eljárásban ismételten, vagy több eljárási kötelezettség teljesítése érdekében is kiszabható.
 
-(4) Az eljárási bírság kiszabása során a villamosenergiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet eljárási bírságot érintő rendelkezéseit alkalmazni kell.
+(4) Az eljárási bírság kiszabása során az e törvény végrehajtására kiadott kormányrendelet eljárási bírságot érintő rendelkezéseit alkalmazni kell.

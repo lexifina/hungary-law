@@ -44,7 +44,7 @@ amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiado
 
 (5) Az engedély kérelmezőjének rendelkeznie kell a külön jogszabályban meghatározott pénzügyi és gazdasági feltételekkel.
 
-(6) A szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek. A szállítási rendszerüzemeltetési engedély kiadásának feltétele, hogy a Hivatal a 128. § szerinti eljárásban megállapítsa, hogy a kérelmező megfelel a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek.
+(6) A szállítási rendszerüzemeltetési és a hidrogénszállításihálózat-üzemeltetési engedély iránti kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen a szállítási rendszerüzemeltetőre és a hidrogénszállításihálózat-üzemeltetőre vonatkozó szétválasztási követelményeknek. A szállítási rendszerüzemeltetési és a hidrogénszállításihálózat-üzemeltetési engedély kiadásának feltétele, hogy a Hivatal a 128. § szerinti eljárásban megállapítsa, hogy a kérelmező megfelel a szállítási rendszerüzemeltetőre és a hidrogénszállításihálózat-üzemeltetőre vonatkozó szétválasztási követelményeknek.
 
 (7) A Hivatal a működési engedély kiadását megtagadja, ha
 

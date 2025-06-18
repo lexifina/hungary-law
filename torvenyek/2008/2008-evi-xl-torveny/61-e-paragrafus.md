@@ -22,7 +22,7 @@ g) ha az érintett összeg meghatározható, elrendeli a jogsértő magatartáss
 
 (4) A jogkövetkezmény megállapításakor a Hivatal a közigazgatási szabályszegések szankcióiról szóló 2017. CXXV. törvényben foglaltakon túl mérlegeli az eset összes lényeges körülményét a REMIT 18. cikk (7) bekezdésében foglaltak figyelembevételével.
 
-(5) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén a villamos energiáról szóló 2007. évi LXXXVI. törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki.
+(5) A Hivatal pénzfizetési kötelezettséget megállapító jogkövetkezmény alkalmazása esetén az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírságot szab ki.
 
 (6) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
 
