@@ -1,5 +1,6 @@
-4. § (1)[^1]
+4. § (1)[^4]
 
-(2) A 30/2015. (VI. 5.) FM rendelet 3. § (2) bekezdésében a „kötelezettség a kérelem” szövegrész helyébe a „kötelezettség – a (3) bekezdésben foglaltak kivételével – a kérelem” szöveg és a „melléklete” szövegrész helyébe az „1. melléklete” szöveg lép.
+(2)[^5]
 
-[^1]: A 4. § (1) bekezdése az 5. § (2) bekezdése alapján 2025. július 17-én lép hatályba.
+[^4]: A 4. § (1) bekezdése az 5. § (2) bekezdése alapján 2025. július 17-én lép hatályba.
+[^5]: A 4. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

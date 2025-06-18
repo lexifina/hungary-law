@@ -1,3 +1,3 @@
-2. § A 30/2015. (VI. 5.) FM rendelet 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(4) A visszatérítésről – az annak alapjául szolgáló, a (2) vagy (3) bekezdésben meghatározott esetek megállapítását követően – 30 napon belül intézkedni kell. A visszatérítés érdekében az ügyfelet határidő megjelölésével fel kell hívni annak a bankszámlaszámnak a megadására, amelyre a visszatérítést kéri. Ha a megjelölt határidőn belül az ügyfél nem ad meg bankszámlaszámot, és a befizetés bankkártyával vagy átutalási megbízással történt, a visszatérítés arra a bankszámlára történik, amelyről a befizetés megtörtént.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

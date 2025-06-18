@@ -1,3 +1,3 @@
-3. § (1) A 30/2015. (VI. 5.) FM rendelet Melléklete helyébe az 1. melléklet lép.
+3. §[^3]
 
-(2) A 30/2015. (VI. 5.) FM rendelet a 2. melléklet szerinti 2. melléklettel egészül ki.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
