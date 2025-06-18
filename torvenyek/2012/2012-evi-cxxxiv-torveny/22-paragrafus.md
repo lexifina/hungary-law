@@ -1,6 +1,6 @@
 22. § (1) A Hatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben – a (2a) bekezdésben foglalt eltéréssel – 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
+(2) A bírság összege a dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben – a (2a) bekezdésben foglalt eltéréssel – 150 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedelmi tevékenységet végző személy
 
 a) az engedélyben vagy a kijelölési okiratban foglaltaktól eltér, továbbá ha az 1. § (1) bekezdésében felsorolt termékek üzletszerű értékesítésére vonatkozó vagy a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti jogszabályi rendelkezéseket megsérti,
 
