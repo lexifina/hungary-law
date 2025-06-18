@@ -1,3 +1,3 @@
-3. § A 155/2009. (XI. 16.) FVM rendelet 6. §-a a következő (4) bekezdéssel egészül ki:
+3. §[^3]
 
-„(4) A 2. melléklet szerinti előirányzat-felhasználási keretszámlára az előző hónapban beérkezett díjbevételek a 2/A. § (2)–(5) bekezdésében megjelölt szervek részére minden hónap 10. és 25. napján kerülnek átutalásra, az általuk megjelölt számlaszámra.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

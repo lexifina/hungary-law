@@ -1,5 +1,3 @@
-7. § Hatályát veszti a 155/2009. (XI. 16.) FVM rendelet
+7. §[^8]
 
-a) 5. §-a,
-
-b) 7/A. § (3) bekezdésében a „ , (2), (4) és (5)” szövegrész.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

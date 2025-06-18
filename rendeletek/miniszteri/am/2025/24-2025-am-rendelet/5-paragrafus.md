@@ -1,1 +1,3 @@
-5. § A 155/2009. (XI. 16.) FVM rendelet az 1. melléklet szerinti 2. melléklettel egészül ki.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
