@@ -1,52 +1,16 @@
 A Kormány
 
-1. a Széchenyi István Egyetemért Alapítvány részére – az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvénnyel (a továbbiakban: Módtv.) megállapított – a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott járműipari innovációs és közlekedésfejlesztési közfeladatainak ellátása érdekében egyetért az Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság kutatási célú hasznosításával;
+1.[^1]
 
-2. felhívja az államháztartásért felelős minisztert, hogy az iparügyekért felelős miniszter közreműködésével gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 2022-ben és a 2024. évtől évente 2 001 000 000 forint forrás biztosításáról az iparügyekért felelős miniszter hatás- és feladatkörének ellátását szolgáló előirányzat javára;
+2.[^2]
 
-| Felelős: | államháztartásért felelős miniszter iparügyekért felelős miniszter |
+3.[^3]
 
-| Határidő: | a 2022. év tekintetében azonnal, a 2024. évtől a központi költségvetés tervezése során |
+4.[^4]
 
-3. felhívja az iparügyekért felelős minisztert, hogy gondoskodjon a Széchenyi István Egyetemért Alapítvány részére az 1. pontban foglalt cél megvalósítása érdekében szükséges forrásjuttatásról;
+5.[^5]
 
-| Felelős: | iparügyekért felelős miniszter |
-
-| Határidő: | első alkalommal azonnal, a 2024. évtől a 2. pont szerinti forrás rendelkezésre állását követően |
-
-4. egyetért
-
-a) az energetikai és járműipari optimalizáló meteorológiai rendszer és adatközpont létrehozásával,
-
-b) a karbonkredit-szolgáltatás kialakításával, precíziós növénytermesztés és bemutatókert létrehozásával,
-
-c) a ZalaZONE SmartCity intelligens épületek és a járművek komplex együttműködésének optimalizálásával,
-
-d) az autonóm, robusztus és moduláris energetikai teszt-ökoszisztéma felépítésével,
-
-e) azzal, hogy az a)–d) alpontban meghatározottak a ZalaZONE InnoTech Innovációs és Technológiai Transzfer Központ Nonprofit Korlátolt Felelősségű Társaság útján kerüljenek megvalósításra;
-
-5. felhívja az államháztartásért felelős minisztert, hogy az iparügyekért felelős miniszter bevonásával a 4. pontban meghatározott feladatok végrehajtása érdekében gondoskodjon
-
-a) a 2022. évben 710 355 000 forint,
-
-b) a 2024. évben 1 220 610 000 forint,
-
-c) a 2025. évben 790 395 000 forint,
-
-d) a 2026. évben 530 265 000 forint
-
-forrásnak az iparügyekért felelős miniszter feladat- és hatáskörének ellátását szolgáló előirányzat javára történő rendelkezésre állásáról;
-
-| Felelős: | államháztartásért felelős miniszter iparügyekért felelős miniszter |
-
-| Határidő: | az a) alpont tekintetében azonnal a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
-
-6. felhívja az iparügyekért felelős minisztert, hogy a 4. pont a)–d) alpontjában foglalt feladatok megvalósítása érdekében az 5. pont szerinti forrás terhére gondoskodjon a ZalaZONE InnoTech Innovációs és Technológiai Transzfer Központ Nonprofit Korlátolt Felelősségű Társaság részére történő forrásjuttatásról;
-
-| Felelős: | iparügyekért felelős miniszter |
-
-| Határidő: | az 5. pont a) alpontja tekintetében azonnal az 5. pont b)–d) alpontja tekintetében évente, az 5. pont szerinti forrás rendelkezésre állását követően |
+6.[^6]
 
 7. egyetért azzal, hogy a Jedlik Ányos Terv, a Nemzeti Hidrogén Stratégia 2030, a Zöld Busz Program és a Zöld Busz Program Plusz megvalósítása a Széchenyi István Egyetemért Alapítvány közfeladat-ellátása útján, a Módtv. alapján tulajdonába kerülő HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaságon (a továbbiakban: Társaság) keresztül valósuljon meg;
 
@@ -108,7 +72,7 @@ a) 1.2. alpontjában meghatározottaktól eltérően a forrás biztosítása a 2
 
 b) 1.6. alpontjában foglaltaktól eltérően az iparügyekért felelős miniszter által a KEKVA tv. 20. §-a szerinti közfeladat-finanszírozási szerződés keretében kerüljön biztosításra a Széchenyi István Egyetemért Alapítvány részére,
 
-c)[^1]
+c)[^7]
 
 15. egyetért a stratégailag meghatározott céloknak (többcélú fejlesztések, technológiatranszfer) a Széchenyi István Egyetemért Alapítvány közfeladat-ellátása útján, a Módtv. alapján tulajdonába kerülő TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság bevonásával történő végrehajtásával;
 
@@ -124,7 +88,13 @@ c)[^1]
 
 | Határidő: | első alkalommal 2024. február 15. napjáig |
 
-18.[^2] egyetért azzal, hogy e határozat kapcsán a 2024. évben további központi költségvetési többletforrás biztosítása nem szükséges.
+18.[^8] egyetért azzal, hogy e határozat kapcsán a 2024. évben további központi költségvetési többletforrás biztosítása nem szükséges.
 
-[^1]: A 14. pont c) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 18. pontot az 1291/2024. (IX. 19.) Korm. határozat 112. pontja iktatta be.
+[^1]: Az 1. pontot az 1203/2025. (VI. 19.) Korm. határozat 12. pontja visszavonta.
+[^2]: A 2. pontot az 1203/2025. (VI. 19.) Korm. határozat 12. pontja visszavonta.
+[^3]: A 3. pontot az 1203/2025. (VI. 19.) Korm. határozat 12. pontja visszavonta.
+[^4]: A 4. pontot az 1203/2025. (VI. 19.) Korm. határozat 12. pontja visszavonta.
+[^5]: Az 5. pontot az 1203/2025. (VI. 19.) Korm. határozat 12. pontja visszavonta.
+[^6]: A 6. pontot az 1203/2025. (VI. 19.) Korm. határozat 12. pontja visszavonta.
+[^7]: A 14. pont c) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 18. pontot az 1291/2024. (IX. 19.) Korm. határozat 112. pontja iktatta be.
