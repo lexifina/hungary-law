@@ -1,1 +1,7 @@
-### 8. §
+8. § (1) Az Mnbtv. 48. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az MNB a folyamatos felügyelethez szükséges információk beszerzése érdekében a 39. § (1) és (3) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó szervezetek vagy személyek számára rendszeres vagy rendkívüli adatszolgáltatási kötelezettséget írhat elő.”
+
+(2) Az Mnbtv. 48. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az MNB felhívására a 39. § (1), (2a) és (3) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó személy és szervezet köteles az MNB feladatellátásához kért, a tevékenységére vonatkozó tájékoztatást megadni, a hatósági eljárás tárgyával összefüggő adatot, beszámolót, bizonylatot, vizsgálati anyagot, a számviteli nyilvántartásait, szabályzatait, az egyes ügyletekhez kapcsolódó dokumentációit, a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, e szervek ülésének jegyzőkönyveit, a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit, továbbá az előbbiekben fel nem sorolt egyéb kimutatást az MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani. Az így rendelkezésre bocsátott iratokról az MNB kivonatot, illetve másolatot készíthet.”
