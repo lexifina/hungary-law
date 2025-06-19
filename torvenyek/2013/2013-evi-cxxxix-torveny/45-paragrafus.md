@@ -12,7 +12,7 @@ a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) és (
 
 b) a 4. § (8) bekezdésében meghatározott feladatkörében a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti jogosultság gyakorlása,
 
-c) a 4. § (9) bekezdésében meghatározott feladatkörében a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti kijelölés, valamint annak visszavonása,
+c) a 4. § (9) bekezdésében meghatározott feladatkörében a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerint a hatáskörébe tartozó döntések meghozatala,
 
 d) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése,
 

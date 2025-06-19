@@ -58,9 +58,9 @@ bd) a kiegyenlítés rendjét,
 
 be) a kockázatok kezelésének szabályait,
 
-bf) a kötelező biztosíték képzésének, felhasználásának szabályait,
+bf)
 
-bg) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait, és
+bg)
 
 bh) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit;
 

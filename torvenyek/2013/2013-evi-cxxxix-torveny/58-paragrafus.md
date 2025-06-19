@@ -20,6 +20,6 @@
 
 (10) Az MNB az e törvényben meghatározott elektronikus kapcsolattartás esetében biztonságos kézbesítési szolgáltatást végez, az MNB elektronikus ügyintézését biztosító információs rendszerében fenntartott kézbesítési tárhelyek hivatali tárhelynek minősülnek.
 
-(11) Az engedélyezési eljárásokban csak eredeti dokumentum vagy hiteles elektronikus másolat nyújtható be.
+(11) Az engedélyezési eljárásokban csak eredeti dokumentum vagy hiteles elektronikus másolat nyújtható be azzal, hogy a külföldön kiállított közokiratok kivételével a papíralapú közokiratokról az ügyvéd vagy kamarai jogtanácsos által készített elektronikus másolat is benyújtható.
 
 (12) Az MNB 45. § szerinti hatósági tevékenysége során – ide nem értve az ellenőrzési eljárást, a fogyasztóvédelmi ellenőrzési eljárást és a felügyeleti ellenőrzést – a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles másolatként nem fogadható el.

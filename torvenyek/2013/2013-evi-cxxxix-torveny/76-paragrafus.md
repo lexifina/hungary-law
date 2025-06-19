@@ -162,7 +162,7 @@ h) súlyosan megsérti a Pmt. rendelkezéseit; vagy
 
 i) lehetővé teszi olyan személy számára, hogy a vezető testület tagja legyen vagy maradjon, aki nem felel meg a jogszabályi követelményeknek,
 
-a kiszabható bírság mértéke természetes személy esetében legfeljebb 1 675 200 000 forintig, jogi személy esetében a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont (konszolidált) éves beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat összevont (konszolidált) éves beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
+a kiszabható bírság mértéke természetes személy esetében legfeljebb 1 675 200 000 forintig, jogi személy esetében a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) pontja szerinti nettó árbevételének 10 százalékáig, vagy a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont (konszolidált) éves beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat összevont (konszolidált) éves beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
 
 (26) Az Európai Parlament és a Tanács (EU) 2023/1114 rendelet megsértése esetén a bírság mértéke:
 

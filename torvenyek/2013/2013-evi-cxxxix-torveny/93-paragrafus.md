@@ -32,7 +32,7 @@ d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében elő
 
 terjedhet.
 
-(5a) Nem természetes személy ügyfél esetén az ügyfél piacfelügyeleti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben kiszabható piacfelügyeleti bírság összege – a 93. § (5) bekezdés alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
+(5a) Az ügyfél piacfelügyeleti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben kiszabható piacfelügyeleti bírság összege – a 93. § (5) bekezdés alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
 
 (6)
 

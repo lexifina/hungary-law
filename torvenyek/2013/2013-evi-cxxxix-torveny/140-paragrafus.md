@@ -102,7 +102,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.1. a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyéről – hitelintézet esetén azzal, hogy melyik betétbiztosítási rendszerhez csatlakozott –, valamint annak visszavonásáról az indoklással együtt,
 
-2.2. a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről, a tevékenységi engedélyben bekövetkezett valamennyi változásról, a fióktelep összes eszközéről és kötelezettségéről a rendszeres beszámolóknak megfelelően, valamint annak a harmadik országbeli csoportnak a megnevezéséről, amelyhez a fióktelep tartozik,
+2.2. a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről, a tevékenységi engedélyben bekövetkezett valamennyi változásról, a fióktelep összes eszközéről és kötelezettségéről a rendszeres beszámolóknak megfelelően, valamint annak a harmadik országbeli csoportnak a megnevezéséről, amelyhez a fióktelep tartozik, továbbá a Hpt. 105/B. §-a alapján engedélyezett közbenső EU-szintű anyavállalatról, valamint típusáról,
 
 2.3. a Hpt. 36. § (5) bekezdése szerinti határozatáról,
 
@@ -128,7 +128,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.14. a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése, 161/B. § (5) bekezdése és 164. §-a alapján hozott határozatokról,
 
-2.15.
+2.15. A Hpt. 118. § (5) bekezdése alapján kapott információkról.
 
 2.16. a Hpt. 114. §-a szerinti helyreállítási terv kialakításával és koordinálásával kapcsolatosan tervezett megbeszélésekről,
 

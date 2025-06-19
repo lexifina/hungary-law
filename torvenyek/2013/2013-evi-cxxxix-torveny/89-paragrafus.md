@@ -10,7 +10,13 @@ b) az a) pont hatálya alá nem tartozó szervezet vagy személy esetében ötmi
 
 a) biztosító esetén a bruttó biztosítási díjak,
 
-b) befektetési vállalkozás esetén a befektetési szolgáltatási tevékenységből származó bevétel, valamint a nem forgalmazási pénzügyi műveletekből származó bevétel,
+b) befektetési vállalkozás esetén a befektetési szolgáltatási tevékenységből származó bevétel, valamint a nem forgalmazási pénzügyi műveletekből származó bevétel, beleértve
+
+ba) a kapott kamatok és kamatjellegű bevételek,
+
+bb) az értékpapírokból származó bevételek,
+
+bc) a kapott (járó) jutalék- és díjbevételek,
 
 c) magánnyugdíjpénztár és önkéntes nyugdíjpénztár esetén a működési tevékenységet szolgáló tagdíjbevételek, önkéntes kölcsönös egészség- és önsegélyező pénztár esetén a működési alap tagdíjbevételei, foglalkoztatói nyugdíjszolgáltató intézmény esetén pedig a működési tevékenységet szolgáló foglalkoztatói és tagi befizetések,
 

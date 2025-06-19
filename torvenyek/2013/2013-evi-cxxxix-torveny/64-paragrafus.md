@@ -16,11 +16,11 @@ végez.
 
 a) fizetési rendszer működtetése tevékenységet végző szervezetnél legalább kétévente,
 
-b) központi szerződő félnél legalább évente, a központi értéktárnál legalább kétévente,
+b) központi szerződő félnél legalább évente,
 
 c) a d) pontban foglaltakat ide nem értve
 
-ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, nyilvános befektetési alapot kezelő befektetési alapkezelőnél, tőzsdénél, a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltatónál, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
+ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, nyilvános befektetési alapot kezelő befektetési alapkezelőnél, tőzsdénél, központi értéktárnál, a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltatónál, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
 
 cb) hitelintézetnél, biztosítónál, viszontbiztosítónál, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, továbbá befektetési alapkezelőnél a tevékenységének megkezdését követő egy év elteltével,
 
