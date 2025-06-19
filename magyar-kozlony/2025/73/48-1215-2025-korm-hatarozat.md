@@ -1,0 +1,155 @@
+# A Kormány 1215/2025. (VI. 19.) Korm. határozata
+
+Magyar Közlöny 2025. évi 73. szám, 2025. június 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/tMhoEhYbb3g05TnzdNfg6849ca99dcc4e/dokumentumok/9268c241692b0ecaaeec1907672cca10bfb02734/letoltes)
+
+---
+
+A Kormány 1215/2025. (VI. 19.) Korm. határozata
+az országos múzeumok, valamint egyes nemzeti, történelmi emlékhelyek, műemlékek és vallásturisztikai,
+továbbá egyéb kulturális jelentőségű helyszínek látogatásáról
+1. A Kormány a nemzeti és egyetemes kulturális örökség javainak megismerése érdekében
+1.1. egyetért azzal, hogy az általános iskolák, középfokú iskolák és gyógypedagógiai, konduktív pedagógiai
+nevelési-oktatási intézmények nappali rendszerű iskolai oktatásban részt vevő tanulói a nevelési-
+oktatási intézmény által szervezett és a személyszállítást biztosító társaság felé előzetesen bejelentett
+csoportos utazás keretében tanítási évben – a tanév rendjéről szóló miniszteri rendelet szerinti őszi, téli
+és tavaszi szünet kivételével – tanítási és – a látogatás szombati napra történő visszaigazolása esetén –
+szombati napokon 2. kocsiosztályon díjmentes vasúti utazás, valamint díjmentes autóbuszos személyszállítási
+közszolgáltatás (a továbbiakban együtt: kedvezmény) – ide nem értve a vasúti utazás és az autóbuszos
+személyszállítási közszolgáltatás esetén esetlegesen felmerülő felárakat – igénybevételével látogathassák
+meg az 1. melléklet szerinti helyszíneket, azzal, hogy a kedvezmény szükség szerint a látogatási napot
+megelőző, illetve az azt követő napon is igénybe vehető;
+1.2. felhívja a belügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – tájékoztató
+megjelentetésével gondoskodjon arról, hogy az 1.1. alpont szerinti nevelési-oktatási intézmények
+megismerjék az 1. melléklet szerinti helyszínek látogatásának rendjét és a kedvezmény igénybevételének
+feltételeit;
+Felelős: belügyminiszter
+kultúráért és innovációért felelős miniszter
+Határidő: azonnal
+1.3. felhívja az építési és közlekedési minisztert, hogy – a személyszállító társaságok bevonásával – biztosítsa
+a kedvezmény igénybevételének tárgyi és szabályozási feltételeit a belföldi, országos, regionális vagy
+elővárosi, menetrend szerinti, közforgalmú vasúti és autóbuszos személyszállítási szolgáltatás keretében.
+Felelős: építési és közlekedési miniszter
+Határidő: folyamatos
+2. Hatályát veszti az országos múzeumok, valamint egyes nemzeti emlékhelyek és műemlékek látogatásáról szóló
+1502/2017. (VIII. 11.) Korm. határozat.
+3. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1215/2025. (VI. 19.) Korm. határozathoz
+Az általános iskolák, középfokú iskolák és gyógypedagógiai, konduktív pedagógiai nevelési-
+oktatási intézmények nappali rendszerű iskolai oktatásban részt vevő tanulói és kísérőik számára
+a kedvezmény igénybevételével látogatható helyszínek
+1. Országos múzeumok és szakmúzeumok, valamint tagintézményeik:
+1.1. Budapest, Budapesti Történeti Múzeum,
+1.2. Budapest, Hadtörténeti Múzeum,
+1.3. Budapest, Ludwig Múzeum,
+1.4. Budapest, Magyar Mezőgazdasági Múzeum,
+1.5. Budapest, Magyar Nemzeti Galéria,
+1.6. Budapest, Magyar Nemzeti Múzeum Közgyűjteményi Központ – Iparművészeti Múzeum (jelenleg a filiaként
+üzemelő Ráth György-villa Múzeum látogatható),
+1.7. Budapest, Magyar Nemzeti Múzeum Közgyűjteményi Központ – Magyar Kereskedelmi és Vendéglátóipari
+Múzeum,
+1.8. Budapest, Magyar Nemzeti Múzeum Közgyűjteményi Központ – Magyar Nemzeti Múzeum,
+
+1.9. Budapest, Magyar Nemzeti Múzeum Közgyűjteményi Központ – Magyar Természettudományi Múzeum,
+1.10. Budapest, Magyar Nemzeti Múzeum Közgyűjteményi Központ – Petőfi Irodalmi Múzeum,
+1.11. Budapest, Magyar Nemzeti Múzeum Közgyűjteményi Központ – Semmelweis Orvostörténeti Múzeum,
+1.12. Budapest, Magyar Pénzmúzeum és Látogatóközpont,
+1.13. Budapest, Néprajzi Múzeum,
+1.14. Budapest, Szépművészeti Múzeum,
+1.15. Debrecen, Magyar Műszaki és Közlekedési Múzeum,
+1.16. Szentendre, Szabadtéri Néprajzi Múzeum;
+2. Kiemelt nemzeti emlékhely: Az Országház és környéke;
+3. Nemzeti emlékhelyek:
+3.1. Budapest I. kerület, Várnegyed,
+3.2. Budapest VIII. kerület, Fiumei úti sírkert,
+3.3. Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely,
+valamint a váci, a márianosztrai és a sopronkőhidai rabtemető,
+3.4. Debrecen, Református Nagytemplom és Kollégium,
+3.5. Eger, Egri vár,
+3.6. Esztergom, Várhegy és Víziváros,
+3.7. Győr, Káptalandomb és a vár megmaradt részei,
+3.8. Máriapócs, Máriapócs Nemzeti Kegyhely,
+3.9. Mátraverebély, Mátraverebély-Szentkút Nemzeti Kegyhely,
+3.10. Mohács, Mohácsi Nemzeti Emlékhely,
+3.11. Nagycenk, Széchenyi-kastély műemléki együttese,
+3.12. Ópusztaszer, Ópusztaszeri Nemzeti Történeti Emlékpark,
+3.13. Pannonhalma, Pannonhalmi Főapátság,
+3.14. Pákozd, Katonai Emlékpark Pákozd,
+3.15. Somogyvár, Somogyvári Kupavár,
+3.16. Székesfehérvár, Romkert,
+3.17. Szigetvár, Szigetvári Zrínyi vár;
+4. Műemlékek:
+4.1. Alcsútdoboz, Alcsúti Arborétum,
+4.2. Budapest, Holokauszt Dokumentációs Központ és Emlékhely,
+4.3. Edelény, L’Huillier–Coburg-kastély,
+4.4. Geszt, Tisza-kastély,
+4.5. Körmend, Batthyány-kastély,
+4.6. Nagykőrös, Arany János Közérdekű Muzeális Gyűjtemény,
+4.7. Oroszlány, oroszlány-majkpusztai Kamalduli Remeteség,
+4.8. Ozora, Ozorai Pipo vára,
+4.9. Pécs, Cella Septichora Látogatóközpont,
+4.10. Pécs, Zsolnay Kulturális Negyed,
+4.11. Sárospatak, Magyar Nemzeti Múzeum Rákóczi Múzeuma,
+4.12. Sümeg, Sümegi vár,
+4.13. Szatmárcseke, Kölcsey-síremlék,
+4.14. Szerencs, Rákóczi-várkastély,
+4.15. Tata, Esterházy-kastély,
+4.16. Tiszadob, Andrássy-kastély,
+4.17. Vácrátót, Nemzeti Botanikus Kert,
+4.18. Várpalota, Trianon Múzeum;
+5. Történelmi emlékhelyek:
+5.1. Bonyhád, Perczel-kúria,
+5.2. Budapest V. kerület, Insula Lutherana – Evangélikus templom, gimnázium és múzeum,
+5.3. Budapest VII. kerület, Wesselényi utcai Hősök temploma és Hősök sírkertje,
+5.4. Budapest VIII. kerület, Ludovika Akadémia,
+5.5. Budapest XI. kerület, Budapesti Műszaki és Gazdaságtudományi Egyetem,
+5.6. Csurgó, református kollégium és nagykönyvtár,
+
+5.7. Fertőd, Esterházy-kastély,
+5.8. Gödöllő, Grassalkovich-kastély,
+5.9. Gyula, vár és honvédtiszti emlékhely,
+5.10. Kápolnásnyék, Vörösmarty Mihály Emlékház,
+5.11. Kehidakustány, Deák-kúria,
+5.12. Keszthely, Festetics-kastély és Georgikon,
+5.13. Kiskőrös, Petőfi Szülőház és Emlékmúzeum,
+5.14. Komárom, erődrendszer,
+5.15. Kőszeg, Jurisics vár,
+5.16. Miskolc, Diósgyőri vár,
+5.17. Monok, Kossuth Emlékház,
+5.18. Nyírbátor, a Báthori-várkastély fogadópalotája és a református templom,
+5.19. Pápa, református kollégium és ótemplom,
+5.20. Pécs, székesegyház, püspöki palota és a középkori egyetem,
+5.21. Recsk, egykori munkatábor,
+5.22. Sárospatak, vár, református kollégium és nagykönyvtár,
+5.23. Sárvár, Nádasdy-vár,
+5.24. Siklós, Siklósi vár,
+5.25. Sopron, Tűztorony,
+5.26. Szatmárcseke, Kölcsey-kúria helye,
+5.27. Szeged, Dóm tér és a Szegedi Tudományegyetem Auditórium Maximum épülete,
+5.28. Szécsény, Forgách-kastély és a Szécsényi Ferences templom és kolostor,
+5.29. Tihany, Tihanyi Bencés Apátság,
+5.30. Veszprém, Vár utca,
+5.31. Visegrád, Visegrádi Fellegvár,
+5.32. Vizsoly, Vizsolyi Református Templom és Biblia Látogatóközpont;
+6. Kiemelt vallásturisztikai helyszínek:
+6.1. Budapest, Szent István Bazilika,
+6.2. Egri Szent Mihály és Szent János Főszékesegyház és Érseki Palota,
+6.3. Kalocsai Nagyboldogasszony Főszékesegyház,
+6.4. Nyírbátor, a Római katolikus minorita templom és rendház,
+6.5. Székesfehérvár, a barokk Szent István püspöki székesegyház és palota,
+6.6. Szombathelyi Sarlós Boldogasszony Főszékesegyház,
+6.7. Váci Nagyboldogasszony Székesegyház és Püspöki Palota,
+6.8. Zirci Ciszterci Apátság;
+7. Vallásturisztikai helyszín: Balatonfüred, Zsidó Kiválóságok Háza;
+8. Budapest, Hagyományok Háza;
+9. Budapest, Magyar Nemzeti Levéltár Országos Levéltára;
+10. Budapest, Magyar Zene Háza;
+11. Budapest, Terror Háza Múzeum;
+12. Sátoraljaújhely, Kazinczy mauzóleum és a Magyar Nyelv Múzeuma;
+13. Szekszárd, Babits Mihály szülőháza és a Wosinsky Mór Múzeum.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Bíró Attila.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a https://www.magyarkozlony.hu honlapon érhető el.
