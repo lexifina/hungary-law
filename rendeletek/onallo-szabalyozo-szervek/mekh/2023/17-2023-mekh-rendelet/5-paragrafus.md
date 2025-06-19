@@ -48,15 +48,29 @@ a) a lekötött mennyiség nem nulla, akkor az elemi felszabályozási lekötés
 
 b) a lekötött mennyiség is nulla, akkor az elemi felszabályozási lekötési sikerfaktor értéke 0%.
 
-(12) Az aFRR és más típusú termékek közös beszerzésére vonatkozó kapacitástender esetén a más típusú termékekre vonatkozó ajánlatok az adott tenderen a más típusú termékből maximálisan leköthető mennyiség és az adott tenderen beszerzendő teljes mennyiség arányával korrigálva kerülnek figyelembevételre az elemi felszabályozási lekötési sikerfaktor (11) bekezdés szerinti meghatározásánál.
+(12)[^6] Az aFRR és más típusú termékek közös beszerzésére vonatkozó kapacitástendert az elemi felszabályozási sikerfaktor meghatározásánál két külön kapacitástenderként kell figyelembe venni, a következők szerint:
 
-(13) A felszabályozási lekötési sikerfaktor az adott napra vonatkozó elemi felszabályozási sikerfaktorok adott kapacitástenderen lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX szervezett villamosenergia-piac (a továbbiakban: HUPX) másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját.
+a) a minimálisan aFRR termékként beszerzendő kapacitást a (11) bekezdés szerinti aFRR kapacitástenderként, ahol
+
+aa) a lekötött kapacitás legfeljebb a minimálisan aFRR termékként beszerzendő kapacitás, és
+
+ab) csak a felszabályozási limitárnál olcsóbb aFRR ajánlatokat kell figyelembe venni;
+
+b) az aFRR termékként és egyéb termékként is beszerezhető részt olyan aFRR kapacitástenderként, ahol
+
+ba) lekötött kapacitásként az aFRR és egyéb termékek is figyelembe veendők, és
+
+bb) az ajánlatoknál a felszabályozási határár alatti aFRR és egyéb ajánlatok a) pont szerinti kapacitástenderen lekötöttként figyelembe vett kapacitással csökkentett értéke veendő figyelembe;
+
+c) az aFRR és más típusú termékek közös beszerzésére vonatkozó kapacitástender elemi felszabályozási sikerfaktora az a) és b) pont szerinti kapacitástenderekre számolt elemi felszabályozási sikerfaktorok összege, csökkentve azok szorzatával.
+
+(13)[^7] A felszabályozási lekötési sikerfaktor az adott napra vonatkozó elemi felszabályozási sikerfaktorok adott kapacitástenderen lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX szervezett villamosenergia-piac (a továbbiakban: HUPX) másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját, azzal, hogy nyolcnál több óra érintettsége esetén a négy legolcsóbb, illetve a négy legdrágább érintett, legkorábbi órát kell figyelmen kívül hagyni.
 
 (14) A felszabályozási határár értéke 10 000 Ft/MW/h.
 
 (15) A felszabályozási komplementer korrekciós faktor értéke az adott napra azon órák arányával egyezik meg, amelyekben a támogatott tároló közcélú villamosenergia-hálózatba való betáplálása az adott napon engedélyezett.
 
-(16) Az átlagos aFRR felszabályozási kapacitásdíj az adott napra órás vagy rövidebb időszakra vonatkozó termékként a kapacitástendereken (beleértve a más típusú termékekkel közös beszerzésre irányuló tendereket) beszerzett aFRR felszabályozási kapacitásokra kialakuló árak lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját.
+(16)[^8] Az átlagos aFRR felszabályozási kapacitásdíj az adott napra órás vagy rövidebb időszakra vonatkozó termékként a kapacitástendereken (beleértve a más típusú termékekkel közös beszerzésre irányuló tendereket) beszerzett aFRR felszabályozási kapacitásokra kialakuló árak lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját, azzal, hogy nyolcnál több óra érintettsége esetén a négy legolcsóbb, illetve a négy legdrágább érintett, legkorábbi órát kell figyelmen kívül hagyni.
 
 (17) Ha a napon belüli tenderek kapuzárási időpontja kevesebb mint 1 órával a teljesítési időszak előtt van, és az adott napra beszerzendő órás vagy rövidebb aFRR kapacitástermékek napon belüli tendereken való beszerzésének aránya
 
@@ -71,3 +85,7 @@ d) legalább 40%, de kisebb, mint 50%, akkor a jelenléti faktor értéke 18 ór
 e) legalább 50%, akkor a jelenléti faktor értéke 20 óra.
 
 Egyéb esetben a jelenléti faktor értéke 10 óra.
+
+[^6]: Az 5. § (12) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^7]: Az 5. § (13) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: Az 5. § (16) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 5. § c) pontja szerint módosított szöveg.

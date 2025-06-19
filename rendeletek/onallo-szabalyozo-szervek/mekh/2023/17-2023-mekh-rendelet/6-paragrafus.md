@@ -44,12 +44,30 @@ a) a lekötött mennyiség nem nulla, akkor az elemi leszabályozási lekötési
 
 b) a lekötött mennyiség is nulla, akkor az elemi leszabályozási lekötési sikerfaktor értéke 0%.
 
-(10) Az aFRR és más típusú termékek közös beszerzésére vonatkozó kapacitástender esetén a más típusú termékekre vonatkozó ajánlatok az adott tenderen a más típusú termékből maximálisan leköthető mennyiség és az adott tenderen beszerzendő teljes mennyiség arányával korrigálva kerülnek figyelembevételre az elemi leszabályozási lekötési sikerfaktor (9) bekezdés szerinti meghatározásánál.
+(10)[^9] Az aFRR és más típusú termékek közös beszerzésére vonatkozó kapacitástendert az elemi leszabályozási sikerfaktor meghatározásánál két külön kapacitástenderként kell figyelembe venni, a következők szerint:
 
-(11) A leszabályozási lekötési sikerfaktor az adott napra vonatkozó elemi leszabályozási sikerfaktorok adott kapacitástenderen lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját.
+a) a minimálisan aFRR termékként beszerzendő kapacitást a (9) bekezdés szerinti aFRR kapacitástenderként, ahol
+
+aa) a lekötött kapacitás legfeljebb a minimálisan aFRR termékként beszerzendő kapacitás, és
+
+ab) csak a leszabályozási limitárnál olcsóbb aFRR ajánlatokat kell figyelembe venni;
+
+b) az aFRR termékként és egyéb termékként is beszerezhető részt olyan aFRR kapacitástenderként, ahol
+
+ba) lekötött kapacitásként az aFRR és egyéb termékek is figyelembe veendők, és
+
+bb) az ajánlatoknál a leszabályozási határár alatti aFRR és egyéb ajánlatok a) pont szerinti kapacitástenderen lekötöttként figyelembe vett kapacitással csökkentett értéke veendő figyelembe;
+
+c) az aFRR és más típusú termékek közös beszerzésére vonatkozó kapacitástender elemi leszabályozási sikerfaktora az a) és b) pont szerinti kapacitástenderekre számolt elemi leszabályozási sikerfaktorok összege, csökkentve azok szorzatával.
+
+(11)[^10] A leszabályozási lekötési sikerfaktor az adott napra vonatkozó elemi leszabályozási sikerfaktorok adott kapacitástenderen lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját, azzal, hogy nyolcnál több óra érintettsége esetén a négy legolcsóbb, illetve a négy legdrágább érintett, legkorábbi órát kell figyelmen kívül hagyni.
 
 (12) A leszabályozási határár értéke 10 000 Ft/MW/h.
 
 (13) A leszabályozási komplementer korrekciós faktor az 5. § (15) bekezdése szerinti felszabályozási komplementer korrekciós faktornál 1/12-del nagyobb, de értéke legfeljebb 100%.
 
-(14) Az átlagos aFRR leszabályozási kapacitásdíj az adott napra órás vagy rövidebb időszakra vonatkozó termékként a kapacitástendereken (beleértve a más típusú termékekkel közös beszerzésre irányuló tendereket) beszerzett aFRR leszabályozási kapacitásokra kialakuló árak lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját.
+(14)[^11] Az átlagos aFRR leszabályozási kapacitásdíj az adott napra órás vagy rövidebb időszakra vonatkozó termékként a kapacitástendereken (beleértve a más típusú termékekkel közös beszerzésre irányuló tendereket) beszerzett aFRR leszabályozási kapacitásokra kialakuló árak lekötött mennyiségekkel súlyozott átlaga. Az adott napi érték kiszámításánál figyelmen kívül kell hagyni a HUPX másnapi piacán az adott nap négy legdrágább és négy legolcsóbb villamosenergia-átlagárral jellemzett óráját, azzal, hogy nyolcnál több óra érintettsége esetén a négy legolcsóbb, illetve a négy legdrágább érintett, legkorábbi órát kell figyelmen kívül hagyni.
+
+[^9]: A 6. § (10) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^10]: A 6. § (11) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 5. § c) pontja szerint módosított szöveg.
+[^11]: A 6. § (14) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 5. § c) pontja szerint módosított szöveg.

@@ -34,6 +34,8 @@ b) a támogatott tároló egy részére egyéb állami támogatás került megá
 
 (8) A támogatott tárolóra vonatkozó, 2. § (3) bekezdése szerinti fizetési kötelezettség a (7) bekezdéssel érintett hónapokra is fennáll, értékét 100%-os degradációs tényezőt figyelembe véve kell meghatározni.
 
-(9) Az átviteli rendszerirányító a támogatott tároló teljesítőképességét [kW] és tárolókapacitását [kWh] az üzembe helyezéskor, majd azt követően legalább évente egy alkalommal méréssel ellenőrzi. A mérés pontos leírását a villamosenergia-ellátási szabályzatok tartalmazzák.
+(9)[^5] Az átviteli rendszerirányító a támogatott tároló teljesítőképességét [kW] és tárolókapacitását [kWh] az átviteli rendszerirányítóval kötött, bevételkompenzációra vonatkozó szerződés hatálybalépésének hónapjában, majd azt követően legalább évente egy alkalommal méréssel ellenőrzi. A mérés pontos leírását a villamosenergia-ellátási szabályzatok tartalmazzák.
 
 (10) Saját költségére a (9) bekezdés szerinti mérést soron kívül a bevételkompenzációra jogosult is kezdeményezheti.
+
+[^5]: A 3. § (9) bekezdése a 9/2025. (VI. 4.) MEKH rendelet 5. § b) pontja szerint módosított szöveg.
