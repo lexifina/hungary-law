@@ -30,14 +30,19 @@ megkezdett magasépítési beruházások (a továbbiakban együtt: Beruházások
 
 | Határidő: | a felmerülés ütemében |
 
-8. az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2025. és a 2026. évben az 1. pont szerinti feladat megvalósításához a központi költségvetés XLV. Állami beruházások fejezet, 1. Magasépítési beruházások cím, 1. Egyedi magasépítési beruházások alcím, 40. Tanuszoda fejlesztések megvalósítása jogcímcsoport terhére vállalható éven túli kötelezettség felső korlátját 5 664 392 630 forintban határozza meg;
+8.[^1] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2025. és a 2026. évben az 1. pont szerinti feladat megvalósításához a központi költségvetés XLV. Állami beruházások fejezet, 1. Magasépítési beruházások cím, 1. Egyedi magasépítési beruházások alcím, 40. Tanuszoda fejlesztések megvalósítása jogcímcsoport terhére vállalható éven túli kötelezettség felső korlátját 7 396 601 042 forintban határozza meg;
 
-9. felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az 1. pont szerinti cél megvalósítása érdekében összesen 5 664 392 630 forint forrás rendelkezésre állásáról, az alábbi ütemezés szerint:
+9.[^2] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az 1. pont szerinti cél megvalósítása érdekében összesen 7 396 601 042 forint forrás rendelkezésre állásáról, az alábbi ütemezés szerint:
 
-a) a 2025. évben a központi költségvetés XLV. Állami beruházások fejezetében 5 169 835 379 forint,
+a)[^3] a 2025. évben a központi költségvetés XLV. Állami beruházások fejezetében 5 702 515 000 forint,
 
-b) a 2026. évben a központi költségvetés XLV. Állami beruházások fejezetében 494 557 251 forint.
+b)[^4] a 2026. évben a központi költségvetés XLV. Állami beruházások fejezetében 1 694 086 042 forint.
 
 | Felelős: | építési és közlekedési miniszter pénzügyminiszter |
 
 | Határidő: | az adott évi központi költségvetés tervezése során |
+
+[^1]: A 8. pont az 1207/2025. (VI. 19.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 9. pont nyitó szövegrésze az 1207/2025. (VI. 19.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 9. pont a) alpontja az 1207/2025. (VI. 19.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^4]: A 9. pont b) alpontja az 1207/2025. (VI. 19.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
