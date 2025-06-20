@@ -2,11 +2,11 @@
 
 (2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 7. § (1) bekezdés z) pont zc) alpontját első alkalommal a 2014. adóévi adókötelezettségre, a 2014. adóévben kötött felsőoktatási támogatási megállapodás vonatkozásában lehet alkalmazni.
 
-(3) A MÁV Magyar Államvasutak Zrt. és a MÁV-START Zrt. adózás előtti eredményét csökkenti a jogszabály vagy kormányhatározat alapján a Magyar Állam részéről átvállalt vagy elengedett kötelezettség elszámolásából adódó bevétel összege.
+(3) A MÁV Magyar Államvasutak Zrt., a MÁV Pályaműködtetési Zrt., a MÁV Személyszállítási Zrt. és a GYSEV Zrt. adózás előtti eredményét csökkenti a jogszabály vagy kormányhatározat alapján a Magyar Állam részéről átvállalt vagy elengedett kötelezettség elszámolásából adódó bevétel összege.
 
-(4) A MÁV Magyar Államvasutak Zrt. és a MÁV-START Zrt. adózás előtti eredményét nem növeli az immateriális jószág, tárgyi eszköz állományból bármely jogcímen történő kivezetésekor az eszköz könyv szerinti értékének a készletre vett hulladék anyag, haszonanyag értékét meghaladó része, továbbá nem csökkenti az immateriális jószág, tárgyi eszköz állományból bármely jogcímen történő kivezetésekor az eszköz számított nyilvántartási értékének a készletre vett hulladék anyag, haszonanyag értékét meghaladó része, feltéve, mindkét esetben, hogy az eszköz értékcsökkenését az adózó a számvitelről szóló törvény szerint az adózás előtti eredmény terhére számolta el, és hogy az eszköz kivezetésére jogszabály rendelkezése vagy kormányhatározat alapján kerül sor.
+(4) A MÁV Magyar Államvasutak Zrt., a MÁV Pályaműködtetési Zrt., a MÁV Személyszállítási Zrt. és a GYSEV Zrt. adózás előtti eredményét nem növeli az immateriális jószág, tárgyi eszköz állományból bármely jogcímen történő kivezetésekor az eszköz könyv szerinti értékének a készletre vett hulladék anyag, haszonanyag értékét meghaladó része, továbbá nem csökkenti az immateriális jószág, tárgyi eszköz állományból bármely jogcímen történő kivezetésekor az eszköz számított nyilvántartási értékének a készletre vett hulladék anyag, haszonanyag értékét meghaladó része, feltéve, mindkét esetben, hogy az eszköz értékcsökkenését az adózó a számvitelről szóló törvény szerint az adózás előtti eredmény terhére számolta el, és hogy az eszköz kivezetésére jogszabály rendelkezése vagy kormányhatározat alapján kerül sor.
 
-(5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 29/A. § (3)–(4) bekezdését a MÁV Magyar Államvasutak Zrt. és a MÁV-START Zrt. a 2014. évi adókötelezettségének megállapítása során is alkalmazhatja.
+(5) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított (3) és (4) bekezdést a MÁV Magyar Államvasutak Zrt., a MÁV Pályaműködtetési Zrt., a MÁV Személyszállítási Zrt. és a GYSEV Zrt. a 2025. évi adókötelezettségének megállapítása során is alkalmazhatja.
 
 (6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteséget az adózó a 2014. december 31-én hatályos előírások szerint írhatja le.
 
@@ -267,3 +267,21 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (124) Az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 1. számú melléklet 5. pont i) alpontja szerinti értékcsökkenés az adózó választása szerint első alkalommal a 2024. adóévre alkalmazható.
 
 (125) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 22/C. § (1) bekezdés a) pont ag) alpontját az egyes adótörvények módosításáról szóló 2024. évi LV. törvény hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
+
+(126) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 4. § 5. pontját az adózó első alkalommal – figyelemmel a (127) bekezdésben foglaltakra – a rendelkezés hatálybalépését követően megvalósuló határokon átnyúló átalakulás esetében alkalmazza.
+
+(127) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 4. § 5. pontját az adózó a 2024. január 1-je és a rendelkezés hatálybalépése közötti időszakban megvalósult határokon átnyúló átalakulás esetén akkor alkalmazhatja, ha a rendelkezés hatálybalépését követő 75 napon belül bejelenti az adóhatóságnak azon részesedéseket, amelyeket a belföldi illetőség megszerzése előtt szerzett, feltéve hogy e részesedéseket a rendelkezés hatálybalépéséig még nem jelentette be. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(128) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 4. § 28. pontját első alkalommal a rendelkezés hatálybalépését követően benyújtott bejelentés, kérelem esetén kell alkalmazni.
+
+(129) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 7. § (17) bekezdése az adózó választása szerint a 2025-ben kezdődő adóévre is alkalmazható.
+
+(130) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 16. § (12a) bekezdését első alkalommal a módosítás hatálybalépését követő nemteljesítésre kell alkalmazni.
+
+(131) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 18. § (6) bekezdését az adózó első alkalommal a 2024. december 31-ét követően végrehajtott leválások esetében alkalmazhatja.
+
+(132) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 22/C. § (3e) bekezdését, (6) bekezdés d) és e) pontját, (9a)–(9b) bekezdését, 24/A. § (12) bekezdését, (19)–(20a) bekezdését az ezen rendelkezések hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+
+(133) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 3. számú melléklet B) rész 9. pontja első alkalommal a 2025-ben kezdődő adóévre alkalmazandó.
+
+(134) Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel módosított 22/E. § (2) és (3a)–(4b) bekezdését, (8) bekezdés a) és g)–h) pontját, valamint (12)–(17) bekezdését első alkalommal a 2023. november 30-át követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében kell alkalmazni.

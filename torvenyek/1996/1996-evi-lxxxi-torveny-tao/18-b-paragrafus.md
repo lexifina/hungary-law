@@ -8,7 +8,7 @@ c) a fejlesztési adókedvezménynek, az energiahatékonysági célokat szolgál
 
 d)
 
-e) a saját részvény, a saját üzletrész értékesítésekor, nem pénzbeli hozzájárulásként történő kivezetésekor közvetlenül a saját tőke adóévi csökkenéseként elszámolt veszteség összege,
+e) a saját részvény, a saját üzletrész értékesítése, nem pénzbeli hozzájárulásként történő kivezetése esetén közvetlenül a saját tőke csökkenéseként az értékesítés, a kivezetés adóévében és azt megelőzően elszámolt összeg,
 
 f) a (2) bekezdés e) pontja alapján a korábbi adóév(ek)ben az adózás előtti eredményt növelő tételként figyelembe vett összegből az adózás előtti eredmény javára elszámolt adóévi összeg,
 
@@ -30,7 +30,7 @@ a) a társasági adónak a 6. § (5) bekezdés b) pontjában foglaltak miatt, a 
 
 b)
 
-c) a saját részvény, a saját üzletrész értékesítésekor, nem pénzbeli hozzájárulásként történő kivezetésekor közvetlenül a saját tőke adóévi növekedéseként elszámolt nyereség összege,
+c) a saját részvény, a saját üzletrész értékesítése, nem pénzbeli hozzájárulásként történő kivezetése esetén közvetlenül a saját tőke növekedéseként az értékesítés, a kivezetés adóévében és azt megelőzően elszámolt összeg,
 
 d) az az összeg,
 
