@@ -36,6 +36,8 @@ vagy aki ügyvezetői megbízatásának kezdetét megelőző egy évben az a)–
 
 (3) A HUN-REN Irányító Testületének vagy felügyelőbizottságának tagja (a továbbiakban együtt: tisztviselő) nem lehet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti támogatott alapítvány vagy támogatott jogi személy (a továbbiakban együtt: támogatott szerv) kuratóriumának, felügyelőbizottságának tagja vagy vezető tisztségviselője, amennyiben ezen tisztségek egyidejű betöltése miatt a feladatai pártatlan, tárgyilagos és elfogulatlan ellátására nem, vagy csak korlátozottan képes.
 
+(3a) Tisztviselő lehet a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) szerinti Kutatási Kiválósági Tanács elnöke, mint a Kormány által kijelölt szerv tudományos vezetője.
+
 (4) Tisztviselő csak olyan személy lehet, aki rendelkezik a tisztség betöltéséhez szükséges függetlenséggel, feddhetetlenséggel, pártatlansággal és integritással.
 
 (5) Az e § szerinti összeférhetetlenségi szabályoknak való megfelelést az Állami Számvevőszék álláspontja figyelembevételével az Irányító Testület állapítja meg.

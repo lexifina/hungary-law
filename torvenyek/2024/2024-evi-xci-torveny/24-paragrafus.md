@@ -10,7 +10,7 @@
 
 (5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az 1. § (2) bekezdésében meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd költségvetési szerv tulajdonában lévő, valamint a jogelőd költségvetési szerv vagyonkezelésében lévő, állami tulajdonban lévő ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva
 
-a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) alapján alapított Magyar Kutatási Hálózat HUN-REN Központja (a továbbiakban: MKH Központ) esetében a HUN-REN,
+a) a KFItv. alapján alapított Magyar Kutatási Hálózat HUN-REN Központja (a továbbiakban: MKH Központ) esetében a HUN-REN,
 
 b) az MKH kutatóközpontjai és kutatóintézetei (a továbbiakban együtt: MKH kutatóintézetek) esetében a 29. § (2) bekezdése szerinti jogi személyiséggel rendelkező szervezeti egység
 

@@ -1,6 +1,6 @@
 ## 14. Sarkalatos rendelkezések
 
-33. § (1) A 18. § (2), (3), (6)–(8) bekezdése, a 23. § (1), (3), (8) és (9) bekezdése, 24. § (1), (4), (5) bekezdése, 25. §, 26. §, a 60. § és a 87. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+33. § (1) A 18. § (2), (3), (6)–(8) bekezdése, a 23. § (1), (3), (8) és (9) bekezdése, 24. § (1), (4), (5) bekezdése, 25. §, 26. §, a 60. § és a 87. §, az 1. és 2. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 23. § (2) bekezdése, a 28. alcím az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
