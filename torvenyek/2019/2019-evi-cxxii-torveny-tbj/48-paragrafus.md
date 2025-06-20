@@ -14,6 +14,8 @@ c) a biztosítása szünetel,
 
 nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 22 százalék nyugdíjjárulék fizetésének vállalása mellett megállapodást (a továbbiakban: szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött megállapodás) köthet.
 
+(1a) Az (1) bekezdés a) pontját nem kell alkalmazni a doktoranduszra, ha a nyugdíjalapot képező jövedelme nem éri el a kötelező legkisebb munkabért.
+
 (2) Az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg.
 
 (3) A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött megállapodás esetén a járulékfizetés alapja a megállapodást kötő személy által megjelölt jövedelem, de legalább a megállapodás megkötése napján érvényes minimálbér összege. Ha a megállapodást a minimálbér összegének figyelembevételével kötik meg, annak változása esetén a megállapodás alapján fizetendő nyugdíjjárulékot a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Így kell eljárni akkor is, ha a megállapodást kötő személy az általa megjelölt jövedelmét módosítja. Ha a megállapodást kötő személy, kedvezményezett javára kötött megállapodás esetén a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.
