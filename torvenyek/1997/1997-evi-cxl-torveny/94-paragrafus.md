@@ -8,7 +8,7 @@ c) megfelel a miniszter rendeletében előírt képesítési és egyéb feltéte
 
 (2) Azt a tényt, hogy a foglalkoztatott vagy foglalkoztatni kívánt személy az (1) bekezdés b) pontjában meghatározott feltételnek megfelel, a tevékenység megkezdését megelőzően, illetve a tevékenységének gyakorlása alatt hatósági bizonyítvánnyal igazolja.
 
-(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) és (3b) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázati, vagy a miniszter előzetes hozzájárulásával meghívásos eljárást alkalmaz. A pályázati, illetve meghívásos eljárás kiírásának, benyújtásának és értékelésének rendjét, valamint a meghívásos eljárás feltételeit a miniszter rendeletben határozza meg.
+(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója – a (3a) és (3b) bekezdésben, valamint a 99/D. § (3) és (4) bekezdésében foglalt kivétellel – pályázati, vagy a miniszter előzetes hozzájárulásával meghívásos eljárást alkalmaz. A pályázati eljárás kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
 
 (3a) A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) vezetőjét a miniszter nevezi ki, illetve menti fel.
 
