@@ -1,6 +1,6 @@
 ## Geotermikus energia kutatása és hasznosítása
 
-21/A. § (1) Geotermikus energia kutatását a bányafelügyelet engedélye alapján lehet végezni.
+21/A. § (1) Geotermikus energia kutatását – a 22. § (1) bekezdés kivételével – a bányafelügyelet engedélye alapján lehet végezni.
 
 (2) A bányavállalkozó a kutatási engedély alapján a kutatási területen kizárólagosan jogosult – a (2a) bekezdés kivételével – a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, továbbá a geotermikus védőidom kijelölésének és a 21/C. § (1) bekezdése szerinti szerződés megkötésének kezdeményezésére.
 
@@ -16,7 +16,7 @@ d) amely terület tekintetében más a 21/C. § (1) bekezdése szerinti szerződ
 
 (2b) Egymással határos ingatlanegyütteshez tartozó ingatlanoknak kell tekintetni azokat az ingatlanokat is, amelyeket legfeljebb egy, közterületnek minősülő ingatlan választ el egymástól.
 
-(2c) A bányafelügyelet a (2a) bekezdés szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a más kutatási engedélyében szereplő kutatási tevékenység elvégzését vagy a 21/C. § (1) bekezdése szerinti szerződés szerinti hasznosítást kizárná.
+(2c) A bányafelügyelet a (2a) bekezdés szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a már kiadott kutatási engedélyben, vagy a koncessziós szerződésben szereplő kutatási tevékenység elvégzését, továbbá a koncessziós szerződés szerinti hasznosítást, vagy a 21/C. § (1) bekezdése szerinti szerződés szerinti hasznosítást jelentős mértékben korlátozná vagy kizárná.
 
 (2d) A (2a) bekezdés szerinti kérelemre az általános szabályokat kell alkalmazni.
 

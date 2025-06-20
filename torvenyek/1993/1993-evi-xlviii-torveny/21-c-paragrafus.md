@@ -1,4 +1,4 @@
-21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet. A bányavállalkozó a szerződéskötés iránti kérelmet a geotermikus védőidomot kijelölő határozat véglegessé válásától számított hat hónapos jogvesztő határidőn belül nyújthatja be. A határidő elmulasztása esetén a bányavállalkozó kutatási engedélye megszűnik.
+21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése és a 22. § (1) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet. A bányavállalkozó a szerződéskötés iránti kérelmet a geotermikus védőidomot kijelölő határozat véglegessé válásától számított hat hónapos jogvesztő határidőn belül nyújthatja be. A határidő elmulasztása esetén a bányavállalkozó kutatási engedélye megszűnik.
 
 (2) A szerződés megkötésének feltétele, hogy a bányavállalkozó
 

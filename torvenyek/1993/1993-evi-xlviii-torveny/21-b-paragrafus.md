@@ -1,6 +1,6 @@
 21/B. § (1) Geotermikus energiát kinyerni – a (6) bekezdés szerinti eset kivételével – a földkéreg e célra elhatárolt részéből (geotermikus védőidom) szabad.
 
-(2) A geotermikus védőidomot kérelemre a bányafelügyelet jelöli ki. Geotermikus védőidomok nem lehetnek átfedésben, kivéve a 21/A. § (2a) bekezdése szerinti hasznosításhoz kapcsolódó geotermikus védőidommal történő átfedést. Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybevett vízadók, víztestek geotermikus védőidomként nem jelölhetők ki. Nem jelölhető ki geotermikus védőidom akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne.
+(2) A geotermikus védőidomot kérelemre a bányafelügyelet jelöli ki. Geotermikus védőidomok nem lehetnek átfedésben, kivéve a 21/A. § (2a) bekezdése szerinti hasznosításhoz kapcsolódó geotermikus védőidommal történő átfedést. Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybevett vízadók, víztestek geotermikus védőidomként akkor jelölhetők ki, ha a megállapítandó védőidomból történő termálvíz kitermelés a meglévő vízhasználatot nem veszélyezteti. Nem jelölhető ki geotermikus védőidom akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne. A geotermikus védőidom a kutatási területen belül állapítható meg.
 
 (3) Geotermikus védőidomként olyan térrészt lehet kijelölni, amely adott technológia alkalmazása mellett legalább huszonöt évig biztosítja a kinyerni tervezett geotermikus energia mennyiségét.
 

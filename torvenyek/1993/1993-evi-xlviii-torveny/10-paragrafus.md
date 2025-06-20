@@ -4,7 +4,7 @@
 
 (2) A pályázati kiírásnak a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakra is figyelemmel, tartalmaznia kell:
 
-a) a pályázatban meghirdetett terület vagy térrész meghatározását annak feltüntetésével, hogy a területen, vagy a térrészben harmadik személy rendelkezik-e jogosultsággal ásványi nyersanyag bányászatára, vagy az e törvény hatálya alá tartozó egyéb tevékenység gyakorlására,
+a) a pályázatban meghirdetett terület vagy térrész meghatározását annak feltüntetésével, hogy a területen, vagy a térrészben harmadik személy rendelkezik-e jogosultsággal ásványi nyersanyag bányászatára, geotermikus energia kutatására, kinyerésére, hasznosítására vagy az e törvény hatálya alá tartozó egyéb tevékenység gyakorlására,
 
 b) a koncessziós tevékenység szakmai követelményeit, valamint az érzékenységi és terhelhetőségi vizsgálat eredménye alapján meghatározott követelményeket, és a követelmények teljesítéséhez szükséges biztosíték-adási kötelezettséget,
 
