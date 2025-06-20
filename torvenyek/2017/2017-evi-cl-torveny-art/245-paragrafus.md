@@ -22,7 +22,7 @@ b) húszszorosa a harminc napra elrendelt üzletlezárás esetén.
 
 (2) Az (1) bekezdésben meghatározott mulasztás ismételt előfordulása esetén elrendelt ismételt lezárás időtartama harminc, majd minden további esetben hatvan nyitvatartási nap. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő ugyanolyan mulasztás között három év eltelt.
 
-(3) A kiszabott bírságról és a lezárásról hozott határozat elleni fellebbezésnek a lezárás végrehajtására nincs halasztó hatálya. Az intézkedés miatt harmadik személyeket ért kárért az adózó köteles helytállni.
+(3) Az intézkedés miatt harmadik személyeket ért kárért az adózó köteles helytállni.
 
 (4) A lezárás akadályozása esetén az állami adó- és vámhatóság a rendőrség közreműködését veheti igénybe.
 

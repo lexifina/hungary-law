@@ -32,7 +32,19 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 11. ajánlott elektronikus kézbesítési szolgáltatás: a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti ajánlott elektronikus kézbesítési szolgáltatás,
 
-12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet alapján nyújtható támogatás,
+12. csekély összegű (de minimis) támogatás:
+
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet 2. cikke,
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet 3. cikke,
+
+c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet 3. cikke,
+
+d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet 3. cikke,
+
+e) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet 3. cikke,
+
+f) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendelet 3. cikke szerinti támogatás,
 
 13. egyéb szervezet: az egyéni cég, a polgári jogi társaság, a társasház, a társasüdülő, a társasgarázs, az építőközösség, a jogi személyiséggel nem rendelkező személyi egyesülés és a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 

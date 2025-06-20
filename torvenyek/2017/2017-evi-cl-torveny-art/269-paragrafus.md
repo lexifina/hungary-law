@@ -1,6 +1,6 @@
 ### 269. § [Az adópolitikáért felelős miniszter számára adott felhatalmazások]
 
-(1)
+(1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy az adószám képzésének szabályait rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a belföldön letelepedett adóalanynak az Európai Unió más tagállamában érvényesíthető hozzáadottértékadó-visszatéríttetési kérelme, kiigazítási nyilatkozata adattartalmára, formátumára, kitöltésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
