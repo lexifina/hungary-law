@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2024-07-01 | 2024. évi XXIX. törvény | 2013-5-00-00.40 |
 | 2025-01-01 | 2019. évi CX. törvény | 2013-5-00-00.41 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2013-5-00-00.35 |
+| 2025-06-20 | 2025. évi XLIX. törvény | 2013-5-00-00.42 |
