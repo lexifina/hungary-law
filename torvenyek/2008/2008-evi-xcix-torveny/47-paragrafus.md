@@ -36,7 +36,7 @@ p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi
 
 q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
 
-r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, a pályázatok elbírálásának rendjét, valamint a meghívásos pályázat feltételeit, tartalmát, kiírásának, benyújtásának és értékelésének rendjét,
+r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, a pályázatok elbírálásának rendjét,
 
 s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait,
 
