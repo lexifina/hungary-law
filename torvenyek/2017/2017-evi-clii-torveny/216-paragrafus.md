@@ -20,6 +20,8 @@
 
 7. az Uniós Vámkódex értelmében történő információcserét és információtárolást szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló 2017. november 14-i (EU) 2017/2089 bizottsági végrehajtási rendeletnek
 
+8. az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendeletnek
+
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény

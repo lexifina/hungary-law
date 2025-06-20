@@ -42,11 +42,15 @@ en) a klímavédelemért felelős hatóságot,
 
 eo) az atomenergia-felügyeleti szervet,
 
+ep) az erdészeti hatóságot,
+
+eq) a külpolitikáért felelős minisztert,
+
 f) az agrárpolitikáért felelős minisztert az agrárrendtartással és a piacvédelmi elemzéssel összefüggő feladatok ellátása céljából,
 
 g) a minisztert, ha a tájékoztatás jogszabályban meghatározott feladata ellátásához szükséges,
 
-h) az egészségügyért felelős minisztert, illetve a külpolitikáért felelős minisztert ellenőrzési feladatai ellátása céljából,
+h) az egészségügyért felelős minisztert ellenőrzési feladatai ellátása céljából,
 
 i) a kereskedelemért felelős minisztert dömping- és szubvencióellenes, piacvédelmi elemzési célokból,
 
@@ -69,6 +73,8 @@ q) a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe t
 r) a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaságot és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaságot az áruk, szolgáltatások és anyagi értéket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosultnak az általa igénybe vehető szolgáltatásokról történő tájékoztatása céljából,
 
 s) a közlekedési hatóságot a Vámkódex 39. cikk e) pontja szerinti biztonsági és védelmi szabványokkal kapcsolatban a vámhatóság által lefolytatott eljárásának eredményéről a meghatalmazott ügynök vagy ismert szállító minősítésével kapcsolatos feladatok ellátása céljából.
+
+t) a NAV szabálysértési hatóságként eljáró szervét, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 56/A. § (2) bekezdése szerinti megkeresés alapján.
 
 (1a) Az (1) bekezdés b) pontja szerinti szervek részére csak abban az esetben adható tájékoztatás a vámtitokról, ha az ügyészség az adatkérést engedélyezte. A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdése vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdése szerinti adatkérés esetén a vámhatóság az ügyészség engedélye nélkül is köteles az általa kezelt, vámtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. Ilyen esetben az adatkérő az engedélyt utólag, haladéktalanul beszerzi, és megküldi a vámhatóságnak.
 
