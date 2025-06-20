@@ -1,0 +1,5 @@
+7. § A Kjtv. 120. § (2) és (2a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A felolvasás mellőzhető, ha a fél, képviselő útján történő eljárás esetén a képviselő – több fél esetén a felek vagy képviselőjük – a készítendő közjegyzői okirattól elkülönült, de ahhoz fűzendő okiratba foglaltan kijelenti – több fél vagy képviselők eljárása esetén együttesen kijelentik –, hogy az okirat tervezetét megismerte és elolvasta – több fél vagy képviselők eljárása esetén megismerték és elolvasták – és kéri – több fél vagy képviselők eljárása esetén együttesen kérik – az okirat felolvasásának mellőzését (a továbbiakban: okirat felolvasásának mellőzése iránti kérelem). Több fél vagy képviselőik okirat felolvasásának mellőzése iránti együttes kérelmét a felek vagy képviselők külön okiratban is megtehetik. Az okirat felolvasásának mellőzése iránti kérelmet teljes bizonyító erejű magánokiratba kell foglalni.
+
+(2a) A közjegyző az okirat felolvasásának mellőzése iránti kérelem esetén is felolvashatja az okiratot.”

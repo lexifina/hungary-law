@@ -1,0 +1,3 @@
+111. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 7. alcíme a következő 32/A. §-sal egészül ki:
+
+„32/A. § Nyilvánosan működő részvénytársaság részvényese nem dönthet úgy, hogy tagsági viszonyát a leválás esetére a 18/A. § (5) bekezdésének alkalmazásával megszünteti. Új tag a továbbműködő (fennmaradó) nyilvánosan működő részvénytársasághoz a 18/A. § (4) bekezdése alapján nem csatlakozhat. Erre tekintettel e törvénynek a távozási szándék bejelentésével és a társaságtól megváló taggal való elszámolással, valamint az új tag csatlakozásával összefüggő szabályai nem alkalmazhatóak.”

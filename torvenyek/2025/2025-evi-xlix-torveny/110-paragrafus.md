@@ -1,0 +1,3 @@
+110. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 18. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha a szétválással kapcsolatos vagyonmegosztás folytán valamely létrejövő jogi személyhez kerül engedélyköteles tevékenység ellátása, a 6/A. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a szétválással létrejövő jogi személyek közül az a jogi személy válhat az engedély jogosultjává. amelyikhez azt a szétválási szerződés telepítette. E jogi személy az engedélyköteles tevékenységet a 6/A. § (3) bekezdésében meghatározott időtartam alatt jogutódként végezheti, ha azt számára hatóság határozata nem tiltja.”

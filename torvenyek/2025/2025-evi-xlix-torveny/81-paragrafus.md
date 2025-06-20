@@ -1,0 +1,3 @@
+81. § Az Üjt. 147. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A tisztviselő és az írnok esetén a pótszabadság mértéke a szolgálati idő 4. évétől 2 munkanap, 8. évétől 4 munkanap, 12. évétől 6 munkanap, 19. évétől 8 munkanap, 26. évétől 10 munkanap, 31. évétől 12 munkanap, 36. évétől 13 munkanap. Az ügyészségi megbízott esetén a pótszabadság mértéke 3 év szolgálati időig 1 munkanap, a szolgálati idő 4. évétől 3 munkanap, 8. évétől 5 munkanap, 12. évétől 7 munkanap, 19. évétől 9 munkanap, 26. évétől 11 munkanap, 31. évétől 13 munkanap. A tisztviselő, az írnok és az ügyészségi megbízott pótszabadságának mértéke a tizenhárom munkanapot nem haladhatja meg.”
