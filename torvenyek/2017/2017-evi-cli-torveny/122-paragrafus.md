@@ -2,6 +2,8 @@
 
 (1) A fellebbezésre jogosult az adóhatóság elsőfokú határozatával szemben – a törvény eltérő rendelkezése hiányában – fellebbezhet.
 
+(1a) A 9. § (2) bekezdése szerinti eljárások során hozott elsőfokú határozat ellen nincs helye fellebbezésnek, azzal szemben közigazgatási per indítható.
+
 (2) A határozathozatalt megelőző eljárás során hozott végzés a határozat ellen benyújtott fellebbezésben támadható meg, kivéve, ha az önálló fellebbezést törvény megengedi.
 
 (3) Önálló fellebbezésnek van helye az első fokon hozott,

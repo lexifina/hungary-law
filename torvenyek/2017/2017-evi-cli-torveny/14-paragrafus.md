@@ -25,3 +25,5 @@ a) ismeretlen helyen tartózkodik, vagy
 b) nem tud az ügyben eljárni,
 
 az eljáró adóhatóság gondoskodik ügygondnok kirendeléséről.
+
+(7a) Az eljáró adóhatóság ügygondnokot rendelhet ki annak a kényszertörlés alatt álló adózónak, amelynek nincs képviselője.

@@ -14,10 +14,10 @@ b) jogkövetési vizsgálat esetében harminc nap.
 
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
-(3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
+(3) A 95. § (2a) és (2b) bekezdés szerinti eset kivételével az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
 (3a) Az önkormányzati adóhatóság által végzett adóellenőrzés időtartama a cégbejegyzésre nem kötelezett adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
-(4) Az adóellenőrzés időtartama nem haladhatja meg a háromszázhatvanöt napot.
+(4) A 95. § (2a) és (2b) bekezdés szerinti eset kivételével az adóellenőrzés időtartama nem haladhatja meg a háromszázhatvanöt napot.
 
 (5) Az ellenőrzés határidejét a megbízólevél kézbesítésétől, átadásától, illetve az általános megbízólevél bemutatásától, új eljárás lefolytatása esetén az az új eljárás megkezdéséről szóló értesítés postára adásától, tárhelyen történő elhelyezésétől, illetve átadásától kell számítani.
