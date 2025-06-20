@@ -1,3 +1,3 @@
-19. §[^69]
+19. §[^70]
 
-[^69]: A 19. § a 260/2020. (VI. 4.) Korm. rendelet 6. §-a alapján nem lép hatályba.
+[^70]: A 19. § a 260/2020. (VI. 4.) Korm. rendelet 6. §-a alapján nem lép hatályba.

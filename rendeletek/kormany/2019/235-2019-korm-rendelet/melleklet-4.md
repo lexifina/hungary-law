@@ -56,7 +56,7 @@
 
 ## IX. a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet szerinti zenés, táncos rendezvény.
 
-4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^74]
+4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^75]
 
 Turisztikailag kiemelt jelentőségű település
 
@@ -100,4 +100,4 @@ Tiszakécske
 
 Zalaegerszeg
 
-[^74]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.
+[^75]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.
