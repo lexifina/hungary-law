@@ -1,6 +1,6 @@
 137. § Az Szt.
 
-1. 87. § (2) bekezdésében a „kivetett” szövegrész helyébe a „kivetett, várható” szöveg,
+1.
 
 2. 156. § (5) bekezdés i) pontjában az „az összevont (konszolidált) üzleti jelentésben” szövegrész helyébe az „az összevont (konszolidált) üzleti jelentésben (ide nem értve a III/A. Fejezet és a VI/C. Fejezet szerinti fenntarthatósági jelentést)” szöveg,
 

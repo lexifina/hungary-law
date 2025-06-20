@@ -22,8 +22,4 @@
 
 (134) Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel módosított 22/E. § (2) és (3a)–(4b) bekezdését, (8) bekezdés a) és g)–h) pontját, valamint (12)–(17) bekezdését első alkalommal a 2023. november 30-át követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében kell alkalmazni.”
 
-(3) A Tao. törvény 29/A. §-a a következő (135) és (136) bekezdéssel egészül ki:
-
-„(135) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 7. § (1) bekezdés y) pontja az adózó választása szerint első alkalommal a 2025-ben kezdődő adóévre alkalmazható.
-
-(136) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 16. § (2) bekezdés a) és d) pontját első alkalommal a módosítás hatálybalépését követő átalakulásra, egyesülésre, szétválásra kell alkalmazni.”
+(3)

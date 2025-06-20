@@ -4,25 +4,11 @@
 
 ## 3. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-3. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 3. §-a a következő 56. ponttal egészül ki:
+3. § (1)
 
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+(2)
 
-## „56. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye: a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti kedvezmény.”
-
-(2) Az Szja tv. 3. §-a a következő 57. ponttal egészül ki:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
-
-## „57. A három gyermeket nevelő anyák kedvezménye: a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény.”
-
-(3) Az Szja tv. 3. §-a a következő 58. és 59. ponttal egészül ki:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
-
-## „58. A két gyermeket nevelő anyák kedvezménye: a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény.
-
-## 59. A 30 év alatti anyák kedvezménye: a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény szerinti kedvezmény.”
+(3)
 
 (4) Az Szja tv. 3. §-a a következő 64. ponttal egészül ki:
 
@@ -30,6 +16,4 @@
 
 ## „64. Családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti családi pótlék.”
 
-(5) Az Szja tv. 3. §-a a következő 71. ponttal egészül ki:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+(5)

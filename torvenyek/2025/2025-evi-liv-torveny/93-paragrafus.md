@@ -16,6 +16,4 @@
 
 ## f) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendelet 3. cikke szerinti támogatás,”
 
-(2) Az Art. 7. § 30. pontja helyébe a következő rendelkezés lép:
-
-(E törvény és – ha törvény másként nem rendelkezik – az adóról és az adóigazgatási eljárásról szóló jogszabályok alkalmazásában)
+(2)

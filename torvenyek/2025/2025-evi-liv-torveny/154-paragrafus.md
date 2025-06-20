@@ -7,15 +7,3 @@
 (3) E törvény 126. § (1) bekezdése az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) E törvény 137. § 4. és 5. pontja az (EU) 2022/2464 és az (EU) 2024/1760 irányelvnek az egyes fenntarthatósággal kapcsolatos vállalati beszámolási és átvilágítási követelmények tagállamok általi alkalmazásának kezdőnapjai tekintetében történő módosításról szóló, 2025. április 14-i, (EU) 2025/794 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
