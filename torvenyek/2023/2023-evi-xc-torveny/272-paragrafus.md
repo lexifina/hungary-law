@@ -48,4 +48,6 @@
 
 23. a magyar külképviseletek, továbbá amennyiben azt nemzetközi vagy kétoldalú megállapodás kötelezővé teszi, vagy az az eljárás eredményes lefolytatásához szükséges, vagy a kiutasítási döntéssekkel kapcsolatos eljárásokban az ügyfél kérelmére a Magyarországon működő, vagy Magyarországra akkreditált diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviseletek
 
+24. a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2021–2027 közötti programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet által meghatározott Belügyi Alapok irányító hatósága (a továbbiakban: Irányító Hatóság)
+
 részére továbbíthat adatot.

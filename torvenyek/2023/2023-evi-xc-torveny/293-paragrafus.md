@@ -50,4 +50,6 @@
 
 25. a 767/2008/EK, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1860, az (EU) 2018/1861 és az (EU) 2019/817 rendeletnek az egyéb uniós információs rendszerekhez az Európai Utasinformációs és Engedélyezési Rendszer céljából való hozzáférésre vonatkozó feltételek megállapítása tekintetében történő módosításáról szóló, 2021. július 7-i (EU) 2021/1152 európai parlamenti és tanácsi rendelet
 
+26. az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Igazságos Átmenet Alapra és az Európai Tengerügyi, Halászati és Akvakultúra-alapra vonatkozó közös rendelkezések, valamint az előbbiekre és a Menekültügyi, Migrációs és Integrációs Alapra, a Belső Biztonsági Alapra és a határigazgatás és a vízumpolitika pénzügyi támogatására szolgáló eszközre vonatkozó pénzügyi szabályok megállapításáról szóló, 2021. június 24-i (EU) 2021/1060 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
