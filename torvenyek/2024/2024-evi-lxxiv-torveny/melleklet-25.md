@@ -6,7 +6,7 @@ Az önkormányzat helyi iparűzési többlete és szolidaritási hozzájárulás
 
 ## Ei = [ha (HIPAtárgyév/i > HIPAelőző év/i, akkor HIPAtárgyév/i – HIPAelőző év/i, egyébként 0) – (ha (SZHtárgyév > SZHelőző év, akkor SZHtárgyév/i – SZHelőző év/i, egyébként 0), de értéke legalább 0] – E∑i ahol
 
-a) Ei = tárgyhónapra (a 3. vagy 9. hónapra) vonatkozó fizetési kötelezettség, amely két hónappal későbbi nettó finanszírozásban érvényesül,
+a) Ei = tárgyhónapra (a 3., 9. vagy 12. hónapra) vonatkozó fizetési kötelezettség,
 
 b) HIPAtárgyév/i = tárgyévi helyi iparűzési adóbevétel tárgyhónap utolsó napjáig befolyt összege,
 
@@ -20,4 +20,4 @@ f) SZHtárgyév/i = tárgyévi szolidaritási hozzájárulás tárgyhónapig tel
 
 g) SZHelőző év/i = tárgyévet megelőző évi szolidaritási hozzájárulás tárgyévet megelőző év tárgyhónappal azonos hónapjáig teljesített összege,h) E∑i = tárgyhónapot megelőzően teljesült összes elvonás.
 
-2. A tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén
+2. A tárgyévben a tárgyhónapra vonatkozó fizetési kötelezettség mértékének korrigálása késedelmes adatszolgáltatás esetén
