@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-81-00-00
 | 2022-12-20 | 2022. évi LIX. törvény | 2021-81-00-00.3 |
 | 2024-12-21 | 2024. évi LXXVI. törvény | 2021-81-00-00.4 |
 | 2025-02-21 | 2024. évi LXXVI. törvény | 2021-81-00-00.5 |
+| 2025-06-20 | 2025. évi LVII. törvény | 2021-81-00-00.6 |
