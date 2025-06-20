@@ -52,4 +52,6 @@ g) jóváhagyja a belső ellenőrzési alapszabályt, valamint a belső ellenőr
 
 (9) A belső ellenőrzést végző személy és a megfelelési tanácsadó a feladata ellátása érdekében minősített adatot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, személyes adatokat kezelhet az adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások betartásával.
 
+(9a) A köztulajdonban álló gazdasági társaság a számvitelről szóló törvényben meghatározott anyavállalatként belső ellenőrzést, és a megfelelési tanácsadó feladatkörébe tartozó vizsgálatot végezhet bármely leányvállalatánál.
+
 (10) Az államháztartásért felelős miniszter – a köztulajdonban álló gazdasági társaságok tulajdonosi joggyakorlását ellátó miniszterek bevonásával – ellátja a köztulajdonban álló gazdasági társaságok belső kontrollrendszerének fejlesztésével, szabályozásával, koordinációjával és harmonizációjával kapcsolatos feladatokat, megalkotja az ezekhez kapcsolódó jogszabályokat, módszertani útmutatókat, valamint ellátja a szakmai egyeztető fórumok működtetésével kapcsolatos feladatokat.
