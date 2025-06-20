@@ -1,0 +1,3 @@
+2. § Az R. a következő 7/A. §-sal egészül ki:
+
+„7/A. § Amennyiben a kőolajtermék-előállító, valamint a kőolajtermék-kereskedő a 2025. évben engedély alapján Szlovákiából vesz át, szállít, vagy Szlovákiában letelepedett eladótól vásárol, illetve Szlovákiába ad át, szállít, vagy Szlovákiában letelepedett vásárló számára értékesít az Oroszországi Föderációból származó, 2022. június 3-át követően az Európai Unió területén szabad forgalomba bocsátott nyersolajból előállított kőolajterméket, haladéktalanul módosítja és benyújtja az állami adó- és vámhatóságnak a 4. § (1) bekezdés a) pontja szerinti jelentést.”
