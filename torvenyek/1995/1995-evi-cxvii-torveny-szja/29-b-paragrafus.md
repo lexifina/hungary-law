@@ -32,7 +32,7 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (4) Az állami adó- és vámhatóság az ellenőrzés során kérheti a várandósság tényéről kiadott orvosi igazolást.
 
-(5) E törvénynek a családi kedvezményre vonatkozó szabályait – figyelemmel az 1/A. § rendelkezéseire is – megfelelően alkalmazni kell bármely EGT-állam és a Magyarországgal határos, nem EGT-állam jogszabálya alapján családi pótlékra, rokkantsági járadékra, vagy más hasonló ellátásra jogosult magánszemély (jogosult, eltartott) esetében is azzal, hogy
+(5) E törvénynek a családi kedvezményre vonatkozó szabályait – figyelemmel az 1/A. § rendelkezéseire is – megfelelően alkalmazni kell bármely EGT-állam és a Magyarországgal határos, nem EGT-állam jogszabálya alapján családi pótléknak megfelelő ellátásra, rokkantsági járadékra, vagy más hasonló ellátásra jogosult magánszemély (jogosult, eltartott) esetében is azzal, hogy
 
 a) kedvezményezett eltartottként az a magánszemély (gyermek) vehető figyelembe, akire tekintettel a családok támogatásáról szóló törvény megfelelő alkalmazásával a kedvezményt érvényesítő magánszemély családi pótlékra való jogosultsága megállapítható lenne;
 

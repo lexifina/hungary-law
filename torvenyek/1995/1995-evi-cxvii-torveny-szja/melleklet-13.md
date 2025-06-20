@@ -21,5 +21,3 @@ b) halászati csekély összegű (de minimis) támogatásnak minősül, ha a ber
 c) agrár csoportmentességi (ABER) támogatásnak, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül, ha a beruházás mezőgazdasági termék feldolgozását vagy forgalmazását szolgálja,
 
 d) minden más esetben az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül.
-
-13. Az egyéni vállalkozó az adókedvezményt abban az adóévben – utoljára abban az adóévben, amelyben a hitelt az eredeti szerződés szerint vissza kell fizetnie – veheti igénybe, amelynek utolsó napján a tárgyi eszköz nyilvántartásában szerepel.

@@ -152,7 +152,7 @@ d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély e jogviszonyból származó jövedelme;
 
-f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítést és egészségkárosodási járadékot, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátást, továbbá a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
+f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot, a kormányzati igazgatási hősi juttatásokról szóló kormányrendelet szerinti hősi egészségkárosodási ellátást, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítést és egészségkárosodási járadékot, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátást, továbbá a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
 
 g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 
@@ -222,7 +222,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
 
-38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
+38. Egyenruha: a Magyar Honvédség, a rendvédelmi szervezetek és a polgári nemzetbiztonsági szolgálatok tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
 39. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikke szerinti támogatás.
 
@@ -294,7 +294,7 @@ b) kifizetőtől igénybe vett személyszállítási szolgáltatás útján
 
 azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csoportos személyszállításnak minősülhet, ha a munkavállalók munkarendje vagy a munkahely földrajzi elhelyezkedése miatt a munkába járás, illetve a hazautazás közösségi közlekedési eszköz igénybevételével nem valósítható meg.
 
-64.
+64. Családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti családi pótlék.
 
 65. Szociális gondozói díj: az a költségtérítést nem tartalmazó bevétel, amelyet a személyes gondoskodásról szóló jogszabályi rendelkezések alapján, illetőleg azoknak megfelelően nem munkaviszony keretében folytatott tevékenységért és nem munkaviszony keretében folytatott lelki segélyszolgálatért kap a magánszemély.
 

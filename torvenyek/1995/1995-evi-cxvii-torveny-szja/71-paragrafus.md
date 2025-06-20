@@ -26,7 +26,7 @@ b) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja r
 
 (4) Ha béren kívüli juttatásra vonatkozóan az állami adó- és vámhatóság a feltételek fennállásának hiányát állapítja meg, a jogkövetkezményeket – ha nem rendelkezik a magánszemély nyilatkozatával – a kifizető viseli. Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye, illetve a magánszemély a nyilatkozat átadását nem tudja igazolni, akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az állami adó- és vámhatóság határozata alapján kell viselnie.
 
-(5) E § és a 70. § (8) bekezdés alkalmazásában
+(5) E § és a 70. § (8)–(8d) bekezdés alkalmazásában
 
 a) munkáltatónak minősül a társas vállalkozás is;
 
