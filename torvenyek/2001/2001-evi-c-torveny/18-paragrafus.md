@@ -29,3 +29,5 @@ f) az ápoló, az okleveles kiterjesztett hatáskörű ápoló, az orvos, a fogo
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.
 
 (6) A kérelmező kérheti külföldi csecsemő- és kisgyermeknevelői, óvodapedagógus, tanítói és tanári oklevele által tanúsított szakképzettsége elismerését olyan módon is, hogy az egy adott nemzetiségi vagy idegen nyelven való oktatásra, illetve nevelésre jogosítsa fel.
+
+(7) A kérelmező kérheti a külföldi nyelvtanár-szakképzettséget tanúsító oklevelének idegennyelv-tanári szakképzettségként történő elismerését abban az esetben, ha legalább egyéves képzésben szerzett, államilag elismert felsőoktatási intézmény által kiállított olyan oklevéllel rendelkezik, amely az adott nyelv oktatására készítette fel a kérelmezőt abban az országban, amelyben az adott nyelv az ország hivatalos nyelve, amennyiben a képzésre is ebben az országban került sor. E bekezdés alkalmazásában oklevélnek minősül az a külföldi felsőfokú képesítés is, amely felsőfokú végzettséget nem tanúsít, de Magyarországon szakirányú továbbképzést tanúsító oklevélként lenne elismerhető.
