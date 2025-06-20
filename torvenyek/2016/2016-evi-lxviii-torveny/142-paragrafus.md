@@ -1,4 +1,4 @@
-142. § (1) A kizárólag bérfőzést végző adóraktár engedélyesének nem kell a 14. § (1) bekezdés a) pontja, valamint a 20. § (1) bekezdés a) és b) pontja szerinti kötelezettséget teljesítenie.
+142. § (1) A kizárólag bérfőzést végző adóraktár engedélyesének nem kell a 14. § (1) bekezdés a) pontja, valamint a 20. § (1) bekezdés a) és b) pontja és (4) bekezdése szerinti kötelezettséget teljesítenie.
 
 (2) A 21. § rendelkezésétől eltérően a kizárólag bérfőzést végző adóraktár engedélyese által nyújtandó jövedéki biztosíték összege 200 ezer forint.
 
