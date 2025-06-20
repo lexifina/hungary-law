@@ -1630,19 +1630,11 @@ kivett vízmű
 
 |
 
-KOMLÓ
+|
 
 |
 
-954
-
 |
-
-1/1
-
-|
-
-kivett lakóház, udvar
 
 |
 
