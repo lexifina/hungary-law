@@ -1,0 +1,3 @@
+127. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 33. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A tanúsítás a tanúsítási audit eredményeit dokumentáló jelentéssel zárul. Ha a jelentés megállapítja az ESG beszámoló megfelelőségét, az ESG tanúsító az ESG beszámolóra vonatkozó magyar nyelvű bizonyossági véleményt (a továbbiakban: ESG tanúsítvány) ad ki. Az ESG tanúsítvány tartalmazza az ESG tanúsítvány keltét és a tanúsítás érvényességi idejét is.”

@@ -1,0 +1,3 @@
+115. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, a 4/B. §, a 4/D. §, a 4/F. §, az 5/B. §, a 7/F. §, a 8. § (4) bekezdése, a 9/A. §, a 9/B. §, a 9/D. §, a 9/F. §, a 9/N. §, a 9/P. §, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.”

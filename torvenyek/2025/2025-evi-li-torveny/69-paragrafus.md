@@ -1,0 +1,1 @@
+69. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában a „62/A. §” szövegrész helyébe a „62. § (5) bekezdése és a 62/A. §” szöveg lép.

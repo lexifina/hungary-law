@@ -1,0 +1,11 @@
+109. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény a következő 7/B. alcímmel egészül ki:
+
+## „7/B. Sportszervezetek részére történő vagyonjuttatás
+
+9/L. § Az Nvtv. 13. § (3) bekezdése és Vtv. 36. § (1) bekezdése alapján a 4. mellékletben meghatározott állami tulajdonú sportcélú ingatlanok (a továbbiakban: ingatlanok), továbbá ezen ingatlanok működtetéséhez, az azokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonban álló ingó vagyonelemek (a továbbiakban együtt: vagyonelemek) e törvény erejénél fogva, a 9/M. § (1) bekezdése szerinti tulajdonjog átszállással ingyenesen a 4. mellékletben megjelölt sportszervezet (a továbbiakban: sportszervezet) tulajdonába kerülnek sportcélú közfeladatai ellátásának elősegítése és a vagyonelemek egyéb, a közfeladat ellátását nem veszélyeztető hasznosítása céljából. A sportszervezet a vagyonelemeket a fennálló terhekkel és az ingatlanokat terhelő kötelezettségekkel együtt szerzi meg.
+
+9/M. § (1) Az ingatlanok tulajdonjogának változását az ingatlanügyi hatóság a sportszervezet kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási kérelemben elegendő kizárólag e törvény tulajdonjogátruházást tartalmazó rendelkezésére, valamint az érintett ingatlanok helyrajzi számát tartalmazó mellékletére hivatkozni.
+
+(2) A sportszervezet független ingatlanforgalmi szakértő 2024. december 1-jénél nem régebbi szakvéleménye alapján meghatározott forgalmi értéken veszi nyilvántartásba az érintett ingatlanokat. Az ingatlanok tekintetében az (1) bekezdés szerinti tulajdonszerzést követő 60 napon belül állapotfelmérési jegyzőkönyvet kell felvenni, amely tartalmazza az e bekezdés szerinti forgalmi értéket és amelyet a tulajdonosi joggyakorló (a továbbiakban: átadó) és a sportszervezet képviseletére jogosult személy ír alá.
+
+(3) A 9/L. § szerint átszálló ingóságokról e rendelkezés hatálybalépését követő 60 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és a sportszervezet képviseletére jogosult személy ír alá. Az ingóságokat a sportszervezet független szakértő – 2024. december 1-jénél nem régebbi – értékbecslési szakvéleménye alapján meghatározott forgalmi értéken szerzi meg és veszi nyilvántartásba.”
