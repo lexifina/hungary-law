@@ -8,7 +8,7 @@
 
 a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
 
-b) a tulajdonosi joggyakorlása alá tartozó állami vagyonra vonatkozó nyilvántartás mellett nyilvántartja az egyéb tulajdonosi joggyakorlókra – ideértve a törvénnyel vagy miniszteri rendelettel kijelölt tulajdonosi joggyakorlókat is – rábízott állami vagyont is (a továbbiakban együtt: egységes állami vagyonnyilvántartás), valamint gondoskodik az egységes állami vagyonnyilvántartás vezetéséhez létrehozott informatikai rendszer (a továbbiakban: adatszolgáltatási keretrendszer) és a 22/C. § (2) bekezdése szerinti Országleltár működtetéséről;
+b) nyilvántartást vezet a tulajdonosi joggyakorlása alá tartozó állami vagyonról, valamint gondoskodik az egységes állami vagyonnyilvántartás érdekében létrehozott informatikai rendszer (a továbbiakban: adatszolgáltatási keretrendszer) és a 22/C. § (2) bekezdése szerinti Országleltár működtetéséről;
 
 c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 
@@ -28,4 +28,4 @@ j) ellátja a fejezeti kezelésű előirányzatok, az elkülönített állami p�
 
 (2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
 
-(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás vezetése érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.
+(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.

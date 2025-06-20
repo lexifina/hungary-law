@@ -1,8 +1,8 @@
-## Az egységes állami vagyonnyilvántartás vezetéséhez és az Országleltár működtetéséhez kapcsolódó feladatok
+## Az egységes állami vagyonnyilvántartáshoz és az Országleltár működtetéséhez kapcsolódó feladatok
 
-22/B. § (1) Az MNV Zrt. által vezetett egységes állami vagyonnyilvántartás célja az állami vagyonnal való gazdálkodás átláthatóságának, valamint az állami vagyonnal való gazdálkodási tevékenység támogatásának biztosítása. Az egységes állami vagyonnyilvántartás biztosítja az állami vagyon értékének megállapítását, valamint az állami vagyon változásainak folyamatos nyomon követését. Az egységes állami vagyonnyilvántartás tartalmaz valamennyi állami tulajdonú vagyonelemet, a tulajdonosi joggyakorló személyétől függetlenül.
+22/B. § (1) Az egységes állami vagyonnyilvántartás célja az állami vagyonnal való gazdálkodás átláthatóságának, valamint az állami vagyonnal való gazdálkodási tevékenység támogatásának biztosítása. Az egységes állami vagyonnyilvántartás biztosítja az állami vagyon értékének megállapítását, valamint az állami vagyon változásainak folyamatos nyomon követését. Az egységes állami vagyonnyilvántartás tartalmaz valamennyi állami tulajdonú vagyonelemet, a tulajdonosi joggyakorló személyétől függetlenül.
 
-(2) Az MNV Zrt. az egységes állami vagyonnyilvántartás vezetése érdekében – e törvény végrehajtási rendeletében meghatározott módon – jegyzéket vezet a tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlókról (a továbbiakban: tulajdonosi joggyakorlók jegyzéke).
+(2) Az MNV Zrt. az egységes állami vagyonnyilvántartás érdekében – e törvény végrehajtási rendeletében meghatározott módon – jegyzéket vezet a tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlókról (a továbbiakban: tulajdonosi joggyakorlók jegyzéke).
 
 (3) A tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon
 
