@@ -23,3 +23,17 @@ a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény erejénél f
 (7) A Lebonyolító megküldi az ingatlanügyi hatóságnak a (6) bekezdés szerinti bejegyzés alapjául szolgáló okiratot.
 
 (8) A részletvétel részletes szabályait az e törvény alapján kiadott végrehajtási rendelet tartalmazza.
+
+(9) A (8) bekezdés szerinti rendelet alapján megkötött fizetésrendezési és együttműködési megállapodás (a továbbiakban: megállapodás) megkötésével az állam lemond – a részletfizetés megszűnését eredményező hathavi vételárrészlet hátralék, valamint az egyösszegben esedékessé vált hátralévő vételár után járó – a megállapodás megkötésének napjáig felmerült késedelmi kamat követeléséről, amennyiben
+
+a) fizetési halasztás esetén a hátralékos vételár a megállapodásban foglalt határidőn belül teljes egészében megfizetésre került, vagy
+
+b) részletfizetés esetén a megállapodás nem került háromhavi fizetési késedelem okán azonnali hatályú felmondásra.
+
+(10) A megállapodás szerinti lejárt esedékességű vételár tartozás után nem kell késedelmi kamatot fizetni, amennyiben
+
+a) fizetési halasztás esetén a hátralékos vételár teljes egészében, vagy
+
+b) részletfizetés esetén az egyes részletek
+
+a megállapodásban meghatározott fizetési határidőben megfizetésre kerültek.
