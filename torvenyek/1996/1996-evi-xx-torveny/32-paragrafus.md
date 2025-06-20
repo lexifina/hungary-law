@@ -69,3 +69,5 @@
 33. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 
 34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.
+
+35. a végrehajtást lefolytató adóhatóság és önálló bírósági végrehajtó az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.

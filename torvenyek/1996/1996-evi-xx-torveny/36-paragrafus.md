@@ -67,3 +67,5 @@
 32. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 
 33. a bűnügyi nyilvántartó szerv a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez.
+
+34. a végrehajtást lefolytató adóhatóság és önálló bírósági végrehajtó az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
