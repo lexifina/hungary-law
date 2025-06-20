@@ -1,0 +1,1 @@
+140. § Hatályát veszti a Kkt. 23/A. § (5) bekezdésében az „A kamarai tag könyvvizsgáló kizárólag jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége, vagy az azon kívüli egyéb szakmai szolgáltatások nyújtása során használhatja az elektronikus aláírást.” szövegrész.

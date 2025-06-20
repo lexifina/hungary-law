@@ -1,0 +1,3 @@
+[1] Európa egyik legversenyképesebb adórendszerének fenntartása érdekében folytatódik az adócsökkentések és adminisztrációs egyszerűsítések elmúlt években megkezdett sorozata. Az intézkedések egyaránt szolgálják a családok és a vállalkozások javát, a környezet védelmének ösztönzését, az egyszerűbb adózási módok könnyebb elérését és a jogalkalmazás segítését.
+
+[2] Mindezekre tekintettel a törvénymódosítás célja az adópolitikai és szakpolitikai döntések és az egyes uniós jogharmonizációs kötelezettségekből eredő módosítások jogrendbe iktatása, az adminisztráció egyszerűsítése, továbbá az adótörvények alkalmazása során szerzett eddigi tapasztalatok alapján elengedhetetlenül szükséges pontosító rendelkezések meghozatala.
