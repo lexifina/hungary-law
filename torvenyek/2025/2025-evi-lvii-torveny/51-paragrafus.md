@@ -1,1 +1,1 @@
-51. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. § (5a) bekezdésében az „(1d) és az (1f) bekezdés” szövegrészek helyébe az „(1d), az (1f) és az (1h) bekezdés” szöveg lép.
+### 51. §

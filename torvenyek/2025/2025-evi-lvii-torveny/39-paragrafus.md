@@ -6,6 +6,6 @@ b) 44. § (5) bekezdés a) pontja,
 
 c) 76. § (8) bekezdésében az „évente – december hónapban – közzé kell tenni Magyarország hivatalos lapjában, valamint a miniszter által vezetett minisztérium” szövegrész,
 
-d) 1. mellékletében foglalt táblázat 3. sora,
+d)
 
-e) 1. mellékletében foglalt táblázat 70. sora.
+e)
