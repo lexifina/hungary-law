@@ -17,3 +17,7 @@ f) amelyet kizárólag az egészségügyi alapellátásról szóló 2015. évi C
 g) amely külön jogszabály szerint haditechnikai terméknek minősül, és amelyet a Magyar Honvédség Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme érdekében üzemeltet,
 
 h) amely törvényes öröklés eredményeként vagy végintézkedés alapján a magyar állam tulajdonában áll, azon hónap utolsó napjáig, amelyben a személygépkocsi vagyonkezelői vagy használati jogát a Magyar Nemzeti Vagyonkezelő Zrt. más személynek vagy szervezetnek nem adja át.
+
+i) amelyet a polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény szerinti polgárőr szervezet kizárólag a polgárőri szolgálatellátás érdekében üzemeltet,
+
+j) amelyet a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény szerinti önkéntes tűzoltó egyesület kizárólag az alapfeladata ellátása érdekében üzemeltet.
