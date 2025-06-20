@@ -6,7 +6,7 @@
 
 (4) A kamarai tag könyvvizsgáló az elektronikus aláírással kapcsolatos változásokat haladéktalanul bejelenti a kamara részére.
 
-(5) A kamarai tag könyvvizsgáló kizárólag jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége, vagy az azon kívüli egyéb szakmai szolgáltatások nyújtása során használhatja az elektronikus aláírást. A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
+(5) A kamarai tag könyvvizsgáló nem használhatja az elektronikus aláírást és haladéktalanul köteles gondoskodni annak megszüntetéséről, ha
 
 a) kamarai tagsága megszűnt, illetve a kamarai nyilvántartásból törölték,
 

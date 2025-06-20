@@ -38,7 +38,7 @@ Kibocsátói
 
 5. Kamarai bejegyzési szám.
 
-3. Kamarai tag nyilatkozata arról, hogy kérelmét a Kkt. 50. §-a (2) bekezdésének a), b) vagy c) pontjára alapozva kéri.
+## 3. Kamarai tag nyilatkozata arról, hogy kérelmét e törvény 50. §-a (2) bekezdésének a), b) vagy c) pontjára, fenntarthatósági minősítés esetén e törvény 50. §-a (2e) bekezdésére alapozva kéri.
 
 4. A 49/A. § a)–d) és g) pontja szerinti minősítés esetén a kamarai tag nyilatkozata arról, hogy az adott minősítésre előírt 50. § (10) bekezdése szerinti szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.
 
@@ -76,7 +76,7 @@ I. Az 50. § (2) bekezdés a) pontjára alapozott kérelem esetén az alábbiakn
 
 2. az igazolást kibocsátó gazdálkodó a kérelmező által kért minősítésnek megfelelő tevékenységet végez, illetve végzett,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+## 3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül az e törvényben meghatározott követelményeknek,
 
 4. azt a minősítésnek megfelelő tevékenységet végző gazdálkodó részéről a munkáltatói jogok gyakorlására jogosult személy írta alá.
 
@@ -86,7 +86,7 @@ Az 50. § (2) bekezdés b) pontjára alapozott kérelem esetén alábbiaknak meg
 
 2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyekre vonatkozóan jogszabály az adott minősítés meglétét előírja, s amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+## 3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül az e törvényben meghatározott követelményeknek,
 
 4. az igazolást kibocsátó, adott minősítésű kamarai tag könyvvizsgáló írta alá.
 
@@ -98,7 +98,7 @@ Az 50. § (2) bekezdés c) pontjára alapozott IFRS minősítés esetén, amenny
 
 2. az igazolás tartalmazza azoknak a gazdálkodóknak a cégnyilvántartás szerinti azonosító adatait, amelyek tekintetében a kérelmező a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában közreműködött,
 
-3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül a Kkt.-ben meghatározott követelményeknek,
+## 3. az igazolásból kétséget kizáróan megállapítható, hogy a kérelmező eleget tett a minősítés feltételéül az e törvényben meghatározott követelményeknek,
 
 4. az igazolást kibocsátó kamarai tag könyvvizsgáló írta alá.
 
