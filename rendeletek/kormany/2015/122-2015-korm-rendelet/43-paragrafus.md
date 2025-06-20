@@ -1,3 +1,3 @@
-43. §[^111]
+43. §[^123]
 
-[^111]: A 39–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 39–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

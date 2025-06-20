@@ -20,11 +20,11 @@ c) az energiapazarlási pontok megkeresésére és bemutatására,
 
 d) a költséghatékonyabb energia-felhasználási módok feltárására és elemzésére, a megújuló energiaforrások alkalmazásának lehetőségére, valamint a fejlettebb üzemeltetési eljárások és esetleges új berendezések bemutatására,
 
-e)[^45] az energetikai auditban javasolt intézkedések végrehajtása esetén az elért energiamegtakarítás nyomon követésének módszerére,
+e)[^46] az energetikai auditban javasolt intézkedések végrehajtása esetén az elért energiamegtakarítás nyomon követésének módszerére,
 
-f)[^46] az energiafelhasználás mérésére alkalmazott megoldások bemutatására és értékelésére, valamint e megoldások fejlesztésére vonatkozó javaslatokra.
+f)[^47] az energiafelhasználás mérésére alkalmazott megoldások bemutatására és értékelésére, valamint e megoldások fejlesztésére vonatkozó javaslatokra.
 
-g)[^47] az épülethasználat módjából adódó megtakarítási potenciál vizsgálatára.
+g)[^48] az épülethasználat módjából adódó megtakarítási potenciál vizsgálatára.
 
 (5) Az energetikai auditnak részletes és hitelesített számításokat kell lehetővé tennie a javasolt energiahatékonyság-javítási intézkedésekre vonatkozóan és számszerűsítenie kell az energiahatékonysági potenciált (potenciális megtakarításokat). A potenciál kiaknázásához szükséges intézkedéseket az energetikai auditnak legalább a (6) bekezdésben meghatározott beavatkozási kategóriákban kell megfogalmaznia, és az ajánlott intézkedésekre lebontva kell számszerűsítenie a potenciális megtakarítások kiaknázásának ajánlott mértékét, a szükséges beruházási költségeket, valamint a megtérülési időt.
 
@@ -46,9 +46,9 @@ c) egy már meglévő vagy tervezett távfűtési vagy távhűtési rendszerhez 
 
 vonatkozó tájékoztatásra.
 
-(8)[^48] Az energetikai auditálás az MSZ EN 16247-1, -2, -3, -4 szabvány alkalmazásával is elkészíthető, az energetikai auditálási tevékenység folytatatására irányuló jogszabályi rendelkezések figyelembevétele mellett.
+(8)[^49] Az energetikai auditálás az MSZ EN 16247-1, -2, -3, -4 szabvány alkalmazásával is elkészíthető, az energetikai auditálási tevékenység folytatatására irányuló jogszabályi rendelkezések figyelembevétele mellett.
 
-[^45]: A 13. § (4) bekezdés e) pontját a 393/2016. (XII. 5.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^46]: A 13. § (4) bekezdés f) pontját a 80/2019. (IV. 15.) Korm. rendelet 37. §-a iktatta be.
-[^47]: A 13. § (4) bekezdés g) pontját a 715/2020. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
-[^48]: A 13. § (8) bekezdését a 393/2016. (XII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^46]: A 13. § (4) bekezdés e) pontját a 393/2016. (XII. 5.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^47]: A 13. § (4) bekezdés f) pontját a 80/2019. (IV. 15.) Korm. rendelet 37. §-a iktatta be.
+[^48]: A 13. § (4) bekezdés g) pontját a 715/2020. (XII. 30.) Korm. rendelet 16. §-a iktatta be.
+[^49]: A 13. § (8) bekezdését a 393/2016. (XII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be.

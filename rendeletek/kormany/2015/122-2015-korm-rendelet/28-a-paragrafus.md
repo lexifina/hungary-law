@@ -1,7 +1,7 @@
-## 17/A. [^88] Átmeneti rendelkezések
+## 17/A. [^91] Átmeneti rendelkezések
 
-28/A. §[^89] A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet hatálybalépését[^90] megelőzően a Nemzeti Energetikusi Hálózat feladatait ellátó fővárosi és vármegyei kormányhivatalok, valamint járási hivatalok a számukra a közintézmények által megküldött energiamegtakarítási intézkedési terveket, az energiamegtakarítási intézkedési tervek végrehajtásáról szóló éves jelentéseket, valamint a havi energiafogyasztási adatokat a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre kötelesek feltölteni.
+28/A. §[^92] A fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet hatálybalépését[^93] megelőzően a Nemzeti Energetikusi Hálózat feladatait ellátó fővárosi és vármegyei kormányhivatalok, valamint járási hivatalok a számukra a közintézmények által megküldött energiamegtakarítási intézkedési terveket, az energiamegtakarítási intézkedési tervek végrehajtásáról szóló éves jelentéseket, valamint a havi energiafogyasztási adatokat a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre kötelesek feltölteni.
 
-[^88]: A 17/A. alcímet (28/A. §-t a 360/2019. (XII. 30.) Korm. rendelet 142. § (1) bekezdése iktatta be.
-[^89]: A 28/A. § az 590/2023. (XII. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^90]: A hatálybalépés időpontja 2020. január 1.
+[^91]: A 17/A. alcímet (28/A. §-t a 360/2019. (XII. 30.) Korm. rendelet 142. § (1) bekezdése iktatta be.
+[^92]: A 28/A. § az 590/2023. (XII. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^93]: A hatálybalépés időpontja 2020. január 1.

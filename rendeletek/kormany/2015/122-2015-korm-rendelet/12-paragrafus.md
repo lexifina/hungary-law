@@ -1,5 +1,5 @@
-## 9. Az átváltási tényezők
+## 9.[^44] Az átváltási tényezők, az egyes energiahatékonyság javító intézkedések élettartama és az avulás mértéke
 
-12. §[^43] Az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket a 6. melléklet, a szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, ezen belül az addicionalitás és a lényegesség kritériumait a 7. melléklet tartalmazza.
+12. § Az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket, az egyes energiahatékonyság javító intézkedések élettartamát és az avulás mértékét a 6. melléklet, a szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, ezen belül az addicionalitás és a lényegesség kritériumait a 7. melléklet tartalmazza.
 
-[^43]: A 12. § a 715/2020. (XII. 30.) Korm. rendelet 15. §-ával megállapított, a 98/2024. (V. 7.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^44]: A 9. alcím (12. §) a 145/2025. (VI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.

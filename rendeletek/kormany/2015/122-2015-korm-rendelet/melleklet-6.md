@@ -1,65 +1,181 @@
-6. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^117]
+6. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^129]
 
-Átváltási tényezők
+1. Átváltási tényezők
 
-1. Egyes végső felhasználásra szánt tüzelőanyagok energiatartalma – átváltási táblázat
+## A végsőenergia-megtakarítás meghatározásakor a tüzelőanyagok energiatartalmát az 1.1. táblázatban feltüntetett felső fűtőérték (égéshő) értékekkel kell figyelembe venni.
 
-|  | A | B | C | D |
+1.1. Egyes végső felhasználásra szánt tüzelőanyagok energiatartalma (felső fűtőérték) – átváltási táblázat
 
-| 1. | Energiahordozó | kJ (nettó fűtőérték) | kgoe (nettó fűtőérték) | kWh (nettó fűtőérték) |
+| Égéshő – GCV – Felső fűtőérték |
 
-| 2. | 1 kg koksz | 28 500 | 0,676 | 7,917 |
+|  | Energiahordozó | Égéshő – GCV [MJ/kg] | Égéshő – GCV [MJ/l] | Égéshő – GCV [MJ/m³] | Égéshő – GCV [kWh/kg] | Égéshő – GCV [kWh/l] | Égéshő – GCV [kWh/m³] |
 
-| 3. | 1 kg kőszén | 17 200 – 30 700 | 0,411 – 0,733 | 4,778 – 8,528 |
+| 1. | koksz | 33,5 |  |  | 9,31 |  |  |
 
-| 4. | 1 kg barnaszénbrikett | 20 000 | 0,478 | 5,556 |
+| 2. | kőszén (feketeszén) | 32 |  |  | 8,89 |  |  |
 
-| 5. | 1 kg fekete lignit | 10 500 – 21 000 | 0,251 – 0,502 | 2,917 – 5,833 |
+| 3. | barnaszén | 27,6 |  |  | 7,67 |  |  |
 
-| 6. | 1 kg barnaszén | 5 600 – 10 500 | 0,134 – 0,251 | 1,556 – 2,917 |
+| 4. | fekete lignit | 12,56 |  |  | 3,49 |  |  |
 
-| 7. | 1 kg olajpala | 8 000 – 9 000 | 0,191 – 0,215 | 2,222 – 2,500 |
+| 5. | tőzegbrikett | 16,17 |  |  | 4,49 |  |  |
 
-| 8. | 1 kg tőzeg | 7 800 – 13 800 | 0,186 – 0,330 | 2,167 – 3,833 |
+| 6. | fűtőolaj (nehéz olaj) | 43,76 | 42,16 |  | 12,16 | 11,71 |  |
 
-| 9. | 1 kg tőzegbrikett | 16 000 – 16 800 | 0,382 – 0,401 | 4,444 – 4,667 |
+| 7. | fűtőolaj (könnyű olaj) | 44,4 | 41,07 |  | 12,33 | 11,41 |  |
 
-| 10. | 1 kg fűtőolaj (nehézolaj) | 40 000 | 0,955 | 11,111 |
+| 8. | közlekedési dízel | 45,66 | 38,53 |  | 12,68 | 10,70 |  |
 
-| 11. | 1 kg könnyű fűtőolaj | 42 300 | 1,010 | 11,750 |
+| 9. | biodízel | 40,2 | 35,7 |  | 11,17 | 9,92 |  |
 
-| 12. | 1 kg közlekedési célú fosszilis vagy szintetikus dízelgázolaj | 42 600 | 1,017 | 11,833 |
+| 10. | motorbenzin (benzin) | 47,1 | 34,89 |  | 13,08 | 9,69 |  |
 
-| 13. | 1 kg biodízel | 37 500 | 0,890 | 10,340 |
+| 11. | bioetanol | 29,7 | 23,43 |  | 8,25 | 6,51 |  |
 
-| 14. | 1 kg motorbenzin (benzin) | 44 000 | 1,051 | 12,222 |
+| 12. | paraffin | 46 | 41,40 |  | 12,78 | 11,50 |  |
 
-| 15. | 1 kg E85 (benzin) | 29 000 | 0,693 | 8,055 |
+| 13. | LPG (cseppfolyósított propán-bután gáz) | 50,08 | 26,15 |  | 13,91 | 7,26 |  |
 
-| 16. | 1 kg paraffin | 40 000 | 0,955 | 11,111 |
+| 14. | földgáz (vezetékes vagy CNG)* |  |  | 38,8 |  |  | 10,78 |
 
-| 17. | 1 kg LPG (cseppfolyósított propán-bután gáz) | 46 000 | 1,099 | 12,778 |
+| 15. | LNG (cseppfolyósított földgáz) | 55,2 | 23,6 |  | 15,33 | 6,56 |  |
 
-| 18. | 1 kg földgáz (vezetékes vagy CNG)(*) | 47 200 | 1,126 | 13,10 |
+| 16. | fa (25%-os nedvességtartalmú)** | 13,365 |  |  | 3,71 |  |  |
 
-| 19. | 1 kg LNG (cseppfolyósított földgáz) | 45 190 | 1,079 | 12,553 |
+| 17. | pellet/fabrikett | 17,19 |  |  | 4,78 |  |  |
 
-| 20. | 1 kg fa (25%-os nedvességtartalmú) (**) | 13 800 | 0,330 | 3,833 |
+1.2. A kWh-ban kifejezett villamosenergia-megtakarítás esetében 2,1-es primer energia átváltási tényező alkalmazandó. Ha az energiamegtakarítást a primer energia viszonylatában számítják ki a végsőenergia- fogyasztáson alapuló, alulról építkező módszer alkalmazásával, a villamos energia átváltása esetén az alkalmazandó együttható 1.
 
-| 21. | 1 kg pellet/fabrikett | 16 800 | 0,401 | 4,667 |
+1.3. Indokolt esetben eltérő átváltási tényezők is alkalmazhatók a következők szerint:
 
-| 22. | 1 kg hulladék | 7 400 – 10 700 | 0,177 – 0,256 | 2,056 – 2,972 |
+## (*) 93% metán.
 
-| 23. | 1 MJ származtatott hő | 1 000 | 0,024 | 0,278 |
+## (**) Indokolt esetben eltérő %-os nedvességtartalom és átváltási tényezők is alkalmazhatók.
 
-| 24. | 1 kWh villamos energia | 3 600 | 0,086 | 1 (***) |
+2. Az egyes energiahatékonyságot javító intézkedések élettartama és az avulás mértéke
 
-2. Indokolt esetben eltérő átváltási tényezők is alkalmazhatók.
+|  | A | B | C |
 
-(*) 93% metán.
+| 1 | Intézkedések típusa | Élettartam (év) | Avulás (%) |
 
-(**) Indokolt esetben eltérő %-os nedvességtartalom és átváltási tényezők is alkalmazhatók.
+| 2 | 1101 - Épületszerkezetek - Felújítás - Utólagos homlokzati hőszigetelés | 25 | 0% |
 
-(***) Akkor alkalmazandó, ha az energiamegtakarítást a primer energia viszonylatában számítják ki a végsőenergia- fogyasztáson alapuló, alulról építkező módszer alkalmazásával. A kWh-ban kifejezett villamosenergia-megtakarítás esetében alapértelmezett 2,1-es együttható alkalmazható.
+| 3 | 1102 - Épületszerkezetek - Felújítás - Utólagos tető-hőszigetelés | 25 | 0% |
 
-[^117]: A 6. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+| 4 | 1103 - Épületszerkezetek - Felújítás - Nyílászáró cseréje | 25 | 0% |
+
+| 5 | 1104 - Épületszerkezetek - Felújítás - Kombinált épület korszerűsítés | 25 | 0% |
+
+| 6 | 1301 - Épületszerkezetek - Egyéb - Árnyékoló rendszer felszerelése | 25 | 0% |
+
+| 7 | 2102 - Épületgépészet - Fűtési rendszer - Kazáncsere - Biomassza tüzelésű kazán | 20 | 0,25% |
+
+| 8 | 2103 - Épületgépészet - Fűtési rendszer - Kazáncsere - Egyéb nem fosszilis | 20 | 0,25% |
+
+| 9 | 2104 - Épületgépészet - Fűtési rendszer - Hőszivattyú beépítése | 10 (levegő-levegő); 15 (levegő-víz); 25 (geotermikus) | 0,25% (levegő-levegő) 0,9% |
+
+| 10 | 2105 - Épületgépészet - Fűtési rendszer - Távfűtési hőközpont korszerűsítése | 10 | 0,25% |
+
+| 11 | 2106 - Épületgépészet - Fűtési rendszer - Szivattyú cseréje | 10 | 0,50% |
+
+| 12 | 2107 - Épületgépészet - Fűtési rendszer - Elosztó rendszer felújítása | 10 | 0,25% |
+
+| 13 | 2108 - Épületgépészet - Fűtési rendszer - Hőleadó cseréje | 18 | 0% |
+
+| 14 | 2109 - Épületgépészet - Fűtési rendszer - Szabályozási rendszer korszerűsítése | 10 | 0,25% |
+
+| 15 | 2110 - Épületgépészet - Fűtési rendszer - Komplex fűtési rendszer felújítása | 10 | 0,25% |
+
+| 16 | 2111 - Épületgépészet - Fűtési rendszer - Egyéb (például fűtésszabályozás) | 6 | 0% |
+
+| 17 | 2202 - Épületgépészet - HMV rendszer - Kazáncsere - biomassza tüzelésű kazán | 20 | 0% |
+
+| 18 | 2203 - Épületgépészet - HMV rendszer - Kazáncsere - egyéb nem fosszilis | 20 | 0% |
+
+| 19 | 2204 - Épületgépészet - HMV rendszer - Hőszivattyú beépítése | 15 | 0,90% |
+
+| 20 | 2205 - Épületgépészet - HMV rendszer - Távfűtési hőközpont korszerűsítése | 10 | 0% |
+
+| 21 | 2206 - Épületgépészet - HMV rendszer - Szivattyú cseréje | 10 | 0% |
+
+| 22 | 2207 - Épületgépészet - HMV rendszer - Elosztó rendszer felújítása | 10 | 0% |
+
+| 23 | 2208 - Épületgépészet - HMV rendszer - Egyéb (Például: napkollektor beépítéssel) | 10 | 0% |
+
+| 24 | 2301 - Épületgépészet - Légtechnika - Légkezelő cseréje | 10 | 0% |
+
+| 25 | 2302 - Épületgépészet - Légtechnika - Ventilátor cseréje | 10 | 0,50% |
+
+| 26 | 2303 - Épületgépészet - Légtechnika - Szabályozási rendszer korszerűsítése | 10 | 0,50% |
+
+| 27 | 2304 - Épületgépészet - Légtechnika - Egyéb (pl. hővisszanyerő szellőztetés) | 17 | 0,30% |
+
+| 28 | 2401 - Épületgépészet - Hűtés - Hűtőberendezés cseréje | 15 | 0,25% |
+
+| 29 | 2402 - Épületgépészet - Hűtés - Hűtőberendezés korszerűsítése | 10 | 2,50% |
+
+| 30 | 2403 - Épületgépészet - Hűtés - Szivattyú cseréje | 10 | 0% |
+
+| 31 | 2404 - Épületgépészet - Hűtés - Elosztó rendszer felújítása | 10 | 0% |
+
+| 32 | 2405 - Épületgépészet - Hűtés - Szabályozási rendszer korszerűsítése | 10 | 0% |
+
+| 33 | 2406 - Épületgépészet - Hűtés - Egyéb | 10 | 0% |
+
+| 34 | 2501 - Épületgépészet - Nem hűtési célú háztartási gépek cseréje | 10 | 2,50% |
+
+| 35 | 3101 - Épületvillamosság - Világítás - Beltéri fényforrás, lámpatest cseréje | 15 | 0% |
+
+| 36 | 3102 - Épületvillamosság - Világítás - Kültéri fényforrás, lámpatest cseréje | 15 | 0% |
+
+| 37 | 3103 - Épületvillamosság - Világítás - Világítás szabályozás korszerűsítése | 10 | 0% |
+
+| 38 | 3104 - Épületvillamosság - Világítás - Egyéb (pl. kültéri világítás, közvilágítás) | 13 | 0% |
+
+| 39 | 4101 - Ipari folyamatok - Sűrített levegő - Szivárgások javítása | 6* | 0% |
+
+| 40 | 4102 - Ipari folyamatok - Sűrített levegő - Hálózati nyomás csökkentése | 10 | 0% |
+
+| 41 | 4103 - Ipari folyamatok - Sűrített levegő - Kompresszorok szabályozásának korszerűsítése | 10 | 0% |
+
+| 42 | 4104 - Ipari folyamatok - Sűrített levegő - Kompresszor cseréje | 10 | 0% |
+
+| 43 | 4105 - Ipari folyamatok - Sűrített levegő - Hulladékhő hasznosítása | 10 | 0% |
+
+| 44 | 4106 - Ipari folyamatok - Sűrített levegő - Egyéb | 10 | 0% |
+
+| 45 | 4201 - Ipari folyamatok - Gőz - Gőzkazán korszerűsítése, cseréje | 25 | 0% |
+
+| 46 | 4202 - Ipari folyamatok - Gőz - Elosztó rendszer felújítása | 10 | 0% |
+
+| 47 | 4203 - Ipari folyamatok - Gőz - Egyéb | 10 | 0% |
+
+| 48 | 4204 - Ipari folyamatok - Gőz - Kondenz edények cseréje | 6* | 0% |
+
+| 49 | 4401 - Ipari folyamatok - Termelési folyamatok - Gyártó-, termelő eszköz cseréje (például transzformátor csere) | 30 | 0% |
+
+| 50 | 4402 - Ipari folyamatok - Termelési folyamatok - Gyártó-, termelő eszköz korszerűsítése (hűtés korszerűsítése) | 10 | 0% |
+
+| 51 | 4403 - Ipari folyamatok - Termelési folyamatok - Gyártó-, termelő eszköz szabályozásának korszerűsítése | 10 | 0% |
+
+| 52 | 4404 - Ipari folyamatok - Termelési folyamatok - Egyéb (pl. villanymotorok cseréje) | 8 | 0% |
+
+| 53 | 4405 – Ipari folyamatok – Egyéb hulladékhő hasznosítás, hővisszanyerés | 10 | 0% |
+
+| 54 | 4406 - Technológiai szigetelés | 15 | 0% |
+
+| 55 | 5101 - Szállítás - Személyszállítás - Személyszállító jármű cseréje (nem fosszilisra) | 15 | 0% |
+
+| 56 | 5201 - Szállítás - Teherszállítás - Teherszállító jármű cseréje (nem fosszilisra) | M kategória 20 év N kategória 10 targonca 15 traktor 20 | 1% |
+
+| 57 | 5202 - Szállítás - Teherszállítás - Egyéb (Például intermodális szállításra áttérés) | 6* | 0% |
+
+| 58 | 5301 - Szállítás - Áruszállítás – Mozdony és motorvonat cseréje (nem fosszilisra) | 30 | 0,03% |
+
+| 59 | 6102 - Megújuló energiák - Napenergia - Napkollektoros rendszer telepítése | 15 | 0% |
+
+2.1. Megjegyzés a 2. pontban foglalt táblázathoz:
+
+* 6 év fenntartási időszakkal alkalmazható
+
+[^129]: A 6. melléklet a 145/2025. (VI. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

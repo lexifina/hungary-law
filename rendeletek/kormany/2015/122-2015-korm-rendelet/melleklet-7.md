@@ -1,6 +1,6 @@
-7. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^118]
+7. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^130]
 
-A szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei, az alternatív szakpolitikai intézkedés kidolgozására vonatkozó követelmények[^119]
+A szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei, az alternatív szakpolitikai intézkedés kidolgozására vonatkozó követelmények[^131]
 
 1. Az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés b)-h) pontja szerinti szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításához a kötelezett fél, a résztvevő, a megbízott fél vagy a végrehajtó hatóság az alábbi módszerek egyikét alkalmazhatja:
 
@@ -14,7 +14,7 @@ korábbi, függetlenül ellenőrzött energiafejlesztések eredményeire tett hi
 
 1.4. Felmérésen alapuló megtakarítás, ahol a fogyasztók részéről a tanácsokra, a tájékoztató kampányokra, a címkézési vagy tanúsítási rendszerekre vagy az okos mérésre adott reakciókat mérik fel. Ez a megközelítés a fogyasztói magatartás változásából fakadó megtakarítások esetében alkalmazható, nem használható a létesítmény fizikai jellemzőiből adódó megtakarításokra.
 
-2.[^120] Az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés b)–h) pontja szerinti szakpolitikai intézkedéssel megvalósuló energiamegtakarítás megállapításakor a kötelezett fél, a részt vevő, a megbízott fél vagy a végrehajtó hatóság a következő elveket köteles alkalmazni:
+2.[^132] Az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés b)–h) pontja szerinti szakpolitikai intézkedéssel megvalósuló energiamegtakarítás megállapításakor a kötelezett fél, a részt vevő, a megbízott fél vagy a végrehajtó hatóság a következő elveket köteles alkalmazni:
 
 2.1. Az energiahatékonyságról szóló 2015. évi LVII. törvény 1. § 24c. pontja szerinti lényeges hozzájárulásnak hozzá kell járulnia a szóban forgó egyéni fellépéshez, azaz egyértelműen a minimális hatást meghaladó hatást kell gyakorolnia a végső felhasználó egyéni fellépés mellett hozott döntésére (a továbbiakban: lényegességi kritérium).
 
@@ -56,17 +56,17 @@ d) projektdokumentáció.
 
 2.4.2. az energiával kapcsolatos termékek környezetbarát tervezési kötelezettségeinek előírásáról, valamint forgalomba hozatalának és megfelelőségértékelésének általános feltételeiről szóló 65/2011. (IV. 15.) Korm. rendelet alapján az egyes energiával kapcsolatos termékek piacról való kivonásával kapcsolatos követelmények.
 
-2.5.[^121] A termékek, berendezések, közlekedési rendszerek, járművek és üzemanyagok, épületek és épületelemek, folyamatok vagy piacok energiahatékonysági szintjének növelését ösztönző célú szakpolitikák megengedettek, a következő szakpolitikai intézkedések kivételével:
+2.5.[^133] A termékek, berendezések, közlekedési rendszerek, járművek és üzemanyagok, épületek és épületelemek, folyamatok vagy piacok energiahatékonysági szintjének növelését ösztönző célú szakpolitikák megengedettek, a következő szakpolitikai intézkedések kivételével:
 
 2.5.1. a fosszilis tüzelőanyaggal működő önálló kazánok telepítéséhez történő pénzügyi ösztönzők nyújtása 2025. január 1-jétől, kivéve azokat, amelyeket 2025 előtt választottak ki beruházásra, az (EU) 2021/241 rendelettel, az (EU) 2021/1058 rendelet 7. cikke (1) bekezdése h) pontja i. alpontjának harmadik bekezdésével, valamint az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 73. cikkével összhangban;
 
-2.5.2. a fosszilis tüzelőanyagok közvetlen égetésén alapuló azon technológiák használata, amelyek végrehajtására 2026. január 1-jét követően újonnan kerül sor;
+2.5.2.[^134] a fosszilis tüzelőanyagok közvetlen égetésén alapuló technológiák használatát támogató szakpolitikai intézkedések, amelyek végrehajtására 2026. január 1-jét követően újonnan kerül sor – ideértve az új szakpolitikai intézkedéseket, az új végrehajtási ciklusba lépő meglévő szakpolitikai intézkedéseket, valamint az éves ciklusonként új energiamegtakarítás elérésére kötelező szakpolitikai intézkedéseket –;
 
 2.5.3. a fosszilis tüzelőanyagok közvetlen égetésén alapuló technológiák lakóépületekben történő használatának támogatása 2026. január 1-jétől.
 
-2.6.[^122] A fosszilis tüzelőanyagok közvetlen égetésének termékekben, berendezésekben, közlekedési rendszerekben, járművekben, épületekben vagy építési beruházásokban történő alkalmazására vonatkozó, újonnan végrehajtott szakpolitikai intézkedések eredményeként elért energiamegtakarítások nem számítanak bele a végfelhasználási energiamegtakarítási kötelezettség teljesítésébe. A technológiák kombinációját előmozdító szakpolitikai intézkedések esetében a fosszilis tüzelőanyagok égetésén alapuló technológiával összefüggő energiamegtakarítás részaránya nem vehető figyelembe.
+2.6.[^135] A fosszilis tüzelőanyagok közvetlen égetésének termékekben, berendezésekben, közlekedési rendszerekben, járművekben, épületekben vagy építési beruházásokban történő alkalmazására vonatkozó új szakpolitikai intézkedések, új végrehajtási ciklusba lépő meglévő szakpolitikai intézkedések, valamint éves ciklusonként új energiamegtakarítás elérésére kötelező szakpolitikai intézkedések eredményeként elért energiamegtakarítások nem számítanak bele a végfelhasználási energiamegtakarítási kötelezettség és az annak elérését célzó, az energiahatékonyságról szóló 2015. évi LVII. törvény 15. § (1) bekezdése szerinti energiamegtakarítási kötelezettség teljesítésébe. A technológiák kombinációját előmozdító szakpolitikai intézkedések esetében a fosszilis tüzelőanyagok égetésén alapuló technológiával összefüggő energiamegtakarítás részaránya nem vehető figyelembe.
 
-2.7.[^123] A 2.6. ponttól eltérően, a 2030. december 31-ig tartó időszakban a fosszilis tüzelőanyagok közvetlen égetésén alapuló technológiákból eredő, az ipari ágazatban működő, a tárgyévet megelőző három évben (az összes energiahordozót együttvéve) a 10 TJ-os éves átlagot meghaladó energiafelhasználású gazdálkodó szervezetek energiahatékonyságát javító energiamegtakarítást csak a következő feltételek együttes teljesítése esetén lehet 2030. december 31-ig energiamegtakarításnak tekinteni:
+2.7.[^136] A 2.6. ponttól eltérően, a 2030. december 31-ig tartó időszakban a fosszilis tüzelőanyagok közvetlen égetésén alapuló technológiákból eredő, az ipari ágazatban működő, a tárgyévet megelőző három évben (az összes energiahordozót együttvéve) a 10 TJ-os éves átlagot meghaladó energiafelhasználású gazdálkodó szervezetek energiahatékonyságát javító energiamegtakarítást csak a következő feltételek együttes teljesítése esetén lehet 2030. december 31-ig energiamegtakarításnak tekinteni:
 
 2.7.1. a gazdálkodó szervezet az energiahatékonyságról szóló 2015. évi LVII. törvény 22. §-a alapján ISO 50001 energiairányítási rendszert működtet, és vizsgálja a 2.7.1.1–2.7.1.4. pont szerinti dekarbonizációs törekvéseket, vagy energetikai auditot végzett, és végrehajtási tervet készített, amely a következőket tartalmazza:
 
@@ -96,19 +96,19 @@ d) projektdokumentáció.
 
 2.7.7. a 2.7.1–2.7.6. pontban foglaltakat az energetikai auditálásra kötelezett gazdálkodó szervezet a honlapján közzétette.
 
-2.8.[^124] A kis léptékű, fogyasztásközeli megújulóenergia-technológiák épületekbe való beépítését vagy épületekre való felszerelését támogató intézkedéseket figyelembe lehet venni az energiamegtakarítási kötelezettség teljesítése tekintetében, feltéve, hogy ellenőrizhető, és mérhető vagy becsülhető energiamegtakarítást eredményeznek. A megtakarítások kiszámításának meg kell felelnie az e mellékletben foglalt követelményeknek.
+2.8.[^137] A kis léptékű, fogyasztásközeli megújulóenergia-technológiák épületekbe való beépítését vagy épületekre való felszerelését támogató intézkedéseket figyelembe lehet venni az energiamegtakarítási kötelezettség teljesítése tekintetében, feltéve, hogy ellenőrizhető, és mérhető vagy becsülhető energiamegtakarítást eredményeznek. A megtakarítások kiszámításának meg kell felelnie az e mellékletben foglalt követelményeknek.
 
-2.9.[^125] A naphőenergia-technológiák épületekbe való beépítését vagy épületekre való felszerelését támogató intézkedéseket be lehet számítani az energiamegtakarítási kötelezettség teljesítése tekintetében, feltéve, hogy ellenőrizhető és mérhető vagy felbecsülhető végfelhasználási energiamegtakarítást eredményeznek. A napsugárzásból naphőenergia-technológiákkal előállított hő kihagyható azok végfelhasználási energiafogyasztásából.
+2.9.[^138] A naphőenergia-technológiák épületekbe való beépítését vagy épületekre való felszerelését támogató intézkedéseket be lehet számítani az energiamegtakarítási kötelezettség teljesítése tekintetében, feltéve, hogy ellenőrizhető és mérhető vagy felbecsülhető végfelhasználási energiamegtakarítást eredményeznek. A napsugárzásból naphőenergia-technológiákkal előállított hő kihagyható azok végfelhasználási energiafogyasztásából.
 
-2.10.[^126] A hatékonyabb termékek és járművek elterjedésének felgyorsítására irányuló szakpolitikák tekintetében teljes jóváírás igényelhető, feltéve, hogy az említett elterjedés bizonyítottan a termék vagy a jármű átlagos várható élettartamának lejárta előtt valósul meg, vagy azt megelőzően, hogy a terméket vagy a járművet normál esetben lecserélnék, és az energiamegtakarítást a lecserélendő termék vagy jármű átlagos várható élettartamának lejártáig tartó időszakra jelentik be.
+2.10.[^139] A hatékonyabb termékek és járművek elterjedésének felgyorsítására irányuló szakpolitikák tekintetében teljes jóváírás igényelhető, feltéve, hogy az említett elterjedés bizonyítottan a termék vagy a jármű átlagos várható élettartamának lejárta előtt valósul meg, vagy azt megelőzően, hogy a terméket vagy a járművet normál esetben lecserélnék, és az energiamegtakarítást a lecserélendő termék vagy jármű átlagos várható élettartamának lejártáig tartó időszakra jelentik be.
 
-2.11.[^127] Az energiahatékonysági intézkedések elterjedésének előmozdítása terén gondoskodni kell a termékekre, szolgáltatásokra és az intézkedések végrehajtására vonatkozó minőségi előírások fenntartásáról, továbbá ha nincsenek ilyen előírások, gondoskodni kell azok bevezetéséről és nyilvánosságra hozataláról. Amennyiben az ilyen előírások bevezetésének jogszabályi háttere nem biztosított, az intézkedés energiamegtakarításként nem számolható el.
+2.11.[^140] Az energiahatékonysági intézkedések elterjedésének előmozdítása terén gondoskodni kell a termékekre, szolgáltatásokra és az intézkedések végrehajtására vonatkozó minőségi előírások fenntartásáról, továbbá ha nincsenek ilyen előírások, gondoskodni kell azok bevezetéséről és nyilvánosságra hozataláról. Amennyiben az ilyen előírások bevezetésének jogszabályi háttere nem biztosított, az intézkedés energiamegtakarításként nem számolható el.
 
-2.12.[^128] A régiók közötti éghajlati eltérések figyelembevétele érdekében az energiamegtakarítás mértéke hozzáigazítható egy standard értékhez, vagy a különböző megtakarítások egyeztethetőek a régiók közötti hőmérsékleti ingadozással.
+2.12.[^141] A régiók közötti éghajlati eltérések figyelembevétele érdekében az energiamegtakarítás mértéke hozzáigazítható egy standard értékhez, vagy a különböző megtakarítások egyeztethetőek a régiók közötti hőmérsékleti ingadozással.
 
-2.14.[^129] Az energiamegtakarítás kiszámítása során figyelembe kell venni az intézkedés élettartamát és azt, hogy idővel milyen arányban csökkennek a megtakarítások. Ezt a számítást az egyes egyéni fellépés által a végrehajtási időpont és 2030. december 31. között elért megtakarítás összeadásával kell elvégezni. Ehelyett alkalmazható más olyan, az integrált nemzeti energia- és klímatervben rögzített módszer is, amely a becslések szerint legalább ugyanolyan teljes megtakarítás-mennyiséget eredményez. Más módszer használata esetén az adott módszerrel kiszámított energiamegtakarítás teljes mennyisége nem haladhatja meg az egyes egyéni fellépések által a végrehajtásuk időpontja és 2030. december 31. között elért megtakarítás összegét.
+2.14.[^142] Az energiamegtakarítás kiszámítása során figyelembe kell venni az intézkedés élettartamát és azt, hogy idővel milyen arányban csökkennek a megtakarítások. Ezt a számítást az egyes egyéni fellépés által a végrehajtási időpont és 2030. december 31. között elért megtakarítás összeadásával kell elvégezni. Ehelyett alkalmazható más olyan, az integrált nemzeti energia- és klímatervben rögzített módszer is, amely a becslések szerint legalább ugyanolyan teljes megtakarítás-mennyiséget eredményez. Más módszer használata esetén az adott módszerrel kiszámított energiamegtakarítás teljes mennyisége nem haladhatja meg az egyes egyéni fellépések által a végrehajtásuk időpontja és 2030. december 31. között elért megtakarítás összegét.
 
-3.[^130] Az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés a)–g) pontja szerinti szakpolitikai intézkedéseket az alábbi követelmények figyelembevételével kell kidolgozni:
+3.[^143] Az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés a)–g) pontja szerinti szakpolitikai intézkedéseket az alábbi követelmények figyelembevételével kell kidolgozni:
 
 3.1. a szakpolitikai intézkedéseknek és az egyéni fellépéseknek ellenőrizhető végfelhasználási energiamegtakarítást kell eredményeznie;
 
@@ -156,7 +156,7 @@ d) projektdokumentáció.
 
 5.6. a szakpolitikai intézkedés által meghatározott fellépések;
 
-5.7.[^131] a számítás módszertana, beleértve az addicionalitási és a lényegességi kritérium meghatározásának módját, valamint a várható és a nagyságrendi megtakarítás tekintetében alkalmazott módszertanok és referenciaértékek megjelölése;
+5.7.[^144] a számítás módszertana, beleértve az addicionalitási és a lényegességi kritérium meghatározásának módját, valamint a várható és a nagyságrendi megtakarítás tekintetében alkalmazott módszertanok és referenciaértékek megjelölése;
 
 5.8. az intézkedések élettartama és számításuk módja, vagy az, hogy min alapulnak;
 
@@ -176,24 +176,25 @@ d) projektdokumentáció.
 
 6.5. a számítás módja, beleértve az alkalmazott árrugalmasságot és megállapításának módját.
 
-7.[^132] A 2024. március 31-ét követően végrehajtott szakpolitikai intézkedések eredményeként elért végsőenergia-megtakarításnál
+7.[^145] A 2024. március 31-ét követően végrehajtott szakpolitikai intézkedések eredményeként elért végsőenergia-megtakarításnál
 
 a) a fosszilis tüzelőanyagok közvetlen égetésén alapuló technológiák termékekben, berendezésekben, közlekedési rendszerekben, járművekben, épületekben vagy építési beruházásokban történő alkalmazásával elért energiamegtakarítást, valamint
 
 b) a technológiák kombinációját előmozdító szakpolitikai intézkedések esetében a fosszilis tüzelőanyagok égetésén alapuló technológiával összefüggő energiamegtakarítás részarányát
 
-[^118]: A 7. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^119]: A 7. melléklet címe a 98/2024. (V. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^120]: A 7. melléklet 2. pontja a 98/2024. (V. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^121]: A 7. melléklet 2.5. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^122]: A 7. melléklet 2.6. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^123]: A 7. melléklet 2.7. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^124]: A 7. melléklet 2.8. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^125]: A 7. melléklet 2.9. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^126]: A 7. melléklet 2.10. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^127]: A 7. melléklet 2.11. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^128]: A 7. melléklet 2.12. pontját a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^129]: A 7. melléklet 2.14. pontját a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^130]: A 7. melléklet 3. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^131]: A 7. melléklet 5. pont 5.7. alpontja a 98/2024. (V. 7.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
-[^132]: A 7. melléklet 7. pontját a 98/2024. (V. 7.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^130]: A 7. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^131]: A 7. melléklet címe a 98/2024. (V. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^132]: A 7. melléklet 2. pontja a 98/2024. (V. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^133]: A 7. melléklet 2.5. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^134]: A 7. melléklet 2.5. pont 2.5.2. alpontja a 145/2025. (VI. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^135]: A 7. melléklet 2.6. pontja a 145/2025. (VI. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^136]: A 7. melléklet 2.7. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^137]: A 7. melléklet 2.8. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^138]: A 7. melléklet 2.9. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^139]: A 7. melléklet 2.10. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^140]: A 7. melléklet 2.11. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^141]: A 7. melléklet 2.12. pontját a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^142]: A 7. melléklet 2.14. pontját a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^143]: A 7. melléklet 3. pontja a 459/2024. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^144]: A 7. melléklet 5. pont 5.7. alpontja a 98/2024. (V. 7.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^145]: A 7. melléklet 7. pontját a 98/2024. (V. 7.) Korm. rendelet 6. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-3. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^115]
+3. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^127]
 
 A fűtés és a hűtés hatékonysági potenciálja
 
@@ -188,4 +188,4 @@ Az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosít�
 
 4.1.6. az esetleges állami támogatási intézkedésekre vonatkozó becslés, a vonatkozó éves költségvetéssel és a potenciális támogatási elem meghatározásával.
 
-[^115]: A 3. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^127]: A 3. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
