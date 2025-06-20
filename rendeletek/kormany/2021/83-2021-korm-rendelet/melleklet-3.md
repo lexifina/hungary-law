@@ -206,6 +206,8 @@
 
 | 103. | Miskolctapolca Barlangfürdő rekonstrukció | Miskolc 46294/1 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^225]
+| 104. | Gazdagréti Szent Angyalok Plébániát érintő funkcióbővítő fejlesztés | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 1783/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-[^225]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^228]
+
+[^228]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

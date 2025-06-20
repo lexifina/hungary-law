@@ -1,4 +1,4 @@
-71. §[^206] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 161/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr63.) módosított 3. § (3) bekezdését és megállapított 6/F. § (6) bekezdését a Módr63. hatálybalépésekor[^207] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+71. §[^207] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 161/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr63.) módosított 3. § (3) bekezdését és megállapított 6/F. § (6) bekezdését a Módr63. hatálybalépésekor[^208] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^206]: A 71. §-t a 161/2024. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^207]: A hatálybalépés időpontja 2024. július 1.
+[^207]: A 71. §-t a 161/2024. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^208]: A hatálybalépés időpontja 2024. július 1.

@@ -1,3 +1,3 @@
-6/X. §[^52] A 2. mellékletben foglalt táblázat 92. sora szerinti beruházás tekintetében településképi szakmai konzultációnak nincs helye.
+6/X. §[^53] A 2. mellékletben foglalt táblázat 92. sora szerinti beruházás tekintetében településképi szakmai konzultációnak nincs helye.
 
-[^52]: A 6/X. §-t a 45/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be.
+[^53]: A 6/X. §-t a 45/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be.

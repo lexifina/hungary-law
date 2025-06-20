@@ -1,4 +1,4 @@
-## 25. §[^114] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 401/2021. (VII. 7.) Korm. rendelettel (a továbbiakban: Módr17.) megállapított, 3. § (3) bekezdését, 7/O. §-át és 2. mellékletben foglalt táblázat 8. sorát a Módr17. hatálybalépésekor[^115] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 25. §[^115] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 401/2021. (VII. 7.) Korm. rendelettel (a továbbiakban: Módr17.) megállapított, 3. § (3) bekezdését, 7/O. §-át és 2. mellékletben foglalt táblázat 8. sorát a Módr17. hatálybalépésekor[^116] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^114]: A 25. §-t a 401/2021. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^115]: A hatálybalépés időpontja 2021. július 8.
+[^115]: A 25. §-t a 401/2021. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^116]: A hatálybalépés időpontja 2021. július 8.

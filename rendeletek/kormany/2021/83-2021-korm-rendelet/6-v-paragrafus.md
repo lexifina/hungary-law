@@ -1,4 +1,4 @@
-6/V. §[^50] (1) A 2. mellékletben foglalt táblázat 90. sora szerinti beruházással érintett ingatlanok telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/V. §[^51] (1) A 2. mellékletben foglalt táblázat 90. sora szerinti beruházással érintett ingatlanok telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -22,4 +22,4 @@ b) ha a hatályos településrendezési tervek vagy az OTÉK a beépítés (2) b
 
 8. a telekszélesség megengedett legnagyobb mértéke 120 méter.
 
-[^50]: A 6/V. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^51]: A 6/V. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-6/C. §[^29] (1) A 2. mellékletben foglalt táblázat 59. és 60. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
+6/C. §[^30] (1) A 2. mellékletben foglalt táblázat 59. és 60. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
 a) az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -10,4 +10,4 @@ a) 59. sora szerinti ingatlan tekintetében a zöldfelület megengedett legkiseb
 
 b) 60. sora szerinti ingatlan tekintetében gépjárműparkolót nem kell létesíteni.
 
-[^29]: A 6/C. §-t a 680/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 6/C. §-t a 680/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
