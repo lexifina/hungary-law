@@ -1,0 +1,7 @@
+47. § (1) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (1h) bekezdéssel egészül ki:
+
+„(1h) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanokat ingyenesen, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.”
+
+(2) A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 5. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az (1h) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd vagyonkezelésében lévő, ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.”

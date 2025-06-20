@@ -1,0 +1,7 @@
+## „r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, a pályázatok elbírálásának rendjét,”
+
+## 9. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
+
+22. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény a következő 99/O. §-sal egészül ki:
+
+„99/O. § A TB-kiskönyv megszüntetéséről, valamint a köznevelési, szociális, gyermekvédelmi és fogyatékosságügyi területet érintő egyes törvények módosításáról szóló 2025. évi XXXIV. törvénnyel megállapított 4. § 32a. pontját 2026. július 1-jétől kell alkalmazni. Ezen időpontig tanulmányi rendszer alatt a 2025. június 30. napján hatályos 4. § 32a. pontjában foglaltakat kell érteni.”
