@@ -26,4 +26,4 @@ g) a mintaoltalmak nyilvántartása,
 
 h) a hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak a formatervezési minták közösségi oltalmának rendszerére (VIII/A. fejezet) és az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az ipari minták nemzetközi lajstromozására (VIII/B. fejezet) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
