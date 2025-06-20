@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-323-20-
 | 2024-05-08 | 2020-323-20-22.16 | 100/2024. (V. 7.) Korm. rendelet |
 | 2024-06-29 | 2020-323-20-22.17 | 153/2024. (VI. 28.) Korm. rendelet |
 | 2024-10-01 | 2020-323-20-22.18 | 257/2024. (VIII. 29.) Korm. rendelet |
+| 2025-06-20 | 2020-323-20-22.19 | 148/2025. (VI. 19.) Korm. rendelet |
