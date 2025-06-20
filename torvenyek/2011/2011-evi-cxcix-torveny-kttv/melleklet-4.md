@@ -93,15 +93,3 @@ A toborzási adatbázis adatköre
 ## 1. iskolai végzettség
 
 ## 2. képző intézmény megnevezése (kar, szak megjelölésével)
-
-## 3. képzés időtartama, végzés időpontja
-
-## 4. idegennyelv-ismerete (szintje, típusa)
-
-## 5. közigazgatási versenyvizsga megszerzésének időpontja, oklevél száma, eredménye
-
-## 6. informatikai ismeretek
-
-## IV.
-
-## 1. területek, amelyekről pályázat kiírása esetén hírlevélben értesülni szeretne.
