@@ -10,9 +10,11 @@ c) a termék Közösség területéről való elhagyásának tényét a terméke
 
 a) az állami adóhatóság által erre a célra rendszeresített nyomtatvány vagy más, az állami adóhatóság által engedélyezett, a (10) bekezdésben meghatározott adattartalmú nyomtatvány (a továbbiakban együtt: adó-visszaigénylő lap) záradékolásával és lebélyegzésével, vagy
 
-b) a számla digitális bélyegzővel történő hitelesítésével (a továbbiakban: elektronikus igazolás)
+b) az állami adóhatóság által engedélyezett, a (10) bekezdésben előírtaknak megfelelő elektronikus adattartalom záradékolással és lebélyegzéssel egyenértékű digitális bélyegzővel megvalósuló hitelesítésével, vagy
 
-történik.
+c) a számla digitális bélyegzővel történő hitelesítésével (a továbbiakban: elektronikus igazolás) történik.
+
+(1b) Az (1a) bekezdés b) pontjában említett digitális bélyegzővel történő hitelesítés a kiléptető hatóság által e célra használt informatikai rendszerben történik.
 
 (2) Adó-visszaigénylő lap alkalmazása esetén az adómentesség érvényesítése érdekében a termék értékesítőjének a számlakibocsátás mellett – a külföldi utas kérelmére – az adó-visszaigénylő lap kitöltéséről is gondoskodnia kell. A számlának és az adó-visszaigénylő lapnak a külföldi utas azonosítására vonatkozó adatai nem térhetnek el az úti okmányában szereplő adatoktól. A külföldi utas köteles úti okmányát a termék értékesítőjének bemutatni. Az adó-visszaigénylő lap csak 1 darab számlának a termékértékesítésre vonatkozó adatait tartalmazhatja úgy, hogy azok nem térhetnek el a számla adataitól. Az adó-visszaigénylő lapot a termék értékesítője 3 példányban állítja ki, amelyből az első 2 példányt a külföldi utasnak adja át, a harmadik példányt pedig saját nyilvántartásában őrzi meg.
 
@@ -20,7 +22,7 @@ történik.
 
 (4) Az adómentesség érvényesítésének feltétele, hogy
 
-a) a termék értékesítője birtokolja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát vagy rendelkezésére álljon az elektronikus igazolás, és
+a) a termék értékesítője birtokolja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát, vagy rendelkezésére álljon a digitális bélyegzővel hitelesített, kiléptetést igazoló elektronikus adattartalom, vagy rendelkezésére álljon az elektronikus igazolás, és
 
 b) ha a termékértékesítés teljesítésekor adó felszámítása történt, a felszámított adót a termék értékesítője – az (5)–(8) bekezdések szerint – a külföldi utas részére visszatérítse.
 
@@ -32,7 +34,7 @@ b) nem személyesen jár el, a nevében és képviseletében eljárónak csatoln
 
 (6) Az adó visszatéríttetése érdekében a külföldi utas, vagy meghatalmazottja a termék értékesítőjének
 
-a) átadja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát, továbbá bemutatja a termékértékesítés teljesítését tanúsító számla eredeti példányát, vagy
+a) átadja az adó-visszaigénylő lap (1a) bekezdés szerint záradékolt és lebélyegzett első példányát, továbbá bemutatja a termékértékesítés teljesítését tanúsító számla eredeti példányát, vagy rendelkezésére bocsátja a digitális bélyegzővel hitelesített, kiléptetést igazoló elektronikus adattartalmat, vagy
 
 b) rendelkezésére bocsátja az elektronikus igazolást.
 
