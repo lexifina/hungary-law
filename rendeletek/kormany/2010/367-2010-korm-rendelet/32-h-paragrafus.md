@@ -1,0 +1,18 @@
+## 32/G. §[^63] Az Alap terhére nyújtott határon túli költségvetési támogatásokkal kapcsolatos feladatokat az Áht. 49. §-a szerinti lebonyolító szerv az Alapkezelővel kötött megállapodás alapján látja el. A lebonyolító szerv további lebonyolító szervet nem bízhat meg. A lebonyolítási számlára és a lebonyolítás céljából rendelkezésre bocsátott összegre az Ávr. 65/C. § (2)–(5) bekezdését akkor kell alkalmazni, ha a lebonyolító szerv nem kincstári körbe tartozó vagy az Áht. 79. § (2)–(4d) bekezdése szerinti szervezet (a továbbiakban: határon túli szervezet). Ha a lebonyolító szerv határon túli szervezet, a lebonyolítás céljára rendelkezésre bocsátott összeget a lebonyolító szerv fizetési számlájára kell átutalni, a lebonyolítás céljából rendelkezésre bocsátott összeg felhasználására, elszámolására és visszafizetésére pedig az Ávr. 65/C. § (3) és (5) bekezdését kell alkalmazni azzal, hogy lebonyolítási számla alatt a lebonyolító szervnek azt a fizetési számláját kell érteni, amire a lebonyolítás céljából rendelkezésre bocsátott összeg átutalásra került.
+
+32/H. §[^64] (1) A támogatási szerződés Bgatv. 3/A. §-ában foglaltak szerinti módosítása legfeljebb egy alkalommal abban az esetben lehetséges, ha a támogatás nyújtásának feltétele nem jogszabályon alapul, és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga van.
+
+(2) A támogatási szerződés (1) bekezdés szerinti módosítását a támogató vagy a kedvezményezett egyoldalúan, valamint a támogató és a kedvezményezett közösen is kezdeményezhetik.
+
+(3) A támogató a támogatási szerződésben meghatározott támogatási célt – ha az a kedvezményezett hátrányára történik – csak akkor módosíthatja, ha erről a felek a támogatási szerződésben megállapodtak, vagy a támogató általános szerződési feltételt alkalmaz, és az általános szerződési feltételben a támogató ezt kikötötte. A támogatói okiratban meghatározott támogatási cél támogató részéről történő módosítására az általános szerződési feltételekre történő kikötés szabálya irányadó.
+
+(4) A támogatási szerződés eredeti célja a kedvezményezett kezdeményezésére – az (1) bekezdésben foglaltakon túl – akkor is módosítható, ha a támogatott tevékenység eredeti célja meghiúsul, tartós akadályba ütközése a támogatási szerződésben meghatározott határidőhöz képest előreláthatóan eléri vagy meghaladja a három hónapos késedelmet, ideértve az ezen határidő-módosítások miatt változó támogatási intenzitás esetét is. A kedvezményezett által kezdeményezett támogatási szerződésben meghatározott eredeti cél módosításáról a támogató a kezdeményezés beérkezésétől számított negyvenöt napon belül dönt.
+
+(5) A támogató és a kedvezményezett a (3) és (4) bekezdésben foglaltaktól eltérően közösen is kezdeményezheti a támogatási szerződésben meghatározott támogatási cél módosítását, azzal, hogy a módosítás során a feleket nem köti a (4) bekezdésben foglalt határidő.
+
+(6) A támogatási szerződés (3)–(5) bekezdés szerinti módosítása esetén a kedvezményezett a támogatott tevékenység időtartama alatt felmerült, a támogatott tevékenység megvalósításához kapcsolódó költségekről az Ávr. 92–94. §-ában meghatározottak alapján elszámol a támogató felé.
+
+(7) A támogatási szerződés (3)–(5) bekezdés szerinti módosítása esetén a fel nem használt költségvetési támogatás összege az Ávr. 96. §-ában foglaltaktól eltérően nem minősül a támogatás jogosulatlan igénybevételének, ha azt a kedvezményezett – a támogató döntése alapján – egy összegben vagy részletekben visszatéríti.
+
+[^63]: A 32/G. §-t a 221/2019. (IX. 17.) Korm. rendelet 3. §-a iktatta be.
+[^64]: A 32/H. §-t a 138/2025. (VI. 19.) Korm. rendelet 1. §-a iktatta be.

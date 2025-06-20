@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-367-20-
 | 2019-09-18 | 2010-367-20-22.20 | 221/2019. (IX. 17.) Korm. rendelet |
 | 2020-02-15 | 2010-367-20-22.21 | 13/2020. (II. 7.) Korm. rendelet |
 | 2025-06-03 | 2010-367-20-22.22 | 125/2025. (VI. 2.) Korm. rendelet |
+| 2025-06-20 | 2010-367-20-22.23 | 138/2025. (VI. 19.) Korm. rendelet |
