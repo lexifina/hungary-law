@@ -1,0 +1,1 @@
+111/T. § E törvénynek Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv6.) módosított 45. § (5) bekezdését e rendelkezés hatálybalépésekor fennálló követelések tekintetében is alkalmazni kell.

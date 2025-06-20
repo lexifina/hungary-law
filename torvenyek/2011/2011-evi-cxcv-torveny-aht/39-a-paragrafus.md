@@ -34,9 +34,15 @@ ac) a tervezéssel, gazdálkodással és beszámolással összefüggő intézked
 
 b) javaslatot tehet, ajánlást fogalmazhat meg a belső információáramlásokkal, gazdálkodási folyamatokkal, továbbá a szakmai szabályozással összefüggésben, valamint
 
-c) dönt a kötelezettségvállalások ellenjegyzéséről.
+c) ha az érintett helyi önkormányzat időközi mérlegjelentése alapján a 90 napon túl lejárt kötelezettségek összege meghaladja a helyi önkormányzat tárgyévet megelőző évi költségvetési bevételének 30%-át, dönt a kötelezettségvállalások ellenjegyzéséről.
 
-(3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel.
+(3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel, továbbá a költségvetési biztost tevékenységének ellátásában a Kincstár elnökének döntése alapján a Kincstár személyi állományához tartozó közreműködő személy, illetve személyek segíthetik. A közreműködő személyek létszáma nem haladhatja meg
+
+a) a 100 000 fő lakosságszám feletti települések önkormányzatai, a vármegyei önkormányzatok és Budapest Főváros Önkormányzata esetében az 5 főt,
+
+b) az 50 001–100 000 fő lakosságszámú települések önkormányzatai esetében a 3 főt,
+
+c) a 10 001–50 000 fő lakosságszámú települések önkormányzatai esetében az 1 főt.
 
 (3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 

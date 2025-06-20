@@ -64,6 +64,8 @@ n) az állam hitelfelvételét is tartalmazó nemzetközi szerződésben meghat�
 
 o) a jogszabály alapján, az abban meghatározott feltételek szerint nyújtott kamat- és díjtámogatást,
 
+p) törvényben meghatározott tőkekiegyenlítési rendszer keretében teljesített kifizetéseket,
+
 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 
 16.

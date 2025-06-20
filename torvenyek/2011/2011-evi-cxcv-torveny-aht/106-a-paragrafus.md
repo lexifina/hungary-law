@@ -23,3 +23,5 @@ kezelésére.
 a) a Kormányzati Személyügyi Döntéstámogató Rendszerbe feltöltendő foglalkoztatottak létszám-, kereseti- és illetményadatairól egyedi azonosító alkalmazásával, valamint
 
 b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból.
+
+(6) A kincstár a kincstári monitoringrendszerrel összefüggő feladataival összefüggésben jogosult a támogató vagy a támogató nevében eljáró szervezet által a rendszerben rögzített természetes személy kedvezményezett adóazonosító jelének, jogi személy kedvezményezett adószámának, valamint a támogatás felhasználási helyére vonatkozó címadatainak (lakcím, székhely, telephely) megismerésére és kezelésére.
