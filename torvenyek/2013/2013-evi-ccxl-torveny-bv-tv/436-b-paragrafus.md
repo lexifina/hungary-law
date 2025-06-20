@@ -21,21 +21,3 @@ c) III. kategóriába kerül az az elítélt, akit
 ca) fegyház enyhébb rezsim alá soroltak be,
 
 cb) börtön általános rezsim alá soroltak be,
-
-cc) fogház szigorúbb rezsim alá soroltak be,
-
-cd) fiatalkorúak börtöne szigorúbb rezsim alá soroltak be,
-
-d) IV. kategóriába kerül az az elítélt, akit
-
-da) fegyház általános rezsim alá soroltak be,
-
-db) börtön szigorúbb rezsim alá soroltak be,
-
-e) V. kategóriába kerül az az elítélt, akit fegyház szigorúbb rezsim alá soroltak be.
-
-(2) A bv. intézetnek az (1) bekezdés szerinti kategória-besorolást a Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépését követő kilencven napon belül kell elvégeznie. Az elítélt ez idő alatt is szerezhet kreditpontot, amiről a BFB a besorolástól számított első összesítéskor dönt, és ha az elítélt ezen időpontig egy évet már letöltött a szabadságvesztésből, akkor a megszerzett kreditpontok alapján kategória-előresorolására is sor kerülhet.
-
-(3) Ha a (2) bekezdés szerinti megfeleltetés időpontjáig az elítélten olyan újabb szabadságvesztést kell végrehajtani, amely esetén a Mód. tv. 1. e törvényt érintő rendelkezései alapján kockázatelemzésnek és új kategória-besorolásnak van, illetve lehet helye, az elítélt kategória-besorolását a Mód. tv. 1. e törvényt érintő rendelkezései szerint kell elvégezni.
-
-(4) Az (1) bekezdés szerinti megfeleltetésről az elítéltet tájékoztatni kell. A fogvatartotti nyilvántartásban az elítéltnek mind a korábbi rezsimbe sorolást, mind a kategória-megfeleltetést – az (1) bekezdés szerinti hivatkozással – fel kell tüntetni. Az elítélt a bv. intézet parancsnokánál panasszal élhet, ha a bv. intézet nem megfelelően alkalmazta az (1) bekezdésben meghatározott megfeleltetési szabályokat.
