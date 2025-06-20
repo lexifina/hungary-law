@@ -1,0 +1,1 @@
+2. § A miniszter, illetve az általa vezetett minisztérium az 1. § (2) bekezdésében meghatározott feladatok ellátása érdekében végzett tevékenység finanszírozása céljából a PIP Nonprofit Kft. részére központi költségvetési támogatást nyújt.
