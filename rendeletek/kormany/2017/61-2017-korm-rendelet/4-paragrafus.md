@@ -10,7 +10,7 @@ d) az európai uniós jogharmonizációs feladatokra, különös tekintettel az 
 
 e)[^6] a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályaira,
 
-f)[^7]
+f)[^7] a turisztikai és vendéglátóipari ágazatban alkalmazható finanszírozási módszerekre,
 
 g)[^8] a turizmust és a vendéglátást érintő stratégiai dokumentumokra (koncepciókra, stratégiákra, fejlesztési programokra),
 
@@ -27,7 +27,7 @@ j) a turisztikai tárgyú szakpolitikai döntéseket megalapozó és fejlesztés
 [^4]: A 4. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^5]: A 4. § (1) bekezdés a) pontja a 152/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 4. § (1) bekezdés e) pontja a 152/2024. (VI. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (1) bekezdés f) pontját a 13/2020. (II. 7.) Korm. rendelet 118. § 1. pontja hatályon kívül helyezte.
+[^7]: A 4. § (1) bekezdés f) pontját a 13/2020. (II. 7.) Korm. rendelet 118. § 1. pontja hatályon kívül helyezte, újonnan a 146/2025. (VI. 19.) Korm. rendelet 1. §-a iktatta be.
 [^8]: A 4. § (1) bekezdés g) pontja a 239/2022. (VI. 30.) Korm. rendelet 30. § (2) bekezdésével megállapított, a 152/2024. (VI. 28.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^9]: A 4. § (1) bekezdés h) pontja a 152/2024. (VI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^10]: A 4. § (3) bekezdése a 152/2024. (VI. 28.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
