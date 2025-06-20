@@ -13,15 +13,3 @@ a) 95. §-a és 97. § (3) bekezdése a kettős felhasználású termékek kivit
 b) 180. §-a és 234. §-a a belső piaci médiaszolgáltatások közös keretének létrehozásáról és a 2010/13/EU irányelv módosításáról szóló, 2024. április 11-i (EU) 2024/1083 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

@@ -1,5 +1,1 @@
-## „k) jogszabályban meghatározottak szerint saját ruha viselésére, illetve használati tárgyak tartására; az elítélt magánál tartható tárgyainak köre a bv. intézet rendjére és biztonságára figyelemmel, valamint az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint korlátozható,”
-
-127. § A Bv. tv. 129. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az elítélt magánál tartható tárgyainak köre és mennyisége a bv. intézet rendjére és biztonságára figyelemmel – így különösen fegyelemsértés, illetve önsértés megakadályozása, biztonsági elkülönítés, fegyelmi elkülönítés és magánelzárás fenyítés érvényesítése érdekében – korlátozható, valamint az az egyes kategóriákban eltérhet. A korlátozás – a magánelzárás fenyítés végrehajtását kivéve – a tankönyvekre, illetve a tanszerekre, a könyvtári könyvekre és az engedélyezett sajtótermékre nem terjedhet ki. A biztonsági elkülönítés, a fegyelmi elkülönítés és a magánelzárás fenyítés esetén az ideiglenes elhelyezésre figyelemmel a birtokban tartható tárgyak mennyisége is korlátozható. A családi fényképek és levelek, valamint az engedélyezett kegytárgyak és az imakönyv birtokban tartása nem korlátozható.”
+### 127. §

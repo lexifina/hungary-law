@@ -1,3 +1,1 @@
-144. § A Pp. 158. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 157. § (1) bekezdés a) és c) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 157. § (1) bekezdés d) pontjában foglalt esetben az intézkedés megtételére, a 157. § (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A felhívásban – a 157. § (1) bekezdés a) és d) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja.”
+### 144. §
