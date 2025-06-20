@@ -4,7 +4,7 @@ a) elvégzi az eszközök és kötelezettségek leltározását,
 
 b) meghatározza, hogy az egyéni vállalkozói minőségében szerzett, az egyéni vállalkozó adónyilvántartásában szereplő vagyontárgyak közül mely vagyontárgyak képezik az alapító egyéni vállalkozó vagyoni hozzájárulását és mely eszközöket és kötelezettségeket adja át az alapítandó korlátolt felelősségű társaságnak,
 
-c) elkészíti a korlátolt felelősségű társaság – a számvitelről szóló 2000. évi C. törvény 2/A. § (4a) bekezdése szerint összeállított – nyitó mérleg-tervezetét, amelynek könyvvizsgáló általi ellenőrzésére nincs szükség, valamint
+c) elkészíti a korlátolt felelősségű társaság – a számvitelről szóló 2000. évi C. törvény 2/A. §-a szerint összeállított – nyitó mérleg-tervezetét, amelynek könyvvizsgáló általi ellenőrzésére nincs szükség, valamint
 
 d) gondoskodik a foglalkoztatottakkal kapcsolatos munkáltatói intézkedések előkészítéséről, a korlátolt felelősségű társaságnál történő továbbfoglalkoztatásról szóló tájékoztatásról.
 
