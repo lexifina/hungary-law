@@ -6,6 +6,6 @@
 
 (3) Az ESG tanúsító a tanúsítási audit során eljárásáért és vizsgálati megállapításaiért a polgári jogi felelősség szabályai szerint felel.
 
-(4) A tanúsítás a tanúsítási audit eredményeit dokumentáló jelentéssel zárul. Ha a jelentés megállapítja az ESG beszámoló megfelelőségét, az ESG tanúsító ESG tanúsítványt ad ki. Az ESG tanúsítvány tartalmazza az ESG tanúsítvány keltét és a tanúsítás érvényességi idejét is.
+(4) A tanúsítás a tanúsítási audit eredményeit dokumentáló jelentéssel zárul. Ha a jelentés megállapítja az ESG beszámoló megfelelőségét, az ESG tanúsító az ESG beszámolóra vonatkozó magyar nyelvű bizonyossági véleményt (a továbbiakban: ESG tanúsítvány) ad ki. Az ESG tanúsítvány tartalmazza az ESG tanúsítvány keltét és a tanúsítás érvényességi idejét is.
 
 (5) Az ESG tanúsító az ESG beszámoló kézhezvételét követő 45 napon belül folytatja le a tanúsítási auditot.

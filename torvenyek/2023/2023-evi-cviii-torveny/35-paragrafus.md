@@ -2,11 +2,11 @@
 
 ## ESG MINŐSÍTŐ
 
-35. § (1) A vállalkozás az ESG megfelelőség és előrehaladás szempontjából történő minősítésére e törvény szerinti kötelezettségein túlmutatóan, saját üzleti döntése alapján ESG minősítőt is megbízhat. Az ESG minősítő az ESG menedzsmentplatformon keresztül benyújtott ESG beszámoló alapján, kiegészítve további, közhiteles adatbázisokból és nyilvános forrásokból hozzáférhető vállalati adatokkal minősítheti az e törvény hatálya alá tartozó vállalkozásokat ESG megfelelőség és előrehaladás szempontjából.
+35. § (1) A vállalkozás az ESG megfelelőség és előrehaladás szempontjából történő minősítésére e törvény szerinti kötelezettségein túlmutatóan, saját üzleti döntése alapján ESG minősítőt is megbízhat. Az ESG minősítő az ESG menedzsmentplatformon keresztül benyújtott ESG beszámoló alapján, illetve közhiteles adatbázisokból és nyilvános forrásokból hozzáférhető vállalati adatokkal minősítheti az e törvény hatálya alá tartozó vállalkozásokat ESG megfelelőség és előrehaladás szempontjából.
 
 (2) A minősítés módszertanát az ESG minősítő közzéteszi, illetve rendszeres időközönként felülvizsgálja, összhangban a nemzetközi sztenderdekkel és a vonatkozó jogszabályokkal.
 
-(3) ESG minősítőként a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló gazdasági társaság (a továbbiakban: állami ESG minősítő) is eljárhat.
+(3) ESG minősítőként a Kormány által rendeletben kijelölt, többségi állami befolyás alatt álló gazdasági társaság (a továbbiakban: állami ESG minősítő) is eljárhat.
 
 (4) A jogi személy és kapcsolódó személye nem járhat el ESG minősítőként azon vállalkozás vagy 1. § (3) bekezdése szerinti szervezet vagy mindezek leányvállalatai esetében, amelynél az adott üzleti év vonatkozásában ESG tanácsadóként eljár.
 

@@ -26,7 +26,7 @@
 
 10. ESG tanúsító: az ESG beszámolót tanúsító, akkreditált, jogi személyiséggel rendelkező megfelelőségértékelő szervezet;
 
-11. fenntarthatósági kérdések: az Szt. 95/D. § (1) bekezdés 2. pontja szerinti forgalom;
+11. fenntarthatósági kérdések: az Szt. 95/D. § (1) bekezdés 2. pontja szerinti fogalom;
 
 12. fióktelep: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 7. § (2) bekezdése szerinti fióktelep;
 

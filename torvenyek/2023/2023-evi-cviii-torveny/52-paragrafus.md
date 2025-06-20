@@ -6,9 +6,9 @@
 
 52. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a)
+a) szabályozza az ESG tanúsítók akkreditálásának követelményeit,
 
-b) szabályozza az ESG tanúsítók akkreditálásának feltételeit, valamint az ESG tanúsítók szakmai minőségbiztosítására, bizonyosságot nyújtó szolgáltatásnyújtására; képzésére, továbbképzésére, vizsgáztatására; szakmai etikai szabályaira és szakmai titoktartására; munkaszervezésére, továbbá az ESG tanúsítók által végzett tanúsítási audit lefolytatására vonatkozó részletes követelményeket;
+b) szabályozza az ESG tanúsítók szakmai minőségbiztosítására, bizonyosságot nyújtó szolgáltatásnyújtására, képzésére, továbbképzésére, vizsgáztatására, szakmai etikai szabályaira és szakmai titoktartására, munkaszervezésére, továbbá az ESG tanúsítók által végzett tanúsítási audit lefolytatására vonatkozó részletes követelményeket;
 
 c) jelölje ki az állami ESG minősítőt;
 
@@ -40,13 +40,13 @@ a) a vállalkozás fenntarthatósági célú átvilágítási kötelezettségei 
 
 b) a kockázatelemzés rendszere kialakításának szabályait;
 
-c) az ESG tanúsítóként és az ESG tanácsadóként történő akkreditálás eljárási szabályait;
+c) az ESG tanácsadóként történő akkreditálás eljárási szabályait;
 
 d) az ESG szoftverek kiberbiztonsági tanúsítása vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert;
 
 e)
 
-f) a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;
+f) a Tanúsítók Névjegyzékébe való felvétel feltételeit, továbbá a Tanúsítók Névjegyzéke, az ESG beszámolók, az ESG tanácsadók, az ESG minősítők és az ESG szoftverek nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat, valamint a nyilvántartások személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat;
 
 g) az ESG menedzsmentplatform működési szabályait;
 

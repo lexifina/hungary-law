@@ -4,7 +4,7 @@
 
 ## 4. A gazdaságfejlesztésért felelős miniszter feladatai
 
-8. § (1) A Kormány az e törvény szerinti fenntarthatósági célú átvilágítási kötelezettségekkel kapcsolatos feladatait a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) útján látja el.
+8. § (1) A Kormány az e törvény szerinti fenntarthatósági célú átvilágítási kötelezettségekkel kapcsolatos feladatait a miniszter útján látja el.
 
 (2) A miniszter
 

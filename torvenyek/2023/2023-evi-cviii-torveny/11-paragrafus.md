@@ -14,13 +14,7 @@ ac) az ESG szoftverekről;
 
 ad) az ESG minősítőkről;
 
-b) akkreditálja
-
-ba) az ESG tanácsadókat;
-
-bb) az ESG tanúsítókat, az ESG beszámolóra vonatkozó magyar nyelvű bizonyossági vélemény (a továbbiakban: ESG tanúsítvány) adási tevékenységükkel összefüggésben;
-
-bc)
+b) akkreditálja az ESG tanácsadókat;
 
 c) hatósági ellenőrzés keretében ellenőrzi a vállalkozások e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek betartását;
 
@@ -30,7 +24,7 @@ e) működteti a magyar online ESG menedzsmentplatformot az ESG adatszolgáltat�
 
 f) hitelesített támogatásmenedzsment központot működtet;
 
-g) minden év szeptember 30-ig közzéteszi a törvény hatálya alá tartozó vállalkozások ugyanezen év június 30. napját megelőző egy éves időszakban benyújtott ESG adatszolgáltatása alapján készült éves beszámolóját;
+g) minden év szeptember 30-ig közzéteszi az e törvény hatálya alá tartozó vállalkozások ugyanezen év június 30. napját megelőző egy éves időszakban benyújtott ESG beszámolói alapján készült éves jelentését;
 
 h) hatósági ellenőrzés keretében ellenőrzi az ESG közreműködők valamint az 1. § (3a) bekezdése szerinti szervezetek e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kötelezettségeinek betartását;
 

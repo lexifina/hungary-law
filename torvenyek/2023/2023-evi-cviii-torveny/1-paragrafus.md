@@ -12,17 +12,15 @@ aa) a mérlegfőösszeg a 10 000 millió forintot,
 
 ab) az éves nettó árbevétel a 20 000 millió forintot,
 
-ac) az átlagosan foglalkoztatottak száma az 500 főt;
+ac) az átlagosan foglalkoztatottak száma az 500 főt; és
 
-b) nagyvállalkozásra, amelynél az üzleti évet megelőző üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta a következő határértéket:
+b) azon nagyvállalkozásra, amelynek az üzleti évet megelőző két üzleti évben a mérleg fordulónapján főtevékenysége az 1. mellékletben meghatározott – Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere szerinti – ágazatokba sorolható, és esetében az alábbi mutatóértékek meghaladják a következő határértéket:
 
-ba) a mérlegfőösszeg a 10 000 millió forintot,
+ba) az éves nettó árbevétel a 90 000 millió forintot, valamint
 
-bb) az éves nettó árbevétel a 20 000 millió forintot,
+bb) az átlagosan foglalkoztatottak száma az 500 főt;
 
-bc) az átlagosan foglalkoztatottak száma a 250 főt; és
-
-c) közérdeklődésre számot tartó gazdálkodónak minősülő kis- és középvállalkozásra.
+c)
 
 (a továbbiakban együtt: vállalkozás).
 
@@ -38,7 +36,7 @@ c) közérdeklődésre számot tartó gazdálkodónak minősülő kis- és köz�
 
 a) a Magyarország területén ESG beszámoló vizsgálatát végző ESG tanúsítókra;
 
-b) a Magyarország területén fenntarthatósági tanácsadási szolgáltatást nyújtó természetes és jogi személyekre (a továbbiakban: ESG tanácsadó);
+b) a Magyarország területén fenntarthatósági tanácsadási szolgáltatást nyújtó ESG tanácsadóra;
 
 c) a Magyarország területén ESG szoftvereket forgalmazó vagy gyártó vállalatokra;
 
@@ -50,7 +48,7 @@ e) az ESG minősítőre, illetve az ESG minősítőnek nem minősülő, de tarta
 
 (5) E törvény hatálya nem terjed ki
 
-1. a Magyarország területén székhellyel rendelkező, közérdeklődésre számot tartó gazdálkodónak minősülő mikrovállalkozásra,
+1.
 
 2. a Magyarországon székhellyel, fiókteleppel rendelkező szabályozott pénzügyi szolgáltatóra, és
 

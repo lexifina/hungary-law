@@ -1,6 +1,6 @@
-3. § (1) A lényegesség elve azt biztosítja, hogy a vállalkozások megfelelő információkat hozzanak nyilvánosságra a náluk felmerülő ESG kockázatokról és lehetőségekről.
+3. § (1) A lényegesség elve azt biztosítja, hogy a vállalkozások az ESG beszámoló részeként megfelelő információkat hozzanak nyilvánosságra a náluk felmerülő ESG kockázatokról és lehetőségekről.
 
-(2) A vállalkozás a lényegesség elvét szem előtt tartva a fenntarthatósági célú átvilágítási kötelezettségei keretében – az üzleti titok sérelme nélkül – bárki számára megismerhetővé teszi
+(2) A vállalkozás a lényegesség elvét szem előtt tartva a fenntarthatósági célú átvilágítási kötelezettségei keretében – az üzleti titok sérelme nélkül – bárki számára megismerhetővé teszi az ESG beszámoló részeként
 
 1. azt, hogy a fenntarthatósági kérdések hogyan befolyásolják a vállalkozás teljesítményét, helyzetét és fejlődését,
 
