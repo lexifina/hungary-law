@@ -43,3 +43,5 @@ a támogatására fordítható, továbbá azt a Hatóság a működési kiadása
 (7) Törvényben, a Hatóság elnökének rendeletében megállapított, a Hatóságnak fizetendő igazgatási szolgáltatási, felügyeleti díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
 
 (8) A (2) bekezdés a)–c) pontja szerinti bevételek 9%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
+
+(9) A Hatóságnak az ESG törvény szerinti állami ESG minősítőben – közvetlenül vagy más jogi személyen keresztül – tulajdonjoggal kell rendelkeznie.
