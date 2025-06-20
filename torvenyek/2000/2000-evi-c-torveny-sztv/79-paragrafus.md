@@ -4,4 +4,4 @@
 
 (3) A személyi jellegű egyéb kifizetések közé tartoznak a természetes személyek részére nem bérköltségként és nem vállalkozási díjként kifizetett, elszámolt összegek, beleértve ezen összegek le nem vonható általános forgalmi adóját, továbbá az ezen összegek után a vállalkozó által fizetendő (fizetett) személyi jövedelemadó összegét is.
 
-(4) Bérjárulékok a szociális hozzájárulási adó, a szakképzési hozzájárulás, továbbá minden olyan adók módjára fizetendő összeg, amelyet a személyi jellegű ráfordítások vagy a foglalkoztatottak száma alapján állapítanak meg, függetlenül azok elnevezésétől.
+(4) Bérjárulékok a szociális hozzájárulási adó, továbbá minden olyan adók módjára fizetendő összeg, amelyet a személyi jellegű ráfordítások vagy a foglalkoztatottak száma alapján állapítanak meg, függetlenül azok elnevezésétől.

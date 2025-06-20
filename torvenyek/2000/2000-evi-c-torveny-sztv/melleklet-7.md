@@ -135,25 +135,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 20. A „26. Véglegesen átadott pénzeszközök” soron az adott időszakban, jogszabály alapján, a tőke-, illetve eredménytartalék vagy az eredmény terhére véglegesen átadott pénzeszközöket kell kimutatni.
 
 21. További korrekciós tételeket keletkeztető gazdasági események:
-
-a) A forgóeszközök között elszámolt és a „3. Elszámolt értékvesztés és visszaírás” sorban kiemelt értékvesztések, illetve azok visszaírása korrekciót idéznek elő a kapcsolódó forgóeszköz sorokon ellenkező előjellel. Azok a pénzmozgással nem járó további jelentős ráfordítások, amelyek kiemelésre kerültek ezen a soron, ugyancsak korrekciót idéznek elő a kapcsolódó cash flow sorokon.
-
-b) Apportba adáskor a kivezetett forgóeszköz könyv szerinti értéke és a kapott részesedés értéke negatív előjellel a megfelelő mérlegsorok tartalmából kiszűrendő.
-
-c) Apport behozatalkor kiszűrendő a forgóeszköz állományba vételi értéke, valamint a jegyzett tőke, tőketartalék növekedése negatív előjellel.
-
-d) Befektetett eszközök átsorolása a forgóeszközök közé, illetve a forgóeszközök átsorolása a befektetett eszközök közé nem jár pénzmozgással, ezért ellenkező előjellel korrigálni kell a kapcsolódó cash flow sorokat a működés területén.
-
-e) A saját előállítású befektetett eszközöket a befektetési cash flow-ban kell kimutatni olyan mértékben, amilyen mértékben a pénzügyi rendezettség megvalósult.
-
-f) A pénzeszközök év végi devizás átértékelése nem minősül pénzmozgásnak, ezért annak hatását a cash flow-kimutatásban külön tételként, a „27. Devizás pénzeszközök átértékelése” sorban indokolt bemutatni.
-
-g) A fordulónapi eredményhatású devizás tételek átértékelését a befektetett eszközöknél és a hosszú lejáratú kötelezettségeknél ki kell szűrni. (Nem realizált árfolyamkülönbözetek a befektetési és a finanszírozási cash flow-ban nem mutathatók ki.)
-
-h) A mérlegben bekerülési értékként figyelembe vett időarányos (ki nem fizetett) kamatok, biztosítási díjak a befektetési cash flow-ban nem szerepelhetnek, azt az egyéb rövid lejáratú kötelezettségekkel szemben ki kell szűrni.
-
-Az összevont (konszolidált) éves beszámoló kiegészítő mellékletének részét képező cash flow-kimutatást a jelen melléklet szerinti szerkezetben is el lehet készíteni a konszolidált éves beszámoló mérlege és eredménykimutatása adatainak felhasználásával. A konszolidációs különbözeteket, illetve azok állományváltozását a cash flow-kimutatás azon sorainál kell figyelembe venni, amelyekben szereplő tételhez az összevont (konszolidált) beszámolóba tartoznak.
-
-A 14–26. sorokban kizárólag azokkal a vállalkozásokkal szembeni gazdasági eseményekből eredő adatokat kell feltüntetni, amely vállalkozások nem tartoznak a konszolidálásba bevont vállalkozások közé.
-
-Valós értéken történő értékelés alkalmazása esetén további korrekciós tételeket kell figyelembe venni a valós értéken történő értékelés eredményt érintő hatásainak kiszűrésére.

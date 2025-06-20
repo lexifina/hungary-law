@@ -236,7 +236,7 @@ b) az éves nettó árbevétel a 20 000 millió forintot,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
 
-e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2025. évben induló üzleti évre alkalmazza.
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2027. évben induló üzleti évre alkalmazza.
 
 (99) Az az összevont (konszolidált) éves beszámolót készítő anyavállalat, amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
 
@@ -246,9 +246,9 @@ b) az éves nettó árbevétel a 20 000 millió forintot,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
 
-e törvénynek a Mód2. törvény által megállapított összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait először a 2025. évben induló üzleti évre alkalmazza.
+e törvénynek a Mód2. törvény által megállapított összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait először a 2027. évben induló üzleti évre alkalmazza.
 
-(100) Az a mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+(100) Az a mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2028. évben induló üzleti évre alkalmazza.
 
 (101) Az az (EU) 575/2013 rendelet 4. cikke (1) bekezdésének 145. pontjában meghatározott kisméretű és nem összetett intézmény,
 
@@ -262,7 +262,7 @@ ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
 
 b) olyan, mikrogazdálkodónak nem minősülő vállalkozás, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
 
-e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2028. évben induló üzleti évre alkalmazza.
 
 (102) Az a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikkének 2. pontjában meghatározott zárt biztosító, és a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikkének 5. pontjában meghatározott zárt viszontbiztosító,
 
@@ -276,7 +276,7 @@ ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
 
 b) olyan, mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
 
-e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2028. évben induló üzleti évre alkalmazza.
 
 (103) Az uniós tagállam jogának a hatálya alá nem tartozó vállalkozó 95/G. § szerinti leányvállalata, illetve fióktelepe e törvénynek a Mód2. törvény által megállapított 95/G. §-át először a 2028. évben induló üzleti évre alkalmazza.
 

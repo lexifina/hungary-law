@@ -22,4 +22,6 @@ h) az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányel
 
 i) a 2013/34/EU európai parlamenti és tanácsi irányelvnek a mikro-, kis-, közép- és nagyvállalkozásokra vagy csoportokra vonatkozó méretkritériumok kiigazítása tekintetében történő módosításáról szóló, 2023. október 17-i (EU) 2023/2775 felhatalmazáson alapuló bizottsági irányelv.
 
+j) az (EU) 2022/2464 és az (EU) 2024/1760 irányelvnek az egyes fenntarthatósággal kapcsolatos vállalati beszámolási és átvilágítási követelmények tagállamok általi alkalmazásának kezdőnapjai tekintetében történő módosításáról szóló, 2025. április 14-i (EU) 2025/794 európai parlamenti és tanácsi irányelv.
+
 (3) E törvény a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
