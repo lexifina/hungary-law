@@ -22,9 +22,9 @@ b)
 
 (5) A doktorandusz oktatási és kutatási tevékenységére az e § (3) bekezdés a) pontjában írtakat az alábbi eltérésekkel kell alkalmazni:
 
-a) a doktorandusz a tanulmányi kötelezettségeinek keretében a heti teljes munkaidő húsz százalékának megfelelő időtartamban az intézmény oktatási, tudományos tevékenysége körében munkavégzésre kötelezhető,
+a)
 
-b) a doktorandusz által végzett munka ideje – az a) pont szerinti munkavégzéssel együtt – egy félév átlagában nem haladhatja meg a heti teljes munkaidő ötven százalékát,
+b) a doktorandusz által végzett munka ideje – a kooperatív doktori képzés és a kutatási kiválósági doktori képzés kivételével – egy félév átlagában nem haladhatja meg a heti teljes munkaidő ötven százalékát,
 
 c) a doktorandusz munkaidő-beosztását oly módon kell meghatározni, hogy vizsgázási és a vizsgára történő felkészülési kötelezettségeinek eleget tudjon tenni,
 

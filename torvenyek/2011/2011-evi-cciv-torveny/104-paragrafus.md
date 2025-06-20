@@ -34,16 +34,4 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 (6) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (2) bekezdés c) pontja nem alkalmazható a Budapesti Német Nyelvű Egyetemért Közalapítvány esetében.
 
-(7) A felsőoktatásról szóló 2005. évi CXXXIX. törvény 7. § (1) bekezdés c)–d) pontja szerinti fenntartó által működtetett 2011. december 31-én egyetemként működő felsőoktatási intézmény
-
-a) alapító okirata szerint eltérhet
-
-aa) a 6. § (2) bekezdésében, a 9. § (3) bekezdésben a felsőoktatási intézményekre előírt feltételektől azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania,
-
-ab) a rektori megbízás személyi képesítési feltételeire vonatkozó általános feltételtől,
-
-b) esetén
-
-ba)
-
-bb) – a 105. § (5) bekezdésében foglaltakon túl – az e törvényben előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából az Európai Gazdasági Térségről, illetve a Gazdasági Együttműködési és Fejlesztési Szervezetről (OECD) szóló szerződésben részes államban szerzett doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora fokozatot a felsőoktatási intézmény szervezeti és működési szabályzatában a tudományos fokozattal egyenértékűként határozhatja meg.
+(7) A felsőoktatási intézmény az e törvényben, valamint jogszabályban előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából az Európai Gazdasági Térségről, illetve a Gazdasági Együttműködési és Fejlesztési Szervezetről (OECD) szóló szerződésben részes államban szerzett doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora fokozatot a felsőoktatási intézmény és a kutatási intézmény a szervezeti és működési szabályzatában a tudományos fokozattal egyenértékűként határozhatja meg.

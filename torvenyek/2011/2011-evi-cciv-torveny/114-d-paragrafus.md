@@ -10,6 +10,8 @@ bb) a kutatási és disszertációs szakaszban 2 160 000 Ft/év,
 
 bc) a doktori fokozatszerzés esetén egyszeri 400 000 Ft.
 
+bd) kooperatív doktori képzésben 3 000 000 Ft/év,
+
 c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája 400 000 Ft/év,
 
 d) a kollégiumi-diákotthoni elhelyezés normatívája 116 500 Ft/év,

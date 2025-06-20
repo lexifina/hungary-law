@@ -28,7 +28,7 @@ rendelkezik.
 
 (8) A nemzetiségi pedagógusképzés kis létszámú szaknak minősül.
 
-(9) A felsőoktatási intézmények megállapodása alapján közös képzésben is indítható tanárképzés. Az így szervezett képzésben a szak meghirdetője és az oklevél kiadója a szakindítási engedéllyel rendelkező intézmény. A közös képzésben közös oklevelet kell kiadni. Az egyházi felsőoktatási intézmény által indított közös képzésben – feltéve, hogy az hitéleti tanári képzésre is irányul – a hallgatói jogviszony az egyházi felsőoktatási intézménnyel jön létre.
+(9) A felsőoktatási intézmények megállapodása alapján közös képzésben is indítható tanárképzés. Az így szervezett képzésben a szak meghirdetője és az oklevél kiadója a szakindítási nyilvántartásba vett intézmény. A közös képzésben közös oklevelet kell kiadni. Az egyházi felsőoktatási intézmény által indított közös képzésben – feltéve, hogy az hitéleti tanári képzésre is irányul – a hallgatói jogviszony az egyházi felsőoktatási intézménnyel jön létre.
 
 (10) A köznevelési foglalkoztatotti jogviszonyban foglalkoztatottak a felsőoktatási intézménnyel további feladatok ellátására munkaviszonyt vagy közalkalmazotti jogviszonyt is létesíthetnek.
 

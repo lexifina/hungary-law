@@ -6,7 +6,7 @@
 
 1a. doktori értekezés: a doktorandusz által készített írásmű, alkotás vagy munka, amellyel bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
 
-1b. duális képzés: a műszaki, művészet, informatika, agrár, természettudomány, orvos- és egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, diakónia és szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+1b. duális képzés: a műszaki, művészet, informatika, agrár, természettudomány, orvos- és egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, diakónia és szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a miniszter által meghatározott keretek között folyik;
 
 1c. biztonságos elektronikus környezet: olyan, a felsőoktatási intézmény tanulmányi rendszerén vagy zárt rendszerű távoktatási képzésmenedzsment-rendszerén (a továbbiakban együtt: képzési rendszerek) keresztül egyéni autentikációval elérhető digitális oktatási és tanulási környezet, illetve az intézményben használt elektronikus táblák, interaktív panelek, kivetítők, amelyekhez történő hozzáférés az oktatási intézmény oktatóira, tanáraira vagy segítőikre, továbbá a képzésében részt vevő – tanulói vagy hallgatói jogviszonnyal rendelkező – tanulókra vagy hallgatókra korlátozódik, függetlenül attól, hogy az oktatási és tanulási tevékenység az intézmény telephelyén vagy a tanulmányi rendszer, vagy a zárt rendszerű távoktatási képzésmenedzsment-rendszeren keresztüli – egyéni autentikációval megvalósuló – lehívással, hozzáférhetővé tétellel valósul meg;
 
@@ -72,7 +72,13 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 22. klinika: a klinikai központ szervezeti egysége, amely az egészségügyi szolgáltató működési engedélye szerinti progresszivitási szinten és területi ellátási kötelezettsége keretében nyújtott gyógyító-megelőző feladatain keresztül közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő képzési feladatok ellátásában, továbbá részt vesz az orvos- és egészségtudomány adott ágának elméleti és gyakorlati fejlesztésében, e szakterületen kutatómunkát végez;
 
-22a. kooperatív doktori képzés: olyan doktori képzés, amely során a matematikai, természettudományi, műszaki, informatikai, agrártudományi, orvos- és egészségtudományi, gazdálkodás- és szervezéstudományi vagy művészeti területeken tanuló doktorandusz a doktori hallgatói jogviszonyával párhuzamosan olyan, nem felsőoktatási intézményként vagy költségvetési szervként működő munkáltatónál, vagy egészségügyi szolgáltatónál áll foglalkoztatásban, amely a doktorandusznak a kutatáshoz és a disszertációhoz szakmai, témavezetői segítséget nyújt azzal, hogy a tudományos és kutatási eredmények a doktoranduszt alkalmazó munkáltatónál kerülnek gyakorlati hasznosításra.
+22a. kooperatív doktori képzés: olyan doktori képzés, amely során a doktorandusz a doktori hallgatói jogviszonyával párhuzamosan, a doktori témájához kapcsolódó területen, legalább heti 20 óra munkaidőben
+
+a) felsőoktatási intézménynél oktatói vagy kutatói munkakörben;
+
+b) egészségügyi szolgáltatónál, vagy
+
+c) a Kormány rendeletében meghatározott feltételeknek megfelelő egyéb szervezetnél áll foglalkoztatásban;
 
 23. konzultáció: a felsőoktatási intézmény oktatója által a hallgató részére biztosított személyes megbeszélés lehetősége, ideértve az elektronikus úton történő kommunikációt is;
 
@@ -81,6 +87,8 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 24. kredit: a hallgatói tanulmányi munka mértékegysége, amely a tantárgy, illetve a tantervi egység vonatkozásában kifejezi azt a becsült időt, amely a tárgyleírás alapján meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges; egy kredit átlagosan harminc tanulmányi munkaórát jelent, a kredit értéke – feltéve, hogy a hallgató teljesítményét elfogadták – nem függ attól, hogy a hallgató a tudására milyen értékelést kapott;
 
 24a. kurzus: a tantárgy (tanegység) adott félévre szóló, meghatározott ismeretátadási formával és típussal rendelkező meghirdetett megvalósulása, amelyhez a félévre vonatkozó – többek között a kurzus oktatóival, az órarendi időpontokkal, a félévi számonkéréssel kapcsolatos – adatok kerülnek rögzítésre a tantárgy adatain túl a tanulmányi rendszerben;
+
+24b. kutatói kiválósági doktori képzés: olyan önköltséges doktori képzés, amelybe a doktorandusz akként kapcsolódik be, hogy projektalapú kutatási támogatási program keretében létrehozott doktori álláshelyen kerül teljes munkaidős foglalkoztatásra felsőoktatási intézménynél vagy a HUN-REN Magyar Kutatási Hálózatban, és ezzel párhuzamosan a doktori képzését a Kormány rendeletében meghatározott feltételeknek megfelelően folytatja;
 
 25. levelező képzés munkarendje: olyan oktatásszervezési rend, mely szerint – az érintett hallgatókkal kötött eltérő megállapodás hiányában – a hallgatók tanóráira tömbösítve, legfeljebb két hetenként munkanapokon vagy a heti pihenőnapon az intézményben, valamint a képzés fennmaradó részében a távoktatás módszereinek alkalmazásával kerül sor;
 

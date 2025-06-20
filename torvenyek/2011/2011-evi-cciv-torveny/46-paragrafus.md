@@ -24,7 +24,7 @@ c) önköltséges hallgató.
 
 a)
 
-b) a 72. § (5) bekezdése szerint közreműködik az Országos Doktori Tanács.
+b) a 72. § (5) bekezdése szerint közreműködik az Országos Doktori Tanács, azzal, hogy a kooperatív és a nem kooperatív doktori képzésben tanuló doktoranduszok számára egyaránt javaslatot tesz.
 
 (6) A miniszter (4) bekezdésben meghatározott döntésének meghozatalakor figyelembe kell venni
 

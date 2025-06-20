@@ -1,6 +1,6 @@
-16. § (1) A képzési program része a doktori képzés, amely a mesterfokozat megszerzését követő képzésben a doktori fokozat megszerzésére készít fel. Doktori képzésben legalább kettőszáznegyven kreditet kell szerezni. A képzési idő – ha e törvény eltérően nem rendelkezik – nyolc félév.
+16. § (1) A képzési program része a doktori képzés, amely a mesterfokozat megszerzését követő képzésben a doktori fokozat megszerzésére készít fel. A doktori iskola szabályzatában előírhatja, hogy a doktori képzésben krediteket kell szerezni. A képzési idő – ha e törvény eltérően nem rendelkezik – nyolc félév.
 
-(1a) Üzleti doktori képzésben és nemzetközi közös doktori képzésben legalább száznyolcvan kreditet kell szerezni, a képzési idő legalább hat félév.
+(1a) Üzleti doktori képzésben és nemzetközi közös doktori képzésben a képzési idő legalább hat félév.
 
 (2) Doktori képzésre az a felsőoktatási intézmény szerezhet jogosultságot, amelyben mesterképzés folyik az adott tudományterületen.
 

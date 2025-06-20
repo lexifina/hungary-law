@@ -2,9 +2,11 @@
 
 (2) A felsőoktatási intézmény – a Kormány által rendeletben meghatározott rend szerint – tanévenként köteles önköltséges képzésre átsorolni azt a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félév átlagában, amelyben hallgatói jogviszonya nem szünetelt, illetve nem a 81. § (3) és (4) bekezdésében meghatározott külföldi képzésben vett részt, nem szerzett vagy nem érte el legalább – a felsőoktatási intézmény szervezeti és működési szabályzatában a tanévet megelőző legalább 15 nappal meghatározott – kreditet vagy tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdése szerinti nyilatkozatát visszavonja.
 
-(2a) A (2) bekezdés rendelkezéseit a doktori képzésben nem kell alkalmazni.
+(2a) A (2) bekezdés rendelkezéseit a doktori képzésben azzal az eltéréssel kell alkalmazni, hogy a felsőoktatási intézmény doktori szabályzata megállapíthat olyan követelményeket, amelyek – az utolsó két, hallgatói jogviszony szünetelésével nem érintett félév során történő – nem teljesítése esetén a doktoranduszt a következő tanévre nézve önköltséges képzési formára kell átsorolni.
 
 (3) Ha a magyar állami (rész)ösztöndíjjal támogatott képzésre felvett hallgatónak a tanulmányai befejezése előtt megszűnik a hallgatói jogviszonya, vagy a hallgató a tanulmányait bármely okból önköltséges formában folytatja tovább, helyére – ilyen irányú kérelem esetén – a felsőoktatási intézményben önköltséges formában azonos szakon tanulmányokat folytató hallgató léphet. Az átsorolásról a felsőoktatási intézmény a magyar állami (rész)ösztöndíjjal támogatott képzésre átsorolását kérő önköltséges hallgatók tanulmányi teljesítménye alapján dönt.
+
+(3a) Ha a magyar állami ösztöndíjjal támogatott képzésre felvett doktorandusznak a tanulmányai befejezése előtt megszűnik a hallgatói jogviszonya, vagy a hallgató a tanulmányait bármely okból önköltséges képzési formában folytatja tovább, helyére – ilyen irányú kérelem esetén – a felsőoktatási intézményben önköltséges képzési formában azonos doktori iskolában tanulmányokat folytató hallgató léphet. Az átsorolásról a felsőoktatási intézmény a magyar állami ösztöndíjjal támogatott képzésre átsorolását kérő önköltséges doktorandusz doktori szabályzatban meghatározott tanulmányi teljesítménye alapján dönt.
 
 (4) A magyar állami ösztöndíjjal támogatott képzésre felvett hallgató helyére magyar állami részösztöndíjjal támogatott képzésben részt vevő hallgató is átsorolható a (3) bekezdésben foglaltak szerint.
 

@@ -25,3 +25,5 @@
 (9a) A művészeti felsőoktatásban az egyetemi tanári munkaköri cím adományozására és az egyetemi tanári munkakörben történő alkalmazásra vonatkozó, a 28. § (5) bekezdésében foglalt feltételeknek megfelel az adott művészeti területen kifejtett művészi munkássága miatt Kossuth-díjban részesített oktató. A cím adományozásával kapcsolatos javaslathoz ebben az esetben a rektornak, a Magyar Művészeti Akadémiának, a Magyar Tudományos Akadémiának nem szükséges beszereznie a 69. § (1) bekezdése szerinti szakértői véleményt a MAB-tól.
 
 (10) Az Állami Balettintézet táncművészeti képesítő oklevelével és balettművész oklevelével mesterképzésre lehet jelentkezni.
+
+(11) A művészeti felsőoktatási intézmény – a 9. § (3) bekezdés e) pontjában foglaltaktól eltérően – az alaptevékenységének ellátásához szükséges oktatók és kutatók legalább ötven százalékát munkaviszony vagy közalkalmazotti jogviszony keretében foglalkoztatja.

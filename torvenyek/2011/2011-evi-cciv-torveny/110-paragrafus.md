@@ -70,7 +70,7 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 18. a felsőoktatási intézmények nyilvántartását vezető szerv vagy szervek eljárását, működési, felügyeleti rendjét,
 
-19. a MAB elnöke, tagjai, tisztségviselői részére biztosított tiszteletdíj megállapításának szabályait, a MAB létrehozásával, működésével, hatáskörével, a Duális Képzési Tanács létrehozásával, működésével, hatáskörével kapcsolatos kérdéseket,
+19. a MAB elnöke, tagjai, tisztségviselői részére biztosított tiszteletdíj megállapításának szabályait, a MAB létrehozásával, működésével, hatáskörével kapcsolatos kérdéseket, a MAB 67. § szerinti eljárására vonatkozó részletszabályokat, a MAB szakvéleményének tartalmi követelményeit, valamint az ESG-nek megfelelő felsőoktatási akkreditációs szervezet szakvéleményével szembeni követelményekkel kapcsolatos kérdéseket,
 
 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával, az állammal köthető finanszírozási keretmegállapodással, a feladatfinanszírozási megállapodással kapcsolatos kérdéseket, a magán intézmények gazdálkodásával kapcsolatos kérdéseket,
 
@@ -95,6 +95,8 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 30. a felsőoktatási intézmények által kiállított okiratok külföldi felhasználásra történő felülhitelesítését,
 
 31. a mikrotanúsítvány kötelező tartalmi elemeit.
+
+32. a 48/T. § (1) bekezdésében előírt oklevélszerzési kötelezettségének eleget nem tevő doktorandusz felsőoktatási intézménye részére folyósított támogatási normatíva visszafizetésének szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy
 

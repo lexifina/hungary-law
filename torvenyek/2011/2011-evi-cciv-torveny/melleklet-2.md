@@ -18,7 +18,7 @@ c) székhelyének és valamennyi telephelyének címét,
 
 d) székhelyen kívüli képzés címét,
 
-e) kari, szervezeti tagolását (a rektor és a kancellár megbízási rendjét), fenntartott intézményeit,
+e) kari, szervezeti tagolását (a rektor és a kancellár megbízási rendjét), fenntartott intézményeit, a jogi személy szervezeti egységek megnevezését,
 
 f) alaptevékenységét,
 
