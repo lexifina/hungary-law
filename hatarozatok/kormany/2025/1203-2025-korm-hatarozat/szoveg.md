@@ -78,4 +78,6 @@ e) a 2030. év vonatkozásában 2 400 000 000 forintban
 
 állapítja meg;
 
-12. visszavonja a Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény módosításával összefüggő egyes intézkedésekről szóló 1641/2022. (XII. 19.) Korm. határozat 1–6. pontját.
+12.[^1]
+
+[^1]: A 12. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
