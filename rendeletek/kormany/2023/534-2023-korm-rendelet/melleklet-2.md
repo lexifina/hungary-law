@@ -8,7 +8,7 @@
 
 | 3. | államtudományi | Political Science and Public Governance | katonai | Military | állami légi- közlekedési | State Aviation | a) állami légijárművezető tiszt b) katonai repülésirányító tiszt c) katonai repülőműszaki tiszt | a) State Aviation Pilot b) Military Aerospace Control Officer c) Military Aviation Technical Officer | 6 |
 
-| 4. | államtudományi | Political Science and Public Governance | katonai | Military | katonai infokom-munikáció | Military Infocommunication | a) katonai informatikai vezető b) katonai kommunikációs és információvédelmi vezető c) rádióelektronikai felderítő és elektronikai hadviselési vezető | a) Military Information Technology Manager b) Military Communication and Information Security Manager c) Signal Intelligence and Electronic Warfare Manager | 6 |
+| 4. | államtudományi | Political Science and Public Governance | katonai | Military | katonai infokom-munikáció | Military Infocommunication | a) katonai informatikai vezető b) katonai infokommunikációs és információvédelmi vezető c) rádióelektronikai felderítő és elektromágneses hadviselés vezető[^3] | a) Military Information Technology Manager b) Military Infocommunication and Information Security Manager c) Signals Intelligence and Electromagnetic Warfare Manager[^4] | 6 |
 
 | 5. | államtudományi | Political Science and Public Governance | katonai | Military | katonai logisztika | Military Logistics | a) hadtáptiszt b) katonai közlekedési tiszt c) haditechnikai tiszt d) katonai pénzügyi tiszt | a) Military Supply Officer b) Military Transportation Officer c) Military Technology Maintenance Officer d) Military Finance Officer | 6 |
 
@@ -22,11 +22,11 @@
 
 | 10. | államtudományi | Political Science and Public Governance | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi igazgatási | International Public Service Management | nemzetközi közszolgálati menedzser | International Public Service Manager | 6 |
 
-| 11. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | bűnügyi | Criminal Policing | a) bűnügyi nyomozó tiszt b) bűnügyi felderítő tiszt c) gazdaságvédelmi nyomozó tiszt d) kibernyomozó tiszt | a) Criminal Investigation Officer b) Criminal Intelligence Officer c) Economic Crime Investigation Officer d) Cybercrime Investigation Officer | 6 |
+| 11. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | bűnügyi | Criminal Policing | a) bűnügyi nyomozó tiszt b) bűnügyi felderítő tiszt c) gazdaságvédelmi nyomozó tiszt d) kibernyomozó tiszt | a) Crime Investigation Officer b) Criminal Intelligence Officer c) Economic Crime Investigation Officer d) Cybercrime Investigation Officer[^5] | 6 |
 
-| 12. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | bűnügyi igagatási | Criminal Administration | a) bűnügyi igazgatásszervező, bűnügyi nyomozó szakirányon b) bűnügyi igazgatásszervező, bűnügyi hírszerző szakirányon c) bűnügyi igazgatásszervező, gazdaságvédelmi nyomozó szakirányon d) bűnügyi igazgatásszervező, informatikai nyomozó szakirányon | a) Crime Administration Manager Specialized in Crime Investigation b) Crime Administration Manager Specialized in Criminal Intelligence c) Crime Administration Manager Specialized in Economic Crime Investigaton d) Crime Administration Manager Specialized in Information Technology | 6 |
+| 12. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | bűnügyi igazgatási[^6] | Criminal Administration | a) bűnügyi igazgatásszervező, bűnügyi nyomozó szakirányon b) bűnügyi igazgatásszervező, bűnügyi hírszerző szakirányon c) bűnügyi igazgatásszervező, gazdaságvédelmi nyomozó szakirányon d) bűnügyi igazgatásszervező, informatikai nyomozó szakirányon | a) Crime Administration Manager Specialized in Crime Investigation b) Crime Administration Manager Specialized in Criminal Intelligence c) Crime Administration Manager Specialized in Economic Crime Investigaton d) Crime Administration Manager Specialized in Information Technology | 6 |
 
-| 13. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | büntetés-végrehajtási | Corrections | büntetés-végrehajtási tiszt | Corrections Commissioned Officer | 6 |
+| 13. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | büntetés-végrehajtási | Prison[^7] | büntetés-végrehajtási tiszt | Prison Commissioned Officer[^8] | 6 |
 
 | 14. | államtudományi | Political Science and Public Governance | rendészeti | Law Enforcement | katasztrófa-védelem | Disaster Management | a) katasztrófavédelmi szervező, katasztrófavédelmi műveleti szakirányon b) katasztrófavédelmi szervező, tűzvédelmi és mentésirányítási szakirányon c) katasztrófavédelmi szervező, iparbiztonsági szakirányon | a) Disaster Manager Specialized in Disaster Management Operational b) Disaster Manager Specialized in Fire Prevention and Rescue Control c) Disaster Manager Specialized in Industry Safety | 6 |
 
@@ -234,7 +234,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+## 6.1.[^9] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 0-20 kredit
 
@@ -402,65 +402,87 @@
 
 ## IV. A KATONAI FELSŐOKTATÁS KÖZÖS SZAKMAI KOMPETENCIÁI ALAPKÉPZÉSBEN, VALAMINT AZ ALAPKÉPZÉSEK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-## A. A katonai felsőoktatás közös szakmai kompetenciái alapképzésben
+## A.[^10] A katonai felsőoktatás közös szakmai kompetenciái alapképzésben
 
-## Tudás:
+## 1. Tudás:
 
-## - Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
+## 1.1. Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
 
-## - Ismeri az alegység szintű NATO harcászati egyezményes jeleket, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
+## 1.2. Ismeri az alegység szintű NATO harcászati egyezményes jeleket, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
 
-## - Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
+## 1.3. Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
 
-## - Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
+## 1.4. Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
 
-## - Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
+## 1.5. Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
 
-## - Átfogóan ismeri a küldetésalapú vezetést, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
+## 1.6. Átfogóan ismeri a harcvezetés alapelveit, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
 
-## - Ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek, a fegyvernemek és szakcsapatok szervezeti felépítését, harceljárásait.
+## 1.7. Ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek, a fegyvernemek és szakcsapatok szervezeti felépítését, harceljárásait.
 
-## - Rendelkezik alapvető vezetői ismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint rendelkezik a beosztottak motiválásához szükséges módszertani ismeretekkel, technikákkal.
+## 1.8. Rendelkezik alapvető vezetői ismeretekkel, a küldetésalapú vezetésszemlélet alapelveivel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint rendelkezik a beosztottak motiválásához szükséges módszertani ismeretekkel, technikákkal.
 
-## - Ismeri a katonai kommunikáció, hírközlés alapvető elveit és eszközeit, a titokvédelem és az információbiztonság szabályait.
+## 1.9. Ismeri a katonai kommunikáció, hírközlés alapvető elveit és eszközeit, a titokvédelem és az információbiztonság szabályait.
 
-## - Ismeri az alegységek kiképzéséhez szükséges szakmódszertanokat, kiképzési elveket és eljárásokat.
+## 1.10. Ismeri az alegységek kiképzéséhez szükséges szakmódszertanokat, kiképzési elveket és eljárásokat.
 
-## - Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi ismeretekkel.
+## 1.11. Ismeri az idegen hadseregek harcászati eszközeit, szervezeti rendjét és harceljárásait, doktrínáit.
 
-## Képesség:
+## 1.12. Ismeri a nem-kinetikus funkciókkal és képességekkel (Információs Műveletek – Info Ops, Civil-katonai Együttműködés – CIMIC, Lélektani Műveletek – PsyOps, Katonai Kommunikáció – Mil PA) kapcsolatos alapismereteket, főbb jellemzőiket, eljárásait.
 
-## - Képes a gyalogos lövész alegység részére harcparancs kiadására szóban és terepasztalon.
+## 1.13. Ismeri a matematika és a mechanika törvényszerűségeit, rendelkezik alapvető műszaki ismeretekkel.
 
-## - Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási viszonyok között.
+## 1.14. Ismeri a szakterületén előforduló jelenségek alapvető fizikai törvényszerűségeit.
 
-## - Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
+## 1.15. Ismeri a munkája során felmerülő adatok elemzéséhez szükség technikákat és eljárásokat.
 
-## - Képes az első tiszti beosztás ellátásához szükséges jogok, kötelezettségek, parancsadási és fegyelmi jogkörök gyakorlására.
+## 1.16. Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi ismeretekkel.
 
-## - Képes a honvédekkel szemben támasztott mindenkori fizikai és pszichikai követelményeknek megfelelni.
+## 2. Képesség:
 
-## - Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
+## 2.1. Képes a gyalogos lövész alegység részére harcparancs kiadására szóban, terepasztalon és terepen.
 
-## - Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi kommunikációs készségekkel. Képes a katonai szakmai terminológia magyar és angol nyelven történő alkalmazására.
+## 2.2. Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási év és napszak viszonyai között.
 
-## Attitűd:
+## 2.3. Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
 
-## - Elkötelezett a nemzeti érdekek, a haza védelme iránt.
+## 2.4. Képes az első tiszti beosztás ellátásához szükséges jogok, kötelezettségek, parancsadási és fegyelmi jogkörök gyakorlására.
 
-## - Feladatai ellátása során törekszik a beosztottak bevonására a döntési folyamatokba.
+## 2.5. Képes a katonai vezetőkkel szemben támasztott mindenkori fizikai és pszichikai követelményeknek megfelelni.
 
-## - Figyel beosztottjai szakmai fejlődésének előmozdítására, ilyen irányú törekvéseik kezelésére és segítésére.
+## 2.6. Képes a nem-kinetikus funkciókkal és képességekkel kapcsolatos alapismeretei alkalmazására a feladatai végrehajtása során.
 
-## - Nyitott a képesítésével, szakterületével kapcsolatos szakmai, technológiai, fejlesztési eredmények megismerésére, befogadására, és törekszik saját tudásának megosztására.
+## 2.7. Képes a szakterületéhez kapcsolódó feladatokat analitikusan feldolgozni.
 
-## Autonómia és felelősség:
+## 2.8. Képes a szakterületén megjelenő új eredmények matematikai és fizikai értelmezésére.
 
-## - Az elöljárói feladatszabás és a parancsnoki hierarchia keretein belül, a tevékenységének kritikus értékelése és folyamatos korrekciója mellett, önállóan végzi szakmai munkáját.
+## 2.9. Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
 
-## - A szakterületén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+## 2.10. Képes a szakterületén megjelenő innovatív technikákat alkalmazni saját munkája során.
 
-## - Értékeli beosztottjai munkáját. Értékeli a beosztottak munkavégzésének hatékonyságát, eredményességét. Kritikai észrevételekkel elősegíti szakmai fejlődésüket.
+## 2.11. Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi kommunikációs készségekkel. Képes a katonai szakmai terminológia magyar és angol nyelven történő alkalmazására.
+
+## 3. Attitűd:
+
+## 3.1. Elkötelezett a nemzeti érdekek, a haza védelme iránt.
+
+## 3.2. Feladatai ellátása során törekszik a beosztottak bevonására a döntési folyamatokba.
+
+## 3.3. Figyel beosztottjai szakmai fejlődésének előmozdítására, ilyen irányú törekvéseik kezelésére és segítésére.
+
+## 3.4. Képes katonai közösséget építeni, a csapathagyományok megőrzésével és átadásával erősíti a közössége csapatszellemét, a magasfokú hadrafoghatóságot, a bevethetőséget és az (al)egysége harci szellemét.
+
+## 3.5. Elfogadja szakterülete a katonai etikai és erkölcsi normáit és szabályait, és ezeket a szakmai feladatok ellátásában, az emberi kapcsolatokban és a kommunikációban egyaránt képes betartani.
+
+## 3.6. Nyitott a képesítésével, szakterületével kapcsolatos szakmai, technológiai, fejlesztési eredmények megismerésére, befogadására, és törekszik saját tudásának megosztására.
+
+## 4. Autonómia és felelősség:
+
+## 4.1. Az elöljárói feladatszabás és a parancsnoki hierarchia keretein belül, a tevékenységének kritikus értékelése és folyamatos korrekciója mellett, önállóan végzi szakmai munkáját.
+
+## 4.2. A szakterületén megjelenő folyamatokban képes az elöljárói szándékkal összhangban önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+
+## 4.3. Értékeli beosztottjai munkáját és munkavégzésük hatékonyságát, eredményességét. Kritikai észrevételekkel elősegíti szakmai fejlődésüket. Biztosítja a feladatvégrehajtásukhoz szükséges feltételeket, mindenre kiterjedően gondoskodik róluk.
 
 ## B. A katonai felsőoktatás alapképzéseinek képzési és kimeneti követelményei
 
@@ -510,13 +532,13 @@
 
 ## a) alapfokozat (baccalaureus, bachelor of science, rövidítve: BSc)
 
-## b) ISCED 2011 szerint: 665
+## b)[^11] ISCED 2011 szerint: 655
 
 ## c) Magyar Képesítési Keretrendszer/Európai Képesítési Keretrendszer szerint: 6
 
 ## 4.3. a szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása ISCED-F 2013 szerint: 1031
 
-## 4.4. a szak orientációja: kiegyensúlyozott (40-60 százalék)
+## 4.4.[^12] a szak orientációja: gyakorlatorientált (60–70 százalék)
 
 ## B/ A képzés szerkezeti és kimeneti jellemzői
 
@@ -524,9 +546,9 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+## 6.1.[^13] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
-## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 8 kredit
+## 6.2.[^14] Szakmai gyakorlati képzéshez rendelt kreditek száma: 17 kredit
 
 ## 6.3. A szakirány elvégzésével összegyűjtendő kreditek minimális száma: 88 kredit
 
@@ -564,47 +586,49 @@
 
 ## 7.3.1. állami légijármű-vezető szakirányon
 
-## 7.3.1.1. Tudás:
+## 7.3.1.1.[^15] Tudás:
 
-## - Behatóan ismeri a repülés (légiközlekedés) történetét, fontosabb eseményeit.
+## 1. Behatóan ismeri a repülés (légiközlekedés) történetét, fontosabb eseményeit.
 
-## - Ismeri a repülésbiztonságot befolyásoló tényezőket, a Repülésbiztonsági Rendszer (Safety Management System - SMS) alapjait és a repülésbiztonsági előírásokat.
+## 2. Ismeri a repülésbiztonságot befolyásoló tényezőket, a Repülésbiztonsági Rendszer (Safety Management System – SMS) alapjait és a repülésbiztonsági előírásokat.
 
-## - Ismeri a repülőtereken folyó légi és földi műveleteket biztosító technikai eszközöket, berendezéseket, azok alkalmazásának módjait.
+## 3. Ismeri a repülőtereken folyó légi és földi műveleteket biztosító technikai eszközöket, berendezéseket, azok alkalmazásának módjait.
 
-## - Ismeri és alkalmazni tudja a látás utáni navigációs eljárásokat és a műszeres navigációs eljárásokat, valamint a modern navigációs eszközök használatát.
+## 4. Ismeri és alkalmazni tudja a látás utáni navigációs eljárásokat és a műszeres navigációs eljárásokat, valamint a modern navigációs eszközök használatát.
 
-## - Magas szinten ismeri és alkalmazni tudja a navigációs és teljesítményszámításhoz szükséges elméleti alapokat.
+## 5. Magas szinten ismeri és alkalmazni tudja a navigációs és teljesítményszámításhoz szükséges elméleti alapokat.
 
-## - Ismeri az egyéni mentőeszköz felépítését, működését, alkalmazásának feltételeit és végrehajtásának szabályait.
+## 6. Ismeri az egyéni mentőeszköz felépítését, működését, alkalmazásának feltételeit és végrehajtásának szabályait.
 
-## - Ismeri az általános és a légi járművek üzemeltetésével kapcsolatos környezetvédelmi előírásokat, eljárásokat.
+## 7. Ismeri az általános és a légi járművek üzemeltetésével kapcsolatos környezetvédelmi előírásokat, eljárásokat.
 
-## - Ismeri a meteorológia alapfogalmait, jelenségeit, azok repülésre gyakorolt hatását és a repülésre veszélyes légköri folyamatokat, valamint a repülésmeteorológiai támogatás alapelveit.
+## 8. Ismeri a meteorológia alapfogalmait, jelenségeit, azok repülésre gyakorolt hatását és a repülésre veszélyes légköri folyamatokat, valamint a repülésmeteorológiai támogatás alapelveit.
 
-## - Ismeri a légiközlekedés és a repülés nemzetközi és hazai szervezeteit, az általuk kiadott legfontosabb előírásokat, jogszabályokat.
+## 9. Ismeri a légiközlekedés és a repülés nemzetközi és hazai szervezeteit, az általuk kiadott legfontosabb előírásokat, jogszabályokat.
 
-## - Ismeri és alkalmazni tudja a repülések megszervezéséhez, megtervezéséhez szükséges eljárásokat.
+## 10. Ismeri és alkalmazni tudja a repülések megszervezéséhez, megtervezéséhez szükséges eljárásokat.
 
-## - Ismeri a légtérigénylés és a légtérfelhasználás alapvető módját és módszereit.
+## 11. Ismeri a légtérigénylés és a légtérfelhasználás alapvető módját és módszereit.
 
-## - Ismeri a repülés alapvető szabályait, a légiforgalmi és a repülési eljárásokat.
+## 12. Ismeri a repülés alapvető szabályait, a légiforgalmi és a repülési eljárásokat.
 
-## - Rendelkezik nemzetközi rádió-távbeszélő kezelői ismeretekkel, ismeri a rádióforgalmazás szabályait, valamint az ICAO kritériumoknak megfelelő repülés-szakmai szaknyelv használatát.
+## 13. Rendelkezik nemzetközi rádió-távbeszélő kezelői ismeretekkel, ismeri a rádióforgalmazás szabályait, valamint az ICAO kritériumoknak megfelelő repülés-szakmai szaknyelv használatát.
 
-## - Ismeri az emberi tényezők helyét, szerepét, struktúráját a légiközlekedésben.
+## 14. Ismeri az emberi tényezők helyét, szerepét, struktúráját a légiközlekedésben.
 
-## - Ismeri a repülés pillanatnyi és hosszan tartó egészségügyi állapotát befolyásoló tényezőinek hatását a saját munkavégző képességére.
+## 15. Ismeri a repülés pillanatnyi és hosszan tartó egészségügyi állapotot befolyásoló tényezőinek hatását a saját munkavégző képességére.
 
-## - Ismeri az állami és a polgári légiközlekedésben alkalmazott repüléstájékoztató rendszereket, adatbázisokat, azok felhasználásának lehetőségeit.
+## 16. Ismeri az állami és a polgári légiközlekedésben alkalmazott repüléstájékoztató rendszereket, adatbázisokat, azok felhasználásának lehetőségeit.
 
-## - Ismeri a harcászati repülő vagy helikopter erők hadműveleti alkalmazásának elveit, rendszerét.
+## 17. Ismeri a harcászati repülő vagy helikopter erők hadműveleti alkalmazásának elveit, rendszerét.
 
-## - Ismeri a NATO légi vezetési és irányítási rendszerének elemeit, a légtérellenőrzésre vonatkozó dokumentumok tartalmát, a teljesítésben részt vevő erőket, eszközöket.
+## 18. Ismeri a harcászati, hadműveleti és stratégiai pilótanélküli légijárműrendszerek hadműveleti alkalmazásának, valamint a harcászati repülő vagy helikopter erőkkel való együttműködésük elveit, rendszerét.
 
-## - Ismeri a kiképzésre rendszeresített repülő eszközök felépítését, fedélzeti rendszereit és berendezéseit, azok működését, üzemeltetési rendjét.
+## 19. Ismeri a NATO légi vezetési és irányítási rendszerének elemeit, a légtérellenőrzésre vonatkozó dokumentumok tartalmát, a teljesítésben részt vevő erőket, eszközöket.
 
-## 7.3.1.2. Képesség:
+## 20. Ismeri a kiképzésre rendszeresített repülő eszközök felépítését, fedélzeti rendszereit és berendezéseit, azok működését, üzemeltetési rendjét.
+
+## 7.3.1.2.[^16] Képesség:
 
 ## - Képes a meteorológiai helyzet elemzésére, értékelésére, a repülést érintő szükséges döntés meghozatalára, a meteorológiai táviratok és jelentések értelmezésére.
 
@@ -614,7 +638,7 @@
 
 ## - Képes a repülőgép berendezéseinek és rendszereinek, fedélzeti műszereinek és műszerrendszereinek a Légi Üzemeltetési Utasításban leírtak szerinti üzemeltetésére, az esetlegesen bekövetkező meghibásodások és különleges esetek felismerésére és szakszerű kezelésére.
 
-## - Képes látás utáni, műszeres, kötelék- és éjszakai repülések végrehajtására.
+## - Képes látás utáni, műszeres és kötelék repülés végrehajtására nappal és éjszaka egyaránt.
 
 ## - Képes az angol nyelvű rádióforgalmazásra és az operatív munkavégzéshez szükséges, ICAO kritériumoknak megfelelő (Level4) repülés-szakmai szaknyelv használatára.
 
@@ -632,47 +656,49 @@
 
 ## 7.3.2. katonai repülésirányító szakirányon
 
-## 7.3.2.1. Tudás:
+## 7.3.2.1.[^17] Tudás:
 
-## - Behatóan ismeri a repülés, a légiközlekedés történetét, fontosabb eseményeit.
+## 1. Behatóan ismeri a repülés, a légiközlekedés történetét, fontosabb eseményeit.
 
-## - Ismeri a repülésbiztonságot befolyásoló tényezőket, a Repülésbiztonsági Rendszer (Safety Management System - SMS) alapjait és a repülésbiztonsági előírásokat.
+## 2. Ismeri a repülésbiztonságot befolyásoló tényezőket, a Repülésbiztonsági Rendszer (Safety Management System – SMS) alapjait és a repülésbiztonsági előírásokat.
 
-## - Ismeri a repülőtereken folyó légi és földi műveleteket biztosító technikai eszközöket, berendezéseket, azok alkalmazásának módjait.
+## 3. Ismeri a repülőtereken folyó légi és földi műveleteket biztosító technikai eszközöket, berendezéseket, azok alkalmazásának módjait.
 
-## - Ismeri az általános és a légi járművek üzemeltetésével kapcsolatos környezetvédelmi előírásokat, eljárásokat.
+## 4. Ismeri az általános és a légi járművek üzemeltetésével kapcsolatos környezetvédelmi előírásokat, eljárásokat.
 
-## - Ismeri a meteorológia alapfogalmait, jelenségeit, azok repülésre gyakorolt hatását és a repülésre veszélyes légköri folyamatokat, valamint a repülésmeteorológiai támogatás alapelveit.
+## 5. Ismeri a meteorológia alapfogalmait, jelenségeit, azok repülésre gyakorolt hatását és a repülésre veszélyes légköri folyamatokat, valamint a repülésmeteorológiai támogatás alapelveit.
 
-## - Ismeri a repülésben alkalmazott navigációs berendezéseket, és a hozzájuk kapcsolódó navigációs eljárásokat.
+## 6. Ismeri a repülésben alkalmazott navigációs berendezéseket és a hozzájuk kapcsolódó navigációs eljárásokat.
 
-## - Ismeri a légiközlekedés és a repülés nemzetközi és hazai szervezeteit, az általuk kiadott legfontosabb előírásokat, jogszabályokat.
+## 7. Ismeri a légiközlekedés és a repülés nemzetközi és hazai szervezeteit, az általuk kiadott legfontosabb előírásokat, jogszabályokat.
 
-## - Ismeri a légtérigénylés és a légtérfelhasználás alapvető módját és módszereit.
+## 8. Ismeri a légtérigénylés és a légtérfelhasználás alapvető módját és módszereit.
 
-## - Ismeri a repülés alapvető szabályait és eljárásait.
+## 9. Ismeri a repülés alapvető szabályait és eljárásait.
 
-## - Ismeri a nemzetközi rádió-távbeszélő kezelői ismereteket, a rádióforgalmazás szabályait, valamint az ICAO kritériumoknak megfelelő repülés-szakmai szaknyelv használatát.
+## 10. Ismeri a nemzetközi rádió-távbeszélő kezelői ismereteket, a rádióforgalmazás szabályait, valamint az ICAO kritériumoknak megfelelő repülés-szakmai szaknyelv használatát.
 
-## - Ismeri az emberi tényezők helyét, szerepét, struktúráját a légiközlekedésben.
+## 11. Ismeri az emberi tényezők helyét, szerepét, struktúráját a légiközlekedésben.
 
-## - Ismeri az állami és a polgári légiközlekedésben alkalmazott repüléstájékoztató rendszereket, adatbázisokat, azok felhasználásának lehetőségeit.
+## 12. Ismeri az állami és a polgári légiközlekedésben alkalmazott repüléstájékoztató rendszereket, adatbázisokat, azok felhasználásának lehetőségeit.
 
-## - Ismeri a radarirányítási eljárásokat és a hozzá kapcsolódó alapvető módszereket.
+## 13. Ismeri a radarirányítási eljárásokat és a hozzá kapcsolódó alapvető módszereket.
 
-## - Ismeri a Légierő repülő technikájának főbb harcászat-technikai adatait, harci lehetőségeit.
+## 14. Ismeri a Légierő repülő technikájának főbb harcászat-technikai adatait, harci lehetőségeit.
 
-## - Ismeri az alkalmazott radarok alapvető harcászat-technikai adatait, üzemmódjait, felhasználásának lehetőségeit.
+## 15. Ismeri a harcászati, hadműveleti és stratégiai pilótanélküli légijárműrendszerek hadműveleti alkalmazásának, valamint a Légierő repülő technikáival való együttműködésük elveit, rendszerét.
 
-## - Ismeri a repülések irányítása során alkalmazott biztonsági rendszabályokat és elkülönítési módszereket.
+## 16. Ismeri az alkalmazott radarok alapvető harcászat-technikai adatait, üzemmódjait, felhasználásának lehetőségeit.
 
-## - Ismeri a NATO-ban alkalmazott rávezetési módszereket, irányítási típusokat, a célravezetések végrehajtásához szükséges szakterminológiát.
+## 17. Ismeri a repülések irányítása során alkalmazott biztonsági rendszabályokat és elkülönítési módszereket.
 
-## - Ismeri a légiforgalmi és a légvédelmi irányító szolgálatok működési gyakorlatát, ellátásának, felelősségük megoszlásának szabályait, a körzeti, a bevezető és a repülőtéri irányító, a repüléstájékoztató, tanácsadó és a riasztó szolgálatok fő feladatait.
+## 18. Ismeri a NATO-ban alkalmazott rávezetési módszereket, irányítási típusokat, a célravezetések végrehajtásához szükséges szakterminológiát.
 
-## - Ismeri a légiforgalmi és a légvédelmi irányítás során alkalmazott biztonsági rendszabályokat.
+## 19. Ismeri a légiforgalmi és a légvédelmi irányító szolgálatok működési gyakorlatát, ellátásának, felelősségük megoszlásának szabályait, a körzeti, a bevezető és a repülőtéri irányító, a repüléstájékoztató, tanácsadó és a riasztó szolgálatok fő feladatait.
 
-## - Ismeri a NATO légi vezetési és irányítási rendszerének elemeit, a légtérellenőrzésre vonatkozó dokumentumok tartalmát, a teljesítésben részt vevő erőket, eszközöket.
+## 20. Ismeri a légiforgalmi és a légvédelmi irányítás során alkalmazott biztonsági rendszabályokat.
+
+## 21. Ismeri a NATO légi vezetési és irányítási rendszerének elemeit, a légtérellenőrzésre vonatkozó dokumentumok tartalmát, a teljesítésben részt vevő erőket, eszközöket.
 
 ## 7.3.2.2. Képesség:
 
@@ -774,7 +800,7 @@
 
 ## 8.2. A szak speciális képzésszervezési, módszertani jellemzői:
 
-## 8.2.1. Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 240 tanóra időtartamú. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+## 8.2.1.[^18] Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat egy félév, legalább tizenkét hét (480 óra) időtartamú összefüggő gyakorlat. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
 ## 8.2.2. Munkarend: -
 
@@ -796,13 +822,13 @@
 
 ## b) angol nyelven: Specialization in Military Information Technology
 
-## c) magyar nyelven: katonai kommunikáció és információvédelem szakirány
+## c)[^19] magyar nyelven: katonai infokommunikáció és információvédelem szakirány
 
-## d) angol nyelven: Specialization in Military Communication and Information Security
+## d)[^20] angol nyelven: Specialization in Military Infocommunication and Information Security
 
-## e) magyar nyelven: rádióelektronikai felderítő és elektronikai hadviselés szakirány
+## e)[^21] magyar nyelven: rádióelektronikai felderítő és elektromágneses hadviselés szakirány
 
-## f) angol nyelven: Specialization in Signal Intelligence and Electronic Warfare
+## f)[^22] angol nyelven: Specialization in Signals Intelligence and Electromagnetic Warfare
 
 ## 3. Az alapképzési szakon szerezhető szakképzettség oklevélben szereplő megnevezése:
 
@@ -810,13 +836,13 @@
 
 ## b) angol nyelven: Military Information Technology Manager
 
-## c) magyar nyelven: katonai kommunikációs és információvédelmi vezető
+## c)[^23] magyar nyelven: katonai infokommunikációs és információvédelmi vezető
 
-## d) angol nyelven: Military Communication and Information Security Manager
+## d)[^24] angol nyelven: Military Infocommunication and Information Security Manager
 
-## e) magyar nyelven: rádióelektronikai felderítő és elektronikai hadviselési vezető
+## e)[^25] magyar nyelven: rádióelektronikai felderítő és elektromágneses hadviselés vezető
 
-## f) angol nyelven: Signal Intelligence and Electronic Warfare Manager
+## f)[^26] angol nyelven: Signals Intelligence and Electromagnetic Warfare Manager
 
 ## 4. Az alapképzési szak profilja:
 
@@ -826,13 +852,13 @@
 
 ## a) alapfokozat (baccalaureus, bachelor of science, rövidítve: BSc)
 
-## b) ISCED 2011 szerint: 665
+## b)[^27] ISCED 2011 szerint: 655
 
 ## c) Magyar Képesítési Keretrendszer/Európai Képesítési Keretrendszer szerint: 6
 
 ## 4.3. a szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása ISCED-F 2013 szerint: 0688
 
-## 4.4. a szak orinetációja: kiegyensúlyozott (40-60 százalék)
+## 4.4.[^28] a szak orientációja: gyakorlatorientált (60–70 százalék)
 
 ## B/ A képzés szerkezeti és kimeneti jellemzői
 
@@ -840,9 +866,9 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 8 kredit
+## 6.1.[^29] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
-## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 6 kredit
+## 6.2.[^30] Szakmai gyakorlati képzéshez rendelt kreditek száma: 17 kredit
 
 ## 6.3. A szakirány elvégzésével összegyűjtendő kreditek minimális száma: 70 kredit
 
@@ -852,13 +878,13 @@
 
 ## 7.2. Az elsajátítandó szakmai kompetenciák
 
-## 7.2.1. Tudás:
+## 7.2.1.[^31] Tudás:
 
 ## -Ismeri a szakterületéhez kapcsolódó általános és specifikus természet- és társadalomtudományi elveket, eljárásokat.
 
 ## - Ismeri a szakterületéhez kapcsolódó eszközök és rendszerek műszaki, technikai alapjait, az aktuális technikai, technológiai kutatási és fejlesztési irányokat az infokommunikáció területén.
 
-## - Ismeri a katonai infokommunikáció, az elektronikai hadviselés és a kibervédelem elveit és eszközeit, és az információbiztonság elemi szabályait.
+## - Ismeri a katonai infokommunikáció, az elektromágneses hadviselés és a kibervédelem elveit és eszközeit, és az információbiztonság elemi szabályait.
 
 ## - Rendelkezik elméleti és gyakorlati felkészültséggel, gyakorlati ismeretekkel az infokommunikációs rendszerek tervezéséhez, szervezéséhez és üzemeltetéséhez.
 
@@ -930,7 +956,7 @@
 
 ## 7.3.1.4. Autonómia és felelősség: -
 
-## 7.3.2. katonai kommunikáció és információvédelem szakirányon
+## 7.3.2.[^32] katonai infokommunikáció és információvédelem szakirányon
 
 ## 7.3.2.1. Tudás:
 
@@ -944,13 +970,13 @@
 
 ## - Ismeri a művelettervezés és a katonai döntéshozatal folyamatához kapcsolódó infokommunikációs eljárásokat, folyamatokat.
 
-## 7.3.2.2. Képesség:
+## 7.3.2.2.[^33] Képesség:
 
 ## - Képes a modern vezetési módszerek és eszközök alkalmazására.
 
-## - Képes szakismereteivel hozzájárulni a csapatok kommunikációs és információvédelmi rendszereinek megtervezéséhez, megszervezéséhez és végrehajtásához.
+## - Képes szakismereteivel hozzájárulni a csapatok infokommunikációs és információvédelmi rendszereinek megtervezéséhez, megszervezéséhez és végrehajtásához.
 
-## - Képes az kommunikációs hálózatok alegységszintű megtervezésére, megszervezésére és irányítására.
+## - Képes az infokommunikációs hálózatok alegységszintű megtervezésére, megszervezésére és irányítására.
 
 ## - Képes az elektronikus információbiztonság menedzsmentjének, ezen belül különösen a kockázatmenedzsmenttel, valamint az akkreditációval és auditálással kapcsolatos alapvető elméleti és gyakorlati feladatok koordinálására, végrehajtására és ellenőrzésére.
 
@@ -960,45 +986,45 @@
 
 ## 7.3.2.4. Autonómia és felelősség: -
 
-## 7.3.3. rádióelektronikai felderítő és elektronikai hadviselés szakirányon
+## 7.3.3.[^34] rádióelektronikai felderítő és elektromágneses hadviselés szakirányon
 
-## 7.3.3.1. Tudás:
+## 7.3.3.1.[^35] Tudás:
 
-## - Mélyrehatóan ismeri a rádióelektronikai felderítés és az elektronikai hadviselés alapelveit, feladatait, a csapatok vezetési és fegyverirányítási rendszereinek elektronikai felderítési, támadási és védelmi kérdéseit.
+## - Mélyrehatóan ismeri a rádióelektronikai felderítés és az elektromágneses hadviselés alapelveit, feladatait, a csapatok vezetési és fegyverirányítási rendszereinek elektromágneses felderítési, támadási és védelmi kérdéseit.
 
-## - Ismeri az összfegyvernemi műveleteknek a harcászati szintű felderítő és elektronikai hadviselési rendszerekre gyakorolt hatásait.
+## - Ismeri az összfegyvernemi műveleteknek a harcászati szintű felderítő és elektromágneses hadviselési rendszerekre gyakorolt hatásait.
 
 ## - Ismeri a harcászati szintű adatforrásokat, az adatszerzési technikákat és az adatszerzési tevékenységek vezetésének elveit, valamint a más felderítő szervekkel való együttműködés kérdéseit.
 
 ## - Ismeri a légi és földi robottechnikai eszközök konstrukciós, vezetési és harci alkalmazási kérdéseit.
 
-## - Átfogóan ismeri a más országok felderítő, híradó, rádiólokációs, rádiónavigációs, távérzékelési és elektronikai hadviselési rendszereinek, berendezéseinek technikai paramétereit, működési elveit és harci alkalmazási jellemzőit.
+## - Átfogóan ismeri a más országok felderítő, híradó, rádiólokációs, rádiónavigációs, űr, drónelhárító, távérzékelési és elektromágneses hadviselési rendszereinek, berendezéseinek technikai paramétereit, működési elveit és harci alkalmazási jellemzőit.
 
-## - Birtokában van azon ismeretek körének, amelyek szükségesek a harcászati szintű rádióelektronikai felderítés és elektronikai hadviselés tervezéséhez, szervezéséhez, irányításához, valamint ellenőrzéséhez.
+## - Birtokában van azon ismeretek körének, amelyek szükségesek a harcászati szintű rádióelektronikai felderítés és elektromágneses hadviselés tervezéséhez, szervezéséhez, irányításához, valamint ellenőrzéséhez.
 
-## - Átfogóan ismeri az információs műveletek és a kibertéri műveletek elveit, valamint azok összefüggéseit a rádióelektronikai felderítéssel és az elektronikai hadviseléssel.
+## - Átfogóan ismeri az információs műveletek és a kibertéri műveletek elveit, valamint azok összefüggéseit a rádióelektronikai felderítéssel és az elektromágneses hadviseléssel.
 
-## - Mélyrehatóan ismeri a saját szárazföldi és fedélzeti rádióelektronikai felderítő, valamint elektronikai hadviselési rendszerek, berendezések technikai paramétereit, működési elveit, üzemeltetési jellemzőit és harci alkalmazási elveit.
+## - Mélyrehatóan ismeri a saját szárazföldi és fedélzeti rádióelektronikai felderítő, valamint elektromágneses hadviselési rendszerek, berendezések technikai paramétereit, működési elveit, üzemeltetési jellemzőit és harci alkalmazási elveit.
 
-## - Rendelkezik azzal a tudással, ami szükséges a rádióelektronikai felderítő és elektronikai hadviselési szakalegységek kiképzésének és napi tevékenységének tervezéséhez, szervezéséhez és irányításához; átfogóan ismeri a NATO rádióelektronikai felderítő és elektronikai hadviselés szabályzóit.
+## - Rendelkezik azzal a tudással, ami szükséges a rádióelektronikai felderítő és elektromágneses hadviselési szakalegységek kiképzésének és napi tevékenységének tervezéséhez, szervezéséhez és irányításához; átfogóan ismeri a NATO rádióelektronikai felderítő és elektromágneses hadviselés szabályzóit.
 
-## 7.3.3.2. Képesség:
+## 7.3.3.2.[^36] Képesség:
 
-## - Képes szakismereteivel hozzájárulni az összfegyvernemi kötelékek rádióelektronikai felderítő és elektronikai hadviselési támogatásának megtervezéséhez, megszervezéséhez és végrehajtásához.
+## - Képes szakismereteivel hozzájárulni az összfegyvernemi kötelékek rádióelektronikai felderítő és elektromágneses hadviselési támogatásának megtervezéséhez, megszervezéséhez és végrehajtásához.
 
 ## - Képes az adatszerzés alegységszintű megtervezésére, megszervezésére és irányítására.
 
 ## - Képes a megszerzett adatok előzetes feldolgozására, az elektronikai objektumok értékelésére, a célok kiválasztására és az adatok továbbítására az elöljáró vezetési szint felé.
 
-## - Képes a rendszeresített szárazföldi és légi technikai eszközökkel a rádióelektronikai felderítési, zavarási és elektronikai védelmi feladatok körültekintő megtervezésére, megszervezésére, irányítására és végrehajtására.
+## - Képes a rendszeresített szárazföldi és légi technikai eszközökkel a rádióelektronikai felderítési, zavarási és elektronikai támogatási, zavarási (ellentevékenység) és védelmi feladatok körültekintő megtervezésére, megszervezésére, irányítására és végrehajtására.
 
-## - Képes az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletei során alkalmazható rádióelektronikai felderítő és elektronikai hadviselési eszközökkel történő támogatási feladatok tervezésére, szervezésére, irányítására alegység szinten.
+## - Képes az alkalmi harci kötelékek, alegységek béke és békétől eltérő műveletei során alkalmazható rádióelektronikai felderítő és elektromágneses hadviselési eszközökkel történő támogatási feladatok tervezésére, szervezésére, irányítására alegység szinten, illetve szakbeosztásban.
 
 ## - Képes az első tiszti beosztásában rendszeresített parancsnoki és más szakbeosztások betöltésére.
 
 ## - Képes más fegyvernemekkel, szakalegységekkel való együttműködésre.
 
-## - Alegységparancsnoki szinten képes a NATO rádióelektronikai felderítő és elektronikai hadviselés szabályzóinak nemzetközi és hazai környezetben való alkalmazására.
+## - Alegységparancsnoki szinten képes a NATO rádióelektronikai felderítő és elektromágneses hadviselés szabályzóinak nemzetközi és hazai környezetben való alkalmazására.
 
 ## 7.3.3.3. Attitűd: -
 
@@ -1012,7 +1038,7 @@
 
 ## 8.2. A szak speciális képzésszervezési, módszertani jellemzői:
 
-## 8.2.1. Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 160 óra időtartamú. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## 8.2.1.[^37] Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 160 óra időtartamú. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 8.2.2. Munkarend: -
 
@@ -1072,13 +1098,13 @@
 
 ## a) alapfokozat (baccalaureus, bachelor of science, rövidítve: BSc)
 
-## b) ISCED 2011 szerint: 665
+## b)[^38] ISCED 2011 szerint: 655
 
 ## c) Magyar Képesítési Keretrendszer/Európai Képesítési Keretrendszer szerint: 6
 
 ## 4.3. a szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása ISCED-F 2013 szerint: 0413 (345)
 
-## 4.4. a szak orientációja: kiegyensúlyozott (40-60 százalék)
+## 4.4.[^39] a szak orientációja: gyakorlatorientált (60–70 százalék)
 
 ## B/ A képzés szerkezeti és kimeneti jellemzői
 
@@ -1086,9 +1112,9 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 8 kredit
+## 6.1.[^40] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
-## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 6 kredit
+## 6.2.[^41] Szakmai gyakorlati képzéshez rendelt kreditek száma: 17 kredit
 
 ## 6.3. A szakirány elvégzésével összegyűjtendő kreditek minimális száma: 70 kredit
 
@@ -1290,7 +1316,7 @@
 
 ## 8.2. A szak speciális képzésszervezési, módszertani jellemzői:
 
-## 8.2.1. Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 160 óra időtartamú. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## 8.2.1.[^42] Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 160 óra időtartamú. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 8.2.2. Munkarend: -
 
@@ -1374,13 +1400,13 @@
 
 ## a) alapfokozat (baccalaureus, bachelor of science, rövidítve: BSc)
 
-## b) ISCED 2011 szerint: 665
+## b)[^43] ISCED 2011 szerint: 655
 
 ## c) Magyar Képesítési Keretrendszer/Európai Képesítési Keretrendszer szerint: 6
 
 ## 4.3. a szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása ISCED-F 2013 szerint: 1031 (863)
 
-## 4.4. a szak orientációja: kiegyensúlyozott (40-60 százalék)
+## 4.4.[^44] a szak orientációja: gyakorlatorientált (60–70 százalék)
 
 ## B/ A képzés szerkezeti és kimeneti jellemzői
 
@@ -1388,9 +1414,9 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 8 kredit
+## 6.1.[^45] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
-## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 6 kredit
+## 6.2.[^46] Szakmai gyakorlati képzéshez rendelt kreditek száma: 17 kredit
 
 ## 6.3. A szakirány elvégzésével összegyűjtendő kreditek minimális száma: 70 kredit
 
@@ -1400,43 +1426,45 @@
 
 ## 7.2. Az elsajátítandó szakmai kompetenciák
 
-## 7.2.1. Tudás:
+## 7.2.1.[^47] Tudás:
 
-## - Behatóan ismeri a harctevékenységi fajtákat, továbbá a harccal kapcsolatos tevékenységek feladatait.
+## 1. Behatóan ismeri a harctevékenységi fajtákat, továbbá a harccal kapcsolatos tevékenységek feladatait.
 
-## - Ismeri az összfegyvernemi harc támogatásának és kiszolgáló támogatásának alapvető feladatait.
+## 2. Ismeri az összfegyvernemi harc támogatásának és kiszolgáló támogatásának alapvető feladatait.
 
-## - Átfogóan ismeri szakasz (század) szinten az atom, biológiai és vegyi (a továbbiakban együtt: ABV) rendszabályok alkalmazásának rendszerét.
+## 3. Átfogóan ismeri szakasz (század) szinten az atom, biológiai és vegyi (a továbbiakban együtt: ABV) rendszabályok alkalmazásának rendszerét.
 
-## - Meghatározó módon ismeri a rögtönzött robbanóeszközök (improvised explosive device – a továbbiakban: IED) jellemző tulajdonságait és az ellenük való tevékenység rendszabályait.
+## 4. Meghatározó módon ismeri a rögtönzött robbanóeszközök (improvised explosive device – a továbbiakban: IED) jellemző tulajdonságait és az ellenük való tevékenység rendszabályait.
 
-## - Átfogóan ismeri a szakasz (század) kiképzéséhez szükséges szakmódszertant.
+## 5. Ismeri a pilótanélküli légijárműrendszerek harcászati, hadműveleti és stratégiai alkalmazásának, valamint a szárazföldi erőkkel és a légierővel való együttműködésük, továbbá az ellenük való védekezés elveit, rendszerét.
 
-## - Részletekbe menően ismeri a szakasz (század) békevezetési okmányait és az azok vezetéséhez szükséges ismereteket.
+## 6. Átfogóan ismeri a szakasz (század) kiképzéséhez szükséges szakmódszertant.
 
-## - Átfogóan rendelkezik a szakasz (század) rendszeresített fegyverzeti, haditechnikai eszközeinek és harcanyagainak ismeretével.
+## 7. Részletekbe menően ismeri a szakasz (század) békevezetési okmányait és az azok vezetéséhez szükséges ismereteket.
 
-## - Részletekbe menően ismeri szakasz (század) szinten a műszaki-zárási, az erődítési-álcázási és a robbantási alapismereteket.
+## 8. Átfogóan rendelkezik a szakasz (század) rendszeresített fegyverzeti, haditechnikai eszközeinek és harcanyagainak ismeretével.
 
-## - Behatóan ismeri a Magyar Honvédség katasztrófavédelmi feladatai megoldásához való hozzájárulás alegységszintű elméleti és gyakorlati feladatait.
+## 9. Részletekbe menően ismeri szakasz (század) szinten a műszaki-zárási, az erődítési-álcázási és a robbantási alapismereteket.
 
-## - Rendelkezik korszerű katonai térképészeti, tereptani és katonaföldrajzi ismeretekkel.
+## 10. Behatóan ismeri a Magyar Honvédség katasztrófavédelmi feladatai megoldásához való hozzájárulás alegységszintű elméleti és gyakorlati feladatait.
 
-## - Ismeri a szakasz (század) kommunikációs, híradó és informatikai eszközeit, informatikai alkalmazói feladatait.
+## 11. Rendelkezik korszerű katonai térképészeti, tereptani és katonaföldrajzi ismeretekkel.
 
-## - Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
+## 12. Ismeri a szakasz (század) kommunikációs, híradó és informatikai eszközeit, informatikai alkalmazói feladatait.
 
-## - Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi kommunikációs készségekkel.
+## 13. Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
 
-## - Átfogóan ismeri a korszerű teljesítményértékelési és a beosztottakat motiváló eljárásokat.
+## 14. Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi kommunikációs készségekkel.
 
-## - Alapvetően ismeri a médiával kapcsolatos eljárásokat.
+## 15. Átfogóan ismeri a korszerű teljesítményértékelési és a beosztottakat motiváló eljárásokat.
 
-## - Ismeri a Magyar Honvédség haderőnemeinek felépítését és alkalmazásának elveit.
+## 16. Alapvetően ismeri a médiával kapcsolatos eljárásokat.
 
-## - Általánosan ismeri a szárazföldi haderőnem harcászati szintű összfegyvernemi kötelékek összhaderőnemi műveleti környezetben történő alkalmazási elveit.
+## 17. Ismeri a Magyar Honvédség haderőnemeinek felépítését és alkalmazásának elveit.
 
-## - Részletekbe menően ismeri a felderített célokra tüzérségi tűz kérését, tüzérségi tűz hatásosságának megfigyelését, a tűz helyesbítését.
+## 18. Általánosan ismeri a szárazföldi haderőnem harcászati szintű összfegyvernemi kötelékek összhaderőnemi műveleti környezetben történő alkalmazási elveit.
+
+## 19. Részletekbe menően ismeri a felderített célokra tüzérségi tűz kérését, tüzérségi tűz hatásosságának megfigyelését, a tűz helyesbítését.
 
 ## 7.2.2. Képesség:
 
@@ -1536,11 +1564,11 @@
 
 ## 7.3.3. felderítő szakirányon
 
-## 7.3.3.1. Tudás:
+## 7.3.3.1.[^48] Tudás:
 
 ## - Ismeri alapszinten a felderítés elveit, forrásait, képességeit és korlátait.
 
-## - Ismeri általánosan az elektronikai hadviselés elveit, forrásait, képességeit és korlátait.
+## - Ismeri általánosan az elektromágneses hadviselés elveit, forrásait, képességeit és korlátait.
 
 ## - Ismeri általánosan a nemzeti és a NATO felderítő doktrínákat, szabályzatokat.
 
@@ -1752,7 +1780,7 @@
 
 ## 8.2. A szak speciális képzésszervezési, módszertani jellemzői:
 
-## 8.2.1. Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 160 óra időtartamú. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## 8.2.1.[^49] Szakmai gyakorlatra vonatkozó követelmények: Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább 160 óra időtartamú. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 8.2.2. Munkarend: -
 
@@ -1834,7 +1862,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+## 6.1.[^50] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 2 kredit
 
@@ -1974,7 +2002,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+## 6.1.[^51] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 3 kredit
 
@@ -2104,7 +2132,7 @@
 
 ## - Ismeri a terrorelhárítással kapcsolatos jogszabályokat, a terrorelhárítás elméletének és gyakorlatának alapjait.
 
-## 7.3.3.2.[^2] Képesség:
+## 7.3.3.2.[^52] Képesség:
 
 ## - Önállóan képes a főbb terrorelhárítási folyamatok jellegzetességeit felismerni, ezek alapján a szakmai vezetői feladatszabás alapján alapvető szakmai koncepciókat önállóan megfogalmazni.
 
@@ -2210,7 +2238,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+## 6.1.[^53] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 7 kredit
 
@@ -2332,7 +2360,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 15 kredit
+## 6.1.[^54] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 15 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 12 kredit
 
@@ -2572,7 +2600,7 @@
 
 ## a) magyar nyelven: bűnüldözési szakirány
 
-## b) angol nyelven: Specialization in Criminal Investigation
+## b)[^55] angol nyelven: Specialization in Crime Investigation
 
 ## c) magyar nyelven: bűnügyi felderítő szakirány
 
@@ -2590,7 +2618,7 @@
 
 ## a) magyar nyelven: bűnügyi nyomozó tiszt
 
-## b) angol nyelven: Criminal Investigation Officer
+## b)[^56] angol nyelven: Crime Investigation Officer
 
 ## c) magyar nyelven: bűnügyi felderítő tiszt
 
@@ -2626,7 +2654,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4-12 kredit
+## 6.1.[^57] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4-12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 15-18 kredit
 
@@ -2834,7 +2862,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
+## 6.1.[^58] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 10-13 kredit
 
@@ -2982,7 +3010,7 @@
 
 ## a) magyar nyelven: büntetés-végrehajtási alapképzési szak
 
-## b) angol nyelven: Corrections bachelor programme
+## b)[^59] angol nyelven: Prison bachelor programme
 
 ## 2. Az alapképzési szak szakirányai: -
 
@@ -2990,7 +3018,7 @@
 
 ## a) magyar nyelven: büntetés-végrehajtási tiszt
 
-## b) angol nyelven: Corrections Commissioned Officer
+## b)[^60] angol nyelven: Prison Commissioned Officer
 
 ## 4. Az alapképzési szak profilja:
 
@@ -3014,7 +3042,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
+## 6.1.[^61] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 10-13 kredit
 
@@ -3174,7 +3202,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 12 kredit
+## 6.1.[^62] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 8-11 kredit
 
@@ -3320,7 +3348,7 @@
 
 ## 7.3.3. iparbiztonsági szakirányon
 
-## 7.3.3.1.[^3] Tudás:
+## 7.3.3.1.[^63] Tudás:
 
 ## - Magas szinten ismeri a veszélyes anyagokkal foglalkozó üzemek létesítésére, működésére vonatkozó jogszabályokban és hatósági előírásokban foglaltakat és azok gyakorlati alkalmazási eljárási és eszközrendszerét.
 
@@ -3410,7 +3438,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
+## 6.1.[^64] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 10-13 kredit
 
@@ -3422,7 +3450,7 @@
 
 ## 7.2. Az elsajátítandó szakmai kompetenciák:
 
-## 7.2.1.[^4] Tudás:
+## 7.2.1.[^65] Tudás:
 
 ## - Rendelkezik magánbiztonsági szektor működésével kapcsolatos válságkezelési alapismeretekkel.
 
@@ -3598,7 +3626,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4-8 kredit
+## 6.1.[^66] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4-8 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 25-30 kredit
 
@@ -3838,7 +3866,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4-12 kredit
+## 6.1.[^67] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4-12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 15-18 kredit
 
@@ -4148,7 +4176,7 @@
 
 ## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180 kredit
 
-## 6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
+## 6.1.[^68] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 2-12 kredit
 
 ## 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 10-13 kredit
 
@@ -4416,7 +4444,7 @@ I. A MESTERKÉPZÉSI SZAKOK KÉPZÉSI JEGYZÉKE
 
 | 15. | államtudományi | Political Science and Public Governance | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi kiberbiztonsági tanulmányok |  | International Cybersecurity Studies | okleveles nemzetközi kiberbiztonsági szakértő | International Cybersecurity Expert | 7 |
 
-| 16. | államtudományi | Political Science and Public Governance | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi közszolgálati kapcsolatok |  | International Public Service Studies | a) okleveles nemzetközi közszolgálati szakértő, nemzetközi közigazgatási tanulmányok szakirányon b) okleveles nemzetközi közszolgálati szakértő, biztonsági tanulmányok szakirányon c) okleveles nemzetközi közszolgálati szakértő, rendészeti tanulmányok szakirányon d) okleveles nemzetközi közszolgálati szakértő, Európa-tanulmányok szakirányon | a) Expert in International Public Service Studies, Specialized in International Public Administration Studies b) Expert in International Public Service Studies, Specialized in Security Studies c) Expert in International Public Service Studies, Specialized in Law Enforcement Studies d) Expert in International Public Service Studies, Specialized in European Studies | 7 |
+| 16. | államtudományi | Political Science and Public Governance | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi közszolgálati kapcsolatok |  | International Public Service Studies | a) okleveles nemzetközi közszolgálati szakértő, nemzetközi közigazgatási tanulmányok szakirányon b) okleveles nemzetközi közszolgálati szakértő, biztonsági tanulmányok szakirányon c) okleveles nemzetközi közszolgálati szakértő, rendészeti tanulmányok szakirányon d) okleveles nemzetközi közszolgálati szakértő, Európa-tanulmányok szakirányon | a) Expert in International Public Service Studies Specialized in International Public Administration Studies b) Expert in International Public Service Studies Specialized in Security Studies c) Expert in International Public Service Studies Specialized in Law Enforcement Studies d) Expert in International Public Service Studies Specialized in European Studies[^69] | 7 |
 
 | 17. | államtudományi | Political Science and Public Governance | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi vízpolitika és víz-diplomácia |  | International Water Governance and Diplomacy | okleveles nemzetközi vízpolitikai menedzser | International Water Governance Manager | 7 |
 
@@ -4560,7 +4588,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 300 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 20 kredit
+6.1.[^70] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 20 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 10 kredit
 
@@ -4704,7 +4732,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 60 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 5 kredit
+6.1.[^71] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 5 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: -
 
@@ -4846,7 +4874,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 20 kredit
+6.1.[^72] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 20 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: -
 
@@ -4854,11 +4882,11 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 7. A mesterképzési szak képzési célja, a szakmai kompetenciák leírása:
 
-7.1.[^5] A képzés célja: A képzés célja olyan felsőfokú végzettséggel rendelkező szakemberek felkészítése, akik a közigazgatás, a védelmi igazgatás, a külügyi igazgatás területeihez tartozó szervezeteknél vezetői és szakértői munkakörökben képesek a kiberbiztonsági feladatok tervezését, szervezését és irányítását eredményesen végrehajtani. A mesterképzés azokra a kiberbiztonsági kérdésekre, aktuális és jövőbeli kihívásokra fókuszál, amelyekkel az állami és a magánszférának, illetve a társadalomnak egyaránt szembe kell néznie. A hallgatók széles körű ismereteket szereznek a kiberbiztonság elméleti és gyakorlati oldaláról, biztonsági, környezeti, társadalmi és gazdasági aspektusairól. A differenciált szakmai tananyag elsajátítása során (nemzetközi kapcsolatok a kiberbiztonságban, közszolgálati kiberbiztonság-menedzsment, kritikus elektronikus információs rendszerek védelme) alkalmassá válnak szakterületüknek megfelelően kutatási, fejlesztési és tervezési feladatok ellátására, védelmi problémakörök tudományos igényű elemzésére és következtetések kialakítására.
+7.1.[^73] A képzés célja: A képzés célja olyan felsőfokú végzettséggel rendelkező szakemberek felkészítése, akik a közigazgatás, a védelmi igazgatás, a külügyi igazgatás területeihez tartozó szervezeteknél vezetői és szakértői munkakörökben képesek a kiberbiztonsági feladatok tervezését, szervezését és irányítását eredményesen végrehajtani. A mesterképzés azokra a kiberbiztonsági kérdésekre, aktuális és jövőbeli kihívásokra fókuszál, amelyekkel az állami és a magánszférának, illetve a társadalomnak egyaránt szembe kell néznie. A hallgatók széles körű ismereteket szereznek a kiberbiztonság elméleti és gyakorlati oldaláról, biztonsági, környezeti, társadalmi és gazdasági aspektusairól. A differenciált szakmai tananyag elsajátítása során (nemzetközi kapcsolatok a kiberbiztonságban, közszolgálati kiberbiztonság-menedzsment, kritikus elektronikus információs rendszerek védelme) alkalmassá válnak szakterületüknek megfelelően kutatási, fejlesztési és tervezési feladatok ellátására, védelmi problémakörök tudományos igényű elemzésére és következtetések kialakítására.
 
 7.2. Az elsajátítandó szakmai kompetenciák:
 
-7.2.1.[^6] Tudás:
+7.2.1.[^74] Tudás:
 
 - Ismeri azokat a fontosabb előírásokat a kiberbiztonsággal kapcsolatos hazai és nemzetközi szabályozásokból, amelyek a mindennapi munkáját befolyásolják.
 
@@ -5010,7 +5038,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+6.1.[^75] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: -
 
@@ -5172,7 +5200,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
+6.1.[^76] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 10 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: -
 
@@ -5338,7 +5366,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 60 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4 kredit
+6.1.[^77] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 2 kredit
 
@@ -5482,7 +5510,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 60 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4 kredit
+6.1.[^78] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 2 kredit
 
@@ -5624,7 +5652,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 60 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 6 kredit
+6.1.[^79] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 6 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 2 kredit
 
@@ -5802,7 +5830,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 16-20 kredit
+6.1.[^80] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 16-20 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: -
 
@@ -5944,7 +5972,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 16-20 kredit
+6.1.[^81] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 16-20 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: -
 
@@ -6176,7 +6204,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 6 kredit
+6.1.[^82] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 6 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 4-7 kredit
 
@@ -6318,7 +6346,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 90 kredit / ECTS
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4 kredit
+6.1.[^83] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 4 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 8 kredit
 
@@ -6440,7 +6468,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
 
-6.1. A szakdolgozathoz vagy diplomamunka elkészítéséhez rendelt kreditek száma: 20 kredit
+6.1.[^84] A szakdolgozat vagy diplomamunka elkészítéséhez rendelt kreditek száma: 20 kredit
 
 6.2. Szakmai gyakorlati képzéshez rendelt kreditek száma: 4 kredit
 
@@ -6464,86 +6492,85 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 
 - Ismeri az államok közötti konfliktusok rendezésének nemzetközi jogi szabályait, valamint a nemzetközi biztonsággal kapcsolatos nemzetközi intézmények működését és tárgyát szabályozó jogi előírások rendszerét és összefüggéseit.
 
-- Átfogóan ismeri a haderők fejlődésének és fejlesztésének stratégiai kérdéseit, a védelmi szféra, a védelmi tervezés és a haderőfejlesztés jellemzőit és viszonyrendszerét, továbbá a honvédelmi tárca, a NATO és az Európai Unió védelmi tervezési rendszerét és összefüggéseit.
-
-- Részleteiben ismeri a magyar biztonság- és védelempolitikát kialakító és megvalósító hazai és nemzetközi intézményrendszer működését.
-
-- Átfogóan ismeri a magyar állam és államigazgatás nemzetközi kapcsolatrendszerét és döntési mechanizmusait.
-
-- Mélyrehatóan érti és átlátja Magyarország geopolitikai és geostratégiai helyzetét, az ebből fakadó meghatározottságot, célokat és érdekeket.
-
-- Ismeri a magyar és külgazdaság, valamint a biztonság- és védelempolitika fejlődési irányait.
-
-- Részletes ismeretekkel rendelkezik a magyar és a nemzetközi biztonság- és védelempolitikát meghatározó stratégiai dokumentumokról és jogszabályokról.
-
-- Átfogóan ismeri a Magyarországgal szomszédos államok védelempolitikájának alapjait és a kelet-közép-európai regionális együttműködés keretrendszereit.
-
-- Átfogóan ismeri a válságkezelés hazai és nemzetközi sajátosságait, a magyar válságkezelési részvétel eddigi tapasztalatait.
-
-- Részletesen ismeri a magyar biztonság- és védelempolitika kialakításához, érdekérvényesítéséhez szükséges elemzés-értékelés módszertanát.
-
-- Átfogóan ismeri a magyar biztonság- és védelempolitikát kialakító és megvalósító intézményrendszer iratkezelését és döntéshozatali szabályait.
-
-- Felsőfokon használja a biztonsági tanulmányok és nemzetközi biztonsági intézmények szaknyelvét.
-
-7.2.2. Képesség:
-
-- Képes a nemzetközi és hazai biztonságot fenyegető kihívások, veszélyek és fenyegetések elemzésére és értékelésére.
-
-- Képes a biztonsággal foglalkozó stratégiai tervezési, elemzési, értékelési módszerek alkalmazására, kormányzati, ágazati és szervezeti szintű stratégiák megvalósításában való részvételre.
-
-- Képes a vezetői döntések előkészítésére, döntési alternatívák kialakítására, a döntéshozatali eljárásban való aktív részvételre.
-
-- Képes honvédelemmel és védelmi igazgatással összefüggő feladatok ellátására.
-
-- Képes nemzetközi és hazai kommunikációra, konfliktus- és válságkezelési helyzetek kezelésében való részvételre, a tárgyalási, feladatmegoldási és együttműködési technikák alkalmazására.
-
-- Képes feladatellátásra honvédelemmel foglalkozó állami és nem állami szerveknél és nemzetközi biztonsági szervezeteknél.
-
-- Képes önállóan végrehajtó és irányító feladatkörök ellátására magyar és angol nyelven egyaránt.
-
-- Képes megbízhatóan kezelni a hazai védelmi igazgatási és a nemzetközi biztonsági intézményekben használt legfontosabb adatbázisokat.
-
-- Képes hivatalos levél, tárgyalási tematika, háttéranyag, feljegyzés, szakpolitikai elemzés, koncepcionális javaslat, úti jelentés, prezentáció (előadás), mandátum és helyzetjelentés készítésére és ismeri ezek módszertanát.
-
-7.2.3. Attitűd:
-
-- Kezdeményező és agilis az egyéni szakmai tevékenységben és a csoportmunkában egyaránt.
-
-- Elkötelezett a közszolgálat és a honvédelem ügye iránt, képes felelősségteljes munkavégzésére és magatartásra.
-
-- Elkötelezett Magyarország érdekei, továbbá a társadalmi szolidaritás és az esélyegyenlőség, a demokratikus értékek, a jogállamiság, az európai és a szövetségi értékközösség eszméi mellett.
-
-- Nemzetközi szervezetben való munkavégzés esetén elkötelezett az adott szervezett céljai és érdekei mellett.
-
-- Szakmai területen kritikai gondolkodásmóddal rendelkezik, mások véleményét tiszteletben tartja, ugyanakkor álláspontját hitelesen képviseli.
-
-- Széles körű felkészültsége elősegíti a változó feladatkörhöz és munkateherhez való alkalmazkodását, akár hazai, akár nemzetközi, multikulturális közegben.
-
-- Nyitott a szakmai továbbképzés különböző formáira és a különféle önfejlesztő módszerekre.
-
-- Érzékeny és nyitott a szakterületi problémákra, szemléletét áthatja a problémamegoldó képesség és az innovatív gondolkodás.
-
-- A biztonság- és védelempolitika területén kritikai gondolkodásmóddal rendelkezik, álláspontját hitelesen képviseli.
-
-- Elkötelezett a közszolgálat és a honvédelem ügye iránt, képes felelősségteljes munkavégzésére és magatartásra.
-
-- A biztonság- és védelempolitika területén elsajátított tudása alapján nyitott a továbbképzésre, szakmai fejlődésre.
-
-7.2.4. Autonómia és felelősség:
-
-- Szervezeti struktúrában elfoglalt helyének megfelelő önállósággal és felelősséggel, a hivatali út betartásával szervezi munkáját és az irányítása alatt dolgozó munkatársak tevékenységét.
-
-- Legjobb tudása szerint, elkötelezetten szolgálja és képviseli az állam, a tágabb szervezet és a munkahely céljait, feladatait és érdekeit.
-
-- Szervezeti struktúrában elfoglalt helyétől függően konstruktív szakmai álláspontot képvisel, képes a szakmai érdekek érvényesítésére.
-
-- Felkészült az intézményen belüli és kívüli együttműködési formákban Magyarország nemzeti érdekeinek képviseletére.
-
-- Nemzetközi biztonsági szervezetben végzett munkavégzés esetén képes a nemzetközi munkáltató céljainak és érdekeinek szolgálatára.
-
-[^2]: Az 1. melléklet 7. alcím 7.3.3.2. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet 13. alcím 7.3.3.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § b) pontja szerint módosított szöveg.
-[^4]: Az 1. melléklet 14. alcím 7.2.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § c) pontja szerint módosított szöveg.
-[^5]: A 2. melléklet 3. alcím 7.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § d) pontja szerint módosított szöveg.
-[^6]: A 2. melléklet 3. alcím 7.2.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § e) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet I. Fejezetében foglalt táblázat G:4 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 4. és 5. pontja szerint módosított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat H:4 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 6. és 7. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet I. Fejezetében foglalt táblázat H:11 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet I. Fejezetében foglalt táblázat E:12 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet I. Fejezetében foglalt táblázat F:13 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet I. Fejezetében foglalt táblázat H:13 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet III. Fejezet B. alcím 1. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet IV. Fejezet A. alcíme a 151/2025. (VI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet IV. Fejezet B. alcím 2. pont A/ alpont 4. pont 4.2. alpont b) pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet IV. Fejezet B. alcím 2. pont A/ alpont 4. pont 4.4. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet IV. Fejezet B. alcím 2. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet IV. Fejezet B. alcím 2. pont B/ alpont 6. pont 6.2. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet IV. Fejezet B. alcím 2. pont B/ alpont 7. pont 7.3. alpont 7.3.1.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet IV. Fejezet B. alcím 2. pont B/ alpont 7. pont 7.3. alpont 7.3.1.2. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 13. pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet IV. Fejezet B. alcím 2. pont B/ alpont 7. pont 7.3. alpont 7.3.2.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet IV. Fejezet B. alcím 2. pont C/ alpont 8. pont 8.2. alpont 8.2.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 14. pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 2. pont c) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet IV. Fejezet 3. pont A/ alpont 2. pont d) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 2. pont e) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 17. pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 2. pont f) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 18. pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 3. pont c) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 19. pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 3. pont d) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 20. pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 3. pont e) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 21. pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 3. pont f) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 22. pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 4. pont 4.2. alpont b) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 23. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet IV. Fejezet B. alcím 3. pont A/ alpont 4. pont 4.4. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 24. és 25. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. és 26. pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 6. pont 6.2. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 27. pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 7. pont 7.2. alpont 7.2.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 28. pontja szerint módosított szöveg. [E módosító rendelet 5. § 29. pontja által elrendelt módosítás, amely szerint a „frekvencigazdálkodás” szövegrészek helyébe a „spektrumgazdálkodás” szöveg lép, nem vezethető át.]
+[^32]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 7. pont 7.3. alpont 7.3.2. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 30. pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 7. pont 7.3. alpont 7.3.2.2 pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 31. pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 7. pont 7.3. alpont 7.3.3. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 32. pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 7. pont 7.3. alpont 7.3.3.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 33. és 35. pontja szerint módosított szöveg. [E módosító rendelet 5. § 34. pontja által elrendelt módosítás, amely szerint a „robottehnikai” szövegrész helyébe a „robottechnikai, pilótanélküli” szöveg lép, nem vezethető át.]
+[^36]: Az 1. melléklet IV. Fejezet B. alcím 3. pont B/ alpont 7. pont 7.3. alpont 7.3.3.2. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 36–39. pontja szerint módosított szöveg.
+[^37]: [Az 1. melléklet IV. Fejezet B. alcím 3. pont C/ alpont 8. pont 8.2. alpont 8.2.1. pontjában a 151/2025. (VI. 19.) Korm. rendelet 5. § 40. pontja által elrendelt módosítás, amely szerint a „legalább 160 tanóra időtartamú” szövegrész helyébe az „egy félév, legalább tizenkét hét (480 óra) időtartamú összefüggő gyakorlat” szöveg lép, nem vezethető át.]
+[^38]: Az 1. melléklet IV. Fejezet B. alcím 4. pont A/ alpont 4. pont 4.2. alpont b) pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 41. pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet IV. Fejezet B. alcím 4. pont A/ alpont 4. pont 4.4. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 42. pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet IV. Fejezet B. alcím 4. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. és 43. pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet IV. Fejezet B. alcím 4. pont B/ alpont 6. pont 6.2. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 44. pontja szerint módosított szöveg.
+[^42]: [Az 1. melléklet IV. Fejezet B. alcím 4. pont C/ alpont 8. pont 8.2. alpont 8.2.1. pontjában a 151/2025. (VI. 19.) Korm. rendelet 5. § 45. pontja által elrendelt módosítás, amely szerint a „legalább 160 tanóra időtartamú” szövegrész helyébe az „egy félév, legalább tizenkét hét (480 óra) időtartamú összefüggő gyakorlat” szöveg lép, nem vezethető át.]
+[^43]: Az 1. melléklet IV. Fejezet B. alcím 5. pont A/ alpont 4. pont 4.2. alpont b) pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 46. pontja szerint módosított szöveg.
+[^44]: Az 1. melléklet IV. Fejezet B. alcím 5. pont A/ alpont 4. pont 4.4. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 47. pontja szerint módosított szöveg.
+[^45]: Az 1. melléklet IV. Fejezet B. alcím 5. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. és 48. pontja szerint módosított szöveg.
+[^46]: Az 1. melléklet IV. Fejezet B. alcím 5. pont B/ alpont 6. pont 6.2. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 49. pontja szerint módosított szöveg.
+[^47]: Az 1. melléklet IV. Fejezet B. alcím 5. pont B/ alpont 7. pont 7.2. alpont 7.2.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet IV. Fejezet B. alcím 5. pont B/ alpont 7. pont 7.3. alpont 7.3.3.1. pontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 50. pontja szerint módosított szöveg.
+[^49]: [Az 1. melléklet IV. Fejezet B. alcím 5. pont C/ alpont 8. pont 8.2. alpont 8.2.1. pontjában a 151/2025. (VI. 19.) Korm. rendelet 5. § 51. pontja által elrendelt módosítás, amely szerint a „legalább 160 tanóra időtartamú” szövegrész helyébe az „egy félév, legalább tizenkét hét (480 óra) időtartamú összefüggő gyakorlat” szöveg lép, nem vezethető át.]
+[^50]: Az 1. melléklet V. Fejezet B. alcím 6. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^51]: Az 1. melléklet V. Fejezet B. alcím 7. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 7. alcím 7.3.3.2. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § a) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet VI. Fejezet B. alcím 8. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^54]: Az 1. melléklet VI. Fejezet B. alcím 9. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^55]: Az 1. melléklet VII. Fejezet B. alcím 10. pont A/ alpont 2. pont b) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 52. pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet VII. Fejezet B. alcím 10. pont A/ alpont 3. pont b) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 53. pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet VII. Fejezet B. alcím 10. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^58]: Az 1. melléklet VII. Fejezet B. alcím 11. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^59]: Az 1. melléklet VII. Fejezet B. alcím 12. pont A/ alpont 1. pont b) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 54. pontja szerint módosított szöveg.
+[^60]: Az 1. melléklet VII. Fejezet B. alcím 12. pont A/ alpont 3. pont b) alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 55. pontja szerint módosított szöveg.
+[^61]: Az 1. melléklet VII. Fejezet B. alcím 12. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^62]: Az 1. melléklet VII. Fejezet B. alcím 13. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^63]: Az 1. melléklet 13. alcím 7.3.3.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § b) pontja szerint módosított szöveg.
+[^64]: Az 1. melléklet VII. Fejezet B. alcím 14. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^65]: Az 1. melléklet 14. alcím 7.2.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § c) pontja szerint módosított szöveg.
+[^66]: Az 1. melléklet VII. Fejezet B. alcím 15. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet VII. Fejezet B. alcím 16. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^68]: Az 1. melléklet VII. Fejezet B. alcím 17. pont B/ alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^69]: A 2. melléklet I. címében foglalt táblázat I:16 mezője a 151/2025. (VI. 19.) Korm. rendelet 5. § 56. pontja szerint módosított szöveg.
+[^70]: A 2. melléklet III. Fejezet B. alcím 1. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^71]: A 2. melléklet III. Fejezet B. alcím 2. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^72]: A 2. melléklet III. Fejezet B. alcím 3. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^73]: A 2. melléklet 3. alcím 7.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § d) pontja szerint módosított szöveg.
+[^74]: A 2. melléklet 3. alcím 7.2.1. pontja a 474/2024. (XII. 31.) Korm. rendelet 172. § e) pontja szerint módosított szöveg.
+[^75]: A 2. melléklet III. Fejezet B. alcím 4. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^76]: A 2. melléklet III. Fejezet B. alcím 5. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^77]: A 2. melléklet IV. Fejezet B. alcím 6. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^78]: A 2. melléklet IV. Fejezet B. alcím 7. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^79]: A 2. melléklet IV. Fejezet B. alcím 8. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^80]: A 2. melléklet V. Fejezet B. alcím 9. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^81]: A 2. melléklet V. Fejezet B. alcím 10. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^82]: A 2. melléklet VI. Fejezet B. alcím 11. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^83]: A 2. melléklet VI. Fejezet B. alcím 12. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
+[^84]: A 2. melléklet VI. Fejezet B. alcím 13. pont B) alpont 6. pont 6.1. alpontja a 151/2025. (VI. 19.) Korm. rendelet 5. § 57. pontja szerint módosított szöveg.
