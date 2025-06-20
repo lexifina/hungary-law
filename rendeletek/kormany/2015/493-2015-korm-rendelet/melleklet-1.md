@@ -1,5 +1,3 @@
-## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
-
 1. melléklet a 493/2015. (XII. 30.) Korm. rendelethez
 
 Az 1. § (1) bekezdése szerinti beruházással érintett földrészletek
