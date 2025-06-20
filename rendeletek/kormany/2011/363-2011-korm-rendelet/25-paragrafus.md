@@ -1,3 +1,3 @@
-25. §[^52]
+25. §[^47]
 
-[^52]: A 21–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 21–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

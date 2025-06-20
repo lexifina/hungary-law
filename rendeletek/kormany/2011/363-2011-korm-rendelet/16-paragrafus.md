@@ -1,14 +1,14 @@
-## 15/B. §[^37] Az Egyetem kollégiumi elhelyezést térítésmentesen biztosíthat az általa létrehozott hallgatói tehetséggondozó programban részt vevő hallgatók számára az Egyetem szervezeti és működési szabályzatában meghatározottak szerint.
+## 15/B. §[^32] Az Egyetem kollégiumi elhelyezést térítésmentesen biztosíthat az általa létrehozott hallgatói tehetséggondozó programban részt vevő hallgatók számára az Egyetem szervezeti és működési szabályzatában meghatározottak szerint.
 
 ## 2. Külföldi állampolgárok tanulmányainak támogatási rendje
 
-16. § (1)[^38] A kétoldalú nemzetközi szerződés alapján az Egyetemen államilag támogatott képzésben részt vevő külföldi hallgató részére a Fenntartó ösztöndíjat adományoz. Az adományozott ösztöndíj évente 10 vagy 12 hónapra szól.
+16. § (1)[^33] A kétoldalú nemzetközi szerződés alapján az Egyetemen államilag támogatott képzésben részt vevő külföldi hallgató részére a Fenntartó ösztöndíjat adományoz. Az adományozott ösztöndíj évente 10 vagy 12 hónapra szól.
 
 (2) Az ösztöndíj havi összege megfelel
 
-a)[^39] alap- és mesterképzésben részt vevő hallgatók esetében a törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
+a)[^34] alap- és mesterképzésben részt vevő hallgatók esetében a törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
 
-b)[^40] doktori képzésben részt vevő hallgatók esetében a törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
+b)[^35] doktori képzésben részt vevő hallgatók esetében a törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
 
 (3) Az ösztöndíjat a hallgatónak az Egyetem fizeti ki.
 
@@ -16,7 +16,7 @@ b)[^40] doktori képzésben részt vevő hallgatók esetében a törvényben e c
 
 (5) Nemzetközi megállapodás alapján részképzésben részt vevő nem magyar állampolgárok esetében az (1)–(4) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az adományozott ösztöndíj a részképzés időtartamára szól.
 
-[^37]: A 15/B. §-t az 544/2020. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^38]: A 16. § (1) bekezdése a 146/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^39]: A 16. § (2) bekezdés a) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
-[^40]: A 16. § (2) bekezdés b) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^32]: A 15/B. §-t az 544/2020. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 16. § (1) bekezdése a 146/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^34]: A 16. § (2) bekezdés a) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^35]: A 16. § (2) bekezdés b) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.

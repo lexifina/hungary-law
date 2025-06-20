@@ -1,6 +1,6 @@
-## 13. §[^34] A közszolgálati ösztöndíjas, illetve önköltséges (költségtérítéses) képzési forma közötti átsorolásról szóló döntést a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 40 nappal kell meghozni.
+## 13. §[^29] A közszolgálati ösztöndíjas, illetve önköltséges (költségtérítéses) képzési forma közötti átsorolásról szóló döntést a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 40 nappal kell meghozni.
 
-## 1. [^35] Az Egyetem által működtetett kollégiumok, szállók alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei
+## 1. [^30] Az Egyetem által működtetett kollégiumok, szállók alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei
 
 14. § (1) A kollégiumi férőhelyeket komfortfokozat szerint kell besorolni. A kollégiumi szabályoknak meg nem felelő, hallgatói elhelyezést szolgáló épület szálló megnevezéssel működik. A szállókra a (2)–(3) bekezdésben foglaltakat nem kell alkalmazni. Szállónak kollégiummá minősítése abban az esetben lehetséges, ha a szállót működtető a (2)–(3) bekezdésben foglaltakat biztosítja.
 
@@ -18,5 +18,5 @@ d) IV. komfortfokozatú az a kollégiumi férőhely, amennyiben szobánként vag
 
 (4) A (3) bekezdés d) pontja alkalmazása során felújítás minden olyan ráfordítás, amely a kollégium komfort fokozatának megváltoztatását eredményezi, kivéve az állagmegőrzését célzó ráfordítást.
 
-[^34]: A 13. § a 205/2015. (VII. 23.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
-[^35]: A IV. fejezet 1. alcímcíme a 146/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^29]: A 13. § a 205/2015. (VII. 23.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
+[^30]: A IV. fejezet 1. alcímcíme a 146/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
