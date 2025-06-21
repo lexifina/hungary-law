@@ -1,13 +1,3 @@
-1. melléklet a 18/2025. (VI. 19.) NGM rendelethez
+1. melléklet a 18/2025. (VI. 19.) NGM rendelethez[^3]
 
-A Rendelet 1. melléklet IV. pontjában foglalt táblázat a következő 5. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 5. | Fejlődő Magyar Falvak Korlátolt Felelősségű Társaság | 01-09-444372 | 2026. december 31. |
-
-”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
