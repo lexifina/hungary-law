@@ -1,3 +1,1 @@
-29. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 104. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A felsőoktatási intézmény az e törvényben, valamint jogszabályban előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából az Európai Gazdasági Térségről, illetve a Gazdasági Együttműködési és Fejlesztési Szervezetről (OECD) szóló szerződésben részes államban szerzett doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora fokozatot a felsőoktatási intézmény és a kutatási intézmény a szervezeti és működési szabályzatában a tudományos fokozattal egyenértékűként határozhatja meg.”
+### 29. §

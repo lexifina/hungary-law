@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-57-00-00
 | --- | --- | --- |
 | 2025-06-20 | 2025. évi LVII. törvény | 2025-57-00-00.0 (közlönyállapot) |
 | 2025-06-20 | 2024. évi XCI. törvény | 2025-57-00-00.1 |
+| 2025-06-21 | 2010. évi CXXX. törvény | 2025-57-00-00.2 |

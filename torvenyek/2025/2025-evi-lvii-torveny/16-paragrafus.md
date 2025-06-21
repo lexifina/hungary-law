@@ -1,3 +1,1 @@
-16. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 18. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A kérelmező kérheti a külföldi nyelvtanár-szakképzettséget tanúsító oklevelének idegennyelv-tanári szakképzettségként történő elismerését abban az esetben, ha legalább egyéves képzésben szerzett, államilag elismert felsőoktatási intézmény által kiállított olyan oklevéllel rendelkezik, amely az adott nyelv oktatására készítette fel a kérelmezőt abban az országban, amelyben az adott nyelv az ország hivatalos nyelve, amennyiben a képzésre is ebben az országban került sor. E bekezdés alkalmazásában oklevélnek minősül az a külföldi felsőfokú képesítés is, amely felsőfokú végzettséget nem tanúsít, de Magyarországon szakirányú továbbképzést tanúsító oklevélként lenne elismerhető.”
+### 16. §

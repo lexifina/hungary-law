@@ -1,3 +1,1 @@
-4. § A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény „Átmeneti rendelkezések” alcíme a következő 39/B. §-sal egészül ki:
-
-„39/B. § E törvénynek a felsőoktatási, kulturális, innovációs tárgyú és kapcsolódó törvények módosításáról szóló 2025. évi LVII. törvény (a továbbiakban: Módtv.) által megállapított 4. § (1a) és (1b) bekezdését a Módtv. hatálybalépését követően benyújtott szabadalmi ügyvivői vizsgára bocsátásra irányuló kérelmekkel kapcsolatban kell alkalmazni.”
+### 4. §
