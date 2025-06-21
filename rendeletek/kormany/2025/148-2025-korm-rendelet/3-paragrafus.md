@@ -1,5 +1,3 @@
-3. § (1) Az R. 2. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
 
-(2) Az R. a 2. melléklet szerinti 4. melléklettel egészül ki.
-
-(3) Az R. a 3. melléklet szerinti 5. melléklettel egészül ki.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
