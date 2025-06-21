@@ -1,1 +1,3 @@
-5. § Az R. 3. § (1) bekezdésében az „Ukrajnába szállított” szövegrész helyébe az „Ukrajnába, valamint 2025. február 24-ét követően Szlovákiába szállított” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
