@@ -1,1 +1,3 @@
-2. § A 363/2011. (XII. 30.) Korm. rendelet III/A. FEJEZET címében az „ÉS KÖZIGAZGATÁSI, RENDÉSZETI, KATONAI, NEMZETBIZTONSÁGI, VALAMINT A NEMZETKÖZI ÉS EURÓPAI KÖZSZOLGÁLATI FELSŐOKTATÁSBAN” szövegrész helyébe a „KÉPZÉSI TERÜLETEN” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
