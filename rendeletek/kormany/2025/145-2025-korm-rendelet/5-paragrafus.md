@@ -1,7 +1,3 @@
-5. § (1) Az Ehat Vhr. 6. melléklete helyébe az 1. melléklet lép.
+5. §[^6]
 
-(2) Az Ehat Vhr. 7. melléklete a 2. melléklet szerint módosul.
-
-(3) Az Ehat Vhr. 8. melléklete a 3. melléklet szerint módosul.
-
-(4) Az Ehat Vhr. a 4. melléklet szerinti 14. melléklettel egészül ki.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
