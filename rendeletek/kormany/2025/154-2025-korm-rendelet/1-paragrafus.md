@@ -1,1 +1,3 @@
-1. § Hatályát veszti az önálló szabályozó szerv gazdálkodására vonatkozó eltérő szabályok veszélyhelyzet ideje alatt történő alkalmazásáról szóló 239/2023. (VI. 19.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
