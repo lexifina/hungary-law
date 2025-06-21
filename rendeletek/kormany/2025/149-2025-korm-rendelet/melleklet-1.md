@@ -1,13 +1,3 @@
-1. melléklet a 149/2025. (VI. 19.) Korm. rendelethez
+1. melléklet a 149/2025. (VI. 19.) Korm. rendelethez[^5]
 
-Az R. 2. mellékletében foglalt táblázat a következő 104. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-„
-
-| 104. | Gazdagréti Szent Angyalok Plébániát érintő funkcióbővítő fejlesztés | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 1783/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
