@@ -1,3 +1,1 @@
-109. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 14. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha az egyesülésben részt vevő jogi személyek között olyan jogi személy van, amely engedélyköteles tevékenységet lát el, és e tevékenységet a jogutód jogi személy is végezné, az egyesülés bejegyzéséig vagy annak hatályosulásáig az engedélyezési eljárás megindítására az engedélyes jogelőd jogi személy, azt követően pedig az egyesüléssel létrejövő, beolvadás esetén az átvevő jogi személy jogosult. Az egyesülés bejegyzése és annak hatályosulása közötti időszakban az egyesüléssel létrejövő, beolvadás esetén a beolvadással módosuló átvevő jogi személyt az engedélyes jogelőd képviseli.”
+### 109. §
