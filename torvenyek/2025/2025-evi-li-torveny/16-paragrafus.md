@@ -1,3 +1,1 @@
-16. § A bányászatról szóló 1993. évi XLVIII. törvény 21/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A geotermikus védőidomot kérelemre a bányafelügyelet jelöli ki. Geotermikus védőidomok nem lehetnek átfedésben, kivéve a 21/A. § (2a) bekezdése szerinti hasznosításhoz kapcsolódó geotermikus védőidommal történő átfedést. Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybevett vízadók, víztestek geotermikus védőidomként akkor jelölhetők ki, ha a megállapítandó védőidomból történő termálvíz kitermelés a meglévő vízhasználatot nem veszélyezteti. Nem jelölhető ki geotermikus védőidom akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne. A geotermikus védőidom a kutatási területen belül állapítható meg.”
+### 16. §

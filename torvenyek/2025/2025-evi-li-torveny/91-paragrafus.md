@@ -1,1 +1,1 @@
-91. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 68. § (11) bekezdésében az „állhat tulajdonosi viszonyban a kiszervezett tevékenységet végzővel” szövegrész helyébe a „rendelkezhet ellenőrző befolyással a kiszervezett tevékenységet végző társaságban” szöveg lép.
+### 91. §

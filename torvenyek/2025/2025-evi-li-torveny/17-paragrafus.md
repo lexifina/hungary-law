@@ -1,15 +1,1 @@
-17. § (1) A bányászatról szóló 1993. évi XLVIII. törvény 22. § (6) bekezdése helyébe a következő rendelkezés lép, és a 22. § a következő (6a)–(6c) bekezdéssel egészül ki:
-
-„(6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. A koncesszió jogosultja vagy a bányászatra hatósági engedéllyel rendelkező a kutatási munkaprogramjának végrehajtása keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének, illetve a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának, illetve a geotermikus védőidom kijelölésének a kezdeményezésére.
-
-(6a) A koncesszió jogosultja az engedélyezett kutatási időszak utolsó napjától számított három hónapos jogvesztő határidőn belül – kutatási zárójelentés benyújtásával – kérheti a geotermikus védőidom megállapítását. A határidő elmulasztása esetén a koncesszió jogosultjának a kutatási joga megszűnik.
-
-(6b) A koncesszió jogosultja a kutatási időszakon belül is kérheti geotermikus védőidom kijelölését kutatási rész-zárójelentés benyújtásával. A kutatási időszakon belül több geotermikus védőidom is kijelölhető kutatási rész-zárójelentés alapján.
-
-(6c) Több kutatási rész-zárójelentés benyújtása esetén legkésőbb az engedélyezett kutatási időszak utolsó napjától számított három hónapon belül a benyújtott rész-zárójelentéseknek a teljes kutatási területet le kell fedniük. Ennek elmaradása esetén a koncesszió jogosultjának kutatási joga megszűnik.”
-
-(2) A bányászatról szóló 1993. évi XLVIII. törvény 22. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(8) Az (1) bekezdésben foglaltak alapján adományozott vagy engedélyezett kutatási jog – a geotermikus energia kutatás engedélyezésére vonatkozó koncesszió kivételével – megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve a kutatást engedélyező határozat véglegessé válásától számított hat hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, vagy a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet véglegessé vált határozatában elutasította.
-
-(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszternél vagy központi kormányzati igazgatási szervnél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását. A bányafelügyelet a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását a bányavállalkozó mulasztását megállapító véglegessé vált határozatával kezdeményezi.”
+### 17. §

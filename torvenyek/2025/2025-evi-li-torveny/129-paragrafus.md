@@ -1,3 +1,1 @@
-129. § A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 43/B. § (5) bekezdése a következő c) ponttal egészül ki:
-
-(Ha a Hatóság tudomást szerez arról, hogy a kézbesítési megbízott nem fellelhető vagy a megbízása megszűnt, és az ESG közreműködő új kézbesítési megbízottat nem jelentett be a Hatóság részére, továbbá ezt a hiányosságot a Hatóság felhívásában foglalt határidőn belül nem orvosolja, a Hatóság)
+### 129. §

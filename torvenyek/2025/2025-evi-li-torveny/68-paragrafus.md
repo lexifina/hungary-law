@@ -1,3 +1,1 @@
-68. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény a következő 100. §-sal egészül ki:
-
-„100. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel (a továbbiakban: Módtv3.) megállapított 62. § (3) bekezdés f) pontját, 62. § (5) bekezdését és 96/A. §-át azokra az alapítványokra is alkalmazni kell, amelyek tekintetében az alapítói jogokat az állam e rendelkezések hatálybalépését megelőzően szerezte meg.”
+### 68. §
