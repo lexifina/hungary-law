@@ -1,3 +1,1 @@
-77. § Az Itv. 91. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ügyfél vagy jogi képviselője az azt tartalmazó szerződés (okirat) benyújtásával az ingatlanügyi hatóságnál az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg jelenti be illetékkiszabásra. A vagyonszerzési illeték megállapításához szükséges nyilatkozatokat az ügyfél vagy jogi képviselője az adóhatóság informatikai rendszerében vagy papíralapon az adó- és vámhatósághoz teszi meg az illetékkötelezettség keletkezését követő 30 napon belül. A nyilatkozat tartalmazza a felek adóazonosító számát vagy az ennek hiányára utaló kijelentést is.”
+### 77. §

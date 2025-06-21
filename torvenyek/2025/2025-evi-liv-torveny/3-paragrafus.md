@@ -10,10 +10,6 @@
 
 (3)
 
-(4) Az Szja tv. 3. §-a a következő 64. ponttal egészül ki:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
-
-## „64. Családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti családi pótlék.”
+(4)
 
 (5)

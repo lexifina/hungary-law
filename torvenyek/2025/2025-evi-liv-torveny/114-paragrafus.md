@@ -8,13 +8,13 @@
 
 4.
 
-5. 156. § (3) bekezdésében az „a hárommillió forintot” szövegrész helyébe az „az ötmillió forintot” szöveg,
+5.
 
 6.
 
 7.
 
-8. 199. § (1) és (2a) bekezdésében az „egymillió forint” szövegrész helyébe a „kettőmillió forint” szöveg,
+8.
 
 9.
 

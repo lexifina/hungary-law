@@ -2,8 +2,8 @@
 
 a)
 
-b) 4. § 28. pontjában a „kizárólag” szövegrész,
+b)
 
-c) 7. § (15) bekezdésében az „ , illetve a helyi egyedi védelem alatt álló” szövegrész,
+c)
 
 d)
