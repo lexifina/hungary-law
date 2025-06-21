@@ -1,0 +1,1 @@
+1. § E rendelet hatálya kiterjed az állami beruházásokért felelős miniszter által vezetett minisztériumra (a továbbiakban: minisztérium), valamint az állami építési beruházások építtetőjére, tervezőjére és kivitelezőjére.

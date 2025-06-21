@@ -1,0 +1,1 @@
+6. § Amennyiben az építtető nem a minisztérium, akkor az építtető az építési beruházásban közreműködő tervező és kivitelező értékelését a miniszter részére az értékelés lezárultát követő tizenöt napon belül megküldi.
