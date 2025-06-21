@@ -14,7 +14,7 @@
 
 | Határidő: | folyamatos |
 
-## 2. Hatályát veszti az országos múzeumok, valamint egyes nemzeti emlékhelyek és műemlékek látogatásáról szóló 1502/2017. (VIII. 11.) Korm. határozat.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -229,3 +229,5 @@ Az általános iskolák, középfokú iskolák és gyógypedagógiai, konduktív
 12. Sátoraljaújhely, Kazinczy mauzóleum és a Magyar Nyelv Múzeuma;
 
 13. Szekszárd, Babits Mihály szülőháza és a Wosinsky Mór Múzeum.
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
