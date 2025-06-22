@@ -27,3 +27,5 @@ c) a 33/A. § hatálya alá nem tartozó külföldi hallgatók Egyetemre törté
 d)
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.
+
+(4) Felhatalmazást kap a Kormány, hogy határozatában jelölje ki az 51/B. § (3) bekezdése szerinti, az ingatlanok üzemeltetését, kezelését, működtetését, az ingatlanok fenntartását, továbbfejlesztését és az azokkal kapcsolatos beruházások elvégzését ellátó szervezetet.
