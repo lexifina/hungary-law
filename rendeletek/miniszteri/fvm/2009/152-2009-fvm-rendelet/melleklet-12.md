@@ -16,7 +16,7 @@
 
 ## 6. Gyümölcsnektárok esetében kötelező feltüntetni a minimális gyümölcshányadot (gyümölcslé, gyümölcspüré, -velő vagy ezek keverékének összegét), a „gyümölcstartalom min …..%” kifejezéssel. Ezt a tájékoztatást ugyanabban a látómezőbe kell elhelyezni, mint a termék megnevezését.
 
-## III.[^66] A nem végfelhasználónak történő szállításra szánt, a B rész I. fejezet 2. pontja szerinti sűrített gyümölcslevek címkéjének megjegyzést kell tartalmaznia a hozzáadott citromlé, zöldcitromlé, illetve a savanyúságot szabályozó anyag – az 1333/2008/EK európai parlamenti és tanácsi rendelet értelmében – megengedett használatára és mennyiségére vonatkozóan. Ezt a megjegyzést a csomagoláson, a csomagoláshoz csatolt címkén vagy a kísérő dokumentumon fel kell tüntetni.
+## III.[^69] A nem végfelhasználónak történő szállításra szánt, a B rész I. fejezet 2. pontja szerinti sűrített gyümölcslevek címkéjének megjegyzést kell tartalmaznia a hozzáadott citromlé, zöldcitromlé, illetve a savanyúságot szabályozó anyag – az 1333/2008/EK európai parlamenti és tanácsi rendelet értelmében – megengedett használatára és mennyiségére vonatkozóan. Ezt a megjegyzést a csomagoláson, a csomagoláshoz csatolt címkén vagy a kísérő dokumentumon fel kell tüntetni.
 
 ## IV. 1. Azok a termékek, amelyeket 2013. október 28-át megelőzően hoztak forgalomba vagy címkéztek és megfelelnek e melléklet 2013. október 27-én hatályos előírásainak, 2015. április 28-ig továbbra is forgalmazhatók.
 
@@ -74,7 +74,7 @@
 
 ## 5.1. Olyan erjeszthető, de nem erjesztett termék, amely az 1–4. pontban meghatározott termékekhez, gyümölcspüréhez, sűrített gyümölcspüréhez, illetve e termékek keverékéhez víz és cukor, illetve méz hozzáadásával vagy anélkül készül, és megfelel az E rész előírásainak.
 
-## 5.2.[^67] Az élelmiszerekkel kapcsolatos, tápanyag összetételre és egészségre vonatkozó állításokról szóló, 2006. december 20-i 1924/2006/EK európai parlamenti és tanácsi rendelet előírásainak betartása mellett a cukor hozzáadása nélkül vagy csökkentett energiatartalommal gyártott gyümölcsnektárok esetében a cukor részben vagy teljes egészében helyettesíthető édesítőszerekkel az 1333/2008/EK európai parlamenti és tanácsi rendeletnek megfelelően.
+## 5.2.[^70] Az élelmiszerekkel kapcsolatos, tápanyag összetételre és egészségre vonatkozó állításokról szóló, 2006. december 20-i 1924/2006/EK európai parlamenti és tanácsi rendelet előírásainak betartása mellett a cukor hozzáadása nélkül vagy csökkentett energiatartalommal gyártott gyümölcsnektárok esetében a cukor részben vagy teljes egészében helyettesíthető édesítőszerekkel az 1333/2008/EK európai parlamenti és tanácsi rendeletnek megfelelően.
 
 ## 5.3. Az ugyanazon gyümölcsfajtából megfelelő fizikai úton kivont aroma, gyümölcspép és rostok a későbbiek során visszaadagolhatóak a sűrített gyümölcsnektárhoz.
 
@@ -92,9 +92,9 @@
 
 ## 2.1. Az I. fejezetben felsorolt termékekhez kizárólag a következő összetevők adhatók hozzá:
 
-## 2.1.1.[^68] A vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadásáról szóló, 2006. december 20-i 1925/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1925/2006/EK európai parlamenti és tanácsi rendelet) engedélyezett vitaminok és ásványi anyagok.
+## 2.1.1.[^71] A vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadásáról szóló, 2006. december 20-i 1925/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1925/2006/EK európai parlamenti és tanácsi rendelet) engedélyezett vitaminok és ásványi anyagok.
 
-## 2.1.2.[^69] Az 1333/2008/EK európai parlamenti és tanácsi rendeletben engedélyezett élelmiszer-adalékanyagok.
+## 2.1.2.[^72] Az 1333/2008/EK európai parlamenti és tanácsi rendeletben engedélyezett élelmiszer-adalékanyagok.
 
 ## 2.2. A 2.1. pontban felsoroltakon felül egyes termékekhez a következő összetevők adhatók hozzá:
 
@@ -102,7 +102,7 @@
 
 ## 2.2.2. Kizárólag a szőlőlé esetében: visszaadagolt borkősav.
 
-## 2.2.3.[^70] Gyümölcsnektárok esetében: visszaadagolt aroma, gyümölcspép és rostok, cukor, illetve méz a végtermék teljes tömegének 20%-áig, illetve édesítőszerek.
+## 2.2.3.[^73] Gyümölcsnektárok esetében: visszaadagolt aroma, gyümölcspép és rostok, cukor, illetve méz a végtermék teljes tömegének 20%-áig, illetve édesítőszerek.
 
 ## Azon állítás, mely szerint a gyümölcsnektár nem tartalmaz hozzáadott cukrot, valamint a fogyasztó számára vélhetően ugyanezzel a jelentéssel bíró bármely állítás kizárólag akkor tüntethető fel, ha a termék nem tartalmaz hozzáadott mono- vagy diszacharidokat vagy egyéb, az édesítő hatása miatt használt élelmiszert, ideértve az 1333/2008/EK európai parlamenti és tanácsi rendeletben meghatározott édesítőszereket is. Amennyiben a gyümölcsnektár természetes módon tartalmaz cukrokat, a címkén a következő állításnak is szerepelnie kell: „természetes módon előforduló cukrokat tartalmaz”.
 
@@ -364,11 +364,11 @@
 
 ## (**) Olyan termékek esetében, amelyeket püréként állítanak elő, csak minimális korrigálatlan – savtartalomtól függő korrekció nélküli – Brix-érték kerül meghatározásra.
 
-12. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^71]
+12. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^74]
 
-[^66]: A 11. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 5. § a) pontja szerint módosított szöveg.
-[^67]: A 11. melléklet B rész I. fejezet 5. pont 5.2. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § a) pontja szerint módosított szöveg.
-[^68]: A 11. melléklet B rész II. fejezet 2. pont 2.1.1. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § b) pontja szerint módosított szöveg.
-[^69]: A 11. melléklet B rész II. fejezet 2. pont 2.1.2. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § c) pontja szerint módosított szöveg.
-[^70]: A 11. melléklet B rész II. fejezet 2. pont 2.2.3. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § d) pontja szerint módosított szöveg.
-[^71]: A 12. melléklet a 48/2016. (VII. 18.) FM rendelet 3. §-ával megállapított, a 41/2017. (VIII. 14.) FM rendelet 1. §-a, a 7/2019. (III. 26.) AM rendelet 1. §-a, a 43/2024. (VIII. 29.) AM rendelet 3. § a) és b) pontja szerint módosított szöveg.
+[^69]: A 11. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^70]: A 11. melléklet B rész I. fejezet 5. pont 5.2. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^71]: A 11. melléklet B rész II. fejezet 2. pont 2.1.1. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^72]: A 11. melléklet B rész II. fejezet 2. pont 2.1.2. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § c) pontja szerint módosított szöveg.
+[^73]: A 11. melléklet B rész II. fejezet 2. pont 2.2.3. alpontja a 11/2025. (IV. 22.) AM rendelet 4. § d) pontja szerint módosított szöveg.
+[^74]: A 12. melléklet a 26/2025. (VI. 19.) AM rendelet 3. §-ával megállapított szöveg.

@@ -138,6 +138,74 @@
 
 ## Az írásbeli nyilatkozatnak lehetővé kell tennie azoknak a tárgyaknak a könnyű azonosítását, amelyekre kiállították, és meg kell újítani a nyilatkozatot, amennyiben a gyártásban történt alapvető változások az ólom és kadmium kioldódást is megváltoztatják.
 
-25. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^91]
+25. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^95]
 
-[^91]: A 25. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.
+A Magyar Élelmiszerkönyv 1–2–2007/42 számú előírása az élelmiszerrel rendeltetésszerűen
+
+érintkezésbe kerülő regenerált cellulózfilmekről
+
+A rész
+
+I.
+
+1. Ez az előírás az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmekre (cellofán) vonatkozó előírásokat tartalmaz.
+
+2. Jelen előírás olyan regenerált cellulózfilmekre (cellofán) vonatkozik, amelyek megfelelnek az B rész általános leírásának, és amelyeket
+
+a) önmagukban vagy
+
+b) más, az élelmiszerrel rendeltetésszerűen érintkező vagy érintkezésbe kerülhető anyag részeként
+
+használnak.
+
+3. Jelen előírás nem vonatkozik a regenerált cellulózból készült műbelekre.
+
+4. A 2. pont szerinti regenerált cellulózfilmek a következő típusok egyikébe tartoznak:
+
+a) bevonat nélküli regenerált cellulózfilm,
+
+b) cellulózból származó bevonatú regenerált cellulózfilm,
+
+c) műanyag bevonatú regenerált cellulózfilm.
+
+II.
+
+1. Az I. fejezet 4. pont a) és b) alpont szerinti regenerált cellulózfilmek gyártásához kizárólag a C részben felsorolt anyagok vagy anyagcsoportok, az ott megadott korlátozásokkal használhatók fel.
+
+2. A regenerált cellulózfilmek gyártásához színezékként (festék és pigment) vagy ragasztóként a C részben megadottaktól eltérő anyagok is felhasználhatók, ha ezek az élelmiszerbe nyomokban sem oldódnak ki, és hatályos vizsgálati módszerekkel nem mutathatók ki.
+
+3. Az I. fejezet 4. pont c) alpont szerinti regenerált cellulózfilmek bevonást megelőző gyártásához kizárólag a C rész I. fejezetében felsorolt anyagok vagy anyagcsoportok, az ott megadott korlátozásokkal használhatók fel.
+
+4. A 3. pont szerinti bevonattal ellátott regenerált cellulózfilmek előállításához csak az MÉ 1–2–2002/72 számú előírás C–G részeiben megadott anyagok vagy anyagcsoportok, az ott megadott korlátozásokkal használhatók fel.
+
+5. Az I. fejezet 4. pont c) alpont szerinti regenerált cellulózfilmből készült anyagoknak és eszközöknek – a 3. pontban foglaltakon kívül – meg kell felelniük az MÉ 1–2–2002/72 számú előírás A rész II., VII. és VIII. fejezetében leírtaknak.
+
+6. A regenerált cellulózfilm nyomtatott felületei nem kerülhetnek érintkezésbe az élelmiszerrel.
+
+III.
+
+1. Kiskereskedelmi forgalmat kivéve az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmből készült anyagokat és eszközöket az értékesítés minden fázisában kísérnie kell az 1935/2004/EK rendelet 16. cikkének (1) bekezdése szerinti nyilatkozatnak.
+
+2. Az 1. pontot nem kell alkalmazni olyan regenerált cellulózfilmből készült anyagokra és eszközökre, melyek természetüknél fogva élelmiszerekkel nem kerülnek érintkezésbe.
+
+3. Amennyiben speciális felhasználási feltételek vannak, a regenerált cellulózfilmből készült anyagok és eszközök címkéjén ezt fel kell tüntetni.
+
+B rész
+
+Regenerált cellulózfilm leírása
+
+A regenerált cellulózfilm olyan fóliaanyag, melyet újrafelhasználás nélküli faanyagból vagy gyapotból nyert finomított cellulózból állítanak elő. A C részben felsorolt anyagok használhatók a masszába adva vagy a felületre. A regenerált cellulózfilm az egyik vagy mindkét oldalon bevonható.
+
+C rész
+
+Regenerált cellulózfilm gyártásához engedélyezett anyagok listája
+
+Megjegyzés: – az I. és II. fejezetben szereplő százalékos mennyiségek tömeg százalékok és a vízmentes regenerált cellulózfilmre vonatkoznak,
+
+– a szokásos műszaki megjelölések zárójelben vannak megadva,
+
+– a tisztasági kritériumok alapján az anyagoknak jó technikai minőségűeknek kell lenniük.
+
+I. Bevonatlan regenerált cellulózfilm
+
+[^95]: A 25. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.

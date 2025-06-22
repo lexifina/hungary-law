@@ -1,6 +1,6 @@
 ## A rész
 
-## 1.[^78] Ezt az előírást az élelmiszerek és élelmiszer-összetevők előállítása során felhasznált vagy felhasználni kívánt extrakciós oldószerekre kell alkalmazni.
+## 1.[^82] Ezt az előírást az élelmiszerek és élelmiszer-összetevők előállítása során felhasznált vagy felhasználni kívánt extrakciós oldószerekre kell alkalmazni.
 
 ## 2. Az előírást nem kell alkalmazni
 
@@ -176,7 +176,7 @@
 
 | Etanol | legfeljebb 450 mg/kg, szárazanyagra vonatkoztatva |
 
-15. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^79]
+15. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^83]
 
-[^78]: A 14. melléklet A rész 1. pontja a 11/2025. (IV. 22.) AM rendelet 5. § d) pontja szerint módosított szöveg.
-[^79]: A 15. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, a 38/2016. (VI. 6.) FM rendelet 9. §-a hatályon kívül helyezte.
+[^82]: A 14. melléklet A rész 1. pontja a 11/2025. (IV. 22.) AM rendelet 5. § d) pontja szerint módosított szöveg.
+[^83]: A 15. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, a 38/2016. (VI. 6.) FM rendelet 9. §-a hatályon kívül helyezte.
