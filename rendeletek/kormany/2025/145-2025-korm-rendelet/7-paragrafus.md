@@ -1,1 +1,0 @@
-7. § E rendelet 2. §-a és 5. § (1)–(3) bekezdése az energiahatékonyságról és az (EU) 2023/955 rendelet módosításáról szóló, 2023. szeptember 13-i (EU) 2023/1791 európai parlamenti és a tanácsi irányelvnek való megfelelést szolgálja.
