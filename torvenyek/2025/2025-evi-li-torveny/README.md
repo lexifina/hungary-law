@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-51-00-00
 | 2025-06-20 | 2025. évi LI. törvény | 2025-51-00-00.0 (közlönyállapot) |
 | 2025-06-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-51-00-00.1 |
 | 2025-06-21 | 2010. évi CXXX. törvény | 2025-51-00-00.2 |
+| 2025-06-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-51-00-00.3 |
