@@ -1,1 +1,3 @@
-4. § Az R. 13. melléklet A rész I. fejezet 3. pontjában az „a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU” szövegrész helyébe az „az (EU) 2024/1143” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
