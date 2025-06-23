@@ -20,8 +20,14 @@ d) a 2026. évtől legfeljebb 1 950 077 164 forint tartós, bázisba épülő je
 
 | Határidő: | az a) alpont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-3. felhívja a pénzügyminisztert, hogy az 1. pont b) alpontjában foglalt egyes technikai eszközök beszerzése érdekében gondoskodjon a 2024. évben 1 504 656 800 forint egyszeri jelleggel történő biztosításáról a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 2. Nemzeti Adó- és Vámhivatal cím javára.
+3.[^1] felhívja a nemzetgazdasági minisztert, hogy
 
-| Felelős: | pénzügyminiszter |
+a) az 1. pont b) alpontjában foglalt egyes technikai eszközök beszerzése érdekében gondoskodjon – a NAV részére a 2025. évben egyszeri jelleggel már biztosított 346 348 125 forintra figyelemmel további – 751 908 675 forint többletforrás egyszeri jelleggel történő biztosításáról a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény (a továbbiakban: Kvtv2025.) 1. melléklet XXIII. Nemzetgazdasági Minisztérium fejezet, 4. Nemzeti Adó- és Vámhivatal cím javára;
+
+b) a magyar–szerb határszakaszon a határátlépéssel járó várakozási idő csökkentéséhez szükséges további egyéb fejlesztések végrehajtása érdekében – az építési és közlekedési miniszter bevonásával – gondoskodjon 406 400 000 forint többletforrás egyszeri jelleggel történő biztosításáról a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport javára.
+
+| Felelős: | nemzetgazdasági miniszter építési és közlekedési miniszter |
 
 | Határidő: | a felmerülés ütemében |
+
+[^1]: A 3. pont az 1220/2025. (VI. 23.) Korm. határozat 3. pontjával megállapított szöveg.
