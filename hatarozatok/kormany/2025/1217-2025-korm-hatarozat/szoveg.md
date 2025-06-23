@@ -1,0 +1,1 @@
+A Kormány a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva a Magyar Fotográfiai Alapítvány tekintetében az állam alapítói jogainak gyakorlására a kultúráért és innovációért felelős minisztert jelöli ki.
