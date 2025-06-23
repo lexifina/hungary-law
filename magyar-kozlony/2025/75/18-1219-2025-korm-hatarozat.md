@@ -1,0 +1,665 @@
+# A Kormány 1219/2025. (VI. 23.) Korm. határozata
+
+Magyar Közlöny 2025. évi 75. szám, 2025. június 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/MwLnpaMu4Z3dntbsIBPV68506d805a397/dokumentumok/a1a7443ce61f9abc884b2c0833d7ff5db6f31508/letoltes)
+
+---
+
+A Kormány 1219/2025. (VI. 23.) Korm. határozata
+a Magyar Nemzeti Társadalmi Felzárkózási Stratégia 2030 végrehajtásának a 2025–2027. évekre szóló
+kormányzati intézkedési tervéről
+A Kormány a Magyar Nemzeti Társadalmi Felzárkózási Stratégia 2030 című dokumentumban (a továbbiakban: MNTFS 2030)
+foglalt célkitűzések megvalósítása és a stratégiában megfogalmazott felzárkózáspolitikai elvek érvényesítése érdekében,
+összhangban az Európai Unió a roma népességet érintő, a szegénység csökkentését, a társadalmi kohézió erősítését célzó
+szakpolitikai törekvéseivel,
+1. elfogadja az 1. melléklet szerinti Magyar Nemzeti Társadalmi Felzárkózási Stratégia 2030 végrehajtásának
+a 2025–2027. évekre szóló kormányzati intézkedési tervét (a továbbiakban: Intézkedési Terv), és elrendeli annak
+végrehajtását, a rendelkezésre álló források figyelembevételével;
+2. felhívja az érintett minisztereket, hogy az Intézkedési Tervben foglalt feladatok végrehajtásáról készítsenek
+tájékoztatót a belügyminiszter részére;
+Felelős: érintett miniszterek
+Határidő: 2027. szeptember 1.
+3. felhívja az érintett minisztereket, hogy az MNTFS 2030 céljait, beavatkozási területeit és szempontjait, valamint
+az Intézkedési Tervben foglalt feladatokat vegyék figyelembe a szakpolitikák alakítása, valamint a hazai és
+a 2021–2027-es időszak uniós társfinanszírozású programjainak tervezése és végrehajtása során;
+Felelős: érintett miniszterek
+Határidő: folyamatos
+4. felhívja a belügyminisztert, hogy a 2. pontban foglaltak szerint elkészített tájékoztatók alapján készítsen jelentést
+a Kormány részére az Intézkedési Tervben foglalt feladatok végrehajtásáról.
+Felelős: belügyminiszter
+Határidő: 2027. november 30.
+5. Ez a határozat 2025. július 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1219/2025. (VI. 23.) Korm. határozathoz
+Intézkedési Terv
+I. Születés és gyermekkor
+1.1. Pályázati felhívás megjelentetésével folytatni kell a hátrányos helyzetű családoknak a gyermek legkorábbi
+életkorától szolgáltatásokat nyújtó Biztos Kezdet Gyerekházak rendszerének területi alapú továbbfejlesztését.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az Emberi Erőforrás Fejlesztési Operatív Program Plusz (a továbbiakban: EFOP Plusz) Éves
+Fejlesztési Keret ütemezésének megfelelően, de legkésőbb 2025. december 31-ig
+1.2. Pályázati felhívás megjelentetésével folytatni kell a járási szinten összehangolt, a teljes gyermekéletutat átfogó
+intézkedésekkel az esélyteremtő szolgáltatások, valamint a szakmai hálózatok működtetését.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+1.3. Erősíteni kell a kora gyermekkori időszakra koncentráló, komplex célzású beavatkozásokkal a „Felzárkózó
+települések” programba bevont településeken élő gyermekek felzárkózását a Magyarország egyes területei
+közötti gazdasági egyenlőtlenség csökkentése érdekében szükséges fejlesztési program, továbbá a „Felzárkózó
+települések” hosszú távú programjának kiterjesztéséről szóló 1057/2021. (II. 19.) Korm. határozatban a „Felzárkózó
+települések” hosszú távú programjában való részvételre kijelölt települések fokozatos bevonásával. A program
+keretében a településeken Jelenlét Pontok kerülnek kialakításra 2025. év végéig, amelyek a lehető legszélesebb
+eszközrendszerrel fókuszálnak a gyermekekre és fiatalokra, a kisgyermekkori, az iskoláskori, a foglalkoztatási,
+valamint a szociális, egészségügyi és kisebb mértékű lakhatási beavatkozásokon keresztül. A Jelenlét Pont
+helyet ad a közösségnek nyújtott olyan szolgáltatásoknak, mint a kríziskezelés, a személyes segítségnyújtás, a kora
+gyermekkori tanácsadás, a tanodajellegű foglalkozások, a közösségi mosoda és fürdő, valamint a közösségi konyha.
+Felelős: társadalmi felzárkózásért felelős miniszter, a diagnózis alapú felzárkózási stratégia
+végrehajtásáért felelős miniszterelnöki biztos bevonásával
+Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+1.4. Folytatni kell a bölcsődei ellátást biztosító férőhelyek számának növelését a 2027–2030 között megvalósuló
+bölcsődefejlesztések megalapozására szolgáló új igényfelmérés eredményeinek figyelembevételével, tekintettel
+a 3 év alatti és bölcsődei ellátást igénylő gyermekek arányára, akiknek a lakóhelyén – különösen a hátrányos
+helyzetű településeken – nem elérhető a bölcsődei ellátás a korai nevelés feltételeinek bővítése, a társadalmi és
+területi egyenlőtlenségek csökkentése és a szülők foglalkoztatási esélyeinek növelése érdekében. Folytatni kell
+a magasan képzett szakemberállomány (kisgyermeknevelők) biztosítását. A bölcsődefejlesztéseket célzó pályázati
+felhívásokban 2025-től prioritásként kezelendő a korai fejlesztésekhez szükséges eszközök beszerzése, valamint
+fejlesztőszobák létrehozása annak érdekében, hogy a pedagógiai szakszolgálat által végzendő fejlesztőtevékenység
+a gyermek napközbeni nevelését-gondozását végző intézményben valósulhasson meg. Ösztönözni szükséges
+a korai fejlesztésben részt vevők továbbképzését, az új szakmai módszertanok megismerése érdekében.
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+köznevelésért felelős miniszter
+Határidő: az EFOP Plusz Fejlesztési Keret és a hazai források, valamint a Helyreállítási és Ellenállóképességi
+Terv ütemezésének megfelelően, folyamatos
+1.5. Célzott támogatást szükséges biztosítani a munkaerőpiacra visszatérő és bölcsődei ellátásban részesülő
+gyermeket nevelő szülők számára a munkaerőpiacra való visszatérés ösztönzése és a gyermekek napközbeni
+ellátásához való hozzáférés elősegítése érdekében.
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret szerinti végrehajtásának megfelelően, folyamatos
+
+II. Köznevelési, szakképzési, felsőoktatási rendszer – óvodától egyetemig
+2.1. Pályázati felhívás megjelentetésével folytatni kell az óvodai esélyteremtés területén megkezdett fejlesztéseket,
+amelynek során kiemelt cél a rendelkezésre álló kiépített szakmai módszertan és szakemberhálózat fejlesztése
+az óvodai nevelés minőségének javítása érdekében.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+2.2. Folytatni kell az óvodai infrastruktúra fejlesztését a hatékony intézményi nevelési feladatok ellátása érdekében.
+Biztosítani kell a gyermeki személyiség kibontakozását segítő pedagógiai, kisgyermeknevelői tevékenységek
+megszervezéséhez, végrehajtásához szükséges tárgyi eszközök beszerzését és fejlesztését, különös figyelemmel
+a többi gyermekkel, tanulóval együtt nevelhető, valamint a gyógypedagógiai, konduktív pedagógiai nevelési-
+oktatási intézményben, óvodai csoportban nevelhető sajátos nevelési igényű gyermekek szükségleteire.
+Az óvodafejlesztésekhez kapcsolódóan ösztönözni szükséges a továbbképzéseket és az új inklúziós módszertanok
+megismerését. Az intézkedések során tekintettel kell lenni a területi egyenlőtlenségekre.
+Felelős: köznevelésért felelős miniszter
+Határidő: a TOP Plusz Éves Fejlesztési Keret, valamint a Helyreállítási és Ellenállóképességi Terv
+ütemezésének megfelelően, folyamatos
+2.3. Pályázati felhívás megjelentetésével folytatni kell a köznevelési kollégiumokra épülő, esélyteremtést segítő
+szolgáltatások fejlesztését a hátrányos helyzetű gyermekek családban nevelkedése és a szegénység csökkentése,
+illetve a társadalmi kapcsolatainak kiszélesítése érdekében.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz, valamint a Helyreállítási és Ellenállóképességi Terv ütemezésének megfelelően,
+de legkésőbb 2025. december 31-ig
+2.4. Pályázati felhívás megjelentetésével folytatni kell a hátrányos helyzetű gyermekek családi hátteréből származó
+hátrányok kompenzálását és továbbtanulási esélyeik növelését, valamint a tanodák hálózatának további fejlesztését
+a társadalmi mobilitás elősegítése érdekében.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+2.5. Támogatni kell az esélyteremtést segítő szolgáltatások digitális infrastruktúrájának és a hozzá kapcsolódó
+szolgáltatások, képzések fejlesztését. Erősíteni kell a hátrányokkal küzdő társadalmi csoportok, köztük a gyermekek
+és fiatalok képességeinek fejlesztését az információs és kommunikációs technológiai eszközök lehetőségeinek
+kihasználásával.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: a Svájci Alap tervidőszak ütemezésének megfelelően folyamatos 2027. december 31-ig
+2.6. Tovább kell fejleszteni a gyermekek esélynövelő szolgáltatásainak infrastrukturális hátterét a kapacitásbővítés
+érdekében megjelenő pályázati felhívással. Különös tekintettel a sajátos nevelési igényű és a hátrányos helyzetű
+gyermekek szükségleteire, biztosítani kell a gyermekek egészséges személyiségfejlődésének kibontakozását
+segítő pedagógiai és kisgyermeknevelői tevékenységekhez szükséges tárgyi eszközök beszerzését és a gyermekek
+esélynövelő szolgáltatásait biztosító szakemberek továbbképzéseit és készségfejlesztéseit.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret és Helyreállítási és Ellenállóképességi Terv ütemezésének
+megfelelően, de legkésőbb 2025. december 31-ig
+2.7. Folytatni kell a hátrányos helyzetű tanulók iskolai előrehaladásának támogatásához szükséges, anyagi és
+tanulási támogatást nyújtó, komplex középiskolai, szakképzési és felsőoktatási Útravaló Ösztöndíjprogramokat.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: folyamatos
+2.8. Pályázati felhívás megjelentetésével folytatni kell a hátrányokkal küzdő családokban élő roma lányok végzettség
+nélküli iskolaelhagyásának csökkentése, foglalkoztathatóságuk megalapozása, továbbtanulási lehetőségeik
+támogatása céljából létrehozott programokat.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+
+2.9. Tovább kell fejleszteni a roma fiatalok sikeres diplomaszerzése, társadalmi szerepvállalásuk és közösségi
+aktivitásuk megerősítése érdekében a roma szakkollégiumi szolgáltatásokat, egyebek mellett digitális képzések
+kialakításával. Erősíteni kell a középiskolák és a szakkollégiumok közötti kapcsolatokat a továbbtanulás támogatása,
+az érettségizett romák arányának növelése érdekében az erre irányuló pályázati felhívás megjelentetésével.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret és a Svájci Alap tervidőszak ütemezésének megfelelően,
+de legkésőbb 2025. december 31-ig
+2.10. Folytatni kell a nemzetiségi pedagógusképzési ösztöndíjprogramot, kiemelt figyelemmel a roma nemzetiségi
+pedagógusképzésben részt vevő hallgatókra a szakmailag elhivatott, nemzetiségi pedagógus-utánpótlás
+biztosításának elősegítése érdekében.
+Felelős: nemzetiségpolitikáért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: folyamatos
+2.11. Meg kell vizsgálni annak a lehetőségét, hogy bevezetésre kerülhessen az általános iskola alsó tagozatos
+tanulóinak intézményi gyermekétkeztetésében a bölcsődés, óvodás gyermekek részére már biztosított
+kedvezményrendszer, továbbá vizsgálni szükséges azt, hogy javasolt-e bővíteni a jogosulti kört a családba fogadó
+gyám gyámsága alatt álló tanulókkal. Vizsgálandó továbbá annak lehetősége, hogy bővíteni lehessen a rendszeres
+gyermekvédelmi kedvezményre jogosult középiskolás tanulók intézményi gyermekétkeztetés térítésidíj-
+kedvezményét, továbbá vizsgálni szükséges azt, hogy javasolt-e bővíteni a jogosulti kört a családba fogadó gyám
+gyámsága alatt álló tanulókkal. A vizsgálat eredményéről jelentés készül a Kormány részére.
+Felelős: a gyermekek és az ifjúság védelméért felelős miniszter
+Határidő: jelentés elkészítése 2026. június 30-ig
+2.12. Meg kell vizsgálni az ingyenes szünidei gyermekétkeztetés jogosulti körének kiterjesztését a hátrányos,
+halmozottan hátrányos helyzetűnek nem minősülő, rendszeres gyermekvédelmi kedvezményre jogosult
+gyermekekre, valamint vizsgálni kell a családba fogadó gyám gyámsága alatt álló gyermekekre történő kiterjesztés
+lehetőségét is. A vizsgálat eredményéről jelentés készül a Kormány részére.
+Felelős: a gyermekek és az ifjúság védelméért felelős miniszter
+Határidő: jelentés elkészítése 2026. június 30-ig
+2.13. Folytatni kell a rászoruló 1–8. évfolyamos tanköteles korú gyermekek számára összeállított tanszercsomag
+éves, rendszeres juttatását.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, folyamatos
+2.14. Folytatni kell a végzettség nélküli iskolaelhagyás és lemorzsolódás megelőzését és csökkentését célzó
+intézkedéseket a Szakképzés 4.0 stratégiával összhangban. Ennek érdekében a helyi igények alapján támogatni
+szükséges a szakképző intézményeket a kompetenciafejlesztést folytató előkészítő évfolyamok (orientációs
+fejlesztés és dobbantó program), valamint a műhelyiskolai képzési forma minőségi, eredményes megvalósításában,
+illetve a korábbiak folytatásaként a tanulók alapkompetenciáinak és kulcskompetenciáinak mérésén alapuló, egyedi,
+illetve tanulócsoportban történő mentorált kompetenciafejlesztésben.
+Felelős: szakképzésért felelős miniszter
+Határidő: a Gazdaságfejlesztési és Innovációs Operatív Program Plusz (a továbbiakban: GINOP Plusz)
+Éves Fejlesztési Keret ütemezésének megfelelően, folyamatos
+2.15. Folytatni kell az Apáczai ösztöndíjprogram megvalósítását a Szakképzés 4.0 stratégiával összhangban, mely
+speciális támogatás a rászorultsági helyzet és jó tanulmányi eredmény nyomán, pályázat útján adható.
+Felelős: szakképzésért felelős miniszter
+Határidő: a GINOP Plusz program tervidőszak ütemezésének megfelelően, folyamatos
+2.16. Folytatni kell a tanórán kívüli formális és informális tanulási programok megvalósítását.
+Felelős: köznevelésért felelős miniszter
+Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+
+2.17. Folytatni szükséges az oktatási környezet fejlesztését, a korszerű, többek között digitális eszközök
+alkalmazásával, valamint 700 feladatellátási hely tekintetében a diszkriminációellenes intézkedések megerősítésével
+és elterjesztésével a jelentősen átlag alatti teljesítményt nyújtó köznevelési intézmények eredményességének
+javítása érdekében.
+Felelős: köznevelésért felelős miniszter
+Határidő: a Helyreállítási és Ellenállóképességi Eszköz (a továbbiakban: RRF) és EFOP Plusz Éves Fejlesztési
+Keret ütemezésének megfelelően, de legkésőbb 2025. szeptember 30-ig
+2.18. Pályázati felhívás megjelentetésével folytatni kell az iskolai eredményesség javítása és a lemorzsolódás
+megelőzése érdekében az iskolai eredményesség mutatói alapján fejlesztésre szoruló, alacsonyan teljesítő
+intézményeket célzó beavatkozások megvalósítását, eredményes pedagógiai-módszertani beavatkozások
+kiterjesztését. Összhangban a köznevelési intézkedési tervben foglaltakkal, fejleszteni szükséges a pedagógiai-
+szakmai támogatást a lemorzsolódás megelőzését szolgáló korai jelző- és pedagógiai támogató rendszer
+adataira is támaszkodva. További pedagógiai-módszertani megerősítése szükséges a jelzőrendszer alapján
+azonosított tantárgyi, pedagógiai területeknek, a lemorzsolódással veszélyeztetett tanulókra vonatkozó feladatok
+értékelésének, a fenntartói szakmai ellenőrzés lebonyolításának. Kiemelt figyelemmel kell lenni az értékelési,
+mérési, ellenőrzési rendszerek tanulási és tudásmegosztási eszközként történő működésére, a mérési eredmények
+értelmezésével és hasznosíthatóságával kapcsolatos tudás további bővítésére.
+Felelős: köznevelésért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. szeptember 30-ig
+2.19. Folytatni kell a köznevelési intézmények felújítását, korszerűsítését és bővítését, valamint a nevelés-oktatáshoz
+szükséges eszközökkel történő ellátását a kevésbé fejlett régiókban a minőségi és befogadó oktatási környezet
+megteremtése érdekében.
+Felelős: köznevelésért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+2.20. Folytatni kell a köznevelési intézményekben a digitális eszközök használatához szükséges iskolai infrastruktúra
+fejlesztését (internet, helyi hálózat fejlesztése), beleértve az eszközök biztosítását (tantermi eszközpark fejlesztése,
+személyi használatra átadott eszközök), továbbá biztosítani kell az intézmények honlapjainak, mobilalkalmazásainak
+akadálymentesítését, a tanulók és a pedagógusok digitális kompetenciájának fejlesztését.
+Felelős: köznevelésért felelős miniszter
+informatikáért felelős miniszter
+Határidő: a Digitális Megújulás Operatív Program Plusz (a továbbiakban: DIMOP Plusz) tervidőszak
+ütemezésének megfelelően, valamint a Helyreállítási és Ellenállóképességi Terv ütemezésének
+megfelelően 2025. december 31-ig
+2.21. Fejleszteni kell a sajátos nevelési igényű gyermekek, tanulók együttnevelését támogató szolgáltatásokat, utazó
+gyógypedagógusi és utazó konduktori hálózatokat, eszközkölcsönzőket, utaztatási szolgáltatásokat. Szakmailag
+segíteni kell a pedagógiai szakszolgálatok munkáját, javítani kell az eszközellátottságot, a hozzáférhetőséget,
+valamint segíteni kell az új eljárások adaptálását. Mind a sajátos nevelési igényű, mind a pedagógiai szakszolgálati
+ellátásban részesülő gyermekek, tanulók esetében különös figyelmet kell fordítani a helyben nyújtott szolgáltatások
+fejlesztésére és bővítésére, a szolgáltatások magas színvonalú és egyenletes lefedettségére, valamint az egységes
+gyógypedagógiai, konduktív pedagógiai módszertani intézmények együttnevelő szerepének erősítésére. Folytatni
+kell továbbá a szakemberek továbbképzését.
+Felelős: köznevelésért felelős miniszter
+Határidő: a Helyreállítási és Ellenállóképességi Terv ütemezésének megfelelően, de legkésőbb
+2026. július 15-ig
+2.22. Támogatni kell a minőségi és eredményes felsőfokú oktatás és képzés egyenlő esélyű elvégzését a hátrányos
+helyzetű társadalmi csoportok számára szervezett mobilitási és mentorálási programokkal.
+Felelős: felsőoktatásért felelős miniszter
+Határidő: a GINOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, folyamatos
+2.23. Az orosz–ukrán háború eredményezte menekültügyi kihívásokra tekintettel folytatni kell az érintett gyermekek
+– köztük a hátrányos helyzetű gyermekek – támogatását, köznevelésbe történő integrációjának biztosítását.
+Felelős: köznevelésért felelős miniszter, az orosz–ukrán háború elől Magyarországra menekülő
+személyekért felelős kormánybiztos bevonásával
+Határidő: folyamatos
+
+III. Ifjúsági ügyek, gyermekvállalás, családalapítás, életmód
+3.1. Meg kell vizsgálni annak a lehetőségét, hogy azok a kistelepülések, ahol nagyszámú nevelőszülői vagy
+gyermekotthoni férőhely működik, és ebből következően a településen élő gyermekek körében a gyermekvédelmi
+szakellátásban részesülők aránya magas, a köznevelési és egészségügyi feladatellátáshoz szükséges-e
+– és amennyiben igen, milyen módon – többlettámogatás nyújtása.
+Felelős: a gyermekek és az ifjúság védelméért felelős miniszter
+köznevelésért felelős miniszter
+egészségügyért felelős miniszter
+Határidő: jelentés elkészítése 2025. december 31-ig, ennek elfogadása esetén jogszabály-módosítási
+javaslat előkészítése 2027. december 31-ig
+3.2. Indokolt vizsgálni és ösztönözni annak lehetőségét, hogy a szolgáltatáshiányos településeken, illetve
+az elmaradott településrészeken javuljon az önkormányzatok által biztosított humán közszolgáltatásokhoz való
+hozzáférés, különös tekintettel a családokról, gyermekekről, fogyatékossággal élő személyekről, időskorúakról,
+szenvedélybetegekről, pszichiátriai betegekről és hajléktalan emberekről gondoskodó szociális alapszolgáltatás és
+gyermekjóléti alapellátás vonatkozásában.
+Felelős: a gyermekek és az ifjúság védelméért felelős miniszter
+szociálpolitikáért felelős miniszter
+területfejlesztésért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, összefoglaló dokumentumok elkészítése
+2026. december 31-ig
+3.3. Lehetővé kell tenni azon hátrányos helyzetű embereknek, akik nem rendelkeznek minimális digitális
+kompetenciával sem, hogy a mindennapi élethez, illetve a munkavégzéshez szükséges elemi szintű digitális
+kompetenciákat el tudják sajátítani.
+Felelős: informatikáért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: a DIMOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+3.4. Az irányadó dokumentumok (például ENSZ Egyezmény) figyelembevételével fejleszteni szükséges az átmeneti
+elhelyezést nyújtó családok átmeneti otthonait, különösképpen a külső férőhelyek számának növelésével
+a gyermekek családban való nevelkedésének elősegítése, illetve a családból történő kiemelésének elkerülése,
+továbbá a krízishelyzetben lévő családok esetében a család egységének megtartása érdekében.
+Felelős: a gyermekek és az ifjúság védelméért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+3.5. Erősíteni kell a helyi társadalom közösségfejlesztő tevékenységeit és közösségi aktivitásait a közterek„közösségi
+tér funkcióinak” bővítésével, melynek része a helyi kultúra, hagyományok, illetve egyéb, a helyi közösség által
+szervezett rendezvények lebonyolítására alkalmas térrészek kialakítása, fejlesztése, kapcsolódó eszközbeszerzések
+támogatása.
+Felelős: kultúráért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+3.6. Komplex bűnmegelőzési és reintegrációs programokat kell megvalósítani a társadalmi kohézió erősítése
+érdekében.
+Felelős: bűncselekmények megelőzéséért felelős miniszter
+Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+3.7. Pályázati felhívás megjelentetésével prevenciós célú kampányokat és foglalkozásokat kell szervezni
+az emberkereskedelem potenciális áldozatai, különösen a gyermekek, fiatal felnőttek – kiemelten
+a gyermekotthonból kikerülő fiatalok – felvilágosítása és tájékoztatása érdekében, továbbá szakemberek
+ismeretbővítése céljából. A célt több, a gyakorlatban már bevált módon el lehet érni, mint például
+a közösségimédia-felületek bevonásával vagy drámapedagógiai eszközök alkalmazásával. Emellett a védett
+szálláshelyeken speciális szolgáltatások biztosítását kell megszervezni.
+Felelős: rendészetért felelős miniszter
+Határidő: a Belső Biztonsági Alap (a továbbiakban: BBA) Plusz ütemezésének megfelelően, folyamatos
+
+3.8. Pályázati felhívás megjelentetésével tájékoztató tevékenységeket kell szervezni az emberkereskedelem
+veszélyének kitett felnőtteket célzó megelőzés lehetőségeiről, illetve áldozattá válásuk esetén a segítségkérés
+módjairól, valamint a keresleti oldalának csökkentése céljából.
+Felelős: rendészetért felelős miniszter
+Határidő: a BBA Plusz ütemezésének megfelelően, folyamatos
+3.9. Pilot programot kell megvalósítani az ismételt áldozattá válás megelőzése érdekében a védett szálláshelyekről
+kikerülő áldozatok helyzetének nyomon követésére, szükség esetén az áldozatok utógondozására.
+Felelős: rendészetért felelős miniszter
+családpolitikáért felelős miniszter
+Határidő: a Svájci Alap tervidőszak ütemezésének megfelelően, 2027. május 8-ig
+3.10. Folytatni kell a Magyarországon jogszerűen tartózkodó harmadik országbeli állampolgárokat érintő
+szolgáltatások fejlesztésére irányuló intézkedések megvalósítását, köztük az átmeneti védelemre jogosult
+Ukrajnából érkezők komplex támogatását, a lakhatás, munkavállalás, magyar nyelvi képzés, iskolai felzárkózás,
+az emberkereskedelem elleni küzdelem és az áldozatok védelme, valamint a kísérő nélküli kiskorúaknak nyújtott
+szolgáltatások területén.
+Felelős: idegenrendészetért és menekültügyért felelős miniszter
+a gyermekek és az ifjúság védelméért felelős miniszter
+Határidő: a Menekültügyi Migrációs és Integrációs Alap Plusz tervidőszak ütemezésének megfelelően,
+folyamatos
+3.11. Pályázati felhívás megjelenésével fejleszteni szükséges az esélyteremtési célú közösségi szolgáltató tereket,
+amelyek lehetőséget teremtenek arra, hogy a szolgáltatáshiányos, kisebb lélekszámú településeken élő gyermekes
+családok és 25 év alatti fiatalok számára is elérhetővé váljanak a felzárkózást segítő, egymásra épülő programok,
+miközben hozzájárulnak a helyi közösségek megerősítéséhez és a szolgáltatások biztosításához szükséges szakmai,
+szakmaközi együttműködések kialakításához.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+IV. Foglalkoztatás, munkavállalás, felnőttképzés, szociális gazdaság
+4.1. Pályázati felhívás megjelentetésével folytatni kell a roma nőket célzó foglalkoztatási programokat a roma nők
+munkaerőpiaci helyzetének javítása és társadalmi megbecsülésének erősítése érdekében. A foglalkoztatási területek
+kiválasztásánál előnyben kell részesíteni azokat a szektorokat, amelyekben a roma nők foglalkoztatása jelentős
+társadalmi igényeket szolgál ki, és a munkavégzés nyomán a közösség megbecsülését eredményezi.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+4.2. Folytatni kell a vidéki környezetben élő, hátrányos helyzetű családok esélyteremtését és megélhetését
+támogató mezőgazdasági jellegű programokat.
+Felelős: társadalmi felzárkózásért felelős miniszter
+közfoglalkoztatásért felelős miniszter
+Határidő: folyamatos
+4.3. Pályázati felhívás megjelenésével támogatni kell a leghátrányosabb helyzetű, a legfeljebb befejezett általános
+iskolai végzettséggel vagy iskolai végzettséggel nem rendelkező regisztrált munkanélküliek, álláskeresők vagy
+inaktív munkavállalók – beleértve a roma munkavállalók – körében a legalapvetőbb kompetenciafejlesztést,
+általános iskolai végzettség megszerzését, ennek érdekében folytatni kell a tanulást segítő, mentoráló programokat.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+
+4.4. Pályázati felhívás megjelentetésével biztosítani kell a közfoglalkoztatottak részére az olyan személyre
+szabott komplex humánszolgáltatásokat, valamint támogatott képzéseket, amelyek segítségével az egyéni
+szükségletekre reagálva azonosíthatók a nyílt munkaerőpiaci foglalkoztatást gátló hiányosságok, és amelyek alapján
+megfogalmazhatók a szükséges készségfejlesztések és egyéb intézkedések lépései.
+Felelős: közfoglalkoztatásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+4.5. Törekedni kell a kedvezményezett térségekben a közfoglalkoztatás biztosítására azon személyek számára, akik
+a nyílt munkaerőpiacra rövid időtávon belül nem vezethetők vissza. A közfoglalkoztatás eszközeivel is támogatni
+szükséges a legnehezebb helyzetű településeken az esélyteremtési programok megvalósítását.
+Felelős: közfoglalkoztatásért felelős miniszter
+Határidő: folyamatos
+4.6. Aktív munkaerőpiaci programot kell megvalósítani a nem dolgozó és nem tanuló fiatalok munkaerőpiaci
+helyzetének javítására.
+Felelős: foglalkoztatáspolitikáért felelős miniszter
+Határidő: a GINOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+4.7. Folytatni kell a munkaerőpiaci szempontból hátrányos helyzetű álláskeresők és inaktívak foglalkoztathatóságát,
+munkaerőpiaci esélyeit javító aktív munkaerőpiaci programokat.
+Felelős: foglalkoztatáspolitikáért felelős miniszter
+Határidő: a GINOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+4.8. Pályázati felhívás megjelentetésével biztosítani kell a hátrányos helyzetű emberek hozzáférését az egész
+életen át tartó tanulást célzó szolgáltatásokhoz.
+Felelős: kultúráért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+4.9. Pályázati felhívás megjelentetésével támogatni szükséges a területileg célzott, négy legkevésbé fejlett
+régió hátrányos helyzetű, aktív korú népesség foglalkoztatását – beleértve a roma emberek foglalkoztatását –
+és munkaerőpiacra történő belépését támogató szakmai, módszertani, ügyviteli szolgáltatások nyújtását,
+vállalkozások, társadalmi vállalkozások létrehozását és beindítását.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+4.10. Törekedni kell a hátrányos helyzetű munkanélküliek foglalkoztatására lehetőséget adó, a közfoglalkoztatás
+alapjain szerveződő, önkormányzati tagsággal rendelkező szociális szövetkezetek és nonprofit gazdasági társaságok
+támogatására és ösztönzésére, segítve a foglalkoztatási képességük megtartását, lehetőségek szerinti növelését,
+önfenntartó piaci szereplővé válását.
+Felelős: közfoglalkoztatásért felelős miniszter
+foglalkoztatáspolitikáért felelős miniszter
+Határidő: folyamatos
+4.11. A Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése érdekében a rendelkezésre
+álló forrás függvényében folytatni szükséges a kijelölt településeken a gazdaságélénkítő programot, és ösztönözni
+kell a felzárkózó településeken a helyi gazdaság élénkítését. Az elsődleges munkaerőpiacra való bekapcsolódás
+lehetőségeinek növelése érdekében tanulmány készítése szükséges a felzárkózó településeken a közösségi
+közlekedéshez való hozzáférés lehetőségeiről.
+Felelős: közfoglalkoztatásért felelős miniszter, a diagnózis alapú felzárkózási stratégia végrehajtásáért
+felelős miniszterelnöki biztos bevonásával
+Határidő: folyamatos, elemzés készítése 2027. június 30-ig
+
+4.12. Folytatni kell a térségi és települési esélyteremtéshez kapcsolódó helyi gazdaságfejlesztési intézkedéseket:
+a társadalmi vállalkozások, elsődlegesen a helyi önkormányzat tagságával rendelkező szociális szövetkezetek
+a helyi adottságokhoz igazodó termelő-, feldolgozó-, szolgáltató vállalkozási tevékenységének támogatásával,
+valamint helyi termék-előállításhoz, mezőgazdasági termékek térségi piacra jutását elősegítő, termelést követő
+műveletekhez, kezeléshez kapcsolódó közösségi, önkormányzati többségi tulajdonú agrárlogisztikai infrastruktúra
+kialakításával.
+Felelős: területfejlesztésért felelős miniszter
+agrárpolitikáért felelős miniszter
+vidékfejlesztésért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: a Közös Agrárpolitika Stratégiai Terv megvalósításának megfelelően, folyamatos
+4.13. Pályázati felhívás megjelentetésével szükséges létrehozni olyan kis létszámú foglalkoztatási helyszíneket, ahol
+hátrányos helyzetű – köztük roma – munkavállalók szakmai képzést és felkészítést kapnak, miközben egzisztenciális
+biztonságot és személyre szabott támogatást nyújtanak számukra a munkaerőpiaci beilleszkedéshez. A komplex,
+területileg célzott foglalkoztatási forma szakmai, módszertani és ügyviteli szolgáltatásokkal segíti a foglalkoztatási
+lehetőségek bővítését.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+V. Területi egyenlőtlenségek, településfejlesztés – lakhatási és energiaszegénység –
+környezettudatosság, környezetvédelem
+5.1. Kiemelt figyelmet kell fordítani a Nemzeti Fejlesztés 2030 – Országos Fejlesztési és Területfejlesztési
+Koncepcióban (a továbbiakban: OFTK) meghatározott fejlesztési célok és prioritások megvalósulásának
+felülvizsgálata során a szegénység csökkentését, a társadalmi esélyteremtést célzó ágazati beavatkozások
+összhangjának, területi szempontjainak áttekintésére és jövőbeli tervezésére.
+Felelős: területfejlesztésért felelős miniszter
+Határidő: az OFTK felülvizsgálatához igazodóan
+5.2. Pályázati felhívás megjelentetésével folytatni kell a telepszerű lakhatással járó társadalmi problémák kezelésére
+a komplex telepprogramokat a nem városi jellegű településeken. A beavatkozások célja a szegregált társadalmi
+környezetben, veszélyeztetett lakhatási helyzetben élő emberek, illetve közösségek esélyteremtésének és
+integrációjának segítése humán fejlesztésekkel és infrastrukturális beruházásokkal.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+5.3. Folytatni kell a városi jellegű településeken a szociális városrehabilitációs intézkedéseket az érintett, települési
+szövetbe ágyazott városrészek meglévő funkcióinak fejlesztésével, új gazdasági, szociális, közösségi és közterületi
+funkciók kialakításával, valamint szükség esetén a településtesttől elkülönült telepek felszámolásával, az ott
+élők integrációjának segítésével. Továbbra is fontos a közösségformálást erősítő terek, létesítmények fejlesztése,
+beleértve új közösségi funkciók létrehozását, meglévők megerősítését. Kiemelt figyelmet kell fordítani a lakhatás
+legalizálására, a lakhatási biztonság növelésére, valamint a lakhatási körülmények infrastrukturális feltételeinek
+javítására, annak érdekében, hogy növekedjen az új vagy korszerűsített szociális lakások kapacitása és az integrált
+területekre költözők száma.
+Felelős: lakáspolitikáért felelős miniszter
+területfejlesztésért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: a TOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, folyamatos
+5.4. A lakhatási beavatkozások tervezése érdekében a Központi Statisztikai Hivatal bevonásával nyomon kell követni
+– a rendszeres adatfelvételek, illetve adminisztratív adatforrások felhasználásával – a szociálisbérlakás-állomány éves
+alakulását, részletes területi bontásban (vármegyékre, fejlesztendő és komplex programmal fejlesztendő járásokra).
+Szükséges a nyomon követés eredményei, statisztikai adatai nyilvánosságának megteremtése.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: 2026. június 30.
+
+5.5. Szükséges folytatni az EFOP Plusz 3. és 7., valamint a TOP Plusz 1. és 3. prioritás deszegregációs célkitűzéseinek
+nyomon követését és értékelését. Folytatni kell a megkezdett rendszeres adatgyűjtést és a rendszeres jelentések
+összeállítását.
+Felelős: területfejlesztésért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: 2025. szeptember 30., majd azt követően évente
+5.6. Gondoskodni kell a bérlakáspiacon tapasztalható diszkriminációs jelenségek, különösen az etnikai
+alapú diszkrimináció jelenségeinek feltárására vonatkozó kutatás elkészítéséről. A kutatás tapasztalatai
+nyomán javaslatokat kell megfogalmazni a lehetséges szakpolitikai beavatkozásokat illetően. Az eredmények
+nyilvánosságáról is gondoskodni kell.
+Felelős: lakáspolitikáért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: 2026. március 31.
+5.7. Folytatni kell a „Felzárkózó települések” hosszú távú programját az oktatással, lakhatással, gazdaságfejlesztéssel
+és energetikával kapcsolatos beavatkozásokon keresztül, annak érdekében, hogy hosszú távon is ható, modellértékű
+megoldásokkal megakadályozható legyen a leghátrányosabb helyzetű, növekvő népességű települések társadalmi
+leszakadása.
+Felelős: társadalmi felzárkózásért felelős miniszter, a diagnózis alapú felzárkózási stratégia
+végrehajtásáért felelős miniszterelnöki biztos bevonásával
+energiapolitikáért felelős miniszter
+Határidő: az RRF tervidőszak ütemezésének megfelelően az EFOP Plusz Éves Fejlesztési Keret tervidőszak
+ütemezésének megfelelően, folyamatos
+5.8 Szükséges megvizsgálni, hogy azok a közösségi lakhatás alapelveire megfogalmazott javaslatok, amelyek
+az MR Közösségi Lakásalap működésének, valamint az RRF-3.3.1-22 projekt keretében létrehozott szociális
+bérlakások lakásügynökségi működtetésének vizsgálata kapcsán készültek, hogyan vezethetők be a gyakorlatban
+a bérlakások működtetési feladatainak ellátása, fenntarthatósága és a felzárkózási programokkal érintett célcsoport
+hozzáférhetősége vonatkozásában.
+Felelős: társadalmi felzárkózásért felelős miniszter, a diagnózis alapú felzárkózási stratégia
+végrehajtásáért felelős miniszterelnöki biztos bevonásával
+Határidő: 2026. szeptember 30.
+5.9. Előnyben kell részesíteni a Közös Agrárpolitika Stratégiai Terv keretében meghirdetésre kerülő beruházási
+pályázatoknál azt a pályázót, aki a Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése
+érdekében szükséges fejlesztési programcsomagról szóló 1403/2019. (VII. 5.) Korm. határozat, a „Felzárkózó
+települések” hosszú távú programjának megalapozásáról szóló 1404/2019. (VII. 5.) Korm. határozat, a „Felzárkózó
+települések” és a gazdaságélénkítő program folytatása érdekében teendő további intézkedésekről szóló
+1186/2020. (IV. 28.) Korm. határozat vagy a Magyarország egyes területei közötti gazdasági egyenlőtlenség
+csökkentése érdekében szükséges fejlesztési program, továbbá a „Felzárkózó települések” hosszú távú
+programjának kiterjesztéséről szóló 1057/2021. (II. 19.) Korm. határozat alapján besorolt településen kívánja
+a fejlesztését megvalósítani.
+Felelős: agrárpolitikáért felelős miniszter
+vidékfejlesztésért felelős miniszter
+Határidő: 2027. december 31.
+5.10. Folytatni kell a leginkább rászorulók anyagi nélkülözését enyhítő programokat, amelyek célja alapvető
+élelmiszerek, egyéb alapvető fogyasztási cikkek rendszeres juttatása alacsony jövedelműek vagy jövedelemmel
+nem rendelkezők számára; melegétkezés biztosítása hajléktalan emberek részére a társadalmi esélyteremtést és
+a szolgáltatásokhoz való hozzáférést segítő kísérőintézkedések biztosításával.
+Felelős: szociálpolitikáért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+
+VI. Testi-lelki egészség, egészségügyi ellátás
+6.1. Folytatni kell a helyi önkormányzatok egészségügyi alapellátási szolgáltatásainak helyet adó épületek
+korszerűsítését, felújítását, átalakítását, bővítését, indokolt esetben újak létesítését annak érdekében, hogy
+az egyes településeken minden lakos számára hozzáférhetővé váljanak a megfelelő infrastruktúrával rendelkező
+egészségügyi szolgáltatások. Az alapellátáshoz sorolt szolgáltatások fejlesztésének keretében a háziorvosi
+szolgálatnak – felnőtt, gyermek, vegyes praxis –, fogorvosi szolgálatnak, alapellátáshoz kapcsolódó fogorvosi
+ügyeleti ellátásnak és az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 6/B. § (2) bekezdés a) pontja
+szerinti megállapodás szerinti önkormányzati feladatellátáshoz kapcsolódóan védőnői szolgáltatásoknak helyet
+adó épületek, épületrészek fejlesztésére, új építésére, továbbá a nem iskolai épületekben működő iskolaorvosi
+rendelők infrastruktúra-fejlesztésére is lehetőséget kell adni. Szükséges továbbá a telemedicina-ellátások fejlesztése
+az érintett területeken.
+Felelős: egészségügyért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+6.2. Folytatni kell a szervezett gyermekszemészeti szűrések megvalósítását, kiemelt figyelemmel a hátrányos
+helyzetű gyermekek hosszabb és egészségesebb életének biztosítására.
+Felelős: társadalmi felzárkózásért felelős miniszter, a diagnózis alapú felzárkózási stratégia
+végrehajtásáért felelős miniszterelnöki biztos bevonásával
+Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+6.3. Meg kell erősíteni a tervezett gyermekvállalásra, valamint a várandósságra irányuló intervenciót a koraszülések,
+a csecsemőhalálozás és a kis súlyú újszülöttek számarányának csökkentése érdekében, főként a halmozottan
+hátrányos helyzetű régiókban.
+Felelős: társadalmi felzárkózásért felelős miniszter, a diagnózis alapú felzárkózási stratégia
+végrehajtásáért felelős miniszterelnöki biztos bevonásával
+Határidő: az EFOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+6.4. Az anyagilag rászoruló személyek egészségi állapotának megőrzése, helyreállítása, a szükséges gyógyszerek,
+gyógyászati segédeszközök elérése érdekében törekedni kell arra, hogy a közgyógyellátásra valamennyi rászoruló
+személy jogosulttá váljon.
+Felelős: szociálpolitikáért felelős miniszter
+Határidő: folyamatos
+6.5. Biztosítani kell a sportolásra és testmozgásra alkalmas terek és szolgáltatások elérhetőségét minden generáció
+számára, szem előtt tartva a sport, az örömteli fizikai aktivitás és az egészségtudatos életmód jelentőségét
+a hátrányos helyzetű és roma közösségek életében, kiemelten a gyermekek és fiatalkorúak fejlődésében. Folytatni
+kell a helyi sport- és szabadidős infrastruktúra fejlesztését.
+Felelős: sportpolitikáért felelős miniszter
+Határidő: folyamatos
+6.6. Folytatni kell a HISZEK Benned Sport Programot a kiemelt vidéki helyszíneken és kisebb településeken is,
+a minél szélesebb társadalmi rétegek sportba való bevonása érdekében.
+Felelős: sportpolitikáért felelős miniszter
+Határidő: folyamatos
+6.7. Megfelelő kereteket kell teremteni a sportiskolai rendszer továbbfejlesztésével arra, hogy valamennyi
+tanköteles utánpótláskorú sportoló – ideértve a hátrányos helyzetű gyermekeket is – a köznevelési kötelezettség és
+sporttevékenység összehangolásával kettős karrieralternatíva mentén sikerrel érvényesüljön mind a köznevelés és
+később a felsőoktatás, mind a sport területén.
+Felelős: sportpolitikáért felelős miniszter
+Határidő: folyamatos
+6.8. Folytatni kell a Vándortábor Programot, kiemelten minél több hátrányos és halmozottan hátrányos helyzetű
+gyermek bevonása érdekében. A programon keresztül cél a természetjárás, a sport, valamint az azon keresztül
+megvalósuló egészség- és környezettudatos életmód támogatása.
+Felelős: aktív Magyarországért felelős miniszter
+Határidő: folyamatos
+6.9. Folytatni kell a hátrányos helyzetű gyermekek aktív osztálykirándulását a Természetben Egyenlően programban.
+Felelős: aktív Magyarországért felelős miniszter
+Határidő: folyamatos
+
+6.10. Támogatni kell az Aktív Magyarország Programban a szociálisan hátrányos helyzetű lakosság aktív életmódra
+való ösztönzését és élményalapú fizikai aktivitását.
+Felelős: aktív Magyarországért felelős miniszter
+Határidő: folyamatos
+6.11. Biztosítani kell a sportolásra és testmozgásra alkalmas terek kialakítását, elérhetőségét a hátrányos helyzetű
+településeken, minél nagyobb számban az országos szabadidő sportinfrastruktúra-fejlesztési programokban,
+különösen Országos Futópálya-építési Program, Országos Bringapark Program és az Országos Görpark Programokon
+keresztül.
+Felelős: aktív Magyarországért felelős miniszter
+Határidő: folyamatos
+VII. Roma identitás, közösségépítés, szemléletformálás, jogérvényesítés
+7.1. Hangsúlyosabban kell megjeleníteni a roma népesség történelmét, társadalomtörténetét a felnövekvő
+generációk szemléletformálása, társadalmi együttélésre, kölcsönös megértésre nevelése érdekében. Be kell mutatni
+a roma kulturális értékeket a köznevelésben, valamint fejleszteni szükséges a roma nemzetiségi oktatást.
+Felelős: köznevelésért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: folyamatos
+7.2. Támogatni kell a roma nemzetiségi képviselet, az országos, helyi és területi roma önkormányzatok működését
+és átvállalt közfeladatainak ellátását, az önkormányzatok által fenntartott nemzetiségi oktatási és kulturális
+intézményeket. Fejleszteni kell a roma nemzetiségi önkormányzatokat és roma szervezeteket annak érdekében,
+hogy feladataikat minél hatékonyabban tudják ellátni, és be tudjanak kapcsolódni a helyi és tágabb közösségi
+életbe, tevékenységük a szélesebb nyilvánosság számára is láthatóvá váljon.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: folyamatos
+7.3. Együtt kell működni a roma közösség életében jelentős szerepet játszó civil szervezetekkel, helyi roma és nem
+roma felekezetekkel (egyház, vallási egyesület, egyéb közösség stb.), melynek célja az érintett felzárkóztatni kívánt
+közösségek rendszeres, időszakos tájékoztatása a jogszabályi változásokról, azok alkalmazásáról, értelmezéséről;
+az ágazati közigazgatás színtereinek és feladatkörének ismertetése, ezáltal az ügyintézés megkönnyítése,
+a mindennapokban hasznos és elengedhetetlen, az agrárium, valamint a környezet- és természetvédelem
+témakörét érintő információk, módszerek, megoldások bemutatása, gyakorlatban történő alkalmazása.
+Felelős: agrárpolitikáért felelős miniszter
+vidékfejlesztésért felelős miniszter
+egyházakkal való kapcsolattartás koordinációjáért felelős miniszter
+társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter
+természetvédelemért felelős miniszter
+környezetvédelemért felelős miniszter
+Határidő: folyamatos
+7.4. Támogatni kell a Vármegyei Esélyteremtő Paktumok, a Szolgáltatási Út Térképek, illetve Helyi
+Esélyegyenlőségi Programok által feltárt szolgáltatáshiányokra válaszoló intézkedések megvalósítását a szociális
+alapszolgáltatásokhoz és gyermekjóléti alapellátásokhoz kapcsolódó szemléletformáláson, a társadalmi befogadást,
+társadalmi kohéziót és identitást, munkaerőpiaci kompetenciákat, és együttműködések erősítését célzó közösségi,
+egészségfejlesztési és prevenciós programok, valamint szemléletformáló tevékenységek szervezésén keresztül.
+Felelős: területfejlesztésért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+gyermek- és ifjúságpolitikáért felelős miniszter
+a gyermekek és az ifjúság védelméért felelős miniszter
+szociálpolitikáért felelős miniszter
+egészségbiztosításért felelős miniszter
+köznevelésért felelős miniszter
+kultúráért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+
+7.5. Támogatni kell a roma nemzetiségi kultúrát, a roma nyelv és kulturális hagyományok ápolását, megőrzését
+és megjelenítését a diszkrimináció elleni küzdelem, a kölcsönös szemléletformálás és a különféle kulturális
+hagyományokkal rendelkező csoportok közötti együttműködés erősítése érdekében. Közös kulturális
+tevékenységek támogatásával elő kell segíteni a roma és nem-roma interkulturális párbeszédet.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+VIII. Az MNTFS 2030 megvalósításának intézményrendszere, hazai és Kárpát-medencei partnerség
+8.1. Erősíteni kell az MNTFS 2030 partnerségi rendszerét az esélyteremtési szakpolitika nyilvánosságának
+biztosítására, törekvéseinek és eredményeinek megismertetésére, társadalmasítására, a szakterület működési és
+fejlesztési kérdéseinek széles körű áttekintésére, az országos és területi, illetve helyi célkitűzések összehangolására.
+Folytatni kell a Roma Platform fórumsorozatot.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az Európai Unió Jogok, Egyenlőség és Polgárság program (CERV) ütemezésének megfelelően,
+folyamatos
+8.2. Folytatni kell az esélypolitika térségi együttműködési fórumaként létrehozott vármegyei felzárkózási fórumok
+működésének támogatását, szakpolitikai megerősítését, a vármegyei és az országos, valamint a területi és helyi
+fejlesztések összhangjának erősítését.
+Felelős: területfejlesztésért felelős miniszter
+társadalmi felzárkózásért felelős miniszter
+Határidő: a TOP Plusz tervidőszak ütemezésének megfelelően, folyamatos
+8.3. Pályázati felhívás megjelentetésével erősíteni kell a nemzetközi – ezen belül a Kárpát-medencei – esélypolitikai
+tapasztalatcserét, az egyes országokban hasonló, a szegénységet, a roma népességet érintő társadalmi problémák
+mérését, kezelését, a beavatkozások nyomon követését illető módszertani együttműködéseket.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+IX. Az MNTFS 2030 nyomon követése, monitoring
+9.1. Pályázati felhívás megjelentetésével fejleszteni kell az MNTFS 2030 nyomon követési és értékelési rendszerét,
+az esélyteremtési beavatkozások hatékonyságának és fenntarthatóságának vizsgálatát. Kiemelt figyelmet kell
+fordítani az MNTFS 2030 indikátorrendszerének kialakítására, karbantartására, folyamatos frissítésére, a nyomon
+követés szempontjából alapvető vizsgálatok, kutatások végrehajtására.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+9.2. Értékelni kell az MNTFS 2030 megvalósításának félideje során, hogy a tervezett beavatkozások milyen
+mértékben érik el a hatékonyságukat. A felülvizsgálatnak ki kell terjednie a beavatkozások célcsoportokra
+gyakorolt hatásaira, a társadalmi esélyteremtés terén elért eredményekre. A felülvizsgálat során különös figyelmet
+kell fordítani azokra a területekre, ahol új kihívások merültek fel. Széles körű tájékoztatást szükséges biztosítani
+a munkafolyamatok előrehaladása kapcsán.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: 2026. december 31.
+9.3. A Központi Statisztikai Hivatal bevonásával fejleszteni kell a statisztikai adatgyűjtéseket a szegénységben
+és társadalmi kirekesztettségben élők életkörülményeiről, valamint a különböző hátrányos helyzetű csoportok
+ellátásairól annak érdekében, hogy vizsgálható legyen a szegénység továbbörökítésének kérdése, biztosított legyen
+az intézkedések célzottságának és eredményeinek nyomon követése, értékelése.
+Felelős: közigazgatás-fejlesztésért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+
+9.4. Fejleszteni kell az esélypolitikai háttérintézmény szakmai tevékenységét. Ki kell alakítani az esélyteremtési
+fejlesztések területi szintű koordinációját, valamint a beavatkozások szakmai módszertani ellenőrzési és
+monitoringrendszerét. Folytatni kell a kiemelt jelentőségű fejlesztési programok végrehajtásának szakmai és
+módszertani támogatását, szakemberek továbbképzését, valamint projekt-nyomonkövető rendszer működtetését.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: az EFOP Plusz Éves Fejlesztési Keret ütemezésének megfelelően, de legkésőbb
+2025. december 31-ig
+9.5. Átfogó értékelést kell készíteni a „Felzárkózó települések” programjáról, amelynek során kiemelt figyelmet kell
+fordítani a program monitoring- és értékelési tevékenységeire. Az értékelés megalapozhatja a program további
+kereteit és finanszírozási lehetőségeit.
+Felelős: társadalmi felzárkózásért felelős miniszter, a diagnózis alapú felzárkózási stratégia
+végrehajtásáért felelős miniszterelnöki biztos bevonásával
+Határidő: 2027. december 31.
+9.6. Kiemelt figyelmet kell fordítani a nyilvánosság, a partnerszervezetek, a partnerségi fórumok rendszeres
+tájékoztatására, bevonására a monitoringfolyamatba.
+Felelős: társadalmi felzárkózásért felelős miniszter
+Határidő: folyamatos
+9.7. Biztosítani kell a szegregált területek monitorozására szolgáló országos szegregátumtérkép webes felületének
+működését.
+Felelős: társadalmi felzárkózásért felelős miniszter
+közigazgatás-fejlesztésért felelős miniszter
+területfejlesztésért felelős miniszter
+Határidő: folyamatos
