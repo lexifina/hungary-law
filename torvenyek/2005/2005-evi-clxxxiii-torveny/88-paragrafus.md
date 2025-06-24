@@ -50,7 +50,7 @@
 
 vonatkozó részletes szabályokat,
 
-21. az egységes biztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint a felügyeleti tevékenységre vonatkozó részletes szabályokat,
+21. az egységes biztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint a felügyeleti tevékenységre, a hálózati műszaki, forgalmi és biztonsági szabályzatok, utasítások, valamint azok módosításának jóváhagyására és kockázatértékelésének elkészítésére, a közlekedési hatóság ellenőrzésére, valamint az annak során történő közreműködésre vonatkozó részletes szabályokat,
 
 22. a vasutak kölcsönös átjárhatóságának és az ezzel kapcsolatos engedélyezési eljárások, valamint a vasúti pályahálózat nyilvántartása vezetésének részletes szabályait,
 
@@ -169,6 +169,8 @@ rendeletben állapítsa meg.
 45. vasúti rendszer, a vasúti alrendszer és rendszerelem bevezetésével, módosításával és üzemeltetésével kapcsolatos kockázati besorolások rangsorolására, a kockázatértékelés módszertanára, a biztonságintegritás szintjére vonatkozó nemzeti értékek meghatározására és a rendelkezésre állással kapcsolatos követelményeket
 
 46. a vasúti egyes kocsi teherfuvarozás állami támogatási program részletes feltételeit az államháztartásért felelős miniszterrel egyetértésben, valamint a támogatási program lebonyolítását végző szervezet kijelölését
+
+47. a 28/A. §-ban meghatározott feladat ellátásáért felelős szervezet kijelölését, a vasúti pályahálózat minőségi követelményei megvalósulásának és fennállásának vonatkozásában a szervezet feladataira, minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat
 
 rendeletben állapítsa meg.
 

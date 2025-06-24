@@ -1,6 +1,6 @@
 3/B. § (1) A közlekedésért felelős miniszter (a továbbiakban: miniszter) készíti elő a vasúti közlekedéspolitikát és a vasúti fejlesztési koncepciót, a vasúti pályahálózati (infrastruktúra) fejlesztési stratégiát és szervezi ezek végrehajtását, az országos jelentőségű vasútvonalak fenntartására és üzemeltetésére gazdasági társaságokat alapít vagy jelöl ki.
 
-(2) A miniszter biztosítja a vasúti pályahálózat működtetését végző társaság, valamint a nem független pályahálózat-működtető alapvető feladatainak ellátását végző gazdasági társaság működését és megköti a pályahálózat-működtetési szerződéseket.
+(2) A miniszter biztosítja a vasúti pályahálózat működtetését végző társaság, valamint a nem független pályahálózat-működtető alapvető feladatainak ellátását végző szervezet működését és megköti a pályahálózat-működtetési szerződéseket.
 
 (3) A miniszter felel a vasútbiztonság fenntartásáért és fejlesztéséért, továbbá a vasúti balesetek megelőzésének érdekében – figyelemmel a műszaki és tudományos fejlődésre – nyílt és megkülönböztetéstől mentes, rendszerszintű megközelítésű vasútbiztonsági szabályrendszer meghatározásáért és érvényesítéséért, valamint gondoskodik a vasúti közlekedés hatósági feladatainak ellátása útján a biztonsági jelentés közzétételéről és az Európai Bizottság (a továbbiakban: Bizottság) részére történő elküldéséről.
 

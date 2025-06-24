@@ -14,7 +14,7 @@ d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a 
 
 e) a vasúti járművek és a vasúti járműre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 
-f) a vasúti járművek nyilvántartásának, az országos vasúti pályahálózat nyilvántartásának és a 1300/2014/EU rendelet szerinti eszközleltár vezetése, valamint a 1300/2014/EU rendelet szerinti hozzáférhetőségi adatok gyűjtése, karbantartása és cseréje,
+f) a vasúti járművek és járműtípusok nyilvántartásának, az országos vasúti pályahálózat nyilvántartásának és a 1300/2014/EU rendelet szerinti eszközleltár vezetése, valamint a 1300/2014/EU rendelet szerinti hozzáférhetőségi adatok gyűjtése, karbantartása és cseréje,
 
 g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kiadását megelőző vizsgálata,
 
@@ -50,7 +50,7 @@ v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet a fe
 
 (2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
 
-(3) A vasúti közlekedési hatóság feladat- és hatáskörébe tartozó ügyekben a kérelem szóban nem terjeszthető elő. A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. A műszaki engedélyezési eljárásra irányuló kérelmet a közlekedési hatósághoz kell benyújtani. A hatóság a vasúti járművek forgalomba hozatali engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott, a nemzeti vasúti jármű-nyilvántartásba történő adatfelvételi eljárásokon kívül írásban tart kapcsolatot az ügyféllel és az eljárásban részt vevőkkel. A vasúti infrastruktúra engedélyezési eljárásaiban a nagy terjedelmű tervek, dokumentumok benyújtása az elektronikus formán túl legalább egy példányban papíralapon is kötelező.
+(3) A vasúti közlekedési hatóság feladat- és hatáskörébe tartozó ügyekben a kérelem szóban nem terjeszthető elő. A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. A műszaki engedélyezési eljárásra irányuló kérelmet a közlekedési hatósághoz kell benyújtani. A hatóság a vasúti járművek forgalomba hozatali engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott, a nemzeti vasúti jármű-nyilvántartásba történő adatfelvételi eljárásokon kívül írásban tart kapcsolatot az ügyféllel és az eljárásban részt vevőkkel. A vasúti infrastruktúra, a vasúti járművek és járműtípusok engedélyezési eljárásaiban a nagy terjedelmű tervek, dokumentumok benyújtása az elektronikus formán túl legalább egy példányban papíralapon is kötelező.
 
 (4) Az ügyfél a közlekedési hatóság felhívására köteles a szakértői vizsgálatokban közreműködni.
 

@@ -41,3 +41,5 @@ j) a 2012/34/EU európai parlamenti és tanácsi irányelv 11. cikke szerinti ga
 k) az uniós vasúti rendszernek a fogyatékossággal élő és a csökkent mozgásképességű személyek általi hozzáférhetőségével kapcsolatos átjárhatósági műszaki előírásokról szóló, 2014. november 18-i 1300/2014/EU bizottsági rendelet,
 
 l) az 1300/2014/EU rendeletnek az eszközleltár tekintetében a hozzáférhetőség korlátainak azonosítása, a felhasználók tájékoztatása, valamint a hozzáférhetőséggel kapcsolatos előrelépés figyelemmel kísérése és értékelése céljából történő módosításáról szóló, 2019. május 16-i, (EU) 2019/772 bizottsági végrehajtási rendelet.
+
+m) az (EU) 2016/797 európai parlamenti és tanácsi irányelv alapján a vasúti járművek és a vasúti járműtípusok engedélyezési eljárására vonatkozó gyakorlati szabályok megállapításáról szóló, 2018. április 4-i (EU) 2018/545 bizottsági végrehajtási rendelet.

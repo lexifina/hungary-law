@@ -8,6 +8,6 @@ b) a vasúti közlekedés biztonságával összefüggő vasúti társasági elő
 
 a biztonságirányítási rendszerébe illeszkedő szabályzatokban, utasításokban (a továbbiakban: hálózati műszaki, forgalmi és biztonsági szabályzatok, utasítások) állapítja meg.
 
-(3) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
+(3) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat, valamint azok módosítását a pályahálózat-működtető és a vasúti társaság a közlekedési hatóságnak jóváhagyásra megküldi.
 
 (4) A hálózati műszaki, forgalmi és biztonsági szabályzatokat, utasításokat a közlekedési hatóság a jóváhagyás során a vasútüzemi működés körében alkalmazandó jogszabályoknak, a vasúti műszaki előírásoknak való megfelelőség, valamint a vasúti közlekedés biztonságára gyakorolt kockázata alapján vizsgálja.

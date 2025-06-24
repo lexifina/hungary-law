@@ -1,8 +1,8 @@
-## TÍPUSENGEDÉLY
+## JÁRMŰTÍPUS-ENGEDÉLY, TÍPUSENGEDÉLY
 
-36/J. § (1) A járművek típusengedélye iránti kérelmet, valamint az összes, a kérelemre, a vonatkozó eljárások állására és kimenetelére, a fellebbezési tanács kéréseire és határozataira vonatkozó információt az (EU) 2016/796 európai parlamenti és tanácsi rendelet 12. cikkében említett egyablakos információs és kommunikációs rendszeren keresztül kell benyújtani.
+36/J. § (1) Az (EU) 2016/797 európai parlamenti és tanácsi irányelv szerinti interoperábilis vasúti járművek járműtípus-engedélye iránti kérelmet, valamint az összes, a kérelemre, a vonatkozó eljárások állására és kimenetelére, a fellebbezési tanács kéréseire és határozataira vonatkozó információt az (EU) 2016/796 európai parlamenti és tanácsi rendelet 12. cikkében említett egyablakos információs és kommunikációs rendszeren keresztül kell benyújtani.
 
-(2) Ha a vasúti járműtípus alkalmazási területe Magyarország területére korlátozódik, a kérelmező kérelmére a típusengedély megadása iránti eljárást a közlekedési hatóság folytatja le.
+(2) Ha a vasúti járműtípus alkalmazási területe Magyarország területére korlátozódik, a kérelmező kérelmére a járműtípus-engedély, illetve típusengedély megadása iránti eljárást a közlekedési hatóság folytatja le.
 
 (3) Ha az Ügynökség vagy a közlekedési hatóság forgalombahozatali járműengedélyt állít ki, ezzel egyidejűleg – a kérelmező kérésére – járműtípus-engedélyt is kiállít, amely a járműnek ugyanarra az alkalmazási területére vonatkozik.
 

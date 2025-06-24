@@ -1,6 +1,6 @@
 ## A VASÚTI JÁRMŰVEK FORGALOMBA HOZATALA, ÜZEMBE HELYEZÉSE, JAVÍTÁSA, IDŐSZAKOS VIZSGÁLATA ÉS A KARBANTARTÁSÉRT FELELŐS SZERVEZET
 
-36/I. § (1) A vasúti jármű csak azt követően hozható forgalomba, hogy az Ügynökség vagy a közlekedési hatóság a forgalombahozatali járműengedélyt megadta.
+36/I. § (1) A vasúti jármű csak azt követően hozható forgalomba, helyezhető üzembe, ha a vasúti járművek forgalomba hozatala, üzembe helyezése engedélyezéséről, időszakos és rendkívüli vizsgálatáról, hatósági járműnyilvántartásáról szóló kormányrendeletben foglaltak szerint az Ügynökség vagy a közlekedési hatóság a forgalombahozatali engedélyt megadta, az üzembe helyezést engedélyezte.
 
 (1a) A kérelmező a forgalombahozatali járműengedélyre vonatkozó kérelmében meghatározza a jármű alkalmazási területét. A kérelem tartalmazza annak igazolását, hogy sor került a jármű és az alkalmazási terület hálózata közötti műszaki összeegyeztethetőség ellenőrzésére. Ha a műszaki összeegyeztethetőséget igazoló dokumentumok megszerzéséhez próbaüzemre van szükség, a közlekedési hatóság ideiglenes engedélyt állít ki a kérelmező részére a járműnek a hálózaton gyakorlati ellenőrzés céljából való használata tekintetében. A közlekedési hatóság intézkedéseket hoz a próbaüzemek végrehajtásának biztosítására.
 
@@ -22,7 +22,7 @@ c) a vonatkozó ÁME-k megkövetelik azt.
 
 (1g) Ha a kérelmező a vasúti járműre vonatkozó forgalombahozatali engedélyt kapott, a vasúti jármű első használatát megelőzően a közlekedési hatóság az üzembentartó kérésére a forgalombahozatali engedélyre vonatkozó adatokat a nemzeti vasúti járműnyilvántartásba bejegyzi.
 
-(1h) A vasúti járművek forgalomba hozatala, üzembe helyezése engedélyezéséről, időszakos és rendkívüli vizsgálatáról, hatósági járműnyilvántartásáról szóló kormányrendeletben meghatározott vasúti járművek üzembe helyezését a közlekedési hatóság engedélyezi.
+(1h)
 
 (2) A vasúti jármű üzemben tartója a műszaki állapot megvizsgálása érdekében a vasúti járművet a vasúti járművek üzembe helyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározottak szerint időszakos vizsgálatra bocsátja.
 
@@ -38,7 +38,7 @@ b) pályaszámmal nem rendelkező történelmi, muzeális, valamint bemutató é
 
 c) egyedi kialakítású
 
-vasúti jármű országos vasúti pályahálózaton való közlekedtetéséhez.
+vasúti jármű vasúti pályahálózaton való közlekedtetéséhez.
 
 (6) A közlekedési hatóság évente ellenőrzi, hogy
 
