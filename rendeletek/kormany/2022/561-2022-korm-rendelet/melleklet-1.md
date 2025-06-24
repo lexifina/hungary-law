@@ -1,4 +1,4 @@
-1. melléklet az 561/2022. (XII. 23.) Korm. rendelethez[^8]
+1. melléklet az 561/2022. (XII. 23.) Korm. rendelethez[^13]
 
 |  | A | B | C |
 
@@ -130,4 +130,4 @@
 
 | 64. | 85.69 | M.n.s. oktatást kiegészítő tevékenység |
 
-[^8]: Az 1. melléklet a 363/2024. (XI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet a 363/2024. (XI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
