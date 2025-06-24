@@ -1,0 +1,19 @@
+58. § A Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény 9. §-a helyébe a következő rendelkezés lép:
+
+„9. § (1) Az ingatlan a – Beruházás során az ingatlan alkotórészeként megvalósuló – vasúti pályával és kapcsolódó létesítményeivel a műszaki átadás-átvételi eljárás eredményes lezárásának napjával, az építtető által nyilvántartott könyv szerinti értéken, ingyenesen a MÁV Pályaműködtetési Zrt. vagyonkezelésébe kerül, az építtető vagyonkezelői jogának egyidejű megszűnése mellett. A vagyonkezelői jog ingatlan-nyilvántartási bejegyzésére a MÁV Pályaműködtetési Zrt. egyoldalú nyilatkozatát tartalmazó kérelme alapján kerülhet sor. Az építtető az érintett eszközöket az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezeti és a MÁV Pályaműködtetési Zrt. a könyveiben azokat nyilvántartásba veszi.
+
+(2) A MÁV Pályaműködtetési Zrt. a Beruházás megvalósítását követően részletes elszámolást készít. Az elszámolási kimutatásnak tartalmaznia kell az átadott létesítményeknek, eszközöknek, berendezéseknek, ingatlanoknak a tulajdonos és vagyonkezelő eszköznyilvántartási rendje szerinti, az állami vagyon nyilvántartására vonatkozó jogszabályoknak és a számvitelről szóló törvénynek megfelelően szolgáltatandó adatait, továbbá a kimutatásnak meg kell felelnie a vasúti pályaműködtetésére vonatkozó, ezen belül a vasúti pályakapacitás elosztására, a hálózat-hozzáférési díj megállapítására vonatkozó feltételeknek is.
+
+(3) A MÁV Pályaműködtetési Zrt. a Beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.”
+
+|
+
+Dr. Sulyok Tamás s. k.,
+
+köztársasági elnök
+
+|
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke

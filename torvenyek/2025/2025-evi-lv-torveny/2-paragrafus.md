@@ -1,0 +1,3 @@
+2. § (1) Az Építési és Közlekedési Minisztérium tulajdonosi joggyakorlása alá tartozó KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság által ellátott feladatok költségvetési szerv általi átvételéről és a társaság megszüntetéséről, az ezzel kapcsolatos eljárási kérdések rendezéséről szóló kormányrendelet szerinti jogutódlás során 2025. július 1-jétől az Intézet által átvett feladatokkal együtt a munkavállalók további foglalkoztatása – a Kjt. helyett – munkaviszonyban történik, a munkaviszony nem alakul át.
+
+(2) Az (1) bekezdés szerinti jogállásváltozásra az államháztartásról szóló 2011. évi CXCV. törvény 11/F. § (1) és (10)–(13) bekezdését kell alkalmazni.

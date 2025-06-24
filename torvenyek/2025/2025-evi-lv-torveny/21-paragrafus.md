@@ -1,0 +1,3 @@
+21. § A légiközlekedésről szóló 1995. évi XCVII. törvény 63/A. §-a helyébe a következő rendelkezés lép:
+
+„63/A. § Az Mt. rendelkezéseit a 63/B. és 63/C. §-ban foglalt eltéréssel kell alkalmazni a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatott munkavállalók (a továbbiakban: léginavigációs szolgáltatást nyújtó munkavállalók), továbbá az ilyen munkakör betöltése érdekében képzésben részesülő személyek esetében, valamint a 63/G. §-ban foglalt eltérésekkel kell alkalmazni a magyar légtérben légiforgalmi irányítás ellátására jogszabályban kijelölt munkáltató által foglalkoztatott munkavállaló esetében.”
