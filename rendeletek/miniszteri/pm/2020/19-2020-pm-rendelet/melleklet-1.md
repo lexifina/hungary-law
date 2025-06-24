@@ -10,7 +10,7 @@ Az adózási szempontból nem együttműködő államok listája
 
 3. Anguilla
 
-4. Antigua és Barbuda
+4.[^2]
 
 5. Fidzsi-szigetek
 
@@ -29,3 +29,4 @@ Az adózási szempontból nem együttműködő államok listája
 12. Vanuatu
 
 [^1]: Az 1. melléklet a 2/2024. (VII. 8.) PM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 4. pontját a 19/2025. (VI. 23.) NGM rendelet 1. §-a hatályon kívül helyezte.
