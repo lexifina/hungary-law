@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2025-02-01 | 2024. évi LXXIII. törvény | 1997-83-00-00.113 |
 | 2025-02-14 | 2024. évi LXXIV. törvény | 1997-83-00-00.114 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 1997-83-00-00.112 |
+| 2025-06-24 | 2025. évi LXVII. törvény | 1997-83-00-00.117 |

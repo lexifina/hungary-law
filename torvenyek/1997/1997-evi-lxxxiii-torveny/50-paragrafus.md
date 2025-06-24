@@ -16,4 +16,4 @@ c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelem
 
 (4a) Ha a keresőképtelenség igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a táppénz méltányosságból a veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig folyósítható.
 
-(5) Az egészségbiztosító méltányosságból a biztosítottat és a kizárólag egészségügyi szolgáltatásra jogosult személyt indokolt esetben segélyben részesítheti.
+(5) Az egészségbiztosító méltányosságból a biztosítottat és a kizárólag egészségügyi szolgáltatásra jogosult személyt az egészségi állapotában bekövetkezett kedvezőtlen változás esetén segélyben részesítheti.
