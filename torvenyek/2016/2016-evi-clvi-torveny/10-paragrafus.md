@@ -16,9 +16,9 @@ d) a 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait,
 
 e) szálláshely-szolgáltató által alkalmazandó szálláshelykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 
-f) a Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel, továbbá a szolgáltatott adatok Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője általi továbbításával kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője által használt SZEÜSZ-öket,
+f) a Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel, továbbá a szolgáltatott adatok Üzemeltető általi továbbításával kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az Üzemeltető és a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője által használt SZEÜSZ-öket,
 
-g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat,
+g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, és a 12. § szerinti időpontokat, valamint a Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó informatikai rendszereket és azok üzemeltetőjét,
 
 h) 9/H. § (4) bekezdésben meghatározott tárhelyszolgáltatót, továbbá a tárhelyszolgáltatóhoz történő csatlakozás és adatfeldolgozás, valamint a tárhely üzemeltetésének és titkosításának részletes szabályait
 
@@ -33,5 +33,7 @@ l) turisztikai attrakció üzemeltetőjének a Nemzeti Turisztikai Adatszolgált
 m) turisztikailag kiemelt jelentőségű településeket
 
 n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkölcsön Nemzeti Turisztikai Adatszolgáltató Központ közreműködésével történő nyújtásának és igénybevételének részletes szabályait
+
+o) KTH Zrt. forrásbevonásához kapcsolódó állami készfizető kezességvállalás részletszabályait és a magyarországi turizmus és vendéglátóipar fejlesztése érdekében biztosítandó költségvetési támogatás szabályait;
 
 rendeletben határozza meg.

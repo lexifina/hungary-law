@@ -6,6 +6,6 @@ b) a 9/H. § (1) bekezdésében meghatározott adatokat a tárhelyre
 
 továbbítsa.
 
-(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként.
+(2) Az Üzemeltető az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként.
 
 (3) A szálláshely-szolgáltató a harmadik országbeli állampolgárokra vonatkozó, 6/B. alcímben meghatározott adatok rögzítését és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás vezetését elektronikusan, a szálláshelykezelő szoftver alkalmazásával teljesíti.
