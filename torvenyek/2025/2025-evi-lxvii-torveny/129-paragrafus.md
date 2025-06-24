@@ -1,3 +1,1 @@
-129. § A Szantv. 15. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (3) bekezdés esetén a megkeresést követő egy hónapon belül az EBH határozatot hoz, amellyel összhangban kell a szanálási feladatkörében eljáró MNB-nek, ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság, határozatát meghoznia. Ha az EBH egy hónapon belül nem hoz határozatot, akkor a szanálási feladatkörében eljáró MNB, ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság, akkor az (1) bekezdés szerint meghozza határozatát. Ezen eljárás arra az esetre is vonatkozik, ha szanálási feladatkörében eljáró MNB a csoporthoz tartozó leányvállalatra hozza meg a határozatát.”
+### 129. §

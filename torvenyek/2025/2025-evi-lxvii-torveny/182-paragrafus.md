@@ -1,1 +1,1 @@
-182. § A Pvkit. 12. § (3) bekezdésében és 13. § (3) bekezdésében a „pénzügyi és vagyoni korlátozó intézkedés alanya a szolgáltatón keresztül” szövegrész helyébe a „pénzügyi és vagyoni korlátozó intézkedés alanya, valamint a pénzügyi és vagyoni korlátozó intézkedéssel érintett személy a szolgáltatón keresztül vagy közvetlenül a hatósághoz” szöveg lép.
+### 182. §

@@ -1,3 +1,1 @@
-47. § A Tpt. 316/B. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az Európai Unión kívül kibocsátott ISIN azonosítóval rendelkező részvények vonatkozásában, vagy olyan Európai Unión belül kibocsátott ISIN azonosítóval rendelkező részvények vonatkozásában, amelyekkel olyan harmadik országbeli helyszínen kereskednek helyi pénznemben vagy Európai Unión kívüli pénznemben a 600/2014/EU európai parlamenti és tanácsi rendelet 23. cikk (1) bekezdés a) pontjában említettek szerint, amelyek tekintetében a likviditás szempontjából leginkább érintett piacnak számító helyszín egy harmadik országban található, a tőzsde előírhatja ezen helyszínek vonatkozásban árlépésköz alkalmazását.”
+### 47. §
