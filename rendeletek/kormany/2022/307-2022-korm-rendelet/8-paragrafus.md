@@ -28,7 +28,7 @@ m) figyelemmel kíséri és vizsgálja a lakosság és a vállalkozások digitá
 
 n)[^6] az e-közigazgatással, az informatikával, a kormányzati célú elektronikus hírközlési tevékenységgel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával, valamint a közigazgatási infokommunikációs infrastruktúra-fejlesztéssel kapcsolatos területeket – különösen a 7. § (1) bekezdés e) pontjában, valamint a 8. § (1) bekezdés h) és j) pontjában foglaltakat – érintően fejlesztési és üzemeltetési feladatokat is elláthat.
 
-o)[^7] a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 19/A. §-ával összhangban, az e-közigazgatásért felelős miniszter kijelölése alapján ellátja az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 2. § 19. pontja szerinti nemzeti koordinátori feladatokat.
+o)[^7] a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 19/A. §-ával összhangban, az e-közigazgatásért felelős miniszter kijelölése alapján ellátja a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 2. § 9. pontja szerinti nemzeti koordinátori feladatokat.
 
 (2) A DMÜ a tulajdonosi joggyakorlása alá tartozó gazdasági társaságok által ellátott feladatok szakszerű és hatékony végrehajtása felett folyamatos szakmai felügyeletet gyakorol.
 
@@ -36,4 +36,4 @@ o)[^7] a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 
 
 [^5]: A 8. § (1) bekezdés j) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
 [^6]: A 8. § (1) bekezdés n) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^7]: A 8. § (1) bekezdés o) pontját az 528/2023. (XII. 1.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^7]: A 8. § (1) bekezdés o) pontját az 528/2023. (XII. 1.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 164/2025. (VI. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
