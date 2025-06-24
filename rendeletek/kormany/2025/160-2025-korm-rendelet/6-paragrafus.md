@@ -1,0 +1,3 @@
+6. § Az 509/2023. (XI. 20.) Korm. rendelet 27. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A természetes gyógytényezőkről szóló 509/2023. (XI. 20.) Korm. rendelet módosításáról szóló 160/2025. (VI. 23.) Korm. rendelettel (a továbbiakban: MódR.) módosított 14. § (3) bekezdésének hatálybalépésekor már működő azon közhasználatú fürdőknek, amelyek fürdési létesítményei olyan külső felhasználású ásványvízzel, gyógyvízzel vagy gyógyhatású vízzel üzemelnek, amelyet az előfordulási helytől csővezetéken keresztül szállítanak a közhasználatú fürdő létesítményeihez, a 14. § (3) bekezdése szerinti felmentést legkésőbb 2026. december 31. napjáig szükséges beszerezniük. Felmentés hiányában legkésőbb 2029. március 19. napjáig kötelesek a vízszállítást megszüntetni.”
