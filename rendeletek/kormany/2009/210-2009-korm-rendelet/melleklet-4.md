@@ -1,4 +1,4 @@
-4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^96]
+4. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^100]
 
 Vendéglátóhely üzlettípusok és azok jellemzői
 
@@ -134,4 +134,4 @@ Vendéglátóhely üzlettípusok és azok jellemzői
 
 | Konyha jellege, ételkészítés helye: | Az ételeket nem feltétlenül a helyszínen készítik. |
 
-[^96]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^100]: A 4. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 117. § e) pontja hatályon kívül helyezte, újonnan a 634/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
