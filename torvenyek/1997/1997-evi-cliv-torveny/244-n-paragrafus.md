@@ -1,1 +1,1 @@
-244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2026. március 1-jéig szükséges gondoskodni.
+244/N. § E törvénynek az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvénnyel megállapított 155. § (11b) bekezdése szerinti vagyonkezelés átadásáról 2027. március 1-jéig szükséges gondoskodni.

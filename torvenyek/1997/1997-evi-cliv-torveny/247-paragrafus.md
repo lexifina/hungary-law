@@ -148,6 +148,8 @@ m) a köztisztaság és a településtisztaság környezet- és település-egé
 
 (1d) Felhatalmazást kap a Kormány, hogy a 155. § (10) bekezdés b) pontja szerinti irányító vármegyei intézményeket rendeletben jelölje ki.
 
+(1e) Felhatalmazást kap a Kormány, hogy a 244/P. § (1) bekezdése szerinti egészségügyi intézményeket rendeletben határozza meg.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás közegészségügyi-járványügyi szabályait,
@@ -383,13 +385,3 @@ rendeletben állapítsa meg.
 (5a) Felhatalmazást kap
 
 a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-
-b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
-
-rendeletben állapítsa meg.
-
-(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
-
-b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
