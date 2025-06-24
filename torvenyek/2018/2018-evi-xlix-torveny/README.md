@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-49-00-00
 | 2023-12-28 | 2023. évi LXXXVII. törvény | 2018-49-00-00.15 |
 | 2024-10-01 | 2023. évi C. törvény | 2018-49-00-00.16 |
 | 2024-12-23 | 2024. évi LXXVI. törvény | 2018-49-00-00.17 |
+| 2025-06-24 | 2025. évi LXVII. törvény | 2018-49-00-00.18 |

@@ -1,6 +1,6 @@
 ## 3. A kiemelt budapesti fejlesztések előkészítése
 
-5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a vagyonkezelésében lévő ingatlanon a vagyonkezelési jog alapján beruházási és felújítási tevékenységet is végezhet.
+5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a tulajdonosi jog gyakorlása alapján, vagy a vagyonkezelésében lévő vagy a megállapodás alapján a rendelkezésére álló ingatlanon e jogviszonyok alapján beruházási és felújítási tevékenységet is végezhet.
 
 (2) Az (1) bekezdésben megjelölt beruházás során az építtető az állam érdekében, saját nevében és az állam javára jár el, a beruházás során létrehozott vagyon az állam tulajdonába kerül.
 

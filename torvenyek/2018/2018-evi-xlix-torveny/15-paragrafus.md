@@ -6,4 +6,10 @@ b) a Kormány biztosítja – a világörökségre, valamint a kulturális örö
 
 c) a Kormány rendeletben határozza meg a Budai Palotanegyed területe tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 
-d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt közterületek fenntartása, fejlesztése és üzemeltetése körében a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztését és karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett látja el.
+d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt ingatlanok
+
+da) építési beruházási és fejlesztési feladatait az állami beruházásokért felelős miniszter,
+
+db) vagyonkezelését, üzemeltetését és ennek körében a fenntartását, fejlesztését, valamint a zöldfelületek és egyéb közterületek karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett
+
+látja el.

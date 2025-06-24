@@ -30,6 +30,8 @@ c) a Budai Palotanegyed tekintetében a közterületek használati rendjét, a v
 
 d) a 18. és 19/A. §-ok szerinti kiemelten közérdekű beruházások megnevezését, helyszínét, illetve szükség szerint közvetlen környezetét,
 
-e) a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztésére és karbantartására kijelölt, a 15. § d) pontja szerinti gazdasági társaságot,
+e) a Budai Palotanegyedben található zöldfelületek és egyéb ingatlanok karbantartására kijelölt, 15. § d) pont db) alpontja szerinti gazdasági társaságot,
 
 f) a Budai Palotanegyedben található, állami tulajdonban lévő ingatlanok vagyonkezelési feladatainak ellátására kijelölt, a 17. § (2) bekezdése szerinti gazdasági társaságot.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kiemelt nemzeti emlékhellyel összefüggő beruházások megvalósításához kapcsolódóan az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályoktól eltérő követelményeket, valamint különös eljárási szabályokat.
