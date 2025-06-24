@@ -10,17 +10,17 @@ Közhasználatú fürdők higiéniai és biztonsági előírásai
 
 1.3. A fürdőre vonatkozó házirendet a fürdő bejáratánál a fürdővendégek számára olvasható betűméretben, jól látható helyen ki kell függeszteni.
 
-1.4. Az 1-es típusú, valamint a 6 fő befogadóképesség feletti medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdőkben a fentiek mellett betartandó:
+1.4.[^43] Az 1-es típusú, valamint a 6 fő megengedett egyidejű legnagyobb terhelés feletti medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdőkben a fentiek mellett betartandó:
 
-1.4.1. Fedett 1-es típusú közhasználatú fürdők esetén az egyidejű befogadóképességnek megfelelő számú öltözőszekrénynek vagy egyéni tárolónak kell rendelkezésre állnia. Nyitott közhasználatú fürdők esetén az egyidejű befogadóképesség alapján, 100 főnként egy belátástól elzárt, öltözésre alkalmas férőhelyet kell biztosítani. Az öltöző minimális alapterülete 6 m2.
+1.4.1.[^44] Fedett 1-es típusú közhasználatú fürdők esetén az egyidejű befogadóképességnek megfelelő számú öltözőszekrénynek vagy egyéni tárolónak kell rendelkezésre állnia. Nyitott közhasználatú fürdők esetén a megengedett egyidejű legnagyobb terhelés alapján, 100 főnként egy belátástól elzárt, öltözésre alkalmas férőhelyet kell biztosítani. Az öltöző minimális alapterülete 6 m2.
 
-1.4.2. A fürdőkben az egyidejű befogadóképességnek megfelelő számú hideg-meleg vizes zuhanyozót kell létesíteni, az 1. táblázatban szereplő minimális számban. A zuhanyzók közül tisztasági zuhanynak azok minősülnek, ahol a zuhany nemenként elkülönített, belátástól elzárt, fürdőruha nélküli szappanos mosakodásra alkalmas. A tisztasági zuhanyoknál szappant vagy tisztálkodószert kell biztosítani.
+1.4.2.[^45] A fedett fürdőkben a megengedett egyidejű legnagyobb terhelésnek megfelelő számú hideg-meleg vizes zuhanyozót kell létesíteni, az 1. táblázatban szereplő minimális számban. A zuhanyzók közül tisztasági zuhanynak azok minősülnek, ahol a zuhany nemenként elkülönített, belátástól elzárt, fürdőruha nélküli szappanos mosakodásra alkalmas. A tisztasági zuhanyoknál szappant vagy tisztálkodószert kell biztosítani. Az 1.4. pont szerinti 2/a típusú közhasználatú fürdőben, amennyiben az egyes fürdési célú létesítményeket kizárólag a fürdőszobás szobákkal vagy közös fürdőszobát használó szobákkal rendelkező szálláshely vendégei veszik igénybe, külön tisztasági zuhany létesítése nem szükséges.
 
 ## 1. táblázat
 
 |  | A | B | C | D | E | F | G |
 
-| 1 | egyidejű befogadóképesség (fő) |  | 6–50 | 51–200 | 201–1000 | 1001– |  |
+| 1 | egyidejű megengedett egyidejű legnagyobb terhelés (fő)[^46] |  | 7–50[^47] | 51–200 | 201–1000 | 1001– |  |
 
 | 2 | zuhanyzók minimális száma | Tisztasági zuhany, nemenként | 2 | 3 | 1/50 fő | 1/75 fő, de legalább 20 |  |
 
@@ -28,7 +28,7 @@ Közhasználatú fürdők higiéniai és biztonsági előírásai
 
 1.4.3. Szabadtéri épített közhasználatú fürdők esetén 100 főnként egy-egy tisztasági és előzuhany céljára megfelelő zuhanyállást kell létesíteni.
 
-1.4.4. A teljes nyitvatartási időben a megengedett egyidejű legnagyobb fürdővendégszámnak megfelelő, a jogszabály szerinti, nemenként elkülönített, térítésmentes és tisztán tartott illemhelyet kell üzemeltetni.
+1.4.4. [^48] A teljes nyitvatartási időben a megengedett egyidejű legnagyobb fürdővendégszámnak megfelelő, a jogszabály szerinti, térítésmentes és tisztán tartott illemhelyet kell üzemeltetni.
 
 a) Biztosítani kell a folyamatos és ingyenes WC-papír-ellátást, és legalább a WC-k számának harmadát kitevő számú, folyékony szappannal feltöltött adagolókkal felszerelt kézmosót.
 
@@ -36,7 +36,7 @@ b) Új építésű fürdő esetén minden WC-csoporthoz zuhanyozócsoportot kell
 
 1.4.5. Az illemhelyeket és a zuhanyzókat tisztán kell tartani, és használatukat a közhasználatú fürdő szolgáltatásait igénybe vevő személy (a továbbiakban: fürdővendég) részére térítésmentesen, folyamatosan biztosítani kell.
 
-1.4.6. A fürdési célú létesítményeknél biztosítani kell, hogy a fürdőmedence csak lábmosón keresztül legyen elérhető. Amennyiben ez nem megoldható, úgy a medence bejáróhoz kell külön lábmosómedencét létesíteni.
+1.4.6. [^49] A fürdési célú létesítményeknél biztosítani kell, hogy a fürdőmedence csak lábmosón keresztül legyen elérhető. Amennyiben ez nem megoldható, úgy a medencetér bejáratához kell külön lábmosómedencét vagy lábzuhanyt létesíteni. Az 1.4. pont szerinti 2/a típusú közhasználatú fürdőben, amennyiben az egyes fürdési célú létesítményeket kizárólag a fürdőszobás szobákkal vagy közös fürdőszobát használó szobákkal rendelkező szálláshely vendégei veszik igénybe, és a fürdővendégek számára kötelező haladási irányként az előzuhany-helyiség van megjelölve, külön lábmosó létesítése a fedett medencetér bejáratához nem szükséges.
 
 1.4.6.1. Amennyiben a lábfertőtlenítés lábmosómedencén keresztül történik, akkor a lábmosó átfolyó rendszerű legyen, óránként legalább kétszeres vízcserével, és a víz tartalmazzon fertőtlenítőszert, amely vízforgatással vagy a fertőtlenítőszer-tartalmú medencevíz lábmosón át történő túlfolyatásával is biztosítható. A lábmosó legkisebb mérete a haladás irányában 1,3 méter legyen új építésű fürdő esetén − meglévő fürdőknél egyedi elbírálás szerint −, szélessége a járófelülettel és a bejárati nyílás teljes szélességével egyezzen meg. A lábmosómedence mélysége legalább 15 cm, a vízmélysége legalább 10 cm legyen, és legalább egyik oldalán korlátot kell biztosítani.
 
@@ -60,7 +60,7 @@ b) Új építésű fürdő esetén minden WC-csoporthoz zuhanyozócsoportot kell
 
 1.4.14. A fürdési célú létesítmények fertőtlenítését a 6. § által meghatározott gyakorisággal elvégzett teljes vízcserék alkalmával, fertőtlenítőszeres oldattal kell elvégezni.
 
-1.5. A 2/b és a 3-as típusú közhasználatú fürdők esetén:
+1.5. [^50] Legfeljebb 6 fő megengedett egyidejű legnagyobb terhelésű medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdő, a 2/b és a 3-as típusú közhasználatú fürdők esetén:
 
 ## A fürdő üzemeltetési előírásait az üzemeltetőnek a közegészségügyi technológiai szabályzatban és a házirendben kell rögzítenie.
 
@@ -74,9 +74,9 @@ b) Új építésű fürdő esetén minden WC-csoporthoz zuhanyozócsoportot kell
 
 2.4. A közhasználatú fürdő vendégeinek és alkalmazottainak biztonságáról a közhasználatú fürdő üzemeltetője a mindenkor érvényes szabvány, illetve az alkalmazottak esetén a munkavédelemről szóló jogszabály szerint köteles gondoskodni.
 
-2.5. Az 1-es típusú közhasználatú fürdő és a 6 fő befogadóképességet meghaladó medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdő biztonsági előírásai:
+2.5.[^51] Az 1-es típusú közhasználatú fürdő és a 6 fő megengedett egyidejű legnagyobb terhelést meghaladó medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdő biztonsági előírásai:
 
-2.5.1.[^2] Nyitvatartási időben a fürdési célú létesítmény mellett legalább egy felügyelő személy 1-es és 2/a típusú közhasználatú fürdőben fokozott felügyelete, folyamatos jelenléte kötelező. A 2/a típusú közhasználatú fürdőben − amennyiben az egyes fürdési célú létesítmények összesített megengedett egyidejű legnagyobb terhelhetősége nem haladja meg a 60 főt − a 20 főt meg nem haladó befogadóképességű fürdési célú létesítmény mellett a felügyelet általános felügyeletre csökkenthető. Egy személy több fürdési célú létesítményt is felügyelhet, amennyiben a létesítmények összes vízfelületének nagysága nem éri el az 1000 m2-t, továbbá a közöttük lévő távolság nem haladja meg a 10 métert, és egyidejűleg akadálytalanul beláthatók.
+2.5.1.[^52] Nyitvatartási időben a fürdési célú létesítmény mellett legalább egy felügyelő személy 1-es és 2/a típusú közhasználatú fürdőben fokozott felügyelete, folyamatos jelenléte kötelező. A 2/a típusú közhasználatú fürdőben − amennyiben az egyes fürdési célú létesítmények összesített megengedett egyidejű legnagyobb terhelhetősége nem haladja meg a 60 főt − a 20 főt meg nem haladó befogadóképességű fürdési célú létesítmény mellett a felügyelet általános felügyeletre csökkenthető. Egy személy több fürdési célú létesítményt is felügyelhet, amennyiben a létesítmények összes vízfelületének nagysága nem éri el az 1000 m2-t, továbbá a közöttük lévő távolság nem haladja meg a 10 métert, és egyidejűleg akadálytalanul beláthatók.
 
 2.5.2. Amennyiben a fürdési célú létesítmény vízfelülete meghaladja az 1000 m2-t, vagy a fürdési célú létesítmény vízfelülete kisebb, mint 1000 m2, de a felügyelő személyzet által nem átlátható, további felügyelő személyt, személyeket kell a fürdési célú létesítmény mellett alkalmazni.
 
@@ -114,14 +114,25 @@ f) fertőtlenítő oldat;
 
 g) ruha levágására alkalmas olló (1 db);
 
-h) AED (automata külső defibrillátor – 1 db, 1-1 felnőtt- és gyermek-elektródával) (kizárólag 1000 fő/nap feletti befogadóképességgel rendelkező közhasználatú fürdők esetén kötelező a tartása és leírásnak megfelelő ellenőrzése).
+h)[^53] AED (automata külső defibrillátor – 1 db, 1-1 felnőtt- és gyermek-elektródával) (kizárólag 1000 fő/nap feletti megengedett egyidejű legnagyobb terheléssel rendelkező közhasználatú fürdők esetén kötelező a tartása és leírásnak megfelelő ellenőrzése).
 
 2.5.10. A mentőláda tartalmának ellenőrzéséről, a hiányzó és szavatossági időt meghaladó felszerelésbeli elemek pótlásáról, cseréjéről a közhasználatú fürdő üzemeltetője köteles gondoskodni.
 
-2.6. A 2/b és a 3-as típusú közhasználatú fürdő biztonsági előírásai:
+2.6.[^54] Legfeljebb 6 fő megengedett egyidejű legnagyobb terhelésű medencés jellegű fürdési célú létesítménnyel rendelkező 2/a típusú közhasználatú fürdő, a 2/b és a 3-as típusú közhasználatú fürdő biztonsági előírásai:
 
 2.6.1. Egyéb közhasználatú fürdő biztonsági előírásait az üzemeltetőnek a balesetveszély elkerülését figyelembe véve kell meghatároznia, és a közegészségügyi technológiai szabályzatban és a házirendben kell rögzítenie.
 
 2.6.2. Amennyiben fokozott sérülésveszély áll fenn, az illetékes egészségügyi államigazgatási szerv előírása szerinti elsősegélynyújtó hely és mentőláda biztosítása kötelező.
 
-[^2]: Az 1. melléklet 2. pont 2.5. alpont 2.5.1. pontja a 317/2024. (XI. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^43]: Az 1. melléklet 1. pont 1.4. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 9. pontja szerint módosított szöveg.
+[^44]: Az 1. melléklet 1. pont 1.4. alpont 1.4.1. pontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^45]: Az 1. melléklet 1. pont 1.4. alpont 1.4.2. pontja a 161/2025. (VI. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. mellékletben foglalt 1. táblázat A:1 mezője a 161/2025. (VI. 23.) Korm. rendelet 13. § 9. pontja szerint módosított szöveg.
+[^47]: Az 1. mellékletben foglalt 1. táblázat C:1 mezője a 161/2025. (VI. 23.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^48]: Az 1. melléklet 1. pont 1.4. alpont 1.4.4. pontja a 161/2025. (VI. 23.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 1. pont 1.4. alpont 1.4.6. pontja a 161/2025. (VI. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^50]: Az 1. melléklet 1. pont 1.5. alpontja a 161/2025. (VI. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^51]: Az 1. melléklet 2. pont 2.5. alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 12. pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 2. pont 2.5. alpont 2.5.1. pontja a 317/2024. (XI. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^53]: Az 1. melléklet 2. pont 2.5. alpont 2.5.9. pont h) alpontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
+[^54]: Az 1. melléklet 2. pont 2.6. alpontja a 161/2025. (VI. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.

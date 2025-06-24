@@ -1,12 +1,12 @@
 ## 5. A közhasználatú fürdő vízhasználatára vonatkozó szabályok
 
-6. § (1) Szűrő-forgató rendszer esetén a medencébe folyamatosan bevezetett víz mennyisége a terheléssel arányos lehet, de a megengedett legnagyobb terhelés 30%-ánál kisebb terheléskor sem lehet kevesebb óránként a vízfelületből számított legnagyobb terheléshez tartozó érték 50%-ánál.
+6. § (1)[^14] Szűrő-forgató rendszer esetén a medencébe folyamatosan bevezetett víz mennyisége a terheléssel arányos lehet, de nyitvatartási időben a megengedett legnagyobb terhelés 30%-ánál kisebb terheléskor sem lehet kevesebb óránként a vízfelületből számított legnagyobb terheléshez tartozó érték 50%-ánál. Üzemidőn kívül a medencébe folyamatosan bevezetett víz mennyisége 50% alá is csökkenthető, amennyiben a megfelelő vízminőség a zavarosság folyamatos, online nyomon követésével igazolható. A szűrő-forgató rendszer üzemeltetése, a medencébe a tisztított víz folyamatos bevezetése üzemidőn kívül sem állítható le.
 
 (2) A szűrő-forgató berendezés forgatási teljesítményének meghatározása a terhelés függvényében számított maximumértékeket figyelembe véve, az érvényes szabvány előírásai alapján történik.
 
 (3) Töltő-ürítő rendszer esetén minden fürdőzőre óránként legalább 1 m3 víznek kell jutnia, vagyis a fürdési célú létesítmény napi összterhelése legfeljebb annyi fő lehet, ahány m3 a bevezetett friss víz mennyisége. A medencébe folyamatosan bevezetett víz mennyisége a terheléssel arányos lehet, de a megengedett legnagyobb terhelés 30%-ánál kisebb terheléskor sem lehet kevesebb óránként a vízfelületből számított egyidejű legnagyobb terheléshez tartozó érték 30%-ánál. A folyamatos vízcsere céljából bevezetett víz mennyisége mellett a frissen feltöltött fürdési célú létesítmény térfogatának 50%-a is figyelembe vehető. Ha a fürdési célú létesítmény vizét nem cserélik naponta, az üzemidőn kívül bevezetett friss víz mennyisége is figyelembe vehető, de legfeljebb a medencetérfogat 50%-a.
 
-(4) Maximum 4 m2 felületű és 8 m3 térfogatú hideg vizes, azaz 18 °C-nál nem melegebb fürdési célú létesítmények a medencetérfogat 20%-ának megfelelő mennyiségű friss tápvíz üzemóránkénti bevezetése esetén töltő-ürítő rendszerben üzemeltethetőek. Szűrő-forgató technológia esetében a szűrő-forgató berendezést úgy kell méretezni, hogy óránként legalább 1 alkalommal forduljon meg a fürdési célú létesítmény vize.
+(4)[^15] A 4. § (6a) bekezdése szerinti medencék töltő-ürítő rendszerű üzemeltetése esetén a medencetérfogat 20%-ának megfelelő mennyiségű friss tápvíz üzemóránkénti bevezetése szükséges. Szűrő-forgató technológia esetében a szűrő-forgató berendezést úgy kell méretezni, hogy óránként legalább egy alkalommal forduljon meg a fürdési célú létesítmény vize.
 
 (5) Csak az üzemi vízszintig feltöltött és folyamatos túlfolyással működő, megfelelő hidraulikával rendelkező medencét szabad használni.
 
@@ -37,3 +37,6 @@ b) 50 m3-es vagy annál nagyobb és 300 m3-nél kisebb fürdési célú létesí
 c) 300 m3-nél nagyobb fürdési célú létesítmény esetén kétnaponta.
 
 (11) A töltő-ürítő medence soron kívüli leeresztése, takarítása és fertőtlenítése szükséges, ha rendkívüli szennyezés, azaz hányadék, vér vagy széklet fordul elő.
+
+[^14]: A 6. § (1) bekezdése a 161/2025. (VI. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^15]: A 6. § (4) bekezdése a 161/2025. (VI. 23.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

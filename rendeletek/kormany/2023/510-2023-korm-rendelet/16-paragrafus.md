@@ -14,4 +14,6 @@
 
 a) a kérelemben szereplő, értékelést nem igénylő adatokban bekövetkező változás esetén vagy
 
-b) a nyilvántartásba vett termékcsalád új típussal történő kiegészítése esetén, ha a termékben felhasznált fürdővízzel érintkező anyagok és azok gyártója megegyezik.
+b)[^28]
+
+[^28]: A 16. § (7) bekezdés b) pontját a 161/2025. (VI. 23.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.

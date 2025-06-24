@@ -10,8 +10,13 @@
 
 (5) Nem medencés jellegű létesítmények átfolyó üzemmódban létesíthetők. Nem medencés jellegű létesítmények vízelvezetéssel és szűrő-forgató vízkezelő technológiával is létesíthetők és üzemeltethetők, ha igazolható a kezelt víz 6. mellékletben található előírásoknak való megfelelősége. Erről az egészségügyi államigazgatási szerv a közegészségügyi-technológiai szabályzat jóváhagyásáról szóló határozatában dönt.
 
-(6) Kád típusú medencék és kis méretű, maximum 8 m3 térfogatú és 4 m2 felületű hideg vizes, 18 °C-nál nem melegebb medencék töltő-ürítő üzemmódban létesíthetők.
+(6)[^11] Kád típusú medencéket töltő-ürítő üzemmódban kell létesíteni.
+
+(6a)[^12] Kis méretű, maximum 8 m3 térfogatú és 4 m2 felületű, hideg vizes, 18 °C-nál nem melegebb medencék töltő-ürítő üzemmódban is létesíthetők.
 
 (7) Gyógyvízzel, gyógyhatású vízzel töltött medencék töltő-ürítő rendszerben a természetes gyógytényezőkről szóló kormányrendelet előírásai szerint létesíthetők.
 
 (8) Fürdési célú létesítmények kommunális szennyvizét – beleértve a közhasználatú fürdőben üzemelő zuhanyozók szennyvizét, továbbá vízkezelő létesítmények öblítő vizét is – szennyvízcsatornába vagy közműpótló berendezésbe kell elvezetni. A fürdési célú létesítmények használt vize a befogadóra vonatkozó előírások betartásával, szükség esetén kezelés után vezethető el.
+
+[^11]: A 4. § (6) bekezdése a 161/2025. (VI. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 4. § (6a) bekezdését a 161/2025. (VI. 23.) Korm. rendelet 3. §-a iktatta be.

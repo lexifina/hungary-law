@@ -4,7 +4,7 @@
 
 (2) Az 1-es típusú közhasználatú fürdőknél az egyidejű legnagyobb terhelhetőségre vonatkozó követelményeket a 7. melléklet tartalmazza.
 
-(3) A fürdési célú létesítmények létesítését követően az üzemeltetés megfelelőségét az egészségügyi államigazgatási szerv hatósági mintavétellel legalább egy, de maximum két hónap elteltével ellenőrzi.
+(3)[^16] A közhasználatú fürdő vagy a fürdési célú létesítmények létesítését követően az üzemeltetés megfelelőségét az egészségügyi államigazgatási szerv helyszíni szemlén, hatósági ellenőrzés keretében, hatósági mintavétellel, legalább egy, de legfeljebb két hónap elteltével ellenőrzi.
 
 (4) Az egészségügyi államigazgatási szerv megteszi a 18. § szerinti intézkedéseket, ha
 
@@ -13,3 +13,5 @@ a) a közhasználatú fürdő üzemeltetője a közegészségügyi-technológiai
 b) a közegészségügyi szabályzat tartalma nem aktualizált, a tényleges állapottól eltérő vagy
 
 c) a közegészségügyi-technológiai szabályzat szerinti üzemeltetés mellett nem biztosítható a közhasználatú fürdő közegészségügyi előírásoknak megfelelő üzemeltetése.
+
+[^16]: A 7. § (3) bekezdése a 161/2025. (VI. 23.) Korm. rendelet 6. §-ával megállapított szöveg.

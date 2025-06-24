@@ -56,7 +56,7 @@
 
 ## 3. Közhasználatú fürdők fürdési célú létesítményeinek kémiai és fizikai vízminőségi követelményei
 
-## 3.1. Közhasználatú fürdők szűrő-forgató berendezéssel ellátott fürdési célú létesítményei vizének minőségére kémiai és fizikai tekintetben a 4. táblázatban megadott értékek és értéktartományok vonatkoznak.
+## 3.1.[^64] Közhasználatú fürdők fürdési célú létesítményei vizének minőségére kémiai és fizikai tekintetben a 4. táblázatban megadott értékek és értéktartományok vonatkoznak.
 
 ## 3.2. A tápvízre a medencevízre előírt határértékek teljesüléséhez szükséges vízminőségi követelmények vonatkoznak. Olyan esetben, amikor ez csak vízkezeléssel teljesíthető, azt külön műtárgyban vagy üzemidőn kívül kell biztosítani.
 
@@ -84,13 +84,13 @@
 
 | 10 | szabad aktív klór | mg/l |  |  | 0,5 | 2,0 | 6. |
 
-| 11 | szabad aktív klór melegvizes masszázs- /élménymedence esetén (32 °C felett) | mg/l |  |  | 1,0 | 2,0 | 6. |
+| 11 | szabad aktív klór melegvizes masszázs- /élménymedence esetén (32 °C felett)[^65] | mg/l |  |  | 1,0 | 2,0 | 6. |
 
 | 12 | hidrogén-peroxid | mg/l |  |  | 20 | 200 | 7., 14. |
 
 | 13 | aktív oxigén (perszulfátok) | mg/l |  |  | 3 | 8 | 8. |
 
-| 14 | kötött aktív klór | mg/l |  |  |  | 0,5 | 9. |
+| 14 | kötött aktív klór | mg/l |  |  |  | 0,5 | 3.[^66] |
 
 | 15 | összes aktív bróm | mg/l |  |  | 2,0 | 5,0 | 10. |
 
@@ -104,7 +104,7 @@
 
 | 20 | klórdioxid | mg/l |  |  | 0,3 | 0,6 | 15. |
 
-| 21 | trihalogén-metán (THM) (kloroformként megadva) | mg/l |  |  |  | 0,05 | 3. |
+| 21 | trihalogén-metán (THM) (kloroformként megadva)[^67] | mg/l |  |  |  | 0,05 | 3., 18.[^68] |
 
 | 22 | kvaterner ammónium vegyületek | mg/l |  |  |  | 10 | 16. |
 
@@ -118,7 +118,7 @@
 
 ## 3. Csak aktív klórral – önállóan vagy kombinációban – történő fertőtlenítés esetén érvényes. Egyéb esetben nincs határérték megjelölve.
 
-## 4. Nagy sótartalmú vizekben a szervesanyag-tartalom meghatározására a KOIps módszer nem alkalmazható, helyettesítendő a KOIpl meghatározással. Ebben az esetben a szűrt, illetve a medencevízben megengedhető maximális érték a tápvíz KOIpl + 0,35 mg/l, illetve +1,5 mg/l. Hidrogén-peroxid hatóanyagú fertőtlenítőszerek alkalmazása esetén a KOIps és a KOIpI sem mérhető. Ez esetben helyettesítendő TOC méréssel, melyre a tápvízhez képest a szűrt és medencevízben maximum 1,5 mg/l nagyságú növekedés elfogadható.
+## 4.[^69] Nagy sótartalmú vizekben a szervesanyag-tartalom meghatározására a KOIps módszer nem alkalmazható, helyettesítendő a KOIpl meghatározással. Ebben az esetben a szűrt, illetve a medencevízben megengedhető maximális érték a tápvíz KOIpl + 0,35 mg/l, illetve +1,5 mg/l. Hidrogén-peroxid hatóanyagú fertőtlenítőszerek alkalmazása esetén a KOIps és a KOIpI sem mérhető. Ez esetben helyettesítendő TOC méréssel, .
 
 ## 5. Cianursav tartalmú klórstabilizátor alkalmazása esetén a cianursav kémiai oxigénigénye / összes szerves széntartalma a mért értékből levonandó.
 
@@ -146,6 +146,8 @@
 
 ## 17. Alumínum- vagy vastartalmú pelyhesítőszer adagolása esetén.
 
+## 18.[^70] A paraméter a következő meghatározott vegyületek koncentrációjának összege: kloroform, bromoform, dibróm-klórmetán, bróm-diklórmetán.
+
 ## 4. A fürdővízvizsgálatok gyakorisága és terjedelme, a mintavétel helye és módja
 
 ## 4.1. Mintavétel
@@ -156,57 +158,57 @@
 
 ## A mikrobiológiai vizsgálat céljára történő mintavétel esetén a mintavétel előtt a mintázandó víz maradék fertőtlenítőszer tartalmát meg kell határozni. A mikrobiológiai vizsgálat céljára levett minta maradék fertőtlenítőszer tartalmát közömbösíteni kell. Amennyiben a maradék fertőtlenítőszer meghaladja a határérték kétszeresét, úgy a minta bakteriológiai vizsgálatra alkalmatlan, és pótminta levétele kötelező.
 
-## 4.2. Tápvíz
+## 4.2.[^71] Tápvíz
 
-## A közüzemi ivóvízzel, egyedi ivóvízellátó rendszert ellátó kútvízzel vagy minősített gyógy- vagy ásványvízzel töltött medencék esetében a medencé(k)be juttatást közvetlenül megelőző mintavételi ponton vett, az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló rendelet, valamint a természetes gyógytényezőkről szóló kormányrendelet szerinti, legalább éves gyakoriságú minták eredményei elfogadhatók a tápvíz minőség igazolásának céljára.
+## A közüzemi ivóvízzel, egyedi ivóvízellátó rendszert ellátó kútvízzel vagy minősített gyógy- vagy természetes ásványvízzel töltött medencék esetében az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló rendelet, valamint a természetes gyógytényezőkről szóló kormányrendelet szerinti vízminták eredményei elfogadhatók a tápvízminőség igazolásának céljára.
 
 ## 4.3. Medencevizek és tisztított vizek
 
 ## 4.3.1. Az 1-es és a 2/a típusú közhasználatú fürdőkben a fürdési célú létesítmények vizének ellenőrzésére az 5. táblázat előírásai vonatkoznak. Az előírásoktól az üzemeltető az azonosított mintavételi pontok számának növelésével és többletvizsgálatok beiktatásával eltérhet.
 
-## 4.3.2. A 2/b típusú közhasználatú fürdőkben a fürdési célú létesítményeik vizének ellenőrzésére a 6. táblázat előírásai vonatkoznak. Az előírásoktól az üzemeltető az azonosított mintavételi pontok számának növelésével és többletvizsgálatok beiktatásával eltérhet.
+## 4.3.2.[^72] A 2/b és 3-as típusú közhasználatú fürdőkben a fürdési célú létesítményeik vizének ellenőrzésére a 6. táblázat előírásai vonatkoznak. Az előírásoktól az üzemeltető az azonosított mintavételi pontok számának növelésével és többletvizsgálatok beiktatásával eltérhet.
 
-## 4.3.3. A szűrt víz vizsgálata az 1-es és a 2/a típusú közhasználatú fürdőkben negyedévente, a 2/b típusú közhasználatú fürdőkben félévente szükséges, a fürdési célú létesítmény vizének vizsgálatával egy időben. Fél évnél rövidebb ideig nyitva tartó szezonális fürdőkben legalább két mintavétel szükséges, a szezon kezdetekor és a szezon közepén.
+## 4.3.3.[^73] A szűrt víz vizsgálata az 1-es és a 2/a típusú közhasználatú fürdőkben negyedévente, a 2/b és 3-as típusú közhasználatú fürdőkben félévente szükséges, a fürdési célú létesítmény vizének vizsgálatával egy időben. Fél évnél rövidebb ideig nyitva tartó szezonális fürdőkben legalább két mintavétel szükséges, a szezon kezdetekor és a szezon közepén.
 
 ## 4.3.4. A tisztított vizet csak olyan esetben kell vizsgálni, ha ez a fürdési célú létesítmény vizének vizsgálatakor tapasztalt eltérés tisztázása érdekében szükséges. A tisztított víz vizsgálatának legalább az alábbi paraméterekre kell minimálisan kiterjednie: pH, zavarosság, fertőtlenítőszer-szint, Pseudomonas aeruginosa, E.coli, valamint a jogszabály által szabályozott esetekben Legionella sp. A vizsgálati paraméterek és a vizsgálat gyakoriság tekintetében az illetékes egészségügyi államigazgatási szerv további előírásokat adhat.
 
-## 4.3.5. A hatósági vizsgálatok minimális terjedelme megegyezik az üzemeltető által végzendő önellenőrző vizsgálatok paraméter körével.
+## 4.3.5.[^74] A hatósági vizsgálatok minimális terjedelme megegyezik az üzemeltető által végzendő önellenőrző vizsgálatok paraméter körével. A 2/b. típusú közhasználatú fürdők esetében a hatósági vizsgálatok minimális terjedelmére a 6. táblázat paraméterkörét kell alkalmazni.
 
-## 5. táblázat
+## 5. táblázat[^75]
 
 |  | A | B | C | D |
 
-| 1 | Mérendő komponens megnevezése | Helyszíni üzemeltetői önellenőrző levegő- vagy vízvizsgálat | Akkreditált laboratóriumban végzett önellenőrző laboratóriumi levegő- vagy vízvizsgálat | Megjegyzés |
+| 1 | Mérendő komponens megnevezése | Helyszíni üzemeltetői önellenőrző helyszíni levegő vagy vízvizsgálat | Akkreditált laboratóriumban végzett önellenőrző laboratóriumi levegő vagy vízvizsgálat | Megjegyzés |
 
-| 2 | Összes telepszám 36 °C | – | Havonta | 1. |
+| 2 | Összes telepszám 36 °C | – | Havonta | 1., 9. |
 
 | 3 | E. coli | – | Havonta | 1. |
 
 | 4 | P. aeruginosa | – | Havonta | 1. |
 
-| 5 | Enterococcus | – | Havonta | 1. |
+| 5 | Enterococcus | – | Havonta | 1., 8. |
 
 | 6 | Legionella | – | Havonta | 2. |
 
-| 7 | pH | Naponta 3´ | Havonta |  |
+| 7 | pH | Naponta 3× | Havonta | 9. |
 
 | 8 | Fajlagos elektromos vezetőképesség | – | Havonta |  |
 
-| 9 | Aktív klór (szabad és kötött) vagy aktív bróm | Naponta 3´ | Havonta | 3. |
+| 9 | Aktív klór (szabad és kötött) vagy aktív bróm | Naponta 3× | Havonta | 3. |
 
-| 10 | Klórdioxid | Naponta 3´ | Havonta | 3. |
+| 10 | Klórdioxid | Naponta 3× | Havonta | 3. |
 
-| 11 | Hidrogén-peroxid | Naponta 3´ | Havonta | 3. |
+| 11 | Hidrogén-peroxid | Naponta 3× | Havonta | 3. |
 
-| 12 | Átlátszóság | Naponta 3´ |  |  |
+| 12 | Átlátszóság | Naponta 3× |  |  |
 
-| 13 | Zavarosság |  | Havonta |  |
+| 13 | Zavarosság |  | Havonta | 9. |
 
-| 14 | Klorit, klorát | Hetente | Havonta | 3. |
+| 14 | Klorit, klorát | Hetente | Havonta | 3., 5. |
 
 | 15 | Vas vagy alumínium | – | Havonta | 3. |
 
-| 16 | Algásodást gátló anyagok és klór-stabilizátorok | Hetente | Havonta | 3., 5. |
+| 16 | Algásodást gátló anyagok és klór-stabilizátorok | Hetente | – | 3., 5. |
 
 | 17 | Kémiai oxigénigény vagy összes szerves szén |  | Havonta |  |
 
@@ -214,23 +216,23 @@
 
 | 19 | Trihalometánok (levegőben) |  |  | 3., 4., 7. |
 
-| 20 | Klorid | Hetente | Havonta | 5. |
+| 20 | Klorid | Hetente | Havonta | 5., 9. |
 
-| 21 | Ammónium | Hetente | Havonta | 5. |
+| 21 | Ammónium | Hetente | Havonta | 5., 8. |
 
-| 22 | Nitrit | Hetente | Havonta | 5. |
+| 22 | Nitrit | Hetente | Havonta | 5., 8. |
 
 | 23 | Benzol |  | Negyedévente | 6. |
 
 | 24 | Benzol (levegőben) |  |  | 7. |
 
-## 6. táblázat
+## 6. táblázat[^76]
 
 |  | A | B | C | D | E |
 
 | 1 | Mérendő komponens megnevezése | Helyszíni üzemeltetői önellenőrző vizsgálat | Akkreditált laboratóriumban végzett önellenőrző vizsgálat | Megjegyzés | Idényjellegű fürdők |
 
-| 2 | Összes telepszám 36 °C | – | Negyedévente | 1. | Idényjellegű fürdők esetében havonta, szezononként legalább 3 alkalommal. |
+| 2 | Összes telepszám 36 °C | – | Negyedévente | 1., 9. | Idényjellegű fürdők esetében havonta, szezononként legalább 3 alkalommal. |
 
 | 3 | E. coli | – | Negyedévente | 1. | Idényjellegű fürdők esetében havonta, szezononként legalább 3 alkalommal. |
 
@@ -238,7 +240,7 @@
 
 | 5 | Legionella | – | Negyedévente | 2. |  |
 
-| 6 | pH | Naponta | Negyedévente |  |  |
+| 6 | pH | Naponta | Negyedévente | 9. |  |
 
 | 7 | Aktív klór (szabad és kötött) vagy aktív bróm | Naponta | Negyedévente | 3. |  |
 
@@ -248,7 +250,7 @@
 
 | 10 | Átlátszóság | Naponta |  |  |  |
 
-| 11 | Zavarosság |  | Negyedévente |  |  |
+| 11 | Zavarosság |  | Negyedévente | 9. |  |
 
 ## Megjegyzések:
 
@@ -264,7 +266,11 @@
 
 ## 6. Akkor kell mérni, ha a tápvízként felhasznált vízben kimutatható.
 
-## 7. Akkor kell mérni, ha a medencevíz ismételt vagy súlyos szennyezése miatt a népegészségügyi hatóság elrendeli.
+## 7.[^77] Akkor kell mérni, ha a medencevíz rendszeres vagy jelentős szennyezése miatt a népegészségügyi hatóság elrendeli.
+
+## 8.[^78] A paramétert csak olyan esetben kell vizsgálni, ha ez a fürdési célú létesítmény vizének vizsgálatakor tapasztalt eltérés okának tisztázása érdekében szükséges, és az egészségügyi államigazgatási szerv előírja.
+
+## 9.[^79] Töltő-ürítő üzemmódban üzemeltetett medencében nem szükséges vizsgálni.
 
 ## 4.4. Helyszíni mérések
 
@@ -328,24 +334,42 @@
 
 | 3 | THM | 50 μg/m3 | 1 órás átlag |
 
-7. melléklet az 510/2023. (XI. 20.) Korm. rendelethez
+7. melléklet az 510/2023. (XI. 20.) Korm. rendelethez[^80]
 
 A közhasználatú fürdő terhelése
 
 ## A közhasználatú fürdő közegészségügyi-technológia szabályzatában feltüntetendő megengedett egyidejű legnagyobb terhelés számítása
 
-1. A közhasználatú fürdő üzemeltetője köteles a közegészségügyi-technológiai szabályzatban rögzíteni a fürdő megengedett egyidejű legnagyobb terhelését. A közhasználatú fürdő üzemeltetője köteles gondoskodni arról, hogy a közhasználatú fürdő területén egyidejűleg tartózkodó személyek száma mindenkor megállapítható legyen. A közhasználatú fürdő üzemeltetője felelős azért, hogy a fürdővendégek száma a megengedett egyidejű terhelést ne lépje túl.
+1. A közhasználatú fürdő üzemeltetője köteles a közegészségügyi-technológiai szabályzatban rögzíteni a fürdő megengedett egyidejű legnagyobb terhelését. A közhasználatú fürdő üzemeltetője köteles gondoskodni arról, hogy a közhasználatú fürdő területén egyidejűleg tartózkodó személyek száma mindenkor megállapítható legyen. A közhasználatú fürdő üzemeltetője felelős azért, hogy a fürdővendégek száma a megengedett egyidejű legnagyobb terhelést ne lépje túl.
 
-2. A közhasználatú fürdő egyidejű legnagyobb terhelése egyenlő a közhasználatú fürdő területén fürdés céljából egyidejűleg tartózkodó személyek legnagyobb számával.
+2. A közhasználatú fürdő megengedett egyidejű legnagyobb terhelése egyenlő a közhasználatú fürdő területén fürdés céljából egyidejűleg tartózkodó személyek megengedett legnagyobb számával.
 
-3. Közhasználatú fürdők egyidejű terhelhetősége az egyes fürdési célú létesítmények egyidejű összes terhelhetőségéből és a pihenőterület terhelhetőségéből adódik össze, de nem haladhatja meg a fürdési célú létesítmények egyidejű összes terhelhetőségének háromszorosát.
+3. Közhasználatú fürdők megengedett egyidejű legnagyobb terhelhetősége az egyes fürdési célú létesítmények megengedett egyidejű legnagyobb összes terhelhetőségéből és a pihenőterület megengedett egyidejű legnagyobb terhelhetőségéből adódik össze, de nem haladhatja meg a fürdési célú létesítmények megengedett egyidejű legnagyobb összes terhelhetőségének háromszorosát.
 
-4. A közhasználatú fürdő összes fürdési célú létesítmények egyidejű teljes terhelhetőségének számítása során az egyes fürdési célú létesítmények egyidejű tényleges terhelhetőségét kell megállapítani külön-külön, majd ezeket összegezni. Az egyes fürdési célú létesítmények egyidejű tényleges terhelhetőségének meghatározását a vonatkozó MSZ 15234 vagy az azt helyettesítő újabb szabvány alapján kell végezni.
+4. A közhasználatú fürdő összes fürdési célú létesítmények megengedett egyidejű legnagyobb összes terhelhetőségének számítása során az egyes fürdési célú létesítmények megengedett egyidejű legnagyobb tényleges terhelhetőségét kell megállapítani külön-külön, majd ezeket összegezni. Az egyes fürdési célú létesítmények megengedett egyidejű legnagyobb tényleges terhelhetőségének meghatározását a vonatkozó MSZ 15234 vagy az azt helyettesítő újabb szabvány alapján kell végezni.
 
-5. A pihenőterületből számított terhelhetőség értékének számításakor közhasználatú fürdő típusának megfelelően, a következőképpen kell eljárni: 1 fő vehető figyelembe strandfürdőnél 8 m2, nyitott uszodánál 4 m2, gőzfürdőnél és szaunánál 1,5 m2, fedett uszodánál 1 m2 pihenőterületre. Pihenőterületként kizárólag a pihenési célra alkalmas területek vehetők figyelembe, a közlekedésre kijelölt területek, folyosók nem számíthatók bele a terület értékébe, amennyiben azok szélessége nem éri el a 4 métert. Kevert típusú közhasználatú fürdő esetén a terhelhetőséget a típusonként rendelkezésre álló területek alapján szükséges kiszámítani. A kevert típusú közhasználatú fürdő teljes terhelhetősége a típusonként számított terhelhetőség összege.
+5. A pihenőterületből számított megengedett egyidejű legnagyobb terhelhetőség értékének számításakor közhasználatú fürdő típusának megfelelően, a következőképpen kell eljárni: 1 fő vehető figyelembe strandfürdőnél 8 m2, nyitott uszodánál 4 m2, gőzfürdőnél és szaunánál 1,5 m2, fedett uszodánál 1 m2 pihenőterületre. Pihenőterületként kizárólag a pihenési célra alkalmas területek vehetők figyelembe, a közlekedésre kijelölt területek, folyosók nem számíthatók bele a terület értékébe, amennyiben azok szélessége nem éri el a 4 métert. Kevert típusú közhasználatú fürdő esetén a terhelhetőséget a típusonként rendelkezésre álló területek alapján szükséges kiszámítani. A kevert típusú közhasználatú fürdő teljes terhelhetősége a típusonként számított terhelhetőség összege.
 
-6. A kiszámított befogadóképesség egyedi elbírálás szerint növelhető a fizioterápiás kezelőhelyek és a hozzájuk tartozó pihenőhelyek, valamint a vendéglátóhelyek és játszóterek kapacitásával az egészségügyi államigazgatási szerv hozzájárulása esetén.
+6. A kiszámított megengedett egyidejű legnagyobb terhelhetőség egyedi elbírálás szerint növelhető a fizioterápiás kezelőhelyek és a hozzájuk tartozó pihenőhelyek, valamint a vendéglátóhelyek és játszóterek kapacitásával az egészségügyi államigazgatási szerv hozzájárulása esetén.
 
-7. Csökkenteni kell a közhasználatú fürdő megengedhető terhelését minden – ideiglenesen vagy véglegesen – üzemen kívül lévő fürdési célú létesítmény vízfelületéből számított létszámmal.
+7. Csökkenteni kell a közhasználatú fürdő megengedett egyidejű legnagyobb terhelhetőségét minden – ideiglenesen vagy véglegesen – üzemen kívül lévő fürdési célú létesítmény vízfelületéből számított létszámmal.
 
-8. A közhasználatú fürdő üzemeltetője köteles gondoskodni arról, hogy a közhasználatú fürdő napi terhelése mindenkor megállapítható legyen. A közhasználatú fürdő napi megengedett terhelhetősége az egyidejű megengedett terhelhetőségből számítandó az alábbi képlet szerint:
+8. A közhasználatú fürdő üzemeltetője köteles gondoskodni arról, hogy a közhasználatú fürdő napi terhelése mindenkor megállapítható legyen. A közhasználatú fürdő napi megengedett terhelhetősége a megengedett egyidejű legnagyobb terhelhetőségből számítandó, az alábbi képlet szerint:
+
+[^64]: A 6. melléklet 3. pont 3.1. alpontja a 161/2025. (VI. 23.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^65]: [A 6. mellékletben foglalt 4. táblázat A:11 mezőjében a 161/2025. (VI. 23.) Korm. rendelet 13. § 20. pontja által elrendelt módosítás, amely szerint a „szabad aktív klór melegvizes masszázs-/élménymedence esetén (32 °C felett).” szövegrész helyébe a „szabad aktív klór melegvizes masszázsmedence esetén (32 °C felett).” szöveg lép, nem vezethető át.]
+[^66]: A 6. mellékletben foglalt táblázat G:14 mezője a 161/2025. (VI. 23.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^67]: [A 6. mellékletben foglalt táblázat A:21 mezőjében a 161/2025. (VI. 23.) Korm. rendelet 14. § i) pontja által elrendelt módosítás, amely szerint hatályát veszti a „(kloroformként számolva)” szövegrész, nem vezethető át.]
+[^68]: A 6. mellékletben foglalt táblázat G:21 mezője a 161/2025. (VI. 23.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.
+[^69]: A 6. mellékletben foglalt 4. táblázatot követő „Megjegyzések” megjelölésű rész 4. pontja a 161/2025. (VI. 23.) Korm. rendelet 14. § j) pontja szerint módosított szöveg.
+[^70]: A 6. mellékletben foglalt 4. táblázatot követő „Megjegyzések” megjelölésű rész 18. pontját a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^71]: A 6. melléklet 4. pont 4.2. alpontja a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^72]: A 6. melléklet 4. pont 4.3. alpont 4.3.2. pontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 19. pontja szerint módosított szöveg.
+[^73]: A 6. melléklet 4. pont 4.3. alpont 4.3.3. pontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 19. pontja szerint módosított szöveg.
+[^74]: A 6. melléklet 4. pont 4.3. alpont 4.3.5. pontja a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^75]: A 6. mellékletben foglalt 5. táblázat a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^76]: A 6. mellékletben foglalt 6. táblázat a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^77]: A 6. mellékletben foglalt 6. táblázatot követő „Megjegyzések” megjelölésű rész 7. pontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 23. pontja szerint módosított szöveg.
+[^78]: A 6. mellékletben foglalt 6. táblázatot követő „Megjegyzések” megjelölésű rész 8. pontját a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^79]: A 6. mellékletben foglalt 6. táblázatot követő „Megjegyzések” megjelölésű rész 9. pontját a 161/2025. (VI. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^80]: A 7. melléklet a 161/2025. (VI. 23.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

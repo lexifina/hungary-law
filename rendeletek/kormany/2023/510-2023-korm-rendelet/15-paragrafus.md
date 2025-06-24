@@ -13,3 +13,7 @@
 (6) Az NNGYK az anyagot, terméket a nyilvántartásból törli, vagy a fürdővízbiztonsági engedélyt visszavonja, ha az (5) bekezdés szerinti további vizsgálatok eredménye indokolja.
 
 (7) Az (5) bekezdésben foglaltaktól eltérően az NNGYK további vizsgálatok elrendelése nélkül, haladéktalanul visszavonja a fürdővízbiztonsági engedélyt, és törli az anyagot, terméket a nyilvántartásból, ha a közegészségügyi kockázat olyan magas, hogy a kockázatcsökkenés lehetősége a további vizsgálatok eredményétől sem várható.
+
+(8)[^27] Az NNGYK által nyilvántartásba vett termékek, fürdővízbiztonsági engedéllyel rendelkező technológiák esetében kiadott határozatok tartalmazzák a létesítés, a tápvízválasztás, a vízhasználat és az üzemeltetés feltételeit.
+
+[^27]: A 15. § (8) bekezdését a 161/2025. (VI. 23.) Korm. rendelet 10. §-a iktatta be.

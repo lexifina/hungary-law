@@ -1,10 +1,14 @@
 ## N = Ne * 0,35 * NyI,
 
+## Kizárólag gyógyászati célú medencét vagy tanmedencét tartalmazó közhasználatú fürdő napi megengedett terhelhetőségének meghatározásához az alábbi képlet használható:
+
+## N = Ne*NyI
+
 ## ahol:
 
 ## N = napi megengedett terhelhetőség
 
-## Ne = egyidejű megengedett terhelhetőség
+## Ne = egyidejű legnagyobb megengedett terhelhetőség
 
 ## NyI = nyitvatartási idő (óra)
 
@@ -16,7 +20,7 @@
 
 1.1.1. Fürdővízkezelésben használatos olyan vegyszerek, így különösen az oxidálószerek, flokkuláló szerek, koaguláló szerek, amelyek minőségi követelményeire vonatkozóan nincs érvényes nemzeti szabvány
 
-1.1.2. Fürdővíz kezelésére használatos termékek: fizikai kezelésére szolgáló szűrő, adszorbens, ioncserélő gyanta, membrán, szűrőanyag, helyszíni klór-, klórdioxid-fejlesztő, desztilláló, fordított ozmózisos, UV sugárzó berendezés
+1.1.2.[^81] Fürdővíz kezelésére használatos termékek: fizikai kezelésére szolgáló szűrő, adszorbens, ioncserélő gyanta, membrán, szűrőanyag, desztilláló, fordított ozmózisos, UV sugárzó berendezés
 
 1.1.3. Műanyagcsövek és tartályok [így különösen a polietilén (PE), a polipropilén (PP), a polivinil-klorid (PVC), az akrilonitril-butadién-sztirén kopolimer (ABS), a polietilén-tereftalát (PET), a poliuretán, az üvegszál erősítésű műanyag (GRP) stb.], műanyag bevonatok vagy bevonattal ellátott fém vagy műanyag csövek, műanyag termékek, szigetelő membránok
 
@@ -32,7 +36,7 @@
 
 1.2. Nyilvántartásba vételre nem kötelezett termékcsoportok, fürdővízbiztonsági engedély kiadására nem kötelezett technológiák
 
-1.2.1. Fürdővízkezelésben használatos olyan vegyszerek, az oxidálószerek, flokkuláló szerek, koaguláló szerek, amelyek minőségi követelményeire vonatkozó érvényes nemzeti szabványnak a termékminőség megfelel. A szabvány jelzetét a termék címkézésén fel kell tüntetni.
+1.2.1.[^82] Fürdővízkezelésben használatos olyan vegyszerek, így különösen az oxidálószerek, flokkuláló szerek, koaguláló szerek, amelyek minőségi követelményeire vonatkozó érvényes nemzeti szabványnak a termékminőség megfelel. A szabvány jelzetét a termék címkézésén fel kell tüntetni.
 
 1.2.2. Fürdővízkezelésben használatos természetes ásványi és szervetlen segédanyag, szűrőanyagok, amelyek minőségi követelményeire vonatkozóan van MSZ EN, MSZ EN ISO szabvány, vagy a bejelentés kötelesség alóli mentességet az NNGYK a termékről megállapítja. A szabvány jelzetét és a szabványnak való megfelelést a termék címkézésén fel kell tüntetni.
 
@@ -42,7 +46,7 @@
 
 1.3. Fürdővízbiztonsági engedély köteles technológia az a fürdővíz kezelő eljárás, amely az alábbi vízkezelő eljárások egyikét alkalmazza:
 
-1.3.1. aktív-oxigén, klórgáz vagy nátrium-kloritból szervetlen sav vagy klórgázzal történő klórdioxid előállítás kivételével a klórdioxid helyszíni előállítása,
+1.3.1.[^83] helyszíni fertőtlenítőszer előállítása,
 
 1.3.2. klóroxidációval történő ammónium eltávolítás,
 
@@ -103,3 +107,7 @@
 4.1. A termékek minősítését az NNGYK a honlapján közzétett, terméktípusonként részletezett tájékoztatók szerint végzi.
 
 4.2. Az NNGYK a közegészségügyi kockázatok mérlegelése alapján további dokumentumok benyújtását írhatja elő.
+
+[^81]: A 8. melléklet 1. pont 1.1. alpont 1.1.2. pontja a 161/2025. (VI. 23.) Korm. rendelet 14. § k) pontja szerint módosított szöveg.
+[^82]: A 8. melléklet 1. pont 1.2. alpont 1.2.1. pontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 25. pontja szerint módosított szöveg.
+[^83]: A 8. melléklet 1. pont 1.3. alpont 1.3.1. pontja a 161/2025. (VI. 23.) Korm. rendelet 13. § 24. pontja szerint módosított szöveg.
