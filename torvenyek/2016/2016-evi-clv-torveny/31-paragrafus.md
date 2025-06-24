@@ -24,6 +24,6 @@ g) a statisztikai adatfelvételből előállított statisztikai termék és anna
 
 (5) Az OSAP tervezése során a Hivatalos Statisztikai Szolgálat tagjai elkészítik a tervezett statisztikai adatfelvétel adat-előállítási módszertanára vonatkozó dokumentációt, amelyet a Hivatalos Statisztikai Szolgálat többi tagja, valamint az OST tagjai részére hozzáférhetővé tesznek.
 
-(6) Minden tárgyévet követő év szeptember 30-ig a KSH elnöke a Hivatalos Statisztikai Szolgálat tagjai által nyújtott információk alapján az OSAP teljesüléséről értékelő jelentést készít, amelyet véleményezés céljából megküld a Koordinációs Testületnek és az OST-nek, majd ezt követően nyilvánosságra hozza azt.
+(6) Minden tárgyévet követő év november 30-ig a KSH elnöke a Hivatalos Statisztikai Szolgálat tagjai által nyújtott információk alapján az OSAP teljesüléséről értékelő jelentést készít, amelyet véleményezés céljából megküld a Koordinációs Testületnek és az OST-nek, majd ezt követően nyilvánosságra hozza azt.
 
 (7) A Hivatalos Statisztikai Szolgálat tagjai az egyes statisztikai adatgyűjtések kérdőíveit és a kapcsolódó dokumentációt a KSH elnöke által kiadott módszertani iránymutatásban foglaltak szerint állítják össze.

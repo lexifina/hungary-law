@@ -20,4 +20,6 @@ f) a statisztikai adatfelvételi keretek kiválasztására, a statisztikai regis
 
 g) a Hivatalos Statisztikai Szolgálat tagjánál – kivéve az MNB-t – hivatalos statisztikai tevékenységet folytató személyekre vonatkozó képesítési és továbbképzési előírásokat.
 
+h) a 29. § (3) bekezdésében hivatkozott személyesadat-kategóriákra vonatkozó részletszabályokat.
+
 (2) Felhatalmazást kap a KSH felügyeletét ellátó miniszter, hogy rendeletben állapítsa meg a statisztikai számjel képzésének módját, valamint a statisztikai módszerek, fogalmak, osztályozások, számjelek használatának alkalmazását.

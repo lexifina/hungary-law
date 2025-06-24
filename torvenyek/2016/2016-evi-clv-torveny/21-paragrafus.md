@@ -14,9 +14,9 @@ b) a Nemzeti Statisztika Gyakorlati Kódexe tartalmának véleményezése,
 
 c) az Országos Statisztikai Adatfelvételi Program véleményezése a felhasználói igények és az adatszolgáltatói terhek szempontjából,
 
-d) a Hivatalos Statisztikai Szolgálat éves tájékoztatási programjának véleményezése,
+d) a Hivatalos Statisztikai Szolgálat tagjai tájékoztatási tevékenységével kapcsolatos kérdések véleményezése,
 
-e) a statisztikai adatokhoz való tudományos célú hozzáférés feltételeinek véleményezése.
+e) a hivatalos statisztika fejlesztésére, előállítására, nyilvánosságra hozatalára vonatkozó prioritások, stratégiai kérdések megvitatása.
 
 (3) Az OST bármilyen, statisztikával kapcsolatos kérdést napirendjére tűzhet, az üléseire meghívhatja a KSH szakértőit. Feladataival kapcsolatban ajánlásokat fogalmazhat meg.
 

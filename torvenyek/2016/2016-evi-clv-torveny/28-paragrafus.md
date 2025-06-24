@@ -64,13 +64,13 @@ e) értékkészletet tartalmazó adatállomány esetén az értékkészletek (k�
 
 f) az adatok értelmezését segítő egyéb módszertani leírások, amelyek megadják az állomány sokaságát (a nyilvántartás, illetve az abból átvett egyedek körét), az állomány tartalmára vonatkozó módszertani információkat (alkalmazott osztályozások, megfigyelés és előállítás módszertanát), a nyilvántartás aktualizálásának, minőség-ellenőrzésének módját.
 
-(10) Az adminisztratív adatok átadását – a KSH részére minden esetben, a Hivatalos Statisztikai Szolgálat egyéb tagjai részére igényük esetén – a KSH által erre a célra üzemeltetett elektronikus rendszeren keresztül kell teljesíteni.
+(10) Az adminisztratív adatok átadását a Hivatalos Statisztikai Szolgálat tagja által meghatározott módon, csatornán keresztül kell teljesíteni.
 
-(10a) A (10) bekezdésben foglalt elektronikus rendszeren keresztül történő adatátadásra a 27/A. §-ban foglaltakat kell alkalmazni.
+(10a)
 
-(11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről minden évben a KSH által meghatározott tartalmú és formájú minőségjelentést állít össze és megküldi azt a KSH részére.
+(11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről a KSH által meghatározott tartalommal és formában információt ad át a KSH részére.
 
-(12) A KSH a beérkezett minőségjelentéseket és az azokhoz fűzött, a minőség javítását célzó észrevételeit bemutatja véleményezés céljából a Nemzeti Statisztikai Koordinációs Testületnek.
+(12)
 
 (13) Az adminisztratív adatforrást kezelő szerv együttműködik a Hivatalos Statisztikai Szolgálat adatot átvevő tagjával az adminisztratív adatforrás hivatalos statisztikai célú felhasználásának minőség-ellenőrzésével összefüggésben megfogalmazott észrevételek átültetésében, ha azok a kezelő szerv számára nem jelentenek igazgatási, műszaki többlet feladatot, illetve az észrevételek beépítése nem jár a kezelő szerv alaptevékenységére nézve igazgatási vagy informatikai biztonsági kockázat növekedésével. Az adminisztratív adatforrást kezelő szerv az általa elfogadott észrevételek végrehajtásáról, illetve az el nem fogadott észrevételek indokáról köteles a Hivatalos Statisztikai Szolgálatnak az észrevételt megfogalmazó tagja részére beszámolni.
 

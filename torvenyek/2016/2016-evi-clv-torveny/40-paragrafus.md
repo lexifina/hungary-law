@@ -1,4 +1,4 @@
-40. § (1) A természetes személy személyére vonatkozó statisztikai adatfelvételnél a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti természetes személyazonosító adatokat – kivéve azt, amelynek adathordozóját a levéltári anyag védelmére vonatkozó jogszabály értelmében levéltári őrizetbe kell adni – a statisztikai feldolgozás befejezésekor törölni kell.
+40. § (1)
 
 (2) A személyes adatokat tartalmazó adatállományok esetében a statisztikai egység statisztikai adatgyűjtéshez használt közvetlen azonosító adatait különválasztva kell tárolni a statisztikai egységre vonatkozó egyéb adatoktól. Az adatgyűjtéshez használt közvetlen azonosító helyett az egyes statisztikai egységeket technikai azonosítóval kell ellátni, amelynek segítségével a kapcsolat a gyűjtött adatok és a statisztikai egység adatgyűjtéshez használt közvetlen azonosító adatai között helyreállítható.
 

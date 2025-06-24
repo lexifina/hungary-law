@@ -20,8 +20,8 @@
 
 (7) A KSH az adatok gyűjtéséhez, az adatok feldolgozásához, és az adatok közzétételéhez kapcsolódó közhatalmi feladatait a KSH elnöke által alapított, a magyar állam 100%-os tulajdonában álló Statisztikai Elemző Központ Korlátolt Felelősségű Társaság bevonásával látja el.
 
-(8) A gazdasági társaság felett a tulajdonosi jogokat a magyar állam nevében a KSH elnöke gyakorolja.
+(8) A gazdasági társaság felett a tulajdonosi jogokat – ideértve a nemzeti vagyonra vonatkozó jogszabályok szerinti tulajdonosi joggyakorlást – a magyar állam nevében a KSH elnöke gyakorolja.
 
-(9) A Központi Statisztikai Hivatal Népességtudományi Kutató Intézet központi költségvetési szerv, amely az alap- és alkalmazott demográfiai kutatást, mint közfeladatot látja el, és amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.
+(9) A Központi Statisztikai Hivatal Kvantitatív Társadalom- és Gazdaságtudományi Kutató Intézet központi költségvetési szerv, amely az alap- és alkalmazott kvantitatív társadalom- és gazdaságtudományi kutatást, mint közfeladatot látja el, és amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.
 
 (10) A Központi Statisztikai Hivatal Könyvtár egy teljes kötelespéldánysorra jogosult országos feladatkörű tudományos szakkönyvtár, amely felett az irányítási jogkört – az alapítás, átalakítás, megszüntetés kivételével – a KSH elnöke gyakorolja.

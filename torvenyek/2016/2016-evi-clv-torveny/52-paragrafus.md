@@ -10,4 +10,8 @@ c) a vállalkozások statisztikai célú nyilvántartása közös keretének lé
 
 d) a tagállamok közötti áruforgalomra vonatkozó közösségi statisztikákról szóló 638/2004/EK rendelet módosításáról szóló 2009. március 11-i 222/2009/EK európai parlamenti tanácsi rendelet
 
+e) az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet,
+
+f) az európai statisztikákról szóló 223/2009/EK rendelet módosításáról szóló, 2024. november 27-i (EU) 2024/3018 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

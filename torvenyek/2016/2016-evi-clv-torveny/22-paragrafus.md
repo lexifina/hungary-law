@@ -6,7 +6,7 @@
 
 a) a hivatalos statisztika fejlesztésére, előállítására, nyilvánosságra hozatalára vonatkozó prioritások, stratégiai kérdések megvitatása,
 
-b) a hivatalos statisztikák fejlesztéséhez, előállításához és nyilvánosságra hozatalához szükséges erőforrások felmérése,
+b)
 
 c) javaslatok kidolgozása a hivatalos statisztikai tevékenység egységesítésére, a minőségének folyamatos javítására, a párhuzamosságok kiküszöbölésére,
 
@@ -14,7 +14,7 @@ d) részvétel a Nemzeti Statisztika Gyakorlati Kódexe tartalmának kidolgozás
 
 e) az Országos Statisztikai Adatfelvételi Program tervének előzetes véleményezése, továbbá a végrehajtás nyomon követése és a program teljesülésének értékelése,
 
-f) másodlagos adatforrások hivatalos statisztikai célú felhasználásával kapcsolatos állásfoglalások és iránymutatások véleményezése,
+f)
 
 g) módszertani kérdések, fogalmak, osztályozások, ajánlások, állásfoglalások és iránymutatások véleményezése,
 

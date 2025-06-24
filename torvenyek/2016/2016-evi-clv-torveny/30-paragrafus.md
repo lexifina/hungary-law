@@ -4,7 +4,7 @@
 
 (2) A népmozgalmi események körében kell megfigyelni a magyar állampolgárok külföldön bekövetkezett azon népmozgalmi eseményeit, amelyek anyakönyvezésére Magyarországon is sor kerül.
 
-(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, a halálozással, illetve a terhesség megszakításával mint népmozgalmi eseményekkel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi eseményazonosító, a népmozgalmi esemény helye és ideje.
+(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, a halálozással, illetve a terhesség megszakításával mint népmozgalmi eseményekkel összefüggő egészségi állapot, ezen eseményekhez kapcsolódó betegtörzsszám, az anyakönyvezés helye, az anyakönyvi eseményazonosító, a népmozgalmi esemény helye és ideje.
 
 (4) A népmozgalmi eseménnyel kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és az anyakönyvi eseményazonosítót a népmozgalmi adatok statisztikai célú feldolgozását és törvény szerinti adatátadási kötelezettség teljesítését követően 8 napon belül törölni kell.
 

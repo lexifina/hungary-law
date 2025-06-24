@@ -1,1 +1,1 @@
-51/A. § A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv 2020. december 15-ig a 2020. december 1-jei állapotnak megfelelően megküldi a KSH részére valamennyi aktív regisztrációval rendelkező személy természetes személyazonosító adatait, egyedi azonosítóját, regisztrációja időpontját, továbbá – amennyiben a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
+### 51/A. §

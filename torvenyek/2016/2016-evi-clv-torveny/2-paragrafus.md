@@ -8,7 +8,11 @@
 
 3. adminisztratív adatforrás: olyan másodlagos adatforrás, amelyben tárolt adatok gyűjtését vagy azokról nyilvántartás vezetését jogszabály írja elő az adminisztratív adatforrás kezelője számára,
 
+3a. anonimizálás: személyes adat olyan módon történő kezelése, amelynek következtében további információk felhasználásával sem állapítható meg többé, hogy a személyes adat mely konkrét természetes személyre vonatkozik,
+
 4. azonosítás: az az esemény, amikor egy adott statisztikai egységet (különösen: természetes személyt, gazdálkodó szervezetet, egyéb intézményt) egyértelműen felismernek vagy hozzájutnak a statisztikai egység egy vagy több közvetlen azonosítójához,
+
+4a. álnevesítés: személyes adatoknak az általános adatvédelmi rendelet 4. cikk 5. pontjában meghatározott módon történő kezelése,
 
 5. egyedi adat: olyan adat vagy adatok olyan együttese, amely – a mindenkori legjobb technikai lehetőségek igénybevételével – lehetővé teszi a statisztikai egység közvetlen vagy közvetett azonosítását, illetve azon keresztül eddig nem ismert információ felfedését,
 
@@ -34,7 +38,7 @@
 
 16. statisztikai adatgyűjtés: a statisztikai adatfelvétel által meghatározott sokaság adott időszakra vagy időpontra vonatkozó ismérveinek összegyűjtése a kiválasztott adatszolgáltatók megkérdezésével vagy közvetlen megfigyeléssel,
 
-17. statisztikai cél: hivatalos statisztikai adat statisztikai adat-előállítási folyamatban való felhasználása,
+17. statisztikai cél: adat hivatalos statisztikai adat-előállítási folyamatban való felhasználása, ideértve az adatok elemzését, a kapcsolódó tudományos és kutatási tevékenységet, valamint a mintavételi keretek kialakítását,
 
 18. statisztikai egység: a sokaság meghatározott tulajdonságokkal, jellemzőkkel, ismérvekkel rendelkező egyede,
 

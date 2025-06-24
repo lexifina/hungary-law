@@ -20,7 +20,7 @@ g) a Hivatalos Statisztikai Szolgálat Országos Statisztikai Adatfelvételi Pro
 
 h) az Országgyűlés és a Kormány évenkénti tájékoztatása Magyarország társadalmi, gazdasági, környezeti és népesedési adatairól,
 
-i) éves jelentés készítése az Országgyűlés részére a Hivatalos Statisztikai Szolgálat működéséről és a jelentés közzététele,
+i)
 
 j) a Hivatalos Statisztikai Szolgálat tagjainak akkreditációja, akkreditációjuk felülvizsgálata,
 
@@ -32,11 +32,13 @@ m) Magyarország Közigazgatási Helynévkönyvének vezetése, Magyarország He
 
 n) egy teljes kötelespéldánysorra jogosult országos feladatkörű tudományos szakkönyvtár üzemeltetése,
 
-o) népességtudományi kutatóintézet üzemeltetése,
+o) kvantitatív társadalom- és gazdaságtudományi kutatóintézet üzemeltetése,
 
 p) közreműködés a statisztikai szakképzés rendszerének kialakításában, működtetésében,
 
 q) közreműködés a statisztikai kultúra terjesztésében és fejlesztésében.
+
+r) részvétel a nemzeti adatkormányzás irányításában.
 
 (3) A KSH javaslatot tesz a hivatalos statisztikai tevékenységet érintő jogszabályok megalkotására.
 
