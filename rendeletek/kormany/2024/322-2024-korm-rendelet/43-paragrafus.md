@@ -1,6 +1,16 @@
 ## 33. Hivatali tárhely
 
-43. § (1) A hivatali tárhely a kijelölt szolgáltató által az együttműködő szervek, valamint köznevelési intézmények és a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezetek számára nyújtott, hivatalos elektronikus kapcsolattartásra szolgáló tárhely.
+43. § (1)[^26] A hivatali tárhely a kijelölt szolgáltató által nyújtható
+
+a) az együttműködő szerv,
+
+b) a köznevelési és szakképző intézmény vagy a fenntartója,
+
+c) a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezet, valamint
+
+d) a nemzetiségi önkormányzat
+
+számára hivatalos elektronikus kapcsolattartás céljából.
 
 (2) A hivatali tárhely biztosítja
 
@@ -12,10 +22,15 @@ b) a felhasználó vagy más együttműködő szerv számára elektronikus küld
 
 a) az ügyfelek az erre szolgáló alkalmazással készített elektronikus űrlapot és elektronikus dokumentumokat tudjanak küldeni az együttműködő szervek hivatali tárhelyére, valamint
 
-b) az együttműködő szervek elektronikus dokumentumot tudjanak küldeni az ügyfelek és más együttműködő szerv elektronikus tárhelyére.
+b)[^27] az (1) bekezdés szerinti szervek elektronikus dokumentumot tudjanak küldeni az ügyfelek és más együttműködő szerv elektronikus tárhelyére.
 
-(4) Az együttműködő szerv köteles gondoskodni arról, hogy a hivatali tárhelyre érkezett üzenetek minden munkanapon átvételre kerüljenek.
+(4)[^28] Az (1) bekezdés szerinti szerv köteles gondoskodni arról, hogy a hivatali tárhelyre érkezett üzenetek minden munkanapon átvételre kerüljenek.
 
-(5) A költségvetési szervnek, köztestületnek vagy nonprofit szervezetnek minősülő együttműködő szervek, a köznevelési intézmények, a Magyar Bírósági Végrehajtói Kar valamint a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezetek, továbbá a közjegyzők és az önálló bírósági végrehajtók számára a hivatali tárhely létesítése és fenntartása díjmentes.
+(5)[^29] A költségvetési szervnek, köztestületnek vagy nonprofit szervezetnek minősülő együttműködő szervek, a köznevelési és szakképző intézmények és fenntartóik, a Magyar Bírósági Végrehajtói Kar, a nemzetiségi önkormányzatok, valamint a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezetek, továbbá a közjegyzők és az önálló bírósági végrehajtók számára a hivatali tárhely létesítése és fenntartása díjmentes.
 
 (6) A szolgáltató a hivatali tárhelyre érkezett üzeneteket az átvétel napját követő 5. munkanapon – a gépi automatizált letöltések esetén az átvételt követően azonnal – a tárhelyről törli. Átvétel hiányában az üzenetet a szolgáltató a – második megkereséstől számított 5 munkanap elteltével – meghiúsulást követően törölheti.
+
+[^26]: A 43. § (1) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^27]: A 43. § (3) bekezdés b) pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 11. pontja szerint módosított szöveg.
+[^28]: A 43. § (4) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 12. pontja szerint módosított szöveg.
+[^29]: A 43. § (5) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.

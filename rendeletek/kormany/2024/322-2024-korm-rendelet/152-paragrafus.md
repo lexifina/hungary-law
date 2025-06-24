@@ -6,7 +6,7 @@
 
 (2) A digitális szolgáltatást biztosító szervezet a 147. § (2) bekezdése szerinti bejelentést 2024. december 31-ig teszi meg.
 
-(3)[^4] Az e rendelet hatálybalépését megelőzően nyilvántartásba vett elektronikus ügyintézést önként vállaló jogalany köteles a Felügyelet felé bejelentést tenni a Dáptv. 9. § (4) bekezdésében és az e rendeletben meghatározott digitális szolgáltatások nyújtását önként vállaló szervvé válás feltételeinek vállalásáról és a feltételek vállalása esetén a vállaló szervezet köteles az engedélyezés iránti kérelmet 2024. december 31-ig előterjeszteni.
+(3)[^70] Az e rendelet hatálybalépését megelőzően nyilvántartásba vett elektronikus ügyintézést önként vállaló jogalany köteles a Felügyelet felé bejelentést tenni a Dáptv. 9. § (4) bekezdésében és az e rendeletben meghatározott digitális szolgáltatások nyújtását önként vállaló szervvé válás feltételeinek vállalásáról és a feltételek vállalása esetén a vállaló szervezet köteles az engedélyezés iránti kérelmet 2024. december 31-ig előterjeszteni.
 
 (4) Ha a (3) bekezdés szerinti jogalany nem vállalja a Dáptv. szerinti feltételek teljesítését, úgy köteles 2024. december 31-ig az igénybe vett támogató szolgáltatások igénybevételét megszüntetnie és ezt bejelentenie a Felügyelet részére.
 
@@ -14,13 +14,24 @@
 
 (6) A Dáptv. 119. § (2) bekezdése alapján nyújtott azonosításra visszavezetett dokumentumhitelesítés-szolgáltatást az e rendelet hatálybalépését megelőzően kijelölt szolgáltató az e rendelet hatálybalépését megelőző napon hatályos rendelkezések szerint, a támogató szolgáltatásokra vonatkozó rendelkezések alkalmazásával nyújtja. A szolgáltatás felügyeletére a támogató szolgáltatásokra vonatkozó rendelkezések alkalmazandók.
 
-(7) 2025. június 1-jét megelőzően a Dáptv. V. RÉSZE szerinti jogalanyok – azon jogalanyok kivételével, amelyek a 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 2024. június 30-án hatályos rendelkezései alapján közüzemi szolgáltatónak minősülnek – a támogató szolgáltatások igénybevételét az e rendelet hatálybalépését megelőzően hatályos, az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet [a továbbiakban: 451/2016. (XII. 19.) Korm. rendelet] 68/B. §-a szerint folytathatja.
+(7)[^71]
 
-(8) A 451/2016. (XII. 19.) Korm. rendelet e rendelet hatálybalépését megelőzően hatályos rendelkezéseit a biztonságos kézbesítési szolgáltatásra és az ahhoz kapcsolódó tárhelyekre 2025. december 31-ig alkalmazni kell.
+(8)[^72] A 451/2016. (XII. 19.) Korm. rendelet e rendelet hatálybalépését megelőzően hatályos rendelkezéseit a biztonságos kézbesítési szolgáltatásra és az ahhoz kapcsolódó tárhelyekre 2026. december 31-ig alkalmazni kell.
 
 (9) A Dáptv. 8. § 24. pont b) alpontja szerinti gazdálkodó szervezetnek minősülő, adószámmal rendelkező egyházi jogi személy köteles legkésőbb 2024. december 31-ig a cégkapu-regisztrációt elvégezni. A cégkapu-regisztráció elvégzésig az egyházi jogi személy a 2024. szeptember 1-jét megelőző szabályok szerint tart kapcsolatot. Az egyházi jogi személy jogosult a 2024. szeptember 1-jétől e rendelet hatálybalépéséig elektronikus ügyintézési kötelezettségre hivatkozással elutasított kérelmét ismételten a 2024. szeptember 1-jét megelőző szabályok szerint benyújtani, azzal, hogy kérelmét határidőben benyújtottnak kell tekinteni.
 
-(10)[^5] 2025. június 1-jéig a támogató szolgáltatások igénybevételét az e rendelet hatálybalépését megelőzően hatályos 451/2016. (XII. 19.) Korm. rendelet 68/A. §-a szerint szükséges biztosítani, ha az igénybevevő a 451/2016. (XII. 19.) Korm. rendelet 68/A. § (1) bekezdése szerinti szereplő.
+(10)[^73] A Dáptv. 80. § (1) bekezdése szerinti, valamint a Dáptv. 65. § (1) bekezdése szerinti digitális szolgáltatást biztosító szervezetnek nem minősülő szervezet, amely a 2024. augusztus 31-én hatályos, az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerint vett igénybe támogató szolgáltatást, az igénybe vett szolgáltatást megszakítás nélkül folytathatja, amennyiben a rá irányadó 90. § (2) bekezdésében, valamint a 90/A. §-ban foglalt kötelezettségének eleget tesz.
 
-[^4]: A 152. § (3) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^5]: A 152. § (10) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 16. §-a iktatta be.
+(11)[^74] A Dáptv. 80. § (1) bekezdés i)–n) pontja szerinti szerv a XXIII/A. Fejezet szerinti tanúsítási eljárás lefolytatása nélkül is jogosult csatlakozni a digitális állampolgárság szolgáltatáshoz, ha informatikai rendszere a digitális államhoz kapcsolódó egyes kormányrendeletek módosításáról szóló 164/2025. (VI. 23.) Korm. rendelettel megállapított XXIII/A. Fejezet hatálybalépésekor a pénzügyi intézmények, a biztosítók és a viszontbiztosítók, továbbá a befektetési vállalkozások és az árutőzsdei szolgáltatók informatikai rendszerének védelméről szóló kormányrendelet (e bekezdés alkalmazásában a továbbiakban: Korm. r.) szerinti érvényes tanúsítvánnyal rendelkezik, vagy a szerv a Korm. r. szerint tanúsítási eljárást megkezdte.
+
+(12)[^75] A Dáptv. 80. § (1) bekezdés i)–n) pontja szerinti szervnek a XXIII/A. Fejezet szerinti tanúsítványt 2025. december 1. napjáig kell megszereznie, a (11) bekezdés szerinti esetben is.
+
+(13)[^76] A Nemzeti Adó- és Vámhivatal a 451/2016. (XII. 19.) Korm. rendelet 2021. december 31-én hatályos 115. §-a szerinti szolgáltatással 2026. december 31-éig biztosíthatja az elektronikus ügyintézést.
+
+[^70]: A 152. § (3) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^71]: A 152. § (7) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 49. § d) pontja hatályon kívül helyezte.
+[^72]: A 152. § (8) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 30. pontja szerint módosított szöveg.
+[^73]: A 152. § (10) bekezdését a 342/2024. (XI. 14.) Korm. rendelet 16. §-a iktatta be, szövege a 164/2025. (VI. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^74]: A 152. § (11) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^75]: A 152. § (12) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^76]: A 152. § (13) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.

@@ -2,6 +2,6 @@
 
 ## HATÁLYON KÍVÜL HELYEZŐ RENDELKEZÉSEK
 
-153. §[^6]
+153. §[^77]
 
-[^6]: A 153. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 153. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

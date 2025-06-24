@@ -1,10 +1,10 @@
-91. § (1) A Dáptv. 80. §-a szerinti szervezet a Dáptv. 80. §-a szerinti szolgáltatás tartalmával azonos tartalmú, a piaci szereplők részére nyújtható központi állami szolgáltatást (a továbbiakban: PKASZ) jelen alcímben meghatározottak szerint igényelhet.
+91. § (1)[^49] A Dáptv. 65. § (1) bekezdés b) pontja szerinti szervezet, valamint az a Dáptv. 80. §-a szerinti szervezet, amely nem köteles a Dáptv. 80. § (2)–(6) bekezdése szerinti szolgáltatások biztosítására, a piaci szereplők részére nyújtható központi állami szolgáltatást (a továbbiakban: PKASZ) e §-ban meghatározottak szerint igényelhet.
 
-(2) A PKASZ szolgáltatója a vele azonos tartalmú, Dáptv. 80. §-a szerinti szolgáltatás kijelölt szolgáltatója (e § alkalmazásában a továbbiakban együtt: kijelölt szolgáltató).
+(2)[^50] A PKASZ szolgáltatója a vele azonos tartalmú központi állami szolgáltatás kijelölt szolgáltatója (e § alkalmazásában a továbbiakban együtt: kijelölt szolgáltató).
 
-(3) Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz a 3. melléklet szerint kialakított díj megfizetése ellenében, a kijelölt szolgáltató által közzétett ÁSZF-ben foglaltak elfogadásával csatlakozhat.
+(3)[^51]
 
-(4) A KKSZB-t, valamint a KASZ-okat, az összerendelési nyilvántartás és a KAÜ szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés-szolgáltató által nyújtott tanúsítványszolgáltatást díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult
+(4)[^52] A KKSZB-t díjmentesen veheti igénybe az a piaci szereplő és a digitális szolgáltatások nyújtását önkéntesen vállaló szervezet, amely jogszabály alapján kötelezett, illetve jogosult
 
 a) a 21. § (1) bekezdésében meghatározott vagy
 
@@ -42,4 +42,10 @@ i) a mesterséges intelligenciával támogatott kommunikációs asszisztens.
 
 (7) A szolgáltatásnyújtás ÁSZF-ben vállalt folyamatosságának és biztonságának digitális szolgáltatást biztosító szervezet részére történő elsődleges biztosítása céljából a kijelölt szolgáltató korlátozhatja és szüneteltetheti a szolgáltatás nyújtását az (1) bekezdés szerinti szervezettel szemben. A korlátozás és szüneteltetés megtörténtéről a kijelölt szolgáltató a szolgáltatás ÁSZF-jében meghatározott módon értesíti az érintett szervezetet.
 
-(8) Az (1) bekezdés szerinti szervezet a PKASZ-hoz akkor csatlakozhat, ha a szervezet a Dáptv. 81. §-a szerinti követelményeknek megfelel és a kijelölt szolgáltató kapacitásai rendelkezésre állnak-e szolgáltatások nyújtására. A kijelölt szolgáltató a csatlakozó szerv által megküldött tervezett kapacitásigényt figyelembe véve tesz javaslatot a Felügyeletnek a csatlakozásra. A Felügyelet a beérkezett dokumentumokat megvizsgálja, és dönt a csatlakozásról, amelyet megküld a kijelölt szolgáltatónak.
+(8)[^53]
+
+[^49]: A 91. § (1) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^50]: A 91. § (2) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 22. pontja szerint módosított szöveg.
+[^51]: A 91. § (3) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 49. § c) pontja hatályon kívül helyezte.
+[^52]: A 91. § (4) bekezdés nyitó szövegrésze a 164/2025. (VI. 23.) Korm. rendelet 48. § 23. pontja, a 164/2025. (VI. 23.) Korm. rendelet 48. § 24. pontja szerint módosított szöveg.
+[^53]: A 91. § (8) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 49. § c) pontja hatályon kívül helyezte.

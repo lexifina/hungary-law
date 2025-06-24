@@ -38,10 +38,16 @@ b) természetes személyazonosító adatok
 
 alapján a kérelemben megjelölt nyilvántartásban szereplő természetes személy titkosított kapcsolati kódja szolgáltatható.
 
-(7) Az összerendelési nyilvántartásból a digitális állampolgárság szolgáltató és az életesemény-szolgáltató részére az általa nyújtott szolgáltatáshoz az általa kezelt
+(7)[^38] Az összerendelési nyilvántartásból a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére az általa nyújtott szolgáltatáshoz az általa kezelt
 
-a) digitális állampolgár azonosító alapján természetes személyazonosító adatok szolgáltathatók,
+a)[^39] digitális állampolgár azonosító alapján természetes személyazonosító adatok vagy okmányazonosító szolgáltathatók,
 
 b) természetes személyazonosító adatok alapján digitális állampolgár azonosító szolgáltatható
 
 az érintett nyilvántartásokat kezelő szervek bevonásával.
+
+(8)[^40] Az összerendelési nyilvántartásból az eAzonosítás keretszolgáltatás nyújtásához a digitális állampolgárság szolgáltató részére az általa kezelt digitális állampolgár azonosító alapján a kérelemben megjelölt nyilvántartásban szereplő természetes személy titkosított kapcsolati kódja szolgáltatható.
+
+[^38]: A 74. § (7) bekezdés nyitó szövegrésze a 164/2025. (VI. 23.) Korm. rendelet 48. § 18. pontja szerint módosított szöveg.
+[^39]: A 74. § (7) bekezdés a) pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 19. pontja szerint módosított szöveg.
+[^40]: A 74. § (8) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 35. §-a iktatta be.

@@ -6,10 +6,15 @@ a) amelynek adattartalma ember által olvasható és értelmezhető formában a 
 
 b) amely automatizált feldolgozásra alkalmas, strukturált módon tartalmazza az űrlap adattartalmát.
 
-(3) A szolgáltató biztosítja az űrlaphoz elektronikus dokumentumok, beleértve az e § szerinti elektronikus űrlapok csatolhatóságát.
+(3)[^34] A szolgáltató biztosítja az elektronikus űrlaphoz elektronikus dokumentumok, beleértve az e § szerinti elektronikus űrlapok csatolhatóságát.
 
-(4) A szolgáltatás része a kitöltött űrlapot és csatolmányait tartalmazó elektronikus dokumentum hivatali tárhelyre történő kézbesítésre átadása az ajánlott elektronikus kézbesítési szolgáltatás részére.
+(4)[^35] A szolgáltatás része a kitöltött elektronikus űrlapot és csatolmányait tartalmazó elektronikus dokumentum hivatali tárhelyre történő kézbesítésre átadása az ajánlott elektronikus kézbesítési szolgáltatás részére.
 
-(5) A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartása jogosultságkezelési ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő digitális szolgáltatást biztosító szervezet az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
+(5)[^36] A szolgáltató az azonosítás során megismert, valamint az elektronikus űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartása jogosultságkezelési ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az elektronikus űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő digitális szolgáltatást biztosító szervezet az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
 
-(6) A digitális szolgáltatást biztosító szervezet köteles biztosítani, hogy az űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
+(6)[^37] A digitális szolgáltatást biztosító szervezet köteles biztosítani, hogy az elektronikus űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
+
+[^34]: A 71. § (3) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 14. pontja szerint módosított szöveg.
+[^35]: A 71. § (4) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 15. pontja szerint módosított szöveg.
+[^36]: A 71. § (5) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 16. pontja szerint módosított szöveg.
+[^37]: A 71. § (6) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 48. § 17. pontja szerint módosított szöveg.

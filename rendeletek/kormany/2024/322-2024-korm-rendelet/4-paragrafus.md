@@ -1,8 +1,8 @@
-4. § (1) A digitális állampolgárság szolgáltató kivételével, ha a digitális szolgáltatás nyújtására köteles szerv természetes személyek, gazdálkodó szervezetek, valamint más jogalanyok számára nyújtott digitális szolgáltatás kialakítását tervezi, akkor azt
+4. § (1)[^8] A digitális állampolgárság szolgáltató kivételével, ha a digitális szolgáltatást biztosító szervezet természetes személyek, gazdálkodó szervezetek, valamint más jogalanyok számára nyújtott digitális szolgáltatás kialakítását tervezi, akkor azt
 
-a) ha a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) szerinti éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben szerepel, a terv benyújtásától számított 60 napon belül,
+a)[^9] ha a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) szerinti éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben szerepel, a terv jóváhagyásától számított 60 napon belül,
 
-b) ha a digitális szolgáltatás nyújtására köteles szerv a beszerzési igényt a DKÜ rendelet szerinti rendkívüli informatikai beszerzési igény keretében tervezi benyújtani, a beszerzés elindítása előtt legkésőbb 60 nappal,
+b)[^10] ha a digitális szolgáltatást biztosító szervezet a beszerzési igényt a DKÜ rendelet szerinti rendkívüli informatikai beszerzési igény keretében tervezi benyújtani, a beszerzés elindítása előtt legkésőbb 60 nappal,
 
 c) ha a szolgáltatás kialakításához nem szükséges a DKÜ rendelet hatálya alá tartozó beszerzés, az igény felmerülését követően legkésőbb 60 nappal, vagy
 
@@ -42,6 +42,11 @@ d) a szolgáltatás keretalkalmazásba történő integrálásának módját.
 
 (6) A digitális állampolgárság szolgáltató a (4) bekezdés szerinti tevékenysége során a releváns üzleti titkokat megismerheti, a munkaanyagokba és az eredménytermékekbe betekinthet, azok digitális állampolgárság programnak való megfelelőségét ellenőrizheti.
 
-(7) A digitális szolgáltatás nyújtására köteles szerv mobiltelefonra vagy más hordozható eszközre fejlesztett alkalmazását a digitális állampolgárság szolgáltató helyezi el az felhasználók általi letöltésre szolgáló online platformokon.
+(7)[^11] A digitális szolgáltatást biztosító szerv mobiltelefonra vagy más hordozható eszközre fejlesztett alkalmazását – amennyiben a Felügyelet az (5) bekezdés szerinti határozatában eltérően nem rendelkezik – a digitális állampolgárság szolgáltató helyezi el az felhasználók általi letöltésre szolgáló online platformokon.
 
 (8) A digitális állampolgárság szolgáltatót a (4) és (7) bekezdés szerinti tevékenységéért díjazás illeti meg.
+
+[^8]: A 4. § (1) bekezdés nyitó szövegrésze a 164/2025. (VI. 23.) Korm. rendelet 48. § 3. pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés a) pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 4. pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés b) pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 3. pontja szerint módosított szöveg.
+[^11]: A 4. § (7) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 23. §-ával megállapított szöveg.

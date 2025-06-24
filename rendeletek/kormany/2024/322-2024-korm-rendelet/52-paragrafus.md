@@ -1,6 +1,6 @@
 ## 36. Az ügyfél ügyintézési rendelkezésének nyilvántartása
 
-52. § (1) A rendelkezési nyilvántartás szolgáltatója az ügyintézési rendelkezések nyilvántartása alapján kiállított, általa hitelesített igazolásban automatikus információátadás útján, a 69. § szerinti szolgáltatás igénybevételével vagy más, automatizált feldolgozásra alkalmas módon tájékoztatja a digitális szolgáltatást biztosító szervezetet vagy más szolgáltatót az ügyintézési rendelkezés tartalmáról.
+52. § (1)[^30] A rendelkezési nyilvántartás szolgáltatója az ügyintézési rendelkezések nyilvántartása alapján kiállított, általa hitelesített igazolásban automatikus információátadás útján, vagy más, automatizált feldolgozásra alkalmas módon tájékoztatja a digitális szolgáltatást biztosító szervezetet vagy más szolgáltatót az ügyintézési rendelkezés tartalmáról.
 
 (2) A szolgáltató a halál, illetve a jogutód nélküli megszűnés időpontjától számított 10 év elteltével törli a személyre vonatkozó adatokat.
 
@@ -13,3 +13,5 @@
 a) ellenőrizheti és – sikeres ellenőrzés esetén – igazolhatja a képviseleti jogosultságot, valamint
 
 b) az űrlapbenyújtás-támogatási szolgáltatás során biztosíthatja az űrlap képviselettel összefüggő adatokkal történő előtöltését.
+
+[^30]: Az 52. § (1) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.

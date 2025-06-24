@@ -1,0 +1,7 @@
+150/D. § (1) A tanúsító szervezetnek a tanúsítási eljárás során a 150/B. §-ban foglalt követelményeknek való megfelelést kell megvizsgálnia, és szakértői jelentésében minősítenie azt, hogy az informatikai rendszer zárt, teljes körű, folytonos és kockázatokkal arányos védelmet biztosít a kezelt adatok bizalmassága, sértetlensége és rendelkezésre állása, valamint az elektronikus információs rendszer elemeinek sértetlensége és rendelkezésre állása szempontjából.
+
+(2) A tanúsító szervezet a vizsgálat megkezdésekor kockázatelemzést készít, és ennek során meghatározza a kritikus üzleti funkciókat megvalósító rendszereket.
+
+(3) Amennyiben a tanúsító szervezet az intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, a hiba vagy hiányosság pontos meghatározását tartalmazó jegyzőkönyvet ad át a vizsgált intézmény részére, melynek kijavítására megfelelő határidőt biztosít. A vizsgált intézmény a jegyzőkönyvben foglaltak szerint készített tevékenységi terve alapján a hiba kijavítását vagy a hiányosság pótlását a tanúsító szervezet által megjelölt határidőn belül elvégzi. A tanúsító szervezet a hiba kijavítását vagy a hiányosság pótlását a megadott határidő leteltét követően ellenőrzi, és ennek eredményétől függően dönt annak elfogadásáról vagy a tevékenységi terv elvégzéséhez szükséges határidő meghosszabbításáról.
+
+(4) A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt.

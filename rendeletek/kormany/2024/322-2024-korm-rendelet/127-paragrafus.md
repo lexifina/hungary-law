@@ -8,8 +8,12 @@ c) az Okos Város Központi Platform Települési Térinformatikai Platformjána
 
 d) az állami adóhatóság
 
+e)[^60] a Központi Statisztikai Hivatal
+
 számára.
 
 (2) Az (1) bekezdésben meghatározott nyilvántartást vezető szervek az átvett adatot – a nyilvántartás céljának megfelelő mértékben – nyilvántartásaik részévé teszik.
 
 (3) A központi címregiszter működtetéséért felelős szerv az egyetemes postai szolgáltató számára a címkezelési eljárással kapcsolatos feladatainak ellátása érdekében a központi címregiszterben szereplő címeket megismerhetővé teszi. A közreműködő szervek az átadott adatokra vonatkozóan önálló adatszolgáltatást és önálló adattovábbítást nem teljesíthetnek.
+
+[^60]: A 127. § (1) bekezdés e) pontját a 164/2025. (VI. 23.) Korm. rendelet 43. §-a iktatta be.

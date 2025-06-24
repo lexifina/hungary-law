@@ -2,7 +2,7 @@
 
 A PKASZ szolgáltatásért fizetendő díj megállapításának és beszedésének szabályai
 
-1. A kijelölt szolgáltató e mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott, a Dáptv. 80. §-a szerinti, digitális szolgáltatás biztosítására kötelezett szervezeteknek.
+1.[^79] A kijelölt szolgáltató e mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott, a 91. § (1) bekezdése szerinti szervezeteknek.
 
 1.1. Csatlakozási díj: a kijelölt szolgáltató csatlakozásonként csatlakozási díjat számol fel a szolgáltatáshoz való csatlakozást követően.
 
@@ -13,3 +13,5 @@ A PKASZ szolgáltatásért fizetendő díj megállapításának és beszedésén
 2. A PKASZ szolgáltatásért fizetendő díjakat tartalmazó számlát – a kormányzati hitelesítés szolgáltatás kivételével – a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság állítja ki a Dáptv. 80. §-a szerinti, digitális szolgáltatás biztosítására kötelezett szervezeteknek.
 
 3. A díjak összegét és megfizetésének módját a kijelölt szolgáltató a honlapján közzéteszi.
+
+[^79]: A 3. melléklet 1. pontja a 164/2025. (VI. 23.) Korm. rendelet 48. § 32. pontja szerint módosított szöveg.
