@@ -4,7 +4,7 @@ a) a koncessziós szerződés alapján működtetett országos vagy helyi közú
 
 b) az a) pontban nem említett
 
-ba) országos közút vonatkozásában a miniszter döntése alapján a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben az állam 100%-os részesedéssel rendelkezik,
+ba) országos közút vonatkozásában a Kormány kijelölése alapján a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv vagy olyan gazdálkodó szervezet, amelyben az állam 100%-os részesedéssel rendelkezik,
 
 bb) helyi közutak, a lakott területen lévő járda tekintetében a helyi önkormányzat vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os tulajdoni részesedéssel rendelkezik;
 

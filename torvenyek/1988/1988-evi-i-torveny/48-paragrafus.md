@@ -116,7 +116,7 @@ a) a Kormány, hogy
 
 53. a nemzeti vagyonról szóló törvény szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlásához szükséges, a magyar állam nevében történő ingatlantulajdon-szerzés során eljáró állami tulajdonú gazdasági társaságot,
 
-54. a járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését ellátó állami tulajdonú gazdasági társaságot,
+54. a járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését ellátó állami tulajdonú gazdasági társaságot vagy költségvetési szervet,
 
 55. az országos közutak meghatározott időtartamban történő használatáért felszámított díjak (pótdíjak) beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését ellátó útdíjszolgáltatási gazdasági társaságot,
 
