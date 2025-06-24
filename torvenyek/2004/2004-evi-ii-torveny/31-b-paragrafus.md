@@ -44,6 +44,10 @@ g) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgy
 
 h) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy az egymilliárd forintot meghaladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében a filmalkotás magyarországi gyártásának befejezését követő 30 napon belül az NFI részére a filmalkotás magyarországi gyártása során megvalósított, fenntartható filmgyártással kapcsolatos tevékenységekről szóló beszámolót nyújt be.
 
+i) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy a közvetett támogatás igénybevételére a 31/D. § (9) bekezdése szerint kerül sor,
+
+j) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát a filmalkotás gyártása során ténylegesen elköltendő, a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekről negyedéves bontásban (cash-flow terv).
+
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
 
 (2c) Az e törvény szerinti közvetett támogatásban részesülő filmelőállító vagy filmgyártó vállalkozás a Hatóság támogatásra jogosultságot megállapító döntésében meghatározott közvetlen filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén az e törvényben meghatározott módon megfizet az NFI-nek.
@@ -98,7 +102,7 @@ c) 3 pont adható, ha az a) és b) pontokban említett értékek elérik vagy me
 
 (12) A Hatóság a (2a) bekezdés g) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
 
-(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre vonatkozó adatokat köteles bejelenteni a Hatóságnak.
+(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.
 
 (13a) A filmalkotás költségvetésében bekövetkezett változás bejelentésével egyidejűleg – amennyiben a változás a közvetlen filmgyártási költség, és így a közvetett támogatás emelkedését vonhatja maga után – a különbözet vonatkozásában az igazgatási szolgáltatási díjat meg kell fizetni.
 

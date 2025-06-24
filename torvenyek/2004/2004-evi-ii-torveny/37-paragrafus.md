@@ -6,6 +6,10 @@
 
 (1c) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki azt a minisztert, aki által vezetett minisztériumban a mozgóképszakmai hatóságként eljáró Filmiroda önálló szervezeti egységként működik.
 
+(1d) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 31/B. § alapján kiadott támogatásra jogosultságot megállapító döntésekben meghatározott közvetlen filmgyártási költségek együttes, a tárgyévre vonatkozó összegét.
+
+(1e) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közvetett támogatás céljából nyújtható támogatási keretösszeg részletes szabályait.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,
