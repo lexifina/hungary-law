@@ -2,7 +2,7 @@
 
 (2) E rendeletnek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-(3)[^68] Ez a rendelet
+(3)[^105] Ez a rendelet
 
 a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2022. október 10-i (EU) 2023/137 felhatalmazáson alapuló bizottsági rendelet és
 
@@ -10,4 +10,4 @@ b) az (EU) 2020/1197, az (EU) 2022/918 és az (EU) 2022/1092 bizottsági végreh
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^68]: A 17. § (3) bekezdését a 484/2024. (XII. 31.) Korm. rendelet 23. §-a iktatta be.
+[^105]: A 17. § (3) bekezdését a 484/2024. (XII. 31.) Korm. rendelet 23. §-a iktatta be.
