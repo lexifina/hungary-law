@@ -24,7 +24,7 @@ bc) videotechnológiás kapcsolattal történő ügyindítás vagy ügyintézés
 
 c) egyedi hatósági ügyekben a folyamatban lévő ügy aktuális állapotával kapcsolatos tájékoztatás nyújtása (a továbbiakban: státuszinformáció).
 
-(3) A Dáptv. szerinti videotechnológiás kapcsolattal történő ügyintézés keretében lefolytatott videotechnológián keresztül történő személyazonosítással az országos telefonos ügyfélszolgálat működtetőjénél ügyfélkapu regisztrálható, és intézhetőek az ügyfélkapu regisztrációhoz kapcsolódó ügyek.
+(3)[^34] A Dáptv. szerinti videotechnológiás kapcsolattal történő ügyintézés keretében lefolytatott videotechnológián keresztül történő személyazonosítással az országos telefonos ügyfélszolgálat működtetőjénél emelt szintű kétfaktoros azonosítást biztosító ügyfélkapu, és intézhetőek a regisztrációhoz kapcsolódó ügyek.
 
 (4) Az országos telefonos ügyfélszolgálat közigazgatási hatósági jogkör ellátására jogosult a (2) bekezdés b) és c) pontja vonatkozásában.
 
@@ -37,3 +37,5 @@ a) a hívást a feladat- és határkörrel rendelkező szerv telefonos ügyféls
 b) kezdeményezheti, hogy a feladat- és hatáskörrel rendelkező szerv a felhasználót visszahívja.
 
 (7) A feladat- és hatáskörrel rendelkező szerv a működtetővel a (2) bekezdés szerinti megállapodást csak a feladat- és hatáskörrel rendelkező szerv felügyeletét vagy irányítását ellátó szerv jóváhagyásával kötheti meg.
+
+[^34]: Az 58. § (3) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 15. § 14. pontja szerint módosított szöveg.

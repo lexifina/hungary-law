@@ -2,21 +2,25 @@
 
 ## KERETALKALMAZÁS
 
-6. § (1) A digitális állampolgárság keretalkalmazás igénybevételével és a digitális állampolgárság szolgáltató által a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló rendelet szerint készített általános szerződési feltételek elfogadásával a felhasználó az eAzonosítás és az eAláírás keretszolgáltatás igénybevételét is kezdeményezi.
+6. §[^5] (1) A keretalkalmazás igénybevételével és műszaki rendelet szerint készített általános szerződési feltételek elfogadásával a felhasználó az eAzonosítás és az eAláírás keretszolgáltatás igénybevételét is kezdeményezi.
 
-(2) A keretalkalmazás az (1) bekezdésben foglaltakon túl legalább a következő szolgáltatások (a továbbiakban: alkalmazás-szolgáltatás) igénybevételét biztosítja:
+(2) A keretalkalmazás használata érdekében a felhasználói profil aktiválása során a mobiltelefon regisztrációjátel kell végezni.
 
-a) hatósági erkölcsi bizonyítvány igénylése az igénylés szerinti kérelem adatok bűnügyi nyilvántartó szerv felé történő továbbításával, valamint a kérelem tárgyában hozott döntés letöltése,
+(3) A keretalkalmazás az (1) bekezdésben foglaltakon túl a következő szolgáltatástípusok (a továbbiakban: alkalmazás-szolgáltatás) igénybevételét biztosítja:
 
-b) nemzeti digitális irattárca szolgáltatás,
+a) nemzeti digitális irattárca,
 
-c) időpontfoglalás egyes kormányablak ügyek tekintetében.
+b) életesemény-alapú szolgáltatás,
 
-(3) A keretalkalmazás használata érdekében a mobiltelefon regisztrációját újra el kell végezni, ha
+c) hozzájárulás-alapú adatszolgáltatással összefüggő nyilatkozatok megtétele,
+
+d) az általános szerződési feltételekben nevesített szolgáltatás.
+
+(4) A keretalkalmazás használata érdekében a felhasználó személyazonosság megállapításával együtt a mobiltelefon regisztrációját újra el kell végezni, ha
 
 a) a felhasználó az első regisztrációtól eltérő további mobiltelefonon is használni kívánja a keretalkalmazást,
 
-b) a felhasználó a szolgáltató felé jelzi, hogy a regisztrációval érintett mobiltelefonját elvesztette, eltulajdonították vagy használhatatlanná válik,
+b) a felhasználó a szolgáltató felé jelzi, hogy a regisztrációval érintett mobiltelefonját elvesztette, eltulajdonították, vagy használhatatlanná válik,
 
 c) a felhasználó törli, majd újra letölti a keretalkalmazást,
 
@@ -26,4 +30,6 @@ e) a felhasználó felhasználói profilját a digitális állampolgárság nyil
 
 f) az általános szerződési feltételekben meghatározott további esetben.
 
-(4) A keretalkalmazás életesemény-alapú szolgáltatás keretében nyújtja a (2) bekezdés a) és c) pontja szerinti alkalmazás-szolgáltatást.
+(5) A digitális állampolgárság szolgáltató által nyújtandó, (3) bekezdés b) pontja szerinti szolgáltatásokat és a szolgáltatásnyújtás során kezelt adatok körét az 1. melléklet tartalmazza.
+
+[^5]: A 6. § a 164/2025. (VI. 23.) Korm. rendelet 6. §-ával megállapított szöveg.

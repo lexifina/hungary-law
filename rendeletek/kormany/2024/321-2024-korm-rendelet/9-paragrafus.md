@@ -4,14 +4,21 @@
 
 (3) Ha a felhasználó a digitális állampolgár felhasználói profilját inaktiválja, a szolgáltató felfüggeszti a szolgáltatás nyújtását mindaddig, amíg a felhasználó újra aktiválja a felhasználói profilját.
 
-(4) Ha a digitális állampolgárság nyilvántartást vezető szerv arról szerez tudomást, hogy a felhasználó elhalálozott, kezdeményezi a szolgáltatónál az elhunyt személy tárhelyének vizsgálatát.
+(4)[^10] A felhasználó elhalálozása esetén a műszaki rendelet szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó tárhelyre irányadó szabályokat kell alkalmazni.
 
-(5) Ha a szolgáltató a tárhelyvizsgálat eredményeképpen megállapítja, hogy az elhalálozott tárhelyén nem található dokumentum, haladéktalanul gondoskodik a tárhely megszüntetéséről.
+(5)[^11] A digitális állampolgár egyéni vállalkozó hivatalos elérhetősége – a műszaki rendeletben a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó tárhely esetén az egyéni vállalkozóra irányadó hivatalos elérhetőség helyett – az eAzonosítás keretszolgáltatáshoz kapcsolódó, e § szerinti tárhely.
 
-(6) Ha a szolgáltató a tárhelyvizsgálat eredményeképpen megállapítja, hogy az elhunyt tárhelyén található dokumentum, a dokumentumok letárolását követően a felhasználó tárhelyen elérhető összes adatát visszavonhatatlanul törli, és a tárhelyet haladéktalanul megszünteti.
+(6)[^12]
 
-(7) A megszüntetéssel egyidejűleg a szolgáltató tájékoztatja a digitális állampolgárság nyilvántartást vezető szervet a megszüntetésről és a dokumentumok letárolásának tényéről, aki a dokumentumok átvételének módjáról és helyéről tájékoztatja a hagyatéki leltár felvételére hatáskörrel rendelkező illetékes hatóságot, amely a hagyatékátadás jogerőre emelkedéséről a szolgáltatót a digitális állampolgárság nyilvántartást vezető szerv útján értesíti.
+(7)[^13]
 
-(8) A szolgáltató a hagyatékátadás jogerőre emelkedésétől számított 1 évig őrzi meg a dokumentumokat, melyeket az örökös kérelmére, e jogosultságának igazolását követően bocsátja rendelkezésére. Ha a hagyatékátadó végzés jogerőre emelkedésétől számított 1 éven belül a szolgáltatóhoz nem érkezik ilyen kérelem, a szolgáltató gondoskodik a korábban a tárhelyről letárolt dokumentumok helyreállíthatatlan módon való törléséről.
+(8)[^14]
 
-(9) Az egyéni vállalkozó hivatalos elérhetősége az eAzonosítás keretszolgáltatáshoz kapcsolódó, e § szerinti tárhely.
+(9)[^15]
+
+[^10]: A 9. § (4) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^11]: A 9. § (5) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^12]: A 9. § (6) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^13]: A 9. § (7) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^14]: A 9. § (8) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^15]: A 9. § (9) bekezdését a 164/2025. (VI. 23.) Korm. rendelet 19. §-a hatályon kívül helyezte.

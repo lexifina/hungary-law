@@ -2,7 +2,7 @@
 
 ## DIGITÁLIS KERETSZOLGÁLTATÁSOK
 
-## 5. Az eAzonosítás keretszolgáltatás
+## 5.[^8] Az eAzonosítás keretszolgáltatás, felhasználók számára biztosított tárhely
 
 8. § (1) Az eAzonosítás keretszolgáltatás útján biztosított elektronikus azonosítási szolgáltatás a Dáptv. 63. §-a szerinti sikeres regisztrációt követően aktív felhasználói profillal, a keretalkalmazás használatával vehető igénybe.
 
@@ -10,4 +10,7 @@
 
 (3) A (2) bekezdés szerinti biometrikus azonosító adat a felhasználó keretalkalmazáshoz regisztrált mobiltelefonján tárolt arcképe vagy ujjnyomata. Az eAzonosítás útján biztosított elektronikus azonosítás biometrikus azonosító adat alkalmazásával akkor sikeres, ha az azonosítás során a felhasználó a keretalkalmazáshoz regisztrált mobiltelefonján érzékelt biometrikus adat megegyezik az ezen mobiltelefonban tárolt biometrikus adattal.
 
-(4) A felhasználó felhasználói profiljának inaktiválása, valamint a 6. § (3) bekezdése szerinti esetben a digitális állampolgárság szolgáltató felfüggeszti az eAzonosítás keretszolgáltatás használatát.
+(4)[^9] A felhasználó felhasználói profiljának inaktiválása, valamint a 6. § (4) bekezdése szerinti esetben a digitális állampolgárság szolgáltató felfüggeszti az eAzonosítás keretszolgáltatás használatát.
+
+[^8]: Az 5. alcím címe a 164/2025. (VI. 23.) Korm. rendelet 15. § 6. pontja szerint módosított szöveg.
+[^9]: A 8. § (4) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 15. § 5. pontja szerint módosított szöveg.
