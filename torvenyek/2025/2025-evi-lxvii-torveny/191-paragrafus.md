@@ -1,0 +1,7 @@
+191. § A Budapest törvény a következő III/C. Fejezettel egészül ki:
+
+## „III/C. Fejezet
+
+## KIEMELT NEMZETI EMLÉKHELYEN MEGVALÓSULÓ BERUHÁZÁSOK
+
+19/C. § A kiemelt nemzeti emlékhelyen és annak jogszabály szerinti településkép-védelmi környezetében megvalósuló azon beruházás megvalósítása esetén, amelyet jogszabály a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti közcélú kiemelt beruházássá nyilvánított, vagy amelyre a Méptv. közcélú kiemelt beruházásra vonatkozó szabályait kell alkalmazni (a továbbiakban együtt: kiemelt nemzeti emlékhellyel összefüggő beruházás) – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdés d)–f) pontjától eltérően – a Kormány az e törvény felhatalmazása alapján kiadott rendeletében – a kiemelt nemzeti emlékhely védelmének és értékének megőrzése érdekében – az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályokhoz képest eltérő követelményeket, valamint különös eljárási szabályokat állapíthat meg.”

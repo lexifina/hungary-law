@@ -1,0 +1,3 @@
+94. § Az Fttv. 6/C. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Nem minősül állami alapadat jogosulatlan felhasználásának az állami ingatlan-nyilvántartási térképi adatbázisból az egyéb célú földmérési és térképészeti tevékenységgel összefüggő szakmagyakorlás részletes szabályairól szóló kormányrendeletben meghatározott földmérési tevékenységhez szolgáltatott adatoknak és ezen adatokból készített dokumentációnak a továbbadása az egyéb célú földmérési tevékenység céljával összefüggő tervezéshez, valamint további dokumentációkészítéshez. Az átadott dokumentáció személyes adatot nem tartalmazhat.”

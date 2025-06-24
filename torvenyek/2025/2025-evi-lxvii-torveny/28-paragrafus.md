@@ -1,0 +1,9 @@
+## 11. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
+
+28. § Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 155/A. §-a helyébe a következő rendelkezés lép:
+
+„155/A. § (1) Az állami fenntartású egészségügyi intézmények esetében a foglalkoztató – az egészségügyi ellátás és ellátásszervezés, a működési feltételek folyamatosságának biztosítása, valamint a betegek élethez, testi épséghez való jogának biztosítása és a betegek egészségének védelme érdekében – egységes beléptető rendszer alkalmazásával ellenőrzi az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló személy (e § alkalmazásában a továbbiakban: foglalkoztatott) munkaidejének betartását, az intézménybe történő be- és kilépését. Az egységes beléptető rendszer arcképazonosításon alapuló technológiára épül, ennek keretében a foglalkoztatott be- és kilépése során készült, biometrikus azonosításra alkalmas arcképmás adatát (a továbbiakban: pillanatkép) és az arcképazonosítás eredményét a (2) bekezdés szerint kezeli.
+
+(2) A foglalkoztató az (1) bekezdés szerinti rendszer alkalmazásával tudomására jutott, a foglalkoztatott munkaidejének betartására, az intézménybe történő be- és kilépésére vonatkozó személyes adatokat – ideértve a pillanatképet és az arcképazonosítás eredményét – az ellenőrzött tevékenységgel összekapcsolható módon az adatkezelés célja szerinti ellenőrzés lefolytatásához szükséges mértékben a be- és kilépéstől számított legfeljebb egy évig kezeli.
+
+(3) Az (1) bekezdés szerinti egységes beléptető rendszer használata és az (1) bekezdésben foglaltak ellenőrzése érdekében a foglalkoztató – a munkavégzésre irányuló jogviszonyra irányadó törvényben meghatározott adatokon túlmenően – a jogviszony fennállásának idejéig kezeli a foglalkoztatottnak a pillanatképpel való összehasonlítás és a fizikai belépőkártyán történő megjelenítés céljából felvett, biometrikus azonosításra alkalmas arcképmását.”

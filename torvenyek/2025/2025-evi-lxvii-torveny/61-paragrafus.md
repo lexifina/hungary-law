@@ -1,0 +1,1 @@
+61. § Hatályát veszti az Mktv. 31/D. § (9) bekezdésében az „A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.” szövegrész.

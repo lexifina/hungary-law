@@ -1,0 +1,5 @@
+## 35. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
+
+128. § A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) 14. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A csoportszintű szanálhatóság akadályainak elhárítása tekintetében, valamint szükség esetén az EU-szintű anyavállalat által javasolt intézkedések, és az akadályok kezelése vagy kiküszöbölése érdekében előírt intézkedések értékeléséről a többoldalú eljárás keretében határozatot hoznak a szanálási kollégium tagjai a szanálási feladatkörében eljáró MNB vezetésével, ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság, illetve a szanálási feladatkörében eljáró MNB részvételével, ha a leányvállalat szanálási hatósága. A határozat meghozatala során figyelembe veszik az EU-szintű anyavállalat észrevételeit és javaslatait.”

@@ -1,0 +1,3 @@
+97. § Az Fttv. 29/A. § helyébe a következő rendelkezés lép:
+
+„29/A. § Az ingatlanügyi hatóság a földmérő vállalkozó vagy vállalkozás részére, az e törvényben meghatározott ingatlan-nyilvántartási vagy egyéb célú földmérési és térképészeti feladatok ellátásához az ingatlan-nyilvántartás tartalmából jogosulti adatokkal kiegészített földkönyvet szolgáltat. A földmérő vállalkozó vagy vállalkozás ezen feladatai ellátása céljából, a 31. § (4) bekezdésében meghatározott megőrzési kötelezettség idejének leteltéig kezeli a tulajdoni lapon szereplő jogosultak adatai közül a természetes személy nevét és születési nevét, születési helyét és időpontját, anyja születési nevét, valamint lakcímét.”

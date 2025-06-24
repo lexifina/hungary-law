@@ -1,0 +1,5 @@
+65. § A Kertv. 5/F. §-a helyébe a következő rendelkezés lép:
+
+„5/F. § (1) A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő biztosítja a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.
+
+(2) Az automatizált üzlethelyiség kivételével a 400 m2-nél nagyobb bruttó alapterületű üzletben folytatott kiskereskedelmi tevékenység során a kereskedő biztosítja legalább egy nem önkiszolgáló pénztárgép folyamatos rendelkezésre állását.”
