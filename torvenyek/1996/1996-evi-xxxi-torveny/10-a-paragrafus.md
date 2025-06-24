@@ -31,3 +31,5 @@ d) gépjárművének rendszáma, ha az a káreseménnyel érintett.
 (5) Az (1) és (2) bekezdés szerint nyilvántartott adat a tűzvédelmi, iparbiztonsági hatósági hatáskörben eljáró szerv és a hivatásos katasztrófavédelmi szerv részére hatósági eljárás lefolytatása céljából továbbítható.
 
 (6) A hivatásos katasztrófavédelmi szerv az (1) bekezdés e) pontjában meghatározott adatokat személyazonosításra alkalmatlan módon statisztikai célból is kezelheti.
+
+(7) A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló kormányrendelet szerint a hivatásos katasztrófavédelmi szerv mint készenléti szerv részére továbbított 112-es hívószámú fedélzeti e-segélyhívó rendszerből érkező segélyhívások vonatkozásában a hivatásos katasztrófavédelmi szerv az alapfeladataiba tartozó műszaki mentés hatékony és biztonságos végrehajtása érdekében jogosult a közúti közlekedési nyilvántartásból a műszaki mentéssel érintett, az M1, valamint az N1 kategóriába tartozó gépjármű típusának a megismerésére.
