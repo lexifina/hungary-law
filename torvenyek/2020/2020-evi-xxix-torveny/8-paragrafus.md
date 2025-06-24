@@ -8,7 +8,7 @@
 
 (4) Az ingatlan kisajátítására a kisajátításról szóló törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházásra vonatkozó szabályait is alkalmazni kell.
 
-(5) A Beruházással érintett állami tulajdonú, illetve a (2) és (3) bekezdés alapján állami tulajdonba kerülő ingatlan a Beruházás megvalósítása, valamint közfeladat ellátása érdekében e törvény erejénél fogva ingyenesen az építtető vagyonkezelésébe kerül a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 11. § (7a) bekezdése szerint.
+(5) A Beruházással érintett állami tulajdonú, illetve a (2) és (3) bekezdés alapján állami tulajdonba kerülő ingatlan, a Beruházás megvalósítása, valamint közfeladat ellátása érdekében ingyenesen az építtető vagyonkezelésébe és a tulajdonosi joggyakorlóval fennálló, hatályos vagyonkezelési szerződése hatálya alá kerül a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 11. § (7a) bekezdése szerint. A Beruházás során megvalósuló vasúti pálya és kapcsolódó létesítményei, valamint a vasúti pályahálózat működéséhez szükséges eszközök a megvalósulásuk időpontjával, a (2) bekezdés szerinti ingatlan alkotórészeként, ingyenesen, az országos törzshálózati vasúti pálya részeként az állam kizárólagos tulajdonába és az Nvtv. 11. § (7a) bekezdése szerint az építtető vagyonkezelésébe kerülnek.
 
 (6) Az (5) bekezdés szerinti vagyonkezelői jog ingatlan-nyilvántartási bejegyeztetésére és a vagyonkezelői jog gyakorlására az építtető vagyonkezelési szerződés kötése nélkül jogosult.
 
