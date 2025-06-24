@@ -8,7 +8,7 @@
 
 ## A típusalkalmasság
 
-46. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárműnek – a 12. § (1) bekezdésében meghatározott repülőeszköz, pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – rendelkeznie kell a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatáról szóló rendelet szerint a légiközlekedési hatóság által kiadott
+46. § (1) Az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárműnek – a siklórepülő eszköz, az ejtőernyő, a pilóta nélküli légijármű, a légiközlekedéssel kapcsolatos eszköz, valamint a (2) bekezdésben meghatározott légijármű kivételével – rendelkeznie kell a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendelet szerinti, a légiközlekedési hatóság által kiadott
 
 a) típusalkalmassági tanúsítvánnyal vagy
 
@@ -20,4 +20,4 @@ b) egyedi repülési engedéllyel.
 
 (4) A típusalkalmassági tanúsítvány és a katonai légügyi hatóság által kiadott típusalkalmassági bizonyítvány jogszabályban meghatározott esetben visszavonható vagy felfüggeszthető.
 
-(5) Külföldön gyártott légijármű, pilóta nélküli állami légijármű, illetve légiközlekedéssel kapcsolatos eszköz típusvizsgálata során a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság elfogadhatja más állam hatóságának igazolását arról, hogy a típus a nemzetközi előírásoknak megfelel és a biztonságos repülésre, illetve rendeltetésszerű használatra alkalmas.
+(5) Külföldön gyártott légijármű, pilóta nélküli állami légijármű, illetve légiközlekedéssel kapcsolatos eszköz típusvizsgálata során a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság elfogadhatja más állam hatóságának igazolását, döntését arról, hogy a típus a nemzetközi előírásoknak megfelel és a biztonságos repülésre, illetve rendeltetésszerű használatra alkalmas.

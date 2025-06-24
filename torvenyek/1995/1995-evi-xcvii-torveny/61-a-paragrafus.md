@@ -12,45 +12,45 @@ d)
 
 (3) A Társaság feladatai:
 
-a) a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása
+1. a légiforgalmi irányító, a repüléstájékoztató és riasztószolgálat ellátása
 
-aa) – a katonai körzetek kivételével – Magyarország ellenőrzött légterében,
+a) – a katonai körzetek kivételével – Magyarország ellenőrzött légterében,
 
-ab) a Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében, valamint
+b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében, valamint
 
-ac) azon nemzetközi kereskedelmi repülőtéren és annak légterében, amelyen a tárgyévet megelőző két év statisztikai adatai alapján számított átlagos éves utasforgalom meghaladja az évi százezer főt, amennyiben a repülőtér üzemben tartója vagy tulajdonosa a szolgáltatásra való felkészülés költségeit és a szolgáltatás díját megfizeti a Társaság részére,
+c) azon nemzetközi kereskedelmi repülőtéren és annak légterében, amelyen a tárgyévet megelőző két év statisztikai adatai alapján számított átlagos éves utasforgalom meghaladja az évi százezer főt, amennyiben a repülőtér üzemben tartója vagy tulajdonosa a szolgáltatásra való felkészülés költségeit és a szolgáltatás díját megfizeti a Társaság részére,
 
 továbbá Magyarország légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
 
-b) a nemzetközi polgári repülés részére repülésbejelentő és tájékoztató szolgálat ellátása;
+2. a nemzetközi polgári repülés részére repülésbejelentő és tájékoztató szolgálat ellátása;
 
-c) a rendelkezésre álló információk alapján adatszolgáltatás a Magyar Honvédség erre kijelölt szervezete részére, a légtérfelügyelethez szükséges azonosítás elősegítése érdekében;
+3. a rendelkezésre álló információk alapján adatszolgáltatás a Magyar Honvédség erre kijelölt szervezete részére, a légtérfelügyelethez szükséges azonosítás elősegítése érdekében;
 
-d) légtérgazdálkodás, közreműködés a stratégiai légtérgazdálkodási feladatokban;
+4. légtérgazdálkodás, közreműködés a stratégiai légtérgazdálkodási feladatokban;
 
-e) a légi forgalom áramlásának szervezése;
+5. a légi forgalom áramlásának szervezése;
 
-f) légi jármű eltűnése, vagy kényszerhelyzetbe kerülése esetén a szükséges intézkedés – kutatás-mentés, valamint egyéb segítségnyújtás – kezdeményezése;
+6. légijármű eltűnése, vagy kényszerhelyzetbe kerülése esetén a szükséges intézkedés – kutatás-mentés, valamint egyéb segítségnyújtás – kezdeményezése;
 
-g) központi légiforgalmi tájékoztató szolgálat (AIS) ellátása, a légi közlekedéssel kapcsolatos tájékoztató anyagok kiadása;
+7. központi légiforgalmi tájékoztató szolgálat (AIS) ellátása, a légi közlekedéssel kapcsolatos tájékoztató anyagok kiadása;
 
-h) – a repülőtéri körzetek kivételével – az ellenőrzött légtéren kívül Magyarország légterében légi járművek részére tanácsadói, repüléstájékoztató és riasztó szolgálat ellátása;
+8. – a repülőtéri körzetek kivételével – az ellenőrzött légtéren kívül Magyarország légterében légijárművek részére tanácsadói, repüléstájékoztató és riasztó szolgálat ellátása;
 
-i) a feladatainak ellátásával kapcsolatos fejlesztés;
+9. a feladatainak ellátásával kapcsolatos fejlesztés;
 
-j) a légiforgalmi irányító és körzeti repüléstájékoztató szakszemélyzet munkahelyi képzése, illetve továbbképzése;
+10. a légiforgalmi irányító és körzeti repüléstájékoztató szakszemélyzet munkahelyi képzése, illetve továbbképzése;
 
-k) műszaki dokumentációs és ahhoz kapcsolódó tájékoztató tevékenység ellátása;
+11. műszaki dokumentációs és ahhoz kapcsolódó tájékoztató tevékenység ellátása;
 
-l) a koordinált és menetrend-egyeztetett repülőtereken a résidőkiosztás és menetrend-egyeztetés;
+12. a koordinált és menetrend-egyeztetett repülőtereken a résidőkiosztás és menetrend-egyeztetés;
 
-m) a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése;
+13. a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése;
 
-n)
+14. Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése;
 
-o) Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint a külön jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése;
+15. a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetése; és
 
-p) a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetése.
+16. a pilóta nélküli légijárművek Magyarország légterében történő repülésének szervezését ellátó rendszer üzemeltetése.
 
 (4) A Társaság főtevékenysége: egyéb légi szállítást segítő tevékenység.
 

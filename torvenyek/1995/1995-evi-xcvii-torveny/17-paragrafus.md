@@ -2,7 +2,15 @@
 
 17. § (1) A légiközlekedési hatóság nyilvántartást vezet a repülőeszközökről, a pilóta nélküli játék légijármű kivételével a pilóta nélküli légijármű-rendszerekről, valamint pilóta nélküli légijármű-rendszer üzembentartókról.
 
-(2) A repülőeszköz és pilóta nélküli légijármű-rendszer – a pilóta nélküli játék légijármű kivételével – akkor veheti igénybe a magyar légteret, ha a légiközlekedési hatóság nyilvántartásba vette.
+(2) A pilóta nélküli légijármű-rendszer – a pilóta nélküli játék légijármű kivételével – akkor veheti igénybe a magyar légteret, ha a légiközlekedési hatóság nyilvántartásba vette.
+
+(2a) Repülőeszköz – a (2b) bekezdésben foglalt kivétellel – akkor veheti igénybe a magyar légteret, légiközlekedésben akkor vehet részt, ha szerepel a repülőeszközök nyilvántartásában és azonosító jellel rendelkezik.
+
+(2b) Az ultralight repülőgépet, az ultralight helikoptert, valamint a könnyű autogirót nem kell a repülőeszközök nyilvántartásába felvenni, ha azt a tulajdonos kérelmére a légiközlekedési hatóság a lajstromba felvette.
+
+(2c) Külföldi állam által kiadott azonosító jellel rendelkező repülőeszköz – a (2d) bekezdés kivételével – akkor veheti igénybe a magyar légteret, ha az erre irányuló szándékot a légtér igénybevételét megelőzően a repülőeszköz üzemben tartója a légiközlekedési hatósághoz bejelenti.
+
+(2d) Amennyiben a külföldi állam által kiadott azonosító jellel rendelkező repülőeszközt nem Magyarországon tartják tartósan – de 180 napot meg nem haladó időtartamban – üzemben, akkor a repülőeszköz üzemben tartója a (2c) bekezdés szerinti bejelentés nélkül veheti igénybe a légteret.
 
 (3) Bérelt pilóta nélküli légijármű-rendszer és repülőeszköz nyilvántartásba vétele esetén a tulajdonos hozzájárulása szükséges a nyilvántartásba vételhez.
 

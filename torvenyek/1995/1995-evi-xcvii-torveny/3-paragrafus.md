@@ -1,6 +1,6 @@
 ## Hatósági jogkör
 
-3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i (EU) 2018/1139 tanácsi rendeletben (a továbbiakban: 2018/1139/EU európai parlamenti és tanácsi rendelet) és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
+3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, az (EU) 2018/1139 európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
 (1a) Az e §-ban és a 33. § (1) bekezdésében meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
 
@@ -30,7 +30,7 @@ c) a légi járművek és repüléstechnikai termékek, alkatrészek és berende
 
 d) Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján lefolytatott eljárás,
 
-e) légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+e)
 
 f) a polgári légiközlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet 4. cikk (4) bekezdésében meghatározott eljárás,
 
@@ -84,6 +84,10 @@ k) az állami légijárművekkel és a pilóta nélküli állami légijárművek
 
 l) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló
 
+m) a fő nemzetközi kereskedelmi és kereskedelmi repülőtereken üzemeltetési korlátozások elrendelésére irányuló,
+
+n) a légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási
+
 hatósági eljárásokban.
 
 (2e) Az ügyintézési határidő 55 nap
@@ -96,7 +100,7 @@ c) a légi járművek típusalkalmassági vizsgálatára irányuló,
 
 d) a repülőtérrend jóváhagyására irányuló,
 
-e) a légitársaság üzletszabályzatának és módosításának jóváhagyására irányuló, valamint
+e)
 
 f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban,
 
@@ -130,7 +134,15 @@ j) a légiközlekedés-védelmi háttérellenőrzési eljárásban.
 
 (3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
-(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet.
+(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül feladataival összefüggésben:
+
+a) a légiközlekedési, a légiközlekedés-védelmi hatósági felügyeletet ellátó és a légiközlekedés-védelmi, valamint biztonsági ellenőrzést végző, ellenőrzésre jogosító igazolvánnyal rendelkező személy,
+
+b) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet,
+
+c) a Közlekedésbiztonsági Szervezet,
+
+d) az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv, valamint az Országgyűlési Őrség.
 
 (3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -142,7 +154,7 @@ b) a helyi önkormányzatok és azok társulásai;
 
 c) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása és felügyelete alá tartozó szervezetek;
 
-d) az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a katasztrófavédelem;
+d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv, valamint az Országgyűlési Őrség;
 
 e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 

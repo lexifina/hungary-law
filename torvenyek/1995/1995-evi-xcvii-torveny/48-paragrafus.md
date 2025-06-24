@@ -1,10 +1,16 @@
 ## A légialkalmasság
 
-48. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű – a 12. § (1) bekezdésében meghatározott repülőeszköz és 25 kg maximális felszálló tömeg alatti pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóságnak a polgári légijármű légialkalmassági követelményeiről, légialkalmassági vizsgálatáról és a légialkalmassági tanúsítványról szóló rendelet szerinti
+48. § (1) Az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű – a 17. § (2a) bekezdése szerinti repülőeszköz, a 25 kg maximális felszálló tömeg alatti pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóságnak a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló rendelet szerinti
 
 a) légialkalmassági tanúsítványával és légialkalmassági felülvizsgálati tanúsítványával vagy
 
 b) egyedi repülési engedélyével.
+
+(1a) A 17. § (2a) bekezdése szerinti repülőeszköz akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóság által kiadott engedéllyel rendelkező szervezet által a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri szóló rendelet szerint kiállított
+
+a) megfelelőségi tanúsítvánnyal vagy
+
+b) korlátozott megfelelőségi tanúsítvánnyal.
 
 (2) Amennyiben az állami célú légiközlekedésben a katonai légügyi hatóság a légijárművet az első üzembe helyezése előtt saját vizsgálata alapján is alkalmasnak találja a rendeltetésszerű használatra, és a légijármű megfelel a típusalkalmassági bizonyítványban előírt követelményeknek, akkor a légijárműre légialkalmassági bizonyítványt ad ki.
 
@@ -16,6 +22,6 @@ b) egyedi repülési engedélyével.
 
 (6) Amennyiben a légijárművet a lajstromból törlik, a légialkalmassági tanúsítványa vagy a katonai légügyi hatóság által kiadott légialkalmassági bizonyítványa hatályát veszti.
 
-(7) A 12. § (1) bekezdésben meghatározott ejtőernyő és repülőeszköz akkor tartható üzemben, ha megfelel a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott feltételeknek.
+(7)
 
 (8) Amennyiben a légijármű az üzemben tartás során nem felel meg a légialkalmasság követelményeinek, akkor az a bizonyítvány időbeli hatályán belül sem üzemeltethető.

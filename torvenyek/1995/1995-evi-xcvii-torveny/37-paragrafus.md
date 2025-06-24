@@ -38,4 +38,4 @@ c) vízfelszínen létesített leszállóhely.
 
 (5) Zajgátló védőövezetet kell kijelölni a 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében, továbbá azon repülőterek esetében, ahol a tárgyévet megelőző év legforgalmasabb 6 hónapjának összesített műveletszáma meghaladja a 4500-at.
 
-(6) A 2018/1139 EU európai parlamenti és tanácsi rendelet 33. cikkében meghatározott alapvető követelményeket alkalmazni kell azon repülőtérre, amely a 2018/1139 EU európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet kapott, és a közös felhasználású repülőtérre, amennyiben az ilyen repülőteret megnyitják a nyilvánosság számára.
+(6) Az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 33. cikkében meghatározott alapvető követelményeket alkalmazni kell azon repülőtérre, amely az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet kapott, és a közös felhasználású repülőtérre, amennyiben az ilyen repülőteret megnyitják a nyilvánosság számára.

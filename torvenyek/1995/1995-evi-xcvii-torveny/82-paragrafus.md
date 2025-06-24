@@ -1,0 +1,3 @@
+82. § (1) E törvénynek a közlekedési ágazat egyes kérdéseinek rendezéséről, valamint egyes közlekedési tárgyú törvények módosításáról szóló 2025. évi LV. törvénnyel (a továbbiakban: Módr2.tv.) megállapított 3. § (2d) bekezdés m) és n) pontját a Módr2.tv. hatálybalépésének napján folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+(2) A légiközlekedési hatóság a Módr2.tv. hatálybalépésekor már kiadott és érvényes engedélyeket – a 32. § (3) bekezdése szerinti eljárás lefolytatása céljából – a Módr2.tv. hatálybalépését követő 60 napon belül megküldi az általános rendőrségi feladatokat ellátó szerv részére.

@@ -116,7 +116,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 38. katonai körzet: az a légtér, ahol a katonai repülésirányító szolgálatok nyújtanak szolgáltatást;
 
-39. repülőeszköz: a siklórepülő eszköz, az ultralight repülőgép, az autogiro és az ejtőernyő;
+39. repülőeszköz: a siklórepülő eszköz, az ultralight repülőgép, az ultralight helikopter, a könnyű autogiro és az ejtőernyő;
 
 40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő;
 
@@ -158,7 +158,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 58. kereskedelmi repülőtér: határátkelővel rendelkező, elsősorban nem menetrend szerinti rendszeres utas, poggyász, áru és posta továbbítását végző légi forgalom céljaira létesített közforgalom számára nyitva álló repülőtér;
 
-59. üzleti célú repülőtér: határátkelővel rendelkező, nem menetrend szerinti nemzetközi forgalmat bonyolító közforgalom számára nyitva álló olyan repülőtér, amely nem tartozik a 2018/1139 EU európai parlamenti és tanácsi rendelet hatálya alá;
+59. üzleti célú repülőtér: határátkelővel rendelkező, nem menetrend szerinti nemzetközi forgalmat bonyolító közforgalom számára nyitva álló olyan repülőtér, amely nem tartozik az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá;
 
 60. polgári célú speciális repülőtér: olyan közforgalom számára nyitva nem álló repülőtér, amely elsődlegesen szabadidős célú repülésre szolgál;
 
@@ -170,9 +170,9 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 64. mezőgazdasági vagy munkavégzési célú leszállóhely: feltöltőhely kivételével polgári légijárművel folytatott munkavégzés céljára szolgáló, le- és felszállásra meghatározott ideig szolgáló kijelölt terület;
 
-65. vízfelszínen létesített leszállóhely: úszótalpas vagy úszótestes polgári légijárművek vízfelszínen történő le- és felszállására meghatározott ideig szolgáló a hajózási hatóság által engedélyezett vízterület;
+65. vízfelszínen létesített leszállóhely: vízről történő fel- és vízre történő leszállásra tervezett merevszárnyú légijárművek – ideértve a hidroplánként üzemben tartott kétéltű repülőgépet is – vízfelszínen történő le- és felszállására meghatározott ideig szolgáló vízterület;
 
-66. általános légiforgalom: a 2018/1139 EU európai parlamenti és tanácsi rendelet 3. cikk 21. pontjában meghatározott forgalom;
+66. általános légiforgalom: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 3. cikk 21. pontjában meghatározott forgalom;
 
 67. szabadidős célú repülés: sport, vagy rekreációs céllal végzett, nem gazdasági célú repülés;
 
@@ -180,6 +180,12 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 69. autogiro: a levegőnél nehezebb légijármű, amelyet repülés közben egy vagy több rotoron keletkező felhajtóerő tart a levegőben, amely rotorok szabadon forognak alapvetően függőleges tengely körül;
 
-70. ultralight repülőgép: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (8) bekezdésében meghatározott mentesítés hatálya alá tartozó, vagy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. melléklet 1. pont e) alpontjának megfelelő aerodinamikai kormányzású repülőgép;
+70. ultralight repülőgép: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (8) bekezdés a) pontjában meghatározott mentesítés hatálya alá tartozó, vagy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. melléklet 1. pont e) alpontjának megfelelő aerodinamikai kormányzású repülőgép;
 
 71. repülőgép: hajtóművel felszerelt, levegőnél nehezebb, merevszárnyú légijármű, amelynek repülését a szárnyaira ható aerodinamikai erő biztosítja.
+
+72. könnyű autogiro: egy- és kétüléses, a levegőnél nehezebb légijármű, amit repülés közben egy vagy több rotoron keletkező felhajtóerő tart a levegőben, amely rotorok szabadon forognak az alapvetően függőleges tengely körül, és aminek a maximális felszállótömege nem nagyobb, mint 600 kg;
+
+73. ultralight helikopter: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (8) bekezdés b) pontjában meghatározott mentesítés hatálya alá tartozó, vagy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. melléklet 1. e) pontja szerinti helikopter;
+
+74. helikopter: a forgószárnyas légijárművek egyik típusa, amelynek levegőben maradását főként a legfeljebb két függőleges tengelyre szerelt, hajtóművel üzemeltetett forgószárnyra ható aerodinamikai erő biztosítja.

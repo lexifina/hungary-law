@@ -62,7 +62,7 @@ b) a miniszter, hogy a 19. § (1) bekezdésének a) és c) pontjában meghatáro
 
 c) a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait,
 
-d) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes anyagi jogi szabályait,
+d) a miniszter, hogy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz azonosításának, tanúsításának, gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes anyagi jogi szabályait,
 
 e) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében – a rendészetért felelős miniszter és a 30. § (1) bekezdése szerinti engedélyezés tekintetében a miniszter egyetértésével – a légiközlekedési szakszemélyzet képzésének részletes szabályait, valamint a képzést végző intézetek kijelölését,
 
@@ -70,7 +70,7 @@ f) a miniszter, hogy a közforgalom számára nyitva álló és közforgalom sz�
 
 g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 
-h) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes anyagi jogi szabályait,
+h) a miniszter, hogy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes anyagi jogi szabályait,
 
 i) a miniszter, hogy a rendvédelemért felelős miniszterrel és a honvédelemért felelős miniszterrel egyetértésben a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat,
 
@@ -84,7 +84,7 @@ m) a honvédelemért felelős miniszter, hogy a miniszterrel, a rendészetért f
 
 n) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben a Magyar Honvédség légvédelmi készenléti repüléseinek a részletes szabályait,
 
-o) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának szabályait, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kötelező tartalmi elemeit, továbbá a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatokat és a feladat végrehajtásának felelősét,
+o) a miniszter, hogy az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának szabályait, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kötelező tartalmi elemeit, továbbá a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatokat és a feladat végrehajtásának felelősét,
 
 p)
 

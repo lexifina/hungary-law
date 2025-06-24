@@ -50,7 +50,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (7) A légiközlekedési hatóság, illetve a katonai légügyi hatóság vezetője a feladat- és hatáskörében minősítésre jogosult.
 
-(8) A védelmi oktató és védelmi tiszt kijelölésének jóváhagyása iránti kérelem benyújtásával egyidejűleg a légiközlekedési hatóság a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) alpontja alapján a kérelmezőnek a bűnügyi nyilvántartásból megkért adatait a kijelölés jóváhagyása iránti kérelem jóváhagyási eljárásának befejezéséig kezeli.
+(8) A védelmi oktató és védelmi tiszt kijelölésének jóváhagyása iránti kérelem benyújtásával egyidejűleg a légiközlekedési hatóság az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) alpontja alapján a kérelmezőnek a bűnügyi nyilvántartásból megkért adatait a kijelölés jóváhagyása iránti kérelem jóváhagyási eljárásának befejezéséig kezeli.
 
 (9) A pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárással összefüggésben az eljáró hatóság a pilóta nélküli légijárművet használatba adó üzembentartó és a pilóta nélküli légijárművet használatba vevő, valamint távoli pilóta természetes személy esetén a személyazonosító adataira, lakcímére, jogi személy esetén annak megnevezésére, székhelyére vonatkozó adatokat az eljárás lefolytatása, a tényállás megállapítása és a döntés meghozatala, a jogorvoslati eljárások lefolytatása érdekében a pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárás kezdetétől kezeli a döntés véglegessé válásától számított öt év elteltéig.
 

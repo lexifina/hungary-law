@@ -14,12 +14,20 @@ c) a bejelentő szervezet nevét és elérhetőségét, valamint
 
 d) a képzésre jelentkező képzés ideje alatti tartózkodási helyét.
 
-(3) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést annak beérkezésétől számított két munkanapon belül megküldi a terrorizmust elhárító szervnek, az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak a közbiztonsági, terrorfenyegetettségi és a nemzetbiztonsági érdek vizsgálata céljából.
+(3) A légiközlekedési hatóság az általa kiadott magyar vizsgáztatói tanúsítványt vagy oktatói szakszolgálati engedélyt (a továbbiakban: engedély) annak kiadását követő tíz munkanapon belül megküldi az általános rendőrségi feladatok ellátására létrehozott szervnek az engedély közbiztonsági, terrorfenyegetettségi és nemzetbiztonsági szempontú vizsgálata céljából.
 
-(4) A terrorizmust elhárító szerv, az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a bejelentés beérkezésétől számított négy munkanapon belül megküldi az adattárakban történő ellenőrzés eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
+(4) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést, engedélyt annak beérkezésétől számított két munkanapon belül megküldi a terrorizmust elhárító szervnek, az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak közbiztonsági és terrorfenyegetettségi kockázat, valamint nemzetbiztonsági érdek sérelmének vizsgálata céljából.
 
-(5) Az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonsági, továbbá – a (3) bekezdés szerinti szerv szakvéleménye alapján – nemzetbiztonsági vagy terrorfenyegetettségi érdeksérelem esetén az érintett személy számára a komplex motoros meghajtású légijármű vezetésére vonatkozó típusképzésen való részvételt megtiltja.
+(5) A terrorizmust elhárító szerv, az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a megkeresés beérkezésétől számított négy munkanapon belül megküldi a vizsgálat eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
 
-(6) Az általános rendőrségi feladatok ellátására létrehozott szerv az (5) bekezdés szerinti döntését a (4) bekezdés szerinti szakvélemények megérkezését követő két munkanapon belül határozatban közli a bejelentővel.
+(6) Az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonsági kockázat, továbbá – az (5) bekezdés szerinti szakvélemények alapján – közbiztonsági, illetve terrorfenyegetettségi kockázat vagy a nemzetbiztonsági érdek sérelme esetén – az erről szóló döntés légiközlekedési hatóság részére történő megküldése mellett – az érintett személy számára
 
-(7) Az általános rendőrségi feladatok ellátására létrehozott szerv határozatát a bejelentő a határozat közlésétől számított három napon belül közigazgatási perben megtámadhatja. A keresetlevélhez csatolni kell az általános rendőrségi feladatok ellátására létrehozott szerv határozatát.
+a) a komplex motoros meghajtású légijármű vezetésére vonatkozó típusképzésen való részvételt,
+
+b) a vizsgáztatói tevékenységet, vagy
+
+c) az oktatói tevékenységet
+
+megtiltja.
+
+(7)

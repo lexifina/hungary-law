@@ -1,4 +1,4 @@
-23/C. § (1) A légiközlekedési hatóság a gazdasági célú légiközlekedési tevékenység végzésére, légi járművel végzett egyéb gazdasági tevékenység végzésére vagy a légiközlekedéssel összefüggő tevékenység végzésére engedélyt kérelemre annak a vállalkozási tevékenységet – ide nem értve a léginavigációs szolgáltatást – folytató természetes, jogi személynek vagy egyéb szervezetnek adja ki, amely igazolja a megfelelő pénzügyi teljesítőképességét.
+23/C. § (1) A légiközlekedési hatóság a gazdasági célú légiközlekedési tevékenység végzésére, légi járművel végzett egyéb gazdasági tevékenység végzésére vagy a légiközlekedéssel összefüggő tevékenység végzésére engedélyt kérelemre annak a tevékenységet – ide nem értve a léginavigációs szolgáltatást – folytató természetes, jogi személynek vagy egyéb szervezetnek adja ki, amely igazolja a megfelelő pénzügyi teljesítőképességét.
 
 (2) E § alkalmazásában a pénzügyi teljesítőképesség abban az esetben tekinthető igazoltnak, ha a vállalkozási tevékenységet folytató természetes-, vagy jogi személy, vagy egyéb szervezet,
 

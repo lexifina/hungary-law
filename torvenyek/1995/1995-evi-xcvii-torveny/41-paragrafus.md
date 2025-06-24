@@ -12,7 +12,7 @@
 
 (4a) A repülőtér üzemben tartója és a repülőtér használója szerződésben (szolgáltatói megállapodás) állapodik meg a repülőtér használójának egyedi igénye szerinti szolgáltatás nyújtásáról, valamint a repülőtéri szolgáltatásoknak, termináloknak vagy azok egy részének a (3) bekezdés szerinti szabályzatban foglaltaktól eltérő minőségének és használati körének – az egyes terminálok vagy azok egy részének különleges használatra való fenntartása érdekében történő – meghatározásáról.
 
-(5) Az életmentő feladatot teljesítő, a légirendészeti szolgálatot ellátó és a katasztrófaelhárítást végző, továbbá a nem kereskedelmi tevékenységet teljesítő állami légijármű és a pilóta nélküli állami légijármű a nyilvános repülőteret díjtalanul veheti igénybe.
+(5) Az életmentő feladatot teljesítő, a légirendészeti szolgálatot ellátó, a katasztrófaelhárítást végző, továbbá a nem kereskedelmi tevékenységet teljesítő állami célú légiközlekedést végrehajtó légijármű, valamint a pilóta nélküli állami légijármű a nyilvános repülőteret díjtalanul veheti igénybe.
 
 (6) A repülőteret a kényszerhelyzetben lévő légijármű igénybe veheti, ehhez a repülőtér üzemben tartójának hozzájárulása nem kell. Ez a légijármű a repülőtér használatáért díjat nem fizet.
 

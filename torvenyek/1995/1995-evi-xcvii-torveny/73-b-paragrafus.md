@@ -18,6 +18,8 @@ h) az állami légijármű nyilvántartásának, gyártásának és javításán
 
 i) a pilóta nélküli állami légijárművek repülésének, a pilóta nélküli állami légijármű rendszerek üzemeltetésének, a kezelő személyzet képesítésének, egészségi alkalmasságának követelményeit, valamint a vonatkozó hatósági eljárás részletes szabályait,
 
-j) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait,.
+j) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait,.
+
+k) az önkéntes jelentési rendszer és bizottság működési szabályait, valamint az ehhez kapcsolódó igazgatási megállapodások megkötésével összefüggő szabályokat
 
 rendeletben állapítsa meg.

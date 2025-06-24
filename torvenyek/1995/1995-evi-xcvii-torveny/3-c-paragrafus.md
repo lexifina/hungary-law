@@ -2,7 +2,7 @@
 
 (2) A légiközlekedési hatóság a repülés biztonságának fenntartása érdekében – nemzetközi szerződésben foglaltakkal összhangban – üzemben tartási határozatban megtilthatja, korlátozhatja, bizonyos feltételek teljesítéséhez kötheti a légijárművekkel való üzemelést. Az eljárásban az ügyfél jogai a határozattal érintett minden légijármű tulajdonosát, bérlőjét és üzemben tartóját megilletik.
 
-(3) A légiközlekedési hatóság a repülés biztonságának fenntartása érdekében – nemzetközi szerződésben foglaltakkal összhangban – a repülés biztonságát veszélyeztető helyzet észlelése esetén a léginavigációs szolgáltatókra és az Európai Légiforgalmi Szolgáltatási Hálózat átjárhatóságáról szóló, 2005. március 10-i 552/2004/EK európai parlamenti és tanácsi rendeletben meghatározott bejelentett szervezetekre vonatkozóan léginavigációs biztonsági határozatot bocsát ki.
+(3) A légiközlekedési hatóság a repülés biztonságának fenntartása érdekében – nemzetközi szerződésben foglaltakkal összhangban – a repülés biztonságát veszélyeztető helyzet észlelése esetén a léginavigációs szolgáltatókra és az (EU) 2018/1139 európai parlamenti és tanácsi rendeletben meghatározott bejelentett szervezetekre vonatkozóan léginavigációs biztonsági határozatot bocsát ki.
 
 (4) A légiközlekedési hatóság a polgári légiközlekedés védelmének szabályait megállapító kormányrendeletben foglalt feladatainak ellátása érdekében – nemzetközi szerződésben foglaltakkal, valamint az egységes légiközlekedés-védelmi követelményrendszer végrehajtásához szükséges intézkedések meghatározásáról szóló uniós jogi aktusokkal összhangban – a 67. § (1) bekezdésben foglalt szervezetekre és személyekre, illetve ezek meghatározott körére vonatkozóan nemzeti légiközlekedés-védelmi határozatot bocsáthat ki.
 
