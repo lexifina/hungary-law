@@ -6,7 +6,7 @@
 
 a) az egyházi nyugdíjban részesülők esetében az egyházi nyugdíjat folyósító szerv,
 
-b) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén az a) pontban és a (4) bekezdésben említett személyek kivételével az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető,
+b) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén az a) pontban és a (4) bekezdésben említett személyek kivételével az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető, a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alá vont, azonban gyermekvédelmi szakellátásban nem részesülő ismeretlen állampolgárságú vagy hontalan gyermek esetén a gyámhatóság,
 
 c) a 22. § (1) bekezdés i) pontjában említett tanulók, szakképzésben részt vevők és hallgatók esetén a köznevelés információs rendszer, a szakképzés információs rendszer, illetve a felsőoktatási információs rendszer működtetője,
 

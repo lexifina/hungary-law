@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-122-00-00
 | 2025-02-01 | 2024. évi LXXIX. törvény | 2019-122-00-00.33 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2019-122-00-00.32 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2019-122-00-00.35 |
+| 2025-06-24 | 2025. évi LXVII. törvény | 2019-122-00-00.38 |
