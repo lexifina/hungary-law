@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-304-20-
 | 2021-01-01 | 2009-304-20-22.8 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2021-07-01 | 2009-304-20-22.9 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2023-12-27 | 2009-304-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2025-06-24 | 2009-304-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
