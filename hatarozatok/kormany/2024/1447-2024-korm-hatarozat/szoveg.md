@@ -18,14 +18,12 @@ A Kormány
 
 | Határidő: | a HUN-REN létrejöttét követő 30 napon belül |
 
-4. felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – a 3. pontban meghatározott közfeladat-finanszírozási megállapodás megkötése, valamint teljesülése érdekében gondoskodjon a 2025. évben 18 000 000 000 forint többletforrás biztosításáról a kultúráért és innovációért felelős miniszter által vezetett minisztérium fejezetében;
-
-| Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter |
-
-| Határidő: | a felmerülés ütemében |
+4.[^1]
 
 5. felhívja a kultúráért és innovációért felelős minisztert, hogy – a pénzügyminiszter bevonásával – a 3. pontban meghatározott közfeladat-finanszírozási megállapodás megkötése, valamint teljesülése érdekében gondoskodjon a 2026. évben 84 500 000 000 forint, a 2027. évtől kezdődően évi 97 000 000 000 forint forrás rendelkezésre állásáról a kultúráért és innovációért felelős miniszter által vezetett minisztérium fejezetében.
 
 | Felelős: | kultúráért és innovációért felelős miniszter pénzügyminiszter |
 
 | Határidő: | a mindenkori központi költségvetés tervezése során |
+
+[^1]: A 4. pontot az 1222/2025. (VI. 24.) Korm. határozat 7. pontja hatályon kívül helyezte.
