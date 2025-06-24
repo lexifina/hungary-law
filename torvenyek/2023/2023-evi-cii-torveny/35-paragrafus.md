@@ -26,7 +26,7 @@
 
 11. a Területfejlesztési Szolgálat szervezetrendszerének kialakítását, feladatainak részletes meghatározását, valamint működésének szakmai felügyeletére vonatkozó szabályokat;
 
-12. az együtt kezelendő térségek lehatárolását, körének meghatározását;
+12.
 
 13.
 

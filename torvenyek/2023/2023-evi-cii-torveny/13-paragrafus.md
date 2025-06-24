@@ -84,7 +84,7 @@ f) a területrendezésért felelős miniszter képviselője;
 
 g) az egészségügyért felelős miniszter képviselője;
 
-h) a szociálpolitikáért felelős miniszter képviselője;
+h)
 
 i) a köznevelésért felelős miniszter képviselője;
 
@@ -92,13 +92,13 @@ j) a vízgazdálkodásért és a vízvédelemért felelős miniszter képviselő
 
 k) a felsőoktatásért felelős miniszter képviselője;
 
-l) a szakképzésért felelős miniszter képviselője;
+l)
 
-m) az innovációért felelős miniszter képviselője;
+m)
 
 n) a közlekedésért felelős miniszter képviselője;
 
-o) a nemzeti közműszolgáltatásokért felelős miniszter képviselője.
+o)
 
 (5a) A Tisza-tó Fejlesztési Tanács tagjai:
 
@@ -110,7 +110,7 @@ c) az aktív Magyarországért felelős miniszter képviselője;
 
 d) a területrendezésért felelős miniszter képviselője;
 
-e) a környezetvédelemért felelős miniszter képviselője;
+e)
 
 f) a vízgazdálkodásért felelős miniszter képviselője;
 
@@ -124,7 +124,7 @@ j) a közlekedésért felelős miniszter képviselője;
 
 k) a társadalmi felzárkózásért felelős miniszter képviselője.
 
-(6) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokba a területfejlesztésért felelős miniszter és az európai uniós források felhasználásáért felelős miniszter egy-egy tagot delegál, míg más felelősségi körökben érintett miniszterek kizárólag egy tagot delegálhatnak akkor is, ha több kormányzati felelősségi kör alapján jogosultak a tagdelegálásra.
+(6)
 
 (7) A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
 
@@ -140,4 +140,4 @@ d) döntenek a hatáskörükbe utalt fejlesztési források tekintetében azok f
 
 (9) A kiemelt térségi fejlesztési tanácsok működtetésére a 11. §-t és a 12. § (2)–(4) bekezdését kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
 
-(10) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokban az elnöki feladatokat két elnök, mint társelnök látja el, azzal, hogy az egyik elnök a területfejlesztésért felelős miniszter vagy az általa kijelölt személy, a másik elnököt a tanácsok a tagjaik közül választják. A társelnökök a tanács üléseit együttesen hívják össze, és az elnöki teendőiket azonos jogkörrel, – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
+(10) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokban, azok tagjaként az elnöki feladatokat két elnök, mint társelnök látja el, azzal, hogy az egyik elnök a területfejlesztésért felelős miniszter vagy az általa kijelölt személy, a másik elnököt a tanácsok a tagjaik közül választják. A társelnökök a tanács üléseit együttesen hívják össze, és az elnöki teendőiket azonos jogkörrel, – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
