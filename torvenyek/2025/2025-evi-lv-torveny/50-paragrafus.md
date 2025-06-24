@@ -4,6 +4,6 @@ a) 36/I. § (1h) bekezdése,
 
 b) 36/I. § (5) bekezdés záró szövegrészében az „országos” szövegrész,
 
-c) „Munkaközi szünetek” alcím címe,
+c)
 
-d) „Heti pihenőidő” alcím címe.
+d)

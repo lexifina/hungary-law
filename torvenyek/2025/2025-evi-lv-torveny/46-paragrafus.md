@@ -1,3 +1,1 @@
-46. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény „ÁTMENETI RENDELKEZÉSEK” alcíme a következő 87/L. §-sal egészül ki:
-
-„87/L. § A közlekedési ágazat egyes kérdéseinek rendezéséről, valamint egyes közlekedési tárgyú törvények módosításáról szóló 2025. évi LV. törvénnyel megállapított 81. § (19) bekezdése szerinti, a 2025. évre vonatkozó felügyeleti díj fizetési kötelezettség 2025. augusztus 1. napjától áll fenn, amelynek mértékét a vasúti közlekedési hatóság 2025. szeptember 30. napjáig köteles megállapítani.”
+### 46. §

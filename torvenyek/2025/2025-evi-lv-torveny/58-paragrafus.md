@@ -5,15 +5,3 @@
 (2) A MÁV Pályaműködtetési Zrt. a Beruházás megvalósítását követően részletes elszámolást készít. Az elszámolási kimutatásnak tartalmaznia kell az átadott létesítményeknek, eszközöknek, berendezéseknek, ingatlanoknak a tulajdonos és vagyonkezelő eszköznyilvántartási rendje szerinti, az állami vagyon nyilvántartására vonatkozó jogszabályoknak és a számvitelről szóló törvénynek megfelelően szolgáltatandó adatait, továbbá a kimutatásnak meg kell felelnie a vasúti pályaműködtetésére vonatkozó, ezen belül a vasúti pályakapacitás elosztására, a hálózat-hozzáférési díj megállapítására vonatkozó feltételeknek is.
 
 (3) A MÁV Pályaműködtetési Zrt. a Beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.”
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

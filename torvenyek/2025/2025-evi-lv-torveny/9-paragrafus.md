@@ -2,15 +2,15 @@
 
 a) 18. § (1) bekezdésében a „gazdasági társaság végzi” szövegrész helyébe a „gazdasági társaság vagy költségvetési szerv végzi” szöveg,
 
-b) 21. § (1) bekezdés i) pontjában a „tilalmára” szövegrész helyébe a „tilalmára, és” szöveg,
+b)
 
-c) 21. § (4) bekezdésében az „a)–g) pontjában” szövegrész helyébe az „a)–g) és j) pontjában” szöveg,
+c)
 
-d) 21. § (4a) bekezdésében) az „a)–c) és e)–g) pontjában” szövegrész helyébe az „a)–c), e)–g) és j) pontjában” szöveg,
+d)
 
-e) 21/B. § (2) bekezdésében az „e), f) és h)” szövegrész helyébe az „e), f), h) és j)” szöveg,
+e)
 
-f) 24/A. § (5a) bekezdésében a „vizsgálatával és rendszeres” szövegrész helyébe a „vizsgálatával, honosítási eljárásával, valamint rendszeres” szöveg,
+f)
 
 g) 24/A. § (6) bekezdésében az „A jármű időszakos” szövegrész helyébe az „A jármű honosítási eljárása, forgalomba helyezés előtti vizsgálata, valamint időszakos” szöveg,
 
