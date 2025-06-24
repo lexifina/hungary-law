@@ -94,7 +94,7 @@ A víz jellegének megállapításához az anion-kation mg-egyenértékeket és 
 
 2.4.2. Fenolindex
 
-2.4.3. Fenol, alkil-fenolok
+2.4.3.[^30] Fenol, alkil-fenolok
 
 2.4.4. Illékony aromás szénhidrogének (benzol, toluol, etil-benzol, xilolok)
 
@@ -110,18 +110,21 @@ A víz jellegének megállapításához az anion-kation mg-egyenértékeket és 
 
 2.5.2. Rn-aktivitás: csak abban az esetben, ha a víz ásványvízzé minősítése csak a Rn-tartalom alapján lehetséges, vagy közegészségügyi szempontból indokolt
 
-2.6. Bakteriológiai vizsgálatok
+2.6.[^31] Bakteriológiai vizsgálatok
 
-2.6.1. Telepszám 22 oC-on és 37 °C-on TKE/ml,
+2.6.1. Telepszám 22 °C-on és 37 °C-on TKE/ml,
 
-2.6.2. Coliform baktériumok TKE/100 ml, Escherichia coli TKE/100 ml,
+2.6.2. Coliform baktériumok TKE/250 ml, Escherichia coli TKE/250 ml,
 
-2.6.3. Enterococcus TKE/100 ml,
+2.6.3. Enterococcus TKE/250 ml,
 
-2.6.4. Pseudomonas aeruginosa TKE/100 ml,
+2.6.4. Pseudomonas aeruginosa TKE/250 ml,
 
 2.6.5. Szulfitredukáló anaerobok (Clostridiumok) TKE/50 ml
 
 2.7. A 2.6.2–2.6.4. alpont szerinti vizsgálatok során, palackozási célú felhasználás esetén a vizsgálatokat 250 ml-ből kell elvégezni.
 
 2.8. Gyógyhatású víz esetén, továbbá fertőtlenítőszer-szint és egyéb adagolt vegyszerek maradékai
+
+[^30]: [A 7. melléklet 2. pont 2.4.3. alpontjában a 160/2025. (VI. 23.) Korm. rendelet 9. § i) pontja által elrendelt módosítás, amely szerint a „Fenol és alkil-fenolok” szövegrész helyébe a „Fenol és alkil-fenolok (o-Krezol, m-krezol, p-Krezol, Pirokatekol, Rezorcin” szöveg lép, nem vezethető át.]
+[^31]: A 7. melléklet 2. pont 2.6. alpontja a 160/2025. (VI. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

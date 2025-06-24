@@ -4,7 +4,7 @@
 
 (2) Elismert ásványvizet, gyógyvizet, gyógyhatású vizet és gyógygázt az előfordulási helyen lehet felhasználni.
 
-(3) Külső felhasználású ásványvizek, gyógyvizek és gyógyhatású vizek esetében az előfordulási helyen történő felhasználás kötelezettsége alól – a közegészségügyi előírások betartása mellett, csővezetéken keresztül történő felhasználással – a Hatóság felmentést adhat, amennyiben igazolható, hogy a víz a szállítás során nem szennyeződik, valamint nem változik az összetétele a természetes ingadozás mértékét meghaladóan.
+(3)[^1] Külső felhasználású ásványvizek, gyógyvizek és gyógyhatású vizek esetében az előfordulási helyen történő felhasználás kötelezettsége alól – a közegészségügyi előírások betartása mellett, csővezetéken keresztül történő felhasználással – járási hivatal felmentést adhat a közegészségügyi-technológiai szabályzat jóváhagyása során, amennyiben igazolható, hogy a víz a szállítás során nem szennyeződik, valamint nem változik az összetétele a természetes ingadozás mértékét meghaladóan.
 
 (4) Elismert gyógyvizet és gyógygázt az előfordulási helyen lehet palackozni és forgalomba hozni. Belső felhasználású gyógyvizek esetében a helyben történő palackozás kötelezettsége alól – a közegészségügyi előírások betartása mellett – a Hatóság felmentést adhat, amennyiben igazolható, hogy a víz a szállítás során nem szennyeződik, valamint nem változik az összetétele a természetes ingadozás mértékét meghaladóan.
 
@@ -21,3 +21,5 @@ d) javasolt fogyasztás.
 (6) Természetes gyógyiszap, természetes ásványi anyagok felhasználásával készült gyógyiszap (a továbbiakban együtt: gyógyiszap) gyógyászati célra, gyógyhatásra utalással a Hatóság engedélyével használható fel.
 
 (7) Meghatározott terület éghajlatát és a barlangi klímát, valamint az (1) bekezdésben nem említett, talajból nyert más természetes anyagot a Hatóság engedélyével lehet természetes gyógyhatásra utalással gyógyászati célra felhasználni.
+
+[^1]: A 14. § (3) bekezdése a 160/2025. (VI. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
