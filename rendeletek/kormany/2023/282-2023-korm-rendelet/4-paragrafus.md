@@ -1,1 +1,0 @@
-4. § Az e rendelet végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter, a közbiztonságért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az atomenergia-felügyeleti szerv elnöke gondoskodik, a 3. mellékletben meghatározott feladatmegosztás szerint.
