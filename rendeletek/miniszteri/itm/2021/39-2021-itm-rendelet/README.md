@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-39-20-7
 | 2022-06-25 | 2021-39-20-7Q.3 | 3/2022. (VI. 24.) TIM rendelet |
 | 2022-08-06 | 2021-39-20-7Q.4 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2023-09-22 | 2021-39-20-7Q.5 | 17/2023. (IX. 21.) ÉKM rendelet |
+| 2025-06-25 | 2021-39-20-7Q.6 | 17/2025. (VI. 24.) ÉKM rendelet |
