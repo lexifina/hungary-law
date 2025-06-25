@@ -1,3 +1,3 @@
-25. § A műszaki rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+25. §[^26]
 
-„(2) A közreműködők az általuk működtetett elektronikus információs rendszerek tekintetében a szolgáltatás nyújtásához szükséges feltételeket a meglévő szolgáltatásaik automatikus információátadás útján történő elérhetővé tételével, ennek hiányában a szükséges fejlesztések elvégzésével hajtják végre. A közreműködők a szolgáltatás nyújtásához szükséges elektronikus információs rendszereiket csak úgy módosíthatják, hogy az a szolgáltatás zavartalan nyújtását ne akadályozza.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

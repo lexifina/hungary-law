@@ -1,3 +1,3 @@
-29. § A műszaki rendelet 39. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+29. §[^30]
 
-[A Kormány által kötelezően nyújtandó azonosítási szolgáltatás (a továbbiakban: KASZ) alkalmazása esetében a felhasználó]
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

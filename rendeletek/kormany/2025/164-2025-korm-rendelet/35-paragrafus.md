@@ -1,3 +1,3 @@
-35. § A műszaki rendelet 74. §-a a következő (8) bekezdéssel egészül ki:
+35. §[^36]
 
-„(8) Az összerendelési nyilvántartásból az eAzonosítás keretszolgáltatás nyújtásához a digitális állampolgárság szolgáltató részére az általa kezelt digitális állampolgár azonosító alapján a kérelemben megjelölt nyilvántartásban szereplő természetes személy titkosított kapcsolati kódja szolgáltatható.”
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

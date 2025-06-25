@@ -1,3 +1,3 @@
-14. § A Dápvhr. 51. § (1) bekezdése a következő f) és g) ponttal egészül ki:
+14. §[^15]
 
-(A digitális állampolgárság szolgáltató a dap.gov.hu honlapon teszi elérhetővé)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

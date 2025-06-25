@@ -1,7 +1,3 @@
-## „e) a Központi Statisztikai Hivatal”
+44. §[^45]
 
-## [számára.]
-
-44. § A műszaki rendelet 144. § (3) bekezdése a következő d) ponttal egészül ki:
-
-(A kérelemhez az önként vállaló jogalany az alábbi dokumentumokat köteles csatolni:)
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

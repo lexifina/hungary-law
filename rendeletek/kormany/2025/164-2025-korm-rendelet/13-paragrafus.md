@@ -1,11 +1,3 @@
-13. § A Dápvhr. VII. Fejezete a következő 29/A. alcímmel egészül ki:
+13. §[^14]
 
-„29/A. Digitális szolgáltatások korlátozása
-
-48/A. § (1) A Kormány által biztosított kézbesítési szolgáltatás kijelölt szolgáltatója a felhasználó tekintetében jogosult ellenőrizni, hogy a hivatalos elérhetőségére küldött dokumentumok esetében egymást követően az átvétel ténye mennyi ideig nem igazolható.
-
-(2) A Dáptv. 46. § (1) bekezdés b) pontja szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás kijelölt szolgáltatója jogosult ellenőrizni, hogy a felhasználó a szolgáltatást mennyi ideig nem használja.
-
-(3) Amennyiben az (1) vagy (2) bekezdés szerinti feltétel az adott szolgáltatás tekintetében megszakítás nélkül hétszázharminc napig fennáll, a szolgáltató jogosult a felhasználó esetében a szolgáltatást felfüggeszteni.
-
-(4) A felfüggesztés megszüntetése az ügyfél-regisztrációs szerv előtt személyesen lehetséges.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

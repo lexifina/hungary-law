@@ -1,3 +1,3 @@
-26. § A műszaki rendelet 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+26. §[^27]
 
-„(2) A 2. melléklet szerinti nyilvántartásokban szereplő adat, valamint az aggregátum szolgáltatás kizárólag a KKSZB útján vehető igénybe, ide nem értve a nyilvántartás nyilvánosan, bárki számára elérhető szolgáltatásait.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

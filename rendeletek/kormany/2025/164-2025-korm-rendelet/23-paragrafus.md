@@ -1,3 +1,3 @@
-23. § A műszaki rendelet 4. § (7) bekezdése helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„(7) A digitális szolgáltatást biztosító szerv mobiltelefonra vagy más hordozható eszközre fejlesztett alkalmazását – amennyiben a Felügyelet az (5) bekezdés szerinti határozatában eltérően nem rendelkezik – a digitális állampolgárság szolgáltató helyezi el az felhasználók általi letöltésre szolgáló online platformokon.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

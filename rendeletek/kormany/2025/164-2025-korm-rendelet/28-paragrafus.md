@@ -1,5 +1,3 @@
-28. § A műszaki rendelet 33. §-a helyébe a következő rendelkezés lép:
+28. §[^29]
 
-„33. § (1) A digitális állampolgárság szolgáltató az eAláíráshoz kapcsolódó szolgáltatásokat a kijelölt bizalmi szolgáltató bevonásával nyújtja.
-
-(2) Az eAláírás keretszolgáltatás igénybevételével kezdeményezett aláíró tanúsítvány legalább a felhasználó nevét és digitális állampolgár azonosítóját tartalmazza.”
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

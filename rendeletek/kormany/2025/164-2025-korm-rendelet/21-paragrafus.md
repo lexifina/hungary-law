@@ -1,3 +1,3 @@
-21. § A műszaki rendelet 2. §-a a következő 3a. ponttal egészül ki:
+21. §[^22]
 
-(E rendelet alkalmazásában)
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

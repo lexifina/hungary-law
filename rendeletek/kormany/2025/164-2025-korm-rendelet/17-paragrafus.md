@@ -1,1 +1,3 @@
-17. § A Dápvhr. a 2. melléklet szerinti 2. melléklettel egészül ki.
+17. §[^18]
+
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

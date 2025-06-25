@@ -1,5 +1,3 @@
-37. § A műszaki rendelet IX. Fejezet címe helyébe a következő fejezetcím lép:
+37. §[^38]
 
-„IX. Fejezet
-
-A DÁPTV. 80. §-A SZERINTI SZERVEZETEKRE, A DIGITÁLIS SZOLGÁLTATÁSOK NYÚJTÁSÁT ÖNKÉNTESEN VÁLLALÓ SZERVEZETEKRE, VALAMINT A DÁPTV. 65. § (1) BEKEZDÉSE SZERINTI SZERVEZETEKRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK”
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
