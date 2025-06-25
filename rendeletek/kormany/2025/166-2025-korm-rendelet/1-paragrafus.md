@@ -1,0 +1,5 @@
+## (A Jegyzőkönyv C Függeléke Melléklete Magyarország vonatkozásában 2025. január 1-jén lépett nemzetközi jogilag hatályba.)
+
+## [1] A jogalkotó célja a veszélyes áruk nemzetközi vasúti fuvarozására vonatkozó szabályok módosításainak belső jogba történő beemelése, fuvarozás biztonsági okokra figyelemmel. A veszélyes áruk nemzetközi szállítására vonatkozó egyezmények mellékletei az alágazati szabályozások összhangjának megteremtése és a követelményeknek a tudományos és műszaki fejlődéshez való igazítása érdekében kétévente módosulnak. A módosítások 2025. január 1-jei hatálybalépésére tekintettel a Melléklet módosítása és e módosítások kihirdetése vált szükségessé.
+
+1. § A Kormány a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvénnyel kihirdetett COTIF Egyezmény módosításáról szóló Jegyzőkönyv C Függeléke, „A Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat” (a továbbiakban: RID) Mellékletének szövegét e rendelettel kihirdeti.
