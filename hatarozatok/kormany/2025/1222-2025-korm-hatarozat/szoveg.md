@@ -28,4 +28,6 @@ A Kormány
 
 | Határidő: | legkésőbb 2025. augusztus 31. |
 
-7. hatályon kívül helyezi a HUN-REN Magyar Kutatási Hálózat létrehozása és finanszírozása érdekében szükséges intézkedésekről szóló 1447/2024. (XII. 30.) Korm. határozat 4. pontját.
+7.[^1]
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
