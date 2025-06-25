@@ -36,9 +36,9 @@ A munkáltató maga vagy a munkáltató által megbízott – az oktatást tart�
 
 ## b) Az ADN Szabályzat 1. Rész, 1.16 Fejezetében, az 1.16.3 szakaszban szereplő vizsgáló testületként a KöViM rendelet 2. melléklet 2.01 cikke szerinti Szemlebizottság is elfogadható, amennyiben egy tagja olyan szakértő, aki rendelkezik az ADN szakosító ismereteivel és ezt az ADN Szabályzatban előírt bizonyítvánnyal igazolni tudja vagy a veszélyes áruk belvízi szállítására érvényes bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadó.”
 
-7a.[^4] Az ADN Szabályzat 5.4.3.4 bekezdése a következő mondattal egészül ki:
+7a.[^4] Az ADN Szabályzat 5.4.3.4 bekezdése a következő mondatokkal egészül ki:
 
-## „A nyomtatott írásbeli utasításnak legalább négy A4 méretű oldalból kell állnia, és a mintának megfelelő, színes kivitelűnek kell lennie.”
+## „A nyomtatott írásbeli utasításnak legalább négy A4 méretű oldalból kell állnia, és a mintának megfelelő, színes kivitelűnek kell lennie. Az írásbeli utasítás digitális formában is rendelkezésre bocsátható, amennyiben az informatikai eszköz kezdőképernyőjéről közvetlenül elérhető.”
 
 8. Az ADN Szabályzat 7.1.1.10 bekezdésének rendelkezéseit a következő kiegészítéssel kell alkalmazni:
 
@@ -80,7 +80,7 @@ A munkáltató maga vagy a munkáltató által megbízott – az oktatást tart�
 
 [^2]: Az 1. melléklet 3. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
 [^3]: Az 1. melléklet 5. pont d) alpontja a 17/2023. (IX. 21.) ÉKM rendelet 4. §-a szerint módosított szöveg.
-[^4]: Az 1. melléklet 7a. pontját a 17/2023. (IX. 21.) ÉKM rendelet 4. §-a iktatta be.
+[^4]: Az 1. melléklet 7a. pontját a 17/2023. (IX. 21.) ÉKM rendelet 4. §-a iktatta be, szövege a 17/2025. (VI. 24.) ÉKM rendelet 4. §-ával megállapított szöveg.
 [^5]: Az 1. melléklet 9. pont (4) bekezdés g) pontja a 20/2019. (VIII. 1.) ITM rendelet 6. § szerint módosított szöveg.
 [^6]: Az 1. melléklet 10. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
 [^7]: Az 1. melléklet 10a. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
