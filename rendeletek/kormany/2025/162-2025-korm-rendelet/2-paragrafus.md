@@ -1,3 +1,3 @@
-2. § A 210/2009. (IX. 29.) Korm. rendelet 26. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A fogyasztóvédelmi hatóság jár el)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
