@@ -1,3 +1,3 @@
-10. § Az 510/2023. (XI. 20.) Korm. rendelet 15. §-a a következő (8) bekezdéssel egészül ki:
+10. §[^11]
 
-„(8) Az NNGYK által nyilvántartásba vett termékek, fürdővízbiztonsági engedéllyel rendelkező technológiák esetében kiadott határozatok tartalmazzák a létesítés, a tápvízválasztás, a vízhasználat és az üzemeltetés feltételeit.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
