@@ -38,9 +38,9 @@ A munkáltató maga vagy a munkáltató által megbízott – az oktatást tart�
 
 ## „E kivételek közé tartoznak azok az állati eredetű melléktermékek is, beleértve az állati tetemeket is, amelyeket állatorvos nem minősített bejelentési kötelezettség alá tartozó fertőző anyagnak, valamint az állati eredetű melléktermékek jogszabályi előírások alapján végzett ártalmatlanításából származó feldolgozott termékek.”
 
-6a.[^13] A RID Szabályzat 5.4.3.4 bekezdése a következő mondattal egészül ki:
+6a.[^13] A RID Szabályzat 5.4.3.4 bekezdése a következő mondatokkal egészül ki:
 
-## „A nyomtatott írásbeli utasításnak négy, legalább A4 méretű oldalból kell állnia, és a mintának megfelelő, színes kivitelűnek kell lennie.”
+## „A nyomtatott írásbeli utasításnak négy, legalább A4 méretű oldalból kell állnia, és a mintának megfelelő, színes kivitelűnek kell lennie. Az írásbeli utasítás digitális formában is rendelkezésre bocsátható, amennyiben az informatikai eszköz kezdőképernyőjéről közvetlenül elérhető.”
 
 7.[^14] A RID Szabályzat 5.2.2.2.1.2 pont első bekezdését a következő mondattal kiegészítve kell alkalmazni:
 
@@ -50,6 +50,10 @@ A munkáltató maga vagy a munkáltató által megbízott – az oktatást tart�
 
 9.[^16] A RID Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
 
+10.[^17] A RID Szabályzat 5.3.1–5.3.5 szakaszok szerint jelölt üres, tisztítatlan szállítóeszközök vizsgálat vagy javítás céljából akkor is szállíthatók, ha sérült bárcákkal, narancssárga táblákkal, jelölésekkel vannak ellátva, amennyiben az utolsó rakomány a kísérőokmányok vagy a jelölések alapján megállapítható.
+
+11.[^18] A rendező pályaudvaron kisorozott kocsik, vontató jármű nélkül várakozó vonatok esetében a vasúti pályahálózat működtetője, amennyiben szükséges, a továbbító vasúttársaságtól a RID 5.4.0.2 bekezdésben meghatározott elektronikus adatátviteli technika mellett jogosult, elektronikus úton is, valós idejű tájékoztatást kérni a veszélyes áruval kapcsolatban.
+
 [^5]: Az 1. melléklet 1a. pontját a 20/2019. (VIII. 1.) ITM rendelet 4. §-a iktatta be.
 [^6]: Az 1. melléklet 2. pontja a 17/2023. (IX. 21.) ÉKM rendelet 2. §-ával megállapított szöveg.
 [^7]: Az 1. melléklet 3. pontja a 38/2021. (VII. 30.) ITM rendelet 2. §-ával megállapított szöveg.
@@ -58,7 +62,9 @@ A munkáltató maga vagy a munkáltató által megbízott – az oktatást tart�
 [^10]: Az 1. melléklet 4. pont d) alpontja a 17/2023. (IX. 21.) ÉKM rendelet 2. §-a szerint módosított szöveg.
 [^11]: Az 1. melléklet 5a. pontját az 53/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
 [^12]: Az 1. melléklet 6. pontja az 53/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^13]: Az 1. melléklet 6a. pontját a 17/2023. (IX. 21.) ÉKM rendelet 2. §-a iktatta be.
+[^13]: Az 1. melléklet 6a. pontját a 17/2023. (IX. 21.) ÉKM rendelet 2. §-a iktatta be, szövege a 17/2025. (VI. 24.) ÉKM rendelet 2. §-ával megállapított szöveg.
 [^14]: Az 1. melléklet 7. pontja az 53/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
 [^15]: Az 1. melléklet 8. pontját a 20/2019. (VIII. 1.) ITM rendelet 4. §-a iktatta be, szövege a 3/2022. (VI. 24.) TIM rendelet 2. §-a szerint módosított szöveg.
 [^16]: Az 1. melléklet 9. pontját a 38/2021. (VII. 30.) ITM rendelet 2. §-a iktatta be.
+[^17]: Az 1. melléklet 10. pontját a 17/2025. (VI. 24.) ÉKM rendelet 2. §-a iktatta be.
+[^18]: Az 1. melléklet 11. pontját a 17/2025. (VI. 24.) ÉKM rendelet 2. §-a iktatta be.
