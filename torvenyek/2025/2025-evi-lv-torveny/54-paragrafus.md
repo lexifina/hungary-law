@@ -2,6 +2,6 @@
 
 a)
 
-b) 15/A. § (2) bekezdésében a „feljogosító autóbuszos személyszállító engedélyben (tevékenységi engedély) –” szövegrész helyébe a „feljogosító – autóbuszos személyszállító engedélyben (tevékenységi engedély)” szöveg
+b)
 
 lép.

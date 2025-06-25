@@ -1,7 +1,1 @@
-52. § (1) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 51. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A 35/A. § szerinti Központi Rendszerként működő, az IKOP-3.1.0-15-2017-00014 és az IKOP-3.2.0-15-2017-00028. azonosítószámú Helyközi Közösségi Közlekedési Információs Rendszer (HKIR) projekt vonatkozásában a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság (a továbbiakban: NM Zrt.) és a KTI Kft. projektbeli jogutódja a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV SZK) és a MÁV Személyszállítási Zártkörűen Működő Részvénytársaság (a továbbiakban együtt: jogutód szervezetek). Az e projekttel összefüggő jogok és kötelezettségek a jogutód szervezeteket illetik meg, illetve terhelik. A jogutód szervezetek kötelesek az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni. Az e projektben létrehozott vagyonelemeket, vagyoni értékű jogokat az NM Zrt. és a KTI Kft. 2025. június 30. napjáig térítésmentesen köteles átadni a MÁV SZK részére.”
-
-(2) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 51. §-a a következő (16) bekezdéssel egészül ki:
-
-„(16) Az e törvény szerinti kiemelt közszolgáltatói közreműködő a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) alkalmazása során az e törvény szerinti közlekedésszervezővel esik egy megítélés alá. A kiemelt közszolgáltatói közreműködő a Htv. 3. § (3) bekezdésében meghatározott nyilatkozatot első alkalommal 2025. évben 2025. július 31-ig teheti meg.”
+### 52. §

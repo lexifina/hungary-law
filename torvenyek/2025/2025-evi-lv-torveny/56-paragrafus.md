@@ -1,7 +1,3 @@
 ## 9. A Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény módosítása
 
-56. § A Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény 4. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV Zrt.), mint építtető (a továbbiakban: építtető) és a Beruházás megvalósításába bevont MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság, mint vasúti pályahálózat-működtető (a továbbiakban: MÁV Pályaműködtetési Zrt.) a Beruházással kapcsolatos ügyekben és eljárásokban teljes személyes költség-, illeték- és igazgatási szolgáltatási díjmentességben részesül.
-
-(2) A MÁV Zrt. a Beruházás megvalósítása érdekében létesítési, felújítási, fejlesztési és területszerzési feladatokat lát el – a Kínai–Magyar Vasúti Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Kínai–Magyar Vasúti NZrt.), mint bonyolító közreműködésével, valamint a MÁV Pályaműködtetési Zrt. bevonásával – az állam nevében és javára a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben (a továbbiakban: Vtv.) foglalt rendelkezések alapján azzal, hogy a Vtv. előírásait az e törvényben meghatározott eltérésekkel kell alkalmazni.”
+### 56. §
