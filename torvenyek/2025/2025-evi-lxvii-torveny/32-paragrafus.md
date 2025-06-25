@@ -2,6 +2,6 @@
 
 a)
 
-b) 244/N. §-ában a „2026.” szövegrész helyébe a „2027.” szöveg
+b)
 
 lép.

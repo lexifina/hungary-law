@@ -2,22 +2,22 @@
 
 a)
 
-b) 9/B. § (2) bekezdésében az „üzemeltetője” szövegrész helyébe az „üzemeltetője (a továbbiakban: Üzemeltető)” szöveg,
+b)
 
-c) 9/C. § (2a) bekezdésében a „Zrt.” szövegrész helyébe a „Zrt., valamint Üzemeltető” szöveg,
+c)
 
-d) 9/C. § (3)–(5a) bekezdésében, 9/D. § (2) és (3) bekezdésében, a 9/E. § (5) bekezdésében az „A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője” szövegrész helyébe az „Az Üzemeltető” szöveg,
+d)
 
-e) 9/C. § (7) bekezdésében az „a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét” szövegrész helyébe az „Üzemeltetőt” szöveg,
+e)
 
-f) 9/G. § (2) és (4) bekezdésében az „A Magyar Turisztikai Ügynökség Zrt.” szövegrész helyébe az „Üzemeltető” szöveg,
+f)
 
-g) 9/G. § (5) bekezdésében az „a Magyar Turisztikai Ügynökség Zrt.” szövegrész helyébe az „az Üzemeltető” szöveg,
+g)
 
-h) 9/I. § (2) bekezdésében az „A Magyar Turisztikai Ügynökség Zrt.” szövegrész helyébe az „Az Üzemeltető” szöveg,
+h)
 
-i) 10. § f) pontjában a „Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője” valamint az „üzemeltető” szövegrész helyébe az „Üzemeltető” szöveg,
+i)
 
-j) 12. § (1) bekezdésében az „a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője” szövegrész helyébe az „az Üzemeltető” szöveg
+j)
 
 lép.

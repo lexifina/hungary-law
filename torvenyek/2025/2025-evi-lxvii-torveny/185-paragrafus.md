@@ -1,5 +1,3 @@
 ## 45. A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása
 
-185. § A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény (a továbbiakban: Budapest törvény) 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a tulajdonosi jog gyakorlása alapján, vagy a vagyonkezelésében lévő vagy a megállapodás alapján a rendelkezésére álló ingatlanon e jogviszonyok alapján beruházási és felújítási tevékenységet is végezhet.”
+### 185. §

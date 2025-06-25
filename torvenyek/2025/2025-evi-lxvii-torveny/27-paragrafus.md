@@ -10,6 +10,6 @@ c)
 
 d)
 
-e) 50. § (5) bekezdésében az „indokolt esetben” szövegrész helyébe az „az egészségi állapotában bekövetkezett kedvezőtlen változás esetén” szöveg
+e)
 
 lép.
