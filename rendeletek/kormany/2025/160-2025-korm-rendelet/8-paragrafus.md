@@ -1,3 +1,3 @@
-8. § (1) Az 509/2023. (XI. 20.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+8. §[^9]
 
-(2) Az 509/2023. (XI. 20.) Korm. rendelet 7. melléklete a 2. melléklet szerint módosul.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
