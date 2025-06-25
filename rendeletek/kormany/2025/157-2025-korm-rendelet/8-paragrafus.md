@@ -1,1 +1,3 @@
-8. § A 235/2019. (X. 15.) Korm. rendelet a 2. melléklet szerinti 6. melléklettel egészül ki.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
