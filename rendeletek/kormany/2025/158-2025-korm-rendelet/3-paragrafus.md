@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 235/2019. (X. 15.) Korm. rendelet 8. alcíme.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
