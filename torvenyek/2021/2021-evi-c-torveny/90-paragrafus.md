@@ -4,17 +4,19 @@
 
 (2) Az elektronikus szemle és teljes tulajdonilap-másolat lekérdezése során személyes díjmentességet élvez:
 
-a) a Magyar Állam,
+a) a magyar állam,
 
 b) a költségvetési szerv és a költségvetési szerv szervezeti egysége vagyonkezelőként és a jogszabályban meghatározott feladatai ellátásával összefüggésben egyaránt,
 
 c) az egyházi jogi személy,
 
-d) a természetes személy a tulajdonában álló ingatlanra vonatkozóan évente két alkalommal.
+d) a természetes személy évente két tulajdonilap-másolatra.
 
 (3) Az (2) bekezdés c) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.
 
 (4) A (3) bekezdésben meghatározott feltétel fennállásáról a szervezet az eljárás megindulásakor írásban köteles nyilatkozni.
+
+(4a) A (2) bekezdés d) pontja szerinti mentesség a természetes személyt a tulajdonában álló ingatlan vonatkozásában illeti meg.
 
 (5) Tárgyánál fogva díjmentes az elektronikus szemle és teljes tulajdonilap-másolat lekérdezése, ha azt
 
@@ -38,10 +40,12 @@ d) a természetes személy a tulajdonában álló ingatlanra vonatkozóan évent
 
 10. a földmérési és térképészeti tevékenységről szóló törvényben meghatározott állami alapmunkák végzéséhez kérik,
 
-11. lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézetek kérik.
+11. lakás építéséhez, vásárlásához, bővítéséhez vagy korszerűsítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézetek kérik.
 
 (6) Az (5) bekezdés 1–7. pontjában felsorolt okok esetében a felhasználás célját a mentességet megalapozó eljárás, az ügyszám, illetve a pályázati azonosító megjelölésével hitelt érdemlően igazolni kell.
 
 (7) Amennyiben az ingatlanügyi hatóság megállapítja, hogy a díjmentes lekérdezés jogalap nélkül történt, a lekérdezőnek bírságként a tulajdonilap-másolat igazgatási szolgáltatás díjának háromszorosát kell megfizetnie.
 
 (8) A (7) bekezdésben meghatározott jogsértés esetén a figyelmeztetés kizárt.
+
+(9) Tárgyánál fogva díjmentes a 83. § (4) bekezdése szerinti földkönyvi adatszolgáltatás.

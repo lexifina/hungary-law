@@ -20,6 +20,10 @@ c) az ingatlan-nyilvántartási rendszer működéséhez szükséges külső inf
 
 (2b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a 2024. szeptember 30-át megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos eljárás részletszabályait.
 
+(2c) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzésére vonatkozó részletes szabályait.
+
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza az ingatlanok helyrajzi számozásának megállapítására vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben meghozott rendeletben megállapítsa az ingatlan-nyilvántartási eljárásért és az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó szabályokat.
+
+(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő testülete, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy rendeletben meghatározza a település azon részét, ahol a zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzése kérelmezhető.

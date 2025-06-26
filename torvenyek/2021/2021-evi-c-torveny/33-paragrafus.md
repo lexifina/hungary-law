@@ -1,5 +1,5 @@
-33. § (1) Társasházi közös tulajdonba tartozó ingatlan tulajdonjogának átruházásáról szóló szerződés alapján a tulajdonjog-változás az összes tulajdoni hányad legalább négyötödét képviselő tulajdonostársak szerződéses nyilatkozata alapján is bejegyezhető; ebben az esetben a változás bejegyzéséhez a többi tulajdonostárs szerződéses nyilatkozata és bejegyzési engedélye nem szükséges.
+33. § (1) Társasházi közös tulajdonba tartozó ingatlan tulajdonjogának átruházásáról szóló szerződés alapján a tulajdonjog-változás az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársak szerződéses nyilatkozata alapján is bejegyezhető; ebben az esetben a változás bejegyzéséhez a többi tulajdonostárs szerződéses nyilatkozata és bejegyzési engedélye nem szükséges.
 
-(2) A tulajdonostársak (1) bekezdés szerinti többségének hiányában az (1) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha a szerződéses nyilatkozatot tevő tulajdonostársak az összes tulajdoni hányad legalább kétharmadát képviselik, feltéve, hogy a társasház alapító okirata a társasházi közös tulajdonba tartozó ingatlan ilyen többséggel való átruházását lehetővé teszi.
+(2)
 
 (3) A társasházakról szóló törvény szerinti lakásösszevonás vagy lakásmegosztás esetén bejegyzés alapjául szolgálhat az összes tulajdoni hányad több mint felét képviselő tulajdontársak által aláírt alapító okirat, ez esetben a bejegyzéshez a többi tulajdonostárs szerződéses nyilatkozata nem szükséges.

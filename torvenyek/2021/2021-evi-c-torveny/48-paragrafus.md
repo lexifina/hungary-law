@@ -29,3 +29,5 @@ d) ha a kérelem érdemi elbírálása külföldi jogi vagy természetes személ
 (7) A bejegyzés alapjául szolgáló okiratban félként szereplő érdekelteknek az eljárás folytatása iránti együttes kérelmét közokiratban, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratban kell benyújtania.
 
 (8) A folyamatban lévő megosztás tényének bejegyzése iránt indult eljárást az ingatlanügyi hatóság a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott esetekben, az ott meghatározott időtartamra felfüggeszti.
+
+(9) Az ingatlanügyi hatóság az 59. § (3) bekezdése szerinti intézkedésével egyidejűleg az ingatlan-nyilvántartási eljárást a hatósági felhívást kiadó hatóság válaszáig, de legfeljebb az ingatlanügyi hatóság tájékoztató levelének a hatósági felhívást kiadó hatóság általi átvételétől számított hatvanadik napig felfüggeszti.

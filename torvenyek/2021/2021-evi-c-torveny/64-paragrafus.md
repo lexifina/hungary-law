@@ -4,7 +4,7 @@
 
 (2) Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait.
 
-(3) Végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás során történő tulajdonszerzés esetén a tulajdonjog-bejegyzés iránti kérelemhez csatolt árverési jegyzőkönyvnek kell tartalmaznia a mezőgazdasági igazgatási szerv jóváhagyó záradékát.
+(3) Végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás során történő tulajdonszerzés esetén az árverési jegyzőkönyvnek kell tartalmaznia a mezőgazdasági igazgatási szerv jóváhagyó záradékát.
 
 (4) Abban az esetben, ha a föld tulajdonjogának megszerzésére irányuló szerződéshez nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, azonban a szerződést az elővásárlásra jogosultakkal hirdetményi úton, a föld fekvése szerint illetékes települési önkormányzat jegyzője közreműködésével kell közölni, a bejegyzésre irányuló kérelmet a honlapon közzétett szerződésnek az ingatlan tulajdonosa által történő kézhezvételétől számított harminc napon belül kell az ingatlanügyi hatósághoz benyújtani.
 

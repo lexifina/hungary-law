@@ -8,6 +8,8 @@ b) az a) pont alá nem tartozó nem természetes személyeknek tevékenységük 
 
 c) természetes személyeknek a Dáptv.-ben leírtak szerinti elektronikus azonosítási szolgáltatás segítségével a személyre szabott ügyintézési felületen keresztül
 
+d) az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben ingatlan-nyilvántartási eljárás megindítására eljárási jogosultsággal rendelkező személy részére
+
 biztosítja.
 
 (2) A földmérési és térinformatikai államigazgatási szerv az (1) bekezdés a) és b) pontja szerinti határozatában állapítja meg a kérelmező által – a kérelemben megjelölt jogszabályok alapján – igénybe vehető díjmentességek körét.

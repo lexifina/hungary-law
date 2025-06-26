@@ -22,7 +22,7 @@ e) érvényes jog és tény,
 
 f) azon törölt jog, tény és ingatlanadat, amely az adott ingatlan tulajdoni lapjának digitalizálásakor és azt követően az elektronikusan vezetett tulajdoni lapon feltüntetésre került.
 
-(2) Az ingatlanügyi hatóság jogszabályban rögzített feladatai ellátása, valamint a miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében díjmentesen, korlátozás nélkül férhet hozzá az ingatlan-nyilvántartási adatokhoz.
+(2) Az ingatlanügyi hatóság jogszabályban rögzített feladatai ellátása, valamint az ingatlan-nyilvántartásért felelős miniszter (a továbbiakban: miniszter) a szakmai irányításával összefüggő feladatai ellátása érdekében díjmentesen, korlátozás nélkül férhet hozzá az ingatlan-nyilvántartási adatokhoz.
 
 (3) Az agrárpolitikáért, a földügyért, a földügyi és agrártámogatási szakigazgatáshoz kapcsolódó térképészetért, az erdőgazdálkodásért, a környezetvédelemért, a természetvédelemért, az élelmiszerlánc-felügyeletért, az élelmiszeriparért, valamint a vadgazdálkodásért és a halgazdálkodásért felelős miniszter – a szakmai irányításával és tulajdonosi joggyakorlásával összefüggő feladatai ellátása érdekében – térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
 
@@ -48,8 +48,10 @@ h) a bejegyzett tulajdonos vagy teljes bizonyító erejű magánokiratba foglalt
 
 i) az európai öröklési bizonyítvánnyal igazolt örökös az örökhagyó valamennyi ingatlanának az ingatlan-nyilvántartásból történő megállapításához,
 
-j) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
+j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a jogosultságvizsgálat elvégzéséhez, vagy
+
+k) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
 
 kéri.
 
-(6) A személyi azonosító lekérdezésének lehetőségét az (5) bekezdés a), b) és f) pontjában foglaltak kivételével ki kell zárni.
+(6)

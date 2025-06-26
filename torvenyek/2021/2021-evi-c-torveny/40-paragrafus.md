@@ -4,6 +4,6 @@
 
 (3) Nincs szükség a külföldön kiállított közokirat diplomáciai felülhitelesítésére, ha az okiratot hitelesítési záradékkal (Apostille) látták el, vagy a felülhitelesítés alól az Európai Unió kötelező jogi aktusa, nemzetközi megállapodás vagy viszonossági gyakorlat egyébként felmentést ad. Ilyen nemzetközi megállapodás vagy viszonossági gyakorlat fennállását a bejegyzést kérő félnek kell megjelölni, illetve arra hivatkozni. Viszonossági gyakorlat fennállásáról az igazságügyért felelős miniszter állásfoglalása az irányadó.
 
-(4) A papíralapú, külföldön kiállított és diplomáciai felülhitelesítéssel vagy Apostille tanúsítvánnyal ellátott közokirat bejegyzés alapjául akkor szolgálhat, ha azt magyarországi ügyvéd, kamarai jogtanácsos vagy közjegyző előzetesen elektronikus okirattá alakította.
+(4) A papíralapú, külföldön kiállított közokirat bejegyzés alapjául akkor szolgálhat, ha azt magyarországi ügyvéd, kamarai jogtanácsos vagy közjegyző előzetesen elektronikus okirattá alakította.
 
 (5) Ingatlanra bejegyezhető jogot vagy tényt érintően külföldön kiállított ügyleti meghatalmazás az ingatlan-nyilvántartási eljárásban akkor használható fel, ha azt magyar közjegyző az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal és módon, elektronikus űrlapon rögzítette.

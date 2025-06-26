@@ -4,7 +4,7 @@
 
 (2) A földrészletet több művelési ág, illetve művelés alól kivett terület esetén művelési ágak és művelés alól kivett területek szerint alrészletekre kell bontani.
 
-(3) Egy földrészlet legfeljebb húsz alrészletet tartalmazhat.
+(3)
 
 (4) A földrészlettel együtt kell nyilvántartani
 

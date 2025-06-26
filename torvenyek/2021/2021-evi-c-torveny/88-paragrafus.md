@@ -12,7 +12,7 @@
 
 (2) Az ingatlan-nyilvántartási eljárás díja alól teljes személyes díjmentességben részesül:
 
-a) a Magyar Állam,
+a) a magyar állam,
 
 b) a fővárosi és vármegyei kormányhivatal, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
@@ -30,7 +30,7 @@ d) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerző
 
 2. a jogosult nevének és lakcímének (székhelyének, üzemi központjának) bejelentése;
 
-3. a lakáscélú állami támogatást biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam mint a jelzálogjog jogosultja javára a jelzálogjog megszűnéséig fennálló elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése, illetve törlése iránti eljárás;
+3. a lakáscélú állami támogatást biztosító jelzálogjog, valamint ezzel összefüggően a magyar állam mint a jelzálogjog jogosultja javára a jelzálogjog megszűnéséig fennálló elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése, illetve törlése iránti eljárás;
 
 4. az olyan jog vagy tény törlésére irányuló kérelem, amelynek megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható;
 
@@ -50,7 +50,7 @@ d) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerző
 
 a) a visszavásárlási jog bejegyzésére és törlésére irányuló eljárás,
 
-b) a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére irányuló eljárás,
+b) a magyar állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére vagy törlésére irányuló eljárás,
 
 c) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelői jogának bejegyzésére és törlésére irányuló eljárás,
 
@@ -96,6 +96,8 @@ m) helyi egyedi építészeti védelem,
 
 n) védett kulturális javak körébe tartozó tartozékok, alkotórészek
 
+o) rizstelep
+
 bejegyzésére, módosítására, törlésére irányul;
 
 18. tulajdonosváltozás ingatlan-nyilvántartási bejegyzése hagyatékátadó végzés alapján;
@@ -112,4 +114,6 @@ b) a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló 
 
 22. a bányatelek jogi jelleg törlésére irányuló eljárás.
 
-23. az engedélyköteles vagy bejelentésköteles építmény feltüntetésére, valamint az engedéllyel vagy bejelentést követően elbontott építmény törlésére irányuló eljárás.
+23. az építmény feltüntetésére, valamint az elbontott építmény törlésére irányuló eljárás.
+
+24. a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének bejegyzésére és törlésére irányuló eljárás.

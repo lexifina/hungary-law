@@ -1,6 +1,6 @@
 ## 29. Bírósági elrendelés, hatósági felhívás alapján hivatalból folytatott eljárás
 
-58. § (1) Az eljáró bíróság bejegyezhető jogra, tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozata alapján elrendeli az ingatlan-nyilvántartási bejegyzést.
+58. § (1) Az eljáró bíróság bejegyezhető jogra, tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozatával elrendeli az ingatlan-nyilvántartási bejegyzést.
 
 (2) Az ingatlanügyi hatóság a bírósági elrendelés tartalmának megfelelő változást – amennyiben a bejegyzésnek akadálya nincs – hivatalból jegyzi be az ingatlan-nyilvántartásba.
 

@@ -1,14 +1,14 @@
 ## 17. Az okiratok kellékei
 
-35. § (1) Az ingatlan-nyilvántartási bejegyzés vagy törlés alapjául szolgáló okiratnak tartalmaznia kell:
+35. § (1) Ha e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendelet másként nem rendelkezik, az ingatlan-nyilvántartási bejegyzés vagy törlés alapjául szolgáló okiratnak tartalmaznia kell:
 
-a) az okiratban szereplő természetes személy nevét, valamint
+a) az okiratban szereplő – a bejegyzéssel közvetlenül érintett – természetes személy nevét, valamint
 
 aa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személy további természetes személyazonosító adatait a 8. § (1) bekezdés b) pontjában meghatározottak szerint,
 
 ab) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy további természetes személyazonosító adatait és a személyi azonosítóját;
 
-b) az okiratban szereplő jogi személy, jogi személyiség nélküli szervezet megnevezését, valamint
+b) az okiratban szereplő – a bejegyzéssel közvetlenül érintett – jogi személy, jogi személyiség nélküli szervezet megnevezését, valamint
 
 ba) a nyilvántartását vezető szerv megnevezését és a nyilvántartási számát,
 
@@ -24,9 +24,9 @@ f) egyoldalú – a bejegyzett jog törléséhez hozzájáruló – nyilatkozat 
 
 g) a bejegyzett jogosult bejegyzést, törlést engedő feltétlen és visszavonhatatlan nyilatkozatát;
 
-h) az okiratban szereplő természetes személyek állampolgárságra vonatkozó nyilatkozatát.
+h) az okiratban szereplő – a bejegyzéssel közvetlenül érintett – természetes személy állampolgárságra vonatkozó nyilatkozatát, vagy nyilatkozat hiányában – ha rendelkezésre áll – állampolgárságra vonatkozó adatát.
 
-(2) A belföldön kiállított magánokirat bejegyzés alapjául csak akkor szolgálhat, ha kitűnik belőle a keltezés helye és ideje, az okiratot ügyvéd vagy kamarai jogtanácsos ellenjegyzéssel látta el, valamint az okiratban az ügyletkötő félnek, a fél képviselőjének személye nyilvánvalóan beazonosítható, és
+(2) Magánokirat bejegyzés alapjául csak akkor szolgálhat, ha kitűnik belőle a keltezés helye és ideje, az okiratot magyar területi ügyvédi kamara ügyvéd vagy kamarai jogtanácsos tagja ellenjegyzéssel látta el, valamint az okiratban az ügyletkötő félnek, a fél képviselőjének személye nyilvánvalóan beazonosítható, és
 
 a) a papíralapú okiratról készült – a jogi képviselő által az ügyvédi tevékenységről szóló törvény szerint elektronikus okirattá alakítással előállított – elektronikus másolat az ügyletkötő fél, a fél képviselője, valamint a készítő és ellenjegyző személy aláírásképét tartalmazza,
 

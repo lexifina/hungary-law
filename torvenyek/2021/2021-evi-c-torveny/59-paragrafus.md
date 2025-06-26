@@ -1,4 +1,4 @@
-59. § (1) Az eljáró hatóság a bejegyezhető jogra, tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozata vagy jogszabály rendelkezése alapján felhívja az ingatlanügyi hatóságot a bejegyzés teljesítésére.
+59. § (1) Az eljáró hatóság a bejegyezhető jogra, tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, feltételt nem tartalmazó, végrehajtható határozatával vagy jogszabály rendelkezése alapján felhívja az ingatlanügyi hatóságot a bejegyzés teljesítésére.
 
 (2) Az ingatlanügyi hatóság a hatósági felhívás tartalmának megfelelő változást – amennyiben a bejegyzésnek akadálya nincs – hivatalból jegyzi be az ingatlan-nyilvántartásba.
 
