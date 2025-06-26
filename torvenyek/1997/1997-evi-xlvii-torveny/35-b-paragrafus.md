@@ -12,7 +12,7 @@ e) az ártámogatási szerződéssel rendelkező gyógyászatisegédeszköz-forg
 
 (2) Az egészségügyi ellátóhálózatba tartozó, az (1) bekezdés alá nem tartozó adatkezelők az EESZT-hez a miniszter rendeletében meghatározott feltételekkel csatlakozhatnak.
 
-(3) Az EESZT szolgáltatásai a működtető által biztosított közvetlen hozzáférési felületen és az (1) és (2) bekezdés alapján csatlakozott adatkezelő (a továbbiakban: csatlakozott adatkezelő) informatikai rendszerén keresztül is igénybe vehetők. A közvetlen hozzáférési felület igénybevétele érdekében regisztrációra köteles valamennyi olyan természetes személy, aki a csatlakozott adatkezelők vagy saját nevében az EESZT szolgáltatásait igénybe veszi.
+(3) Az EESZT szolgáltatásai az (1) és (2) bekezdés alapján csatlakozott adatkezelő (a továbbiakban: csatlakozott adatkezelő) informatikai rendszerén keresztül vehetők igénybe. A működtető közvetlen hozzáférési felületet biztosíthat, amelyen az EESZT egyes szolgáltatásai elérhetőek.
 
 (4) Az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltatók között informatikai rendszerek közötti adatcsere esetén egészségügyi adat kizárólag az EESZT útján továbbítható.
 

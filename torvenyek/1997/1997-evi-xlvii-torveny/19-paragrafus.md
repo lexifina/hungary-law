@@ -1,3 +1,9 @@
 19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos intézet,a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, születési dátumát és postai irányítószámát.
 
 (2) Az (1) bekezdésben megjelölt adatokat az ott meghatározott célból az egészségügyi ellátóhálózat, illetve az egészségügyi államigazgatási szerv továbbítja az (1) bekezdés szerinti szervek részére.
+
+(3) Az egészségügyi ellátóhálózat szereplője, az EESZT működtetője, valamint az egészségbiztosítási szerv – a miniszter Eütv. 150. § (1) bekezdés c), d) és f) pontjában meghatározott feladatai ellátása érdekében, az adatvezérelt egészségpolitikai döntéshozatal, a betegbiztonság és prevenció fejlesztése, valamint a betegutak optimalizálása és a terápiás eredmények javítása érdekében – a miniszter által meghatározott, az ellátóhálózat, az EESZT működtetője, valamint az egészségbiztosítási szerv által kezelt egészségügyi adatokat a miniszter által meghatározott paraméterek szerint anonimizálja és a miniszter részére átadja.
+
+(4) Ha a (3) bekezdés szerinti esetben a miniszter által meghatározott paraméterek okán az adatok anonimizálása nem megoldható, az adatokat álnevesítve kell átadni azzal, hogy az álnevesített adatok tekintetében a helyreállítási kulcshoz a miniszter számára hozzáférés nem adható.
+
+(5) A (3) bekezdés szerinti adatok anonimizálásának – a (4) bekezdés szerinti esetben álnevesítésének – és átadásának költségei viselésének tekintetében az adatkezelő és a miniszter megállapodást köt.

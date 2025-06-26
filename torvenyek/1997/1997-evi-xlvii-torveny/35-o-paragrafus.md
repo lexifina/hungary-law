@@ -1,8 +1,8 @@
-35/O. § (1) A működtető biztosítja, hogy az Ebtv. alapján beutalónak nem minősülő igénylést az igénylő orvos az EESZT útján elektronikus úton is kiállíthassa, és az EESZT útján továbbíthassa (a továbbiakban: elektronikus szolgáltatásrendelés).
+35/O. § (1) A működtető biztosítja, hogy az Ebtv. alapján beutalónak nem minősülő igénylést az igénylő az EESZT útján elektronikus úton is kiállíthassa, és az EESZT útján továbbíthassa (a továbbiakban: elektronikus szolgáltatásrendelés).
 
 (2) Az elektronikus szolgáltatásrendelésnek tartalmaznia kell
 
-a) az igénylő orvos azonosítására szolgáló adatot, megnevezését, kódját,
+a) az igénylő azonosítására szolgáló adatot, megnevezését, kódját,
 
 b) a szolgáltatásrendeléssel érintett személy TAJ számát, vagy ennek hiányában más azonosítóját és
 
@@ -14,11 +14,11 @@ a) a szolgáltatásrendeléssel érintett személy születési idejét,
 
 b) a felkért szolgáltató nevét, intézményi azonosító kódját,
 
-c) az igénylő orvos által végzett ellátás azonosítóját, és
+c) az igénylő által végzett ellátás azonosítóját, és
 
 d) a szolgáltatásrendeléssel érintett személy rövid kórelőzményét.
 
-(4) A működtető biztosítja, hogy az igénylő orvos és a szolgáltatásrendeléssel érintett személy az igénylés szerinti egészségügyi szolgáltatás meghatározott egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, és ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa az igénylő orvost és a szolgáltatásrendeléssel érintett személyt.
+(4) A működtető biztosítja, hogy az igénylő orvos és a szolgáltatásrendeléssel érintett személy az igénylés szerinti egészségügyi szolgáltatás meghatározott egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, és ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa az igénylőt és a szolgáltatásrendeléssel érintett személyt.
 
 (5) A működtető az (1) és (4) bekezdésben foglaltakról nyilvántartást vezet. A nyilvántartás tartalmazza
 
