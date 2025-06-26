@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-6-00-00
 | --- | --- | --- |
 | 2024-04-18 | 2024. évi VI. törvény | 2024-6-00-00.0 (közlönyállapot) |
 | 2024-04-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-6-00-00.1 |
+| 2025-06-26 | 2024. évi VI. törvény | 2024-6-00-00.2 |
