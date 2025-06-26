@@ -6,7 +6,7 @@
 
 (3) Az állam által előlegezett végrehajtási költséget behajthatatlanság esetén az állam viseli.
 
-(4) A felek az általuk előlegezett költség összegét kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
+(4) A felek az általuk előlegezett költség összegét – e törvény eltérő rendelkezése hiányában – kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
 
 (5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg részben vagy egészben a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek – megtérült összeghez igazodó, arányos – kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
 
