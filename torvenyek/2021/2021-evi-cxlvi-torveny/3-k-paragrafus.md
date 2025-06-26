@@ -1,0 +1,1 @@
+3/K. § Ha közjegyző olyan jogügylet során lát el jogi képviseletet, amelyben biztonsági okmányon készít okiratot, a változás bejegyzésére irányuló beadványát papíralapon nyújtja be az ingatlanügyi hatósághoz.
