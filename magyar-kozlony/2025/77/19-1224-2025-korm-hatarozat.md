@@ -1,0 +1,562 @@
+# A Kormány 1224/2025. (VI. 26.) Korm. határozata
+
+Magyar Közlöny 2025. évi 77. szám, 2025. június 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6CsVxhBtWJqa34K8EnMD6854750da8b01/dokumentumok/b73b1317983596b9b37e72b34dbe0ed5658f3a74/letoltes)
+
+---
+
+A Kormány 1224/2025. (VI. 26.) Korm. határozata
+az Európai Unió számára készített köznevelési stratégia 2021–2030 végrehajtásának
+a 2025–2028. évekre szóló kormányzati intézkedési tervéről
+A Kormány az Európai Unió számára készített köznevelési stratégia 2021–2030 című dokumentumban foglalt
+célkitűzések megvalósítása és szakpolitikai elvek érvényesítése érdekében, valamint összhangban az Európai Unió
+társadalmi kohézió erősítését célzó szakpolitikai törekvéseivel,
+1. elfogadja az 1. melléklet szerinti, az Európai Unió számára készített köznevelési stratégia 2021–2030
+végrehajtásának a 2025–2028. évekre szóló intézkedési tervét (a továbbiakban: Intézkedési Terv);
+2. felhívja a belügyminisztert, hogy gondoskodjon az Intézkedési Terv végrehajtásáról;
+Felelős: belügyminiszter
+Határidő: folyamatos
+3. felhívja a belügyminisztert, hogy gondoskodjon az Intézkedési Tervnek a kormányzati portálon történő
+közzétételéről;
+Felelős: belügyminiszter
+Határidő: az e határozat közzétételét követő 15 napon belül
+4. felhívja az érintett minisztereket, hogy biztosítsák az Intézkedési Tervben foglalt feladatok végrehajtásához
+szükséges forrásokat.
+Felelős: érintett miniszterek
+Határidő: folyamatos
+5. Ez a határozat 2025. július 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1224/2025. (VI. 26.) Korm. határozathoz
+Intézkedési Terv
+1 A B C D E F
+2 Intézkedés megnevezése Intézkedés célja, feladat leírása (tevékenység) Megvalósítás időszaka Forrás/Alap
+Támogatott
+régió
+Mérföldkövek, indikátorok
+3 1. Az oktatás-nevelés belső egyensúlyának biztosítása
+4 1.1. Ökotudatos szemlélet
+megerősítése
+a köznevelésben
+Cél a magyarországi Ökoiskola Hálózat és Zöld Óvoda rendszer működésének
+megerősítése, bővítése
+Hozzájárulás a fenntarthatóságra nevelés érdekében a jó gyakorlatok kiterjesztésével,
+a pedagógusok és a szaktanácsadók módszertani felkészítésének elősegítésével,
+a klímatudatos működtetés támogatásával. A Zöld Óvoda rendszer, Fenntarthatósági
+Témahét, Világ Legnagyobb Tanórája programok folytatása.
+2021–2030 hazai forrás országos 2028: 1120 db
+2030: 1400 db
+bevont intézmény
+(2021-től kumuláltan)
+5 1.2. Az iskolai bántalmazás
+megelőzése
+Cél az iskolai bántalmazás minden formája elleni fellépés megerősítése, a bántalmazások
+megelőzése, visszaszorítása
+A bántalmazás megelőzésére, visszaszorítására irányuló, valamint a konfliktus kezelését
+szolgáló resztoratív technikák elterjesztése, a digitális gyermekvédelem megerősítése,
+az iskolai erőszak megelőzését szolgáló programok, továbbképzések megvalósítása,
+illetve az iskolaőrségnek az intézményi igényekhez igazodó bővítése és működtetése.
+A tanulók és a diákönkormányzat tisztségviselőinek bevonása az iskolai verbális és egyéb
+bántalmazás megelőzésére szolgáló interaktív programokba.
+2021–2030 hazai forrás országos 2028: Az intézkedéshez
+kapcsolódó
+továbbképzéseken
+részt vevő pedagógusok
+száma: 5920 fő,
+diákönkormányzati
+tisztségviselők: 100 fő
+2030: Pedagógusok
+száma: 6000 fő,
+(kumuláltan)
+diákönkormányzati
+tisztségviselők: 200 fő
+(2021-től kumuláltan)
+6 1.3. Teljeskörű iskolai
+egészségfejlesztés
+Cél a teljes körű iskolai egészségfejlesztés megvalósítása
+A gyermekekre és fiatalokra irányuló egészségfejlesztés hatékonyságának fokozása. A lelki
+és testi egészséget támogató programok megvalósítása. Ideértve többek között a lelki
+egészség elősegítését támogató személyközpontú pedagógiai módszerek alkalmazását,
+a mindennapi aktív mozgásra történő motiválást, az egészségműveltség elősegítését,
+az egészségismeretek átadását, a függőségek megelőzését szolgáló speciális programok
+megvalósítását. A Magyar Diáksport Szövetség programjainak támogatása, valamint
+a sport területén a Diákolimpiák népszerűsítése, az Aktív Iskola program elindítása,
+valamint a Nemzeti Köznevelési Portálon az Oktatási Hivatal (a továbbiakban: OH)
+által az osztályfőnöki óra kerettanterve szerinti tartalommal készített tananyagok
+megjelenítése. Kapcsolódás a megújuló népegészségügyi stratégiához.
+2021–2030 hazai forrás országos 2028: 450 db Aktív Iskola
+programba bevont
+intézmény,
+2030: 500 db Aktív Iskolai
+Programba bevont
+intézmény
+(kumuláltan 2021-től)
+– Tanulói mentálhigiéné
+segítésére pedagógus-
+továbbképzéseken
+részt vevők száma: 100 fő
+
+7 1.4. Iskolán kívüli nem
+formális tanulás
+támogatása
+Cél a formális és nem formális tanulási módszereket alkalmazó komplex programok
+megvalósítása
+Az aktív tanulási szokások kialakításának támogatása, a felfedeztető, játékos
+tevékenységen alapuló, együttműködésre építő, interaktív tanulási környezet
+lehetőségének biztosításával. A program részét képezik azok a tematikus programok is,
+amelyek hozzájárulnak a szövegértés, a műszaki, természettudományi, matematikai,
+informatikai (a továbbiakban: MTMI) készségek fejlesztéséhez, az egészségneveléshez,
+mozgásfejlesztéshez, környezeti neveléshez és a digitális kompetencia megerősödéséhez.
+A nem formális tanulás színtereként a könyvtárak szerepének erősítése.
+A programokban előnyt élveznek: a hátrányos / halmozottan hátrányos helyzetű
+(a továbbiakban: HH és HHH) tanulók, illetve a kedvezményezett településeken élő vagy
+tanuló gyermekek.
+2022–2030 EFOP Plusz országos 2029-re 30 000 fő, ebből
+HH/HHH tanulók, illetve
+hátrányos helyzetű
+településeken élő, tanuló
+gyermekek száma:
+15 000 fő
+8 2. A köznevelésben mint állami közszolgálatban részt vevő emberi erőforrás fejlesztése
+9 2.1. A pedagógus-
+továbbképzés
+rendszerének
+megújítása
+Cél a továbbképzési rendszer megújítása, új, illetve hiányzó képzések kifejlesztése,
+a koordinációs és támogató kapacitás kiépítése, valamint az új struktúra szerinti
+továbbképzési tevékenység pilot jellegű elindítása
+A továbbképzések alapvetően a külső és belső értékelésekre (pedagógiai-szakmai
+ellenőrzés, teljesítményértékelés) épülve tudják fejleszteni az adott pedagógus esetében
+releváns kompetenciákat. Különösen fontos a speciális integrációs módszertanok
+alkalmazásának támogatása, illetve a stresszkezelést, a bullying és cyberbullying
+megelőzését, felismerését segítő képzések; illetve olvasás-szövegértés fejlesztését,
+gondolkodási képességét segítő módszertan, a mérés-értékelési eredmények
+értelmezése, eredmények visszaforgatását segítő, digitáliskompetencia-fejlesztő
+továbbképzések megvalósítása. Az intézkedés keretében előtérbe kerülnek a hálózati
+tudásmegosztás intézményi formái, valamint a személyes fizikai jelenléttel megvalósuló
+képzések mellett azon korszerű e-learning és blended learning képzési módszerek,
+amelyek lehetővé teszik a pedagógusok számára a rugalmas munkaidő-beosztást és
+képzésteljesítést. Az intézkedés egyik kiemelt célja az óvodapedagógusok és a tanítók
+támogatása a tanulási módszerek tekintetében.
+2022–2030 EFOP Plusz /
+hazai forrás
+országos 2027: 60 000 fő
+2029: 120 000 fő bevont
+pedagógus (2022-től
+kumuláltan)
+10 2.2. Pedagógusigazolvány
+megújítása és
+kedvezményrendszer
+kialakítása
+Cél a pedagógusigazolványhoz kapcsolódó szolgáltatások bővítésével a pedagógus
+hivatás megbecsültségének növelése
+A program folytatásaként a korábban elkészült, megújított pedagógusigazolvány
+jó minőségének fenntartása mellett a felhasználás új lehetőségeinek megkeresése,
+szélesítése.
+2025–2030 hazai forrás országos 500 db elfogadóhely
+(kumulált érték)
+11 2.3. Pedagógus mobilitás
+elősegítése
+Cél a pedagógusok mobilitásának támogatása
+A nemzetközi együttműködést célzó programokban való részvételi lehetőségek
+támogatása, a nyelvtanárok anyanyelvi környezetben való tapasztalatszerzésének
+erősítése.
+2022–2030 ERASMUS+ országos 2028: 8000 fő
+2030: 10 000 fő
+intézkedéssel érintett
+pedagógus (2022-től
+kumuláltan)
+
+12 2.4. Pedagógus életpálya
+megújítása, a hivatás
+vonzóbbá tétele
+Cél a pedagóguspályára jelentkezők számának növelése, a pedagógusok motiválása,
+pályán maradásának elősegítése
+A köznevelési rendszerben dolgozó pedagógusok több éven át tartó, folyamatos
+bérfejlesztése annak érdekében, hogy 2025-re a pedagógus-átlagbér elérje a diplomás
+átlagbér 80%-át, és tartósan legalább ezen a szinten is maradjon. A fiatal pályakezdők
+számára a hivatás vonzóbbá tétele kiemelt béremelés megvalósításával. Többletjuttatás
+biztosítása azoknak a pedagógusoknak, akik a kedvezményezett és a felzárkózó
+települések iskoláiban tanítanak, valamint azoknak a pedagógusoknak, akik olyan
+iskolában dolgoznak, ahol a HH és HHH tanulók aránya a 10%-ot meghaladja, és
+munkájuk során integrációs pedagógiai módszert alkalmaznak. A bérszínvonal
+rendezésének jogi szabályozása meghatározásra kerüljön a béremelés mértékére
+vonatkozó jogszabály elfogadásával.
+2022–2030 EFOP Plusz,
+hazai forrás
+országos 2025-re
+– 140 000 fő
+intézkedéssel érintett
+pedagógus,
+– a pedagógus-átlagbér
+eléri a diplomás átlagbér
+80%-át,
+2030-ra:
+a pedagógusképzésbe
+jelentkezők száma,
+illetve a pályakezdők
+aránya a 2027–2029. évek
+átlagát tekintve 5%-kal
+nő a 2022. évhez képest,
+– pályakezdők körében
+a 3 évvel később még
+pályán lévők aránya
+10%-kal nő a 2020. évi
+adathoz képest
+13 2.5. A mérési és
+teljesítményértékelési
+rendszer megújítása
+Cél a tanulói eredményesség javítása
+A köznevelésben megvalósuló hazai tanulói mérések rendszerének kiterjesztése, annak
+érdekében, hogy a szükséges pedagógiai fejlesztő tevékenységek megalapozásához
+átfogóbb információk álljanak rendelkezésre a tanulókról a pedagógusok és az
+intézmények számára. Az általános iskola alsó tagozatán a szövegértés fejlesztése
+érdekében a személyre szabott tanulás alapját nyújtó diagnosztikus értékelési rendszer,
+az eDia szélesebb körű alkalmazásának előkészítése.
+2022–2030 hazai forrás országos – valamennyi
+4–11. évfolyamos
+tanulókra kiterjedő
+mérési rendszer
+működtetése
+– mérési eredmények
+nyomon követése
+
+14 2.6. Pedagógus
+teljesítményértékelés
+egységes rendszerének
+kialakítása
+Cél a pedagógusok rendszerszintű, éves teljesítményértékelésének bevezetése
+(a továbbiakban: TÉR), a belső és külső értékelési és kontrollrendszerek összehangolása
+A valós teljesítmény alapján történő differenciálás lehetőségének megteremtése,
+a teljesítményértékelési rendszer fenntartása, szükség esetén annak felülvizsgálata.
+2030 hazai forrás országos A pedagógusok új
+életpályájáról szóló
+2023. évi LII. törvény
+alapján minden érintett
+vezető, pedagógus és
+pedagógus végzettségű
+nevelő-oktató munkát
+segítő munkakörben
+foglalkoztatott
+(a továbbiakban: NOKS)
+bevonása megtörténik.
+2028: a TÉR
+bevezetésének vizsgálata,
+értékelése
+15 2.7. Pedagógusok
+átképzése és
+az intézményvezetők
+vezetői készségeinek
+javítása
+Cél a valós igényekre reflektáló pedagógusátképzések megvalósítása és
+a menedzserszemléletű intézményvezetői készségek fejlesztése
+Az egy vagy két szakos pedagógusok további, a valós, illetve fenntartói igényeknek
+megfelelő, térítésmentes, felsőoktatási intézményi képzésben történő szakosodásának
+támogatása. Az intézményvezetők felkészítése az intézményirányítással összefüggő
+felelősségteljes feladatvégzésre.
+2023–2026 RRF,
+hazai
+költségvetés
+országos 2026: – 5000 fő bevont
+pedagógus,
+– 3000 fő bevont vezető
+16 2.8. A köznevelésben
+támogató feladatokat
+ellátó, pedagógiai
+képzettséggel
+rendelkező
+szakemberek megfelelő
+biztosítása
+Cél a pedagógusok adminisztratív terheinek további csökkentése kiemelten
+az alulteljesítő feladatellátási helyeken
+A NOKS munkakörökön belül a feladatok meghatározásának rugalmasabbá tétele, a helyi
+sajátosságok és fenntartói igények figyelembevétele, illetve a feladatoknak az adott
+lehetőségekhez történő igazítása.
+2021–2030 hazai forrás,
+EFOP Plusz
+országos A tanulói lemorzsolódás
+mérséklését
+támogató komplex
+intézményfejlesztési
+programba bevont,
+legalább középfokú
+végzettségű, pedagógiai
+feladatellátásban
+részt vevő (nem
+adminisztratív),
+nevelő-oktató munkát
+közvetlenül segítők
+száma (2029-re
+az EFOP Plusz 1.3.1
+programba bevont
+1000 fő NOKS dolgozó)
+17 3. Méltányos, egyéni sajátosságokat figyelembe vevő köznevelés
+
+18 3.1. A tanulói
+eredményesség javítása
+esélyteremtéssel és
+a kulcskompetenciák
+fejlesztésével,
+a teljesítményük
+alapján fejlesztésre
+szoruló intézmények
+támogatása
+Cél a minőségi és méltányos oktatáshoz való hozzáférés további erősítése a megelőző
+időszak oktatási esélyteremtést, deszegregációt szolgáló fejlesztéseire, beavatkozásaira
+alapozottan
+Az EFOP 3.1.5. előzményprojekt eredményeire és hatásvizsgálati megállapításaira építve
+az Iskolai Lemorzsolódás Megelőzését Támogató Pedagógiai Rendszer vagy az Operatív
+Programban nevesített egyéb integrációs program alapján történő iskolafejlesztési
+program kiterjesztése, a tanulótámogató és pedagógustámogató szolgáltatások
+fejlesztése, valamint köznevelési esélyteremtési helyzetelemzés és intézkedési terv
+továbbfejlesztése. Jó gyakorlatok megosztása az intézmények között.
+2023–2030 EFOP Plusz,
+hazai forrás
+országos 2028: 700 db bevont
+feladatellátási hely
+– 15 000 fő bevont
+dolgozó
+2030: – érintett
+feladatellátási helyeken
+a lemorzsolódással
+veszélyeztetett 18 éven
+aluli tanulók aránya
+10%-kal csökken
+– a bevont feladatellátási
+helyeken szövegértés
+és matematika
+területen 8. évfolyamon
+minimumszint alatt
+teljesítők aránya
+3 százalékponttal
+csökken
+– Tankerületi
+Esélyegyenlőségi
+Intézkedési Tervben
+„A”kategóriás
+települések,
+azaz az egyenlő
+bánásmód érvényesítése
+érdekében
+deszegregációs
+intézkedéseket igénylő
+többiskolás települések
+száma 105 db-ról
+82 db-ra csökken
+
+19 3.2. A sajátos nevelési
+igényű
+(a továbbiakban: SNI)
+gyermekek, tanulók
+nevelésének-
+oktatásának
+támogatása
+Cél az SNI gyermekek, tanulók, a pedagógiai szakszolgálati ellátásokat igénybe vevők
+és a tartós gyógykezelés alatt álló gyermekek, tanulók számára nyújtott szolgáltatások
+színvonalának fejlesztése, az integrált, inkluzív nevelés-oktatás támogatása, valamint
+a szegregációs kockázatok csökkentése
+Az SNI gyermekek (0–6 éves) és SNI tanulók együttnevelését támogató szolgáltatások,
+a pedagógiai szakszolgálati tevékenységek és a tartós gyógykezelés alatt álló gyermekek,
+tanulók köznevelési ellátásának fejlesztése, a bevont pedagógiai szakszolgálati
+intézmények, az egységes gyógypedagógiai, konduktív pedagógiai módszertani
+intézmények (EGYMI), az utazó gyógypedagógusi, utazó konduktori hálózatok, valamint
+a tartós gyógykezelés alatt álló tanulókat ellátó intézmények támogatásán keresztül.
+2023–2026 RRF,
+hazai forrás
+országos 2026. év végére
+– speciális szolgáltatást
+nyújtó intézmények
+legalább 50%-ának
+bevonása
+– 45 000 fő emelt szintű
+szolgáltatásokban
+részesülő, sajátos nevelési
+igényű gyermek/tanuló
+– 5000 fő szakmai
+továbbképzésben
+részesült speciális
+szakember
+20 3.3. Pályaválasztást
+megalapozó
+kompetenciák mérése
+Cél a kifejlesztett Pályaorientációt támogató eszközrendszer használata
+A pályaorientációt támogató eszközrendszer – a Pályaorientációs Mérőeszköz és
+az Országos Pályaorientációs Mérés (a továbbiakban: OPM) – használata, az OPM általános
+alkalmazása a 8. évfolyamos tanulók körében.
+Szakmai együttműködés a GINOP Plusz keretében megvalósuló szakképzési, illetve
+a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási pályaorientációs programok
+tekintetében.
+2025–2030 hazai forrás országos 2028-ra: 100 000 fő
+pályaorientációs
+mérőeszközöket használó
+tanuló,
+– a társágazatokkal való
+szakmai együttműködés
+értékelése,
+2030-ra: 120 000 fő
+(kumulált érték 2021-től)
+
+21 3.4. Tanulók hazai
+és nemzetközi
+versenyeztetése
+Cél a tanulók érdeklődésének, tudásának szélesítése, képességeik minél teljesebb
+kibontakoztatása
+A köznevelésben a hazai tanulmányi versenyek megszervezése, a nemzetközi
+tudományos diákolimpiákon való tanulói részvétel feltételeinek biztosítása a hazai
+csapatok számára.
+2022–2030 hazai forrás országos – évente az Országos
+tanulmányi versenyen
+részt vevő tanulók száma
+19 000 fő;
+– Pedagógiai Oktatási
+Központ szervezésű
+megyei szintű
+tanulmányi versenyeken
+részt vevő tanulók száma
+tanévenként 30 000 fő
+– tanévenként legalább
+10 nemzetközi
+tudományos
+diákolimpián és
+4 nemzetközi
+tudományos versenyen
+történő részvétel
+támogatása
+22 3.5. Szegregációs
+kockázatok csökkentése
+Cél jelentés készítése a köznevelés területén alkalmazandó diszkriminációellenes
+intézkedésekről
+Jelentés készítése a köznevelés területén alkalmazandó diszkriminációellenes
+intézkedésekről szóló 2023. évi XCII. törvény (a továbbiakban: 2023. évi XCII. törvény)
+szerint rögzített állami támogatás csökkentésének alkalmazásáról. A jelentés ajánlásokat
+tartalmazhat a szegregációs kockázat csökkentésére az általános iskolai feladatellátás
+szervezésére vonatkozóan.
+2025. december 31. hazai forrás országos A jelentés elkészítése,
+közzététele,
+a 2023. évi
+XCII. törvényben foglalt
+arányosabb részvételek
+teljesülésének nyomon
+követése.
+23 3.6. Az intézmény-átszervezésekkel kapcsolatos fenntartói monitoring tevékenység
+megerősítése.
+A 2021–24-es intézkedési terv deszegregációs intézkedéseiről külső, független értékelés
+készítése.
+2025–2030
+Az értékelés
+elkészítésének
+határideje
+2027. június 30.
+hazai forrás országos – Az átszervezések
+monitorozása.
+– Értékelő jelentés.
+
+24 3.7. Egyenlő bánásmód
+érvényesítése
+A köznevelési esélyegyenlőség szempontjából különös figyelmet igénylő általános iskolai
+feladatellátási helyek megoszlásának nyomon követése és a szükséges beavatkozások
+megtervezése az OH EFOP 3.1.5. projektje keretében a Tankerületi Esélyegyenlőségi
+Intézkedési Terv készítéséhez kidolgozott útmutató szerinti 4 kategória szerint
+történik meg. A 4 kategória, illetve az azok alapján meghatározott indikátor az egyenlő
+bánásmód érvényesülésének és a tanulói eredményességi mutatók által jelzett
+kedvezőtlen helyzetek mint elemzési szempontok alapján képződött:
+1. Az egyenlő bánásmód érvényesítése érdekében deszegregációs intézkedéseket
+igénylő többiskolás településen működő általános iskolai feladatellátási helyek
+aránya (ha a településen működő bármely két feladatellátási hely között a HH, HHH,
+illetve az Rendszeres Gyermekvédelmi Kedvezményben részesülő tanulók arányában
+a különbség meghaladja a 25 százalékpontot).
+2. Többiskolás településeken működő azon általános iskolai feladatellátási helyek aránya,
+amelyek esetében nem jelenik meg a hátrányos helyzetű tanulók egyenlőtlen eloszlása,
+de van a településen olyan feladatellátási hely, ahol a tanulók többsége hátrányos
+helyzetű, és az oktatás minőségének javítását szolgáló beavatkozások szükségesek.
+3. Egyiskolás településeken működő azon általános iskolai feladatellátási helyek aránya,
+amelyek esetében a rendszeres gyermekvédelmi kedvezményben részesülő, hátrányos
+helyzetű vagy halmozottan hátrányos helyzetű tanulók aránya meghaladja az 50%-ot.
+4. Azonos évfolyamon működő párhuzamos osztályok, tagozatok tanulói összetétele
+közötti több mint 25 százalékpontos eltérés miatt deszegregációs intézkedéseket igénylő
+általános iskolai feladatellátási helyek aránya.
+Az egyes kategóriákban lévő feladatellátási helyek száma minden évben az OH honlapján
+kerül közzétételre.
+minden év
+december 31.
+hazai forrás országos – Az elkészített
+felmérések országos
+összesítése
+a 4 intézményi kategória
+szerint.
+– Az adatok éves
+változásának
+figyelemmel kísérése,
+monitorozása.
+25 4. A XXI. század kihívásaira reagáló köznevelés
+26 4.1. Digitális oktatáshoz
+való egyenlő hozzáférés
+feltételeinek biztosítása
+a tanulók és a
+pedagógusok számára
+Cél, hogy minden magyarországi tanuló korszerű, versenyképes oktatástechnológiai
+környezetben tanulhasson
+A magyar iskolákban a nevelő-oktató munkához a XXI. század követelményeinek
+megfelelő technológiai környezet biztosítása.
+A korábbi fejlesztések fenntartása, a digitális oktatási eszközök körének bővítése.
+2022–2025 RRF,
+hazai forrás
+országos 2025. végéig:
+– 579 000 db beszerzett
+notebook,
+– 50 000 fő felkészítésben
+részesülő pedagógus,
+– legalább 3100 db
+kreativitást,
+MTMI készségeket
+fejlesztő
+eszközcsomagban
+részesülő köznevelési
+intézmény
+
+27 4.2. Idegennyelvi készségek
+fejlesztése
+Cél a tanulói idegennyelvi kompetenciák fejlesztése, az idegen nyelv tantárgyak
+tanulásának segítése
+Az angol és német nyelv fejlesztését egyéni tanulásként támogató korszerű digitális
+platform integrálása megtörtént a köznevelési intézményekben alkalmazott informatikai
+rendszerbe. A felület fenntartásával, esetleges fejlesztésével a tanulók nyelvi
+kompetenciáinak fejlődése valósul meg.
+2022–2030 hazai forrás országos 2028-ra 150 000 fő
+idegennyelvi modult
+használó tanuló
+28 4.3. Köznevelési
+intézmények
+infrastrukturális és
+energetikai fejlesztése
+Cél a köznevelési intézmények fejlesztése a minőségi és befogadó oktatás érdekében
+Az óvoda- és iskolaépületek infrastrukturális fejlesztése, különös tekintettel
+a klímaalkalmazkodás érdekében tervezett energetikai fejlesztésekre, a zöld infrastruktúra
+kialakítására, mindenekelőtt a leginkább fejlesztésre szoruló épületek vonatkozásában.
+2022–2030 TOP Plusz,
+hazai forrás
+országos 2028-ra: 800 db
+2030-ra: 1000 db
+érintett feladatellátási
+hely (2022-től
+kumuláltan)
+29 5. Külhoni magyarok – magyarországi nemzetiségek oktatásának-nevelésének fejlesztése
+30 5.1. Határtalanul Program Cél az anyaországi és külhoni oktatási kapcsolatok erősítése, valamint az anyaországi
+diákok számára a határon túli magyar területek megismertetése
+Tanulmányutak, illetve magyarországi és külhoni magyar középiskolák
+együttműködésének támogatása.
+Testvériskolai kapcsolatok erősítése.
+2021–2030 hazai forrás országos 50 000 fő tanuló/tanév
+31 5.2. Magyarországon
+élő nemzetiségek
+nevelésének-
+oktatásának
+támogatása
+Cél a magyarországi nemzetiségi köznevelés erősítése
+A nemzetiségi pedagógusok számának növelése, megtartása és megbecsülése
+ösztöndíjprogramok biztosításával, szakmai fejlődést és együttműködést segítő
+programokkal, rendezvényekkel.
+2021–2030 hazai forrás országos 100 fő/tanév Nemzetiségi
+Pedagógus Tanulmányi
+Ösztöndíjban részesülő
+hallgató
