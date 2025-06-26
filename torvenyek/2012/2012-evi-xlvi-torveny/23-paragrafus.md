@@ -24,7 +24,7 @@ i) a földrendező és földkiadó bizottságokról szóló törvény, illetve a
 
 (1a) Nem minősül az (1) bekezdés szerinti egységes ingatlan-nyilvántartás tartalmának változását eredményező földmérési munkának a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény alapján készülő térképvázlat és területkimutatás előállítására irányuló tevékenység.
 
-(2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon kívül a földrészlethatárok kitűzésével és a földrészleten belüli használati megosztással kapcsolatos munka.
+(2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon túl a földrészlethatárok kitűzésével, az ingatlan-nyilvántartási bejegyzéshez szükséges alaprajzzal, az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő igazságügyi földmérő és térképész szakértői tevékenységgel és a földrészleten belüli használati megosztással kapcsolatos földmérési tevékenység.
 
 (2a) Az (1) bekezdésben felsorolt munkák során előállított munkarészek szerinti változások az ingatlan-nyilvántartási bejegyzéssel válnak az állami ingatlan-nyilvántartási térképi alapadatbázis részévé.
 

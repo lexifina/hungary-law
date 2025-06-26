@@ -47,3 +47,5 @@ végzése;
 15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a polgári nemzetbiztonsági szolgálatoknak, valamint a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
 
 16. GNSS (Global Navigation Satellite Systems): a globális műholdas helymeghatározó rendszerek közös elnevezése.
+
+17. hivatali példány: a földmérési alaptérképek, valamit topográfiai térképek esetén az eredeti vagy archív pecséttel ellátott, analóg nyilvántartási példányai.

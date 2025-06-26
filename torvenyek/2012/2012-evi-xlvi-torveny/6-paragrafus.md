@@ -8,7 +8,7 @@
 
 (2) A 4. § (2) és (3) bekezdésében meghatározott szervek az általuk kezelt állami alapadatok adatbázisaiból az adatszolgáltatást hálózati szolgáltatón keresztül is végezhetik.
 
-(2a) Az e §-ban foglalt díjmentes adathozzáféréseket a földmérési és térinformatikai államigazgatási szerv az adatok átadásával köteles biztosítani. A folyamatos hálózati kapcsolatot igénylő hozzáférések esetén – egyedi megállapodás alapján – a földmérési és térinformatikai államigazgatási szerv jogosult az üzemeltetési költségeinek megtérítését kérni az adatszolgáltatást igénybe vevőtől.
+(2a) A díjmentes adathozzáféréseket a földmérési és térinformatikai államigazgatási szerv az adatok átadásával köteles biztosítani. A folyamatos hálózati kapcsolatot igénylő hozzáférések esetén – egyedi megállapodás alapján – a földmérési és térinformatikai államigazgatási szerv jogosult az üzemeltetési költségeinek megtérítését kérni az adatszolgáltatást igénybe vevőtől.
 
 (3) Igazgatási szolgáltatási díjat kell fizetni
 
@@ -38,7 +38,7 @@ j) a 25/A. § szerinti nyilvántartásba történő felvétel iránti eljárás�
 
 (5)
 
-(6) Szakirányú iskolarendszerű oktatási vagy tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
+(6) A (6a) bekezdésben foglaltak kivételével szakirányú iskolarendszerű oktatási vagy tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
 
 a) a 3. § (1) bekezdés a) és b) pontjai esetében az 50 darabot;
 
@@ -58,7 +58,7 @@ e) a 3. § (1) bekezdés g) pontja esetében a két szelvény méretet;
 
 f) a 3. § (1) bekezdés h) pontja esetében a 100 rekordot;
 
-g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
+(6a) A földmérési és térinformatikai államigazgatási szerv kérelem alapján a 3. § (1) bekezdés c)–e) és i) pontja szerinti adatbázisokból a nem hivatali példányokat oktatási, kutatási vagy hatósági célra, valamint közfeladat ellátásához díjmentesen átadhatja.
 
 (7) Az ingyenes adatszolgáltatást az oktatási vagy kutatási szervezet vezetőjének kell kérelmeznie.
 
