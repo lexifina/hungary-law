@@ -4,7 +4,7 @@
 
 | 2. | Földalatti bányászati, kőolaj- és földgázbányászati mélyfúrási munkakörök |  |
 
-| 3. | Tűz- és robbanásveszéllyel járó munkakörök | A 35/1996. (XII. 29.) BM rendelettel hatályba léptetett Országos Tűzvédelmi Szabályzat szerinti az „A” fokozottan tűz- és robbanásveszélyes, a „B” tűz- és robbanásveszélyes és a „C” tűzveszélyes osztályba tartozó létesítményben, helyiségben végzett tevékenységek, valamint a vállalati „tűzvédelmi utasítás”-ban meghatározott munkakörök: az ipari robbantóanyagok gyártásával, tárolásával, szállításával és felhasználásával kapcsolatos tevékenységek |
+| 3. | Tűz- és robbanásveszéllyel járó munkakörök | az ipari robbantóanyagok gyártásával, tárolásával, szállításával és felhasználásával kapcsolatos tevékenységek[^113] |
 
 | 4. | Villamosüzemi munkakörök | A vonatkozó külön előírás (MSZ 1585) Erősáramú üzemi szabályzat alapján erősáramú villamos berendezéseken feszültség alatti, feszültség közelében és veszélyes közelségben végzett tevékenység |
 
@@ -69,3 +69,5 @@ c) tartósan szükséges akaratlagos figyelemmel.
 _______
 
 * Főként a 89/1995. (VII. 14.) Korm. rendelet 4. számú melléklete szerinti ,,D'' foglalkozás-egészségi osztályba tartozók esetében fordulnak elő.
+
+[^113]: A 4. mellékletben foglalt táblázat 3. sor 3. mezője a 20/2025. (VI. 26.) BM rendelet 7. § d) pontja szerint módosított szöveg.

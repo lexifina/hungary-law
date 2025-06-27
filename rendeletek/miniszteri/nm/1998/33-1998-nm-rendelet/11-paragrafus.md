@@ -1,6 +1,6 @@
 ## A vizsgálatokat végző személyek, illetve szervek
 
-11. § (1) A munkaköri alkalmasság vizsgálatát és véleményezését első fokon – külön jogszabályban meghatározott kivételekkel – a 2. § (1) bekezdés ab) pontjában szereplő munkavállaló esetében a foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvos végzi.
+11. § (1)[^53] A munkaköri alkalmasság vizsgálatát és véleményezését első fokon – külön jogszabályban meghatározott kivételekkel – a 2. § (1) bekezdés ac) és b) pontjában szereplő munkavállaló esetében a foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvos végzi.
 
 (2)[^54] A szakmai alkalmasság előzetes vizsgálatát és véleményezését első fokon a szakképző intézménybe jelentkező tanulóknál a fogadó intézmény iskolaorvosa, ennek hiányában az intézmény vezetőjének kezdeményezésére a munkahigiénés és foglalkozás-egészségügyi szerv által kijelölt foglalkozás-egészségügyi szakellátó hely orvosa végzi. A hallgatónál a felsőoktatási intézmény kérésére, valamint az iskolarendszeren kívüli képzésben résztvevőnél – a munkahigiénés és foglalkozás-egészségügyi szerv által megadott szempontok szerint – szakmai alkalmassági vizsgálat végezhető.
 
@@ -16,6 +16,7 @@ végzi.
 
 (5)[^58] A személyi higiénés alkalmassági vizsgálatot a munkát végző személyek esetében a háziorvos végzi, alkalmatlanság esetén a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (kerületi) hivatalánál – járványügyi érdekből – a tevékenységtől eltiltást kezdeményezi.
 
+[^53]: A 11. § (1) bekezdése a 20/2025. (VI. 26.) BM rendelet 6. § b) pontja szerint módosított szöveg.
 [^54]: A 11. § (2) bekezdése az 51/2011. (XII. 23.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^55]: A 11. § (3) bekezdésének a) pontja a 80/2003. (XII. 23.) ESZCSM rendelet 9. §-ának (2) bekezdése, a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének g) pontja, az 51/2011. (XII. 23.) NGM rendelet 3. § (2) bekezdése, az 54/2022. (XII. 27.) BM rendelet 2. § c) pontja szerint módosított szöveg.
 [^56]: A 11. § (3) bekezdésének b) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének h) pontja, az 51/2011. (XII. 23.) NGM rendelet 3. § (2) bekezdése, az 54/2022. (XII. 27.) BM rendelet 2. § c) pontja szerint módosított szöveg.

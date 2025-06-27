@@ -22,6 +22,6 @@
 
 ## szakellátó hely orvosa
 
-15/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^118]
+15/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^120]
 
-[^118]: A 15/A. számú mellékletet a 80/2003. (XII. 23.) ESZCSM rendelet 8. §-a iktatta a szövegbe.
+[^120]: A 15/A. számú mellékletet a 80/2003. (XII. 23.) ESZCSM rendelet 8. §-a iktatta a szövegbe.

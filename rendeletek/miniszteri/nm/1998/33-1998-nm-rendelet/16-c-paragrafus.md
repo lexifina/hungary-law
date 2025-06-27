@@ -14,11 +14,11 @@ b)[^99] a fővárosi és vármegyei kormányhivatal állami foglalkoztatási sze
 
 (4)[^100] A szakvélemény kiadásának díját a büntetésként kiszabott közérdekű munka esetén a szakvélemény elkészítését követő 60 napon belül kell megtéríteni.
 
-(5)[^101] A foglalkoztathatósági szakvélemény a kiállításától számított egy évig érvényes.
+(5)[^101] A foglalkoztathatósági szakvélemény a kiállításától számított két évig érvényes.
 
 [^96]: A 16/C. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
 [^97]: A 16/C. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
 [^98]: A 16/C. § (1) bekezdése a 13/2014. (III. 14.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^99]: A 16/C. § (2) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § k) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
 [^100]: A 16/C. § (4) bekezdése a 13/2014. (III. 14.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^101]: A 16/C. § (5) bekezdését a 13/2014. (III. 14.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^101]: A 16/C. § (5) bekezdését a 13/2014. (III. 14.) NGM rendelet 2. § (3) bekezdése iktatta be, szövege a 20/2025. (VI. 26.) BM rendelet 6. § c) pontja szerint módosított szöveg.

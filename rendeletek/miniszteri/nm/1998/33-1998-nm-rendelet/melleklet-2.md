@@ -1,36 +1,48 @@
-## Járványügyi érdekből kiemelt munkakörök, tevékenységek
+|  | A | B | C | D | E |
 
-## 7K27409M_0
+| 1 | Kiemelt munkakörök, tevékenységek | A vizsgálatok köre |
 
-| Kiemelt munkakörök, tevékenységek | A vizsgálatok köre |
+| 2 | bakterio- lógiai1 | bőrgyó- gyászati2 | fertőző tbc-t kizáró vizsgálat3 | nemi betegség (lues szerológia)2 |
 
-| bakteriológiai* | bőrgyógyászati | TBC (ernyőképszű rés érvényes lelete) | nemi betegség (lues serológia) |
+| 3 | Egészségügyi intézményekben az újszülöttek, koraszülöttek, csecsemő- és gyermekbetegek ellátásával kapcsolatos valamennyi munkakör | + | + | + | – |
 
-| 1. | Egészségügyi intézményekben az újszülöttek, koraszülöttek, csecsemő- és gyermekbetegek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
+| 4 | A bölcsődei ellátást nyújtó intézményekben, szolgáltatóknál, napközbeni gyermekfelügyeleti szolgáltatásnál, óvodákban, gyermekotthonokban a csecsemők, illetve a gyermekek ellátásával kapcsolatos valamennyi munkakör; gyermekjóléti és gyermekvédelmi intézményekben, átmeneti otthon, nevelőszülői, helyettes szülői ellátásban a gyermekek ellátásával kapcsolatos valamennyi munkakör | + | + | + | – |
 
-| 2. | A bölcsődei ellátást nyújtó intézményekben, szolgáltatóknál, napközbeni gyermekfelügyeleti szolgáltatásnál, óvodákban, csecsemő- és gyermekotthonokban a csecsemők, illetve a gyermekek ellátásával kapcsolatos valamennyi munkakör; gyermekjóléti és gyermekvédelmi intézményekben, átmeneti otthon, nevelőszülői, helyettes szülői ellátásban a gyermekek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
+| 5 | Az anyatejgyűjtő állomásokon valamennyi munkakör | + | + | – | – |
 
-| 3. | Az anyatejgyűjtő állomásokon valamennyi munkakör és anyatejet adó nők | + | + | + | + |
+| 6 | Anyatejet adó nők | – | + | – | – |
 
-| 4. | Közfogyasztásra szánt élelmiszer (beleértve az ételt, italt) előállításával, valamint forgalmazásával (kivéve a csomagolt élelmiszerek és a nyers zöldség-gyümölcsfélék szállítását, tárolását) foglalkozó, továbbá ilyen munkahelyeken tisztítást, takarítást végző személy** | – | + | + | – |
+| 7 | Közfogyasztásra szánt élelmiszer (beleértve az ételt, italt) előállításával, valamint forgalmazásával (kivéve a csomagolt élelmiszerek és a nyers zöldség-, gyümölcsfélék szállítását, tárolását) foglalkozó, továbbá ilyen munkahelyeken tisztítást, takarítást végző személy | – | + | – | – |
 
-| 5. | Állattartó gazdaságban, egyéni gazdálkodónál a tej fejését, kezelését és feldolgozását végző személy | – | + | + | – |
+| 8 | Állattartó gazdaságban, egyéni gazdálkodónál a tej fejését, kezelését és feldolgozását végző személy | – | + | + | – |
 
-| 6. | Állami gazdaságnál, mezőgazdasági szövetkezeti társulásnál, részvénytársaságnál, valamint magángazdálkodóknál szarvasmarha-tenyésztés és -tartás munkakör | – | – | + | – |
+| 9 | A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti hajléktalanok nappali melegedőjének és éjjeli menedékhelyének dolgozói | – | – | + | – |
 
-| 7. | Ivóvízminőségű vízellátást szolgáló berendezések, létesítmények működésével, szerelésével és karbantartásával kapcsolatos munkakör | – | + | + | – |
+| 10 | Utcai szociális munkát végzők, befogadóállomások és közösségi szállások dolgozói, népkonyha formájában nyújtott étkeztetésben foglalkoztatottak | – | – | + | – |
 
-| 8. | Gyógynövény, gyógynövény-kivonat, valamint az élelmiszer és gyógyszer fogalomkörébe nem tartozó egyéb – de az emberi szervezetbe kerülő vagy azzal érintkezésben használatos anyagok, készítmények (kozmetikum, gyógyvíz, ásványvíz, tápszerek stb.) előállításával, kiszerelésével kapcsolatos valamennyi munkakör | – | + | + | – |
+| 11 | Ivóvízminőségű vízellátást szolgáló berendezések, létesítmények működésével, szerelésével és karbantartásával kapcsolatos munkakör | – | + | – | – |
 
-| 9. | Nagy-, közép- és kisüzemű gyógyszergyártás és elosztás területén (pl. gyógyszergyár, infúziós laboratórium, gyógyszerkészítő galenusi laboratórium stb.) mindazon munkakör, ahol a dolgozó a gyógyszerrel közvetlenül érintkezik (gyártás, csomagolás, edényzet mosogatása stb.), illetve a közforgalmú és intézeti gyógyszertárak valamennyi munkaköre | – | + | + | – |
+| 12 | Gyógynövény, gyógynövénykivonat, valamint az élelmiszer és gyógyszer fogalomkörébe nem tartozó egyéb – de az emberi szervezetbe kerülő vagy azzal érintkezésben használatos – anyagok, készítmények (kozmetikum, gyógyvíz, ásványvíz, tápszerek stb.) előállításával, kiszerelésével kapcsolatos valamennyi munkakör | – | + | – | – |
 
-## _______
+| 13 | Nagy-, közép- és kisüzemű gyógyszergyártás és elosztás (pl. gyógyszergyár, infúziós laboratórium, gyógyszerkészítő galenusi laboratórium stb.), valamint a közforgalmú – ideértve a közforgalmú gyógyszertárak által működtetett fiókgyógyszertárakat is – és intézeti gyógyszertárak területén mindazon munkakör, ahol a dolgozó a gyógyszerrel közvetlenül érintkezik (gyártás, csomagolás, edényzet mosogatása stb.) | – | + | – | – |
 
-## * S. typhi, S. paratyphi A, B, C., egyéb Salmonella, Shigella, enteropathogen coli törzs (3 éven felüliekkel közvetlenül foglalkozók esetében csak E.coli 0124) Campylobacter, Yersinia enterocolitica.
+| 14 | Egészségügyi intézmények patológiai és sürgősségi osztályainak egészségügyi dolgozói | – | – | + | – |
 
-## ** Az élelmiszerekről szóló 1995. évi XC. törvény fogalommeghatározása szerinti résztevékenységeket foglalja magában.
+| 15 | Egészségügyi szolgáltatók mikrobiológiai laboratóriumainak egészségügyi dolgozói | – | – | + | – |
 
-2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^109]
+| 16 | Egészségügyi intézmények tüdőgyógyászati járó- és fekvőbeteg-szakellátást végző szervezeti egységeinek egészségügyi dolgozói | – | – | + | – |
+
+| 17 | A közérdekű önkéntes tevékenységről szóló törvény alapján tevékenykedő személyek, ha hetente legalább összesen 16 órát hajléktalanokkal foglalkoznak | – | – | + | – |
+
+| 18 | Az országos tisztifőorvos szakmai utasításában megjelölt országokból érkező tanulói vagy munkavállalói jogviszonyt létesítők | – | – | + | – |
+
+## 1 S. typhi, S. paratyphi A, B, C, egyéb Salmonella, Shigella, enteropathogen coli törzs (3 éven felüliekkel közvetlenül foglalkozók esetében csak E.coli 0124), Campylobacter, Yersinia enterocolitica.
+
+## 2 A bőrgyógyászati szakvizsgálat és a lues szerológiai vizsgálat csak panasz vagy tünet esetén szükséges.
+
+## 3 A fertőző tbc kizártnak tekintendő, amennyiben az egyén immunológiai státuszát figyelembe véve a fertőző tbc-t kizáró vizsgálat keretében elvégzett immunológiai vizsgálati eredmény negatív (IGRA vagy tuberculin negativitás, illetve tuberculin pozitivitás ellenére IGRA negativitás), vagy a mellkasröntgen negatív. IGRA-val igazolt immunológiai pozitivitás ellenére sem fertőző az, aki emellett negatív tüdőröntgen vizsgálati eredménnyel rendelkezik. 18 év alatti életkorban évenkénti monitorozó röntgenvizsgálat nem végezhető.
+
+2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^110]
 
 Egészségügyi nyilatkozat
 
@@ -96,4 +108,4 @@ _______
 
 * Tanulók esetében a szakmai gyakorlat megkezdése előtt 1 héten belül töltendő ki.
 
-[^109]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^110]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.

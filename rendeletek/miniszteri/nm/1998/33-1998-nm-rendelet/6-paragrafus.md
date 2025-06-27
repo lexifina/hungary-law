@@ -1,36 +1,32 @@
-## 5. §[^36] Azon munkavállaló esetében, akit azonos munkakörben, ismételten foglalkoztatnak és munkakörénél fogva időszakos munkaköri alkalmassági vizsgálatra nem kötelezett, valamint nem tartozik a 4. § (5) bekezdés hatálya alá, az előzetes munkaköri alkalmassági vélemény a munkaviszony megszűnését követő 6 hónapig érvényes, amennyiben egészségi állapotában ezalatt változás nem történt.
-
 ## Időszakos munkaköri
 
 ## és szakmai alkalmassági vizsgálat
 
-6. § (1) A szervezett munkavégzés keretében foglalkoztatottak időszakos alkalmassági vizsgálaton vesznek részt a munkaköri alkalmasság újbóli véleményezése céljából. Az időszakos vizsgálatokat
+6. § (1)[^37] A szervezett munkavégzés keretében a 2. § (1) bekezdés a) pont ac) alpontja szerinti foglalkoztatottak időszakos alkalmassági vizsgálaton vesznek részt a munkaköri alkalmasság újbóli véleményezése céljából. Az időszakos vizsgálatokat
 
 a) a 18. életévét be nem töltött munkavállalónál évente,
 
-b)[^37] az idősödő munkavállalónál – amennyiben nem tartozik a c)–i) pontok hatálya alá – évente,
+b) az idősödő munkavállalónál – amennyiben nem tartozik a c)–h) pont hatálya alá – évente,
 
-c) a 3. számú melléklet szerinti fizikai, kémiai kóroki tényezők hatásának kitett munkavállaló esetében, az ott meghatározott gyakorisággal,
+c) a 3. számú melléklet szerinti fizikai, kémiai kóroki tényezők hatásának kitett munkavállaló esetében a mellékletben meghatározott gyakorisággal,
 
-d) a 4. számú melléklet szerinti fokozottan baleseti veszéllyel járó munkakörben foglalkozatott ilyen tevékenységet végző munkavállalónál a mellékletben szereplő gyakorisággal,
+d) a 4. számú melléklet szerinti fokozottan baleseti veszéllyel járó munkakörben foglalkoztatott, ilyen tevékenységet végző munkavállalónál a mellékletben szereplő gyakorisággal,
 
-e)[^38] a 5. számú melléklet szerint fokozott pszichés terhelésnek kitett munkavállalónál évente,
+e) az 5. számú melléklet szerint fokozott pszichés terhelésnek kitett munkavállalónál évente,
 
 f) a pszichoszociális kóroki tényezők hatásának kitett, a 6. számú melléklet szerinti munkavállalónál évente,
 
-g) a külön jogszabály szerinti korkedvezményre jogosító munkakörben foglalkozatott olyan munkavállalónál, aki nem tartozik a b)–e) pontok hatálya alá, évente,
+g) külföldi munkavégzés esetén az a)–d) pont hatálya alá tartozó munkavállalónál − amennyiben az időszakos munkaalkalmassági vizsgálatok elvégzése külföldön nem biztosított − átmeneti itthon tartózkodása alkalmával, illetve hazalátogatásakor, legfeljebb évente,
 
-h) külföldi munkavégzés esetén az a)–f) pontok hatálya alá tartozó munkavállalónál (amennyiben az időszakos munkaalkalmassági vizsgálatok elvégzése külföldön nem biztosított), átmeneti itthon-tartózkodása alkalmával, illetve hazalátogatásakor, legfeljebb évente
-
-i)[^39] a külön jogszabály szerinti biológiai tényezők hatásának kitett munkavállalónál, továbbá az 1. számú mellékletben szereplő munkakörökben dolgozó munkavállalóknál, illetve tevékenységet végző személyeknél évente
+h) a biológiai tényezők hatásának kitett munkavállalónál, továbbá az 1. számú mellékletben meghatározott munkakörökben dolgozó munkavállalóknál, illetve tevékenységet végző személyeknél évente
 
 kell elvégezni.
 
-(2)[^40] Az (1) bekezdés c) pontja szerinti időszakos vizsgálatok a 3. számú mellékletben meghatározott esetekben biológiai monitorozást is magukba foglalnak. A biológiai monitorozáshoz szükséges vizsgálatokat a 3. számú melléklet szerinti gyakorisággal kell elvégezni. Ettől eltérő gyakoriságot a foglalkozás-egészségügyi orvos az expozíció figyelembevételével határozhat meg.
+(2)[^38] Az (1) bekezdés c) pontja szerinti időszakos vizsgálatok a 3. számú mellékletben meghatározott esetekben biológiai monitorozást is magukba foglalnak. A biológiai monitorozáshoz szükséges vizsgálatokat a 3. számú melléklet szerinti gyakorisággal kell elvégezni. Ettől eltérő gyakoriságot a foglalkozás-egészségügyi orvos az expozíció figyelembevételével határozhat meg.
 
 (3) A tanulói jogviszony fennállása alatt időszakos alkalmassági vizsgálatot kell végezni a szakmai alkalmasság újbóli véleményezése céljából
 
-a)[^41] a szakképzési évfolyamra járó valamennyi tanulónál, amennyiben az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megszerzése alkalmassági követelményekhez kötött;
+a)[^39] a szakképzési évfolyamra járó valamennyi tanulónál, amennyiben a szakképesítés megszerzése alkalmassági követelményekhez kötött;
 
 b) a tanulónál, azokban a munkakörökben, amelyekben a munkavállalót egy évnél gyakrabban kell időszakos alkalmassági vizsgálatban részesíteni, az adott munkakörre előírt gyakorisággal.
 
@@ -38,12 +34,9 @@ b) a tanulónál, azokban a munkakörökben, amelyekben a munkavállalót egy é
 
 (5) Az időszakos munkaköri, illetve szakmai alkalmassági vizsgálatot végző orvos a vizsgálati eredmények alapján az (1) és (3) bekezdésekben előírtaknál rövidebb érvényességi időt is megállapíthat.
 
-(6)[^42]
+(6)[^40]
 
-[^36]: Az 5. § a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének a) pontja szerint módosított szöveg.
-[^37]: A 6. § (1) bekezdésének új b) pontját a 27/2000. (IX. 30.) EüM rendelet 5. §-ának (1) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti b)-h) pont jelölését c)-i) pontra változtatta.
-[^38]: A 6. § (1) bekezdésének e) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének c) pontja szerint módosított szöveg.
-[^39]: A 6. § (1) bekezdésének i) - eredetileg h) - pontját a 61/1999. (XII. 1.) EüM rendelet 18. §-a (2) bekezdésének a) pontja iktatta be, szövege a 18/2007. (V. 10.) SZMM rendelet 10. § (6) bekezdésével megállapított szöveg.
-[^40]: A 6. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 10. § (7) bekezdésével megállapított szöveg.
-[^41]: A 6. § (3) bekezdésének a) pontja a 80/2003. (XII. 23.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^42]: A 6. § (6) bekezdését a 18/2007. (V. 10.) SZMM rendelet 10. § (8) bekezdése iktatta be, a 8/2010. (III. 31.) SZMM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^37]: A 6. § (1) bekezdése a 20/2025. (VI. 26.) BM rendelet 3. §-ával megállapított szöveg.
+[^38]: A 6. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 10. § (7) bekezdésével megállapított szöveg.
+[^39]: A 6. § (3) bekezdésének a) pontja a 80/2003. (XII. 23.) ESZCSM rendelet 4. §-ával megállapított, a 20/2025. (VI. 26.) BM rendelet 7. § b) pontja szerint módosított szöveg.
+[^40]: A 6. § (6) bekezdését a 18/2007. (V. 10.) SZMM rendelet 10. § (8) bekezdése iktatta be, a 8/2010. (III. 31.) SZMM rendelet 8. § b) pontja hatályon kívül helyezte.

@@ -1,265 +1,51 @@
-17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^121]
+17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^123]
 
 Egészségügyi Nyilatkozat és vizsgálati adatok (borító)
 
-Egészségügyi Nyilatkozat és vizsgálati adatok (borító)
+Járványügyi érdekből kiemelt munkakörök, tevékenységek
 
-Járványügyi érdekből kiemelt munkakörök, tevékenységek (borító belseje)
+|  | A | B | C | D | E |
 
-## 7K27409N_0
+| 1 | Kiemelt munkakörök, tevékenységek | A vizsgálatok köre |
 
-| Kiemelt munkakörök, tevékenységek | A vizsgálatok köre |
+| 2 | bakterio- lógiai1 | bőrgyó- gyászati2 | fertőző tbc-t kizáró vizsgálat3 | nemi betegség (lues szerológia)2 |
 
-| Bakteriológiai* | Bőrgyógyászati | TBC (ernyőkép- szűrés érvényes lelete) | Nemi betegség (lues serológia) |
+| 3 | Egészségügyi intézményekben az újszülöttek, koraszülöttek, csecsemő- és gyermekbetegek ellátásával kapcsolatos valamennyi munkakör | + | + | + | – |
 
-| 1. | Egészségügyi intézményekben az újszülöttek, koraszülöttek, csecsemő- és gyermekbetegek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
+| 4 | A bölcsődei ellátást nyújtó intézményekben, szolgáltatóknál, napközbeni gyermekfelügyeleti szolgáltatásnál, óvodákban, gyermekotthonokban a csecsemők, illetve a gyermekek ellátásával kapcsolatos valamennyi munkakör; gyermekjóléti és gyermekvédelmi intézményekben, átmeneti otthon, nevelőszülői, helyettes szülői ellátásban a gyermekek ellátásával kapcsolatos valamennyi munkakör | + | + | + | – |
 
-| 2. | A bölcsődei ellátást nyújtó intézményekben, szolgáltatóknál, napközbeni gyermekfelügyeleti szolgáltatásnál, óvodákban, csecsemő- és gyermek-otthonokban a csecsemők, illetve a gyermekek ellátásával kapcsolatos valamennyi munkakör; gyermekjóléti és gyermekvédelmi intézményekben, átmeneti otthon, nevelő szülői, helyettes szülői ellátásban a gyermekek ellátásával kapcsolatos valamennyi munkakör | + | + | + | + |
+| 5 | Az anyatejgyűjtő állomásokon valamennyi munkakör | + | + | – | – |
 
-| 3. | Az anyatejgyűjtő állomásokon valamennyi munkakör és anyatejet adó nők | + | + | + | + |
+| 6 | Anyatejet adó nők | – | + | – | – |
 
-| 4. | Közfogyasztásra szánt élelmiszer (beleértve az ételt, italt) előállításával, valamint forgalmazásával (kivéve a csomagolt élelmiszerek és a nyers zöldség-gyümölcsfélék szállítását, tárolását) foglalkozó, továbbá ilyen munkahelyeken tisztítást, takarítást végző személy** | – | + | + | – |
+| 7 | Közfogyasztásra szánt élelmiszer (beleértve az ételt, italt) előállításával, valamint forgalmazásával (kivéve a csomagolt élelmiszerek és a nyers zöldség-, gyümölcsfélék szállítását, tárolását) foglalkozó, továbbá ilyen munkahelyeken tisztítást, takarítást végző személy | – | + | – | – |
 
-| 5. | Állattartó gazdaságban, egyéni gazdálkodónál a tej fejését, kezelését és feldolgozását végző személy | – | + | + | – |
+| 8 | Állattartó gazdaságban, egyéni gazdálkodónál a tej fejését, kezelését és feldolgozását végző személy | – | + | + | – |
 
-| 6. | Állami gazdaságnál, mezőgazdasági szövetkezeti társulásnál, részvénytársaságnál, valamint magángazdálkodóknál szarvasmarha-tenyésztés és -tartás munkakör | – | – | + | – |
+| 9 | A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti hajléktalanok nappali melegedőjének és éjjeli menedékhelyének dolgozói | – | – | + | – |
 
-| 7. | Ivóvíz-minőségű vízellátást szolgáló berendezések, létesítmények működésével, szerelésével és karbantar-tásával kapcsolatos munkakör | – | + | + | – |
+| 10 | Utcai szociális munkát végzők, befogadóállomások és közösségi szállások dolgozói, népkonyha formájában nyújtott étkeztetésben foglalkoztatottak | – | – | + | – |
 
-| 8. | Gyógynövény, gyógynövénykivonat, valamint az élelmiszer és gyógyszer fogalomkörébe nem tartozó egyéb, de az emberi szervezetbe kerülő vagy azzal érintkezésben használatos anyagok, készítmények (kozmetikum, gyógyvíz, ásványvíz, tápszerek stb.) előállításával, kiszerelésével kapcsolatos valamennyi munkakör | – | + | + | – |
+| 11 | Ivóvízminőségű vízellátást szolgáló berendezések, létesítmények működésével, szerelésével és karbantartásával kapcsolatos munkakör | – | + | – | – |
 
-| 9. | Nagy-, közép- és kisüzemű gyógyszergyártás és -elosztás területén (pl. gyógyszergyár, infúziós laboratórium, gyógyszerkészítő galenusi laboratórium stb.) mindazon munkakör, ahol a dolgozó a gyógyszerrel közvetlenül érintkezik (gyártás, csomagolás, edényzet mosogatása stb.), illetve a közforgalmú és intézeti gyógyszertárak valamennyi munkaköre | – | + | + | – |
+| 12 | Gyógynövény, gyógynövénykivonat, valamint az élelmiszer és gyógyszer fogalomkörébe nem tartozó egyéb – de az emberi szervezetbe kerülő vagy azzal érintkezésben használatos – anyagok, készítmények (kozmetikum, gyógyvíz, ásványvíz, tápszerek stb.) előállításával, kiszerelésével kapcsolatos valamennyi munkakör | – | + | – | – |
 
-## _______
+| 13 | Nagy-, közép- és kisüzemű gyógyszergyártás és elosztás (pl. gyógyszergyár, infúziós laboratórium, gyógyszerkészítő galenusi laboratórium stb.), valamint a közforgalmú – ideértve a közforgalmú gyógyszertárak által működtetett fiókgyógyszertárakat is – és intézeti gyógyszertárak területén mindazon munkakör, ahol a dolgozó a gyógyszerrel közvetlenül érintkezik (gyártás, csomagolás, edényzet mosogatása stb.) | – | + | – | – |
 
-## * S. typhi, S. paratyphi A, B, C, egyéb Salmonella, Shigella, enteropathogen coli törzs (3 éven felüliekkel közvetlenül foglalkozók esetében csak E.coli 0124) Campylobacter, Yersinia enterocolitica.
+| 14 | Egészségügyi intézmények patológiai és sürgősségi osztályainak egészségügyi dolgozói | – | – | + | – |
 
-## ** Az élelmiszerekről szóló 1995. évi XC. törvény fogalommeghatározása szerinti résztevékenységeket foglalja magában.
+| 15 | Egészségügyi szolgáltatók mikrobiológiai laboratóriumainak egészségügyi dolgozói | – | – | + | – |
 
-## (1. oldal)
+| 16 | Egészségügyi intézmények tüdőgyógyászati járó- és fekvőbeteg-szakellátást végző szervezeti egységeinek egészségügyi dolgozói | – | – | + | – |
 
-## Adatok
+| 17 | A közérdekű önkéntes tevékenységről szóló törvény alapján tevékenykedő személyek, ha hetente legalább összesen 16 órát hajléktalanokkal foglalkoznak | – | – | + | – |
 
-## Neve: ......................
+| 18 | Az országos tisztifőorvos szakmai utasításában megjelölt országokból érkező tanulói vagy munkavállalói jogviszonyt létesítők | – | – | + | – |
 
-## Anyja neve: ................
+1 S. typhi, S. paratyphi A, B, C, egyéb Salmonella, Shigella, enteropathogen coli törzs (3 éven felüliekkel közvetlenül foglalkozók esetében csak E.coli 0124), Campylobacter, Yersinia enterocolitica.
 
-## Születési éve: .............
+2 A bőrgyógyászati szakvizsgálat és a lues szerológiai vizsgálat csak panasz vagy tünet esetén szükséges.
 
-## Lakcíme: ...................
+3 A fertőző tbc kizártnak tekintendő, amennyiben az egyén immunológiai státuszát figyelembe véve a fertőző tbc-t kizáró vizsgálat keretében elvégzett immunológiai vizsgálati eredmény negatív (IGRA vagy tuberculin negativitás, illetve tuberculin pozitivitás ellenére IGRA negativitás), vagy a mellkasröntgen negatív. IGRA-val igazolt immunológiai pozitivitás ellenére sem fertőző az, aki emellett negatív tüdőröntgen vizsgálati eredménnyel rendelkezik. 18 év alatti életkorban évenkénti monitorozó röntgenvizsgálat nem végezhető.
 
-| Kelet | Gazdálkodó szrvezet/vállalkozás neve | Foglalkozás | Munkakör vagy tevékenység |
-
-## (2. oldal)
-
-| Kelet | Gazdálkodó szrvezet/vállalkozás neve | Foglalkozás | Munkakör vagy tevékenység |
-
-## (3. oldal)
-
-## Alkalmassági vizsgálatra jogosult orvos
-
-## Név: ......................
-
-## Cím: ......................
-
-## Telefonszám: ..............
-
-## ..........-tól .........-ig
-
-## (Változás esetén töltendő ki!)
-
-## Név: ......................
-
-## Cím: ......................
-
-## Telefonszám: ..............
-
-## Név: ......................
-
-## Cím: ......................
-
-## Telefonszám: ..............
-
-## Név: ......................
-
-## Cím: ......................
-
-## Telefonszám: ..............
-
-## Név: ......................
-
-## Cím: ......................
-
-## Telefonszám: ..............
-
-## (4. oldal)
-
-## Egészségügyi Nyilatkozat
-
-## Alulírott kötelezem magam arra, hogy
-
-1. az alkalmassági vizsgálatot végző orvosnál soron kívüli alkalmassági vizsgálaton jelentkezem, ha magamon vagy velem közös háztartásban élő személyen az alábbi tünetek bármelyikét észlelem:
-
-sárgaság,
-
-hasmenés,
-
-hányás,
-
-láz,
-
-torokgyulladás,
-
-bőrkiütés,
-
-egyéb bőrelváltozás (a legkisebb bőrgennyesedés, sérülés stb. is)
-
-váladékozó szembetegség, fül- és orrfolyás;
-
-2. az alkalmassági vizsgálatot végző orvossal a munka felvétele előtt közlöm, ha időszakos távollétem alatt (pl. szabadság) az 1. pontban felsorolt tünetek bármelyikét magamon észleltem.
-
-Tudomásul veszem, hogy a fenti kötelezettségvállalás járványügyi érdekből kiemelt munkakörben történő foglalkoztatásom, ilyen munkaterületen tevékenységem folytatásának feltétele, és hogy az általam közölt adatokat szolgálati titokként kezelik.
-
-Kelt: ..................
-
-.......................
-
-vizsgált személy aláírása
-
-(5. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| e l ő z e t e s |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(6. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| e l ő z e t e s |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(7. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| i d ő s z a k o s |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(8. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| i d ő s z a k o s |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(9. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| i d ő s z a k o s |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(10. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| s o r o n k í v ü l i |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(11. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| s o r o n k í v ü l i |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(12. oldal)
-
-| Munkaköri (1) | Szakmai (2) | Személyi higiénés (3) |
-
-| alkalmassági vizsgálat |
-
-| s o r o n k í v ü l i |
-
-| vizsgálat fajtája* | időpont | vélemény | aláírás |
-
-| * (1), (2) vagy (3) írandó be! |
-
-(13. oldal)
-
-Kötelező vizsgálatok
-
-| Kötelező vizsgálatok |
-
-| Széklettenyésztés (1), Tüdő rtg. Vizsgálat (2), Bőrgyógyászati vizsgálat (3), Lues serológia (4). |
-
-| Vizsgálat fajtája* | Időpont | Eredmény |  | Vizsgálat fajtája* | Időpont | Eredmény |
-
-(14. oldal)
-
-Kötelező vizsgálatok
-
-| Kötelező vizsgálatok |
-
-| Széklettenyésztés (1), Tüdő rtg. Vizsgálat (2), Bőrgyógyászati vizsgálat (3), Lues serológia (4). |
-
-| Vizsgálat fajtája* | Időpont | Eredmény |  | Vizsgálat fajtája* | Időpont | Eredmény |
-
-(15. oldal)
-
-Kötelező vizsgálatok
-
-| Kötelező vizsgálatok |
-
-| Széklettenyésztés (1), Tüdő rtg. Vizsgálat (2), Bőrgyógyászati vizsgálat (3), Lues serológia (4). |
-
-| Vizsgálat fajtája* | Időpont | Eredmény |  | Vizsgálat fajtája* | Időpont | Eredmény |
-
-(16. oldal)
-
-Kötelező vizsgálatok
-
-| Kötelező vizsgálatok |
-
-| Széklettenyésztés (1), Tüdő rtg. Vizsgálat (2), Bőrgyógyászati vizsgálat (3), Lues serológia (4). |
-
-| Vizsgálat fajtája* | Időpont | Eredmény |  | Vizsgálat fajtája* | Időpont | Eredmény |
-
-[^121]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta be, szövege a 19/2017. (IX. 18.) EMMI rendelet 9. § b) pontja és 10. § b) pontja szerint módosított szöveg.
+[^123]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta be, szövege a 20/2025. (VI. 26.) BM rendelet 5. § (3) bekezdésével megállapított szöveg.

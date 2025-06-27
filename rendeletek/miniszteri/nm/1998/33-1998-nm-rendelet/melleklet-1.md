@@ -1,3 +1,5 @@
-1. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^108]
+1. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^109]
 
-[^108]: Az 1. számú melléklet a 19/2017. (IX. 18.) EMMI rendelet 9. § a) pontja és 10. § a) pontja szerint módosított szöveg.
+Járványügyi érdekből kiemelt munkakörök, tevékenységek
+
+[^109]: Az 1. melléklet a 20/2025. (VI. 26.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.

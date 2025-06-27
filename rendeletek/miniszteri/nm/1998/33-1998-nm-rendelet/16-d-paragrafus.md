@@ -16,10 +16,11 @@ c) a feladatra szerződött foglalkozás-egészségügyi szakellátó hely szako
 
 (4)[^104] A szakvélemény kiadásának díját az Igazságügyi Minisztérium viseli.
 
-(5) A foglalkoztathatósági szakvélemény a kiállításától számított egy évig érvényes.
+(5)[^105] A foglalkoztathatósági szakvélemény a kiállításától számított két évig érvényes.
 
 Záró és átmeneti rendelkezések
 
 [^102]: A 16/D. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
 [^103]: A 16/D. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
 [^104]: A 16/D. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^105]: A 16/D. § (5) bekezdése a 20/2025. (VI. 26.) BM rendelet 6. § c) pontja szerint módosított szöveg.

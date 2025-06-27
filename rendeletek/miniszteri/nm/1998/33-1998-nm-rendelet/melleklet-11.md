@@ -22,6 +22,6 @@
 
 ## kérelmező aláírása
 
-11. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^116]
+11. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^118]
 
-[^116]: A 11. számú, 12. számú, valamint 15. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének g) pontja és (3) bekezdésének a) pontja szerint módosított, illetve kiegészített szöveg.
+[^118]: A 11. számú, 12. számú, valamint 15. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének g) pontja és (3) bekezdésének a) pontja szerint módosított, illetve kiegészített szöveg.

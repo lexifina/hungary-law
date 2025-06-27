@@ -4,7 +4,7 @@
 
 a) a munkáltató által foglalkoztatni kívánt személynél a munkavégzés megkezdését megelőzően;
 
-b)[^27] a munkáltató által foglalkoztatott személynél a munkakör, munkahely, munkakörülmények megváltoztatása előtt, ha
+b)[^25] a munkáltató által foglalkoztatott személynél a munkakör, munkahely, munkakörülmények megváltoztatása előtt, ha
 
 ba) fizikai munkát végez,
 
@@ -20,17 +20,19 @@ cb) a külföldi munkavégzés és a munkakörnyezete a hazainál nagyobb megter
 
 cc) a foglalkozás-egészségügyi szolgáltatás nyújtója a munkavállaló egészségügyi állapotára tekintettel szükségesnek tartja,
 
-d)[^28] kirendelés esetén, az új munkahely foglalkozás-egészségügyi orvosának.
+d)[^26] kirendelés esetén, az új munkahely foglalkozás-egészségügyi orvosának.
+
+e)[^27] amennyiben a foglalkoztatás megkezdését követően, az Mvt. 49. § (1a) bekezdése szerint jogszabály vagy munkáltató döntése alapján a munkavállalónak a munkára való alkalmasságáról orvosi vizsgálat alapján kell dönteni.
 
 (2) Nincs szükség az (1) bekezdés c) pontja szerinti vizsgálat elvégzésére, ha a munkavállaló
 
-a)[^29] a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendeletben foglalt feladatok ellátása érdekében tartózkodik külföldön, ha a tervezett külföldi munkaválallás időtartama a három hónapot nem haladja meg,
+a)[^28] a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendeletben foglalt feladatok ellátása érdekében tartózkodik külföldön, ha a tervezett külföldi munkaválallás időtartama a három hónapot nem haladja meg,
 
-b)[^30] a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet hatálya alá tartozik.
+b)[^29] a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet hatálya alá tartozik.
 
-(3)[^31] Előzetes szakmai alkalmassági vizsgálatot kell végezni
+(3)[^30] Előzetes szakmai alkalmassági vizsgálatot kell végezni
 
-a) a szakképzési évfolyamra történő felvétel, átvétel, illetve továbbhaladás előtt minden olyan esetben, amikor az Országos Képzési Jegyzék szerint a szakképesítés megszerzése szakmai alkalmassági követelményekhez kötött;
+a)[^31] a szakképzési évfolyamra történő felvétel, átvétel, illetve továbbhaladás előtt minden olyan esetben, amikor a szakképesítés megszerzése szakmai alkalmassági követelményekhez kötött;
 
 b)[^32] a szakmaválasztást megelőzően – pályaválasztási tanácsadás céljából – a pedagógus, az iskolaorvos, a szülő vagy az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal és a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala kérésére azon képzésben résztvevő esetében, akinél a szakmai jellegű képzésben való részvétel egészségi állapota miatt korlátozott;
 
@@ -44,14 +46,16 @@ c)[^33] álláskeresők esetében az állami foglalkoztatási szervként eljár�
 
 (7) A rendelet 1. számú mellékletében szereplő munkakörökben a munkavállalónál a munkaviszony megszűnését, valamint a munkát végző személynél a tevékenység megszüntetését követő 30 napon belül az újabb munkába álláshoz, a tevékenység újabb gyakorlásához a járványügyi érdekből végzett szakvizsgálatokat csak akkor kell megismételni, ha azokat időközben lezajlott fertőző megbetegedése vagy annak gyanúja indokolja.
 
-(8)[^35] Az 1. számú mellékletben leírt vizsgálatok közül előzetes alkalmassági vizsgálat alkalmával a bakteriológiai, a tbc, a lues serologiai vizsgálatokat kötelező elvégezni, a bőrgyógyászati szakvizsgálatot csak panasz vagy tünet esetén. Az időszakos, valamint a soron kívüli vizsgálat alkalmával a bakteriológiai és a lues serologiai vizsgálatokat csak akkor kell elvégeztetni, ha a megbetegedés gyanúja indokolja.
+(8)[^35] Az 1. számú mellékletben érintett munkakörök, tevékenységek esetében, amelyeknél az előzetes alkalmassági vizsgálat alkalmával a bakteriológiai vizsgálat, a mellkasröntgen, az interferon-gamma teszt (IGRA) vagy a tuberkulin próba vizsgálat (a továbbiakban együtt: fertőző tbc-t kizáró vizsgálat) előírt, azt kötelező elvégeztetni, az előírt luesz szerológiai és bőrgyógyászati szakvizsgálatot csak panasz vagy tünet esetén. Az időszakos, valamint a soron kívüli vizsgálat alkalmával a bakteriológiai és a luesz szerológiai vizsgálatokat csak akkor kell elvégeztetni, ha a megbetegedés gyanúja indokolja.
 
-[^27]: A 4. § (1) bekezdésének b) pontja a 18/2007. (V. 10.) SZMM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^28]: A 4. § (1) bekezdésének d) pontját a 27/2000. (IX. 30.) EüM rendelet 4. §-ának (1) bekezdése iktatta a szövegbe.
-[^29]: A 4. § (2) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
-[^30]: A 4. § (2) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § c) pontja szerint módosított szöveg.
-[^31]: A 4. § (3) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 4. § (1) bekezdésének b) pontja a 18/2007. (V. 10.) SZMM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^26]: A 4. § (1) bekezdésének d) pontját a 27/2000. (IX. 30.) EüM rendelet 4. §-ának (1) bekezdése iktatta a szövegbe.
+[^27]: A 4. § (1) bekezdés e) pontját a 20/2025. (VI. 26.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^28]: A 4. § (2) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
+[^29]: A 4. § (2) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § c) pontja szerint módosított szöveg.
+[^30]: A 4. § (3) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 3. §-ával megállapított szöveg.
+[^31]: A 4. § (3) bekezdés a) pontja a 20/2025. (VI. 26.) BM rendelet 7. § a) pontja szerint módosított szöveg.
 [^32]: A 4. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § d) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^33]: A 4. § (3) bekezdés c) pontja a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés b) pontja, a 41/2012. (XII. 20.) NGM rendelet 11. § a) pontja, a 23/2015. (IV. 28.) EMMI rendelet 18. § d) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^34]: A 4. § (5) bekezdése a 27/2000. (IX. 30.) EüM rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
-[^35]: A 4. § (8) bekezdését a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 18/2007. (V. 10.) SZMM rendelet 10. § (5) bekezdése iktatta be.
+[^35]: A 4. § (8) bekezdését a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 18/2007. (V. 10.) SZMM rendelet 10. § (5) bekezdése iktatta be, szövege a 20/2025. (VI. 26.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
