@@ -31,3 +31,5 @@ f) a harmonizáció alapján ÁÉKBV-ként vagy ABA-ként (harmonizáció típus
 (9a) A kockázati tőkealap és a magántőkealap pénzkölcsönt nyújthat azzal, hogy a pénzkölcsön időtartama nem haladhatja meg a kockázati tőkealap, illetve a magántőkealap futamidejéből a kölcsönnyújtás időpontjában hátralévő teljes időtartamot.
 
 (10) A kockázati tőkealapok és a magántőkealapok kivételével a befektetési alapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
+
+(11) A kockázati tőkealapok és a magántőkealapok befektetési alapkezelőjének a minősített befolyást elérő tulajdonosában bekövetkező változáshoz a Felügyelet engedélye szükséges.

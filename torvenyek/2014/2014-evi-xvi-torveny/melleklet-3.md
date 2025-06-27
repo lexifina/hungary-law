@@ -550,7 +550,7 @@ XVI. A közreműködő szervezetekre vonatkozó részletes információk, a befe
 
 66. A befektetési alapkezelőre vonatkozó információk
 
-66.1. A befektetési alapkezelő neve, cégformája
+66.1. A befektetési alapkezelő neve, cégformája és a minősített befolyással rendelkező tulajdonosai
 
 66.2. A befektetési alapkezelő székhelye
 

@@ -1,6 +1,6 @@
 ## 65. A Felügyelet eljárása
 
-163. § (1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap.
+163. § (1) Ha a befektetési alap első alkalommal hoz befektetési jegyet nyilvánosan forgalomba, a Felügyelet eljárásának időtartama 20 munkanap. Nyilvános befektetési alap részalapjának, illetve újabb sorozatú értékpapírjának forgalomba hozatala esetén a kezelési szabályzat módosítására irányuló felügyeleti engedélyezési eljárás időtartama 20 munkanap. Nyilvános befektetési alap kezelési szabályzatának egyéb módosítására, valamint az átalakulással kapcsolatos tájékoztató jóváhagyására irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap. Zártkörű befektetési alap esetén a Felügyelet 11. § (3a) bekezdése szerinti eljárásának az időtartama 5 munkanap.
 
 (2) Befektetési alap nyilvántartásba vételére irányuló eljárás esetén a Felügyelet eljárásának időtartama 10 munkanap, befektetési alap nyilvántartásból törlésére irányuló eljárás esetén a Felügyelet eljárásának időtartama 20 munkanap.
 

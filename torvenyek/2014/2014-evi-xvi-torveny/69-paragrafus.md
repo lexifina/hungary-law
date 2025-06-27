@@ -4,7 +4,7 @@
 
 a) a letétkezelő megbízására vonatkozó szerződést;
 
-b) a befektetési alap kezelési szabályzatát;
+b) a befektetési alap kezelési szabályzatát, figyelemmel a 11. § (3a) bekezdése szerinti engedélyre;
 
 c) az induló saját tőke lejegyzésének és az induló saját tőke befizetésének, illetve teljesítésének igazolását;
 

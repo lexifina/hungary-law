@@ -35,23 +35,3 @@ Ezekre az eszközökre megfelelő visszatartási szabályokat kell alkalmazni, a
 n) egy jelentős részt – amely a változó javadalmazási összetevő legalább 40%-a – halasztva, az adott befektetési alap életciklusához és visszaváltással kapcsolatos politikájához igazított időtartamra elosztva fizetnek ki, és azt megfelelően összehangolják az adott befektetési alap kockázatainak jellegével.
 
 Ennek az időszaknak legalább 3 évig kell tartania, kivéve, ha az érintett befektetési alap életciklusa rövidebb; a halasztási szabályok szerinti javadalmazási jogosultság legfeljebb időarányosan illeti meg az alkalmazottat. A belső szabályzatban meghatározott küszöbértéknél magasabb összegű változó javadalmazási összetevő esetében az összeg legalább 60%-át halasztva kell kifizetni.
-
-o) a változó javadalmazás a halasztott kifizetésű résszel együtt csak akkor kerül kifizetésre vagy akkor illeti meg az alkalmazottat, ha az a befektetési alapkezelő egészének pénzügyi helyzetét figyelembe véve fenntartható, valamint az adott szervezeti egység, a befektetési alap és az egyén teljesítménye alapján megfelelően indokolt.
-
-A változó javadalmazás teljes összegét általában jelentős mértékben csökkentik, amennyiben az érintett befektetési alapkezelő vagy befektetési alap pénzügyi teljesítménye a vártnál gyengébb vagy negatív, figyelembe véve az aktuális juttatásokat és a korábban szerzett összegek kifizetésének csökkentését, például malus vagy visszatérítések formájában;
-
-p) a nyugdíjpolitika összhangban van a befektetési alapkezelő és az általa kezelt befektetési alapok üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel.
-
-Ha az alkalmazott nyugdíjba vonulás előtt távozik a befektetési alapkezelőtől, a befektetési alapkezelőnek öt évig meg kell tartania a nem kötelező nyugdíjjuttatásokat az m) pontban meghatározott eszközök formájában. Amennyiben egy alkalmazott eléri a nyugdíjkorhatárt, a nem kötelező nyugdíjjuttatásokat ki kell fizetni a számára az m) pontban meghatározott eszközök formájában, figyelembe véve az ötéves visszatartási időszakot;
-
-q) az alkalmazottaknak vállalniuk kell, hogy a javadalmazásukra vonatkozó megállapodásban foglalt felelősségteljes kockázatvállalás hatásának gyengítésére nem alkalmaznak egyéni fedezeti stratégiákat, illetve a javadalmazásra és a felelősségre vonatkozó biztosítást;
-
-r) a változó javadalmazást nem olyan csatornákon keresztül, illetve nem oly módon fizetik ki, hogy megkönnyítsék e törvény követelményeinek kikerülését.
-
-2. Az 1. pontban meghatározott elveket alkalmazni kell a befektetési alapkezelő által kifizetett bármilyen javadalmazásra, a befektetési alap által közvetlenül kifizetett bármilyen összegre, ideértve a nyereségrészesedést, és a befektetési alap kollektív befektetési értékpapírjainak bármilyen formában történő átadását, amennyiben abban az alkalmazottak azon kategóriája részesül, amely magában foglalja a felső vezetést, a kockázatvállalásért és ellenőrzésért felelős alkalmazottakat, valamint a teljes javadalmazásuk mértéke miatt a felső vezetéssel és a kockázatvállalásért felelős alkalmazottakkal azonos javadalmazási kategóriába tartozókat, akiknek szakmai tevékenysége lényeges hatást gyakorol a kockázati profiljukra vagy a kezelésükben lévő befektetési alap kockázati profiljára.
-
-3. A méretük vagy a kezelésükben lévő befektetési alapok mérete, a belső szervezeti felépítésük, valamint tevékenységeik jellege, köre és összetettsége szempontjából jelentős befektetési alapkezelőknek javadalmazási bizottságot kell létrehozniuk. Nem kell javadalmazási bizottságot létrehoznia azon befektetési alapkezelőnek, amelyre egy hitelintézet – a Hpt. 117. § (4) bekezdése alapján – a javadalmazási politikájára vonatkozó szabályait összevont alapon az adott befektetési alapkezelő tekintetében is alkalmazza, és csoportszintű hatályú javadalmazási bizottságot működtet.
-
-A javadalmazási bizottságot úgy kell kialakítani, hogy hozzáértő és független módon ítélhesse meg a javadalmazási politikákat és gyakorlatokat, valamint a kockázat kezelésére létrehozott ösztönzőket.
-
-A javadalmazási bizottság felel a javadalmazásra vonatkozó – többek között az érintett befektetési alapkezelővel vagy befektetési alappal kapcsolatos kockázatra és kockázatkezelésre hatással lévő – döntések előkészítéséért, amelyeket a felügyeleti feladatokat ellátó irányító testületnek kell meghoznia. A javadalmazási bizottság elnöke az irányító testület egyik olyan tagja, aki az érintett befektetési alapkezelőben nem lát el vezetői feladatot. A javadalmazási bizottság tagjai az irányító testület olyan tagjai közül kerülnek ki, akik az érintett befektetési alapkezelőben nem látnak el vezetői feladatokat.
