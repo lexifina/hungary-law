@@ -1,1 +1,3 @@
-13. § A hitelintézet pénztárral rendelkező fiókjaiban az ügyfélkiszolgálás folyamatában a pénztári készpénzes fizetési műveleteket lebonyolítani kívánó ügyfelek nem szenvedhetnek hátrányt, a pénztári kiszolgálás színvonala és várakozási ideje nem lehet kedvezőtlenebb az egyéb pénzügyi és kiegészítő pénzügyi szolgáltatásokat igénybe venni kívánó ügyfelekhez képest.
+13. §[^9]
+
+[^9]: A 13. § a 20/2025. (VI. 26.) MNB rendelet 1. §-a alapján hatályát vesztette.

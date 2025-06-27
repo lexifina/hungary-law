@@ -8,8 +8,10 @@
 
 (5) A hitelintézeti és a postai fiók az ügyfél által az adott fiókban befizetett forintbankjegyet a pénztári kifizetési forgalomban kézi ellenőrzést követően is visszaforgathatja.
 
-(6) A pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő vis maior helyzetben – a zavartalan bankjegyellátás biztosítása érdekében – átmeneti jelleggel kézi ellenőrzéssel is vizsgálhatja a forintbankjegy valódiságát és forgalomképességét. Ebben az esetben a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő köteles az MNB-t a kpl-ellenorzes@mnb.hu elektronikus levélcímre megküldött, titkosított elektronikus üzenetben
+(6)[^5] A pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő vis maior helyzetben – a zavartalan bankjegyellátás biztosítása érdekében – átmeneti jelleggel kézi ellenőrzéssel is vizsgálhatja a forintbankjegy valódiságát és forgalomképességét. Ebben az esetben a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő köteles az MNB-t a kplellenorzes@mnb.hu elektronikus levélcímre megküldött, titkosított elektronikus üzenetben
 
 a) haladéktalanul tájékoztatni a vis maior helyzet beálltáról és annak várható időtartamáról,
 
 b) utólag, a vis maior helyzet megszűnését követő hónap utolsó munkanapjáig tájékoztatni az elvégzett kézi ellenőrzésről, ismertetve a vis maior helyzetet, továbbá megjelölve a kézi ellenőrzés tényleges időtartamát.
+
+[^5]: A 4. § (6) bekezdés nyitó szövegrésze a 20/2025. (VI. 26.) MNB rendelet 5. §-a szerint módosított szöveg.

@@ -1,5 +1,3 @@
-12. §[^12] (1) A hitelintézet a fióki pénztár megszüntetését megelőzően legalább 3 hónappal, valamint a fióki pénztár működésének korlátozását megelőzően legalább 1 hónappal köteles tájékoztatni az ügyfeleit – az internetes honlapján, valamint az adott fiókban történő közzététellel – a pénztár megszüntetésének, illetve működése korlátozásának időpontjáról, valamint azokról a lehetőségekről, amelyek a pénztár megszüntetését, működése korlátozását követően az ügyfelek rendelkezésére állnak a készpénzes fizetési műveletek lebonyolítására. A tájékoztatásnak ki kell terjednie a készpénzes automaták igénybevételének lehetőségére, továbbá az érmék, illetve a készpénzes automaták által nem elfogadott (például sérült) bankjegyek befizetésére, átváltására lehetőséget biztosító legközelebbi fióki pénztár, pénztárak elérhetőségére vonatkozó információkra is.
+12. §[^8]
 
-(2) A fiókhálózata legalább 30%-ában pénztármentes fiókot működtető hitelintézet – január 1., december 25. és december 26. kivételével – minden naptári napon legalább 7 és 22 óra között telefonon, illetve videochaten közvetlenül elérhető, ügyfeleket támogató szolgáltatást köteles biztosítani a készpénzes automaták használatához. A hitelintézet a támogató szolgáltatás közvetlen elérhetőségét a készpénzes automatákon vagy azok képernyőjén jól látható módon köteles feltüntetni.
-
-[^12]: A 12. § a 4/2024. (II. 27.) MNB rendelet 4. §-ával megállapított szöveg.
+[^8]: A 12. § a 20/2025. (VI. 26.) MNB rendelet 1. §-a alapján hatályát vesztette.
