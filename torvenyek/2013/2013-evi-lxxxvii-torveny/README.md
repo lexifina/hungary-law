@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-87-00-00
 | 2021-01-21 | 2020. évi CLXVII. törvény | 2013-87-00-00.8 |
 | 2022-07-26 | 2022. évi XXIII. törvény | 2013-87-00-00.9 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2013-87-00-00.10 |
+| 2025-06-27 | 2025. évi LXVIII. törvény | 2013-87-00-00.11 |
