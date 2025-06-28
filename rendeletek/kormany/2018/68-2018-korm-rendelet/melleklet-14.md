@@ -18,7 +18,7 @@
 
 ## 1.4. Műemlék elhelyezkedése
 
-## 1.4.1.[^307] Település, településrész; vármegye
+## 1.4.1.[^311] Település, településrész; vármegye
 
 ## 1.4.2. Cím
 
@@ -150,4 +150,4 @@ A települési örökségvédelmi hatástanulmány szöveges dokumentum, azonos�
 
 meghatározását.
 
-[^307]: A 13. melléklet II. 1.4.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.
+[^311]: A 13. melléklet II. 1.4.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.

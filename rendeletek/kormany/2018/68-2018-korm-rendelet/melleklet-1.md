@@ -1,3 +1,3 @@
-1. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^298]
+1. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^302]
 
-[^298]: Az 1. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 194. § (3) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^302]: Az 1. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 194. § (3) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
