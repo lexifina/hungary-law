@@ -1,49 +1,49 @@
 41. § Hatályát veszti a kulturális örökség védelméről szóló 2001. évi LXIV. törvény
 
-1. 6. § (1) bekezdés a) pontjában az „és műemlékek” szövegrész,
+1.
 
-2. 8. § (2) bekezdésében a „tulajdonosai” szövegrész,
+2.
 
-3. 14. § (1) bekezdésében az „évente legalább egyszer” szövegrész,
+3.
 
-4. 20/A. § (4) bekezdésében a „nyilvántartott” szövegrész és a „feltárási” szövegrész,
+4.
 
-5. 21. § (1) bekezdés c) pontjában az „és osztályozása” szövegrész,
+5.
 
-6. 22. § (1) bekezdésében a „nyilvántartott” szövegrész,
+6.
 
-7. 22. § (5) bekezdés c) pontjában az „és a saját vagyonkezelésében levő ingatlanjain” szövegrész,
+7.
 
-8. 22. § (8a) bekezdése,
+8.
 
-9. 23. § (2a) bekezdése,
+9.
 
-10. 23/D. § (2) bekezdésében a „ , valamint a 23/E. § (2) bekezdése alapján” szövegrész,
+10.
 
-11. 23/D. § (5) bekezdése,
+11.
 
-12. 23/E. § (2) bekezdése,
+12.
 
-13. 23/E. § (4a) bekezdése,
+13.
 
-14. 23/F. § (9a) bekezdés b) pontjában a „régészeti” szövegrész,
+14.
 
-15. 24. § (5) bekezdésében az „A lelőhelyet a hatóság nyolc napon belül nyilvántartásba veszi.” szövegrész,
+15.
 
-16. 27/B. § (6) bekezdése,
+16.
 
 17. „Nemzeti érdekű nyilvános gyűjtemény” alcíme,
 
 18. „Közérdekű kulturális érték” alcíme,
 
-19. 63. § (3) bekezdése,
+19.
 
-20. 63. § (5) bekezdése,
+20.
 
 21. 71. § (2) bekezdés h) pontja,
 
-22. 77. § (2) bekezdésében a „kulturális javak védelméről és a” szövegrész,
+22.
 
-23. 81. § p) pontjában a „ , beleértve a szabályozási tervek 39. § (2) bekezdése szerinti módosításának költségeit” szövegrész,
+23.
 
-24. 82. § (2) bekezdés a) pontjában a „vagy” szövegrész.
+24.
