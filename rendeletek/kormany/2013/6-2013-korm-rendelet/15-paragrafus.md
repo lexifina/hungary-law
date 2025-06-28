@@ -36,14 +36,17 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 10. a nyomástartó berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. május 15-i 2014/68/EU európai parlamenti és tanácsi irányelvnek
 
+11.[^57] a termékekre és szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
-(4)[^57] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
+(4)[^58] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
 
-(5)[^58] Ez a rendelet az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(5)[^59] Ez a rendelet az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^54]: A 15. § (2) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^55]: A 15. § (2) bekezdés d) pontját a 316/2022. (VIII. 16.) Korm. rendelet 3. §-a iktatta be.
 [^56]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^57]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^58]: A 15. § (5) bekezdését a 736/2021. (XII. 21.) Korm. rendelet 3. §-a iktatta be.
+[^57]: A 15. § (3) bekezdés 11. pontját az 531/2022. (XII. 19.) Korm. rendelet 7. §-a iktatta be.
+[^58]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^59]: A 15. § (5) bekezdését a 736/2021. (XII. 21.) Korm. rendelet 3. §-a iktatta be.
