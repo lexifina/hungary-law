@@ -1,3 +1,3 @@
-18. §[^52]
+18. §[^57]
 
-[^52]: A 18. § a 16. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 18. § a 16. § (2) bekezdése alapján hatályát vesztette.

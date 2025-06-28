@@ -1,4 +1,4 @@
-12. §[^41] (1) Az előfizetői hozzáférést nyújtó szolgáltató köteles az alábbi szolgáltatásminőségi követelményeket meghatározni:
+12. §[^43] (1) Az előfizetői hozzáférést nyújtó szolgáltató köteles az alábbi szolgáltatásminőségi követelményeket meghatározni:
 
 a) az első csatlakozás létesítési ideje, amely az érvényes szolgáltatásmegrendelés közvetlen szolgáltatóhoz történő beérkezése és a működő szolgáltatás rendelkezésre bocsátása között eltelt idő, kivéve a visszavont megrendelések;
 
@@ -30,9 +30,9 @@ d) a hálózati lefedettség meglétét – kültéri lefedettségre vonatkozóa
 
 e) jól látható módon fel kell hívni a figyelmet az adatok tájékoztató jellegére, továbbá arra, hogy az egyes technológiák, szolgáltatások igénybevehetősége a lefedettségen kívül egyéb tényezőktől is függ.
 
-(6)[^42] Az a szolgáltató, amely kizárólag egy másik mobil internet-hozzáférési szolgáltató hálózatát használja, a (4) bekezdés szerinti tájékoztatási kötelezettségét a hálózatüzemeltető szolgáltató megnevezésével és annak lefedettség ellenőrző oldalára mutató közvetlen hivatkozással is teljesítheti.
+(6)[^44] Az a szolgáltató, amely kizárólag egy másik mobil internet-hozzáférési szolgáltató hálózatát használja, a (4) bekezdés szerinti tájékoztatási kötelezettségét a hálózatüzemeltető szolgáltató megnevezésével és annak lefedettség ellenőrző oldalára mutató közvetlen hivatkozással is teljesítheti.
 
 (7) A szolgáltató köteles a lefedettségi térkép elérhetőségét, elérhetősége változását a Hatóságnak 8 napon belül bejelenteni. A Hatóság a lefedettségi térképre mutató hivatkozásokat hozzáférhetővé teszi.
 
-[^41]: A 12. § a 25/2020. (XII. 21.) NMHH rendelet 6. §-ával megállapított szöveg.
-[^42]: A 12. § (6) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 2. § 3. pontja szerint módosított szöveg.
+[^43]: A 12. § a 25/2020. (XII. 21.) NMHH rendelet 6. §-ával megállapított szöveg.
+[^44]: A 12. § (6) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 2. § 3. pontja szerint módosított szöveg.

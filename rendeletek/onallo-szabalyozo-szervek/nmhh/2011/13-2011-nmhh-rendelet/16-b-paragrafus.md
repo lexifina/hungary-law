@@ -1,4 +1,4 @@
-## 16/B. §[^50] A szolgáltatónak 2021. június 30-tól legalább 24 hónapig elérhetően a honlapján fel kell tüntetnie:
+## 16/B. §[^53] A szolgáltatónak 2021. június 30-tól legalább 24 hónapig elérhetően a honlapján fel kell tüntetnie:
 
 a) a 25/2020. (XII. 21.) NMHH rendelet alkalmazását megelőzően kötött, hatályos, határozott és határozatlan idejű előfizetői szerződés módosulásával kapcsolatos információkat és a módosulás időpontját;
 
@@ -8,4 +8,4 @@ c) a 25/2020. (XII. 21.) NMHH rendelet alapján újonnan bevezetett célértéke
 
 d) a 3. melléklet „A” és „B” táblázatának elérhetőségét.
 
-[^50]: A 16/B. §-t a 25/2020. (XII. 21.) NMHH rendelet 8. § (2) bekezdése iktatta be.
+[^53]: A 16/B. §-t a 25/2020. (XII. 21.) NMHH rendelet 8. § (2) bekezdése iktatta be.

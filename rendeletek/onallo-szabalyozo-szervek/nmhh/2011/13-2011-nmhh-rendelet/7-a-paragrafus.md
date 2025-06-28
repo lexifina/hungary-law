@@ -1,4 +1,4 @@
-7/A. §[^28] (1) Helyhez kötött internet-hozzáférési szolgáltatás esetén, ha az előfizető a 7. § (1) bekezdésében meghatározott egyedi szolgáltatásminőségi követelmény tekintetében hibabejelentést tesz, a szolgáltató a 7. § (1) bekezdés a)–c) pontja szerinti valamennyi célérték teljesítését köteles vizsgálni.
+7/A. §[^30] (1) Helyhez kötött internet-hozzáférési szolgáltatás esetén, ha az előfizető a 7. § (1) bekezdésében meghatározott egyedi szolgáltatásminőségi követelmény tekintetében hibabejelentést tesz, a szolgáltató a 7. § (1) bekezdés a)–c) pontja szerinti valamennyi célérték teljesítését köteles vizsgálni.
 
 (2) Helyhez kötött internet-hozzáférési szolgáltatás esetén, ha az előfizető az (1) bekezdés szerinti hibabejelentést tesz, és a szolgáltató:
 
@@ -8,4 +8,4 @@ b) a 7. § (1) bekezdés c) pontja szerinti célértéket az előfizetői hozzá
 
 rendelkezései alkalmazandók.
 
-[^28]: A 7/A. §-t a 25/2020. (XII. 21.) NMHH rendelet 4. §-a iktatta be.
+[^30]: A 7/A. §-t a 25/2020. (XII. 21.) NMHH rendelet 4. §-a iktatta be.

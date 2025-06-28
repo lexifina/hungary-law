@@ -1,4 +1,4 @@
-7. §[^27] (1) Helyhez kötött internet-hozzáférési szolgáltatás esetén a szolgáltató az egyes díjcsomagokba foglalt szolgáltatások vonatkozásában köteles meghatározni a sebességre mint egyedi szolgáltatásminőségi követelményre vonatkozó célértékeket az alábbiak szerint:
+7. §[^29] (1) Helyhez kötött internet-hozzáférési szolgáltatás esetén a szolgáltató az egyes díjcsomagokba foglalt szolgáltatások vonatkozásában köteles meghatározni a sebességre mint egyedi szolgáltatásminőségi követelményre vonatkozó célértékeket az alábbiak szerint:
 
 a) a maximális sebességet,
 
@@ -16,4 +16,4 @@ c) a minimális sebességet.
 
 (6) A minimális sebességnek a szolgáltatás igénybevétele során folyamatosan az előfizető rendelkezésére kell állnia, kivéve a szolgáltatás korlátozásának, szüneteltetésének és felfüggesztésének esetét.
 
-[^27]: A 7. § a 25/2020. (XII. 21.) NMHH rendelet 4. §-ával megállapított szöveg.
+[^29]: A 7. § a 25/2020. (XII. 21.) NMHH rendelet 4. §-ával megállapított szöveg.

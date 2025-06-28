@@ -14,7 +14,7 @@
 
 5. forgalommérésen alapuló számlázási rendszer: minden olyan számlázási rendszer, ahol az előfizetők díjfizetése, illetve egy forgalmi keret felhasználásának mértéke, vagy a szolgáltatás igénybevétele, minősége részben vagy egészben az időponttól, időtartamtól, a hívások, az adatközlések számától, illetve az átvitt adatmennyiségtől függ;
 
-6.[^7]
+6.[^7] fogyatékos végfelhasználó: olyan végfelhasználó, aki a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § a) pontja szerint fogyatékos személynek minősül;
 
 7. hálózati szolgáltatásminőségi követelmény: a szolgáltató hálózatát, illetve szolgáltatását általánosan jellemző szolgáltatásminőségi követelmény;
 
@@ -42,17 +42,21 @@
 
 15.[^15] szolgáltatásminőségi követelmények: a szolgáltató által vállalt, kötelezően teljesítendő célértékek és a szolgáltatás minőségét meghatározó elektronikus hírközlésre vonatkozó szabályban rögzített előírások összessége;
 
-(2)[^16] E rendelet alkalmazása során az Eht.-ban és az elektronikus hírközlési előfizetői szerződések részletes szabályairól szóló NMHH rendeletben (a továbbiakban: Eszr.) meghatározott fogalmakat megfelelően alkalmazni kell.
+16.[^16] támogató-segítő technológia: a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény (a továbbiakban: Aktv.) 2. § 37. pontja szerinti technológia;
 
-(3)[^17]
+17.[^17] teljes körű beszélgetési szolgáltatás: az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló 19/2020. (XII. 18.) NMHH rendelet 2. § 16. pontja szerinti szolgáltatás.
 
-(4)[^18] Az üzleti előfizetők esetében a felek egyező akarattal eltérhetnek e rendeletnek a szolgáltatásminőségi követelményekre vonatkozó rendelkezéseitől.
+(2)[^18] E rendelet alkalmazása során az Eht.-ban, az Aktv.-ben és az elektronikus hírközlési előfizetői szerződések részletes szabályairól szóló NMHH rendeletben (a továbbiakban: Eszr.) meghatározott fogalmakat megfelelően alkalmazni kell.
+
+(3)[^19]
+
+(4)[^20] Az üzleti előfizetők esetében a felek egyező akarattal eltérhetnek e rendeletnek a szolgáltatásminőségi követelményekre vonatkozó rendelkezéseitől.
 
 [^3]: A 2. § (1) bekezdés 1a. pontját a 25/2020. (XII. 21.) NMHH rendelet 1. § (1) bekezdése iktatta be.
 [^4]: A 2. § (1) bekezdés 2a. pontját a 25/2020. (XII. 21.) NMHH rendelet 1. § (2) bekezdése iktatta be.
 [^5]: A 2. § (1) bekezdés 3. pontja a 25/2020. (XII. 21.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés 4. pontja az 1/2014. (II. 6.) NMHH rendelet 1. §-ával megállapított, a 25/2020. (XII. 21.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés 6. pontját a 25/2020. (XII. 21.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 6. pontját a 25/2020. (XII. 21.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte, újonnan a 9/2022. (XI. 16.) NMHH rendelet 1. § (1) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés 8a. pontját a 25/2020. (XII. 21.) NMHH rendelet 1. § (3) bekezdése iktatta be.
 [^9]: A 2. § (1) bekezdés 8b. pontját a 25/2020. (XII. 21.) NMHH rendelet 1. § (3) bekezdése iktatta be.
 [^10]: A 2. § (1) bekezdés 9. pontja a 25/2020. (XII. 21.) NMHH rendelet 1. § (4) bekezdésével megállapított szöveg.
@@ -61,6 +65,8 @@
 [^13]: A 2. § (1) bekezdés 12a. pontját a 25/2020. (XII. 21.) NMHH rendelet 1. § (5) bekezdése iktatta be.
 [^14]: A 2. § (1) bekezdés 12b. pontját a 25/2020. (XII. 21.) NMHH rendelet 1. § (5) bekezdése iktatta be.
 [^15]: A 2. § (1) bekezdés 15. pontja a 25/2020. (XII. 21.) NMHH rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^16]: A 2. § (2) bekezdése a 25/2020. (XII. 21.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.
-[^17]: A 2. § (3) bekezdését a 25/2020. (XII. 21.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte.
-[^18]: A 2. § (4) bekezdése a 25/2020. (XII. 21.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.
+[^16]: A 2. § (1) bekezdés 16. pontját a 9/2022. (XI. 16.) NMHH rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 2. § (1) bekezdés 17. pontját a 9/2022. (XI. 16.) NMHH rendelet 1. § (2) bekezdése iktatta be.
+[^18]: A 2. § (2) bekezdése a 25/2020. (XII. 21.) NMHH rendelet 11. § 1. pontja, a 9/2022. (XI. 16.) NMHH rendelet 5. §-a szerint módosított szöveg.
+[^19]: A 2. § (3) bekezdését a 25/2020. (XII. 21.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte.
+[^20]: A 2. § (4) bekezdése a 25/2020. (XII. 21.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.

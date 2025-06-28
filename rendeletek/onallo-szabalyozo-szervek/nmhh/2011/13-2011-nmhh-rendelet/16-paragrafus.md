@@ -1,6 +1,6 @@
-## 15/A. §[^47] A Hatóság a hálózati, az analóg műsorelosztási szolgáltatás, a digitális műsorterjesztési szolgáltatás és az Internet Protokollon keresztül megvalósuló műsorterjesztési szolgáltatás szolgáltatásminőségét folyamatosan ellenőrzi, és ha ennek során megállapítja, hogy e rendelet 2020. december 1-jén hatályos szabályai szerint garantált szolgáltatás-minőséghez képest romlik, akkor megteszi a szükséges szabályozási, piacszabályozási intézkedéseket.
+## 15/A. §[^50] A Hatóság a hálózati, az analóg műsorelosztási szolgáltatás, a digitális műsorterjesztési szolgáltatás és az Internet Protokollon keresztül megvalósuló műsorterjesztési szolgáltatás szolgáltatásminőségét folyamatosan ellenőrzi, és ha ennek során megállapítja, hogy e rendelet 2020. december 1-jén hatályos szabályai szerint garantált szolgáltatás-minőséghez képest romlik, akkor megteszi a szükséges szabályozási, piacszabályozási intézkedéseket.
 
-## Záró rendelkezések[^48]
+## Záró rendelkezések[^51]
 
 16. § (1) Ez a rendelet – (2) bekezdés kivételével – 2012. január 1-jén lép hatályba.
 
@@ -16,5 +16,5 @@
 
 (7) E rendelet hatálybalépése napjáig kiadott – a szolgáltatás minőségére és a számlázási rendszerre vonatkozó – tanúsítványok érvényességét e rendelet nem érinti, azonban a 2012. július 1-je után kezdeményezett megfelelőségigazolási eljárások során e rendeletnek való megfelelőséget kell igazolni.
 
-[^47]: A 15/A. §-t a 25/2020. (XII. 21.) NMHH rendelet 7. §-a iktatta be.
-[^48]: A 16. §-t megelőző alcím a 25/2020. (XII. 21.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^50]: A 15/A. §-t a 25/2020. (XII. 21.) NMHH rendelet 7. §-a iktatta be.
+[^51]: A 16. §-t megelőző alcím a 25/2020. (XII. 21.) NMHH rendelet 8. § (1) bekezdésével megállapított szöveg.

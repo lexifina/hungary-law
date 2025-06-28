@@ -1,6 +1,6 @@
 ## Általános szabályok
 
-3. §[^19] (1) A szolgáltatók a szolgáltatás minőségének biztosítása érdekében a szolgáltatásminőségi követelmények teljesítésére vonatkozó célértékeket vállalnak.
+3. §[^21] (1) A szolgáltatók a szolgáltatás minőségének biztosítása érdekében a szolgáltatásminőségi követelmények teljesítésére vonatkozó célértékeket vállalnak.
 
 (2) Az egyedi szolgáltatásminőségi követelmények célértékeit az Eszr. 5. §-ában meghatározott előzetes tájékoztatásban valamennyi szolgáltató köteles feltüntetni.
 
@@ -8,4 +8,4 @@
 
 (4) A szolgáltató által e rendelet alapján vállalt és meghatározott mennyiségek megadásánál a nemzetközi mértékegység-rendszer (SI) decimális prefixumait kell használni. Az adatmennyiségek és a le- és feltöltési sebességek nagyságrendi átváltása során az internet-hozzáférési szolgáltató az 1024-es váltószámot is használhatja, ha az internet-hozzáférési szolgáltatásokra vonatkozó előfizetői szerződésekben, valamint az e rendelet 3. melléklet „A” táblázatában kifejezetten az erre vonatkozó tájékoztatást szerepelteti.
 
-[^19]: A 3. § a 25/2020. (XII. 21.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^21]: A 3. § a 25/2020. (XII. 21.) NMHH rendelet 2. §-ával megállapított szöveg.
