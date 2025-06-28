@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-26-00-00
 | 2024-10-01 | 2023. évi C. törvény | 1998-26-00-00.54 |
 | 2024-11-01 | 2024. évi XLI. törvény | 1998-26-00-00.56 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 1998-26-00-00.57 |
+| 2025-06-28 | 2022. évi XVII. törvény | 1998-26-00-00.49 |
