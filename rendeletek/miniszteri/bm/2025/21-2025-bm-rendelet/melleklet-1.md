@@ -1,3 +1,3 @@
-1. melléklet a 21/2025. (VI. 26.) BM rendelethez[^3]
+1. melléklet a 21/2025. (VI. 26.) BM rendelethez[^4]
 
-[^3]: Az 1. melléklet a 4. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+[^4]: Az 1. melléklet a 4. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.

@@ -1,1 +1,3 @@
-3. § Hatályát veszti a pedagógusok teljesítményértékeléséről szóló 18/2024. (IV. 4.) BM rendelet 5. § (4) bekezdés c) pontjában az „ , és dönt az illetmény-eltérítésről” szövegrész.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
