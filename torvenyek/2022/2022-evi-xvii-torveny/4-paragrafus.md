@@ -8,7 +8,7 @@ a) a visszautasított beszállás és légijáratok törlése vagy hosszú kés�
 
 b) az 1107/2006/EK rendelet,
 
-c) az 1371/2007/EK rendelet,
+c) az (EU) 2021/782 rendelet,
 
 d) az 1177/2010/EU rendelet,
 

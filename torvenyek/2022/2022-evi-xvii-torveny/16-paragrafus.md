@@ -15,11 +15,3 @@ f) 188. § 96. pontjában a „gépek közötti szolgáltatások” szövegrész
 g) 188. § 117. pontjában a „készenléti segélyszolgálatoktól” szövegrész helyébe a „segélyhívó szolgálatoktól” szöveg
 
 lép.
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

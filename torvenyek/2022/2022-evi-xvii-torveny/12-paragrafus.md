@@ -13,3 +13,5 @@ tartalmaira.
 (3) A szolgáltatók által a szolgáltatások nyújtásához az e törvény hatálybalépését megelőzően jogszerűen használt, az e törvényben foglalt követelményeknek nem megfelelő önkiszolgáló terminálok továbbra is használatban maradhatnak a gazdaságilag hasznos élettartamuk végéig, de legfeljebb a használatba vételüket követő 20 évig.
 
 (4) 2030. június 28-áig a szolgáltatók továbbra is nyújthatnak szolgáltatásokat olyan, az e törvényben foglalt követelményeknek nem megfelelő termékek felhasználásával, amelyeket 2030. június 28-a előtt jogszerűen használtak hasonló szolgáltatások nyújtására.
+
+(5) Az 1. § (4) bekezdésében, az 1. melléklet 4. pont 4.1. alpont 4.1.3. alpontjában és 5. pontjában foglalt követelményeket 2027. június 28-tól kell teljesíteni.

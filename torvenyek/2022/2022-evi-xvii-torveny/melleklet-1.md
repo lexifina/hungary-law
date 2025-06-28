@@ -156,7 +156,7 @@ Annak érdekében, hogy a szolgáltatásokat a fogyatékos személyek előrelát
 
 Annak érdekében, hogy a szolgáltatásokat a fogyatékos személyek előreláthatólag a lehető legnagyobb mértékben igénybe tudják venni, a szolgáltatások nyújtása során a fogyatékos személyek igényeinek figyelembevételét célzó következő funkciókat, gyakorlatokat, szabályokat, eljárásokat és változtatásokat kell bevezetni, és biztosítani kell a támogató-segítő technológiákkal való interoperabilitást a következők szerint:
 
-4.1. az elektronikus hírközlési szolgáltatások esetében, beleértve a segélyhívásokat is:
+4.1. az elektronikus hírközlési szolgáltatások esetében, 2027. június 28-ától beleértve a segélyhívásokat is:
 
 4.1.1. valós idejű szöveg biztosítása a szóbeli kommunikáció mellett;
 

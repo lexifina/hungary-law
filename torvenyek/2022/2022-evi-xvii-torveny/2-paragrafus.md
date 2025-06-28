@@ -88,7 +88,7 @@ e) az elektronikus pénz kibocsátása;
 
 39. valós idejű szöveg: kétpontos kapcsolaton vagy többpontos konferenciaalkalmazáson keresztül használt olyan szöveges kommunikációs forma, ahol a beírt szöveg oly módon kerül továbbításra, hogy a felhasználó a kommunikációt karakteralapú formátumban folyamatosnak érzékeli;
 
-40. vasúti személyszállítási szolgáltatás: a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-i 1371/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1371/2007/EK rendelet) 2. cikk (1) bekezdése szerinti valamennyi szolgáltatás, az 1371/2007/EK rendelet 2. cikk (2) bekezdésében meghatározott szolgáltatások kivételével;
+40. vasúti személyszállítási szolgáltatás: a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/782 rendelet] 2. cikkében meghatározott szolgáltatás;
 
 41. városi és elővárosi közlekedési szolgáltatás: olyan vasúti, autóbuszos, metró-, villamos- és trolibusz-szolgáltatás, valamint az Sztv. 2. § 6. pontja szerinti elővárosi személyszállítási szolgáltatás és az Sztv. 2. § 8. pontja szerinti helyi személyszállítási szolgáltatás, amely fő célja egy városközpont vagy agglomeráció szállítási igényeinek, továbbá az ilyen központ vagy agglomeráció és vonzáskörzete között felmerülő szállítási igényeknek a kielégítése, beleértve a határokon átnyúló agglomerációkat is;
 
