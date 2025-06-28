@@ -1,0 +1,1 @@
+4. § Az ellenőrző hatóság a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal a gazdasági szereplővel, aki vállalja, hogy felhagy a jogsértő magatartással, és magatartását a hatósági szerződésben meghatározott módon hozza összhangba az akadálymentességi követelményekkel.
