@@ -1,3 +1,3 @@
-4. § Az R1. 10/A. §-a a következő (4) bekezdéssel egészül ki:
+4. §[^5]
 
-„(4) 18 év alatti életkorban sem az előzetes, sem az időszakos orvosi vizsgálat keretében évenkénti monitorozó röntgenvizsgálat nem végezhető.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

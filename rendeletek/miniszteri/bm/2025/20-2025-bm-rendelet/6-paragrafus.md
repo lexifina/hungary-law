@@ -1,9 +1,3 @@
-6. § Az R1.
+6. §[^7]
 
-a) 5. §-ában a „6 hónapig” szövegrész helyébe az „1 évig” szöveg,
-
-b) 11. § (1) bekezdésében az „ab)” szövegrész helyébe az „ac) és b)” szöveg,
-
-c) 16/C. § (5) bekezdésében és 16/D. § (5) bekezdésében az „egy” szövegrész helyébe a „két” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -8,40 +8,6 @@
 
 ## 1. A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet módosítása
 
-1. § A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet (a továbbiakban: R1.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) E rendelet hatálya – a (2) bekezdésben foglalt kivétellel – kiterjed
-
-a) a munkaköri alkalmasság előzetes, időszakos és záró orvosi vizsgálata és véleményezése tekintetében – a d) pontban foglaltak kivételével –
-
-aa) az olyan munkáltatóra, amely a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 87. § 9. pontja szerinti szervezett munkavégzés (a továbbiakban: szervezett munkavégzés) keretében az Mvt. 49. § (1a) bekezdése alapján kiadott jogszabályban meghatározott esetekben, illetve az Mvt. 88. § (3) bekezdés d) és e) pontja alapján kiadott miniszteri rendeletben meghatározott expozíció alá tartozó munkakörben munkavállalót foglalkoztat,
-
-ab) az olyan munkáltatóra, amely szervezett munkavégzés keretében nem az aa) alpontban foglalt munkakörben foglalkoztat munkavállalót, ugyanakkor az Mvt. 49. § (1a) bekezdése alapján úgy döntött, hogy a munkára való alkalmasságról orvosi vizsgálat alapján kell dönteni,
-
-ac) az olyan, belföldön vagy külföldön munkavégzést teljesítő munkavállalóra, akit szervezett munkavégzés keretében az aa) vagy ab) alpont szerinti munkáltató az ott meghatározott munkakörben foglalkoztat, valamint az aktív korúak ellátására jogosult személyre;
-
-b) a munkaköri alkalmasság soron kívüli orvosi vizsgálata és véleményezése tekintetében a d) pont kivételével minden szervezett munkavégzés keretében munkavállalót foglalkoztató munkavállalóra és szervezett munkavégzés keretében munkát végző munkavállalóra, valamint az aktív korúak ellátására jogosult személyre;
-
-c) a szakmai alkalmasság orvosi vizsgálata és véleményezése tekintetében
-
-ca) a szakképző intézményre,
-
-cb) a tanulóra, a 11. § (2) bekezdésében meghatározott esetben a hallgatóra,
-
-cc) az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatalra és a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalára,
-
-cd) az álláskeresőkre;
-
-d) a foglalkoztathatóság szakvéleményezése tekintetében
-
-da) az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatalra és a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalára,
-
-db) a megváltozott munkaképességű álláskeresőre,
-
-dc) a közfoglalkoztatható személyre és a közfoglalkoztatottra (a továbbiakban együtt: közfoglalkoztatott), továbbá a közfoglalkoztatást felajánlóra,
-
-dd) az egyszerűsített foglalkoztatás körébe tartozó idénymunkára vagy alkalmi munkára munkaviszonyt létesítő munkáltatóra és elhelyezkedni kívánó személyre,
-
-de) közérdekű munka esetén az elkövetőre, az elítéltre és a pártfogó felügyelői szolgálatra;
-
-e) a személyi higiénés alkalmasság vizsgálata és véleményezése tekintetében a munkát végző személyre.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
