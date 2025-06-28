@@ -104,7 +104,7 @@ i) az alapvető felhasználók elektronikus hírközlési szolgáltatással tör
 
 39. az 52. § (2) bekezdés j) pontjában szereplő nyilvántartás vezetésére vonatkozó szabályokat, a Hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, valamint a Hatósággal történő kapcsolattartás formai követelményeit;
 
-40. a kis hatótávolságú, vezeték nélküli hozzáférési pontok kiépítése érdekében a 94. § (7) bekezdése alapján együttműködésre kötelezettek megállapodásának részletes szabályait.
+40. a kis területi lefedésű, vezeték nélküli hozzáférési pontok kiépítése érdekében a 94. § (7) bekezdése alapján együttműködésre kötelezettek megállapodásának részletes szabályait.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
 

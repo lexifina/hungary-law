@@ -40,7 +40,7 @@ a) az internet-hozzáférési szolgáltatást;
 
 b) a személyközi hírközlési szolgáltatást; és
 
-c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából álló szolgáltatást, ideértve a gépek közötti szolgáltatást és a műsorterjesztésre használt átviteli szolgáltatást is.
+c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából álló szolgáltatást, ideértve a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatást és a műsorterjesztésre használt átviteli szolgáltatást is.
 
 17. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes személy, jogi személy vagy egyéb szervezet.
 
@@ -94,7 +94,7 @@ c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon t�
 
 42. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
-43. Gépek közötti szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely az adatok és információk automatikus továbbítását foglalja magában eszközök vagy szoftveralapú alkalmazások között, korlátozott emberi beavatkozással vagy anélkül.
+43. Gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely az adatok és információk automatikus továbbítását foglalja magában eszközök vagy szoftveralapú alkalmazások között, korlátozott emberi beavatkozással vagy anélkül.
 
 44. Gyártó: a 2019/1020/EU rendelet 3. cikk 8. pontjában meghatározott személy.
 
@@ -178,7 +178,7 @@ b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoz
 
 73. Káros zavarás: olyan zavarás, amely veszélyezteti egy rádiónavigáció szolgálat vagy más biztonsági szolgálat működését, vagy amely egyébként komolyan károsítja, akadályozza vagy ismételten megszakítja egy – a Nemzetközi Rádiószabályzatnak, illetve az alkalmazandó európai uniós vagy nemzeti szabályozásnak megfelelően használt – rádiótávközlési szolgálat működését.
 
-74. Készenléti segélyszolgálat: olyan szolgálat, amely a nemzeti joggal összhangban azonnali és gyors segélynyújtást biztosít különösen olyan helyzetekben, amelyek közvetlenül veszélyeztetik az életet vagy a testi épséget, az egyének egészségét vagy biztonságát, a közegészséget, a közbiztonságot, a magán- vagy köztulajdont, illetve a környezetet.
+74. Segélyhívó szolgálat: olyan szolgálat, amely a nemzeti joggal összhangban azonnali és gyors segélynyújtást biztosít különösen olyan helyzetekben, amelyek közvetlenül veszélyeztetik az életet vagy a testi épséget, az egyének egészségét vagy biztonságát, a közegészséget, a közbiztonságot, a magán- vagy köztulajdont, illetve a környezetet.
 
 75. Készülék: a rádióberendezés és az elektronikus hírközlő végberendezés.
 
