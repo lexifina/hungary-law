@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2025-01-01 | 2019. évi CX. törvény | 2001-64-00-00.72 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2001-64-00-00.73 |
 | 2025-04-25 | 2025. évi V. törvény | 2001-64-00-00.75 |
+| 2025-06-28 | 2025. évi LVIII. törvény | 2001-64-00-00.77 |

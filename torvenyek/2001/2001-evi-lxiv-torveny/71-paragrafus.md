@@ -30,9 +30,9 @@ e) a kölcsönzött kulturális javak különleges védelméről szóló tanús�
 
 f) az ideiglenesen védetté nyilvánított kulturális javakról,
 
-g) a nemzeti érdekű nyilvános gyűjteményekről,
+g) a behozatali engedélyekről,
 
-h) a közérdekű kulturális értékekről,
+h)
 
 i) azokról a kulturális javakról, amelyek védettségét megszüntették,
 
