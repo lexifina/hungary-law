@@ -1,0 +1,1 @@
+11. § E törvény rendelkezéseit az e törvény hatálybalépését követően forgalomba hozott termékekre és nyújtott szolgáltatásokra kell alkalmazni, ideértve az e törvény hatálybalépését követően forgalomba hozott, harmadik országokból behozott használt termékeket is.
