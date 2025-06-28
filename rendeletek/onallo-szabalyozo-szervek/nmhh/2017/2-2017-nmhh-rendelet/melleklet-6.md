@@ -1,4 +1,4 @@
-6. melléklet a 2/2017. (I. 17.) NMHH rendelethez[^58]
+6. melléklet a 2/2017. (I. 17.) NMHH rendelethez[^60]
 
 Uniós jogi aktusok, amelyekben meghatározott egyes rádióberendezés-osztályokra a 3. § (3) bekezdése szerinti további alapvető követelmény alkalmazandó
 
@@ -28,4 +28,4 @@ Uniós jogi aktusok, amelyekben meghatározott egyes rádióberendezés-osztály
 
 | 3 | (EU) 2022/30 felhatalmazáson alapuló bizottsági rendelet | 3. § (3) bekezdés d), e), f) pont |
 
-[^58]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 5/2022. (VII. 20.) NMHH rendelet 4. §-a iktatta be, szövege a 6/2023. (XII. 19.) NMHH rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^60]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 5/2022. (VII. 20.) NMHH rendelet 4. §-a iktatta be, szövege a 6/2023. (XII. 19.) NMHH rendelet 16. § (1) bekezdésével megállapított szöveg.

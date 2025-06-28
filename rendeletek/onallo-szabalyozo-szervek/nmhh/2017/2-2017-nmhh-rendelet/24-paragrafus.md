@@ -1,3 +1,3 @@
-24. §[^54]
+24. §[^56]
 
-[^54]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

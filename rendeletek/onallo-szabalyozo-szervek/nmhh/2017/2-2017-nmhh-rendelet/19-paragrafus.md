@@ -16,24 +16,24 @@ g) a gyártó a 7. § (7) vagy (8) bekezdésében, vagy az importőr a 9. § (9)
 
 h) a rádióberendezéshez nem mellékelték a 7. § (9)–(11) bekezdés szerinti információkat, vagy az EU-megfelelőségi nyilatkozatot;
 
-i)[^44] a gazdasági szereplő a 11. § szerinti követelményeket nem teljesíti;
+i)[^45] a gazdasági szereplő a 11. § szerinti követelményeket nem teljesíti;
 
 j) a gyártó a nyilvántartásba vételre kötelezett rádióberendezések típusainak nyilvántartásba vételére vonatkozó rendelkezéseket megsértette,
 
-k)[^45] a 4. § (4) bekezdése szerinti piktogramot vagy a 7. § (10b) bekezdése szerinti címkét nem e rendelet szerinti formában vagy tartalommal készítették el;
+k)[^46] a 4. § (4) bekezdése szerinti piktogramot vagy a 7. § (10b) bekezdése szerinti címkét nem e rendelet szerinti formában vagy tartalommal készítették el;
 
-l)[^46] a 3. § (4) bekezdése szerinti rádióberendezéshez nem mellékelték a 7. § (10b) bekezdése szerinti címkét;
+l)[^47] a 3. § (4) bekezdése szerinti rádióberendezéshez nem mellékelték a 7. § (10b) bekezdése szerinti címkét;
 
-m)[^47] a piktogramot vagy a címkét nem a 4. § (4) bekezdésének, illetve a 7. § (10b) bekezdésének megfelelően helyezték el vagy tüntették fel; vagy
+m)[^48] a piktogramot vagy a címkét nem a 4. § (4) bekezdésének, illetve a 7. § (10b) bekezdésének megfelelően helyezték el vagy tüntették fel; vagy
 
-n)[^48] a gazdasági szereplő a 4. § (3) bekezdése szerinti követelményeket nem teljesíti.
+n)[^49] a gazdasági szereplő a 4. § (3) bekezdése szerinti követelményeket nem teljesíti.
 
 de egyéb jogsértés nem valósult meg, a 18. § (2) bekezdésre tekintet nélkül felhívja az érintett gazdasági szereplőt a jogsértés megszüntetésére.
 
 (2) Amennyiben a gazdasági szereplő az (1) bekezdés szerinti felhívásnak nem tesz eleget, a piacfelügyeleti hatóság az Eht.-ban, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával intézkedik e rendeletnek nem megfelelő rádióberendezés forgalmazásának betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására.
 
-[^44]: A 19. § (1) bekezdés i) pontja a 6/2023. (XII. 19.) NMHH rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^45]: A 19. § (1) bekezdés k) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
-[^46]: A 19. § (1) bekezdés l) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
-[^47]: A 19. § (1) bekezdés m) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
-[^48]: A 19. § (1) bekezdés n) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
+[^45]: A 19. § (1) bekezdés i) pontja a 6/2023. (XII. 19.) NMHH rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^46]: A 19. § (1) bekezdés k) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
+[^47]: A 19. § (1) bekezdés l) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
+[^48]: A 19. § (1) bekezdés m) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.
+[^49]: A 19. § (1) bekezdés n) pontját a 6/2023. (XII. 19.) NMHH rendelet 12. § (2) bekezdése iktatta be.

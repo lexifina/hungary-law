@@ -1,4 +1,4 @@
-7. melléklet a 2/2017. (I. 17.) NMHH rendelethez[^59]
+7. melléklet a 2/2017. (I. 17.) NMHH rendelethez[^61]
 
 Egyes rádióberendezés-osztályokra a töltés tekintetében alkalmazandó előírások
 
@@ -84,4 +84,4 @@ Egyes rádióberendezés-osztályokra a töltés tekintetében alkalmazandó el�
 
 Ha a címke méretét csökkentik vagy növelik, be kell tartani a 4.1. pontban szereplő rajzon megadott arányokat. A 4.1. pont szerinti „a” méretnek legalább 7 mm-nek kell lennie, tekintet nélkül az adott változatra.
 
-[^59]: A 7. mellékletet a 6/2023. (XII. 19.) NMHH rendelet 16. § (2) bekezdése iktatta be.
+[^61]: A 7. mellékletet a 6/2023. (XII. 19.) NMHH rendelet 16. § (2) bekezdése iktatta be.

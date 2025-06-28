@@ -12,7 +12,7 @@ c) elkészítette-e a műszaki dokumentációt,
 
 d) a rádióberendezésen feltüntette-e a CE megfelelőségi jelölést,
 
-e)[^26] mellékelte-e hozzá a 7. § (9)–(12) bekezdése szerinti dokumentációt, és
+e)[^27] mellékelte-e hozzá a 7. § (9)–(12) bekezdése szerinti dokumentációt, és
 
 f) teljesítette-e a 7. § (7) és (8) bekezdésében meghatározott követelményeket.
 
@@ -20,7 +20,7 @@ f) teljesítette-e a 7. § (7) és (8) bekezdésében meghatározott követelmé
 
 (4) Ha az importőr tudomást szerez arról, vagy feltételezi, hogy a rádióberendezés nem felel meg a 3. §-ban meghatározott alapvető követelményeknek, azt nem hozhatja forgalomba, amíg ezen követelmények nem teljesülnek. Ha a rádióberendezés kockázatot jelent, az importőr tájékoztatja erről a gyártót, valamint a piacfelügyeleti hatóságot.
 
-(5)[^27] Ha az importőr tudomást szerez arról, vagy feltételezi, hogy az általa forgalomba hozott rádióberendezés nem felel meg e rendeletnek, azonnal meghozza a rádióberendezés megfelelőségének biztosításához szükséges korrekciós intézkedéseket, vagy kivonja a forgalomból vagy visszahívja a rádióberendezést. Ha a rádióberendezés kockázatot jelent, az importőr erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
+(5)[^28] Ha az importőr tudomást szerez arról, vagy feltételezi, hogy az általa forgalomba hozott rádióberendezés nem felel meg e rendeletnek, azonnal meghozza a rádióberendezés megfelelőségének biztosításához szükséges korrekciós intézkedéseket, vagy kivonja a forgalomból vagy visszahívja a rádióberendezést. Ha a rádióberendezés kockázatot jelent, az importőr erről azonnal értesíti a piacfelügyeleti hatóságot, részletes tájékoztatást adva különösen a megfelelés hiányáról és valamennyi megtett korrekciós intézkedésről.
 
 (6) Az importőr a rádióberendezés forgalomba hozatalát követő 10 évig megőrzi az EU-megfelelőségi nyilatkozatot, valamint biztosítja, hogy a műszaki dokumentáció a piacfelügyeleti hatóság felhívására rendelkezésre bocsátható legyen.
 
@@ -30,18 +30,18 @@ f) teljesítette-e a 7. § (7) és (8) bekezdésében meghatározott követelmé
 
 (9) Az importőr a rádióberendezésen, vagy ha ez nem lehetséges, annak csomagolásán vagy a kísérő dokumentáción magyar nyelven feltünteti nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai úton történő kapcsolatfelvételt szolgáló címét.
 
-(10)[^28] Az importőr gondoskodik arról, hogy a rádióberendezéshez angol és magyar nyelven mellékelve legyen a használati és kezelési útmutató, valamint a biztonsági tájékoztató.
+(10)[^29] Az importőr gondoskodik arról, hogy a rádióberendezéshez angol és magyar nyelven mellékelve legyen a használati és kezelési útmutató, valamint a biztonsági tájékoztató.
 
-(10a)[^29] Az importőr, ha a 3. § (4) bekezdése szerinti rádióberendezést rádióberendezés-végfelhasználó részére forgalmazza, gondoskodik arról, hogy a 7. melléklet 4. pontja szerinti címke legyen elhelyezve a rádióberendezésen vagy ahhoz mellékelve, és annak elhelyezése vagy megjelenítése megfeleljen a 7. § (10b) bekezdése szerinti előírásoknak.
+(10a)[^30] Az importőr, ha a 3. § (4) bekezdése szerinti rádióberendezést rádióberendezés-végfelhasználó részére forgalmazza, gondoskodik arról, hogy a 7. melléklet 4. pontja szerinti címke legyen elhelyezve a rádióberendezésen vagy ahhoz mellékelve, és annak elhelyezése vagy megjelenítése megfeleljen a 7. § (10b) bekezdése szerinti előírásoknak.
 
 (11) Az importőr biztosítja, hogy a tárolás és a szállítás körülményei ne veszélyeztessék a 3. §-ban meghatározott alapvető követelményeknek való megfelelést.
 
-(12)[^30] Amennyiben a rádióberendezés jelentette kockázatra tekintettel szükséges, az importőr a rádióberendezés-végfelhasználó egészsége és biztonsága érdekében elvégzi a forgalmazott rádióberendezés mintadarabjainak vizsgálatát és nem megfelelőség észlelése esetén az (5) bekezdés szerint jár el.
+(12)[^31] Amennyiben a rádióberendezés jelentette kockázatra tekintettel szükséges, az importőr a rádióberendezés-végfelhasználó egészsége és biztonsága érdekében elvégzi a forgalmazott rádióberendezés mintadarabjainak vizsgálatát és nem megfelelőség észlelése esetén az (5) bekezdés szerint jár el.
 
 (13) Az importőr kivizsgálja a rádióberendezés megfelelőségével kapcsolatos panaszokat. A panaszokról, valamint az e rendeletnek nem megfelelő rádióberendezésekről és a nem megfelelő rádióberendezések visszahívásáról nyilvántartást vezet, és folyamatosan tájékoztatja a forgalmazókat minden ilyen intézkedésről. Természetes személy panaszos esetében a személyes adatok nyilvántartásba vételéhez szükséges az érintett – az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti – hozzájárulása.
 
-[^26]: A 9. § (2) bekezdés e) pontja a 6/2023. (XII. 19.) NMHH rendelet 15. § c) pont ca) alpontja szerint módosított szöveg.
-[^27]: A 9. § (5) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.
-[^28]: A 9. § (10) bekezdése a 6/2023. (XII. 19.) NMHH rendelet 15. § c) pont cb) alpontja szerint módosított szöveg.
-[^29]: A 9. § (10a) bekezdését a 6/2023. (XII. 19.) NMHH rendelet 10. §-a iktatta be.
-[^30]: A 9. § (12) bekezdése a 6/2023. (XII. 19.) NMHH rendelet 15. § c) pont cc) alpontja szerint módosított szöveg.
+[^27]: A 9. § (2) bekezdés e) pontja a 6/2023. (XII. 19.) NMHH rendelet 15. § c) pont ca) alpontja szerint módosított szöveg.
+[^28]: A 9. § (5) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 3. pontja szerint módosított szöveg.
+[^29]: A 9. § (10) bekezdése a 6/2023. (XII. 19.) NMHH rendelet 15. § c) pont cb) alpontja szerint módosított szöveg.
+[^30]: A 9. § (10a) bekezdését a 6/2023. (XII. 19.) NMHH rendelet 10. §-a iktatta be.
+[^31]: A 9. § (12) bekezdése a 6/2023. (XII. 19.) NMHH rendelet 15. § c) pont cc) alpontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## 15. Ellenőrzés és felügyelet
 
-17. § (1)[^37] Ha a piacfelügyeleti hatóságnak olyan adat, tény, információ jut tudomására, amely alapján feltételezi, hogy a rádióberendezés egyes tulajdonságai veszélyeztetik a 3. §-ban foglalt alapvető követelmények teljesülését, akkor a rádióberendezésen elvégzi az ellenőrzést az e rendeletben megállapított valamennyi vonatkozó követelmény tekintetében. Az érintett gazdasági szereplők e célból együttműködnek a piacfelügyeleti hatósággal.
+17. § (1)[^38] Ha a piacfelügyeleti hatóságnak olyan adat, tény, információ jut tudomására, amely alapján feltételezi, hogy a rádióberendezés egyes tulajdonságai veszélyeztetik a 3. §-ban foglalt alapvető követelmények teljesülését, akkor a rádióberendezésen elvégzi az ellenőrzést az e rendeletben megállapított valamennyi vonatkozó követelmény tekintetében. Az érintett gazdasági szereplők e célból együttműködnek a piacfelügyeleti hatósággal.
 
-(2)[^38] Ha az (1) bekezdés szerinti ellenőrzés során a piacfelügyeleti hatóság megállapítja, hogy a rádióberendezés nem felel meg e rendeletnek, haladéktalanul felhívja az érintett gazdasági szereplőt, hogy az (EU) 2019/1020 rendelet 16. cikk (2) és (3) bekezdésének megfelelően tegyen korrekciós intézkedéseket a jogsértés megszüntetésére és az alapvető követelményeknek való megfelelés biztosítására.
+(2)[^39] Ha az (1) bekezdés szerinti ellenőrzés során a piacfelügyeleti hatóság megállapítja, hogy a rádióberendezés nem felel meg e rendeletnek, haladéktalanul felhívja az érintett gazdasági szereplőt, hogy az (EU) 2019/1020 rendelet 16. cikk (2) és (3) bekezdésének megfelelően tegyen korrekciós intézkedéseket a jogsértés megszüntetésére és az alapvető követelményeknek való megfelelés biztosítására.
 
 (3) A (2) bekezdés szerinti felhívásról a megfelelőségértékelő szervezetet is tájékoztatni kell, ha a rádióberendezés megfelelőségének értékelésében közreműködött.
 
@@ -10,9 +10,9 @@
 
 (5) Ha a rendelkezésre álló adatok alapján a rádióberendezést más tagállamban is forgalmazzák, a piacfelügyeleti hatóság az (1) bekezdés szerinti ellenőrzés eredményéről és a (2) bekezdés szerinti intézkedéséről egyidejűleg értesíti az Európai Bizottságot és az Európai Unió többi tagállamát. Az értesítésnek tartalmaznia kell, hogy a gazdasági szereplőt milyen intézkedés meghozatalára hívták fel.
 
-(6)[^39] A gazdasági szereplő köteles megtenni a szükséges korrekciós intézkedéseket az általa forgalmazott rádióberendezés tekintetében.
+(6)[^40] A gazdasági szereplő köteles megtenni a szükséges korrekciós intézkedéseket az általa forgalmazott rádióberendezés tekintetében.
 
-(7)[^40] Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (4) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az Eht.-ban, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a rádióberendezés betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a véglegessé vált és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja az Európai Bizottságot és az Európai Unió többi tagállamát.
+(7)[^41] Ha az érintett gazdasági szereplő a (2) bekezdésben foglalt felhívást a (4) bekezdés szerinti határidőben nem teljesíti, a piacfelügyeleti hatóság az Eht.-ban, valamint a termékek piacfelügyeletéről szóló törvényben meghatározott jogkövetkezmények alkalmazásával, hatósági határozatában minden szükséges átmeneti intézkedést meghoz a rádióberendezés betiltására, korlátozására, forgalomból történő kivonására vagy visszahívására. A piacfelügyeleti hatóság a véglegessé vált és végrehajtható átmeneti intézkedésekről haladéktalanul tájékoztatja az Európai Bizottságot és az Európai Unió többi tagállamát.
 
 (8) A piacfelügyeleti hatóság a (7) bekezdés szerinti tájékoztatásban megadja az összes rendelkezésre álló adatot, különösen az e rendeletnek nem megfelelő rádióberendezés azonosításához szükséges adatokat, a rádióberendezés származási helyét, a feltárt jogsértést és a felmerülő kockázatot, az alkalmazott jogkövetkezményeket, valamint az érintett gazdasági szereplő eljárás során kifejtett álláspontját. A piacfelügyeleti hatóság a tájékoztatásban jelzi, ha a megfelelés hiánya az alábbiakban felsoroltak valamelyike miatt következett be:
 
@@ -24,10 +24,10 @@ b) a megfelelőség vélelmezését megalapozó, hivatkozott harmonizált szabv�
 
 (10) Ha a (7) bekezdés szerinti átmeneti intézkedés ellen az Európai Bizottság vagy az Európai Unió valamely tagállama kifogást emel, akkor az Európai Bizottság erre vonatkozó határozata alapján a piacfelügyeleti hatóság az átmeneti intézkedést visszavonja.
 
-(11)[^41] Ha valamely más tagállam illetékes piacfelügyeleti hatósága a (7) bekezdés szerinti átmeneti intézkedésről küld értesítést és az átmeneti intézkedést a (9) bekezdés alapján elfogadottnak kell tekinteni, a piacfelügyeleti hatóság gondoskodik az értesítésben szereplő, a (EU) 2019/1020 rendelet 16. cikke szerinti korlátozó intézkedés haladéktalan meghozataláról.
+(11)[^42] Ha valamely más tagállam illetékes piacfelügyeleti hatósága a (7) bekezdés szerinti átmeneti intézkedésről küld értesítést és az átmeneti intézkedést a (9) bekezdés alapján elfogadottnak kell tekinteni, a piacfelügyeleti hatóság gondoskodik az értesítésben szereplő, a (EU) 2019/1020 rendelet 16. cikke szerinti korlátozó intézkedés haladéktalan meghozataláról.
 
-[^37]: A 17. § (1) bekezdése a 6/2023. (XII. 19.) NMHH rendelet 15. § e) pontja szerint módosított szöveg.
-[^38]: A 17. § (2) bekezdés az 1/2021. (II. 5.) NMHH rendelet 2. §-ával megállapított szöveg.
-[^39]: A 17. § (6) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 5. pontja szerint módosított szöveg.
-[^40]: A 17. § (7) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 15. §-a szerint módosított szöveg.
-[^41]: A 17. § (11) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 5. pontja szerint módosított szöveg.
+[^38]: A 17. § (1) bekezdése a 6/2023. (XII. 19.) NMHH rendelet 15. § e) pontja szerint módosított szöveg.
+[^39]: A 17. § (2) bekezdés az 1/2021. (II. 5.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^40]: A 17. § (6) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 5. pontja szerint módosított szöveg.
+[^41]: A 17. § (7) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 15. §-a szerint módosított szöveg.
+[^42]: A 17. § (11) bekezdése az 1/2021. (II. 5.) NMHH rendelet 4. § 5. pontja szerint módosított szöveg.
