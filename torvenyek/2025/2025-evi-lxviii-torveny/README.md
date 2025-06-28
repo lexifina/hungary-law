@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-68-00-00
 | --- | --- | --- |
 | 2025-06-27 | 2025. évi LXVIII. törvény | 2025-68-00-00.0 (közlönyállapot) |
 | 2025-06-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-68-00-00.1 |
+| 2025-06-28 | 2010. évi CXXX. törvény | 2025-68-00-00.2 |
