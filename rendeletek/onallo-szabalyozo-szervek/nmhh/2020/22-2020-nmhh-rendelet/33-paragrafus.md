@@ -14,7 +14,7 @@ a) az előfizetői szerződés megkötését megelőzően;
 
 b) a már megkötött előfizetői szerződés esetén az Eht. 129. § (2b) bekezdése szerinti adategyeztetés érdekében
 
-## az előfizető által megadott adatok alapján végzi el.
+az előfizető által megadott adatok alapján végzi el.
 
 (4) Az (1) bekezdés szerinti ellenőrzés módját, időpontját, eredményét és az Eht. 154. § (1) bekezdése alapján az előfizető, felhasználó azonosítására szolgáltató adatokat a szolgáltató a nyilvántartásában rögzíti.
 

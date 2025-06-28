@@ -76,4 +76,9 @@ ha) az előfizetői panaszok kezelése, folyamata, díjreklamáció és kártér
 
 hb) tájékoztatás a szolgáltatással összefüggő jogviták peres és peren kívüli kezdeményezésének lehetőségéről és feltételeiről, a békéltető testülethez való fordulás jogáról, az eljárásra jogosult hatóságok, békéltető testület és egyéb szervezetek megnevezése, elérhetőségeik – cím, telefonszám, egyéb elérhetőség – feltüntetése, valamint
 
-i) a fogyatékossággal élő végfelhasználók számára nyújtott termékek és szolgáltatások részletei és tájékoztatás az ezekkel kapcsolatos aktuális információk elérhetőségéről.
+i)[^8] a fogyatékos végfelhasználó számára kínált termékek és nyújtott szolgáltatások részletei az Aktv. 1. mellékletére is figyelemmel, továbbá tájékoztatás az ezekkel kapcsolatos aktuális információk elérhetőségéről; valamint
+
+j)[^9] az akadálymentesítési követelményeknek való megfelelés ismertetése az Aktv. 3. melléklete alapján.
+
+[^8]: A 10. § (6) bekezdés i) pontja a 9/2022. (XI. 16.) NMHH rendelet 10. §-ával megállapított szöveg.
+[^9]: A 10. § (6) bekezdés j) pontját a 9/2022. (XI. 16.) NMHH rendelet 10. §-a iktatta be.

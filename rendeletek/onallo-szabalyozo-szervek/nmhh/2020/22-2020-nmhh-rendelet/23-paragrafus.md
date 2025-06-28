@@ -4,7 +4,7 @@ a) a 22. § (1) és (2) bekezdése szerinti értesítésre nyitva álló határi
 
 b) a hiba kijavítására nyitva álló határidő eredménytelen elteltétől minden megkezdett késedelmes nap után a hiba elhárításáig
 
-## terjedő időszakra.
+terjedő időszakra.
 
 (2) A kötbér meghatározásához szükséges vetítési alap a hibabejelentés hónapjára vonatkozó szolgáltatásra vagy szolgáltatáscsomagra az általános szerződési feltételekben meghatározott kedvezmények nélküli havi előfizetési díj és az előző havi forgalmi díj összege alapján egy napra vetített összeg, előre fizetett díjú szolgáltatás esetén az előre fizetett díj egyharmincada.
 

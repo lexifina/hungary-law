@@ -9,3 +9,5 @@ b) az egyéni előfizetőre és az üzleti előfizetőre (a továbbiakban együt
 c) a felhasználóra, valamint
 
 d) a 29. § tekintetében az összehasonlító eszközt működtető vállalkozásra
+
+terjed ki.

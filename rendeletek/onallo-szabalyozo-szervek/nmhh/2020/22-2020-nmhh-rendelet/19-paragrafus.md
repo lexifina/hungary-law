@@ -8,6 +8,6 @@ a) számfüggő személyközi hírközlési szolgáltatás esetén hívó oldali
 
 b) internet-hozzáférés szolgáltatás esetén 1 másodperccel
 
-## haladhatja meg.
+haladhatja meg.
 
 (3) Adatmennyiségen alapuló szolgáltatás díjának számítását és számlázását az általános szerződési feltételekben rögzített egységekben kell kialakítani.
