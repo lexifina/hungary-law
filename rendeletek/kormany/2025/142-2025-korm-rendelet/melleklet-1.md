@@ -1,3 +1,3 @@
-1. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^57]
+1. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^62]
 
-[^57]: Az 1. melléklet a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^62]: Az 1. melléklet a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

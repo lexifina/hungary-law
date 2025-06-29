@@ -1,3 +1,3 @@
-5. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^61]
+5. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^66]
 
-[^61]: Az 5. melléklet a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^66]: Az 5. melléklet a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

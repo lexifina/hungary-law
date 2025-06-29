@@ -1,3 +1,3 @@
-35. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 111. §-a a következő (4) bekezdéssel egészül ki:
+35. §[^35]
 
-„(4) A behozatali engedélyek nyilvántartása tartalmazza a behozatali engedély számát.”
+[^35]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
