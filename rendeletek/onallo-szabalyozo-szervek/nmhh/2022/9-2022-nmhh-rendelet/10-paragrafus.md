@@ -1,3 +1,3 @@
-10. § Az R3. 10. § (6) bekezdés i) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő j) ponttal egészül ki:
+10. §[^11]
 
-(Ha az adott szolgáltatásra értelmezhető, az általános szerződési feltételek az adott szolgáltatásra vonatkozóan legalább a következőket tartalmazzák:)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § Az R1. 17. § (1) bekezdése a következő c) ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
