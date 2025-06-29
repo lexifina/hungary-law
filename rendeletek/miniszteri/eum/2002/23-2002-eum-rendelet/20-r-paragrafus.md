@@ -18,7 +18,7 @@ aa)[^91] a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont ba) al
 
 ab) a 235/2009. (X. 20.) Korm. rendelet 17. § (1) bekezdés b) pont bb) alpontja szerinti vizsgálatnál engedélyezés esetén 200 000 forint, módosítás esetén 80 000 forint;
 
-b)[^92] a 235/2009. (X. 20.) Korm. rendelet szerinti orvostechnikai eszközök beavatkozással nem járó vizsgálatának, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat bejelentése és a vizsgálati terv jelentős vagy lényeges módosításának bejelentése esetében 74 000 Ft;
+b)[^92] a 235/2009. (X. 20.) Korm. rendelet szerinti orvostechnikai eszközök beavatkozással nem járó vizsgálatának, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat bejelentése és a vizsgálati terv jelentős vagy lényeges módosításának bejelentése esetében 99 000 forint;
 
 c)[^93] az a)–b) pontba nem tartozó esetekben 294 000 Ft.
 
@@ -62,7 +62,7 @@ tekintetében értelemszerűen kell alkalmazni azzal, hogy az illetékhivatal he
 [^89]: A 20/R. § (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^90]: A 20/R. § (3) bekezdés a) pontja a 15/2012. (VIII. 22.) EMMI rendelet 22. § (2) bekezdésével megállapított, a 2/2022. (I. 14.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
 [^91]: A 20/R. § (3) bekezdés a) pont aa) alpontja a 3/2014. (I. 16.) EMMI rendelet 2. §-a, a 61/2024. (XII. 30.) BM rendelet 4. § a) pontja szerint módosított szöveg.
-[^92]: A 20/R. § (3) bekezdés b) pontja a 35/2021. (VIII. 16.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 13/2022. (IV. 29.) EMMI rendelet 18. § 12. pontja szerint módosított szöveg. [A 61/2024. (XII. 30.) BM rendelet 4. § b) pontjában foglalt azon módosítás, amely szerint a 20/R. § (3) bekezdés b) pontjában a „74 000 forint” szövegrész helyébe a „99 000 forint” szöveg lép, nem vezethető át.]
+[^92]: A 20/R. § (3) bekezdés b) pontja a 35/2021. (VIII. 16.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 13/2022. (IV. 29.) EMMI rendelet 18. § 12. pontja, a 16/2025. (V. 29.) BM rendelet 6. §-a szerint módosított szöveg.
 [^93]: A 20/R. § (3) bekezdés c) pontja a 34/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^94]: A 20/R. § (5) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^95]: A 20/R. § (8) bekezdés záró szövegrésze a 15/2012. (VIII. 22.) EMMI rendelet 25. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § o) pontja szerint módosított szöveg.

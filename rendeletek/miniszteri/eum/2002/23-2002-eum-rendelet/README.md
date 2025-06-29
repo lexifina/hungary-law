@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-23-20-0
 | 2023-08-11 | 2002-23-20-0B.31 | 28/2023. (VIII. 10.) BM rendelet |
 | 2025-01-30 | 2002-23-20-0B.32 | 3/2014. (I. 16.) EMMI rendelet |
 | 2025-06-11 | 2002-23-20-0B.34 | 17/2025. (VI. 4.) BM rendelet |
+| 2025-06-29 | 2002-23-20-0B.33 | 35/2021. (VIII. 16.) EMMI rendelet |
