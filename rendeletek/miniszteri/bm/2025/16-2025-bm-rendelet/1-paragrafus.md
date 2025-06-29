@@ -46,6 +46,4 @@
 
 ## 1. A népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról szóló 50/1996. (XII. 27.) NM rendelet módosítása
 
-1. §[^1]
-
-[^1]: Az 1. § a 30. § (2) bekezdése alapján 2025. június 29-én lép hatályba.
+1. § A népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról szóló 50/1996. (XII. 27.) NM rendelet [a továbbiakban: 50/1996. (XII. 27.) NM rendelet] 1. számú mellékletében foglalt táblázat I. pont I.7. alpontjában a „továbbá új pszichoaktív anyagok és új pszichoaktív anyagok” szövegrész helyébe a „továbbá új pszichoaktív anyagok és új pszichoaktív anyag tartalmú készítmények” szöveg lép.

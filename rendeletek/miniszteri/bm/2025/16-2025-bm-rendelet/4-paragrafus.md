@@ -1,3 +1,3 @@
-4. §[^4]
+4. §[^2]
 
-[^4]: A 4. § a 30. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^2]: A 4. § a 30. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
