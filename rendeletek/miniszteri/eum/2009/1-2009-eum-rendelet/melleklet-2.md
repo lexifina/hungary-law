@@ -44,7 +44,7 @@
 
 | I.3.6. | Személyes gyógyszertár működtetési jog (személyi jog) átruházásának engedélyezése | 6 750 Ft |
 
-| I.3.7. | Fiókgyógyszertár áthelyezésének engedélyezése | 5 000 Ft |
+| I.3.7.[^17] | Fiókgyógyszertár áthelyezésének engedélyezése | 6 750 Ft |
 
 | I.3.8. | Fiókgyógyszertár létesítésének engedélyezése | 40 500 Ft |
 
@@ -64,11 +64,11 @@
 
 | IV. | Vizekkel kapcsolatos közegészségügyi igazgatási szolgáltatások |  |
 
-| IV.1. | Laboratóriumnak a közfürdők, illetve természetes fürdőhelyek fürdővizének ellenőrzésére történő feljogosítása | 125 010 Ft |
+| IV.1.[^18] | Laboratóriumnak a közhasználatú fürdők, illetve természetes fürdőhelyek fürdővizének ellenőrzésére történő feljogosítása | 125 010 Ft |
 
 | IV.2. | Egyedi felmentés szűrő-forgató berendezés létesítése, üzemeltetése alól | 81 000 Ft |
 
-| IV.3. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatának jóváhagyása | 47 115 Ft |
+| IV.3.[^19] | Közhasználatú fürdők közegészségügyi-technológiai szabályzatának igazolása, jóváhagyása | 47 115 Ft |
 
 | IV.4. | Természetes fürdőhely kijelölési eljárás | 64 800 Ft |
 
@@ -210,11 +210,11 @@
 
 | VIII.1. | Légi szúnyogirtás engedélyezése | 24 500 Ft |
 
-| IX. | Természetes gyógytényezőkkel és ásványvizekkel kapcsolatos igazgatási szolgáltatások |  |
+| IX.[^20] | Természetes gyógytényezőkkel és ásványvizekkel kapcsolatos igazgatási szolgáltatások |  |
 
 | IX.1. | Gyógyfürdőintézmény megnevezés használatának engedélyezése | 162 000 Ft |
 
-| IX.2 | Elismert ásványvíz megnevezés használatának engedélyezése | 81 000 Ft |
+| IX.2. | Elismert ásványvíz megnevezés használatának engedélyezése | 81 000 Ft |
 
 | IX.3. | Elismert ásványvíz gyógyvízzé történő átminősítésének engedélyezése | 63 450 Ft |
 
@@ -222,29 +222,29 @@
 
 | IX.5. | Gyógyiszap és egyéb természetes gyógytényező megnevezés használatának engedélyezése | 117 450 Ft |
 
-| IX.6. | Korábban kiadott engedély módosítása, felülvizsgálata | 41 000 Ft |
+| IX.6. | Korábban kiadott engedély módosítása, felülvizsgálata | 55 360 Ft |
 
 | IX.7. | Közegészségügyi tájékoztatás adása a gyógyhely és védőterület határai kijelölésére, valamint a levegőterheltségi szint mérési pontok megfelelőségére vonatkozóan | 49 410 Ft |
 
 | IX.8. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a kitermelés körülményeinek közegészségügyi szempontú vizsgálata) | 31 500 Ft |
 
-| IX.8. | Település egésze vagy meghatározott része gyógyhellyé nyilvánításának engedélyezése | 160 000 Ft |
+| IX.9. | Település egésze vagy meghatározott része gyógyhellyé nyilvánításának engedélyezése | 210 000 Ft |
 
-| IX.11. | Gyógyhellyé nyilvánítás engedélyezésében szakhatósági közreműködés (környezet-egészségügyi szempontú feltételek vizsgálata) | 380 000 Ft |
+| IX.10. | Gyógyhellyé nyilvánítás engedélyezésében szakhatósági közreműködés (környezet-egészségügyi szempontú feltételek vizsgálata) | 380 000 Ft |
 
-| IX.12. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a gyógytényező felhasználhatósága formájának, azaz külsőleg vagy belsőleg történő felhasználásának, feltételeinek, a korlátozással fogyasztható vizek fogyasztási előírásainak, valamint az esetleges víz- és iszapkezelési technológiai eljárásoknak a közegészségügyi szempontú vizsgálata) | 120 000 Ft |
+| IX.11. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a gyógytényező felhasználhatósága formájának, azaz külsőleg vagy belsőleg történő felhasználásának, feltételeinek, a korlátozással fogyasztható vizek fogyasztási előírásainak, valamint az esetleges víz- és iszapkezelési technológiai eljárásoknak a közegészségügyi szempontú vizsgálata) | 120 000 Ft |
 
-| IX.13. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a vizet adó kút vagy forrás egy, már korábban gyógyvíz minősítést kapott kút vagy forrás védőterületén, védőidomán belül van, azonos vízadó rétegből kapja a vizet, és a két víz kémiai összetétele a természetes ingadozás határain (maximum 20% változás) belül megegyezik) | 30 000 Ft |
+| IX.12. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a vizet adó kút vagy forrás és egy, már korábban gyógyvíz minősítést kapott kút vagy forrás vízének kémiai összetétele a természetes ingadozás határain belül – legfeljebb húsz százalék változás – megegyezik) | 30 000 Ft |
 
-| IX.14. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (az orvosi megfigyelések értékelése, amely tartalmazza a javallatokat, ellenjavallatokat és az alkalmazási előírásokat is.) | 120 000 Ft |
+| IX.13. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (az orvosi megfigyelések értékelése, amely tartalmazza a javallatokat, ellenjavallatokat és az alkalmazási előírásokat is) | 120 000 Ft |
 
-| IX.15. | Szűrő-forgató rendszer létesítése, üzemeltetése alóli felmentés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a gyógyvíz minősége alapján a felmentés feltételei teljesülnek-e, továbbá, hogy, a gyógyvíz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a vízforgatás károsítja-e) | 120 000 Ft |
+| IX.14. | Szűrő-forgató rendszer létesítése, üzemeltetése alóli felmentés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a gyógyvíz minősége alapján a felmentés feltételei teljesülnek-e, továbbá, hogy a gyógyvíz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a vízforgatás károsítja-e) | 120 000 Ft |
 
-| IX.16. | Szűrő-forgató rendszer létesítése, üzemeltetése alóli felmentés engedélyezésében szakhatósági közreműködés (annak vizsgálata, hogy a kérelemben rögzített nyitvatartási- és geometriai adatok mellett bizonyítottan rendelkezésre áll-e (a vízjogi üzemeltetési engedélyben szereplő engedélyezett vízkivétel figyelembevételével) a minimálisan biztosítandó 30%-os felületi terheléshez szükséges vízmennyiség mind napi, mind éves vonatkozásban) | 115 000 Ft |
+| IX.15. | Szűrő-forgató rendszer létesítése, üzemeltetése alóli felmentés engedélyezésében szakhatósági közreműködés [annak vizsgálata, hogy a kérelemben rögzített nyitvatartási és geometriai adatok mellett bizonyítottan rendelkezésre áll-e (a vízjogi üzemeltetési engedélyben szereplő engedélyezett vízkivétel figyelembevételével) a minimálisan biztosítandó 30%-os felületi terheléshez szükséges vízmennyiség mind napi, mind éves vonatkozásban] | 115 000 Ft |
 
-| IX.17. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatot jóváhagyó eljárásban szakhatósági közreműködés (egyedi kút vizének és egyéb vizek közegészségügyi szempontú vizsgálata fürdési célú létesítmény tápvizeként történő felhasználására) | 120 000 Ft |
+| IX.16. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatot jóváhagyó eljárásban szakhatósági közreműködés (egyedi kút vizének és egyéb vizek közegészségügyi szempontú vizsgálata fürdési célú létesítmény tápvizeként történő felhasználására) | 120 000 Ft |
 
-| IX.18. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatot jóváhagyó eljárásban szakhatósági közreműködés (szűrő-forgató berendezéssel üzemeltetett fürdési célú létesítményben elismert ásvány- és gyógyvíz, vagy egyedi összetételű tápvíz felhasználása esetén a kémiai paraméterek tekintetében a medencevízre vonatkozó előírásoktól való eltérés vizsgálata) | 120 000 Ft |
+| IX.17. | Közhasználatú fürdők közegészségügyi-technológiai szabályzatot jóváhagyó eljárásban szakhatósági közreműködés (fürdési célú létesítményben elismert ásvány- és gyógyvíz, vagy egyedi összetételű tápvíz felhasználása esetén a kémiai paraméterek tekintetében a medencevízre és a szűrt vízre vonatkozó előírásoktól való eltérés vizsgálata) | 120 000 Ft |
 
 | X. | Más hatóság eljárásában történő közreműködéssel kapcsolatos igazgatási szolgáltatások |  |
 
@@ -252,13 +252,13 @@
 
 | X.4. | Vízbázisok védelmével kapcsolatos szakhatósági közreműködés | 41 445 Ft |
 
-| X.5. | Fürdési célú gázveszélyes víz igénybevételével kapcsolatos szakhatósági közreműködés | 31 725 Ft |
+| X.5.[^21] |  |  |
 
 | X.6. | Elvi vízjogi engedélyezési vízjogi létesítési, üzemeltetési és fennmaradási engedélyezési eljárásokban történő szakhatósági közreműködés | 32 265 Ft |
 
 | X.7. | Felszíni víz ivóvízként való felhasználására vonatkozó eljárásban szakhatósági közreműködés | 32 265 Ft |
 
-| X.8. | Közfürdő védőterületének kialakításában való szakhatósági közreműködés | 27 270 Ft |
+| X.8.[^22] | Közhasználatú fürdő védőterületének kialakításában való szakhatósági közreműködés | 27 270 Ft |
 
 | X.9. | 50 főnél kevesebb személyt ellátó, vagy napi 10 m3-nél kevesebb vizet szolgáltató vízellátó rendszer közegészségügyi feltételeinek megállapítása | 27 270 Ft |
 
@@ -294,7 +294,7 @@
 
 | XII.3. | A jogszabályban foglaltaktól eltérő dohányzási tilalmat jelző felirat engedélyezése | 20 250 Ft |
 
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^17]
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^23]
 
 |  | A | B |
 
@@ -348,4 +348,10 @@
 
 | 24 | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^17]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a, a 28/2023. (VIII. 10.) BM rendelet 49. § b) pontja és 50. §-a szerint módosított szöveg.
+[^17]: Az 1. mellékletben foglalt táblázat I.3.7. sora a 16/2025. (V. 29.) BM rendelet 7. §-a szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat IV.1. sora a 16/2025. (V. 29.) BM rendelet 7. §-a szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat IV.3. sora a 16/2025. (V. 29.) BM rendelet 7. §-a szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat IX. alcíme a 16/2025. (V. 29.) BM rendelet 7. §-ával megállapított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat X.5. sorát a 16/2025. (V. 29.) BM rendelet 7. §-a hatályon kívül helyezte.
+[^22]: Az 1. mellékletben foglalt táblázat X.8. sora a 16/2025. (V. 29.) BM rendelet 7. §-a szerint módosított szöveg.
+[^23]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a, a 28/2023. (VIII. 10.) BM rendelet 49. § b) pontja és 50. §-a szerint módosított szöveg.
