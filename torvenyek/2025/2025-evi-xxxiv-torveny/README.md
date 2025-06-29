@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-34-00-00
 | 2025-06-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-34-00-00.1 |
 | 2025-06-03 | 2010. évi CXXX. törvény | 2025-34-00-00.2 |
 | 2025-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-34-00-00.3 |
+| 2025-06-29 | 2010. évi CXXX. törvény | 2025-34-00-00.4 |
