@@ -16,12 +16,21 @@ ae) az egyes tulajdonostársak kizárólagos tulajdonába kerülő lakások, ill
 
 af) a közös tulajdonban lévő részekből az egyes tulajdonostársakat megillető tulajdoni hányadot;
 
-b) tartalmazhatja a társasházakról szóló 2003. évi CXXXIII. törvény (a továbbiakban: Tht.) 10. § (2) bekezdése alapján a közös tulajdon átruházására az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársakat feljogosító rendelkezést.
+b)[^74]
 
-(3) Az alapító okirat tartalmazhatja a Tht. 10. § (3) bekezdése szerinti, az összes tulajdoni hányad legalább négyötödét képviselő tulajdonostársaknak a közös tulajdon átruházásáról szóló közgyűlési határozata szerinti módosítást.
+(3)[^75] Az alapító okirat tartalmazhatja az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársaknak a társasházakról szóló 2003. évi CXXXIII. törvény
+
+a) 10. § (2) bekezdésén alapuló – a közös tulajdon elidegenítéséről szóló –, valamint
+
+b) 10. § (8) bekezdés b) pontján alapuló – a társasházi közös tulajdon elidegenítésével kapcsolatban megvalósuló építkezés eredményeként szükségessé váló alapítóokirat-módosításra vonatkozó –
+
+közgyűlési határozata szerinti módosítását.
 
 (4) Ha a szervezeti-működési szabályzatot vagy annak módosítását jogszabályban meghatározottak szerint az ingatlanügyi hatósághoz benyújtják, azokat az eljáró hatóságnak az ingatlan-nyilvántartási iratokhoz kell csatolnia.
 
 (5) Társasházi lakás, illetve nem lakás céljára szolgáló önálló rendeltetési egység vagy helyiség megosztásához, illetve társasházi lakások, illetve nem lakás céljára szolgáló önálló rendeltetési egységek vagy helyiségek összevonásához alaprajzon kívül az alapító okirat módosítását tartalmazó okirat is szükséges.
 
 (6) Társasházban építés útján keletkezett új társasházi lakás, illetve nem lakás céljára szolgáló önálló rendeltetési egység vagy helyiség bejegyzésére irányuló kérelemhez az alapító okirat módosítására vonatkozó okiratot és kiegészítő alaprajzot is csatolni kell. Ezt a rendelkezést kell alkalmazni akkor is, ha a közös tulajdonban álló épületrészekből keletkezett új társasházi lakás, illetve nem lakás céljára szolgáló önálló rendeltetési egység vagy helyiség nyilvántartásba vételét kérik.
+
+[^74]: A 104. § (2) bekezdés b) pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § e) pontja hatályon kívül helyezte.
+[^75]: A 104. § (3) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

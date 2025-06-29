@@ -1,3 +1,3 @@
-174. §[^112]
+174. §[^130]
 
-[^112]: A 174. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 174. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -6,6 +6,6 @@
 
 (3) Ha jogszabály így rendelkezik, az állami tulajdonban álló föld, illetve a földön lévő állami tulajdonban álló épület vonatkozásában más-más vagyonkezelő is bejegyezhető az ingatlan-nyilvántartásba.
 
-(4)[^43] A bejegyzett közfeladathoz rendelt vagyonkezelői jog hatálya azonos a szerződésen alapuló elidegenítési és terhelési tilalomra vonatkozó bejegyzés hatályával.
+(4)[^49] A bejegyzett közfeladathoz rendelt vagyonkezelői jog hatálya azonos a szerződésen alapuló elidegenítési és terhelési tilalomra vonatkozó bejegyzés hatályával.
 
-[^43]: A 44. § (4) bekezdését a 287/2024. (IX. 30.) Korm. rendelet 8. §-a iktatta be.
+[^49]: A 44. § (4) bekezdését a 287/2024. (IX. 30.) Korm. rendelet 8. §-a iktatta be.

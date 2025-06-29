@@ -18,7 +18,7 @@
 
 8. az egyéb önálló ingatlan tulajdonosával, ha a földrészlet tulajdonjogát ruházták át,
 
-9.[^96] bányatelek jogi jelleget érintő telekalakítás bejegyzése esetén a bányafelügyelettel,
+9.[^112] bányatelek jogi jelleget érintő telekalakítás bejegyzése esetén a bányafelügyelettel,
 
 10. ha az érdekelt kiskorú vagy gondnokság alatt áll, feltéve, hogy az erre vonatkozó utalást adatként a tulajdoni lap tartalmazza, a gyámhatósággal,
 
@@ -30,7 +30,7 @@ b) nem kötött szerzése esetén a bejegyzés alapját képező okirat másolat
 
 a mezőgazdasági igazgatási szervvel.
 
-12.[^97] a bírósági elrendelést benyújtó bírósággal és hatósági felhívást kiadó hatósággal.
+12.[^113] a bírósági elrendelést benyújtó bírósággal és hatósági felhívást kiadó hatósággal.
 
 (2) A tulajdonjog, valamint az illetékfizetési kötelezettséggel járó más vagyoni értékű jogok változásának bejegyzéséről szóló határozatot illetékkiszabás céljából meg kell küldeni az állami adóhatóságnak. A bejegyzési határozathoz mellékelni kell az illetékkiszabáshoz szükséges egyéb olyan iratokat is, amelyek az ingatlanügyi hatóság rendelkezésére állnak.
 
@@ -42,5 +42,5 @@ a) a kérelemben meg kell jelölni azt a címet, ahová a fél a döntés kézbe
 
 b) a bejegyzési kérelemhez mellékelni kell a fél magyarországi kézbesítési meghatalmazottjának nevét és lakcímét, illetve székhelyét vagy telephelyét, a kézbesítési meghatalmazott meghatalmazását, valamint a meghatalmazás elfogadását tartalmazó okiratot.
 
-[^96]: A 138. § (1) bekezdés 9. pontja a 287/2024. (IX. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^97]: A 138. § (1) bekezdés 12. pontját a 483/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^112]: A 138. § (1) bekezdés 9. pontja a 287/2024. (IX. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^113]: A 138. § (1) bekezdés 12. pontját a 483/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.

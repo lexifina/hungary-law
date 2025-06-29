@@ -4,6 +4,6 @@
 
 ## 63. Az eljárás általános szabályai
 
-112. §[^74] A vagyonszerzési illeték megállapításához szükséges nyilatkozatokat az ügyfél vagy jogi képviselője az adóhatóság informatikai rendszerében vagy az adóhatóság előtt papíralapon teszi meg. Az adóhatóság informatikai rendszerét az ingatlan-nyilvántartás vezetését támogató informatikai rendszerből elérhetővé kell tenni.
+112. §[^88] A vagyonszerzési illeték megállapításához szükséges nyilatkozatokat az ügyfél vagy jogi képviselője az adóhatóság informatikai rendszerében vagy az adóhatóság előtt papíralapon teszi meg. Az adóhatóság informatikai rendszerét az ingatlan-nyilvántartás vezetését támogató informatikai rendszerből elérhetővé kell tenni.
 
-[^74]: A 112. § a 483/2024. (XII. 31.) Korm. rendelet 25. § 7. pontja szerint módosított szöveg.
+[^88]: A 112. § a 483/2024. (XII. 31.) Korm. rendelet 25. § 7. pontja szerint módosított szöveg.
