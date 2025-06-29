@@ -10,6 +10,6 @@
 
 | 5. | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
 
-3/A. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^31]
+3/A. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^34]
 
-[^31]: A 3/A. számú mellékletet a 23/2015. (IV. 28.) EMMI rendelet 9. § (2) bekezdése iktatta be, szövege a 48/2022. (XII. 27.) BM rendelet 1. § b) és c) pontja szerint módosított szöveg.
+[^34]: A 3/A. számú mellékletet a 23/2015. (IV. 28.) EMMI rendelet 9. § (2) bekezdése iktatta be, szövege a 48/2022. (XII. 27.) BM rendelet 1. § b) és c) pontja szerint módosított szöveg.

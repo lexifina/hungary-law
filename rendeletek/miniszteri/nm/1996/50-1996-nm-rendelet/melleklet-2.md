@@ -12,7 +12,7 @@
 
 | I.6. | Eseti export-import engedély kiadása szállítmányonként | 80 000 Ft |
 
-| I.7. | Ipari vagy étkezési mákszalma, díszítőmák, kannabisz, valamint ipari mák és magas THC tartalmú kender bármely része, továbbá biológiai minták, standardok, továbbá új pszichoaktív anyagok és új pszichoaktív anyagok eseti export-import engedélyének kiadása szállítmányonként | 16 000 Ft |
+| I.7.[^29] | Ipari vagy étkezési mákszalma, díszítőmák, kannabisz, valamint ipari mák és magas THC tartalmú kender bármely része, továbbá biológiai minták, standardok, továbbá új pszichoaktív anyagok és új pszichoaktív anyag tartalmú készítmények eseti export-import engedélyének kiadása szállítmányonként | 16 000 Ft |
 
 | I.8. | Becslésmódosítási kérelem, tételenként | 80 000 Ft |
 
@@ -34,7 +34,7 @@
 
 | II.6. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz EU-n kívül történő forgalmazásához angol nyelven, az igazolásban 60 termékig, majd minden további 60 termékenként | 47 250 Ft |
 
-| II.7. | Szakvélemény kiállítása az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet és az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet, valamint a 8/2003. ESZCSM rendelet és az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet követelményeinek való megfelelés tekintetében | 54 000 Ft |
+| II.7.[^30] |  |  |
 
 | II.8. | A megfelelőségértékelési eljárásoktól való eltéréssel érintett orvostechnikai vagy in vitro diagnosztikai orvostechnikai eszköz forgalomba hozatalának vagy használatba vételének engedélyezése | 81 810 Ft |
 
@@ -42,7 +42,7 @@
 
 | II.10. | Ionizáló sugárzást alkalmazó orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 397 845 Ft/kérelem |
 
-| II.11. | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével, valamint a 8/2003. ESZCSM rendelet 7/A. § (2) bekezdése és 16. § (1g) bekezdése szerinti bejelentés. | 89 100 Ft/kérelem |
+| II.11.[^31] | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés, valamint a 8/2003. ESZCSM rendelet 7/A. § (2) bekezdése és 16. § (1g) bekezdése szerinti bejelentés. | 89 100 Ft/kérelem |
 
 | III. | Európai Egészségbiztosítási Kártya, illetve TAJ-számot igazoló okmány kiadással kapcsolatos igazgatási szolgáltatás |  |
 
@@ -58,6 +58,9 @@
 
 | VI.1. | A tevékenységi engedély kiadás | 220 000 Ft (ebből a szakhatósági eljárás díja: 110 000 Ft) |
 
-2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^29]
+2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^32]
 
-[^29]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+[^29]: Az 1. számú mellékletében foglalt táblázat I. pont I.7. alpontja a 16/2025. (V. 29.) BM rendelet 1. §-a szerint módosított szöveg.
+[^30]: Az 1. számú mellékletében foglalt táblázat II. pont II.7. alpontját a 16/2025. (V. 29.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^31]: Az 1. számú mellékletében foglalt táblázat II. pont II.11. alpontja a 16/2025. (V. 29.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^32]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.

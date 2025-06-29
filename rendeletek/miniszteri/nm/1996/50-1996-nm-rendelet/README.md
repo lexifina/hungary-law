@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-50-20-3
 | 2023-08-11 | 1996-50-20-3D.41 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2024-01-23 | 1996-50-20-3D.42 | 2/2009. (I. 30.) EüM rendelet |
 | 2025-01-30 | 1996-50-20-3D.43 | 61/2024. (XII. 30.) BM rendelet |
+| 2025-06-29 | 1996-50-20-3D.44 | 16/2025. (V. 29.) BM rendelet |

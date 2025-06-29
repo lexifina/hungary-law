@@ -40,6 +40,6 @@
 
 | 20 | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-4. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^32]
+4. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^35]
 
-[^32]: A 4. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+[^35]: A 4. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
