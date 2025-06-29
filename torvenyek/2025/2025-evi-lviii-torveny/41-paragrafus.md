@@ -32,15 +32,15 @@
 
 16.
 
-17. „Nemzeti érdekű nyilvános gyűjtemény” alcíme,
+17.
 
-18. „Közérdekű kulturális érték” alcíme,
+18.
 
 19.
 
 20.
 
-21. 71. § (2) bekezdés h) pontja,
+21.
 
 22.
 
