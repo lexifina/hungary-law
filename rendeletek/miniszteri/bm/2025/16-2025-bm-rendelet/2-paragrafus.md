@@ -1,5 +1,3 @@
-2. § Hatályát veszti az 50/1996. (XII. 27.) NM rendelet 1. számú mellékletében foglalt táblázat II. pont
+2. §[^2]
 
-a) II.7. alpontja,
-
-b) II.11. alpontjában az „a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével” szövegrész.
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
