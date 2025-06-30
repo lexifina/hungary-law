@@ -19,3 +19,5 @@ f) az önkéntes távozással elrendelt kiutasítás esetén a figyelmeztetést 
 (2a) A kiutasítás elrendeléséről szóló, véglegessé vált határozattal szembeni közigazgatási perben halasztó hatály elrendelésének nincs helye.
 
 (3) A (2) bekezdéstől eltérően a 98. § (4) bekezdése szerinti kiutasítást elrendelő határozat ellen indított közigazgatási perben tárgyalás tartása nem kérhető. A bíróság a keresetlevélről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül, tárgyaláson kívül dönt, és ítéletét három napon belül közli a peres felekkel.
+
+(4) A 98. § (1) bekezdés d) pontja alapján elrendelt kiutasításról szóló határozat ellen indított közigazgatási perben a bíróság a kiutasításról szóló határozatot nem változtathatja meg, a bíróság a határozatok törvényességéről a közigazgatási szerv eljárásának vizsgálata alapján dönt. Ha az idegenrendészeti hatóság döntését minősített adatra alapozta, a bíróság a keresetlevél, a védirat és az ügy iratainak megküldésével a felperes érdekeinek védelmére felhívja az ügyészséget a perbelépésre, az ügyészség perbelépése kötelező.
