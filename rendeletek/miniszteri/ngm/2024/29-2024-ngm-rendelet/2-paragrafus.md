@@ -4,7 +4,7 @@
 
 a) rendelkezik felsőfokú végzettséggel;
 
-b)[^1]
+b) a Magyar Gazdaságfejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: vállalkozásfejlesztési ügynökség) által akkreditált ESG tanácsadókat oktató intézmény által szervezett ESG tanácsadói képzés keretében ESG Tanácsadó képesítést szerzett;
 
 c) rendelkezik a tevékenység folytatásához szükséges, 3. § szerinti igazolt szakmai gyakorlattal;
 
@@ -45,5 +45,3 @@ c) az a) pont szerinti személy tulajdonában álló jogi személy; vagy
 d) olyan jogi személy, amelynek vezető tisztségviselője, munkavállalója vagy személyesen közreműködő tagja az a) pont szerinti személy.
 
 (6) Ha a természetes személy ügyfél az ESG tanácsadói tevékenységet egyéni vállalkozói jogviszonyban kívánja folytatni, abban az esetben is a természetes személy ügyfélre meghatározott követelményeknek kell megfelelnie.
-
-[^1]: A 2. § (2) bekezdés b) pontja a 6. § (2) bekezdése alapján 2025. június 30-án lép hatályba.
