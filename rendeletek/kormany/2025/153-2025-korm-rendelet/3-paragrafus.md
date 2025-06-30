@@ -1,9 +1,3 @@
-3. § Az Inyvhr. 104. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(3) Az alapító okirat tartalmazhatja az összes tulajdoni hányad legalább kétharmadát képviselő tulajdonostársaknak a társasházakról szóló 2003. évi CXXXIII. törvény
-
-a) 10. § (2) bekezdésén alapuló – a közös tulajdon elidegenítéséről szóló –, valamint
-
-b) 10. § (8) bekezdés b) pontján alapuló – a társasházi közös tulajdon elidegenítésével kapcsolatban megvalósuló építkezés eredményeként szükségessé váló alapítóokirat-módosításra vonatkozó –
-
-közgyűlési határozata szerinti módosítását.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

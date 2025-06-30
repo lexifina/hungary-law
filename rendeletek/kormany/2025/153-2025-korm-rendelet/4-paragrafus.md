@@ -1,3 +1,3 @@
-4. § Az Inyvhr. a következő 113/A. §-sal egészül ki:
+4. §[^5]
 
-„113/A. § Ha a kérelem benyújtása nem ingatlan-nyilvántartási elektronikus űrlapon történik, a közjegyző az Inytv. 42. § (1) bekezdése szerinti képviseleti jogosultságát az általa papíralapon vagy elektronikusan szerkesztett általános vagy egyedi felhatalmazással igazolja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
