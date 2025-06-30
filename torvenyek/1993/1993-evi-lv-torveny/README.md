@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-55-00-00
 | 2023-11-01 | 2023. évi LXX. törvény | 1993-55-00-00.40 |
 | 2024-01-01 | 2023. évi CIX. törvény | 1993-55-00-00.41 |
 | 2024-11-01 | 2024. évi XLI. törvény | 1993-55-00-00.42 |
+| 2025-06-30 | 2025. évi LXIV. törvény | 1993-55-00-00.43 |

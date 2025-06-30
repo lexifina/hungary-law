@@ -21,3 +21,5 @@ f) a névmódosítási kérelemhez a névmódosítási kérelemben foglaltak al�
 a) jelölje ki az eskütételi igazgatási szervet,
 
 b) határozza meg az eskütételi igazgatási szerv részletes feladat- és hatáskörét, valamint eljárásának szabályait.
+
+(6) Felhatalmazást kap a Kormány, hogy a magyar állampolgárság felfüggesztésének, valamint a magyar állampolgárság visszaállításának és visszaállásának tárgyában döntést hozó minisztert rendeletben kijelölje.

@@ -1,1 +1,7 @@
-26. § E törvény 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) és (5) bekezdése, 9. § (1), (4) és (5) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése alapján sarkalatosnak minősül.
+26. § E törvény
+
+a) 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) és (5) bekezdése, 9. § (1), (4) és (5) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése,
+
+b) 9/A–9/E. §-a az Alaptörvény G) cikk (3) és (4) bekezdése
+
+alapján sarkalatosnak minősül.
