@@ -20,7 +20,7 @@ b) a Hatóság elnökének rendeletében meghatározott igazgatási szolgáltat�
 
 a) az NGM rendelet 2. § (2) bekezdés a) pontja szerinti követelmény teljesítését a felsőfokú végzettséget igazoló okirat másolatával,
 
-b)[^1]
+b) az NGM rendelet 2. § (2) bekezdés b) pontja szerinti követelmény teljesítését az ESG Tanácsadó képesítés megszerzését igazoló okirat másolatával,
 
 c) az NGM rendelet 2. § (2) bekezdés d) pontja szerinti követelmény teljesítését teljes bizonyító erejű magánokiratba foglalt nyilatkozattal,
 
@@ -29,5 +29,3 @@ d) az NGM rendelet 2. § (2) bekezdés e) pontja szerinti követelmény teljesí
 e) az NGM rendelet 2. § (2) bekezdés f) pontja esetében – ha a természetes személy kérelmező nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – az állami adó- és vámhatóság nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó adótartozásról szóló – a kérelem benyújtásának időpontjától számított 30 napnál nem régebbi – adóigazolással
 
 igazolja.
-
-[^1]: A 3. § (5) bekezdés b) pontja a 16. § (2) bekezdése alapján 2025. június 30-án lép hatályba.
