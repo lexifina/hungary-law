@@ -4,6 +4,8 @@
 
 (2) A lefoglalást elrendelő végzéssel szemben az, akinek jogát vagy jogos érdekét az ügy közvetlenül érinti, – a 100. § (4) bekezdése szerinti eset kivételével – jogszabálysértésre hivatkozással kifogással élhet. A kifogást a végzés közlésétől számított 8 napon belül kell benyújtani az állami adó- és vámhatósághoz. A kifogást az állami adó- és vámhatóság felettes szerve a benyújtástól számított 15 napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
 
+(2a) A lefoglalást elrendelő végzés elektronikus formában történő elkészítése esetén az állami adó- és vámhatóság a döntését szóban is közli azzal a személlyel, akitől a dolgot lefoglalja és a szóbeli közlés megtörténtét a lefoglalásról készített végzés részét képező jegyzőkönyvben rögzíti.
+
 (3) A lefoglalást meg kell szüntetni
 
 a) arra a dologra, amire a jövedéki ügy eredményes lefolytatása érdekében már nincs szükség,
