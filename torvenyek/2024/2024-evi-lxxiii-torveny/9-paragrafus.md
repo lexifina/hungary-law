@@ -26,9 +26,9 @@ l)
 
 m)
 
-n)
+n) 36/A. § (1) bekezdés k) pontja,
 
-o)
+o) 36/A. § (2) bekezdés f) pontja,
 
 p)
 
