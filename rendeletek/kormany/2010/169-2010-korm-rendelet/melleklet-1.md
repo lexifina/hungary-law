@@ -148,7 +148,7 @@ b) a repülőtéri belépés-ellenőrzést végző, a megfigyelésben és az őr
 
 8.8.1. A képzés a védelmi tiszteknek szükséges, valamint a több telephellyel rendelkező meghatalmazott ügynökök, ismert szállítók vagy meghatalmazott beszállítók védelmi felelőseinek, illetve a repülőtéri készletek ismert beszállítói védelmi felelőseinek.
 
-8.8.2.[^221] A védelmi tisztek alapképzését e-learning rendszer keretében a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. (a továbbiakban: KTI) szervezi és tartja a légiközlekedési hatóság által jóváhagyott tananyag alapján. A védelmi felelősök képzésének időtartama 20 óra.
+8.8.2.[^221] A védelmi tisztek alapképzését e-learning rendszer keretében a Közlekedéstudományi Intézet (a továbbiakban: KTI) szervezi és tartja a légiközlekedési hatóság által jóváhagyott tananyag alapján. A védelmi felelősök képzésének időtartama 20 óra.
 
 8.8.3.[^222]
 
@@ -483,7 +483,7 @@ f) oktató / felelős személy aláírása vagy elektronikus aláírás.
 22.1. A 12.2. pontban hivatkozott oktatói tanfolyam elvégzését 2024. július 1-ig kell igazolni.
 
 [^220]: Az 1. mellékletet az 53. § (1) bekezdése hatályon kívül helyezte, újonnan a 409/2023. (VIII. 30.) Korm. rendelet 23. §-a iktatta be.
-[^221]: Az 1. melléklet 8. pont 8.8. alpont 8.8.2. pontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^221]: Az 1. melléklet 8. pont 8.8. alpont 8.8.2. pontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított, a 141/2025. (VI. 19.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^222]: Az 1. melléklet 8. pont 8.8. alpont 8.8.3. pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § f) pontja hatályon kívül helyezte.
 [^223]: Az 1. melléklet 8. pont 8.8. alpont 8.8.5. pontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
 [^224]: Az 1. melléklet 8. pont 8.9. alpont 8.9.3. pontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
