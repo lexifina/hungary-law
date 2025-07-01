@@ -18,6 +18,6 @@ e) bármely olyan tényező, amely a befektetési vállalkozás jelentette kock�
 
 (4) A Felügyelet a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága kérésére köteles részére részletes magyarázatot adni arról, hogy a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága által átadott információkat és megállapításokat a (3) bekezdés szerinti intézkedések során hogyan vette figyelembe.
 
-(5) Ha a Felügyelet szerint az általa átadott információk és megállapítások alapján a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága nem tette meg a (3) bekezdés szerinti szükséges intézkedéseket az ügyfelek védelme vagy a pénzügyi rendszer stabilitásának biztosítása érdekében, a Felügyelet teszi meg a szükséges intézkedéseket.
+(5) Ha a Felügyelet szerint az általa átadott információk és megállapítások alapján a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága nem tette meg a (3) bekezdés szerinti szükséges intézkedéseket az ügyfelek védelme vagy a pénzügyi rendszer stabilitásának biztosítása érdekében, a Felügyelet teszi meg a szükséges intézkedéseket.
 
-(6) Az (5) bekezdés szerinti szükséges intézkedések megtételét megelőzően a Felügyelet erről tájékoztatja a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatóságát, az EBH-t és az Európai Értékpapír-piaci Hatóságot.
+(6) Az (5) bekezdés szerinti szükséges intézkedések megtételét megelőzően a Felügyelet erről tájékoztatja a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát, az EBH-t és az Európai Értékpapír-piaci Hatóságot.

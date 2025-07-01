@@ -16,7 +16,7 @@ b) készítsen a megfelelés helyreállítására vonatkozó tervet határidő m
 
 (5) A (4) bekezdés b) pontja szerinti esetben a befektetési vállalkozás módosítja a tervet, ha a Felügyelet álláspontja szerint a tervben meghatározottak alapján nem valószínűsíthető a vonatkozó követelményeknek való teljes megfelelés biztosítása vagy a kitűzött határidő nem megfelelő.
 
-(6) Ha bizonyíthatóan fennáll annak veszélye, hogy a befektetési vállalkozás nem képes meghatározott határidőn belül megfelelni a követelményeknek és nem tudja megfelelően bizonyítani, hogy a meg nem felelés hatásai nem jelentősek, akkor a Felügyelet
+(6) Ha bizonyíthatóan fennáll annak veszélye, hogy a befektetési vállalkozás nem képes meghatározott határidőn belül megfelelni a követelményeknek vagy nem tudja megfelelően bizonyítani, hogy a meg nem felelés hatásai nem jelentősek, akkor a Felügyelet
 
 a) visszavonja a belső modell alkalmazására vonatkozó engedélyt,
 

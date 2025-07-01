@@ -1,6 +1,6 @@
-107. § (1) Az 5. § (1) bekezdés c) vagy f) pontjában meghatározott tevékenységet végző befektetési vállalkozást, amely eszközei havi összértéke a döntést megelőző 12 hónap átlagában, összevont alapon 5 milliárd eurót meghaladja, a Felügyelet határozatában kötelezheti az 575/2013/EU rendelet alkalmazására, ha:
+107. § (1) Az 5. § (1) bekezdés c) vagy f) pontjában meghatározott tevékenységet végző befektetési vállalkozást, amely eszközei havi összértéke a döntést megelőző 12 hónap átlagában, összevont alapon legalább 5 milliárd euró, a Felügyelet határozatában kötelezheti az 575/2013/EU rendelet alkalmazására, ha:
 
-a) a befektetési vállalkozás tevékenysége olyan nagyságrendű, hogy pénzügyi nehézségei vagy csődje rendszerszintű kockázathoz vezetnek,
+a) a befektetési vállalkozás tevékenysége olyan nagyságrendű, hogy pénzügyi nehézségei vagy csődje rendszerszintű kockázathoz vezethetnek,
 
 b) a befektetési vállalkozás klíringtag, vagy
 
@@ -16,4 +16,4 @@ c) szoros kapcsolódását a pénzügyi rendszer egyéb szereplőihez.
 
 (3) Ha a Felügyelet az (1) bekezdéssel összhangban kötelezi a befektetési vállalkozást az 575/2013/EU rendelet alkalmazására, a befektetési vállalkozás prudens működésére, valamint annak felügyelésére a Hpt. VI. és IX. Fejezete alkalmazandó.
 
-(4) A Felügyelet haladéktalanul köteles az (1) bekezdés szerinti határozatát visszavonni, ha a befektetési vállalkozás eszközeinek értéke a döntést megelőző 12 hónap átlagában, összevont alapon számított 5 milliárd eurót nem haladja meg.
+(4) A Felügyelet haladéktalanul köteles az (1) bekezdés szerinti határozatát visszavonni, ha a befektetési vállalkozás eszközeinek értéke a döntést megelőző 12 hónap átlagában, összevont alapon számított 5 milliárd euró alá csökken.

@@ -2,13 +2,15 @@
 
 (2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának és szanálási hatóságának átadhatja.
 
-(3) Összevont alapú felügyeleti ellenőrzést a Felügyelet más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő hatáskörrel rendelkező felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő részt vegyen.
+(3) Összevont alapú felügyeleti ellenőrzést a Felügyelet más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának kérésére is végezhet, valamint lehetővé teszi, hogy az ellenőrzést más EGT-állam hatáskörrel rendelkező felügyeleti hatósága vagy az általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
 (4) Ha a Felügyelet az összevont alapú felügyeletet ellátó felügyeleti hatóság, akkor az (1)–(2) és a (6)–(7) bekezdésben rögzítetteken kívül az EGT-állam hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
 
 a) a rendes működés során, ideértve a vállalatirányítási rendszerre és a kockázatkezelési követelményre vonatkozó rendelkezések teljesítésének ellenőrzését, a befektetési vállalkozások belső tőkemegfelelési folyamatának értékelését, a felügyeleti felülvizsgálatot, a nyilvánosságra hozatali követelmények teljesítésének ellenőrzését, valamint a befektetési vállalkozással szemben alkalmazott intézkedéseket,
 
 b) szükség esetén az illetékes központi bankok bevonásával a válsághelyzetekre való felkészülés és a válsághelyzetek során, ideértve a befektetési vállalkozások működésében és a pénzügyi piacokon zajló kedvezőtlen folyamatokat is.
+
+c) helyszíni ellenőrzés esetén, a többi illetékes hatóság előzetes értesítésére.
 
 (5) A Felügyelet – a 160. §-ra és 161. §-ra is tekintettel – minden olyan információt megad az EGT-állam hatáskörrel rendelkező felügyeleti hatóságának, amely
 
@@ -38,7 +40,7 @@ c) a felügyeleti felülvizsgálat és értékelés, valamint a felügyeleti int
 
 (6d) A Felügyelet sürgős esetben, vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, akkor dönthet úgy, hogy a (6b) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
 
-(7) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó befektetési vállalkozás felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is -, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon EGT-államok bármelyikében, amelyben
+(7) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó befektetési vállalkozás felügyeletét, és olyan válsághelyzet áll elő – ideértve az 1093/2010/EU rendelet 18. cikkében leírt helyzetet vagy a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a piac likviditását és a pénzügyi rendszer stabilitását azon EGT-államok bármelyikében, amelyben
 
 a) az ezen befektetési vállalkozás ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak vagy
 

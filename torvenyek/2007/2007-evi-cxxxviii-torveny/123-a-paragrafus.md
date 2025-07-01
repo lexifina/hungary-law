@@ -4,7 +4,7 @@ a) a leányvállalatok, illetve fióktelepek nevét, működési helyét, valami
 
 b) az árbevételt,
 
-c) a teljes munkaidőben alkalmazottak létszámát,
+c) az alkalmazottak létszámát teljes munkaidős egyenértékben kifejezve,
 
 d) az adózás előtti eredményt,
 

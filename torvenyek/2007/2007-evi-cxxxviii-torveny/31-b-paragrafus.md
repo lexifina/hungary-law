@@ -1,0 +1,1 @@
+31/B. § Csoporton belüli kapcsolatok sérelme nélkül, ha a harmadik országban székhellyel rendelkező befektetési vállalkozás – akár közvetlenül, akár a javára eljáró személyen keresztül – ügyfelet vagy leendő szerződő felet keres az Európai Unióban, az ügyféllel vagy leendő szerződő féllel kötött ügyletre vonatkozó megállapodás nem tekinthető ügyfél által kezdeményezettnek.

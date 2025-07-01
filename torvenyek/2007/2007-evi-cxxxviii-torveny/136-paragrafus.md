@@ -60,4 +60,6 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (7) A befektetési vállalkozás felszámolása esetén az (EU) 2019/2033 rendelet alkalmazásában járulékos tőkének minősülő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
 
+(7a) Befektetési vállalkozás felszámolása esetén, ha egy instrumentumot csak részben ismernek el szavatolótőke-elemként, akkor a teljes instrumentum szavatoló tőkéből származó követelésnek tekintendő.
+
 (8) Az (1)–(7) bekezdésben foglalt rendelkezések büntetőeljárásban elrendelt zár alá vétel esetén annak feloldása után alkalmazandók.

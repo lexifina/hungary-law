@@ -20,7 +20,7 @@ használnak,
 
 1a. adatszolgáltató: a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 36a. pontjában meghatározott fogalom,
 
-1b. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
+1b. anyavállalat: az a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) meghatározott vállalkozás,
 
 1c.
 
@@ -102,7 +102,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 18.
 
-19. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom,
+19. ellenőrző befolyás: az Szmt. szerinti anyavállalat fogalmánál használt meghatározó befolyás vagy egy személy és egy vállalkozás között fennálló olyan kapcsolat, amely az Szmt.-ben meghatározott anyavállalat fogalmánál használt meghatározó befolyáshoz hasonló;
 
 20. első számú vezető: a befektetési vállalkozás vezető állású személyei közül az a személy, akit a befektetési vállalkozás létesítő okirata ilyenként határoz meg,
 
@@ -240,6 +240,8 @@ c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében 
 
 55. referenciaadat-szolgáltató: a befektetési hitel nyújtására engedéllyel rendelkező, illetőleg értékpapír- kölcsönzést végző befektetési vállalkozás,
 
+55a. rendkívüli állami pénzügyi támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás, vagy bármilyen más, nemzeti szinten nyújtva állami támogatásnak minősülő szupranacionális szintű állami pénzügyi támogatás, amelyet egy, az 1. § szerinti jogalany életképességének, likviditásának vagy fizetőképességének megőrzése vagy helyreállítása céljából nyújtanak,
+
 56. rendszeres internalizáló: az a befektetési vállalkozás, amely ügyfél részére szervezett keretek között, sajátszámlás kereskedés keretében gyakran, rendszeresen és jelentős nagyságrendben biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre,
 
 57.
@@ -368,7 +370,7 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 82. javadalmazás: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott fogalom,
 
-83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó fenntartható és kockázattal kiigazított teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
+83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó, abban nem rögzített feladatokat lát el, valamint, ha fenntartható és kockázattal kiigazított teljesítményt nyújt,
 
 84. Nem kötelező nyugdíjjuttatás: a Hpt.-ben ekként meghatározott fogalom,
 

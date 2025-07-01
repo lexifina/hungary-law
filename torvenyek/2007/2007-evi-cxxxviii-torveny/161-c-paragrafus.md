@@ -1,6 +1,6 @@
 161/C. § (1) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét a befektetésivállalkozás-csoportot vezető, magyarországi székhelyű befektetési vállalkozás anyavállalat vagy EU-szintű befektetési vállalkozás anyavállalat esetében.
 
-(2) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, ha a magyarországi székhelyű befektetési vállalkozás anyavállalata egy EU-szintű befektetési holding társaság anyavállalat vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat.
+(2) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, ha a magyarországi székhelyű befektetési vállalkozás anyavállalata egy EU-szintű befektetési holding társaság anyavállalat, egy EU-szintű vegyes pénzügyi holding társaság anyavállalat, egy pénzügyi holding társaság anyavállalat, vagy egy tagállami vegyes pénzügyi holding társaság anyavállalat.
 
 (3) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, ha legalább egy magyarországi székhelyű befektetési vállalkozásnak és legalább egy más EGT-állam legalább egy befektetési vállalkozásának ugyanaz az EU-szintű befektetési holding társaság anyavállalata vagy ugyanaz az EU-szintű vegyes pénzügyi holding társaság anyavállalata, és a befektetési holding társaság vagy a vegyes pénzügyi holding társaság magyarországi székhellyel rendelkezik.
 
