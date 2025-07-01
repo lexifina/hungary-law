@@ -1,4 +1,4 @@
-50/E. §[^544] (1) A válsághelyzeti finanszírozás keretében biztosított átlagfinanszírozás az egészségügyi szolgáltatók rendelkezésre állása és a betegellátás folyamatosságának biztosítása érdekében az államháztartás számviteléről és a kötelező egészségbiztosítás ellátásairól szóló jogszabályokban meghatározottak szerint használható fel, a betegellátás volumene által indokolt mértékben.
+50/E. §[^546] (1) A válsághelyzeti finanszírozás keretében biztosított átlagfinanszírozás az egészségügyi szolgáltatók rendelkezésre állása és a betegellátás folyamatosságának biztosítása érdekében az államháztartás számviteléről és a kötelező egészségbiztosítás ellátásairól szóló jogszabályokban meghatározottak szerint használható fel, a betegellátás volumene által indokolt mértékben.
 
 (2) Az átlagfinanszírozás felhasználható bármilyen, az átlagfinanszírozásra okot adó körülmény kezelésére szolgáló védelmi vagy védekezéshez kapcsolódóan szükséges, más forrásból meg nem térülő kiadásokra is.
 
@@ -16,4 +16,4 @@
 
 (9) Az átlagfinanszírozás megszüntetéséről a NEAK főigazgatója javaslatára az egészségügyért felelős miniszter dönt.
 
-[^544]: Az 50/E. §-t újonnan a 697/2020. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
+[^546]: Az 50/E. §-t újonnan a 697/2020. (XII. 29.) Korm. rendelet 24. §-a iktatta be.

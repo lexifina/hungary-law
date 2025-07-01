@@ -34,7 +34,7 @@ az egészségügyért felelős miniszter egyetértésével köthető, illetve m�
 
 a) szállítási esetenként 450 forint,
 
-b) a főváros közigazgatási területén belül történő szállítás esetén az a) pont szerinti díjon felül esetenként további 750 forint.
+b)[^399] a főváros közigazgatási területén belül történő szállítás esetén az a) pont szerinti díjon felül esetenként további 2050 forint.
 
 (13) A szolgáltatót, a szabályosan utalványozott betegszállítási feladatok elvégzése után, futásteljesítménytől függő teljesítménydíj illeti meg. A teljesítménydíj számításának alapja a betegszállítási utalványon jelölt felvételi és átadási települések középpont koordinátái által meghatározott legrövidebb közúti közlekedési távolság. A beteg felvételének helye és a betegszállítási utalványon megjelölt érkezési helye közötti távolság a következők szerint kerül meghatározásra:
 
@@ -52,7 +52,7 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 
 (17) Több beteg együttes szállítása esetén a 100 kilométert meghaladó hosszú távú szállítások esetében a megtett útszakasz 100 kilométert meghaladó részének díja 0,8-es degressziós szorzóval kerül kiszámításra.
 
-(18) A főváros közigazgatási területén belül történő szállítások esetén a (13) bekezdés c) pontja szerint meghatározott távolság 1,8-es korrekciós szorzóval kerül kiszámításra.
+(18)[^400] A főváros közigazgatási területén belül történő szállítások esetén a (13) bekezdés c) pontja szerint meghatározott távolság 3,3-es korrekciós szorzóval kerül kiszámításra.
 
 (19) A főváros közigazgatási területére belépő és a főváros közigazgatási területéről kiinduló szállítások esetén a (13) bekezdés a) pontja szerint meghatározott távolság – ha az kevesebb, mint 80 km – 1,4-es korrekciós szorzóval kerül kiszámításra.
 
@@ -70,3 +70,5 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 [^396]: A 33. § (6) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^397]: A 33. § (8) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^398]: A 33. § (9) bekezdése a 634/2022. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^399]: A 33. § (12) bekezdés b) pontja a 172/2025. (VI. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^400]: A 33. § (18) bekezdése a 172/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
