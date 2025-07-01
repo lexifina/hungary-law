@@ -14,17 +14,24 @@ d) kijelöli a 3. melléklet szerinti védőterületet.
 
 (3)[^6] Az engedélyezett fürdővízben a fürdővizek minőségének ellenőrzésére szolgáló mintavételi ütemtervet a kormányhivatal akkor is meghatározza, ha a vízminőséggel összefüggésben tartós fürdési tilalmat rendel el.
 
-(4)[^7]
+(4)[^7] A kormányhivatal illetékességi területéhez tartozó azon természetes fürdőhelyek esetén, amelyeknél a fürdési idény tartama a naptári évvel egyező, továbbá a fürdőzők számának napi átlaga legalább 8 egybefüggő naptári héten várhatóan meghaladja a 100 főt, valamint megvannak a fürdőzés e rendelet szerint szükséges közegészségügyi követelményei, a kormányhivatal – hivatalból indított eljárásban –
+
+a) dönt a fürdővízhasználat engedélyezéséről,
+
+b) kijelöli a 3. melléklet szerinti védőterületet.
+
+(4a)[^8] A fürdővíz minőségének ellenőrzését szolgáló mintavételek ütemterve évente kerül a kormányhivatal által jóváhagyásra, melyet a tárgyév január 1-ig szükséges benyújtani a kormányhivatalhoz.
 
 (5) A kijelölt védőterület határait jól látható figyelmeztető táblákkal kell megjelölni és ott a külön jogszabályban meghatározott korlátozásokat be kell tartani.
 
-(6)[^8] Folyóvizeknél – a fürdőhely folyásirány szerinti felső határa feletti szakaszán, a fürdési idényben előforduló legkisebb vízhozam mellett – a 3. mellékletben foglalt ajánlott szennyvíz-bevezetési távolságokat indokolt esetben az illetékes vízvédelmi hatóság kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján módosíthatja.
+(6)[^9] Folyóvizeknél – a fürdőhely folyásirány szerinti felső határa feletti szakaszán, a fürdési idényben előforduló legkisebb vízhozam mellett – a 3. mellékletben foglalt ajánlott szennyvíz-bevezetési távolságokat indokolt esetben az illetékes vízvédelmi hatóság kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján módosíthatja.
 
-(7)[^9]
+(7)[^10]
 
 [^4]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^5]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^6]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^7]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 618. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A 3. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja, az 527/2013. (XII. 30.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte, újonnan a 351/2010. (XII. 30.) Korm. rendelet 211. §-a iktatta be, újból hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 92. § (2) bekezdése.
+[^7]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 618. §-a hatályon kívül helyezte, újonnan a 155/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^8]: A 3. § (4a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^9]: A 3. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja, az 527/2013. (XII. 30.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte, újonnan a 351/2010. (XII. 30.) Korm. rendelet 211. §-a iktatta be, újból hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 92. § (2) bekezdése.

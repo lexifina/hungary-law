@@ -1,8 +1,10 @@
 ## Mintavétel és laboratóriumi vizsgálat
 
-7. § (1)[^18] A fürdővíz minőségellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzéséről a kormányhivatal gondoskodik, üzemeltetett fürdőhely esetében erről – a (7) bekezdésben foglalt eltéréssel – a fürdőhely üzemeltetője saját költségére gondoskodik.
+7. § (1)[^20] A fürdővíz minőségellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzéséről a kormányhivatal gondoskodik, üzemeltetett fürdőhely esetében erről – a (7) bekezdésben foglalt eltéréssel – a fürdőhely üzemeltetője saját költségére gondoskodik.
 
-(2)[^19] A fürdővíz mintavételeket a kormányhivatal által a 3. § (1) bekezdése és 4. § (1) bekezdése szerint meghatározott minőségellenőrzési ütemterv szerint kell elvégezni. Az egyes mintavételeket legkésőbb az ütemtervben meghatározott időpontot követő 4 napon belül kell elvégezni. Az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd további legalább 3 mintát kell venni a fürdési idény folyamán azzal, hogy az egyes mintavételek között nem telhet el egy hónapnál hosszabb idő.
+(2)[^21] A fürdővíz-mintavételeket a kormányhivatal által a 3. § (1) és (4) bekezdése, valamint a 4. § (1) bekezdése szerint meghatározott minőségellenőrzési ütemterv szerint kell elvégezni. Az egyes mintavételeket legkésőbb az ütemtervben meghatározott időpontot követő 4 napon belül kell elvégezni. Az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd további, legalább 3 mintát kell venni a fürdési idény folyamán, azzal, hogy az egyes mintavételek között nem telhet el egy hónapnál hosszabb idő.
+
+(2a)[^22] A (2) bekezdésben foglaltaktól eltérően olyan fürdővíz esetében, amelynél a fürdési idény tartama a naptári évvel egyezik meg, az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd ezt követően havonta legalább egy alkalommal szükséges mintát venni.
 
 (3) Olyan fürdővíz esetében, amelynél a fürdési idény nem hosszabb 8 hétnél, elegendő összesen 3 mintát venni.
 
@@ -12,8 +14,9 @@
 
 (6) Rendkívüli helyzet fennállása alatt a minőségellenőrzési ütemterv végrehajtása felfüggeszthető. A minőségellenőrzési ütemterv végrehajtását a rendkívüli helyzet megszűnését követő legrövidebb időn belül folytatni kell. A rendkívüli helyzet miatt hiányzó minták pótlására, annak megszűnését követő legrövidebb időn belül új mintát kell venni.
 
-(7)[^20] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a kormányhivatal gondoskodik a költségvetési kerete terhére.
+(7)[^23] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a kormányhivatal gondoskodik a költségvetési kerete terhére.
 
-[^18]: A 7. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^19]: A 7. § (2) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^20]: A 7. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: A 7. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^21]: A 7. § (2) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^22]: A 7. § (2a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^23]: A 7. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

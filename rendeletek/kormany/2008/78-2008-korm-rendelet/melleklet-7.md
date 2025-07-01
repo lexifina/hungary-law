@@ -12,9 +12,9 @@ A fürdőhely üzemeltetésének szabályai
 
 5. Naponta gondoskodni kell a fürdésre igénybe vett vízfelület, a vízpart tisztán tartásáról. Az építményeket – szükség szerint – a fürdési idény kezdete előtt kell felújítani, valamint folyamatosan karbantartani. Az építmények helyiségeit naponta, illetve szükség szerint nagyobb gyakorisággal takarítani és az üzemeltetési szabályzatban rögzített módon fertőtleníteni kell. Gondoskodni kell a helyiségek és a terület rovar- és rágcsálóirtásáról.
 
-6.[^73] Gondoskodni kell megfelelő számú öltözési (vetkőzési) lehetőségről. A várható legnagyobb vendégszám figyelembevételével nemenként elkülönített, kézmosási lehetőséggel felszerelt, azon kijelölt természetes fürdőhelyek esetében, ahol a belépés belépődíj ellenében lehetséges, díjmentesen igénybe vehető, a vízparttól 100 m távolságon belül elhelyezett illemhelyet a külön jogszabály előírásai szerint kell létesíteni. Ha a szennyvíz elvezetése közcsatornába nem lehetséges, akkor az illemhelyekhez csak zárt rendszerű szennyvízgyűjtőt szabad telepíteni. A zárt rendszerű szennyvízgyűjtőben összegyűlt szennyvíz elszállításáról vagy ártalommentes elhelyezéséről az üzemeltetőnek kell gondoskodnia.
+6.[^76] Gondoskodni kell megfelelő számú öltözési (vetkőzési) lehetőségről. A várható legnagyobb vendégszám figyelembevételével nemenként elkülönített, kézmosási lehetőséggel felszerelt, azon kijelölt természetes fürdőhelyek esetében, ahol a belépés belépődíj ellenében lehetséges, díjmentesen igénybe vehető, a vízparttól 100 m távolságon belül elhelyezett illemhelyet a külön jogszabály előírásai szerint kell létesíteni. Ha a szennyvíz elvezetése közcsatornába nem lehetséges, akkor az illemhelyekhez csak zárt rendszerű szennyvízgyűjtőt szabad telepíteni. A zárt rendszerű szennyvízgyűjtőben összegyűlt szennyvíz elszállításáról vagy ártalommentes elhelyezéséről az üzemeltetőnek kell gondoskodnia.
 
-7.[^74] Állatot a fürdőhely területére bevinni – a kormányhivatal által engedélyezett őrkutyás biztonsági szolgálat, illetve a vakvezető kutya kivételével – tilos. A fürdőhely területén a fürdési szezonban horgászni nem szabad.
+7.[^77] Állatot a fürdőhely területére bevinni – a kormányhivatal által engedélyezett őrkutyás biztonsági szolgálat, illetve a vakvezető kutya kivételével – tilos. A fürdőhely területén a fürdési szezonban horgászni nem szabad.
 
 8. Gondoskodni kell a fürdőközönség számára zuhanyozási lehetőségről. 1000 főnél nagyobb vendégszám esetén 200 fő/1 db, de legkevesebb 4 db zuhanyállást kell biztosítani.
 
@@ -28,9 +28,9 @@ b) a levegő és a víz aktuális hőmérsékletéről, a víz mélységéről,
 
 c) a fürdő rendeltetésszerű használatával összefüggő kötelezettségekről,
 
-d)[^75] a határértéket meghaladó, napi UV sugárzási szint mértékéről, és a védelem nélküli napon tartózkodás ajánlott időtartamáról,
+d)[^78] a határértéket meghaladó, napi UV sugárzási szint mértékéről, és a védelem nélküli napon tartózkodás ajánlott időtartamáról,
 
-e)[^76] egyéb közérdekű információkról.
+e)[^79] egyéb közérdekű információkról.
 
 11. A fürdőhely üzemeltetője köteles elsősegélynyújtó felszerelést és kötszereket tartani a helyszínen bármikor elérhető helyen, és gondoskodni a felszerelések, gyógy- és kötszerek pótlásáról.
 
@@ -52,13 +52,14 @@ c) üzemeltetési naplót vezetni a vendégforgalom napi adatairól, balesetekr�
 
 15. Úszómesterként (mentőőrként) alkalmazni kizárólag azt a személyt lehet, aki a vízi mentésben való jártasságáról érvényes igazolással rendelkezik és egészségügyi alkalmasságát az orvos igazolja.
 
-16. A mentőőrt el kell látni a segélykéréshez szükséges hírközlő eszközzel, továbbá a vízi közlekedés rendjéről szóló 27/1993. (IX. 23.) KHVM rendelet mellékletét képező Hajózási Szabályzat előírásainak megfelelő mentőcsónakkal, és azt 40Ű40 cm nagyságú, fehér alapú, 30Ű30 cm szármagasságú, 10 cm széles vörös kereszttel ellátott zászlóval kell felszerelni. A csónakban kizárólag mentőőri szolgálatot ellátó személy tartózkodhat, és az csak mentési feladatok ellátásához használható.
+16.[^80] A mentőőrt el kell látni a segélykéréshez szükséges hírközlő eszközzel, továbbá a közlekedésért felelős miniszternek a vízi közlekedés rendjéről szóló rendeletben foglalt előírásoknak megfelelő és a szerint felszerelt mentőcsónakkal. A csónakban kizárólag mentőőri szolgálatot ellátó személy tartózkodhat, és az csak mentési feladatok ellátásához használható.
 
 17. A mentőőr szolgálati ideje alatt köteles a csónakban vagy a csónak 50 méteres körzetében tartózkodni, olyan helyen, ahonnan a fürdésre kijelölt vízfelület belátható.
 
 18. Olyan fürdőhelyeken, ahol gyermekek csoportosan vagy tömegesen fordulnak elő (pl. gyermek- és ifjúsági tábor, vízparti üdülő), az üzemeltetőnek a balesetek megelőzése érdekében – a gyermekcsoport ott tartózkodási ideje alatt – külön mentőőrt kell biztosítani a csoport felügyeletére.
 
-[^73]: A 7. melléklet 6. pontja a 172/2016. (VII. 1.) Korm. rendelet 78. §-a szerint módosított szöveg.
-[^74]: A 7. melléklet 7. pontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^75]: A 7. melléklet 10. pont d) pontja a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
-[^76]: A 7. melléklet 10. pont e) pontját a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.
+[^76]: A 7. melléklet 6. pontja a 172/2016. (VII. 1.) Korm. rendelet 78. §-a szerint módosított szöveg.
+[^77]: A 7. melléklet 7. pontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^78]: A 7. melléklet 10. pont d) pontja a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
+[^79]: A 7. melléklet 10. pont e) pontját a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.
+[^80]: A 7. melléklet 16. pontja a 155/2025. (VI. 23.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
