@@ -26,7 +26,7 @@
 
 12. szolgáltató: a Pmt. 1. § (1) és (1a) bekezdésében meghatározott szolgáltató;
 
-13. tényleges tulajdonos: az adatszolgáltató Pmt. 3. § 38. pont a) és b), valamint d)–f) pontjai szerint meghatározott tényleges tulajdonosa;
+13. tényleges tulajdonos: az adatszolgáltató Pmt. 3. § 38. pont a) és b), valamint d)–g) pontja szerint meghatározott tényleges tulajdonosa;
 
 14. tényleges tulajdonosi nyilvántartás: az e törvény hatálya alá tartozó adatszolgáltatók és a bizalmi vagyonkezelési jogviszonyok Pmt. szerinti tényleges tulajdonosi adatait tartalmazó nyilvántartás;
 
