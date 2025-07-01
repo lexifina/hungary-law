@@ -6,7 +6,7 @@ a) engedélyezési eljárásokban ügyfélnek minősül az építtető, a vagyon
 
 b) engedélyezési eljárásokban az eljárás megindításáról a közlekedési hatóság nyolc napon belül, ha helyszíni szemle, hatósági egyeztetés megtartása szükséges, az arról szóló értesítéssel egyidejűleg értesíti az ügyfeleket – ideértve a külföldi ügyfeleket is – hirdetményi úton,
 
-c)
+c) engedélyezési eljárásokban az ügyfélkör feltárásához az építtető és a megbízásából eljáró tervező jogosult a teljes hatásterület vonatkozásában a jogosulti adatokkal kiegészített földkönyv igénylésére,
 
 d)
 

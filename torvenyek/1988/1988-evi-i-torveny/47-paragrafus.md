@@ -129,3 +129,5 @@ Magyarország területén van.
 41. a nyilvántartás helye szerinti tagállam: az Európai Unió azon tagállama, amelynek nemzeti gépjármű-nyilvántartásában az útdíjfizetés elmulasztása által érintett jármű szerepel;
 
 42. nemzeti kapcsolattartó pont: a gépjármű-nyilvántartási adatok határokon átnyúló cseréjére jogszabályban kijelölt hatóság.
+
+43. használatidíj-rendszer: a 33/A. § (1) bekezdésében meghatározott használati díjak és pótdíjak beszedését, a megfizetésükhöz kapcsolódó korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzést lehetővé tévő rendszer.
