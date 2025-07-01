@@ -18,4 +18,4 @@ továbbítja.
 
 (4) Az (1) bekezdés szerinti protézisek tekintetében, a (2) bekezdés a) és b) pontja szerinti adatok Protézis Regiszterbe történő továbbítása – a 22/B. § szerinti informatikai felülettel történő összekapcsolás útján – egyidejűleg a 22/B. § szerinti Központi Implantátumregiszterbe történő adattovábbításnak minősül.
 
-(5) A Protézis Regiszter a nyilvántartott adatokat az érintett személyre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti személyazonosításra alkalmas módon.
+(5) A Protézis Regiszter a nyilvántartott adatokat az érintett személyre vonatkozó utolsó adattovábbítástól számított harminc évig kezelheti személyazonosításra alkalmas módon.

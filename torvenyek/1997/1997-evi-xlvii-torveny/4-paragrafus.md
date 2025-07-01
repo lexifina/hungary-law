@@ -32,7 +32,7 @@ e) az egészségügyi adatot kezelő szerv vagy személy hatósági vagy törvé
 
 f) a társadalombiztosítási, illetve szociális ellátások megállapítása, amennyiben az az egészségi állapot alapján történik, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi egészségkárosodási ellátás megállapítása, a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti nemzetbiztonsági egészségkárosodási ellátás megállapítása, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási ellátás megállapítása,
 
-g) az egészségügyi ellátásokra jogosultak részére a kötelező egészségbiztosítás terhére igénybe vehető szolgáltatások rendelésének és nyújtásának, valamint a gazdaságos gyógyszer-, gyógyászati segédeszköz- és gyógyászati ellátás rendelési szabályai betartásának a vizsgálata, továbbá a külön jogszabály szerinti szerződés alapján a jogosultak részére nyújtott ellátások finanszírozása, illetve az ártámogatás elszámolása, valamint a társadalombiztosítási ellátások megállapítása, kifizetése és a kifizetett ellátások visszafizetése, megtérítése érdekében, orvostudományi kutatás hatékonysága és eredményes elvégzése érdekében,
+g) az egészségügyi ellátásokra jogosultak részére a kötelező egészségbiztosítás terhére igénybe vehető szolgáltatások rendelésének és nyújtásának, valamint a gazdaságos gyógyszer-, gyógyászati segédeszköz- és gyógyászati ellátás rendelési szabályai betartásának a vizsgálata, továbbá a külön jogszabály szerinti szerződés alapján a jogosultak részére nyújtott ellátások finanszírozása, illetve az ártámogatás elszámolása, valamint a társadalombiztosítási ellátások megállapítása, kifizetése és a kifizetett ellátások visszafizetése, megtérítése érdekében, orvostudományi kutatás hatékonysága és eredményes elvégzése érdekében, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 26/A. § (1) bekezdése szerinti, gyógyszerek és gyógyászati segédeszközök egyedi méltányosság keretében történő engedélyezésére irányuló eljárás lefolytatása érdekében,
 
 h) bűnüldözés, továbbá a rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott feladatok ellátására kapott felhatalmazás körében bűnmegelőzés,
 
@@ -60,7 +60,7 @@ s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógys
 
 t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
 
-u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 18. § (8) bekezdés b) pontjában meghatározott összefüggés megállapításához szükséges szakhatósági állásfoglalás kialakítása,
+u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás, valamint az Ebtv. 18. § (8) bekezdés b) pontjában meghatározott összefüggés megállapításához szükséges szakhatósági állásfoglalás kialakítása,
 
 v) eredményesség alapú támogatásban részesülő gyógyszerek, gyógyászati segédeszközök eredményességének, támogatásának megállapítása, és ezen gyógyszerekkel kezelt kórképek finanszírozási eljárásrendjének alkotása,
 
