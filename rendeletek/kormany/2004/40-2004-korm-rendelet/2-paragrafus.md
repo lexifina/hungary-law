@@ -20,6 +20,8 @@ a) halála napjától, vagy
 
 b)[^3] az érdemtelenségét megállapító jogerős bírósági határozat miniszternek való bejelentésétől
 
+számított 60 napon belül kerül sor.
+
 [^1]: A 2. § a 22/2015. (II. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (3) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^3]: A 2. § (4) bekezdés b) pontja a 475/2016. (XII. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
