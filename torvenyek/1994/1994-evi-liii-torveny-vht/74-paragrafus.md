@@ -24,7 +24,7 @@ j) a meghatározott kiadás fedezésére szolgáló összeg,
 
 k) a fogva tartott adós részére a kapcsolattartó által célzottan befizetett összeg,
 
-l)
+l) a személyi jövedelemadóról szóló törvény szerinti családi kedvezmény nettó összege,
 
 m)
 

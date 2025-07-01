@@ -31,3 +31,5 @@ n) a kölcsönzött kulturális javak különleges védelméről szóló törvé
 (2) Ha a foglalásra több ingatlanban kerül sor, az (1) bekezdés e)–g) és k) pontjában meghatározott mentességet csak az – adós nyilatkozata esetén az általa megjelölt – egyik ingatlanban foganatosított foglalás során lehet érvényesíteni.
 
 (3) Nem mentes a végrehajtás alól az az (1) bekezdésben említett olyan vagyontárgy – az a), valamint a h) és i) pontban foglaltak kivételével –, amely nemesfémből vagy egyébként nemes anyagból készült, és a szokásos használati cikkektől eltérően különösen nagy értékű.
+
+(4) Mentes a végrehajtás alól az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen, sportegyesület, utánpótlás-nevelés fejlesztését végző alapítvány vagy országos sportági szakszövetség tulajdonába adott ingóvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.
