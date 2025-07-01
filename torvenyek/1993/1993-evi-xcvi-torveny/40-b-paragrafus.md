@@ -32,9 +32,15 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (2) A pénztártitok csak akkor adható ki harmadik személynek, ha
 
-a) a pénztártag vagy annak törvényes képviselője a rá vonatkozó kiszolgáltatható adatkört pontosan megjelölve közokiratban vagy teljes bizonyító erejű magánokiratban erre felhatalmazást ad,
+a) a pénztártag vagy annak törvényes képviselője a rá vonatkozó kiszolgáltatható adatkört pontosan megjelölve
 
-b) a törvény a pénztártitok megtartásának kötelezettsége alól felmentést ad.
+aa) közokiratban vagy teljes bizonyító erejű magánokiratban erre felhatalmazást ad, vagy
+
+ab) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt személyazonosság igazoló ellenőrzés feltételeinek megfelelő, biztonságos azonosítást követően a pénztár által üzemeltetett elektronikus felületen vagy a pénztár honlapján erre felhatalmazást ad,
+
+b) törvény a pénztártitok megtartásának kötelezettsége alól felmentést ad.
+
+(2a) A pénztártag a tagsági jogviszony fennállásának időtartamára általános felmentést adhat a pénztártitok megtartásának kötelezettsége alól a pénztártag vagy a pénztártag kedvezményezettje részére nyújtott pénztári szolgáltatásokkal összefüggésben az egészségpénztári szolgáltatónak a szolgáltatások igénybevételéhez, valamint a szolgáltatást finanszírozó egészségbiztosításokkal összefüggésben a szolgáltatásszervezőnek, illetve a biztosítónak átadott, a szolgáltatások lebonyolításához, illetve a szolgáltatást finanszírozó egészségbiztosítási kifizetésekhez szükséges adatok tekintetében.
 
 (3) Aki üzleti titok vagy pénztártitok birtokába jut, nem használhatja fel arra, hogy annak révén saját maga vagy más személy részére közvetlen vagy közvetett módon előnyt szerezzen, továbbá, hogy a pénztárnak vagy a pénztártagoknak hátrányt okozzon.
 

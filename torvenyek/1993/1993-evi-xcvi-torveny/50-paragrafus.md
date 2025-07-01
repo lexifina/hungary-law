@@ -2,7 +2,7 @@
 
 50. § (1) Az önsegélyező pénztár egyéni szolgáltatásokat és közösségi szolgáltatásokat nyújthat. A pénztár az egyéni szolgáltatásokat a tag egyéni számlájának megterhelésével, az egyes közösségi szolgáltatásokat pedig a fedezeti tartalékon belül létrehozott szolgáltatási tartalék terhére teljesíti. A pénztár egy vagy több szolgáltatási tartalékot hozhat létre, melyeket a pénztártagok egyéni számlái terhére kell képezni.
 
-(2) A tagi befizetés, munkáltatói hozzájárulás, támogatás, adomány – az egészségügyi célú önsegélyező feladatok ellátását képező szolgáltatások, valamint az 50/B. § (2) bekezdésében meghatározott szolgáltatások kivételével – a befizetést követő 180 napon belül nem használható fel egyéni szolgáltatás finanszírozására.
+(2)
 
 (3) Az önsegélyező pénztárakban az egységes tagdíjak összegét, a szolgáltatások értékét és a szükséges alapok nagyságát évente kalkulálni kell. A szolgáltatások lehetséges értékének összegét és az alapok nagyságát a pénztár által vállalt szolgáltatások összetétele és a megfizetett tagdíjak szolgáltatásra fordítandó részének összege határozza meg.
 

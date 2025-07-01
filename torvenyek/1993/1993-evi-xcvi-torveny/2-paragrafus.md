@@ -52,7 +52,7 @@ e) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevék
 
 f) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
 
-g)
+g) digitális taneszköz: minden tanulást segítő elektronikus eszköz, különösen a hordozható számítógép, asztali számítógép és annak tartozékai, monitor, nyomtató/másoló, szkenner, ide nem értve a mobiltelefont;
 
 h)
 
@@ -106,7 +106,7 @@ g) gyógyszer és gyógyászati segédeszköz árának támogatása:
 
 5. az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről szóló jogszabályban meghatározott tápszerek megvásárlásának támogatása;
 
-6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és az egészségügyi államigazgatási szerv által nyilvántartásba vett, gluténmentes speciális élelmiszerek megvásárlásának támogatása;
+6. a speciális gyógyászati célra szánt tápszerekről szóló jogszabályban meghatározott tápszerek, és gluténmentes speciális élelmiszerek megvásárlásának támogatása;
 
 7. társadalombiztosítási támogatással rendelhető, illetve kölcsönözhető gyógyászati segédeszközökről, a támogatás összegéről és mértékéről szóló jogszabályban meghatározott gyógyászati segédeszközök megvásárlásának, kölcsönzésének támogatása, a társadalombiztosítás által nem finanszírozott részre, vagy e támogatás igénybevétele nélküli megvásárlásának, valamint javításának támogatása;
 

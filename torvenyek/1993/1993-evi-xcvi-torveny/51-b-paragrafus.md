@@ -24,7 +24,7 @@ j) pénzbeli kiegészítő egészségbiztosítási szolgáltatások, amely a pé
 
 k) hátramaradottak segélyezése: a pénztártag halála esetén;
 
-l) az egészségügyi államigazgatási szerv által nyilvántartásba vett, gluténmentes speciális élelmiszerek vásárlásának támogatása.
+l) gluténmentes speciális élelmiszerek vásárlásának támogatása.
 
 m) szolgáltatást finanszírozó egészségbiztosítások (betegség biztosítások) díjának fizetése.
 
