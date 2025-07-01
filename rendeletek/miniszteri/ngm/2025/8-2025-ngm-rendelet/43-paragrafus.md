@@ -1,1 +1,1 @@
-43. §
+43. § Az üzemeltető bejelenti az állami adó- és vámhatóságnak, ha az adott pénztárgépet a továbbiakban nem kívánja üzemeltetni (a továbbiakban: használatból kivonás). A bejelentést a használatból kivonás napján kell teljesíteni.

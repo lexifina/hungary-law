@@ -1,1 +1,1 @@
-37. §
+37. § Az üzemeltetőnek a tőle elvárható mértékben, a gazdasági tevékenysége sajátosságaihoz illeszkedően alkalmaznia kell a 2. melléklet B) rész 7. pontjában leírt funkciókat annak érdekében, hogy a téves beütés esélyét minimalizálja.

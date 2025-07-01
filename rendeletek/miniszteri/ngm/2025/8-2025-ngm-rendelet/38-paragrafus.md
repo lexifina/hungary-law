@@ -1,1 +1,1 @@
-38. §
+38. § Az e-pénztárgépen vagy az e-pénztárgéphez egyértelműen köthetően, a vásárló számára jól láthatóan és jól olvashatóan meg kell jeleníteni az e-pénztárgép AP számát, valamint az állami adó- és vámhatóság által elektronikus felületen rendelkezésre bocsátott szabványos QR-kódot, ami tartalmazza az e-pénztárgép AP számát, az adózó adószámát. A QR-kód ellenőrzés céljából beolvasható.

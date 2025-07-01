@@ -1,5 +1,5 @@
-## 11.[^7]
+## 11. Ellenőrzés
 
-52. §
+52. § (1) Az állami adó- és vámhatóság az e-pénztárgép forgalmazásával, üzemeltetésével, szervizelésével, valamint a vevői alkalmazás forgalmazásával kapcsolatos, jogszabályban meghatározott kötelezettségeket az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) és az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti jogkövetési vizsgálat szabályainak, a hatósági eljárást pedig az Air. vonatkozó szabályainak alkalmazásával folytatja le, azzal, hogy az ellenőrzött adózón az ellenőrzött forgalmazót, üzemeltetőt, egyéb személyt, adókötelezettségen az e-pénztárgép forgalmazásával, üzemeltetésével, szervizelésével, valamint a vevői alkalmazás forgalmazásával kapcsolatos, jogszabályban meghatározott kötelezettséget kell érteni.
 
-[^7]: A 11. alcím az 57. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+(2) Ha az állami adó- és vámhatóság megállapítja, hogy a bevont e-pénztárgép nem felel meg az e rendeletben meghatározott követelményeknek, de a hiba, hiányosság kiküszöbölhető, úgy az e-pénztárgép visszaadásával egyidejűleg határidő tűzésével felhívja a forgalmazót vagy azt, akitől az e-pénztárgépet bevonták, a hiba kijavítására. A kötelezett a hiba előírt határidőben történő kijavítását az állami adó- és vámhatóság előtt igazolni köteles.

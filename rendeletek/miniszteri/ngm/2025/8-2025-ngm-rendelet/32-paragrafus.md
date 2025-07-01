@@ -1,1 +1,1 @@
-32. §
+32. § E fejezet rendelkezéseit kell alkalmazni a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében végzett szervizelési tevékenysége esetén is.

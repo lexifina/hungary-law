@@ -1,1 +1,1 @@
-39. §
+39. § Az üzemeltető köteles biztosítani, hogy az e-pénztárgép működését, valamint az e-pénztárgép és a NAV-I közötti, e rendelet szerinti elektronikus hírközlő hálózat útján történő adatkapcsolatot általa befolyásolható külső körülmény ne zavarja, ne gátolja, illetve köteles az ilyen körülményt haladéktalanul megszüntetni.

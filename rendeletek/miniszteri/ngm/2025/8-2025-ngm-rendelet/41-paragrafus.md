@@ -1,1 +1,1 @@
-41. §
+41. § Az e-pénztárgéppel történő visszaélés gyanújának felmerülését követően az állami adó- és vámhatóság bármikor blokkolhatja az e-pénztárgépet. Az e-pénztárgép blokkolt állapotba helyezése az e-pénztárgép bevonásának idejébe beleszámít.

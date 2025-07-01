@@ -1,5 +1,5 @@
-## 9.[^6]
+## 9. Az adatszolgáltatás és a bejelentés egyes szabályai
 
-48. §
+48. § (1) Az V. és VI. fejezetben előírt adatszolgáltatási és bejelentési kötelezettséget – ha az online e-pénztárgép-napló útján nem teljesíthető – az állami adó- és vámhatóság által meghatározott elektronikus úton kell teljesíteni.
 
-[^6]: A 9. alcím az 57. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+(2) Az V. és VI. fejezetben előírt adatszolgáltatási és bejelentési kötelezettséget kétvállalkozós e-pénztárgép esetén adózónként külön-külön kell teljesíteni.
