@@ -1,0 +1,1 @@
+10. § Hatályát veszti a pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.) Korm. rendelet 33. § (1) bekezdés a) pontjában a „középiskola esetén” szövegrész.
