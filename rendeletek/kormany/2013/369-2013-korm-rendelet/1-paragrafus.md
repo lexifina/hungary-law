@@ -34,7 +34,7 @@ hd) családok átmeneti otthona esetén vagy
 
 he) utógondozói ellátás esetén
 
-a szolgáltató által, de a szolgáltató épületén kívül biztosított lakhatási forma;
+a szolgáltató által, de a szolgáltató épületén kívül biztosított lakhatási forma, továbbá a he) alpont alkalmazásában az utógondozói ellátást igénybe vevő fiatal felnőtt tulajdona vagy bérleménye;;
 
 i)[^5] szolgáltatás: az Szt. szerinti szociális szolgáltatás, valamint a Gyvt. szerinti gyermekjóléti, gyermekvédelmi szolgáltató tevékenység – a területi gyermekvédelmi szakszolgáltatás kivételével –;
 
@@ -55,7 +55,7 @@ n)[^9] ideiglenes befogadó férőhely: a jogszabályban meghatározott feltéte
 [^1]: Az 1. § a) pontja a 381/2017. (XII. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 353/2014. (XII. 29.) Korm. rendelet 77. § a) pontja, a 194/2024. (VII. 8.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § e) pontja a 360/2019. (XII. 30.) Korm. rendelet 123. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^4]: Az 1. § h) pontja a 305/2018. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^4]: Az 1. § h) pontja a 305/2018. (XII. 27.) Korm. rendelet 13. §-ával megállapított, záró szövegrésze a 179/2025. (VI. 30.) Korm. rendelet 34. §-a szerint módosított szöveg.
 [^5]: Az 1. § i) pontja a 360/2019. (XII. 30.) Korm. rendelet 123. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^6]: Az 1. § l) pontja a 353/2014. (XII. 29.) Korm. rendelet 66. §-ával megállapított szöveg.
 [^7]: Az 1. § l) pont la) alpontja a 284/2015. (IX. 29.) Korm. rendelet 17. § a) pontja, a 419/2015. (XII. 23.) Korm. rendelet 40. § b) pontja, a 191/2016. (VII. 13.) Korm. rendelet 19. § a) pontja, a 381/2017. (XII. 11.) Korm. rendelet 19. § b) pontja, a 226/2018. (XII. 4.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
