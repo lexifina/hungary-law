@@ -1,1 +1,3 @@
-### 97. §
+97. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 75/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről. Az elektronikus felületről az ellenőrzés elvégzésének ténye és eredménye letölthető és kinyomtatható.”
