@@ -1,4 +1,4 @@
-5. § (1) Ha e törvény eltérően nem rendelkezik, a magyar bűnüldöző szerv megkeresését a külföldi hatósághoz a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) továbbítja, illetve a külföldi hatóság megkeresését a NEBEK fogadja.
+5. § (1) Ha e törvény eltérően nem rendelkezik, a magyar bűnüldöző szerv megkeresését a külföldi hatósághoz a rendőrség nemzetközi bűnügyi együttműködési központja (a továbbiakban: NEBEK) továbbítja, illetve a külföldi hatóság megkeresését a NEBEK fogadja.
 
 (2) Ha a megkeresés teljesítéséhez a magyar jogszabályok szerint bírói engedély vagy az ügyészség engedélye, jóváhagyása, hozzájárulása, illetve egyetértése szükséges, azt külön törvényben meghatározott eljárási rend szerint a megkeresést teljesítő magyar bűnüldöző szervnek be kell szereznie.
 
