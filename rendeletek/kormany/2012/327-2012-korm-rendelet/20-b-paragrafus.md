@@ -14,10 +14,10 @@ c) 80%-a a támogatás időtartamának második évét követően.
 
 (5)[^98] A (4) bekezdést az Mmtv. 7. § (6) bekezdése alapján ismételten megállapított rehabilitációs ellátás esetében is alkalmazni kell.
 
-(6)[^99] Az egyéni támogatás éves keretösszege a 21. § (5) és (6) bekezdése szerinti forprofit és nonprofit munkáltatók között differenciálható. A differenciálás mértékének megállapítására a 31. § (1) bekezdés c) pontja szerinti egyéni támogatás tervezett éves keretösszege a forprofit és nonprofit munkáltatók szerint, külön-külön kerül meghatározásra.
+(6)[^99] A 31. § (1) bekezdés c) pontja szerinti egyéni támogatás egy főre jutó tervezett éves keretösszege – a miniszter által meghatározott támogatási elvekben kialakított kategóriák szerint – a munkáltatók között differenciáltan is megállapítható.
 
 [^95]: A 20/B. §-t a 335/2013. (IX. 20.) Korm. rendelet 15. §-a iktatta be.
 [^96]: A 20/B. § (2) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^97]: A 20/B. § (4) bekezdés nyitó szövegrésze a 332/2014. (XII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^98]: A 20/B. § (5) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^99]: A 20/B. § (6) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^99]: A 20/B. § (6) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 179/2025. (VI. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
