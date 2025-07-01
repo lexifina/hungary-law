@@ -54,7 +54,7 @@ b) a kérelmező folyamatos gondozását, gyógykezelését és az aktuális ál
 
 c) az a) és b) pont szerinti iratokban feltüntetett körülményekkel összefüggő további egészségügyi dokumentációt, valamint
 
-d)[^43] ha a kérelmező foglalkoztatott, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját az érintett személy munkaköri feladatairól, álláshelyen ellátott feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról, hogy egészségi állapota alapján jelenlegi munkakörében vagy álláshelyén (a továbbiakban együtt: munkakör) továbbfoglalkoztatható-e.
+d)[^43] ha a kérelmező foglalkoztatott, és a dokumentum rendelkezésre áll, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját az érintett személy munkaköri feladatairól, álláshelyen ellátott feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról, hogy egészségi állapota alapján jelenlegi munkakörében vagy álláshelyén (a továbbiakban együtt: munkakör) továbbfoglalkoztatható-e.
 
 (6a)[^44] Az Mmtv. 33/B. § (1) bekezdése szerinti nyilatkozatot a szociálpolitikáért felelős miniszter által rendszeresített formában kell megtenni. A nyilatkozatot a fővárosi és vármegyei kormányhivatalok, valamint a központi nyugdíjbiztosítási szerv honlapján közzé kell tenni.
 
@@ -75,7 +75,7 @@ d)[^43] ha a kérelmező foglalkoztatott, a foglalkozás-egészségügyi alapszo
 [^40]: A 6. § (5) bekezdés a) pontját a 32/2024. (II. 22.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^41]: A 6. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^42]: A 6. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, nyitó szövegrésze a 104/2024. (V. 9.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^43]: A 6. § (6) bekezdés d) pontja a 102/2019. (V. 6.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^43]: A 6. § (6) bekezdés d) pontja a 102/2019. (V. 6.) Korm. rendelet 10. § c) pontja, a 179/2025. (VI. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
 [^44]: A 6. § (6a) bekezdését a 414/2021. (VII. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
 [^45]: A 6. § (6b) bekezdését a 414/2021. (VII. 13.) Korm. rendelet 8. §-a iktatta be.
 [^46]: A 6. § (6c) bekezdését a 414/2021. (VII. 13.) Korm. rendelet 8. §-a iktatta be.

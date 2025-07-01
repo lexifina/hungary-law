@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-327-20-
 | 2024-07-01 | 2011-327-20-22.39 | 104/2024. (V. 9.) Korm. rendelet |
 | 2025-01-01 | 2011-327-20-22.40 | 448/2016. (XII. 19.) Korm. rendelet |
 | 2025-03-01 | 2011-327-20-22.41 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2025-07-01 | 2011-327-20-22.42 | 179/2025. (VI. 30.) Korm. rendelet |

@@ -4,7 +4,7 @@
 
 (1a)[^3]
 
-(2)[^4] A Kormány a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 21. § (2) bekezdésében meghatározottak tekintetében rehabilitációs hatóságként – az (1) bekezdésben foglaltakon túlmenően – a központi nyugdíjbiztosítási szervet is kijelöli. Az állami adóhatóság az Mmtv. 21. § (2) bekezdése és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság részére az állami adóhatóság által teljesített adatátadás részletes szabályairól szóló 424/2012. (XII. 29.) Korm. rendelet 2/A. §-a szerinti adattovábbítási kötelezettségét a központi nyugdíjbiztosítási szerv felé teljesíti.
+(2)[^4]
 
 (2a)[^5] A Kormány a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás tekintetében rehabilitációs hatóságként – az (1) bekezdésben foglaltakon túlmenően – a központi nyugdíjbiztosítási szervet is kijelöli.
 
@@ -57,7 +57,7 @@ biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javas
 [^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^4]: Az 1. § (2) bekezdése a 116/2021. (III. 10.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdését a 179/2025. (VI. 30.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.
 [^5]: Az 1. § (2a) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 371. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^7]: Az 1. § (5) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
