@@ -4,21 +4,21 @@
 
 (2) A független értékelés kiegészítő céljai:
 
-a) információt szolgáltatni annak megállapításához, hogy teljesülnek-e a szanálási feltételek, illetve a tőkeelemek leírására vagy átalakítására vonatkozó feltételek;
+a) információt szolgáltatni annak megállapításához, hogy teljesülnek-e a szanálási feltételek, illetve a tőkeinstrumentumok és leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó feltételek;
 
 b) ha a szanálási feltételek teljesülnek, információt nyújtani az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás tekintetében alkalmazandó szanálási intézkedés alkalmazhatóságáról;
 
-c) hitelezői feltőkésítés és a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság alkalmazása esetén információt nyújtani az arra vonatkozó döntéshez, hogy milyen mértékben kerüljön sor az intézményben lévő tagsági részesedések bevonására, leírására vagy átalakítására és milyen mértékben kerüljön sor a kiegészítő alapvető és járulékos tőkeelemek leírására vagy átalakítására;
+c) hitelezői feltőkésítés és a tőkeinstrumentumok és leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó jogosultság alkalmazása esetén információt nyújtani az arra vonatkozó döntéshez, hogy milyen mértékben kerüljön sor a hitelezői feltőkésítésbe bevonható kötelezettségek leírására, illetve átalakítására, és az intézményben lévő tagsági részesedések bevonására, leírására vagy átalakítására és milyen mértékben kerüljön sor a kiegészítő alapvető és járulékos tőkeelemek leírására vagy átalakítására;
 
 d) áthidaló intézmény vagy eszközelkülönítés alkalmazása esetén információt nyújtani az átruházandó eszközökre, forrásokra, jogokra és kötelezettségekre vagy az intézményben lévő tagsági részesedésekre vonatkozó döntéshez, valamint a szanálás alatt álló intézménynek, illetve az intézményben lévő tagsági részesedések tulajdonosainak fizetendő ellentételezés értékére vonatkozó döntéshez;
 
 e) a szanálási feladatkörében eljáró MNB számára piaci feltétel megállapításához nyújtandó információ a vagyonértékesítés alkalmazása esetén az átruházandó eszközökre, forrásokra, jogokra és kötelezettségekre vagy az intézményben lévő tagsági részesedésekre vonatkozó döntéshez;
 
-f) annak biztosítása, hogy az intézmény eszközeivel kapcsolatos esetleges veszteségeket a szanálási eszközök alkalmazásakor vagy a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása előtt teljes körűen elszámolják.
+f) annak biztosítása, hogy az intézmény eszközeivel kapcsolatos esetleges veszteségeket a szanálási eszközök alkalmazásakor vagy a tőkeinstrumentumok és leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó jogosultság gyakorlása előtt teljes körűen elszámolják.
 
 (3) A független értékelésnek prudens feltételezéseken kell alapulnia, ideértve az eszközök nemteljesítési arányának és a várható veszteségek mértékének meghatározását is.
 
-(4) A független értékeléskor nem tételezhető fel, hogy az intézmény a jövőben rendkívüli állami pénzügyi támogatásban részesül a szanálási intézkedés időpontját követően, illetve azt követően, hogy a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság alkalmazására sor kerül. Ha az intézmény a független értékelést megelőző három hónapban rendkívüli állami pénzügyi támogatásban részesült, akkor annak esetleges értéknövelő hatását figyelmen kívül kell hagyni.
+(4) A független értékeléskor nem tételezhető fel, hogy az intézmény a jövőben rendkívüli állami pénzügyi támogatásban részesül a szanálási intézkedés időpontját követően, illetve azt követően, hogy a tőkeinstrumentumok és leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó jogosultság alkalmazására sor kerül. Ha az intézmény a független értékelést megelőző három hónapban rendkívüli állami pénzügyi támogatásban részesült, akkor annak esetleges értéknövelő hatását figyelmen kívül kell hagyni.
 
 (5) A független értékeléskor figyelembe kell venni, hogy bármelyik szanálási eszköz alkalmazása esetén
 

@@ -2,7 +2,7 @@
 
 88. § (1) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – önmagában még nem ismerhető el a Tvt. értelmében vett jogérvényesítési vagy fizetésképtelenségi eljárásként, ha a szerződés szerinti érdemi kötelezettségeket, többek között a fizetési és szállítási kötelezettségeket, valamint a biztosíték rendelkezésre bocsátását továbbra is teljesítik.
 
-(2) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – nem teszi lehetővé:
+(2) A 2014/59/EU irányelvben meghatározott válságmegelőzési vagy válságkezelési intézkedéseknek alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése –, valamint az egyes kötelezettségek felfüggesztésére vonatkozó jogosultság 89. § szerinti gyakorlása nem teszi lehetővé:
 
 a) felmondási, felfüggesztési, nettósítási vagy egymással szembeni elszámolási jog gyakorlását, többek között
 

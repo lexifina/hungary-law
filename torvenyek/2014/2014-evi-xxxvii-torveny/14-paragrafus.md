@@ -42,7 +42,7 @@ d) a jelentős fióktelep illetékes szanálási hatósága
 
 számára.
 
-(9) A csoportszintű szanálhatóság akadályainak elhárítása tekintetében a (2) bekezdés alapján többoldalú eljárás keretében határozatot hoznak a szanálási kollégium tagjai a szanálási feladatkörében eljáró MNB vezetésével, ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság. A határozat meghozatala során figyelembe veszik az EU-szintű anyavállalat észrevételeit és javaslatait.
+(9) A csoportszintű szanálhatóság akadályainak elhárítása tekintetében, valamint szükség esetén az EU-szintű anyavállalat által javasolt intézkedések, és az akadályok kezelése vagy kiküszöbölése érdekében előírt intézkedések értékeléséről a többoldalú eljárás keretében határozatot hoznak a szanálási kollégium tagjai a szanálási feladatkörében eljáró MNB vezetésével, ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság, illetve a szanálási feladatkörében eljáró MNB részvételével, ha a leányvállalat szanálási hatósága. A határozat meghozatala során figyelembe veszik az EU-szintű anyavállalat észrevételeit és javaslatait.
 
 (10) A többoldalú eljárás keretében hozott határozat figyelembe veszi a csoport által érintett minden EGT-államban és az Európai Unió pénzügyi rendszerében felmerülő hatást.
 

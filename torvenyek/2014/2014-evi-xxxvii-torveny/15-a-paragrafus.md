@@ -16,11 +16,11 @@ bármelyike révén.
 
 a) a meg nem felelés okát, időtartamát és mértékét, valamint annak a szanálhatóságra gyakorolt hatását,
 
-b) a szervezet pénzügyi helyzetének alakulását és annak valószínűségét, hogy a szervezetnél belátható időn belül teljesülnek a szanálás feltételei,
+b) a szervezet pénzügyi helyzetének alakulását és annak valószínűségét, hogy a szervezetnél belátható időn belül teljesülhet a 17. § (1) bekezdés a) pontja szerinti feltétel,
 
 c) az arra vonatkozó kilátást, hogy a szervezet észszerű időn belül képes lesz megfelelni a követelményeknek,
 
-d) azt, hogy ha a szervezet nem képes felvállalni azokat a kötelezettségeket, amelyek már nem felelnek meg a leírható, illetve átalakítható kötelezettségekre vagy azok futamidejére vonatkozó, az 575/2013/EU rendelet 72b. és 72c. cikkében, a 66. §-ban vagy a 68/B. § (5) bekezdésében meghatározott feltételeknek, akkor ez egyedi okokra vezethető vissza vagy az egész piacot érintő zavarnak tudható be, és
+d) azt, hogy ha a szervezet nem képes felváltani azokat a kötelezettségeket, amelyek már nem felelnek meg a leírható, illetve átalakítható kötelezettségekre vagy azok futamidejére vonatkozó, az 575/2013/EU rendelet 72b. és 72c. cikkében, a 66. §-ban vagy a 68/B. § (5) bekezdésében meghatározott feltételeknek, akkor ez egyedi okokra vezethető vissza vagy az egész piacot érintő zavarnak tudható be, és
 
 e) a nyereségkifizetés megtiltása lenne-e a legmegfelelőbb és a leginkább arányos eszköz a szervezet helyzetének kezelésére, figyelembe véve, hogy az potenciálisan milyen hatást gyakorolhat az érintett szervezet finanszírozási feltételeire és a szanálhatóságára.
 

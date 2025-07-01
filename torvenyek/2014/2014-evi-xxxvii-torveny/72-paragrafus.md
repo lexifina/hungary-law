@@ -36,7 +36,7 @@ b) hozzájárul a szanálási feladatkörében eljáró MNB leírási, törlési
 
 (8a) Amennyiben az intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet megállapítja, hogy a (7) bekezdésben foglalt feltétel értékpapír vagy kötelezettség szerződéses feltételeibe foglalásának akadálya van, úgy erről – a kötelezettség és osztályának pontos megjelölésével – értesíti a szanálási feladatkörében eljáró MNB-t, továbbá átad minden a hatóság által – a szanálási célok érvényre juttatása és a szanálási feltételek fennállásának értékeléséhez – észszerű időn belül kért adatot és információt. Az értesítés MNB általi kézhezvételével a (7) bekezdésben foglalt feltételek szerződésbe foglalásának kötelezettsége automatikusan felfüggesztésre kerül.
 
-(8b) A (8a) bekezdés szerinti kötelezettségek nem tartalmazhatnak kiegészítő alapvető tőke és járulékos tőkeelemekből, továbbá a 3. § 34a. pontja szerinti hitelviszonyt megtestesítő értékpapírból származó fedezetlen kötelezettségeket. Ezen kötelezettségek a felszámolási eljárásban alkalmazandó kielégítési sorrendben megelőzik a Hpt. 57. § (1) bekezdése szerinti kötelezettségeket, valamint a 70. § (3) bekezdés a)–d) pont szerinti besorolású kötelezettségeket.
+(8b) A (8a) bekezdés szerinti kötelezettségek nem tartalmazhatnak kiegészítő alapvető tőke és járulékos tőkeelemekből, továbbá kötvényekből és átruházható követelések más formáiból, valamint adósságot keletkeztető vagy elismerő instrumentumokból származó fedezetlen kötelezettségeket. Ezen kötelezettségek a felszámolási eljárásban alkalmazandó kielégítési sorrendben megelőzik a Hpt. 57. § (1b) bekezdés b) pontja szerinti kötelezettségeket, valamint a 70. § (3) bekezdés a)–d) pont szerinti besorolású kötelezettségeket.
 
 (8c) Amennyiben a szanálási feladatkörében eljáró MNB azt állapítja meg, hogy a (7) bekezdés szerinti feltétel szerződéses rendelkezésbe történő foglalására lehetőség van, úgy határozatával kötelezi az intézményt vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezetet a feltétel szerződésbe foglalására, egyúttal előírhatja számára a hitelezői feltőkésítés szerződéses elismerése alóli mentesítésre vonatkozó gyakorlatának módosítását.
 
@@ -48,7 +48,7 @@ b) hozzájárul a szanálási feladatkörében eljáró MNB leírási, törlési
 
 (9) A (7) bekezdésben foglalt kötelezettség nem teljesítése nem akadályozza a szanálási feladatkörében eljáró MNB-t, hogy alkalmazza a hitelezői feltőkésítést az érintett instrumentumra vagy kötelezettségre.
 
-(9a) A szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelmények teljesítése során a (7) bekezdés szerinti szerződéses feltételt nem tartalmazó kötelezettségeket nem lehet figyelembe venni.
+(9a) A szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelmények teljesítése során a (7) bekezdés szerinti szerződéses feltételt nem tartalmazó kötelezettségeket, valamint azon kötelezettségeket, amelyekre a feltétel kikötése nem alkalmazható nem lehet figyelembe venni.
 
 (9b) Ha a szanálási feladatkörében eljáró MNB szükségesnek ítéli, akkor meghatározza a kötelezettségek azon kategóriáit, amelyek esetében az intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet saját hatáskörében megállapíthatja a (7) bekezdés szerinti szerződéses feltétel szerződésbe foglalásának lehetetlenségét.
 

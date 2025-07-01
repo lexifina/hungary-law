@@ -10,6 +10,8 @@ a) valamely harmadik országban letelepedett végső anyavállalatuk vagy a vég
 
 b) a 68/B. § (5) bekezdés a) pont aa) alpontjában és b) pont bb) alpontjában meghatározott feltételek mellett egyéb szervezetek részére való kibocsátásával.
 
+(2b) Az európai szanálási kollégiumban részt vevő szanálási feladatkörében eljáró MNB a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségre vonatkozó minimumkövetelmény meghatározása során figyelembe veszi az érintett harmadik országbeli hatóság által elfogadott globális szanálási stratégiát, amennyiben van ilyen.
+
 (3) Az európai szanálási kollégium elnöki tisztét a szanálási feladatkörében eljáró MNB látja el, ha
 
 a) a csoport egyetlen EU-szintű anyavállalata Magyarországon van, vagy

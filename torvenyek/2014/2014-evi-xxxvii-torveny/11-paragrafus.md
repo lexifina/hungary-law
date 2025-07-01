@@ -1,6 +1,6 @@
 ## 4. A szanálhatóság akadályainak kezelése vagy megszüntetése
 
-11. § (1) Ha a szanálási feladatkörében eljáró MNB a szanálhatóság értékelése során megállapítja, hogy a szervezet szanálhatóságának jelentős akadályai vannak, erről írásban tájékoztatja az intézményt és a Felügyeletet.
+11. § (1) Ha a szanálási feladatkörében eljáró MNB a szanálhatóság értékelése során megállapítja, hogy a szervezet szanálhatóságának jelentős akadályai vannak, erről írásban tájékoztatja az intézményt, a Felügyeletet, valamint azon szanálási hatóságot, amelynek területén az intézménynek jelentős fióktelepe van.
 
 (1a) A szanálási feladatkörben eljáró MNB a szanálási terv készítését az (1) bekezdés szerinti jelentős akadályok elhárításáig felfüggeszti.
 

@@ -40,7 +40,7 @@ d) a leányvállalatot aránytalanul sújtanák az 575/2013/EU rendelet 72e. cik
 
 a) olyan kötelezettséggel,
 
-aa) amelyet szanálás alá vonható szervezet részére bocsátottak ki és amelyet ez a szervezet meg is vásárolt közvetlenül vagy ugyanazon szanálás alá vonható csoportba tartozó szervezeten keresztül, vagy a 74. §-sal, a 79. §-sal és a 80. §-sal összhangban gyakorolt hatáskör nem érinti a szanálás alá nem vonható leányvállalatot és a szanálás alá vonható csoportnak nem tagja a kötelezettséget megvásárló részvényes,
+aa) amelyet szanálás alá vonható szervezet részére bocsátottak ki és amelyet ez a szervezet meg is vásárolt közvetlenül vagy ugyanazon szanálás alá vonható csoportba tartozó szervezeten keresztül, vagy amelyet szanálás alá vonható csoporton kívüli részvényes vásárolt meg feltéve, hogy a 74. §-sal, a 79. §-sal és a 80. §-sal összhangban gyakorolt hatáskör nem érinti a szanálás alá nem vonható leányvállalat felett gyakorolt ellenőrzést,
 
 ab) amely megfelel az 575/2013/EU rendelet 72a. cikkében meghatározott elismerhetőségi kritériumoknak, kivéve a 72b. cikk (2) bekezdés b), c), k), l) és m) pontját, valamint a 72b. cikk (3)–(5) bekezdését,
 
@@ -60,7 +60,7 @@ b) olyan szavatoló tőkével, amely
 
 ba) elsődleges alapvető tőke, vagy
 
-bb) ugyanazon szanálás alá vonható csoportba tartozó más szervezetek részére került kibocsátásra és azok meg is vásárolták, vagy olyan szervezet számára bocsátották ki és azok vásárolták meg, amelyek nem ugyanabba a szanálás alá vonható csoportba tartoznak és leírásra vagy átalakításra vonatkozó hatáskör nincs hatással a szanálás alá vonható leányvállalat felett a szanálás alá vonható szervezet által gyakorolható ellenőrzésre.
+bb) ugyanazon szanálás alá vonható csoportba tartozó más szervezetek részére került kibocsátásra és azok meg is vásárolták, vagy olyan szervezetek számára bocsátották ki és azok vásárolták meg, amelyek nem ugyanabba a szanálás alá vonható csoportba tartoznak, amennyiben a leírásra vagy átalakításra vonatkozó hatáskör gyakorlása nincs hatással a szanálás alá vonható szervezet által a leányvállalat felett gyakorolt ellenőrzésre.
 
 (5a) A szanálási feladatkörében eljáró MNB abban az esetben engedélyezi vagy adhat általános előzetes engedélyt az intézmény kérelmére az (5) bekezdés a) pontja szerinti kötelezettségek lehívására, visszaváltására, visszafizetésére vagy visszavásárlására, ha az 575/2013/EU rendelet 77. és 78a. cikkében rögzített – ideértve a 68/B. § (5) bekezdés a) pontja szerinti kötelezettségeket is –, a leírható, illetve átalakítható kötelezettséginstrumentumok lehívására, visszaváltására, visszafizetésére vagy visszavásárlására vonatkozó a kérelemtől függően az engedélyezés vagy általános előzetes engedély megadásának feltételei az (5) bekezdés a) pontja szerinti kötelezettség esetében is fennállnak.
 
@@ -108,7 +108,7 @@ f) az anyavállalat a leányvállalat tőkéjében a részvényekhez kapcsolód�
 
 a) mértéke eléri a követelmény összegét,
 
-b) akkor hívható le, amikor a leányvállalat az esedékes kötelezettségeinek nem képes eleget tenni vagy a 74. § (3) bekezdésében foglaltak kerültek megállapításra,
+b) akkor hívható le, amikor a leányvállalat az esedékes kötelezettségeinek nem képes eleget tenni vagy – amennyiben ez a korábbi – a 74. § (3) bekezdésében foglaltak kerültek megállapításra,
 
 c) összegének legalább 50 százalékát kitevő mértékű fedezettel biztosított pénzügyi biztosítéki megállapodás révén,
 

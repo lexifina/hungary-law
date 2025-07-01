@@ -20,6 +20,6 @@ b) az intézmény, az 1. § (1) bekezdés szerinti pénzügyi vállalkozás fenn
 
 (5) Ha rendszerszintű válság alakul ki, akkor a szanálási feladatkörében eljáró MNB kereshet alternatív finanszírozási megoldást a 81–83. § szerint állami pénzügyi stabilizációs eszköz keretében, ha
 
-a) a tagsági részesedés, a kiegészítő alapvető és a járulékos tőkeelemek, valamint egyéb leírható és átalakítható kötelezettségek tulajdonosai leírás és átalakítás révén vagy más módon hozzájárultak a hitelezői feltőkésítéshez, és ennek összege legalább a kötelezettségek – ideértve a szanálás alatt álló intézmény szavatoló tőkéjét – a független értékelés alapján számított összértékének 8 százaléka, valamint
+a) a részvényesek és az egyéb tulajdonviszonyt megtestesítő instrumentumok tulajdonosai és az egyéb releváns tőkeinstrumentumok és egyéb hitelezői feltőkésítésbe bevonható kötelezettségek tulajdonosai leírás, illetve átalakítás révén vagy más módon hozzájárulást nyújtottak a veszteségelvonáshoz és feltőkésítéshez, és ennek összege legalább a kötelezettségek – ideértve a szanálás alatt álló intézmény szavatoló tőkéjét – a független értékelés alapján számított összértékének 8 százaléka, valamint
 
 b) az Európai Unió működéséről szóló szerződés szerinti és jóváhagyott állami támogatás.

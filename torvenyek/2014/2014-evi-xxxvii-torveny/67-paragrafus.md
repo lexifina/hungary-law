@@ -26,7 +26,7 @@ a) szavatoló tőke,
 
 b) az 575/2013/EU rendelet 72a. cikkében említett elismerhetőségi kritériumoknak megfelelő kötelezettségek, az 575/2013/EU rendelet 72b. cikk (2) bekezdésének b) és d) pontja kivételével,
 
-c) 66. § (6) bekezdése szerinti kötelezettségek.
+c) 66. § (3) bekezdése szerinti kötelezettségek.
 
 (3b) Az 575/2013/EU rendelet 77. cikk (2) bekezdése és 78a. cikke nem alkalmazandó arra a felszámolandó szervezetre, amelyre a szanálási feladatkörében eljáró MNB nem határozta meg a 62. § (1) bekezdés szerinti minimumkövetelményt.
 
@@ -52,11 +52,13 @@ bb) az előnyben részesített szanálási stratégia végrehajtását követő,
 
 (6) A 62. § (2) bekezdés b) pontja esetében a 62. § (1) bekezdésében meghatározott minimum követelményt százalékos formában úgy kell meghatározni, hogy a (4) bekezdés b) pontja szerint számított összegnek és a teljes kitettség érték hányadosát kell venni.
 
-(7) A szanálási feladatkörében eljáró MNB a (4) bekezdés a) és b) pontjában rögzített követelmény meghatározásakor figyelembe veszi a 34. § (5) bekezdését, valamint a 60. § (2) és (5) bekezdését azzal, hogy a feltőkésítési összeg meghatározásakor
+(7) A szanálási feladatkörében eljáró MNB a (4) bekezdés b) pontjában rögzített követelmény meghatározásakor figyelembe veszi a 34. § (5) bekezdését, valamint a 60. § (2) és (5) bekezdését.
+
+(7a) A feltőkésítési összeg meghatározásakor a (2)–(7) bekezdés értelmében
 
 a) a teljes kockázati kitettség értéknek vagy a teljes kitettségi értéknek a legutolsó adatszolgáltatás szerinti értékét kell figyelembe venni, korrigálva azt a szanálási tervben meghatározott szanálási intézkedésekből eredő változások hatásaival; és
 
-b) a Felügyelettel folytatott konzultációt követően a Hpt. 186. § szerinti követelményt korrigálni kell a szanálási stratégia végrehajtása szerint alkalmazandó eltéréssel.
+b) a Felügyelettel folytatott konzultációt követően a Hpt. 186. §-a szerinti követelményt korrigálni kell a szanálási stratégia végrehajtása szerint alkalmazandó eltéréssel.
 
 (8) A szanálási feladatkörében eljáró MNB a (4) bekezdés a) pont ab) alpont szerinti követelmény összegét megemelheti olyan mértékig, amely biztosítja, hogy a szanálás alá vonható szervezet a szanálást követően legfeljebb egy éven keresztül képes legyen fenntartani magával szemben a megfelelő piaci bizalmat.
 
@@ -98,15 +100,17 @@ bb) az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja szerinti tőkeátt�
 
 (18) A 62. § (2) bekezdés b) pontja esetében a 62. § (1) bekezdésében meghatározott minimumkövetelményt százalékos formában úgy kell meghatározni, hogy a (16) bekezdés b) pontja szerint számított összegnek és a teljes kitettség érték hányadosát kell venni.
 
-(19) A szanálási feladatkörében eljáró MNB a (16) bekezdés b) pontjában rögzített követelmény meghatározásakor figyelembe veszi a 34. § (5) bekezdését, valamint a 60. § (2) és (5) bekezdését azzal, hogy a feltőkésítési összeg meghatározásakor
+(19) A szanálási feladatkörében eljáró MNB a (16) bekezdés b) pontjában rögzített követelmény meghatározásakor figyelembe veszi a 34. § (5) bekezdését, valamint a 60. § (2) és (5) bekezdését.
 
-a) a teljes kockázati kitettség értéknek vagy a teljes kitettség értéknek a legutolsó adatszolgáltatás szerinti értékét kell figyelembe venni, korrigálva azt a szanálási tervben meghatározott intézkedésekből eredő változások hatásaival; és
+(19a) A feltőkésítési összeg meghatározásakor a (16)–(19) bekezdés értelmében
 
-b) a Felügyelettel folytatott konzultációt követően a Hpt. 186. § szerinti követelményt korrigálni kell a releváns tőkeinstrumentumok és a leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó hatáskörnek a 74. § szerinti gyakorlásának vagy a szanálás alá vonható csoport szanálásának eredményeként alkalmazandó eltéréssel.
+a) a teljes kockázati kitettség értéknek vagy a teljes kitettségi értéknek a legutolsó adatszolgáltatás szerinti értékét kell figyelembe venni, korrigálva azt a szanálási tervben meghatározott szanálási intézkedésekből eredő változások hatásaival; és
+
+b) a Felügyelettel folytatott konzultációt követően a Hpt. 186. §-a szerinti követelményt korrigálni kell a szanálási stratégia végrehajtása szerint alkalmazandó eltéréssel.
 
 (20) A szanálási feladatkörében eljáró MNB a (16) bekezdés a) pont ab) alpont szerinti követelmény összegét megemelheti olyan mértékig, amely biztosítja, hogy miután sor került a releváns tőkeinstrumentumok és a leírható, illetve átalakítható kötelezettségek leírására vagy átalakítására vonatkozó hatáskörnek a 74. § szerinti gyakorlására vagy a szanálás alá vonható csoport szanálására, a szervezet legfeljebb egy éven keresztül képes legyen fenntartani magával szemben a megfelelő piaci bizalmat.
 
-(21) A (20) bekezdésben meghatározott összeg megegyezik a szanálási eszköz alkalmazását követően alkalmazandó kombinált pufferkövetelmény összegének az intézményspecifikus anticiklikus tőkepufferrel csökkentett összeggel.
+(21) A (20) bekezdésben meghatározott összeg megegyezik a szanálási intézkedést vagy a szanálás alá vonható csoport szanálását követően alkalmazandó kombinált pufferkövetelmény összegének az intézményspecifikus anticiklikus tőkepufferrel csökkentett összeggel.
 
 (22) A (20) bekezdés szerinti összeget lefelé kell korrigálni, ha a szanálási feladatkörében eljáró MNB a Felügyelettel folytatott konzultációt követően azt állapítja meg, hogy a hiteles piaci bizalom megvalósításához és fenntartásához, továbbá annak biztosításához, hogy a szanálási intézkedést vagy a szanálás alá vonható csoport szanálását követően az intézmény és az 1. § (1) bekezdés b) és c) pontja szerinti szervezet kritikus funkcióinak a fenntartásához alacsonyabb összeg is elégséges, valamint forráshoz tud jutni anélkül, hogy a Szanálási Alap 60. § (2) és (5) bekezdésével és a 127. §-sal összhangban nyújtott hozzájárulásán kívül rendkívüli állami támogatást venne igénybe.
 

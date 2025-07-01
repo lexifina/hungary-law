@@ -1,6 +1,6 @@
 ## 26/A. Alárendelt leírható, illetve átalakítható kötelezettségek értékesítése lakossági ügyfeleknek
 
-61/A. § (1) Az 575/2013/EU rendelet – 72a. cikk (1) bekezdés b) pontja és 72b. cikk (3)–(5) bekezdésének kivételével – 72a. cikkében meghatározott valamennyi feltételnek eleget tevő leírható, illetve átalakítható kötelezettségeket átruházó intézmény (e § alkalmazásában a továbbiakban: eladó) e kötelezettségeket a Bszt.-ben meghatározott lakossági ügyfeleknek az alábbi feltételek együttes teljesülése esetén értékesíti:
+61/A. § (1) Az 575/2013/EU rendelet – 72a. cikk (1) bekezdés b) pontja és 72b. cikk (3)–(5) bekezdésének kivételével – 72a. cikkében meghatározott valamennyi feltételnek eleget tevő leírható, illetve átalakítható kötelezettségek eladói e kötelezettségeket a Bszt.-ben meghatározott lakossági ügyfeleknek az alábbi feltételek együttes teljesülése esetén értékesíti:
 
 a) az eladó a Bszt. 44. § (1) és (2) bekezdésével összhangban alkalmassági tesztet végzett;
 

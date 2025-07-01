@@ -36,7 +36,7 @@
 
 ## 18. a 68/A. és 68/C. §-ban meghatározott követelmények és azok 150/D. § szerinti teljesítésének határideje azzal, hogy a szanálási feladatkörében eljáró MNB a szanálási terv szanálási intézkedés alkalmazása miatti felülvizsgálatakor figyelembe veszi a tőke ajánlásban megállapítottaknak való megfelelésre vonatkozó határidőket;
 
-## 19. amennyiben a szanálási feladatkörében eljáró MNB alkalmazza a 66. § (8)–(12) vagy (14) bekezdését a szanálás alá vonható szervezet általi 150/D. § szerinti megfelelés ütemezése azzal, hogy a szanálási feladatkörében eljáró MNB a szanálási terv szanálási intézkedés alkalmazása miatti felülvizsgálatakor figyelembe veszi a tőke ajánlásban megállapítottaknak való megfelelésre vonatkozó határidőket;
+## 19. amennyiben a szanálási feladatkörében eljáró MNB alkalmazza a 66. § (7)–(11) vagy (13) bekezdését a szanálás alá vonható szervezet általi 150/D. § szerinti megfelelés ütemezése azzal, hogy a szanálási feladatkörében eljáró MNB a szanálási terv szanálási intézkedés alkalmazása miatti felülvizsgálatakor figyelembe veszi a tőke ajánlásban megállapítottaknak való megfelelésre vonatkozó határidőket;
 
 ## 20. adott esetben az intézmény szanálási tervvel kapcsolatos véleménye.
 
@@ -67,3 +67,55 @@ A szanálhatóság értékelése során a szanálási feladatkörében eljáró 
 2. a jogi és a vállalati struktúrák mennyire vannak összehangolva a fő üzletágakkal és a kritikus funkciókkal;
 
 3. milyen mértékben léteznek olyan intézkedések, amelyek célja a fő üzletágak és a kritikus működési folyamatok támogatása és fenntartása érdekében az alapvető személyzetről, az infrastruktúráról, a finanszírozásról, a likviditásról és a tőkéről való gondoskodás;
+
+4. az intézmény által fenntartott szolgáltatási megállapodások – ideértve az IKT szolgáltatások igénybevételére vonatkozó megállapodásokat – mekkora hányada érvényesíthető teljes körűen az intézmény szanálása esetén;
+
+4a. megfelelően biztosítják-e az intézmény kritikus funkcióit és fő üzletágait támogató hálózati és információs rendszerek digitális működési rezilienciáját, figyelembe véve a jelentős IKT-vonatkozású eseményjelentéseket és a digitális működési reziliencia (EU) 2022/2554 rendelet szerinti tesztelés eredményeit;
+
+5. az intézmény irányítási struktúrája mennyire megfelelő az intézmény szolgáltatási szintre vonatkozó megállapodásainak kezeléséhez, továbbá mennyire biztosítja az e megállapodásokra vonatkozó belső politikáinak betartását;
+
+6. az intézménynél létezik-e – és milyen mértékben – eljárás arra az esetre, ha a kritikus funkciók vagy fő üzletágak elkülönítése miatt a szolgáltatási szintre vonatkozó megállapodások keretében nyújtott szolgáltatásokat át kell adni harmadik feleknek;
+
+7. milyen mértékben léteznek olyan készenléti tervek és intézkedések, amelyek biztosítják a fizetési és az elszámolási rendszerekhez való folyamatos hozzáférést;
+
+8. mennyire megfelelően biztosítják a vezetői információs rendszerek, hogy a szanálási hatóságok – a gyors határozathozatal érdekében – pontos és teljes körű információkat tudjanak gyűjteni a fő üzletágakkal és a kritikus működési folyamatokkal kapcsolatban;
+
+9. a vezetői információs rendszerek arra vonatkozó kapacitását, hogy az intézmény eredményes szanálásához elengedhetetlen információkat mindenkor, akár gyorsan változó körülmények között is rendelkezésre bocsássák;
+
+10. az intézmény mennyire tesztelte a vezetői információs rendszereit a szanálási hatóság által meghatározott stressz forgatókönyvek alapján;
+
+11. az intézmény mennyire tudja biztosítani a vezetői információs rendszereinek folytonosságát az érintett intézmény és az új intézmény számára egyaránt, ha a kritikus működési folyamatokat és a fő üzletágakat elkülönítik a többi működési folyamattól és üzletágtól;
+
+12. milyen mértékben hozott létre az intézmény megfelelő eljárásokat annak biztosítására, hogy megadja a szanálási hatóságoknak a betétesek és a betétbiztosítási rendszerek, valamint a befektetők és befektető-védelmi rendszerek által biztosított összegek azonosításához szükséges információkat;
+
+13. ha a csoport csoporton belüli garanciákat használ, milyen mértékben nyújtják ezeket a garanciákat piaci feltételek mellett, és hogy mennyire stabilak az e garanciákhoz kapcsolódó kockázatkezelési rendszerek;
+
+14. ha a csoport kockázat átruházási ügyleteket hajt végre, milyen mértékben történnek ezek az ügyletek piaci feltételek mellett, és hogy mennyire megbízhatóak az ezen ügyletekhez kapcsolódó kockázatkezelési rendszerek;
+
+15. a csoporton belüli garanciák vagy a kockázat átruházási ügyletek alkalmazása csoportszinten mennyire fokozza az átterjedést;
+
+16. a csoport jogi struktúrája – a jogalanyok száma, a csoport struktúrájának összetettsége, illetve az üzletágak és a csoporthoz tartozó vállalkozások egymáshoz rendelésében mutatkozó nehézségek miatt – mennyire akadályozza a szanálási eszközök alkalmazását;
+
+17. az intézménynek milyen összegű és típusú a hitelezői feltőkésítésbe bevonható kötelezettsége;
+
+18. ha az értékelés vegyes tevékenységű holdingtársaságra is kiterjed, a csoporthoz tartozó azon vállalkozások szanálása, amelyek intézmények vagy pénzügyi intézmények, mennyire lehet negatív hatással a csoport nem pénzügyi részére;
+
+19. a szolgáltatási szintre vonatkozó megállapodások megléte és hatékonysága;
+
+20. a harmadik országbeli hatóságok rendelkeznek-e az uniós szanálási hatóságok szanálási intézkedéseinek támogatásához szükséges szanálási eszközökkel, továbbá az uniós és a harmadik országbeli hatóságok összehangolt intézkedéseinek hatálya;
+
+21. a szanálási eszközök oly módon történő alkalmazásának megvalósíthatósága, amely megfelel a szanálási céloknak, tekintettel a rendelkezésre álló mechanizmusokra és az intézmény felépítésére;
+
+22. a csoport struktúrája milyen mértékben teszi lehetővé a szanálási hatóságnak, hogy úgy állítsa helyre az egész csoportot vagy az ahhoz tartozó egy vagy több vállalkozást, hogy az ne gyakoroljon közvetlenül vagy közvetve hátrányos hatást a pénzügyi rendszerre, a piaci bizalomra és a gazdaságra, és a csoport egésze értékének a maximalizálását célozza;
+
+23. azok az intézkedések és eszközök, amelyek révén megkönnyíthető olyan csoportok szanálása, amelyek különböző joghatóságok alá tartozó leányvállalatokkal rendelkeznek;
+
+24. annak hitelessége, hogy a szanálási eszközök alkalmazásának módja megfelel a szanálási céloknak, tekintettel a hitelezőkre, a partnerekre, az ügyfelekre és az alkalmazottakra gyakorolt lehetséges hatásra, valamint és a harmadik országbeli hatóságok lehetséges intézkedéseire;
+
+25. mennyire megfelelően értékelhető az intézmény szanálásának a pénzügyi rendszerre és a pénzügyi piaci bizalomra gyakorolt hatása;
+
+26. az intézmény szanálása mennyire jelentős közvetlen vagy közvetett hátrányos hatást gyakorolhat a pénzügyi rendszerre, a piaci bizalomra vagy a gazdaságra;
+
+27. a szanálási eszközök és jogosultságok alkalmazása révén mennyire tartható vissza a más intézményekre vagy a pénzügyi piacokra való továbbterjedés;
+
+28. az intézmény szanálása mennyire jelentős hatást gyakorolhat a fizetési és az elszámolási rendszerek működésére.

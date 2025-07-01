@@ -16,21 +16,21 @@
 
 (2d) Ha egy szanálás alá vonható szervezetnél vagy – rendkívüli körülmények esetén a szanálási tervtől eltérve – egy szanálás alá vonható szervezetnek nem minősülő szervezetnél szanálási eszközt alkalmaznak, a 79. § (1) bekezdésével összhangban az adott szervezet szintjén csökkentett, leírt vagy átalakított összegeket kell figyelembe venni az érintett szervezetre alkalmazandó a 34. § (5) bekezdése, a 60. § (2) bekezdés a) pontja vagy a 60. § (5) bekezdés a) pontja szerinti küszöbértékekre vonatkozó számításokban.
 
-(3) A szanálási feladatkörében eljáró MNB akkor gyakorolhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás által kibocsátott releváns tőkeelem és a (2c) bekezdés alapján leírható, illetve átalakítható kötelezettség tekintetében a leírásra vagy átalakításra vonatkozó jogosultságát
+(3) A szanálási feladatkörében eljáró MNB akkor gyakorolja késedelem nélkül az intézmény vagy az 1. § (1) bekezdés b) vagy c) pontja szerinti szervezet által kibocsátott releváns tőkeelem és a (2c) bekezdés alapján leírható, illetve átalakítható kötelezettség tekintetében a leírásra vagy átalakításra vonatkozó jogosultságát
 
-a) ha megállapítja, hogy az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás nem lesz többé életképes, kivéve ha gyakorolja a releváns tőkeelemek és a (2c) bekezdés alapján leírható, illetve átalakítható kötelezettség kapcsán a leírásra vagy az átalakításra való jogosultságot;
+a) ha bármiféle szanálási intézkedés megtétele előtt megállapításra kerül, hogy a szanálási feltételek teljesültek;
 
-b) az anyavállalat szintjén kibocsátott tőkeelemek esetében, ha ezeket a tőkeelemeket a Felügyelet elismeri a szavatoló tőke követelményeknek az anyavállalat szintjén történő egyéni vagy összevont alapon történő teljesítéseként, és a szanálási feladatkörében eljáró MNB megállapítja, hogy a csoport nem lesz többé életképes, hacsak a szóban forgó instrumentumok kapcsán nem gyakorolják a leírásra vagy átalakításra vonatkozó jogosultságot;
+b) ha megállapítja, hogy az intézmény vagy a szervezet nem lesz többé életképes, kivéve, ha gyakorolja a releváns tőkeelemek és a (2c) bekezdés alapján leírható, illetve átalakítható kötelezettség kapcsán a leírásra vagy az átalakításra való jogosultságot;
 
-c) a leányvállalat szintjén kibocsátott releváns tőkeelemek esetében, ha
+c) az anyavállalat szintjén kibocsátott tőkeelemek esetében, ha ezeket a tőkeelemeket a Felügyelet elismeri a szavatoló tőke követelményeknek az anyavállalat szintjén történő egyéni vagy összevont alapon történő teljesítéseként, és a szanálási feladatkörében eljáró MNB megállapítja, hogy a csoport nem lesz többé életképes, hacsak a szóban forgó instrumentumok kapcsán nem gyakorolják a leírásra vagy átalakításra vonatkozó jogosultságot;
 
-ca) ezeket a tőkeelemeket az illetékes felügyeleti hatóság elismeri a szavatoló tőke követelmények egyedi és összevont alapú teljesítéséhez és
+d) a leányvállalat szintjén kibocsátott releváns tőkeelemek esetében, ha
 
-cb) az összevont felügyeletet ellátó hatóság székhelye szerinti tőkeelemek leírására vagy átalakítására jogosult hatóság és a szanálási feladatkörében eljáró MNB a 32. § (5) és (6) bekezdése szerinti többoldalú eljárás keretében megállapítja, hogy a csoport a szóban forgó instrumentumok kapcsán gyakorolt tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása hiányában többé nem lesz életképes;
+da) ezeket a tőkeelemeket az illetékes felügyeleti hatóság elismeri a szavatoló tőke követelmények egyedi és összevont alapú teljesítéséhez és
 
-d) ha az intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
+db) az összevont felügyeletet ellátó hatóság székhelye szerinti tőkeelemek leírására vagy átalakítására jogosult hatóság és a szanálási feladatkörében eljáró MNB a 32. § (5) és (6) bekezdése szerinti többoldalú eljárás keretében megállapítja, hogy a csoport a szóban forgó instrumentumok kapcsán gyakorolt tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása hiányában többé nem lesz életképes; vagy
 
-e) az e törvényben meghatározott állami tőkeemelés során.
+e) ha az intézmény vagy a szervezet rendkívüli állami pénzügyi támogatást igényel.
 
 (4) Az intézmény vagy csoport a (3) bekezdés alkalmazásában többé nem életképes, ha
 
