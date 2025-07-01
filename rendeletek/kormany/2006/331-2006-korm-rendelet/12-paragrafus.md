@@ -1,3 +1,3 @@
-12. §[^82]
+12. §[^83]
 
-[^82]: A 12. §-t a 414/2021. (VII. 13.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^83]: A 12. §-t a 414/2021. (VII. 13.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
