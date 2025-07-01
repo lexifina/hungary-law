@@ -40,11 +40,11 @@ b) az ügyfél személyes megjelenése hiányában
 
 ba) az ügyfél által postai úton küldött okiratmásolatok és nyilatkozatok alapján,
 
-bb) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített esetekben az ügyfél által az ügyfél azonosított elektronikus levelezési címéről biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján, vagy
+bb) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített esetekben az ügyfél által az ügyfél azonosított elektronikus levelezési címéről biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján,
 
-bc) az okiratmásolatokat és nyilatkozatokat magába foglaló jognyilatkozatokat is tartalmazó, az azokban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas, az ügyfél által a szolgáltató részére hozzáférhetővé tett elektronikus dokumentumok alapján
+bc) az okiratmásolatokat és nyilatkozatokat magába foglaló jognyilatkozatokat is tartalmazó, az azokban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas, az ügyfél által a szolgáltató részére hozzáférhetővé tett elektronikus dokumentumok alapján, vagy
 
-is elvégezheti.
+bd) természetes személy ügyfél esetén a 7. § (2) bekezdés a) pontjában meghatározott adatok igazolása során az adatszolgáltatást és az adatok igazoló ellenőrzését a digitális állampolgárság szolgáltató által szolgáltatott adat alapján vagy digitálisan kiállított hiteles igazolás alapján is elvégezheti.
 
 (4) Az (1) bekezdéstől eltérően a 3. § 25. pontjában meghatározott Posta Elszámoló Központot működtető intézmény a 7. § (2) bekezdésében meghatározott adatokat köteles rögzíteni, valamint a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti az alábbi feltételeket együttesen teljesítő ügyleti megbízások esetén:
 

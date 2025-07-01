@@ -1,6 +1,6 @@
 ## 16. Belső ellenőrző és információs rendszer, képzési program
 
-63. § (1) A szolgáltató – az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai vonatkozásában – a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolat, ügylet megakadályozása érdekében köteles gondoskodni:
+63. § (1) A szolgáltató – az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai vonatkozásában – a pénzmosást vagy a terrorizmusfinanszírozását, valamint a proliferáció finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolat, ügylet megakadályozása érdekében köteles gondoskodni:
 
 a) a nyilvántartási (ügyfél-átvilágítási),
 

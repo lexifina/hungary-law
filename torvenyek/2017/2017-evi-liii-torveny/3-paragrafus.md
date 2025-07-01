@@ -114,7 +114,7 @@ h) az életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenys�
 
 i) a Hpt.-ben meghatározott többes kiemelt közvetítő és alkusz,
 
-j) a befektetési vállalkozás,
+j) a befektetési vállalkozás, ideértve a Magyar Államkincstárt a befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatás nyújtása tekintetében,
 
 k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
 
@@ -133,6 +133,8 @@ p) a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesít�
 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 
 30. pénzváltó iroda: hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató kiemelt közvetítő;
+
+30a. proliferáció finanszírozása: nukleáris, vegyi vagy biológiai fegyverek, továbbá az előállításukhoz és célba juttatásukhoz szükséges eszközök és termékek – ideértve a kettős felhasználású termékeket is –, szolgáltatások, technológiák gyártására, beszerzésére, birtoklására, fejlesztésére, kivitelére, átrakodására, közvetítésére, szállítására, átadására, készletezésére felhasznált pénzeszközök vagy szolgáltatások nyújtása, függetlenül attól, hogy azt a proliferáció elkövetőjének, vagy e személyekre tekintettel más személynek nyújtják-e;
 
 31. stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország: az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országok megállapítása tekintetében történő kiegészítéséről szóló, 2016. július 14-i (EU) 2016/1675 bizottsági felhatalmazáson alapuló rendeletben meghatározott országok;
 
@@ -252,7 +254,7 @@ a) az üzleti kapcsolat során a szolgáltató szakmai tevékenységi körébe t
 
 b) az ügyleti megbízás.
 
-44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony;
+44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony, valamint a 6. § (1) bekezdés e) pontja szerinti eseti jogviszony.
 
 45. üzleti kapcsolat:
 
