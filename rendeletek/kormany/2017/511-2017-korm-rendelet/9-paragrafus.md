@@ -1,4 +1,4 @@
-## 8/A. §[^13] A nemzetközi közúti áru- és személyszállítás végzésének egyes feltételeiről szóló miniszteri rendelet szerinti felhatalmazott autóbusz-fenntartó tevékenységét a közlekedési hatóság rendszeresen ellenőrzi. Ha az ellenőrzés során a közlekedési hatóság megállapítja, hogy a vizsgálat elvégzésekor a jogszabályban előírt feltételeket a felhatalmazott autóbusz-fenntartó megsértette, a felhatalmazást a feltételek teljesítésig felfüggeszti vagy visszavonja.
+## 8/A. §[^26] A nemzetközi közúti áru- és személyszállítás végzésének egyes feltételeiről szóló miniszteri rendelet szerinti felhatalmazott autóbusz-fenntartó tevékenységét a közlekedési hatóság rendszeresen ellenőrzi. Ha az ellenőrzés során a közlekedési hatóság megállapítja, hogy a vizsgálat elvégzésekor a jogszabályban előírt feltételeket a felhatalmazott autóbusz-fenntartó megsértette, a felhatalmazást a feltételek teljesítésig felfüggeszti vagy visszavonja.
 
 ## 3. A menetíró szerelőműhelyek és a menetíró szerelői tevékenység engedélyezése, a menetíró készülék szerelésének hatósági ellenőrzése, valamint a tachográf-kártyák kiadásával kapcsolatos kiegészítő eljárási szabályok
 
@@ -18,4 +18,4 @@ b) a képviseletre jogosult személy vonatkozásában nem áll fenn a 75/2016. (
 
 (6) A menetíró szerelőműhely a tevékenységét a műhelyengedélyben foglaltaknak megfelelően végezheti.
 
-[^13]: A 8/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^26]: A 8/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (2) bekezdése iktatta be.

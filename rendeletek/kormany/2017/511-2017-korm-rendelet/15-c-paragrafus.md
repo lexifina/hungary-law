@@ -1,4 +1,4 @@
-15/C. §[^17] (1) A Kkt. 20. § (11) bekezdés a) pont aa) alpontja szerint ellenőrzésre jogosult szervezet a tachográf-kártyát a helyszínen elveszi, ha az ellenőrzés során annak gyanúja merül fel, hogy
+15/C. §[^30] (1) A Kkt. 20. § (11) bekezdés a) pont aa) alpontja szerint ellenőrzésre jogosult szervezet a tachográf-kártyát a helyszínen elveszi, ha az ellenőrzés során annak gyanúja merül fel, hogy
 
 a) a tachográf-kártyát meghamisították,
 
@@ -22,4 +22,4 @@ c) a nyilvántartás szerint a tachográf-kártya kiadására nem került sor.
 
 (6) A visszavont tachográf-kártyát a kártyakibocsátó hatóság egy naptári évvel a leadást követően selejtezi.
 
-[^17]: A 15/C. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (3) bekezdése iktatta be.
+[^30]: A 15/C. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (3) bekezdése iktatta be.

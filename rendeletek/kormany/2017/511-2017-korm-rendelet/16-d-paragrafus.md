@@ -1,4 +1,4 @@
-16/D. § (1)[^24] A muzeális minősítő szervezet a járművek muzeális minősítését a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. (a továbbiakban: KTI Nonprofit Kft.) által – a Magyar Autóklub mint muzeális minősítő szervezet, a Magyar Műszaki és Közlekedési Múzeum és a Magyar Veteránjárművesek Szövetsége bevonásával – kidolgozott és a közlekedési hatóság által jóváhagyott, a muzeális minősítés részletes szabályait meghatározó szabályzat (a továbbiakban: muzeális minősítő szabályzat) alapján végzi.
+16/D. § (1)[^37] A muzeális minősítő szervezet a járművek muzeális minősítését a Közlekedéstudományi Intézet (a továbbiakban: KTI) által – a Magyar Autóklub mint muzeális minősítő szervezet, a Magyar Műszaki és Közlekedési Múzeum és a Magyar Veteránjárművesek Szövetsége bevonásával – kidolgozott és a közlekedési hatóság által jóváhagyott, a muzeális minősítés részletes szabályait meghatározó szabályzat (a továbbiakban: muzeális minősítő szabályzat) alapján végzi.
 
 (2) A muzeális minősítő szabályzat tartalmazza:
 
@@ -28,10 +28,12 @@ f) a minősítés visszavonásának rendjét.
 
 (9) A muzeális minősítő szervezet a (2) bekezdés szerinti muzeális minősítő szabályzatban megállapított díjakat a honlapján közzéteszi.
 
-(10) Muzeális minősítés esetén – a 16/J. § (3) bekezdése szerinti forgalomba helyezés előtti és időszakos vizsgálatért járó díj kivételével – a Magyar Autóklub a minősítés díjának 30%-ára, a Magyar Műszaki és Közlekedési Múzeum a minősítési díj 25%-ára, a Magyar Veteránjárművesek Szövetsége a minősítési díj 25%-ára, a KTI Nonprofit Kft. a minősítési díj 20%-ára jogosult. A 16/J. § (3) bekezdése szerinti forgalomba helyezés előtti és időszakos vizsgálatért járó díj – a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló miniszteri rendeletben meghatározottak szerint – a Magyar Autóklubot illeti.
+(10)[^38] Muzeális minősítés esetén – a 16/J. § (3) bekezdése szerinti forgalomba helyezés előtti és időszakos vizsgálatért járó díj kivételével – a Magyar Autóklub a minősítés díjának 30%-ára, a Magyar Műszaki és Közlekedési Múzeum a minősítési díj 25%-ára, a Magyar Veteránjárművesek Szövetsége a minősítési díj 25%-ára, a KTI a minősítési díj 20%-ára jogosult. A 16/J. § (3) bekezdése szerinti forgalomba helyezés előtti és időszakos vizsgálatért járó díj – a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló miniszteri rendeletben meghatározottak szerint – a Magyar Autóklubot illeti.
 
 (11) A kérelmező által a muzeális minősítő szervezet részére befizetett minősítési díj (10) bekezdés szerint megosztott részét a tárgyhónapot követő hónap 15. napjáig átutalja az érintett szervezetek részére.
 
-(12) A KTI Nonprofit Kft. a muzeális minősítési díjból számára átutalt összeget a muzeális minősítő rendszer működtetésével és fejlesztésével kapcsolatos költségek fedezetére, ezen belül különösen a nyilvántartás vezetésével kapcsolatos, jogszabályban meghatározott állami feladatai költségfedezetére fordítja.
+(12)[^39] A KTI a muzeális minősítési díjból számára átutalt összeget a muzeális minősítő rendszer működtetésével és fejlesztésével kapcsolatos költségek fedezetére, ezen belül különösen a nyilvántartás vezetésével kapcsolatos, jogszabályban meghatározott állami feladatai költségfedezetére fordítja.
 
-[^24]: A 16/D. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^37]: A 16/D. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 54. §-a, a 141/2025. (VI. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^38]: A 16/D. § (10) bekezdése a 141/2025. (VI. 19.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^39]: A 16/D. § (12) bekezdése a 141/2025. (VI. 19.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

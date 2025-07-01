@@ -1,4 +1,4 @@
-16/I. § (1) A KTI Nonprofit Kft. – a muzeális minősítő szervezet által átadott adatok alapján – muzeális járművekről vezetett nyilvántartása az alábbi adatokat tartalmazza:
+16/I. § (1)[^44] A KTI – a muzeális minősítő szervezet által átadott adatok alapján – muzeális járművekről vezetett nyilvántartása az alábbi adatokat tartalmazza:
 
 a) a vizsgálatra jelentkezett, de sikertelen vizsgát tett járművek esetén:
 
@@ -32,6 +32,10 @@ f) a kérelmező által csatolt dokumentumok (ideértve a gyártói igazolások,
 
 (2) A jármű tulajdonjogában beálló változást a muzeális jármű új tulajdonosa a változás időpontját követő tizenöt napon belül bejelenti a muzeális minősítő szervezetnek, egyúttal nyilatkozik a jármű használati jellegéről, céljáról.
 
-(3) A muzeális minősítő szervezet a KTI Nonprofit Kft.-nek az (1) bekezdésben felsorolt adatokat – azok sérülésmentes továbbítását biztosító közvetlen adattovábbítást lehetővé tevő adatátviteli kapcsolaton keresztül – a vizsgálatot követő 3 napon belül megküldi.
+(3)[^45] A muzeális minősítő szervezet a KTI-nek az (1) bekezdésben felsorolt adatokat – azok sérülésmentes továbbítását biztosító közvetlen adattovábbítást lehetővé tevő adatátviteli kapcsolaton keresztül – a vizsgálatot követő 3 napon belül megküldi.
 
-(4) A KTI Nonprofit Kft. által vezetett nyilvántartásból a közlekedési hatóság a feladatai ellátáshoz szükséges adatokat közvetlen adathozzáféréssel átveheti.
+(4)[^46] A KTI által vezetett nyilvántartásból a közlekedési hatóság a feladatai ellátáshoz szükséges adatokat közvetlen adathozzáféréssel átveheti.
+
+[^44]: A 16/I. § (1) bekezdés nyitó szövegrésze a 141/2025. (VI. 19.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^45]: A 16/I. § (3) bekezdése a 141/2025. (VI. 19.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^46]: A 16/I. § (4) bekezdése a 141/2025. (VI. 19.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
