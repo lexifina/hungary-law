@@ -60,7 +60,7 @@ a rendelkezésére álló arcképmás felhasználásával az arcképelemző tev�
 
 a) a jogsegélyt teljesítő magyar szerv külföldi hatóság megkeresésében érkezett álló- vagy mozgófelvételeken, rajzokon szereplő feltételezett elkövetők,
 
-b) az általános rendőrségi feladatok ellátására létrehozott szerv a nemzetközi bűnügyi együttműködés keretében a Nemzetközi Bűnügyi Együttműködési Központon keresztül érkezett álló- vagy mozgófelvételeken, rajzokon szereplő feltételezett elkövetők,
+b) az általános rendőrségi feladatok ellátására létrehozott szerv a nemzetközi bűnügyi együttműködés keretében a rendőrség nemzetközi bűnügyi együttműködési központján keresztül érkezett álló- vagy mozgófelvételeken, rajzokon szereplő feltételezett elkövetők,
 
 c) a terrorizmust elhárító szerv a nemzetközi bűnügyi együttműködés keretében a terrorizmust elhárító szervhez közvetlenül érkezett álló- vagy mozgófelvételeken, rajzokon szereplő személyek
 
