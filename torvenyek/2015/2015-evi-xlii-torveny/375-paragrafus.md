@@ -1,0 +1,1 @@
+375. § A belügyi feladatellátás hatékonyságát támogató és a kapcsolati erőszak elleni küzdelmet erősítő törvények módosításáról szóló 2025. évi XXXV. törvénnyel megállapított 142. § (3) bekezdése és 319/K. § (4) bekezdése a 2025. június 30-át követően folyósított szülési szabadság idejére járó távolléti díj tekintetében alkalmazható.
