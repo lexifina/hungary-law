@@ -35,3 +35,7 @@ a) az egyszerűsített foglalkoztatás bejelentését követő két órán belü
 b) ha a bejelentésben foglaltak szerint a foglalkoztatás a bejelentés napját követő napon kezdődött, vagy ha a bejelentés egy napnál hosszabb időtartamú munkaviszonyra vonatkozott, a módosítás bejelentés napján délelőtt 9 óráig
 
 van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezettségének köteles eleget tenni. A bejelentés módosítására az (1) bekezdésben foglaltak szerint kerülhet sor, függetlenül attól, hogy bejelentési kötelezettségének eredetileg a munkáltató melyik módon tett eleget.
+
+(8) Az állami adóhatóság a munkáltató (1) bekezdés szerinti bejelentését visszautasítja, ha a munkaviszony napjainak száma az 1. § (4) bekezdésébe ütközik. A foglalkoztató ebben az esetben a 8. § (4) bekezdése szerint köteles eljárni.
+
+(9) Az 1. § (4) bekezdés feltételeinek vizsgálata céljából az egyszerűsített foglalkoztatásra irányuló jogviszony létesítését megelőzően a foglalkoztató jogosult a természetes személy adóazonosító jelének, TAJ-számának és nevének megismerésére és kezelésére. Az 1. § (4) bekezdés szerinti feltétel vizsgálatához az állami adó- és vámhatóság elektronikus lekérdezési lehetőséget biztosít.

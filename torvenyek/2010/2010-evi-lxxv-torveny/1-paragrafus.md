@@ -18,13 +18,15 @@ d) húsznál több munkavállaló foglalkoztatása esetén a munkavállalói lé
 
 (3) A (2) bekezdésben meghatározott napi alkalmi munkavállalói létszámkeretet a munkáltató a tárgyév napjaira egyenlőtlenül beosztva is felhasználhatja, a 2. § 3. pontjára is figyelemmel. Ennek során a tárgyévben fel nem használt létszámkeret a következő naptári évre nem vihető át.
 
-(4) Ha a munkáltató és a munkavállaló
+(4) Ha a munkavállaló
 
-a) idénymunkára, vagy
+a) idénymunkára,
 
-b) idénymunkára és alkalmi munkára
+b) alkalmi munkára, vagy
 
-létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
+c) idénymunkára és alkalmi munkára
+
+létesít több alkalommal munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
 
 (4a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatására, továbbá a szociális szövetkezetekben az egyszerűsített foglalkoztatás esetén nem kell alkalmazni.
 
