@@ -12,7 +12,7 @@ d)[^17] a védett személy és jogszabály alapján állami vezetői juttatásk�
 
 e)[^18] azok a természetes személyek, akik részére az egészségügyért felelős miniszter vagy az általa kijelölt személy kivételes méltánylást érdemlő esetekben (így különösen közegészségügyi, nemzetbiztonsági, honvédelmi vagy rendvédelmi érdekből) az igénybevételt engedélyezte;
 
-f)[^19] a honvédelemért, a rendvédelemért, illetve a vasúti közlekedésért felelős miniszter által többségi tulajdonosi jogok alapján irányított gazdasági társaság munkaviszonyban álló alkalmazottja, nyugdíjasa és biztosított családtagjai;
+f)[^19] a honvédelemért, a rendvédelemért, illetve a vasúti közlekedésért felelős miniszter által többségi tulajdonosi jogok alapján irányított gazdasági társaság vagy a vasúti közlekedésért felelős miniszter irányítása alatt álló költségvetési szerv munkaviszonyban álló alkalmazottja, nyugdíjasa és biztosított családtagjai;
 
 g)[^20] az Országgyűlési Őrség személyi állománya és biztosított közeli hozzátartozói és az Országgyűlési Őrség személyi állományából nyugállományba helyezett, valamint biztosított családtagja;
 
@@ -39,7 +39,7 @@ l)[^25] a j) és k) pont szerinti igényjogosult elhalálozása esetén az igén
 [^16]: A 2. § (1) bekezdés c) pontja a 163/2019. (VII. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 24/2025. (II. 27.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^17]: A 2. § (1) bekezdés d) pontja a 264/2009. (XI. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított, a 124/2011. (VII. 18.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^18]: A 2. § (1) bekezdés e) pontja az 570/2022. (XII. 23.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^19]: A 2. § (1) bekezdés f) pontja a 163/2019. (VII. 5.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^19]: A 2. § (1) bekezdés f) pontja a 163/2019. (VII. 5.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 141/2025. (VI. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^20]: A 2. § (1) bekezdés g) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^21]: A 2. § (1) bekezdés h) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^22]: A 2. § (1) bekezdés i) pontját az 561/2020. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
