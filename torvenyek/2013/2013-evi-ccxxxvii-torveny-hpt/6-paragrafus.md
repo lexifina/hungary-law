@@ -206,6 +206,8 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 65. központi szerződő fél: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+65a. központi visszaélésszűrő rendszer: olyan – e törvény hatálya alá tartozó, fizetési rendszert működtető pénzügyi vállalkozás által üzemeltetett – rendszer, amely a fizetési rendszer működtetése tevékenység keretében rendelkezésre álló, valamint a fizetési rendszerben részt vevő pénzforgalmi szolgáltatóktól átvett adatok elemzése alapján a fizetési művelet vonatkozásában visszaélési kockázati információk elérhetőségét biztosítja a fizetési művelet lebonyolításában részt vevő azon pénzforgalmi szolgáltatók részére, amelyek a pénzügyi vállalkozás által működtetett fizetési rendszer tagjai;
+
 66. közvetett tulajdon: egy vállalkozás tulajdoni hányadának, vagy szavazati jogának a vállalkozásban tulajdoni részesedéssel vagy szavazati joggal rendelkező más vállalkozás (a 3. melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán vagy szavazati jogán keresztül történő birtoklása vagy gyakorlása;
 
 66a. közvetítői alvállalkozó: közvetítővel pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó;

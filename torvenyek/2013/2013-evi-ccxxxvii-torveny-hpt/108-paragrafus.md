@@ -56,7 +56,7 @@ d) a hitelintézet egy esetleges válsághelyzetre történő felkészülés ér
 
 da) azt a személyt vagy szervezetet, akinek vagy amelynek az eszköz a birtokában van,
 
-db) azt az országot, amelyben az eszköz nyilvántartásban vagy számlán szerepel,
+db) azt az országot és pénznemet, amelyben az eszköz nyilvántartásban vagy számlán szerepel,
 
 dc) az eszközök likviditási többlettartalékként történő beszámíthatóságát, és figyelemmel kíséri azt, hogy a likviditási tartalékok kellő idő alatt mozgósíthatók-e,
 

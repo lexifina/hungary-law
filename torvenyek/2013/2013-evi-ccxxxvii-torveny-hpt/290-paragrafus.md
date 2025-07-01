@@ -24,7 +24,7 @@ j) a pénzügyi intézmények és a független közvetítők panaszkezelésének
 
 k) a szociális számlához való jogosultságra, díjra és jellemzőire
 
-l) a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre
+l)
 
 vonatkozó részletes szabályokat.
 

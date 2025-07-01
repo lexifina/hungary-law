@@ -2,7 +2,7 @@
 
 105/B. § (1) Ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézetnek, befektetési vállalkozásnak EGT-államban letelepedett egyetlen közbenső EU-szintű anyavállalattal kell rendelkeznie.
 
-(2) A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságával közösen engedélyezheti, hogy az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás két közbenső EU-szintű anyavállalattal rendelkezzen, ha az egyetlen közbenső EU-szintű anyavállalat létrehozása
+(2) A Felügyelet engedélyezheti, hogy az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás két közbenső EU-szintű anyavállalattal rendelkezzen, ha az egyetlen közbenső EU-szintű anyavállalat létrehozása
 
 a) nem lenne összeegyeztethető a tevékenységek különválasztását előíró kötelező előírással, amelyet azon harmadik ország szabályai vagy felügyeleti hatóságai írnak elő, ahol a harmadik országbeli csoport legfelső szintű anyavállalatának székhelye van, vagy
 

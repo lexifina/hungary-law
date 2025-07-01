@@ -1,1 +1,13 @@
-### 284. §
+## 122/A. Központi visszaélésszűrő rendszer
+
+284. § (1) A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter határozatában központi visszaélésszűrő rendszer üzemeltetésére jelöli ki a legalább három éve azonnali átutalási megbízások elszámolását és teljesítését végző fizetési rendszert működtető pénzügyi vállalkozást.
+
+(2) Az (1) bekezdés szerint kijelölt fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján a fizetési rendszer működtetése tevékenység keretében rendelkezésre álló, valamint a fizetési rendszerben részt vevő pénzforgalmi szolgáltatóktól jogszabály alapján átvett adatok elemzése alapján előállítja a fizetési művelettel kapcsolatos visszaélési kockázati információkat.
+
+(3) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszer útján azon, a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók részére teszi elérhetővé a visszaélési kockázati információkat, amelyek az adott fizetési művelet teljesítésében mint a fizető fél, illetve a kedvezményezett pénzforgalmi szolgáltatója vettek részt.
+
+(4) A fizetési rendszert működtető pénzügyi vállalkozás az általa üzemeltetett központi visszaélésszűrő rendszerben dolgozza fel és kezeli a fizetési rendszerben részt vevő pénzforgalmi szolgáltatók, illetve a nyomozó hatóság által törvény szerint átadott, a fizetési művelet kapcsán nyújtott visszaélési kockázati információhoz kapcsolódó csalás gyanújára vagy csalásra vonatkozó adatokat.
+
+(5) A fizetési rendszert működtető pénzügyi vállalkozás a központi visszaélésszűrő rendszerben nyilvántartott adatokat kizárólag a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából kezeli, továbbá megtesz minden olyan szabályozási, technikai és szervezeti intézkedést, amely az adatok fizikai és logikai védelmének biztosítása érdekében szükséges.
+
+(6) A fizetési rendszert működtető pénzügyi vállalkozás – ha a fizetési műveletekkel kapcsolatban a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározottak szerint csalás gyanújáról értesül – a központi visszaélésszűrő rendszerben nyilvántartott fizetési műveletekről és az azokra vonatkozó visszaélési kockázati információkról tájékoztatja a nyomozó hatóságot, a vele kötött megállapodás alapján, a fizetési műveletekkel kapcsolatos visszaélések felderítésének támogatása érdekében.

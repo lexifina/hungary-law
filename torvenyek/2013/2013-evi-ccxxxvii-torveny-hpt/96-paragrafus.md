@@ -1,4 +1,4 @@
-96. § (1) Ha a hitelintézet nem teljesíti a kombinált pufferkövetelményt, akkor a nemteljesítés megállapításától számított öt munkanapon belül tőkefenntartási tervet készít és jóváhagyásra benyújtja a Felügyelet számára.
+96. § (1) Ha a hitelintézet nem teljesíti a kombinált pufferkövetelményt, illetve adott esetben a tőkeáttételi mutató pufferkövetelményt,, akkor a nemteljesítés megállapításától számított öt munkanapon belül tőkefenntartási tervet készít és jóváhagyásra benyújtja a Felügyelet számára.
 
 (2) Az (1) bekezdéstől eltérve, a Felügyelet legfeljebb tíz munkanapot is engedélyezhet a tőkefenntartási terv elkészítésére és benyújtására a hitelintézet egyedi helyzete, tevékenységének mérete és összetettsége alapján.
 
@@ -12,7 +12,7 @@ c) az 575/2013/EU rendelet 92. cikkében meghatározott tőkemegfelelési mutat�
 
 d) a szavatoló tőke szintjének emelésére irányuló tervre, valamint
 
-e) a kombinált pufferkövetelmény teljesítésének ütemezésére
+e) a kombinált pufferkövetelmény vagy adott esetben a tőkeáttételi mutató pufferkövetelmény teljesítésének ütemezésére
 
 vonatkozó információkat.
 

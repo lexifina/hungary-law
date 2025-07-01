@@ -103,7 +103,3 @@ b) az értékpapírosítás általános keretrendszerének meghatározásáról,
 c) a tőkepiacról szóló 2001. évi CXX. törvénnyel és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletnek
 
 d) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek
-
-e) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletnek
-
-f) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendeletnek

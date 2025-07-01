@@ -24,7 +24,7 @@ k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelez
 
 l) a 31/A. §-t megsértve nem rendelkezik a külön jóváhagyással,
 
-m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 169. § (2) és (3) bekezdése vagy a 181. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
+m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 181. § vagy 186. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
 
 (2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 

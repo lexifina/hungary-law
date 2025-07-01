@@ -4,7 +4,7 @@ a) az általa kiszámított maximálisan kifizethető összegről,
 
 b) a kifizethető nyereség kifizetésének szándékáról, és
 
-c) a 94. § (3) bekezdése szerinti korlátozásról.
+c) a 96/A. § (4) bekezdése szerinti korlátozásról.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatás keretében a Felügyelet rendelkezésére bocsátja a szükséges információkat:
 

@@ -16,4 +16,4 @@ d) a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság n
 
 e) nincs semmilyen akadálya a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport összevont alapú felügyeletének.
 
-(3) A (2) bekezdés esetén a pénzügyi holding társaság és a vegyes tevékenységű holding társaság a Felügyelet rendelkezésére bocsátja azon információkat, amelyek ahhoz szükségesek, hogy a Felügyelet nyomon tudja követni a csoport szervezeti felépítését, valamint e § és a 31/A. § teljesülését. A Felügyelet megosztja ezeket az információkat a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság székhelye szerinti EGT-állam illetékes hatóságával.
+(3) A pénzügyi holding társaság és a vegyes tevékenységű holding társaság a Felügyelet rendelkezésére bocsátja azon információkat, amelyek ahhoz szükségesek, hogy a Felügyelet nyomon tudja követni a csoport szervezeti felépítését, valamint e § és a 31/A. § teljesülését. A Felügyelet megosztja ezeket az információkat a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság székhelye szerinti EGT-állam illetékes hatóságával.
