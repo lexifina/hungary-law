@@ -1,10 +1,10 @@
-## A környezetkímélő gépjárművekkel kapcsolatos hatósági vizsgálat[^145]
+## A környezetkímélő gépjárművekkel kapcsolatos hatósági vizsgálat[^152]
 
-11/B. §[^146] (1) Az MR. 2. §-ában meghatározott környezetkímélő gépkocsi környezetvédelmi osztályba sorolása és a környezetkímélő jelleg megállapítása csak gyári kivitelű gépkocsi esetében végezhető el
+11/B. §[^153] (1) Az MR. 2. §-ában meghatározott környezetkímélő gépkocsi környezetvédelmi osztályba sorolása és a környezetkímélő jelleg megállapítása csak gyári kivitelű gépkocsi esetében végezhető el
 
 a) a típusbizonyítványban meghatározott adatok,
 
-b) a megfelelőségi nyilatkozatban feltüntetett adatok, amennyiben ez a gépkocsihoz rendelkezésre áll,
+b)[^154] a COC okmányban feltüntetett adatok, amennyiben ez a gépkocsihoz rendelkezésre áll,
 
 c) a járműimportőr vagy az adott járműtípus hazai kereskedelmi képviselete által rendelkezésre bocsátott adatok vagy
 
@@ -20,5 +20,6 @@ alapján.
 
 (5) Amennyiben a közlekedési hatóság megállapítja, hogy a (4) bekezdésben foglalt kérelem teljesítésének feltételei fennállnak, a környezetkímélő motorkerékpár besorolására utaló záradékot a Műszaki Adatlapon feltünteti, és erről a Nyilvántartót elektronikus úton is értesíti.
 
-[^145]: A 11/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
-[^146]: A 11/B. §-t a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
+[^152]: A 11/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
+[^153]: A 11/B. §-t a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be, szövege a 22/2021. (V. 13.) ITM rendelet 1. §-ával megállapított szöveg.
+[^154]: A 11/B. § (1) bekezdés b) pontja a 18/2025. (VI. 26.) ÉKM rendelet 8. § c) pontja szerint módosított szöveg.
