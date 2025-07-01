@@ -31,3 +31,11 @@ azzal, hogy a szülési szabadság időtartama a szülést követően 6 hétnél
 (4) Ha a gyermeket a koraszülöttek ápolására fenntartott intézetben gondozzák, a szülési szabadság igénybe nem vett részét – a szülést követő 1 évig – a gyermeknek az intézetből történt elbocsátása után is igénybe lehet venni.
 
 (5) A szülési szabadság tartamára illetmény jár. A szülési szabadság idejére járó illetmény személyi jövedelemadóval és a nemzetbiztonsági állomány tagját terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint az Ebtv. szerinti csecsemőgondozási díj naptári napi összegének a 30-szorosa.
+
+(6) Ha a nemzetbiztonsági állomány szülési szabadság idejére illetményben részesülő tagja a gyermek születésének napjától számított 90 nap lejártát követően
+
+a) a szülési szabadságát megszakítva ismételten szolgálatba áll, a szülési szabadság igénybe nem vett idejére, az e törvény szerint számított illetménye mellett, vagy
+
+b) bármilyen más jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat, a szülési szabadság hátralévő idejére
+
+az (5) bekezdés szerinti összeg 70%-ára jogosult.
