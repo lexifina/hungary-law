@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-397-20-
 | 2022-10-24 | 2022-397-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-04-27 | 2022-397-20-22.3 | 141/2023. (IV. 24.) Korm. rendelet |
 | 2023-09-07 | 2022-397-20-22.4 | 409/2023. (VIII. 30.) Korm. rendelet |
+| 2025-07-01 | 2022-397-20-22.5 | 409/2023. (VIII. 30.) Korm. rendelet |
