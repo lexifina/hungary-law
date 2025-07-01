@@ -8,7 +8,7 @@ b)[^11] helyi lakásügyi szerv:
 
 ba) a Belügyminisztérium Pénzügyi Erőforrás-gazdálkodási Főosztály: a Belügyminisztérium hivatali szervezetében a saját dolgozói állomány vonatkozásában,
 
-bb)[^12] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendvédelmi technikumok, a Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ dolgozói állománya vonatkozásában,
+bb)[^12] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendvédelmi technikumok, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ dolgozói állománya vonatkozásában,
 
 bc) a Budapesti Rendőr-főkapitányság: a saját dolgozói állománya vonatkozásában,
 
@@ -38,7 +38,7 @@ bn)[^18] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rend�
 [^9]: A 3. § nyitó szövegrésze az 1/2018. (I. 18.) BM rendelet 12. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § a) pontja a 2/2023. (I. 30.) BM rendelet 4. §-ával megállapított szöveg.
 [^11]: A 3. § b) pontja a 15/2016. (V. 11.) BM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^12]: A 3. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 8. §-a, az 58/2016. (XII. 22.) BM rendelet 32. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 12. § b) pontja, a 18/2020. (VI. 30.) BM rendelet 6. §-a szerint módosított szöveg. [A 3. § b) pont bb) alpontjában a 11/2023. (V. 10.) MK rendelet 22. § b) pont ba) alpontja által elrendelt módosítás, amely szerint hatályát veszti az „a Terrorelhárítási és Bűnügyi Elemző Központ,” szövegrész, nem vezethető át.]
+[^12]: A 3. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 8. §-a, az 58/2016. (XII. 22.) BM rendelet 32. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 12. § b) pontja, a 18/2020. (VI. 30.) BM rendelet 6. §-a, a 19/2025. (VI. 13.) BM rendelet 7. §-a szerint módosított szöveg. [A 3. § b) pont bb) alpontjában a 11/2023. (V. 10.) MK rendelet 22. § b) pont ba) alpontja által elrendelt módosítás, amely szerint hatályát veszti az „a Terrorelhárítási és Bűnügyi Elemző Központ,” szövegrész, nem vezethető át.]
 [^13]: A 3. § b) pont bd) alpontja az 51/2022. (XII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
 [^14]: A 3. § b) pont be) alpontját a 11/2023. (V. 10.) MK rendelet 22. § b) pont bb) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. §-át.
 [^15]: A 3. § b) pont bf) alpontját a 11/2023. (V. 10.) MK rendelet 22. § b) pont bb) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. §-át.
