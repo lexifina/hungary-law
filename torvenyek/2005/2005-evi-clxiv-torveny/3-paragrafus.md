@@ -41,3 +41,5 @@ b) egyéb esetben az üzlet üzemeltetésére irányuló szándéknak a keresked
 (7) A kereskedelmi hatóság az üzlet működési engedélyét meghatározott üzletköteles termékek körére adja ki. Az üzletköteles termékek közül az üzletben kizárólag a működési engedélyben megjelölt termékek forgalmazhatóak.
 
 (8) A kereskedelmi hatóság az üzletben az üzletköteles termékek forgalmazására előírt követelmények megtartására veszélyt jelentő termékek forgalmazását vagy tevékenységek folytatását a működési engedélyben korlátozhatja vagy megtilthatja.
+
+(9) Az e törvény hatálya alá tartozó tevékenységek kapcsán a természetes személy fogyasztó részére a fogyasztóvédelemről szóló törvényben foglaltak szerint kell biztosítani a készpénzzel történő fizetés lehetőségét.
