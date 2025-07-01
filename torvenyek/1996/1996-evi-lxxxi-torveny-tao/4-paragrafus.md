@@ -382,7 +382,7 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 47. sportcélú ingatlan üzemeltetésének költségei: az üzembe helyezett sportcélú ingatlan által nyújtott szolgáltatások működési költségei, ideértve különösen a személyi jellegű ráfordításokat, az anyagköltségeket, a szerződéses szolgáltatások, a távközlés, az energia és a karbantartás költségeit, a bérleti díjakat, az adminisztrációval kapcsolatos költségeket, az olyan értékcsökkenési és finanszírozási költségek kivételével, amelyeket a sportcélú ingatlanhoz nyújtott beruházási támogatásból már fedeztek;
 
-47a.
+47a. sportakadémia: a sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet 2. § (1) bekezdés a) pontja alapján ekként meghatározott szervezet;
 
 47b.
 
