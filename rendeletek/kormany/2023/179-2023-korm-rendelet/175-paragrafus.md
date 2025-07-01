@@ -1,3 +1,3 @@
-175. §[^131]
+175. §[^132]
 
-[^131]: A 175. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 175. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
