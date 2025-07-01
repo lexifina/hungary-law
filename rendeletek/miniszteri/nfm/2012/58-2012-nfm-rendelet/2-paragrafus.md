@@ -1,10 +1,8 @@
-## 1. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 24. § (11) bekezdése alapján a 2. §-ban meghatározott, a közúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok végrehajtására a Közlekedéstudományi Intézet Nonprofit Kft.-t (a továbbiakban: KTI Kft.) jelölöm ki.
+2. §[^2] A Kkt. 24. § (11) bekezdésében meghatározott feladatok keretében a KTI a következő tevékenységeket végzi:
 
-## 2. § A Kkt. 24. § (11) bekezdésében meghatározott feladatok keretében a KTI Kft. a következő tevékenységeket végzi:
+a)[^3] a közlekedésbiztonsági titkársági feladatok ellátása, ennek keretében az éves közlekedésbiztonsági intézkedési terv szakmai előkészítése, miniszteri jóváhagyásra előterjesztése és a végrehajtás koordinálása, valamint a közúti közlekedésbiztonsági feladatokkal összefüggésben – erre irányuló megállapodás esetén – lebonyolítói feladatok ellátása, a közlekedésbiztonsági intézkedési terv monitoringja, a közúti közlekedésbiztonság javításával összefüggő intézkedések és projektek támogatásának szervezése és koordinációja, valamint a közlekedésbiztonsági intézkedési tervhez kapcsolódó közérdekű és közcélú tájékoztatás, kommunikáció,
 
-a) a közlekedésbiztonsági titkársági feladatok ellátása, ennek keretében az éves közlekedésbiztonsági intézkedési terv szakmai előkészítése, miniszteri jóváhagyásra előterjesztése és a végrehajtás koordinálása, a közlekedésbiztonsági intézkedési terv monitoringja, a közúti közlekedésbiztonság javításával összefüggő intézkedések és projektek támogatásának szervezése és koordinációja, valamint a közlekedésbiztonsági intézkedési tervhez kapcsolódó közérdekű és közcélú tájékoztatás, kommunikáció,
-
-b)[^1] a közlekedésbiztonság és a közlekedés környezeti hatásai szakterületen nemzetközi szerződésekben, európai uniós jogi aktusokban, valamint kormányrendeletekben és miniszteri rendeletekben előírt adatgyűjtések, kormányrendeletben meghatározott tartalmú közlekedési, szállítási ágazatra vonatkozó emisszió kataszterek, kataszterjelentések és előrejelzések készítése, a jogi szabályozást megalapozó mérések és vizsgálatok, kutatások végzése; a jogi szabályozást megalapozó szakmai tevékenységgel összefüggő konferenciák, tudományos, szakértői fórumok, testületek működtetése, szakmai továbbképzések szervezése, közlekedési hatósági belső képzések szakmai előkészítése, fejlesztése, lefolytatása,
+b)[^4] a közlekedésbiztonság és a közlekedés környezeti hatásai szakterületen nemzetközi szerződésekben, európai uniós jogi aktusokban, valamint kormányrendeletekben és miniszteri rendeletekben előírt adatgyűjtések, kormányrendeletben meghatározott tartalmú közlekedési, szállítási ágazatra vonatkozó emisszió kataszterek, kataszterjelentések és előrejelzések készítése, a jogi szabályozást megalapozó mérések és vizsgálatok, kutatások végzése; a jogi szabályozást megalapozó szakmai tevékenységgel összefüggő konferenciák, tudományos, szakértői fórumok, testületek működtetése, szakmai továbbképzések szervezése, közlekedési hatósági belső képzések szakmai előkészítése, fejlesztése, lefolytatása,
 
 c) a közúti járművek közlekedésbiztonságának növelése, valamint a környezet védelme érdekében a forgalomba helyezésre és a forgalomban tartásra vonatkozó szabályozások és vizsgálati eljárások szakmai előkészítése; a vizsgálati technológia fejlesztése; a technológiai fejlesztő minta vizsgabázis működtetése,
 
@@ -30,19 +28,21 @@ m) a köznevelési intézményekben a nevelési-oktatási intézmények tanulói
 
 n) a közlekedésre neveléstől a járművezető képzésig átfogó program keretében a közlekedés biztonságának növelése, a közlekedési kultúra fejlesztése, a közlekedési szabályok és a helyes közlekedési magatartásformák megismertetése a gazdaságos gépjárművezetés érdekében, új módszerek és új tananyagok alkalmazásával a képzés fejlesztése és a téma köré csoportosuló tevékenységek, szervezetek által létrehozott tudásbázis összefogása, fejlesztése,
 
-o)[^2] a veszélyes áruk közúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése,
+o)[^5] a veszélyes áruk közúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése,
 
-p)[^3] közreműködik a Közlekedési Szakértői Testület működtetésében, az ahhoz szükséges feltételek biztosításával, támogatást nyújtva a működtetéshez kapcsolódó adminisztratív teendők ellátásához,
+p)[^6] közreműködik a Közlekedési Szakértői Testület működtetésében, az ahhoz szükséges feltételek biztosításával, támogatást nyújtva a működtetéshez kapcsolódó adminisztratív teendők ellátásához,
 
-q)[^4] a közúti közlekedésbiztonság javításával összefüggésben, a közúti ellenőrzésekhez kapcsolódó ügyeleti, információs, tájékoztatási és koordinációs feladatok, valamint a közlekedési hatósági rendszerekhez kapcsolódó adatintegritási és megfelelőségi vizsgálatok ellátása,
+q)[^7] a közúti közlekedésbiztonság javításával összefüggésben, a közúti ellenőrzésekhez kapcsolódó ügyeleti, információs, tájékoztatási és koordinációs feladatok, valamint a közlekedési hatósági rendszerekhez kapcsolódó adatintegritási és megfelelőségi vizsgálatok ellátása,
 
-r)[^5] a közúti közlekedéssel, közúti gépjármű-közlekedési hatósági tevékenységgel összefüggő informatikai rendszerek üzemeltetése, informatikai fejlesztések előkészítése, koordinálása, megvalósítása, az ehhez szükséges informatikai környezet biztosítása,
+r)[^8] a közúti közlekedéssel, közúti gépjármű-közlekedési hatósági tevékenységgel összefüggő informatikai rendszerek üzemeltetése, informatikai fejlesztések előkészítése, koordinálása, megvalósítása, az ehhez szükséges informatikai környezet biztosítása,
 
-s)[^6] közreműködik a NATO Polgári Veszélyhelyzeti Tervezési Bizottság Szállító Csoport (TG-Transport Group) tevékenységében, a tevékenységhez és a közreműködő személyek feladatellátásához szükséges feltételek biztosításával, támogatást nyújtva az adminisztratív teendők ellátásában.
+s)[^9] közreműködik a NATO Polgári Veszélyhelyzeti Tervezési Bizottság Szállító Csoport (TG-Transport Group) tevékenységében, a tevékenységhez és a közreműködő személyek feladatellátásához szükséges feltételek biztosításával, támogatást nyújtva az adminisztratív teendők ellátásában.
 
-[^1]: A 2. § b) pontja a 43/2021. (IX. 8.) ITM rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § o) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
-[^3]: A 2. § p) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
-[^4]: A 2. § q) pontját a 45/2019. (XI. 20.) ITM rendelet 50. §-a iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § r) pontját a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdése iktatta be.
-[^6]: A 2. § s) pontját a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdése iktatta be.
+[^2]: A 2. § nyitó szövegrésze a 19/2025. (VI. 27.) ÉKM rendelet 5. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § a) pontja a 19/2025. (VI. 27.) ÉKM rendelet 5. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § b) pontja a 43/2021. (IX. 8.) ITM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § o) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^6]: A 2. § p) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^7]: A 2. § q) pontját a 45/2019. (XI. 20.) ITM rendelet 50. §-a iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § r) pontját a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdése iktatta be.
+[^9]: A 2. § s) pontját a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdése iktatta be.
