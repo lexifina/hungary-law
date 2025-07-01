@@ -1,3 +1,1 @@
-8. §[^9]
-
-[^9]: A 8. § a 15. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+8. § Az R1. 3. melléklet címében a „Kérelem előzetes csoportos munkavállalási jóváhagyás iránt” szövegrész helyébe a „Kérelem a beruházás előkészítő szakaszára vonatkozó előzetes csoportos munkavállalási jóváhagyás iránt” szöveg lép.

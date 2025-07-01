@@ -1,3 +1,3 @@
-12. §[^13]
+12. § Az R2. 232. § c) pontja helyébe a következő rendelkezés lép:
 
-[^13]: A 12. § a 15. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+(A tartózkodási engedély okmány érvénytelen, ha)

@@ -1,3 +1,11 @@
-13. §[^14]
+## „c) helyette a harmadik országbeli állampolgár
 
-[^14]: A 13. § a 15. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+## ca) a tartózkodási engedély okmány cseréjére vagy pótlására irányuló eljárásban,
+
+## cb) a tartózkodási engedély meghosszabbítása miatt vagy
+
+## cc) a Tv. vagy e rendelet szerinti tartózkodási engedély kiadása miatt
+
+## új tartózkodási engedély okmányt kapott,”
+
+13. § Az R2. 1. melléklete a 2. melléklet szerint módosul.
