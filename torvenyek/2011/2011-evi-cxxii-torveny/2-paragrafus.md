@@ -26,6 +26,8 @@ f) referenciaadat-szolgáltató:
 
 6. a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti adósságrendezési eljárásokban eljáró Családi Csődvédelmi Szolgálat.
 
+7. a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló törvény szerinti hitelfelvásárló nevében eljáró hitelgondozó;
+
 g) vállalkozás: a gazdasági társaság, fióktelep, az európai részvénytársaság, a szövetkezet, az európai szövetkezet, az európai gazdasági egyesülés, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót.
 
 (2) E törvény alkalmazásában az írásban történő adatátadás, tájékoztatás és egyéb kommunikáció alatt
