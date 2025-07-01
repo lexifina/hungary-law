@@ -64,10 +64,8 @@
 
 31. nyilvántartó hatóság: kormányrendeletben kijelölt szerv, amely az e törvény alapján, az e törvényben meghatározott adatokról nyilvántartást vezet,
 
-32. rendkívüli esemény: olyan esemény, amely
+32. rendkívüli esemény: olyan esemény, amely eléri a rendkívüli esemény kezelésében érintett szervek irányába történő bejelentés kormányrendeletben vagy annak hiányában a kritikus szervezet ellenálló képességi tervében meghatározott küszöbértékét, és
 
 a) a kritikus infrastruktúra vagy az alapvető szolgáltatás olyan mértékű károsodását, sérülését, minőségének romlását vagy mennyiségének fennakadását okozza, amely a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnését, kiesését eredményezi, vagy
 
-b) a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnését, kiesését nem eredményezi, de szükségessé vált a rendkívüli esemény kezelésében érintett szervek közreműködése,
-
-és amely eléri a rendkívüli esemény kezelésében érintett szervek irányába történő bejelentés kormányrendeletben meghatározott küszöbértékét.
+b) a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnését, kiesését nem eredményezi, de a kritikus infrastruktúra vagy az alapvető szolgáltatás megszűnésének, kiesésének elhárításához szükségessé vált a rendkívüli esemény kezelésében érintett más szervek közreműködése.

@@ -1,6 +1,6 @@
 ## 14. A kritikus szervezetek és kritikus infrastruktúrák nyilvántartása
 
-23. § (1) A nyilvántartó hatóság a kijelölési eljárásban hozott hatósági határozat véglegessé válását követően az energetikai ágazati kijelölő hatóság, az ágazati szakhatóságok, egyéb állami szervezetek és a kritikus szervezetek adatszolgáltatása, valamint az ellenálló képességért felelős vezetőre irányadó képesítési követelményeknek megfelelő természetes személy önkéntes jelentkezése alapján nyilvántartást vezet és kezeli az alábbi adatokat:
+23. § (1) A nyilvántartó hatóság a kijelölési eljárásban hozott hatósági határozat véglegessé válását követően az energetikai ágazati kijelölő hatóság, az ágazati szakhatóságok, egyéb állami szervezetek és a kritikus szervezetek adatszolgáltatása, valamint az ellenálló képességért felelős vezetőre irányadó képesítési követelményeknek megfelelő természetes személy jelentkezése alapján nyilvántartást vezet és kezeli az alábbi adatokat:
 
 a) a kritikus szervezet
 
@@ -54,6 +54,8 @@ ff) a 20. § (10) bekezdése szerinti tájékoztatást és
 
 fg) megbízását, feladatrendszerét igazoló munkaköri leírását vagy megbízási szerződést,
 
+fh) nyilvántartási számát,
+
 g) az ellenálló képességi tervet,
 
 h) a kijelöléséről, a kijelölés fenntartásáról és a kijelölés visszavonásáról szóló határozatot,
@@ -68,11 +70,7 @@ ka) természetes személyazonosító adatait
 
 kb) kritikus munkakörben való foglalkoztatotti státuszát,
 
-l) a nyilvántartásba a 20. § (9) bekezdése alapján önként jelentkezett, az ellenálló képességért felelős vezetőre irányadó képesítési követelményeknek megfelelő természetes személy
-
-la) természetes személyazonosító adatait és
-
-lb) a képesítés meglétét igazoló nyilatkozatát.
+l)
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja
 

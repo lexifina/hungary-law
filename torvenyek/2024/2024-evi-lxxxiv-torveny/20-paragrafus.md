@@ -6,7 +6,7 @@ a) a szervezet vezető tisztségviselője vagy a vezető tisztségviselőkből �
 
 b) szolgáltatás igénybevétele esetén a kritikus szervezet vezetője felé közvetlen beszámolással tartozó, kritikus szervezet ellenálló képességéért felelős vezetőt megbízni.
 
-(2) A kritikus szervezet a kritikus szervezet ellenálló képességéért felelős vezető adatait, képesítését igazoló nyilatkozatát, a foglalkoztatást, a megbízást, a feladatrendszert alátámasztó dokumentumokat, továbbá a vezető személyében történt változást a kinevezést, a megbízást és az adatváltozást követő 8 napon belül köteles a nyilvántartó hatóság részére elektronikusan, a nyilvántartó hatóság weboldalán közzétett formanyomtatvány alkalmazásával megküldeni.
+(2) A kritikus szervezet a kritikus szervezet ellenálló képességéért felelős vezető nevét és a 23. § (1) bekezdés f) pont fh) alpontja szerinti nyilvántartási számát, a foglalkoztatást, a megbízást, a feladatrendszert alátámasztó dokumentumokat, továbbá a vezető személyében történt változást a kinevezést, a megbízást és az adatváltozást követő 8 napon belül köteles a nyilvántartó hatóság részére elektronikusan, a nyilvántartó hatóság weboldalán közzétett formanyomtatvány alkalmazásával megküldeni.
 
 (3) A kritikus szervezet folyamatosan biztosítja a kritikus szervezet ellenálló képességéért felelős vezető számára a tevékenységéhez szükséges technikai, humán és pénzügyi feltételeket, biztosítja valamennyi szükséges dokumentum, folyamat és létesítmény megismerését.
 
@@ -16,9 +16,9 @@ a) kapcsolatot tart a kijelölő hatósággal, az ágazati szakhatósággal és 
 
 b) felméri a kritikus szervezet és a kritikus infrastruktúra biztonságát befolyásoló általános, ágazati és szervezeti követelményeket, szabályozási környezetet,
 
-c) elkészíti és aktualizálja a kockázatértékelést és az ellenálló képességi mátrixot,
+c) előkészíti a kockázatértékelést és az ellenálló képességi mátrixot és azok aktualizálását,
 
-d) elkészíti és aktualizálja az ellenálló képességi tervet,
+d) előkészíti az ellenálló képességi tervet és annak aktualizálását,
 
 e) értékeli a kritikus szervezet és kritikus infrastruktúra ellenálló képességének helyzetét és javaslatot tesz az ellenálló képesség fejlesztésére,
 
@@ -26,7 +26,7 @@ f) megszervezi a kritikus szervezet és a kritikus infrastruktúra ellenálló k
 
 g) rendszeresen beszámol a kritikus szervezet vezetője számára a kritikus szervezet és kritikus infrastruktúra ellenálló képességi helyzetéről.
 
-(5) A kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezet, a kritikus infrastruktúra és az alapvető szolgáltatás vonatkozásában személyesen látja el a feladatát.
+(5) A kritikus szervezet ellenálló képességéért felelős vezető a kritikus szervezet, a kritikus infrastruktúra és az alapvető szolgáltatás vonatkozásában személyesen látja el a feladatát. A személyes feladatellátásban való akadályoztatása esetére a kritikus szervezet gondoskodhat a helyettesítéséről a 23. § (1) bekezdése szerinti nyilvántartásba felvett személy útján.
 
 (6) A kritikus szervezet biztosítja, hogy minden általa üzemeltetett kritikus infrastruktúrához és általa nyújtott alapvető szolgáltatáshoz tartozzon kritikus szervezet ellenálló képességéért felelős vezető. Egy kritikus szervezet több kritikus szervezet ellenálló képességéért felelős vezetőt is kijelölhet.
 
@@ -34,7 +34,7 @@ g) rendszeresen beszámol a kritikus szervezet vezetője számára a kritikus sz
 
 (8) A kritikus szervezet ellenálló képességéért felelős vezető önként jelentkezhet a 32. § szerinti Ellenálló Képességért Felelős Vezetők Tanácsadó Bizottsága tagjának.
 
-(9) Kritikus szervezet foglalkoztatásában nem álló, vele megbízással nem rendelkező természetes személy önként, elektronikus úton jelentkezhet a nyilvántartó hatóság kritikus szervezet ellenálló képességéért felelős vezetőkről vezetett nyilvántartásába, az adatainak és az előírt képesítés meglétét igazoló nyilatkozatának a nyilvántartó hatóság weboldalán közzétett formanyomtatvány megküldésével.
+(9) A (7) bekezdés szerinti képzettséggel rendelkező természetes személy elektronikus úton jelentkezhet a nyilvántartó hatóság kritikus szervezet ellenálló képességéért felelős vezetőkről vezetett nyilvántartásába, az adatainak és az előírt képesítés meglétét igazoló nyilatkozatának a nyilvántartó hatóság weboldalán közzétett formanyomtatvány megküldésével.
 
 (10) A (2) és (9) bekezdés szerinti, képzettséget igazoló nyilatkozatot a nyilvántartó hatóság, adatlekérdezés céljából továbbítja azon felsőoktatási intézmény részére, ahol a képesítést a kritikus szervezet ellenálló képességéért felelős vezető megszerezte. A felsőoktatási intézmény 5 munkanapon belül tájékoztatja a nyilvántartó hatóságot az adatlekérdezés eredményéről.
 

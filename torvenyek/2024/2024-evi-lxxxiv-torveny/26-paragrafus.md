@@ -1,10 +1,10 @@
 ## 16. A rendkívüli esemény bejelentése
 
-26. § (1) A rendkívüli eseményt az ellenállóképességi tervben a kritikus szervezet rendkívüli esemény kezelésére meghatározott szervezeti egysége az alábbiak szerint köteles bejelenteni:
+26. § (1) A rendkívüli eseményt az ellenálló képességi tervben a kritikus szervezet rendkívüli esemény kezelésére meghatározott szervezeti egysége az alábbiak szerint köteles bejelenteni:
 
-a) az 1-es ellenálló képességi szintbe sorolt kritikus szervezet soron kívül, de legkésőbb munkaidőben, az észlelést követő 4 órán belül, munkaidőn túl bekövetkezett rendkívüli esemény esetén a következő munkanapon 12:00 óráig,
+a) az 1-es ellenálló képességi szintbe sorolt kritikus infrastruktúra esetében soron kívül, de legkésőbb munkaidőben, az észlelést követő 4 órán belül, munkaidőn túl bekövetkezett rendkívüli esemény esetén a következő munkanapon 12:00 óráig,
 
-b) a 2-es és 3-as ellenálló képességi szintbe sorolt kritikus szervezet soron kívül, de legkésőbb az észlelést követő 4 órán belül.
+b) a 2-es és 3-as ellenálló képességi szintbe sorolt kritikus infrastruktúra esetében soron kívül, de legkésőbb az észlelést követő 4 órán belül.
 
 (2) A rendkívüli eseményt az általános kijelölő hatóság által közzétett formanyomtatványon
 

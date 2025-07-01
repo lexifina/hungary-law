@@ -1,1 +1,3 @@
-### 87. §
+87. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti. Az ideiglenes megelőző távoltartást elrendelő rendőrség a kezdeményezésben hivatalból, más esetben a kérelem benyújtására jogosult személy kérésére azonnal, írásban nyilatkozik arról, hogy a bántalmazó mozgását nyomon követő technikai eszköz alkalmazásának feltételei rendelkezésre állnak-e.”
