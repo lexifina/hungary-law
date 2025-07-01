@@ -1,3 +1,3 @@
-153. §[^607]
+153. §[^609]
 
-[^607]: A Vhr. 153. §-át a 467/2024. (XII. 30.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^609]: A Vhr. 153. §-át a 467/2024. (XII. 30.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.

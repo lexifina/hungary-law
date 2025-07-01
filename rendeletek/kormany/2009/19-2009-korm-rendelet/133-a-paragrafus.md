@@ -1,4 +1,4 @@
-## A rendszerüzemeltető felfüggesztése és új rendszerüzemeltető kijelölése[^540]
+## A rendszerüzemeltető felfüggesztése és új rendszerüzemeltető kijelölése[^542]
 
 133/A. § (1) A Hivatal a GET 119. § (6) bekezdése szerinti új rendszerüzemeltetői engedélyes kijelölése mellett a korábbi rendszerüzemeltetői engedélyes működési engedélyét ideiglenesen felfüggeszti, a GET 119. § (2) bekezdés c) pontja és 119. § (3a) bekezdése szerinti esetben felfüggeszti vagy a jogsértés súlyától függően a működési engedélyt visszavonja. A felfüggesztés vagy visszavonás, továbbá a kijelölés során figyelemmel kell lenni a GET 119. § (5) bekezdésében foglaltakra.
 
@@ -38,4 +38,4 @@ kerül sor.
 
 (6) A (3) bekezdés c) pontja szerinti esetben vagy a kijelölt engedélyes kérelmére a Hivatal a kijelölést véglegesíti legkésőbb a kijelölést követő egy éven belül.
 
-[^540]: A Vhr. „A rendszerüzemeltető felfüggesztése és új rendszerüzemeltető kijelölése” alcímet (133/A–133/C. §-t) a 467/2024. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^542]: A Vhr. „A rendszerüzemeltető felfüggesztése és új rendszerüzemeltető kijelölése” alcímet (133/A–133/C. §-t) a 467/2024. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
