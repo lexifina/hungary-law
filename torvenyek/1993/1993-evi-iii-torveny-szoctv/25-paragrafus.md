@@ -92,4 +92,4 @@ figyelmen kívül kell hagyni.
 
 (13) Ha a foglalkoztatást helyettesítő támogatás vagy a az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása e törvény rendelkezései alapján szünetel, az ellátások (4)–(6) bekezdés szerinti felülvizsgálatát a szünetelés megszűnését követően kell lefolytatni.
 
-(14) A jogosultnak a hatóság illetékességét érintő lakcímváltozása esetén a (3) bekezdés a) pontja szerinti ellátásokra való jogosultságot a lakcímváltozás hónapjának utolsó napjával meg kell szüntetni.
+(14)
