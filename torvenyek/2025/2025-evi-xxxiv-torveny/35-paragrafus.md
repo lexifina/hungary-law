@@ -2,8 +2,8 @@
 
 a)
 
-b)
+b) 6. § (2) bekezdés e) pontjában a „ ; szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrész,
 
-c)
+c) 12. § (5) bekezdésében a „ , hetedik” szövegrész,
 
 d)
