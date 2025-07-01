@@ -21,3 +21,5 @@ f) rendelkezést a határozat azonnali végrehajthatóságáról, a végrehajtá
 g) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozat a bántalmazó más jogszabály vagy szerződés szerinti kötelezettség alapján fennálló tartási, valamint a bántalmazottal közösen használt ingatlan fenntartására vonatkozó kötelezettségeit nem érinti,
 
 h) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozatban előírt kötelezettségek megszegése szabálysértést valósít meg.
+
+i) tájékoztatást az áldozatsegítő szolgálatról.

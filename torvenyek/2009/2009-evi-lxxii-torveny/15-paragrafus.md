@@ -1,10 +1,12 @@
 15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
 
-(2) Hivatalból indult eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
+(2) A hivatalból indult, illetve a krízisközpont vagy a titkos menedékház képviselője által kezdeményezett eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
 
 (3) Kérelemre indult eljárásban, ha a bántalmazott kérelmező személyesen nem jelenik meg és távolmaradását alapos indokkal nem menti ki, továbbá ha a kérelem nem tartalmazza a 14. § (3) bekezdésében meghatározottakat, a bíróság az eljárást megszünteti. Kérelemre indult eljárásban nem akadálya a döntés meghozatalának az, ha a bántalmazó nem jelenik meg személyesen a meghallgatáson.
 
 (3a) A (2) és (3) bekezdésben foglaltakra a feleket a személyes meghallgatásra szóló idézésben figyelmeztetni kell.
+
+(3b) Nincs helye az eljárás megszüntetésének, ha a krízisközpont vagy a titkos menedékház képviselője által kezdeményezett eljárásban a bántalmazott személyesen nem jelenik meg, és a távolmaradását alapos indokkal nem menti ki.
 
 (4) Az eljárásban hiánypótlásnak csak kérelemre indult eljárásban, rendkívül indokolt esetben, a kérelem hiányossága esetén van helye. Ebben az esetben a bíróság a kérelem beérkezésétől számított egy napon belül felhívja a feleket hiánypótlásra.
 

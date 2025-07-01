@@ -1,10 +1,16 @@
-16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
+16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából, továbbá a krízisközpont vagy a titkos menedékház befogadást alátámasztó tényeket tartalmazó dokumentum adatai alapján a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
 
 (2) A megelőző távoltartást a bíróság legfeljebb hatvan napra rendelheti el.
 
 (2a) A bíróság határozata előzetesen végrehajtható. A bíróság határozatában arra is figyelmezteti a bántalmazót, hogy a távoltartó határozat szabályainak megszegése elzárással is büntethető szabálysértést valósít meg.
 
 (2b) A megelőző távoltartás elrendelésével egyidejűleg – a bántalmazott erre irányuló kérelmére – a bíróság védelmi tanúsítványt állít ki.
+
+(2c) Ha ennek technikai feltételei a rendőrség nyilatkozata alapján rendelkezésre állnak, a bíróság a bántalmazott kérelmére elrendelheti, hogy a megelőző távoltartás magatartási szabályainak megtartását a rendőrség a bántalmazó – valamint beleegyezése esetén a bántalmazott – mozgását nyomon követő technikai eszközzel, valamint alkalmazással ellenőrizze. A bíróság a technikai eszköz alkalmazásának szabályait a megelőző távoltartás magatartási szabályai között határozza meg. A megelőző távoltartás magatartási szabályainak megtartásának ellenőrzésére szolgáló technikai eszköz kiskorú személyre nem telepíthető.
+
+(2d) A (2c) bekezdés alapján elrendelt ellenőrzés céljából kiadott technikai eszköz aktiválásakor a rendőrség a bántalmazót rendeletben megállapított egyszeri díj megfizetésére kötelezi. A díjat a megállapítástól számított 30 napon belül kell megfizetni.
+
+(2e) A bántalmazó a három napon belül benyújtott kérelmére különös méltánylást érdemlő okból mentesíthető a díjfizetési kötelezettség alól. Ebben az esetben a megjelölt költséget az állam viseli.
 
 (3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
 
