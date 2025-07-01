@@ -14,7 +14,7 @@ d)[^14] a köznevelési intézmény a képzés indítását a közlekedési hat�
 
 (3)[^15] Az Nkt. 30/B. §-a, valamint a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 35/B. §-a szerinti gépjárművezetői elméleti tanfolyam (a továbbiakban együtt: középiskolai tanfolyam) és vizsga esetében a képzés az (1) és (2) bekezdésben foglaltaktól eltérően a 8/A. alcímben meghatározottak szerint végezhető.
 
-(3a)[^16] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság országosan végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
+(3a)[^16] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a Közlekedéstudományi Intézet országosan végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
 
 (4) A képzési engedély alapján az ország egész területén végezhető képzés.
 
@@ -29,4 +29,4 @@ d)[^14] a köznevelési intézmény a képzés indítását a közlekedési hat�
 [^13]: A 3. § (2) bekezdés c) pontja a 260/2024. (VIII. 29.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^14]: A 3. § (2) bekezdés d) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^15]: A 3. § (3) bekezdését a 260/2024. (VIII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^16]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § b) pontja, a 612/2023. (XII. 22.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^16]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § b) pontja, a 612/2023. (XII. 22.) Korm. rendelet 27. §-a, a 141/2025. (VI. 19.) Korm. rendelet 4. §-a szerint módosított szöveg.
