@@ -26,7 +26,7 @@ A pszichológiai alkalmasság minimumfeltételei
 
 3. Társas készségekkel kapcsolatos elvárások
 
-3.1.[^2] Átlag feletti szóbeli kommunikációs készségek, beleértve – az ellátott feladathoz igazodóan – a gyermekkorúakkal, a traumatizált, illetve a fogyatékossággal élő személyekkel való hatékony kommunikációs készséget
+3.1.[^11] Átlag feletti szóbeli kommunikációs készségek, beleértve – az ellátott feladathoz igazodóan – a gyermekkorúakkal, a traumatizált, illetve a fogyatékossággal élő személyekkel való hatékony kommunikációs készséget
 
 3.2. Átlagos írásbeli kommunikációs készségek
 
@@ -42,4 +42,4 @@ A pszichológiai alkalmasság minimumfeltételei
 
 4.5. Élettörténete mentes a szexuális devianciáktól
 
-[^2]: Az 1. melléklet 3.1. pontja a 86/2025. (IV. 24.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet 3.1. pontja a 86/2025. (IV. 24.) Korm. rendelet 20. §-a szerint módosított szöveg.
