@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-40-20-0
 | 2023-01-01 | 2000-40-20-0A.19 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-02-01 | 2000-40-20-0A.20 | 2/2023. (I. 30.) BM rendelet |
 | 2023-05-05 | 2000-40-20-0A.21 | 7/2023. (IV. 20.) MK rendelet |
+| 2025-07-01 | 2000-40-20-0A.23 | 7/2023. (IV. 20.) MK rendelet |
