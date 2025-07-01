@@ -8,4 +8,4 @@ c) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderíté
 
 d) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, nemzetközi szerződésben vagy egyéb nemzetközi kötelezettségvállalásban foglaltak szerint.
 
-(2) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, a Magyarország nemzetközi szerződésben adattovábbításra feljogosított és megnevezett szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
+(2) A hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartásából a rendőrség nemzetközi bűnügyi együttműködési központja, a Magyarország nemzetközi szerződésben adattovábbításra feljogosított és megnevezett szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
