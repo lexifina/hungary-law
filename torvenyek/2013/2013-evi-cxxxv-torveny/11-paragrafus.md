@@ -68,11 +68,11 @@ i) a követeléskezelés és a követelések értékesítésének rendjét.
 
 (5) Az Integrációs Szervezet felhívására az Integrációs Szervezet Felügyelet által felügyelt tagja köteles az egyedi válságkezelési terv elkészítéséhez és felülvizsgálatához szükséges adatszolgáltatást teljesíteni.
 
-(6) Az Integrációs Szervezet évente megvizsgálja a Központi Adatfeldolgozó tevékenységét, ideértve a Központi Adatfeldolgozó által ellátott kiszervezett tevékenység 17/V. § (2) és (3) bekezdésében meghatározott megállapodásban és üzemeltetési szerződésben foglaltaknak megfelelő végzését, valamint a Központi Adatfeldolgozó által alkalmazott közreműködő által ellátott kiszervezett tevékenységet.
+(6)
 
 (7) Az Integrációs Szervezet a 11/A. §-ban szabályozott ellenőrző és felügyelési rendszer működtetésével ellenőrzi és folyamatosan felügyeli az ellenőrzés alá vont szervezetek tevékenységét, és a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak, valamint irányelveknek megfelelő működését.
 
-(8) Az Integrációs Szervezet tagja, a Kapcsolt Vállalkozás, valamint a 11/B. § (9) bekezdésben meghatározott körben a Központi Adatfeldolgozó az Integrációs Szervezet által hozott, neki címzett utasítással vagy döntéssel szemben, valamint az Integrációs Szervezet tagja a valamennyi tagra kötelező döntésekkel szemben a jogi személy határozatának bírósági felülvizsgálatára irányadó szabályok szerint bírósághoz fordulhat abban a körben, hogy az utasítás vagy döntés a jogszabályoknak, a létesítő okiratnak és az Integrációs Szervezet által kiadott szabályzatoknak és meghatározott irányelveknek, illetve a hitelintézetek integrációja egyéb szabályzatainak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás vagy döntés attól függetlenül az abban megjelölt határidőben végrehajtandó.
+(8) Az Integrációs Szervezet tagja, a Kapcsolt Vállalkozás az Integrációs Szervezet által hozott, neki címzett utasítással vagy döntéssel szemben, valamint az Integrációs Szervezet tagja a valamennyi tagra kötelező döntésekkel szemben a jogi személy határozatának bírósági felülvizsgálatára irányadó szabályok szerint bírósághoz fordulhat abban a körben, hogy az utasítás vagy döntés a jogszabályoknak, a létesítő okiratnak és az Integrációs Szervezet által kiadott szabályzatoknak és meghatározott irányelveknek, illetve a hitelintézetek integrációja egyéb szabályzatainak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás vagy döntés attól függetlenül az abban megjelölt határidőben végrehajtandó.
 
 (9) Az Integrációs Szervezetnek és tagjának, valamint az Integrációs Szervezet tagjainak egymás közötti jogvitáira a választottbírósági eljárás keretében történő vitarendezés kizárt.
 

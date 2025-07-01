@@ -46,4 +46,4 @@ i) a szabályok megsértésének ismétlődését, és gyakoriságát.
 
 (8) Az Integrációs Szervezet a Kapcsolt Vállalkozás ellenőrzésére vonatkozó vizsgálati jelentésben megfogalmazott megállapítások teljesítésére utasítást adhat a Kapcsolt Vállalkozásnak az ellenőrző befolyást gyakorló intézmény egyidejű értesítése mellett.
 
-(9) Az Integrációs Szervezet a Központi Adatfeldolgozó vagy az általa alkalmazott közreműködő által végzett tevékenység ellenőrzésére vonatkozó vizsgálati jelentésben megfogalmazott megállapítások teljesítésére utasítást adhat a Központi Adatfeldolgozónak.
+(9)

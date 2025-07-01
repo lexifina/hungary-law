@@ -1,6 +1,6 @@
 1. § (1) E törvény alkalmazásában
 
-a) egységes informatikai rendszer: az Integrációs Szervezet tagjai és a további ellenőrzés alá vont szervezet részére az integrációs üzleti irányító szervezet irányításával, az Integrációs Szervezet prudenciális kontrollja mellett összeállított és fejlesztett, a Központi Adatfeldolgozó által üzemeltetett adatbázis és ahhoz kapcsolódó egyedi rendszerek együttese;
+a)
 
 b) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) ekként meghatározott fogalom;
 
@@ -8,7 +8,7 @@ c) Előzetes kötelezettségvállaló nyilatkozat: a Polgári Törvénykönyvrő
 
 d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 
-e) ellenőrzés alá vont szervezet: az Integrációs Szervezet tagjai, a Kapcsolt Vállalkozások, valamint a Központi Adatfeldolgozó;
+e) ellenőrzés alá vont szervezet: az Integrációs Szervezet tagjai, a Kapcsolt Vállalkozások;
 
 f)
 
@@ -22,7 +22,7 @@ j) Kapcsolt Vállalkozás: az Integrációs Szervezet tagjának ellenőrző befo
 
 k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pénzügyi intézményi minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég;
 
-l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet tagjával kötött, – az e törvényben meghatározottak figyelembevételével – a Hpt. kiszervezésre vonatkozó szabályainak megfelelő megállapodás alapján végző informatikai szolgáltató;
+l)
 
 m) integrációs üzleti irányító szervezet: az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő, az Integrációs Szervezet tagjaként működő, de integrált hitelintézetnek nem minősülő pénzügyi intézmény;
 
@@ -78,7 +78,7 @@ z) vezető állású személy: a Hpt. 6. § (1) bekezdés 122. pontjában ekkén
 
 a) az Integrációs Szervezet tagjai,
 
-b) a Központi Adatfeldolgozó, feltéve, hogy abban az Integrációs Szervezet, vagy annak tagja a Hpt. szerinti befolyásoló részesedéssel rendelkezik, továbbá
+b)
 
 c) azok a szervezetek, amelyben az Integrációs Szervezet, vagy annak tagja többségi befolyással rendelkezik.
 

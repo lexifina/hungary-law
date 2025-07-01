@@ -10,7 +10,7 @@ b) a kockázati stratégiáról;
 
 c) az integrációs szintű beszerzési gyakorlatának kialakításáról, beleértve az integrációs szintű beszerzés körébe vont áruk és szolgáltatások meghatározását és a központi beszerzés lebonyolításának szabályait;
 
-d) az egységes informatikai rendszerről;
+d)
 
 e) az egyes pénzügyi és kiegészítő pénzügyi szolgáltatási, valamint befektetési és kiegészítő befektetési szolgáltatási tevékenység általános szerződési feltételeit tartalmazó üzletszabályzatokról.
 
