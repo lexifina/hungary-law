@@ -1,5 +1,5 @@
 ## 11. Módosító rendelkezések
 
-25. §[^268]
+25. §[^272]
 
-[^268]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^272]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

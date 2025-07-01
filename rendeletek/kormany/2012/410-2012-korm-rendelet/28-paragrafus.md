@@ -1,3 +1,3 @@
-28. §[^271]
+28. §[^275]
 
-[^271]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^275]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

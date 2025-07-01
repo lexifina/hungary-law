@@ -1,6 +1,6 @@
 ## A kibocsátási engedély tartalmi követelményei
 
-## A kibocsátási engedély az alábbiakat tartalmazza:[^288]
+## A kibocsátási engedély az alábbiakat tartalmazza:[^292]
 
 ## a) ÜHG engedélyazonosító;
 
@@ -8,17 +8,17 @@
 
 ## c) a létesítmény azonosító adatai;
 
-## d)[^289] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
+## d)[^293] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
 
 ## e) a villamosenergia- és hőtermelés során használt technológia;
 
-## f)[^290] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
+## f)[^294] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
 
-## g)[^291] a környezethasználat feltételeit megállapító, alapul szolgáló engedély megnevezése, azonosítószáma;
+## g)[^295] a környezethasználat feltételeit megállapító, alapul szolgáló engedély megnevezése, azonosítószáma;
 
 ## h) a létesítményben folytatott tevékenység leírása;
 
-## i)[^292] az engedélyezett kibocsátási kategória (A; B; C);
+## i)[^296] az engedélyezett kibocsátási kategória (A; B; C);
 
 ## j) az engedélyezett üvegházhatású gázkibocsátások nyomon követésére jóváhagyott általános és létesítményspecifikus módszertan és intézkedések (jóváhagyott nyomon követési terv):
 
@@ -36,22 +36,22 @@
 
 ## jg) az átadott CO2 mennyiségének meghatározása (ha van ilyen),
 
-## jh)[^293] a jóváhagyott adatkezelő és adatminőség-ellenőrzési tevékenység;
+## jh)[^297] a jóváhagyott adatkezelő és adatminőség-ellenőrzési tevékenység;
 
 ## k) az eseti adatszolgáltatási kötelezettség megállapítása;
 
-## l)[^294] az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év szeptember 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni;
+## l)[^298] az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év szeptember 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni;
 
-## m)[^295] a létesítmény üzemmódjának megnevezése tartalék, készenléti, vagy szezonális üzemmód esetén.
+## m)[^299] a létesítmény üzemmódjának megnevezése tartalék, készenléti, vagy szezonális üzemmód esetén.
 
-4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^296]
+4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^300]
 
-[^288]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
-[^289]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^290]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^291]: A 3. melléklet g) pontja a 127/2025. (VI. 5.) Korm. rendelet 32. § 41. pontja szerint módosított szöveg.
-[^292]: A 3. melléklet i) pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^293]: A 3. melléklet j) pont jh) alpontja a 394/2016. (XII. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^294]: A 3. melléklet l) pontja a 653/2023. (XII. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^295]: A 3. melléklet m) pontját a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^296]: A 4. mellékletet az 527/2020. (XI. 26.) Korm. rendelet 16. § n) pontja hatályon kívül helyezte.
+[^292]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^293]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^294]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^295]: A 3. melléklet g) pontja a 127/2025. (VI. 5.) Korm. rendelet 32. § 41. pontja szerint módosított szöveg.
+[^296]: A 3. melléklet i) pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^297]: A 3. melléklet j) pont jh) alpontja a 394/2016. (XII. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^298]: A 3. melléklet l) pontja a 653/2023. (XII. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^299]: A 3. melléklet m) pontját a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^300]: A 4. mellékletet az 527/2020. (XI. 26.) Korm. rendelet 16. § n) pontja hatályon kívül helyezte.
