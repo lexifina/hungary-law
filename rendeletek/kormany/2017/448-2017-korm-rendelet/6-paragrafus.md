@@ -14,13 +14,14 @@
 
 (7) Fekvőbeteg-ellátást végző intézményben történő beállítás hiányában a kezelőorvos – ha az igénylőlapon feltüntetett javallat szerinti klinikai szakágban szakorvosi képesítése van – akkor kérheti betegének a (6) bekezdés szerint közvetlenül az (1) bekezdésben meghatározott gyógyszer behozatalát, ha a (2) bekezdésben foglalt feltételek fennállnak, és megfelelően indokolja, hogy az adott betegség kezeléséhez a beteg fekvőbeteg-ellátást végző intézménybe történő felvétele nem szükséges.
 
-(8) A (6) és (7) bekezdésben meghatározott esetekben a kérelemhez a 30 napra rendelt gyógyszeradagról szóló érvényes vényt is mellékelni kell.
+(8)[^28]
 
-(9)[^28] Ha NNGYK kiadja az (1) bekezdés szerinti engedélyt, a kezelőorvos – vényen történő rendelés esetén – NNGYK engedélyének másolatát a vénnyel együtt átadja a betegnek.
+(9)[^29] Ha NNGYK kiadja az (1) bekezdés szerinti engedélyt, a kezelőorvos – vényen történő rendelés esetén – NNGYK engedélyének másolatát a vénnyel együtt átadja a betegnek.
 
 [^23]: A 6. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.
 [^24]: A 6. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § d) pontja szerint módosított szöveg.
 [^25]: A 6. § (4) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § b) pontja szerint módosított szöveg.
 [^26]: A 6. § (5) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § c) pontja szerint módosított szöveg.
 [^27]: A 6. § (6) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § g) pontja szerint módosított szöveg.
-[^28]: A 6. § (9) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § e) pontja szerint módosított szöveg.
+[^28]: A 6. § (8) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^29]: A 6. § (9) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 55. § e) pontja szerint módosított szöveg.
