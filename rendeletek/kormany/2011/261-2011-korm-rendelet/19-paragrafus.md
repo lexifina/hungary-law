@@ -1,4 +1,4 @@
-19. § (1)[^50] A más tagállam hatósági engedélyével és jelzésével ellátott, díj ellenében közúti árutovábbítást végző 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű Magyarország területén – az 1072/2009/EK rendelet 1. cikk (5) bekezdésében felsorolt eseteket kivéve – árutovábbítási közösségi engedéllyel közlekedhet.
+19. § (1)[^51] A más tagállam hatósági engedélyével és jelzésével ellátott, díj ellenében közúti árutovábbítást végző 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjármű Magyarország területén – az 1072/2009/EK rendelet 1. cikk (5) bekezdésében felsorolt eseteket kivéve – árutovábbítási közösségi engedéllyel közlekedhet.
 
 (2) A más tagállam hatósági engedélyével és jelzésével ellátott autóbusz Magyarország területén
 
@@ -10,7 +10,7 @@ c) saját számlás személyszállítás esetén az 1073/2009/EK rendelet 5. cik
 
 közlekedhet.
 
-(3)[^51] Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjármű és autóbusz Magyarország területén a kettő vagy többoldalú nemzetközi szerződésben meghatározott engedéllyel (ideértve a CEMT engedélyt és az INTERBUS engedélyt is), a nemzetközi szerződésben meghatározott keretek között és az ott megjelölt feltételek megtartásával közlekedhet.
+(3)[^52] Az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjármű és autóbusz Magyarország területén a kettő vagy többoldalú nemzetközi szerződésben meghatározott engedéllyel (ideértve a CEMT engedélyt és az INTERBUS engedélyt is), a nemzetközi szerződésben meghatározott keretek között és az ott megjelölt feltételek megtartásával közlekedhet.
 
-[^50]: A 19. § (1) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^51]: A 19. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^51]: A 19. § (1) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^52]: A 19. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
