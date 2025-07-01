@@ -48,4 +48,6 @@ k) szükség esetén – a külpolitikáért felelős miniszterrel együttműkö
 
 l) végzi az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő katasztrófavédelmi feladatokat.
 
+m) ellátja az Egyesült Nemzetek Szervezetének Európai Gazdasági Bizottsága keretében létrejött, az Ipari Balesetek Országhatáron Túli Hatásairól szóló, Helsinki Egyezmény hazai szakterületi feladatait.
+
 (6)

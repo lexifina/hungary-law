@@ -1,1 +1,1 @@
-79/D. § Az IHR és az IHR-ben tárolt adatok igénybevételére jogszabályban meghatározott esetekben és módon a hatáskörükbe tartozó ügyekben a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízvédelmi és vízügyi hatóság is jogosult.
+### 79/D. §

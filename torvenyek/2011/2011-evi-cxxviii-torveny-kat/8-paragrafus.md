@@ -12,7 +12,7 @@ c) elrendeli a Kormány egyidejű tájékoztatása mellett a polgári védelmi s
 
 d) dönt az Országgyűlés által az éves költségvetésben a nemzetközi segítségnyújtásra hatáskörébe utalt előirányzat felhasználásáról,
 
-e) háromévente jelentést készít az Országgyűlésnek és a Kormánynak a főbb természeti csapásokra és az ember okozta katasztrófákra kiterjedő kockázatelemzésekről, a katasztrófák elleni védekezésre történő felkészülés helyzetéről, illetve a védekezésről,
+e)
 
 f) gondoskodik a polgári veszélyhelyzeti tervezés katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, amelynek érdekében biztosítja a képviseletet a NATO Reziliencia Bizottságban (a továbbiakban: NATO RC), ellátja a NATO RC katasztrófavédelmi szerveivel való kapcsolattartást,
 
