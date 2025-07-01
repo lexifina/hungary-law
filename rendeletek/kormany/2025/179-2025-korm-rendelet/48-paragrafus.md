@@ -1,0 +1,1 @@
+48. § E rendelet 8. alcíme az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.

@@ -1,0 +1,1 @@
+16. § Az Ar. 11/O. § (2) bekezdés záró szövegrészében és (6) bekezdésében az „ügyfélkapu belépési jogosultsággal rendelkező” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással rendelkező” szöveg lép.
