@@ -20,7 +20,7 @@ i) a korábbi állandó személyazonosító igazolvány tároló elemének nem m
 
 j) a korábbi állandó személyazonosító igazolvány 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor,
 
-k) a huzamos tartózkodási jogosultsággal rendelkező, valamint a menekültként vagy oltalmazottként elismert személyek személyazonosító igazolványának igénylésekor.
+k)
 
 (2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért igazgatási szolgáltatási díjat kell fizetni, kivéve
 
@@ -34,4 +34,4 @@ d) a 7. § (3) bekezdése szerinti újszülött nyilvántartásba vételekor,
 
 e) ha a hatósági igazolvány kiállítására a központi címregiszterbe bejegyzett címelemek megváltozása miatt költözéssel nem járó lakcímváltozás miatt kerül sor,
 
-f) a Magyarország területének a külföldi letelepedés szándékával történő elhagyásának bejelentése esetén.
+f)

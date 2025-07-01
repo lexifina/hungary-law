@@ -32,7 +32,7 @@ b) a nyilvántartási eljárás során használandó iratmintákat;
 
 c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 
-d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
+d) az adópolitikáért felelős miniszterrel egyetértésben a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiállításáért, pótlásáért, kézbesítéséért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 
 e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait;
 
