@@ -20,7 +20,7 @@ d) pályázatonként azon szakmai szervezeteket, amelyek delegáltjai az érték
 
 (5)[^83] A pályázat elbírálása során az OKFŐ főigazgatója meghatározza az egyes pályázó egészségügyi szolgáltatók által betölthető keretszámokat.
 
-(6)[^84]
+(6)[^84] A 17. § (2) bekezdése szerinti keretszám betöltése vonatkozásában a részmunkaidőben foglalkoztatott rezidenst munkaideje arányában kell figyelembe venni, részére és vonatkozásában az e rendeletben meghatározott támogatásokat is arányosan kell folyósítani. A részmunkaidőben foglalkoztatott rezidens munkaidejének növelése is az e rendelet szerinti keretszám terhére történhet. Amennyiben a meghatározott keretszám nem ad lehetőséget a rezidensi munkaidő további emelésére, a munkaidő növelésére az egészségügyi szolgáltató részére biztosított, e rendelet szerinti finanszírozási összeg változatlanul hagyása mellett van lehetőség. A munkaidő módosítása hiányában a szakképzés a továbbiakban is részmunkaidőben teljesíthető. A rezidens munkaidejének csökkentése esetén a felszabaduló keretszámot az egészségügyi szolgáltató e rendelet előírása szerint betöltheti. E változásokról az egészségügyi szolgáltató tájékoztatja az OKFŐ-t.
 
 (7)[^85] A 17. § (2) bekezdés b), c), e) és g) pontja szerinti keretszámok terhére az egészségügyi szolgáltató minden év szeptember 15-éig jelentheti be az OKFŐ részére, hogy azt mely rezidenssel kívánja betölteni, egyidejűleg elektronikus úton megküldi az OKFŐ részére
 
@@ -43,7 +43,7 @@ c) a 17. § (2) bekezdés g) pontja szerinti keretszám betöltése esetén a re
 [^81]: A 18. § (3a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 60. §-ával megállapított szöveg.
 [^82]: A 18. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 65. § (1) bekezdésével megállapított szöveg.
 [^83]: A 18. § (5) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^84]: A 18. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
+[^84]: A 18. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte, újonnan a 175/2025. (VI. 30.) Korm. rendelet 21. §-a iktatta be.
 [^85]: A 18. § (7) bekezdése a 63/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze az 529/2020. (XI. 28.) Korm. rendelet 19. § k) pontja szerint módosított szöveg.
 [^86]: A 18. § (7) bekezdés a) pontját az 529/2020. (XI. 28.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
 [^87]: A 18. § (9) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 42. § a) és d) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
