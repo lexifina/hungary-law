@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2024-07-09 | 2024. évi XIX. törvény | 2013-212-00-00.48 |
 | 2025-01-01 | 2024. évi LXXX. törvény | 2013-212-00-00.49 |
 | 2025-01-15 | 2024. évi LXXX. törvény | 2013-212-00-00.39 |
+| 2025-07-01 | 2024. évi LXXX. törvény | 2013-212-00-00.50 |

@@ -17,3 +17,5 @@ f) a 60. §-ban meghatározott felmondással,
 g) ha a föld természeti erő közvetlen behatása következtében egészben vagy jelentős részben a haszonbérleti szerződés szerinti hasznosításra tartósan alkalmatlanná válik.
 
 h) az 57/A. §-ban meghatározott esetben.
+
+i) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ötv.) 11/A. § (3) bekezdése alapján létrejött szerződés esetén az Ötv. 11/A. § (11) bekezdése szerinti esetben.
