@@ -1,4 +1,4 @@
-8. § (1) A nyilatkozat aláírását követően a tanács a feleket részletesen meghallgatja. Ennek során a felek kifejtik érdekeik alapján kialakított álláspontjukat. A felek az első ülésen a rendelkezésükre álló okiratokat is kötelesek bemutatni.
+8. § (1) A nyilatkozat aláírását vagy megtételét követően a tanács a feleket részletesen meghallgatja. Ennek során a felek kifejtik érdekeik alapján kialakított álláspontjukat. A felek az első ülésen a rendelkezésükre álló okiratokat is kötelesek bemutatni.
 
 (2) A közvetítői eljárás során a közvetítői tanács köteles biztosítani, hogy a felek egyenlő elbánásban részesüljenek.
 

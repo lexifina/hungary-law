@@ -1,4 +1,4 @@
-11. § (1) A felek által megkötött egyezséget a tanács írásba foglalja, azt a tanács tagjai és a felek is aláírják.
+11. § (1) A felek által megkötött egyezséget a tanács írásba foglalja, azt a tanács tagjai és a felek is aláírják vagy ha az ülés megtartására elektronikus kép és hang egyidejű továbbítására alkalmas eszköz útján került sor magukra nézve kötelezőnek ismerik el.
 
 (2) Az egyezség a biztosítóval szemben csak akkor hatályos, ha azt a biztosító tudomásul vette, vagy részben tudomásul vette. Ez utóbbi esetben meg kell jelölni, hogy a biztosító milyen mértékben (összegben) veszi tudomásul a felek egyezségében foglaltakat.
 
