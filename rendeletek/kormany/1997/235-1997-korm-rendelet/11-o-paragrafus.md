@@ -16,39 +16,47 @@ g) az országos örökbefogadást elősegítő szerv vezetője és
 
 h) a nemzetközi örökbefogadási ügyekben eljáró központi hatóság (a továbbiakban: a nemzetközi örökbefogadást elősegítő szerv) vezetője
 
-i)[^50] az egyszemélyes gyermekjóléti szolgáltatás esetén a fenntartó által kijelölt családsegítő,
+i)[^51] az egyszemélyes gyermekjóléti szolgáltatás esetén a fenntartó által kijelölt családsegítő,
 
-j)[^51] a család- és gyermekjóléti szolgálat intézményvezetője,
+j)[^52] a család- és gyermekjóléti szolgálat intézményvezetője,
 
-k)[^52] a család- és gyermekjóléti központ intézményvezetője,
+k)[^53] a család- és gyermekjóléti központ intézményvezetője,
 
-l)[^53] az önálló helyettes szülőt működtető gyermekjóléti szolgálat intézményvezetője,
+l)[^54] az önálló helyettes szülőt működtető gyermekjóléti szolgálat intézményvezetője,
 
-m)[^54] a helyettes szülői hálózat intézményvezetője,
+m)[^55] a helyettes szülői hálózat intézményvezetője,
 
-n)[^55] a gyermekek átmeneti otthona intézményvezetője és
+n)[^56] a gyermekek átmeneti otthona intézményvezetője és
 
-o)[^56] a családok átmeneti otthona intézményvezetője
+o)[^57] a családok átmeneti otthona intézményvezetője
 
 felel.
 
-(2) A GYVR-hez történő hozzáférés érdekében – a Központ honlapján közzétett kijelölő okirat formanyomtatványának kitöltésével –
+(2)[^58] A GYVR-hez történő hozzáférés érdekében – a Központ honlapján közzétett kijelölő okirat formanyomtatványának kitöltésével –
 
-a)[^57] az (1) bekezdés a) és i)–o) pontja szerinti vezető jogosultságigénylésének jóváhagyása érdekében a nevelőszülői hálózat, a gyermekotthon, a Gyvt. 53. § (6) bekezdés c) pontja szerinti intézmény, a gyermekjóléti szolgáltatást nyújtó és a gyermekek átmeneti gondozását nyújtó fenntartója,
+a)[^59] az (1) bekezdés a) és i)–o) pontja szerinti vezető jogosultságigénylésének jóváhagyása érdekében a nevelőszülői hálózat, a gyermekotthon, a Gyvt. 53. § (6) bekezdés c) pontja szerinti intézmény, a gyermekjóléti szolgáltatást nyújtó és a gyermekek átmeneti gondozását nyújtó fenntartója,
 
-b)[^58] az (1) bekezdés d)–h) pontja szerinti vezető jogosultságigénylésének jóváhagyása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter
+b)[^60] az (1) bekezdés d)–h) pontja szerinti vezető jogosultságigénylésének jóváhagyása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter
 
-ügyfélkapu belépési jogosultsággal rendelkező e-képviselőt jelöl ki.
+a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással rendelkező e-képviselőt jelöl ki.
 
 (3) A Központ – a honlapján közzétett kijelölő okirat formanyomtatvány beküldését követően – jóváhagyja
 
 a) a Szociális és Gyermekvédelmi Főigazgatóság központi szerve (a továbbiakban: SZGYF központi szerve) által kijelölt, a területi gyermekvédelmi szakszolgáltatást nyújtó intézmény vezetőjének és az országos gyermekvédelmi szakértői bizottság vezetőjének,
 
-b)[^59] a család- és gyermekjóléti szolgálat, a család- és gyermekjóléti központ, a helyettes szülői hálózat, a gyermekek átmeneti otthona, a családok átmeneti otthona, a nevelőszülői hálózat és a gyermekotthon, valamint a Gyvt. 53. § (6) bekezdés c) pontja szerinti intézmény fenntartója e-képviselőjének,
+b)[^61] a család- és gyermekjóléti szolgálat, a család- és gyermekjóléti központ, a helyettes szülői hálózat, a gyermekek átmeneti otthona, a családok átmeneti otthona, a nevelőszülői hálózat és a gyermekotthon, valamint a Gyvt. 53. § (6) bekezdés c) pontja szerinti intézmény fenntartója e-képviselőjének,
 
-c)[^60] a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium e-képviselőjének,
+c)[^62] a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium e-képviselőjének,
 
-d)[^61] a gyámhivatal vezetője, valamint a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal vezetője által kijelölt, a gyermekvédelmi és gyámügyi feladatkört ellátó szervezeti egysége vezetőjének
+d)[^63] a gyámhivatal vezetőjének
+
+regisztrációját.
+
+(3a)[^64] A miniszter által vezetett minisztérium e-képviselője – a Központ honlapján közzétett kijelölő okirat formanyomtatvány beküldését követően – jóváhagyja
+
+a) a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró szervezeti egysége ügyintézőjének és
+
+b) a gyermekjogi képviselőnek
 
 regisztrációját.
 
@@ -56,24 +64,27 @@ regisztrációját.
 
 (5) A (2) bekezdés szerinti e-képviselőt bejelentő szerv, személy, valamint a (3) bekezdés szerinti szerv vezetője – a Központ honlapján közzétett visszavonó okirat formanyomtatványának elektronikus úton történő megküldésével – haladéktalanul bejelenti a Központnak, ha az e-képviselő, illetve a (3) bekezdés szerint kijelölt személy bejelentett adatai megváltoztak vagy megbízása megszűnik.
 
-(6) A (2) bekezdés szerinti e-képviselőt bejelentő szerv, valamint a (3) bekezdés szerint kijelölt személy az általa irányított szervezet, szervezeti egység szakmai feladatot ellátó, ügyfélkapu belépési jogosultsággal rendelkező szakemberét (a továbbiakban: szakember) felhívja a GYVR-be történő belépési jogosultság igénylésére az OSZIR IDM-ben (a továbbiakban: regisztráció). A regisztráció során a szakember megadja az ügyfélkapu használatára jogosító személyazonosító adatait és megjelöli azokat a szerepköröket, amelyekben a GYVR használatához jogosultságot igényel. A szakember regisztrációját a szervezet vezetője hagyja jóvá.
+(6)[^65] A (2) bekezdés szerinti e-képviselőt bejelentő szerv, valamint a (3) bekezdés szerint kijelölt személy az általa irányított szervezet, szervezeti egység szakmai feladatot ellátó, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással rendelkező szakemberét (a továbbiakban: szakember) felhívja a GYVR-be történő belépési jogosultság igénylésére az OSZIR IDM-ben (a továbbiakban: regisztráció). A regisztráció során a szakember megadja az ügyfélkapu használatára jogosító személyazonosító adatait és megjelöli azokat a szerepköröket, amelyekben a GYVR használatához jogosultságot igényel. A szakember regisztrációját a szervezet vezetője hagyja jóvá.
 
-(6a)[^62] Több család- és gyermekjóléti központot működtető fenntartó esetében a (6) bekezdés szerinti szervezeti egység a fenntartó szolgáltatói nyilvántartásba székhelyként bejegyzett engedélyese, ennek hiányában a fenntartó által kijelölt, a fenntartó szolgáltatói nyilvántartásba telephelyként bejegyezett család- és gyermekjóléti központ engedélyese.
+(6a)[^66] Több család- és gyermekjóléti központot működtető fenntartó esetében a (6) bekezdés szerinti szervezeti egység a fenntartó szolgáltatói nyilvántartásba székhelyként bejegyzett engedélyese, ennek hiányában a fenntartó által kijelölt, a fenntartó szolgáltatói nyilvántartásba telephelyként bejegyezett család- és gyermekjóléti központ engedélyese.
 
 (7) A Központ ellenőrizheti a (3) bekezdés szerint kijelölt személy regisztráció során megadott személyazonosító adatainak és a kijelölésben foglalt személyazonosító adatainak egyezőségét, valamint a kijelölő dokumentum érvényességi feltételeinek meglétét. Ha az adatok nem egyeznek meg, vagy a kijelölő dokumentum érvényességi feltételei nem állnak fenn, a Központ a kijelölést visszautasítja.
 
 (8) A szakembereknek a GYVR használatára történő megfelelő felkészítéséről a (2) bekezdés szerinti e-képviselő, valamint a szervezet vezetője gondoskodik. A (2) bekezdés szerinti e-képviselőt bejelentő szerv, személy, valamint a szervezet vezetője köteles az OSZIR IDM-ben bejelenteni, ha a szakember OSZIR IDM-ben megadott adatai megváltoztak. A szakember regisztrációja az OSZIR IDM-ben vonható vissza.
 
-[^50]: A 11/O. § (1) bekezdés i) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^51]: A 11/O. § (1) bekezdés j) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^52]: A 11/O. § (1) bekezdés k) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^53]: A 11/O. § (1) bekezdés l) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^54]: A 11/O. § (1) bekezdés m) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^55]: A 11/O. § (1) bekezdés n) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^56]: A 11/O. § (1) bekezdés o) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^57]: A 11/O. § (2) bekezdés a) pontja a 205/2021. (IV. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^58]: A 11/O. § (2) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^59]: A 11/O. § (3) bekezdés b) pontja a 205/2021. (IV. 29.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^60]: A 11/O. § (3) bekezdés c) pontja a 238/2022. (VI. 30.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^61]: A 11/O. § (3) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^62]: A 11/O. § (6a) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^51]: A 11/O. § (1) bekezdés i) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^52]: A 11/O. § (1) bekezdés j) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^53]: A 11/O. § (1) bekezdés k) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^54]: A 11/O. § (1) bekezdés l) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^55]: A 11/O. § (1) bekezdés m) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^56]: A 11/O. § (1) bekezdés n) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^57]: A 11/O. § (1) bekezdés o) pontját a 205/2021. (IV. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^58]: A 11/O. § (2) bekezdés záró szövegrésze a 179/2025. (VI. 30.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^59]: A 11/O. § (2) bekezdés a) pontja a 205/2021. (IV. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^60]: A 11/O. § (2) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^61]: A 11/O. § (3) bekezdés b) pontja a 205/2021. (IV. 29.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^62]: A 11/O. § (3) bekezdés c) pontja a 238/2022. (VI. 30.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^63]: A 11/O. § (3) bekezdés d) pontja a 179/2025. (VI. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^64]: A 11/O. § (3a) bekezdését a 179/2025. (VI. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^65]: A 11/O. § (6) bekezdése a 179/2025. (VI. 30.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^66]: A 11/O. § (6a) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.
