@@ -14,6 +14,12 @@
 
 ## 1. A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § (1) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 6. § (1) bekezdése a következő d) ponttal egészül ki:
 
-[^1]: Az 1. § a 9. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+(Az ORFK bűnmegelőzési, bűnüldözési feladatkörében:)
+
+## „d) nemzetközi szerződések és viszonosság alapján kapcsolatot tart és együttműködik a külföldi, valamint a nemzetközi bűnüldözési szervezetekkel,”
+
+(2) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 6. § (1) bekezdése a következő k)–n) ponttal egészül ki:
+
+(Az ORFK bűnmegelőzési, bűnüldözési feladatkörében:)

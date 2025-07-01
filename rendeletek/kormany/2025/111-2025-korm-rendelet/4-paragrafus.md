@@ -1,3 +1,3 @@
-4. §[^4]
+4. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdése a következő k) és l) ponttal egészül ki:
 
-[^4]: A 4. § a 9. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+(Ez a rendelet)
