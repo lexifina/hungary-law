@@ -4,9 +4,11 @@
 
 (2) A kibocsátó a rendszeres tájékoztatási kötelezettségét
 
-a) féléves jelentés és
+a) féléves jelentés,
 
-b) éves jelentés
+b) éves jelentés és
+
+c) a számvitelről szóló 2000. évi C. törvény VI/A. Fejezete szerinti, a kormányok részére fizetett összegekről szóló jelentés
 
 formájában teljesíti.
 
