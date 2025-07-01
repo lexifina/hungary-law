@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2023-12-22 | 2023. évi LXXXVIII. törvény | 2011-175-00-00.41 |
 | 2024-06-19 | 2024. évi XXIX. törvény | 2011-175-00-00.42 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2011-175-00-00.43 |
+| 2025-07-01 | 2025. évi XLVI. törvény | 2011-175-00-00.44 |
