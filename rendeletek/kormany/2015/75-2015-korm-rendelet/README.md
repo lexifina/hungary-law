@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-75-20-2
 | 2024-02-09 | 2015-75-20-22.15 | 16/2024. (II. 8.) Korm. rendelet |
 | 2024-10-01 | 2015-75-20-22.16 | 257/2024. (VIII. 29.) Korm. rendelet |
 | 2024-10-25 | 2015-75-20-22.17 | 305/2024. (X. 24.) Korm. rendelet |
+| 2025-07-01 | 2015-75-20-22.18 | 178/2025. (VI. 30.) Korm. rendelet |

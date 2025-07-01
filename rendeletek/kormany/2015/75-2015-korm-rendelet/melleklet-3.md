@@ -1,4 +1,4 @@
-3. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^54]
+3. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^60]
 
 A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak EOV-ban megadott koordinátáival
 
@@ -226,7 +226,7 @@ A beruházás megvalósításához kapcsolódó, építési joggal érintett ing
 
 | 25. | 238464.940 | 842490.684 |
 
-4.[^55]
+4.[^61]
 
 |  | A | B |
 
@@ -254,7 +254,7 @@ A beruházás megvalósításához kapcsolódó, építési joggal érintett ing
 
 | 12. | 240008.864 | 842331.982 |
 
-5.[^56]
+5.[^62]
 
 |  | A | B |
 
@@ -490,6 +490,6 @@ A beruházás megvalósításához kapcsolódó, építési joggal érintett ing
 
 | 116. | 238427.790 | 843337.020 |
 
-[^54]: A 3. mellékletet a 660/2021. (XI. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 63/2023. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^55]: A 3. melléklet 4. pontja az 517/2023. (XI. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^56]: A 3. melléklet 5. pontja az 517/2023. (XI. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^60]: A 3. mellékletet a 660/2021. (XI. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 63/2023. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^61]: A 3. melléklet 4. pontja az 517/2023. (XI. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^62]: A 3. melléklet 5. pontja az 517/2023. (XI. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
