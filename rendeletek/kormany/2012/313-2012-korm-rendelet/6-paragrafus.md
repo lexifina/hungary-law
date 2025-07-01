@@ -1,6 +1,6 @@
-## 5.[^44] Az OÉNY működését elősegítő elektronikus alkalmazások
+## 5.[^45] Az OÉNY működését elősegítő elektronikus alkalmazások
 
-6. §[^45] (1) Az Üzemeltető az OÉNY működtetése, fenntartása és fejlesztése érdekében
+6. §[^46] (1) Az Üzemeltető az OÉNY működtetése, fenntartása és fejlesztése érdekében
 
 a) gondoskodik az elektronikus alkalmazások működtetéséről,
 
@@ -42,5 +42,5 @@ c) a jogorvoslati eljárásban hozott döntés adatainak rögzítéséről, csat
 
 (8) Az e-örökség weboldalak tekintetében a műemlékvédelem és a régészeti örökség védelme közös információs felületének információtechnológiai működtetése és fejlesztése az Üzemeltető feladata.
 
-[^44]: Az 5. alcím címe a 285/2024. (IX. 30.) Korm. rendelet 85. § 7. pontja szerint módosított szöveg.
-[^45]: A 6. § a 285/2024. (IX. 30.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^45]: Az 5. alcím címe a 285/2024. (IX. 30.) Korm. rendelet 85. § 7. pontja szerint módosított szöveg.
+[^46]: A 6. § a 285/2024. (IX. 30.) Korm. rendelet 81. §-ával megállapított szöveg.

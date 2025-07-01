@@ -1,3 +1,3 @@
-9. §[^55]
+9. §[^56]
 
-[^55]: A 9. §-t a 285/2024. (IX. 30.) Korm. rendelet 86. § g) pontja hatályon kívül helyezte.
+[^56]: A 9. §-t a 285/2024. (IX. 30.) Korm. rendelet 86. § g) pontja hatályon kívül helyezte.

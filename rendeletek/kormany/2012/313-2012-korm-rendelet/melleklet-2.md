@@ -16,8 +16,8 @@
 
 | 8. | 3 000 000 000 Ft felett | 3 000 000 Ft |
 
-2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^59]
+2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^60]
 
 A Dokumentációs Központ gyűjtőkörébe tartozó dokumentumok
 
-[^59]: A 2. mellékletet újonnan a 285/2024. (IX. 30.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^60]: A 2. mellékletet újonnan a 285/2024. (IX. 30.) Korm. rendelet 84. § (1) bekezdése iktatta be.

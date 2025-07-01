@@ -52,6 +52,9 @@
 
 8.18. Örökségvédelmi Nyilvántartási Rendszer (ÖVNYR): a régészeti örökség és a műemlékek központi nyilvántartásai és a nyilvántartásban szereplő adatokkal kapcsolatos iratok, dokumentumok kezelésére szolgáló elektronikus alkalmazás;
 
+8.19.[^9] e-zöldfelületi tanúsítás: olyan elektronikus alkalmazás, amely kizárólagosan biztosítja az zöldfelületi tanúsító személyek és szervezetek számára a hiteles zöldfelületi tanúsítvány elektronikus formában történő előállítását és annak a nyilvántartásba vételét;
+
 9. tervtár: a Dokumentációs Központ által gyűjtött építészeti-műszaki, valamint települési és térségi dokumentációk tárolására, őrzésére, valamint kezelésére szolgáló fizikai vagy elektronikus tárolóhely.
 
 [^8]: A 2. § a 285/2024. (IX. 30.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § 8. pont 8.19. alpontját a 285/2024. (IX. 30.) Korm. rendelet 77. § (2) bekezdése iktatta be.
