@@ -1,8 +1,8 @@
 ## (A VET 46. §-ához)
 
-## Villamosenergia-kereskedelem[^150]
+## Villamosenergia-kereskedelem[^155]
 
-22. §[^151] (1) A villamosenergia-kereskedő a működési engedélye alapján jogosult a villamos energia határon keresztül történő be- és kiszállítására is.
+22. §[^156] (1) A villamosenergia-kereskedő a működési engedélye alapján jogosult a villamos energia határon keresztül történő be- és kiszállítására is.
 
 (2) Villamosenergia-vásárlási szerződés megkötését a felhasználó és a villamosenergia-kereskedő is kezdeményezheti. Ha a villamosenergia-kereskedő ajánlatot tesz a felhasználó részére, annak minden lényeges körülményt, de legalább az alábbiakat tartalmaznia kell:
 
@@ -22,8 +22,8 @@ g) a villamosenergia-vásárlási szerződés tervezetét, és
 
 h) a szerződés megszüntetésének vagy felbontásának egyes eseteit és feltételeit.
 
-(3)[^152] A villamosenergia-kereskedő a villamosenergia-vásárlási szerződés bármelyik fél általi felmondása esetén – ide nem értve a 22/A. § (1a) bekezdése szerinti felmondást – legkésőbb a villamosenergia-vásárlási szerződés megszűnése előtt 21 nappal, azonnali hatályú felmondás esetén a szerződés megszűnését követően haladéktalanul értesíti a hálózati engedélyest a villamosenergia-ellátási szabályzatok szerinti tartalommal.
+(3)[^157] A villamosenergia-kereskedő a villamosenergia-vásárlási szerződés bármelyik fél általi felmondása esetén – ide nem értve a 22/A. § (1a) bekezdése szerinti felmondást – legkésőbb a villamosenergia-vásárlási szerződés megszűnése előtt 21 nappal, azonnali hatályú felmondás esetén a szerződés megszűnését követően haladéktalanul értesíti a hálózati engedélyest a villamosenergia-ellátási szabályzatok szerinti tartalommal.
 
-[^150]: A Vhr. 22. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^151]: A Vhr. 22. §-a a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^152]: A Vhr. 22. § (3) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
+[^155]: A Vhr. 22. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^156]: A Vhr. 22. §-a a 100/2011. (VI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^157]: A Vhr. 22. § (3) bekezdését a 787/2021. (XII. 27.) Korm. rendelet 9. §-a iktatta be.

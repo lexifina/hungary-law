@@ -10,6 +10,16 @@
 
 (4)[^72] Az elosztó évente jelentést küld a Hivatalnak, a hálózatára csatlakozott nem engedélyköteles kiserőművek számáról (a háztartási méretű kiserőműveket elkülönítve), fajtájáról, beépített névleges teljesítőképességéről, a hálózatra adott és az onnan vételezett villamos energia mennyiségéről.
 
+(5)[^73] Az elosztó hálózati engedélyes megküldi az energetikai adatszolgáltató platformot működtető engedélyesnek
+
+a) a háztartási méretű kiserőmű felhasználási helyének azonosításához szükséges, a 22/a. számú melléklet 1.6. pont f) alpontja szerinti adatokat, valamint
+
+b) a háztartási méretű kiserőműhöz kapcsolódó inverter egyedi azonosításához szükséges, a 22/a. számú melléklet 1.6. pont a)–e) alpontja szerinti adatokat.
+
+(6)[^74] Az elosztó hálózati engedélyes az (5) bekezdés szerinti adatszolgáltatást – ideértve az (5) bekezdés szerinti adatoknak az aktív felhasználó által a 21/D. § (1) bekezdés b) pontjában bejelentett változását is – havonta egy alkalommal összesítetten, legkésőbb a naptári hónap utolsó napjáig teljesíti.
+
 [^70]: A Vhr. 8. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^71]: A Vhr. 8. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^72]: A Vhr. 8. § (4) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^73]: A Vhr. 8. § (5) bekezdését a 173/2025. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A Vhr. 8. § (6) bekezdését a 173/2025. (VI. 30.) Korm. rendelet 1. §-a iktatta be.

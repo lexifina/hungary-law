@@ -1,10 +1,10 @@
 5. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesítési, névleges teljesítőképességének növelésére vonatkozó és bővítési, valamint névleges teljesítőképességének csökkentésére vonatkozó engedély iránti kérelemhez benyújtandó dokumentumok[^629]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesítési, névleges teljesítőképességének növelésére vonatkozó és bővítési, valamint névleges teljesítőképességének csökkentésére vonatkozó engedély iránti kérelemhez benyújtandó dokumentumok[^635]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
-2.[^630] A kérelmező nevére szóló,
+2.[^636] A kérelmező nevére szóló,
 
 2.1. a hálózati engedélyessel kötött hálózati csatlakozási szerződés egyszerű másolati példánya, vagy
 
@@ -16,7 +16,7 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 3. A telephely adatai,
 
-4.[^631] Az erőmű élettartamának időtartamára szóló, független gazdasági szakértő által ellenőrzött üzleti terv
+4.[^637] Az erőmű élettartamának időtartamára szóló, független gazdasági szakértő által ellenőrzött üzleti terv
 
 (e rendelet 18. számú melléklete szerint)
 
@@ -24,7 +24,7 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 6. Megvalósíthatósági tanulmány (az e rendelet 19. számú melléklete szerint),
 
-7.[^632] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló,
+7.[^638] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló,
 
 7.1. véglegessé vált környezetvédelmi engedéllyel vagy igazolással arról, hogy a tevékenység környezetvédelmi engedélyhez nem kötött, valamint
 
@@ -34,7 +34,7 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 7.2.2. az Atv. szerinti telephely engedéllyel és igazolással az Atv. szerinti létesítési engedély iránti kérelem atomenergia-felügyeleti szerv részére történő benyújtásáról,
 
-8.[^633] A létesítés kezdetének várható időpontja, a kivitelezés tervezett határideje,
+8.[^639] A létesítés kezdetének várható időpontja, a kivitelezés tervezett határideje,
 
 9. Az üzembe helyezés várható időpontja,
 
@@ -46,7 +46,7 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 13. Az e rendelet 59. § (2) bekezdésében meghatározott energiahordozó készletezést igazoló dokumentumok,
 
-14.[^634] Műszaki adatok (bővítés esetén a bővítés utáni állapot szerint):
+14.[^640] Műszaki adatok (bővítés esetén a bővítés utáni állapot szerint):
 
 14.1. egyvonalas villamos kapcsolási rajz,
 
@@ -60,18 +60,18 @@ a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 14.6. a tervezett éves villamosenergia- és hőtermelés, valamint -értékesítés mennyiségi adatai, az első 5 évre,
 
-14.7.[^635] energetikai hatásfok és
+14.7.[^641] energetikai hatásfok és
 
-14.8.[^636] csatlakozási pontok megnevezése.
+14.8.[^642] csatlakozási pontok megnevezése.
 
-14.9.[^637]
+14.9.[^643]
 
-[^629]: A Vhr. 5. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdése szerint módosított szöveg.
-[^630]: A Vhr. 5. számú melléklet 2. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
-[^631]: A Vhr. 5. számú melléklet 4. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
-[^632]: A Vhr. 5. számú melléklet 7. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^633]: A Vhr. 5. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
-[^634]: A Vhr. 5. számú melléklet 14. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
-[^635]: A Vhr. 5. számú melléklet 14.7. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
-[^636]: A Vhr. 5. számú melléklet 14.8. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
-[^637]: A Vhr. 5. számú melléklet 14.9. pontját a 787/2021. (XII. 27.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^635]: A Vhr. 5. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdése szerint módosított szöveg.
+[^636]: A Vhr. 5. számú melléklet 2. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
+[^637]: A Vhr. 5. számú melléklet 4. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
+[^638]: A Vhr. 5. számú melléklet 7. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^639]: A Vhr. 5. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^640]: A Vhr. 5. számú melléklet 14. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^641]: A Vhr. 5. számú melléklet 14.7. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
+[^642]: A Vhr. 5. számú melléklet 14.8. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § c) pontjával megállapított szöveg.
+[^643]: A Vhr. 5. számú melléklet 14.9. pontját a 787/2021. (XII. 27.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
