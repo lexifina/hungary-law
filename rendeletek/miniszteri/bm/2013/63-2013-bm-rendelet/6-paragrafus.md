@@ -14,7 +14,7 @@ d) az a)–c) pontban felsoroltak hiányában a személlyel kapcsolatban köröz
 
 (3) Ha az ismeretlen helyen lévő személy körözése során a körözési eljárást lefolytató rendőri szerv olyan információkat tár fel, amely alapján a körözési eljárás során foganatosítani kívánt eljárási cselekményt más rendőrkapitányság illetékességi területén szükséges végrehajtani, úgy a körözési eljárást lefolytató rendőri szerv értesítése alapján a megkeresett rendőri szerv soron kívül teljesíti a körözési eljárást lefolytató rendőri szerv eljárási cselekmény foganatosítása iránti megkeresését.
 
-(4)[^11] A körözési eljárást lefolytató rendőri szerv vagy a körözési eljárás során foganatosított eljárási cselekményt végrehajtó rendőri szerv a közös közvetlen felettes szervnél ennek hiányában a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) igazgatójánál kezdeményezi más rendőri szerv kijelölését a körözési eljárás lefolytatására, ha a körözési érdek ezt indokolja.
+(4)[^11] A körözési eljárást lefolytató rendőri szerv vagy a körözési eljárás során foganatosított eljárási cselekményt végrehajtó rendőri szerv a közös közvetlen felettes szervnél, ennek hiányában az Országos Rendőr-főkapitányságnál kezdeményezi más rendőri szerv kijelölését a körözési eljárás lefolytatására, ha a körözési érdek ezt indokolja.
 
 (5)[^12] A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 268. § (1) bekezdés c)–e) pontja és 119. §-a, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 68. § (3) bekezdése és 117. § (8) bekezdése alapján a rendőrség által elrendelt körözés során a körözési eljárás lefolytatására a körözést elrendelő rendőri szerv illetékes.
 
@@ -40,7 +40,7 @@ d) az a)–c) pontban felsoroltak hiányában a személlyel kapcsolatban köröz
 
 [^9]: A 6. § (1) bekezdés nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 6. § (2a) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (1) bekezdése iktatta be.
-[^11]: A 6. § (4) bekezdése a 62/2024. (XII. 30.) BM rendelet 24. §-ával megállapított szöveg.
+[^11]: A 6. § (4) bekezdése a 62/2024. (XII. 30.) BM rendelet 24. §-ával megállapított, a 19/2025. (VI. 13.) BM rendelet 9. § a) pontja szerint módosított szöveg.
 [^12]: A 6. § (5) bekezdése a 37/2018. (XII. 28.) BM rendelet 26. §-ával megállapított szöveg.
 [^13]: A 6. § (5a) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be, szövege a 21/2018. (VI. 29.) BM rendelet 18. § b) pontja szerint módosított szöveg.
 [^14]: A 6. § (5b) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (2) bekezdése iktatta be.

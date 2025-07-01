@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-63-20-0
 | 2023-03-07 | 2013-63-20-0A.15 | 67/2022. (XII. 27.) BM rendelet |
 | 2023-12-29 | 2013-63-20-0A.16 | 88/2023. (XII. 28.) BM rendelet |
 | 2024-12-31 | 2013-63-20-0A.17 | 62/2024. (XII. 30.) BM rendelet |
+| 2025-07-01 | 2013-63-20-0A.18 | 62/2024. (XII. 30.) BM rendelet |
