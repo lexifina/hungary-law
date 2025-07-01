@@ -12,7 +12,7 @@ d) tájékoztató, amely valamely tényről, állapotról, fennálló helyzetrő
 
 a) kötelező szabályozási alapelemként a 6. melléklet 3–8. sorában foglaltakat,
 
-b)[^30] más jogszabály által elrendelt elemként a Méptv. 81. § (4) bekezdés b) pontja vagy 81. § (5) bekezdés b) pontja szerinti védelemmel és korlátozással érintett területeket, védőterületet, végleges használatbavételi engedéllyel megállapított védőtávolságot vagy biztonsági övezetet.
+b)[^31] más jogszabály által elrendelt elemként a Méptv. 81. § (4) bekezdés b) pontja vagy 81. § (5) bekezdés b) pontja szerinti védelemmel és korlátozással érintett területeket, védőterületet, végleges használatbavételi engedéllyel megállapított védőtávolságot vagy biztonsági övezetet.
 
 (3) A szabályozási terv az egyértelmű jogalkalmazás érdekében több szelvényen és több tervlapon is ábrázolható.
 
@@ -26,4 +26,4 @@ b)[^30] más jogszabály által elrendelt elemként a Méptv. 81. § (4) bekezd�
 
 (8) Ha a (1) bekezdés b) pontja szerinti szabályozási elem más jogszabály szerint változik, a helyi építési szabályzatot módosításáig a más jogszabálynak megfelelő tartalommal együtt kell alkalmazni.
 
-[^30]: A 15. § (2) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 8. pontja szerint módosított szöveg.
+[^31]: A 15. § (2) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 8. pontja szerint módosított szöveg.

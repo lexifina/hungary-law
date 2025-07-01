@@ -8,13 +8,13 @@
 
 a) Nemzeti Térinformatikai Alaptérkép,
 
-b)[^103] Nemzeti Ingatlanberuházás Helyszínkereső,
+b)[^104] Nemzeti Ingatlanberuházás Helyszínkereső,
 
 c) Település Arculati Kézikönyv alkalmazás,
 
-d)[^104] OSZT és
+d)[^105] OSZT és
 
 e) Okos Város Online Példatár.
 
-[^103]: Az 57. § b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 38. pontja szerint módosított szöveg.
-[^104]: Az 57. § d) pontja a 285/2024. (IX. 30.) Korm. rendelet 170. §-ával megállapított szöveg.
+[^104]: Az 57. § b) pontja a 285/2024. (IX. 30.) Korm. rendelet 187. § 38. pontja szerint módosított szöveg.
+[^105]: Az 57. § d) pontja a 285/2024. (IX. 30.) Korm. rendelet 170. §-ával megállapított szöveg.

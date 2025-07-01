@@ -1,3 +1,3 @@
-12. §[^25]
+12. §[^26]
 
-[^25]: A 12. §-t a 285/2024. (IX. 30.) Korm. rendelet 188. § 3. pontja hatályon kívül helyezte.
+[^26]: A 12. §-t a 285/2024. (IX. 30.) Korm. rendelet 188. § 3. pontja hatályon kívül helyezte.

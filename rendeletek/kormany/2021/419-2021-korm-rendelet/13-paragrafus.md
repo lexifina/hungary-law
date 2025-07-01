@@ -1,3 +1,3 @@
-13. §[^26]
+13. §[^27]
 
-[^26]: A 13. §-t a 285/2024. (IX. 30.) Korm. rendelet 188. § 3. pontja hatályon kívül helyezte.
+[^27]: A 13. §-t a 285/2024. (IX. 30.) Korm. rendelet 188. § 3. pontja hatályon kívül helyezte.

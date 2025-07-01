@@ -14,7 +14,7 @@ c) adatszolgáltatás figyelembevételével elkészült tervezetét egyeztetni k
 
 d) elfogadása az egyeztetést követően történik, önkormányzati határozat vagy rendelet formájában.
 
-(2)[^107] A településterv, kézikönyv készítését és módosítását, valamint a településképi rendelet módosítását az önkormányzat képviselő-testületének
+(2)[^108] A településterv, kézikönyv készítését és módosítását, valamint a településképi rendelet módosítását az önkormányzat képviselő-testületének
 
 a) a készítés vagy módosítás tényét,
 
@@ -26,13 +26,13 @@ d) a 7. § (7) bekezdése szerinti feljegyzés, a kézikönyv és a településk
 
 tartalmazó döntése alapozza meg.
 
-(2a)[^108] A településterv, kézikönyv készítését és módosítását, valamint a településképi rendelet módosítását megalapozó, (2) bekezdés szerinti döntések E-TÉR rendszerbe történő feltöltésére indokolt esetben külön-külön is sor kerülhet.
+(2a)[^109] A településterv, kézikönyv készítését és módosítását, valamint a településképi rendelet módosítását megalapozó, (2) bekezdés szerinti döntések E-TÉR rendszerbe történő feltöltésére indokolt esetben külön-külön is sor kerülhet.
 
-(3)[^109] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
+(3)[^110] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
 
-(4)[^110] A településterv készítése és módosítása a (2) bekezdés szerinti képviselő-testületi döntés megszületésétől tekinthető folyamatban lévőnek.
+(4)[^111] A településterv készítése és módosítása a (2) bekezdés szerinti képviselő-testületi döntés megszületésétől tekinthető folyamatban lévőnek.
 
-[^107]: Az 59. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 172. § (1) bekezdésével megállapított szöveg.
-[^108]: Az 59. § (2a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 172. § (2) bekezdése iktatta be.
-[^109]: Az 59. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^110]: Az 59. § (4) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 172. § (3) bekezdése iktatta be.
+[^108]: Az 59. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 172. § (1) bekezdésével megállapított szöveg.
+[^109]: Az 59. § (2a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 172. § (2) bekezdése iktatta be.
+[^110]: Az 59. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^111]: Az 59. § (4) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 172. § (3) bekezdése iktatta be.

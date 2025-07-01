@@ -1,5 +1,5 @@
-## 33.[^95]
+## 33.[^96]
 
 54. §
 
-[^95]: A 33. alcímet (54. §-t) a 285/2024. (IX. 30.) Korm. rendelet 188. § 14. pontja hatályon kívül helyezte.
+[^96]: A 33. alcímet (54. §-t) a 285/2024. (IX. 30.) Korm. rendelet 188. § 14. pontja hatályon kívül helyezte.
