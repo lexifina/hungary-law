@@ -28,7 +28,7 @@ I. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
 | 7. | Repülőtéri Rendőr Igazgatóság | igazgató |
 
-| 8. | Nemzetközi Bűnügyi Együttműködési Központ | igazgató |
+| 8. |  |  |
 
 | 9. | Rendőrségi Oktatási és Kiképző Központ | igazgató |
 
@@ -110,4 +110,4 @@ X.
 
 XI. Idegenrendészeti szerv
 
-[^74]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (2) és (3) bekezdése, a 24/2025. (II. 27.) Korm. rendelet 58. § e)–h) pontja szerint módosított szöveg.
+[^74]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (2) és (3) bekezdése, a 24/2025. (II. 27.) Korm. rendelet 58. § e)–h) pontja, a 111/2025. (V. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
