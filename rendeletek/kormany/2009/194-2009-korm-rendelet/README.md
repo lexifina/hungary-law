@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-194-20-
 | 2017-01-01 | 2009-194-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2024-10-01 | 2009-194-20-22.12 | 322/2012. (XI. 16.) Korm. rendelet |
 | 2025-01-01 | 2009-194-20-22.13 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2025-07-01 | 2009-194-20-22.14 | 322/2012. (XI. 16.) Korm. rendelet |

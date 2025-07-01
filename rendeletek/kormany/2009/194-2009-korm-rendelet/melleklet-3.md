@@ -32,13 +32,13 @@
 
 | 2. | Az építményben vagy építményhez kapcsolódó berendezés vagy rendszer engedélyezési eljárása |  |
 
-## V. Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre vonatkozó építési engedély és katasztrófavédelmi engedély:
+## V. Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre vonatkozó építési engedély és iparbiztonsági engedély:
 
 | Sorszám | Eljárás | Közreműködő hatóság |
 
 | 1. | Építmények építési engedélyezési eljárása | az 5. §-ban meghatározott építésügyi hatóság |
 
-| 2. | Hivatásos katasztrófavédelmi szerv katasztrófavédelmi engedélye |
+| 2. | Iparbiztonsági hatóság iparbiztonsági engedélye |
 
 3. melléklet a 194/2009. (IX. 15.) Korm. rendelethez.[^36]
 

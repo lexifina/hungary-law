@@ -68,4 +68,4 @@
 
 2. melléklet a 194/2009. (IX. 15.) Korm. rendelethez[^35]
 
-[^35]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 102. § c) pontja, a 340/2024. (XI. 14.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^35]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 102. § c) pontja, a 340/2024. (XI. 14.) Korm. rendelet 7. §-a, a 175/2025. (VI. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
