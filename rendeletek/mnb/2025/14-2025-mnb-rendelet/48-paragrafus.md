@@ -1,0 +1,1 @@
+48. § A szolgáltató a szankciós szűrőrendszer keretében automatikus szűrést alkalmaz, ha a szolgáltató ügyfeleinek száma a tárgyévet megelőző év végén meghaladta az ezret, egyéb esetben a szolgáltató manuális szűréssel is biztosíthatja a pénzügyi és vagyoni korlátozásokat elrendelő uniós jogi aktusok és ENSZ BT határozatok haladéktalan végrehajtását.

@@ -1,0 +1,3 @@
+6. § (1) A szolgáltató az ügyfél által megnevezett vezető tisztségviselőt kizárólag abban az esetben rögzítheti az ügyfél tényleges tulajdonosaként, ha minden, az adott helyzetben lehetséges intézkedést megtett azon természetes személy azonosítása céljából, aki az ügyfél tekintetében a Pmt. 3. § 38. pont a) vagy b) alpontja szerinti tulajdoni hányaddal, szavazati joggal vagy meghatározó befolyással rendelkezik, vagy aki egyéb módon tényleges irányítást, ellenőrzést gyakorol felette.
+
+(2) A szolgáltató az (1) bekezdésben foglalt esetben a nyilvántartásában visszakereshető módon rögzíti annak okát, hogy az ügyfél tényleges tulajdonosaként miért az ügyfél által megnevezett vezető tisztségviselőt rögzítette.

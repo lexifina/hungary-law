@@ -1,0 +1,1 @@
+42. § A pénzforgalmi szolgáltató és a kriptoeszköz-szolgáltató olyan szűrőrendszerrel rendelkezik, ami képes kiszűrni a 41. § szerinti információ megjelenítésében előforduló hiányosságot vagy hibát, valamint az értékhatár alatti, egymással összefüggő ügyleteket.

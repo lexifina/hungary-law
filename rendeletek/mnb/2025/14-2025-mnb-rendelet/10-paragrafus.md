@@ -1,0 +1,1 @@
+10. § A szolgáltató a Pmt. 65. § (1) bekezdése szerinti belső szabályzatában rögzíti a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedések kapcsán vezetett nyilvántartásaihoz történő hozzáférés módját és jogalapját.

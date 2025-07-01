@@ -1,0 +1,1 @@
+28. § A szolgáltató a belső kockázatértékelését naprakészen tartja, minden naptári évre vonatkozóan egy időpontot meghatározva, amikor az üzleti tevékenység egészére kiterjedő kockázatértékelés aktualizálását el kell végezni.

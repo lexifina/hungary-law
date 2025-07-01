@@ -1,0 +1,1 @@
+55. § A külső ellenőr az általa a szolgáltatónak okozott kár megtérítése érdekében felelősségbiztosítással rendelkezik, amely garantálja a tevékenységével kapcsolatos esetleges helytállási kötelezettség teljesítését.

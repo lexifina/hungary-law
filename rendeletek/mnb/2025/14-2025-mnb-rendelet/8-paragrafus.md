@@ -1,0 +1,1 @@
+8. § Ha a szolgáltató az ügyfél-átvilágítás keretében elvégzett intézkedések eredményeképpen nem tudja megismerni az ügyfél tulajdonosi és irányítási szerkezetét, és ekképpen a tényleges tulajdonos kilétét sem, az érintett ügyfélre vonatkozóan a Pmt. 13. § (8) bekezdésében foglaltak szerint jár el.

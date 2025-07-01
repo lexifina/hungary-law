@@ -1,0 +1,1 @@
+41. § A pénzforgalmi szolgáltató és a kriptoeszköz-szolgáltató a pénzátutalásokhoz és egyes kriptoeszköz-átruházásokhoz kapcsolódó adatközlési kötelezettsége keretében olyan infrastruktúrákat és szolgáltatásokat alkalmaz az információk továbbítására és fogadására, amelyek technikailag képesek az információk hiányosságok vagy hibák nélküli továbbítására és fogadására.
