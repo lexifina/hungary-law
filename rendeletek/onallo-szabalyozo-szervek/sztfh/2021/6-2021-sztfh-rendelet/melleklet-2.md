@@ -1,4 +1,4 @@
-## Országosan: 223
+## Országosan: 222
 
 ## I.
 
@@ -190,9 +190,9 @@
 
 | Szolnoki Járásbíróság | 4 |
 
-| Tiszafüredi Járásbíróság | 2 |
+| Tiszafüredi Járásbíróság | 1 |
 
-| Összesen: | 11 |
+| Összesen: | 10 |
 
 ## XII.
 
