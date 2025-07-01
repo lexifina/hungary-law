@@ -14,8 +14,8 @@
 
 (7) A védelemben részesülő emlős, madár, hüllő faj fogságban tartott élő egyedét az 5. számú mellékletben meghatározott módon kell az egyed tartójának megjelölni.
 
-(8)[^16] Ha a tartási engedély jogosultja természetes személy, akkor a tartást személyesen látja el.
+(8)[^16] Ha a tartási engedély jogosultja természetes személy, akkor a tartást – az e rendeletben meghatározott kivétellel – személyesen látja el.
 
 [^14]: A 6. § (1) bekezdése a 84/2010. (III. 25.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^15]: Az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló 3/2001. (II. 23.) KöM–FVM–NKÖM–BM együttes rendelet 1. számú melléklete.
-[^16]: A 6. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 521. §-a hatályon kívül helyezte, újonnan a 84/2010. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^16]: A 6. § (8) bekezdését újonnan a 84/2010. (III. 25.) Korm. rendelet 5. §-a iktatta be, szövege a 155/2025. (VI. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^71]
+4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^76]
 
 A védelemben részesülő állatfajok tartása, hasznosítása, bemutatása iránti kérelem tartalma
 
@@ -102,4 +102,4 @@ A védelemben részesülő állatfajok tartása, hasznosítása, bemutatása ir�
 
 16. Kizáró okok: A kérelmező büntetőjogi felelősségét a bíróság tiltott állatviadal szervezése, állatkínzás, természetkárosítás, orvvadászat, orvhalászat bűncselekmény elkövetése miatt jogerősen megállapította, illetve a kérelmezőt a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vonták, a határozat jogerőre emelkedésétől számított három évig, vagy természetvédelmi, illetve állatvédelmi bírsággal sújtották, a határozat véglegessé válásától számított három évig.
 
-[^71]: A 4. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés c) pontjával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 186. §-a, a 136/2022. (IV. 7.) Korm. rendelet 10. § b) pontja és 11. § c) pontja szerint módosított szöveg.
+[^76]: A 4. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés c) pontjával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 186. §-a, a 136/2022. (IV. 7.) Korm. rendelet 10. § b) pontja és 11. § c) pontja szerint módosított szöveg.

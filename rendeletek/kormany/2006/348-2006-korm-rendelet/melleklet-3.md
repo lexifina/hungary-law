@@ -64,6 +64,6 @@
 
 | a vizsgabizottság tagja | a vizsgabizottság tagja |
 
-3. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^70]
+3. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^75]
 
-[^70]: A 3. számú mellékletet a 136/2022. (IV. 7.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^75]: A 3. számú mellékletet a 136/2022. (IV. 7.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
