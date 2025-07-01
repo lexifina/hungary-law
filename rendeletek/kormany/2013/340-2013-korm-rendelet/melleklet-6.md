@@ -52,6 +52,6 @@
 
 ## P. H.
 
-6. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+6. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^56]
 
-Külföldön történő gyógykezelés igénybevételére irányuló kérelem bírálati lapja méltányosság esetén
+[^56]: A 6. mellékletet a 155/2025. (VI. 23.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.

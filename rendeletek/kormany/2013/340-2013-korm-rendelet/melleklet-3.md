@@ -110,6 +110,4 @@
 
 3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^54]
 
-Külföldi gyógykezelés az uniós rendeletek alapján – bírálati lap
-
-[^54]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés i)–k) pontja szerint módosított szöveg.
+[^54]: A 3. mellékletet a 155/2025. (VI. 23.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.

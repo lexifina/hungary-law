@@ -18,7 +18,7 @@ c) így reális egészségnyereség-többletet eredményez.
 
 (6)[^25] Ha a NEAK-nak a Tagozat szakmai javaslatával kapcsolatban fenntartása van vagy a Tagozat véleménye nem egyértelmű, akkor ezek tisztázása érdekében azt felülvizsgálat céljából 3 napon belül megküldi az Egészségügyi Szakmai Kollégium elnökségének. Az Egészségügyi Szakmai Kollégium elnöksége – ha indokoltnak tartja a felülvizsgálati eljárás során további információ bekérését, akkor annak tartalmát és módját meghatározva és dokumentálva – az 5. melléklet alapján új javaslatot készít, amelyben 5 napon belül előadja orvosszakmai véleményét, és azt egyidejűleg megküldi a NEAK-nak. Az Egészségügyi Szakmai Kollégium elnöksége a megadott határidőben nyilatkozhat arról is, hogy a Tagozat szakmai javaslatával egyetért.
 
-(7)[^26] A NEAK – ha hiánypótlás nem szükséges – az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről – ide nem értve az önrészt – az eset valamennyi körülményének figyelembevételével, valamint kiadja a 6. melléklet szerinti bírálati lapot. Az utazás és szükség esetén kísérő utazási költségei tekintetében a NEAK – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
+(7)[^26] A NEAK – ha hiánypótlás nem szükséges – az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről – ide nem értve az önrészt – az eset valamennyi körülményének figyelembevételével. Az utazás és szükség esetén a kísérő utazási költségei tekintetében a NEAK – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
 
 (8)[^27] A NEAK a külföldi szakember meghívásos közreműködésével megvalósuló gyógykezeléseknél a támogatás megállapításakor a következő költségeket vállalhatja részben vagy egészben át:
 
@@ -38,7 +38,7 @@ c) a hazai, finanszírozási szerződéssel rendelkező egészségügyi szolgál
 [^23]: A 9. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^24]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^25]: A 9. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^26]: A 9. § (7) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) és f) pontja, a 659/2023. (XII. 28.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
+[^26]: A 9. § (7) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
 [^27]: A 9. § (8) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^28]: A 9. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^29]: A 9. § (10) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
