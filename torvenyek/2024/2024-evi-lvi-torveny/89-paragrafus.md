@@ -1,1 +1,3 @@
-### 89. §
+89. § A Pmt. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Magyarországon telephellyel, de más tagállamban székhellyel rendelkező elektronikuspénz-kibocsátó és pénzforgalmi szolgáltató, valamint kriptoeszköz-szolgáltató köteles írásban kijelölni, és az 5. § szerinti felügyeletet ellátó szerv, valamint a pénzügyi információs egység részére írásban bejelenteni egy magyarországi központi kapcsolattartó pontot, amely biztosítja, hogy a szolgáltató Magyarországon működő, fióktelepnek nem minősülő telephelyei végrehajtják az e törvényben vagy a pénzmosás- és terrorizmusfinanszírozás-megelőzési tárgyú közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségeket, továbbá elősegíti a 69. § alapján előírt felügyeleti intézkedések végrehajtását, azáltal, hogy kérésre dokumentumokat, adatokat és információkat bocsát a felügyeletet ellátó szerv rendelkezésére.”

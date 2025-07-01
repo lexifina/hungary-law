@@ -36,7 +36,7 @@
 
 18.
 
-19.
+19. 28. § (2) és (5) bekezdésében a „pénzmosási és terrorizmus-finanszírozási” szövegrész helyébe a „pénzmosási és terrorizmus-finanszírozási, valamint a proliferáció finanszírozásával kapcsolatos” szöveg,
 
 20.
 
@@ -46,7 +46,7 @@
 
 23.
 
-24.
+24. 63. § (1) bekezdésében a „pénzmosást vagy a terrorizmus finanszírozását” szövegrész helyébe a „pénzmosást vagy a terrorizmusfinanszírozását, valamint a proliferáció finanszírozását” szöveg,
 
 25.
 
