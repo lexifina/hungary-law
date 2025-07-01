@@ -16,4 +16,6 @@
 
 (2) A pedagógus a pedagógus-munkakör betöltésére jogosító oklevél megszerzését követő ötödik év szeptember hónap első munkanapjától – a (3) bekezdésben foglalt kivétellel – öt éves ciklusokban vesz részt a pedagógus-továbbképzésben.
 
-(3) A pedagógus előmeneteli rendszerben a „Gyakornok” fokozatba besorolt pedagógus a gyakornoki ideje alatt egy alkalommal gyakornoki továbbképzést teljesít.
+(3)[^1] A pedagógus előmeneteli rendszerben a „Gyakornok” fokozatba besorolt pedagógus a gyakornoki ideje alatt két alkalommal gyakornoki továbbképzést teljesít.
+
+[^1]: Az 1. § (3) bekezdése a 182/2025. (VI. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
