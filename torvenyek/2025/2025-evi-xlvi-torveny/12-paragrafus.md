@@ -1,0 +1,3 @@
+12. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 90. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Mentes a végrehajtás alól az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen, sportegyesület, utánpótlás-nevelés fejlesztését végző alapítvány vagy országos sportági szakszövetség tulajdonába adott ingóvagyon az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt.”

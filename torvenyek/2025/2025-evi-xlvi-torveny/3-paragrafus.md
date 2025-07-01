@@ -1,0 +1,3 @@
+3. § (1) Az 1. melléklet szerinti ingatlanon, valamint ingatlanhányadon – azok megszerzésének időpontjától – e törvény erejénél fogva 30 éves időtartamú elidegenítési és terhelési tilalom keletkezik. Az elidegenítési és terhelési tilalom ingatlan-nyilvántartásba történő bejegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a szervezet kérelmezi.
+
+(2) Ha az elidegenítési és terhelési tilalom 30 éves időtartama alatt a szervezet jogutód nélkül megszűnik, vagy a részére átruházott vagyonról lemond, a vagyonelemek tulajdonjoga az államra visszaszáll, amely esetben az állam a vagyonelemek tulajdonjogát ingyenesen szerzi meg, a szervezet vagyonelemekre fordított költségeit az állammal szemben nem téríttetheti meg.
