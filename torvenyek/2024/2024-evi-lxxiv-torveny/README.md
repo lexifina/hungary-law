@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-74-00-00
 | 2025-05-13 | 2025. évi XXI. törvény | 2024-74-00-00.25 |
 | 2025-06-01 | 2025. évi XXI. törvény | 2024-74-00-00.26 |
 | 2025-06-20 | 2025. évi LI. törvény | 2024-74-00-00.27 |
+| 2025-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-74-00-00.15 |
