@@ -1,3 +1,3 @@
-3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^26]
+3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^27]
 
-[^26]: A 3. mellékletet a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^27]: A 3. mellékletet a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
