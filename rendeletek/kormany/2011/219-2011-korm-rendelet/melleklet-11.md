@@ -2,7 +2,7 @@
 
 A veszélyes anyagokkal kapcsolatos súlyos balesetről történő jelentés küldésének feltételei
 
-## Az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesetről akkor küld jelentést az iparbiztonsági hatóságnak, ha az alábbi feltételek közül legalább egy teljesül:[^280]
+## Az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesetről akkor küld jelentést az iparbiztonsági hatóságnak, ha az alábbi feltételek közül legalább egy teljesül:[^288]
 
 1. Ha a veszélyes anyagokkal kapcsolatos súlyos balesetet legalább az 1. melléklet 1. és 2. táblázat 3. oszlopában közölt felső küszöbmennyiség 5%-nak megfelelő tömegű veszélyes anyag okozta.
 
@@ -46,4 +46,4 @@ b) a veszélyes anyagokkal foglalkozó üzem területén kívül bekövetkezett 
 
 5. Ha a veszélyes anyagokkal kapcsolatos súlyos baleset államhatáron túli hatásokat okozott.
 
-[^280]: A 11. melléklet nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 40. § 67. pontja szerint módosított szöveg.
+[^288]: A 11. melléklet nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 40. § 67. pontja szerint módosított szöveg.

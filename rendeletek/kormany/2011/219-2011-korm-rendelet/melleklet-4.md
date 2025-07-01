@@ -4,11 +4,11 @@ A biztonsági elemzés elkészítésének tartalmi és formai követelményei
 
 1. Tartalmi követelmények
 
-1.1.[^214] A biztonsági elemzés tartalmi követelményei megegyeznek a 3. melléklet 1. pontjában foglalt követelményekkel, az 1.5., az 1.8. és az 1.10. pont, továbbá az 1.2.8. és az 1.6.5. alpont kivételével.
+1.1.[^222] A biztonsági elemzés tartalmi követelményei megegyeznek a 3. melléklet 1. pontjában foglalt követelményekkel, az 1.5., az 1.8. és az 1.10. pont, továbbá az 1.2.8. és az 1.6.5. alpont kivételével.
 
-1.2.[^215] A veszélyes anyagokkal foglalkozó üzem, vagy a veszélyes anyagokkal foglalkozó létesítmény építési engedélyezési eljárásával (beleértve a bővítést is) egy időben az iparbiztonsági hatósághoz benyújtandó biztonsági elemzés tartalma:
+1.2.[^223] A veszélyes anyagokkal foglalkozó üzem, vagy a veszélyes anyagokkal foglalkozó létesítmény építési engedélyezési eljárásával (beleértve a bővítést is) egy időben az iparbiztonsági hatósághoz benyújtandó biztonsági elemzés tartalma:
 
-a)[^216] a 3. melléklet 1.2.; 1.3.2. a), b); 1.3.3.; 1.3.5.; 1.3.6.; 1.4.; 1.6. – az 1.6.5. alpont kivételével – az építési stádiumban előre látható szinten; 1.7. a tervezett felszerelések és infrastruktúra; 1.9.;
+a)[^224] a 3. melléklet 1.2.; 1.3.2. a), b); 1.3.3.; 1.3.5.; 1.3.6.; 1.4.; 1.6. – az 1.6.5. alpont kivételével – az építési stádiumban előre látható szinten; 1.7. a tervezett felszerelések és infrastruktúra; 1.9.;
 
 b) a technológiában alkalmazott biztonsági megoldások (kémiai technológiai, gépészeti és iránytechnikai) értékelése;
 
@@ -30,6 +30,6 @@ cf) a külső behatás elleni védelem.
 
 A biztonsági elemzés formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
 
-[^214]: A 4. melléklet 1. pont 1.1. alpontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (21) bekezdésével megállapított szöveg.
-[^215]: A 4. melléklet 1.2. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 53. pontja szerint módosított szöveg.
-[^216]: A 4. melléklet 1. pont 1.2. alpont a) pontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (21) bekezdésével megállapított szöveg.
+[^222]: A 4. melléklet 1. pont 1.1. alpontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (21) bekezdésével megállapított szöveg.
+[^223]: A 4. melléklet 1.2. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 53. pontja szerint módosított szöveg.
+[^224]: A 4. melléklet 1. pont 1.2. alpont a) pontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (21) bekezdésével megállapított szöveg.

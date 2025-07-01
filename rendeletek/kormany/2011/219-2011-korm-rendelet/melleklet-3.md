@@ -88,7 +88,7 @@
 
 | 2. | Munkahelyek, más egyéb üzemek, irodaházak stb. távolsága (méter) |  |
 
-| 3. | Veszélyes anyaggal foglalkozó üzem, küszöbérték alatti üzem távolsága (méter) |  |
+| 3. | Veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem távolsága (méter) |  |
 
 | 4. | Lakossági ellátást szolgáló közművek távolsága (méter) (tételesen felsorolva) |  |
 
@@ -120,7 +120,7 @@ A biztonsági jelentés elkészítésének tartalmi és formai követelményei
 
 1. Tartalmi követelmények
 
-1.1.[^195] Az üzemeltető a biztonsági jelentésben megadja a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésével kapcsolatos fő célkitűzéseit, a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos elveit, azok fejlesztési irányait, továbbá összefoglaló jelleggel ismerteti az alábbi területeken bevezetett vagy működtetett intézkedéseit, szervezetét, irányítási rendszereit:
+1.1.[^203] Az üzemeltető a biztonsági jelentésben megadja a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésével kapcsolatos fő célkitűzéseit, a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos elveit, azok fejlesztési irányait, továbbá összefoglaló jelleggel ismerteti az alábbi területeken bevezetett vagy működtetett intézkedéseit, szervezetét, irányítási rendszereit:
 
 a) szervezet és személyzet,
 
@@ -138,9 +138,9 @@ f) belső audit és vezetőségi átvizsgálás.
 
 1.2.1. A veszélyes anyagokkal foglalkozó üzem környezetének bemutatásakor az üzemeltető bizonyítja, hogy a kockázatokat és a veszélyes anyagokkal kapcsolatos súlyos balesetek hatásai által veszélyeztetett területeket a szükséges mértékben elemezte.
 
-1.2.2.[^196] Az üzemeltető bemutatja a veszélyes anyagokkal foglalkozó üzem érintett (a veszélyes anyagokkal kapcsolatos súlyos baleset következményei által veszélyeztetett) környezetének területrendezési elemeit. Ehhez felhasználható a településszerkezeti terv. A bemutatás legalább a következő adatokat tartalmazza:
+1.2.2.[^204] Az üzemeltető bemutatja a veszélyes anyagokkal foglalkozó üzem érintett (a veszélyes anyagokkal kapcsolatos súlyos baleset következményei által veszélyeztetett) környezetének területrendezési elemeit. Ehhez felhasználható a településszerkezeti terv. A bemutatás legalább a következő adatokat tartalmazza:
 
-a)[^197] a lakóterületek jellemzése,
+a)[^205] a lakóterületek jellemzése,
 
 b) a lakosság által leginkább látogatott létesítmények (állandó, ideiglenes), közintézmények (iskolák, kórházak, templomok, rendőrség, tűzoltóság, stb.),
 
@@ -154,7 +154,7 @@ e) a veszélyes anyagokkal foglalkozó üzem környezetében működő gazdálko
 
 1.2.4. A társadalmi kockázat számítása során a 7. melléklet 1.6.2. pontjában foglaltak szerint figyelmen kívül hagyott gazdálkodó szervezetek részletes bemutatása (gazdálkodó szervezet neve, címe, elérhetőségei, a munkavállalók száma, műszakszám, stb.).
 
-1.2.5.[^198] Az üzemeltető bemutatja, hogy a veszélyes anyagokkal foglalkozó üzem környezetében más üzemeltetők által folytatott veszélyes tevékenységek, egyéb telephelyeken és területeken végzett tevékenységek, beleértve a fejlesztések ismert, lehetséges hatásait a rendelkezésére álló adatok alapján figyelembe vette.
+1.2.5.[^206] Az üzemeltető bemutatja, hogy a veszélyes anyagokkal foglalkozó üzem környezetében más üzemeltetők által folytatott veszélyes tevékenységek, egyéb telephelyeken és területeken végzett tevékenységek, beleértve a fejlesztések ismert, lehetséges hatásait a rendelkezésére álló adatok alapján figyelembe vette.
 
 1.2.6. A természeti környezetre vonatkozó legfontosabb információk:
 
@@ -164,7 +164,7 @@ b) a helyszínt jellemző, a veszélyes anyagokkal foglalkozó üzem biztonságo
 
 1.2.7. A biztonsági jelentésnek tartalmaznia kell továbbá a természeti környezetnek a veszélyes anyagokkal kapcsolatos súlyos balesetből adódó veszélyeztetettségét jellemző információkat.
 
-1.2.8.[^199] Szükség esetén az üzem környezete történetének leírása.
+1.2.8.[^207] Szükség esetén az üzem környezete történetének leírása.
 
 1.3. A veszélyes anyagokkal foglalkozó üzem bemutatása
 
@@ -200,9 +200,9 @@ f) a veszélyes anyagokkal foglalkozó üzem adminisztratív létesítményei.
 
 1.3.3. A jelen lévő veszélyes anyagok aktuális leltárát az alábbi tartalommal:
 
-a)[^200] az anyag megnevezése, nemzetközileg elfogadott egyértelmű azonosítása (CAS-szám, szükség szerint IUPAC név, kereskedelmi megnevezés, empirikus formula, fizikai forma), továbbá az anyagoknak az 1. melléklet 1. táblázata szerinti veszélyességi osztályba sorolása,
+a)[^208] az anyag megnevezése, nemzetközileg elfogadott egyértelmű azonosítása (CAS-szám, szükség szerint IUPAC név, kereskedelmi megnevezés, empirikus formula, fizikai forma), továbbá az anyagoknak az 1. melléklet 1. táblázata szerinti veszélyességi osztályba sorolása,
 
-b)[^201] jellemző fizikai, kémiai, toxikológiai és természetet károsító tulajdonságok (H-mondatok) a normálüzemi és a rendellenes működési körülmények között,
+b)[^209] jellemző fizikai, kémiai, toxikológiai és természetet károsító tulajdonságok (H-mondatok) a normálüzemi és a rendellenes működési körülmények között,
 
 c) az egyéb információk (például a tárolásra vonatkozó információk),
 
@@ -346,7 +346,7 @@ d) az egyéni és társadalmi kockázat meghatározása céljából a veszélyes
 
 e) az előző lépés eredményeképpen kapott veszélyeztetési mutatók összevetése az engedélyezési kritériumokkal.
 
-1.6.2.[^202] Az üzemeltető részletesen elemzi a reálisan feltételezhető veszélyes anyagokkal kapcsolatos súlyos balesetek előfordulásának valószínűségét, okait és körülményeit. Ennek során bemutatja a veszélyes anyagokkal kapcsolatos súlyos balesethez vezető események üzemen belüli vagy kívüli kiváltó okait és lefolyását, ideértve különösen:
+1.6.2.[^210] Az üzemeltető részletesen elemzi a reálisan feltételezhető veszélyes anyagokkal kapcsolatos súlyos balesetek előfordulásának valószínűségét, okait és körülményeit. Ennek során bemutatja a veszélyes anyagokkal kapcsolatos súlyos balesethez vezető események üzemen belüli vagy kívüli kiváltó okait és lefolyását, ideértve különösen:
 
 a) a működési okokat,
 
@@ -356,11 +356,11 @@ c) a természeti okokat, például a földrengéseket és az árvizeket.
 
 A veszélyazonosításhoz és a veszélyes anyagokkal kapcsolatos súlyos baleset kockázatának értékeléséhez az üzemeltető bármilyen, e célra a nemzetközi gyakorlatban elfogadott módszert használhat.
 
-1.6.3.[^203] Az üzemeltető értékeli a reálisan feltételezett balesetek lehetséges következményeit. Ennek során az üzemeltető – valamennyi károsító hatásra (mérgező anyagok légköri terjedése, túlnyomás vagy sugárzó hő) vonatkozóan – bemutatja azokat a területeket, melyeket az üzemből kiinduló ilyen balesetek hatásai érinthetnek. A területek bemutatása térképen és fényképpel, vagy adott esetben ezekkel egyenértékű leírással történik, melynek során figyelembe kell venni e rendeletnek a védendő adatokra vonatkozó előírásait is. Az üzemeltető, a veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelését bármilyen, a nemzetközi gyakorlatban, az adott típusú súlyos balesetre, a szakma által általánosan elfogadott módszerrel végezheti el. Az értékelést a technológiában feltárt minden balesetre el kell végezni, de a biztonsági jelentésben csak a veszélyes anyagokkal foglalkozó üzem egésze által jelentett veszélyeztetést érdemben meghatározó, legnagyobb kockázatot jelentő potenciális baleseti eseménysorokat kell bemutatni és szövegesen értékelni.
+1.6.3.[^211] Az üzemeltető értékeli a reálisan feltételezett balesetek lehetséges következményeit. Ennek során az üzemeltető – valamennyi károsító hatásra (mérgező anyagok légköri terjedése, túlnyomás vagy sugárzó hő) vonatkozóan – bemutatja azokat a területeket, melyeket az üzemből kiinduló ilyen balesetek hatásai érinthetnek. A területek bemutatása térképen és fényképpel, vagy adott esetben ezekkel egyenértékű leírással történik, melynek során figyelembe kell venni e rendeletnek a védendő adatokra vonatkozó előírásait is. Az üzemeltető, a veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelését bármilyen, a nemzetközi gyakorlatban, az adott típusú súlyos balesetre, a szakma által általánosan elfogadott módszerrel végezheti el. Az értékelést a technológiában feltárt minden balesetre el kell végezni, de a biztonsági jelentésben csak a veszélyes anyagokkal foglalkozó üzem egésze által jelentett veszélyeztetést érdemben meghatározó, legnagyobb kockázatot jelentő potenciális baleseti eseménysorokat kell bemutatni és szövegesen értékelni.
 
-1.6.4.[^204] Az üzemeltető a biztonsági jelentésben – az azonosított veszélyes anyagokkal kapcsolatos súlyos baleset gyakorisága és következményei alapján valamennyi károsító hatásra (mérgező anyagok légköri terjedése, túlnyomás vagy sugárzó hő) vonatkozóan – javaslatot tehet a sérülés egyéni kockázata értékeinek alapján a veszélyességi övezet nagyságára. A kockázat mértékének – a veszélyes anyagokkal kapcsolatos súlyos balesetek előző pontokban leírt gyakoriságának és súlyosságának figyelembevételével történő – meghatározásakor az üzemeltető bármilyen, e célra a nemzetközi gyakorlatban elfogadott módszert használhat. Az emberi sérülést okozó hatások mellett figyelembe kell venni a veszélyes anyagokkal foglalkozó üzem körül a környezetet és – ha ilyenek vannak – a különleges természeti értékeket is.
+1.6.4.[^212] Az üzemeltető a biztonsági jelentésben – az azonosított veszélyes anyagokkal kapcsolatos súlyos baleset gyakorisága és következményei alapján valamennyi károsító hatásra (mérgező anyagok légköri terjedése, túlnyomás vagy sugárzó hő) vonatkozóan – javaslatot tehet a sérülés egyéni kockázata értékeinek alapján a veszélyességi övezet nagyságára. A kockázat mértékének – a veszélyes anyagokkal kapcsolatos súlyos balesetek előző pontokban leírt gyakoriságának és súlyosságának figyelembevételével történő – meghatározásakor az üzemeltető bármilyen, e célra a nemzetközi gyakorlatban elfogadott módszert használhat. Az emberi sérülést okozó hatások mellett figyelembe kell venni a veszélyes anyagokkal foglalkozó üzem körül a környezetet és – ha ilyenek vannak – a különleges természeti értékeket is.
 
-1.6.5.[^205] Az üzemeltető a biztonsági jelentésben bemutatja a veszélyes anyagokkal foglalkozó létesítményeiben alkalmazott veszélyes anyagokhoz vagy folyamatokhoz kapcsolódó korábbi, a veszélyes anyagokkal foglalkozó üzemében 2002. január 1-ét követően bekövetkezett, veszélyes anyagokkal kapcsolatos eseményeket és súlyos baleseteket, elemzi az azokból levonható tanulságokat, valamint bemutatja a hasonló események megelőzése érdekében tett intézkedéseket.
+1.6.5.[^213] Az üzemeltető a biztonsági jelentésben bemutatja a veszélyes anyagokkal foglalkozó létesítményeiben alkalmazott veszélyes anyagokhoz vagy folyamatokhoz kapcsolódó korábbi, a veszélyes anyagokkal foglalkozó üzemében 2002. január 1-ét követően bekövetkezett, veszélyes anyagokkal kapcsolatos eseményeket és súlyos baleseteket, elemzi az azokból levonható tanulságokat, valamint bemutatja a hasonló események megelőzése érdekében tett intézkedéseket.
 
 1.7. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés eszközrendszerének bemutatása
 
@@ -374,7 +374,7 @@ c) az üzemi dolgozók veszélyhelyzeti riasztásának eszközrendszerét,
 
 d) a veszélyhelyzeti híradás eszközeit és rendszereit,
 
-e)[^206] az érzékelő/védelmi rendszereket és a véletlen anyagkibocsátás mennyiségét korlátozó eszközöket, mint amilyen többek között a vízpermet, a gőzfüggöny, az elzárószelep, illetve az inertizáló rendszerek,
+e)[^214] az érzékelő/védelmi rendszereket és a véletlen anyagkibocsátás mennyiségét korlátozó eszközöket, mint amilyen többek között a vízpermet, a gőzfüggöny, az elzárószelep, illetve az inertizáló rendszerek,
 
 f) a helyzet értékelését és a döntések előkészítését segítő informatikai rendszereket,
 
@@ -394,21 +394,21 @@ A belső védelmi tervben az itt bemutatott információkat kell felhasználni.
 
 1.8.2. Az üzemeltető a biztonsági irányítási rendszert beépíti a veszélyes anyagokkal foglalkozó üzem általános vezetési rendszerébe.
 
-1.8.3.[^207] A biztonsági jelentésben az üzemeltető bemutatja a biztonsági irányítási rendszer szervezeti felépítését. A leírásban a szervezet minden szintjén megjelöli a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésébe és az ellenük való védekezés irányításába, végrehajtásába bevont személyeket, azok feladat- és hatáskörét, felkészítésükhöz szükséges követelményeket és erőforrásokat a folyamatos tökéletesítés szükségességével kapcsolatos tudatosság növelése céljából tett intézkedésekkel együtt.
+1.8.3.[^215] A biztonsági jelentésben az üzemeltető bemutatja a biztonsági irányítási rendszer szervezeti felépítését. A leírásban a szervezet minden szintjén megjelöli a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésébe és az ellenük való védekezés irányításába, végrehajtásába bevont személyeket, azok feladat- és hatáskörét, felkészítésükhöz szükséges követelményeket és erőforrásokat a folyamatos tökéletesítés szükségességével kapcsolatos tudatosság növelése céljából tett intézkedésekkel együtt.
 
-1.8.4.[^208] Az elvégzett veszélyazonosítás és kockázatelemzés eredményei alapján az üzemeltető kialakítja, felülvizsgálja és szükség szerint kiegészíti a biztonsági irányítási rendszer normáit: kidolgozza, kiegészíti és alkalmazza a biztonságos üzemre vonatkozó technológiai leírásokat, utasításokat és más szabályzókat, figyelembe véve a vonatkozó legjobb gyakorlatokkal kapcsolatban rendelkezésre álló információkat. A normák kialakításába – az őket érintő területeken és mértékben – a végrehajtó személyzetet is bevonja. Részükre a megfelelő feltételeket és felkészítést biztosítja. A normarendszerben figyelembe veszi a normálüzemi technológiákat, a leállításokat, az indításokat, a berendezések karbantartását és a technológiai veszélyhelyzetek jelzését és kezelését is, külön figyelmet fordít az alvállalkozói rendszerben végzett tevékenységekre. A normarendszer részeként az üzemeltető a rendszerhiba kockázatának csökkentése céljából, az üzemben lévő, a biztonsági jelentésben rögzített veszélyes anyagokkal kapcsolatos súlyos baleseti eseménysorokhoz rendelhető technológiai berendezések, tároló edények elhasználódásával és a korrózióval járó kockázatok kezelése és ellenőrzése érdekében kidolgozza ezen technológiai berendezések, tárolóedények állapotának nyomon követésére és ellenőrzésére szolgáló stratégiát és módszertant, gondoskodik a megfelelő utókövetési intézkedések és az esetlegesen szükséges ellenintézkedések megtételéről. A biztonsági irányítási rendszer normáit megismerteti a fenti tevékenységekben érintett személyekkel is.
+1.8.4.[^216] Az elvégzett veszélyazonosítás és kockázatelemzés eredményei alapján az üzemeltető kialakítja, felülvizsgálja és szükség szerint kiegészíti a biztonsági irányítási rendszer normáit: kidolgozza, kiegészíti és alkalmazza a biztonságos üzemre vonatkozó technológiai leírásokat, utasításokat és más szabályzókat, figyelembe véve a vonatkozó legjobb gyakorlatokkal kapcsolatban rendelkezésre álló információkat. A normák kialakításába – az őket érintő területeken és mértékben – a végrehajtó személyzetet is bevonja. Részükre a megfelelő feltételeket és felkészítést biztosítja. A normarendszerben figyelembe veszi a normálüzemi technológiákat, a leállításokat, az indításokat, a berendezések karbantartását és a technológiai veszélyhelyzetek jelzését és kezelését is, külön figyelmet fordít az alvállalkozói rendszerben végzett tevékenységekre. A normarendszer részeként az üzemeltető a rendszerhiba kockázatának csökkentése céljából, az üzemben lévő, a biztonsági jelentésben rögzített veszélyes anyagokkal kapcsolatos súlyos baleseti eseménysorokhoz rendelhető technológiai berendezések, tároló edények elhasználódásával és a korrózióval járó kockázatok kezelése és ellenőrzése érdekében kidolgozza ezen technológiai berendezések, tárolóedények állapotának nyomon követésére és ellenőrzésére szolgáló stratégiát és módszertant, gondoskodik a megfelelő utókövetési intézkedések és az esetlegesen szükséges ellenintézkedések megtételéről. A biztonsági irányítási rendszer normáit megismerteti a fenti tevékenységekben érintett személyekkel is.
 
 1.8.5. Az üzemeltető figyelmet fordít a berendezésekben, a tárolóeszközökben és a gyártásban végrehajtott változtatásokra. E változtatásoknak a biztonságra vonatkozó vetületeit már a változtatások tervezése és kivitelezése során előzetesen figyelembe veszi.
 
-1.8.6.[^209] A veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésével kapcsolatosan kitűzött célok elérésének folyamatos vizsgálata és a vizsgálat során szükségesként azonosított változtatások beépítése érdekében az üzemeltető módszereket dolgoz ki, és ezek szerint cselekszik. A megelőzéssel kapcsolatos feladatok végrehajtásának helyzetét folyamatosan értékeli. Az üzemeltető meghatározza a biztonsági teljesítmény-értékelési eljárások során alkalmazott teljesítménymutatókat, így különösen biztonsági teljesítménymutatókat és/vagy más vonatkozó mutatókat is. A hiányosságokat feltárja, és kialakítja az azok kiküszöböléséhez szükséges módszereket.
+1.8.6.[^217] A veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésével kapcsolatosan kitűzött célok elérésének folyamatos vizsgálata és a vizsgálat során szükségesként azonosított változtatások beépítése érdekében az üzemeltető módszereket dolgoz ki, és ezek szerint cselekszik. A megelőzéssel kapcsolatos feladatok végrehajtásának helyzetét folyamatosan értékeli. Az üzemeltető meghatározza a biztonsági teljesítmény-értékelési eljárások során alkalmazott teljesítménymutatókat, így különösen biztonsági teljesítménymutatókat és/vagy más vonatkozó mutatókat is. A hiányosságokat feltárja, és kialakítja az azok kiküszöböléséhez szükséges módszereket.
 
 A feladatok érintik a jelentési rendszert is, amelyben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesetekről vagy eseményekről ad tájékoztatást. A jelentésekben külön ki kell térni az olyan baleseti eseményekre, amelyek a biztonsági rendszer zavarait mutatják. Az ilyen események hátterét fel kell tárni, tapasztalatait értékelni, a következtetéseket levonni, és ezek alapján intézkedni kell a megelőzéssel vagy az elhárítással kapcsolatban szükségessé vált feladatokra.
 
-1.8.7.[^210] Amennyiben az üzemeltető a biztonsági irányítási rendszerről – arra hivatott és a nemzetközi gyakorlatban elfogadott – minőségtanúsító szervezet által a biztonsági irányítási rendszer működtetésének minősítését is magában foglaló tanúsítványát mellékeli a biztonsági jelentés iparbiztonsági hatóság részére történő megküldésekor, akkor a biztonsági irányítási rendszer 1.8.3–1.8.6. szerinti bemutatását nem kell megküldeni, de azokat az iparbiztonsági hatóság kérésére hozzáférhetővé kell tenni.
+1.8.7.[^218] Amennyiben az üzemeltető a biztonsági irányítási rendszerről – arra hivatott és a nemzetközi gyakorlatban elfogadott – minőségtanúsító szervezet által a biztonsági irányítási rendszer működtetésének minősítését is magában foglaló tanúsítványát mellékeli a biztonsági jelentés iparbiztonsági hatóság részére történő megküldésekor, akkor a biztonsági irányítási rendszer 1.8.3–1.8.6. szerinti bemutatását nem kell megküldeni, de azokat az iparbiztonsági hatóság kérésére hozzáférhetővé kell tenni.
 
 1.9. A biztonsági jelentésnek tartalmaznia kell az elkészítésébe bevont szervezetek megnevezését.
 
-1.10.[^211] A veszélyes anyagokkal foglalkozó üzem, vagy a veszélyes anyagokkal foglalkozó létesítmény építési engedélyezési eljárásával (beleértve a jelentős bővítést is) egy időben az iparbiztonsági hatósághoz benyújtandó biztonsági jelentés tartalma:
+1.10.[^219] A veszélyes anyagokkal foglalkozó üzem, vagy a veszélyes anyagokkal foglalkozó létesítmény építési engedélyezési eljárásával (beleértve a jelentős bővítést is) egy időben az iparbiztonsági hatósághoz benyújtandó biztonsági jelentés tartalma:
 
 a) az 1.1.; 1.2.; 1.3.1.; 1.3.2. a), b); 1.3.3.; 1.3.5.; 1.3.6.; 1.3.7.;1.4.; 1.6. az építési stádiumban előre látható szinten; 1.7. a tervezett felszerelések és infrastruktúra; 1.9.;
 
@@ -428,32 +428,32 @@ ce) a statikai megfontolások,
 
 cf) a külső behatás elleni védelem.
 
-1.11.[^212] Az üzemeltető a biztonsági jelentés egyes tartalmi elemeit egyéb vonatkozó uniós és hazai szabályozásnak megfelelő dokumentum felhasználásával is bemutathatja, amennyiben az megfelel a jelen rendelet követelményeinek.
+1.11.[^220] Az üzemeltető a biztonsági jelentés egyes tartalmi elemeit egyéb vonatkozó uniós és hazai szabályozásnak megfelelő dokumentum felhasználásával is bemutathatja, amennyiben az megfelel a jelen rendelet követelményeinek.
 
 2. Formai követelmények
 
-2.1.[^213] A biztonsági jelentést írásban kell elkészíteni és az iparbiztonsági hatóság részére elektronikus úton kell benyújtani. A térképet és helyszínrajzokat a méretarány feltüntetésével elektronikusan (AutoCAD vagy GeoPDF formátumban) kell benyújtani.
+2.1.[^221] A biztonsági jelentést írásban kell elkészíteni és az iparbiztonsági hatóság részére elektronikus úton kell benyújtani. A térképet és helyszínrajzokat a méretarány feltüntetésével elektronikusan (AutoCAD vagy GeoPDF formátumban) kell benyújtani.
 
 2.2. A veszélyes anyagokkal foglalkozó üzem alaprajza (vázlata) vagy helyszínrajza kellő méretarányban tartalmazza annak egész területét és annak minden veszélyes anyagokkal foglalkozó létesítményét és a veszélyeztetett területeket.
 
 2.3. A biztonsági jelentések (kiegészítések) formai követelményei minden esetben azonosak.
 
-[^195]: A 3. melléklet 1.1. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^196]: A 3. melléklet 1.2.2. pont nyitó szövegrésze a 476/2013. (XII. 17.) Korm. rendelet 24. § (3) bekezdése szerint módosított szöveg.
-[^197]: A 3. melléklet 1.2.2. pont a) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^198]: A 3. melléklet 1.2.5. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^199]: A 3. melléklet 1.2. pont 1.2.8. alpontját az 572/2020. (XII. 9.) Korm. rendelet 26. § a) pontja iktatta be.
-[^200]: A 3. melléklet 1.3.3. pontja a) alpontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^201]: A 3. melléklet 1.3.3. pont b) alpontja a 34/2015. (II. 27.) Korm. rendelet a 30. § (3) bekezdésével megállapított szöveg.
-[^202]: A 3. melléklet 1.6.2. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított, a 408/2022. (X. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^203]: A 3. melléklet 1.6.3. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével módosított szöveg.
-[^204]: A 3. melléklet 1.6.4. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^205]: A 3. melléklet 1.6.5. pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdése iktatta be, szövege a 408/2022. (X. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^206]: A 3. melléklet 1.7. pont e) alpontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^207]: A 3. melléklet 1.8.3. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^208]: A 3. melléklet 1. pont 1.8.4. alpontja a 317/2020. (VII. 1.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^209]: A 3. melléklet 1.8.6. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított , a 408/2022. (X. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^210]: A 3. melléklet 1.8.7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 52. pontja szerint módosított szöveg.
-[^211]: A 3. melléklet 1.10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 53. pontja szerint módosított szöveg.
-[^212]: A 3. melléklet 1.11. pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdése iktatta be.
-[^213]: A 3. melléklet 2. pont 2.1. alpontja a 477/2016. (XII. 27.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^203]: A 3. melléklet 1.1. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^204]: A 3. melléklet 1.2.2. pont nyitó szövegrésze a 476/2013. (XII. 17.) Korm. rendelet 24. § (3) bekezdése szerint módosított szöveg.
+[^205]: A 3. melléklet 1.2.2. pont a) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^206]: A 3. melléklet 1.2.5. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^207]: A 3. melléklet 1.2. pont 1.2.8. alpontját az 572/2020. (XII. 9.) Korm. rendelet 26. § a) pontja iktatta be.
+[^208]: A 3. melléklet 1.3.3. pontja a) alpontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^209]: A 3. melléklet 1.3.3. pont b) alpontja a 34/2015. (II. 27.) Korm. rendelet a 30. § (3) bekezdésével megállapított szöveg.
+[^210]: A 3. melléklet 1.6.2. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított, a 408/2022. (X. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^211]: A 3. melléklet 1.6.3. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével módosított szöveg.
+[^212]: A 3. melléklet 1.6.4. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^213]: A 3. melléklet 1.6.5. pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdése iktatta be, szövege a 408/2022. (X. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^214]: A 3. melléklet 1.7. pont e) alpontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^215]: A 3. melléklet 1.8.3. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^216]: A 3. melléklet 1. pont 1.8.4. alpontja a 317/2020. (VII. 1.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^217]: A 3. melléklet 1.8.6. pontja a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdésével megállapított , a 408/2022. (X. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^218]: A 3. melléklet 1.8.7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 52. pontja szerint módosított szöveg.
+[^219]: A 3. melléklet 1.10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 53. pontja szerint módosított szöveg.
+[^220]: A 3. melléklet 1.11. pontját a 34/2015. (II. 27.) Korm. rendelet 30. § (3) bekezdése iktatta be.
+[^221]: A 3. melléklet 2. pont 2.1. alpontja a 477/2016. (XII. 27.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-13. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^286]
+13. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^294]
 
 Súlyos baleset veszélyét magában nem hordozó veszélyes anyag vagy keverék bejelentésének kötelező tartalmi elemei
 
@@ -20,7 +20,7 @@ b) Beosztása:
 
 c) Telefonszáma (mobil):
 
-d)[^287]
+d)[^295]
 
 e) E-mail címe:
 
@@ -44,8 +44,8 @@ c) környezeti veszélyt előidéző tulajdonságok (ökotoxicitás, perzisztenc
 
 d) amennyiben rendelkezésre áll, az anyag vagy keverék uniós besorolása,
 
-e)[^288] információ az anyagra nézve egyedi üzemi feltételekről (hőmérséklet, nyomás és – adott esetben – egyéb feltételek), amelyek között a veszélyes anyagot tárolják, felhasználják és/vagy rendellenes működés és vagy esemény, súlyos baleset, tűz esetén feltételezhetően fennállhatnak.
+e)[^296] információ az anyagra nézve egyedi üzemi feltételekről (hőmérséklet, nyomás és – adott esetben – egyéb feltételek), amelyek között a veszélyes anyagot tárolják, felhasználják és/vagy rendellenes működés és vagy esemény, súlyos baleset, tűz esetén feltételezhetően fennállhatnak.
 
-[^286]: A 13. mellékletet a 34/2015. (II. 27.) Korm. rendelet 30. § (7) bekezdése iktatta be.
-[^287]: A 13. melléklet 2. pont d) alpontját a 340/2024. (XI. 14.) Korm. rendelet 11. § i) pontja hatályon kívül helyezte.
-[^288]: A 13. melléklet 4. pont e) alpontja a 408/2022. (X. 24.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^294]: A 13. mellékletet a 34/2015. (II. 27.) Korm. rendelet 30. § (7) bekezdése iktatta be.
+[^295]: A 13. melléklet 2. pont d) alpontját a 340/2024. (XI. 14.) Korm. rendelet 11. § i) pontja hatályon kívül helyezte.
+[^296]: A 13. melléklet 4. pont e) alpontja a 408/2022. (X. 24.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.

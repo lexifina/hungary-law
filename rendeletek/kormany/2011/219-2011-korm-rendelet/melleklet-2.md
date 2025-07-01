@@ -332,6 +332,6 @@
 
 ## 25. A veszélyes tevékenység azonosításánál a 3. c) pont szerinti összegzési szabály alkalmazása során a teljes veszélyes anyag mennyiség meghatározásakor figyelmen kívül hagyható a mezőgazdasági tevékenységet végző küszöbérték alatti üzem esetében a tartályban, palackban (beleértve a kapcsolódó technológiai berendezéseket) tárolt, az 1. melléklet 2. táblázat 18. sora szerinti veszélyes anyag.”
 
-2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^194]
+2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^202]
 
-[^194]: A 2. melléklet a 34/2015. (II. 27.) Korm. rendelet 30. § (2) bekezdésével megállapított, a 340/2024. (XI. 14.) Korm. rendelet 9. § (20) bekezdése szerint módosított szöveg.
+[^202]: A 2. melléklet a 34/2015. (II. 27.) Korm. rendelet 30. § (2) bekezdésével megállapított, a 340/2024. (XI. 14.) Korm. rendelet 9. § (20) bekezdése, a 175/2025. (VI. 30.) Korm. rendelet 9. § m) pontja szerint módosított szöveg.

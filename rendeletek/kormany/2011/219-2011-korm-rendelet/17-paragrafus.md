@@ -16,7 +16,7 @@ e) az üzem besorolásának megváltozását.
 
 a) a fejlesztés, korszerűsítés eredményeként a technológiai folyamatok, az alkalmazott berendezés módosulásának hatására a korábban felhasznált veszélyes anyag változása,
 
-b) a veszélyes anyag felhasználási folyamatának olyan változása, amelynek eredményeként az azonosított baleseti eseménysorok megváltoznak, és veszélyes anyaggal kapcsolatos esemény, súlyos baleset bekövetkezésével kell számolni.
+b)[^69] a veszélyes anyag felhasználási folyamatának olyan változása, amelynek eredményeként az azonosított baleseti eseménysorok megváltoznak, és veszélyes anyagokkal kapcsolatos esemény, súlyos baleset bekövetkezésével kell számolni.
 
 (3) Az iparbiztonsági hatóság az (1) bekezdés b)–e) pontjában foglalt esetekben az e jogszabályban meghatározott felülvizsgálati eljárást kezdeményez, amelyről a bejelentés megtételétől számított 8 napon belül – az eljárás lefolytatásához szükséges hiányzó feltételek pótlására irányuló felhívást is tartalmazó – értesítést küld az üzemeltetőnek.
 
@@ -33,3 +33,4 @@ c) az ideiglenes leállás indokaként megjelölteket az iparbiztonsági hatós�
 (6) Amennyiben a (3) bekezdésben foglalt felülvizsgálat eredményeként megállapítható, hogy a veszélyességi övezet határai nem változnak, illetve a biztonsági kockázat kedvező irányba változik – így különösen a technológiai eljárás korszerűsítésével az eljárás biztonságosabbá válik, a jelen lévő veszélyes anyagok mennyisége jelentősen csökken –, úgy az iparbiztonsági hatóság a biztonsági elemzés, biztonsági jelentés vagy a súlyos káresemény elhárítási terv módosítását 40 napon belül jóváhagyja.
 
 [^68]: A 8. alcímet (17–18. §) a 34/2015. (II. 27.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte, a 8. alcímet (17. §-t) újonnan a 340/2024. (XI. 14.) Korm. rendelet 9. § (8) bekezdése iktatta be.
+[^69]: A 17. § (2) bekezdés b) pontja a 175/2025. (VI. 30.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

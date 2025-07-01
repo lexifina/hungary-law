@@ -4,9 +4,9 @@ A súlyos káresemény elhárítási terv tartalmi és formai követelményei
 
 1. Tartalmi követelmények
 
-1.1.[^217] A küszöbérték alatti üzem és környezetének bemutatása: a tartalmi követelmények megegyeznek a 3. melléklet 1.2. pont 1.2.1–1.2.2. és az 1.2.7. alpontjában foglalt követelményekkel, továbbá az 1.3. pont 1.3.1–1.3.5. és 1.3.7. alpontjában foglalt követelményekkel.
+1.1.[^225] A küszöbérték alatti üzem és környezetének bemutatása: a tartalmi követelmények megegyeznek a 3. melléklet 1.2. pont 1.2.1–1.2.2. és az 1.2.7. alpontjában foglalt követelményekkel, továbbá az 1.3. pont 1.3.1–1.3.5. és 1.3.7. alpontjában foglalt követelményekkel.
 
-1.2.[^218]
+1.2.[^226]
 
 1.3. A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés és a hatások csökkentésére irányuló tevékenység erő- és eszközrendszerének leírása. Ezen belül:
 
@@ -68,7 +68,7 @@ cf) beavatkozás, kárelhárítás, mentesítés végzése,
 
 cg) az üzem környezetében kialakult veszélyhelyzet elhárításához szükséges segítségnyújtás lehetőségei és feltételei;
 
-ch)[^219] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
+ch)[^227] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
 
 d) az üzemi dolgozók védelme érdekében hozott intézkedések, beleértve a riasztásuk és a riasztás vételét követő magatartási rendszabályokat, a munka biztonságos szüneteltetésének, a kimenekítésnek, a gyülekezésnek a feltételeit;
 
@@ -76,11 +76,11 @@ e) annak bemutatása, hogy a védelmi intézkedések arányban állnak a küszö
 
 f) a feltárt súlyos balesetekhez kapcsolódó kárelhárítási feladatok végrehajtása feltételeinek bemutatása; a szükséges és rendelkezésre álló belső és külső erők és eszközök összevetése teljesítménymutatók alapján.
 
-1.5.[^220] A külső védelmi tervhez kapcsolódó feladatok leírása, amennyiben külső védelmi terv készítését az iparbiztonsági hatóság előírja:
+1.5.[^228] A külső védelmi tervhez kapcsolódó feladatok leírása, amennyiben külső védelmi terv készítését az iparbiztonsági hatóság előírja:
 
 a) a külső védelmi terv beindításáért felelős szervezet riasztásának módja, a riasztáskor közlendő információk, a helyzet kialakulását követő részletes információk tartalma, és az információk átadásának módja,
 
-b)[^221] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
+b)[^229] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
 
 1.6. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
@@ -92,8 +92,8 @@ b)[^221] a küszöbérték alatti üzem környezetében kialakult veszélyhelyze
 
 A súlyos káresemény elhárítási terv formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
 
-[^217]: Az 5. melléklet 1. pont 1.1. alpontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (22) bekezdésével megállapított szöveg.
-[^218]: Az 5. melléklet 1. pont 1.2. alpontját a 340/2024. (XI. 14.) Korm. rendelet 9. § (22) bekezdése hatályon kívül helyezte.
-[^219]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
-[^220]: Az 5. melléklet 1.5. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
-[^221]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
+[^225]: Az 5. melléklet 1. pont 1.1. alpontja a 340/2024. (XI. 14.) Korm. rendelet 9. § (22) bekezdésével megállapított szöveg.
+[^226]: Az 5. melléklet 1. pont 1.2. alpontját a 340/2024. (XI. 14.) Korm. rendelet 9. § (22) bekezdése hatályon kívül helyezte.
+[^227]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
+[^228]: Az 5. melléklet 1.5. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^229]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
