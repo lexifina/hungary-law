@@ -15,3 +15,7 @@ a) azon mesterképzési szakon szerzett szakképzettségek, illetve az Nftv. 40.
 b) az állami ösztöndíjas és az önköltséges formában felvehető létszámot;
 
 c) a felsőoktatási intézmény szabályzatában meghatározott felvételi feltételek, követelmények körét, ezek figyelembevételének módját, feltételeit.
+
+(6)[^206] A felsőoktatási intézmény az (5) bekezdés a) és c) pontjának megfelelő jelentkezővel tanév közben is hallgatói jogviszonyt létesíthet önköltséges formában.
+
+[^206]: A 38. § (6) bekezdését a 175/2025. (VI. 30.) Korm. rendelet 18. §-a iktatta be.
