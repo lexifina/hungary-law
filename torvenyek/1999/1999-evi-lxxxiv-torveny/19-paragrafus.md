@@ -30,7 +30,7 @@ hc) közútkezelői feladatainak, valamint a közterület rendjének biztosítá
 
 i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 
-j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
+j) nemzetközi bűnüldözési szervezet a rendőrség nemzetközi bűnügyi együttműködési központja útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
 
 k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 
