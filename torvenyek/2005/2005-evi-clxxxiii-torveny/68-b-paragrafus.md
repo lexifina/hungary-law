@@ -1,4 +1,4 @@
-## Napi pihenőidő
+## Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállaló jogai és kötelezettségei
 
 68/B. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállaló esetében a lakóhelyi napi pihenőidő hossza huszonnégy órás időszakonként megszakítás nélkül legalább tizenkét óra.
 
