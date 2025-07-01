@@ -1,3 +1,0 @@
-## 3. § A Korm. rendeletnek a 101/2003. (VII. 17.) Korm. rendelet 3. § (2) bekezdésével megállapított 3. § (7) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „,,(7) Az Országos Egészségbiztosítási Pénztár a gyógyszertáraknak a termék – 103/2003. (VII. 17. ) Korm. rendelet szerint kihirdetett – beszállításkori termelői ára, valamint a fogyasztói ár kis- és nagykereskedelmi árréstartalmának térítési díjjal csökkentett összegét utalja át hóközben és a tárgyhavi értékesítést követő hónap 20. napjáig hajtja végre a korrekciót a 217/1997. (XII. 1.) Korm. rendelet 7/A. §-ának (5)–(6) bekezdésében foglaltak szerint. Az Országos Egészségbiztosítási Pénztár legkésőbb három banki napon belül kezdeményezi a Magyar Államkincstár felé a kifizetést.''”
