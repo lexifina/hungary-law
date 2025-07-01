@@ -10,15 +10,15 @@ b) a devizaösszegre szóló beszedési megbízást a 3. melléklet szerinti PFN
 
 nyújtotta be.
 
-(3)[^22] Az (5) bekezdésben foglaltaktól eltérően a számlavezető pénzforgalmi szolgáltató a keretszerződésben lehetővé teheti – a (6) bekezdésben foglaltakat nem érintve – az átutalási megbízás oly módon való benyújtását, hogy abban a kedvezményezett neve és pénzforgalmi jelzőszáma helyett a kedvezményezett fizetési számlájához hozzárendelt másodlagos számlaazonosító szerepel.
+(3)[^26] Az (5) bekezdésben foglaltaktól eltérően a számlavezető pénzforgalmi szolgáltató a keretszerződésben lehetővé teheti – a (6) bekezdésben foglaltakat nem érintve – az átutalási megbízás oly módon való benyújtását, hogy abban a kedvezményezett neve és pénzforgalmi jelzőszáma helyett a kedvezményezett fizetési számlájához hozzárendelt másodlagos számlaazonosító szerepel.
 
-(4)[^23] A (2) bekezdésben felsorolt pénzforgalmi nyomtatványok technikai jellemzőit és azok mintáját a 3. melléklet I. pontja és a II.1–3. és 7. pontja tartalmazza.
+(4)[^27] A (2) bekezdésben felsorolt pénzforgalmi nyomtatványok technikai jellemzőit és azok mintáját a 3. melléklet I. pontja és a II.1–3. és 7. pontja tartalmazza.
 
-(5)[^24] A 3. melléklet II.1–4. és II.7. pontjában foglalt mintától eltérő pénzforgalmi nyomtatvány vagy elektronikus úton továbbított fizetési megbízás akkor alkalmazható, ha legalább a PFNY 11, PFNY 71, PFNY 41 és PFNY 51 kódú pénzforgalmi nyomtatvány, valamint a felhatalmazólevél-minta adatait és legalább az abban megadott hosszúságú mezőket tartalmazza.
+(5)[^28] A 3. melléklet II.1–4. és II.7. pontjában foglalt mintától eltérő pénzforgalmi nyomtatvány vagy elektronikus úton továbbított fizetési megbízás akkor alkalmazható, ha legalább a PFNY 11, PFNY 71, PFNY 41 és PFNY 51 kódú pénzforgalmi nyomtatvány, valamint a felhatalmazólevél-minta adatait és legalább az abban megadott hosszúságú mezőket tartalmazza.
 
-(6)[^25] A fizető fél pénzforgalmi szolgáltatója nem tagadhatja meg az azonnali átutalási megbízás átvételét arra való hivatkozással, hogy abban a fizető fél a kedvezményezett neve és pénzforgalmi jelzőszáma helyett a 4. § (1) bekezdés első mondata szerint hozzárendelhető másodlagos számlaazonosítót tüntetett fel.
+(6)[^29] A fizető fél pénzforgalmi szolgáltatója nem tagadhatja meg az azonnali átutalási megbízás átvételét arra való hivatkozással, hogy abban a fizető fél a kedvezményezett neve és pénzforgalmi jelzőszáma helyett a 4. § (1) bekezdés első mondata szerint hozzárendelhető másodlagos számlaazonosítót tüntetett fel.
 
-(6a)[^26] A fizető fél pénzforgalmi szolgáltatója nem tagadhatja meg a 4. § (2) bekezdése szerinti másodlagos számlaazonosítóval ellátott azonnali átutalási megbízás átvételét arra való hivatkozással, hogy abban a fizető fél a kedvezményezett neve és pénzforgalmi jelzőszáma helyett ilyen másodlagos számlaazonosítót tüntetett fel, az adott típusú másodlagos számlaazonosító központi adatbázisban történő rögzíthetőségének kezdetétől számított 6 hónap elteltét követően.
+(6a)[^30] A fizető fél pénzforgalmi szolgáltatója nem tagadhatja meg a 4. § (2) bekezdése szerinti másodlagos számlaazonosítóval ellátott azonnali átutalási megbízás átvételét arra való hivatkozással, hogy abban a fizető fél a kedvezményezett neve és pénzforgalmi jelzőszáma helyett ilyen másodlagos számlaazonosítót tüntetett fel, az adott típusú másodlagos számlaazonosító központi adatbázisban történő rögzíthetőségének kezdetétől számított 6 hónap elteltét követően.
 
 (7) A 3. melléklet II.5. pontjában foglalt mintától eltérő pénzforgalmi nyomtatvány akkor alkalmazható, ha az legalább a PFNY 31 kódú pénzforgalmi nyomtatvány 1–6. pontja szerinti adattartalmat és a kitöltési útmutatót tartalmazza. A PFNY 31 kódú pénzforgalmi nyomtatványnak nem kell tartalmaznia a kitöltési útmutatót, ha annak tartalmáról a pénzforgalmi nyomtatvány kitöltésében közreműködő, ennek hiányában a pénzforgalmi nyomtatványt a fizető féltől átvevő pénzforgalmi szolgáltató vagy kedvezményezett hitelt érdemlő módon tájékoztatta a fizető felet.
 
@@ -32,8 +32,8 @@ nyújtotta be.
 
 (12) A pénzforgalmi szolgáltató az azonnali átutalási megbízás megadása céljából csak olyan adatbeviteli megoldást alkalmazhat, amellyel az azonnali átutalási megbízáshoz szükséges adatokat bárki képes beolvasni, értelmezni és kezelni.
 
-[^22]: A 14. § (3) bekezdése a 29/2020. (IX. 16.) MNB rendelet 2. §-ával megállapított szöveg.
-[^23]: A 14. § (4) bekezdése a 65/2023. (XII. 15.) MNB rendelet 11. § b) pontja szerint módosított szöveg.
-[^24]: A 14. § (5) bekezdése a 65/2023. (XII. 15.) MNB rendelet 4. §-ával megállapított szöveg.
-[^25]: A 14. § (6) bekezdése a 29/2020. (IX. 16.) MNB rendelet 3. §-ával megállapított szöveg.
-[^26]: A 14. § (6a) bekezdését a 29/2020. (IX. 16.) MNB rendelet 4. §-a iktatta be, szövege az 57/2022. (XII. 22.) MNB rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^26]: A 14. § (3) bekezdése a 29/2020. (IX. 16.) MNB rendelet 2. §-ával megállapított szöveg.
+[^27]: A 14. § (4) bekezdése a 65/2023. (XII. 15.) MNB rendelet 11. § b) pontja szerint módosított szöveg.
+[^28]: A 14. § (5) bekezdése a 65/2023. (XII. 15.) MNB rendelet 4. §-ával megállapított szöveg.
+[^29]: A 14. § (6) bekezdése a 29/2020. (IX. 16.) MNB rendelet 3. §-ával megállapított szöveg.
+[^30]: A 14. § (6a) bekezdését a 29/2020. (IX. 16.) MNB rendelet 4. §-a iktatta be, szövege az 57/2022. (XII. 22.) MNB rendelet 10. § (3) bekezdése szerint módosított szöveg.

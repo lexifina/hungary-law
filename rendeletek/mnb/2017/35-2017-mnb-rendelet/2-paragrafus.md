@@ -40,7 +40,7 @@
 
 14. papíralapú fizetési megbízás: olyan, írásban adott fizetési megbízás, amelyet nem elektronikus úton írtak alá,
 
-15. pénzforgalmi jelzőszám: olyan, az 1. melléklet szerint képzett egyedi azonosító, amely egy adott pénznemben vezetett fizetési számla egyértelmű azonosítására szolgál,
+15.[^8] pénzforgalmi jelzőszám: olyan, az 1. melléklet szerint képzett egyedi azonosító, amely egy vagy több pénznemben vezetett fizetési számla egyértelmű azonosítására szolgál,
 
 16. rendelkezésre jogosult: a számlatulajdonos, a képviseletében jogszabály alapján eljárni jogosult személy, valamint a számla feletti rendelkezésre általuk feljogosított más személy,
 
@@ -48,7 +48,7 @@
 
 18. terhelési nap: az a nap, amikor a pénzforgalmi szolgáltató az általa a fizető fél részére vezetett fizetési számlán nyilvántartott követelést a fizetési megbízás szerinti összeggel csökkenti.
 
-19.[^8] többfunkciós eszköz: az ügyfél birtokában lévő szöveges, beszéd-, képi, videó- vagy adatátvitelt lehetővé tévő eszköz, amely pénzforgalmi szolgáltatások igénybevételén kívül egyéb szolgáltatások igénybevételére is alkalmas, így különösen a laptop és a hordozható többfunkciós eszköz.
+19.[^9] többfunkciós eszköz: az ügyfél birtokában lévő szöveges, beszéd-, képi, videó- vagy adatátvitelt lehetővé tévő eszköz, amely pénzforgalmi szolgáltatások igénybevételén kívül egyéb szolgáltatások igénybevételére is alkalmas, így különösen a laptop és a hordozható többfunkciós eszköz.
 
 (2) Az (1) bekezdésben nem meghatározott fogalmakra a pénzforgalmi szolgáltatás nyújtásáról szóló törvény (a továbbiakban: Pft.) és a Hpt. rendelkezései alkalmazandók.
 
@@ -59,4 +59,5 @@
 [^5]: A 2. § (1) bekezdés 7a. pontját az 57/2022. (XII. 22.) MNB rendelet 1. § (4) bekezdése iktatta be.
 [^6]: A 2. § (1) bekezdés 8a. pontját a 44/2019. (XII. 17.) MNB rendelet 1. §-a iktatta be.
 [^7]: A 2. § (1) bekezdés 9. pontja a 10/2019. (II. 21.) MNB rendelet 1. §-ával megállapított szöveg.
-[^8]: A 2. § (1) bekezdés 19. pontját az 57/2022. (XII. 22.) MNB rendelet - a 65/2023. (XII. 15.) MNB rendelet 13. § (2) bekezdés b) pontja szerint módosított - 1. § (5) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 15. pontja a 15/2025. (VI. 16.) MNB rendelet 8. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés 19. pontját az 57/2022. (XII. 22.) MNB rendelet - a 65/2023. (XII. 15.) MNB rendelet 13. § (2) bekezdés b) pontja szerint módosított - 1. § (5) bekezdése iktatta be.

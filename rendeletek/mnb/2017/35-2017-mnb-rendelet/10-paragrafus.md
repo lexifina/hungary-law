@@ -10,6 +10,6 @@
 
 (5) A pénzforgalmi szolgáltató törvény előírása vagy a számlatulajdonossal kötött megállapodás alapján – a (6) bekezdésben foglalt kivétellel – a fedezethiányos fizetési megbízásra a rendelkezésre álló fedezet erejéig részfizetést teljesít.
 
-(6)[^21] Azonnali átutalási, csoportos átutalási és csoportos beszedési megbízásra részfizetés nem teljesíthető.
+(6)[^25] Azonnali átutalási, csoportos átutalási és csoportos beszedési megbízásra részfizetés nem teljesíthető.
 
-[^21]: A 10. § (6) bekezdése a 61. § 2. pontja szerint módosított szöveg.
+[^25]: A 10. § (6) bekezdése a 61. § 2. pontja szerint módosított szöveg.

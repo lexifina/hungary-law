@@ -1,6 +1,6 @@
-## 4.[^9] Másodlagos számlaazonosító
+## 4.[^11] Másodlagos számlaazonosító
 
-4. § (1) A számlatulajdonos fizetési számlájának azonosítására a rendelkezésre jogosult – amennyiben a számlatulajdonos másképpen nem rendelkezik – másodlagos számlaazonosítóként valamely EGT-államra mint földrajzi területre utaló országkódot tartalmazó mobiltelefonszámot, továbbá elektronikus levelezési címet, az állami adó- és vámhatóság által megállapított adóazonosító jelet vagy adószámot határozhat meg a számlatulajdonos fizetési számláját vezető pénzforgalmi szolgáltatónál tett bejelentés útján (másodlagos számlaazonosító hozzárendelése).
+4. § (1)[^12] A számlatulajdonos fizetési számlájának azonosítására a számlatulajdonos vagy – amennyiben a számlatulajdonos másképpen nem rendelkezik – egyéb rendelkezésre jogosult másodlagos számlaazonosítóként valamely EGT-államra mint földrajzi területre utaló országkódot tartalmazó mobiltelefonszámot, továbbá elektronikus levelezési címet, az állami adó- és vámhatóság által megállapított adóazonosító jelet vagy adószámot határozhat meg a számlatulajdonos fizetési számláját vezető pénzforgalmi szolgáltatónál tett bejelentés útján (másodlagos számlaazonosító hozzárendelése).
 
 (2) A fizetési számlát vezető pénzforgalmi szolgáltató a keretszerződésben lehetővé teheti, hogy a fizetési számla azonosítására a számlatulajdonos eltérő rendelkezése hiányában a rendelkezésre jogosult másodlagos számlaazonosítóként egyéb azonosítót határozzon meg.
 
@@ -18,4 +18,5 @@
 
 (9) A (8) bekezdés szerinti eljárás sikertelensége esetén a pénzforgalmi szolgáltató a másodlagos számlaazonosító hozzárendelést vagy a bejelentett másodlagos azonosító módosítása, törlése iránti kérést visszautasítja.
 
-[^9]: A 4. alcím (4-4/A. §) az 57/2022. (XII. 22.) MNB rendelet 2. §-ával megállapított szöveg.
+[^11]: A 4. alcím (4-4/A. §) az 57/2022. (XII. 22.) MNB rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdése a 15/2025. (VI. 16.) MNB rendelet 1. §-ával megállapított szöveg.

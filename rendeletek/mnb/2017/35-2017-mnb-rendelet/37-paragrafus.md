@@ -8,8 +8,8 @@
 
 (4) A beszedési megbízás adattartalmát a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató – a (3) bekezdésben leírtak ellenőrzése után – továbbítja a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz.
 
-(5)[^52] A kedvezményezett pénzforgalmi szolgáltató a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz közvetlenül is benyújthatja a beszedési megbízást.
+(5)[^64] A kedvezményezett pénzforgalmi szolgáltató a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz közvetlenül is benyújthatja a beszedési megbízást.
 
 (6) Ha a beszedési megbízáshoz okiratot kell csatolni, vagy azt jogszabály vagy megállapodás alapján ellenjegyzéssel kell ellátni, akkor az így felszerelt beszedési megbízást a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató vagy az (5) bekezdés szerint közvetlen benyújtásra jogosult kedvezményezett a kézbesítés megtörténtének igazolására alkalmas módon továbbítja a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz.
 
-[^52]: A 37. § (5) bekezdése a 65/2023. (XII. 15.) MNB rendelet 11. § c) pontja szerint módosított szöveg.
+[^64]: A 37. § (5) bekezdése a 65/2023. (XII. 15.) MNB rendelet 11. § c) pontja szerint módosított szöveg.
