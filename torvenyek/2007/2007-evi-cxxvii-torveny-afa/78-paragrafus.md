@@ -6,6 +6,8 @@ b) adattartalmának módosításáról gondoskodjon az a) pont alá nem tartozó
 
 (2) Abban az esetben, ha az ügylet teljesítését számla azért nem tanúsítja, mert e törvény szerint számla kibocsátásáról nem kellett a kötelezettnek gondoskodnia, a 77. § (1) és (2) bekezdése szerinti esetben az adó alapja utólagos csökkenésének nem akadálya az (1) bekezdés nem teljesülése.
 
+(2a) Ha az ügylet teljesítését nyugta tanúsította, és a jogosultnak ellenértéket térítenek vissza, akkor az (1) bekezdéstől eltérően a 77. § (3) bekezdés alkalmazásának feltétele, hogy a kötelezett a nyugta adattartalmának módosításáról gondoskodjon.
+
 (3) A 77. § (4) bekezdés alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany az alábbiakkal rendelkezzen:
 
 a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet és
