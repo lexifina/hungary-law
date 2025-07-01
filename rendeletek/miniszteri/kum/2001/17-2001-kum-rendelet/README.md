@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-17-20-2
 | 2019-01-01 | 2001-17-20-27.6 | 6/2018. (XII. 19.) KKM rendelet |
 | 2024-02-23 | 2001-17-20-27.7 | 5/2024. (II. 22.) KKM rendelet |
 | 2025-01-18 | 2001-17-20-27.8 | 2/2025. (I. 15.) KKM rendelet |
+| 2025-07-01 | 2001-17-20-27.10 | 8/2025. (VI. 30.) KKM rendelet |
