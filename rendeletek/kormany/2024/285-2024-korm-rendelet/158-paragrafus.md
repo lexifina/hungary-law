@@ -1,3 +1,3 @@
-158. §[^182]
+158. §[^178]
 
-[^182]: A 158. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: A 158. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

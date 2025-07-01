@@ -1,3 +1,3 @@
-179. §[^203]
+179. §[^199]
 
-[^203]: A 179. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^199]: A 179. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

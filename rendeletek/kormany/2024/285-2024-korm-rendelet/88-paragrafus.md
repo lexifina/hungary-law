@@ -1,5 +1,5 @@
 ## 30. A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.) Korm. rendelet módosítása
 
-88. §[^112]
+88. §[^108]
 
-[^112]: A 88. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 88. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

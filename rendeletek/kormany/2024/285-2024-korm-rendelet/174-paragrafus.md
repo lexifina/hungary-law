@@ -1,3 +1,3 @@
-174. §[^198]
+174. §[^194]
 
-[^198]: A 174. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^194]: A 174. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

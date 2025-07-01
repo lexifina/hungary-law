@@ -1,5 +1,5 @@
 ## 69. A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet módosítása
 
-197. §[^316]
+197. §[^312]
 
-[^316]: A 197. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^312]: A 197. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

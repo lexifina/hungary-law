@@ -1,3 +1,3 @@
-162. §[^186]
+162. §[^182]
 
-[^186]: A 162. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: A 162. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

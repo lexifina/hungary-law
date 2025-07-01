@@ -1,3 +1,3 @@
-172. §[^196]
+172. §[^192]
 
-[^196]: A 172. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^192]: A 172. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

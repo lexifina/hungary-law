@@ -1,3 +1,3 @@
-182. §[^206]
+182. §[^202]
 
-[^206]: A 182. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^202]: A 182. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

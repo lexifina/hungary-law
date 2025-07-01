@@ -1,3 +1,3 @@
-194. §[^313]
+194. §[^309]
 
-[^313]: A 194. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^309]: A 194. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
