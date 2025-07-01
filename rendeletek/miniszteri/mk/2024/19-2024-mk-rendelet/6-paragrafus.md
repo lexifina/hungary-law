@@ -1,3 +1,1 @@
-6. §[^3]
-
-[^3]: A 6. § az 5. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+6. § Hatályát veszti a 4. § (1) bekezdés e) pontja és a 4. § (2) bekezdés c) pontja.

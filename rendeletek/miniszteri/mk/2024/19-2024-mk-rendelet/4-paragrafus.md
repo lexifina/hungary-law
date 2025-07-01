@@ -8,7 +8,7 @@ c) a korábbi állandó személyazonosító igazolvány tároló elemének nem m
 
 d) a korábbi állandó személyazonosító igazolvány Nytv. 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásainak nem megfelelő működésekor;
 
-e) a huzamos tartózkodási jogosultsággal rendelkező, valamint a menekültként vagy oltalmazottként elismert személyek személyazonosító igazolványának igénylésekor.
+e)[^3]
 
 (2) Nem kell a személyi azonosítót és lakcímet igazoló hatósági igazolvány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért díjat fizetni
 
@@ -16,7 +16,7 @@ a) a tévesen bejegyzett adatok helyesbítése vagy a hatósági igazolvány gy�
 
 b) a központi címregiszterbe bejegyzett címelemek megváltozása miatti költözéssel nem járó lakcímváltozás esetén, vagy
 
-c) a Magyarország területének a külföldi letelepedés szándékával történő elhagyásának bejelentése esetén.
+c)[^4]
 
 (3) Nem kell az úti okmány belföldön, postai úton könyvelt küldeményként történő kézbesítéséért díjat fizetni
 
@@ -25,3 +25,6 @@ a) kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyz�
 b) a korábbi okmány gyártáshibája esetén,
 
 c) a korábbi okmány tároló elemének nem működése esetén, vagy ha a tároló elem hibásan tartalmazza a törvényben meghatározott, a polgárnak vagy az okmánynak az útiokmány-nyilvántartásbanszereplő adatait.
+
+[^3]: A 4. § (1) bekezdés e) pontját a 6. § hatályon kívül helyezte.
+[^4]: A 4. § (2) bekezdés c) pontját a 6. § hatályon kívül helyezte.
