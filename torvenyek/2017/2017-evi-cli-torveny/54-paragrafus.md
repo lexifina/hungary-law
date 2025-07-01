@@ -7,3 +7,5 @@
 (2) Az idézést – ha az ügy körülményeiből más nem következik – úgy kell közölni, hogy arról az idézett a meghallgatást megelőzően legalább öt nappal értesüljön.
 
 (3) Az idézésben meg kell jelölni, hogy az adóhatóság az idézett személyt milyen ügyben és milyen minőségben kívánja meghallgatni. Az idézett személyt figyelmeztetni kell a megjelenés elmulasztásának következményeire.
+
+(4) Ha a személyes meghallgatásra a 34/A. alcímben foglaltak szerint elektronikus hírközlő hálózat útján kerül sor, az idézés tartalmazza az e tényre történő utalást.

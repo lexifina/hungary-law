@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-151-00-00
 | 2025-02-01 | 2024. évi LXXIV. törvény | 2017-151-00-00.28 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2017-151-00-00.27 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2017-151-00-00.29 |
+| 2025-07-01 | 2025. évi LIV. törvény | 2017-151-00-00.26 |
