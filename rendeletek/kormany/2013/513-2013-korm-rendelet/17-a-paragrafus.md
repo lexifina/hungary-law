@@ -1,3 +1,3 @@
-17/A. §[^78]
+17/A. §[^80]
 
-[^78]: A 17/A. §-t a 353/2014. (XII. 29.) Korm. rendelet 86. §-a iktatta be, a 311/2019. (XII. 18.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^80]: A 17/A. §-t a 353/2014. (XII. 29.) Korm. rendelet 86. §-a iktatta be, a 311/2019. (XII. 18.) Korm. rendelet 18. §-a hatályon kívül helyezte.

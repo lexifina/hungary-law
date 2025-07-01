@@ -6,7 +6,7 @@
 
 (3) A nevelőszülőnek jelentkező személy alkalmasságának megállapítására irányuló eljárásban a nevelőszülői hálózat tizenöt napon belül személyesen meghallgatja a nevelőszülőnek jelentkező személyt.
 
-(4) A nevelőszülői hálózat a nevelőszülőnek jelentkező személy eredményes meghallgatása esetén a meghallgatástól számított tizenöt napon belül környezettanulmányt végez.
+(4)[^17] A nevelőszülői hálózat a nevelőszülőnek jelentkező személy eredményes meghallgatása esetén a meghallgatástól számított tizenöt napon belül környezettanulmányt végez, amelynek mellékletét képezik az ingatlanról, annak külső homlokzatáról, a lakószobákról, a konyháról, a fürdőszobáról, az illemhelyről, az udvarról és a melléképületekről készült fényképek.
 
 (5) Ha a nevelőszülői hálózat a (4) bekezdés szerinti környezettanulmány alapján a nevelőszülő háztartását, körülményeit megfelelőnek tartja, haladéktalanul kezdeményezi a nevelőszülőnek jelentkező személy Gyvt. 10/E–10/H. §-a szerinti kifogástalan életvitel ellenőrzését.
 
@@ -25,3 +25,4 @@ c) a nevelőszülőnek jelentkező személy a pszichológiai alkalmassági vizsg
 d) a nevelőszülőnek jelentkező személy a feladatellátásra a Gyvt. 54. § (1) bekezdés e) pontja szerint elvégzett egészségi állapot vizsgálat alapján nem alkalmas.
 
 [^16]: Az 5. § a 193/2024. (VII. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: Az 5. § (4) bekezdése a 179/2025. (VI. 30.) Korm. rendelet 36. §-ával megállapított szöveg.

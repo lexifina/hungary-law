@@ -2,16 +2,16 @@
 
 ## 29. § A helyettes szülői jogviszony Gyvt. 66/J. § (9) bekezdése szerinti felmondását megalapozza különösen, ha a helyettes szülő
 
-a)[^106] az intézmény engedélye nélkül másik intézménnyel is megállapodást köt,
+a)[^108] az intézmény engedélye nélkül másik intézménnyel is megállapodást köt,
 
-b)[^107] az együttműködési kötelezettségének nem tesz eleget, így különösen nem tájékoztatja az intézményt a 25. §-ban foglaltakról,
+b)[^109] az együttműködési kötelezettségének nem tesz eleget, így különösen nem tájékoztatja az intézményt a 25. §-ban foglaltakról,
 
-c)[^108] magatartásával ellehetetleníti az intézménnyel történő együttműködést,
+c)[^110] magatartásával ellehetetleníti az intézménnyel történő együttműködést,
 
 d) körülményei, magatartása a szakmai szabályok szerinti feladatellátást tartósan akadályozza vagy ellehetetleníti, vagy
 
 e) előzetes bejelentés nélkül harminc napnál hosszabb időre külföldre távozik anélkül, hogy ott szokásos tartózkodási helyet létesítene.
 
-[^106]: A 29. § a) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. és 26. pontja szerint módosított szöveg.
-[^107]: A 29. § b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 19. pontja szerint módosított szöveg.
-[^108]: A 29. § c) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 25. pontja szerint módosított szöveg.
+[^108]: A 29. § a) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. és 26. pontja szerint módosított szöveg.
+[^109]: A 29. § b) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 19. pontja szerint módosított szöveg.
+[^110]: A 29. § c) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 25. pontja szerint módosított szöveg.
