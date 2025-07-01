@@ -12,9 +12,9 @@ b) a katasztrófavédelmi gazdasági és anyagi szolgáltatási kötelezettség 
 
 (3) A szükségellátás megszervezéséért felelős állami szerv és az 1. § (3) bekezdése szerint kijelölt közérdekű szolgáltató közfoglalkoztatottakkal is elláthatja feladatát. A közérdekű szolgáltató az ellátásban történő közreműködése erejéig minősül közfoglalkoztatónak.
 
-(4) A hulladékkezelő létesítmény üzemeltetője a települési hulladék átvételét nem tagadhatja meg amiatt, hogy annak összegyűjtése és szállítása ideiglenes ellátás vagy szükségellátás keretében történik.
+(4) A hulladékkezelő létesítmény üzemeltetője a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladék átvételét nem tagadhatja meg amiatt, hogy annak összegyűjtése és szállítása ideiglenes ellátás vagy szükségellátás keretében történik.
 
-(5) Az ideiglenes ellátás, valamint a szükségellátás költségeit a központi költségvetés terhére kell biztosítani.
+(5) Az ideiglenes ellátás, valamint a szükségellátás költségeit a központi költségvetés terhére kell biztosítani, amely költségeket a koncessziós szerződés kártalanítással kapcsolatos rendelkezéseivel összhangban a koncessziós társaság utólag megtéríti.
 
 (5a) Az (5) bekezdés nem érinti az ingatlanhasználó hulladékgazdálkodási közszolgáltatásra vonatkozó díjfizetési kötelezettségét.
 
