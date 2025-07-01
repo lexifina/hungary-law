@@ -20,7 +20,15 @@ b) a levelezés, elektronikus levelezés, telefonkapcsolat, ajándékozás, csom
 
 (5) Ha a (2) bekezdésben meghatározott kizáró feltételek nem állnak fenn, a kapcsolattartásra jogosult az átmeneti gondozásban részesülő gyermeket a bentlakásos gyermekintézmény házirendje vagy a helyettes szülői hálózatot működtető szolgáltatóval, intézménnyel történt előzetes egyeztetés szerint, a gondozás helyszínén látogathatja. A látogatás alkalmával biztosítani kell a kapcsolattartás kulturált és zavartalan körülményeit. Átmeneti gondozásban részesülő gyermek esetén a kapcsolattartásról a gyámhatóság kérelemre dönt. A gyámhatóság szükség esetén felügyelt kapcsolattartást rendel el.
 
-(6) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel történő kapcsolattartásról a gyámhatóság hivatalból dönt. A gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.
+(6) A gyámhatóság hivatalból dönt
+
+a) az 51. § (5) és (10) bekezdése alapján krízisközpontban vagy titkos menedékházban ellátott gyermekkel és
+
+b) az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermekkel
+
+történő kapcsolattartásról.
+
+(6a) Az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, továbbá a nevelésbe vett gyermek legfeljebb két napra történő eltávozását és két napnál hosszabb időtartamú szabadságát a gyermekvédelmi gyám engedélyezi, ha arra a gyámhatóság döntésében felhatalmazta. A gyermekvédelmi gyám jelzi a gyámhatóságnak, ha a kapcsolattartás végrehajtása során a kapcsolattartásra jogosult és a gyermek vagy a kapcsolattartásra jogosult és a gyermek gondozási helyét biztosító személy, intézmény között vita keletkezik.
 
 (7) Az örökbefogadhatónak nyilvánítás szempontjából nem tekinthető rendszeres kapcsolattartásnak a levélírás, a telefonhívás, a csomagküldés és a gyámhatóság határozatában szabályozottól jelentősen eltérő félévenkénti egy-két látogatás.
 

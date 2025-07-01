@@ -41,3 +41,19 @@ c) az elhelyezést nyújtó intézmény fenntartója a b) pont alá nem tartozó
 (7) A tantermen kívüli, digitális munkarendben megszervezett nevelés-oktatás, óvoda esetében a nevelési évben munkanapra az Nkt. 30. § (5) bekezdése alapján elrendelt rendkívüli szünet, valamint bölcsőde és mini bölcsőde esetében a nevelési évben munkanapra elrendelt rendkívüli zárvatartás időtartama alatt, kivéve ha az adott időtartamban a 21/C. §-ban foglaltak szerint szünidei gyermekétkeztetést kell biztosítani, az intézményi gyermekétkeztetést a szülő, más törvényes képviselő kérelmére – elvitel vagy kiszállítás formájában – az (1)–(6) bekezdés szerint kell biztosítani.
 
 (8) Ha a gyermek, tanuló a lakóhelyétől, tartózkodási helyétől eltérő településen jár bölcsődébe, mini bölcsődébe, köznevelési vagy szakképző intézménybe, és a szülő, más törvényes képviselő a gyermek számára az intézményi gyermekétkeztetést igényli, akkor azt a (7) bekezdés szerinti időtartam alatt a feladatellátásra kötelezett szerv helyett a gyermek, tanuló lakóhelye, tartózkodási helye szerinti települési önkormányzat biztosíthatja.
+
+(9) Az Nktv. 4. § 32a. pontja szerinti tanulmányi rendszert, vagy a szakképzésről szóló 2019. évi LXXX. törvény 7. § 8a. pontjában meghatározott tanulmányi rendszert (a továbbiakban együtt: tanulmányi rendszer) használó köznevelési vagy szakképző intézmény tekintetében az (1) bekezdés szerinti gyermekétkeztetést biztosító szerv a tanulmányi rendszer üzemeltetőjével együttműködve olyan rendszert üzemeltet, amely a tanulmányi rendszerrel együtt alkalmas arra, hogy
+
+a) a lehetséges étkezés kiválasztására és a későbbi lehetséges módosítások teljeskörű kezelésére, az étkezéssel kapcsolatos tanulói és szülői – a tanulmányi rendszeren keresztüli – kommunikáció biztosítására,
+
+b) az étkezéssel kapcsolatos díjak és támogatások be- és kifizetésére és az ezzel kapcsolatos teljeskörű ügyintézésre és bizonylatolásra,
+
+c) az étkeztetés során a tanuló részére megrendelt étkezési jogosultság megjelenítésére, az étkezés megtörténtének a tanulmányi rendszerbe történő rögzítésére,
+
+d) az étkezés térítési díjához figyelembe vehető adatok és dokumentumok rögzítésére, tárolására, az ezzel kapcsolatos adatszolgáltatás biztosítására, az étkezéssel kapcsolatosan megállapított aktuális terítési díjak és kedvezmények idősoros tárolására, valamint
+
+e) az étkezéssel kapcsolatos egyéb adatszolgáltatásra
+
+szükséges nyilatkozatokat és az az étkezéssel kapcsolatos funkciók elérését a szülő, a tanuló, a köznevelési vagy szakképző intézmény a tanulmányi rendszerén keresztül tehesse meg, illetve érhesse el azokat, továbbá a keletkezett adatok és dokumentumok a tanulmányi rendszerben kerüljenek tárolásra.
+
+(10) A (9) bekezdésben foglalt cél egységes megvalósítása érdekében a köznevelési intézménynek vagy szakképző intézménynek azon fenntartója, amely bölcsődét is fenntart, a tanulmányi rendszert a bölcsőde tekintetében is használhatja. Ebben az esetben a bölcsődét a tanulmányi rendszer használata tekintetében köznevelési intézménynek kell tekinteni.
