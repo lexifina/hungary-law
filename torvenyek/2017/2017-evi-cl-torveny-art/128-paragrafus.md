@@ -14,4 +14,8 @@ e) az adóvégrehajtás során végrehajtási joggal vagy jelzálogjoggal terhel
 
 f) az állami adóhatóság az adópolitikáért felelős miniszter utasítása alapján teljesíti a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre vagy adómentességre való jogosultsággal összefüggő kormányzati tájékoztatást.
 
+g) a gazdasági társaság adótartozására vonatkozó adatok megismerésére a gazdasági társaság tagjának, – a nyilvánosan működő részvénytársaság részvényese kivételével – részvényesének az adótartozás kiegyenlítése céljából van szüksége,
+
+h) az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint létesíthető munkaviszony elektronikus bejelentésére szolgáló alkalmazással történő bejelentésekor a bejelentő képviseleti jogosultságának megállapítását és a bejelentő tájékoztatását szolgálja a bejelentendő munkaviszonynak a munkaviszonyok együttes időtartamára vonatkozó szabályoknak történő megfeleléséről.
+
 (2) Az adózással összefüggő tényt, adatot, iratot a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – ha a hivatalos statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik. Az átadott adatok kezelése a hivatalos statisztikáról szóló törvény rendelkezései szerint történik.

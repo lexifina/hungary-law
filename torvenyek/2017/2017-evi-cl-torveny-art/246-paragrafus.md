@@ -14,7 +14,7 @@ e) az adózó ellenőrzése alapján hitelt érdemlően tudomást szerez arról,
 
 f) azt a támogató az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (3) és (4) bekezdésében meghatározott esetben kezdeményezi,
 
-g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási kötelezettségének a törvényi határidőtől számított száznyolcvan napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget.
+g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási, vagy az általános forgalmi adó bevallási kötelezettségének a törvényi határidőtől számított kilencven napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget,
 
 h) az adózó által bejelentett székhelyszolgáltató nem szerepel a székhelyszolgáltatók nyilvántartásában és az adózó az adóhatóság (2) bekezdés szerinti felhívása ellenére bejelentését nem vonta vissza, és nem gondoskodott másik megfelelő székhely vagy székhelyszolgáltató bejelentéséről sem.
 

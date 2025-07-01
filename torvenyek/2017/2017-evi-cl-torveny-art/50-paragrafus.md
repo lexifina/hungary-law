@@ -22,7 +22,7 @@ c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
 4. a természetes személy adóazonosító jelét, társadalombiztosítási azonosító jelét (a továbbiakban: TAJ szám),
 
-5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
+5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességét,
 
 6. a természetes személy esetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
 
@@ -76,9 +76,15 @@ e) az Szja tv. 29/G. § (3) bekezdése szerint a kedvezmény alapját képező j
 
 11. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont társadalombiztosítási járulék alapját és összegét,
 
-12.
+12. a természetes személy tekintetében az Szja tv. 29/H. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
 
-13. a gyermekgondozási díj (gyed), gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
+a) a csecsemőgondozási díj (csed) folyósításának időtartamát, az ellátás összegét és az abból érvényesített kedvezmény összegét,
+
+b) a gyermekgondozási díj (gyed) folyósításának időtartamát, az ellátás összegét, az abból érvényesített kedvezmény összegét és a levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
+
+c) az örökbefogadói díj folyósításának időtartamát, az ellátás összegét, az abból érvényesített kedvezmény összegét,
+
+13. a gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
 
 14. a biztosítás szünetelését, vagy munkabérrel ellátatlanság idejét, ennek jogcímkódját,
 

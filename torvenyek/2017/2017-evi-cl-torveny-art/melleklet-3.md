@@ -205,29 +205,3 @@
 ## fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 ## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó a kérelem benyújtását megelőző két éven belül
-
-## 2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
-
-## 2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
-
-## 2.2.3. szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
-
-## 2.2.4. huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt vagy folyik ellene.
-
-## 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
-
-## 2.4. Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
-
-## 3. A társasági adó
-
-## 3.1. A társasági adó előlege
-
-## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
-
-## 3.1.2.
-
-## 3.2. A társasági adó
-
-## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
-## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
