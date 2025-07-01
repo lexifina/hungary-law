@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-127-20-
 | --- | --- | --- |
 | 2025-06-06 | 2025-127-20-22.1 | 127/2025. (VI. 5.) Korm. rendelet |
 | 2025-06-07 | 2025-127-20-22.2 | 2010. évi CXXX. törvény |
+| 2025-07-01 | 2025-127-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
