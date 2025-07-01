@@ -1,3 +1,5 @@
-## 24.
+## 24. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
 
-### 88. §
+88. § A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) 2. § (2) bekezdése a következő g) ponttal egészül ki:
+
+(E törvény alkalmazásában:)
