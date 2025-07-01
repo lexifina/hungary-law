@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-544-20-
 | 2023-07-15 | 2022-544-20-22.2 | 313/2023. (VII. 14.) Korm. rendelet |
 | 2024-01-01 | 2022-544-20-22.3 | 543/2023. (XII. 12.) Korm. rendelet |
 | 2025-02-19 | 2022-544-20-22.4 | 543/2023. (XII. 12.) Korm. rendelet |
+| 2025-07-01 | 2022-544-20-22.5 | 543/2023. (XII. 12.) Korm. rendelet |
