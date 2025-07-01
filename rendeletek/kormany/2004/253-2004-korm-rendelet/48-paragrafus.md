@@ -20,7 +20,7 @@ behozni, kivinni, illetve az ország területén átszállítani.
 
 (8)[^259] A Nemzeti Adó- és Vámhivatal területileg illetékes vámszerve (4) bekezdésben említett igazolásának formáját és tartalmát a 13. számú melléklet határozza meg. E nyomtatványt kell alkalmazni a lőszerre is.
 
-(9)[^260] A Magyarország területére behozott színházi tűzfegyvert az engedélyes köteles bemutatni a kereskedelemért felelős miniszter rendeletében a fegyverek és lőszerek vizsgálatára kijelölt szervezetnek. A 22. számú mellékletben meghatározott műszaki követelményeknek nem megfelelő fegyvert a behozataltól, illetve a megfelelőtlenség megállapításától számított 8 napon belül javításra át kell adni a színházi lőfegyver javítására engedéllyel rendelkező szervezetnek, vagy haladéktalanul gondoskodni kell az ország területéről történő kiviteléről.
+(9)[^260] A Magyarország területére behozott színházi tűzfegyvert az engedélyes köteles bemutatni a fegyverek és lőszerek vizsgálatára kijelölt szervezetnek. A 22. számú mellékletben meghatározott műszaki követelményeknek nem megfelelő fegyvert a behozataltól, illetve a megfelelőtlenség megállapításától számított 8 napon belül javításra át kell adni a színházi lőfegyver javítására engedéllyel rendelkező szervezetnek, vagy haladéktalanul gondoskodni kell az ország területéről történő kiviteléről.
 
 [^253]: A 48. § (1) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 45. pontja szerint módosított szöveg.
 [^254]: A 48. § (2) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 15. §-ával megállapított szöveg.
@@ -29,4 +29,4 @@ behozni, kivinni, illetve az ország területén átszállítani.
 [^257]: A 48. § (6) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 67/2010. (III. 18.) Korm. rendelet 10. § (2) bekezdése, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 48. pontja szerint módosított szöveg.
 [^258]: A 48. § (7) bekezdése a 295/2024. (X. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^259]: A 48. § (8) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 21. pontja, a 486/2015. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^260]: A 48. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 23. § (2) bekezdése iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 49. pontja szerint módosított szöveg.
+[^260]: A 48. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 23. § (2) bekezdése iktatta be, szövege a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 49. pontja, a 175/2025. (VI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
