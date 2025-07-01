@@ -1,3 +1,3 @@
-3. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^121]
+3. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^122]
 
-[^121]: A 3. mellékletet a 336/2023. (VII. 24.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^122]: A 3. mellékletet a 336/2023. (VII. 24.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

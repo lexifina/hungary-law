@@ -2,18 +2,18 @@
 
 24. § (1) Amennyiben a szerződött díjfizető az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíjtörvény) 6. § (2) bekezdés a) pontja szerint viszonylati jegy váltásával kíván úthasználati jogosultságot szerezni, bevallási kötelezettségének teljesítéséhez köteles az UD rendszer kezelőfelületén előre megtervezni az útvonalát, és a teljes útvonalra vonatkozóan az azonosításhoz és az útdíjszámításhoz szükséges adatokat megadni.
 
-(2)[^69] Az (1) bekezdés szerinti bevallás alapján az útdíjfizetési kötelezettségét a szerződött díjfizető közvetlen befizetéssel teljesítheti.
+(2)[^70] Az (1) bekezdés szerinti bevallás alapján az útdíjfizetési kötelezettségét a szerződött díjfizető közvetlen befizetéssel teljesítheti.
 
-(3)[^70] A viszonylati jegy egy útra, megszakítás nélkül, a megváltáskor megadott járműparaméterek vonatkozásában keletkeztet úthasználati jogosultságot. A viszonylati jegy nem ruházható át, a benne foglalt megváltáskor megadott útvonal és járműparaméterek nem változtathatóak meg.
+(3)[^71] A viszonylati jegy egy útra, megszakítás nélkül, a megváltáskor megadott járműparaméterek vonatkozásában keletkeztet úthasználati jogosultságot. A viszonylati jegy nem ruházható át, a benne foglalt megváltáskor megadott útvonal és járműparaméterek nem változtathatóak meg.
 
-(4)[^71] A viszonylati jegy a megváltásának időpontjától 120 percig érvényes.
+(4)[^72] A viszonylati jegy a megváltásának időpontjától 120 percig érvényes.
 
-(5)[^72] A viszonylati jegy nem váltható vissza.
+(5)[^73] A viszonylati jegy nem váltható vissza.
 
-(6)[^73] Az UD rendszerben nyilvántartásba vett viszonylati jegyek elektronikus nyilvántartása minősül hitelesnek. Az egyetemes útdíjszolgáltató, az elektronikus viszonylati jegy megváltásáról a szerződött díjfizető kérésére papíralapú igazolást állít ki.
+(6)[^74] Az UD rendszerben nyilvántartásba vett viszonylati jegyek elektronikus nyilvántartása minősül hitelesnek. Az egyetemes útdíjszolgáltató, az elektronikus viszonylati jegy megváltásáról a szerződött díjfizető kérésére papíralapú igazolást állít ki.
 
-[^69]: A 24. § (2) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^70]: A 24. § (3) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^71]: A 24. § (4) bekezdése a 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^72]: A 24. § (5) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^73]: A 24. § (6) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^70]: A 24. § (2) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^71]: A 24. § (3) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^72]: A 24. § (4) bekezdése a 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^73]: A 24. § (5) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^74]: A 24. § (6) bekezdése a 490/2023. (XI. 2.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.

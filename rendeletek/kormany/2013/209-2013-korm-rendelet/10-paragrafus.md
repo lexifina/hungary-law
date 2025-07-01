@@ -18,19 +18,19 @@ rendelkezik.
 
 a) amely ellen jogerősen elrendelt csőd-, illetve felszámolási eljárás nincs folyamatban,
 
-b) amelyet szociális, egészségvédelmi, munka-, illetve vámjogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt nem marasztaltak el jogerős határozatban,
+b)[^40] amelyet szociális, egészségvédelmi, munkajogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt nem marasztaltak el jogerős határozatban,
 
 c) amelyet a felügyeleti szerv az útdíjszolgáltatók nyilvántartásából nem törölt,
 
-d)[^40] továbbá amelynek a Polgári Törvénykönyv szerinti vezető tisztségviselőjénél, egyéni cég ügyvezetését ellátó személynél, vagy az egyéni vállalkozónál (a továbbiakban: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
+d)[^41] továbbá amelynek a Polgári Törvénykönyv szerinti vezető tisztségviselőjénél, egyéni cég ügyvezetését ellátó személynél, vagy az egyéni vállalkozónál (a továbbiakban: vezető) személyes megbízhatóságot kizáró ok nem áll fenn.
 
 (4) A vezető személyes megbízhatóságát kizárja, ha
 
-a)[^41] az egyéni vállalkozói tevékenység gyakorlásától eltiltották, amennyiben egyéni vállalkozóként végzi tevékenységét;
+a)[^42] az egyéni vállalkozói tevékenység gyakorlásától eltiltották, amennyiben egyéni vállalkozóként végzi tevékenységét;
 
-b)[^42] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
+b)[^43] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
 
-c) a korábban vezetése alatt álló gazdálkodó szervezetet vezetői megbízatása alatt szociális, egészségvédelmi, munka-, illetve vámjogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt jogerősen elmarasztalták;
+c)[^44] a korábban vezetése alatt álló gazdálkodó szervezetet vezetői megbízatása alatt szociális, egészségvédelmi, munkajogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt jogerősen elmarasztalták;
 
 d) vezető volt olyan útdíjszolgáltatói tevékenységet végző szervezetnél, amelyet a felügyeleti szerv a nyilvántartásból jogerősen törölt.
 
@@ -42,6 +42,8 @@ d) vezető volt olyan útdíjszolgáltatói tevékenységet végző szervezetné
 
 [^38]: A 10. § (1a) bekezdését a 361/2014. (XII. 30.) Korm. rendelet 6. §-a iktatta be, a 67/2022. (II. 28.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^39]: A 10. § (2) bekezdése a 409/2023. (VIII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^40]: A 10. § (3) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
-[^41]: A 10. § (4) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 118. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^42]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^40]: A 10. § (3) bekezdés b) pontja a 181/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^41]: A 10. § (3) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^42]: A 10. § (4) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 118. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^43]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^44]: A 10. § (4) bekezdés c) pontja a 181/2025. (VI. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
