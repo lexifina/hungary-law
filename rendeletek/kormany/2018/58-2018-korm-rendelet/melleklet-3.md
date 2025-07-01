@@ -1,4 +1,4 @@
-3. melléklet az 58/2018. (III. 26.) Korm. rendelethez[^33]
+3. melléklet az 58/2018. (III. 26.) Korm. rendelethez[^36]
 
 A Beruházások megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -108,4 +108,4 @@ A Beruházások megvalósításához kapcsolódó, építési joggal érintett i
 
 | 52. | 51. | 249882.541 | 837940.255 |
 
-[^33]: A 3. mellékletet a 306/2024. (X. 24.) Korm. rendelet 4. §-a iktatta be.
+[^36]: A 3. mellékletet a 306/2024. (X. 24.) Korm. rendelet 4. §-a iktatta be.

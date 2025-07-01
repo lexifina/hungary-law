@@ -1,4 +1,4 @@
-1. melléklet az 58/2018. (III. 26.) Korm. rendelethez[^31]
+1. melléklet az 58/2018. (III. 26.) Korm. rendelethez[^34]
 
 I. A Beruházásokkal érintett, Debrecen megyei jogú város közigazgatási területén elhelyezkedő ingatlanok helyrajzi számai:
 
@@ -6,4 +6,4 @@ I. A Beruházásokkal érintett, Debrecen megyei jogú város közigazgatási te
 
 II. A Beruházásokkal érintett, Balmazújváros város közigazgatási területén elhelyezkedő ingatlanok helyrajzi számai:
 
-[^31]: Az 1. melléklet a 225/2019. (IX. 25.) Korm. rendelet 3. §-ával megállapított, a 342/2023. (VII. 25.) Korm. rendelet 3. §-a, a 17/2024. (II. 8.) Korm. rendelet 3. § a)–c) pontja, a 306/2024. (X. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^34]: Az 1. melléklet a 225/2019. (IX. 25.) Korm. rendelet 3. §-ával megállapított, a 342/2023. (VII. 25.) Korm. rendelet 3. §-a, a 17/2024. (II. 8.) Korm. rendelet 3. § a)–c) pontja, a 306/2024. (X. 24.) Korm. rendelet 5. §-a szerint módosított szöveg.

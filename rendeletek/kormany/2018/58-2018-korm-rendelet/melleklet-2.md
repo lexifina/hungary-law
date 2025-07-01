@@ -46,7 +46,7 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 21. erdővédelmi és erdészeti hatósági eljárások,
 
-22.[^32] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+22.[^35] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. földvédelmi hatósági eljárások,
 
@@ -54,4 +54,4 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 25. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^32]: A 2. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 289. §-a szerint módosított szöveg.
+[^35]: A 2. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 289. §-a szerint módosított szöveg.
