@@ -36,6 +36,12 @@ ha) szarvasmarha tartása esetén az állomány létszáma átlagban eléri az �
 
 hb) hízósertés tartása esetén a férőhelyek száma meghaladja a 10 000 darabot,
 
-hc) baromfi tartása esetén a kiszállított állatok száma átlagban meghaladja broiler csirke esetében az évi 3 000 000 darabot, pulyka esetében az 500 000 darabot, házi lúd esetében a 300 000 darabot, illetve kacsa esetében a 2 000 000 darabot, vagy
+hc)[^3] baromfi tartása esetén a kiszállított állatok száma átlagban meghaladja broiler csirke esetében az évi 3 000 000 darabot, pulyka esetében az 500 000 darabot, házi lúd esetében a 300 000 darabot, illetve kacsa esetében a 2 000 000 darabot,
 
-i) az a főzőkonyha, amely napi 10 000 adag fölötti kapacitással rendelkezik.
+i)[^4] az a főzőkonyha, amely napi 10 000 adag fölötti kapacitással rendelkezik, vagy
+
+j)[^5] az olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges.
+
+[^3]: A 37. § (2) bekezdés h) pont hc) alpontja a 175/2025. (VI. 30.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^4]: A 37. § (2) bekezdés i) pontja a 175/2025. (VI. 30.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^5]: A 37. § (2) bekezdés j) pontját a 175/2025. (VI. 30.) Korm. rendelet 32. §-a iktatta be.

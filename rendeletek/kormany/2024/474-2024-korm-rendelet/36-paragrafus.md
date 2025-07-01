@@ -14,14 +14,18 @@ b) nemzeti kockázatelemzést.
 
 (5) A Munkacsoport elnökét – akadályoztatása esetén – a katasztrófák elleni védekezésért felelős miniszter által kijelölt személy helyettesíti.
 
-(6) A Munkacsoport meghívott tagjai
+(6)[^2] A Munkacsoport meghívott tagjai
 
 a) a kritikus szervezet ellenálló képességéért felelős vezetők,
 
 b) a védelmi és biztonsági igazgatás központi szervének vezetője vagy a vezető által kijelölt képviselője,
 
-c) a Nemzeti Közszolgálati Egyetem képviselője,
+c) a polgári nemzetbiztonsági szolgálatok vezetői vagy a vezetők által kijelölt személyek,
 
-d) a Munkacsoport elnöke által eseti jelleggel meghívott további szakértők.
+d) a Nemzeti Közszolgálati Egyetem képviselője,
+
+e) a Munkacsoport elnöke által eseti jelleggel meghívott, a Munkacsoport feladatának ellátásához szükséges szakmai ismeretekkel rendelkező további szakértők.
 
 (7) A Munkacsoport működtetésével kapcsolatos adminisztratív teendőket az általános kijelölő hatóság látja el.
+
+[^2]: A 36. § (6) bekezdése a 175/2025. (VI. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
