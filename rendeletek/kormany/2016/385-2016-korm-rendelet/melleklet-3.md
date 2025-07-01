@@ -1,4 +1,4 @@
-3. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^76]
+3. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^78]
 
 A népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal hatósági engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
@@ -20,4 +20,4 @@ A népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormá
 
 | 8 | Szűrő-forgató rendszer üzemeltetése alóli felmentés. | Annak vizsgálata, hogy a kérelemben rögzített nyitvatartási és geometriai adatok mellett bizonyítottan rendelkezésre áll-e (a hatályos vízjogi engedélyben szereplő engedélyezett vagy a gyógyvíz átadás-átvételre irányuló szerződésben rögzített vízkivétel figyelembevételével) a minimálisan biztosítandó 30%-os felületi terheléshez szükséges vízmennyiség mind napi, mind éves vonatkozásban. | Minden esetben. |
 
-[^76]: A 3. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^78]: A 3. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 21. §-a iktatta be.

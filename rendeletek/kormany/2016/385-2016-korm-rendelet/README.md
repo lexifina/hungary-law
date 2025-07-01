@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-385-20-
 | 2024-10-01 | 2016-385-20-22.29 | 507/2017. (XII. 29.) Korm. rendelet |
 | 2025-02-01 | 2016-385-20-22.30 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2025-03-01 | 2016-385-20-22.31 | 507/2017. (XII. 29.) Korm. rendelet |
+| 2025-07-01 | 2016-385-20-22.32 | 179/2025. (VI. 30.) Korm. rendelet |
