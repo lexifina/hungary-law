@@ -1,1 +1,3 @@
-### 138. §
+138. § Az Eredetvédelmi tv. 18/A. alcíme a következő 33/B. §-sal egészül ki:
+
+„33/B. § Az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvénnyel (a továbbiakban: 2024. évi LXXX. törvény) megállapított 26/A. § rendelkezéseinek meg nem felelő, 2025. július 1-jét megelőzően forgalomba hozott agrártermékek 2025. július 1-jét követően is forgalomban tarthatóak.”

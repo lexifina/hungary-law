@@ -1,1 +1,3 @@
-### 139. §
+139. § Az Eredetvédelmi tv. 19. alcíme a következő 34/A. §-sal egészül ki:
+
+„34/A. § A 2024. évi LXXX. törvénnyel megállapított 26/A. §, 32. § (3) bekezdése és 33/B. § tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
