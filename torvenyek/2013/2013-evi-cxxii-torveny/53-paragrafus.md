@@ -22,6 +22,8 @@ f) az erdőnek minősülő föld haszonbérbe adása esetén a szerződés nem f
 
 g) a haszonbérleti szerződés szerinti ellenszolgáltatás (a továbbiakban: haszonbér) vagy a haszonbérleti szerződésben szereplő egyéb ellenszolgáltatásra irányuló rendelkezés értéke aránytalan.
 
+(1a) Nincs helye a haszonbérleti szerződés jóváhagyása megtagadásának az (1) bekezdés g) pontja alapján akkor, ha a haszonbér mértékét az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény 11/A. § (4) bekezdése alapján igazságügyi szakértői vélemény vagy bíróság állapítja meg.
+
 (2) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv megtagadhatja a haszonbérleti szerződés jóváhagyását, különösen, ha
 
 a)

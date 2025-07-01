@@ -18,6 +18,8 @@ e) tanya haszonbérletére irányuló
 
 f) családi mezőgazdasági társaság mint földhasználó és annak tagja mint használatba adó közötti,
 
+g) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény 11/A. § (3) bekezdése alapján létrejött
+
 haszonbérlet esetén.
 
 (2) Nem gyakorolhatja az előhaszonbérleti jogát az a mezőgazdasági termelőszervezet, amely csődeljárás, felszámolási eljárás vagy végelszámolási eljárás alatt áll.
