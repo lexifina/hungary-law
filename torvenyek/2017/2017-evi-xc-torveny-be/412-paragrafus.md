@@ -19,3 +19,5 @@ ca) a bűncselekmény következményeinek jóvátétele várható és
 cb) a büntetőeljárás lefolytatása mellőzhető, vagy a közvetítői eljárás a büntetés kiszabásának elveivel nem ellentétes.
 
 (3) Az eljárás közvetítői eljárás céljából történő felfüggesztésnek nem akadálya, ha a gyanúsított a bűncselekménnyel okozott kárt, vagyoni hátrányt, vagy a bűncselekmény elkövetési értékét részben vagy egészben már önként megtérítette, illetve a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette.
+
+(4) Az ügyészség a (2) bekezdésben meghatározott feltételek fennállása esetén a büntetőeljárás felfüggesztése nélkül is elrendelheti a közvetítői eljárás lefolytatását. Ez a rendelkezés nem alkalmazható, ha a bűncselekménnyel okozott sérelem közvetítői eljárás keretében történő jóvátétele esetén a Btk. 29. § (1) vagy (1a) bekezdése alkalmazásának lenne helye.

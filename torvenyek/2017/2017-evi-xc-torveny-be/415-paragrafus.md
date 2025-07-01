@@ -1,6 +1,6 @@
 ## Eljárás a közvetítői eljárásban létrejött megállapodást követően
 
-415. § (1) Ha a közvetítői eljárás során a sértett és a gyanúsított között a közvetítői eljárásról szóló törvény szerinti megállapodás létrejött, a közvetítő a megállapodást megküldi az ügyészségnek.
+415. § (1) Ha az ügyészség az eljárást felfüggesztette és a közvetítői eljárás során a sértett és a gyanúsított között a közvetítői eljárásról szóló törvény szerinti megállapodás létrejött, a közvetítő a megállapodást megküldi az ügyészségnek.
 
 (2) Az ügyészség a megállapodást hatályon kívül helyezi, ha a megállapodás a közvetítői eljárásról szóló törvénybe ütközik. Az ügyészség a határozatot közli mindazokkal, akik a hatályon kívül helyezett megállapodást kötötték, valamint a közvetítővel.
 
@@ -11,3 +11,5 @@
 (5) Ha az ügyészség a felfüggesztés 414. § (1) bekezdésében meghatározott tartamának elteltét követően megállapítja, hogy a (4) bekezdésben meghatározott feltételek fennállnak, a közvetítői eljárásban kötött megállapodás teljesítése céljából az eljárást egy alkalommal, legfeljebb a felfüggesztés kezdő időpontjától számított két évig ismét felfüggesztheti.
 
 (6) Ha az eljárás felfüggesztésének tartama alatt a közvetítői eljárás befejeződött, és az eljárás megszüntetésének vagy más okból történő felfüggesztésének nincs helye, az ügyészség elrendeli az eljárás folytatását.
+
+(7) Ha a közvetítői eljárásban a megállapodás megkötésének elmaradása a gyanúsítottnak nem róható fel, az ügyészség feltételes ügyészi felfüggesztés alkalmazását rendelheti el.
