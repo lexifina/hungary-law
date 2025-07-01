@@ -1,0 +1,3 @@
+58/O. § (1) E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel (a továbbiakban: Módtv10.) megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv10. hatálybalépését megelőzően létrejött és folyamatban lévő jogviszonyokra, elszámolásokra is alkalmazni kell.
+
+(2) E törvénynek a Módtv10.-zel megállapított 1. § (4) bekezdését, 57/A. § (2) és (2a) bekezdését a Módtv10. hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Módtv10. hatálybalépésekor folyamatban lévő eljárásokban, valamint a Módtv10. hatálybalépését megelőzően keletkezett adatok tekintetében is alkalmazni kell.

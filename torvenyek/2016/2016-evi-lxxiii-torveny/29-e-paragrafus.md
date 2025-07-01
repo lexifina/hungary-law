@@ -1,0 +1,3 @@
+29/E. § (1) A fogadó államban munkaszüneti napnak minősülő ünnepnap (e § alkalmazásában a továbbiakban: ünnepnap) a külképviseletre tartós külszolgálatra kihelyezett, valamint a külképviselet által foglalkoztatott házastárs számára a külképviselet-vezető – mérlegelési jogkörben meghozott – előzetes, írásbeli döntése esetén szabadnapnak minősülhet, azzal a feltétellel, hogy a külképviselet-vezetőnek biztosítania kell a külképviselet folyamatos és zavartalan működését.
+
+(2) Ünnepnapra nem adható ki az (1) bekezdés szerinti szabadnap annak a kihelyezettnek, valamint a külképviselet által foglalkoztatott házastársnak, aki az ünnepnap időtartama alatt bármilyen más jogcímen távolléten van és azt nem a fogadó államban tölti.

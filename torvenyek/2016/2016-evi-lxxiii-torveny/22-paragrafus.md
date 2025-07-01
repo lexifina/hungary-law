@@ -44,7 +44,7 @@ b) a hazautazással kapcsolatos kötelezettségeket.
 
 (7) Nem szükséges a kihelyezett beleegyezése a kinevezési, illetve a kihelyező okirat módosításához, ha a kihelyezett
 
-a) munkakörének megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja,
+a) munkakörének megváltoztatását a kihelyezett által benyújtott pályázat alapján meghozott vagy kijelölési döntés indokolja,
 
 b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
 
@@ -52,7 +52,7 @@ c) rangemelésben részesül,
 
 d) személyi, álláshely nyilvántartási vagy díjazási adatai módosulnak,
 
-e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkaköre kiegészítésre kerül további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
+e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre, vagy tartós külszolgálati munkakörei, illetve kiegészítő feladatkörei kiegészítésre vagy szűkítésre kerülnek további külszolgálati munkakörrel, illetve kiegészítő feladatkörrel.
 
 f) kihelyező okiratában foglaltaknak jogszabályváltozás folytán vált szükségessé a módosítása,
 

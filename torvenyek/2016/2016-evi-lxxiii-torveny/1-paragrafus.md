@@ -31,3 +31,5 @@ terjed ki.
 (2) E törvényt a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre akkor kell alkalmazni, ha jogszabály másként nem rendelkezik.
 
 (3) Az e törvényben nem szabályozott kérdésekben a kormányzati igazgatásról szóló törvény rendelkezéseit kell alkalmazni.
+
+(4) E törvény V. Fejezetét kell alkalmazni valamennyi, az 57/A. § (1) bekezdése szerinti közérdekű vagy közérdekből nyilvános adat megismerhetőségével kapcsolatban akkor is, ha azok kezelését az (1)–(3) bekezdésben meghatározott személyeken kívül eső adatkezelők végzik.

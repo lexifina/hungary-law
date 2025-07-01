@@ -24,13 +24,15 @@ pótszabadságra jogosult.
 
 (6) A kihelyezettet évente összesen az alábbi szabadnapok illetik meg:
 
-a) Európán belüli állomáshely esetében két, Európán kívüli állomáshely esetében négy, Ausztrália és Óceánia esetében hat utazási nap, valamint
+a) Magyarországra történő haza- és az állomáshelyre történő visszautazásra Európán belüli állomáshely esetében egy-egy, Európán kívüli állomáshely esetében két-két, Ausztrália és Óceánia esetében három-három utazási nap,
 
-b) – külszolgálatra történő kihelyezés, illetve a tartós külszolgálat 20. § (1) bekezdés a) pont szerinti megszűnése éve kivételével – állomáshelytől függetlenül két orvosi nap,
+b) – külszolgálatra történő kihelyezés, illetve a tartós külszolgálat 20. § (1) bekezdés a) pontja szerinti megszűnése éve kivételével – állomáshelytől függetlenül két orvosi nap,
 
 c) a külszolgálatra történő kihelyezés évében a b) pont szerinti mértékű orvosi napok, ha a kihelyezett, a kihelyezést megelőző utolsó tárgynegyedév és a kihelyezést követő év március 31. napjáig az e törvényben foglaltak szerinti alkalmassági vizsgálaton részt vett.
 
-(6a) A tartós külszolgálat 20. § (1) bekezdés a) pont szerinti megszűnése évében a kihelyezettet orvosi nap nem illeti meg.
+(6a) A tartós külszolgálat 20. § (1) bekezdés a) pontja szerinti megszűnésének naptári évében abban az esetben vehető igénybe az orvosi nap, ha a tartós külszolgálatra való alkalmasságra vonatkozó orvosi vélemény vagy kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat érvényességi ideje a tartós külszolgálat megszűnésének napját megelőző 90. napnál korábban jár le.
+
+(6b) A tartós külszolgálatra történő kihelyezésnek, illetve a tartós külszolgálat 20. § (1) bekezdés a) pontja szerinti megszűnésének a naptári évében a kihelyezett akkor jogosult a (6) bekezdés a) pontja szerinti utazási napra, ha az állomáshelyen az adott naptári évben 9 hónapot meghaladóan külszolgálati kihelyezése az állomáshelyen fennáll.
 
 (7) A kihelyezettet az állomáshelyre történő első kiutazáskor és a végleges hazautazáskor – ideértve a másik állomáshelyre történő áthelyezést is – Európán belüli állomáshely esetében egy-egy, Európán kívüli állomáshely esetében kettő-kettő, Ausztrália és Óceánia esetében három-három utazási nap illeti meg. A külszolgálat megkezdésének és megszűnésének naptári évében, amennyiben abban az évben a külszolgálat időtartama nem éri el a kilenc hónapot, a kiutazáshoz, illetve a végleges hazautazáshoz biztosított utazási napokon túl a kihelyezett további utazási napokra nem jogosult.
 

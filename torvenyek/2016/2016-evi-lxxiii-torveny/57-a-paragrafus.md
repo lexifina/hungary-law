@@ -22,16 +22,16 @@ c) a tartós külszolgálatra kihelyező szervvel munkavégzésre irányuló jog
 
 d) a külképviseleteken, a külföldi diplomáciai célú vagy a külképviseletek közreműködésével külföldön megvalósuló vagy humanitárius célokat szolgáló állami beruházásokkal összefüggő adatok, valamint
 
-e) a védett személyek külföldi mozgásával összefüggő adatok
+e) a védett személyek külföldi mozgásával, tartózkodásával összefüggő adatok
 
 megismerése Magyarország külpolitikai, külgazdasági érdekeinek illetéktelen külső befolyástól mentes érvényesítését vagy nemzetbiztonsági érdekeit veszélyezteti, azok megismerése iránti igény teljesítését az e bekezdésben foglalt feltételeknek megfelelő adat tekintetében, annak keletkezésétől számított öt évig meg kell tagadni, valamint annak közzétételét mellőzni kell.
 
-(2) Az (1) bekezdésben foglalt adatok megismerése iránti igény teljesíthetőségéről
+(2) Az (1) bekezdésben foglalt adatok megismerése iránti igény teljesíthetőségéről – a (2a) bekezdésben foglaltak sérelme nélkül –
 
-a) az (1) bekezdés a) és b) pontjában meghatározott adatok tekintetében – Magyarország külpolitikai, külgazdasági érdekeit mérlegelve – a külgazdasági ügyekért felelős miniszter,
+a) az (1) bekezdés a)–d) pontjában meghatározott adatok tekintetében – Magyarország külpolitikai, külgazdasági és biztonságpolitikai érdekeit mérlegelve – a külpolitikáért felelős miniszter dönt,
 
-b) az (1) bekezdés c), d) és e) pontjában meghatározott adatok tekintetében – Magyarország nemzetbiztonsági érdekeit mérlegelve – a külgazdasági ügyekért felelős miniszter a polgári hírszerzési tevékenység irányításáért felelős miniszter véleményének kikérését követően
+b) az (1) bekezdés e) pontjában meghatározott adatok tekintetében – Magyarország nemzetbiztonsági, külpolitikai és biztonságpolitikai érdekeit mérlegelve – a külpolitikáért felelős miniszter dönt azzal, hogy a nemzetbiztonsági érdek vélelmezett felmerülése esetében a döntés előtt a polgári hírszerzési tevékenység irányításáért felelős miniszter véleményét kikéri.
 
-dönt.
+(2a) Ha az (1) bekezdés b)–e) pontjában meghatározott adatokra vonatkozó közérdekűadat-igényléssel kapcsolatban eljáró adatkezelő nem a Kormány irányítása alá tartozó személy vagy szerv, akkor az adatigényléssel kapcsolatban eljáró adatkezelő az adatok megismerése iránti igény teljesíthetőségéről szóló döntését Magyarország külpolitikai, külgazdasági, biztonságpolitikai és nemzetbiztonsági érdekeit önállóan mérlegelve hozza meg.
 
 (3) A (2) bekezdésben meghatározott véleményt legkésőbb tizenöt napon belül kell megadni. A vélemény megkérésétől annak megadásáig vagy a véleményadási határidő eredménytelen elteltéig terjedő időtartam az adat megismerése iránti igény teljesítésére rendelkezésre álló határidőbe nem számít bele.
