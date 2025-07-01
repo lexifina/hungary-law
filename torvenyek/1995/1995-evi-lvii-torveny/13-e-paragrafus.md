@@ -2,7 +2,7 @@
 
 (2) A közalkalmazott garantált illetménye összegének legalább a Kormány által rendeletben megállapított minimálbér és garantált bérminimum összegét el kell érnie.
 
-(3) A közalkalmazott illetményét úgy kell megállapítani, hogy annak összege elérje a besorolása szerinti illetménytábla szerinti alsó határt, de ne haladja meg annak felső határát. A közalkalmazott a besorolása szerinti alsó határ szerinti illetményre alanyi jogon jogosult. A vízügyi ágazatban foglalkoztatott közalkalmazottak besorolását és az ahhoz tartozó illetmény alsó és felső határait a Kormány rendeletben állapítja meg.
+(3) A közalkalmazott illetményét úgy kell megállapítani, hogy annak összege elérje a besorolása szerinti illetménytábla szerinti alsó határt, de ne haladja meg annak felső határát. A közalkalmazott a besorolása szerinti alsó határ szerinti illetményre alanyi jogon jogosult. A vízügyi ágazatban foglalkoztatott közalkalmazottak besorolását és az ahhoz tartozó illetmény alsó és felső határait a vízügyi igazgatási szervek irányításáért felelős miniszter rendeletben állapítja meg.
 
 (4) A közalkalmazott illetményét a munkáltatói jogkör gyakorlója minden év január 31-éig felülvizsgálja.
 

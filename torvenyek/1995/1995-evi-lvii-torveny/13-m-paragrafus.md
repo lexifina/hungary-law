@@ -1,6 +1,6 @@
 ## A vezetők
 
-13/M. § (1) A közalkalmazott kormányrendeletben meghatározott vezetői munkakör betöltésére nevezhető ki. Vezető kizárólag felsőfokú iskolai végzettséggel rendelkező közalkalmazott lehet. A közalkalmazott a gyakornoki időtartam alatt vezetői munkakörbe nem nevezhető ki.
+13/M. § (1) A közalkalmazott miniszteri rendeletben meghatározott vezetői munkakör betöltésére nevezhető ki. Vezető kizárólag felsőfokú iskolai végzettséggel rendelkező közalkalmazott lehet. A közalkalmazott a gyakornoki időtartam alatt vezetői munkakörbe nem nevezhető ki.
 
 (2) A vezetői munkakörbe történő kinevezés határozatlan időre szól.
 
@@ -10,7 +10,7 @@
 
 a) alacsonyabb vezetői munkakört tölt be, illetményét az új vezetői munkaköre szerint,
 
-b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a kormányrendeletben meghatározott illetménytábla alkalmazásával
+b) nem vezetői munkakört tölt be, illetményét új munkaköre szerint, a miniszteri rendeletben meghatározott illetménytábla alkalmazásával
 
 kell megállapítani.
 
@@ -24,4 +24,4 @@ b) vezetői munkakörből nem vezetői munkakörbe helyezték át.
 
 (7) A közalkalmazottnak a (6) bekezdés szerinti felmentése esetén a kinevezés-módosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb kifizetések összegének meghatározásakor.
 
-(8) A vezetői előmenetelhez kormányrendelet egyéb feltételeket is megállapíthat.
+(8) A vezetői előmenetelhez miniszteri rendelet egyéb feltételeket is megállapíthat.

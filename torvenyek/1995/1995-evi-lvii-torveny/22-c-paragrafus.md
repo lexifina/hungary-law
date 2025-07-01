@@ -1,4 +1,4 @@
-22/C. § (1) A 22/A. § (3) bekezdés a) pontja szerinti közérdek fennállását a vízügyi igazgatási szerv rendszeresen vizsgálja.
+22/C. § (1) A 22/A. § (4) bekezdés a) pontja szerinti közérdek fennállását a vízügyi igazgatási szerv rendszeresen vizsgálja.
 
 (2) Az (1) bekezdés szerinti vizsgálat eredményeképpen a vízügyi igazgatási szerv kezdeményezheti
 

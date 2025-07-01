@@ -60,13 +60,13 @@ b) lakosegyenérték: szerves, biológiailag lebontható terhelés, amelynek öt
 
 24. vízhasználó: az a természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet, aki (amely) vizet szolgáltatás teljesítésére vagy saját céljaira vesz igénybe;
 
-25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
+25. vízimunka: az a tevékenység, amelynek az a rendeltetése, hogy a víz lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrét, partját a vizek kártételeinek elhárítása, a víz hasznosítása, minőségének és mennyiségének megfigyelése vagy védelme, ásványi és földtani kutatások végzése, ásványi nyersanyag kitermelése céljából befolyásolja;
 
-26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
+26. vízilétesítmény: az a mű (víziközmű), műtárgy, berendezés, felszerelés vagy szerkezet, amelynek rendeltetése, hogy a vizek lefolyási, áramlási viszonyait, mennyiségét vagy minőségét, medrének vagy partjának állapotát, a vizek kártételeinek elhárítása, a vizek hasznosítása — ideértve a víziközművekkel végzett közüzemi tevékenységgel nyújtott szolgáltatást —, minőségének és mennyiségének megfigyelése vagy védelme, illetve ásványi és földtani kutatások végzése céljából vagy ásványi nyersanyag kitermelése céljából befolyásolja:
 
 a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja; közcélú vízilétesítménynek minősülnek továbbá az országos közút és a törzshálózati vasút kiépítését, fejlesztését és fenntartását szolgáló vízilétesítmények;
 
-b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
+b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási, vízvédelmi feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
 
 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
 
@@ -84,7 +84,7 @@ b) a szennyvíz összegyűjtése és kezelése, amelyet ezt követően a felszí
 
 32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési tervnek megfelel;
 
-33. ivóvízminőség-javító program (intézkedési terv): az emberi fogyasztásra szolgáló vízre (ivóvízre) vonatkozó – jogszabályban meghatározott – minőségi követelményeket kielégítő cél megvalósítására irányuló feladatok összessége.
+33.
 
 34. vízkárelhárítási célú tározó:
 
@@ -100,7 +100,7 @@ ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatart�
 
 b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
 
-35. mezőgazdasági öntözési célú kút: olyan felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag mezőgazdasági művelés alatt álló terület mezőgazdasági vízszolgáltatását biztosítja;
+35. mezőgazdasági célú kút: olyan, felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag a létesítő, üzemeltető művelése alatt álló földterületek haszonnövény-termesztési célú öntözését, illetve haszonállat-állománya ellátását szolgálja;
 
 36. háztartási vízigény: évi 500 m3-t meg nem haladó mértékű vízhasználat, amelynek célja természetes személyek
 

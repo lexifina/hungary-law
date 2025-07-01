@@ -22,7 +22,13 @@ j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az
 
 k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
 
-l) az öntözési célú vízhasználat esetében vízjogi engedélyenként az évi 400 000 m3-t vagy vízhasználónként az általa öntözött terület után hektáronként az évi 4 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízjogi engedélyenként felszínalatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után,
+l) mezőgazdasági vízszolgáltatás tekintetében:
+
+la) az öntözési célú vízhasználatnál vízjogi engedélyenként az évi 400 000 m3-t vagy vízhasználónként az általa öntözött terület után hektáronként az évi 4000 m3-t meg nem haladó vízmennyiség után,
+
+lb) a halgazdálkodási célú vízhasználatnál vízjogi engedélyenként felszín alatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után,
+
+lc) a rizstermelési célú vízhasználatnál vízjogi engedélyenként felszín alatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után;
 
 m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
 
@@ -46,4 +52,4 @@ n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott víz
 
 (8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
 
-(9) A tartósan vízhiányos időszak várható kezdetét és végét a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.
+(9) A tartósan vízhiányos időszak várható kezdetét és végét, valamint annak területi lehatárolását a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.

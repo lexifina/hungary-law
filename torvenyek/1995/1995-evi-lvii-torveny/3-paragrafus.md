@@ -22,12 +22,12 @@ c) vonatkozásában olyan gazdálkodó szervezet kezelői joga van bejegyezve az
 
 e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 
-(4) A (3) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
+(4)
 
-(5) Az ingatlanügyi hatóság a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (7a) bekezdésében foglalt feltételek fennállása esetén, a vízügyi igazgatási szerv egyoldalú nyilatkozatát tartalmazó kérelme alapján bejegyzi a vízilétesítmények vonatkozásában a vízügyi igazgatási szerv vagyonkezelői jogát az ingatlan-nyilvántartásba, és – amennyiben az a bejegyzéshez szükséges – egyidejűleg törli a (3) bekezdésben megjelölt szerv vagyonkezelői jogát vagy kezelői jogát az ingatlan-nyilvántartásból.
+(5)
 
-(5a) A (3) bekezdés c) pontja szerinti esetben a vízügyi igazgatási szerv a kérelméhez csatolja a tulajdonosi joggyakorló közokiratba vagy teljes bizonyító erejű magánokiratba foglalt arra vonatkozó nyilatkozatát, hogy a tulajdonosi joggyakorló és az ingatlan-nyilvántartásba bejegyzett kezelői jog jogosultja között nincs érvényben az ingatlan használatára jogcímet biztosító szerződés.
+(5a)
 
-(6) A vízitársulat az üzemeltetési és fenntartási feladatokat az (5) bekezdés szerinti ingatlanügyi hatósági határozat kézhezvételének napjáig látja el.
+(6)
 
 (7) A vízitársulat által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a korábbi vagyonkezelő vagy kezelő helyébe a (3) bekezdésben kijelölt vagyonkezelő lép. Egyéb tekintetben a vízügyi igazgatási szerv nem tekinthető a vízitársulat jogutódjának.

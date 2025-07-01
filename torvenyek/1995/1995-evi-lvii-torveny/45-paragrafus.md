@@ -30,9 +30,9 @@ f) a vízgazdálkodás országos koncepciójának végrehajtásához kapcsolód�
 
 g) a szennyvízelvezetési agglomerációk lehatárolásának és települési jegyzékének;
 
-h) a szennyvízgyűjtő hálózatok és szennyvíztisztító telepek minősítési kritériumainak;
+h)
 
-i) az ivóvízminőség-javító program megvalósítását szolgáló célelőirányzat igénybevételére, folyósítására, felhasználására, a felhasználás ellenőrzésére és a program teljesítését ellátó szervezetre, továbbá a települési szennyvíz-elvezetési és -tisztítási nemzeti program támogatási rendszerére vonatkozó szabályok;
+i)
 
 j) a települési szennyvíztisztításra vonatkozó nyilvántartási és jelentési kötelezettség;
 
@@ -70,21 +70,21 @@ z) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabá
 
 rendeletben történő megállapítására.
 
-(7a) Felhatalmazást kap a Kormány a vízgazdálkodási bírság mértéke megállapításának szempontrendszere és a bírság megfizetési módja részletszabályainak rendeletben történő megállapítására.
+(7a) Felhatalmazást kap a Kormány a vízgazdálkodási bírság mértéke megállapításának szempontrendszere és a bírság, valamint a csatornabírság megfizetési módja részletszabályainak rendeletben történő megállapítására.
 
 (7b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak tekintetében
 
-a) a besorolásra és az illetményrendszerre,
+a)
 
-b) a betölthető munkaköri kategóriákra és munkakörökre,
+b)
 
-c) a betölthető vezetői munkaköri kategóriákra és vezetői munkakörökre,
+c)
 
-d) közalkalmazottak továbbképzésének tervezésére, finanszírozására, a képzések követelményrendszerére,
+d) közalkalmazottak továbbképzésének tervezésére, finanszírozására, a képzések követelményrendszerére, a továbbképzést biztosító és a továbbképzési rendszert üzemeltető intézmény kijelölésére, továbbá ezek tekintetében az intézmény feladatainak meghatározására,
 
 e) a közalkalmazottak teljesítményértékelésének és minősítésének kötelező és ajánlott elemeire, fokozataira, eljárási szabályaira, az értékelőlap tartalmára
 
-f) a közalkalmazotti és a vezetői kinevezéshez szükséges követelményekre
+f)
 
 vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer működtetését végző, a Vízügyi Etikai Bizottság működési feltételeit biztosító és a Vízügyi Etikai Bizottság tagjairól névjegyzéket vezető vízügyi igazgatási szervet.
 
@@ -94,7 +94,7 @@ a) a VIZEK rendszer működésének részletszabályait, valamint a rendszer ré
 
 b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
-(7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági öntözési célú kutak létesítésével, valamint az engedély nélkül, vagy az engedélytől eltérően létesített mezőgazdasági öntözési célú kutak fennmaradásával, továbbá a mezőgazdasági öntözési célú kutak üzemeltetésével kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
+(7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági célú kutak létesítésével, üzemeltetésével, megszüntetésével, valamint az engedély nélkül vagy az engedélytől eltérően létesített és üzemeltetett mezőgazdasági célú kutak fennmaradásával kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
 
 (7e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeit az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
@@ -104,7 +104,9 @@ b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
 (7h) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza egyes hatósági eljárásokban a vízvédelmi hatóság által vizsgált szakkérdésekkel kapcsolatos eljárási költségeket.
 
-(7h) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, illetve a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzésnek részletszabályait rendeletben állapítsa meg.
+(7h)
+
+(7i) Felhatalmazást kap a Kormány, hogy a különleges vízkészlet-gazdálkodási körzet lehatárolását, valamint a fenntartható vízhasználat megőrzését és a nemzetgazdasági jelentőségű fejlesztések vízigényének felszín alatti vízkészletekből történő kielégítését szolgáló különleges intézkedések végrehajtása érdekében szükséges, a vízügyi igazgatási szervek által ellátandó feladatokat, a vízhasználatot kérelmezők és az engedélyesek kötelezettségeit, a különleges vízkészlet-gazdálkodási körzetben a vízkivétel feltételeit, továbbá a felszín alatti vízkészletekből történő vízigény kielégítését célzó vízjogi engedély iránti kérelmek vízügyi hatósági elbírálásának, valamint a vízügyi hatósági ellenőrzés részletszabályait rendeletben állapítsa meg.
 
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
@@ -112,7 +114,7 @@ a) a vízgazdálkodás általános szakmai követelményeinek, képesítési el�
 
 b) a folyók mértékadó árvízszintjeinek;
 
-c) a vízgazdálkodás országos és területi rendjének;
+c)
 
 d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
 
@@ -120,11 +122,11 @@ e) a mezőgazdasági vízszolgáltató művek üzemeltetésének
 
 f) a vízimunkáknak, a vízilétesítményeknek és vízhasználatoknak (a vízikönyvnek), a vízkészletek nyilvántartásának;
 
-g) a hasznosításba vonható vízkészleteknek — a vizek használatbavételének, illetve a vizek hasznosítási lehetőségének megőrzése céljából —;
+g)
 
-h) az ivóvízminőség-javító program forrását szolgáló célelőirányzat terhére történő költségvetési támogatás mértékére és igénybevételére vonatkozó szabályok
+h)
 
-i) a fúrt kutakra vonatkozó vízjogi engedélyezési eljárás szabályainak;
+i)
 
 j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 
@@ -148,11 +150,23 @@ a) a folyók nagyvízi medrére vonatkozó kezelési tervek,
 
 b) az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálata szabályainak
 
+c) a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak tekintetében
+
+ca) a besorolás és az illetményrendszer,
+
+cb) a betölthető munkaköri kategóriák és munkakörök,
+
+cc) a betölthető vezetői munkaköri kategóriák és vezetői munkakörök, és
+
+cd) a közalkalmazotti és a vezetői kinevezéshez szükséges követelmények,
+
+d) a védekezéssel összefüggő rendelkezésreállási pótlék mértékére vonatkozó szabályok
+
 rendeletben történő megállapítására.
 
 (9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 
-(10) A 15. § (7) bekezdése szerinti rendelkezést legkésőbb 2010. december 22-ig kell végrehajtani.
+(10)
 
 (11) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízügyi hatóságot vagy hatóságokat, valamint a vízügyi igazgatási szervet vagy szerveket.
 

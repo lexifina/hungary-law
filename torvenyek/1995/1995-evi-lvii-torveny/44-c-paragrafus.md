@@ -4,7 +4,7 @@
 
 a) a közszolgáltatás tartalmát, a közszolgáltatással ellátott terület határait;
 
-b) a közszolgáltató megnevezését, valamint annak a működési területnek a határait, amelyen belül a közszolgáltató a közszolgáltatást rendszeresen ellátni köteles és az ártalmatlanítás céljából történő átadási helyet;
+b) annak a működési területnek a határait, amelyen belül egy közszolgáltató a közszolgáltatást rendszeresen ellátni köteles és az ártalmatlanítás céljából történő átadási helyet;
 
 c) a közszolgáltatás ellátásának rendjét, módját és időtartamát, a közszolgáltató és az ingatlantulajdonos ezzel összefüggő jogait és kötelezettségeit, valamint a közszolgáltatásra vonatkozó szerződés egyes tartalmi elemeit;
 

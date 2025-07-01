@@ -18,7 +18,11 @@ g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csat
 
 h) a vízkészletek átcsoportosítását szolgáló vízelosztó rendszerek – ideértve a csatornákat is – létesítése, fenntartása és üzemeltetése, a többes rendeltetésű rendszerek fenntartása és üzemeltetése, valamint a mezőgazdasági vízszolgáltatás biztosítása.
 
-(3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
+i) a vízkészletek növelése, a felszíni és felszín alatti vizek és vízilétesítmények vízmegtartási szempontú üzemeltetésével;
+
+j) a vízhiányból eredő vízkárelhárítás.
+
+(3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve vízitársulat útján lehet gondoskodni.
 
 (4) A (3) bekezdésben megjelölt feladat:
 
@@ -36,6 +40,6 @@ f) a település belterületén a patakok, csatornák áradása, továbbá a csa
 
 g) a település belterületén a csapadékvíz elkülönített elvezetését biztosító árkok fenntartása és vízilétesítmények üzemeltetése, az országos közút, illetve a közforgalmú vasút víztelenítését szolgáló árkok, csatornák és egyéb vízelvezető vízilétesítmények kivételével.
 
-(5) Az állami tulajdonban lévő vízfolyás medrének és parti sávjának lehatárolásáról a vízügyi igazgatási szerv gondoskodik.
+(5)
 
 (6)

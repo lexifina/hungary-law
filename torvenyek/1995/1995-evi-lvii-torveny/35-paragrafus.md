@@ -1,4 +1,4 @@
-35. § (1) A társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
+35. § (1) A vízgazdálkodási társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
 
 (2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek.
 

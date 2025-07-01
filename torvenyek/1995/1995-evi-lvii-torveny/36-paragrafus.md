@@ -1,4 +1,4 @@
-36. § (1) A víziközmű társulat megalakulását – egyéb jogszabály szerinti – szervező bizottság készíti elő.
+36. § (1) A víziközmű társulat megalakulását – a vízgazdálkodási társulatokról szóló kormányrendelet szerinti – szervező bizottság készíti elő.
 
 (2) A víziközmű társulat legfőbb szerve a taggyűlés.
 

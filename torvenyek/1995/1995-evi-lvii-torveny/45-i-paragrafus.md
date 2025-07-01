@@ -1,1 +1,1 @@
-45/I. § E törvénynek a belügyi feladatokat érintő és más kapcsolódó törvények módosításáról szóló 2017. évi CXXXIV. törvénnyel (a továbbiakban: Vgtv. mód.) megállapított 13–13/N. §-ában foglaltak hatálybalépése nem szakítja meg a közalkalmazotti jogviszonyból eredő igények elévülését.
+### 45/I. §

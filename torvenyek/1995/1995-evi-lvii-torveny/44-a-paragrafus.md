@@ -10,6 +10,6 @@ c) a cégbíróság hivatalból elrendeli törlését.
 
 (2) A víziközmű társulat jogutódlással szűnik meg, ha másik víziközmű társulattá átalakul.
 
-(3) A víziközmű társulat az elkészült víziközművet szolgáltatásra alkalmas állapotban az önkormányzat (önkormányzati társulás) részére átadja.
+(3) A víziközmű társulat az elkészült víziközművet szolgáltatásra alkalmas állapotban az önkormányzat (önkormányzati társulás) részére tulajdonba adja.
 
-(4) Amennyiben a víziközmű beruházás részenként üzembe helyezhető, a víziközmű társulat a beruházás eredményeként megvalósult víziközművet részenként is átadhatja.
+(4) Amennyiben a víziközmű beruházás részenként üzembe helyezhető, a víziközmű társulat a beruházás eredményeként megvalósult víziközművet részenként is tulajdonba adhatja.
