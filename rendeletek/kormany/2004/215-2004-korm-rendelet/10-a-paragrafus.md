@@ -1,4 +1,4 @@
-10/A. §[^16] (1) A 16 éven felüli versenyző sportorvosi engedélyének érvényességi idejét – a 10. § (3) bekezdése szerinti eset kivételével – úgy kell meghatározni, hogy lejáratának hónapja és napja megegyezzen a versenyző születési idejének hónapjával és napjával.
+10/A. §[^19] (1) A 16 éven felüli versenyző sportorvosi engedélyének érvényességi idejét – a 10. § (3) bekezdése szerinti eset kivételével – úgy kell meghatározni, hogy lejáratának hónapja és napja megegyezzen a versenyző születési idejének hónapjával és napjával.
 
 (2) A 10. § (1) bekezdésétől eltérően, ha az érvényes sportorvosi engedéllyel nem rendelkező személy sportorvosi vizsgálatára a születési idejének hónapját és napját megelőzően legfeljebb 60 napon belül kerül sor, a sportorvosi engedély érvényességi ideje kezdeteként a sportorvosi vizsgálat időpontját kell meghatározni. A sportorvosi engedély lejáratát úgy kell meghatározni, hogy az a sportorvosi vizsgálatot követő évre essen, és lejáratának hónapja és napja megegyezzen a vizsgált személy születési idejének hónapjával és napjával.
 
@@ -8,4 +8,4 @@
 
 (5) Ha a versenyző február 29-én született, és az érvényességi idő lejártának évében a február hónap 28 napos, akkor az (1) és (2) bekezdéstől eltérően a sportorvosi engedély érvényességi idejét úgy kell meghatározni, hogy az február 28-án járjon le.
 
-[^16]: A 10/A. §-t a 203/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^19]: A 10/A. §-t a 203/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.

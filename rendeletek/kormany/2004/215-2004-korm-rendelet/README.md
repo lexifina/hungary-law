@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-215-20-
 | 2019-01-01 | 2004-215-20-22.8 | 279/2018. (XII. 21.) Korm. rendelet |
 | 2025-01-01 | 2004-215-20-22.9 | 203/2024. (VII. 29.) Korm. rendelet |
 | 2025-01-26 | 2004-215-20-22.10 | 6/2025. (I. 25.) Korm. rendelet |
+| 2025-07-01 | 2004-215-20-22.11 | 177/2025. (VI. 30.) Korm. rendelet |
