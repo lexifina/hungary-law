@@ -1,3 +1,3 @@
 7. §[^7]
 
-[^7]: A 7. § a 38. § (4) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^7]: A 7. § a 173/2025. (VI. 30.) Korm. rendelet 6. § a) pontja alapján nem lép hatályba.

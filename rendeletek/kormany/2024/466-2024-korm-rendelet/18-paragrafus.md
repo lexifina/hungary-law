@@ -1,3 +1,3 @@
-18. §[^18]
+18. § A Vet. Vhr. 21/B. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^18]: A 18. § a 38. § (4) bekezdése alapján 2025. július 1-jén lép hatályba.
+„(1a) A villamosenergia-kereskedő és az elosztó a nem lakossági felhasználó részére kizárólag elektronikus számlát bocsát ki.”
