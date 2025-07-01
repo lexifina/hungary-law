@@ -12,4 +12,4 @@ keretében az Fktv. szerint a felnőttképzési tevékenység folytatására eng
 
 (3) A duális képzőhely a szakirányú oktatás keretében vesz részt a szakképzésben.
 
-(4) A szakképzésért felelős miniszter engedélyével a szakképzési rendszer fejlesztése céljából a szakképzés kísérleti jelleggel az e törvénytől eltérő feltételekkel is megszervezhető.
+(4) A szakképzésért felelős miniszter engedélyével a szakképzési rendszer fejlesztése céljából a szakképzés kísérleti jelleggel az e törvénytől eltérő feltételekkel, illetve köznevelési alapfeladat-ellátás szerinti középfokú iskolai továbbtanulásra történő felkészítéssel kiegészülve is megszervezhető.

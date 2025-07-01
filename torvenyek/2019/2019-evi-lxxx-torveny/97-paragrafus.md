@@ -21,3 +21,5 @@ h) koordinálja az életpálya-tanácsadás és a pályaorientáció ellátásá
 i) a szakképzés ellenőrzése keretében végzi a szakképző intézmény minőségirányítási rendszerének külső értékelését,
 
 j) végzi a jogszabályban meghatározott egyéb feladatokat.
+
+k) működteti az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 4. § (1) bekezdés i) pontja szerinti pályakövetési rendszert a szakképzés és felnőttképzés vonatkozásában.

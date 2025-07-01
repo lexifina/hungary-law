@@ -132,9 +132,13 @@
 
 50. a képesítő vizsga rendjét, a képesítő vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a képesítő vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a képesítő vizsgával kapcsolatos adatszolgáltatásnak és a képesítő vizsga ellenőrzésének részletes szabályait, a képesítő vizsgával összefüggésben az akkreditált szakképzési vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait.
 
+51. a szakmai oktatáshoz kapcsolódó mikrotanúsítvány megszerzésének feltételeit, a szakképző intézmény által kiállított mikrotanúsítványok tartalmának, kiállításának és nyilvántartásának szabályait,
+
+52. a szakképző intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást.
+
 (3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy
 
-a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét,
+a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét, valamint a tanév szervezésével kapcsolatos feladatokat,
 
 b) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
 
