@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-113-20-
 | 2023-09-01 | 2007-113-20-22.44 | 375/2023. (VIII. 10.) Korm. rendelet |
 | 2024-03-01 | 2007-113-20-22.45 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-09-01 | 2007-113-20-22.46 | 217/2024. (VII. 31.) Korm. rendelet |
+| 2025-07-01 | 2007-113-20-22.47 | 179/2025. (VI. 30.) Korm. rendelet |

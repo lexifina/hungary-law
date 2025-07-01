@@ -1,4 +1,4 @@
-24. § (1)[^90] A családtag családtagi jogállását a családi kapcsolat fennállását igazoló okirattal, így különösen
+24. § (1)[^91] A családtag családtagi jogállását a családi kapcsolat fennállását igazoló okirattal, így különösen
 
 a) születési anyakönyvi kivonattal,
 
@@ -12,7 +12,7 @@ e) egyéb hitelt érdemlő módon
 
 igazolhatja.
 
-(2)[^91] Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.
+(2)[^92] Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.
 
-[^90]: A 24. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^91]: A 24. § (2) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^91]: A 24. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^92]: A 24. § (2) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
