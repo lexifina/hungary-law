@@ -22,12 +22,8 @@ c) az ESZCSM rendeletben meghatározott igazgatási-szolgáltatási díj befizet
 
 (4) Az (1) bekezdés szerinti kérelemhez – ha az kedvezményezetti státusz megítélésére is irányul – csatolni kell a Gyftv. 31/C. § (2) bekezdése szerinti nyilatkozatot.
 
-(5) Az (1) bekezdés szerinti kérelem benyújtásakor igazolnia kell
-
-a) a gyógyszer forgalomba hozatali engedély jogosultjának az adott gyógyszer forgalomba hozatali engedélyének meglétét,
-
-b)[^15] a tápszer forgalmazójának az NNGYK igazolásának meglétét a tápszer bejelentéséről.
+(5)[^15]
 
 [^13]: A 8. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
 [^14]: A 8. § (1) bekezdés d) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
-[^15]: A 8. § (5) bekezdés b) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (5) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 21. §-a hatályon kívül helyezte.
