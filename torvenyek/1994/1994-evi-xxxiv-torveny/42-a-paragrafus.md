@@ -1,6 +1,6 @@
 42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből
 
-a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
+a) feladatkörükben a 42. § (6) bekezdésében meghatározott célból a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a titkos információgyűjtésre feljogosított szerv, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami adó- és vámhatóság,
 
 b) jogainak gyakorlása érdekében az érintett, valamint
 

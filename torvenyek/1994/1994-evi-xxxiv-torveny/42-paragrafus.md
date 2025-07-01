@@ -46,6 +46,8 @@ c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő sze
 
 d) a (2) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátásának szervezése, koordinálása és irányítása céljából
 
+e) közlekedésrendészeti intézkedés során az (1) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az állami adó- és vámhatóságnak a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 13. § (8) bekezdés j) pontjában meghatározott feladata teljesítése céljából
+
 használható fel.
 
 (7) Ha a (6) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség,

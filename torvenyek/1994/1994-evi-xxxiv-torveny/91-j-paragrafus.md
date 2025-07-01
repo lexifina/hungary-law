@@ -20,7 +20,7 @@ f) a közlekedési rendszabályok megtartásának, a járműhasználat szabálys
 
 (4) A rendőrség az (1) bekezdés e) pont szerinti bejelentést terrorfenyegetettség vizsgálata céljából a terrorizmust elhárító szervnek, a nemzetbiztonsági érdek vizsgálata céljából az Alkotmányvédelmi Hivatalnak továbbíthatja.
 
-(5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – a kényszerintézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli a kényszerintézkedés alá vont személy
+(5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, a reintegrációs őrizet, valamint a megelőző távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – az intézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli az intézkedés alá vont személy
 
 a) azonosításához szükséges fényképlenyomatot,
 
@@ -34,13 +34,13 @@ e) anyja születési családi és utónevét,
 
 f) telefonszámát,
 
-g) lakóhelyét, illetve kijelölt tartózkodási helyét, valamint azok GPS koordinátáit,
+g) lakóhelyét, illetve kijelölt tartózkodási helyét, valamint azok GPS-koordinátáit,
 
 h) által beszélt nyelvre vonatkozó adatokat,
 
 i) által elkövetett bűncselekmény adatait,
 
-j) vonatkozásában elrendelt kényszerintézkedés időtartamát,
+j) vonatkozásában elrendelt intézkedés időtartamát,
 
 k) vonatkozásában elrendelt magatartási szabályokat, illetve a magatartási szabályok megszegésével összefüggő adatokat.
 
