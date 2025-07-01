@@ -16,4 +16,4 @@ elsajátítsa és a foglalkoztatás teljes időtartama alatt rendelkezzen az eg�
 
 (3) Az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.
 
-(4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+(4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy végezheti. A feladat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.

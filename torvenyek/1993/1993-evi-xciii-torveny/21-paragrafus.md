@@ -6,7 +6,7 @@
 
 (3) A munkavédelmi üzembe helyezés feltétele a munkavédelmi szempontú előzetes vizsgálat. E vizsgálat célja annak megállapítása, hogy a létesítmény, a munkahely, a munkaeszköz, a technológia megfelel az egészséget nem veszélyeztető és biztonságos munkavégzéshez szükséges tárgyi, személyi, szervezési, munkakörnyezeti feltételeknek, illetőleg teljesíti a 18. § (1) bekezdése szerinti követelményeket. A vizsgálat elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
-(3a) A munkavédelmi szempontú előzetes vizsgálat során szükséges munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+(3a) A munkavédelmi szempontú előzetes vizsgálat során szükséges munkaegészségügyi feladatokat a foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy végezheti. A feladatokat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
 (4) Az előzetes vizsgálat során különösen vizsgálni kell, hogy rendelkezésre állnak-e a létesítést végzők (tervező, kivitelező) nyilatkozatai, a munkavédelmi követelmények kielégítését bizonyító mérési eredmények, a munkaeszközre vonatkozó megfelelőségi nyilatkozatok, tanúsítványok, a szükséges hatósági engedélyek, az üzemeltetéshez szükséges utasítások.
 
