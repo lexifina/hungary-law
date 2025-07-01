@@ -10,7 +10,7 @@ A feltételes adómegállapítás iránti kérelem
 
 1.2. állandó lakóhelyét (belföldi és külföldi székhelyét, telephelyét), levelezési címét,
 
-1.3.[^136] adószámát, adóazonosító jelét, csoportos adóalany kérelmező esetében a csoportazonosító számot,
+1.3.[^137] adószámát, adóazonosító jelét, csoportos adóalany kérelmező esetében a csoportazonosító számot,
 
 1.4. létesítő okiratának keltét,
 
@@ -46,7 +46,7 @@ A feltételes adómegállapítás iránti kérelem
 
 11.3. az adózó képviseletében eljáró képviseleti jogosultságának igazolását,
 
-11.4.[^137] a hiteles cégaláírási nyilatkozatot (ügyvéd által ellenjegyzett aláírásmintát, közjegyzői hitelesítéssel ellátott aláírási címpéldányt), kivéve, ha a képviseleti jogosultság igazolására szolgáló okiratot a cég törvényes képviselője elektronikus aláírással látta el,
+11.4.[^138] a hiteles cégaláírási nyilatkozatot (ügyvéd által ellenjegyzett aláírásmintát, közjegyzői hitelesítéssel ellátott aláírási címpéldányt), kivéve, ha a képviseleti jogosultság igazolására szolgáló okiratot a cég törvényes képviselője elektronikus aláírással látta el,
 
 12. az adózó nyilatkozatát a befizetendő díj összegéről;
 
@@ -70,5 +70,5 @@ A feltételes adómegállapítás iránti kérelem
 
 17. az adózó képviselője cégszerű aláírását.
 
-[^136]: Az 1. melléklet 1. pont 1.3. alpontja a 260/2019. (XI. 7.) Korm. rendelet 14. § 6. pontjával megállapított szöveg.
-[^137]: Az 1. melléklet 11. pont 11.4. alpontja a 78/2025. (IV. 17.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^137]: Az 1. melléklet 1. pont 1.3. alpontja a 260/2019. (XI. 7.) Korm. rendelet 14. § 6. pontjával megállapított szöveg.
+[^138]: Az 1. melléklet 11. pont 11.4. alpontja a 78/2025. (IV. 17.) Korm. rendelet 22. §-ával megállapított szöveg.
