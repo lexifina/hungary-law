@@ -16,6 +16,6 @@ f) a műtárgy kiviteli terv jóváhagyása,
 
 g) az építési engedélytől való eltérési engedély.
 
-h)[^14] munkaközi forgalomba helyezési engedély.
+h)[^15] munkaközi forgalomba helyezési engedély.
 
-[^14]: A 6. § h) pontját a 251/2024. (VIII. 22.) Korm. rendelet 58. §-a iktatta be.
+[^15]: A 6. § h) pontját a 251/2024. (VIII. 22.) Korm. rendelet 58. §-a iktatta be.

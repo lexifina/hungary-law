@@ -6,14 +6,17 @@
 
 (2) Az építtetőnek az érintett út területe összes tulajdonosának nyilatkozatát is be kell szereznie, ha a közforgalom elől el nem zárt magánút építésének, építési engedélytől való eltérésnek, a forgalom részére való átadásának, megszüntetésének engedélyezése iránti kérelmet nem a tulajdonos, több tulajdonos esetében nem az összes tulajdonos terjesztette elő.
 
-(3)[^11] Az útkezelő hozzájáruló nyilatkozatát az építtető köteles beszerezni az engedély iránti kérelem benyújtása előtt az e rendelet szerinti engedélyezési eljárásokban.
+(3)[^11] A közút és a közforgalom elől el nem zárt magánút kezelőjének hozzájáruló nyilatkozatát az építtető köteles beszerezni az engedély iránti kérelem benyújtása előtt az e rendelet szerinti engedélyezési eljárásokban.
 
-(4)[^12] Ha az útkezelő az építtető értesítésének kézhezvételét követő 15 napon belül nem nyilatkozik, a hozzájárulást megadottnak kell tekinteni. Az építtető köteles igazolni az (1)–(3) bekezdés szerinti nyilatkozat iránti kérelemnek az átvételét.
+(3a)[^12] Ha az útkezelő a nyilatkozat megadását arra való hivatkozással tagadja meg, hogy a tervezett úttal érintett ingatlan nem áll az engedélyezési eljárás idején a tulajdonában, akkor a hozzájárulást megadottnak kell tekinteni.
 
-(5)[^13] Az (1) bekezdésben foglaltaknak nem megfelelő kérelmet a hatóság visszautasíthatja.
+(4)[^13] Ha az útkezelő az építtető értesítésének kézhezvételét követő 15 napon belül nem nyilatkozik, a hozzájárulást megadottnak kell tekinteni. Az építtető köteles igazolni az (1)–(3) bekezdés szerinti nyilatkozat iránti kérelemnek az átvételét.
+
+(5)[^14] Az (1) bekezdésben foglaltaknak nem megfelelő kérelmet a hatóság visszautasíthatja.
 
 [^9]: Az 5. § (1) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (1a) bekezdését a 289/2018. (XII. 21.) Korm. rendelet 15. §-a iktatta be.
-[^11]: Az 5. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 104. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^12]: Az 5. § (4) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (5) bekezdését a 117/2018. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: Az 5. § (3) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (3a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^13]: Az 5. § (4) bekezdése a 117/2018. (VII. 2.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (5) bekezdését a 117/2018. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.

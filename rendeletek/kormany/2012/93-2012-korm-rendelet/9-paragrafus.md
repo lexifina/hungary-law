@@ -1,4 +1,4 @@
-9. § (1)[^22] Az elvi építési engedélyről szóló határozatnak – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmaznia kell:
+9. § (1)[^23] Az elvi építési engedélyről szóló határozatnak – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmaznia kell:
 
 a) a határozattal érintett közlekedési építmény megnevezését, a benyújtott terv azonosító adatait és a határozat tárgyának rövid leírását,
 
@@ -8,4 +8,4 @@ b) az engedély időbeli hatályát.
 
 (3) Az elvi építési engedély időbeli hatálya alatt más építtetőnek az engedélyben meghatározott területen elvi építési engedély vagy építési engedély nem adható ki.
 
-[^22]: A 9. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 393. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: A 9. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 393. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

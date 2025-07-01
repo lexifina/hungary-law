@@ -1,3 +1,3 @@
-12. §[^31]
+12. §[^30]
 
-[^31]: A 12. §-t a 457/2017. (XII. 28.) Korm. rendelet 394. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 12. §-t a 457/2017. (XII. 28.) Korm. rendelet 394. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -40,9 +40,9 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 2.1.1.2. | az útszakasz leírása, az utak osztályba sorolása, a területrendezési és településrendezési tervekkel, a helyi építési szabályzattal való összhang, vagy az azoknak történő megfelelőség igazolása, |
 
-| 2.1.1.3. | a vízszintes és magassági vonalvezetés jellemző adatai és indokolása, |
+| 2.1.1.3. | a vízszintes és magassági vonalvezetés jellemző adatai és – szükség esetén – indokolása, |
 
-| 2.1.1.4. | forgalmi vizsgálatok, forgalmi tervezés, |
+| 2.1.1.4. | forgalmi vizsgálatok, forgalmi tervezés, építés alatti és utáni forgalmi rend ismertetése. Az építés utáni forgalmi rend ismertetése nem kiemelt közlekedés-infrastruktúra beruházások esetében elhagyható. |
 
 | 2.1.1.5. | keresztszelvényi elrendezés, földmű tervezés, |
 
@@ -56,7 +56,7 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 2.1.1.10. | táj- és természetvédelem, |
 
-| 2.1.1.11. | hófúvás elleni védelem, |
+| 2.1.1.11. |  |
 
 | 2.1.1.12. | vízelvezetés, csatornázás, |
 
@@ -68,21 +68,21 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 2.1.1.16. | úttartozékok, |
 
-| 2.1.1.17. | baleseti adatok, |
+| 2.1.1.17. |  |
 
 | 2.1.1.18. | az úttal kapcsolatos egyéb építmények (autóbusz-megállóhely, leálló-, pihenőhelyek, üzemanyagtöltő állomások, vendéglátóipari építmények, üzemmérnökségek), |
 
-| 2.1.1.19. | az igénybeveendő idegen területek tulajdonosának (kezelőjének, használójának) neve, továbbá a földrészlet ingatlan-nyilvántartási adatai (helyrajzi szám, alrészlet és művelési ág, minőségi osztály, terület), |
+| 2.1.1.19. |  |
 
 | 2.1.1.20. | érintett épületek és egyéb létesítmények, |
 
-| 2.1.1.21. | építés alatti és utáni forgalmi rend ismertetése (lásd: 2.1.1.4. pont). |
+| 2.1.1.21. |  |
 
 | 2.1.2. | Áttekintő térkép. |
 
 | 2.1.3. | Átnézeti helyszínrajz. Az átnézeti helyszínrajzot legalább 1:10 000 méretarányban az ingatlan-nyilvántartási vagy a topográfiai térképi adatbázis felhasználásával kell elkészíteni, a meglévő úthálózatnak, a tervezett út tengelyvonalának, kezdő- és végpontjának, km-szelvényezésének, valamint a nagyobb műtárgyak helyeinek feltüntetésével. |
 
-| 2.1.4. | Általános helyszínrajz. Az általános helyszínrajz külterületen általában 1:1000, belterületen 1:200–1:500 méretarányban készítendő, amelyhez – amennyiben azt másik munkarész nem tartalmazza – csatolandó a földhivatal által záradékolt nyilvántartási térképmásolat. Az általános helyszínrajz az út tengelyvonalán és szelvényezésén kívül tartalmazza legalább az út burkolatszél, koronaél vonalát és a vízelvezető árok vagy csatorna tengelyvonalát, a töltések talpvonalát és a bevágások körömvonalát, az ívviszonyok jellemző adatait, műtárgyak helyét és jellemző méreteit. Tartalmazza továbbá az útcsatlakozásokat, a párhuzamos utakat, a vízfolyás-korrekciókat, a vasúti és egyéb pályák keresztezési helyét, a forgalmi csomópontokat, az autóbusz-megállókat, a leálló- és pihenőhelyeket, az üzemanyagtöltő állomásokat, az érintett ingatlanokat, azok helyrajzi számát és a járdákat. |
+| 2.1.4. | Általános helyszínrajz. Az általános helyszínrajz külterületen általában 1:1000, belterületen 1:200–1:500 méretarányban készítendő, amelyhez – amennyiben azt másik munkarész nem tartalmazza – csatolandó az állami ingatlan-nyilvántartási térképi adatbázis térképmásolata vagy arra vonatkozó tervezői nyilatkozat, hogy a tervező által készített helyszínrajz állami ingatlan-nyilvántartási térképi adatbázisból, illetve térinformatikai másolatából kiadott digitális adatok alapján készült. Az általános helyszínrajz az út tengelyvonalán és szelvényezésén kívül tartalmazza legalább az út burkolatszél, koronaél vonalát és a vízelvezető árok vagy csatorna tengelyvonalát, a töltések talpvonalát és a bevágások körömvonalát, az ívviszonyok jellemző adatait, műtárgyak helyét és jellemző méreteit. Tartalmazza továbbá az útcsatlakozásokat, a párhuzamos utakat, a vízfolyás-korrekciókat, a vasúti és egyéb pályák keresztezési helyét, a forgalmi csomópontokat, az autóbusz-megállókat, a leálló- és pihenőhelyeket, az üzemanyagtöltő állomásokat, az érintett ingatlanokat, azok helyrajzi számát és a járdákat. |
 
 | 2.1.5. | Általános hossz-szelvény. Az általános hossz-szelvény méretaránya általában 1:1000–1:2000, magassági léptéke tízszeres torzítású (1:100, 1:200). Tartalmazza a terep- és pályaszintmagasságokat, lejtési viszonyokat, a lekerekítő ívek sugarát, a vízszintes ívviszonyokat, a túlemelés átmeneti szakaszok kialakítását, a műtárgyak helyét, nyílását, főbb magassági adatait, a mértékadó talajvízszinteket, a vízelvezető árkok szintjét, az útcsatlakozások, vezetőkorlátok helyét. |
 
@@ -98,11 +98,13 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 2.1.11. | A közútkezelői hozzájárulással ellátott, építés előtti és utáni forgalmi rendet tartalmazó forgalomtechnikai terv. A tervezett létesítmény fajtájától függően készülhet az útépítési terv részeként vagy önálló tervdokumentációként. A forgalomtechnikai terven minden olyan építményt fel kell tüntetni, amelyek befolyásolhatják a forgalombiztonságot. |
 
+| 2.1.12. | Az igénybeveendő idegen területek tulajdonosának (kezelőjének, használójának) neve, továbbá a földrészlet ingatlan-nyilvántartási adatai (helyrajzi szám, alrészlet és művelési ág, minőségi osztály, terület). |
+
 | 2.2. | Esetileg benyújtandó munkarészek, illetve dokumentációk |
 
 | 2.2.1. | Műtárgyak engedélyezési terve és műszaki leírása – a 4–8. pontban részletezettek szerint. |
 
-| 2.2.2. | Környezetvédelmi munkarész (előzetes régészeti dokumentációval vagy örökségvédelmi hatástanulmánnyal). |
+| 2.2.2. | Környezetvédelmi munkarész (szükség esetén előzetes régészeti dokumentációval vagy örökségvédelmi hatástanulmánnyal). |
 
 | 2.2.3. | Táj- és természetvédelmi terv, növénytelepítési terv. |
 
@@ -116,15 +118,15 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 2.2.8. | Egyéb munkarész, ha az az építési engedély iránti kérelem elbírálásához szükséges (például bontási terv, magasépítési terv, gyalogos-átkelőhely kijelölési terve stb.). |
 
-| 2.2.9. | Mennyiség kimutatás. |
+| 2.2.9. | Hófúvás elleni védelem (külterületen, hófúvásra érzékeny szakaszok vonatkozásában). |
 
-| 2.2.10. | Kezelői lehatárolási terv. |
+| 2.2.10. | Baleseti adatok (meglévő utak korszerűsítésénél). |
+
+| 2.2.11. | Kezelői lehatárolási terv. |
 
 | 2.3. | Tervezőtől független szakértő által végzendő vizsgálatok |
 
-| 2.3.1. | Értékelemzési döntés-előkészítési tanulmány. |
-
-| 2.3.2. | Közúti biztonsági audit: közlekedésbiztonsági szempontból kritikus tervezési feladat (például funkcióváltás, keresztmetszet-változás, sűrűn elhelyezkedő csomópontok, baleseti góchelyek stb.) esetében javasolt elvégezni. |
+| 2.3.1. |  |
 
 | 2.4. | Méretarány. A tervek méretarányát a tervezett út osztályától és a tervfázis értékelhetőségétől (elbírálhatóságától) függően kell meghatározni. |
 
@@ -418,4 +420,4 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 [^56]: A 32. §-t a 236/2020. (V. 26.) Korm. rendelet 3. §-a iktatta be.
 [^57]: A hatálybalépés időpontja 2020. május 27.
-[^58]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése szerint módosított szöveg.
+[^58]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése, a 155/2025. (VI. 23.) Korm. rendelet 14. § (5) bekezdése és 15. § c) pontja szerint módosított szöveg.
