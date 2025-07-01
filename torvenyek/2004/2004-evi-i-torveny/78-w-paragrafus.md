@@ -1,0 +1,3 @@
+78/W. § (1) Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvénnyel (a továbbiakban: Módtv14.) megállapított 59. § (6b) és (6c) bekezdése tekintetében első járadékra jogosító eredmény elérését megalapozó sporteseménynek minősül a Módtv14. hatálybalépését követően rendezett, az 59. § (1) bekezdése szerinti sportesemény.
+
+(2) E törvénynek a Módtv14.-gyel megállapított 59. § (6a) és (6d) bekezdését a Módtv14. hatálybalépését megelőzően megtartott, olimpiai járadékra jogosító sportesemény tekintetében is alkalmazni kell, ha az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapjától a Módtv14. hatálybalépéséig 1 év még nem telt el.

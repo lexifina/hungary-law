@@ -50,7 +50,11 @@ s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolg�
 
 t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
 
-u) sportrendezvény: versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott sportesemény, verseny, mérkőzés és az azt közvetlenül megelőző másfél óra, valamint az azt közvetlenül követő másfél óra,
+u) sportrendezvény: versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott sportesemény, verseny, mérkőzés és
+
+ua) beléptető rendszer alkalmazása esetén az első nézőnek az annak helyszínére történő belépése időpontjától az utolsó nézőnek az annak helyszínéről történő távozása időpontjáig terjedő időtartam, vagy
+
+ub) beléptető rendszer alkalmazása hiányában az azt közvetlenül megelőző két óra, valamint az azt közvetlenül követő két óra,
 
 v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
 

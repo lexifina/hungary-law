@@ -42,7 +42,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a jogosulttal szemben folytatott büntetőeljárást a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével befejezte, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hozott, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
 
-(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése, valamint a (2a) bekezdés szerinti bejelentési kötelezettség elmulasztása miatt közigazgatási bírságot szabhat ki.
+(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (9) és (10) bekezdése, valamint a (2a) bekezdés szerinti bejelentési kötelezettség elmulasztása miatt – figyelmeztetés alkalmazása nélkül is – közigazgatási bírságot szabhat ki.
 
 (11) Az olimpiai járadékra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 

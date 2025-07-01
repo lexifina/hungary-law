@@ -36,6 +36,8 @@ gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támo
 
 gj) ellátja a Tao. 24/A. § (19) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat;
 
+gk) a Tao. 4. § 47a. pontja szerinti sportakadémia esetében is ellátja a ga)–gj) alpontokban felsorolt feladatokat.
+
 h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági hatásköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
 
 i) programokat dolgoz ki:

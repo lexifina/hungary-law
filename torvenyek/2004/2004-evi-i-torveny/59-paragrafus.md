@@ -12,7 +12,7 @@ a versenykiírás szerinti hivatalos versenyprogramban szereplő versenyszámban
 
 (3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző öt évben megszakítás nélkül közös háztartásban élt.
 
-(4) Élete végéig járadékra jogosult az érmes járadékra jogosultságának időpontjától – vagy amennyiben az korábbi időpont, a negyvenötödik életéve betöltését követő hónap 1. napjától – az érmes edzője, az érmes járadékra jogosultságának megállapítására tekintet nélkül.
+(4) Élete végéig járadékra jogosult a negyvenötödik életéve betöltését követő hónap 1. napjától kezdődően az érmes edzője, az érmes járadékra jogosultságának megállapítására tekintet nélkül.
 
 (5) Edzői járadékra az a személy jogosult, aki:
 
@@ -28,7 +28,13 @@ e) az érmes által, a járadékra jogosító eredmény elérését megalapozó,
 
 (6) Edzői járadék szövetségi kapitány vagy a nemzeti válogatottat vezető edző és – abban az esetben, ha az érmest utánpótlás korosztályokban legalább három évig folyamatosan felkészítette vagy a felkészítésben közreműködött – nevelőedző részére is megállapítható, ha az edző az (5) bekezdés e) pontja szerinti javaslatban szerepel.
 
-(6a) Ha az érmes vagy az edző jogosultságának megállapításához szükséges feltételek az érem megszerzésekor teljesülnek, úgy az érmes vagy az edző az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapját követő hónap első napjától kezdődően jogosult járadékra.
+(6a) Ha az érmes vagy az edző jogosultságának megállapításához szükséges feltételek az érem megszerzésekor teljesülnek – ideértve azt is, ha az (5) bekezdés e) pontja szerinti feltétel hiányában az edzői jogosultság megállapítására a (6d) bekezdés alapján kerül sor –, úgy az érmes vagy az edző az olimpiai járadékra jogosító sportesemény hivatalos időszakának zárónapját követő hónap első napjától kezdődően jogosult járadékra.
+
+(6b) Az érmes az első, az (5) bekezdés e) pontja szerint tett javaslatában – sportolói pályafutásának teljes időtartamára nézve – egy vagy több nevelőedzőt tüntethet fel, megjelölve egyidejűleg az edző és a nevelőedző közötti, járadékra jogosulttá válásuk esetére vonatkozó sorrendet. Az (5) bekezdés e) pontja szerinti javaslatban megjelölt nevelőedző személye – a (6c) bekezdésben foglaltak kivételével – az érmes további, edzői járadékra jogosító eredménye tekintetében is irányadó.
+
+(6c) Az az érmes, aki az (5) bekezdés e) pontja szerinti korábbi javaslatát utánpótlás-korosztályú versenyzőként tette, az abban foglaltak mellett további nevelőedzőt jelölhet meg a következő, az (5) bekezdés e) pontja alapján tett nyilatkozatában.
+
+(6d) Az (5) bekezdés e) pontja szerinti javaslat hiányában a sportpolitikáért felelős miniszter az edzői járadékot annak a személynek a javára állapítja meg – amennyiben megfelel az (5) bekezdés a)–c) pontja szerinti feltételeknek –, aki az érmest a járadékra jogosultságot megalapozó versenyt megelőzően közvetlenül, legalább egy évig folyamatosan felkészítette.
 
 (7) Megszűnik az érmes, az edzője és az özvegye járadékra való jogosultsága, ha az érmes a járadékra jogosító helyezését elveszíti. A helyezés elveszítését az érmes vagy az illetékes sportszövetség a tudomásszerzéstől számított nyolc napon belül bejelenti a sportpolitikáért felelős miniszternek. A járadékra való jogosultság megszűnését a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében állapítja meg.
 

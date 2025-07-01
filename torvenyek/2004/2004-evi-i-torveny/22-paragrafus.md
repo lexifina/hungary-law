@@ -32,7 +32,7 @@ d) érvényesíti a doppingtilalmat,
 
 e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket,
 
-f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett
+f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett – a Tao. 4. § 47a. pontja szerinti sportakadémia kivételével –
 
 fa) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában, 22/C. §-ában és 24/A. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9a) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
 

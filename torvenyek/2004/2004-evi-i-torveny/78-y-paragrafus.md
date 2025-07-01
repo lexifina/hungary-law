@@ -1,0 +1,1 @@
+78/Y. § E törvénynek a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel módosított 22. § (2) bekezdés f) pontját, valamint 51. § (2) bekezdés g) pontját e rendelkezések hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
