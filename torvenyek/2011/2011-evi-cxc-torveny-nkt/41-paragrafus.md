@@ -4,9 +4,9 @@
 
 (2) A köznevelési intézmény a gyermek, tanuló alábbi adatait tartja nyilván a tanulmányi rendszerében:
 
-a) a gyermek, tanuló neve, születési helye és ideje, anyja születési családi és utóneve, neme, állampolgársága, lakóhelyének, tartózkodási helyének címe, személyi azonosításra szolgáló okmány megnevezése és száma, telefonszáma, elektronikus levelezési címe, társadalombiztosítási azonosító jele, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, valamint száma,
+a) a gyermek, tanuló neve, születési neve, születési helye és ideje, anyja születési családi és utóneve, neme, állampolgársága, lakóhelyének, tartózkodási helyének címe, személyi azonosításra szolgáló okmány megnevezése és száma, telefonszáma, elektronikus levelezési címe, társadalombiztosítási azonosító jele, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, valamint száma,
 
-b) a gyermek, tanuló szülőjének, értesítendő hozzátartozójának, a rá tekintettel családi pótlékra jogosult személynek neve, születési helye és ideje, anyja születési családi és utóneve, lakóhelye, tartózkodási helye, telefonszáma, elektronikus levelezési címe,
+b) a gyermek, tanuló szülőjének, értesítendő hozzátartozójának, a rá tekintettel családi pótlékra jogosult személynek neve, születési neve, születési helye és ideje, anyja születési családi és utóneve, lakóhelye, tartózkodási helye, telefonszáma, elektronikus levelezési címe,
 
 c) a gyermek óvodai fejlődésével kapcsolatos adatok, ennek keretében az, hogy a gyermek igénybe vette-e és milyen időtartamban a Biztos Kezdet Gyerekházak szolgáltatásait,
 

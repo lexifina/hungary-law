@@ -16,7 +16,7 @@ c) matematika,
 
 d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára anyanyelv és irodalom,
 
-e) kötelezően választandó vizsgatárgy; szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy.
+e) kötelezően választandó vizsgatárgy.
 
 (2a) Szakgimnáziumban a kötelezően választandó vizsgatárgy képesítő vizsgával kiváltható.
 
