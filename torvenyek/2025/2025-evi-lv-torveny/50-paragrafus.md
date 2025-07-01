@@ -4,6 +4,6 @@ a)
 
 b)
 
-c)
+c) „Munkaközi szünetek” alcím címe,
 
-d)
+d) „Heti pihenőidő” alcím címe.
