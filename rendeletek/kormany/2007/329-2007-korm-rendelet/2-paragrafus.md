@@ -8,34 +8,35 @@ b) a Repülőtéri Rendőr Igazgatóság,
 
 c)[^4]
 
-d) a Nemzetközi Bűnügyi Együttműködési Központ,
+d)[^5]
 
 e) a Rendőrségi Oktatási és Kiképző Központ,
 
-f)[^5] a Nemzetközi Oktatási Központ.
+f)[^6] a Nemzetközi Oktatási Központ.
 
-(2)[^6] Az általános rendőri szerv (1) bekezdésben meghatározott szerveinek székhelyét az 1. melléklet állapítja meg.
+(2)[^7] Az általános rendőri szerv (1) bekezdésben meghatározott szerveinek székhelyét az 1. melléklet állapítja meg.
 
-(3)[^7] A Készenléti Rendőrség az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
+(3)[^8] A Készenléti Rendőrség az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
 
-(4)[^8] A Repülőtéri Rendőr Igazgatóság az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
+(4)[^9] A Repülőtéri Rendőr Igazgatóság az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
 
-(5)[^9]
+(5)[^10]
 
-(6)[^10] A Nemzetközi Bűnügyi Együttműködési Központ az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
+(6)[^11]
 
-(7)[^11] A Rendőrségi Oktatási és Kiképző Központ az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
+(7)[^12] A Rendőrségi Oktatási és Kiképző Központ az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
 
-(8)[^12] A Nemzetközi Oktatási Központ az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
+(8)[^13] A Nemzetközi Oktatási Központ az ORFK irányítása alatt álló, rendőri szervként működő, központi költségvetési szerv.
 
 [^2]: Az 1. § a 361/2010. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés c) pontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § (1) bekezdés f) pontját a 227/2016. (VII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^6]: A 2. § (2) bekezdése a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^8]: A 2. § (4) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^9]: A 2. § (5) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése.
-[^10]: A 2. § (6) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^11]: A 2. § (7) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^12]: A 2. § (8) bekezdését a 227/2016. (VII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés d) pontját a 111/2025. (V. 26.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés f) pontját a 227/2016. (VII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^7]: A 2. § (2) bekezdése a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 2. § (4) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 2. § (5) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése.
+[^11]: A 2. § (6) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, a 111/2025. (V. 26.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^12]: A 2. § (7) bekezdését a 164/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 2. § (8) bekezdését a 227/2016. (VII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

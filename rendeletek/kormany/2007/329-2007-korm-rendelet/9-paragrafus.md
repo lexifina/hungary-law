@@ -1,4 +1,4 @@
-9. §[^66] A Készenléti Rendőrség az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt önálló feladat- és hatáskörrel, országos illetékességgel önálló szervként
+9. §[^68] A Készenléti Rendőrség az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt önálló feladat- és hatáskörrel, országos illetékességgel önálló szervként
 
 1. részt vesz az előre nem tervezhető, halaszthatatlan beavatkozást és csapaterőt igénylő feladatok végrehajtásában;
 
@@ -48,7 +48,7 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 
 20. a titkos információgyűjtésre, illetve leplezett eszközök alkalmazására feljogosított általános rendőri szerv szervei felkérése alapján végrehajtja a határon átnyúló megfigyeléseket, valamint ellenőrzött szállításokat;
 
-21.[^67] törvényben meghatározottak szerint végzi a büntetőeljárásról szóló 2017. évi XC. törvény 820. § (2) bekezdése alapján a bűncselekményből származó vagyon visszaszerzését, valamint részt vesz a büntetőeljárásról szóló 2017. évi XC. törvény 353. § (1) bekezdése szerinti feladat ellátásában;
+21.[^69] törvényben meghatározottak szerint végzi a büntetőeljárásról szóló 2017. évi XC. törvény 820. § (2) bekezdése alapján a bűncselekményből származó vagyon visszaszerzését, valamint részt vesz a büntetőeljárásról szóló 2017. évi XC. törvény 353. § (1) bekezdése szerinti feladat ellátásában;
 
 22. a 16–18. pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez;
 
@@ -62,11 +62,11 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 
 27. gazdálkodik az általános rendőri szerv titkos információgyűjtésre és leplezett eszköz alkalmazására feljogosított szervei speciális működési kiadásait biztosító elkülönített előirányzattal.
 
-28.[^68] közreműködik a büntetőeljárásokhoz kapcsolódó adatmentési feladatokban a szabad kapacitások terhére;
+28.[^70] közreműködik a büntetőeljárásokhoz kapcsolódó adatmentési feladatokban a szabad kapacitások terhére;
 
-29.[^69] ellátja a poligráfos szaktanácsadói tevékenységet.
+29.[^71] ellátja a poligráfos szaktanácsadói tevékenységet.
 
-[^66]: A 9. § a 37/2023. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^67]: A 9. § 21. pontja a 280/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^68]: A 9. § 28. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
-[^69]: A 9. § 29. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^68]: A 9. § a 37/2023. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^69]: A 9. § 21. pontja a 280/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^70]: A 9. § 28. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^71]: A 9. § 29. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.

@@ -12,13 +12,17 @@ e) az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (E
 
 f) a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló, 2013. június 26-i 603/2013/EU európai parlamenti és tanácsi rendelet,
 
-g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1987/2006/EK rendelet),
+g)[^187]
 
 h) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet (a továbbiakban: 2018/1862 európai parlamenti és tanácsi rendelet)
 
-i)[^187] a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
+i)[^188] a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
 
-j)[^188] a személyek határátlépésére irányadó szabályok uniós kódexéről szóló (EU) 2016/399 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1717 európai parlamenti és tanácsi rendelet
+j)[^189] a személyek határátlépésére irányadó szabályok uniós kódexéről szóló (EU) 2016/399 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1717 európai parlamenti és tanácsi rendelet
+
+k)[^190] a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet,
+
+l)[^191] a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -30,7 +34,7 @@ b) a nemzetközi vonatkozású labdarúgó-mérkőzésekkel kapcsolatos biztons�
 
 c) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
 
-d) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat (a továbbiakban: 2007/533/IB határozat),
+d)[^192]
 
 e) a határokon átnyúló vonatkozású, járművekkel kapcsolatos bűncselekmények üldözéséről szóló, 2004. december 22-i 2004/919/EK tanácsi határozat,
 
@@ -39,5 +43,9 @@ f) a SIRENE Kézikönyvről és a Schengeni Információs Rendszer második gene
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^186]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^187]: A 17. § (1) bekezdés i) pontját a 13/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.
-[^188]: A 17. § (1) bekezdés j) pontját a 13/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.
+[^187]: A 17. § (1) bekezdés g) pontját a 111/2025. (V. 26.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^188]: A 17. § (1) bekezdés i) pontját a 13/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.
+[^189]: A 17. § (1) bekezdés j) pontját a 13/2025. (II. 18.) Korm. rendelet 3. §-a iktatta be.
+[^190]: A 17. § (1) bekezdés k) pontját a 111/2025. (V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^191]: A 17. § (1) bekezdés l) pontját a 111/2025. (V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^192]: A 17. § (2) bekezdés d) pontját a 111/2025. (V. 26.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.
