@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-493-20-
 | 2022-12-23 | 2015-493-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2015-493-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2025-06-20 | 2015-493-20-22.5 | 147/2025. (VI. 19.) Korm. rendelet |
+| 2025-07-01 | 2015-493-20-22.6 | 178/2025. (VI. 30.) Korm. rendelet |
