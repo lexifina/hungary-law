@@ -34,40 +34,17 @@
 
 (2)[^92] A Nemzetközi Világjátékok Szövetségének (GAIFS) IWGA Világjátékaira, a Küzdősportok Világjátékaira, a nem olimpiai sportágak részére rendezett sport világeseményekre való felkészülés szakmai feladatainak ellátását, az e versenyeken való részvételt, továbbá az Európai Olimpiai Bizottság által rendezett Európai Játékokon, és a Nemzeti Olimpiai Bizottságok Szövetsége (ANOC) által megrendezett versenyeken részt vevő nem olimpiai sportágak felkészülését szolgáló költségvetési támogatás felhasználása során az (1) bekezdés 1–9. pontjában meghatározott tételek számolhatók el.
 
-(3) A költségvetési támogatások összegének meghatározásakor az országos sportági szakszövetségek, országos sportági szövetségek esetében a következő feltételeket kell figyelembe venni:
+(3)[^93]
 
-a) a sportágban kiadott belföldi versenyengedélyek száma több mint ötszáz,
+(4)[^94]
 
-b) a szövetségi tagszervezetek száma több mint húsz,
+(5)[^95]
 
-c) a sportági eredményesség (IWGA Világjátékokon, világbajnokságon elért 1–8. helyezés, Európa-bajnokságon elért 1–6. helyezés).
-
-(4)[^93] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, az (1) bekezdés szerinti költségvetési támogatása az adott évben nem lehet több egymillió-ötszázezer forintnál.
-
-(5)[^94] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, az (1) bekezdésben foglaltak költségvetési támogatására rendelkezésre álló összeg
-
-a) huszonöt százalékának felosztása a Nemzeti Versenysport Szövetség szakmai javaslata és a sportági eredményesség alapján történik,
-
-b) hetvenöt százalékának felosztása a következő arányok alapján történik:
-
-ba) a sportszövetség által fizetendő nemzetközi tagdíjak egyszeres szorzóval,
-
-bb) a sportágban kiadott belföldi versenyengedélyek száma négyszeres szorzóval,
-
-bc) a sportszövetségi tagszervezetek száma négyszeres szorzóval,
-
-bd) a sportszövetség közgyűlése által elfogadott mérleg szerinti éves költségvetés egyszeres szorzóval,
-
-be) a sportági tradíciók (a magyar sportszövetség megalakulása óta eltelt évek) háromszoros szorzóval,
-
-bf) egyéb, előre nem számszerűsíthető szempontok, így a sportág szállítási igénye kétszeres szorzóval, pályaigénye kétszeres szorzóval, technikai igényei és állatok bevonásának igénye négyszeres szorzóval, edzőpartner bevonásának igénye négyszeres szorzóval, női és férfi szakágai hatszoros szorzóval, olimpiai szakágak száma hatszoros szorzóval
-
-számítandó.
-
-(6)[^95] A (2) bekezdés szerinti, és a versenysport fejlesztésére irányuló szakmai feladatok megvalósítását szolgáló költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
+(6)[^96] A (2) bekezdés szerinti, és a versenysport fejlesztésére irányuló szakmai feladatok megvalósítását szolgáló költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
 
 [^91]: A 37. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
 [^92]: A 37. § (2) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
-[^93]: A 37. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 13. pontja szerint módosított szöveg.
-[^94]: A 37. § (5) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 14. pontja szerint módosított szöveg.
-[^95]: A 37. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
+[^93]: A 37. § (3) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^94]: A 37. § (4) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^95]: A 37. § (5) bekezdését a 177/2025. (VI. 30.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^96]: A 37. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.

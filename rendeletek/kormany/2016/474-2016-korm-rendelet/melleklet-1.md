@@ -1,3 +1,3 @@
-1. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^177]
+1. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^178]
 
-[^177]: Az 1. mellékletet a 658/2023. (XII. 28.) Korm. rendelet 6. § i) pontja hatályon kívül helyezte.
+[^178]: Az 1. mellékletet a 658/2023. (XII. 28.) Korm. rendelet 6. § i) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 53. §[^169] E rendeletnek a sport tárgyú kormányrendeletek módosításáról szóló 279/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 17. § (1) bekezdés 10., 11a. és 11b. pontját a Módr. hatálybalépésekor[^170] folyamatban lévő ügyekben is alkalmazni kell.
+## 53. §[^170] E rendeletnek a sport tárgyú kormányrendeletek módosításáról szóló 279/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 17. § (1) bekezdés 10., 11a. és 11b. pontját a Módr. hatálybalépésekor[^171] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^169]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 279/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be.
-[^170]: A hatálybalépés napja 2018. december 22.
+[^170]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 279/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be.
+[^171]: A hatálybalépés napja 2018. december 22.

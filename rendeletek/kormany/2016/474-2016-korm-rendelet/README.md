@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-474-20-
 | 2023-12-29 | 2016-474-20-22.22 | 658/2023. (XII. 28.) Korm. rendelet |
 | 2025-02-01 | 2016-474-20-22.23 | 428/2024. (XII. 23.) Korm. rendelet |
 | 2025-02-19 | 2016-474-20-22.24 | 18/2025. (II. 18.) Korm. rendelet |
+| 2025-07-01 | 2016-474-20-22.25 | 177/2025. (VI. 30.) Korm. rendelet |
