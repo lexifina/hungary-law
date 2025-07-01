@@ -1,4 +1,4 @@
-## A középiskolákban, valamint szakképző intézményekben végzett járművezető képzésre vonatkozó eltérő szabályok[^297]
+## A középiskolákban, valamint szakképző intézményekben végzett járművezető képzésre vonatkozó eltérő szabályok[^298]
 
 38/B. § (1) A 3–10. §-ban, a 12. §-ban, a 14. §-ban és a 15. §-ban foglaltakat az Nkt. 30/B. §-a, valamint az Szkt. 35/B. §-a szerinti gépjárművezetői elméleti tanfolyam (a továbbiakban együtt: középiskolás járművezetői tanfolyam) és elméleti vizsga (a továbbiakban: középiskolás járművezetői elméleti vizsga) tekintetében az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
@@ -52,4 +52,4 @@ b) a vizsgázó elfogulatlan felügyelete tőle egyéb okból nem várható el.
 
 (18) A 7/B. § (2) bekezdésében foglaltak, a 12. § szóbeli és írásbeli elméleti vizsgára vonatkozó rendelkezései, valamint a 17. § (2) bekezdésében foglaltak nem alkalmazandóak a középiskolás járművezetői tanfolyamra.
 
-[^297]: Az „A középiskolákban, valamint szakképző intézményekben végzett járművezető képzésre vonatkozó eltérő szabályok” alcímet (38/B. §-t) a 38/2024. (XI. 21.) ÉKM rendelet 2. §-a iktatta be.
+[^298]: Az „A középiskolákban, valamint szakképző intézményekben végzett járművezető képzésre vonatkozó eltérő szabályok” alcímet (38/B. §-t) a 38/2024. (XI. 21.) ÉKM rendelet 2. §-a iktatta be.

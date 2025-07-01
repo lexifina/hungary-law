@@ -1,4 +1,4 @@
-38/A. §[^296] (1) A Rendszer akkor akkreditálható, ha
+38/A. §[^297] (1) A Rendszer akkor akkreditálható, ha
 
 a) a képző szerv az akkreditációs időszak teljes idejére igazolja a tanúsított és szabványos Rendszer jogszerű felhasználhatóságát legalább ezer konkurens (egyidejű) felhasználóra vonatkozóan,
 
@@ -42,4 +42,4 @@ b) alkalmas a szakoktató elektronikus vezetési karton rendszerbe történő be
 
 c) alkalmas a gyakorlati képzésben részt vevő tanuló és a gyakorlati foglalkozások adatai legalább 5 éves időtartamú megőrzésére.
 
-[^296]: A 38/A. §-t a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 48. §-ával megállapított szöveg.
+[^297]: A 38/A. §-t a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 48. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 ## 2. Szakoktatói képesítések
 
-## 2.1.[^318] A szakoktatói képesítési szakok:
+## 2.1.[^319] A szakoktatói képesítési szakok:
 
 ## 2.1.1. „Közlekedési ismeretek”
 
@@ -46,7 +46,7 @@
 
 ## A nem említett szakképesítések elfogadásáról a közlekedési hatóság egyedi elbírálás alapján határoz.
 
-## 2.7.[^319] A „ „B” kategóriás járművezetési gyakorlat” szakos képesítés kizárólag a nemzeti köznevelésről szóló törvény és a szakképzésről szóló törvény szerinti tanulók „B” kategóriás vezetői engedély megszerzésére irányuló gyakorlati oktatására jogosít.
+## 2.7.[^320] A „ „B” kategóriás járművezetési gyakorlat” szakos képesítés kizárólag a nemzeti köznevelésről szóló törvény és a szakképzésről szóló törvény szerinti tanulók „B” kategóriás vezetői engedély megszerzésére irányuló gyakorlati oktatására jogosít.
 
 ## 3. A tanfolyami képzés
 
@@ -102,7 +102,7 @@
 
 ## Azokban a közoktatási intézményekben (iskolákban), ahol a közúti járművezető-képzés beépült az iskolai tantervbe, a tanulók vizsgára bocsátásának feltétele, hogy az iskolai tantervet a vizsgaközpont jóváhagyja.
 
-## 3.2.1.[^320] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok [járművezetési gyakorlat esetén a 3.6.1. pont e) alpontja szerinti percben kifejezett tanóra időtartammal számolva]
+## 3.2.1.[^321] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok [járművezetési gyakorlat esetén a 3.6.1. pont e) alpontja szerinti percben kifejezett tanóra időtartammal számolva]
 
 |  | A | B | C | D |
 
@@ -146,7 +146,7 @@
 
 | 20 | D | 22 | X | X | X | – | – | 24 | – | – | 14 | 6 | – | – | 4 | 550 |  |
 
-| 21 | D[^321] | 36 | X | X | X | – | X | 36 | – | – | 20 | 10 | 2 | – | 4 | 850 | „C” kategóriára érvényes vezetői engedély nélkül. |
+| 21 | D[^322] | 36 | X | X | X | – | X | 36 | – | – | 20 | 10 | 2 | – | 4 | 850 | „C” kategóriára érvényes vezetői engedély nélkül. |
 
 | 22 | BE | 18 | X | X | X | – | X | 11 | – | – | 4 | 4 | – | – | 3 | 220 |  |
 
@@ -236,7 +236,7 @@
 
 ## 3.5.1.1. A járművezetési gyakorlat oktatása csak a tanuló nevére kiállított, a vizsgaközpont részére elektronikusan bejelentett és a vizsgaközpont által elektronikusan generált egyedi azonosítóval ellátott vezetési karton vagy az elektronikus vezetési karton birtokában kezdhető meg.
 
-## 3.5.1.2. A járművezetési gyakorlat oktatása során – a kétkerekű járművek vezetésének oktatását kivéve – egy oktató egyidejűleg csak egy tanuló oktatását végezheti. A kétkerekű járművek vezetésének oktatása során egy oktató egyidejűleg az alapoktatási feladatok oktatásánál maximum három főt, a főoktatásnál maximum két főt oktathat.
+## 3.5.1.2.[^323] A járművezetési gyakorlat oktatása során – a kétkerekű járművek vezetésének oktatását és a szimulátoron végzett „B” kategóriás vezetési gyakorlatokat kivéve – egy oktató egyidejűleg csak egy tanuló oktatását végezheti. A kétkerekű járművek vezetésének oktatása során egy oktató egyidejűleg az alapoktatási feladatok oktatásánál maximum három főt, a főoktatásnál maximum két főt, a szimulátoron végzett „B” kategóriás vezetési gyakorlat esetén maximum három főt oktathat.
 
 ## 3.5.1.3. A jármű biztonsági ellenőrzésére, technikai kezelésére, valamint a manőverezési feladatok elsajátítására irányuló alapoktatást – a 6. § (3a) bekezdésében foglaltakat is figyelembe véve – alapvetően gyakorlópályán kell végezni. Pedagógiai és módszertani szempontok alapján azonban a jármű technikai kezelésének oktatása részben – a szakoktató által elfogadhatónak tekintett forgalmi körülmények mellett, valamint a kétkerekű járművek vezetőinek oktatását ide nem értve – a közúti forgalomban is történhet. Ahol ez előírt, sikeres járműkezelési vizsga előtt a közúti forgalomban végzett oktatás ideje azonban ilyen esetben is csak az alapoktatás része.
 
@@ -346,7 +346,7 @@
 
 ## A szakoktatók napi megengedett oktatási órakeretébe a vizsgák időtartama nem számít bele.
 
-## 3.6.2.[^322] A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6.1. pont e) alpontja szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
+## 3.6.2.[^324] A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6.1. pont e) alpontja szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
 
 ## 4. Mentesítések
 
@@ -452,11 +452,12 @@
 
 ## A mentesítési kérelmek elbírálásakor a szakma megnevezését és a szakképesítés szakmai tartalmát kell meghatározónak tekinteni.
 
-4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^323]
+4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^325]
 
-[^318]: A 3. számú melléklet 2. pont 2.1. alpontja a 28/2024. (VIII. 15.) ÉKM rendelet 4. §-ával megállapított szöveg.
-[^319]: A 3. számú melléklet 2. pont 2.7. alpontját a 28/2024. (VIII. 15.) ÉKM rendelet 4. §-a iktatta be.
-[^320]: A 3. számú melléklet 3.2.1. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^321]: A 3. számú melléklet 3.2.1. pontjában foglalt táblázat A:21 mezője az 54/2024. (XII. 30.) ÉKM rendelet 18. §-a szerint módosított szöveg.
-[^322]: A 3. számú melléklet 3.6.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^323]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
+[^319]: A 3. számú melléklet 2. pont 2.1. alpontja a 28/2024. (VIII. 15.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^320]: A 3. számú melléklet 2. pont 2.7. alpontját a 28/2024. (VIII. 15.) ÉKM rendelet 4. §-a iktatta be.
+[^321]: A 3. számú melléklet 3.2.1. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^322]: A 3. számú melléklet 3.2.1. pontjában foglalt táblázat A:21 mezője az 54/2024. (XII. 30.) ÉKM rendelet 18. §-a szerint módosított szöveg.
+[^323]: A 3. számú melléklet 3.5.1.2. pontja a 18/2025. (VI. 26.) ÉKM rendelet 11. §-ával megállapított szöveg.
+[^324]: A 3. számú melléklet 3.6.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^325]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.

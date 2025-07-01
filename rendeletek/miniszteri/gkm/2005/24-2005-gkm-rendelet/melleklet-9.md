@@ -4,7 +4,7 @@
 
 ## Vizsgát az a vizsgázó tehet, aki a vizsgajegyzőkönyvön szerepel, a kiírás szerinti időpontban a vizsga helyszínén vizsgára alkalmas állapotban megjelent, és a személyazonosságát hitelt érdemlően igazolni tudja. A már hitelesített (lezárt) vizsgajegyzőkönyvre további vizsgázó nem vehető fel.
 
-## 1.2.[^340] Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje
+## 1.2.[^342] Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje
 
 |  | A | B | C | D |
 
@@ -414,10 +414,10 @@
 
 ## 38. a jelzőcsengő megszólalása után nyitott ajtóval indul el a trolibusszal.
 
-## 1.9.[^341] A forgalmi vizsga idejébe nem számít bele a kérelmező fogadása, a jármű közúti közlekedésbiztonsággal összefüggő műszaki ellenőrzése, valamint a gyakorlati vizsga eredményének kihirdetése.
+## 1.9.[^343] A forgalmi vizsga idejébe nem számít bele a kérelmező fogadása, a jármű közúti közlekedésbiztonsággal összefüggő műszaki ellenőrzése, valamint a gyakorlati vizsga eredményének kihirdetése.
 
-9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^342]
+9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^344]
 
-[^340]: A 8. számú melléklet 1.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^341]: A 8. számú melléklet 1.9. pontját a 15/2024. (VI. 12.) ÉKM rendelet 4. § (2) bekezdése iktatta be.
-[^342]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.
+[^342]: A 8. számú melléklet 1.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^343]: A 8. számú melléklet 1.9. pontját a 15/2024. (VI. 12.) ÉKM rendelet 4. § (2) bekezdése iktatta be.
+[^344]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.
