@@ -4,6 +4,8 @@
 
 (2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet.
 
+(2a) Az elektronikus okirati formába alakítás során a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója a papíralapú okiratról oldalhű elektronikus másolat készítése körében közreműködhet.
+
 (3) A 3. § (1) bekezdés l) pontjában meghatározott kiegészítő jellegű tevékenység ellátása során az ügyvéd kizárólag a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását használhatja.
 
 (4) Ha az ügyvéd az elektronikus okirati formába alakítás során az elektronikus másolaton a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását és időbélyegzőt helyez el, az ellenkező bizonyításáig úgy kell tekinteni, hogy az elektronikus okirat a papíralapú okirattal az időbélyegzőben megjelölt időpontban mindenben megegyezett.

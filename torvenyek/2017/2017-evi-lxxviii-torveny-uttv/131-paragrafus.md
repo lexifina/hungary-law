@@ -12,6 +12,8 @@ b) az eljárást megszünteti,
 
 és dönt az eljárási költség viseléséről.
 
+(3a) A fegyelmi tanács az eljárás megszüntetése mellett írásban figyelmeztetést alkalmazhat, ha az eljárás alá vont személy felelősségét kisebb súlyú fegyelmi vétségben állapítja meg.
+
 (4) A határozatot a fegyelmi tanács elnöke és tagjai írják alá.
 
 (5) A határozatot és indokait szóban ki kell hirdetni, és harminc napon belül intézkedni kell az eljárás alá vont személy, a képviselője, valamint a fegyelmi biztos részére történő kézbesítés iránt.

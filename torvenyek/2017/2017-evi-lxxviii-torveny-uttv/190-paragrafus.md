@@ -48,8 +48,8 @@ e) a területi kamara által kijelölt irodagondnok nevét, hivatali levelezési
 
 f) az egyszemélyes ügyvédi iroda helyettes ügyvédje nevét és kamarai azonosító számát.
 
-(3) Az ügyvédi kamarai nyilvántartás az (1) bekezdés 1–13. pontja és a (2) bekezdés a) és b) pontja szerinti adatokat közhitelesen tartalmazza.
+(3) Az ügyvédi kamarai nyilvántartás az (1) bekezdés 1–13. és 17. pontja, valamint a (2) bekezdés a) és b) pontja szerinti adatokat közhitelesen tartalmazza.
 
-(4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12. pontja és a (2) bekezdése szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
+(4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12., 16. és 17. pontja, valamint a (2) bekezdés szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
 (5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.

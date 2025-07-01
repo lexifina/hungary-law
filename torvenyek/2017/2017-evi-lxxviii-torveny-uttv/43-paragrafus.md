@@ -6,7 +6,7 @@
 
 a) több oldalból álló okirat esetén folyamatos oldalszámozással kell ellátni,
 
-b) papíralapú okirat esetén annak minden oldalán a feleknek vagy arra az okiratban meghatalmazott félnek kézjegyével kell ellátnia,
+b) papíralapú okirat vagy papír alapú okirati példány esetén annak minden oldalán a feleknek vagy arra az okiratban meghatalmazott félnek kézjegyével kell ellátnia,
 
 c) a feleknek alá kell írniuk,
 
@@ -24,7 +24,7 @@ c) a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) 
 
 (2c) Jogi személy vagy jogi személyiség nélküli szervezet esetében az elektronikus okiratot a képviseletére jogosult természetes személy a (2a) vagy a (2b) bekezdés szerint írja alá.
 
-(3) Az ellenjegyző ügyvéd a papíralapú okiraton az aláírása oldalán a szárazbélyegzőjének a lenyomatát elhelyezi, az elektronikus okiratot a 18. § (1) bekezdés szerinti követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel látja el.
+(3) Az ellenjegyző ügyvéd a papíralapú okiraton az aláírása oldalán a szárazbélyegzőjének a lenyomatát elhelyezi, az elektronikus okiratot vagy elektronikus okirati formába alakított okirati példányt a 18. § (1) bekezdés szerinti követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel látja el.
 
 (4) A (2) bekezdés b) pontjában foglalt követelmény alkalmazása mellőzhető, ha a papíralapú okirat lapjait az ellenjegyző ügyvéd úgy fűzi össze, hogy az az okirat sérelme nélkül ne legyen megbontható.
 

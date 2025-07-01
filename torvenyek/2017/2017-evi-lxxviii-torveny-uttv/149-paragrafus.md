@@ -14,6 +14,8 @@ f) a kamarai szabályzatban előírt továbbképzési kötelezettségének nem t
 
 g) adószámát véglegesen törölték.
 
+(1a) A területi kamara megszünteti a kamarai tagságot, ha ezt a kamarai tag lemondás útján kéri és igazolja az 54. § (1) bekezdése szerinti feltételek teljesítését.
+
 (2) A területi kamarába az 58. § (2) vagy (3) bekezdése alapján felvett ügyvéd kamarai tagságát az ügyvédi kamara megszünteti, ha az ügyvéd a saját EGT-államában az ügyvédi tevékenység folytatására való jogosultsága megszűnt és az ügyvédi kamarai tagság 58. § szerinti feltételei nem állnak fenn.
 
 (3) A területi kamara megszünteti annak az alkalmazott ügyvédnek a kamarai tagságát, aki a munkaviszonya megszűnésének napjától számított három hónapon belül más ügyvéddel, ügyvédi irodával nem létesített alkalmazott ügyvédi munkaviszonyt.

@@ -18,7 +18,7 @@ h) a nem igazságügyi szakértői tevékenység,
 
 i) a választási bizottsági tagság,
 
-j) az adatvédelmi tisztviselői tevékenység,
+j) a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 7. § 9. pontja szerinti ESG tanácsadói tevékenység,
 
 k) a végelszámolói feladat ellátása,
 

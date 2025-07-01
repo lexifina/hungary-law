@@ -15,3 +15,11 @@ e) a másodfokú eljárásban az, aki az elsőfokú eljárásban eljárt, vagy
 f) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
 
 (2) A Magyar Ügyvédi Kamara fegyelmi szabályzatában meghatározott esetekben az elfogultságot vélelmezni kell.
+
+(3) A kizárási ok bejelentésének az eljárás bármely szakaszában – a fegyelmi eljárást befejező határozat meghozataláig – helye van, azonban az (1) bekezdés f) pontja szerinti okra az eljárás alá vont személy csak akkor hivatkozhat, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről
+
+a) az előzetes vizsgálat során és az ügy tárgyaláson kívüli elbírálása esetén az egyes eljárási cselekményeket követően,
+
+b) a fegyelmi tárgyalás során a tárgyalás megkezdését követően
+
+szerzett tudomást, és a tudomásszerzéstől számítva az okot haladéktalanul, de legkésőbb három napon belül bejelenti.

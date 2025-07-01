@@ -6,7 +6,7 @@
 
 (3) Az ügyvéd a természetes személy adatai a nyilvántartott adatokkal való egyezőségének és az általa bemutatott okmányok érvényességének ellenőrzése érdekében a személyiadat- és lakcímnyilvántartásból, a járművezetőiengedély-nyilvántartásból, az útiokmány-nyilvántartásból és a központi idegenrendészeti nyilvántartásból elektronikus úton a következő adatokat igényelheti:
 
-a) természetes személyazonosító adatok,
+a) természetes személyazonosító adatok és személyi azonosító,
 
 b) állampolgárság, hontalanság, menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 
@@ -34,7 +34,11 @@ i) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás�
 
 (8) A magyar állampolgársággal vagy magyarországi lakcímmel rendelkező személynek a (7) bekezdés szerinti azonosítása során az okirat ellenjegyzését megelőzően az ügyvéd köteles a bemutatott okmányra vonatkozó, a (3) bekezdés szerinti adatokat igényelni, kivéve, ha az adatigénylésre az érintett személy vonatkozásában harminc napon belül már sor került.
 
-(8a) A kamarai jogtanácsos a (8) bekezdés szerinti esetben az okirat ellenjegyzését megelőzően nem köteles a bemutatott okmányra vonatkozó, a (3) bekezdés szerinti adatokat igényelni, ha a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az érintett személy vonatkozásában – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítás keretében – a személyazonosság igazoló ellenőrzését és a bemutatott okmányra vonatkozó okmányellenőrzést közhiteles nyilvántartásból való adatlekérdezés útján, az okirat ellenjegyzését megelőző harminc napon belül elvégezte.
+(8a) A kamarai jogtanácsos a (8) bekezdés szerinti esetben az okirat ellenjegyzését megelőzően nem köteles a bemutatott okmányra vonatkozó, a (3) bekezdés szerinti adatokat igényelni, ha
+
+a) a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az érintett személy vonatkozásában – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott ügyfél-átvilágítás keretében – a személyazonosság igazoló ellenőrzését és a bemutatott okmányra vonatkozó okmányellenőrzést közhiteles nyilvántartásból való adatlekérdezés útján, az okirat ellenjegyzését megelőző harminc napon belül elvégezte, vagy
+
+b) a kamarai jogtanácsos ügyfelének képviselőjét az azonosítást végző személy ismeri, vagy személyazonosságát illetően kétsége nem merül fel.
 
 (9) Az adatigénylésért a (8) bekezdésben meghatározott esetben, illetve ha arra okirat ellenjegyzését vagy okirat ellenjegyzésével járó megbízási szerződés megkötését megelőzően kerül sor, sem az ügyvédtől, sem az azonosított személytől vagy szervezettől nem kérhető díj, költségtérítés vagy más ellenérték.
 

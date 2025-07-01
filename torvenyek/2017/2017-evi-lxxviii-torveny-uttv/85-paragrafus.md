@@ -4,7 +4,7 @@
 
 85. § (1) A területi kamara irodagondnokot jelöl ki az ügyvédi kamarai nyilvántartásba irodagondnoki tevékenység folytatására jogosultként bejegyzett ügyvédek közül:
 
-a) az elhunyt ügyvéd és európai közösségi jogász ügyvédi irodája részére, ha az irodának nem marad ügyvédi tevékenységet gyakorló tagja,
+a) az ügyvédi iroda vagy európai közösségi jogászi iroda részére, ha az irodának nem marad ügyvédi tevékenységet gyakorló tagja,
 
 b) az ügyvéd és európai közösségi jogász részére, ha
 

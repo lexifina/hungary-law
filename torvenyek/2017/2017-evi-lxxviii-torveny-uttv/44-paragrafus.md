@@ -28,11 +28,13 @@ aa) a fél aláírását az aláírás helye szerint illetékes konzuli tisztvis
 
 ab) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát a hivatásos konzuli tisztviselő felülhitelesítette,
 
-ac) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát Apostille tanúsítvánnyal látták el, vagy
+ac) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát Apostille tanúsítvánnyal látták el,
 
-ad) a fél aláírását közjegyző hitelesítette,
+ad) a fél aláírását közjegyző hitelesítette, vagy
 
-b) az (1) bekezdés d) pontját, ha az elektronikus okiratot a fél a 43. § (2a) bekezdés a) vagy b) pontja szerint írta alá.
+ae) az elektronikus okirat aláírása a 43. § (2b) bekezdésében foglalt elektronikus hitelesítés útján történt,
+
+b) az (1) bekezdés d) pontját, ha az elektronikus okiratot a fél a 43. § (2a) bekezdés a) pontja szerint írta alá.
 
 (6) Az okiratot az azt szerkesztő ügyvéd mellett – az okiratban megjelölt egyes felek vonatkozásában az (1) bekezdés c) és d) pontjaiban meghatározott körülmények fennállásának tanúsítására – más ügyvéd is ellenjegyezheti, azzal, hogy az érintett körülményeket az ellenjegyzésben fel kell tüntetni.
 

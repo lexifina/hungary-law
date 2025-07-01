@@ -6,6 +6,6 @@
 
 (4) Ha a fegyelmi eljárás alkalmazott ügyvéd ellen indult, az elsőfokú és a másodfokú fegyelmi tanács egy tagja alkalmazott ügyvéd.
 
-(5) Ha a fegyelmi tanács a (3) és (4) bekezdésben foglaltakra tekintettel a regionális fegyelmi bizottságból szabályszerűen nem alakítható meg, az országos fegyelmi bizottság elnöke intézkedik a fegyelmi tanács tagjának más regionális fegyelmi bizottságból történő kijelölése iránt.
+(5) Ha a fegyelmi tanács a (3) és (4) bekezdésben foglaltakra tekintettel a regionális fegyelmi bizottságból szabályszerűen nem alakítható meg, az országos fegyelmi bizottság elnöke intézkedik a fegyelmi tanács tagjának más regionális fegyelmi bizottságból történő kijelölése iránt. Ha az országos fegyelmi bizottság elnöke által kamarai jogtanácsos vagy alkalmazott ügyvéd tag nem jelölhető ki, akkor a fegyelmi tanács ügyvéd tagokból áll.
 
 (6) Ha a fegyelmi tanács határozatképtelenné válik, a fegyelmi bizottság elnöke új fegyelmi tanácsot jelöl ki.

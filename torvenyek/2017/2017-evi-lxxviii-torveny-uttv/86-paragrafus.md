@@ -1,4 +1,4 @@
-86. § (1) A területi kamara kérelemre az ügyvédi kamarai nyilvántartásban az irodagondnoki tevékenység folytatására való jogosultságát bejegyzi annak a legalább ötéves ügyvédi gyakorlattal rendelkező ügyvédnek, aki a kamara tagja. Nem jegyezhető be az irodagondnoki tevékenység folytatására való jogosultsága annak,
+86. § (1) A területi kamara kérelemre az ügyvédi kamarai nyilvántartásban az irodagondnoki tevékenység folytatására való jogosultságát bejegyzi annak a legalább ötéves ügyvédi joggyakorlattal rendelkező ügyvédnek, aki a kamara tagja. Nem jegyezhető be az irodagondnoki tevékenység folytatására való jogosultsága annak,
 
 a) aki ellen fegyelmi eljárás folyik vagy fegyelmi büntetés hatálya alatt áll,
 

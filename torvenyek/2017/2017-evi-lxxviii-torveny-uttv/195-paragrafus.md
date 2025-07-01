@@ -2,7 +2,7 @@
 
 ## A KÖZVETÍTŐI ELJÁRÁS
 
-195. § (1) A területi kamara elnöke – ha a bejelentés alapján a bejelentő és az ügyvédi tevékenység gyakorlója közötti, megbízási jogviszonyukkal összefüggésben álló vita várhatóan közvetítői eljárás során rendezhető – tájékoztatja a bejelentőt és az ügyvédi tevékenység gyakorlóját a közvetítői eljárás lényegéről, igénybevételének lehetőségéről.
+195. § (1) A területi kamara elnöke – ha a bejelentés alapján a bejelentő és az ügyvédi tevékenység gyakorlója közötti, az ügyvédi tevékenységgel összefüggő vita várhatóan közvetítői eljárás során rendezhető – tájékoztatja a bejelentőt és az ügyvédi tevékenység gyakorlóját a közvetítői eljárás lényegéről, igénybevételének lehetőségéről.
 
 (2) Ha a bejelentő a felajánlott közvetítői eljárást
 

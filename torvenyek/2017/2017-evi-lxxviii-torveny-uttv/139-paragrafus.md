@@ -8,9 +8,9 @@
 
 (4) A bíróság határozatában a jogsértő, illetve az ügy érdemére kiható eljárási jogszabálysértéssel meghozott fegyelmi határozatot megsemmisíti és
 
-a) az elsőfokú fegyelmi tanácsot új eljárásra utasítja,
+a) a határozatot hozó fegyelmi tanácsot, indokolt esetben az elsőfokú fegyelmi tanácsot új eljárásra utasítja,
 
-b) az elsőfokú fegyelmi tanácsot az eljárás megszüntetésére utasítja, vagy
+b) a határozatot hozó fegyelmi tanácsot az eljárás megszüntetésére utasítja, vagy
 
 c) az elsőfokú fegyelmi határozatot hatályában fenntartja.
 

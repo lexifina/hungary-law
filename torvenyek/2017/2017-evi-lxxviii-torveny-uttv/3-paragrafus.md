@@ -22,9 +22,11 @@ j) ingatlanközvetítői tevékenység,
 
 k) társasházi közös képviselői tevékenység,
 
-l) nem az ügyvédi tevékenység gyakorlója által készített papíralapú dokumentum elektronikus okirati formába alakítása, valamint
+l) nem az ügyvédi tevékenység gyakorlója által készített papíralapú dokumentum elektronikus okirati formába alakítása,
 
 m) közvetítői eljárásban és büntetőügyekben folytatott közvetítői tevékenység.
+
+n) adatvédelmi tisztviselői tevékenység.
 
 (2) Az (1) bekezdésben meghatározott tevékenységeket az ügyvédi tevékenység gyakorlója e minőségében, de az adott tevékenységre irányadó jogszabályokban meghatározottak szerint folytathatja.
 

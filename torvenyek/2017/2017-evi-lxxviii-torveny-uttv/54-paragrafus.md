@@ -16,4 +16,4 @@ c) arcképes igazolványát a területi kamarában a szüneteltetés időtartam�
 
 (4) Ha a 23. § (3) bekezdése szerinti megbízatás az érintett tisztségviselő jogállását szabályozó törvény alapján az ügyvédi tevékenység gyakorlásával összeférhetetlen, az ügyvédi tevékenység természetes személy gyakorlója a megbízatás időtartama alatt ügyvédi tevékenységét szünetelteti. A megbízatást és annak a megszűnését a területi kamarának be kell jelenteni, amely azt hivatalból nyilvántartásba veszi.
 
-(5) Az ügyvédi tevékenység szüneteltetésének az időtartama nem lehet rövidebb, mint három hónap és – a (4) bekezdésben meghatározott kivétellel – ötévenként meghosszabbítandó.
+(5) Az ügyvédi tevékenység szüneteltetésének az időtartama nem lehet rövidebb, mint három hónap és – a (4) bekezdésben meghatározott kivétellel – legalább ötévenként kérelemre meghosszabbítandó.
