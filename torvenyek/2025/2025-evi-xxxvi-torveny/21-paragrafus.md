@@ -1,0 +1,9 @@
+21. § (1) A Vksztv. 55/I. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közüzemi hálózatra való rákötés kivételével az ivóvíz-bekötővezeték kiépítésére, fertőtlenítésére, a nyomáspróbára, a működőképességi és vízzárósági próbára, továbbá a szennyvíz-bekötővezeték létesítésére, annak a már üzemeltetett szennyvíz-törzshálózatra való bekötésére az igénybejelentő – a víziközmű-szolgáltató helyett – a kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában szereplő személynek is megbízást adhat. A kivitelezési jogosultsággal rendelkező vízszerelő alkalmazása esetén a kivitelező vagy az igénybejelentő köteles a víziközmű-szolgáltatónál az üzletszabályzat szerinti szakfelügyeletet megrendelni, a víziközmű-szolgáltató pedig legkésőbb 3 munkanapon belül nyilatkozni a szakfelügyelet szükségességéről és annak ellátásáról, azzal, hogy amennyiben határidőben nem nyilatkozik, úgy kell tekinteni, hogy a szakfelügyelet biztosításától eltekint. A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartását a műszaki biztonsági hatóság vezeti.”
+
+(2) A Vksztv. 55/I. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) A geodéziai bemérésre az igénybejelentő – a víziközmű-szolgáltató helyett – a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletben meghatározott szakképzettséggel rendelkező személynek is megbízást adhat. A megbízásnak ki kell terjednie arra is, hogy a megbízott geodéziai vállalkozó az általa bemért objektumokat, a víziközmű-szolgáltató digitális objektumkezelő rendszerébe illeszthető formátumban átadja.
+
+(1b) A víziközmű-szolgáltató köteles az igénybejelentővel, valamint az igénybejelentő által megbízott kivitelezési jogosultsággal rendelkező személlyel együttműködni. A kivitelezési jogosultsággal rendelkező vízszerelő a víziközmű-szolgáltató üzemeltetésében lévő törzshálózaton csak előzetes bejelentést követően végezhet munkálatokat.”

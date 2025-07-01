@@ -1,0 +1,3 @@
+6. § A Vgtv. 14/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A különleges vízkészlet-gazdálkodási körzetben a vízügyi hatóság a vízhasználót – ideértve a vízjogi engedélyhez kötött vízhasználatok céljából indult közigazgatási hatósági eljárásban ügyfélnek minősülő személyt is – a lekötött vagy igénybe venni tervezett vízkészlet mennyiségére, minőségére, valamint felszín alatti vízkészlet esetén a vízszint süllyedésére gyakorolt hatásának nyomon követése céljából monitoringrendszer kiépítésére, üzemeltetésére és adatszolgáltatásra kötelezi. A vízügyi igazgatási szerv a monitoringrendszer adatait kiértékeli, és az állapotértékelés eredményéről tájékoztatja a vízügyi hatóságot.”
