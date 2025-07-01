@@ -2,26 +2,26 @@
 
 (2) E rendelet hatálybalépését megelőzően benyújtott közoktatási diákigazolvány igénylések tekintetében a diákigazolványról szóló 17/2005. (II. 8.) Korm. rendelet – az igénylés benyújtásának időpontjában hatályos – rendelkezéseit kell alkalmazni.
 
-(3)[^160]
+(3)[^163]
 
-(4)[^161] Az e rendelet hatálybalépését megelőzően kiadott diákigazolványok az arra való jogosultság megszűnéséig az e rendeletben szabályozott módon érvényesíthetőek. Az e rendelet hatálybalépését megelőzően kiadott olyan diákigazolványok, amelyek oktatási azonosítószámot nem tartalmaznak, az e rendeletben meghatározott módon érvényesíthetők az azokra való jogosultság megszűnéséig, de legkésőbb 2020. március 31. napjáig.
+(4)[^164] Az e rendelet hatálybalépését megelőzően kiadott diákigazolványok az arra való jogosultság megszűnéséig az e rendeletben szabályozott módon érvényesíthetőek. Az e rendelet hatálybalépését megelőzően kiadott olyan diákigazolványok, amelyek oktatási azonosítószámot nem tartalmaznak, az e rendeletben meghatározott módon érvényesíthetők az azokra való jogosultság megszűnéséig, de legkésőbb 2020. március 31. napjáig.
 
-(5)[^162]
+(5)[^165]
 
-(6)[^163]
+(6)[^166]
 
-(7)[^164]
+(7)[^167]
 
-(8)[^165] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^166] követően kibocsátott diákigazolványokra kell alkalmazni.
+(8)[^168] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^169] követően kibocsátott diákigazolványokra kell alkalmazni.
 
-(9)[^167] Az egyes közneveléssel összefüggő kormányrendeletek módosításáról szóló 790/2021. (XII. 27.) Korm. rendelet hatálybalépésekor[^168] pedagógusigazolványra jogosult személyek részére igénylés nélkül, első alkalommal térítésmentesen kell kibocsátani a pedagógusigazolványt.
+(9)[^170] Az egyes közneveléssel összefüggő kormányrendeletek módosításáról szóló 790/2021. (XII. 27.) Korm. rendelet hatálybalépésekor[^171] pedagógusigazolványra jogosult személyek részére igénylés nélkül, első alkalommal térítésmentesen kell kibocsátani a pedagógusigazolványt.
 
-[^160]: A 42. § (3) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 16. § n) pontja hatályon kívül helyezte.
-[^161]: A 42. § (4) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^162]: A 42. § (5) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
-[^163]: A 42. § (6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
-[^164]: A 42. § (7) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 16. § o) pontja hatályon kívül helyezte.
-[^165]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^166]: A hatálybalépés időpontja 2013. július 30.
-[^167]: A 42. § (9) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 14. §-a iktatta be.
-[^168]: A hatálybalépés időpontja 2022. január 1.
+[^163]: A 42. § (3) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 16. § n) pontja hatályon kívül helyezte.
+[^164]: A 42. § (4) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^165]: A 42. § (5) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
+[^166]: A 42. § (6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
+[^167]: A 42. § (7) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 16. § o) pontja hatályon kívül helyezte.
+[^168]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^169]: A hatálybalépés időpontja 2013. július 30.
+[^170]: A 42. § (9) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 14. §-a iktatta be.
+[^171]: A hatálybalépés időpontja 2022. január 1.
