@@ -1,5 +1,5 @@
 ## 30. Egyes kormányrendeletek hatályon kívül helyezése
 
-39. §[^43]
+39. §[^40]
 
-[^43]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,1 @@
-11. §[^15]
-
-[^15]: A 11. § a 40. § (3) bekezdése alapján 2025. július 1-jén lép hatályba.
+11. § Hatályát veszti az R4. 9. § (3) bekezdése.
