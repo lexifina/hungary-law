@@ -4,7 +4,7 @@
 
 ## b) legalább egy, az alábbi felsorolásban szereplő szolgáltatást nyújtja a látogatók számára:
 
-## 1. TEÁOR’25 93.29 – M.n.s. szórakoztatás, szabadidős tevékenység (ebből ÖVTJ’25 932903 Strandfürdő szolgáltatás),
+## 1. TEÁOR’25 93.29 M.n.s. szórakoztatás, szabadidős tevékenység (ebből ÖVTJ’25 932903 Strandfürdő szolgáltatás),
 
 ## 2. TEÁOR’25 96.23 Fürdő-, szauna-, gőzfürdő-szolgáltatás (ebből: ÖVTJ’25 962301 Fürdő szolgáltatás a törökfürdők, szaunák és gőzfürdők, gyógyfürdők tevékenysége),
 
@@ -12,7 +12,7 @@
 
 ## a) a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet 2. § b) pontja szerint természetes fürdőhelynek minősül,
 
-## b) TEÁOR’25 93.29 – M.n.s. szórakoztatás, szabadidős tevékenység (ebből: ÖVTJ’25 932903 Strandfürdő szolgáltatás) szolgáltatást nyújtja a látogatók számára,
+## b) TEÁOR’25 93.29 M.n.s. szórakoztatás, szabadidős tevékenység (ebből: ÖVTJ’25 932903 Strandfürdő szolgáltatás) szolgáltatást nyújtja a látogatók számára,
 
 ## III. muzeális intézmény, vár, kastély, amely legalább egy alábbi feltételnek megfelel:
 
@@ -28,7 +28,13 @@
 
 ## 2. a MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság járata végzi a személyszállítási tevékenységet,
 
-## b) TEÁOR’25 49.31 Menetrend szerinti közúti személyszállítás tevékenység közül a „hop on hop off” jellegű menetrend szerinti buszos városnéző turisztikai szolgáltatás,
+## b) a TEÁOR’25 49.31 Menetrend szerinti közúti személyszállítás tevékenység közül a „hop on hop off” jellegű menetrend szerinti buszos városnéző turisztikai szolgáltatást,
+
+## c) a TEÁOR’25 49.34 Személyszállítás kötélpályán, sífelvonóval szolgáltatást,
+
+## d) a TEÁOR’25 49.12 Egyéb vasúti személyszállítás tevékenység közül a „személyszállítás siklóval” szolgáltatást
+
+## nyújtja.
 
 ## V. kalandpark, amely
 
@@ -36,7 +42,7 @@
 
 ## b) TEÁOR’25 93.11 Sportlétesítmény működtetése,
 
-## c) TEÁOR’25 93.21 – Vidámparki, tematikus parki tevékenység
+## c) TEÁOR’25 93.21 Vidámparki, tematikus parki tevékenység
 
 ## szolgáltatást nyújtja a látogatók számára,
 
@@ -46,7 +52,7 @@
 
 ## b) TEÁOR’25 91.41 Növény-, állatkert működtetése belföldi szolgáltatást nyújtja a látogatók számára,
 
-## VII. vidámpark, amely TEÁOR’25 93.21 – Vidámparki, tematikus parki tevékenység belföldi szolgáltatást nyújtja a látogatók számára,
+## VII. vidámpark, amely TEÁOR’25 93.21 Vidámparki, tematikus parki tevékenység belföldi szolgáltatást nyújtja a látogatók számára,
 
 ## VIII. védett természeti terület bemutatóhelye, amely legalább egy alábbi feltételnek megfelel:
 
@@ -54,7 +60,13 @@
 
 ## b) TEÁOR’25 91.42 Természetvédelmi területtel kapcsolatos tevékenység belföldi szolgáltatást nyújtja a látogatók számára,
 
-## IX. a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet szerinti zenés, táncos rendezvény.
+## IX. a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet szerinti zenés, táncos rendezvény,
+
+## X. a magyar építészetről szóló 2023. évi C. törvény szerinti műemlék, amely látogatókat fogad, és
+
+## a) a TEÁOR’25 91.22 Történelmi helyszíni, műemléki tevékenység szolgáltatást nyújtja a látogatók számára,
+
+## b) a TEÁOR’25 94.91 Egyházi tevékenység szolgáltatás keretében turisztikai attrakciót működtet.
 
 4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^112]
 
