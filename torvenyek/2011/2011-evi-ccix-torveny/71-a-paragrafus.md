@@ -6,6 +6,8 @@
 
 (4) A közműfejlesztési kvóta átruházására vagy áthelyezésére irányuló (2) és (3) bekezdés szerinti javaslat alapján módosított közszolgáltatási szerződés a víziközmű-szolgáltató elfogadását követően hatályosul. Ha a víziközmű-szolgáltató a (2) és (3) bekezdés szerinti javaslatra a kézhezvételt követő 30 napon belül nem válaszol, vélelmezni kell, hogy azt elfogadta.
 
-(5) A közműfejlesztési kvóta áthelyezését a víziközmű-szolgáltató megtagadhatja, ha az áthelyezésre irányuló ponton az adott kvóta áthelyezése műszaki okok miatt igazolhatóan nem teljesíthető.
+(5) A közműfejlesztési kvóta áthelyezését vagy átruházását a víziközmű-szolgáltató megtagadhatja, ha az áthelyezésre vagy átruházásra irányuló ponton az adott kvóta áthelyezése műszaki okok miatt igazolhatóan nem teljesíthető.
 
-(6) A közműfejlesztési kvóta átruházásával, az átruházás, illetve az áthelyezés bejelentésével, valamint a víziközmű-szolgáltató eljárásával kapcsolatos részletszabályokat a víziközmű-szolgáltató üzletszabályzata állapítja meg.
+(5a) Amennyiben egy nem lakossági felhasználási hely lakossági felhasználási hellyé válik, és a korábbi nem lakossági felhasználó a közműfejlesztési kvótáról nem rendelkezik az (1) bekezdésben foglaltak szerint a felhasználóváltással egyidejűleg, a közműfejlesztési kvóta térítésmentesen visszaszáll a víziközmű-szolgáltatóra.
+
+(6) A közműfejlesztési kvóta átruházásával, az átruházás, illetve az áthelyezés bejelentésével, valamint a víziközmű-szolgáltató eljárásával kapcsolatos egyéb részletszabályokat a víziközmű-szolgáltató üzletszabályzata állapítja meg.

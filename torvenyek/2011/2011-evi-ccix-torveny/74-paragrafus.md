@@ -32,7 +32,7 @@
 
 13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 
-14. a használati díj, valamint a víziközmű-fejlesztési hozzájárulás meghatározásának szempontjait és a díjak elemeit;
+14. a víziközmű-fejlesztési hozzájárulás meghatározásának szempontjait és a díjak elemeit;
 
 15.
 
@@ -62,6 +62,8 @@
 
 28. az IKVA Adatbázist üzemeltető szervezetet, valamint az IKVA Adatbázis működésének részletes szabályait, az adatszolgáltatás rendjét, a Hivatal és az IKVA adatbázist üzemeltető szervezet közötti együttműködés kereteit, az adatok IKVA Adatbázisban történő felhasználásának részletes szabályait
 
+29. az ellátási területen átnyúló víziközmű-szolgáltatás nyújtásával kapcsolatos részletszabályokat
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben
@@ -74,7 +76,7 @@ rendeletben állapítsa meg.
 
 4. állapítsa meg a Víziközmű-fejlesztési és Ellentételezési Alap működtetésének részletes szabályait, valamint az abba történő befizetés és abból történő kifizetés során a víziközmű-fejlesztési és ellentételezési alapot működtető szerv, valamint a víziközmű-szolgáltatók jogosultságait és kötelezettségeit, továbbá a víziközművek fenntartásához elkülönítetten kezelt összegek mértékét, az újraelosztás alapját képező elismert indokolt költségek körét;
 
-5.
+5. állapítsa meg a víziközműves kapcsolódó szolgáltatás esetében az átadási árakat, és azok alkalmazásának kezdő időpontját;
 
 6.
 
@@ -92,7 +94,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a Hivatal elnöke, hogy
 
-1. a használati díjak mértékét,
+1.
 
 2. a rendszeres adatszolgáltatásra kötelezett engedélyesek vagy ellátásért felelősök és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség határidejét,
 

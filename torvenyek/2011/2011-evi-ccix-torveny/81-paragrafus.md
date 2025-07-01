@@ -12,7 +12,7 @@ c)
 
 (4) A vízügyi hatóság határozatában rendelkezik:
 
-a) víziközmű üzemeltetésével összefüggő használati korlátozások tartalmáról, figyelembe véve a jogosult és a vezetékjoggal érintett ingatlan tulajdonosának, vagyonkezelőjének, használójának érdekeit, valamint az ingatlanhasználat módját,
+a) víziközmű üzemeltetésével összefüggő használati korlátozások tartalmáról, figyelembe véve a jogosult és a vízvezetési szolgalmi joggal érintett ingatlan tulajdonosának, vagyonkezelőjének, használójának érdekeit, valamint az ingatlanhasználat módját,
 
 b) a korlátozással érintett ingatlanrész meghatározásáról, az ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajzra történő utalással.
 

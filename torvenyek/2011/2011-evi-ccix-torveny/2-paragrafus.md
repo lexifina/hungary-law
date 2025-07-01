@@ -12,7 +12,9 @@
 
 4. ellátási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül a felhasználók részére az adott víziközmű-szolgáltatást ugyanaz a víziközmű-szolgáltató végzi,
 
-4a. elválasztott rendszerű csatornahálózat: olyan csatornahálózat, amely kizárólag szennyvizet vezet el a település szennyvíztisztító telepére,
+4a. ellátási területen átnyúló szolgáltatás: egy szomszédos ellátási területen lévő ingatlan víziközmű-rendszerbe történő bekötése esetén nyújtott víziközmű-szolgáltatás,
+
+4b. elválasztott rendszerű csatornahálózat: olyan csatornahálózat, amely kizárólag szennyvizet vezet el a település szennyvíztisztító telepére,
 
 5. felhasználási hely: az a víziközmű-szolgáltatásba bekapcsolt ingatlan, amelyen a víziközmű-szolgáltatást a felhasználó igénybe veszi,
 
@@ -22,6 +24,8 @@
 
 8. gördülő fejlesztési terv: víziközmű-rendszerekre vonatkozó hosszú távú, felújítási és beruházási tervrészekből álló terv,
 
+8a. használati díj: a víziközmű üzemeltetési jogviszony keretében a víziközmű üzemeltetés jogának átengedéséért a víziközmű-szolgáltató által az ellátásért felelős részére megfizetett bérleti díj, vagyonkezelési díj vagy koncessziós díj,
+
 9. házi ivóvízhálózat: a felhasználási hely ivóvízfogyasztását biztosító – az ingatlan alkotórészét képező – vezeték, amely a vízkivételi helyig szállítja a vizet, valamint annak kiegészítő elemei (így különösen vízmérő berendezés elhelyezésére szolgáló akna és a fogyasztói csap),
 
 10. házi szennyvízhálózat: a felhasználási helyen keletkező szennyvíz összegyűjtését szolgáló – az ingatlan alkotórészét képező – vezeték, valamint annak kiegészítő elemei (így különösen szennyvízmennyiség-mérő, szennyvízminőség-ellenőrző akna, szennyvíz-előkezelő mű),
@@ -30,7 +34,7 @@
 
 a) bekötési vízmérő esetében
 
-aa) úszótelkes és telekhatáron kialakított zártsorú beépítésnél az épület külső falsíkjáig terjed,
+aa) telekhatáron kialakított zártsorú beépítésnél az épület külső falsíkjáig terjed,
 
 ab) önálló vízmérő aknaként kialakított vízmérési helyen bekötési vízmérőt követő elzáró szerelvényig, ennek hiányában a bekötési vízmérőt követő 10 cm-es vezetékszakasz végéig terjed,
 
