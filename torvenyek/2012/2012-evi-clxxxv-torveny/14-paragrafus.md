@@ -1,6 +1,6 @@
 14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában vagy nyilvántartásba vétel alapján lehet szállítani, kivéve, ha
 
-a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja,
+a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe, az építési-bontási hulladékot hulladékgyűjtő udvarba vagy hulladékkezelő létesítménybe és a lomhulladékot hulladékgyűjtő udvarba, lomhulladék gyűjtésére kialakított kontrollált gyűjtőhelyre vagy hulladékkezelő létesítménybe szállítja,
 
 b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe, vagy logisztikai telephelyére szállítja,
 

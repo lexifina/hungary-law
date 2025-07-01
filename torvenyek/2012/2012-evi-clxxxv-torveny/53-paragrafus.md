@@ -1,6 +1,6 @@
 ## 22. Ügyfélszolgálat
 
-53. § (1) A koncessziós társaság és a közszolgáltatási résztevékenységet ellátó koncesszori alvállalkozó a hulladékgazdálkodási közszolgáltatási díjjal, valamint az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében ügyfélszolgálatot működtet.
+53. § (1) A koncessziós társaság és a közszolgáltatási résztevékenységet ellátó koncesszori alvállalkozó a hulladékgazdálkodási közszolgáltatási díjjal, valamint az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében ügyfélszolgálatot működtet. Az ügyfélszolgálatok típusára, elhelyezésére és nyitvatartási idejére vonatkozó részletes szabályokat az e törvény végrehajtására kiadott kormányrendelet tartalmazza.
 
 (2) A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 

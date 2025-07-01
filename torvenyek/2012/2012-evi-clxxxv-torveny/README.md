@@ -63,3 +63,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2012-185-00-00.60 |
 | 2025-01-01 | 2024. évi LXXXIX. törvény | 2012-185-00-00.61 |
 | 2025-01-15 | 2023. évi XLV. törvény | 2012-185-00-00.62 |
+| 2025-07-01 | 2025. évi LXVII. törvény | 2012-185-00-00.63 |

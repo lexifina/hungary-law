@@ -8,7 +8,7 @@
 
 (4) E törvénynek az egyes energetikai törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 70. § (1a) bekezdését az e rendelkezés hatálybalépésekor már megkötött koncessziós szerződésre is alkalmazni kell.
 
-(5)
+(5) E törvénynek Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel megállapított 53/L. § (1a)–(1c) bekezdését az e rendelkezések hatálybalépésekor már folyamatban lévő teljesítésigazolásokkal összefüggésben is alkalmazni kell.
 
 (6)
 

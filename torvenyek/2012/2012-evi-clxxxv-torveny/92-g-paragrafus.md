@@ -1,5 +1,7 @@
 92/G. § (1) 2028. június 30. napjáig a hulladékgazdálkodási közszolgáltatási résztevékenység ellátására létesült vagy beszerzett hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését, valamint az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez, megszüntetéséhez és módosításához a miniszter – e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontok szerinti – előzetes jóváhagyása szükséges, kivéve az olyan szerződéses jogviszonyt, amely a koncesszori alvállalkozói tevékenység, vagy a koncessziós társaság részére történő kezelési szolgáltatás nyújtás 2023. július 1. napjától történő ellátását szolgálja.
 
+(1a) A koncesszori alvállalkozói tevékenység ellátását szolgálja az a szerződéses jogviszony, amelyben az egyik fél a koncessziós társaság, vagy amelyet a koncessziós társaság megbízásából a koncesszori alvállalkozó az e célból előzetesen megjelölt feladatok teljesítése érdekében létesít.
+
 (2) Az (1) bekezdésben foglaltak nem alkalmazandók az olyan szerződéses jogviszonyokra, amelyek
 
 a) a rendes üzletmenet keretein belül a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásába bevont hulladékgazdálkodási vagyonelemek napi funkcionális működőképességének biztosításához szükségesek, és nem keletkeztetnek tízmillió forintot meghaladó fizetési kötelezettséget, vagy

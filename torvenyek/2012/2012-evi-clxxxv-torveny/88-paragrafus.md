@@ -2,7 +2,7 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-1. a koncessziós társaság hulladékgazdálkodási közszolgáltatási résztevékenységét, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának és igénybevételének, szabályait, a közszolgáltatási díjhátralék jelzálogként történő bejegyzése kezdeményezésének feltételeit, továbbá a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos hulladékkezelés egyes előírásait;
+1. a koncessziós társaság hulladékgazdálkodási közszolgáltatási résztevékenységét, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának és igénybevételének, szabályait, a közszolgáltatási díjhátralék jelzálogként történő bejegyzése kezdeményezésének feltételeit, továbbá a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos hulladékkezelés egyes előírásait, valamint az ügyfélszolgálatok típusára, elhelyezésére és nyitvatartási idejére vonatkozó részletes szabályokat;
 
 2. a termelési hulladék és a gazdálkodó szervezet ingatlanhasználónál képződő hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladék képződése megelőzésének, valamint a termelési hulladékkal és a gazdálkodó szervezet ingatlanhasználónál képződő hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
@@ -102,7 +102,7 @@
 
 47. a hulladékgazdálkodási hatóság közigazgatási jogköre gyakorlásával és a közigazgatási feladataival összefüggő nyilvántartás adattartalmával és vezetésével, valamint a 78/C. § (10a) bekezdése szerinti közzététellel kapcsolatos részletes szabályokat.
 
-(1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a Koordináló szervet, a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 

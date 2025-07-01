@@ -4,7 +4,7 @@
 
 61. § (1) Hulladéktól a 31. §-ban meghatározottakra figyelemmel, csak kijelölt vagy arra fenntartott helyen, a környezet veszélyeztetését kizáró módon lehet megválni. Nem mentesül a hulladék birtokosára, illetve tulajdonosára vonatkozó szabályok alól az, aki a birtokában, illetve a tulajdonában lévő hulladéktól nem az e törvényben meghatározott kötelezettségek teljesítésével válik meg. Az ingatlan tulajdonosát felelősség terheli az illegális hulladéklerakás vagy elhagyás megelőzéséért.
 
-(2) Az ingatlanon más által, az ingatlantulajdonos hozzájárulása nélkül, ellenőrizetlen körülmények között elhelyezett vagy elhagyott hulladék elszállításának és kezelésének kötelezettsége (a továbbiakban: elhagyott hulladék felszámolása) – a hulladékgazdálkodási hatóság bírságot, valamint kötelezést megállapító közigazgatási hatósági döntésének véglegessé válásától számított harminc napon belül – a hulladék tulajdonosát vagy korábbi birtokosát terheli.
+(2) Az ingatlanon más által, az ingatlantulajdonos hozzájárulása nélkül, ellenőrizetlen körülmények között elhelyezett vagy elhagyott hulladék elszállításának és kezelésének kötelezettsége (a továbbiakban: elhagyott hulladék felszámolása) a hulladék tulajdonosát vagy korábbi birtokosát terheli.
 
 (3) Ha a (2) bekezdés szerinti tulajdonos vagy a korábbi birtokos ismeretlen, az elhagyott hulladék felszámolásának kötelezettsége – ellenkező bizonyításig – azt az ingatlantulajdonost terheli, akinek az ingatlanán a hulladékot elhelyezték vagy elhagyták. Az ingatlan tulajdonosa mentesül a felelősség alól, ha megtett minden tőle elvárható intézkedést, hogy a hulladék elhelyezését vagy elhagyását megakadályozza és a hulladékgazdálkodási hatóság eljárása során bizonyítja a hulladék korábbi birtokosának vagy az ingatlan tényleges használójának személyét. Társasházak esetében az ingatlan tulajdonosa vonatkozásában a társasházakról szóló 2003. évi CXXXIII. törvényben, a lakásszövetkezetek esetében a lakásszövetkezetekről szóló 2004. évi CXV. törvényben foglaltak irányadóak.
 
@@ -110,7 +110,7 @@ vonatkozó adatokat.
 
 (23) A jegyző a foglalkoztatói nyilvántartás adatait a döntés véglegessé válásától számított két évig kezeli.
 
-(24) A (4) bekezdésben, és a 12. § (1) bekezdésben foglaltak megsértése esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a (3) bekezdésben meghatározott ingatlant, és az ingatlanügyi hatóság a hulladékgazdálkodási hatóság felhívására a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi. Az eljárás soron kívüli ügyintézési határideje az eljárás ügyintézési határidejének a fele.
+(24) A (4) bekezdésben, és a 12. § (1) bekezdésében foglaltak megsértése esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a hulladék jogellenes elhelyezője, elhagyója tulajdonában lévő ingatlant, ennek hiányában a (3) bekezdésben meghatározott ingatlant. Az ingatlanügyi hatóság a hulladékgazdálkodási hatóság felhívására a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
 
 (24a) A hulladék felszámolásának a hulladékgazdálkodási hatóság általi foganatosítása során felmerült, a kötelezett által megtérítendő költségek megfizetési kötelezettségét a hulladékgazdálkodási hatóság – a (3) bekezdés szerint kötelezett ingatlantulajdonos kérelmére – különös méltánylást igénylő esetben mérsékelheti vagy a megtérítési kötelezettség alól felmentést adhat, illetve a végrehajtást a (3) bekezdésben meghatározott ingatlanra korlátozhatja.
 

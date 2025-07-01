@@ -20,7 +20,7 @@ f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban
 
 (2) A Hivatal e törvényben meghatározottak szerint díjmegállapító, díjelőkészítő, díjfelügyeleti tevékenységet végez, és vagyonkatasztert működtet.
 
-(3) A Hivatal jogosult az OKIR Országos Környezetvédelmi Információs Rendszer hulladékgazdálkodással összefüggő adataihoz való hozzáférésre.
+(3) A Hivatal jogosult az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) hulladékgazdálkodással összefüggő adataihoz való hozzáférésre.
 
 (4)
 
@@ -36,7 +36,7 @@ f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban
 
 a) az állam tulajdonában álló valamennyi, az állami hulladékgazdálkodási közfeladat ellátását szolgáló hulladékgazdálkodási eszközzel összefüggő vagyonkezelői, valamint jogszabály által ráruházott egyéb feladat,
 
-b) a 2023. július 1-et megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól (a továbbiakban: Korábbi Koordináló szerv) átvett számlázási, kintlévőség-kezelési, szolgáltatásidíj-elszámolási és ezekhez kapcsolódó ügyfélszolgálati feladat, és
+b)
 
 c) ha a koncessziós társaság és az állam között a hulladékgazdálkodási közszolgáltatási résztevékenység számlázása tárgyában szerződés jön létre, e szerződés alapján a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatai
 
@@ -44,13 +44,13 @@ ellátására.
 
 (4f) A miniszter (1) bekezdésben meghatározott feladatai vonatkozásában a (2) és a (4e) bekezdésben meghatározott szerv javaslatot tehet.
 
-(4g) A hulladékgazdálkodási hatóság és a Koordináló szerv az állami hulladékgazdálkodási feladatainak ellátása érdekében jogszabályban meghatározott tartalommal a feladatköréhez tartozó hulladékgazdálkodási nyilvántartást vezet, amelyhez minden, az e törvény hatálya alá tartozó szervezet adatot szolgáltat. A hulladékgazdálkodási hatóság és a Koordináló szerv jogosult az Országos Környezetvédelmi Információs Rendszer hulladékgazdálkodással összefüggő adatainak kezelésére.
+(4g) A hulladékgazdálkodási hatóság és a Koordináló szerv az állami hulladékgazdálkodási feladatainak ellátása érdekében jogszabályban meghatározott tartalommal a feladatköréhez tartozó hulladékgazdálkodási nyilvántartást vezet, amelyhez minden, az e törvény hatálya alá tartozó szervezet adatot szolgáltat. A hulladékgazdálkodási hatóság és a Koordináló szerv jogosult az OKIR hulladékgazdálkodással összefüggő adatainak kezelésére.
 
-(4h) A (4g) bekezdésben meghatározottakon túl a támogatást nyújtó szerv, a Hivatal, valamint – a hulladékgazdálkodási hatóság részére – a Koordináló szerv megad minden adatot és információt, amely a hulladékgazdálkodási hatóság és a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv az elszámolási, számlázási, és kintlévőség-kezelési feladatai befejezését követő 5 évig kezeli a részére átadott, az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatot.
+(4h) A (4g) bekezdésben meghatározottakon túl a támogatást nyújtó szerv, a Hivatal, valamint – a hulladékgazdálkodási hatóság részére – a Koordináló szerv számlázási, kintlévőség-kezelési és ezekhez kapcsolódó ügyfélszolgálati feladatainak (9) bekezdés szerinti jogutódja (a továbbiakban: Követeléskezelő szervezet) megad minden adatot és információt, amely a hulladékgazdálkodási hatóság és a Követeléskezelő szervezet feladatkörének gyakorlásához szükséges. A Követeléskezelő szervezet a számlázási, és kintlévőség-kezelési feladatai befejezését követő 5 évig kezeli a részére átadott, az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatot.
 
-(4i) A (4e) bekezdésben meghatározott feladatokat a kizárólagos állami tulajdonban álló Koordináló szervként az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság látja el.
+(4i) A (4e) bekezdésben meghatározott feladatokat a Koordináló szervként kormányrendeletben kijelölt költségvetési szerv, vagy többségi állami tulajdonban álló gazdasági társaság (a továbbiakban: Koordináló szerv) látja el.
 
-(5) A Koordináló szerv jogosult az elszámolási, számlázási, és kintlévőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől. A Koordináló szerv a 38. § (3) bekezdésében meghatározott személyes adatokat az elszámolási, számlázási, és kintlévőség-kezelési feladatok ellátása során, valamint e feladatok ellátását követő 5 évig kezeli a követelése behajthatósága céljából.
+(5) A Követeléskezelő szervezet jogosult a számlázási, és kintlévőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől. A Követeléskezelő szervezet a 38. § (3) bekezdésében meghatározott személyes adatokat a számlázási, és kintlévőség-kezelési feladatok ellátása során, valamint e feladatok ellátását követő 5 évig kezeli a követelése behajthatósága céljából.
 
 (5a) A koncessziós társaság jogosult az elszámolási, számlázási, és kintlévőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől. A koncessziós társaság a 38. § (3) bekezdésében meghatározott adatokat a hulladékgazdálkodási közszolgáltatási résztevékenység ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli a követelése behajthatósága céljából.
 
@@ -59,3 +59,7 @@ ellátására.
 (7) A Koordináló szerv részletes feladatairól, valamint a (4) bekezdésben meghatározott adatszolgáltatás – személyes adatokat nem tartalmazó – tartalmáról és rendjéről e törvény felhatalmazása alapján kiadott kormányrendelet rendelkezik. A koncessziós társaság, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa az e törvény végrehajtására kiadott rendeletben foglaltak szerint eleget tesz adatszolgáltatási kötelezettségének a Koordináló szerv, illetve a miniszter és a Hivatal részére.
 
 (8) Az állami hulladékgazdálkodási közfeladat ellátását szolgáló, az állam tulajdonában álló valamennyi hulladékgazdálkodási eszköz e törvény erejénél fogva a közfeladat ellátásához szükséges vagyonként ingyenesen, a 32/A. § (4e) bekezdésének a) pontja szerinti Koordináló szerv vagyonkezelésébe kerül azzal, hogy a közfeladat ellátása érdekében a Koordináló szerv vagyonkezelésébe kerülő vagyonelemek tekintetében vagyonkezelői szerződés megkötése nem szükséges.
+
+(9) A 2023. július 1-jét megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól (a továbbiakban: Korábbi Koordináló szerv) átvett számlázási, kintlévőség-kezelési, és ezekhez kapcsolódó ügyfélszolgálati feladatot az MKK Magyar Követeléskezelő Zártkörűen Működő Részvénytársaság látja el.
+
+(10) A Koordináló szerv szolgáltatásidíj-elszámolási feladatait ellátó jogutód az elszámolási feladatok befejezését követő 5 évig kezeli a részére átadott adatot.

@@ -1,6 +1,6 @@
 ## 35a. Hulladékgazdálkodási információk publikus felületen történő közzététele
 
-83/A. § Az Országos Környezetvédelmi Információs Rendszer publikus felületén – a személyes adatok kivételével – közzé kell tenni
+83/A. § Az OKIR publikus felületén – a személyes adatok kivételével – közzé kell tenni
 
 a) a 80. § (1) és (2) bekezdésében foglalt, a hulladékgazdálkodási engedélyben vagy a nyilvántartásban szereplő adatokat – a hulladékgazdálkodási tevékenységekre vonatkozó adatokat tevékenységfajtánként és hulladéktípusonként –,
 

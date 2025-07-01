@@ -36,7 +36,7 @@ o) megfelelő minőségi vagy mennyiségi mutatókat és célértékeket, többe
 
 (1a) Az OHT-nek és az OMP-nek meg kell felelnie
 
-a) a 94/62/EK irányelv 14. cikkében a hulladékgazdálkodás tervezésével kapcsolatban meghatározott követelményeknek, az ezen irányelv 11. cikk (2) és (3) bekezdésében foglalt célértékeknek,
+a) a 94/62/EK irányelv 14. cikkében a hulladékgazdálkodás tervezésével kapcsolatban meghatározott követelményeknek, a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikk (2) és (3) bekezdésében foglalt célértékeknek,
 
 b) az 1999/31/EK irányelv 5. cikkében meghatározott követelményeknek, valamint
 
