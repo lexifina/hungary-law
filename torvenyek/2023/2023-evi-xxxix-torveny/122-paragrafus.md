@@ -1,1 +1,3 @@
-### 122. §
+122. § A Hpt. 71. alcíme a következő 164/C. §-sal egészül ki:
+
+„164/C. § Nem jelenti a banktitok sérelmét a fizetési rendszerben részt vevő hitelintézet által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből a fizetési rendszerben részt vevő hitelintézet, valamint a nyomozó hatóság részére, a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő, jogszabályban előírt adattovábbítás.”
