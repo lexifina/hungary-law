@@ -4,7 +4,7 @@
 
 a) saját háztartásában három vagy több gyermeket nevel,
 
-b)[^57] fogyatékossággal élő gyermeket nevel,
+b)[^60] fogyatékossággal élő gyermeket nevel,
 
 c) gyermekét egyedül neveli, vagy
 
@@ -20,4 +20,4 @@ d) közös háztartásban él tartósan beteg közeli hozzátartozójával.
 
 (7) A lakhatási jellegű támogatásban részesülő köznevelési foglalkoztatotti jogviszonyban álló a lakhatási támogatás felhasználásáról a jogosultság utolsó hónapjának tizedik napjáig vagy a jogviszony megszűnése, illetve tartós távollét esetén az utolsó munkában töltött napon köteles a belső szabályzatban meghatározott módon a munkáltató felé elszámolni.
 
-[^57]: A 99. § (2) bekezdés b) pontja a 86/2025. (IV. 24.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^60]: A 99. § (2) bekezdés b) pontja a 86/2025. (IV. 24.) Korm. rendelet 19. §-a szerint módosított szöveg.
