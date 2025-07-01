@@ -14,7 +14,7 @@
 
 (6) A környezeti elemekre és az azokat veszélyeztető tényezőkre vonatkozó új jogszabályok hatálybalépéséig a szabályozás tárgyát képező kormány-, illetőleg miniszteri rendeletek előírásait kell alkalmazni.
 
-(6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, illetőleg mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, illetőleg az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
+(6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, valamint mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, valamint az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
 
 (6b) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 106. § (3)–(3c) bekezdésében foglaltakat hatálybalépésüket követően indult ügyekben kell alkalmazni.
 

@@ -17,3 +17,5 @@ b) a környezetvédelem követelményeinek megfelelő környezetkímélő vagy k
 c) a jelentős környezetkárosodások, illetve a rendkívüli környezeti események (beleértve a Magyarország területén folytatott hadgyakorlatot is) következményeinek felszámolása, ha a kötelezettség másra nem hárítható;
 
 d) az állam környezeti kártérítési kötelezettsége fedezetének biztosítása, és a kötelezettségek teljesítése.
+
+(6) Az (5) bekezdés c) pontjában meghatározott feladathoz kapcsolódó kármentesítési feladatokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság látja el, az érintett ingatlan tulajdonviszonyaitól függetlenül.
