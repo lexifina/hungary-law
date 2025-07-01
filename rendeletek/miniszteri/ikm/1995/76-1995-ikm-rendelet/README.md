@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-76-20-6
 | 2011-01-01 | 1995-76-20-6A.6 | 27/2010. (XII. 28.) KIM rendelet |
 | 2014-03-15 | 1995-76-20-6A.7 | 21/2014. (III. 13.) KIM rendelet |
 | 2019-01-01 | 1995-76-20-6A.8 | 34/2018. (XII. 18.) ITM rendelet |
+| 2025-07-01 | 1995-76-20-6A.9 | 6/2025. (VI. 30.) KIM rendelet |

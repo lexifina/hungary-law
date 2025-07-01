@@ -8,12 +8,13 @@ b) a védjegyjog és az egyéb árujelzők oltalma, a formatervezési mintaoltal
 
 c) a külföldi és a nemzetközi iparjogvédelmi jog, az európai szabadalmi jog;
 
-d) az Európai Közösség iparjogvédelmi joga;
+d)[^13] az Európai Unió iparjogvédelmi joga;
 
 e) az iparjogvédelemmel kapcsolatos egyéb – polgári anyagi és eljárási jogi, államigazgatási, pénzügyi, szabálysértési, büntetőjogi, nemzetközi magánjogi – ismeretek és a szabadalmi ügyvivői hivatásra vonatkozó szabályozás.
 
-(2)[^13] A szabadalmi ügyvivői vizsga tárgyainak körébe tartozó hazai és külföldi jogszabályok, illetve nemzetközi szerződések jegyzékét a Vizsgabizottság közzéteszi a Hivatal hivatalos lapjában.
+(2)[^14] A szabadalmi ügyvivői vizsga tárgyainak körébe tartozó hazai és külföldi jogszabályok, illetve nemzetközi szerződések jegyzékét a Vizsgabizottság közzéteszi a Hivatal hivatalos lapjában.
 
 [^11]: Az 5. § (1) bekezdése a 104/2003. (XII. 29.) GKM rendelet 11. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 13. §-ának (3) bekezdése alapján a rendelkezést a 2004. január 6. napját követően benyújtott kérelmekre kell alkalmazni.
 [^12]: Az 5. § (1) bekezdés a) pontja a 34/2018. (XII. 18.) ITM rendelet 1. §-ával megállapított szöveg.
-[^13]: Az 5. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 2. §-a szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdés d) pontja a 6/2025. (VI. 30.) KIM rendelet 3. § b) pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 2. §-a szerint módosított szöveg.
