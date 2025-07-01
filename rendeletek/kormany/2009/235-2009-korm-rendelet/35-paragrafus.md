@@ -1,8 +1,8 @@
-## 34. §[^109] Orvostechnikai eszköz klinikai vizsgálata, valamint in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálata az engedély véglegessé válását követően kezdhető meg.
+## 34. §[^113] Orvostechnikai eszköz klinikai vizsgálata, valamint in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálata az engedély véglegessé válását követően kezdhető meg.
 
 ## Az engedély módosítása
 
-35. §[^110] (1)[^111] Az engedély módosítására az MDR 75. cikkében vagy az IVDR 71. cikkében foglaltakat kell alkalmazni azzal, hogy a vizsgálat jelentős vagy lényeges módosításának minősül, ha
+35. §[^114] (1)[^115] Az engedély módosítására az MDR 75. cikkében vagy az IVDR 71. cikkében foglaltakat kell alkalmazni azzal, hogy a vizsgálat jelentős vagy lényeges módosításának minősül, ha
 
 a) a módosítás az eszköz alkalmazási céljára, körülményeire vagy hatásmechanizmusára vonatkozik,
 
@@ -18,6 +18,6 @@ e) a módosítás hatással lehet a vizsgálati alanyok biztonságára, egészs�
 
 (3) Az engedély módosítására irányuló kérelemre a 32. és 33. §-ban foglaltakat is megfelelően alkalmazni kell.
 
-[^109]: A 34. §-t a 164/2020. (IV. 30.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte, újonnan a 135/2022.(IV. 7.) Korm. rendelet 7. §-a iktatta be.
-[^110]: A 35. § a 164/2020. (IV. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^111]: A 35. § (1) bekezdése a 135/2022.(IV. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^113]: A 34. §-t a 164/2020. (IV. 30.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte, újonnan a 135/2022.(IV. 7.) Korm. rendelet 7. §-a iktatta be.
+[^114]: A 35. § a 164/2020. (IV. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^115]: A 35. § (1) bekezdése a 135/2022.(IV. 7.) Korm. rendelet 8. §-ával megállapított szöveg.

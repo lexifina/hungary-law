@@ -1,8 +1,8 @@
-17/A. §[^51] (1)[^52] A 16. § a) és c) pontja szerinti vizsgálat engedélyezése iránti kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetést, és a kérelemben be kell mutatni
+17/A. §[^55] (1)[^56] A 16. § a) és c) pontja szerinti vizsgálat engedélyezése iránti kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetést, és a kérelemben be kell mutatni
 
 a) a vizsgálati tervet,
 
-b)[^53] a koordináló vizsgálatvezető, illetve vizsgáló szakmai önéletrajzát,
+b)[^57] a koordináló vizsgálatvezető, illetve vizsgáló szakmai önéletrajzát,
 
 c) a vizsgálati alanyok számára készített tájékoztató tervezetét (a retrospektív vizsgálatok kivételével),
 
@@ -12,7 +12,7 @@ e) toborzás esetén a toborzásra vonatkozó tervezetet,
 
 f) – ha a beavatkozással nem járó vizsgálat egészségügyi szolgáltatónál zajlik – a kérelmező nyilatkozatát arra vonatkozólag, hogy az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet szerinti bejelentést megtette.
 
-(2)[^54] A kérelem tartalmazza a vizsgálatvezető vagy a koordináló vizsgálatvezető, illetve vizsgáló szándéknyilatkozatát, amelyben vállalja, hogy a vizsgálat engedélyezése esetén az általa megismert vizsgálati tervet annak előírásai és az engedélyező határozatban foglaltak szerint hajtja végre.
+(2)[^58] A kérelem tartalmazza a vizsgálatvezető vagy a koordináló vizsgálatvezető, illetve vizsgáló szándéknyilatkozatát, amelyben vállalja, hogy a vizsgálat engedélyezése esetén az általa megismert vizsgálati tervet annak előírásai és az engedélyező határozatban foglaltak szerint hajtja végre.
 
 (3) Az (1) bekezdés a) pontja szerinti vizsgálati terv tartalmazza
 
@@ -40,7 +40,7 @@ g) a kérelmező nevét, székhelyét.
 
 (8) E rendelet alkalmazásában a PRAC nem minősül engedélyező hatóságnak.
 
-[^51]: A 17/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^52]: A 17/A. § (1) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
-[^53]: A 17/A. § (1) bekezdés b) pontja a 164/2020. (IV. 30.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
-[^54]: A 17/A. § (2) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^55]: A 17/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^56]: A 17/A. § (1) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^57]: A 17/A. § (1) bekezdés b) pontja a 164/2020. (IV. 30.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^58]: A 17/A. § (2) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
