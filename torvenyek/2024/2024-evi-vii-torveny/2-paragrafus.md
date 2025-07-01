@@ -10,12 +10,22 @@
 
 5. jelentős kiberfenyegetés: az (EU) 2022/2554 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 
+5a. Kriptoeszköz-átváltást validáló szolgáltató: az e tevékenység végzésére engedéllyel rendelkező jogi személy;
+
+5b. Kriptoeszköz-átváltási szolgáltatás: az ügyfél átváltási megbízása alapján kriptoeszköz átváltása pénzre, illetve kriptoeszköz átváltása más kriptoeszközre;
+
 6. kriptoeszköz-szolgáltatás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 
 7. kriptoeszköz-szolgáltató: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 
+7a. kriptoeszköz átváltása pénzre: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom;
+
+7b. kriptoeszköz átváltása más kriptoeszközre: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom;
+
 8. kriptoeszközökre vonatkozó tanácsadás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
 
 9. lakossági birtokos: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom;
+
+9a. nem engedélyezett kriptoügylet: kriptoeszköz-átváltást validáló szolgáltató által kibocsátott megfelelőségi nyilatkozattal nem validált kriptoeszköz átváltása pénzre vagy más kriptoeszközre az e törvényben és a végrehajtására kiadott jogszabályban meghatározott esetek kivételével;
 
 10. nyilvános ajánlattétel: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekképp meghatározott fogalom.
