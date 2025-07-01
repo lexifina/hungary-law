@@ -53,3 +53,5 @@ c) kidolgozza a Végrehajtási Rendelet 3. cikk (8) bekezdés b) pontja szerinti
 (9) A Hatóság látja el a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti integrátorok nyilvántartásának vezetésével kapcsolatos feladatokat.
 
 (10) A Hatóság gyakorolja a földmérési és térképészeti tevékenységről szóló törvény szerinti Országos Gravimetriai Hálózat pontjai tekintetében a tulajdonosi jogokat, illetve látja el az Országos Gravimetriai Hálózat pontjainak karbantartásával, helyszínelésével, valamint pótlásával kapcsolatos feladatokat.
+
+(11) A Hatóság látja el a kriptoeszköz-átváltást validáló szolgáltatók felügyeletével kapcsolatos, a Hatóság feladat- és hatáskörébe tartozó feladatokat.

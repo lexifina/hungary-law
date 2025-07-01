@@ -24,6 +24,8 @@ h) nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügy
 
 i) a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló törvény (a továbbiakban: ESG törvény) szerinti ESG adatszolgáltatásra kötelezettek hatósági ellenőrzésével, az ESG törvény szerinti felügyelettel, nyilvántartással akkreditálással és szabályozással, az ESG törvény szerinti elektronikus felületek működtetésével, továbbá az ESG törvényben meghatározott egyéb tevékenységeivel
 
+j) a kriptoeszközök piacáról szóló 2024. évi VII. törvény (a továbbiakban: Kriptotv.) szerinti kriptoeszköz átváltást validáló szolgáltatók (a továbbiakban: kriptoeszköz átváltást validáló szolgáltatók) felügyeletével
+
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
 (1a) A Hatóság a bányafelügyeleti és állami földtani feladatokat ellátó szerv.

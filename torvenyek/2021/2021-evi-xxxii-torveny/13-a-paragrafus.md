@@ -9,3 +9,5 @@ a) szabályozott elektronikus ügyintézési szolgáltatás kiberbiztonsági kö
 b) integrátorok nyilvántartása vezetésére vonatkozó részletes eljárási szabályokat és a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
 
 3. meghatározza az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
+
+4. megállapítja a Kriptotv. 9/A. § (1) bekezdése szerinti kivételeket, a kriptoeszköz-átváltást validáló szolgáltató engedélyezési eljárásának részletes szabályait, ideértve a kriptoeszköz-átváltást validáló szolgáltatás végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit, továbbá a Kriptotv. 12/C. § (2) bekezdése szerinti nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat.
