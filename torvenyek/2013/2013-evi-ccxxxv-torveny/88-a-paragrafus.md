@@ -1,0 +1,1 @@
+88/A. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.

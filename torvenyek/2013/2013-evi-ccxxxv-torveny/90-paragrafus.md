@@ -16,6 +16,8 @@ b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU r
 
 c) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+d) a 260/2012/EU és az (EU) 2021/1230 rendeletnek, valamint a 98/26/EK és az (EU) 2015/2366 irányelvnek az azonnali euroátutalások tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/886 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdése végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában.

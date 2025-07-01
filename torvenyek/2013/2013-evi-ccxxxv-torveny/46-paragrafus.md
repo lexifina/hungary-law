@@ -8,7 +8,7 @@ b) alapján bármikor, késedelem nélkül biztosítható legyen az ügyfél, va
 
 (3) Ha a fizetési művelet érdekében átvett pénzeszközt a pénzforgalmi intézmény az átvételt követő munkanap végéig, a Posta Elszámoló Központot működtető intézmény az átvételt követő második munkanap végéig a fizetési művelet végrehajtásaként nem utalja át egy másik pénzforgalmi szolgáltatóhoz, vagy nem fizeti ki a kedvezményezettnek,
 
-a) a pénzeszközt EGT-államban székhellyel rendelkező hitelintézetnél vezetett letéti számlára vagy olyan eszközbe helyezi el, amely kitettségre az 575/2013/EU rendelet Harmadik rész II. Cím 2. Fejezetének alkalmazásakor nulla százalékos kockázati súly alkalmazható, vagy
+a) a pénzeszközt EGT-államban székhellyel rendelkező hitelintézetnél vezetett letéti számlára, vagy – amennyiben valamely EGT-állam központi bankja ilyen szolgáltatást nyújt – az adott központi bank által vezetett letéti számlára vagy meghatározott célból elkülönített fizetési számlára, vagy olyan eszközbe helyezi el, amely kitettségre az 575/2013/EU rendelet Harmadik rész II. Cím 2. Fejezetének alkalmazásakor nulla százalékos kockázati súly alkalmazható, vagy
 
 b) a pénzügyi kötelezettségvállalása nem teljesítésének esetére a pénzforgalmi intézménytől, a Posta Elszámoló Központot működtető intézménytől eltérő csoporthoz tartozó, EGT-államban székhellyel rendelkező hitelintézettel, biztosítóval olyan garancia- vagy kezesi biztosítási szerződést köt, amely
 

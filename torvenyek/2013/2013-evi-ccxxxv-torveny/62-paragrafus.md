@@ -37,3 +37,5 @@ q) a központi szerződő fél, valamint az elszámolóházi tevékenység végz
 r) a Központi Statisztikai Hivatal részére hivatalos statisztikai célból a hivatalos statisztikáról szóló 2016. évi CLV. törvény 2. § 5. és 10. pont szerinti, közvetlen azonosítóktól megfosztott, egyedi adatok átadása,
 
 s) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény Hpt. 164/B. § szerinti kölcsönös adatátadása.
+
+t) a fizetési rendszerben részt vevő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből részükre a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő jogszabályban előírt adattovábbítás.
