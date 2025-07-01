@@ -64,7 +64,7 @@ b)[^55] – és azt megelőzően a kérelemben is – büntetőjogi felelősség
 
 c) – és azt megelőzően a kérelemben is – büntetőjogi felelőssége tudatában nyilatkozik arról, hogy az eladó vagy az építési tevékenységet végző az igénylőnek nem közeli hozzátartozója vagy élettársa, valamint ha az eladó vagy az építési munkálatokat végző gazdálkodó szervezet, az igénylő a gazdálkodó szervezetben nem rendelkezik tulajdonnal, valamint a gazdálkodó szervezet tulajdonosa az igénylőnek nem közeli hozzátartozója vagy élettársa;
 
-d)[^56] vállalja, hogy lakás vásárlása esetén a vételár, lakáscsere esetén a vételár-különbözet legfeljebb 10 százalékát készpénzben, a fennmaradó fizetési kötelezettséget – illetve annak a családi otthonteremtési kedvezményt képező részét a támogatott személy helyett a hitelintézet – az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és annak alkalmazási körébe tartozó – fizetési számlára vagy pénzügyi intézmény által vezetett, kölcsöntartozást nyilvántartó technikai számlára teljesíti;
+d)[^56] tudomásul veszi, hogy lakás vásárlása esetén a vételárat, lakáscsere esetén a vételár-különbözetet választása szerint készpénzben is teljesítheti, azzal, hogy a családi otthonteremtési kedvezményt képező vételárrészletet a támogatott személy helyett a hitelintézet az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és annak alkalmazási körébe tartozó – fizetési számlára vagy pénzügyi intézmény által vezetett kölcsöntartozást nyilvántartó technikai számlára teljesíti;
 
 e) vállalja, hogy
 
@@ -174,7 +174,7 @@ d) az (5) és (6) bekezdést, a (7) bekezdés a) pontját, a (21) bekezdést, a 
 [^53]: A 15. § (6) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.
 [^54]: A 15. § (7) bekezdés a) pont nyitó szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
 [^55]: A 15. § (7) bekezdés b) pontja a 388/2024. (XII. 11.) Korm. rendelet 32. § 13. pontja szerint módosított szöveg.
-[^56]: A 15. § (7) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 13. pontja szerint módosított szöveg.
+[^56]: A 15. § (7) bekezdés d) pontja a 128/2025. (VI. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^57]: A 15. § (7) bekezdés e) pont ec) alpontja a 285/2024. (IX. 30.) Korm. rendelet 196. § 5. pontja szerint módosított szöveg.
 [^58]: A 15. § (7) bekezdés f) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 14. pontja szerint módosított szöveg.
 [^59]: A 15. § (7) bekezdés g) pontja a 285/2024. (IX. 30.) Korm. rendelet 196. § 6. pontja szerint módosított szöveg.

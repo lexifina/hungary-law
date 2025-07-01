@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-302-20-
 | 2024-12-12 | 2023-302-20-22.5 | 388/2024. (XII. 11.) Korm. rendelet |
 | 2025-01-01 | 2023-302-20-22.7 | 389/2024. (XII. 11.) Korm. rendelet |
 | 2025-01-10 | 2023-302-20-22.6 | 388/2024. (XII. 11.) Korm. rendelet |
+| 2025-07-01 | 2023-302-20-22.8 | 128/2025. (VI. 5.) Korm. rendelet |
