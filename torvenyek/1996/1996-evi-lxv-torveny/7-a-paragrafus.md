@@ -1,3 +1,0 @@
-7/A. § (1) Ha a sportcélú ingatlant az 5. § (4) bekezdésében meghatározott időtartam alatt végrehajtás alá vonták, a végrehajtás során történő értékesítéssel az szerezheti meg az ingatlan tulajdonjogát, aki vállalja, hogy a sportcélú ingatlan megszerzésétől számított 15 év elteltéig sportcélra, illetve sportlétesítményként használja vagy hasznosítja.
-
-(2) A sportcélú ingatlan megszerzéséhez az (1) bekezdésben előírt feltétel vállalását az árverés vagy az árverésen kívüli eladás előtt, illetve a nyilvános pályázatra benyújtott ajánlatban az MNV Zrt.-vel kötött előzetes megállapodással kell igazolni.

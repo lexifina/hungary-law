@@ -1,1 +1,0 @@
-17. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvénnyel megállapított 5. § (7) bekezdését az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvény hatálybalépésekor fennálló elidegenítési és terhelési tilalom tekintetében is alkalmazni kell.
