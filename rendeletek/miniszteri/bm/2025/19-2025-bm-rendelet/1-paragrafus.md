@@ -26,8 +26,6 @@
 
 ## a következőket rendelem el:
 
-## 1.[^1]
+## 1. A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet módosítása
 
-1. §
-
-[^1]: Az 1. alcím a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+1. § Hatályát veszti a belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet 1/A. § b) pontjában az „a Nemzeti Bűnügyi Együttműködési Központ,” szövegrész.

@@ -1,5 +1,3 @@
-## 4.[^6]
+## 4. A lakáscélú munkáltatói kölcsönről szóló 44/2012. (VIII. 29.) BM rendelet módosítása
 
-7. §
-
-[^6]: A 4. alcím a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+7. § Hatályát veszti a lakáscélú munkáltatói kölcsönről szóló 44/2012. (VIII. 29.) BM rendelet 3. § b) pont bb) alpontjában az „a Nemzeti Bűnügyi Együttműködési Központ,” szövegrész.

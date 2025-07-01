@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+3. § A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 76. § (4) bekezdésében a „Nemzetközi Bűnügyi Együttműködési Központ” szövegrész helyébe a „rendőrség nemzetközi bűnügyi együttműködési központja” szöveg lép.

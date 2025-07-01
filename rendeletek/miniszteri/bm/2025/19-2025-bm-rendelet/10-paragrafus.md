@@ -1,5 +1,3 @@
-## 7.[^9]
+## 7. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról szóló 75/2013. (XII. 18.) BM rendelet módosítása
 
-10. §
-
-[^9]: A 7. alcím a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+10. § Hatályát veszti a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról szóló 75/2013. (XII. 18.) BM rendelet 2. § b) pont bb) alpontjában az „a Nemzeti Bűnügyi Együttműködési Központ,” szövegrész.

@@ -1,5 +1,3 @@
-## 8.[^10]
+## 8. A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet módosítása
 
-11. §
-
-[^10]: A 8. alcím a 18. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+11. § A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet 1. melléklete az 1. melléklet szerint módosul.
