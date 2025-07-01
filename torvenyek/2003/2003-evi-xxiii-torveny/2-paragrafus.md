@@ -26,13 +26,19 @@ e) harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 
 f) intézmény:
 
-fa) a Hpt. szerinti hitelintézet, az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény, a Bszt. szerinti befektetési vállalkozás, árutőzsdei szolgáltató, a Posta Elszámoló Központot működtető intézmény, a kincstár, az Államadósság Kezelő Központ, a Magyar Nemzeti Bank, vagy
+fa) az 575/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés 1. pontjában meghatározott hitelintézet és a Magyar Nemzeti Bank,
 
-fb) más tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás és mindazon intézmény, amely más tagállamban rendszer résztvevője lehet, vagy
+fb) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság, a Posta Elszámoló Központot működtető intézmény, a kincstár és az Államadósság Kezelő Központ,
 
-fc) olyan harmadik országbeli hitelintézet, amely megfelel a Hpt. 6. § (1) bekezdésben foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. §-a (2) bekezdésének 39. pontjában foglaltaknak,
+fc) a Bszt. szerinti befektetési vállalkozás és árutőzsdei szolgáltató,
 
-fd) az Európai Unió tagállamának központi bankja, az Európai Központi Bank,
+fd) más tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás és mindazon intézmény, amely más tagállamban a rendszer résztvevője lehet,
+
+fe) olyan harmadik országbeli hitelintézet, amely megfelel az fa) alpontban foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. § (2) bekezdés 39. pontjában foglaltaknak,
+
+ff) az egyes fizetési szolgáltatókról szóló törvény szerinti pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény,
+
+fg) az Európai Unió tagállamának központi bankja, az Európai Központi Bank,
 
 amely valamely rendszer résztvevője, és amelynek a rendszerben továbbított transzfer megbízásokból adódó fizetési kötelezettségeket teljesítenie kell;
 
@@ -40,7 +46,7 @@ g) központi szerződő fél: a 648/2012/EU európai parlamenti és tanácsi ren
 
 h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
 
-i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megállapodáson alapuló együttműködési forma,
+i) rendszer: az – a rendszerkapcsolaton kívüli, Hpt. szerinti fizetési rendszernek, értékpapír-elszámolási rendszernek, valamint a központi szerződő fél klíringtagjai közötti fizetést teljesítő fizetési rendszernek minősülő – írásbeli megállapodáson alapuló együttműködési forma,
 
 ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetve a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre,
 
@@ -48,7 +54,7 @@ ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az E
 
 ic) amely a magyar jog vagy az Európai Unió más tagállamának joga alapján működik, – az 1. § (1) bekezdés c) pontja és az 1. § (2) bekezdése alkalmazását nem érintve – ideértve azt a harmadik ország joga alapján működő rendszert is, amely megfelel a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló 1998. május 19-i 98/26/EK európai parlamenti és tanácsi irányelv 2. cikk a) pontjának első és második francia bekezdése szerinti rendszer fogalmának, azzal, hogy a tagállam alatt bármely ország értendő, és amely megfelelést a Magyar Nemzeti Bank – a rendszer igazolása alapján – megállapítva közzéteszi a rendszer azonosító adatait, a megállapítás hatályát;
 
-j) résztvevő: az intézmény, a központi szerződő fél, a központi szerződő fél klíringtagja, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
+j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, a rendszerüzemeltető, valamint a 648/2012/EU rendelet 17. cikke alapján engedéllyel rendelkező központi szerződő fél klíringtagja;
 
 k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 
@@ -56,7 +62,7 @@ l) teljesítés: a rendszer résztvevői közötti tartozások és követelések
 
 m) teljesítési számla: a teljesítő félnél, központi szerződő félnél, illetve központi banknál vezetett, pénzeszközök és értékpapírok kezelésére szolgáló számla, ahol a rendszer résztvevői közötti transzfer megbízások kiegyenlítése történik;
 
-n) teljesítő fél: az a szervezet, amely a rendszerben résztvevő intézmények, illetve – amennyiben alkalmazandó – a központi szerződő fél teljesítési számlájának vezetőjeként biztosítja a transzfer megbízások kiegyenlítését, illetve – szükség esetén – az intézmény, illetőleg a központi szerződő fél részére hitelt nyújt a teljesítés megkönnyítése érdekében;
+n) teljesítő fél: az a szervezet, amely a rendszerben részt vevő intézmények, – amennyiben alkalmazandó – a központi szerződő fél, illetve a központi szerződő fél klíringtagja teljesítési számlájának vezetőjeként biztosítja a transzfer megbízások kiegyenlítését, illetve – szükség esetén – az intézmény, illetve a központi szerződő fél részére hitelt nyújt a teljesítés megkönnyítése érdekében;
 
 o) üzleti nap: a rendszer üzleti ciklusa által meghatározott azon időszak, amelyben az üzleti események történnek, ideértve az éjszakai és nappali elszámolásokat és a rendszer üzleti ciklusában bekövetkező valamennyi eseményt is;
 
