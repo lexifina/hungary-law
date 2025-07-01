@@ -1,8 +1,8 @@
-4/I. §[^39] (1) A 2. mellékletben foglalt táblázat B:138 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+4/I. §[^56] (1) A 2. mellékletben foglalt táblázat B:138 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
-a) a hatályos településrendezési tervet és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
+a)[^57] a hatályos településrendezési tervet és az OTÉK, illetve a TÉKA előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
-b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+b)[^58] ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:138 mezőjében megjelölt ingatlan ipari gazdasági terület, melyre meghatározott sajátos beépítési szabályok:
 
@@ -22,4 +22,6 @@ e) a használatbavételi engedélyre irányuló kérelem benyújtásáig biztos�
 
 (5) A (4) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
-[^39]: A 4/I. §-t a 103/2025. (V. 14.) Korm. rendelet 1. §-a iktatta be.
+[^56]: A 4/I. §-t a 103/2025. (V. 14.) Korm. rendelet 1. §-a iktatta be.
+[^57]: A 4/I. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 17. pontja szerint módosított szöveg.
+[^58]: A 4/I. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 18. pontja szerint módosított szöveg.
