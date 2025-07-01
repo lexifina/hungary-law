@@ -1,3 +1,1 @@
-5. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 101. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A 98. § (1) bekezdés d) pontja alapján elrendelt kiutasításról szóló határozat ellen indított közigazgatási perben a bíróság a kiutasításról szóló határozatot nem változtathatja meg, a bíróság a határozatok törvényességéről a közigazgatási szerv eljárásának vizsgálata alapján dönt. Ha az idegenrendészeti hatóság döntését minősített adatra alapozta, a bíróság a keresetlevél, a védirat és az ügy iratainak megküldésével a felperes érdekeinek védelmére felhívja az ügyészséget a perbelépésre, az ügyészség perbelépése kötelező.”
+### 5. §

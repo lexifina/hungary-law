@@ -1,3 +1,1 @@
-6. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 122. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az (1) bekezdés c) pontja alapján elrendelt önálló beutazási és tartózkodási tilalomról szóló határozat ellen indított közigazgatási perben a bíróság az önálló beutazási és tartózkodási tilalomról szóló határozatot nem változtathatja meg, a bíróság a határozatok törvényességéről a közigazgatási szerv eljárásának vizsgálata alapján dönt. Ha az idegenrendészeti hatóság döntését minősített adatra alapozta, a bíróság a keresetlevél, a védirat és az ügy iratainak megküldésével a felperes érdekeinek védelmére felhívja az ügyészséget a perbelépésre, az ügyészség perbelépése kötelező.”
+### 6. §
