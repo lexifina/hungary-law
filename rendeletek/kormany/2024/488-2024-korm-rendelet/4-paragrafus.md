@@ -1,3 +1,3 @@
-4. §[^4]
+4. § Az R. a következő 8. §-sal egészül ki:
 
-[^4]: A 4. § a 6. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+„8. § E rendeletnek a MódR3.-mal megállapított 2/C. §-át a 2025. július 1-jén folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
