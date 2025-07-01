@@ -1,4 +1,4 @@
-## 5. §[^5] A rehabilitációs orvosszakértő a Hivatalnál – legfeljebb 3 évre – kérheti tevékenységének szüneteltetését a kérelem benyújtását követő kezdő és záró időpontjának megjelölésével. A kérelem elektronikus úton is benyújtható. A bejelentés időtartama a szüneteltetés időtartamával meghosszabbodik. A szüneteltetés záró időpontja a szüneteltetés alatt módosítható.
+## 5. §[^7] A rehabilitációs orvosszakértő a Hivatalnál – legfeljebb 3 évre – kérheti tevékenységének szüneteltetését a kérelem benyújtását követő kezdő és záró időpontjának megjelölésével. A kérelem elektronikus úton is benyújtható. A bejelentés időtartama a szüneteltetés időtartamával meghosszabbodik. A szüneteltetés záró időpontja a szüneteltetés alatt módosítható.
 
 6. § (1) A rehabilitációs orvosszakértő köteles a Hivatal által szervezett 20 óra időtartamú, írásbeli vizsgával záruló továbbképzésen részt venni és a vizsgakövetelményeket teljesíteni
 
@@ -14,4 +14,4 @@ b) az elméleti és gyakorlati ismeretek folyamatos szinten tartása,
 
 c) az egységes szemlélet és gyakorlat kialakítása a rehabilitációs orvosszakértői tevékenységben.
 
-[^5]: Az 5. § a 668/2020. (XII. 28.) Korm. rendelet 47. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 5. § a 668/2020. (XII. 28.) Korm. rendelet 47. § (3) bekezdésével megállapított szöveg.
