@@ -14,7 +14,7 @@ c) a hitel esetében tőketörlesztés az eredeti lejárat vagy a szerződésben
 
 (2)
 
-(3) Az 575/2013/EU rendelet Első rész II. cím 2. fejezetének alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
+(3) A Hpt. 172–176. §-a és az 575/2013/EU rendelet Első rész II. cím 2. fejezetének alkalmazásában az Eximbank pénzügyi vállalkozásnak minősül.
 
 (4) Az Eximbank nem alkalmazza az 575/2013/EU rendelet 411–428. cikkében foglaltakat.
 
