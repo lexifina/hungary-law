@@ -1,4 +1,4 @@
-6/A. §[^14] (1) Doktori iskolát megállapodásuk alapján több felsőoktatási intézmény is létrehozhat (a továbbiakban: közös doktori iskola). A megállapodásban rögzíteni kell, melyik felsőoktatási intézmény a doktori iskola a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes végrehajtásáról szóló 87/2015. (IV. 19) Korm. rendelet (a továbbiakban: 87/2015. Korm. rendelet) 19. § (3) bekezdés a) pontja szerinti adminisztratív feladatokat ellátó felsőoktatási intézménye (a továbbiakban: koordináló felsőoktatási intézmény) és melyik vagy melyek a társ felsőoktatási intézményei.
+6/A. §[^15] (1) Doktori iskolát megállapodásuk alapján több felsőoktatási intézmény is létrehozhat (a továbbiakban: közös doktori iskola). A megállapodásban rögzíteni kell, melyik felsőoktatási intézmény a doktori iskola a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes végrehajtásáról szóló 87/2015. (IV. 19) Korm. rendelet (a továbbiakban: 87/2015. Korm. rendelet) 19. § (3) bekezdés a) pontja szerinti adminisztratív feladatokat ellátó felsőoktatási intézménye (a továbbiakban: koordináló felsőoktatási intézmény) és melyik vagy melyek a társ felsőoktatási intézményei.
 
 (2) A közös doktori iskola hallgatói a koordináló felsőoktatási intézménnyel állnak hallgatói jogviszonyban, a tudományos fokozatot a koordináló felsőoktatási intézmény állítja ki részükre azzal, hogy abban a társ felsőoktatási intézményt vagy intézményeket is fel kell tüntetni.
 
@@ -8,4 +8,4 @@
 
 (5) Az (1)–(4) bekezdésben foglaltaktól eltérő kérdésekben a közös doktori iskolára a doktori iskolára előírt szabályokat kell megfelelően alkalmazni.
 
-[^14]: A 6/A. §-t a 617/2022. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^15]: A 6/A. §-t a 617/2022. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
