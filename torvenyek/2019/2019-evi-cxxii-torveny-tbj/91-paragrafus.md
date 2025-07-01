@@ -8,6 +8,8 @@ b) a külföldi telephellyel rendelkező vállalkozás esetén a kiküldetést m
 
 a 25 százalékot.
 
+(2a) A (2) bekezdés b) pontja szerinti feltétel fennállásáról az állami adó- és vámhatóság az egészségbiztosítási szerv megkeresésére adatot szolgáltat.
+
 (3) A magyar jog alkalmazandó jogként meghatározható a (2) bekezdésben meghatározott feltételek hiányában akkor is, ha a munkáltató olyan tényeket, körülményeket igazol, amelyből a jelentős belföldi gazdasági tevékenység valószínűsíthető (így különösen, ha a vállalkozás belföldön folyamatos termelőtevékenységet végez).
 
 (4) A jelentős gazdasági tevékenységgel kapcsolatos feltételt teljesítettnek kell tekinteni akkor is, ha a munkáltató jogelődje teljesíti a jelentős gazdasági tevékenység feltételét.
