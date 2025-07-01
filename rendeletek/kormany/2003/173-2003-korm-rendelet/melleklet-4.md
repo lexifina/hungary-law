@@ -74,6 +74,6 @@
 
 ## 3 = eseti jelleggel nyitva tartó szálláshely
 
-4. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^117]
+4. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^118]
 
-[^117]: A 4. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 306. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^118]: A 4. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 306. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

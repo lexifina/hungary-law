@@ -30,27 +30,27 @@ b) a jegyző a (4) bekezdés szerinti ellenőrzés során nem tárt fel olyan hi
 
 a)[^48] a fővárosi és megyei kormányhivatalnak a népegészségügyi feladatkörében eljáró – a szálláshely szerint illetékes – járási (fővárosi kerületi) hivatalát (a továbbiakban: népegészségügyi feladatkörében eljáró járási hivatal) a közegészségügyi követelmények,
 
-b) a szálláshely szerint illetékes tűzoltó-parancsnokságot a tűzvédelmi előírások,
+b)[^49] a szálláshely szerint illetékes tűzvédelmi hatóságot a tűzvédelmi előírások,
 
 c) a szálláshely szerint illetékes építésügyi hatóságot az építéshatósági követelmények,
 
-d)[^49] külterületen vagy természetvédelmi oltalom alatt álló belterületen lévő szálláshely esetén a szálláshely szerint illetékes környezetvédelmi hatóságot a környezetvédelmi és természetvédelmi előírások,
+d)[^50] külterületen vagy természetvédelmi oltalom alatt álló belterületen lévő szálláshely esetén a szálláshely szerint illetékes környezetvédelmi hatóságot a környezetvédelmi és természetvédelmi előírások,
 
-e)[^50] külterületen vagy természetvédelmi oltalom alatt álló belterületen lévő szálláshely esetén a szálláshely szerint illetékes vízügyi hatóságot a vízügyi előírások
+e)[^51] külterületen vagy természetvédelmi oltalom alatt álló belterületen lévő szálláshely esetén a szálláshely szerint illetékes vízügyi hatóságot a vízügyi előírások
 
 ## teljesítésének ellenőrzése céljából. A hatóság az ellenőrzés eredményéről és a megtett intézkedésekről értesíti a jegyzőt.
 
 (6) Az építményjegyzék alapján lakóépületnek minősülő épületben kiegészítő vagy melléktevékenységként nyújtott nem üzleti célú közösségi, szabadidős szálláshely- szolgáltatás esetén
 
-a)[^51] az alaptevékenység végzésére jogosító okiratot kell csatolni a kérelemhez,
+a)[^52] az alaptevékenység végzésére jogosító okiratot kell csatolni a kérelemhez,
 
 b) az alaptevékenység nyújtására jogosító okiratban foglaltakhoz képest kizárólag a megváltozott körülményekkel, illetve az e rendeletben a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásra meghatározott többletkövetelményekkel kapcsolatos (5) bekezdés szerinti hatósági ellenőrzést kell kezdeményezni.
 
-(7)[^52] A felsőoktatásról szóló 2005. évi CXXXIX. törvény 13. §-ának (1) bekezdése szerinti kollégium a nyilvántartásba vételt az Oktatási Hivatal útján is kérelmezheti, illetve a hatósági nyilvántartásban szereplő adataiban bekövetkező változást az Oktatási Hivatal útján is bejelentheti.
+(7)[^53] A felsőoktatásról szóló 2005. évi CXXXIX. törvény 13. §-ának (1) bekezdése szerinti kollégium a nyilvántartásba vételt az Oktatási Hivatal útján is kérelmezheti, illetve a hatósági nyilvántartásban szereplő adataiban bekövetkező változást az Oktatási Hivatal útján is bejelentheti.
 
-(8)[^53]
+(8)[^54]
 
-(9)[^54]
+(9)[^55]
 
 [^41]: A 14/A. §-t a 218/2007. (VIII. 15.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^42]: A 14/A. § (1) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -60,9 +60,10 @@ b) az alaptevékenység nyújtására jogosító okiratban foglaltakhoz képest 
 [^46]: A 14/A. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^47]: A 14/A. § (5) bekezdés záró szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (42) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 49. § b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^48]: A 14/A. § (5) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 33. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
-[^49]: A 14/A. § (5) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
-[^50]: A 14/A. § (5) bekezdés e) pontját az 527/2013. (XII. 30.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^51]: A 14/A. § (6) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^52]: A 14/A. § (7) bekezdése a 13/2020. (II. 7.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
-[^53]: A 14/A. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 306. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 119. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^54]: A 14/A. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 306. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 119. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^49]: A 14/A. § (5) bekezdés b) pontja a 175/2025. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^50]: A 14/A. § (5) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^51]: A 14/A. § (5) bekezdés e) pontját az 527/2013. (XII. 30.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^52]: A 14/A. § (6) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A 14/A. § (7) bekezdése a 13/2020. (II. 7.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^54]: A 14/A. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 306. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 119. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^55]: A 14/A. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 306. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 119. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
