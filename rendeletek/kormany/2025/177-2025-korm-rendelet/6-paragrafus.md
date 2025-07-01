@@ -1,0 +1,3 @@
+6. § A Rendelet2. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A sportorvosi vizsgálat eredményét a sportszövetség által külön e célra – az OSEI konzultatív hátterével – készített nyomtatványon vagy az OSEI elektronikus nyilvántartásából, technikai adatkapcsolat útján, közvetlenül a sportszövetség, illetve a Nemzeti Sportinformációs Rendszer részére átadott adattartalommal, digitális formában (a továbbiakban együtt: sportorvosi engedély) kell nyilvántartani. A sportorvosi engedély sportágtól független kötelező tartalmi elemeit az 1. melléklet tartalmazza. A sportorvosi engedély egyéb egészségügyi adatot nem tartalmazhat.”

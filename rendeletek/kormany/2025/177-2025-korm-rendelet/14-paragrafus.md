@@ -1,0 +1,3 @@
+14. § A Rendelet3. a következő 15. §-sal egészül ki:
+
+„15. § E rendeletnek a sporteredmények megbecsülését, a sport célú támogatásokat és a sportorvoslást érintő egyes kormányrendeletek módosításáról szóló 177/2025. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 6/A. §-a alapján a nevelőedzőt a Módr3. hatálybalépését követően az egyes sportágakban a következő, jutalomra jogosító sportvilágeseményhez kapcsolódóan kell megjelölni. A Módr3. hatálybalépésekor állami jutalomra vagy eredményességi támogatásra vonatkozóan már folyamatban lévő eljárásokat a Módr. hatálybalépése nem érinti.”
