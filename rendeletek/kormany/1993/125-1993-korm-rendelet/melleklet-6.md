@@ -128,6 +128,6 @@
 
 ## a kérelmet átvevő hatóság megnevezése
 
-6. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^112]
+6. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^113]
 
-[^112]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^113]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
