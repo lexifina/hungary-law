@@ -4,7 +4,7 @@
 
 1. életkezdési támogatás: a gyermeket 18. életévének betöltése napján e törvény alapján Magyarország törvényes fizetőeszközében megillető összeg;
 
-2. fiatal felnőtt: a 18. életévének betöltése napját követően a 3. pontban említett személy;
+2. fiatal felnőtt: a 18. életévének betöltése napját követően a 3. és 3a. pontban említett személy;
 
 3. belföldi gyermek: Magyarország területén élő magyar állampolgár a 18. életévének betöltése napjáig;
 
