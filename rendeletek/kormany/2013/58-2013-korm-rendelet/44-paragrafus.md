@@ -4,13 +4,13 @@
 
 a) egyértelműen megállapítható, hogy a kiszervezés a víziközmű-szolgáltatás költséghatékonyságát lényegesen javítani tudja, vagy
 
-b)[^140] a kérelmező nem rendelkezik azokkal a kapacitásokkal, képességekkel, melyek az adott tevékenység elvárt tartalmú és színvonalú elvégzéséhez szükségesek, és ezek kiépítése, rövid vagy középtávon meg nem térülő beruházási költséggel járna, és
+b)[^141] a kérelmező nem rendelkezik azokkal a kapacitásokkal, képességekkel, melyek az adott tevékenység elvárt tartalmú és színvonalú elvégzéséhez szükségesek, és ezek kiépítése, rövid vagy középtávon meg nem térülő beruházási költséggel járna, és
 
-c)[^141] a kérelmező valamennyi engedélyezett kiszervezett tevékenységének szerződéses összege nem haladja meg a Vksztv. 45. § (2) bekezdésében meghatározott értéket.
+c)[^142] a kérelmező valamennyi engedélyezett kiszervezett tevékenységének szerződéses összege nem haladja meg a Vksztv. 45. § (2) bekezdésében meghatározott értéket.
 
-(3)[^142] A Hivatal az engedélyező határozatban
+(3)[^143] A Hivatal az engedélyező határozatban
 
-a)[^143] az (1) bekezdés szerinti összehasonlító elemzés alapján és a Vksztv. 45. § (2) bekezdése szerinti feltételre tekintettel meghatározza azt a – kérelem tárgyát képező tevékenységre vonatkozó – díjat, amelynél magasabb ellenérték a kiszervezési szerződésben nem köthető ki érvényesen,
+a)[^144] az (1) bekezdés szerinti összehasonlító elemzés alapján és a Vksztv. 45. § (2) bekezdése szerinti feltételre tekintettel meghatározza azt a – kérelem tárgyát képező tevékenységre vonatkozó – díjat, amelynél magasabb ellenérték a kiszervezési szerződésben nem köthető ki érvényesen,
 
 b) a kérelemhez képest szűkebb tevékenységrészre – a költséghatékonyság figyelembevételével – korlátozhatja az engedélyt,
 
@@ -18,7 +18,7 @@ c) kötelezheti a kérelmezőt, hogy az engedélyben foglalt határidő lejárt�
 
 d) a kiszervezéssel kapcsolatban további kötelezettséget is előírhat.
 
-[^140]: A 44. § (2) bekezdés b) pontja a 342/2016. (XI. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^141]: A 44. § (2) bekezdés c) pontját a 342/2016. (XI. 17.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^142]: A 44. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^143]: A 44. § (3) bekezdés a) pontja a 243/2023. (VI. 20.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
+[^141]: A 44. § (2) bekezdés b) pontja a 342/2016. (XI. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^142]: A 44. § (2) bekezdés c) pontját a 342/2016. (XI. 17.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^143]: A 44. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^144]: A 44. § (3) bekezdés a) pontja a 243/2023. (VI. 20.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.

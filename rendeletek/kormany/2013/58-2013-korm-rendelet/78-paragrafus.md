@@ -1,3 +1,3 @@
-78. §[^310]
+78. §[^316]
 
-[^310]: A 78. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^316]: A 78. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 15. pontja hatályon kívül helyezte.

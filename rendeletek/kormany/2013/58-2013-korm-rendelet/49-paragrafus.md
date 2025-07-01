@@ -1,4 +1,4 @@
-## 49. §[^153] A Hivatal előzetes engedélye szükséges az ellátási területre vonatkozó, víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséhez:
+## 49. §[^154] A Hivatal előzetes engedélye szükséges az ellátási területre vonatkozó, víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséhez:
 
 1. víziközmű napi üzemben tartása,
 
@@ -32,9 +32,9 @@
 
 16. víziközmű-üzemeltetési tevékenységgel összefüggő laborvizsgálatok végzése a radioaktivitás-vizsgálatok kivételével,
 
-17.[^154] a kritikus szervezetek, kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének biztosítása,
+17.[^155]
 
 18. víziközmű-üzemeltetés teljes körű informatikai üzemirányítása.
 
-[^153]: A 49. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^154]: A 49. § 17. pontja a 474/2024. (XII. 31.) Korm. rendelet 138. §-ával megállapított szöveg.
+[^154]: A 49. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^155]: A 49. § 17. pontját a 159/2025. (VI. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.

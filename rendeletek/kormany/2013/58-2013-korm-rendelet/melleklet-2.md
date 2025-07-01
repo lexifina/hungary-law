@@ -1,4 +1,4 @@
-2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^441]
+2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^447]
 
 Az engedélykérelem mellékletei
 
@@ -70,4 +70,4 @@ Az engedélykérelem mellékletei
 
 29. az engedély módosítása iránti kérelem esetén a 2–28. pontban meghatározott mellékletek közül elegendő azokat mellékelni, amelyek vonatkozásában a korábbi engedélyezési eljárásban benyújtotthoz képest változás történt, és a változással nem érintett tárgykörök esetében elegendő azok változatlanságáról nyilatkozni.
 
-[^441]: A 2. melléklet a 358/2024. (XI. 25.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^447]: A 2. melléklet a 358/2024. (XI. 25.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.

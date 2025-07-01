@@ -4,7 +4,7 @@
 
 (3) A Beszerzési terv minimális tartalma:
 
-a)[^421] a vonatkozó uniós közbeszerzési értékhatár legalább 50 százalékát meghaladó beszerzés tárgyának megnevezése, részletes leírása;
+a)[^427] a vonatkozó uniós közbeszerzési értékhatár legalább 50 százalékát meghaladó beszerzés tárgyának megnevezése, részletes leírása;
 
 b) a beszerzés indokolása;
 
@@ -18,4 +18,4 @@ e) teljesítés tervezett időpontja.
 
 (5) Előre nem látható okból előállt beszerzési igény vagy egyéb, a tervben szükséges változtatás esetén a Beszerzési tervet módosítani kell.
 
-[^421]: A 94/B. § (3) bekezdés a) pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 42. pontja szerint módosított szöveg.
+[^427]: A 94/B. § (3) bekezdés a) pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 42. pontja szerint módosított szöveg.

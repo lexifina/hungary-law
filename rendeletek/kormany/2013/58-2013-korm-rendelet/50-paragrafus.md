@@ -1,4 +1,4 @@
-50. §[^155] (1) A víziközmű-szolgáltató a szerződés létrejöttét követően 30 napon belül tájékoztatja a Hivatalt a megkötött szerződés vagy annak módosítása egy példányának elektronikus úton történő megküldésével az ellátási területre vonatkozó víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséről:
+50. §[^156] (1) A víziközmű-szolgáltató a szerződés létrejöttét követően 30 napon belül tájékoztatja a Hivatalt a megkötött szerződés vagy annak módosítása egy példányának elektronikus úton történő megküldésével az ellátási területre vonatkozó víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséről:
 
 1. számlakészítés, számlafeldolgozás,
 
@@ -16,8 +16,9 @@
 
 8. energiaellátás, vezérlés és adattovábbítás speciális tárgyi eszközeinek, gépeinek és berendezéseinek, ezen belül transzformátoroknak, aggregátoroknak, kapcsolószekrényeknek, frekvenciaváltóknak, irányítástechnikai berendezéseknek, adattovábbítást és vezérlést biztosító berendezéseknek a szervizelése, felújítása és javítása,
 
-9. létfontosságú rendszerelem védelme.
+9.[^157] a kritikus szervezetek, kritikus infrastruktúrák, valamint az ország védelme és biztonsága szempontjából jelentős szervezetek és az ország védelme és biztonsága szempontjából jelentős infrastruktúrák ellenálló képességének biztosítása.
 
 (2) Ha az (1) bekezdésben meghatározott szerződés ajánlat elfogadásával jött létre, a víziközmű-szolgáltató az elvégzett tevékenységről, a kiszervezés összegéről, valamint a kiszervezett tevékenységet ellátóról az (1) bekezdésben foglalt határidőben, írásban tájékoztatja a Hivatalt.
 
-[^155]: Az 50. § a 358/2024. (XI. 25.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^156]: Az 50. § a 358/2024. (XI. 25.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^157]: Az 50. § (1) bekezdés 9. pontja a 159/2025. (VI. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

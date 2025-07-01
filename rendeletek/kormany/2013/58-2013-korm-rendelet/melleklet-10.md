@@ -188,8 +188,8 @@
 
 ## 10. A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^459]
+10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^465]
 
 Kérelem fogyatékossággal élő személyként a védendő felhasználók nyilvántartásába történő felvétel / nyilvántartás meghosszabbítása iránt
 
-[^459]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (7) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^465]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 358/2024. (XI. 25.) Korm. rendelet 24. § (7) bekezdésével megállapított, a 86/2025. (IV. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.

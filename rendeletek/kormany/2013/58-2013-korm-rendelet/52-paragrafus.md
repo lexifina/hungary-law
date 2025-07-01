@@ -1,6 +1,6 @@
-## V. Fejezet[^161]
+## V. Fejezet[^163]
 
-## A VÍZIKÖZMŰ TÉRKÉPI NYILVÁNTARTÁSOKRA VONATKOZÓ SZABÁLYOK[^162]
+## A VÍZIKÖZMŰ TÉRKÉPI NYILVÁNTARTÁSOKRA VONATKOZÓ SZABÁLYOK[^164]
 
 ## 52. § A víziközmű térképi nyilvántartás közhiteles adatállománya:
 
@@ -32,5 +32,5 @@ bf) a kényszeráramoltatású szennyvízhálózat vezetékei;
 
 c) az egyéb víziközmű létesítmények felületszerű, vonalszerű és pontszerű egységei.
 
-[^161]: Az V. Fejezetet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnan (52. §) a 370/2016. (XI. 29.) Korm. rendelet 5. §-a iktatta be.
-[^162]: Az V. fejezet címe a 348/2017. (XI. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^163]: Az V. Fejezetet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnan (52. §) a 370/2016. (XI. 29.) Korm. rendelet 5. §-a iktatta be.
+[^164]: Az V. fejezet címe a 348/2017. (XI. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

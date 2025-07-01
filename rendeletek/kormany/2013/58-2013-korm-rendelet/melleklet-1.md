@@ -1,4 +1,4 @@
-1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^440]
+1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^446]
 
 Üzemeltetési szerződés jóváhagyása iránti kérelem mellékletei és az üzemeltetési szerződés minimális tartalmi követelményei
 
@@ -86,4 +86,4 @@
 
 2.26.2. a megépülő vagyontárgyak (vízilétesítmények) tulajdonjogára, az állami tulajdonba, illetve önkormányzati törzsvagyonba történő átadás-átvételre vonatkozó szándéknyilatkozatokat.
 
-[^440]: Az 1. melléklet a 358/2024. (XI. 25.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^446]: Az 1. melléklet a 358/2024. (XI. 25.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
