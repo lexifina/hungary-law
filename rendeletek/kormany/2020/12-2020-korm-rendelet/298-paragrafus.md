@@ -64,11 +64,11 @@ g) az (1) bekezdés c) pontjában meghatározott feladatok közül az oktatói t
 
 útján végzi.
 
-(4)[^465] A (3) bekezdésben meghatározott feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt, azzal, hogy a (3) bekezdés f) pontjában meghatározott feladat végrehajtását a Nemzeti Szakképzési és Felnőttképzési Hivatal a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társasággal együttműködésben is végezheti.
+(4)[^465] A (3) bekezdésben meghatározott feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt, azzal, hogy a (3) bekezdés f) pontjában meghatározott feladat végrehajtását a Nemzeti Szakképzési és Felnőttképzési Hivatal a Közlekedéstudományi Intézettel együttműködésben is végezheti.
 
 [^460]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^461]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
 [^462]: A 298. § (1) bekezdés e) pontját a 129/2024. (VI. 17.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^463]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
 [^464]: A 298. § (3) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 54. §-ával megállapított szöveg.
-[^465]: A 298. § (4) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 54. §-a iktatta be.
+[^465]: A 298. § (4) bekezdését a 84/2025. (IV. 22.) Korm. rendelet 54. §-a iktatta be, szövege a 141/2025. (VI. 19.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
