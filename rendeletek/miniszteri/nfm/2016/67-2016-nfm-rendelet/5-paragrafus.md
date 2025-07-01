@@ -1,39 +1,45 @@
-5. § (1) A hatósági árelőkészítés érdekében az egyetemes szolgáltató minden negyedévet megelőző második hónap 1. napjáig köteles megadni a Hivatal részére a forrásszerződései szerint az egyetemes szolgáltatásra jogosult felhasználók ellátására felhasználni tervezett földgáz mennyiségét források szerinti bontásban.
+5. §[^5] (1) A hatósági árelőkészítés érdekében az egyetemes szolgáltató minden gázévet megelőző február 15-ig megadja a Hivatal részére a forrásszerződései szerint az egyetemes szolgáltatásra jogosult felhasználók gázéves ellátására felhasználni tervezett földgáz mennyiségét források szerinti havi bontásban.
 
-(2)[^22] Az (1) bekezdés szerint bejelentett negyedéves mennyiség a GET 141/A. §, GET 141/J. § szerinti felajánlásból történő vásárlás esetén legfeljebb 5%-kal térhet el az 1. § (5) bekezdés, illetve a 2. § (5) bekezdés szerint az adott negyedév hónapjaira bejelentett mennyiségektől.
+(2) Az egyetemes szolgáltatót ellátó földgázkereskedő a tárgyhónapot követő hónap 15. napjáig a tárgyhavi felajánlási ár 1. § (2) bekezdése és 2. § (2) bekezdése alapján kiszámított értékére vonatkozóan adatot szolgáltat az energiapolitikáért felelős miniszter és a Hivatal részére, indokolással alátámasztva.
 
-(3)[^23]
+(3) Az egyetemes szolgáltató a negyedévet követő hónap végéig megadja a Hivatal részére az elmúlt negyedév tény értékesítési adatait – elosztói területenként és forrásonként – havi bontásban.
 
-(3a)[^24] Az egyetemes szolgáltató a negyedévet követő hónap végéig megadja a Hivatal részére az elmúlt negyedév tény értékesítési adatait elosztói területenként és forrásonként havi bontásban.
+(4) Ha az egyetemes szolgáltatónak az 1. melléklet alapján az egyetemes szolgáltatás céljára igénybe vett földgázforrásain a tényadatok szerint az egyetemes szolgáltatás árára tekintettel vesztesége keletkezik, annak indokolt mértéke az elszámolással érintett naptári évet követő tizenkettedik negyedév végéig figyelembevételre kerül az árképzési rendelet 3. § (1) bekezdés h) pontja szerinti árelem megállapítása során.
 
-(4)[^25] Amennyiben az adott negyedévben az egyetemes szolgáltatónak az 1. melléklet alapján az egyetemes szolgáltatás céljára igénybevett földgázforrásain a tényadatok szerint az egyetemes szolgáltatás árára tekintettel vesztesége keletkezik, annak indokolt mértéke az árszabályozás során az elszámolással érintett naptári évet követő tizenkettedik negyedév végéig figyelembevételre kerül. Amíg az egyetemes szolgáltató a (3a) bekezdés alapján a tényadatokat nem bocsátja a Hivatal rendelkezésére, az egyetemes szolgáltató által a Hivatal felhívása alapján megadott, becsült adatok kerülnek figyelembevételre.
+(5) Ha az egyetemes szolgáltató az 1. melléklet alapján az egyetemes szolgáltató által alkalmazott árakra tekintettel a tényadatok szerint, az indokolt költségekhez képest többletbevételre tesz szert, az az árképzési rendelet 3. § (1) bekezdés h) pontja szerinti árelem megállapítása során az elszámolással érintett naptári évet követő tizenkettedik negyedév végéig figyelembevételre kerül.
 
-(5)[^26] Amennyiben az adott negyedévben az egyetemes szolgáltató az 1. melléklet alapján az egyetemes szolgáltató által alkalmazott árakra tekintettel a tényadatok szerint, az indokolt költségekhez képest többletbevételre tesz szert, az az árszabályozás során az egyetemes szolgáltató esetében az elszámolással érintett naptári évet követő tizenkettedik negyedév, az egyetemes szolgáltatót ellátó földgázkereskedő esetében az elszámolással érintett gázévet követő hatodik negyedév végéig figyelembevételre kerül. Amíg az egyetemes szolgáltató a (3a) bekezdés alapján vagy az egyetemes szolgáltatót ellátó földgázkereskedő a (3) bekezdés alapján a tényadatokat nem bocsátja a Hivatal rendelkezésére, az egyetemes szolgáltató a (3a) bekezdés alapján vagy az egyetemes szolgáltatót ellátó földgázkereskedő által a Hivatal felhívása alapján megadott, becsült adatok kerülnek figyelembevételre.
+(6) Az egyetemes szolgáltató (4) bekezdés szerinti vesztesége és (5) bekezdés szerinti többletbevételének meghatározása az egyetemes szolgáltató éves beszámolójának alapját képező főkönyvi számlákon nyilvántartott
 
-(6)[^27] Ha az adott negyedévben az 1–2. mellékletek alapján az egyetemes szolgáltatás árára tekintettel – figyelembe véve az árrendeletben és a vonatkozó rendeletekben szereplő, az egyetemes szolgáltató által alkalmazandó díjak mértékét a szállításra vagy a tárolásra vonatkozóan – az egyetemes szolgáltatót ellátó földgázkereskedő az egyetemes szolgáltatás céljára értékesített földgázforrásain a tényadatok szerint az indokolt költségekhez képest többletbevételre tesz szert vagy veszteséget szenved el, az az árszabályozás során az elszámolással érintett gázévet követő hatodik negyedév végéig figyelembevételre kerül.
+a) főtevékenységből származó árbevétel,
 
-(6a)[^28] Az egyetemes szolgáltatót ellátó földgázkereskedő (6) bekezdés szerinti indokolt költsége
+b) elosztási költségek és ráfordítások, valamint
 
-a) a földgázszállító rendszer kiadási pontjaira vonatkozó kapacitásköltség vonatkozásában a tény hőmérsékleti viszonyokat figyelembe vevő, az egyetemes szolgáltatás forrásellátása érdekében felmerülő modellezett értéket,
+c) korrekciós elszámolás árbevétele és ráfordítása
 
-b) a magyar gázkiegyenlítési ponton történő beszerzés vonatkozásában az egyetemes szolgáltatót ellátó földgázkereskedő által a forrás árától el nem különített módon, közvetve megfizetett és a Hivatal által elismert mértékű kapacitásköltséget,
+alapján történik.
 
-c) egyéb esetekben a szállítási és tárolási rendszerüzemeltetők részére ténylegesen megfizetett díjakat, valamint
+(7) Ha az 1. § (2) bekezdése és a 2. § (2) bekezdése alapján az egyetemes szolgáltató által alkalmazott árakra tekintettel – figyelembe véve az Árrendeletben szereplő, az egyetemes szolgáltató által alkalmazandó díjak mértékét a szállításra vagy a tárolásra vonatkozóan – az egyetemes szolgáltatót ellátó földgázkereskedő az egyetemes szolgáltatás céljára értékesített földgázforrásain a tényadatok szerint az indokolt költségekhez képest többletbevételre tesz szert, vagy veszteséget szenved el, annak figyelembevétele az Árképzési rendelet 3. § (1) bekezdés g) pontja szerinti árelem megállapítása során az alábbiak szerint történik:
 
-d) a nagykereskedelmi árrésben elismert tőkeköltség árképzési rendelet szerinti tényértékek alapján számított értéket
+a) a szállítás és tárolás indokolt költsége és az 5. melléklet 1. pontja alapján számított árbevétel közötti különbségből adódó többlet vagy veszteség a tárgy gázévet követő negyedévben;
+
+b) az egyetemes szolgáltató kiegyensúlyozásához kötődő költségek és nyereségek nettó eredménye a tárgyévet követő első negyedévben;
+
+c) az Árképzési rendelet 2. melléklet 4. pontja szerinti elemek tényértékekhez viszonyított eltérése miatti tárgyévi árbevétel többlet vagy hiány a tárgyév első három negyedéve vonatkozásában a negyedik negyedévben, a tárgyév vonatkozásában a tárgyévet követő első negyedévben
+
+kerül elszámolásra.
+
+(8) Az egyetemes szolgáltatót ellátó földgázkereskedő (7) bekezdés szerinti indokolt költsége
+
+a) az 5. melléklet 1. pont 1.1. alpont 1.1.2. pontja szerinti kapacitásköltség tény hőmérsékleti viszonyok alapján számított értékét,
+
+b) az 5. melléklet 1. pontja szerinti egyéb költségek tényértékek alapján az 5. melléklet 2. pontja figyelembe vételével számított értékét,
+
+c) a (7) bekezdés b) pontja szerinti nettó eredmény 5. melléklet 3. pontja szerint számított értékét, valamint
+
+d) a nagykereskedelmi árrésben elismert tőkeköltség Árképzési rendelet szerinti tényértékek alapján számított értékét
 
 jelenti.
 
-(7)[^29]
+(9) A földgáz beszerzési költségre fedezetet nyújtó tétel meghatározásakor figyelembe vett, az Árképzési rendelet 3. § (1) bekezdés b)–h) pontja szerinti árelemek mértékét a Hivatal a 3. § (2) bekezdése szerinti egyenlegközléssel egyidejűleg megadja az egyetemes szolgáltatót ellátó földgázkereskedőnek.
 
-(8)[^30] A földgáz beszerzési költségre fedezetet nyújtó tételben figyelembe vett árelem mértékét a Hivatal a 3. § (3) bekezdés szerinti egyenlegközléssel egyidejűleg megadja az egyetemes szolgáltatót ellátó földgázkereskedőnek.
-
-[^22]: Az 5. § (2) bekezdése a 3/2024. (III. 28.) EM rendelet 3. § b) pontja szerint módosított szöveg.
-[^23]: Az 5. § (3) bekezdését a 44/2024. (XII. 31.) EM rendelet 5. § c) pontja hatályon kívül helyezte.
-[^24]: Az 5. § (3a) bekezdését a 38/2017. (IX. 29.) NFM rendelet 8. §-a iktatta be.
-[^25]: Az 5. § (4) bekezdése a 38/2017. (IX. 29.) NFM rendelet 12. § a) pontja, a 8/2018. (III. 28.) NFM rendelet 8. § b) pontja, a 10/2024. (VI. 28.) EM rendelet 2. § a) pontja szerint módosított szöveg.
-[^26]: Az 5. § (5) bekezdése a 38/2017. (IX. 29.) NFM rendelet 12. § b) pontja, a 8/2018. (III. 28.) NFM rendelet 8. § c) pontja, a 10/2022. (III. 31.) ITM rendelet 2. § f) pontja, az 5/2022. (VI. 30.) TIM rendelet 2. § d) pontja, a 10/2024. (VI. 28.) EM rendelet 2. § b) pontja, a 44/2024. (XII. 31.) EM rendelet 5. § d) pontja szerint módosított szöveg.
-[^27]: Az 5. § (6) bekezdése a 8/2018. (III. 28.) NFM rendelet 8. § d) pontja, a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja, az 5/2022. (VI. 30.) TIM rendelet 2. § d) pontja, a 21/2022. (IX. 30.) TIM rendelet 1. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^28]: Az 5. § (6a) bekezdését a 19/2018. (IX. 27.) ITM rendelet 6. §-a iktatta be, szövege a 21/2022. (IX. 30.) TIM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 5. § (7) bekezdését a 8/2018. (III. 28.) NFM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 48/2021. (IX. 30.) ITM rendelet 3. § (2) bekezdés c) pontja.
-[^30]: Az 5. § (8) bekezdését a 8/2018. (III. 28.) NFM rendelet 5. §-a iktatta be, szövege a 10/2022. (III. 31.) ITM rendelet 2. § b) pontja, a 3/2024. (III. 28.) EM rendelet 4. §-a szerint módosított szöveg.
+[^5]: Az 5. § a 15/2025. (VI. 30.) EM rendelet 2. §-ával megállapított szöveg.

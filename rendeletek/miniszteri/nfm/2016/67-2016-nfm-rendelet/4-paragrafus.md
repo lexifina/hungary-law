@@ -1,3 +1,3 @@
-4. §[^21]
+4. §[^4]
 
-[^21]: A 4. §-t a 44/2024. (XII. 31.) EM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^4]: A 4. §-t a 44/2024. (XII. 31.) EM rendelet 5. § b) pontja hatályon kívül helyezte.

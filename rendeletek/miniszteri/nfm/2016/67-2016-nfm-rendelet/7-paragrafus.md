@@ -1,12 +1,9 @@
-7. § (1)[^37] Amennyiben az egyetemes szolgáltató az 1–2. mellékletben szereplő földgázt nem az egyetemes szolgáltatásban vételezők ellátására fordítja, a Hivatal által ellenőrzött utólagos elszámolás mellett ezen mennyiség tekintetében – a megfizetett díjon felül – a 3. mellékletben szereplő, az adott negyedévre érvényes aktuális importár negyedéves átlag értékének 50%-át, mint felárat is köteles megfizetni az egyetemes szolgáltatót ellátó földgázkereskedő részére.
+7. §[^13] (1) Ha az egyetemes szolgáltató az 1. és a 2. mellékletben szereplő földgázt nem az egyetemes szolgáltatásban vételezők ellátására fordítja, a Hivatal által ellenőrzött utólagos elszámolás mellett ezen mennyiség tekintetében – a megfizetett díjon felül – a 3. mellékletben meghatározott, az adott hónapra érvényes aktuális importár értékének 50%-ával megegyező felárat is megfizet az egyetemes szolgáltatót ellátó földgázkereskedő részére.
 
-(2)[^38]
+(2) Ha az adott hónapban az egyetemes szolgáltató az 1. és a 2. mellékletben meghatározott földgáz mennyiséget közvetve vagy közvetlenül nem az egyetemes szolgáltatásra jogosult felhasználók ellátására használja,
 
-(3)[^39] Amennyiben az adott negyedévben az egyetemes szolgáltató az 1. és a 2. mellékletekben meghatározott földgáz mennyiséget közvetve vagy közvetlenül nem az egyetemes szolgáltatásra jogosult felhasználók ellátására használja, és így az egyetemes szolgáltatót ellátó földgázkereskedőnek vesztesége keletkezik, az árszabályozás során a felajánlási ár megállapításakor ez a veszteség kamattal (tárgyidőszakra vonatkozó BUBOR) növelt összege figyelembevételre kerül.
+a) és így az egyetemes szolgáltatót ellátó földgázkereskedőnek vesztesége keletkezik, a veszteségnek a tárgyidőszakra vonatkozó Budapesti Bankközi Forint Hitelkamatlábbal növelt összege az Árképzési rendelet 3. § (1) bekezdés g) pontja szerinti árelem megállapításakor figyelembevételre kerül, és
 
-(4)[^40] Amennyiben az adott negyedévben az egyetemes szolgáltató az 1. és a 2. mellékletekben meghatározott földgáz mennyiséget közvetve vagy közvetlenül nem az egyetemes szolgáltatásra jogosult felhasználók ellátására használja, a Hivatal az egyetemes szolgáltatóval szemben a GET 119. § (1) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.
+b) a Hivatal az egyetemes szolgáltatóval szemben a GET 119. § (1) bekezdésében foglalt jogkövetkezményeket alkalmazza.
 
-[^37]: A 7. § (1) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja szerint módosított szöveg.
-[^38]: A 7. § (2) bekezdését a 44/2024. (XII. 31.) EM rendelet 5. § e) pontja hatályon kívül helyezte.
-[^39]: A 7. § (3) bekezdése a 44/2024. (XII. 31.) EM rendelet 1. §-ával megállapított szöveg.
-[^40]: A 7. § (4) bekezdése a 44/2024. (XII. 31.) EM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 7. § a 15/2025. (VI. 30.) EM rendelet 4. §-ával megállapított szöveg.
