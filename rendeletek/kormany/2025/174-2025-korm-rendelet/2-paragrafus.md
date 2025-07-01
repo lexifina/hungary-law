@@ -1,0 +1,5 @@
+2. § (1) A műszaki szolgáltatási feladatok elvégzésére az ÉMI Nonprofit Kft. által megkötött és az 1. § (2) bekezdése szerinti időpontban érvényes és hatályos szerződések – ide nem értve azokat a szerződéseket, amelyekben a műszaki szolgáltatási feladatokon kívül, az ÉMI Nonprofit Kft. által ellátott egyéb feladatokkal együttesen tartalmaznak kötelezettségeket – tekintetében az ÉMI Nonprofit Kft. jogutódja a Minisztérium.
+
+(2) A műszaki szolgáltatási feladatok ellátását biztosító tárgyi eszközökhöz, egyéb ingóságokhoz, informatikai-telekommunikációs eszközökhöz és a feladatellátáshoz használt informatikai szakrendszerekhez kapcsolódó jogok és kötelezettségek, valamint a szoftverek üzemeltetési, felhasználási – az 1. § (2) bekezdése szerinti időpontban érvényes és hatályos – szerződései tekintetében az ÉMI Nonprofit Kft. jogutódja a Minisztérium.
+
+(3) Az Áht. 11/A. § (4) bekezdés c) pontja alapján a szerződéses jogviszonyban álló feleket a feladat átvételéről az ÉMI Nonprofit Kft. értesíti.
