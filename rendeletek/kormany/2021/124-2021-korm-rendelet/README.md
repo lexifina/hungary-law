@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-124-20-
 | 2024-03-14 | 2021-124-20-22.12 | 298/2023. (VII. 6.) Korm. rendelet |
 | 2024-10-01 | 2021-124-20-22.13 | 258/2024. (VIII. 29.) Korm. rendelet |
 | 2025-01-01 | 2021-124-20-22.14 | 465/2024. (XII. 30.) Korm. rendelet |
+| 2025-07-01 | 2021-124-20-22.15 | 175/2025. (VI. 30.) Korm. rendelet |
