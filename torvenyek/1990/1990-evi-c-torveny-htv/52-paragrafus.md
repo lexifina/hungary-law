@@ -98,6 +98,8 @@ i) sportvállalkozásnál: az a) alpont szerinti nettó árbevétel, csökkentve
 
 j) gyártó, forgalmazó esetén: az a) és e)–i) alpontok szerinti nettó árbevétel, csökkentve a hulladékról szóló törvény szerinti visszaváltási díj árbevételként elszámolt összegével;
 
+k) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény szerinti szerencsejáték-szervezőnél: az értékesítés nettó árbevétele csökkentve az elszámolt nyereményráfordítással;
+
 23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az egészségbiztosítási szervvel kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 
 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2025. január 1-jétől hatályos TEÁOR ’25 besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
