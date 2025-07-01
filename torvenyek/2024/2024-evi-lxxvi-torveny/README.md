@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-76-00-00
 | 2025-03-01 | 2010. évi CXXX. törvény | 2024-76-00-00.12 |
 | 2025-03-02 | 2010. évi CXXX. törvény | 2024-76-00-00.13 |
 | 2025-06-20 | 2025. évi LI. törvény | 2024-76-00-00.24 |
+| 2025-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-76-00-00.14 |
