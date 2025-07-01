@@ -16,7 +16,7 @@
 
 ## tölteni.
 
-## Egyidejűleg a 4. és az 5., illetve a 9. és a 10. sor nem tölthető ki!]
+## Egyidejűleg nem tölthető ki diabétesz diagnózis esetén a 4. és az 5. pont, autizmus diagnózis esetén a 9. és a 10. pont!]
 
 |  |  | A | B | C |
 
@@ -66,6 +66,6 @@
 
 ## 4.3. megállapításai.
 
-2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^294]
+2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^300]
 
-[^294]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^300]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.

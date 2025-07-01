@@ -1,20 +1,20 @@
-45. §[^251] (1)[^252] A közgyógyellátásra jogosult személynek a közgyógyellátásra való jogosultságot megállapító hatóságnál be kell jelentenie
+45. §[^257] (1)[^258] A közgyógyellátásra jogosult személynek a közgyógyellátásra való jogosultságot megállapító hatóságnál be kell jelentenie
 
 a) a közgyógyellátásra való jogosultságát,
 
-b)[^253] a személyes adatait
+b)[^259] a személyes adatait
 
 ## érintő változást.
 
-(2)[^254] Ha a jogosultnak az igazolványon szereplő személyes adataiban változás következik be, akkor a hatóság kezdeményezésére a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal az igazolvány bevonásával egyidejűleg új igazolványt állít ki a jogosult részére. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
+(2)[^260] Ha a jogosultnak az igazolványon szereplő személyes adataiban változás következik be, akkor a hatóság kezdeményezésére a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal az igazolvány bevonásával egyidejűleg új igazolványt állít ki a jogosult részére. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
 
-(3)[^255]
+(3)[^261]
 
-(4)[^256]
+(4)[^262]
 
-[^251]: A 45. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^252]: A 45. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés p) pontja szerint módosított szöveg.
-[^253]: A 45. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^254]: A 45. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 17. pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^255]: A 45. § (3) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § p) pontja.
-[^256]: A 45. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § p) pontja.
+[^257]: A 45. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^258]: A 45. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés p) pontja szerint módosított szöveg.
+[^259]: A 45. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^260]: A 45. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 17. pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^261]: A 45. § (3) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § p) pontja.
+[^262]: A 45. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § p) pontja.
