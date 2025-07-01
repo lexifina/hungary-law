@@ -40,11 +40,11 @@ d) a közeli hozzátartozót megillető társadalombiztosítási, szociális és
 
 (9) A nevelési-oktatási intézmény az óraadók
 
-a) nevét,
+a) nevét, születési nevét,
 
 b) születési helyét, idejét,
 
-c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat, a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány megnevezését, számát,
+c) nemét, anyja születési és családi utónevét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat, a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány megnevezését, számát,
 
 d) lakóhelyét, tartózkodási helyét,
 
@@ -57,3 +57,5 @@ tartja nyilván.
 (10) Az óraadók nyilvántartására alkalmazni kell a (2)–(7) bekezdés rendelkezéseit.
 
 (11) Az (1)–(9) bekezdésben foglaltak nem érintik a Köznevelés Információs Rendszerében törvény alapján történő adatnyilvántartást.
+
+(12) A munkáltató a foglalkoztatotti alapnyilvántartásban szereplő adatokat, a nevelési-oktatási intézmény az óraadók (9) bekezdés szerinti adatait – azok ellenőrzése, az érintett azonosítása, adatainak pontosítása céljából – az adott adatok tekintetében elsődleges vagy másodlagos információforrásnak minősülő szervtől is beszerezheti, a tanulmányi rendszerben díjmentesen elérhető szabályozott elektronikus és központi szolgáltatások útján.

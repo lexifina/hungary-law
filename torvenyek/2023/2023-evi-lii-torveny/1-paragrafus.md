@@ -20,7 +20,7 @@
 
 (7) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra alkalmazni kell a 13. és 14. alcímben foglaltakat.
 
-(8) A nyugdíjasra alkalmazni kell a 109. §-t.
+(8) A nyugdíjasra a 109. §-t, a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 1. § (1) bekezdése hatálya alá tartozó pedagógusokra a 109. § (1), (3) és (4) bekezdését alkalmazni kell.
 
 (9) A Kormány által a köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervre (a továbbiakban: hivatal) alkalmazni kell a 104. § (5) bekezdését és a 109. §-t.
 

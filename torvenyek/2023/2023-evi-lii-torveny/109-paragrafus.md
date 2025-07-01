@@ -10,6 +10,8 @@ b) a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott
 
 c) az a) és b) pont szerinti személy, akinek köznevelési foglalkoztatotti jogviszonya vagy munkaviszonya a nyugdíjjogosultság megszerzésére tekintettel szűnt meg.
 
+d) kérelmére és erre vonatkozó kifejezett hozzájárulására a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá tartozó pedagógus az oktatási igazolványokról szóló kormányrendelet szerint.
+
 (2) A pedagógusigazolványt a hivatal adja ki a pedagógusigazolványra jogosultnak a munkáltató útján benyújtott kérelmére, amely tartalmazza a (3) bekezdés a) és b) pontja szerinti adatokat.
 
 (3) A pedagógusigazolvány tartalmazza:
