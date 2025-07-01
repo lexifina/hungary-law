@@ -8,17 +8,17 @@ c)
 
 d)
 
-e)
+e) 29/C. § (1) bekezdésében az „A kedvezmény a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
 
-f)
+f) 29/D. § (1) bekezdésében a „– minden más kedvezményt megelőzően –” szövegrész,
 
-g)
+g) 29/E. § (1) bekezdésében az „A kedvezmény az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
 
-h)
+h) 29/F. § (1) bekezdésében az „A 25 év alatti fiatalok kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
 
 i)
 
-j)
+j) 29/G. § (1) bekezdésében az „A 30 év alatti anyák kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét és a 25 év alatti fiatalok kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.” szövegrész,
 
 k)
 
