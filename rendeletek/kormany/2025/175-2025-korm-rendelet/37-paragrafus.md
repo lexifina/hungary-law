@@ -1,0 +1,1 @@
+37. § Hatályát veszti a kritikus szervezetek ellenálló képességéről szóló törvény végrehajtásáról szóló 474/2024. (XII. 31.) Korm. rendelet 37. § (2) bekezdés h) pont hc) alpontjában a „vagy” szövegrész.
