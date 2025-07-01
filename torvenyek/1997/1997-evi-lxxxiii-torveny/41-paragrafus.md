@@ -1,1 +1,1 @@
-41. § Nem jár csecsemőgondozási díj a biztosítottnak, ha bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat.
+41. § Nem jár csecsemőgondozási díj a biztosítottnak, ha a gyermek születésének napjától számított 90 napon belül bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat.

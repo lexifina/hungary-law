@@ -1,8 +1,10 @@
-42. § (1) A csecsemőgondozási díj összege – figyelemmel a (4c) bekezdésben foglaltakra –
+42. § (1) A csecsemőgondozási díj összege – kivéve az (1a) bekezdésben foglaltakat, és figyelemmel a (4c) bekezdésben foglaltakra –
 
 a) a (2), (3) és (4a) bekezdés szerinti esetben a naptári napi alap 100%-a,
 
 b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 100%-a.
+
+(1a) Ha a csecsemőgondozási díjra jogosult a 41. §-ban foglalt időszak lejártát követően bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat, a csecsemőgondozási díj összege az (1) bekezdés a) és b) pontja szerint, továbbá a (4c) bekezdés figyelembevételével megállapított naptári napi alap 70%-a.
 
 (2) A csecsemőgondozási díj naptári napi alapját a 48. § (1) és (2) bekezdésében foglaltak szerint kell megállapítani.
 
