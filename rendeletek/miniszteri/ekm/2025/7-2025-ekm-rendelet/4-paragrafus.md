@@ -6,8 +6,10 @@
 
 a) a magasépítési létesítményekre irányuló beruházások vonatkozásában az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaságot,
 
-b) a vízi létesítmények megvalósítására irányuló, valamint a vasútépítési és közműépítési beruházások esetében a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaságot,
+b)[^1] a vízi létesítmények megvalósítására irányuló, valamint a vasútépítési és közműépítési beruházások esetében a Közlekedéstudományi Intézetet,
 
 c) az útépítési beruházások esetében a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaságot
 
 jelöli ki.
+
+[^1]: A 4. § (2) bekezdés b) pontja a 19/2025. (VI. 27.) ÉKM rendelet 16. §-a szerint módosított szöveg.
