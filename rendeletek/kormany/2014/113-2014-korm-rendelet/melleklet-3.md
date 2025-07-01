@@ -28,6 +28,8 @@
 
 ## hivatkozva tájékoztatom, hogy a nemzetközi automatikus találati adathozzáférés rendszerében kivitelezett kerestetés eredményére vonatkozó részletek, valamint az érintett DNS-profil(ok)hoz kapcsolható és rendelkezésünkre álló adatok az alábbi táblázatban kerültek összesítésre:
 
+## 4K04737_1
+
 | A hazai DNS-profil nyilvántartásban kezelt profil és a nyilvántartásba vétele alapjául szolgáló bűncselekmény adatai: |
 
 | Bűncselekmény megnevezése: |  |
@@ -150,7 +152,7 @@
 
 |  | P.H. |
 
-3. melléklet a 113/2014. (IV. 3.) Korm. rendelethez[^3]
+3. melléklet a 113/2014. (IV. 3.) Korm. rendelethez[^4]
 
 | rendőrség színes vagy fekete-fehér címere | szerv megnevezése szerv címe, postafiók száma telefon- és telefax száma elektronikus elérési lehetősége | szerv saját színes, vagy fekete-fehér címere |
 
@@ -198,4 +200,4 @@ P. H.
 
 …………………………
 
-[^3]: [A 3. mellékletnek a 379/2016. (XII. 2.) Korm. rendelet 270. § (1) bekezdésével elrendelt módosítása, amely szerint a 3. melléklet szerinti Formanyomtatvány a) pont 1. és 2. alpontjában a „Bűnügyi Szakértői és Kutatóintézet” szövegrész helyébe a „Nemzeti Szakértői és Kutató Központ” szöveg lép, nem vezethető át.]
+[^4]: [A 3. mellékletnek a 379/2016. (XII. 2.) Korm. rendelet 270. § (1) bekezdésével elrendelt módosítása, amely szerint a 3. melléklet szerinti Formanyomtatvány a) pont 1. és 2. alpontjában a „Bűnügyi Szakértői és Kutatóintézet” szövegrész helyébe a „Nemzeti Szakértői és Kutató Központ” szöveg lép, nem vezethető át.]
