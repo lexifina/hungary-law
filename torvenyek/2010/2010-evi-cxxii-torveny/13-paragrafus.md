@@ -120,6 +120,8 @@ h) ellátja az Unió területére belépő, illetve az Unió területét elhagy�
 
 i) végzi a fémkereskedelmi hatósági feladatokat.
 
+j) a Magyarország területére, vagy Magyarország területéről külföldre irányuló, továbbá a Magyarország területén áthaladó, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzése, valamint a közúti fuvarozáshoz kapcsolódó jogsértések felderítése céljából hozzáférési jogosultsággal rendelkezik a rendőrség által üzemeltetett Közúti Intelligens Kamerahálózathoz.
+
 (9) A NAV végzi továbbá
 
 a) külön jogszabályban szabályozott, nemzetközileg ellenőrzött termékek és technológiák forgalmának ellenőrzését,
