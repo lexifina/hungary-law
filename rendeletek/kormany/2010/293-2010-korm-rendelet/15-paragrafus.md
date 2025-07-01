@@ -1,3 +1,3 @@
-15. §[^18]
+15. §[^19]
 
-[^18]: A 15–16. §-t a 416/2012. (XII. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^19]: A 15–16. §-t a 416/2012. (XII. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.

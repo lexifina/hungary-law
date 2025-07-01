@@ -1,6 +1,6 @@
-## 5/A.[^12] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
+## 5/A.[^13] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
 
-13/A. §[^13] Az NVSZ
+13/A. §[^14] Az NVSZ
 
 a) előkészíti a korrupció elleni kormányzati stratégia, és a hozzá kapcsolódó intézkedési tervek tervezetét, amelyeket felterjeszt a rendészetért felelős miniszter részére;
 
@@ -26,5 +26,5 @@ g) előkészíti a korrupcióellenes kommunikációs szakmai anyagokat;
 
 h) együttműködik a korrupcióellenes tevékenységre létrehozott más hazai szervezetekkel.
 
-[^12]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
-[^13]: A 13/A. § a 479/2024. (XII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^13]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
+[^14]: A 13/A. § a 479/2024. (XII. 31.) Korm. rendelet 33. §-ával megállapított szöveg.
