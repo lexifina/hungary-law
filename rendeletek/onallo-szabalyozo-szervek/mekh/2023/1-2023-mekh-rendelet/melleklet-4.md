@@ -2,7 +2,7 @@
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
 
-| 2.[^22] |  |  |  |  |
+| 2.[^27] |  |  |  |  |
 
 | 3. | Engedélyes tevékenységre vonatkozó auditált mérleg és eredménykimutatás – nagyerőmű | V201 | Éves | Az adatokat a tárgyidőszakot követő év május 31. napjáig kell megadni. |
 
@@ -42,7 +42,7 @@
 
 | 1. | Adatkör | MEKH adatszolgáltatási szám | Adatszolgáltatási gyakoriság | Beküldési határidő |
 
-| 2.[^23] |  |  |  |  |
+| 2.[^28] |  |  |  |  |
 
 | 3. | Engedélyes tevékenységre vonatkozó auditált mérleg és eredménykimutatás – nagyerőmű | V201 | Éves | Az adatokat a tárgyidőszakot követő év május 31. napjáig kell megadni. |
 
@@ -82,5 +82,5 @@
 
 I. A nem engedélyköteles kiserőmű – nap-, szél-, víz- és geotermikus energia alapú villamosenergia-termelésre vonatkozó adatszolgáltatási kötelezettsége
 
-[^22]: A 3. melléklet I. pontjában foglalt táblázat 2. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^23]: A 3. melléklet II. pontjában foglalt táblázat 2. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^27]: A 3. melléklet I. pontjában foglalt táblázat 2. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^28]: A 3. melléklet II. pontjában foglalt táblázat 2. sorát a 11/2024. (XI. 21.) MEKH rendelet 7. § (1) bekezdés b) pontja hatályon kívül helyezte.
