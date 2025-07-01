@@ -1,4 +1,4 @@
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^48]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^50]
 
 A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -104,4 +104,4 @@ A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, az
 
 4. Megjegyzés:
 
-[^48]: A 8. melléklet a 62/2024. (XII. 30.) BM rendelet 33. §-ával megállapított szöveg.
+[^50]: A 8. melléklet a 62/2024. (XII. 30.) BM rendelet 33. §-ával megállapított szöveg.

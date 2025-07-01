@@ -1,4 +1,4 @@
-4. melléklet a 30/2015. (VI. 16.) BM rendelethez[^38]
+4. melléklet a 30/2015. (VI. 16.) BM rendelethez[^40]
 
 A terrorizmust elhárító szerv szolgálati beosztásai
 
@@ -158,4 +158,4 @@ A terrorizmust elhárító szerv szolgálati beosztásai
 
 4.2. 920**: A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 920%.
 
-[^38]: A 4. melléklet a 2/2023. (I. 30.) BM rendelet 20. § c) pontjával megállapított szöveg.
+[^40]: A 4. melléklet a 2/2023. (I. 30.) BM rendelet 20. § c) pontjával megállapított szöveg.

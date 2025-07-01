@@ -1,6 +1,6 @@
 ## * A rektor és a rektorhelyettes munkakörébe kinevezett, e rendelet hatálya alá tartozó hivatásos állományú besorolási szintjét mutatja, a munkakör hivatásos szolgálati beosztássá minősítése nélkül.
 
-9. melléklet a 30/2015. (VI. 16.) BM rendelethez[^49]
+9. melléklet a 30/2015. (VI. 16.) BM rendelethez[^51]
 
 Az általános rendőrségi feladatok ellátására létrehozott szervnél, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél és az idegenrendészeti szervnél rendszeresített szolgálati beosztások képesítési követelményei
 
@@ -96,4 +96,28 @@ Az általános rendőrségi feladatok ellátására létrehozott szervnél, a be
 
 2.1. Az alapbeosztásnak nem minősülő vezetői besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
-[^49]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított, a 45/2021. (XII. 16.) BM rendelet 6. §-a, a 4/2022. (III. 25.) BM rendelet 12. §-a, a 9/2022. (IV. 21.) BM rendelet 6. § b) pontja, a 2/2023. (I. 30.) BM rendelet 19. § i) pontja szerint módosított szöveg.
+|  | A | B | C | D | E |
+
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG VAGY SZAKKÉPESÍTÉS | EGYÉB SZAKKÉPZETTSÉG VAGY SZAKKÉPESÍTÉS | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+
+| 2. | kiemelt vezető | központi szerv vezetőjének helyettese | szakirányú egyetemi végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | MVK+RSZV |
+
+| 3. | középvezető | szakirányító 1 | szakirányú egyetemi végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | MVK+RSZV |
+
+| 4. | középvezető | szakirányító 2 | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | MVK+RSZV |
+
+| 5. | középvezető | főosztályvezető 1 | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | MVK+RSZV |
+
+| 6. | középvezető | főosztályvezető 2 | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | MVK+RSZV |
+
+| 7. | beosztott vezető | főosztályvezető-helyettes 1 | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | VK+RSZV |
+
+| 8. | beosztott vezető | főosztályvezető-helyettes 2 | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | VK+RSZV |
+
+| 9. | beosztott vezető | osztályvezető 1 | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | VK+RSZV |
+
+| 10. | beosztott vezető | osztályvezető 2 | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | VK+RSZV |
+
+2.2. Az alapbeosztásnak nem minősülő tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
+
+[^51]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított, a 45/2021. (XII. 16.) BM rendelet 6. §-a, a 4/2022. (III. 25.) BM rendelet 12. §-a, a 9/2022. (IV. 21.) BM rendelet 6. § b) pontja, a 2/2023. (I. 30.) BM rendelet 19. § i) pontja szerint módosított szöveg.

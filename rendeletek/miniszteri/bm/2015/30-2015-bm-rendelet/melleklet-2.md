@@ -450,55 +450,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 3.1.8. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
-4. Nemzetközi Bűnügyi Együttműködési Központ (területi szerv besorolású)
-
-4.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 3. | kiemelt vezető | területi szerv vezetője | igazgató | 320–520 |  |
-
-| 4. | középvezető | szakirányító 2 | igazgató-helyettes | 320–520 |  |
-
-| 5. | főosztályvezető 2 | főosztályvezető | 320–520 |  |
-
-| 6. | beosztott vezető | osztályvezető 1 | osztályvezető | 320–520 |  |
-
-4.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 3. | E | alosztályvezető | 570 | 520 |
-
-| 4. | osztályvezető-helyettes | 570 | 520 |
-
-| 5. | D | kiemelt főelőadó | 570 | 520 |
-
-| 6. | kiemelt főnyomozó | 570 |  |
-
-| 7. | C | főelőadó | 570 | 520 |
-
-| 8. | főnyomozó | 570 |  |
-
-4.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 3. | D | nyomozó | 570 |  |
-
-| 4. | C | segédelőadó | 520 | 520 |
+4.[^34]
 
 5. Rendőrségi Oktatási és Kiképző Központ (területi szerv besorolású)
 
@@ -1192,15 +1144,17 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.2.1. központi szerv: Országos Rendőr-főkapitányság (ORFK),
 
-9.2.2. területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Bűnügyi Együttműködési Központ, Nemzetközi Oktatási Központ,
+9.2.2.[^35] területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Oktatási Központ,
 
 9.2.3. helyi szervek: rendőrkapitányságok, határrendészeti kirendeltségek,
 
 9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
 
-9.2.5.[^34] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+9.2.5.[^36] kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Kelebiai, a Hercegszántói, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
 [^31]: A 2. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § a) pontjával megállapított szöveg.
 [^32]: A 2. melléklet 2.1.3. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
 [^33]: A 2. melléklet 3.1.4. pontja az 5/2025. (II. 25.) BM rendelet 2. §-a szerint módosított szöveg.
-[^34]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.
+[^34]: A 2. melléklet 4. pontját a 19/2025. (VI. 13.) BM rendelet 17. § a) pontja hatályon kívül helyezte.
+[^35]: A 2. melléklet 9.2.2. pontja a 19/2025. (VI. 13.) BM rendelet 17. § b) pontja szerint módosított szöveg.
+[^36]: A 2. melléklet 9.2.5. pontja a 62/2024. (XII. 30.) BM rendelet 35. §-a, az 5/2025. (II. 25.) BM rendelet 3. §-a szerint módosított szöveg.

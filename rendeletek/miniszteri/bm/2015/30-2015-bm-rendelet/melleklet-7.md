@@ -1,10 +1,10 @@
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^43]
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^45]
 
 A Belügyminisztériumban és a belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások, azok besorolása és a szolgálati beosztás betöltéséhez szükséges képesítési követelmények, valamint a vezényléssel betölthető szolgálati beosztások száma
 
 1. A Belügyminisztériumba vezényléssel betölthető szolgálati beosztások
 
-1.1.[^44] Vezetői besorolási osztályba tartozó szolgálati beosztások
+1.1.[^46] Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
@@ -32,7 +32,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 1.1.1.2. **: A hivatásos állomány tagja akkor sorolható be beosztott vezetőként osztályvezető szolgálati beosztásba, ha nem felel meg a Hszt. 58. § (4) bekezdésének, ennek megfelelően beosztott vezetői beosztásban nem töltött el legalább három évet.
 
-1.2.[^45] Tiszti besorolási osztályba tartozó szolgálati beosztások
+1.2.[^47] Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -44,7 +44,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 4. | D | kiemelt főelőadó | 570-870 | 570-870 |
 
-1.3.[^46] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+1.3.[^48] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -172,7 +172,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 9. | szolgálatparancsnok-helyettes | 520 | 520 |
 
-2.3.[^47] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ szolgálati beosztásai
+2.3.[^49] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ szolgálati beosztásai
 
 2.3.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -184,8 +184,8 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 3. | kiemelt vezető | központi szerv vezetőjének helyettese | általános helyettes |  |  |
 
-[^43]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
-[^44]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^45]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^46]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^47]: A 7. melléklet 2.3. pontját a 67/2023. (XII. 22.) BM rendelet 1. §-a iktatta be.
+[^45]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
+[^46]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^47]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^48]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^49]: A 7. melléklet 2.3. pontját a 67/2023. (XII. 22.) BM rendelet 1. §-a iktatta be.
