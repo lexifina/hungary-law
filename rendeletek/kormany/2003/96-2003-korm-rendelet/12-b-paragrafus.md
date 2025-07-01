@@ -1,6 +1,6 @@
-12/B. §[^90] (1) A személyes közreműködői szerződés tartalmazza:
+12/B. §[^101] (1) A személyes közreműködői szerződés tartalmazza:
 
-a) a személyes közreműködést igénybe vevő és a személyesen közreműködő egészségügyi szolgáltató egyértelmű azonosításához szükséges név- és címadatai közül a nevét – természetes személy esetén a születési nevét is –, székhelyét vagy természetes személy esetén a lakcímét,
+a)[^102] a személyes közreműködést igénybe vevő és a személyesen közreműködő egészségügyi szolgáltató egyértelmű azonosításához szükséges név- és címadatai közül a nevét – természetes személy esetén a születési nevét is –, székhelyét vagy természetes személy esetén a lakcímét, valamint az egészségügyi szolgáltatás nyújtásának telephelyét,
 
 b) a személyes közreműködéssel érintett egészségügyi szakmát, illetve ha a személyes közreműködő az adott szakmán belül csak bizonyos tevékenységeket végez, azok megnevezését,
 
@@ -18,9 +18,16 @@ h) a szolgáltatás szerződésszegés esetén történő folyamatos biztosítá
 
 i) a vitás kérdések rendezésének eljárási szabályait,
 
-j)[^91] a személyes közreműködő feladatait a személyes közreműködés keretében végzett tevékenységgel összefüggő EESZT adatszolgáltatási kötelezettség teljesítésében.
+j)[^103] a személyes közreműködő feladatait a személyes közreműködés keretében végzett tevékenységgel összefüggő EESZT adatszolgáltatási kötelezettség teljesítésében,
+
+k)[^104] a közreműködéssel érintett szervezeti egység megnevezését, azonosítóját,
+
+l)[^105] a tevékenységet végző egészségügyi dolgozók és nem egészségügyi dolgozók 8. § (1) bekezdés 15. és 16. pontja szerinti adatait.
 
 (2) Ha az (1) bekezdés g) pontja szerinti személy több vagy több fajta jogviszony keretében végez egészségügyi tevékenységet, a személyes közreműködői szerződés megkötésekor ahhoz mellékelni kell az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 5. § (6) bekezdése szerinti nyilatkozatot vagy nyilatkozatokat is.
 
-[^90]: A 12/B. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
-[^91]: A 12/B. § (1) bekezdés j) pontját a 147/2020. (IV. 22.) Korm. rendelet 4. §-a iktatta be.
+[^101]: A 12/B. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^102]: A 12/B. § (1) bekezdés a) pontja a 155/2025. (VI. 23.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^103]: A 12/B. § (1) bekezdés j) pontját a 147/2020. (IV. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 155/2025. (VI. 23.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^104]: A 12/B. § (1) bekezdés k) pontját a 155/2025. (VI. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^105]: A 12/B. § (1) bekezdés l) pontját a 155/2025. (VI. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be.

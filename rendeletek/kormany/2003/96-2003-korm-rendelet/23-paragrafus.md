@@ -4,12 +4,12 @@
 
 (2) A rendelet működési engedélyre vonatkozó rendelkezéseit a hatálybalépés után benyújtott kérelmek elbírálásánál kell alkalmazni azzal, hogy a folyamatban lévő ügyben alvállalkozói működési engedély nem adható ki.
 
-(3)[^169] A rendelet hatálybalépésének napján hatályos – az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, a működési engedélyről és az egyéni vállalkozás keretében végezhető egészségügyi szolgáltatásról szóló 69/2002. (IV. 12.) Korm. rendelet 29. § (5) bekezdésével hatályon kívül helyezett jogszabályok alapján kiadott – működési engedéllyel rendelkező egészségügyi szolgáltató működési engedélyét az első változásbejelentés alkalmával kell kicserélni. A kicserélés iránti kérelmet az egészségügyi államigazgatási szerv két hónapon belül bírálja el.
+(3)[^183] A rendelet hatálybalépésének napján hatályos – az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, a működési engedélyről és az egyéni vállalkozás keretében végezhető egészségügyi szolgáltatásról szóló 69/2002. (IV. 12.) Korm. rendelet 29. § (5) bekezdésével hatályon kívül helyezett jogszabályok alapján kiadott – működési engedéllyel rendelkező egészségügyi szolgáltató működési engedélyét az első változásbejelentés alkalmával kell kicserélni. A kicserélés iránti kérelmet az egészségügyi államigazgatási szerv két hónapon belül bírálja el.
 
-(4)[^170]
+(4)[^184]
 
-(5)[^171]
+(5)[^185]
 
-[^169]: A 23. § (3) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (39) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^170]: A 23. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 855. pontja hatályon kívül helyezte.
-[^171]: A 23. § (5) bekezdését a 25/2004. (II. 26.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 855. pontja.
+[^183]: A 23. § (3) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (39) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^184]: A 23. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 855. pontja hatályon kívül helyezte.
+[^185]: A 23. § (5) bekezdését a 25/2004. (II. 26.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 855. pontja.
