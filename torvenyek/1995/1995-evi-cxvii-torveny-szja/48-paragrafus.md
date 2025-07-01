@@ -56,6 +56,8 @@ e) az első házasok kedvezményének közös érvényesítése esetén a házas
 
 (3h) A 30 év alatti anyák kedvezményét érvényesítő 30 év alatti anya a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 30 év alatti anyák kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével (8. §) meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
+(3i) A gyermekgondozási díj után kedvezményt érvényesítő magánszemély a gyermekgondozási díjat folyósító szerv részére nyilatkozatot tehet a családi kedvezmény adóalap hiányában nem érvényesíthető részének családi járulékkedvezményként való érvényesítéséről. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerint az adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;

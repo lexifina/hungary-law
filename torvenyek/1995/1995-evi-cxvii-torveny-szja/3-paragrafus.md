@@ -266,7 +266,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 55. 30 év alatti anya: az a 30. életévét be nem töltött, gyermeket vállaló nő, akinek családi kedvezményre való jogosultsága magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a 30. életéve betöltését megelőző napig megnyílik.
 
-56.
+56. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezménye: a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj kedvezményéről szóló 2025. évi XVI. törvény szerinti kedvezmény.
 
 57.
 

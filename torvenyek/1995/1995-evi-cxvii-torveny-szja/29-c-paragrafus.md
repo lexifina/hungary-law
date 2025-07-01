@@ -1,6 +1,6 @@
 ## Az első házasok kedvezménye
 
-29/C. § (1) Az első házasok kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] az első házasok kedvezményével csökkenti. A kedvezmény a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/C. § (1) Az első házasok kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] az első házasok kedvezményével csökkenti.
 
 (2) Az első házasok kedvezményét az a házaspár érvényesítheti, amely esetében legalább az egyik házastárs első házasságát köti.
 

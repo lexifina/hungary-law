@@ -1,6 +1,6 @@
 ## A 25 év alatti fiatalok kedvezménye
 
-29/F. § (1) A 25. életévét be nem töltött magánszemély (a továbbiakban: fiatal) az összevont adóalapját [29. §] a 25 év alatti fiatalok kedvezményével csökkenti. A 25 év alatti fiatalok kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/F. § (1) A 25. életévét be nem töltött magánszemély (a továbbiakban: fiatal) az összevont adóalapját [29. §] a 25 év alatti fiatalok kedvezményével csökkenti.
 
 (2) A 25 év alatti fiatalok kedvezménye a fiatal által a jogosultsági hónapokban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági hónapokra elszámolt), összevont adóalapba tartozó
 

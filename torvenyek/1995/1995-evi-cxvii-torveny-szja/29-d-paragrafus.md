@@ -1,6 +1,6 @@
 ## A négy vagy több gyermeket nevelő anyák kedvezménye
 
-29/D. § (1) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] – minden más kedvezményt megelőzően – a négy vagy több gyermeket nevelő anyák kedvezményével csökkenti.
+29/D. § (1) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] a négy vagy több gyermeket nevelő anyák kedvezményével csökkenti.
 
 (2) A négy vagy több gyermeket nevelő anyák kedvezménye a kedvezményre jogosult által a jogosultsági időszakban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági időszakra elszámolt), összevont adóalapba tartozó
 

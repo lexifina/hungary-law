@@ -38,15 +38,17 @@ c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatk
 
 a) négy vagy több gyermeket nevelő anyák kedvezményét,
 
-b) 25 év alatti fiatalok kedvezményét,
+b) csecsemőgondozási díj, gyermekgondozási díj és örökbefogadói díj kedvezményét,
 
-c) 30 év alatti anyák kedvezményét,
+c) 25 év alatti fiatalok kedvezményét,
 
-d) személyi kedvezményt,
+d) 30 év alatti anyák kedvezményét,
 
-e) első házasok kedvezményét,
+e) személyi kedvezményt,
 
-f) családi kedvezményt.
+f) első házasok kedvezményét,
+
+g) családi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 

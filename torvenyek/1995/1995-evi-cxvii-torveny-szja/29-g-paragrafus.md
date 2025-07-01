@@ -1,6 +1,6 @@
 ## A 30 év alatti anyák kedvezménye
 
-29/G. § (1) A 30 év alatti anya a 29. § szerint meghatározott összevont adóalapját a 30 év alatti anyák kedvezményével csökkenti. A 30 év alatti anyák kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét és a 25 év alatti fiatalok kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+29/G. § (1) A 30 év alatti anya a 29. § szerint meghatározott összevont adóalapját a 30 év alatti anyák kedvezményével csökkenti.
 
 (2) A 30 év alatti anyák kedvezményére jogosult az a 30 év alatti anya, aki
 
