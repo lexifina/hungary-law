@@ -8,7 +8,7 @@ b) a körözési eljárást lefolytató szerv a körözési eljárás lefolytat�
 
 c) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok,
 
-d) a Nemzetközi Bűnügyi Együttműködési Központ, illetve nemzetközi szerződésben adattovábbításra feljogosított szerv a más szervek részére történő adatszolgáltatás céljából,
+d) a rendőrség nemzetközi bűnügyi együttműködési központja, illetve nemzetközi szerződésben adattovábbításra feljogosított szerv a más szervek részére történő adatszolgáltatás céljából,
 
 e) az ügyészség a törvényességi felügyelet gyakorlása céljából,
 

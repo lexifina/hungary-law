@@ -2,7 +2,7 @@
 
 16. § (1) E törvény rendelkezéseit a nemzetközi körözésre az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) A Nemzetközi Bűnügyi Együttműködési Központ
+(2) A rendőrség nemzetközi bűnügyi együttműködési központja
 
 a) más állam hatósága által kezdeményezett, a személy, tárgy felkutatására vagy személy, holttest személyazonosságának megállapítására irányuló megkeresés alapján a körözést elrendeli,
 
@@ -14,11 +14,11 @@ d) más állam hatóságát értesíti arról, ha az oda továbbított körözé
 
 e) más állam hatóságát, illetve a körözést elrendelő magyar hatóságot vagy szervet értesíti arról, ha a nemzetközi körözés során a személy, tárgy hollétét, illetve a személy, holttest személyazonosságát megállapították.
 
-(3) Ha a rendőrség nemzetközi körözés során a személy, dolog hollétét, valamint a személy vagy a holttest, holttestrész személyazonosságát megállapította, akkor a Nemzetközi Bűnügyi Együttműködési Központon keresztül értesíti a kezdeményező állam hatóságát, illetve ha a másik állam hatósága állapítja meg a személy, dolog hollétét, valamint a személy vagy a holttest személyazonosságát akkor a Nemzetközi Bűnügyi Együttműködési Központ értesíti az érintett magyar hatóságot vagy szervet.
+(3) Ha a rendőrség nemzetközi körözés során a személy, dolog hollétét, valamint a személy vagy a holttest, holttestrész személyazonosságát megállapította, akkor a rendőrség nemzetközi bűnügyi együttműködési központján keresztül értesíti a kezdeményező állam hatóságát, illetve ha a másik állam hatósága állapítja meg a személy, dolog hollétét, valamint a személy vagy a holttest személyazonosságát akkor a rendőrség nemzetközi bűnügyi együttműködési központja értesíti az érintett magyar hatóságot vagy szervet.
 
-(4) A Nemzetközi Bűnügyi Együttműködési Központ a más állam hatósága által kezdeményezett körözést a megkeresés teljesíthetőségéhez szükséges feltételek meglétének ellenőrzését és megállapítását követően haladéktalanul rendeli el.
+(4) A rendőrség nemzetközi bűnügyi együttműködési központja a más állam hatósága által kezdeményezett körözést a megkeresés teljesíthetőségéhez szükséges feltételek meglétének ellenőrzését és megállapítását követően haladéktalanul rendeli el.
 
-(5) A más állam hatóságának kezdeményezésére elrendelt körözést a kezdeményező hatóság erre irányuló megkeresése esetén a Nemzetközi Bűnügyi Együttműködési Központ a megkeresés kézhezvételét követően haladéktalanul visszavonja.
+(5) A más állam hatóságának kezdeményezésére elrendelt körözést a kezdeményező hatóság erre irányuló megkeresése esetén a rendőrség nemzetközi bűnügyi együttműködési központja a megkeresés kézhezvételét követően haladéktalanul visszavonja.
 
 (6) Ha a más állam hatóságának kezdeményezésére elrendelt körözés visszavonására nem kerül sor, a nyilvántartásban az adatokat a kezdeményező által meghatározott ideig kell nyilvántartani.
 

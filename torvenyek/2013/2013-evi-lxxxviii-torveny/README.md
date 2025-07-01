@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-88-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2013-88-00-00.33 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2013-88-00-00.36 |
 | 2025-04-01 | 2024. évi LXXI. törvény | 2013-88-00-00.35 |
+| 2025-07-01 | 2025. évi XXXV. törvény | 2013-88-00-00.37 |
