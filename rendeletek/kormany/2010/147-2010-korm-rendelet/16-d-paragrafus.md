@@ -1,4 +1,4 @@
-## 6b.[^36] Nem közműves és különleges közüzemi ivóvízellátás
+## 6b.[^37] Nem közműves és különleges közüzemi ivóvízellátás
 
 16/D. § (1) A településen az érintett fogyasztók nem közműves és különleges közüzemi ivóvízellátását a települési önkormányzat a (4) bekezdésben foglalt közegészségügyi követelmények teljesítésével biztosítja.
 
@@ -18,4 +18,4 @@ a) ivóvíz a 16/B. § (1) bekezdésében előírt ivóvíz-minőségi követelm
 
 b) víz vagy ismeretlen egyéb vízellátásból származó víz minősége nem felel meg az ivóvíz minőségi követelményeinek, de annak a szociális vízigény biztosítására és egyéb háztartási célra való felhasználásához a járási hivatal hozzájárult, és a települési önkormányzat legalább 3 liter/fő/nap mennyiségben biztosít ivóvizet ivóvíz-fogyasztásra és ételkészítésre.
 
-[^36]: A 6b. alcímet (16/D. §-t) a 6/2023. (I. 12.) Korm. rendelet 21. §-a iktatta be.
+[^37]: A 6b. alcímet (16/D. §-t) a 6/2023. (I. 12.) Korm. rendelet 21. §-a iktatta be.

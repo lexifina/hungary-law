@@ -1,8 +1,8 @@
-25. § (1)[^49] A talaj adottságainak, a felszín alatti víz mélységének és a települési szennyvíz mennyiségének figyelembevételével méretezett, tisztítómezővel ellátott oldómedencés létesítmény és az egyedi szennyvíztisztító berendezés (a továbbiakban együttesen: egyedi szennyvíztisztító létesítmény) a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletnek, valamint e §-ban és a 26. §-ban foglalt rendelkezéseknek megfelelően létesíthető.
+25. § (1)[^50] A talaj adottságainak, a felszín alatti víz mélységének és a települési szennyvíz mennyiségének figyelembevételével méretezett, tisztítómezővel ellátott oldómedencés létesítmény és az egyedi szennyvíztisztító berendezés (a továbbiakban együttesen: egyedi szennyvíztisztító létesítmény) a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletnek, valamint e §-ban és a 26. §-ban foglalt rendelkezéseknek megfelelően létesíthető.
 
-(2)[^50] Egyedi szennyvíztisztító létesítményt bármely területen történő programszerű telepítés, illetve a felszín alatti vizek minősége szempontjából fokozottan érzékeny vagy magas talajvízállású területeken történő egyedi telepítés esetén akkor lehet létesíteni, ha a települési önkormányzat által elfogadott és a vízügyi hatóság által jóváhagyott települési szennyvíztisztítási program ezt lehetővé teszi.
+(2)[^51] Egyedi szennyvíztisztító létesítményt bármely területen történő programszerű telepítés, illetve a felszín alatti vizek minősége szempontjából fokozottan érzékeny vagy magas talajvízállású területeken történő egyedi telepítés esetén akkor lehet létesíteni, ha a települési önkormányzat által elfogadott és a vízügyi hatóság által jóváhagyott települési szennyvíztisztítási program ezt lehetővé teszi.
 
-(3)[^51] Egyedi szennyvíztisztító berendezést a felszín alatti vizek védelme szempontjából fokozottan érzékeny területek közül csak azokon a helyeken lehet létesíteni, ahol
+(3)[^52] Egyedi szennyvíztisztító berendezést a felszín alatti vizek védelme szempontjából fokozottan érzékeny területek közül csak azokon a helyeken lehet létesíteni, ahol
 
 a) a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet a tisztított szennyvíz szikkasztását nem tiltja, és
 
@@ -12,6 +12,6 @@ ba) a felszínen vagy 10 méteren belül nem találhatóak mészkő vagy dolomit
 
 bb) mész- és dolomitmárga képződmények előfordulása esetén ezekre a területekre vonatkozóan a települési szennyvízkezelési program készítése során végzett vizsgálatok bizonyítják, hogy az elszivárogtatásra kerülő tisztított szennyvíz nem éri el a karsztvizet.
 
-[^49]: A 25. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^50]: A 25. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított, a 100/2016. (V. 13.) Korm. rendelet 18. § b)–c) pontja szerint módosított szöveg.
-[^51]: A 25. § (3) bekezdése a 209/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^50]: A 25. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^51]: A 25. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított, a 100/2016. (V. 13.) Korm. rendelet 18. § b)–c) pontja szerint módosított szöveg.
+[^52]: A 25. § (3) bekezdése a 209/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

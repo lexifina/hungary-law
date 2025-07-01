@@ -4,6 +4,6 @@
 
 (2) A víz- és jéglevonulás szempontjából kedvezőtlen helyekről – műszaki-gazdasági szempontok mérlegelése alapján – az árvízvédelmi művet át kell helyezni.
 
-(3)[^71] Árvízvédelmi műnek és altalajának a vízoldali és a mentett oldali védősávok határvonala között történő megbontásához az árvízvédelmi mű kezelőjének hozzájárulása és az általa jóváhagyott ideiglenes árvízvédelmi terv szükséges, amely alapján az árvízvédelmi mű kezelője az ideiglenes árvízvédelmi mű felépítését, állagának megóvását és a fővédvonal védképességének helyreállítása után az ideiglenes árvízvédelmi mű elbontását ellenőrzi.
+(3)[^72] Árvízvédelmi műnek és altalajának a vízoldali és a mentett oldali védősávok határvonala között történő megbontásához az árvízvédelmi mű kezelőjének hozzájárulása és az általa jóváhagyott ideiglenes árvízvédelmi terv szükséges, amely alapján az árvízvédelmi mű kezelője az ideiglenes árvízvédelmi mű felépítését, állagának megóvását és a fővédvonal védképességének helyreállítása után az ideiglenes árvízvédelmi mű elbontását ellenőrzi.
 
-[^71]: A 33. § (3) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^72]: A 33. § (3) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.

@@ -14,13 +14,13 @@
 
 (6) A megadott távolságok a kereszteződő létesítmények egymáshoz legközelebbi szerkezeti részei között értendők.
 
-(7)[^96] A műemléki védelem alatt álló építmények, létesítmények kivételével, a vizek és vízilétesítmények keresztezésére vonatkozó, az 1. mellékletben foglalt követelményeket
+(7)[^97] A műemléki védelem alatt álló építmények, létesítmények kivételével, a vizek és vízilétesítmények keresztezésére vonatkozó, az 1. mellékletben foglalt követelményeket
 
 a) a térszín alatti keresztezésnél a nyomvonalas létesítmények átépítése,
 
-b)[^97] a térszín feletti keresztezésnél a nyomvonalas létesítmények műtárgyainak átépítése
+b)[^98] a térszín feletti keresztezésnél a nyomvonalas létesítmények műtárgyainak átépítése
 
 során is érvényesíteni kell.
 
-[^96]: A 73. § (7) bekezdését a 209/2011. (X. 12.) Korm. rendelet 12. §-a iktatta be.
-[^97]: A 73. § (7) bekezdés b) pontja a 368/2020. (VII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^97]: A 73. § (7) bekezdését a 209/2011. (X. 12.) Korm. rendelet 12. §-a iktatta be.
+[^98]: A 73. § (7) bekezdés b) pontja a 368/2020. (VII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

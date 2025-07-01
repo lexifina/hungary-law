@@ -8,6 +8,6 @@
 
 (4) A szennyvíztisztító telep létesítésével egyidejűleg a felszíni vizek védelméről szóló kormányrendelet figyelembevételével gondoskodni kell a tisztított szennyvíz elhelyezéséről és a keletkezett szennyvíziszap kezeléséről, elhelyezéséről, valamint meg kell vizsgálni a tisztított szennyvíz hasznosításának lehetőségét és törekedni kell a szennyvíziszap mezőgazdasági, energetikai, illetve alternatív hasznosítására.
 
-(5)[^39] Szennyvíztisztító telep fejlesztése esetén az agglomerációban és annak közelében a gazdaságos beszállítási távolságra levő településeken keletkező települési folyékony hulladék fogadását és tisztítását a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzésének feltételeiről szóló kormányrendeletben előírt mód figyelembevételével biztosítani kell.
+(5)[^40] Szennyvíztisztító telep fejlesztése esetén az agglomerációban és annak közelében a gazdaságos beszállítási távolságra levő településeken keletkező települési folyékony hulladék fogadását és tisztítását a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzésének feltételeiről szóló kormányrendeletben előírt mód figyelembevételével biztosítani kell.
 
-[^39]: A 19. § (5) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^40]: A 19. § (5) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

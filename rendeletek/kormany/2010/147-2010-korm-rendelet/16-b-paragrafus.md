@@ -18,6 +18,7 @@
 
 (10) A saját célú ivóvízmű üzemeltetője részére a vízügyi hatóság, a járási hivatal, valamint a működési terület szerinti vízügyi igazgatóság a szakmai tanácsadás lehetőségét biztosítja.
 
-(11) A közösségi ivóvízellátást biztosító saját célú ivóvízmű üzemeltetője köteles a közcélú ivóvízművek, valamint a közcélú szennyvízelvezető és -tisztító művek üzemeltetése során a vízügyi és vízvédelmi szakmai követelményekről, vizsgálatok köréről, valamint adatszolgáltatás tartalmáról szóló miniszteri rendeletben foglalt előírásokat – a karbantartás és a létfontosságú rendszerelem védelmével kapcsolatos feladatok ellátása, az e-közmű rendszerből rendelkezésre álló közművek egységes hálózati térképeihez történő hozzáférés biztosítása, valamint a vízkivételi műnél az ellenőrző vizsgálatokra vonatkozó szabályok kivételével – teljesíteni.
+(11)[^36] A közösségi ivóvízellátást biztosító saját célú ivóvízmű üzemeltetője köteles a közcélú ivóvízművek, valamint a közcélú szennyvízelvezető és -tisztító művek üzemeltetése során a vízügyi és vízvédelmi szakmai követelményekről, vizsgálatok köréről, valamint adatszolgáltatás tartalmáról szóló miniszteri rendeletben foglalt előírásokat – a karbantartás és a kritikus szervezetek és kritikus infrastruktúrák védelmével kapcsolatos feladatok ellátása, az e-közmű rendszerből rendelkezésre álló közművek egységes hálózati térképeihez történő hozzáférés biztosítása, valamint a vízkivételi műnél az ellenőrző vizsgálatokra vonatkozó szabályok kivételével – teljesíteni.
 
 [^35]: A 16/B. § a 6/2023. (I. 12.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^36]: A 16/B. § (11) bekezdése a 175/2025. (VI. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.

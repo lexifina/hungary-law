@@ -1,4 +1,4 @@
-## 13/A. [^70] Használt termálvizek elhelyezése, tisztítása és elvezetése
+## 13/A. [^71] Használt termálvizek elhelyezése, tisztítása és elvezetése
 
 28/A. § (1) A használt termálvíz átmeneti tározása során törekedni kell a természetközeli szennyvíztisztítási megoldások alkalmazására.
 
@@ -10,4 +10,4 @@
 
 (5) Ha a tározókból a tisztított víz bevezetése a hatásterületen lévő befogadó vízfolyásrendszer hasznosítását veszélyezteti, a tisztított vizet a vízügyi hatóság által meghatározott időszakban és módon lehet bevezetni a vízfolyásba.
 
-[^70]: A 13/A. alcímet (28/A. §) az 558/2013. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^71]: A 13/A. alcímet (28/A. §) az 558/2013. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
