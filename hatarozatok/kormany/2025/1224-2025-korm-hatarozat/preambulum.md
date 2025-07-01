@@ -1,0 +1,1 @@
+A Kormány az Európai Unió számára készített köznevelési stratégia 2021–2030 című dokumentumban foglalt célkitűzések megvalósítása és szakpolitikai elvek érvényesítése érdekében, valamint összhangban az Európai Unió társadalmi kohézió erősítését célzó szakpolitikai törekvéseivel,
