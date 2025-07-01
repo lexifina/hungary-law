@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-134-20-
 | 2024-01-01 | 1999-134-20-22.46 | 221/2023. (VI. 2.) Korm. rendelet |
 | 2024-06-18 | 1999-134-20-22.48 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2025-01-01 | 1999-134-20-22.49 | 463/2024. (XII. 30.) Korm. rendelet |
+| 2025-07-01 | 1999-134-20-22.50 | 250/2017. (IX. 5.) Korm. rendelet |
