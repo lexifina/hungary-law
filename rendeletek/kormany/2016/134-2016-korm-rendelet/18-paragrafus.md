@@ -1,4 +1,4 @@
-18. § (1)[^56] A közfeladat átvételével kapcsolatos feladatok rendezéséről, valamint az ehhez kapcsolódó vagyon-, létszám-átcsoportosításról, a miniszternek az átvételre kerülő közfeladathoz kapcsolódó előirányzat átcsoportosítására vonatkozó döntése megalapozása érdekében, valamint a hazai és európai uniós pályázatok, projektek és egyéb kötelezettségvállalások tekintetében a KLIK és a tankerületi központ között átadás-átvételi megállapodást kell kötni.
+18. § (1)[^57] A közfeladat átvételével kapcsolatos feladatok rendezéséről, valamint az ehhez kapcsolódó vagyon-, létszám-átcsoportosításról, a miniszternek az átvételre kerülő közfeladathoz kapcsolódó előirányzat átcsoportosítására vonatkozó döntése megalapozása érdekében, valamint a hazai és európai uniós pályázatok, projektek és egyéb kötelezettségvállalások tekintetében a KLIK és a tankerületi központ között átadás-átvételi megállapodást kell kötni.
 
 (2) Az átadás-átvételi megállapodáshoz kapcsolódóan a KLIK a 2016. december 31-i állapotnak megfelelően az illetékes tankerületi központnak átadja a köznevelési intézménnyel és az átvételre kerülő közfeladattal kapcsolatosan
 
@@ -14,4 +14,4 @@ e) a szakmaszerkezeti döntésről szóló kormányrendeletben a 2016/2017. tan�
 
 (3) A megállapodásban kell rendezni az átalakítás időpontjával le nem zárható követelések és kötelezettségek elszámolásának módját.
 
-[^56]: A 18. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 160. § c) pontja szerint módosított szöveg.
+[^57]: A 18. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 160. § c) pontja szerint módosított szöveg.
