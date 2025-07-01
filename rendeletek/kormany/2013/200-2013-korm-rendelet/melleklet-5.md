@@ -18,8 +18,8 @@
 
 | 9. | VIII. helyezés | 1 078 000 |
 
-5. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^61]
+5. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^72]
 
 A versenyzői pénzjutalom az ICSD által szervezett Siketlimpia esetén(nettó összegben, forintban, 100%)
 
-[^61]: Az 5. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^72]: Az 5. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.

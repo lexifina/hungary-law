@@ -18,8 +18,8 @@
 
 | 9. | VIII. helyezés | 308 000 |
 
-9. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^65]
+9. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^76]
 
 A versenyzői pénzjutalom a SOI által szervezett Speciális Olimpia Világjátékai esetén(nettó összegben, forintban, 100%)
 
-[^65]: A 9. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^76]: A 9. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.

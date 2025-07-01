@@ -18,6 +18,6 @@
 
 | 9. | VIII. helyezés | 1 540 000 |
 
-2a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^58]
+2a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^69]
 
-[^58]: A 2a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 7. §-a iktatta be, a 151/2024. (VI. 28.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.
+[^69]: A 2a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 7. §-a iktatta be, a 151/2024. (VI. 28.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.

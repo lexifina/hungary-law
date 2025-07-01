@@ -1,4 +1,4 @@
-12. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^68]
+12. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^79]
 
 1. Az állami jutalomra, illetve eredményességi támogatásra vonatkozó javaslat adattartalma sportoló esetén
 
@@ -70,4 +70,4 @@
 
 2.4. az állami jutalom, illetve az eredményességi támogatás javasolt összege.
 
-[^68]: A 12. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^79]: A 12. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.

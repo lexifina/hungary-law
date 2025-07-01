@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-200-20-
 | 2021-09-29 | 2013-200-20-22.11 | 551/2021. (IX. 28.) Korm. rendelet |
 | 2024-07-01 | 2013-200-20-22.12 | 151/2024. (VI. 28.) Korm. rendelet |
 | 2025-01-01 | 2013-200-20-22.13 | 151/2024. (VI. 28.) Korm. rendelet |
+| 2025-07-01 | 2013-200-20-22.14 | 177/2025. (VI. 30.) Korm. rendelet |
