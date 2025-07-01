@@ -1,1 +1,0 @@
-A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 83. §-a (2) bekezdésének a) pontjában és a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 121. §-ának a) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
