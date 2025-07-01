@@ -20,4 +20,6 @@ g) közreműködik a vasúti műszaki előírásokkal összefüggő jogszabályt
 
 (3) A Bizottság működésének részletes szabályait az általa elfogadott ügyrend (a továbbiakban: Ügyrend) tartalmazza.
 
-(4) A Bizottság munkáját a vasúti szakterületen működő, a közlekedésért felelős miniszter által vezetett minisztérium szakmai irányítása és tulajdonosi joggyakorlása alá tartozó, a vasúti közlekedéssel összefüggő kutatási vagy kutatás-fejlesztési tevékenységet ellátó, a miniszter által meghatalmazott gazdasági társaság mint koordináló szerv (a továbbiakban: koordináló szerv) segíti.
+(4)[^1] A Bizottság munkáját a Közlekedéstudományi Intézet mint koordináló szerv (a továbbiakban: koordináló szerv) segíti.
+
+[^1]: Az 1. § (4) bekezdése a 19/2025. (VI. 27.) ÉKM rendelet 8. §-a szerint módosított szöveg.

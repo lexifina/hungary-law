@@ -18,7 +18,7 @@ g) vasúti műszaki vizsgálóközpont
 
 (2) Ha a miniszter által felkért szervezet 60 napon belül nem válaszol a felkérésre, azt elutasítottnak kell tekinteni. A részvételt elutasító szervezet helyett a miniszter egy ízben új szervezetet kér fel tag delegálására. Ha ez a szervezet is elutasítja a delegálást, a Bizottság a delegált tagok részvételével működik. A Bizottság elnöke új tag felvételét legkorábban az elutasítást követő egy év elteltével kezdeményezheti a hatóság útján a miniszternél.
 
-(3)[^1] A Bizottság elnökét a miniszter nevezi ki az általa vezetett minisztérium, a minisztérium háttérintézménye vagy a minisztérium tulajdonosi joggyakorlása alá tartozó közvetlen vagy közvetett állami tulajdonban lévő vasúti társaság azon szakmai vezetői közül, akik a vasúti közlekedési területen legalább 5 éves szakmai tapasztalattal rendelkeznek.
+(3)[^2] A Bizottság elnökét a miniszter nevezi ki az általa vezetett minisztérium, a minisztérium háttérintézménye vagy a minisztérium tulajdonosi joggyakorlása alá tartozó közvetlen vagy közvetett állami tulajdonban lévő vasúti társaság azon szakmai vezetői közül, akik a vasúti közlekedési területen legalább 5 éves szakmai tapasztalattal rendelkeznek.
 
 (4) Az elnök és a Bizottság tagjai a Bizottságban végzett munkájukért díjazásban, költségtérítésben nem részesülnek.
 
@@ -30,4 +30,4 @@ g) vasúti műszaki vizsgálóközpont
 
 (8) A Bizottság munkájában részt vevő tagok vasúti alrendszerenként egy-egy póttagot jelölhetnek. A póttag a tag nevében jár el, és teljes jogkörrel helyettesíti a Bizottság tagját. A póttagok jelölésére vonatkozó szabályokat az Ügyrendben kell szabályozni.
 
-[^1]: A 2. § (3) bekezdése a 11/2023. (VI. 23.) ÉKM rendelet 57. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 11/2023. (VI. 23.) ÉKM rendelet 57. §-ával megállapított szöveg.
