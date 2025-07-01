@@ -66,7 +66,7 @@
 
 32. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
 
-33. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
+33. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához, valamint a személyazonosítással érintett természetes személy adatainak a nyilvántartott adatokkal való egyezőségének és az általa bemutatott okmányok érvényességének ellenőrzése érdekében teljesített adatigényléssel kapcsolatos feladatai ellátásához,
 
 34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.
 
