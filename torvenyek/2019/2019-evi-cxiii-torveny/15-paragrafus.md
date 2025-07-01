@@ -6,4 +6,4 @@ a) az öntözésfejlesztési területre és az öntözésfejlesztési tervre, va
 
 b) a fenntartható vízgazdálkodási közösség elismerésére, az elismerés felfüggesztésére, visszavonására, működésének ellenőrzésére vonatkozó részletes szabályokat,
 
-c) az öntözési szolgalom alapítására és az azzal kapcsolatos kártalanításra, valamint az öntözési szolgalom megszűnésére vonatkozó részletes szabályokat.
+c) az öntözési szolgalom alapítására és az azzal kapcsolatos kártalanításra, valamint az öntözési szolgalom megszűnésére, továbbá az öntözési jog alapítására, jóváhagyására és gyakorlására vonatkozó részletes szabályokat.

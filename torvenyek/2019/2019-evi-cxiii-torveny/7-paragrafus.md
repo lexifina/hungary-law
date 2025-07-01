@@ -4,9 +4,9 @@
 
 (2) A fenntartható vízgazdálkodási közösség az öntözési körzet területén
 
-a) szántóföldi növénytermesztés, ipari zöldségtermesztés esetén legalább 100 hektár – amelynek legfeljebb 10 százaléka állandó gyep (legeltetett, kaszált) terület is lehet –,
+a) szántóföldi növénytermesztés, illetve a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló rendelet szerinti ipari zöldségnövény-termesztés esetén legalább 100 hektár – amelynek legfeljebb 10 százaléka állandó gyep (legeltetett, kaszált) terület is lehet –,
 
-b) kertészeti zöldség és ültetvények (gyümölcs, szőlő), illetve aromás-, gyógy- és fűszernövény termesztése esetén legalább 10 hektár
+b) a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló rendeletben szereplő zöldségnövények és ültetvények (gyümölcs, szőlő), illetve aromás-, gyógy- és fűszernövény termesztése esetén legalább 10 hektár
 
 öntözésének lehetőségét biztosítja.
 
