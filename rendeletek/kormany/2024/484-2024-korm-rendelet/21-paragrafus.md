@@ -1,3 +1,3 @@
 21. §[^22]
 
-[^22]: A 21. § a 28. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+[^22]: A 21. § a 28. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
