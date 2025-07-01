@@ -16,6 +16,6 @@
 
 ## BM OKF főigazgató
 
-8. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^155]
+8. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^152]
 
-[^155]: A 8. melléklet szövege a 408/2022. (X. 24.) Korm. rendelet 9. § d) pontja szerint módosított szöveg
+[^152]: A 8. melléklet szövege a 408/2022. (X. 24.) Korm. rendelet 9. § d) pontja szerint módosított szöveg

@@ -8,8 +8,8 @@
 
 (5) A polgármester a települési veszélyelhárítási tervben foglaltak végrehajtásának biztosítására legalább 3 évente gyakorlatot tart.
 
-(6)[^59]
+(6)[^56]
 
 (7) A polgármester a jóváhagyott veszélyelhárítási terv egy példányát megküldi a hivatásos katasztrófavédelmi szerv helyi szervének.
 
-[^59]: A 28. § (6) bekezdését a 408/2022. (X. 24.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^56]: A 28. § (6) bekezdését a 408/2022. (X. 24.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

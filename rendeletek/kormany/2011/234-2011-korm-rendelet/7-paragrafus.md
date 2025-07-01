@@ -1,6 +1,6 @@
 ## 4. A katasztrófavédelemben részt vevő központi államigazgatási szerv vezetőjének feladatai
 
-7. §[^40] (1) A katasztrófavédelemben részt vevő központi államigazgatási szerv vezetője:
+7. §[^37] (1) A katasztrófavédelemben részt vevő központi államigazgatási szerv vezetője:
 
 a) meghatározza szakterületén, illetve az alárendeltségébe tartozó szerv vonatkozásában a megelőzéssel kapcsolatos feladatokat,
 
@@ -16,4 +16,4 @@ e) kidolgozza a szakterületén a lakosság és az anyagi javak műszaki-technik
 
 (3) Az (1) és (2) bekezdés rendelkezéseit az autonóm államigazgatási szervekre és az önálló szabályozó szervekre nem kell alkalmazni.
 
-[^40]: [A 7. §-ban a 340/2024. (XI. 14.) Korm. rendelet 12. § (3) bekezdése által elrendelt módosítás, amely újraszabályozta a 7. § d) pontját, nem vezethető át.]
+[^37]: [A 7. §-ban a 340/2024. (XI. 14.) Korm. rendelet 12. § (3) bekezdése által elrendelt módosítás, amely újraszabályozta a 7. § d) pontját, nem vezethető át.]

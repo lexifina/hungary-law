@@ -1,4 +1,4 @@
-## 3/A.[^39] A hivatásos katasztrófavédelmi szerv központi szerve vezetőjének feladatai
+## 3/A.[^36] A hivatásos katasztrófavédelmi szerv központi szerve vezetőjének feladatai
 
 6/A. § (1) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében
 
@@ -22,4 +22,4 @@ i) ellátja a veszélyes áruk szállítására használt, nem nyomástartó cso
 
 (2) A hivatásos katasztrófavédelmi szerv központi szerve vezetője irányítja az országos szúnyoggyérítési program keretében a szúnyoggyérítéssel kapcsolatos feladatok ellátását.
 
-[^39]: A 3/A. alcímet (6/A. §-t) a 340/2024. (XI. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^36]: A 3/A. alcímet (6/A. §-t) a 340/2024. (XI. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be.

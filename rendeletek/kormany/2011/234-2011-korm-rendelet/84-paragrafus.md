@@ -4,11 +4,11 @@
 
 ## 60. A katasztrófa károsító hatása által érintett területre vonatkozó szabályok
 
-84. § (1)[^130] A helyreállítás időszakában a katasztrófa károsító hatása által érintett területen a mentés és a következmények elhárítása érdekében a területi védelmi bizottság elnöke a katasztrófavédelmi elnök-helyettes javaslatára az adott katasztrófatípus első helyi felelősségi körébe tartozó szerv állományából helyszíni műveletirányítót jelöl ki.
+84. § (1)[^127] A helyreállítás időszakában a katasztrófa károsító hatása által érintett területen a mentés és a következmények elhárítása érdekében a területi védelmi bizottság elnöke a katasztrófavédelmi elnök-helyettes javaslatára az adott katasztrófatípus első helyi felelősségi körébe tartozó szerv állományából helyszíni műveletirányítót jelöl ki.
 
-(2)[^131] Amennyiben az intézkedés késedelme elháríthatatlan kárral vagy veszéllyel járna, a területi védelmi bizottság katasztrófavédelmi elnök-helyettese a területi védelmi bizottság elnökének utólagos jóváhagyásával is kijelölheti a helyszíni műveletirányítót.
+(2)[^128] Amennyiben az intézkedés késedelme elháríthatatlan kárral vagy veszéllyel járna, a területi védelmi bizottság katasztrófavédelmi elnök-helyettese a területi védelmi bizottság elnökének utólagos jóváhagyásával is kijelölheti a helyszíni műveletirányítót.
 
-(3)[^132] A helyszíni műveletirányító a tevékenységét a területi védelmi bizottság, helyi védelmi bizottság katasztrófavédelmi elnök-helyettese, illetve a helyi katasztrófavédelmi tevékenység irányítására kijelölt személy utasításainak megfelelően végzi.
+(3)[^129] A helyszíni műveletirányító a tevékenységét a területi védelmi bizottság, helyi védelmi bizottság katasztrófavédelmi elnök-helyettese, illetve a helyi katasztrófavédelmi tevékenység irányítására kijelölt személy utasításainak megfelelően végzi.
 
 (4) A helyszíni műveletirányító a kárhelyszínen irányítja és összehangolja a végrehajtási feladatokat, ennek érdekében:
 
@@ -24,7 +24,7 @@ d) a humanitárius tevékenység végzése céljából a területre érkezők mu
 
 a) amennyiben közvetlen életveszély nem fenyeget, az alábbi személyek részére engedélyezheti a területre felügyelettel történő belépést és ott tartózkodást:
 
-aa)[^133] a lakosság alapvető ellátása, az alapvető szolgáltatás folyamatosságának biztosítása, a kritikus szervezet, kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében a területen munkát végzők számára,
+aa)[^130] a lakosság alapvető ellátása, az alapvető szolgáltatás folyamatosságának biztosítása, a kritikus szervezet, kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében a területen munkát végzők számára,
 
 ab) a katasztrófa károsító hatása által érintett területen hátrahagyott ingatlannal, illetve anyagi javakkal rendelkező személyek számára javaik védelme és mentése érdekében,
 
@@ -38,7 +38,7 @@ b) gondoskodik a katasztrófa károsító hatása által érintett területre be
 
 c) gondoskodik a kilépő személyek, járművek és eszközök mentesítéséről.
 
-[^130]: A 84. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
-[^131]: A 84. § (2) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 22. pontja szerint módosított szöveg.
-[^132]: A 84. § (3) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
-[^133]: A 84. § (5) bekezdés a) pont aa) alpontja a 474/2024. (XII. 31.) Korm. rendelet 133. §-ával megállapított szöveg.
+[^127]: A 84. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
+[^128]: A 84. § (2) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 22. pontja szerint módosított szöveg.
+[^129]: A 84. § (3) bekezdése a 408/2022. (X. 24.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
+[^130]: A 84. § (5) bekezdés a) pont aa) alpontja a 474/2024. (XII. 31.) Korm. rendelet 133. §-ával megállapított szöveg.

@@ -4,9 +4,9 @@
 
 a) közvetlenül veszélyeztetettek az atomerőmű 3 km-es és a kutatóreaktor 1 km-es körzetében,
 
-b)[^52] veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem vagy a veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló kormányrendelet szerinti veszélyes katonai objektum (a továbbiakban: veszélyes katonai objektum) által veszélyeztetettek és külső védelmi terv készítésére kötelezettek,
+b)[^49] veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem vagy a veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló kormányrendelet szerinti veszélyes katonai objektum (a továbbiakban: veszélyes katonai objektum) által veszélyeztetettek és külső védelmi terv készítésére kötelezettek,
 
-c)[^53] az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti I. besorolást kapják, vagy
+c)[^50] az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti I. besorolást kapják, vagy
 
 d) területén az egyes veszélyeztető hatások egymásra gyakorolt és együttes hatására tekintettel indokolt a települést fokozottabb védelemben részesíteni.
 
@@ -14,17 +14,17 @@ d) területén az egyes veszélyeztető hatások egymásra gyakorolt és együtt
 
 a) az atomerőmű által közvetetten veszélyeztetettek (3–30 km közötti területen lévő),
 
-b)[^54] veszélyes anyagokkal foglalkozó üzem vagy küszöbérték alatti üzem által veszélyeztetettek, és külső védelmi terv készítésére nem kötelezettek, vagy
+b)[^51] veszélyes anyagokkal foglalkozó üzem vagy küszöbérték alatti üzem által veszélyeztetettek, és külső védelmi terv készítésére nem kötelezettek, vagy
 
 c) az egyes veszélyeztető hatások kockázatbecslése és kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti II. besorolást kapják.
 
 (3) III. osztályba kell sorolni azokat a településeket, amelyek
 
-a)[^55] a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezetének hatálya alá nem tartozó üzem által a veszélyes anyagok környezetbe kerülése esetén veszélyeztetettek,
+a)[^52] a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezetének hatálya alá nem tartozó üzem által a veszélyes anyagok környezetbe kerülése esetén veszélyeztetettek,
 
 b) az egyes veszélyeztető hatások kockázatbecslése és a kockázati mátrixban történő elhelyezése alapján a 2. melléklet b) pontja szerinti III. besorolást kapják.
 
-[^52]: A 24. § (1) bekezdés b) pontja a 268/2019. (XI. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^53]: A 24. § (1) bekezdés c) pontja a 268/2019. (XI. 19.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^54]: A 24. § (2) bekezdés b) pontja a 268/2019. (XI. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^55]: A 24. § (3) bekezdés a) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.
+[^49]: A 24. § (1) bekezdés b) pontja a 268/2019. (XI. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^50]: A 24. § (1) bekezdés c) pontja a 268/2019. (XI. 19.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^51]: A 24. § (2) bekezdés b) pontja a 268/2019. (XI. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^52]: A 24. § (3) bekezdés a) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.

@@ -1,12 +1,12 @@
 ## 22. Központi veszélyelhárítási terv
 
-31. § (1)[^70] A hivatásos katasztrófavédelmi szerv központi szervének vezetője az érintett ágazatok bevonásával központi veszélyelhárítási tervet készít a katasztrófakockázatok megelőzése, csökkentése és az azokhoz való alkalmazkodás, valamint a katasztrófa veszélyének elhárítása és a katasztrófa következményeinek lehető legkisebb mértékűre csökkentése érdekében.
+31. § (1)[^67] A hivatásos katasztrófavédelmi szerv központi szervének vezetője az érintett ágazatok bevonásával központi veszélyelhárítási tervet készít a katasztrófakockázatok megelőzése, csökkentése és az azokhoz való alkalmazkodás, valamint a katasztrófa veszélyének elhárítása és a katasztrófa következményeinek lehető legkisebb mértékűre csökkentése érdekében.
 
-(2)[^71] A központi veszélyelhárítási terv különösen az alábbiakat tartalmazza:
+(2)[^68] A központi veszélyelhárítási terv különösen az alábbiakat tartalmazza:
 
 a) az emberi élet és a létfenntartáshoz szükséges anyagi javak védelmének rendje,
 
-b)[^72] a létfontosságú infrastruktúrák katasztrófák elleni védelmének rendje,
+b)[^69] a létfontosságú infrastruktúrák katasztrófák elleni védelmének rendje,
 
 c) a lakosság alapvető ellátása biztosításának rendje,
 
@@ -22,6 +22,6 @@ f) az intézkedések végrehajtási rendszere.
 
 (5) A központi veszélyelhárítási tervből az abban foglaltak végrehajtásában érintett ágazat ágazati veszélyelhárítási tervkivonatot készíthet.
 
-[^70]: A 31. § (1) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított, a 408/2022. (X. 24.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
-[^71]: A 31. § (2) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^72]: A 31. § (2) bekezdés b) pontja a 474/2024. (XII. 31.) Korm. rendelet 135. § b) pontja szerint módosított szöveg.
+[^67]: A 31. § (1) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított, a 408/2022. (X. 24.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
+[^68]: A 31. § (2) bekezdése a 268/2019. (XI. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^69]: A 31. § (2) bekezdés b) pontja a 474/2024. (XII. 31.) Korm. rendelet 135. § b) pontja szerint módosított szöveg.

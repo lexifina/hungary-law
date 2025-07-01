@@ -1,4 +1,4 @@
-## 23/A.[^76] A lakossági riasztórendszer végpontjainak telepítése és üzemeltetése céljából alapított szolgalom
+## 23/A.[^73] A lakossági riasztórendszer végpontjainak telepítése és üzemeltetése céljából alapított szolgalom
 
 33/A. § (1) A Kat. 21. § (2) bekezdése szerinti szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről az ingatlan tulajdonosával (vagyonkezelőjével, használójával) ajánlat megküldésével kell egyezség létrehozását megkísérelni. Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a hivatásos katasztrófavédelmi szerv központi szerve vagy a hivatásos katasztrófavédelmi szerv területi szerve kérelmére a fővárosi és vármegyei kormányhivatal állapítja meg.
 
@@ -8,4 +8,4 @@
 
 (4) Az áramszolgáltató külön kérésére évente egy alkalommal a hivatásos katasztrófavédelmi szerv központi szerve, illetve a hivatásos katasztrófavédelmi szerv területi szerve az áramszolgáltató illetékességi területén telepített lakossági riasztórendszer végpontjainak listáját megküldi.
 
-[^76]: A 23/A. alcímet (33/A. §-t) a 340/2024. (XI. 14.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^73]: A 23/A. alcímet (33/A. §-t) a 340/2024. (XI. 14.) Korm. rendelet 12. § (5) bekezdése iktatta be.

@@ -1,5 +1,5 @@
-## 56.[^126]
+## 56.[^123]
 
 77. §
 
-[^126]: Az 56. alcím címe a 408/2022. (X. 24.) Korm. rendelet 10. § 21. pontja szerint módosított szöveg.
+[^123]: Az 56. alcím címe a 408/2022. (X. 24.) Korm. rendelet 10. § 21. pontja szerint módosított szöveg.
