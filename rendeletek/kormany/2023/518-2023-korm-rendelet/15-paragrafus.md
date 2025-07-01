@@ -74,21 +74,21 @@ c) – és azt megelőzően a kérelemben is – büntetőjogi felelősségük t
 
 d) vállalják, hogy
 
-da) lakás vásárlása esetén a vételár, lakáscsere esetén a vételár-különbözet legfeljebb 10 százalékát készpénzben, a fennmaradó fizetési kötelezettséget – illetve annak a kölcsönt képező részét – a támogatott személy helyett a hitelintézet az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és az alkalmazási körébe tartozó – fizetési számlára vagy pénzügyi intézmény által vezetett, kölcsöntartozást nyilvántartó technikai számlára teljesítik,
+da)[^22] lakás vásárlása esetén a vételárat, lakáscsere esetén a vételár-különbözetet választásuk szerint készpénzben is teljesíthetik, azzal, hogy a kölcsönt képező vételárrészletet a támogatott személyek helyett a hitelintézet az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott és az alkalmazási körébe tartozó – fizetési számlára vagy pénzügyi intézmény által vezetett kölcsöntartozást nyilvántartó technikai számlára teljesíti,
 
 db) új lakás vásárlása esetén legkésőbb a kölcsön folyósításáig az adásvételi szerződésben szereplő telekárat is tartalmazó vételárról a valamelyikük saját nevére szóló, az általános forgalmi adóról szóló törvény hatálya alá tartozó termékértékesítésről, szolgáltatásnyújtásról kiállított számlákat, egyszerűsített számlákat (a továbbiakban együtt: számla) a hitelintézet részére bemutatják,
 
 dc) lakás építése vagy bővítése esetén a készültségi fokkal arányos folyósítást megelőzően a hitelintézet részére bemutatják az adott készültségi foknak megfelelő, a hitelintézet által elfogadott költségvetésben szereplő bekerülési költség legalább 70 százalékáról valamelyik támogatott személy saját nevére kiállított számlákat,
 
-dd)[^22] lakás építése esetén a támogatott személyek a használatbavételi engedéllyel még nem rendelkező lakás tulajdonjogának a használatbavételi engedély megszerzése előtt történő átruházása kapcsán a készültségi fokkal arányos folyósítást megelőzően a hitelintézet részére bemutatják a szerződéssel, bírósági, illetve hatósági határozattal, árverési jegyzőkönyvvel vagy számlával igazolt vagy ennek hiányában a hitelintézet által megállapított telekárral csökkentett ellenérték 70 százaléka erejéig az előző építtető nevére vagy – amennyiben az előző építtető gazdálkodó szervezet – a gazdálkodó szervezet által a teljes vételárról kiállított számlákat,
+dd)[^23] lakás építése esetén a támogatott személyek a használatbavételi engedéllyel még nem rendelkező lakás tulajdonjogának a használatbavételi engedély megszerzése előtt történő átruházása kapcsán a készültségi fokkal arányos folyósítást megelőzően a hitelintézet részére bemutatják a szerződéssel, bírósági, illetve hatósági határozattal, árverési jegyzőkönyvvel vagy számlával igazolt vagy ennek hiányában a hitelintézet által megállapított telekárral csökkentett ellenérték 70 százaléka erejéig az előző építtető nevére vagy – amennyiben az előző építtető gazdálkodó szervezet – a gazdálkodó szervezet által a teljes vételárról kiállított számlákat,
 
 de) a dc) és dd) alpont szerinti számlabemutatási kötelezettség keretében nem nyújtanak be olyan számlát, amelyet a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet alapján ugyanazon lakásra nyújtott otthonfelújítási támogatás kapcsán már elszámoltak,
 
-df)[^23] építés esetén az új lakásra vonatkozó használatbavételi engedélyt az utolsó kölcsönrész folyósításáig bemutatják a hitelintézet részére,
+df)[^24] építés esetén az új lakásra vonatkozó használatbavételi engedélyt az utolsó kölcsönrész folyósításáig bemutatják a hitelintézet részére,
 
-dg)[^24] a df) alpontban foglaltaktól eltérően a kölcsönkérelem benyújtásának időpontjában építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által generált visszaigazolással vagy az elektronikus építési napló üzemeltetője által előállított visszaigazolással, a 2024. szeptember 30-át követően új lakóépületre tett egyszerű bejelentés esetén az építésügyi hatóság által kiállított, az egyszerű bejelentés tudomásulvételéről szóló dokumentummal rendelkező, de használatbavételi engedéllyel még nem rendelkező, gazdálkodó szervezet által természetes személy részére való értékesítés céljára épített vagy építtetett új lakás esetében a kölcsön teljes összege a használatbavételi engedély bemutatását megelőzően is folyósítható, azzal, hogy ebben az esetben a kamattámogatási időszak a használatbavételi engedély hitelintézet részére való bemutatását követő napon kezdődik;
+dg)[^25] a df) alpontban foglaltaktól eltérően a kölcsönkérelem benyújtásának időpontjában építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által generált visszaigazolással vagy az elektronikus építési napló üzemeltetője által előállított visszaigazolással, a 2024. szeptember 30-át követően új lakóépületre tett egyszerű bejelentés esetén az építésügyi hatóság által kiállított, az egyszerű bejelentés tudomásulvételéről szóló dokumentummal rendelkező, de használatbavételi engedéllyel még nem rendelkező, gazdálkodó szervezet által természetes személy részére való értékesítés céljára épített vagy építtetett új lakás esetében a kölcsön teljes összege a használatbavételi engedély bemutatását megelőzően is folyósítható, azzal, hogy ebben az esetben a kamattámogatási időszak a használatbavételi engedély hitelintézet részére való bemutatását követő napon kezdődik;
 
-dh)[^25] az igénylők és azon gyermekük, akire tekintettel a kölcsön folyósításra került, a folyósítástól, építés vagy bővítés esetén – ideértve a lakás megvásárlásával egybekötött bővítést is – az utolsó részfolyósítástól a 18. § (1) bekezdésével megegyezően számított 10 évig a lakásban életvitelszerűen bent laknak, azzal, hogy a gyermeket legfeljebb nagykorúvá válásáig terheli a bentlakási kötelezettség,
+dh)[^26] az igénylők és azon gyermekük, akire tekintettel a kölcsön folyósításra került, a folyósítástól, építés vagy bővítés esetén – ideértve a lakás megvásárlásával egybekötött bővítést is – az utolsó részfolyósítástól a 18. § (1) bekezdésével megegyezően számított 10 évig a lakásban életvitelszerűen bent laknak, azzal, hogy a gyermeket legfeljebb nagykorúvá válásáig terheli a bentlakási kötelezettség,
 
 di) a dh) alpontban foglalt kötelezettség teljesítése érdekében a kölcsön folyósítását, építés vagy bővítés esetén – ideértve a lakás megvásárlásával egybekötött bővítést is – az utolsó részfolyósítását követő 180 napon belül a kölcsön felhasználásával vásárolt, épített vagy bővített lakásban a támogatott személyek és mindazon személyek lakóhelyet, hontalan esetében szálláshelyet létesítenek, akiknek együttköltözésére tekintettel a kölcsön folyósítása történt,
 
@@ -96,7 +96,7 @@ dj) ha a gyermek születését követően nem igényelnek családtámogatási el
 
 dk) a 13. § (2) bekezdése szerinti esetben tartózkodási jogosultságuk fennállását évente, a tárgyév január 31-ig a hitelintézetnek igazolják, valamint a nem magyar állampolgár támogatott személyek a tartózkodási jogosultságukban bekövetkezett változást 8 napon belül a hitelintézetnek bejelentik;
 
-e)[^26] tudomásul veszik, hogy a hitelintézet kizárólag olyan számlát fogad el, amelynek kiállítására az építési munkák megkezdését vagy az építési engedélyt vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentéséről előállított visszaigazolást, bővítési cél esetén a kölcsön igénylését legfeljebb 6 hónappal megelőzően került sor, valamint amelynek kibocsátója a számlabenyújtás időpontjában az állami adóhatóság nyilvántartásában működő adóalanyként szerepel, vagy ennek hiányában az állami adóhatóság a működő adóalanyiságot a számlakibocsátó tekintetében a számlakiállítás időpontjára vonatkozóan igazolja;
+e)[^27] tudomásul veszik, hogy a hitelintézet kizárólag olyan számlát fogad el, amelynek kiállítására az építési munkák megkezdését vagy az építési engedélyt vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentéséről előállított visszaigazolást, bővítési cél esetén a kölcsön igénylését legfeljebb 6 hónappal megelőzően került sor, valamint amelynek kibocsátója a számlabenyújtás időpontjában az állami adóhatóság nyilvántartásában működő adóalanyként szerepel, vagy ennek hiányában az állami adóhatóság a működő adóalanyiságot a számlakibocsátó tekintetében a számlakiállítás időpontjára vonatkozóan igazolja;
 
 f) hozzájárulnak ahhoz, hogy
 
@@ -106,7 +106,7 @@ fb) a gyermek születéséről a Kincstár – a családtámogatási adatbázist
 
 (6) Az (5) bekezdés a) pontja és d) pont di) alpontja szerinti tartalmú nyilatkozatot, teljes bizonyító erejű magánokiratba foglaltan azon nagykorú, közös háztartásban élő gyermeknek is meg kell tennie, akire tekintettel a kölcsönt igénybe veszik.
 
-(7)[^27] Az (5) bekezdés d) pont di) alpontja szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a kötelezettség nem teljesül, a Kincstár tájékoztatja erről a kormányhivatalt. A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyeket az (5) bekezdés d) pont di) alpontja szerinti kötelezettségük teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személyek a felszólításnak határidőben eleget tesznek, akkor velük szemben a 30. § (3) és 33. § (2) bekezdése szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.
+(7)[^28] Az (5) bekezdés d) pont di) alpontja szerinti kötelezettség teljesítését a Kincstár ellenőrzi. Ha a kötelezettség nem teljesül, a Kincstár tájékoztatja erről a kormányhivatalt. A kormányhivatal egy alkalommal 60 napos határidővel felszólítja a támogatott személyeket az (5) bekezdés d) pont di) alpontja szerinti kötelezettségük teljesítésére, illetve a jogszerű állapot kialakítására. Ha a támogatott személyek a felszólításnak határidőben eleget tesznek, akkor velük szemben a 30. § (3) és 33. § (2) bekezdése szerinti jogkövetkezmény nem alkalmazható ebben az eljárásban.
 
 (8) Ha az igénylő és azon gyermeke, akire tekintettel a kölcsönt igényli, a kérelem benyújtásának időpontjában a 17. § (1) bekezdés a) vagy h) pontjában foglaltak szerinti lakóhellyel vagy tartózkodási hellyel rendelkezik, a lakóhely vagy a tartózkodási hely – a 17. § (1) bekezdés a) vagy h) pontjában meghatározott tényekre tekintettel történő – fenntartása nem minősül az (5) bekezdés d) pont dh) és di) alpontja szerint vállalt kötelezettségek megsértésének.
 
@@ -122,7 +122,7 @@ b) az egyik vagy mindkét igénylő által folytatott egyéni vállalkozói tev�
 
 székhelyeként a cégnyilvántartásba, illetve az egyéni vállalkozók nyilvántartásába be kívánják jegyeztetni.
 
-(12)[^28] A kölcsön iránti kérelemben az igénylők teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősségük tudatában nyilatkoznak arról, ha az állam javára bejegyzett jelzálogjog fennállása alatt a kölcsön felhasználásával épített, vásárolt, bővített lakáshoz tartozó földrészletet, illetve az azon álló melléképítményt saját gazdasági tevékenységük céljára kívánják hasznosítani, ide nem értve annak bérbe vagy haszonbérbe adását.
+(12)[^29] A kölcsön iránti kérelemben az igénylők teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősségük tudatában nyilatkoznak arról, ha az állam javára bejegyzett jelzálogjog fennállása alatt a kölcsön felhasználásával épített, vásárolt, bővített lakáshoz tartozó földrészletet, illetve az azon álló melléképítményt saját gazdasági tevékenységük céljára kívánják hasznosítani, ide nem értve annak bérbe vagy haszonbérbe adását.
 
 (13) A (12) bekezdés szerinti nyilatkozat megtétele esetén
 
@@ -139,10 +139,11 @@ cb) vásárlásánál a lakóépületre jutó vételárhányadot.
 [^19]: A 15. § (1) bekezdés c) pont nyitó és záró szövegrésze a 262/2024. (VIII. 29.) Korm. rendelet 3. § a) pontja, záró szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 6. pontja szerint módosított szöveg.
 [^20]: A 15. § (5) bekezdés a) pont nyitó szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 7. pontja szerint módosított szöveg.
 [^21]: A 15. § (5) bekezdés b) pont bc) alpontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 8. pontjával megállapított szöveg.
-[^22]: A 15. § (5) bekezdés d) pont dd) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 5. pontja szerint módosított szöveg.
-[^23]: A 15. § (5) bekezdés d) pont df) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 6. pontja szerint módosított szöveg.
-[^24]: A 15. § (5) bekezdés d) pont dg) alpontja a 285/2024. (IX. 30.) Korm. rendelet 198. § d) pontja és 199. § 7. pontja szerint módosított szöveg.
-[^25]: A 15. § (5) bekezdés d) pont dh) alpontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 9. pontja szerint módosított szöveg.
-[^26]: A 15. § (5) bekezdés e) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 10. pontja szerint módosított szöveg.
-[^27]: A 15. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 11. pontja szerint módosított szöveg.
-[^28]: A 15. § (12) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+[^22]: A 15. § (5) bekezdés d) pont da) alpontja a 128/2025. (VI. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 15. § (5) bekezdés d) pont dd) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 5. pontja szerint módosított szöveg.
+[^24]: A 15. § (5) bekezdés d) pont df) alpontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 6. pontja szerint módosított szöveg.
+[^25]: A 15. § (5) bekezdés d) pont dg) alpontja a 285/2024. (IX. 30.) Korm. rendelet 198. § d) pontja és 199. § 7. pontja szerint módosított szöveg.
+[^26]: A 15. § (5) bekezdés d) pont dh) alpontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 9. pontja szerint módosított szöveg.
+[^27]: A 15. § (5) bekezdés e) pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 10. pontja szerint módosított szöveg.
+[^28]: A 15. § (7) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 11. pontja szerint módosított szöveg.
+[^29]: A 15. § (12) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.

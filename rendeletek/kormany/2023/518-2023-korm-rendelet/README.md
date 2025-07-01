@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-518-20-
 | 2024-10-01 | 2023-518-20-22.4 | 285/2024. (IX. 30.) Korm. rendelet |
 | 2024-12-12 | 2023-518-20-22.5 | 388/2024. (XII. 11.) Korm. rendelet |
 | 2025-01-10 | 2023-518-20-22.6 | 388/2024. (XII. 11.) Korm. rendelet |
+| 2025-07-01 | 2023-518-20-22.7 | 128/2025. (VI. 5.) Korm. rendelet |
