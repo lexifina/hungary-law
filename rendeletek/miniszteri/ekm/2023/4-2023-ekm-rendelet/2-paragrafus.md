@@ -2,7 +2,7 @@
 
 (2) Az építésgazdaságért felelős miniszter (a továbbiakban: miniszter) a szakvélemény kiadása érdekében adatokat kérhet be az ajánlatkérőtől vagy más, a kérelem elbírálásához releváns információval rendelkező személytől, szervezettől, szükség esetén szakértő közreműködését veszi igénybe.
 
-(3) A miniszter a (2) bekezdés szerinti szakértői feladatok ellátására a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaságot jelöli ki, azzal, hogy a szakvélemény kiadása során a miniszter a Központi Statisztikai Hivatal építőipari termelői árindex adatainak figyelembevételével jár el.
+(3)[^1] A miniszter a (2) bekezdés szerinti szakértői feladatok ellátására a Közlekedéstudományi Intézetet jelöli ki, azzal, hogy a szakvélemény kiadása során a miniszter a Központi Statisztikai Hivatal építőipari termelői árindex adatainak figyelembevételével jár el.
 
 (4) A nyertes ajánlattevő által a Korm. rendelet 2. § (3) bekezdése szerint benyújtott szerződésmódosítási kezdeményezés alapján az ajánlatkérő a Korm. rendelet 2. § (4) bekezdésében foglaltaknak megfelelően összeállított szakvélemény kiadása iránti kérelmet a 2. melléklet szerinti nyomtatványon és mellékletei csatolásával nyújtja be a miniszter felé.
 
@@ -15,3 +15,5 @@
 (8) A Korm. rendelet 2. § (4) bekezdése szerinti esetben a szakvélemény kiadásához a miniszter az eljáró szakértő által meghatározott kiegészítő adatokat kérhet be az ajánlatkérő megkeresése útján.
 
 (9) A miniszter a szakvéleményt a megkeresett szerv adatközlését – a szakértői vélemény beszerzése esetén a szakértői vélemény rendelkezésre állását – követő 30 napon belül adja ki.
+
+[^1]: A 2. § (3) bekezdése a 19/2025. (VI. 27.) ÉKM rendelet 12. §-a szerint módosított szöveg.
