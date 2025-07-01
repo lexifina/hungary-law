@@ -140,6 +140,6 @@
 
 ## A nyilatkozatot nyomtatott betűvel kell kitölteni!
 
-7. melléklet a 35/2024. (II. 29.) Korm. rendelethez[^118]
+7. melléklet a 35/2024. (II. 29.) Korm. rendelethez[^126]
 
-[^118]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-330. §[^102]
+330. §[^108]
 
-[^102]: A 330. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 330. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

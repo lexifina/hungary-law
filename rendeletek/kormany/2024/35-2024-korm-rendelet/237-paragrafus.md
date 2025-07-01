@@ -6,6 +6,6 @@
 
 (3) A hontalanság megállapítása iránti kérelemhez csatolni kell a kérelmező személyazonosságot igazoló külföldi okmányait, úti okmányait, továbbá minden olyan iratot, amely alkalmas lehet a kérelmező által előadottak alátámasztására.
 
-(4)[^25] A csatolt okmányokat az ügy érdemében hozott határozat véglegessé válásának napján a kérelmezőnek vissza kell adni.
+(4)[^31] A csatolt okmányokat az ügy érdemében hozott határozat véglegessé válásának napján a kérelmezőnek vissza kell adni.
 
-[^25]: A 237. § (4) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.
+[^31]: A 237. § (4) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.

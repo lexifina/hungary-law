@@ -4,6 +4,6 @@
 
 (2) Az eljárásban a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség.
 
-(3)[^26] A meghatalmazott, illetve – a kérelmező beleegyezésével – az Egyesült Nemzetek Menekültügyi Főbiztossága budapesti Közép-európai Képviseletének (a továbbiakban: Képviselet) képviselője jelen lehet a kérelmező meghallgatásán. A meghallgatás időpontjáról a regionális igazgatóság a meghallgatás napját megelőző legalább öt nappal értesíti a meghatalmazottat és a Képviseletet.
+(3)[^32] A meghatalmazott, illetve – a kérelmező beleegyezésével – az Egyesült Nemzetek Menekültügyi Főbiztossága budapesti Közép-európai Képviseletének (a továbbiakban: Képviselet) képviselője jelen lehet a kérelmező meghallgatásán. A meghallgatás időpontjáról a regionális igazgatóság a meghallgatás napját megelőző legalább öt nappal értesíti a meghatalmazottat és a Képviseletet.
 
-[^26]: A 240. § (3) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.
+[^32]: A 240. § (3) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.

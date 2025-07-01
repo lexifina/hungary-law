@@ -6,11 +6,11 @@
 
 (3) A beruházás megvalósítása céljából kiadott munkavállalási célú tartózkodási engedély iránti kérelemhez mellékelni kell:
 
-a) a foglalkoztató – amelynek javára vagy irányítása alatt a foglalkoztatásra sor kerül (a továbbiakban: munkáltató) – részére kiállított előzetes csoportos munkavállalási jóváhagyást, és
+a)[^6] a foglalkoztató – amelynek javára vagy irányítása alatt a foglalkoztatásra sor kerül (a továbbiakban: munkáltató) – részére kiállított, a beruházás előkészítő vagy beüzemelési szakaszára vonatkozó előzetes csoportos munkavállalási jóváhagyást, és
 
 b) a külgazdasági ügyekért felelős miniszter által kiállított igazolást a beruházás megvalósítása érdekében kötött megállapodásról vagy a támogatási ajánlat elfogadásáról.
 
-(3a)[^6] A (3) bekezdés b) pontja szerinti megállapodást nem kell a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély iránti kérelemhez mellékelni, ha a harmadik országbeli állampolgár foglalkoztatója
+(3a)[^7] A (3) bekezdés b) pontja szerinti megállapodást nem kell a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély iránti kérelemhez mellékelni, ha a harmadik országbeli állampolgár foglalkoztatója
 
 a) a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvényben (a továbbiakban: 2015. évi VII. törvény) meghatározott fővállalkozó, vagy annak a 2015. évi VII. törvény szerinti alvállalkozója (ideértve az alvállalkozó 2015. évi VII. törvény 2. § a) pontja szerinti alvállalkozóját is), vagy
 
@@ -24,4 +24,5 @@ b) annak igazolását, hogy az ingatlan hány fő elhelyezésére alkalmas.
 
 (5) A (4) bekezdésben foglalt igazolások valóságtartalmát a regionális igazgatóság helyszíni ellenőrzés keretében ellenőrizheti.
 
-[^6]: A 15. § (3a) bekezdését a 166/2024. (VI. 28.) Korm. rendelet 16. §-a iktatta be.
+[^6]: A 15. § (3) bekezdés a) pontja a 73/2025. (IV. 10.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^7]: A 15. § (3a) bekezdését a 166/2024. (VI. 28.) Korm. rendelet 16. §-a iktatta be.

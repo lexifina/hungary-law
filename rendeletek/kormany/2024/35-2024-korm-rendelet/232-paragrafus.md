@@ -4,7 +4,15 @@ a) az engedélyezett tartózkodási idő lejárt,
 
 b) a tartózkodási engedélyt véglegessé vált határozattal visszavonták,
 
-c) helyette a harmadik országbeli állampolgár – a tartózkodási engedély okmány cseréjére vagy pótlására irányuló eljárásban vagy a tartózkodási engedély meghosszabbítása miatt – új tartózkodási engedély okmányt kapott,
+c)[^28] helyette a harmadik országbeli állampolgár
+
+ca) a tartózkodási engedély okmány cseréjére vagy pótlására irányuló eljárásban,
+
+cb) a tartózkodási engedély meghosszabbítása miatt vagy
+
+cc) a Tv. vagy e rendelet szerinti tartózkodási engedély kiadása miatt
+
+új tartózkodási engedély okmányt kapott,
 
 d) a benne foglalt adatok igazolására alkalmatlanná vált,
 
@@ -16,6 +24,7 @@ g) jogosultja meghalt,
 
 h) jogosultja magyar állampolgárságot szerzett, vagy
 
-i)[^24] a Tv.-ben meghatározott esetek valamelyike fennáll.
+i)[^29] a Tv.-ben meghatározott esetek valamelyike fennáll.
 
-[^24]: A 232. § i) pontja a 166/2024. (VI. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^28]: A 232. § c) pontja a 73/2025. (IV. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^29]: A 232. § i) pontja a 166/2024. (VI. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
