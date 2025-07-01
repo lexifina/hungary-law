@@ -37,3 +37,5 @@ utólag kell folyósítani.
 (7) Az esedékessé vált és fel nem vett nyugellátást az esedékességtől számított öt éven belül lehet felvenni.
 
 (8) A nyugdíjfolyósító szerv a késedelmesen folyósított nyugellátás összege után – a határidő lejártát követő naptól – a Polgári Törvénykönyv szerinti késedelmi kamatot (a továbbiakban: késedelmi kamat) fizet, ha a késedelmi kamat összege meghaladja az 1000 forintot.
+
+(9) A nyugdíjfolyósító szerv a minimálbér változása miatt módosuló, a bírósági végrehajtásról szóló törvény szerinti levonási összeghatárt első alkalommal a minimálbér megállapításáról rendelkező jogszabály hatálybalépését követő hónapban általa folyósított ellátásokból történő letiltás során alkalmazza azzal, hogy az ezt megelőző időszakra visszamenőlegesen elszámolt ellátásból levonható összeget a korábban hatályos minimálbér alapulvételével állapítja meg.
