@@ -128,6 +128,8 @@ c)
 
 (2a) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki a törzsadat-nyilvántartás működtetésében közreműködő szervet vagy szervezetet.
 
+(2b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az EMAP technológiai jogosultsági rendszerének működtetésével kapcsolatos technológiai feladatok ellátására jogosult adatfeldolgozót.
+
 (3) Felhatalmazást kap az államháztartásért felelős miniszter arra, hogy
 
 1. a számviteli elszámolásokra vonatkozó szabályozás megváltozása esetén a beszámoló készítés és a könyvvezetés sajátos feladatait, az áttérés lebonyolításával kapcsolatos könyvviteli feladatokat, valamint az (1) bekezdés 33. és 34. pontjának felhatalmazása alapján kiadott kormányrendeletben meghatározott előírások alapján az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módját, ha az (1) bekezdés 28. pontjának felhatalmazása alapján kiadott kormányrendelet eltérő elszámolási módot nem állapít meg,

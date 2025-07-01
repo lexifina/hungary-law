@@ -64,9 +64,9 @@
 
 (26) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 8/A. § (2) bekezdése nem érinti a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépésekor már megalapított költségvetési szervek alapításának érvényességét, azonban a költségvetési szerv alapító okiratának a Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény hatálybalépését követő módosításánál az alapító okiratot a kincstár által közzétett formanyomtatványnak megfelelően módosítani kell.
 
-(27)
+(27) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 108/B. § (2)–(9) bekezdését első alkalommal a 2026. évben kell alkalmazni.
 
-(28)
+(28) E törvénynek a Módtv5.-tel megállapított 84. § (1)–(1b) és (1d)–(1f) bekezdését első alkalommal a 2025. október 1-jétől kell alkalmazni.
 
 (29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
 
@@ -104,7 +104,7 @@
 
 (46) E törvénynek Módtv4.-gyel megállapított 79. § (2b) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv4. hatályba lépését megelőző három vagy ennél korábbi évben, határozatlan időre kiadott, e törvény hatálybalépése napján még érvényes felmentések esetében legkésőbb 2025. június 30-ig kell elvégezni.
 
-(47) E törvénynek a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról szóló 2025. évi XXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 51/A. § (1) bekezdését, 53/A. § (2b) és (3) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatási jogviszonyokban is alkalmazni kell.
+(47) E törvénynek a Módtv5.-tel megállapított 51/A. § (1) bekezdését, 53/A. § (2b) és (3) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatási jogviszonyokban is alkalmazni kell.
 
 (48) A 2025. január 1-jét megelőzően a Közvetlen uniós programok támogatása előirányzat terhére létrejött támogatási jogviszonyokra, a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatokra a Kormány rendeletében meghatározott, e jogviszonyok létrejöttekor hatályos előleg-elszámolási szabályokat kell alkalmazni.
 
