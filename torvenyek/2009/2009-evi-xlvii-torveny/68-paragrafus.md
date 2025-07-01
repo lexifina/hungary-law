@@ -12,7 +12,7 @@ d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárít�
 
 e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 
-f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
+f) a rendőrség nemzetközi bűnügyi együttműködési központja a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 
 g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés a), c), h) és k) pontjában, valamint 8/A. § (3) bekezdésében meghatározott feladatai ellátása céljából,
 

@@ -8,4 +8,4 @@ c) visszavonásáról.
 
 (2) A tájékoztatásra irányuló, kizárólag elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével benyújtható kérelemben a 74. § (1) bekezdés a)–c) és e) pontjában meghatározott minden adatot fel kell tüntetni.
 
-(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről.
+(3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, ellenőrzési lehetőséget biztosít az általa digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány kiállításának tényéről, érvényességéről és hitelességéről. Az elektronikus felületről az ellenőrzés elvégzésének ténye és eredménye letölthető és kinyomtatható.

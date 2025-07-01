@@ -12,12 +12,12 @@ lehet benyújtani.
 
 (4) Külföldi kérelem előterjesztése esetén a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv a kérelmező erre irányuló kérelmére
 
-a) elektronikus közokiratként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti,
+a) digitális biztonsági okmányként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti,
 
 b) papíralapon állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti, vagy
 
 c) papíralapon állítja ki, és a kérelmező által meghatározott címzett részére és annak belföldi kézbesítési címére kézbesíti.
 
-(5) A hivatásos konzuli tisztviselő az elektronikus közokiratként kiállított hatósági erkölcsi bizonyítványról papíralapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
+(5) A hivatásos konzuli tisztviselő a digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítványról papíralapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
 
 (6) A kérelmezőnek a konzuli tisztviselő eljárásban való közreműködéséért, illetve az elektronikus úton továbbított bizonyítványról történő hiteles másolat kiállításáért jogszabályban meghatározott konzuli díjat kell fizetnie.

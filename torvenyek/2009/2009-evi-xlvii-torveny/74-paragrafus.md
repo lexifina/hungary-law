@@ -22,9 +22,13 @@ f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult nevét.
 
 (2) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-a) digitális biztonsági okmányként állítja ki, ha a kérelmező az elektronikus úton előterjesztett kérelmét a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti keretalkalmazáson keresztül nyújtja be,
+a) digitális biztonsági okmányként állítja ki,
 
-b) papíralapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha a kérelmező a kérelmét az a) ponton kívüli bármely más, a 72. § (1) bekezdése szerinti kérelmezési lehetőséggel élve nyújtja be.
+b) papír alapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha
+
+ba) a kérelmező nem rendelkezik a 71. § (8) bekezdés a) pontja szerinti hivatalos elérhetőséggel,
+
+bb) a kérelmező a kérelmében a hatósági erkölcsi bizonyítvány külföldön történő felhasználása céljából kéri annak papír alapon történő kiállítását.
 
 (3) A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány a külön jogszabályban meghatározott okmányvédelmi kategóriájának megfelelő biztonsági megoldásokkal rendelkezik, amelyben a formátum, az adatok és az azok hitelességét igazoló tényezők összetartozóak, egymástól nem választhatóak el. A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány Magyarországon történő felhasználás céljából állítható ki és kizárólag digitális formában érvényes.
 

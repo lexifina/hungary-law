@@ -26,7 +26,7 @@ e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-a) elektronikus úton, a kérelmező hivatalos elérhetőségére,
+a) elektronikus úton, a kérelmező hivatalos elérhetőségére, valamint erre irányuló kérelmére, az általa megjelölt címzett elektronikus levelezési címére is,
 
 b) a kérelmező részére, belföldi címére,
 

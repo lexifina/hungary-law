@@ -24,4 +24,6 @@ e) ha a kérelmező a 71. § (5) bekezdés a) pontjában meghatározott tény ig
 
 f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papíralapon nyújtja be, a kérelmező saját kezű aláírását.
 
+g) a kérelmező nyilatkozatát arról, ha a hatósági erkölcsi bizonyítvány kiállítását annak külföldön történő felhasználása céljából papíralapon kéri.
+
 (3) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránt indult eljárásában – külön ellenőrzés nélkül – a kérelmező által a kérelmében a (2) bekezdés a) pont ae) alpontja szerint megadott adatot alapul véve jár el.

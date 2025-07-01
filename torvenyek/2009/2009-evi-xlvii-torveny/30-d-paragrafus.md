@@ -18,7 +18,7 @@ b) a bűnügyi nyilvántartó szerv az útiokmány-nyilvántartás adatai alapj�
 
 (3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
-(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az ideiglenes kiadatási bűnügyi felügyelet, az átadási letartóztatás, az ideiglenes átadási letartóztatás vagy az ideiglenes átadási bűnügyi felügyelet azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.
+(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az ideiglenes kiadatási bűnügyi felügyelet, az átadási letartóztatás, az ideiglenes átadási letartóztatás vagy az ideiglenes átadási bűnügyi felügyelet azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a rendőrség nemzetközi bűnügyi együttműködési központja közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 30/C. § j) pontjában meghatározott adatot a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 
