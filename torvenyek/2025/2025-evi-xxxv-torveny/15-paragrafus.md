@@ -1,3 +1,3 @@
-## 9.
+## 9. Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény módosítása
 
-### 15. §
+15. § Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény „A Nemzetközi Bűnügyi Együttműködési Központ” alcím címe helyébe a következő alcím cím lép:

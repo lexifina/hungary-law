@@ -1,3 +1,5 @@
 ## 22. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
 
-### 45. §
+45. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. § (3c) bekezdése helyébe a következő rendelkezés lép:
+
+„(3c) A szociális szövetkezetbe az állami képviselőt az (1)–(3a) bekezdés szerinti szerződés lejártáig lehet kijelölni. A start szociális szövetkezet vezetője kérheti állami képviselő kijelölését akkor is, ha gazdasági tevékenysége körében együttműködik a települési önkormányzattal, vagy a közfoglalkoztatási programokból keletkező áruk, késztermékek felvásárlásával és további hasznosításával kapcsolódik a település közfoglalkoztatási programjához. Ebben az esetben az állami képviselő feladata a start szociális szövetkezet tevékenységének monitoringja és működésének koordinálása a közfoglalkoztatási jogviszonyban lévő személyek elsődleges munkaerőpiacra történő hatékony reintegrálása érdekében. Az állami képviselőt a közfoglalkoztatásért felelős miniszter jelöli ki.”
