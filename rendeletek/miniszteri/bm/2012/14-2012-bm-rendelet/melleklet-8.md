@@ -1,4 +1,4 @@
-8. melléklet a 14/2012. (III. 30.) BM rendelethez[^44]
+8. melléklet a 14/2012. (III. 30.) BM rendelethez[^45]
 
 A tisztjelölt szolgálati igazolványának leírása
 
@@ -78,4 +78,4 @@ A tisztjelölt szolgálati igazolványának leírása
 
 | 3. | KATASZTRÓFAVÉDELEM | 500. | BM OKF központi szervek |
 
-[^44]: A 8. mellékletet a 20/2016. (VI. 9.) BM rendelet 46. § (6) bekezdése iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 4. §-a szerint módosított szöveg.
+[^45]: A 8. mellékletet a 20/2016. (VI. 9.) BM rendelet 46. § (6) bekezdése iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 4. §-a szerint módosított szöveg.

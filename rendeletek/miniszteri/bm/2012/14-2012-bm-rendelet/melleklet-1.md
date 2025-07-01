@@ -1,6 +1,4 @@
-## 12. §[^38] A 2019. július 1-jén az OIF hivatásos állományába tartozó személyt a 3/A. mellékletben meghatározott szolgálati igazolvánnyal 2019. október 1-ig kell ellátni.
-
-1. melléklet a 14/2012. (III. 30.) BM rendelethez[^39]
+1. melléklet a 14/2012. (III. 30.) BM rendelethez[^40]
 
 A Rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
 
@@ -76,5 +74,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 27. |  | 320. | Zala Vármegyei Rendőr-főkapitányság |
 
-[^38]: A 12. §-t a 27/2019. (VI. 28.) BM rendelet 21. §-a iktatta be.
-[^39]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a, a 39/2020. (XI. 4.) BM rendelet 9. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 64. §-a szerint módosított szöveg.
+[^40]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a, a 39/2020. (XI. 4.) BM rendelet 9. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 64. §-a szerint módosított szöveg. [A 19/2025. (VI. 13.) BM rendelet 6. §-a által elrendelt módosítás, amely szerint hatályát veszti az 1. melléklet 4. pontjában foglalt táblázat 5. sora, nem vezethető át.]

@@ -1,4 +1,4 @@
-3/A. melléklet a 14/2012. (III. 30.) BM rendelethez[^40]
+3/A. melléklet a 14/2012. (III. 30.) BM rendelethez[^41]
 
 A Rendőrségről szóló törvényben meghatározott idegenrendészeti szerv hivatásos állományú dolgozói munkáltatói igazolványának leírása
 
@@ -40,4 +40,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többr
 
 |  | – az igazolvány alsó harmadán elhelyezkedő gépi kód. |
 
-[^40]: A 3/A. mellékletet a 27/2019. (VI. 28.) BM rendelet 22. §-a iktatta be.
+[^41]: A 3/A. mellékletet a 27/2019. (VI. 28.) BM rendelet 22. §-a iktatta be.
