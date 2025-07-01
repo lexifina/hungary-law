@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-344-20-
 | 2024-01-01 | 2019-344-20-22.7 | 673/2023. (XII. 29.) Korm. rendelet |
 | 2024-08-18 | 2019-344-20-22.9 | 246/2023. (VI. 22.) Korm. rendelet |
 | 2025-01-01 | 2019-344-20-22.10 | 470/2024. (XII. 30.) Korm. rendelet |
+| 2025-07-01 | 2019-344-20-22.11 | 175/2025. (VI. 30.) Korm. rendelet |
