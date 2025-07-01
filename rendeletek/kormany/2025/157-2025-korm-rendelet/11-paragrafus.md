@@ -1,3 +1,1 @@
-11. §[^11]
-
-[^11]: A 11. § a 12. § (2) bekezdése alapján 2025. július 1-jén lép hatályba.
+11. § Nem lép hatályba a 484/2024. (XII. 31.) Korm. rendelet 20. §-a, 24. § (2) bekezdése és 7. melléklete.
