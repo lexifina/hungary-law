@@ -1,4 +1,4 @@
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^184]
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^191]
 
 KÉRELEM
 
@@ -96,7 +96,7 @@ Teljes/részmunkaidő ..................... óra.
 
 Igen Nem
 
-4.2.[^185] A harmadik országbeli állampolgár szálláshelyét a foglalkoztató biztosítja?
+4.2.[^192] A harmadik országbeli állampolgár szálláshelyét a foglalkoztató biztosítja?
 
 Igen Nem
 
@@ -140,5 +140,5 @@ Dátum: .................................................
 
 foglalkoztató cégszerű aláírása
 
-[^184]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja, a 116/2021. (III. 10.) Korm. rendelet 24. §-a, a 616/2022. (XII. 29.) Korm. rendelet 171. § b) pontja szerint módosított szöveg.
-[^185]: Az 1. melléklet 4.2. pontját a 35/2024. (II. 29.) Korm. rendelet 310. § (1) bekezdése iktatta be.
+[^191]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja, a 116/2021. (III. 10.) Korm. rendelet 24. §-a, a 616/2022. (XII. 29.) Korm. rendelet 171. § b) pontja szerint módosított szöveg.
+[^192]: Az 1. melléklet 4.2. pontját a 35/2024. (II. 29.) Korm. rendelet 310. § (1) bekezdése iktatta be.

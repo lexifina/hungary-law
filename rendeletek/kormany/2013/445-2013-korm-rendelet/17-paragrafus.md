@@ -1,16 +1,16 @@
-## IV. Fejezet[^119]
+## IV. Fejezet[^125]
 
-## AZ ÁLLAMI FOGLALKOZTATÁSI SZERVKÉNT ELJÁRÓ FŐVÁROSI ÉS VÁRMEGYEI KORMÁNYHIVATALNAK A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK MAGYARORSZÁG TERÜLETÉN VALÓ TARTÓZKODÁSÁRA ÉS MUNKAVÁLLALÁSÁRA VONATKOZÓ ÖSSZEVONT ENGEDÉLY KIADÁSÁVAL ÉS MEGHOSSZABBÍTÁSÁVAL KAPCSOLATOS SZAKHATÓSÁGI KÖZREMŰKÖDÉSÉRE VONATKOZÓ SZABÁLYOK[^120]
+## AZ ÁLLAMI FOGLALKOZTATÁSI SZERVKÉNT ELJÁRÓ FŐVÁROSI ÉS VÁRMEGYEI KORMÁNYHIVATALNAK A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK MAGYARORSZÁG TERÜLETÉN VALÓ TARTÓZKODÁSÁRA ÉS MUNKAVÁLLALÁSÁRA VONATKOZÓ ÖSSZEVONT ENGEDÉLY KIADÁSÁVAL ÉS MEGHOSSZABBÍTÁSÁVAL KAPCSOLATOS SZAKHATÓSÁGI KÖZREMŰKÖDÉSÉRE VONATKOZÓ SZABÁLYOK[^126]
 
-## 17. §[^121] A kormányhivatal az összevont engedély kiadására és meghosszabbítására irányuló hatósági eljárásban – a hatáskörrel és illetékességgel rendelkező idegenrendészeti hatóság megkeresésére – szakhatósági állásfoglalásban nyilatkozik arról, hogy a harmadik országbeli állampolgárnak
+## 17. §[^127] A kormányhivatal az összevont engedély kiadására és meghosszabbítására irányuló hatósági eljárásban – a hatáskörrel és illetékességgel rendelkező idegenrendészeti hatóság megkeresésére – szakhatósági állásfoglalásban nyilatkozik arról, hogy a harmadik országbeli állampolgárnak
 
-a)[^122] az Flt. 7. § (7) és (7a) bekezdése szerinti előzetes megállapodásban (a továbbiakban: előzetes megállapodás) meghatározott munkakörben történő magyarországi munkavállalását, valamint
+a)[^128] az Flt. 7. § (7) és (7a) bekezdése szerinti előzetes megállapodásban (a továbbiakban: előzetes megállapodás) meghatározott munkakörben történő magyarországi munkavállalását, valamint
 
 b) a vállalaton belül áthelyezett személy számára szóló engedéllyel történő, 90 napot meghaladó magyarországi foglalkoztatását
 
 támogatja vagy nem támogatja.
 
-[^119]: Az IV. Fejezet címe a 616/2022. (XII. 29.) Korm. rendelet 171. § f) pontja szerint módosított szöveg.
-[^120]: A IV. fejezet címe a 70/2015. (III. 30.) korm. rendelet 236. § (7) bekezdés f) pontja szerint módosított szöveg.
-[^121]: A 17. § a 113/2016. (V. 30.) Korm. rendelet 83. §-ával megállapított szöveg.
-[^122]: A 17. § a) pontja a 35/2024. (II. 29.) Korm. rendelet 311. § 15. pontja szerint módosított szöveg.
+[^125]: Az IV. Fejezet címe a 616/2022. (XII. 29.) Korm. rendelet 171. § f) pontja szerint módosított szöveg.
+[^126]: A IV. fejezet címe a 70/2015. (III. 30.) korm. rendelet 236. § (7) bekezdés f) pontja szerint módosított szöveg.
+[^127]: A 17. § a 113/2016. (V. 30.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^128]: A 17. § a) pontja a 35/2024. (II. 29.) Korm. rendelet 311. § 15. pontja szerint módosított szöveg.

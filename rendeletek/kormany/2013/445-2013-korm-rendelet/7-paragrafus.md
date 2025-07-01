@@ -1,4 +1,4 @@
-## 2. [^52] Munkavállalási engedély szezonális munka keretében történő, 90 napot meg nem haladó foglalkoztatáshoz
+## 2. [^54] Munkavállalási engedély szezonális munka keretében történő, 90 napot meg nem haladó foglalkoztatáshoz
 
 7. § (1) Szezonális munkavállalási engedéllyel a harmadik országbeli állampolgár szezonális munka keretében történő, 90 napot meg nem haladó folyamatos foglalkoztatása engedélyezhető.
 
@@ -14,4 +14,4 @@
 
 (7) A kiadott szezonális munkavállalási engedélyekről az Flt. 57/A. §-a szerinti nyilvántartást a miniszter vezeti.
 
-[^52]: A 2. alcím (7–8. §) a 113/2016. (V. 30.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^54]: A 2. alcím (7–8. §) a 113/2016. (V. 30.) Korm. rendelet 80. §-ával megállapított szöveg.

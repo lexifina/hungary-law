@@ -74,33 +74,43 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 28.[^21] Nemzeti Kártya: a Btátv. 50. §-a szerinti tartózkodási engedély;
 
-29.[^22] előzetes csoportos munkavállalási jóváhagyás: a beruházás megvalósítása céljából kiállított, munkavállalási célú tartózkodási engedélyezési eljárást megelőzően a beruházás megvalósítása érdekében, meghatározott időtartamra és meghatározott számú vendégmunkás alkalmazására vonatkozó hatósági ígérvény;
+29.[^22] előzetes csoportos munkavállalási jóváhagyás: a beruházás megvalósítása céljából kiállított, a munkavállalási célú tartózkodási engedélyezési eljárást megelőzően a beruházás
+
+a) előkészítő szakaszára vagy
+
+b) beüzemelési szakaszára
+
+vonatkozó, meghatározott időtartamra és meghatározott számú vendégmunkás alkalmazására vonatkozó hatósági ígérvény;
 
 30.[^23] beruházó: a beruházás megvalósításának megrendelője, költségeinek viselője és az, aki a külgazdasági ügyekért felelős miniszterrel beruházás megvalósítása érdekében megállapodást, szerződést köt, vagy a támogatási ajánlatát elfogadja;
 
-31.[^24] beruházás megvalósítása: az építtető, illetve közreműködő fővállalkozó kivitelező és a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter jóváhagyása esetén az alvállalkozó kivitelező által megvalósuló beruházás előkészítése, kivitelezése, használatbavétele, üzemeltetésének beindítása;
+31.[^24] beruházás megvalósítása: az építtető, illetve közreműködő fővállalkozó kivitelező és a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter jóváhagyása esetén az alvállalkozó kivitelező által megvalósuló beruházás előkészítése, kivitelezése, használatbavétele, valamint beüzemelése, amely magában foglalja a beruházással egyidejűleg a már használatba vett üzemegységek rendeltetésszerű üzemeltetését, valamint a 2. § 4. pont a) alpontjában meghatározott betanító képzés fogalmát is;
 
-32.[^25] beruházásra vonatkozó megállapodás: a Kormány nevében eljáró külgazdasági ügyekért felelős miniszterrel a beruházás megvalósítása érdekében kötött együttműködési megállapodás, amelyben a beruházó kifejezi beruházási szándékát, míg a Kormány nevében eljáró külgazdasági ügyekért felelős miniszter kifejezi azon szándékát, hogy a beruházás megvalósítása esetén együttműködik a beruházóval;
+31a.[^25] beruházás előkészítő szakasza: a beruházás előkészítése, kivitelezése, használatbavétele;
 
-33.[^26] fővállalkozó: a beruházásra vonatkozó megállapodás teljesítése érdekében a beruházóval kivitelezési szerződést kötő vállalkozó kivitelező;
+31b.[^26] beruházás beüzemelési szakasza: a beruházás beüzemelése, amely magában foglalja a beruházással egyidejűleg a már használatba vett üzemegységek rendeltetésszerű üzemeltetését, valamint a 2. § 4. pont a) alpontjában meghatározott betanító képzés fogalmát is;
 
-34.[^27] alvállalkozó: a beruházásra vonatkozó megállapodás teljesítése érdekében a fővállalkozóval szerződéses jogviszonyban álló vállalkozó;
+32.[^27] beruházásra vonatkozó megállapodás: a Kormány nevében eljáró külgazdasági ügyekért felelős miniszterrel a beruházás megvalósítása érdekében kötött együttműködési megállapodás, amelyben a beruházó kifejezi beruházási szándékát, míg a Kormány nevében eljáró külgazdasági ügyekért felelős miniszter kifejezi azon szándékát, hogy a beruházás megvalósítása esetén együttműködik a beruházóval;
 
-35.[^28] tartós munkaviszony: a munkáltatónál fennálló, legalább 6 hónap időtartamú, folyamatos munkaviszony.
+33.[^28] fővállalkozó: a beruházásra vonatkozó megállapodás teljesítése érdekében a beruházóval kivitelezési szerződést kötő vállalkozó kivitelező;
 
-36.[^29] kiemelt beruházás:
+34.[^29] alvállalkozó: a beruházásra vonatkozó megállapodás teljesítése érdekében a fővállalkozóval szerződéses jogviszonyban álló vállalkozó;
+
+35.[^30] tartós munkaviszony: a munkáltatónál fennálló, legalább 6 hónap időtartamú, folyamatos munkaviszony.
+
+36.[^31] kiemelt beruházás:
 
 a) a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) 1. §-a szerinti beruházás,
 
 b) a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény (a továbbiakban: 2020. évi XXIX. törvény) 1. §-a szerinti beruházás;
 
-37.[^30] kiemelt fővállalkozó:
+37.[^32] kiemelt fővállalkozó:
 
 a) a 2015. évi VII. törvényben meghatározott fővállalkozó,
 
 b) a 2020. évi XXIX. törvényben meghatározott fővállalkozó;
 
-38.[^31] kiemelt alvállalkozó:
+38.[^33] kiemelt alvállalkozó:
 
 a) a 2015. évi VII. törvényben meghatározott alvállalkozó (ideértve az alvállalkozó 2015. évi VII. törvény 2. § a) pontja szerinti alvállalkozóját is),
 
@@ -127,13 +137,15 @@ b) a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között 
 [^19]: A 2. § 26. pontját a 113/2016. (V. 30.) Korm. rendelet 78. § (2) bekezdése iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 300. § (4) bekezdésével megállapított szöveg.
 [^20]: A 2. § 27. pontját a 636/2020. (XII. 22.) Korm. rendelet 6. §-a iktatta be.
 [^21]: A 2. § 28. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^22]: A 2. § 29. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
+[^22]: A 2. § 29. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be, szövege a 73/2025. (IV. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^23]: A 2. § 30. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^24]: A 2. § 31. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^25]: A 2. § 32. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^26]: A 2. § 33. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^27]: A 2. § 34. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^28]: A 2. § 35. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
-[^29]: A 2. § 36. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
-[^30]: A 2. § 37. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
-[^31]: A 2. § 38. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^24]: A 2. § 31. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be, szövege a 73/2025. (IV. 10.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. § 31a. pontját a 73/2025. (IV. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^26]: A 2. § 31b. pontját a 73/2025. (IV. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^27]: A 2. § 32. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
+[^28]: A 2. § 33. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
+[^29]: A 2. § 34. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
+[^30]: A 2. § 35. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
+[^31]: A 2. § 36. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^32]: A 2. § 37. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^33]: A 2. § 38. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.

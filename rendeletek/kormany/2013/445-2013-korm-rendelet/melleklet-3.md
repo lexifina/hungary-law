@@ -1,6 +1,6 @@
-3. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^187]
+3. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^194]
 
-Kérelem előzetes csoportos munkavállalási jóváhagyás iránt
+Kérelem a beruházás előkészítő szakaszára vonatkozó előzetes csoportos munkavállalási jóváhagyás iránt[^195]
 
 1. A beruházó foglalkoztató adatai:
 
@@ -84,10 +84,5 @@ Kérelem előzetes csoportos munkavállalási jóváhagyás iránt
 
 8. A miniszter – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
-Dátum: ………………………………………
-
-………………………………………
-
-a foglalkoztató cégszerű aláírása
-
-[^187]: A 3. mellékletet a 35/2024. (II. 29.) Korm. rendelet 310. § (2) bekezdése iktatta be.
+[^194]: A 3. mellékletet a 35/2024. (II. 29.) Korm. rendelet 310. § (2) bekezdése iktatta be.
+[^195]: A 3. melléklet címe a 73/2025. (IV. 10.) Korm. rendelet 8. §-a szerint módosított szöveg.
