@@ -18,6 +18,8 @@ da) a 2. § d) pontjában meghatározott személyt ellátó fogyatékos személy
 
 db)[^6] támogató szolgáltatást vagy falugondnoki, tanyagondnoki szolgáltatást nyújtó szociális szolgáltató
 
+dc)[^7] idősek otthona
+
 [a továbbiakban az a)–d) pont együtt: intézmény].
 
 (2) Az intézmény az általa üzemben tartott, bérelt vagy lízingelt, a mozgásában korlátozott személyek szállítására használt járművek számának megfelelő számú igazolványra jogosult (a továbbiakban: intézményi igazolvány).
@@ -28,3 +30,4 @@ db)[^6] támogató szolgáltatást vagy falugondnoki, tanyagondnoki szolgáltat�
 
 [^5]: A 2/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^6]: A 2/A. § (1) bekezdés d) pont db) alpontja a 104/2024. (V. 9.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A 2/A. § (1) bekezdés d) pont dc) alpontját a 155/2025. (VI. 23.) Korm. rendelet 6. §-a iktatta be.

@@ -1,12 +1,12 @@
-## 12. §[^51] A Nemzetközi Közlekedési Fórum (ITF) határozata alapján a 4. számú mellékletben felsorolt ITF államok hatóságai által a mozgásában korlátozott személy részére kiállított parkolókártya az e rendeletben meghatározott parkolási igazolvánnyal azonos kedvezményekre jogosít.
+## 12. §[^52] A Nemzetközi Közlekedési Fórum (ITF) határozata alapján a 4. számú mellékletben felsorolt ITF államok hatóságai által a mozgásában korlátozott személy részére kiállított parkolókártya az e rendeletben meghatározott parkolási igazolvánnyal azonos kedvezményekre jogosít.
 
-12/A. §[^52] (1) Az intézményi igazolvány esetében
+12/A. §[^53] (1) Az intézményi igazolvány esetében
 
 a) a 3. § (2) bekezdésében foglaltaktól eltérően
 
 aa) a kérelemnek az 5. számú mellékletben meghatározott adatokat kell tartalmaznia,
 
-ab)[^53] a kérelemhez az 1. számú melléklet szerinti irat helyett az intézmény működési engedélyét kell bemutatni, amely igazolja a 2/A. §-ban meghatározott intézményi körbe tartozását, és
+ab)[^54] a kérelemhez az 1. számú melléklet szerinti irat helyett az intézmény működési engedélyét kell bemutatni, amely igazolja a 2/A. §-ban meghatározott intézményi körbe tartozását, és
 
 ac) az intézményi kérelmező azonosítása céljából a kérelmen az intézmény működési engedély számát kell szerepeltetni;
 
@@ -20,6 +20,6 @@ a) a kiadásához szükséges feltételek már nem teljesülnek, ebben az esetbe
 
 b) azt az igazolványt kiadó hatóság visszavonja.
 
-[^51]: A 12. § a 204/2013. (VI. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^52]: A 12/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
-[^53]: A 12/A. § (1) bekezdés a) pont ab) alpontja a 60/2017. (III. 20.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^52]: A 12. § a 204/2013. (VI. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^53]: A 12/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+[^54]: A 12/A. § (1) bekezdés a) pont ab) alpontja a 60/2017. (III. 20.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.

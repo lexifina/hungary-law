@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-218-20-
 | 2024-07-01 | 2003-218-20-22.30 | 104/2024. (V. 9.) Korm. rendelet |
 | 2024-09-01 | 2003-218-20-22.31 | 217/2024. (VII. 31.) Korm. rendelet |
 | 2025-05-01 | 2003-218-20-22.32 | 89/2025. (IV. 30.) Korm. rendelet |
+| 2025-07-01 | 2003-218-20-22.33 | 155/2025. (VI. 23.) Korm. rendelet |
