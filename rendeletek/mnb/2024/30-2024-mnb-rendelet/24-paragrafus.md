@@ -1,3 +1,0 @@
-24. § (1) A szolgáltató Pmt. 65. § (1) bekezdése szerinti belső szabályzatában a beazonosított kockázat értékelését követően az ügyfélszintű kockázat mértékével arányosan meghatározza, hogy milyen intézkedésre van szükség a feltárt kockázatok kezelése érdekében. A szolgáltató az egyedi ügyfélszintű kockázatértékelések elvégzésekor mérlegeli az MNB kapcsolódó ajánlásában foglaltakat is.
-
-(2) Az üzletági és az ügyfélszintű kockázatértékelést is tartalmazó, a belső kockázatértékelésről szóló jelentést a szolgáltató irányítási funkciót betöltő testülete vagy annak hiányában a vezető tisztségviselője hagyja jóvá.
