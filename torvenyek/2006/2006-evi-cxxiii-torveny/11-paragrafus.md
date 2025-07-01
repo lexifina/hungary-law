@@ -1,14 +1,14 @@
 ## A közvetítői megbeszélés
 
-11. § (1) A közvetítői megbeszélés a sértett és a gyanúsított egyidejű, együttes személyes jelenlétével folytatható le.
+11. § (1) A közvetítői megbeszélés a sértett és a terhelt egyidejű, együttes személyes jelenlétével folytatható le.
 
-(2) A közvetítői megbeszélés kezdetekor a közvetítő megállapítja a sértett, a gyanúsított és az egyéb jelenlevők személyazonosságát, majd megkérdezi őket, hogy a közvetítői eljárás lényegére, jogkövetkezményeire, a jogaikra és kötelezettségeikre történt írásbeli tájékoztatást megértették-e, nemleges válasz esetén a meg nem értett részt megmagyarázza. A közvetítő hivatalból vizsgálja a jelen lévő segítők eljárási jogosultságát.
+(2) A közvetítői megbeszélés kezdetekor a közvetítő megállapítja a sértett, a terhelt és az egyéb jelenlevők személyazonosságát, majd megkérdezi őket, hogy a közvetítői eljárás lényegére, jogkövetkezményeire, a jogaikra és kötelezettségeikre történt írásbeli tájékoztatást megértették-e, nemleges válasz esetén a meg nem értett részt megmagyarázza. A közvetítő hivatalból vizsgálja a jelen lévő segítők eljárási jogosultságát.
 
-(3) A közvetítői megbeszélésen a közvetítő a sértettet és a gyanúsítottat a szükséges részletességgel meghallgatja. A sértett és a gyanúsított az üggyel kapcsolatos álláspontját szóban kifejtheti, és a rendelkezésére álló iratokat is bemutathatja.
+(3) A közvetítői megbeszélésen a közvetítő a sértettet és a terheltet a szükséges részletességgel meghallgatja. A sértett és a terhelt az üggyel kapcsolatos álláspontját szóban kifejtheti, és a rendelkezésére álló iratokat is bemutathatja.
 
-(4) A megbeszélésre a sértett és a gyanúsított egyidejű személyes jelenlétével, de egymás távollétében kerülhet sor, ha a konfliktus feloldása ily módon is lehetséges, és tartózkodási helye vagy állapota miatt bármelyik fél a megbeszélés helyszínén megjelenni csak aránytalan nehézséggel vagy egyáltalán nem képes. Ezekben az esetekben a tartózkodási hely szerint illetékes kormányhivatal kijelölt közvetítője – megkeresésre – a megbeszélés lefolytatásában közreműködik.
+(4) A megbeszélésre a sértett és a terhelt egyidejű személyes jelenlétével, de egymás távollétében kerülhet sor, ha a konfliktus feloldása ily módon is lehetséges, és tartózkodási helye vagy állapota miatt bármelyik fél a megbeszélés helyszínén megjelenni csak aránytalan nehézséggel vagy egyáltalán nem képes. Ezekben az esetekben a tartózkodási hely szerint illetékes kormányhivatal kijelölt közvetítője – megkeresésre – a megbeszélés lefolytatásában közreműködik.
 
-(4a) A (4) bekezdés szerinti esetben a közvetítői megbeszéléstől eltérő helyszínen lévő sértett, illetve gyanúsított jelenlétét telekommunikációs eszköz útján kell biztosítani. Ez esetben a segítő, a védő, a tolmács, valamint a 7. § (7) és (8) bekezdésében meghatározott személy jelenléte is biztosítható telekommunikációs eszköz használatával.
+(4a) A (4) bekezdés szerinti esetben a közvetítői megbeszéléstől eltérő helyszínen lévő sértett, illetve terhelt jelenlétét telekommunikációs eszköz útján kell biztosítani. Ez esetben a segítő, a védő, a tolmács, valamint a 7. § (7) és (8) bekezdésében meghatározott személy jelenléte is biztosítható telekommunikációs eszköz használatával.
 
 (4b) Telekommunikációs eszköz útján biztosított jelenlét esetén a közvetítői megbeszélés helyszíne és a telekommunikációs jelenléttel érintett személy közötti kapcsolat biztosítása folyamatos kép- és hangfelvétel továbbításával történik. A közvetítő engedélyével, a telekommunikációs jelenléttel érintett személy a kapcsolat biztosítására a rendelkezésére álló eszközt is használhatja (e § alkalmazásában a továbbiakban: saját eszközzel biztosított jelenlét), amely esetben a közvetítői megbeszélés akkor is lefolytatható, ha az elkülönített helyszínen csak a telekommunikációs jelenléttel érintett személy van jelen.
 
@@ -24,15 +24,15 @@ b) olyan személy van jelen az elkülönített helyszínen, akinek a jelenlété
 
 c) a saját eszközzel biztosított jelenlét esetén az a) pontban meghatározottak ellenőrzése érdekében a közvetítő által meghatározott tevékenységet a telekommunikációs jelenléttel érintett személy megtagadja vagy azt ellenőrzésre alkalmatlan módon végzi el.
 
-(5) A közvetítő meghallgatja a korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértettet, és a gyanúsított a nyilatkozatát ebben az esetben is közvetlenül a sértetthez intézi. A sértett meghallgatásánál a törvényes képviselőnek jelen kell lennie. E rendelkezés nem érinti a sértett 7. § (4) bekezdésében meghatározott jogait.
+(5) A közvetítő meghallgatja a korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértettet, és a terhelt a nyilatkozatát ebben az esetben is közvetlenül a sértetthez intézi. A sértett meghallgatásánál a törvényes képviselőnek jelen kell lennie. E rendelkezés nem érinti a sértett 7. § (4) bekezdésében meghatározott jogait.
 
 (6) A megállapodás megkötésekor és aláírásakor személyesen meg kell jelennie
 
-a) a gyanúsítottnak,
+a) a terheltnek,
 
 b) a sértettnek,
 
-c) a gyanúsított törvényes képviselőjének,
+c) a terhelt törvényes képviselőjének,
 
 d) a korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértett törvényes képviselőjének.
 

@@ -10,11 +10,11 @@
 
 a) az eljárás ügyiratait – a törvényben meghatározott kivételekkel – megismerheti,
 
-b) a gyanúsítottól és a sértettől felvilágosítást kérhet,
+b) a terhelttől és a sértettől felvilágosítást kérhet,
 
 c) az ügyészségtől újabb ügyiratokat és felvilágosítást kérhet.
 
-(5) Az ügyészség a büntetőeljárás közvetítői eljárás céljából történő felfüggesztéséről rendelkező határozat (a továbbiakban: felfüggesztő határozat) kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja – az e törvényben meghatározott feladatai ellátásához szükséges mértékben és időtartamban – az ügyiratokat. A büntetőeljárásban részt vevő személynek a Be. 99. §-a alapján zártan kezelt személyes adatait a közvetítő a feladatának teljesítéséhez elengedhetetlenül szükséges mértékben ismerheti meg.
+(5) Az ügyészség a közvetítői eljárás elrendeléséről szóló határozat kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja – az e törvényben meghatározott feladatai ellátásához szükséges mértékben és időtartamban – az ügyiratokat. A büntetőeljárásban részt vevő személynek a Be. 99. §-a alapján zártan kezelt személyes adatait a közvetítő a feladatának teljesítéséhez elengedhetetlenül szükséges mértékben ismerheti meg.
 
 (6) A közvetítőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tényre, adatra és körülményre vonatkozóan, amelyről közvetítői tevékenységével összefüggésben szerzett tudomást. A közvetítő titoktartási kötelezettsége a közvetítői tevékenység megszűnése után is fennáll.
 
