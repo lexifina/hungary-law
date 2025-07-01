@@ -1,4 +1,4 @@
-49/C. §[^640] (1) Az Ebtv. szerinti pénzbeli egészségbiztosítási ellátások közül a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alkalmazása szempontjából
+49/C. §[^641] (1) Az Ebtv. szerinti pénzbeli egészségbiztosítási ellátások közül a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alkalmazása szempontjából
 
 a) pénzbeli betegségi ellátás a táppénz,
 
@@ -24,4 +24,4 @@ d) a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajt
 
 (5) Ha a más EGT tagállam hatósága a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti adatcsere keretében olyan adat igazolását kéri, amelynek a szolgáltatására a kifizetőhely rendelkezik hatáskörrel, és az adat nem áll a kormányhivatal rendelkezésére, a kormányhivatal megkeresi a kifizetőhelyet az adatok közlése érdekében. A kifizetőhely a kért adatokat köteles 8 napon belül megadni a kormányhivatal részére.
 
-[^640]: A Vhr. 49/C. §-át újonnan az 1/2025. (I. 23.) Korm. rendelet 9. §-a iktatta be.
+[^641]: A Vhr. 49/C. §-át újonnan az 1/2025. (I. 23.) Korm. rendelet 9. §-a iktatta be.
