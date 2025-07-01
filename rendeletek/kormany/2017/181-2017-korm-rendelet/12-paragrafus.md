@@ -1,10 +1,10 @@
-## 11. §[^30] A közlekedési hatóság rendszeresen ellenőrzi, és az auditáló szerv kérelemre auditálja a vizsgálóállomás tevékenységét.
+## 11. §[^31] A közlekedési hatóság rendszeresen ellenőrzi, és az auditáló szerv kérelemre auditálja a vizsgálóállomás tevékenységét.
 
-## 12. §[^31] Ha a vizsgálóállomás
+## 12. §[^32] Ha a vizsgálóállomás
 
 a) akadályozza a hatósági ellenőrzést,
 
-b)[^32] az információs rendszerekben rögzítendő, vállalkozásokra vonatkozó adatokban bekövetkezett változást 15 napon belül nem jelenti be, vagy a bejelentést késedelmesen teljesíti,
+b)[^33] az információs rendszerekben rögzítendő, vállalkozásokra vonatkozó adatokban bekövetkezett változást 15 napon belül nem jelenti be, vagy a bejelentést késedelmesen teljesíti,
 
 c) az engedélyben szereplőtől eltérő kategóriájú járművet tanúsít, vagy az engedélyben szereplőtől eltérő eljárástípussal működteti a vizsgálóállomást,
 
@@ -16,6 +16,6 @@ f) az auditált vagy akkreditált státusz megszűnése, visszavonása esetén a
 
 a közlekedési hatóság a vizsgálóállomás működését 30 napra, a d) pont esetében a hiányosság megszüntetéséig felfüggeszti.
 
-[^30]: A 11. § a 722/2020. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^31]: A 12. § a 722/2020. (XII. 31.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^32]: A 12. § b) pontja a 613/2023. (XII. 22.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^31]: A 11. § a 722/2020. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^32]: A 12. § a 722/2020. (XII. 31.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^33]: A 12. § b) pontja a 613/2023. (XII. 22.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.

@@ -1,16 +1,18 @@
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^43]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^52]
 
 Az engedély iránti kérelem tartalmi elemei
 
-1. Műszaki vizsgálati eljárások megnevezése:
+1.[^53] Műszaki vizsgálati eljárások megnevezése:
 
-a) forgalomba helyezés előtti vizsgálat: érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki vizsgálat;
+1.1. forgalomba helyezés előtti vizsgálat: érvényes általános forgalombahelyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki vizsgálat;
 
-b)[^44] időszakos vizsgálat: műszaki vizsgálat, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgálathoz kapcsolódó iratokban egyértelműen dokumentálásra kerül;
+1.2. időszakos vizsgálat: műszaki vizsgálat, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, ha az adatmódosítás hatósági elírás következménye, és az elírás ténye a vizsgálathoz kapcsolódó iratokban egyértelműen dokumentálásra kerül;
 
-c) korlátozott időszakos vizsgálat: új jármű kereskedelmi forgalomba hozatala során, a vonószerkezettel felszerelt jármű vontatásra való alkalmasságának megállapítását, vagy a megkülönböztető- és figyelmeztető jelzést adó készülékek felszerelésének megállapítását követően a Műszaki adatlap adatainak módosításával új Műszaki adatlap kiadása;
+1.3. korlátozott időszakos vizsgálat: új jármű kereskedelmi forgalomba hozatala során, a vonószerkezettel felszerelt jármű vontatásra való alkalmasságának megállapítását vagy a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének megállapítását követően a Műszaki adatlap adatainak módosításával új Műszaki adatlap kiadása;
 
-d) egyéb, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben nevesített műszaki vizsgálati eljárás.
+1.4. jármű-honosítási eljárás: a közösségi jármű egyedi forgalomba helyezésére irányuló engedélyezési eljárás, amelyben a Műszaki adatlap kiállítása a jármű forgalomban tartására a származási országban megszerzett jogosultság elismerése alapján történik;
+
+1.5. egyéb, az 1.1–1.4. alpontban nem nevesített műszaki vizsgálati eljárás.
 
 2. Járműkategóriák:
 
@@ -104,5 +106,5 @@ d) egyéb, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (
 
 19. egyéb, jogszabályban nevesített, a közlekedési hatósági műszaki vizsgálathoz kapcsolódó eljárás.
 
-[^43]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^44]: Az 1. melléklet 1. pont b) alpontja a 425/2024. (XII. 23.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^52]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^53]: Az 1. melléklet 1. pontja a 168/2025. (VI. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
