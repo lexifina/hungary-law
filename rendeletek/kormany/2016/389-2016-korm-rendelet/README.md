@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-389-20-
 | 2017-09-01 | 2016-389-20-22.3 | 2010: CXXX. törvény |
 | 2018-12-18 | 2016-389-20-22.4 | 2010: CXXX. törvény |
 | 2019-06-08 | 2016-389-20-22.5 | 130/2019. (V. 31.) Korm. rendelet |
+| 2025-07-01 | 2016-389-20-22.6 | 175/2025. (VI. 30.) Korm. rendelet |
