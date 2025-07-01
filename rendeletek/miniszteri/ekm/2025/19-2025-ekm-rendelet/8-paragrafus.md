@@ -1,0 +1,3 @@
+## 7. A Vasúti Műszaki Bizottságról, a vasúti műszaki előírások és a szakmai állásfoglalások kidolgozására és kiadására vonatkozó szabályokról szóló 1/2021. (I. 7.) ITM rendelet módosítása
+
+8. § A Vasúti Műszaki Bizottságról, a vasúti műszaki előírások és a szakmai állásfoglalások kidolgozására és kiadására vonatkozó szabályokról szóló 1/2021. (I. 7.) ITM rendelet 1. § (4) bekezdésében a „vasúti szakterületen működő, a közlekedésért felelős miniszter által vezetett minisztérium szakmai irányítása és tulajdonosi joggyakorlása alá tartozó, a vasúti közlekedéssel összefüggő kutatási vagy kutatás-fejlesztési tevékenységet ellátó, a miniszter által meghatalmazott gazdasági társaság” szövegrész helyébe a „Közlekedéstudományi Intézet” szöveg lép.
