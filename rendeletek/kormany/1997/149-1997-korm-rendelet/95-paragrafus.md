@@ -2,7 +2,7 @@
 
 ## Ideiglenes hatályú elhelyezés
 
-95. §[^820] (1) Az ideiglenes hatályú elhelyezést, mint a gyermek érdekében történő azonnali intézkedést megalapozza
+95. §[^821] (1) Az ideiglenes hatályú elhelyezést, mint a gyermek érdekében történő azonnali intézkedést megalapozza
 
 a) a gyermek súlyos veszélyeztetettsége,
 
@@ -14,9 +14,9 @@ d) a szülő gyermekének ismeretlen személy általi örökbefogadásához val�
 
 e) ha a gyermek felügyelet nélkül marad.
 
-f)[^821] a Ptk. 4:127. § (1) bekezdés e) pontjában foglalt eset.
+f)[^822] a Ptk. 4:127. § (1) bekezdés e) pontjában foglalt eset.
 
 (2) A gyermek ideiglenes gondozási helyét – ha a gyermek ideiglenes elhelyezésére különélő szülőnél, más hozzátartozónál, illetve személynél nincs lehetőség – a gyermek lakóhelyéhez igazodóan kell meghatározni a Gyvt. 72. § (1) bekezdésében meghatározottak szerint.
 
-[^820]: A 95. § a 97/2013. (III. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^821]: A 95. § (1) bekezdés f) pontját a 192/2024. (VII. 8.) Korm. rendelet 4. §-a iktatta be, szövege az 1/2025. (I. 23.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^821]: A 95. § a 97/2013. (III. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^822]: A 95. § (1) bekezdés f) pontját a 192/2024. (VII. 8.) Korm. rendelet 4. §-a iktatta be, szövege az 1/2025. (I. 23.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.

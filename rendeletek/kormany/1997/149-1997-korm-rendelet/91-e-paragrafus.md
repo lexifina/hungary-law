@@ -1,6 +1,6 @@
-## Eredménytelen védelembe vétel[^772]
+## Eredménytelen védelembe vétel[^773]
 
-91/E. §[^773] (1) Ha a védelembe vétel egy éve fennáll, és az előírt intézkedésekkel a gyermek veszélyeztetettségét nem sikerült megszüntetni, vagy az egy évnél rövidebb védelembe vétel felülvizsgálatára a 90. § (1a) bekezdésére tekintettel kerül sor, a gyámhivatal a védelembe vétel felülvizsgálata során
+91/E. §[^774] (1) Ha a védelembe vétel egy éve fennáll, és az előírt intézkedésekkel a gyermek veszélyeztetettségét nem sikerült megszüntetni, vagy az egy évnél rövidebb védelembe vétel felülvizsgálatára a 90. § (1a) bekezdésére tekintettel kerül sor, a gyámhivatal a védelembe vétel felülvizsgálata során
 
 a) védelembe vételt segítő személyként közreműködésre kéri fel azt a személyt,
 
@@ -26,5 +26,5 @@ b) felülvizsgálja a védelembe vételt segítő személy feladatait.
 
 (3) Ha a gyermek veszélyeztetettségét a (2) bekezdés szerinti intézkedésekkel, azok végrehajtását követő hat hónapon belül sem lehet a szülőnek felróható okból megszüntetni, és az a gyermek érdekében áll, a gyámhivatal megteszi a (2) bekezdés a) pont ab) alpontja szerinti intézkedéseket.
 
-[^772]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
-[^773]: A 91/E. §-t újonnan a 194/2024. (VII. 8.) Korm. rendelet 12. §-a iktatta be.
+[^773]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^774]: A 91/E. §-t újonnan a 194/2024. (VII. 8.) Korm. rendelet 12. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek[^324]
 
-44/C. § (1)[^325] Az egészségügyi intézmény azt az anyát, aki közvetlenül a gyermek születését követően gyermekvédelmi jelzés miatt vagy anélkül gyermekét hátrahagyva távozik az egészségügyi intézményből, a zárójelentésben tájékoztatja
+44/C. § (1)[^325] Az egészségügyi intézmény azt az anyát, aki közvetlenül a gyermek születését követően a születendő gyermek haza nem adhatóságát megállapító gyámhatósági döntés alapján, illetve gyermekvédelmi jelzés miatt vagy anélkül gyermekét hátrahagyva távozik az egészségügyi intézményből, a zárójelentésben tájékoztatja
 
 a) a Ptk. 4:127. § (1) bekezdés e) pont eb) alpontja és 4:190. § (1) bekezdés d) pont db) alpontja szerinti jogkövetkezményekről és
 
@@ -24,7 +24,13 @@ bb)[^327] írásban vagy jegyzőkönyvbe foglalva olyan tartalmú külön nyilat
 
 (4)[^328] Az illetékes kijelölt gyámhivatal az eljárás megindítását követően a székhelye szerinti gyermekvédelmi szakszolgálattól haladéktalanul javaslatot kér a gyermekvédelmi gyám, valamint a helyettes gyermekvédelmi gyám személyére, és értesíti az anya, valamint ha ismert, az apa lakóhelye szerinti gyámhivatalt az eljárás elindításáról.
 
-(4a)[^329] Amennyiben a hathetes időtartam alatt a szülő vagy a gyermek hozzátartozója nyilatkozatában kifejezi, hogy a gyermeket saját családjában nevelni szeretné, akkor a gyámhivatal a nyilatkozattételről soron kívül, de legkésőbb három napon belül a jegyzőkönyv megküldésével értesíti a gyermek születési helye szerint kijelölt gyámhivatalt, valamint azt az egészségügyi intézményt, ahol a gyermek született.
+(4a)[^329] A gyámhivatal soron kívül, de legkésőbb az a)–c) pont szerinti eljárási cselekmények bekövetkeztétől számított három napon belül értesíti a gyermek születési helye szerint kijelölt gyámhivatalt, valamint azt az egészségügyi intézményt, ahol a gyermek született,
+
+a) a jegyzőkönyv megküldésével a nyilatkozattételről, ha a hathetes időtartam alatt a szülő vagy a gyermek hozzátartozója nyilatkozatában kifejezi, hogy a gyermeket saját családjában nevelni szeretné,
+
+b) a 83/B. § és a 130/E. § szerinti döntéséről vagy
+
+c) az eljárása megindításáról, ha a hathetes időtartam alatt a gyámhivatal eljárást indít a gyermek ideiglenes hatályú elhelyezése vagy nevelésbe vétele iránt.
 
 (5)[^330] Ha a Ptk. 4:127. § (1) bekezdés e) pont eb) alpontja szerinti gyermek szülője vagy más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket az egészségügyi intézményből nem viszi el, illetve írásban vagy jegyzőkönyvbe mondva nem tesz olyan tartalmú külön nyilatkozatot a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni, az illetékes kijelölt gyámhivatal azonnal végrehajtható határozatával
 
@@ -47,10 +53,10 @@ b) nincs a gyermek örökbefogadására jelentkező személy.
 (9) Az (1)–(8) bekezdés nem alkalmazható, ha a gyermek további egészségügyi intézményben tartózkodását az egészségi állapota indokolja, és az anya az egészségügyi intézménnyel egyeztetve távozik onnan.
 
 [^324]: A „Közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek” alcímet (44/C. §-t) a 192/2024. (VII. 8.) Korm. rendelet 3. §-a iktatta be.
-[^325]: A 44/C. § (1) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^325]: A 44/C. § (1) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § d) pontja, a 179/2025. (VI. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^326]: A 44/C. § (1) bekezdés b) pont bb) alpontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
 [^327]: A 44/C. § (3) bekezdés b) pont bb) alpontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
 [^328]: A 44/C. § (4) bekezdése az 1/2025. (I. 23.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
-[^329]: A 44/C. § (4a) bekezdését az 1/2025. (I. 23.) Korm. rendelet 2. §-a iktatta be.
+[^329]: A 44/C. § (4a) bekezdését az 1/2025. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 179/2025. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^330]: A 44/C. § (5) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
 [^331]: A 44/C. § (8) bekezdés a) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.

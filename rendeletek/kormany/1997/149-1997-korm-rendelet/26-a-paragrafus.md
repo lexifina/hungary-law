@@ -16,7 +16,7 @@ b) vagyonkezelése során a gyermek gondozásának, nevelésének körülményei
 
 (6) A gyámhivatal
 
-a)[^114] a Ptk. 4:159. § a) pontjának alkalmazása során a szociális vetítési alap összegének háromszorosát meghaladó összeget tekinti úgy, hogy azt a rendes vagyonkezelés szabályai szerint készen tartani nem kell,
+a)[^114] a Ptk. 4:159. § a) pontjának alkalmazása során a szociális vetítési alap összegének ötszörösét meghaladó összeget tekinti úgy, hogy azt a rendes vagyonkezelés szabályai szerint készen tartani nem kell,
 
 b) a Ptk. 4:159. § b) pontjának alkalmazása során az ingatlant vagy vagyontárgyat értékbecslés alapján fogadja el biztosítékként,
 
@@ -29,5 +29,5 @@ e) a Ptk. 4:159. § e) pontjának alkalmazásával egyidejűleg vagyonkezelő gy
 (7) Ha a szülői felügyeleti jogát gyakorló szülő kérelmére eljárás indul a gyermek vagyoni ügyében, a szülő kérelméhez csatolja a szülői felügyeleti jog gyakorlásáról szóló bírósági határozatot. A gyámhivatal a szülő nyilatkozata és a bíróságnak a szülői felügyeleti jog gyakorlásáról szóló határozata alapján tisztázza, hogy a bíróság a szülői felügyelet gyakorlására, vagy a vagyonkezelés és a gyermek vagyoni ügyeiben a törvényes képviselet teljes körű vagy részleges gyakorlására melyik szülőt jogosította fel.
 
 [^113]: A 26/A. § (5) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.
-[^114]: A 26/A. § (6) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^114]: A 26/A. § (6) bekezdés a) pontja a 179/2025. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^115]: A 26/A. § (6) bekezdés c) pontja a 629/2022. (XII. 30.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
