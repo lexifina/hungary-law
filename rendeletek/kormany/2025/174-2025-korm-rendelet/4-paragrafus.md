@@ -1,1 +1,3 @@
-4. § Hatályát veszti az állami tulajdonban levő ÉMI Nonprofit Kft. állami építési beruházásokkal kapcsolatos egyes műszaki szolgáltatási feladatok elvégzésére vonatkozó kijelöléséről szóló 51/2016. (III. 17.) Korm. rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
