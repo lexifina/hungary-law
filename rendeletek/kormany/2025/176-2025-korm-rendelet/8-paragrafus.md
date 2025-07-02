@@ -1,1 +1,3 @@
-8. § Hatályát veszti az egyes állami tulajdonú gazdasági társaságok működésének észszerűsítésével kapcsolatos intézkedésekről szóló 216/2024. (VII. 31.) Korm. rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
