@@ -1,1 +1,3 @@
-37. § Hatályát veszti a kritikus szervezetek ellenálló képességéről szóló törvény végrehajtásáról szóló 474/2024. (XII. 31.) Korm. rendelet 37. § (2) bekezdés h) pont hc) alpontjában a „vagy” szövegrész.
+37. §[^37]
+
+[^37]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

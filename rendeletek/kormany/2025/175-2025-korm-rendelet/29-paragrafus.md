@@ -1,1 +1,3 @@
-29. § Hatályát veszti a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 10. mellékletében foglalt táblázat 77. sora.
+29. §[^29]
+
+[^29]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

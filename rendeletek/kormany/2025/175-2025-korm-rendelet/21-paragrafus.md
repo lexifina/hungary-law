@@ -1,5 +1,5 @@
 ## 16. Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosítása
 
-21. § Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet 18. §-a a következő (6) bekezdéssel egészül ki:
+21. §[^21]
 
-„(6) A 17. § (2) bekezdése szerinti keretszám betöltése vonatkozásában a részmunkaidőben foglalkoztatott rezidenst munkaideje arányában kell figyelembe venni, részére és vonatkozásában az e rendeletben meghatározott támogatásokat is arányosan kell folyósítani. A részmunkaidőben foglalkoztatott rezidens munkaidejének növelése is az e rendelet szerinti keretszám terhére történhet. Amennyiben a meghatározott keretszám nem ad lehetőséget a rezidensi munkaidő további emelésére, a munkaidő növelésére az egészségügyi szolgáltató részére biztosított, e rendelet szerinti finanszírozási összeg változatlanul hagyása mellett van lehetőség. A munkaidő módosítása hiányában a szakképzés a továbbiakban is részmunkaidőben teljesíthető. A rezidens munkaidejének csökkentése esetén a felszabaduló keretszámot az egészségügyi szolgáltató e rendelet előírása szerint betöltheti. E változásokról az egészségügyi szolgáltató tájékoztatja az OKFŐ-t.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

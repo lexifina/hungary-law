@@ -66,8 +66,6 @@
 
 ## 1. A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet módosítása
 
-1. § A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet a 13/G. §-t követően a következő, az „A magyar állampolgárság felfüggesztésének, valamint a magyar állampolgárság visszaállításának és visszaállásának tárgyában döntést hozó miniszter” című alcímmel egészül ki:
+1. §[^1]
 
-„A magyar állampolgárság felfüggesztésének, valamint a magyar állampolgárság visszaállításának és visszaállásának tárgyában döntést hozó miniszter
-
-13/H. § A Kormány a magyar állampolgárság felfüggesztésének, a magyar állampolgárság Ápt. 9/D. §-a szerinti visszaállításának, valamint a magyar állampolgárság visszaállásának tárgyában döntést hozó miniszterként az igazságügyért felelős minisztert jelöli ki.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-8. § A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet 9. melléklete az 1. melléklet szerint módosul.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

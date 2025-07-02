@@ -1,9 +1,5 @@
 ## 4. Az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet módosítása
 
-4. § Az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet
+4. §[^4]
 
-a) 2. melléklet V. pont nyitó szövegrészében a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg,
-
-b) 2. melléklet V. pontjában foglalt táblázatban a „Hivatásos katasztrófavédelmi szerv katasztrófavédelmi” szövegrész helyébe az „Iparbiztonsági hatóság iparbiztonsági” szöveg
-
-lép.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
