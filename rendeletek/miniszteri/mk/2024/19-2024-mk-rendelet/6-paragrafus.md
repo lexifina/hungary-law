@@ -1,1 +1,3 @@
-6. § Hatályát veszti a 4. § (1) bekezdés e) pontja és a 4. § (2) bekezdés c) pontja.
+6. §[^5]
+
+[^5]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
