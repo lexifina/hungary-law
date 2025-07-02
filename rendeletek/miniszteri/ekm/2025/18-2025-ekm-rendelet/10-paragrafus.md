@@ -1,1 +1,3 @@
-10. § A 24/2005. (IV. 21.) GKM rendelet 18. § (1) bekezdésében a „Kkt.” szövegrész helyébe a „közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.)” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

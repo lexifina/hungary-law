@@ -1,3 +1,3 @@
-5. § Az ER. 20/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(4) A trolibuszok jármű-honosítási eljárása során a származási országban forgalomban való részvételre jogosító hatósági engedéllyel, jelzéssel rendelkező jármű „közösségi jármű”-nek minősül.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

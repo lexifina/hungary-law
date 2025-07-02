@@ -1,7 +1,3 @@
-## „11. a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek”
+7. §[^8]
 
-## (való megfelelést szolgálja.)
-
-7. § (1) Az ER. 5. számú melléklete az 1. melléklet szerint módosul.
-
-(2) Az ER. 12. számú melléklete helyébe a 2. melléklet lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
