@@ -6,12 +6,6 @@
 
 ## 1. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-1. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 8. §-a a következő (5) és (6) bekezdéssel egészül ki:
+1. §[^2]
 
-„(5) Az elosztó hálózati engedélyes megküldi az energetikai adatszolgáltató platformot működtető engedélyesnek
-
-a) a háztartási méretű kiserőmű felhasználási helyének azonosításához szükséges, a 22/a. számú melléklet 1.6. pont f) alpontja szerinti adatokat, valamint
-
-b) a háztartási méretű kiserőműhöz kapcsolódó inverter egyedi azonosításához szükséges, a 22/a. számú melléklet 1.6. pont a)–e) alpontja szerinti adatokat.
-
-(6) Az elosztó hálózati engedélyes az (5) bekezdés szerinti adatszolgáltatást – ideértve az (5) bekezdés szerinti adatoknak az aktív felhasználó által a 21/D. § (1) bekezdés b) pontjában bejelentett változását is – havonta egy alkalommal összesítetten, legkésőbb a naptári hónap utolsó napjáig teljesíti.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
