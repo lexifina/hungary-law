@@ -1,1 +1,3 @@
-5. § Hatályát veszti az R. 49. § 17. pontja.
+5. §[^7]
+
+[^7]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

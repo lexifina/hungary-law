@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (1) bekezdés 4., 6., 10., 25. és 29. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet (a továbbiakban: R.) 50. § (1) bekezdés 9. pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-(A víziközmű-szolgáltató a szerződés létrejöttét követően 30 napon belül tájékoztatja a Hivatalt a megkötött szerződés vagy annak módosítása egy példányának elektronikus úton történő megküldésével az ellátási területre vonatkozó víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséről:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
