@@ -1,3 +1,3 @@
-5. § Az R. 7. § (5) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(5) A VET 3. § 3a. pontja szerinti aggregátorok adatszolgáltatási kötelezettsége a Hivatal nyilvántartásába vételről szóló határozat véglegessé válásának napján áll be, és a nyilvántartásból való törlésről szóló határozat véglegessé válásának napjával szűnik meg.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

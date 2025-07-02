@@ -1,7 +1,3 @@
-7. § (1) Hatályát veszti az R. 4. melléklet
+7. §[^8]
 
-a) III. pontjában foglalt táblázat 4. sora,
-
-b) VII. pontjában foglalt táblázat 6. sora.
-
-(2) Hatályát veszti az R. 5. mellékletében foglalt táblázat 77. sora.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
