@@ -4,8 +4,8 @@ a)
 
 b)
 
-c)
+c) 58. § (3) bekezdésében a „visszaélésszűrő rendszeréből részükre, a fizetési” szövegrész helyébe a „visszaélésszűrő rendszeréből részükre, valamint a nyomozó hatóság részére, a fizetési” szöveg, valamint
 
-d) 60. § (2) bekezdés h) pontjában az „illetve egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel” szövegrész helyébe az „egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel, illetve szociális hatáskört gyakorló szervvel” szöveg
+d)
 
 lép.
