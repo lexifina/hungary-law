@@ -1,7 +1,3 @@
-5. § Hatályát veszti az R1.
+5. §[^5]
 
-a) 8. § (4) bekezdés h) pontja,
-
-b) 12/A. § (6) bekezdés c)–g) pontja,
-
-c) 16. § (1) bekezdésében az „a 8. § (4) bekezdés h) pontjában és” szövegrész.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

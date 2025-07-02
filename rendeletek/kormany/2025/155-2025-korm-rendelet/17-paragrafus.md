@@ -1,7 +1,3 @@
-17. § Hatályát veszti az R8.
+17. §[^17]
 
-a) 3. melléklete,
-
-b) 4. melléklete,
-
-c) 6. melléklete.
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

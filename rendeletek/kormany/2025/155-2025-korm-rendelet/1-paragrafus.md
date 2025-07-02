@@ -72,14 +72,6 @@
 
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Ebtv. Vhr.) 11/D. §-a a következő (2a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(2a) A kérelemhez a (2) bekezdés a) pontjában foglalt, az EESZT rendszerben rögzített kórtörténeti összefoglalót nem kell csatolni.”
-
-(2) Az Ebtv. Vhr. 11/D. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Ugyanazon gyógyszerre, gyógyászati segédeszközre vonatkozó ismételt méltányossági kérelem esetén a (2a) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy csak a megelőző kérelem benyújtása óta eltelt időszakban bekövetkezett állapotváltozást dokumentáló, az EESZT rendszerben nem rögzített leleteket szükséges csatolni.”
-
-(3) Az Ebtv. Vhr. 11/E. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A kérelem elbírálása során a NEAK az EESZT rendszerben rögzített, a kérelem elbírálásához szükséges egészségügyi adathoz hozzáférhet.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
