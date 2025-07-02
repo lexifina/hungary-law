@@ -1,7 +1,3 @@
-8. § Hatályát veszti a Rendelet
+8. §[^8]
 
-a) 9. § (1) bekezdése,
-
-b) 10. § (1)–(3) bekezdése,
-
-c) 12. § (1) és (2) bekezdése.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

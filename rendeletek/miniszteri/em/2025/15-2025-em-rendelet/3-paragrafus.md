@@ -1,9 +1,3 @@
-3. § A Rendelet 6. § (1)–(4) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(1) Ha a GET 141/A. §-a alapján földgázt vételező egyetemes szolgáltató az adott hónapban a Hivatalnak bejelentett, az 5. § (1) bekezdésében foglalt földgáz forrásait átvette, és – a Hivatal felé igazolt módon – az egyetemes szolgáltatásban vételezők ellátása érdekében vásárol többlet földgáz mennyiséget az egyetemes szolgáltatót ellátó földgázkereskedőtől, a többlet földgáz ára az 1. § szerinti földgázforrás árával megegyezik.
-
-(2) Ha a GET 141/J. §-a alapján földgázt vételező egyetemes szolgáltató az adott hónapban a Hivatalnak bejelentett, az 5. § (1) bekezdésében foglalt földgáz forrásait átvette, és – a Hivatal felé igazolt módon – az egyetemes szolgáltatásban vételezők ellátása érdekében vásárol többlet földgáz mennyiséget az egyetemes szolgáltatót ellátó földgázkereskedőtől, a többlet földgáz ára a 2. § szerinti földgázforrás árának mennyiségarányos díjelemével megegyezik.
-
-(3) A felek eltérő megállapodásának hiányában, ha az (1) vagy a (2) bekezdés szerinti, többlet földgáz mennyisége több mint 15%-kal meghaladja az 5. § (1) bekezdésében foglaltak szerint a Hivatal felé az adott hónapra bejelentett mennyiséget, a GET 141/A. §-a vagy 141/J. §-a alapján földgázt vételező egyetemes szolgáltató a 15% fölött átvett földgázmennyiség után – annak árán túl – az adott egyetemes szolgáltatóra vonatkozó földgázforrás mennyiségarányos díjelemének 50%-át felárként is megfizeti.
-
-(4) A felek eltérő megállapodásának hiányában, ha a GET 141/A. §-a vagy 141/J. §-a alapján földgázt vételező egyetemes szolgáltató az 5. § (1) bekezdésében foglaltak szerint a Hivatal felé az adott hónapra bejelentett mennyiség kevesebb, mint 85%-át veszi át, az átvett mennyiség és a bejelentett mennyiség 85%-a közötti földgázmennyiség mértékéig az egyetemes szolgáltatót ellátó földgázkereskedőnek megfizeti az egyetemes szolgáltatóra vonatkozó földgázforrás mennyiségarányos díjelemének 50%-át.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
