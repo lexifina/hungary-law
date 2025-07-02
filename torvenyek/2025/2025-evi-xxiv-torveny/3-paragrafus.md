@@ -1,1 +1,1 @@
-3. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42. § (1) bekezdés nyitó szövegrészében a „– figyelemmel” szövegrész helyébe a „– kivéve az (1a) bekezdésben foglaltakat, és figyelemmel” szöveg lép.
+### 3. §
