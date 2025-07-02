@@ -6,6 +6,6 @@
 
 (4) A 6. §, a 7. §, a 9. §, a 12. § (3) és (4) bekezdése, valamint a 4. és az 5. melléklet 2024. szeptember 1-jén lép hatályba.
 
-(5)[^17]
+(5)[^18]
 
-[^17]: A 14. § (5) bekezdését a 15/2025. (VI. 16.) MNB rendelet 10. §-a hatályon kívül helyezte.
+[^18]: A 14. § (5) bekezdését a 15/2025. (VI. 16.) MNB rendelet 10. §-a hatályon kívül helyezte.
