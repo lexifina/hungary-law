@@ -26,11 +26,7 @@
 
 (14)
 
-(15) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy)
-
-## „f) rendeletben állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.”
+(15)
 
 (16)
 
@@ -42,4 +38,4 @@ a)
 
 b)
 
-c) 28. § (1) bekezdés t) pontja.
+c)
