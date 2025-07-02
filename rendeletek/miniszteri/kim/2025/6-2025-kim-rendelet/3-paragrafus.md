@@ -1,7 +1,3 @@
-3. § A 76/1995. (XII. 29.) IKM rendelet
+3. §[^4]
 
-a) 3. § (1) bekezdésében a „letelepedett vagy bevándorló” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezik” szöveg,
-
-b) 5. § (1) bekezdés d) pontjában az „Európai Közösség” szövegrész helyébe az „Európai Unió” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
