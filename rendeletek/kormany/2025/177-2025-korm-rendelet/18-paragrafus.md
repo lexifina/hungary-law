@@ -1,3 +1,5 @@
 ## 5. Az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet módosítása
 
-18. § Hatályát veszti az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet 37. § (3)–(5) bekezdése.
+18. §[^43]
+
+[^43]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

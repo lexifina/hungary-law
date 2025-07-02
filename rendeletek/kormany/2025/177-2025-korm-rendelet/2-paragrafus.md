@@ -1,3 +1,3 @@
-2. § A Rendelet1. a következő 5. §-sal egészül ki:
+2. §[^2]
 
-„5. § Az elhunyt Nemzet Sportolóját – különösen a sportéletben betöltött meghatározó szerepe vagy elhalálozásának körülményeire tekintettel – a miniszter az általa vezetett minisztérium saját halottjának nyilváníthatja, és hozzájárulhat a temetési költségeihez.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

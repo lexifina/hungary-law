@@ -1,7 +1,3 @@
-8. § A Rendelet2.
+8. §[^8]
 
-a) 7. § (5) bekezdésében a „Melléklet” szövegrész helyébe az „1. melléklet” szöveg,
-
-b) 9. § (2) bekezdésében a „melléklet” szövegrészek helyébe az „1. melléklet” szöveg
-
-lép.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -18,10 +18,6 @@
 
 ## 1. A Nemzet Sportolója Címről szóló 40/2004. (III. 12.) Korm. rendelet módosítása
 
-1. § (1) A Nemzet Sportolója Címről szóló 40/2004. (III. 12.) Korm. rendelet (a továbbiakban: Rendelet1.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) Az adományozottat a Cím adományozásáról szóló okirat, valamint havonta a bérből és fizetésből élők előző évi – a Központi Statisztikai Hivatal (a továbbiakban: KSH) által a Hivatalos Értesítőben közzétett – országos szintű bruttó nominál átlagkeresetnek megfelelő összegű életjáradék illeti meg.”
-
-(2) A Rendelet1. 4. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A miniszter az életjáradékot a tárgyévben a bérből és fizetésből élők előző évi országos szintű bruttó nominál átlagkeresetének a KSH által a Hivatalos Értesítőben történő közzétételéig (a továbbiakban: átmeneti időszak) a tárgyévet megelőző év adatai alapján havonta, az átmeneti időszakra eső különbözetet a közzétételt követő második hónapban egy összegben folyósítja.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

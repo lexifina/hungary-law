@@ -1,15 +1,3 @@
-## „4. nevelőedző: a versenyzőt valamely utánpótlás korosztályban legalább két évig folyamatosan felkészítő sportszakember, akit az állami jutalomra és az eredményességi jutalomra (a továbbiakban együtt: jutalom) jogosultság szempontjából e minőségében a versenyző – korlátozott cselekvőképessége, cselekvőképtelensége esetén a törvényes képviselője, gondnoka jóváhagyásával – visszavonhatatlanul, a jutalomra jogosító első eredményét megelőzően, a 6/A. §-ban foglaltak szerint meghatároz;”
+10. §[^10]
 
-10. § (1) A Rendelet3. 4. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az edző, a nevelőedző és az egyéb sportszakember személyéről a (4) bekezdés szerinti szervezetek írásban tesznek nyilatkozatot (a továbbiakban: személyi nyilatkozat) a sportköztestületnek – a (4) bekezdés b) pontja szerinti esetben, amennyiben a sportágban nem működik országos sportági szakszövetség, sportági szövetség, fogyatékosok országos sportszövetsége, a sportpolitikáért felelős miniszternek – a versenyző sportvilágeseményre történő kiutazását megelőzően, a sportvilágeseményre történő utolsó versenyzői nevezéstől számított hét napon belül. A személyi nyilatkozatban az edző és a nevelőedző személyét a (3) bekezdés szerinti versenyzői javaslat (a továbbiakban: versenyzői javaslat) alapján kell meghatározni, azzal, hogy a nevelőedző tekintetében a 6/A. §-ban foglaltak szerint kell eljárni. A versenyzői javaslatot a személyi nyilatkozathoz csatolni kell, a személyi nyilatkozat a versenyzői javaslat nélkül érvénytelen.
-
-(3) A versenyző sportáganként egy vagy több edzőt nevezhet meg írásban a versenyzői javaslatban az országos sportági szakszövetség, valamint a sportköztestület részére, az állami jutalomra jogosító helyezést megalapozó sportvilágesemény hivatalos időszakát legalább harminc nappal megelőzően. A versenyző a versenyzői javaslatot korlátozott cselekvőképessége, cselekvőképtelensége esetén a törvényes képviselője, gondnoka jóváhagyásával teszi meg.”
-
-(2) A Rendelet3. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (4) bekezdés szerinti javaslatokat a sportköztestület ügyintéző-képviseleti szerve megvizsgálja, és határozat formájában javaslatot tesz a sportpolitikáért felelős miniszter részére a jutalmazandó versenyzők, edzők, nevelőedzők és más sportszakemberek személyére és a részükre javasolt összegre vonatkozóan. A sportköztestület vizsgálata a 2. § szerinti feltételek fennállására is kiterjed. A sportköztestület a jutalmazandó versenyzők, edzők, nevelőedzők és más sportszakemberek személyére, valamint azok jutalmának összegére vonatkozó határozatát a sportpolitikáért felelős miniszter részére a (4) bekezdés szerinti javaslat kézhezvételét követő kilencven napon belül teszi meg. A határozathoz csatolni kell a versenyzői javaslatot és a személyi nyilatkozatot is.”
-
-(3) A Rendelet3. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az (5) bekezdés szerinti, a 12. melléklet alapján összeállított határozat formájában tett sportköztestületi javaslathoz a sportvilágesemény szervezője által a helyezésekről kiállított hivatalos igazolást is csatolni kell, ha a versenyszám helyosztó versenyeit lejátszották. Ha a versenyszámban az 5–8. helyért a helyosztó versenyeket nem játszották le, a sportvilágesemény szervezője által a helyezésekről kiállított hivatalos igazolás nélkül a sportvilágesemény 5–8. helyezése után csak a 8. helyezésre megállapítható jutalom adható.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
