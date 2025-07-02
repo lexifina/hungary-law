@@ -1,3 +1,3 @@
-119. §[^139]
+119. §[^119]
 
-[^139]: A 119. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 119. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-177. §[^197]
+177. §[^177]
 
-[^197]: A 177. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^177]: A 177. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

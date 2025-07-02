@@ -1,5 +1,5 @@
 ## 38. A központi címregiszterről és a címkezelésről szóló 345/2014. (XII. 23.) Korm. rendelet módosítása
 
-104. §[^124]
+104. §[^104]
 
-[^124]: A 104. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 104. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-90. §[^110]
+90. §[^90]
 
-[^110]: A 90. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 90. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

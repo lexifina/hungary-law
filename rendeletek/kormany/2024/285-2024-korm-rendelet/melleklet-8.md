@@ -1,3 +1,3 @@
-8. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^324]
+8. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^304]
 
-[^324]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^304]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

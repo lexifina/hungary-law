@@ -1,3 +1,3 @@
-2. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^318]
+2. melléklet a 285/2024. (IX. 30.) Korm. rendelethez[^298]
 
-[^318]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^298]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

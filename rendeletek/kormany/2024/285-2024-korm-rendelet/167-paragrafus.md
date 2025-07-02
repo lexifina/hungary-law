@@ -1,3 +1,3 @@
-167. §[^187]
+167. §[^167]
 
-[^187]: A 167. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^167]: A 167. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

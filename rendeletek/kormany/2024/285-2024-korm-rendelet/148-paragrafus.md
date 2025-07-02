@@ -1,3 +1,3 @@
-148. §[^168]
+148. §[^148]
 
-[^168]: A 148. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^148]: A 148. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

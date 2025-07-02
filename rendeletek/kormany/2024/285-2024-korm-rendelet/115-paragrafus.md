@@ -1,3 +1,3 @@
-115. §[^135]
+115. §[^115]
 
-[^135]: A 115. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 115. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

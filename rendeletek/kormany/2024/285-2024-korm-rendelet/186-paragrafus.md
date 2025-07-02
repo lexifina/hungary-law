@@ -1,3 +1,3 @@
-186. §[^206]
+186. §[^186]
 
-[^206]: A 186. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^186]: A 186. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

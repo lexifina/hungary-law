@@ -1,3 +1,3 @@
-185. §[^205]
+185. §[^185]
 
-[^205]: A 185. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 185. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

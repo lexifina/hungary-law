@@ -1,3 +1,3 @@
-151. §[^171]
+151. §[^151]
 
-[^171]: A 151. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^151]: A 151. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

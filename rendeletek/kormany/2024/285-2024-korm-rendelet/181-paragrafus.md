@@ -1,3 +1,3 @@
-181. §[^201]
+181. §[^181]
 
-[^201]: A 181. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^181]: A 181. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

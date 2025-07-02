@@ -1,3 +1,3 @@
-154. §[^174]
+154. §[^154]
 
-[^174]: A 154. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^154]: A 154. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

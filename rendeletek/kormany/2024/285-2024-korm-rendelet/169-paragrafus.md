@@ -1,3 +1,3 @@
-169. §[^189]
+169. §[^169]
 
-[^189]: A 169. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: A 169. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

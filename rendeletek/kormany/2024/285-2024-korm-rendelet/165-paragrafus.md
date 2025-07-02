@@ -1,3 +1,3 @@
-165. §[^185]
+165. §[^165]
 
-[^185]: A 165. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: A 165. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
