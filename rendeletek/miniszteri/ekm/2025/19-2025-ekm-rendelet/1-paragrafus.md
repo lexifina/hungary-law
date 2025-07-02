@@ -34,4 +34,6 @@
 
 ## 1. A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet módosítása
 
-1. § A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet 2. számú melléklet 2. pontjában a „KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „Közlekedéstudományi Intézet” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
