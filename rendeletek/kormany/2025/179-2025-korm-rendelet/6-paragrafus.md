@@ -1,3 +1,3 @@
-6. § A Gyer. 124. § (1) bekezdése a következő e) ponttal egészül ki:
+6. §[^6]
 
-(A fiatal felnőtt az utógondozói ellátásra irányuló kérelméhez csatolja)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 12.[^3]
+## 12.[^37]
 
 38. §
 
-[^3]: A 12. alcím a 47. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^37]: A 12. alcím a 47. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

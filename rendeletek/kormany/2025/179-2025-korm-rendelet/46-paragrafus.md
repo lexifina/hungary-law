@@ -1,1 +1,3 @@
-46. § Hatályát veszti a Pavr. 27. § (1) bekezdés g) pontja.
+46. §[^44]
+
+[^44]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

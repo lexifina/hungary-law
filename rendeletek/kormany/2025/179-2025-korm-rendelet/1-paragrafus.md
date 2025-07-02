@@ -42,6 +42,6 @@
 
 ## 1. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet módosítása
 
-1. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 26/A. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-(A gyámhivatal)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

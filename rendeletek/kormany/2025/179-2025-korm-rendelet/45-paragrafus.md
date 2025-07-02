@@ -1,7 +1,3 @@
-45. § A Pavr.
+45. §[^43]
 
-a) 17. § (2) bekezdés a) pontjában a „két” szövegrész helyébe az „egy” szöveg,
-
-b) 17. § (2) bekezdés b) pontjában a „két” szövegrész helyébe a „három” szöveg
-
-lép.
+[^43]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-18. § A Pr. 21. § (10) bekezdése helyébe a következő rendelkezés lép:
+18. §[^18]
 
-„(10) A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók szakfelügyeletéről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

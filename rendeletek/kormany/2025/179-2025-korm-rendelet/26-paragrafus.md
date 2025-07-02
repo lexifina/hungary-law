@@ -1,7 +1,3 @@
-26. § A Gyár.
+26. §[^26]
 
-a) 13. § e) pontjában a „43/B. §-a” szövegrész helyébe a „42. § (13) bekezdése” szöveg,
-
-b) 22. § (3) bekezdésében az „ügyei vitelében akadályozott” szövegrész helyébe az „ismeretlen, az ügyei vitelében akadályozott” szöveg
-
-lép.
+[^26]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

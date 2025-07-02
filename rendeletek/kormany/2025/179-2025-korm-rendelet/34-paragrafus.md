@@ -1,1 +1,3 @@
-34. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 1. § h) pont záró szövegrészében a „lakhatási forma” szövegrész helyébe a „lakhatási forma, továbbá a he) alpont alkalmazásában az utógondozói ellátást igénybe vevő fiatal felnőtt tulajdona vagy bérleménye;” szöveg lép.
+34. §[^33]
+
+[^33]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

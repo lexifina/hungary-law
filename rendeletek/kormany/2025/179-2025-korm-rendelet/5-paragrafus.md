@@ -1,3 +1,3 @@
-5. § A Gyer. 94. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„(1) A családbafogadó gyám éves jelentésének és számadásának elbírálásával egyidejűleg vagy a gyermek veszélyeztetettségére vonatkozó jelzés alapján a gyámhivatal hivatalból vizsgálja, hogy a családbafogadás fenntartása a gyermek érdekében továbbra is indokolt-e. A gyermek érdekében – a feltételek fennállása esetén – a gyámhivatal elrendelheti a gyermek védelembe vételét vagy a gyermek védelembe vételével együtt a megelőző pártfogását.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

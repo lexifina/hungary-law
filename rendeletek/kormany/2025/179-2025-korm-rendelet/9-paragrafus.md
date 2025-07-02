@@ -1,7 +1,3 @@
-9. § A Gyer. 139. § (2) bekezdés b) pont ba) alpontja helyébe a következő rendelkezés lép:
+9. §[^9]
 
-[Az (1) bekezdés szerinti tanúsítvány tartalmazza
-
-a megbízáson alapuló vagy munkaköri kötelesség alapján eljáró gyám vagy gondnok]
-
-„ba) természetes személyazonosító adatait,”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

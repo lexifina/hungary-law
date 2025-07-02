@@ -1,5 +1,3 @@
-31. § Hatályát veszti az Mmr.
+31. §[^30]
 
-a) 1. § (2) bekezdése,
-
-b) 7/B. § (3) bekezdése.
+[^30]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
