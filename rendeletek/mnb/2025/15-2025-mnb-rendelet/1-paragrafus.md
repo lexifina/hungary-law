@@ -4,6 +4,6 @@
 
 ## 1. A pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet módosítása
 
-1. § A pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet [a továbbiakban: 35/2017. (XII. 14.) MNB rendelet] 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) A számlatulajdonos fizetési számlájának azonosítására a számlatulajdonos vagy – amennyiben a számlatulajdonos másképpen nem rendelkezik – egyéb rendelkezésre jogosult másodlagos számlaazonosítóként valamely EGT-államra mint földrajzi területre utaló országkódot tartalmazó mobiltelefonszámot, továbbá elektronikus levelezési címet, az állami adó- és vámhatóság által megállapított adóazonosító jelet vagy adószámot határozhat meg a számlatulajdonos fizetési számláját vezető pénzforgalmi szolgáltatónál tett bejelentés útján (másodlagos számlaazonosító hozzárendelése).”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

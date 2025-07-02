@@ -1,5 +1,6 @@
-9. § (1) Hatályát veszti a 35/2017. (XII. 14.) MNB rendelet 3. § (1) bekezdésében az „ , adott pénznemben” szövegrész.
+9. § (1)[^9]
 
-(2)[^3]
+(2)[^10]
 
-[^3]: A 9. § (2) bekezdése a 12. § (3) bekezdése alapján 2026. január 31-én lép hatályba.
+[^9]: A 9. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § (2) bekezdése a 12. § (3) bekezdése alapján 2026. január 31-én lép hatályba.

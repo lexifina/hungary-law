@@ -1,3 +1,3 @@
-7. § A 35/2017. (XII. 14.) MNB rendelet 36. § (17) bekezdése a következő d) ponttal egészül ki:
+7. §[^7]
 
-(A fizetési kérelem szolgáltatást nyújtó pénzforgalmi szolgáltató ezen szolgáltatás nyújtása során)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
