@@ -1,1 +1,3 @@
-11. § Hatályát veszti az R4. 9. § (3) bekezdése.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
