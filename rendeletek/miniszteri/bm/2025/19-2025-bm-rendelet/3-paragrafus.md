@@ -1,1 +1,3 @@
-3. § A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 76. § (4) bekezdésében a „Nemzetközi Bűnügyi Együttműködési Központ” szövegrész helyébe a „rendőrség nemzetközi bűnügyi együttműködési központja” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 11. A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet módosítása
 
-16. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet 11. melléklet I. alcím 1. pont h) alpontjában a „NEBEK” szövegrész helyébe a „Nemzetközi Bűnügyi Együttműködési Központ” szöveg, a „pont ügyelete” szövegrész helyébe a „pontja” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

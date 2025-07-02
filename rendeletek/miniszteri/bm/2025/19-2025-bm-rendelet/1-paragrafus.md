@@ -28,4 +28,6 @@
 
 ## 1. A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet módosítása
 
-1. § Hatályát veszti a belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet 1/A. § b) pontjában az „a Nemzeti Bűnügyi Együttműködési Központ,” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
