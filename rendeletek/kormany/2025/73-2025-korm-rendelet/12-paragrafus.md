@@ -1,3 +1,3 @@
-12. § Az R2. 232. § c) pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(A tartózkodási engedély okmány érvénytelen, ha)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

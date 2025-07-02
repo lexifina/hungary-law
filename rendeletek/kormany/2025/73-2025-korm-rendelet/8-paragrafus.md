@@ -1,1 +1,3 @@
-8. § Az R1. 3. melléklet címében a „Kérelem előzetes csoportos munkavállalási jóváhagyás iránt” szövegrész helyébe a „Kérelem a beruházás előkészítő szakaszára vonatkozó előzetes csoportos munkavállalási jóváhagyás iránt” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
