@@ -1,1 +1,1 @@
-60. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 3. § (1) bekezdésében a „Nemzetközi Bűnügyi Együttműködési Központ” szövegrész helyébe a „rendőrség nemzetközi bűnügyi együttműködési központja” szöveg lép.
+### 60. §

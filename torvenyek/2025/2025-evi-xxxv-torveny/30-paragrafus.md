@@ -1,1 +1,1 @@
-30. § A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 7/A. § (2) bekezdésében a „Nemzetközi Bűnügyi Együttműködési Központ,” szövegrész helyébe a „rendőrség nemzetközi bűnügyi együttműködési központja,” szöveg lép.
+### 30. §

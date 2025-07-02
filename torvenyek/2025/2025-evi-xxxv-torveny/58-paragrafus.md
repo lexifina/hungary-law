@@ -1,1 +1,1 @@
-58. § Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 8. § (3) bekezdésében az „ügyiratok Nemzetközi Bűnügyi Együttműködési Központ” szövegrész helyébe az „ügyiratoknak a rendőrség nemzetközi bűnügyi együttműködési központjának” szöveg lép.
+### 58. §
