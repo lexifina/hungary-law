@@ -1,3 +1,3 @@
-4. § Az R. a következő 8. §-sal egészül ki:
+4. §[^5]
 
-„8. § E rendeletnek a MódR3.-mal megállapított 2/C. §-át a 2025. július 1-jén folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
