@@ -1,5 +1,5 @@
 ## 4X08722M.pdf
 
-3. melléklet az 55/2024. (XII. 3.) MNB rendelethez[^4]
+3. melléklet az 55/2024. (XII. 3.) MNB rendelethez[^5]
 
-[^4]: A 3. melléklet a 20. § és a 21. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. melléklet a 20. § és a 21. § (2) bekezdés b) pontja szerint módosított szöveg.
