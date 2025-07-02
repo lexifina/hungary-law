@@ -1,3 +1,3 @@
-18. § A Vet. Vhr. 21/B. §-a a következő (1a) bekezdéssel egészül ki:
+18. §[^18]
 
-„(1a) A villamosenergia-kereskedő és az elosztó a nem lakossági felhasználó részére kizárólag elektronikus számlát bocsát ki.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
