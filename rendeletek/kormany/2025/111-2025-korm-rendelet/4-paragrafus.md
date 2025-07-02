@@ -1,3 +1,3 @@
-4. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdése a következő k) és l) ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
