@@ -1,3 +1,3 @@
-2. melléklet a 127/2025. (VI. 5.) Korm. rendelethez[^36]
+2. melléklet a 127/2025. (VI. 5.) Korm. rendelethez[^38]
 
-[^36]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
