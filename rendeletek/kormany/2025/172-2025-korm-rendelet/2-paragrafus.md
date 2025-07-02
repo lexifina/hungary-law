@@ -1,7 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 33. § (12) bekezdés b) pontjában a „750” szövegrész helyébe a „2050” szöveg,
-
-b) 33. § (18) bekezdésében az „1,8-es” szövegrész helyébe a „3,3-es” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
