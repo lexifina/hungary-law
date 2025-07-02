@@ -1,1 +1,3 @@
-8. § A 181/2017. (VII. 5.) Korm. rendelet 14. § (2) bekezdésében az „e) vagy f)” szövegrész helyébe az „e), f) vagy g)” szöveg lép.
+8. §[^7]
+
+[^7]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
