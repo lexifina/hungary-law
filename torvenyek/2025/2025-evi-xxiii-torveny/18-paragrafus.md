@@ -1,3 +1,1 @@
-18. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 109. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A kizárás fegyelmi büntetés időtartamába az ugyanazon ügyben elrendelt ügyvédi tevékenység felfüggesztésének időtartamát – ideértve a 180. § szerinti felfüggesztés esetét is – be kell számítani. Az ingatlan-nyilvántartási ügyektől való eltiltás fegyelmi büntetés időtartamába az ugyanazon ügyben elrendelt ingatlan-nyilvántartási ügyben való eljárási jogosultság felfüggesztésének időtartamát be kell számítani. A beszámításnál az ügyvédi tevékenység egynapi felfüggesztése egy nap kizárásnak, az ingatlan-nyilvántartási ügyben való eljárási jogosultság egynapi felfüggesztése egy nap ingatlan-nyilvántartási ügyektől való eltiltásnak felel meg.”
+### 18. §
