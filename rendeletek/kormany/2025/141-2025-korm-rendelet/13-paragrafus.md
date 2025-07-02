@@ -1,9 +1,5 @@
 ## 11. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet módosítása
 
-13. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet
+13. §[^14]
 
-a) 298. § (4) bekezdésében a „KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társasággal” szövegrész helyébe a „Közlekedéstudományi Intézettel” szöveg,
-
-b) 347. § (1) bekezdésében a „KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „Közlekedéstudományi Intézet” szöveg
-
-lép.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-16. § A 774/2021. (XII. 23.) Korm. rendelet 6. §-ában az „állami tulajdoni gazdasági társaság a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „szervezet a Közlekedéstudományi Intézet (a továbbiakban: KTI)” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,13 +1,5 @@
 ## 16. Az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet módosítása
 
-19. § (1) Az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet [a továbbiakban: 562/2023. (XII. 14.) Korm. rendelet] 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+19. §[^20]
 
-[A (3) bekezdés szerinti szolgáltatásokat]
-
-## „b) – a (3) bekezdés b) és c) pontja szerinti szolgáltatások kivételével – a Közlekedéstudományi Intézet,”
-
-## [az (1) bekezdés szerint köteles igénybe venni.]
-
-(2) Az 562/2023. (XII. 14.) Korm. rendelet 1. § (2) bekezdés g)–i) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő j)–l) ponttal egészül ki:
-
-[A (3) bekezdés szerinti szolgáltatásokat]
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
