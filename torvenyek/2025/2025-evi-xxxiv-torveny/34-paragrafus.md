@@ -8,9 +8,9 @@ c)
 
 d)
 
-e) 41. § (2) bekezdés a) pontjában a „tanuló neve, születési helye” szövegrész helyébe a „tanuló neve, születési neve, születési helye” szöveg,
+e)
 
-f) 41. § (2) bekezdés b) pontjában a „személynek neve, születési helye” szövegrész helyébe a „személynek neve, születési neve, születési helye” szöveg,
+f)
 
 g)
 
