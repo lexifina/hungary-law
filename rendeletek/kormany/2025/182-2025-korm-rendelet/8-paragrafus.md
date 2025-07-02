@@ -1,1 +1,3 @@
-8. § A pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+8. §[^7]
+
+[^7]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
