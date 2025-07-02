@@ -1,5 +1,5 @@
-## 2.[^6]
+## 2.[^8]
 
 4. §
 
-[^6]: A 2. alcím a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^8]: A 2. alcím a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
