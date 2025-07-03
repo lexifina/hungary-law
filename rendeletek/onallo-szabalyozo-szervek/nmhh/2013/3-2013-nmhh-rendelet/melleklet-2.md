@@ -12,7 +12,7 @@
 
 | 5. | TM Support Kft. | 1224 Budapest, Dózsa György út 77. | X |  |
 
-| 6. | Vodafone Magyarország Zrt. | 1112 Budapest, Boldizsár utca 2. | X | X |
+| 6. | One Magyarország Zrt.[^8] | 1112 Budapest, Boldizsár utca 2. | X | X |
 
 | 7. | Digi Távközlési és Szolgáltató Kft. | 1013 Budapest, Krisztina körút 39. | X | X |
 
@@ -26,7 +26,13 @@
 
 | 12. | AH Infrastruktúra Zrt. | 1013 Budapest, Krisztina körút 39. | X | X |
 
-2. melléklet a 3/2013. (I. 11.) NMHH rendelethez[^8]
+| 13.[^9] | V-Hálózat Távközlési Zrt. | 1112 Budapest, Boldizsár utca 2. | X | X |
+
+| 14.[^10] | 4iG Műsorszóró Infrastruktúra Kft. | 1121 Budapest, Csíz utca 2–8. | X | X |
+
+| 15.[^11] | Invitech ICT Infrastructure Kft. | 1013 Budapest, Krisztina körút 39. | X | X |
+
+2. melléklet a 3/2013. (I. 11.) NMHH rendelethez[^12]
 
 1. A riasztási és tájékoztatási feladat ellátásában részt vevő közszolgálati médiaszolgáltató
 
@@ -36,7 +42,7 @@
 
 | neve | székhelye |
 
-| 1. | Duna Médiaszolgáltató Nonprofit Zrt. | 1038 | Budapest | Bojtár u. 41–47. | M1, M2, M4 SPORT, M5, Duna, Duna World / M4 SPORT+, Kossuth Rádió, Petőfi Rádió, Bartók Rádió, Dankó Rádió, Nemzeti Sportrádió[^9] |
+| 1. | Duna Médiaszolgáltató Nonprofit Zrt. | 1038 | Budapest | Bojtár u. 41–47. | M1, M2, M4 SPORT, M5, Duna, Duna World / M4 SPORT+, Kossuth Rádió, Petőfi Rádió, Bartók Rádió, Dankó Rádió, Nemzeti Sportrádió[^13] |
 
 2. A riasztási és tájékoztatási feladat ellátásában részt vevő nem közszolgálati médiaszolgáltatók (beleértve az általuk ellátott hálózati adókat is)
 
@@ -70,11 +76,11 @@
 
 | 12. | „EURÓPA RÁDIÓ” Nonprofit Közhasznú Kft. | 3530 | Miskolc | Toronyalja u. 13. | Európa Rádió |
 
-| 13. | Érd Médiacentrum Nonprofit Kft. | 2030 | Érd | Budai út 16–18. | Érd FM 101,3 |
+| 13.[^14] |  |  |  |  |  |
 
 | 14. | Turul Média Kft. | 2800 | Tatabánya | Stúdium tér 1. | Forrás Rádió |
 
-| 15.[^10] |  |  |  |  |  |
+| 15.[^15] |  |  |  |  |  |
 
 | 16. | PluszRádió Nonprofit Kft. | 1027 | Budapest | Bem József u. 6. fszt. | Győr Plusz Rádió |
 
@@ -124,7 +130,7 @@
 
 | 39. | Fehérvár Médiacentrum Kft. | 8000 | Székesfehérvár | Szent Vendel u. 17/A | Vörösmarty Rádió |
 
-3.[^11] A riasztási és tájékoztatási feladat ellátásában részt vevő elektronikus hírközlési szolgáltató
+3.[^16] A riasztási és tájékoztatási feladat ellátásában részt vevő elektronikus hírközlési szolgáltató
 
 | A | B | C |
 
@@ -136,7 +142,15 @@
 
 | 2. | AH Infrastruktúra Zrt. | 1013 | Budapest | Krisztina körút 39. | DVB-T, DVB-T2, URH, KH |
 
-[^8]: A 2. melléklet a 9/2021. (XII. 8.) NMHH rendelet 2. § b) pontjával megállapított szöveg.
-[^9]: A 2. melléklet 1. pontjában foglalt táblázat C:1 mezője a 9/2024. (X. 3.) NMHH rendelet 7. §-a szerint módosított szöveg.
-[^10]: A 2. melléklet 2. pontjában foglalt táblázat 15. sorát a 9/2024. (X. 3.) NMHH rendelet 8. §-a hatályon kívül helyezte.
-[^11]: A 2. melléklet 3. pontja a 9/2024. (X. 3.) NMHH rendelet 6. § (2) bekezdésével megállapított szöveg.
+| 3.[^17] | 4iG Műsorszóró Infrastruktúra Kft. | 1121 | Budapest | Csíz utca 2–8. | DVB–T, DVB–T2, URH, KH |
+
+[^8]: Az 1. mellékletben foglalt táblázat B:6 mezője a 8/2025. (VI. 30.) NMHH rendelet 2. § a) pontjával megállapított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat 13. sorát a 8/2025. (VI. 30.) NMHH rendelet 2. § a) pontja iktatta be.
+[^10]: Az 1. mellékletben foglalt táblázat 14. sorát a 8/2025. (VI. 30.) NMHH rendelet 2. § a) pontja iktatta be.
+[^11]: Az 1. mellékletben foglalt táblázat 15. sorát a 8/2025. (VI. 30.) NMHH rendelet 2. § a) pontja iktatta be.
+[^12]: A 2. melléklet a 9/2021. (XII. 8.) NMHH rendelet 2. § b) pontjával megállapított szöveg.
+[^13]: A 2. melléklet 1. pontjában foglalt táblázat C:1 mezője a 9/2024. (X. 3.) NMHH rendelet 7. §-a szerint módosított szöveg.
+[^14]: A 2. melléklet 2. pontjában foglalt táblázat 13. sorát a 8/2025. (VI. 30.) NMHH rendelet 3. §-a hatályon kívül helyezte.
+[^15]: A 2. melléklet 2. pontjában foglalt táblázat 15. sorát a 9/2024. (X. 3.) NMHH rendelet 8. §-a hatályon kívül helyezte.
+[^16]: A 2. melléklet 3. pontja a 9/2024. (X. 3.) NMHH rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet 3. pontjában foglalt táblázat 3. sorát a 8/2025. (VI. 30.) NMHH rendelet 2. § b) pontja iktatta be.
