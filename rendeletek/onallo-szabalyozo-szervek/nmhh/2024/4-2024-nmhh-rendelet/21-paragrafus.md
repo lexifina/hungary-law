@@ -1,6 +1,6 @@
 ## 8. Az Online Platform Vitarendező Tanácsra vonatkozó szabályok
 
-21. § (1) Az Online Platform Vitarendező Tanács (a továbbiakban: Tanács) egy elnökből és legalább nyolc tagból áll.
+21. § (1)[^10] Az Online Platform Vitarendező Tanács (a továbbiakban: Tanács) egy elnökből és legalább nyolc tagból áll. A Tanács a tevékenysége ellátásához, működéséhez szükséges körben saját nevében jognyilatkozatokat tehet.
 
 (2) A Tanács elnöke
 
@@ -27,3 +27,5 @@ f) kijelöli az adott ügyben eljáró tagot, illetve az eljáró tanács tagjai
 (7) Ha a jelölt nem felel meg az e rendelet szerinti összeférhetetlenségi feltételeknek, a jelölési iratok részeként joghatályos nyilatkozatában kijelenti, hogy kinevezése esetén a megbízási szerződés megkötésének időpontjától számított harminc napon belül megszünteti az összeférhetetlenségi okot.
 
 (8) Ha a jelölés nem vagy nem megfelelően tartalmazza a jelölési iratokat, az Elnök egy alkalommal hiánypótlásra hívja fel a jelölő szervezetet, ezzel egyidejűleg tájékoztatja, hogy ha a felhívásnak határidőben nem vagy nem megfelelően tesz eleget, az a jelölés érvénytelenségét vonja maga után.
+
+[^10]: A 21. § (1) bekezdése a 8/2025. (VI. 30.) NMHH rendelet 4. §-ával megállapított szöveg.

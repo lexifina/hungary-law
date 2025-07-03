@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-4-20-3H
 | 2024-04-21 | 2024-4-20-3H.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-05-11 | 2024-4-20-3H.3 | 6/2025. (V. 8.) NMHH rendelet |
 | 2025-06-01 | 2024-4-20-3H.4 | 6/2025. (V. 8.) NMHH rendelet |
+| 2025-07-03 | 2024-4-20-3H.5 | 8/2025. (VI. 30.) NMHH rendelet |
