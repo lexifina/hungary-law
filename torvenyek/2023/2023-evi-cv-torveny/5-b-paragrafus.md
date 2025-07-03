@@ -1,0 +1,1 @@
+5/B. § A CBAM-hatóság CBAM-engedély kiadására és módosítására irányuló eljárásáért az arra vonatkozó kérelem benyújtásával egyidejűleg jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.

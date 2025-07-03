@@ -26,4 +26,4 @@ e) a kiállításra jogosult aláírását, bélyegzőlenyomatát, továbbá
 
 f) azt a tényt, hogy a közreműködő személy mely ellenőrzés alá vont ügyfélnél, ügyfélcsoportnál vehet részt az ellenőrzés során.
 
-(6) Az e törvény hatálya alá tartozó hatósági eljárásban az ügyintézési határidő százhúsz nap.
+(6) Az e törvény hatálya alá tartozó hatósági eljárásban – a CBAM-engedély kiadására, módosítására és visszavonására vonatkozó hatósági eljárások kivételével – az ügyintézési határidő százhúsz nap.

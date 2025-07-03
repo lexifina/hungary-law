@@ -1,4 +1,4 @@
-## 4. A jelentéstételi kötelezettséggel kapcsolatos egyes hatósági tevékenységek
+## 4. A CBAM-hatóság eljárásaival, adatkezelésével és ellenőrzési tevékenységével kapcsolatos rendelkezések
 
 6. § (1) A CBAM-hatóság megkeresésére az állami adó- és vámhatóság megküldi a vámtitkot képező adatot, ha az az ügyfél személyének azonosításához vagy a hatóság ellenőrzési és felügyeleti feladatának ellátásához szükséges. A CBAM-hatóság a vámtitkot az ügyfél által végzett tevékenység megszűnését, megszüntetését követő 5 évig tarthatja nyilván és kezelheti.
 
