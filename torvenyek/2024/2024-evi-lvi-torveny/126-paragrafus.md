@@ -1,1 +1,0 @@
-126. § A 16. § az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről („Elektronikus hírközlési adatvédelmi irányelv”) szóló, 2002. július 12-i 2002/58/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének való megfelelést szolgálja.
