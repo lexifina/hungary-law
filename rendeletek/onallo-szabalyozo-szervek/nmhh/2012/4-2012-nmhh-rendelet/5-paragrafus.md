@@ -1,5 +1,3 @@
-## 4. §[^4]
-
 5. §[^5] (1)[^6] A szolgáltató az Eht. 156. § (2)–(8) bekezdésében foglaltak alapján köteles haladéktalanul tájékoztatni a Nemzeti Média- és Hírközlési Hatóság Hivatalát (a továbbiakban: Hivatal) és az Eht. 156. § (5) bekezdésében meghatározott esetekben az előfizetőt vagy felhasználót a személyes adatok megsértésének (e rendelet alkalmazásában: személyes adatok megsértése) észlelése esetén.
 
 (2)[^7] A szolgáltató köteles a személyes adatok megsértését az észlelést követően haladéktalanul, de legfeljebb 24 órán belül elektronikus úton a Hivatalnak bejelenteni. A szolgáltató Hivatalhoz intézett bejelentésének tartalmaznia kell az (5)–(9) bekezdésben foglalt adatokat. A személyes adatok megsértésének észlelésére került sor, ha a személyes adatok megsértését eredményező biztonsági esemény (a továbbiakban:esemény) bekövetkeztéről a szolgáltató kellő tudomást szerzett ahhoz, hogy a Hivatalnak a jelen § szerinti bejelentést tegyen.
@@ -114,7 +112,6 @@ f) a szolgáltató által a személyes adatok megsértésének lehetséges kedve
 
 (21)[^30] A (20) bekezdésben foglalt nyilvántartásnak tartalmaznia kell továbbá a Hivatalnak történő bejelentés, valamint az előfizetők vagy felhasználók értesítésének időpontjára és módjára vonatkozó információkat is.
 
-[^4]: A 4. §-t a 11/2020. (XII. 11.) NMHH rendelet 10. §-a hatályon kívül helyezte.
 [^5]: Az 5. § a 21/2013. (XII. 4.) NMHH rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 5. § (1) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.
 [^7]: Az 5. § (2) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 9. § 1. pontja szerint módosított szöveg.

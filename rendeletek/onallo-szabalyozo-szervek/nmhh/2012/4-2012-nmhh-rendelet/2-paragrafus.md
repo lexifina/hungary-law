@@ -10,7 +10,7 @@ c) változatlansága igazolható (adatintegritás);
 
 d) a jogosulatlan hozzáférés ellen védett (adat bizalmassága)
 
-## legyen.
+legyen.
 
 (2) A szolgáltató olyan műszaki, szervezési és szervezeti intézkedésekkel köteles gondoskodni az adatkezelés biztonságának védelméről, amely az adatkezeléssel kapcsolatban jelentkező kockázatoknak megfelelő védelmi szintet nyújt.
 

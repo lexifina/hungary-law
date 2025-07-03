@@ -1,5 +1,3 @@
-## 16. §[^45]
-
 ## 6. Záró rendelkezések
 
 17. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2012. február 1-jén lép hatályba.
@@ -16,12 +14,11 @@ c) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolg�
 
 d) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv 40. cikkének
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (4)[^47] Ez a rendelet a 2002/58/EK európai parlamenti és tanácsi irányelv (elektronikus hírközlési adatvédelmi irányelv) szerinti személyes adatok megsértésére vonatkozó bejelentésre alkalmazandó intézkedésekről szóló, 2013. június 24-i 611/2013/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^45]: A 16. §-t a 11/2020. (XII. 11.) NMHH rendelet 10. §-a hatályon kívül helyezte.
 [^46]: A 17. § (3) bekezdése a 11/2020. (XII. 11.) NMHH rendelet 8. §-ával megállapított szöveg.
 [^47]: A 17. § (4) bekezdését a 11/2020. (XII. 11.) NMHH rendelet 8. §-a iktatta be.
