@@ -1,31 +1,26 @@
 ## 17. A tanúsítvány kiadása és átadása
 
-56. § (1) A tanúsítványt a kijelölt hitelesítés-szolgáltató bocsátja ki, és közzéteszi abban az esetben, ha a szolgáltatás igénybe vevője erről így nyilatkozott.
+56. § (1)[^194] A tanúsítványt a kijelölt hitelesítés-szolgáltató közzéteszi abban az esetben, ha a szolgáltatás igénybe vevője erről így nyilatkozott.
 
-(2)[^194] Az 51. § (2) bekezdés a) pontja szerinti esetben a tanúsítványt az állandó személyazonosító igazolványon a nyilvántartást kezelő szerv helyezi el.
+(2)[^195]
 
-(3)[^195] Az 51. § (2) bekezdés b) pontja szerinti esetben a tanúsítványt az érvényes állandó személyazonosító igazolványon az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés megkötése során eljáró szerv helyezi el.
+(3)[^196]
 
-(4)[^196] Ha a szolgáltatást igénybe vevő az állandó személyazonosító igazolvány kiadására irányuló eljárás során az e-aláírás funkcióra és az időbélyegzés szolgáltatásra vonatkozó szolgáltatási szerződést is megkötötte, akkor az állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt
+(4)[^197]
 
-a)[^197] személyesen veheti át a járási hivatalnál, a kijelölt kormányhivatalnál vagy a nyilvántartást kezelő szervnél, vagy
+(5)[^198]
 
-b)[^198] a nyilvántartást kezelő szervvel kötött szerződés alapján az egyetemes postai szolgáltató kézbesíti személyesen a szolgáltatást igénybe vevő részére.
+(6)[^199]
 
-(5)[^199] A járási hivatalban, a kijelölt kormányhivatalnál vagy a nyilvántartást kezelő szervnél kell átadni az állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt, ha a kérelem benyújtását követően az ügyfél birtokában marad a korábbi, még érvényes állandó személyazonosító igazolványa.
+(7)[^200]
 
-(6)[^200] A postai úton át nem vett állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt cím szerint illetékes járási hivatal is átveheti. A postai úton át nem vett állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt a szolgáltatást igénybe vevő veheti át a szolgáltatást igénybe vevő által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt cím szerint illetékes járási hivatalban.
+(8)[^201]
 
-(7)[^201] Ha a szolgáltatást igénybe vevő a tároló elemmel ellátott érvényes állandó személyazonosító igazolvánnyal igényel e-aláírás funkcióra és az időbélyegzés szolgáltatásra vonatkozó szolgáltatást, akkor az aláírás-létrehozó adatot és a kapcsolódó tanúsítványt a szolgáltatási szerződés megkötésével egyidejűleg az eljáró hatóság az állandó személyazonosító igazolvány tároló elemén elhelyezi.
-
-(8)[^202] A (4) bekezdés b) pontja szerinti postai kézbesítés esetén az állandó személyazonosító igazolvány – és annak tároló elemén elhelyezett aláírás-létrehozó adat és tanúsítvány – átvételét tanúsító iratot a nyilvántartást kezelő szerv továbbítja a kijelölt hitelesítés-szolgáltatónak.
-
-[^194]: Az 56. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
-[^195]: Az 56. § (3) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^196]: Az 56. § (4) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^197]: Az 56. § (4) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 24. pontja szerint módosított szöveg.
-[^198]: Az 56. § (4) bekezdés b) pontja a 227/2016. (VII. 29.) Korm. rendelet 9. § (6) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
-[^199]: Az 56. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 26. pontja szerint módosított szöveg.
-[^200]: Az 56. § (6) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 9. § (6) bekezdése szerint módosított szöveg.
-[^201]: Az 56. § (7) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^202]: Az 56. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
+[^194]: Az 56. § (1) bekezdése a 185/2025. (VII. 3.) Korm. rendelet 8. § 14. pontja szerint módosított szöveg.
+[^195]: Az 56. § (2) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.
+[^196]: Az 56. § (3) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.
+[^197]: Az 56. § (4) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.
+[^198]: Az 56. § (5) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.
+[^199]: Az 56. § (6) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.
+[^200]: Az 56. § (7) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.
+[^201]: Az 56. § (8) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 8. § 15. pontja hatályon kívül helyezte.

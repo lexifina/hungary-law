@@ -1,3 +1,3 @@
-42. §[^152]
+42. §[^153]
 
-[^152]: A 42. §-t a 256/2023. (VI. 26.) Korm. rendelet 13. § g) pontja hatályon kívül helyezte.
+[^153]: A 42. §-t a 256/2023. (VI. 26.) Korm. rendelet 13. § g) pontja hatályon kívül helyezte.

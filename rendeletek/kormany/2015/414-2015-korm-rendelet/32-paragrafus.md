@@ -1,6 +1,6 @@
 ## 8. A személyazonosító igazolvány cseréje
 
-32. §[^124] Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha
+32. §[^125] Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha
 
 a) az abban tárolt vagy azon szereplő adataiban változás következett be, ide nem értve az Nytv. 29. § (7) bekezdés d), e), i) és j) pontjában meghatározott adatokat, valamint a vészhelyzet esetén értesítendő telefonszámát,
 
@@ -22,4 +22,4 @@ i) az Nytv. 29. § (1) bekezdésében meghatározott elektronikus szolgáltatás
 
 j) a személyazonosító igazolvány tároló eleme ujjnyomatot nem tartalmaz, és a polgár ujjnyomat rögzítését kéri.
 
-[^124]: A 32. § a 478/2024. (XII. 31.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^125]: A 32. § a 478/2024. (XII. 31.) Korm. rendelet 28. §-ával megállapított szöveg.

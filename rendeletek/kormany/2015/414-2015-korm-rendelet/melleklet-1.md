@@ -1,6 +1,6 @@
 1. melléklet a 414/2015. (XII. 23.) Korm. rendelethez
 
-## Az állandó személyazonosító igazolvány iránti kérelem a következő adatokat tartalmazza:[^239]
+## Az állandó személyazonosító igazolvány iránti kérelem a következő adatokat tartalmazza:[^237]
 
 1. Személyi azonosítója
 
@@ -20,19 +20,19 @@
 
 9. Neme
 
-9a.[^240] Származási helye (Kérelmére)
+9a.[^238] Származási helye (Kérelmére)
 
-10.[^241] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
+10.[^239] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
 
-10a.[^242] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
+10a.[^240] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
 
-11.[^243] Okmány kézbesítési címe
+11.[^241] Okmány kézbesítési címe
 
 12. Arcképmása
 
-13.[^244] Ujjnyomatának rögzítése
+13.[^242] Ujjnyomatának rögzítése
 
-14.[^245] Ujjnyomat adására ideiglenesen fizikailag vagy fizikailag képtelenség ténye
+14.[^243] Ujjnyomat adására ideiglenesen fizikailag vagy fizikailag képtelenség ténye
 
 15. Saját kezű aláírása
 
@@ -46,11 +46,11 @@
 
 20. Az ideiglenes személyazonosító igazolvány kiadásának oka, az okmány azonosítója, érvényességi ideje
 
-21. Annak a ténye, hogy e-aláírási funkciót igényelt-e, az elektronikus aláírás igényléséhez szükséges elektronikus levélcíme, ha e-aláírás funkciót igényelt
+21.[^244]
 
 22. A regisztrációs kód, az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a PUK kód átvételének ténye, vagy átvételének megtagadása, valamint a kódokat tartalmazó boríték azonosítója
 
-23. Az elektronikus aláíráshoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a visszavonási jelszó átvételének ténye és a kódokat tartalmazó boríték azonosítója, ha e-aláírás funkciót igényelt
+23.[^245]
 
 24.[^246] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
 
@@ -62,13 +62,15 @@
 
 28.[^250] A személyazonosító igazolvány kiállításáért, pótlásáért, valamint belföldön postai úton, könyvelt küldeményként történő kézbesítéséért fizetendő igazgatási szolgáltatási díj
 
-[^239]: Az 1. melléklet nyitó szövegrésze a 256/2023. (VI. 26.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^240]: Az 1. melléklet 9a. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
-[^241]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^242]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^243]: Az 1. melléklet 11. pontja a 256/2023. (VI. 26.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
-[^244]: Az 1. melléklet 13. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
-[^245]: Az 1. melléklet 14. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^237]: Az 1. melléklet nyitó szövegrésze a 256/2023. (VI. 26.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^238]: Az 1. melléklet 9a. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
+[^239]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^240]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^241]: Az 1. melléklet 11. pontja a 256/2023. (VI. 26.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
+[^242]: Az 1. melléklet 13. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^243]: Az 1. melléklet 14. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^244]: Az 1. melléklet 21. pontját a 185/2025. (VII. 3.) Korm. rendelet 8. § 21. pontja hatályon kívül helyezte.
+[^245]: Az 1. melléklet 23. pontját a 185/2025. (VII. 3.) Korm. rendelet 8. § 22. pontja hatályon kívül helyezte.
 [^246]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
 [^247]: Az 1. melléklet 25. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
 [^248]: Az 1. melléklet második 25. pontját a 375/2021. (VI. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 17. § d) pontja szerint módosított szöveg, ez utóbbi módosító rendelet egyúttal a 25. pont sorszámát 26. pontra változtatta.
