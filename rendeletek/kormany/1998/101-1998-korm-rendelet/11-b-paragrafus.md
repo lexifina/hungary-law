@@ -1,6 +1,6 @@
-## A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes egyszeri visszautazásra jogosító úti okmánya[^65]
+## A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes egyszeri visszautazásra jogosító úti okmánya[^67]
 
-11/B. §[^66] (1)[^67] A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes a lejárt, elveszett, eltulajdonított, megrongálódott, illetve személyazonosság megállapítására más módon alkalmatlanná vált úti okmánya helyett Magyarországra történő egyszeri visszautazásra jogosító úti okmányra jogosult.
+11/B. §[^68] (1)[^69] A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes a lejárt, elveszett, eltulajdonított, megrongálódott, illetve személyazonosság megállapítására más módon alkalmatlanná vált úti okmánya helyett Magyarországra történő egyszeri visszautazásra jogosító úti okmányra jogosult.
 
 (2) Az úti okmány tartalmazza:
 
@@ -10,6 +10,6 @@ b) a kérelmező menekült, oltalmazott vagy menedékes jogállására vonatkoz�
 
 c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
 
-[^65]: A 11/B. §-t megelőző alcímet a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
-[^66]: A 11/B. §-t a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
-[^67]: A 11/B. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^67]: A 11/B. §-t megelőző alcímet a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
+[^68]: A 11/B. §-t a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
+[^69]: A 11/B. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.

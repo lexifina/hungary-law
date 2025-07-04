@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2024-03-01 | 1998-101-20-22.50 | 35/2024. (II. 29.) Korm. rendelet |
 | 2025-02-01 | 1998-101-20-22.51 | 478/2024. (XII. 31.) Korm. rendelet |
 | 2025-05-01 | 1998-101-20-22.53 | 89/2025. (IV. 30.) Korm. rendelet |
+| 2025-07-04 | 1998-101-20-22.54 | 184/2025. (VII. 3.) Korm. rendelet |

@@ -30,7 +30,7 @@ f) az új úti okmány személyes átvétele esetén, illetve ha a postai úton 
 
 g) gondoskodik a postai úton továbbított és át nem vett úti okmányok megőrzéséről, majd az általános hatáskörű útlevélhatóságnak történő megküldéséről,
 
-h) gondoskodik az úti okmány érvénytelenítéséről, selejtezéséről, megsemmisítésre történő előkészítéséről és az általános hatáskörű útlevélhatóság részére történő megküldéséről,
+h)[^29] gondoskodik az úti okmány érvénytelenítéséről, selejtezésre és megsemmisítésre történő előkészítéséről és az általános hatáskörű útlevélhatóság részére történő megküldéséről,
 
 i) jogszabályok keretei között gondoskodik az érvénytelenített okmányok visszaadásáról,
 
@@ -38,9 +38,9 @@ j) erre irányuló kérelem esetén lehetővé teszi a tároló elem adattartalm
 
 k) a járási hivatalnál történő bejelentés esetén rögzíti az úti okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban,
 
-l)[^29] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
+l)[^30] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
 
-(4)[^30] A konzuli tisztviselő közreműködői feladatai körében:
+(4)[^31] A konzuli tisztviselő közreműködői feladatai körében:
 
 a) ellenőrzi a kérelmező személyazonosságát, átveszi a magánútlevél, második magánútlevél, a diplomata- és a külügyi szolgálati útlevél kiállítására irányuló kérelmet,
 
@@ -56,19 +56,21 @@ f) gondoskodik az úti okmánynak az ügyfél részére történő átadásáró
 
 g) gondoskodik az át nem vett úti okmányok megőrzéséről, majd magánútlevél és második magánútlevél esetében az általános hatáskörű útlevélhatóságnak, a diplomata- és a külügyi szolgálati útlevél esetében a külpolitikáért felelős miniszternek történő megküldéséről,
 
-h) gondoskodik az úti okmány érvénytelenítéséről, selejtezéséről, megsemmisítésre történő előkészítéséről, magánútlevél és második magánútlevél esetében az általános hatáskörű útlevélhatóságnak, diplomata és külügyi szolgálati útlevél esetében a külpolitikáért felelős miniszternek történő megküldéséről,
+h)[^32] gondoskodik az úti okmány érvénytelenítéséről, selejtezésre és megsemmisítésre történő előkészítéséről, magánútlevél és második magánútlevél esetében az általános hatáskörű útlevélhatóságnak, diplomata és külügyi szolgálati útlevél esetében a külpolitikáért felelős miniszternek történő megküldéséről,
 
 i) jogszabályok keretei között gondoskodik az érvénytelenített okmányok visszaadásáról,
 
 j) az előtte tett bejelentés esetén rögzíti az okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban,
 
-k)[^31] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
+k)[^33] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
 
 [^24]: A 6. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^25]: A 7. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^26]: A 7. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^27]: A 7. § (1) bekezdés c) pontját a 478/2024. (XII. 31.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
 [^28]: A 7. § (3) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^29]: A 7. § (3) bekezdés l) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^30]: A 7. § (4) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^31]: A 7. § (4) bekezdés k) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^29]: A 7. § (3) bekezdés h) pontja a 184/2025. (VII. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^30]: A 7. § (3) bekezdés l) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^31]: A 7. § (4) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^32]: A 7. § (4) bekezdés h) pontja a 184/2025. (VII. 3.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^33]: A 7. § (4) bekezdés k) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

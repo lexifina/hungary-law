@@ -1,12 +1,12 @@
-## Menedékesek úti okmánya[^57]
+## Menedékesek úti okmánya[^59]
 
-11. §[^58] (1)[^59] Ha a menekültügyi hatóság által menedékesként elismert személy nem rendelkezik származási országa érvényes úti okmányával – kérelmére – hat hónapra érvényes úti okmánnyal kell ellátni.
+11. §[^60] (1)[^61] Ha a menekültügyi hatóság által menedékesként elismert személy nem rendelkezik származási országa érvényes úti okmányával – kérelmére – hat hónapra érvényes úti okmánnyal kell ellátni.
 
-(2)[^60] Az úti okmány csak érvényességi idején belül használható fel utazásra és a Magyarország területére való visszatérésre.
+(2)[^62] Az úti okmány csak érvényességi idején belül használható fel utazásra és a Magyarország területére való visszatérésre.
 
-(3)[^61] Az úti okmány egyszeri kiutazásra és visszautazásra használható fel.
+(3)[^63] Az úti okmány egyszeri kiutazásra és visszautazásra használható fel.
 
-(4)[^62] A menedékes úti okmánya tartalmazza:
+(4)[^64] A menedékes úti okmánya tartalmazza:
 
 a) a kérelmező családi és utónevét, születési helyét, idejét, nemét, állampolgárságát vagy hontalanságát, arcképmását, saját kezű aláírását;
 
@@ -14,9 +14,9 @@ b) a menedékes jogállást igazoló okmány számát, az okmányt kiállító h
 
 c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
 
-[^57]: A 11. §-t megelőző alcíme a 122/2004. (IV. 29.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
-[^58]: A 11. § a 122/2004. (IV. 29.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
-[^59]: A 11. § (1) bekezdése a 115/2007. (V. 24.) Korm. rendelet 7. § (2) bekezdésével megállapított, valamint a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
-[^60]: A 11. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^61]: A 11. § (3) bekezdése a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
-[^62]: A 11. § (4) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 111. § (4) bekezdése iktatta be.
+[^59]: A 11. §-t megelőző alcíme a 122/2004. (IV. 29.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
+[^60]: A 11. § a 122/2004. (IV. 29.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^61]: A 11. § (1) bekezdése a 115/2007. (V. 24.) Korm. rendelet 7. § (2) bekezdésével megállapított, valamint a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
+[^62]: A 11. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^63]: A 11. § (3) bekezdése a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
+[^64]: A 11. § (4) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 111. § (4) bekezdése iktatta be.
