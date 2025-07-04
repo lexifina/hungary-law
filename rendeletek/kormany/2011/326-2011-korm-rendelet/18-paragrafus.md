@@ -34,6 +34,8 @@ b) a külföldi vezetői engedélyről készült hiteles fordítás alapján sem
 
 (9) Ha egy másik EGT-állam által kiadott – a 8. mellékletben meghatározott 70. kódot és a kiadó harmadik állam országkódját tartalmazó – vezetői engedély jogosultja szokásos tartózkodási helyét Magyarországra helyezi át, a vezetői engedély kiadására irányuló eljárásban az e rendeletben meghatározott, eredeti vezetői engedélyt kiadó harmadik ország tekintetében alkalmazandó szabályokat kell alkalmazni, és a (7) bekezdés szerint kell eljárni.
 
+(10)[^107] A harmadik ország által kiállított vezetői engedély visszahonosítására csak abban az esetben kerülhet sor, ha a harmadik ország által kiállított engedélyt a visszahonosítási eljárás során az illetékes hatóságnál benyújtják. A visszahonosítás során a harmadik ország által kiállított vezetői engedélyt – a magyar vezetői engedély kiadásakor – a közlekedési igazgatási hatóság bevonja, és a Nyilvántartónak megküldi.
+
 [^99]: A 18. § (1) bekezdés nyitó szövegrésze a 467/2015. (XII. 29.) Korm. rendelet 29. § c) pontja, a 375/2021. (VI. 30.) Korm. rendelet 16. § 5. pontja szerint módosított szöveg.
 [^100]: A 18. § (1) bekezdés b) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
 [^101]: A 18. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
@@ -42,3 +44,4 @@ b) a külföldi vezetői engedélyről készült hiteles fordítás alapján sem
 [^104]: A 18. § (3b) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (7) bekezdése iktatta be.
 [^105]: A 18. § (3c) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 47. §-a iktatta be.
 [^106]: A 18. § (6) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 7. §-ával megállapított, a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^107]: A 18. § (10) bekezdését a 186/2025. (VII. 3.) Korm. rendelet 1. §-a iktatta be.

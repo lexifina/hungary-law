@@ -1,8 +1,8 @@
-## 26/A. [^573] Mentességi nyilvántartásba vétel
+## 26/A. [^575] Mentességi nyilvántartásba vétel
 
-118/A. § (1)[^574] Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíj tv.), a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet (a továbbiakban: Díjrendelet), valamint a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet (a továbbiakban: miniszteri rendelet) alapján mentességre jogosultak (a továbbiakban együtt: mentességre jogosult) az útdíjköteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, a megengedett legnagyobb tengelyterhelést, valamint a megengedett legnagyobb tengelycsoport-terhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) felvenni kért járműveinek Kknyt. 9/C. § (1) bekezdésében meghatározott adatait, továbbá az ezzel kapcsolatos változásokat kérelemre – az (1a) és a (4) bekezdésben foglaltak kivételével – a közlekedési igazgatási hatóság jegyzi be a mentességi nyilvántartásba.
+118/A. § (1)[^576] Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény (a továbbiakban: Útdíj tv.), a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet (a továbbiakban: Díjrendelet), valamint a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet (a továbbiakban: miniszteri rendelet) alapján mentességre jogosultak (a továbbiakban együtt: mentességre jogosult) az útdíjköteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, a megengedett legnagyobb tengelyterhelést, valamint a megengedett legnagyobb tengelycsoport-terhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) felvenni kért járműveinek Kknyt. 9/C. § (1) bekezdésében meghatározott adatait, továbbá az ezzel kapcsolatos változásokat kérelemre – az (1a) és a (4) bekezdésben foglaltak kivételével – a közlekedési igazgatási hatóság jegyzi be a mentességi nyilvántartásba.
 
-(1a)[^575] A mentességi nyilvántartásba felvenni kért járműveknek az (1) bekezdésben meghatározott adatait és az ezzel kapcsolatos változásokat
+(1a)[^577] A mentességi nyilvántartásba felvenni kért járműveknek az (1) bekezdésben meghatározott adatait és az ezzel kapcsolatos változásokat
 
 a) a Nyilvántartó jegyzi be a mentességi nyilvántartásba
 
@@ -36,15 +36,15 @@ c) a rendőrség általános rendőrségi feladatok ellátására létrehozott s
 
 (2) A mentességre jogosult a kérelmében nyilatkozik a bejelentésben foglalt jogosultságot megalapozó tényekről, adatokról.
 
-(2a)[^576] A közlekedési igazgatási hatóság a miniszteri rendelet 14. § (1) bekezdés a)–b), i) és j) pontjában meghatározott járművek mentességet megalapozó jellegét a járműnyilvántartás vagy a jármű műszaki adatlapjának adatai, alapján ellenőrzi.
+(2a)[^578] A közlekedési igazgatási hatóság a miniszteri rendelet 14. § (1) bekezdés a)–b), i) és j) pontjában meghatározott járművek mentességet megalapozó jellegét a járműnyilvántartás vagy a jármű műszaki adatlapjának adatai, alapján ellenőrzi.
 
-(2b)[^577] A mentességre jogosult a miniszteri rendelet 14. § (1) bekezdés g) pontjában meghatározott jármű mentességet megalapozó jellegét a járműre a közlekedési hatóság által a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet alapján kiadott, belföldi menetrend szerinti személyszállítási tevékenységre jogosító engedélykivonattal igazolja.
+(2b)[^579] A mentességre jogosult a miniszteri rendelet 14. § (1) bekezdés g) pontjában meghatározott jármű mentességet megalapozó jellegét a járműre a közlekedési hatóság által a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet alapján kiadott, belföldi menetrend szerinti személyszállítási tevékenységre jogosító engedélykivonattal igazolja.
 
-(2c)[^578] A mentességre jogosult kérelmére a miniszteri rendeletben meghatározott jármű mentességet megalapozó jellegének igazolása érdekében az eljáró hatóság megkeresi a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott országos nyilvántartást vezető hatóságot.
+(2c)[^580] A mentességre jogosult kérelmére a miniszteri rendeletben meghatározott jármű mentességet megalapozó jellegének igazolása érdekében az eljáró hatóság megkeresi a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott országos nyilvántartást vezető hatóságot.
 
-(3)[^579] A mentességi nyilvántartásba történő bejegyzés ügyében eljáró hatóság a bejelentésben foglalt jogosultság fennállása esetén haladéktalanul gondoskodik az (1) bekezdésben meghatározott adatok mentességi nyilvántartásba vételéről.
+(3)[^581] A mentességi nyilvántartásba történő bejegyzés ügyében eljáró hatóság a bejelentésben foglalt jogosultság fennállása esetén haladéktalanul gondoskodik az (1) bekezdésben meghatározott adatok mentességi nyilvántartásba vételéről.
 
-(4)[^580] A technikai feltételek fennállása esetén
+(4)[^582] A technikai feltételek fennállása esetén
 
 a) az Útdíj tv. 9. § (1) bekezdés a) pontjában, valamint a Díjrendelet 2. § (1) bekezdés a) pontjában meghatározott mentességre jogosult,
 
@@ -62,14 +62,14 @@ közvetlen hozzáféréssel a Nyilvántartó által biztosított felhasználói 
 
 (8) Az (1) bekezdésben meghatározott adatokban bekövetkezett változást a jogosult 30 napon belül köteles bejelenteni.
 
-(9)[^581]
+(9)[^583]
 
-[^573]: A 26/A. alcímet (118/A. §) a 467/2015. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^574]: A 118/A. § (1) bekezdése a 67/2022. (II. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^575]: A 118/A. § (1a) bekezdését a 67/2022. (II. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^576]: A 118/A. § (2a) bekezdését a 233/2017. (VIII. 14.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 67/2022. (II. 28.) Korm. rendelet 4. § a) pontja és 5. §-a szerint módosított szöveg.
-[^577]: A 118/A. § (2b) bekezdését a 233/2017. (VIII. 14.) Krom. rendelet 13. § (2) bekezdése iktatta be, szövege a 717/2021.(XII. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^578]: A 118/A. § (2c) bekezdését a 717/2021.(XII. 20.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^579]: A 118/A. § (3) bekezdése a 67/2022. (II. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^580]: A 118/A. § (4) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^581]: A 118/A. § (9) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 477/2016. (XII. 27.) Korm. rendelet 57. § (10) bekezdés e) pontja.
+[^575]: A 26/A. alcímet (118/A. §) a 467/2015. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^576]: A 118/A. § (1) bekezdése a 67/2022. (II. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^577]: A 118/A. § (1a) bekezdését a 67/2022. (II. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^578]: A 118/A. § (2a) bekezdését a 233/2017. (VIII. 14.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 67/2022. (II. 28.) Korm. rendelet 4. § a) pontja és 5. §-a szerint módosított szöveg.
+[^579]: A 118/A. § (2b) bekezdését a 233/2017. (VIII. 14.) Krom. rendelet 13. § (2) bekezdése iktatta be, szövege a 717/2021.(XII. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^580]: A 118/A. § (2c) bekezdését a 717/2021.(XII. 20.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^581]: A 118/A. § (3) bekezdése a 67/2022. (II. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^582]: A 118/A. § (4) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^583]: A 118/A. § (9) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 477/2016. (XII. 27.) Korm. rendelet 57. § (10) bekezdés e) pontja.

@@ -101,3 +101,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2025-03-01 | 2011-326-20-22.94 | 468/2016. (XII. 23.) Korm. rendelet |
 | 2025-04-01 | 2011-326-20-22.96 | 425/2024. (XII. 23.) Korm. rendelet |
 | 2025-05-01 | 2011-326-20-22.97 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2025-07-04 | 2011-326-20-22.99 | 186/2025. (VII. 3.) Korm. rendelet |

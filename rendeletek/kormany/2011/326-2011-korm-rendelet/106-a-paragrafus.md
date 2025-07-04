@@ -1,4 +1,4 @@
-106/A. §[^516] (1) A közlekedési igazgatási hatóság a 63/A. § (2) bekezdés 7–12. pontja alapján kiadott ideiglenes rendszámtáblát hat hónapra visszavonja, ha azt nem az engedélynek megfelelően használták.
+106/A. §[^518] (1) A közlekedési igazgatási hatóság a 63/A. § (2) bekezdés 7–12. pontja alapján kiadott ideiglenes rendszámtáblát hat hónapra visszavonja, ha azt nem az engedélynek megfelelően használták.
 
 (2) A közlekedési igazgatási hatóság a 63/A. § (2) bekezdés 7–12. pontja alapján kiadott ideiglenes rendszámtáblát egy évre vonja vissza, ha a rendszám jogosítottja:
 
@@ -18,4 +18,4 @@ d) az engedélyben előírt korlátozásokat hat hónapon belül két alkalommal
 
 (6) A (4) és (5) bekezdésben foglaltak a 63/A. § (2) bekezdés 7. pontjában meghatározott járműgyártó, a 63/A. § (2) bekezdés 10. pontjában meghatározott közlekedési kutatóintézet, valamint a 63/A. § (2) bekezdés 11. pontjában meghatározott járműfejlesztő szervezet esetében nem alkalmazható.
 
-[^516]: A 106/A. §-t a 303/2021. (VI. 1.) Korm. rendelet 22. §-a iktatta be.
+[^518]: A 106/A. §-t a 303/2021. (VI. 1.) Korm. rendelet 22. §-a iktatta be.

@@ -1,4 +1,4 @@
-91. §[^442] (1) Ideiglenes forgalmi engedélyt kell kiadni a 63/A. § (2) bekezdés 4. pont a) alpontjában meghatározott, a NAV vámszerve által kiadott „I” betűjelű ideiglenes rendszámtábla kivételével, valamennyi ideiglenes rendszámtáblához.
+91. §[^444] (1) Ideiglenes forgalmi engedélyt kell kiadni a 63/A. § (2) bekezdés 4. pont a) alpontjában meghatározott, a NAV vámszerve által kiadott „I” betűjelű ideiglenes rendszámtábla kivételével, valamennyi ideiglenes rendszámtáblához.
 
 (2) Az ideiglenes forgalmi engedély érvényességi ideje
 
@@ -20,14 +20,14 @@ e) a 63/A. § (2) bekezdés 12. pontjában meghatározott esetben a Műszaki Ada
 
 (4) A 63/A. § (2) bekezdés 12. pontja alapján kiadott ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély érvényességi ideje – új rendszámtábla kiadása nélkül – cserével meghosszabbítható a versenyjármű ismételten elvégzett vizsgálatakor kiadott Műszaki Adatlap alapján.
 
-(5)[^443] A 2025. január 31. napjáig a 63/A. § (2) bekezdés 12. pontja szerinti ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély érvényessége 2025. február 1. napjától cserével nem hosszabbítható meg, a Műszaki adatlap alapján a 14/A. melléklet B. pontja szerinti ideiglenes rendszámtáblát és új ideiglenes forgalmi engedélyt kell kiadni.
+(5)[^445] A 2025. január 31. napjáig a 63/A. § (2) bekezdés 12. pontja szerinti ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély érvényessége 2025. február 1. napjától cserével nem hosszabbítható meg, a Műszaki adatlap alapján a 14/A. melléklet B. pontja szerinti ideiglenes rendszámtáblát és új ideiglenes forgalmi engedélyt kell kiadni.
 
 (6) A 63/A. § (2) bekezdés 6. pontja szerinti ideiglenes rendszámtáblához kiadott ideiglenes forgalmi engedély az érvényességi idején belül – új rendszámtábla kiadása nélkül – cserével, a kérelem benyújtásától számított három évre ismételten meghosszabbítható a rendszámtábla használatára való jogosultság fennállásának igazolásával egyidejűleg.
 
 (7) Az M betűjelű ideiglenes rendszámtáblához kiadott ideiglenes forgalomban tartási engedély érvényessége 2022. július 1-jétől cserével nem hosszabbítható meg, a jogosultság fennállásának igazolása esetén a 63/A. § (2) bekezdés 6. pontja szerinti ideiglenes rendszámtáblát és ideiglenes forgalmi engedélyt kell kiadni.
 
-(8)[^444] A (6) és (7) bekezdésben meghatározott eljárás során a 75/D. § (1) bekezdés e) pontját nem kell alkalmazni.
+(8)[^446] A (6) és (7) bekezdésben meghatározott eljárás során a 75/D. § (1) bekezdés e) pontját nem kell alkalmazni.
 
-[^442]: A 91. § a 303/2021. (VI. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^443]: A 91. § (5) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^444]: A 91. § (8) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 32. §-a iktatta be.
+[^444]: A 91. § a 303/2021. (VI. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^445]: A 91. § (5) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^446]: A 91. § (8) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 32. §-a iktatta be.
