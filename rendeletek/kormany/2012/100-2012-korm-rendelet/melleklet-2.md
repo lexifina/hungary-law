@@ -6,23 +6,23 @@
 
 | 3. | örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal |
+| 4. | környezetvédelmi hatósági eljárások (ideértve a zajvédelemmel kapcsolatos valamennyi eljárást)[^49] | Pest Vármegyei Kormányhivatal |
 
 | 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala |
 
 | 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 7.[^46] | vízügyi és vízvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal |
+| 7.[^50] | vízügyi és vízvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
 | 9. | földmérési, ingatlan- nyilvántartási hatósági eljárások, telekalakítási eljárások | Budapest Főváros Kormányhivatala |
 
-| 10.[^47] | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | illetékes fővárosi és vármegyei kormányhivatal |
+| 10.[^51] | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 11.[^48] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
+| 11.[^52] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 12.[^49] | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | illetékes fővárosi és vármegyei kormányhivatal |
+| 12.[^53] | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
 | 13. | bányafelügyeleti hatósági eljárások | Szabályozott Tevékenységek Felügyeleti Hatósága |
 
@@ -30,7 +30,7 @@
 
 | 15. | üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^50]
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^54]
 
 A Kossuth Lajos téri beruházási programmal összefüggő ingatlanok közterület használatának időtartama
 
@@ -48,8 +48,9 @@ A Kossuth Lajos téri beruházási programmal összefüggő ingatlanok közterü
 
 | 6. | Vajkay utca felszíni rendezése | Budapest V. kerület, belterület 24899 helyrajzi számú ingatlan | – | A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet módosításáról szóló 97/2024. (V. 7.) Korm. rendelet hatálybalépésének napjától 2026. 03. 31-ig |
 
-[^46]: Az 1. mellékletben foglalt táblázat 7. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^47]: Az 1. mellékletben foglalt táblázat 10. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^48]: Az 1. mellékletben foglalt táblázat 11. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^49]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^50]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 97/2024. (V. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: Az 1. mellékletben foglalt táblázat C:4 mezője a 190/2025. (VII. 3.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^50]: Az 1. mellékletben foglalt táblázat 7. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^51]: Az 1. mellékletben foglalt táblázat 10. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^52]: Az 1. mellékletben foglalt táblázat 11. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^53]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^54]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 97/2024. (V. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
