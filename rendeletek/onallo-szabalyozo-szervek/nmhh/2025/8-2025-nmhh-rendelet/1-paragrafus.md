@@ -12,4 +12,6 @@
 
 ## 1. A nyilvános elektronikus hírközlési szolgáltatáshoz kapcsolódó adatvédelmi és titoktartási kötelezettségre, az adatkezelés és a titokvédelem különleges feltételeire, a hálózatok és a szolgáltatások biztonságára és integritására, a forgalmi és számlázási adatok kezelésére, valamint az azonosítókijelzésre és hívásátirányításra vonatkozó szabályokról szóló 4/2012. (I. 24.) NMHH rendelet módosítása
 
-1. § Hatályát veszti a nyilvános elektronikus hírközlési szolgáltatáshoz kapcsolódó adatvédelmi és titoktartási kötelezettségre, az adatkezelés és a titokvédelem különleges feltételeire, a hálózatok és a szolgáltatások biztonságára és integritására, a forgalmi és számlázási adatok kezelésére, valamint az azonosítókijelzésre és hívásátirányításra vonatkozó szabályokról szóló 4/2012. (I. 24.) NMHH rendelet 3. alcíme.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
