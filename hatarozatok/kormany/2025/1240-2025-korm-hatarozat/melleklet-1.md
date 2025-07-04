@@ -12,7 +12,7 @@
 
 | Határidő: | a felmerülés ütemében |
 
-## 4. visszavonja az egyes közvetlen uniós pályázatok önerő költségének biztosításáról szóló 1548/2023. (XII. 13.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1240/2025. (VII. 3.) Korm. határozathoz
 
@@ -79,3 +79,5 @@
 | 29 | 2025 | EDF – Európai Védelmi Alap | CyEx Kft. | – | – | 124 596 000 | 33 438 900 | – |
 
 | 30 | 2025 | Digitális Európa Program (HPC EDIH) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság (konzorciumvezető) és a konzorcium tagjai | – | – | – | 147 563 152 | 129 290 792 |
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
