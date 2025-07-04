@@ -30,10 +30,12 @@ bb) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő fe
 
 a) kétévente március 31-ig
 
-aa) a Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) pontja szerinti szervezetek vonatkozásában az (EU) 2022/2555 európai parlamenti és tanácsi irányelv I. vagy II. mellékletében említett ágazatok és alágazatok szerinti bontásban az alapvető és fontos szervezetek számáról, valamint
+aa)[^27] a Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) és f) pontja, valamint 1. § (2a) bekezdése szerinti szervezetek vonatkozásában az (EU) 2022/2555 európai parlamenti és tanácsi irányelv I. vagy II. mellékletében említett ágazatok és alágazatok szerinti bontásban az alapvető és fontos szervezetek számáról, valamint
 
 ab) az azonosított alapvető és fontos szervezetek számáról, az (EU) 2022/2555 európai parlamenti és tanácsi irányelv I. vagy II. mellékletében említett ágazatuk, alágazatuk, az általuk nyújtott szolgáltatás típusa szerinti bontásban, valamint az azonosításuk alapjául szolgáló rendelkezésről,
 
 b) az Európai Bizottság kérése esetén az ab) pontban említett alapvető és fontos szervezetek nevéről, amennyiben az nemzetbiztonsági, honvédelmi vagy egyéb biztonsági érdeket nem sért.
 
 (4) A Központ háromhavonta tájékoztatja az egyedüli kapcsolattartó pontot a bejelentett kiberbiztonsági incidensekről, kiberfenyegetésekről és majdnem bekövetkezett eseményekről a bejelentésekre vonatkozó statisztikai kimutatás megküldése útján.
+
+[^27]: A 113. § (3) bekezdés a) pont aa) alpontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 14. pontja szerint módosított szöveg.

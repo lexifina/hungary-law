@@ -14,4 +14,6 @@ a Nemzetbiztonsági Szakszolgálatot jelöli ki.
 
 (2) A Kormány a Kiberbiztonsági tv. 23. § (2) bekezdése szerinti honvédelmi kiberbiztonsági hatóságként a honvédelemért felelős minisztert jelöli ki.
 
-(3) A honvédelmi kiberbiztonsági hatóság tevékenységére – a 18. § e) pontjában, a 25. §-ban, a 39. § (3) és (4) bekezdésében foglaltak kivételével – a nemzeti kiberbiztonsági hatóságra vonatkozó rendelkezéseket kell alkalmazni.
+(3)[^6] A honvédelmi kiberbiztonsági hatóság tevékenységére – a 17. § (1) bekezdés e) pontjában, a 18. § e) pontjában, a 25. §-ban, a 30. § (6) bekezdésében, a 39. § (3) és (4) bekezdésében foglaltak kivételével – a nemzeti kiberbiztonsági hatóságra vonatkozó rendelkezéseket kell alkalmazni.
+
+[^6]: A 16. § (3) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 16. § 6. pontja szerint módosított szöveg.

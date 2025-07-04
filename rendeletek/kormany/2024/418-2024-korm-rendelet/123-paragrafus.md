@@ -1,3 +1,3 @@
-123. §[^3]
+123. §[^35]
 
-[^3]: A 123. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 123. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -26,12 +26,17 @@
 
 11. a sérülékenységvizsgálat lefolytatásához szükséges feltételeket és azok biztosításának módját,
 
+11a.[^14] gazdálkodó szervezet esetében – „jelentős” vagy „magas” biztonsági osztályba sorolt elektronikus információs rendszerre kiterjedő sérülékenységvizsgálat esetén – az SZTFH elnökének az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló rendelete szerinti „jelentős” vagy „magas” megbízhatósági szintre nyilvántartásba vett vizsgáló laboratórium megnevezését és a vizsgáló laboratórium által a sérülékenységvizsgálat során elvégzendő tevékenységek körét,
+
 12. a sérülékenységvizsgálat időtartamát, végrehajtásának ütemtervét,
 
 13. a sérülékenységvizsgálat szüneteltetésére, megszüntetésére okot adó körülményeket, valamint
 
-14. a szervezet vezetőjének vagy az általa meghatalmazott, döntési jogosultsággal rendelkező személy aláírását.
+14.[^15] a szervezet vezetőjének vagy az általa meghatalmazott, a szervezet vezetőjének szervezetszerű helyettesítésére jogosult vezető aláírását.
 
 (3) Ha a sérülékenységvizsgálatot a nemzeti kiberbiztonsági hatóság rendeli el, a sérülékenységvizsgálati alapdokumentumban a hatósági döntésben rögzített vizsgálati feladatokat is rögzíteni kell, valamint nem kell feltüntetni a (2) bekezdés 14. pontjában foglaltakat.
 
 (4) Ha a sérülékenységvizsgálatot a sérülékenységvizsgálat végzésére jogosult állami szerv indítja, nem kell feltüntetni a (2) bekezdés 14. pontjában foglaltakat.
+
+[^14]: Az 53. § (2) bekezdés 11a. pontját a 189/2025. (VII. 3.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^15]: Az 53. § (2) bekezdés 14. pontja a 189/2025. (VII. 3.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

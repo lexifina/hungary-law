@@ -6,6 +6,8 @@
 
 (3) A nemzeti kiberbiztonsági hatóság az éves ellenőrzési tervet a végrehajtás során felülvizsgálja, és szükség szerint módosítja.
 
-(4) A nemzeti kiberbiztonsági hatóság az ellenőrzési tervben foglaltaktól eltérhet, ha olyan azonnali ellenőrzéseket vagy eljárásokat kell lefolytatnia, amelyek a magyar kiberteret, a nemzeti elektronikus adatvagyont, az állam és az állampolgárok számára kiemelten fontos elektronikus információs rendszereket fenyegető súlyos biztonsági események elhárítását szolgálják.
+(4)[^13] A nemzeti kiberbiztonsági hatóság az ellenőrzési tervben foglaltaktól eltérhet, ha olyan azonnali ellenőrzéseket vagy eljárásokat kell lefolytatnia, amelyek a magyar kiberteret, a nemzeti elektronikus adatvagyont, az állam és az állampolgárok számára kiemelten fontos elektronikus információs rendszereket fenyegető súlyos kiberbiztonsági incidensek elhárítását szolgálják.
 
 (5) A honvédelmi kiberbiztonsági hatóság az éves ellenőrzési terve összeállításához adatot kér a Vbö. szerinti honvédelmi ágazati kijelölő hatóságtól. A honvédelmi kiberbiztonsági hatóság éves ellenőrzési tervét, valamint a (3) bekezdés szerinti módosítást a honvédelemért felelős miniszter jóváhagyja.
+
+[^13]: A 31. § (4) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 16. § 8. pontja szerint módosított szöveg.

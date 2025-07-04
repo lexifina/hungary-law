@@ -8,7 +8,7 @@ c) a szervezet által meghatározott biztonsági osztályhoz tartozó védelmi i
 
 d) a szervezet által elfogadott kiberbiztonsági kockázatkezelési intézkedések – többek között a dokumentált kiberbiztonsági szabályzatok – értékeléséhez, valamint az információk bejelentésére vonatkozó kötelezettség betartásának értékeléséhez szükséges tájékoztatást kérni,
 
-e) a védelmi intézkedések és az ehhez kapcsolódó eljárási szabályok teljesülését ellenőrizni,
+e)[^7] a Kiberbiztonsági tv. 1. § (1) bekezdés b) pontja szerinti azon szervezet esetében, amely egyúttal a Kiberbiztonsági tv. 2. és 3. melléklete szerinti szervezet is, a kiberbiztonsági audit eredményeképp előállított auditjelentést megalapozó bizonyítékokhoz hozzáférni, és ezeket bekérni, ezek tartalmát felülvizsgálni,
 
 f) rendszeres, eseti és célzott biztonsági ellenőrzéseket végezni, ideértve a helyszíni ellenőrzéseket, a távoli felügyeleti intézkedéseket és a véletlenszerű ellenőrzéseket is,
 
@@ -39,3 +39,5 @@ c) közhiteles nyilvántartásokból és
 d) az adatkezelést végző szervtől
 
 a tényállás tisztázása keretében adatot igényel, azt számára a megkeresett szervezet, szerv térítésmentesen biztosítja.
+
+[^7]: A 17. § (1) bekezdés e) pontja a 189/2025. (VII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.

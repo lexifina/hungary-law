@@ -1,3 +1,3 @@
-135. §[^15]
+135. §[^47]
 
-[^15]: A 135. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 135. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

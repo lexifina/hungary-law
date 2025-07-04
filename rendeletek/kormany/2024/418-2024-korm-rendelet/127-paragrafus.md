@@ -1,3 +1,3 @@
-127. §[^7]
+127. §[^39]
 
-[^7]: A 127. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 127. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

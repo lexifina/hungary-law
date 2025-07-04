@@ -44,8 +44,10 @@
 
 21. a sérülékenységvizsgálatot végző szerv aláírását.
 
-(3) Az állásfoglalás tervezetét a sérülékenységvizsgálatot végző szerv megküldi a szervezet részére véleményezésre, amelyre egy ízben, 8 napon belül, a szervezet vezetője észrevételt tehet. Ebben javaslatot tehet a kockázat felülvizsgálatára és legfeljebb egy szintet módosíthat a kockázati besoroláson. A vélemény elfogadásáról a sérülékenységvizsgálatot végző szerv dönt.
+(3)[^16] A sérülékenységvizsgálati alapdokumentum eltérő rendelkezése hiányában az állásfoglalás tervezetét a sérülékenységvizsgálatot végző szerv megküldi a szervezet részére véleményezésre, amelyre a szervezet vezetője egy alkalommal, 8 napon belül észrevételt tehet. Ebben javaslatot tehet a kockázat felülvizsgálatára, és legfeljebb egy szintet módosíthat a kockázati besoroláson. A vélemény elfogadásáról a sérülékenységvizsgálatot végző szerv dönt.
 
 (4) A kiberbiztonsági auditjelentésben foglaltakat a nemzeti kiberbiztonsági hatóság abban az esetben fogadja el a (2) bekezdés szerinti sérülékenységvizsgálati állásfoglalással azonos értékűnek, ha az tartalmazza (2) bekezdésben meghatározott szempontokat és információkat.
 
 (5) A honvédelmi célú elektronikus információs rendszerek vonatkozásában lefolytatott sérülékenységvizsgálat állásfoglalás tervezetét az érintett szervezet a szakmai irányítását ellátó szervvel vagy a tulajdonosi joggyakorlóval is megosztja.
+
+[^16]: A 62. § (3) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 6. §-ával megállapított szöveg.

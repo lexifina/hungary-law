@@ -4,6 +4,8 @@ a) a kiberbiztonsági incidenst – a Központ jelzése alapján – a szervezet
 
 b) a kiberbiztonsági incidens mérete, az incidens által okozott kár értéke ezt indokolja,
 
-c) a Központ kezdeményezése esetén.
+c)[^9] a Központ kezdeményezi.
 
 (2) A honvédelmi kiberbiztonsági hatóság a tudomására jutott kiberbiztonsági incidens kivizsgálása érdekében hatósági eljárást indít.
+
+[^9]: A 23. § (1) bekezdés c) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 7. pontja szerint módosított szöveg.

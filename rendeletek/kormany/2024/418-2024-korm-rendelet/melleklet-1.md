@@ -26,15 +26,15 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 3. Az adatok sértetlenség és rendelkezésre állás szerinti értékelése
 
-3.1. SR1: az adatok SÉRTETLENSÉGE VAGY RENDELKEZÉSRE ÁLLÁSA NEM KRITIKUS
+3.1.[^66] SR1: az adatok SÉRTETLENSÉGE ÉS RENDELKEZÉSRE ÁLLÁSA NEM KRITIKUS
 
-## Az elektronikus információs rendszeren tárolt és kezelt adatok sértetlenségének vagy rendelkezésre állásának sérülése vagy elvesztése a szervezetnek vagy más személynek nem, vagy csak elhanyagolható mértékben okozhat anyagi vagy reputációs veszteséget.
+## Az elektronikus információs rendszeren tárolt és kezelt adatok sértetlenségének és rendelkezésre állásának sérülése vagy elvesztése a szervezetnek vagy más személynek nem, vagy nem jelentős mértékben okozhat anyagi vagy reputációs veszteséget.
 
 3.2. SR2: az adatok SÉRTETLENSÉGE VAGY RENDELKEZÉSRE ÁLLÁSA KRITIKUS
 
 ## Az elektronikus információs rendszeren tárolt és kezelt adatok sértetlenségének vagy rendelkezésre állásának sérülése vagy elvesztése a szervezetnek vagy más személynek jelentős, vagy kritikus mértékű anyagi vagy reputációs veszteséget okozhat.
 
-4. Az adatosztályozás eredménye
+4.[^67] Az adatosztályozás eredménye
 
 4.1. Titkosítás
 
@@ -54,7 +54,7 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 ## – földrajzi korlátozás nélkül,
 
-## – nem privát felhőszolgáltatás igénybevétele esetén: korlátozás nélkül
+## – nem privát felhőszolgáltatás igénybevétele esetén korlátozás nélkül
 
 ## kezelhetők és tárolhatók.
 
@@ -62,13 +62,13 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 ## Az F2 besorolású adatok
 
-## – SR1 besorolású adatok esetén földrajzi korlátozás nélkül, SR2 besorolású adatok esetén kizárólag EGT tagállam területén,
+## – SR1 besorolású adatok esetén földrajzi korlátozás nélkül, SR2 besorolású adatok esetén kizárólag EGT-tagállam területén,
 
-## – nem privát felhőszolgáltatás igénybevétele esetén:
+## – nem privát felhőszolgáltatás igénybevétele esetén
 
-## – EGT tagállam területén kívül kizárólag az igénybe vett szolgáltatás vonatkozásában harmadik fél általi, a kiberbiztonsági hatóság honlapján közzétett lista szerinti kiberbiztonsági tanúsítással, audittal vagy engedélyezéssel rendelkező (a továbbiakban: harmadik fél által tanúsított) nem privát felhőben, vagy
+## – EGT-tagállam területén kívül kizárólag az igénybe vett szolgáltatás vonatkozásában harmadik fél általi, a kiberbiztonsági hatóság honlapján közzétett lista szerinti kiberbiztonsági tanúsítással, audittal vagy engedélyezéssel rendelkező (a továbbiakban: harmadik fél által tanúsított) nem privát felhőben vagy
 
-## – EGT tagállam területén belül akár nem tanúsított nem privát felhőben is
+## – EGT-tagállam területén belül akár nem tanúsított nem privát felhőben is
 
 ## kezelhetők és tárolhatók.
 
@@ -76,14 +76,43 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 ## Az F3 besorolású adatok
 
-## – kizárólag EGT tagállam területén belül
+## – kizárólag EGT-tagállam területén belül
 
-## – nem privát felhőszolgáltatás igénybevétele esetén:
+## – nem privát felhőszolgáltatás igénybevétele esetén
 
-## – harmadik fél által tanúsított nem privát felhőben, vagy
+## – harmadik fél által tanúsított nem privát felhőben vagy
 
 ## – nem tanúsított nem privát felhőszolgáltatás igénybevétele esetén kizárólag Magyarország területén
 
 ## kezelhetők és tárolhatók.
 
 4.2.2.4. F4: ha a B és SR összesített értéke: 5 vagy 6
+
+## Az F4 besorolású adatok
+
+## – kizárólag Magyarország területén,
+
+## – felhőszolgáltatás igénybevétele esetén
+
+## – harmadik fél által tanúsított privát felhőben vagy
+
+## – kormányzati felhőben
+
+## kezelhetők.
+
+4.3. Az adatosztályozás eredményének összesítése:
+
+|  | A | B | C |
+
+| 1 |  | SR1 | SR2 |
+
+| 2 | B1 | F1 | F2 |
+
+| 3 | B2 | F2 | F3 |
+
+| 4 | B3 | F3 | F4 |
+
+| 5 | B4 | F4 | F4 |
+
+[^66]: Az 1. melléklet 3. pont 3.1. alpontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 16. és 17. pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet 4. pontja a 189/2025. (VII. 3.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
