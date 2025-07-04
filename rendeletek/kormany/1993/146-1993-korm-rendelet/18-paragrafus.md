@@ -74,6 +74,8 @@ adja át vagy erre irányuló kérelem és igazgatási szolgáltatási díj megf
 
 (9)[^146] A hatósági igazolványt a 21. § (9) bekezdése szerinti esetben a kijelölt kormányhivatal kizárólag belföldön, postai úton könyvelt küldeményként kézbesíti a szabad mozgás és tartózkodás jogával rendelkező személynek az igazgatási szolgáltatási díjak idegenrendészeti hatóságnál történő megfizetése esetén.
 
+(10)[^147] A (9) bekezdés alapján kézbesített és át nem vett hatósági igazolványt a kiadását követő 60 nap elteltével a kijelölt kormányhivatal érvényteleníti, és gondoskodik e ténynek a hatósági igazolvány nyilvántartásban való feltüntetéséről.
+
 [^121]: Az R. 18. §-a a 230/2000. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^122]: Az R. 18. §-ának (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 49. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^123]: Az R. 18. § (2) bekezdése a 478/2024. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -100,3 +102,4 @@ adja át vagy erre irányuló kérelem és igazgatási szolgáltatási díj megf
 [^144]: Az R. 18. § (5) bekezdés számozását (7) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 6. § (4) bekezdése, szövege az 572/2020. (XII. 9.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 478/2024. (XII. 31.) Korm. rendelet 12. § j) pontja szerint módosított szöveg.
 [^145]: Az R. 18. § (8) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 21. § (5) bekezdése iktatta be, szövege a 478/2024. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^146]: Az R. 18. § (9) bekezdését a 478/2024. (XII. 31.) Korm. rendelet 4. §-a iktatta be.
+[^147]: Az R. 18. § (10) bekezdését a 185/2025. (VII. 3.) Korm. rendelet 1. §-a iktatta be.

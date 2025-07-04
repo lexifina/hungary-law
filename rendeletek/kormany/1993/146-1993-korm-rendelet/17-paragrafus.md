@@ -54,7 +54,7 @@ d)[^116] gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása,
 
 (4)[^119] Az eljáró hatóság a hatósági igazolványhoz – a polgár kérelmére – kiállítja az (EU) 2016/1191 európai parlamenti és tanácsi rendeletben meghatározott többnyelvű formanyomtatványt.
 
-(5)[^120] Az eljáró hatóság a hatósági igazolvány kiállításáért, pótlásáért, valamint belföldön postai úton, könyvelt küldeményként történő kézbesítéséért fizetendő igazgatási szolgáltatási díj megfizetését tanúsító iratot a megfizetéstől számított 5 évig őrzi, ezt követően azt az iratkezelésre irányadó jogszabályok szerint selejtezi.
+(5)[^120]
 
 [^96]: Az R.17. §-a a 230/2000. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^97]: Az R. 17. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
@@ -80,4 +80,4 @@ d)[^116] gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása,
 [^117]: Az R. 17. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 478/2024. (XII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^118]: Az R. 17. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § d) pontja szerint módosított szöveg.
 [^119]: Az R. 17. § (4) bekezdését a 269/2018. (XII. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^120]: Az R. 17. § (5) bekezdését a 478/2024. (XII. 31.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^120]: Az R. 17. § (5) bekezdését a 478/2024. (XII. 31.) Korm. rendelet 2. § (3) bekezdése iktatta be, a 185/2025. (VII. 3.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.

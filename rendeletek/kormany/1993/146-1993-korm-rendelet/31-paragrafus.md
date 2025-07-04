@@ -1,14 +1,14 @@
-31. § (1)[^256] A polgár lakcím-bejelentési kötelezettségét – a 29. § (3) bekezdése, valamint a (2)–(5) bekezdés szerinti esetek kivételével – személyesen, illetve törvényes képviselője vagy meghatalmazottja útján teljesítheti.
+31. § (1)[^258] A polgár lakcím-bejelentési kötelezettségét – a 29. § (3) bekezdése, valamint a (2)–(5) bekezdés szerinti esetek kivételével – személyesen, illetve törvényes képviselője vagy meghatalmazottja útján teljesítheti.
 
 (2) Ha a bejelentési kötelezettség több együtt költöző hozzátartozót érint, a bejelentést valamennyiükre vonatkozóan az egyik bejelentésre kötelezett is teljesítheti.
 
-(3)[^257] A kiskorú gyermek, illetve a cselekvőképességet teljesen korlátozó gondnokság alá helyezett személy lakcímbejelentését törvényes képviselője teljesíti. A korlátozottan cselekvőképes kiskorú tartózkodási helyét maga is bejelentheti.
+(3)[^259] A kiskorú gyermek, illetve a cselekvőképességet teljesen korlátozó gondnokság alá helyezett személy lakcímbejelentését törvényes képviselője teljesíti. A korlátozottan cselekvőképes kiskorú tartózkodási helyét maga is bejelentheti.
 
-(4)[^258] Az átmeneti gondozásban részesülő gyermek lakcímbejelentéséről a szállásadó gondoskodik. Ezt a rendelkezést kell alkalmazni az utógondozói ellátásban részesülő fiatal felnőtt tekintetében is.
+(4)[^260] Az átmeneti gondozásban részesülő gyermek lakcímbejelentéséről a szállásadó gondoskodik. Ezt a rendelkezést kell alkalmazni az utógondozói ellátásban részesülő fiatal felnőtt tekintetében is.
 
-(5)[^259] A munkásszálláson, mozgószálláson vagy építkezés felvonulási lakóépületében lakó polgár bejelentését a lakcím tekintetében szállásadónak minősülő személy (képviselője) is elvégezheti.
+(5)[^261] A munkásszálláson, mozgószálláson vagy építkezés felvonulási lakóépületében lakó polgár bejelentését a lakcím tekintetében szállásadónak minősülő személy (képviselője) is elvégezheti.
 
-[^256]: Az R. 31. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^257]: Az R. 31. § (3) bekezdése a 13/1999. (II. 1.) Korm. rendelet 26. §-ával megállapított, az 56/2014. (III. 4.) Korm. rendelet 2. § i)–j) pontja, az 569/2022. (XII. 23.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^258]: A 31. § (4) bekezdése a 149/1997. (IX. 10.) Korm. rendelet 177. §-ának (2) bekezdésével megállapított szöveg.
-[^259]: Az R. 31. § (5) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^258]: Az R. 31. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^259]: Az R. 31. § (3) bekezdése a 13/1999. (II. 1.) Korm. rendelet 26. §-ával megállapított, az 56/2014. (III. 4.) Korm. rendelet 2. § i)–j) pontja, az 569/2022. (XII. 23.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^260]: A 31. § (4) bekezdése a 149/1997. (IX. 10.) Korm. rendelet 177. §-ának (2) bekezdésével megállapított szöveg.
+[^261]: Az R. 31. § (5) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.

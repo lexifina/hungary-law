@@ -1,4 +1,4 @@
-6. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^350]
+6. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^352]
 
 Statisztikai adatszolgáltatás körében igényelhető adatok
 
@@ -6,4 +6,4 @@ Statisztikai adatszolgáltatás körében igényelhető adatok
 
 2. A nyilvántartás forgalmi adatai [nyilvántartásba vett magyar és nem magyar személyek, valamint passzivált személyek számadatai, családiállapot-változások számadatai, lakóhely- és tartózkodásihely-számadatok, további változások (személyiazonosító-, állampolgárság-, nyilvántartásijogcím-változás, adatszolgáltatást tiltó nyilatkozat, egyéb események) számadatai]
 
-[^350]: Az R. 6. mellékletét újonnan a 256/2023. (VI. 26.) Korm. rendelet 4. §-a iktatta be.
+[^352]: Az R. 6. mellékletét újonnan a 256/2023. (VI. 26.) Korm. rendelet 4. §-a iktatta be.

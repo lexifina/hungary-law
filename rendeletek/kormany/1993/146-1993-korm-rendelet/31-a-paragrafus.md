@@ -1,3 +1,3 @@
-31/A. §[^260]
+31/A. §[^262]
 
-[^260]: Az R. 31/A. §-át a 417/2012. (XII. 29.) Korm. rendelet 28. §-a iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 8. pontja.
+[^262]: Az R. 31/A. §-át a 417/2012. (XII. 29.) Korm. rendelet 28. §-a iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 8. pontja.
