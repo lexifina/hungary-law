@@ -18,17 +18,17 @@
 
 | Határidő: | folyamatos |
 
-## 5. felhívja az érintett minisztereket, hogy az 1. melléklet szerinti és a Cselekvési Tervben foglalt feladatok végrehajtásáról 2025-től kezdődően kétévente készítsenek beszámolót a belügyminiszter részére;
+## 5.[^1] felhívja az érintett minisztereket, hogy az 1. melléklet szerinti és a Cselekvési Tervben foglalt feladatok végrehajtásáról 2025-től kezdődően a belügyminiszter felkérésére készítsenek beszámolót;
 
 | Felelős: | belügyminiszter kultúráért és innovációért felelős miniszter energiaügyi miniszter építési és közlekedési miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
 
-| Határidő: | első alkalommal 2025. március 1., ezt követően kétévente március 1. |
+| Határidő: | a belügyminiszter által meghatározott időpontban |
 
 ## 6. felhívja a belügyminisztert, hogy az 5. pont szerinti beszámolók alapján kétévente készítsen jelentést a Kormány részére a Cselekvési Tervben foglalt feladatok végrehajtásáról;
 
 | Felelős: | belügyminiszter |
 
-| Határidő: | első alkalommal 2025. május 31., ezt követően kétévente május 31. |
+| Határidő: | első alkalommal 2025. május 31., ezt követően az Európai Bizottságnak kétévente benyújtandó jelentés előkészítési határidejével megegyezően[^2] |
 
 ## 7. felhívja a belügyminisztert, hogy továbbra is biztosítsa a 2021/1004 tanácsi ajánlás szerinti nemzeti koordinátori feladatok ellátását, és ennek keretében gondoskodjon az Európai Gyermekgarancia Nemzeti Kapcsolattartó Pontok Hálózatával való együttműködéssel kapcsolatos feladatok ellátásáról.
 
@@ -117,3 +117,6 @@ A gyermekek jogainak garanciáit biztosító nemzeti cselekvési terv 2030 végr
 | Felelős: | belügyminiszter kultúráért és innovációért felelős miniszter |
 
 | Határidő: | 2027. december 31. Forrás: európai uniós forrás (EFOP+) |
+
+[^1]: Az 5. pont az 1241/2025. (VII. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont felelős/határidő „Határidő:” sor 2. mezője az 1241/2025. (VII. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
