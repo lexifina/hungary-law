@@ -46,4 +46,4 @@ c) a bányafelügyeletnek adatot szolgáltató természetes személy, és
 
 d) a bányafelügyeleti eljárásokban a természetes személy kérelmező.
 
-(13) Az (EU) 2024/1787 európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként a bányafelügyelet jár el.
+(13)

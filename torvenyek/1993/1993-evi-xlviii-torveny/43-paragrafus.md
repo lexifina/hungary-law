@@ -35,3 +35,5 @@
 (10) A Hatóság a bányászati hatósági feladatokat ellátó személy részére igazolványt állít ki. Az igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. Az igazolvány személyes adatként tartalmazza a bányászati igazgatási feladatokat ellátó személy nevét és arcképét, valamint az igazolvány okmányazonosítóját.
 
 (11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
+
+(12) A bányafelügyelet hatáskörébe tartozik az energiaágazaton belüli metánkibocsátás csökkentéséről és az (EU) 2019/942 rendelet módosításáról szóló, 2024. június 13-i (EU) 2024/1787 európai parlamenti és tanácsi rendelet (a továbbiakban: (EU) 2024/1787 európai parlamenti és tanácsi rendelet) előírásaival kapcsolatos – IV/D. RÉSZ szerinti – hatósági eljárások lefolytatása, döntések meghozatala, illetve a jogsértések megállapítása esetén a szankciók alkalmazása.
