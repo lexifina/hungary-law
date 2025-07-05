@@ -16,6 +16,6 @@
 
 8.
 
-9.
+9. 221. § (2) bekezdésében a „százezer forint” szövegrész helyébe a „kettőszázezer forint” szöveg
 
 lép.

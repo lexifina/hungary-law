@@ -1,1 +1,3 @@
-### 111. §
+111. § Az Art. 265. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az állami adó- és vámhatóság a foglalkoztató erre vonatkozó, naptári évenként legfeljebb egy alkalommal benyújtott kérelmére törli az (1) és (2) bekezdés szerinti közzétételi listáról a közzétett adatokat, ha a közzététel alapjául szolgáló határozat szerint a foglalkoztató legfeljebb öt fő alkalmazott bejelentését mulasztotta el, és a kérelmet elbíráló határozatban kiszabott, közzétételt kiváltó bírságot esedékességig befizeti. A közzétételt kiváltó bírság mértéke a bejelentési kötelezettség elmulasztása miatt kiszabott mulasztási bírság tízszerese.”
