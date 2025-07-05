@@ -1,7 +1,3 @@
-4. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet
+4. §[^5]
 
-a) 7. § (3) bekezdés h) pontjában az „érvénytelenítéséről, selejtezéséről, megsemmisítésre történő előkészítéséről” szövegrész helyébe az „érvénytelenítéséről, selejtezésre és megsemmisítésre történő előkészítéséről” szöveg,
-
-b) 7. § (4) bekezdés h) pontjában az „érvénytelenítéséről, selejtezéséről, megsemmisítésre történő előkészítéséről” szövegrész helyébe az „érvénytelenítéséről, selejtezésre és megsemmisítésre történő előkészítéséről” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

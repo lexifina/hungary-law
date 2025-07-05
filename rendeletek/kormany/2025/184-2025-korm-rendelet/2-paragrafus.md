@@ -1,3 +1,3 @@
-2. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 23. § (7) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(7) Az át nem vett útlevelet – az átvételre való felhívást követően, annak meghiúsulása esetén – a járási hivatal, az eljáró útlevélhatóság az útlevél kiállításától számított 60 nap, a konzuli tisztviselő az útlevél kiállításától számított egy év elteltével érvényteleníti, és gondoskodik ezen ténynek az útiokmány-nyilvántartásban való feltüntetéséről, továbbá az okmány általános hatáskörű útlevélhatóság részére történő megküldéséről. Az általános hatáskörű útlevélhatóság az át nem vett, érvénytelenített útlevelet beérkezését követően selejtezi, megsemmisítésre előkészíti, és gondoskodik e ténynek az útiokmány-nyilvántartásban való feltüntetéséről.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
