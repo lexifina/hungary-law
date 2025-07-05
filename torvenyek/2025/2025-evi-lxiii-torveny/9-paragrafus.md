@@ -1,0 +1,1 @@
+9. § Az 5. § (2) bekezdése szerinti költségvetési szerveknél foglalkoztatott munkavállalók felett a munkáltatói jogokat az Önkormányzat által kijelölt személy gyakorolja, egyebekben a fenntartói jog átszállása nem érinti az intézményekben foglalkoztatottak munkaviszonyát.

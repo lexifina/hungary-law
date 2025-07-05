@@ -1,0 +1,1 @@
+8. § A 4. § szerinti vagyonjuttatás esetében a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdés a) pontja szerinti azon miniszteri egyetértést, amely védett természeti terület tulajdonjogának átruházásához szükséges, megadottnak kell tekinteni.

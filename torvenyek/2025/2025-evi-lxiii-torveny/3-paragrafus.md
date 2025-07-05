@@ -1,0 +1,1 @@
+3. § Az 1. § szerinti vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
