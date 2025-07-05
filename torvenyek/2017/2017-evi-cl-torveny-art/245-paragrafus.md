@@ -8,7 +8,7 @@ b) igazolatlan eredetű árut forgalmaz,
 
 c) az adóköteles tevékenység célját szolgáló helyiségében (műhely, üzlet, telep stb.) elmulasztotta számla- vagy nyugtakibocsátási kötelezettségét, vagy
 
-d) a pénztárgép kötelező használatával és üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
+d) a pénztárgép kötelező használatával, a pénztárgép vagy az e-pénztárgép üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
 
 (1a) Az (1) bekezdés a–c) pontjában meghatározott mulasztás ismételt előfordulása esetén a lezárás alkalmazása – az (1b)–(1c) bekezdésben foglaltak kivételével – nem mellőzhető.
 
