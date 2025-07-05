@@ -2,15 +2,15 @@
 
 a)
 
-b)
+b) 21. § (1) bekezdés i) pontjában a „tilalmára” szövegrész helyébe a „tilalmára, és” szöveg,
 
-c)
+c) 21. § (4) bekezdésében az „a)–g) pontjában” szövegrész helyébe az „a)–g) és j) pontjában” szöveg,
 
-d)
+d) 21. § (4a) bekezdésében) az „a)–c) és e)–g) pontjában” szövegrész helyébe az „a)–c), e)–g) és j) pontjában” szöveg,
 
-e)
+e) 21/B. § (2) bekezdésében az „e), f) és h)” szövegrész helyébe az „e), f), h) és j)” szöveg,
 
-f)
+f) 24/A. § (5a) bekezdésében a „vizsgálatával és rendszeres” szövegrész helyébe a „vizsgálatával, honosítási eljárásával, valamint rendszeres” szöveg,
 
 g)
 
