@@ -1,1 +1,5 @@
-### 90. §
+90. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 47. alcíme a következő 99/A. §-sal egészül ki:
+
+„99/A. § (1) Óvadék alapítható a hitelintézet által aranyra végzett letéti szolgáltatás keretében nyilvántartott befektetési aranyon, továbbá – aranytartalmára tekintet nélkül – rúdaranyon, aranytömbön, aranylapkán és aranyérmén. A zálogjogosult az óvadékkal biztosított követelés esedékességekor a követelését az óvadék tárgyából közvetlen kielégítési jogával érvényesítheti.
+
+(2) Az (1) bekezdés szerinti óvadék tárgyát annak nyilvános forgalmi értékén, ennek hiányában az adott időpontban a felektől függetlenül meghatározható értékén kell figyelembe venni. Amennyiben az óvadék tárgya nyilvános forgalmi értékkel, vagy az adott időpontban felektől függetlenül meghatározható értékkel nem rendelkezik, a zálogjogosult a Ptk. 5:138. § (1) bekezdésében meghatározott jogával akkor élhet, ha a felek az óvadék tárgyának értékelési módjáról a zálogszerződésben megállapodtak.”
