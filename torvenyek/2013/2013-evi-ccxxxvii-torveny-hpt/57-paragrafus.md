@@ -50,6 +50,6 @@ c) az 575/2013/EU rendeletben meghatározott kiegészítő alapvető tőkeelemb�
 
 (3) A felszámolás során tartott egyezségi tárgyaláson az állam és az OBA képviselője – az általuk biztosított betétek tekintetében és értékében – hitelezőként vesznek részt, jogosultak megtenni az egyezség létrejöttéhez szükséges engedményeket.
 
-(4) A hitelintézet felszámolása során a letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett pénzösszegek nem képezik a felszámolási vagyon részét.
+(4) A hitelintézet felszámolása során a letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett pénzösszegek, valamint az aranyra végzett letéti szolgáltatás keretében az ügyfelek megbízásából elhelyezett arany nem képezik a felszámolási vagyon részét.
 
 (5) A kötelező jegybanki tartalékra vonatkozó előírást levelező bankon keresztül teljesítő hitelintézet által elhelyezett kötelező tartalék összege a levelező bank felszámolása esetén – a Cstv. rendelkezéseitől eltérően – nem része a felszámolás körébe tartozó vagyonnak.

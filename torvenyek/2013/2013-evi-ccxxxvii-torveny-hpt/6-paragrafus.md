@@ -8,9 +8,13 @@
 
 3. anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol;
 
-4. arany kereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, valamint a forgalomban nem lévő arany pénzérmére és – numizmatikai céllal – a forgalomban lévő arany pénzérmére kötött ügylet;
+4. aranykereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, aranylapkára, valamint a forgalomban nem lévő és a forgalomban lévő aranyérmére kötött ügylet;
 
-4a.
+4a. aranyra végzett letéti szolgáltatás: színarany (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – rúdarany, aranytömb, aranylapka és aranyérme letéti őrzése egyedi vagy gyűjtőletétként;
+
+4b. aranykereskedelmi ügylet közvetítése: szerződés alapján a megbízó és harmadik személy közötti aranykereskedelmi ügyletre vonatkozó szerződés megkötésének elősegítésére irányuló tevékenység folytatása a megbízó nevében, javára és kockázatára, ideértve a szerződéskötést is a megbízó nevében;
+
+4c. aranykereskedelmi bizományosi tevékenység: a bizományos által megbízás alapján, saját nevében az ügyfél javára, vagy terhére aranykereskedelmi ügylet megkötése;
 
 5. befektetés: az ingatlan, az ingó dolog, a vagyoni értékű jog, illetve a vállalkozásokban fennálló részesedés (részvény, üzletrész, tagsági viszony stb.), valamint a más pénzügyi vállalkozás részére nyújtott alárendelt kölcsöntőke;
 

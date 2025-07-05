@@ -12,7 +12,7 @@ b) – a biztosítási tevékenységről szóló törvényben foglalt feltétele
 
 c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
 
-d) aranykereskedelmi ügyletet,
+d) aranykereskedelmi ügyletet, aranykereskedelmi ügylet közvetítését, aranykereskedelmi bizományosi tevékenységet és aranyra végzett letéti szolgáltatás nyújtását,
 
 e) részvénykönyvvezetést,
 
