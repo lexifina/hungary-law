@@ -1,3 +1,3 @@
-4. § A Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet 30. §-a a következő (6) bekezdéssel egészül ki:
+4. §[^5]
 
-„(6) A nemzeti kiberbiztonsági hatóság kötelezheti a Kiberbiztonsági tv. 1. § (1) bekezdés b) pontja szerinti szervezetet, amely egyben a Kiberbiztonsági tv. 2. vagy 3. mellékletének hatálya alá tartozik az elektronikus információs rendszer biztonsági osztályának felülvizsgálatára és módosítására, ha a kiberbiztonsági audit lefolytatása során, a szervezet által megállapított biztonsági osztály megfelelőségének vizsgálata eredményeként az auditor „nem megfelelő” értékelést rögzített.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

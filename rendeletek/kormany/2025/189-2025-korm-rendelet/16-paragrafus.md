@@ -1,39 +1,55 @@
 16. § A Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet
 
-1. 1. § (1) bekezdésében a „pontja” szövegrész helyébe az „és f) pontja, valamint 1. § (2a) bekezdése” szöveg,
+1.[^19]
 
-2. 1. § (2) bekezdés a) pontjában a „pontja” szövegrész helyébe az „és f) pontja, valamint 1. § (2a) bekezdése” szöveg,
+2.[^20]
 
-3. 1. § (5) bekezdés a) pontjában a „pontja” szövegrész helyébe az „és f) pontja, valamint 1. § (2a) bekezdése” szöveg,
+3.[^21]
 
-4. 3. § (2) bekezdés b) pontjában a „pontja szerinti” szövegrész helyébe a „pontja, valamint a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti” szöveg,
+4.[^22]
 
-5. 8. § (2) bekezdés a) pontjában az „eredményét,” szövegrész helyébe az „eredményét, ha annak végrehajtására kötelezett,” szöveg,
+5.[^23]
 
-6. 16. § (3) bekezdésében az „– a 18. § e) pontjában, a 25. §-ban, a 39. § (3) és (4) bekezdésében” szövegrész helyébe az „– a 17. § (1) bekezdés e) pontjában, a 18. § e) pontjában, a 25. §-ban, a 30. § (6) bekezdésében, a 39. § (3) és (4) bekezdésében” szöveg,
+6.[^24]
 
-7. 23. § (1) bekezdés c) pontjában a „kezdeményezése esetén” szövegrész helyébe a „kezdeményezi” szöveg,
+7.[^25]
 
-8. 31. § (4) bekezdésében a „biztonsági események” szövegrész helyébe a „kiberbiztonsági incidensek” szöveg,
+8.[^26]
 
-9.[^6]
+9.[^27]
 
-10. 68. § (1) bekezdésében a „c) és f)” szövegrész helyébe a „c), f) és g)” szöveg,
+10.[^28]
 
-11. 95. § (1) bekezdésében a „koordinációs” szövegrész helyébe a „szakmai és koordinációs” szöveg,
+11.[^29]
 
-12. 95. § (4) bekezdésében a „Munkacsoport javaslatot” szövegrész helyébe a „Munkacsoport elnöke javaslatot” szöveg,
+12.[^30]
 
-13. 95. § (6) bekezdésében az „események” szövegrész helyébe az „incidensek” szöveg,
+13.[^31]
 
-14. 113. § (3) bekezdés a) pont aa) alpontjában a „pontja” szövegrész helyébe az „és f) pontja, valamint 1. § (2a) bekezdése” szöveg,
+14.[^32]
 
-15. 114. § (2) bekezdés d) pontjában a „b) pontja” szövegrész helyébe a „b) és c) pontja” szöveg,
+15.[^33]
 
-16. 1. melléklet 3.1. pontjának címében a „VAGY” szövegrész helyébe az „ÉS” szöveg,
+16.[^34]
 
-17. 1. melléklet 3.1. pontjában a „sértetlenségének vagy rendelkezésre” szövegrész helyébe a „sértetlenségének és rendelkezésre” szöveg, a „csak elhanyagolható” szövegrész helyébe a „nem jelentős” szöveg
+17.[^35]
 
 lép.
 
-[^6]: A 16. § 9. pontja a 18. § (2) bekezdése alapján 2025. július 19-én lép hatályba.
+[^19]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 16. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 16. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 16. § 9. pontja a 18. § (2) bekezdése alapján 2025. július 19-én lép hatályba.
+[^28]: A 16. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 16. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
