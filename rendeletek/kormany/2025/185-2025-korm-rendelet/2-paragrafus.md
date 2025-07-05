@@ -1,3 +1,3 @@
-2. § A 146/1993. (X. 26.) Korm. rendelet 22. § (5) bekezdése a következő l) ponttal egészül ki:
+2. §[^3]
 
-(A nyilvántartás szerve)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

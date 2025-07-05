@@ -10,6 +10,6 @@
 
 ## 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
 
-1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet [a továbbiakban: 146/1993. (X. 26.) Korm. rendelet] 18. §-a a következő (10) bekezdéssel egészül ki:
+1. §[^2]
 
-„(10) A (9) bekezdés alapján kézbesített és át nem vett hatósági igazolványt a kiadását követő 60 nap elteltével a kijelölt kormányhivatal érvényteleníti, és gondoskodik e ténynek a hatósági igazolvány nyilvántartásban való feltüntetéséről.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

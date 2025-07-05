@@ -1,5 +1,5 @@
 ## 2. A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet módosítása
 
-5. § A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet [a továbbiakban: 414/2015. (XII. 23.) Korm. rendelet] 9. §-a helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„9. § Az állandó személyazonosító igazolvány kiadására irányuló eljárás a 26. §-ban és a 31/A. §-ban meghatározott kivétellel kérelemre indul.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

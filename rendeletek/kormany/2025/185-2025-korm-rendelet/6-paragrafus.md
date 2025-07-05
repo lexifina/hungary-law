@@ -1,3 +1,3 @@
-6. § A 414/2015. (XII. 23.) Korm. rendelet 16. alcím címe helyébe a következő alcím cím lép:
+6. §[^7]
 
-„16. Az e-aláírási funkcióhoz kapcsolódó kódok előállítása”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
