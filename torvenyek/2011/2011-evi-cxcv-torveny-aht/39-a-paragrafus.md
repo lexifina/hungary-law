@@ -47,3 +47,9 @@ c) a 10 001–50 000 fő lakosságszámú települések önkormányzatai esetéb
 (3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
 (4) A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak szerinti adatok megismerésére és kezelésére is jogosult. A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak kivételével a működése során tett véleményeit, javaslatait, ajánlásait, megállapításait és egyéb, a működése során készített dokumentumait nyilvánosságra hozhatja a különleges adatok, a minősített adatok, a személyes adatok és a törvény által védett egyéb adótitkok kivételével.
+
+(5) Az (1) és (1a) bekezdés szerinti kirendeléssel érintett helyi önkormányzat köteles a Kincstárral, valamint a költségvetési biztossal annak tevékenysége végzése során a megbízás fennállta alatt együttműködni. Ha a helyi önkormányzat a költségvetési biztos megbízatása alatt együttműködési kötelezettségének nem tesz eleget – jelentős adatot valótlanul állít vagy elhallgat, adatszolgáltatási kötelezettségét elmulasztja, a költségvetési biztos feladatellátását egyéb módon ellehetetleníti – a Kincstár az Ákr. szerinti hatósági eljárásában bírságot szab ki a helyi önkormányzattal szemben. A helyi önkormányzat a bírságot az arról szóló határozat véglegessé válását követően, a határozatban foglaltaknak megfelelően a következő havi nettó finanszírozás keretében teljesíti.
+
+(6) Az (5) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
+
+(7) Az (5) bekezdés szerinti közigazgatási szankciót a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni.
