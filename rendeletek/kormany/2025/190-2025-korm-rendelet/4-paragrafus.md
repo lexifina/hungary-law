@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 1. § (1) bekezdés i) pontjában az „és” szövegrész helyébe a „ , Szalay utca (24914 helyrajzi számú ingatlan) és” szöveg,
-
-b) 1. mellékletében foglalt táblázat C:4 mezőjében az „eljárások” szövegrész helyébe az „eljárások (ideértve a zajvédelemmel kapcsolatos valamennyi eljárást)” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
