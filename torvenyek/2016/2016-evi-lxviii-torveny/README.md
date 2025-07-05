@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2025-03-01 | 2024. évi LXXI. törvény | 2016-68-00-00.49 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2016-68-00-00.50 |
 | 2025-07-01 | 2025. évi LIV. törvény | 2016-68-00-00.51 |
+| 2025-07-05 | 2025. évi LIV. törvény | 2016-68-00-00.52 |
