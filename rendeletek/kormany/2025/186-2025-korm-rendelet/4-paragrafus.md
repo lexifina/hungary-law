@@ -1,1 +1,3 @@
-4. § Hatályát veszti a közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló 513/2017. (XII. 29.) Korm. rendelet 5. alcím címében a „korlátozó vagy” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

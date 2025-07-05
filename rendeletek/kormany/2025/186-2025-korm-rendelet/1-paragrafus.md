@@ -12,6 +12,6 @@
 
 ## 1. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
 
-1. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 18. §-a a következő (10) bekezdéssel egészül ki:
+1. §[^2]
 
-„(10) A harmadik ország által kiállított vezetői engedély visszahonosítására csak abban az esetben kerülhet sor, ha a harmadik ország által kiállított engedélyt a visszahonosítási eljárás során az illetékes hatóságnál benyújtják. A visszahonosítás során a harmadik ország által kiállított vezetői engedélyt – a magyar vezetői engedély kiadásakor – a közlekedési igazgatási hatóság bevonja, és a Nyilvántartónak megküldi.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
