@@ -1,28 +1,28 @@
-## 50. §[^268] Ha a tulajdonosi ellenőrzés eredményeként az NFK megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
+## 50. §[^276] Ha a tulajdonosi ellenőrzés eredményeként az NFK megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
 
-50/A. §[^269] (1)[^270] A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFK beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet,, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
+50/A. §[^277] (1)[^278] A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFK beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet,, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
 
-(2)[^271] A használó e rendelet szerinti adatszolgáltatási kötelezettsége az NFK felé akkor is fennáll, ha az NFK-val vagy az NFK jogelődjével kötött szerződés az adatszolgáltatási kötelezettségről nem rendelkezik.
+(2)[^279] A használó e rendelet szerinti adatszolgáltatási kötelezettsége az NFK felé akkor is fennáll, ha az NFK-val vagy az NFK jogelődjével kötött szerződés az adatszolgáltatási kötelezettségről nem rendelkezik.
 
-(3)[^272] A használó 15 napon belül köteles tájékoztatni az NFK-t, ha
+(3)[^280] A használó 15 napon belül köteles tájékoztatni az NFK-t, ha
 
 a) a földrészlet az állam tulajdonából vagy a Nemzeti Földalapból bármely okból kikerül;
 
 b) a földrészlet művelési ágát megváltoztatatja;
 
-c)[^273] a földrészletnek a Tfvt. szerinti más célú hasznosítását megkezdi, valamint megvalósítja, illetve megszünteti;
+c)[^281] a földrészletnek a Tfvt. szerinti más célú hasznosítását megkezdi, valamint megvalósítja, illetve megszünteti;
 
 d) a földrészleten a rendes gazdálkodás körét meghaladó beruházást valósít meg;
 
 e) a földrészlet ingatlan-nyilvántartási adatai bármely okból megváltoznak.
 
-(4)[^274] A használó haladéktalanul köteles tájékoztatni az NFK-t, ha
+(4)[^282] A használó haladéktalanul köteles tájékoztatni az NFK-t, ha
 
 a) vele szemben az Nfatv. 19. § (1) bekezdésében meghatározott eljárás indul vagy valamely körülmény, esemény következik be;
 
 b) az adatai megváltoznak.
 
-(5)[^275] Ha a használó vagyonkezelő, a (3)–(4) bekezdésben foglaltakon túl 15 napon belül köteles tájékoztatni az NFK-t a földrészlet
+(5)[^283] Ha a használó vagyonkezelő, a (3)–(4) bekezdésben foglaltakon túl 15 napon belül köteles tájékoztatni az NFK-t a földrészlet
 
 a) forgalmi értékbecslése esetén a megállapított forgalmi értékről;
 
@@ -44,11 +44,11 @@ f) az (5) bekezdés b) pontjában meghatározott esetben a szerződés létrejö
 
 követő nap.
 
-[^268]: Az 50. § a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^269]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
-[^270]: Az 50/A. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 18. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^271]: Az 50/A. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) és i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^272]: Az 50/A. § (3) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 37. § o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^273]: Az 50/A. § (3) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § r) pontja szerint módosított szöveg.
-[^274]: Az 50/A. § (4) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 37. § o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^275]: Az 50/A. § (5) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 37. § o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^276]: Az 50. § a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^277]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^278]: Az 50/A. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 18. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^279]: Az 50/A. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) és i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^280]: Az 50/A. § (3) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 37. § o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^281]: Az 50/A. § (3) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § r) pontja szerint módosított szöveg.
+[^282]: Az 50/A. § (4) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 37. § o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^283]: Az 50/A. § (5) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 37. § o) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

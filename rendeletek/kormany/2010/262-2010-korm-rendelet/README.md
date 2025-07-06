@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-262-20-
 | 2024-02-25 | 2010-262-20-22.32 | 31/2024. (II. 22.) Korm. rendelet |
 | 2024-06-01 | 2010-262-20-22.33 | 159/2019. (VI. 28.) Korm. rendelet |
 | 2025-01-01 | 2010-262-20-22.34 | 827/2021. (XII. 28.) Korm. rendelet |
+| 2025-07-06 | 2010-262-20-22.35 | 188/2025. (VII. 3.) Korm. rendelet |

@@ -1,3 +1,3 @@
-27. §[^138]
+27. §[^143]
 
-[^138]: A 27. §-t és az azt megelőző Az „Az elővásárlási jog gyakorlása” alcímet a 159/2019. (VI. 28.) Korm. rendelet 38. § s) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^143]: A 27. §-t és az azt megelőző Az „Az elővásárlási jog gyakorlása” alcímet a 159/2019. (VI. 28.) Korm. rendelet 38. § s) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.

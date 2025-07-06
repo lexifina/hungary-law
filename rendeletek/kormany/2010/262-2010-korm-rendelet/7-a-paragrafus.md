@@ -1,4 +1,4 @@
-7/A. §[^59] (1) A földrészlet nyilvános pályázat útján történő eladására irányuló pályázati felhívásnak tartalmaznia kell:
+7/A. §[^62] (1) A földrészlet nyilvános pályázat útján történő eladására irányuló pályázati felhívásnak tartalmaznia kell:
 
 1. a pályázati felhívást kiíró megnevezését és székhelyét;
 
@@ -48,9 +48,9 @@
 
 1. a pályázat hivatalos nyelvének megjelölését;
 
-2. az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket;
+2.[^63] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett jogokat és terheket;
 
-3. az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket;
+3.[^64] az ingatlan-nyilvántartásba jogi jellegként bejegyzett tényeket;
 
 4. a földrészletet terhelő szolgalmi jogot és vezetékjogot;
 
@@ -80,7 +80,9 @@
 
 17. a birtokba lépés várható időpontját;
 
-18.[^60] az értékesítésre kerülő földrészletre vonatkozó 20 éves visszavásárlási jogra, valamint elidegenítési és terhelési tilalomra vonatkozó utalást.
+18.[^65] az értékesítésre kerülő földrészletre vonatkozó 20 éves visszavásárlási jogra, valamint elidegenítési és terhelési tilalomra vonatkozó utalást.
 
-[^59]: A 7/A. §-t a 159/2019. (VI. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^60]: A 7/A. § (3) bekezdés 18. pontját a 111/2020. (IV. 14.) Korm. rendelet 3. §-a iktatta be.
+[^62]: A 7/A. §-t a 159/2019. (VI. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^63]: A 7/A. § (3) bekezdés 2. pontja a 188/2025. (VII. 3.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^64]: A 7/A. § (3) bekezdés 3. pontja a 188/2025. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^65]: A 7/A. § (3) bekezdés 18. pontját a 111/2020. (IV. 14.) Korm. rendelet 3. §-a iktatta be.
