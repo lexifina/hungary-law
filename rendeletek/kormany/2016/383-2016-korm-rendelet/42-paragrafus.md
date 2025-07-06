@@ -18,7 +18,7 @@ foglaltak tekintetében.
 
 (2)[^217] A Kormány mezőgazdasági igazgatási szervként a családi gazdaságokról szóló 2020. évi CXXIII. törvény 4. § (4) bekezdés f) pontjában, 5. §-ában, 11. §-ában, 12. § (3) és (4) bekezdésében, 13. § (2)–(4) bekezdésében, 15. § (8) és (9) bekezdésében, valamint 19. § (6) bekezdésében foglaltak tekintetében a NÉBIH-et jelöli ki.
 
-(2a)[^218] A Kormány mezőgazdasági igazgatási szervként az Mgtpt. 7. § (3) bekezdésében, 7/A. § (5) bekezdésében, valamint 8. § (7) bekezdésében foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt jelöli ki azzal, hogy az Mgtpt. 7/A. § (5) bekezdésében foglaltak tekintetében a feldolgozó mezőgazdasági üzemközpontja szerint illetékes földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal jár el.
+(2a)[^218] A Kormány mezőgazdasági igazgatási szervként az Mgtpt. 6/B. § (1) bekezdésében, 7. § (3) bekezdésében, 7/A. § (5) bekezdésében, valamint 8. § (7) bekezdésében foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt jelöli ki azzal, hogy az Mgtpt. 7/A. § (5) bekezdésében foglaltak tekintetében a feldolgozó mezőgazdasági üzemközpontja szerint illetékes földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal jár el.
 
 (3)[^219] A Kormány mezőgazdasági igazgatási szervként az NKFH-t jelöli ki a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvényben foglaltak tekintetében.
 
@@ -50,7 +50,7 @@ foglaltak tekintetében.
 [^215]: A 42. § (1) bekezdés e) pontja a 422/2024. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^216]: A 42. § (1) bekezdés f) pontját a 665/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdése iktatta be.
 [^217]: A 42. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés c) pontja, a 665/2020. (XII. 28.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
-[^218]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (37) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
+[^218]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (37) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja, a 188/2025. (VII. 3.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^219]: A 42. § (3) bekezdését a 616/2022. (XII. 29.) Korm. rendelet 243. §-a hatályon kívül helyezte, újonnan a 328/2024. (XI. 14.) Korm. rendelet 23. §-a iktatta be.
 [^220]: A 42. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^221]: A 42. § (4) bekezdés a) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
