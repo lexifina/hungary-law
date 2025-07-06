@@ -1,8 +1,6 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^64]
 
-1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^60]
-
-## A bejelentési kötelezettség alól kivont fajok
+A bejelentési kötelezettség alól kivont fajok
 
 1. A tanácsi rendelet A. mellékletében felsorolt fajok közül:
 
@@ -170,4 +168,4 @@
 
 | Poephila cincta cincta | Szakállas amandina törzsalakja |
 
-[^60]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése, a 30/2020. (II. 29.) Korm. rendelet 11. § (1) bekezdése, a 196/2020. (V. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^64]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése, a 30/2020. (II. 29.) Korm. rendelet 11. § (1) bekezdése, a 196/2020. (V. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -22,6 +22,8 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-6. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^65]
+6. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^69]
 
-[^65]: A 6. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+A tanácsi rendelet 12. cikk (1) bekezdésével összhangban kijelölt határátkelőhelyek listája
+
+[^69]: A 6. számú melléklet a 188/2025. (VII. 3.) Korm. rendelet 5. §-ával megállapított szöveg.

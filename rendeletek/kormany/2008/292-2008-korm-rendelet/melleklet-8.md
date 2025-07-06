@@ -1,5 +1,3 @@
-## A tokfajok azonosítására szolgáló kódok
-
 | Tudományos fajnév | Azonosító kód |
 
 | Acipenser baerii | BAE |
