@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-51-00-00
 | 2025-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-51-00-00.7 |
 | 2025-07-02 | 2010. évi CXXX. törvény | 2025-51-00-00.8 |
 | 2025-07-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-51-00-00.9 |
+| 2025-07-06 | 2010. évi CXXX. törvény | 2025-51-00-00.10 |
