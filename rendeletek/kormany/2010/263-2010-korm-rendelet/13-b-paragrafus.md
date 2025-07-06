@@ -1,8 +1,9 @@
-## 13/A. §[^53] A vagyonkezelési szerződésben foglaltak betartását az NFK minden évben helyszíni ellenőrzés keretében ellenőrzi (tulajdonosi ellenőrzés). A tulajdonosi ellenőrzés módjáról, ezzel összefüggésben a feleket megillető jogokról, és terhelő kötelezettségekről a vagyonkezelési szerződésben rendelkezni kell.
-
-13/B. §[^54] (1) A közfoglalkoztatási program megvalósítása céljából az önkormányzatok részére történő vagyonkezelésbe adással összefüggő eljárásra e rendelet rendelkezéseit – ide nem értve a 3. § (1) bekezdését, a 4. § (1) és (3) bekezdését, az 5. §-t, a 7. § (1) bekezdés b), g) és i) pontját, a 7. § (2) bekezdését, és a (4) bekezdés a) és b) pontját, a 8. § (1) bekezdését, a 9. § (4) bekezdés a) és c) pontját, valamint a 13. § (1) bekezdés i) pontját – megfelelően kell alkalmazni azzal, hogy a vagyonkezelésbe adásra vonatkozó felhívás évente többször is közzétehető, valamint a 12. § (1) bekezdés b) pontjában foglaltak az illetékes állami foglalkoztatási szervvel szemben is gyakorolhatóak.
+13/B. §[^51] (1)[^52] A közfoglalkoztatási program megvalósítása céljából az önkormányzatok részére történő vagyonkezelésbe adással összefüggő eljárásra e rendelet rendelkezéseit – ide nem értve az 1. § (2) bekezdés b) pontját, a 3. § (1) bekezdését, a 4. § (1) és (3) bekezdését, az 5. §-t, a 7. § (1) bekezdés b), g) és i) pontját, a 7. § (2) bekezdését és a (4) bekezdés a) és b) pontját, a 8. § (1) bekezdését, a 9. § (4) bekezdés a) és c) pontját, valamint a 13. § (1) bekezdés i) pontját – megfelelően alkalmazni kell.
 
 (2) A közfoglalkoztatási program megvalósítása céljából az önkormányzat más településen fekvő földrészlet vagyonkezelésbe adása iránt is benyújthat kérelmet, feltéve hogy az érintett földrészlet olyan településen fekszik, melynek közigazgatási határa a kérelmet előterjesztő önkormányzat településének közigazgatási határától közúton vagy közforgalomtól el nem zárt magánúton legfeljebb 30 km távolságra van.
 
-[^53]: A 13/A. §-t a 279/2011. (XII. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^54]: A 13/B. §-t a 279/2011. (XII. 20.) Korm. rendelet 5. §-a iktatta be.
+(3)[^53] A (2) bekezdésben meghatározott esetben a kérelemhez a földrészlet fekvése szerinti önkormányzat képviselő-testületének vagyonkezelésbe vételt támogató döntését is csatolni kell.
+
+[^51]: A 13/B. §-t a 279/2011. (XII. 20.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 13/B. § (1) bekezdése a 188/2025. (VII. 3.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^53]: A 13/B. § (3) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 17. § (2) bekezdése iktatta be.
