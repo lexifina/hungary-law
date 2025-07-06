@@ -1,3 +1,3 @@
-1. melléklet a 647/2020. (XII. 23.) Korm. rendelethez[^53]
+1. melléklet a 647/2020. (XII. 23.) Korm. rendelethez[^54]
 
-[^53]: Az 1. melléklet a 454/2021. (VII. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^54]: Az 1. melléklet a 454/2021. (VII. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
