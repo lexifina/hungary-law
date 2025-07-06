@@ -1,0 +1,1 @@
+40. § E rendelet 3. §-a és 4. §-a, valamint 1. melléklete a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.

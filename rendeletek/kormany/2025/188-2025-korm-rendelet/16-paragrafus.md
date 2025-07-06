@@ -1,0 +1,3 @@
+16. § A 263/2010. (XI. 17.) Korm. rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vagyonkezelőt megillető jogok gyakorlását, annak szabályszerűségét, célszerűségét az NFK ellenőrzi. Ennek érdekében a használó és az NFK közötti, a földrészlet használatára, hasznosítására létesített szerződésben rögzíteni kell, hogy a tulajdonosi ellenőrzésnek a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendeletben foglaltak szerinti eljárásrendjét, a felek jogait, kötelezettségeit a felek a szerződés részének tekintik.”
