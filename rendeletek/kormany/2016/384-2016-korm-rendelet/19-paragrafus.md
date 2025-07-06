@@ -1,6 +1,6 @@
-## 18. §[^27] A termőföld védelméről szóló törvényben meghatározott eljárásokban a döntés szóban nem közölhető.
+## 18. §[^29] A termőföld védelméről szóló törvényben meghatározott eljárásokban a döntés szóban nem közölhető.
 
-19. §[^28] (1) A termőföld védelméről szóló törvény II. fejezetében szabályozott eljárásokban kérelmet vagy beadványt
+19. §[^30] (1) A termőföld védelméről szóló törvény II. fejezetében szabályozott eljárásokban kérelmet vagy beadványt
 
 a) személyesen vagy postai úton a földügyért felelős miniszter által vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon az eljárás tárgyát képező ingatlan fekvése szerint illetékes ingatlanügyi hatósághoz, vagy
 
@@ -16,5 +16,5 @@ b) ha a csatolt okiratok elektronikus vagy egyszerű papír alapú másolatok, a
 
 (4) Ha az (1) bekezdés szerinti kérelemben több vármegye illetékességi területéhez tartozó földrészlet is szerepel, az az ingatlanügyi hatóság, amelyiknél az eljárás megindult, az illetékességi területén kívül fekvő földrészletek tárgyában a kérelmet és az ahhoz csatolt okiratokat a földvédelmi és a földminősítési eljárások lefolytatását támogató informatikai rendszerben átteszi az illetékes ingatlanügyi hatósághoz.
 
-[^27]: A 18. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § b) pontja hatályon kívül helyezte, újonnan a 103/2018. (VI. 11.) Korm. rendelet 24. §-a iktatta be.
-[^28]: A 19. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § b) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 60. §-a iktatta be.
+[^29]: A 18. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § b) pontja hatályon kívül helyezte, újonnan a 103/2018. (VI. 11.) Korm. rendelet 24. §-a iktatta be.
+[^30]: A 19. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § b) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 60. §-a iktatta be.

@@ -1,4 +1,4 @@
-23. §[^40] (1) Ha az ingatlan-nyilvántartásban a kérelem tárgyát képező földrészletet vagy földrészleteket érintően változtatási vagy telekalakítási tilalom van bejegyezve, a telekalakítási kérelmet vissza kell utasítani.
+23. §[^42] (1) Ha az ingatlan-nyilvántartásban a kérelem tárgyát képező földrészletet vagy földrészleteket érintően változtatási vagy telekalakítási tilalom van bejegyezve, a telekalakítási kérelmet vissza kell utasítani.
 
 (2) A telekalakítási engedély és a hozzá tartozó telekalakítási dokumentáció az engedélyező határozat véglegessé válásától számított egy évig érvényes. A telekalakítási hatóság a telekalakítás engedélyezése esetén a változási vázrajzot „A telekalakítást a … számú határozatban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig érvényes.” záradékszöveggel látja el. A telekalakítási engedély véglegessé válásával egyidejűleg a változási vázrajzot az ingatlanügyi hatóság újrazáradékolja.
 
@@ -22,4 +22,4 @@
 
 (12) Az ingatlanügyi hatóság által záradékolt változási vázrajz és a hozzá tartozó területkimutatás, valamint a telekalakítási helyszínrajz hiteles másolata képezi a szakkérdések vizsgálatának alapját.
 
-[^40]: A 23. § a 179/2023. (V. 15.) Korm. rendelet 176. §-ával megállapított szöveg.
+[^42]: A 23. § a 179/2023. (V. 15.) Korm. rendelet 176. §-ával megállapított szöveg.

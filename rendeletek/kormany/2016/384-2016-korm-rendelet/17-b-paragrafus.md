@@ -1,4 +1,4 @@
-## II/A. Fejezet[^25]
+## II/A. Fejezet[^27]
 
 ## AZ ELEKTRONIKUS REGISZTRÁCIÓ SZABÁLYAI
 
@@ -12,4 +12,4 @@
 
 (5) A (4) bekezdésben foglaltaknak a jogi képviselő eleget tesz azzal, ha a lapokat zsinórral összefűzi és a zsinórt matricával leragasztja, továbbá az okiratot, a matricát és a papírt érintő módon aláírja.
 
-[^25]: A II/A. Fejezetet (17/B–17/C. §-t) a 481/2024. (XII. 31.) Korm. rendelet 59. §-a iktatta be.
+[^27]: A II/A. Fejezetet (17/B–17/C. §-t) a 481/2024. (XII. 31.) Korm. rendelet 59. §-a iktatta be.

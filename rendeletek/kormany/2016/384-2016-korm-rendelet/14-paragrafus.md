@@ -1,5 +1,5 @@
-## 8.[^23]
+## 8.[^25]
 
 14. §
 
-[^23]: A 8. alcímet (14. §-t) a 179/2023. (V. 15.) Korm. rendelet 179. § 8. pontja hatályon kívül helyezte.
+[^25]: A 8. alcímet (14. §-t) a 179/2023. (V. 15.) Korm. rendelet 179. § 8. pontja hatályon kívül helyezte.

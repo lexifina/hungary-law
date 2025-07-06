@@ -4,9 +4,9 @@
 
 ## TELEKALAKÍTÁSI ELJÁRÁS
 
-21. § (1)[^29] A telekalakítási engedélyezési eljárás kérelemre induló eljárás.
+21. § (1)[^31] A telekalakítási engedélyezési eljárás kérelemre induló eljárás.
 
-(2)[^30]
+(2)[^32]
 
 (3) A telekalakítás engedélyezése iránti kérelmet benyújthat:
 
@@ -16,15 +16,15 @@ b) közös tulajdonban álló földrészlet esetén bármelyik tulajdonostárs,
 
 c) aki a telekalakítással érintett földrészlet tekintetében tulajdoni igényt érvényesít,
 
-d)[^31]
+d)[^33]
 
 e) a tulajdonostársaknak a földrészlet területnagyság szerinti többsége, ha a telekalakítás során legalább nyolc új építési telek keletkezik, valamint
 
 f) az a személy, aki a telekalakításról a tulajdonossal írásban megállapodott.
 
-(4)[^32]
+(4)[^34]
 
-(5)[^33] A telekalakítási eljárás megindítása iránti kérelmet papír alapon írásban, vagy az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben kitöltendő elektronikus űrlapon lehet előterjeszteni az E-ügyintézési tv. 10. §-ának megfelelően. A kérelemnek (a továbbiakban: telekalakítási kérelem) a következő adatokat kell tartalmaznia:
+(5)[^35] A telekalakítási eljárás megindítása iránti kérelmet papír alapon írásban, vagy az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben kitöltendő elektronikus űrlapon lehet előterjeszteni az E-ügyintézési tv. 10. §-ának megfelelően. A kérelemnek (a továbbiakban: telekalakítási kérelem) a következő adatokat kell tartalmaznia:
 
 a) természetes személy kérelmező esetén a természetes személyazonosító adatokat;
 
@@ -46,11 +46,11 @@ ed) telekhatár-rendezés;
 
 f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(6)[^34]
+(6)[^36]
 
-(6a)[^35] Az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet (a továbbiakban: honvédelmi és katonai célú ingatlan) esetén egyesített telekalakítási eljárásnak nincs helye.
+(6a)[^37] Az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet (a továbbiakban: honvédelmi és katonai célú ingatlan) esetén egyesített telekalakítási eljárásnak nincs helye.
 
-(7)[^36] A telekalakítási kérelemhez mellékelni kell a telekalakítási dokumentációt, amely a 2. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
+(7)[^38] A telekalakítási kérelemhez mellékelni kell a telekalakítási dokumentációt, amely a 2. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
 
 (8) Telekalakítási dokumentációt
 
@@ -60,20 +60,20 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 
 készíthet.
 
-(9)[^37] Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja.
+(9)[^39] Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja.
 
-(10)[^38] Azokra az ingatlanokra, amelyek a kisajátítási hatóság határozata alapján a kisajátítást kérő tulajdonába kerülnek és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni.
+(10)[^40] Azokra az ingatlanokra, amelyek a kisajátítási hatóság határozata alapján a kisajátítást kérő tulajdonába kerülnek és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni.
 
-(11)[^39]
+(11)[^41]
 
-[^29]: A 21. § (1) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (1) bekezdésével megállapított szöveg.
-[^30]: A 21. § (2) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 9. pontja hatályon kívül helyezte.
-[^31]: A 21. § (3) bekezdés d) pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 10. pontja hatályon kívül helyezte.
-[^32]: A 21. § (4) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 11. pontja hatályon kívül helyezte.
-[^33]: A 21. § (5) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (2) bekezdésével megállapított szöveg.
-[^34]: A 21. § (6) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 12. pontja hatályon kívül helyezte.
-[^35]: A 21. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 125. § (2) bekezdése iktatta be.
-[^36]: A 21. § (7) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (3) bekezdésével megállapított szöveg.
-[^37]: A 21. § (9) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
-[^38]: A 21. § (10) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
-[^39]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, a 179/2023. (V. 15.) Korm. rendelet 179. § 13. pontja hatályon kívül helyezte.
+[^31]: A 21. § (1) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (1) bekezdésével megállapított szöveg.
+[^32]: A 21. § (2) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 9. pontja hatályon kívül helyezte.
+[^33]: A 21. § (3) bekezdés d) pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 10. pontja hatályon kívül helyezte.
+[^34]: A 21. § (4) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 11. pontja hatályon kívül helyezte.
+[^35]: A 21. § (5) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (2) bekezdésével megállapított szöveg.
+[^36]: A 21. § (6) bekezdését a 179/2023. (V. 15.) Korm. rendelet 179. § 12. pontja hatályon kívül helyezte.
+[^37]: A 21. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 125. § (2) bekezdése iktatta be.
+[^38]: A 21. § (7) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (3) bekezdésével megállapított szöveg.
+[^39]: A 21. § (9) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
+[^40]: A 21. § (10) bekezdése a 179/2023. (V. 15.) Korm. rendelet 175. § (4) bekezdésével megállapított szöveg.
+[^41]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, a 179/2023. (V. 15.) Korm. rendelet 179. § 13. pontja hatályon kívül helyezte.
