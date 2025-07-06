@@ -50,7 +50,7 @@ d) a végrehajtást kérővel és az adóssal,
 
 e) azokkal, akiknek a földre vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van,
 
-f)[^38] az NFK-val.
+f)[^38] felszámolási vagy önkormányzati adósságrendezési eljárás esetén az NFK-val.
 
 (5)[^39] A mezőgazdasági igazgatási szervnek az árverési jegyzőkönyv – (4) bekezdés szerinti személyeknek történő – kézbesítését, annak lezárásától számított három napon belül meg kell kezdenie.
 
@@ -62,5 +62,5 @@ f)[^38] az NFK-val.
 [^35]: A 11. § (1) bekezdés g) pontja az 523/2017. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^36]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 502. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^37]: A 11. § (3) bekezdése a 186/2018. (X. 9.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^38]: A 11. § (4) bekezdés f) pontját az 523/2017. (XII. 29.) Korm. rendelet 10. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 47. § b) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^38]: A 11. § (4) bekezdés f) pontja a 188/2025. (VII. 3.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^39]: A 11. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés j) pontja szerint módosított szöveg.

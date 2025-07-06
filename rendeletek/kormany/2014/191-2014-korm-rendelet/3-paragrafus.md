@@ -16,10 +16,10 @@ f)[^11]
 
 g) a megkeresőnek,
 
-h)[^12] a Nemzeti Földalap kezeléséért felelős szervnek (a továbbiakban: NFK).
+h)[^12] felszámolási vagy önkormányzati adósságrendezési eljárás esetén a Nemzeti Földalap kezeléséért felelős szervnek (a továbbiakban: NFK).
 
 [^8]: A 2/A. §-t az 523/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^9]: A 3. § d) pontja az 561/2023. (XII. 14.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § e) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 133. § (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 187. §-a szerint módosított szöveg.
 [^11]: A 3. § f) pontját a 70/2015. (III. 30.) Korm. rendelet 250. § (3) bekezdése hatályon kívül helyezte.
-[^12]: A 3. § h) pontja a 107/2024. (V. 9.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^12]: A 3. § h) pontja a 188/2025. (VII. 3.) Korm. rendelet 23. §-ával megállapított szöveg.
