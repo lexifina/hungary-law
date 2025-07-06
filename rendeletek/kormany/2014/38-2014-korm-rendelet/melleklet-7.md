@@ -1,4 +1,4 @@
-7. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^96]
+7. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^97]
 
 Földműves adatlap másolat szolgáltatása iránti kérelem adattartalma
 
@@ -70,4 +70,4 @@ Földműves adatlap másolat szolgáltatása iránti kérelem adattartalma
 
 9. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^96]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 51. § (7) bekezdése iktatta be.
+[^97]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 51. § (7) bekezdése iktatta be.

@@ -26,10 +26,10 @@ a) a kérelemben szereplő adatok valódiságáért a kérelmező felel, és a k
 
 b) ha a csatolt okiratok elektronikus vagy egyszerű papír alapú másolatok, azok megegyeznek az eredeti okiratokkal, és a kérelmező vállalja, hogy az eredeti papír alapú okiratot felhívásra bemutatja a mezőgazdasági igazgatási szerv részére.
 
-(6)[^14] Ha a kérelmet nem a földhasználó, hanem nevében meghatalmazott képviselője nyújtja be, a meghatalmazásnak ki kell terjednie az (5) bekezdés szerinti nyilatkozatok megtételére is.
+(6)[^14] Ha a kérelmet nem a kérelmező, hanem nevében meghatalmazott képviselője nyújtja be, a meghatalmazásnak ki kell terjednie az (5) bekezdés szerinti nyilatkozatok megtételére is.
 
 [^10]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^11]: Az 5. § (1) bekezdés nyitó szövegrésze a 481/2024. (XII. 31.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
 [^12]: Az 5. § (4) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^13]: Az 5. § (5) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 32. §-a iktatta be.
-[^14]: Az 5. § (6) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 32. §-a iktatta be.
+[^14]: Az 5. § (6) bekezdését a 481/2024. (XII. 31.) Korm. rendelet 32. §-a iktatta be, szövege a 188/2025. (VII. 3.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-6. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^95]
+6. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^96]
 
 Kényszerhasznosítóként jelentkezés tényének törlésre irányuló bejelentés adattartalma
 
@@ -56,4 +56,4 @@ Kényszerhasznosítóként jelentkezés tényének törlésre irányuló bejelen
 
 6. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^95]: A 6. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (6) bekezdése iktatta be.
+[^96]: A 6. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (6) bekezdése iktatta be.

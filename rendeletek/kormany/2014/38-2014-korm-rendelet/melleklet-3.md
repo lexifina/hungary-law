@@ -1,4 +1,4 @@
-3. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^92]
+3. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^93]
 
 Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
@@ -136,4 +136,4 @@ Adatváltozás átvezetésére irányuló bejelentés adattartalma
 
 6. Kérelmet benyújtó aláírása és az aláírás dátuma
 
-[^92]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (3) bekezdése iktatta be.
+[^93]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (3) bekezdése iktatta be.

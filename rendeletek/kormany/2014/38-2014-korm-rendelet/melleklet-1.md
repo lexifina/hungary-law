@@ -46,7 +46,7 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 
 6. A 4.2–4.5. pontok szerinti jogalap esetében nyilatkozat arról, hogy a kérelmező megfelel a Földforgalmi tv. 5. § 7. pont a) vagy b) alpontjában foglalt feltételeknek.
 
-7. Őstermelő esetében az őstermelői igazolvány száma.
+7.[^91] Őstermelő esetében a FELIR azonosító.
 
 8. A 4.5. pont szerinti jogalap esetében a mezőgazdasági termelőszervezet:
 
@@ -79,3 +79,4 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 11. A kérelmet benyújtó aláírása és az aláírás dátuma
 
 [^90]: Az 1. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 1. melléklet 7. pontja a 188/2025. (VII. 3.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.

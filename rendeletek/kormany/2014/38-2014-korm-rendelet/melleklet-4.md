@@ -1,4 +1,4 @@
-4. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^93]
+4. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^94]
 
 Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
@@ -66,4 +66,4 @@ Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
 7. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^93]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (4) bekezdése iktatta be.
+[^94]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (4) bekezdése iktatta be.

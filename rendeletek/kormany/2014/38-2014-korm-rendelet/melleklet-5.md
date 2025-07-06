@@ -1,4 +1,4 @@
-5. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^94]
+5. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^95]
 
 Újonnan alapított mezőgazdasági termelőszervezet mezőgazdasági üzemközpontjának bejelentése adattartalma
 
@@ -66,4 +66,4 @@
 
 9. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^94]: Az 5. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § a) pontja iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^95]: Az 5. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § a) pontja iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.

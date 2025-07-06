@@ -1,4 +1,4 @@
-2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^91]
+2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^92]
 
 Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétel iránti kérelem adattartalma
 
@@ -110,4 +110,4 @@ Mezőgazdasági termelőszervezetként / újonnan alapított mezőgazdasági ter
 
 11. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^91]: A 2. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^92]: A 2. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
