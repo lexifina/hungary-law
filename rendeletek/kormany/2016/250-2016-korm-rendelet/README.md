@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-250-20-
 | 2022-07-01 | 2016-250-20-22.12 | 101/2018. (VI. 11.) Korm. rendelet |
 | 2023-01-01 | 2016-250-20-22.13 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-01-28 | 2016-250-20-22.14 | 263/2019. (XI. 14.) Korm. rendelet |
+| 2025-07-06 | 2016-250-20-22.15 | 263/2019. (XI. 14.) Korm. rendelet |
