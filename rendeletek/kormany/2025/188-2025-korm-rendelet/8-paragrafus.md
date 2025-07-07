@@ -1,5 +1,5 @@
 ## 3. A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet módosítása
 
-8. § A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet [a továbbiakban: 262/2010. (XI. 17.) Korm. rendelet] 29. § (10) bekezdése helyébe a következő rendelkezés lép:
+8. §[^13]
 
-„(10) Ha az állam javára bejegyzett visszavásárlási joggal, valamint elidegenítési és terhelési tilalommal terhelt földet – ideértve a tanyát is – az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény (a továbbiakban: 2021. évi CXLIII. törvény) szerinti gazdaságátadás érinti és a gazdaságátadási szerződés a kormányhivatal által jóváhagyásra került, az NFK hozzájárulását megadottnak kell tekinteni a gazdaságátvevő tulajdonjogának ingatlan-nyilvántartásba történő bejegyzéséhez. Ebben az esetben az állam javára bejegyzett visszavásárlási jog és az annak biztosítására bejegyzett elidegenítési és terhelési tilalom változatlan feltételek mellett továbbra is fennáll.”
+[^13]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

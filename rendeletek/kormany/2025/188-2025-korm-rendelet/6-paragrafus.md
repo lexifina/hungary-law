@@ -1,17 +1,22 @@
 6. § A 292/2008. (XII. 10.) Korm. rendelet
 
-a)[^1]
+a)[^6]
 
-b) 8. § (1) bekezdésében a „példánya, valamint” szövegrész helyébe a „példánya, nemzetközi egyezmények hatálya alá tartozó kiemelt természetvédelmi oltalomban részesülő állatfaj példánya, valamint” szöveg,
+b)[^7]
 
-c) 10. § (2) bekezdésében a „bejelentésköteles példány tartásának helye szerint illetékes területi természetvédelmi” szövegrész helyébe a „4. § (1) bekezdésében megjelölt” szöveg,
+c)[^8]
 
-d) 10. § (3) bekezdésében az „EU-bizonylat” szövegrész helyébe az „EU-bizonylat, vagy EU bizonylattal rendelkező példányhoz új EU bizonylat” szöveg és a „vagy az eredetigazolást” szövegrész helyébe az „ , az eredetigazolást vagy a korábbi EU bizonylatot” szöveg,
+d)[^9]
 
-e) 23. § (1) bekezdésében az „az igazgatási” szövegrész helyébe az „a 4. § (1) bekezdésében megjelölt” szöveg,
+e)[^10]
 
-f) 23. § (2) bekezdés a) pontjában a „faj egyedének” szövegrész helyébe a „faj, illetve nemzetközi egyezmények hatálya alá tartozó kiemelt természetvédelmi oltalomban részesülő állatfaj egyedének” szöveg
+f)[^11]
 
 lép.
 
-[^1]: A 6. § a) pontja a 39. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+[^6]: A 6. § a) pontja a 39. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+[^7]: A 6. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

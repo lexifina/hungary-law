@@ -1,7 +1,3 @@
-18. § A 263/2010. (XI. 17.) Korm. rendelet
+18. §[^23]
 
-a) 4. § (3) bekezdés b) pontjában a „hirdetmény közzétételének” szövegrész helyébe a „vagyonkezelésbe adás” szöveg,
-
-b) 10. § (1) bekezdésében a „15” szövegrész helyébe a „30” szöveg
-
-lép.
+[^23]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

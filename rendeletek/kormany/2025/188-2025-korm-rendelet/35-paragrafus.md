@@ -1,3 +1,3 @@
-35. §[^7]
+35. §[^40]
 
-[^7]: A 35. § a 39. § (4) bekezdése alapján az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvény 127. §-a hatálybalépésének napján lép hatályba.
+[^40]: A 35. § a 39. § (4) bekezdése alapján az egyes agrártárgyú törvények módosításáról szóló 2024. évi LXXX. törvény 127. §-a hatálybalépésének napján lép hatályba.

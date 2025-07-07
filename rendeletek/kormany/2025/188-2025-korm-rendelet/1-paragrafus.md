@@ -36,8 +36,6 @@
 
 ## 1. A NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló 269/2007. (X. 18.) Korm. rendelet módosítása
 
-1. § A NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló 269/2007. (X. 18.) Korm. rendelet [a továbbiakban: 269/2007. (X. 18.) Korm. rendelet] 5. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3) A földhasználó a kaszálás tervezett időpontját a tevékenység megkezdése előtt legalább öt munkanappal – a Magyar Államkincstár (továbbiakban: Kincstár) által biztosított elektronikus felületen, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus azonosítási szolgáltatással történő azonosítást követően – a Kincstárnak bejelenti. Ha a (2) bekezdés szerinti védekezés során a földhasználó nem tudja betartani a 4. § (1) bekezdésében előírt 5%-os határértéket, akkor ezt a bejelentésben előzetesen jeleznie kell.
-
-(3a) A Kincstár a (3) bekezdés szerinti bejelentést – a tervezett kaszálással érintett területet digitális térképi fedvényével, shape formátumban is megadva – a bejelentés benyújtását követő első munkanapon továbbítja a működési terület szerinti nemzeti park igazgatóságnak.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

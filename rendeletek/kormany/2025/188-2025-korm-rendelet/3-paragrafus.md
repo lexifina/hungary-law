@@ -1,5 +1,5 @@
 ## 2. A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet módosítása
 
-3. § A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet [a továbbiakban: 292/2008. (XII. 10.) Korm. rendelet] 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^3]
 
-[Akinek a tanácsi rendelet A. mellékletében foglalt gerinces állatfaj példánya, a B. mellékletében zéró kvótára vonatkozó megjegyzéssel ellátott gerinces állatfaj példánya vagy a tanácsi rendelet B. mellékletében szereplő emlős-, madár- és szárazfölditeknős-faj élő példánya (a továbbiakban együtt: bejelentés köteles példány) van a birtokában, köteles annak megszerzését, tartását, az ország területére történő behozatalát és az ország területéről történő kivitelét, elidegenítését, elhullását, megsemmisülését, tartási helyének megváltoztatását, megjelölését, újrajelölését, valamint szaporulatát bejelenteni. A bejelentést]
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

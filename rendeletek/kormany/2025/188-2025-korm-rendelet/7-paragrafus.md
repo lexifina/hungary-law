@@ -1,5 +1,3 @@
-7. § Hatályát veszti a 292/2008. (XII. 10.) Korm. rendelet
+7. §[^12]
 
-a) 4. § (1) bekezdés nyitó szövegrészében az „ , a B. mellékletében zéró kvótára vonatkozó megjegyzéssel ellátott gerinces állatfaj példánya” szövegrész,
-
-b) 23. § (2) bekezdés a) pontjában az „illetve” szövegrész.
+[^12]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

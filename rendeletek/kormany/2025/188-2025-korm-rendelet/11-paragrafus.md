@@ -1,3 +1,3 @@
-11. § A 262/2010. (XI. 17.) Korm. rendelet 50/E. §-a a következő (12a) bekezdéssel egészül ki:
+11. §[^16]
 
-„(12a) A (12) bekezdésben foglaltakat nem kell alkalmazni, ha a haszonbérlet megszűnésekor a beruházással érintett terület a beruházást megvalósító tulajdonába kerül.”
+[^16]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

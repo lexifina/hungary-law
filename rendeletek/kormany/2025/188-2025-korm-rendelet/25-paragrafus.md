@@ -1,3 +1,3 @@
-25. § A 191/2014. (VII. 31.) Korm. rendelet 11. § (4) bekezdés f) pontja helyébe a következő rendelkezés lép:
+25. §[^30]
 
-(Az árverési jegyzőkönyvet kézbesítés útján kell közölni:)
+[^30]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

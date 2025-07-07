@@ -1,3 +1,3 @@
-15. § A 263/2010. (XI. 17.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+15. §[^20]
 
-„(2) Az önkormányzat földrészlet – program céljára történő – vagyonkezelésbe adására irányuló írásbeli kérelmét a Nemzeti Földalap kezeléséért felelős szervnél (a továbbiakban: NFK) terjeszti elő.”
+[^20]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
