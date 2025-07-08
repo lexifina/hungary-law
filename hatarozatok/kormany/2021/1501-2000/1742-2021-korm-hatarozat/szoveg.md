@@ -2,7 +2,7 @@ A Kormány a Modern Városok Program keretében a Liszt Ferenc Zeneművészeti E
 
 1. egyetért a Liszt Ferenc Zeneművészeti Egyetem Kodály Zoltán Zenepedagógia Intézet infrastruktúra-fejlesztése I. ütemének (a továbbiakban: Beruházás) megvalósításával az ingatlan-nyilvántartás szerinti Kecskemét belterület 478/A/1, 478/2 és 481 helyrajzi számú ingatlanokon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Liszt Ferenc Zeneművészeti Egyetem (a továbbiakban: Egyetem) vagyonkezelésébe kerüljenek;
 
-2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 317 035 399 forintban határozza meg;
+2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 2 587 853 290 forintban határozza meg;
 
 3.[^2]
 
@@ -20,6 +20,6 @@ Határidő: a felmerülés ütemében
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 90. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 9. pontja szerint módosított szöveg.
 [^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: Az 5. pontot az 1492/2022. (X. 19.) Korm. határozat 89. pontja iktatta be.
