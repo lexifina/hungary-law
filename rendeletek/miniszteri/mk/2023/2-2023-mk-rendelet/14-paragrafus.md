@@ -1,5 +1,5 @@
-## 13. Főigazgatói emléktárgy
+## 13.[^21]
 
-14. § (1) A polgári nemzetbiztonsági szolgálatok személyi állományának tagja részére a feladatok hosszabb időn át történő kiemelkedő ellátásáért és példamutató magatartása elismeréséül, továbbá az 50. vagy 60. életév betöltése alkalmából, valamint nyugállományba vonuláskor, nyugállományúak esetében a nyugállományba helyezést követő kerek évfordulós születésnap alkalmából emléktárgy adományozható.
+14. §
 
-(2) A főigazgatói emléktárgy nettó értéke nem lehet kevesebb az illetményalap 1000 forintra felfelé kerekített összegénél, és nem lehet több, mint az illetményalap tízszeresének 1000 forintra felfelé kerekített összege.
+[^21]: A 13. alcímet (14. §-t) a 12/2025. (VI. 30.) MK rendelet 8. § e) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## 16. Jutalomüdülés
+## 16.[^24]
 
-17. § (1) A polgári nemzetbiztonsági szolgálatok személyi állományának tagja – jogszabály eltérő rendelkezése hiányában – a magas színvonalú munkája és példamutató munkahelyi magatartás, közösségi tevékenység elismerésére jutalomüdülésben részesíthető.
+17. §
 
-(2) A jutalomüdülés nettó értéke nem lehet több, mint az illetményalap tízszeresének 1000 forintra felfelé kerekített összege.
+[^24]: A 16. alcímet (17. §-t) a 12/2025. (VI. 30.) MK rendelet 8. § e) pontja hatályon kívül helyezte.

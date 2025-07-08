@@ -20,26 +20,17 @@ af) Miniszteri Elismerő Oklevél,
 
 ag) csapatzászló,
 
-ah) tanácsosi, főtanácsosi cím adományozása,
+ah)[^6]
 
-ai) eggyel magasabb rendfokozatba történő soron kívüli előléptetés vagy
+ai)[^7]
 
 aj) pénzjutalom;
 
-b) főigazgatói elismerések:
+b)[^8]
 
-ba) Főigazgatói Elismerő Oklevél,
+c)[^9]
 
-bb) Nemzetbiztonsági Szolgálati Jel,
-
-bc) főigazgatói emléktárgy,
-
-bd) tanácsosi, főtanácsosi cím adományozása,
-
-be) egy fizetési fokozattal történő előresorolás,
-
-bf) eggyel magasabb rendfokozatba történő soron kívüli előléptetés vagy
-
-bg) jutalomüdülés;
-
-c) főigazgató-helyettesi elismerés a dicséret és pénzjutalom.
+[^6]: A 4. § a) pont ah) alpontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
+[^7]: A 4. § a) pont ai) alpontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
+[^8]: A 4. § b) pontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.
+[^9]: A 4. § c) pontját a 12/2025. (VI. 30.) MK rendelet 8. § b) pontja hatályon kívül helyezte.

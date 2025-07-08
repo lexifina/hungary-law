@@ -52,8 +52,8 @@
 
 ## javaslattevő aláírása
 
-9. melléklet a 2/2023. (II. 3.) MK rendelethez[^5]
+9. melléklet a 2/2023. (II. 3.) MK rendelethez[^38]
 
 Nyilatkozat
 
-[^5]: A 9. melléklet a 6/2024. (VI. 20.) MK rendelet 2. §-ával megállapított szöveg.
+[^38]: A 9. melléklet a 6/2024. (VI. 20.) MK rendelet 2. §-ával megállapított szöveg.

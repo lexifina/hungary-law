@@ -1,3 +1,5 @@
-## 18. A rendvédelmi igazgatási alkalmazott és a munkavállaló elismerései
+## 18.[^26]
 
-19. § A polgári nemzetbiztonsági szolgálat rendvédelmi igazgatási alkalmazottja és munkavállalója a 2. §, a 3. §, a 7. §, a 12–14. §, valamint a 16–18. § szerinti elismerésben részesülhet.
+19. §
+
+[^26]: A 18. alcímet (19. §-t) a 12/2025. (VI. 30.) MK rendelet 8. § e) pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
-## 17. Főigazgató-helyettesi dicséret és pénzjutalom
+## 17.[^25]
 
-18. § (1) Főigazgató-helyettesi dicséret és pénzjutalom adományozható a polgári nemzetbiztonsági szolgálatok személyi állományába tartozók, valamint a szolgálatok tevékenységét segítő személyek részére a közösségi és a polgári nemzetbiztonsági szolgálat érdekében kifejtett magas színvonalú munka és példamutató munkahelyi magatartás, közösségi tevékenység elismerésére.
+18. §
 
-(2) A főigazgató-helyettesi dicséret és pénzjutalom összege nem lehet kevesebb az illetményalap kétszeresének megfelelő bruttó összegnél, és nem lehet több az illetményalap hétszeresének megfelelő bruttó összegnél.
+[^25]: A 17. alcímet (18. §-t) a 12/2025. (VI. 30.) MK rendelet 8. § e) pontja hatályon kívül helyezte.

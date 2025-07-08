@@ -1,3 +1,5 @@
-## 14. Egy fizetési fokozattal történő előresorolás
+## 14.[^22]
 
-15. § A kiemelkedő munkavégzésért vagy a feladatok hosszabb időn át történő eredményes végzéséért a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának az egy fizetési fokozattal történő soron kívüli előresorolása kezdeményezhető, ha az adott fizetési fokozatban eltöltendő várakozási idő felét letöltötte, és legalább jó minősítéssel rendelkezik.
+15. §
+
+[^22]: A 14. alcímet (15. §-t) a 12/2025. (VI. 30.) MK rendelet 8. § e) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-24. § (1) A polgári nemzetbiztonsági szolgálatok személyi állományának tagja a részére adományozott – 10. §-ban meghatározott – címet munkája során, szolgálati érintkezés közben, valamint társadalmi kapcsolataiban jogosult használni.
+24. §[^29]
 
-(2) A személyi állomány tagjának a foglalkoztatási jogviszony fennállása alatt egyazon címet csak egyszer lehet adományozni. A más munkáltatótól, minisztertől korábban kapott címek nem zárják ki az e rendelet alapján történő címadományozást. Címpótlékot azonban csak a foglalkoztatási jogviszonyát szabályozó jogszabályok, továbbá az e rendelet alapján adományozott címek után lehet folyósítani.
+[^29]: A 24. §-t a 12/2025. (VI. 30.) MK rendelet 8. § h) pontja hatályon kívül helyezte.

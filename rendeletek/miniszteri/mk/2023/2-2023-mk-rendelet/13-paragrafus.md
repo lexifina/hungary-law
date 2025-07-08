@@ -1,5 +1,5 @@
-## 12. Főigazgatói Elismerő Oklevél
+## 12.[^20]
 
-13. § (1) Főigazgatói Elismerő Oklevél adományozható a polgári nemzetbiztonsági szolgálatok személyi állománya, valamint az e szervek tevékenységét segítő személyek részére a magas színvonalú munka és példamutató munkahelyi magatartás, közösségi tevékenység elismerésére.
+13. §
 
-(2) A Főigazgatói Elismerő Oklevéllel járó pénzjutalom összege nem lehet kevesebb az illetményalap kétszeresének megfelelő bruttó összegnél, és nem lehet több az illetményalap tízszeresének megfelelő bruttó összegnél.
+[^20]: A 12. alcímet (13. §-t) a 12/2025. (VI. 30.) MK rendelet 8. § e) pontja hatályon kívül helyezte.
