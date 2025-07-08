@@ -1,10 +1,10 @@
-3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^194]
+3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^197]
 
 Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő adatszolgáltatás adattartalma (jövedéki termékenként)
 
 ## A „*” jelzéssel ellátott adatokról kell adatszolgáltatást teljesíteni. A „**” jelzéssel ellátott adatokról abban az esetben kell adatszolgáltatást teljesíteni, ha a kiszállítás nem e-EKO-val történt.
 
-## Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vonatkozik a jelzésbeli tartalom.[^195]
+## Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vonatkozik a jelzésbeli tartalom.[^198]
 
 1. Jövedéki engedélyes engedélyszáma*
 
@@ -46,7 +46,7 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 4.6.2. Jogcím
 
-4.7.[^196] Tagállamba, harmadik országba történő kiszállítás céljából zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék
+4.7.[^199] Tagállamba, harmadik országba történő kiszállítás céljából zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék
 
 5. Készletcsökkenés
 
@@ -76,9 +76,9 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 5.1.4.4. dohánygyártmány esetén a jövedéki kiskereskedő működési engedélyszáma, nyilvántartásba vételi száma vagy dohány kiskereskedelmi engedélyszáma
 
-5.2.[^197] Tagállamba kiszállítás **
+5.2.[^200] Tagállamba kiszállítás **
 
-5.2.1.[^198] e-EKO vagy zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék esetén egyéb szállítási okmány
+5.2.1.[^201] e-EKO vagy zárjegy nélkül belföldről beszerzett Jöt. 62. § (13) bekezdésében felsorolt termék esetén egyéb szállítási okmány
 
 5.2.1.1. száma
 
@@ -142,8 +142,8 @@ Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő 
 
 6. Zárókészlet (naponta)
 
-[^194]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^195]: A 3. melléklet szövege a 26/2022. (XII. 28.) PM rendelet 12. § f) pontja szerint módosított szöveg.
-[^196]: A 3. melléklet 4.7. pontját a 7/2020. (VII. 30.) PM rendelet 11. § b) pontja iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
-[^197]: A 3. melléklet 5.2. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
-[^198]: A 3. melléklet 5.2.1. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^197]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^198]: A 3. melléklet szövege a 26/2022. (XII. 28.) PM rendelet 12. § f) pontja szerint módosított szöveg.
+[^199]: A 3. melléklet 4.7. pontját a 7/2020. (VII. 30.) PM rendelet 11. § b) pontja iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^200]: A 3. melléklet 5.2. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^201]: A 3. melléklet 5.2.1. pontja a 26/2022. (XII. 28.) PM rendelet 11. § b) pontjával megállapított szöveg.

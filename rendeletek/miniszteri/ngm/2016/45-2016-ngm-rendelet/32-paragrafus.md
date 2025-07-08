@@ -1,4 +1,4 @@
-## 31. §[^42] A Jöt.-ben és e rendeletben meghatározott bejelentéseket az arra kötelezett személy az állami adó- és vámhatóság által rendszeresített nyomtatványon teszi meg.
+## 31. §[^43] A Jöt.-ben és e rendeletben meghatározott bejelentéseket az arra kötelezett személy az állami adó- és vámhatóság által rendszeresített nyomtatványon teszi meg.
 
 32. § (1) A Jöt. 44. §-a szerinti tudományos és oktatási célú desztillálóberendezés bejelentéséhez csatolni kell
 
@@ -6,9 +6,9 @@ a) a desztillálóberendezés megszerzését igazoló okirat másolatát, és
 
 b) a tudományos és oktatási tevékenységet igazoló okirat (alapító okirat, alapszabály) másolatát.
 
-(2)[^43]
+(2)[^44]
 
-(3)[^44]
+(3)[^45]
 
 (4) A Jöt. 46. §-a szerinti légiutas-ellátási tevékenység bejelentéséhez csatolni kell a légijárművek ellátásáról szóló megállapodás másolatát és a készletváltozásokat alátámasztó szigorú számadású bizonylatok mintáját.
 
@@ -26,13 +26,13 @@ b) az eltávolított repülőgép-üzemanyag légijárműbe történő visszatö
 
 c) az eltávolított repülőgép-üzemanyag elszállítása esetén az üzemanyagot átvevő megnevezését, a szállítási bizonylat sorszámát, az üzemanyag mennyiségi adatait és az elszállítás időpontját.
 
-(9)[^45]
+(9)[^46]
 
 (10) A műszaki biztonsági hatóság a lakossági energiafogyasztó által létesített sűrített gáztöltő berendezés üzembe helyezéséről soron kívül tájékoztatja az állami adó- és vámhatóságot.
 
 (11) Ha a lakossági energiafogyasztó a Jöt. 52. §-a alapján tett bejelentésben szereplőnél több üzemanyagot állított elő, a különbözet mennyiségéről a sűrítés megtörténtét követő 3 munkanapon belül tájékoztatja az állami adó- és vámhatóságot.
 
-[^42]: A 31. § a 23/2020. (XII. 30.) PM rendelet 6. § 2. pontja szerint módosított szöveg.
-[^43]: A 32. § (2) bekezdését a 23/2020. (XII. 30.) PM rendelet 6. § 3. pontja hatályon kívül helyezte.
-[^44]: A 32. § (3) bekezdését a 23/2020. (XII. 30.) PM rendelet 6. § 4. pontja hatályon kívül helyezte.
-[^45]: A 32. § (9) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § b) pontja alapján nem lép hatályba.
+[^43]: A 31. § a 23/2020. (XII. 30.) PM rendelet 6. § 2. pontja szerint módosított szöveg.
+[^44]: A 32. § (2) bekezdését a 23/2020. (XII. 30.) PM rendelet 6. § 3. pontja hatályon kívül helyezte.
+[^45]: A 32. § (3) bekezdését a 23/2020. (XII. 30.) PM rendelet 6. § 4. pontja hatályon kívül helyezte.
+[^46]: A 32. § (9) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § b) pontja alapján nem lép hatályba.
