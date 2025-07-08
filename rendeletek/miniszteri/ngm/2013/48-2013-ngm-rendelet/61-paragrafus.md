@@ -12,6 +12,6 @@ c) az 5–9. karaktere a forgalmazó által meghatározott, „00001”-gyel kez
 
 (4) A (2) bekezdés a)–b) pontjában meghatározott 1–4. karakter a forgalmazási engedély száma.
 
-(5)[^131] A (2) bekezdés a) pontjában meghatározott karakterként a latin abc nagy betűi használhatók, az „Y” és „Z” betű kivételével.
+(5)[^133] A (2) bekezdés a) pontjában meghatározott karakterként a latin abc nagy betűi használhatók, az „Y” és „Z” betű kivételével.
 
-[^131]: A 61. § (5) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 17. pontja szerint módosított szöveg.
+[^133]: A 61. § (5) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 17. pontja szerint módosított szöveg.

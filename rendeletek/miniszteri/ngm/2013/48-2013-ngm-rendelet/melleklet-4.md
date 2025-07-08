@@ -796,7 +796,7 @@
 
 ## 7. Az euró átállással kapcsolatos dátumokat (felkészülési időszak kezdete, átállás időpontja, kivezetési időszak vége) a NAV üzenetben közli az AEE-vel az 5. mellékletben foglaltak szerint. A pénztárgépnek képesnek kell lennie ezen üzenet alapján az egyes események időpontját megfelelően beállítani.
 
-4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^191]
+4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^195]
 
 Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára és szerkezetére vonatkozó előírások
 
@@ -1916,4 +1916,4 @@ Az egyéb dokumentumok nyomtatását az alábbi bejegyzéssel kell naplózni az 
 
 Egyéb dokumentum nyomtatása bejegyzés azonosító: EDN (gyakorló üzemmódban EDT)
 
-[^191]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.
+[^195]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.

@@ -30,7 +30,7 @@
 
 ## Bizonylat-összesítő nyomtatása esetén a naplóállományban a dokumentum kivonatát kell az Egyéb dokumentum (EDN) típusú naplósorban rögzíteni, melynek tartalma a dokumentum megnevezése, valamint a dokumentumon szereplő bizonylatok összesített darabszáma bizonylattípusonként, a mező megnevezésében a bizonylattípus nevét, az adattartalmában a darabszámot feltüntetve. Csak azokat a bizonylattípusokat kell feltüntetni, melyek szerepeltek a bizonylat-összesítő dokumentumon.
 
-5. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^192]
+5. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^196]
 
 Az Adóügyi Ellenőrző Egység (AEE) és a NAV szerverei közötti kommunikáció protokolljára vonatkozó előírások
 
@@ -1090,104 +1090,4 @@ A pénztárgép üzemeltetésének befejezése során az AEE-ben tárolt napló�
 
 | 4. | A 3a. üzenet fogadása esetén az AEE a forgalmazást az e melléklet 9. esetében foglaltak szerint folytatja. A 3b. üzenet fogadása esetén az AEE bontja az SSL kapcsolatot és 4 órán belül nem ismétli meg a REQFW kérést. |
 
-15. eset: A NAV folyamatot töröl az AEE-n
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Az AEE bejelentkezése (elsőbbségi vagy normál) | PRIOR~YY~XXXXXXXXX~S~N~T vagy TRMRDY~XXXXXXXXX~S~N~T | AEE→MSG |
-
-| 3. | Utasítás egy vagy több folyamat törlésére | UPDCLR~XXXXXXXXX~R~HHHHHHHHHH | MSG→AEE |
-
-| 4. | Az AEE végrehajtja az utasításban foglaltakat. Sikeres végrehajtás esetén a 4a. üzenetet, sikertelen végrehajtás esetén a 4b. üzenetet küldi. Ha a 3. lépésben szereplő üzenetben R=”ALL”, akkor a sikeres végrehajtást az összes utasítás sikeres végrehajtása jelenti. Ha a megjelölt folyamat nem létezik, akkor az AEE a 4c. üzenetet küldi. |
-
-| 4a. | Alaphelyzetbe állítás végrehajtva | ANS~XXXXXXXXX~41~HHHHHHHHHH | AEE→MSG |
-
-| 4b. | Alaphelyzetbe állítás sikertelen | ANS~XXXXXXXXX~42~HHHHHHHHHH | AEE→MSG |
-
-| 4c. | Megjelölt folyamat nem létezik | ANS~XXXXXXXXX~53~HHHHHHHHHH | AEE→MSG |
-
-| 5. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | MSG→AEE |
-
-| 6. | Az AEE bontja az SSL kapcsolatot. |
-
-16. eset: Üzemeltetés folytatása
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Üzemeltetés folytatásának kezdeményezése | SUSPUNDO~XXXXXXXXX | AEE→SSG |
-
-| 3. | Amennyiben az üzemeltetés folytatása megvalósítható, a NAV a 3a. üzenetet, egyébként a 3b. üzenetet küldi. A 3b. üzenet fogadása esetén az AEE bontja az SSL kapcsolatot és a folyamat sikertelenül zárul. |
-
-| 3a. | Blokkolást feloldó üzenet | UNBLCK~HHHHHHHHHH | SSG→AEE |
-
-| 3b. | Üzemeltetés folytatása nem lehetséges | ACK~65~HHHHHHHHHH | SSG→AEE |
-
-| 4. | Az AEE megkísérli feloldani a pénztárgép blokkolt állapotát. Sikeres végrehajtás esetén a 4a. üzenetet, sikertelen végrehajtás esetén a 4b. üzenetet küldi. |
-
-| 4a. | Blokkolás feloldása végrehajtva | ANS~XXXXXXXXX~02~HHHHHHHHHH | AEE→SSG |
-
-| 4b. | Blokkolás feloldás végrehajtása sikertelen | ANS~XXXXXXXXX~32~HHHHHHHHHH | AEE→SSG |
-
-| 5. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | SSG→AEE |
-
-## A sikertelenül zárult folyamat megismételhető.
-
-17. eset: Utasítás a naplófájl maximális méretének beállítására
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Az AEE bejelentkezése (elsőbbségi vagy normál) | PRIOR~YY~XXXXXXXXX~S~N~T vagy TRMRDY~XXXXXXXXX~S~N~T | AEE→MSG |
-
-| 3. | Utasítás a maximális méret beállítására | FILESIZE~XXXXXXXXX~N~HHHHHHHHHH | MSG→AEE |
-
-| 4. | Az AEE megkísérli a méretkorlát beállítását. Sikeres végrehajtás esetén az 5a. üzenetet, sikertelen végrehajtás esetén az 5b. üzenetet küldi. |
-
-| 5a. | Méretkorlát beállítás végrehajtva | ANS~XXXXXXXXX~14~HHHHHHHHHH | AEE→MSG |
-
-| 5b. | Méretkorlát beállítás sikertelen | ANS~XXXXXXXXX~44~HHHHHHHHHH | AEE→MSG |
-
-| 6. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | MSG→AEE |
-
-| 7. | Az AEE bontja az SSL kapcsolatot |
-
-18. eset: Utasítás technikai tájékoztatás bizonylat nyomtatására
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Az AEE bejelentkezése (elsőbbségi vagy normál) | PRIOR~YY~XXXXXXXXX~S~N~T vagy TRMRDY~XXXXXXXXX~S~N~T | AEE→MSG |
-
-| 3. | Utasítás üzenet nyomtatására | PRNT~XXXXXXXXX~SZOVEG~HHHHHHHHHH | MSG→AEE |
-
-| 4. | Az AEE az üzenet szövegét eltárolja későbbi kinyomtatáshoz. Sikeres eltárolás esetén az 5a. üzenetet, sikertelen eltárolás esetén az 5b. üzenetet küldi. |
-
-| 5a. | Nyomtatás végrehajtva | ANS~XXXXXXXXX~45~HHHHHHHHHH | AEE→MSG |
-
-| 5b. | Nyomtatás végrehajtása sikertelen | ANS~XXXXXXXXX~46~HHHHHHHHH | AEE→MSG |
-
-| 6. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | MSG→AEE |
-
-| 7. | Az AEE bontja az SSL kapcsolatot |
-
-## A technikai tájékoztatás bizonylat nem adóügyi bizonylat.
-
-19. eset: Az AEE-NAV kommunikáció tesztelése
-
-| Lépés | Leírás | Üzenet | Irány |
-
-| 1. | Az AEE felépíti az SSL kapcsolatot |
-
-| 2. | Az AEE bejelentkezése (elsőbbségi vagy normál) | PING~XXXXXXXXXX | AEE→MSG |
-
-| 3. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | MSG→AEE |
-
-| 4. | A pénztárgép operátori kijelzőjén megjelenik a „Kommunikációs csatorna él” felirat, majd 60 másodperc múlva az AEE bontja az SSL kapcsolatot. |
-
-[^192]: Az 5. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § f) pontjával megállapított szöveg.
+[^196]: Az 5. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § f) pontjával megállapított szöveg.

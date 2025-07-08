@@ -56,7 +56,7 @@ kc) euró üzemmód.
 
 a) tartalomjegyzék,
 
-b)[^23]
+b)[^24]
 
 c) az adóügyi ellenőrzőegység dátum és idő szinkronizálásnak módja, ha az online kapcsolat alól felmentést kapott,
 
@@ -80,4 +80,4 @@ j) az adóügyi ellenőrző egység pénztárgépen belüli és mobil távközl�
 
 (4) A pénztárgép értékesítésekor a forgalmazó köteles a kezelői leírást a vevő (üzemeltető) részére átadni. A vevő részére a technikai funkció leírás (szervizfunkciók leírása), és a szerviz- és programozó kulcs nem adható át.
 
-[^23]: A 9. § (3) bekezdés b) pontját a 9/2016. (III. 25.) NGM rendelet 38. § 4. pontja hatályon kívül helyezte.
+[^24]: A 9. § (3) bekezdés b) pontját a 9/2016. (III. 25.) NGM rendelet 38. § 4. pontja hatályon kívül helyezte.

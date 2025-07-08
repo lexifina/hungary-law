@@ -4,7 +4,7 @@
 
 (2) Ha a pénztárgép nincs szabályosan plombálva, a plombálást a pénztárgépnaplóba bejegyzettek nem tükrözik hűen, a pénztárgépnaplóba bejegyzett adatok valótlansága alaposan feltételezhető, a pénztárgépnapló nincs az üzemeltetési helyen, továbbá, ha a szervizelési tevékenység megkezdése előtt egyéb rendellenesség észlelhető, erről a műszerész a szervizelési tevékenység megkezdését megelőzően jegyzőkönyvet vesz fel.
 
-(3)[^76] A műszerész a (2) bekezdésben foglaltakon túl a szervizelési tevékenység során észlelt illetéktelen vagy az e rendeletben, illetve a pénztárgép típusáról közzétetteknek meg nem felelő beavatkozásról, az AEE bármilyen sérüléséről, illetéktelen felnyitási kísérletének észleléséről, egyéb rendellenességről is köteles jegyzőkönyvet felvenni.
+(3)[^77] A műszerész a (2) bekezdésben foglaltakon túl a szervizelési tevékenység során észlelt illetéktelen vagy az e rendeletben, illetve a pénztárgép típusáról közzétetteknek meg nem felelő beavatkozásról, az AEE bármilyen sérüléséről, illetéktelen felnyitási kísérletének észleléséről, egyéb rendellenességről is köteles jegyzőkönyvet felvenni.
 
 (4) A műszerész köteles az elvégzett tevékenységet, valamint a szervizelési tevékenység előtti és utáni állapotot a pénztárgépnaplóban dokumentálni.
 
@@ -14,13 +14,13 @@
 
 (7) A plomba sértetlenségéért és olvashatóságáért az üzemeltető a felelős.
 
-(8)[^77] Nem számítógép alapú pénztárgép esetén a műszerész a pénztárgép programot a pénztárgép meghibásodása esetén sem cserélheti, erre kizárólag a forgalmazó jogosult.
+(8)[^78] Nem számítógép alapú pénztárgép esetén a műszerész a pénztárgép programot a pénztárgép meghibásodása esetén sem cserélheti, erre kizárólag a forgalmazó jogosult.
 
-(9)[^78] A (8) bekezdés szerinti esetben a pénztárgép program cseréje esetén a pénztárgépnek első műveletként el kell végeznie az AEE szoftver és a pénztárgép program aktualizálását a NAV szerverén keresztül.
+(9)[^79] A (8) bekezdés szerinti esetben a pénztárgép program cseréje esetén a pénztárgépnek első műveletként el kell végeznie az AEE szoftver és a pénztárgép program aktualizálását a NAV szerverén keresztül.
 
-(10)[^79] A (9) bekezdést nem kell alkalmazni azon pénztárgép tekintetében, amely vonatkozásában az adóalany a 3. § szerinti egyedi mentesítésben részesült.
+(10)[^80] A (9) bekezdést nem kell alkalmazni azon pénztárgép tekintetében, amely vonatkozásában az adóalany a 3. § szerinti egyedi mentesítésben részesült.
 
-[^76]: A 38. § (3) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 10. pontja szerint módosított szöveg.
-[^77]: A 38. § (8) bekezdését a 9/2016. (III. 25.) NGM rendelet 17. §-a iktatta be.
-[^78]: A 38. § (9) bekezdését a 9/2016. (III. 25.) NGM rendelet 17. §-a iktatta be.
-[^79]: A 38. § (10) bekezdését a 9/2016. (III. 25.) NGM rendelet 17. §-a iktatta be.
+[^77]: A 38. § (3) bekezdése a 9/2016. (III. 25.) NGM rendelet 37. § 10. pontja szerint módosított szöveg.
+[^78]: A 38. § (8) bekezdését a 9/2016. (III. 25.) NGM rendelet 17. §-a iktatta be.
+[^79]: A 38. § (9) bekezdését a 9/2016. (III. 25.) NGM rendelet 17. §-a iktatta be.
+[^80]: A 38. § (10) bekezdését a 9/2016. (III. 25.) NGM rendelet 17. §-a iktatta be.

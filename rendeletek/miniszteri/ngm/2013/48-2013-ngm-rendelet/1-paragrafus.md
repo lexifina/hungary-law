@@ -4,6 +4,8 @@
 
 1. § (1) Nyugtaadási kötelezettségüket kizárólag pénztárgéppel teljesíthetik az adóalanyok az 1. mellékletben meghatározott tevékenységük során.
 
+(1a)[^1] Az (1) bekezdéstől eltérően az adóalanyok az 1. mellékletben meghatározott tevékenységük során a nyugtaadási kötelezettségüket választásuk szerint hardveralapú e-pénztárgéppel is teljesíthetik az e-pénztárgépek forgalmazásáról, üzemeltetéséről, valamint az e-pénztárgépek és az e-nyugta kiállításának követelményeiről szóló miniszteri rendeletben meghatározottak szerint.
+
 (2) Mentesül az adóalany a nyugtaadási kötelezettség pénztárgép útján történő teljesítése alól
 
 a) a pénztárgép meghibásodása,
@@ -32,9 +34,10 @@ d) a pénztárgép eltulajdonítása, megsemmisülése, elvesztése esetén az �
 
 (4) A (3) bekezdéstől eltérően, ha a nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítésének feltételei a (3) bekezdés a)–d) pontjában írt időtartam lejárta előtt más módon helyreállnak, a (2) bekezdés szerinti mentesülés ennek időpontjáig érvényes.
 
-(5)[^1] A nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltakor a pénztárgépben első tételként a (2) bekezdés szerinti esemény bekövetkeztétől a nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltáig bizonylatolt bevételt kell rögzíteni (a továbbiakban: utólagos rögzítés).
+(5)[^2] A nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltakor a pénztárgépben első tételként a (2) bekezdés szerinti esemény bekövetkeztétől a nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltáig bizonylatolt bevételt kell rögzíteni (a továbbiakban: utólagos rögzítés).
 
-(6)[^2] Az utólagos rögzítéshez külön adóügyi napot kell nyitni. Az utólagos rögzítéssel érintett időszak egy-egy adóügyi napjának bevételét egy nyugtán, forgalmi gyűjtőnként egy tételben kell rögzíteni. Amennyiben az összegek nagysága vagy egyéb körülmény indokolja, az utólagos rögzítéssel érintett időszak egy-egy adóügyi napjának bevételét több nyugtán is lehet rögzíteni. Az utólagos rögzítés elvégzését követően az adóügyi napot le kell zárni, és az így keletkező forgalmi jelentést az utólagos rögzítéssel érintett időszak alatt kiállított adóügyi bizonylatokkal együtt meg kell őrizni.
+(6)[^3] Az utólagos rögzítéshez külön adóügyi napot kell nyitni. Az utólagos rögzítéssel érintett időszak egy-egy adóügyi napjának bevételét egy nyugtán, forgalmi gyűjtőnként egy tételben kell rögzíteni. Amennyiben az összegek nagysága vagy egyéb körülmény indokolja, az utólagos rögzítéssel érintett időszak egy-egy adóügyi napjának bevételét több nyugtán is lehet rögzíteni. Az utólagos rögzítés elvégzését követően az adóügyi napot le kell zárni, és az így keletkező forgalmi jelentést az utólagos rögzítéssel érintett időszak alatt kiállított adóügyi bizonylatokkal együtt meg kell őrizni.
 
-[^1]: Az 1. § (5) bekezdése a 9/2016. (III. 25.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (6) bekezdését a 9/2016. (III. 25.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^1]: Az 1. § (1a) bekezdését a 21/2025. (VII. 7.) NGM rendelet 2. §-a iktatta be.
+[^2]: Az 1. § (5) bekezdése a 9/2016. (III. 25.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (6) bekezdését a 9/2016. (III. 25.) NGM rendelet 1. § (2) bekezdése iktatta be.

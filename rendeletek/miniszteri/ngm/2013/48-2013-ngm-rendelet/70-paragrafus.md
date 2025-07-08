@@ -1,3 +1,3 @@
-70. §[^167]
+70. §[^169]
 
-[^167]: A 70–71. §-t a 24/2014. (VII. 31.) NGM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^169]: A 70–71. §-t a 24/2014. (VII. 31.) NGM rendelet 5. § a) pontja hatályon kívül helyezte.
