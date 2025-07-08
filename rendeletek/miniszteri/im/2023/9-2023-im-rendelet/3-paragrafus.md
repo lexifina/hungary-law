@@ -1,3 +1,23 @@
-3. § (1) A vizsgáról az ügyviteli vizsgabizottság az 1. melléklet szerinti tanúsítványt állítja ki. A vizsga – a vizsgázó felkészültségéhez igazodóan – „megfelelt” vagy „nem felelt meg” eredménnyel minősíthető.
+3. §[^5] (1) A vizsga – a vizsgázó felkészültségéhez igazodóan – „megfelelt” vagy „nem felelt meg” eredménnyel minősíthető. Az eredményesen letett vizsgáról a jelentkező részére a Jogakadémia a (2) bekezdés szerinti adattartalommal tanúsítványt állít ki.
 
-(2) Ha az ügyviteli vizsgabizottság a vizsgázó felkészültségét nem találja megfelelőnek, a vizsga megismétlésére utasítja, és meghatározza azt a legrövidebb időt – legalább három hónapot – amelynek letelte után a vizsgázó újabb vizsgára jelentkezhet.
+(2) A Jogakadémia által kiállított papíralapú tanúsítvány tartalmazza
+
+a) a vizsgára kötelezett személy
+
+aa) nevét,
+
+ab) születési helyét és idejét,
+
+b) a vizsga teljesítésének tényét és időpontját,
+
+c) a kiállítás időpontját,
+
+d) a vizsgabizottság elnökének és tagjainak aláírását és
+
+e) a Jogakadémia bélyegzőlenyomatát.
+
+(3) Ha az (1) bekezdés szerinti tanúsítvány elveszett, megsemmisült vagy megrongálódott, a vizsgázó kérelme esetén a Jogakadémia a tanúsítvány pótlásáról gondoskodik.
+
+(4) Ha a vizsgázó „nem felelt meg” minősítést kapott a vizsgán, a vizsgát megismételheti.
+
+[^5]: A 3. § a 7/2025. (VI. 30.) IM rendelet 34. §-ával megállapított szöveg.
