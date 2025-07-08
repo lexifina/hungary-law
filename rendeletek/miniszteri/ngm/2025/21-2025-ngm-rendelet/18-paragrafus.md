@@ -1,0 +1,3 @@
+## 6. A könyvviteli szolgáltatást végzők, az adótanácsadók, az adószakértők és az okleveles adószakértők nyilvántartásba vételével és továbbképzésével összefüggő eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 17/2018. (XII. 20.) PM rendelet módosítása
+
+18. § A könyvviteli szolgáltatást végzők, az adótanácsadók, az adószakértők és az okleveles adószakértők nyilvántartásba vételével és továbbképzésével összefüggő eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 17/2018. (XII. 20.) PM rendelet 4. § (1) bekezdésében és 6. § (1) bekezdésében a „Pénzügyminisztérium 10032000-01460658-00000000 számú” szövegrész helyébe a „Nemzetgazdasági Minisztérium 10032000-00005503-06010011 számú” szöveg lép.
