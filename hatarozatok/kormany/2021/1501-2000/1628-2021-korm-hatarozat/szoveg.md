@@ -2,7 +2,7 @@ A Magyarország Kormánya és Székesfehérvár Megyei Jogú Város Önkormányz
 
 1. egyetért a Fejér Megyei Szent György Egyetemi Oktató Kórház fejlesztésének előkészítésével és megvalósításával (a továbbiakban: Beruházás) az ingatlan-nyilvántartás szerinti Székesfehérvár belterület 8404 helyrajzi számú ingatlanon azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Fejér Megyei Szent György Egyetemi Oktató Kórház vagyonkezelésébe kerüljenek;
 
-2.[^1] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 15 169 179 149 forintban határozza meg;
+2.[^1] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 16 990 839 208 forintban határozza meg;
 
 3.[^2]
 
@@ -58,6 +58,6 @@ pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
-[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 80. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 13. pontja szerint módosított szöveg.
 [^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 79. pontja iktatta be.
