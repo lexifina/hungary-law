@@ -1,4 +1,4 @@
-## 4/B. [^22] Adatszolgáltatás az állami adó- és vámhatóság útján továbbított számlakibocsátással
+## 4/B. [^27] Adatszolgáltatás az állami adó- és vámhatóság útján továbbított számlakibocsátással
 
 13/C. § (1) Az adóalany az Áfa tv. 10. számú melléklet 1–5/A. pontja szerinti adatszolgáltatási kötelezettségének eleget tehet úgy is, hogy az általa teljesített termékértékesítésről, szolgáltatásnyújtásról, ennek teljesítéséhez kapott előlegről kiállított elektronikus számlát, számlával egy tekintet alá eső okiratot az állami adó- és vámhatóság által erre a célra kialakított infrastruktúrán keresztül bocsátja a terméket beszerző, szolgáltatást igénybevevő rendelkezésére.
 
@@ -18,4 +18,4 @@ b) a számlával egy tekintet alá eső okirat olyan számla adattartalmát mód
 
 (7) Az (1)–(4) bekezdés alkalmazása szerinti adatszolgáltatásra a 13/A. § (5)–(7) bekezdése és a 13/B. § (4) és (5) bekezdése nem alkalmazható.
 
-[^22]: A 4/B. alcímet (13/C. §) a 17/2020. (XII. 30.) PM rendelet 1. §-a iktatta be.
+[^27]: A 4/B. alcímet (13/C. §) a 17/2020. (XII. 30.) PM rendelet 1. §-a iktatta be.

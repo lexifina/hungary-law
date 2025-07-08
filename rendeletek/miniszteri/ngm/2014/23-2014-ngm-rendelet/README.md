@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-23-20-2
 | 2018-07-01 | 2014-23-20-2X.10 | 2/2018. (VI. 1.) PM rendelet |
 | 2021-01-04 | 2014-23-20-2X.11 | 17/2020. (XII. 30.) PM rendelet |
 | 2021-06-26 | 2014-23-20-2X.12 | 6/2021. (VI. 25.) PM rendelet |
+| 2025-07-08 | 2014-23-20-2X.13 | 21/2025. (VII. 7.) NGM rendelet |

@@ -1,3 +1,3 @@
-## 25. §[^30]
+26. §[^36]
 
-[^30]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,9 +10,13 @@ c) a számítógéppel előállított nyugtára.
 
 (2) E rendelet hatálya annyiban terjed ki a pénztárgéppel és taxaméterrel kibocsátott számlára és nyugtára, amennyiben e rendelet erről kifejezetten rendelkezik.
 
+(2a)[^1] E rendelet hatálya annyiban terjed ki az e-pénztárgéppel kiállított számlára és az e-nyugtára, amennyiben e rendelet erről kifejezetten rendelkezik.
+
 (3) A nyomtatvány felhasználásával kibocsátott nyugta és számla, a számlázó programmal előállított számla, továbbá a számítógéppel előállított nyugta akkor minősül adóigazgatási azonosításra alkalmasnak, ha megfelel az e rendeletben foglalt előírásoknak.
 
 (4) Pénztárgéppel kiállított nyugta adóigazgatási azonosításra való alkalmasságának feltétele, hogy a pénztárgép megfeleljen a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló rendeletben (a továbbiakban: Pénztárgép rendelet) meghatározott feltételeknek.
+
+(4a)[^2] Az e-nyugta adóigazgatási azonosításra való alkalmasságának feltétele, hogy az e-pénztárgép megfeleljen az e-pénztárgépek forgalmazásáról, üzemeltetéséről, valamint az e-pénztárgépek és az e-nyugta kiállításának követelményeiről szóló 8/2025. (III. 31.) NGM rendeletben (a továbbiakban: E-Pénztárgép rendelet) meghatározott feltételeknek.
 
 (5) A taxaméterrel kiállított nyugta adóigazgatásra való alkalmasságának feltétele, hogy a taxaméter megfeleljen a taxaméterek műszaki követelményeiről, a nyugtakibocsátásra szolgáló taxaméterek forgalmazásáról, használatáról és szervizeléséről szóló rendeletben meghatározott feltételeknek.
 
@@ -21,3 +25,13 @@ c) a számítógéppel előállított nyugtára.
 a) a pénztárgép megfeleljen a Pénztárgép rendeletben meghatározott feltételeknek, valamint
 
 b) a pénztárgép számlázófunkciója megfeleljen a 8. § (1) bekezdés a) pontjában és a 8. § (2)–(5) bekezdésében foglaltaknak.
+
+(7)[^3] Az e-pénztárgéppel kibocsátott számla adóigazgatási azonosításra való alkalmasságának feltétele, hogy
+
+a) az e-pénztárgép megfeleljen az E-Pénztárgép rendeletben meghatározott feltételeknek, valamint
+
+b) az e-pénztárgép számlázófunkciója megfeleljen a 8. § (1) bekezdés a) pontjában és a 8. § (2)–(5) bekezdésében foglaltaknak.
+
+[^1]: Az 1. § (2a) bekezdését a 21/2025. (VII. 7.) NGM rendelet 7. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (4a) bekezdését a 21/2025. (VII. 7.) NGM rendelet 7. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (7) bekezdését a 21/2025. (VII. 7.) NGM rendelet 7. § (3) bekezdése iktatta be.

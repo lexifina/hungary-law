@@ -185,3 +185,5 @@
 ## Amennyiben ennek a Szerződésnek bármely cikke vagy annak egy része érvénytelenné válik, az összes többi cikk érvényben és hatályban marad.
 
 2. melléklet a 23/2014. (VI. 30.) NGM rendelethez
+
+Az XML séma mezőinek fogalommagyarázata, elnevezések táblázata

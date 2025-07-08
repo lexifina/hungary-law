@@ -1,4 +1,4 @@
-10. § (1)[^8] A számlázó program értékesítésekor, rendelkezésre bocsátásakor az értékesítő, rendelkezésre bocsátó köteles a vevő, felhasználó részére átadni vagy egyéb módon rendelkezésére bocsátani a számlázó program fejlesztője által készített felhasználói dokumentációt, valamint tájékoztatnia kell a vevőt, felhasználót a számlázó program nevéről és azonosítójáról.
+10. § (1)[^13] A számlázó program értékesítésekor, rendelkezésre bocsátásakor az értékesítő, rendelkezésre bocsátó köteles a vevő, felhasználó részére átadni vagy egyéb módon rendelkezésére bocsátani a számlázó program fejlesztője által készített felhasználói dokumentációt, valamint tájékoztatnia kell a vevőt, felhasználót a számlázó program nevéről és azonosítójáról.
 
 (2) Az (1) bekezdés szerinti dokumentációnak tartalmaznia kell a számlázó program működésére, használatára vonatkozó részletes leírást és a számlázó program valamennyi funkciójának ismertetését. A számlázó program kizárólag a dokumentációban szereplő funkciókat hajthatja végre.
 
@@ -8,14 +8,14 @@
 
 (5) A (2) és a (4) bekezdésben a dokumentáció tekintetében meghatározott kötelezettségek vonatkoznak a saját fejlesztésű programot használó adóalanyra is.
 
-(6)[^9] Amennyiben az (1) bekezdés szerinti dokumentáció nem magyar, német, francia vagy angol nyelvek bármelyikén készült, annak magyar nyelven történő rendelkezésre állásáról
+(6)[^14] Amennyiben az (1) bekezdés szerinti dokumentáció nem magyar, német, francia vagy angol nyelvek bármelyikén készült, annak magyar nyelven történő rendelkezésre állásáról
 
 a) a számlázó programot értékesítő, rendelkezésre bocsátó köteles gondoskodni, feltéve, hogy belföldön nyilvántartásba vett adóalany,
 
 b) egyéb, az a) pont alá nem tartozó esetben a számlázó programot használó adóalany köteles gondoskodni.
 
-(7)[^10] Az (1) bekezdés szerinti dokumentáció magyar nyelvű fordítására az ezen dokumentációra vonatkozó rendelkezéseket kell alkalmazni.
+(7)[^15] Az (1) bekezdés szerinti dokumentáció magyar nyelvű fordítására az ezen dokumentációra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^8]: A 10. § (1) bekezdése a 45/2014. (XII. 30.) NGM rendelet 27. § 1. pontja szerint módosított szöveg.
-[^9]: A 10. § (6) bekezdését a 45/2014. (XII. 30.) NGM rendelet 25. §-a iktatta be.
-[^10]: A 10. § (7) bekezdését a 45/2014. (XII. 30.) NGM rendelet 25. §-a iktatta be.
+[^13]: A 10. § (1) bekezdése a 45/2014. (XII. 30.) NGM rendelet 27. § 1. pontja szerint módosított szöveg.
+[^14]: A 10. § (6) bekezdését a 45/2014. (XII. 30.) NGM rendelet 25. §-a iktatta be.
+[^15]: A 10. § (7) bekezdését a 45/2014. (XII. 30.) NGM rendelet 25. §-a iktatta be.

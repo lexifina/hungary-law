@@ -1,4 +1,4 @@
-## Az XML séma mezőinek fogalommagyarázata, elnevezések táblázata
+## 4K10826_0
 
 | Számla tartalmi elemei | Fogalommagyarázat | XSD elnevezés |
 
