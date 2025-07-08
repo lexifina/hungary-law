@@ -22,7 +22,7 @@ c) eltulajdonított AFE esetén az eltulajdonítás miatt indult szabálysérté
 
 d) az üzemeltető az általa használatból végleg kivont AFE esetében a bejelentéstől
 
-## számított 30 napon belül kell elvégezni.
+számított 30 napon belül kell elvégezni.
 
 (3) Az AFE selejtezhető az (1) bekezdés alá nem tartozó esetekben is. A selejtezésről a felügyeleti szolgáltató jegyzőkönyvet vesz fel és a selejtezésről a NAV részére elektronikus úton, az erre a célra rendszeresített nyomtatványon adatot szolgáltat.
 

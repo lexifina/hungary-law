@@ -16,7 +16,7 @@ a) az (1) bekezdés szerinti jogellenes állapot nem szüntethető meg, vagy
 
 b) a felügyeleti szolgáltató nem tesz eleget a 20. § (4) bekezdésében foglaltaknak,
 
-## az engedélyező hatóság az felügyeleti szolgáltató engedélyét visszavonja.
+az engedélyező hatóság az felügyeleti szolgáltató engedélyét visszavonja.
 
 (5)[^9] Az az automata, amelyben olyan AFE működik, amelyhez tartozó felügyeleti szolgáltató engedélye visszavonásra került, a felügyeleti szolgáltatói engedély visszavonásáról szóló határozat véglegessé válásának napjától nem üzemeltethető, ha a jogellenes állapot befolyásolja az AFE adózással összefüggő funkcióinak működését.
 

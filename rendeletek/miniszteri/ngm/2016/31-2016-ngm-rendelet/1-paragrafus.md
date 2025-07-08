@@ -13,3 +13,5 @@ b) az automata üzemeltetőjére;
 c) az automata működéséhez elhelyezést, helyet biztosító természetes vagy jogi személyekre (az automata üzemelési helyszíne felett rendelkezéssel bíró adóalany); és
 
 d) a felügyeleti szolgáltatóra
+
+terjed ki.

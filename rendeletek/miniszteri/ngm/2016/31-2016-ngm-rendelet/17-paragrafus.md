@@ -11,3 +11,5 @@ b) a felügyeleti szolgáltató informatikai rendszerének megfelelőségét iga
 c) a dokumentációk teljességének vizsgálatából, és
 
 d) funkcionális vizsgálatból
+
+áll.

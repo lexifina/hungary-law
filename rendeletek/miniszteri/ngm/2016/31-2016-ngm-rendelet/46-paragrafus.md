@@ -14,7 +14,7 @@ b) az AFE kiszerelését automatából, és
 
 c) az AFE és az automata egyéb alkatrészei közötti kapcsolat kiépítését vagy megbontását
 
-## végezheti.
+végezheti.
 
 (3) A felügyeleti szolgáltató nevében eljáró személy a szervizelési tevékenység megkezdését megelőzően erre történő külön felhívás nélkül is köteles az AFE telepítési engedélyét az üzemeltető (képviselője, alkalmazottja, meghatalmazottja, üzemeltető részéről jelen lévő más személy) részére a szervizelési jogosultság ellenőrzésére alkalmas módon bemutatni.
 

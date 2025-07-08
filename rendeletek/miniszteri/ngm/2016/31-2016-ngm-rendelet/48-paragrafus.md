@@ -11,3 +11,5 @@
 a) a jogi személy jogutódja, vagy jogszabályban, határozatban erre kötelezett,
 
 b) a közkereseti társaságnál és a betéti társaságnál a jogszabályban meghatározott személy
+
+tesz eleget.

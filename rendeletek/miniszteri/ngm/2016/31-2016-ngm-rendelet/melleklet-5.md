@@ -54,6 +54,8 @@
 
 ## Naplóállomány nyitása bejegyzés azonosító: LON
 
+## 6K68573_0
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám | 5 karakteres szám |
@@ -71,6 +73,8 @@
 ## 15) A automatában bekövetkező egyes eseményeket az alábbi bejegyzéssel kell naplózni:
 
 ## Bejegyzés azonosító: EVT
+
+## 6K68573_1
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -121,6 +125,8 @@
 ## 20) Az AFE működési információi bejegyzés szerkezete és adattartalma a következő:
 
 ## AFE működési információi bejegyzés azonosítója: INF
+
+## 6K68573_3
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -204,6 +210,8 @@
 
 ## AFE rendszerállapota bejegyzés azonosító: STA
 
+## 6K68573_4
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám | 5 karakteres szám |
@@ -227,6 +235,8 @@
 ## 23) Az AFE forgalmazási mérőszámai bejegyzés tartalma és szerkezete a következő:
 
 ## AFE forgalmazási mérőszámai bejegyzés azonosító: OPR
+
+## 6K68573_5
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -254,6 +264,8 @@
 
 ## Óraállítás bejegyzés azonosító: TUD
 
+## 6K68573_6
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám | max 5 hosszú numerikus |
@@ -271,6 +283,8 @@
 ## 25) Az automatán lebonyolított értékesítést az alább meghatározott szerkezetű és adattartalmú bejegyzésekkel kell naplózni az AFE naplóállományában.
 
 ## Értékesítés bejegyzés azonosító: NYN
+
+## 6K68573_7
 
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
@@ -346,6 +360,8 @@
 
 ## Napi forgalmi jelentés bejegyzés azonosító: NFN
 
+## 6K68573_8
+
 | Sorszám | Mező azonosító | Mező tartalmának leírása | Formátum |
 
 | 1. | RSR | Bejegyzés sorszám | 5 karakteres szám |
@@ -380,7 +396,7 @@
 
 | 16. | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-5. melléklet a 31/2016. (IX. 2.) NGM rendelethez[^27]
+5. melléklet a 31/2016. (IX. 2.) NGM rendelethez[^41]
 
 Igazgatási szolgáltatási díjak
 
@@ -394,4 +410,4 @@ Igazgatási szolgáltatási díjak
 
 | 4. | 3. | Felügyeleti szolgáltatói engedély módosítása [egy éven belül a második, vagy az azt követő módosítás(ok)] | módosításonként 400 000 Ft |
 
-[^27]: Az 5. melléklet a 7/2018. (III. 19.) NGM rendelet 3. §-ával megállapított szöveg.
+[^41]: Az 5. melléklet a 7/2018. (III. 19.) NGM rendelet 3. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 2. §[^1]
-
 ## 1. Értelmező rendelkezések
 
 ## 3. § E rendelet alkalmazásában:
@@ -36,5 +34,4 @@
 
 16. üzemeltetési hely: az automata működtetési helye.
 
-[^1]: A 2. §-t a 7/2018. (III. 19.) NGM rendelet 5. §-a hatályon kívül helyezte.
 [^2]: A 3. § 2. pontja a 7/2018. (III. 19.) NGM rendelet 4. § 1. pontja szerint módosított szöveg.

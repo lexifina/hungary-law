@@ -1,5 +1,3 @@
-## tesz eleget.
-
 49. § (1) A felügyeleti szolgáltató köteles saját maga vagy az érdekkörében eljáró fél útján a szolgáltatási területén lévő AFE szervizelését biztosítani.
 
 (2) Az üzemeltető köteles évente minden általa üzemeltetett automatában működő AFE felülvizsgálatát elvégeztetni a felügyeleti szolgáltatóval. A felülvizsgálat során ellenőrizni kell:

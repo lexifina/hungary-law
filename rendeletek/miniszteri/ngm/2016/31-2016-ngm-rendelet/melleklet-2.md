@@ -4,23 +4,23 @@
 
 ## 1) Az élelmiszer értékesítését kezelőszemélyzet nélkül végző étel- és italautomata beruházásainak védelmében a FSZ az egyes automata típusok sajátosságaihoz igazodóan alakíthatja ki a jelen melléklet követelményeiben meghatározott képességekkel rendelkező AFE és saját központja közötti kommunikációt. A kommunikációt úgy kell kialakítani, hogy a jelen rendelet 3. mellékletében definiált NAV felé történő kommunikáció és adatszolgáltatás megvalósítható legyen.
 
-## 2) Az FSZ elektronikus információs rendszerét legalább az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvényben meghatározott technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre, továbbá a biztonsági osztályba és biztonsági szintbe sorolásra vonatkozó követelményekről szóló 41/2015. (VII. 15.) BM rendelet alapján úgy kell kialakítani hogy megfeleljen a védelmi intézkedések területén az következő biztonsági osztályok:
+## 2)[^30] Az FSZ elektronikus információs rendszerét legalább a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről szóló 7/2024. (VI. 24.) MK rendelet alapján úgy kell kialakítani, hogy megfeleljen a védelmi intézkedések területén a következő biztonsági osztályoknak:
 
-## a) Adminisztratív védelmi intézkedések – 3. biztonsági osztály
+## a) Adminisztratív védelmi intézkedések – Jelentős biztonsági osztály
 
-## b) Fizikai védelmi intézkedések – 3. biztonsági osztály
+## b) Fizikai védelmi intézkedések – Jelentős biztonsági osztály
 
 ## c) Logikai védelmi intézkedések
 
-## i. bizalmasság – 3. biztonsági osztály,
+## i. bizalmasság – Jelentős biztonsági osztály,
 
-## ii. sértetlenség – 3. biztonsági osztály,
+## ii. sértetlenség – Jelentős biztonsági osztály,
 
-## iii. rendelkezésre állás – 3. biztonsági osztály.
+## iii. rendelkezésre állás – Jelentős biztonsági osztály.
 
-## 3) Az AFE-k és a FSZ között zárt APN-t kell kialakítani. Az AFE és a FSZ közötti kommunikációs csatornát a telemetriai, műszaki felügyeleti valamint fizetési tranzakciók lebonyolítására is igénybe lehet venni. Ezen információk leválasztását az értékesítési információkról a FSZ központi rendszere végzi.
+## 3)[^31] Az AFE-k és a FSZ között zárt APN-t kell kialakítani. Az AFE és a FSZ közötti kommunikációs csatornát a telemetriai, műszaki felügyeleti, valamint fizetési tranzakciók lebonyolítására is igénybe lehet venni. Ezen információk leválasztását az értékesítési információkról a FSZ központi rendszere végzi.
 
-## 4) Az AFE és a FSZ közötti kommunikációban biztosítani kell az AFE-k device certificate alapú azonosítását, az adatok SSL titkosítással történő biztonságos küldését valamint az AFE-k által generált aláíró kulccsal történő adat aláírást a sértetlenség érdekében. Az alkalmazott kulcsok hossza RSA algoritmus esetén legalább 2048 bit legyen. Ezzel egyenértékű biztonságot adó más algoritmus is használható, amennyiben azt a 7-8. § szerinti tanúsítványt kiállító tanúsító szervezet elfogadja.
+## 4)[^32] Az AFE és a FSZ közötti kommunikációban biztosítani kell az AFE-k device certificate alapú azonosítását, az adatok SSL titkosítással történő biztonságos küldését, valamint az AFE-k által generált aláíró kulccsal történő adat aláírást a sértetlenség érdekében. Az alkalmazott kulcsok hossza RSA algoritmus esetén legalább 2048 bit legyen. Ezzel egyenértékű biztonságot adó más algoritmus is használható, amennyiben azt a 7-8. § szerinti tanúsítványt kiállító tanúsító szervezet elfogadja.
 
 ## 5) A biztonsági követelményeknek való megfelelőséget a 8. §-nak és a 9. §-nak megfelelő tanúsító szervezet által kiállított tanúsítvánnyal kell igazolni, melyet az engedélyezési kérelemhez kell csatolni.
 
@@ -48,9 +48,9 @@
 
 ## j) biztosítania kell, hogy felügyeleti szolgáltatói feladatainak ellátása céljából működtetett rendszeréhez kizárólag a felügyeleti szolgáltató informatikai rendszerének megfelelőségét igazoló tanúsítványban megnevezett AFE kapcsolódhasson,
 
-## k) az AFE által rögzített értékesítési adatokból (tranzakciós adatok) létrejött adatcsomagokat zárt számadású, kihagyás és ismétlés nélkül növekvő sorozatszámmal, valamint az AFE-ban tárolt kulcs felhasználásával védett hardver és szoftver környezetben elektronikus aláírással kell ellátnia, amelyhez az aláíró kulcsot a felügyeleti szolgáltató adja ki saját rendszeréből ,
+## k)[^33] az AFE által rögzített értékesítési adatokból (tranzakciós adatok) létrejött adatcsomagokat zárt számadású, kihagyás és ismétlés nélkül növekvő sorozatszámmal, valamint az AFE-ban tárolt kulcs felhasználásával védett hardver és szoftver környezetben elektronikus aláírással kell ellátnia, amelyhez az aláíró kulcsot a felügyeleti szolgáltató adja ki saját rendszeréből,
 
-## l) a beérkező adózói adatokat és a központi rendszerének működési naplóit olyan módon kell archiválnia, hogy az a lenyomatképző algoritmusok biztonsági gyengülése ellen védett legyen, és az archiválás megfeleljen a digitális archiválás szabályairól szóló 114/2007. (XII. 29.) GKM rendeletben meghatározott hosszú távú megőrzésre alkalmas archiváló rendszer feltételeinek.
+## l)[^34] a beérkező adózói adatokat és a központi rendszerének működési naplóit olyan módon kell archiválnia, hogy az a lenyomatképző algoritmusok biztonsági gyengülése ellen védett legyen, és az archiválás megfeleljen a digitális archiválás szabályairól szóló 1/2018. (VI. 29.) ITM rendeletben meghatározott hosszú távú megőrzésre alkalmas archiváló rendszer feltételeinek.
 
 ## B) Az AFE-ra vonatkozó követelmények
 
@@ -68,7 +68,7 @@
 
 ## 7. Értékesítéskor az AFE rögzíti az értékesítés adatait. A rögzített adatokat az AFE mindaddig tárolja, amíg azokat nem tudta az FSZ számára sikeresen továbbítani.
 
-## 8. Az AFE-t az automatába olyan módon kell beépíteni, hogy az elválaszthatatlanul kapcsolódjon az automata vezérlőpaneljéhez. Az AFE beépítést úgy kell megvalósítani, hogy az bekötésében, vezérlési logikában valamint rögzítési kivitelezésében az automata vezérlésének, pénzvizsgáló, banki tranzakciós terminál, illetve egyéb csatlakozó elemeinek tekintetében roncsolás nélkül megbonthatatlan zárt rendszert képezzen. A beépítést úgy kell megvalósítani, hogy a vezérlési és fizető eszköz kezelést megvalósító elemeinek megbontása esetén, illetve az AFE kiktatása esetén az automatának működésképtelennek és árukiadásra alkalmatlannak kell lennie.
+## 8.[^35] Az AFE-t az automatába olyan módon kell beépíteni, hogy az elválaszthatatlanul kapcsolódjon az automata vezérlőpaneljéhez. Az AFE beépítést úgy kell megvalósítani, hogy az bekötésében, vezérlési logikában, valamint rögzítési kivitelezésében az automata vezérlésének, pénzvizsgáló, banki tranzakciós terminál, illetve egyéb csatlakozó elemeinek tekintetében roncsolás nélkül megbonthatatlan zárt rendszert képezzen. A beépítést úgy kell megvalósítani, hogy a vezérlési és fizető eszköz kezelést megvalósító elemeinek megbontása esetén, illetve az AFE kiktatása esetén az automatának működésképtelennek és árukiadásra alkalmatlannak kell lennie.
 
 ## BA) Automata blokkolt állapota
 
@@ -92,7 +92,7 @@
 
 ## 13. Az AFE-t fizikailag az automata burkolatán belül kell elhelyezni. Ha az elhelyezés a burkolaton belül nem valósítható meg, akkor az AFE az automata burkolatához rögzítetten kell elhelyezni úgy, hogy az AFE felnyitása vagy eltávolítása csak roncsolással legyen megvalósítható.
 
-## 14. Az AFE-nek meg kell felelnie az elektromágneses összeférhetőségről szóló 62/2006. (VIII. 30.) GKM rendelet előírásainak. Az AFE adattartalma UV sugárzással nem lehet törölhető.
+## 14.[^36] Az AFE-nek meg kell felelnie az elektromágneses összeférhetőségről szóló 8/2016. (XII. 6.) NMHH rendelet előírásainak. Az AFE adattartalma UV sugárzással nem lehet törölhető.
 
 ## 15. Az AFE-t úgy kell kivitelezni, hogy kizárólag az AFE burkolat roncsolásával lehet nyitható. A burkolat roncsolásakor az AFE-nek blokkolt állapotba kell kerülnie.
 
@@ -116,7 +116,7 @@
 
 ## BD) Hardverkövetelmények
 
-## 19. Az AFE-nek legalább akkora saját, a tápellátás megszűnésekor adatot megőrző tárkapacitással kell rendelkeznie, ami lehetővé teszi a FSZ által kialakított naplózási struktúrában legalább 10 napnyi szokásos üzletmenetre vonatkozó adat tárolását abban az esetben, ha a az AFE és a FSZ közötti adatkapcsolat az elektronikus hírközlő hálózat elérhetőségének hiányából nem építhető ki. Az alkalmazott technológiának legalább 10 000 újraírást kell lehetővé tennie.
+## 19.[^37] Az AFE-nek legalább akkora saját, a tápellátás megszűnésekor adatot megőrző tárkapacitással kell rendelkeznie, ami lehetővé teszi a FSZ által kialakított naplózási struktúrában legalább 10 napnyi szokásos üzletmenetre vonatkozó adat tárolását abban az esetben, ha az AFE és a FSZ közötti adatkapcsolat az elektronikus hírközlő hálózat elérhetőségének hiányából nem építhető ki. Az alkalmazott technológiának legalább 10 000 újraírást kell lehetővé tennie.
 
 ## 20. Az AFE adattartalmához való hozzáférés és az adattartalmon végzett bármilyen külső beavatkozás kizárólag az e rendeletben foglaltak szerint, a FSZ által vagy annak engedélyével lehetséges.
 
@@ -148,13 +148,13 @@
 
 ## BE) Az AFE adatszolgáltatásának technológiája
 
-## 31. Az AFE a FSZ rendszerén keresztül a NAV szerverrel vel titkosított kapcsolatot alakít ki, amelynek publikus és privát kulcsát az AFE gyártó kezdeményezésére a FSZ szolgáltatja. A titkosított kapcsolat kialakításához szükséges publikus és privát kulcs rendelkezésre bocsátásának rendjét a FSZ holnapján közleményben teszi közzé. Az AFE és a FSZ szerver közötti titkosított kapcsolathoz szükséges kulcskezelő és nyilvántartó rendszert (PKI) a FSZ biztosítja. Az AFE-nek képesnek kell lennie ezzel a rendszerrel együttműködni.
+## 31.[^38] Az AFE a FSZ rendszerén keresztül a NAV szerverrel titkosított kapcsolatot alakít ki, amelynek publikus és privát kulcsát az AFE gyártó kezdeményezésére a FSZ szolgáltatja. A titkosított kapcsolat kialakításához szükséges publikus és privát kulcs rendelkezésre bocsátásának rendjét a FSZ holnapján közleményben teszi közzé. Az AFE és a FSZ szerver közötti titkosított kapcsolathoz szükséges kulcskezelő és nyilvántartó rendszert (PKI) a FSZ biztosítja. Az AFE-nek képesnek kell lennie ezzel a rendszerrel együttműködni.
 
-## 32. Az AFE-nek nem lehet érvényes, nyilvános hálózaton való azonosítást lehetővé tevő IP-címe. Az AFE kizárólag a FSZ-val folytathat kommunikációt kivéve a kártyás fizetési banki kommunikációt.
+## 32.[^39] Az AFE-nek nem lehet érvényes, nyilvános hálózaton való azonosítást lehetővé tevő IP-címe. Az AFE kizárólag a FSZ-val folytathat kommunikációt, kivéve a kártyás fizetési banki kommunikációt.
 
 ## BF) Biztonsági követelmények
 
-## 33. Biztosítani kell az automata és AFE megbonthatatlan egységét és egyedi azonosíthatóságát. Az AFE automatába történő be, fel illetve onnan történő ki vagy leszerelését kizárólag az e rendelet szerint a FSZ végezheti.
+## 33.[^40] Biztosítani kell az automata és AFE megbonthatatlan egységét és egyedi azonosíthatóságát. Az AFE automatába történő be-, fel-, illetve onnan történő ki- vagy leszerelését kizárólag az e rendelet szerint a FSZ végezheti.
 
 ## 34. Az AFE-nek képesnek kell lennie
 
@@ -209,3 +209,17 @@
 ## 49. Az euró átállás dátumát a NAV üzenetben közli az AFE-vel a 3. mellékletben foglaltak szerint. Az AFE-nek képesnek kell lennie ezen üzenet alapján az esemény időpontját megfelelően beállítani.
 
 2. melléklet a 31/2016. (IX. 2.) NGM rendelethez
+
+Az általános szerződési feltételek minimális tartalmi elemei
+
+[^30]: Az 1. melléklet A) rész 2) bekezdése a 21/2025. (VII. 7.) NGM rendelet 17. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet A) rész 3) bekezdése a 21/2025. (VII. 7.) NGM rendelet 16. § 1. pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet A) rész 4) bekezdése a 21/2025. (VII. 7.) NGM rendelet 16. § 2. pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet A) rész 7) bekezdés k) pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 3. pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet A) rész 7) bekezdés l) pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 4. pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet B) rész 8. pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 5. pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet BB) rész 14. pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 6. pontja szerint módosított szöveg.
+[^37]: Az 1. melléklet BD) rész 19. pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 7. pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet BE) rész 31. pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 8. pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet BE) rész 32. pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 9. pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet BF) rész 33. pontja a 21/2025. (VII. 7.) NGM rendelet 16. § 10. pontja szerint módosított szöveg.

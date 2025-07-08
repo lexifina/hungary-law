@@ -1,5 +1,3 @@
-## Az általános szerződési feltételek minimális tartalmi elemei
-
 ## 1. Általános adatok, elérhetőség:
 
 ## 1.1. a felügyeleti szolgáltató neve és címe,
@@ -118,7 +116,7 @@
 
 3. melléklet a 31/2016. (IX. 2.) NGM rendelethez
 
-## A felügyeleti szolgáltató informatikai rendszere és a NAV szerverei közötti kommunikáció protokolljára vonatkozó előírások
+A felügyeleti szolgáltató informatikai rendszere és a NAV szerverei közötti kommunikáció protokolljára vonatkozó előírások
 
 1. A FSZ és a NAV szerver üzenetei az UTF-8-as kódlap szerint kódolt karaktersorozatok. Jelen melléklet tekintetében XXXXXXXXX az adatszolgáltatással érintett AFE AP számát, HHHHHHHHHH a szerver által előállított, 10 hexadecimális számjegyből álló munkamenet azonosító kódot jelöli. Amennyiben az FSZ válaszüzeneteiben a HHHHHHHHHH igazoló kód szerepel, úgy minden esetben a megelőző NAV üzenetben szereplő kódot kell alkalmazni.
 
@@ -690,7 +688,7 @@ III. Az AFE-NAV forgalmazások forgatókönyvei
 
 | 12. | Az AFE bontja az SSL kapcsolatot |
 
-Egy adózói vagy telephely adat frissítési folyamaton belül a NAV legfeljebb kettő DEFUPD üzenetet küld úgy, hogy az üzenetek P1 paraméterének értéke különbözik. Az automata adózói vagy telephely adatainak frissítésére irányuló üzenet fogadását az AFE akkor és csak akkor tekintheti sikeresnek, ha a 6. lépésben jelölt visszaigazolás megtörtént, egyébként teljes egészében sikertelennek kell tekintenie.
+## Egy adózói vagy telephely adat frissítési folyamaton belül a NAV legfeljebb kettő DEFUPD üzenetet küld úgy, hogy az üzenetek P1 paraméterének értéke különbözik. Az automata adózói vagy telephely adatainak frissítésére irányuló üzenet fogadását az AFE akkor és csak akkor tekintheti sikeresnek, ha a 6. lépésben jelölt visszaigazolás megtörtént, egyébként teljes egészében sikertelennek kell tekintenie.
 
 6. eset: Euró átállás dátum módosítása
 
@@ -790,9 +788,9 @@ Egy adózói vagy telephely adat frissítési folyamaton belül a NAV legfeljebb
 
 | 12. | Az AFE bontja az SSL kapcsolatot |
 
-A regisztrációs fájlt az AFE tárolójára „0” sorszámmal, a naplóállományok elnevezésére vonatkozó előírás szerint elnevezve kell eltárolni. A regisztrációs állomány adatmezőinek feltöltésekor a rendelkezésre nem álló adózói adatokat megfelelő számú „0” karakterrel kell kitölteni. Az üzembe helyezési kód mezőjében 16 db „0” szerepeltetendő.
+## A regisztrációs fájlt az AFE tárolójára „0” sorszámmal, a naplóállományok elnevezésére vonatkozó előírás szerint elnevezve kell eltárolni. A regisztrációs állomány adatmezőinek feltöltésekor a rendelkezésre nem álló adózói adatokat megfelelő számú „0” karakterrel kell kitölteni. Az üzembe helyezési kód mezőjében 16 db „0” szerepeltetendő.
 
-Amennyiben a 4a. lépésben szereplő üzenet elküldése már megtörtént, a sikertelenül zárult rendszerbe állítási folyamatot csak ugyanazokkal az adatokkal kísérelheti meg újra az AFE, amelyeket a sikertelenül zárult folyamatban küldte el. A 11a. lépésben szereplő üzenet küldését követően az AFE újabb rendszerbe állítási folyamatot nem indíthat.
+## Amennyiben a 4a. lépésben szereplő üzenet elküldése már megtörtént, a sikertelenül zárult rendszerbe állítási folyamatot csak ugyanazokkal az adatokkal kísérelheti meg újra az AFE, amelyeket a sikertelenül zárult folyamatban küldte el. A 11a. lépésben szereplő üzenet küldését követően az AFE újabb rendszerbe állítási folyamatot nem indíthat.
 
 10/a. eset: AFE első üzembe helyezése
 
@@ -842,7 +840,7 @@ Amennyiben a 4a. lépésben szereplő üzenet elküldése már megtörtént, a s
 
 | 12. | Az AFE bontja az SSL kapcsolatot |
 
-Az üzembe helyezési folyamat kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AFE fogadta a 11a. lépésben szereplő visszaigazoló üzenetet. A automata értékesítést kizárólag a sikeresen lezárult üzembe helyezési folyamatot követően tehet lehetővé.
+## Az üzembe helyezési folyamat kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AFE fogadta a 11a. lépésben szereplő visszaigazoló üzenetet. A automata értékesítést kizárólag a sikeresen lezárult üzembe helyezési folyamatot követően tehet lehetővé.
 
 10/b. eset: AFE befejezett üzemeltetést követő új üzembe helyezése (átszemélyesítés)
 
@@ -896,9 +894,9 @@ Az üzembe helyezési folyamat kizárólag akkor tekinthető sikeresen befejezet
 
 | 14. | Az AFE bontja az SSL kapcsolatot |
 
-Az átszemélyesítés kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AFE fogadta a 13a. lépésben szereplő visszaigazoló üzenetet. Az AFE az automatán történő értékesítést kizárólag a sikeresen lezárult átszemélyesítési folyamatot követően tehet lehetővé. Átszemélyesítés után a naplóállományok sorszámozása ismétlés és kihagyás nélkül folytatódik.
+## Az átszemélyesítés kizárólag akkor tekinthető sikeresen befejezettnek, ha sikeresen megtörtént minden olyan módosítás, amire a NAV utasítást adott, majd az AFE fogadta a 13a. lépésben szereplő visszaigazoló üzenetet. Az AFE az automatán történő értékesítést kizárólag a sikeresen lezárult átszemélyesítési folyamatot követően tehet lehetővé. Átszemélyesítés után a naplóállományok sorszámozása ismétlés és kihagyás nélkül folytatódik.
 
-Sikertelenül zárult átszemélyesítés újra megkísérelhető.
+## Sikertelenül zárult átszemélyesítés újra megkísérelhető.
 
 11. eset: AFE üzemeltetésének befejezése
 
@@ -948,7 +946,7 @@ Az AFE üzemeltetésének befejezése során az AFE-ben tárolt naplóállomány
 
 | 13. | Az AFE bontja az SSL kapcsolatot |
 
-Ha az üzemeltetés befejezése folyamat sikeresen lezárul, akkor újabb üzembe helyezésig, illetve az üzemeltetés folytatása folyamat lezárultáig az AFE által felügyelt automata nem lehet alkalmas adóügyi nap megnyitására és értékesítésre.
+## Ha az üzemeltetés befejezése folyamat sikeresen lezárul, akkor újabb üzembe helyezésig, illetve az üzemeltetés folytatása folyamat lezárultáig az AFE által felügyelt automata nem lehet alkalmas adóügyi nap megnyitására és értékesítésre.
 
 12. eset: Utasítás azonnali elsőbbségi bejelentkezésre
 
@@ -1004,7 +1002,7 @@ Ha az üzemeltetés befejezése folyamat sikeresen lezárul, akkor újabb üzemb
 
 | 5. | NAV visszaigazolás | ACK~04~HHHHHHHHHH | SSG→AFE |
 
-A sikertelenül zárult folyamat megismételhető.
+## A sikertelenül zárult folyamat megismételhető.
 
 16. eset: Utasítás a naplófájl maximális méretének beállítására
 
