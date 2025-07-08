@@ -2,7 +2,7 @@ A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. üte
 
 1. egyetért a szécsényi tanuszoda építésének (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Szécsény belterület 2802/1 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 032 889 522 forintban határozza meg;
+2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 110 718 744 forintban határozza meg;
 
 3.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
 
@@ -28,6 +28,6 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-[^1]: A 2. pont az 1126/2022. (III. 8.) Korm. határozat 28. pont a) alpontja szerint módosított szöveg.
+[^1]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1126/2022. (III. 8.) Korm. határozat 28. pont b) alpontja szerint módosított szöveg.
 [^3]: Az 5. pontot az 1126/2022. (III. 8.) Korm. határozat 27. pontja iktatta be.
