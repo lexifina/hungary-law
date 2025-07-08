@@ -1,0 +1,3 @@
+3. § A 45/2016. (XI. 29.) NGM rendelet 42. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A jövedéki engedélyes kereskedő és a jövedéki kiskereskedő által közúti járművek üzemanyagaként forgalmazható üzemanyag minőségi követelményeit a 13. melléklet tartalmazza, azonban az üzemanyagnak nem kell megfelelnie a 13. mellékletben előírt minőségi követelményeknek, ha azt az Európai Unió valamely tagállamában vagy Törökországban állították elő, illetve hozták forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állították elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a kényszerítő követelmény tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.”
