@@ -1,0 +1,1 @@
+1. § Az állami tulajdonú gazdasági társaságok tekintetében megtakarítási intézkedés elrendeléséről szóló 176/2025. (VI. 30.) Korm. rendelet [a továbbiakban: 176/2025. (VI. 30.) Korm. rendelet] 1. melléklete az 1. melléklet szerint módosul.
