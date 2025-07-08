@@ -4,7 +4,7 @@
 
 ## b)[^1] a Beruházáshoz kapcsolódó egyéb szabadidős és sportcélú, valamint közműfejlesztéseknek (a továbbiakban együtt: Fejlesztések) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Nyíregyháza belterület 1390/1, 1391/1, 1391/3 és 1391/4 helyrajzi számú ingatlanokon;
 
-## 2.[^2] a Beruházás és a Fejlesztések előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 23 905 098 659 forintban határozza meg;
+## 2.[^2] a Beruházás és a Fejlesztések előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 25 769 300 279 forintban határozza meg;
 
 ## 3.[^3]
 
@@ -27,7 +27,7 @@
 1. melléklet az 1089/2021. (III. 3.) Korm. határozathoz[^6]
 
 [^1]: Az 1. pont b) alpontja az 1688/2021. (IX. 29.) Korm. határozattal megállapított szöveg.
-[^2]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 42. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
 [^3]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^4]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^5]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 41. pontja iktatta be.
