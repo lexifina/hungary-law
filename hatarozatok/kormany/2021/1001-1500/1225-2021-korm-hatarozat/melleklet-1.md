@@ -1,6 +1,6 @@
 ## 1. egyetért a Miskolci Egyetem Tudományos Adatelemző Módszertani Központ és Levéltári Nyílt Kutatási Adatforrástár megvalósítására irányuló beruházásának (a továbbiakban: Beruházás) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja szerinti kormányzati magasépítési beruházásként – a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 12. § (10) bekezdése alapján történő finanszírozással – történő megvalósításával az ingatlan-nyilvántartás szerinti Miskolc belterület 40592/11 helyrajzi számú ingatlanon;
 
-## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 13 168 020 005 forintban határozza meg;
+## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 13 833 038 810 forintban határozza meg;
 
 ## 3.[^2]
 
@@ -32,7 +32,7 @@
 
 1. melléklet az 1225/2021. (V. 3.) Korm. határozathoz[^5]
 
-[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 48. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^4]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 47. pontja iktatta be.
