@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-15
 | 2024-09-20 | 2013-7-20-15.12 | 19/2024. (IX. 19.) HM rendelet |
 | 2024-12-03 | 2013-7-20-15.13 | 25/2024. (XII. 2.) HM rendelet |
 | 2025-02-01 | 2013-7-20-15.14 | 22/2021. (XI. 5.) HM rendelet |
+| 2025-07-08 | 2013-7-20-15.15 | 6/2025. (VII. 7.) HM rendelet |
