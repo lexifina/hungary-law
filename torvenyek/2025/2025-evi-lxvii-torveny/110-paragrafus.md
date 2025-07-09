@@ -34,7 +34,7 @@
 
 17.
 
-18.
+18. 86. § (18) bekezdésében a „bírság, valamint a helyszíni bírság mértékéről, kiszabásának és megállapításának módjáról” szövegrész helyébe a „bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló” szöveg,
 
 19.
 
