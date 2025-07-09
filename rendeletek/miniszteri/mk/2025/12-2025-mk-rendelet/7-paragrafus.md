@@ -1,1 +1,3 @@
-7. § A 2/2023. (II. 3.) MK rendelet 8. § (1) bekezdésében a „hivatásos szolgálati jogviszonyban” szövegrész helyébe a „nemzetbiztonsági állományban” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
