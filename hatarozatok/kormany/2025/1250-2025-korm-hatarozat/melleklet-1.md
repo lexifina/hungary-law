@@ -128,22 +128,32 @@
 
 | Határidő: | a 4. pontban meghatározott vállalkozási szerződés módosítások aláírását követő 60 napon belül |
 
-## 6. A Miskolci Egyetem Tudományos Adatelemző Módszertani Központ és Levéltári Nyílt Kutatási Adatforrástár megvalósításáról szóló 1225/2021. (V. 3.) Korm. határozat 2. pontjában a „13 168 020 005 forintban” szövegrész helyébe a „13 833 038 810 forintban” szöveg lép.
+## 6.[^1]
 
-## 7. A hévízi kézilabda munkacsarnok építéséről szóló 1471/2021. (VII. 15.) Korm. határozat 2. pontjában az „1 505 664 399 forintban” szövegrész helyébe az „1 641 479 444 forintban” szöveg lép.
+## 7.[^2]
 
-## 8. A nyírbátori Báthori István Múzeum felújításáról szóló 1201/2022. (III. 28.) Korm. határozat 2. pontjában az „1 801 115 273 forintban” szövegrész helyébe a „2 013 039 920 forintban” szöveg lép.
+## 8.[^3]
 
-## 9. A Liszt Ferenc Zeneművészeti Egyetem Kodály Zoltán Zenepedagógiai Intézet infrastruktúra-fejlesztése I. ütemének megvalósításáról szóló 1742/2021. (X. 20.) Korm. határozat 2. pontjában a „2 317 035 399 forintban” szövegrész helyébe a „2 587 853 290 forintban” szöveg lép.
+## 9.[^4]
 
-## 10. A komlói kézilabda munkacsarnok építéséről szóló 1472/2021. (VII. 15.) Korm. határozat 2. pontjában az „1 702 655 526 forintban” szövegrész helyébe az „1 839 249 537 forintban” szöveg lép.
+## 10.[^5]
 
-## 11. A nyíregyházi stadion beruházás megvalósításáról szóló 1089/2021. (III. 3.) Korm. határozat 2. pontjában a „23 905 098 659 forintban” szövegrész helyébe a „25 769 300 279 forintban” szöveg lép.
+## 11.[^6]
 
-## 12. A szárligeti Tima Endre Általános Iskola tanteremépítéséről szóló 1407/2020. (VII. 15.) Korm. határozat 3. pontjában a „335 686 698 forintban” szövegrész helyébe az „566 686 182 forintban” szöveg lép.
+## 12.[^7]
 
-## 13. A Fejér Megyei Szent György Egyetemi Oktató Kórház fejlesztésének előkészítéséről és megvalósításáról szóló 1628/2021. (IX. 6.) Korm. határozat 2. pontjában a „15 169 179 149 forintban” szövegrész helyébe a „16 990 839 208 forintban” szöveg lép.
+## 13.[^8]
 
-## 14. A szécsényi tanuszoda építéséről szóló 2060/2020. (XII. 30.) Korm. határozat 2. pontjában az „1 032 889 522 forintban” szövegrész helyébe az „1 110 718 744 forintban” szöveg lép.
+## 14.[^9]
 
 1. melléklet az 1250/2025. (VII. 8.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 12. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 13. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
