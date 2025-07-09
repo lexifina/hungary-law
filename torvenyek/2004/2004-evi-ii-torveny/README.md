@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2025-01-01 | 2024. évi LXXVI. törvény | 2004-2-00-00.59 |
 | 2025-04-25 | 2025. évi V. törvény | 2004-2-00-00.60 |
 | 2025-06-24 | 2025. évi LXVII. törvény | 2004-2-00-00.61 |
+| 2025-07-09 | 2025. évi LXVII. törvény | 2004-2-00-00.62 |
