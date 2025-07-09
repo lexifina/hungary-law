@@ -1,3 +1,3 @@
-35. § Az R3. a következő 9/A. §-sal egészül ki:
+35. §[^6]
 
-„9/A. § E rendeletnek az igazságügyi hivatásrendek képzéséről, szakmai továbbképzéséről és vizsgáiról szóló egyes igazságügyi miniszteri rendeletek módosításáról szóló 7/2025. (VI. 30.) IM rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit a Módr. hatálybalépését követően megtartásra kerülő oktatás és vizsga esetén kell alkalmazni.”
+[^6]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

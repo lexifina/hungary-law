@@ -1,7 +1,3 @@
-36. § Az R3.
+36. §[^7]
 
-a) 2. § (2) bekezdésében a „tizenöt” szövegrész helyébe a „harminc” szöveg,
-
-b) 4. § (2) bekezdésében a „miniszter” szövegrész helyébe a „Jogakadémia” szöveg
-
-lép.
+[^7]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
