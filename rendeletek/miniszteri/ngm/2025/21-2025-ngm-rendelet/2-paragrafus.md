@@ -1,5 +1,5 @@
 ## 2. A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet módosítása
 
-2. § A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet (a továbbiakban: Pénztárgép rendelet) 1. §-a a következő (1a) bekezdéssel egészül ki:
+2. §[^2]
 
-„(1a) Az (1) bekezdéstől eltérően az adóalanyok az 1. mellékletben meghatározott tevékenységük során a nyugtaadási kötelezettségüket választásuk szerint hardveralapú e-pénztárgéppel is teljesíthetik az e-pénztárgépek forgalmazásáról, üzemeltetéséről, valamint az e-pénztárgépek és az e-nyugta kiállításának követelményeiről szóló miniszteri rendeletben meghatározottak szerint.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

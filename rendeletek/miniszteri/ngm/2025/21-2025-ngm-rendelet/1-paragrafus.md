@@ -22,10 +22,6 @@
 
 ## 1. A kamarai tag könyvvizsgáló, a könyvvizsgáló cég által saját magával szemben kért rendkívüli minőségellenőrzés igazgatási szolgáltatási díjáról és a díj megfizetéséről szóló 24/2013. (VI. 28.) NGM rendelet módosítása
 
-1. § A kamarai tag könyvvizsgáló, a könyvvizsgáló cég által saját magával szemben kért rendkívüli minőségellenőrzés igazgatási szolgáltatási díjáról és a díj megfizetéséről szóló 24/2013. (VI. 28.) NGM rendelet
+1. §[^1]
 
-1. 1. § (4) bekezdésében a „Pénzügyminisztérium 10032000-01460658-00000000 számú” szövegrész helyébe a „Nemzetgazdasági Minisztérium 10032000-00005503-06010011 számú” szöveg,
-
-2. 2. § (1) bekezdésében a „Pénzügyminisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg
-
-lép.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

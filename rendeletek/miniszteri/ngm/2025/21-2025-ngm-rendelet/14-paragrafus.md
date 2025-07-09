@@ -1,5 +1,5 @@
 ## 5. Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet módosítása
 
-14. § Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet (a továbbiakban: Automata rendelet) 26. alcíme a következő 72/A. §-sal egészül ki:
+14. §[^14]
 
-„72/A. § E rendeletnek az egyes adózással kapcsolatos, valamint azzal összefüggő hatósági feladatokat érintő miniszteri rendeletek módosításáról szóló 21/2025. (VII. 7.) NGM rendelettel (a továbbiakban: Mód3. rendelet) megállapított 1. melléklet A) rész 2) bekezdésében előírt követelménynek a Mód3. rendelet hatálybalépésekor érvényes engedéllyel rendelkező felügyeleti szolgáltatónak legkésőbb 2026. január 1-jéig kell megfelelnie.”
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

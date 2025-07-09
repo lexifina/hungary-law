@@ -1,1 +1,3 @@
-5. § A Pénztárgép rendelet 49/A. § (5) bekezdésében az „A TEÁOR ’08.53.1 szerint Postai tevékenységet” szövegrész helyébe az „A TEÁOR ’25 53.1 szerint Postai tevékenységet” szöveg lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

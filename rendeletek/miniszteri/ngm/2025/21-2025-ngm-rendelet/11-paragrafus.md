@@ -1,3 +1,3 @@
-11. § A Számla rendelet a következő 28. §-sal egészül ki:
+11. §[^11]
 
-„28. § A 2028. június 30-áig pénztárgéppel kibocsátott nyugták esetén a megőrzési kötelezettség az adóügyi ellenőrző egység 2033. június 30-ig történő megőrzésével teljesíthető.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

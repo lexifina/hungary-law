@@ -1,5 +1,3 @@
-3. § A Pénztárgép rendelet 20. alcíme a következő 78/I. §-sal egészül ki:
+3. §[^3]
 
-„78/I. § (1) Pénztárgép forgalmazási engedély megadására irányuló eljárás – ide nem értve a forgalmazási engedély módosítására, kiterjesztésére irányuló eljárást – 2025. december 31-ig kezdeményezhető.
-
-(2) Pénztárgépet 2026. december 31-ig lehet üzembe helyezni.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-17. § Az Automata rendelet 1. melléklete a 2. melléklet szerint módosul.
+17. §[^17]
+
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
