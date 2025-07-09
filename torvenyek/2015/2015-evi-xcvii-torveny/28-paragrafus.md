@@ -32,6 +32,8 @@ o) a 6/A. § (1) bekezdése szerinti szerződések kockázatmegosztással kapcso
 
 p) a mezőgazdasági termeltetői szerződés, a termeltetői nyilvántartás és adatszolgáltatás részletes szabályait
 
+q) a minőségi mutatók alapján történő termékátvétel esetén alkalmazandó módszereket
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére, értékelésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
