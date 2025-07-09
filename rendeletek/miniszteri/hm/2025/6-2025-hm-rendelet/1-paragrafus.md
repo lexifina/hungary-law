@@ -10,6 +10,6 @@
 
 ## 1. A kegyeleti gondoskodásról és az ehhez kapcsolódó egyes szociális feladatokról szóló 7/2013. (VII. 25.) HM rendelet módosítása
 
-1. § A kegyeleti gondoskodásról és az ehhez kapcsolódó egyes szociális feladatokról szóló 7/2013. (VII. 25.) HM rendelet 9. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4) A (2) és (3) bekezdés szerinti koszorú költségeként a felszámítási alap 60%-a, sírcsokorra a felszámítási alap 40%-a számolható el. A koszorú és sírcsokor költségeként elszámolható összeget október 15. és március 15. között 25%-kal kell növelni. A miniszter, a miniszter által vezetett minisztérium (a továbbiakban: HM) parlamenti államtitkára, a HM közigazgatási államtitkára, a HM helyettes államtitkára, a HM-ben működő miniszteri biztos, valamint a HVKF nevében, továbbá a HM Hadtörténeti Intézet és Múzeum által elhelyezett koszorú költségeként a felszámítási alap 100%-a számolható el.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
