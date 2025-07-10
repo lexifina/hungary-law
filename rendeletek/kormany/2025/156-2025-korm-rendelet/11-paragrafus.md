@@ -1,1 +1,3 @@
-11. § A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet 20. § (2) bekezdésében a „bírság mértékéről, valamint kiszabásának és megállapításának módjáról” szövegrész helyébe a „bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól” szöveg lép.
+11. §[^2]
+
+[^2]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

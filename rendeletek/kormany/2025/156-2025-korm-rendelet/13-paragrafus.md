@@ -1,1 +1,3 @@
-13. § Hatályát veszti a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló 271/2001. (XII. 21.) Korm. rendelet.
+13. §[^4]
+
+[^4]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

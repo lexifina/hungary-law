@@ -1,1 +1,3 @@
-12. § Az Európai Unió tagállamainak a tengeri hajók újrafeldolgozása területén történő együttműködésével kapcsolatos rendelkezésekről szóló 7/2016. (II. 9.) Korm. rendelet 5. § (1) bekezdésében a „bírság mértékéről, valamint kiszabásának és megállapításának módjáról” szövegrész helyébe a „bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól” szöveg lép.
+12. §[^3]
+
+[^3]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
