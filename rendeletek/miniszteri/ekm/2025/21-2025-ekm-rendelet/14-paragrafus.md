@@ -1,0 +1,3 @@
+14. § (1) A 6699/1985. OMF hatósági határozattal védetté nyilvánított Székesfehérvár (Fejér vármegye), Sörház tér 1. szám alatti Vízimalom és serfőző telekalakítás után kialakult ingatlanai közül a Székesfehérvár, belterület 4255/6 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy telekalakítás következtében az ingatlanon védett érték nem található – megszüntetem.
+
+(2) A Székesfehérvár, Sörház tér 1. szám alatti, belterület 4255/5, 4255/7 és 4255/8 helyrajzi számú ingatlanok a közhiteles műemléki nyilvántartásban 9825 törzsszámon és 3892 azonosító számon nyilvántartott Vízimalom és serfőző együttese (Vízimalom, Molnárház, Serfőző-ház, Hochstetter-ház) műemléki védettségét – tekintettel fennálló műemléki értékeire – fenntartom.

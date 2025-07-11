@@ -1,0 +1,3 @@
+13. § (1) A 22509/1958. ÉM – 120344/1958. MM miniszteri döntéssel védetté nyilvánított Debrecen (Hajdú-Bihar vármegye), Böszörményi út 1. szám alatti Hortobágy szélmalom telekalakítás után kialakult ingatlanai közül a Debrecen, belterület 20120/1 és 20120/3 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
+
+(2) A Debrecen, Böszörményi út 1. szám alatti, belterület 20120/2 helyrajzi számú ingatlan, a közhiteles műemléki nyilvántartásban 1770 törzsszámon és 5221 azonosító számon nyilvántartott Hortobágy szélmalom műemléki védettségét – tekintettel fennálló műemléki értékeire – fenntartom.
