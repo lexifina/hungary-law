@@ -1,5 +1,3 @@
-## 12/C. §[^54] A Kkt. 24/A. § (5a) bekezdéséhez kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 13. mellékletben meghatározott összegű bírságot köteles fizetni az a vizsgáló állomás, amely a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet rendelkezéseit megsérti.
-
 13. § (1)[^55] Amennyiben az ellenőrző hatóság
 
 a)[^56] az 1. melléklet 3. pontjában, 5. pont a) alpontjában, 7., 7/A. és 9. pontjában,
@@ -30,7 +28,6 @@ b) személy- vagy áruszállítási szolgáltatást végző gépjármű esetébe
 
 c) közúti ellenőrzésben való közreműködés megtagadása, közúti ellenőrzés akadályozása.
 
-[^54]: A 12/C. §-t a 138/2013. (V. 10.) Korm. rendelet – a 175/2013. (V. 31.) Korm. rendelet 8. §-ával megállapított – 8. §-a iktatta be.
 [^55]: A 13. § (1) bekezdés záró szövegrésze a 488/2013. (XII. 17.) Korm. rendelet 4. §-a, a 379/2016. (XII. 2.) Korm. rendelet 137. § (1) bekezdés a) pontja, a 393/2023. (VIII. 14.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^56]: A 13. § (1) bekezdés a) pontja a 612/2023. (XII. 22.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^57]: A 13. § (1) bekezdés b1) pontját a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 372/2016. (XI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

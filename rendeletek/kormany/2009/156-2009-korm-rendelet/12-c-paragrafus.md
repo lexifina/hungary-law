@@ -1,0 +1,3 @@
+12/C. §[^54] A Kkt. 24/A. § (5a) bekezdéséhez kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 13. mellékletben meghatározott összegű bírságot köteles fizetni az a vizsgálóállomás, amely a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló 511/2017. (XII. 29.) Korm. rendelet [a továbbiakban: 511/2017. (XII. 29.) Korm. rendelet] vagy a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: ER.) rendelkezéseit megsérti.
+
+[^54]: A 12/C. §-t a 138/2013. (V. 10.) Korm. rendelet 8. §-a iktatta be, szövege a 168/2025. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
