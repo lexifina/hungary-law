@@ -12,8 +12,8 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
 
-1. §
+1. § A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet [a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet] 12/C. §-a helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. alcím a 13. § (2) bekezdése alapján 2025. július 12-én lép hatályba.
+„12/C. § A Kkt. 24/A. § (5a) bekezdéséhez kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 13. mellékletben meghatározott összegű bírságot köteles fizetni az a vizsgálóállomás, amely a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló 511/2017. (XII. 29.) Korm. rendelet [a továbbiakban: 511/2017. (XII. 29.) Korm. rendelet] vagy a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: ER.) rendelkezéseit megsérti.”
