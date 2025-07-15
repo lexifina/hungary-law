@@ -1,3 +1,3 @@
-1. melléklet a 11/2024. (II. 29.) BM rendelethez[^7]
+1. melléklet a 11/2024. (II. 29.) BM rendelethez[^8]
 
-[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
