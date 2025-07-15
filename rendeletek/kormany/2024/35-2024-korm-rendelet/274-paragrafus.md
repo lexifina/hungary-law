@@ -1,5 +1,5 @@
 ## 123. A súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet módosítása
 
-274. §[^52]
+274. §[^65]
 
-[^52]: A 274. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: A 274. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

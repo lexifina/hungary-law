@@ -1,3 +1,3 @@
-312. §[^90]
+312. §[^103]
 
-[^90]: A 312. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 312. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

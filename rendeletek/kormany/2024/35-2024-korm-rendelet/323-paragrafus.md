@@ -1,3 +1,3 @@
-323. §[^101]
+323. §[^114]
 
-[^101]: A 323. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 323. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

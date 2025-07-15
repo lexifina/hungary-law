@@ -46,9 +46,9 @@ b) az ingatlanalap-kezelőtől annak igazolását, hogy a minősített piaci sze
 
 (9) Az (1) bekezdés tekintetében a nem euróban történt befektetés esetében a befektetés euróban való értékének meghatározása során a befektetés napján a Magyar Nemzeti Bank által nyilvánosságra hozott árfolyamok alkalmazásával számított értéket kell figyelembe venni.
 
-(10)[^4] A Tv. 17. § (1) bekezdés e) pontjában foglalt feltétel a vendégbefektetői tartózkodási engedély kiadására irányuló eljárásban a vendégbefektető nevében eljáró meghatalmazott magyarországi lakcíme vagy magyarországi székhelyének címe közlésével is igazolható, amely a vendégbefektető magyarországi szálláshelye címének minősül.
+(10)[^7] A Tv. 17. § (1) bekezdés e) pontjában foglalt feltétel a vendégbefektetői tartózkodási engedély kiadására irányuló eljárásban a vendégbefektető nevében eljáró meghatalmazott magyarországi lakcíme vagy magyarországi székhelyének címe közlésével is igazolható, amely a vendégbefektető magyarországi szálláshelye címének minősül.
 
-(11)[^5] A vendégbefektető Tv. 71. §-a szerinti kérelmet benyújtó családtagja a szálláshelyét a (10) bekezdés szerint is igazolhatja.
+(11)[^8] A vendégbefektető Tv. 71. §-a szerinti kérelmet benyújtó családtagja a szálláshelyét a (10) bekezdés szerint is igazolhatja.
 
-[^4]: A 13/A. § (10) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
-[^5]: A 13/A. § (11) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 13/A. § (10) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A 13/A. § (11) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 3. §-a iktatta be.

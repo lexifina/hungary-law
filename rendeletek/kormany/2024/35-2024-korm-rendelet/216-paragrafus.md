@@ -19,3 +19,7 @@ c) beutazásához és tartózkodásához Magyarországnak jelentős gazdasági, 
 (6) A harmadik országbeli állampolgár a tartózkodási engedély meghosszabbítása iránti kérelmét – a 163. §-ban foglalt kivétellel – a szálláshelye szerint illetékes regionális igazgatósághoz terjesztheti elő.
 
 (7) A tartózkodási engedély meghosszabbítása iránti kérelmet legkésőbb a tartózkodási engedély érvényességi idejének lejártát megelőző harminc nappal kell benyújtani.
+
+(8)[^39] A tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelmet – ha a Tv. vagy e rendelet eltérően nem rendelkezik – a tervezett tartózkodás kezdő időpontját, illetve hosszabbítás esetén a tartózkodási engedély érvényességi idejének lejártát megelőző legfeljebb 90 nappal lehet benyújtani.
+
+[^39]: A 216. § (8) bekezdését a 88/2025. (IV. 24.) Korm. rendelet 9. §-a iktatta be.

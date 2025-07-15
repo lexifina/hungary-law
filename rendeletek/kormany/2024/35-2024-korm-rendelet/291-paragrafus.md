@@ -1,3 +1,3 @@
-291. §[^69]
+291. §[^82]
 
-[^69]: A 291. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 291. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-288. §[^66]
+288. §[^79]
 
-[^66]: A 288. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 288. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

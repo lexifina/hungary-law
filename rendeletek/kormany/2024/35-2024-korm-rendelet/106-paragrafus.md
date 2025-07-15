@@ -1,7 +1,11 @@
 ## XVI. Fejezet
 
-## A KIUTASÍTÁS KÖLTSÉGEINEK VISELÉSE
+## A KIUTASÍTÁS ÉS VISSZAADÁS KÖLTSÉGEINEK VISELÉSE[^26]
 
-106. § (1) A kiutasítás végrehajtása során törekedni kell arra, hogy az a kiutasítottnak a lehető legkevesebb költséget okozza.
+106. § (1)[^27] A kiutasítás és a visszaadás végrehajtása során törekedni kell arra, hogy az a harmadik országbeli állampolgárnak a lehető legkevesebb költséget okozza.
 
-(2) A Tv. 117. § (4) bekezdésében, 128. § (7) bekezdésében, valamint 135. § (5) bekezdés e) pontjában meghatározott megtérítési kötelezettséget a kiutasítást végrehajtó hatóság végzésben rendeli el. A kötelezettséget az elrendeléstől számított három hónapon belül kell teljesíteni. A teljesítési határidő eredménytelen eltelte esetén a Tv. 117. § (4) bekezdés b)–d) pontjában felsorolt személyek és szervezetek vonatkozásában a Tv. végrehajtási szabályait kell alkalmazni.
+(2)[^28] A Tv. 117. § (4) bekezdésében, 128. § (7) bekezdésében, valamint 135. § (5) bekezdés e) pontjában meghatározott megtérítési kötelezettséget az eljáró idegenrendészeti hatóság végzésben rendeli el. A kötelezettséget az elrendeléstől számított három hónapon belül kell teljesíteni. A teljesítési határidő eredménytelen eltelte esetén a Tv. 117. § (4) bekezdés b)–d) pontjában felsorolt személyek és szervezetek vonatkozásában a Tv. végrehajtási szabályait kell alkalmazni.
+
+[^26]: A XVI. Fejezet címe a 88/2025. (IV. 24.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^27]: A 106. § (1) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^28]: A 106. § (2) bekezdése a 88/2025. (IV. 24.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
