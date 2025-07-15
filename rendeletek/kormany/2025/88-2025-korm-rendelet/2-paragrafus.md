@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A Btávhr. 11. § (1) bekezdése a következő i) ponttal egészül ki:
 
-[^2]: A 2. § a 11. § (2) bekezdése alapján 2025. július 15-én lép hatályba.
+(Az ideiglenes tartózkodásra jogosító igazolás kiállítása)
