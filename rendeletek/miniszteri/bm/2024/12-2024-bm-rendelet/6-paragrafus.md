@@ -6,4 +6,6 @@ b) a kitoloncolt személynek akarata ellenére nyugtató hatású szert adni, m�
 
 c) a kitoloncolt személlyel szemben mérgező vagy bénító gázt használni,
 
-d) a kísérő személynek maszkot vagy csuklyát viselni.
+d)[^1] a kísérő személynek csuklyát vagy – kivéve, ha egészségügyi okból szükséges – maszkot viselni.
+
+[^1]: A 6. § d) pontja a 22/2025. (VII. 7.) BM rendelet 4. §-ával megállapított szöveg.
