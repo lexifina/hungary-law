@@ -8,7 +8,7 @@ a) a háziorvosi, házi gyermekorvosi és fogorvosi alapellátás részletes sza
 
 b) a háziorvos, házi gyermekorvos választásának, a jelentkezésnek, a jelentkezés elutasításának, az átjelentkezésnek, valamint az ezzel kapcsolatos vitás kérdések rendezésének a részletes szabályait,
 
-c) a háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait,
+c) a háziorvosi, házi gyermekorvosi és fogorvosi feladatok rendelési időn kívüli, ügyeleti ellátásának részletes szakmai szabályait, az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti ellátás részletes szakmai, szervezeti és munkavégzési feltételeit – ideértve a díjazást is –,
 
 d) a védőnői ellátás részletes szakmai szabályait,
 
