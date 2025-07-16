@@ -1,3 +1,3 @@
-2. § A Btávhr. 11. § (1) bekezdése a következő i) ponttal egészül ki:
+2. §[^2]
 
-(Az ideiglenes tartózkodásra jogosító igazolás kiállítása)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
