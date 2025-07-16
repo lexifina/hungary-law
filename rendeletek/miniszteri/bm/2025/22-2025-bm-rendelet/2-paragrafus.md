@@ -1,3 +1,3 @@
-2. § A 9/2024. (II. 29.) BM rendelet 24. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„24. § Az EGT-állampolgár és a magyar állampolgár vízumkötelezett harmadik ország állampolgárságával rendelkező családtagja, valamint a harmadik országbeli állampolgár beutazásához szükséges anyagi fedezet irányadó mértéke a tervezett tartózkodás minden napjára 40 euró.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

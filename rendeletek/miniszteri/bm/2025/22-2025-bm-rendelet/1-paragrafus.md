@@ -18,10 +18,6 @@
 
 ## 1. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 9/2024. (II. 29.) BM rendelet módosítása
 
-1. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 9/2024. (II. 29.) BM rendelet [a továbbiakban: 9/2024. (II. 29.) BM rendelet]
+1. §[^2]
 
-a) 9. melléklete helyébe az 1. melléklet,
-
-b) 24. melléklete helyébe a 2. melléklet
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

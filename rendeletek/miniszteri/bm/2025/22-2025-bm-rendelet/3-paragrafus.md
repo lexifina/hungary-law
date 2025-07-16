@@ -1,5 +1,5 @@
 ## 2. Az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 11/2024. (II. 29.) BM rendelet módosítása
 
-3. § Az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 11/2024. (II. 29.) BM rendelet 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(4) Ha az őrizetes az őrzött szállás rendjének megszegésével saját és mások testi épségét veszélyezteti, az egészségügyi szakszemélyzet előzetes véleményének figyelembevételével az őrzött szállás elkülönítő helyiségében helyezhető el. Az elkülönítés a lehető legrövidebb ideig, de maximum 24 óráig tarthat, az elkülönítés indokáról az őrizetest anyanyelvén vagy az általa értett nyelven haladéktalanul tájékoztatni kell. Az elkülönítés időtartama alatt az őrzött szállás egészségügyi szakszemélyzete az őrizetes egészségi állapotát folyamatosan ellenőrzi. Ha az intézkedés alapjául szolgáló körülmény elhárult, az őrizetest a szolgálati csoportvezető az orvosi vizsgálatot követően a közösségbe visszahelyezi. Ha az intézkedés alapjául szolgáló körülmény továbbra is fennáll, az őrizetes elkülönítése az ezen bekezdésben foglaltak betartásával folytatódik.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
