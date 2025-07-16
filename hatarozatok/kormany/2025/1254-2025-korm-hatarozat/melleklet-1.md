@@ -1,0 +1,459 @@
+## 1. jóváhagyólag tudomásul veszi a Magyar–Szlovén Kormányközi Kisebbségi Vegyes Bizottság (KVB) 2024. szeptember 30-án, Ljubljana településen megtartott XIX. ülésén kidolgozott és elfogadott, valamint a KVB előző ülésén elfogadott ajánlások teljesítésének állásáról folytatott kölcsönös tájékoztatást követően fenntartott, az 1. mellékletben közzétett ajánlásokat;
+
+## 2. felhívja a külgazdasági és külügyminisztert, hogy a KVB ajánlásainak tudomásulvételéről értesítse az érintett feleket;
+
+| Felelős: | külgazdasági és külügyminiszter |
+
+| Határidő: | az e határozat közzétételét követő 15. nap |
+
+## 3. felhívja a feladat- és hatáskörrel rendelkező minisztereket, hogy az 1. melléklet I. pontjában közzétett ajánlások végrehajtásának lehetőségét vizsgálják meg az alábbiak szerint:
+
+## 3.1. az ajánlások 1. alpontja tekintetében
+
+| Felelős: | külgazdasági és külügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.2. az ajánlások 2. alpontja tekintetében
+
+| Felelős: | építési és közlekedési miniszter külgazdasági és külügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.3. az ajánlások 3. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.4. az ajánlások 5. alpontja tekintetében
+
+| Felelős: | belügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.5. az ajánlások 6. alpontja tekintetében
+
+| Felelős: | belügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.6. az ajánlások 7. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.7. az ajánlások 8. alpontja tekintetében
+
+| Felelős: | építési és közlekedési miniszter közigazgatási és területfejlesztési miniszter nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.8. az ajánlások 9. alpontja tekintetében
+
+| Felelős: | építési és közlekedési miniszter nemzetgazdasági miniszter közigazgatási és területfejlesztési miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.9. az ajánlások 10. alpontja tekintetében
+
+| Felelős: | a Miniszterelnökséget vezető miniszter építési és közlekedési miniszter nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.10. az ajánlások 11. alpontja tekintetében
+
+| Felelős: | belügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.11. az ajánlások 13. alpontja tekintetében
+
+| Felelős: | külgazdasági és külügyminiszter nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.12. az ajánlások 14. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese a Nemzeti Média- és Hírközlési Hatóság elnökének közreműködésével nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.13. az ajánlások 15. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese közigazgatási és területfejlesztési miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.14. az ajánlások 16. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.15. az ajánlások 17. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.16. az ajánlások 19. alpontja tekintetében
+
+| Felelős: | a Miniszterelnökséget vezető miniszter építési és közlekedési miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.17. az ajánlások 20. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese a Nemzeti Média- és Hírközlési Hatóság elnökének közreműködésével |
+
+| Határidő: | folyamatos |
+
+## 3.18. az ajánlások 21. alpontja tekintetében
+
+| Felelős: | belügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.19. az ajánlások 22. alpontja tekintetében
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 3.20. az ajánlások 23. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | folyamatos |
+
+## 3.21. az ajánlások 25. alpontja tekintetében
+
+| Felelős: | energiaügyi miniszter agrárminiszter |
+
+| Határidő: | folyamatos |
+
+## 3.22. az ajánlások 26. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4. felhívja a feladat- és hatáskörrel rendelkező minisztereket, hogy az 1. melléklet II. pontjában közzétett ajánlások végrehajtásának lehetőségét vizsgálják meg, az alábbiak szerint:
+
+## 4.1. az ajánlások 1. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.2. az ajánlások 2. alpontja tekintetében
+
+| Felelős: | a Miniszerelnökséget vezető miniszter építési és közlekedési miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.3. az ajánlások 3. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.4. az ajánlások 4. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese a Nemzeti Média- és Hírközlési Hatóság elnökének közreműködésével |
+
+| Határidő: | folyamatos |
+
+## 4.5. az ajánlások 5. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | folyamatos |
+
+## 4.6. az ajánlások 6. alpontja tekintetében
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.7. az ajánlások 8. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.8. az ajánlások 9. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.9. az ajánlások 10. alpontja tekintetében
+
+| Felelős: | belügyminiszter kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.10. az ajánlások 12. alpontja tekintetében
+
+| Felelős: | belügyminiszter |
+
+| Határidő: | 2026. december 31. |
+
+## 4.11. az ajánlások 15. alpontja tekintetében
+
+| Felelős: | építési és közlekedési miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.12. az ajánlások 17. alpontja tekintetében
+
+| Felelős: | belügyminiszter |
+
+| Határidő: | 2027. március 31. |
+
+## 4.13. az ajánlások 18. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | folyamatos |
+
+## 4.14. az ajánlások 19. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.15. az ajánlások 20. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.16. az ajánlások 21. alpontja tekintetében
+
+| Felelős: | nemzetgazdasági miniszter agrárminiszter |
+
+| Határidő: | folyamatos |
+
+## 4.17. az ajánlások 22. alpontja tekintetében
+
+| Felelős: | közigazgatási és területfejlesztési miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.18. az ajánlások 24. alpontja tekintetében
+
+| Felelős: | kultúráért és innovációért felelős miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.19. az ajánlások 25. alpontja tekintetében
+
+| Felelős: | építési és közlekedési miniszter közigazgatási és területfejlesztési miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.20. az ajánlások 27. alpontja tekintetében
+
+| Felelős: | Miniszterelnökséget vezető miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.21. az ajánlások 28. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | folyamatos |
+
+## 4.22. az ajánlások 29. alpontja tekintetében
+
+| Felelős: | külgazdasági és külügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 4.23. az ajánlások 34. alpontja tekintetében
+
+| Felelős: | külgazdasági és külügyminiszter |
+
+| Határidő: | folyamatos |
+
+## 4.24. az ajánlások 36. alpontja tekintetében
+
+| Felelős: | közigazgatási és területfejlesztési miniszter a Miniszterelnökséget vezető miniszter |
+
+| Határidő: | folyamatos |
+
+## 4.25. az ajánlások 38. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese Miniszterelnökséget vezető miniszter |
+
+| Határidő: | 2025. december 31. |
+
+## 4.26. az ajánlások 39. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | folyamatos |
+
+## 4.27. az ajánlások 40. alpontja tekintetében
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | folyamatos |
+
+## 4.28. az ajánlások 42. alpontja tekintetében
+
+| Felelős: | agrárminiszter nemzetgazdasági miniszter |
+
+| Határidő: | folyamatos |
+
+## 5. Hatályát veszti a Magyar–Szlovén Kormányközi Kisebbségi Vegyes Bizottság XVIII. ülésén fenntartott és elfogadott ajánlások jóváhagyásáról és egyes kormányhatározatok hatályon kívül helyezéséről szóló 1647/2022. (XII. 22.) Korm. határozat.
+
+1. melléklet az 1254/2025. (VII. 16.) Korm. határozathoz
+
+I. A Magyar–Szlovén Kormányközi Kisebbségi Vegyes Bizottság (KVB) 2024. szeptember 30-án, Ljubljana településen megtartott XIX. ülésén az előző ülésen elfogadott ajánlások teljesítésének állásáról folytatott kölcsönös tájékoztatást követően a következő ajánlások fenntartásában állapodott meg:
+
+1. A KVB javasolja mindkét félnek, hogy a két nemzeti közösség a jövőben is ösztönözze a közös projektekre irányuló pályázatok benyújtását, köztük a 2021–2027 közötti időszakra szóló szlovén–magyar Interreg pályázatokat is. A KVB javasolja a két félnek, hogy a döntéshozatal minden szintjén, a nemzeti és az uniós szinten egyaránt emeljék ki a határon átnyúló Interreg programok jelentőségét, valamint emeljék ki az Interreg SI–HU program pozitív hatását és eredményeit a programterület lakosai számára.
+
+2. A KVB megállapítja, hogy rendszeresen sor kerül magyar–szlovén közlekedési szakértői tárgyalásokra, valamint zajlanak a 2022–2025 közötti határmenti térségfejlesztési programban meghatározott útrendezési tevékenységek. A KVB a továbbiakban is javasolja mindkét félnek a Bödeháza–Žitkovci/Zsitkóc, a Szalafő–Hodoš/Hodos, valamint a Szentgyörgyvölgy–Motvarjevci/Szentlászló útszakaszok megépítését prioritásként kezelni a rendelkezésre álló források függvényében.
+
+3. A KVB továbbra is javasolja mindkét félnek a kialakult jó gyakorlat jövőbeni követését, amely szerint az ösztöndíjpályázat kiírása előtt a Szlovén Köztársaság illetékes minisztériuma felveszi a kapcsolatot a Muravidéki Magyar Önkormányzati Nemzeti Közösséggel, az illetékes magyar minisztérium pedig az Országos Szlovén Önkormányzattal. A Szlovén Köztársaság illetékes minisztériuma a hiányszakmák tanulását ösztönző ösztöndíj esetében felveszi a kapcsolatot a Muravidéki Magyar Önkormányzati Nemzeti Közösséggel. Annak érdekében, hogy az ösztöndíjpályázat által támogatott fiatalok valós gazdasági igényekhez kapcsolódó tanulmányi támogatásban részesülhessenek, a KVB javasolja, hogy a nemzetiségileg vegyesen lakott területre vonatkozóan tanulmányozzák annak lehetőségét, hogy a hiányszakmák listája külön kerüljön meghatározásra, és ebben az esetben az ösztöndíj elnyerésének egyik feltétele legyen a magyar nyelv anyanyelvi szintű tanulása a középiskolában és/vagy az általános iskolában.
+
+4. A KVB ismételten javasolja a szlovén félnek, hogy az egyidejű írás- és olvasástanítás magyar és szlovén nyelven programban résztvevő tanulóknak biztosítsa, hogy az általános iskola második és harmadik időszakában is együtt maradhassanak a kétnyelvű oktatás minőségi kivitelezésének biztosítása érdekében, ennek során figyelembe véve, hogy az egyidejű írás- és olvasástanítás program választható oktatási módszer, és hogy az osztályok szervezése szintén az iskola autonóm döntése.
+
+5. A KVB javasolja a magyar félnek, hogy tanulmányozza és készítsen hasonló pedagógiai-módszertani programot a Rába-vidéki két tanítási nyelvű általános iskolák tanulói számára.
+
+6. A KVB javasolja mindkét félnek, hogy a sikeresen megvalósított tevékenységek és törekvések alapján a jövőben is valósítsák meg a megfelelő programokat, és továbbra is törekedjenek a szlovén és magyar nyelvű oktatás színvonalának emelésére a Rába-vidéki két tanítási nyelvű oktatási intézményekben, illetve a muravidéki kétnyelvű területen.
+
+7. A KVB továbbra is nagyon fontosnak tartja, hogy az ELTE Savaria Egyetemi Központ további forrásokat kapjon a tanulmányok finanszírozására, még abban az esetben is, ha egy évfolyamra csak egy (szlovén és magyar) hallgató van beiratkozva. A KVB javasolja a szlovén félnek, hogy a Maribori Egyetem további forrásokat kapjon annak érdekében, hogy biztosítsa a szlovén–magyar fordítói szak elindítását abban az esetben is, ha egy évfolyamra csak egy hallgató iratkozik be.
+
+8. A KVB javasolja a magyar félnek, hogy a szlovén Rába-vidék településeinek belső önkormányzati útjai, illetve a határig vezető, a Magyar Közút NZrt. Vas Megyei Igazgatósága kezelésében lévő útjai (7454. számú út Szentgotthárd–Kétvölgy / Verica-Ritkarovci és a 7458. számú út Szentgotthárd–Felsőszölnök / Gornji Senik) felújítását a magyar–szlovén országhatárig kezelje prioritásként.
+
+9. A KVB javasolja a magyar félnek, hogy a Vas Vármegyei Közgyűléssel és az illetékes hatóságokkal együttműködve, valamint a szlovén Rába-vidék térségfejlesztési programjával összhangban minél előbb készítsen ütemtervet a teljes Rába-vidéki úthálózat felújítására és kiépítésére, amely lehetővé teszi a jövőbeli gazdasági és turisztikai fejlődést.
+
+10. A KVB továbbra is javasolja a szlovén félnek az R2-443. számú állami közút felújítási projektjének keretében a Lendava/Lendva–Pince/Pince útszakaszon a kerékpáros összeköttetés kiépítésének felgyorsítását, amely nagymértékben hozzájárul a nemzetiségileg vegyesen lakott terület turisztikai fejlődéséhez, ezért javasolja mindkét félnek, hogy vizsgálja meg a Pince/Pince–Tornyiszentmiklós útszakaszon a kerékpáros összeköttetés fejlesztését.
+
+11. A KVB javasolja mindkét félnek, hogy a jövőben is biztosítsa a Rába-vidék és a Muravidék kétnyelvű iskoláiban tanító pedagógusok nyelvi és szakmai továbbképzésének finanszírozását.
+
+12. A KVB javasolja, hogy a szlovén fél továbbra is biztosítsa a szlovén nyelvű tanórán kívüli kulturális tevékenységekhez a költségvetési forrásokat (szlovén mentorok vagy csoportvezetők) a Rába-vidéki kéttannyelvű iskolák számára megfelelő időbeosztás szerint. Javasolja továbbá, hogy a szlovén fél továbbra is törekedjen legalább két szlovén pedagógiai asszisztens és két szlovén óvodapedagógus asszisztens biztosítására a Rába-vidék óvodáiban és általános iskoláiban, valamint Szentgotthárdon is.
+
+13. A KVB javasolja mindkét félnek, hogy a MURABA Korlátolt Felelősségű Európai Területi Társulás jelentőségére tekintettel lehetőségeikhez mérten a továbbiakban is támogassák a MURABA Korlátolt Felelősségű Európai Területi Társulás működését.
+
+14. A KVB ismét javasolja mindkét félnek, hogy vizsgálják meg a szentgotthárdi galéria és a szentgotthárdi médiaközpont berendezéséhez és működtetéséhez szükséges források biztosításának lehetőségét azok regionális jelentősége miatt, mivel ezen intézmények turisztikai célpontként és a szlovén nemzeti közösség többfunkciós közösségi tereként szolgálhatnak.
+
+15. A KVB üdvözli a két fél által a kétnyelvűség javítása érdekében hozott intézkedéseket, és szorgalmazza, hogy mindkét fél további intézkedéseket tegyen az őshonos nemzeti közösségek által lakott területen az intézkedések gyakorlati megvalósítása érdekében a hasonló szintű kétnyelvűség biztosítása érdekében a Muravidéken és a Rába-vidéken.
+
+16. A KVB üdvözli a Magyar–Szlovén és a Szlovén–Magyar digitális nagyszótárral kapcsolatban elvégzett munkát. A KVB javasolja a magyar és szlovén munkacsoport tevékenységének folytatását, továbbá a nagyszótárak nyomtatásban történő megjelentetése lehetőségének megteremtését.
+
+17. A KVB javasolja a magyar félnek, hogy a jövőben is tegye lehetővé Magyarországon a szlovén nyelvvizsga letételét és a nyelvismeretet igazoló megfelelő nyelvvizsga-bizonyítvány megszerzésének lehetőségét.
+
+18. A KVB üdvözli, hogy a magyar fél támogatásának köszönhetően megkezdődött a Hosszúfaluban kialakított ifjúsági szállás működése, amely többek között a Lendvai Kétnyelvű Középiskola diákjai számára is biztosít elhelyezést. Üdvözli továbbá a magyar fél hozzájárulását a szállás működéséhez. A KVB javasolja a szlovén félnek, az ifjúsági szállás jelentőségére tekintettel, hogy vizsgálja meg a működtetéshez való hozzájárulás lehetőségét.
+
+19. A KVB megállapítja, hogy a magyar fél a szlovén fél bevonásával elkészítette a Beltinci–Lendava/Lendva–Rédics–Zalaegerszeg vasúti összeköttetés megvalósíthatósági tanulmányát. A KVB mindkét félnek javasolja a Beltinci–Lendava/Lendva–Rédics vasúti összeköttetés megvalósítása érdekében a felek közti rendszeres egyeztetést.
+
+20. A KVB üdvözli a Szlovén Rádió és Televízió, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (MTVA) között 2013-ban megkötött együttműködési megállapodás megvalósítását és javasolja, hogy ennek alapján mindkét fél a jövőben is tegyen erőfeszítéseket a szlovén és a magyar nemzeti közösség kisebbségi műsorainak a két ország elektronikus médiumaiban történő kiegyensúlyozott megjelenése és a minél szélesebb körű tájékoztatás érdekében a közszolgálati médiában mindkét nemzetiség tekintetében.
+
+21. A KVB üdvözli az eddig tett erőfeszítéseket és javasolja mindkét félnek, hogy európai uniós, esetleg nemzeti forrás terhére biztosítsa a jövőben is a szlovén nemzetiség számára is a digitális taneszköz-fejlesztést a Rába-vidéken, és a szlovén félnek, hogy a jövőben is biztosítsa a tankönyvek korszerűsítését és újranyomtatását a muravidéki kétnyelvű általános iskolák és a középiskola részére.
+
+22. A KVB javasolja mindkét félnek, hogy fordítson kiemelt figyelmet a szlovének által lakott Rába-vidék és a kétnyelvű Muravidék turisztikai fejlesztésére, valamint mindkét ország kölcsönösen tegyen lépéseket annak érdekében, hogy ezen régiók a kiemelt turisztikai desztinációk körébe bekerüljenek.
+
+23. A KVB javasolja mindkét félnek, hogy továbbra is vizsgálják a Kühár Emlékház (Szlovén Tájház) tartalmi kiegészítésének és funkcióbővítése támogatásának lehetőségét.
+
+24. A KVB üdvözli a két ország közötti kiváló együttműködést és az árvízi biztonság elérését szolgáló bevált gyakorlatokat, és elégedettségét fejezi ki a Mura menti települések árvízvédelme érdekében a szlovén fél által tett erőfeszítésekkel kapcsolatban, és javasolja, hogy továbbra is fordítson erre kiemelt figyelmet.
+
+25. A KVB mindkét félnek továbbra is javasolja, hogy az illetékes szervek szenteljenek kiemelt figyelmet a környezetvédelmi engedélyek kiadása és felülvizsgálata során a nemzetiségileg vegyesen lakott területeknek is.
+
+26. A KVB üdvözli a Muraszombati Területi és Tanulmányi Könyvtár utazó könyvtár (bibliobusz) szolgáltatásainak eddigi magyarországi finanszírozását és szorgalmazza, hogy a magyar fél rendszerszintű finanszírozást biztosítson a bibliobusz számára a Rába-vidéken. A KVB javasolja mindkét félnek, hogy biztosítson forrást a Lendvai Könyvtár, valamint a Muraszombati Területi és Tanulmányi Könyvtár magyar könyvállományának bővítésére.
+
+27. A KVB üdvözli, hogy A kétnyelvű oktatás minőségnövelése új oktatási megközelítésekkel a szlovéniai magyar nemzeti közösség és a magyarországi szlovén nemzeti közösség számára c. projekt a kétnyelvű oktatás színvonalas és szükséges gazdagításának bizonyult és a képzés további négyéves folytatásáról született döntés az új pénzügyi terv keretében. A KVB javasolja a szlovén félnek a fenti projekt folytonosságának biztosítását.
+
+II. A Magyar–Szlovén Kormányközi Kisebbségi Vegyes Bizottság (KVB) 2024. szeptember 30-án, Ljubljana településen megtartott XIX. ülésén a következő ajánlásokat fogalmazta meg a két ország kormányai számára:
+
+1. A KVB üdvözli, hogy a magyar fél támogatta a helyi szlovén nemzetiségi közösség történelmi és kultúrtörténeti jelentőségű, a közösség hitéletében is jelentős szerepet betöltő apátistvánfalvi Harding Szent István műemléktemplom felújítását. A KVB javasolja mindkét félnek, hogy vizsgálja meg további források biztosítását az említett templom rekonstrukciója céljából.
+
+2. A KVB javasolja, hogy a magyar fél vizsgálja meg a megfelelő megoldási lehetőségeket a történelmi és társadalmi jelentőséggel bíró Felsőszölnök / Gornji Senik–Kétvölgy / Verica-Ritkarovci összekötő út kezelésére.
+
+3. A KVB javasolja a magyar félnek, hogy biztosítsa a tanulmányok lehetőségét a szlovén nemzetiségi óvodapedagógus-képzés keretében az ELTE Savaria Egyetemi Központ, a Soproni Egyetem és az Országos Szlovén Önkormányzat együttműködésében.
+
+4. A KVB javasolja a magyar félnek, hogy az anyanyelv megőrzése érdekében biztosítson további forrásokat a Szentgotthárdi Rádió számára a szükséges műszaki fejlesztésre, és biztosítsa a megfelelő feltételeket a fejlesztéshez, a további sugárzáshoz és működéshez. Ezzel összefüggésben a magyar fél vizsgálja meg az alszámlán elhelyezett letéti díj kérdését.
+
+5. A KVB javasolja mindkét félnek, hogy vizsgálja meg a magyarországi szlovén nemzetiségi közösség fenntartásában lévő intézmények, illetve a muravidéki magyar nemzeti közösség tulajdonában lévő épületek energiatakarékos és környezetbarát fűtési rendszerei kialakítása további társfinanszírozásának lehetőségét.
+
+6. A KVB javasolja a magyar félnek, hogy tegyen lépéseket további források biztosítására a szlovén Rába-vidék vonatkozásában 1 főállású ifjúsági referens és 1 főállású turisztikai referens státusz finanszírozására, akik a szlovén Rába-vidék ifjúsági és turisztikai területeinek koordinálását hivatottak szolgálni.
+
+7. A KVB javasolja a szlovén félnek, hogy biztosítson további forrásokat a Muravidéki Magyar Ifjúsági Szervezet programjai finanszírozására.
+
+8. A KVB javasolja a magyar félnek, hogy vizsgálja meg a szentgotthárdi Pável Ágoston Helytörténeti és Szlovén Nemzetiségi Múzeum megfelelő kezelési formájának lehetőségeit.
+
+9. A KVB javasolja a magyar félnek, hogy az illetékes intézménnyel, ami a mohácsi Kanizsai Dorottya Múzeum kiállítási tárgyait kezeli, tanulmányozza annak lehetőségét, hogy azon tárgyak, amelyek már nem képezik a magyarországi délszlávokról szóló állandó kiállítás részét, és kapcsolódnak a szlovén nemzetiséghez, illetve a Rába-vidéken már nem lelhetők fel, kerülhessenek kiállításra a Rába-vidéki múzeumokban és a helyi gyűjteményekben.
+
+10. A KVB javasolja, hogy az óvodai nevelés és iskolai oktatás minőségének javítása, valamint a nemzetiségileg vegyesen lakott területen a munkaerőhiány jobb kezelése érdekében mindkét fél erősítse meg a határ két oldalán működő oktatási intézmények közötti cserelehetőségeket, valamint könnyítse meg az eljárásokat, különösen a tanárcserék, a tanítási és tanulmányi gyakorlatok végzése, a címek elismerése és a tanári, valamint egyéb szakmai vizsgák anyanyelven történő letétele terén. Különös jelentőséggel bír, hogy az óvodai nevelésben foglalkoztatottak megkapják a magyar és szlovén kulturális tartalmakra vonatkozó tudást is.
+
+11. A KVB javasolja a szlovén félnek a két tanítási nyelvű nevelő-oktató intézményekre vonatkozó jogszabályi követelményeknek megfelelő felsőfokú óvodapedagógus- és tanítóképzés előkészítésének megkezdését a Maribori Egyetemen.
+
+12. A KVB javasolja mindkét félnek, hogy vizsgálja meg mindkét kétnyelvű területen a gyermekek számára annak a lehetőséget, hogy anyanyelvű logopédus és pszichológus foglalkozzon velük.
+
+13. A KVB üdvözli a jól bevált gyakorlatot a feliratos műsortartalom elkészítése terén, és javasolja a szlovén félnek, hogy a magyar közösség igényeinek megfelelően, az eddigi, jól bevált gyakorlat figyelembevételével a szlovéniai RTV Magyar Műsorok Stúdiója által készített, feliratozott műsorok közvetítése maradjon a szlovén RTV 1-es csatornáján.
+
+14. A KVB javasolja a szlovén félnek anyagi forrás biztosítását a Szlovéniában 5. osztályban kötelező kerékpárvizsgához szükséges digitális tananyag magyar nyelvű fordítására, ugyanis az csak szlovén nyelven érhető el.
+
+15. A KVB javasolja mindkét félnek, vizsgálják meg a Budapest–Lenti–Lendva/Lendava autóbuszjárat indításának lehetőségét.
+
+16. A KVB javasolja a szlovén félnek az R2-724. számú állami közút vonalán a Pártosfalva / Prosenjakovci–Kisfalu /
+
+Pordašinci–Szentlászló/Motvarjevci településeket összekötő kerékpáros összeköttetés (kerékpárút) és járda kiépítését, amely nagymértékben hozzájárul az útszakaszon történő biztonságos közlekedéshez, valamint a nemzetiségileg vegyesen lakott terület turisztikai fejlődéséhez.
+
+17. A KVB üdvözli az Országos Szlovén Önkormányzat által fenntartott közoktatási intézmények működtetésének támogatását szolgáló, a 2023–2026 közötti időszakra vonatkozó köznevelési szerződés aláírását az Országos Szlovén Önkormányzattal és javasolja a magyar félnek, hogy 2027-től újabb köznevelési szerződés keretében is biztosítsanak megfelelő forrásokat ezen intézmények működtetéséhez.
+
+18. A KVB javasolja mindkét félnek, hogy vizsgálja meg a Magyarországi Szlovének Szövetségének ifjúsági tevékenységek fejlesztési központja létrehozására irányuló tervét a Rába-vidéken.
+
+19. A KVB javasolja mindkét félnek, hogy az UNESCO Általános Konferenciájának ülésszakán, 2003. október 17-én elfogadott Egyezmény a szellemi kulturális örökség védelméről végrehajtásáért felelős intézmények ösztönözzék a Magyarországon található szlovén vonatkozású szellemi kulturális örökség, illetve a Szlovéniában található magyar vonatkozású szellemi kulturális örökség beazonosítását, nyilvántartásba vételét és megőrzését, valamint az információk és jó gyakorlatok cseréjét. A KVB mindkét félnek javasolja a további szoros szakmai együttműködést és közös felterjesztések elkészítését az egyezmény listáira.
+
+20. A KVB javasolja megvizsgálni mindkét félnek a Muravidéken található egyházi emlékek megőrzésének támogatását, így különösen a lendvai Szent Katalin-plébániatemplom megkezdett felújításának befejezését, a hodosi evangélikus templom teljes körű felújításának, valamint a domonkosfai Árpád-kori Szent Márton katolikus templom bejárati boltíve restaurálásának finanszírozását.
+
+21. A KVB javasolja a magyar félnek, hogy az illetékes hatóság az Őrségi Nemzeti Parkkal együttműködve vizsgálja meg a helyi szennyvíztisztítás finanszírozásának lehetőségét Felsőszölnök, Kétvölgy, Apátistvánfalva és Orfalu településeken.
+
+22. A KVB javasolja a magyar félnek, hogy biztosítsák az öt szlovén település és öt szlovén nemzetiségi önkormányzat (Felsőszölnök, Alsószölnök, Szakonyfalu, Orfalu és Kétvölgy) Közös Önkormányzati Hivatala további folyamatos zavartalan működésének feltételeit szlovén nyelven is, szlovén nyelven beszélő hivatali dolgozók foglalkoztatásával is, ami rendkívül fontos a szlovén közösség és a kétnyelvűség szempontjából jogainak garantálása szempontjából a Rába-vidéken.
+
+23. A KVB üdvözli az anyanyelvi istentiszteleteket a Rába-vidéki templomokban, ahol havonta egyszer szlovén nyelvű miséket tartanak muravidéki lelkészek Szentgotthárdon, Apátistvánfalván és Felsőszölnökön. A szlovén nyelv és a nemzeti identitás megőrzése érdekében Rába-vidéken üdvözlendő lenne, ha a szlovén lelkészek tartanának más egyházi szertartásokat is anyanyelven.
+
+24. A KVB javasolja mindkét félnek, hogy továbbra is támogassák a muravidéki magyar és a Rába-vidéki szlovén egyetemisták tanulmányaik befejezését követő szülőföldre való visszatérését. Ennek érdekében a KVB javasolja mindkét félnek, hogy vizsgálják meg egy közös muravidéki és Rába-vidéki állami ösztöndíj létrehozásának és finanszírozásának lehetőségét vagy a jelenlegi ösztöndíjrendszerekbe történő beépítését.
+
+25. A KVB üdvözli, hogy a magyarországi szlovén közösség által lakott Rába-vidéken (Felsőszölnök, Alsószölnök, Szakonyfalu, Szentgotthárd, Szentgotthárd–Rábatótfalu, Apátistvánfalva, Kétvölgy és Orfalu településeken) szlovén nyelvű információs és irányjelző táblákat helyeztek ki, és javasolja a magyar félnek, hogy ott is helyezzék ki a megfelelő táblákat, ahol erre még nem került sor.
+
+26. A KVB támogatja az illetékes szlovén minisztérium elhatározását, hogy az Óvodai nevelés normatíváiról szóló hatályos szabályzat alapján külön rendeletet készít, amely csak a kétnyelvű óvodákban szabályozza a normatívákat.
+
+27. A KVB javasolja a magyar félnek, hogy a jövőben is tanulmányozza a Rába-vidéken működő települési nemzetiségi önkormányzatok számára biztosítható további források növelésének lehetőségét.
+
+28. A KVB javasolja a magyar félnek, hogy a magyarországi szlovén egyesületek és szervezetek forrás- és egyéb támogatása keretében fordítson kiemelt figyelmet a Magyarországi Szlovének Szövetsége megfelelő forrásainak biztosítására, amely az Országos Szlovén Önkormányzat mellett szintén a magyarországi szlovének ernyőszervezete.
+
+29. A KVB javasolja mindkét félnek, hogy a jövőben is biztosítsák a Magyar–Szlovén Közös Alap működését és a Fejlesztési Program megvalósításához szükséges pénzügyi forrásokat.
+
+30. A KVB üdvözli a Magyar Kormány támogatásával elkészült radamosi, korai fejlesztéssel foglalkozó Lehetőségek Háza működésének beindulását, és a beüzemeléséhez szükséges működési támogatás biztosítását. A KVB javasolja, hogy a szlovén fél vizsgálja meg a speciális nevelési igényű gyerekek korai fejlesztésében fontos szerepet vállaló intézmény működése támogatásának lehetőségét.
+
+31. A KVB megállapítja, hogy a gazdasági helyzetből fakadó áremelkedés miatt a muravidéki magyarság egyetlen magyar nyelvű hetilapja, a Népújság nem tudja kigazdálkodni fenntartásának költségeit, továbbá, hogy a munkatársak fizetése aránytalanul alacsony az elektronikus médiában dolgozókéhoz képest, ezért a szlovén fél eddigi segítségét megköszönve, javasolja a szlovén fél részére, hogy vizsgálja meg az eddig biztosított támogatás emelésének lehetőségét.
+
+32. A KVB javasolja a szlovén fél részére, hogy vizsgálja meg a lehetőségét a jövőben is, hogy a muravidéki magyarság ernyőszervezete a Muravidéki Magyar Önkormányzati Nemzeti Közösség részére az alapműködéséhez és tevékenységéhez szükséges támogatást növeli.
+
+33. A KVB javasolja a szlovén félnek, hogy külön figyelmet fordítson a muravidéki Magyar Nemzetiségi Művelődési Intézet tevékenységéhez szükséges támogatás növelésére.
+
+34. A KVB javasolja a magyar félnek, hogy a Kakasdi Hajós Mihály Gazdaságfejlesztési Programon keresztül folytatódjanak a magyar kormány támogatásával megvalósuló beruházások a nemzetiségileg vegyesen lakott Muravidéken.
+
+35. A KVB javasolja a szlovén félnek, hogy folytassa az „A magyar nemzeti közösség gazdasági alapjának ösztönzési programja” című program finanszírozását a 2025–2028 közötti időszakban is.
+
+36. A KVB javasolja a magyar félnek a Szlovén Rába-vidék Térségfejlesztési Program folytatását 2024 után is.
+
+37. A KVB üdvözli, hogy az „A magyar nemzeti közösség gazdasági alapjának ösztönzési programja” című program keretében a szlovén fél a mezőgazdasági tevékenységeket is támogatta, és javasolja, hogy a Szlovén Köztársaság Határon Túli és Diaszpórában élő Szlovénekért felelős Kormányhivatala koordinációjával vizsgálja meg a lehetőségét a Muravidéki Mintagazdaság további működése folytatásának, amely párbeszédbe bevonja mindkét ország érdekelt feleit is. Az eljárás kezdetét közvetlenül figyelemmel kíséri a KVB.
+
+38. A KVB üdvözli, hogy az MMÖNK, a muravidéki magyarság legfelsőbb szerve 2025-ben működésének 50. évfordulóját ünnepeli. Az Országos Szlovén Önkormányzat, a magyarországi szlovének képviseletét ellátó szerv pedig 2025-ben ünnepeli fennállásának 30. évfordulóját. A KVB javasolja mindkét félnek, hogy minél nagyobb mértékben támogassa a jubileumi évek rendezvényeit, programjait.
+
+39. A KVB javasolja mindkét félnek, vizsgálja meg, hogy az Országos Szlovén Önkormányzat a felsőszölnöki Malom további felújítási ütemeire és majdani működtetésére állandó, rendszeres központi költségvetési támogatásban részesüljön.
+
+40. A KVB javasolja mindkét félnek, hogy vizsgálja meg az Országos Szlovén Önkormányzat tulajdonában lévő egyetlen, a térségre jellemző tradicionális technológiával működő pálinkafőzdéje ingatlanának felújítására pénzügyi támogatás nyújtását.
+
+41. A KVB javasolja a szlovén félnek, hogy kiemelt figyelmet fordítson az Országos Szlovén Önkormányzat és intézményei támogatására, amely a Magyarországi Szlovének Szövetsége mellett szintén a magyarországi szlovének ernyőszervezete és a Rába-vidéki köznevelési intézmények fenntartója is.
+
+42. A KVB javasolja a magyar félnek, hogy az Őrségi Nemzeti Parkkal egyeztetve, vizsgálja meg annak lehetőségét, hogy Magyarország irányából is megépüljön a Hármashatárkő felé vezető gyalogút.
