@@ -10,7 +10,7 @@ c) az egészségnevelésben és az egészségügyi felvilágosításban való r�
 
 d)[^14] külön jogszabályban foglaltak szerint az életkorhoz kötött szűrővizsgálatok elvégzése és az egyes népegészségügyi célú, célzott szűrővizsgálatokban való közreműködés, valamint együttműködés az ellátási területén ilyen szűrővizsgálatot végző egészségügyi szolgáltatóval és a végrehajtásért felelős szervvel,
 
-e)[^15] a háziorvosi, házi gyermekorvosi ügyelet működtetőjével kötött szerződésben rögzítettek szerint az ügyeleti szolgálatban való, az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló miniszteri rendeletben meghatározottak szerinti részvétel,
+e)[^15] a háziorvosi, házi gyermekorvosi ügyeleti szolgálatban való, az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló miniszteri rendeletben meghatározottak szerinti részvétel,
 
 f) külön engedély alapján a kézi gyógyszertár kezelése,
 
@@ -61,7 +61,7 @@ b) 14. életévét betöltött tanuló esetén a szülő vagy a tanuló
 kérésére a háziorvos vagy házi gyermekorvos igazolja, ha a gyermek vagy a tanuló e körülmények fennállásáról a kezelőorvosától igazolást nem kapott.
 
 [^14]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^15]: A 4. § (2) bekezdés e) pontja a 16/2023. (VI. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 4. § (2) bekezdés e) pontja a 16/2023. (VI. 14.) BM rendelet 3. §-ával megállapított, a 25/2025. (VII. 16.) BM rendelet 18. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (3) bekezdés nyitó szövegrésze a 24/2014. (IV. 4.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
 [^17]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
 [^18]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
