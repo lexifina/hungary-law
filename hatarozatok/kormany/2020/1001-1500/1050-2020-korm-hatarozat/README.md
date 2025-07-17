@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1050-30
 | 2021-02-27 | 2020-1050-30-22.4 | 1080/2021. (II. 27.) Korm. határozat |
 | 2024-06-10 | 2020-1050-30-22.5 | 1159/2024. (VI. 10.) Korm. határozat |
 | 2025-02-24 | 2020-1050-30-22.6 | 1027/2025. (II. 24.) Korm. határozat |
+| 2025-07-17 | 2020-1050-30-22.7 | 1258/2025. (VII. 17.) Korm. határozat |
