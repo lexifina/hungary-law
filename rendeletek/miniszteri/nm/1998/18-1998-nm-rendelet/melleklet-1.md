@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^215]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^217]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6740,12 +6740,4 @@ A megerősített eset laboratóriumi feltétele
 
 - szerokonverzió akut vagy lábadozó szakaszban vett vérsavóban, párhuzamosan vizsgálva ELISA- vagy
 
-IFA-módszerrel,
-
-- négyszeres vagy nagyobb antitest-titeremelkedés az akut és a lábadozó szakaszban vett vérsavóban párhuzamosan vizsgálva.
-
-A valószínűsíthető eset laboratóriumi feltétele
-
-Az alábbi két feltétel legalább egyike:
-
-[^215]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^217]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
