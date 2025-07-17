@@ -12,7 +12,7 @@
 
 | 4.c | A déli út és az iparterület közötti útkapcsolat kialakítása [nyugati út] |
 
-2. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz[^23]
+2. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz[^24]
 
 Víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok
 
@@ -28,4 +28,4 @@ Víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összef�
 
 | 5. | A gödi ipari-innovációs fejlesztési terület és a váci szennyvíztelep közötti szennyvízvezeték építése |
 
-[^23]: A 2. melléklet az 1080/2021. (II. 27.) Korm. határozat 8. pontjával megállapított szöveg.
+[^24]: A 2. melléklet az 1080/2021. (II. 27.) Korm. határozat 8. pontjával megállapított szöveg.
