@@ -8,7 +8,7 @@
 
 ## – hepatitis B.
 
-2. melléklet a 32/2007. (VI. 27.) EüM rendelethez[^3]
+2. melléklet a 32/2007. (VI. 27.) EüM rendelethez[^4]
 
 …………… FŐVÁROSI/VÁRMEGYEI KORMÁNYHIVATAL
 
@@ -60,4 +60,4 @@ a kormányhivatal nevében és képviseletében eljárva
 
 ** Amennyiben ismert.
 
-[^3]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 59. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 90. §-a, a 45/2022. (XII. 20.) BM rendelet 43. § b) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 59. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 90. §-a, a 45/2022. (XII. 20.) BM rendelet 43. § b) pontja szerint módosított szöveg.

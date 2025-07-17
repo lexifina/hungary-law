@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-32-20-0
 | 2015-04-29 | 2007-32-20-0B.4 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-01-01 | 2007-32-20-0B.5 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2023-01-01 | 2007-32-20-0B.6 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2025-07-17 | 2007-32-20-0B.7 | 25/2025. (VII. 16.) BM rendelet |
