@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-51-20-5
 | 2019-08-15 | 2013-51-20-5H.6 | 28/2016. (IX. 29.) EMMI rendelet |
 | 2021-06-09 | 2013-51-20-5H.7 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2023-01-01 | 2013-51-20-5H.8 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2025-07-17 | 2013-51-20-5H.9 | 25/2025. (VII. 16.) BM rendelet |

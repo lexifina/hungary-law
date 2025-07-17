@@ -1,5 +1,3 @@
-## 5. § A belügyminiszter irányítása alá tartozó rendvédelmi szervek, valamint a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálatok a 4. § (4) bekezdése szerinti bejelentési kötelezettségüket a felettük munkavédelmi hatósági jogkört gyakorló kijelölt szervezet részére teljesítik.
-
 6. § (1) Ha a kockázatértékelés a munkavállalók biztonságának vagy egészségének kockázatát igazolja, az éles vagy hegyes eszközök használatából adódó kockázatnak való kitettséget meg kell akadályozni, vagy ha ez nem lehetséges, azt a lehető legalacsonyabb szintre kell csökkenteni.
 
 (2) Ha az expozíció megakadályozása vagy megszüntetése az egészségügyi szolgáltatás munkafolyamatai során nem lehetséges, a kockázatot olyan minimális szintre kell csökkenteni, hogy az érintett munkavállalók egészsége és biztonsága az a)–d) pontban foglaltaknak megfelelően biztosítva legyen. Ennek érdekében:
@@ -12,6 +10,6 @@ c) belső szabályzatban kell meghatározni az érintett munkavállalók tájék
 
 d) elő kell írni, hogy az éles vagy hegyes eszközöket használatuk után egységenként, védőkupak visszatétele nélkül kell az arra rendszeresített gyűjtőeszközbe helyezni.
 
-(3)[^4] A 4. § (1) bekezdése szerinti kockázatértékelést és a 4. § (4) bekezdése szerinti bejelentést az egészségügyi szolgáltatás nyújtására irányuló működési engedély megszerzése esetén vagy az éles vagy hegyes eszközzel érintett egészségügyi tevékenységet magában foglaló szakmát érintő működési engedély módosítása esetén az egészségügyi szolgáltató legkésőbb a működési engedély véglegessé válásának napjától számított három hónapon belül készíti el, illetve teszi meg.
+(3)[^4] A 4. § (1) bekezdése szerinti kockázatértékelést az egészségügyi szolgáltatás nyújtására irányuló működési engedély megszerzése esetén vagy az éles vagy hegyes eszközzel érintett egészségügyi tevékenységet magában foglaló szakmát érintő működési engedély módosítása esetén az egészségügyi szolgáltató legkésőbb a működési engedély véglegessé válásának napjától számított három hónapon belül készíti el.
 
-[^4]: A 6. § (3) bekezdése a 8/2018. (II. 13.) EMMI rendelet 74. §-a szerint módosított szöveg.
+[^4]: A 6. § (3) bekezdése a 8/2018. (II. 13.) EMMI rendelet 74. §-a, a 25/2025. (VII. 16.) BM rendelet 35. §-a szerint módosított szöveg.
