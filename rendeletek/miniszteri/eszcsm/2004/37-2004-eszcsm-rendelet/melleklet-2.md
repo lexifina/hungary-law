@@ -1,4 +1,4 @@
-2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^24]
+2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^27]
 
 ## Étrend-kiegészítők gyártásához felhasználható vitamin és ásványi anyag vegyületek
 
@@ -19,6 +19,8 @@
 1.2.1. kolekalciferol
 
 1.2.2. ergokalciferol
+
+1.2.3. kalcidiol-monohidrát
 
 1.3. E-vitamin
 
@@ -248,6 +250,10 @@
 
 2.3.14.b vas-nátrium-EDTA
 
+2.3.14c. vas-hidroxid-adipát-tartrát (nano)
+
+2.3.14d. vas-tejkazeinát
+
 2.3.15. vas(II)-taurát (ferro-taurát)
 
 2.4. Réz
@@ -472,4 +478,4 @@
 
 3.7. (7)Krómmal dúsított élesztő, melyet króm(III)-klorid – mint krómforrás – jelenlétében, Saccharomyces cerevisiae tenyészetben állítanak elő, és amely szárított, forgalmazott formában 230–300 mg/kg krómot tartalmaz. A króm(VI)-tartalom nem haladhatja meg a teljes krómtartalom 0,2%-át.
 
-[^24]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a, a 32/2014. (IV. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 25. §-a, a 34/2021. (VIII. 6.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^27]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a, a 32/2014. (IV. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 25. §-a, a 34/2021. (VIII. 6.) EMMI rendelet 2. §-a, a 25/2025. (VII. 16.) BM rendelet 21. §-a szerint módosított szöveg.

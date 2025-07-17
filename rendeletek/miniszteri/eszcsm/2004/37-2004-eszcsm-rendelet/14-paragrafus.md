@@ -18,9 +18,18 @@ d)[^20] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-ki
 
 e)[^21] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt nikotinamid-ribozid-klorid és magnézium-citrát-malát tekintetében, valamint a réz esetében alkalmazott mértékegység tekintetében történő módosításáról szóló, 2021. március 9-i (EU) 2021/418 bizottsági rendelet
 
+f)[^22] a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az étrend-kiegészítők előállításához használt vas-hidroxid-adipát-tartrát tekintetében történő módosításáról szóló, 2024. január 16-i (EU) 2024/248 bizottsági rendelet,
+
+g)[^23] az 1925/2006/EK európai parlamenti és tanácsi rendelet II. mellékletének és a 2002/46/EK európai parlamenti és tanácsi irányelv II. mellékletének az élelmiszerekhez hozzáadott és az étrend-kiegészítők előállításához használt vas-tejkazeinát tekintetében történő módosításáról szóló, 2024. június 25-i (EU) 2024/1821 bizottsági rendelet,
+
+h)[^24] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt kalcidiol-monohidrát tekintetében történő módosításáról szóló, 2025. február 21-i (EU) 2025/352 bizottsági rendelet
+
 [^16]: A 14. § (2) bekezdését újonnan a 34/2021. (VIII. 6.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^17]: A 14. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.
 [^18]: A 14. § (6) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^19]: A 14. § (7) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 32/2014. (IV. 18.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^20]: A 14. § (7) bekezdés d) pontját az 54/2015. (XI. 24.) EMMI rendelet 24. §-a iktatta be.
 [^21]: A 14. § (7) bekezdés e) pontját a 34/2021. (VIII. 6.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 14. § (7) bekezdés f) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
+[^23]: A 14. § (7) bekezdés g) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.
+[^24]: A 14. § (7) bekezdés h) pontját a 25/2025. (VII. 16.) BM rendelet 20. §-a iktatta be.

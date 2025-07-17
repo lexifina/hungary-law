@@ -1,4 +1,4 @@
-1. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^23]
+1. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^26]
 
 ## Étrend-kiegészítők gyártásához felhasználható vitaminok és ásványi anyagok
 
@@ -70,4 +70,4 @@
 
 2.17. Szilícium (mg)
 
-[^23]: Az 1. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (4) bekezdésével megállapított, a 34/2021. (VIII. 6.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^26]: Az 1. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (4) bekezdésével megállapított, a 34/2021. (VIII. 6.) EMMI rendelet 3. §-a szerint módosított szöveg.
