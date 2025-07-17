@@ -310,7 +310,7 @@
 
 | Határidő: | folyamatos |
 
-## 5. Hatályát veszti a Magyar–Szlovén Kormányközi Kisebbségi Vegyes Bizottság XVIII. ülésén fenntartott és elfogadott ajánlások jóváhagyásáról és egyes kormányhatározatok hatályon kívül helyezéséről szóló 1647/2022. (XII. 22.) Korm. határozat.
+## 5.[^1]
 
 1. melléklet az 1254/2025. (VII. 16.) Korm. határozathoz
 
@@ -457,3 +457,5 @@ Pordašinci–Szentlászló/Motvarjevci településeket összekötő kerékpáro
 41. A KVB javasolja a szlovén félnek, hogy kiemelt figyelmet fordítson az Országos Szlovén Önkormányzat és intézményei támogatására, amely a Magyarországi Szlovének Szövetsége mellett szintén a magyarországi szlovének ernyőszervezete és a Rába-vidéki köznevelési intézmények fenntartója is.
 
 42. A KVB javasolja a magyar félnek, hogy az Őrségi Nemzeti Parkkal egyeztetve, vizsgálja meg annak lehetőségét, hogy Magyarország irányából is megépüljön a Hármashatárkő felé vezető gyalogút.
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
