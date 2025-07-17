@@ -14,7 +14,7 @@
 
 ## f) Ács–Bábolna közötti kerékpárút előkészítése, kiviteli terv szinttel bezárólag;
 
-## 1.2.[^1] egyetért az iparterület, Ács és térsége víziközmű- és csapadékvízelvezető-hálózatának komplex fejlesztésével összefüggő előkészítési és kivitelezési feladatok megvalósításával.
+## 1.2.[^1] egyetért az iparterület, Ács és térsége víziközmű- és csapadékvízelvezető-hálózatának komplex fejlesztésével összefüggő előkészítési és kivitelezési feladatok megvalósításával, valamint az infrastruktúra-fejlesztéshez szükséges eszközök beszerzésével.
 
 ## 2. A Kormány egyetért az 1.1. alpont a)–d) pontjában szereplő beruházások előkészítése és megvalósítása érdekében összesen 14 480 418 996 forint rendelkezésre állásával.
 
@@ -102,7 +102,7 @@
 
 1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz[^14]
 
-[^1]: Az 1. pont 1.2. pontja az 1025/2025. (II. 24.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: Az 1. pont 1.2. alpontja az 1260/2025. (VII. 17.) Korm. határozattal megállapított szöveg.
 [^2]: A 3. pont 3.1. alpontja az 1054/2025. (III. 11.) Korm. határozat 21. pontjával megállapított szöveg.
 [^3]: A 3. pont 3.3. alpontja az 1054/2025. (III. 11.) Korm. határozat 22. pontjával megállapított szöveg.
 [^4]: A 3. pont 3.5. alpontja az 1054/2025. (III. 11.) Korm. határozat 23. pontjával megállapított szöveg.
