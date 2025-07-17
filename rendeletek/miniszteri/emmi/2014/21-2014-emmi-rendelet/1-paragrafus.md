@@ -1,0 +1,3 @@
+1. §[^1] A Veleszületett Rendellenességek Országos Nyilvántartását (a továbbiakban: VRONY) működtető szerv fogadja, rögzíti, tárolja, feldolgozza és elemzi a BNO 10. revízió 17. főcsoportjába (Q0000-Q9990) besorolt kóddal rendelkező veleszületett rendellenességekre, valamint az ORPHA kóddal rendelkező valamennyi ritka betegségre vonatkozó, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 16. § (1) bekezdése szerint bejelentett adatokat.
+
+[^1]: Az 1. § a 25/2025. (VII. 16.) BM rendelet 38. § a) pontja szerint módosított szöveg.

@@ -1,139 +1,227 @@
 ## 5. § Ez a rendelet a kihirdetését követő hatodik hónap első napján lép hatályba.
 
-1. melléklet a 21/2014. (III. 20.) EMMI rendelethez
+1. melléklet a 21/2014. (III. 20.) EMMI rendelethez[^9]
 
-Az e-VRONY és VRONY BEJELENTŐLAP adattartalma
+Az e-VRONY és VRONY-BRB BEJELENTŐLAP adattartalma
 
-| Az érintett személyazonosító és egészségügyi adatai: |  |
+I. Az érintett személyazonosító és egészségügyi adatai
 
-| Név |  |
+1. Név
 
-| TAJ szám |  |
+2. TAJ szám
 
-| Születés/ vetélés/ várandósság-megszakítás ideje | (év, hónap, nap) |
+3. Születés/vetélés/várandósságmegszakítás ideje (év, hónap, nap)
 
-| Esetleges elhalálozás dátuma | (év, hónap, nap) |
+4. Esetleges elhalálozás oka
 
-| Nem | (fiú, lány, ismeretlen) |
+5. Esetleges elhalálozás dátuma (év, hónap, nap)
 
-| Születés számossága | (egyes, kettes, hármas, négyes, ötös iker) |
+6. Nem (fiú, lány, ismeretlen)
 
-| Születési súly | (g) |
+7. Születés számossága (egyes, kettes, hármas, négyes, ötös iker)
 
-| Várandósság kimenetele | (élve születés, halva születés, spontán vetélés, |
+8. Születési súly (g)
 
-|  | prenatális diagnózis miatti várandósság-megszakítás, |
+9. Várandósság kimenetele (élve születés, halva születés, spontán vetélés,
 
-|  | prenatálisan felismert, de meg nem szakított |
+9.1. prenatális diagnózis miatti várandósságmegszakítás,
 
-|  | várandósság) |
+9.2. prenatálisan felismert, de meg nem szakított várandósság)
 
-| Várandóssági hét | (születéskor, elhaláskor) |
+10. Várandóssági hét (születéskor, elhaláskor)
 
-| Rendellenesség diagnosztizálásának dátuma | (év, hónap, nap, betöltött várandóssági hét) |
+11. Rendellenesség diagnosztizálásának dátuma (év, hónap, nap, betöltött várandóssági hét)
 
-| Anya adatai |  |
+12. Születés helye (település, ország)
 
-| Anya születési neve |  |
+II. Anya adatai
 
-| Anya TAJ száma |  |
+1. Anya születési neve, vezetékneve, keresztneve, titulusa
 
-| Törvényes képviselő lakcíme | (irányítószám, település megnevezése, utca, házszám) |
+2. Anya TAJ száma
 
-| Anya tartózkodási helye várandósság idején | (irányítószám, település megnevezése, utca, házszám) |
+3. Törvényes képviselő lakcíme (irányítószám, település megnevezése, utca, házszám)
 
-| Anya születési dátuma | (év, hónap, nap) |
+4. Anya tartózkodási helye a várandósság első három hónapjában (irányítószám, település megnevezése, utca, házszám)
 
-| Anya életkora a várandósság alatt | (éves) |
+5. Anya születési dátuma (év, hónap, nap)
 
-| Korábbi várandósságok száma |  |
+6. Anya életkora a várandósság alatt (éves)
 
-| LMP | (év, hónap, nap) |
+7. Korábbi várandósságok száma
 
-| Rendellenesség adatai |  |
+8. LMP (év, hónap, nap)
 
-| Rendellenesség BNO kódja és megnevezése | (max 10) |
+III. Rendellenesség adatai
 
-| Oldalisága | (jobboldali, baloldali, két oldalt érintő) |
+1. Elsődleges rendellenesség (jelölőnégyzet)
 
-| Szindróma megnevezése |  |
+2. Ritka betegség (jelölőnégyzet)
 
-| McKusick Kód |  |
+3. Rendellenesség BNO-kódja és megnevezése (max 10)
 
-| ORPHA kód |  |
+4. Rendellenesség diagnosztizálásának dátuma
 
-| Diagnózis dátuma | (év, hónap, nap) |
+5. Oldalisága (jobboldali, baloldali, két oldalt érintő)
 
-| Prenatális diagnosztizálás módja |  |
+6. Szindróma megnevezése
 
-| Prenatális diagnosztizálás ideje | (év, hónap, nap) |
+7. McKusick Kód
 
-| Első pozitív prenatális diagnózis ideje | (év, hónap, nap) |
+8. ORPHA kód
 
-| AFP eredmény | (MOM) |
+9. Megjegyzés
 
-| Kromoszómavizsgálat történt-e | (igen, nem) |
+10. Diagnózis dátuma (év, hónap, nap)
 
-| Karyotipizálás eredménye |  |
+11. Prenatális diagnosztizálás módja
 
-| Végzett vagy tervezett sebészeti beavatkozás ideje | (év, hónap, nap) |
+12. Prenatális diagnosztizálás ideje (év, hónap, nap)
 
-| Kóroki adatok |  |
+13. Első pozitív prenatális diagnózis ideje (év, hónap, nap)
 
-| Alkalmaztak-e valamilyen asszisztált reprodukciós technikát | (igen, nem) |
+14. Kromoszómavizsgálat történt-e (igen, nem)
 
-| ha igen, annak megnevezése |  |
+15. Karyotipizálás eredménye
 
-| Anya foglalkozása a fogamzás időszakában |  |
+16. A diagnózis megállapításához vezető vizsgálat
 
-| Várandósságot megelőző 3 hónapban anyai betegség/ek |  |
+17. ennek eredménye
 
-| Várandósság alatti anyai betegség |  |
+18. Végzett vagy tervezett sebészeti beavatkozás ideje (év, hónap, nap)
 
-| Korábbi várandósságok száma |  |
+19. Megjegyzés
 
-| Kimenetele | (élve születés, halva születés, spontán vetélés, |
+IV. Kóroki adatok
 
-|  | prenatális diagnózis miatti várandósság megszakítás, |
+1. Alkalmaztak-e valamilyen asszisztált reprodukciós technikát (igen, nem)
 
-|  | prenatálisan felismert, de meg nem szakított |
+2. ha igen, annak megnevezése
 
-|  | várandósság) |
+3. Anya foglalkozása a fogamzás időszakában
 
-| Folsav bevitel, ha igen, mennyisége | (mg) |
+4. Várandósságot megelőző 3 hónapban anyai betegség(ek)
 
-| Gyógyszerhasználat várandósság alatt | (neve, adagja) |
+5. Várandósság alatti anyai betegség
 
-| Vérrokonság |  |
+6. Korábbi várandósságok száma
 
-| Az érintett testvére(i) rendellenessége(i) | (igen, nem) |
+7. Kimenetele (élve születés, halva születés, spontán vetélés,
 
-| ha igen, típusa |  |
+7.1. prenatális diagnózis miatti várandósságmegszakítás,
 
-| Anya családjában veleszületett rendellenesség, típusa |  |
+7.2. prenatálisan felismert, de meg nem szakított várandósság)
 
-| Apa családjában veleszületett rendellenesség, típusa |  |
+8. Folsav bevitel, ha igen, mennyisége/nap
 
-| Ikertestvér adatai |  |
+8.1. várandósságot megelőző 3 hónapban
 
-| Ha van ikertestvére: ikertestvér neme |  |
+8.2. várandósság alatt (mikrogramm)
 
-| Zygozitás |  |
+9. Gyógyszerhasználat várandósság alatt (neve, adagja)
 
-| Az ikertestvér várandóssági kimenetele |  |
+10. Vérrokonság
 
-| Rendellenesség előfordulása, megnevezése |  |
+10.1. Az érintett testvére(i) rendellenessége(i) (igen, nem)
 
-| Bejelentő adatai |  |
+10.2. ha igen, típusa
 
-| Bejelentő orvos neve |  |
+11. Anya családjában veleszületett rendellenesség, típusa
 
-| Pecsétszáma |  |
+12. Apa családjában veleszületett rendellenesség, típusa
 
-| Bejelentő intézmény |  |
+V. Ikertestvér adatai
 
-| Osztály neve |  |
+1. Ha van ikertestvére: ikertestvér neme
 
-| Bejelentő intézmény címe | (irányítószám, település, utca, házszám) |
+2. Zygozitás
 
-| E-mail címe |  |
+3. Az ikertestvér várandóssági kimenetele
+
+4. Rendellenesség előfordulása, megnevezése
+
+VI. Ritka betegség adatai adatblokk
+
+1. Jelenlegi testtömeg (kg)
+
+2. Jelenlegi testmagasság (cm)
+
+3. Telefonszám
+
+4. E-mail-cím
+
+5. Lakcím (irányítószám, közterület neve, típusa házszám, épület, lépcsőház, ajtó)
+
+6. Kora a diagnosztizálás idején (év)
+
+7. Első tünet megjelenésének ideje
+
+8. Kora az első tünet megjelenésekor (év)
+
+9. Alkalmazott diagnosztikus módszer
+
+10. Családfaelemzés
+
+11. Klinikai adatok
+
+12. Jelenleg használt gyógyszer neve
+
+13. Gyógyszer ATC kódja
+
+14. Gyógyszer napi adagolása
+
+15. Jelenleg használt gyógyszerek – +
+
+16. Jelenleg használt gyógyszerek – –
+
+17. Jelenleg használt táplálék- és étrend-kiegészítők megnevezése
+
+18. Étrend-kiegészítő napi adagolása
+
+19. Jelenleg használt étrend-kiegészítők – +
+
+20. Altatással járó nagyobb műtéti beavatkozás ideje
+
+21. Műtét megnevezése, Műtét kimenete
+
+22. Kórházi ellátásban részesült a ritka betegsége miatt
+
+22.1. Ha igen, hány alkalommal
+
+23. Részt vesz-e jelenleg zajló klinikai vizsgálatban
+
+24. Részt venne-e klinikai vizsgálatban
+
+25. Kutatási célból adományozna-e biológiai mintát
+
+26. Kutatási célból adományozott-e már biológiai mintát
+
+27. Adományozott minta típusa
+
+28. Adományozás ideje
+
+29. Vizsgálat eredménye
+
+30. Biológiai mintát levevő intézmény elnevezése
+
+31. Intézmény telephelye
+
+32. Adományozott minta – +
+
+33. Adományozott minta – –
+
+VII. Bejelentő adatai
+
+1. Bejelentő orvos neve
+
+2. Pecsétszáma
+
+3. Bejelentő intézmény
+
+4. Osztály neve
+
+5. Bejelentő intézmény címe (irányítószám, település, utca, házszám)
+
+6. E-mail-címe
+
+[^9]: Az 1. melléklet a 25/2025. (VII. 16.) BM rendelet 39. §-ával megállapított szöveg.
