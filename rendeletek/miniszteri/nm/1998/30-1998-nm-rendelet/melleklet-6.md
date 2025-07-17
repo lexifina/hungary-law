@@ -2,7 +2,7 @@
 
 Ivarsejt, illetve embrió tárolását kizáró körülmények
 
-1.[^27] Hímivarsejt adományozás céljára nem tárolható, ha a fagyasztás előtt az alábbi feltételek nem teljesülnek:
+1.[^28] Hímivarsejt adományozás céljára nem tárolható, ha a fagyasztás előtt az alábbi feltételek nem teljesülnek:
 
 |  | A | B |
 
@@ -38,7 +38,7 @@ Ivarsejt, illetve embrió tárolását kizáró körülmények
 
 2. Embrió nem tárolható, ha
 
-a)[^28]
+a)[^29]
 
 b) az embriók egyébként friss embriótranszferre alkalmatlanok,
 
@@ -46,8 +46,8 @@ c) az embriók a minősítési rendszer utolsó két kategóriájába tartoznak,
 
 d) a pár az embriók fagyasztva tárolását nem kéri.
 
-3.[^29] Női ivarsejt nem tárolható, ha szakorvosi javaslat alapján a leszívás eredménnyel nem járna.
+3.[^30] Női ivarsejt nem tárolható, ha szakorvosi javaslat alapján a leszívás eredménnyel nem járna.
 
-[^27]: A 6. számú melléklet 1. pontja a 44/2016. (XII. 28.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^28]: A 6. számú melléklet 2. pont a) alpontját a 44/2016. (XII. 28.) EMMI rendelet 15. §-a hatályon kívül helyezte.
-[^29]: A 6. számú melléklet 3. pontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.
+[^28]: A 6. számú melléklet 1. pontja a 44/2016. (XII. 28.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^29]: A 6. számú melléklet 2. pont a) alpontját a 44/2016. (XII. 28.) EMMI rendelet 15. §-a hatályon kívül helyezte.
+[^30]: A 6. számú melléklet 3. pontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.

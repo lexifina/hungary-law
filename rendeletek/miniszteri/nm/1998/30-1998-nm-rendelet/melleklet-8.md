@@ -66,6 +66,6 @@
 
 ## ** Kitöltése nem kötelező, amennyiben a más személy részére történő felhasználáshoz nem járul hozzá, kérjük a pontot jól láthatóan áthúzni.
 
-8. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^31]
+8. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^32]
 
-[^31]: A 8. számú melléklet a 32/2006. (VIII. 23.) EüM rendelet 4. §-ával megállapított, a 70/2023. (XII. 23.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^32]: A 8. számú melléklet a 32/2006. (VIII. 23.) EüM rendelet 4. §-ával megállapított, a 70/2023. (XII. 23.) BM rendelet 9. § b) pontja szerint módosított szöveg.

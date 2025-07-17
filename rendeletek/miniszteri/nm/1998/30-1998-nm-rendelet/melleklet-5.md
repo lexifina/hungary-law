@@ -42,8 +42,11 @@
 
 ## 1.6. IVF-ICSI kezelések azon eseteiben, amikor a beavatkozások során a leszívott petesejtek számánál kevesebb számú spermium áll rendelkezésre.
 
+## 1.7.[^26] szociális javallat esetén – olyan személy esetében, akinél feltételezhető, hogy a későbbiekben jelentősen csökken majd a petesejt megtermékenyülési képessége.
+
 ## 2. Adományozás céljára történő női ivarsejt fagyasztás: a donor női ivarsejt felhasználásának javallatai szerint.
 
-5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^26]
+5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^27]
 
-[^26]: Az 5. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 17. §-a hatályon kívül helyezte.
+[^26]: A 4. számú melléklet „A női ivarsejtek fagyasztva tárolásának javallatai” megjelölésű rész 1. pont 1.7. alpontját a 25/2025. (VII. 16.) BM rendelet 16. §-a iktatta be.
+[^27]: Az 5. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 17. §-a hatályon kívül helyezte.

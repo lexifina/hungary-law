@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-30-20-3
 | 2017-01-05 | 1998-30-20-3D.13 | 44/2016. (XII. 28.) EMMI rendelet |
 | 2023-11-01 | 1998-30-20-3D.14 | 34/2023. (VIII. 24.) BM rendelet |
 | 2024-01-01 | 1998-30-20-3D.15 | 70/2023. (XII. 23.) BM rendelet |
+| 2025-07-17 | 1998-30-20-3D.16 | 25/2025. (VII. 16.) BM rendelet |
