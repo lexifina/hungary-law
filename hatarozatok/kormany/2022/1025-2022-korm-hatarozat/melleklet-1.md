@@ -210,41 +210,53 @@
 
 ## 30.[^25] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a NAV megvalósítása érdekében 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű 142 000 000 forint összegben kötelezettséget vállaljon a 2023. évi Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím terhére;
 
-## 31.[^26] felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter bevonásával az 1. melléklet 2. pontjában foglalt táblázat 16. sorában meghatározott projektelem megvalósítása érdekében a 2025. évben gondoskodjon 50 030 000 forint biztosításáról a Kvtv2025. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 39. Térségi fejlesztési feladatok alcím javára;
+## 31.[^26] felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter bevonásával, az 1. melléklet 2. pontjában foglalt táblázat 16. sorában meghatározott projektelemek megvalósítása érdekében a 2025. évben gondoskodjon 201 209 378 forint biztosításáról a Kvtv2025. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 39. Térségi fejlesztési feladatok alcím javára;
 
 | Felelős: | nemzetgazdasági miniszter energiaügyi miniszter |
 
 | Határidő: | a felmerülés ütemében |
 
-## 32.[^27] felhívja a nemzetgazdasági minisztert és az energiaügyi minisztert, hogy az 1. melléklet 2. pontjában foglalt táblázat 16. sorában meghatározott projektelem megvalósítása érdekében a 2026. évben gondoskodjanak 3 527 115 000 forint rendelkezésre állásáról a 2026. évi központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára;
+## 31a.[^27] egyetért azzal, hogy az 1. melléklet 2. pontjában foglalt táblázat 16. sorában meghatározott projektelem megvalósítása érdekében a Kvtv2025. 1. melléklet XVII. Energiaügyi Minisztérium fejezetben a 31. pont alapján biztosított 50 030 000 forinton felül a 2025. évben szükséges kifizetésekről elsődlegesen az általa irányított költségvetési fejezetek meglévő forrásai terhére gondoskodjon;
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | a 2025. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+
+## 32.[^28] felhívja a nemzetgazdasági minisztert és az energiaügyi minisztert, hogy az 1. melléklet 2. pontjában foglalt táblázat 16. sorában meghatározott projektelem megvalósítása érdekében a 2026. évben gondoskodjanak 3 527 115 000 forint rendelkezésre állásáról a 2026. évi központi költségvetés XVII. Energiaügyi Minisztérium fejezet, Térségi fejlesztési feladatokat finanszírozó előirányzat javára;
 
 | Felelős: | nemzetgazdasági miniszter energiaügyi miniszter |
 
 | Határidő: | a 2026. évi központi költségvetés tervezése során |
 
-## 33.[^28] felhívja az energiaügyi minisztert, hogy a 31. pont szerinti forrásbiztosítást követően a fejlesztés teljes időtartamára és a támogatás teljes összegére vonatkozóan gondoskodjon támogatási jogviszony létrehozásáról az Országos Vízügyi Főigazgatósággal;
+## 33.[^29] felhívja az energiaügyi minisztert, hogy a 31. pont szerinti forrás biztosítását követően a fejlesztés teljes időtartamára és 3 575 000 000 forint összegre vonatkozóan gondoskodjon támogatási jogviszony létrehozásáról az Országos Vízügyi Főigazgatósággal;
 
 | Felelős: | energiaügyi miniszter |
 
-| Határidő: | a forrásbiztosítást követő kilencven napon belül |
+| Határidő: | azonnal |
 
-## 34.[^29] hozzájárul ahhoz, hogy a Beruházás megvalósításához a szükséges közbeszerzési eljárások lefolytatásra kerüljenek;
+## 33a.[^30] felhívja az energiaügyi minisztert, hogy a 31. pont szerinti forrás biztosítását követően a fejlesztés teljes időtartamára és 151 088 725 forint összegre vonatkozóan gondoskodjon támogatási jogviszony létrehozásáról a Tiszántúli Vízügyi Igazgatósággal;
 
-## 35.[^30] felhívja az építési és közlekedési minisztert és az energiaügyi minisztert, hogy gondoskodjanak arról, hogy a Beruházás előkészítése és megvalósítása az Európai Unió által meghatározott elszámolhatósági feltételeknek megfelelően történjen meg;
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | azonnal |
+
+## 34.[^31] hozzájárul ahhoz, hogy a Beruházás megvalósításához a szükséges közbeszerzési eljárások lefolytatásra kerüljenek;
+
+## 35.[^32] felhívja az építési és közlekedési minisztert és az energiaügyi minisztert, hogy gondoskodjanak arról, hogy a Beruházás előkészítése és megvalósítása az Európai Unió által meghatározott elszámolhatósági feltételeknek megfelelően történjen meg;
 
 | Felelős: | építési és közlekedési miniszter energiaügyi miniszter |
 
 | Határidő: | folyamatos |
 
-## 36.[^31] felhívja közigazgatási és a területfejlesztési minisztert, hogy a 2021–2027 közötti programozási időszak operatív programjaiban és a Helyreállítási és Ellenállóképességi Eszköz keretében Magyarország számára elérhető európai uniós források tervezése és felhasználása során vegye figyelembe az e határozat szerinti Beruházást a feltüntetett forrásigénnyel, ha annak bármelyik projekteleme megfelel az Európai Unió által meghatározott elszámolhatósági feltételeknek;
+## 36.[^33] felhívja közigazgatási és a területfejlesztési minisztert, hogy a 2021–2027 közötti programozási időszak operatív programjaiban és a Helyreállítási és Ellenállóképességi Eszköz keretében Magyarország számára elérhető európai uniós források tervezése és felhasználása során vegye figyelembe az e határozat szerinti Beruházást a feltüntetett forrásigénnyel, ha annak bármelyik projekteleme megfelel az Európai Unió által meghatározott elszámolhatósági feltételeknek;
 
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
 | Határidő: | folyamatos |
 
-## 37.[^32] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – a DGÖKÖZÚT-2/B, DGÖKÖZÚT-3/B, DGÖKÖZÚT-4/B, DGÖKÖZMŰ-3/B, DGÖKÖZMŰ-4/B, DGÖKÖZMŰ-5/B, DGÖKÖZÚT-7/B, DGÖKÖZMŰ-7, OVFKÖZMŰ, DGÖKÖZMŰ-8, DLKT és DGÖVASÚT-1 projektelemeket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti az Ábtv. alkalmazása alól.
+## 37.[^34] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – a DGÖKÖZÚT-2/B, DGÖKÖZÚT-3/B, DGÖKÖZÚT-4/B, DGÖKÖZMŰ-3/B, DGÖKÖZMŰ-4/B, DGÖKÖZMŰ-5/B, DGÖKÖZÚT-7/B, DGÖKÖZMŰ-7, OVFKÖZMŰ, DGÖKÖZMŰ-8, DLKT és DGÖVASÚT-1 projektelemeket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti az Ábtv. alkalmazása alól.
 
-1. melléklet az 1025/2022. (I. 27.) Korm. határozathoz[^33]
+1. melléklet az 1025/2022. (I. 27.) Korm. határozathoz[^35]
 
 A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikatív projektlistája
 
@@ -256,33 +268,33 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 
 | 2. | DGÖKÖZÚT-1 | Debrecen Megyei Jogú Város Önkormányzata | 2022 | A debreceni Déli Gazdasági Övezet (a továbbiakban: DGÖ) északkeleti rész feltáró utak |
 
-| 3.[^34] | DGÖKÖZÚT-2/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | KKV Park I. ütem feltáró út (előkészítés) |
+| 3.[^36] | DGÖKÖZÚT-2/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | KKV Park I. ütem feltáró út (előkészítés) |
 
-| 4.[^35] | DGÖKÖZÚT-2/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2025 | KKV Park I. ütem feltáró út (megvalósítás) |
+| 4.[^37] | DGÖKÖZÚT-2/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2025 | KKV Park I. ütem feltáró út (megvalósítás) |
 
-| 5.[^36] | DGÖKÖZÚT-3/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | DGÖ keleti rész feltáró utak, KKV Park 2. ütem feltáró út (előkészítés) |
+| 5.[^38] | DGÖKÖZÚT-3/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | DGÖ keleti rész feltáró utak, KKV Park 2. ütem feltáró út (előkészítés) |
 
-| 6.[^37] | DGÖKÖZÚT-3/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | DGÖ keleti rész feltáró utak, KKV Park 2. ütem feltáró út (megvalósítás) |
+| 6.[^39] | DGÖKÖZÚT-3/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | DGÖ keleti rész feltáró utak, KKV Park 2. ütem feltáró út (megvalósítás) |
 
-| 7.[^38] | DGÖKÖZÚT-4/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | DGÖ északnyugati rész feltáró utak, KKV Park 3. ütem feltáró út (előkészítés) |
+| 7.[^40] | DGÖKÖZÚT-4/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | DGÖ északnyugati rész feltáró utak, KKV Park 3. ütem feltáró út (előkészítés) |
 
-| 8.[^39] | DGÖKÖZÚT-4/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | DGÖ északnyugati rész feltáró utak, KKV Park 3. ütem feltáró út (megvalósítás) |
+| 8.[^41] | DGÖKÖZÚT-4/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | DGÖ északnyugati rész feltáró utak, KKV Park 3. ütem feltáró út (megvalósítás) |
 
 | 9. | DGÖKÖZMŰ-1 | Debrecen Megyei Jogú Város Önkormányzata | 2022–2027 | Villamosenergia-ellátás |
 
-| 10.[^40] | DGÖKÖZMŰ-2 | Debrecen Megyei Jogú Város Önkormányzata | 2022–2027 | Gázellátás |
+| 10.[^42] | DGÖKÖZMŰ-2 | Debrecen Megyei Jogú Város Önkormányzata | 2022–2027 | Gázellátás |
 
-| 11.[^41] | DGÖKÖZMŰ-3/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | Vízellátás-kapacitásbővítés (előkészítés) |
+| 11.[^43] | DGÖKÖZMŰ-3/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | Vízellátás-kapacitásbővítés (előkészítés) |
 
-| 12.[^42] | DGÖKÖZMŰ-3/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Vízellátás-kapacitásbővítés (megvalósítás) |
+| 12.[^44] | DGÖKÖZMŰ-3/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Vízellátás-kapacitásbővítés (megvalósítás) |
 
-| 13.[^43] | DGÖKÖZMŰ-4/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | Szennyvízelvezetés-kapacitásbővítés (előkészítés) |
+| 13.[^45] | DGÖKÖZMŰ-4/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2025 | Szennyvízelvezetés-kapacitásbővítés (előkészítés) |
 
-| 14.[^44] | DGÖKÖZMŰ-4/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Szennyvízelvezetés-kapacitásbővítés (megvalósítás) |
+| 14.[^46] | DGÖKÖZMŰ-4/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Szennyvízelvezetés-kapacitásbővítés (megvalósítás) |
 
-| 15.[^45] | DGÖKÖZMŰ-5/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2026 | Csapadékvíz-elvezetés (előkészítés) |
+| 15.[^47] | DGÖKÖZMŰ-5/A | Debrecen Megyei Jogú Város Önkormányzata | 2022–2026 | Csapadékvíz-elvezetés (előkészítés) |
 
-| 16.[^46] | DGÖKÖZMŰ-5/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2027 | Csapadékvíz-elvezetés (megvalósítás) |
+| 16.[^48] | DGÖKÖZMŰ-5/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2027 | Csapadékvíz-elvezetés (megvalósítás) |
 
 2. táblázat
 
@@ -290,19 +302,19 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 
 | 1. | Projektelem | Megvalósító | Időszak (év) | Leírás |
 
-| 2.[^47] | DGÖKÖZÚT-7/A | Debrecen Megyei Jogú Város Önkormányzata | 2023–2025 | DGÖ DNY-i rész feltáró utak (előkészítés) |
+| 2.[^49] | DGÖKÖZÚT-7/A | Debrecen Megyei Jogú Város Önkormányzata | 2023–2025 | DGÖ DNY-i rész feltáró utak (előkészítés) |
 
-| 3.[^48] | DGÖKÖZÚT-7/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2027 | DGÖ DNY-i rész feltáró utak (megvalósítás) |
+| 3.[^50] | DGÖKÖZÚT-7/B | Debrecen Megyei Jogú Város Önkormányzata | 2023–2027 | DGÖ DNY-i rész feltáró utak (megvalósítás) |
 
-| 4.[^49] | DGÖKÖZMŰ-7 | Debrecen Megyei Jogú Város Önkormányzata | 2023–2027 | Napelemparkok fejlesztése |
+| 4.[^51] | DGÖKÖZMŰ-7 | Debrecen Megyei Jogú Város Önkormányzata | 2023–2027 | Napelemparkok fejlesztése |
 
-| 5.[^50] | DGÖKÖZMŰ-8 | Debrecen Megyei Jogú Város Önkormányzata | 2023–2025 | Környezetvédelmi monitoring rendszer |
+| 5.[^52] | DGÖKÖZMŰ-8 | Debrecen Megyei Jogú Város Önkormányzata | 2023–2025 | Környezetvédelmi monitoring rendszer |
 
-| 6.[^51] | DGÖERDŐ | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Városvédő fásítás |
+| 6.[^53] | DGÖERDŐ | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Városvédő fásítás |
 
-| 7.[^52] | DLKT | Debreceni Ingatlanfejlesztő Kft. | 2023–2026 | Logisztikai és kamionterminál |
+| 7.[^54] | DLKT | Debreceni Ingatlanfejlesztő Kft. | 2023–2026 | Logisztikai és kamionterminál |
 
-| 8.[^53] | NAV | Építési és Közlekedési Minisztérium, együttműködésben a Debreceni Ingatlanfejlesztő Kft.-vel | 2023–2026 | NAV irodaház és vámudvar |
+| 8.[^55] | NAV | Építési és Közlekedési Minisztérium, együttműködésben a Debreceni Ingatlanfejlesztő Kft.-vel | 2023–2026 | NAV irodaház és vámudvar |
 
 | 9. | DGÖVASÚT-1 | Építési és Közlekedési Minisztérium | 2023–2027 | Vasúti infrastruktúra |
 
@@ -316,9 +328,9 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 
 | 14. | DGÖKÖZÚT-10 | Építési és Közlekedési Minisztérium | 2023–2025 | 47. sz. főút négynyomúsítása; Homokkerti felüljáró és kapcsolódó úthálózat kapacitásbővítése |
 
-| 15.[^54] | DGÖKÖZÚT-11 | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Debrecen DNY-i városrész elérésének javítása |
+| 15.[^56] | DGÖKÖZÚT-11 | Debrecen Megyei Jogú Város Önkormányzata | 2023–2026 | Debrecen DNY-i városrész elérésének javítása |
 
-| 16.[^55] | OVFKÖZMŰ | Országos Vízügyi Főigazgatóság | 2025–2026 | Napelemparkok fejlesztése |
+| 16.[^57] | OVFKÖZMŰ | Országos Vízügyi Főigazgatóság, együttműködésben a Tiszántúli Vízügyi Igazgatósággal[^58] | 2025–2026 | Napelemparkok fejlesztése |
 
 [^1]: Az 1. pont az 1305/2023. (VII. 19.) Korm. határozat 2. pontjával megállapított szöveg.
 [^2]: A 4/A. pontot az 1180/2022. (III. 23.) Korm. határozat 3. pontja iktatta be.
@@ -345,33 +357,36 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 [^23]: A 29. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1054/2025. (III. 11.) Korm. határozat 6. pontjával megállapított szöveg.
 [^24]: A 29a. pontot az 1268/2024. (IX. 10.) Korm. határozat 7. pontja iktatta be, szövege az 1054/2025. (III. 11.) Korm. határozat 6. pontjával megállapított szöveg.
 [^25]: A 30. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^26]: A 31. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^27]: A 32. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^28]: A 33. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^29]: A 34. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^30]: A 35. pont az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^31]: A 36. pont az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^32]: A 37. pont az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
-[^33]: Az 1. melléklet az 1305/2023. (VII. 19.) Korm. határozat 3. pontjával megállapított szöveg.
-[^34]: Az 1. melléklet 1. pontjában foglalt táblázat 3. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^35]: Az 1. melléklet 1. pontjában foglalt táblázat 4. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^36]: Az 1. melléklet 1. pontjában foglalt táblázat 5. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^37]: Az 1. melléklet 1. pontjában foglalt táblázat 6. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^38]: Az 1. melléklet 1. pontjában foglalt táblázat 7. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^39]: Az 1. melléklet 1. pontjában foglalt táblázat 8. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^40]: Az 1. melléklet 1. pontjában foglalt táblázat 10. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^41]: Az 1. melléklet 1. pontjában foglalt táblázat 11. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^42]: Az 1. melléklet 1. pontjában foglalt táblázat 12. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^43]: Az 1. melléklet 1. pontjában foglalt táblázat 13. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^44]: Az 1. melléklet 1. pontjában foglalt táblázat 14. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^45]: Az 1. melléklet 1. pontjában foglalt táblázat 15. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^46]: Az 1. melléklet 1. pontjában foglalt táblázat 16. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^47]: Az 1. melléklet 2. pontjában foglalt táblázat 2. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^48]: Az 1. melléklet 2. pontjában foglalt táblázat 3. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^49]: Az 1. melléklet 2. pontjában foglalt táblázat 4. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^50]: Az 1. melléklet 2. pontjában foglalt táblázat 5. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^51]: Az 1. melléklet 2. pontjában foglalt táblázat 6. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^52]: Az 1. melléklet 2. pontjában foglalt táblázat 7. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^53]: Az 1. melléklet 2. pontjában foglalt táblázat 8. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^54]: Az 1. melléklet 2. pontjában foglalt táblázat 15. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
-[^55]: Az 1. melléklet 2. pontjában foglalt táblázat 16. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^26]: A 31. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1257/2025. (VII. 17.) Korm. határozat 1. pontjával megállapított szöveg.
+[^27]: A 31a. pontot az 1257/2025. (VII. 17.) Korm. határozat 2. pontja iktatta be.
+[^28]: A 32. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
+[^29]: A 33. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1257/2025. (VII. 17.) Korm. határozat 3. pontjával megállapított szöveg.
+[^30]: A 33a. pontot az 1257/2025. (VII. 17.) Korm. határozat 4. pontja iktatta be.
+[^31]: A 34. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
+[^32]: A 35. pont az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
+[^33]: A 36. pont az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
+[^34]: A 37. pont az 1111/2025. (IV. 7.) Korm. határozat 5. pontjával megállapított szöveg.
+[^35]: Az 1. melléklet az 1305/2023. (VII. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^36]: Az 1. melléklet 1. pontjában foglalt táblázat 3. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^37]: Az 1. melléklet 1. pontjában foglalt táblázat 4. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^38]: Az 1. melléklet 1. pontjában foglalt táblázat 5. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^39]: Az 1. melléklet 1. pontjában foglalt táblázat 6. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^40]: Az 1. melléklet 1. pontjában foglalt táblázat 7. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^41]: Az 1. melléklet 1. pontjában foglalt táblázat 8. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^42]: Az 1. melléklet 1. pontjában foglalt táblázat 10. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^43]: Az 1. melléklet 1. pontjában foglalt táblázat 11. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^44]: Az 1. melléklet 1. pontjában foglalt táblázat 12. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^45]: Az 1. melléklet 1. pontjában foglalt táblázat 13. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^46]: Az 1. melléklet 1. pontjában foglalt táblázat 14. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^47]: Az 1. melléklet 1. pontjában foglalt táblázat 15. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^48]: Az 1. melléklet 1. pontjában foglalt táblázat 16. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^49]: Az 1. melléklet 2. pontjában foglalt táblázat 2. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^50]: Az 1. melléklet 2. pontjában foglalt táblázat 3. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^51]: Az 1. melléklet 2. pontjában foglalt táblázat 4. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^52]: Az 1. melléklet 2. pontjában foglalt táblázat 5. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^53]: Az 1. melléklet 2. pontjában foglalt táblázat 6. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^54]: Az 1. melléklet 2. pontjában foglalt táblázat 7. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^55]: Az 1. melléklet 2. pontjában foglalt táblázat 8. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^56]: Az 1. melléklet 2. pontjában foglalt táblázat 15. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^57]: Az 1. melléklet 2. pontjában foglalt táblázat 16. sora az 1111/2025. (IV. 7.) Korm. határozat 6. pontjával megállapított szöveg.
+[^58]: Az 1. melléklet 2. pontjában foglalt táblázat B:16 mezője az 1257/2025. (VII. 17.) Korm. határozat 5. pontja szerint módosított szöveg.
