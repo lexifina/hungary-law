@@ -28,5 +28,8 @@ k) vízhőmérséklet mérése: a végkifolyókon végzett hőmérsékletmérés
 
 l)[^2] közintézmény: az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 5/2023. (I. 12.) Korm. rendelet 2. § 32. pontja szerinti fogalom.
 
+m)[^3] sportközpont: olyan létesítmény, amelyet naponta átlagosan legalább 100 fő látogat sportolás céljából, és a látogatóknak lehetőségük van zuhanyzó igénybevételére.
+
 [^1]: A 2. § az 1/2023. (I. 12.) BM rendelet 4. §-ával megállapított szöveg.
 [^2]: A 2. § l) pontját a 63/2023. (XII. 21.) BM rendelet 1. §-a iktatta be.
+[^3]: A 2. § m) pontját a 25/2025. (VII. 16.) BM rendelet 40. §-a iktatta be.
