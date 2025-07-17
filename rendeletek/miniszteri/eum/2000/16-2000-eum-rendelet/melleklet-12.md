@@ -2,24 +2,20 @@
 
 A sugársérültek vagy arra gyanús személyek szakellátására kijelölt intézmények jegyzéke
 
-1.[^54] Észak-Pesti Centrum Kórház – Honvédkórház, Budapest
+1. Észak-Pesti Centrum Kórház – Honvédkórház, Budapest
 
-2. Borsod-Abaúj-Zemplén Megyei Önkormányzat Kórháza, Miskolc
+2. Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház, Miskolc
 
-3. Debreceni Egyetem, Orvos- és Egészségtudományi Centrum, Debrecen
+3. Debreceni Egyetem Klinikai Központ, Debrecen
 
-4.[^55]
+4. Országos Onkológiai Intézet, Budapest
 
-5. Országos Onkológiai Intézet, Budapest
+5. Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház, Győr
 
-6. Petz Aladár Megyei Kórház, Győr
+6. Pécsi Tudományegyetem Klinikai Központ, Pécs
 
-7. Pécsi Tudományegyetem, Orvos- és Egészségtudományi Centrum, Pécs
+7. Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Szeged
 
-8. Szegedi Tudományegyetem, Szent-Györgyi Albert Orvos- és Gyógyszerésztudományi Centrum, Szeged
+8. Tolna Vármegyei Balassa János Kórház, Szekszárd
 
-9. Tolna Megyei Önkormányzat Balassa János Kórháza, Szekszárd
-
-[^53]: A 12. számú melléklet a 64/2005. (XII. 22.) EüM rendelet 7. §-ával megállapított szöveg.
-[^54]: A 12. számú melléklet 1. pontja a 44/2009. (XII. 18.) EüM rendelet 11. § (7) bekezdésével megállapított, az 55/2022. (XII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
-[^55]: A 12. számú melléklet 4. pontját a 22/2018. (VII. 9.) EMMI rendelet 2. § b) pontja hatályon kívül helyezte.
+[^53]: A 12. számú melléklet a 25/2025. (VII. 16.) BM rendelet 19. §-ával megállapított szöveg.
