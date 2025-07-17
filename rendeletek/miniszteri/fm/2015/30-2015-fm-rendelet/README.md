@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-30-20-1
 | 2020-12-21 | 2015-30-20-11.4 | 63/2020. (XII. 16.) AM rendelet |
 | 2023-02-24 | 2015-30-20-11.5 | 9/2023. (II. 23.) AM rendelet |
 | 2025-06-17 | 2015-30-20-11.6 | 25/2025. (VI. 16.) AM rendelet |
+| 2025-07-17 | 2015-30-20-11.7 | 25/2025. (VI. 16.) AM rendelet |

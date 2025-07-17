@@ -6,16 +6,20 @@
 
 (3) A díj összege
 
-a) 1 földrészlet esetén 30 000 Ft,
+a)[^4] 1 földrészlet esetén 39 000 Ft,
 
-b) 2–5 földrészlet esetén az első földrészlet után fizetendő 30 000 Ft, és a további földrészletek után egyenként további 7000 Ft,
+b)[^5] 2–5 földrészlet esetén az első földrészlet után fizetendő 39 000 Ft, és a további földrészletek után egyenként további 9100 Ft,
 
-c) 6–25 földrészlet esetén az első 5 földrészlet után fizetendő 58 000 Ft, és a további földrészletek után egyenként további 2000 Ft,
+c)[^6] 6–25 földrészlet esetén az első 5 földrészlet után fizetendő 75 400 Ft, és a további földrészletek után egyenként további 2600 Ft,
 
-d) 26 vagy annál több földrészlet esetén az első 25 földrészlet után fizetendő 98 000 Ft, és a további földrészletek után egyenként további 1000 Ft.
+d)[^7] 26 vagy annál több földrészlet esetén az első 25 földrészlet után fizetendő 127 400 Ft, és a további földrészletek után egyenként további 1300 Ft.
 
-(4)[^4]
+(4)[^8]
 
 [^2]: Az. 1. alcím címet a 67/2017. (XII. 27.) FM rendelet 2. §-a iktatta be.
 [^3]: A 2. § (1) bekezdése a 63/2020. (XII. 16.) AM rendelet 8. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdését a 63/2020. (XII. 16.) AM rendelet 10. § 1. pontja hatályon kívül helyezte.
+[^4]: A 2. § (3) bekezdés a) pontja a 25/2025. (VI. 16.) AM rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdés b) pontja a 25/2025. (VI. 16.) AM rendelet 4. § (1) bekezdés a) és b) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdés c) pontja a 25/2025. (VI. 16.) AM rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdés d) pontja a 25/2025. (VI. 16.) AM rendelet 4. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdését a 63/2020. (XII. 16.) AM rendelet 10. § 1. pontja hatályon kívül helyezte.

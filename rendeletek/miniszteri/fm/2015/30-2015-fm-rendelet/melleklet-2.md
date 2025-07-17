@@ -42,7 +42,7 @@
 
 | 20. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-2. melléklet a 30/2015. (VI. 5.) FM rendelethez[^22]
+2. melléklet a 30/2015. (VI. 5.) FM rendelethez[^30]
 
 Győr-Moson-Sopron Vármegyei Kormányhivatal számlaszáma
 
@@ -52,4 +52,4 @@ Győr-Moson-Sopron Vármegyei Kormányhivatal számlaszáma
 
 | 1. | Győr-Moson-Sopron Vármegyei Kormányhivatal | 10033001-00299633-38100004 |
 
-[^22]: A 2. mellékletet a 25/2025. (VI. 16.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^30]: A 2. mellékletet a 25/2025. (VI. 16.) AM rendelet 3. § (2) bekezdése iktatta be.
