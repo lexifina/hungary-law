@@ -4,7 +4,7 @@
 
 (2) Védőnőt csak védőnő helyettesíthet.
 
-(3)[^1] A védőnő ellátási területe az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 6. § (1) bekezdésében foglaltak szerint megállapított védőnői körzetre terjed ki.
+(3)[^1] A védőnő ellátási területe az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény (a továbbiakban: Eatv.) 6. § (1) bekezdésében foglaltak szerint megállapított védőnői körzetre terjed ki.
 
 (4) A védőnő a 3. § szerinti feladatát az ellátási területén lakcímmel rendelkező személyekkel kapcsolatosan köteles ellátni. A lakcímmel rendelkezés megállapításánál a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. §-ának (2)–(4) bekezdésében foglaltak az irányadók.
 
@@ -14,7 +14,7 @@
 
 (7)[^4] A védőnő, a védőnői szolgáltatás nem választható. Ha a védőnői szolgáltatás igénybevétele során összeférhetetlenség áll fenn, a várandós nő, a gyermek törvényes képviselője, illetve a területi védőnő erre irányuló kérelme alapján a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a területi védőnő helyett másik védőnőt jelöl ki.
 
-[^1]: A 2. § (3) bekezdése a 28/2017. (X. 25.) EMMI rendelet 26. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (3) bekezdése a 28/2017. (X. 25.) EMMI rendelet 26. § a) pontja, a 25/2025. (VII. 16.) BM rendelet 29. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (5) bekezdése a 11/2014. (II. 24.) EMMI rendelet 38. §-ával megállapított szöveg.
 [^3]: A 2. § (6) bekezdését a 11/2014. (II. 24.) EMMI rendelet 41. §-a hatályon kívül helyezte, újonnan a 28/2017. (X. 25.) EMMI rendelet 22. §-a iktatta be.
 [^4]: A 2. § (7) bekezdését a 28/2017. (X. 25.) EMMI rendelet 22. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 33. § a) pontja szerint módosított szöveg.

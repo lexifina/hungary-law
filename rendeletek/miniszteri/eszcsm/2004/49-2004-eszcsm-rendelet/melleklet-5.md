@@ -2,7 +2,7 @@
 
 ## A tanácsadónak
 
-## a)[^36] a műszaki előírások, tárgyi feltételek, szakmai feladatok, valamint a munkavédelmi és higiénés követelmények figyelembevételével kialakított, a négyszemközti védőnő-gondozott találkozásra is alkalmat adó helyiséggel,
+## a)[^39] a műszaki előírások, tárgyi feltételek, szakmai feladatok, valamint a munkavédelmi és higiénés követelmények figyelembevételével kialakított, a négyszemközti védőnő-gondozott találkozásra is alkalmat adó helyiséggel,
 
 ## b) várószobával, gyermekkocsi tárolóval,
 
@@ -16,4 +16,4 @@
 
 5. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez
 
-[^36]: A 4. számú melléklet a) pontja a 36/2008. (IX. 23.) EüM rendelet 3. §-ával megállapított szöveg.
+[^39]: A 4. számú melléklet a) pontja a 36/2008. (IX. 23.) EüM rendelet 3. §-ával megállapított szöveg.

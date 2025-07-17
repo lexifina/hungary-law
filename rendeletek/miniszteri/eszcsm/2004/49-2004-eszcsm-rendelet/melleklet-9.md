@@ -42,7 +42,7 @@
 
 ## = a védőnői ellátás okát, időpontját, ellátás módját és a védőnő további intézkedését.
 
-9. számú melléklet a 49/2004. (V. 21.) ESzCsM rendelethez[^43]
+9. számú melléklet a 49/2004. (V. 21.) ESzCsM rendelethez[^46]
 
 A kollegiális védőnői mentorrendszer működése
 
@@ -140,4 +140,4 @@ h) Népegészségügyi feladatok:
 
 – in vitro fertilizációt végző központokkal kapcsolattartás.
 
-[^43]: A 9. mellékletet a 46/2021. (X. 29.) EMMI rendelet 4. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 33. §-a szerint módosított szöveg.
+[^46]: A 9. mellékletet a 46/2021. (X. 29.) EMMI rendelet 4. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 33. §-a szerint módosított szöveg.
