@@ -44,7 +44,7 @@
 
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-2. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^26]
+2. melléklet a 155/2009. (XI. 16.) FVM rendelethez[^28]
 
 Győr-Moson-Sopron Vármegyei Kormányhivatal számlaszáma
 
@@ -54,4 +54,4 @@ Győr-Moson-Sopron Vármegyei Kormányhivatal számlaszáma
 
 | 1. | Győr-Moson-Sopron Vármegyei Kormányhivatal | 10033001-00299633-38100004 |
 
-[^26]: A 2. mellékletet a 24/2025. (VI. 16.) AM rendelet 5. §-a iktatta be.
+[^28]: A 2. mellékletet a 24/2025. (VI. 16.) AM rendelet 5. §-a iktatta be.

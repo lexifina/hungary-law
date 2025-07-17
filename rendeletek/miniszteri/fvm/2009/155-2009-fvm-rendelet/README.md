@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-155-20-
 | 2020-12-21 | 2009-155-20-82.8 | 63/2020. (XII. 16.) AM rendelet |
 | 2023-02-16 | 2009-155-20-82.9 | 29/2015. (VI. 5.) FM rendelet |
 | 2025-06-17 | 2009-155-20-82.10 | 24/2025. (VI. 16.) AM rendelet |
+| 2025-07-17 | 2009-155-20-82.11 | 24/2025. (VI. 16.) AM rendelet |

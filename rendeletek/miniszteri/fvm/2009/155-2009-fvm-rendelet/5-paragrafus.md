@@ -1,3 +1,3 @@
-5. §[^9]
+5. §[^10]
 
-[^9]: Az 5. §-t a 24/2025. (VI. 16.) AM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^10]: Az 5. §-t a 24/2025. (VI. 16.) AM rendelet 7. § a) pontja hatályon kívül helyezte.

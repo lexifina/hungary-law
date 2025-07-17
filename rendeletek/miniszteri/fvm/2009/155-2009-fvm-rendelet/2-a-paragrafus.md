@@ -1,4 +1,4 @@
-2/A. §[^2] (1) Az elektronikus ingatlan-nyilvántartási rendszerből történő adatszolgáltatás díjbevételeire – a 2. § (2) bekezdésében foglaltaktól eltérően – a (2)–(5) bekezdés rendelkezései alkalmazandók.
+2/A. §[^3] (1) Az elektronikus ingatlan-nyilvántartási rendszerből történő adatszolgáltatás díjbevételeire – a 2. § (2) bekezdésében foglaltaktól eltérően – a (2)–(5) bekezdés rendelkezései alkalmazandók.
 
 (2) A földhasználati lap teljes másolata iránti kérelemnek a fővárosi vagy vármegyei kormányhivatalnál (a továbbiakban együtt: kormányhivatal) történő személyes benyújtása esetén a 2. § (1) bekezdése szerinti díj
 
@@ -28,4 +28,4 @@ b) 10%-a a földmérési és térinformatikai államigazgatási szerv
 
 bevételét képezi.
 
-[^2]: A 2/A. §-t a 24/2025. (VI. 16.) AM rendelet 1. §-a iktatta be.
+[^3]: A 2/A. §-t a 24/2025. (VI. 16.) AM rendelet 1. §-a iktatta be.
