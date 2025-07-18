@@ -1,1 +1,3 @@
-6. § A KIFÜ helyébe jogutódként 2025. január 1-jétől az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.) lép a „HulladékRadar applikáció és háttéradatbázis továbbfejlesztésével, a rendszer interfészeinek kialakításával, működtetésével, adatfeldolgozás automatizálási feladatainak kialakításával összefüggő feladatok elvégzése (HulladékRadar)” projekt tekintetében.
+6. §[^5]
+
+[^5]: A 6. §-t a 205/2025. (VII. 17.) Korm. rendelet 4. §-a hatályon kívül helyezte.
