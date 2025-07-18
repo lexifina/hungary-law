@@ -1,0 +1,7 @@
+## [1] E rendelet célja, hogy az informatikai feladatokat ellátó állami tulajdonú gazdasági társaságok közötti szinergiák hatékonyabb kihasználása érdekében a HulladékRadar applikáció és háttéradatbázis továbbfejlesztésével, a rendszer interfészeinek kialakításával, működtetésével, valamint az adatfeldolgozás automatizálásával összefüggő feladatokat a jövőben a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság lássa el.
+
+## [2] Miután a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság a téradatokat tartalmazó adatbázisainak, nyilvántartásainak üzemeltetéséhez, fejlesztéséhez kapcsolódó feladatai szoros összefüggést mutatnak a HulladékRadarral kapcsolatos feladatokkal, így a feladatok átadása a feladatoptimalizálást is szolgálja.
+
+## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.) a „HulladékRadar applikáció és háttéradatbázis továbbfejlesztésével, a rendszer interfészeinek kialakításával, működtetésével, adatfeldolgozás automatizálási feladatainak kialakításával összefüggő feladatok elvégzése (HulladékRadar)” elnevezésű projekttel kapcsolatos valamennyi feladatát (a továbbiakban együtt: Feladatok) 2025. szeptember 1. napjával a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Átvevő) részére átadja.
