@@ -6,6 +6,6 @@
 
 ## [4] A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 104. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 6. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
