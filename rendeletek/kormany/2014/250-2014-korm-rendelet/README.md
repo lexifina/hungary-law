@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-250-20-
 | 2024-01-01 | 2014-250-20-22.23 | 83/2023. (III. 16.) Korm. rendelet |
 | 2024-08-01 | 2014-250-20-22.27 | 384/2020. (VIII. 7.) Korm. rendelet |
 | 2025-01-01 | 2014-250-20-22.28 | 410/2024. (XII. 20.) Korm. rendelet |
+| 2025-07-18 | 2014-250-20-22.29 | 206/2025. (VII. 17.) Korm. rendelet |
