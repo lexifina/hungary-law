@@ -19,3 +19,7 @@ e) olyan magatartást tanúsított, amely az ösztöndíjas jogviszonyhoz mélta
 (5) Az ösztöndíjas jogviszony megszűnése esetén – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerint – a miniszter a támogatási szerződést felmondja.
 
 (6) A megüresedett ösztöndíjas helyre pályázat nem írható ki.
+
+(7)[^8] Az ösztöndíjjal kapcsolatos feladatok ellátása az államháztartásról szóló 2011. évi CXCV. törvény 49. §-a szerinti lebonyolító szerv bevonásával történik.
+
+[^8]: A 4. § (7) bekezdését a 26/2025. (VII. 17.) BM rendelet 6. §-a iktatta be.
