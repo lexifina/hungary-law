@@ -16,11 +16,13 @@ c) legalább tíz gyermeknek igénybe kell vennie rendszeresen olyan település
 
 (3a)[^2] A (3) bekezdésben foglaltak meghatározásához a település személyi adat- és lakcímnyilvántartás szerinti január 1-jei adatait kell figyelembe venni.
 
-(4)[^3] A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek legalább felének
+(4)[^3] A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek legalább felének meg kell felelnie az alábbi feltételek valamelyikének:
 
-a) rendszeres gyermekvédelmi kedvezményben részesülő gyermeknek kell lennie, vagy
+a) rendszeres gyermekvédelmi kedvezményben részesülő gyermek,
 
-b) a településre vonatkozó integrált településfejlesztési stratégiában szegregált vagy szegregációval veszélyeztetett területnek nyilvánított lakókörnyezetben kell élnie.
+b) a településre vonatkozó integrált településfejlesztési stratégiában szegregált vagy szegregációval veszélyeztetett területnek nyilvánított lakókörnyezetben él,
+
+c) a településrész jellege szerint külterületi lakott helyen él.
 
 (4a)[^4] A (4) bekezdésben foglalt feltételek fennállását a szolgáltatás igénybevételének megkezdésekor kell vizsgálni, és azokat az igénybe vevő gyermek tekintetében a szolgáltatás igénybevételének teljes időtartama alatt folyamatosan fennállónak kell tekinteni.
 
@@ -28,5 +30,5 @@ b) a településre vonatkozó integrált településfejlesztési stratégiában 
 
 [^1]: A 3. § (1) bekezdése a 3/2021. (II. 5.) BM rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: A 3. § (3a) bekezdését a 3/2021. (II. 5.) BM rendelet 1. §-a iktatta be.
-[^3]: A 3. § (4) bekezdése a 80/2022. (XII. 30.) BM rendelet 48. §-ával megállapított szöveg.
+[^3]: A 3. § (4) bekezdése a 26/2025. (VII. 17.) BM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (4a) bekezdését a 27/2023. (VIII. 3.) BM rendelet 17. §-a iktatta be.

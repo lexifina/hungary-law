@@ -10,6 +10,6 @@ c) adott gyermek ügyében egyeztetést folytat a Biztos Kezdet Gyerekház szolg
 
 d) évente legalább egyszer tájékoztatást nyújt a család- és gyermekjóléti szolgáltatónak a Biztos Kezdet Gyerekház működésének tapasztalatairól, szolgáltatásaiban és az igénybevétel módjában bekövetkező változásokról.
 
-(3)[^8] A Biztos Kezdet Gyerekház együttműködik a Társadalmi Esélyteremtési Főigazgatóság által működtetett, a Biztos Kezdet Gyerekházak módszertani támogatását biztosító mentori hálózattal.
+(3)[^8] A Biztos Kezdet Gyerekház együttműködik a Társadalmi Esélyteremtési Főigazgatóság által működtetett, a Biztos Kezdet Gyerekházak módszertani támogatását biztosító tanácsadói hálózattal.
 
-[^8]: Az 5. § (3) bekezdése a 3/2021. (II. 5.) BM rendelet 6. § c) pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 3/2021. (II. 5.) BM rendelet 6. § c) pontja, a 26/2025. (VII. 17.) BM rendelet 4. § a) pontja szerint módosított szöveg.
