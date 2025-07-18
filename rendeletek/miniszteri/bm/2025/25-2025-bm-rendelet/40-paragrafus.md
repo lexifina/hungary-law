@@ -1,5 +1,5 @@
 ## 17. A Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló 49/2015. (XI. 6.) EMMI rendelet módosítása
 
-40. § A Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló 49/2015. (XI. 6.) EMMI rendelet 2. §-a a következő m) ponttal egészül ki:
+40. §[^30]
 
-(E rendelet alkalmazásában)
+[^30]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

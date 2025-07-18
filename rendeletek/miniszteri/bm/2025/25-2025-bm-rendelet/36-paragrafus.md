@@ -1,5 +1,3 @@
-36. § Hatályát veszti az 51/2013. (VII. 15.) EMMI rendelet
+36. §[^26]
 
-a) 4. § (4) bekezdése,
-
-b) 5. §-a.
+[^26]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

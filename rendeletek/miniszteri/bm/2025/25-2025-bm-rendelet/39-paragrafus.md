@@ -1,1 +1,3 @@
-39. § A 21/2014. (III. 20.) EMMI rendelet 1. melléklete helyébe a 6. melléklet lép.
+39. §[^29]
+
+[^29]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

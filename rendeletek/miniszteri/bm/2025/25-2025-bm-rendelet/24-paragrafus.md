@@ -1,1 +1,3 @@
-24. § A 47/2004. (V. 11.) ESZCSM rendelet 15. § (8a) bekezdésében a „hétköznap” szövegrész helyébe a „munkanapon” szöveg, a „hétvégén és ünnepnapokon” szövegrész helyébe a „hétvégén és munkaszüneti napon” szöveg, a „legfeljebb 2 alkalommal” szövegrész helyébe a „2 alkalommal” szöveg lép.
+24. §[^14]
+
+[^14]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

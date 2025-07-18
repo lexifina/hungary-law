@@ -1,5 +1,3 @@
-## „2.3.14c. vas-hidroxid-adipát-tartrát (nano)
+4. melléklet a 25/2025. (VII. 16.) BM rendelethez[^39]
 
-## 2.3.14d. vas-tejkazeinát”
-
-4. melléklet a 25/2025. (VII. 16.) BM rendelethez
+[^39]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

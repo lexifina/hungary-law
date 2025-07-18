@@ -1,5 +1,5 @@
 ## 14. A szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok magyarországi tartózkodásával összefüggő közegészséget veszélyeztető betegségekről szóló 32/2007. (VI. 27.) EüM rendelet módosítása
 
-33. § A szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok magyarországi tartózkodásával összefüggő közegészséget veszélyeztető betegségekről szóló 32/2007. (VI. 27.) EüM rendelet [a továbbiakban: 32/2007. (VI. 27.) EüM rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+33. §[^23]
 
-„(1) E rendelet 1. melléklete határozza meg azokat a közegészséget veszélyeztető betegségeket és a kórokozó hordozó állapotokat, amelyeket a szabad mozgás és tartózkodás jogával rendelkező személy közegészségügyi okból történő kiutasítására történő javaslattétel során, valamint a harmadik országbeli állampolgár magyarországi beutazásának és tartózkodásának engedélyezése, illetve közegészségügyi okból történő kiutasítására történő javaslattétel során figyelembe kell venni.”
+[^23]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

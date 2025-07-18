@@ -1,9 +1,10 @@
 29. § A 49/2004. (V. 21.) ESZCSM rendelet
 
-a) 2. § (3) bekezdésében a „2015. évi CXXIII. törvény” szövegrész helyébe a „2015. évi CXXIII. törvény (a továbbiakban: Eatv.)" szöveg,
+a)[^19]
 
-b)[^4]
+b)[^20]
 
 lép.
 
-[^4]: A 29. § b) pontja a 44. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^19]: A 29. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 29. § b) pontja a 44. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

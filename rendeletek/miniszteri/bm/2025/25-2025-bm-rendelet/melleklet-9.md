@@ -1,3 +1,3 @@
-9. melléklet a 25/2025. (VII. 16.) BM rendelethez[^14]
+9. melléklet a 25/2025. (VII. 16.) BM rendelethez[^44]
 
-[^14]: A 9. melléklet a 44. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^44]: A 9. melléklet a 44. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.

@@ -1,3 +1,5 @@
 ## 15. Az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről szóló 51/2013. (VII. 15.) EMMI rendelet módosítása
 
-35. § Az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről szóló 51/2013. (VII. 15.) EMMI rendelet [a továbbiakban: 51/2013. (VII. 15.) EMMI rendelet] 6. § (3) bekezdésében a „kockázatértékelést és a 4. § (4) bekezdése szerinti bejelentést” szövegrész helyébe a „kockázatértékelést” szöveg, a „készíti el, illetve teszi meg” szövegrész helyébe a „készíti el” szöveg lép.
+35. §[^25]
+
+[^25]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-23. § A 47/2004. (V. 11.) ESZCSM rendelet a 4. melléklet szerinti 3. melléklettel egészül ki.
+23. §[^13]
+
+[^13]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

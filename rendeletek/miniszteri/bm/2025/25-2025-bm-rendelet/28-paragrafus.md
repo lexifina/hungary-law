@@ -1,1 +1,3 @@
-28. § A 49/2004. (V. 21.) ESZCSM rendelet 7. számú melléklete helyébe az 5. melléklet lép.
+28. §[^18]
+
+[^18]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-34. § A 32/2007. (VI. 27.) EüM rendelet 1. § (2) bekezdésében az „a Menekültügyi és Bevándorlási Hivatalnak” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóságnak” szöveg lép.
+34. §[^24]
+
+[^24]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
