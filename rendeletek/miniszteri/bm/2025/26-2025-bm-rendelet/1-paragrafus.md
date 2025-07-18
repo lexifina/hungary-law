@@ -1,0 +1,19 @@
+## [1] E rendelet célja, hogy elősegítse a társadalmi felzárkózást a Biztos Kezdet Gyerekház és a tanoda szolgáltatást rendszeresen igénybe vevő gyermekekre vonatkozó feltételek kiegészítésével és pontosításával, valamint a nehéz helyzetben lévő fiatalok továbbtanulásra ösztönzésével.
+
+## [2] A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (7) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 24. pontjában meghatározott feladatkörömben eljárva,
+
+## a 2. alcím tekintetében a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 156. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (2) bekezdés d) pontjában meghatározott feladatkörömben eljárva
+
+## a következőket rendelem el:
+
+## 1. A gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló 40/2018. (XII. 4.) EMMI rendelet módosítása
+
+1. § A gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló 40/2018. (XII. 4.) EMMI rendelet (a továbbiakban: Rendelet1) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek legalább felének meg kell felelnie az alábbi feltételek valamelyikének:
+
+a) rendszeres gyermekvédelmi kedvezményben részesülő gyermek,
+
+b) a településre vonatkozó integrált településfejlesztési stratégiában szegregált vagy szegregációval veszélyeztetett területnek nyilvánított lakókörnyezetben él,
+
+c) a településrész jellege szerint külterületi lakott helyen él.”
