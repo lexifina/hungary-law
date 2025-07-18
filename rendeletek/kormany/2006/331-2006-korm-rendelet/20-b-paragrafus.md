@@ -1,8 +1,8 @@
-## 20/A. §[^108] A gyámhatóság a Gyvt. 140. § (1) bekezdés a) pontja szerinti nyilvántartás adatai alapján az ellátás jogosultjának tekintetében, kérelmére, hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatal útján.
+## 20/A. §[^109] A gyámhatóság a Gyvt. 140. § (1) bekezdés a) pontja szerinti nyilvántartás adatai alapján az ellátás jogosultjának tekintetében, kérelmére, hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatal útján.
 
 ## A GYÁMHATÓSÁG ILLETÉKESSÉGÉRE VONATKOZÓ SZABÁLYOK
 
-## Miniszteri átfogó vizsgálat a gyermekvédelmi szakellátási intézményben és a javítóintézetben[^109]
+## Miniszteri átfogó vizsgálat a gyermekvédelmi szakellátási intézményben és a javítóintézetben[^110]
 
 20/B. § (1) A gyermekek és az ifjúság védelméért felelős miniszter a Gyvt. 101. § (2a) bekezdése szerinti átfogó vizsgálat során az intézmény vonatkozásában
 
@@ -66,5 +66,5 @@ a) ellátott gyermek gyermekvédelmi gyámjának vagy szülőjének,
 
 b) utógondozói ellátást igénybe vevő fiatal felnőttnek.
 
-[^108]: A 20/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 181. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^109]: A „Miniszteri átfogó vizsgálat a gyermekvédelmi szakellátási intézményben és a javítóintézetben” alcímet (20/B–20/C. §-t) a 194/2024. (VII. 8.) Korm. rendelet 28. §-a iktatta be.
+[^109]: A 20/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 181. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^110]: A „Miniszteri átfogó vizsgálat a gyermekvédelmi szakellátási intézményben és a javítóintézetben” alcímet (20/B–20/C. §-t) a 194/2024. (VII. 8.) Korm. rendelet 28. §-a iktatta be.

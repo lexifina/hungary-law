@@ -1,0 +1,4 @@
+27/C. §[^170] E rendeletnek a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet, továbbá a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet módosításáról szóló 204/2025. (VII. 17.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 4. § u) pontját, 22. § (4) bekezdését, valamint módosított 9. § a) pontját a Módr2. hatálybalépésekor[^171] folyamatban lévő ügyekben is alkalmazni kell, azzal, hogy nem kell a kapcsolattartás korlátozásáról vagy megszüntetéséről dönteni, ha a gyermek krízisközpontban vagy titkos menedékházban történt elhelyezését követően arra már sor került.
+
+[^170]: A 27/C. §-t a 204/2025. (VII. 17.) Korm. rendelet 12. §-a iktatta be.
+[^171]: A hatálybalépés időpontja 2025. július 18.

@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2024-07-09 | 2006-331-20-22.49 | 194/2024. (VII. 8.) Korm. rendelet |
 | 2025-01-24 | 2006-331-20-22.50 | 1/2025. (I. 23.) Korm. rendelet |
 | 2025-07-01 | 2006-331-20-22.51 | 179/2025. (VI. 30.) Korm. rendelet |
+| 2025-07-18 | 2006-331-20-22.52 | 204/2025. (VII. 17.) Korm. rendelet |

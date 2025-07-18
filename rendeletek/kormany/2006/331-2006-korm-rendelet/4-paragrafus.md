@@ -48,6 +48,8 @@ s)[^40] a büntetés-végrehajtási intézet megkeresésére az elítélt kiskor
 
 t)[^41] dönt a születendő gyermek haza nem adhatóságának megállapításáról,
 
+u)[^42] a gyermek krízisközpontban vagy titkos menedékházban történő elhelyezése esetén értesíti a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 17/A. § (2) bekezdés a) pontja szerinti szülőt, illetve a kapcsolattartásra jogosult más személyt az elhelyezés tényéről.
+
 [^22]: A 4. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^23]: A 4. § nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^24]: A 4. § a) pontja a 97/2013. (III. 29.) Korm. rendelet 68. § (1) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 101. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 26. § a) pontja, a 31/2020. (II. 29.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
@@ -68,3 +70,4 @@ t)[^41] dönt a születendő gyermek haza nem adhatóságának megállapításá
 [^39]: A 4. § r) pontját a 257/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be, szövege a a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
 [^40]: A 4. § s) pontját a 10/2021. (I. 20.) Korm. rendelet 11. §-a iktatta be.
 [^41]: A 4. § t) pontját a 179/2025. (VI. 30.) Korm. rendelet 22. §-a iktatta be.
+[^42]: A 4. § u) pontját a 204/2025. (VII. 17.) Korm. rendelet 9. §-a iktatta be.
