@@ -4,15 +4,17 @@
 
 9. § (1)[^36] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a család- és gyermekjóléti szolgálatot és a települési önkormányzat jegyzőjét.
 
-(2)[^37] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
+(1a)[^37] Nem kell környezettanulmányt beszerezni, ha a gyermek vagy a gondnokság alatt álló személy krízisközpontban vagy titkos menedékházban került elhelyezésre.
 
-a)[^38] az örökbefogadhatónak nyilvánításra irányuló eljárás során a család- és gyermekjóléti szolgálatot,
+(2)[^38] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
+
+a)[^39] az örökbefogadhatónak nyilvánításra irányuló eljárás során a család- és gyermekjóléti szolgálatot,
 
 b) az örökbefogadás előtti eljárás és az örökbefogadás engedélyezése iránti eljárás során a gyermekvédelmi szakszolgálatot
 
 kérheti fel.
 
-(3)[^39] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv az Ákr.-ben foglaltakon kívül tartalmazza
+(3)[^40] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv az Ákr.-ben foglaltakon kívül tartalmazza
 
 a) a gyermek
 
@@ -38,6 +40,7 @@ be) ügyének szempontjából lényeges megállapításokat.
 
 [^35]: A 8/D. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 40. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^36]: A 9. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
-[^37]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^38]: A 9. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
-[^39]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^37]: A 9. § (1a) bekezdését a 204/2025. (VII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^39]: A 9. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^40]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 41. § 4. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

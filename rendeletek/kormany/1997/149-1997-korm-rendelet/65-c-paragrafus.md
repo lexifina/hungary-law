@@ -1,8 +1,8 @@
-## 65/C. §[^524] A Gyvt. 19. § (1a) bekezdése szerinti esetben a települési önkormányzat jegyzője
+## 65/C. §[^528] A Gyvt. 19. § (1a) bekezdése szerinti esetben a települési önkormányzat jegyzője
 
 a) ha nem áll rendelkezésre, beszerzi a gyámrendelő határozat másolatát,
 
-b)[^525] a Ptk. 4:196. és 4:197. §-ában foglaltak alapján megvizsgálja a kérelmező tartási kötelezettségét.
+b)[^529] a Ptk. 4:196. és 4:197. §-ában foglaltak alapján megvizsgálja a kérelmező tartási kötelezettségét.
 
-[^524]: A 65/C. §-t a 98/2013. (III. 29.) Korm. rendelet 3. §-a iktatta be.
-[^525]: A 65/C. § b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 50. pontja szerint módosított szöveg.
+[^528]: A 65/C. §-t a 98/2013. (III. 29.) Korm. rendelet 3. §-a iktatta be.
+[^529]: A 65/C. § b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 50. pontja szerint módosított szöveg.

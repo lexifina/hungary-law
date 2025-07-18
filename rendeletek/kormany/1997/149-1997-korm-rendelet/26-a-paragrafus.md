@@ -12,15 +12,15 @@ a) eddigi vagyonkezelői feladatait milyen módon teljesítette, és
 
 b) vagyonkezelése során a gyermek gondozásának, nevelésének körülményeit nehezítette, feltételeit elvonta-e.
 
-(5)[^113] Ha a gyámhivatalnak a család- és gyermekjóléti szolgálat, a család- és gyermekjóléti központ jelzése, a gyermek hozzátartozójának vagy más személynek a bejelentése alapján tudomására jut, hogy a szülői felügyeletet gyakorló szülők gyermekük vagyonának kezelése tekintetében kötelességüket a gyermek érdekeit súlyosan sértő módon nem teljesítik, a gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül – a (6) bekezdésben foglaltak figyelembevételével – azt alkalmazza, amellyel legnagyobb biztonsággal megóvható a gyermek vagyona. A gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül egyidejűleg többet is alkalmazhat.
+(5)[^116] Ha a gyámhivatalnak a család- és gyermekjóléti szolgálat, a család- és gyermekjóléti központ jelzése, a gyermek hozzátartozójának vagy más személynek a bejelentése alapján tudomására jut, hogy a szülői felügyeletet gyakorló szülők gyermekük vagyonának kezelése tekintetében kötelességüket a gyermek érdekeit súlyosan sértő módon nem teljesítik, a gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül – a (6) bekezdésben foglaltak figyelembevételével – azt alkalmazza, amellyel legnagyobb biztonsággal megóvható a gyermek vagyona. A gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül egyidejűleg többet is alkalmazhat.
 
 (6) A gyámhivatal
 
-a)[^114] a Ptk. 4:159. § a) pontjának alkalmazása során a szociális vetítési alap összegének ötszörösét meghaladó összeget tekinti úgy, hogy azt a rendes vagyonkezelés szabályai szerint készen tartani nem kell,
+a)[^117] a Ptk. 4:159. § a) pontjának alkalmazása során a szociális vetítési alap összegének ötszörösét meghaladó összeget tekinti úgy, hogy azt a rendes vagyonkezelés szabályai szerint készen tartani nem kell,
 
 b) a Ptk. 4:159. § b) pontjának alkalmazása során az ingatlant vagy vagyontárgyat értékbecslés alapján fogadja el biztosítékként,
 
-c)[^115] a Ptk. 4:159. § c) pontjának alkalmazása során elrendeli a gyermeknek a szociális vetítési alap összegét meghaladó pénzének és értéktárgyainak a gyámhivatal részére történő átadását,
+c)[^118] a Ptk. 4:159. § c) pontjának alkalmazása során elrendeli a gyermeknek a szociális vetítési alap összegét meghaladó pénzének és értéktárgyainak a gyámhivatal részére történő átadását,
 
 d) a Ptk. 4:159. § d) pontjának alkalmazása során a gyámi számadásra vonatkozó szabályok figyelembevételével jár el, és
 
@@ -28,6 +28,6 @@ e) a Ptk. 4:159. § e) pontjának alkalmazásával egyidejűleg vagyonkezelő gy
 
 (7) Ha a szülői felügyeleti jogát gyakorló szülő kérelmére eljárás indul a gyermek vagyoni ügyében, a szülő kérelméhez csatolja a szülői felügyeleti jog gyakorlásáról szóló bírósági határozatot. A gyámhivatal a szülő nyilatkozata és a bíróságnak a szülői felügyeleti jog gyakorlásáról szóló határozata alapján tisztázza, hogy a bíróság a szülői felügyelet gyakorlására, vagy a vagyonkezelés és a gyermek vagyoni ügyeiben a törvényes képviselet teljes körű vagy részleges gyakorlására melyik szülőt jogosította fel.
 
-[^113]: A 26/A. § (5) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.
-[^114]: A 26/A. § (6) bekezdés a) pontja a 179/2025. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^115]: A 26/A. § (6) bekezdés c) pontja a 629/2022. (XII. 30.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^116]: A 26/A. § (5) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.
+[^117]: A 26/A. § (6) bekezdés a) pontja a 179/2025. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^118]: A 26/A. § (6) bekezdés c) pontja a 629/2022. (XII. 30.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

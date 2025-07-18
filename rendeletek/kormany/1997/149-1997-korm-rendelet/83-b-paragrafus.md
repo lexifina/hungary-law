@@ -1,6 +1,6 @@
 ## XI/B. Fejezet
 
-## A SZÜLETENDŐ GYERMEK HAZA NEM ADHATÓSÁGÁNAK MEGÁLLAPÍTÁSA[^685]
+## A SZÜLETENDŐ GYERMEK HAZA NEM ADHATÓSÁGÁNAK MEGÁLLAPÍTÁSA[^689]
 
 83/B. § (1) A gyermekjóléti alapellátás eredménytelensége esetén a család- és gyermekjóléti szolgálat legkésőbb a válsághelyzetben lévő várandós anya terhességének 31. hetében hatósági intézkedés megtételét javasolja a család- és gyermekjóléti központnál.
 
@@ -20,4 +20,4 @@ d) javaslatot tesz a születendő gyermek számára kirendelhető gyám személy
 
 (5) A születendő gyermek haza nem adhatóságának megállapítása iránti eljárásban az ügyintézési határidő negyvenöt nap.
 
-[^685]: A XI/B. Fejezetet (83/B. §-t) a 179/2025. (VI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^689]: A XI/B. Fejezetet (83/B. §-t) a 179/2025. (VI. 30.) Korm. rendelet 4. §-a iktatta be.

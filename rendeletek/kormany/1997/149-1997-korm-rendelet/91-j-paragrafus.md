@@ -1,16 +1,16 @@
-## 91/I. §[^787] A családi pótlék szüneteltetésének megszüntetését követően a gyermek védelembe vételét legalább a családi pótlék szüneteltetésének időtartamával megegyező ideig, legfeljebb azonban a gyermek 16 éves korát követő első felülvizsgálatig fenn kell tartani. Ezt követően a védelembe vétel a gyermek nagykorúvá válásáig csak akkor tartható fenn, ha attól eredmény várható.
+## 91/I. §[^791] A családi pótlék szüneteltetésének megszüntetését követően a gyermek védelembe vételét legalább a családi pótlék szüneteltetésének időtartamával megegyező ideig, legfeljebb azonban a gyermek 16 éves korát követő első felülvizsgálatig fenn kell tartani. Ezt követően a védelembe vétel a gyermek nagykorúvá válásáig csak akkor tartható fenn, ha attól eredmény várható.
 
-91/J. §[^788] (1)[^789] A családi pótlék szüneteltetése során a gyámhivatal és a családtámogatási feladatkörében eljáró kormányhivatal az adategyeztetést elektronikus úton folytatja le.
+91/J. §[^792] (1)[^793] A családi pótlék szüneteltetése során a gyámhivatal és a családtámogatási feladatkörében eljáró kormányhivatal az adategyeztetést elektronikus úton folytatja le.
 
-(2)[^790] Ha a gyámhivatal illetékessége a családi pótlék szüneteltetése alatt szűnik meg, a gyámhivatal
+(2)[^794] Ha a gyámhivatal illetékessége a családi pótlék szüneteltetése alatt szűnik meg, a gyámhivatal
 
-a)[^791] megküldi az ügyben keletkezett iratokat az illetékessé vált gyámhivatalnak, és
+a)[^795] megküldi az ügyben keletkezett iratokat az illetékessé vált gyámhivatalnak, és
 
-b)[^792] értesíti az illetékességváltozásról a családtámogatási feladatkörében eljáró kormányhivatalt.
+b)[^796] értesíti az illetékességváltozásról a családtámogatási feladatkörében eljáró kormányhivatalt.
 
-[^787]: A 91/I. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 448/2016. (XII. 19.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
-[^788]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^789]: A 91/J. § (1) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja, a 448/2016. (XII. 19.) Korm. rendelet 16. § j) pontja, a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^790]: A 91/J. § (2) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés d) pontja, a 448/2016. (XII. 19.) Korm. rendelet 16. § k) pontja szerint módosított szöveg.
-[^791]: A 91/J. § (2) bekezdés a) pontja a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^792]: A 91/J. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^791]: A 91/I. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 448/2016. (XII. 19.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
+[^792]: A 91/J. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^793]: A 91/J. § (1) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja, a 448/2016. (XII. 19.) Korm. rendelet 16. § j) pontja, a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^794]: A 91/J. § (2) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés d) pontja, a 448/2016. (XII. 19.) Korm. rendelet 16. § k) pontja szerint módosított szöveg.
+[^795]: A 91/J. § (2) bekezdés a) pontja a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^796]: A 91/J. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

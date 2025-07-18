@@ -1,3 +1,3 @@
-33/B. §[^203]
+33/B. §[^207]
 
-[^203]: A 33/B. §-t a 315/2005. (XII. 25.) Korm. rendelet 33. §-a iktatta be, hatályon kívül helyezte a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés f) pontja.
+[^207]: A 33/B. §-t a 315/2005. (XII. 25.) Korm. rendelet 33. §-a iktatta be, hatályon kívül helyezte a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés f) pontja.

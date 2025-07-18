@@ -1,14 +1,14 @@
 ## Végrehajtás
 
-16. §[^81] (1)[^82] A családi pótlék természetbeni formában történő nyújtására, az ideiglenes hatályú elhelyezésre, a nevelésbe vételre, a nevelési felügyeletre vonatkozó döntés végrehajtásáról a gyámhivatal gondoskodik. A gyámhivatal, valamint a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal megkeresésére a települési önkormányzat jegyzője közreműködik az ideiglenes hatályú elhelyezés és a nevelésbe vétel végrehajtásában.
+16. §[^84] (1)[^85] A családi pótlék természetbeni formában történő nyújtására, az ideiglenes hatályú elhelyezésre, a nevelésbe vételre, a nevelési felügyeletre vonatkozó döntés végrehajtásáról a gyámhivatal gondoskodik. A gyámhivatal, valamint a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal megkeresésére a települési önkormányzat jegyzője közreműködik az ideiglenes hatályú elhelyezés és a nevelésbe vétel végrehajtásában.
 
 (2) Az ideiglenes hatállyal elhelyezett gyermeknek a gondozási helyre viteléről a Gyvt. 72. §-ának (1) bekezdése szerinti beutaló szerv gondoskodik.
 
-(3)[^83]
+(3)[^86]
 
-(4)[^84]
+(4)[^87]
 
-[^81]: A 16. § és alcíme a 315/2005. (XII. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^82]: A 16. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 40. § (6) bekezdésével megállapított, a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^83]: A 16. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 42. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^84]: A 16. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^84]: A 16. § és alcíme a 315/2005. (XII. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^85]: A 16. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 40. § (6) bekezdésével megállapított, a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^86]: A 16. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 42. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^87]: A 16. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,3 +1,3 @@
-## Tájékoztatás az örökbefogadott származásával kapcsolatos tényekről, a vér szerinti szülő, testvér, féltestvér adatairól és az örökbefogadott egészsége szempontjából jelentős egészségügyi adatokról[^443]
+## Tájékoztatás az örökbefogadott származásával kapcsolatos tényekről, a vér szerinti szülő, testvér, féltestvér adatairól és az örökbefogadott egészsége szempontjából jelentős egészségügyi adatokról[^447]
 
-[^443]: Az 53/A. §-t megelőző alcímet a 349/2012. (XII. 12.) Korm. rendelet 15. §-a iktatta be.
+[^447]: Az 53/A. §-t megelőző alcímet a 349/2012. (XII. 12.) Korm. rendelet 15. §-a iktatta be.
