@@ -1,3 +1,3 @@
-2. § A Gyer. 11. §-a a következő (8) bekezdéssel egészül ki:
+2. §[^3]
 
-„(8) A krízisközpontban vagy titkos menedékházban elhelyezett gyermek vagy gondnokság alatt álló személy meghallgatására kizárólag kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton kerülhet sor.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

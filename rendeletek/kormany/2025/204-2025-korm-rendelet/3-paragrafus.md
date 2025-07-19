@@ -1,3 +1,3 @@
-3. § A Gyer. 13. §-a a következő (5) bekezdéssel egészül ki:
+3. §[^4]
 
-„(5) Ha e rendelet tárgyalás tartását írja elő, a gyámhatóság a krízisközpontban vagy titkos menedékházban elhelyezett gyermeket és törvényes képviselőjét vagy a gondnokság alatt álló személyt tárgyaláson kívül, a meghallgatás szabályai szerint hallgatja meg, egyéb esetben pedig a tárgyalás tartását mellőzi.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-7. § A Gyer. 90. § (1) bekezdés a) pont ab) alpontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(A védelembe vétel felülvizsgálata iránti eljárás
-
-hivatalból indul)
-
-„ab) ha a gyámhivatalnak hivatalos tudomása van a felülvizsgálat szükségességéről, különösen a 17/A. § (1) bekezdése szerinti jelzésre tekintettel,”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

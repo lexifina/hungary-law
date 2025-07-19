@@ -10,6 +10,6 @@
 
 ## 1. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet módosítása
 
-1. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 9. §-a a következő (1a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) Nem kell környezettanulmányt beszerezni, ha a gyermek vagy a gondnokság alatt álló személy krízisközpontban vagy titkos menedékházban került elhelyezésre.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
