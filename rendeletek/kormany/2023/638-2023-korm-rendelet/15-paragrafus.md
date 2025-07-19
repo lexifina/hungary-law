@@ -78,6 +78,8 @@
 
 38. személyszállítási közszolgáltatásért járó ellentételezésként,
 
-39. válságtámogatásként
+39.[^13]
 
 nyújtható.
+
+[^13]: A 15. § 39. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § j) pontja hatályon kívül helyezte.

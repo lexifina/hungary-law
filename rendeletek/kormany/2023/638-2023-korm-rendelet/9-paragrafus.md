@@ -86,6 +86,8 @@
 
 42. közszolgáltatásért járó ellentételezésként,
 
-43. válságtámogatásként
+43.[^6]
 
 nyújtható.
+
+[^6]: A 9. § 43. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § d) pontja hatályon kívül helyezte.

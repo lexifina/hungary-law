@@ -12,7 +12,7 @@ b) – az 53–55. alcím szerinti támogatás kivételével – nehéz helyzetb
 
 c) – a 19–21., 25., és 27–31. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek termeléséhez,
 
-d)[^4] – a 19–21., 25., 27–31. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – az 53., 55. és 58. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
+d)[^14] – a 19–21., 25., 27–31. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – az 53. és 55. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
 
 e) – a 17., 19., 21., 25., 27–44. és 54. alcím szerinti támogatás kivételével – elsődleges mezőgazdasági termeléshez,
 
@@ -32,7 +32,7 @@ j) – az 53. alcím szerinti támogatás kivételével – a versenyképtelen s
 
 k) – az 53. alcím szerinti támogatás kivételével – atomenergia termeléshez.
 
-(3)[^5] Ha a kedvezményezett a (2) bekezdés c)–f) pontja szerint kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, az 53. és 55. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – így különösen a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (2) bekezdés c)–f) pontja szerint kizárt ágazatokban végzett tevékenységek ne részesüljenek az 53. és 55. alcím szerinti támogatásban.
+(3)[^15] Ha a kedvezményezett a (2) bekezdés c)–f) pontja szerint kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, az 53. és 55. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – így különösen a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (2) bekezdés c)–f) pontja szerint kizárt ágazatokban végzett tevékenységek ne részesüljenek az 53. és 55. alcím szerinti támogatásban.
 
-[^4]: A 16. § (2) bekezdés d) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^5]: A 16. § (3) bekezdését a 127/2024. (VI. 14.) Korm. rendelet 12. §-a iktatta be.
+[^14]: A 16. § (2) bekezdés d) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 1. pontja, a 202/2025. (VII. 16.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
+[^15]: A 16. § (3) bekezdését a 127/2024. (VI. 14.) Korm. rendelet 12. §-a iktatta be.

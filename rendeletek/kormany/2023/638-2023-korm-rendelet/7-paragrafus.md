@@ -60,6 +60,8 @@
 
 29. közszolgáltatásért járó ellentételezésként,
 
-30. válságtámogatásként
+30.[^4]
 
 nyújtható.
+
+[^4]: A 7. § 30. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § b) pontja hatályon kívül helyezte.

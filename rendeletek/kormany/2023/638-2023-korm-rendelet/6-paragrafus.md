@@ -6,6 +6,8 @@
 
 2. csekély összegű közszolgáltatási támogatásként,
 
-3. válságtámogatásként
+3.[^3]
 
 nyújtható.
+
+[^3]: A 6. § 3. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § a) pontja hatályon kívül helyezte.

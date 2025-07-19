@@ -8,7 +8,7 @@ a) a beruházás adott mértékű termelés érdekében felhasznált erőforrás
 
 b) a beruházás az elsődleges nyersanyagok vagy alapanyagok másodlagos – újrahasznált, hasznosított, vagy újrafeldolgozott – nyersanyagokkal vagy alapanyagokkal történő helyettesítésére irányul.
 
-(3)[^34] Támogatás nyújtható a kedvezményezett által termelt hulladék megelőzésére, csökkentésére, vagy a kedvezményezett vagy harmadik fél által termelt hulladék újrahasználatra való előkészítésére, szennyeződésmentesítésére és újrafeldolgozásra irányuló beruházáshoz, amennyiben a beruházás hiányában
+(3)[^47] Támogatás nyújtható a kedvezményezett által termelt hulladék megelőzésére, csökkentésére, vagy a kedvezményezett vagy harmadik fél által termelt hulladék újrahasználatra való előkészítésére, szennyeződésmentesítésére és újrafeldolgozásra irányuló beruházáshoz, amennyiben a beruházás hiányában
 
 a) a hulladékot egyébként nem használnák fel, ártalmatlanítanák, vagy
 
@@ -26,4 +26,4 @@ a) a felhasznált erőforrások magukban foglalnak minden felhasznált nyersanya
 
 b) a felhasznált erőforrások nettó csökkenését a támogatási intézkedés végrehajtása előtti és utáni fogyasztás mérése vagy becslése alapján kell meghatározni, figyelemmel az erőforrás felhasználását befolyásoló külső körülmények alapján történő kiigazításra is.
 
-[^34]: A 87. § (3) bekezdés nyitó szövegrésze a 127/2024. (VI. 14.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^47]: A 87. § (3) bekezdés nyitó szövegrésze a 127/2024. (VI. 14.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.

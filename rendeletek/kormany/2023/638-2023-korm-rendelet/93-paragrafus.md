@@ -1,6 +1,6 @@
 ## 45. Helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás
 
-93. § (1)[^36] A helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azokon a területeken, ahol
+93. § (1)[^49] A helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azokon a területeken, ahol
 
 a) nincs olyan meglévő hálózat, amely csúcsidei feltételek mellett legalább 100 Mbps letöltési sebességet biztosítana vagy az érintett intézkedés vonatkozásában az illetékes hatóság által meghatározott időtávban nincs tervben ilyen hálózatnak kiépítése, háztartások és a társadalmi-gazdasági mozgatórugók összekapcsolására, vagy
 
@@ -28,4 +28,4 @@ kell elvégezni.
 
 (8) A feltérképezés eredményének ellenőrzésére az illetékes hatóság nyilvános konzultációt folytat le, amelynek keretében nyilvánosan elérhető honlapon közzéteszi a tervezett állami intézkedést és a feltérképezés részletes adatait. Az illetékes hatóságnak a közzétételtől számított legalább 30 napig tartó konzultáció keretében biztosítania kell, hogy a tervezett állami intézkedést az érdekelt felek észrevételezzék, és információt adhassanak az (1) bekezdés szerinti letöltési sebességgel bíró már meglévő, vagy a releváns időtávban hitelt érdemlően kiépíteni tervezett hálózataikról.
 
-[^36]: A 93. § (1) bekezdés nyitó szövegrésze a 127/2024. (VI. 14.) Korm. rendelet 22. § 21. pontja szerint módosított szöveg.
+[^49]: A 93. § (1) bekezdés nyitó szövegrésze a 127/2024. (VI. 14.) Korm. rendelet 22. § 21. pontja szerint módosított szöveg.

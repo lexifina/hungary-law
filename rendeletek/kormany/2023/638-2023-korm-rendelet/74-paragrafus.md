@@ -2,7 +2,7 @@
 
 a) a b) és c) pont kivételével az elszámolható költségek 30%-át,
 
-b)[^27] a 72. § (5) bekezdés b) pontja szerinti esetben az elszámolható költségek 25%-át,
+b)[^40] a 72. § (5) bekezdés b) pontja szerinti esetben az elszámolható költségek 25%-át,
 
 c) amennyiben az uniós szabványoknak minősülő energiahatékonysági minimumszabványoknak való megfelelés érdekében végzett beruházásokhoz nyújtott támogatást kevesebb mint 18 hónappal az uniós szabványok hatálybalépése előtt nyújtják
 
@@ -20,4 +20,4 @@ növelhető.
 
 (3) A (2) bekezdés b) pontja nem alkalmazható abban az esetben, ha a beruházás a megvalósításától számított 18 hónapon belül nem javítja az épület energiahatékonyságát az uniós szabványnak minősülő energiahatékonysági minimumkövetelmények által előírt szint fölé.
 
-[^27]: A 74. § (1) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
+[^40]: A 74. § (1) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.

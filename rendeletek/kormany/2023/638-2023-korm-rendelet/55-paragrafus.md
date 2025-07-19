@@ -4,7 +4,7 @@
 
 a) a helyiségek átalakításának költsége,
 
-b)[^21] a megváltozott munkaképességű munkavállaló segítésével foglalkozó személy foglalkoztatásához kapcsolódó költség kizárólag a segítés ideje alatt, valamint ezen segítő személynek a megváltozott munkaképességű munkavállaló segítéséhez kapcsolódó képzési költsége,
+b)[^33] a megváltozott munkaképességű munkavállaló segítésével foglalkozó személy foglalkoztatásához kapcsolódó költség kizárólag a segítés ideje alatt, valamint ezen segítő személynek a megváltozott munkaképességű munkavállaló segítéséhez kapcsolódó képzési költsége,
 
 c) a megváltozott munkaképességű munkavállaló általi használatra alkalmassá tétel érdekében
 
@@ -14,7 +14,7 @@ cb) az átalakított vagy segítség nyújtására alkalmas technológiai felsze
 
 d) a megváltozott munkaképességű munkavállaló munkahelyre és munkával kapcsolatos tevékenység helyszínére történő szállításához közvetlenül kapcsolódó költség,
 
-e)[^22] a megváltozott munkaképességű munkavállaló által rehabilitációval töltött órák bérköltsége,
+e)[^34] a megváltozott munkaképességű munkavállaló által rehabilitációval töltött órák bérköltsége,
 
 f) a védett foglalkoztatást biztosító kedvezményezett esetén közvetlenül a megváltozott munkaképességű munkavállaló foglalkoztatásával összefüggésben
 
@@ -26,5 +26,5 @@ fb) az adminisztrációs és szállítási költségek.
 
 (3) A támogatás az elszámolható költségek 100%-áig nyújtható.
 
-[^21]: Az 55. § (1) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
-[^22]: Az 55. § (1) bekezdés e) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.
+[^33]: Az 55. § (1) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^34]: Az 55. § (1) bekezdés e) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.

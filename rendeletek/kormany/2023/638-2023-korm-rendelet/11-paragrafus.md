@@ -20,6 +20,8 @@
 
 9. csekély összegű támogatásként,
 
-10. válságtámogatásként
+10.[^8]
 
 nyújtható.
+
+[^8]: A 11. § 10. pontját a 202/2025. (VII. 16.) Korm. rendelet 56. § f) pontja hatályon kívül helyezte.
