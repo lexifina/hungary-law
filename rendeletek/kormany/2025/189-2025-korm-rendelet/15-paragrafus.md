@@ -1,9 +1,7 @@
 15. § (1)[^16]
 
-(2)[^17]
+(2) A Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet 2. melléklete helyébe a 2. melléklet lép.
 
-(3)[^18]
+(3) A Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet 3. melléklete a 3. melléklet szerint módosul.
 
 [^16]: A 15. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 15. § (2) bekezdése a 18. § (2) bekezdése alapján 2025. július 19-én lép hatályba.
-[^18]: A 15. § (3) bekezdése a 18. § (2) bekezdése alapján 2025. július 19-én lép hatályba.
