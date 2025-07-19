@@ -1,4 +1,4 @@
-68. § (1)[^17] A honvédelmi kiberbiztonsági incidenskezelő központ a hatáskörébe tartozó elektronikus információs rendszerek tekintetében – a 67. § (1) bekezdés 1. pont f) alpontja, 67. § (1) bekezdés 2. pont l) alpontja, 67. § (1) bekezdés 3. pont a) alpontja, 67. § (1) bekezdés 4. pont b), c), f) és g) alpontja, 67. § (1) bekezdés 5. pont f) alpontja és 67. § (1) bekezdés 6. pont a)–i) alpontja kivételével – ellátja a 67. § szerinti feladatokat.
+68. § (1)[^18] A honvédelmi kiberbiztonsági incidenskezelő központ a hatáskörébe tartozó elektronikus információs rendszerek tekintetében – a 67. § (1) bekezdés 1. pont f) alpontja, 67. § (1) bekezdés 2. pont l) alpontja, 67. § (1) bekezdés 3. pont a) alpontja, 67. § (1) bekezdés 4. pont b), c), f) és g) alpontja, 67. § (1) bekezdés 5. pont f) alpontja és 67. § (1) bekezdés 6. pont a)–i) alpontja kivételével – ellátja a 67. § szerinti feladatokat.
 
 (2) A honvédelmi kiberbiztonsági incidenskezelő központ a 67. § (1) bekezdés 5. pont b) alpontja szerinti jelentést a honvédelemért felelős miniszternek küldi meg.
 
@@ -8,4 +8,4 @@
 
 (5) A honvédelmi kiberbiztonsági incidenskezelő központ tevékenységére – az (1) bekezdésben, a 81. §-ban és a 89. §-ban foglaltak kivételével – a Központra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^17]: A 68. § (1) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 16. § 10. pontja szerint módosított szöveg.
+[^18]: A 68. § (1) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 16. § 10. pontja szerint módosított szöveg.

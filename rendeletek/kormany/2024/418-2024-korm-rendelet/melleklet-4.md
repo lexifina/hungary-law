@@ -12,7 +12,11 @@
 
 | 6 | A Kiberbiztonsági tv. 6. § (2) bekezdése szerinti kötelezettség nem teljesítése | 1 000 000 forint | 42. § (2) bekezdése szerinti összeg |
 
-| 7 | A Kiberbiztonsági tv. 16. § (1) bekezdése szerinti kiberbiztonsági audit határidőn belüli lefolytatásának elmulasztása | 1 000 000 forint | 50 000 000 forint |
+| 7.[^70] | A Kiberbiztonsági tv. 21. § (3) bekezdése szerinti nyilvántartásban szereplő auditorral a kiberbiztonsági audit elvégzésére irányuló megállapodás határidőben történő megkötésére vonatkozó kötelezettség teljesítésének elmulasztása | 1 000 000 forint | 15 000 000 forint |
+
+| 8.[^71] | A Kiberbiztonsági tv. 16. § (1) bekezdése szerinti kiberbiztonsági audit határidőn belüli lefolytatásának elmulasztása | 1 000 000 forint | a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezet előző üzleti évi nettó árbevételének – árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos részének – vagy előző évi költségvetési bevételi előirányzatának legfeljebb 2%-a, de legfeljebb 150 000 000 forint |
+
+| 9.[^72] | A Kiberbiztonsági tv. 66. § (2) bekezdése szerinti bejelentési kötelezettség elmulasztása | 500 000 forint | 5 000 000 forint |
 
 4. melléklet a 418/2024. (XII. 23.) Korm. rendelethez
 
@@ -35,3 +39,7 @@ A tanúsító hatóság által kiszabható bírság mértéke
 | 7 | A Kiberbiztonsági tv. 41. § (3) bekezdésében meghatározott, a sebezhetőség vagy rendellenesség bejelentésére irányuló kötelezettség teljesítésének elmulasztása | 300 000 | 5 000 000 |
 
 | 8 | Az A:2–A:7 mezőben nem szereplő, a tanúsító hatóság által feltárt, a Kiberbiztonsági tv. 49. § (1) bekezdése szerinti hiányosságok alapján a szükséges módosítások végrehajtásának, intézkedések megtételének elmulasztása | 200 000 | 10 000 000 |
+
+[^70]: A 3. mellékletben foglalt táblázat 7. sora a 189/2025. (VII. 3.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^71]: A 3. mellékletben foglalt táblázat 8. sorát a 189/2025. (VII. 3.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^72]: A 3. mellékletben foglalt táblázat 9. sorát a 189/2025. (VII. 3.) Korm. rendelet 15. § (3) bekezdése iktatta be.

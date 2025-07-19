@@ -1,3 +1,3 @@
-144. §[^56]
+144. §[^57]
 
-[^56]: A 144. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 144. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

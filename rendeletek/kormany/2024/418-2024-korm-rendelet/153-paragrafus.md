@@ -1,3 +1,3 @@
-153. §[^65]
+153. §[^66]
 
-[^65]: A 153. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 153. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

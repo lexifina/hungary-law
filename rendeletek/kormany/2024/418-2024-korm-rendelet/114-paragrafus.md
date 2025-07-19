@@ -8,7 +8,7 @@ b) az ENISA felé,
 
 c) a többi európai uniós tagállam egyedüli kapcsolattartó pontjával,
 
-d)[^28] az (EU) 2022/2555 európai parlamenti és tanácsi irányelv együttműködési csoportjával (a továbbiakban: NIS Együttműködési Csoport), valamint
+d)[^29] az (EU) 2022/2555 európai parlamenti és tanácsi irányelv együttműködési csoportjával (a továbbiakban: NIS Együttműködési Csoport), valamint
 
 e) a magyar kiberbiztonsági szervekkel.
 
@@ -20,12 +20,12 @@ b) az Európai Bizottságnak kétévente az azonosított alapvető és fontos sz
 
 c) az Európai Bizottságnak kérésére a b) pontban említett alapvető és fontos szervezetek nevét, amennyiben az nemzetbiztonsági, honvédelmi vagy egyéb biztonsági érdeket nem sért;
 
-d)[^29] az ENISA-nak a 113. § (1) bekezdés b) és c) pontja szerinti információkat a szolgáltatói nyilvántartáshoz.
+d)[^30] az ENISA-nak a 113. § (1) bekezdés b) és c) pontja szerinti információkat a szolgáltatói nyilvántartáshoz.
 
-(2a)[^30] Az egyedüli kapcsolattartó pont a 113. § (1) bekezdés c) pontja szerinti adatszolgáltatás kézhezvételét követően haladéktalanul tájékoztatja az ENISA-t a szolgáltatói nyilvántartáshoz megküldött adatokban bekövetkezett változásról.
+(2a)[^31] Az egyedüli kapcsolattartó pont a 113. § (1) bekezdés c) pontja szerinti adatszolgáltatás kézhezvételét követően haladéktalanul tájékoztatja az ENISA-t a szolgáltatói nyilvántartáshoz megküldött adatokban bekövetkezett változásról.
 
 (3) Az egyedüli kapcsolattartó pont – a Központ 113. § (4) bekezdése szerinti adatszolgáltatása alapján – háromhavonta összefoglaló jelentést nyújt be az ENISA-nak a bejelentett jelentős incidensekről, incidensekről, kiberfenyegetésekről és incidens közeli helyzetekről.
 
-[^28]: A 114. § (1) bekezdés d) pontja a 189/2025. (VII. 3.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^29]: A 114. § (2) bekezdés d) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 15. pontja szerint módosított szöveg.
-[^30]: A 114. § (2a) bekezdését a 189/2025. (VII. 3.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^29]: A 114. § (1) bekezdés d) pontja a 189/2025. (VII. 3.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^30]: A 114. § (2) bekezdés d) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 15. pontja szerint módosított szöveg.
+[^31]: A 114. § (2a) bekezdését a 189/2025. (VII. 3.) Korm. rendelet 12. § (2) bekezdése iktatta be.

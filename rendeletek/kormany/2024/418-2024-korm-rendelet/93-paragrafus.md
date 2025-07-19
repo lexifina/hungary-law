@@ -1,6 +1,6 @@
 ## 35. Operatív Törzs
 
-93. § (1)[^20] Az Operatív Törzs vezetőjeként eljáró kiberbiztonságért felelős biztost – akadályoztatása esetén – a 91. § (1) bekezdése alapján megbízott személy helyettesíti.
+93. § (1)[^21] Az Operatív Törzs vezetőjeként eljáró kiberbiztonságért felelős biztost – akadályoztatása esetén – a 91. § (1) bekezdése alapján megbízott személy helyettesíti.
 
 (2) Az Operatív Törzs tagjai:
 
@@ -12,4 +12,4 @@ c) a kiberbiztonsági válsághelyzet kezelésében érintett szerv vagy szervez
 
 d) a kiberbiztonságért felelős biztos által felkért személyek.
 
-[^20]: A 93. § (1) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^21]: A 93. § (1) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

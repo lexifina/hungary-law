@@ -32,9 +32,9 @@ f) eredményeként készített jelentés-tervezet vonatkozásában észrevételt
 
 g) tárgyában készített jelentést vagy annak kivonatát honlapján közzéteheti.
 
-h)[^31] során – a bizalmas vagy minősített adatok védelmét szolgáló nemzeti vagy uniós jog sérelme nélkül, valamint Magyarország nemzetbiztonsági, közbiztonsági vagy alapvető védelmi érdekeinek sérelme nélkül – megadja az értékeléshez szükséges információkat a kijelölt kiberbiztonsági szakértőknek.
+h)[^32] során – a bizalmas vagy minősített adatok védelmét szolgáló nemzeti vagy uniós jog sérelme nélkül, valamint Magyarország nemzetbiztonsági, közbiztonsági vagy alapvető védelmi érdekeinek sérelme nélkül – megadja az értékeléshez szükséges információkat a kijelölt kiberbiztonsági szakértőknek.
 
-(4)[^32] Az (1) bekezdés és a (3) bekezdés a) pontja alapján meghatározott, szakértői értékelésnek alávetett szempontokkal azonos szempontok további szakértői értékelésnek nem vethetők alá a szakértői értékelés lezárását követő két éven belül, kivéve, ha azt a nemzeti kiberbiztonsági hatóság vagy a Központ kéri, vagy arról a NIS Együttműködési Csoport javaslata alapján megállapodás született.
+(4)[^33] Az (1) bekezdés és a (3) bekezdés a) pontja alapján meghatározott, szakértői értékelésnek alávetett szempontokkal azonos szempontok további szakértői értékelésnek nem vethetők alá a szakértői értékelés lezárását követő két éven belül, kivéve, ha azt a nemzeti kiberbiztonsági hatóság vagy a Központ kéri, vagy arról a NIS Együttműködési Csoport javaslata alapján megállapodás született.
 
-[^31]: A 116. § (3) bekezdés h) pontját a 189/2025. (VII. 3.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^32]: A 116. § (4) bekezdését a 189/2025. (VII. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^32]: A 116. § (3) bekezdés h) pontját a 189/2025. (VII. 3.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^33]: A 116. § (4) bekezdését a 189/2025. (VII. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.

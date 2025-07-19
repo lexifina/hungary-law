@@ -1,3 +1,3 @@
-133. §[^45]
+133. §[^46]
 
-[^45]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-150. §[^62]
+150. §[^63]
 
-[^62]: A 150. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 150. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
