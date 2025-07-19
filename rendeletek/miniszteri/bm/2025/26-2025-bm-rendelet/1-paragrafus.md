@@ -8,12 +8,6 @@
 
 ## 1. A gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló 40/2018. (XII. 4.) EMMI rendelet módosítása
 
-1. § A gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló 40/2018. (XII. 4.) EMMI rendelet (a továbbiakban: Rendelet1) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(4) A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek legalább felének meg kell felelnie az alábbi feltételek valamelyikének:
-
-a) rendszeres gyermekvédelmi kedvezményben részesülő gyermek,
-
-b) a településre vonatkozó integrált településfejlesztési stratégiában szegregált vagy szegregációval veszélyeztetett területnek nyilvánított lakókörnyezetben él,
-
-c) a településrész jellege szerint külterületi lakott helyen él.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

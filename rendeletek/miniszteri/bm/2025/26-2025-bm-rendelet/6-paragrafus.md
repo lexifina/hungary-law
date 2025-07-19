@@ -1,3 +1,3 @@
-6. § A Rendelet2 4. §-a a következő (7) bekezdéssel egészül ki:
+6. §[^7]
 
-„(7) Az ösztöndíjjal kapcsolatos feladatok ellátása az államháztartásról szóló 2011. évi CXCV. törvény 49. §-a szerinti lebonyolító szerv bevonásával történik.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
