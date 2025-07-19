@@ -2,27 +2,27 @@
 
 | 1. | Programterület neve | A nemzeti hatósági feladatokat ellátó szervezet | Szakpolitikai felelős | Lebonyolító szerv |
 
-| 2. | I. Demográfia és köznevelés | NFK | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Miniszterelnöki Kabinetiroda, NFK |
+| 2. | I. Demográfia és köznevelés | NFK | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Energiaügyi Minisztérium,NFK |
 
-| 3. | II. Magasan képzett, versenyképes munkaerő | NFK | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Miniszterelnöki Kabinetiroda, NFK |
+| 3. | II. Magasan képzett, versenyképes munkaerő | NFK | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Energiaügyi Minisztérium, NFK |
 
 | 4. | III. Felzárkózó települések | NFK | Belügyminisztérium | NFK |
 
-| 5. | IV. Vízgazdálkodás | NFK | Energiaügyi Minisztérium[^470], Agrárminisztérium | Miniszterelnöki Kabinetiroda, NFK |
+| 5. | IV. Vízgazdálkodás | NFK | Energiaügyi Minisztérium, Agrárminisztérium | Energiaügyi Minisztérium, NFK |
 
-| 6. | V. Fenntartható zöld közlekedés | NFK | Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, NFK |
+| 6. | V. Fenntartható zöld közlekedés | NFK | Építési és Közlekedési Minisztérium | Energiaügyi Minisztérium, NFK |
 
-| 7. | VI. Energetika (zöld átállás) | NFK | Energiaügyi Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK, Miniszterelnöki Kabinetiroda |
+| 7. | VI. Energetika (zöld átállás) | NFK | Energiaügyi Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK, Energiaügyi Minisztérium |
 
 | 8. | VII. Átállás a körforgásos gazdaságra | NFK | Energiaügyi Minisztérium | NFK |
 
-| 9. | VIII. Egészségügy | NFK | Belügyminisztérium | Miniszterelnöki Kabinetiroda, NFK |
+| 9. | VIII. Egészségügy | NFK | Belügyminisztérium | Energiaügyi Minisztérium, NFK |
 
-| 10. | IX. Állam és közigazgatás | NFK | Nincs | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
+| 10. | IX. Állam és közigazgatás | NFK | Nincs | Energiaügyi Minisztérium, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
-| 11. | Magyarország REPowerEU terve | NFK | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, NFK |
+| 11. | Magyarország REPowerEU terve | NFK | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Energiaügyi Minisztérium, NFK |
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^471]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^476]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -146,7 +146,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.3. végső kedvezményezett tényleges tulajdonosának születési dátuma
 
-8.4.[^472] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
+8.4.[^477] végső kedvezményezett tényleges tulajdonosának adóazonosító száma
 
 8.5. szállító tényleges tulajdonosának vezetékneve
 
@@ -154,6 +154,5 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^470]: Szakmai koordinációra kijelölt minisztérium
-[^471]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
-[^472]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.
+[^476]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^477]: A 2. melléklet 8.4. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 37/2025. (III. 11.) Korm. rendelet 29. §-a iktatta be.

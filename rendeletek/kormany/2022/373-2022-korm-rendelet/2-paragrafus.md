@@ -16,7 +16,7 @@
 
 6. Helyreállítási és Ellenállóképességi Terv (a továbbiakban: HET): a HEE keretében tagállami szinten rendelkezésre álló források igénylésének alapját képező olyan tervezési dokumentum, amely az (EU) 2021/241 rendelet III. fejezetében foglalt követelmények alapján programterületek szerinti bontásban meghatározza a tagállami források 2026. augusztus 31-ig történő felhasználásának kereteit, az elérni vállalt reformokat, beruházásokat, mérföldköveket, célértékeket, és az ezek eléréséhez rendelt ütemezést,
 
-7.[^4] HET intézkedés: HET alapján a Kormány által elfogadott HET intézkedési listában megjelent, reformok, mérföldkövek, célértékek elérését és megvalósítását szolgáló projektek, felhívások, programok,
+7.[^4] HET intézkedés: HET alapján a Kormány által elfogadott HET intézkedési listában megjelent, reformok, beruházások, mérföldkövek, célértékek elérését és megvalósítását szolgáló projektek, felhívások, programok,
 
 8.[^5] HET intézkedési lista: olyan tervezési dokumentum, amely a teljes végrehajtási időszakra vonatkozóan programterületenkénti bontásban tartalmazza a HET intézkedéseket, szükség szerint azok támogatási formáját, eljárásrendjét és finanszírozási forrását is.
 
@@ -60,7 +60,7 @@
 
 [^2]: A 2. § 3a. pontját a 213/2024. (VII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^3]: A 2. § 5. pontját a 441/2024. (XII. 23.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § 7. pontja a 441/2024. (XII. 23.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 7. pontja a 441/2024. (XII. 23.) Korm. rendelet 11. § a) pontja, a 202/2025. (VII. 16.) Korm. rendelet 51. §-a szerint módosított szöveg.
 [^5]: A 2. § 8. pontja a 441/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 9a. pontját a 49/2024. (III. 4.) Korm. rendelet 1. §-a iktatta be.
 [^7]: A 2. § 10a. pontját a 154/2023. (IV. 27.) Korm. rendelet 1. §-a iktatta be.

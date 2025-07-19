@@ -2,7 +2,7 @@
 
 11. § (1)[^44] A lebonyolító szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött lebonyolítói megállapodásban foglaltak szerint a nemzeti hatóság nevében és megbízásából jár el.
 
-(2)[^45] A lebonyolító szerv a nemzeti hatóság által meghatározott értékhatár alatt, a nemzeti hatóság előzetes tájékoztatása mellett átmeneti jelleggel vagy speciális szakterületet érintően közreműködőt vonhat be. A nemzeti hatóság előzetes engedélye szükséges a nemzeti hatóság által meghatározott érték felett a lebonyolító szerv feladatellátásához közreműködő bevonásához. A közreműködők teljesítéséért a lebonyolító szerv felel.
+(2)[^45] A lebonyolító szerv a nemzeti hatóság által meghatározott értékhatár alatt, a nemzeti hatóság előzetes tájékoztatása mellett átmeneti jelleggel vagy speciális szakterületet érintően közreműködőt vonhat be. A nemzeti hatóság előzetes engedélye szükséges a nemzeti hatóság által meghatározott érték felett a lebonyolító szerv feladatellátásához közreműködő bevonásához. Előzetes tájékoztatás és előzetes engedélyeztetés nélkül vonható be az a közreműködő, amely a lebonyolítói megállapodásban az általa ellátandó feladatkör megjelölésével nevesítésre került. A közreműködők teljesítéséért a lebonyolító szerv felel.
 
 (3)[^46] Lebonyolító szerv bevonása esetén a lebonyolító szerv feladatait az 1. mellékletben foglalt táblázat D oszlopában meghatározott szervezet látja el.
 
@@ -25,7 +25,7 @@ b) a jogsértéssel érintett ügyet vagy az átruházott feladatkört magához 
 (10)[^51] A lebonyolítói megállapodás (8) bekezdés szerinti megszűnése esetén a nemzeti hatóság és lebonyolító szerv átadás-átvételi eljárást folytat le, valamint a lebonyolító szerv elszámol a rábízott forrásokkal.
 
 [^44]: A 11. § (1) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^45]: A 11. § (2) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^45]: A 11. § (2) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 40. §-ával megállapított szöveg.
 [^46]: A 11. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 3. pontja szerint módosított szöveg.
 [^47]: A 11. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^48]: A 11. § (7) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.

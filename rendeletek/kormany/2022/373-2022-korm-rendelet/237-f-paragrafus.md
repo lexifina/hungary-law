@@ -1,4 +1,4 @@
-237/F. §[^456] E rendeletnek a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet módosításáról szóló 441/2024. (XII. 23.) Korm. rendelettel [a továbbiakban: 441/2024. (XII. 23.) Korm. rendelet] megállapított rendelkezéseit a 441/2024. (XII. 23.) Korm. rendelet hatálybalépését[^457] megelőzően
+237/F. §[^459] E rendeletnek a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet módosításáról szóló 441/2024. (XII. 23.) Korm. rendelettel [a továbbiakban: 441/2024. (XII. 23.) Korm. rendelet] megállapított rendelkezéseit a 441/2024. (XII. 23.) Korm. rendelet hatálybalépését[^460] megelőzően
 
 a) keletkezett támogatási jogviszonyokra, valamint
 
@@ -6,5 +6,5 @@ b) megkezdett és a 441/2024. (XII. 23.) Korm. rendelet hatálybalépésekor mé
 
 is alkalmazni kell.
 
-[^456]: A 237/F. §-t a 441/2024. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
-[^457]: A hatálybalépés időpontja 2024. december 28.
+[^459]: A 237/F. §-t a 441/2024. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^460]: A hatálybalépés időpontja 2024. december 28.
