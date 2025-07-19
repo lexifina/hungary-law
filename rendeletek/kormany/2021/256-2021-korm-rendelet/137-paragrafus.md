@@ -1,3 +1,9 @@
-137. §[^205] A szakaszolt projekt e rendelet szerinti programozási időszakra eső szakasza vonatkozásában akkor köthető támogatási szerződés vagy a támogatási szerződés akkor léphet hatályba, ha a szakaszolt projekt előző szakaszának megvalósítására kötött támogatási szerződés alapján kifizetett előleggel a kedvezményezett elszámolt vagy az előleg felhasználása érdekében harmadik személlyel szállítói szerződést kötött.
+137. §[^209] A szakaszolt projekt e rendelet szerinti programozási időszakra eső szakasza vonatkozásában akkor köthető támogatási szerződés, vagy a támogatási szerződés akkor léphet hatályba, ha a szakaszolt projekt előző szakaszának megvalósítására kötött támogatási szerződés
 
-[^205]: A 137. § a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 3. pontja szerint módosított szöveg.
+a) alapján kifizetett előleggel a kedvezményezett elszámolt,
+
+b) alapján kifizetett előleg felhasználása érdekében harmadik személlyel szállítói szerződést kötött, vagy
+
+c) az előleg e rendelet szerinti programozási időszakban történő felhasználhatóságáról rendelkezik.
+
+[^209]: A 137. § a 202/2025. (VII. 16.) Korm. rendelet 12. §-ával megállapított szöveg.

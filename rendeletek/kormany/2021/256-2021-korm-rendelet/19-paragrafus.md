@@ -78,13 +78,11 @@ e)[^54] részt vesz az NFK által szervezett csalás és korrupció elleni képz
 
 f) a támogatott projektek vonatkozásában egyedi kockázatelemzésen alapuló csalásellenes intézkedéseket hozhat.
 
-(3) Az irányító hatóság a büntetőeljárásokkal összefüggő feladatai keretében
+(3)[^55] Az irányító hatóság a büntetőeljárásokkal összefüggő feladatai keretében
 
 a) szükség esetén feljelentést tesz,
 
-b) a folyamatban lévő büntetőügyekkel összefüggésben kapcsolatot tart a bűnüldöző szervekkel, azok megkereséseit megválaszolja,
-
-c)[^55] az a) és b) pont szerinti, valamint az egyéb megkeresések kapcsán tett intézkedésekről, továbbá a megindított szabálytalansági eljárásról tájékoztatja az NFK-t, a Belső Ellenőrzési és Integritási Igazgatóságot és az audit hatóságot.
+b) az a) pont szerinti, valamint a bűnügyi és egyéb megkeresések kapcsán tett intézkedésekről, továbbá a megindított szabálytalansági eljárásról tájékoztatja a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.
 
 (4) Az irányító hatóság
 
@@ -113,6 +111,6 @@ b)[^57] az a) pont szerinti vizsgálat eredményéről tájékoztatja az NFK-t.
 [^52]: A 19. § (2) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^53]: A 19. § (2) bekezdés d) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 25. pontja szerint módosított szöveg.
 [^54]: A 19. § (2) bekezdés e) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 26. pontja szerint módosított szöveg.
-[^55]: A 19. § (3) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 27. pontja szerint módosított szöveg.
+[^55]: A 19. § (3) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^56]: A 19. § (4) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (3) bekezdésével megállapított, a 37/2025. (III. 11.) Korm. rendelet 26. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^57]: A 19. § (4) bekezdés b) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 28. pontja szerint módosított szöveg.

@@ -1,12 +1,12 @@
 ## 59. Az egyszerűsített elszámolás
 
-239. §[^379] Ha a felhívás előírja, akkor
+239. §[^384] Ha a felhívás előírja, akkor
 
 a) az Európai Bizottság által készített vagy
 
-b)[^380] az irányító hatóság által készített, valamint az NFK és az audit hatóság által előzetesen véleményezett
+b)[^385] az irányító hatóság által készített, valamint az NFK és az audit hatóság által előzetesen véleményezett
 
 módszertan szerint előre rögzített átalány alapján történő elszámolást kell alkalmazni.
 
-[^379]: A 239. § a 195/2023. (V. 22.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^380]: A 239. § b) pontja a 48/2024. (III. 4.) Korm. rendelet 14. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 161. pontja szerint módosított szöveg.
+[^384]: A 239. § a 195/2023. (V. 22.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^385]: A 239. § b) pontja a 48/2024. (III. 4.) Korm. rendelet 14. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 161. pontja szerint módosított szöveg.

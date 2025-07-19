@@ -1,3 +1,3 @@
-400. §[^533] Az NFK a www.palyazat.gov.hu oldalon közzéteszi a végleges szabálytalansági döntés vonatkozásában a kedvezményezett nevét, a projekt címét, a szabálytalanság elkövetése módját, a szabálytalanság következményét és a szabálytalansággal érintett összeget.
+400. §[^541] Az NFK a www.palyazat.gov.hu oldalon közzéteszi a végleges szabálytalansági döntés vonatkozásában a kedvezményezett nevét, a projekt címét, a szabálytalanság elkövetése módját, a szabálytalanság következményét és a szabálytalansággal érintett összeget.
 
-[^533]: A 400. § a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 187. pontja szerint módosított szöveg.
+[^541]: A 400. § a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 187. pontja szerint módosított szöveg.

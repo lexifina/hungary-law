@@ -1,10 +1,10 @@
 343. § (1) Az igazoló hatóság január 31-ig megküldi az audit hatóság részére a véglegesített éves elszámolást.
 
-(2)[^487]
+(2)[^493]
 
 (3) Az audit hatóság az éves elszámolás megfelelőségéről audit véleményt állít ki.
 
-(4)[^488] Az irányító hatóság február 5-ig elkészíti a vezetői nyilatkozatot.
+(4)[^494] Az irányító hatóság február 5-ig elkészíti a vezetői nyilatkozatot.
 
-[^487]: A 343. § (2) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § i) pontja hatályon kívül helyezte.
-[^488]: A 343. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 177. pontja szerint módosított szöveg.
+[^493]: A 343. § (2) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § i) pontja hatályon kívül helyezte.
+[^494]: A 343. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 177. pontja szerint módosított szöveg.

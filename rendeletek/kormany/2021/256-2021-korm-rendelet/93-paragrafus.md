@@ -14,15 +14,15 @@ b) szakaszos elbírálás esetén a szakasz zárását követő naptól lehetsé
 
 (3) Szakaszos elbírálás esetén az irányító hatóság a szakaszok közötti szünetben a felhívást felfüggesztheti vagy lezárhatja.
 
-(4)[^177] Egyszerűsített kiválasztási eljárásrend esetén, ha a támogatási kérelmek benyújtására nyitva álló határidő kezdetétől számított huszonnegyedik óra végén a benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének 130%-át, az irányító hatóság a benyújtás lehetőségét azonnal felfüggeszti vagy a felhívást azonnal lezárja, azzal, hogy az addig beérkezett támogatási kérelmek értékelését el kell végezni.
+(4)[^180] Egyszerűsített kiválasztási eljárásrend esetén, ha a támogatási kérelmek benyújtására nyitva álló határidő kezdetétől számított huszonnegyedik óra végén a benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének 130%-át, az irányító hatóság a benyújtás lehetőségét azonnal felfüggeszti vagy a felhívást azonnal lezárja, azzal, hogy az addig beérkezett támogatási kérelmek értékelését el kell végezni.
 
-(4a)[^178] Ha a (4) bekezdés szerinti azonnali felfüggesztésre vagy azonnali lezárásra okot adó esemény a támogatási kérelmek benyújtására nyitva álló határidő kezdetétől számított huszonnegyedik órát követően, de a támogatási kérelmek benyújtására nyitva álló határidő lejártát megelőzően következik be, az irányító hatóság a benyújtás lehetőségét azonnal felfüggesztheti vagy a felhívást azonnal lezárhatja.
+(4a)[^181] Ha a (4) bekezdés szerinti azonnali felfüggesztésre vagy azonnali lezárásra okot adó esemény a támogatási kérelmek benyújtására nyitva álló határidő kezdetétől számított huszonnegyedik órát követően, de a támogatási kérelmek benyújtására nyitva álló határidő lejártát megelőzően következik be, az irányító hatóság a benyújtás lehetőségét azonnal felfüggesztheti vagy a felhívást azonnal lezárhatja.
 
-(5)[^179] Az irányító hatóság a felhívás felfüggesztésére vagy lezárására irányuló döntéséről közleményt készít és azt megküldi az NFK részére közzététel céljából.
+(5)[^182] Az irányító hatóság a felhívás felfüggesztésére vagy lezárására irányuló döntéséről közleményt készít és azt megküldi az NFK részére közzététel céljából.
 
-(6)[^180] Az NFK a közleményt a www.palyazat.gov.hu oldalon közzéteszi.
+(6)[^183] Az NFK a közleményt a www.palyazat.gov.hu oldalon közzéteszi.
 
-[^177]: A 93. § (4) bekezdése az 562/2021. (X. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^178]: A 93. § (4a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 17. §-a iktatta be.
-[^179]: A 93. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 64. pontja szerint módosított szöveg.
-[^180]: A 93. § (6) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 65. pontja szerint módosított szöveg.
+[^180]: A 93. § (4) bekezdése az 562/2021. (X. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^181]: A 93. § (4a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 17. §-a iktatta be.
+[^182]: A 93. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 64. pontja szerint módosított szöveg.
+[^183]: A 93. § (6) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 65. pontja szerint módosított szöveg.

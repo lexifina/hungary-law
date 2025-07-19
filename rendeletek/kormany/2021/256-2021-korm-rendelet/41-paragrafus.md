@@ -10,6 +10,6 @@ a) olyan irányítási és kontrollrendszert alakít ki és működtet, amely bi
 
 b) biztosítja a négy szem elvének érvényesülését az egyes eljárási cselekmények, valamint a kapcsolódó adatok monitoring és információs rendszerbe történő rögzítése során,
 
-c)[^91] gondoskodik az ellenőrzési nyomvonal és az (EU) 2021/1060 európai parlamenti és tanácsi rendelet XVI. melléklet 2.1.5. pontja szerinti kockázatkezelési eljárásrend kialakításáról.
+c)[^92] gondoskodik az ellenőrzési nyomvonal és az (EU) 2021/1060 európai parlamenti és tanácsi rendelet XVI. melléklet 2.1.5. pontja szerinti kockázatkezelési eljárásrend kialakításáról.
 
-[^91]: A 41. § c) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 13. pontja szerint módosított szöveg.
+[^92]: A 41. § c) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 13. pontja szerint módosított szöveg.

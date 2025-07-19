@@ -1,5 +1,5 @@
 257. § (1) A támogatási előlegen alapuló követelés beszámítása vagy visszafizetése után a támogatási előleg újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
 
-(2)[^404] A folyósított támogatási előleg teljes összegével történt elszámolást követően az előleg a 253. § szerinti mértékig, összegig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
+(2)[^409] A támogatási előleggel való részleges vagy teljes elszámolást követően az előleg a 253. § szerinti mértékig, összegig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
 
-[^404]: A 257. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^409]: A 257. § (2) bekezdése a 202/2025. (VII. 16.) Korm. rendelet 27. §-ával megállapított szöveg.
