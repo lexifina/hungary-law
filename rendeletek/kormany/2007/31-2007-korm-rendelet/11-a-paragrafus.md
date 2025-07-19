@@ -22,9 +22,9 @@ h) a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő R�
 
 i) a NIPÜF Nemzeti Ipari Park Üzemeltető és Fejlesztő Zártkörűen Működő Részvénytársaság,
 
-j) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság,
+j)[^60] a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság, valamint
 
-k) a Nemzeti Fejlesztési Központ, valamint
+k)[^61]
 
 l) a védelmi és biztonsági igazgatás központi szerve
 
@@ -33,3 +33,5 @@ számára.
 (3) A Lechner Nonprofit Kft. az (1) bekezdésben foglalt tevékenységének ellátására külön közszolgáltatási szerződést köt a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel.
 
 [^59]: Az „A Nemzeti Ingatlanberuházás Helyszínkereső alkalmazást érintő különös rendelkezések” alcímet (11/A. §-t) a 62/2025. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^60]: A 11/A. § (2) bekezdés j) pontja a 202/2025. (VII. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^61]: A 11/A. § (2) bekezdés k) pontját a 202/2025. (VII. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte.

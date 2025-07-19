@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-31-20-2
 | 2024-06-01 | 2007-31-20-22.35 | 157/2022. (IV. 19.) Korm. rendelet |
 | 2024-07-03 | 2007-31-20-22.36 | 343/2016. (XI. 17.) Korm. rendelet |
 | 2025-04-08 | 2007-31-20-22.37 | 62/2025. (III. 31.) Korm. rendelet |
+| 2025-07-19 | 2007-31-20-22.38 | 202/2025. (VII. 16.) Korm. rendelet |

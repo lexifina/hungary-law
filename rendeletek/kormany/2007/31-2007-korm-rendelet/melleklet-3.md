@@ -226,6 +226,6 @@
 
 | 31. | Nemzeti Fejlesztési Központ | NFK |
 
-3. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^66]
+3. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^68]
 
-[^66]: A 3. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^68]: A 3. számú mellékletet a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
