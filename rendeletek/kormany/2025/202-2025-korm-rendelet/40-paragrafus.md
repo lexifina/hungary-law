@@ -1,0 +1,5 @@
+## 4. A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet módosítása
+
+40. § A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet [a továbbiakban: 373/2022. (IX. 30.) Korm. rendelet] 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A lebonyolító szerv a nemzeti hatóság által meghatározott értékhatár alatt, a nemzeti hatóság előzetes tájékoztatása mellett átmeneti jelleggel vagy speciális szakterületet érintően közreműködőt vonhat be. A nemzeti hatóság előzetes engedélye szükséges a nemzeti hatóság által meghatározott érték felett a lebonyolító szerv feladatellátásához közreműködő bevonásához. Előzetes tájékoztatás és előzetes engedélyeztetés nélkül vonható be az a közreműködő, amely a lebonyolítói megállapodásban az általa ellátandó feladatkör megjelölésével nevesítésre került. A közreműködők teljesítéséért a lebonyolító szerv felel.”
