@@ -1,1 +1,0 @@
-3. § Az Exim törvény 7. § (1) bekezdés f) pontjától eltérően a Magyarország központi költségvetéséről szóló törvényben meg kell határozni a Kormány határozata alapján nyújtott hitel- és kölcsönállomány, valamint kötvényállomány felső határát.
