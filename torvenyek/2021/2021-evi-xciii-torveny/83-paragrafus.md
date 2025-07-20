@@ -29,3 +29,5 @@
 9. az összehangolt védelmi tevékenység elrendelését, valamint az e törvényben meghatározott intézkedések bevezetését.
 
 10. az ország védelme és biztonsága szempontjából jelentős szervezet, az ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésével kapcsolatos részletes szabályokat, az eljáró hatóságokat, a kijelölés ágazati kritériumait.
+
+11. a pilóta nélküli légijármű-védelmi rendszer üzemben tartására kötelezettek kijelölésére, a rendszer beszerzésére, telepítésére és üzemeltetésére vonatkozó részletes szabályokat.

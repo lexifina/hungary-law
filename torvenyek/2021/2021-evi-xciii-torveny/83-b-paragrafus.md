@@ -1,0 +1,1 @@
+83/B. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a pilóta nélküli légijármű elleni védelem – 43. § (1) bekezdése szerinti pilóta nélküli légijármű-védelmi rendszer útján történő – biztosítására jogosult szervet.
