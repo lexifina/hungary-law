@@ -32,13 +32,13 @@ ck) az adózás előtti eredményt módosítja a 18. § előírása alapján meg
 
 (2) Az adózó átalakulásakor, egyesülésekor, szétválásakor
 
-a) a jogelődnél – kivéve, ha az átalakulás, egyesülés, szétválás kedvezményezett átalakulásnak minősül, és teljesülnek a (10)–(11) és (15) bekezdésben előírt feltételek – az adózás előtti eredményt csökkenti az az összeg, amellyel az immateriális javak és a tárgyi eszközök együttes számított nyilvántartási értéke meghaladja együttes könyv szerinti értéküket, növeli az az összeg, amellyel az együttes könyv szerinti érték az együttes számított nyilvántartási értéket meghaladja; kiválás esetén a jogelőd e rendelkezéseket a kiválás adóévében és csak a jogutód részére a végleges vagyonmérleg alapján átadott eszközökre alkalmazza;
+a) a jogelődnél – kivéve, ha az átalakulás, egyesülés, szétválás kedvezményezett átalakulásnak minősül, és teljesülnek a (10)–(11) és (15) bekezdésben előírt feltételek – az adózás előtti eredményt csökkenti az az összeg, amellyel az immateriális javak és a tárgyi eszközök együttes számított nyilvántartási értéke meghaladja együttes könyv szerinti értéküket, növeli az az összeg, amellyel az együttes könyv szerinti érték az együttes számított nyilvántartási értéket meghaladja; kiválás esetén a jogelőd e rendelkezéseket a kiválás adóévében és csak a jogutód részére a végleges vagyonmérleg, végleges vagyonmérleg hiányában az annak megfeleltethető nyilvántartás alapján átadott eszközökre alkalmazza;
 
 b)
 
 c)
 
-d) a jogelődnél, kiválás esetén a jogutódnál első adóévében, az adózás előtti eredményt módosítja a végleges vagyonmérlegében kimutatott összevont átértékelési különbözetnek a követelések leértékelésével és a céltartalék felértékelésével növelt, valamint a céltartalék leértékelésével csökkentett összege, figyelemmel a (9)–(11) bekezdésben foglaltakra;
+d) a jogelődnél, kiválás esetén a jogutódnál első adóévében, az adózás előtti eredményt módosítja a végleges vagyonmérlegében, végleges vagyonmérleg hiányában az annak megfeleltethető nyilvántartásában kimutatott összevont átértékelési különbözetnek a követelések leértékelésével és a céltartalék felértékelésével növelt, valamint a céltartalék leértékelésével csökkentett összege, figyelemmel a (9)–(11) bekezdésben foglaltakra;
 
 e)
 
