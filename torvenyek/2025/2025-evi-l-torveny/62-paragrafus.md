@@ -1,0 +1,1 @@
+62. § Az adatszolgáltatási kötelezettség a csatlakozási szándékot tartalmazó nyilatkozat Gazdasági Versenyhivatal általi jóváhagyását követő ötödik munkanaptól terheli az árfigyelő rendszerbe történő adatszolgáltatás teljesítését önként vállaló kereskedőt.

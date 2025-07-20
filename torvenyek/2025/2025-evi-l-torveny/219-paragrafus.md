@@ -1,0 +1,5 @@
+219. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 210. §-a a következő (14) és (15) bekezdéssel egészül ki:
+
+„(14) Az (5)–(13) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(15) A (14) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a főispánt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.”

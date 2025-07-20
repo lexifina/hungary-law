@@ -1,0 +1,5 @@
+197. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény a következő 99/C. §-sal egészül ki:
+
+„99/C. § (1) E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény (a továbbiakban: Módtv.) által megállapított 89/B. §-át azon köznevelési intézmény tekintetében is alkalmazni kell, amely működésének veszélyeztetettsége a Módtv. hatálybalépésekor fennáll.
+
+(2) E törvénynek a Módtv. által megállapított 89/B. §-ának hatálybalépését megelőzően a fenntartó részére folyósított – nem állami köznevelési tevékenységhez kapcsolódó – állami támogatások terhére a végrehajtási eljárás keretében érvényesített összeg nem minősül az Áht. 53/A. §-a szerinti jogosulatlan igénybevételnek.”

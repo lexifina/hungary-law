@@ -1,0 +1,1 @@
+26. § A menedékes, a menedékesként elismerést kérő, az ideiglenes védelemre jogosult és a magyar állampolgár elhelyezése után járó támogatásokra vonatkozó szabályok nem alkalmazhatók, ha a szállásadó részükre önkéntes felajánlás alapján nyújt szálláshelyet.

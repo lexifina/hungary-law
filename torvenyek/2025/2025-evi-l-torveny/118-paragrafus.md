@@ -1,0 +1,1 @@
+118. § E Fejezet rendelkezéseit a közszolgáltatások ellenértékének rendezésével kapcsolatos szabályokról szóló 254/2024. (VIII. 22.) Korm. rendelet hatálybalépésekor meg nem fizetett, 117. § szerinti tartozások esetében is alkalmazni kell akkor, ha a tartozás érvényesítése iránt peres eljárás vagy nemperes eljárás, továbbá végrehajtási eljárás nincs folyamatban.

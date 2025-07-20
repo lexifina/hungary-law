@@ -1,0 +1,1 @@
+191. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény 18. § (1) bekezdés a) pontjában az „a vezetendő” szövegrész helyébe az „a támogatási szerződés eredeti támogatási céljának módosítására vonatkozó szabályokat, a vezetendő” szöveg lép.

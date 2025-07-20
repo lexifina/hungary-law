@@ -1,0 +1,1 @@
+114. § E Fejezet rendelkezéseit a kisajátításról szóló 2007. évi CXXIII. törvény eltérő alkalmazásáról szóló 362/2023. (VII. 31.) Korm. rendelet hatálybalépését követően indult, és e Fejezet hatálybalépésekor folyamatban lévő kisajátítási eljárásokban is alkalmazni kell.

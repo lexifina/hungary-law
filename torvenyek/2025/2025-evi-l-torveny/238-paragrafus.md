@@ -1,0 +1,1 @@
+238. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 121. § (3) bekezdésében a „szól.” szövegrész helyébe a „szól. A beutazási és tartózkodási tilalom a feltételes ügyészi felfüggesztésről hozott határozat esetén a felfüggesztés időtartamára szól.” szöveg lép.

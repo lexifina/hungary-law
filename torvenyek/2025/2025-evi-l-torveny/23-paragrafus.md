@@ -1,0 +1,1 @@
+23. § Ha a menedékes kiskorú ellátásáról gondoskodik, a kiskorú elhelyezése céljából az általános szabályok szerint jogosult igénybe venni a bölcsődei ellátást, az óvodai gondozást, nevelést, ellátást és a Biztos Kezdet Gyerekház szolgáltatásait.

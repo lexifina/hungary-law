@@ -1,0 +1,1 @@
+28. § Jogszabályban meghatározott esetben a karitatív feladatokat ellátó egyesület által kapott, az elszállásolt menedékes, menedékesként elismerést kérő, ideiglenes védelemre jogosult, illetve magyar állampolgár szállása és ellátása utáni egyedi támogatása – az általános forgalmi adó kivételével – mentes a közterhek alól.

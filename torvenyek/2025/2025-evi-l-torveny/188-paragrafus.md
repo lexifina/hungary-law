@@ -1,0 +1,3 @@
+188. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény „Átmeneti rendelkezések” alcíme a következő 92/A. §-sal egészül ki:
+
+„92/A. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 13. § (11) és (12) bekezdését az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

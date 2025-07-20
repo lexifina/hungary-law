@@ -1,0 +1,1 @@
+13. § A menedékesként elismerését kérőnek bizonyítania kell, hogy megfelel a 11. § b) pont ba)–bc) alpontja szerinti valamely feltételnek. Bizonyítékként elsősorban a személyazonosságot igazoló okmány használható fel.
