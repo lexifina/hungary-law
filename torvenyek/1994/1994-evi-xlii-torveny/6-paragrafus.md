@@ -8,7 +8,7 @@ b) kormányrendeletben előírt feltételekkel vállalt garanciaügyletek esetle
 
 c) a deviza- és kamatcsere ügyletek pótlási költségéből, valamint
 
-d) nyújtott, a hitelfelvevőt terhelő, a Kormány határozatában megjelölt hitel- és pénzkölcsönből
+d) nyújtott, a hitelfelvevőt terhelő, a Kormány határozatában megjelölt hitel- és pénzkölcsönből, valamint jegyzett vagy más jogcímen megszerzett, a kibocsátót terhelő, a Kormány határozatában megjelölt kötvényekből
 
 eredő fizetési kötelezettségek teljesítéséért.
 
