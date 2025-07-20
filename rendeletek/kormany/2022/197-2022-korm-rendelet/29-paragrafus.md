@@ -1,1 +1,0 @@
-## 28. § A 13. alcímet és a 14. alcímet nem kell alkalmazni az e rendelet hatálybalépését követően megkötött koncessziós szerződés alapján vagy megállapított bányatelekből kitermelt kőolaj és földgáz tekintetében.
