@@ -1,3 +1,3 @@
-125. §[^605]
+125. §[^609]
 
-[^605]: Az Ávr. 125. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 5. pontja hatályon kívül helyezte.
+[^609]: Az Ávr. 125. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 5. pontja hatályon kívül helyezte.

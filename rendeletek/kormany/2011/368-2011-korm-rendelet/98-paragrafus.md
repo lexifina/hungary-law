@@ -8,16 +8,16 @@ b) külföldi törvényes fizetőeszköz pénznemében meghatározott pénztarto
 
 (3) Az ügyleti kamat számításakor a visszaköveteléssel, a késedelmi kamat számításakor a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat, illetve külföldi kamat irányadó az adott naptári félév teljes idejére.
 
-(4)[^474] Az ügyleti kamat számításának kezdő időpontja a támogatási előleg vagy a költségvetési támogatás folyósításának napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja. Ha a támogatási előleg vagy a költségvetési támogatás folyósítására részletekben került sor, a jogosulatlan igénybevétel kezdő időpontja a visszafizetési kötelezettség összegével megegyező támogatási részlet folyósításának napja azzal, hogy a számítást az utolsó részlet folyósításának napjától kezdődően visszafelé kell elvégezni. A késedelmi kamat számításának kezdő időpontja a kötelezett késedelembe esésének napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.
+(4)[^478] Az ügyleti kamat számításának kezdő időpontja a támogatási előleg vagy a költségvetési támogatás folyósításának napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja. Ha a támogatási előleg vagy a költségvetési támogatás folyósítására részletekben került sor, a jogosulatlan igénybevétel kezdő időpontja a visszafizetési kötelezettség összegével megegyező támogatási részlet folyósításának napja azzal, hogy a számítást az utolsó részlet folyósításának napjától kezdődően visszafelé kell elvégezni. A késedelmi kamat számításának kezdő időpontja a kötelezett késedelembe esésének napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.
 
 (5) A támogató a támogatói okirat visszavonása vagy a támogatási szerződés módosítása, felmondása vagy az attól történő elállás nélkül is elrendelheti a költségvetési támogatás részleges – a jogszabálysértéssel, illetve a nem rendeltetésszerű vagy szerződésellenes felhasználással arányos mértékű – visszafizetését. Ebben az esetben a kedvezményezett a jogosulatlanul igénybe vett támogatás összegét az Áht. 53/A. § (2) bekezdése szerint köteles visszafizetni.
 
 (6) Ha a visszafizetési kötelezettség a támogató saját érdekkörében felmerülő okból keletkezett, a támogatás visszafizetése a megállapított fizetési határidőig kamatmentes.
 
-(7)[^475] A kedvezményezett az el nem számolt támogatási előleg összegét az Áht. 53/A. § (2) bekezdésében meghatározottak szerint köteles visszafizetni.
+(7)[^479] A kedvezményezett az el nem számolt támogatási előleg összegét az Áht. 53/A. § (2) bekezdésében meghatározottak szerint köteles visszafizetni.
 
-(8)[^476] Részletfizetés engedélyezése esetén a jogosulatlanul igénybe vett támogatási összegre vonatkozóan engedélyezett részleteket az utolsó részlet visszafizetés napjáig terheli ügyleti és késedelmi kamatfizetési kötelezettség.
+(8)[^480] Részletfizetés engedélyezése esetén a jogosulatlanul igénybe vett támogatási összegre vonatkozóan engedélyezett részleteket az utolsó részlet visszafizetés napjáig terheli ügyleti és késedelmi kamatfizetési kötelezettség.
 
-[^474]: Az Ávr. 98. § (4) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 14. pontja, a 462/2024. (XII. 30.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
-[^475]: Az Ávr. 98. § (7) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
-[^476]: Az Ávr. 98. § (8) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^478]: Az Ávr. 98. § (4) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 14. pontja, a 462/2024. (XII. 30.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
+[^479]: Az Ávr. 98. § (7) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^480]: Az Ávr. 98. § (8) bekezdését a 462/2024. (XII. 30.) Korm. rendelet 5. §-a iktatta be.

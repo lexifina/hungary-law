@@ -1,3 +1,3 @@
-105/A. §[^513] A támogatás igénylése és módosítása megalapozottságának ellenőrzését végző személyre a 109. § (4) bekezdését alkalmazni kell. Ha a támogatás igénylésének és módosításának megalapozottsága ellenőrzése során helyszíni ellenőrzésre kerül sor, a helyszíni ellenőrzésre a 109/A–109/C. §-t kell alkalmazni.
+105/A. §[^517] A támogatás igénylése és módosítása megalapozottságának ellenőrzését végző személyre a 109. § (4) bekezdését alkalmazni kell. Ha a támogatás igénylésének és módosításának megalapozottsága ellenőrzése során helyszíni ellenőrzésre kerül sor, a helyszíni ellenőrzésre a 109/A–109/C. §-t kell alkalmazni.
 
-[^513]: Az Ávr. 105/A. §-a a 175/2015. (VII. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^517]: Az Ávr. 105/A. §-a a 175/2015. (VII. 7.) Korm. rendelet 16. §-ával megállapított szöveg.

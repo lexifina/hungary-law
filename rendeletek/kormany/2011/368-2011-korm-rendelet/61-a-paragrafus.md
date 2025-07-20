@@ -14,7 +14,7 @@ c) véleményezi az 56/A. § (1) bekezdése szerinti intézkedési tervet, ellen
 
 d) ellenőrzi a kijelölt szerv részére egyedi kormánydöntés alapján biztosított forrás felhasználását.
 
-(1a)[^296] Az Áht. 39. § (1a) bekezdése alapján a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére megbízott költségvetési felügyelő feladat- és hatáskörét az államháztartásért felelős miniszter a feladattal érintett szerv vagy testület vezetőjével előzetesen egyeztetettek szerint határozza meg.
+(1a)[^296] Az Áht. 39. § (1) bekezdése alapján a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére megbízott költségvetési felügyelő feladat- és hatáskörét az államháztartásért felelős miniszter a feladattal érintett szerv vagy testület vezetőjével előzetesen egyeztetettek szerint határozza meg.
 
 (2) Az (1) bekezdés a) pont ac) alpontja alkalmazásában tervezéssel, gazdálkodással, beszámolással összefüggő intézkedés
 
@@ -44,7 +44,7 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 [^294]: Az Ávr. 61/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.
 [^295]: Az Ávr. 61/A. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^296]: Az Ávr. 61/A. § (1a) bekezdését a 480/2022. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^296]: Az Ávr. 61/A. § (1a) bekezdését a 480/2022. (XI. 28.) Korm. rendelet 6. §-a iktatta be, szövege a 210/2025. (VII. 17.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^297]: Az Ávr. 61/A. § (2) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 26. § (2) bekezdés 3. pontja szerint módosított szöveg.
 [^298]: Az Ávr. 61/A. § (2) bekezdés c) pontja a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
 [^299]: Az Ávr. 61/A. § (3) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 9. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
