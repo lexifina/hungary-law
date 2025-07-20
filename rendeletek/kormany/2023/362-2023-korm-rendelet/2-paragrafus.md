@@ -1,1 +1,0 @@
-2. § A Kstv. 3. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kisajátítást kérő által hirdetményi úton tett vételi ajánlat is érvényesnek tekinthető az 1. § (1) és (2) bekezdésében foglalt jogosultak esetében.

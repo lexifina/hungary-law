@@ -1,1 +1,0 @@
-3. § A Kstv. 22. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy amennyiben a kisajátítást kérő a kisajátítási kérelemhez az eljárásban felhasználható előzetes szakvéleményt csatol, akkor a kisajátítási eljárás ügyintézési határideje negyvenöt nap.
