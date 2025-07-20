@@ -107,3 +107,7 @@ e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő mag
 (16a) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
 
 (17) A vasúti közlekedési hatóság a feladatai ellátásához szükséges információk és adatok –beleértve az üzleti titkot is – szolgáltatására, iratok bemutatására kötelezheti indítványra, vagy hivatalból a vasúti társaságot, a megfelelőségértékelő szervezetet, a kockázatértékelő szervezetet, a karbantartást végző szervezetet, valamint a VPSZ-t.
+
+(18) A közlekedési hatóság évente ellenőrzi, hogy a bejelentett, illetve kijelölt megfelelőségértékelő szervezetek és elismert kockázatértékelést végző szervezetek alkalmasságának vizsgálatára vonatkozó hatósági döntésének alapjául szolgáló feltételek fennállnak-e.
+
+(19) A (18) bekezdés szerinti ellenőrzéssel érintett szervezetek évente május 31. napjáig – első alkalommal 2025. november 30. napjáig – felügyeleti díjat fizetnek a vasúti közlekedési hatóság részére. A felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatóság hatósági feladataival összefüggésben használ fel. Az éves felügyeleti díj mértéke megegyezik az annak megállapításakor hatályos díjrendelet szerinti, a tevékenységekre vonatkozó igazgatási szolgáltatási díjjal.
