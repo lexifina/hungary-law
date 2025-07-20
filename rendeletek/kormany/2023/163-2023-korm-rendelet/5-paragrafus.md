@@ -1,1 +1,0 @@
-5. § Az árfigyelő rendszerbe tartozó termékkategóriák felsorolását, az egyes termékkategóriákba tartozó, bejelentési kötelezettséggel érintett termékek körét, valamint a termékhez tartozó ártípust a miniszter rendelete tartalmazza.
