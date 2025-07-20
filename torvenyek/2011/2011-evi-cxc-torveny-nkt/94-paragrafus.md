@@ -84,7 +84,7 @@ cc) az érettségi vizsgán részt vevő pedagógusok díjazását és az érett
 
 d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
 
-e)
+e) a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejlesztésének, nevelésének-oktatásának megvalósítása érdekében szükséges finanszírozást,
 
 f) a pedagógus-továbbképzés rendszerét, a továbbképzés szervezését végző szervet vagy szerveket, a pedagógus-továbbképzés programjának, a továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét,
 
@@ -108,7 +108,7 @@ o) a hivatalnak az Országos Statisztikai Adatfelvételi Program végrehajtásá
 
 p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
 
-q)
+q) az Európai Unió által biztosított forrásokból történő béremeléshez nyújtott központi költségvetési többletforrások felhasználásának céljából az intézményi szintű átlagos pedagógusilletmény-emelés mértékét, az arra jogosultak körét, végrehajtásának alapelveit, valamint az ahhoz kapcsolódó állami kiegészítő támogatás, igénylésének, folyósításának és felhasználásának részletszabályait,
 
 r) a készségfejlesztő iskolában az utolsó gyakorlati évfolyam elvégzését igazoló bizonyítvánnyal tanúsított végzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 
