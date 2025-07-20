@@ -1,3 +1,3 @@
-8/H. §[^63]
+8/H. §[^64]
 
-[^63]: A Vhr. 8/H. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja.
+[^64]: A Vhr. 8/H. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja.

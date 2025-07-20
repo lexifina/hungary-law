@@ -1,6 +1,6 @@
 ## (A Bt. 41. §-ához)
 
-25. §[^142] (1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa jogi személy esetén a következő összegek közül a magasabb
+25. §[^143] (1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa jogi személy esetén a következő összegek közül a magasabb
 
 a) a jogsértést elkövető jogi személy – hatósági eljárás megindítását megelőző évben szerzett – nettó árbevételének 5%-a vagy
 
@@ -18,7 +18,7 @@ b) ötszázmillió forint.
 
 (7) Szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányafelügyelet megküldi az ingatlanügyi hatóságnak.
 
-(8)[^143] A bányafelügyelet törli a földtani szakértőt, a hites bányamérőt és a bányaüzemi felelős műszaki vezetőt a nyilvántartásból, ha a tevékenysége folytatásától a bányafelügyelet végleges döntésével vagy a bíróság jogerős határozatával eltiltotta.
+(8)[^144] A bányafelügyelet törli a földtani szakértőt, a hites bányamérőt és a bányaüzemi felelős műszaki vezetőt a nyilvántartásból, ha a tevékenysége folytatásától a bányafelügyelet végleges döntésével vagy a bíróság jogerős határozatával eltiltotta.
 
-[^142]: A Vhr. 25. §-a a 141/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^143]: A Vhr. 25. § (8) bekezdése a 471/2024. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^143]: A Vhr. 25. §-a a 141/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^144]: A Vhr. 25. § (8) bekezdése a 471/2024. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
