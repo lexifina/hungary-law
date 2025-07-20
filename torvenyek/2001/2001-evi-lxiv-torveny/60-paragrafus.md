@@ -1,3 +1,5 @@
+## Közérdekű kulturális érték
+
 60. § (1) A hatóság a tulajdonos vagy a tárgyak kezelésére jogosult kérelmére közérdekű kulturális értékként nyilvántartásba veszi azokat a tárgyakat, amelyek
 
 a) rendelkeznek azonosításra alkalmas nyilvántartással, és
