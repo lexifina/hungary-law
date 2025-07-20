@@ -1,1 +1,0 @@
-5. § A 2. §-t első alkalommal a 2024. adóévi adókötelezettségre kell alkalmazni. Ha a hitelintézet e rendelet hatálybalépését megelőzően a Különadó törvény 4/A. § (20) bekezdése szerinti csökkentést tartalmazó bevallást nyújtott be a 2024. adóévére, a bevallást önellenőrzési pótlék mentesen önellenőrizheti a csökkentő tétellel kapcsolatban.
