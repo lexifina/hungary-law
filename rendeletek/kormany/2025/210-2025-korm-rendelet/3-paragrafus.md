@@ -1,0 +1,3 @@
+3. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 87/A. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A költségvetési év utolsó két hónapjában a támogató az (1) bekezdés b)–d) pontja szerinti esetben a kedvezményezett megalapozottan indokolt kérelme alapján – egy összegben vagy részletekben – további támogatási előleget adhat a (2) bekezdés szerinti elszámolás hiányában, valamint a támogató (2) bekezdés szerinti biztosíték adására vagy részbeszámoló benyújtására vonatkozó kikötése nélkül. Ebben az esetben a költségvetési évben nyújtott valamennyi támogatási előleg rendeltetésszerű felhasználásáról a kedvezményezettnek a beszámolóban kell elszámolnia.”

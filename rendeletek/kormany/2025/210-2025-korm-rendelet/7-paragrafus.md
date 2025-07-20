@@ -1,0 +1,3 @@
+7. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 176. §-a a következő (33) bekezdéssel egészül ki:
+
+„(33) E rendeletnek az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet és az egyes kormányrendeleteknek a Magyarország 2025. évi központi költségvetésének megalapozásával összefüggő módosításáról szóló 462/2024. (XII. 30.) Korm. rendelet módosításáról szóló 210/2025. (VII. 17.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított 86. § (1) bekezdését, 87. § (1) és (2) bekezdését, valamint 87/A. § (5) bekezdését a Módr10. hatálybalépésekor folyamatban lévő támogatási jogviszonyokban is alkalmazni kell.”
