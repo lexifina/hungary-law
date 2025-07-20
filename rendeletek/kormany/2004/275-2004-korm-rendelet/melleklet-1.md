@@ -1,3 +1,3 @@
-1. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^68]
+1. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^69]
 
-[^68]: Az 1. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^69]: Az 1. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

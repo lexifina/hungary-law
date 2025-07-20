@@ -906,7 +906,7 @@
 
 | 101. |  | Bythiospeum hungaricum (Paladilhia hungarica) | magyar vakcsiga |
 
-3. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^70]
+3. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^71]
 
 3. A) számú melléklet
 
@@ -1650,4 +1650,4 @@ Közösségi jelentőségű növényfajok
 
 Kiemelt közösségi jelentőségű növényfajok
 
-[^70]: A 3. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^71]: A 3. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 14. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^67] Ez a rendelet
+(2)[^68] Ez a rendelet
 
 a) a vadon élő madarak védelméről szóló, 1979. április 2-i 79/409/EGK tanácsi irányelv 3. cikk (2) bekezdés a) pontjának, 4. cikk (1)–(3) bekezdésének, 9. cikk (3) bekezdésének, 10. cikkének, 12. cikk (1) bekezdésének, I. és V. mellékletének, valamint az I. mellékletet módosító
 
@@ -38,4 +38,4 @@ d) a környezetvédelem területén elfogadott egyes irányelveknek a Horvát K�
 
 való megfelelést szolgálja.
 
-[^67]: A 14. § (2) bekezdése a 337/2013. (IX. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^68]: A 14. § (2) bekezdése a 337/2013. (IX. 25.) Korm. rendelet 1. §-ával megállapított szöveg.

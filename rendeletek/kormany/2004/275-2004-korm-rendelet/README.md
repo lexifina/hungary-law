@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-275-20-
 | 2020-01-01 | 2004-275-20-22.17 | 324/2019. (XII. 19.) Korm. rendelet |
 | 2021-01-01 | 2004-275-20-22.18 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2024-01-01 | 2004-275-20-22.19 | 561/2023. (XII. 14.) Korm. rendelet |
+| 2025-07-20 | 2004-275-20-22.20 | 208/2025. (VII. 17.) Korm. rendelet |
