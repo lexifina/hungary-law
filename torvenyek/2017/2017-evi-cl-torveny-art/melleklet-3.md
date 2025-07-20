@@ -293,23 +293,3 @@
 ## 2.
 
 ## 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.
-
-## 4. Az adózó – az adóról szóló önkormányzati rendelet évközi hatálybalépése esetét kivéve – az építményadót, telekadót, magánszemély kommunális adóját a naptári évben félévente, két egyenlő részletben – végrehajtható okirat alapján – március hónap tizenötödik napjáig, valamint szeptember hónap tizenötödik napjáig fizeti meg.
-
-## III.
-
-## KÖLTSÉGVETÉSI TÁMOGATÁSOK
-
-## 1. Az állami adó- és vámhatóságtól a költségvetési támogatást az adózó ezer forintra kerekítve igényelheti.
-
-## 2. Ha a támogatást megállapító jogszabály eltérően nem rendelkezik,
-
-## 2.1. a havonta megállapított költségvetési támogatást az adózó havonta a tárgyhót követő hó huszadik napjától,
-
-## 2.2. a feltétel bekövetkeztéhez kötött költségvetési támogatást az előírt mellékletekkel ellátott bevallás benyújtása időpontjától
-
-## igényelheti.
-
-## 3. Gyakoribb igénybevétel, egyszeri támogatási előleg
-
-## 3.1 Az adóhatóság az adózó igénylésére a költségvetési támogatásokat kiutalja, kérelemre azt indokolt esetben gyakrabban folyósítja, illetve a költségvetési támogatásra egyszeri támogatási előleg kiutalását engedélyezi.
