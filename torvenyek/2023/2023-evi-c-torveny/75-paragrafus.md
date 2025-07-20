@@ -16,6 +16,8 @@ kell elkészíteni.
 
 (3) Az államigazgatási szerv a (2) bekezdés szerinti adatszolgáltatásért és véleményezésért, valamint a településterv egyeztető tárgyalásán való részvételért díjat nem számíthat fel.
 
+(3a) A (3) bekezdés szerinti véleményezés és egyeztető tárgyalás elektronikus úton is lefolytatható.
+
 (4) A településterv készítéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a Mezőgazdasági Parcella Azonosító Rendszer a településrendezési és településfejlesztési feladatok ellátásához szükséges adattartalmú felszínborítási rétegét, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5) a földmérési és térinformatikai államigazgatási szerv térítésmentesen biztosítja digitális egyeztető felületen (a továbbiakban: E-TÉR) keresztül.
 
 (5) A településterv elfogadását megelőző egyeztetési eljárás során nem támogató záró szakmai véleményt csak indokolással és jogszabályi hivatkozással ellátva lehet kiadni. Ha a záró szakmai vélemény megküldésére a (2) bekezdés szerinti kormányrendeletben megállapított határidő lejártát követő ötödik napon sem került sor, a településterv elfogadható.

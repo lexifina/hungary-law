@@ -1,8 +1,12 @@
 ### 194. § [A kiemelt beruházásokra és a kiemelt jelentőségű ügyekre irányadó különös szabályok]
 
-(1) Kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg – a kiemelt jelentőségű üggyé nyilvánítással egyidejűleg – a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges, a helyi önkormányzat vagy az állam tulajdonában álló közterület díjmentes használatának feltétlenül szükséges időtartamát. A kiemelt beruházás megvalósítója a beruházással összefüggésben történő, a közút nem közlekedési célú igénybevétele esetén igénybevételi díj vagy óvadék fizetésére nem kötelezhető.
+(1) Kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg – a kiemelt jelentőségű üggyé nyilvánítással egyidejűleg – a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges, a helyi önkormányzat vagy az állam tulajdonában álló közterület díjmentes, külön engedély vagy hozzájárulás nélküli használatának feltétlenül szükséges időtartamát. A kiemelt beruházás megvalósítója a beruházással összefüggésben történő, a közút nem közlekedési célú igénybevétele esetén igénybevételi díj vagy óvadék fizetésére nem kötelezhető.
 
 (2) Kiemelt jelentőségű ügyben törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint hatóságként jár el.
+
+(2a) A közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – az (1) bekezdés szerinti jogszabályban kijelölhető az eljáró fővárosi és vármegyei kormányhivatal azzal, hogy az önkormányzati rendelet közcélú kiemelt beruházás megvalósításával ellentétes vagy össze nem egyeztethető előírásait nem kell alkalmazni.
+
+(2b) Az ügyintézési határidő a (2a) bekezdés szerinti nyilatkozatok kiadására irányuló eljárás esetén nyolc nap.
 
 (3) Kiemelt jelentőségű ügyben törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárást folytat le.
 

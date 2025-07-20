@@ -206,9 +206,9 @@ g) a Kiemelt Nemzeti Emlékhely Bizottsághoz benyújtandó kérelem tartalmára
 
 63. az építésgazdasági feladatellátás hatékonysága érdekében az építésgazdaság szereplői tevékenységére vonatkozó szabályokat, valamint a 203. § (7) bekezdés a)–g) pontja szerinti esetekben az építésgazdaság fogalom körébe tartozó tevékenységek, szolgáltatások, követelmények, kutatás, műszaki fejlesztés, hatáskörök és hatósági jogkörök érvényesítése érdekében az e törvény egyes rendelkezéseitől való eltérés szabályait,
 
-64. az építési alapanyagok körének megállapítása, továbbá a stratégiai jelentőségű építési anyagok kivitele vagy behozatala esetén teljesítendő bejelentés részletes szabályaira és a bejelentés személyes adatot nem tartalmazó adattartalmára, az e törvény szerinti elővásárlási jog gyakorlásának eseteire és lebonyolítására vonatkozó részletes szabályokat,
+64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását, továbbá a hasznosított építési-bontási hulladékok kapcsán az újrafeldolgozó és az értékesítő által szolgáltatandó adatokra vonatkozó részletes szabályait,
 
-65. a stratégiai jelentőségű építési anyagot gyártóüzem értékesítése esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,
+65. a stratégiai jelentőségű építési anyagot gyártó üzem értékesítése, továbbá a stratégiai jelentőségű építési anyag kivitele esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,
 
 66. a NÉNY rendszerrel összefüggésben
 
@@ -307,6 +307,8 @@ f) kiemelt beruházással kapcsolatosan a változtatási, a telekalakítási és
 g) a kiemelt beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégzésére és elszámolására vonatkozó részletes szabályokat,
 
 h) a kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait.
+
+i) a közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – jogosult szerv kijelölését.
 
 (3) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben szabályozza
 

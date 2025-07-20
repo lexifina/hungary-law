@@ -12,10 +12,10 @@
 
 a)
 
-b) az építési anyag forgalmazók a meghatározott stratégiai jelentőségű építési anyagok Magyarország területéről történő kivitelét és Magyarországra történő behozatalát az arra jogosult szervezet részére kötelesek bejelenteni, és
+b)
 
-c) annak érdekében, hogy a Magyarországon képződött építési-bontási eredetű hulladékok – különös tekintettel a fémhulladékokra – újrahasznosítása elsősorban Magyarország területén valósuljon meg, az újrafeldolgozó és az értékesítő köteles az építésgazdaságért felelős miniszter által működtetett és felügyelt NÉNY-be adatokat szolgáltatni.
+c) annak érdekében, hogy a Magyarországon képződött építési-bontási hulladékok – különös tekintettel a fémhulladékokra – hasznosítása elsősorban Magyarország területén valósuljon meg, az újrafeldolgozó és az értékesítő köteles az építésgazdaságért felelős miniszter részére adatokat szolgáltatni.
 
-(4) A magyar államot, vagy más – kormányrendeletben erre feljogosított szervet, szervezetet – az építési anyagok tekintetében elővásárlási jog illeti meg jogszabályban meghatározott esetekben és feltételekkel, amennyiben az építési anyag hazai felhasználása jogszabályban megjelölt közfeladat ellátásához, közszolgáltatás nyújtásához vagy közérdekű cél megvalósításához továbbá közbiztonság megteremtéséhez szükséges.
+(4) A magyar államot, vagy más – kormányrendeletben erre feljogosított – szervet, szervezetet a stratégiai jelentőségű építési anyagok tekintetében elővásárlási jog illeti meg jogszabályban meghatározott esetekben és feltételekkel, amennyiben a stratégiai jelentőségű építési anyag hazai felhasználása jogszabályban megjelölt közfeladat ellátásához, közszolgáltatás nyújtásához vagy közérdekű cél megvalósításához továbbá közbiztonság megteremtéséhez szükséges.
 
 (5)

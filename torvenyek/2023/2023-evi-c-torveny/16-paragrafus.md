@@ -270,6 +270,10 @@ b) közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaöveze
 
 114. sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, energiaellátási, bányászati tevékenységgel és a bányászati és egyéb hulladék kezelésével kapcsolatos, a nem bányászati hulladék kezelési rendeltetésű építmény, atomenergia alkalmazására szolgáló, a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények, valamint a vízilétesítmények, amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség;
 
+114a. stratégiai jelentőségű építési anyag: az építésgazdaságért felelős miniszter rendeletében megjelölt jelentős építési alapanyagok és építési termékek összessége, amelyek a hazai építésgazdaság ellátásbiztonsága érdekében nélkülözhetetlenek;
+
+114b. stratégiai jelentőségű építési anyagot gyártó üzem: építmény vagy terület vagy ezek összessége, ahol ipari méretekben állítanak elő stratégiai jelentőségű építési anyagokat, különböző gyártási folyamatok és gyártási technológia segítségével, és amely a gyártási tevékenységhez a jogszabályban meghatározott jogi és műszaki feltételek alapján engedéllyel rendelkezik vagy ezen feltételek szerint a gyártási tevékenységre alkalmassá tehető;
+
 115. tájépítészet: olyan alkalmazott tudományos és művészeti szakterület, amely a táj, az épített és természeti környezet együttes alakításával, tájépítészeti alkotások és a települési zöldinfrastruktúra létrehozásával, megőrzésével, fejlesztésével foglalkozik;
 
 116. tájépítészeti alkotás: az épített környezet részét képező – tájépítészeti eszközökkel alakított – tervezett szabadtér, amely önálló építményeket foglal magában, vagy azokhoz kapcsolódik, és egyben természeti elemeket is tartalmaz;
