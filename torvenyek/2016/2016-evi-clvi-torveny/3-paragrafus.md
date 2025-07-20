@@ -22,4 +22,4 @@ c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai
 
 d) a kiemelt állami turisztikai beruházások végrehajtása, a kiemelt állami turisztikai beruházások során létrejött létesítmények, valamint az egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem üzemeltetése, fenntartása és hasznosítása.
 
-(5) Az állam a (4) bekezdésben foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt. útján látja el, azzal, hogy a Magyar Turisztikai Ügynökség Zrt. a (4) bekezdés d) pontjában foglalt feladatokat a Kormánynak az e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: rendelet) meghatározottak esetén a 4. § (1) és (1a) bekezdése szerinti gazdasági társaságok útján látja el.
+(5) Az állam a (4) bekezdésben foglalt feladatokat költségvetési szerv vagy a Magyar Turisztikai Ügynökség Zrt. útján látja el, azzal, hogy a Magyar Turisztikai Ügynökség Zrt. a (4) bekezdés d) pontjában foglalt feladatokat a Kormánynak az e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: rendelet) meghatározottak esetén a 4. § (1) és (1a) bekezdése szerinti gazdasági társaságok útján látja el.

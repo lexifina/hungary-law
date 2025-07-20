@@ -26,6 +26,8 @@ bc) a kulturális örökség védelméért felelős miniszter
 
 tulajdonosi joggyakorlása alatt áll.
 
+(1b) Az (1) bekezdésben foglalt feladatokat költségvetési szerv is elláthatja.
+
 (2) Az (1) bekezdés szerinti gazdasági társaságokban az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek gyakorlóját az állami vagyon felügyeletéért felelős miniszter rendeletben jelöli ki.
 
 (3) A Kormány a rendeletben állapítja meg
