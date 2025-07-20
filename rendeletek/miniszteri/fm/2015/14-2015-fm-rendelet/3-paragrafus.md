@@ -4,23 +4,18 @@
 
 a) 22. pontja,
 
-b)[^5] 23. pont 1–7. alpontja,
+b)[^10] 23. pont 1–7. alpontja,
 
 c) 25–33. pontja,
 
-d)[^6] 34. pont 1. és 3. alpontja és
+d)[^11] 34. pont 1. és 3. alpontja és
 
 e) az a)–d) pontokhoz kapcsolódóan 37. és 38. pontja
 
 alá tartozó tevékenységekre terjed ki.
 
-(2) A területi vízügyi igazgatóságoknak, valamint az Országos Vízügyi Főigazgatóságnak a vízgazdálkodásról szóló 1995. évi LVII. törvényben biztosított díjfizetési mentessége az 1. melléklet
+(2)[^12]
 
-a) 21. pontja és
-
-b) az a) ponthoz kapcsolódóan 37. és 38. pontja
-
-alá tartozó tevékenységekre terjed ki.
-
-[^5]: A 3. § (1) bekezdés b) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 3. § (1) bekezdés d) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés d) pontja a 75/2015. (XI. 24.) FM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdését a 14/2025. (VI. 19.) EM rendelet 12. § c) pontja hatályon kívül helyezte.

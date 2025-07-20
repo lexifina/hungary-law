@@ -30,77 +30,77 @@
 
 | 13. |  |  |  |
 
-| 14. |  | Helyhez kötött légszennyező pontforrás létesítésének, teljesítménybővítésének, élettartalmát meghosszabbító felújításának, használatba vételének, az alkalmazott technológia váltásának engedélyezése önálló eljárásban a levegő védelméről szóló jogszabály alapján | 32 000/pontforrás |
+| 14. |  |  |  |
 
-| 15. |  | Helyhez kötött diffúz légszennyező forrás létesítésének, teljesítménybővítésének, élettartamát meghosszabbító felújításának, használatba vételének, az alkalmazott technológia váltásának engedélyezési eljárása önálló eljárásban a levegő védelméről szóló jogszabály alapján | 32 000/diffúz forrás |
+| 15. |  |  |  |
 
-| 16. |  | Határérték megállapítása önálló eljárásban a levegő védelméről szóló jogszabály szerinti eljárásban, a 14. és 15. pont kivételével | 72 000 |
+| 16. |  |  |  |
 
-| 17. |  | Zajkibocsátási határérték megállapítása [a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 10. § (1) bekezdés és 11. § (1) bekezdés], ha a területi környezetvédelmi hatóság jár el [284/2007. (X. 29.) Korm. rendelet 4. § (3)–(4) bekezdés] – a zajforrás üzemeltetője alapján: |  |
+| 17. |  |  |  |
 
-|  | 1. | Egyéni vállalkozó, jogi személyiséggel nem rendelkező szervezet, költségvetési szerv | 112 500 |
+|  | 1. |  |  |
 
-|  | 2. | Minden egyéb esetben | 150 000 |
+|  | 2. |  |  |
 
-| 18. |  | A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 13. § (1) bekezdése alapján az építőipari kivitelezési tevékenységtől származó zaj határérték túllépés határozott időtartamra történő engedélyezése, ha a területi környezetvédelmi hatóság jár el | 210 000 |
+| 18. |  |  |  |
 
-| 19. |  | A mosó- és tisztítószerekről szóló 648/2004/EK rendelet 4. cikk (2) bekezdése alapján a gyártói eltérés kérelmezése [mosó- és tisztítószerek forgalomba hozatalának feltételeiről és az ellenőrzés rendjéről szóló 329/2012. (XI. 16.) Korm. rendelet 3. §] | 600 000 |
+| 19. |  |  |  |
 
 | 20. |  |  |  |
 
-| 21. |  | Kármentesítési eljárás [219/2004. (VII. 21.) Korm. rendelet] |  |
+| 21. |  |  |  |
 
-|  | 1. | Tényfeltárási terv engedélyezése [22. § (5) bekezdés] | 106 000 |
+|  | 1. |  |  |
 
-|  | 2. | Tényfeltárási záródokumentáció elbírálása [25. § (1) bekezdés] a szennyezettség mértékétől függően (A 2.1. és a 2.2. alpontokat a szennyezettség jellegétől függően külön-külön vagy együttesen kell alkalmazni.) |  |
+|  | 2. |  |  |
 
-|  | 2.1. | A földtani közeg (talaj) (B) szennyezettségi határértékét, vagy ha (Ab) > (B), az (Ab) bizonyított háttér-koncentrációt meghaladó szennyezett térfogatrész m3-ben meghatározott mennyiségétől függően |  |
+|  | 2.1. |  |  |
 
-|  | 2.1.1. | 0–5000 m3 | 53 000 |
+|  | 2.1.1. |  |  |
 
-|  | 2.1.2. | 5001–10 000 m3 | 106 000 |
+|  | 2.1.2. |  |  |
 
-|  | 2.1.3. | 10 001–50 000 m3 | 318 000 |
+|  | 2.1.3. |  |  |
 
-|  | 2.1.4. | 50 001 m3 felett | 530 000 |
+|  | 2.1.4. |  |  |
 
-|  | 2.2. | A felszín alatti víz (B) szennyezettségi határértékét, vagy ha (Ab) > (B), az (Ab) bizonyított háttér-koncentrációt meghaladó szennyezett területrész felszíni vetülete m2-ben meghatározott kiterjedésétől függően |  |
+|  | 2.2. |  |  |
 
-|  | 2.2.1. | 0–1000 m2 | 53 000 |
+|  | 2.2.1. |  |  |
 
-|  | 2.2.2. | 1001–10 000 m2 | 318 000 |
+|  | 2.2.2. |  |  |
 
-|  | 2.2.3. | 10 001 m2 felett | 530 000 |
+|  | 2.2.3. |  |  |
 
-|  | 3. | Beavatkozási terv elbírálása [26. § (2) és (3) bekezdés], a beruházás költségétől függően |  |
+|  | 3. |  |  |
 
-|  | 3.1. | 5 000 000 Ft alatt | 53 000 |
+|  | 3.1. |  |  |
 
-|  | 3.2. | 5 000 001–10 000 000 Ft | 80 000 |
+|  | 3.2. |  |  |
 
-|  | 3.3. | 10 000 001–100 000 000 Ft | 200 000 |
+|  | 3.3. |  |  |
 
-|  | 3.4. | 100 000 001–500 000 000 Ft | 530 000 |
+|  | 3.4. |  |  |
 
-|  | 3.5. | 500 000 001–1 000 000 000 Ft | 1 200 000 |
+|  | 3.5. |  |  |
 
-|  | 3.6. | 1 000 000 001–10 000 000 000 Ft | 3 180 000 |
+|  | 3.6. |  |  |
 
-|  | 3.7. | 10 000 000 000 Ft fölött | 5 300 000 |
+|  | 3.7. |  |  |
 
-|  | 4. | Kármentesítési határozat módosítása |  |
+|  | 4. |  |  |
 
-|  | 4.1. | A kármentesítés végrehajtására vonatkozó határozat határidejének módosítása [21. § (11) bekezdés] | Az adott kármentesítési szakasz eljárási díjtételének 10%-a |
+|  | 4.1. |  |  |
 
-|  | 4.2. | A kármentesítési tervtől való eltérés, a terv módosításának elbírálása [23. § (3) bekezdés és 26. § (6) bekezdés] | Az adott kármentesítési szakasz eljárási díjtételének 50%-a |
+|  | 4.2. |  |  |
 
-|  | 5. | Beavatkozási záródokumentáció elbírálása [28. § (2) bekezdés] | A 3.1–3.7. tételek 50%-a |
+|  | 5. |  |  |
 
-|  | 6. | Kármentesítési monitoringot elrendelő határozat [30. § (1) bekezdés] | 67 000 |
+|  | 6. |  |  |
 
-|  | 7. | Kármentesítési monitoring záródokumentáció elbírálása [30. § (7) bekezdés] | 106 000 |
+|  | 7. |  |  |
 
-|  | 8. | Tartós környezeti károsodás felülvizsgálata az ügyfél kérésére [33. § (5) bekezdés c) pont] | 80 000 |
+|  | 8. |  |  |
 
 | 22. |  | Gyep és nádas művelési ág megváltoztatásának engedélyezése természeti területen [a természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 21. § (1) bekezdés, az érzékeny természeti területekre vonatkozó szabályokról szóló 2/2002. (I. 23.) KöM–FVM együttes rendelet 7. §, a nagyvízi medrek, a parti sávok, a vízjárta, valamint a fakadó vizek által veszélyeztetett területek használatáról és hasznosításáról, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos eljárásról szóló 21/2006. (I. 31.) Korm. rendelet 5. § (2) bekezdés] | 10 000 |
 
@@ -272,23 +272,23 @@
 
 | 38. |  | Az 1–36. pontban foglalt engedélyek módosítása, ha az engedélyes, illetve környezethasználó személyében bekövetkezett változás miatt szükséges | Az 1–37. pontban foglalt díjtétel 25%-a |
 
-| 39. |  | A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 74. § (2) bekezdésének c) pontja alapján lefolytatott, a működési engedély kiadására vonatkozó eljárás | 750 000 |
+| 39. |  |  |  |
 
-| 40. |  | Környezetvédelmi teljesítményértékelés elbírálása [Kvt. 77. §] | 250 000 |
+| 40. |  |  |  |
 
-| 41. |  | A környezetvédelmi vezetési és hitelesítési rendszerben (EMAS) részt vevő szervezetek nyilvántartásáról szóló 214/2006. (X. 31.) Korm. rendelet 1. § (1) bekezdése szerinti nyilvántartásba vétel |  |
+| 41. |  |  |  |
 
-|  | 1. | Mikroszervezetek: kevesebb, mint 10 alkalmazott és az éves nettó árbevétel vagy a mérlegfőösszeg nem haladja meg a 2 millió eurót Költségvetési szervek | 10 000 |
+|  | 1. |  |  |
 
-|  | 2. | Kis szervezetek: kevesebb, mint 50 alkalmazott és az éves nettó árbevétel vagy a mérlegfőösszeg nem haladja meg a 10 millió eurót | 25 000 |
+|  | 2. |  |  |
 
-|  | 3. | Közép szervezetek: kevesebb, mint 250 alkalmazott és az éves nettó árbevétel nem haladja meg az 50 millió eurót vagy a mérlegfőösszeg nem haladja meg a 43 millió eurót | 50 000 |
+|  | 3. |  |  |
 
-|  | 4. | Nagy szervezetek: az 1–3. pont alá nem tartozó szervezetek | 100 000 |
+|  | 4. |  |  |
 
-|  | 5. | Egyesített nyilvántartásba vétel (a 6. pont kivételével) | 300 000 |
+|  | 5. |  |  |
 
-|  | 6. | Egyesített nyilvántartásba vétel, ha a szervezet valamelyik telephelye az Európai Unió más tagállamában van | 400 000 |
+|  | 6. |  |  |
 
 | 42. |  | Igazolás kiadása pályázati eljárás keretében igényelt támogatásokhoz | 10 000 |
 
@@ -300,6 +300,6 @@
 
 | 46. |  | Bejelentési eljárás | 50 000 |
 
-2. melléklet a 14/2015. (III. 31.) FM rendelethez
+2. melléklet a 14/2015. (III. 31.) FM rendelethez[^26]
 
-Környezeti hatásvizsgálat alapján végezhető tevékenységek engedélyezésének igazgatási szolgáltatási díjai
+[^26]: A 2. mellékletet a 14/2025. (VI. 19.) EM rendelet 12. § i) pontja hatályon kívül helyezte.
