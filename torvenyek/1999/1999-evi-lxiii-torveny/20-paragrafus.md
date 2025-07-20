@@ -1,4 +1,4 @@
-20. § (1) A felügyelő – az üzemben tartó értesítése mellett – elszállítással eltávolíthatja a közterületen szabálytalanul elhelyezett járművet, ha az a közúti forgalom biztonságát vagy a közbiztonságot veszélyezteti.
+20. § (1) Jogszabály eltérő rendelkezése hiányában a felügyelő – az üzemben tartó értesítése mellett – elszállítással eltávolíthatja a közterületen szabálytalanul elhelyezett járművet, ha az a közúti forgalom biztonságát vagy a közbiztonságot veszélyezteti.
 
 (2) A felügyelő a helyi közúton közterület-használati engedély nélkül tárolt, hatósági jelzéssel nem rendelkező azon járművön, amely a közúti forgalomban csak ilyen jelzéssel vehet részt, értesítést helyez el, amely tartalmazza a (3) bekezdés szerinti jogkövetkezményre történő figyelmeztetést.
 
