@@ -1,5 +1,1 @@
-83. § (1) E Fejezet alkalmazásában az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrának minősül az olyan, a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vt.) szerinti vasúti pálya, vasúti létesítmény és vasúti pályahálózat és az ezek megvalósítására irányuló építési beruházás (a továbbiakban együtt: vasúti építmény), amelyet a honvédelemért felelős miniszter az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű infrastruktúrává jelölt ki a Vbö. alapján.
-
-(2) Az (1) bekezdésben foglalt kijelöléstől függetlenül a vasúti építmény eredeti, a Méptv. 2. § (3) bekezdése és 16. § 114. pontja szerinti rendeltetése alapján rá irányadó sajátos építésügyi követelményeket alkalmazni kell.
-
-(3) A Vt. szerinti vasúti pálya, vasúti létesítmény és vasúti pályahálózat megvalósítására irányuló állami építési beruházás (a továbbiakban: beruházás) a Vbö. alkalmazásában alapvető szolgáltatásnak, a beruházó alapvető szolgáltatást nyújtó szervezetnek minősül.
+### 83. §

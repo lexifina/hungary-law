@@ -1,17 +1,1 @@
-45. § (1) Ha a 37. § (1) bekezdés a) pontja szerinti, valamint a 37. § (2) és (3) bekezdésében foglalt eredménnyel járó adásvételi jogügylet az 1. mellékletben foglalt táblázat 21. sorában meghatározott ágazaton belül a 35.12 Villamosenergia-termelés megújuló forrásból TEÁOR’25 kódú – fő vagy további tevékenységi körként – bejegyzett, naperőműre vonatkozó tevékenységgel rendelkező stratégiai társaság tekintetében jött létre, a jogügylet tudomásulvétele iránti bejelentés elbírálására a (2)–(8) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
-
-(2) Az (1) bekezdés szerinti jogügyletek tekintetében a magyar államot minden más jogosultat megelőző elővásárlási jog illeti meg, amelyet a (4) bekezdés szerinti tájékoztatás bejelentő részére történő megküldésének napjától számított 90 munkanapos jogvesztő határidőn belül a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gyakorol.
-
-(3) Az (1) bekezdés szerinti jogügyletek esetében a 39. § (1) bekezdésében foglaltakon túl a bejelentésnek tartalmaznia kell az arra való utalást, hogy a bejelentés az (1) bekezdés hatálya alá tartozik.
-
-(4) Ha a belgazdaságért felelős miniszter a bejelentés megvizsgálása során megállapítja, hogy a bejelentett jogügylet tekintetében fennáll az e Fejezet szerinti bejelentési kötelezettség és a jogügylet az (1) bekezdés szerinti adásvételi jogügyletnek minősül, továbbá a 39. § (2) bekezdése szerinti mellékletek – ideértve az elővásárlási jog gyakorlásától függő hatállyal megkötött adásvételi szerződést is – hiánytalanul rendelkezésre állnak, akkor a belgazdaságért felelős miniszter tájékoztatja a bejelentőt arról, hogy a jogügylet az (1) bekezdés szerinti adásvételi jogügyletnek minősül, és így a magyar államot a (2) bekezdés szerinti elővásárlási jog illeti meg.
-
-(5) A belgazdaságért felelős miniszter a bejelentő (4) bekezdés szerinti tájékoztatásával egyidejűleg megküldi a bejelentés során kapott dokumentációt – 30 munkanapos válaszadási határidővel – az energiapolitikáért felelős miniszternek, aki a jogügyletet megvizsgálja arra vonatkozóan, hogy a (2) bekezdés szerinti elővásárlási jog gyakorlása indokolt-e.
-
-(6) Az energiapolitikáért felelős miniszter válaszában az elővásárlási jog gyakorlására vagy gyakorlásának mellőzésére irányuló javaslatot tesz, és erről az (5) bekezdés szerinti határidőn belül tájékoztatja a belgazdaságért felelős minisztert és egyidejűleg az MNV Zrt.-t, az MNV Zrt. részére megküldött, elővásárlási jog gyakorlására irányuló javaslatához csatolva az elővásárlási jog gyakorlásához szükséges dokumentációt is.
-
-(7) Ha a belgazdaságért felelős miniszterhez az elővásárlási jog gyakorlására irányuló javaslat érkezik, a belgazdaságért felelős miniszter a jogügylet tudomásulvétele iránti bejelentéssel összefüggő eljárását megszünteti arra való kifejezett hivatkozással, hogy az energiapolitikáért felelős miniszter álláspontja szerint indokolt az elővásárlási jog gyakorlása.
-
-(8) Ha az energiapolitikáért felelős miniszter az (5) bekezdés szerinti határidőn belül a bejelentett jogügylet tekintetében az elővásárlási jog gyakorlásának mellőzésére irányuló javaslatot tesz, vagy az (5) bekezdés szerinti határidőn belül nem tesz az elővásárlási jog gyakorlásával kapcsolatos állásfoglalást, akkor a belgazdaságért felelős miniszter érdemben elbírálja a bejelentést.
-
-(9) Az (1)–(8) bekezdésben foglalt rendelkezések nem alkalmazhatók a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 24. pontja szerinti háztartási méretű kiserőműnek minősülő naperőművek esetében.
+### 45. §

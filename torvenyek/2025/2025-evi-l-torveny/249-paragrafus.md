@@ -98,42 +98,6 @@
 
 48. az iparbiztonsági veszélyt, valamint a fenyegető környezetkárosodást megelőző intézkedések veszélyhelyzeti szabályairól szóló 35/2025. (III. 5.) Korm. rendelet.
 
-(2) Hatályát veszti
+(2)
 
-1. a veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelet,
-
-2. a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 221/2022. (VI. 21.) Korm. rendelet,
-
-3. az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet,
-
-4. a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet,
-
-5. a nagycsaládosokat megillető földgáz árkedvezményről szóló kormányrendelet eltérő alkalmazásáról szóló 290/2022. (VIII. 5.) Korm. rendelet,
-
-6. a szabályozási többletkapacitásra és a saját célra termelő egységekre vonatkozó veszélyhelyzeti szabályokról szóló 527/2022. (XII.16.) Korm. rendelet,
-
-7. a villamos energiáról szóló 2007. évi LXXXVI. törvény és a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 360/2023. (VII. 31.) Korm. rendelet,
-
-8. a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 54/2024. (III. 6.) Korm. rendelet,
-
-9. a veszélyes üzemek villamosenergia- és földgáz ellátásával kapcsolatos egyes veszélyhelyzeti intézkedésekről szóló 268/2024. (IX. 10.) Korm. rendelet.
-
-(3) Hatályát veszti
-
-1. a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 263/2022. (VII. 27.) Korm. rendelet,
-
-2. az egyes közérdekű adatok nyilvánosságával kapcsolatos jogok veszélyhelyzet idején történő gyakorlásáról szóló 356/2022. (IX. 19.) Korm. rendelet,
-
-3. a magyarországi gazdasági társaságok gazdasági célú védelméhez szükséges egyes rendelkezések veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 561/2022. (XII. 23.) Korm. rendelet,
-
-4. a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 587/2022. (XII. 28.) Korm. rendelet,
-
-5. a veszélyhelyzetre tekintettel egyes felszámolási tárgyú rendelkezések eltérő alkalmazásáról szóló 589/2022. (XII. 28.) Korm. rendelet,
-
-6. a veszélyhelyzet ideje alatt egyes büntetés-végrehajtási szabályok eltérő alkalmazásáról szóló 3/2023. (I. 12.) Korm. rendelet,
-
-7. az embercsempészés bűncselekmény miatt elítéltek reintegrációs őrizetéről szóló 148/2023. (IV. 27.) Korm. rendelet,
-
-8. a honvédelmi és katonai célú építményekre vonatkozó előírások veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 381/2023. (VIII. 10.) Korm. rendelet,
-
-9. a veszélyhelyzet ideje alatt Magyarország ellátásbiztonságának garantálása érdekében szükséges intézkedések kiegészítéséről szóló 117/2024. (V. 30.) Korm. rendelet.
+(3)

@@ -1,13 +1,7 @@
-77. § (1) Azon felszámolási eljárásban, amelyet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 118. § (3), (5) vagy (6) bekezdése alapján, e bekezdés hatálybalépését megelőzően rendeltek el, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 263/2022. (VII. 27.) Korm. rendelet 4. § (3)–(9) bekezdését az eljárás jogerős befejezéséig alkalmazni kell.
+77. § (1)
 
-(2) Azon felszámolási eljárásban, amelyet
+(2)
 
-a) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet, vagy
+(3)
 
-b) a többségi befolyás alatt álló gazdálkodó szervezetek felszámolásának veszélyhelyzeti szabályairól szóló 64/2023. (III. 1.) Korm. rendelet
-
-alapján a veszélyhelyzet megszűnését megelőzően rendeltek el, a veszélyhelyzet megszűnése előtti napon hatályos, az a) és b) pont szerinti eljárásokra vonatkozó, veszélyhelyzetben alkalmazandó kormányrendeletek rendelkezéseit az eljárások jogerős befejezéséig alkalmazni kell.
-
-(3) A kényszertörlési eljárás során kezdeményezett olyan felszámolási eljárásban, amelyben a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szabályainak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 587/2022. (XII. 28.) Korm. rendelet (a továbbiakban: 587/2022. Korm. rendelet) 3. § (1) bekezdése szerinti dokumentumok e bekezdés hatálybalépését megelőzően a bíróságnak megküldésre kerültek, az 587/2022. Korm. rendelet szabályait az eljárás jogerős befejezéséig alkalmazni kell.
-
-(4) Az olyan eljárásban, amelyben a bíróság a vagyonfelügyelő és az ideiglenes vagyonfelügyelő kirendelése, valamint a Bérgarancia Alapból történő támogatás-lehívás veszélyhelyzeti szabályairól szóló 291/2024. (X. 3.) Korm. rendelet [a továbbiakban: 291/2024. (X. 3.) Korm. rendelet] 2. §-a, vagy 4. § (2) bekezdése alapján az ideiglenes vagyonfelügyelőt e bekezdés hatálybalépését megelőzően kirendelte, a 291/2024. (X. 3.) Korm. rendelet, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet alapján elrendelt felszámolási eljárások veszélyhelyzetben történő eltérő alkalmazásának részletszabályairól szóló 375/2024. (XII. 2.) Korm. rendelet szabályait az eljárás jogerős befejezéséig alkalmazni kell.
+(4)

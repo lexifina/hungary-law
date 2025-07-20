@@ -1,1 +1,1 @@
-90. § A 89. § szerinti adattal összefüggésben indult közigazgatási hatósági vagy bírósági eljárásban az adat az iratokhoz nem csatolható, arról másolat nem készíthető, az – legfeljebb az eljárás sikeres lefolytatásához szükséges mértékben – kizárólag az adatot kezelő közfeladatot ellátó szervnek az adatkezelés helyszínéül szolgáló helyiségében tekinthető meg.
+### 90. §
