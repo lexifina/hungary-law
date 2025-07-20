@@ -1,3 +1,0 @@
-2. § (1) A sajtótermék árusítására jogosult, az árusítással kapcsolatos fülke, pavilon, épület, üzlet tulajdonosa vagy bérlője (a továbbiakban együtt: közterület-használó) nem köteles közterület-használati hozzájárulást beszerezni, ha kizárólag olyan sajtóterméket árusít vagy terjeszt, amely az Ukrajna területén fennálló fegyveres konfliktussal, illetve humanitárius katasztrófával, valamint ezek magyarországi következményeinek az elhárításával kapcsolatos közérdekű közleményt, tájékoztatást tartalmaz.
-
-(2) Nem kell közterület-használati hozzájárulást beszerezni az (1) bekezdésben meghatározott tartalmú sajtótermék közterületen történő terjesztéséhez sem.
