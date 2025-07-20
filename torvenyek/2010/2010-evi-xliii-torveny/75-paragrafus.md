@@ -4,7 +4,7 @@
 
 ## Felhatalmazó rendelkezések
 
-75. § (1)
+75. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 13. § (11) bekezdése szerinti ellenőrző szervet.
 
 (2)
 

@@ -39,3 +39,7 @@ b) az új jogviszonyban őt foglalkoztató szervet arról, hogy az (5) bekezdés
 c) a (6a) bekezdés szerinti feltételek teljesüléséről az őt korábban foglalkoztató kormányzati igazgatási szervet.
 
 (10) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a politikai felsővezető (2), illetve (4) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
+
+(11) Az (5)–(6a) és (9) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(12) A (11) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (6) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a politikai felsővezetőt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (6) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
