@@ -8,9 +8,11 @@
 
 a) az előállított bérfőzött párlat utáni adó összege elérte az 1 millió forintot;
 
-b) a végrehajtási rendeletben meghatározott elszámolási időszak utolsó napján az adóraktárban a bérfőzető által még el nem szállított bérfőzött párlat található;
+b) a végrehajtási rendeletben meghatározott elszámolási időszak utolsó napján az adóraktárban a bérfőzető által el nem szállított olyan bérfőzött párlat található, amelynek a bérfőzető által történő későbbi átvétele valószínűsíthető;
 
 c) az állami adó- és vámhatóság által a végrehajtási rendelet szerint megállapított, az elszámolási időszakban gyártott mennyiség meghaladja az adóraktár nyilvántartásában kimutatott gyártott mennyiséget.
+
+(3a) A kizárólag bérfőzést végző adóraktárban a végrehajtási rendeletben meghatározott elszámolási időszak utolsó napján készleten lévő adózatlan párlat helyszíni, azonnali megsemmisítése esetén a 87. § (2) bekezdése nem alkalmazandó.
 
 (4) Az adóraktárban a bérfőzető részére előállított párlat utáni adó összegét az adóraktár engedélyese állapítja meg és szedi be a bérfőzetőtől a párlat bérfőzető részére történő átadásának időpontjáig. Az adóraktár engedélyese az adófizetési kötelezettség és az adófizetésre kötelezett személyének megállapítása céljából a bérfőzetőt és képviselőjét személyazonossága igazolására hívhatja fel, a képviseleti jogosultságot megvizsgálhatja. A bérfőzető és képviselője személyazonosságát hatósági igazolvánnyal igazolja. A bérfőzető a párlat átvételének időpontjáig készpénzzel vagy átutalással fizeti meg az adóraktárnak az átvett bérfőzött párlat utáni adót. Ha a bérfőzető ezen adófizetési kötelezettségét nem teljesíti vagy személyazonossága nem állapítható meg, részére a bérfőzött párlat nem adható ki. A bérfőzetőtől beszedni elmulasztott adót – abban az esetben is, ha a bérfőzető személyazonossága nem állapítható meg – az adóraktár engedélyese fizeti meg, ha azonban az adóraktár engedélyese a bérfőzető valótlan nyilatkozata alapján állapította meg helytelenül az adó összegét, a bérfőzető fizeti meg a költségvetésnek okozott vagyoni hátrány összegével megegyező összegű adót és jövedéki bírságot.
 
