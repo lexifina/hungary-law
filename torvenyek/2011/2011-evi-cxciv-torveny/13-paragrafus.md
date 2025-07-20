@@ -36,7 +36,7 @@ b) a (2) bekezdésben meghatározott mértékű díj ellenében közreműködhet
 
 c) közreműködhet az Országos Betétbiztosítási Alap és a Szanálási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjainak kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
 
-d) jogszabály felhatalmazása alapján az MVM Paks II. Atomerőmű Fejlesztő Zártkörűen Működő Részvénytársaság számára az állam nevében nyújtott, a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény 1. § (1) bekezdésében meghatározott beruházást finanszírozó tőkeemelés megvalósításához kapcsolódó fizetési kötelezettségeket (beleértve az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás kihirdetéséről szóló 2014. évi XXIV. törvénnyel kihirdetett Megállapodás 1. cikk 2. pontja szerinti fizetéseket is) teljesíthet az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló szervezet által meghatározott módon, összegben és ütemezés szerint;
+d)
 
 e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 
