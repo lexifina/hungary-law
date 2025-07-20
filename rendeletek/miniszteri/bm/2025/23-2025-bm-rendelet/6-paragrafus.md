@@ -1,0 +1,1 @@
+6. § A Tv. 2. § (4) bekezdése szerinti egyszeri utazásra jogosító okmány átvételére az 5. § szerinti értesítést követően 15 napon belül van lehetőség.
