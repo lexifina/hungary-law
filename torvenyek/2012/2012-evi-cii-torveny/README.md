@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-102-00-00
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 2012-102-00-00.4 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2012-102-00-00.5 |
 | 2019-01-01 | 2018. évi XLI. törvény | 2012-102-00-00.6 |
+| 2025-07-20 | 2025. évi LIV. törvény | 2012-102-00-00.7 |

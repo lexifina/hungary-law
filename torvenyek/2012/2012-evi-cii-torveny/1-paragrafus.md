@@ -6,7 +6,7 @@
 
 2. biztosítási szolgáltatás: a casco biztosítás, a vagyon- és balesetbiztosítás, a kötelező gépjármű-felelősségbiztosítás;
 
-3. kötelező gépjármű-felelősségbiztosítás: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (Kgfb. tv.) szerinti biztosítás;
+3. kötelező gépjármű-felelősségbiztosítás: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Kgfb. tv.) szerinti biztosítás;
 
 4. casco biztosítás: a Bit. 1. melléklete A) részének 3–6. pontja szerinti biztosítási ágazatok;
 
