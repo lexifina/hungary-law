@@ -1,5 +1,5 @@
-## V/E. Fejezet[^273]
+## V/E. Fejezet[^275]
 
 ## TÖBBCÉLÚ KÖZNEVELÉSI INTÉZMÉNYRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
 
-[^273]: Az V/E. fejezetet (44/K. §-t) a 13/2020. (II. 7.) Korm. rendelet 72. § (3) bekezdése iktatta be.
+[^275]: Az V/E. fejezetet (44/K. §-t) a 13/2020. (II. 7.) Korm. rendelet 72. § (3) bekezdése iktatta be.

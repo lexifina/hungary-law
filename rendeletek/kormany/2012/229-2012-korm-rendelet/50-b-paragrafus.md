@@ -1,3 +1,3 @@
-50/B. §[^285]
+50/B. §[^287]
 
-[^285]: Az 50/B. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 7. pontja.
+[^287]: Az 50/B. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 7. pontja.

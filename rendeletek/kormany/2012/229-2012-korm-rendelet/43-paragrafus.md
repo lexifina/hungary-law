@@ -18,19 +18,19 @@ d) a kijelölt iskolába való beíratás idejét,
 
 e) a tankötelezettség teljesítési módjának a meghatározását,
 
-f)[^255] az iskolai, óvodai fejlesztések javasolt heti óraszámát és a pedagógiai szakszolgálat keretében javasolt szolgáltatásokat, továbbá annak megjelenítését, ha a gyermek a tankötelezettségét kizárólag egyéni munkarendben teljesítheti,
+f)[^257] az iskolai, óvodai fejlesztések javasolt heti óraszámát és a pedagógiai szakszolgálat keretében javasolt szolgáltatásokat, továbbá annak megjelenítését, ha a gyermek a tankötelezettségét kizárólag egyéni munkarendben teljesítheti,
 
 g) az arról szóló tájékoztatást, hogy a gyermek, tanuló fejlődését a szakértői bizottság hivatalból megvizsgálja.
 
-(3)[^256]
+(3)[^258]
 
-(4)[^257] A tankerületi központ eljárásában szakértőként – a tankerületi központ kirendelése alapján – az ELTE Gyakorló Országos Pedagógiai Szakszolgálat (a továbbiakban: Gyakorló Szakszolgálat) vagy az a szakértői bizottság jár el, amely az eljárásban érintett szakértői véleményt kiállította.
+(4)[^259] A tankerületi központ eljárásában szakértőként – a tankerületi központ kirendelése alapján – az ELTE Gyakorló Országos Pedagógiai Szakszolgálat (a továbbiakban: Gyakorló Szakszolgálat) vagy az a szakértői bizottság jár el, amely az eljárásban érintett szakértői véleményt kiállította.
 
 (5) Az eljárásban szakértőként nem vehet részt az a szakértő, aki a (4) bekezdésben meghatározott szakértői bizottság részéről az eljárásban érintett szakértői vélemény elkészítésében részt vett.
 
-(6)[^258]
+(6)[^260]
 
-[^255]: A 43. § (2) bekezdés f) pontja a 196/2019. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^256]: A 43. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
-[^257]: A 43. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^258]: A 43. § (6) bekezdését a 31/2020. (II. 29.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte. [A 43. § (6) bekezdésében a 275/2019. (XI. 21.) Korm. rendelet 4. § (2) bekezdés b) pontjával elrendelt módosítás nem vezethető át.]
+[^257]: A 43. § (2) bekezdés f) pontja a 196/2019. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^258]: A 43. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^259]: A 43. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^260]: A 43. § (6) bekezdését a 31/2020. (II. 29.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte. [A 43. § (6) bekezdésében a 275/2019. (XI. 21.) Korm. rendelet 4. § (2) bekezdés b) pontjával elrendelt módosítás nem vezethető át.]

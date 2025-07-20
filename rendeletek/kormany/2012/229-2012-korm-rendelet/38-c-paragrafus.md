@@ -1,3 +1,3 @@
-38/C. §[^229] A kormányhivatal az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 2. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
+38/C. §[^231] A kormányhivatal az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 2. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
 
-[^229]: A 38/C. §-t a 258/2024. (VIII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^231]: A 38/C. §-t a 258/2024. (VIII. 29.) Korm. rendelet 7. §-a iktatta be.
