@@ -30,7 +30,7 @@ rendeletben állapítsa meg.
 
 a) az egyes kereskedelmi tevékenységek végzéséhez szükséges képesítéseket,
 
-b)
+b) 6/K. § (1) bekezdése szerinti tájékoztatás formáját és tartalmát
 
 c)
 
