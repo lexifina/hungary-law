@@ -1,0 +1,1 @@
+22. § Az e rendeletben meghatározott támogatásokra vonatkozó szabályokat kell alkalmazni az e rendelet hatálybalépésekor korábbi jogalapon már megítélt, azonos célú támogatásokkal kapcsolatban folyamatban lévő ügyekben.

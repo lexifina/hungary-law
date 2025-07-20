@@ -1,0 +1,3 @@
+25. § A kerékbilincs alkalmazásával és a járművek elszállításával kapcsolatos eljárás során alkalmazandó kiegészítő és eltérő közigazgatási hatósági eljárási szabályokról szóló 512/2017. (XII. 29.) Korm. rendelet a következő 5/A. §-sal egészül ki:
+
+„5/A. § Ásotthalom, Bácsborsód, Bácsszentgyörgy, Balástya, Bordány, Csikéria, Domaszék, Forráskút, Gara, Hercegszántó, Homorúd, Katymár, Kelebia, Kübekháza, Kunbaja, Madaras, Mórahalom, Öttömös, Pusztamérges, Röszke, Ruzsa, Szeged, Tiszasziget, Tompa, Újszentiván, Üllés, Zákányszék és Zsombó települések közigazgatási területén a közterület-felügyeletről szóló törvény 20/A. §-ában meghatározott hatósági feladatokat a Csongrád-Csanád Vármegyei Kormányhivatal látja el.”
