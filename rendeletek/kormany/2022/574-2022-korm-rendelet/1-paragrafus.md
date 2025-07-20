@@ -1,3 +1,0 @@
-1. §[^2] Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt a közúti közlekedésről szóló 1988. évi I. törvényt (a továbbiakban: Kkt.) az e rendeletben meghatározott eltérésekkel kell alkalmazni.
-
-[^2]: Az 1. § a 207/2023. (V. 31.) Korm. rendelet 2. §-a, a 316/2023. (VII. 17.) Korm. rendelet 1. § 17. pont a) alpontja szerint módosított szöveg.
