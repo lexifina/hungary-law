@@ -48,7 +48,7 @@ pb) a termőföldön vagyoni értékű jogot nem alapít, és
 
 pc) a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja;
 
-q) ingatlannak, illetve a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az alábbi feltételek együttes teljesülése esetén:
+q) a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő vagyonszerzés, az alábbi feltételek együttes teljesülése esetén:
 
 qa) az átruházó az átruházás évében és az azt megelőző két naptári évben nem vette igénybe a 23/A. § szerinti kedvezményes illetékmértéket és a 26. § (1) bekezdés a) pontja alapján felfüggesztett illetéktartozással nem rendelkezik,
 
@@ -56,7 +56,7 @@ qb) az átruházott eszközöknek a pénzeszközök és pénzkövetelések össz
 
 qc) az átruházó társaság legalább két üzletággal rendelkezik, melyek az átruházást megelőző két teljes, 12 hónapos adóévben önálló üzletágként működtek,
 
-qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket.
+qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket;
 
 r) – a (16) bekezdésben foglaltakra figyelemmel – az építésügyi szabályok és a településrendezési terv alapján sportcélú ingatlan létrehozására alkalmas beépítetlen földrészlet tulajdonjogának, vagyoni értékű jogának sporttevékenységet, annak szervezését, valamint a sporttevékenység feltételeinek megteremtését végző sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség általi megszerzése, ha a vagyonszerző az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül sportcélú ingatlant hoz létre és vállalja, hogy az így létrehozott sportcélú ingatlant az üzembe helyezéstől számított 15 évig nem idegeníti el és sport célra használja vagy hasznosítja. Amennyiben a vagyonszerző a fizetési meghagyás véglegessé válásáig nyilatkozik arról, hogy a megszerzett földrészleten a sportcélú ingatlan létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportcélú ingatlannal beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel.
 
@@ -103,6 +103,8 @@ fa) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t
 fb) a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 2024. január 1-jén hatályos 2. § (1) bekezdése szerinti kedvezményes kölcsön (a továbbiakban: CSOK Plusz kölcsön) felhasználásával történő megszerzése;
 
 g) az egyéni vállalkozó eszközeinek a vállalkozói tevékenység folytatása céljából alapított egyszemélyes korlátolt felelősségű társaság vagy egyéni cég általi megszerzése.
+
+h) a telekingatlan forgalmi értékéből a naperőmű, szélerőmű felépítmény forgalmi értékének megfelelő vagyonrész;
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi a lakóház felépítését. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 

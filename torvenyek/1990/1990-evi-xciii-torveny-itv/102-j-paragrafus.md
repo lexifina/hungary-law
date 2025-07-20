@@ -1,0 +1,1 @@
+102/J. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 26. § (1) bekezdés q) pontját és a 26. § (1a) bekezdés h) pontját az állami adó- és vámhatóság által véglegesen még el nem bírált illetékügyekben is alkalmazni kell.

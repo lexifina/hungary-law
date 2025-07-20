@@ -120,3 +120,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2025-02-01 | 2024. évi LXXIII. törvény | 1990-93-00-00.201 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 1990-93-00-00.200 |
 | 2025-06-20 | 2025. évi LIV. törvény | 1990-93-00-00.204 |
+| 2025-07-20 | 2025. évi LIV. törvény | 1990-93-00-00.205 |
