@@ -1,1 +1,3 @@
-6. § A 272/2014. (XI. 5.) Korm. rendelet 3. mellékletében foglalt táblázat B:6 mezőjében a „Miniszterelnöki Kabinetiroda” szövegrész helyébe az „Energiaügyi Minisztérium” szöveg lép.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

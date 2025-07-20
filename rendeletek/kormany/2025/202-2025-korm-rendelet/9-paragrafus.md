@@ -1,3 +1,3 @@
-9. § A 256/2021. (V. 18.) Korm. rendelet a következő 30/A. §-sal egészül ki:
+9. §[^9]
 
-„30/A. § A holdingalapot végrehajtó szervezet a finanszírozási megállapodás alapján jogosult egyedi alap közvetlen végrehajtására.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

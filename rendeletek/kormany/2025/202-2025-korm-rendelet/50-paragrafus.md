@@ -1,1 +1,3 @@
-50. § A 373/2022. (IX. 30.) Korm. rendelet 1. melléklete helyébe a 4. melléklet lép.
+50. §[^51]
+
+[^51]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-4. § A 272/2014. (XI. 5.) Korm. rendelet 66. alcíme a következő 201/ZO. §-sal egészül ki:
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

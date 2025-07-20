@@ -1,3 +1,3 @@
-42. §[^20]
+42. §[^43]
 
-[^20]: A 42. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^43]: A 42. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

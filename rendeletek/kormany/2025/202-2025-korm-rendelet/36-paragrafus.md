@@ -1,1 +1,3 @@
-36. § A 256/2021. (V. 18.) Korm. rendelet 3. melléklete helyébe a 3. melléklet lép.
+36. §[^36]
+
+[^36]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

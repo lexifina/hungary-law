@@ -1,3 +1,3 @@
-24. §[^14]
+24. §[^24]
 
-[^14]: A 24. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^24]: A 24. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

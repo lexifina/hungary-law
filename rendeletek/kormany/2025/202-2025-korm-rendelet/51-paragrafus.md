@@ -1,1 +1,3 @@
-51. § A 373/2022. (IX. 30.) Korm. rendelet 2. § 7. pontjában a „reformok” szövegrész helyébe a „reformok, beruházások” szöveg lép.
+51. §[^52]
+
+[^52]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

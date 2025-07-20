@@ -1,3 +1,3 @@
-20. §[^10]
+20. §[^20]
 
-[^10]: A 20. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^20]: A 20. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

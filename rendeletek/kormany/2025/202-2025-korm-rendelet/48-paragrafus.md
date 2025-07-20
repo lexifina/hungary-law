@@ -1,3 +1,3 @@
-48. §[^26]
+48. §[^49]
 
-[^26]: A 48. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^49]: A 48. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

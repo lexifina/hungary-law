@@ -1,7 +1,3 @@
-8. § A 256/2021. (V. 18.) Korm. rendelet 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(3) Az irányító hatóság a büntetőeljárásokkal összefüggő feladatai keretében
-
-a) szükség esetén feljelentést tesz,
-
-b) az a) pont szerinti, valamint a bűnügyi és egyéb megkeresések kapcsán tett intézkedésekről, továbbá a megindított szabálytalansági eljárásról tájékoztatja a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
