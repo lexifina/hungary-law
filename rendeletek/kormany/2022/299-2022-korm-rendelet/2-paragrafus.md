@@ -1,3 +1,0 @@
-2. § (1) A fenntartó az őt 2022. szeptember 1. napjától az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) megszűnéséig megillető kiegészítő támogatás összegét havonta igényelheti az általa fenntartott köznevelési vagy szakképző intézménnyel jogviszonyban álló tanulók havi átlaglétszáma alapján.
-
-(2) A kiegészítő támogatás igénylése, elszámolása során, ha egy tanuló nem a teljes hónapban részesül nevelésben-oktatásban, egy tizedesre kerekítve kell megállapítani az adott havi létszámot.
