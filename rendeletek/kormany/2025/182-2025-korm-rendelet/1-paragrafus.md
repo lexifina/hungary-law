@@ -20,6 +20,6 @@
 
 ## kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. §[^1]
+1. § (1) A 2024/2025. tanév végén végrehajtott teljesítményértékelés (a továbbiakban: 2024/2025-ös teljesítményértékelés) során a pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púétv.) 98. § (3) bekezdése szerinti teljesítményértékelés eredményeként meghatározott illetményemelésre felhasználható összeg fenntartónként a pedagógus teljesítményértékelés hatálya alá tartozó, teljes munkaidőben foglalkoztatottakra átszámítva havonta és átlagosan fejenként 20 000 forint, amelyet a munkáltató kizárólag a jogosultak illetményemelésére használhat fel.
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2025. július 20-án lép hatályba.
+(2) A tankerületi központ által fenntartott köznevelési intézmény esetén a teljesítményértékelés eredményeként meghatározott illetményemelésre felhasználható összeg tekintetében fenntartónak a Klebelsberg Központot kell tekinteni.

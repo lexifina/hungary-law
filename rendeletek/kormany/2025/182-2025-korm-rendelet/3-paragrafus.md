@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 4. § (2) bekezdése alapján 2025. július 20-án lép hatályba.
+3. § A Púétv. 98. § (3) bekezdésének alkalmazásával a 2024/2025-ös teljesítményértékelés eredményeként az illetményt 2025. szeptember 1-jétől kell megállapítani, az erre vonatkozó kinevezésmódosítást legkésőbb 2025. szeptember 20-ig kézbesíteni kell.
