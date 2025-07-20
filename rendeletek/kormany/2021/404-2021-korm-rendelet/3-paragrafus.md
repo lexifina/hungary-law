@@ -1,4 +1,0 @@
-3. §[^15] Az 1. § (1) bekezdése szerint fizetésre kötelezett az 1. § (2) bekezdés f) pontja szerinti termékcsoportba tartozó termékek tekintetében az 1. § (2a)–(2c) bekezdése alapján megállapított értékesítési árat a gazdaság újraindítása érdekében fizetendő kiegészítő bányajáradékról szóló 404/2021. (VII. 8.) Korm. rendelet módosításáról szóló 39/2023. (II. 16.) Korm. rendelet hatálybalépését[^16] követő 30 napon belül megküldi a bányafelügyeletnek. Ha az 1. § (1) bekezdése szerint fizetésre kötelezett a termékek értékesítési árát nem az 1. § (2a) bekezdése szerint állapítja meg, az értékesítési ár bányafelügyeletnek történő megküldésével egyidejűleg igazolja, hogy az értékesítési ár megállapítása az 1. § (2b) bekezdésének megfelel.
-
-[^15]: A 3. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 4. pontja alapján nem lépett hatályba, újonnan a 39/2023. (II. 16.) Korm. rendelet 2. §-a iktatta be.
-[^16]: A hatálybalépés időpontja 2023. február 21.
