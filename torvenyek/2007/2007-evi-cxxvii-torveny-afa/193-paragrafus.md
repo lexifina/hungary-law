@@ -2,7 +2,7 @@
 
 a) a 188. § (3) bekezdésének a), c)–d) pontjában meghatározott esetekben;
 
-b) a 11. és 12. § szerinti termékértékesítése esetében;
+b) a 11. § szerinti termékértékesítése esetében és a 12. § szerinti termékértékesítés esetén, amennyiben annak tárgya új közlekedési eszköz;
 
 c) a 14. § szerinti szolgáltatásnyújtása esetében;
 

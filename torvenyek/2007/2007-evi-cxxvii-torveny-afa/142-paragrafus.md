@@ -20,7 +20,7 @@ i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében;
 
 j) a 6/B. számú mellékletben felsorolt termék értékesítése esetén, amennyiben az nem tartozik a XVI. Fejezet szerinti különös rendelkezések hatálya alá.
 
-k) az adóalany-kereskedő által teljesített 34. § (1) bekezdés a) pontja szerinti termékértékesítés esetében.
+k) az adóalany-kereskedő által teljesített 34. § (1) bekezdés a) pontja szerinti termékértékesítés esetében, azzal, hogy a terméket beszerző adóalany előzetesen és írásban köteles nyilatkozni a termék értékesítőjének arról, hogy adóalany-kereskedőnek minősül.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 

@@ -6,6 +6,8 @@ b) sem a tárgy naptári évben ésszerűen várhatóan, illetőleg ténylegesen
 
 nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
+(1a) A 12. § szerinti termékértékesítés esetén – amennyiben az adóalany annak kapcsán alanyi adómentes minőségében jár el – az (1) bekezdés szerinti értékhatár számítása szempontjából a 68. § szerinti adóalapot kell figyelembe venni.
+
 (2) Az alanyi adómentesség választására jogosító felső értékhatár: 18 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:

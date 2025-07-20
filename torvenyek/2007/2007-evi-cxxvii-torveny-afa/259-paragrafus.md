@@ -78,7 +78,7 @@ d) között a 6. § (5) bekezdése szerinti viszony áll fenn;
 
 e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója;
 
-13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
+13/A. összes hasznos alapterület: a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet 5. § 35. és 114. pontjai és a magyar építészetről szóló 2023. évi C. törvény 16. § 56. és 99. pontjai által meghatározott alapterület;
 
 13/B. nyugtatár: az e-pénztárgéppel kiállított nyugtának, nyugtával egy tekintet alá eső okiratnak, számlának, számlával egy tekintet alá eső okiratnak a terméket beszerző, szolgáltatást igénybe vevő részére történő rendelkezésre bocsátására, megőrzésére szolgáló rendszer;
 
