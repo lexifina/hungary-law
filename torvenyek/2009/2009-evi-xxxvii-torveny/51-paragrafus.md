@@ -38,7 +38,7 @@ b) mesterséges módon, amelynek során a kitermelendő faállomány védelmébe
 
 (5a) Az erdészeti hatóság döntése alapján az (5) bekezdésben felsoroltaktól eltérő főfafajú erdők sarjról, vagy sarjról és magról vegyesen is felújíthatók.
 
-(6) Ha a termőhelynek megfelelő őshonos állományalkotó főfafajok mageredetű természetes felújításának feltételei adottak, ezt a felújítási módot kell alkalmazni.
+(6)
 
 (7) Mesterséges erdőfelújítás, illetve az erdőfelújítások mesterséges pótlása esetén csak igazolt származású és az e törvény végrehajtására kiadott jogszabályban meghatározott szaporítóanyagot szabad felhasználni.
 

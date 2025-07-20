@@ -10,6 +10,6 @@ c) az erdőnevelések tervezése és végrehajtása során fokozott figyelmet ke
 
 (2) Természetvédelmi rendeltetésű, a 7. § (1) bekezdés c) pontja szerinti természetességi állapotú erdőben az erdő felújítását és nevelését az erdő természetességi állapotának javítására törekedve kell végrehajtani.
 
-(3)
+(3) Természetvédelmi rendeltetésű, őshonos fafajokból álló, mageredetű természetes felújulásra nem képes erdőben – annak sarjeredetű természetes felújítása esetén – az erdőterv szerinti tarvágás a Tvt. 33. § (5) bekezdés a) pontjában meghatározott térmértékig végezhető.
 
 (4)

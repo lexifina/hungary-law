@@ -16,7 +16,7 @@ b) a 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állap
 
 c) az erdőfelújítási kötelezettségre vonatkozó előírást alapul véve természetes mageredetű erdőfelújításra alkalmas
 
-erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
+erdőben – az 51. § (5) és (5a) bekezdés szerinti felújítás érdekében szükséges tarvágás, valamint a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
 
 (3)
 

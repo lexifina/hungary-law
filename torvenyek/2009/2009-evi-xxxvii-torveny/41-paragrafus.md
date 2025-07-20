@@ -6,7 +6,7 @@ a) az erdőtervben foglalt erdősítési, erdőnevelési és fakitermelési tev�
 
 b) a (3) bekezdésben foglalt esetben az erdőtervben nem szereplő fakitermelést
 
-a tevékenység megkezdését legkésőbb 21 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezhet.
+a tevékenység megkezdését legkésőbb 14 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezhet.
 
 (2) Az erdőgazdálkodási tevékenység az (1) bekezdés szerinti bejelentés mellőzésével is végrehajtható, ha
 
