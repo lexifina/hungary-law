@@ -1,3 +1,0 @@
-2. § (1) A Kkt. 29. § (1) bekezdésétől eltérően az országos közutak építtetője, valamint a Vktv. 87. § 4a. pontja, a Vasúti tv. 2. § 2.3. pontja és a 2006. évi LIII. tv. 6/Q. § (1) bekezdése szerinti fejlesztési közreműködő az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) is lehet.
-
-(2) Az (1) bekezdés szerinti esetben az állami tulajdonú gazdasági társaságként működő közútfejlesztési, valamint víziközlekedés fejlesztésében, vasútfejlesztésben, vagy nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításában közreműködő gazdasági társaság eljárására vonatkozó rendelkezéseket a 3. §-ban foglalt eltéréssel a miniszter építtetőként, vagy fejlesztési közreműködőként való eljárása esetén is alkalmazni kell.
