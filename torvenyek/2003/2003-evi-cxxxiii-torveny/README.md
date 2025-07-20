@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-133-00-00
 | 2025-01-01 | 2024. évi LXXXV. törvény | 2003-133-00-00.36 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 2003-133-00-00.34 |
 | 2025-05-13 | 2025. évi XXIII. törvény | 2003-133-00-00.37 |
+| 2025-07-20 | 2025. évi L. törvény | 2003-133-00-00.38 |
