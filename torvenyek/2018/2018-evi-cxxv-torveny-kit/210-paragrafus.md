@@ -39,3 +39,7 @@ b) az új jogviszonyban őt foglalkoztató szervet arról, hogy a (8) bekezdés 
 c) az őt korábban foglalkoztató kormányzati igazgatási szervet arról, hogy jár-e díjazás az új jogviszony keretében.
 
 (13) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a főispán (5), illetve (7) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
+
+(14) Az (5)–(13) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(15) A (14) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a főispánt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.

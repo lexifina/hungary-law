@@ -153,3 +153,5 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 (15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és vármegyei kormányhivatal helyett eljáró másik fővárosi és vármegyei kormányhivatalt.
 
 (16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.
+
+(17) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 112. § (15) bekezdése, a 210. § (14) bekezdése és a 232. § (9) bekezdése szerinti ellenőrző szervet.

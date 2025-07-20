@@ -12,8 +12,10 @@
 
 (6) A közigazgatási államtitkárnak a miniszter (4) bekezdés szerinti kezdeményezésére történő felmentése esetén a (2) és (3) bekezdést nem kell alkalmazni.
 
-(7) A közigazgatási államtitkár felmentése esetén a 232. § (4)–(8) bekezdését alkalmazni kell azzal, hogy
+(7) A közigazgatási államtitkár felmentése esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
 
 a) lemondási idő alatt a (2) és (3) bekezdés szerinti felmentési időt,
 
-b) a lemondási időre járó illetmény alatt az a) pont szerinti felmentési időre járó illetményt kell érteni.
+b) a lemondási időre járó illetmény alatt az a) pont szerinti felmentési időre járó illetményt
+
+kell érteni.

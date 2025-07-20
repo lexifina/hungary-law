@@ -78,10 +78,16 @@ c) új jogviszonyában a végkielégítés alapjául szolgáló időszak számí
 
 (13) A (12) bekezdés b) pontjában foglaltaktól eltérően nem kell a végkielégítést visszafizetni, ha az új jogviszony keretében nem jár díjazás. Ha a kormánytisztviselő már visszafizette a végkielégítést, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (14) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
 
+(13a) A (12) bekezdés b) pontjában foglaltaktól eltérően nem kell a végkielégítést visszafizetni, ha az új jogviszony annak érdekében jön létre, hogy az érintett személy népszámlálással kapcsolatos feladatok ellátásában számlálóbiztosként vegyen részt. Ha az érintett már visszafizette a végkielégítést, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (14) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
+
 (14) A kormánytisztviselő köteles haladéktalanul tájékoztatni
 
 a) a korábban őt foglalkoztató kormányzati igazgatási szervet az új jogviszony létesítéséről,
 
 b) az új foglalkoztató szervet arról, hogy a (12) bekezdés hatálya alá tartozik,
 
-c) az őt korábban foglalkoztató kormányzati igazgatási szervet a (13) bekezdés szerinti feltétel teljesüléséről.
+c) az őt korábban foglalkoztató kormányzati igazgatási szervet a (13) és (13a) bekezdés szerinti feltétel teljesüléséről.
+
+(15) A (12)–(14) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(16) A (15) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, a (12) bekezdés b) pontja szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a kormánytisztviselőt a kormányzati szolgálati jogviszony megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, a (12) bekezdés b) pontja szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.

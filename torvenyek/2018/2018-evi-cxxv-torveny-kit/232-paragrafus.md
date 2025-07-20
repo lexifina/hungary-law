@@ -21,3 +21,7 @@ b) az új jogviszonyban őt foglalkoztató szervet arról, hogy a (4) bekezdés 
 c) az őt korábban foglalkoztató kormányzati igazgatási szervet arról, hogy jár-e díjazás az új jogviszony keretében.
 
 (8) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a közigazgatási államtitkár (3) bekezdés szerinti lemondási időre jogosító időtartamot figyelembe kell venni.
+
+(9) A (3)–(8) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
+
+(10) A (9) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a közigazgatási államtitkárt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.

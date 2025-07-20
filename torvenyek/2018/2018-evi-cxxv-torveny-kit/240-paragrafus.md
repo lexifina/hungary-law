@@ -8,7 +8,7 @@
 
 (4) A helyettes államtitkárnak a (2) bekezdés szerinti kezdeményezésre történő felmentése esetén a 233. § (2) és (3) bekezdését nem kell alkalmazni.
 
-(5) A helyettes államtitkár felmentése esetén a 232. § (4)–(8) bekezdését alkalmazni kell azzal, hogy
+(5) A helyettes államtitkár felmentése esetén a 232. § (4)–(10) bekezdését alkalmazni kell azzal, hogy
 
 a) közigazgatási államtitkár alatt helyettes államtitkárt,
 
