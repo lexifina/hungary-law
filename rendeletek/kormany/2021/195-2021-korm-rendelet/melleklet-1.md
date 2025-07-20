@@ -2,7 +2,7 @@
 
 A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
-1.[^17] építésügyi hatósági eljárások,
+1.[^25] építésügyi hatósági eljárások,
 
 2. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
@@ -42,11 +42,11 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 20. területrendezési hatósági eljárások,
 
-21.[^18] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+21.[^26] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^17]: Az 1. melléklet 1. pontja a 438/2024. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^18]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 334. §-a szerint módosított szöveg.
+[^25]: Az 1. melléklet 1. pontja a 438/2024. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^26]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 334. §-a szerint módosított szöveg.
