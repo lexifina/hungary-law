@@ -1,0 +1,1 @@
+8/A. § A 7. és 8. § szerinti földterület juttatás keretében történő termőföldszerzés – az illetékekről szóló 1990. évi XCIII. törvény 18. §-ától eltérően – mentes a visszterhes vagyonátruházási illeték alól.
