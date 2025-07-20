@@ -26,7 +26,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
-a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 16 000 forinttól 468 000 forintig,
+a) az (1) bekezdés a)–c), e)–h) és j) pontja szerinti esetben 16 000 forinttól 468 000 forintig,
 
 b) az (1) bekezdés d) és i) pontja szerinti esetben 16 000 forinttól 1 800 000 forintig
 
