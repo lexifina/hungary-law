@@ -261,3 +261,5 @@ keretében végzett kötelezettség;
 68. átmeneti adóév: az IFRS-t alkalmazó vállalkozó esetén az áttérés adóéve, valamint az azt követő adóév;
 
 69. áttérési különbözet: a 40/J. § (1) bekezdés szerinti adóalap-növelő és -csökkentő tételek együttes összege (előjellel ellátva).
+
+70. önkormányzati ASP rendszer: az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet szerinti elektronikus információs rendszer;
