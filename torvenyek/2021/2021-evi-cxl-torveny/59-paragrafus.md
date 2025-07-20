@@ -24,9 +24,9 @@ k) közreműködés egyes szükségállapoti feladatokban,
 
 l) közreműködés a Vbö. szerinti védelmi és válságkezelési feladatokban, különösen a közrendet és a közbiztonságot jelentős mértékben veszélyeztető fenyegetések kezelése és az összehangolt védelmi tevékenység során,
 
-m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
+m) közreműködés a Kormány döntése alapján a veszélyhelyzettel, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban,
 
-n) a 6/B. § (2) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával,
+n) a 6/B. § (2) és (4) bekezdése szerinti feladat végrehajtása a hatályos nemzetközi normák betartásával.
 
 (2) A Honvédség a következő feladatokat fegyverhasználati jog nélkül látja el:
 

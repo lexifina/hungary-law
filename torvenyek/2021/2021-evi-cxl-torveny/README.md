@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-140-00-00
 | 2024-12-21 | 2024. évi LXXIV. törvény | 2021-140-00-00.12 |
 | 2025-01-01 | 2024. évi LXXXIV. törvény | 2021-140-00-00.11 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2021-140-00-00.10 |
+| 2025-07-20 | 2025. évi L. törvény | 2021-140-00-00.13 |

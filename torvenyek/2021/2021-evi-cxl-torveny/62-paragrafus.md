@@ -1,6 +1,6 @@
 62. § (1) Az 59. § (1) bekezdés szerinti közreműködői feladatra vezényelt honvéd – e törvény rendelkezéseitől eltérően –
 
-a) a Rendőrségről szóló 1994. évi XXXIV. törvény 29–33. §-ában, 35–35/B. §-ában, 37. § a), c) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+a) az Rtv. 29–33. §-ában, 35–35/B. §-ában, 37. § a), c) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
 
 b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
 
