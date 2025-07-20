@@ -10,9 +10,9 @@
 
 5.
 
-6.
+6. 175. § (1) bekezdésében a „nyolcmillió forint” szövegrész helyébe a „tízmillió forint”, a „tizenkettőmillió forint” szövegrész helyébe a „tizennégymillió forint” szöveg,
 
-7.
+7. 175. § (4) bekezdésében az „ötszázezer forint” szövegrész helyébe az „egymillió forint” szöveg,
 
 8.
 
