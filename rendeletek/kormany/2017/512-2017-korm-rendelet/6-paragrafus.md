@@ -1,1 +1,0 @@
-## 5. § A közterület-felügyelet a közterület-felügyeletről szóló törvényben meghatározott esetekben a jármű árveréssel történő értékesítéséről, vagy a jármű egyéb módon történő hasznosításáról Ákr. döntésre vonatkozó rendelkezéseinek alkalmazásával dönt.
