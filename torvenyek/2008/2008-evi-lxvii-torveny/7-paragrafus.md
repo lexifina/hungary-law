@@ -1,6 +1,6 @@
 ## A jövedelemadó mértéke
 
-7. § (1) A jövedelemadó a pozitív adóalap 31 százaléka.
+7. § (1) A jövedelemadó 2025-ben a pozitív adóalap 41 százaléka.
 
 (2) Az (1) bekezdéstől eltérően a Tao. tv. 22/B. §-a szerint fejlesztési adókedvezményt érvényesíteni jogosult adózó és a Tao. tv. 22/E. §-a szerint energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezményét érvényesíteni jogosult adózó a számított adót – legfeljebb annak 50 százalékáig, és legfeljebb a fejlesztési adókedvezmény, illetve az energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezménye érvényesítésére nyitva álló időszakban – csökkentheti a fejlesztési adókedvezmény, illetve az energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezménye társasági adóban még nem érvényesített részével. E bekezdés alkalmazásában a csoportos társasági adóalany tagja a csoportos társasági adóalanyiság időszaka alatt szerzett, a fejlesztési adókedvezményhez, illetve az energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezményéhez tartozó jogosultsági összeget az egyedileg megállapított pozitív társasági adóalapja arányában számított összegben veszi figyelembe. E bekezdés alkalmazásában a csoportos társasági adóalany tagja a csoportos társasági adóalany által érvényesített fejlesztési adókedvezményt, illetve energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezményét az egyedileg megállapított pozitív társasági adóalapja arányában számított összegben veszi figyelembe.
 
