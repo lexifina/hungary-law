@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 203/1998. (XII. 19.) Korm. rendelet 35. § (2) bekezdése.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
