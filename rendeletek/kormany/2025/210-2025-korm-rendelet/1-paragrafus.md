@@ -10,8 +10,6 @@
 
 ## 1. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
 
-1. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 54. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^1]
 
-„(5) Ha a kötelezettséget vállaló szervhez önkormányzati vagy költségvetési biztost jelöltek ki, a kötelezettségvállaláshoz – a kötelezettségvállaló és a pénzügyi ellenjegyző aláírása mellett – az önkormányzati biztos, az Áht. 39/A. § (3) bekezdés c) pontja szerinti esetben a költségvetési biztos külön ellenjegyzése is szükséges.
-
-(6) Ha a kötelezettséget vállaló szervhez költségvetési felügyelő került kirendelésre, a pénzügyi ellenjegyzőnek meg kell győződnie arról, hogy a költségvetési felügyelő az előzetes véleményezési jogát gyakorolhatta, ennek során az intézkedés végrehajtásának felfüggesztését nem javasolta. A kötelezettségvállalás pénzügyi ellenjegyzésére nem kerülhet sor, míg az intézkedés véleményezésére nem biztosítottak lehetőséget, vagy a költségvetési felügyelő az intézkedés felfüggesztésére vonatkozó javaslatát fenntartja, és az intézkedés 61/A. § (5) bekezdése szerinti jóváhagyására nem került sor.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
