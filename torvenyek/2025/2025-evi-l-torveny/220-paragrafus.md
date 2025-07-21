@@ -1,5 +1,1 @@
-220. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 232. §-a a következő (9) és (10) bekezdéssel egészül ki:
-
-„(9) A (3)–(8) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
-
-(10) A (9) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a közigazgatási államtitkárt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a kormányzati szolgálati jogviszony megszűnését követő harmadik év végéig, az (5) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.”
+### 220. §

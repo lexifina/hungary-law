@@ -1,5 +1,3 @@
 ## 49. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-210. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény „Átmeneti rendelkezések” alcíme a következő 197/F. §-sal egészül ki:
-
-„197/F. § Az 5. § (1) bekezdés e) pontjától eltérően 2025. december 30. napjáig közbeszerzési eljárás lefolytatására az a jogképes szervezet kötelezett, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az 5. § (1) bekezdés a)–f) pontjában meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza.”
+### 210. §

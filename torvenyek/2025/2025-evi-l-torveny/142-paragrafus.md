@@ -1,5 +1,3 @@
 ## 29. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-142. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 22. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A hatóság a (3) bekezdés a) pontjában foglaltakon túl – jogszabályban meghatározottak szerint – a megelőző feltárás keretében régészeti megfigyelést ír elő a földmunkával érintett terület vonatkozásában abban az esetben is, ha a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti 132 kV-os és annál nagyobb feszültségű vezetékkel vagy berendezéssel összefüggő nagyberuházás megvalósítása érdekében szükséges földmunka kizárólag légvezeték tartóoszlopa alapjának építésére vagy bővítésére irányul. Az örökségvédelmi hatóság e döntésének meghozatala során a nyilvántartási adatok és – ha rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatása alapján a védettségi fokozat figyelembevételével jár el.”
+### 142. §

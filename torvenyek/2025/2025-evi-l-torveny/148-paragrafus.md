@@ -1,1 +1,1 @@
-148. § A kereskedelemről szóló 2005. évi CLXIV. törvény 9. § (2) bekezdésében a „valamint a 6. § (2) bekezdés b) pontjában foglalt” szövegrész helyébe az „a 6. § (2) bekezdés b) pontjában, valamint a 6/K. §-ban foglalt” szöveg lép.
+### 148. §
