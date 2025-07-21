@@ -10,6 +10,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 195/2021. (IV. 26.) Korm. rendelet (a továbbiakban: R.) 2. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3) A Beruházással kapcsolatban a közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – a Kormány a közlekedési hatáskörében eljáró Hajdú-Bihar Vármegyei Kormányhivatalt jelöli ki.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
