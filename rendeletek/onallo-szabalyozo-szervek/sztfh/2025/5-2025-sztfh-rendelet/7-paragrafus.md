@@ -1,0 +1,1 @@
+7. § A Szabályozott Tevékenységek Felügyeleti Hatósága kiberbiztonsági feladataival összefüggő eljárásainak igazgatási szolgáltatási díjairól szóló 15/2023. (VII. 31.) SZTFH rendelet 1. melléklete az 1. melléklet szerint módosul.
