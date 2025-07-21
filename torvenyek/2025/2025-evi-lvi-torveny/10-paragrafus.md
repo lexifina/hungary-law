@@ -12,7 +12,7 @@
 
 (6)
 
-(7) A Kkt. 21. § (2) bekezdés a) pontjában az „a)–c) és e)–h)” szövegrész helyébe az „a)–c), e)–h) és j)” szöveg lép.
+(7)
 
 (8)
 
