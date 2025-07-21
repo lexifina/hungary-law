@@ -24,8 +24,14 @@ c) „magas” biztonsági osztály esetén 620 000 Ft.
 
 (7) A felügyeleti nyilvántartásba felvett auditor adatváltozásának bejegyzésére irányuló eljárás igazgatási szolgáltatási díja 60 000 Ft.
 
+(8)[^6] A sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezeteknek a Kiberbiztonsági tv. 29. § (1) bekezdés b) és c) pontja szerinti nyilvántartásba vételére irányuló eljárás igazgatási szolgáltatási díja 390 000 Ft.
+
+(9)[^7] A nyilvántartásba vett sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetek adatváltozás-bejegyzésére irányuló eljárás igazgatási szolgáltatási díja 60 000 Ft.
+
 [^1]: Az 1. § a 7/2024. (VI. 24.) SZTFH rendelet 7. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 4/2025. (IV. 17.) SZTFH rendelet 31. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 31. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (5) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 31. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. § (6) bekezdés nyitó szövegrésze a 4/2025. (IV. 17.) SZTFH rendelet 31. § d) pontja szerint módosított szöveg.
+[^6]: Az 1. § (8) bekezdését az 5/2025. (VI. 20.) SZTFH rendelet 6. §-a iktatta be.
+[^7]: Az 1. § (9) bekezdését az 5/2025. (VI. 20.) SZTFH rendelet 6. §-a iktatta be.
