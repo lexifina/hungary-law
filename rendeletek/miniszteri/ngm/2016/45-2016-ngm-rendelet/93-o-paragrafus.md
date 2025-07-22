@@ -1,4 +1,4 @@
-93/O. §[^145] (1) A zárjegy készletelszámolást
+93/O. §[^147] (1) A zárjegy készletelszámolást
 
 a) adóraktárban és jövedéki engedélyes kereskedőnél a Jöt. 17. §-ában foglalt készletfelvétel időpontjában,
 
@@ -10,4 +10,4 @@ kell elvégezni.
 
 (2) A készletelszámolást – a zárjegyigénylő kérelmére – az állami adó- és vámhatóság a hivatali helyiségében is elvégezheti.
 
-[^145]: A 93/O. § a 6/2023. (IX. 5.) PM rendelet 9. §-ával megállapított szöveg.
+[^147]: A 93/O. § a 6/2023. (IX. 5.) PM rendelet 9. §-ával megállapított szöveg.

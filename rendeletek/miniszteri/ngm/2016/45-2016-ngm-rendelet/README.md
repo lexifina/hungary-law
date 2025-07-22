@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-45-20-2
 | 2023-09-08 | 2016-45-20-2X.22 | 7/2020. (VII. 30.) PM rendelet |
 | 2023-10-01 | 2016-45-20-2X.23 | 6/2023. (IX. 5.) PM rendelet |
 | 2025-07-08 | 2016-45-20-2X.24 | 20/2025. (VII. 7.) NGM rendelet |
+| 2025-07-22 | 2016-45-20-2X.27 | 20/2025. (VII. 7.) NGM rendelet |

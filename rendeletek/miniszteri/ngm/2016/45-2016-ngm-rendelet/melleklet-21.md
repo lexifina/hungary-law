@@ -1,4 +1,4 @@
-21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^212]
+21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^214]
 
 A zárjegyek leírása
 
@@ -144,7 +144,7 @@ legalább 70, legfeljebb 85µm vastag.
 
 5.6. Csomagolási egység: 50 darab ív, ívenként 30 darab zárjegy, dobozba rakva.
 
-6.[^213] A Jöt. 62. § (13) bekezdésében felsorolt termék öntapadós zárjegy:
+6.[^215] A Jöt. 62. § (13) bekezdésében felsorolt termék öntapadós zárjegy:
 
 6.1. Leírása: A zárjegy téglalap alakú. A zárjegy egy sorszámot (vonalkód formájában is) tartalmaz.
 
@@ -164,5 +164,5 @@ legalább 70, legfeljebb 85µm vastag.
 
 6.6. Kiszerelési egység: 10 000 darabonként vagy 25 000 darabonként tekercsben, vagy 50 darabonként ívben és 200 ívenként dobozba csomagolva.
 
-[^212]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított, a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése, a 7/2020. (VII. 30.) PM rendelet 11. § d) pontja szerint módosított szöveg.
-[^213]: A 21. melléklet 6. pontja a 26/2022. (XII. 28.) PM rendelet 11. § c) pontjával megállapított szöveg.
+[^214]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított, a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése, a 7/2020. (VII. 30.) PM rendelet 11. § d) pontja szerint módosított szöveg.
+[^215]: A 21. melléklet 6. pontja a 26/2022. (XII. 28.) PM rendelet 11. § c) pontjával megállapított szöveg.
