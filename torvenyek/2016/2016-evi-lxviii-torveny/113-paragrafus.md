@@ -2,6 +2,8 @@
 
 113. § (1) A vasúti közlekedésről szóló törvény szerinti vasúti személyszállítási vagy vasúti árutovábbítási tevékenységet végző személy jogosult az e tevékenységéhez, valamint az e tevékenységhez kapcsolódóan végzett vasúti vontatáshoz, tolatáshoz felhasznált gázolaj adójának visszaigénylésére.
 
+(1a) A vasúti közlekedésről szóló törvény szerinti vasúti árutovábbítási tevékenységet végző személy jogosult az e tevékenységéhez, valamint az e tevékenységhez kapcsolódóan végzett vasúti vontatáshoz, tolatáshoz felhasznált villamos energia adójának visszaigénylésére.
+
 (2) Az üzemben tartóként nyilvántartott személy jogosult a víziközlekedésről szóló törvény szerinti úszómunkagépben felhasznált gázolaj adójából literenként 103 forint visszaigénylésére.
 
 (3) A közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 járműkategóriába és M3 járműkategóriába tartozó autóbuszokat a helyi és helyközi közlekedésében üzemeltető személy jogosult az e tevékenységéhez felhasznált földgáz adójának visszaigénylésére.
