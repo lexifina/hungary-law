@@ -1,0 +1,75 @@
+# A Kormány 1268/2025. (VII. 22.) Korm. határozata
+
+Magyar Közlöny 2025. évi 86. szám, 2025. július 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/HQc6YOhY6BuV8GwXqcgR686d69a152c74/dokumentumok/826b3b046e138dc88125efe9e765753a0d9f3093/letoltes)
+
+---
+
+A Kormány 1268/2025. (VII. 22.) Korm. határozata
+a hazatelepülő családok gyermekeinek felzárkóztatása és beilleszkedése érdekében szükséges
+forrásbiztosításról
+A Kormány
+1. egyetért azzal, hogy a felzárkóztatásban és a beilleszkedésben támogatni kell azokat a külföldről hazatelepülő,
+a köznevelésbe belépő 1–8. évfolyamos tanulókat, akik a hazatelepülésüket megelőző két tanév valamelyikét teljes
+egészében külföldi nevelési-oktatási intézményben, nem magyar nyelvű képzésben töltötték;
+2. egyetért azzal, hogy az 1. pontban foglalt feladat végrehajtása érdekében a köznevelési intézmény fenntartóját
+megillető kiegészítő támogatás keretösszege a 2026. évtől beépülő jelleggel évente 450 000 000 forint;
+3. egyetért azzal, hogy az 1. pontban foglalt feladat végrehajtása érdekében a 2. pontban meghatározott keretösszeg
+erejéig kiegészítő támogatásként havonta a tanulók havi átlaglétszáma alapján legfeljebb 130 000 forint/tanuló
+fajlagos összeg kerüljön megállapításra 2025. szeptember 1-jétől, amely abban az esetben illeti meg a fenntartót,
+ha a tanuló számára az adott hónapban az alapellátáson felüli heti öt óra egyéni felkészítést biztosította, abban
+az esetben, ha a tanuló számára kevesebb, mint heti öt óra felkészítés szükséges, a kiegészítő támogatás összegét
+a fenntartó a szükséges óraszámmal részarányos összegben igényelheti;
+4. egyetért azzal, hogy a fenntartó egy tanuló után a felkészítéshez szükséges kiegészítő támogatást a tanítási év
+időszakában, tanulónként legfeljebb 10 hónapig veheti igénybe;
+5. felhívja a nemzetgazdasági minisztert, hogy az 1. pontban meghatározott feladat végrehajtása érdekében
+gondoskodjon 234 000 000 forint forrás rendelkezésre állásáról a Magyarország 2025. évi központi költségvetéséről
+szóló 2024. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű
+előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési
+támogatás jogcímcsoport javára történő átcsoportosítással;
+Felelős: nemzetgazdasági miniszter
+Határidő: 2025. szeptember 1.
+6. felhívja a belügyminisztert, hogy az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. §
+(4b) bekezdése szerint a tankerületi központok által fenntartott köznevelési intézmények esetében a Klebelsberg
+Központ által összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok alapján tárgyhó 5. napjáig
+kezdeményezze a nemzetgazdasági miniszternél a 3. pontban foglalt fajlagos összeggel számított forrás
+átcsoportosításának engedélyezését a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű
+előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési
+támogatás jogcímcsoport terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 15. Klebelsberg Központ cím
+javára;
+Felelős: belügyminiszter
+nemzetgazdasági miniszter
+Határidő: 2025. szeptember 1-jétől folyamatos
+7. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – a kultúráért és innovációért felelős miniszter
+bevonásával – a felsőoktatási intézmények által fenntartott köznevelési intézmények esetében a Kulturális és
+Innovációs Minisztérium által összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok alapján tárgyhó
+5. napjáig kezdeményezze a nemzetgazdasági miniszternél a 3. pontban foglalt fajlagos összeggel számított forrás
+átcsoportosítását a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím,
+31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési támogatás
+jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 7. Egyetemek,
+főiskolák cím javára;
+Felelős: belügyminiszter
+kultúráért és innovációért felelős miniszter
+nemzetgazdasági miniszter
+Határidő: 2025. szeptember 1-jétől folyamatos
+8. felhívja a belügyminisztert, hogy az Áht. 33. § (2) bekezdése szerint – a kultúráért és innovációért felelős miniszter
+bevonásával – az egyházi fenntartású felsőoktatási intézmények, valamint a közfeladatot ellátó közérdekű
+vagyonkezelő alapítvány által fenntartott felsőoktatási intézmények köznevelési intézményei esetében a Kulturális
+és Innovációs Minisztérium által összesített, oktatási nyilvántartásokkal egyeztetett igénylési adatok alapján
+tárgyhó 5. napjáig kezdeményezze a nemzetgazdasági miniszternél a 3. pontban foglalt fajlagos összeggel
+számított forrás átcsoportosítását a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű
+
+előirányzatok cím, 31. Köznevelési feladatok támogatása alcím, 1. Köznevelési célú humánszolgáltatás és működési
+támogatás jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti
+kezelésű előirányzatok cím, 12. Felsőoktatási feladatok alcím, 1. Nem állami felsőoktatási intézmények támogatása
+jogcímcsoport javára.
+Felelős: belügyminiszter
+kultúráért és innovációért felelős miniszter
+nemzetgazdasági miniszter
+Határidő: 2025. szeptember 1-jétől folyamatos
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Bíró Attila.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a https://www.magyarkozlony.hu honlapon érhető el.
