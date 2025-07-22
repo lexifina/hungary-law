@@ -6,6 +6,6 @@ b)
 
 c)
 
-d) 1. mellékletében foglalt táblázat 3. sora,
+d)
 
 e)
