@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1762-30
 | 2017-11-08 | 2017-1762-30-22.2 | 2010: CXXX. törvény |
 | 2024-08-09 | 2017-1762-30-22.3 | 1239/2024. (VIII. 8.) Korm. határozat |
 | 2024-09-15 | 2017-1762-30-22.4 | 1239/2024. (VIII. 8.) Korm. határozat |
+| 2025-07-22 | 2017-1762-30-22.5 | 1239/2024. (VIII. 8.) Korm. határozat |

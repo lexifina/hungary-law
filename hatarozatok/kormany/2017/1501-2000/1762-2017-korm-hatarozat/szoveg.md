@@ -74,7 +74,7 @@ Határidő: 2017. december 31.
 
 i) egyetért azzal, hogy a b) alpont alapján biztosított forrás felhasználása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-j)[^3] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az érintett szervezetek bevonásával gondoskodjon az a)–e) alpont szerinti hálózat Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: Pro-M Zrt.) 2025. január 1-jével történő átvételéről és a hálózat folyamatos működtetéséről, fenntartásáról, menedzseléséről;
+j)[^3] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az érintett szervezetek bevonásával gondoskodjon az a)–e) alpont szerinti hálózat Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: Pro-M Zrt.) 2025. január 1-jével történő átvételéről és a hálózat folyamatos működtetéséről, fenntartásáról, menedzseléséről;
 
 | Felelős: | Miniszterelnöki Kabinetirodát vezető miniszter |
 
@@ -90,6 +90,6 @@ k) [^4] felhívja a pénzügyminisztert, hogy – a Miniszterelnöki Kabinetirod
 
 [^1]: Az 1. pont c) alpont cc) pontja az 1239/2024. (VIII. 8.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: Az 1. pont e) alpontja az 1239/2024. (VIII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^3]: Az 1. pont j) alpontját az 1239/2024. (VIII. 8.) Korm. határozat 3. pontja iktatta be.
+[^3]: Az 1. pont j) alpontját az 1239/2024. (VIII. 8.) Korm. határozat 3. pontja iktatta be, szövege az 1266/2025. (VII. 22.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^4]: Az 1. pont k) alpontját az 1239/2024. (VIII. 8.) Korm. határozat 3. pontja iktatta be.
 [^5]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
