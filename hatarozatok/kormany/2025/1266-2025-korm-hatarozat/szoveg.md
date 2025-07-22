@@ -1,0 +1,5 @@
+1. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 2.66. pontjában a „Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság” szöveg lép.
+
+2. A Nemzeti Tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózat kialakításáról szóló 1102/2016. (III. 3.) Korm. határozat 6. pontjában a „Pro-M Professzionális Mobilrádió Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság” szöveg lép.
+
+3. A digitális oktatáshoz szükséges iskolai sávszélesség biztosításáról, a belső WiFi-hálózat kiépítéséről és működtetéséről szóló 1762/2017. (XI. 7.) Korm. határozat 1. pont j) alpontjában a „Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság” szöveg lép.
