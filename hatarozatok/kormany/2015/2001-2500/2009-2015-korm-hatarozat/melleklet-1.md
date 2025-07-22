@@ -282,7 +282,7 @@
 
 2.65.[^42] Országos Fordító és Fordításhitelesítő Iroda Zrt.
 
-2.66.[^43] Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság,
+2.66.[^43] Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság,
 
 2.67.[^44] IdomSoft Informatikai Zrt.
 
@@ -328,5 +328,5 @@
 [^40]: Az 1. melléklet 2. pont 2.63. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^41]: Az 1. melléklet 2. pont 2.64. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^42]: Az 1. melléklet 2. pont 2.65. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^43]: Az 1. melléklet 2. pont 2.66. alpontját az 1450/2024. (XII. 31.) Korm. határozat 2. pontja iktatta be.
+[^43]: Az 1. melléklet 2. pont 2.66. alpontját az 1450/2024. (XII. 31.) Korm. határozat 2. pontja iktatta be, szövege az 1266/2025. (VII. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^44]: Az 1. melléklet 2. pont 2.67. alpontját az 1450/2024. (XII. 31.) Korm. határozat 2. pontja iktatta be.
