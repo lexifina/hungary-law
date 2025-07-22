@@ -58,7 +58,7 @@ belügyminiszter
 
 Határidő: 2017. március 15.
 
-6.[^7] felhívja az innovációért és technológiáért felelős minisztert, hogy – szükség esetén jogalkotás vagy annak kezdeményezése útján – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával tegye meg a szükséges intézkedéseket annak érdekében, hogy a projektek megvalósítása során beszerzendő eszközök az állam tulajdonába kerüljenek, azok felett az állam tulajdonosi és azzal összefüggő vagyonkezelési jogait a NÚSZ Zrt., a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.), a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MK Zrt.), az ITM, a Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF), illetve a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.), a Pro-M Professzionális Mobilrádió Zártkörűen Működő Részvénytársaság (a továbbiakban: Pro-M Zrt.) a következők szerint gyakorolja:
+6.[^7] felhívja az innovációért és technológiáért felelős minisztert, hogy – szükség esetén jogalkotás vagy annak kezdeményezése útján – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával tegye meg a szükséges intézkedéseket annak érdekében, hogy a projektek megvalósítása során beszerzendő eszközök az állam tulajdonába kerüljenek, azok felett az állam tulajdonosi és azzal összefüggő vagyonkezelési jogait a NÚSZ Zrt., a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.), a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MK Zrt.), az ITM, a Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF), illetve a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.), a Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: Pro-M Zrt.) a következők szerint gyakorolja:
 
 a) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 2. § 17. pontjában meghatározott UD rendszerben (a továbbiakban: UD rendszer) és az elektronikus útdíjszedési és díjellenőrzési létesítményekhez létrejövő vagyonelemek, ideértve az UD rendszerben kialakításra kerülő szoftver- és hardverelemek, valamint az újonnan kialakítandó fixen telepített ellenőrző keresztmetszetek és azok eszközei, továbbá az azokhoz beépítésre kerülő súlymérő eszközök feletti tulajdonosi jogokat a NÚSZ Zrt. gyakorolja;
 
@@ -94,7 +94,7 @@ Határidő: folyamatos
 [^4]: A 2. pont c) alpontja az 1825/2018. (XII. 27.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^5]: A 4. pont a) alpontja az 1825/2018. (XII. 27.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^6]: Az 5. pont az 1825/2018. (XII. 27.) Korm. határozat 3. pont b) és c) alpontja szerint módosított szöveg.
-[^7]: A 6. pont az 1825/2018. (XII. 27.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 6. pont az 1825/2018. (XII. 27.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1266/2025. (VII. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^8]: A 7. pont az 1825/2018. (XII. 27.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
 [^9]: A 8. pontot az 1374/2021. (VI. 11.) Korm. határozat 8. pontja visszavonta.
 [^10]: A 9. pontot az 1374/2021. (VI. 11.) Korm. határozat 8. pontja visszavonta.
