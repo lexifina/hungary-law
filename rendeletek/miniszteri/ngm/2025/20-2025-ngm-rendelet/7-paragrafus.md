@@ -2,4 +2,6 @@
 
 (2) A 4. § az e rendelet kihirdetését követő 31. napon lép hatályba.
 
-(3) Az 5. § az Európai Bizottság jóváhagyó határozata meghozatalának napját követő 15. napon lép hatályba. Az 5. § hatálybalépésének naptári napját – annak ismertté válását követően – az adópolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
+(3) Az 5. § az Európai Bizottság jóváhagyó határozata meghozatalának napját követő 15. napon lép hatályba. Az 5. § hatálybalépésének naptári napját – annak ismertté válását követően – az adópolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.[^6]
+
+[^6]: Az 1/2025. (VII. 24.) NGM határozat alapján a hatálybalépés időpontja 2025. július 22.
