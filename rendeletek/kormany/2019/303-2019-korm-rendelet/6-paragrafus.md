@@ -6,7 +6,7 @@
 
 a) az Országos Sportegészségügyi Intézettel,
 
-b)[^7] a Magyar Testnevelési és Sporttudományi Egyetemmel,
+b)[^4] a Magyar Testnevelési és Sporttudományi Egyetemmel,
 
 c) sporttudományi képzést folytató felsőoktatási intézménnyel, valamint
 
@@ -14,7 +14,7 @@ d) egészségügyi intézménnyel.
 
 (3) A sportakadémia együttműködést alakíthat ki a sportágban működő más hazai és nemzetközi sportakadémiával vagy utánpótlás-nevelést végző sportszervezettel.
 
-(4)[^8] A sportakadémia az e rendeletben meghatározottak szerint együttműködik a 15/A. § szerinti sportakadémiai módszertani központtal.
+(4)[^5] A sportakadémia az e rendeletben meghatározottak szerint együttműködik a 15/A. § szerinti sportakadémiai módszertani központtal.
 
-[^7]: A 6. § (2) bekezdés b) pontja a 672/2023. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^8]: A 6. § (4) bekezdését a 457/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 6. § (2) bekezdés b) pontja a 672/2023. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 6. § (4) bekezdését a 457/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.

@@ -18,14 +18,14 @@ a) a sportakadémia által ellátott vagy ellátandó, közneveléssel összefü
 
 b) a sportszervezetnek a sportakadémiaként való működésére vonatkozó rendelkezéseket és vállalásokat, valamint a keretmegállapodás végrehajtására vonatkozó beszámolóra, a beszámolási kötelezettség teljesítésének elmulasztására és a beszámoló ellenőrzésére vonatkozó rendelkezéseket.
 
-(3)[^21] A keretmegállapodás határozatlan időtartamra szól.
+(3)[^19] A keretmegállapodás határozatlan időtartamra szól.
 
-(4)[^22] A keretmegállapodás aláírásával a sportszervezet vállalja, hogy a keretmegállapodás hatályának időtartama alatt a 2/A. § a)–d) pontjában foglaltaknak megfelelő utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszerekben sportolók sporttevékenységével összefüggésben kizárólag ingatlanra irányuló tárgyi eszköz beruházást, felújítást és a minőségbiztosítási rendszerben nevesített tárgyi eszköz beszerzését tartalmazó, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) szerinti sportfejlesztési programot nyújt be látvány-csapatsport támogatás igénybevétele érdekében, és a sportfejlesztési programot a benyújtását megelőzően a miniszter véleményezi. A sportszervezet a sportfejlesztési programot a benyújtását megelőzően legalább 30 nappal megküldi a miniszter részére véleményezés céljából.
+(4)[^20] A keretmegállapodás hatályának időtartama alatt a 2/A. § a)–d) és g) pontjában foglaltaknak megfelelő utánpótlás korosztályok esetében a sportakadémiai támogatás biztosítása nem zárja ki a Tao. tv. szerinti látvány-csapatsport támogatás igénybevételével összefüggő sportfejlesztési program benyújtását a miniszter részére. A keretmegállapodással rendelkező sportakadémiák a 2/A. § a)–d) és g) pontjának megfelelő utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszerekben sportolók sporttevékenységével összefüggésben a Tao. tv. szerinti támogatást – működési formájuktól függően – a Tao. tv. 22/C. § (1) bekezdés b) pontjában, (1) bekezdés c) pont ca) alpontjában vagy (1) bekezdés d) pontjában meghatározott célokra használhatják fel a Tao. tv.-ben, a sportakadémiák látvány-csapatsport támogatásáról szóló 214/2025. (VII. 22.) Korm. rendeletben (a továbbiakban: Slt. Korm. rendelet) és – az Slt. Korm. rendeletben nem szabályozott esetekben – a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendeletben foglaltaknak megfelelően.
 
-(5)[^23] A keretmegállapodás aláírásával a sportszervezet vállalja, hogy a keretmegállapodás hatályának időtartama alatt a 2/A. § a)–d) pontjában foglaltaknak megfelelő utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszerekben sportolók sporttevékenységével összefüggésben kizárólag ingatlanra irányuló tárgyi eszköz beruházás, felújítás és a minőségbiztosítási rendszerben nevesített tárgyi eszköz beszerzés céljára használ fel a Tao. tv. szerinti látvány-csapatsport támogatást.
+(5)[^21]
 
 (6) A keretmegállapodás aláírásával a sportszervezet vállalja, hogy a keretmegállapodás hatályának időtartama alatt folyamatos kapcsolatot tart a szakszövetséggel.
 
-[^21]: A 12. § (3) bekezdése a 672/2023. (XII. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
-[^22]: A 12. § (4) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^23]: A 12. § (5) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^19]: A 12. § (3) bekezdése a 672/2023. (XII. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^20]: A 12. § (4) bekezdése a 215/2025. (VII. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^21]: A 12. § (5) bekezdését a 215/2025. (VII. 22.) Korm. rendelet 17. §-a hatályon kívül helyezte.

@@ -1,12 +1,12 @@
-## 3/A. [^9] Sportakadémiai tanulmányi ösztöndíjrendszer
+## 3/A. [^6] Sportakadémiai tanulmányi ösztöndíjrendszer
 
-7/A. § (1)[^10] Az államilag elismert sportakadémiák tanulmányiösztöndíj-rendszere egységes. A sportakadémia a sportolót a tanulmányi eredményeitől függően tanulmányi ösztöndíjban (a továbbiakban: ösztöndíj) részesítheti a (2)–(8) bekezdésben meghatározott feltételekkel.
+7/A. § (1)[^7] Az államilag elismert sportakadémiák tanulmányiösztöndíj-rendszere egységes. A sportakadémia a sportolót a tanulmányi eredményeitől függően tanulmányi ösztöndíjban (a továbbiakban: ösztöndíj) részesítheti a (2)–(8) bekezdésben meghatározott feltételekkel.
 
 (2) A sportakadémia a keretmegállapodás alapján, az intézményesített rendszerén belül, az amatőr sportolót kizárólag ösztöndíjban részesítheti.
 
-(3)[^11] A sportakadémia az utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszerben részt vevő sportolóit jutalmazhatja ösztöndíjjal.
+(3)[^8] A sportakadémia az utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszerben részt vevő sportolóit jutalmazhatja ösztöndíjjal.
 
-(4)[^12] A sportakadémia a nemzeti köznevelésről szóló törvény szerinti tanévre szóló időtartamra, havi bontásban részesítheti a sportolót ösztöndíjban, amely az ösztöndíj juttatásának évében folyamatban lévő versenyidőszakot megelőző tanulmányi évben teljesített tantárgyak átlaga (a továbbiakban: tanulmányi átlag) alapján juttatható.
+(4)[^9] A sportakadémia a nemzeti köznevelésről szóló törvény szerinti tanévre szóló időtartamra, havi bontásban részesítheti a sportolót ösztöndíjban, amely az ösztöndíj juttatásának évében folyamatban lévő versenyidőszakot megelőző tanulmányi évben teljesített tantárgyak átlaga (a továbbiakban: tanulmányi átlag) alapján juttatható.
 
 (5) A sportakadémia az állami támogatásból folyósított ösztöndíjra jogosultak keretlétszámát tanévenként legfeljebb 5 főben határozhatja meg, nemenkénti és korosztályos bontásban.
 
@@ -16,7 +16,7 @@
 
 (8) A sportoló részére nyújtott ösztöndíj legfeljebb egy adott tanévre ítélhető meg, amely minden tanévet követően újra elbírálható, azzal, hogy ugyanazon sportolónak ismételten is megítélhető az ösztöndíj.
 
-[^9]: A 3/A. alcímet (7/A. §) a 457/2020. (X. 20.) Korm. rendelet 2. §-a iktatta be.
-[^10]: A 7/A. § (1) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^11]: A 7/A. § (3) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^12]: A 7/A. § (4) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^6]: A 3/A. alcímet (7/A. §) a 457/2020. (X. 20.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 7/A. § (1) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 7/A. § (3) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^9]: A 7/A. § (4) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
