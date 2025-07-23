@@ -24,4 +24,11 @@ e) a megfelelőségértékelési tevékenység és a díjazás függetlenségén
 
 f) a tanúsításra vonatkozó tevékenység szabályozottsága, eljárásrendje.
 
+g)[^1] a megfelelőségértékelő tevékenység végzéséhez szükséges szakmai folytonosság biztosítása érdekében rendelkezzen megfelelő számú tanúsítást végző személyzettel, amely esetében a munkaviszonyban álló alkalmazottak száma – ide nem értve a munkavégzésre irányuló egyéb jogviszonyban lévőket – eléri vagy meghaladja a két főt,
+
+h)[^2] a megfelelőségértékelő szervezet alkalmazottai a legnagyobb szakmai önállósággal és műszaki hozzáértéssel legyenek képesek elvégezni azokat a feladatokat, amelyekre a tanúsító szervet kijelölték, és mentesek legyenek minden olyan, különösen pénzügyi nyomástól és ösztönzéstől, amely befolyásolhatná döntéseiket vagy bármely ellenőrzésük eredményét, különösen az ilyen eredményekben érdekelt személyek vagy csoportok részéről.
+
 (3) Ha a kérelmező szervezet – a 315/2009. (XII. 28.) Korm. rendelet 5. §-ára figyelemmel – a megfelelőségértékelési tevékenységek végzéséhez leányvállalatot vagy alvállalkozót (a továbbiakban együtt: közreműködő) kíván igénybe venni, a (2) bekezdés szerinti vizsgálat kiterjed arra is, hogy a közreműködő megfelel-e a kérelmező szervezetre vonatkozó követelményeknek. Az ehhez szükséges dokumentációt a kérelmező szervezet a kijelölő hatóság rendelkezésére bocsátja.
+
+[^1]: A 3. § (2) bekezdés g) pontját a 216/2025. (VII. 22.) Korm. rendelet 10. §-a iktatta be.
+[^2]: A 3. § (2) bekezdés h) pontját a 216/2025. (VII. 22.) Korm. rendelet 10. §-a iktatta be.

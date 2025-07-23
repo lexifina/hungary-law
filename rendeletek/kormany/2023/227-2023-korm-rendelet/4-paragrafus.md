@@ -7,3 +7,7 @@
 (3) A kijelölés a kijelölési kérelem szerinti határozott, legfeljebb hároméves időtartamra szól.
 
 (4) A kijelölő hatóság a kijelölési kérelmet elutasítja, ha a kérelem vagy a kérelmező szervezet a hiánypótlást követően sem felel meg a kérelemmel vagy a kérelmező szervezettel szemben az Msztv.-ben, a 315/2009. (XII. 28.) Korm. rendeletben vagy az e rendeletben foglalt követelményeknek.
+
+(5)[^3] A kijelölési kérelem elutasítása esetén ismételt kijelölési kérelem az elutasító döntést követő egy éven belül nem nyújtható be.
+
+[^3]: A 4. § (5) bekezdését a 216/2025. (VII. 22.) Korm. rendelet 11. §-a iktatta be.

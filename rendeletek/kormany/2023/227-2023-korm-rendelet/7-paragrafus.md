@@ -16,4 +16,6 @@ d) a gazdasági szereplők panaszainak kivizsgálása megfelelő volt-e.
 
 (4) A kijelölt tanúsító szervezet a kijelölés feltételeiben bekövetkezett változást – a változást alátámasztó iratok csatolásával – a bizalmi felügyeletnek haladéktalanul bejelenti. Ha a változásbejelentés a 2. § (2) bekezdés d) pontjában foglalt, valamint a 315/2009. (XII. 28.) Korm. rendelet 12. § (2) bekezdés a) pontjában foglalt adat módosítását is tartalmazza, a kijelölt tanúsító szervezet a módosított dokumentumok változásokkal egységes szerkezetbe foglalt változatát is benyújtja.
 
-(5) A kijelölt tanúsító szervezetek kijelölést követő ellenőrzése során a 315/2009. (XII. 28.) Korm. rendelet 19–22. § rendelkezéseit is alkalmazni kell.
+(5)[^4] A kijelölt tanúsító szervezetek kijelölést követő ellenőrzése során a 315/2009. (XII. 28.) Korm. rendelet 19–22. §-át is alkalmazni kell, azzal, hogy a bizalmi felügyelet kezdeményezi a kijelölő hatóságnál a kijelölési engedélyekkel kapcsolatos eljárások lefolytatását, és javaslatot tesz a kijelöléssel kapcsolatos döntések meghozatalára.
+
+[^4]: A 7. § (5) bekezdése a 216/2025. (VII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
