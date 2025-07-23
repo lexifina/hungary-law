@@ -14,6 +14,8 @@
 
 6. ingatlan: ingatlan, ingatlanrészek, ingatlanalrészlet és ingatlanhányad.
 
+6a. kikötő üzemeltetője: a Duna magyarországi szakaszán található, személyforgalmat lebonyolító, a víziközlekedésről szóló 2000. évi XLII. törvény 87. § 20. pontja szerinti kikötő üzemben tartója;
+
 7. turisztikai attrakció: olyan turisztikai céllal hasznosított és működtetett természeti vagy ember alkotta vonzerő, illetve földrajzi terület, amely a látogatók számára élmény-, szabadidős, utazási szolgáltatásokkal, kínálati palettával, vagy szórakoztatási funkcióval rendelkezik;
 
 8. turisztikai attrakció üzemeltetője: a turisztikai attrakció bérlője, tulajdonosa, fenntartója vagy kezelője;

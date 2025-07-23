@@ -36,4 +36,6 @@ n) turisztikai és vendéglátóipari célú támogatás vagy hitel és pénzkö
 
 o) KTH Zrt. forrásbevonásához kapcsolódó állami készfizető kezességvállalás részletszabályait és a magyarországi turizmus és vendéglátóipar fejlesztése érdekében biztosítandó költségvetési támogatás szabályait;
 
+p) kikötő üzemeltetője adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat, az adatszolgáltatással érintett adatkört, továbbá a szolgáltatott adatok kezelésével és felhasználásával kapcsolatos részletes szabályokat
+
 rendeletben határozza meg.
