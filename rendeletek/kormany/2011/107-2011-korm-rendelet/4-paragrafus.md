@@ -28,7 +28,7 @@ fa) a támogatás igénybevételére jogosult szervezet vállalja, hogy a Tao. t
 
 fb)[^70] a támogatás igénybevételére jogosult szervezet vállalja, hogy a Tao. tv. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetéshez szükséges közokirat, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokirat kiállításának költségét az ellenőrzést végző szervezet részére megfizeti.
 
-g)[^71] az Országos Bírósági Hivatal által kiadott, elektronikus aláírással ellátott igazolást vagy a céginformációs szolgálat által kiadott, a beszámoló befogadására vonatkozó igazolást arról, hogy a támogatás igénybevételére jogosult szervezet az igazolás és a támogatási igazolás iránti kérelme benyújtását megelőző, az előírt benyújtási határidők figyelembevételével legutóbbi üzleti évre vonatkozó beszámolójának közzétételre történő megküldési kötelezettségét teljesítette, továbbá
+g)[^71] az Országos Bírósági Hivatal által kiadott, elektronikus aláírással ellátott igazolást vagy a céginformációs szolgálat által kiadott, a beszámoló befogadására vonatkozó igazolást arról, hogy a támogatás igénybevételére jogosult szervezet az igazolás és a támogatási igazolás iránti kérelme benyújtását megelőző lezárt üzleti évre vonatkozó beszámolójának közzétételre történő megküldési kötelezettségét teljesítette, továbbá
 
 h)[^72] a támogatás igénybevételére jogosult szervezet vezetőjének nyilatkozatát arról, hogy a jogszabály által előírt számviteli szabályzatokkal a támogatás igénybevételére jogosult szervezet rendelkezik.
 
@@ -94,7 +94,7 @@ irányul.
 [^68]: A 4. § (2) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 65. §-ával megállapított szöveg.
 [^69]: A 4. § (2) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 328. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^70]: A 4. § (2) bekezdés f) pont fb) alpontja a 221/2014. (IX. 4.) Korm. rendelet 567. § b) pontja, a 393/2017. (XII. 13.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^71]: A 4. § (2) bekezdés g) pontját a 398/2024. (XII. 16.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 119/2025. (V. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^71]: A 4. § (2) bekezdés g) pontját a 398/2024. (XII. 16.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 119/2025. (V. 29.) Korm. rendelet 2. §-ával megállapított, a 215/2025. (VII. 22.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^72]: A 4. § (2) bekezdés h) pontját a 398/2024. (XII. 16.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^73]: A 4. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 41. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
 [^74]: A 4. § (3) bekezdése a 96/2016. (V. 2.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

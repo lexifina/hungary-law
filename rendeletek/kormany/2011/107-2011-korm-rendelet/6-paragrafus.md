@@ -16,7 +16,7 @@ e)[^90] a támogatás igénybevételére jogosult szervezet a 4. § (11) bekezd�
 
 f)[^91] az igazolás és a támogatási igazolás kiállítása iránti kérelemhez csatolásra kerül a Tao. tv. 22/C. § (5) bekezdés i) pontja szerinti támogatási szándéknyilatkozat, valamint – amennyiben az országos sportági szakszövetség a támogatás továbbadására vonatkozó igényt sportfejlesztési programjában feltüntette – a 9. § (2) bekezdése szerinti támogatási szerződés,
 
-g)[^92] a támogatás igénybevételére jogosult szervezet az Országos Bírósági Hivatal által kiadott, elektronikus aláírással ellátott igazolás vagy a céginformációs szolgálat által kiadott, a beszámoló befogadására vonatkozó igazolás benyújtásával igazolja, hogy az igazolás és a támogatási igazolás iránti kérelme benyújtását megelőző, az előírt benyújtási határidők figyelembevételével legutóbbi üzleti évre vonatkozó beszámolójának közzétételre történő megküldési kötelezettségét teljesítette,
+g)[^92] a támogatás igénybevételére jogosult szervezet az Országos Bírósági Hivatal által kiadott, elektronikus aláírással ellátott igazolás vagy a céginformációs szolgálat által kiadott, a beszámoló befogadására vonatkozó igazolás benyújtásával igazolja, hogy az igazolás és a támogatási igazolás iránti kérelme benyújtását megelőző lezárt üzleti évre vonatkozó beszámolójának közzétételre történő megküldési kötelezettségét teljesítette,
 
 h)[^93] az igazolás és a támogatási igazolás kiállítása iránti kérelemhez csatolásra kerül a támogatás igénybevételére jogosult szervezet vezetőjének nyilatkozata arról, hogy a jogszabály által előírt számviteli szabályzatokkal a támogatás igénybevételére jogosult szervezet rendelkezik, és
 
@@ -39,7 +39,7 @@ i)[^94] a támogatás igénybevételére jogosult szervezet eleget tett a 11. §
 [^89]: A 6. § (1) bekezdés d) pont db) alpontja a 475/2017. (XII. 28.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
 [^90]: A 6. § (1) bekezdés e) pontját a 134/2013. (V. 9.) Korm. rendelet 2. §-a iktatta be.
 [^91]: A 6. § (1) bekezdés f) pontját a 398/2024. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^92]: A 6. § (1) bekezdés g) pontját a 398/2024. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 119/2025. (V. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^92]: A 6. § (1) bekezdés g) pontját a 398/2024. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 119/2025. (V. 29.) Korm. rendelet 3. §-ával megállapított, a 215/2025. (VII. 22.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^93]: A 6. § (1) bekezdés h) pontját a 398/2024. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 119/2025. (V. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^94]: A 6. § (1) bekezdés i) pontját a 398/2024. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^95]: A 6. § (1a) bekezdését a 40/2019. (III. 7.) Korm. rendelet 2. §-a iktatta be.
