@@ -1,0 +1,3 @@
+17. §[^3]
+
+[^3]: A 17. § a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.
