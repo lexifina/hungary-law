@@ -14,7 +14,7 @@ bb) kormányrendeletben meghatározott feltételeknek megfelelő szolgáltató
 
 (a továbbiakban együtt: regisztrált szolgáltatók)
 
-## által nyújtott regisztrációköteles adathasznosítás-támogatási szolgáltatások segítik.
+által nyújtott regisztrációköteles adathasznosítás-támogatási szolgáltatások segítik.
 
 (2) Az (1) bekezdés a) pontja és b) pont ba) alpontja szerinti szolgáltató az adathasznosítás-támogatási szolgáltatások nyújtását közreműködő bevonásával is biztosíthatja.
 
@@ -68,7 +68,7 @@ j) a Kormány által rendeletben meghatározott egyéb regisztrált adathasznos�
 
 (5) A (3) és (4) bekezdés szerinti adathasznosítás-támogatási szolgáltatások (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) összevontan is nyújthatók.
 
-(6) A (4) bekezdés a) és b) pontja vonatkozásában minden közfeladatot ellátó szerv szolgáltatónak minősül és az (1) bekezdés b) pontja szerint regisztrálni köteles.
+(6) A (4) bekezdés a) és b) pontja vonatkozásában minden közfeladatot ellátó szerv kizárólagos szolgáltatónak minősül és az (1) bekezdés b) pontja szerint regisztrálni köteles.
 
 (7) Kormányrendelet a szolgáltatásokra, vagy azok részszolgáltatásai tekintetében a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv figyelembevételével további szervet vagy szervezetet kijelölhet.
 

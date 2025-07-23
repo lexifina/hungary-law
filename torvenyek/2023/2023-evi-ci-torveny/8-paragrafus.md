@@ -4,7 +4,7 @@
 
 ## 8. Nemzeti adatvagyon-gazdálkodás megvalósításáért felelős miniszter
 
-8. § (1) A nemzeti adatvagyon hasznosításának támogatása körében az e törvényben meghatározott természetes személyek, valamint közfeladatot ellátó szervek, szervezetek és egyéb jogi személyek feladatainak és kötelezettségeinek teljesítését az e-közigazgatás és informatikai fejlesztések egységesítésért felelős miniszter (a továbbiakban: miniszter) koordinálja.
+8. § (1) A nemzeti adatvagyon hasznosításának támogatása körében az e törvényben meghatározott természetes személyek, valamint közfeladatot ellátó szervek, szervezetek és egyéb jogi személyek feladatainak és kötelezettségeinek teljesítését az e-közigazgatás és informatikai fejlesztések egységesítésért felelős miniszter (a továbbiakban: miniszter) irányítja.
 
 (2) A miniszter az (1) bekezdésben meghatározott feladatai ellátása érdekében különösen:
 

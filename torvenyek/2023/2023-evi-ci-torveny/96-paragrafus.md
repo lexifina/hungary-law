@@ -1,14 +1,4 @@
-96. § (1) A KSH a NAVÜ felkérésére közreműködik
-
-a) a kormányzati tájékoztatási szolgáltatás,
-
-b) a közcélú tájékoztatási szolgáltatás,
-
-c) a piaci tájékoztatási szolgáltatás, valamint
-
-d) a döntés-előkészítést támogató szolgáltatás
-
-nyújtásában.
+96. § (1) A KSH a NAVÜ felkérésére közreműködik a NAVÜ által nyújtott szolgáltatások fejlesztésében és nyújtásában.
 
 (2) Az adatelemzéshez szükséges nem statisztikai adatgyűjtésből származó adatokat – a nyílt hozzáférésű adatok kivételével – a NAVÜ kéri el a közfeladatot ellátó szervektől.
 

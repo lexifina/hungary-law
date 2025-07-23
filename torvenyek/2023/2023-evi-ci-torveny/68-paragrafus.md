@@ -16,4 +16,4 @@ a) közfeladata ellátásával összefüggő költségeit jelentős részben saj
 
 b) költségvetését a 68. § (1) bekezdés a) pontja szerinti nagy értékű adatkészlet ingyenes rendelkezésre bocsátása nagy mértékben befolyásolná.
 
-(4) A NAVÜ az igény teljesítéséhez a közfeladatot ellátó szervtől átvett adatot jogosult feladatai ellátása céljából a Nemzeti Adatplatformon tárolni és azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és a kormányzati tájékoztató szolgáltatási igény esetében további díj fizetése nélkül a további szolgáltatási igények teljesítésénél felhasználni.
+(4)

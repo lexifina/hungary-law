@@ -46,7 +46,7 @@
 
 22. nagy értékű adatkészletek: a konkrét nagy értékű adatkészletek jegyzékének, valamint a közzétételükre és a további felhasználásukra vonatkozó szabályoknak a meghatározásáról szóló 2022. december 31-i (EU) 2023/138 bizottsági végrehajtási rendeletben meghatározott adatkészletek;
 
-23. Nemzeti Adatplatform: olyan informatikai szolgáltatás, amely az e törvényben vagy Kormány által rendeletben kijelölt szolgáltató által gyűjtött adatok tárolását, valamint más szervezet kezelésében lévő adatok egységes hozzáférhetővé tételét biztosítja;
+23. Nemzeti Adatplatform: olyan informatikai szolgáltatás, amely az e törvényben vagy Kormány által rendeletben kijelölt szolgáltató által gyűjtött adatok biztonságos adatkezelési környezetben történő tárolását, valamint más szervezet kezelésében lévő adatok egységes hozzáférhetővé tételét biztosítja;
 
 24. nemzeti adatvagyon: a közfeladatot ellátó szervek által kezelt közadatok, dokumentumok és kulturális közadatok, továbbá egyéb a kezelésükben lévő személyes és védett adatok összessége, függetlenül azok megjelenési formájától;
 
@@ -68,7 +68,11 @@
 
 33. személytelenítés: a személyhez kapcsoltság megszüntetése valamely technikai megoldással, amellyel személytelenített adat jön létre;
 
-34. személytelenített adat: olyan adat, amelyre vonatkozóan az adathasznosítást végző szerv vagy személy nem rendelkezik olyan technikai feltételekkel, amellyel felfedheti az adat természetes vagy nem természetes személyhez kapcsoltságát;
+34. személytelenített adat:
+
+a) olyan adat, amely alapján a természetes személy további információk felhasználásával sem azonosítható, azaz az anonimizált személyes adat, illetve az olyan védett adat, amely esetében az egyedi beazonosítás lehetősége véglegesen megszűnt,
+
+b) olyan adat, amely esetében az adathasznosítást végző szerv vagy személy nem rendelkezik azokkal a technikai feltételekkel, amellyel felfedheti az adat természetes személyhez kapcsoltságát, azaz az álnevesített személyes adat, illetve az olyan védett adat, amely esetében az egyedi beazonosításhoz szükséges technikai feltételekkel az adathasznosítást végző szerv vagy személy nem rendelkezik;
 
 35. további felhasználás: a nemzeti adatvagyon körébe tartozó
 

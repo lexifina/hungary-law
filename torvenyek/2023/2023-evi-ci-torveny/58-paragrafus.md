@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdés szerinti hitelesítésre alkalmazható
 
-a) az azonosításra visszavezetett dokumentumhitelesítés,
+a) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 54. §-a szerinti eAláírás,
 
 b) a minősített elektronikus aláírás, vagy
 

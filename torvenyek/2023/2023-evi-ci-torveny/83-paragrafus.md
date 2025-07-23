@@ -20,4 +20,4 @@ b) a szolgáltató és a közfeladatot ellátó szerv között a szerv által ke
 
 (5) Ha az (1) bekezdés szerinti megtagadási feltétel nem áll fenn, a közfeladatot ellátó szerv az adat átadására – a szükség szerinti személytelenítés elvégzését is beleértve – akkor is köteles, ha a (4) bekezdés szerinti megállapodást még nem kötötték meg.
 
-(6) Vita esetén a miniszter – vizsgálatot követően – dönt az átadás feltételeiről.
+(6)

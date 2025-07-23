@@ -10,9 +10,9 @@ d) a további felhasználás céljára igényelt közadat kívánt formátumát,
 
 e) rendszeres rendelkezésre bocsátás iránti igény esetén az igényelt rendszerességet.
 
-(2) Ha az igény nem tartalmazza az igénylő (1) bekezdés a) pontja szerinti nyilatkozatát, a kérelmet az Infotv.-nek a közérdekű adatok megismerésére vonatkozó szabályai szerint kell kezelni, és azt az adatkezelő közfeladatot ellátó szerv részére kell továbbítani.
+(2)
 
-(3) Ha az igény az (1) bekezdés a) pontja szerinti nyilatkozatot tartalmazza, a szolgáltató a kérelmet annak beérkezését követően öt munkanapon belül megvizsgálja.
+(3) Ha az igény az (1) bekezdés a) pontja szerinti nyilatkozatot tartalmazza, a szolgáltató a kérelmet annak beérkezését követő öt munkanapon belül megvizsgálja, egyéb esetben érdemi vizsgálat nélkül elutasítja.
 
 (4) Az igény vizsgálata során a szolgáltató ellenőrzi, hogy az igényben megjelölt adatok a szolgáltató rendelkezésére állnak-e és további felhasználás céljára rendelkezésre bocsáthatóak-e.
 

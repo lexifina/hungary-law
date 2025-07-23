@@ -4,14 +4,12 @@
 
 ## 39. A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás iránti igények teljesítésének szabályai
 
-73. § (1) A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) iránti igények kezelésére a 24. alcím szerinti szabályokat az ezen alcímben meghatározott eltérésekkel kell alkalmazni, ha a közfeladatot ellátó szerv a szolgáltatás igénybevételére a NAVÜ-vel köt megállapodást.
+73. § (1) A nemzeti adatvagyon körébe tartozó személyes vagy védett adat rendelkezésre bocsátása szolgáltatás (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) igény útján kezdeményezhető a közfeladatot ellátó szervnél, mint szolgáltatás nyújtójánál (e fejezet alkalmazásában a továbbiakban: szolgáltató).
 
-(2) Az (1) bekezdés szerinti esetben az igényt az igénylő a Nemzeti Közadatportálon keresztül, elektronikus úton küldi meg a NAVÜ részére.
+(2) Az igényt az igénylő a Nemzeti Közadatportálon keresztül, elektronikus úton terjeszti elő a szolgáltató részére.
 
-(3) A NAVÜ az igényt megvizsgálja, ennek során meghatározza, hogy az igényt maga teljesíti, ideértve a bevont közreműködővel történő teljesítés esetét is, vagy a teljesítésben a 42. alcím szerinti szolgáltatásközvetítőként vesz részt.
+(3) A szolgáltató az igényt megvizsgálja és az igény beérkezésének napjától számított két hónapon belül dönt az igény teljesíthetőségéről és erről a Nemzeti Közadatportálon keresztül tájékoztatja az igénylőt.
 
-(4) A NAVÜ az igény feldolgozása során megvizsgálja, hogy az igény teljesítéséhez mely a nemzeti adatvagyonba tartozó adat vagy a nemzeti adatvagyon körébe nem tartozó, nem közfeladatot ellátó szervtől beszerezhető adat felhasználása szükséges.
+(4) A (3) bekezdésben foglalt határidő indokolt esetben legfeljebb 30 nappal meghosszabbítható. A határidő hosszabbítás tényéről és okáról az igénylőt a Nemzeti Közadatportálon keresztül értesíteni kell.
 
-(5) Az igény teljesítése érdekében a NAVÜ bármely közfeladatot ellátó szervet megkereshet személyes vagy védett adatot tartalmazó adat személytelenített formában történő rendelkezésre bocsátása érdekében.
-
-(6) A közfeladatot ellátó szerv a 43. alcím szerint köteles a kért adat szolgáltatására.
+(5) Hiányos igény esetén, ha a hiány az igény teljesíthetőségét akadályozza, a szolgáltató az igénylőt – legalább öt, de legfeljebb tíz munkanapos határidő megjelölése és az arra való figyelemfelhívás mellett, hogy a kért adatok hiányában a kérelme nem teljesíthető – a hiányok megjelölésével a hiányzó adatok pótlására hívja fel. Ha az igénylő a hiánypótlási felhívásnak határidőben nem tesz eleget, úgy kell tekinteni, mintha a kérelmet be sem nyújtotta volna. A hiánypótlás a határidőbe nem számít bele.

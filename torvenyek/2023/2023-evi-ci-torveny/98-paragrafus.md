@@ -26,7 +26,7 @@ j) a KSH által biztosított hozzáférésre,
 
 k) a NAVÜ és a KSH között kialakított együttműködésben érintett adatkezelésre, valamint
 
-l) a döntés-előkészítést támogató szolgáltatásnál alkalmazott 28. § (5) és (6) bekezdése szerinti számítógépes adatkapcsolatra.
+l)
 
 (2) Az (1) bekezdés szerinti adatkezelés során valamennyi, az adatkezelésben közreműködő szereplőre kiterjedően biztosítani kell a magas szintű biztonsági védelmet
 
@@ -40,4 +40,4 @@ c) a személyzeti politikában.
 
 (4) A regisztráció megszüntetését a regisztráló és a regisztrált személy bármikor kezdeményezheti. A NAVÜ ebben az esetben a megszüntetés iránti igény kézhezvételétől számított öt munkanapon belül a regisztrációt megszünteti és a (3) bekezdés szerinti személyes adatokat törli.
 
-(5) Az adathasznosítás-támogatási szolgáltatások nyújtóira, valamint a szolgáltatás nyújtásához igénybe vett informatikai rendszerekre a Magyarország kiberbiztonságáról szóló törvény előírásait kell alkalmazni abban az esetben is, ha a szolgáltató nem tartozik az a Magyarország kiberbiztonságáról szóló törvény hatálya alá.
+(5) Az (1) bekezdés a) és c)–g) pontjaiban foglalt adathasznosítás-támogatási szolgáltatások nyújtóira, valamint a szolgáltatás nyújtásához igénybe vett informatikai rendszerekre a Magyarország kiberbiztonságáról szóló törvény előírásait kell alkalmazni abban az esetben is, ha a szolgáltató nem tartozik az a Magyarország kiberbiztonságáról szóló törvény hatálya alá.

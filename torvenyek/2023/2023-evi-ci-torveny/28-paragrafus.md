@@ -1,25 +1,27 @@
 ## 18. Döntés-előkészítést támogató szolgáltatás
 
-28. § (1) A NAVÜ közfeladatként döntés-előkészítést támogató szolgáltatást (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) nyújt.
+28. § (1) A NAVÜ döntés-előkészítést támogató szolgáltatást (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) nyújt.
 
-(2) A NAVÜ a szolgáltatást kizárólag kormányrendeletben meghatározott feltételekkel, az abban meghatározott közfeladatot ellátó szervek számára – kifejezett igény esetén – nyújtja.
+(2)
 
-(3) A szolgáltatás kiterjedhet:
+(3) A NAVÜ a szolgáltatás keretében – igény esetén az igénylő, igény hiányában az általa meghatározott szempontok szerint – adatalapú alkalmazásokat fejleszt és biztosítja azok használatát. Ennek érdekében a NAVÜ jogosult
 
 a) adatok összekészítésére,
 
 b) adatok összekapcsolására,
 
-c) adatok tisztítására, valamint
+c) adatok tisztítására,
 
-d) személyes adatok esetében a személytelenítési szolgáltatás elvégeztetésére.
+d) adatok személytelenítésére, valamint
 
-(4) A szolgáltatás igénybevételére a NAVÜ és az igénylő együttműködési megállapodást köt, amely tartalmazza legalább az igény teljesítésének technikai szabályait és a díjazás feltételeit.
+e) adatok elemzésére.
 
-(5) A szolgáltatás iránti igény kizárólag közvetlen számítógépes adatkapcsolaton keresztül terjeszthető elő.
+(4) A NAVÜ az általa fejlesztett adatalapú alkalmazások használatához díj ellenében hozzáférést adhat.
 
-(6) A szolgáltatás eredményét a NAVÜ közvetlen számítógépes adatkapcsolaton keresztül teszi hozzáférhetővé az igénylő számára.
+(5)
 
-(7) A szolgáltatás keretében a NAVÜ a személyes és védett adatokat személytelenített formában, míg az adatelemzések eredményét tovább feldolgozható formában tárolja.
+(6)
 
-(8) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ ezen szolgáltatások nyújtói, valamint a 82. § szerinti adatszolgáltatást végzők részére meghatározza a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.
+(7)
+
+(8) Arra az esetre, ha a szolgáltatás teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ határozza meg a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.

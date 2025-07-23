@@ -44,6 +44,8 @@ m) a 93. § (3) bekezdés szerinti nyilvántartásokat, valamint
 
 n) a személytelenítési eljárásban az összerendelési nyilvántartást vezető szerv és a személyiadat- és lakcímnyilvántartást vezető szerv közreműködésére vonatkozó részletes szabályokat
 
+o) a központi és ágazati illetékes szerv számára az adatok további felhasználás céljából történő hozzáférés megadásáról vagy megtagadásáról történő döntés meghozatalára vonatkozó hatáskör biztosítását
+
 rendeletben határozza meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a 93. § (2) bekezdése szerinti államigazgatási szerveket és a Nvtv. 3. § (1) bekezdés 1. pontja szerinti belföldi székhelyű átlátható szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a 93. § (2) bekezdése szerinti adatfeldolgozó megbízására az adatkezelő köteles, rendeletben határozza meg.
