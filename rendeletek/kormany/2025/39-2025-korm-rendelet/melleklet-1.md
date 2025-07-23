@@ -1,5 +1,3 @@
-1. melléklet a 39/2025. (III. 11.) Korm. rendelethez
+1. melléklet a 39/2025. (III. 11.) Korm. rendelethez[^5]
 
-A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 21. számú melléklete a következő 4. ponttal egészül ki:
-
-„4. A megjelölés jelmélységének legalább 0,0762 milliméternek kell lennie.”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

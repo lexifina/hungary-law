@@ -8,14 +8,6 @@
 
 ## [5] A Kormány a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 56. § e) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Ez a rendelet)
-
-## „e) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló (EU) 2021/555 európai parlamenti és tanácsi irányelv értelmében a tűzfegyverek és alapvető alkotóelemeik megjelölésére vonatkozó műszaki leírások megállapításáról szóló, 2019. január 16-i (EU) 2019/68 bizottsági végrehajtási irányelvnek,”
-
-## (való megfelelést szolgálja.)
-
-(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 56. §-a a következő g) ponttal egészül ki:
-
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
