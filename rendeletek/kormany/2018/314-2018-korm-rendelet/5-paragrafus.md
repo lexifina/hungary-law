@@ -1,36 +1,36 @@
-## 4.[^43] Az alkalmazásfejlesztésekre és alkalmazás-továbbfejlesztésekre vonatkozó egységes állami követelmények meghatározása
+## 4.[^44] Az alkalmazásfejlesztésekre és alkalmazás-továbbfejlesztésekre vonatkozó egységes állami követelmények meghatározása
 
-5. § (1)[^44] A megrendelő szervnek az alkalmazásfejlesztések és alkalmazás-továbbfejlesztések tervezése, a fejlesztő szervezet beszerzése, kiválasztása, valamint a fejlesztési feladat megvalósítása során az 1. mellékletben foglalt szakmapolitikai alapkövetelményeket érvényesítenie kell.
+5. § (1)[^45] A megrendelő szervnek az alkalmazásfejlesztések és alkalmazás-továbbfejlesztések tervezése, a fejlesztő szervezet beszerzése, kiválasztása, valamint a fejlesztési feladat megvalósítása során az 1. mellékletben foglalt szakmapolitikai alapkövetelményeket érvényesítenie kell.
 
-(2)[^45] Az alkalmazásfejlesztést, – az e rendeletben foglalt kivételekkel – az ÁAFK igénybevételével kell elvégezni.
+(2)[^46] Az alkalmazásfejlesztést, – az e rendeletben foglalt kivételekkel – az ÁAFK igénybevételével kell elvégezni.
 
-(3)[^46] A Felügyelet felmentést adhat az alkalmazás-továbbfejlesztés tekintetében az ÁAFK kötelező igénybevétele alól, ha az alapfejlesztéshez kapcsolódó szerzői jogok jelentősen hátráltatnák vagy ellehetetlenítenék az alkalmazás továbbfejlesztését.
+(3)[^47] A Felügyelet felmentést adhat az alkalmazás-továbbfejlesztés tekintetében az ÁAFK kötelező igénybevétele alól, ha az alapfejlesztéshez kapcsolódó szerzői jogok jelentősen hátráltatnák vagy ellehetetlenítenék az alkalmazás továbbfejlesztését.
 
-(4)[^47] A Felügyelet az alkalmazásfejlesztés megvalósítását támogató hatósági határozatban rendelkezik a (3) bekezdés szerinti felmentésről.
+(4)[^48] A Felügyelet az alkalmazásfejlesztés megvalósítását támogató hatósági határozatban rendelkezik a (3) bekezdés szerinti felmentésről.
 
-(4a)[^48] A Felügyelet az e rendelet szerinti eljárásában szakmai vélemény kibocsátását kérheti bármely központi szolgáltatótól, amelyet a megkeresés beérkezésétől számított 10 munkanapon belül kell teljesíteni.
+(4a)[^49] A Felügyelet az e rendelet szerinti eljárásában szakmai vélemény kibocsátását kérheti bármely központi szolgáltatótól, amelyet a megkeresés beérkezésétől számított 10 munkanapon belül kell teljesíteni.
 
-(5)[^49]
+(5)[^50]
 
-(6)[^50]
+(6)[^51]
 
-(7)[^51] A felmentés elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 5 munkanapon belül a miniszternél, aki a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 15 munkanapon belül hozza meg döntését.
+(7)[^52] A felmentés elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 5 munkanapon belül a miniszternél, aki a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 15 munkanapon belül hozza meg döntését.
 
-(8)[^52]
+(8)[^53]
 
-(9)[^53] Az Állami Alkalmazás-fejlesztési Környezet ügyintézési felület az e rendeletben foglaltak vonatkozásában az alkalmazásfejlesztések és alkalmazás-továbbfejlesztések tervezésével és végrehajtásával összefüggő, személyes adatnak nem minősülő adatot más szakrendszerekből is átvehet.
+(9)[^54] Az Állami Alkalmazás-fejlesztési Környezet ügyintézési felület az e rendeletben foglaltak vonatkozásában az alkalmazásfejlesztések és alkalmazás-továbbfejlesztések tervezésével és végrehajtásával összefüggő, személyes adatnak nem minősülő adatot más szakrendszerekből is átvehet.
 
-(10)[^54] A Felügyelet és a központi alkalmazás-szolgáltató jogosult a DMÜ által a miniszter jóváhagyására előterjesztett éves informatikai beszerzési terveket, valamint éves informatikai fejlesztési terveket megismerni.
+(10)[^55] A Felügyelet és a központi alkalmazás-szolgáltató jogosult a DMÜ által a miniszter jóváhagyására előterjesztett éves informatikai beszerzési terveket, valamint éves informatikai fejlesztési terveket megismerni.
 
-[^43]: A 4. alcím címe a 618/2022. (XII. 29.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
-[^44]: Az 5. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
-[^45]: Az 5. § (2) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § f) és 22. § e) pontja szerint módosított szöveg.
-[^46]: Az 5. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (5) bekezdésével megállapított szöveg.
-[^47]: Az 5. § (4) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
-[^48]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 618/2022. (XII. 29.) Korm. rendelet 20. § (6) bekezdésével megállapított szöveg.
-[^49]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^50]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^51]: Az 5. § (7) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
-[^52]: Az 5. § (8) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § f) pontja hatályon kívül helyezte.
-[^53]: Az 5. § (9) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (8) bekezdése iktatta be.
-[^54]: Az 5. § (10) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (8) bekezdése iktatta be.
+[^44]: A 4. alcím címe a 618/2022. (XII. 29.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
+[^45]: Az 5. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
+[^46]: Az 5. § (2) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § f) és 22. § e) pontja szerint módosított szöveg.
+[^47]: Az 5. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (5) bekezdésével megállapított szöveg.
+[^48]: Az 5. § (4) bekezdése a 342/2024. (XI. 14.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^49]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 618/2022. (XII. 29.) Korm. rendelet 20. § (6) bekezdésével megállapított szöveg.
+[^50]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^51]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^52]: Az 5. § (7) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
+[^53]: Az 5. § (8) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § f) pontja hatályon kívül helyezte.
+[^54]: Az 5. § (9) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (8) bekezdése iktatta be.
+[^55]: Az 5. § (10) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (8) bekezdése iktatta be.

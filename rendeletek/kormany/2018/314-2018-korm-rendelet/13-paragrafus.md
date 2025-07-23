@@ -1,6 +1,6 @@
-## 12/A. §[^73] Az alkalmazásfejlesztések ágazatban már működő, az alkalmazás tárgyával összefüggő informatikai szakrendszerekkel való összhangjáról és szükség szerint összeilleszthetőségéről, integrálhatóságáról, a támogatni kívánt közfeladathoz való illeszkedéséről, szakmai, funkcionális megfelelőségéről, a felmerülő fejlesztési igények vonatkozásában a megrendelő gondoskodik. A megrendelő ágazati igényeinek minőségbiztosítása érdekében saját minőségbiztosítót is bevonhat.
+## 12/A. §[^74] Az alkalmazásfejlesztések ágazatban már működő, az alkalmazás tárgyával összefüggő informatikai szakrendszerekkel való összhangjáról és szükség szerint összeilleszthetőségéről, integrálhatóságáról, a támogatni kívánt közfeladathoz való illeszkedéséről, szakmai, funkcionális megfelelőségéről, a felmerülő fejlesztési igények vonatkozásában a megrendelő gondoskodik. A megrendelő ágazati igényeinek minőségbiztosítása érdekében saját minőségbiztosítót is bevonhat.
 
-13. §[^74]
+13. §[^75]
 
-[^73]: A 12/A. §-t a 476/2021. (VIII. 9.) Korm. rendelet 1. § (17) bekezdése iktatta be.
-[^74]: A 13. §-t a 476/2021. (VIII. 9.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^74]: A 12/A. §-t a 476/2021. (VIII. 9.) Korm. rendelet 1. § (17) bekezdése iktatta be.
+[^75]: A 13. §-t a 476/2021. (VIII. 9.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.

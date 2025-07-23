@@ -1,3 +1,3 @@
-30. §[^117]
+30. §[^118]
 
-[^117]: A 30. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 30. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

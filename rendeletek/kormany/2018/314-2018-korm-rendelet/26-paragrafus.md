@@ -12,20 +12,20 @@ c) a 100%-os állami tulajdonban lévő gazdasági társaságok által kezdemén
 
 kell alkalmazni.
 
-(3)[^104]
+(3)[^105]
 
 (4) A 10. §-ban meghatározottak szerint végrehajtott ősfeltöltést követően az ÁAK-ban szereplő alkalmazásokon kívüli egyéb alkalmazások 2019. április 1-jét követően közfeladat ellátásának támogatására nem vehetők igénybe, azok üzemeltetésére vagy továbbfejlesztésére állami vagy európai uniós támogatásból származó költségvetési forrás nem használható fel.
 
-(5)[^105]
+(5)[^106]
 
-(6)[^106]
+(6)[^107]
 
-(7)[^107]
+(7)[^108]
 
-(8)[^108]
+(8)[^109]
 
-[^104]: A 26. § (3) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § k) pontja hatályon kívül helyezte.
-[^105]: A 26. § (5) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
-[^106]: A 26. § (6) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
-[^107]: A 26. § (7) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
-[^108]: A 26. § (8) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
+[^105]: A 26. § (3) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § k) pontja hatályon kívül helyezte.
+[^106]: A 26. § (5) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
+[^107]: A 26. § (6) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
+[^108]: A 26. § (7) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.
+[^109]: A 26. § (8) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § l) pontja hatályon kívül helyezte.

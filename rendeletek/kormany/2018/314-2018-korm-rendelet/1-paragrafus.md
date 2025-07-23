@@ -44,9 +44,9 @@ b) a megrendelő szerv által lefolytatott beszerzési vagy közbeszerzési elj�
 
 15.[^9]
 
-16. szakrendszer: olyan hardver és szoftver elemekből álló, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 1. § 16. pontjában meghatározott elektronikus információs rendszer (a továbbiakban: informatikai rendszer), amely egy adott szakigazgatási feladatra jellemző, speciális szakmai folyamatokkal összefüggő nyilvántartási, ügyintézési tevékenységek végrehajtásához nyújt elektronikus támogatást.
+16.[^10] szakrendszer: olyan hardver és szoftver elemekből álló, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus információs rendszer (a továbbiakban: informatikai rendszer), amely egy adott szakigazgatási feladatra jellemző, speciális szakmai folyamatokkal összefüggő nyilvántartási, ügyintézési tevékenységek végrehajtásához nyújt elektronikus támogatást.
 
-17.[^10] végső műszaki-szakmai átadás-átvétel: az alkalmazásfejlesztést, alkalmazás-továbbfejlesztést lezáró műszaki-szakmai átadás-átvételi eljárás.
+17.[^11] végső műszaki-szakmai átadás-átvétel: az alkalmazásfejlesztést, alkalmazás-továbbfejlesztést lezáró műszaki-szakmai átadás-átvételi eljárás.
 
 [^1]: Az 1. § 3. pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 5a. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
@@ -57,4 +57,5 @@ b) a megrendelő szerv által lefolytatott beszerzési vagy közbeszerzési elj�
 [^7]: Az 1. § 14. pontja a 618/2022. (XII. 29.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^8]: Az 1. § 14a. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^9]: Az 1. § 15. pontját a 618/2022. (XII. 29.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
-[^10]: Az 1. § 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^10]: Az 1. § 16. pontja a 216/2025. (VII. 22.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (6) bekezdése iktatta be.
