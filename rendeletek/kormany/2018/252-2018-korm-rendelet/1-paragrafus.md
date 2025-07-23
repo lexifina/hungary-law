@@ -6,6 +6,8 @@
 
 2. központi alapinfrastruktúra: az okos város központi platformszolgáltatás működését és az ahhoz kapcsolódó helyi érdekű fejlesztések számára központi infrastruktúra támogatást biztosító kormányzati célú adatközponti és hálózati informatikai infrastruktúra, különösen a fizikai szerverek, hálózati eszközök és a virtualizációs környezet;
 
-3. központi szolgáltató: az e rendeletben meghatározott okos város szolgáltatáselemek tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság, valamint a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
+3.[^1] központi szolgáltató: az e rendeletben meghatározott okos város szolgáltatáselemek tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, valamint a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
 
 4. okos város központi platformszolgáltatás: a központi szolgáltatók által nyújtott, az 1. melléklet szerinti központosított közszolgáltatások nyújtását, igénybevételét biztosító központi alapinfrastruktúra és az ahhoz kapcsolódó helyi érdekű fejlesztések összessége.
+
+[^1]: Az 1. § 3. pontja a 216/2025. (VII. 22.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
