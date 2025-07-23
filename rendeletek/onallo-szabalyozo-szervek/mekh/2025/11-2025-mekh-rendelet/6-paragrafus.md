@@ -1,0 +1,1 @@
+6. § Ez a rendelet az alternatív üzemanyagok infrastruktúrájának kiépítéséről, valamint a 2014/94/EU irányelv hatályon kívül helyezéséről szóló, 2023. szeptember 13-i (EU) 2023/1804 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
