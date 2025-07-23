@@ -1,4 +1,4 @@
-46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – az Ákr. 36. §-ában előírtakon túl – tartalmaznia kell
+46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 36. §-ában előírtakon túl – tartalmaznia kell
 
 a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendelkezésére áll, székhelyének címét,
 

@@ -20,7 +20,7 @@ b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ü
 
 (5) A fogyasztóvédelmi referenst azon legnagyobb népességszámú településen kell foglalkoztatni, ahol a vállalkozás a (4) bekezdés szerinti székhellyel, telephellyel, fiókteleppel vagy ügyfélszolgálattal rendelkezik.
 
-(6) A fogyasztóvédelmi referensi tevékenység megbízási szerződés keretében is ellátható.
+(6)
 
 (6a)
 

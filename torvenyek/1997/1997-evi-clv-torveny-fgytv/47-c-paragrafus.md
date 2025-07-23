@@ -14,7 +14,7 @@ bb) a fogyasztók széles körének testi épségét vagy egészségét sértő 
 
 terjedhet.
 
-(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § a) pontja szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő, 3 éven belül ismételten megállapított jogsértése esetén a bírság összege
+(1a) Az (1) bekezdéstől eltérően az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti elektronikus kereskedelmi szolgáltatást nyújtó vállalkozás elektronikus kereskedelmi szolgáltatással összefüggő, 3 éven belül ismételten megállapított jogsértése esetén a bírság összege
 
 a) az (1) bekezdés a) pontjának hatálya alá tartozó vállalkozás esetében
 

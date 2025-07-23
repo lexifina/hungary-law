@@ -10,4 +10,8 @@
 
 (5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
 
-(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott és a megelőző három évben az eljárásban részt vevő vállalkozással munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állt.
+(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki
+
+a) az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott, vagy
+
+b) a megelőző három évben a fogyasztóval vagy az eljárásban részt vevő vállalkozással foglalkoztatásra irányuló jogviszonyban állt.

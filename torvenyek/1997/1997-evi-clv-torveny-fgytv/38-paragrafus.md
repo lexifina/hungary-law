@@ -32,7 +32,7 @@ amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékleté
 
 (5) A fogyasztóvédelemért felelős miniszter megküldi az Európai Bizottság részére a határon átnyúló képviseleti keresetek indítására az előzetesen kijelölt feljogosított szervezetek jegyzékét, beleértve a feljogosított szervezetek nevét és alapszabályban meghatározott célját. A fogyasztóvédelemért felelős miniszter tájékoztatást ad az Európai Bizottság részére az említett jegyzékben szereplő adatok módosulása esetén is.
 
-(6) A fogyasztóvédelemért felelős miniszter – a feljogosított szervezetként történő kijelölésről szóló döntéséről szóló közlemény közhírré tételével egyidejűleg – honlapján közzéteszi a képviseleti keresetek indítására jogosult feljogosított szervezetek jegyzékét.
+(6) A fogyasztóvédelmi hatóság – a fogyasztóvédelemért felelős miniszter feljogosított szervezetként történő kijelölésről szóló döntéséről szóló közlemény közhírré tételével egyidejűleg – honlapján közzéteszi a képviseleti keresetek indítására jogosult feljogosított szervezetek jegyzékét.
 
 (7) A fogyasztóvédelemért felelős miniszter szükség esetén soron kívül, de legalább ötévente felülvizsgálja, hogy a feljogosított szervezetek megfelelnek-e az (1) bekezdésben felsorolt feltételeknek. Ha a feljogosított szervezet nem felel meg az (1) bekezdésben felsorolt feltételek közül legalább egynek, akkor a fogyasztóvédelemért felelős miniszter a feljogosított szervezetet törli a nyilvántartásból.
 

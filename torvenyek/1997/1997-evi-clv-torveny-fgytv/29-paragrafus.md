@@ -20,11 +20,11 @@ b) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog ir
 
 c) a jogvita komolytalan vagy zaklató jellegű,
 
-d) a kérelem alapján az ügy nem minősül fogyasztói jogvitának – különösen, ha kártérítésre irányul –, illetve ha a békéltető testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására vagy
+d) a kérelem alapján az ügy nem minősül fogyasztói jogvitának vagy a békéltető testület egyéb okból nem rendelkezik hatáskörrel a vita elbírálására, vagy
 
 e) a fogyasztó a hiánypótlási felhívást – az erre nyitva álló határidőben – nem teljesítette.
 
-(4a) Az elnök a kérelem meghallgatás kitűzése nélküli elutasítása esetén ennek tényéről, valamint indokáról a feleket a kérelem kézhezvételétől számított huszonegy napon belül értesíti.
+(4a) Az elnök az eljárás meghallgatás kitűzése nélküli megszüntetése esetén ennek tényéről, valamint indokáról a feleket a kérelem kézhezvételétől számított huszonegy napon belül értesíti.
 
 (5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának megküldésével kellő időben előzetesen értesíti.
 

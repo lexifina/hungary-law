@@ -1,6 +1,12 @@
-20. § (1) Az eljárásra a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület illetékes.
+20. § (1) Az eljárásra
 
-(2) A fogyasztó belföldi lakóhelye és tartózkodási helye hiányában a békéltető testület illetékességét a fogyasztói jogvitával érintett vállalkozás vagy az annak képviseletére feljogosított szerv székhelye alapítja meg.
+a) a természetes személy fogyasztó lakóhelye vagy tartózkodási helye,
+
+b) a nem természetes személy fogyasztó székhelye
+
+szerinti békéltető testület illetékes.
+
+(2) A fogyasztó belföldi lakóhelye, tartózkodási helye vagy székhelye hiányában a békéltető testület illetékességét a fogyasztói jogvitával érintett vállalkozás vagy az annak képviseletére feljogosított szerv székhelye alapítja meg.
 
 (3) Az eljárásra – a fogyasztó erre irányuló kérelme alapján – az (1) és (2) bekezdés szerint illetékes testület helyett a fogyasztó kérelmében megjelölt békéltető testület illetékes.
 

@@ -24,7 +24,9 @@ i) a tevékenységük során tapasztaltak nyilvánosságra hozatalával tájéko
 
 j) a fogyasztói érdekek védelme céljából részt vegyenek a nemzetközi szervezetek tevékenységében,
 
-k) közreműködjenek a nemzeti szabványosításban a Magyar Szabványügyi Testület szervein keresztül.
+k) közreműködjenek a nemzeti szabványosításban a Magyar Szabványügyi Testület szervein keresztül, valamint
+
+l) ellássák a jogszabályban meghatározott feladataikat.
 
 (2)
 

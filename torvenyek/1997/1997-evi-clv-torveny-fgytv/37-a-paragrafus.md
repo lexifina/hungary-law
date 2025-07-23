@@ -28,7 +28,7 @@ e) a 37. § szerinti eljárási szabályzatok.
 
 (3) A békéltető testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen biztosítja, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:
 
-a) a békéltető testület elérhetőségeit, így különösen székhelyét, postacímét, e-mail címét, telefonszámát, valamint faxszámát,
+a) a békéltető testület elérhetőségeit, így különösen székhelyét, postacímét, elektronikus levelezési címét, telefonszámát, valamint faxszámát,
 
 b) annak tényét, hogy a békéltető testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
 
