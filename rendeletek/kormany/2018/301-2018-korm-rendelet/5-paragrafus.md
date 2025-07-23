@@ -24,7 +24,7 @@
 
 (11) A DKÜ minden év március 1. napjáig jelentésben összesíti a (10) bekezdés szerint beérkezett beszámolókat, és azokat a 4. § (3) bekezdés b) és c) pontja szerinti feladata ellátása érdekében az NHIT részére továbbítja.
 
-(12)[^70] Alkalmazás esetén az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet (a továbbiakban: ÁAFK Kr.) hatálya alá tartozó szervezet esetében az ÁAFK Kr. szerinti támogató tanúsítvány nélkül nincs helye a 7. § b)–d) pontja szerinti megküldésnek.
+(12)[^70] Alkalmazás esetén az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet (a továbbiakban: ÁAFK Kr.) hatálya alá tartozó szervezet esetében az ÁAFK Kr. szerinti fejlesztést támogató döntés, valamint a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet alapján a központi szolgáltató kötelező igénybevétele tárgyában hozott hatósági határozat nélkül nincs helye a 7. § (1) bekezdés b) pontja szerinti megküldésnek.
 
 (13)[^71] Alkalmazás esetén, a (12) bekezdéstől eltérően a 7. § b)–d) pontja szerinti megküldésnek helye van, ha arra a (9) bekezdés szerinti miniszteri rendelet lehetőséget biztosít.
 
@@ -42,6 +42,6 @@
 [^67]: Az 5. § (8) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
 [^68]: Az 5. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
 [^69]: Az 5. § (10) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^70]: Az 5. § (12) bekezdése a 72/2023. (III. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^70]: Az 5. § (12) bekezdése a 216/2025. (VII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^71]: Az 5. § (13) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (6) bekezdése iktatta be.
 [^72]: Az 5. § (14) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 291/2023. (VII. 6.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
