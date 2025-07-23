@@ -1,4 +1,4 @@
-1. melléklet az 590/2022. (XII. 28.) Korm. rendelethez[^83]
+1. melléklet az 590/2022. (XII. 28.) Korm. rendelethez[^84]
 
 Kezelő szervi kijelölés
 
@@ -10,7 +10,7 @@ Kezelő szervi kijelölés
 
 | 3. | Fejezeti általános tartalék | a Kit. 33/B. § (1) bekezdése szerinti államtitkár |
 
-| 4.[^84] | Uniós programokkal kapcsolatos visszafizetések | a Kit. 33/B. § (1) bekezdése szerinti államtitkár |
+| 4.[^85] | Uniós programokkal kapcsolatos visszafizetések | a Kit. 33/B. § (1) bekezdése szerinti államtitkár |
 
 | 5. | Az alapok alapját végrehajtó szervezet díjazása (GINOP) | a Kit. 33/B. § (1) bekezdése szerinti államtitkár |
 
@@ -92,5 +92,5 @@ Kezelő szervi kijelölés
 
 | 44. | Helyreállítási és Ellenállóképességi Eszköz (RRF) hitel intézkedései | a Kit. 33/B. § (1) bekezdése szerinti államtitkár |
 
-[^83]: Az 1. melléklet a 218/2024. (VII. 31.) Korm. rendelet 88. §-ával megállapított szöveg.
-[^84]: Az 1. mellékletben foglalt táblázat 4. sora az 58/2025. (III. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^84]: Az 1. melléklet a 218/2024. (VII. 31.) Korm. rendelet 88. §-ával megállapított szöveg.
+[^85]: Az 1. mellékletben foglalt táblázat 4. sora az 58/2025. (III. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

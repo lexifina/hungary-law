@@ -36,7 +36,7 @@ i)[^19] a Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányz
 
 j) a 15. § (6) bekezdése szerinti esetben,
 
-k)[^20] a 126/2016. (VI. 7.) Korm. rendelet 4. § (9) bekezdés b)–d) pontjában, a 83/2018. (IV. 20.) Korm. rendelet 24. §-ában, valamint a 241/2023. (VI. 20.) Korm. rendelet 14. § b) és c) pontjában meghatározott esetekben,
+k)[^20] a 126/2016. (VI. 7.) Korm. rendelet 4. § (9) bekezdés b)–d) pontjában, a 83/2018. (IV. 20.) Korm. rendelet 24. §-ában, az 512/2022. (XII. 13.) Korm. rendelet 4/A. § (2) bekezdés a), c), d) és e) pontjában, valamint a 241/2023. (VI. 20.) Korm. rendelet 14. § b) és c) pontjában meghatározott esetekben,
 
 l) az Ávr. 172/A. § (2)–(4) bekezdése szerint keletkezett – a Kincstár által megállapított – befizetési kötelezettség kiegyenlítésére a fejezetet irányító szerv vezetőjének döntése szerinti arányosított összegben azon előirányzatokat terhelően, amelyek kapcsán keletkezett,
 
@@ -66,7 +66,7 @@ szerinti költségnövekménynek minősülő kiadás finanszírozásához szüks
 [^17]: A 9. § (1) bekezdés d) pont db) alpontja az 51/2024. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^18]: A 9. § (1) bekezdés e) pontja az 58/2025. (III. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^19]: A 9. § (1) bekezdés i) pontja az 51/2024. (III. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^20]: A 9. § (1) bekezdés k) pontja az 51/2024. (III. 4.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^20]: A 9. § (1) bekezdés k) pontja a 217/2025. (VII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^21]: A 9. § (1) bekezdés m) pontja az 51/2024. (III. 4.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
 [^22]: A 9. § (1) bekezdés n) pontja az 51/2024. (III. 4.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
 [^23]: A 9. § (1) bekezdés o) pontját az 51/2024. (III. 4.) Korm. rendelet 3. § (4) bekezdése iktatta be.

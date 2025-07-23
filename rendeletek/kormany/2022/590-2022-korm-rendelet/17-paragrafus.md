@@ -1,6 +1,6 @@
-## 8.[^38] Az Uniós programokkal kapcsolatos visszafizetések előirányzat felhasználási szabályai
+## 8.[^39] Az Uniós programokkal kapcsolatos visszafizetések előirányzat felhasználási szabályai
 
-17. §[^39] Az Uniós programokkal kapcsolatos visszafizetések előirányzat célja a lezárult 2004–2006 és 2007–2013 programozási időszakok operatív programjaival kapcsolatos, követeléskezelésben befolyó bevételek fogadása és rendezése az érintett irányító hatósággal.
+17. §[^40] Az Uniós programokkal kapcsolatos visszafizetések előirányzat célja a lezárult 2004–2006 és 2007–2013 programozási időszakok operatív programjaival kapcsolatos, követeléskezelésben befolyó bevételek fogadása és rendezése az érintett irányító hatósággal.
 
-[^38]: A 8. alcím címe az 58/2025. (III. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^39]: A 17. § az 58/2025. (III. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^39]: A 8. alcím címe az 58/2025. (III. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^40]: A 17. § az 58/2025. (III. 26.) Korm. rendelet 6. §-ával megállapított szöveg.

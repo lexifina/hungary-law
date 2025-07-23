@@ -22,7 +22,10 @@ h) ha a 2007–2013 programozási időszakban európai uniós forrásra benyújt
 
 (3)[^32] Nem finanszírozható az előirányzat terhére az (1) bekezdés e) pontja szerinti, szabálytalanságból eredő igény a szállítói szerződés nem szerződésszerű teljesítése következtében keletkezett el nem számolható költség esetén, ha a kedvezményezett hitelt érdemlően nem igazolta a szerződésszegésből fakadó jogainak érvényesítését.
 
+(4)[^33] A 256/2021. (V. 18.) Korm. rendelet 530/K. §-a szerint újraértékelt, hazai finanszírozásúvá vált projekteket az (1) bekezdés alkalmazásában részben európai uniós forrásból finanszírozott projekteknek kell tekinteni.
+
 [^29]: A 14. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 57. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^30]: A 14. § (1) bekezdés d) pontját az 51/2024. (III. 4.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
 [^31]: A 14. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^32]: A 14. § (3) bekezdését az 58/2025. (III. 26.) Korm. rendelet 4. §-a iktatta be.
+[^33]: A 14. § (4) bekezdését a 217/2025. (VII. 22.) Korm. rendelet 2. §-a iktatta be.
