@@ -4,4 +4,6 @@
 
 (3) Évente legfeljebb három díj adományozható.
 
-(4) Az elismerésben részesített egyedi kivitelezésű, névre szóló tollat, valamint az adományozást igazoló oklevelet kap.
+(4)[^13] Az elismerésben részesített névre szóló, zöld színű tollat, valamint az adományozást igazoló oklevelet kap.
+
+[^13]: A 26. § (4) bekezdése a 31/2025. (VII. 22.) AM rendelet 4. §-ával megállapított szöveg.

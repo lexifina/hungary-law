@@ -14,8 +14,10 @@ d) gyémánt, 100 éves korban.
 
 (3) Az emlékplakett átadására március 15-e, augusztus 20-a és október 23-a alkalmából kerül sor.
 
-(4) Az emlékplakett bronz fokozatából évente legfeljebb harminc, ezüst fokozatából évente legfeljebb huszonegy adományozható.
+(4)[^14] Az emlékplakett ezüst és bronz fokozatából évente legfeljebb harminc-harminc darab adományozható.
 
 (5) Az elismerésben részesített emlékplakettet, valamint az adományozást igazoló oklevelet kap. Az emlékplakett kerek alakú, anyaga bronz, átmérője 100 mm. A plakett szélén a fokozatnak megfelelő színű körgyűrű található. Az egyik oldalán az életfa stilizált képe, a körgyűrűben „Életfa emlékplakett” és a fokozat megjelölése felirat szerepel, a másik oldalán Magyarország címere, alatta „Az Agrárminisztertől” felirat, valamint az elismerésben részesített neve és az adományozás éve vésve látható.
 
 (6) Nem adható ki az emlékplakett, ha az elismerésben részesített az adományozási alkalom előtt elhalálozik.
+
+[^14]: A 27. § (4) bekezdése a 31/2025. (VII. 22.) AM rendelet 5. §-ával megállapított szöveg.

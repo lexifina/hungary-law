@@ -68,6 +68,8 @@ da) Miniszteri Elismerő Oklevél,
 
 db) Miniszteri Dicséret;
 
+dc)[^5] Hutÿra Ferenc Elismerő Oklevél;
+
 e) Különdíj:
 
 ea) OTDK Agrártudományi Különdíj.
@@ -76,3 +78,4 @@ ea) OTDK Agrártudományi Különdíj.
 [^2]: Az 1. § (3) bekezdés a) pont 16. alpontját a 6/2023. (V. 3.) EM rendelet 24. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
 [^3]: Az 1. § (3) bekezdés b) pont bb) alpontját a 6/2023. (V. 3.) EM rendelet 24. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
 [^4]: Az 1. § (3) bekezdés b) pont bc) alpontját a 6/2023. (V. 3.) EM rendelet 24. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^5]: Az 1. § (3) bekezdés d) pont dc) alpontját a 31/2025. (VII. 22.) AM rendelet 1. §-a iktatta be.

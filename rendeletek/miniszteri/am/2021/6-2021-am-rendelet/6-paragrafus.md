@@ -6,13 +6,13 @@ a) az 1848/49-es Forradalom és Szabadságharc Évfordulóján, március 15-én,
 
 b) az Erdők Világnapján, március 21-én,
 
-c) a Meteorológiai Világnapon, március 23-án,
+c)[^7]
 
 d) a Föld Napján, április 22-én,
 
 e) a Pedagógusnapon, június első vasárnapján,
 
-f) a Környezetvédelmi Világnapon, június 5-én,
+f)[^8]
 
 g) az államalapítás és az Államalapító Szent István ünnepén, augusztus 20-án,
 
@@ -25,3 +25,6 @@ j) kiemelkedő szakmai alkalom, esemény, évforduló.
 (2) Az elismerést a miniszter vagy megbízottja ünnepélyes keretek között adja át.
 
 (3) Az elismerés tényét és az elismerésben részesítettek érdemeit a Minisztérium honlapján közzé kell tenni.
+
+[^7]: A 6. § (1) bekezdés c) pontját a 31/2025. (VII. 22.) AM rendelet 9. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^8]: A 6. § (1) bekezdés f) pontját a 31/2025. (VII. 22.) AM rendelet 9. § (1) bekezdés a) pontja hatályon kívül helyezte.

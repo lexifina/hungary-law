@@ -4,4 +4,6 @@
 
 (3) Házaspárok közös teljesítménye esetén az elismerés a házaspár részére megosztva is kezdeményezhető és adományozható.
 
-(4) A 11. §-ban, a 14. §-ban és a 20. §-ban megnevezett díj, a 28. §-ban és a 30. §-ban megnevezett emlékplakett jogi személy és jogi személyiség nélküli szervezet részére is adományozható.
+(4)[^6] A 11. §-ban és a 20. §-ban megnevezett díj, a 30. §-ban megnevezett emlékplakett, valamint a 32. §-ban és a 33/A. §-ban megnevezett oklevél jogi személy és jogi személyiség nélküli szervezet részére is adományozható.
+
+[^6]: A 3. § (4) bekezdése a 31/2025. (VII. 22.) AM rendelet 2. §-ával megállapított szöveg.
