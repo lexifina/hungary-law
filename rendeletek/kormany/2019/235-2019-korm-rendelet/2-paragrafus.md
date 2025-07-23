@@ -42,6 +42,10 @@
 
 19.[^19] adatszolgáltatásra kötelezett turisztikai attrakció: az a regisztrációra kötelezett turisztikai attrakció, amelynek árbevétele eléri a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 12/B. § (1a) bekezdésében megjelölt értékeket.
 
+20.[^20] Hajón töltött vendégéjszakák száma: 0:00–4:00 óra között a kikötőben álló hajón tartózkodó vendégek száma;
+
+21.[^21] Hajón tartózkodó vendég: olyan természetes személy, aki nem tartozik a hajó személyzetéhez.
+
 [^5]: A 2. § 1. pontja a 484/2024. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 1a. pontját a 383/2020. (VIII. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^7]: A 2. § 2. pontja a 383/2020. (VIII. 7.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
@@ -57,3 +61,5 @@
 [^17]: A 2. § 17. pontja a 619/2022. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^18]: A 2. § 18. pontját a 619/2022. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^19]: A 2. § 19. pontját a 484/2024. (XII. 31.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^20]: A 2. § 20. pontját a 157/2025. (VI. 23.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 2. § 21. pontját a 157/2025. (VI. 23.) Korm. rendelet 3. §-a iktatta be.

@@ -38,7 +38,7 @@
 
 ## Zalaegerszeg
 
-6. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^113]
+6. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^116]
 
 A Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó informatikai rendszerek
 
@@ -52,4 +52,4 @@ A Nemzeti Turisztikai Adatszolgáltató Központhoz kapcsolódó informatikai re
 
 | 4. | NETA – Nemzeti Turisztikai Adatbázis | A turisztikai attrakciók naprakész adatbázisa. |
 
-[^113]: A 6. mellékletet a 157/2025. (VI. 23.) Korm. rendelet 8. §-a iktatta be.
+[^116]: A 6. mellékletet a 157/2025. (VI. 23.) Korm. rendelet 8. §-a iktatta be.

@@ -68,8 +68,8 @@
 
 ## b) a TEÁOR’25 94.91 Egyházi tevékenység szolgáltatás keretében turisztikai attrakciót működtet.
 
-4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^112]
+4. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^115]
 
 Turisztikailag kiemelt jelentőségű település
 
-[^112]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.
+[^115]: A 4. mellékletet a 239/2022. (VI. 30.) Korm. rendelet 43. §-a iktatta be.

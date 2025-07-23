@@ -40,8 +40,8 @@
 
 ## b) a nyilvántartásba vételt igazoló dokumentum számát.
 
-3. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^111]
+3. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^114]
 
 Regisztrációra kötelezett turisztikai attrakciók
 
-[^111]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 501/2021. (VIII. 18.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 484/2024. (XII. 31.) Korm. rendelet 24. § (1) bekezdés c) pontjával megállapított szöveg.
+[^114]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 501/2021. (VIII. 18.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 484/2024. (XII. 31.) Korm. rendelet 24. § (1) bekezdés c) pontjával megállapított szöveg.

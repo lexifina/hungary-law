@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-235-20-
 | 2025-06-20 | 2019-235-20-22.24 | 146/2025. (VI. 19.) Korm. rendelet |
 | 2025-06-24 | 2019-235-20-22.25 | 157/2025. (VI. 23.) Korm. rendelet |
 | 2025-07-01 | 2019-235-20-22.27 | 2010: CXXX. törvény |
+| 2025-07-23 | 2019-235-20-22.26 | 157/2025. (VI. 23.) Korm. rendelet |
