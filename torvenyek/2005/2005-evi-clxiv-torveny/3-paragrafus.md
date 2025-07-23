@@ -30,6 +30,10 @@ j) közlekedési eszközön folytatott értékesítés.
 
 (5) Engedélyköteles kereskedelmi tevékenység esetén az engedélyező hatóság az engedélye megadásával egyidejűleg értesíti a bejelentésköteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
 
+(5a) Az üzletben folytatott kereskedelmi tevékenység nem sértheti a helyi építési szabályzat rendeltetésre és elhelyezhetőségre vonatkozó előírásait.
+
+(5b) A (9) bekezdésben foglaltakat a kereskedelmi hatóság a kereskedelmi tevékenység bejelentésével kapcsolatos eljárás, illetve a működési engedélyezési eljárás során vizsgálja.
+
 (6) Üzlet
 
 a) ha a (4) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján meghatározott termék forgalmazása kizárólag üzletben megengedett, csak a kereskedelmi hatóság által, a (7) bekezdés szerint kiadott működési engedéllyel;
