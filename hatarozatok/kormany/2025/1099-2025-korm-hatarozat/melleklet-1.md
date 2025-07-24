@@ -8,30 +8,28 @@
 
 | Határidő: | 2025. április 15. |
 
-## b) felhívja a nemzetgazdasági minisztert, hogy – az energiaügyi miniszter kezdeményezésére – gondoskodjon 5 500 000 000 forint rendelkezésre állásáról a 2026. évben a XVII. Energiaügyi Minisztérium fejezet, Lakossági Rezsivédelmi Alapot finanszírozó előirányzat javára;
+## b) [^1]
 
-| Felelős: | nemzetgazdasági miniszter energiaügyi miniszter |
+## 3.[^2] felhívja az energiaügyi minisztert, hogy a 2. pont szerinti forrás terhére gondoskodjon a Szövetség részére a Korm. rendelet 5/C. § (3) bekezdése alapján megkötött szerződés szerinti ellentételezés teljesítéséről, a következő ütemezés szerint:
 
-| Határidő: | a 2026. évi költségvetés tervezése során |
+## a) 2025. június 30-ig 3 300 000 000 forint,
 
-## 3. felhívja az energiaügyi minisztert, hogy a 2. pont szerinti forrás terhére gondoskodjon a Szövetség részére, a Korm. rendelet 5/C. § (3) bekezdése alapján megkötött szerződés szerinti ellentételezés teljesítéséről, a következő ütemezés szerint:
-
-## a) 2025. május 15-ig 7 000 000 000 forint,
-
-## b) 2025. szeptember 30-ig további 6 000 000 000 forint,
-
-## c) 2026. január 30-ig további legfeljebb 5 500 000 000 forint;
+## b) 2025. október 15-ig további 3 000 000 000 forint
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | folyamatos |
 
-## 4. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1. pontban foglalt feladat végrehajtása érdekében legfeljebb 66 500 000 000 forint összegben kötelezettséget vállaljon;
+## 4.[^3] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1–3. pontban foglalt feladat végrehajtása érdekében legfeljebb 54 300 000 000 forint összegben kötelezettséget vállaljon;
 
-## 5. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pontban foglalt feladat végrehajtása érdekében a 2. pont a) alpontja szerinti jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját a 2026. évben legfeljebb 5 500 000 000 forint összegben állapítja meg;
+## 5.[^4]
 
-## 6.[^1]
+## 6.[^5]
 
 1. melléklet az 1099/2025. (IV. 7.) Korm. határozathoz
 
-[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont b) alpontját az 1269/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 3. pont az 1269/2025. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1269/2025. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 5. pontot az 1269/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
