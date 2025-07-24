@@ -1,0 +1,1 @@
+4. § A 31/2014. (II. 12.) Korm. rendelet 12. § (1) bekezdés c) pontjában az „a hivatásos katasztrófavédelmi szerv katasztrófavédelmi” szövegrész helyébe az „az iparbiztonsági hatóság iparbiztonsági” szöveg lép.
