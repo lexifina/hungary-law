@@ -8,7 +8,7 @@ b) elbírálja a képzési program jóváhagyása iránti kérelmeket,
 
 c) ellenőrzi a képzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
 
-(3)[^8] Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
+(3)[^9] Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
 
 a) a képzést megelőző legalább egy évben gépészet ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
 
@@ -28,4 +28,4 @@ c) annak megjelölését, hogy a képzés szervezője mely képzés képzési pr
 
 d) a képzési programot.
 
-[^8]: A 24. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^9]: A 24. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

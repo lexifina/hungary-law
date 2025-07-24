@@ -18,8 +18,8 @@
 
 | 9. | Éghető töltet esetében tárolótartály létesítése és üzembe helyezése esetén. | A létesítésre vonatkozó tűzvédelmi előírásoknak és tűztávolságoknak való megfelelés. | – |
 
-2. melléklet a 216/2019. (IX. 5.) Korm. rendelethez[^13]
+2. melléklet a 216/2019. (IX. 5.) Korm. rendelethez[^15]
 
 A tárolótartályok és berendezéseik gyártását, helyszíni technológiai szerelését, javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos ellenőrző vizsgálatát végző szervezetekre vonatkozó követelmények
 
-[^13]: A 2. melléklet a 190/2020. (V. 7.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet a 190/2020. (V. 7.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
