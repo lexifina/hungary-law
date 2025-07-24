@@ -1,10 +1,10 @@
 ## 1. A Kormány egyetért azzal, hogy a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Egészségügyi ágazati előirányzatok alcím, 3. Egészséges Budapest Program jogcímcsoporton rendelkezésre álló forrás terhére 7 765 975 000 forint felhasználására az 1. mellékletben foglaltak szerint kerüljön sor.
 
-## 2. A Kormány az 1. mellékletben foglalt táblázat 1–5. és 10. sora szerinti fejlesztések megvalósítására a NEFÜ Nemzeti Egészségügyi Fejlesztési Ügynökség Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
+## 2.[^1] A Kormány az 1. mellékletben foglalt táblázat 1–5. sora szerinti fejlesztések megvalósítására a NEFÜ Nemzeti Egészségügyi Fejlesztési Ügynökség Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
 
 ## 3. A Kormány felhívja a belügyminisztert, hogy létesítsen támogatási jogviszonyt
 
-## a) az 1. mellékletben foglalt táblázat 1–5. és 10. sora szerinti fejlesztések megvalósítása céljából a NEFÜ Nemzeti Egészségügyi Fejlesztési Ügynökség Nonprofit Korlátolt Felelősségű Társasággal,
+## a)[^2] az 1. mellékletben foglalt táblázat 1–5. sora szerinti fejlesztések megvalósítása céljából a NEFÜ Nemzeti Egészségügyi Fejlesztési Ügynökség Nonprofit Korlátolt Felelősségű Társasággal,
 
 ## b) az 1. mellékletben foglalt táblázat 6. sora szerinti fejlesztés megvalósítása céljából a Vasútegészségügyi Szolgáltató Nonprofit Korlátolt Felelősségű Társasággal,
 
@@ -22,9 +22,9 @@
 
 | Határidő: | 2024. december 31. |
 
-## 4.[^1]
+## 4.[^3]
 
-## 5.[^2]
+## 5.[^4]
 
 1. melléklet az 1416/2024. (XII. 20.) Korm. határozathoz
 
@@ -52,7 +52,7 @@ Az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez
 
 | 9. | Budapest Főváros XVI. kerületi Kertváros Önkormányzata | Hunyadvár utcai tüdőgondozó felújításának utolsó fázisa | 563 000 000 |
 
-| 10. | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet | Rákosmenti Szakrendelő felújítása | 1 026 348 790 |
+| 10.[^5] |  |  |  |
 
 | 11. | Budapest Főváros XX. kerület Pesterzsébet Önkormányzata | Felújítás és orvostechnológiai eszközök beszerzése a Jókai Mór utcai rendelőben, orvostechnológiai és informatikai eszközök beszerzése gyerekfogászatok részére | 121 500 000 |
 
@@ -60,5 +60,8 @@ Az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez
 
 | ÖSSZESEN: | 7 765 975 000 |
 
-[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1272/2025. (VII. 24.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont a) alpontja az 1272/2025. (VII. 24.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. mellékletben foglalt táblázat 10. sort az 1272/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
