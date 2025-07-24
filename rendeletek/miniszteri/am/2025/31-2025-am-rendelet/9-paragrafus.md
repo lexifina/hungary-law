@@ -1,9 +1,6 @@
-9. § (1) Hatályát veszti a 6/2021. (II. 27.) AM rendelet
+9. § (1)[^9]
 
-a) 6. § (1) bekezdés c) és f) pontja,
+(2)[^10]
 
-b) 8. § (1) bekezdésében a „vagy a környezettudomány” szövegrész.
-
-(2)[^1]
-
-[^1]: A 9. § (2) bekezdése a 10. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^9]: A 9. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § (2) bekezdése a 10. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

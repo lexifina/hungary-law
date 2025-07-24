@@ -1,3 +1,3 @@
-4. § A 6/2021. (II. 27.) AM rendelet 26. § (4) bekezdése helyébe a következő rendelkezés lép:
+4. §[^4]
 
-„(4) Az elismerésben részesített névre szóló, zöld színű tollat, valamint az adományozást igazoló oklevelet kap.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

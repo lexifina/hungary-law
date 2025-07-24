@@ -8,10 +8,6 @@
 
 ## [5] A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1–12. pontjában meghatározott feladat- és hatáskörömben eljárva a következőket rendelem el:
 
-1. § Az agrárminiszter által adományozható díjakról és más elismerésekről szóló 6/2021. (II. 27.) AM rendelet [a továbbiakban: 6/2021. (II. 27.) AM rendelet] 1. § (3) bekezdés d) pontja a következő dc) alponttal egészül ki:
+1. §[^1]
 
-(A miniszter által adományozható szakmai elismerések a következők:
-
-Oklevél:)
-
-„dc) Hutÿra Ferenc Elismerő Oklevél;”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

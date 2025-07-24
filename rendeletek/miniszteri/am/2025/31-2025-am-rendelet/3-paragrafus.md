@@ -1,3 +1,3 @@
-3. § A 6/2021. (II. 27.) AM rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(3) Évente legfeljebb egy díj adományozható.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
