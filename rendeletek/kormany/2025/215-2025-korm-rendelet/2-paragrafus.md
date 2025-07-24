@@ -1,3 +1,3 @@
-2. § Az R1. 2. § (1) bekezdés 1. és 2. pontja helyébe a következő rendelkezések lépnek:
+2. §[^2]
 
-(A rendelet alkalmazásában)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

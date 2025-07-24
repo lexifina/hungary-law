@@ -1,1 +1,3 @@
-12. § Hatályát veszti az R2. 1. § b) pontjában az „a Tao. tv. 22/C. § (1a) bekezdése szerinti jogcímre, valamint” szövegrész.
+12. §[^12]
+
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

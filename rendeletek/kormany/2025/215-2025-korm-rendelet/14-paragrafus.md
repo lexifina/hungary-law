@@ -1,3 +1,3 @@
-14. § Az R3. 9. § (2) bekezdése a következő e) ponttal egészül ki:
+14. §[^14]
 
-(A miniszter a Tao. tv. szerint látvány-csapatsportágnak minősülő)
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

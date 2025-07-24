@@ -1,11 +1,3 @@
-16. § Az R3. 15/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+16. §[^16]
 
-„(3) Módszertani központként
-
-a) látvány-csapatsportágban a Nemzeti Sportfejlesztési és Módszertani Intézet,
-
-b) kajak-kenu sportágban a Kovács Katalin Nemzeti Kajak-Kenu Akadémia Alapítvány,
-
-c) birkózás sportágban a Kozma István Magyar Birkózó Akadémia Alapítvány
-
-jár el.”
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

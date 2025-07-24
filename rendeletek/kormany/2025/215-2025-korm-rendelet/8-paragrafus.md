@@ -1,1 +1,3 @@
-8. § Az R1. 4. § (2) bekezdés g) pontjában, 6. § (1) bekezdés g) pontjában és 14. § (4f) bekezdés a) pontjában az „ , az előírt benyújtási határidők figyelembevételével legutóbbi” szövegrész helyébe a „lezárt” szöveg lép.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
