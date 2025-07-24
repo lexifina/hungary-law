@@ -1,3 +1,3 @@
-8. §[^17]
+8. §[^20]
 
-[^17]: A 8. §-t a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés a) pontja hatályon kívül helyezte.
+[^20]: A 8. §-t a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés a) pontja hatályon kívül helyezte.

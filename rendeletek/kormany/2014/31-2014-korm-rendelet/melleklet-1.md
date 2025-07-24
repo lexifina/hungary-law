@@ -1,4 +1,4 @@
-## 42. §[^67] E rendelet 2. § 8a., 10a. és 12a–12c. pontja, 11/A. §-a, 12. § (1) bekezdés d) pontja, 12. § (1a)–(1e) bekezdése, valamint 7. melléklete az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikkének való megfelelést szolgálja.
+## 42. §[^71] E rendelet 2. § 8a., 10a. és 12a–12c. pontja, 11/A. §-a, 12. § (1) bekezdés d) pontja, 12. § (1a)–(1e) bekezdése, valamint 7. melléklete az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikkének való megfelelést szolgálja.
 
 1. melléklet a 31/2014. (II. 12.) Korm. rendelethez
 
@@ -14,9 +14,9 @@ Az építésügyi hatósági engedély iránti kérelem adattartalma
 
 5. A kérelem tárgya és annak rövid leírása.
 
-6.[^68] A tervezett műszaki megoldásnak az építményekkel kapcsolatos országos szakmai követelményeknek a Méptv.-ben, valamint az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott előírásaitól való esetleges eltérése engedélyezésének szükségessége.
+6.[^72] A tervezett műszaki megoldásnak az építményekkel kapcsolatos országos szakmai követelményeknek a Méptv.-ben, valamint az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott előírásaitól való esetleges eltérése engedélyezésének szükségessége.
 
-7.[^69] A kérelem tárgyával összefüggésben korábban keletkezett hatósági határozatok megnevezése, száma, kelte, jogerőre emelkedésének vagy véglegessé válásának napja.
+7.[^73] A kérelem tárgyával összefüggésben korábban keletkezett hatósági határozatok megnevezése, száma, kelte, jogerőre emelkedésének vagy véglegessé válásának napja.
 
 8. A közreműködő tervező vagy tervezők neve, címe, jogosultsága.
 
@@ -30,6 +30,6 @@ Az építésügyi hatósági engedély iránti kérelem adattartalma
 
 13. Az érintett közmű-, közút-, vasút-üzemeltetők nyilatkozatai.
 
-[^67]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 122/2015. (V. 26.) Korm. rendelet 42. §-a iktatta be.
-[^68]: Az 1. melléklet 6. pontja a 285/2024. (IX. 30.) Korm. rendelet 98. § c) pontja szerint módosított szöveg.
-[^69]: Az 1. melléklet 7. pontja a 457/2017. (XII. 28.) Korm. rendelet 485. § i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^71]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 122/2015. (V. 26.) Korm. rendelet 42. §-a iktatta be.
+[^72]: Az 1. melléklet 6. pontja a 285/2024. (IX. 30.) Korm. rendelet 98. § c) pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet 7. pontja a 457/2017. (XII. 28.) Korm. rendelet 485. § i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

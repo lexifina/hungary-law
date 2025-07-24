@@ -1,4 +1,4 @@
-7. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^82]
+7. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^86]
 
 Hulladékhőt termelő ipari létesítmény, hőtermelő-hőszolgáltató létesítmény, távfűtési hálózat, valamint távhűtési hálózat tervezésének vagy jelentős korszerűsítésének költség-haszon elemzés végzése alóli mentesülés esetkörei
 
@@ -78,4 +78,4 @@ A távfűtési vagy távhűtési hálózat (tervezett) tekintetében számított
 
 | 6. | 30 | 1000 |
 
-[^82]: A 7. mellékletet a 122/2015. (V. 26.) Korm. rendelet 43. §-a iktatta be.
+[^86]: A 7. mellékletet a 122/2015. (V. 26.) Korm. rendelet 43. §-a iktatta be.
