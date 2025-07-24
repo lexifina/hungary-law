@@ -42,13 +42,7 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-8. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere kezdeményezése alapján gondoskodjon a Fejlesztés finanszírozásához 2022. évben szükséges 1 058 459 630 forint forrás biztosításáról a Kvtv2. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára;
-
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+8.[^4]
 
 9. felhívja az emberi erőforrások miniszterét, hogy a pénzügyminiszter bevonásával gondoskodjon a Fejlesztés finanszírozásához 2023. évben szükséges 544 852 785 forint forrás biztosításáról a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetben.
 
@@ -58,6 +52,16 @@ pénzügyminiszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
+10.[^5] a Fejér Vármegyei Szent György Egyetemi Oktató Kórház részére a székesfehérvári Fejér Vármegyei Szent György Egyetemi Oktató Kórház lég- és klímatechnikai célú fejlesztéséhez szükséges többletforrás biztosításáról szóló 1273/2025. (VII. 24.) Korm. határozat 1. pont a) és b) alpontjában megállapított támogatás összesen 1 868 874 770 forint összegének évenkénti ütemezését
+
+a) a 2025. évre 934 437 385 forint forrásösszegben,
+
+b) a 2026. évre 934 437 385 forint forrásösszegben
+
+állapítja meg.
+
 [^1]: A 2. pont az 1250/2025. (VII. 8.) Korm. határozat 13. pontja szerint módosított szöveg.
 [^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 79. pontja iktatta be.
+[^4]: A 8. pontot az 1273/2025. (VII. 24.) Korm. határozat 2. pont b) alpontja hatályon kívül helyezte.
+[^5]: A 10. pontot az 1273/2025. (VII. 24.) Korm. határozat 2. pont a) alpontja iktatta be.
