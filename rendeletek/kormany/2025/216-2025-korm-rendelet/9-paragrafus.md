@@ -1,5 +1,5 @@
 ## 5. A Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról, valamint a nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő részletszabályokról szóló 307/2022. (VIII. 11.) Korm. rendelet módosítása
 
-9. § A Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról, valamint a nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő részletszabályokról szóló 307/2022. (VIII. 11.) Korm. rendelet 10/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^9]
 
-„(1) A DMÜ és az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet szerint a DMÜ tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint azok tulajdonosi joggyakorlása alatt álló gazdasági társaságok részére a működésükhöz szükséges informatikai szolgáltatásokat az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, valamint a Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban együtt: szolgáltató) is nyújthatja.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

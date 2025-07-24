@@ -1,3 +1,3 @@
-2. § A 414/2015. (XII. 23.) Korm. rendelet 18. alcím címe helyébe a következő alcím cím lép:
+2. §[^2]
 
-„18. A tanúsítvány felfüggesztése, visszavonása”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

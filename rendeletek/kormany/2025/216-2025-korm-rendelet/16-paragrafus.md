@@ -1,5 +1,5 @@
 ## 8. A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet módosítása
 
-16. §[^2]
+16. §[^14]
 
-[^2]: A 16. § a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.
+[^14]: A 16. § a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.

@@ -1,5 +1,5 @@
-## 7.[^1]
+## 7.[^13]
 
 13. §
 
-[^1]: A 7. alcím a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.
+[^13]: A 7. alcím a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.

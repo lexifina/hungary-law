@@ -20,6 +20,6 @@
 
 ## 1. A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet módosítása
 
-1. § A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet [a továbbiakban: 414/2015. (XII. 23.) Korm. rendelet] 17. alcím címe helyébe a következő alcím cím lép:
+1. §[^1]
 
-„17. A tanúsítvány közzététele”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

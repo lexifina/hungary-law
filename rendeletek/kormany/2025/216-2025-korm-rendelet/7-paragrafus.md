@@ -1,1 +1,3 @@
-7. § A 314/2018. (XII. 27.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

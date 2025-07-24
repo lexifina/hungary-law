@@ -1,9 +1,5 @@
 ## 2. Az okos város központi platformszolgáltatás létrehozásáról és működtetéséről szóló 252/2018. (XII. 17.) Korm. rendelet módosítása
 
-4. § Hatályát veszti az okos város központi platformszolgáltatás létrehozásáról és működtetéséről szóló 252/2018. (XII. 17.) Korm. rendelet
+4. §[^4]
 
-a) 1. § 3. pontjában az „az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság,” szövegrész,
-
-b) 3. § d) pontja,
-
-c) 1. mellékletében foglalt táblázat 5. sora.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

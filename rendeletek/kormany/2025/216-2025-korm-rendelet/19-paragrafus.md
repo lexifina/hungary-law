@@ -1,3 +1,3 @@
-19. §[^5]
+19. §[^17]
 
-[^5]: A 19. § a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.
+[^17]: A 19. § a 22. § (2) bekezdése alapján 2025. szeptember 30-án lép hatályba.

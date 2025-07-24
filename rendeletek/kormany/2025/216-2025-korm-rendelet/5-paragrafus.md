@@ -1,5 +1,5 @@
 ## 3. A Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet módosítása
 
-5. § A Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 5. § (12) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„(12) Alkalmazás esetén az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet (a továbbiakban: ÁAFK Kr.) hatálya alá tartozó szervezet esetében az ÁAFK Kr. szerinti fejlesztést támogató döntés, valamint a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet alapján a központi szolgáltató kötelező igénybevétele tárgyában hozott hatósági határozat nélkül nincs helye a 7. § (1) bekezdés b) pontja szerinti megküldésnek.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
