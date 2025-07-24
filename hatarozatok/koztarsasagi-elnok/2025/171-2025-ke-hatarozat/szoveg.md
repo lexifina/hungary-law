@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Mészáros Zsolt rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem Magyarország nairobi nagykövetségének a vezetésére, valamint Magyarországnak az Ugandai Köztársaságban, a Tanzániai Egyesült Köztársaságban, a Szomáli Szövetségi Köztársaságban, a Ruandai Köztársaságban, a Seychelle Köztársaságban, a Burundi Köztársaságban, a Comore-szigeteki Unióban és a Kongói Demokratikus Köztársaságban való képviseletére kapott megbízása alól.
+
+SP ügyszám: SP/1495-2/2025
