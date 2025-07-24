@@ -1,3 +1,3 @@
-6. § A 235/2019. (X. 15.) Korm. rendelet 13. §-a helyébe a következő rendelkezés lép:
+6. §[^6]
 
-„13. § Üzemeltető jogosult a szálláshely-szolgáltatók, a vendéglátó üzlet üzemeltetők, a turisztikai attrakció üzemeltetők és a kikötő üzemeltetők által átadott statisztikai adatokat a turizmusfejlesztést segítő kutatási, fejlesztési feladataihoz felhasználni, az adatokat a turizmusért felelős miniszter, a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság és annak közvetett és közvetlen tulajdonosi joggyakorlása alatt álló gazdasági társaságok részére átadni, továbbá a területfejlesztési tervek megalapozását szolgáló feldolgozott statisztikai adatokat, összefoglalókat a közigazgatási és területfejlesztésért felelős miniszter megkeresése alapján átadni, valamint a rendelkezésére álló adatokból szakmai összefoglalókat, helyzetjelentéseket, értékeléseket továbbá előrejelzéseket készíteni, és ezeket – azonosításra alkalmatlan formában – nyilvánosságra hozni.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A 235/2019. (X. 15.) Korm. rendelet 2. §-a a következő 20. és 21. ponttal egészül ki:
+3. §[^3]
 
-(E rendelet alkalmazásában:)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
