@@ -8,7 +8,7 @@ b) elbírálja a képzési program jóváhagyása iránti kérelmeket,
 
 c) ellenőrzi a képzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
 
-(3)[^13] Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
+(3)[^14] Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
 
 a) a képzést megelőző legalább egy évben gépészet ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
 
@@ -16,7 +16,7 @@ b) rendelkezik a képzési területre vonatkozóan kidolgozott, a képzés felü
 
 c) rendelkezik a képzési programhoz kidolgozott, a hatályos műszaki biztonsági követelményeket tükröző, korszerű tananyagegységgel.
 
-(4)[^14] A képzés szervezője a képzési program jóváhagyása iránti kérelmét az (5) bekezdésben meghatározott adattartalommal, a Budapest Főváros Kormányhivatala által meghatározott és a honlapján közzétett formanyomtatványon készíti el.
+(4)[^15] A képzés szervezője a képzési program jóváhagyása iránti kérelmét az (5) bekezdésben meghatározott adattartalommal, a Budapest Főváros Kormányhivatala által meghatározott és a honlapján közzétett formanyomtatványon készíti el.
 
 (5) A képzési program jóváhagyása iránti kérelem tartalmazza:
 
@@ -28,5 +28,5 @@ c) annak megjelölését, hogy a képzés szervezője mely képzés képzési pr
 
 d) a képzési programot.
 
-[^13]: A 37. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^14]: A 37. § (4) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
+[^14]: A 37. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^15]: A 37. § (4) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
