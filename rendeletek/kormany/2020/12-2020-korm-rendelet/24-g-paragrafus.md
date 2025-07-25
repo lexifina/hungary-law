@@ -1,4 +1,4 @@
-## 8/C.[^67] Az Szkt. 14/D. §-ához
+## 8/C.[^68] Az Szkt. 14/D. §-ához
 
 24/G. § (1) A szakképzési államigazgatási szerv az akkreditált szakképzési vizsgaközpont szakmai és képesítő vizsgáztatási tevékenységének ellenőrzését
 
@@ -34,4 +34,4 @@ b) kiválasztja és felkészíti az ellenőrzést végző szakértőket,
 
 c) évente beszámolót készít az ellenőrzés tapasztalatairól, és a tárgyévet követő év február 28-ig megküldi a szakképzésért felelős miniszternek.
 
-[^67]: A 8/C. alcímet (24/G–24/H. §-t) a 129/2024. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
+[^68]: A 8/C. alcímet (24/G–24/H. §-t) a 129/2024. (VI. 17.) Korm. rendelet 5. §-a iktatta be.

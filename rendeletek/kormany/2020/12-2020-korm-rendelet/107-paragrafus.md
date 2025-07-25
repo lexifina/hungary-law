@@ -1,4 +1,4 @@
-107. § (1)[^214] A technikumban a tanulmányok elvégzését közvetlenül követő érettségi vizsgaidőszakban az érettségi vizsgák megkezdésének feltétele ötven óra közösségi szolgálat elvégzésének igazolása, kivéve
+107. § (1)[^220] A technikumban a tanulmányok elvégzését közvetlenül követő érettségi vizsgaidőszakban az érettségi vizsgák megkezdésének feltétele ötven óra közösségi szolgálat elvégzésének igazolása, kivéve
 
 a) a képzésben részt vevő személynek,
 
@@ -6,7 +6,7 @@ b) annak a sajátos nevelési igényű tanulónak, akit a nemzeti köznevelésr�
 
 c) a fogvatartottnak.
 
-(1a)[^215] Ha a tanuló a tanulmányok elvégzését közvetlenül követő érettségi vizsgaidőszakban az írásbeli érettségi vizsgaidőszak kezdetéig nem tett eleget az (1) bekezdésben meghatározott feltételnek, érettségi vizsgáit nem kezdheti meg, az adott vizsgaidőszakra vonatkozó összes érettségi jelentkezését az igazgató törli.
+(1a)[^221] Ha a tanuló a tanulmányok elvégzését közvetlenül követő érettségi vizsgaidőszakban az írásbeli érettségi vizsgaidőszak kezdetéig nem tett eleget az (1) bekezdésben meghatározott feltételnek, érettségi vizsgáit nem kezdheti meg, az adott vizsgaidőszakra vonatkozó összes érettségi jelentkezését az igazgató törli.
 
 (2) A szakképző intézmény feladata és az igazgató felelőssége a tanuló választása alapján a közösségi szolgálat megszervezése és annak teljesítésére időkeret biztosítása. Az osztályfőnök vagy az ezzel a feladattal megbízott oktató a tanuló előmenetelét rögzítő dokumentumokban az iratkezelési szabályok megtartásával nyilvántartja és folyamatosan vezeti a közösségi szolgálattal összefüggő egyéni vagy csoportos tevékenységet.
 
@@ -34,6 +34,8 @@ területen folytatható tevékenység.
 
 (6) A közösségi szolgálat teljesítése keretében egy órán hatvan perc közösségi szolgálati időt kell érteni azzal, hogy a helyszínre utazás és a helyszínről hazautazás ideje nem számítható be a teljesítésbe.
 
+(6a)[^222] A közösségi szolgálat keretei között a 18. életévüket betöltött tanulók esetében véradási tevékenységre legfeljebb négy óra beszámítható oly módon, hogy egy véradási alkalom 4 óra közösségi szolgálatnak felel meg.
+
 (7) A közösségi szolgálat során a tanuló naplót köteles vezetni, amelyben rögzíti, hogy mikor, hol, milyen időkeretben és milyen tevékenységet folytatott.
 
 (8) A közösségi szolgálat dokumentálásának kötelező elemeként
@@ -48,5 +50,6 @@ d) a szakképző intézmény a közösségi szolgálattal kapcsolatos dokumentum
 
 e) a szakképző intézményen kívüli külső szervezet és közreműködő mentor bevonásakor a szakképző intézmény és a felek együttműködéséről megállapodást kell kötni, amelynek tartalmaznia kell a megállapodást aláíró felek adatain és vállalt kötelezettségein túl a foglalkoztatás időtartamát, a végzett tevékenységeket, a mentor nevét és feladatkörét.
 
-[^214]: A 107. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^215]: A 107. § (1a) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^220]: A 107. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^221]: A 107. § (1a) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^222]: A 107. § (6a) bekezdését a 225/2025. (VII. 24.) Korm. rendelet 25. §-a iktatta be.

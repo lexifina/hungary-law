@@ -20,6 +20,6 @@ c) a vizsgafelügyelő szakmai vizsgával kapcsolatos tapasztalatainak értékel
 
 (3) A szakmai vizsga utolsó vizsgatevékenységét követően a vizsgajegyzőkönyvet le kell zárni, és csatolni kell hozzá a vizsgaösszesítő ívet, továbbá a felmentési kérelemhez benyújtott okiratok másolatát. A vizsgajegyzőkönyv mellékletét képezi továbbá a lebonyolítási rend és a vizsgatevékenységek lebonyolításának helyszínét, személyi és tárgyi feltételeit, azok biztosításának módját, a feltételek megfelelőségének tényét írásban rögzítő dokumentum.
 
-(4)[^438] A szakmai vizsga jegyzőkönyvét és valamennyi mellékletét a szakmai vizsga jegyzője, a vizsgafelügyelő és a vizsgabizottság tagjai írják alá.
+(4)[^447] A szakmai vizsga jegyzőkönyvét és valamennyi mellékletét a szakmai vizsga jegyzője, a vizsgafelügyelő és a vizsgabizottság tagjai írják alá.
 
-[^438]: A 284. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^447]: A 284. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.

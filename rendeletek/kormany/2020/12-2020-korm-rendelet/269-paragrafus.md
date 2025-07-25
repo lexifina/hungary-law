@@ -1,6 +1,6 @@
 ## 92. Az Szkt. 93. § (2) bekezdés c) pontjához
 
-269. § (1)[^397] Az akkreditált szakképzési vizsgaközpont a vizsgázóról az elektronikus vizsgarendszerben az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 1/A. melléklet IV. rész 2. pontjában meghatározott adatokat tartalmazó vizsgatörzslapot állít ki.
+269. § (1)[^406] Az akkreditált szakképzési vizsgaközpont a vizsgázóról az elektronikus vizsgarendszerben az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 1/A. melléklet IV. rész 2. pontjában meghatározott adatokat tartalmazó vizsgatörzslapot állít ki.
 
 (2) A vizsgatörzslap külíve tartalmazza
 
@@ -14,7 +14,7 @@ ac) időpontját és
 
 ad) nyelvét,
 
-b)[^398] az akkreditált szakképzési vizsgaközpont
+b)[^407] az akkreditált szakképzési vizsgaközpont
 
 ba) nyilvántartási számát,
 
@@ -22,13 +22,13 @@ bb) megnevezését,
 
 bc) címét és
 
-bd)[^399] – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM azonosítóját,
+bd)[^408] – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM azonosítóját,
 
 c) a szakmai vizsgán megszerezhető szakma szakmajegyzék szerinti azonosító számát és megnevezését,
 
 d) a vizsgázók számát, valamint a kezdő és a befejező törzslapszámot,
 
-e)[^400] a vizsgafelügyelőnek és a vizsgabizottság tagjainak, a szakmai vizsga jegyzőjének és az akkreditált szakképzési vizsgaközpont vezetőjének
+e)[^409] a vizsgafelügyelőnek és a vizsgabizottság tagjainak, a szakmai vizsga jegyzőjének és az akkreditált szakképzési vizsgaközpont vezetőjének
 
 ea) családi és utónevét és
 
@@ -38,7 +38,7 @@ f) tájékoztatást arról, hogy
 
 fa) a vizsgatörzslap az elektronikus vizsgarendszerből került kinyomtatásra,
 
-fb)[^401] a vizsgatörzslap a vizsgázónak az akkreditált szakképzési vizsgaközpont által rögzített adatait és eredményeit tartalmazza, valamint
+fb)[^410] a vizsgatörzslap a vizsgázónak az akkreditált szakképzési vizsgaközpont által rögzített adatait és eredményeit tartalmazza, valamint
 
 fc) a vizsgatörzslap adatai a kinyomtatott és hitelesített példány elküldését követően nem módosíthatók.
 
@@ -46,7 +46,7 @@ fc) a vizsgatörzslap adatai a kinyomtatott és hitelesített példány elküld�
 
 a) a vizsgatörzslap számát,
 
-b)[^402] a vizsgázó
+b)[^411] a vizsgázó
 
 ba) természetes személyazonosító adatait,
 
@@ -56,7 +56,7 @@ bc) nemét,
 
 bd) a szakmai oktatása jogviszonyának típusát,
 
-c)[^403] az akkreditált szakképzési vizsgaközpont megnevezését, címét és – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM azonosítóját,
+c)[^412] az akkreditált szakképzési vizsgaközpont megnevezését, címét és – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM azonosítóját,
 
 d) a szakma
 
@@ -68,21 +68,21 @@ e) a vizsgatevékenységek megnevezését, jellegét, értékelési súlyarány�
 
 f) a vizsgázó szakmai vizsgán elért eredményét százalékkal és osztályzattal kifejezve,
 
-g)[^404] az akkreditált szakképzési vizsgaközpont határozatát és a záradékokat, valamint
+g)[^413] az akkreditált szakképzési vizsgaközpont határozatát és a záradékokat, valamint
 
-h)[^405] a kiállított oklevél, illetve szakmai bizonyítvány sorozatjelét és sorszámát,
+h)[^414] a kiállított oklevél, illetve szakmai bizonyítvány sorozatjelét és sorszámát,
 
-i)[^406] a szakmai vizsga alapját képező képzési és kimeneti követelmények alkalmazásának kezdő dátumát.
+i)[^415] a szakmai vizsga alapját képező képzési és kimeneti követelmények alkalmazásának kezdő dátumát.
 
 (4) A vizsgatörzslapra az adatokat eredeti okiratok alapján kell bejegyezni.
 
-[^397]: A 269. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 32. pontja szerint módosított szöveg.
-[^398]: A 269. § (2) bekezdés b) pont nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 33. pontja szerint módosított szöveg.
-[^399]: A 269. § (2) bekezdés b) pont bd) alpontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 34. pontja szerint módosított szöveg.
-[^400]: A 269. § (2) bekezdés e) pont nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 35. pontja szerint módosított szöveg.
-[^401]: A 269. § (2) bekezdés f) pont fb) alpontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 36. pontja szerint módosított szöveg.
-[^402]: A 269. § (3) bekezdés b) pontja a 129/2024. (VI. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^403]: A 269. § (3) bekezdés c) pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 37. pontja szerint módosított szöveg.
-[^404]: A 269. § (3) bekezdés g) pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 38. pontja szerint módosított szöveg.
-[^405]: A 269. § (3) bekezdés h) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 75. pontja szerint módosított szöveg.
-[^406]: A 269. § (3) bekezdés i) pontját a 380/2021. (VI. 30.) Korm. rendelet 42. §-a iktatta be.
+[^406]: A 269. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 32. pontja szerint módosított szöveg.
+[^407]: A 269. § (2) bekezdés b) pont nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 33. pontja szerint módosított szöveg.
+[^408]: A 269. § (2) bekezdés b) pont bd) alpontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 34. pontja szerint módosított szöveg.
+[^409]: A 269. § (2) bekezdés e) pont nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 35. pontja szerint módosított szöveg.
+[^410]: A 269. § (2) bekezdés f) pont fb) alpontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 36. pontja szerint módosított szöveg.
+[^411]: A 269. § (3) bekezdés b) pontja a 129/2024. (VI. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^412]: A 269. § (3) bekezdés c) pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 37. pontja szerint módosított szöveg.
+[^413]: A 269. § (3) bekezdés g) pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 38. pontja szerint módosított szöveg.
+[^414]: A 269. § (3) bekezdés h) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 75. pontja szerint módosított szöveg.
+[^415]: A 269. § (3) bekezdés i) pontját a 380/2021. (VI. 30.) Korm. rendelet 42. §-a iktatta be.

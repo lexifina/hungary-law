@@ -1,4 +1,4 @@
-255. §[^373] (1) Az ágazati alapvizsga lebonyolítására a tanulmányok alatti vizsga szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
+255. §[^382] (1) Az ágazati alapvizsga lebonyolítására a tanulmányok alatti vizsga szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
 
 (2) Az ágazati alapvizsgát a szakképző intézményben kell az Szkt. 91. § (3) bekezdése szerinti vizsgabizottság előtt letenni.
 
@@ -6,4 +6,4 @@
 
 (4) Az ágazati alapvizsgához kapcsolódó javító- és pótlóvizsga letételére az ágazati alapvizsgát követő hatvan napon belül kell lehetőséget biztosítani.
 
-[^373]: A 255. § a 380/2021. (VI. 30.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^382]: A 255. § a 380/2021. (VI. 30.) Korm. rendelet 40. §-ával megállapított szöveg.

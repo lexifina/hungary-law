@@ -1,3 +1,3 @@
-46/A. §[^127] A szakképző intézmény a szakirányú oktatásban szakképzési munkaszerződéssel részt vevő tanuló kérésére a szakmai vizsga előtt – a szakmai vizsgára való felkészülés céljából – egy alkalommal legalább öt munkanap egybefüggő felkészítést szervez.
+46/A. §[^131] A szakképző intézmény a szakirányú oktatásban szakképzési munkaszerződéssel részt vevő tanuló kérésére a szakmai vizsga előtt – a szakmai vizsgára való felkészülés céljából – egy alkalommal legalább öt munkanap egybefüggő felkészítést szervez.
 
-[^127]: A 46/A. §-t a 292/2023. (VII. 6.) Korm. rendelet 13. §-a iktatta be.
+[^131]: A 46/A. §-t a 292/2023. (VII. 6.) Korm. rendelet 13. §-a iktatta be.
