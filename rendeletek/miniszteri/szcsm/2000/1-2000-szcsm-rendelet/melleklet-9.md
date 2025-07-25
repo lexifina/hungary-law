@@ -1,3 +1,3 @@
-9. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^477]
+9. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^485]
 
-[^477]: A 9. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § i) pontja hatályon kívül helyezte.
+[^485]: A 9. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § i) pontja hatályon kívül helyezte.

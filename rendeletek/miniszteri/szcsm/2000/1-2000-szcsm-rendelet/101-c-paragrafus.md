@@ -1,3 +1,3 @@
-101/C. §[^328]
+101/C. §[^330]
 
-[^328]: A 101/C. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § j) pontja hatályon kívül helyezte.
+[^330]: A 101/C. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § j) pontja hatályon kívül helyezte.

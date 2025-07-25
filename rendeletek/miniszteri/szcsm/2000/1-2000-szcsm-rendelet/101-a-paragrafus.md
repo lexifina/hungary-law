@@ -1,6 +1,6 @@
 ## Korlátozó intézkedés elrendelése
 
-101/A. §[^324] (1) A pszichiátriai betegek, szenvedélybetegek és fogyatékos személyek bentlakásos intézményében ha az ellátott személy veszélyeztető vagy közvetlen veszélyeztető magatartást tanúsít, az egészségügyről szóló 1997. évi CLIV. törvény vonatkozó rendelkezéseit kell értelemszerűen alkalmazni.
+101/A. §[^326] (1) A pszichiátriai betegek, szenvedélybetegek és fogyatékos személyek bentlakásos intézményében ha az ellátott személy veszélyeztető vagy közvetlen veszélyeztető magatartást tanúsít, az egészségügyről szóló 1997. évi CLIV. törvény vonatkozó rendelkezéseit kell értelemszerűen alkalmazni.
 
 (2) A korlátozó intézkedés alkalmazásáról a szolgáltatást nyújtó részletes eljárásrendet alakít ki a házirendben, amelynek tartalmaznia kell
 
@@ -14,7 +14,7 @@ d) a korlátozás feloldásának szabályait,
 
 e) a panaszjog gyakorlásának részletes szabályait.
 
-(3)[^325] Korlátozó intézkedés alkalmazása esetén – ide nem értve a pszichés megnyugtatást – a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett adatlapot kell kitölteni. A korlátozó intézkedés időtartama alatti megfigyeléseket, állapotleírást a betétlapon kell részletesen feltüntetni. A kitöltött adatlapot a gondozási tervhez kell csatolni.
+(3)[^327] Korlátozó intézkedés alkalmazása esetén – ide nem értve a pszichés megnyugtatást – a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett adatlapot kell kitölteni. A korlátozó intézkedés időtartama alatti megfigyeléseket, állapotleírást a betétlapon kell részletesen feltüntetni. A kitöltött adatlapot a gondozási tervhez kell csatolni.
 
 (4) Az intézménybe történő felvételkor az intézményvezető írásos formában tájékoztatja az ellátást igénybe vevőt, illetve törvényes képviselőjét
 
@@ -32,12 +32,12 @@ d) a panaszjog lehetőségéről, gyakorlásának szabályairól.
 
 (7) Az ellátott törvényes képviselőjét tájékoztatni kell
 
-a)[^326] a korlátozó intézkedés végrehajtása előtt, halaszthatatlan esetben a végrehajtás alatt vagy azt követően haladéktalanul a korlátozó intézkedés elrendeléséről és formájáról,
+a)[^328] a korlátozó intézkedés végrehajtása előtt, halaszthatatlan esetben a végrehajtás alatt vagy azt követően haladéktalanul a korlátozó intézkedés elrendeléséről és formájáról,
 
 b) a korlátozó intézkedés feloldásáról.
 
 (8) A korlátozó intézkedés feloldásáról történő tájékoztatással egyidejűleg az adatlap másolatát át kell adni, illetve meg kell küldeni az ellátottnak, valamint törvényes képviselőjének.
 
-[^324]: A 101/A. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 23. §-a iktatta a szövegbe.
-[^325]: A 101/A. § (3) bekezdése a 4/2020. (II. 6.) EMMI rendelet 15. § g) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
-[^326]: A 101/A. § (7) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § h) pontja szerint módosított szöveg.
+[^326]: A 101/A. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 23. §-a iktatta a szövegbe.
+[^327]: A 101/A. § (3) bekezdése a 4/2020. (II. 6.) EMMI rendelet 15. § g) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^328]: A 101/A. § (7) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § h) pontja szerint módosított szöveg.

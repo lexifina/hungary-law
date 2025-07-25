@@ -50,6 +50,9 @@ ll) megkeresés: szociális problémák által érintett vagy veszélyeztetett a
 
 lm) közösségi fejlesztés: egy településrész, település vagy térség lakosságát érintő integrációs szemléletű, bátorító-ösztönző, informáló, kapcsolatszervező tevékenység, amely különböző célcsoportokra vonatkozó speciális igényeket tár fel, szolgáltatásokat kezdeményez, közösségi együttműködéseket valósít meg.
 
+m)[^6] szakmai egység: önálló szakmai irányítás alatt álló szervezeti egység.
+
 [^3]: A 2. § a 2/2006. (IV. 14.) ICSSZEM rendelet 1. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
 [^4]: A 2. § k) pontját a 35/2009. (XII. 30.) SZMM rendelet 8. §-a iktatta be.
 [^5]: A 2. § l) pontját az 1/2017. (II. 14.) EMMI rendelet 29. §-a iktatta be.
+[^6]: A 2. § m) pontját a 29/2025. (VII. 24.) BM rendelet 7. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## Intézményi szolgáltatások szervezeti integrációja
 
-101/B. §[^327] (1) Bentlakásos intézményi szolgáltatás megszervezése az alábbi formákban történhet:
+101/B. §[^329] (1) Bentlakásos intézményi szolgáltatás megszervezése az alábbi formákban történhet:
 
 a) egy ellátotti csoport részére azonos gondozási feladatok ellátása (tiszta profilú intézmény),
 
@@ -30,4 +30,4 @@ b) ha az együttes létszám 1 fő feletti, terápiás munkatárs és szociális
 
 csökkenthető.
 
-[^327]: A 101/B. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, a 101/B. § szövege az 1/2017. (II. 14.) EMMI rendelet 44. §-ával megállapított szöveg.
+[^329]: A 101/B. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, a 101/B. § szövege az 1/2017. (II. 14.) EMMI rendelet 44. §-ával megállapított szöveg.

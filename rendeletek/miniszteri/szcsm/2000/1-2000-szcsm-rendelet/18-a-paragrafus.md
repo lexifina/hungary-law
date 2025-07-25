@@ -1,3 +1,3 @@
-18/A. §[^89]
+18/A. §[^90]
 
-[^89]: A 18/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja.
+[^90]: A 18/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja.

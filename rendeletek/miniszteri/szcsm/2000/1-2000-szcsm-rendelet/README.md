@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2024-07-24 | 2000-1-20-85.51 | 30/2024. (VII. 23.) BM rendelet |
 | 2025-01-01 | 2000-1-20-85.52 | 30/2024. (VII. 23.) BM rendelet |
 | 2025-02-09 | 2000-1-20-85.53 | 4/2025. (II. 6.) BM rendelet |
+| 2025-07-25 | 2000-1-20-85.54 | 14/2022. (IV. 29.) EMMI rendelet |

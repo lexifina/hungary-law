@@ -1,6 +1,6 @@
 ## Általános személyi feltételek
 
-6. § (1)[^41] Az ellátásban részesülő személyekkel közvetlenül foglalkozó, személyes gondoskodást végző személyek
+6. § (1)[^42] Az ellátásban részesülő személyekkel közvetlenül foglalkozó, személyes gondoskodást végző személyek
 
 a) legalább ötven százalékának szakképzettnek kell lennie alapszolgáltatás esetén, a b)–c) pont kivételével,
 
@@ -8,13 +8,13 @@ b) legalább nyolcvan százalékának szakképzettnek kell lennie nappali ellát
 
 c) száz százalékának szakképzettnek kell lennie családsegítés és gyermekjóléti szolgáltatás esetében, valamint a házi segítségnyújtás keretében személyi gondozást végzőknek.
 
-(2)[^42] A személyes gondoskodás egyes formáinak szakmai létszámnormáit a 2. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás szakmai létszámnormáit a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 1. számú melléklete tartalmazza.
+(2)[^43] A személyes gondoskodás egyes formáinak szakmai létszámnormáit a 2. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás szakmai létszámnormáit a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 1. számú melléklete tartalmazza.
 
-(3)[^43] A (2) bekezdés szerinti szakmai létszámnorma – a szolgáltatások biztosítása érdekében – a szociális intézményben kötelezően alkalmazandó legkisebb létszámot jelenti.
+(3)[^44] A (2) bekezdés szerinti szakmai létszámnorma – a szolgáltatások biztosítása érdekében – a szociális intézményben kötelezően alkalmazandó legkisebb létszámot jelenti.
 
-(4)[^44]
+(4)[^45]
 
-(4a)[^45] A 2. számú melléklet alkalmazása körében
+(4a)[^46] A 2. számú melléklet alkalmazása körében
 
 a) szakmai létszámnormára vonatkozó előírások betartásával a személyes gondoskodást nyújtó intézmények, szolgálatok a saját szervezeti felépítésük és működési rendjük szerint gazdálkodnak a humán erőforrásokkal;
 
@@ -30,7 +30,7 @@ db) a tevékenység megkezdésének első hónapjában a megállapodásokban rö
 
 dc) egy gondozó közvetlen gondozásra fordított havi órakerete éves átlagban 147 óra, úgy, hogy az ellátotti szám számítása során 21 óra = 1 fő ellátott;
 
-e)[^46] ha a nappali ellátást nyújtó, vagy a bentlakásos intézmények férőhelyszáma nem haladja meg az 50 férőhelyet, az intézményvezetői munkakör osztott munkakörben vagy részmunkaidőben is ellátható;
+e)[^47] ha a nappali ellátást nyújtó, vagy a bentlakásos intézmények férőhelyszáma nem haladja meg az 50 férőhelyet, az intézményvezetői munkakör osztott munkakörben vagy részmunkaidőben is ellátható;
 
 f) a gazdasági, pénzügyi feladatok ellátásának ajánlott létszámai a bentlakásos intézmények esetén a következők:
 
@@ -90,7 +90,7 @@ o) az orvos munkakör megbízási vagy vállalkozási jogviszonyban is betölthe
 
 p) a három műszakos folyamatos ellátást biztosító intézményben – a drogbetegeket ellátó intézményt, a hajléktalanok átmeneti szállását és a lakóotthont kivéve – az ápolói, gondozói feladatok ellátásához minimálisan 5 fő alkalmazása szükséges az intézményvezetőn és a kisegítő személyzeten kívül.
 
-(5)[^47] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű, valamint a szakápolási központban szakápolást végző személyeket – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre, házi segítségnyújtás esetén három évre felmentést adhat, ha
+(5)[^48] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű, valamint a szakápolási központban szakápolást végző személyeket – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre, házi segítségnyújtás esetén három évre felmentést adhat, ha
 
 a) a munkakört betölteni kívánó személy a képesítés megszerzése érdekében már szakirányú oktatásban vesz részt,
 
@@ -100,7 +100,7 @@ c) családsegítés és gyermekjóléti szolgáltatás esetén a munkavállaló 
 
 azzal, hogy a felmentés időtartama nem hosszabbítható meg.
 
-(5a)[^48] A 3. számú melléklet alkalmazásában
+(5a)[^49] A 3. számú melléklet alkalmazásában
 
 a) a gondozó, ápoló, segítő, asszisztens munkakörök betöltéséhez nincs felsőfokú képesítési elvárás, de a munkakörhöz illeszkedő felsőfokú végzettséggel és szakképzettséggel is betölthetőek,
 
@@ -108,17 +108,17 @@ b) a falugondnok, tanyagondnok munkakörök betöltéséhez nincs középfokú k
 
 c) ha alapképzésben szerzett végzettséget jelöl a táblázat egy munkakörnél, az adott munkakör az alapképzésben szerzett végzettségre épülő mesterképzésben szerzett végzettséggel is betölthető,
 
-d)[^49] az intézményvezető a pszichiátriai beteg, szenvedélybeteg, demens vagy autista személyeket gondozó bentlakást nyújtó intézmények esetén a gondozó, ápoló és terápiás munkakörök vonatkozásában munkakörönként legalább 1-1 fő, az adott szakmai egység célcsoportjának megfelelő, e melléklet szerinti kiegészítő szakirányú képesítéssel rendelkező foglalkoztatott jelenlétét köteles minden műszakban biztosítani.
+d)[^50] az intézményvezető a pszichiátriai beteg, szenvedélybeteg, demens vagy autista személyeket gondozó bentlakást nyújtó intézmények esetén a gondozó, ápoló és terápiás munkakörök vonatkozásában munkakörönként legalább 1-1 fő, az adott szakmai egység célcsoportjának megfelelő, e melléklet szerinti kiegészítő szakirányú képesítéssel rendelkező foglalkoztatott jelenlétét köteles minden műszakban biztosítani.
 
-(5b)[^50] A 3. melléklet szerinti munkaköröket az (5c) és (5d) bekezdésben foglaltaknak megfelelően kell szakmacsoport szerint besorolni.
+(5b)[^51] A 3. melléklet szerinti munkaköröket az (5c) és (5d) bekezdésben foglaltaknak megfelelően kell szakmacsoport szerint besorolni.
 
-(5c)[^51] A Szociális, gyermekjóléti és gyermekvédelmi szolgáltatás, ellátás vezető szakmacsoportba tartozó munkakörök:
+(5c)[^52] A Szociális, gyermekjóléti és gyermekvédelmi szolgáltatás, ellátás vezető szakmacsoportba tartozó munkakörök:
 
 a) intézményvezető,
 
 b) vezető ápoló, vezető szakápoló.
 
-(5d)[^52] A 3. melléklet szerinti nem vezetői munkakörök közül
+(5d)[^53] A 3. melléklet szerinti nem vezetői munkakörök közül
 
 a) a Személyes gondoskodást nyújtó szakember szakmacsoportba tartozó munkakörök:
 
@@ -146,51 +146,51 @@ cc) esetfelelős,
 
 cd) asszisztens.
 
-(6)[^53] A személyes gondoskodást végző, vezetői megbízással rendelkező személyek a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet szerinti vezetőképzés teljesítésére kötelesek.
+(6)[^54] A személyes gondoskodást végző, vezetői megbízással rendelkező személyek a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet szerinti vezetőképzés teljesítésére kötelesek.
 
-(7)[^54]
+(7)[^55]
 
-(8)[^55]
+(8)[^56]
 
-(8a)[^56] A vezetői megbízással rendelkező személyek vezetőképzésen vesznek részt.
+(8a)[^57] A vezetői megbízással rendelkező személyek vezetőképzésen vesznek részt.
 
-(9)[^57] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy feladatait az intézmény szervezeti és működési szabályzatában és a munkaköri leírásban foglaltak szerint végzi.
+(9)[^58] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy feladatait az intézmény szervezeti és működési szabályzatában és a munkaköri leírásban foglaltak szerint végzi.
 
-(10)[^58] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy, valamint közeli hozzátartozója [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja] és élettársa az ellátásban részesülő személlyel tartási, életjáradéki és öröklési szerződést az ellátás időtartama alatt – illetve annak megszűnésétől számított egy évig – nem köthet.
+(10)[^59] A személyes gondoskodást nyújtó intézményben foglalkoztatott személy, valamint közeli hozzátartozója [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja] és élettársa az ellátásban részesülő személlyel tartási, életjáradéki és öröklési szerződést az ellátás időtartama alatt – illetve annak megszűnésétől számított egy évig – nem köthet.
 
-(11)[^59] A személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére munkaruhát kell biztosítani. A munkaruha-juttatás feltételeit a munkáltató állapítja meg. Az alap- és a szakellátást biztosító intézményekben az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek részére szükség esetén védőruhát is kell biztosítani. Az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek alatt a 257/2000. (XII. 26.) Korm. rendelet 2. számú mellékletének I. ,,Ágazatspecifikus munkakörök a szociális területen'' cím alatt megjelölt munkakörökben foglalkoztatottakat kell érteni.
+(11)[^60] A személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére munkaruhát kell biztosítani. A munkaruha-juttatás feltételeit a munkáltató állapítja meg. Az alap- és a szakellátást biztosító intézményekben az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek részére szükség esetén védőruhát is kell biztosítani. Az ellátást igénybe vevőkkel közvetlenül foglalkozó személyek alatt a 257/2000. (XII. 26.) Korm. rendelet 2. számú mellékletének I. ,,Ágazatspecifikus munkakörök a szociális területen'' cím alatt megjelölt munkakörökben foglalkoztatottakat kell érteni.
 
-(12)[^60] Azt a személyt, aki a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott, a felmentés ideje alatt a 2. számú mellékletben – családsegítés és gyermekjóléti szolgáltatás esetében a 15/1998. (IV. 30.) NM rendelet 1. számú mellékletében – meghatározott létszámnormák teljesítése szempontjából szakképzettnek kell tekinteni.
+(12)[^61] Azt a személyt, aki a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott, a felmentés ideje alatt a 2. számú mellékletben – családsegítés és gyermekjóléti szolgáltatás esetében a 15/1998. (IV. 30.) NM rendelet 1. számú mellékletében – meghatározott létszámnormák teljesítése szempontjából szakképzettnek kell tekinteni.
 
-(13)[^61] Ha szociális szolgáltatás, illetve ellátás a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermekjóléti, gyermekvédelmi ellátással egy intézmény, szolgáltató keretében kerül megszervezésre, az intézményvezetői munkakört az intézmény, szolgáltató által nyújtott bármelyik ellátási, szolgáltatási forma vezetőjére meghatározott, felsőfokú végzettség körébe tartozó képesítési előírásoknak megfelelő személy betöltheti.
+(13)[^62] Ha szociális szolgáltatás, illetve ellátás a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermekjóléti, gyermekvédelmi ellátással egy intézmény, szolgáltató keretében kerül megszervezésre, az intézményvezetői munkakört az intézmény, szolgáltató által nyújtott bármelyik ellátási, szolgáltatási forma vezetőjére meghatározott, felsőfokú végzettség körébe tartozó képesítési előírásoknak megfelelő személy betöltheti.
 
-(14)[^62] A módszertani feladatokat felsőfokú végzettséggel rendelkező személy láthatja el.
+(14)[^63] A módszertani feladatokat felsőfokú végzettséggel rendelkező személy láthatja el.
 
-(15)[^63] Házi segítségnyújtásban, jelzőrendszeres házi segítségnyújtásban, nappali ellátásban – ide nem értve a pszichiátriai betegek nappali ellátását –, valamint bentlakást nyújtó ellátásban a szakirányú szakképesítéssel nem rendelkező segítő – ideértve az általános iskolai végzettséggel rendelkező személyt is –, gondozó, valamint ápoló munkakörökben foglalkoztatottak a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés c)–e) pontjában meghatározott, munkakörüknek megfelelő képzés teljesítésére kötelesek a foglalkoztatásuk megkezdését követő egy éven belül.
+(15)[^64] Házi segítségnyújtásban, jelzőrendszeres házi segítségnyújtásban, nappali ellátásban – ide nem értve a pszichiátriai betegek nappali ellátását –, valamint bentlakást nyújtó ellátásban a szakirányú szakképesítéssel nem rendelkező segítő – ideértve az általános iskolai végzettséggel rendelkező személyt is –, gondozó, valamint ápoló munkakörökben foglalkoztatottak a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés c)–e) pontjában meghatározott, munkakörüknek megfelelő képzés teljesítésére kötelesek a foglalkoztatásuk megkezdését követő egy éven belül.
 
-(16)[^64] Mentesül a képzési kötelezettség alól az a munkakört betölteni kívánó személy, aki az (5) bekezdés a) pontja alapján a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott.
+(16)[^65] Mentesül a képzési kötelezettség alól az a munkakört betölteni kívánó személy, aki az (5) bekezdés a) pontja alapján a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott.
 
-[^41]: A 6. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^42]: A 6. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^43]: A 6. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
-[^44]: A 6. § (4) bekezdését a 19/2020. (VI. 2.) EMMI rendelet 3. §-a hatályon kívül helyezte.
-[^45]: A 6. § (4a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^46]: A 6. § (4a) bekezdés e) pontja a 80/2022. (XII. 30.) BM rendelet 17. § a) pontja szerint módosított szöveg.
-[^47]: A 6. § (5) bekezdése a 62/2021. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^48]: A 6. § (5a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
-[^49]: A 6. § (5a) bekezdés d) pontja a 80/2022. (XII. 30.) BM rendelet 17. § b) pontja szerint módosított szöveg.
-[^50]: A 6. § (5b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
-[^51]: A 6. § (5c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
-[^52]: A 6. § (5d) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
-[^53]: A 6. § új (6) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (9) bekezdésre változtatva. A 6. § (6) bekezdése a 26/2017. (X. 18.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^54]: A 6. § új (7) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdés a) pontja iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (10) bekezdésre változtatva. A 6. § (7) bekezdését a 26/2017. (X. 18.) EMMI rendelet 10. § (2) bekezdése hatályon kívül helyezte.
-[^55]: A 6. § új (8) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva. A 6. § (8) bekezdését a 26/2017. (X. 18.) EMMI rendelet 10. § (2) bekezdése hatályon kívül helyezte.
-[^56]: A 6. § (8a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 31. § iktatta be.
-[^57]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (6) bekezdés számozását (9) bekezdésre változtatta.
-[^58]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (7) bekezdés számozását (10) bekezdésre változtatta. A 6. § (10) bekezdése a 19/2014. (III. 13.) EMMI rendelet 43. § a) pontja, a 7/2018. (II. 5.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
-[^59]: A 6. § (11) - eredetileg (8) - bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 2. §-ával megállapított szöveg. A 6. § eredeti (8) bekezdésének számozását a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja (11) bekezdésre változtatta. A 6. § (11) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bb) alpontja szerint módosított szöveg.
-[^60]: A 6. § (12) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 1. § (2) bekezdése iktatta a be, szövege a 26/2017. (X. 18.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
-[^61]: A 6. § (13) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
-[^62]: A 6. § (14) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
-[^63]: A 6. § (15) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be, szövege a 27/2023. (VIII. 3.) BM rendelet 7. § a) pontja szerint módosított szöveg.
-[^64]: A 6. § (16) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be.
+[^42]: A 6. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^43]: A 6. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^44]: A 6. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^45]: A 6. § (4) bekezdését a 19/2020. (VI. 2.) EMMI rendelet 3. §-a hatályon kívül helyezte.
+[^46]: A 6. § (4a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (1) bekezdése iktatta be.
+[^47]: A 6. § (4a) bekezdés e) pontja a 80/2022. (XII. 30.) BM rendelet 17. § a) pontja szerint módosított szöveg.
+[^48]: A 6. § (5) bekezdése a 62/2021. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^49]: A 6. § (5a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^50]: A 6. § (5a) bekezdés d) pontja a 80/2022. (XII. 30.) BM rendelet 17. § b) pontja szerint módosított szöveg.
+[^51]: A 6. § (5b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^52]: A 6. § (5c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^53]: A 6. § (5d) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^54]: A 6. § új (6) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (9) bekezdésre változtatva. A 6. § (6) bekezdése a 26/2017. (X. 18.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^55]: A 6. § új (7) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdés a) pontja iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (10) bekezdésre változtatva. A 6. § (7) bekezdését a 26/2017. (X. 18.) EMMI rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A 6. § új (8) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (11) bekezdésre változtatva. A 6. § (8) bekezdését a 26/2017. (X. 18.) EMMI rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^57]: A 6. § (8a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 31. § iktatta be.
+[^58]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (6) bekezdés számozását (9) bekezdésre változtatta.
+[^59]: A 9/2000. (VIII. 4.) SZCSM rendelet 16. §-a (2) bekezdésének a) pontja az eredeti (7) bekezdés számozását (10) bekezdésre változtatta. A 6. § (10) bekezdése a 19/2014. (III. 13.) EMMI rendelet 43. § a) pontja, a 7/2018. (II. 5.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
+[^60]: A 6. § (11) - eredetileg (8) - bekezdése a 6/2000. (VII. 6.) SZCSM rendelet 2. §-ával megállapított szöveg. A 6. § eredeti (8) bekezdésének számozását a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja (11) bekezdésre változtatta. A 6. § (11) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének bb) alpontja szerint módosított szöveg.
+[^61]: A 6. § (12) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 1. § (2) bekezdése iktatta a be, szövege a 26/2017. (X. 18.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^62]: A 6. § (13) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
+[^63]: A 6. § (14) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
+[^64]: A 6. § (15) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be, szövege a 27/2023. (VIII. 3.) BM rendelet 7. § a) pontja szerint módosított szöveg.
+[^65]: A 6. § (16) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be.

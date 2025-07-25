@@ -1,6 +1,6 @@
-## Egyéb feltételek[^83]
+## Egyéb feltételek[^84]
 
-15. §[^84] (1) A szociális szolgáltatásnak a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
+15. §[^85] (1) A szociális szolgáltatásnak a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
 
 a) szociális étkeztetés esetén az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményei,
 
@@ -52,8 +52,8 @@ b) amelyre azonos rendeltetésre, a kérelem benyújtását megelőző egy éven
 
 c) amelyben korábban is szociális intézmény működött, a korábbi engedélyes törlése a bejegyzés iránti kérelem benyújtását megelőző három hónapon belül vált végrehajthatóvá, a korábbi engedélyest (lakhatási szolgáltatást biztosító ingatlant) nem e feltételek hiánya miatt törölték a szolgáltatói nyilvántartásból, és az eljárás során nem jut a működést engedélyező szerv tudomására olyan adat, amely e feltételek teljesítését kétségessé teszi.
 
-(7)[^85] A tűzvédelmi feltételek vizsgálatát a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szabályozza.
+(7)[^86] A tűzvédelmi feltételek vizsgálatát a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szabályozza.
 
-[^83]: A 15. §-t megelőző alcímet a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
-[^84]: A 15. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
-[^85]: A 15. § (7) bekezdése a 4/2025. (II. 6.) BM rendelet 8. §-ával megállapított szöveg.
+[^84]: A 15. §-t megelőző alcímet a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^85]: A 15. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^86]: A 15. § (7) bekezdése a 4/2025. (II. 6.) BM rendelet 8. §-ával megállapított szöveg.

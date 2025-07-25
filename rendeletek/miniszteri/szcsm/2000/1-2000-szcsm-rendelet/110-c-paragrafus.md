@@ -24,15 +24,15 @@ k) folyamatosan nyújtott – általános és speciális – szociális munka es
 
 l) az egyén együttműködési szándékának felmérésére.
 
-(2)[^395] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
+(2)[^398] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
 
-(3)[^396] A komplex szükségletfelmérés szerint
+(3)[^399] A komplex szükségletfelmérés szerint
 
-a)[^397] fokozott támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább két kategóriában teljes támogatást igényel,
+a)[^400] fokozott támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább két kategóriában teljes támogatást igényel,
 
-b)[^398] magas támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább egy kategóriában teljes támogatást igényel.
+b)[^401] magas támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociálpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább egy kategóriában teljes támogatást igényel.
 
-[^395]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
-[^396]: A 110/C. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 11. §-a iktatta be.
-[^397]: A 110/C. § (3) bekezdés a) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
-[^398]: A 110/C. § (3) bekezdés b) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^398]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^399]: A 110/C. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 11. §-a iktatta be.
+[^400]: A 110/C. § (3) bekezdés a) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^401]: A 110/C. § (3) bekezdés b) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.

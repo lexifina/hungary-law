@@ -1,3 +1,3 @@
-24. §[^116]
+24. §[^118]
 
-[^116]: A 24. §-t a 7/2018. (II. 5.) EMMI rendelet 19. § a) pontja hatályon kívül helyezte.
+[^118]: A 24. §-t a 7/2018. (II. 5.) EMMI rendelet 19. § a) pontja hatályon kívül helyezte.

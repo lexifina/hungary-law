@@ -1,3 +1,3 @@
-36. §[^155]
+36. §[^157]
 
-[^155]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.
+[^157]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.

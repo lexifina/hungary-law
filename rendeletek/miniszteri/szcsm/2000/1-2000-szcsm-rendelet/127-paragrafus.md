@@ -1,8 +1,8 @@
-## 126. §[^462] Annak a házi segítségnyújtásban foglalkoztatottnak a képesítési előírás teljesítése alóli felmentése, aki azt az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 62/2021. (XII. 29.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépését[^463] megelőzően kapta meg, a Módr.-rel módosított 6. § (5) bekezdésére tekintettel meghosszabbítható három év időtartamra, azzal, hogy abba a Módr. hatálybalépése előtti felmentési idő is beleszámít. Ezen felül a felmentés időtartama nem hosszabbítható meg.
+## 126. §[^465] Annak a házi segítségnyújtásban foglalkoztatottnak a képesítési előírás teljesítése alóli felmentése, aki azt az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 62/2021. (XII. 29.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépését[^466] megelőzően kapta meg, a Módr.-rel módosított 6. § (5) bekezdésére tekintettel meghosszabbítható három év időtartamra, azzal, hogy abba a Módr. hatálybalépése előtti felmentési idő is beleszámít. Ezen felül a felmentés időtartama nem hosszabbítható meg.
 
-127. §[^464] Az egyes szociális és gyermekvédelmi tárgyú, valamint kapcsolódó miniszteri rendeletek módosításáról szóló 80/2022. (XII. 30.) BM rendelet (a továbbiakban: Módr2022.) hatálybalépésének[^465] napján utcai szociális munka keretében foglalkoztatott személyek kötelesek a 104/A. § (3) bekezdésében előírt utcai szociális munka képzést 2024. december 31-ig elvégezni.
+127. §[^467] Az egyes szociális és gyermekvédelmi tárgyú, valamint kapcsolódó miniszteri rendeletek módosításáról szóló 80/2022. (XII. 30.) BM rendelet (a továbbiakban: Módr2022.) hatálybalépésének[^468] napján utcai szociális munka keretében foglalkoztatott személyek kötelesek a 104/A. § (3) bekezdésében előírt utcai szociális munka képzést 2024. december 31-ig elvégezni.
 
-[^462]: A 126. §-t a 62/2021. (XII. 29.) EMMI rendelet 12. §-a iktatta be.
-[^463]: A hatálybalépés időpontja 2022. január 1.
-[^464]: A 127. §-t a 80/2022. (XII. 30.) BM rendelet 15. §-a iktatta be.
-[^465]: A hatálybalépés időpontja 2023. január 1.
+[^465]: A 126. §-t a 62/2021. (XII. 29.) EMMI rendelet 12. §-a iktatta be.
+[^466]: A hatálybalépés időpontja 2022. január 1.
+[^467]: A 127. §-t a 80/2022. (XII. 30.) BM rendelet 15. §-a iktatta be.
+[^468]: A hatálybalépés időpontja 2023. január 1.
