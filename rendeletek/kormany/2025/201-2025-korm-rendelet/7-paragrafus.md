@@ -1,7 +1,5 @@
-## „d) a létesítési engedélyezési feltételeket megváltoztatják.”
-
 ## 4. A veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki-biztonsági hatósági felügyeletéről szóló 216/2019. (IX. 5.) Korm. rendelet módosítása
 
-7. § A veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki-biztonsági hatósági felügyeletéről szóló 216/2019. (IX. 5.) Korm. rendelet [a továbbiakban: 216/2019. (IX. 5.) Korm. rendelet] 2. § 15. pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(E rendelet alkalmazásában:)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

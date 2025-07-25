@@ -1,7 +1,3 @@
-3. § A 31/2014. (II. 12.) Korm. rendelet
+3. §[^4]
 
-a) 3/A. melléklete helyébe az 1. melléklet,
-
-b) 4. melléklete helyébe a 2. melléklet
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

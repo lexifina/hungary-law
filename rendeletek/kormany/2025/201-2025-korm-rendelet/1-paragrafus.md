@@ -12,12 +12,6 @@
 
 ## 1. Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet módosítása
 
-1. § (1) Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet [a továbbiakban: 31/2014. (II. 12.) Korm. rendelet] 2. §-a a következő 1a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
-
-## „1a. csőhíd: nyomástartó berendezések elhelyezésére szolgáló, nem nyomvonal jellegű sajátos ipari építmény, amely üzemrészeket vagy különálló üzemeket köt össze, ideértve a helyrajzilag különálló telephelyek közötti vagy részben közterületi elhelyezkedést is;”
-
-(2) A 31/2014. (II. 12.) Korm. rendelet 2. § 14. pontja helyébe a következő rendelkezés lép:
-
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
