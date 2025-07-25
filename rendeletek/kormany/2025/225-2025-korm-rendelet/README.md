@@ -1,0 +1,9 @@
+# 225/2025. (VII. 24.) Korm. rendelet
+
+a felnőttképzést, a szakképzést, az innovációt és a felsőoktatást érintő kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-225-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-07-25 | 2025-225-20-22.1 | 225/2025. (VII. 24.) Korm. rendelet |
