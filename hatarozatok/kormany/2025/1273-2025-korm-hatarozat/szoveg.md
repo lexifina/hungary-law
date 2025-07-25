@@ -24,18 +24,6 @@ f) felhívja az agrárminisztert, hogy gondoskodjon a Modern Városok Program Bi
 
 | Határidő: | a támogatói okirat kiadása tekintetében a Modern Városok Program Bizottság jóváhagyó döntését követően azonnal a többlettámogatás folyósítása tekintetében a támogatói okirat kiadását követően 30 napon belül |
 
-2. A Fejér Megyei Szent György Egyetemi Oktató Kórház fejlesztésének előkészítéséről és megvalósításáról szóló 1628/2021. (IX. 6.) Korm. határozat
+2.[^1]
 
-a) a következő 10. ponttal egészül ki:
-
-[A Magyarország Kormánya és Székesfehérvár Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1383/2015. (VI. 12.) Korm. határozat 1. pontjának végrehajtása érdekében]
-
-„10. a Fejér Vármegyei Szent György Egyetemi Oktató Kórház részére a székesfehérvári Fejér Vármegyei Szent György Egyetemi Oktató Kórház lég- és klímatechnikai célú fejlesztéséhez szükséges többletforrás biztosításáról szóló 1273/2025. (VII. 24.) Korm. határozat 1. pont a) és b) alpontjában megállapított támogatás összesen 1 868 874 770 forint összegének évenkénti ütemezését
-
-a) a 2025. évre 934 437 385 forint forrásösszegben,
-
-b) a 2026. évre 934 437 385 forint forrásösszegben
-
-állapítja meg.”
-
-b) 8. pontja hatályát veszti.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
