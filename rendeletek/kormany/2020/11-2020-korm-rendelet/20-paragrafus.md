@@ -10,7 +10,7 @@ b) valós gazdasági igénynek megfelelése tekintetében – ha az adott ágaza
 
 szakértőként vonhatja be.
 
-(3) A szakértői szakvéleményt az általa foglalkoztatott vagy más módon bevont és az adott ágazatban kiemelkedő elméleti felkészültségű vagy az adott ágazatban legalább tízéves szakmai gyakorlattal rendelkező személyek véleménye alapján kell elkészíteni. Szakmai gyakorlatként olyan munkakört lehet figyelembe venni, amely betöltésének feltétele az adott ágazathoz kapcsolódó szakképzettség vagy szakképesítés. A szakértő a szakértői szakvélemény elkészítéséért legfeljebb a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltségének egyhavi összege százötven százaléka szerinti szakértői díjra jogosult.
+(3)[^56] A szakértői szakvéleményt az általa foglalkoztatott vagy más módon bevont és az adott ágazatban kiemelkedő elméleti felkészültségű vagy az adott ágazatban legalább tízéves szakmai gyakorlattal rendelkező személyek véleménye alapján kell elkészíteni. Szakmai gyakorlatként olyan munkakört lehet figyelembe venni, amely betöltésének feltétele az adott ágazathoz kapcsolódó szakképzettség vagy szakképesítés. A szakértő a 20/A. § (1b) bekezdése szerinti eljárás kivételével a szakértői szakvélemény elkészítéséért legfeljebb a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltségének egyhavi összege százötven százaléka szerinti szakértői díjra jogosult.
 
 (4) Az eljárásban a Kormány adott ágazatért felelős tagja véleményét ki kell kérni.
 
@@ -20,3 +20,4 @@ szakértőként vonhatja be.
 
 [^54]: A 10. alcímet (20. §-t) a 318/2020. (VII. 1.) Korm. rendelet 17. § 10. pontja hatályon kívül helyezte, a 10. alcímet (20-20/A. §-t) újonnan a 631/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
 [^55]: A 20. § (2) bekezdés a) pontja a 492/2024. (XII. 31.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^56]: A 20. § (3) bekezdése a 225/2025. (VII. 24.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.

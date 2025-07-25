@@ -1,1 +1,1 @@
-26/H. § A felnőttképzési alaprész felhasználásával kapcsolatos feladatok ellátását a felnőttképzésért felelős miniszter által vezetett minisztérium kezelő szervként végzi, ennek keretében ellátja az Áht. 6/B. § (3) bekezdésében a kezelő szervnek meghatározott feladatokat.
+26/H. §

@@ -1,4 +1,4 @@
-30. § (1)[^105] A felnőttképző jogszabálysértő tevékenysége súlyosabban minősül,
+30. § (1)[^106] A felnőttképző jogszabálysértő tevékenysége súlyosabban minősül,
 
 a) ha nem tesz eleget az Fktv. 17. §-ában meghatározott tájékoztatási kötelezettségeinek, illetve hirdetései és tájékoztatói nem felelnek meg az Fktv. 17/A. §-ában foglaltaknak,
 
@@ -10,10 +10,10 @@ bb) nem köt felnőttképzési szerződést, vagy annak feltételei, tartalma ne
 
 bc) a képzés befejezését követően és a képzés díjának teljes körű megfizetése ellenére hatvan napot meghaladó késedelemmel adja ki a képzés elvégzését igazoló tanúsítványt,
 
-bd)[^106] az Fktv. 15. §-ában meghatározott adatszolgáltatási kötelezettségét legkésőbb a képzés befejezésének napját követő harmadik munkanapig nem vagy nem a valóságnak megfelelően teljesíti.
+bd)[^107] az Fktv. 15. §-ában meghatározott adatszolgáltatási kötelezettségét legkésőbb a képzés befejezésének napját követő harmadik munkanapig nem vagy nem a valóságnak megfelelően teljesíti.
 
-(2)[^107] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
+(2)[^108] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
 
-[^105]: A 30. § (1) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^106]: A 30. § (1) bekezdés b) pont bd) alpontja a 492/2024. (XII. 31.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^107]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^106]: A 30. § (1) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^107]: A 30. § (1) bekezdés b) pont bd) alpontja a 492/2024. (XII. 31.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^108]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

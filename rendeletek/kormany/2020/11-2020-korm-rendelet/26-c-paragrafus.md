@@ -4,7 +4,7 @@
 
 a) az Fktv. 2/A. § (2) bekezdése szerinti, legalább ötven óra képzési időt elérő képzéshez vagy
 
-b)[^94] nemzetgazdasági szempontból kiemelt jelentőségű képzéshez
+b)[^95] nemzetgazdasági szempontból kiemelt jelentőségű képzéshez
 
 kapcsolódóan fizethet ösztöndíjat a képzésben részt vevő személynek, ha képzési hitelre nem jogosult, vagy képzési hitelt nem igényelt. A képzésben részt vevő személy a képzés befejezésének napjáig, de legfeljebb a képzés megkezdését követő két évig jogosult ösztöndíjra. Nem nyújtható ösztöndíj az olyan képzéshez kapcsolódóan, amelyet a képzésben részt vevő személy munkaerőpiaci képzésként végez, vagy amelyre tekintettel a képzésben részt vevő személy foglalkoztatást elősegítő támogatásban részesül.
 
@@ -12,4 +12,4 @@ kapcsolódóan fizethet ösztöndíjat a képzésben részt vevő személynek, h
 
 (3) A képzésben részt vevő személy az ösztöndíj teljes összegét köteles a felnőttképző számára visszafizetni, ha a képzést nem fejezi be, vagy szakmai képzés esetén nem szerez szakképesítést.
 
-[^94]: [A 26/C. § (1) bekezdés b) pontjában a 101/2021. (II. 27.) Korm. rendelet 17. §-ával elrendelt módosítás, amely szerint hatályát veszti az „amelyet a képzésben részt vevő személy munkaerőpiaci képzésként végez, vagy” szövegrész, nem vezethető át.]
+[^95]: [A 26/C. § (1) bekezdés b) pontjában a 101/2021. (II. 27.) Korm. rendelet 17. §-ával elrendelt módosítás, amely szerint hatályát veszti az „amelyet a képzésben részt vevő személy munkaerőpiaci képzésként végez, vagy” szövegrész, nem vezethető át.]

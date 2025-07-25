@@ -1,6 +1,6 @@
 ## 12. Az Fktv. 13/B. §-ához
 
-22. §[^67] (1)[^68] A tanúsítvány tartalmazza
+22. §[^68] (1)[^69] A tanúsítvány tartalmazza
 
 a) a tanúsítvány sorszámát,
 
@@ -26,11 +26,11 @@ h) a szakmai képzés esetén az azt megalapozó programkövetelmény számát �
 
 (3) A tanúsítványt évente újrakezdődő sorszámozással és a tárgyév megjelölésével kell ellátni.
 
-(3a)[^69] Ha a felnőttképző a felnőttképzési tevékenység folytatását engedély alapján végzi, illetve amennyiben a szakképző intézmény az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzést folytat, akkor a kiállított tanúsítványt legkésőbb annak aláírását követő két munkanapon belül a felnőttképzés adatszolgáltatási rendszerébe feltölti.
+(3a)[^70] Ha a felnőttképző a felnőttképzési tevékenység folytatását engedély alapján végzi, illetve amennyiben a szakképző intézmény az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzést folytat, akkor a kiállított tanúsítványt legkésőbb annak aláírását követő két munkanapon belül a felnőttképzés adatszolgáltatási rendszerébe feltölti.
 
-(4)[^70] A mikrotanúsítvány kiállítására a (2) és (3a) bekezdést nem kell alkalmazni.
+(4)[^71] A mikrotanúsítvány kiállítására a (2) és (3a) bekezdést nem kell alkalmazni.
 
-[^67]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^68]: A 22. § (1) bekezdése a 647/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^69]: A 22. § (3a) bekezdését a 631/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 492/2024. (XII. 31.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^70]: A 22. § (4) bekezdését a 492/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^68]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^69]: A 22. § (1) bekezdése a 647/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^70]: A 22. § (3a) bekezdését a 631/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 492/2024. (XII. 31.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^71]: A 22. § (4) bekezdését a 492/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
