@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2024-01-01 | 2008-33-20-22.45 | 353/2021. (VI. 24.) Korm. rendelet |
 | 2024-03-01 | 2008-33-20-22.46 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-05-17 | 2008-33-20-22.47 | 102/2024. (V. 9.) Korm. rendelet |
+| 2025-07-25 | 2008-33-20-22.48 | 225/2025. (VII. 24.) Korm. rendelet |

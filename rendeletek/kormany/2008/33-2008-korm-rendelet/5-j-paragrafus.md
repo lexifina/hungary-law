@@ -1,5 +1,7 @@
 5/J. §[^69] (1)[^70] A képviselőt az ügyfél jogai illetik meg, amennyiben a képesítés birtokosának képviselőjeként a foglalkoztató jár el, és a foglalkoztató a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély vagy vendégmunkás-tartózkodási engedély iránti kérelmet nyújtott be.
 
+(1a)[^71] Az (1) bekezdés szerinti tartózkodási engedély iránti kérelem benyújtását az Országos Idegenrendészeti Főigazgatóság által a foglalkoztató számára kiállított, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény 168. § (15) bekezdése szerinti tájékoztatással, míg a kérelem engedélyezését a tartózkodási engedély iránti kérelem engedélyezéséről szóló tájékoztatással vagy a tartózkodási engedéllyel vagy ezek másolatával kell igazolni.
+
 (2) Az Etv. 9. § (2) bekezdésétől eltérően az eljáró hatóság az Etv. IV. és az V. Fejezete szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt.
 
 (3) Az eljáró hatóság az 5/F. § (1) bekezdésétől eltérően szakfordítást is elfogad.
@@ -12,3 +14,4 @@
 
 [^69]: Az 5/J. §-t a 331/2023. (VII. 19.) Korm. rendelet 5. §-a iktatta be.
 [^70]: Az 5/J. § (1) bekezdése a 102/2024. (V. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^71]: Az 5/J. § (1a) bekezdését a 225/2025. (VII. 24.) Korm. rendelet 1. §-a iktatta be.
