@@ -8,7 +8,7 @@ b) ha költségvetési szervként működik, a törzskönyvi nyilvántartásba v
 
 válik jogi személlyé.
 
-(3)[^1]
+(3)[^1] Költségvetési szervként működő felsőoktatási intézmény esetén az Nftv. 14/A. §-a szerinti jogi személyiséggel rendelkező szervezeti egységre a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
 
 (4) Ha a felsőoktatási intézményt nyilvántartásba vették, jogosulttá válik minden olyan nyilatkozat megtételére, minden olyan kötelezettség vállalására, amely ahhoz szükséges, hogy a működés megkezdéséhez az engedély kiadásának feltételei teljesüljenek. A nyilatkozattételre, a kötelezettségvállalásra, a felsőoktatási intézmény képviseletére a fenntartó által a szervezési feladatok ellátására megbízott, az intézményvezetői feladatokat ideiglenesen ellátó személy jogosult. Ilyen megbízást az kaphat, aki megfelel az Nftv.-ben a rektori megbízáshoz meghatározott feltételeknek. Az ideiglenes intézményvezetői megbízás a rektor kinevezéséig szól.
 
@@ -18,5 +18,5 @@ válik jogi személlyé.
 
 (7) A felsőoktatási intézményt a nyilvántartásból törölni kell, ha a nyilvántartásba vételétől számított öt éven belül nem kap állami elismerést.
 
-[^1]: A 2. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^1]: A 2. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § a) pontja hatályon kívül helyezte, újonnan a 225/2025. (VII. 24.) Korm. rendelet 7. §-a iktatta be.
 [^2]: A 2. § (6) bekezdését a 407/2017. (XII. 15.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.

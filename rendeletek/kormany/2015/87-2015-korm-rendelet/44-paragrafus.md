@@ -1,12 +1,12 @@
-44. § (1)[^262] Ha a hallgató a végbizonyítvány kiállításának feltételeit teljesítette, a felsőoktatási intézmény a teljesítés napját követő húsz napon belül a teljesítés napjával a végbizonyítványt kiállítja.
+44. § (1)[^266] Ha a hallgató a végbizonyítvány kiállításának feltételeit teljesítette, a felsőoktatási intézmény a teljesítés napját követő húsz napon belül a teljesítés napjával a végbizonyítványt kiállítja.
 
 (2) A végbizonyítvány kiállításáról – a kiállítással egyidejűleg – a hallgatót értesíteni kell.
 
-(3)[^263] A végbizonyítványt hitelesített iratként kell kiállítani.
+(3)[^267] A végbizonyítványt hitelesített iratként kell kiállítani.
 
 (4) A végbizonyítványt a kiállításkor egyedi sorszámmal kell ellátni és az adatait a felsőoktatási intézmény TR-ében nyilván kell tartani.
 
 (5) A végbizonyítvány a törzslap melléklete.
 
-[^262]: A 44. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 79. § (1) bekezdésével megállapított szöveg.
-[^263]: A 44. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 79. § (2) bekezdésével megállapított szöveg.
+[^266]: A 44. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 79. § (1) bekezdésével megállapított szöveg.
+[^267]: A 44. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 79. § (2) bekezdésével megállapított szöveg.

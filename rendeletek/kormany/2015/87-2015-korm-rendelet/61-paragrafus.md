@@ -1,6 +1,6 @@
 ## 19. Átsorolás
 
-61. § (1)[^301] Doktori képzésben a felsőoktatási intézmény az Nftv. 48. § (2a) bekezdésében meghatározott korlátozással – a doktori szabályzatban meghatározottak szerint – dönt a hallgatók önköltséges és magyar állami (rész)ösztöndíjas képzés közötti átsorolásáról.
+61. § (1)[^305] Doktori képzésben a felsőoktatási intézmény az Nftv. 48. § (2a) bekezdésében meghatározott korlátozással – a doktori szabályzatban meghatározottak szerint – dönt a hallgatók önköltséges és magyar állami (rész)ösztöndíjas képzés közötti átsorolásáról.
 
 (2) A felsőoktatási intézménynek a következő képzési időszakban átsorolható hallgatói létszáma meghatározásához a hallgatók tanulmányi teljesítménye alapján meg kell állapítania, hogy az adott tanévben, adott szakon
 
@@ -14,20 +14,20 @@ c) hány olyan hallgató van, aki a lezárt félévvel már igénybe vette az ad
 
 (4) Az önköltséges hallgató csak magyar állami ösztöndíjas képzési formára, a költségtérítéses hallgató csak államilag támogatott képzési formára kérheti átsorolását.
 
-(5)[^302]
+(5)[^306]
 
 (6) A magyar állami ösztöndíjra való átsorolást követő első félévre való bejelentkezéskor a hallgató a nyilatkozatot a 9. melléklet 10. pontja szerinti tartalommal, egyedi nyomtatványon teszi meg. A nyilatkozatot a törzslaphoz kell csatolni.
 
 (7) Ha a felvételt nyert jelentkező vagy az átsorolást kérő hallgató a magyar állami (rész)ösztöndíjjal támogatott képzés feltételeit nem vállalja, a felsőoktatási intézménynek fel kell ajánlania a részére ugyanazon képzésre az önköltséges képzésben való részvétel lehetőségét.
 
-(8)[^303] Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni. Ha az 56. § (1) bekezdése alapján az adott félévhez tartozó kredit teljesítésére július 31-ét követően kerül sor, és a felsőoktatási intézmény betölthető magyar állami ösztöndíjas hellyel rendelkezik, akkor az átsorolási döntést ennek figyelembevételével kell felülvizsgálni és szükség esetén módosítani.
+(8)[^307] Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni. Ha az 56. § (1) bekezdése alapján az adott félévhez tartozó kredit teljesítésére július 31-ét követően kerül sor, és a felsőoktatási intézmény betölthető magyar állami ösztöndíjas hellyel rendelkezik, akkor az átsorolási döntést ennek figyelembevételével kell felülvizsgálni és szükség esetén módosítani.
 
-(9)[^304] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki nem szerzett az Nftv. 48. § (2) bekezdése alapján meghatározott kreditet, vagy nem érte el a képzési területenként meghatározott súlyozott tanulmányi átlagot. Megszerzett kredit a hallgató által az adott képzésben és tanévben megszerzett kredit és az adott tanévben a 41. § (3) bekezdés 9. pontja szerint beszámított kredit.
+(9)[^308] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki nem szerzett az Nftv. 48. § (2) bekezdése alapján meghatározott kreditet, vagy nem érte el a képzési területenként meghatározott súlyozott tanulmányi átlagot. Megszerzett kredit a hallgató által az adott képzésben és tanévben megszerzett kredit és az adott tanévben a 41. § (3) bekezdés 9. pontja szerint beszámított kredit.
 
-(10)[^305] A felsőoktatási intézmény az önköltséges képzésre történő átsorolásról szóló döntéseinek számáról július 15-éig képzési területenként tájékoztatja a Hivatalt.
+(10)[^309] A felsőoktatási intézmény az önköltséges képzésre történő átsorolásról szóló döntéseinek számáról július 15-éig képzési területenként tájékoztatja a Hivatalt.
 
-[^301]: A 61. § (1) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^302]: A 61. § (5) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte.
-[^303]: A 61. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 82. §-ával megállapított szöveg.
-[^304]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be, szövege a 276/2022. (VII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^305]: A 61. § (10) bekezdését a 276/2022. (VII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^305]: A 61. § (1) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^306]: A 61. § (5) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte.
+[^307]: A 61. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^308]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be, szövege a 276/2022. (VII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^309]: A 61. § (10) bekezdését a 276/2022. (VII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

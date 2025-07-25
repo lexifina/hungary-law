@@ -34,18 +34,18 @@ e) a felsőoktatási intézmény szakkollégiumát törli a nyilvántartásábó
 
 f) a működési engedélyt visszavonja, és kezdeményezi a miniszternél a felsőoktatási intézmény állami elismerése visszavonására irányuló eljárás megindítását, ha az Nftv. 6. § (2) bekezdésében – egyházi felsőoktatási intézmény esetében az Nftv. 91. § (5) bekezdésében, művészeti felsőoktatási intézmény esetében az Nftv. 101. § (4) bekezdésében, egyes intézmények esetében az Nftv. 104. §-ában és 104/B–104/E. §-ában – foglaltak nem teljesülnek.
 
-(5)[^31] Ha a felsőoktatási intézmény a nyilvántartásban szereplő valamely szakját vagy felsőoktatási szakképzését – a hitéleti és a pedagógusképzés képzési terület szakjai, a nemzetiségi szakok, valamint a nemzetközi kötelezettségvállalás alapján indított képzések kivételével – öt egymást követő évben egyetlen képzési helyen, nyelven vagy munkarendben sem indította, azt a Hivatal a működési engedély felülvizsgálata során hivatalból törli a nyilvántartásból.
+(5)[^31]
 
-(6)[^32] Azt az (5) bekezdés szerinti képzést, amelyre a felsőoktatási intézmény felvételi eljárást hirdet, a Hivatal a felvételi eljárást követő félévtől kezdődő hatállyal törli. A törlés nem érinti a felvett hallgatók tanulmányainak megkezdését és befejezését. Nem törölhető az az alapképzési vagy mesterképzési (osztatlan) szak, amelynek szakterülete szerinti tanárszakot a felsőoktatási intézmény a törlés esedékességét megelőző öt évben elindított. Nem törölhető az a tanárszak, amelynek szakterülete szerinti alapképzési vagy mesterképzési (osztatlan) szakot a felsőoktatási intézmény a törlés esedékességét megelőző öt évben elindított.
+(6)[^32]
 
-(7)[^33] A közösségi felsőoktatási képzési központ működési engedélyét a Hivatal legalább ötévente felülvizsgálja. A felülvizsgálat során az (1) bekezdést, a (2) bekezdés a) és b) pontját és a (4)–(6) bekezdést megfelelően alkalmazni kell.
+(7)[^33] A közösségi felsőoktatási képzési központ működési engedélyét a Hivatal legalább ötévente felülvizsgálja. A felülvizsgálat során az (1) bekezdést, a (2) bekezdés a) és b) pontját és a (4) bekezdést megfelelően alkalmazni kell.
 
-(8)[^34] A működési engedély felülvizsgálati eljárás során a felsőoktatási intézmény maga is kérheti, hogy a Hivatal a (4) bekezdés b) pontja szerint járjon el, a folytatni nem kívánt képzését törölje.
+(8)[^34] A működési engedély felülvizsgálata során a felsőoktatási intézmény kérheti, hogy a Hivatal a folytatni nem kívánt képzését törölje.
 
 [^28]: A 8. § (2) bekezdés a) pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 1. pontja szerint módosított szöveg.
 [^29]: A 8. § (2) bekezdés f) pontja a 84/2025. (IV. 22.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^30]: A 8. § (4) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^31]: A 8. § (5) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 46. § 2. pontja, a 84/2025. (IV. 22.) Korm. rendelet 41. § 6. pontja szerint módosított szöveg.
-[^32]: A 8. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § d) pontja hatályon kívül helyezte, újonnan a 610/2023. (XII. 22.) Korm. rendelet 25. § (1) bekezdése iktatta be.
-[^33]: A 8. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 61. §-a iktatta be.
-[^34]: A 8. § (8) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 84/2025. (IV. 22.) Korm. rendelet 41. § 7. pontja szerint módosított szöveg.
+[^31]: A 8. § (5) bekezdését a 225/2025. (VII. 24.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^32]: A 8. § (6) bekezdését újonnan a 610/2023. (XII. 22.) Korm. rendelet 25. § (1) bekezdése iktatta be, a 225/2025. (VII. 24.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^33]: A 8. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 61. §-a iktatta be, szövege a 225/2025. (VII. 24.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^34]: A 8. § (8) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 225/2025. (VII. 24.) Korm. rendelet 8. §-ával megállapított szöveg.

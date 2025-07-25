@@ -10,9 +10,9 @@ b) férőhelyenként 1-1 db ágy, személyes használatú tanulóasztal, szék, 
 
 c) férőhelyenként 1-1 db paplan, párna;
 
-d)[^366] a településrendezési és építési követelményekről szóló kormányrendelet előírásai szerint fürdőhelyiség, illemhely;
+d)[^372] a településrendezési és építési követelményekről szóló kormányrendelet előírásai szerint fürdőhelyiség, illemhely;
 
-e)[^367] a legalább 100 férőhelyes diákotthon, kollégium esetében a településrendezési és építési követelményekről szóló kormányrendelet előírásai szerint akadálymentesített bejárat és akadálymentes közlekedés, továbbá a településrendezési és építési követelményekről szóló kormányrendelet szerinti felvonó, korlátlift vagy emelőlap, valamint 100 férőhelyenként 1 db akadálymentesített férőhely, valamint akadálymentesített fürdőhelyiség és illemhely;
+e)[^373] a legalább 100 férőhelyes diákotthon, kollégium esetében a településrendezési és építési követelményekről szóló kormányrendelet előírásai szerint akadálymentesített bejárat és akadálymentes közlekedés, továbbá a településrendezési és építési követelményekről szóló kormányrendelet szerinti felvonó, korlátlift vagy emelőlap, valamint 100 férőhelyenként 1 db akadálymentesített férőhely, valamint akadálymentesített fürdőhelyiség és illemhely;
 
 f) főzési és ételmelegítési lehetőség biztosítása: legalább 25 férőhelyenként 1 db 1000 watt teljesítményű, vagy azzal egyenértékű gáz főzőlap;
 
@@ -90,5 +90,5 @@ f) maximális férőhelyszámát;
 
 g) rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jogát.
 
-[^366]: A 3. melléklet 1. pont d) alpontja a 285/2024. (IX. 30.) Korm. rendelet 108. § a) pontja és 109. §-a szerint módosított szöveg.
-[^367]: A 3. melléklet 1. pont e) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 15. pontja, a 285/2024. (IX. 30.) Korm. rendelet 108. § b) pontja szerint módosított szöveg.
+[^372]: A 3. melléklet 1. pont d) alpontja a 285/2024. (IX. 30.) Korm. rendelet 108. § a) pontja és 109. §-a szerint módosított szöveg.
+[^373]: A 3. melléklet 1. pont e) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 15. pontja, a 285/2024. (IX. 30.) Korm. rendelet 108. § b) pontja szerint módosított szöveg.

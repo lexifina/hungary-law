@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2024-12-19 | 2015-87-20-22.39 | 406/2024. (XII. 18.) Korm. rendelet |
 | 2025-01-01 | 2015-87-20-22.40 | 419/2024. (XII. 23.) Korm. rendelet |
 | 2025-04-23 | 2015-87-20-22.41 | 84/2025. (IV. 22.) Korm. rendelet |
+| 2025-07-25 | 2015-87-20-22.42 | 225/2025. (VII. 24.) Korm. rendelet |

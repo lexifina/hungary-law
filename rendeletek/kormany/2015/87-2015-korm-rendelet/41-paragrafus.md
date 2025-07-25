@@ -1,20 +1,20 @@
 41. § (1) A felsőoktatási intézménynek a hallgató részére leckekönyvet kell vezetnie, ha az alábbi feltételek együttes fennállását nem tudja biztosítani:
 
-a) a hallgató a felsőoktatási intézmény szabályzatában meghatározott módon és időben a felsőoktatási intézménytől értesítést kap az általa felvett, illetve törölt tárgyakról;
+a)[^242] a hallgató a felsőoktatási intézménytől haladéktalanul értesítést kap az általa felvett, illetve törölt tárgyakról;
 
-b) a felsőoktatási intézmény a hallgató számára a szóbeli számonkérés esetén – a felsőoktatási intézmény szabályzatában meghatározott módon és időben – teljesítési lapot biztosít a (2) bekezdés szerinti tartalommal;
+b)[^243] a felsőoktatási intézmény a hallgató számára a személyes jelenlétét igénylő szóbeli számonkérése esetében – amennyiben a TR-ben a szóbeli számonkérés eredménye azonnali és közvetlen rögzítése nem lehetséges, a felsőoktatási intézmény szabályzatában meghatározott módon és időben – teljesítési lapot biztosít a (2) bekezdés szerinti tartalommal;
 
-c)[^242] a felsőoktatási intézmény a hallgató számára a szabályzatában meghatározott módon és időben értesítést küld a hallgató értékeléséről; valamint
+c)[^244] a felsőoktatási intézmény a hallgató számára haladéktalanul értesítést küld a hallgató értékeléséről; valamint
 
 d) az intézmény által működtetett TR alkalmas arra, hogy a hallgató nyomtatható formában hozzáférjen a saját képzése 36. § (12) bekezdésében szabályozott törzslap-kivonatának adattartalmához, továbbá biztosítja a hallgató kérésére a 36. § (2) bekezdés 7. pontjában meghatározott adatok ingyenes hitelesítését félévente egy alkalommal.
 
-(2)[^243] A teljesítési lap tartalmazza az adott tanév félévét, a hallgató nevét, a oktatási azonosító számot, a hallgató által felvett tantárgy, tantervi egység megnevezését, a vizsga időpontját, a vizsga értékelését, a vizsgáztató oktató nevét, oktatási azonosító számát és aláírását.
+(2)[^245] A teljesítési lap tartalmazza az adott tanév félévét, a hallgató nevét, a oktatási azonosító számot, a hallgató által felvett tantárgy, tantervi egység megnevezését, a vizsga időpontját, a vizsga értékelését, a vizsgáztató oktató nevét, oktatási azonosító számát és aláírását.
 
 (3) Az egyedi sorszámmal ellátott, papír alapú leckekönyv tartalmazza legalább:
 
 1. a felsőoktatási intézmény nevét, székhelyét, intézményi azonosító számát;
 
-2.[^244] a hallgató oktatási azonosító számát, törzskönyvi számát;
+2.[^246] a hallgató oktatási azonosító számát, törzskönyvi számát;
 
 3. a hallgató személyazonosító adatait (neve, születési neve, születési helye és ideje, állampolgársága, anyja születési neve), a hallgató fényképét, a hallgató aláírását;
 
@@ -70,6 +70,8 @@ b) a külföldi felsőoktatási intézményben hallgatói jogviszonnyal rendelke
 
 (12) A felsőoktatási intézmény a hallgatói jogviszony fennállása alatt az elveszett vagy megsemmisült leckekönyv pótlására a törzslap alapján új leckekönyvet állít ki.
 
-[^242]: A 41. § (1) bekezdés c) pontja a 84/2025. (IV. 22.) Korm. rendelet 42. § 14. pontja szerint módosított szöveg.
-[^243]: A 41. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) és h) pontja szerint módosított szöveg.
-[^244]: A 41. § (3) bekezdés 2. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^242]: A 41. § (1) bekezdés a) pontja a 225/2025. (VII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^243]: A 41. § (1) bekezdés b) pontja a 225/2025. (VII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^244]: A 41. § (1) bekezdés c) pontja a 225/2025. (VII. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^245]: A 41. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) és h) pontja szerint módosított szöveg.
+[^246]: A 41. § (3) bekezdés 2. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
