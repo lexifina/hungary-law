@@ -1,1 +1,0 @@
-A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 78. §-a (1) bekezdésének b) pontjában és 34. §-ának második mondatában kapott felhatalmazás alapján a következőket rendelem el:
