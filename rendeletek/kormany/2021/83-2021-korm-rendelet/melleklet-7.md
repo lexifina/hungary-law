@@ -1,4 +1,4 @@
-7. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^234]
+7. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^237]
 
 A 2. mellékletben foglalt táblázat 93. sora szerinti beruházással érintett Mohács külterület 078/7 és Mohács külterület 078/8 helyrajzi számú ingatlanok Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
 
@@ -24,4 +24,4 @@ A 2. mellékletben foglalt táblázat 93. sora szerinti beruházással érintett
 
 | 10. | 129 | 70616.920 | 620111.520 | 3315 |
 
-[^234]: A 7. mellékletet a 476/2023. (X. 26.) Korm. rendelet 2. §-a iktatta be.
+[^237]: A 7. mellékletet a 476/2023. (X. 26.) Korm. rendelet 2. §-a iktatta be.

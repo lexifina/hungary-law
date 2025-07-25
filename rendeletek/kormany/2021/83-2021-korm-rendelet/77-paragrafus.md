@@ -1,0 +1,4 @@
+77. §[^220] E rendeletnek az Északnyugat-magyarországi Általános Olimpiai Központ fejlesztése kiemelt beruházássá nyilvánítása érdekében az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 218/2025. (VII. 24.) Korm. rendelettel (a továbbiakban: Módr69.) megállapított 5/E. §-át és 2. mellékletében foglalt táblázat 105. sorát a Módr69. hatálybalépésekor[^221] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^220]: A 77. §-t a 218/2025. (VII. 24.) Korm. rendelet 2. §-a iktatta be.
+[^221]: A hatálybalépés időpontja 2025. július 25.
