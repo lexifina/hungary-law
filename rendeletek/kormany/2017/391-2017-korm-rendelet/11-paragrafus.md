@@ -1,5 +1,3 @@
-## 10. § A 9. §-ban foglalt továbbképzési programokon kívül a főigazgató kötelező továbbképzést rendelhet el a vízügyi igazgatási szerv állományára vagy annak egy részére.
-
 ## 4. A továbbképzés szervezetrendszere
 
 11. § (1) A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak továbbképzési rendszerének működését a főigazgató – a (3) bekezdésben meghatározott kivétellel – biztosítja.

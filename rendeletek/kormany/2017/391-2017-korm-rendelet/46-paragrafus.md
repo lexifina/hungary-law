@@ -1,5 +1,3 @@
-## 46. § A főigazgató az e rendelet szerinti képesítési követelmények teljesítése alól véglegesen mentesíti a 2018. január 1-jén a vízügyi igazgatási szervnél foglalkoztatott közalkalmazottat, ha 2017. december 31. napjáig
+46. §[^15]
 
-a) az ötvenedik életévét betöltötte, és
-
-b) a munkakörében legalább tizenöt év szakmai gyakorlattal rendelkezik.
+[^15]: A 46. §-t a 224/2025. (VII. 24.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.

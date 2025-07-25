@@ -1,4 +1,4 @@
-12. § (1)[^12] A vízügyi igazgatási szervek esetében a továbbképzési programok minőségügyi követelményeinek biztosításával összefüggő feladatokat az NKE a Belügyi Továbbképzési Kollégium (a továbbiakban: Kollégium) útján látja el, amely a vízügyi ágazat továbbképzéssel összefüggő feladatait segítő szakmai testület.
+12. § (1)[^6] A vízügyi igazgatási szervek esetében a továbbképzési programok minőségügyi követelményeinek biztosításával összefüggő feladatokat az NKE a Belügyi Továbbképzési Kollégium (a továbbiakban: Kollégium) útján látja el, amely a vízügyi ágazat továbbképzéssel összefüggő feladatait segítő szakmai testület.
 
 (2) A Kollégium egy tagját az NKE delegálja.
 
@@ -18,4 +18,4 @@ f) jóváhagyja az éves továbbképzési tervek végrehajtásáról szóló, a 
 
 (4) A Kollégiumot feladatai végrehajtásában a Vízügyi Tudományos Tanács által kijelölt szakértő segíti, aki a minősítési eljárás során szakértői véleményt állít ki.
 
-[^12]: A 12. § (1) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 15. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 12. § (1) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 15. § (1) bekezdés b) pontja szerint módosított szöveg.

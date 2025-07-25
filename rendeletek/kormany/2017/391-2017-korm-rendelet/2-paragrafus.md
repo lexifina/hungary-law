@@ -1,51 +1,51 @@
 ## 2. Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában:
+2. §[^2] E rendelet alkalmazásában
 
-a)[^2] belső továbbképzés: az olyan szakmai továbbképzés, amely speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít, célja a közalkalmazott munkakörének ellátásához, szakmai felkészültségéhez, valamint az egységes jogalkalmazáshoz szükséges ismeretek biztosítása a jogszabályi változások figyelembevételével;
+1. belső továbbképzés: az olyan szakmai továbbképzés, amely speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít, célja a közalkalmazott munkakörének ellátásához, szakmai felkészültségéhez, valamint az egységes jogalkalmazáshoz szükséges ismeretek biztosítása a jogszabályi változások figyelembevételével;
 
-b) egyéni továbbképzési terv: a közalkalmazott részére a vízügyi igazgatási szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
+2. egyéni továbbképzési terv: a közalkalmazott részére a vízügyi igazgatási szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
 
-c) értékelés: a teljesítmény megállapítására irányuló tevékenység, amikor az értékelő vezető megítélésén alapul a teljesítmény megállapítása;
+3. értékelés: a teljesítmény megállapítására irányuló tevékenység, amikor az értékelő vezető megítélésén alapul a teljesítmény megállapítása;
 
-d) értékelő vezető: a munkáltatói jogkör gyakorlója, illetve akire a munkáltatói jogkör gyakorlója a teljesítményértékeléssel kapcsolatos jogkört átruházza;
+4. értékelő vezető: a munkáltatói jogkör gyakorlója, illetve akire a munkáltatói jogkör gyakorlója a teljesítményértékeléssel kapcsolatos jogkört átruházza;
 
-e) értékelt személy: a közalkalmazott, akinek a teljesítményét e rendeletben meghatározott szabályok szerint kell értékelni, illetve mérni;
+5. értékelt személy: a közalkalmazott, akinek a teljesítményét az e rendeletben meghatározott szabályok szerint kell értékelni, illetve mérni;
 
-f) éves továbbképzési terv: a vízügyi igazgatási szervnél foglalkoztatott közalkalmazott egyéni továbbképzési tervei alapján összeállított terv;
+6. éves továbbképzési terv: a vízügyi igazgatási szervnél foglalkoztatott közalkalmazott egyéni továbbképzési tervei alapján összeállított terv;
 
-g) fejlesztési célok: az egyén fejlődését és a munkavégzést együttesen támogató olyan célok, amelyek lehetnek munkavégzéshez kötődőek és a munkavégzésen kívüliek;
+7. fejlesztési célok: az egyén fejlődését és a munkavégzést együttesen támogató olyan célok, amelyek lehetnek munkavégzéshez kötődőek és a munkavégzésen kívüliek;
 
-h) kompetencia: a munkakör ellátásához szükséges ismeret, jártasság, készség, képesség, szociális szerep vagy érték, az énkép, valamint az alkalmazást segítő személyiségvonások és a hatékonysági motiváció együttese;
+8. kompetencia: a munkakör ellátásához szükséges ismeret, jártasság, készség, képesség, szociális szerep vagy érték, az énkép, valamint az alkalmazást segítő személyiségvonások és a hatékonysági motiváció együttese;
 
-i) minőségirányítási szabályzat: a minősített továbbképzési programok minőségirányítás szempontjából történő vezetésére és szabályozására szolgáló irányítási kézikönyv, amely tartalmazza a továbbképzés tervezésének, fejlesztésének, szervezésének, végrehajtásának és ellenőrzésének eljárásait;
+9. minőségirányítási szabályzat: a minősített továbbképzési programok minőségirányítás szempontjából történő vezetésére és szabályozására szolgáló irányítási kézikönyv, amely tartalmazza a továbbképzés tervezésének, fejlesztésének, szervezésének, végrehajtásának és ellenőrzésének eljárásait;
 
-j)[^3] minősített továbbképzési program: az Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) által a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott számára biztosított továbbképzési program, amely a minősítési eljárás követelményeinek megfelelő, minőségtanúsított, továbbképzési pontértékkel bíró képzési program, amely önálló tanulási vagy tananyagegységekből áll, és lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek, valamint gyakorlatok elsajátítását;
+10. minősített továbbképzési program: a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) által a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott számára biztosított továbbképzési program, amely a minősítési eljárás követelményeinek megfelelő, minőségtanúsított, továbbképzési pontértékkel bíró képzési program, amely önálló tanulási vagy tananyagegységekből áll, és lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek, valamint gyakorlatok elsajátítását;
 
-k) minősítés: a közalkalmazott tárgyévre vonatkozó teljesítményértékelései eredményének százalékban meghatározott számtani átlaga, illetve szövegesen meghatározott értékelése;
+11. minősítés: a közalkalmazott tárgyévre vonatkozó teljesítményértékelései eredményének százalékban meghatározott számtani átlaga, illetve szövegesen meghatározott értékelése;
 
-l) munkaköri egyéni teljesítménykövetelmény: a közalkalmazott munkaköri leírásában szereplő állandó, valamint az adott évben aktuálisan felmerülő, időszakosan a munkaköri leírásába bekerülő feladataiból kiválasztott, tárgyévben teljesítendő feladat;
+12. munkakör: a vízügyi igazgatási szerveknél betöltött olyan álláshely, amely a vízügyi igazgatási szerv feladatainak ellátásához kapcsolódik;
 
-m) munkavégzésen kívüli fejlesztési cél: az intézményes keretek között zajló iskolarendszerű vagy iskolarendszeren kívüli képzések (különösen továbbképzés, vezetőképzés, önképzés) eredményeként elérendő cél a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott esetében;
+13. munkaköri egyéni teljesítménykövetelmény: a közalkalmazott munkaköri leírásában szereplő állandó, valamint az adott évben aktuálisan felmerülő, időszakosan a munkaköri leírásába bekerülő feladataiból kiválasztott, tárgyévben teljesítendő feladat;
 
-n) munkavégzéshez kötődő fejlesztési cél: az értékelő vezető által irányított, támogatott, a munkavégzéshez kapcsolódó tudatos egyéni fejlesztés a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott esetében;
+14. munkavégzésen kívüli fejlesztési cél: az intézményes keretek között zajló iskolarendszerű vagy iskolarendszeren kívüli – különösen továbbképzés, vezetőképzés, önképzés formájában megvalósuló – képzések eredményeként elérendő cél a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott esetében;
 
-o) stratégiai egyéni teljesítménykövetelmény: a szervezet stratégiai célkitűzéséből lebontott egyéni feladat, amelynek teljesítésével a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő a stratégiai célok elérésére a munkavégzése során befolyással lehet, valamint amellyel elő tudja mozdítani a szervezet eredményes és hatékony munkáját;
+15. munkavégzéshez kötődő fejlesztési cél: az értékelő vezető által irányított, támogatott, a munkavégzéshez kapcsolódó tudatos egyéni fejlesztés a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott esetében;
 
-p)[^4] személyügyi központ: a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központ, amely működteti az egyéni teljesítményértékelési rendszert;
+16. stratégiai egyéni teljesítménykövetelmény: a szervezet stratégiai célkitűzéséből lebontott egyéni feladat, amelynek teljesítésével a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő a stratégiai célok elérésére a munkavégzése során befolyással lehet, valamint amellyel elő tudja mozdítani a szervezet eredményes és hatékony munkáját;
 
-q) tanulmányi pont: a továbbképzésben végzett tanulmányi munka mértékegysége, amely a továbbképzési programok, illetve az egyes kurzusok vonatkozásában arányaiban kifejezi azt a tanulmányi munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
+17. személyügyi központ: a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló kormányrendelet szerinti személyügyi központ, amely működteti az egyéni teljesítményértékelési rendszert;
 
-r) teljesítményértékelés: ismétlődő, e rendeletben meghatározott vezetői tevékenység, amelynek során az értékelő vezető
+18. tanulmányi pont: a továbbképzésben végzett tanulmányi munka mértékegysége, amely a továbbképzési programok, illetve az egyes kurzusok vonatkozásában arányaiban kifejezi azt a tanulmányi munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
 
-ra) a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott részére meghatározza a teljesítményértékelés kötelező, valamint ajánlott elemeit,
+19. teljesítményértékelés: ismétlődő, az e rendeletben meghatározott vezetői tevékenység, amelynek során az értékelő vezető
 
-rb) az alap- és középfokú végzettséget igénylő munkakört betöltő közalkalmazott esetében meghatározza a teljesítményértékelés kötelező, valamint ajánlott elemeit a munkakörhöz kötődő elvárásokkal,
+a) a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott részére meghatározza a teljesítményértékelés kötelező, valamint ajánlott elemeit,
 
-rc) ezeket méri, értékeli, és erről a közalkalmazott részére érdemi visszajelzést ad;
+b) az alap- és középfokú végzettséget igénylő munkakört betöltő közalkalmazott esetében meghatározza a teljesítményértékelés kötelező, valamint ajánlott elemeit a munkakörhöz kötődő elvárásokkal,
 
-s) továbbképzési időszak: a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négyéves időszak.
+c) ezeket méri, értékeli, és erről a közalkalmazott részére érdemi visszajelzést ad;
 
-[^2]: A 2. § a) pontja a 13/2020. (II. 7.) Korm. rendelet 130. § 2. pontja szerint módosított szöveg.
-[^3]: A 2. § j) pontja a 217/2024. (VII. 31.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 2. § p) pontja a 243/2022. (VII. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
+20. továbbképzési időszak: a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négyéves időszak.
+
+[^2]: A 2. § a 224/2025. (VII. 24.) Korm. rendelet 10. §-ával megállapított szöveg.

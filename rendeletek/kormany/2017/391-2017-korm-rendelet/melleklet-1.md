@@ -1,5 +1,3 @@
-1. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^20]
+1. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^17]
 
-A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazott által betölthető munkaköri kategóriák és munkakörök, valamint a munkakörök betöltéséhez szükséges képesítési követelmények
-
-[^20]: Az 1. melléklet a 288/2018. (XII. 21.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^17]: Az 1. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.

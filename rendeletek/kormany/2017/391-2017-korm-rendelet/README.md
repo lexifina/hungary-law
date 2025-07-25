@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-391-20-
 | 2024-01-01 | 2017-391-20-22.7 | 558/2023. (XII. 13.) Korm. rendelet |
 | 2024-08-01 | 2017-391-20-22.8 | 217/2024. (VII. 31.) Korm. rendelet |
 | 2025-01-01 | 2017-391-20-22.9 | 468/2024. (XII. 30.) Korm. rendelet |
+| 2025-07-25 | 2017-391-20-22.10 | 224/2025. (VII. 24.) Korm. rendelet |

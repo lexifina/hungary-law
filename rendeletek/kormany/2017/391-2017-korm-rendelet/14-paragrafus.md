@@ -4,7 +4,7 @@ a) előkészíti, kidolgozza és egyszerűsített nyilvántartásba vételre ben
 
 b) az egyéni továbbképzési tervek alapján meghirdeti és megszervezi a belső továbbképzéseket, valamint
 
-c)[^13] együttműködik a felnőttképzővel.
+c)[^7] együttműködik a felnőttképzővel.
 
 (2) Az OVF a továbbképzési rendszer működtetése során
 
@@ -12,4 +12,4 @@ a) módszertani támogatást nyújt a vízügyi igazgatási szerv továbbképzé
 
 b) az éves továbbképzési tervek alapján meghirdeti és megszervezi a továbbképzéseket.
 
-[^13]: A 14. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 130. § 3. pontjával megállapított szöveg.
+[^7]: A 14. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 130. § 3. pontjával megállapított szöveg.
