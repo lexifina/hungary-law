@@ -1,0 +1,1 @@
+14. § Az 1. alcím a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 11. cikk (3) bekezdés e) pontjának való megfelelést szolgálja.
