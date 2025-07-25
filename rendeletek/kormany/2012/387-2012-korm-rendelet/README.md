@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-387-20-
 | 2024-12-19 | 2012-387-20-22.13 | 406/2024. (XII. 18.) Korm. rendelet |
 | 2025-04-23 | 2012-387-20-22.14 | 84/2025. (IV. 22.) Korm. rendelet |
 | 2025-07-01 | 2012-387-20-22.15 | 175/2025. (VI. 30.) Korm. rendelet |
+| 2025-07-25 | 2012-387-20-22.16 | 225/2025. (VII. 24.) Korm. rendelet |

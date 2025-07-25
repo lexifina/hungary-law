@@ -1,4 +1,4 @@
-## 1/C.[^19] A kutatói kiválósági és a kooperatív doktori képzés
+## 1/C.[^21] A kutatói kiválósági és a kooperatív doktori képzés
 
 8/C. § (1) Ha a felsőoktatási intézmény kutatói kiválósági doktori képzést folytat, a felsőoktatási intézmény és a doktorandusz hallgató közötti szerződésben rögzíteni kell
 
@@ -22,4 +22,4 @@ b) munkáltatóként részt vett vagy részt vesz a Nemzeti Kutatási, Fejleszt�
 
 c) a doktori képzés kezdési időpontjától számítva három évnél nem régebben kutatás-fejlesztési támogatást nyert el a Nemzeti Kutatási, Fejlesztési és Innovációs Hivataltól.
 
-[^19]: Az 1/C. alcímet (8/C. §-t) a 175/2025. (VI. 30.) Korm. rendelet 15. §-a iktatta be.
+[^21]: Az 1/C. alcímet (8/C. §-t) a 175/2025. (VI. 30.) Korm. rendelet 15. §-a iktatta be.
