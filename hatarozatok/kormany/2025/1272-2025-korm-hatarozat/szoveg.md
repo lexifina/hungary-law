@@ -20,16 +20,9 @@ d) felhívja az építési és közlekedési minisztert, hogy gondoskodjon a Ber
 
 | Határidő: | a feltételes közbeszerzési eljárás lefolytatását követően |
 
-2. Az Egészséges Budapest Programmal kapcsolatos intézkedésekről szóló 1416/2024. (XII. 20.) Korm. határozat (a továbbiakban: Korm. határozat)
+2.[^1]
 
-a) 2. pontjában az „1–5. és 10. sora” szövegrész helyébe az „1–5. sora” szöveg;
+3.[^2] , és felhívja a belügyminisztert, hogy gondoskodjon az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez felhasználható források tekintetében a Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet Rákosmenti Szakrendelő felújítására vonatkozó, érvényben lévő támogatási jogviszony elszámolásáról.
 
-b) 3. pont a) alpontjában az „1–5. és 10. sora” szövegrész helyébe az „1–5. sora” szöveg
-
-lép.
-
-3. A Kormány visszavonja a Korm. határozat 1. mellékletében foglalt táblázat 10. sorát, és felhívja a belügyminisztert, hogy gondoskodjon az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez felhasználható források tekintetében a Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet Rákosmenti Szakrendelő felújítására vonatkozó, érvényben lévő támogatási jogviszony elszámolásáról.
-
-| Felelős: | belügyminiszter |
-
-| Határidő: | azonnal |
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
