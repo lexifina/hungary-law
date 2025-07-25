@@ -1,3 +1,3 @@
-14. §[^86]
+14. §[^88]
 
-[^86]: A 13–14. §-t a 25/2017. (X. 18.) EMMI rendelet 25. § e) pontja hatályon kívül helyezte.
+[^88]: A 13–14. §-t a 25/2017. (X. 18.) EMMI rendelet 25. § e) pontja hatályon kívül helyezte.

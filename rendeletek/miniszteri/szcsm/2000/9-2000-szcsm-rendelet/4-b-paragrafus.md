@@ -1,4 +1,4 @@
-4/B. §[^58] (1)[^59] A továbbképzést szervező a minősített továbbképzésen – ide nem értve a szakmai tanácskozást – részt vevővel a polgári jog általános szabályai szerint képzési szerződést köt.
+4/B. §[^60] (1)[^61] A továbbképzést szervező a minősített továbbképzésen – ide nem értve a szakmai tanácskozást – részt vevővel a polgári jog általános szabályai szerint képzési szerződést köt.
 
 (2) A képzési szerződést írásban kell megkötni. A szerződésen fel kell tüntetni, hogy a szerződés az e rendelet alapján megkötött képzési szerződés.
 
@@ -32,8 +32,8 @@ j) a panaszkezelés módját.
 
 (4) A továbbképzést szervező a részvételi díjat egy összegben köteles meghatározni. A képzési szerződésben egy összegben feltüntetett részvételi díjon felül más jogcímen további díjat vagy költséget nem állapíthat meg a képzésben részt vevő terhére.
 
-(5)[^60] Minősített kötelező továbbképzésre, valamint minősített munkakörhöz kötött képzésekre a szociálpolitikáért felelős miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni.
+(5)[^62] Minősített kötelező továbbképzésre, valamint minősített munkakörhöz kötött képzésekre a szociálpolitikáért felelős miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni.
 
-[^58]: A 4/B. §-t a 7/2018. (II. 5.) EMMI rendelet 35. §-a iktatta be.
-[^59]: A 4/B. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^60]: A 4/B. § (5) bekezdését a 80/2022. (XII. 30.) BM rendelet 20. §-a iktatta be.
+[^60]: A 4/B. §-t a 7/2018. (II. 5.) EMMI rendelet 35. §-a iktatta be.
+[^61]: A 4/B. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^62]: A 4/B. § (5) bekezdését a 80/2022. (XII. 30.) BM rendelet 20. §-a iktatta be.

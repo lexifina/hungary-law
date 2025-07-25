@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-85
 | 2023-01-01 | 2000-9-20-85.31 | 80/2022. (XII. 30.) BM rendelet |
 | 2024-07-01 | 2000-9-20-85.33 | 23/2024. (V. 9.) BM rendelet |
 | 2024-07-24 | 2000-9-20-85.34 | 30/2024. (VII. 23.) BM rendelet |
+| 2025-07-25 | 2000-9-20-85.35 | 29/2025. (VII. 24.) BM rendelet |

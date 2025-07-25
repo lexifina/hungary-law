@@ -1,3 +1,3 @@
-8. §[^64]
+8. §[^66]
 
-[^64]: Az 5. §-t megelőző alcímet és az 5–9. §-t a 25/2017. (X. 18.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^66]: Az 5. §-t megelőző alcímet és az 5–9. §-t a 25/2017. (X. 18.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
