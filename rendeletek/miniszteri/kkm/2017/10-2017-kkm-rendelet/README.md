@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-10-20-6
 | 2023-04-25 | 2017-10-20-6Q.4 | 2/2023. (IV. 24.) KKM rendelet |
 | 2025-01-02 | 2017-10-20-6Q.5 | 24/2024. (XII. 30.) KKM rendelet |
 | 2025-01-03 | 2017-10-20-6Q.6 | 25/2024. (XII. 31.) KKM rendelet |
+| 2025-07-25 | 2017-10-20-6Q.7 | 9/2025. (VII. 24.) KKM rendelet |
