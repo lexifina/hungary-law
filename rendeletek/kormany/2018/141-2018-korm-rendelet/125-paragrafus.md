@@ -1,4 +1,4 @@
-125. §[^486] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 296/2023. (VII. 6.) Korm. rendelettel (a továbbiakban: Módr117.) módosított 3. § (3) bekezdését és 2. mellékletében foglalt táblázat 117. sorát a Módr117. hatálybalépésekor[^487] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+125. §[^487] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 296/2023. (VII. 6.) Korm. rendelettel (a továbbiakban: Módr117.) módosított 3. § (3) bekezdését és 2. mellékletében foglalt táblázat 117. sorát a Módr117. hatálybalépésekor[^488] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^486]: A 125. §-t a 296/2023. (VII. 6.) Korm. rendelet 1. §-a iktatta be.
-[^487]: A hatálybalépés időpontja 2023. július 7.
+[^487]: A 125. §-t a 296/2023. (VII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^488]: A hatálybalépés időpontja 2023. július 7.

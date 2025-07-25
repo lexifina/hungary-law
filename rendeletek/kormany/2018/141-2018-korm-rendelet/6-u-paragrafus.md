@@ -1,4 +1,4 @@
-6/U. §[^227] (1) A 2. mellékletben foglalt táblázat 79. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/U. §[^228] (1) A 2. mellékletben foglalt táblázat 79. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -32,4 +32,4 @@ helyezhető el.
 
 (5) A 2. mellékletben foglalt táblázat 79. sora szerinti beruházással érintett ingatlanok az érintett telkek méretétől függetlenül lekeríthetőek.
 
-[^227]: A 6/U. §-t a 701/2021. (XII. 13.) Korm. redelet 1. §-a iktatta be.
+[^228]: A 6/U. §-t a 701/2021. (XII. 13.) Korm. redelet 1. §-a iktatta be.
