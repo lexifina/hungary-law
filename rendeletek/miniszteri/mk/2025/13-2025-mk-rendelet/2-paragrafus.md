@@ -1,0 +1,1 @@
+2. § E rendelet alkalmazásában rendszeresítés: a polgári nemzetbiztonsági szolgálatok feladatai ellátásához szükséges szolgálati lőfegyver, vegyi eszköz, illetve elektromos sokkoló eszköz felvétele a polgári nemzetbiztonsági szolgálatok rendszerébe.
