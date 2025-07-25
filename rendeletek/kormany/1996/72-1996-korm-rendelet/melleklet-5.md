@@ -1,0 +1,111 @@
+|  | A | B | C |
+
+| 1 | Hatósági eljárás | Szakkérdés | Szakkérdés vizsgálatának feltétele |
+
+| 2 | Elvi vízjogi engedélyezési eljárás. | Annak elbírálása, hogy a 2. melléklet szerinti tevékenységek és létesítmények esetében feltételezhető-e jelentős környezeti hatás. | Ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában nem készült környezeti körzeti terv, nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély köteles, és a hatóság korábbi eljárásban nem vizsgálta a kérdést. |
+
+| 3 | Elvi vízjogi engedélyezési eljárás. | Annak elbírálása, hogy a természetvédelem jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | Ha külterület, belterületen országos jelentőségű védett természeti terület, Natura 2000 terület, barlang felszíni védőövezete vagy egyedi tájérték közvetlenül érintett, kivéve, ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában környezeti körzeti terv készült. |
+
+| 4 | Elvi vízjogi engedélyezési eljárás. | Az erdőre gyakorolt hatások, az erdő igénybevétel engedélyezhetősége. | Ha a vízimunka, vízilétesítmény megvalósítása az Országos Erdőállomány Adattárban nyilvántartott területet érint, kivéve, ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában környezeti körzeti terv készült. |
+
+| 5 | Elvi engedély, továbbá vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a megfelelő kezelési eljárások után az ivóvíz minőségi jellemzői megfelelőek-e. | Ivóvízkivételre nem hasznosítható és ivóvízbázisnak ki nem jelölhető felszíni és felszín alatti vízből való egyedi ivóvízkivétel esetében. |
+
+| 6 | Elvi engedély, továbbá vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A vizek minőségét és egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők fennállásának elbírálása. | Ivóvízkivétel, vízellátás, szennyvízelvezetés, szennyvíztisztítás vagy fürdők vízilétesítményei esetében. |
+
+| 7 | Elvi engedély, továbbá vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A vizek minőségét és egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők fennállásának elbírálása. | Az 1000 m3/nap mennyiségnél többet szolgáltató vagy 5000 főnél több fogyasztót ellátó, valamint az egy járás határán átnyúló ivóvízellátó rendszerek esetében. |
+
+| 8 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A vizek minőségét és egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők fennállásának elbírálása. | A gázveszélyes vízkészletet igénybe vevő, fürdési célú víztermelést folytató vízmű esetében. |
+
+| 9 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a 2. melléklet szerinti tevékenységek és létesítmények esetében feltételezhető-e jelentős környezeti hatás, valamint érintenek-e szennyezett területet, a felszín alatti vizek védelméről szóló kormányrendelet szerinti kármentesítési monitoring esetében megfelelnek-e a határozatban előírt követelményeknek. | Ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában nem készült környezeti körzeti terv, nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély köteles, és a hatóság korábbi eljárásban nem vizsgálta a kérdést. |
+
+| 10 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a természetvédelem jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | Ha külterület, belterületen országos jelentőségű védett természeti terület, Natura 2000 terület, barlang felszíni védőövezete vagy egyedi tájérték közvetlenül érintett, kivéve, ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában környezeti körzeti terv készült. |
+
+| 11 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A termőföld minőségi védelme és a növényvédelem követelményeinek való megfelelés kérdésében. | A termőföld minőségi védelme és a növényvédelem követelményeinek való megfelelés kérdésében, kivéve, ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában környezeti körzeti terv készült. |
+
+| 12 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Az erdőre gyakorolt hatások, az erdő igénybevétel engedélyezhetősége. | Ha a vízimunka, vízilétesítmény megvalósítása az Országos Erdőállomány Adattárban nyilvántartott területet érint, kivéve, ha a vízimunka, vízhasználat vagy vízilétesítmény vonatkozásában környezeti körzeti terv készült. |
+
+| 13 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A hajózsilip méretei tekintetében a jogszabályi követelményeknek, a tervezett, felújított vagy átalakított hajózsilipnek és tartozékainak a zavartalan és biztonságos hajóforgalom lebonyolítására való alkalmasságának, továbbá a nemzetközi gyakorlatnak való megfelelőség szakkérdése. | A duzzasztással szabályozott víziúton, vízlépcsőnél a víziút osztálya szerinti méretű úszólétesítmények, illetve azok tolt kötelékének áthaladását biztosító hajózsilip és a hozzá tartozó létesítmények esetében. |
+
+| 14 | Az üzemelő és távlati vízbázisok védelme érdekében történő védőterület, védősáv kijelölésére irányuló eljárás, továbbá a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendelet [a továbbiakban: 123/1997. (VII. 18.) Korm. rendelet] alapján folytatott egyedi vizsgálati eljárás. | A vizek minőségét és egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők fennállásának elbírálása. | Minden esetben. |
+
+| 15 | Az üzemelő és távlati vízbázisok védelme érdekében történő védőterület, védősáv kijelölésére irányuló eljárás, továbbá a 123/1997. (VII. 18.) Korm. rendelet alapján folytatott egyedi vizsgálati eljárás. | A termőföld minőségi védelme és a növényvédelem követelményeinek való megfelelés. | Minden esetben. |
+
+| 16 | Az elhanyagolt műveken (szennyvízrendszer, nem közművel összegyűjtött háztartási szennyvíz tárolására, illetve begyűjtésére alkalmazott eszköz, szennyvízelvezető mű) rovar-, illetve rágcsálóirtás, valamint elhanyagolt műveken veszélyes készítményekkel végzett tevékenység vizsgálata tárgyban indult eljárás. | A környezet-egészségügyi szabályoknak való megfelelés, így különösen az egészségkárosító kockázatok és esetleges hatások felmérése, a fertőző betegségek terjedésének megakadályozása, a rovar- és rágcsálóirtás, a veszélyes készítményekkel végzett tevékenység vizsgálata, a nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítése. | Minden esetben. |
+
+| 17 | Kármentesítési eljárás. | A tevékenység, vízilétesítmény folyamatban lévő kármentesítésre gyakorolt hatásának vizsgálata. | Ha a vízimunkával, vízhasználattal vagy vízilétesítménnyel érintett területen kármentesítési eljárás van folyamatban. |
+
+| 18 | Hajóút kitűzési tervének engedélyezése és hajóút kitűzésére irányuló eljárás. | A víziközlekedés biztonsága, hajózási érdekek érvényre juttatása, jogszabályban meghatározott követelményeinek való megfelelés kérdésében. | Víziút esetében. |
+
+| 19 | A házi ivóvízigény kielégítésére irányuló vízilétesítmény vagy vízhasználat engedélyezési eljárás, ideértve a víztisztítási feladatokat ellátó vízilétesítmény engedélyezését is. | Az ivóvízkivétel és az ivóvízellátás során az ivóvíz minőségi követelményeinek teljesülése és egészségkárosítás nélküli fogyaszthatóság biztosítottsága. | Minden esetben. |
+
+| 20 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a kulturális örökség védelme jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | A vízjogi üzemeltetési engedélyezés, valamint a fúrt kút engedélyezéseinek kivételével, ha az eljárás a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy műemléket érintő tevékenység engedélyezésére irányul. |
+
+5. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^299]
+
+Adatlap a háztartási kút bejelentéséhez
+
+| ALAPADATOK: |
+
+| Tulajdonos neve, címe: |  |  |
+
+| Üzemeltető neve, címe: |  |  |
+
+| A bejelentés célja (létesítés, üzemeltetés, megszüntetés): |  |  |
+
+| A HÁZTARTÁSI KÚT HELYE ÉS MŰSZAKI PARAMÉTEREI: |
+
+| Kútfúró neve, a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló miniszteri rendeletben meghatározott végzettség, igazolás vagy megfelelőségi nyilatkozat megnevezése: |
+
+| Telepítés helye: (vármegye, település, helyrajzi szám, EOV koordináták) |  |
+
+| Talpmélység: |  | m |  |
+
+| Nyugalmi vízszint: |  | m |
+
+| Csövezés |
+
+| mélysége |  | m–m között |
+
+| átmérője |  | mm/mm |
+
+| anyaga |  | PVC, acélcső |
+
+| Szűrőzés |
+
+| mélysége |  | m–m között |
+
+| átmérője |  | mm/mm |
+
+| anyaga |  | PVC, acélcső/ szűrő típus |
+
+| Talplezárás: |  | m mélységben |
+
+| Kútakna |
+
+| mérete |  |
+
+| anyaga |  |
+
+| Kútgépészet (szivattyú típusa, kapacitása, üzemi jellemzői) |  |
+
+| Szerelvények (vízmérőóra, vízmintavételi csap) |  |
+
+| VÍZKÉSZLETADATOK: |
+
+| Kitermelt víz mennyisége: | m3/év |
+
+| Üzemi jellemzők: (a megfelelő aláhúzandó) | folyamatos / szakaszos / idényjelleg esetén (hónap/nap – hónap/nap) |
+
+| Rendelkezik-e hitelesített vízórával: (a megfelelő aláhúzandó) | igen / nem |
+
+| Vízhasznosítás jellege: (a megfelelő aláhúzandó) | ivóvíz / locsolás / egyéb |
+
+| Vízkészlet jellege: (a megfelelő aláhúzandó) | talajvíz / rétegvíz / partiszűrésű víz / karszt- és hasadékvíz |
+
+| Az adatlapon azonosított és alulírott bejelentő illetve kútfúró, a jelen adatlap aláírásával büntetőjogi felelősségünk teljes tudatában kijelentjük, hogy a jelen adatlapon általunk, fent feltüntetett valamennyi adat a valóságnak teljes mértékben megfelel. |
+
+| Kelt: |
+
+| Bejelentő aláírása | Kútfúró aláírása |
+
+[^299]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be.

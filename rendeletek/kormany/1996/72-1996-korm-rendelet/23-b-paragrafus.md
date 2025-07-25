@@ -1,6 +1,6 @@
-23/B. § (1) A VIZEK rendszer az ügyfelet azonosítást követően veszi nyilvántartásba. Az azonosításnak nem feltétele, hogy az ügyfél hatályos vízjogi engedéllyel rendelkezzen. Az azonosítást az ügyfél a Központi Azonosítási Ügynök szolgáltatáson (a továbbiakban: KAÜ) keresztül elérhető azonosítási szolgáltatás használatával kezdeményezi.
+23/B. § (1)[^234] A VIZEK rendszer az ügyfelet azonosítást követően veszi nyilvántartásba. Az azonosításnak nem feltétele, hogy az ügyfél hatályos vízjogi engedéllyel rendelkezzen. Az azonosítást az ügyfél a Dáptv. szerinti azonosítási szolgáltatás használatával kezdeményezi.
 
-(2) A vízügyi hatóság az ügyfél azonosítását követően a természetes személy ügyféllel kizárólag a biztonságos kézbesítési szolgáltatási tárhelyén, a nem természetes személy ügyféllel az E-ügyintézési tv. szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén tart kapcsolatot.
+(2)[^235] A vízügyi hatóság az ügyfél azonosítását követően a természetes személy ügyféllel, valaminta nem természetes személy ügyféllel a Dáptv. szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén tart kapcsolatot.
 
 (3) Az ügyfél a KAÜ azonosítást követően
 
@@ -14,4 +14,8 @@ bb) 31. § (1) bekezdése szerinti vízügyi hatósági eljárási igazgatási s
 
 iránti kötelezettségét,
 
-c) a 23/G. §-ban előírtak figyelembevételével tehet eleget a Vgtv. 45/H. §-a szerinti vízkészletjárulék elektronikus bevallása iránti kötelezettségének.
+c)[^236]
+
+[^234]: A 23/B. § (1) bekezdése a 224/2025. (VII. 24.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^235]: A 23/B. § (2) bekezdése a 224/2025. (VII. 24.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^236]: A 23/B. § (3) bekezdés c) pontját a 224/2025. (VII. 24.) Korm. rendelet 9. § e) pontja hatályon kívül helyezte.

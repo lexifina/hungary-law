@@ -1,6 +1,6 @@
 1/B. § (1) A vízjogi engedélyezési eljárás iránti kérelem tartalmazza – az Ákr. 36. § (1) bekezdésében, érintettség esetén a felszín alatti vízkészletekbe történő beavatkozásról szóló és a vízügyi hatósági eljárások szolgáltatási díjairól szóló miniszteri rendeletekben, valamint a (3)–(5) bekezdésben foglaltak mellett – a vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalmáról szóló miniszteri rendeletben (a továbbiakban: Min. r.) meghatározott engedélyezési tervdokumentációt, elvi vízjogi engedélyezés esetén a műszaki megoldást tartalmazó dokumentációt.
 
-(2)[^10] Ha az ügyfél az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerint elektronikus ügyintézésre nem köteles, az (1) bekezdés szerinti kérelmet, valamint a 4/B. § szerinti bejelentést
+(2)[^10] Ha az ügyfél a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerint elektronikus ügyintézésre nem köteles, az (1) bekezdés szerinti kérelmet, valamint a 4/B. § szerinti bejelentést
 
 a) vízügyi hatósági eljárás esetén
 
@@ -38,7 +38,7 @@ c) a (4) bekezdés e) pontja szerinti érintettség esetén a vagyonkezelői hoz
 
 (6)[^14] A vízügyi igazgatóság nem ad vízügyi objektumazonosítót abban az esetben, ha a kérelem részét képező, az (5) bekezdés b) vagy c) pontjában meghatározott vagyonkezelői hozzájárulást elutasítja.
 
-[^10]: Az 1/B. § (2) bekezdését a 286/2019. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^10]: Az 1/B. § (2) bekezdését a 286/2019. (XII. 4.) Korm. rendelet 3. §-a iktatta be, nyitó szövegrésze a 224/2025. (VII. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^11]: Az 1/B. § (3) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
 [^12]: Az 1/B. § (4) bekezdés nyitó szövegrésze a 286/2019. (XII. 4.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
 [^13]: Az 1/B. § (5) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

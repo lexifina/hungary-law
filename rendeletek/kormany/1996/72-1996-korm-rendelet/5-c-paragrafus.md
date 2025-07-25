@@ -1,6 +1,6 @@
-## A vízjogi engedélyezés vízkészletjárulékkal kapcsolatos szabályai[^108]
+## A vízjogi engedélyezés vízkészletjárulékkal kapcsolatos szabályai[^110]
 
-5/C. §[^109] (1) A vízkészlet lekötésére és vízhasználat gyakorlására vonatkozó vízjogi létesítési vagy üzemeltetési engedélyben az 5. § (4) bekezdésben meghatározottak mellett a vízügyi hatóság a vízkészlet-járulékkal összefüggésben rögzíti
+5/C. §[^111] (1) A vízkészlet lekötésére és vízhasználat gyakorlására vonatkozó vízjogi létesítési vagy üzemeltetési engedélyben az 5. § (4) bekezdésben meghatározottak mellett a vízügyi hatóság a vízkészlet-járulékkal összefüggésben rögzíti
 
 a) a vízhasználó által lekötött vízmennyiséget,
 
@@ -14,7 +14,7 @@ e) a vízkészletjárulék mértékének a víztest állapotától való függé
 
 f) az ügyfelet terhelő kötelezettségek teljesítésének rendjét.
 
-(2) Az évi 500 m3-nél kevesebb vizet lekötő, házi vízigényt kielégítő kutak vízjogi létesítési vagy üzemeltetési engedélyben nem kell rögzíteni az (1) bekezdés c) és d) pontjában meghatározott adatokat.
+(2)[^112] Az évi 500 m3-nél kevesebb vizet lekötő, háztartási vízigényt kielégítő kutak vízjogi létesítési vagy üzemeltetési engedélyben nem kell rögzíteni az (1) bekezdés c) és d) pontjában meghatározott adatokat.
 
 (3) A vízügyi hatóság az (1) bekezdés szerinti engedély közlésével egyidejűleg külön, írásban tájékoztatja az ügyfelet a vízkészletjárulék kiszámításának – a vízkészletjárulék kiszámításáról szóló miniszteri rendeletben foglaltak szerinti – módjáról, elemeiről és azok értékéről.
 
@@ -22,5 +22,6 @@ f) az ügyfelet terhelő kötelezettségek teljesítésének rendjét.
 
 (5) A mezőgazdasági vízszolgáltató igazolja azt a tényt, hogy a felszíni vízkivétel egynél több kalibrált mérőeszköz után történik.
 
-[^108]: Az 5/C. §-t megelőző alcímet a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^109]: Az 5/C. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^110]: Az 5/C. §-t megelőző alcímet a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^111]: Az 5/C. §-t a 370/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^112]: Az 5/C. § (2) bekezdése a 224/2025. (VII. 24.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

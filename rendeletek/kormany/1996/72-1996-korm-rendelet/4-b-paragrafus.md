@@ -1,4 +1,4 @@
-4/B. §[^67] (1)[^68] A mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, az egyedi szennyvíztisztító létesítmény, a saját célú ivóvízmű és üzemi vízellátást biztosító mű kivételével a saját célú vízilétesítmény bejelentés alapján, vízjogi engedély nélkül megszüntethető, ha a vízilétesítmény
+4/B. §[^69] (1)[^70] A mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, az egyedi szennyvíztisztító létesítmény, a saját célú ivóvízmű és üzemi vízellátást biztosító mű kivételével a saját célú vízilétesítmény bejelentés alapján, vízjogi engedély nélkül megszüntethető, ha a vízilétesítmény
 
 a) az 1. melléklet 4. pontja szerinti IV. felügyeleti kategóriába tartozik, és
 
@@ -18,7 +18,7 @@ ba) az a) pont aa)–ad) alpontjában foglalt feltételeknek megfelel, valamint
 
 bb) a bejelentő a bejelentéshez jogszabályban meghatározott egyszerűsített megszüntetési tervdokumentációt nyújtott be.
 
-(1a)[^69] Az (1) bekezdés szerinti bejelentést a mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, valamint a saját célú vízilétesítmény megszüntetését megelőző 60 napon belül kell benyújtani.
+(1a)[^71] Az (1) bekezdés szerinti bejelentést a mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, valamint a saját célú vízilétesítmény megszüntetését megelőző 60 napon belül kell benyújtani.
 
 (2) A vízilétesítmény megszüntetésére irányuló, a vízügyi hatóságnak szóló bejelentésben a bejelentő nyilatkozik
 
@@ -38,12 +38,12 @@ a) bejelentést tudomásul veszi, és ezt a bejelentővel közli, vagy ha a beje
 
 b) bejelentés tudomásulvétele alapján a bejelentés tartalmát átvezeti a hatósági nyilvántartásokban,
 
-c)[^70] mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, valamint a saját célú vízilétesítmény megszüntetésére irányuló bejelentés tudomásulvételétől számított egy éven belül ellenőrzést végez, amelynek eredményét dokumentálja a hatósági nyilvántartásban.
+c)[^72] mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, valamint a saját célú vízilétesítmény megszüntetésére irányuló bejelentés tudomásulvételétől számított egy éven belül ellenőrzést végez, amelynek eredményét dokumentálja a hatósági nyilvántartásban.
 
-(4)[^71] A vízügyi hatóság a (2) bekezdés szerinti mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, valamint a saját célú vízilétesítmény megszüntetésére irányuló bejelentés vizsgálata során annak értékelése érdekében, hogy a vízilétesítmény megszüntetése megfelel-e a környezetvédelmi és természetvédelmi követelményeknek, a bejelentést továbbítja a környezetvédelmi és természetvédelmi hatóságnak, amely a bejelentéssel kapcsolatos szakvéleményét a bejelentés kézhezvételétől számított nyolc napon belül a vízügyi hatósággal közli.
+(4)[^73] A vízügyi hatóság a (2) bekezdés szerinti mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény, valamint a saját célú vízilétesítmény megszüntetésére irányuló bejelentés vizsgálata során annak értékelése érdekében, hogy a vízilétesítmény megszüntetése megfelel-e a környezetvédelmi és természetvédelmi követelményeknek, a bejelentést továbbítja a környezetvédelmi és természetvédelmi hatóságnak, amely a bejelentéssel kapcsolatos szakvéleményét a bejelentés kézhezvételétől számított nyolc napon belül a vízügyi hatósággal közli.
 
-[^67]: A 4/B. §-t a 286/2019. (XII. 4.) Korm. rendelet 6. §-a iktatta be.
-[^68]: A 4/B. § (1) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^69]: A 4/B. § (1a) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^70]: A 4/B. § (3) bekezdés c) pontja a 340/2024. (XI. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^71]: A 4/B. § (4) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^69]: A 4/B. §-t a 286/2019. (XII. 4.) Korm. rendelet 6. §-a iktatta be.
+[^70]: A 4/B. § (1) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^71]: A 4/B. § (1a) bekezdését a 340/2024. (XI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^72]: A 4/B. § (3) bekezdés c) pontja a 340/2024. (XI. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^73]: A 4/B. § (4) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

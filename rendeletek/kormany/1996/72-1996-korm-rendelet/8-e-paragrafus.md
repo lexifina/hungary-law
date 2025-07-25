@@ -1,8 +1,8 @@
-## 8/D. §[^142] Ha fúrt kutak esetén a furat továbbmélyítése az engedélyezett mélység 15%-át meghaladja, vagy ha az engedélyben meghatározottól eltérő vízkészletet vesz igénybe, akkor a megvalósult kútra vízjogi fennmaradási engedélyt kell kérni.
+## 8/D. §[^145] Ha fúrt kutak esetén a furat továbbmélyítése az engedélyezett mélység 15%-át meghaladja, vagy ha az engedélyben meghatározottól eltérő vízkészletet vesz igénybe, akkor a megvalósult kútra vízjogi fennmaradási engedélyt kell kérni.
 
-## Az üzemeltetés[^143]
+## Az üzemeltetés[^146]
 
-8/E. §[^144] (1) A kút
+8/E. §[^147] (1) A kút
 
 a) a vízügyi hatóság által kiadott vízjogi üzemeltetési engedély és
 
@@ -32,17 +32,12 @@ h) a rendszeres és időszakos kútvizsgálatokra vonatkozó rendelkezéseket.
 
 (4) Az időszakos vizsgálatok eredményét és az értékelést tartalmazó dokumentációt a vízügyi hatóságnak egy hónapon belül meg kell küldeni. Ha az időszakos vizsgálatok értékelése alapján az üzemeltetés módja és a rendszeres, valamint időszakos mérések rendje módosítása válik szükségessé, a megfelelően módosított üzemeltetési szabályzatot a vízügyi hatóságnak meg kell küldeni.
 
-(5)[^145] A vízügyi hatóság részére a kút létesítése, üzemeltetése, fennmaradása és megszüntetése iránti kérelemhez a vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalmáról szóló 41/2017. (XII. 29.) BM rendelet 2. melléklete szerinti dokumentációt kell csatolni, ha a kút
+(5)[^148] A vízügyi hatóság részére a Vgtv. 28/A. § (1c) bekezdésében szabályozott kút létesítése, üzemeltetése, fennmaradása és megszüntetése iránti bejelentéshez az 5. melléklet szerinti adatlapot kell csatolni.
 
-a) épülettel vagy annak építésére jogosító hatósági határozattal, egyszerű bejelentéssel rendelkező ingatlanon van, és természetes személyek részére a házi ivóvízigény és a háztartási igények kielégítését szolgálja,
+(6)[^149] Az (5) bekezdés szerinti bejelentést a vízügyi hatóság nyilvántartásba veszi, és erről egyidejűleg a vízügyi igazgatóságot tájékoztatja.
 
-b) nem gazdasági célú vízigény kielégítése céljából létesül,
-
-c) 500 m3/év mennyiséget meg nem haladó vízigénybevétellel, kizárólag talajvízkészlet vagy parti szűrésű vízkészlet felhasználásával üzemel, és
-
-d) a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló vagy előzetesen lehatárolt belső, külső vagy hidrogeológiai védőidomot, védőterületet érint.
-
-[^142]: A 8/D. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^143]: A 8/E. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^144]: A 8/E. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^145]: A 8/E. § (5) bekezdését a 35/2020. (III. 5.) Korm. rendelet 1. §-a iktatta be.
+[^145]: A 8/D. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^146]: A 8/E. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^147]: A 8/E. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^148]: A 8/E. § (5) bekezdését a 35/2020. (III. 5.) Korm. rendelet 1. §-a iktatta be. A 8/E. § (5) bekezdése a 224/2025. (VII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^149]: A 8/E. § (6) bekezdését a 224/2025. (VII. 24.) Korm. rendelet 3. §-a iktatta be.

@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2024-12-31 | 1996-72-20-22.65 | 472/2024. (XII. 30.) Korm. rendelet |
 | 2025-01-01 | 1996-72-20-22.64 | 340/2024. (XI. 14.) Korm. rendelet |
 | 2025-01-31 | 1996-72-20-22.63 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2025-07-25 | 1996-72-20-22.66 | 224/2025. (VII. 24.) Korm. rendelet |

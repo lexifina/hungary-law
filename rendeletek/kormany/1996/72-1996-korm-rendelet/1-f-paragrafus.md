@@ -1,11 +1,21 @@
-1/F. § (1)[^16] A vízügyi hatóság a döntését írásban – ideértve az E-ügyintézési tv.-ben és a VIZEK rendszerben meghatározott elektronikus utat is – közli az ügyfelekkel.
+1/F. §[^20] (1) A kérelemre indult eljárás megindulásáról az ismert ügyfelet írásban értesíteni kell. Az írásbeli értesítés akkor mellőzhető, ha
 
-(2)[^17] Ha a vízügyi hatósági eljárásban legalább ötven ügyfél érintett, a hatósági határozatot – az írásbeli, E-ügyintézési tv. szerinti közlés helyett – hirdetmény útján kell közölni, valamint a hatósági határozatról készült közleményt közhírré kell tenni.
+a) az eljárás megindítása után a hatóság nyolc napon belül érdemben dönt, a kérelmet visszautasítja, az eljárást megszünteti,
 
-(3)[^18] A kérelmező, bejelentő ügyféllel és képviselőjével, valamint az 1/A. § (1) bekezdés b) és c) pontja szerinti ügyféllel a hatósági határozatot akkor is írásban – ideértve az E-ügyintézési tv.-ben és a VIZEK rendszerben meghatározott elektronikus utat is – kell közölni, ha hirdetményi közlésnek van helye.
+b) azt honvédelmi, nemzetbiztonsági, közbiztonsági okból jogszabály kizárja.
 
-(4) Ha a határozat ingatlanra vonatkozó és az ingatlan-nyilvántartási bejegyzés, feljegyzés tárgyát érintő jogot, kötelezettséget, jogilag jelentős tényt tartalmaz, a vízügyi hatóság a véglegességről szóló értesítést az illetékes ingatlanügyi hatóság részére is megküldi.
+(2) Az írásbeli értesítésnek tartalmaznia kell
 
-[^16]: Az 1/F. § (1) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^17]: Az 1/F. § (2) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^18]: Az 1/F. § (3) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
+a) a kérelmező ügyfél nevét,
+
+b) az ügy tárgyát, iktatási számát, az eljárás megindításának napját és az adott ügyfajtára irányadó ügyintézési határidőt, az ügyintézési határidőbe nem számító időtartamokat, az ügyintéző nevét és hivatali elérhetőségét és
+
+c) az iratokba való betekintés és a nyilatkozattétel lehetőségére irányuló tájékoztatást.
+
+(3) Ha a vízügyi hatósági eljárásban legalább ötven ügyfél ismert, az írásbeli értesítés helyett az ismert ügyfeleket az eljárás megindulásáról hirdetményi úton kell értesíteni, továbbá a hatósági határozatot – az írásbeli, Dáptv. szerinti közlés helyett – hirdetmény útján kell közölni.
+
+(4) A kérelmezővel, illetve a bejelentővel és a képviselőjével, valamint az 1/A. § (1) bekezdés b) és c) pontja szerinti ügyféllel a hatósági határozatot akkor is írásban kell közölni, ha hirdetményi közlésnek van helye.
+
+(5) Ha a határozat ingatlanra vonatkozó és az ingatlan-nyilvántartási bejegyzés tárgyát érintő jogot, kötelezettséget, jogilag jelentős tényt tartalmaz, a vízügyi hatóság a véglegessé vált döntésével felhívja az ingatlanügyi hatóságot az ingatlan-nyilvántartási eljárás lefolytatása érdekében.
+
+[^20]: Az 1/F. § a 224/2025. (VII. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
