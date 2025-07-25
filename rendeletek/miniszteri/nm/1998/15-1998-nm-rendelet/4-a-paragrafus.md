@@ -26,22 +26,25 @@ ia) alkalmassági felülvizsgálat módját és
 
 ib) eljárásrendet a nevelőszülőt a gondozásában elhelyezett gyermek, fiatal felnőtt ellátására megillető juttatások elszámoltatásáról.
 
+j)[^60] nevelőszülői hálózat esetén az új nevelőszülők toborzására vonatkozó tevékenység módszereit.
+
 (2) A szakmai programhoz mellékelni kell
 
 a) a Gyvt. 32. § (4) és (6) bekezdése szerinti megállapodások tervezetét,
 
-b)[^60] nevelőszülői hálózat működtetése esetén a Gyvt. 66/B. § (1) bekezdése szerinti, utógondozói ellátás nyújtása esetén a Gyvt. 53/A. § (3) bekezdése szerinti megállapodás tervezetét,
+b)[^61] nevelőszülői hálózat működtetése esetén a Gyvt. 66/B. § (1) bekezdése szerinti, utógondozói ellátás nyújtása esetén a Gyvt. 53/A. § (3) bekezdése szerinti megállapodás tervezetét,
 
 c) átmeneti elhelyezést biztosító gyermekjóléti intézmény, befogadó gyermekotthon, otthont nyújtó ellátást biztosító gyermekotthon, lakásotthon, utógondozói ellátást biztosító utógondozó otthon esetében a házirendet vagy annak tervezetét,
 
-d)[^61] a – (2a) bekezdésben foglalt kivétellel – a szervezeti és működési szabályzatot vagy annak tervezetét.
+d)[^62] a – (2a) bekezdésben foglalt kivétellel – a szervezeti és működési szabályzatot vagy annak tervezetét.
 
-(2a)[^62] A gyermekek esélynövelő szolgáltatásai, a mini bölcsőde, a munkahelyi bölcsőde, a nem hálózatban működtetett családi bölcsőde, a nem hálózatban működtetett napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás esetén nem kötelező szervezeti és működési szabályzatot készíteni.
+(2a)[^63] A gyermekek esélynövelő szolgáltatásai, a mini bölcsőde, a munkahelyi bölcsőde, a nem hálózatban működtetett családi bölcsőde, a nem hálózatban működtetett napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás esetén nem kötelező szervezeti és működési szabályzatot készíteni.
 
 (3) A szakmai programot az (1) bekezdés szerinti elemeinek változása esetén módosítani kell.
 
 [^58]: A 4/A. §-t az 58/2011. (X. 21.) NEFMI rendelet 2. §-a iktatta be.
 [^59]: A 4/A. § (1) bekezdés i) pontját a 83/2013. (XII. 29.) EMMI rendelet 2. § (1) bekezdése iktatta be, szövege a 6/2020. (III. 6.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^60]: A 4/A. § (2) bekezdés b) pontja a 83/2013. (XII. 29.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^61]: A 4/A. § (2) bekezdés d) pontja a 77/2011. (XII. 30.) NEFMI rendelet 13. § b) pontja szerint módosított szöveg.
-[^62]: A 4/A. § (2a) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, szövege a 6/2016. (III. 24.) EMMI rendelet 1. §-ával megállapított, a 40/2018. (XII. 4.) EMMI rendelet 23. § e) pontja szerint módosított szöveg.
+[^60]: A 4/A. § (1) bekezdés j) pontját a 29/2025. (VII. 24.) BM rendelet 1. §-a iktatta be.
+[^61]: A 4/A. § (2) bekezdés b) pontja a 83/2013. (XII. 29.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^62]: A 4/A. § (2) bekezdés d) pontja a 77/2011. (XII. 30.) NEFMI rendelet 13. § b) pontja szerint módosított szöveg.
+[^63]: A 4/A. § (2a) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 3. §-a iktatta be, szövege a 6/2016. (III. 24.) EMMI rendelet 1. §-ával megállapított, a 40/2018. (XII. 4.) EMMI rendelet 23. § e) pontja szerint módosított szöveg.

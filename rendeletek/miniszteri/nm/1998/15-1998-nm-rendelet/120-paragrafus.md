@@ -1,21 +1,21 @@
 ## Az ellátás megszüntetése
 
-120. § (1)[^390] A gyermekotthon a gyámhivatalnak a gondozott gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét megszüntető határozata alapján az ellátást megszünteti, és a gondozott gyermeket a határozatban megjelölt személynek átadja. Az átadás megtörténtét a gondozott gyermeket átvevő személy aláírásával igazolja.
+120. § (1)[^393] A gyermekotthon a gyámhivatalnak a gondozott gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét megszüntető határozata alapján az ellátást megszünteti, és a gondozott gyermeket a határozatban megjelölt személynek átadja. Az átadás megtörténtét a gondozott gyermeket átvevő személy aláírásával igazolja.
 
-(2)[^391] Az ellátás megszüntetéséről az időpont és a gondozott gyermeket átvevő személy megjelölésével a gyermekotthon haladéktalanul értesíti a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett adatlapon
+(2)[^394] Az ellátás megszüntetéséről az időpont és a gondozott gyermeket átvevő személy megjelölésével a gyermekotthon haladéktalanul értesíti a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett adatlapon
 
-a)[^392]
+a)[^395]
 
-b)[^393]
+b)[^396]
 
-c)[^394]
+c)[^397]
 
 d) a szülő lakóhelye szerinti család- és gyermekjóléti központot,
 
 e) a pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelőjét.
 
-[^390]: A 120. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 10. pontja szerint módosított szöveg.
-[^391]: A 120. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 16. §-ával megállapított, nyitó szövegrésze a 6/2020. (III. 6.) EMMI rendelet 6. § f) pontja szerint módosított szöveg.
-[^392]: A 120. § (2) bekezdés a) pontját a 34/2020. (X. 2.) EMMI rendelet 14. § c) pontja hatályon kívül helyezte.
-[^393]: A 120. § (2) bekezdés b) pontját a 34/2020. (X. 2.) EMMI rendelet 14. § c) pontja hatályon kívül helyezte.
-[^394]: A 120. § (2) bekezdés c) pontját a 34/2020. (X. 2.) EMMI rendelet 14. § c) pontja hatályon kívül helyezte.
+[^393]: A 120. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 10. pontja szerint módosított szöveg.
+[^394]: A 120. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 16. §-ával megállapított, nyitó szövegrésze a 6/2020. (III. 6.) EMMI rendelet 6. § f) pontja szerint módosított szöveg.
+[^395]: A 120. § (2) bekezdés a) pontját a 34/2020. (X. 2.) EMMI rendelet 14. § c) pontja hatályon kívül helyezte.
+[^396]: A 120. § (2) bekezdés b) pontját a 34/2020. (X. 2.) EMMI rendelet 14. § c) pontja hatályon kívül helyezte.
+[^397]: A 120. § (2) bekezdés c) pontját a 34/2020. (X. 2.) EMMI rendelet 14. § c) pontja hatályon kívül helyezte.

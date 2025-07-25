@@ -1,16 +1,16 @@
-## 162. §[^657] A veszélyhelyzet és az egészségügyi válsághelyzet időtartama az óvodai és iskolai szociális segítő képzésre a 25. § (6) bekezdésében meghatározott határidőbe nem számít bele.
+## 162. §[^661] A veszélyhelyzet és az egészségügyi válsághelyzet időtartama az óvodai és iskolai szociális segítő képzésre a 25. § (6) bekezdésében meghatározott határidőbe nem számít bele.
 
-163. § (1)[^658] Ha a szakellátást olyan – magasabb vezető által irányított – önálló intézmény biztosítja, amely több gyermekotthont is magában foglal, az intézményben önálló szakmai egységeket kell kialakítani, amelyek
+163. § (1)[^662] Ha a szakellátást olyan – magasabb vezető által irányított – önálló intézmény biztosítja, amely több gyermekotthont is magában foglal, az intézményben önálló szakmai egységeket kell kialakítani, amelyek
 
-a)[^659] legfeljebb 48 gyermeket befogadó gyermekotthonból, illetőleg különleges, vagy speciális otthonból, vagy
+a)[^663] legfeljebb 48 gyermeket befogadó gyermekotthonból, illetőleg különleges, vagy speciális otthonból, vagy
 
 b) legfeljebb összesen 48 gyermeket befogadó lakásotthonokból
 
 állnak.
 
-(2)[^660] Az önálló szakmai egység szakmai programmal rendelkezik, és élén gyermekotthon vezető áll.
+(2)[^664] Az önálló szakmai egység szakmai programmal rendelkezik, és élén gyermekotthon vezető áll.
 
-[^657]: A 162. §-t a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének i) pontja hatályon kívül helyezte, újonnan az 1/2021. (I. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^658]: A 163. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 95. §-ával megállapított szöveg.
-[^659]: A 163. § (1) bekezdés a) pontja a 31/2009. (XII. 22.) SZMM rendelet 21. § j) pontja szerint módosított szöveg.
-[^660]: A 163. § (2) bekezdése 1/2017. (II. 14.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^661]: A 162. §-t a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének i) pontja hatályon kívül helyezte, újonnan az 1/2021. (I. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^662]: A 163. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 95. §-ával megállapított szöveg.
+[^663]: A 163. § (1) bekezdés a) pontja a 31/2009. (XII. 22.) SZMM rendelet 21. § j) pontja szerint módosított szöveg.
+[^664]: A 163. § (2) bekezdése 1/2017. (II. 14.) EMMI rendelet 20. §-ával megállapított szöveg.
