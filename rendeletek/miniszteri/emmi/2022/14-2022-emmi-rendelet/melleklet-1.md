@@ -156,7 +156,7 @@ X. Jelnyelvi tolmács képzés
 
 | 2. | megkezdéséhez szükséges közismereti előképzettség: | érettségi végzettség |
 
-| 3. | megkezdéséhez szükséges szakmai előképzettség: | jelnyelvből B1 szintű államilag elismert nyelvvizsga |
+| 3. | megkezdéséhez szükséges szakmai előképzettség: | jelnyelvből B1 szintű államilag elismert nyelvvizsga vagy B1 szintű jelnyelvi tudást igazoló tanúsítvány[^8] |
 
 | 4. | kötelező óraszáma: | 1000 óra |
 
@@ -179,3 +179,5 @@ XI. Siket jelnyelvi tolmács képzés
 | 5. | tartalma: | a siket jelnyelvi tolmács a) képessé válik kommunikációs akadálymentesítési feladatok ellátására siket, siketvak, nagyothalló és halló személyek között; b) megismeri a jelnyelvi tolmácsolás elméletét és gyakorlatát, a tolmácsolás fizikai és pszichés feltételeit, a jogszabályi környezetet, a speciális tolmácsolási színterek jogi és egyéb jellemzőit; c) képessé válik anyanyelvi szintű jelnyelvi tudással tolmácsolni a magyar jelnyelven belül a nyelvváltozatok között, illetve magyar jelnyelvről nemzetközi jelre (IS) és nemzetközi jelről magyar jelnyelvre személyes jelenléttel, valamint telefon- és videóalapú távtolmácsolással; d) megismeri a szimultán, konszekutív és tömörítő jelnyelvi tolmácsolási technikákat; e) képessé válik írott szöveget jelnyelvre adaptálni, jelnyelvi megnyilatkozásokat írásba foglalni |
 
 | 6. | eredményes elvégzése igazolásának módja: | tanúsítvány |
+
+[^8]: Az 1. melléklet X. pontjában foglalt táblázat B:3 mezője a 29/2025. (VII. 24.) BM rendelet 16. §-a szerint módosított szöveg.
