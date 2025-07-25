@@ -1,6 +1,6 @@
 ## 17. A halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás
 
-43. §[^143] (1) A halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) az érintett ágazat vagy alágazat valamennyi vállalkozása szempontjából jelentőséggel bíró kutatás-fejlesztési projekthez nyújtható.
+43. §[^123] (1) A halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) az érintett ágazat vagy alágazat valamennyi vállalkozása szempontjából jelentőséggel bíró kutatás-fejlesztési projekthez nyújtható.
 
 (2) A támogatás kizárólag kutatási és tudásközvetítő szervezet részére nyújtható azzal, hogy a támogatás nem foglalhat magában halászati- vagy akvakultúra-termékek előállításával, feldolgozásával vagy forgalomba hozatalával foglalkozó vállalkozás részére nyújtott, a kutatással össze nem függő közvetlen támogatást.
 
@@ -26,4 +26,4 @@ időpontja.
 
 (6) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
 
-[^143]: A 43. § a 673/2023. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^123]: A 43. § a 673/2023. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.

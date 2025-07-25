@@ -1,4 +1,4 @@
-## 14.[^139] Az innovációs klaszterre nyújtott támogatás
+## 14.[^119] Az innovációs klaszterre nyújtott támogatás
 
 38. § (1) Az innovációs klaszterre nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a klaszter tulajdonosának beruházási támogatásként, a klaszter üzemeltetőjének működési támogatásként nyújtható.
 
@@ -10,4 +10,4 @@
 
 (5) A klaszter irodaterületéhez, létesítményeihez és tevékenységeihez való hozzáférésre, és a klaszter beruházási költségeit legalább 10%-ban finanszírozó vállalkozás esetén a 37. § (5) és (6) bekezdésében foglaltak megfelelően alkalmazandók.
 
-[^139]: A 14. alcím (38–40. §) a 673/2023. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^119]: A 14. alcím (38–40. §) a 673/2023. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 10.[^116] Kockázatfinanszírozási támogatás
+## 10.[^96] Kockázatfinanszírozási támogatás
 
 24. § (1) A kis- és középvállalkozások pénzügyi forráshoz juttatása érdekében kockázatfinanszírozási célú befektetés támogatási program formájában, közvetlenül az állam által vagy megbízott félen (a továbbiakban együtt: támogatást nyújtó) keresztül, egy vagy több pénzügyi közvetítő igénybevételével hajtható végre.
 
@@ -36,4 +36,4 @@ c) a 651/2014/EU bizottsági rendelet IV. mellékletében felsorolt kritikus fon
 
 valósít meg, a vállalkozások abban az esetben is támogathatóak, ha új gazdasági tevékenység indítása céljából, üzleti terven alapuló sajáttőke-befektetési igényük meghaladja az előző 5 évben elért átlagos éves árbevételük 30%-át.
 
-[^116]: A 10. alcímet (24–28. §-t) a 673/2023. (XII. 29.) Korm. rendelet 21. § k) pontja hatályon kívül helyezte, újonnan a 115/2024. (V. 23.) Korm. rendelet 6. §-a iktatta be.
+[^96]: A 10. alcímet (24–28. §-t) a 673/2023. (XII. 29.) Korm. rendelet 21. § k) pontja hatályon kívül helyezte, újonnan a 115/2024. (V. 23.) Korm. rendelet 6. §-a iktatta be.

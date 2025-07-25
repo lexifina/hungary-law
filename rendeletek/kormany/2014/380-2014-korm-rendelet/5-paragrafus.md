@@ -1,69 +1,45 @@
 ## 4. Támogatási kategóriák
 
-## 5. § Ha a KFItv. alapján nyújtott támogatás állami támogatásnak minősül, a KFItv.
+5. §[^34] Ha a KFItv. alapján nyújtott támogatás állami támogatásnak minősül, a KFItv.
 
-1.[^34] 20. §-a, 24. § (1) bekezdés b), c), f) és i) pontja, 28. § a), d), e), g), h), k) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8–10., 12., 13., 16., 18. pontja alapján regionális beruházási támogatás,
+1. 20. §-a, 24. § (1) bekezdés b) és f) pontja, 28. § a), d), e), g), h), k), l) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8., 9., 12., 13., 16., 18., 19. és 21. pontja alapján regionális beruházási támogatás,
 
-2.[^35] 20. §-a, 24. § (1) bekezdés b), c), f) és i) pontja, 28. § a), d), e), g), h), k) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8–10., 12., 13., 16., 18. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás,
+2. 20. §-a, 24. § (1) bekezdés b) és f) pontja, 28. § a), d), e), g), h), k) és l) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8., 9., 12., 13., 16. és 18. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás,
 
-3.[^36] 20. §-a, 24. § (1) bekezdés a)–c), i) és k) pontja, 28. § a)–c) és e)–g) pontja, valamint 29/A. § (2) bekezdés 1., 5–7., 10–12., 16. pontja alapján a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
+3. 20. §-a, 24. § (1) bekezdés a), b) és k) pontja, 28. § a)–c), e)–g) és l) pontja, valamint 29/A. § (2) bekezdés 1., 5–7., 11., 12. és 16. pontja alapján a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
 
-4.[^37] 20. §-a, 24. § (1) bekezdés b), h) és i) pontja, 28. § c) és e)–j) pontja, valamint 29/A. § (2) bekezdés 5., 7., 10–15. pontja alapján a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
+4. 20. §-a, 24. § (1) bekezdés b) és h) pontja, 28. § c), e)–j) és l) pontja, valamint 29/A. § (2) bekezdés 5., 7. és 11–15. pontja alapján a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
 
-5.[^38] 20. §-a, 24. § (1) bekezdés c), i) és k) pontja, 28. § a), b), e), g), h) és k) pontja, valamint 29/A. § (2) bekezdés 1., 5., 6., 10., 12., 13., 16. pontja alapján kockázatfinanszírozási támogatás,
+5. 20. §-a, 24. § (1) bekezdés k) pontja, 28. § a), b), e), g), h) és k)–m) pontja, valamint 29/A. § (2) bekezdés 1., 5., 6., 12., 13. és 16. pontja alapján kockázatfinanszírozási támogatás,
 
-6.[^39] 20. §-a, 24. § (1) bekezdés a)–c), f)–i) és k) pontja, 28. § a)–c), e)–g) és i)–n) pontja, valamint 29/A. § (2) bekezdés 1., 3–7., 9–12., 14–18. pontja alapján induló vállalkozásnak nyújtott támogatás,
+6. 20. §-a, 24. § (1) bekezdés a)–c), f)–h) és k) pontja, 28. § a)–c), e)–g) és i)–m) pontja, valamint 29/A. § (2) bekezdés 1., 3–7., 9., 11., 12., 14–18. és 20. pontja alapján induló vállalkozásnak nyújtott támogatás,
 
-7.[^40] 20. §-a, 24. § (1) bekezdés b), c), f) és g)–i) pontja, 28. § a), b), d), e) és g)–m) pontja, 29/A. § (2) bekezdés 1., 4–6., 8–10., 12–17. pontja alapján, valamint 24. § (1) bekezdés a), d), e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, kutatás-fejlesztési projektekhez nyújtott támogatás,
+7. 20. §-a, 24. § (1) bekezdés b) és f)–h) pontja, 28. § a), b), d), e), g)–l) és n) pontja, 29/A. § (2) bekezdés 1., 4–6., 8., 9., 12–17. és 19–21. pontja alapján, valamint 24. § (1) bekezdés a), c)–e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, kutatás-fejlesztési projektekhez nyújtott támogatás,
 
-7a.[^41] 24. § (1) bekezdés b), c) és f)–i) pontja, 28. § a), b), d), e) és g)–m) pontja, 29/A. § (2) bekezdés 1., 4–6., 8–10., 12–17. pontja alapján, valamint a 24. § (1) bekezdés a), d), e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, „Kiválósági pecsét” minőségi védjegyben részesült projektekhez nyújtott támogatás,
+8. 24. § (1) bekezdés b) és f)–h) pontja, 28. § a), b), d), e), g)–l) és n) pontja, 29/A. § (2) bekezdés 1., 4–6., 8., 9., 12–17. és 19–21. pontja alapján, valamint 24. § (1) bekezdés a), c), d), e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, „Kiválósági pecsét” minőségi védjegyben részesült projektekhez nyújtott támogatás,
 
-7b.[^42] 24. § (1) bekezdése, 28. §-a és 29/A. § (2) bekezdése alapján Marie Skłodowska-Curie-cselekvésekre és az Európai Kutatási Tanács által támogatott ötlet-életképességi cselekvésekre irányuló támogatás,
+9. 24. § (1) bekezdése, 28. § a)–l) és n) pontja és 29/A. § (2) bekezdése alapján Marie Skłodowska-Curie-cselekvésekre és az Európai Kutatási Tanács által támogatott ötlet-életképességi cselekvésekre irányuló támogatás,
 
-7c.[^43] 20. §-a, 24. § (1) bekezdés b), c) és f)–i) pontja, 28. § a), b), d), e), g) és m) pontja, 29/A. § (2) bekezdés 1., 4–6., 8–10., 12–17. pontja alapján, valamint 24. § (1) bekezdés a), d), e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, társfinanszírozott kutatás-fejlesztési projektekhez nyújtott támogatás,
+10. 20. §-a, 24. § (1) bekezdés b) és f)–h) pontja, 28. § a), b), d), e), g), l) és n) pontja, 29/A. § (2) bekezdés 1., 4–6., 8., 9., 12–17. és 19–21. pontja alapján, valamint 24. § (1) bekezdés a), c), d), e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, társfinanszírozott kutatás-fejlesztési projektekhez nyújtott támogatás,
 
-7d.[^44] 20. §-a, 24. § (1) bekezdése, 28. §-a és 29/A. § (2) bekezdése alapján partnerségalakításhoz nyújtott támogatás,
+11. 20. §-a, 24. § (1) bekezdése, 28. § a)–l) és n) pontja és 29/A. § (2) bekezdése alapján partnerségalakításhoz nyújtott támogatás,
 
-8.[^45] 20. §-a, 24. § (1) bekezdés b), c), f) és i) pontja, 28. § a), d), g), h), m) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8., 9., 12., 13., 17., 18. pontja alapján kutatási infrastruktúrához nyújtott beruházási támogatás,
+12. 20. §-a, 24. § (1) bekezdés b) és f) pontja, 28. § a), d), g), h), l) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8., 9., 12., 13., 17–19. és 21. pontja alapján kutatási infrastruktúrához nyújtott beruházási támogatás,
 
-8a.[^46] 20. §-a, 24. § (1) bekezdés b), c), f) és i) pontja, 28. § a), d), g), h), m) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8., 9., 12., 13., 17., 18. pontja alapján tesztelési és kísérleti infrastruktúrához nyújtott beruházási támogatás,
+13. 20. §-a, 24. § (1) bekezdés b) és f) pontja, 28. § a), d), g), h), l) és n) pontja, valamint 29/A. § (2) bekezdés 1., 5., 8., 9., 12., 13., 17–19. és 21. pontja alapján tesztelési és kísérleti infrastruktúrához nyújtott beruházási támogatás,
 
-9.[^47] 20. §-a, 24. § (1) bekezdés b), c), f), i) és k) pontja, 28. § a), d), e), g), h), m) és n) pontja, 29/A. § (2) bekezdés 1., 3., 5., 8–10., 12., 13., 16–18. pontja alapján innovációs klaszterre nyújtott támogatás,
+14. 20. §-a, 24. § (1) bekezdés b), f) és k) pontja, 28. § a), d), e), g), h), l) és n) pontja, 29/A. § (2) bekezdés 1., 3., 5., 8., 9., 12., 13., 16–19. és 21. pontja alapján innovációs klaszterre nyújtott támogatás,
 
-10.[^48] 20. §-a, 24. § (1) bekezdés g)–i) és k) pontja, 28. § a), b), e)–g) és i)–l) pontja, 29/A. § (2) bekezdés 1., 4–6., 10–12., 14–17. pontja alapján kis- és középvállalkozásnak nyújtott innovációs támogatás,
+15. 20. §-a, 24. § (1) bekezdés g), h) és k) pontja, 28. § a), b), e)–g) és i)–l) pontja, 29/A. § (2) bekezdés 1., 4–6., 11., 12., 14–17. és 20. pontja alapján kis- és középvállalkozásnak nyújtott innovációs támogatás,
 
-11.[^49] 20. §-a, 24. § (1) bekezdés b), c) és i) pontja, 28. § a), b), e), g) és h) pontja és 29/A. § (2) bekezdés 1., 5., 6., 10., 12., 13. pontja alapján eljárási innováció és szervezési innováció támogatásához nyújtott támogatás,
+16. 20. §-a, 24. § (1) bekezdés b) pontja, 28. § a), b), e), g), h) és l) pontja, valamint 29/A. § (2) bekezdés 1., 5., 6., 12., 13. és 19. pontja alapján eljárási innováció és szervezési innováció támogatásához nyújtott támogatás,
 
-12.[^50] 20. §-a, 24. § (1) bekezdés b), c), f)–i) pontja, 28. § a), b), d), e) és g)–m) pontja és 29/A. § (2) bekezdés 1., 4–6., 8–10., 12–17. pontja alapján, valamint a 24. § (1) bekezdés a), d), e), j) és k) pontja, 28. § c) pontja és a 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
+17. 20. §-a, 24. § (1) bekezdés b) és f)–h) pontja, 28. § a), b), d), e), g)–l) és n) pontja és 29/A. § (2) bekezdés 1., 4–6., 8., 9., 12–17. és 19–21. pontja alapján, valamint 24. § (1) bekezdés a), c)–e), j) és k) pontja, 28. § c) pontja és 29/A. § (2) bekezdés 2., 3. és 7. pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
 
-13.[^51] 20. §-a, 24. § (1) bekezdés h) és i) pontja, 28. § e)–g), i) és j) pontja, valamint 29/A. § (2) bekezdés 5., 10–12., 14., 15. pontja alapján képzési támogatás,
+18. 20. §-a, 24. § (1) bekezdés h) pontja, 28. § e)–g), i), j) és l) pontja, valamint 29/A. § (2) bekezdés 5., 11., 12., 14., 15. és 19. pontja alapján képzési támogatás,
 
-14.[^52] 20. §-a, 24. § (1) bekezdése, 28. §-a, 29/A. §-a és 35. § (1) bekezdése alapján csekély összegű támogatás,
-
-15.[^53]
-
-16.[^54]
+19. 20. §-a, 24. § (1) bekezdése, 28. §-a, 29/A. §-a és 35. § (1) bekezdése alapján csekély összegű támogatás
 
 nyújtható.
 
-[^34]: Az 5. § 1. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 5. § 2. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^36]: Az 5. § 3. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^37]: Az 5. § 4. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^38]: Az 5. § 5. pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § c) pontja hatályon kívül helyezte, újonnan a 115/2024. (V. 23.) Korm. rendelet 2. §-a iktatta be.
-[^39]: Az 5. § 6. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^40]: Az 5. § 7. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^41]: Az 5. § 7a. pontját a 434/2022. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^42]: Az 5. § 7b. pontját a 434/2022. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^43]: Az 5. § 7c. pontját a 434/2022. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^44]: Az 5. § 7d. pontját a 434/2022. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^45]: Az 5. § 8. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^46]: Az 5. § 8a. pontját a 673/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^47]: Az 5. § 9. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^48]: Az 5. § 10. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^49]: Az 5. § 11. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^50]: Az 5. § 12. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^51]: Az 5. § 13. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^52]: Az 5. § 14. pontja a 434/2022. (XI. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^53]: Az 5. § 15. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
-[^54]: Az 5. § 16. pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
+[^34]: Az 5. § a 225/2025. (VII. 24.) Korm. rendelet 5. §-ával megállapított szöveg.

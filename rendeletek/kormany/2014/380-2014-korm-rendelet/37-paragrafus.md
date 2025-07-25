@@ -1,4 +1,4 @@
-## 13.[^137] A kutatási infrastruktúrához nyújtott beruházási támogatás
+## 13.[^117] A kutatási infrastruktúrához nyújtott beruházási támogatás
 
 37. § (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) gazdasági tevékenység folytatására használt kutatási infrastruktúra építéséhez és korszerűsítéséhez nyújtható.
 
@@ -14,4 +14,4 @@
 
 (7) Ha a kutatási infrastruktúra gazdasági és nem gazdasági tevékenységre vonatkozóan egyaránt részesül közfinanszírozásban, az egyes tevékenységekhez kapcsolódó finanszírozást, költségeket és az azokból származó bevételeket külön kell elszámolni, következetesen alkalmazott és objektíven indokolható számviteli elvek alapján. Ebben az esetben a (3) bekezdés szerinti maximális támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni arra az esetre vonatkozóan, ha a gazdasági tevékenység részaránya nagyobb, mint az a támogatás odaítélésekor megállapításra került.
 
-[^137]: A 13. alcím (37. §) a 673/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^117]: A 13. alcím (37. §) a 673/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
