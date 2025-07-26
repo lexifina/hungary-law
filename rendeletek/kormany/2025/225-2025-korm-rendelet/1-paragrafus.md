@@ -26,6 +26,6 @@
 
 ## 1. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosítása
 
-1. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet 5/J. §-a a következő (1a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(1a) Az (1) bekezdés szerinti tartózkodási engedély iránti kérelem benyújtását az Országos Idegenrendészeti Főigazgatóság által a foglalkoztató számára kiállított, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény 168. § (15) bekezdése szerinti tájékoztatással, míg a kérelem engedélyezését a tartózkodási engedély iránti kérelem engedélyezéséről szóló tájékoztatással vagy a tartózkodási engedéllyel vagy ezek másolatával kell igazolni.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

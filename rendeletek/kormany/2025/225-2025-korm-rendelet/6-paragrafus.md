@@ -1,7 +1,3 @@
-6. § A Nemzeti Kutatási, Fejlesztési és Innovációs Alap működtetésének és felhasználásának szabályairól szóló 380/2014. (XII. 31.) Korm. rendelet
+6. §[^6]
 
-a) 57. § a) pontjában az „5. § 1–13. pontja” szövegrész helyébe az „5. § 1–18. pontja” szöveg,
-
-b) 57. § b) pontjában az „5. § 14. pontja” szövegrész helyébe az „5. § 19. pontja” szöveg
-
-lép.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

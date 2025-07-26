@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 387/2012. (XII. 19.) Korm. rendelet 2. § (5) bekezdésében a „– Magyar Tudományos Akadémia doktora címmel rendelkező –” szövegrész.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

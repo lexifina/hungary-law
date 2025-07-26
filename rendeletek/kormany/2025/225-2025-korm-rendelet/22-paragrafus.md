@@ -1,5 +1,3 @@
-22. § Az Szkr. VII. Fejezet címe helyébe a következő fejezetcím lép:
+22. §[^22]
 
-„VII. Fejezet
-
-A BIZONYÍTVÁNY, AZ OKLEVÉL, A SZAKMAI BIZONYÍTVÁNY, A MIKROTANÚSÍTVÁNY ÉS A KÉPESÍTŐ BIZONYÍTVÁNY”
+[^22]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

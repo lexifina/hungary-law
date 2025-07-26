@@ -1,3 +1,3 @@
-23. § Az Szkr. 25. § (1) bekezdése a következő 10. ponttal egészül ki:
+23. §[^23]
 
-(A szakképző intézmény által használt nyomtatvány)
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

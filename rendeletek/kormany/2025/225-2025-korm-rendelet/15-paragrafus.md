@@ -1,1 +1,3 @@
-15. § Hatályát veszti a 87/2015. (IV. 9.) Korm. rendelet 8. § (5) és (6) bekezdése.
+15. §[^15]
+
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

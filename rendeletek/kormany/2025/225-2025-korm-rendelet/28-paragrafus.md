@@ -1,3 +1,3 @@
-28. § Az Szkr. a következő 301/A. §-sal egészül ki:
+28. §[^28]
 
-„301/A. § A nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény bármely tantárgyának, kurzusának, moduljának (a továbbiakban: felsőoktatási tárgy) zárt rendszerű távoktatási képzésmenedzsment rendszerben elérhető digitális tananyagát úgy kell tekinteni a felnőttképzési mikrotanúsítványt adó képzések esetében, hogy rajta van a szakképzési tankönyvjegyzéken. A szakképzési tankönyv megnevezéseként a felsőoktatási tárgy zárt rendszerű távoktatási képzésmenedzsment rendszerben elérhető digitális tananyagának mikrotanúsítványon szereplő megnevezéseként a felsőoktatási tárgy nevét, továbbá a szakképzési tankönyv nyilvántartásba vételi számaként a felsőoktatási tárgy felsőoktatási tanulmányi rendszer szerinti azonosítóját kell érteni.”
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

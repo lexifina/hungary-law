@@ -1,1 +1,3 @@
-13. § A 87/2015. (IV. 9.) Korm. rendelet 4. melléklete az 1. melléklet szerint módosul.
+13. §[^13]
+
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

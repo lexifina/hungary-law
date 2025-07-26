@@ -1,3 +1,3 @@
-17. § Az Fvhr. 34. §-a a következő (4) bekezdéssel egészül ki:
+17. §[^17]
 
-„(4) A Kormány a mikrotanúsítványok nyilvántartásának tekintetében felnőttképzési államigazgatási szervként a Nemzeti Szakképzési és Felnőttképzési Hivatalt jelöli ki.”
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

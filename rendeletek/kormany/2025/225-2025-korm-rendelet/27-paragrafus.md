@@ -1,3 +1,3 @@
-27. § Az Szkr. 180. §-a a következő (10) bekezdéssel egészül ki:
+27. §[^27]
 
-„(10) A szakképző intézmény szakmai programja mikrotanúsítvány kiadásához kapcsolódó tantárgy esetén tartalmazza a mikrotanúsítvány kiadásához szükséges tanulási eredmény százalékos értékét. E tantárgy eredménye az ösztöndíjszámítás alapjául szolgáló tanulmányi átlagba nem számít bele.”
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
