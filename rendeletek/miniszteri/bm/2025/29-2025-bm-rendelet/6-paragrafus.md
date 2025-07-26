@@ -1,28 +1,37 @@
 6. § Az Nmr.
 
-a)[^1]
+a)[^6]
 
-b)[^2]
+b)[^7]
 
-c) 2. számú melléklet II. Rész I. alcím 1. pontjában az „addiktológiai konzultáns” szövegrész helyébe az „addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns, interdiszciplináris családtudományi szakember” szöveg,
+c)[^8]
 
-d) 2. számú melléklet II. Rész I. alcím 1/a. pont „esetmenedzser/szociális diagnózist készítő esetmenedzser” sorában a „szakos pedagógus” szövegrész helyébe a „szakos pedagógus, addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns, ritka beteg életút koordinátor, interdiszciplináris családtudományi szakember” szöveg,
+d)[^9]
 
-e) 2. számú melléklet II. Rész I. alcím 1/a. pont „tanácsadó” sorában a „gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns” szövegrész helyébe a „gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns, ritka beteg életút koordinátor, interdiszciplináris családtudományi szakember” szöveg,
+e)[^10]
 
-f) 2. számú melléklet II. Rész I. alcím 1/a. pont „óvodai és iskolai szociális segítő” sorában a „szakos pedagógus” szövegrész helyébe a „szakos pedagógus, addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns” szöveg,
+f)[^11]
 
-g) 2. számú melléklet II. Rész I. alcím 6. pont „családgondozó” sorában a „szabadidő-szervező tanár” szövegrész helyébe a „szabadidő-szervező tanár, addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns” szöveg,
+g)[^12]
 
-h) 2. számú melléklet II. Rész I. alcím 7. pont a) alpont „családgondozó” sorában a „szabadidő-szervező tanár” szövegrész helyébe a „szabadidő-szervező tanár, addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns” szöveg,
+h)[^13]
 
-i) 2. számú melléklet II. Rész I. alcím 7. pont a) alpont „fejlesztő pedagógiai tanácsadó” sorában a „szakképzettség” szövegrész helyébe a „szakképzettség, ritka beteg életút koordinátor” szöveg,
+i)[^14]
 
-j) 2. számú melléklet II. Rész I. alcím 7. pont b) alpont „családgondozó” sorában a „szabadidő-szervező tanár” szövegrész helyébe a „szabadidő-szervező tanár, addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns” szöveg,
+j)[^15]
 
-k) 2. számú melléklet II. Rész I. alcím 7. pont c) alpont „családgondozó” sorában a „szabadidő-szervező tanár” szövegrész helyébe a „szabadidő-szervező tanár, addiktológiai konzultáns, gyermek- és ifjúságaddiktológiai konzultáns, gyermek- és ifjúságmentálhigiénés konzultáns” szöveg
+k)[^16]
 
 lép.
 
-[^1]: A 6. § a) pontja a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^2]: A 6. § b) pontja a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^6]: A 6. § a) pontja a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^7]: A 6. § b) pontja a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^8]: A 6. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 6. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 6. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 6. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,13 +1,3 @@
-## „m) szakmai egység: önálló szakmai irányítás alatt álló szervezeti egység.”
+8. §[^18]
 
-8. § (1) Az R. 104. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az utcai szociális munkát végző szolgáltató, intézmény a (2) bekezdés szerinti feladatokat legalább munkanapokon, legalább napi 6 órában végzi a szolgáltatói nyilvántartásban meghatározott ellátási területen, ideértve az ellátási területen életvitelszerűen élőknek az ellátási területen kívüli intézményi vagy egyéb szolgáltatásokhoz, és az ellátási területen kívül életvitelszerűen élőknek az ellátási területen lévő intézményekbe vagy szolgáltatásokhoz történő hozzáférésének biztosítását is. Az utcai szociális munkát végző szolgáltatók működési idejét a diszpécserszolgálatokkal történt egyeztetést követően, úgy kell megszervezni – a megállapodásban rögzítettek szerint –, hogy az megfeleljen az ellátási terület szükségleteinek.”
-
-(2) Az R. 104. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az utcai szociális munkát végző szolgáltató téli időszakban az életet és testi épséget veszélyeztető időjárási körülmények között – így különösen vörös kód kiadása vagy egyéb rendkívüli időjárási körülmény esetén – gondoskodik arról, hogy 18.00–22.00 óra között – szükség esetén a krízisautó szolgálat bevonásával – a közterületi bejelentésekre haladéktalanul reagálhasson. Egymással szomszédos vagy közös ellátási területtel rendelkező utcai szociális munkát végző szolgáltatók az ellátási terület speciális igényeit figyelembe véve, az illetékes diszpécserszolgálattal közösen megállapodhatnak úgy, hogy ezt a szolgáltatást az adott napon csak az egyik szolgáltató biztosítja valamennyi érintett szolgáltató ellátási területén.”
-
-(3) Az R. 104. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az utcai szociális munkát végző szolgáltatók, intézmények tevékenységüket összehangolják az ellátási területükön, illetve az azzal szomszédos ellátási területeken működő más utcai szociális munkát végző szolgáltatókkal, intézményekkel, valamint az illetékes diszpécserszolgálattal. A diszpécserszolgálattal történő együttműködéssel kapcsolatos kérdéseket – a feladatok, a vállalt kötelezettségek és a közterületen töltött ellátási időszakok meghatározásával – együttműködési megállapodásban kell rögzíteni. Az együttműködési megállapodásban a jogszabályi rendelkezésektől nem lehet eltérni, a jogszabályi feltételeket a szolgálatoknak külön-külön kell teljesíteniük. Ha az ellátási területen több szolgálat működik, a közterületen töltött ellátási időszakokat úgy kell megszervezni, hogy azok minél kevésbé fedjék egymást. Ha az ellátási terület igényei ezt indokolják, az egymással szomszédos vagy közös ellátási területtel rendelkező utcai szociális munkát végző szolgáltatók működési idejét úgy kell meghatározni, hogy egyidejűleg valamennyi érintett ellátási területen egy szolgálat gondoskodjon a közterületen élő emberekkel kapcsolatos feladatok ellátásáról.”
+[^18]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

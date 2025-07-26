@@ -1,3 +1,5 @@
 ## 5. A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet módosítása
 
-16. § A szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. melléklet X. pontjában foglalt táblázat B:3 mezőjében a „nyelvvizsga” szövegrész helyébe a „nyelvvizsga vagy B1 szintű jelnyelvi tudást igazoló tanúsítvány” szöveg lép.
+16. §[^32]
+
+[^32]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

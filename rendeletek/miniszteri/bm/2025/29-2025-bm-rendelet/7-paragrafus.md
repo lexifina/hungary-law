@@ -1,5 +1,5 @@
 ## 2. A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet módosítása
 
-7. § A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet (a továbbiakban: R.) 2. §-a a következő m) ponttal egészül ki:
+7. §[^17]
 
-(E rendelet alkalmazásában)
+[^17]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

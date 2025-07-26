@@ -14,6 +14,6 @@
 
 ## 1. A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosítása
 
-1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: Nmr.) 4/A. § (1) bekezdése a következő j) ponttal egészül ki:
+1. §[^1]
 
-(A gyermekjóléti, gyermekvédelmi szolgáltató, intézmény szakmai programjának tartalmaznia kell)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
