@@ -1,9 +1,3 @@
-## „b) a Közigazgatási és Területfejlesztési Minisztérium birtokában lévő adatbázisként funkcionáló integrált hatósági rendszer”
+5. §[^6]
 
-## (képezi.)
-
-5. § Az R1. IV. Fejezet címe helyébe a következő fejezetcím lép:
-
-„IV. Fejezet
-
-A BEJELENTÉS ALAPJÁN LÉTESÍTHETŐ, ÜZEMELTETHETŐ ÉS MEGSZÜNTETHETŐ MEZŐGAZDASÁGI CÉLÚ KUTAKRA VONATKOZÓ ELJÁRÁSI RENDELKEZÉSEK”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

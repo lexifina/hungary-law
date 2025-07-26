@@ -1,3 +1,3 @@
-4. § Az R1. 23/A. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(A VIZEK rendszert mint elektronikus szakrendszert)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

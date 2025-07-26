@@ -18,18 +18,6 @@
 
 ## 1. A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet módosítása
 
-1. § A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet (a továbbiakban: R1.) 1/E. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a)–(1c) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1) A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során a tényállás tisztázása érdekében tartott közmeghallgatás helyéről, valamint idejéről legalább öt nappal korábban hirdetményi úton értesíti az érintetteket. Ha a közmeghallgatás valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján történik, akkor annak módjáról és elérhetőségéről is tájékoztatja az érintetteket.
-
-(1a) A közmeghallgatás az érintettek személyes megjelenése nélkül,
-
-a) a különböző helyszínen jelen lévők között, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján vagy
-
-b) honlapon való közzététel útján
-
-is megtartható.
-
-(1b) A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra és kérdésre a közmeghallgatáson vagy legkésőbb a közmeghallgatást követő tizenöt napon belül választ kell adni.
-
-(1c) A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt, így a helyi műsorszóró szolgáltatást, a hirdetményi vagy a közösségi felületeket is igénybe veheti.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

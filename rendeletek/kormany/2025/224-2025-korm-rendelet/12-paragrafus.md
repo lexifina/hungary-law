@@ -1,7 +1,3 @@
-12. § Hatályát veszti az R2.
+12. §[^13]
 
-a) II., III. és VI. fejezete,
-
-b) 46. §-a,
-
-c) 1–3. melléklete.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
