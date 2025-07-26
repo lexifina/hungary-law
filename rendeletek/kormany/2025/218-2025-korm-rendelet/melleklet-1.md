@@ -1,13 +1,3 @@
-1. melléklet a 218/2025. (VII. 24.) Korm. rendelethez
+1. melléklet a 218/2025. (VII. 24.) Korm. rendelethez[^5]
 
-Az R. 2. mellékletében foglalt táblázat a következő 105. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-„
-
-| 105. | Északnyugat-magyarországi Általános Olimpiai Központ (Tatai Edzőtábor) fejlesztése | Tata város belterület 3308/1 helyrajzi számú ingatlan | Komárom-Esztergom Vármegyei Kormányhivatalt vezető főispán |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
