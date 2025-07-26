@@ -1,1 +1,3 @@
-17. § Hatályát veszti a szolgálati fegyvernek a polgári nemzetbiztonsági szolgálatoknál történő rendszeresítéséről, viseléséről, használatáról és tárolásáról szóló 5/1999. (X. 27.) TNM rendelet.
+17. §[^1]
+
+[^1]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
