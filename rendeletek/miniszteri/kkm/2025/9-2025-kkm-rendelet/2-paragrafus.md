@@ -1,3 +1,3 @@
-2. § A 10/2017. (VIII. 7.) KKM rendelet a következő 13. §-sal egészül ki:
+2. §[^3]
 
-„13. § E rendeletnek a külképviselet által foglalkoztatott munkavállalóval és a külképviselet által foglalkoztatott házastárssal kötött munkaszerződés részletes szabályairól szóló 10/2017. (VIII. 7.) KKM rendelet módosításáról szóló 9/2025. (VII. 24.) KKM rendelettel (a továbbiakban: Módr.) megállapított 10. § (1) bekezdését 2025. július 31. napjáig azzal az eltéréssel kell alkalmazni, hogy a számfejtés alapját képező tárgyhónapot megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyam helyett a 2024. december 15. napján érvényes, az MNB által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyamot kell alkalmazni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

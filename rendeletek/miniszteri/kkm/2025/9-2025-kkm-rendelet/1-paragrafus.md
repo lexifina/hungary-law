@@ -2,6 +2,6 @@
 
 ## [2] A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés o) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A külképviselet által foglalkoztatott munkavállalóval és a külképviselet által foglalkoztatott házastárssal kötött munkaszerződés részletes szabályairól szóló 10/2017. (VIII. 7.) KKM rendelet [a továbbiakban: 10/2017. (VIII. 7.) KKM rendelet] 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A házastárs munkavállaló munkabére egész amerikai dollárra kerekítve kerül megállapításra, és a számfejtés alapját képező tárgyhónapot megelőző hónap tizenötödik napján érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos, magyar forintban meghatározott amerikai dollár árfolyamon számolva, egész forintra történő kerekítés mellett kell átszámítani, és ezen forint összeg alapján, forintban kell számfejteni. A munkabért legkésőbb a díjazással érintett tárgyhónapot követő hónap tizenötödik napjáig, forintban kell folyósítani a munkavállaló részére. A házastárs munkavállaló munkabérének kifizetése az általa választott, legfeljebb két – euró, amerikai dollár vagy forint fogadására alkalmas – fizetési számlára történő utalással és az általa meghatározott arányban megosztva történik.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
