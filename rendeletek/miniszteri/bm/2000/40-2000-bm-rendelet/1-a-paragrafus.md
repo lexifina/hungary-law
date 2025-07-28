@@ -18,9 +18,9 @@ h) a hivatásos katasztrófavédelmi szerv központi szerve a saját, a terület
 
 i) az Országos Idegenrendészeti Főigazgatóság a saját dolgozói állománya vonatkozásában,
 
-j) az Országos Vízügyi Főigazgatóság a saját dolgozói állománya vonatkozásában,
+j)[^8]
 
-k) a vízügyi igazgatóságok a saját dolgozói állományuk vonatkozásában,
+k)[^9]
 
 l) a Terrorelhárítási Központ a saját dolgozói állománya vonatkozásában,
 
@@ -31,3 +31,5 @@ m) a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészett
 [^5]: Az 1/A. § d) pontja a 45/2022. (XII. 20.) BM rendelet 18. §-a szerint módosított szöveg.
 [^6]: Az 1/A. § e) pontját a 7/2023. (IV. 20.) MK rendelet 15. § b) pontja hatályon kívül helyezte.
 [^7]: Az 1/A. § f) pontját a 7/2023. (IV. 20.) MK rendelet 15. § b) pontja hatályon kívül helyezte.
+[^8]: Az 1/A. § j) pontját a 16/2025. (V. 29.) BM rendelet 5. §-a hatályon kívül helyezte.
+[^9]: Az 1/A. § k) pontját a 16/2025. (V. 29.) BM rendelet 5. §-a hatályon kívül helyezte.
