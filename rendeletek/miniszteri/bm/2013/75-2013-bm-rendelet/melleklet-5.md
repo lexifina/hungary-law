@@ -6,7 +6,7 @@
 
 ## c) azonosító jellel meghatározott beállóhely esetén 100 Ft/m2.
 
-5. melléklet a 75/2013. (XII. 18.) BM rendelethez[^38]
+5. melléklet a 75/2013. (XII. 18.) BM rendelethez[^44]
 
 |  | A | B |
 
@@ -26,8 +26,8 @@
 
 | 7. | Országos Idegenrendészeti Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
-| 8. | Országos Vízügyi Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
+| 8. |  |  |
 
 | 9. | Terrorelhárítási Központ vezetője | a teljes személyi állomány tekintetében |
 
-[^38]: Az 5. mellékletet a 31/2018. (XII. 19.) BM rendelet 26. §-a iktatta be, szövege a 27/2019. (VI. 28.) BM rendelet 41. § b) pontja, a 15/2023. (VII. 20.) MK rendelet 30. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^44]: Az 5. mellékletet a 31/2018. (XII. 19.) BM rendelet 26. §-a iktatta be, szövege a 27/2019. (VI. 28.) BM rendelet 41. § b) pontja, a 15/2023. (VII. 20.) MK rendelet 30. § (2) bekezdés c) pontja, a 16/2025. (V. 29.) BM rendelet 24. § e) pontja szerint módosított szöveg.

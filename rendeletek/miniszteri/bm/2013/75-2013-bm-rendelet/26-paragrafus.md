@@ -12,17 +12,17 @@ c) a bérlő az általa vagy házastársa (élettársa) által korábban bérelt
 
 (3) A lakásügyi szerv a hozzájárulás megtagadását köteles írásban részletesen megindokolni.
 
-(4)[^31] Az 5. melléklet szerinti vezető az (1) bekezdésben meghatározott feltételtől eltekinthet, ha a méltányolható egyéni körülmények nem ellentétesek a lakásgazdálkodási érdekekkel.
+(4)[^36] Az 5. melléklet szerinti vezető az (1) bekezdésben meghatározott feltételtől eltekinthet, ha a méltányolható egyéni körülmények nem ellentétesek a lakásgazdálkodási érdekekkel.
 
-(5)[^32] Az 5. melléklet szerinti vezető kivételesen mentesítést adhat a (2) bekezdés a) pontjában foglaltak alól, ha a lakás bérlője, használója megfelel az (1) bekezdésben foglalt feltételnek.
+(5)[^37] Az 5. melléklet szerinti vezető kivételesen mentesítést adhat a (2) bekezdés a) pontjában foglaltak alól, ha a lakás bérlője, használója megfelel az (1) bekezdésben foglalt feltételnek.
 
 (6) A lakásügyi szervnek az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvény alapján önkormányzati tulajdonba került lakás esetén a törvény 43. §-ában foglalt rendelkezéseket is figyelembe kell vennie. Más szerv, szervezet, személy tulajdonában álló lakás esetén a helyi lakásügyi szerv és a másik szerv (szervezet, személy) között létrejött megállapodásban kell rendelkezni az elidegenítés lehetőségéről és módjáról, valamint a belügyi szervet az elidegenítéshez való hozzájárulása alapján megillető ellenértékről.
 
-(7)[^33] Ha a bérlő foglalkoztatási helye eltér az általa bérelt lakás tekintetében rendelkezni jogosult belügyi szerv helyétől, a lakás megvásárlása iránti kérelem esetében a lakás tekintetében rendelkezni jogosult belügyi szerv jár el.
+(7)[^38] Ha a bérlő foglalkoztatási helye eltér az általa bérelt lakás tekintetében rendelkezni jogosult belügyi szerv helyétől, a lakás megvásárlása iránti kérelem esetében a lakás tekintetében rendelkezni jogosult belügyi szerv jár el.
 
-(8)[^34] A helyi lakásügyi szerv gazdasági vezetője az (5) bekezdésben foglalt egyedi döntéshez a részletes indoklással ellátott javaslatát a szolgálati út betartásával, az 5. melléklet szerinti vezetőhöz terjeszti fel.
+(8)[^39] A helyi lakásügyi szerv gazdasági vezetője az (5) bekezdésben foglalt egyedi döntéshez a részletes indoklással ellátott javaslatát a szolgálati út betartásával, az 5. melléklet szerinti vezetőhöz terjeszti fel.
 
-[^31]: A 26. § (4) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^32]: A 26. § (5) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^33]: A 26. § (7) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^34]: A 26. § (8) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^36]: A 26. § (4) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^37]: A 26. § (5) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^38]: A 26. § (7) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^39]: A 26. § (8) bekezdése a 31/2018. (XII. 19.) BM rendelet 25. § (2) bekezdésével megállapított szöveg.

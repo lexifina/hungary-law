@@ -16,4 +16,6 @@ b) az sérti a belügyi szerv lakásgazdálkodási érdekét.
 
 (6) Ha a helyi lakásügyi szerv a lakáscsere szerződéshez történő hozzájárulását a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Ltv.), valamint e rendelet rendelkezései vagy a joggal való visszaélés tilalma folytán nem tagadhatja meg, a csere következtében létrejövő új bérleti szerződés feltételeit sem állapíthatja meg terhesebben a cserével megszűnő bérleti szerződés feltételeinél, kivéve, ha ehhez a csere folytán bérleti jogot szerző hozzájárul.
 
-(7) Az (1)–(6) bekezdés rendelkezéseit nem kell alkalmazni a vízügyi igazgatóságok vagyonkezelésében lévő munkaköri szolgálati lakásokra.
+(7)[^24]
+
+[^24]: A 8. § (7) bekezdését a 16/2025. (V. 29.) BM rendelet 24. § b) pontja hatályon kívül helyezte.
