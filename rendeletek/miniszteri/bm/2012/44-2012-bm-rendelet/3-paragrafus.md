@@ -24,15 +24,15 @@ bh) a hivatásos katasztrófavédelmi szerv központi szerve (Belügyminisztéri
 
 bi)[^16] az Országos Idegenrendészeti Főigazgatóság: a saját dolgozói állománya vonatkozásában,
 
-bj) az Országos Vízügyi Főigazgatóság: a saját dolgozói állománya vonatkozásában,
+bj)[^17]
 
-bk) a vízügyi igazgatóságok a saját dolgozói állományuk vonatkozásában,
+bk)[^18]
 
-bl)[^17]
+bl)[^19]
 
 bm) a Terrorelhárítási Központ: a saját dolgozói állománya vonatkozásában,
 
-bn)[^18] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.
+bn)[^20] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.
 
 [^8]: A 2/A. §-t a 31/2018. (XII. 19.) BM rendelet 9. § (3) bekezdése iktatta be.
 [^9]: A 3. § nyitó szövegrésze az 1/2018. (I. 18.) BM rendelet 12. § a) pontja szerint módosított szöveg.
@@ -43,5 +43,7 @@ bn)[^18] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rend�
 [^14]: A 3. § b) pont be) alpontját a 11/2023. (V. 10.) MK rendelet 22. § b) pont bb) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. §-át.
 [^15]: A 3. § b) pont bf) alpontját a 11/2023. (V. 10.) MK rendelet 22. § b) pont bb) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 23. §-át.
 [^16]: A 3. § b) pont bi) alpontja a 35/2018. (XII. 21.) BM rendelet 16. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 26. § a) pontja szerint módosított szöveg.
-[^17]: A 3. § b) pont bl) alpontját az 58/2016. (XII. 22.) BM rendelet 32. § (3) bekezdése hatályon kívül helyezte.
-[^18]: A 3. § b) pont bn) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. § b) pont bj) alpontját a 16/2025. (V. 29.) BM rendelet 20. § a) pontja hatályon kívül helyezte.
+[^18]: A 3. § b) pont bk) alpontját a 16/2025. (V. 29.) BM rendelet 20. § a) pontja hatályon kívül helyezte.
+[^19]: A 3. § b) pont bl) alpontját az 58/2016. (XII. 22.) BM rendelet 32. § (3) bekezdése hatályon kívül helyezte.
+[^20]: A 3. § b) pont bn) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.

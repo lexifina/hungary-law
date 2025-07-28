@@ -1,27 +1,27 @@
-5. § (1)[^37] Annak a dolgozónak a lakásépítése, lakásvásárlása támogatható, akinek magának, házastársának vagy élettársának, valamint kiskorú gyermekének, vele együtt költöző, együtt lakó családtagjának – a (4) bekezdésben foglaltakon kívül – lakástulajdona, lakásra vonatkozó állandó használati joga, haszonélvezeti joga nincs, állami, önkormányzati tulajdonban lévő lakásra vonatkozó bérleti jogviszonya nem áll fenn, vagy a tulajdonában lévő lakást az újabb lakás szerzése érdekében elidegeníti, az állami, önkormányzati tulajdonban lévő lakásra vonatkozó lakásbérleti, lakáshasználati jogviszonyát megszünteti.
+5. § (1)[^39] Annak a dolgozónak a lakásépítése, lakásvásárlása támogatható, akinek magának, házastársának vagy élettársának, valamint kiskorú gyermekének, vele együtt költöző, együtt lakó családtagjának – a (4) bekezdésben foglaltakon kívül – lakástulajdona, lakásra vonatkozó állandó használati joga, haszonélvezeti joga nincs, állami, önkormányzati tulajdonban lévő lakásra vonatkozó bérleti jogviszonya nem áll fenn, vagy a tulajdonában lévő lakást az újabb lakás szerzése érdekében elidegeníti, az állami, önkormányzati tulajdonban lévő lakásra vonatkozó lakásbérleti, lakáshasználati jogviszonyát megszünteti.
 
-(2)[^38] A dolgozó lakásának bővítése, korszerűsítése, akadálymentesítése akkor támogatható, ha a dolgozónak, a házastársának vagy élettársának, kiskorú gyermekének a bővíteni, korszerűsíteni, akadálymentesíteni kívánt lakásán kívül – a (4) bekezdésben foglaltakon kívül – más lakástulajdona, lakásra vonatkozó haszonélvezeti joga, állandó használati joga vagy bérleti jogviszonya nincs.
+(2)[^40] A dolgozó lakásának bővítése, korszerűsítése, akadálymentesítése akkor támogatható, ha a dolgozónak, a házastársának vagy élettársának, kiskorú gyermekének a bővíteni, korszerűsíteni, akadálymentesíteni kívánt lakásán kívül – a (4) bekezdésben foglaltakon kívül – más lakástulajdona, lakásra vonatkozó haszonélvezeti joga, állandó használati joga vagy bérleti jogviszonya nincs.
 
-(3)[^39] E rendelet alkalmazásában a lakástulajdonnal egy tekintet alá esik a dolgozó, illetve a vele együtt költöző, együtt lakó családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési és használatbavételi (fennmaradási) engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
+(3)[^41] E rendelet alkalmazásában a lakástulajdonnal egy tekintet alá esik a dolgozó, illetve a vele együtt költöző, együtt lakó családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési és használatbavételi (fennmaradási) engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
 
-(4)[^40] Támogatást vehet igénybe az a dolgozó is,
+(4)[^42] Támogatást vehet igénybe az a dolgozó is,
 
-a)[^41] aki házastársával vagy élettársával, kiskorú gyermekével, vele együtt költöző, együtt lakó családtagjával együttesen legfeljebb 50%-os tulajdoni hányaddal rendelkezik egy olyan lakásban, amely tulajdonközösség megszüntetése vagy öröklés útján került a tulajdonukba, vagy
+a)[^43] aki házastársával vagy élettársával, kiskorú gyermekével, vele együtt költöző, együtt lakó családtagjával együttesen legfeljebb 50%-os tulajdoni hányaddal rendelkezik egy olyan lakásban, amely tulajdonközösség megszüntetése vagy öröklés útján került a tulajdonukba, vagy
 
-b)[^42] akinek a saját, illetve házastársa vagy élettársa, kiskorú gyermeke, vele együtt költöző, együtt lakó családtagja tulajdonában lévő lakás lebontását a települési önkormányzat jegyzője elrendelte vagy engedélyezte, vagy
+b)[^44] akinek a saját, illetve házastársa vagy élettársa, kiskorú gyermeke, vele együtt költöző, együtt lakó családtagja tulajdonában lévő lakás lebontását a települési önkormányzat jegyzője elrendelte vagy engedélyezte, vagy
 
-c)[^43] akinek, illetve házastársának vagy élettársának, kiskorú gyermekének, vele együtt költöző, együtt lakó családtagjának a lakás öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába és a haszonélvező haszonélvezeti jogával él,
+c)[^45] akinek, illetve házastársának vagy élettársának, kiskorú gyermekének, vele együtt költöző, együtt lakó családtagjának a lakás öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonába és a haszonélvező haszonélvezeti jogával él,
 
-d)[^44] akinek, illetve aki házastársának, élettársának, kiskorú gyermekének vagy a vele együtt költöző, együtt lakó családtagjának olyan lakás van a tulajdonában, amely annak a településnek a 60 km-es körzetén kívül található, ahol a dolgozó munka- vagy szolgálati helye van, és ahová a munkarendnek megfelelő gyakori hazautazása a szolgálati érdeket sértené.
+d)[^46] akinek, illetve aki házastársának, élettársának, kiskorú gyermekének vagy a vele együtt költöző, együtt lakó családtagjának olyan lakás van a tulajdonában, amely annak a településnek a 60 km-es körzetén kívül található, ahol a dolgozó munka- vagy szolgálati helye van, és ahová a munkarendnek megfelelő gyakori hazautazása a szolgálati érdeket sértené.
 
-(5)[^45] Az élettárs a házastárssal egy tekintet alá esik, ha a munkáltatói kölcsönnel épített, vásárolt, bővített, korszerűsített, akadálymentesített lakásra résztulajdont szerez, vagy résztulajdonos.
+(5)[^47] Az élettárs a házastárssal egy tekintet alá esik, ha a munkáltatói kölcsönnel épített, vásárolt, bővített, korszerűsített, akadálymentesített lakásra résztulajdont szerez, vagy résztulajdonos.
 
-[^37]: Az 5. § (1) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (1) bekezdésével megállapított, az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
-[^38]: Az 5. § (2) bekezdése az 1/2018. (I. 18.) BM rendelet 12. § d) pontja szerint módosított szöveg.
-[^39]: Az 5. § (3) bekezdése az 1/2018. (I. 18.) BM rendelet 12. § e) pontja szerint módosított szöveg.
-[^40]: Az 5. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^41]: Az 5. § (4) bekezdés a) pontja az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
-[^42]: Az 5. § (4) bekezdés b) pontja az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
-[^43]: Az 5. § (4) bekezdés c) pontja az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
-[^44]: Az 5. § (4) bekezdés d) pontját az 1/2018. (I. 18.) BM rendelet 4. §-a iktatta be, szövege a 31/2018. (XII. 19.) BM rendelet 11. §-ával megállapított, a 7/2021. (III. 10.) BM rendelet 11. § a) pontja szerint módosított szöveg.
-[^45]: Az 5. § (5) bekezdése az 1/2018. (I. 18.) BM rendelet 12. § f) pontja szerint módosított szöveg.
+[^39]: Az 5. § (1) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (1) bekezdésével megállapított, az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^40]: Az 5. § (2) bekezdése az 1/2018. (I. 18.) BM rendelet 12. § d) pontja szerint módosított szöveg.
+[^41]: Az 5. § (3) bekezdése az 1/2018. (I. 18.) BM rendelet 12. § e) pontja szerint módosított szöveg.
+[^42]: Az 5. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^43]: Az 5. § (4) bekezdés a) pontja az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^44]: Az 5. § (4) bekezdés b) pontja az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^45]: Az 5. § (4) bekezdés c) pontja az 1/2018. (I. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^46]: Az 5. § (4) bekezdés d) pontját az 1/2018. (I. 18.) BM rendelet 4. §-a iktatta be, szövege a 31/2018. (XII. 19.) BM rendelet 11. §-ával megállapított, a 7/2021. (III. 10.) BM rendelet 11. § a) pontja szerint módosított szöveg.
+[^47]: Az 5. § (5) bekezdése az 1/2018. (I. 18.) BM rendelet 12. § f) pontja szerint módosított szöveg.
