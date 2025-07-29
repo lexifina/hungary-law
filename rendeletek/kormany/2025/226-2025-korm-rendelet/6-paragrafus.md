@@ -1,0 +1,1 @@
+6. § A Kormány a nyugdíjas élelmiszer-utalvány felhasználásával kapcsolatos rendelkezések betartását ellenőrző hatóságként, ha a jogsértés a fogyasztóvédelemről szóló törvény szerinti fogyasztót érint, a fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendelet szerinti általános fogyasztóvédelmi hatóságot jelöli ki.
