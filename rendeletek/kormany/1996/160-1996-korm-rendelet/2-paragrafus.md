@@ -1,4 +1,4 @@
-## 2. §[^11] A személy- és létesítményvédelmi feladatok hatékony ellátása érdekében a Terrorelhárítási Központ vagy a Készenléti Rendőrség különösen a következőket hajtja végre:
+2. §[^11] A személy- és létesítményvédelmi feladatok hatékony ellátása érdekében a Terrorelhárítási Központ vagy a Készenléti Rendőrség különösen a következőket hajtja végre:
 
 a)[^12] gyűjti, rendszerezi, ellenőrzi és értékeli a védett személy, a kijelölt létesítmény veszélyeztetettségére vonatkozó, valamint az ellenük irányuló erőszakos cselekmények megelőzését szolgáló adatokat, megteszi a 3. §-ban felsorolt feladatokhoz kapcsolódó megelőző védelmi intézkedéseket.
 

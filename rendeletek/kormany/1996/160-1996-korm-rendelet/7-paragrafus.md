@@ -1,0 +1,3 @@
+7. §[^40] Vasúton, légi és vízi járművön történő utazás esetén a Készenléti Rendőrség, illetve a Terrorelhárítási Központ a vasúttársasággal, a légitársasággal, a vízi jármű üzemeltetőjével, illetve más, az utazás lebonyolításában közreműködő szervezetekkel egyeztetve gondoskodik az útvonal megfelelő ellenőrzéséről és a vasúti, légi, vízi jármű megfelelő biztonságos őrzéséről, közlekedéséről.
+
+[^40]: A 7. § a 63/2010. (III. 18.) Korm. rendelet 12. § a) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja, a 179/2022. (V. 4.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
