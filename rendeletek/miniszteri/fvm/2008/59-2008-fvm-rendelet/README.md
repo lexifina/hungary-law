@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-59-20-8
 | 2020-10-22 | 2008-59-20-82.12 | 48/2020. (X. 7.) AM rendelet |
 | 2021-10-07 | 2008-59-20-82.13 | 32/2021. (IX. 22.) AM rendelet |
 | 2024-05-08 | 2008-59-20-82.14 | 26/2024. (IV. 23.) AM rendelet |
+| 2025-07-30 | 2008-59-20-82.15 | 30/2025. (VII. 22.) AM rendelet |

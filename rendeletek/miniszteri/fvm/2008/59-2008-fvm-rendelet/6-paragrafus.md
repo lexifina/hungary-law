@@ -22,10 +22,21 @@ d) a trágyakijuttatást csak rendszeresen karbantartott munkagépekkel lehet el
 
 (8) Intenzív legeltetéses állattartás esetén szakaszos vagy pásztoroló legeltetést kell alkalmazni kivéve, ha az állattartó telepen az állománysűrűség meghatározásánál a figyelembe veendő állatok száma nem több mint 15 ÁE.
 
-(9) Adott területen betakarítás után a megfelelő talajfedettséget biztosító növény alá csak abban az esetben juttatható ki könnyen oldódó nitrogéntrágya, így különösen hígtrágya, trágyalé, ammónium- és nitráttartalmú műtrágya, ha a trágyázás és vetés közötti időszak a 15 napot nem haladja meg. A kijuttatott hatóanyag nem haladhatja meg a csírázáshoz és az őszi–téli növekedéshez szükséges mennyiséget. Ezen kívül betakarítás után nitrogéntrágyát a szármaradványok lebomlásának elősegítéséhez lehet alkalmazni, legfeljebb a 3. számú melléklet C) pontjában meghatározott mennyiség figyelembevételével.
+(9)[^10] Tilos könnyen oldódó nitrogéntrágyát kijuttatni betakarítás után, kivéve, ha
 
-(10)[^10] Tilos könnyen oldódó nitrogéntrágyát kijuttatni a betakarítás után, ha ősszel nem kerül sor újabb kultúra vetésére.
+a) vetés történik, és a következő feltételek mindegyike teljesül:
+
+aa) a trágyázás és vetés közötti időszak a 15 napot nem haladja meg,
+
+ab) a kijuttatott hatóanyag nem haladja meg a csírázáshoz és az őszi-téli növekedéshez szükséges mennyiséget, és
+
+ac) a vetett növény megfelelő talajfedettséget biztosít, vagy
+
+b) azt – amennyiben nem történik vetés – a 3. számú melléklet C) pontjában meghatározott mennyiség figyelembevételével, a szármaradványok lebomlásának elősegítéséhez alkalmazzák.
+
+(10)[^11]
 
 [^8]: A 6. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 111. §-ával megállapított, a 32/2021. (IX. 22.) AM rendelet 5. § a) pontja szerint módosított szöveg.
 [^9]: A 6. § (4) bekezdése a 32/2021. (IX. 22.) AM rendelet 5. § b) pontja szerint módosított szöveg.
-[^10]: A 6. § (10) bekezdését a 32/2021. (IX. 22.) AM rendelet 3. §-a iktatta be.
+[^10]: A 6. § (9) bekezdése a 30/2025. (VII. 22.) AM rendelet 1. §-ával megállapított szöveg.
+[^11]: A 6. § (10) bekezdését a 32/2021. (IX. 22.) AM rendelet 3. §-a iktatta be, a 30/2025. (VII. 22.) AM rendelet 3. § a) pontja hatályon kívül helyezte.

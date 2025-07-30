@@ -2,79 +2,69 @@
 
 ## maximális értékek
 
-## A) A tenyészidőszak alatt maximálisan kijuttatható N hatóanyag (kg/ha) főbb szántóföldi növények esetén termőhelyenként a talaj tápanyag-ellátottságának függvényében, átlagos termőhelyenkénti átlagtermésre számolva
+## A)[^28] Nitrátérzékeny területen a tápanyag-gazdálkodási számításoknál a főbb növények esetében figyelembe vehető maximális N hatóanyag (kg/ha) értékek
+
+## 1. Őszi búza
 
 |  | A | B | C | D |
 
-| 1. | 1. Őszi búza |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 230 | 210 | 190 |
 
-|  |  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 210 | 200 | 180 |
 
-| 2. | I. mezőségi talajok (csernozjomok) | 190 | 170 | 130 |
+| 4. | III. réti és öntés talajok | 210 | 200 | 180 |
 
-| 3. | II. barna erdőtalajok | 170 | 155 | 125 |
+| 5. | IV. laza és homoktalajok | 170 | 160 | 150 |
 
-| 4. | III. réti és öntés talajok | 170 | 155 | 135 |
-
-| 5. | IV. laza és homoktalajok | 130 | 120 | 110 |
+## 2. Kukorica
 
 |  | A | B | C | D |
 
-| 1. | 2. Kukorica |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 230 | 210 | 180 |
 
-|  |  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 230 | 190 | 180 |
 
-| 2. | I. mezőségi talajok (csernozjomok) | 190 | 170 | 150 |
+| 4. | III. réti és öntés talajok | 220 | 190 | 170 |
 
-| 3. | II. barna erdőtalajok | 190 | 160 | 150 |
+| 5. | IV. laza és homoktalajok | 180 | 160 | 150 |
 
-| 4. | III. réti és öntés talajok | 180 | 160 | 140 |
-
-| 5. | IV. laza és homoktalajok | 150 | 130 | 120 |
+## 3. Őszi árpa
 
 |  | A | B | C | D |
 
-| 1. | 3. Őszi árpa |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 190 | 170 | 120 |
 
-|  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 180 | 150 | 110 |
 
-| 2. | I. mezőségi talajok (csernozjomok) | 160 | 140 | 100 |
+| 4. | III. réti és öntés talajok | 160 | 130 | 110 |
 
-| 3. | II. barna erdőtalajok | 150 | 125 | 90 |
+| 5. | IV. laza és homoktalajok | 130 | 120 | 100 |
 
-| 4. | III. réti és öntés talajok | 135 | 110 | 90 |
-
-| 5. | IV. laza és homoktalajok | 110 | 100 | 80 |
+## 4. Napraforgó
 
 |  | A | B | C | D |
 
-| 1. | 4. Napraforgó |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 120 | 110 | 90 |
 
-|  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 110 | 95 | 80 |
 
-| 2. | I. mezőségi talajok (csernozjomok) | 110 | 100 | 80 |
+| 4. | III. réti és öntés talajok | 100 | 85 | 60 |
 
-| 3. | II. barna erdőtalajok | 100 | 85 | 70 |
+| 5. | IV. laza és homoktalajok | 85 | 80 | 70 |
 
-| 4. | III. réti és öntés talajok | 90 | 75 | 50 |
-
-| 5. | IV. laza és homoktalajok | 75 | 70 | 60 |
+## 5. Burgonya
 
 |  | A | B | C | D |
 
-| 1. | 5. Burgonya |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-|  |  | N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 180 | 170 | 160 |
 
@@ -82,41 +72,35 @@
 
 | 4. | IV. laza és homoktalajok | 180 | 150 | 140 |
 
-|  | A | B | C | D |
-
-| 1. | 6. Repce |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-|  | N ellátottságú talajon |
-
-| 2. | I. mezőségi talajok (csernozjomok) | 190 | 180 | 160 |
-
-| 3. | II. barna erdőtalajok | 180 | 170 | 150 |
-
-| 4. | III. réti és öntés talajok | 170 | 160 | 140 |
+## 6. Repce
 
 |  | A | B | C | D |
 
-| 1. | 7. Cukorrépa |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 230 | 210 | 200 |
 
-|  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 210 | 200 | 180 |
 
-| 2. | I. mezőségi talajok (csernozjomok) | 165 | 150 | 120 |
+| 4. | III. réti és öntés talajok | 200 | 190 | 170 |
 
-| 3. | II. barna erdőtalajok | 150 | 130 | 110 |
-
-| 4. | III. réti és öntés talajok | 150 | 130 | 110 |
+## 7. Cukorrépa
 
 |  | A | B | C | D |
 
-| 1. | 8. Borsó |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 200 | 180 | 140 |
 
-|  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 180 | 160 | 130 |
+
+| 4. | III. réti és öntés talajok | 180 | 160 | 130 |
+
+## 8. Borsó
+
+|  | A | B | C | D |
+
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 120 | 100 | 80 |
 
@@ -124,13 +108,11 @@
 
 | 4. | III. réti és öntés talajok | 110 | 90 | 70 |
 
+## 9. Szója
+
 |  | A | B | C | D |
 
-| 1. | 9. Szója |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-|  | N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 110 | 100 | 80 |
 
@@ -138,29 +120,25 @@
 
 | 4. | III. réti és öntés talajok | 100 | 90 | 80 |
 
-|  | A | B | C | D |
-
-| 1. | 10. Silókukorica |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-|  | N ellátottságú talajon |
-
-| 2. | I. mezőségi talajok (csernozjomok) | 165 | 145 | 125 |
-
-| 3. | II. barna erdőtalajok | 175 | 155 | 135 |
-
-| 4. | III. réti és öntés talajok | 165 | 145 | 125 |
-
-| 5. | IV. laza és homoktalajok | 145 | 125 | 105 |
+## 10. Silókukorica
 
 |  | A | B | C | D |
 
-| 1. | 11. Lucernaszéna |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 220 | 200 | 180 |
 
-|  | N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 210 | 190 | 170 |
+
+| 4. | III. réti és öntés talajok | 200 | 180 | 160 |
+
+| 5. | IV. laza és homoktalajok | 175 | 160 | 140 |
+
+## 11. Lucernaszéna
+
+|  | A | B | C | D |
+
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 120 | 100 | 70 |
 
@@ -170,27 +148,23 @@
 
 | 5. | IV. laza és homoktalajok | 80 | 60 | 50 |
 
-|  | A | B | C | D |
-
-| 1. | 12. Tavaszi árpa |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
-
-| 2. | I. mezőségi talajok (csernozjomok) | 110 | 90 | 80 |
-
-| 3. | II. barna erdőtalajok | 110 | 90 | 80 |
-
-| 4. | III. réti és öntés talajok | 100 | 80 | 70 |
+## 12. Tavaszi árpa
 
 |  | A | B | C | D |
 
-| 1. | 13. Tritikále |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 130 | 110 | 100 |
 
-| N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 130 | 110 | 100 |
+
+| 4. | III. réti és öntés talajok | 120 | 100 | 90 |
+
+## 13. Tritikále
+
+|  | A | B | C | D |
+
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 130 | 110 | 100 |
 
@@ -200,13 +174,11 @@
 
 | 5. | IV. laza és homoktalajok | 120 | 100 | 90 |
 
+## 14. Zab
+
 |  | A | B | C | D |
 
-| 1. | 14. Zab |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 190 | 160 | 150 |
 
@@ -216,49 +188,41 @@
 
 | 5. | IV. laza és homoktalajok | 130 | 110 | 100 |
 
-|  | A | B | C | D |
-
-| 1. | 15. Cirok |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
-
-| 2. | I. mezőségi talajok (csernozjomok) | 250 | 220 | 200 |
-
-| 3. | II. barna erdőtalajok | 160 | 140 | 130 |
-
-| 4. | III. réti és öntés talajok | 190 | 160 | 150 |
-
-| 5. | IV. laza és homoktalajok | 190 | 160 | 150 |
+## 15. Cirok
 
 |  | A | B | C | D |
 
-| 1. | 16. Rozs |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
-| termőhelyi kategória | gyenge | közepes | jó |
+| 2. | I. mezőségi talajok (csernozjomok) | 300 | 260 | 250 |
 
-| N ellátottságú talajon |
+| 3. | II. barna erdőtalajok | 190 | 180 | 160 |
+
+| 4. | III. réti és öntés talajok | 240 | 200 | 180 |
+
+| 5. | IV. laza és homoktalajok | 240 | 200 | 180 |
+
+## 16. Rozs
+
+|  | A | B | C | D |
+
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | IV. laza és homoktalajok | 100 | 90 | 80 |
 
+## 17. Vöröshere
+
 |  | A | B | C | D |
 
-| 1. | 17. Vöröshere |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | II. barna erdőtalajok | 100 | 80 | 60 |
 
+## 18. Dohány
+
 |  | A | B | C | D |
 
-| 1. | 18. Dohány |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 140 | 120 | 110 |
 
@@ -268,13 +232,11 @@
 
 | 5. | IV. laza és homoktalajok | 120 | 100 | 90 |
 
+## 19. Fűszerpaprika
+
 |  | A | B | C | D |
 
-| 1. | 19. Fűszerpaprika |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 260 | 230 | 220 |
 
@@ -284,13 +246,11 @@
 
 | 5. | IV. laza és homoktalajok | 240 | 220 | 200 |
 
+## 20. Energiafű
+
 |  | A | B | C | D |
 
-| 1. | 20. Energiafű |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 240 | 210 | 200 |
 
@@ -300,13 +260,11 @@
 
 | 5. | IV. laza és homoktalajok | 190 | 160 | 150 |
 
+## 21. Karfiol
+
 |  | A | B | C | D |
 
-| 1. | 21. Karfiol |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 270 | 230 | 210 |
 
@@ -316,13 +274,11 @@
 
 | 5. | IV. laza és homoktalajok | 180 | 150 | 140 |
 
+## 22. Káposzta
+
 |  | A | B | C | D |
 
-| 1. | 22. Káposzta |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 240 | 190 | 170 |
 
@@ -332,13 +288,11 @@
 
 | 5. | IV. laza és homoktalajok | 200 | 160 | 140 |
 
+## 23. Spárga
+
 |  | A | B | C | D |
 
-| 1. | 23. Spárga |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 270 | 250 | 240 |
 
@@ -348,13 +302,11 @@
 
 | 5. | IV. laza és homoktalajok | 220 | 200 | 190 |
 
+## 24. Paradicsom
+
 |  | A | B | C | D |
 
-| 1. | 24. Paradicsom |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 280 | 250 | 230 |
 
@@ -364,13 +316,11 @@
 
 | 5. | IV. laza és homoktalajok | 230 | 200 | 190 |
 
+## 25. Uborka
+
 |  | A | B | C | D |
 
-| 1. | 25. Uborka |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 250 | 240 | 230 |
 
@@ -380,13 +330,11 @@
 
 | 5. | IV. laza és homoktalajok | 200 | 190 | 190 |
 
+## 26. Görögdinnye
+
 |  | A | B | C | D |
 
-| 1. | 26. Görögdinnye |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 290 | 270 | 260 |
 
@@ -396,13 +344,11 @@
 
 | 5. | IV. laza és homoktalajok | 260 | 250 | 240 |
 
+## 27. Paprika
+
 |  | A | B | C | D |
 
-| 1. | 27. Paprika |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 240 | 220 | 210 |
 
@@ -412,13 +358,11 @@
 
 | 5. | IV. laza és homoktalajok | 230 | 210 | 200 |
 
+## 28. Sárgarépa
+
 |  | A | B | C | D |
 
-| 1. | 28. Sárgarépa |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 200 | 170 | 160 |
 
@@ -428,13 +372,11 @@
 
 | 5. | IV. laza és homoktalajok | 170 | 150 | 140 |
 
+## 29. Hagyma
+
 |  | A | B | C | D |
 
-| 1. | 29. Hagyma |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 180 | 170 | 160 |
 
@@ -444,13 +386,11 @@
 
 | 5. | IV. laza és homoktalajok | 160 | 140 | 130 |
 
+## 30. Zöldborsó
+
 |  | A | B | C | D |
 
-| 1. | 30. Zöldborsó |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 150 | 120 | 110 |
 
@@ -460,13 +400,11 @@
 
 | 5. | IV. laza és homoktalajok | 100 | 90 | 80 |
 
+## 31. Zöldbab
+
 |  | A | B | C | D |
 
-| 1. | 31. Zöldbab |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 170 | 150 | 140 |
 
@@ -476,13 +414,11 @@
 
 | 5. | IV. laza és homoktalajok | 130 | 110 | 100 |
 
+## 32. Csemege kukorica
+
 |  | A | B | C | D |
 
-| 1. | 32. Csemege kukorica |
-
-| termőhelyi kategória | gyenge | közepes | jó |
-
-| N ellátottságú talajon |
+| 1. | termőhelyi kategória | gyenge N ellátottságú talajon | közepes N ellátottságú talajon | jó N ellátottságú talajon |
 
 | 2. | I. mezőségi talajok (csernozjomok) | 270 | 260 | 250 |
 
@@ -540,6 +476,7 @@
 
 ## (2) VI. szántóföldi termőhely: sekély termőrétegű, erodált talajok
 
-4. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^26]
+4. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^29]
 
-[^26]: A 4. számú melléklet a 147/2012. (XII. 27.) VM rendelet 6. §-a szerint módosított szöveg.
+[^28]: A 3. melléklet A) pontja a 30/2025. (VII. 22.) AM rendelet 2. §-ával megállapított szöveg.
+[^29]: A 4. számú melléklet a 147/2012. (XII. 27.) VM rendelet 6. §-a szerint módosított szöveg.

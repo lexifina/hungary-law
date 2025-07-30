@@ -1,4 +1,4 @@
-1. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^23]
+1. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^25]
 
 Trágyák átlagos beltartalmi értékei keletkezéskor és kijuttatáskor
 
@@ -24,4 +24,4 @@ Trágyák átlagos beltartalmi értékei keletkezéskor és kijuttatáskor
 
 (2) Mélyalmos tartástechnológia során keletkező istállótrágya
 
-[^23]: Az 1. melléklet a 147/2012. (XII. 27.) VM rendelet 3. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet a 147/2012. (XII. 27.) VM rendelet 3. §-ával megállapított szöveg.

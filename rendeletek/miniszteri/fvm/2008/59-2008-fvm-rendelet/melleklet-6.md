@@ -170,7 +170,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^28]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^31]
 
 A vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmével kapcsolatos nyilvántartás személyes adatok körébe nem tartozó adattartalma
 
@@ -316,4 +316,4 @@ A vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmével kap
 
 8.9. az állományváltozás okai havi bontásban (hó eleji létszám, szaporulat, vétel, átminősítés, elhullás, kényszervágás, értékesítés saját fogyasztásra, értékesítés továbbtartásra, értékesítés vágásra, átminősítés, selejtezés, hóvégi záró létszám).
 
-[^28]: A 6. számú mellékletet a 48/2020. (X. 7.) AM rendelet 3. § b) pontja hatályon kívül helyezte, újonnan a 26/2024. (IV. 23.) AM rendelet 4. §-a iktatta be.
+[^31]: A 6. számú mellékletet a 48/2020. (X. 7.) AM rendelet 3. § b) pontja hatályon kívül helyezte, újonnan a 26/2024. (IV. 23.) AM rendelet 4. §-a iktatta be.
