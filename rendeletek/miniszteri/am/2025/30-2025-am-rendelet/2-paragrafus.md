@@ -1,1 +1,3 @@
-2. § Az 59/2008. (IV. 29.) FVM rendelet 3. számú melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-3. § Hatályát veszti az 59/2008. (IV. 29.) FVM rendelet
+3. §[^4]
 
-a) 6. § (10) bekezdése,
-
-b) 10. § (8) bekezdése.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
