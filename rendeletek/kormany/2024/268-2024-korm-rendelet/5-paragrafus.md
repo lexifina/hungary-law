@@ -1,3 +1,0 @@
-5. § (1) Ha Társaság nem tesz eleget a jogszabályi kötelezettségeinek, a Hivatal a VET 39/E. § (2) bekezdésének megfelelő alkalmazásával az elosztói engedélyes kérelmére átmenetileg kijelölheti az elosztói engedélyest a Magánvezeték üzemeltetésére.
-
-(2) A Társaságnak az elosztói engedélyes által nyújtott, az (1) bekezdésben foglaltakkal összefüggő és az elosztói engedélyes részére az elosztói engedélyesnek nem felróható okból máshonnan meg nem térülő költségeit a Hivatal figyelembe veszi a VET 99. § (2) bekezdése szerinti díjmegállapítási eljárása, és a VET 99. § (7) bekezdése szerinti elszámolási szabályok meghatározása során.
