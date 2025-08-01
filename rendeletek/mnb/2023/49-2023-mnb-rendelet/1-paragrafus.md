@@ -1,11 +1,9 @@
-1. § (1) A kötelező jegybanki tartalék kiszámításáról, illetve képzésének és elhelyezésének módjáról szóló 10/2005. (VI. 11.) MNB rendelet (a továbbiakban: Tartalékrendelet)
+1. §[^1] (1) A Magyar Nemzeti Bank (a továbbiakban: MNB) a kötelező jegybanki tartalék kiszámításáról, illetve képzésének és elhelyezésének módjáról szóló 10/2005. (VI. 11.) MNB rendelet (a továbbiakban: Tartalékrendelet) 3. § (2) bekezdése szerinti kötelező tartalék összege után, a Tartalékrendelet 3. § (1) bekezdés e) pontjában meghatározott tartalékköteles forrás 2,5%-ának megfelelő mértékéig kamatot nem fizet.
 
-a) 5. § (1) bekezdés d) pontja szerint elhelyezett kötelező tartalék összege után – a betétre fizetendő kamaton túl –,
+(2) Az (1) bekezdésben foglaltakat meghaladó kötelezőtartalék-teljesítés után az MNB a jegybanki alapkamattal egyező mértékű kamatot fizet.
 
-b)[^1] szerinti kötelező tartalék Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti betéttel csökkentett összegének 25%-a után
+(3) A Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti eszközben elhelyezett kötelező tartalék összege – annak a Tartalékrendelet 3. § (2) bekezdése szerinti kötelező tartalék összegéhez viszonyított arányában – csökkenti az (1) és (2) bekezdésben meghatározott kötelező tartalék összegét.
 
-a Magyar Nemzeti Bank (a továbbiakban: MNB) kamatot nem fizet.
+(4) Az MNB a Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti eszközben elhelyezett kötelező tartalék után – a betétre fizetendő kamaton túl – kamatot nem fizet.
 
-(2) A kötelező tartalék Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti betéttel csökkentett összegének az (1) bekezdés b) pontjában meghatározott mértékét meghaladó összege után az MNB jegybanki alapkamatot fizet.
-
-[^1]: Az 1. § (1) bekezdés b) pontja a 7. § (2) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § a 22/2025. (VII. 22.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
