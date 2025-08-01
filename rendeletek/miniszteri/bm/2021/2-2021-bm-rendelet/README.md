@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-2-20-0A
 | 2021-03-02 | 2021-2-20-0A.4 | 2010: CXXX. törvény |
 | 2023-07-01 | 2021-2-20-0A.5 | 24/2023. (VI. 30.) BM rendelet |
 | 2024-01-01 | 2021-2-20-0A.6 | 69/2023. (XII. 22.) BM rendelet |
+| 2025-08-01 | 2021-2-20-0A.7 | 14/2025. (VII. 31.) MK rendelet |

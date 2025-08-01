@@ -1,4 +1,4 @@
-24. § (1)[^16] A hivatásos állomány tagja a FÜV bizottság előtt köteles személyesen megjelenni. A FÜV bizottság a meglévő orvosi dokumentáció alapján dönt, ha az érintett betegsége, sérülése miatt járó-, illetve mozgásképtelen, utaztatása esetén egészségi állapotában romlás következne be, és a meglévő egészségügyi dokumentációból az egészségi állapota megítélhető. A FÜV bizottság a meglévő orvosi dokumentáció alapján dönt akkor is, ha a hivatásos állomány FÜV bizottság elé berendelt tagja a FÜV bizottság előtt önhibájából nem jelenik meg.
+24. § (1)[^17] A hivatásos állomány tagja a FÜV bizottság előtt köteles személyesen megjelenni. A FÜV bizottság a meglévő orvosi dokumentáció alapján dönt, ha az érintett betegsége, sérülése miatt járó-, illetve mozgásképtelen, utaztatása esetén egészségi állapotában romlás következne be, és a meglévő egészségügyi dokumentációból az egészségi állapota megítélhető. A FÜV bizottság a meglévő orvosi dokumentáció alapján dönt akkor is, ha a hivatásos állomány FÜV bizottság elé berendelt tagja a FÜV bizottság előtt önhibájából nem jelenik meg.
 
 (2) A hivatásos állomány tagja a FÜV bizottság előtti távolmaradása esetén nyolc napon belül igazolással élhet, ebben az esetben új időpontot kell kitűzni. Ha az ismételten kitűzött időpontban sem jelenik meg a vizsgálattal érintett személy, igazolásnak nincs helye, ebben az esetben a személyes megjelenése nélkül, a rendelkezésre álló iratok alapján dönt a FÜV bizottság.
 
@@ -10,4 +10,4 @@
 
 (6) A FÜV határozat egy eredeti példányát mellékleteivel együtt a felülvizsgáló egység irattárában kell elhelyezni.
 
-[^16]: A 24. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 54. § c) pontja szerint módosított szöveg.
+[^17]: A 24. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 54. § c) pontja szerint módosított szöveg.
