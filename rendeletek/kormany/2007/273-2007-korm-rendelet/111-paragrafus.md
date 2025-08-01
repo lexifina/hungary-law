@@ -1,3 +1,3 @@
-111. §[^471]
+111. §[^488]
 
-[^471]: A Vhr. 111. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.
+[^488]: A Vhr. 111. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.

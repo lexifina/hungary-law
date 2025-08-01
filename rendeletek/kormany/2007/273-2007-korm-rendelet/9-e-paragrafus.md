@@ -1,4 +1,4 @@
-## Termelői Csatlakozási Bizottság[^83]
+## Termelői Csatlakozási Bizottság[^101]
 
 9/E. § (1) Az energiapolitikáért felelős miniszter a VET 35/A. § (2) bekezdésében meghatározott feladata végrehajtása és a meghatározott szakpolitikai szempontok összehangolása céljából Termelői Csatlakozási Bizottságot (a továbbiakban: Bizottság) működtet.
 
@@ -38,4 +38,4 @@ l) az átviteli és elosztó hálózati engedélyesek
 
 (6) A Bizottság feladata, hogy javaslatot tegyen az energiapolitikáért felelős miniszternek a VET 35/A. § (1) bekezdés szerinti pályázatban kiírható szabad kapacitások mértékére és a csatlakozás legkorábbi időpontjának meghatározására járásonként és technológiánként lebontva. A Bizottság a feladata ellátásához szükséges, a hálózati engedélyesek közreműködésének részletes szabályait a közép- és nagyfeszültségű hálózatokon elérhető szabad kapacitások kiosztására irányuló pályázati kiírás feltételeiről, a pályázat minimális tartalmi követelményeiről, valamint a pályázati eljárás szabályairól szóló miniszter rendelet állapítja meg.
 
-[^83]: A Vhr. „Termelői Csatlakozási Bizottság” alcím (9/E. §) a 466/2024. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^101]: A Vhr. „Termelői Csatlakozási Bizottság” alcím (9/E. §) a 466/2024. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## Nem engedélyköteles kiserőművek csatlakozása[^80]
+## Nem engedélyköteles kiserőművek csatlakozása[^98]
 
-9/C. §[^81] (1) A nem engedélyköteles kiserőművek csatlakozására vonatkozó igényekre tekintettel az elosztó köteles évente felülvizsgálni a fejlesztési tervét, és a benyújtott igényeket a fejlesztési tervben köteles megjeleníteni.
+9/C. §[^99] (1) A nem engedélyköteles kiserőművek csatlakozására vonatkozó igényekre tekintettel az elosztó köteles évente felülvizsgálni a fejlesztési tervét, és a benyújtott igényeket a fejlesztési tervben köteles megjeleníteni.
 
 (2) A nem engedélyköteles kiserőművek csatlakozását a csatlakozási igény beérkezésétől számított legfeljebb 3 éven belül meg kell valósítani.
 
-[^80]: A Vhr. 9/C. §-át megelőző alcímet a 38/2018. (III. 8.) Korm. rendelet 1. §-a iktatta be.
-[^81]: A Vhr. 9/C. §-át a 38/2018. (III. 8.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A Vhr. 9/C. §-át megelőző alcímet a 38/2018. (III. 8.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A Vhr. 9/C. §-át a 38/2018. (III. 8.) Korm. rendelet 1. §-a iktatta be.

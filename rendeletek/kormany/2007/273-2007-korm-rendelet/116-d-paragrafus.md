@@ -1,3 +1,3 @@
-116/D. §[^508] A VET 116/A–116/C. §-ában megállapított kötelezettségek nem vonatkoznak a vállalkozások közötti megállapodásokra.
+116/D. §[^525] A VET 116/A–116/C. §-ában megállapított kötelezettségek nem vonatkoznak a vállalkozások közötti megállapodásokra.
 
-[^508]: A Vhr. 116/D. §-át a 275/2017. (IX. 21.) Korm. rendelet 8. §-a iktatta be.
+[^525]: A Vhr. 116/D. §-át a 275/2017. (IX. 21.) Korm. rendelet 8. §-a iktatta be.

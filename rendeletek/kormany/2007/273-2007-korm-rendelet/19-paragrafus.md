@@ -1,3 +1,3 @@
-19. §[^131]
+19. §[^150]
 
-[^131]: A Vhr. 19. §-át a 466/2024. (XII. 30.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.
+[^150]: A Vhr. 19. §-át a 466/2024. (XII. 30.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.

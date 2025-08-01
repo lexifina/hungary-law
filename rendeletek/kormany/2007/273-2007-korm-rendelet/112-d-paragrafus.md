@@ -1,4 +1,4 @@
-112/D. §[^477] (1) Az elosztó a VET 119/B. § (2) bekezdése szerinti kábelcsere-ütemezési tervet az alábbi szempontok alapján állítja össze:
+112/D. §[^494] (1) Az elosztó a VET 119/B. § (2) bekezdése szerinti kábelcsere-ütemezési tervet az alábbi szempontok alapján állítja össze:
 
 a) a kábelcserével érintett szabadvezetékek műszaki állapota, beleértve az azon keletkezett, nem tervezett üzemi események számát a kábelcsere-ütemezési terv benyújtása előtti három évben,
 
@@ -8,7 +8,7 @@ c) a kábelcsere-beruházásoknak értékcsökkenéshez viszonyított aránya, �
 
 d) a kábelcserétől az ellátás-minőségi mutatóknak a várható javulása.
 
-e)[^478] a helyi önkormányzat álláspontja.
+e)[^495] a helyi önkormányzat álláspontja.
 
 (2) A kábelcsere-ütemezési tervet az elosztó az adott naptári év március 31-éig a VET 119/B. § (2) bekezdése szerinti jóváhagyás és felülvizsgálat céljából benyújtja a Hivatalhoz.
 
@@ -20,5 +20,5 @@ b) átrangsorolja vagy
 
 c) elutasítja.
 
-[^477]: A Vhr. 112/D. §-át a 119/2013. (IV. 23.) Korm. rendelet 11. §-a iktatta be.
-[^478]: A Vhr. 112/D. § (1) bekezdés e) pontját a 466/2024. (XII. 30.) Korm. rendelet 25. §-a iktatta be.
+[^494]: A Vhr. 112/D. §-át a 119/2013. (IV. 23.) Korm. rendelet 11. §-a iktatta be.
+[^495]: A Vhr. 112/D. § (1) bekezdés e) pontját a 466/2024. (XII. 30.) Korm. rendelet 25. §-a iktatta be.
