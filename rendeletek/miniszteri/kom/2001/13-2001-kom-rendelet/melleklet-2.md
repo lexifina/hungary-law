@@ -1828,8 +1828,8 @@
 
 ## 4 Kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka.
 
-2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^35]
+2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^39]
 
 FOKOZOTTAN VÉDETT ÉS VÉDETT ÁLLATOK
 
-[^35]: A 2. számú melléklet a 66/2015. (X. 26.) FM rendelet 4. §-ával megállapított, a 20/2022. (VII. 29.) AM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^39]: A 2. számú melléklet a 66/2015. (X. 26.) FM rendelet 4. §-ával megállapított, a 20/2022. (VII. 29.) AM rendelet 6. § (2) bekezdése szerint módosított szöveg.
