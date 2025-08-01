@@ -1,3 +1,5 @@
-1. melléklet a 7/2025. (VI. 30.) IM rendelethez[^9]
+1. melléklet a 7/2025. (VI. 30.) IM rendelethez
 
-[^9]: Az 1. melléklet a 38. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+Az R. 1. számú melléklet A) rész 9. pontja helyébe a következő rendelkezés lép:
+
+„9. A szakvélemény formai és tartalmi követelményei, annak írásbeli elkészítése és szóbeli előadása, a szövegezés és fogalmazás.”

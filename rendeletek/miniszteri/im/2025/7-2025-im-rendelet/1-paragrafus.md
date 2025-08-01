@@ -12,8 +12,8 @@
 
 ## a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-## 1.[^1]
+## 1. Az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet módosítása
 
-1. §
+1. § Az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. alcím a 38. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+„(1) A jogi oktatás (a továbbiakban: tanfolyam) célja, hogy az igazságügyi szakértői névjegyzékbe (a továbbiakban: névjegyzék) való felvétel iránti kérelmet benyújtók (a továbbiakban: jelentkező), valamint a névjegyzékbe bejegyzett igazságügyi szakértők (a továbbiakban: szakértő) szervezett keretek között kapjanak tájékoztatást az igazságügyi szakértői tevékenység folytatásához szükséges jogi ismeretekről, és a megszerzett jogi tudásuk frissítése érdekében rendszeres továbbképzésben részesüljenek.”
