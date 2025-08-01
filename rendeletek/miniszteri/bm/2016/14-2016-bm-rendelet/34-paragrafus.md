@@ -14,9 +14,9 @@ d) az olyan munkakörbe kerülésekor, amelyben az ellátás már nem illeti meg
 
 (3) A hivatásos szolgálati jogviszonynak a nyugdíjazásra tekintettel történő megszűnése esetén a szolgálati nyugdíjas a használatban lévő, le nem járt viselési idejű munkaruházatot térítésmentesen megtarthatja.
 
-(4)[^51] Az elhalálozott igényjogosult használatában volt egyéni védőfelszerelést be kell vonni, hiánya esetén – az önálló szerv kárviselését kimondva – jegyzőkönyvet kell felvenni.
+(4)[^54] Az elhalálozott igényjogosult használatában volt egyéni védőfelszerelést be kell vonni, hiánya esetén – az önálló szerv kárviselését kimondva – jegyzőkönyvet kell felvenni.
 
-(5)[^52] Az elhalálozott igényjogosult munkaruházatát térítésmentesen a közeli hozzátartozó tulajdonába kell adni, ennek hiányában be kell vonni, hiánya esetén – az önálló szerv kárviselését kimondva – jegyzőkönyvet kell felvenni.
+(5)[^55] Az elhalálozott igényjogosult munkaruházatát térítésmentesen a közeli hozzátartozó tulajdonába kell adni, ennek hiányában be kell vonni, hiánya esetén – az önálló szerv kárviselését kimondva – jegyzőkönyvet kell felvenni.
 
-[^51]: A 34. § (4) bekezdése a 6/2022. (IV. 14.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^52]: A 34. § (5) bekezdését a 6/2022. (IV. 14.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^54]: A 34. § (4) bekezdése a 6/2022. (IV. 14.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^55]: A 34. § (5) bekezdését a 6/2022. (IV. 14.) BM rendelet 4. § (2) bekezdése iktatta be.

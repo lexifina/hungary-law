@@ -2,7 +2,7 @@
 
 20. § (1) A harminc napot meghaladó időtartamú illetmény nélküli szabadságon lévő személy ruházati utánpótlási ellátmányra a távolléte időtartamára nem jogosult. A távollét időtartamát – összevontan – egész hónapokban kell számítani, a töredékhónap nem vehető figyelembe. Az előre kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre vonatkozóan a jogosultság nem áll fenn, túlellátásként kell előjegyezni és a következő évi ruházati utánpótlási ellátmányból le kell vonni, illetve a hivatásos szolgálati jogviszony megszűnése esetén vissza kell téríttetni.
 
-(2)[^33] A szolgálati beosztásából felfüggesztett, letartóztatott vagy bűnügyi felügyelet alatt álló, illetve a katonai fogdában letöltendő szabadságvesztésre ítélt igényjogosult részére – az intézkedés időtartamától függetlenül – esedékessé váló ruházati utánpótlási ellátmányt az intézkedés elrendelését követő hónap első napjától vissza kell tartani.
+(2)[^35] A szolgálati beosztásából felfüggesztett, letartóztatott vagy bűnügyi felügyelet alatt álló, illetve a katonai fogdában letöltendő szabadságvesztésre ítélt igényjogosult részére – az intézkedés időtartamától függetlenül – esedékessé váló ruházati utánpótlási ellátmányt az intézkedés elrendelését követő hónap első napjától vissza kell tartani.
 
 (3) Az igényjogosult – a 23. §-ban meghatározottak szerint – a fegyelmi vagy büntetőeljárás megindításának első naptári hónapja utolsó napjától visszamenőleges hatállyal köteles elszámolni, ha
 
@@ -12,7 +12,7 @@ b) hivatásos szolgálati jogviszonya a szolgálati beosztásból történő fel
 
 (4) Ha az igényjogosult a szolgálati beosztásból történő felfüggesztésére okot adó fegyelmi vagy büntetőeljárás jogerős befejezését követően továbbra is hivatásos szolgálati jogviszonyban marad, a visszatartott és esedékessé vált ruházati utánpótlási ellátmányt részére visszamenőlegesen ki kell adni. A kifizetett ellátmánnyal a 21. §-ban meghatározott módon kell elszámolni.
 
-(4a)[^34] Ha az igényjogosult szolgálati beosztásból történő felfüggesztésének megszüntetésére a fegyelmi vagy büntetőeljárás jogerős befejezését megelőzően, a szolgálati beosztásból történő felfüggesztés Hszt. 199. § (1)–(3) bekezdésében meghatározott időtartamának leteltére tekintettel kerül sor, az igényjogosult
+(4a)[^36] Ha az igényjogosult szolgálati beosztásból történő felfüggesztésének megszüntetésére a fegyelmi vagy büntetőeljárás jogerős befejezését megelőzően, a szolgálati beosztásból történő felfüggesztés Hszt. 199. § (1)–(3) bekezdésében meghatározott időtartamának leteltére tekintettel kerül sor, az igényjogosult
 
 a) a szolgálati beosztásból történő felfüggesztés megszüntetését követő időszakra a ruházati utánpótlási ellátmány részére ismételten jogosulttá válik,
 
@@ -20,12 +20,12 @@ b) részére a visszatartott ruházati utánpótlási ellátmányt csak a fegyel
 
 (5) Nem szünetel az ellátás azon igényjogosult részére,
 
-a)[^35] akit a Hszt. 51. § (2)–(3a) bekezdése szerinti szervhez vezényeltek,
+a)[^37] akit a Hszt. 51. § (2)–(3a) bekezdése szerinti szervhez vezényeltek,
 
 b) aki szülési szabadságát tölti, vagy
 
 c) aki egészségügyi szabadságon van.
 
-[^33]: A 20. § (2) bekezdése a 21/2018. (VI. 29.) BM rendelet 25. § a) pontja szerint módosított szöveg.
-[^34]: A 20. § (4a) bekezdését a 29/2017. (XI. 6.) BM rendelet 6. §-a iktatta be.
-[^35]: A 20. § (5) bekezdés a) pontja a 62/2024. (XII. 30.) BM rendelet 45. § b) pontja szerint módosított szöveg.
+[^35]: A 20. § (2) bekezdése a 21/2018. (VI. 29.) BM rendelet 25. § a) pontja szerint módosított szöveg.
+[^36]: A 20. § (4a) bekezdését a 29/2017. (XI. 6.) BM rendelet 6. §-a iktatta be.
+[^37]: A 20. § (5) bekezdés a) pontja a 62/2024. (XII. 30.) BM rendelet 45. § b) pontja szerint módosított szöveg.
