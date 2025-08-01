@@ -12,7 +12,7 @@ b) ha közrendbe, közerkölcsbe vagy jogszabályba nem ütközik, az 53. § (2)
 
 (2) A járműre felszerelt sorozatban előállított rendszámtábla a jármű tulajdonosának kérelmére egyénileg kiválasztott rendszámtáblának minősíthető.
 
-(3)[^310] Az egyénileg kiválasztott rendszámtábla megválasztását és az egyedileg előállított rendszámtábla legyártatását a Központi Okmányügyi Főosztály, a sorozatban előállított rendszámtábla egyénileg kiválasztott rendszámtáblává történő átminősítését a közlekedési igazgatási hatóság engedélyezi.
+(3)[^310] Az egyénileg kiválasztott rendszámtábla megválasztását és az egyedileg előállított rendszámtábla legyártatását a Központi Kormányablak, a sorozatban előállított rendszámtábla egyénileg kiválasztott rendszámtáblává történő átminősítését a közlekedési igazgatási hatóság engedélyezi.
 
 (4) Az egyénileg kiválasztott, vagy az egyedi rendszámtábla az engedély kiadását követően a járműre első forgalomba helyezésével, Magyarországon már forgalomba helyezett jármű esetében átrendszámozással kerül a járműre.
 
@@ -37,7 +37,7 @@ b) az E típus felső sorában 1, középső és alsó sorában 3-3 karakter hel
 [^307]: Az 58. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^308]: Az 58. § (1a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^309]: Az 58. § (1b) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^310]: Az 58. § (3) bekezdése a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^310]: Az 58. § (3) bekezdése a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja, a 242/2025. (VII. 31.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^311]: Az 58. § (5) bekezdése a 467/2015. (XII. 27.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
 [^312]: Az 58. § (6) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
 [^313]: Az 58. § (6a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 9. § (2) bekezdése iktatta be.

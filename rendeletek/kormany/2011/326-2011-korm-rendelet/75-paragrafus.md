@@ -32,7 +32,7 @@
 
 (13)[^378] Az elektronikus úton folytatott eljárásban utángyártott rendszámtábla 15 napon belül az ügyfél választása szerint postázásra kerül, vagy az általa megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján átvehető.
 
-(14)[^379] A közúti közlekedési szolgáltatást végző üzemben tartónak (tulajdonosnak) kiadott, különleges jellegű, egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla igazgatási szolgáltatási díj megfizetése ellenében, a Központi Okmányügyi Főosztály engedélye alapján fehér színben utángyártható. A különleges jellegű rendszámtáblát az utángyártott rendszámtábla átadásával egyidejűleg az 57. § (8) bekezdése szerint be kell vonni.
+(14)[^379] A közúti közlekedési szolgáltatást végző üzemben tartónak (tulajdonosnak) kiadott, különleges jellegű, egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla igazgatási szolgáltatási díj megfizetése ellenében, a Központi Kormányablak engedélye alapján fehér színben utángyártható. A különleges jellegű rendszámtáblát az utángyártott rendszámtábla átadásával egyidejűleg az 57. § (8) bekezdése szerint be kell vonni.
 
 [^367]: A 75. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja, a 289/2018. (XII. 21.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
 [^368]: A 75. § (3) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
@@ -46,4 +46,4 @@
 [^376]: A 75. § (9a) bekezdését a 468/2016. (XII. 23.) Korm. rendelet 19. §-a iktatta be.
 [^377]: A 75. § (12) bekezdése az 5/2013. (I. 16.) Korm. rendelet 14. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés g) pontja, a 375/2021. (VI. 30.) Korm. rendelet 16. § 15. pontja szerint módosított szöveg.
 [^378]: A 75. § (13) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 57. § (4) bekezdésével megállapított szöveg. [A 75. § (13) bekezdésében a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés e) pontjával elrendelt módosítás nem vezethető át.]
-[^379]: A 75. § (14) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 57. § (5) bekezdése iktatta be, szövege a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^379]: A 75. § (14) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 57. § (5) bekezdése iktatta be, szövege a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja, a 242/2025. (VII. 31.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

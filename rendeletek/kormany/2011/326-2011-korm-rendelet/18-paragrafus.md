@@ -26,7 +26,7 @@ b) a külföldi vezetői engedélyről készült hiteles fordítás alapján sem
 
 (5) Ha a külföldi vezetői engedélyt kiállító hatóság a vezetési jogosultságot korlátozta, vagy a jogosultság gyakorlását feltételhez kötötte, a közlekedési igazgatási hatóság az okmány hiteles fordítását a 17. § (1) bekezdésében és (2) bekezdés a) és c) pontjában felsorolt feltételeknek való megfelelés esetén is kérheti.
 
-(6)[^106] A Központi Okmányügyi Főosztály megkeresi a harmadik ország hatóságát, ha a magyar vezetői engedély kiállítására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.
+(6)[^106] A Központi Kormányablak megkeresi a harmadik ország hatóságát, ha a magyar vezetői engedély kiállítására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.
 
 (7) A harmadik ország által kiállított vezetői engedély honosítása során az engedély-nyilvántartásba és a kiadásra kerülő magyar vezetői engedélybe be kell jegyezni a vezetői engedély honosításának tényét, valamint a kérelmező által benyújtott vezetői engedélyt kiadó államot. A nyilvántartásba és a kiadásra kerülő vezetői engedélybe a bejegyzés a 8. melléklet 70. kódjának, valamint a kiadó állam – az országok és igazgatási egységeik nevének kódjaira vonatkozó MSZ EN ISO 3166-1 nemzeti szabványban meghatározott – háromjegyű betűkódjának (a továbbiakban: országkód) alkalmazásával történik.
 
@@ -43,5 +43,5 @@ b) a külföldi vezetői engedélyről készült hiteles fordítás alapján sem
 [^103]: A 18. § (3a) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^104]: A 18. § (3b) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (7) bekezdése iktatta be.
 [^105]: A 18. § (3c) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 47. §-a iktatta be.
-[^106]: A 18. § (6) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 7. §-ával megállapított, a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^106]: A 18. § (6) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 7. §-ával megállapított, a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja, a 242/2025. (VII. 31.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^107]: A 18. § (10) bekezdését a 186/2025. (VII. 3.) Korm. rendelet 1. §-a iktatta be.
