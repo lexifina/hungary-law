@@ -1,1 +1,13 @@
-### 165. §
+165. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény 145. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az egyetemes szolgáltató által kötelezően nyújtott egyetemes szolgáltatás árát a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig, az áralkalmazási feltételeket, az árszabályozás kereteit, a 146. § (1) bekezdés szerinti szolgáltatások körét és külön díjait a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát a rendelet tervezett hatálybalépését megelőzően legalább 45 nappal megküldi a miniszternek. Ha a miniszteri rendelet valamely árszabás tekintetében nem határoz meg kedvezményes lakossági sávhatárt, az egyetemes szolgáltatótól vételezett villamosenergia-mennyiség tekintetében a miniszteri rendelet szerinti árat kell alkalmazni.”
+
+(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 145. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3a) A kedvezményes lakossági sávhatár felett a lakossági fogyasztó a Hivatal elnöke által rendeletben meghatározott lakossági piaci áron vételezhet villamos energiát. A lakossági piaci árat és annak áralkalmazási feltételeit a Hivatal elnöke az egyetemes szolgáltatóval folytatott egyeztetést követően elnöki rendeletben határozza meg. A Hivatal elnökének rendeletében meghatározott lakossági piaci ár – ideértve annak a villamosenergia-vásárlási szerződés megkötését követően bekövetkező változását is – a villamosenergia-vásárlási szerződés részévé válik. A piaci viszonyok jelentős változása esetén a Hivatal elnöke felülvizsgálja és szükség esetén módosítja az elnöki rendeletben meghatározott árat.
+
+(3b) A kedvezményes mikrovállalkozói sávhatár felett az egyetemes szolgáltatást igénybe vevő nem lakossági felhasználó versenypiaci áron vételez energiát. A versenypiaci árat és annak áralkalmazási feltételeit az egyetemes szolgáltató határozza meg, és azt a honlapján hirdetményi formában közzéteszi. A versenypiaci ár nem lehet kevesebb, mint a (3a) bekezdés szerinti lakossági piaci ár. A hirdetményben meghatározott versenypiaci ár – ideértve annak a villamosenergia-vásárlási szerződés megkötését követően bekövetkező változását is – a villamosenergia-vásárlási szerződés részévé válik. A versenypiaci árra a 141. § (2), (5), (7) és (9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.”
+
+(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 145. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) és a (3a) bekezdés szerinti rendeletben, valamint a (3b) bekezdés szerinti hirdetményben meg nem állapított, de az egyes egyetemes szolgáltatók által jogszerűen alkalmazott árszabások árát és áralkalmazási feltételeit az egyetemes szolgáltató kérelmére a Hivatal hagyja jóvá, amely árak esetében a 141. § (2) bekezdésében és (4)–(9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.”

@@ -1,1 +1,13 @@
-### 176. §
+176. § A földgázellátásról szóló 2008. évi XL. törvény 107. §-a helyébe a következő rendelkezés lép:
+
+„107. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával kell megvalósítani.
+
+(2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyesek indokolt működési és tőkeköltsége alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze. Emellett az árnak biztosítania kell az egyetemes szolgáltatás keretében földgázt vételező felhasználók költséghatékony ellátását is.
+
+(3) Az egyetemes szolgáltatás árát – a forgalomarányos elem tekintetében a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig –, az áralkalmazási feltételeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát legkésőbb a rendelet tervezett hatálybalépését megelőzően 40 nappal megküldi a miniszternek.
+
+(4) A kedvezményes lakossági sávhatárt – a közös fogyasztásra figyelemmel – a lakossági fogyasztókra meghatározott mértéktől eltérően is meghatározhatja a miniszter a (3) bekezdés szerinti rendeletében.
+
+(5) A kedvezményes lakossági sávhatár felett a lakossági fogyasztó a Hivatal elnöke által rendeletben meghatározott versenypiaci költségeket tükröző áron jogosult földgázt vételezni. A versenypiaci költségeket tükröző árat és annak áralkalmazási feltételeit a Hivatal elnöke az egyetemes szolgáltatóval folytatott egyeztetést követően határozza meg rendeletben. A Hivatal elnökének rendeletében meghatározott ár – és annak az egyetemes szolgáltatási szerződés megkötését követő változása – az egyetemes szolgáltatási szerződés részévé válik. A piaci viszonyok jelentős változása esetén a Hivatal a rendeletében foglalt árat a hivatalból vagy az egyetemes szolgáltató kezdeményezésére, az egyetemes szolgáltató által szolgáltatott adatok alapján felülvizsgálja, és szükség esetén módosítja.
+
+(6) A kedvezményes mikrovállalkozói sávhatár felett az egyetemes szolgáltatásra jogosult nem lakossági fogyasztó versenypiaci áron vételezhet földgázt. A versenypiaci árat és annak áralkalmazási feltételeit az egyetemes szolgáltató határozza meg, és azt a honlapján hirdetményi formában közzéteszi. A versenypiaci ár nem lehet kevesebb, mint az (5) bekezdés szerinti versenypiaci költségeket tükröző ár. A hirdetményben meghatározott versenypiaci ár, és annak az egyetemes szolgáltatási szerződés megkötését követően bekövetkező változása az egyetemes szolgáltatási szerződés részévé válik. A versenypiaci árra a 104. § (2), (5), (7) és (9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.”
