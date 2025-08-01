@@ -1,0 +1,3 @@
+5/G. § (1) A miniszter az 5/F. § (1) bekezdése szerinti rendeletében dönthet a különleges földgázkészlet részleges vagy teljes megszüntetéséről. Ebben az esetben a miniszter a rendeletében meghatározza a teljes, vagy részbeni értékesítés 5/F. § (3) bekezdésén túlmutató feltételeit. A Szövetség az értékesítésre kijelölt különleges földgázkészletet a miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerinti földgáz-kereskedelemnek.
+
+(2) Ha a miniszter rendelete alapján az (1) bekezdés szerint a különleges földgázkészlet részben vagy teljes egészében megszüntetésre kerül, a miniszter gondoskodik az érintett földgáztároló üzemszerű működési feltételeinek biztosításához szükséges földgázkészlet rendelkezésre állásáról.

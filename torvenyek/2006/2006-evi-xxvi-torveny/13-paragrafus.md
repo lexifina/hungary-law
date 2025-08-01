@@ -2,6 +2,12 @@
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készletnek a földgázkereskedő ellehetetlenülése esetén történő felhasználására vonatkozó részletes szabályokat.
 
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+
+a) a különleges földgázkészlet fenntartásának biztosítása érdekében a rezsivédelmi készletezési szolgáltatás részletszabályait és a különleges földgázkészlet fenntartásának időtartamát,
+
+b) a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából a különleges földgázkészlet tárolásának és tárolói nyilvántartásának szabályait.
+
 (2) Felhatalmazást kap a miniszter, hogy földgázellátási válsághelyzet fennállása esetén az 5. § (1) bekezdése és az 5/A. § (3) bekezdése alapján rendeletben engedélyezze a földgáz biztonsági készlet felhasználását, és határozza meg a felhasználás engedélyezésének okát és célját, a felhasználásra engedélyezett földgáz mennyiségét, a felhasznált készletek visszapótlásának rendjét, valamint a felhasználásra engedélyezett földgáz árát és az áralkalmazás feltételeit.
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a földgáz biztonsági készlet mértékét és a földgáz biztonsági készlet elhelyezésére szolgáló biztonsági földgáztárolót, a földgáz biztonsági készlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat.
@@ -9,3 +15,13 @@
 (4) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a készletbeszerzés mértékére és feltételeire, továbbá készletértékesítés esetén az értékesítendő földgáz mennyiségére, az értékesítés módjára, a földgáz értékének és a kedvezményezettek körére, a földgáz visszapótlásra kötelezettekre és a visszapótlás feltételeire, rendjére, valamint a szabad kapacitások értékesítésére vonatkozó szabályokat.
 
 (5) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a villamos energiáról szóló törvény alapján villamos energia termelői működési engedéllyel rendelkező, az 50 MW és annál nagyobb teljesítményű erőművek energiahordozó-készletének legkisebb mértékéről és a készletezés rendjéről szóló miniszteri rendelet rendelkezései szerint energiaforrás-készlet fenntartására kötelezett felhasználási hely részére a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket.
+
+(6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+a) a különleges földgázkészlet, valamint a hozzá tartozó minimum betárolási és kitárolási kapacitások mértékére,
+
+b) a különleges földgázkészlet pótlásához és a fenntartásához – a tagi hozzájárulás mértékére, és a hitelfelvételi korlátra is kiterjedően – szükséges feltételekre, valamint
+
+c) a különleges földgázkészlet felhasználására, értékesítésére és annak feltételeire
+
+vonatkozó részletes szabályokat.
