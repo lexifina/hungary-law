@@ -4,6 +4,7 @@
 
 (1a)[^6] A börtönlelkész e rendelet szerinti továbbképzési kötelezettségének teljesítésébe – kérelmére – az egyházi jogi személy által szervezett továbbképzés teljesítése beszámít.
 
-(2) A rendvédelmi szerv által nyújtott belső továbbképzésen a rendvédelmi szerv beleegyezésével más rendvédelmi szerv – ideértve a miniszter irányítása alá tartozó polgári nemzetbiztonsági szolgálatokat is – rendvédelmi alkalmazottja is részt vehet, ha a belső továbbképzés a rendvédelmi alkalmazott egyéni továbbképzési tervében szereplő képzési igényhez illeszkedik.
+(2)[^7] A rendvédelmi szerv által nyújtott belső továbbképzésen a rendvédelmi szerv beleegyezésével más rendvédelmi szerv rendvédelmi alkalmazottja is részt vehet, ha a belső továbbképzés a rendvédelmi alkalmazott egyéni továbbképzési tervében szereplő képzési igényhez illeszkedik.
 
 [^6]: A 30. § (1a) bekezdését a 20/2021. (VII. 14.) BM rendelet 32. §-a iktatta be.
+[^7]: A 30. § (2) bekezdése a 14/2025. (VII. 31.) MK rendelet 18. §-a szerint módosított szöveg.
