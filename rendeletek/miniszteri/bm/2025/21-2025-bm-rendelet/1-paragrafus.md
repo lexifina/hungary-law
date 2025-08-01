@@ -10,6 +10,10 @@
 
 ## a következőket rendelem el:
 
-1. §[^1]
+1. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek rendvédelmi tisztjelöltjeiről és a rendvédelmi tisztjelölti szolgálati jogviszonyról szóló 5/2022. (III. 31.) BM rendelet a következő 44. és 45. §-sal egészül ki:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+„44. § A 3. melléklet 1. pontjában foglalt táblázatnak a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek rendvédelmi tisztjelöltjeiről és a rendvédelmi tisztjelölti szolgálati jogviszonyról szóló 5/2022. (III. 31.) BM rendelet és a pedagógusok teljesítményértékeléséről szóló 18/2024. (IV. 4.) BM rendelet módosításáról szóló 21/2025. (VI. 26.) BM rendelettel (a továbbiakban: Módr.) megállapított 4., 6. és 20. sora szerinti ruházati terméket az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv 2025. július 31-én rendvédelmi tisztjelölti szolgálati jogviszonyban álló rendvédelmi tisztjelöltje részére is ki kell adni, a részére kiadott „10M e. r. gyakorló nadrág, könnyített” és „10M e. r. gyakorló zubbony, könnyített, felirattal” ruházati termékek visszavétele mellett.
+
+45. § (1) A hivatásos katasztrófavédelmi szerv azon rendvédelmi tisztjelöltje részére, akit 2025. július 1-je előtt a rendészeti alapfelkészítés kezdetekor „Esőgallér” ruházati termékkel láttak el, a 3. melléklet 1. pontjában foglalt táblázatnak a Módr.-rel megállapított 12. sora szerinti terméket nem kell kiadni.
+
+(2) A hivatásos katasztrófavédelmi szerv azon rendvédelmi tisztjelöltje részére, akit 2025. július 31-e előtt a rendészeti alapfelkészítés kezdetekor „10M e. r. gyakorló nadrág, könnyített” vagy „10M e. r. gyakorló zubbony, könnyített, felirattal” ruházati termékekkel láttak el, a 3. melléklet 1. pontjában foglalt táblázatnak a Módr.-rel megállapított 4. és 6. sora szerinti termékeket nem kell kiadni.”

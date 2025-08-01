@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+2. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek rendvédelmi tisztjelöltjeiről és a rendvédelmi tisztjelölti szolgálati jogviszonyról szóló 5/2022. (III. 31.) BM rendelet 3. melléklete az 1. melléklet szerint módosul.
