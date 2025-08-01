@@ -4,8 +4,8 @@
 
 2. központi humánigazgatási szakszolgálat: az országos parancsnok vagy országos főigazgató irányítása alatt működő humánigazgatási szakszolgálat,
 
-3.[^2]
+3.[^4]
 
 4. szenior állomány: az általános rendőrségi feladatok ellátására létrehozott szerv különleges foglalkoztatási állománya.
 
-[^2]: A 2. § 3. pontját a 20/2021. (VII. 14.) BM rendelet 25. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 3. pontját a 20/2021. (VII. 14.) BM rendelet 25. § a) pontja hatályon kívül helyezte.

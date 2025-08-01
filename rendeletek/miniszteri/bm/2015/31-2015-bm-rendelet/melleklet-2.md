@@ -24,7 +24,7 @@
 
 | 12. | kártérítési eljárás iratai | eljárás megszűnését követő 3 év |
 
-2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^95]
+2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^92]
 
 A rekreációs célú pótszabadságra jogosító, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások
 
@@ -120,4 +120,4 @@ A rekreációs célú pótszabadságra jogosító, terrorelhárítási feladatok
 
 7. A Hszt. 146. § (1) bekezdésében meghatározott rekreációs célú pótszabadságra akkor is csak 14 napban jogosult a hivatásos állomány e mellékletben felsorolt szolgálati beosztást betöltő tagja, ha a Hszt. 146. § (1) bekezdésében meghatározott más jogcímen is jogosult lenne rekreációs pótszabadságra.
 
-[^95]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be, szövege a 24/2023. (VI. 30.) BM rendelet 39. §-ával megállapított szöveg.
+[^92]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be, szövege a 24/2023. (VI. 30.) BM rendelet 39. §-ával megállapított szöveg.

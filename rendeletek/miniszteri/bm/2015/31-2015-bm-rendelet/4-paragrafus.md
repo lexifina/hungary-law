@@ -32,16 +32,16 @@ e) írásbeli nyilatkozatát a rendvédelmi feladatokat ellátó szervek hivatá
 
 f) írásbeli nyilatkozatát a Hszt. 42. § (3) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról,
 
-g)[^3] és közeli hozzátartozója írásbeli nyilatkozatát a Hszt. 42. § (2a) bekezdésében meghatározottak tudomásulvételéről,
+g)[^5] és közeli hozzátartozója írásbeli nyilatkozatát a Hszt. 42. § (2a) bekezdésében meghatározottak tudomásulvételéről,
 
-h)[^4] a kifogástalan életvitel ellenőrzéséhez szükséges – a személyügyi munkatárs által biztosított –, kitöltött és aláírt, a Hszt. 42. § (3) bekezdés b) pontja szerinti nyilatkozatát is tartalmazó adatlapot,
+h)[^6] a kifogástalan életvitel ellenőrzéséhez szükséges – a személyügyi munkatárs által biztosított –, kitöltött és aláírt, a Hszt. 42. § (3) bekezdés b) pontja szerinti nyilatkozatát is tartalmazó adatlapot,
 
-i)[^5]
+i)[^7]
 
 j) a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásba tervezett kinevezése esetében a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges, kitöltött és aláírt – a felvételi eljárást lefolytató szervezet által biztosított – biztonsági kérdőívet zárt borítékban, valamint a nemzetbiztonsági ellenőrzés elvégzéséhez történő hozzájáruló nyilatkozatot.
 
 (5) A (4) bekezdés e)–i) pontjában meghatározott nyilatkozatok, valamint – a nemzetbiztonsági ellenőrzés alá eső szolgálati beosztásba tervezett esetében – a kitöltött biztonsági kérdőív és adatlap csatolása hiányában a felvételi kérelmet további érdemi vizsgálat nélkül el kell utasítani. Egyéb okból hiányos vagy hitelesnek nem tekinthető okiratok pótlására, kiegészítésre a jelentkezőt tizenöt munkanapon belül – írásban, lehetőség szerint rövid úton történő szóbeli tájékoztatása mellett – hiánypótlásra kell felhívni, tíz munkanap határidő kitűzésével, figyelmeztetve arra, hogy a hiánypótlás kitűzött határidőben történő teljesítésének hiányában a kinevezésre jogosult a rendelkezésre álló adatok alapján dönt a kérelemről.
 
-[^3]: A 4. § (4) bekezdés g) pontja a 33/2019. (VIII. 30.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (4) bekezdés h) pontja a 33/2019. (VIII. 30.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (4) bekezdés i) pontját a 33/2019. (VIII. 30.) BM rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 4. § (4) bekezdés g) pontja a 33/2019. (VIII. 30.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (4) bekezdés h) pontja a 33/2019. (VIII. 30.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (4) bekezdés i) pontját a 33/2019. (VIII. 30.) BM rendelet 11. § (2) bekezdése hatályon kívül helyezte.

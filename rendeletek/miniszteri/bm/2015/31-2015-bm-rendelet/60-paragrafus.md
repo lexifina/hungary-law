@@ -34,9 +34,9 @@ h) során végzendő tevékenység a rendvédelmi szervnél rendszeresített nyi
 
 i) a szolgálatteljesítési kötelezettséggel időben egybeeső tevékenységgel jár-e,
 
-j)[^55] során végzendő tevékenyég olyan szolgáltatás nyújtására, vagy az abban való közreműködésre irányul-e, amely szolgáltatás vonatkozásában a rendvédelmi szerv hatósági vagy szakhatósági jogkört gyakorol,
+j)[^52] során végzendő tevékenyég olyan szolgáltatás nyújtására, vagy az abban való közreműködésre irányul-e, amely szolgáltatás vonatkozásában a rendvédelmi szerv hatósági vagy szakhatósági jogkört gyakorol,
 
-k)[^56] során végzendő tevékenység olyan hatósági döntést megalapozó, vagy olyan hatósági döntés alapján az ügyfél által benyújtandó dokumentummal kapcsolatos-e, amely vonatkozásában a rendvédelmi szerv hatósági vagy szakhatósági jogkört gyakorol.
+k)[^53] során végzendő tevékenység olyan hatósági döntést megalapozó, vagy olyan hatósági döntés alapján az ügyfél által benyújtandó dokumentummal kapcsolatos-e, amely vonatkozásában a rendvédelmi szerv hatósági vagy szakhatósági jogkört gyakorol.
 
-[^55]: A 60. § (5) bekezdés j) pontját a 15/2017. (VI. 22.) BM rendelet 8. §-a iktatta be.
-[^56]: A 60. § (5) bekezdés k) pontját a 15/2017. (VI. 22.) BM rendelet 8. §-a iktatta be.
+[^52]: A 60. § (5) bekezdés j) pontját a 15/2017. (VI. 22.) BM rendelet 8. §-a iktatta be.
+[^53]: A 60. § (5) bekezdés k) pontját a 15/2017. (VI. 22.) BM rendelet 8. §-a iktatta be.
