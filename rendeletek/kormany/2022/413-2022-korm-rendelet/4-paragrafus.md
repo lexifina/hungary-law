@@ -1,1 +1,0 @@
-4. § Felhatalmazást kap a technológiai és ipari miniszter, hogy a Magyar Energetikai és Közmű-szabályozási Hivatal javaslata alapján rendeletben határozza meg az 1. § (1) bekezdésében megjelölt ideiglenes felfüggesztés megszüntetésének időpontját és a megszüntetés ütemezését.

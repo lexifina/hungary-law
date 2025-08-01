@@ -1,1 +1,0 @@
-2. § Az 1. § (1)–(2) bekezdésében foglaltaktól eltérően feltáplálhat a közcélú hálózatra azon 2022. október 31. napját követően tett igénybejelentés alapján megvalósított háztartási méretű kiserőmű is, amelynek üzemeltetője igazolja, hogy igénybejelentésére a szolgáltató érdekkörében felmerült oknál fogva nem került sor.
