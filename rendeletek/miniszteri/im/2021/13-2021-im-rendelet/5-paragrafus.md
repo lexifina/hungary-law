@@ -4,7 +4,7 @@
 
 (2) A Szakvizsga Bizottság tagjait a miniszter nevezi ki 5 évre a bírósági végrehajtási jogterület szakemberei közül.
 
-(3)[^5] Az esetenként kijelölt vizsgabizottság 5 főből áll, akik közül a vizsgabizottság elnöke ellátja a vizsgabizottsági adminisztratív teendőket. A vizsgabizottságot úgy kell megalakítani, hogy abban
+(3)[^8] Az esetenként kijelölt vizsgabizottság 5 főből áll, akik közül a vizsgabizottság elnöke ellátja a vizsgabizottsági adminisztratív teendőket. A vizsgabizottságot úgy kell megalakítani, hogy abban
 
 a) az Igazságügyi Minisztériumnak (a továbbiakban: minisztérium),
 
@@ -18,4 +18,4 @@ e) valamely egyetem jogi karának
 
 képviselői részt vegyenek.
 
-[^5]: Az 5. § (3) bekezdése a 13/2022. (IV. 29.) IM rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 5. § (3) bekezdése a 13/2022. (IV. 29.) IM rendelet 3. §-ával megállapított szöveg.

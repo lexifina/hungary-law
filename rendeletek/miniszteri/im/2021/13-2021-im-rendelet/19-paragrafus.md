@@ -1,0 +1,1 @@
+19. § Az elveszett, megsemmisült vagy megrongálódott bírósági végrehajtói oklevél, illetve tanúsítvány pótlására az érintett kérelme alapján a 2016. július 1. napja után teljesített szakvizsga esetén a Jogakadémia, az ezt megelőzően teljesített szakvizsga esetén a miniszter tanúsítványt állít ki.

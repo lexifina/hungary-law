@@ -1,9 +1,11 @@
 ## 13. Halasztás
 
-24. § (1)[^10] A jelölt 6900 Ft halasztási díj befizetése mellett a szakvizsga elhalasztását kérheti.
+24. § (1)[^19] A jelölt 7500 Ft halasztási díj befizetése mellett a szakvizsga elhalasztását kérheti.
 
-(2) Ha a jelölt a vizsga időpontja előtt legalább 3 nappal a már kitűzött vizsga elhalasztását kérte, vagy a szakvizsgán nem jelent meg, de távolmaradását a szakvizsga időpontjától számított 8 napon belül kimentette, és újabb szakvizsgaidőpontot kért, a soron következő szakvizsgára kell beosztani további szakvizsgadíj fizetése nélkül. Ha a jelölt a távolmaradását nem mentette ki, vagy a halasztási díjat nem fizette be, a befizetett vizsgadíjat elveszíti.
+(2)[^20] Ha a jelölt a szakvizsgán nem jelent meg, távolmaradását a kitűzött időponttól számított 8 napon belül megfelelően igazolja, és újabb vizsgaidőpontot kér, akkor egy alkalommal a jelöltet halasztási díj, illetve vizsgadíj ismételt megfizetése nélkül a soron következő szakvizsgára kell beosztani. Ha a jelölt a távolmaradását nem mentette ki, a befizetett vizsgadíjat elveszíti.
 
-(3) Ha a jelölt a távolmaradását a (2) bekezdésben megjelölt időpontig kimentette, de újabb vizsgaidőpont kitűzését nem kérte, kérelmére a vizsgadíjat – a vizsgabizottság tagjainak a 23. § (4) bekezdése alapján fizetendő díj levonásával – vissza kell utalni.
+(3)[^21]
 
-[^10]: A 24. § (1) bekezdése a 14/2023. (X. 3.) IM rendelet 9. § d) pontja szerint módosított szöveg.
+[^19]: A 24. § (1) bekezdése a 14/2023. (X. 3.) IM rendelet 9. § d) pontja, a 7/2025. (VI. 30.) IM rendelet 30. § b) pontja szerint módosított szöveg.
+[^20]: A 24. § (2) bekezdése a 7/2025. (VI. 30.) IM rendelet 27. §-ával megállapított szöveg.
+[^21]: A 24. § (3) bekezdését a 7/2025. (VI. 30.) IM rendelet 31. § c) pontja hatályon kívül helyezte.

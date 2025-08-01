@@ -6,7 +6,7 @@
 
 6. § (1) Bírósági végrehajtói szakvizsgára (a továbbiakban: végrehajtói szakvizsga) az jelentkezhet, aki
 
-a) egyéves végrehajtójelölti szakmai gyakorlatot szerzett, és – a törvényszéki végrehajtójelöltek kivételével – a végrehajtójelölti képzésen való részvételét tanúsítvánnyal igazolja, vagy
+a)[^9] egyéves végrehajtójelölti szakmai gyakorlatot szerzett, és a végrehajtójelölti képzésen, illetve a továbbképzésen való részvételét tanúsítvánnyal igazolja, vagy
 
 b) jogi szakvizsgával rendelkezik.
 
@@ -23,3 +23,5 @@ b) szülési szabadság, gyermekgondozást segítő ellátás igénybevétele.
 (5) A (4) bekezdés szerint beszámított időtartamok együttesen sem haladhatják meg az 1 hónapot.
 
 (6) Nincs helye a beszámításnak, ha a jelölt a sikertelenség miatt megismételt végrehajtói szakvizsgára jelentkezett.
+
+[^9]: A 6. § (1) bekezdés a) pontja a 7/2025. (VI. 30.) IM rendelet 22. §-ával megállapított szöveg.
