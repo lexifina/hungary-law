@@ -1,5 +1,3 @@
-## 1/A. §[^4] Az 1–5. §-t alkalmazni kell a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti rendvédelmi szervnél és a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatnál rendvédelmi igazgatási szolgálati jogviszonyban betölthető munkakörökre is.
-
 2. § (1) Az állománytáblázat tartalmazza:
 
 a) a szervezeti egység megnevezését, jogállását, szervkódját (munkáltatói számát), a rendvédelmi szerv szervezeti hierarchiájában elfoglalt helyét (központi, területi, helyi szerv),
@@ -38,7 +36,6 @@ bm) a könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati b
 
 (3) Az állománytáblázatban fel kell tüntetni a hatálybalépésének dátumát, módosítás esetén a módosítás hatálybalépésének dátumát.
 
-[^4]: Az 1/A. §-t a 6/2019. (III. 11.) BM rendelet 9. § (1) bekezdése iktatta be, szövege a 20/2019. (V. 15.) BM rendelet 7. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés b) pont be) alpontja a 6/2019. (III. 11.) BM rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés b) pont bk) alpontja a 2/2021. (I. 14.) BM rendelet 30. §-ával megállapított szöveg.
 [^7]: A 2. § (1a) bekezdését a 19/2022. (VII. 15.) BM rendelet 89. § (1) bekezdése iktatta be.
