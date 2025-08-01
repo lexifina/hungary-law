@@ -1,0 +1,1 @@
+7. § Ez a rendelet a vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv 1. cikk (1) bekezdésének, valamint 9. cikkének való megfelelést szolgálja.
