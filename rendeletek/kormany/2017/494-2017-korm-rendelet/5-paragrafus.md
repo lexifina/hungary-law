@@ -1,7 +1,3 @@
-## 5. § A nagycsaládos kedvezményre való jogosultságot megállapító döntésben a gyermekekre tekintettel adható nagycsaládos kedvezmény felső határáról
+5. §[^10] A nagycsaládos kedvezményre való jogosultságot megállapító döntésben a gyermekekre tekintettel adható nagycsaládos kedvezmény felső határáról MJ-ban kifejezve kell rendelkezni.
 
-a) a 3. § (1) bekezdés a) pontja esetében MJ-ban,
-
-b) a 3. § (1) bekezdés b) pontja esetében forintban
-
-kifejezve kell rendelkezni.
+[^10]: Az 5. § a 233/2025. (VII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.

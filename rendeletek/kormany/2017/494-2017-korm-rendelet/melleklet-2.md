@@ -1,8 +1,8 @@
-2. melléklet a 494/2017. (XII. 29.) Korm. rendelethez[^14]
+2. melléklet a 494/2017. (XII. 29.) Korm. rendelethez[^29]
 
 Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításához
 
-1. Az igénylőlapot felhasználási helyenként kell kitölteni.
+1. Az igénylőlapot felhasználási helyenként, illetve fogyasztói közösség esetén a lakásonként kell kitölteni.
 
 2. Az igénylő személyi adatai:
 
@@ -34,9 +34,9 @@ Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításáh
 
 4. A kérelem benyújtása során igazolni kell:
 
-4.1. új felhasználási hely esetén a földgáz egyetemes szolgáltatásra vonatkozó szerződéses jogviszonyt, vagy
+4.1. új felhasználási hely esetén a egyetemes földgázszolgáltatásra vonatkozó szerződéses jogviszonyt, vagy
 
-4.2. amennyiben a földgáz egyetemes szolgáltatási szerződés alapján már történt számlakibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla teljesítését.
+4.2. amennyiben a egyetemes földgázszolgáltatási szerződés alapján már történt számlakibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla teljesítését.
 
 5. Fogyasztói közösség képviselőjére vonatkozó adatok
 
@@ -48,13 +48,13 @@ Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításáh
 
 6.1. Tudomásul veszem, hogy a kérelemben foglaltak valódiságát a kormányhivatal ellenőrizheti.
 
-6.2. Tudomásul veszem, hogy a jogosulatlanul igénybe vett kedvezményt törvényes késedelmi kamattal növelten az érintett földgáz egyetemes szolgáltató részére vagyok köteles egy összegben visszafizetni.
+6.2. Tudomásul veszem, hogy a jogosulatlanul igénybe vett kedvezményt törvényes késedelmi kamattal növelten az érintett egyetemes földgázszolgáltató részére vagyok köteles egy összegben visszafizetni.
 
-6.3. A kormányhivatalnak és a Kincstárnak a jogosultság elbírálásához, valamint a kedvezmény érvényesítéséhez és ellenőrzéséhez szükséges adatkezeléséhez, továbbá az egyetemes szolgáltató, valamint fogyasztási közösség esetén a fogyasztói közösség képviselője részére történő adattovábbításhoz hozzájárulok.
+6.3. A kormányhivatalnak és a Kincstárnak a jogosultság elbírálásához, valamint a kedvezmény érvényesítéséhez és ellenőrzéséhez szükséges adatkezeléséhez, továbbá az egyetemes földgázszolgáltató, valamint fogyasztási közösség esetén a fogyasztói közösség képviselője részére történő adattovábbításhoz hozzájárulok.
 
-6.4. Kijelentem, hogy sem én, sem a háztartásomban élő személy más felhasználási helyen nagycsaládos kedvezményt nem vesz(ek) igénybe.
+6.4. Kijelentem, hogy sem én, sem a háztartásomban élő személy más felhasználási helyen, valamint lakás tekintetében nagycsaládos kedvezményt nem vesz(ek) igénybe.
 
-6.5. Kijelentem és tudomásul veszem, hogy köteles vagyok bejelenteni a jogosultságom fennállásának feltételeiben, vagy a felhasználási hely címe tekintetében történt változást – annak bekövetkeztétől számított 15 napon belül – a kormányhivatal részére.
+6.5. Kijelentem és tudomásul veszem, hogy köteles vagyok bejelenteni a jogosultságom fennállásának feltételeiben, vagy a felhasználási hely, illetve fogyasztói közösség esetén a lakás címe tekintetében történt változást – annak bekövetkeztétől számított 15 napon belül – a kormányhivatal részére.
 
 6.6. Büntetőjogi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
@@ -64,4 +64,4 @@ Dátum: ...................... év ........................... hó ........... n
 
 (az igénylő aláírása)
 
-[^14]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) és e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^29]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) és e) pontja, a 233/2025. (VII. 31.) Korm. rendelet 22. § d)–j) pontja szerint módosított szöveg.

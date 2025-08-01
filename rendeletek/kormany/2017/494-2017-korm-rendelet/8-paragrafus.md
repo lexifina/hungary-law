@@ -1,7 +1,10 @@
-8. § (1) Az egyetemes szolgáltató a 3. § (1) bekezdés b) pontja szerinti nagycsaládos kedvezményt a kiállított számlában havonta azonos összegben érvényesíti.
+8. § (1)[^19]
 
-(2) Ha az (1) bekezdés szerint számított összeg az adott havi számla összegét meghaladja, az egyetemes szolgáltató a fennmaradó kedvezményt a következő számlákban érvényesíti.
+(2)[^20]
 
 (3) A kiállított számlán a számlában érvényesített határozatok számát tájékoztató jelleggel szerepeltetni kell.
 
 (4) Ha a felhasználási helyen több fogyasztásmérő berendezés van, az egyetemes szolgáltató a fogyasztott összmennyiség alapján biztosítja a kedvezményt.
+
+[^19]: A 8. § (1) bekezdését a 233/2025. (VII. 31.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^20]: A 8. § (2) bekezdését a 233/2025. (VII. 31.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
