@@ -1,1 +1,0 @@
-## 1. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 158. §-a alapján teljesítményjuttatásra fordítható forrás keretösszegét az Információs Hivatalnál (a továbbiakban: Hivatal) a Hivatal főigazgatója (a továbbiakban: főigazgató) legkésőbb a tárgyév március 10-ig határozza meg.

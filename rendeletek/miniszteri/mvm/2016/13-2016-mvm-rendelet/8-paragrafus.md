@@ -1,1 +1,0 @@
-## 7. § Ha a hivatásos állomány tagja szolgálatát más szervnél teljesíti, a Hszt. 158. § (4) bekezdése alapján részére fizethető teljesítményjuttatás folyósításával kapcsolatos részletes szabályokat a Hszt. 62. § (1) bekezdése alapján kötendő megállapodásban kell rögzíteni.

@@ -1,1 +1,0 @@
-## 6. § A jóváhagyott egyéni teljesítményjuttatási összegről kiállított állományparancsot a Hivatal személyügyi feladatokat ellátó szervezeti eleme küldi meg a Hivatal pénzügyi feladatokat ellátó szervezeti eleme részére.
