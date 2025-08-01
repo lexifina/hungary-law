@@ -1,4 +1,4 @@
-## 6/M.[^58] Az orosz állami ellenőrzés alatt álló vagy orosz állami tulajdonú szervekkel való ügyletekre vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/M.[^65] Az orosz állami ellenőrzés alatt álló vagy orosz állami tulajdonú szervekkel való ügyletekre vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/M. § (1) A 833/2014/EU tanácsi rendelet 5aa. cikk (3a) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet az Európai Unióban letelepedett jogi személy nyújthatja be.
 
@@ -16,4 +16,4 @@ c) a 833/2014/EU tanácsi rendelet 5a. cikkében foglalt tilalom alól adható m
 
 (5) A 833/2014/EU tanácsi rendelet 5aa. cikk (5) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^58]: A 6/M. alcímet (13/M. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
+[^65]: A 6/M. alcímet (13/M. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.

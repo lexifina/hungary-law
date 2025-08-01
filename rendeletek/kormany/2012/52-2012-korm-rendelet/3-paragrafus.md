@@ -1,4 +1,4 @@
-3. §[^2] (1) Budapest Főváros Kormányhivatala, mint nemzeti külkereskedelmi államigazgatási szerv (a továbbiakban: kormányhivatal) tevékenységi engedélyére van szükség az 1. mellékletben meghatározott áruk vonatkozásában a behozatali, illetve a kiviteli, reexport tevékenységek megkezdéséhez.
+3. §[^9] (1) Budapest Főváros Kormányhivatala, mint nemzeti külkereskedelmi államigazgatási szerv (a továbbiakban: kormányhivatal) tevékenységi engedélyére van szükség az 1. mellékletben meghatározott áruk vonatkozásában a behozatali, illetve a kiviteli, reexport tevékenységek megkezdéséhez.
 
 (2) A kormányhivatal által kiadott engedély birtokában végezhetőek
 
@@ -12,10 +12,10 @@ c) a 4. mellékletben felsorolt áruknak bármely országba történő kivitelé
 
 (3) A kormányhivatal engedélyére van szükség a vállalkozási importhoz.
 
-(4)[^3] A kormányhivatal engedélyezi a 833/2014/EU tanácsi rendelet5k. cikk (1) bekezdése szerinti szerződések megkötését vagy a már megkötött szerződések teljesítésének folytatását.
+(4)[^10] A kormányhivatal engedélyezi a 833/2014/EU tanácsi rendelet5k. cikk (1) bekezdése szerinti szerződések megkötését vagy a már megkötött szerződések teljesítésének folytatását.
 
-(5)[^4] A kormányhivatal egyszerre több, a 833/2014/EU tanácsi rendelet 5k. cikk (2) bekezdés a)–f) pontja szerinti, ugyanazon célt szolgáló szerződés megkötését vagy már megkötött több szerződés teljesítésének folytatását hivatalból indult hatósági eljárás keretében általános engedély formájában engedélyezheti a közbeszerzési jogszabályok szerinti ajánlatkérők vagy azok meghatározott csoportja számára.
+(5)[^11] A kormányhivatal egyszerre több, a 833/2014/EU tanácsi rendelet 5k. cikk (2) bekezdés a)–f) pontja szerinti, ugyanazon célt szolgáló szerződés megkötését vagy már megkötött több szerződés teljesítésének folytatását hivatalból indult hatósági eljárás keretében általános engedély formájában engedélyezheti a közbeszerzési jogszabályok szerinti ajánlatkérők vagy azok meghatározott csoportja számára.
 
-[^2]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (4) bekezdését a 225/2022. (VI. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 456/2022. (XI. 9.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^4]: A 3. § (5) bekezdését az 54/2023. (II. 27.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (4) bekezdését a 225/2022. (VI. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 456/2022. (XI. 9.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^11]: A 3. § (5) bekezdését az 54/2023. (II. 27.) Korm. rendelet 1. §-a iktatta be.

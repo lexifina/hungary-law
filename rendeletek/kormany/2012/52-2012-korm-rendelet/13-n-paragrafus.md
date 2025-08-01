@@ -1,4 +1,4 @@
-## 6/N.[^59] A 715/2009/EK európai parlamenti és tanácsi rendelet 2. cikke (1) bekezdésének 28. pontjában meghatározott tárolókapacitás 2009/73/EK európai parlamenti és tanácsi irányelv 2. cikkének 9. pontjában meghatározott földgáztárolókban történő biztosítása alóli mentestést biztosító engedélyek
+## 6/N.[^66] A 715/2009/EK európai parlamenti és tanácsi rendelet 2. cikke (1) bekezdésének 28. pontjában meghatározott tárolókapacitás 2009/73/EK európai parlamenti és tanácsi irányelv 2. cikkének 9. pontjában meghatározott földgáztárolókban történő biztosítása alóli mentestést biztosító engedélyek
 
 13/N. § (1) A 833/2014/EU tanácsi rendelet 5p. cikk (3) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a 2009/73/EK európai parlamenti és tanácsi irányelv 2. cikk 9. pontjában meghatározott földgáztárolók üzemeltetője nyújthatja be.
 
@@ -18,4 +18,4 @@ d) a 833/2014/EU tanácsi rendelet 5p. cikkében foglalt tilalom alól adható m
 
 (5) A 833/2014/EU tanácsi rendelet 5p. cikk (4) bekezdése és 6a. cikk (1) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^59]: A 6/N. alcímet (13/N. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
+[^66]: A 6/N. alcímet (13/N. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.

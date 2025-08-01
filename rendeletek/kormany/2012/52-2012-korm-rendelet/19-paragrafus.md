@@ -1,4 +1,4 @@
-## 19. §[^69] Ez a rendelet
+## 19. §[^77] Ez a rendelet
 
 a) a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 27-i 329/2007/EK tanácsi rendelet,
 
@@ -8,15 +8,15 @@ c) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendele
 
 d) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
 
-e)[^70] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
+e)[^78] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
 
-f)[^71] az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 3a. cikk (2) bekezdésének, 5k. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és 2e., 3ea., 3g., 3i., 3l., 3o., 5a., 5b., 5c., 5d., 5n., 5m., 5g. cikkének
+f)[^79] az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 3a. cikk (2) bekezdésének, 5k. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és 2e., 3ea., 3g., 3i., 3l., 3m., 3o., 5a., 5b., 5c., 5d., 5n., 5m., 5g. cikkének
 
-g)[^72] a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-ai 765/2006/EK tanácsi rendelet 1zc., 1ja., 1u., 1k., 1v., 1w., 1z. cikkének
+g)[^80] a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-ai 765/2006/EK tanácsi rendelet 1zc., 1ja., 1u., 1k., 1v., 1w., 1z. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^69]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 209/2012. (VII. 27.) Korm. rendelet 17. §-a iktatta be.
-[^70]: A 19. § e) pontját a 78/2013. (III. 13.) Korm. rednelet 21. §-a iktatta be.
-[^71]: A 19. § f) pontját a 225/2022. (VI. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 456/2022. (XI. 9.) Korm. rendelet 4. §-ával megállapított, az 54/2023. (II. 27.) Korm. rendelet 2. § c) pontja, a 240/2024. (VIII. 8.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^72]: A 19. § g) pontját a 456/2022. (XI. 9.) Korm. rendelet 5. §-a iktatta be.
+[^77]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 209/2012. (VII. 27.) Korm. rendelet 17. §-a iktatta be.
+[^78]: A 19. § e) pontját a 78/2013. (III. 13.) Korm. rednelet 21. §-a iktatta be.
+[^79]: A 19. § f) pontját a 225/2022. (VI. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 456/2022. (XI. 9.) Korm. rendelet 4. §-ával megállapított, az 54/2023. (II. 27.) Korm. rendelet 2. § c) pontja, a 240/2024. (VIII. 8.) Korm. rendelet 11. §-a, a 233/2025. (VII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^80]: A 19. § g) pontját a 456/2022. (XI. 9.) Korm. rendelet 5. §-a iktatta be.

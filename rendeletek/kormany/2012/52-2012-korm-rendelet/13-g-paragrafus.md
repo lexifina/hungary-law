@@ -1,4 +1,4 @@
-## 6/G.[^43] A bizalmi vagyonkezelésre vagy hasonló jogi konstrukciókra vonatkozó tilalmak alól mentesítést biztosító engedélyek
+## 6/G.[^50] A bizalmi vagyonkezelésre vagy hasonló jogi konstrukciókra vonatkozó tilalmak alól mentesítést biztosító engedélyek
 
 13/G. § (1) A 833/2014/EU tanácsi rendelet 5m. cikk (5) és (6) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a bizalmi vagyonkezelői vagy hasonló jogi konstrukció nyilvántartásba vételét végző, székhely, üzleti cím vagy igazgatási címet biztosító, menedzsmentszolgáltatásokat nyújtó természetes vagy jogi személy nyújthatja be.
 
@@ -14,10 +14,10 @@ c) a 833/2014/EU tanácsi rendelet 5m. cikkében foglalt tilalom alól adható m
 
 (4) Az engedély a 833/2014/EU tanácsi rendelet 5m. cikk (5) és (6) bekezdése valamely pontjában foglalt mentesítési feltételek teljesülése esetén adható meg.
 
-(5)[^44] A 833/2014/EU tanácsi rendelet 5m. cikk (7) bekezdése és 6a. cikk (1) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
+(5)[^51] A 833/2014/EU tanácsi rendelet 5m. cikk (7) bekezdése és 6a. cikk (1) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-(6)[^45] A kormányhivatal egyidejűleg tájékoztatja a Magyar Nemzeti Bankot az e § alapján kiadott engedélyről, illetve az elutasított engedélykérelemről.
+(6)[^52] A kormányhivatal egyidejűleg tájékoztatja a Magyar Nemzeti Bankot az e § alapján kiadott engedélyről, illetve az elutasított engedélykérelemről.
 
-[^43]: A 6/G. alcímet (13/G. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
-[^44]: A 13/G. § (5) bekezdése a 240/2024. (VIII. 8.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^45]: A 13/G. § (6) bekezdését a 240/2024. (VIII. 8.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^50]: A 6/G. alcímet (13/G. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^51]: A 13/G. § (5) bekezdése a 240/2024. (VIII. 8.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^52]: A 13/G. § (6) bekezdését a 240/2024. (VIII. 8.) Korm. rendelet 5. § (2) bekezdése iktatta be.
