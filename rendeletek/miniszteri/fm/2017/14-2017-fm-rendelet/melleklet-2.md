@@ -1,4 +1,4 @@
-2. melléklet a 14/2017. (III. 23.) FM rendelethez[^85]
+2. melléklet a 14/2017. (III. 23.) FM rendelethez[^86]
 
 1. Azon vizsgálatköteles nemzárlati károsítók jegyzéke, amelyek jelenlététől a prebázis anyanövény, prebázis, bázis és certifikált (tanúsított) szaporítóanyagnak mentesnek, a C.A.C. ültetési anyagoknak gyakorlatilag mentesnek kell lenniük és erre vonatkozóan vizuális vizsgálatot, valamint – kétség esetén – mintavételt és tesztelést kell végezni
 
@@ -130,7 +130,7 @@
 
 | 63. |  | 5. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
-| 64. |  | 5.1. Füge mozaik ágens (Fig mosaic agent) [FGM000] |
+| 64.[^87] |  |  |
 
 | 65. | Fragaria L. | 1. Baktériumok |
 
@@ -460,6 +460,8 @@
 
 | 228. |  | 2.3. Godronia cassandrae Peck (anamorf alak: Topospora myrtilli) [GODRCA] |
 
+| 229.[^88] |  | 2.4. Pucciniastrum minimum Sydow & P. Sydow [THEKMI] |
+
 2. Azon vizsgálatköteles nemzárlati károsítók jegyzéke, amelyek jelenlététől a prebázis anyanövény, prebázis, bázis és certifikált szaporítóanyagnak mentesnek, a C.A.C. ültetési anyagoknak gyakorlatilag mentesnek kell lenniük, és erre vonatkozóan vizuális vizsgálatot az e rendelet 5. melléklete szerint, valamint – klónok esetében – mintavételt és tesztelést kell végezni.
 
 |  | A | B |
@@ -588,6 +590,8 @@
 
 | 60. |  | 1.11. A gyümölcs betegségei: apró termés (chat fruit) [APCF00], zöld ráncosodás (green crinkle) [APGC00], a Ben Davis fajta gyümölcsének egyenetlen felszíne (bumpy fruit of Ben Davis), megvastagodott héj (rough skin) [APRSK0], csillagszerű repedés (star crack), vörösesbarna gyűrűk (russet ring) [APLP00], vörösesbarna szemölcsszerű foltok (russet wart) |
 
+| 60a.[^89] |  | 1.12. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
+
 | 61. | Olea europaea L. | 1. Gombák és oospórás gombák |
 
 | 62. |  | 1.1. Verticillium dahliae Kleb [VERTDA] |
@@ -618,6 +622,8 @@
 
 | 75. |  | 2.6. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
 
+| 75a.[^90] |  | 2.7. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
+
 | 76. | Prunus armeniaca L. | 1. Baktériumok |
 
 | 77. |  | 1.1. Xanthomonas arborkola pv. pruni (Smith) Vauterin et al. [XANTPR] |
@@ -637,6 +643,8 @@
 | 84. |  | 2.6. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
 
 | 85. |  | 2.7. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 85a.[^91] |  | 2.8. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
 
 | 86. | Prunus avium L. és Prunus cerasus L. | 1. Baktériumok |
 
@@ -672,6 +680,8 @@
 
 | 102. |  | 2.14. Paradicsom fekete gyűrűs vírus (Tomato black ring virus) [TBRV00] |
 
+| 102a.[^92] |  | 2.15. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
+
 | 103. | Prunus domestica L., Prunus salicina Lindley és a Szilvahimlő vírus iránt fogékony más Prunus L. fajok a Prunus L. hibridjei esetében | 1. Baktériumok |
 
 | 104. |  | 1.1. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR] |
@@ -691,6 +701,8 @@
 | 111. |  | 2.6. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
 
 | 112. |  | 2.7. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 112a.[^93] |  | 2.8. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
 
 | 113. | Prunus persica (L.) Batsch | 1. Baktériumok |
 
@@ -715,6 +727,8 @@
 | 123. |  | 2.8. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
 
 | 124. |  | 2.9. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSV0] |
+
+| 124a.[^94] |  | 2.10. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
 
 | 125. | Pyrus L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
@@ -784,6 +798,8 @@
 
 | 158. |  | 2.13. Paradicsom fekete gyűrűs vírus (Tomato black ring virus) [TBRV00] |
 
+| 158a.[^95] |  | 2.14. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
+
 | 159. | Vaccinium L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
 | 160. |  | 1.1. Áfonya mozaik járulékos vírus (Blueberry mosaic associated ophiovirus) [BLMAV10] |
@@ -803,6 +819,10 @@
 | 167. |  | 1.8. Candidatus Phytoplasma solani Quaglino et al. [PHYPS0] |
 
 | 168. |  | 1.9. Tőzegáfonya álvirágzás fitoplazma (Cranberry falsé blossom phytoplasma) [PHYPFB] |
+
+| 168a.[^96] |  | 1.10. Paradicsom gyűrűsfoltosság vírus (Tomato ringspot virus) [TORSV0] |
+
+| 168b.[^97] |  | 1.11. Dohány gyűrűsfoltosság vírus (Tobacco ringspot virus) [TRSV0] |
 
 | 169. |  | 2. Gombák és petespórás gombák |
 
@@ -872,4 +892,15 @@
 
 | 30. |  | 1.4. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
 
-[^85]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított, a 36/2023. (VII. 19.) AM rendelet 9. § (1) bekezdése, a 36/2023. (VII. 19.) AM rendelet 10. § e) pontja és 11. § a) pontja szerint módosított szöveg.
+[^86]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított, a 36/2023. (VII. 19.) AM rendelet 9. § (1) bekezdése, a 36/2023. (VII. 19.) AM rendelet 10. § e) pontja és 11. § a) pontja szerint módosított szöveg.
+[^87]: A 2. melléklet 1. pontjában foglalt táblázat 64. sorát a 34/2025. (VII. 31.) AM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^88]: A 2. melléklet 1. pontjában foglalt táblázat 229. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^89]: A 2. melléklet 2. pontjában foglalt táblázat 60a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^90]: A 2. melléklet 2. pontjában foglalt táblázat 75a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^91]: A 2. melléklet 2. pontjában foglalt táblázat 85a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^92]: A 2. melléklet 2. pontjában foglalt táblázat 102a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^93]: A 2. melléklet 2. pontjában foglalt táblázat 112a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^94]: A 2. melléklet 2. pontjában foglalt táblázat 124a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^95]: A 2. melléklet 2. pontjában foglalt táblázat 158a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^96]: A 2. melléklet 2. pontjában foglalt táblázat 168a. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^97]: A 2. melléklet 2. pontjában foglalt táblázat 168b. sorát a 34/2025. (VII. 31.) AM rendelet 2. § (1) bekezdése iktatta be.

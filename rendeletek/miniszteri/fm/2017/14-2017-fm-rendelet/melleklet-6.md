@@ -16,7 +16,7 @@
 
 ## 2.1.1.2.1. Mintavételt és tesztelést akkor kell végezni, ha felmerül a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenlétének gyanúja.
 
-## 2.1.2.[^90] Prebázis kategória
+## 2.1.2.[^102] Prebázis kategória
 
 ## 2.1.2.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
 
@@ -34,7 +34,7 @@
 
 ## 2.1.2.1.1.2.2. a termesztési helyen a prebázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket.
 
-## 2.1.3.[^91] Bázis kategória
+## 2.1.3.[^103] Bázis kategória
 
 ## 2.1.3.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
 
@@ -50,7 +50,7 @@
 
 ## 2.1.3.1.2.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket.
 
-## 2.1.4.[^92] Certifikált (tanúsított) és C.A.C. kategória
+## 2.1.4.[^104] Certifikált (tanúsított) és C.A.C. kategória
 
 ## 2.1.4.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
 
@@ -208,9 +208,9 @@
 
 ## 2.4.2.1.1. Minden egyes prebázis anyanövényt tizenöt évvel a prebázis anyanövényként való elfogadása után, majd tizenöt éves időközönként mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt, vírusszerű betegségektől és viroidoktól eltérő vizsgálatköteles nemzárlati károsítók jelenléte tekintetében; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
-## 2.4.2.2. [^93]
+## 2.4.2.2. [^105]
 
-## 2.4.2.2.1.[^94] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
+## 2.4.2.2.1.[^106] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
 
 ## 2.4.2.2.1.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek az Erwinia amylovora (Burrill) Winslow et al. károsítótól; vagy
 
@@ -368,7 +368,7 @@
 
 ## 2.6.4.2.2. Phytophihora fragariae C.J. Hickman esetében:
 
-## 2.6.4.2.2.1.[^95] a Phytophthora fragariae C.J. Hickman észlelése és a következő ültetés között egy legalább tízéves nyugalmi időszaknak kell eltelnie, amely során az érintett növényi szaporítóanyagokat és ültetési anyagokat nem termesztik; és
+## 2.6.4.2.2.1.[^107] a Phytophthora fragariae C.J. Hickman észlelése és a következő ültetés között egy legalább tízéves nyugalmi időszaknak kell eltelnie, amely során az érintett növényi szaporítóanyagokat és ültetési anyagokat nem termesztik; és
 
 ## 2.6.4.2.2.2. a termesztési helyre vonatkozó termesztési adatokat, valamint a korábban bekövetkezett, talajból történt fertőzések adatait nyilván kell tartani;
 
@@ -396,7 +396,7 @@
 
 ## 2.6.4.2.3.4.3. Candidatus Phytoplasma asteris Lee et al.;
 
-## 2.6.4.2.3.4.4. [^96]
+## 2.6.4.2.3.4.4. [^108]
 
 ## 2.6.4.2.3.4.5. Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis;
 
@@ -506,7 +506,7 @@
 
 ## 2.8.2.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.8.2.2.1.[^97] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma mali Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
+## 2.8.2.2.1.[^109] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma mali Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al., valamint a Paradicsom gyűrűsfoltosság vírus tekintetében a következő követelmények alkalmazandók:
 
 ## 2.8.2.2.1.1. Candidatus Phytoplasma mali Seemüller & Schneider esetében:
 
@@ -520,15 +520,23 @@
 
 ## 2.8.2.2.1.2.2. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat a legutóbbi teljes vegetációs időszakban megvizsgálták, és az Erwinia amylovora (Burrill) Winslow et al. okozta tüneteket mutató növényi szaporítóanyagokat és ültetési anyagokat, valamint a környezetükben lévő gazdanövényeket azonnal gyökerestől eltávolították és megsemmisítették.
 
+## 2.8.2.2.1.3.[^110] Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.8.2.2.1.3.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.8.2.2.1.3.2. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették.
+
 ## 2.8.3. Bázis kategória
 
 ## 2.8.3.1. Mintavétel és tesztelés
 
 ## 2.8.3.1.1. A rovarvektorok bejutását megakadályozó létesítményekben fenntartott bázis anyanövények reprezentatív hányadát tizenöt évente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében.
 
-## 2.8.3.1.2. A rovarvektorok bejutását nem megakadályozó létesítményekben fenntartott bázis anyanövények reprezentatív hányadát háromévente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében; a bázis anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma mali Seemüller & Schneider károsítót, valamint a vírusszerű betegségeket és a viroidokat; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
+## 2.8.3.1.2.[^111] A rovarvektorok bejutását nem megakadályozó létesítményekben fenntartott bázis anyanövények reprezentatív hányadát háromévente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében; a bázis anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma mali Seemüller & Schneider károsítót, a Paradicsom gyűrűsfoltosság vírust valamint a vírusszerű betegségeket és a viroidokat; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
-## 2.8.3.2.[^98] A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.8.3.1.3.[^112] A bázis anyanövényeket húszévente mintavételnek és tesztelésnek kell alávetni a Paradicsom gyűrűsfoltosság vírus jelenléte tekintetében.
+
+## 2.8.3.2.[^113] A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
 ## 2.8.3.2.1. Candidatus Phytoplasma mali Seemüller & Schneider esetében:
 
@@ -542,17 +550,25 @@
 
 ## 2.8.3.2.2.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokat a legutóbbi teljes vegetációs időszakban megvizsgálták, és az Erwinia amylovora (Burrill) Winslow et al. okozta tüneteket mutató szaporítóanyagokat, valamint a környezetükben lévő gazdanövényeket azonnal gyökerestől eltávolították és megsemmisítették.
 
+## 2.8.3.2.3.[^114] Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.8.3.2.3.1. a bázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.8.3.2.3.2. a termesztési helyen a bázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették.
+
 ## 2.8.4. Certifikált (tanúsított) kategória
 
 ## 2.8.4.1. Mintavétel és tesztelés
 
 ## 2.8.4.1.1. A rovarvektorok bejutását megakadályozó létesítményekben fenntartott certifikált (tanúsított) anyanövények reprezentatív hányadát tizenöt évente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében.
 
-## 2.8.4.1.2. A rovarvektorok bejutását nem megakadályozó létesítményekben fenntartott certifikált (tanúsított) anyanövények reprezentatív hányadát ötévente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében; a certifikált (tanúsított) anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma mali Seemüller & Schneider károsítót, valamint a vírusszerű betegségeket és a viroidokat; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
+## 2.8.4.1.2.[^115] A rovarvektorok bejutását nem megakadályozó létesítményekben fenntartott certifikált (tanúsított) anyanövények reprezentatív hányadát ötévente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében; a certifikált (tanúsított) anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma mali Seemüller & Schneider károsítót, a Paradicsom gyűrűsfoltosság vírust valamint a vírusszerű betegségeket és a viroidokat; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
 ## 2.8.4.1.3. A certifikált (tanúsított) ültetési anyagokat abban az esetben kell mintavételnek és tesztelésnek alávetni, ha felmerül a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenlétének gyanúja.
 
-## 2.8.4.2.[^99] A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.8.4.1.4.[^116] A certifikált (tanúsított) anyanövényeket húszévente mintavételnek és tesztelésnek kell alávetni a Paradicsom gyűrűsfoltosság vírus jelenléte tekintetében.
+
+## 2.8.4.2.[^117] A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
 ## 2.8.4.2.1. Candidatus Phytoplasma mali Seemüller & Schneider esetében:
 
@@ -568,7 +584,15 @@
 
 ## 2.8.4.2.2.2. a termesztési helyen a certifikált (tanúsított) kategóriájú szaporítóanyagokat a legutóbbi teljes vegetációs időszakban megvizsgálták, és az Erwinia amylovora (Burrill) Winslow et al. okozta tüneteket mutató szaporítóanyagokat, valamint a környezetükben lévő gazdanövényeket azonnal gyökerestől eltávolították és megsemmisítették.
 
-## 2.8.5. [^100]
+## 2.8.4.2.3.[^118] Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.8.4.2.3.1. a C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól;
+
+## 2.8.4.2.3.2. a termesztési helyen a C.A.C. kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették, vagy
+
+## 2.8.4.2.3.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporító-, illetve ültetési anyagok legfeljebb 2%-án észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, és a tüneteket mutató növényeket azonnal gyökerestől eltávolították és megsemmisítették.
+
+## 2.8.5. [^119]
 
 ## 2.8.5.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
@@ -672,7 +696,7 @@
 
 ## 2.11.1.3. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.11.1.3.1.[^101] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma prunorum Seemüller & Schneider, a Szilvahimlő vírus, a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. és a Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie tekintetében a következő követelmények alkalmazandók:
+## 2.11.1.3.1.[^120] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma prunorum Seemüller & Schneider, a Szilvahimlő vírus, a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. és a Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie, valamint a Paradicsom gyűrűsfoltosság vírus tekintetében a következő követelmények alkalmazandók:
 
 ## 2.11.1.3.1.1. Candidatus Phytoplasma prunorum Seemüller & Schneider esetében:
 
@@ -688,7 +712,7 @@
 
 ## 2.11.1.3.1.2.2. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Szilvahimlő vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették; vagy
 
-## 2.11.1.3.1.2.3.[^102] a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat el kell különíteni a többi gazdanövénytől. A termesztési helyen alkalmazandó elkülönítési távolságot a regionális körülmények, a növényi szaporítóanyag típusa, a Szilvahimlő vírusnak az érintett területen való jelenléte és a növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal által vizsgálat útján megállapított kapcsolódó kockázatok függvényében kell meghatározni;
+## 2.11.1.3.1.2.3.[^121] a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat el kell különíteni a többi gazdanövénytől. A termesztési helyen alkalmazandó elkülönítési távolságot a regionális körülmények, a növényi szaporítóanyag típusa, a Szilvahimlő vírusnak az érintett területen való jelenléte és a növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal által vizsgálat útján megállapított kapcsolódó kockázatok függvényében kell meghatározni;
 
 ## 2.11.1.3.1.3. Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie esetében:
 
@@ -701,6 +725,12 @@
 ## 2.11.1.3.1.4.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. károsítótól; vagy
 
 ## 2.11.1.3.1.4.2. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették.
+
+## 2.11.1.3.1.5.[^122] Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.11.1.3.1.5.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.11.1.3.1.5.2. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették.
 
 ## 2.11.2. Bázis, certifikált (tanúsított) és C.A.C. kategória
 
@@ -722,7 +752,9 @@
 
 ## 2.11.3.1.2.2. Az alanyok előállítására szánt bázis anyanövények reprezentatív hányadát évente mintavételnek és tesztelésnek kell alávetni a Szilvahimlő vírus jelenléte tekintetében, ami alapján mentesnek kell lenniük az említett vizsgálatköteles nemzárlati károsítók A Prunus domestica L. fajhoz tartozó, alanyok előállítására szánt bázis anyanövények reprezentatív hányadát az előző öt vegetációs időszak során mintavételnek és tesztelésnek kellett alávetni a Candidatus Phytoplasma prunorum Seemüller & Schneider jelenléte tekintetében, ami alapján mentesnek kellett lenniük az említett vizsgálatköteles nemzárlati károsítótól.
 
-## 11.3.1.2.3. A bázis anyanövények reprezentatív hányadát mintavételnek és tesztelésnek kell alávetni abban az esetben, ha felmerül a Xanthomonas arboricola pv. pruni (Smith) Vauterin et dl. jelenlétének gyanúja.A bázis anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tízévente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma prunorum Seemüller & Schneider károsítót, a Szilva törpülés vírust, a Prunus nekrotikus gyűrűsfoltosság vírust és a Szilvahimlő vírust; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
+## 2.11.3.1.2.2.1.[^123] A bázis anyanövények reprezentatív hányadát a megfertőződés kockázatára vonatkozó értékelés alapján húszévente mintavételnek és tesztelésnek kell alávetni a Paradicsom gyűrűsfoltosság vírus jelenléte tekintetében.
+
+## 2.11.3.1.2.3.[^124] A bázis anyanövények reprezentatív hányadát mintavételnek és tesztelésnek kell alávetni abban az esetben, ha felmerül a Xanthomonas arboricola pv. pruni (Smith) Vauterin et dl. jelenlétének gyanúja. A bázis anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tízévente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma prunorum Seemüller & Schneider károsítót, a Szilva törpülés vírust, a Prunus nekrotikus gyűrűsfoltosság vírust, a Szilvahimlő vírust, valamint a Paradicsom gyűrűsfoltosság vírust; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
 ## 2.11.3.1.2.3.1. Virágzó anyanövények
 
@@ -748,7 +780,9 @@
 
 ## 2.11.4.1.2.2. Az alanyok előállítására szánt certifikált (tanúsított) anyanövények reprezentatív hányadát évente mintavételnek és tesztelésnek kell alávetni a Szilvahimlő vírus jelenléte tekintetében, ami alapján mentesnek kell lenniük az említett vizsgálatköteles nemzárlati károsítótól. A Prunus cerasifera Ehrh. és a Prunus domestica L. fajhoz tartozó, alanyok előállítására szánt certifikált (tanúsított) anyanövények reprezentatív hányadát az előző öt vegetációs időszak során mintavételnek kellett alávetni és tesztelni kellett a Candidatus Phytoplasma prunorum Seemüller & Schneider jelenléte tekintetében, ami alapján mentesnek kellett lenniük az említett vizsgálatköteles nemzárlati károsítótól.
 
-## 2.11.4.1.2.3. A certifikált (tanúsított) anyanövények reprezentatív hányadát mintavételnek és tesztelésnek kell alávetni abban az esetben, ha felmerül a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. jelenlétének gyanúja. A certifikált (tanúsított) anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma prunorum Seemüller & Schneider károsítót, a Szilva törpülés vírust, a Prunus nekrotikus gyűrűsfoltosság vírust és a Szilvahimlő vírust; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítókjelenléte tekintetében abban az esetben kell tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
+## 2.11.4.1.2.2.1.[^125] A certifikált (tanúsított) anyanövények reprezentatív hányadát a megfertőződés kockázatára vonatkozó értékelés alapján húszévente mintavételnek és tesztelésnek kell alávetni a Tomato ringspot vírus jelenléte tekintetében.
+
+## 2.11.4.1.2.3.[^126] A certifikált (tanúsított) anyanövények reprezentatív hányadát mintavételnek és tesztelésnek kell alávetni abban az esetben, ha felmerül a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. jelenlétének gyanúja. A certifikált (tanúsított) anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma prunorum Seemüller & Schneider károsítót, a Szilva törpülés vírust, a Prunus nekrotikus gyűrűsfoltosság vírust és a Szilvahimlő vírust, valamint a Paradicsom gyűrűsfoltosság vírust; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítókjelenléte tekintetében abban az esetben kell tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
 ## 2.11.4.1.3. Virágzó anyanövények
 
@@ -794,6 +828,12 @@
 
 ## 2.11.5.1.4.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a certifikált (tanúsított) kategóriájú növényi szaporítóanyagok és ültetési anyagok legfeljebb 2%-án észleltek a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. okozta tüneteket, és az érintett növényi szaporítóanyagokat és ültetési anyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették.
 
+## 2.11.5.1.5.[^127] Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.11.5.1.5.1. a bázis és certifikált (tanúsított) kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.11.5.1.5.2. a termesztési helyen a bázis és certifikált (tanúsított) kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették.
+
 ## 2.11.6. C.A.C. kategória
 
 ## 2.11.6.1. Mintavétel és tesztelés
@@ -820,7 +860,7 @@
 
 ## 2.11.6.2.1.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporítóanyagok és ültetési anyagok legfeljebb 1%-án észleltek a Candidatus Phytoplasma prunorum Seemüller & Schneider okozta tüneteket, és az érintett növényi szaporítóanyagokat és ültetési anyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették, a tüneteket mutató növényi szaporítóanyagokat és ültetési anyagokat tartalmazó tételek fennmaradó tünetmentes növényi szaporítóanyagainak és ültetési anyagainak reprezentatív mintáját tesztelésnek vetették alá, és a Candidatus Phytoplasma prunorum Seemüller & Schneider károsítótól mentesnek találták; vagy
 
-## 2.11.6.2.1.4. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporítóanyagok és ültetési anyagok legfeljebb 2%-án észleltek a Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie és a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. okozta tüneteket, és az érintett növényi szaporítóanyagokat és ültetési anyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették;
+## 2.11.6.2.1.4. [^128]
 
 ## 2.11.6.2.2. Szilvahimlő vírus esetében:
 
@@ -846,6 +886,14 @@
 
 ## 2.11.6.2.4.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporítóanyagok és ültetési anyagok legfeljebb 2%-án észleltek a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. okozta tüneteket, és az érintett növényi szaporítóanyagokat és ültetési anyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették.
 
+## 2.11.6.2.5.[^129] Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.11.6.2.5.1. a C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól;
+
+## 2.11.6.2.5.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették, vagy
+
+## 2.11.6.2.5.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporító-, illetve ültetési anyagok legfeljebb 2%-án észleltek a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, és a tüneteket mutató növényeket azonnal gyökerestől eltávolították és megsemmisítették.
+
 ## 2.12. Pyrus L.
 
 ## 2.12.1. Minden kategória
@@ -862,9 +910,9 @@
 
 ## 2.12.2.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.12.2.2.1.[^103] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma pyri Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
+## 2.12.2.2.1.[^130] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma pyri Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
 
-## 2.12.2.2.1.1.[^104] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
+## 2.12.2.2.1.1.[^131] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
 
 ## 2.12.2.2.1.1.1. A prebázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek nyilvánított, vagy
 
@@ -898,7 +946,7 @@
 
 ## 2.12.5.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.12.5.1.1.[^105] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
+## 2.12.5.1.1.[^132] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
 
 ## 2.12.5.1.1.1. A bázis és certifikált (tanúsított) kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek nyilvánított,
 
@@ -920,7 +968,7 @@
 
 ## 2.12.6.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.12.6.2.1.[^106] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
+## 2.12.6.2.1.[^133] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
 
 ## 2.12.6.2.1.1. a C.A.C. kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek nyilvánított,
 
@@ -990,13 +1038,13 @@
 
 ## 2.14.2.2. Mintavétel és tesztelés
 
-## 2.14.2.2.1. Mintavételt és tesztelést kell végezni, ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus és a Paradicsom fekete gyűrűs vírus tünetei nem világosak a vizuális vizsgálat során. Mintavételt és tesztelést kell végezni, ha felmerül a 2. mellékletben felsorolt valamely vizsgálatköteles nemzárlati károsító jelenlétének gyanúja a következők kivételével: Arabis mozaik vírus, Málna gyűrűsfoltosság vírus, Szamóca látens gyűrűsfoltosság vírus és Paradicsom fekete gyűrűs vírus.
+## 2.14.2.2.1.[^134] Mintavételt és tesztelést kell végezni, ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus és a Paradicsom fekete gyűrűs vírus, valamint a Paradicsom gyűrűsfoltosság vírus tünetei nem világosak a vizuális vizsgálat során. Mintavételt és tesztelést kell végezni, ha felmerül a 2. mellékletben felsorolt valamely vizsgálatköteles nemzárlati károsító jelenlétének gyanúja a következők kivételével: Arabis mozaik vírus, Málna gyűrűsfoltosság vírus, Szamóca látens gyűrűsfoltosság vírus és Paradicsom fekete gyűrűs vírus, valamint a Paradicsom gyűrűsfoltosság vírus.
 
 ## 2.14.2.3. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.14.2.3.1. Ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus vagy a Paradicsom fekete gyűrűs vírus tüneteit mutató bázis kategóriájú növényi szaporítóanyagok és ültetési anyagok esetében pozitív vizsgálati eredmény születik, az érintett növényi szaporítóanyagot és ültetési anyagot gyökerestől el kell távolítani és azonnal meg kell semmisíteni;
+## 2.14.2.3.1.[^135] Ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus, a Paradicsom fekete gyűrűs vírus, vagy a Paradicsom gyűrűsfoltosság vírus tüneteit mutató bázis kategóriájú növényi szaporítóanyagok és ültetési anyagok esetében pozitív vizsgálati eredmény születik, az érintett növényi szaporítóanyagot és ültetési anyagot gyökerestől el kell távolítani és azonnal meg kell semmisíteni;
 
-## 2.14.2.3.2. az Arabis mozaik vírustól, a Málna gyűrűsfoltosság vírustól, a Szamóca látens gyűrűsfoltosság vírustól és a Paradicsom fekete gyűrűs vírustól eltérő vizsgálatköteles nemzárlati károsítókra vonatkozó követelmények:
+## 2.14.2.3.2.[^136] az Arabis mozaik vírustól, a Málna gyűrűsfoltosság vírustól, a Szamóca látens gyűrűsfoltosság vírustól és a Paradicsom fekete gyűrűs vírustól, valamint a Paradicsom gyűrűsfoltosság vírustól eltérő vizsgálatköteles nemzárlati károsítókra vonatkozó követelmények:
 
 ## 2.14.2.3.2.1. a termesztési helyen a legutóbbi teljes vegetációs időszakban azoknak a bázis kategóriájúnövényi szaporítóanyagoknak és ültetési anyagoknak a százalékos aránya, amelyek az alábbi vizsgálatköteles nemzárlati károsítók tüneteit mutatták, nem haladhatja meg az alábbi értékeket:
 
@@ -1018,13 +1066,13 @@
 
 ## 2.14.3.2. Mintavétel és tesztelés
 
-## 2.14.3.2.1. Mintavételt és tesztelést kell végezni, ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus és a Paradicsom fekete gyűrűs vírus tünetei nem világosak a vizuális vizsgálat során. Mintavételt és tesztelést kell végezni, ha felmerül a 2. mellékletben felsorolt valamely vizsgálatköteles nemzárlati károsító jelenlétének gyanúja a következők kivételével: Arabis mozaik vírus, Málna gyűrűsfoltosság vírus, Szamóca látens gyűrűsfoltosság vírus és Paradicsom fekete gyűrűs vírus.
+## 2.14.3.2.1.[^137] Mintavételt és tesztelést kell végezni, ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus és a Paradicsom fekete gyűrűs vírus, valamint a Paradicsom gyűrűsfoltosság vírus tünetei nem világosak a vizuális vizsgálat során. Mintavételt és tesztelést kell végezni, ha felmerül a 2. mellékletben felsorolt valamely vizsgálatköteles nemzárlati károsító jelenlétének gyanúja a következők kivételével: Arabis mozaik vírus, Málna gyűrűsfoltosság vírus, Szamóca látens gyűrűsfoltosság vírus és Paradicsom fekete gyűrűs vírus, valamint a Paradicsom gyűrűsfoltosság vírus.
 
 ## 2.14.3.3. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.14.3.3.1. Ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus vagy a Paradicsom fekete gyűrűs vírus tüneteit mutató certifikált (tanúsított) kategóriájú növényi szaporítóanyagok és ültetési anyagok esetében pozitív vizsgálati eredmény születik, az érintett növényi szaporítóanyagot és ültetési anyagot gyökerestől el kell távolítani és azonnal meg kell semmisíteni;
+## 2.14.3.3.1.[^138] Ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus, a Paradicsom fekete gyűrűs vírus, vagy a Paradicsom gyűrűsfoltosság vírus tüneteit mutató certifikált (tanúsított) kategóriájú növényi szaporítóanyagok és ültetési anyagok esetében pozitív vizsgálati eredmény születik, az érintett növényi szaporítóanyagot és ültetési anyagot gyökerestől el kell távolítani és azonnal meg kell semmisíteni;
 
-## 2.14.3.3.2. az Arabis mozaik vírustól, a Málna gyűrűsfoltosság vírustól, a Szamóca látens gyűrűsfoltosság vírustól és a Paradicsom fekete gyűrűs vírustól eltérő vizsgálatköteles nemzárlati károsítókra vonatkozó követelmények:
+## 2.14.3.3.2.[^139] az Arabis mozaik vírustól, a Málna gyűrűsfoltosság vírustól, a Szamóca látens gyűrűsfoltosság vírustól és a Paradicsom fekete gyűrűs vírustól, valamint a Paradicsom gyűrűsfoltosság vírustól eltérő vizsgálatköteles nemzárlati károsítókra vonatkozó követelmények:
 
 ## 2.14.3.3.2.1. a termesztési helyen a legutóbbi teljes vegetációs időszakban azoknak a certifikált (tanúsított) kategóriájúnövényi szaporítóanyagoknak és ültetési anyagoknak a százalékos aránya, amelyek az alábbi vizsgálatköteles nemzárlati károsítók tüneteit mutatták, nem haladhatja meg az alábbi értékeket:
 
@@ -1048,11 +1096,19 @@
 
 ## 2.14.4.2. Mintavétel és tesztelés
 
-## 2.14.4.2.1. Mintavételt és tesztelést kell végezni, ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus és a Paradicsom fekete gyűrűs vírus tünetei nem világosak a vizuális vizsgálat során. Mintavételt és tesztelést kell végezni, ha felmerül a 2. mellékletben felsorolt valamely vizsgálatköteles nemzárlati károsító jelenlétének gyanúja a következők kivételével: Arabis mozaik vírus, Málna gyűrűsfoltosság vírus, Szamóca látens gyűrűsfoltosság vírus és Paradicsom fekete gyűrűs vírus.
+## 2.14.4.2.1.[^140] Mintavételt és tesztelést kell végezni, ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus és a Paradicsom fekete gyűrűs vírus, valamint a Paradicsom gyűrűsfoltosság vírus tünetei nem világosak a vizuális vizsgálat során. Mintavételt és tesztelést kell végezni, ha felmerül a 2. mellékletben felsorolt valamely vizsgálatköteles nemzárlati károsító jelenlétének gyanúja a következők kivételével: Arabis mozaik vírus, Málna gyűrűsfoltosság vírus, Szamóca látens gyűrűsfoltosság vírus és Paradicsom fekete gyűrűs vírus, valamint a Paradicsom gyűrűsfoltosság vírus.
 
-## 2.14.4.3. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.14.4.3.[^141] A termesztési helyre, a termőhelyre és a területre vonatkozó követelmények:
 
-## 2.14.4.3.1. Ha az Arabis mozaik vírus, a Málna gyűrűsfoltosság vírus, a Szamóca látens gyűrűsfoltosság vírus vagy a Paradicsom fekete gyűrűs vírus tüneteit mutató C.A.C. kategóriájú növényi szaporítóanyagok és ültetési anyagok esetében pozitív vizsgálati eredmény születik, az érintett növényi szaporítóanyagot és ültetési anyagot gyökerestől el kell távolítani és azonnal meg kell semmisíteni.
+## 2.14.4.3.1. a C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.14.4.3.2. a C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagok előállításának feltételei, hogy
+
+## 2.14.4.3.2.1. a termesztési helyen a C.A.C. kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a 2. mellékletben a Rubus L. tekintetében felsorolt vizsgálatköteles nemzárlati károsítók okozta tüneteket,
+
+## 2.14.4.3.2.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporító-, illetve ültetési anyagok legfeljebb 2%-án észleltek a ToRSV okozta tüneteket, és a tüneteket mutató növényeket azonnal gyökerestől eltávolították és megsemmisítették és
+
+## 2.14.4.3.2.3. amennyiben az Arabis mozaik vírus, a málna gyűrűsfoltosság vírus, a szamóca látens gyűrűsfoltosság vírus, a paradicsom fekete gyűrűs vírus vagy a Paradicsom gyűrűsfoltosság vírus tüneteit mutató C.A.C. kategóriájú növényi szaporító-, illetve ültetési anyagok esetében pozitív vizsgálati eredmény születik, az érintett növényi szaporítóanyagot azonnal gyökerestől el kell távolítani és meg kell semmisíteni.
 
 ## 2.15. Vaccinium L.
 
@@ -1096,11 +1152,17 @@
 
 ## 2.15.2.3.3.3. 0,5% az Exobasidium vaccinii (Fuckel) Woronin esetében; valamint az érintett növényi szaporítóanyagokat és ültetési anyagokat és a környezetükben lévő gazdanövényeket gyökerestől eltávolították és megsemmisítették.
 
-## 2.15.2.3.4.[^107] Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+## 2.15.2.3.4.[^142] Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
 
 ## 2.15.2.3.4.1. A bázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
 
 ## 2.15.2.3.4.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket.
+
+## 2.15.2.3.5.[^143] Dohány gyűrűsfoltosság vírus és Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.15.2.3.5.1. a bázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Dohány gyűrűsfoltosság vírustól és Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.15.2.3.5.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Dohány gyűrűsfoltosság vírus vagy a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették.
 
 ## 2.15.3. Certifikált (tanúsított) és C.A.C. kategória
 
@@ -1134,7 +1196,7 @@
 
 ## 2.15.4.1.2.3. 1% az Exobasidium vaccinii (Fuckel) Woronin esetében; valamint az érintett növényi szaporítóanyagokat és ültetési anyagokat és a környezetükben lévő gazdanövényeket gyökerestől eltávolították és megsemmisítették.
 
-## 2.15.4.1.3.[^108] Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+## 2.15.4.1.3.[^144] Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
 
 ## 2.15.4.1.3.1. A certifikált (tanúsított) kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
 
@@ -1164,7 +1226,13 @@
 
 ## 2.15.4.1.3.3.3.1.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták.
 
-## 2.15.5.[^109] C.A.C. kategória
+## 2.15.4.1.4.[^145] Dohány gyűrűsfoltosság vírus és Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.15.4.1.4.1. a bázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Dohány gyűrűsfoltosság vírustól és Paradicsom gyűrűsfoltosság vírustól; vagy
+
+## 2.15.4.1.4.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Dohány gyűrűsfoltosság vírus vagy a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették.
+
+## 2.15.5.[^146] C.A.C. kategória
 
 ## 2.15.5.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
 
@@ -1188,11 +1256,19 @@
 
 ## és
 
-## 2.15.5.1.1.2.3. a termesztési helyen található minden egyéb szaporítóanyag esetében:
+## 2.15.5.1.1.2.3.[^147] a termesztési helyen található minden egyéb szaporítóanyag esetében:
 
 ## 2.15.5.1.1.2.3.1. a termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
 
-## 2.15.5.1.2.3.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták.
+## 2.15.5.1.1.2.3.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták.
+
+## 2.15.5.1.2.[^148] Dohány gyűrűsfoltosság vírus és Paradicsom gyűrűsfoltosság vírus esetében:
+
+## 2.15.5.1.2.1. a C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Dohány gyűrűsfoltosság vírustól és Paradicsom gyűrűsfoltosság vírustól;
+
+## 2.15.5.1.2.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Dohány gyűrűsfoltosság vírus vagy a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig azonnal gyökerestől eltávolították és megsemmisítették, vagy
+
+## 2.15.5.1.2.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporító-, illetve ültetési anyagok legfeljebb 2%-án észleltek a Dohány gyűrűsfoltosság vírus és a Paradicsom gyűrűsfoltosság vírus okozta tüneteket, és a tüneteket mutató növényeket azonnal gyökerestől eltávolították és megsemmisítették.
 
 6. melléklet a 14/2017. (III. 23.) FM rendelethez
 
@@ -1258,7 +1334,7 @@ A bázis anyanövény felszaporítása legfeljebb két generáción át megenged
 
 A bázis anyanövény felszaporítása legfeljebb egy generáción át megengedett.
 
-9.[^110] Prunus armeniaca L., Prunus domestica L., Prunus dulcis (Mill.) D. A. Webb, Prunus persica (L.) Batsch és Prunus salicina Lindl.
+9.[^149] Prunus armeniaca L., Prunus domestica L., Prunus dulcis (Mill.) D. A. Webb, Prunus persica (L.) Batsch és Prunus salicina Lindl.
 
 9.1. Bázis kategória
 
@@ -1286,24 +1362,51 @@ A bázis anyanövény felszaporítása legfeljebb két generáción át megenged
 
 A bázis anyanövény felszaporítása legfeljebb két generáción át megengedett.
 
-[^90]: Az 5. melléklet 2.1.2. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^91]: Az 5. melléklet 2.1.3. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^92]: Az 5. melléklet 2.1.4. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^93]: Az 5. melléklet 2.4.2.2. pontját a 36/2023. (VII. 19.) AM rendelet 11. § b) pontja hatályon kívül helyezte.
-[^94]: Az 5. melléklet 2.4.2.2.1 pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
-[^95]: Az 5. melléklet 2. pont 2.6.4.2.2.1. alpontja a 43/2020. (VIII. 19.) AM rendelet 4. §-a szerint módosított szöveg.
-[^96]: Az 5. melléklet 2.6.4.2.3.4.4. pontját a 36/2023. (VII. 19.) AM rendelet 11. § c) pontja hatályon kívül helyezte.
-[^97]: Az 5. melléklet 2.8.2.2.1 a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
-[^98]: Az 5. melléklet 2.8.3. pont 2.8.3.2. alpontját 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^99]: Az 5. melléklet 2.8.4. pont 2.8.4.2. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^100]: Az 5. melléklet 2.8.5. pontját a 36/2023. (VII. 19.) AM rendelet 11. § d) pontja hatályon kívül helyezte.
-[^101]: Az 5. melléklet 2.11.1.3.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
-[^102]: Az 5. melléklet 2.11.1.3.1.2.3. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^103]: Az 5. melléklet 2.12.2.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
-[^104]: Az 5. melléklet 2.12.2.2.1.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^105]: Az 5. melléklet 2.12.5.1.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^106]: Az 5. melléklet 2.12.6.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^107]: Az 5. melléklet 2.15.2.3. pont 2.15.2.3.4. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^108]: Az 5. melléklet 2.15.4.1. pont 2.15.4.1.3. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^109]: Az 5. melléklet 2.15. pont 2.15.5. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^110]: A 6. melléklet 9. pont címe a 36/2023. (VII. 19.) AM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^102]: Az 5. melléklet 2.1.2. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^103]: Az 5. melléklet 2.1.3. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^104]: Az 5. melléklet 2.1.4. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^105]: Az 5. melléklet 2.4.2.2. pontját a 36/2023. (VII. 19.) AM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^106]: Az 5. melléklet 2.4.2.2.1 pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^107]: Az 5. melléklet 2. pont 2.6.4.2.2.1. alpontja a 43/2020. (VIII. 19.) AM rendelet 4. §-a szerint módosított szöveg.
+[^108]: Az 5. melléklet 2.6.4.2.3.4.4. pontját a 36/2023. (VII. 19.) AM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^109]: Az 5. melléklet 2.8.2.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja, a 34/2025. (VII. 31.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^110]: Az 5. melléklet 2.8.2.2.1. pont 2.8.2.2.1.3. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^111]: Az 5. melléklet 2.8.3.1.2. pontja a 34/2025. (VII. 31.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^112]: Az 5. melléklet 2.8.3.1. pont 2.8.3.1.3. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^113]: Az 5. melléklet 2.8.3. pont 2.8.3.2. alpontját 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^114]: Az 5. melléklet 2.8.3.2. pont 2.8.3.2.3. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^115]: Az 5. melléklet 2.8.4.1.2. pontja a 34/2025. (VII. 31.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^116]: Az 5. melléklet 2.8.4.1. pont 2.8.4.1.4. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^117]: Az 5. melléklet 2.8.4. pont 2.8.4.2. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^118]: Az 5. melléklet 2.8.4.2. pont 2.8.4.2.3. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^119]: Az 5. melléklet 2.8.5. pontját a 36/2023. (VII. 19.) AM rendelet 11. § d) pontja hatályon kívül helyezte.
+[^120]: Az 5. melléklet 2.11.1.3.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja, a 34/2025. (VII. 31.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^121]: Az 5. melléklet 2.11.1.3.1.2.3. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^122]: Az 5. melléklet 2.11.1.3.1. pont 2.11.1.3.1.5. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^123]: Az 5. melléklet 2.11.3.1.2.2. pont 2.11.3.1.2.2.1. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^124]: Az 5. melléklet 2.11.3. pont 11.3.1.2.3. alpontja a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^125]: Az 5. melléklet 2.11.4.1.2.2. pont 2.11.4.1.2.2.1. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^126]: Az 5. melléklet 2.11.4.1.2.3. pontja a 34/2025. (VII. 31.) AM rendelet 3. § d) pontja szerint módosított szöveg.
+[^127]: Az 5. melléklet 2.11.5.1. pont 2.11.5.1.5. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^128]: Az 5. melléklet 2.11.6.2.1.4. pontját a 34/2025. (VII. 31.) AM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^129]: Az 5. melléklet 2.11.6.2. pont 2.11.6.2.5. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^130]: Az 5. melléklet 2.12.2.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^131]: Az 5. melléklet 2.12.2.2.1.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^132]: Az 5. melléklet 2.12.5.1.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^133]: Az 5. melléklet 2.12.6.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^134]: Az 5. melléklet 2.14.2.2.1. pontja a 34/2025. (VII. 31.) AM rendelet 3. § e) pontja szerint módosított szöveg.
+[^135]: Az 5. melléklet 2.14.2.3.1. pontja a 34/2025. (VII. 31.) AM rendelet 3. § e) pontja szerint módosított szöveg.
+[^136]: Az 5. melléklet 2.14.2.3.2. pontja a 34/2025. (VII. 31.) AM rendelet 3. § g) pontja szerint módosított szöveg.
+[^137]: Az 5. melléklet 2.14.3.2.1. pontja a 34/2025. (VII. 31.) AM rendelet 3. § e) pontja szerint módosított szöveg.
+[^138]: Az 5. melléklet 2.14.3.3.1. pontja a 34/2025. (VII. 31.) AM rendelet 3. § f) pontja szerint módosított szöveg.
+[^139]: Az 5. melléklet 2.14.3.3.2. pontja a 34/2025. (VII. 31.) AM rendelet 3. § g) pontja szerint módosított szöveg.
+[^140]: Az 5. melléklet 2.14.4.2.1. pontja a 34/2025. (VII. 31.) AM rendelet 3. § e) pontja szerint módosított szöveg.
+[^141]: Az 5. melléklet 2.14.4.3. pontja a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^142]: Az 5. melléklet 2.15.2.3. pont 2.15.2.3.4. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^143]: Az 5. melléklet 2.15.2.3. pont 2.15.2.3.5. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^144]: Az 5. melléklet 2.15.4.1. pont 2.15.4.1.3. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^145]: Az 5. melléklet 2.15.4.1. pont 2.15.4.1.4. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^146]: Az 5. melléklet 2.15. pont 2.15.5. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^147]: Az 5. melléklet 2.15.5.1.1.2.3. pontja a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^148]: Az 5. melléklet 2.15.5.1. pont 2.15.5.1.2. alpontját a 34/2025. (VII. 31.) AM rendelet 2. § (2) bekezdése iktatta be.
+[^149]: A 6. melléklet 9. pont címe a 36/2023. (VII. 19.) AM rendelet 9. § (3) bekezdésével megállapított szöveg.

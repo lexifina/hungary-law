@@ -1,4 +1,4 @@
-8. melléklet a 14/2017. (III. 23.) FM rendelethez[^111]
+8. melléklet a 14/2017. (III. 23.) FM rendelethez[^150]
 
 A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének részletes növény-egészségügyi feltételei
 
@@ -82,7 +82,7 @@ A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének 
 
 5.1. Azonos fajú növények telepítése csak 5 év elteltével engedélyezhető.
 
-5.2.[^112] A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal ellenőrzi.
+5.2.[^151] A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal ellenőrzi.
 
 5.3. A megvizsgált talajminta vírusvektor fonálférgeket nem tartalmazhat.
 
@@ -102,5 +102,5 @@ A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének 
 
 | 6. | Xiphinema diversicaudatum | – | + | + | – | – | + | + | + |
 
-[^111]: A 8. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^112]: A 8. melléklet 5.2. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^150]: A 8. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^151]: A 8. melléklet 5.2. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

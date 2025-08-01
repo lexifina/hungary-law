@@ -14,8 +14,11 @@ f)[^82] a 66/401/EGK, a 66/402/EGK, a 68/193/EGK, a 2002/55/EK, a 2002/56/EK és
 
 g)[^83] a Bizottság (EU) 2022/2438 végrehajtási irányelve (2022. december 12.) a 93/49/EGK irányelvnek és a 2014/98/EU végrehajtási irányelvnek a dísznövények szaporítóanyagain, a gyümölcstermő növények szaporítóanyagain és a gyümölcstermesztésre szánt gyümölcstermő növényeken jelen lévő uniós vizsgálatköteles nemzárlati károsítók tekintetében történő módosításáról
 
+h)[^84] a 2014/98/EU végrehajtási irányelvnek a Tobacco ringspot virus, a Tomato ringspot virus, a Pucciniastrum minimum (Schweinitz) Arthur és a füge mozaik ágens (Fig mosaic agent) uniós vizsgálatköteles nemzárlati károsítók tekintetében történő módosításáról és az említett végrehajtási irányelvnek a Candidatus Phytoplasma prunorum Seemüller & Schneider károsítóra vonatkozóan meghatározott intézkedések tekintetében történő helyesbítéséről szóló, 2025. január 29-i (EU) 2025/145 bizottsági végrehajtási irányelvnek
+
 való megfelelést szolgálja.
 
 [^81]: Az 50. § e) pontját a 43/2020. (VIII. 19.) AM rendelet 3. §-a iktatta be.
 [^82]: Az 50. § f) pontját a 35/2020. (VI. 29.) AM rendelet 19. §-a iktatta be.
 [^83]: Az 50. § g) pontját a 36/2023. (VII. 19.) AM rendelet 8. §-a iktatta be.
+[^84]: Az 50. § h) pontját a 34/2025. (VII. 31.) AM rendelet 1. §-a iktatta be.

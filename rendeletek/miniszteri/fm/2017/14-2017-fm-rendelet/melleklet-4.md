@@ -1,4 +1,4 @@
-4. melléklet a 14/2017. (III. 23.) FM rendelethez[^88]
+4. melléklet a 14/2017. (III. 23.) FM rendelethez[^100]
 
 Ültetési anyagok és alanycsemeték, követelményei, kötegelése és jelölése
 
@@ -382,4 +382,4 @@
 
 5.1.3.2. Tünete: a betegség következtében a szaporítóanyag felületén a közvetlen vizsgálatnál különböző jellegű penészbevonat tapasztalható.
 
-[^88]: A 4. melléklet a 36/2023. (VII. 19.) AM rendelet 10. § f) pontja szerint módosított szöveg.
+[^100]: A 4. melléklet a 36/2023. (VII. 19.) AM rendelet 10. § f) pontja szerint módosított szöveg.
