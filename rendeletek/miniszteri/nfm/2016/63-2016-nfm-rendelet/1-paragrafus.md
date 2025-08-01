@@ -24,11 +24,11 @@
 
 10. Prémium pénzeszköz: a VET 13. § (1) bekezdése szerinti pénzeszköz prémium típusú támogatáshoz kapcsolódó része.
 
-11.[^8] pénzeszköz: a VET 13. § (1) bekezdése szerinti KÁT és prémium pénzeszköz, továbbá a villamosenergia-tárolók a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet idején történő eltérő alkalmazásáról szóló 382/2023. (VIII. 14.) Korm. rendelet (a továbbiakban: VR.) szerinti bevételkompenzációjához kapcsolódó Tárolói pénzeszköz együttesen;
+11.[^8] pénzeszköz: a VET 13. § (1) bekezdése szerinti KÁT és prémium pénzeszköz, továbbá a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatása, valamint a villamosenergia-tárolók bevételkompenzációja finanszírozásához szükséges pénzeszköz mértékének megállapítási módjáról és a megfizetésre vonatkozó részletes szabályokról szóló 235/2025. (VII. 31.) Korm. rendelet (a továbbiakban: Korm. r.) szerinti bevételkompenzációjához kapcsolódó Tárolói pénzeszköz együttesen;
 
-12.[^9] támogatott tároló: azon villamosenergia-tároló, amely vonatkozásában annak üzemeltetője a VR. szerinti bevételkompenzációs támogatás igénybevételére jogosult;
+12.[^9] támogatott tároló: azon villamosenergia-tároló, amely vonatkozásában annak üzemeltetője a Korm. r. szerinti bevételkompenzációs támogatás igénybevételére jogosult;
 
-13.[^10] tárolói pénzeszköz: a VR. 5. § (1) bekezdése szerinti pénzeszköz.
+13.[^10] tárolói pénzeszköz: a Korm. r. 3. § (1) bekezdése szerinti pénzeszköz.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, valamint annak felhatalmazása alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
@@ -39,6 +39,6 @@
 [^5]: Az 1. § (1) bekezdés 5a. pontját a 49/2021. (X. 1.) ITM rendelet 21. § (2) bekezdése iktatta be.
 [^6]: Az 1. § (1) bekezdés 6. pontja a 49/2021. (X. 1.) ITM rendelet 28. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (1) bekezdés 9. pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^8]: Az 1. § (1) bekezdés 11. pontját a 18/2023. (IX. 21.) EM rendelet 1. §-a iktatta be.
-[^9]: Az 1. § (1) bekezdés 12. pontját a 18/2023. (IX. 21.) EM rendelet 1. §-a iktatta be.
-[^10]: Az 1. § (1) bekezdés 13. pontját a 18/2023. (IX. 21.) EM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (1) bekezdés 11. pontját a 18/2023. (IX. 21.) EM rendelet 1. §-a iktatta be, szövege a 20/2025. (VII. 31.) EM rendelet 12. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § (1) bekezdés 12. pontját a 18/2023. (IX. 21.) EM rendelet 1. §-a iktatta be, szövege a 20/2025. (VII. 31.) EM rendelet 12. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § (1) bekezdés 13. pontját a 18/2023. (IX. 21.) EM rendelet 1. §-a iktatta be, szövege a 20/2025. (VII. 31.) EM rendelet 12. § c) pontja szerint módosított szöveg.

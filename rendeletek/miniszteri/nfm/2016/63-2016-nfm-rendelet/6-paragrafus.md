@@ -22,7 +22,7 @@ f)[^39] a tárgyhónapot megelőző termelési időszakban a pénzeszköz fizet�
 
 g)[^40] a Premizált termelő és a pénzeszköz fizetésére kötelezett prémium támogatási rendszerrel kapcsolatos, a tárgyhónap utolsó munkanapján fennálló lejárt esedékességű tartozásainak összegét és azoknak még figyelembe nem vett módosulásait;
 
-h)[^41] a Kr. alapján a földgázszolgáltató részére fizetendő, a Prémium pénzeszköznek a tárgyhónap utolsó munkanapjáig befolyt, még figyelembe nem vett, a tárgyhónapot megelőző második hónapig meghatározott többletbevételei összegét.
+h)[^41]
 
 [^35]: A 6. § (1) bekezdés a) pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^36]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2022. (VIII. 18.) TIM rendelet 2. § e) pontja szerint módosított szöveg.
@@ -30,4 +30,4 @@ h)[^41] a Kr. alapján a földgázszolgáltató részére fizetendő, a Prémium
 [^38]: A 6. § (3) bekezdés c) pontja a 4/2025. (II. 28.) EM rendelet 4. §-ával megállapított szöveg.
 [^39]: A 6. § (3) bekezdés f) pontja a 18/2023. (IX. 21.) EM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^40]: A 6. § (3) bekezdés g) pontját a 15/2022. (VIII. 18.) TIM rendelet 1. § (2) bekezdése iktatta be, szövege a 18/2023. (IX. 21.) EM rendelet 6. § (7) bekezdése szerint módosított szöveg.
-[^41]: A 6. § (3) bekezdés h) pontját újonnan a 24/2022. (XI. 8.) TIM rendelet 1. § (2) bekezdése iktatta be.
+[^41]: A 6. § (3) bekezdés h) pontját újonnan a 24/2022. (XI. 8.) TIM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 2. § b) pontja.
