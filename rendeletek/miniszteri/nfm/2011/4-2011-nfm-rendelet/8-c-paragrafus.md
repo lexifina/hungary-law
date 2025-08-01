@@ -1,0 +1,1 @@
+8/C. § Ha a tárgyévre vonatkozó, a tervadatok alapján megállapított és folyósított ellentételezés összege eltér a tárgyévet követő évben a tényadatok alapján megállapított tárgyévi ellentételezés összegétől, a többletkifizetés vagy fedezethiány összegét a villamosenergia-szolgáltató a tárgyévet követő évben számított ellentételezés terhére vagy javára előjelhelyesen elhatárolja.

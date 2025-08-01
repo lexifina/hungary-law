@@ -1,0 +1,1 @@
+8/A. § Az egyetemes szolgáltató által alkalmazandó díjak változása esetén az egyetemes szolgáltató köteles az új díjak megállapítását követő időszakra előzetesen kibocsátott számlákat az új díjak megállapítását követő 30 napon belül helyesbíteni az új díjak alkalmazásával.

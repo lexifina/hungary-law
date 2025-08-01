@@ -1,0 +1,1 @@
+8/E. § Az energiapolitikáért felelős miniszter – figyelemmel a Hivatal KR 4. § (2) bekezdése szerinti megfelelőségi vizsgálatának eredményére – a villamosenergia-szolgáltató részére a tárgyévet követő év január 31. napjáig nyilatkozik az ellentételezés megállapítása iránti kérelem vagy kérelem kiegészítés e rendeletnek való megfeleléséről.
