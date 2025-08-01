@@ -28,4 +28,6 @@ gc) minősített igénybevételi mód.
 
 (5) A járműkövető rendszer infrastruktúra üzemeltetője adatfeldolgozónak minősül.
 
-(6) A polgári nemzetbiztonsági szolgálat a járműkövető rendszer alkalmazás által feldolgozott adatokat saját hardware infrastruktúrán elkülönítve kezeli. A Nemzeti Információs Központ esetében a járműkövető rendszer alkalmazás a Nemzetbiztonsági Szakszolgálat hardware infrastruktúráján üzemel.
+(6)[^1] A polgári nemzetbiztonsági szolgálat a járműkövető rendszer alkalmazás által feldolgozott adatokat saját hardware infrastruktúrán elkülönítve kezeli.
+
+[^1]: A 9. § (6) bekezdése a 14/2025. (VII. 31.) MK rendelet 22. §-a szerint módosított szöveg.
