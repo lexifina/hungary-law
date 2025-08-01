@@ -8,7 +8,7 @@ b) az a) pont alá nem eső faj esetén a tartás helye szerint illetékes terü
 
 kell megtenni.
 
-(2)[^8] Az (1) bekezdésben meghatározott bejelentési kötelezettség nem vonatkozik az 1. számú mellékletben felsorolt fajok példányaira, valamint azon vadászati trófeákra, amelyek jogszerű eredetét a tanácsi rendeletben szereplő engedélyekkel, illetve bizonylatokkal tudják igazolni.
+(2)[^8] Az (1) bekezdésben meghatározott bejelentési kötelezettség nem vonatkozik az 1. számú mellékletben felsorolt fajok példányaira, valamint azon vadászati trófeákra és a barna medve (Ursus arctos) húsára, illetve húsából készült termékekre, amelyek jogszerű eredetét a tanácsi rendeletben szereplő engedélyekkel, illetve bizonylatokkal tudják igazolni.
 
 (3)[^9] A bejelentést – jogszabály eltérő rendelkezése hiányában – a megszerzéstől, az ország területére történő behozataltól, az ország területéről történő kiviteltől, az elidegenítéstől, az elhullástól, a megsemmisüléstől, a szaporulat létrejöttétől, illetve a tartási hely megváltoztatásától, a megjelöléstől, újrajelöléstől számított 30 napon belül kell megtenni.
 
@@ -16,5 +16,5 @@ kell megtenni.
 
 [^6]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 65. § (1) bekezdésével megállapított, nyitó szövegrésze a 188/2025. (VII. 3.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^7]: A 4. § (1) bekezdés a) pontja a 188/2025. (VII. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^8]: A 4. § (2) bekezdése a 41/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdése a 41/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított, a 188/2025. (VII. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^9]: A 4. § (3) bekezdése a 41/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
