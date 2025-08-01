@@ -1,5 +1,0 @@
-8. § (1) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának, valamint a villamosenergia-tárolók bevételkompenzációjának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
-
-(2) Felhatalmazást kap a Hivatal elnöke, hogy a villamosenergia-tárolók bevételkompenzációja tekintetében a bevételkompenzáció kiszámításának részletszabályait, a bevételkompenzáció meghatározásához szükséges referencia nettó bevétel kiszámításának módját és az annak felülvizsgálatához kapcsolódó szabályokat, a bevételkompenzáció alkalmazásának feltételeire és elszámolására, valamint a bevételkompenzációra jogosult adatszolgáltatási kötelezettségének adattartalmára, teljesítésére és egyéb részleteire vonatkozó szabályokat rendeletben határozza meg.[^2]
-
-[^2]: Lásd a 17/2023. (XI. 21.) MEKH rendeletet.
