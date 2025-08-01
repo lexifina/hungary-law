@@ -1,0 +1,1 @@
+7. § A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet alapján a rezsivédelmi szolgáltatás biztosítása céljából megkötött szerződés az 1. § (2) bekezdése alapján megkötött szerződésnek minősül.
