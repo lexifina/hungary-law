@@ -1,0 +1,1 @@
+3. § A jegyzék a hatálybalépése előtt hitelesített energiahatékonyság-javító intézkedésekből származó energiamegtakarítás mértékének megállapítására is alkalmazható, amennyiben a végfelhasználási energiamegtakarítás mértéke a vonatkozó jegyzék adatlap részletes számítási metódus módszertana alapján újra meghatározásra kerül.
