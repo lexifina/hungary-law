@@ -26,7 +26,7 @@ j)[^12] a foglalkoztatással, munkavédelemmel, társadalombiztosítással, nyug
 
 k) az adott szolgáltatási tevékenység megkezdéséhez vagy folytatásához szükséges, a környezet védelmének általános szabályairól szóló törvényben előírt engedélyezési és bejelentési eljárás, ideértve a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló kormányrendeletben előírt eljárásokat is.
 
-(3)[^13] Az integrált ügyintézési és tájékoztatási pontot a Központi Okmányügyi Főosztály feladataiba foglaltan úgy kell kialakítani és működtetni, hogy azon keresztül a szolgáltatás igénybe vevője közvetlenül megtehesse a (2) bekezdésben megjelölt eljárásokban szükséges eljárási cselekményeket, és megkapja az adott élethelyzet szempontjából ehhez szükséges és erre vonatkozó tájékoztatást.
+(3)[^13] Az integrált ügyintézési és tájékoztatási pontot a Központi Kormányablak feladataiba foglaltan úgy kell kialakítani és működtetni, hogy azon keresztül a szolgáltatás igénybe vevője közvetlenül megtehesse a (2) bekezdésben megjelölt eljárásokban szükséges eljárási cselekményeket, és megkapja az adott élethelyzet szempontjából ehhez szükséges és erre vonatkozó tájékoztatást.
 
 (4) Az integrált ügyintézési és tájékoztatási pont működtetője az e rendelet szerinti, adattovábbítást is igénylő egyes feladatok ellátásához elektronikus űrlapot tesz közzé.
 
@@ -35,4 +35,4 @@ k) az adott szolgáltatási tevékenység megkezdéséhez vagy folytatásához s
 [^10]: A 3. § (2) bekezdés c) pontja a 82/2012. (IV. 21.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^11]: A 3. § (2) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 79. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^12]: A 3. § (2) bekezdés j) pontja a 82/2012. (IV. 21.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
-[^13]: A 3. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 22. § (4) bekezdésével megállapított, a 219/2024. (VII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 22. § (4) bekezdésével megállapított, a 219/2024. (VII. 31.) Korm. rendelet 3. §-a, a 242/2025. (VII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
