@@ -1,0 +1,1 @@
+6. § A szerződés aláírásának évében a miniszter a rendszerbiztonsági szolgáltató részéről benyújtott kérelem alapján, a Hivatal javaslatát figyelembe véve, tárgyév december 31-ig gondoskodik az ellentételezés tárgyévi összege rendszerbiztonsági szolgáltató részére történő kifizetéséről, a 7. §-ban meghatározottak szerinti utólagos elszámolás mellett.
