@@ -1,0 +1,5 @@
+9. § (1) Egy adott termék, technológia vagy építményrész kiváltása esetén az egyenértékűség szempontjából ezekre meghatározott lényeges tulajdonság vagy teljesítmény mellett nem kell ezek összetevőire vagy alkotóelemeire külön-külön is meghatározni és vizsgálni a lényeges tulajdonságot vagy teljesítményt.
+
+(2) Amennyiben az építtető az épület-technológiai rendszerek, komplex berendezések esetén az előírt értékeket a rendszer vagy berendezés egészére határozza meg, annak egyes elemei kiváltása esetén az egyenértékűség szempontjából vizsgálandó, hogy a kiváltással érintett elem vagy rész mennyiben befolyásolja az egész rendszer vagy berendezés lényeges tulajdonságait.
+
+(3) Amennyiben az építtető a (2) bekezdésben foglaltaktól eltérően nem az egyenértékűségi kiváltással érintett épület-technológiai rendszer, komplex berendezés egészére határozta meg az előírt értékeket, az építtető előírhatja, hogy a kiváltási javaslatnak részletesen tartalmaznia kell a kiváltó termék vagy berendezés kiváltással érintett, és az ahhoz kapcsolódó egyéb épület-technológiai rendszer vagy komplex berendezés egészére gyakorolt hatását.

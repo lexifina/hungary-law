@@ -1,0 +1,3 @@
+13. § (1) A költségszakértő és a tervező együtt vagy – ha költségszakértő nem kerül bevonásra az állami építési beruházás előkészítésébe és megvalósításába – a tervező önállóan, javaslatot tesz az építtető részére a helyettesítés esetén alkalmazandó értékcsökkentés mértékére és számítási módjára.
+
+(2) Ha a kivitelező által kiváltani javasolt termék vagy technológia valamely lényeges jellemzője vonatkozásában az előírt értéknek megfelelő értékkel rendelkező kiváltó termék nem beszerezhető, a tervező és a műszaki ellenőr vizsgálja ki és bírálja el a kivitelezőnek a helyettesítésre vonatkozó, e rendelet szerint készített, részletes leírást és indokolást tartalmazó javaslatát.
