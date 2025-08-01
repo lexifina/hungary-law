@@ -1,0 +1,3 @@
+6. § (1) A kedvezményre való jogosultság megállapításáról, változásáról vagy annak megszűnéséről szóló döntésről a kormányhivatal az egyetemes szolgáltatót elektronikus úton 5 napon belül értesíti. A jogosult a kormányhivatal döntését a kedvezmény érvényesítése érdekében megküldi az egyetemes szolgáltató részére.
+
+(2) A jogosult a kérelemben foglalt adatok változását – ideértve a jogosultság feltételeinek megszűnését és a jogosulttal egy háztartásban élő, gyógyászati segédeszközt napi rendszerességgel használó személy felhasználási helyében történő változást is – a változás bekövetkezésétől számított 15 napon belül bejelenti a kormányhivatalnak. A kormányhivatal a bejelentés alapján az 5. § szerint dönt új határozat kiadásáról.
