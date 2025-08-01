@@ -1,11 +1,13 @@
-## 8. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló miniszteri rendelet határozza meg a Társasággal kapcsolatos, az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyt (a továbbiakban: tulajdonosi joggyakorló).
+9. §[^26] A miniszter a Társaság feladatellátásához kapcsolódóan
 
-## 9. § Az európai uniós források felhasználásáért felelős miniszter a Társaság feladatellátásához kapcsolódóan az alábbi feladatokat látja el:
+a) a területi irodák fejlesztéspolitikai tapasztalatairól rendszeresen tájékoztatja az érintett minisztereket,
 
-a) általános iránymutatást ad a területi irodák működésével kapcsolatban,
+b) szakmai, módszertani támogatást nyújt a területi irodák feladataihoz,
 
-b) a Társaságtól a területi irodák működésével, tevékenységével, ellátott feladataival kapcsolatban beszámolót, jelentést, tájékoztatót kérhet, valamint feladat elvégzésére vagy mulasztás pótlására ajánlást fogalmazhat meg,
+c) rendszeresen fórumot biztosít a Társaság kijelölt képviselői és az érintett irányító hatóságok képviselői számára,
 
-c) a területi irodák fejlesztéspolitikai tapasztalatairól rendszeresen tájékoztatja az érintett minisztereket,
+d) gondoskodik az irányító hatóság és közreműködő szervezet azon szakmai és pénzügyi kapcsolattartó munkatársainak kijelöléséről, akik biztosítják, hogy a területi irodák naprakész és egységes információkkal rendelkezzenek a programozási időszak pályázati konstrukcióival kapcsolatosan,
 
-d) a tulajdonosi joggyakorlóval közösen jóváhagyja a területi irodákra vonatkozó stratégiai döntéseket.
+e) a Társasággal együttműködve gondoskodik a területi irodák egységes arculatának kialakításáról.
+
+[^26]: A 9. § a 242/2025. (VII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.

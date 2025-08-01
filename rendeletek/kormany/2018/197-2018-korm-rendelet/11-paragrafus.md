@@ -1,7 +1,3 @@
-## 11. § A központi költségvetésnek
+11. §[^28]
 
-a) az európai uniós források felhasználásáért felelős miniszter által irányított fejezete,
-
-b) a tulajdonosi joggyakorló által irányított fejezete
-
-terhére nyújtandó költségvetési támogatásokkal kapcsolatos lebonyolítási és közreműködői feladatok ellátásával a fejezetet irányító szerv a Társaságot megbízhatja.
+[^28]: A 11. §-t a 242/2025. (VII. 31.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.

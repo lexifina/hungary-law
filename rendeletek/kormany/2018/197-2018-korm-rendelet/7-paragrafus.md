@@ -1,3 +1,3 @@
-7. § (1) A Társaság a 3. § szerinti irodái útján részt vesz az egyes komplex nemzeti térségfejlesztési programokkal kapcsolatos feladatok ellátásában, koordinációjában.
+7. §[^23] A Társaság működteti az európai uniós és hazai költségvetési forrásból finanszírozott programok és projektek megvalósításához szükséges adatok gyűjtéséhez és rendszerezéséhez szükséges adatbázisokat.
 
-(2) A Társaság elláthatja az egyes nemzeti támogatási programokkal kapcsolatosan a pályázók és kedvezményezettek helyben támogatását a források felhasználásának elősegítése érdekében.
+[^23]: A 7. § a 242/2025. (VII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,1 +1,3 @@
-## 3. § A Társaság kormányhatározatban nevesített komplex nemzeti térségfejlesztési programok végrehajtásának támogatása céljából irodákat működtet.
+4. §[^5]
+
+[^5]: A 4. §-t a 242/2025. (VII. 31.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

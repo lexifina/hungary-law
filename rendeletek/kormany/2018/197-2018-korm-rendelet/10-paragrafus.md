@@ -1,11 +1,3 @@
-## 10. § Az európai uniós források felhasználásáért felelős miniszter támogatja a területi irodákat, ennek keretében:
+10. §[^27] A Társaság ellátja a központi költségvetés miniszter által irányított fejezete terhére nyújtandó támogatásokkal kapcsolatos lebonyolítási és közreműködői feladatokat.
 
-a) szakmai, módszertani támogatást nyújt a területi irodák feladataihoz,
-
-b) országos központi képzéseket szervez a területi irodák munkatársai számára,
-
-c) rendszeresen fórumot biztosít a Társaság kijelölt képviselői, a területi irodák vagy a területi irodáknál foglalkoztatott tanácsadók szakmai munkacsoportjainak képviselői és az érintett irányító hatóságok képviselői számára,
-
-d) gondoskodik az irányító hatóság és közreműködő szervezet azon szakmai és pénzügyi kapcsolattartó munkatársainak kijelöléséről, akik biztosítják, hogy a területi irodák naprakész és egységes információkkal rendelkezzenek a programozási időszak pályázati konstrukcióival kapcsolatosan,
-
-e) a Társasággal együttműködve gondoskodik a területi irodák egységes arculatának kialakításáról.
+[^27]: A 10. § a 242/2025. (VII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
