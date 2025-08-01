@@ -1,3 +1,1 @@
-7. §[^7]
-
-[^7]: A 7. § a 9. § (2) bekezdése alapján 2025. augusztus 1-jén lép hatályba.
+7. § A Rendelet 3. § (2) bekezdésében és 4. melléklet 4. pont 4.1. alpont 4.1.2. pontjában az „a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet” szövegrész helyébe az „a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet” szöveg lép.
