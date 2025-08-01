@@ -4,6 +4,6 @@
 
 (2) Évente legfeljebb 15 Építők Elismerő Oklevél adományozható.
 
-(3)[^14] Az Építők Elismerő Oklevél a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
+(3)[^21] Az Építők Elismerő Oklevél a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
 
-[^14]: A 13. § (3) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.
+[^21]: A 13. § (3) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.

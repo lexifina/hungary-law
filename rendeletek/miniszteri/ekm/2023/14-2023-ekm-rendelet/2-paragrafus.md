@@ -1,6 +1,6 @@
 2. § (1) Elismerésként díj, érdemérem és elismerő oklevél adományozható.
 
-(2) A miniszter által adományozható elismerések:
+(2)[^1] A miniszter által adományozható elismerések:
 
 a) Kós Károly-életműdíj,
 
@@ -16,10 +16,14 @@ f) Pro Architectura díj,
 
 g) Építők Elismerő Oklevél,
 
-h) Baross Gábor-díj,
+h) id. Rubik Ernő-díj,
 
-i) Közlekedésért Érdemérem,
+i) Baross Gábor-díj,
 
-j) Magyar Polgári Repülésért Érdemérem,
+j) Közlekedésért Érdemérem,
 
-k) Miniszteri Elismerő Oklevél.
+k) Magyar Polgári Repülésért Érdemérem,
+
+l) Miniszteri Elismerő Oklevél.
+
+[^1]: A 2. § (2) bekezdése a 24/2025. (VII. 31.) ÉKM rendelet 1. §-ával megállapított szöveg.

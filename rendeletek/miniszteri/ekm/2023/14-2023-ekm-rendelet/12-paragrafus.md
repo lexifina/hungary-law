@@ -16,11 +16,11 @@ adományozható.
 
 (3) A díjból évente legfeljebb 4 adományozható. A díjat ugyanaz a természetes személy, jogi személy vagy közösség (legfeljebb 3 fő társtervező megnevezésével) 5 éven belül csak egyszer kaphatja meg. Újabb díj adományozására csak olyan teljesítmény alapján lehet javaslatot tenni, amely a korábban adományozott díj elnyerése óta született.
 
-(4)[^12] A díj a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
+(4)[^18] A díj a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
 
 (5) A díjazott az adományozást igazoló oklevelet kap.
 
-(6)[^13] A díjhoz bruttó 7 500 000 forint összegű pénzjutalom jár.
+(6)[^19] A díjhoz bruttó 7 500 000 forint összegű pénzjutalom jár.
 
 (7) A díj elnyerésére vonatkozó pályázatokat legfeljebb 7 tagból álló szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja. Szavazategyenlőség esetén a bíráló bizottság elnökének szavazata dönt.
 
@@ -38,11 +38,12 @@ e) az elnök által felkért, a magyar építészeti kultúra népszerűsítés�
 
 (9) A díj elnyerésére bárki pályázhat, aki a mindenkori pályázati felhívásban rögzített feltételeket teljesíti.
 
-(10) A díj elnyerésére vonatkozó jelentkezés lehetőségét és határidejét, a pályázat eredményességéhez szükséges részletes formai és tartalmi követelményeket rögzítő felhívást minden évben legalább a szakmai szervezetek és intézmények körében közzé kell tenni a díj átadásának napját 120 nappal megelőzően.
+(10)[^20] A díj elnyerésére vonatkozó jelentkezés lehetőségét és határidejét, a pályázat eredményességéhez szükséges részletes formai és tartalmi követelményeket rögzítő felhívást minden évben legalább a szakmai szervezetek és intézmények körében közzé kell tenni a díj átadásának napját 135 nappal megelőzően. A javaslatok megtételére a díj átadásának napját megelőző 120. és 75. nap között van lehetőség.
 
 (11) A bíráló bizottság az építészeti államtitkár útján a díj adományozására vonatkozó javaslatát a díj átadásának napját legalább 45 nappal megelőzően – az elismerés tárgyának rövid ismertetését tartalmazó indokolással – terjeszti fel a miniszternek.
 
 (12) A bíráló bizottság tagja e tevékenységéért díjazásban nem részesül. A bíráló bizottság melletti titkársági feladatok ellátásáról az építészeti stratégiáért felelős helyettes államtitkár gondoskodik.
 
-[^12]: A 12. § (4) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.
-[^13]: A 12. § (6) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 7. §-ával megállapított szöveg.
+[^18]: A 12. § (4) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.
+[^19]: A 12. § (6) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 12. § (10) bekezdése a 24/2025. (VII. 31.) ÉKM rendelet 7. §-ával megállapított szöveg.
