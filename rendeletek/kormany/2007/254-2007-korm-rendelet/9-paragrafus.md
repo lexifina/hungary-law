@@ -30,7 +30,7 @@ d) ha törvény és ez alapján a vagyonkezelési szerződés másként nem rend
 
 (10) A (9) bekezdés a)–b) pontját a kulturális örökség ingó javaira nem kell alkalmazni.
 
-(11)[^145] A vagyonkezelőnél a (9) bekezdés b) pontjában előírt terven felüli értékcsökkenés elszámolása és a visszapótlási kötelezettség nem áll fenn abban az esetben, ha az értékcsökkenés elszámolását előidéző ok a vagyonkezelőnek nem róható fel.
+(11)[^145] A vagyonkezelőnél a (9) bekezdés b) pontjában előírt terven felüli értékcsökkenés elszámolással érintett vagyon tekintetében a visszapótlási kötelezettség nem áll fenn abban az esetben, ha az értékcsökkenés elszámolását előidéző ok a vagyonkezelőnek nem róható fel.
 
 (12)[^146] A központi költségvetési szerv vagyonkezelő köteles harminc napon belül írásban, az érintett ingatlan pontos megjelölésével, részletes indokolással ellátva jelezni a tulajdonosi joggyakorló felé, ha az általa ellátandó állami feladathoz vagy a közvetlen intézményi elhelyezéséhez kilencven napot meghaladóan nem szükséges az ingatlan vagyonkezelése. A határidő elmulasztása a szerződés szempontjából a 12. § (4) bekezdés c) pontjában említett lényeges kötelezettségszegésnek minősül. A kötelezettség nem áll fenn, ha a használat ideiglenes szünetelése az állami feladat időszakos ellátása vagy a vagyon értékesítésének előkészítése miatt következett be.
 
@@ -69,7 +69,7 @@ f) a vagyonkezelő nem tett eleget jogszabályban előírt kötelezettségének.
 [^142]: A 9. § (7) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
 [^143]: A 9. § (9) bekezdése a 77/2014. (III. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^144]: A 9. § (9) bekezdés a) pontja a 26/2015. (II. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^145]: A 9. § (11) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^145]: A 9. § (11) bekezdése a 229/2025. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^146]: A 9. § (12) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^147]: A 9. § (13) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított, a 604/2022. (XII. 28.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^148]: A 9. § (14) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 148/2019. (VI. 25.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
