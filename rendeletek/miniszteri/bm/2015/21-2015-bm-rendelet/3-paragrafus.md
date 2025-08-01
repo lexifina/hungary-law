@@ -1,5 +1,3 @@
-## vezethető be.
-
 3. § (1) A hivatásos állomány tagja szolgálatba lépéskor köteles a szolgálati elöljáró részére nyilatkozni a nála található korlátozás alá eső tárgyról, a nyilatkozatot követően köteles azt az értékmegőrző szekrényben elhelyezni, vagy annak hiányában a kijelölt átvevőnek átadni, ami a szolgálat befejezését követően adható vissza.
 
 (2) Az átadott korlátozás alá eső tárgyat az értékmegőrző szekrényben vagy névre szóló lezárt, az átadó által aláírt borítékban, az átvevő lemezszekrényében kell tárolni a szolgálat végéig. Az átadás-átvétel tényét, a nyilatkozatot külön erre a célra megnyitott, nyilvántartási számmal ellátott nyilvántartásban kell dokumentálni.
