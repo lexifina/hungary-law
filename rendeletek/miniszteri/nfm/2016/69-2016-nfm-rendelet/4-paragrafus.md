@@ -1,10 +1,10 @@
-4. § (1) A felhasználó által fizetendő mennyiségarányos díj összegét – a 9. §-ban foglaltak kivételével –
+4. § (1)[^9] A felhasználó által fizetendő gázdíj összegét – a 9. §-ban foglaltak kivételével –
 
 a) a szolgáltatott (átvett) földgáz köbméterben mért és gáztechnikai normálállapotra átszámított térfogatának,
 
 b) a mérési időszakra a (4) bekezdés szerint meghatározott fűtőértéknek, valamint
 
-c) az egységnyi hőmennyiségre vonatkozóan – a gázmérők névleges teljesítménye és a felhasználó típusa szerinti díjkategóriához tartozó – megállapított 1. melléklet szerinti gázdíjnak
+c)[^10] az egységnyi hőmennyiségre vonatkozóan – a gázmérők névleges teljesítménye és a felhasználó típusa szerinti árszabáshoz tartozó – gázdíjnak
 
 a szorzataként kell meghatározni.
 
@@ -12,6 +12,8 @@ a szorzataként kell meghatározni.
 
 (3) A gáztechnikai normálállapotra történő térfogat-átszámításhoz használt nyomás- és hőmérsékletkorrekció szabályait az egyetemes szolgáltató az üzletszabályzatában közzéteszi.
 
-(4)[^6] Az elszámolás alapja a földgázszállító által a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatala vagy a Magyar Kereskedelmi Engedélyezési Hivatal érvényes minősítésével rendelkező gázmérőn mért, naponkénti bontásban jegyzőkönyvben megadott, és ezen napi fűtőértékek alapján – az egyetemes szolgáltató által a mérési időszakra gázátadó állomásonként és településenként – alkalmazott átlagos fűtőérték, amit kéttizedes pontosságú MJ/m3 értékre kell kerekíteni.
+(4)[^11] Az elszámolás alapja a földgázszállító által a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatala vagy a Magyar Kereskedelmi Engedélyezési Hivatal érvényes minősítésével rendelkező gázmérőn mért, naponkénti bontásban jegyzőkönyvben megadott, és ezen napi fűtőértékek alapján – az egyetemes szolgáltató által a mérési időszakra gázátadó állomásonként és településenként – alkalmazott átlagos fűtőérték, amit kéttizedes pontosságú MJ/m3 értékre kell kerekíteni.
 
-[^6]: A 4. § (4) bekezdése az 5/2022. (XII. 27.) EM rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés nyitó szövegrésze a 20/2025. (VII. 31.) EM rendelet 19. § 2. pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés c) pontja a 20/2025. (VII. 31.) EM rendelet 19. § 3. pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése az 5/2022. (XII. 27.) EM rendelet 1. §-a szerint módosított szöveg.

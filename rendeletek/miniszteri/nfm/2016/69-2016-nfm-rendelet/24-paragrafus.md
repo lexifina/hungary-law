@@ -4,9 +4,9 @@
 
 24. § (1) Ez a rendelet 2017. január 1-jén lép hatályba.
 
-(2)[^16]
+(2)[^30]
 
-(3)[^17]
+(3)[^31]
 
-[^16]: A 24. § (2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 39. § e) pontja hatályon kívül helyezte.
-[^17]: A 24. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 24. § (2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 39. § e) pontja hatályon kívül helyezte.
+[^31]: A 24. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

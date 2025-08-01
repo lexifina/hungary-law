@@ -1,1 +1,1 @@
-18. §
+18. § Az egyetemes szolgáltató a kedvezményes többletmennyiséget, illetve a 14. § (1) bekezdés és a 16. § (1) bekezdés szerinti, 10. § (1) bekezdésében meghatározott mértéket meghaladó, kedvezményes gázdíjon biztosított földgázmennyiséget (a továbbiakban együtt: kedvezményes mennyiség) a nyilatkozat benyújtását követő hónap elsejétől alkalmazza, a 10. § (4) és (5) bekezdésében és a 11. §-ban foglaltakra figyelemmel időarányosan.

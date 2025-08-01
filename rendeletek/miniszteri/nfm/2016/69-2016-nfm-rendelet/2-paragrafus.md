@@ -8,14 +8,18 @@ b) fogyasztói közösség: a közös gázmérővel rendelkező olyan lakóépü
 
 c) fűtőérték: az MSZ 1648:2000 szabvány szerinti, gáztechnikai normálállapotú, köbméterben mért száraz földgáz fűtőértéke,
 
-d) gázdíj: az a díj, melyet a felhasználó az átvett földgázért a hőmennyiség alapján fizet,
+d)[^4] gázdíj: a mennyiségarányos díjak összessége, amelyet a felhasználó az átvett földgázért a hőmennyiség alapján fizet,
 
 e) gáztechnikai normálállapot: a földgáz olyan állapota, amikor a földgáz abszolút nyomása 101,325 kPa, a termodinamikai hőmérséklete 288,15 K,
 
-f)–h)[^3]
+f)[^5] kedvezményes gázdíj: a számlázott gázdíjnak azon része, amelyet a felhasználó az átvett földgázért a hőmennyiség alapján a kedvezményes lakossági sávhatárig vagy a kedvezményes mikrovállalkozói sávhatárig fizet,
+
+## g-h)[^6]
 
 i) szerződési időszak: a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. § 36. pontja szerinti gázév.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a GET, valamint a felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.
 
-[^3]: A 2. § (1) bekezdés f)–h) pontját az 52/2017. (XII. 22.) NFM rendelet 39. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés d) pontja a 20/2025. (VII. 31.) EM rendelet 19. § 1. pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés f) pontját az 52/2017. (XII. 22.) NFM rendelet 39. § a) pontja hatályon kívül helyezte, újonnan a 20/2025. (VII. 31.) EM rendelet 13. §-a iktatta be.
+[^6]: A 2. § (1) bekezdés g)–h) pontját az 52/2017. (XII. 22.) NFM rendelet 39. § a) pontja hatályon kívül helyezte.
