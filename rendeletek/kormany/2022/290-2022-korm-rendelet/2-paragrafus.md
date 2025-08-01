@@ -1,5 +1,0 @@
-2. § (1)[^3] A KR 3. § (4) bekezdésétől eltérően 2022. augusztus 1-jétől a nagycsaládos kedvezményre vonatkozó jogosultság megállapítása esetén a jogosult három gyermek esetén az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet 5. § (1) bekezdésében meghatározott kedvezményes földgázmennyiségen felül további 22 086 MJ, valamint a negyedik gyermektől számítva gyermekenként további 11 043 MJ kedvezményes mennyiségre jogosult felhasználási helyenként és naptári évenként.
-
-(2) A KR 3. § (1) bekezdés b) pontjának és 1. mellékletének előírásaitól eltérően fogyasztói közösség esetében a jogosultat az önálló felhasználási hellyel rendelkező jogosultnak járó, MJ-ban meghatározott, (1) bekezdés szerinti kedvezmény illeti meg. A KR 9. § (1) bekezdésétől eltérően a fogyasztói közösség képviselője az egyetemes szolgáltató által kiállított számlában figyelembe vett kedvezményt érvényesíti a fogyasztói közösségben vételező jogosult felé. A KR 5. § b) pontja nem alkalmazható.
-
-[^3]: A 2. § (1) bekezdése a 324/2022. (VIII. 23.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
