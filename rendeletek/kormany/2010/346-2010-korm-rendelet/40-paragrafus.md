@@ -1,6 +1,6 @@
-40. § (1)[^178]
+40. § (1)[^180]
 
-(2)[^179]
+(2)[^181]
 
-[^178]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^179]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^180]: A 40. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^181]: A 40. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

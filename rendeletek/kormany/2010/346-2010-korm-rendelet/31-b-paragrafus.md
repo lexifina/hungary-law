@@ -1,4 +1,4 @@
-## 9/A.[^147] Jogutódlásra vonatkozó szabályok
+## 9/A.[^149] Jogutódlásra vonatkozó szabályok
 
 31/B. § (1) Az 1. melléklet a) pontjában, valamint c) és d) pontjában meghatározott kormányzati célú hírközlési hálózatokkal összefüggő kormányzati célú hírközlési szolgáltatói feladatok (a továbbiakban: Feladatok) tekintetében 2025. január 1. napjától a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban ezen alcím alkalmazásában: Jogelőd) jogutódja a Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: Jogutód).
 
@@ -42,4 +42,4 @@ c) a Feladatokat ellátó munkavállalókkal fennálló jogviszonyra
 
 (12) A Jogelőd és a Jogutód mint átvevő egymással 2024. december 31-ig szerződést kötnek a Feladatok átadásának részletes feltételeiről, amelyben a Feladatok ellátását szolgáló eszközök ellenértékét is rögzítik.
 
-[^147]: A 9/A. alcímet (31/B–31/C. §-t) a 410/2024. (XII. 20.) Korm. rendelet 9. §-a iktatta be.
+[^149]: A 9/A. alcímet (31/B–31/C. §-t) a 410/2024. (XII. 20.) Korm. rendelet 9. §-a iktatta be.

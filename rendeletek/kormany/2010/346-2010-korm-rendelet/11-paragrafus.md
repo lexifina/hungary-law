@@ -2,7 +2,7 @@
 
 ## 11. § Ezen alcím alkalmazásában:
 
-1.[^69] EDR-közreműködő: az EDR működtetéséért felelős kormányzati célú hírközlési szolgáltatóval kötött szerződés alapján a szélessávú mobil adatátviteli EDR-szolgáltatások nyújtásában közreműködő szervezet;
+1.[^69]
 
 2.[^70] szélessávú mobil adatátviteli elektronikus hírközlési igény: adat, kép, videó egy vagy több végfelhasználóhoz történő eljuttatására vonatkozó, a 2. § 12. pontja szerinti hálózat felhasználásával kielégíthető igény;
 
@@ -24,7 +24,9 @@
 
 11.[^79] EDR üzemeltetési szabályzat: a kormányzati célú hírközlési szolgáltató által létrehozott VPN Központi Menedzser Szervezet által kiadott, e szervezet működtetését meghatározó szabályzat, amely rendelkezik e szervezet üzemeltetése mellett a VPN gazda szervezetek részére a VPN-ek, valamint a VPN-nek közötti működtetés és jogosultság-kiosztás alapvető szabályairól.
 
-[^69]: A 11. § 1–2. pontját a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 291/2023. (VII. 6.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+12.[^80] kormányzati célú mobil rádiótelefon szolgáltatás: kormányzati célú mobil rádiótelefon-hálózaton nyújtott olyan, kizárólag a 12. §-ban meghatározott szervek, szervezetek vagy személyek által igénybe vehető az EDR-en nyújtott elektronikus hírközlési szolgáltatás, amely – a nyilvános elektronikus hírközlő hálózattal való összekapcsolás révén – lehetővé teszi belföldi vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve belföldi vagy belföldi és nemzetközi hívások kezdeményezését és fogadását is.
+
+[^69]: A 11. § 1. pontját újonnan a 291/2023. (VII. 6.) Korm. rendelet 4. § (1) bekezdése iktatta be, a 230/2025. (VII. 31.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
 [^70]: A 11. § 1–2. pontját a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 291/2023. (VII. 6.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^71]: A 11. § 3. pontja a 169/2013. (V. 29.) Korm. rendelet 32. § (15) bekezdése szerint módosított szöveg.
 [^72]: A 11. § 4. pontját újonnan a 291/2023. (VII. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.
@@ -35,3 +37,4 @@
 [^77]: A 11. § 9. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
 [^78]: A 11. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^79]: A 11. § 11. pontját a 188/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^80]: A 11. § 12. pontját a 230/2025. (VII. 31.) Korm. rendelet 1. §-a iktatta be.

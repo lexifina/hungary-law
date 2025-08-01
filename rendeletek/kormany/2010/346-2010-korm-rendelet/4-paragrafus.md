@@ -18,7 +18,7 @@ h)[^24] az a)–g) pontban meghatározottak által felhatalmazott, a hálózatot
 
 i)[^25] a kormányzati célú hírközlési szolgáltató,
 
-j)[^26] az EDR vonatkozásában kizárólag a 3. mellékletben meghatározott és a 17. § (7) bekezdése alapján csatlakozásra feljogosított felhasználók.
+j)[^26] az egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR) vonatkozásában kizárólag a 3. mellékletben meghatározott és a 17. § (7) bekezdése alapján csatlakozásra feljogosított felhasználók.
 
 (2)[^27] A (4) és (5) bekezdésben foglalt kivétellel, valamint ha törvény vagy kormányrendelet eltérően nem rendelkezik,
 
@@ -52,7 +52,7 @@ b) egyedi körülményektől és feltételektől függetlenül milyen elektronik
 [^23]: A 4. § (1) bekezdés g) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^24]: A 4. § (1) bekezdés h) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^25]: A 4. § (1) bekezdés i) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^26]: A 4. § (1) bekezdés j) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^26]: A 4. § (1) bekezdés j) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított, a 230/2025. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^27]: A 4. § (2) bekezdése a 81/2019. (IV. 18.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^28]: A 4. § (2) bekezdés b) pontja a 409/2022. (X. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^29]: A 4. § (3) bekezdés a) pontja a 81/2019. (IV. 18.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

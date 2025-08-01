@@ -1,3 +1,3 @@
-38. §[^176]
+38. §[^178]
 
-[^176]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
+[^178]: A 35–39. §-t a 40. § (2) bekezdése hatályon kívül helyezte.
