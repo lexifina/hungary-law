@@ -35,3 +35,5 @@
 17. a hazai föld alatti gáztárolókra vonatkozó feltöltési célértéket.
 
 18. a 70/C. § szerinti kapacitásnak a földgázelosztó általi visszavétele esetén a felhasználót megillető kompenzáció mértékének meghatározását és a kompenzáció megfizetésének ütemezését.
+
+19. a versenypiaci költségeket tükröző árat és annak áralkalmazási feltételeit.

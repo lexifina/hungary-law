@@ -12,7 +12,7 @@ b) a 108. § (1) bekezdése szerinti csatlakozási díj,
 
 c) a 106. § és a 106/A. § szerinti külön díjak,
 
-d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
+d) az egyetemes szolgáltatás 107. § (3) és (5) bekezdése szerinti ára,
 
 e) a 141/A. § és a 141/J. § szerinti felajánlási ár,
 

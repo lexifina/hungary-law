@@ -1,1 +1,1 @@
-### 138/A. §
+138/A. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 133/A. § 19. pontja szerinti rendelet hatálybalépéséig a kedvezményes lakossági sávhatár felett az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló kormányrendelet alapján meghatározott, 2025. július 31-én alkalmazott versenypiaci költségeket tükröző árat kell alkalmazni.

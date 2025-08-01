@@ -7,3 +7,7 @@
 (4) Az egyetemes szolgáltatást igénybe vevő felhasználó a határozatlan időtartamra kötött egyetemes szolgáltatási szerződést 30 napos felmondási idővel írásban felmondhatja.
 
 (5) E § alkalmazásában jogosult felhasználónak a 32. § (1) bekezdése szerinti olyan felhasználót kell tekinteni, aki az egyetemes szolgáltató szolgáltatási területén elhelyezkedő felhasználási hely tekintetében igényli az egyetemes szolgáltatást.
+
+(6) Az egyetemes szolgáltató – a 33. § szerinti egyetemes szolgáltatói engedély alapján – egyetemes szolgáltatásra nem jogosult felhasználóknak nem értékesíthet földgázt.
+
+(7) Az egyetemes szolgáltató a (6) bekezdésben foglaltaknak való megfelelés érdekében az egyetemes szolgáltatásra való jogosultság fennállását jogosult ellenőrizni. Az egyetemes szolgáltatás jogszerű igénybevételének ellenőrzési folyamatát, valamint az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználókkal szemben alkalmazandó jogkövetkezményeket az e törvény végrehajtására kiadott kormányrendelet határozza meg.

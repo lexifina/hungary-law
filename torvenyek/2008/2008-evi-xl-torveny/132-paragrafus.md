@@ -28,7 +28,7 @@
 
 12. a földgázkereskedő és a felhasználó közötti jogviszony részletes szabályait,
 
-13. az egyetemes szolgáltatás részletes szabályait, ezen belül a szolgáltatási terület és a legkisebb területi egység meghatározására, az egyetemes szolgáltatásra jogosult felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására, valamint a nagycsaládosokat megillető kedvezményre vonatkozó rendelkezéseket,
+13. az egyetemes szolgáltatás részletes szabályait, ezen belül a szolgáltatási terület és a legkisebb területi egység meghatározására, az egyetemes szolgáltatást igénybe vevő felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására, a nagycsaládosokat megillető kedvezményre vonatkozó rendelkezéseket, ideértve a miniszteri rendeletben meghatározott kedvezményes lakossági sávhatáron felül biztosított kedvezményes árú földgázmennyiséget, egyetemes szolgáltatás jogszerű igénybevételének ellenőrzését biztosító rendelkezéseket, az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználóval szemben alkalmazandó jogkövetkezményeket, valamint a rezsivédelmi szolgáltatás részletszabályait,
 
 14. a végső menedékes szolgáltatásra, és a végső menedékes szolgáltató kijelölésére vonatkozó szabályokat, a végső menedékes szolgáltatási szabályzatot, továbbá a végső menedékes szolgáltatási szerződésre vonatkozó részletes rendelkezéseket, valamint az ellehetetlenült földgázkereskedő tevékenységének felfüggesztésével, az engedélyek visszavonásával kapcsolatos feltételeket és intézkedéseket továbbá az új engedélyes kijelölésének szabályait,
 
@@ -100,7 +100,7 @@
 
 48. az okos mérés bevezetésével kapcsolatos mintaprojektek megvalósításával összefüggő szabályokat, ennek keretében az okos mérőkre és felszerelésükre, a mintaprojektet végzők és az abban részt vevő felhasználók jogaira és kötelezettségeire, az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra, továbbá a mintaprojektek eredményeiről való adatszolgáltatásra, tájékoztatásra vonatkozó szabályokat, valamint a mintaprojekt megvalósításán túlmenően a központi adatfeldolgozó rendszer működtetésére vonatkozó részletes szabályokat,
 
-49.
+49. a 107. § (4) bekezdése alapján meghatározott kedvezményes lakossági sávhatárra való jogosultság igazolásának eljárási szabályait, az eljáró hatóságot, az egyetemes szolgáltató részére biztosított jogorvoslati lehetőségeket,
 
 50. a megújuló vagy alacsony szén-dioxid-kibocsátású gázokból, továbbá földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázokból – beleértve a nem biológiai eredetű, gáznemű megújuló tüzelőanyagokat is – származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, a megújuló gázt termelők vagy értékesítők beszámolási és adatszolgáltatási kötelezettségére, a számlatulajdonosok személyes adatokat nem tartalmazó adatainak közzétételére, valamint a megújuló gázt termelők vagy értékesítők és a számlatulajdonosok származási garanciára vonatkozó jogszabályokban előírt kötelezettségeinek vagy a származási garancia okiratban meghatározottaknak való meg nem felelése esetén fizetendő bírságra és annak mértékére vonatkozó részletes szabályokat,
 

@@ -172,7 +172,7 @@ b) Horizontálisan integrált vállalkozás: olyan vállalkozás, amely a földg
 
 46a.
 
-47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet,
 
 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 
@@ -337,3 +337,7 @@ c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági 
 77. Uniós riasztás: az (EU) 2022/1369 tanácsi rendelet 2. cikk 2. pontja szerinti riasztás.
 
 78. Felhasználói panasz: olyan felhasználói beadvány, amelyben a felhasználó az engedélyes intézkedése ellen vagy az engedélyes várt intézkedésének elmaradása miatt emel kifogást.
+
+79. Kedvezményes lakossági sávhatár: a lakossági fogyasztó részére biztosított, miniszteri rendeletben – a 35. § (2) bekezdés szerinti esetben kormányrendeletben – meghatározott földgázmennyiség, amely mértékig a lakossági fogyasztóval a 107. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a földgázt.
+
+80. Kedvezményes mikrovállalkozói sávhatár: a nem lakossági felhasználó részére biztosított, miniszteri rendeletben meghatározott földgázmennyiség, amely mértékig a nem lakossági felhasználóval a 107. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a földgázt.
