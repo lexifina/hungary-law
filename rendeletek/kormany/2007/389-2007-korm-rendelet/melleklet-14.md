@@ -16,7 +16,7 @@
 
 ## ”
 
-14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^142]
+14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^143]
 
 A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -178,4 +178,4 @@ f) 2026. január 1-től nulla;
 
 7. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számviteli bizonylaton szereplő, 1–6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 10. pontja alapján korrigálásra kerül.
 
-[^142]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 26/2025. (II. 27.) Korm. rendelet 6. § a) pontjával megállapított szöveg.
+[^143]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 26/2025. (II. 27.) Korm. rendelet 6. § a) pontjával megállapított szöveg.

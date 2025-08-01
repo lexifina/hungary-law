@@ -1,4 +1,4 @@
-15. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^143]
+15. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^144]
 
 A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkozó szabályok
 
@@ -50,4 +50,4 @@ A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkoz
 
 8. A 4. számú melléklet II. Különös szabályok 6. pontja szerinti számlán szereplő, 7. pont szerinti összeget a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 4. számú melléklet II. Különös szabályok 10. pontja alapján korrigálásra kerül.
 
-[^143]: A 15. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 35. §-a iktata be, szövege a 26/2025. (II. 27.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
+[^144]: A 15. számú mellékletet a 787/2021. (XII. 27.) Korm. rendelet 35. §-a iktata be, szövege a 26/2025. (II. 27.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
