@@ -16,7 +16,7 @@ g) javaslatokat tesz az egészségfejlesztési tevékenység tartalmára vonatko
 
 h) közreműködik a közegészségügyi szakterületet érintő szakmai anyagok, összefoglalók, jelentések elkészítésében.
 
-(2) A BM közegészségügyi főfelügyelője – a személyes adatok, valamint a belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok műveleti tevékenységével kapcsolatos adatok kivételével – az adat- és titokvédelmi szabályok betartása mellett jogosult megismerni a rendvédelmi szervnél keletkezett, közegészségügyi tárgyú dokumentumokat, így különösen:
+(2)[^1] A BM közegészségügyi főfelügyelője – a személyes adatok kivételével – az adat- és titokvédelmi szabályok betartása mellett jogosult megismerni a rendvédelmi szervnél keletkezett, közegészségügyi tárgyú dokumentumokat, így különösen:
 
 a) a járványügyi események dokumentumait,
 
@@ -71,3 +71,5 @@ f) segíti a szakterületet érintő tájékoztatók és ismeretterjesztő anyag
 g) figyelemmel kíséri a közegészségügyi-járványügyi szakterületet érintő hiányosságokat, az azokkal kapcsolatos változásokról tájékoztatja a rendvédelmi szerv alapellátó orvosát, és a közegészségügyi felügyelőt, valamint
 
 h) segíti a rendvédelmi szerv alapellátó orvosa, és a közegészségügyi-járványügyi felügyelő munkáját.
+
+[^1]: A 4. § (2) bekezdés nyitó szövegrésze a 14/2025. (VII. 31.) MK rendelet 5. § a) pontja szerint módosított szöveg.

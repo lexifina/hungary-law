@@ -1,3 +1,3 @@
-6. §[^2] Az ellenőrzött rendvédelmi szerv vezetője a rendvédelmi tisztiorvos által meghatározottak szerint az ellenőrzés során feltárt hiányosságok megszüntetésére haladéktalanul intézkedik.
+6. §[^3] Az ellenőrzött rendvédelmi szerv vezetője a rendvédelmi tisztiorvos által meghatározottak szerint az ellenőrzés során feltárt hiányosságok megszüntetésére haladéktalanul intézkedik.
 
-[^2]: A 6. § a 44/2017. (XII. 29.) BM rendelet 94. §-ával megállapított szöveg.
+[^3]: A 6. § a 44/2017. (XII. 29.) BM rendelet 94. §-ával megállapított szöveg.

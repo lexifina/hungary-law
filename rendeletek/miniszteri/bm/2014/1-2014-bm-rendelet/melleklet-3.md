@@ -1,4 +1,4 @@
-3. melléklet az 1/2014. (I. 10.) BM rendelethez[^25]
+3. melléklet az 1/2014. (I. 10.) BM rendelethez[^29]
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szervnél rendszeresített azon szolgálati beosztások, illetve azon szolgálati feladatok, amelyek esetében a kötelező védőoltás elrendelésének van helye
 
@@ -364,29 +364,9 @@ Megjegyzések:
 
 ** Az elvégzett individuális biológiai kockázatbecslés eredménye alapján biztosítandó, ha a tevékenység a biológiai ágens expozíciójával jár.
 
-6. Az Alkotmányvédelmi Hivatalnál rendszeresített azon szolgálati beosztások, illetve szolgálati feladatok, amelyek esetében a kötelező védőoltás elrendelésének van helye
+6.[^30]
 
-Az Alkotmányvédelmi Hivatal hivatásos állománya esetében kötelező védőoltás elrendelésének van helye
-
-1. a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. § a), e) és g) pontjában meghatározott feladatokat ellátó tiszti és tiszthelyettesi besorolási osztályba tartozó szolgálati beosztást betöltők esetében,
-
-2. az orvosi, egészségügyi szakasszisztensi, munkabiztonsági felügyelői és tűzvédelmi felügyelői feladatokat végrehajtó hivatásos állomány esetében,
-
-3. a lőkiképzői feladatokat végrehajtó hivatásos állomány esetében.
-
-7. A Nemzetbiztonsági Szakszolgálatnál rendszeresített azon szolgálati beosztások, illetve szolgálati feladatok, amelyek esetében a kötelező védőoltás elrendelésének van helye
-
-A Nemzetbiztonsági Szakszolgálatnál kötelező védőoltás elrendelésének van helye
-
-1. az alkalmazástechnikai, a környezettanulmányozói, a műveleti technikai, a műveleti kinológiai, a postaküldemény-ellenőrzési, a rádióforgalom-ellenőrzési, a rádiós üzemfenntartói, a technikai nyomkövetési, a területi rádiófelderítő, valamint az objektumvédelmi feladatokat ellátó hivatásos állomány esetében,
-
-2. az orvosi, egészségügyi szakasszisztensi, munkabiztonsági felügyelői és tűzvédelmi felügyelői feladatokat végrehajtó hivatásos állomány esetében,
-
-3. a szolgálati feladataik során építészmérnöki, gépészmérnöki, villamosmérnöki és létesítménygazdálkodási tevékenységet végző hivatásos állomány esetében,
-
-4. a gépjárművezető-kiképzői feladatokat és a lőkiképzői feladatokat végrehajtó hivatásos állomány esetében,
-
-5. azon szolgálati beosztást betöltők esetében, akik járványügyi kockázatnak kitett külföldi személyekkel személyes találkozással járó kapcsolatot tartanak.
+7 [^31]
 
 8. Az idegenrendészeti szervnél azon szolgálati beosztások, illetve szolgálati feladatok, amelyek esetében kötelező védőoltás elrendelésének van helye
 
@@ -402,4 +382,6 @@ Az idegenrendészeti szervnél
 
 rendszeresített szolgálati beosztások esetében hepatitis-A és hepatitis-B védőoltás elrendelésének van helye.
 
-[^25]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.
+[^29]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.
+[^30]: A 3. melléklet 6. pontját a 14/2025. (VII. 31.) MK rendelet 6. § b) pontja hatályon kívül helyezte.
+[^31]: A 3. melléklet 7. pontját a 14/2025. (VII. 31.) MK rendelet 6. § b) pontja hatályon kívül helyezte.

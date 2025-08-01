@@ -1,8 +1,8 @@
 ## 7. A szakmai együttműködésekre irányadó szabályok
 
-10. § (1)[^11] A Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők feladataik ellátásában a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatallal, valamint a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatallal szakmailag együttműködnek.
+10. § (1)[^13] A Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők feladataik ellátásában a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatallal, valamint a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatallal szakmailag együttműködnek.
 
-(2)[^12] Az országos tisztifőorvos és a rendvédelmi tisztifőorvos, illetve a főispán az e rendeletben nem szabályozott szakmai kérdésekről együttműködési megállapodást köt.
+(2)[^14] Az országos tisztifőorvos és a rendvédelmi tisztifőorvos, illetve a főispán az e rendeletben nem szabályozott szakmai kérdésekről együttműködési megállapodást köt.
 
 (3) Az együttműködési megállapodás minimális tartalmát képezik:
 
@@ -26,5 +26,5 @@ c) azt az együttműködő fél felmondja, vagy
 
 d) az együttműködők valamelyike jogutód nélkül megszűnik.
 
-[^11]: A 10. § (1) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § e) pontja, az 58/2016. (XII. 22.) BM rendelet 41. § (1) bekezdése, a 45/2022. (XII. 20.) BM rendelet 75. § a) pontja szerint módosított szöveg.
-[^12]: A 10. § (2) bekezdése a 45/2022. (XII. 20.) BM rendelet 75. § c) pontja szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § e) pontja, az 58/2016. (XII. 22.) BM rendelet 41. § (1) bekezdése, a 45/2022. (XII. 20.) BM rendelet 75. § a) pontja szerint módosított szöveg.
+[^14]: A 10. § (2) bekezdése a 45/2022. (XII. 20.) BM rendelet 75. § c) pontja szerint módosított szöveg.
