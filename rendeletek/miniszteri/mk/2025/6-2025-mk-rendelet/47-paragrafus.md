@@ -4,7 +4,7 @@
 
 (3) Munkáltatói kölcsön adható a nemzetbiztonsági állomány azon tagjának is, aki, valamint akinek házastársa, bejegyzett élettársa, élettársa, kiskorú gyermeke és más, vele együtt költöző, együtt lakó családtagja
 
-a) olyan lakásban rendelkezik tulajdonrésszel, amelyet tulajdonközösség megszüntetése vagy öröklés útján szerzett, és a munkáltatói kölcsön célja a tulajdonostársak tulajdoni hányadának megszerzése,
+a)[^2] közös tulajdonban álló lakásban rendelkezik tulajdonrésszel, vagy öröklés útján szerzett lakásban tulajdonrészt, és a munkáltatói kölcsön célja a tulajdonostársak tulajdoni hányadának megszerzése,
 
 b) tulajdonába öröklés vagy egyeneságbeli rokonától történő ajándékozás útján, haszonélvezettel terhelten került a lakás, és a haszonélvező a lakásban bent lakik,
 
@@ -14,6 +14,9 @@ d) tulajdonában lévő lakásban olyan hozzátartozója lakik életvitelszerűe
 
 e) tulajdonában lévő lakás lebontását az építésügyi hatóság elrendelte vagy engedélyezte,
 
-f) olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házassági vagyonközösség, élettársi közös tulajdon megszüntetése keretében volt házastársa, élettársa vagy gyermeke javára lemondott, és ezt a házassági vagyonközösség, élettársi közös tulajdon megszüntetéséről szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
+f)[^3] olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házastársi közös vagyon megosztása, közszerzeményi rendszer esetén a vagyonszaporulat megosztása, élettársi közös tulajdon megszüntetése vagy az élettársi együttélés alatt keletkezett vagyonszaporulat megosztása keretében volt házastársa, élettársa vagy gyermeke javára lemondott, és ezt a házastársi közös vagyon megosztásáról, közszerzeményi rendszer esetén a vagyonszaporulat megosztásáról, élettársi közös tulajdon megszüntetéséről vagy az élettársi együttélés alatt keletkezett vagyonszaporulat megosztásáról szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
 
 (4) E § alkalmazásában a lakástulajdonnal egy tekintet alá esik a nemzetbiztonsági állomány tagja, valamint a vele együtt költöző, együtt lakó családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési, használatbavételi vagy fennmaradási engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
+
+[^2]: A 47. § (3) bekezdés a) pontja a 14/2025. (VII. 31.) MK rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^3]: A 47. § (3) bekezdés f) pontja a 14/2025. (VII. 31.) MK rendelet 25. § (2) bekezdésével megállapított szöveg.

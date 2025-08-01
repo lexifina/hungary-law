@@ -16,7 +16,7 @@ d) lakás bővítésére irányuló kérelmek,
 
 e) lakáskorszerűsítésre, akadálymentesítésre irányuló kérelmek,
 
-f) öröklés útján létrejött tulajdonközösség esetében a tulajdonostársak tulajdoni hányadainak megvásárlásához kért munkáltatói kölcsön,
+f)[^4] öröklés útján létrejött közös tulajdon esetében a tulajdonostársak tulajdoni hányadainak megvásárlásához kért munkáltatói kölcsön,
 
 g) a nemzetbiztonsági állomány tagjának lakásigénye kielégítése céljából pénzügyi intézmény által nyújtott hitel egészének vagy részének visszafizetése céljából kért munkáltatói kölcsön,
 
@@ -25,3 +25,5 @@ h) a 46. § (1) bekezdés a)–d) és f) pontja alapján a nemzetbiztonsági ál
 i) egyéb, a 46. §-ban meghatározott feltételeknek megfelelő kérelmek.
 
 (4) A bizottság javaslatára a munkáltatói jogkör gyakorlója a (3) bekezdés szerinti sorrendtől eltérhet az egyes kérelmek indokoltságára és a nemzetbiztonsági állomány tagjainak szociális és biztonsági helyzetére, valamint a szolgálati érdekre figyelemmel.
+
+[^4]: Az 51. § (3) bekezdés f) pontja a 14/2025. (VII. 31.) MK rendelet 27. § a) pontja szerint módosított szöveg.

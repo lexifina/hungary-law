@@ -24,6 +24,8 @@ f) aki a lakáshelyzete megoldása érdekében a polgári nemzetbiztonsági szol
 
 a) a tulajdonába öröklés vagy egyenesági rokonától történő ajándékozás útján, haszonélvezettel terhelten került a lakás, és a haszonélvező haszonélvezeti jogával él, vagy
 
-b) olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házassági vagyonközösség, bejegyzett élettársi kapcsolat vagy élettársi kapcsolat megszüntetése keretében volt házastársa, bejegyzett élettársa, élettársa vagy kiskorú gyermeke javára lemondott, és ezt a házassági vagyonközösség vagy az élettársi kapcsolat megszüntetéséről szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
+b)[^5] olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házastársi közös vagyon megosztása, közszerzeményi rendszer esetén a vagyonszaporulat megosztása, élettársi közös tulajdon megszüntetése vagy az élettársi együttélés alatt keletkezett vagyonszaporulat megosztása keretében volt házastársa, élettársa vagy gyermeke javára lemondott, és ezt a házastársi közös vagyon megosztásáról, közszerzeményi rendszer esetén a vagyonszaporulat megosztásáról, élettársi közös tulajdon megszüntetéséről vagy az élettársi együttélés alatt keletkezett vagyonszaporulat megosztásáról szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
 
 (4) E § alkalmazásában önálló lakás: a kérelmező vagy házastársa, élettársa, bejegyzett élettársa vagy gyermeke tulajdonában álló lakásingatlan vagy az általa bérlőként, bérlőtársként használt bérlakás.
+
+[^5]: A 66. § (3) bekezdés b) pontja a 14/2025. (VII. 31.) MK rendelet 26. §-ával megállapított szöveg.
