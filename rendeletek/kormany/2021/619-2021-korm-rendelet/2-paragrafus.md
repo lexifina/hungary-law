@@ -12,7 +12,7 @@ c)[^6] az 1. mellékletben megjelölt ingatlanokból telekalakítási eljárásb
 
 (3)[^7] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben az 1. melléklet szerinti főispánokat jelöli ki koordinációs feladatokat ellátó főispánként.
 
-[^1]: Az 1. melléklet a 777/2021. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 777/2021. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése a 777/2021. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdés nyitó szövegrésze a 777/2021. (XII. 23.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés a) pontja a 777/2021. (XII. 23.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

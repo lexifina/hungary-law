@@ -1,4 +1,4 @@
-6/D. §[^18] (1) Az 1. mellékletben foglalt táblázat 34. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:34 mezőjében megjelölt telkekre a beépítés szabályait és egyedi építési követelményeit a (2) és (3) bekezdés állapítja meg, azzal, hogy
+6/D. §[^27] (1) Az 1. mellékletben foglalt táblázat 34. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:34 mezőjében megjelölt telkekre a beépítés szabályait és egyedi építési követelményeit a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -26,4 +26,4 @@ gb) a lakó rendeltetésű épületek esetében 9 méter, azzal, hogy a lakó re
 
 (3) Az 1. mellékletben foglalt táblázat D:34 mezőjében megjelölt telken lakó, kereskedelmi, igazgatási, iroda, nevelési, egészségügyi, szolgáltató-, szálláshely, oktatási, sport és rekreáció rendeltetésű épületek, illetve ezek kiszolgáló építményei is elhelyezhetőek.
 
-[^18]: A 6/D. §-t a 318/2024. (XI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^27]: A 6/D. §-t a 318/2024. (XI. 6.) Korm. rendelet 5. §-a iktatta be.
