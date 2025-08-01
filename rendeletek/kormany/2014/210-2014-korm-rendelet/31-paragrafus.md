@@ -1,5 +1,5 @@
 ## 19. Hatályon kívül helyező rendelkezések
 
-31. §[^400]
+31. §[^402]
 
-[^400]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^402]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
