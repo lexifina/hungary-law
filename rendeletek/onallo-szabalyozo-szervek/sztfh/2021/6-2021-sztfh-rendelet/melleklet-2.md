@@ -1,4 +1,4 @@
-## Országosan: 222
+## Országosan: 221
 
 ## I.
 
@@ -86,7 +86,7 @@
 
 | Mezőkövesdi Járásbíróság | 1 |
 
-| Miskolci Járásbíróság | 8 |
+| Miskolci Járásbíróság | 7 |
 
 | Ózdi Járásbíróság | 2 |
 
@@ -98,7 +98,7 @@
 
 | Tiszaújvárosi Járásbíróság | 1 |
 
-| Összesen: | 19 |
+| Összesen: | 18 |
 
 ## VI.
 
