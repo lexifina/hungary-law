@@ -1,6 +1,6 @@
 ## 4X11468M.pdf
 
-9. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^36]
+9. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^38]
 
 1. Az egyetemes szolgáltatót ellátó földgázkereskedő az egyetemes szolgáltatásban vételező felhasználók ellátása érdekében a következő földgázforrásokat a 3. melléklet szerinti QDedikált tárolói forrás-ként köteles kezelni, a 3. melléklet szerinti EURHUF felhasználásával (HUF/kWh):
 
@@ -32,4 +32,4 @@
 
 2. Az 1. pont szerinti dedikált földgázforrások nem képezik részét a 3. melléklet szerinti QFedezett és Qbeárazódott mennyiségnek.
 
-[^36]: A 9. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^38]: A 9. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (6) bekezdésével megállapított szöveg.

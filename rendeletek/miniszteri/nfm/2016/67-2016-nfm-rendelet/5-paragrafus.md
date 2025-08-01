@@ -1,4 +1,4 @@
-5. §[^5] (1) A hatósági árelőkészítés érdekében az egyetemes szolgáltató minden gázévet megelőző február 15-ig megadja a Hivatal részére a forrásszerződései szerint az egyetemes szolgáltatásra jogosult felhasználók gázéves ellátására felhasználni tervezett földgáz mennyiségét források szerinti havi bontásban.
+5. §[^6] (1) A hatósági árelőkészítés érdekében az egyetemes szolgáltató minden gázévet megelőző február 15-ig megadja a Hivatal részére a forrásszerződései szerint az egyetemes szolgáltatásra jogosult felhasználók gázéves ellátására felhasználni tervezett földgáz mennyiségét források szerinti havi bontásban.
 
 (2) Az egyetemes szolgáltatót ellátó földgázkereskedő a tárgyhónapot követő hónap 15. napjáig a tárgyhavi felajánlási ár 1. § (2) bekezdése és 2. § (2) bekezdése alapján kiszámított értékére vonatkozóan adatot szolgáltat az energiapolitikáért felelős miniszter és a Hivatal részére, indokolással alátámasztva.
 
@@ -42,4 +42,4 @@ jelenti.
 
 (9) A földgáz beszerzési költségre fedezetet nyújtó tétel meghatározásakor figyelembe vett, az Árképzési rendelet 3. § (1) bekezdés b)–h) pontja szerinti árelemek mértékét a Hivatal a 3. § (2) bekezdése szerinti egyenlegközléssel egyidejűleg megadja az egyetemes szolgáltatót ellátó földgázkereskedőnek.
 
-[^5]: Az 5. § a 15/2025. (VI. 30.) EM rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 5. § a 15/2025. (VI. 30.) EM rendelet 2. §-ával megállapított szöveg.

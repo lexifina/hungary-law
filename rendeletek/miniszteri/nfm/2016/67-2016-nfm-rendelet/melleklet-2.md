@@ -34,8 +34,8 @@
 
 | 16. | 2026. szeptember | MVM Next Energiakereskedelmi Zrt. | 574 708 | 0 |
 
-2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^29]
+2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^30]
 
 Az egyetemes szolgáltatót ellátó földgázkereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás mennyisége
 
-[^29]: A 2. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^30]: A 2. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (2) bekezdésével megállapított szöveg.

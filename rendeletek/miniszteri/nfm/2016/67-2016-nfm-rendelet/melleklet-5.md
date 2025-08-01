@@ -1,4 +1,4 @@
-5. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^32]
+5. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^34]
 
 A szállítás, tárolás és a kiegyensúlyozáshoz kötődő indokolt költség meghatározása
 
@@ -42,4 +42,4 @@ A szállítás, tárolás és a kiegyensúlyozáshoz kötődő indokolt költsé
 
 3.1.4. evk: az egyetemes szolgáltatót ellátó földgázkereskedő részére a szállítási rendszerüzemeltető által kiszámlázott, a kiegyensúlyozáshoz kötődő költségsemlegességi díj az egyetemes szolgáltató kiegyensúlyozásának arányában, Ft.
 
-[^32]: Az 5. mellékletet a 44/2024. (XII. 31.) EM rendelet 5. § h) pontja hatályon kívül helyezte, újonnan a 15/2025. (VI. 30.) EM rendelet 6. § (5) bekezdése iktatta be.
+[^34]: Az 5. mellékletet a 44/2024. (XII. 31.) EM rendelet 5. § h) pontja hatályon kívül helyezte, újonnan a 15/2025. (VI. 30.) EM rendelet 6. § (5) bekezdése iktatta be.

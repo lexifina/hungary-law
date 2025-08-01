@@ -32,7 +32,7 @@
 
 | 16. | 2026. szeptember | MVM Next Energiakereskedelmi Zrt. | 0 |
 
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^30]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^31]
 
 A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -490,4 +490,4 @@ b) a figyelembe veendő ár a különösen, de nem kizárólagosan költségmegt
 
 6.44. QHiány tároló: az egyetemes szolgáltató által a GET. Vhr. 30. § (2) bekezdése alapján elvárt tárolói célkészlet elérése érdekében a QNyitókészlet + Σ(QTárolói fedezés) + Σ(QDedikált tárolói forrás) + Σ(QDedikált tárolás) + Σ1T (QBeárazódott tároló) tárolói készleten felül betárolt gázmennyiség, kWh-ban kifejezve.
 
-[^30]: A 3. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^31]: A 3. melléklet a 15/2025. (VI. 30.) EM rendelet 6. § (3) bekezdésével megállapított szöveg.
