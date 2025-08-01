@@ -1,0 +1,9 @@
+# 222/2025. (VII. 24.) Korm. rendelet
+
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-222-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-08-01 | 2025-222-20-22.1 | 222/2025. (VII. 24.) Korm. rendelet |

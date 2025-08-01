@@ -1,0 +1,1 @@
+4. § A Kr. 5. § (4) bekezdés b) pontjában az „a dialízis ellátásokat,” szövegrész helyébe az „a molekuláris diagnosztikai vizsgálatok (PCR) keretében jelenthető újszülöttkori SMA-szűrést, a dialízis-ellátásokat,” szöveg lép.
