@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-10-20-0
 | 2023-11-03 | 2006-10-20-06.17 | 43/2009. (IX. 22.) IRM rendelet |
 | 2024-12-31 | 2006-10-20-06.19 | 34/2024. (XII. 30.) IM rendelet |
 | 2025-01-01 | 2006-10-20-06.18 | 20/2024. (XII. 11.) IM rendelet |
+| 2025-08-01 | 2006-10-20-06.20 | 7/2025. (VI. 30.) IM rendelet |

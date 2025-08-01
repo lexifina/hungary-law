@@ -1,7 +1,3 @@
-29. §[^73] (1) A feladatlap megoldására két óra áll rendelkezésre.
+29. §[^77]
 
-(2) A jelölt a kitöltött feladatlapot – aláírásával ellátva – a vizsgabiztosnak adja át.
-
-(3) Az írásbeli vizsgán a rendfenntartás a vizsgabiztos feladata.
-
-[^73]: A 29. §-t a 31/2012. (VI. 29.) KIM rendelet 14. § (4) bekezdése iktatta be.
+[^77]: A 29. §-t a 31/2012. (VI. 29.) KIM rendelet 14. § (4) bekezdése iktatta be, a 7/2025. (VI. 30.) IM rendelet 18. § f) pontja hatályon kívül helyezte.

@@ -18,7 +18,7 @@
 
 ## 8. Hivatásetika.
 
-## 9. Helyzetgyakorlat.
+## 9.[^95] A szakvélemény formai és tartalmi követelményei, annak írásbeli elkészítése és szóbeli előadása, a szövegezés és fogalmazás.
 
 ## B) rész
 
@@ -32,8 +32,10 @@
 
 ## 4. Hivatásetika.
 
-## 5. Helyzetgyakorlat.
+## 5.[^96]
 
-2. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^88]
+2. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^97]
 
-[^88]: A 2. számú melléklet a 43/2015. (XII. 30.) IM rendelet 5. § (18) bekezdés b) pontjával megállapított szöveg.
+[^95]: Az 1. melléklet A) rész 9. pontja a 7/2025. (VI. 30.) IM rendelet 16. §-ával megállapított szöveg.
+[^96]: Az 1. számú melléklet B) rész 5. pontját a 7/2025. (VI. 30.) IM rendelet 18. § h) pontja hatályon kívül helyezte.
+[^97]: A 2. számú mellékletet a 7/2025. (VI. 30.) IM rendelet 18. § i) pontja hatályon kívül helyezte.

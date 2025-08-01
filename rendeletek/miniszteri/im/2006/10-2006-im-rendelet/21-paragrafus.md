@@ -1,15 +1,38 @@
-## Tanúsítvány[^48]
+## Tanúsítvány[^58]
 
-21. §[^49] (1) Az eredményesen letett vizsgáról a vizsgabizottság a 2. számú melléklet szerinti tanúsítványt állít ki, amelyet a vizsgabizottság elnöke és tagjai aláírnak.
+21. §[^59] (1) A Jogakadémia az eredményesen letett vizsgáról a (2) bekezdés szerinti adattartalommal, az e rendelet alapján jogi vizsga letételére nem köteles jelentkező vagy szakértő részére a tanfolyam elvégzéséről a (3) bekezdés szerinti adattartalommal tanúsítványt állít ki.
 
-(2)[^50] Az e rendelet alapján jogi vizsga letételére nem köteles jelentkező vagy szakértő részére a vizsgabizottság a tanfolyam elvégzéséről a 3. számú melléklet szerinti tanúsítványt állít ki, melyet az Igazságügyi Szakértői Vizsgabizottság egy tagja aláír.
+(2) Az eredményesen letett vizsgáról a Jogakadémia által kiállított elektronikus tanúsítvány tartalmazza
 
-(3)[^51] Az (1)–(2) bekezdések szerinti tanúsítványt a vizsgabizottság a Jogakadémia bélyegzőjével látja el.
+a) a vizsgára kötelezett személy
 
-(4)[^52] Ha az (1) és (2) bekezdés szerinti tanúsítvány elveszett, megsemmisült vagy megrongálódott, a 2016. január 1. napja után teljesített képzés vagy vizsga esetén a Jogakadémia, az ezt megelőzően teljesített képzés vagy vizsga esetén a miniszter pótolja a tanúsítványt.
+aa) nevét,
 
-[^48]: A 21. §-t megelőző cím a 46/2007. (IX. 29.) IRM rendelet 21. §-ával megállapított szöveg.
-[^49]: A 21. § a 46/2007. (IX. 29.) IRM rendelet 21. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2007. október 1. napján folyamatban lévő ügyekre is alkalmazni kell.
-[^50]: A 21. § (2) bekezdése a 43/2009. (IX. 22.) IRM rendelet 35. § (1) bekezdés j) pontja, a 14/2016. (VI. 29.) IM rendelet 12. § j) pontja szerint módosított szöveg.
-[^51]: A 21. § (3) bekezdése a 43/2015. (XII. 30.) IM rendelet 5. § (19) bekezdés f) pontja szerint módosított szöveg.
-[^52]: A 21. § (4) bekezdése a 43/2015. (XII. 30.) IM rendelet 5. § (13) bekezdésével megállapított szöveg.
+ab) születési helyét és idejét,
+
+b) a vizsga teljesítésének tényét és időpontját,
+
+c) a kiállítás időpontját és
+
+d) a Jogakadémia elektronikus hitelesítését.
+
+(3) A tanfolyam elvégzéséről a Jogakadémia által kiállított elektronikus tanúsítvány tartalmazza
+
+a) a tanfolyamot elvégző személy
+
+aa) nevét,
+
+ab) születési helyét és idejét,
+
+b) a tanfolyam teljesítésének tényét és időpontját,
+
+c) a kiállítás időpontját és
+
+d) a Jogakadémia elektronikus hitelesítését.
+
+(4) A Jogakadémia a tanúsítványt a vizsga, illetve a tanfolyam teljesítéséhez szükséges határidő utolsó napjától számított 15 napon belül állítja ki és teszi letölthetővé a képzésszervezést támogató informatikai rendszerben a jelentkező, illetve a szakértő számára. A tanúsítvány a jelentkező vagy szakértő kifejezett kérelme esetén elektronikus úton, elektronikusan aláírt teljes bizonyító erejű magánokirat formájában is megküldhető.
+
+(5) Ha az (1) bekezdés szerinti tanúsítvány elveszett, megsemmisült vagy megrongálódott, a 2016. január 1. napja után teljesített képzés vagy vizsga esetén a Jogakadémia, az ezt megelőzően teljesített képzés vagy vizsga esetén a miniszter pótolja a tanúsítványt.
+
+[^58]: A 21. §-t megelőző cím a 46/2007. (IX. 29.) IRM rendelet 21. §-ával megállapított szöveg.
+[^59]: A 21. § a 7/2025. (VI. 30.) IM rendelet 13. §-ával megállapított szöveg.
