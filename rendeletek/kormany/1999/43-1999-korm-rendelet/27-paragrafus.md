@@ -24,6 +24,8 @@ g) meddőségkezelési ellátásokhoz kapcsolódó 16640, 16641, 16642, 16643, 1
 
 kivételével történik.
 
+(4a)[^317] A tárgyidőszakra vonatkozó tervezett éves keret megállapítása a molekuláris diagnosztikai vizsgálatok (PCR) körébe tartozó 42122 kódszámú újszülöttkori SMA szűrés kivételével történik.
+
 (5) A (4) bekezdésben foglalt ellátásokat a finanszírozó az R.-ben meghatározott pontérték szerint a szolgáltató teljesítményjelentése alapján számolja el.
 
 (6) Az aktív fekvőbeteg-szakellátásban a tervezett éves keret mértékét szakmaspecifikusan, azaz szakmánként és betegségcsoportonként, az R. 3. számú melléklete szerinti betegségcsoportok szerint összesített egy esetre jutó országos átlagfinanszírozás mértéke alapján kell meghatározni, az egészségügyi szolgáltató által a tárgyidőszakot megelőző finanszírozási évben nyújtott teljesítménye alapján, amely teljesítményben az R. 4. számú melléklete szerinti meghatározott intézeti körben végezhető ellátások és a 99 Főcsoport nélküli homogén betegségcsoportokba tartozó ellátások a jelentett összsúlyszám szerint kerülnek figyelembevételre.
@@ -64,8 +66,9 @@ kivételével történik.
 
 (19) A szolgáltatók tervezett éves keretei a finanszírozási év során a jelentett teljesítmények figyelembevételével felülvizsgálatra kerülhetnek, mely alapján az egészségügyért felelős miniszter kezdeményezheti a tervezett éves keretek mértékének megváltoztatását.
 
-(20)[^317] A röntgendiagnosztika, teljes körű ultrahangdiagnosztika, gyermekradiológia, CT- és MR-diagnosztika vizsgálatokat végző járóbeteg-szakellátást nyújtó egészségügyi szolgáltató tervezett éves kerete – az egészségügyi szolgáltató teljesítményét is figyelembe véve – megemelhető, ha az egészségügyi szolgáltató e vizsgálatok tekintetében, e vizsgálatokra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben előírt feltételekkel az EESZT digitális időpontfoglalási rendszer szolgáltatást lehetővé teszi. Az e bekezdés szerinti módon megemelt tervezett éves keretet az egészségügyi szolgáltató az e bekezdés szerinti képalkotó diagnosztikai vizsgálatok elvégzésére fordítja.
+(20)[^318] A röntgendiagnosztika, teljes körű ultrahangdiagnosztika, gyermekradiológia, CT- és MR-diagnosztika vizsgálatokat végző járóbeteg-szakellátást nyújtó egészségügyi szolgáltató tervezett éves kerete – az egészségügyi szolgáltató teljesítményét is figyelembe véve – megemelhető, ha az egészségügyi szolgáltató e vizsgálatok tekintetében, e vizsgálatokra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben előírt feltételekkel az EESZT digitális időpontfoglalási rendszer szolgáltatást lehetővé teszi. Az e bekezdés szerinti módon megemelt tervezett éves keretet az egészségügyi szolgáltató az e bekezdés szerinti képalkotó diagnosztikai vizsgálatok elvégzésére fordítja.
 
 [^315]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
 [^316]: A 27. § a 293/2024. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^317]: A 27. § (20) bekezdését a 29/2025. (III. 5.) Korm. rendelet 4. §-a iktatta be.
+[^317]: A 27. § (4a) bekezdését a 222/2025. (VII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^318]: A 27. § (20) bekezdését a 29/2025. (III. 5.) Korm. rendelet 4. §-a iktatta be.

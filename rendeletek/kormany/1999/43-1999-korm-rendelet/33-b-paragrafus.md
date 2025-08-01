@@ -1,4 +1,4 @@
-33/B. §[^407] (1) Betegszállításnak kell tekinteni
+33/B. §[^408] (1) Betegszállításnak kell tekinteni
 
 a) a beteg feltalálási helyén levett vizsgálati anyag – illetékes szakdolgozó által elrendelt – mobil mintavételi gyűjtőpontba, vagy közvetlenül a kijelölt vizsgáló helyre történő, valamint
 
@@ -6,7 +6,7 @@ b) a mobil mintavételi pontokon összegyűjtött vizsgálati anyagok – illet�
 
 szállítását is.
 
-(2)[^408] Ha az adott település közigazgatási határán belüli, telephelyek közötti szállításra a veszélyhelyzet miatti áthelyezés vagy az ellátás átszervezése miatt kerül sor, a szállítások indokolt esetben teljesítményként jelenthetőek.
+(2)[^409] Ha az adott település közigazgatási határán belüli, telephelyek közötti szállításra a veszélyhelyzet miatti áthelyezés vagy az ellátás átszervezése miatt kerül sor, a szállítások indokolt esetben teljesítményként jelenthetőek.
 
 (3) Az (1) bekezdés szerinti szállítások után a szolgáltatót kiegészítő szállítási díj illeti meg, amelynek mértéke megegyezik 33. § (12) bekezdés a) pontja szerinti díjazással azzal, hogy a levett vizsgálati anyag csoportos szállítása esetén ez a kiegészítő díj egy út alkalmával maximum húszezer forint lehet.
 
@@ -38,5 +38,5 @@ c) a megrendelő személy beazonosítására alkalmas adatokat (név, munkahely 
 
 (11) Az (1) bekezdés szerinti vizsgálati anyag szállítása esetén az adatlapot a vizsgálati anyag szállítási elrendelő lap adatai alapján, mintánként, TAJ-számhoz köthetően kell kiállítani, az adatlapon a mintát adó személy TAJ-számán kívül egyéb személyes adatot nem kell szerepeltetni.
 
-[^407]: A 33/B. §-t az 557/2020. (XII. 4.) Korm. rendelet 4. §-a iktatta be.
-[^408]: A 33/B. § (2) bekezdése a 277/2021. (V. 26.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^408]: A 33/B. §-t az 557/2020. (XII. 4.) Korm. rendelet 4. §-a iktatta be.
+[^409]: A 33/B. § (2) bekezdése a 277/2021. (V. 26.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.

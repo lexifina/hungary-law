@@ -1,3 +1,9 @@
-48/F. §[^533]
+48/F. §[^534] A Rekonstruktív Reproduktív Medicina keretében végzett koordinátori tevékenységért
 
-[^533]: A 48/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § f) pontja.
+a) a Budai Irgalmasrendi Kórház havi 15 000 000 forint,
+
+b) a Semmelweis Egyetem Klinikai Központ havi 15 033 000 forint
+
+összegű fix díjban részesül.
+
+[^534]: A 48/F. §-t hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § f) pontja., a 222/2025. (VII. 24.) Korm. rendelet 2. §-a iktatta be.

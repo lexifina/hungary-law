@@ -2,6 +2,6 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-51. §[^547]
+51. §[^548]
 
-[^547]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
+[^548]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
