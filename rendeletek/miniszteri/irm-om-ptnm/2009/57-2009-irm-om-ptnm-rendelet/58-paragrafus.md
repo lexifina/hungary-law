@@ -1,3 +1,0 @@
-58. §[^93] A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szervek vonatkozásában e rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalra vonatkozó rendelkezéseit 2017. január 1-től azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Rehabilitációs és Szociális Hivatal helyett a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 2. § (4) bekezdése, valamint 1. § (1) bekezdés b) pontja szerint kijelölt első, illetve másodfokon eljáró szerv jár el.
-
-[^93]: Az 58. §-t az 55/2016. (XII. 22.) BM rendelet 2. §-a iktatta be, szövege a 43/2022. (XII. 19.) BM rendelet 119. § 37. pontja szerint módosított szöveg.
