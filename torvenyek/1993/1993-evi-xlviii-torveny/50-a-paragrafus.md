@@ -110,6 +110,8 @@ f) a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések
 
 g) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó bírságok mértékére és kiszabására
 
+h) a földgáz szolgáltató részére tulajdonba adható földgáz mennyiségére, az átadás helyére és ütemezésére
+
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (1b) Felhatalmazást kap a Hatóság elnöke

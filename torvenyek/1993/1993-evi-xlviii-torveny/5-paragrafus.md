@@ -34,6 +34,8 @@ m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutat�
 
 (2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti gáztárolásra történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
 
+(2b) A 3. § (1e) bekezdése szerint a földgáz szolgáltató tulajdonába került földgázt földgáztárolási működési engedéllyel rendelkező bányavállalkozó termeli ki.
+
 (3) Az e törvény szerint engedélyköteles tevékenységeket a bányafelügyelet által kiadott engedélyek alapján lehet megkezdeni, és az abban foglalt feltételek szerint gyakorolni.
 
 (4) A bányafelügyelet az engedély kiadását nem tagadhatja meg, ha az engedély iránti kérelemben foglaltak a jogszabályokban meghatározott követelményeknek megfelelnek.

@@ -120,6 +120,8 @@ f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosít
 
 g) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz esetében, ha a lecserélésből származó párnagázt a kitermeléssel megegyező mennyiségben a föld alatti gáztárolóba visszapótolják.
 
+h) a 3. § (1e) bekezdése szerint tulajdonba adott földgáz kitermelése után.
+
 (7) A bányajáradék mértéke geotermikus energia esetében a kitermelt geotermikus energia értékének 2%-a.
 
 (8) A bányajáradék mértékét koncessziós szerződés (12. §) alapján gyakorolt bányászati tevékenység esetén a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
