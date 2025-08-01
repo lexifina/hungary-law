@@ -1,4 +1,4 @@
-1. melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^17]
+1. melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^18]
 
 A káros hatások értékelésére szolgáló módszerek
 
@@ -78,4 +78,4 @@ b) a káros hatás abszolút kockázata (absolute risk, AR), vagyis:
 
 3.3. A nagy mértékű zavarás (HA), illetve a nagy mértékű alvászavar (HSD) és a közúti, a vasúti, illetve a légi közlekedési zaj viszonya kapcsán az y káros hatással érintett személyek teljes számát (N) (a hozzárendelhető esetek száma) minden x zajforrás és y káros hatás esetében a következőképp kell kiszámítani:
 
-[^17]: Az 1. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, újonnan a 26/2022. (XI. 18.) TIM rendelet 5. §-a iktatta be.
+[^18]: Az 1. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, újonnan a 26/2022. (XI. 18.) TIM rendelet 5. §-a iktatta be.

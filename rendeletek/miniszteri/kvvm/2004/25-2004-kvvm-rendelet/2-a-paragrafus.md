@@ -1,6 +1,6 @@
 2/A. §[^5] (1)[^6] Zajkibocsátás vagy zajterjedés számítására alkalmas szoftver zajtérképkészítés céljára abban az esetben használható fel, ha annak számítási módszere megegyezik az e rendelet 1/A. § (1) bekezdésében megjelölt számítási módszerrel, és rendelkezik az erre vonatkozó igazolással.
 
-(2) A szoftver számítási módszerének megfelelőségét a KTI Közlekedéstudományi Intézet Nonprofit Kft. (a továbbiakban: KTI) – tesztesetek alkalmazásával – ellenőrzi, és az (1) bekezdés szerinti követelménynek való megfelelésről igazolást állít ki a gyártó részére.
+(2)[^7] A szoftver számítási módszerének megfelelőségét a Közlekedéstudományi Intézet (a továbbiakban: KTI) – tesztesetek alkalmazásával – ellenőrzi, és az (1) bekezdés szerinti követelménynek való megfelelésről igazolást állít ki a gyártó részére.
 
 (3) A KTI a (2) bekezdés szerinti igazolás egy példányát a környezetvédelemért felelős miniszter részére továbbítja.
 
@@ -10,3 +10,4 @@
 
 [^5]: A 2/A. §-t a 31/2019. (VI. 26.) AM rendelet 2. §-a iktatta be.
 [^6]: A 2/A. § (1) bekezdése a 13/2025. (VI. 2.) EM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 2/A. § (2) bekezdése a 21/2025. (VII. 31.) EM rendelet 1. §-a szerint módosított szöveg.

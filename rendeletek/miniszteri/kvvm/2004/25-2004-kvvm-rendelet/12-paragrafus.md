@@ -1,4 +1,4 @@
-12. §[^16] Ez a rendelet
+12. §[^17] Ez a rendelet
 
 a) a környezeti zaj értékeléséről és kezeléséről szóló, 2002. június 25-i 2002/49/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -10,4 +10,4 @@ d) a 2002/49/EK európai parlamenti és tanácsi irányelv II. mellékletének a
 
 való megfelelést szolgálja.
 
-[^16]: A 12. §-t a 26/2022. (XI. 18.) TIM rendelet 4. §-a iktatta be.
+[^17]: A 12. §-t a 26/2022. (XI. 18.) TIM rendelet 4. §-a iktatta be.
