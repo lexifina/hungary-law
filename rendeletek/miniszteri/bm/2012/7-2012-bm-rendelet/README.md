@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-7-20-0A
 | 2016-07-17 | 2012-7-20-0A.3 | 29/2016. (VII. 15.) BM rendelet |
 | 2019-01-01 | 2012-7-20-0A.4 | 37/2018. (XII. 28.) BM rendelet |
 | 2023-01-01 | 2012-7-20-0A.5 | 45/2022. (XII. 20.) BM rendelet |
+| 2025-08-01 | 2012-7-20-0A.6 | 29/2016. (VII. 15.) BM rendelet |
