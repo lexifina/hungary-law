@@ -1,3 +1,0 @@
-7. § (1) Ha a rendvédelmi alkalmazott igazgatási jogviszonya év közben keletkezik, az értékelő vezető a rendvédelmi alkalmazottat az igazgatási jogviszony keletkezésétől számított harminc napon belül tájékoztatja a teljesítményértékelés rendjéről, céljáról és szempontjairól.
-
-(2) A minősítést a rendvédelmi alkalmazott jogosult megismerni. A teljesítményértékelésnek tartalmaznia kell az értékelt személy javaslatait, elképzeléseit a munkaköri feladataival kapcsolatban, valamint a teljesítményértékelésre vonatkozó, a személyügyi központ által működtetett informatikai rendszerben rögzített észrevételeit.
