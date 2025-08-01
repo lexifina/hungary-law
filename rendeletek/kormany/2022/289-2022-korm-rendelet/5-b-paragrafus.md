@@ -1,9 +1,0 @@
-5/B. §[^16] (1) Az adott Hálózati engedélyes részére járó ellentételezés megegyezik a Hivatal H 3808/2022. számú határozata alapján az adott Hálózati engedélyes esetében 2023. évre elismert, de a díjszámítás alapjában – a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő további eltérő alkalmazásáról és a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 450/2022. (XI. 9.) Korm. rendelet módosításáról szóló 484/2022. (XI. 29.) Korm. rendelet 1. § d) pontja alapján – figyelembe nem vett részével.
-
-(2) A rezsivédelmi ellátási szolgáltatás biztosításáért a Hálózati engedélyes az (1) bekezdésben meghatározott mértékig ellentételezésre jogosult. Az (1) bekezdés szerinti ellentételezést a miniszter az 5/A. § (3) bekezdése szerinti szerződésben meghatározott ütemezés szerint fizeti ki a Hálózati engedélyes részére az erre a célra elkülönített költségvetési forrásból.
-
-(3) A rezsivédelmi ellátási szolgáltatás biztosítása nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti szolgáltatásnyújtásnak, és a szolgáltatásnyújtásért a Hálózati engedélyes részére ellentételezésként kifizetett összeg visszafizetési kötelezettség nélkül átadott pénzeszköznek tekintendő. Az engedélyesek számára biztosított kompenzáció összegét nem lehet a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény 6. § (3) bekezdés b) pontja szerinti csökkentő tételként figyelembe venni az energiaellátók jövedelemadója adóalapjának meghatározásakor.
-
-(4) A rezsivédelmi ellátási szolgáltatás biztosítása fejében a Hálózati engedélyesnek kifizetett ellentételezést a számvitelről szóló 2000. évi C. törvény szerinti egyéb bevételnek kell tekinteni, és nem képezi tárgyát az általános forgalmi adónak.
-
-[^16]: Az 5/B. §-t a 127/2023. (IV. 17.) Korm. rendelet 2. §-a iktatta be.
