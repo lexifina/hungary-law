@@ -1,6 +1,6 @@
-50/E. §[^293] (1) A haszonbérlő és a vagyonkezelő a földhasználati jogviszonyának megszűnésekor, vagy a szerződésben meghatározott esetben köteles a földrészlet értékének az átvételkor fennálló állapothoz viszonyított, a gazdálkodási tevékenységével összefüggésben keletkezett értékkülönbözetével (értékcsökkenésével vagy értéknövekedésével) a szerződés és e rendelet előírásai szerint elszámolni.
+50/E. §[^294] (1) A haszonbérlő és a vagyonkezelő a földhasználati jogviszonyának megszűnésekor, vagy a szerződésben meghatározott esetben köteles a földrészlet értékének az átvételkor fennálló állapothoz viszonyított, a gazdálkodási tevékenységével összefüggésben keletkezett értékkülönbözetével (értékcsökkenésével vagy értéknövekedésével) a szerződés és e rendelet előírásai szerint elszámolni.
 
-(2)[^294] Ha azonos földrészletre az elszámolási kötelezettséggel járó szerződés megszűnését követően a haszonbérlő vagy a vagyonkezelő földhasználati jogosultsága azonos vagy más jogcímen változatlanul fennáll, a haszonbérlő és a vagyonkezelő az újabb földhasználati jogviszonyának megszűnésekor számol el. Az elszámolásra legkésőbb az utolsó használati szerződés megszűnését követő év december 31-ig van lehetőség, amely határidő elmulasztása jogvesztő.
+(2)[^295] Ha azonos földrészletre az elszámolási kötelezettséggel járó szerződés megszűnését követően a haszonbérlő vagy a vagyonkezelő földhasználati jogosultsága azonos vagy más jogcímen változatlanul fennáll, a haszonbérlő és a vagyonkezelő az újabb földhasználati jogviszonyának megszűnésekor számol el. Az elszámolásra legkésőbb az utolsó használati szerződés megszűnését követő év december 31-ig van lehetőség, amely határidő elmulasztása jogvesztő.
 
 (3) Ültetvény vagy halastó értékesítése esetén – az (1) és (2) bekezdésben foglaltaktól eltérően – korábbi haszonbérleti szerződésből fennálló elszámolási igény esetén az új tulajdonos a használóval a tulajdonjoga bejegyzésétől számított 1 éven belül elszámolásra köteles.
 
@@ -22,12 +22,12 @@
 
 (12) Az elszámolás során a haszonbérlő és a vagyonkezelő által nemzeti vagy európai uniós támogatási forrás felhasználásával megvalósított értéknövelő beruházás esetén a támogatás teljes összegét a haszonbérlő vagy a vagyonkezelő számára megtérítendő összegből (maradványértékből) le kell vonni.
 
-(12a)[^295] A (12) bekezdésben foglaltakat nem kell alkalmazni, ha a haszonbérlet megszűnésekor a beruházással érintett terület a beruházást megvalósító tulajdonába kerül.
+(12a)[^296] A (12) bekezdésben foglaltakat nem kell alkalmazni, ha a haszonbérlet megszűnésekor a beruházással érintett terület a beruházást megvalósító tulajdonába kerül.
 
 (13) A maradványértékből le kell vonni a beruházás művelésből történő kivonás esetén eredményezett értéknövekményt, a földvédelmi járulék összegét.
 
 (14) Az e rendeletben foglalt értéknövelő beruházásokkal kapcsolatos elszámolási szabályok megfelelően vonatkoznak az egyéb jogcímen földhasználatra jogosultak értéknövelő beruházásokkal kapcsolatos elszámolási igényére.
 
-[^293]: Az 50/E. §-t a 159/2019. (VI. 28.) Korm. rendelet 36. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^294]: Az 50/E. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 13. §-ával megállapított, a 31/2024. (II. 22.) Korm. rendelet 10. § m) pontja szerint módosított szöveg.
-[^295]: Az 50/E. § (12a) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 11. §-a iktatta be.
+[^294]: Az 50/E. §-t a 159/2019. (VI. 28.) Korm. rendelet 36. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^295]: Az 50/E. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 13. §-ával megállapított, a 31/2024. (II. 22.) Korm. rendelet 10. § m) pontja szerint módosított szöveg.
+[^296]: Az 50/E. § (12a) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 11. §-a iktatta be.
