@@ -1,3 +1,7 @@
-2. §[^2]
+2. § Hatályát veszti a 63/2016. NFM rendelet
 
-[^2]: A 2. § a 3. § (2) bekezdés alapján 289/2022. (VIII. 5.) Korm. rendelet hatályvesztésekor lép hatályba.
+a) 5. § (3) bekezdés n) pontja,
+
+b) 6. § (3) bekezdés h) pontja és
+
+c) 9. § (8) bekezdése.
