@@ -1,1 +1,3 @@
-2. § E rendelet alkalmazásában kábítószer: a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerint kábítószernek vagy új pszichoaktív anyagnak minősülő anyag.
+2. §[^1] E rendelet alkalmazásában kábítószer: az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. vagy 2. jegyzékén szereplő anyag, 2. mellékletében a pszichotróp anyagok 1. vagy 2. jegyzékén szereplő anyag, valamint 3. mellékletében meghatározott anyag.
+
+[^1]: A 2. § a 14/2025. (VII. 31.) MK rendelet 28. §-ával megállapított szöveg.
