@@ -20,4 +20,4 @@ b) kizárólag számviteli kérdést érintő kérelem.
 
 (6) A feltételes adómegállapításra irányuló kérelem elektronikus úton, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti tartalommal nyújtható be.
 
-(7)
+(7) Az adózó a kérelem benyújtását megelőzően elektronikus úton előzetes konzultációt kezdeményezhet.

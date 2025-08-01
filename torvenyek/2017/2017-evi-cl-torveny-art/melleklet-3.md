@@ -289,7 +289,3 @@
 ## b)
 
 ## c) a megfizetett adóelőleg, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
-
-## 2.
-
-## 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.
