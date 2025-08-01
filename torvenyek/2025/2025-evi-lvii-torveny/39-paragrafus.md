@@ -8,4 +8,4 @@ c)
 
 d)
 
-e)
+e) 1. mellékletében foglalt táblázat 70. sora.
