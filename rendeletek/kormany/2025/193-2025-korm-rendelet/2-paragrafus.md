@@ -1,0 +1,3 @@
+2. § (1) Az 1. mellékletben meghatározott földgáz mennyiséget a földgáz szolgáltató az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló miniszteri rendelet szerinti QEgyéb dedikált földgázmennyiségként köteles felhasználni.
+
+(2) Az 1. mellékletben meghatározott földgázt a földgáz szolgáltató a földgáz biztonsági készlet elhelyezésére szolgáló, a Magyar Energetikai és Közmű-szabályozási Hivatal által a 256/2009. számon kiadott földgáztárolási engedély szerint üzemeltetett, „Szőreg-1” védnevű földgáztárolóban (a továbbiakban: Szőreg-1 tároló) mint természetes előfordulási helyén veszi át.

@@ -1,0 +1,5 @@
+3. § (1) A 2. § szerinti földgáz Szőreg-1 tárolóból történő kitermelése és kitárolása, valamint a 4. § szerinti kötelezettség teljesítése a földgáz biztonsági készlet mértékéről szóló miniszteri rendeletben meghatározott biztonsági készlet be- és kitárolási kapacitásán történik, a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének, a földgáz rendszerhasználati díjak, a külön díjak, valamint a csatlakozási díjak alkalmazásának szabályairól szóló rendeletében meghatározottak szerint.
+
+(2) Az (1) bekezdés szerinti kapacitások igénybevétele térítésmentesen történik.
+
+(3) Az 1. melléklet szerint átvett földgáz mennyiségének felhasználásához, földalatti gáztárolói forgalmazásához és a 2. § szerinti felhasználásához, valamint a 4. § szerinti kötelezettség teljesítéséhez kötődően a földgáz szolgáltatónál felmerült termelési szolgáltatási, valamint rendszerhasználati költségek indokolt mértéke az egyetemes szolgáltató ellátásához kapcsolódó indokolt szállítási és tárolási költségnek minősül.
