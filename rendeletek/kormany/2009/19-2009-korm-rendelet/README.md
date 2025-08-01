@@ -80,3 +80,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2025-01-15 | 2009-19-20-22.77 | 467/2024. (XII. 30.) Korm. rendelet |
 | 2025-04-27 | 2009-19-20-22.79 | 378/2011. (XII. 31.) Korm. rendelet |
 | 2025-07-01 | 2009-19-20-22.78 | 467/2024. (XII. 30.) Korm. rendelet |
+| 2025-08-01 | 2009-19-20-22.80 | 233/2025. (VII. 31.) Korm. rendelet |

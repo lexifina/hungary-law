@@ -132,7 +132,27 @@
 
 ## 8.6.[^725] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
 
-3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^726]
+## 9.[^726] Egyetemes szolgáltatás jogosulatlan igénybevétele
+
+## 9.1. Ha az egyetemes szolgáltató megállapítja, hogy a felhasználó egyetemes szolgáltatásra nem jogosult, az egyetemes szolgáltató az egyetemes szolgáltató és a felhasználó közötti jogviszony fennállása alatt jogosulatlanul vételezett földgázt az adott hónapra vonatkozó átlagos CEEGEX másnapi súlyozott átlagáron, de legalább a GET 107. § (6) bekezdése alapján megállapított egységáron számolja el a felhasználóval.
+
+## 9.2. A felhasználó és az egyetemes szolgáltató között fennálló hatályos szerződés – a felek elszámolási kötelezettségének fennmaradása mellett – a jogosultság hiánya miatt azon a napon szűnik meg, amikor a jogosultság hiányát az egyetemes szolgáltató megállapítja. Az egyetemes szolgáltató a felhasználót a szerződés megszűnésének tényéről a megszűnést követő 15 napon belül tájékoztatja.
+
+## 9.3. Az egyetemes szolgáltató az egyetemes szolgáltatásra való jogosultság hiányának megállapítását megelőzően – kivéve, ha a felhasználó a jogosultság hiányáról már nyilatkozott – a felhasználót legalább 8 napos határidő biztosításával nyilatkozattételre hívja fel a jogosultság fennállására vonatkozóan. Az egyetemes szolgáltató nyilatkozattételi felhívásra – melyben a nyilatkozattétel elmulasztásának 9.5. alpont szerinti jogkövetkezményeire a felhasználó figyelmét felhívja – bármikor jogosult.
+
+## 9.4. A 9.3. alpont szerinti nyilatkozat az egyetemes szolgáltató által e célra biztosított elektronikus felületen keresztül, a felhasználó e-mail-címének megjelölésével tehető meg, a más módon megtett nyilatkozat érvénytelen.
+
+## 9.5. Ha a felhasználó a 9.3. alpont szerinti nyilatkozatot határidőben nem teljesíti, a felhasználó egyetemes szolgáltatásra való jogosultsága a 9.3. alpont szerinti határidő lejártát megelőző egy évre visszamenőleg, a felhasználó egyetemes szolgáltatóval fennálló szerződése – a felek elszámolási kötelezettségének fennmaradása mellett – pedig a 9.3. alpont szerinti határidő lejártát követő napon megszűnik, és az egyetemes szolgáltató a 9.1. alpont szerinti jogkövetkezményt alkalmazza.
+
+## 9.6. Az egyetemes szolgáltató a 9.3. alpontban meghatározottakon túl az egyetemes szolgáltatásra való jogosultság fennállását alátámasztó bizonyítékot legalább 15 napos határidő biztosításával bármikor – az adatszolgáltatás elmulasztásának 9.8. pont szerinti jogkövetkezményeire való figyelem felhívással együtt – bekérheti és ellenőrizheti.
+
+## 9.7. Ha az egyetemes szolgáltató a 9.6. alpont alapján benyújtott bizonyíték alapján azt állapítja meg, hogy a nyilatkozatban foglaltaktól eltérően a felhasználó nem jogosult egyetemes szolgáltatásra, akkor a 9.1. alpontban foglaltaktól eltérően a jogviszony fennállása alatt jogosulatlanul felhasznált földgázt az adott hónapra vonatkozó átlagos CEEGEX másnapi súlyozott átlagár, de legalább a GET 107. § (6) bekezdése alapján megállapított egységár 120%-án számolja el a felhasználóval.
+
+## 9.8. Ha a felhasználó a 9.6. alpont szerinti kötelezettségét határidőben nem teljesíti, a felhasználó egyetemes szolgáltatásra való jogosultsága a 9.3. alpont szerinti határidő lejártát megelőző egy évre visszamenőleg, a felhasználó egyetemes szolgáltatóval fennálló szerződése pedig – a felek elszámolási kötelezettségének fennmaradása mellett – a határidő lejártát követő napon megszűnik, és az egyetemes szolgáltató a 9.7. alpont szerinti jogkövetkezményt alkalmazza. Ha a 9.6. alpont szerinti bizonyíték a megjelölt határidőt követő 15 napon belül az egyetemes szolgáltatóhoz beérkezik, úgy kell tekinteni, mintha azt a felhasználó határidőben rendelkezésre bocsátotta volna.
+
+## 9.9. A 9.1. és 9.7. alpont esetén az euróban megadott árak forintra történő átszámításakor az MNB által megállapított, tárgyhónap utolsó munkanapján érvényes deviza középárfolyamot kell alkalmazni.
+
+3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^727]
 
 Üzemi és Kereskedelmi Szabályzat
 
@@ -152,7 +172,7 @@ d) A szállítási rendszerüzemeltető és a külföldi rendszerüzemeltető ka
 
 a) a földgázrendszer felépítése, fő részei (szállító-, tároló-, elosztórendszerek, egymáshoz csatlakozásuknak feltételei),
 
-b)[^727] Gázminőségi követelmények, ideértve a földgáz hidrogéntartalmára vonatkozó minőségi követelményeket is,
+b)[^728] Gázminőségi követelmények, ideértve a földgáz hidrogéntartalmára vonatkozó minőségi követelményeket is,
 
 c) Szigetüzem működési feltételei
 
@@ -168,7 +188,7 @@ c) Karbantartás
 
 d) Üzemzavar elhárítás
 
-e)[^728] Mérési infrastruktúra üzemeltetése, ideértve a földgáz hidrogéntartalmára vonatkozó mérési feltételeket is
+e)[^729] Mérési infrastruktúra üzemeltetése, ideértve a földgáz hidrogéntartalmára vonatkozó mérési feltételeket is
 
 f) Földgázszagosítás
 
@@ -204,7 +224,7 @@ f) Másodlagos kapacitáskereskedelem
 
 10. Üzemzavar elhárítás, válsághelyzetre vonatkozó intézkedések, a válsághelyzet elhárítására vonatkozó jogszabályok alkalmazásának részletei a földgázszállító rendszeren
 
-11.[^729] Mennyiség mérési és minőség ellenőrzési előírások, mérési hibák kezelése, ideértve földgáz hidrogéntartalmára vonatkozó előírásokat is
+11.[^730] Mennyiség mérési és minőség ellenőrzési előírások, mérési hibák kezelése, ideértve földgáz hidrogéntartalmára vonatkozó előírásokat is
 
 12. Allokálási szabályok a földgázszállító rendszer hálózati pontjain és az MGP-n
 
@@ -235,7 +255,8 @@ f) Másodlagos kapacitáskereskedelem
 [^723]: A 2. melléklet 7.5. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés c) pontja szerint módosított szöveg.
 [^724]: A 2. melléklet 8.5. pontja a 458/2016. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
 [^725]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^726]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. [A 344/2013. (IX. 27.) Korm. rendelet 9. §-ával elrendelt módosítás, amely szerint a 3. számú melléklet 17. pontja d) alponttal egészül ki, nem vezethető át.]
-[^727]: A Vhr. 3. számú melléklet 2. pont b) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^728]: A Vhr. 3. számú melléklet 4. pont e) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^729]: A Vhr. 3. számú melléklet 11. pontja a 467/2024. (XII. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^726]: A Vhr. 2. számú melléklet 9. pontját a 233/2025. (VII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^727]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. [A 344/2013. (IX. 27.) Korm. rendelet 9. §-ával elrendelt módosítás, amely szerint a 3. számú melléklet 17. pontja d) alponttal egészül ki, nem vezethető át.]
+[^728]: A Vhr. 3. számú melléklet 2. pont b) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^729]: A Vhr. 3. számú melléklet 4. pont e) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^730]: A Vhr. 3. számú melléklet 11. pontja a 467/2024. (XII. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
