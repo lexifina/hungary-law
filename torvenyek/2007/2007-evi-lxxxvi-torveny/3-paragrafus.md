@@ -122,6 +122,10 @@ f) az inverter azonosító adatai;
 
 29. Kapcsoltan termelt energia: azonos technológiai folyamatban egyidejűleg termelt mechanikai, hő- és villamos energia;
 
+29a. Kedvezményes lakossági sávhatár: a lakossági fogyasztó részére biztosított, miniszteri rendeletben – a 64. § (4a) bekezdés szerinti esetben kormányrendeletben – meghatározott villamosenergia-mennyiség, amely mértékig a lakossági fogyasztóval a 145. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a villamos energiát;
+
+29b. Kedvezményes mikrovállalkozói sávhatár: a nem lakossági felhasználó részére biztosított, miniszteri rendeletben meghatározott villamosenergia-mennyiség, amely mértékig a nem lakossági felhasználóval a 145. § (3) bekezdés alapján meghatározott áron számolja el az egyetemes szolgáltató a villamos energiát;
+
 30. Keresletoldali szabályozás: a villamosenergia-fogyasztás időbeli és mennyiségbeli befolyásolása átfogó vagy integrált megközelítés keretében energiahatékonyságot szolgáló beruházások és egyéb kereskedelmi, szerződéses eszközök segítségével a villamosenergia-rendszer szabályozhatóságának biztosítása és az elsődleges energiaforrások felhasználásának csökkentése érdekében;
 
 31. Kiegyenlítő energia: az átviteli rendszerirányító által a pozitív, vagy negatív irányú menetrendi eltérést kiegyenlítő szabályozás során a mérlegkör-felelősökkel elszámolt villamos energia;
@@ -156,7 +160,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 41. Közvilágítási elosztó hálózat: az elosztó hálózat részének nem minősülő, az elosztó tulajdonában lévő, a közvilágítás villamos energia ellátását biztosító kapcsolható, illetve szabályozható hálózat;
 
-42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet; ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;
+42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;
 
 42a. Leágazási pont: az átviteli vagy az elosztó hálózat azon pontja, amelyen keresztül a csatlakozóberendezés részét képező csatlakozó vezeték e hálózathoz kapcsolódik;
 
@@ -195,6 +199,10 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
 
 49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;
+
+49c. Rendszerbiztonsági szolgáltatás: a villamosenergia-ellátás folyamatossága és az átviteli hálózat biztonságos, stabil üzemállapotának fenntartása mint kiemelt közszolgáltatás megvalósítása érdekében szükséges, meghatározott villamosenergia-mennyiség megtermelése érdekében végzett szolgáltatás;
+
+49d. Rendszerbiztonsági szolgáltató: a rendszerbiztonsági szolgáltatás teljesítése érdekében a Kormány rendeletével kijelölt villamosenergia-termelő gazdasági társaság;
 
 50. Rendszerhasználó: aki a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül vagy közvetve csatlakozik, ideértve a töltőállomás-üzemeltetőt és a villamosenergia-tárolói engedélyest;
 
@@ -276,13 +284,15 @@ történő értékesítése vagy ellenérték nélküli átadása;
 
 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 
-70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés, amely a közcélú hálózatról vételezett vagy azonos csatlakozási ponton csatlakozó erőmű által megtermelt villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe betáplálja, vagy – függetlenül attól, hogy van-e betáplálásra lehetősége – a csatlakozási pont mögötti felhasználásra rendelkezésre bocsátja;
+70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés vagy létesítmény, amely a közcélú hálózatról vételezett vagy azonos csatlakozási ponton csatlakozó erőmű által megtermelt villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe betáplálja, vagy – függetlenül attól, hogy van-e betáplálásra lehetősége – a csatlakozási pont mögötti felhasználásra rendelkezésre bocsátja;
 
 70b. Háztartási villamosenergia-tároló: háztartási környezetben létesített és üzemeltetett, 2 kWh-nál nagyobb névleges teljesítményű, önállóan üzemeltethető, újratölthető villamosenergia-tároló;
 
 70c. Elektromos meghajtású gépjármű villamosenergia-tárolója: az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet (a továbbiakban: 2023/1542 európai parlamenti és tanácsi rendelet) 3. cikk (1) bekezdés 14. pontjában meghatározott elektromosjármű-akkumulátor;
 
 70d. Ipari villamosenergia-tároló: a 2023/1542 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 13. pontjában meghatározott ipari elem, illetve akkumulátor;
+
+70e. Villamosenergia-tárolói bevételkompenzációs támogatási rendszer: olyan elszámolási rendszer, amelyben a villamosenergia-tároló üzemeltetője a szolgáltatásait piaci körülmények között értékesíti azzal, hogy az általa elvárt bevételi szint és az általa értékesíthető szolgáltatásokból megszerezhető bevétel különbsége alapján kompenzációban részesül vagy kompenzációt fizet;
 
 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
 

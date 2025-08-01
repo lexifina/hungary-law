@@ -14,7 +14,7 @@
 
 5. az üzletszabályzatok kötelező tartalmi elemeit, az azokban kötelezően szerepeltetendő rendelkezéseket, az üzletszabályzatok felépítésére vonatkozó általános előírásokat, a társadalmi egyeztetésre vonatkozó előírásokat és az üzletszabályzat benyújtásának formai követelményeit,
 
-6. az egyetemes szolgáltató és az egyetemes szolgáltatás igénybevételére jogosult felhasználó közötti jogviszony és az egyetemes szolgáltatás igénybevételére irányuló szándék bejelentésének részletes szabályait, valamint az egyetemes szolgáltatás keretében történő villamosenergia-vásárlásra vonatkozó szerződés tartalmi és formai követelményeit, megszűnésének eseteit,
+6. az egyetemes szolgáltató és az egyetemes szolgáltatás igénybevételére jogosult felhasználó közötti jogviszony és az egyetemes szolgáltatás igénybevételére irányuló szándék bejelentésének részletes szabályait, valamint az egyetemes szolgáltatás keretében történő villamosenergia-vásárlásra vonatkozó szerződés tartalmi és formai követelményeit, megszűnésének eseteit, egyetemes szolgáltatás jogszerű igénybevételének ellenőrzési folyamatát, az egyetemes szolgáltatást jogosulatlanul igénybe vevő felhasználókkal szemben alkalmazandó jogkövetkezményeket, továbbá – az ellentételezés kiszámításának módszertanát és a különbözeti összeg felhasználásának részletes szabályait ide nem értve – rezsivédelmi szolgáltatás részletszabályait,
 
 7. az engedélyezés, a tanúsítási eljárás, valamint az elektronikus ügyintézés részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyköteles tevékenységek folytatásának, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, az engedélyes tevékenység folytatásának feltételei, továbbá az engedélyesek jogait és kötelezettségeit, valamint a jóváhagyásra irányuló eljárás részletes szabályait,
 
@@ -60,7 +60,7 @@
 
 28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének szabályait,
 
-29. a megújuló energiaforrásból nyert villamos energia felhasználását elősegítő kötelező átvételi rendszer és prémium típusú támogatási rendszer részletes szabályait, a kötelező átvételi rendszer és a prémium típusú támogatás keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez és prémium típusú támogatásához szükséges minimális hatásfok mértékét,
+29. a megújuló energiaforrásból nyert villamos energia felhasználását elősegítő kötelező átvételi rendszer, és prémium típusú támogatási rendszer és a villamosenergia-tárolók bevételkompenzációjának részletes szabályait, a kötelező átvételi rendszer és a prémium típusú támogatás, valamint a villamosenergia-tárolók bevételkompenzáció keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez és prémium típusú támogatásához szükséges minimális hatásfok mértékét,
 
 30. a villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték építésének, üzemeltetésének, használatbavételének, fennmaradásának és megszüntetésének engedélyezésével, az engedélyek meghosszabbításával, az egyszerűsített engedéllyel, valamint az idegen ingatlanra vonatkozó jogok alapításával, tartalmával, engedélyezésével, megszűnésével, az építési jogosultság igazolására alkalmas okiratokkal és a kártalanítással kapcsolatos részletes szabályokat,
 
@@ -70,7 +70,7 @@
 
 33. az elosztó hálózati engedélyesnek háztartási kiserőművek hálózatra csatlakoztatásával, hálózathasználatával, elszámolásával, valamint nyilvántartásával kapcsolatos feladatait, valamint az elosztó hálózati engedélyes, a villamosenergia-kereskedő, és az egyetemes szolgáltató védendő fogyasztókkal kapcsolatos feladatait, jogait és kötelezettségeit, a védendő fogyasztó szerződésszegése esetén alkalmazható jogkövetkezményeket,
 
-34. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékossággal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
+34. a fogyatékossággal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit, a fogyatékossággal élő fogyasztó által használt tárgyi eszközök energiafogyasztása után a fogyatékossággal élő fogyasztót megillető – miniszteri rendeletben meghatározott – kedvezményes lakossági sávhatáron felül biztosított kedvezményes árú villamos energia mértékét és annak igénybevételére vonatkozó részletes szabályokat,
 
 35. az okosmérőkre, azok felszerelésére, az engedélyesek és a felhasználók jogaira és kötelezettségeire, valamint az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra vonatkozó szabályokat,
 
@@ -130,7 +130,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-1. az egyetemes szolgáltatási árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatáshoz kapcsolódó árszabásokat,
+1. az egyetemes szolgáltatáshoz kapcsolódó árszabályozás kereteit, árszabásokat, kedvezményes lakossági sávhatárt – a 64. § (4a) bekezdése szerinti sávhatárt kivéve –, a társasházakra, lakásszövetkezetekre, családi fogyasztói közösségekre, tulajdonközösségekre, tetőtér-beépítésre, bérlakásokra és szállóférőhelyekre vonatkozó többletkedvezményeket, valamint a kedvezményes mikrovállalkozói sávhatárt, továbbá a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig az egyetemes szolgáltatási árakat és azok áralkalmazási feltételeit,
 
 2. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végzett szolgáltatások körét, azok külön díjait, valamint ezen külön díjak alkalmazásának szabályait, továbbá az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét, azok külön díjait, valamint ezen külön díjak alkalmazásának szabályait,
 
@@ -152,9 +152,9 @@ rendeletben állapítsa meg.
 
 11. az e törvény végrehajtására kiadott rendeletben meghatározott szempontok szerint könnyített térséget,
 
-12.
+12. az egyetemes szolgáltató részére járó ellentételezés kiszámításának módszertanát és a különbözeti összeg felhasználásának részletes szabályait,
 
-13. a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokat,
+13. a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának, valamint a villamosenergia-tárolók bevételkompenzációjának a finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokat,
 
 14.
 
@@ -251,3 +251,7 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 15. az NCCS hatálya alá tartozó szervezetek azonosítására, felügyeletére, ellenőrzésére, az eseménykezelésre és a végrehajtás nyomon követésére, valamint az egyéb, az NCCS végrehajtására vonatkozó részletszabályokat.
 
 16. a rugalmas csatlakozás alkalmazásának feltételeit.
+
+17. a villamosenergia-tárolók bevételkompenzációja tekintetében a bevételkompenzáció kiszámításának részletszabályait, a bevételkompenzáció meghatározásához szükséges referencia nettó bevétel kiszámításának módját és az annak felülvizsgálatához kapcsolódó szabályokat, a bevételkompenzáció alkalmazásának feltételeire és elszámolására, valamint a bevételkompenzációra jogosult adatszolgáltatási kötelezettségének adattartalmára, teljesítésére és egyéb részleteire vonatkozó szabályokat,
+
+18. a lakossági piaci árat és annak áralkalmazási feltételeit.

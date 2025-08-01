@@ -1,0 +1,1 @@
+177/B. § E törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított rendelkezéseit a 2025. augusztus 1-jén folyamatban lévő ügyekben is alkalmazni kell.

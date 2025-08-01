@@ -1,4 +1,4 @@
-141. § (1) E fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 146/A. § (1) bekezdése szerinti csatlakozási díj, a 146. § (1) és (4) bekezdés szerinti külön díj, valamint az egyetemes szolgáltatás 145. § (3) bekezdése szerinti ára.
+141. § (1) E Fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 146/A. § (1) bekezdése szerinti csatlakozási díj, a 146. § (1) és (4) bekezdése szerinti külön díj, valamint az egyetemes szolgáltatás 145. § (3) és (3a) bekezdése szerinti ára.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
@@ -8,9 +8,9 @@
 
 (5) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági árra vonatkozó rendelkezés mikor lép hatályba vagy mikortól alkalmazandó, és e rendelkezésnek visszamenőleges hatálya nem lehet.
 
-(6) Az (1) bekezdés szerinti hatósági árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
+(6) Az (1) bekezdés szerinti hatósági árakat – ide nem értve a 145. § (3a) bekezdése szerinti árat – legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
 
-(7) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
+(7) A hatósági árnál magasabb árat, a 145. § (3a) bekezdése szerinti hatósági árnál alacsonyabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály vagy határozat megsértésével más árban állapodtak meg.
 
 (8) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
@@ -32,4 +32,4 @@ a) megtiltja a jogszabályt sértő ár, illetve díj további alkalmazását é
 
 b) kötelezi az engedélyest a 142–146/A. §-ban foglalt rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyidőszaki átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
 
-c) a kormányrendeletben meghatározott mértékű bírságot szabhat ki.
+c) a kormányrendeletben meghatározott mértékű bírságot szab ki.

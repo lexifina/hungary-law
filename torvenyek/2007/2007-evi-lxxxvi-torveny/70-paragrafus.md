@@ -1,6 +1,6 @@
 70. § (1) A villamosenergia-ellátási szabályzatokat az ellátás biztonságának és minőségi követelményeinek, az egyenlő bánásmód, az átviteli és elosztó hálózathoz való szabad hozzáférés, valamint a legkisebb költség elvének figyelembevételével kell kidolgozni.
 
-(2) A nemzetközi üzemi és kereskedelmi szabályzat kivételével a villamosenergia-ellátási szabályzat kidolgozásával és mindenkori felülvizsgálatával kapcsolatos egyeztetést az engedélyesek és a reprezentatív felhasználói érdekképviseletek képviselőiből – külön jogszabály szerint – létrehozott és működtetett szabályzati bizottságoknak kell ellátnia.
+(2) A nemzetközi üzemi és kereskedelmi szabályzat kivételével a villamosenergia-ellátási szabályzat kidolgozásával és mindenkori felülvizsgálatával kapcsolatos egyeztetést a miniszter által delegált tag, az engedélyesek és a reprezentatív felhasználói érdekképviseletek képviselőinek részvételével – külön jogszabály szerint – létrehozott és működtetett szabályzati bizottságoknak kell ellátnia.
 
 (3) A (2) bekezdésben meghatározott egyeztetés eljárási szabályai a villamosenergia-ellátási szabályzatok részét képezik.
 
