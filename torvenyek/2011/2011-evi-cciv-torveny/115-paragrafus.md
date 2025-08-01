@@ -105,3 +105,5 @@ megnevezéssel működik.
 (36) A Budapest Kortárstánc Főiskola 2023. augusztus 1-jétől Budapest Cirkuszművészeti és Kortárstánc Főiskola megnevezéssel működik.
 
 (37) A Budapesti Gazdasági Egyetem 2025. február 1-jétől Budapesti Gazdaságtudományi Egyetem megnevezéssel egyetemként működik.
+
+(38) A Wekerle Sándor Üzleti Főiskola 2025. augusztus 1. napjától Wekerle Sándor Nemzetközi Egyetem megnevezéssel egyetemként működik.

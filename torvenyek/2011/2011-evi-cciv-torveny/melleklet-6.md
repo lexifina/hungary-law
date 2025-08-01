@@ -5,5 +5,3 @@ A felsőoktatási intézmény hivatalos nevének felhasználásával szervezett 
 1. E törvény által nyilvántartott adatok a 2. melléklet II. pont 1. alpontja szerinti rendezvények szervezőjének
 
 a) természetes személyazonosító adatai,
-
-b) adóazonosító jele,
