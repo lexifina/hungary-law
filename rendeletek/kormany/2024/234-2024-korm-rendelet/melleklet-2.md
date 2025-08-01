@@ -1,6 +1,6 @@
 2. melléklet a 234/2024. (VIII. 8.) Korm. rendelethez
 
-A Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság részére átadásra kerülő projektek
+A Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság részére átadásra kerülő projektek[^22]
 
 1. a GINOP-3.4.2-VEKOP-15-2016-00001 azonosító számú „Intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése” projekt
 
@@ -20,9 +20,10 @@ A Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvényt�
 
 9. az 101100680 azonosító számú „GN5-1” projekt
 
-10.[^22] a GINOP-3.3.1-16-2016-00001 azonosító számú „Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése” projekt, kivéve a GINOP-3.3.1-16-2016-00001 projekt keretében beszerzett vagy létrehozott nem hálózati eszközöket, amelyek vonatkozásában a KIFÜ helyébe jogutódként 2025. január 1-jétől a NISZ Zrt. lép
+10.[^23] a GINOP-3.3.1-16-2016-00001 azonosító számú „Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése” projekt, kivéve a GINOP-3.3.1-16-2016-00001 projekt keretében beszerzett vagy létrehozott nem hálózati eszközöket, amelyek vonatkozásában a KIFÜ helyébe jogutódként 2025. január 1-jétől a NISZ Zrt. lép
 
-11.[^23] a 101131237 azonosító számú „Authentication and Authorisation for Research Collaboration Technical Revision to Enhance Effectiveness” (AARC TREE) projekt
+11.[^24] a 101131237 azonosító számú „Authentication and Authorisation for Research Collaboration Technical Revision to Enhance Effectiveness” (AARC TREE) projekt
 
-[^22]: A 2. melléklet 10. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
-[^23]: A 2. melléklet 11. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
+[^22]: A 2. melléklet címe a 230/2025. (VII. 31.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^23]: A 2. melléklet 10. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.
+[^24]: A 2. melléklet 11. pontját a 410/2024. (XII. 20.) Korm. rendelet 24. § b) pontja iktatta be.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-234-20-
 | 2025-01-01 | 2024-234-20-22.2 | 410/2024. (XII. 20.) Korm. rendelet |
 | 2025-01-02 | 2024-234-20-22.3 | 2010. évi CXXX. törvény |
 | 2025-07-18 | 2024-234-20-22.5 | 205/2025. (VII. 17.) Korm. rendelet |
+| 2025-08-01 | 2024-234-20-22.6 | 410/2024. (XII. 20.) Korm. rendelet |
