@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-124-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 1997-124-00-00.23 |
 | 2022-12-22 | 2022. évi LXXVIII. törvény | 1997-124-00-00.24 |
 | 2025-01-01 | 2024. évi LXXIV. törvény | 1997-124-00-00.25 |
+| 2025-08-01 | 2025. évi L. törvény | 1997-124-00-00.26 |
