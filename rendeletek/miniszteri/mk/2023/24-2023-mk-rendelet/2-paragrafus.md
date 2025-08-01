@@ -1,1 +1,0 @@
-2. § E rendelet hatálya a polgári nemzetbiztonsági szolgálatnál hivatásos szolgálati jogviszonyban álló személyekre, valamint a rendvédelmi igazgatási szolgálati jogviszonyban foglalkoztatott rendvédelmi igazgatási alkalmazottakra (a továbbiakban együtt: személyi állomány tagja) terjed ki.

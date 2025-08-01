@@ -1,3 +1,0 @@
-4. § (1) A technikai ellenőrzést úgy kell végrehajtani, hogy az alkalmas legyen a szolgálatteljesítésre vonatkozó szabályok megsértésének dokumentált rögzítésére, az adatok bizonyítási eszközként való felhasználására.
-
-(2) A technikai ellenőrzés végrehajtása során a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 104. § (2) bekezdésében meghatározott követelményeket különösen úgy kell teljesíteni, hogy a technikai ellenőrzés ne terjedjen ki a technikai ellenőrzéssel érintett személyi állomány tagja (a továbbiakban: ellenőrzött) szolgálaton kívüli tevékenységére, az e tevékenységgel érintett helyre, illetve sor kerülhessen a technikai ellenőrzés keretében végzett adatrögzítés megszakítására.
