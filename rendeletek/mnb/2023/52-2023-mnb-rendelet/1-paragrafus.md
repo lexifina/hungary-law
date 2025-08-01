@@ -2,4 +2,6 @@
 
 a) 3. § (1) bekezdés a)–d) pontjában meghatározott forráskategóriákra vonatkozóan 0%,
 
-b) 3. § (1) bekezdés e) pontjában meghatározott forráskategóriára vonatkozóan 10%.
+b)[^1] 3. § (1) bekezdés e) pontjában meghatározott forráskategóriára vonatkozóan 8%.
+
+[^1]: Az 1. § b) pontja a 22/2025. (VII. 22.) MNB rendelet 2. §-a szerint módosított szöveg.
