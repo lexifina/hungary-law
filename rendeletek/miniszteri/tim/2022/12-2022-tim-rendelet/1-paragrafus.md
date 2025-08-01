@@ -1,3 +1,0 @@
-1. § (1) A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet (a továbbiakban: KR) szerinti villamos energia szolgáltató (a továbbiakban: villamos energia szolgáltató) az e rendeletben meghatározott módszertan alapján számítja ki a rezsivédelmi szolgáltatás nyújtásában való közreműködésért igényelt ellentételezés (a továbbiakban: ellentételezés) összegét.
-
-(2) Az e rendeletben alkalmazott fogalmakat a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) és annak felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.

@@ -1,3 +1,0 @@
-5. §[^7] A tárgyévben alkalmazandó indokolt ár mértéke a tárgyévet megelőző év indokolt ára korrigálva a Központi Statisztikai Hivatal által közzétett, tárgyévet megelőző éves infláció százalékos mértékével, amelyet az érintett villamosenergia-kereskedő és a villamos energia szolgáltató az egymás közötti elszámolásukban a tárgyévben alkalmaznak. A villamos energia szolgáltató ellentételezés összegének a KR 3. § (1) bekezdése szerinti meghatározásakor a Magyar Nemzeti Bank legfrissebb inflációs jelentése szerinti inflációs előrejelzés középértékét alkalmazza.
-
-[^7]: Az 5. § a 28/2023. (XII. 27.) EM rendelet 4. § b) pontja szerint módosított szöveg.

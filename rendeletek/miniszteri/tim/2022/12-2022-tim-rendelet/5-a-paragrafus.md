@@ -1,3 +1,0 @@
-5/A. §[^8] A tárgyévet követő év január 31. napjáig – figyelemmel a Magyar Energetikai és Közmű-szabályozási Hivatalnak a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet 4. § (2) bekezdése szerinti megfelelőségi vizsgálata eredményére – az energiapolitikáért felelős miniszter a villamos energia szolgáltató részére nyilatkozatot ad ki az ellentételezés megállapítása iránti kérelem vagy annak kiegészítése e rendeletnek való megfeleléséről.
-
-[^8]: Az 5/A. §-t a 28/2023. (XII. 27.) EM rendelet 2. §-a iktatta be.
