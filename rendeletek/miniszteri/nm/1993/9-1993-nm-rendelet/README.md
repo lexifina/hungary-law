@@ -93,3 +93,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2025-01-01 | 1993-9-20-3D.151 | 32/2016. (X. 27.) EMMI rendelet |
 | 2025-04-05 | 1993-9-20-3D.152 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2025-05-01 | 1993-9-20-3D.153 | 10/2025. (IV. 4.) BM rendelet |
+| 2025-08-01 | 1993-9-20-3D.154 | 3/2004. (I. 15.) ESZCSM rendelet |
