@@ -4,7 +4,7 @@
 
 | 0 | 2000 |
 
-4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^36]
+4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^38]
 
 A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
@@ -210,4 +210,4 @@ A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
 | 100. | Zirc | Veolia Energia Magyarország Zrt. | 9 016 |
 
-[^36]: A 4. melléklet a 16/2024. (IX. 30.) EM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: A 4. melléklet a 16/2024. (IX. 30.) EM rendelet 4. § (2) bekezdésével megállapított szöveg.
