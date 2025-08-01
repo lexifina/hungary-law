@@ -1,3 +1,3 @@
-309. §[^100]
+309. §[^101]
 
-[^100]: A 309. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 309. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

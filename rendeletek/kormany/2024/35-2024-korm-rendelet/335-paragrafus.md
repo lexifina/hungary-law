@@ -1,5 +1,5 @@
 ## 157. A foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet módosítása
 
-335. §[^126]
+335. §[^127]
 
-[^126]: A 335. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 335. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

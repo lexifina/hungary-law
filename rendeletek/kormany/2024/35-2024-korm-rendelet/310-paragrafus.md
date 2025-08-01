@@ -1,3 +1,3 @@
-310. §[^101]
+310. §[^102]
 
-[^101]: A 310. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 310. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

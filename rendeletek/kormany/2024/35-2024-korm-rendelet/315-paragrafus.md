@@ -1,3 +1,3 @@
-315. §[^106]
+315. §[^107]
 
-[^106]: A 315. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 315. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

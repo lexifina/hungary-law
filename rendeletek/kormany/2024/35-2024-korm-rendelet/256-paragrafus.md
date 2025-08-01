@@ -8,7 +8,7 @@
 
 a) a nemzeti dokumentum-aláíró hatósági (DS), az országos ellenőrző-hitelesítő hatósági (CVCA) és a nemzeti dokumentumellenőrző-hitelesítő hatósági (DV) feladatok ellátására a Főigazgatóságot,
 
-b)[^47] az országos aláíró hitelesítő hatósági (CSCA) feladatok ellátására az informatikáért felelős minisztert
+b)[^48] az országos aláíró hitelesítő hatósági (CSCA) feladatok ellátására az informatikáért felelős minisztert
 
 jelöli ki.
 
@@ -24,7 +24,7 @@ a) létrehozza és kiadja a dokumentum-aláíró tanúsítványt, és elhelyezi 
 
 b) létrehozza és kezeli – a tároló elemmel ellátott kishatárforgalmi engedély, tartózkodási engedély, ideiglenes tartózkodási kártya, nemzeti tartózkodási kártya, EU tartózkodási kártya ellenőrzése céljából – a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) összes tagországa nemzeti dokumentum-aláíró hatóságának tanúsítványait és visszavonási listáit tartalmazó tanúsítványt és visszavonási listatárat.
 
-(8)[^48] Az informatikáért felelős miniszter országos aláíró hitelesítő hatóságként
+(8)[^49] Az informatikáért felelős miniszter országos aláíró hitelesítő hatóságként
 
 a) kiadja az országos aláírás-hitelesítő tanúsítványt,
 
@@ -40,8 +40,8 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 
 (11) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, ideiglenes tartózkodási kártya, nemzeti tartózkodási kártya, EU tartózkodási kártya, illetve a bevándorlási vagy letelepedési engedély okmánnyal rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
-(12)[^49] Az informatikáért felelős miniszter a (9) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult külföldi hatóságok számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint a külföldi tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
+(12)[^50] Az informatikáért felelős miniszter a (9) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult külföldi hatóságok számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint a külföldi tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
 
-[^47]: A 256. § (3) bekezdés b) pontja a 217/2024. (VII. 31.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^48]: A 256. § (8) bekezdés nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
-[^49]: A 256. § (12) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^48]: A 256. § (3) bekezdés b) pontja a 217/2024. (VII. 31.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^49]: A 256. § (8) bekezdés nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^50]: A 256. § (12) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-308. §[^99]
+308. §[^100]
 
-[^99]: A 308. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 308. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
