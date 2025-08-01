@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-41-20-0
 | 2024-11-15 | 2019-41-20-0A.12 | 9/2021. (III. 30.) BM rendelet |
 | 2025-01-01 | 2019-41-20-0A.13 | 9/2021. (III. 30.) BM rendelet |
 | 2025-03-21 | 2019-41-20-0A.14 | 8/2025. (III. 20.) EM rendelet |
+| 2025-08-01 | 2019-41-20-0A.15 | 9/2021. (III. 30.) BM rendelet |

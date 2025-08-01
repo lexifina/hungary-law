@@ -34,9 +34,9 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | alkalmazástámogatás és alkalmazásfejlesztés |
 
-| 10. | NISZ Zrt. | VIKI videokonferencia szolgáltatás | Egykapus infokommunikációs szolgáltatás és központi infrastruktúra-üzemeltetés és -fejlesztés | 12/2021. (V. 10.) BM rendelet hatálybalépésének napja |
+| 10. |  |  |  |  |
 
-| 11. | NISZ Zrt. | Call Center szolgáltatás | Egykapus infokommunikációs szolgáltatás és központi infrastruktúra-üzemeltetés és -fejlesztés | 7/2022. (IV. 14.) BM rendelet hatálybalépésének napja |
+| 11. | NISZ Zrt. | Contact Center (Call Center) szolgáltatás | Egykapus infokommunikációs szolgáltatás és központi infrastruktúra-üzemeltetés és -fejlesztés | 7/2022. (IV. 14.) BM rendelet hatálybalépésének napja |
 
 2. A Nemzeti Választási Iroda részére nyújtott közszolgáltatások
 
@@ -204,7 +204,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 6. | NISZ Zrt. | Wifi szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 2021. október 1. |
 
-| 7. | NISZ Zrt. | Call Center szolgáltatás | üzemeltetés és fejlesztés | 2021. október 1. |
+| 7. | NISZ Zrt. | Contact Center (Call Center) szolgáltatás | üzemeltetés és fejlesztés | 2021. október 1. |
 
 | 8. |  |  |  |  |
 
@@ -422,4 +422,4 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
 
-[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1–3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a, a 13/2024. (XI. 14.) MK rendelet 1. § a)–c) pontja, a 16/2024. (XII. 20.) MK rendelet 1. §-a, a 8/2025. (III. 20.) EM rendelet 1. §-a, a 24/2025. (VII. 31.) EM rendelet 1. §-a szerint módosított szöveg.
