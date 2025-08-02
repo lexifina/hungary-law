@@ -1,3 +1,3 @@
-5. § Az R. 10. § (9) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(9) A díj adományozására vonatkozó javaslattétel lehetőségét és határidejét tartalmazó felhívást minden évben legalább a szakmai szervezetek és intézmények körében közzé kell tenni a díj átadásának napját 135 nappal megelőzően. A javaslatok megtételére a díj átadásának napját megelőző 120. és 75. nap között van lehetőség.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

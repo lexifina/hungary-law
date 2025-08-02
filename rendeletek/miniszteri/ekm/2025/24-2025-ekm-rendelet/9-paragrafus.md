@@ -1,1 +1,3 @@
-9. § Az R. 7. § (6) bekezdésében az „a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény” szövegrész helyébe az „a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény (a továbbiakban: 1990. évi XII. törvény)” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
