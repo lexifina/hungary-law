@@ -1,5 +1,3 @@
-## „c) a rendfokozati állománycsoport megváltozására tekintettel a tiszthelyettesi rendfokozati állománycsoportból más rendfokozati állománycsoportba tartozó rendfokozatba kinevezett, továbbá a tábornokká kinevezett, valamint az alacsonyabb beosztásba helyezéssel járó tiszthelyettesi rendfokozatba visszasorolt igényjogosult,”
+3. §[^4]
 
-3. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 23. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdéstől eltérően az igényjogosult állomány tagjától – a hivatásos katasztrófavédelmi szerv igényjogosult állománya kivételével – hivatásos szolgálati jogviszonya megszűnésekor a „17M társasági tányérsapka, sötétkék, szerelve”, valamint a „17M társasági női kalap, sötétkék, szerelve” termékeket is azonnali hatállyal be kell vonni, és azt az állomány további ellátására kell felhasználni.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

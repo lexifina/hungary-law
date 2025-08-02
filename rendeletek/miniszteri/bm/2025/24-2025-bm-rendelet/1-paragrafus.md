@@ -2,6 +2,6 @@
 
 ## [2] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 2., 7. és 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 12. §-a a következő (8) bekezdéssel egészül ki:
+1. §[^2]
 
-„(8) A másik ruházati ellátási normába történt átsorolás esetén a hivatásos állomány tagjának az átsorolást követően a tulajdonában meghagyott ruházati termékeket és felszerelési cikkeket két évig meg kell őriznie. Az átsorolást követő két éven belüli újabb átsorolás esetén a hivatásos állomány tagja tulajdonában meghagyott ruházati termékek és felszerelési cikkek helyett az önálló szerv költségvetését terhelően másik ruházati termék és felszerelési cikk nem adható ki. Erről az érintettet írásban tájékoztatni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
