@@ -1,3 +1,3 @@
-26. § Az R2. 21. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+26. §[^27]
 
-(A végrehajtói szakvizsgáról jelöltenként külön jegyzőkönyvet kell készíteni, és ebben fel kell tüntetni)
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

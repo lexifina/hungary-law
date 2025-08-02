@@ -14,6 +14,6 @@
 
 ## 1. Az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet módosítása
 
-1. § Az igazságügyi szakértői tevékenység folytatásához szükséges jogi oktatásról és vizsgáról szóló 10/2006. (III. 7.) IM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A jogi oktatás (a továbbiakban: tanfolyam) célja, hogy az igazságügyi szakértői névjegyzékbe (a továbbiakban: névjegyzék) való felvétel iránti kérelmet benyújtók (a továbbiakban: jelentkező), valamint a névjegyzékbe bejegyzett igazságügyi szakértők (a továbbiakban: szakértő) szervezett keretek között kapjanak tájékoztatást az igazságügyi szakértői tevékenység folytatásához szükséges jogi ismeretekről, és a megszerzett jogi tudásuk frissítése érdekében rendszeres továbbképzésben részesüljenek.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

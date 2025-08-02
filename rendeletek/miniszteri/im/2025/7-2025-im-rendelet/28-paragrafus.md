@@ -1,5 +1,3 @@
-28. § Az R2. 29. §-a helyébe a következő rendelkezés lép:
+28. §[^29]
 
-„29. § (1) Az eredményesen letett végrehajtási ügyintézői vizsgáról a 18. § (2) bekezdése szerinti tartalommal papíralapú bírósági végrehajtási ügyintézői tanúsítványt kell kiállítani.
-
-(2) A bírósági végrehajtási ügyintézői tanúsítványra és a vizsgáról készült jegyzőkönyvre megfelelően irányadóak a végrehajtói tanúsítványra és a végrehajtói szakvizsgáról készült jegyzőkönyvre vonatkozó rendelkezések.”
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

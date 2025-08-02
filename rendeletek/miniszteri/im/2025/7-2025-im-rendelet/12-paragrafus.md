@@ -1,5 +1,3 @@
-12. § Az R. 19. §-a helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„19. § (1) A jelölt a vizsgát az első képzés elvégzését követő egy éven belül köteles letenni.
-
-(2) Az (1) bekezdésben meghatározott határidőt követően az első képzést ismételten el kell végezni.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § Az R. 5. § (1) bekezdése a következő h) és i) ponttal egészül ki:
+4. §[^5]
 
-(Mentesül a vizsga alól az, aki)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

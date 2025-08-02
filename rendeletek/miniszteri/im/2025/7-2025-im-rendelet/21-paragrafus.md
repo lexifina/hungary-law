@@ -1,3 +1,3 @@
-21. § Az R2. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(1) Az önálló bírósági végrehajtójelölteknek a 3. § (1) bekezdésében meghatározott képzésre, továbbképzésre történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben szabályozott elektronikus úton nyújthatja be. A képzés, valamint a továbbképzés díja 55 000 Ft.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

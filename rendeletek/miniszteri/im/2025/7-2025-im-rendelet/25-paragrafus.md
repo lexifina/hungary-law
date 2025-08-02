@@ -1,3 +1,3 @@
-25. § Az R2. 20. §-a helyébe a következő rendelkezés lép:
+25. §[^26]
 
-„20. § Ha a jelölt a végrehajtói szakvizsgán nem felelt meg minősítést kapott, a szakvizsgát megismételheti.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

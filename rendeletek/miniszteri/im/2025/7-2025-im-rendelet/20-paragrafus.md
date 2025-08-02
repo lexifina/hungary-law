@@ -1,3 +1,3 @@
-20. § Az R2. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(2) Ha az önálló bírósági végrehajtójelölt a képzés vagy a továbbképzés esetén négy előadásnál többről hiányzik, akkor a képzést vagy a továbbképzést köteles megismételni.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

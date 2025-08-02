@@ -1,3 +1,3 @@
-11. § Az R. 18. §-a helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„18. § Ha a jelölt a vizsgán nem felelt meg minősítést kapott, a vizsgát megismételheti.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

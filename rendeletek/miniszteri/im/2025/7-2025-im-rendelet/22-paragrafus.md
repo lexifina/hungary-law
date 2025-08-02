@@ -1,3 +1,3 @@
-22. § Az R2. 6. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+22. §[^23]
 
-[Bírósági végrehajtói szakvizsgára (a továbbiakban: végrehajtói szakvizsga) az jelentkezhet, aki]
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

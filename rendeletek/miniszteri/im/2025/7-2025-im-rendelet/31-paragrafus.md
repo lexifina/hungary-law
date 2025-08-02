@@ -1,9 +1,3 @@
-31. § Hatályát veszti az R2.
+31. §[^32]
 
-a) 4. § (3) bekezdése,
-
-b) 21. § (1) bekezdés c) pontja,
-
-c) 24. § (3) bekezdése,
-
-d) 1. és 2. melléklete.
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

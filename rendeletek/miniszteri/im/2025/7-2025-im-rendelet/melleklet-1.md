@@ -1,5 +1,3 @@
-1. melléklet a 7/2025. (VI. 30.) IM rendelethez
+1. melléklet a 7/2025. (VI. 30.) IM rendelethez[^39]
 
-Az R. 1. számú melléklet A) rész 9. pontja helyébe a következő rendelkezés lép:
-
-„9. A szakvélemény formai és tartalmi követelményei, annak írásbeli elkészítése és szóbeli előadása, a szövegezés és fogalmazás.”
+[^39]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

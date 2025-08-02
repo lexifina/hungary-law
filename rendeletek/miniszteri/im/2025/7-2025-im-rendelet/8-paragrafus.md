@@ -1,3 +1,3 @@
-8. § Az R. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(2) A vizsga írásbeli és szóbeli vizsgából áll.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
