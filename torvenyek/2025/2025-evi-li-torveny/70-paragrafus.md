@@ -1,5 +1,3 @@
 ## 17. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-70. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 9/C. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Az egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2025. évi XLVI. törvény, és a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény szerinti vagyonjuttatással az állam által sportcélú közfeladat ellátása, közösségi sportcélú használat biztosítása érdekében, ingyenesen sportszervezet vagy országos sportági szakszövetség tulajdonába adott ingó- és ingatlanvagyont az arra vonatkozó elidegenítési és terhelési tilalom időtartama alatt a végelszámolás elrendelését követő 30 napon belül térítés nélkül, könyv szerinti értékben, az állami tulajdonosi joggyakorló szervezetnek át kell adni, amelynek során a végelszámolás alatt álló sportszervezet vagy országos sportági szakszövetség az általa végrehajtott értéknövelő beruházások elszámolására, valamint ezzel összefüggésben felmerült követeléseinek érvényesítésére nem jogosult.”
+### 70. §
