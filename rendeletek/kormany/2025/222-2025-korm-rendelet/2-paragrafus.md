@@ -1,9 +1,3 @@
-2. § A Kr. a következő 48/F. §-sal egészül ki:
+2. §[^2]
 
-„48/F. § A Rekonstruktív Reproduktív Medicina keretében végzett koordinátori tevékenységért
-
-a) a Budai Irgalmasrendi Kórház havi 15 000 000 forint,
-
-b) a Semmelweis Egyetem Klinikai Központ havi 15 033 000 forint
-
-összegű fix díjban részesül.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
