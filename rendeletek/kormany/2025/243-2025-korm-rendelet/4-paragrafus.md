@@ -1,1 +1,3 @@
-4. § Az R. 6/A. § (1) bekezdés a) pontjában az „az OTÉK” szövegrész helyébe az „az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK)” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
