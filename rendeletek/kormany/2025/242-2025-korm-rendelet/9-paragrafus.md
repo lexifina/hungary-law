@@ -1,9 +1,3 @@
-9. § Hatályát veszti az R.
+9. §[^10]
 
-a) 3. §-a,
-
-b) 4. §-a,
-
-c) 6. § (1) bekezdés g)–j) pontja,
-
-d) 11. §-a.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

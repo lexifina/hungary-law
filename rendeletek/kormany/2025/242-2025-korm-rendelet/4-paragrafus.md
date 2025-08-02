@@ -1,3 +1,3 @@
-4. § Az R. 5. § (2) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+4. §[^5]
 
-(A Társaság)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

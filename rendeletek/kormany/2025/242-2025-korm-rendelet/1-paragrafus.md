@@ -18,4 +18,6 @@
 
 ## 1. Az integrált ügyintézési és tájékoztatási pont kialakításáról, működtetéséről, valamint a működtető és az érintett szervek együttműködésének rendjéről szóló 160/2010. (V. 6.) Korm. rendelet módosítása
 
-1. § Az integrált ügyintézési és tájékoztatási pont kialakításáról, működtetéséről, valamint a működtető és az érintett szervek együttműködésének rendjéről szóló 160/2010. (V. 6.) Korm. rendelet 3. § (3) bekezdésében a „Központi Okmányügyi Főosztály” szövegrész helyébe a „Központi Kormányablak” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
