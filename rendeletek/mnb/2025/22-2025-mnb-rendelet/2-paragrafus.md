@@ -1,1 +1,3 @@
-2. § A kötelező tartalékráta mértékéről szóló 52/2023. (XI. 20.) MNB rendelet 1. § b) pontjában a „10%” szövegrész helyébe a „8%” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
