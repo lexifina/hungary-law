@@ -1,3 +1,3 @@
-## „d) az MNV Zrt. vonatkozásában a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés h) pontjának hatálya alá tartozó szervezet.”
+4. §[^5]
 
-4. § A Vhr. Melléklete az 1. melléklet szerint módosul.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

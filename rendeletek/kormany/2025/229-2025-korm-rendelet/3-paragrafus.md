@@ -1,3 +1,3 @@
-3. § A Vhr. 26. § (2) bekezdése a következő d) ponttal egészül ki:
+3. §[^4]
 
-(Az értékesítés lebonyolítására vonatkozó pályázat kiírása nélkül is értékesíthet a tulajdonosi joggyakorló megbízása alapján, az e rendeletben foglalt szabályok alkalmazásával)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
