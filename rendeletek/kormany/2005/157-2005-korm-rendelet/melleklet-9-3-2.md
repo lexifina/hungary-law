@@ -1,0 +1,1 @@
+1.3.2. A hőpotenciál becslés alapján szükséges megvizsgálni a jelenlegi és a megújuló energia, a maradékhő és a nagy hatásfokú kapcsolt energiatermelés műszaki és gazdasági alkalmazhatóságát. A vizsgálathoz az 1.1. alpontban található 1.a. és 1.b. táblázatokat a terv készítésekor aktuális és a tervezett jövőbeli állapotra kitöltve szükséges alapul venni.

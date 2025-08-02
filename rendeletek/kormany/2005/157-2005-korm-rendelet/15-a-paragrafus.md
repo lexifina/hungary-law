@@ -1,4 +1,4 @@
-15/A. §[^57] (1) A távhőszolgáltatók azon egy egységként kezelt távhőrendszereik esetében, ahol a működési területükre érvényes távhőtermelői hőteljesítményigény meghaladja a 25 MW értéket, kötelesek a megújuló forrásokból, valamint a hulladék hőenergiából származó energiát biztosító hőtermelőket csatlakoztatni a távhőrendszerhez, ha
+15/A. §[^63] (1)[^64] A távhőszolgáltatók azon egy egységként kezelt távhőrendszereik esetében, ahol a működési területükre érvényes távhőtermelői hőteljesítményigény meghaladja a 25 MW értéket, kötelesek a megújuló forrásokból, valamint a maradékhőből származó energiát biztosító hőtermelőket csatlakoztatni a távhőrendszerhez, ha
 
 a) új fogyasztók igényeit kell kielégíteni,
 
@@ -6,11 +6,11 @@ b) le kell cserélniük a hőenergiát termelő meglévő saját, vagy külső t
 
 c) bővíteniük kell a hőenergiát termelő meglévő kapacitásaikat.
 
-(2) A távhőszolgáltatók azon egy egységként kezelt távhőrendszereik esetében, ahol a működési területükre érvényes méretezési külső hőmérséklet szerinti távhőtermelői hőteljesítményigény nem haladja meg a 25 MW értéket, kötelesek az (1) bekezdés a)–c) pontjában foglalt körülmények fennállása esetén a megújuló forrásokból, valamint a hulladék hőenergiából származó energiát biztosító hőtermelők távhőrendszerhez történő csatlakoztatási lehetőségét megvizsgálni, és a vizsgálat eredményéről a Hivatalt tájékoztatni.
+(2)[^65] A távhőszolgáltatók azon egy egységként kezelt távhőrendszereik esetében, ahol a működési területükre érvényes méretezési külső hőmérséklet szerinti távhőtermelői hőteljesítményigény nem haladja meg a 25 MW értéket, kötelesek az (1) bekezdés a)–c) pontjában foglalt körülmények fennállása esetén a megújuló forrásokból, valamint a maradékhőből származó energiát biztosító hőtermelők távhőrendszerhez történő csatlakoztatási lehetőségét megvizsgálni, és a vizsgálat eredményéről a Hivatalt tájékoztatni.
 
 (3) A távhőszolgáltató megtagadhatja az (1) bekezdés szerinti csatlakoztatást, és az abból származó hőenergia vásárlását, ha
 
-a) az egy egységként kezelt távhőrendszer más hulladék hőenergia, vagy megújuló forrásokból előállított hőenergia befogadása miatt nem rendelkezik az új hőtermelő hőteljesítményének befogadásához szükséges kapacitással;
+a)[^66] az egy egységként kezelt távhőrendszer más maradékhő, vagy megújuló forrásokból előállított hőenergia befogadása miatt nem rendelkezik az új hőtermelő hőteljesítményének befogadásához szükséges kapacitással;
 
 b) az (1) bekezdés szerinti hőtermelő által szolgáltatott hőenergia nem felel meg a csatlakoztatáshoz, illetve a távfűtési rendszer megbízható és biztonságos működéséhez szükséges technikai paramétereknek;
 
@@ -24,4 +24,7 @@ d) a távhőszolgáltató rendszere egy hatékony távfűtési rendszer.
 
 (6) Ha az (1) bekezdés szerinti hőtermelő csatlakoztatását a távhőszolgáltató a (3) bekezdés szerint megtagadja, és az a hőtermelő szerint nem kellően alátámasztott, a hőtermelő a távhőszolgáltató számára benyújtott csatlakozási ajánlatát mellékelve kérheti a Hivataltól annak ellenőrzését, hogy a távhőszolgáltató (4) bekezdés szerinti tájékoztatása a Hivatal felé megtörtént-e, és ha igen, akkor a csatlakozás megtagadása kellően megalapozott volt-e. A Hivatal a kérelem alapján lefolytatja az ellenőrzést, és szükség esetén az (5) bekezdésben meghatározott jogkövetkezményeket alkalmazza.
 
-[^57]: A Vhr. 15/A. §-át a 81/2024. (IV. 11.) Korm. rendelet 7. §-a iktatta be.
+[^63]: A Vhr. 15/A. §-át a 81/2024. (IV. 11.) Korm. rendelet 7. §-a iktatta be.
+[^64]: A 15/A. § (1) bekezdés nyitó szövegrésze a 238/2025. (VII. 31.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
+[^65]: A 15/A. § (2) bekezdése a 238/2025. (VII. 31.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
+[^66]: A 15/A. § (3) bekezdés a) pontja a 238/2025. (VII. 31.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-6. §[^23] (1) A távhőtermelői létesítési és a távhőtermelői működési engedélynek tartalmaznia kell:
+6. §[^28] (1) A távhőtermelői létesítési és a távhőtermelői működési engedélynek tartalmaznia kell:
 
 a) a hőtermelő létesítmény telephelyét,
 
@@ -14,7 +14,7 @@ f) a működés során és annak megszüntetése után szükséges, a környezet
 
 g) az egyéb – jogszabályban meghatározott – követelményeket.
 
-(1a)[^24] A távhőtermelői létesítési engedélynek – az (1) bekezdésben meghatározottakon túl – tartalmaznia kell a Tszt. 14. § (3) bekezdése szerinti üzembe helyezési eljárás megvalósítására vonatkozó tájékoztatási kötelezettséget.
+(1a)[^29] A távhőtermelői létesítési engedélynek – az (1) bekezdésben meghatározottakon túl – tartalmaznia kell a Tszt. 14. § (3) bekezdése szerinti üzembe helyezési eljárás megvalósítására vonatkozó tájékoztatási kötelezettséget.
 
 (2) A távhőszolgáltatói működési engedélynek tartalmaznia kell:
 
@@ -32,5 +32,20 @@ f) a felhasználói korlátozási sorrend készítésére vonatkozó követelmé
 
 g) az egyéb – jogszabályban meghatározott – követelményeket.
 
-[^23]: A Vhr. 6. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^24]: A Vhr. 6. § (1a) bekezdését a 81/2024. (IV. 11.) Korm. rendelet 5. §-a iktatta be.
+(3)[^30] A maradékhő értékesítői engedélynek tartalmaznia kell
+
+a) a maradékhőt keletkeztető létesítmény telephelyét,
+
+b) a maradékhő távhőrendszerbe való betáplálásának földrajzi helyét,
+
+c) a maradékhőt keletkeztető létesítmény egyéb jellemző műszaki-gazdasági adatait,
+
+d) a maradékhő távhőrendszerbe történő betáplálhatóságának feltételeit,
+
+e) a maradékhő értékesítés érdekében vállalt kötelezettségeket és
+
+f) az egyéb – jogszabályban meghatározott – követelményeket.
+
+[^28]: A Vhr. 6. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^29]: A Vhr. 6. § (1a) bekezdését a 81/2024. (IV. 11.) Korm. rendelet 5. §-a iktatta be.
+[^30]: A 6. § (3) bekezdését a 238/2025. (VII. 31.) Korm. rendelet 7. §-a iktatta be.

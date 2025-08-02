@@ -1,4 +1,4 @@
-## Cégjogi események, befolyásszerzés engedélyezése[^39]
+## Cégjogi események, befolyásszerzés engedélyezése[^45]
 
 ## [a Tszt. 19. §-ához]
 
@@ -10,4 +10,4 @@
 
 (4) A Tszt. 19. § (8) bekezdése szerinti kérelemhez az 1. melléklet 1. pontjában meghatározottakon kívül a kérelmező mellékeli az előzetes hozzájárulásban foglaltaknak való megfelelést alátámasztó nyilatkozatokat és az ehhez rendelkezésre álló dokumentumokat.
 
-[^39]: A Vhr. „Cégjogi események, befolyásszerzés engedélyezése” alcímét (Vhr. 8/B. §) a 80/2019. (IV. 15.) Korm. rendelet 4. §-a iktatta be.
+[^45]: A Vhr. „Cégjogi események, befolyásszerzés engedélyezése” alcímét (Vhr. 8/B. §) a 80/2019. (IV. 15.) Korm. rendelet 4. §-a iktatta be.

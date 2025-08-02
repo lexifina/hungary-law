@@ -1,0 +1,1 @@
+1.3.3. Meg kell határozni a fejlesztési célok eléréséhez szükséges 5 éves és 5–10 éves intézkedéseket és beruházásokat, kitérve az előremenő hőmérséklet és a hőveszteség csökkentése érdekében tervezett intézkedésekre és beruházásokra.

@@ -1,10 +1,10 @@
-## A létesítésre, a működésre, valamint a megszüntetésre vonatkozó engedély[^7]
+## A létesítésre, a működésre, valamint a megszüntetésre vonatkozó engedély[^11]
 
 ## [a Tszt. 12–17. §-aihoz]
 
-3. §[^8] (1)[^9] A távhőtermelői létesítési engedély iránti kérelemnek – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti tartalmi elemeken túl – tartalmaznia kell:
+3. §[^12] (1)[^13] A távhőtermelői létesítési engedély iránti kérelemnek – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti tartalmi elemeken túl – tartalmaznia kell:
 
-a)[^10] ha a kérelmező cégjegyzékben nyilvántartott cég, cégjegyzékszámát és adószámát, valamint a Tszt. 3. § y) pontja szerinti tényleges tulajdonost tartalmazó nyilatkozatát,
+a)[^14] ha a kérelmező cégjegyzékben nyilvántartott cég, cégjegyzékszámát és adószámát, valamint a Tszt. 3. § 28. pontja szerinti tényleges tulajdonost tartalmazó nyilatkozatát,
 
 b) a kérelmező kapcsolattartójának nevét, telefonszámát, elektronikus elérhetőségét,
 
@@ -16,7 +16,7 @@ e) az üzembe helyezés tervezett időpontját,
 
 f) a hőtermelésre vonatkozó főbb mennyiségi és gazdálkodási adatokat.
 
-(2)[^11] A távhőtermelői létesítési engedély iránti kérelem benyújtásakor – a 8/A. § (1) bekezdésében foglaltak figyelembevételével –
+(2)[^15] A távhőtermelői létesítési engedély iránti kérelem benyújtásakor – a 8/A. § (1) bekezdésében foglaltak figyelembevételével –
 
 a) igazolni kell a távhőtermelés fenntarthatóságát, bemutatva az öt évre szóló üzleti tervet,
 
@@ -42,8 +42,8 @@ azonosításához szükséges adatokat, és
 
 f) be kell nyújtani a termelt távhő átvételével érintett távhőszolgáltatói működési engedélyesnek a kérelmező által termelni tervezett távhő átvételére vonatkozó – hőteljesítményt és hőmennyiséget is tartalmazó – befogadó nyilatkozatát.
 
-[^7]: A Vhr. 3. §-át megelőző alcím a 401/2020. (VIII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: A Vhr. 3. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A Vhr. 3. § (1) bekezdés nyitó szövegrésze a 401/2020. (VIII. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^10]: A Vhr. 3. § (1) bekezdés a) pontja a 81/2024. (IV. 11.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A Vhr. 3. § (2) bekezdése a 81/2024. (IV. 11.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A Vhr. 3. §-át megelőző alcím a 401/2020. (VIII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A Vhr. 3. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A Vhr. 3. § (1) bekezdés nyitó szövegrésze a 401/2020. (VIII. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^14]: A Vhr. 3. § (1) bekezdés a) pontja a 81/2024. (IV. 11.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2025. (VII. 31.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^15]: A Vhr. 3. § (2) bekezdése a 81/2024. (IV. 11.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

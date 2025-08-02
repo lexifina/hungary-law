@@ -16,7 +16,7 @@
 
 | 3. Sarokhelyiségek korrekciói: |  |
 
-| 3.1.[^181] minden olyan helyiség, amely legalább két külső egymással határos határoló-felülettel (lehűlő falfelülettel) rendelkezik | –10 |
+| 3.1.[^191] minden olyan helyiség, amely legalább két külső egymással határos határoló-felülettel (lehűlő falfelülettel) rendelkezik | –10 |
 
 | 4. Égtáj szerinti korrekció: |  |
 
@@ -36,7 +36,7 @@
 
 ## *** A legfelső emeleti korrekciók nem alkalmazhatók azoknál a függőleges, felső elosztású fűtési rendszerű felhasználási helyek helyiségeinél, amelyek légterében hőszigetelés nélküli vízszintes elosztóvezeték halad át.
 
-7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^182]
+7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^192]
 
-[^181]: A Vhr. 6. mellékletében foglalt táblázat 3.1. pontja a 471/2024. (XII. 30.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^182]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege 360/2019. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 5. §-a, a 258/2024. (VIII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^191]: A Vhr. 6. mellékletében foglalt táblázat 3.1. pontja a 471/2024. (XII. 30.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^192]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege 360/2019. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 5. §-a, a 258/2024. (VIII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
