@@ -1,7 +1,3 @@
-2. § Hatályát veszti a 63/2016. NFM rendelet
+2. §[^3]
 
-a) 5. § (3) bekezdés n) pontja,
-
-b) 6. § (3) bekezdés h) pontja és
-
-c) 9. § (8) bekezdése.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
