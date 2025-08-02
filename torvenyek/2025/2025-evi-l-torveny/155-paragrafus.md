@@ -1,1 +1,1 @@
-155. § A villamos energiáról szóló 2007. évi LXXXVI. törvény „A megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia termelésének elősegítése” alcím címe helyébe a következő alcím cím lép:
+### 155. §

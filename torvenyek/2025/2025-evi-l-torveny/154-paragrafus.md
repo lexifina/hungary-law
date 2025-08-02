@@ -1,3 +1,1 @@
-154. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 6/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az egyetemes szolgáltatásban vételező felhasználó által üzemeltetett háztartási méretű kiserőmű által megújuló energiaforrásból termelt villamos energia vonatkozásában a Hivatal a származási garanciát az egyetemes szolgáltató részére jegyzi be. A származási garanciát az egyetemes szolgáltató értékesíti, az értékesítésre vonatkozó szabályokat a kormány rendeletben határozza meg. Az egyetemes szolgáltató a származási garancia értékesítéséből származó bevételt és az értékesítéshez szükséges ráfordításait az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló kormányrendelet szerinti ellentételezés kiszámítása során figyelembe veszi.”
+### 154. §

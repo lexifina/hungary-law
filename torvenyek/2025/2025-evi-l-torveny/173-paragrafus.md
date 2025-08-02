@@ -1,7 +1,1 @@
-173. § A földgázellátásról szóló 2008. évi XL. törvény „Egyetemes szolgáltatás” alcíme a következő 40/A. §-sal egészül ki:
-
-„40/A. § (1) A Kormány az elérhető árú földgázellátás biztosítására rezsivédelmi szolgáltatást nyújt az egyetemes szolgáltatást igénybe vevő felhasználók számára. A rezsivédelmi szolgáltatás az egyetemes szolgáltatást igénybe vevő felhasználó számára a földgázellátás biztosítása a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló miniszteri rendeletben meghatározott mértékig méltányos, összehasonlítható, átlátható ár ellenében egyetemes szolgáltatás útján az energia piaci körülmények megváltozása esetén is. A rezsivédelmi szolgáltatás biztosítása állami közfeladat. A rezsivédelmi szolgáltatás részletszabályait e törvény végrehajtására kiadott kormányrendelet határozza meg.
-
-(2) Az egyetemes szolgáltatót ellátó földgázkereskedő részére járó ellentételezés összege megegyezik azzal az összeggel, amellyel a tárgyévre vonatkozóan meg kell szüntetni a 141/L. § (1) bekezdése szerinti negatív összegű árbevétel különbségek kumulált értéke és a pozitív összegű árbevétel különbségek kumulált értéke közötti különbözetet (egyenleget).
-
-(3) A (2) bekezdés szerinti ellentételezést Sztv. szerinti egyéb bevételnek kell tekinteni. A rezsivédelmi szolgáltatás biztosítása nem minősül az általános forgalmi adóról szóló törvény szerinti szolgáltatásnyújtásnak, az ellentételezés kifizetett összege visszafizetési kötelezettség nélkül átadott pénzeszköznek tekintendő.”
+### 173. §
