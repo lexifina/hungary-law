@@ -1,3 +1,3 @@
-3. § A Vet. Vhr. 49. § (3) bekezdése a következő c) ponttal egészül ki:
+3. §[^4]
 
-(A szabályzati bizottságban az érintett villamosenergia-ellátási szabályzatban meghatározottak szerint az átviteli rendszerirányítón kívül)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

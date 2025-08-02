@@ -1,3 +1,3 @@
-20. § A NACSA kr. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(4) A nagycsaládos kedvezményt jogosulatlanul igénybe vevő a fogyasztott mennyiség kedvezmény nélkül számított ellenértékének és a kedvezményes mennyiség ellenértékének az általános forgalmi adóval és a törvényes késedelmi kamattal növelt különbözetét 30 napon belül köteles az egyetemes szolgáltatónak megfizetni.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

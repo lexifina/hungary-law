@@ -1,1 +1,3 @@
-7. § A Vet. Vhr. 50/A. § (2) bekezdésében a „bizottság a szervezett” szövegrésze helyébe a „bizottság, a miniszter és a szervezett” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

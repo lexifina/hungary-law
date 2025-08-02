@@ -1,13 +1,3 @@
-23. § Hatályát veszti a NACSA kr.
+23. §[^24]
 
-a) 3. § (4) bekezdése,
-
-b) 8. § (1) és (2) bekezdése,
-
-c) 9. § (1) bekezdésében a „b) pontja” szövegrész,
-
-d) 9. § (3) bekezdésében a „b) pontja” szövegrész,
-
-e) 10. § (1) bekezdése,
-
-f) 1. melléklete.
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-14. § Az R. 19. § f) pontjában a „3l., 3o.” szövegrész helyébe a „3l., 3m., 3o.” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

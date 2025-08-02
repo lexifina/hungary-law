@@ -1,3 +1,3 @@
-18. § A NACSA kr. 5. §-a helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„5. § A nagycsaládos kedvezményre való jogosultságot megállapító döntésben a gyermekekre tekintettel adható nagycsaládos kedvezmény felső határáról MJ-ban kifejezve kell rendelkezni.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

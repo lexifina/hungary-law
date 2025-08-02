@@ -1,3 +1,3 @@
-13. § (1) Az R. a 3. melléklet szerinti 9. melléklettel egészül ki.
+13. §[^14]
 
-(2) Az R. a 4. melléklet szerinti 10. melléklettel egészül ki.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

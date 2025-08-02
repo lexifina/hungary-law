@@ -1,3 +1,3 @@
-17. § A NACSA kr. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+17. §[^18]
 
-„(3) A felhasználási hely, illetve fogyasztói közösség esetén a lakás megállapítása szempontjából a személyi adat- és lakcímnyilvántartás adatai, a nagycsaládos kedvezményre való jogosultság megállapítása szempontjából a Kincstárnál és a kormányhivatalnál a családi pótlékra való jogosultságra vonatkozó nyilvántartás adatai az irányadók.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

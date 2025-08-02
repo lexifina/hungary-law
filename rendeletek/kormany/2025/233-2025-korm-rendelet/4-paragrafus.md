@@ -1,7 +1,3 @@
-## „c) a miniszter az általa delegált tag”
+4. §[^5]
 
-## (útján vesznek részt szavazati joggal.)
-
-4. § A Vet. Vhr. 50. § (3) bekezdése a következő c) ponttal egészül ki:
-
-(A szabályzati bizottságban az elosztói szabályzatban meghatározottak szerint az elosztókon kívül)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
