@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-15-20-8
 | 2025-07-01 | 2025-15-20-8Y.1 | 15/2025. (VI. 30.) EM rendelet |
 | 2025-07-02 | 2025-15-20-8Y.2 | 2010. évi CXXX. törvény |
 | 2025-08-01 | 2025-15-20-8Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-08-02 | 2025-15-20-8Y.4 | 2010. évi CXXX. törvény |

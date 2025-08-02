@@ -1,3 +1,3 @@
-2. melléklet a 15/2025. (VI. 30.) EM rendelethez[^9]
+2. melléklet a 15/2025. (VI. 30.) EM rendelethez[^11]
 
-[^9]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
