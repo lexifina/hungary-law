@@ -1,3 +1,5 @@
 ## 19. A polgári nemzetbiztonsági szolgálatok által üzemben tartott szolgálati járművekre, azok forgalomba helyezésére, valamint időszakos vizsgálatára vonatkozó különös szabályokról szóló 22/2023. (VIII. 30.) MK rendelet módosítása
 
-22. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok által üzemben tartott szolgálati járművekre, azok forgalomba helyezésére, valamint időszakos vizsgálatára vonatkozó különös szabályokról szóló 22/2023. (VIII. 30.) MK rendelet 9. § (6) bekezdésében az „A Nemzeti Információs Központ esetében a járműkövető rendszer alkalmazás a Nemzetbiztonsági Szakszolgálat hardware infrastruktúráján üzemel.” szövegrész.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

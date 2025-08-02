@@ -1,5 +1,5 @@
 ## 21. A polgári nemzetbiztonsági szolgálatok személyi állományának illetményéről, az illetményen felüli juttatásokról, költségtérítésekről, kedvezményekről és támogatásokról szóló 6/2025. (III. 31.) MK rendelet módosítása
 
-24. § A polgári nemzetbiztonsági szolgálatok személyi állományának illetményéről, az illetményen felüli juttatásokról, költségtérítésekről, kedvezményekről és támogatásokról szóló 6/2025. (III. 31.) MK rendelet 9. §-a helyébe a következő rendelkezés lép:
+24. §[^25]
 
-„9. § A nemzetbiztonsági állomány tagjának halála esetén a polgári nemzetbiztonsági szolgálat írásban tájékoztatja a nemzetbiztonsági állomány elhunyt tagjának utolsó állandó lakóhelye szerint illetékes jegyzőt a polgári nemzetbiztonsági szolgálat felé fennálló tartozásról és a hagyatéki eljárásban hagyatéki hitelezőként való fellépéséről, illetve a polgári nemzetbiztonsági szolgálattal szemben fennálló követelésről. A ki nem fizetett illetményt és illetményen felüli juttatást a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés, hagyatéki per esetén a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 89. §-a szerinti, a bíróság határozatának irányadó voltát megállapító, az eljárást befejező végzés, öröklési per esetén a bírósági ítélet vagy egyezséget jóváhagyó végzés jogerőssé válásáig elkülönítetten kell nyilvántartani, kezelni.”
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

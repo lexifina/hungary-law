@@ -1,3 +1,5 @@
 ## 16. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló 2/2021. (I. 14.) BM rendelet módosítása
 
-19. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló 2/2021. (I. 14.) BM rendelet 19. § (2) bekezdés b) pontjában az „− a miniszter irányítása alá tartozó polgári nemzetbiztonsági szolgálat hivatásos állományának tagja felülvizsgálati eljárása kivételével –” szövegrész.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

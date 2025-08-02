@@ -1,5 +1,3 @@
-6. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi szervek közegészségügyi-járványügyi és egészségfejlesztési feladatainak ellátásáról, valamint a védőoltás elrendelésének rendjéről szóló 1/2014. (I. 10.) BM rendelet
+6. §[^7]
 
-a) 1. melléklet 2. pontjában foglalt táblázat 8. és 10. sora,
-
-b) 3. melléklet 6. és 7. pontja.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „f) olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házastársi közös vagyon megosztása, közszerzeményi rendszer esetén a vagyonszaporulat megosztása, élettársi közös tulajdon megszüntetése vagy az élettársi együttélés alatt keletkezett vagyonszaporulat megosztása keretében volt házastársa, élettársa vagy gyermeke javára lemondott, és ezt a házastársi közös vagyon megosztásáról, közszerzeményi rendszer esetén a vagyonszaporulat megosztásáról, élettársi közös tulajdon megszüntetéséről vagy az élettársi együttélés alatt keletkezett vagyonszaporulat megosztásáról szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.”
+26. §[^27]
 
-26. § A polgári nemzetbiztonsági szolgálatok személyi állományának illetményéről, az illetményen felüli juttatásokról, költségtérítésekről, kedvezményekről és támogatásokról szóló 6/2025. (III. 31.) MK rendelet 66. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A (2) bekezdés a) pontjában foglaltaktól eltérően lakásbérleti szerződés köthető a nemzetbiztonsági állomány tagjával, ha]
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
