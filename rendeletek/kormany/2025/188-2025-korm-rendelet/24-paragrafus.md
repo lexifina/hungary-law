@@ -1,3 +1,3 @@
-24. § A 191/2014. (VII. 31.) Korm. rendelet 8. §-a a következő (3a) bekezdéssel egészül ki:
+24. §[^24]
 
-„(3a) Az elővásárlási jogosultság körében a helyben lakás a mezőgazdasági igazgatási szerv által az árverezésen való részvételhez szükséges feltételek fennállásáról és a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti feltételeknek való megfelelésről kiállított hatósági bizonyítvánnyal igazolható.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
