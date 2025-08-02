@@ -1,0 +1,1 @@
+11/F. § A létesítményt a közcélú megváltási határozatban meghatározott határidőn belül a közcélú megváltás céljára kell használni, és a közcélú megváltási cél szerinti használatot a közcélú megváltási határozatban előírt időtartamig biztosítani kell.

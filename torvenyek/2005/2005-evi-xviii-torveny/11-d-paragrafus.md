@@ -1,0 +1,1 @@
+11/D. § Ha a közcélú megváltást kérő és a tulajdonos a kártalanítás tárgyában egyezséget kötött, a kisajátítási hatóság az egyezséget határozatába foglalja. Az egyezséget a Ptk. szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint lehet megtámadni.
