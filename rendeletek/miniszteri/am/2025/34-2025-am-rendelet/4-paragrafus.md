@@ -1,5 +1,3 @@
-4. § Hatályát veszti a 14/2017. (III. 23.) FM rendelet
+4. §[^5]
 
-a) 2. melléklet 1. pontjában foglalt táblázat 64. sora és
-
-b) 5. melléklet 2.11.6.2.1.4. pontja.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

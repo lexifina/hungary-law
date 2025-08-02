@@ -4,6 +4,6 @@
 
 ## [3] A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény 30. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet [a továbbiakban: 14/2017. (III. 23.) FM rendelet] 50. §-a a következő h) ponttal egészül ki:
+1. §[^2]
 
-(E rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
