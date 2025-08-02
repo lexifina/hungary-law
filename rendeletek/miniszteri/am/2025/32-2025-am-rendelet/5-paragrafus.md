@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 13/2001. (V. 9.) KöM rendelet 2. számú mellékletében foglalt táblázat 1283. sora.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

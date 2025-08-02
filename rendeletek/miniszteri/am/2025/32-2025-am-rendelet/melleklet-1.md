@@ -1,13 +1,3 @@
-1. melléklet a 32/2025. (VII. 31.) AM rendelethez
+1. melléklet a 32/2025. (VII. 31.) AM rendelethez[^7]
 
-A 13/2001. (V. 9.) KöM rendelet 8. számú mellékletében foglalt táblázat a következő 680b sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Rendszertani kategória | Tudományos név | Magyar elnevezés) |
-
-„
-
-| 680b |  | Corvus frugilegus | vetési varjú |
-
-”
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

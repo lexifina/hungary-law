@@ -1,3 +1,3 @@
-2. § A 13/2001. (V. 9.) KöM rendelet 4/A. §-a a következő (13a) bekezdéssel egészül ki:
+2. §[^3]
 
-„(13a) A barna medve (Ursus arctos) más európai uniós tagállamban megszerzett húsának és húsából készült termékeinek az országba történő behozatala, országból történő kivitele, tartása, bemutatása, eladása, eladásra történő felkínálása természetvédelmi hatósági engedély nélkül végezhető, ha a tulajdonos a medvehús jogszerű megszerzését a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott EU-bizonylattal igazolni tudja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

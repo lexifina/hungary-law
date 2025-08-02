@@ -1,1 +1,3 @@
-3. § A 13/2001. (V. 9.) KöM rendelet 8. számú melléklete az 1. melléklet szerint módosul.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
