@@ -1,9 +1,3 @@
-5. § Hatályát veszti az R.
+5. §[^5]
 
-a) 3. § (3) bekezdése,
-
-b) 11. § 1. pontja,
-
-c) 12. § (8) bekezdése,
-
-d) 20/B. §-ában az „és az EDR-közreműködő” szövegrész.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

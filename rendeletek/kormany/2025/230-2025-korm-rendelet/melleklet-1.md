@@ -1,11 +1,3 @@
-1. melléklet a 230/2025. (VII. 31.) Korm. rendelethez
+1. melléklet a 230/2025. (VII. 31.) Korm. rendelethez[^11]
 
-Az R. 3. melléklet I. pontjában foglalt táblázat a következő 17. sorral egészül ki:
-
-| (VPN gazda szervezet | Általános VPN használati szabályzat készítésére kötelezett | Felhasználó | Különös VPN használati szabályzat készítésére kötelezett) |
-
-„
-
-| 17. Védelmi Igazgatási Hivatal /VIH VPN/ | X | 17.1. Védelmi Igazgatási Hivatal |  |
-
-”
+[^11]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
