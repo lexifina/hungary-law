@@ -1,5 +1,3 @@
-20. § Hatályát veszti az R.
+20. §[^20]
 
-a) 1. § (2) bekezdése,
-
-b) 8. § (1) bekezdése.
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

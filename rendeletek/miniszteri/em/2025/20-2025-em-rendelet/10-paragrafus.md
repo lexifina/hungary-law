@@ -1,9 +1,3 @@
-10. § Hatályát veszti az NFM rendelet
+10. §[^10]
 
-a) 4. § (1) bekezdés c) pontja,
-
-b) 4. § (2) bekezdés b) pontjában és (3) bekezdésében az „és „A3” ” szövegrész,
-
-c) 7. § (2) bekezdése,
-
-d) 10. § (1) és (2) bekezdése.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -20,6 +20,6 @@
 
 ## 1. A villamos energia egyetemes szolgáltatás árképzéséről szóló 4/2011. (I. 31.) NFM rendelet módosítása
 
-1. § A villamos energia egyetemes szolgáltatás árképzéséről szóló 4/2011. (I. 31.) NFM rendelet (a továbbiakban: NFM rendelet) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) E rendeletet kell alkalmazni az egyetemes szolgáltatáshoz kapcsolódó árszabásokra a kedvezményes lakossági sávhatárig és a kedvezményes mikrovállalkozói sávhatárig, az egyetemes szolgáltatás esetében alkalmazandó áralkalmazási feltételekre, valamint az árszabályozás kereteire.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

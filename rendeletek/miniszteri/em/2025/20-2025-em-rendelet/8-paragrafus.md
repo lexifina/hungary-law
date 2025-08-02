@@ -1,7 +1,3 @@
-8. § Az NFM rendelet
+8. §[^8]
 
-a) 2. melléklete helyébe az 1. melléklet lép,
-
-b) a 2. melléklet szerinti 3. melléklettel egészül ki,
-
-c) a 3. melléklet szerinti 4. melléklettel egészül ki.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
