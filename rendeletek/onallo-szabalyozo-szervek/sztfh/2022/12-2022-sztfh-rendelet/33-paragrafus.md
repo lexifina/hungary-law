@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdésben meghatározott építési tevékenység a bejelentés megtételétől számított egy évig folytatható.
 
-(3)[^30]
+(3)[^31]
 
-[^30]: A 33. § (3) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 28. § d) pontja hatályon kívül helyezte.
+[^31]: A 33. § (3) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 28. § d) pontja hatályon kívül helyezte.

@@ -24,6 +24,6 @@ c) a műszaki követelményeknek meg nem felelő építési termékek kicserél�
 
 (3) A bányafelügyelet elrendeli a sajátos építmény vagy sajátos építményrész azon hibájának és hiányosságának megszüntetését, amely a rendeltetésszerű és biztonságos használatot, más ingatlan állékonyságát, az életet és egészséget, vagy a köz- és vagyonbiztonságot veszélyezteti.
 
-(4)[^31] Ha a sajátos építmény az egészséget, az élet- vagy közbiztonságot, a természeti vagy épített környezetet vagy kulturális örökségi elemet közvetlenül veszélyezteti, és a veszélyhelyzet másként nem szüntethető meg, a bányafelügyelet elrendeli a sajátos építmény bontását.
+(4)[^32] Ha a sajátos építmény az egészséget, az élet- vagy közbiztonságot, a természeti vagy épített környezetet vagy kulturális örökségi elemet közvetlenül veszélyezteti, és a veszélyhelyzet másként nem szüntethető meg, a bányafelügyelet elrendeli a sajátos építmény bontását.
 
-[^31]: A 36. § (4) bekezdése a 17/2023. (VII. 31.) SZTFH rendelet 6. § f) pontja szerint módosított szöveg.
+[^32]: A 36. § (4) bekezdése a 17/2023. (VII. 31.) SZTFH rendelet 6. § f) pontja szerint módosított szöveg.

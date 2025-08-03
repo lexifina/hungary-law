@@ -18,8 +18,10 @@ e) a sajátos építménynek a közlekedési, az energia- és a közműhálózat
 
 f) az érintett területen lévő védett természeti és kulturális örökségi elemeket.
 
-(4) A kőolaj- és földgázbányászati sajátos építmény helyszínrajzát legfeljebb 1:1000 méretarányban, égtájjelöléssel kell elkészíteni. A kőolaj- és a földgázbányászati mezőbeli vezeték, továbbá a kőolaj- és a földgáz-, valamint azok termékei szállítóvezetékének helyszínrajzát a közigazgatási határokat és megnevezéseket is tartalmazó távvezetéki térképen kell megadni. A vezetékek esetében a helyszínrajz részét képezik a keresztező építményeket is ábrázoló 1:100 magassági méretarányú hossz-szelvények.
+(4)[^37] A kőolaj- és földgázbányászati sajátos építmény helyszínrajzát legfeljebb 1:1000 méretarányban, égtájjelöléssel kell elkészíteni. A kőolaj- és a földgázbányászati mezőbeni vezeték, továbbá a kőolaj- és a földgáz-, valamint azok termékei szállítóvezetékének helyszínrajzát a közigazgatási határokat és megnevezéseket is tartalmazó távvezetéki térképen kell megadni. A vezetékek esetében a helyszínrajz részét képezik a keresztező építményeket is ábrázoló 1:100 magassági méretarányú hossz-szelvények.
 
 (5) Az 1. melléklet 3. és 4. pontja szerinti sajátos építmények helyszínrajzát a (3) bekezdés előírása szerint kell elkészíteni legfeljebb 1:1000 méretarányban.
 
 (6) Külterületi gázelosztó vezeték helyszínrajza a célnak megfelelő legfeljebb 1:2000 méretarányban is elkészíthető. A külterületi gázelosztó vezeték hossz-szelvénye helyettesíthető a keresztező építményeket is ábrázoló keresztszelvénnyel.
+
+[^37]: A 41. § (4) bekezdése a 7/2025. (VII. 31.) SZTFH rendelet 3. § c) pontja szerint módosított szöveg.

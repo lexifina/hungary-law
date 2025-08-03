@@ -1,14 +1,14 @@
-3. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^39]
+3. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^44]
 
 A bányafelügyelet engedélye nélkül, bejelentés alapján végezhető építési tevékenységek
 
 1. A 33. § (1) bekezdése alapján bejelentéshez kötött építési tevékenységek
 
-1.1. A szénhidrogén termelésben, továbbfeldolgozásban vagy továbbfelhasználásban használt technológiai építményi csővezeték, a szénhidrogén szállító-, a földgáz elosztó- és célvezeték, valamint az egyéb gázok és gáztermékek szállítóvezetékeinek és ezek tartozékainak a meglévő biztonsági övezeten belüli, többlet szolgalmi jogot vagy vezetékjogot nem igénylő azonos vagy alacsonyabb nyomásfokozatúra történő kiváltása, ha az engedélyezettel azonos vagy korszerűbb műszaki jellemzőkkel és paraméterekkel bír.
+1.1.[^45] A szénhidrogén termelésben, továbbfeldolgozásban vagy továbbfelhasználásban használt technológiai építményi csővezeték, mezőbeni és mezők között csővezeték, a szénhidrogén szállító-, a földgáz elosztó- és célvezeték, valamint az egyéb gázok és gáztermékek szállítóvezetékeinek és ezek tartozékainak a meglévő biztonsági övezeten belüli, többlet szolgalmi jogot vagy vezetékjogot nem igénylő azonos vagy alacsonyabb nyomásfokozatúra történő kiváltása, ha az engedélyezettel azonos vagy korszerűbb műszaki jellemzőkkel és paraméterekkel bír.
 
 1.2. A 400 méter mélységet meg nem haladó mélyfúrás, a kutatóakna és a kutatóárok létesítése.
 
-1.3.[^40] A földtani és ásványi nyersanyagkutató mélyfúrások, valamint a geotermikus energia kutatását, kinyerését és hasznosítását szolgáló építmények bontása (felszámolása, tömedékelése), amennyiben azok nem harántoltak szénhidrogén tároló réteget, egyéb gáztároló réteget vagy radioaktív érctestet.
+1.3.[^46] A földtani és ásványi nyersanyagkutató mélyfúrások, valamint a geotermikus energia kutatását, kinyerését és hasznosítását szolgáló építmények bontása (felszámolása, tömedékelése), amennyiben azok nem harántoltak szénhidrogén tároló réteget, egyéb gáztároló réteget vagy radioaktív érctestet.
 
 1.4. A kitermelt ásványi nyersanyag helyben végzett feldolgozására szolgáló, helyhez kötött építmény.
 
@@ -26,20 +26,24 @@ A bányafelügyelet engedélye nélkül, bejelentés alapján végezhető épít
 
 1.8. A propán-bután elosztóvezeték, az elosztóhálózatba történő betáplálását biztosító tartálypark tartozékaival és alkotórészeivel.
 
-1.9.[^41] A geotermikus energia felszín alatti víz kitermelését nem igénylő, 150 métert meg nem haladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével.
+1.9.[^47] A geotermikus energia felszín alatti víz kitermelését nem igénylő, 150 métert meg nem haladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével.
 
-1.10.[^42] Az 1. melléklet 1. pont 1.1. alpont 1.1.1. pontjában, 1. pont 1.2. alpont 1.2.1. pontjában, 1. pont 1.3. alpont 1.3.2. pontjában, 2. pont 2.2–2.6. alpontjában, 3. pontjában, 4. pont 4.1. alpont 4.1.1. pontjában, 4. pont 4.3. és 4.5–4.8. alpontjában foglalt sajátos építmények bontása.
+1.10.[^48] Az 1. melléklet 1. pont 1.1. alpont 1.1.1. pontjában, 1. pont 1.2. alpont 1.2.1. pontjában, 1. pont 1.3. alpont 1.3.2. pontjában, 2. pont 2.2–2.6. alpontjában, 3. pontjában, 4. pont 4.1. alpont 4.1.1. pontjában, 4. pont 4.3. és 4.5–4.8. alpontjában foglalt sajátos építmények bontása.
+
+1.11.[^49] A kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerésére szolgáló 180 napos üzemeltetést meg nem haladó létesítmény.
 
 2. A 34. § alapján összevont bejelentéshez kötött építési tevékenység:
 
-2.1.[^43] Gázelosztó-vezeték belterületen, zárkerti ingatlanokon és 500 méteres hosszig külterületen történő építése.
+2.1.[^50] Gázelosztó-vezeték belterületen, zárkerti ingatlanokon és 500 méteres hosszig külterületen történő építése.
 
 2.2. Üzemelő gázelosztó vezetékhez kapcsolódó új, egy külterületi ingatlan gázellátását biztosító leágazás építése.
 
 2.3.
 
-[^39]: A 3. melléklet szövege a 40/2022. (XII. 19.) SZTFH rendelet 27. § b) és c) pontja, a 28. § f) pontja szerint módosított szöveg.
-[^40]: A 3. melléklet 1. pont 1.3. alpontja a 6/2023. (II. 28.) SZTFH rendelet 1. § c) pontja szerint módosított szöveg.
-[^41]: A 3. melléklet 1. pont 1.9. alpontja a 6/2023. (II. 28.) SZTFH rendelet 1. § d) pontja szerint módosított szöveg.
-[^42]: A 3. melléklet 1. pont 1.10. alpontját a 17/2023. (VII. 31.) SZTFH rendelet 5. §-a iktatta be.
-[^43]: A 3. melléklet 2. pont 2.1. alpontja a 17/2024. (X. 28.) SZTFH rendelet 3. §-a szerint módosított szöveg.
+[^44]: A 3. melléklet szövege a 40/2022. (XII. 19.) SZTFH rendelet 27. § b) és c) pontja, a 28. § f) pontja szerint módosított szöveg.
+[^45]: A 3. melléklet 1. pont 1.1. alpontja a 7/2025. (VII. 31.) SZTFH rendelet 3. § e) pontja szerint módosított szöveg.
+[^46]: A 3. melléklet 1. pont 1.3. alpontja a 6/2023. (II. 28.) SZTFH rendelet 1. § c) pontja szerint módosított szöveg.
+[^47]: A 3. melléklet 1. pont 1.9. alpontja a 6/2023. (II. 28.) SZTFH rendelet 1. § d) pontja szerint módosított szöveg.
+[^48]: A 3. melléklet 1. pont 1.10. alpontját a 17/2023. (VII. 31.) SZTFH rendelet 5. §-a iktatta be.
+[^49]: A 3. melléklet 1. pont 1.11. alpontját a 7/2025. (VII. 31.) SZTFH rendelet 2. §-a iktatta be.
+[^50]: A 3. melléklet 2. pont 2.1. alpontja a 17/2024. (X. 28.) SZTFH rendelet 3. §-a szerint módosított szöveg.
