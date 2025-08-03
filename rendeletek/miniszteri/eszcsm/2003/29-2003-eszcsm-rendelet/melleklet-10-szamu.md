@@ -42,8 +42,8 @@
 
 | ...................................................................... KOP-képzésért felelős szerv P. H. |
 
-10. számú melléklet a 29/2003. (V. 20.) ESzCsM rendelethez[^54]
+10. számú melléklet a 29/2003. (V. 20.) ESzCsM rendelethez[^55]
 
 A gyermekvédelmi gyámi Központi Oktatási Program (GyOP) alapján történő gyermekvédelmi gyámi képzés témakörei, óraszámai, valamint elméleti és gyakorlati óraszámainak aránya
 
-[^54]: A 10. számú. mellékletet a 80/2022. (XII. 30.) BM rendelet 24. § (1) bekezdése iktatta be.
+[^55]: A 10. számú. mellékletet a 80/2022. (XII. 30.) BM rendelet 24. § (1) bekezdése iktatta be.

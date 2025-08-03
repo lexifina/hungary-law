@@ -100,7 +100,7 @@ A nevelőszülői tanfolyam részletes tematikája
 
 2.6.4. Addiktológiai alapismeretek (a kábítószerekkel kapcsolatos alapismeretek, a szenvedélybetegek segítése, a család szerepe, a pszichoszociális fejlődés, az ellátórendszer).
 
-2.6.5. A tartósan beteg és fogyatékkal élő gyermekek gondozásának, nevelésének sajátosságai.
+2.6.5.[^48] A tartósan beteg és fogyatékossággal élő gyermekek gondozásának, nevelésének sajátosságai.
 
 2.6.6. Baleset-megelőzés, elsősegélynyújtás.
 
@@ -113,3 +113,4 @@ A nevelőszülői tanfolyam részletes tematikája
 2 óra
 
 [^47]: A 3. számú mellékletet a 83/2013. (XII. 29.) EMMI rendelet 33. § c) pontja hatályon kívül helyezte, újonnan a 6/2015. (I. 28.) EMMI rendelet 24. § (2) bekezdése iktatta be.
+[^48]: A 3. melléklet 2. pont 2.6. alpont 2.6.5. pontja a 31/2025. (VII. 31.) BM rendelet 1. §-a szerint módosított szöveg.

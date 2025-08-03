@@ -46,7 +46,7 @@
 
 | 23 | Összesen | 34 | 56 |  |
 
-11. számú melléklet a 29/2003. (V. 20.) ESzCsM rendelethez[^55]
+11. számú melléklet a 29/2003. (V. 20.) ESzCsM rendelethez[^56]
 
 A gyermekvédelmi gyámi Központi Oktatási Program (GyOP) keretében szervezett képzés tanúsítványának adattartalma
 
@@ -88,4 +88,4 @@ A gyermekvédelmi gyámi Központi Oktatási Program (GyOP) keretében szervezet
 
 7. A záróvizsga-bizottság elnökének, valamint a képző intézmény és a GyOP-képzésért felelős szerv képviselőjének aláírása
 
-[^55]: A 11. számú. mellékletet a 80/2022. (XII. 30.) BM rendelet 24. § (2) bekezdése iktatta be.
+[^56]: A 11. számú. mellékletet a 80/2022. (XII. 30.) BM rendelet 24. § (2) bekezdése iktatta be.
