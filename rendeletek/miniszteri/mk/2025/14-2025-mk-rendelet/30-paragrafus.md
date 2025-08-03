@@ -1,3 +1,0 @@
-30. § (1) A 20. § az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása érdekében történő felhasználásáról szóló, 2016. április 27-i (EU) 2016/681 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-(2) A 20. § a PNR-adatok utasadat-információs egység részére történő továbbítása során a légi fuvarozók által használandó közös protokollokról és adatformátumokról szóló, 2017. április 28-i (EU) 2017/759 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
