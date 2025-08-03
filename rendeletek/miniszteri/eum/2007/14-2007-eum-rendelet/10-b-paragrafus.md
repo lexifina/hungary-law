@@ -1,3 +1,3 @@
-10/B. §[^42]
+10/B. §[^43]
 
-[^42]: A 10/A–10/B. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § g) pontja.
+[^43]: A 10/A–10/B. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 43. § g) pontja.

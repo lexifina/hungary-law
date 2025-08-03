@@ -1,3 +1,3 @@
-8. §[^32]
+8. §[^33]
 
-[^32]: A 8. §-t a 8/2018. (II. 13.) EMMI rendelet 43. § d) pontja hatályon kívül helyezte.
+[^33]: A 8. §-t a 8/2018. (II. 13.) EMMI rendelet 43. § d) pontja hatályon kívül helyezte.

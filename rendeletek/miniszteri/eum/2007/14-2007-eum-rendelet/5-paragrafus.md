@@ -1,3 +1,3 @@
-5. §[^18]
+5. §[^19]
 
-[^18]: Az 5. §-t a 8/2018. (II. 13.) EMMI rendelet 43. § b) pontja hatályon kívül helyezte.
+[^19]: Az 5. §-t a 8/2018. (II. 13.) EMMI rendelet 43. § b) pontja hatályon kívül helyezte.
