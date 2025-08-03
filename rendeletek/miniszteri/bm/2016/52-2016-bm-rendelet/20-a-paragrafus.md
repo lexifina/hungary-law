@@ -1,6 +1,6 @@
 ## 20. § Ha az igazságügyi alkalmazott egyidejűleg készíttet látásjavító szemüveget és képernyős szemüveget is, és azt egy szemüveglencsébe csiszoltan készítteti el – feltéve, hogy az alapellátó orvos mind a kettő szemüveg viselésének indokoltságát igazolja –, az elkészíttetett szemüveg költségtérítésekor a képernyős szemüvegre vonatkozó rendelkezéseket kell alkalmazni.
 
-## 11. [^17] Cafetéria-juttatás
+## 11. [^19] Cafetéria-juttatás
 
 20/A. § (1) Az igazságügyi alkalmazott – a (3) bekezdésben meghatározott kivétellel – cafetéria-juttatásra jogosult, amelynek éves összege bruttó 200 000 Ft/fő. A cafetéria-juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
@@ -10,4 +10,4 @@
 
 (4) A részmunkaidőben foglalkoztatott igazságügyi alkalmazott a cafetéria-juttatásra időarányosan jogosult.
 
-[^17]: A 11. alcímet (20/A–20/C. §) a 29/2021. (VIII. 26.) BM rendelet 5. §-a iktatta be.
+[^19]: A 11. alcímet (20/A–20/C. §) a 29/2021. (VIII. 26.) BM rendelet 5. §-a iktatta be.

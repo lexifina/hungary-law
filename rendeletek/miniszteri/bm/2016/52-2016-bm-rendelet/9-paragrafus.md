@@ -8,8 +8,10 @@
 
 a) 3 vagy több gyermeket nevel,
 
-b) fogyatékkal élő gyermeket, továbbá tartósan beteg gyermeket nevel,
+b)[^9] fogyatékossággal élő gyermeket, továbbá tartósan beteg gyermeket nevel,
 
 c) emelt összegű családi pótlékra jogosult, vagy
 
 d) gyermekét egyedül neveli.
+
+[^9]: A 9. § (3) bekezdés b) pontja a 31/2025. (VII. 31.) BM rendelet 10. §-a szerint módosított szöveg.

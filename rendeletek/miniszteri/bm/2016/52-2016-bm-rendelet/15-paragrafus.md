@@ -10,6 +10,6 @@ b) a képernyő előtti munkavégzés minimális egészségügyi és biztonsági
 
 c) a képernyős szemüveggel történő ellátásba nem tartozó látásjavító szemüveg, kontaktlencse (a továbbiakban: látásjavító szemüveg vagy kontaktlencse) készítésével
 
-## kapcsolatos költségtérítésre jogosult.
+kapcsolatos költségtérítésre jogosult.
 
 (2) Az igazságügyi alkalmazott a próbaidő tartama alatt nem jogosult az (1) bekezdésben meghatározott költségtérítésre.
