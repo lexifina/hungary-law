@@ -2,7 +2,7 @@
 
 29. § (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
 
-(2)[^110] A bányaüzemi kutatásra, feltárásra, kitermelésre, és meddőhányó hasznosítására vonatkozó műszaki üzemi terv szöveges része tartalmazza
+(2)[^112] A bányaüzemi kutatásra, feltárásra, kitermelésre, és meddőhányó hasznosítására vonatkozó műszaki üzemi terv szöveges része tartalmazza
 
 a) a tervidőszakra előirányzott bányászati tevékenységeket, a technológiai és biztonsági feltételeket, továbbá a tervtérképen lehatárolt bányaüzem meghatározását,
 
@@ -42,15 +42,15 @@ ja) a telepenként kitermelni tervezett olaj, gáz, kondenzátum és víz, valam
 
 jb) a művelés tervezett módjának, ütemezésének, technológiáinak ismertetését, a művelési tervekre való utalást,
 
-jc)[^111] a kitermelés fenntartásához és az új területek (telepek) bekapcsolásához szükséges lemélyítendő kutak számát és tervezett helyét, a mező gyűjtési rendszerét, valamint az új külszíni létesítmények felsorolását és azok fontosabb műszaki jellemzőit, valamint
+jc)[^113] a kitermelés fenntartásához és az új területek (telepek) bekapcsolásához szükséges lemélyítendő kutak számát és tervezett helyét, a mező gyűjtési rendszerét, valamint az új külszíni létesítmények felsorolását és azok fontosabb műszaki jellemzőit, valamint
 
-jd)[^112]
+jd)[^114]
 
-je)[^113] a szénhidrogének feltárására és kitermelésére kijelölt bányatelekkel lehatárolt földtani közegben tervezett rétegrepesztések és egyéb kitermelést serkentő besajtolások tervét, az alkalmazni tervezett folyadék összetételét, mennyiségét és a 30. § (4) bekezdésében foglaltak teljesülésének igazolását,
+je)[^115] a szénhidrogének feltárására és kitermelésére kijelölt bányatelekkel lehatárolt földtani közegben tervezett rétegrepesztések és egyéb kitermelést serkentő besajtolások tervét, az alkalmazni tervezett folyadék összetételét, mennyiségét és a 30. § (4) bekezdésében foglaltak teljesülésének igazolását,
 
 k) az esetleges régészeti feltárás ütemezését, módszerét, és a feltárást követően bolygatatlanul maradó régészeti lelőhelyrészlet megőrzésére tett intézkedéseket,
 
-l)[^114] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
+l)[^116] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
 
 m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságot igazoló okiratot.
 
@@ -58,7 +58,7 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 
 (4) Ha az utolsó hatályos kitermelési műszaki üzemi terv alapján engedélyezett legnagyobb kitermelési mennyiség 20%-a, vagy több haszonanyag esetén a kitermelési mennyiségek 20%-a meghaladja a kérelem szerinti minimális mennyiséget, akkor ezt a mennyiséget, vagy mennyiségeket kell figyelembe venni minimális mennyiségként.
 
-(4a)[^115] Ha a bányavállalkozó több haszonanyag kitermelésére is jogosult, a minimális kitermelési mennyiség bármelyik haszonanyag kitermelésével teljesíthető.
+(4a)[^117] Ha a bányavállalkozó több haszonanyag kitermelésére is jogosult, a minimális kitermelési mennyiség bármelyik haszonanyag kitermelésével teljesíthető.
 
 (5) A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelem benyújtása során megfelelően alkalmazni kell a 25. § (1) bekezdés a) pontjában, valamint (2) bekezdésében foglaltakat.
 
@@ -68,7 +68,7 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 
 (8) Ha a bánya bezárását (megszüntetését), a szénhidrogénmező felhagyását a 30. § (5) bekezdése szerinti időszakra tervezik, a műszaki üzemi tervnek tartalmaznia kell a 42. § szerinti tervrészletet is.
 
-(9)[^116] Ha a bányavállalkozó a bányászati tevékenysége során járulékosan felszín alatti víz kitermelését végzi, és a kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerését tervezi, az e § szerinti műszaki üzemi terv jóváhagyása iránti kérelemben megadja
+(9)[^118] Ha a bányavállalkozó a bányászati tevékenysége során járulékosan felszín alatti víz kitermelését végzi, és a kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerését tervezi, az e § szerinti műszaki üzemi terv jóváhagyása iránti kérelemben megadja
 
 a) a kinyerni tervezett ásványi nyersanyagnak az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendelet szerinti alcsoport, annak hiányában csoport szintű besorolását, ércek esetében a kinyerni kívánt fém vagy fémek (kémiai elemek) megnevezésével,
 
@@ -80,10 +80,10 @@ d) az oldott ásványi nyersanyag kinyeréséhez szükséges technológia leír�
 
 e) a kinyerés során keletkező hulladékok fajtáját és mennyiségét, az elhelyezésükre, ártalmatlanításukra tervezett intézkedéseket.
 
-[^110]: A 29. § (2) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 43. § b) pontja szerint módosított szöveg.
-[^111]: A 29. § (2) bekezdés j) pont jc) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § g) pontja szerint módosított szöveg.
-[^112]: A 29. § (2) bekezdés j) pont jd) alpontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § m) pontja hatályon kívül helyezte.
-[^113]: A 29. § (2) bekezdés j) pont je) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § h) pontja szerint módosított szöveg.
-[^114]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
-[^115]: A 29. § (4a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 38. §-a iktatta be.
-[^116]: A 29. § (9) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 7. §-a iktatta be.
+[^112]: A 29. § (2) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 43. § b) pontja szerint módosított szöveg.
+[^113]: A 29. § (2) bekezdés j) pont jc) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § g) pontja szerint módosított szöveg.
+[^114]: A 29. § (2) bekezdés j) pont jd) alpontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § m) pontja hatályon kívül helyezte.
+[^115]: A 29. § (2) bekezdés j) pont je) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § h) pontja szerint módosított szöveg.
+[^116]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^117]: A 29. § (4a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 38. §-a iktatta be.
+[^118]: A 29. § (9) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 7. §-a iktatta be.

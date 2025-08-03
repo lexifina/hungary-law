@@ -1,4 +1,4 @@
-15/E. §[^78] (1) A geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza különösen
+15/E. §[^79] (1) A geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza különösen
 
 1. a geotermikus energia kinyerésének célját, a geotermikus energiát felhasználó adatait,
 
@@ -60,4 +60,4 @@ d) a geotermikus védőidomot megállapító határozat mellékletében szerepl�
 
 (6) A bányavállalkozó a szerződés időtartama alatt az 5. melléklet II. pont 3–5. alpontja szerinti adatokról naponta biztonsági mentést végez, és a biztonsági mentéssel érintett adatokat a szerződés időtartama alatt megőrzi az üzembiztonság és ellenőrizhetőség céljából.
 
-[^78]: A 15/E. § a 4/2025. (IV. 17.) SZTFH rendelet 19. §-ával megállapított szöveg.
+[^79]: A 15/E. § a 4/2025. (IV. 17.) SZTFH rendelet 19. §-ával megállapított szöveg.
