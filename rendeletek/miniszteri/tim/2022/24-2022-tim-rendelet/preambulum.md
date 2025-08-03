@@ -1,1 +1,0 @@
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 13. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
