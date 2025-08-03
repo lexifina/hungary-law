@@ -154,6 +154,6 @@
 
 ## Elszámolható: műtétenként.
 
-2. melléklet a 71/2011. (XII. 23.) NEFMI rendelethez[^9]
+2. melléklet a 71/2011. (XII. 23.) NEFMI rendelethez[^10]
 
-[^9]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

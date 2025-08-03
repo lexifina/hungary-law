@@ -2,7 +2,7 @@
 
 A fogászati beavatkozások kódlistája
 
-I. Vizsgálatok, dokumentációk
+I.[^5] Vizsgálatok, dokumentációk
 
 ## FA 002 Fogorvosi vizsgálat, kontroll
 
@@ -54,7 +54,7 @@ I. Vizsgálatok, dokumentációk
 
 ## Elszámolható: a teljes vizsgálati protokoll elvégzése után egy alkalommal.
 
-## TB 125** Különleges gondozásra szoruló, fogyatékkal élő személyek fogászati szakellátása
+## TB 125** Különleges gondozásra szoruló, fogyatékossággal élő személyek fogászati szakellátása
 
 ## Különleges gondozásra szoruló, (testi, érzékszervi, értelmi) fogyatékkal élő személyek fogászati szakellátása.
 
@@ -154,7 +154,7 @@ IV. Érzéstelenítés, gyógyszerrendelés
 
 ## Elszámolható: a terminális vagy felületi érzéstelenítés foganként, a fog jelölésével, a vezetéses érzéstelenítés kvadránsonként, a kvadráns jelölésével.
 
-V.[^5] Megtartó fogászat
+V.[^6] Megtartó fogászat
 
 ## (konzerváló és endodoncia)
 
@@ -342,7 +342,7 @@ VI. Szájbetegségek és parodontológia
 
 ## Elszámolható: foganként, a fog jelölésével.
 
-VII.[^6] Dentoalveoláris sebészet
+VII.[^7] Dentoalveoláris sebészet
 
 ## TB 127 Műtéti utókezelés (kontroll, sebkezelés, csíkcsere, varratszedés, átöblítés)
 
@@ -542,7 +542,7 @@ VII.[^6] Dentoalveoláris sebészet
 
 ## Elszámolható: a szájsebészeti fekvőbeteg ellátásra kijelölt ellátóhelyen.
 
-VIII.[^7] Fogpótlás
+VIII.[^8] Fogpótlás
 
 ## TA 223 Teljes lemezes fogpótlás készítéséhez anatómiai lenyomatvétel
 
@@ -718,7 +718,7 @@ VIII.[^7] Fogpótlás
 
 ## Elszámolható: állcsontonként, az állcsont jelölésével, a kötelező egészségbiztosítás keretében ellátásra jogosult biztosítottaknál.
 
-IX.[^8] Gyermek-, iskolai és ifjúsági fogászat
+IX.[^9] Gyermek-, iskolai és ifjúsági fogászat
 
 ## TA 187 Helyi fluoridálás, segédeszköz nélkül
 
@@ -794,7 +794,8 @@ IX.[^8] Gyermek-, iskolai és ifjúsági fogászat
 
 X. Fogszabályozási szolgáltatások
 
-[^5]: Az 1. melléklet V. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
-[^6]: Az 1. melléklet VII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
-[^7]: Az 1. melléklet VIII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
-[^8]: [Nem vezethető át a 16/2023. (VI. 14.) BM rendelet 8. §-ában foglalt azon módosítás, amely szerint az 1. melléklet IX. pont „TA 197 Tejfogtömés – egy felszínen” megjelölésű részében az „Elszámolható: foganként” szövegrész helyébe az „Elszámolható: tejfoganként” szöveg lép.]
+[^5]: Az 1. melléklet I. alcíme a 31/2025. (VII. 31.) BM rendelet 5. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet V. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet VII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet VIII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^9]: [Nem vezethető át a 16/2023. (VI. 14.) BM rendelet 8. §-ában foglalt azon módosítás, amely szerint az 1. melléklet IX. pont „TA 197 Tejfogtömés – egy felszínen” megjelölésű részében az „Elszámolható: foganként” szövegrész helyébe az „Elszámolható: tejfoganként” szöveg lép.]
