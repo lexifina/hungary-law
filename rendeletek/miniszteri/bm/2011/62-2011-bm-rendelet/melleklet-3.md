@@ -1,4 +1,4 @@
-3. melléklet a 62/2011. (XII. 29.) BM rendelethez[^61]
+3. melléklet a 62/2011. (XII. 29.) BM rendelethez[^62]
 
 A közbiztonsági referensi tanfolyam elvégzéséről kiállított tanúsítvány kötelező tartalmi elemei
 
@@ -16,4 +16,4 @@ A közbiztonsági referensi tanfolyam elvégzéséről kiállított tanúsítvá
 
 7. A vizsgabizottság elnökének, valamint a tanúsítványt kiállító katasztrófavédelmi szerv vezetőjének aláírása.
 
-[^61]: A 3. mellékletet a 41/2022. (XII. 9.) BM rendelet 9. §-a iktatta be.
+[^62]: A 3. mellékletet a 41/2022. (XII. 9.) BM rendelet 9. §-a iktatta be.
