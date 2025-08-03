@@ -1,5 +1,5 @@
 ## 2. A távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet módosítása
 
-12. § A távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet 1. § 7. pontja helyébe a következő rendelkezés lép:
+12. §[^15]
 
-(E rendelet alkalmazásában)
+[^15]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

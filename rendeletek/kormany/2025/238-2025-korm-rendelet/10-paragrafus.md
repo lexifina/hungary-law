@@ -1,9 +1,14 @@
 10. § (1)
 
-(2) A Tszt. Vhr. a 2. melléklet szerinti 9. melléklettel egészül ki.
+(2)[^10]
 
-(3) A Tszt. Vhr. a 3. melléklet szerinti 10. melléklettel egészül ki.
+(3)[^11]
 
-(4) A Tszt. Vhr. a 4. melléklet szerinti 11. melléklettel egészül ki.
+(4)[^12]
 
-(5) A Tszt. Vhr. az 5. melléklet szerinti 12. melléklettel egészül ki.
+(5)[^13]
+
+[^10]: A 10. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
