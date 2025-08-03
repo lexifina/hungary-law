@@ -130,11 +130,11 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 60. | b) egyéb engedélyes esetében | 1 000 |
 
-| 61. | Korlátozási besorolás |  |
+| 61. |  |  |
 
-| 62. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 62. |  |  |
 
-| 63. | b) besorolások módosítása iránti kérelem elbírálása | 100 |
+| 63. |  |  |
 
 | 64. | A kapacitás-felülvizsgálat eredményének és az infrastruktúra-fejlesztési javaslat (10 éves fejlesztési terv) jóváhagyása iránti kérelem elbírálása | 10 000 |
 
@@ -188,7 +188,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 89. | b) korlátozott földgáz-kereskedelmi engedély esetén | 50 |
 
-| 90. | Rendszeres adatszolgáltatási kötelezettség alóli mentesség iránti kérelem benyújtása | 50 |
+| 90. |  |  |
 
 | 91. | Adatcsere Szabályzat |  |
 
@@ -197,6 +197,24 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 | 93. | b) módosítása iránti kérelem elbírálása | 200 |
 
 | 94. | Üzletszabályzat-készítési kötelezettség alól történő mentesítési kérelem elbírálása | 200 |
+
+| 95. | Megújuló gázt termelő, tároló vagy átalakító üzem |  |
+
+| 96. | a) minősítése és számlarendszerben történő regisztrációja iránti kérelem elbírálása, illetve újbóli minősítése iránti kérelem elbírálása | 550 |
+
+| 97. | b) minősítésének visszavonása iránti kérelem elbírálása | 100 |
+
+| 98. | c) számlarendszerben történő regisztrációjának megszüntetése iránti kérelem elbírálása | 70 |
+
+| 99. | d) számlarendszerben történő újbóli regisztrációja iránti kérelem elbírálása | 100 |
+
+| 100. | e) másik forgalmi számlához rendelése iránti kérelem elbírálása | 70 |
+
+| 101. | Hazai származási garancia nem automatikus kapcsolaton keresztül történő exportja vagy külföldi felhasználásra való elismerése iránti kérelem elbírálása | 150 |
+
+| 102. | Származási garancia más bizonyítvány rendszerben (nem származási garancia rendszer) történő bizonyítvány kiállítása céljából történő felhasználása iránti kérelem elbírálása | 150 |
+
+| 103. | Külföldi származási garancia nem automatikus kapcsolaton keresztül történő importja vagy hazai felhasználásra való elismerése iránti kérelem elbírálása | 150 |
 
 B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -468,43 +486,43 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 126 | Nagy hatásfokú kapcsolt energiatermelő erőműegység minősítése iránti kérelem elbírálása |  |
 
-| 127 | a) 0,5 MW és annál kisebb erőművi névleges teljesítőképesség esetében | 10 |
+| 127 | a) 0,5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében (kivéve háztartási méretű kiserőmű) | 100 |
 
-| 128 | b) 0,5 MW-nál nagyobb, de 1 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 50 |
+| 128 | b) 0,5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 150 |
 
-| 129 | c) 1 MW-nál nagyobb, de 5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 100 |
+| 129 |  |  |
 
-| 130 | d) 5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 250 |
+| 130 |  |  |
 
-| 131 | e) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 500 |
+| 131 | e) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 800 |
 
-| 132 | f) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
+| 132 | f) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 200 |
 
 | 133 | Megújuló energiaforrás felhasználásával termelő erőműegység minősítése iránti kérelem elbírálása |  |
 
-| 134 | a) 50 kW és annál kisebb erőművi névleges teljesítőképesség esetében | 5 |
+| 134 | a) 0,5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében, valamint a közcélú hálózatba be nem tápláló erőmű esetében | 70 |
 
-| 135 | b) 50 kW-nál nagyobb, de 0,5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 10 |
+| 135 |  |  |
 
-| 136 | c) 0,5 MW-nál nagyobb, de 1 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 50 |
+| 136 |  |  |
 
-| 137 | d) 1 MW-nál nagyobb, de 5 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 100 |
+| 137 |  |  |
 
-| 138 | e) 5 MW-nál nagyobb, de 20 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 250 |
+| 138 |  |  |
 
-| 139 | f) 20 MW-nál nagyobb, de 50 MW-ot meg nem haladó erőművi névleges teljesítőképesség esetében | 500 |
+| 139 |  |  |
 
-| 140 | g) 50 MW-nál nagyobb erőművi névleges teljesítőképesség esetében | 1 000 |
+| 140 |  |  |
 
-| 141 | Származási garancia bejegyzésére vonatkozó kérelem elbírálása | 5 forint/MWh |
+| 141 |  |  |
 
-| 142 | Külföldi származási garancia elismerésére irányuló kérelem elbírálása | 25 forint/MWh |
+| 142 | Külföldi származási garancia elismerésére irányuló kérelem elbírálása | 100 |
 
 | 143 |  |  |
 
 | 144 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
-| 145 | Rendszeres adatszolgáltatási kötelezettség alóli mentesség kérelem elbírálása | 50 |
+| 145 |  |  |
 
 | 146 | A VET. 145. § (4) bekezdése szerinti egyetemes szolgáltatási árszabások árának és áralkalmazási feltételeinek módosítására és visszavonására vonatkozó kérelem elbírálása | 100 |
 
@@ -684,7 +702,7 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 39 |  |  |
 
-| 40 | Rendszeres adatszolgáltatási kötelezettség alóli mentesség | 50 |
+| 40 |  |  |
 
 D) Megfelelőségértékelő szervezetek kijelölésével kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -730,19 +748,19 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 3 | Pályázati kiírás Hivatal általi jóváhagyása | 150 |
 
-| 4 | Víziközmű-szolgáltatói engedély iránti kérelem elbírálása | 1200 |
+| 4 |  |  |
 
-| 5 | Víziközmű-szolgáltatói engedély módosítása iránti kérelem elbírálása | 150 |
+| 5 |  |  |
 
-| 6 | Víziközmű-szolgáltatói engedély visszavonása iránti kérelem elbírálása | 50 |
+| 6 |  |  |
 
-| 7 | Működési engedély iránti kérelem elbírálása | 150 |
+| 7 |  |  |
 
-| 8 | Működési engedély módosítása iránti kérelem elbírálása | 120 |
+| 8 |  |  |
 
-| 9 | Működési engedély visszavonása iránti kérelem elbírálása | 25 |
+| 9 |  |  |
 
-| 10 | Egyes cégjogi eseményekre vonatkozó hozzájárulás (egyesülés, szétválás, alaptőke/törzstőke legalább egynegyed résszel történő leszállítása, szavazatok huszonöt vagy ötven százalékát meghaladó, illetve hetvenöt százalékát elérő befolyás szerzése) | 75 |
+| 10 | Egyes cégjogi eseményekre vonatkozó hozzájárulás (egyesülés, szétválás, átalakulás, alaptőke/törzstőke legalább egynegyed résszel történő leszállítása, szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, illetve 100 százalékát elérő befolyás szerzése) | 75 |
 
 | 11 | A víziközmű-üzemeltetés meghatározott részeinek kiszervezésére irányuló kérelem elbírálása (tevékenységenként) | 200 |
 
@@ -758,15 +776,9 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 17 | A Vksztv. 31/A. § (4) bekezdés szerinti átmeneti díj megállapítása | 150 |
 
-| 18 | Víziközműrendszer gördülő fejlesztési tervének jóváhagyása |  |
+| 18 |  |  |
 
-|  | a) felújítási és pótlási tervrész jóváhagyása | a tárgyév június 1-jén hatályos működési engedélyben az adott víziközmű- rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 15 |
-
-|  | b) beruházási tervrész jóváhagyása | a tárgyév június 1-jén, hatályos működési engedélyben az adott víziközmű- rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 15 |
-
-|  | c) a teljes időtáv vonatkozásában tényleges feladatot nem tartalmazó beruházási tervrész | a b) pont alapján meghatározott díj 50%-a |
-
-| 19 | Víziközműrendszer gördülő fejlesztési tervének módosítása | a 18. pont alapján meghatározott díj 50%-a, de legalább 7,5 |
+| 19 |  |  |
 
 | 20 | Víziközművé minősítés iránti kérelem | 200 |
 
@@ -812,4 +824,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^31]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a, a 12/2022. (XI. 15.) MEKH rendelet 1. §-a, a 9/2023. (VI. 23.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^31]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a, a 12/2022. (XI. 15.) MEKH rendelet 1. §-a, a 9/2023. (VI. 23.) MEKH rendelet 1. §-a, a 10/2025. (VII. 3.) MEKH rendelet 1. §-a, 2. § c) pontja, 3. § a)–d) pontja szerint módosított szöveg.
