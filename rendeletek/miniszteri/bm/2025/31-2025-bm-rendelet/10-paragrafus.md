@@ -1,0 +1,3 @@
+## 10. Az igazságügyi szakértői intézménynél foglalkoztatott igazságügyi alkalmazottak részére adható juttatásokról, támogatásokról és a kegyeleti gondoskodással kapcsolatos egyes feladatokról szóló 52/2016. (XII. 16.) BM rendelet módosítása
+
+10. § Az igazságügyi szakértői intézménynél foglalkoztatott igazságügyi alkalmazottak részére adható juttatásokról, támogatásokról és a kegyeleti gondoskodással kapcsolatos egyes feladatokról szóló 52/2016. (XII. 16.) BM rendelet 9. § (3) bekezdés b) pontjában, 11. § (2) bekezdés b) pontjában a „fogyatékkal” szövegrész helyébe a „fogyatékossággal” szöveg lép.
