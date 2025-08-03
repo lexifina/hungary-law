@@ -2116,7 +2116,7 @@
 
 ## 5.7.6. Gyermekfogászati képi diagnosztika.
 
-## 5.7.7. Idősek és fogyatékkal élők leképezése.
+## 5.7.7.[^60] Idősek és fogyatékossággal élők leképezése.
 
 ## 5.8. Képelemzés:
 
@@ -2664,7 +2664,7 @@
 
 ## b) pajzsmirigy vékonytű biopszia kivitelezésének feltételei.
 
-2a. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^60]
+2a. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^61]
 
 A szakpszichológusok által megszerezhető licencek képzési követelményei
 
@@ -2748,4 +2748,5 @@ A szakpszichológusok által megszerezhető licencek képzési követelményei
 
 A terepgyakorlati képzőhely tárgyi feltételei: beteggel és szakemberrel való konzultációra alkalmas helyszín.
 
-[^60]: A 2a. mellékletet a 45/2024. (IX. 26.) BM rendelet 4. § (4) bekezdése iktatta be.
+[^60]: A 2. melléklet 22. alcím 5. pont 5.7.7. alpontja a 31/2025. (VII. 31.) BM rendelet 8. §-a szerint módosított szöveg.
+[^61]: A 2a. mellékletet a 45/2024. (IX. 26.) BM rendelet 4. § (4) bekezdése iktatta be.
