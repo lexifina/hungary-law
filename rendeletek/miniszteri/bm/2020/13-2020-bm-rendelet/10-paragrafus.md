@@ -4,7 +4,7 @@ a) a kulturális intézmény vagy örökségi helyszín állandó vagy időszako
 
 b) a kulturális és művészeti oktatási tevékenység költsége, és a kulturális kifejezésmódok sokfélesége védelmének és előmozdításának fontosságát tudatosító oktatási és társadalmi célú figyelemfelhívó programok népszerűsítésének költsége – ideértve az új technológiák ezen célokra történő alkalmazásának költségét is –,
 
-c) a közönség kulturális intézményhez vagy örökségi helyszínhez és tevékenységhez való hozzáférésének javítását szolgáló költség – ideértve a digitalizálással, egyéb új technológiákkal és a fogyatékkal élő személyek hozzáférési lehetőségeinek javításával kapcsolatos költséget is –,
+c)[^43] a közönség kulturális intézményhez vagy örökségi helyszínhez és tevékenységhez való hozzáférésének javítását szolgáló költség – ideértve a digitalizálással, egyéb új technológiákkal és a fogyatékossággal élő személyek hozzáférési lehetőségeinek javításával kapcsolatos költséget is –,
 
 d) közvetlenül a kulturális projekthez vagy tevékenységhez kapcsolódó működési költség, különösen
 
@@ -39,3 +39,4 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 kell meghatározni.
 
 [^42]: A 10. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
+[^43]: A 10. § (1) bekezdés c) pontja a 31/2025. (VII. 31.) BM rendelet 11. §-a szerint módosított szöveg.
