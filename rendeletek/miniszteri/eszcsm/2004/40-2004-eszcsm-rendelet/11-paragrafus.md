@@ -32,7 +32,7 @@ A beteg közvetlen vizsgálatával, illetve gyógykezelésével kapcsolatos tev�
 
 a) az egészségügyi dolgozó kommunikációs képessége hiányzik, illetve erősen korlátozott;
 
-b) az egészségügyi dolgozó olyan testi fogyatékkal rendelkezik, amely akadályozza az adott szakterületen a beteg személyes vizsgálatát, illetve gyógykezelésének lehetőségét.
+b)[^4] az egészségügyi dolgozó olyan testi fogyatékossággal rendelkezik, amely akadályozza az adott szakterületen a beteg személyes vizsgálatát, illetve gyógykezelésének lehetőségét.
 
 2. Sürgősségi feladatok, a beteg otthonában történő ellátásával kapcsolatos tevékenységének tilalma
 
@@ -40,3 +40,4 @@ Sürgősségi feladatok, továbbá a beteg otthonában történő ellátásával
 
 [^2]: A 11. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 36. pontja hatályon kívül helyezte.
 [^3]: A Melléklet I. 5. pontjának első francia bekezdése a 65/2004. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A Melléklet II. alcím 1. pont b) alpontja a 31/2025. (VII. 31.) BM rendelet 3. §-a szerint módosított szöveg.

@@ -10,7 +10,7 @@ ab) amennyiben az egészségügyi szolgáltató maga is jogosult foglalkozás-eg
 
 b) az Ettv. 7. § (2) bekezdésének b) és c) pontjában foglalt esetben az egyéni egészségügyi vállalkozó telephelye, illetve a társas vállalkozás telephelye szerint illetékes foglalkozás-egészségügyi szakellátó helyen
 
-## történik.
+történik.
 
 (2) Az (1) bekezdés ab) pontja szerinti esetben – az Ettv. 20. § (4) bekezdése alapján – az egészségügyi dolgozó kezdeményezésére és költségére az alkalmassági vizsgálatot az egészségügyi dolgozót foglalkoztatni kívánó, illetve foglalkoztató egészségügyi szolgáltató telephelye szerint illetékes foglalkozás-egészségügyi szakellátó hely orvosa is elvégezheti.
 

@@ -10,7 +10,7 @@ c) az egészségügyi tevékenység végzésében tanulói vagy hallgatói jogvi
 
 d) egészségügyi szolgáltatást nyújtó, valamint az egészségügyi tevékenység végzésére való alkalmasság elbírálásában részt vevő természetes és jogi személyekre, illetve jogi személyiség nélküli szervezetekre
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet alkalmazása során
 
