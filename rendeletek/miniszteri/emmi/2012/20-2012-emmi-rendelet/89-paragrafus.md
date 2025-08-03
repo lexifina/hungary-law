@@ -1,12 +1,12 @@
 89. § (1) Az óvodai felvételi előjegyzési napló az óvodába jelentkezett gyermekek nyilvántartására szolgál.
 
-(2)[^297] A felvételi előjegyzési naplóban fel kell tüntetni az óvoda nevét, OM azonosítóját, címét, a nevelési évet, a napló megnyitásának és lezárásának időpontját, az óvodaigazgató aláírását, papíralapú nyomtatvány esetén az óvoda körbélyegzőjének lenyomatát is. A napló nevelési év végén történő lezárásakor fel kell tüntetni a felvételre jelentkező, a felvett és a fellebbezés eredményeként felvett gyermekek számát.
+(2)[^298] A felvételi előjegyzési naplóban fel kell tüntetni az óvoda nevét, OM azonosítóját, címét, a nevelési évet, a napló megnyitásának és lezárásának időpontját, az óvodaigazgató aláírását, papíralapú nyomtatvány esetén az óvoda körbélyegzőjének lenyomatát is. A napló nevelési év végén történő lezárásakor fel kell tüntetni a felvételre jelentkező, a felvett és a fellebbezés eredményeként felvett gyermekek számát.
 
 (3) A felvételi előjegyzési napló gyermekenként tartalmazza
 
 a) a jelentkezés sorszámát, időpontját,
 
-b)[^298] a gyermek nevét, születési helyét és idejét, állampolgárságát, lakóhelyének, tartózkodási helyének címét, anyja születéskori nevét, apja nevét, nem magyar állampolgárság esetén a tartózkodás jogcímét,
+b)[^299] a gyermek nevét, születési helyét és idejét, állampolgárságát, lakóhelyének, tartózkodási helyének címét, anyja születéskori nevét, apja nevét, nem magyar állampolgárság esetén a tartózkodás jogcímét,
 
 c) a kijelölt óvoda megnevezését,
 
@@ -18,7 +18,7 @@ f) a szülő felvétellel, ellátással kapcsolatos igényeit,
 
 g) a felvételi elbírálásánál figyelembe vehető egyéb szempontokat,
 
-h)[^299] az óvodaigazgató javaslatát,
+h)[^300] az óvodaigazgató javaslatát,
 
 i) a felvétellel kapcsolatos döntést, annak időpontját,
 
@@ -26,6 +26,6 @@ j) a felvétellel kapcsolatos fellebbezés időpontját és iktatószámát,
 
 k) a felvétel időpontját.
 
-[^297]: A 89. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.
-[^298]: A 89. § (3) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 13. § 10. pontja szerint módosított szöveg.
-[^299]: A 89. § (3) bekezdés h) pontja a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.
+[^298]: A 89. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.
+[^299]: A 89. § (3) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 13. § 10. pontja szerint módosított szöveg.
+[^300]: A 89. § (3) bekezdés h) pontja a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.

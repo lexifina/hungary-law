@@ -6,9 +6,9 @@
 
 82. § (1) Az óvoda, az iskola és a kollégium a pedagógiai programjának legalább egy példányát oly módon köteles elhelyezni, hogy azt a szülők és a tanulók szabadon megtekinthessék.
 
-(2)[^287] Az óvoda, iskola, kollégium igazgatója vagy az általa kijelölt pedagógus köteles a szülők, tanulók részére tájékoztatást adni a pedagógiai programról.
+(2)[^288] Az óvoda, iskola, kollégium igazgatója vagy az általa kijelölt pedagógus köteles a szülők, tanulók részére tájékoztatást adni a pedagógiai programról.
 
-(3)[^288] Az SZMSZ-t, a házirendet, a pedagógiai programot és magán fenntartású nevelési-oktatási intézmény esetén a fenntartó szervezet hatályos alapító vagy létesítő okiratát a nevelési-oktatási intézmény honlapján nyilvánosságra kell hozni.
+(3)[^289] Az SZMSZ-t, a házirendet, a pedagógiai programot és magán fenntartású nevelési-oktatási intézmény esetén a fenntartó szervezet hatályos alapító vagy létesítő okiratát a nevelési-oktatási intézmény honlapján nyilvánosságra kell hozni.
 
 (4) A házirend egy példányát az óvodába, iskolába, kollégiumba történő beiratkozáskor a szülőnek, a tanulónak át kell adni, továbbá annak érdemi változása esetén arról a szülőt, a tanulót tájékoztatni kell.
 
@@ -16,5 +16,5 @@
 
 (6) Az (1)–(5) bekezdésben meghatározott kérdések SZMSZ-ben történő szabályozásánál az iskolaszéket, óvodaszéket, kollégiumi széket, vagy ha az nem működik, az iskolai, óvodai, kollégiumi szülői szervezetet, közösséget és az iskolai kollégiumi diákönkormányzatot véleményezési jog illeti meg.
 
-[^287]: A 82. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
-[^288]: A 82. § (3) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^288]: A 82. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
+[^289]: A 82. § (3) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 8. §-ával megállapított szöveg.

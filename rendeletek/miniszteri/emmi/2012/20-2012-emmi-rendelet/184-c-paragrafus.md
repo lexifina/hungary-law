@@ -1,3 +1,3 @@
-184/C. §[^609]
+184/C. §[^610]
 
-[^609]: A 184/C. §-t a 20/2019. (VIII. 30.) EMMI rendelet 25. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^610]: A 184/C. §-t a 20/2019. (VIII. 30.) EMMI rendelet 25. § (2) bekezdés b) pontja hatályon kívül helyezte.

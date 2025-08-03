@@ -1,15 +1,15 @@
-## 43. [^405] A lelki egészség fejlesztése
+## 43. [^406] A lelki egészség fejlesztése
 
-131. § (1)[^406] A nevelési-oktatási intézményben folyó pedagógiai munka által elérhető lelki egészségfejlesztés célja, hogy elősegítse a kiegyensúlyozott lelki fejlődést, támogassa a gyermek, tanuló esetében a környezethez történő alkalmazkodást, felkészítsen és megoldási stratégiákat kínáljon a környezetből érkező ártalmas hatásokkal szemben, így csökkentve a káros következményeket, továbbá pozitív hatást gyakoroljon a személyiségfejlődésre.
+131. § (1)[^407] A nevelési-oktatási intézményben folyó pedagógiai munka által elérhető lelki egészségfejlesztés célja, hogy elősegítse a kiegyensúlyozott lelki fejlődést, támogassa a gyermek, tanuló esetében a környezethez történő alkalmazkodást, felkészítsen és megoldási stratégiákat kínáljon a környezetből érkező ártalmas hatásokkal szemben, így csökkentve a káros következményeket, továbbá pozitív hatást gyakoroljon a személyiségfejlődésre.
 
-(2)[^407] Az iskolának és a kollégiumnak kiemelt figyelmet kell fordítania a viselkedési és kémiai függőségek, valamint a nevelési-oktatási intézményben megjelenő erőszak megelőzésére, továbbá a gyógyult szenvedélybeteg és bántalmazott tanulók beilleszkedésének elősegítésére, ennek során indokolt esetben együttműködik az iskola-egészségügyi szolgálattal.
+(2)[^408] Az iskolának és a kollégiumnak kiemelt figyelmet kell fordítania a viselkedési és kémiai függőségek, valamint a nevelési-oktatási intézményben megjelenő erőszak megelőzésére, továbbá a gyógyult szenvedélybeteg és bántalmazott tanulók beilleszkedésének elősegítésére, ennek során indokolt esetben együttműködik az iskola-egészségügyi szolgálattal.
 
-(3)[^408] Abban az esetben, ha a pedagógus a gyermek, a tanuló bántalmazását vagy más deviáns viselkedésformákat észlel, az adott osztály vagy tanulócsoport nevelésében, oktatásában közreműködők bevonásával esetmegbeszélést kezdeményez, majd a pedagógusokkal közösen feltárja azokat a lehetséges okokat, amelyek a viselkedés sajátos formájához vezethettek. A konfliktusban érintett gyermekek, tanulók az iskolapszichológus kiemelt segítségében részesülnek.
+(3)[^409] Abban az esetben, ha a pedagógus a gyermek, a tanuló bántalmazását vagy más deviáns viselkedésformákat észlel, az adott osztály vagy tanulócsoport nevelésében, oktatásában közreműködők bevonásával esetmegbeszélést kezdeményez, majd a pedagógusokkal közösen feltárja azokat a lehetséges okokat, amelyek a viselkedés sajátos formájához vezethettek. A konfliktusban érintett gyermekek, tanulók az iskolapszichológus kiemelt segítségében részesülnek.
 
-(4)[^409] Amennyiben az érintett gyermek, tanuló vagy a tanulók csoportja vonatkozásában a viselkedési problémák ismétlődő jellegűek, az intézmény igazgatója értesíti óvodás gyermek esetén az óvodapszichológust, tanuló esetén az iskolapszichológust, és egyúttal meghatározza azt az időpontot, amikor a gyermek, a tanuló köteles a pszichológus tanácsadásán részt venni.
+(4)[^410] Amennyiben az érintett gyermek, tanuló vagy a tanulók csoportja vonatkozásában a viselkedési problémák ismétlődő jellegűek, az intézmény igazgatója értesíti óvodás gyermek esetén az óvodapszichológust, tanuló esetén az iskolapszichológust, és egyúttal meghatározza azt az időpontot, amikor a gyermek, a tanuló köteles a pszichológus tanácsadásán részt venni.
 
-[^405]: A 43. alcím címe a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 26. pontja szerint módosított szöveg.
-[^406]: A 131. § (1) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont a) alpontja szerint módosított szöveg.
-[^407]: A 131. § (2) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont b) alpontja szerint módosított szöveg.
-[^408]: A 131. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont c) alpontja szerint módosított szöveg.
-[^409]: A 131. § (4) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.
+[^406]: A 43. alcím címe a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 26. pontja szerint módosított szöveg.
+[^407]: A 131. § (1) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont a) alpontja szerint módosított szöveg.
+[^408]: A 131. § (2) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont b) alpontja szerint módosított szöveg.
+[^409]: A 131. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont c) alpontja szerint módosított szöveg.
+[^410]: A 131. § (4) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 94. §[^312] Az iskola által használt nyomtatvány
+## 94. §[^313] Az iskola által használt nyomtatvány
 
 1. a beírási napló,
 
@@ -8,7 +8,7 @@
 
 4. az érettségi bizonyítvány, az érettségi tanúsítvány,
 
-5.[^313] a szakmai vizsga, képesítő vizsga letételét tanúsító bizonyítvány,
+5.[^314] a szakmai vizsga, képesítő vizsga letételét tanúsító bizonyítvány,
 
 6. a törzslap külíve, belíve,
 
@@ -16,7 +16,7 @@
 
 8. a törzslap külíve, belíve érettségi vizsgához, az érettségi törzslap kivonata,
 
-9.[^314] törzslap külíve, belíve szakmai vizsgához, képesítő vizsgához,
+9.[^315] törzslap külíve, belíve szakmai vizsgához, képesítő vizsgához,
 
 10. az értesítő (ellenőrző),
 
@@ -40,7 +40,7 @@
 
 20. az egyéni és csoportos foglalkozási napló az alapfokú művészeti iskolában,
 
-21.[^315] az egyéni és csoportos foglalkozási napló a zeneművészeti szakgimnáziumban,
+21.[^316] az egyéni és csoportos foglalkozási napló a zeneművészeti szakgimnáziumban,
 
 22. az étkeztetési nyilvántartás,
 
@@ -48,19 +48,19 @@
 
 24. a tanulói jogviszony igazoló lapja,
 
-25.[^316]
+25.[^317]
 
-26.[^317]
+26.[^318]
 
-27.[^318]
+27.[^319]
 
-28.[^319]
+28.[^320]
 
-[^312]: A 94. § a 20/2016. (VIII. 24.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^313]: A 94. § 5. pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont a) alpontja szerint módosított szöveg.
-[^314]: A 94. § 9. pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont b) alpontja szerint módosított szöveg.
-[^315]: A 94. § 21. pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont c) alpontja szerint módosított szöveg.
-[^316]: A 94. § 25. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
-[^317]: A 94. § 26. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
-[^318]: A 94. § 27. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
-[^319]: A 94. § 28. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^313]: A 94. § a 20/2016. (VIII. 24.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^314]: A 94. § 5. pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont a) alpontja szerint módosított szöveg.
+[^315]: A 94. § 9. pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont b) alpontja szerint módosított szöveg.
+[^316]: A 94. § 21. pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont c) alpontja szerint módosított szöveg.
+[^317]: A 94. § 25. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^318]: A 94. § 26. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^319]: A 94. § 27. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^320]: A 94. § 28. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 15. pontja hatályon kívül helyezte.

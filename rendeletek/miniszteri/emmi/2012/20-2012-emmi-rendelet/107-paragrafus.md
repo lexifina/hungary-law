@@ -1,8 +1,8 @@
 ## 107. § Az alapfokú művészeti iskolák által használt további és speciális nyomtatvány
 
-a)[^333] a bizonyítvány (az alapfokú művészeti iskola művészeti ágai – zeneművészet, táncművészet, képző- és iparművészet, szín- és bábművészet, cirkuszművészet – szerint),
+a)[^334] a bizonyítvány (az alapfokú művészeti iskola művészeti ágai – zeneművészet, táncművészet, képző- és iparművészet, szín- és bábművészet, cirkuszművészet – szerint),
 
-b)[^334] a törzslap külív, belív (az alapfokú művészeti iskola művészeti ágai – zeneművészet, táncművészet, képző- és iparművészet, szín- és bábművészet, cirkuszművészet – szerint),
+b)[^335] a törzslap külív, belív (az alapfokú művészeti iskola művészeti ágai – zeneművészet, táncművészet, képző- és iparművészet, szín- és bábművészet, cirkuszművészet – szerint),
 
 c) az összesítő kimutatás a térítési díj és a tandíj befizetéséről,
 
@@ -12,5 +12,5 @@ e) az eszköz- és hangszernyilvántartó lap,
 
 f) a szülői nyilatkozat az alapfokú művészeti iskolában folytatott tanulmányokhoz.
 
-[^333]: A 107. § a) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^334]: A 107. § b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^334]: A 107. § a) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^335]: A 107. § b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
 ## 22. Az oktatásügyi közvetítő eljárás
 
-62. § (1)[^233] Ha a nevelési-oktatási intézmény a gyermeket, tanulót veszélyeztető okokat pedagógiai eszközökkel nem tudja megszüntetni, vagy a gyermekközösség, a tanulóközösség védelme érdekében indokolt, segítséget kérhet konfliktuskezelési szaktanácsadótól, valamint az ifjúságvédelmi, családjogi területen működő szolgálattól.
+62. § (1)[^234] Ha a nevelési-oktatási intézmény a gyermeket, tanulót veszélyeztető okokat pedagógiai eszközökkel nem tudja megszüntetni, vagy a gyermekközösség, a tanulóközösség védelme érdekében indokolt, segítséget kérhet konfliktuskezelési szaktanácsadótól, valamint az ifjúságvédelmi, családjogi területen működő szolgálattól.
 
 (2) Az oktatásügyi közvetítő (a továbbiakban: közvetítő) a közvetítői eljárás során pártatlanul, lelkiismeretesen, a szakmai követelmények szerint közreműködik a megállapodás létrehozásában. A közvetítőnek tiszteletben kell tartania az eljárásban résztvevők emberi méltóságát, és biztosítania kell, hogy a résztvevők egymással szemben is tisztelettel járjanak el.
 
-(3)[^234] A közvetítőt a fenntartó egyetértésével az igazgató kéri fel és bízza meg írásban, a közvetítő e tevékenysége körében nem utasítható.
+(3)[^235] A közvetítőt a fenntartó egyetértésével az igazgató kéri fel és bízza meg írásban, a közvetítő e tevékenysége körében nem utasítható.
 
 (4) Az egyeztetési eljárás dokumentációjának elkészítéséért a közvetítő felel.
 
@@ -14,7 +14,7 @@
 
 a) valamelyik felet képviseli,
 
-b)[^235] a felek bármelyikének a Polgári Törvénykönyv szerinti hozzátartozója,
+b)[^236] a felek bármelyikének a Polgári Törvénykönyv szerinti hozzátartozója,
 
 c) a felek bármelyikével vagy az érintett köznevelési intézménnyel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, továbbá tagsági viszonyban áll, ide nem értve a fegyelmi jogkör gyakorlójától kapott felkérést, a vele kötött megbízási jogviszonyt,
 
@@ -60,6 +60,6 @@ c) az egyeztetési eljárásra rendelkezésre álló tizenöt nap eredménytelen
 
 d) megállapodás született.
 
-[^233]: A 62. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 22. §-ával megállapított szöveg.
-[^234]: A 62. § (3) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.
-[^235]: A 62. § (6) bekezdés b) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
+[^234]: A 62. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 22. §-ával megállapított szöveg.
+[^235]: A 62. § (3) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.
+[^236]: A 62. § (6) bekezdés b) pontja a 34/2014. (IV. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.

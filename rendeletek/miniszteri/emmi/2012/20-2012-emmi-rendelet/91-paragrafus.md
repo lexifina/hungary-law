@@ -1,12 +1,12 @@
 91. § (1) Az óvodai csoportnapló az óvoda pedagógiai programja alapján a nevelőmunka tervezésének dokumentálására szolgál.
 
-(2)[^303] Az óvodai csoportnaplóban fel kell tüntetni az óvoda nevét, OM azonosítóját és címét, a nevelési évet, a csoport megnevezését, a csoport óvodapedagógusait, a megnyitás és lezárás helyét és időpontját, az óvodaigazgató aláírását, papíralapú dokumentum esetén az óvodai körbélyegzők lenyomatát, a pedagógiai program nevét.
+(2)[^304] Az óvodai csoportnaplóban fel kell tüntetni az óvoda nevét, OM azonosítóját és címét, a nevelési évet, a csoport megnevezését, a csoport óvodapedagógusait, a megnyitás és lezárás helyét és időpontját, az óvodaigazgató aláírását, papíralapú dokumentum esetén az óvodai körbélyegzők lenyomatát, a pedagógiai program nevét.
 
 (3) Az óvodai csoportnapló tartalmazza
 
 a) a gyermekek nevét és óvodai jelét,
 
-b)[^304] a fiúk és lányok számának összesített adatait, ezen belül megadva a három év alatti, a három–négyéves, a négy–ötéves, az öt–hatéves a hat–hétéves gyermekek számát, a sajátos nevelési igényű gyermekek számát, továbbá azon gyermekek számát, akik bölcsődei ellátásban részesültek,
+b)[^305] a fiúk és lányok számának összesített adatait, ezen belül megadva a három év alatti, a három–négyéves, a négy–ötéves, az öt–hatéves a hat–hétéves gyermekek számát, a sajátos nevelési igényű gyermekek számát, továbbá azon gyermekek számát, akik bölcsődei ellátásban részesültek,
 
 c) a nevelési évben tankötelessé váló gyermekek nevét,
 
@@ -22,16 +22,16 @@ fb) a szervezési feladatokat,
 
 fc) a tervezett programokat és azok időpontjait,
 
-fd)[^305] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
+fd)[^306] a gyermekek neveléséhez szükséges, a teljes óvodai életet magában foglaló tevékenységek, foglalkozások keretében az óvoda pedagógiai programjában meghatározott tevékenységi formák tartalmi elemeit,
 
 fe) az értékeléseket,
 
-g)[^306]
+g)[^307]
 
-h)[^307] a feljegyzést a csoport életéről.
+h)[^308] a feljegyzést a csoport életéről.
 
-[^303]: A 91. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.
-[^304]: A 91. § (3) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 21. § b) pontja szerint módosított szöveg.
-[^305]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^306]: A 91. § (3) bekezdés g) pontját a 34/2019. (XII. 30.) EMMI rendelet 14. § i) pontja hatályon kívül helyezte.
-[^307]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^304]: A 91. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.
+[^305]: A 91. § (3) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 21. § b) pontja szerint módosított szöveg.
+[^306]: A 91. § (3) bekezdés f) pont fd) alpontja a 22/2013. (III. 22.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^307]: A 91. § (3) bekezdés g) pontját a 34/2019. (XII. 30.) EMMI rendelet 14. § i) pontja hatályon kívül helyezte.
+[^308]: A 91. § (3) bekezdés h) pontja a 22/2013. (III. 22.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.

@@ -18,7 +18,7 @@
 
 (7) Különleges helyzetnek minősül, ha a tanuló
 
-a) szülője, testvére tartósan beteg vagy fogyatékkal élő, vagy
+a)[^119] szülője, testvére tartósan beteg vagy fogyatékossággal élő, vagy
 
 b) testvére az adott intézmény tanulója, vagy
 
@@ -34,3 +34,4 @@ d) az iskola a lakóhelyétől, ennek hiányában tartózkodási helyétől egy 
 [^116]: A 24. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § c) pontja szerint módosított szöveg.
 [^117]: A 24. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 3. pontja szerint módosított szöveg.
 [^118]: A 24. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^119]: A 24. § (7) bekezdés a) pontja a 31/2025. (VII. 31.) BM rendelet 7. §-a szerint módosított szöveg.
