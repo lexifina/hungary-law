@@ -1,3 +1,3 @@
-8. § A Rendelet3. a következő 4. §-sal egészül ki:
+8. §[^9]
 
-„4. § E rendeletnek az egyes, a Szabályozott Tevékenységek Felügyeleti Hatósága feladatkörét érintő, bányászati tárgyú rendeletek módosításáról szóló 7/2025. (VII. 31.) SZTFH rendelettel (a továbbiakban: Módr1.) megállapított 1/A. §-a a geotermikus energia kutatására, kinyerésére illetve hasznosítására vonatkozóan a Módr1. hatálybalépése előtt szerzett jogokat nem érinti.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

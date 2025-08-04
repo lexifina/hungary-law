@@ -1,1 +1,3 @@
-7. § A Rendelet3. a 2. melléklet szerinti 1. melléklettel egészül ki.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
