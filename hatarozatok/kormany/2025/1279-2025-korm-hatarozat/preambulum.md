@@ -1,0 +1,1 @@
+A Kormány a Magyar Falu Program új támogatási elemeként az 5000 fő és az ez alatti lakosságszámú települések népességszámának megőrzése és növelése, a települések közötti gazdasági egyenlőtlenségek mérséklése és a kistelepülések versenyképességének további erősítése céljából
