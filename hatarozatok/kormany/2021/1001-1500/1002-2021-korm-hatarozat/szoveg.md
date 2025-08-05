@@ -34,7 +34,7 @@ c)[^2] felhívja a Miniszterelnökséget vezető minisztert és felkéri az Orsz
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2025. december 31.
+Határidő: 2026. január 31.
 
 d)[^3] felhívja a gazdaságfejlesztési minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy a Steindl Imre Program Nonprofit Zrt. útján, az a) alpont ag) pontjában meghatározott cél érdekében, az építési és közlekedési miniszter, valamint az igazságügyi miniszter bevonásával, az érintettekkel való konzultációval vizsgálják meg, hogy az Igazságügyi Palota rekonstrukcióját követően a Kúria az Igazságügyi Palotában el nem férő szervezeti egységei mely, az Igazságügyi Palota közelében lévő, állami tulajdonban álló épületben helyezhetők el, és az Igazságügyi Palotán kívül biztosítandó terület esetleges csökkentése érdekében vizsgálják meg az Igazságügyi Palota rekonstrukciójára vonatkozó kivitelezési tervdokumentáció részleges áttervezésének lehetőségét;
 
@@ -112,21 +112,21 @@ d) felkéri az Országgyűlés Hivatala főigazgatóját, hogy a c) alpontban fo
 
 6.[^16] A Kormány
 
-a) a 3. pont a)–b) alpontjában foglaltakkal összhangban egyetért azzal, hogy az Igazságügyi Palota és az Agrárminisztérium épület rekonstrukciójának 2. üteme 2027. július 31. napjáig megvalósuljon, és azzal, hogy ennek érdekében a Steindl Imre Program Nonprofit Zrt. az épületek együttes kivitelezésére fővállalkozási kivitelezési szerződést kössön, azzal, hogy az Igazságügyi Palota rekonstrukciója 2. ütemének teljesítési határidejét az Országház belső rekonstrukciójával és modernizációjával kapcsolatos kormányzati döntésekről szóló 1529/2022. (XI. 2.) Korm. határozat 8. pont c) alpontja szerinti döntésre figyelemmel kell megállapítani;
+a)[^17] a 3. pont a)–b) alpontjában foglaltakkal összhangban egyetért azzal, hogy az Igazságügyi Palota és az Agrárminisztérium épület rekonstrukciójának 2. üteme 2028. július 31. napjáig megvalósuljon, és azzal, hogy ennek érdekében a Steindl Imre Program Nonprofit Zrt. az épületek együttes kivitelezésére fővállalkozási kivitelezési szerződést kössön;
 
-b)[^17] felhívja a pénzügyminisztert, hogy az a) alpont szerinti kivitelezés finanszírozása érdekében gondoskodjon 127 468 000 000 forint biztosításáról a következő ütemezés szerint:
+b)[^18] felhívja a pénzügyminisztert, hogy az a) alpont szerinti kivitelezés finanszírozása érdekében gondoskodjon 127 468 000 000 forint biztosításáról a következő ütemezés szerint:
 
 ba) 14 992 500 000 forint összegben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím javára,
 
 bb) 7 500 000 forint összegben a Kvtv. 1. melléklet I. Országgyűlés fejezet, 1. Országgyűlés Hivatala cím, 1. Országgyűlés hivatali szervei alcím javára,
 
-bc)[^18] 44 103 800 000 forint összegben a 2024. évi központi költségvetés I. Országgyűlés fejezet javára,
+bc)[^19] 44 103 800 000 forint összegben a 2024. évi központi költségvetés I. Országgyűlés fejezet javára,
 
-bd)[^19] 35 897 800 000 forint összegben a 2025. évi központi költségvetés I. Országgyűlés fejezet javára,
+bd)[^20] 35 897 800 000 forint összegben a 2025. évi központi költségvetés I. Országgyűlés fejezet javára,
 
 be) 18 829 400 000 forint összegben a 2026. évi központi költségvetés I. Országgyűlés fejezet javára,
 
-bf)[^20] 13 637 000 000 forint összegben a 2027. évi központi költségvetés I. Országgyűlés fejezet javára;
+bf)[^21] 13 637 000 000 forint összegben a 2027. évi központi költségvetés I. Országgyűlés fejezet javára;
 
 | Felelős: | pénzügyminiszter |
 
@@ -140,8 +140,36 @@ c) felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Ország
 
 | Határidő: | azonnal |
 
+7.[^22] A Kormány
+
+a) egyetért azzal, hogy
+
+aa) az Igazságügyi Palota rekonstrukcióját követően a Kúria teljes szervezete jelenlegi székhelyéről a Budapest belterület 24974 helyrajzi számú, természetben az 1055 Budapest, Markó utca 16., 1055 Budapest, Stollár Béla utca 15. szám alóli épületből (a továbbiakban: Markó utcai épület) kiköltözzön,
+
+ab) a Markó utcai épület egésze a Kúria kiköltözését követően a Legfőbb Ügyészség vagyonkezelésébe kerüljön,
+
+ac) a Markó utcai épület szükséges mértékű rekonstrukciója a Legfőbb Ügyészség számára használatra alkalmassá tétele érdekében megtörténjen,
+
+ad) a Markó utcai épület rekonstrukciójának megvalósítója a Steindl Imre Program Nonprofit Zrt. legyen,
+
+ae) a Steindl Imre Program Nonprofit Zrt. a Markó utcai épület rekonstrukciójának első szakaszaként tervezés-előkészítési feladatokat lásson el a 6. pont szerinti támogatási szerződésben 2025. augusztus 1. napjáig biztosított forrás terhére, mely során a Legfőbb Ügyészséggel együttműködve készítse el a Markó utcai épület rekonstrukciójának koncepciótervét, valamint a szemrevételezéses műszakiállapot-felmérés és az építészeti értékleltár alapján állítsa össze a rekonstrukció előzetes tervezési programját;
+
+b) felhívja a Miniszterelnökséget vezető minisztert, hogy az a) pont ae) alpontja szerinti tervezés-előkészítési feladatok alapján lefolytatott, tervezésre vonatkozó feltételes beszerzési eljárás eredménye alapján a Steindl Imre Program Nonprofit Zrt. közreműködésével készítsen előterjesztést a Kormány részére a beruházás következő, tervezési szakaszának megvalósításáról;
+
+| Felelős: | Miniszterelnökséget vezető miniszter |
+
+| Határidő: | a feltételes beszerzési eljárás lefolytatását követő 60 napon belül |
+
+c) az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva az a) pont ac) alpontja szerinti beruházást és a b) pont szerinti feltételes beszerzési eljárást – az ahhoz fűződő kiemelt nemzeti érdekre tekintettel – mentesíti az Ábtv. alkalmazása alól;
+
+d) felhívja a nemzetgazdasági minisztert, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket az a) pont ab) alpontjában foglaltak szerint a Markó utcai épület vonatkozásában a Kúria vagyonkezelési szerződésének megszüntetése és az ingatlan Legfőbb Ügyészség részére történő vagyonkezelésbe adása érdekében.
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | az a) pont aa) alpontjának megvalósulását követő három hónapon belül. |
+
 [^1]: Az 1. pont a) alpont ak) pontját az 1615/2021. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
-[^2]: Az 1. pont c) alpontja az 1085/2024. (IV. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. pont c) alpontja az 1085/2024. (IV. 3.) Korm. határozat 2. pontja, az 1280/2025. (VIII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^3]: Az 1. pont d) pontja az 1621/2023. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: Az 1. pont e) pontot az 1621/2023. (XII. 29.) Korm. határozat 4. pont a) pontja visszavonta.
 [^5]: Az 1. pont f) pontja az 1621/2023. (XII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
@@ -156,7 +184,9 @@ c) felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Ország
 [^14]: Az 5. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be, nyitó szövegrésze az 1621/2023. (XII. 29.) Korm. határozat 4. pont c) pontja szerint módosított szöveg.
 [^15]: Az 5. pont c) alpontja az 1621/2023. (XII. 29.) Korm. határozat 3. pontjával megállapított szöveg.
 [^16]: A 6. pontot az 1168/2023. (IV. 28.) Korm. határozat iktatta be.
-[^17]: A 6. pont b) alpont nyitó szövegrésze az 1060/2025. (III. 13.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^18]: A 6. pont b) alpont bc) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^19]: A 6. pont b) alpont bd) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
-[^20]: A 6. pont b) alpont bf) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^17]: A 6. pont a) alpontja az 1280/2025. (VIII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^18]: A 6. pont b) alpont nyitó szövegrésze az 1060/2025. (III. 13.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^19]: A 6. pont b) alpont bc) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^20]: A 6. pont b) alpont bd) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^21]: A 6. pont b) alpont bf) pontja az 1060/2025. (III. 13.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^22]: A 7. pontot az 1280/2025. (VIII. 5.) Korm. határozat 2. pontja iktatta be.
