@@ -1,8 +1,8 @@
-1. melléklet a 3/2024. (V. 31.) MK rendelethez[^1]
+1. melléklet a 3/2024. (V. 31.) MK rendelethez[^2]
 
 CÉGELLENŐRZÉSI ADATLAP
 
-A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐSÍTÉSI ELJÁRÁS, RÉSZVÉTELRE JELENTKEZŐ ÉS A KIEMELT ALVÁLLALKOZÓ BESZERZÉSI ELJÁRÁSHOZ KÖTŐDŐ MINŐSÍTÉSÉNEK, JEGYZÉKEN TARTÁSHOZ KÖTŐDŐ ELJÁRÁS KEZDEMÉNYEZÉSÉHEZ
+A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐSÍTÉSI ELJÁRÁSHOZ, A RÉSZVÉTELRE JELENTKEZŐ ÉS A KIEMELT ALVÁLLALKOZÓ BESZERZÉSI ELJÁRÁSÁHOZ KÖTŐDŐ MINŐSÍTÉSÉNEK, JEGYZÉKEN TARTÁSÁHOZ KÖTŐDŐ ELJÁRÁS KEZDEMÉNYEZÉSÉHEZ
 
 1. Általános azonosító adatok
 
@@ -38,7 +38,7 @@ A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐ
 
 | Valamennyi cégtulajdonos esetében fel kell tüntetni a tulajdonos nevét, természetes személy esetében a személyes adatokat (születési név, anyja neve, születési hely és idő, lakó- és tartózkodási hely), nem természetes személy esetében a székhelyét, a központi ügyintézés helyét, a telephelyek és fióktelepek címét, a szervezet nyilvántartási számát és a nyilvántartást vezető szervezet megnevezését. |
 
-| 1.9. A gazdasági szereplő stratégiai döntéseire és a működésére jelentős befolyást gyakorló, az 1.8. pont alá nem tartozó természetes személy: |
+| 1.9. A gazdasági szereplő stratégiai döntéseire és a működésére jelentős befolyást gyakorló, az 1.8. alpont alá nem tartozó természetes személy: |
 
 | 1.10. A gazdasági szereplő érdekeltségei más vállalkozásokban (név, székhely, cégjegyzékszám, részesedés mértéke): |
 
@@ -50,7 +50,7 @@ A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐ
 
 2. A cég vezetésére, illetve az egyéni vállalkozóra vonatkozó információk
 
-| A cég valamennyi vezető tisztségviselőjének, továbbá az 1.9. pont alatt bejelentett személyek, valamint az egyéni vállalkozó személyes adatai: |
+| A cég valamennyi vezető tisztségviselőjének, továbbá az 1.9. alpont alatt bejelentett személyek, valamint az egyéni vállalkozó személyes adatai: |
 
 | 2.1. név (születési név): |
 
@@ -92,7 +92,9 @@ A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐ
 
 | □ Bizományosi értékesítés | □ Energetika |
 
-| 3.2. A 3.1. pontban megjelölt szektort érintő referenciák felsorolása: |
+| □ A kereskedelmi forgalomban kapható pilóta nélküli légijárművek elleni védelmet biztosító rendszer |  |
+
+| 3.2. A 3.1. alpontban megjelölt szektort érintő referenciák felsorolása: |
 
 | 3.3. Az „ingatlanalap-kezelés” szektor megjelölése esetén a gazdasági szereplő informatikai rendszerének biztonságáért felelős személy neve, személyazonosító adatai. A rendszerbiztonsági feladatok ellátására jogosító releváns szakmai végzettségét igazoló dokumentumot kiállító intézmény megnevezése, a dokumentum sorszáma: |
 
@@ -110,4 +112,4 @@ P. H.
 
 cégszerű aláírás
 
-[^1]: Az 1. melléklet a 12/2024. (IX. 26.) MK rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 15/2025. (VIII. 5.) MK rendelet 2. §-ával megállapított szöveg.
