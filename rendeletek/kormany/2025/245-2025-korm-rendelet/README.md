@@ -1,0 +1,9 @@
+# 245/2025. (VIII. 5.) Korm. rendelet
+
+a Budai Palotanegyed beruházásainak építtetői feladat változásával összefüggő kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-245-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-08-06 | 2025-245-20-22.1 | 245/2025. (VIII. 5.) Korm. rendelet |
