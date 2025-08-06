@@ -1,4 +1,4 @@
-1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^81]
+1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^109]
 
 Áruk, amelyek behozatalával, kivitelével, reexportjával kapcsolatos tevékenységek megkezdéséhez tevékenységi engedélyre van szükség
 
@@ -70,21 +70,33 @@
 
 | 31 |  | 2844 30 99 | – – – Más |
 
-| 32 |  | 2844 40 | – Radioaktív elemek és izotópok és vegyületek, a 2844 10, 2844 20 és a 2844 30 alszám alá tartozók kivételével; ezeket az elemeket, izotópokat és vegyületeket tartalmazó ötvözetek, diszperziók (beleértve a cermeteket is), kerámiai termékek és keverékek; radioaktív maradékok: |
+| 32 | ex | 2844 41 | – Radioaktív elemek és izotópok és vegyületek, a 2844 10, 2844 20 és a 2844 30 alszám alá tartozók kivételével; ezeket az elemeket, izotópokat és vegyületeket tartalmazó ötvözetek, diszperziók, beleértve a cermetet is, kerámiai termékek és keverékek; radioaktív maradékok: |
 
-| 33 |  | 2844 40 10 | – – U-233 és vegyületeiből nyert urán; ötvözetek, diszperziók (beleértve a cermeteket is), kerámiai termékek, keverékek és vegyületek, amelyek U-233-at vagy ennek vegyületeit tartalmazzák |
+| 33 |  | 2844 41 | – – Trícium és vegyületei; tríciumot vagy annak vegyületeit tartalmazó ötvözetek, diszperziók, beleértve a cermetet is, kerámiai termékek és keverékek |
 
-| 34 |  |  | – – Más: |
+| 34 |  | 2844 41 10 | – – – Mesterséges radioaktív izotóp az in vivo felhasználású gyógyászati izotópkészítmények kivételével; mesterséges radioaktív izotóp vegyületei az in vivo felhasználású gyógyászati izotópkészítmények kivételével |
 
-| 35 | ex | 2844 40 20 | – – – Mesterséges radioaktív izotópok az in vivo felhasználású gyógyászati izotópkészítmények kivételével |
+| 35 |  | 2844 41 90 | – – – Más |
 
-| 36 | ex | 2844 40 30 | – – – Mesterséges radioaktív izotópok vegyületei az in vivo gyógyászati izotópkészítmények kivételével |
+| 36 | ex | 2844 42 | – – Aktínium-225, aktínium-227, kalifornium-253, kűrium-240, kűrium-241, kűrium-242, kűrium-243, kűrium-244, einsteinium-253, einsteinium-254, gadolínium-148, polónium-208, polónium-209, polónium-210, rádium-223, uránium-230 vagy uránium-232 és vegyületeik; ezeket az elemeket vagy vegyületeiket tartalmazó ötvözetek, diszperziók, beleértve a cermetet is, kerámiai termékek és keverékek |
 
-| 37 |  | 2844 40 80 | – – – Más |
+| 37 | ex | 2844 42 10 | – – – Mesterséges radioaktív izotópok az in vivo felhasználású gyógyászati izotópkészítmények kivételével; mesterséges radioaktív izotópok vegyületei az in vivo felhasználású gyógyászati izotópkészítmények kivételével |
 
-| 38 |  | 2844 50 00 | – Atomreaktorok kimerült (besugárzott) fűtőelemei (töltetei) |
+| 38 |  | 2844 42 90 | – – – Más |
 
-| 39 |  | 8401 30 00 | – Nem besugárzott fűtőanyagelem (patron) |
+| 39 |  | 2844 43 | – – Más radioaktív elemek, izotópok és vegyületek; ezeket az elemeket, izotópokat és vegyületeket tartalmazó más ötvözetek, diszperziók, beleértve a cermetet is, kerámiai termékek és keverékek |
+
+| 40 |  | 2844 43 10 | – – – U-233 és vegyületei; ötvözetek, diszperziók, beleértve a cermetet is, kerámiai termékek és keverékek, amelyek U-233-at vagy vegyületeit tartalmazzák |
+
+| 41 | ex | 2844 43 20 | – – – Mesterséges radioaktív izotópok az in vivo felhasználású gyógyászati izotópkészítmények kivételével; mesterséges radioaktív izotópok vegyületei az in vivo felhasználású gyógyászati izotópkészítmények kivételével |
+
+| 42 |  | 2844 43 80 | – – – Más |
+
+| 43 |  | 2844 44 | – – Radioaktív maradékok |
+
+| 44 |  | 2844 50 00 | – Atomreaktorok kimerült, besugárzott fűtőelemei, töltetei |
+
+| 45 |  | 8401 30 00 | – Nem besugárzott fűtőanyagelem, patron |
 
 1.2. Robbanóanyagok és pirotechnikai termékek
 
@@ -140,4 +152,4 @@
 
 | 5 | ex | 4811 | Biztonsági papír |
 
-[^81]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja, a 247/2025. (VIII. 5.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

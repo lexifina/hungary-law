@@ -1,4 +1,4 @@
-3. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^83]
+3. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^111]
 
 Nem közösségi áruk, amelyeknek az EU-n kívüli országokból Magyarország területére, kereskedelmi forgalomban történő behozatalához engedély szükséges
 
@@ -14,15 +14,23 @@ Nem közösségi áruk, amelyeknek az EU-n kívüli országokból Magyarország 
 
 | 4 |  | 3603 00 | Biztonsági gyújtózsinór; robbantó gyújtózsinór; robbantógyutacs és robbantókapszulák; gyújtószerkezetek; elektromos detonátorok: |
 
-| 5 |  | 3603 00 10 | – Biztonsági gyújtózsinór; robbantó gyújtózsinór |
+| 5 |  | 3603 10 00 | Biztonsági gyújtózsinór |
 
-| 6 |  | 3603 00 90 | – Más |
+| 6 |  | 3603 20 00 | Robbantó (gyújtó) zsinór |
 
-| 7 |  | 3604 | Tűzijátékok, jelzőrakéták, esőrakéták, ködjelzők és más pirotechnikai termékek: |
+| 7 |  | 3603 30 00 | Robbantógyutacs |
 
-| 8 | ex | 3604 10 00 | – Tűzijátékok, kivéve: 1. pirotechnikai. osztályba tartozó tűzijáték termékek |
+| 8 |  | 3603 40 00 | Robbantó kapszulák |
 
-| 9 | ex | 3604 90 00 | – Más, kivéve: 1. pirotechnikai osztályba tartozó tűzijáték termékek, csillagszórók |
+| 9 |  | 3603 50 00 | Gyújtószerkezetek |
+
+| 10 |  | 3603 60 00 | Elektromos detonátorok |
+
+| 11 |  | 3604 | Tűzijátékok, jelzőrakéták, esőrakéták, ködjelzők és más pirotechnikai termékek: |
+
+| 12 | ex | 3604 10 00 | – Tűzijátékok, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek |
+
+| 13 | ex | 3604 90 00 | – Más, kivéve: az 1. pirotechnikai osztályba tartozó tűzijáték termékek, csillagszórók |
 
 ## Továbbá: az ADR 1. osztályba tartozó más robbanóanyagok.
 
@@ -50,4 +58,4 @@ Nem közösségi áruk, amelyeknek az EU-n kívüli országokból Magyarország 
 
 4.
 
-[^83]: A 3. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^111]: A 3. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § c) pontja, a 247/2025. (VIII. 5.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

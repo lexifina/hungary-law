@@ -1,4 +1,4 @@
-## 6/R.[^70] Az orosz kormányzati támogatás elfogadására vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/R.[^76] Az orosz kormányzati támogatás elfogadására vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/R. § (1) A 833/2014/EU tanácsi rendelet 5t. cikk (3) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a támogatás kedvezményezettje nyújthatja be.
 
@@ -16,4 +16,4 @@ b) a 833/2014/EU tanácsi rendelet 5t. cikkében foglalt tilalom alól adható m
 
 (6) A 833/2014/EU tanácsi rendelet 5t. cikk (4) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^70]: A 6/R. alcímet (13/R. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
+[^76]: A 6/R. alcímet (13/R. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.

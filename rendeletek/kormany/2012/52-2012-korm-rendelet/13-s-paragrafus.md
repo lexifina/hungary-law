@@ -1,4 +1,4 @@
-## 6/S.[^71] A cseppfolyósított földgáz átrakodásra vonatkozó tilalom alól mentesítést biztosító engedélyek
+## 6/S.[^77] A cseppfolyósított földgáz átrakodásra vonatkozó tilalom alól mentesítést biztosító engedélyek
 
 13/S. § (1) A 833/2014/EU tanácsi rendelet 3r. cikk (3) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a fuvareszköz tulajdonosa vagy üzemeltetője nyújthatja be.
 
@@ -16,4 +16,4 @@ d) a 833/2014/EU tanácsi rendelet 3r. cikkében foglalt tilalom alól adható m
 
 (4) Az engedély a 833/2014/EU tanácsi rendelet 3r. cikk (3) bekezdésében foglalt mentesítési feltételek teljesülése esetén adható meg.
 
-[^71]: A 6/S. alcímet (13/S. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
+[^77]: A 6/S. alcímet (13/S. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.

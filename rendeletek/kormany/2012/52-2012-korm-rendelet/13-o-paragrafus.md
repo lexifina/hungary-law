@@ -1,4 +1,4 @@
-## 6/O.[^67] A gyémánt importjára vonatkozó tilalmakhoz kötődő értesítési kötelezettség és a tilalom alól mentesítést biztosító engedélyek
+## 6/O.[^73] A gyémánt importjára vonatkozó tilalmakhoz kötődő értesítési kötelezettség és a tilalom alól mentesítést biztosító engedélyek
 
 13/O. § (1) A 833/2014/EU tanácsi rendelet 3p. cikk (7) bekezdése vagy a 765/2006/EK tanácsi rendelet 1rc. cikk (5) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet az importőr nyújthatja be.
 
@@ -14,4 +14,4 @@ c) a 833/2014/EU tanácsi rendelet 3p. cikkében vagy a 765/2006/EK tanácsi ren
 
 (4) Az engedély a 833/2014/EU tanácsi rendelet 3p. cikk (7) bekezdésében vagy a 765/2006/EK tanácsi rendelet 1rc. cikk (5) bekezdésében foglalt feltételek teljesülése esetén adható meg.
 
-[^67]: A 6/O. alcímet (13/O. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.
+[^73]: A 6/O. alcímet (13/O. §-t) a 240/2024. (VIII. 8.) Korm. rendelet 9. §-a iktatta be.

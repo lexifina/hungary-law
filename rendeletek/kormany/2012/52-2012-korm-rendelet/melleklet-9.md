@@ -72,7 +72,7 @@
 
 ## b) a vállalkozási szerződés és a teljesítési szerződés egy eredeti és egy másolati példánya.
 
-9. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^87]
+9. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^115]
 
 A kőolajtermék-előállító, kőolajtermék-kereskedő 13/V. § (1) bekezdése szerinti jelentésének adattartalma
 
@@ -126,4 +126,4 @@ A kőolajtermék-előállító, kőolajtermék-kereskedő 13/V. § (1) bekezdés
 
 8. A tilalom alá nem eső kőolajtermékek mennyisége.
 
-[^87]: A 9. mellékletet a 233/2025. (VII. 31.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^115]: A 9. mellékletet a 233/2025. (VII. 31.) Korm. rendelet 13. § (1) bekezdése iktatta be.
