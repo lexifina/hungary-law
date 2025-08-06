@@ -12,9 +12,11 @@ e) ünnepi célra az Alaptörvényben foglalt nemzeti ünnepek alkalmából szer
 
 f) állami protokolláris rendezvény esetén,
 
-g) az úttartozékok és a közúti közlekedés szervezésének és irányításának céljait szolgáló berendezések elhelyezéséhez a feltétlenül szükséges munkálatok elvégzésének időtartamára, valamint
+g)[^6] az úttartozékok és a közúti közlekedés szervezésének és irányításának céljait szolgáló berendezések elhelyezéséhez a feltétlenül szükséges munkálatok elvégzésének időtartamára,
 
-h) a távközlési kábelek, a közműves berendezések, illetve létesítmények hibaelhárításához szükséges munkák elvégzéséhez a feltétlenül szükséges munkálatok elvégzésének időtartamára.
+h)[^7] a távközlési kábelek, a közműves berendezések, illetve létesítmények hibaelhárításához szükséges munkák elvégzéséhez a feltétlenül szükséges munkálatok elvégzésének időtartamára, valamint
+
+i)[^8] a Budapest tv. 15/A. §-a szerinti építtetői feladatokkal összefüggő feladatok ellátása esetén, ide nem értve az építési szerelési munkát.
 
 (2) Az (1) bekezdés a) és b) pontja szerinti célra a közterületet – a jogszabályok keretei között – bárki szabadon használhatja, más – az (1) bekezdés a) és b) pontja szerinti – használati jogának csorbítása nélkül.
 
@@ -25,3 +27,7 @@ h) a távközlési kábelek, a közműves berendezések, illetve létesítménye
 (5) Az (1) bekezdés d) pontja szerinti igénybevétel esetén a bejelentés mellőzendő.
 
 (6) Használati szerződéskötés nélküli használati módok esetében sem folytatható olyan használati tevékenység, amely nem veszi figyelembe a 6. § (1) bekezdésében meghatározott szempontokat, illetve amely a 6. § (2) bekezdésében esetköröket valósítja meg.
+
+[^6]: Az 5. § (1) bekezdés g) pontja a 245/2025. (VIII. 5.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés h) pontja a 245/2025. (VIII. 5.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés i) pontját a 245/2025. (VIII. 5.) Korm. rendelet 3. §-a iktatta be.
