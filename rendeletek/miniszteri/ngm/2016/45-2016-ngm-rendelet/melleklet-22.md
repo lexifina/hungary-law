@@ -1,4 +1,4 @@
-22. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^216]
+22. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^218]
 
 A zárjegymegrendelés adattartalma
 
@@ -28,4 +28,4 @@ A zárjegymegrendelés adattartalma
 
 4. A Jöt. 74. § (2) bekezdés c) pontjában írt feltétel teljesítésének levezetése
 
-[^216]: A 22. mellékletet az 5/2017. (III. 30.) NGM rendelet 31. § (9) bekezdése iktatta be.
+[^218]: A 22. mellékletet az 5/2017. (III. 30.) NGM rendelet 31. § (9) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-7. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^206]
+7. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^208]
 
 Termék tulajdonságaiból adódó elismert mennyiségű hiány
 
@@ -150,4 +150,4 @@ Termék tulajdonságaiból adódó elismert mennyiségű hiány
 
 | 3. | Egyéb alkoholtermék | 1% |
 
-[^206]: A 7. melléklet a 47/2017. (XII. 27.) NGM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^208]: A 7. melléklet a 47/2017. (XII. 27.) NGM rendelet 12. § (2) bekezdése szerint módosított szöveg.

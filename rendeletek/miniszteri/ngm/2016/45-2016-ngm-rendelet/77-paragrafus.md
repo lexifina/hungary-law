@@ -6,16 +6,16 @@
 
 a) a motorfejlesztéshez a tárgyidőszakban történt üzemanyag-felhasználást igazoló számviteli bizonylat,
 
-b)[^113]
+b)[^115]
 
 c) olyan nyilvántartás, amely folyamatosan tartalmazza – motoronként és összesítve – a felhasznált üzemanyag mennyiségét,
 
-d)[^114] az adóintézkedések formájában megvalósuló állami támogatási programoknak az Európai Unió állami támogatási rendelkezéseivel való összhangját megteremtő szabályozásáról szóló Korm. rendelet szerinti, a kísérleti fejlesztéshez kapcsolódó tárgyévi vagy tárgynegyedévi támogatható költségekről és támogatásokról vezetett – belső bizonylatokkal alátámasztott – nyilvántartás,
+d)[^116] az adóintézkedések formájában megvalósuló állami támogatási programoknak az Európai Unió állami támogatási rendelkezéseivel való összhangját megteremtő szabályozásáról szóló Korm. rendelet szerinti, a kísérleti fejlesztéshez kapcsolódó tárgyévi vagy tárgynegyedévi támogatható költségekről és támogatásokról vezetett – belső bizonylatokkal alátámasztott – nyilvántartás,
 
 e) biodízel felhasználása esetében a fenntarthatósági bizonyítvány.
 
-(3)–(4)[^115]
+(3)–(4)[^117]
 
-[^113]: A 77. § (2) bekezdés b) pontját a 15/2018. (XII. 18.) PM rendelet 8. § 2. pontja hatályon kívül helyezte.
-[^114]: A 77. § (2) bekezdés d) pontja a 47/2017. (XII. 27.) NGM rendelet 9. §-ával megállapított szöveg.
-[^115]: A 77. § (3) és (4) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 16. pontja hatályon kívül helyezte.
+[^115]: A 77. § (2) bekezdés b) pontját a 15/2018. (XII. 18.) PM rendelet 8. § 2. pontja hatályon kívül helyezte.
+[^116]: A 77. § (2) bekezdés d) pontja a 47/2017. (XII. 27.) NGM rendelet 9. §-ával megállapított szöveg.
+[^117]: A 77. § (3) és (4) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 16. pontja hatályon kívül helyezte.
