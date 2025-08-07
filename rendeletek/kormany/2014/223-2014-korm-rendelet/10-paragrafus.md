@@ -30,7 +30,7 @@
 
 (2) A hatóság illetékességi területét a 2. melléklet határozza meg.
 
-(2a)[^32] A mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény esetében vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként országos illetékességgel az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény szerinti öntözési igazgatási szerv jár el.
+(2a)[^32] A mezőgazdasági célú felszín alatti vízkivételt biztosító vízilétesítmény és a hozzá kapcsolódó öntözőtelep esetében vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként országos illetékességgel az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény szerinti öntözési igazgatási szerv jár el.
 
 (3)[^33]
 
@@ -67,7 +67,7 @@ b)[^39] – e rendeletben meghatározottaktól eltérően, érintettségük eset
 [^29]: A 10. § (1) bekezdés 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
 [^30]: A 10. § (1) bekezdés 11. pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
 [^31]: A 10. § (1) bekezdés 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 127. § a) pontja szerint módosított szöveg.
-[^32]: A 10. § (2a) bekezdését újonnan az 511/2020. (XI. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 107/2024. (V. 9.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^32]: A 10. § (2a) bekezdését újonnan az 511/2020. (XI. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 107/2024. (V. 9.) Korm. rendelet 20. §-a, a 198/2025. (VII. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^33]: A 10. § (3) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 128. § b) pontja hatályon kívül helyezte.
 [^34]: A 10. § (3a) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 128. § c) pontja szerint módosított szöveg.
 [^35]: A 10. § (3b) bekezdését a 35/2020. (III. 5.) Korm. rendelet 4. § (1) bekezdése iktatta be.
