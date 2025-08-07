@@ -48,6 +48,6 @@
 
 ## (19) A hatóság a (17) és (18) bekezdésben meghatározott döntését a kérelmező pénzügyi intézmény részére történő megküldéssel egyidejűleg megküldi a kezdeményező, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az MNB részére.”
 
-9. § Az 52/2012. (III. 28.) Korm. rendelet 15. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+9. §[^9]
 
-[Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. § (2) bekezdése figyelembevételével a kormányhivatal:]
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

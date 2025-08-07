@@ -1,9 +1,3 @@
-11. § Az 52/2012. (III. 28.) Korm. rendelet
+11. §[^11]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 2. melléklete a 2. melléklet szerint,
-
-c) 3. melléklete a 3. melléklet szerint
-
-módosul.
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
