@@ -2,6 +2,6 @@
 
 ## [2] A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 172. § (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A minősített piaci szereplők jegyzékének alkalmazásával összefüggő szabályokról szóló 3/2024. (V. 31.) MK rendelet (a továbbiakban: R.) 1. §-a a következő e) ponttal egészül ki:
+1. §[^2]
 
-(A minősített piaci szereplők jegyzékét a következő gazdasági szektorokat érintő beszerzési tárgyak esetében kell alkalmazni:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
