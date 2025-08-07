@@ -1,4 +1,4 @@
-## 16/A.[^267] Az európai uniós ügyekért felelős miniszter feladat- és hatásköre
+## 16/A.[^269] Az európai uniós ügyekért felelős miniszter feladat- és hatásköre
 
 183/A. § (1) Az európai uniós ügyekért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
@@ -28,4 +28,4 @@ tekintetében a Kormány igazságügyért felelős tagja.
 
 (3) A miniszter a (2) bekezdés c)–f) pontja szerinti felelősségi körében tájékoztatásul kapott végzésről – annak egyidejű továbbítása mellett – értesíti az igazságügyi minisztert.
 
-[^267]: A 16/A. alcímet (183/A-183/D. §-t) a 314/2023. (VII. 17.) Korm. rendelet 18. §-a iktatta be.
+[^269]: A 16/A. alcímet (183/A-183/D. §-t) a 314/2023. (VII. 17.) Korm. rendelet 18. §-a iktatta be.

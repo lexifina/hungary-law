@@ -14,7 +14,7 @@ e) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság �
 
 f) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján ellátja az állami vagyon értékesítésére szolgáló elektronikus árverési rendszer működtetésével, az elektronikus árverési rendszer keretében történő értékesítéssel összefüggő feladatokat.
 
-(3)[^156] A miniszter az állami vagyon felügyeletéért és az állami vagyonnal való gazdálkodás szabályozásáért való felelőssége keretében
+(3)[^158] A miniszter az állami vagyon felügyeletéért és az állami vagyonnal való gazdálkodás szabályozásáért való felelőssége keretében
 
 a) a Kormány erre vonatkozó, kormányrendeletben meghozott döntése esetén ellátja a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdése szerinti, a pályázat kiírására [a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti koncessziós beszerzési eljárás lefolytatására], elbírálására (a Kbt. szerinti koncessziós beszerzési eljárás eredményéről szóló döntés meghozatalára), ajánlattételi felhívásra, ajánlattételi eljárás, valamint a Ktv. 10/A. §-a szerinti eljárás lefolytatására vonatkozó feladatokat, és megköti a koncessziós szerződést (koncessziót), továbbá ellátja a koncessziós szerződés (koncesszió) módosítására és megszüntetésére vonatkozó feladatokat,
 
@@ -22,4 +22,4 @@ b) a koncessziós beszerzési tevékenység szerint illetékes ágazati miniszte
 
 c) ellátja a koncesszió jogi szabályozásával kapcsolatos feladatokat.
 
-[^156]: A 110. § (3) bekezdését a 21/2025. (II. 24.) Korm. rendelet 9. §-a iktatta be.
+[^158]: A 110. § (3) bekezdését a 21/2025. (II. 24.) Korm. rendelet 9. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 19. Gazdasági Kabinet
 
-188. §[^285] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+188. §[^287] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az adópolitikáért,
 
@@ -54,7 +54,7 @@
 
 26. a halgazdálkodásért,
 
-27.[^286] a hulladékgazdálkodási közszolgáltatási és hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díj megállapításáért,
+27.[^288] a hulladékgazdálkodási közszolgáltatási és hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díj megállapításáért,
 
 28. a hulladékgazdálkodásért,
 
@@ -124,7 +124,7 @@
 
 61. a turizmusért,
 
-62.[^287] az űriparfejlesztésért és űrtechnológiákért,
+62.[^289] az űriparfejlesztésért és űrtechnológiákért,
 
 63. a vadgazdálkodásért,
 
@@ -146,9 +146,9 @@ c) a Kormány ügyrendjéről szóló 1352/2022. (VII. 21.) Korm. határozat 15.
 
 (3) A Gazdasági Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amely napirendre felvételét a Gazdasági Kabinet elnöke kéri.
 
-(4)[^288] A Gazdasági Kabinet üléseit a nemzetgazdasági miniszter vezeti.
+(4)[^290] A Gazdasági Kabinet üléseit a nemzetgazdasági miniszter vezeti.
 
-[^285]: A 188. § az 531/2023. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^286]: A 188. § (1) bekezdés 27. pontja a 675/2023. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^287]: A 188. § (1) bekezdés 62. pontja a 172/2024. (VII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^288]: A 188. § (4) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^287]: A 188. § az 531/2023. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^288]: A 188. § (1) bekezdés 27. pontja a 675/2023. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^289]: A 188. § (1) bekezdés 62. pontja a 172/2024. (VII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^290]: A 188. § (4) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 39. §-ával megállapított szöveg.

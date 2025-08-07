@@ -1,12 +1,12 @@
-## 9.[^128] A nemzetgazdasági miniszter feladat- és hatásköre
+## 9.[^130] A nemzetgazdasági miniszter feladat- és hatásköre
 
-103. § (1)[^129] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+103. § (1)[^131] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. nemzeti pénzügyi szolgáltatásokért,
 
 2. pénz-, tőke- és biztosítási piac szabályozásáért,
 
-3.[^130] a nemzetközi pénzügyi kapcsolatokért,
+3.[^132] a nemzetközi pénzügyi kapcsolatokért,
 
 4. gazdaságfejlesztésért,
 
@@ -30,7 +30,7 @@
 
 14. vállalkozásfejlesztésért,
 
-15.[^131] űriparfejlesztésért és űrtechnológiákért,
+15.[^133] űriparfejlesztésért és űrtechnológiákért,
 
 16. turizmusért,
 
@@ -38,33 +38,33 @@
 
 18. kereskedelemért (a továbbiakban: belföldi kereskedelemért),
 
-19.[^132] harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
+19.[^134] harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
 
-20.[^133] fogyasztóvédelemért
+20.[^135] fogyasztóvédelemért
 
-21.[^134] adópolitikáért,
+21.[^136] adópolitikáért,
 
-22.[^135] államháztartásért,
+22.[^137] államháztartásért,
 
-23.[^136] költségvetés makrogazdasági megalapozásáért,
+23.[^138] költségvetés makrogazdasági megalapozásáért,
 
-24.[^137] számviteli szabályozásért,
+24.[^139] számviteli szabályozásért,
 
-25.[^138] lakáscélú állami támogatásokért,
+25.[^140] lakáscélú állami támogatásokért,
 
-26.[^139] egészségbiztosítási járulékfizetés szabályozásáért,
+26.[^141] egészségbiztosítási járulékfizetés szabályozásáért,
 
-27.[^140] nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
+27.[^142] nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
 
-28.[^141] nyugdíjpolitikáért
+28.[^143] nyugdíjpolitikáért
 
-29.[^142] szerencsejáték szabályozásért
+29.[^144] szerencsejáték szabályozásért
 
 felelős tagja.
 
-(2)[^143] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+(2)[^145] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
-(3)[^144] A Kormány
+(3)[^146] A Kormány
 
 a) a számvitelről szóló törvény szerinti könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezetként, valamint a könyvviteli szolgáltatást végzők tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként,
 
@@ -76,23 +76,23 @@ d) az uniós vámjog végrehajtásáról szóló törvény szerinti, a vámjogi 
 
 a minisztert jelöli ki.
 
-(4)[^145] A Kormány a Nemzeti Adó- és Vámhivatal vezetője feladat- és hatáskörének gyakorlójaként a miniszter által vezetett minisztérium Nemzeti Adó- és Vámhivatal vezetéséért felelős államtitkárát jelöli ki.
+(4)[^147] A Kormány a Nemzeti Adó- és Vámhivatal vezetője feladat- és hatáskörének gyakorlójaként a miniszter által vezetett minisztérium Nemzeti Adó- és Vámhivatal vezetéséért felelős államtitkárát jelöli ki.
 
-[^128]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
-[^129]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^130]: A 103. § (1) bekezdés 3. pontja a 440/2024. (XII. 23.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^131]: A 103. § (1) bekezdés 15. pontja a 172/2024. (VII. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^132]: A 103. § (1) bekezdés 19. pontja a 172/2024. (VII. 2.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
-[^133]: A 103. § (1) bekezdés 20. pontját a 172/2024. (VII. 2.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^134]: A 103. § (1) bekezdés 21. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^135]: A 103. § (1) bekezdés 22. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^136]: A 103. § (1) bekezdés 23. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^137]: A 103. § (1) bekezdés 24. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^138]: A 103. § (1) bekezdés 25. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^139]: A 103. § (1) bekezdés 26. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^140]: A 103. § (1) bekezdés 27. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^141]: A 103. § (1) bekezdés 28. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^142]: A 103. § (1) bekezdés 29. pontját a 21/2025. (II. 24.) Korm. rendelet 8. §-a iktatta be.
-[^143]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^144]: A 103. § (3) bekezdését újonnan a 440/2024. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^145]: A 103. § (4) bekezdését a 440/2024. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^130]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^131]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^132]: A 103. § (1) bekezdés 3. pontja a 440/2024. (XII. 23.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^133]: A 103. § (1) bekezdés 15. pontja a 172/2024. (VII. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^134]: A 103. § (1) bekezdés 19. pontja a 172/2024. (VII. 2.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^135]: A 103. § (1) bekezdés 20. pontját a 172/2024. (VII. 2.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^136]: A 103. § (1) bekezdés 21. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^137]: A 103. § (1) bekezdés 22. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^138]: A 103. § (1) bekezdés 23. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^139]: A 103. § (1) bekezdés 24. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^140]: A 103. § (1) bekezdés 25. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^141]: A 103. § (1) bekezdés 26. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^142]: A 103. § (1) bekezdés 27. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^143]: A 103. § (1) bekezdés 28. pontját a 440/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^144]: A 103. § (1) bekezdés 29. pontját a 21/2025. (II. 24.) Korm. rendelet 8. §-a iktatta be.
+[^145]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^146]: A 103. § (3) bekezdését újonnan a 440/2024. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^147]: A 103. § (4) bekezdését a 440/2024. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-177/C. §[^236] A miniszter az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
+177/C. §[^238] A miniszter az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
 
 a) gondoskodik az e-közigazgatás és az e-közigazgatási szolgáltatások általános elvi alapjai meghatározásáról,
 
@@ -22,4 +22,4 @@ j) egyetértési jogot gyakorol a nemzeti adatvagyon- és szoftverlicenc-gazdál
 
 k) felügyeli a nemzeti adatvagyon- és szoftverlicenc-gazdálkodás megvalósítását.
 
-[^236]: A 177/C. §-t a 21/2025. (II. 24.) Korm. rendelet 16. §-a iktatta be.
+[^238]: A 177/C. §-t a 21/2025. (II. 24.) Korm. rendelet 16. §-a iktatta be.

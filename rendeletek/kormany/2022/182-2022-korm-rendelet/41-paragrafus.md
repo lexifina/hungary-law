@@ -1,3 +1,3 @@
-41. §[^53]
+41. §[^54]
 
-[^53]: A 41. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.
+[^54]: A 41. §-t a 21/2025. (II. 24.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.

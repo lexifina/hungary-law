@@ -8,7 +8,7 @@ c) a termesztésben alkalmazható növény- és állatfajtákra, a növényterme
 
 d) a termelők szerveződésére,
 
-e)[^66] – a 139/A. §-ban foglalt kivétellel – a közösségi agrármarketingre,
+e)[^68] – a 139/A. §-ban foglalt kivétellel – a közösségi agrármarketingre,
 
 f) a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarára
 
@@ -24,7 +24,7 @@ c) ellátja a mezőgazdasági genetikai erőforrásokkal kapcsolatos, jogszabál
 
 d) gondoskodik a mezőgazdaságot ért rendkívüli és tömeges elemi károk kezeléséről, ellátja a mezőgazdasági vízhasznosítással kapcsolatos kormányzati feladatokat,
 
-e)[^67] ellátja az ágazat finanszírozását végző pénzintézetekkel és kezességvállaló intézményekkel kapcsolatos kormányzati feladatokat, működteti az agrárgazdasághoz – kivéve az Agrár Széchenyi Kártya Konstrukciókat – kapcsolódó hitel- és garanciaprogramokat,
+e)[^69] ellátja az ágazat finanszírozását végző pénzintézetekkel és kezességvállaló intézményekkel kapcsolatos kormányzati feladatokat, működteti az agrárgazdasághoz – kivéve az Agrár Széchenyi Kártya Konstrukciókat – kapcsolódó hitel- és garanciaprogramokat,
 
 f) ellátja a nemzetközi és az európai kötelezettségeken alapuló, nemzeti szabványosítással és az akkreditálással összefüggő feladatokat,
 
@@ -52,7 +52,7 @@ b) az EMGA, EMVA, ETHA és EHA források tervezésével és felhasználásával 
 
 c) a KAP Stratégiai Terv támogatási intézkedései, a szükséges jogszabályok és pályázati felhívások elkészítését, módosítását,
 
-d)[^68] e feladatok végrehajtásban részt vevő intézményi keretek kialakítását, az abban részt vevő szervezetek munkájának irányítását, a fővárosi és vármegyei kormányhivatalok az Európai Unió közös agrárpolitikája vonatkozásában végzett tevékenységének szakmai irányítását,
+d)[^70] e feladatok végrehajtásban részt vevő intézményi keretek kialakítását, az abban részt vevő szervezetek munkájának irányítását, a fővárosi és vármegyei kormányhivatalok az Európai Unió közös agrárpolitikája vonatkozásában végzett tevékenységének szakmai irányítását,
 
 e) a KAP végrehajtását támogató hálózat kialakítását és működtetését,
 
@@ -62,6 +62,6 @@ g) a KAP keretében, valamint a kizárólag hazai forrásból nyújtott agrár- 
 
 h) ellátja a mezőgazdasági ismeretek és innovációk rendszerének (AKIS) kialakításával és koordinálásával összefüggő feladatokat.
 
-[^66]: Az 55. § (1) bekezdés e) pontja a 21/2025. (II. 24.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^67]: Az 55. § (2) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^68]: Az 55. § (3) bekezdés d) pontja a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^68]: Az 55. § (1) bekezdés e) pontja a 21/2025. (II. 24.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^69]: Az 55. § (2) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^70]: Az 55. § (3) bekezdés d) pontja a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

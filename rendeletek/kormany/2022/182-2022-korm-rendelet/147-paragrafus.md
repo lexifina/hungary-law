@@ -1,3 +1,3 @@
-147. §[^204]
+147. §[^206]
 
-[^204]: A 147. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
+[^206]: A 147. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.

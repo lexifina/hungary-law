@@ -1,3 +1,3 @@
-9/A. §[^11]
+9/A. §[^12]
 
-[^11]: A 9/A. §-t a 172/2024. (VII. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 21/2025. (II. 24.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^12]: A 9/A. §-t a 172/2024. (VII. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 21/2025. (II. 24.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.

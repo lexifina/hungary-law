@@ -6,7 +6,7 @@ a) az Alaptörvény keretei között meghatározza a kormányzati szervezetalak�
 
 b) kizárólagosan jogosult a Kormány részére előterjesztést benyújtani a Kormány tagjainak feladat- és hatáskörét szabályozó kormányrendelet elfogadására és módosítására,
 
-c)[^1] bármely miniszter, közigazgatási államtitkár, államtitkár és helyettes államtitkár, valamint a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója (a továbbiakban együtt: állami vezető) számára feladatot határozhat meg,
+c)[^2] bármely miniszter, közigazgatási államtitkár, államtitkár és helyettes államtitkár, valamint a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója (a továbbiakban együtt: állami vezető) számára feladatot határozhat meg,
 
 d) bármely állami vezetőt a feladat- és hatáskörébe tartozó kérdésekről jelentéstételre vagy beszámolóra kötelezhet,
 
@@ -22,7 +22,7 @@ i) átfogó megközelítést igénylő ügyekben javaslatot tesz, illetve előte
 
 j) képviselője útján részt vesz a Kormány más tagja által szervezett miniszteri értekezleten,
 
-k)[^2] aláírja a Kormánynak, a Stratégiai Kabinetnek, a Gazdasági Kabinetnek, a Nemzetpolitikai Kabinetnek (a továbbiakban együtt: Kabinet), a Védelmi Tanácsnak a Miniszterelnöki Kormányiroda közigazgatási államtitkára által írásba foglalt és részére felterjesztett döntéseit,
+k)[^3] aláírja a Kormánynak, a Stratégiai Kabinetnek, a Gazdasági Kabinetnek, a Nemzetpolitikai Kabinetnek (a továbbiakban együtt: Kabinet), a Védelmi Tanácsnak a Miniszterelnöki Kormányiroda közigazgatási államtitkára által írásba foglalt és részére felterjesztett döntéseit,
 
 l) aláírja a Kormány feladat- és hatáskörét érintő egyéb, a Miniszterelnöki Kormányiroda közigazgatási államtitkára által írásba foglalt és részére felterjesztett döntéseket, ideértve azon döntéseket is, amelyek előkészítése nem tartozik a Kormány valamely más tagjának feladat- és hatáskörébe,
 
@@ -30,5 +30,5 @@ m) aláírja az állami vezetők politikai szolgálati vagy kormányzati szolgá
 
 (3) A miniszterelnök meghatározza a kormányzás általános irányait, ennek érdekében szervezi a Kormány mint testület munkáját, megállapítja a miniszterek között kialakított belső munkamegosztást.
 
-[^1]: A 3. § (2) bekezdés c) pontja az 57/2024. (III. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^2]: A 3. § (2) bekezdés k) pontja az 531/2023. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés c) pontja az 57/2024. (III. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdés k) pontja az 531/2023. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.

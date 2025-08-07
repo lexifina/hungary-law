@@ -1,4 +1,4 @@
-171. §[^227] A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
+171. §[^229] A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
 
 a) a vízgazdálkodásra,
 
@@ -28,4 +28,4 @@ m) a víziközmű-szolgáltatás gazdálkodói tevékenységen kívüli szabály
 
 vonatkozó jogszabályokat.
 
-[^227]: A 171. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 172/2024. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^229]: A 171. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 172/2024. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.

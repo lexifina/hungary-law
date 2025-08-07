@@ -1,4 +1,4 @@
-111/J. §[^168] (1) A miniszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért való felelőssége keretében előkészíti a harmadik országbeli állampolgárok magyarországi foglalkoztatására, annak engedélyezésére és a harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő jogsértések szankcionálására vonatkozó jogszabályokat.
+111/J. §[^170] (1) A miniszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért való felelőssége keretében előkészíti a harmadik országbeli állampolgárok magyarországi foglalkoztatására, annak engedélyezésére és a harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő jogsértések szankcionálására vonatkozó jogszabályokat.
 
 (2) A miniszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért való felelőssége keretében
 
@@ -14,4 +14,4 @@ e) kapcsolatot tart a hazai és határon túli civil szervezetekkel, érdekképv
 
 f) megszervezi és az állami foglalkoztatási szerv közreműködésével működteti a harmadik országbeli állampolgárok magyarországi foglalkoztatásának rendszerét, meghatározza a harmadik országbeli állampolgárok magyarországi foglalkoztatásának eszközrendszerét, elemzi és ellenőrzi annak működését, a harmadik országbeli állampolgárok magyarországi foglalkoztatása tekintetében szakmai irányító miniszteri jogokat gyakorol az állami foglalkoztatási szerv tevékenysége felett.
 
-[^168]: A 111/J. §-t az 599/2023. (XII. 22.) Korm. rendelet 26. §-a iktatta be.
+[^170]: A 111/J. §-t az 599/2023. (XII. 22.) Korm. rendelet 26. §-a iktatta be.

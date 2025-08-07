@@ -6,6 +6,6 @@ a) kialakítja és végrehajtja a Kormány közbeszerzési politikáját,
 
 b) ellátja a közbeszerzések központi ellenőrzésével és engedélyezésével kapcsolatos feladatokat.
 
-(3)[^255] A miniszter a közbeszerzésekért való felelősségi körébe tartozó feladatokat a Nemzeti Fejlesztési Központ útján látja el.
+(3)[^257] A miniszter a közbeszerzésekért való felelősségi körébe tartozó feladatokat a Nemzeti Fejlesztési Központ útján látja el.
 
-[^255]: A 181. § (3) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 77. §-a iktatta be.
+[^257]: A 181. § (3) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 77. §-a iktatta be.

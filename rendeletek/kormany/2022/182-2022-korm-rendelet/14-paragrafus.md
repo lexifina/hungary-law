@@ -1,3 +1,3 @@
-14. §[^16]
+14. §[^17]
 
-[^16]: A 14. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^17]: A 14. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.

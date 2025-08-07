@@ -8,7 +8,7 @@ c) a tűz elleni védekezéssel kapcsolatos feladatokra,
 
 d) az ipari balesetek megelőzésére és elhárítására, valamint az országhatáron túli hatással járó ipari balesetek nemzetközi értesítési és kölcsönös segítségnyújtási rendszerére,
 
-e)[^98] a kritikus szervezetekkel és kritikus infrastruktúrákkal, valamint az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos feladatokra
+e)[^100] a kritikus szervezetekkel és kritikus infrastruktúrákkal, valamint az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos feladatokra
 
 vonatkozó jogszabályokat.
 
@@ -24,4 +24,4 @@ d) irányítja a védelmi igazgatás – feladat- és hatáskörébe tartozó �
 
 e) gondoskodik a földtani veszélyhelyzet megelőzésével és elhárításával kapcsolatos feladatok ellátásáról.
 
-[^98]: A 72. § (1) bekezdés e) pontja a 474/2024. (XII. 31.) Korm. rendelet 164. §-ával megállapított szöveg.
+[^100]: A 72. § (1) bekezdés e) pontja a 474/2024. (XII. 31.) Korm. rendelet 164. §-ával megállapított szöveg.

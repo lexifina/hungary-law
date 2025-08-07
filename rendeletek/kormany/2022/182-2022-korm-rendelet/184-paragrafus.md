@@ -12,9 +12,9 @@ d) az agrárminiszter esetében az AM,
 
 e) a belügyminiszter esetében a BM,
 
-f)[^271] az építési és közlekedési miniszter esetében az ÉKM,
+f)[^273] az építési és közlekedési miniszter esetében az ÉKM,
 
-g)[^272] a nemzetgazdasági miniszter esetében az NGM,
+g)[^274] a nemzetgazdasági miniszter esetében az NGM,
 
 h) a honvédelmi miniszter esetében a HM,
 
@@ -24,19 +24,19 @@ j) a kultúráért és innovációért felelős miniszter esetében a KIM,
 
 k) a külgazdasági és külügyminiszter esetében a KKM,
 
-l)[^273]
+l)[^275]
 
-m)[^274] az energiaügyi miniszter esetében az EM,
+m)[^276] az energiaügyi miniszter esetében az EM,
 
-n)[^275] a közigazgatási és területfejlesztési miniszter esetében a KTM,
+n)[^277] a közigazgatási és területfejlesztési miniszter esetében a KTM,
 
-o)[^276] az európai uniós ügyekért felelős miniszter esetében az EUM
+o)[^278] az európai uniós ügyekért felelős miniszter esetében az EUM
 
 rövid megjelölést kell alkalmazni.
 
-[^271]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
-[^272]: A 184. § g) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^273]: A 184. § l) pontját a 440/2024. (XII. 23.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
-[^274]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
-[^275]: A 184. § n) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
-[^276]: A 184. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 19. §-a iktatta be.
+[^273]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
+[^274]: A 184. § g) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^275]: A 184. § l) pontját a 440/2024. (XII. 23.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^276]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
+[^277]: A 184. § n) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^278]: A 184. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 19. §-a iktatta be.
