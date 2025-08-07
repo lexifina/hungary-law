@@ -10,8 +10,6 @@
 
 ## 1. Az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet módosítása
 
-1. § Az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 378/2016. (XII. 2.) Korm. rendelet] 37/D. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„37/D. § (1) A Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Várkapitányság Zrt.) a Budavári Korlátolt Felelősségű Társaság (a továbbiakban: Budavári Kft.) és a Várgondnokság Közhasznú Nonprofit Korlátolt Felelősségű Társaság 2018. december 31-ével bekövetkezett összeolvadásával mint általános és egyetemleges jogutód látja el közfeladatként a Budapest I. kerület, Színház utca 1–3. és 5–11. szám alatti ingatlan tekintetében az ingatlanüzemeltetési és létesítménygazdálkodási feladatokat.
-
-(2) A Várkapitányság Zrt. a Budavári Kft. és a Várgondnokság Közhasznú Nonprofit Korlátolt Felelősségű Társaság 2018. december 31-ével bekövetkezett összeolvadásával mint általános és egyetemleges jogutód látja el közfeladatként a Budapest I. kerület, Úri utca 45. szám alatti ingatlan tekintetében a vagyonkezelési feladatokat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

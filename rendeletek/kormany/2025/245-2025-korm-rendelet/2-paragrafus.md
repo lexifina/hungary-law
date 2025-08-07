@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 378/2016. (XII. 2.) Korm. rendelet 37/E. §-a.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

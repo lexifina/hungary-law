@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 313/2018. (XII. 27.) Korm. rendelet 5. § (1) bekezdés g) pontjában a „valamint” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
