@@ -1,4 +1,4 @@
-13. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^80]
+13. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^82]
 
 Az eredményességi támogatásra jogosult utánpótlás korosztály
 
@@ -16,7 +16,7 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 6. | Breaktánc | ifjúsági korosztály | ifjúsági korosztály | adott évben tölti be a 16., 17., 18. életévét |
 
-| 7. | Kerékpár/BMX | U19 kategória[^81] | U19 kategória[^82] |  |
+| 7. | Kerékpár/BMX | U19 kategória[^83] | U19 kategória[^84] |  |
 
 | 8. | Csúszókorong (Curling) | nincs | junior (U21) |  |
 
@@ -58,7 +58,7 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 27. | Lovaglás | díjugratás – fiatal lovas (junior 19–21 évesek) díjlovaglás – fiatal lovas (junior 19–21 évesek) lovastusa (military) – fiatal lovas (junior 19–21 évesek) | nincs |  |
 
-| 28. | Kerékpár / Hegyi Kerékpár | U19 kategória[^83] | U19 kategória |  |
+| 28. | Kerékpár / Hegyi Kerékpár | U19 kategória[^85] | U19 kategória |  |
 
 | 29. | Műugrás | ifjúsági A (16–18 évesek) | ifjúsági A (16–18 évesek) |  |
 
@@ -120,7 +120,7 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 58. | Vízilabda | U19 | U20 |  |
 
-[^80]: A 13. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^81]: A 13. mellékletben foglalt táblázat B:7 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
-[^82]: A 13. mellékletben foglalt táblázat C:7 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
-[^83]: A 13. mellékletben foglalt táblázat B:28 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 18. pontja szerint módosított szöveg.
+[^82]: A 13. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^83]: A 13. mellékletben foglalt táblázat B:7 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
+[^84]: A 13. mellékletben foglalt táblázat C:7 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
+[^85]: A 13. mellékletben foglalt táblázat B:28 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 18. pontja szerint módosított szöveg.

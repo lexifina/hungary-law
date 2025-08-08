@@ -8,14 +8,14 @@
 
 (4)[^47]
 
-(5)[^48] Az edzők és más sportszakemberek részére világbajnokság, Európa-bajnokság esetén megállapítható eredményességi jutalmak összege a sportágban a versenyzőknek a 10. vagy 11. melléklet szerint világbajnokság, Európa-bajnokság esetén nyújtható eredményességi jutalmak összegének ötven százaléka, triatlon és öttusa sportágban hetven százaléka lehet.
+(5)[^48] Az edzők, nevelőedzők és más sportszakemberek részére világbajnokság, Európa-bajnokság esetén megállapítható eredményességi jutalmak összege a sportágban a versenyzőknek a 10. vagy 11. melléklet szerint világbajnokság, Európa-bajnokság esetén nyújtható eredményességi jutalmak összegének ötven százaléka, triatlon és öttusa sportágban hetven százaléka lehet.
 
-(6)[^49]
+(6)[^49] A nevelőedző részére kifizethető eredményességi jutalom összege az őt megjelölő versenyző részére kifizetett eredményességi jutalom összegének tíz százaléka lehet.
 
 [^43]: A 6. § (1) bekezdése a 294/2015. (X. 8.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg, a 151/2024. (VI. 28.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
 [^44]: A 6. § (1a) bekezdését a 294/2015. (X. 8.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 16. § 14. pontja szerint módosított szöveg.
 [^45]: A 6. § (2) bekezdése a 177/2025. (VI. 30.) Korm. rendelet 16. § 15. pontja szerint módosított szöveg.
 [^46]: A 6. § (3) bekezdését az 566/2020. (XII. 8.) Korm. rendelet 9. §-a hatályon kívül helyezte.
 [^47]: A 6. § (4) bekezdését a 294/2015. (X. 8.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
-[^48]: A 6. § (5) bekezdése a 177/2025. (VI. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^49]: A 6. § (6) bekezdését a 151/2024. (VI. 28.) Korm. rendelet 15. §-a iktatta be, újonnan a 177/2025. (VI. 30.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^48]: A 6. § (5) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^49]: A 6. § (6) bekezdését újonnan a 251/2025. (VIII. 7.) Korm. rendelet 19. § (3) bekezdése iktatta be.
