@@ -22,7 +22,7 @@
 
 3. melléklet az 1/2018. (VI. 21.) AM rendelethez
 
-## Szolgálati igazolvány
+Szolgálati igazolvány
 
 1. Az élelmiszer-rendész szolgálati igazolványa a Rendészeti tv. 10. § (2) bekezdésében meghatározott adattartalommal rendelkező, az ISO 7810 (1995) vagy azzal egyenértékű szabványnak megfelelő, ID-1 méretű, többrétegű, melegen laminált, műanyag kártya, amely megfelel az „A” okmányvédelmi kategóriának.
 

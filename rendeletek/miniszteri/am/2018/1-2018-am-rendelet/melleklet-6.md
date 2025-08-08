@@ -1,5 +1,3 @@
-## Szolgálati jelvény
-
 ## Az élelmiszer-rendész szolgálati jelvénye ovális alakú, 80 mm magas és 60 mm széles, műgyanta felülettel ellátott fémlemez, bőr alátéten. Az ovális pereme 3,5 mm szélességben ezüstszínű. A pajzson belül az egyes elemek fekete alapon helyezkednek el. A felső perem ívét követi az „ÉLELMISZER-RENDÉSZ” felirat, amely fehér színű Calibri Bold betűtípus nagybetűs változatával szedett, alatta az új logónak megfelelő fehér-zöld színű „nébih” felirat helyezkedik el, amelynek magassága 8 mm. A felirat alatt elhelyezkedő szárnyait széttáró héja (Accipiter gentilis), amelynek színe barna és szélessége 38 mm, magassága 24 mm. Karmai alatt balról jobbra keskenyedő formában bal felől 3 mm-es, jobb felől 0 mm-es piros, bal felől 3 mm-es, jobb felől 0 mm-es fehér, bal felől 3 mm-es, jobb felől 0 mm-es zöld színű sávok helyezkednek el. A nemzeti színű sávok találkozásánál aranyszínű, 18 mm átmérőjű háromnegyedes napkorong. A nemzeti színű sávok alatt helyezkedik el az egyedi azonosító, amely 5 mm magasságú. A hat számjegyű egyedi azonosító részére a jelvény alsó részén kialakított szám mezőbe az azonosító számok véséssel kerülnek kialakításra. Az azonosító számokat galvanizálás után fehér színre kell kifesteni.
 
 6. melléklet az 1/2018. (VI. 21.) AM rendelethez
@@ -86,6 +84,8 @@ II.
 
 | 8. | Rádiótartó tok | 1 db | – |
 
+| 9.[^3] | Védőszemüveg | 1 db | – |
+
 III.
 
 |  | A | B | C |
@@ -99,3 +99,5 @@ III.
 | 3. | Többfunkciós kés (LEATHERMAN) | 1 db | – |
 
 | 4. | Kutatóbot teleszkópos nyéllel | 1 db | – |
+
+[^3]: A 6. melléklet II. pontjában foglalt táblázat 9. sorát a 35/2025. (VII. 31.) AM rendelet 3. §-a iktatta be.
