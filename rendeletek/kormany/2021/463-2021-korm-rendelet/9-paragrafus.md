@@ -8,6 +8,6 @@ c) a honvédelmi ismeretek tantárgyat a pályázat benyújtásának félévébe
 
 (2) A pályázó esélyegyenlőségi ösztöndíjra jogosultságát nem zárja ki, ha a pályázó egyidejűleg más ösztöndíjra is jogosult.
 
-(3)[^6] Az esélyegyenlőségi ösztöndíjban nem részesülhet a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdése szerinti honvéd.
+(3)[^7] Az esélyegyenlőségi ösztöndíjban nem részesülhet a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdése szerinti honvéd.
 
-[^6]: A 9. § (3) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^7]: A 9. § (3) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 25. §-a szerint módosított szöveg.
