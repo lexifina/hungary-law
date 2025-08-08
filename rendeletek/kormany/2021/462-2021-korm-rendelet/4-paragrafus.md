@@ -1,7 +1,9 @@
-## 4. § A honvéd kadét ösztöndíj havi mértéke a 9. évfolyam második félévétől kezdődően és a további félévekben, ha a honvéd kadét tanulmányi átlageredménye
+4. §[^5] A honvéd kadét ösztöndíj havi mértéke a HKP csatlakozott középiskolában a 9. évfolyam második félévétől kezdődően és a további félévekben
 
-a) 3,50–3,99 között van, a honvéd kadét ösztöndíj alapjának 7%-a,
+a) huszonegyezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-b) 4,00–4,49 között van, a honvéd kadét ösztöndíj alapjának 13%-a,
+b) harmincnyolcezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-c) 4,50–5,00 között van, a honvéd kadét ösztöndíj alapjának 20%-a.
+c) ötvenkilencezer forint, ha a tanulmányi átlageredmény 4,49 fölött van.
+
+[^5]: A 4. § a 251/2025. (VIII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
