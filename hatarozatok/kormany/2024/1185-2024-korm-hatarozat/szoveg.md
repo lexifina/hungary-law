@@ -12,39 +12,59 @@ c) véleményezi a fogyatékos embereket érintő jogszabálytervezetek kidolgoz
 
 d) részt vesz az Országos Fogyatékosságügyi Program előkészítésében, és nyomon követi annak végrehajtását.
 
-4. A Bizottság állandó tagja
+4.[^1] A Bizottság állandó tagja
 
-a) az igazságügyért,
+4.1. az igazságügyért,
 
-b) az egészségügyért,
+4.2. az egészségügyért,
 
-c) a köznevelésért,
+4.3. a köznevelésért,
 
-d) a felsőoktatásért,
+4.4. a felsőoktatásért,
 
-e) a foglalkoztatáspolitikáért,
+4.5. a foglalkoztatáspolitikáért,
 
-f) a közlekedésért,
+4.6. a közlekedésért,
 
-g) az építésügyi szabályozásért és építéshatósági ügyekért,
+4.7. az építésügyi szabályozásért és építéshatósági ügyekért,
 
-h) az európai uniós források felhasználásáért,
+4.8. az európai uniós források felhasználásáért,
 
-i) a családpolitikáért,
+4.9. a családpolitikáért,
 
-j) az államháztartásért és
+4.10. az államháztartásért,
 
-k) a szociálpolitikáért
+4.11. a szociálpolitikáért,
 
-felelős miniszter által megbízott politikai vagy szakmai felsővezető, valamint
+4.12. az e-közigazgatásért,
 
-l) a kiemelt társadalompolitikai ügyekben a miniszterelnök munkájának támogatásáért felelős miniszterelnöki biztos.
+4.13. az informatikáért,
+
+4.14. az e-közigazgatási és informatikai fejlesztések egységesítéséért,
+
+4.15. az audiovizuális politikáért,
+
+4.16. az elektronikus hírközlésért,
+
+4.17. az energiapolitikáért,
+
+4.18. a felnőttképzésért,
+
+4.19. a szakképzésért
+
+felelős miniszter által megbízott politikai vagy szakmai felsővezető.
+
+4a.[^2] A Bizottság állandó tagja
+
+a) a kiemelt társadalompolitikai ügyekben a miniszterelnök munkájának támogatásáért felelős miniszterelnöki biztos,
+
+b) a pedagógiai innovációk előmozdításáért és a családbarát oktatási környezet erősítéséért felelős miniszterelnöki biztos.
 
 5. A Bizottság eseti tagja
 
-a) a felnőttképzésért,
+a)[^3]
 
-b) a szakképzésért,
+b)[^4]
 
 c) a kultúráért,
 
@@ -52,7 +72,7 @@ d) a turizmusért,
 
 e) a sportpolitikáért,
 
-f) az e-közigazgatási és informatikai fejlesztések egységesítéséért,
+f)[^5]
 
 g) a rendészetért,
 
@@ -100,6 +120,11 @@ b) a tagok által megbízott szakmai vezetőkből álló munkacsoportot.
 
 22. Ez a határozat a közzétételét követő napon lép hatályba.
 
-23.[^1]
+23.[^6]
 
-[^1]: A 23. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont az 1287/2025. (VIII. 7.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 4a. pontot az 1287/2025. (VIII. 7.) Korm. határozat 10. pontja iktatta be.
+[^3]: Az 5. pont a) alpontját az 1287/2025. (VIII. 7.) Korm. határozat 11. pontja hatályon kívül helyezte.
+[^4]: Az 5. pont b) alpontját az 1287/2025. (VIII. 7.) Korm. határozat 11. pontja hatályon kívül helyezte.
+[^5]: Az 5. pont f) alpontját az 1287/2025. (VIII. 7.) Korm. határozat 11. pontja hatályon kívül helyezte.
+[^6]: A 23. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
