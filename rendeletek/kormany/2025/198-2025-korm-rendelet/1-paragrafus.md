@@ -14,4 +14,6 @@
 
 ## 1. A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet módosítása
 
-1. § A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet 10. § (2a) bekezdésében a „mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény” szövegrész helyébe a „mezőgazdasági célú felszín alatti vízkivételt biztosító vízilétesítmény és a hozzá kapcsolódó öntözőtelep” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
