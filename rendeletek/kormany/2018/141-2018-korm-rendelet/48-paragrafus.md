@@ -1,4 +1,4 @@
-## 47. §[^334] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 600/2020. (XII. 17.) Korm. rendelettel (a továbbiakban: Módr39.) megállapított 2. mellékletben foglalt táblázat 55. sorát a Módr39. hatálybalépésekor[^335] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 47. §[^337] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 600/2020. (XII. 17.) Korm. rendelettel (a továbbiakban: Módr39.) megállapított 2. mellékletben foglalt táblázat 55. sorát a Módr39. hatálybalépésekor[^338] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^334]: A 47. §-t a 600/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^335]: A hatálybalépés időpontja 2020. december 18.
+[^337]: A 47. §-t a 600/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^338]: A hatálybalépés időpontja 2020. december 18.

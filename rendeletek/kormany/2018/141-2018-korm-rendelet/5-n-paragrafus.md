@@ -1,12 +1,12 @@
-5/N. §[^85] (1) A 2. mellékletben foglalt táblázat 108. sora szerinti beruházással érintett ingatlanokon a beépítés egyedi szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/N. §[^87] (1) A 2. mellékletben foglalt táblázat 108. sora szerinti beruházással érintett ingatlanokon a beépítés egyedi szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
-a)[^86] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a)[^88] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b)[^87] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^89] amennyiben a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
-(2)[^88] A 2. mellékletben foglalt táblázat 108. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:108 mezőjében megjelölt helyrajzi számú földrészletek az OTÉK, illetve a TÉKA szerinti általános gazdasági terület, amelyen a beépítettség megengedett legnagyobb mértéke 70%.
+(2)[^90] A 2. mellékletben foglalt táblázat 108. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:108 mezőjében megjelölt helyrajzi számú földrészletek az OTÉK, illetve a TÉKA szerinti általános gazdasági terület, amelyen a beépítettség megengedett legnagyobb mértéke 70%.
 
-[^85]: Az 5/N. §-t a 495/2022. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
-[^86]: Az 5/N. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 21. pontja szerint módosított szöveg.
-[^87]: Az 5/N. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.
-[^88]: Az 5/N. § (2) bekezdése a 178/2025. (VI. 30.) Korm. rendelet 7. § 23. pontja szerint módosított szöveg.
+[^87]: Az 5/N. §-t a 495/2022. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^88]: Az 5/N. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 21. pontja szerint módosított szöveg.
+[^89]: Az 5/N. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.
+[^90]: Az 5/N. § (2) bekezdése a 178/2025. (VI. 30.) Korm. rendelet 7. § 23. pontja szerint módosított szöveg.

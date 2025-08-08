@@ -1,4 +1,4 @@
-6/P. §[^221] (1) A 2. mellékletben foglalt táblázat B:68 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2) bekezdés állapítja meg, azzal, hogy
+6/P. §[^224] (1) A 2. mellékletben foglalt táblázat B:68 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -10,4 +10,4 @@ a) a telek természetes terepszintjének tartós, végleges jelleggel való megv
 
 b) a kórházi és az ahhoz kapcsolódó egyéb funkciókat kiszolgáló emelt szintű gépészeti berendezések elhelyezhetősége miatt a lapostetőkön kialakítandó nyitott gépészeti udvaroknál extenzív zöldtető telepítése nem szükséges.
 
-[^221]: A 6/P. §-t a 340/2021. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^224]: A 6/P. §-t a 340/2021. (VI. 14.) Korm. rendelet 1. §-a iktatta be.

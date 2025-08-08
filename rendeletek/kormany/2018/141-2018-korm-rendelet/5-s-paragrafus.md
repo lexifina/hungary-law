@@ -1,8 +1,8 @@
-5/S. §[^124] (1)[^125] A 2. mellékletben foglalt táblázat B:115 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
+5/S. §[^126] (1)[^127] A 2. mellékletben foglalt táblázat B:115 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(4), valamint a (8)–(10) bekezdés állapítja meg, azzal, hogy
 
-a)[^126] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2)–(4) bekezdésben foglalt eltéréssel kell alkalmazni, és
+a) a hatályos településrendezési terv, településképi rendelet, egyéb önkormányzati rendelet, a 384/2016. (XII. 2.) Korm. rendelet és az OTÉK, illetve a TÉKA előírásait a (2)–(4), valamint a (8)–(10) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
-b)[^127] ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b) ha a hatályos településrendezési terv, a településképi rendelet, egyéb önkormányzati rendelet vagy az OTÉK, illetve a TÉKA a beépítés (2)–(4), valamint (8)–(10) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet, településképi rendeletet, egyéb önkormányzati rendelet, az OTÉK-ot, illetve a TÉKA-t, valamint a 384/2016. (XII. 2.) Korm. rendeletet nem lehet alkalmazni.
 
 (2)[^128] A 2. mellékletben foglalt táblázat 115. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:115 mezőjében megjelölt ingatlanokon az OTÉK, illetve a TÉKA szerinti ipari gazdasági területen meghatározott építmények – egyebek mellett ipari és gazdasági tevékenységi célú, továbbá kereskedelmi, szolgáltató, gazdasági és raktár rendeltetésű építmények, valamint a megújuló energiaforrás hasznosításának céljára szolgáló építmények – és azok kiszolgálóépítményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -30,13 +30,20 @@ b) a Thkr. 3. § (4b) bekezdését nem kell alkalmazni, és
 
 c) a Thkr. 3. § (6) bekezdésében foglaltakon túl a beillesztésre irányuló területrendezési hatósági eljárásban a települési önkormányzat is ügyfélnek minősül.
 
-[^124]: Az 5/S. §-t a 218/2023. (VI. 1.) Korm. rendelet 1. §-a iktatta be.
-[^125]: Az 5/S. § (1) bekezdés nyitó szövegrésze a 356/2023. (VII. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^126]: Az 5/S. § (1) bekezdés a) pontja a 356/2023. (VII. 27.) Korm. rendelet 5. § b) pontja, a 178/2025. (VI. 30.) Korm. rendelet 7. § 37. pontja szerint módosított szöveg.
-[^127]: Az 5/S. § (1) bekezdés b) pontja a 356/2023. (VII. 27.) Korm. rendelet 5. § b) pontja, a 178/2025. (VI. 30.) Korm. rendelet 7. § 38. pontja szerint módosított szöveg.
+(8)[^134] A 2. mellékletben foglalt táblázat B:115 mezőjében megjelölt Ács, külterület 052/25 és 052/26 helyrajzi számú telekre és az abból telekalakítással kialakításra kerülő telkekre vonatkozó sajátos beépítési szabály, hogy a helyi építési szabályzat részét képező szabályozási terven jelölt építési övezethatár és övezethatár jelölést nem kell alkalmazni.
+
+(9)[^135] A 2. mellékletben foglalt táblázat B:115 mezőjében megjelölt Ács, külterület 052/25 és 052/26 helyrajzi számú telkeken napelempark, közlekedési létesítmények, kiszolgáló létesítmények, közművek vezetékei, közműpótló műtárgyak és azok kiszolgálóépítményei, közmű és hírközlési építmények, műtárgyak korlátozás nélkül elhelyezhetők.
+
+(10)[^136] A (9) bekezdés szerinti ingatlanok kialakítása és átépítése során a helyi építési szabályzat napelemparkra és közművekre vonatkozó előírásait nem kell alkalmazni.
+
+[^126]: Az 5/S. §-t a 218/2023. (VI. 1.) Korm. rendelet 1. §-a iktatta be.
+[^127]: Az 5/S. § (1) bekezdése a 249/2025. (VIII. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^128]: Az 5/S. § (2) bekezdése az 526/2023. (XII. 1.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 178/2025. (VI. 30.) Korm. rendelet 7. § 39. pontja szerint módosított szöveg.
 [^129]: Az 5/S. § (3) bekezdését a 356/2023. (VII. 27.) Korm. rendelet 2. §-a iktatta be.
 [^130]: Az 5/S. § (4) bekezdését a 356/2023. (VII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 40. pontja szerint módosított szöveg.
 [^131]: Az 5/S. § (5) bekezdését az 526/2023. (XII. 1.) Korm. rendelet 3. §-a iktatta be.
 [^132]: Az 5/S. § (6) bekezdését az 526/2023. (XII. 1.) Korm. rendelet 3. §-a iktatta be.
 [^133]: Az 5/S. § (7) bekezdését a 154/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^134]: Az 5/S. § (8) bekezdését a 249/2025. (VIII. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^135]: Az 5/S. § (9) bekezdését a 249/2025. (VIII. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^136]: Az 5/S. § (10) bekezdését a 249/2025. (VIII. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
