@@ -1,0 +1,1 @@
+5. § Az R. 4/E. § (1) bekezdés a) pontjában az „az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendeletet [a továbbiakban: 384/2016. (XII. 2.) Korm. rendelet]” szövegrész helyébe az „a 384/2016. (XII. 2.) Korm. rendeletet” szöveg lép.
