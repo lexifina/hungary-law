@@ -1,4 +1,4 @@
-2. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^49]
+2. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^50]
 
 Kiemelt sportágak
 
@@ -34,4 +34,4 @@ Kiemelt sportágak
 
 | 16. | vívás |
 
-[^49]: A 2. mellékletet az 545/2021. (IX. 24.) Korm. rendelet 10. §-a iktatta be.
+[^50]: A 2. mellékletet az 545/2021. (IX. 24.) Korm. rendelet 10. §-a iktatta be.
