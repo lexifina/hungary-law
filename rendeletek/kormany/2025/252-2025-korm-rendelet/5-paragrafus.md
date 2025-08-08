@@ -1,0 +1,1 @@
+5. § Az ideiglenes moratórium ideje alatt a Btv. szerinti bérgarancia-eljárást kell alkalmazni a gazdálkodó szervezet, illetve a kapcsolt vállalkozás munkavállalójával szemben fennálló kiegyenlítetlen bértartozásra, azzal, hogy ahol a Btv. felszámolót említ, azon a jelen kormányrendeletben foglalt állami felszámolót kell érteni.
