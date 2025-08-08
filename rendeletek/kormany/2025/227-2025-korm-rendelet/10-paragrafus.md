@@ -1,0 +1,3 @@
+10. § (1) Nem veheti igénybe a kölcsönt az, akit a kölcsön igénylését megelőző 3 évben az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatás vagy államilag támogatott lakáscélú kölcsön vonatkozásában a járási hivatal, a kormányhivatal vagy az állami adóhatóság végleges döntésével vagy a bíróság jogerős határozatával a vissza nem térítendő támogatás vagy a felvett kamattámogatás visszafizetésére kötelezett.
+
+(2) A hitelintézet a jogosultsági feltételek fennállásának vizsgálata érdekében az e rendelet szerinti kölcsön és kamattámogatás korábbi igénybevételét a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján vizsgálja.

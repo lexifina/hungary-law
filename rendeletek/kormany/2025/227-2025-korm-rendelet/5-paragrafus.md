@@ -1,0 +1,1 @@
+5. § Nem vehető igénybe a kölcsön, ha a megvásárolni szándékozott otthon vételára vagy az építeni kívánt otthon bekerülési költsége az alapterület négyzetméterára tekintetében meghaladja a bruttó 1 500 000 forintot.

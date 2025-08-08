@@ -1,0 +1,3 @@
+13. § (1) A hitelintézet az igénylőktől a kölcsön igénylésével és folyósításával összefüggésben kizárólag legfeljebb 30 000 forint díjat kérhet bármilyen jogcímen, ide nem értve az értékbecslés és a helyszíni szemle díját.
+
+(2) Ha a támogatott személy a hitelintézettől kamattámogatással nem érintett lakáscélú kölcsönt is igényelt ugyanazon lakáscél elérése érdekében, akkor a hitelintézet legfeljebb az általa 2025. május 30-án nyújtott lakáscélú kölcsönöknél alkalmazott díjjal megegyező mértékig számíthat fel díjat vagy egyéb ellenszolgáltatást a kamattámogatással nem érintett kölcsön tekintetében is.
