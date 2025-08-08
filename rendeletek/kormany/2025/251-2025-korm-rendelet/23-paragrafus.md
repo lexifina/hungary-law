@@ -1,0 +1,1 @@
+23. § Nem lép hatályba a sporteredmények megbecsülését, a sport célú támogatásokat és a sportorvoslást érintő egyes kormányrendeletek módosításáról szóló 177/2025. (VI. 30.) Korm. rendelet 12. § (3) bekezdése.
