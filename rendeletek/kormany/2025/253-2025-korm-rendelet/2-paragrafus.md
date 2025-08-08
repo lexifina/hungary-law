@@ -1,0 +1,1 @@
+2. § A Kormány a felszámolást megelőző reorganizációs célú eljárásról, valamint a csőd- és felszámolási eljárás egyes veszélyhelyzeti szabályairól szóló 252/2025. (VIII. 7.) Korm. rendelet 2. §-ára figyelemmel reorganizációs terv készítését rendeli el.
