@@ -44,19 +44,23 @@ bf) Autisták Országos Szövetsége,
 
 bg) Pszichiátriai Érdekvédelmi Fórum;
 
-c) az Afázia Egyesület és a Démoszthenész Beszédhibások és Segítőik Országos Érdekvédelmi Egyesülete által közösen delegált egy személy;
+bh)[^4] Afázia Egyesület,
 
-d) a fogyatékos személyek érdekvédelmét ellátó – a b) és c) pont szerinti szervezetek körébe nem tartozó, továbbá a b) és c) pont szerinti valamely szervezetben tagsággal nem rendelkező – civil szervezetek által közösen delegált, különböző fogyatékossági csoportok érdekeit képviselő négy személy;
+bi)[^5] Démoszthenész Beszédhibások és Segítőik Országos Érdekvédelmi Egyesülete;
+
+c)[^6]
+
+d)[^7] a fogyatékos személyek érdekvédelmét ellátó – a b) pont szerinti szervezetek körébe nem tartozó, továbbá a b) pont szerinti valamely szervezetben tagsággal nem rendelkező – civil szervezetek által közösen delegált, különböző fogyatékossági csoportok érdekeit képviselő négy személy;
 
 e) a Fogyatékos Emberek Szervezeteinek Tanácsa által delegált egy személy;
 
-f) a Magyar Olimpiai Bizottság által a fogyatékos személyek sportja képviseletében delegált egy személy.
+f)[^8] a Fogyatékosok Országos Diák-, Verseny- és Szabadidősport Szövetsége (FODISZ) által a fogyatékos személyek sportja képviseletében delegált egy személy.
 
 7. A Tanács elnöke valamely tag kérésére, illetve amennyiben valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, tanácskozási joggal további személyeket hívhat meg.
 
-8. A 6. pont d) alpontja alapján azon civil szervezetek jogosultak delegálásra, amelyek a bírósági nyilvántartásban szerepelnek, továbbá létesítő okiratuk, illetve alapszabályzatuk szerint a fogyatékos személyek vagy valamely fogyatékossági csoport érdekében működnek.
+8.[^9] A 6. pont d) alpontja alapján azon civil szervezetek jogosultak delegálásra, amelyek országosan fejtik ki tevékenységüket, a bírósági nyilvántartásban szerepelnek, továbbá létesítő okiratuk, illetve alapszabályuk szerint a fogyatékos személyek vagy valamely fogyatékossági csoport érdekében működnek.
 
-9. A 6. pont e) alpontja alapján delegált személy nem lehet a 6. pont b) és c) alpontja szerinti valamely szervezet tagja vagy képviselője, illetve azon szervezet tagja vagy képviselője, amelyik a 6. pont d) alpontja alapján delegált tagot delegálásra jelölte.
+9.[^10] A 6. pont e) alpontja alapján delegált személy nem lehet a 6. pont b) alpontja szerinti valamely szervezet tagja vagy képviselője, illetve azon szervezet tagja vagy képviselője, amelyik a 6. pont d) alpontja alapján delegált tagot delegálásra jelölte.
 
 10. A delegált tagok megbízatása négy évre szól.
 
@@ -86,17 +90,19 @@ megszűnik.
 
 17. A Tanács ülései nem nyilvánosak, azokon a Tanács tagjai, a Tanács titkára, a meghívottak, és szükség szerint az előbbiek segítői (így személyi segítő, jelnyelvi tolmács, kommunikációs segítő, valós idejű feliratozó) vehetnek részt.
 
-18. A Tanács ügyrendjét, üléseinek meghívóját és a napirendi javaslatot, határozatait, valamint titkársága elérhetőségét a miniszter által vezetett minisztérium honlapján közzé kell tenni.
+18.[^11] A Tanács ügyrendjét, üléseinek meghívóját és a napirendi javaslatot, határozatait, valamint titkársága elérhetőségét a fogyatékosságügyi információk közlésére használt kormányzati honlapon közzé kell tenni.
 
 19. A Tanács tagjai tevékenységükért tiszteletdíjban nem részesülnek. A delegált tagok az ügyrend szerint a Tanácsban, illetve annak munkacsoportjában való részvételük kapcsán felmerült igazolt költségeik – ideértve a személyi segítő, a jelnyelvi tolmács, a kommunikációs segítő, a valós idejű feliratozó alkalmazásával kapcsolatos költségeket is – megtérítését kérhetik.
 
 20. A Tanács működésének költségeit – ide nem értve a tagok delegálásával kapcsolatos költségeket –, valamint a delegált tagok költségtérítését a miniszter által vezetett minisztérium biztosítja.
 
-21. A tagok megbízatási idejének leteltét 90 nappal megelőzően a miniszter írásban felkéri a 6. pont b), c) és f) alpontja szerinti szervezeteket a Tanács tagságára való delegálásra. A delegálást a felkérés kézhezvételét követő 30 napon belül kell jelezni a Tanács titkáránál. A 6. pont c) alpontja szerinti delegálást a két érintett szervezet együttesen végzi. Ha a delegálásra határidőn belül nem kerül sor, a miniszter 5 napos határidővel felhívja a szervezetet annak pótlására. Ha a delegálásra ekkor sem kerül sor, a hiányzó tag helyett a miniszter kér fel tagot a 8. pontban foglaltaknak megfelelő civil szervezetek tagjai közül.
+21.[^12] A tagok megbízatási idejének leteltét 90 nappal megelőzően a miniszter írásban felkéri a 6. pont b) és f) alpontja szerinti szervezeteket a Tanács tagságára való delegálásra. A delegálást a felkérés kézhezvételét követő 30 napon belül kell jelezni a Tanács titkáránál. Ha a delegálásra határidőn belül nem kerül sor, a miniszter 5 napos határidővel felhívja a szervezetet annak pótlására. Ha a delegálásra ekkor sem kerül sor, a hiányzó tag helyett a miniszter kér fel tagot a 8. pontban foglaltaknak megfelelő civil szervezetek tagjai közül.
 
 22. A tagok megbízatási idejének leteltét 90 nappal megelőzően a miniszter az általa vezetett minisztérium honlapján közzétett hirdetmény útján felhívja a fogyatékos személyek érdekében működő civil szervezeteket a 6. pont d) alpontja szerinti delegálásra való jelölésre.
 
 23. A delegálásra való jelölést a hirdetmény közzétételétől számított 30 napon belül kell bejelenteni a Tanács titkáránál. A delegálásra való jelölésnek tartalmaznia kell a jelölő szervezet nevét; a jelölő szervezet nyilatkozatát arra vonatkozóan, hogy a 6. pont d) alpontjában és a 8. pontban foglalt feltételeknek megfelel; a képviselt fogyatékossági csoport megnevezését; valamint a jelölt személy nevét. Ha a delegálásra való jelölés hiányos, a miniszter 5 napos határidővel felhívja a jelölő szervezetet hiánypótlásra. Ha a jelölő szervezet nem felel meg a 6. pont d) alpontjában és a 8. pontban meghatározott feltételeknek, vagy a hiánypótlási felhívásnak a meghatározott határidőben nem tesz eleget, a delegálásra való jelölés érvénytelen. Erről a Tanács titkára a jelölő szervezetet írásban értesíti.
+
+23a.[^13] Ha a jelölőszervezet önálló jogi személyként működő tagszervezete is delegálási igényt jelent be, a tagszervezet által bejelentett ilyen igényt nem kell figyelembe venni.
 
 24. A Tanács titkára a bejelentési határidő leteltét követő 10 napon belüli időpontra kitűzi a delegáló ülés időpontját, biztosítja az ahhoz szükséges tárgyi feltételeket és levezeti az ülést. A delegálásról jegyzőkönyv készül, melyhez csatolni kell a jelenléti ívet.
 
@@ -116,6 +122,19 @@ megszűnik.
 
 32. A miniszter a 21. pont szerinti felkérést és a 22. pont szerinti felhívást első ízben e határozat hatálybalépését követő 8 napon belül teszi meg.
 
+33.[^14] E határozatnak az Országos Fogyatékosságügyi Tanácsról szóló 1330/2013. (VI. 13.) Korm. határozat és a Fogyatékosságügyi Koordinációs Bizottság létrehozásáról szóló 1185/2024. (VI. 28.) Korm. határozat módosításáról szóló 1287/2025. (VIII. 7.) Korm. határozattal módosított 6. pont b) alpont bh) és bi) pontját, 6. pont d) és f) alpontját, 8. pontját, 9. pontját, 21. pontját és megállapított 23a. pontját első alkalommal a soron következő Országos Fogyatékosságügyi Tanács megalakulásával összefüggésben kell alkalmazni.
+
 [^1]: A 2. pont az 1521/2022. (XI. 2.) Korm. határozat 26. pontja szerint módosított szöveg.
 [^2]: A 3. pont g) alpontját az 1187/2024. (VI. 28.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 3. pont h) alpontját az 1187/2024. (VI. 28.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 6. pont b) pont bh) alpontját az 1287/2025. (VIII. 7.) Korm. határozat 1. pontja iktatta be.
+[^5]: A 6. pont b) pont bi) alpontját az 1287/2025. (VIII. 7.) Korm. határozat 1. pontja iktatta be.
+[^6]: A 6. pont c) alpontját az 1287/2025. (VIII. 7.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte.
+[^7]: A 6. pont d) alpontja az 1287/2025. (VIII. 7.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^8]: A 6. pont f) alpontja az 1287/2025. (VIII. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^9]: A 8. pont az 1287/2025. (VIII. 7.) Korm. határozat 2. pontjával megállapított szöveg.
+[^10]: A 9. pont az 1287/2025. (VIII. 7.) Korm. határozat 8. pont c) alpontja szerint módosított szöveg.
+[^11]: A 18. pont az 1287/2025. (VIII. 7.) Korm. határozat 3. pontjával megállapított szöveg.
+[^12]: A 21. pont az 1287/2025. (VIII. 7.) Korm. határozat 4. pontjával megállapított szöveg.
+[^13]: A 23a. pontot az 1287/2025. (VIII. 7.) Korm. határozat 5. pontja iktatta be.
+[^14]: A 33. pontot az 1287/2025. (VIII. 7.) Korm. határozat 6. pontja iktatta be.
