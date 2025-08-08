@@ -26,7 +26,7 @@
 
 | 13. | Zalaszentgrót | 1387/2, 1387/3, 1387/4, 1387/5, 1387/6, 1387/7 |
 
-4. melléklet a 778/2021. (XII. 23.) Korm. rendelethez[^8]
+4. melléklet a 778/2021. (XII. 23.) Korm. rendelethez[^11]
 
 A Beruházással érintett, 2. § (1a) bekezdése szerinti ingatlanok
 
@@ -52,4 +52,4 @@ A Beruházással érintett, 2. § (1a) bekezdése szerinti ingatlanok
 
 | 10. | Zirc | 013/15, 013/21, 013/27, 013/26, 013/25, 014, 016/4, 016/8, 016/11, 016/12, 016/13, 016/14, 016/15, 017, 016/16, 016/17, 016/18, 016/19, 016/21, 016/23, 018, 021/1, 021/3 |
 
-[^8]: A 4. mellékletet a 163/2024. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^11]: A 4. mellékletet a 163/2024. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

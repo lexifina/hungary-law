@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-778-20-
 | 2023-01-01 | 2021-778-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2024-06-29 | 2021-778-20-22.4 | 163/2024. (VI. 28.) Korm. rendelet |
 | 2024-10-01 | 2021-778-20-22.5 | 257/2024. (VIII. 29.) Korm. rendelet |
+| 2025-08-08 | 2021-778-20-22.6 | 248/2025. (VIII. 7.) Korm. rendelet |

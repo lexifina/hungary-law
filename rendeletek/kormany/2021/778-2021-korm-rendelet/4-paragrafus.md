@@ -1,3 +1,3 @@
-4. §[^2] A Kormány a Beruházással összefüggő kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+4. §[^3] A Kormány a Beruházással összefüggő kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
 
-[^2]: A 4. § az 546/2022. (XII. 22.) Korm. rendelet 288. § a)-c) pontja szerint módosított szöveg.
+[^3]: A 4. § az 546/2022. (XII. 22.) Korm. rendelet 288. § a)-c) pontja szerint módosított szöveg.
