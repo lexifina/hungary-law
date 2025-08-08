@@ -1,4 +1,4 @@
-2. § (1) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi
+2. § (1)[^5] A Hatóság a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi
 
 a) a kóros játékszenvedéllyel élő személyek pszichiátriai ellátását biztosító szolgáltatók elnevezését és elérhetőségi adatait megyénként és településenként,
 
@@ -23,3 +23,5 @@ j) az ajánlott felelős játékszervezői minősítéssel rendelkező szervező
 (2) A szerencsejáték-szabályozásért felelős miniszter az (1) bekezdés a) és b) pontja szerinti tájékoztatást az egészségügyért, valamint szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés c) pontja szerinti tájékoztatást az egészségügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés d) pontja szerinti tájékoztatást az igazságügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján készíti el és bocsátja a Hatóság rendelkezésére. Az (1) bekezdés e)–i) pontja szerinti tájékoztatót a Hatóság – az (1) bekezdés i) pontja szerinti tájékoztató esetében a Nemzeti Adatvédelmi és Információszabadság Hatósággal egyetértésben – készíti el.
 
 (3) Az (1) bekezdés a)–i) pontja szerinti tájékoztatók tartalmát készítője a közzétételt követően félévente felülvizsgálja.
+
+[^5]: A 2. § (1) bekezdés nyitó szövegrésze a 6/2025. (VII. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.
