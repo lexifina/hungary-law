@@ -1,8 +1,8 @@
 ## 43. § A játékkaszinónak lehetősége van a játékkaszinóban folyó játék zavarása nélkül a játékkaszinóban használatostól eltérő, érték nélküli zsetonkészlettel az alkalmazottak játéktechnikai, valamint a játékosok játékszabály-ismertető oktatására irányuló tevékenységet folytatni.
 
-## 24.[^33] Gazdátlan, szerencsejáték keretében használt játékeszközök (árvák) kezelése
+## 24.[^37] Gazdátlan, szerencsejáték keretében használt játékeszközök (árvák) kezelése
 
-44. §[^34] (1)[^35] Árvának minősül a játékkaszinó területén talált olyan, tétként felhasználható gazdátlan zseton, amelynek a jogszerű birtokosát a szervező nem azonosította a játéknap végéig, kivéve a fel nem használt ajándékzsetont, az ajándékticketet, a belépőzsetont és a színzsetont. Árvának kell tekinteni a készpénzt, továbbá annak a ticketnek az értékét is, amely ticket a játéknap végén az elszámoláskor fizikailag nem állt rendelkezésre, de értéke a játékkaszinó elszámolási rendszeréből egyedileg (a ticket sorszáma szerinti beazonosítását követően) kimutatásra került. Árvának minősül továbbá az elszámolási időszak végén a pénznyerő automatában maradt gazdátlan kreditérték. Nem minősül árvának az olyan összegű gazdátlan kreditérték, amellyel a játékkaszinóban értékénél fogva már nem kezdeményezhető játék.
+44. §[^38] (1)[^39] Árvának minősül a játékkaszinó területén talált olyan, tétként felhasználható gazdátlan zseton, amelynek a jogszerű birtokosát a szervező nem azonosította a játéknap végéig, kivéve a fel nem használt ajándékzsetont, az ajándékticketet, a belépőzsetont és a színzsetont. Árvának kell tekinteni a készpénzt, továbbá annak a ticketnek az értékét is, amely ticket a játéknap végén az elszámoláskor fizikailag nem állt rendelkezésre, de értéke a játékkaszinó elszámolási rendszeréből egyedileg (a ticket sorszáma szerinti beazonosítását követően) kimutatásra került. Árvának minősül továbbá az elszámolási időszak végén a pénznyerő automatában maradt gazdátlan kreditérték. Nem minősül árvának az olyan összegű gazdátlan kreditérték, amellyel a játékkaszinóban értékénél fogva már nem kezdeményezhető játék.
 
 (2) Az árvákat haladéktalanul be kell fizetni a játékkaszinó főpénztárába, és bejegyezni az árvák nyilvántartásába oly módon, hogy az tartalmazza a megtalálás pontos helyét és idejét, a nyilvántartásba vétel pontos idejét, az árva leírását, értékét, ticket esetén annak egyedi azonosítóját is. Az árvákat készpénzre kell váltani és azt a játékkaszinó pénztárában elkülönítetten kell kezelni.
 
@@ -14,6 +14,6 @@
 
 (6) Ha a bejegyzett árva ellenértékének jogosultja ismertté válik, az árvát az árvák nyilvántartásából ki kell vezetni, azzal, hogy a kivezetett összeget a játékkaszinót üzemeltető gazdasági társaság a játékkaszinó pénzeszközeitől elkülönítve köteles nyilvántartani.
 
-[^33]: A 24. alcím címe a 7/2023. (III. 22.) SZTFH rendelet 12. §-ával megállapított szöveg.
-[^34]: A 44. § a 40/2022. (XII. 19.) SZTFH rendelet 12. §-ával megállapított szöveg.
-[^35]: A 44. § (1) bekezdése a 7/2023. (III. 22.) SZTFH rendelet 13. §-ával megállapított szöveg.
+[^37]: A 24. alcím címe a 7/2023. (III. 22.) SZTFH rendelet 12. §-ával megállapított szöveg.
+[^38]: A 44. § a 40/2022. (XII. 19.) SZTFH rendelet 12. §-ával megállapított szöveg.
+[^39]: A 44. § (1) bekezdése a 7/2023. (III. 22.) SZTFH rendelet 13. §-ával megállapított szöveg.

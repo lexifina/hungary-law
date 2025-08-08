@@ -6,10 +6,10 @@
 
 (3) A szervező, valamint azok, akik a játékkaszinóban folyó játékban nem vehetnek részt, a játékosok részére kölcsönt (hitelt) nem nyújthatnak.
 
-(4)[^39] Tétek megtételére – ide nem értve a pénznyerő automatákat – a zsetonon kívül más eszköz (pl. pénz, egyéb értéktárgy) nem alkalmazható. A készpénz-helyettesítő zsetont tétként elfogadni, tétként elhelyezni tilos. A játékasztalnál vásárolt zseton ellenértékét – annak leszámolását követően – a készpénztartó dobozba azonnal be kell dobni, ideértve a készpénz-helyettesítő zsetont is.
+(4)[^43] Tétek megtételére – ide nem értve a pénznyerő automatákat – a zsetonon kívül más eszköz (pl. pénz, egyéb értéktárgy) nem alkalmazható. A készpénz-helyettesítő zsetont tétként elfogadni, tétként elhelyezni tilos. A játékasztalnál vásárolt zseton ellenértékét – annak leszámolását követően – a készpénztartó dobozba azonnal be kell dobni, ideértve a készpénz-helyettesítő zsetont is.
 
 (5) A szervező a játékkaszinóban az általa rendszeresített zsetonokat vagy azok bizonyos típusait bármikor bevonhatja. A zsetonok bevonásának a nyitvatartási idő alatt történő elrendelése esetén lehetővé kell tenni a játékkaszinóban tartózkodó játékosok számára a birtokukban lévő zsetonok visszaváltását.
 
 (6) A szervező köteles tájékoztatni a játékosokat arról, hogy a játékkaszinóból zsetonokat tilos kivinni.
 
-[^39]: A 46. § (4) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 14. §-ával megállapított szöveg.
+[^43]: A 46. § (4) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 14. §-ával megállapított szöveg.

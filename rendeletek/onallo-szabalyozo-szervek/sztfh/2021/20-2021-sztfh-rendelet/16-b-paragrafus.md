@@ -1,4 +1,4 @@
-## 9/B.[^10] A távszerencsejáték szervezés részletes gazdasági feltételei
+## 9/B.[^13] A távszerencsejáték szervezés részletes gazdasági feltételei
 
 16/B. § (1) A távszerencsejátékot szervező gazdasági társaságnak legalább 1 milliárd forint alap-(törzs-)tőkével kell rendelkeznie.
 
@@ -8,4 +8,4 @@
 
 (4) A távszerencsejáték szervezésére jogosult (1) bekezdés szerinti gazdasági társaság az engedély teljes időtartamára 600 millió forint távszerencsejáték szervezési díjat köteles fizetni. A távszerencsejáték szervezési díjat a szerencsejáték-felügyeleti hatóság Magyar Államkincstár által vezetett, 10032000-00362887-00000000 számú előirányzat-felhasználási keretszámlájára, az engedély véglegessé válásától számított 30 napon belül kell megfizetni.
 
-[^10]: A 9/B. alcímet (16/B. §-t) a 40/2022. (XII. 19.) SZTFH rendelet 10. §-a iktatta be.
+[^13]: A 9/B. alcímet (16/B. §-t) a 40/2022. (XII. 19.) SZTFH rendelet 10. §-a iktatta be.

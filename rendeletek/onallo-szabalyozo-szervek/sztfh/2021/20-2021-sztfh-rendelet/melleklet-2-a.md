@@ -124,7 +124,7 @@
 
 ## C) A távoli hozzáférés biztosítása
 
-## 1.[^58] Távoli hozzáférés keretében a szerencsejáték-felügyeleti hatóság részére legalább a 4. mellékletben felsorolt adatokhoz való hozzáférést kell biztosítani. Közös játékosi egyenleg vezetése esetén a 4. melléklet I. pont b)–f) alpontjában megjelölt adatokhoz való hozzáférést az érintett közös játékosi egyenlegre vonatkoztatva kell biztosítani.
+## 1.[^63] Távoli hozzáférés keretében a szerencsejáték-felügyeleti hatóság részére legalább a 4. mellékletben felsorolt adatokhoz való hozzáférést kell biztosítani. Közös játékosi egyenleg vezetése esetén a 4. melléklet I. pont b)–f) alpontjában megjelölt adatokhoz való hozzáférést az érintett közös játékosi egyenlegre vonatkoztatva kell biztosítani.
 
 ## 2. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek olyan szolgáltatást kell nyújtania, amely a szerencsejáték-felügyeleti hatóság részére naplózott távoli hozzáférésen keresztül lehetőséget biztosít a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer auditált elemei változatlanságának ellenőrzésére.
 
@@ -144,7 +144,7 @@
 
 ## 2. A szervező az 1. pont szerinti hibaeseményről köteles a szerencsejáték-felügyeleti hatóságot a hibaesemény észlelését és megszüntetését követően is haladéktalanul értesíteni.
 
-2/a. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^59]
+2/a. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^64]
 
 Az EGT-állami gazdasági társaság képviselőjének nyilvántartásba vételére irányuló kérelemhez csatolandó okiratok és megadni szükséges adatok
 
@@ -178,5 +178,5 @@ Az EGT-állami gazdasági társaság képviselőjének nyilvántartásba vétel�
 
 2.2.3. székhelye.
 
-[^58]: A 2. melléklet C) pont 1. alpontja a 14/2023. (VII. 27.) SZTFH rendelet 11. § b) pontja szerint módosított szöveg.
-[^59]: A 2/a. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § a) pontja iktatta be.
+[^63]: A 2. melléklet C) pont 1. alpontja a 14/2023. (VII. 27.) SZTFH rendelet 11. § b) pontja szerint módosított szöveg.
+[^64]: A 2/a. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § a) pontja iktatta be.
