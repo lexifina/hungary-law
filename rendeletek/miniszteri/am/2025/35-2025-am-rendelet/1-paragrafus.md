@@ -6,6 +6,6 @@
 
 ## [4] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (5) bekezdés k) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az élelmiszer-rendész feladatellátásának és nyilvántartásba vételének részletes szabályairól szóló 1/2018. (VI. 21.) AM rendelet [a továbbiakban: 1/2018. (VI. 21.) AM rendelet] 1. § a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[Élelmiszer-rendész az a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) állományába tartozó kormánytisztviselő, aki]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,13 +1,3 @@
-1. melléklet a 35/2025. (VII. 31.) AM rendelethez
+1. melléklet a 35/2025. (VII. 31.) AM rendelethez[^5]
 
-Az 1/2018. (VI. 21.) AM rendelet 6. melléklet II. pontjában foglalt táblázat a következő 9. sorral egészül ki:
-
-|  | [A | B | C |
-
-|  | Felszerelési eszközök megnevezése | Mennyiség/ Mennyiségi egység | Tervezett viselési idő (hónap)] |
-
-„
-
-| 9. | Védőszemüveg | 1 db | – |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
