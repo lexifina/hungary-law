@@ -1,1 +1,3 @@
-5. § Az R. 4/E. § (1) bekezdés a) pontjában az „az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendeletet [a továbbiakban: 384/2016. (XII. 2.) Korm. rendelet]” szövegrész helyébe az „a 384/2016. (XII. 2.) Korm. rendeletet” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
