@@ -1,1 +1,3 @@
-9. § Az R2. 1. § (1) bekezdésében a „távszerencsejáték” szövegrész helyébe a „nemzetközi együttműködés keretében szervezett sorsolásos játék, távszerencsejáték” szöveg lép.
+9. §[^13]
+
+[^13]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

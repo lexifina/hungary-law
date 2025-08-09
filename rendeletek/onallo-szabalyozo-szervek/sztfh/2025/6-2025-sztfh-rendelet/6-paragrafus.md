@@ -1,3 +1,3 @@
-6. § Az R2. 13. § (10) bekezdése helyébe a következő rendelkezés lép:
+6. §[^10]
 
-„(10) A hírközlő eszköz és rendszer útján értékesített kaparós sorsjegyekre a (2)−(4) bekezdést, valamint az (5) bekezdés a) és b) pontját megfelelően alkalmazni kell, azzal, hogy a sorsjegyek tárolása és forgalomba hozatala hírközlő eszköz és rendszer útján történik, továbbá az (5) bekezdés a) pontja szerinti dokumentumokat a sorsjegy első sorozatának engedélyezése iránti kérelem esetén az engedélyezési eljárás során kell a szerencsejáték-felügyeleti hatóságnak benyújtani.”
+[^10]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

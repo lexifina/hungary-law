@@ -1,1 +1,3 @@
-2. § Az R1. 2. § (1) bekezdésében a „Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)” szövegrész helyébe a „Hatóság” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

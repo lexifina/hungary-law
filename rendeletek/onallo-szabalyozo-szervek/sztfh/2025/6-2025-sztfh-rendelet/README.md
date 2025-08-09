@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-6-20-8K
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-08-08 | 2025-6-20-8K.1 | 6/2025. (VII. 31.) SZTFH rendelet |
+| 2025-08-09 | 2025-6-20-8K.2 | 2010. évi CXXX. törvény |
