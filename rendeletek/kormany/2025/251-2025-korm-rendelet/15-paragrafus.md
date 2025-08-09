@@ -1,3 +1,3 @@
-15. § A Korm. rendelet2. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(4) Az MH központi személyügyi feladatainak ellátására kijelölt szervezeti egysége a felsőoktatási tanulmányokat folytató árvák ösztöndíjára jogosultat minden év január 15-ig és augusztus 15-ig tájékoztatja az igazolásbenyújtási kötelezettségéről.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

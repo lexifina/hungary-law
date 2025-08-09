@@ -1,1 +1,3 @@
-12. § A Korm. rendelet1. 12. § (1) bekezdésében az „a HVK” szövegrész helyébe az „az MH központi személyügyi feladatainak ellátására kijelölt szervezeti egysége” szöveg lép.
+12. §[^12]
+
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

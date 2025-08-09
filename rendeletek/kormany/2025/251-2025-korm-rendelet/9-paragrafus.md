@@ -1,3 +1,3 @@
-9. § A Korm. rendelet1. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^9]
 
-„(1) Az árvák ösztöndíjának havi mértéke nyolcvannyolcezer forint, amelynek folyósítása a tanulmányi félév teljes időszakában havonta – a tanulmányi szüneteket is ideértve – történik.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

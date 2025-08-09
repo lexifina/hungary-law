@@ -1,3 +1,3 @@
-7. § A Korm. rendelet1. 8. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+7. §[^7]
 
-[Az árvák ösztöndíjára az az árva pályázhat (a továbbiakban: pályázó), aki]
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
