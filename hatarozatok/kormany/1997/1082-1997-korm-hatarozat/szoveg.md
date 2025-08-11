@@ -124,7 +124,7 @@ Felelős: privatizációért felelős tárca nélküli miniszter
 
 Felelős: privatizációért felelős tárca nélküli miniszter
 
-5. Az 1. pontban meghatározott, a 34–37. sorszám alatti berettyóújfalui repülőtér azzal a feltétellel adható az önkormányzat tulajdonába, hogy az az átvételt követően is kizárólag repülőtérként hasznosítható.
+5.[^1]
 
 6. Az ÁPV Rt. azzal a feltétellel adja át az önkormányzatoknak az ingatlanokat, hogy azok – ahol ez szükséges – 6 hónapon belül kezdeményezik a megosztást vagy a művelési ág megváltoztatását, és intézkednek a tulajdonjoguk ingatlan-nyilvántartásba történő bejegyzése iránt.
 
@@ -161,3 +161,5 @@ Felelős: privatizációért felelős tárca nélküli miniszter
 Felelős: privatizációért felelős tárca nélküli miniszter
 
 11. Ez a határozat a közzététel napján lép hatályba.
+
+[^1]: Az 5. pontot az 1292/2025. (VIII. 11.) Korm. határozat 14. pont a) alpontja visszavonta.
