@@ -1,5 +1,3 @@
-## Önkormányzati tulajdonba adásra kerülő ingatlanok jegyzéke
-
 | Ssz. | Önkormányzat | Ingatlan/tulajdoni hányad | Segítendő feladat/cél | Ingatlan-nyilvántartási megnevezés | Terület (m2) |
 
 | 1. | Balatonszárszó Nagyközség Önkormányzata | Balatonszárszó, belterület, 1136, 1/1 | Kulturális szolgáltatás (a kulturális örökség helyi védelme, helyi közművelődési tevékenység támogatása), valamint turizmussal kapcsolatos feladatok [a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. § (1) bekezdés 7., valamint 13. pontjai szerinti feladatok] | kivett múzeum | 1055 |
@@ -58,7 +56,7 @@
 
 | 28. | Békés Város Önkormányzata | Békés, belterület, 6912/2 1/1 | Településfejlesztés, településrendezés, településüzemeltetés (egyéb közterületek kialakítása) [az Mötv. 13. § (1) bekezdés 1. és 2. pontjai szerinti feladatok] | Kivett híd (Erzsébet-híd) | 67 |
 
-| 29. | Budapest Főváros XIX. kerület Kispest Önkormányzata | Budapest XIX. kerület, belterület, 168207/2 1/1 | Településüzemeltetés (helyi közutak és tartozékainak kialakítása és fenntartása) [az Mötv. 13. § (1) bekezdés 2. pontja szerinti feladat] | Kivett közút és közterület | 1604 |
+| 29.[^2] |  |  |  |  |  |
 
 | 30. | Lengyeltóti Város Önkormányzata | Lengyeltóti, külterület, 0110 1/1 | Helyi közfoglalkoztatás [az Mötv. 13. § (1) bekezdés 12. pontja szerinti feladat] | kivett üzem | 5956 |
 
@@ -167,3 +165,5 @@ Egyházi jogi személyek tulajdonba adásra kerülő ingatlanok jegyzéke
 | 1. | Szeged-Csanádi Egyházmegye | Budapest, belterület, 11077 1/1 | átvállalt oktatási feladat | kivett gondozóintézet | 14495 |
 
 | 2. | Esztergom- Budapest Főegyházmegye | Budapest belterület, 38236/13 1/1 | hitéleti célok elősegítése és hitéleti feladatok ellátása | kivett lakóház, udvar és templom | 4468 |
+
+[^2]: Az 1. mellékletben foglalt táblázat 29. sorát az 1292/2025. (VIII. 11.) Korm. határozat 14. pont b) alpontja visszavonta.
