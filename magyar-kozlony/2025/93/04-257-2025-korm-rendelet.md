@@ -1,0 +1,46 @@
+# A Kormány 257/2025. (VIII. 11.) Korm. rendelete
+
+Magyar Közlöny 2025. évi 93. szám, 2025. augusztus 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/riYgLvTr3ZVVQJXmtAKr688bca5a92c3d/dokumentumok/49c8b59e2d4663486de1e8a52724bb50b84bffbe/letoltes)
+
+---
+
+A Kormány 257/2025. (VIII. 11.) Korm. rendelete
+a magyar építészetről szóló törvény kiemelt beruházások körét meghatározó rendelkezéseinek eltérő
+alkalmazásáról
+[1] A rendelet célja, hogy elősegítse az első megfelelő otthon biztosításának lehetőségét támogató FIX 3% hitelprogram
+feltételeit teljesítő lakások építését, azzal, hogy az ilyen építési beruházás kiemelt beruházássá és az ezzel összefüggő
+közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilváníthatóvá válnak.
+[2] A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint
+ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és
+egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt
+a magáncélú kiemelt beruházásokra a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.)
+193. § (1) bekezdését, 194. § (1), (2), (4), (5) és (7) bekezdését, 196–198. §-át, valamint 225. § (2) bekezdését
+az e rendeletben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+2. § (1) A Méptv. 193. § (1) bekezdésétől eltérően az az építési beruházás is magáncélú kiemelt beruházássá és a kiemelt
+beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű ügyekké nyilvánítható, amelynek célja
+a FIX 3% hitelprogram feltételeit teljesítő lakásokat tartalmazó egy vagy több lakóépület megépítése.
+(2) Az (1) bekezdés szerinti beruházás akkor nyilvánítható kiemelt beruházássá, ha
+a) annak keretében legalább 250 lakás valósul meg, és
+b) az a) pont szerinti egy vagy több lakóépületben megvalósuló lakások legalább 70 százaléka megfelel
+a FIX 3% hitelprogram lakásokra vonatkozó feltételrendszerének.
+(3) A kiemelt beruházássá nyilvánító kormányrendelet előkészítését megelőzően az (1) bekezdés szerinti beruházás
+beruházója nyilatkozik, hogy a (2) bekezdésben foglalt feltételeknek maradéktalanul megfelel.
+(4) A beruházó nyilatkozatát az Otthon Start Programirodához nyújtja be a kormányzati stratégiák kidolgozásának
+támogatásáért felelős miniszter által vezetett minisztérium honlapján közzétett elektronikus levelezési címre.
+Az Otthon Start Programiroda a nyilatkozatot – véleményével kiegészítve – megküldi az építésügyi szabályozásért
+és építéshatósági ügyekért felelős miniszter részére.
+(5) A kiemelt beruházássá nyilvánításnak nem előfeltétele, hogy az (1) bekezdés szerinti beruházás beruházója központi
+költségvetési vagy európai uniós támogatást igénybe vegyen.
+(6) A Méptv. 225. § (2) bekezdés a)–d) és g)–h) pontját az e rendeletben meghatározott kiegészítéssel kell alkalmazni.
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+4. §
+E rendeletet az e rendelet hatálybalépését megelőzően építési engedéllyel már rendelkező építési beruházásokra,
+valamint az e rendelet hatálybalépésekor folyamatban lévő hatósági eljárásokra is alkalmazni kell, ha a 2. §-ban
+foglalt feltételeknek megfelelnek.
+ Orbán Viktor s. k.,
+ miniszterelnök
