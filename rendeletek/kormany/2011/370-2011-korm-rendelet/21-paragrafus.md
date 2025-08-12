@@ -4,7 +4,7 @@
 
 (2) A belső ellenőrzés bizonyosságot adó tevékenysége körében ellátandó feladata:
 
-a)[^56] elemezni, vizsgálni és értékelni a belső kontrollrendszer kiépítésének, működésének jogszabályoknak és szabályzatoknak való megfelelését, valamint működésének gazdaságosságát, hatékonyságát és eredményességét;
+a)[^57] elemezni, vizsgálni és értékelni a belső kontrollrendszer kiépítésének, működésének jogszabályoknak és szabályzatoknak való megfelelését, valamint működésének gazdaságosságát, hatékonyságát és eredményességét;
 
 b) elemezni, vizsgálni a rendelkezésre álló erőforrásokkal való gazdálkodást, a vagyon megóvását és gyarapítását, valamint az elszámolások megfelelőségét, a beszámolók valódiságát;
 
@@ -40,12 +40,12 @@ f) javaslatok megfogalmazása a költségvetési szerv működése eredményess�
 
 (5) Fejezetet irányító szerv esetén az (1)–(4) bekezdésben meghatározott feladatokon túl a belső ellenőrzési szervezeti egység ellátja:
 
-a)[^57] a fejezetet irányító szerv irányítása vagy felügyelete alá tartozó költségvetési szerv belső ellenőrzései tevékenységének szakmai felügyeletét;
+a)[^58] a fejezetet irányító szerv irányítása vagy felügyelete alá tartozó költségvetési szerv belső ellenőrzései tevékenységének szakmai felügyeletét;
 
 b) a fejezeten belüli ellenőrzések koordinációját;
 
-c)[^58] a 32. § (5) bekezdésében és a 49. § (4) bekezdésében foglaltakat.
+c)[^59] a 32. § (5) bekezdésében és a 49. § (4) bekezdésében foglaltakat.
 
-[^56]: A 21. § (2) bekezdés a) pontja a 187/2016. (VII. 13.) Korm. rendelet 16. § n) pontja szerint módosított szöveg.
-[^57]: A 21. § (5) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 8. pontja szerint módosított szöveg.
-[^58]: A 21. § (5) bekezdés c) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 9. pontja szerint módosított szöveg.
+[^57]: A 21. § (2) bekezdés a) pontja a 187/2016. (VII. 13.) Korm. rendelet 16. § n) pontja szerint módosított szöveg.
+[^58]: A 21. § (5) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 8. pontja szerint módosított szöveg.
+[^59]: A 21. § (5) bekezdés c) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 9. pontja szerint módosított szöveg.

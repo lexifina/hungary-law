@@ -1,24 +1,24 @@
-## 54/B. §[^130] Az állami felsőoktatási intézmények tekintetében e rendeletnek a költségvetési szerv vezetőjére vonatkozó rendelkezéseit a kancellár tekintetében kell alkalmazni.
+## 54/B. §[^131] Az állami felsőoktatási intézmények tekintetében e rendeletnek a költségvetési szerv vezetőjére vonatkozó rendelkezéseit a kancellár tekintetében kell alkalmazni.
 
-## 27. [^131] Az országos nemzetiségi önkormányzat által alapított költségvetési szervre vonatkozó különös szabályok
+## 27. [^132] Az országos nemzetiségi önkormányzat által alapított költségvetési szervre vonatkozó különös szabályok
 
-55. § (1)[^132] Az országos nemzetiségi önkormányzat által alapított költségvetési szerv belső ellenőrzési vezetője a tárgyévet követő évre vonatkozó éves ellenőrzési tervét megküldi az országos nemzetiségi önkormányzat hivatalának vezetője részére minden év október 31-ig.
+55. § (1)[^133] Az országos nemzetiségi önkormányzat által alapított költségvetési szerv belső ellenőrzési vezetője a tárgyévet követő évre vonatkozó éves ellenőrzési tervét megküldi az országos nemzetiségi önkormányzat hivatalának vezetője részére minden év október 31-ig.
 
-(2)[^133] Az országos nemzetiségi önkormányzat hivatalának belső ellenőrzési vezetője kidolgozza, és az országos nemzetiségi önkormányzat hivatalának vezetője az országos nemzetiségi önkormányzat elnökének minden év december 31-ig megküldi a következő évre vonatkozó éves ellenőrzési tervét, valamint az országos nemzetiségi önkormányzat által alapított költségvetési szervek éves ellenőrzési tervei alapján összeállított összefoglaló éves ellenőrzési tervet.
+(2)[^134] Az országos nemzetiségi önkormányzat hivatalának belső ellenőrzési vezetője kidolgozza, és az országos nemzetiségi önkormányzat hivatalának vezetője az országos nemzetiségi önkormányzat elnökének minden év december 31-ig megküldi a következő évre vonatkozó éves ellenőrzési tervét, valamint az országos nemzetiségi önkormányzat által alapított költségvetési szervek éves ellenőrzési tervei alapján összeállított összefoglaló éves ellenőrzési tervet.
 
-(3)[^134] Az országos nemzetiségi önkormányzat hivatala által az országos nemzetiségi önkormányzat által alapított költségvetési szerveknél lefolytatott ellenőrzések esetén az ellenőrzési jelentést az országos nemzetiségi önkormányzat hivatalának vezetője küldi meg az ellenőrzött szerv, illetve szervezeti egység vezetőjének, és felkéri az intézkedési terv elkészítésére.
+(3)[^135] Az országos nemzetiségi önkormányzat hivatala által az országos nemzetiségi önkormányzat által alapított költségvetési szerveknél lefolytatott ellenőrzések esetén az ellenőrzési jelentést az országos nemzetiségi önkormányzat hivatalának vezetője küldi meg az ellenőrzött szerv, illetve szervezeti egység vezetőjének, és felkéri az intézkedési terv elkészítésére.
 
-(4)[^135] Az országos nemzetiségi önkormányzat belső ellenőrzési vezetője felelős az éves ellenőrzési jelentés elkészítéséért, amelyet jóváhagyásra megküld az országos nemzetiségi önkormányzat által alapított költségvetési szerv vezetőjének.
+(4)[^136] Az országos nemzetiségi önkormányzat belső ellenőrzési vezetője felelős az éves ellenőrzési jelentés elkészítéséért, amelyet jóváhagyásra megküld az országos nemzetiségi önkormányzat által alapított költségvetési szerv vezetőjének.
 
-(5)[^136] Az éves ellenőrzési jelentést az országos nemzetiségi önkormányzat által alapított költségvetési szerv vezetője megküldi az országos nemzetiségi önkormányzat hivatalának vezetője részére a tárgyévet követő év február 15-ig.
+(5)[^137] Az éves ellenőrzési jelentést az országos nemzetiségi önkormányzat által alapított költségvetési szerv vezetője megküldi az országos nemzetiségi önkormányzat hivatalának vezetője részére a tárgyévet követő év február 15-ig.
 
-(6)[^137] Az országos nemzetiségi önkormányzat hivatalának vezetője köteles a tárgyévre vonatkozó éves ellenőrzési jelentést, valamint az országos nemzetiségi önkormányzat által alapított költségvetési szervek éves ellenőrzési jelentései alapján készített összefoglaló éves ellenőrzési jelentést megküldeni az országos nemzetiségi önkormányzat elnökének a tárgyévet követő év március 15-ig.
+(6)[^138] Az országos nemzetiségi önkormányzat hivatalának vezetője köteles a tárgyévre vonatkozó éves ellenőrzési jelentést, valamint az országos nemzetiségi önkormányzat által alapított költségvetési szervek éves ellenőrzési jelentései alapján készített összefoglaló éves ellenőrzési jelentést megküldeni az országos nemzetiségi önkormányzat elnökének a tárgyévet követő év március 15-ig.
 
-[^130]: Az 54/B. §-t a 175/2015. (VII. 7.) Korm. rendelet 34. §-a iktatta be.
-[^131]: A 27. alcím címe a 465/2015. (XII. 29.) Korm. rendelet 34. § 23. pontja szerint módosított szöveg.
-[^132]: Az 55. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 23. és 24. pontja szerint módosított szöveg.
-[^133]: Az 55. § (2) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 24. és 25. pontja szerint módosított szöveg.
-[^134]: Az 55. § (3) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 27. és 28. pontja szerint módosított szöveg.
-[^135]: Az 55. § (4) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 28. pontja szerint módosított szöveg.
-[^136]: Az 55. § (5) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 24. és 28. pontja szerint módosított szöveg.
-[^137]: Az 55. § (6) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 25. és 26. pontja szerint módosított szöveg.
+[^131]: Az 54/B. §-t a 175/2015. (VII. 7.) Korm. rendelet 34. §-a iktatta be.
+[^132]: A 27. alcím címe a 465/2015. (XII. 29.) Korm. rendelet 34. § 23. pontja szerint módosított szöveg.
+[^133]: Az 55. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 23. és 24. pontja szerint módosított szöveg.
+[^134]: Az 55. § (2) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 24. és 25. pontja szerint módosított szöveg.
+[^135]: Az 55. § (3) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 27. és 28. pontja szerint módosított szöveg.
+[^136]: Az 55. § (4) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 28. pontja szerint módosított szöveg.
+[^137]: Az 55. § (5) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 24. és 28. pontja szerint módosított szöveg.
+[^138]: Az 55. § (6) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 25. és 26. pontja szerint módosított szöveg.

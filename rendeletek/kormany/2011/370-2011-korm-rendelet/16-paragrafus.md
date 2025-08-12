@@ -1,12 +1,12 @@
-16. §[^49] (1) A belső ellenőrzési tevékenység ellátása részben vagy egészben – az e rendeletben meghatározott feltételekkel – külső szolgáltató bevonásával is biztosítható.
+16. §[^50] (1) A belső ellenőrzési tevékenység ellátása részben vagy egészben – az e rendeletben meghatározott feltételekkel – külső szolgáltató bevonásával is biztosítható.
 
-(2)[^50] A központi költségvetési szerv belső ellenőrzési tevékenységének teljes kiszervezése a fejezetet irányító szerv vezetőjének írásos jóváhagyásával történhet, amelyhez minisztérium esetében a Hivatal elnökének előzetes véleményét is ki kell kérni. A gazdasági szervezettel rendelkező központi költségvetési szerv – a kiszervezés mellett – legalább 1 fő belső ellenőrt alkalmaz foglalkoztatásra irányuló jogviszonyban. Ettől eltérni csak a fejezetet irányító szerv vezetőjének írásos jóváhagyásával lehet, amelyhez minisztérium esetében a Hivatal elnökének előzetes véleményét is ki kell kérni.
+(2)[^51] A központi költségvetési szerv belső ellenőrzési tevékenységének teljes kiszervezése a fejezetet irányító szerv vezetőjének írásos jóváhagyásával történhet, amelyhez minisztérium esetében a Hivatal elnökének előzetes véleményét is ki kell kérni. A gazdasági szervezettel rendelkező központi költségvetési szerv – a kiszervezés mellett – legalább 1 fő belső ellenőrt alkalmaz foglalkoztatásra irányuló jogviszonyban. Ettől eltérni csak a fejezetet irányító szerv vezetőjének írásos jóváhagyásával lehet, amelyhez minisztérium esetében a Hivatal elnökének előzetes véleményét is ki kell kérni.
 
-(3)[^51] Ha a minisztérium belső ellenőrzését külső szolgáltató bevonásával végzik, az ezzel kapcsolatos szerződés megkötéséhez ki kell kérni a Hivatal elnökének előzetes véleményét. A Hivatal elnöke a szerződéstervezet kézhezvételét követő 8 napon belül értesíti álláspontjáról a minisztériumot. Ha a Hivatal elnökétől a fenti határidő alatt nem érkezik észrevétel, ezt akként kell tekinteni, hogy a Hivatal elnöke a szerződés megkötésével egyetért.
+(3)[^52] Ha a minisztérium belső ellenőrzését külső szolgáltató bevonásával végzik, az ezzel kapcsolatos szerződés megkötéséhez ki kell kérni a Hivatal elnökének előzetes véleményét. A Hivatal elnöke a szerződéstervezet kézhezvételét követő 8 napon belül értesíti álláspontjáról a minisztériumot. Ha a Hivatal elnökétől a fenti határidő alatt nem érkezik észrevétel, ezt akként kell tekinteni, hogy a Hivatal elnöke a szerződés megkötésével egyetért.
 
 (4) A belső ellenőrzési vezető jogosult
 
-a)[^52] kapacitás kiegészítés vagy
+a)[^53] kapacitás kiegészítés vagy
 
 b) speciális szakértelem szükségessége
 
@@ -22,7 +22,7 @@ esetén külső szolgáltató bevonására javaslatot tenni a költségvetési s
 
 (9) Ha a központi költségvetési szerv, helyi önkormányzat, a helyi nemzetiségi önkormányzat, az önkormányzatok társulása, és az irányításuk alá tartozó költségvetési szerv a belső ellenőrzési tevékenység ellátására külső szolgáltatót is igénybe vesz, a költségvetési szerv belső ellenőrei kötelesek a külső szolgáltatóval és a külső szolgáltató által kijelölt személyekkel együttműködni. A külső szolgáltató vezetője a költségvetési szerv belső ellenőrei felett utasítási joggal nem rendelkezik.
 
-[^49]: A 16. § a 342/2019. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^50]: A 16. § (2) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^51]: A 16. § (3) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 2. pontja, a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^52]: A 16. § (4) bekezdés a) pontja a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^50]: A 16. § a 342/2019. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^51]: A 16. § (2) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^52]: A 16. § (3) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 2. pontja, a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^53]: A 16. § (4) bekezdés a) pontja a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 5. pontja szerint módosított szöveg.

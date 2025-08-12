@@ -4,7 +4,7 @@
 
 (2) A megbízólevél – e megnevezés mellett – az alábbiakat tartalmazza:
 
-a)[^86] az ellenőr nevét, nyilvántartási számát, szolgálati igazolványának, illetve – ha szolgálati igazolvánnyal nem rendelkezik – a személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát;
+a)[^87] az ellenőr nevét, nyilvántartási számát, szolgálati igazolványának, illetve – ha szolgálati igazolvánnyal nem rendelkezik – a személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát;
 
 b) az ellenőrzött szerv, illetve szervezeti egység megnevezését;
 
@@ -20,4 +20,4 @@ g) a kiállítás keltét;
 
 h) a kiállításra jogosult aláírását, bélyegzőlenyomatát.
 
-[^86]: A 34. § (2) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 4. pontja, a 132/2023. (IV. 18.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.
+[^87]: A 34. § (2) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 4. pontja, a 132/2023. (IV. 18.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.

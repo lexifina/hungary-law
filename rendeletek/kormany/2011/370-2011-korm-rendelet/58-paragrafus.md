@@ -1,3 +1,3 @@
-58. §[^143]
+58. §[^144]
 
-[^143]: Az 58. §-t a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 3. pontja hatályon kívül helyezte.
+[^144]: Az 58. §-t a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 3. pontja hatályon kívül helyezte.

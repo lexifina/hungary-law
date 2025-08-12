@@ -1,8 +1,8 @@
 31. § (1) A belső ellenőrzési vezető – összhangban a stratégiai ellenőrzési tervvel – összeállítja a tárgyévet követő évre vonatkozó éves ellenőrzési tervet.
 
-(1a)[^74] Az év közben újonnan létrejött vagy az Áht. 11. §-a szerint átalakult költségvetési szerv esetében a tárgyévre vonatkozó éves ellenőrzési tervet a költségvetési szerv létrejöttét vagy átalakulását követő kilencven napon belül kell elkészíteni vagy módosítani. A tárgyév szeptember 1-jét követően létrejött vagy átalakult költségvetési szerv esetében tárgyévre vonatkozó éves ellenőrzési tervet nem kell készíteni.
+(1a)[^75] Az év közben újonnan létrejött vagy az Áht. 11. §-a szerint átalakult költségvetési szerv esetében a tárgyévre vonatkozó éves ellenőrzési tervet a költségvetési szerv létrejöttét vagy átalakulását követő kilencven napon belül kell elkészíteni vagy módosítani. A tárgyév szeptember 1-jét követően létrejött vagy átalakult költségvetési szerv esetében tárgyévre vonatkozó éves ellenőrzési tervet nem kell készíteni.
 
-(1b)[^75] Ha az év közben újonnan létrejött vagy az Áht. 11. §-a szerint átalakult költségvetési szerv olyan időpontban jön létre, vagy alakul át, ami miatt a következő évre vonatkozó éves ellenőrzési tervét a 32. §-ban meghatározott határidőben nem tudja teljesíteni, úgy a következő évre vonatkozó ellenőrzési tervet a költségvetési szerv létrejöttét vagy átalakulását követő kilencven napon belül kell elkészíteni vagy módosítani.
+(1b)[^76] Ha az év közben újonnan létrejött vagy az Áht. 11. §-a szerint átalakult költségvetési szerv olyan időpontban jön létre, vagy alakul át, ami miatt a következő évre vonatkozó éves ellenőrzési tervét a 32. §-ban meghatározott határidőben nem tudja teljesíteni, úgy a következő évre vonatkozó ellenőrzési tervet a költségvetési szerv létrejöttét vagy átalakulását követő kilencven napon belül kell elkészíteni vagy módosítani.
 
 (2) Az éves ellenőrzési tervnek a stratégiai ellenőrzési tervben és a kockázatelemzés alapján felállított prioritásokon, valamint a belső ellenőrzés rendelkezésére álló erőforrásokon kell alapulnia.
 
@@ -34,14 +34,14 @@ k) a képzésekre tervezett kapacitást;
 
 l) az egyéb tevékenységeket.
 
-(5)[^76] Az éves ellenőrzési tervet a belső ellenőrzési vezető a költségvetési szerv vezetőjének egyetértésével módosíthatja. Helyi önkormányzat esetében a belső ellenőrzési vezető a képviselő-testület egyetértésével módosíthatja az éves ellenőrzési tervet.
+(5)[^77] Az éves ellenőrzési tervet a belső ellenőrzési vezető a költségvetési szerv vezetőjének egyetértésével módosíthatja. Helyi önkormányzat esetében a belső ellenőrzési vezető a képviselő-testület egyetértésével módosíthatja az éves ellenőrzési tervet.
 
-(6)[^77] Tanácsadó tevékenységet illetve soron kívüli ellenőrzést a költségvetési szerv vezetője, illetve a belső ellenőrzési vezető kezdeményezésére lehet végezni. Helyi önkormányzat esetén a képviselő-testület is kezdeményezheti a tanácsadó tevékenység, illetve soron kívüli ellenőrzés végzését.
+(6)[^78] Tanácsadó tevékenységet illetve soron kívüli ellenőrzést a költségvetési szerv vezetője, illetve a belső ellenőrzési vezető kezdeményezésére lehet végezni. Helyi önkormányzat esetén a képviselő-testület is kezdeményezheti a tanácsadó tevékenység, illetve soron kívüli ellenőrzés végzését.
 
-(7)[^78] Minisztérium esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot az álláspontjáról. Az álláspont közlésének elmaradására a 16. § (3) bekezdését kell alkalmazni.
+(7)[^79] Minisztérium esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot az álláspontjáról. Az álláspont közlésének elmaradására a 16. § (3) bekezdését kell alkalmazni.
 
-[^74]: A 31. § (1a) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 8. §-a iktatta be.
-[^75]: A 31. § (1b) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 8. §-a iktatta be.
-[^76]: A 31. § (5) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
-[^77]: A 31. § (6) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
-[^78]: A 31. § (7) bekezdését a 99/2015. (IV. 20.) Korm. rendelet 6. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 35. § 7. pontja, a 95/2018. (V. 22.) Korm. rendelet 7. § 5. pontja, a 342/2019. (XII. 23.) Korm. rendelet 18. § 3. pontja, a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 2. pontja, a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^75]: A 31. § (1a) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 8. §-a iktatta be.
+[^76]: A 31. § (1b) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 8. §-a iktatta be.
+[^77]: A 31. § (5) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
+[^78]: A 31. § (6) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
+[^79]: A 31. § (7) bekezdését a 99/2015. (IV. 20.) Korm. rendelet 6. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 35. § 7. pontja, a 95/2018. (V. 22.) Korm. rendelet 7. § 5. pontja, a 342/2019. (XII. 23.) Korm. rendelet 18. § 3. pontja, a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 2. pontja, a 132/2023. (IV. 18.) Korm. rendelet 19. § (2) bekezdés 4. pontja szerint módosított szöveg.
