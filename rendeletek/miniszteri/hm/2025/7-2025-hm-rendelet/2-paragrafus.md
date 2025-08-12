@@ -1,0 +1,1 @@
+2. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 109. § (5) bekezdése szerinti, a költségvetési kiadási előirányzatok terhére nyújtott költségvetési támogatásokra vonatkozó előírásokat az 1. melléklet tartalmazza.
