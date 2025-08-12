@@ -32,4 +32,6 @@ j) a 2036–2045. években évente legfeljebb 120 000 000 forint;
 
 | Határidő: | a 2027–2045. évi központi költségvetés tervezése során |
 
-5. visszavonja a Széchenyi Kártya Programmal kapcsolatban felmerült többletforrásigényekről szóló 1570/2022. (XI. 28.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
