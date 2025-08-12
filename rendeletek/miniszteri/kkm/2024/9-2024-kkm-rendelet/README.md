@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-9-20-6Q
 | 2025-01-24 | 2024-9-20-6Q.5 | 21/2024. (XII. 23.) KKM rendelet |
 | 2025-05-15 | 2024-9-20-6Q.6 | 7/2025. (V. 14.) KKM rendelet |
 | 2025-07-01 | 2024-9-20-6Q.4 | 21/2024. (XII. 23.) KKM rendelet |
+| 2025-08-12 | 2024-9-20-6Q.7 | 21/2024. (XII. 23.) KKM rendelet |
