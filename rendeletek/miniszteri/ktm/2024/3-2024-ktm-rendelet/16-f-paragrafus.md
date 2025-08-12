@@ -1,0 +1,1 @@
+16/F. § A díj adományozását a pénzjutalom összegének megjelölésével az adományozási alkalmat legalább 30 nappal megelőzően az európai uniós fejlesztésekért felelős államtitkár – saját döntése alapján vagy főosztályvezetőnél magasabb beosztású munkatársa kezdeményezésére – terjeszti fel a miniszternél.

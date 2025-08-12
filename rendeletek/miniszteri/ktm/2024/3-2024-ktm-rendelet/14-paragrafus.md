@@ -22,8 +22,8 @@ f) a helyi önkormányzatok eredményes működése
 
 (4) A díjazott plakettet és az adományozást igazoló oklevelet kap.
 
-(5)[^10] A kör alakú, bronzból készült, 11 cm átmérőjű és 1,2 cm vastagságú plakett előlapján körkörösen a „Helyi Önkormányzatokért Díj” felirat, a kör közepén Magyarország stilizált térképével, hátoldalán Magyarország címere és a „Helyi Önkormányzatokért Felelős Minisztertől” szöveg látható.
+(5)[^18] A kör alakú, bronzból készült, 11 cm átmérőjű és 1,2 cm vastagságú plakett előlapján körkörösen a „Helyi Önkormányzatokért Díj” felirat, a kör közepén Magyarország stilizált térképével, hátoldalán Magyarország címere és a „Helyi Önkormányzatokért Felelős Minisztertől” szöveg látható.
 
 (6) A díjhoz természetes személy elismerése esetén 600 000 forint, szervezetnek való adományozás esetén 750 000 forint összegű pénzjutalom jár.
 
-[^10]: A 14. § (5) bekezdése az 5/2025. (V. 21.) KTM rendelet 9. §-a szerint módosított szöveg.
+[^18]: A 14. § (5) bekezdése az 5/2025. (V. 21.) KTM rendelet 9. §-a szerint módosított szöveg.

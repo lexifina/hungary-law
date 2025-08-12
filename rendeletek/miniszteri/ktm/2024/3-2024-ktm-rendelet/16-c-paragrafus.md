@@ -1,4 +1,4 @@
-## 7/B.[^13] Aktív Magyarországért díj
+## 7/B.[^21] Aktív Magyarországért díj
 
 16/C. § (1) Aktív Magyarországért díj (ezen alcím alkalmazásában a továbbiakban: díj) az aktív életmód és kikapcsolódás elősegítése érdekében végzett kiemelkedő tevékenység elismeréseként adományozható.
 
@@ -12,4 +12,4 @@
 
 (6) A díjhoz 1 000 000 forint összegű pénzjutalom jár.
 
-[^13]: A 7/B. alcímet (16/C–16/D. §-t) az 5/2025. (V. 21.) KTM rendelet 4. §-a iktatta be.
+[^21]: A 7/B. alcímet (16/C–16/D. §-t) az 5/2025. (V. 21.) KTM rendelet 4. §-a iktatta be.
