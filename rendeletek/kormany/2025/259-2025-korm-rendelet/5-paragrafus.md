@@ -1,0 +1,1 @@
+5. § Az állami kezességvállalás érvényesítésére a 110/2006. (V. 5.) Korm. rendelet 8/E. §-ának a hitel- és kölcsönszerződésekre vonatkozó rendelkezéseit kell alkalmazni, azzal, hogy az érvényesítéssel érintett ügylet a Turizmus törvény 9/M. § (1) bekezdésében foglaltaknak felel meg.
