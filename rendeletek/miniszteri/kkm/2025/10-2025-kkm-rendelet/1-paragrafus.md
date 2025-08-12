@@ -1,0 +1,5 @@
+## [1] E rendelet célja rögzíteni az előirányzatok felhasználásával összefüggő pénzforgalmi szolgáltatások nyújtásáért a Magyar Államkincstár által felszámított díjak fedezetéül szolgáló, a külgazdasági és külügyminiszter irányítása alá tartozó fejezetben a közpénzekkel való hatékony és áttekinthető gazdálkodás biztosítása érdekében újonnan létrehozott fejezeti kezelésű előirányzat felhasználásának rendjét.
+
+## [2] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 18. alpontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben a következőket rendelem el:
+
+1. § A fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 9/2024. (VI. 10.) KKM rendelet 1. melléklete az 1. melléklet szerint módosul.
