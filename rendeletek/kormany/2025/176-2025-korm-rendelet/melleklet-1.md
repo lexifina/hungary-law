@@ -66,15 +66,18 @@ Kivételi körbe eső állami tulajdonú gazdasági társaságok
 
 | 31. | Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01 10 141742 |
 
-| 32.[^2] | Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság | 17 10 001282 |
+| 32.[^3] | Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság | 17 10 001282 |
 
-| 33.[^3] | Finatom Nonprofit Korlátolt Felelősségű Társaság | 17 09 013733 |
+| 33.[^4] | Finatom Nonprofit Korlátolt Felelősségű Társaság | 17 09 013733 |
 
-| 34.[^4] | Hunatom Innovációs és Gazdaságfejlesztési Zártkörűen Működő Részvénytársaság | 01 10 049752 |
+| 34.[^5] | Hunatom Innovációs és Gazdaságfejlesztési Zártkörűen Működő Részvénytársaság | 01 10 049752 |
 
-| 35.[^5] | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17 09 003039 |
+| 35.[^6] | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17 09 003039 |
 
-[^2]: Az 1. mellékletben foglalt táblázat 32. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1. mellékletben foglalt táblázat 33. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. mellékletben foglalt táblázat 34. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. mellékletben foglalt táblázat 35. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+| 36.[^7] | MÁV Pályaműködtetési Zártkörűen Működő Részvénytársaság | 01 10 143081 |
+
+[^3]: Az 1. mellékletben foglalt táblázat 32. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. mellékletben foglalt táblázat 33. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. mellékletben foglalt táblázat 34. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. mellékletben foglalt táblázat 35. sorát a 191/2025. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. mellékletben foglalt táblázat 36. sorát a 258/2025. (VIII. 11.) Korm. rendelet 1. §-a iktatta be.
