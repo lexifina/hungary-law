@@ -1,0 +1,1 @@
+4. § E rendeletet az e rendelet hatálybalépését megelőzően építési engedéllyel már rendelkező építési beruházásokra, valamint az e rendelet hatálybalépésekor folyamatban lévő hatósági eljárásokra is alkalmazni kell, ha a 2. §-ban foglalt feltételeknek megfelelnek.
