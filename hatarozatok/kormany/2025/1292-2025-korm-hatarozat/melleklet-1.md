@@ -128,14 +128,10 @@
 
 | Határidő: | az e határozat közzétételét követő hat hónapon belül |
 
-## 14. visszavonja
-
-## a) az ÁPV Rt. hozzárendelt vagyonába tartozó ingatlanok térítésmentes önkormányzati tulajdonba adásának második üteméről szóló 1082/1997. (VII. 18.) Korm. határozat 5. pontját,
-
-## b) az egyes állami vagyontárgyak ingyenes tulajdonba adásáról szóló 1183/2021. (IV. 16.) Korm. határozat 1. melléklet 29. pontját,
-
-## c) a Győr–Gönyű Országos Közforgalmú Kikötőben megvalósuló beruházással összefüggő egyes intézkedésekről szóló 1067/2023. (III. 8.) Korm. határozatot.
+## 14.[^1]
 
 1. melléklet az 1292/2025. (VIII. 11.) Korm. határozathoz
 
 Helyi önkormányzat tulajdonába kerülő ingatlanok jegyzéke
+
+[^1]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
