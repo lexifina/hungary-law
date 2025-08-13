@@ -1,0 +1,37 @@
+# A Kormány 260/2025. (VIII. 13.) Korm. rendelete
+
+Magyar Közlöny 2025. évi 94. szám, 2025. augusztus 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/HpqqLpLAphtpNBaueZ2e6890fd45b1402/dokumentumok/908a95cb70e8cb2645fc24f6789265b1fffec8bb/letoltes)
+
+---
+
+A Kormány 260/2025. (VIII. 13.) Korm. rendelete
+a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék
+forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet módosításáról
+[1] Annak érdekében, hogy Magyarország minél gyorsabban átállhasson a körforgásos gazdaságra, és elérje a műanyag
+italpalackok 90 százalékos elkülönített gyűjtési arányát, a 2024. év elejétől kötelező visszaváltási rendszer működik
+az országban.
+[2] A rendelet célja a kötelező visszaváltási díjas rendszer működtetését biztosító bevételek felhasználásával kapcsolatos
+szabályozások pontosítása.
+[3] A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 9. és 37. pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának
+részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet (a továbbiakban: 450/2023. Korm. rendelet) 30. §
+(2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az egységnyi csatlakozási és szolgáltatási díjakra a Hivatal a Ht. rendelkezéseinek figyelembevételével,
+a 3. mellékletben meghatározott díjkód szerinti bontásban, a tárgyévet megelőző év szeptember 15. napjáig tesz
+javaslatot. A javaslat elkészítése során a Hivatal figyelembe veszi a fogyasztó által vissza nem váltott, kötelezően
+visszaváltási díjas, nem újrahasználható termék visszafizetésre nem kerülő visszaváltási díjából a koncessziós
+társaság tárgyévben várható bevételét, továbbá a tárgyévet két évvel megelőző naptári évben az (1) bekezdés
+szerinti díjakból származó és a fogyasztó által vissza nem váltott kötelezően visszaváltási díjas, nem újrahasználható
+termék visszafizetésre nem került visszaváltási díjából származó bevétel, valamint az ugyanezen időszakban
+a koncessziós társaságnál a kötelező visszaváltási díjas termékekkel kapcsolatban felmerült indokolt költségek
+különbözetét.”
+2. §
+A 450/2023. Korm. rendelet 26. § (3) bekezdésében a„díjas termék”szövegrész helyébe a„díjas, nem újrahasználható
+termék” szöveg és a „működtetésére fordítja” szövegrész helyébe a „működtetésére – ideértve a szükséges
+beruházásokat is – fordítja”szöveg lép.
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
