@@ -1,1 +1,3 @@
-33. § Hatályát veszti a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 5/2018. (III. 8.) HM rendelet.
+33. §[^1]
+
+[^1]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
