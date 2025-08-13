@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 6. § (2) bekezdésében a „kerül sor” szövegrész helyébe az „ , a 2. § (2) bekezdés k) pontjában szereplő díj átadására a Nemzeti Fejlesztési Központ (a továbbiakban: NFK) megalakulásának évfordulója (augusztus 1.) alkalmából kerül sor” szöveg,
-
-b) 12. § (5) bekezdésében az „emléktárgy” szövegrész helyébe az „emléktábla” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

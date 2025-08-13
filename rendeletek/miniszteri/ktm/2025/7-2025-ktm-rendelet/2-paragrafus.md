@@ -1,5 +1,3 @@
-## „k) NFK kiválósági díj.”
+2. §[^3]
 
-2. § Az R. 3. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Miniszteri Elismerő Oklevéllel és az NFK kiválósági díjjal járó pénzjutalom fedezetét annak a szervezetnek a költségvetése biztosítja, amelynek vezetője az elismerés adományozására javaslatot tesz.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
