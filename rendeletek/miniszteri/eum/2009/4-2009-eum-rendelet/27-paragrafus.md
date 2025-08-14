@@ -22,9 +22,12 @@ rendszeres időszakos felülvizsgálatnak köteles alávetni annak érdekében, 
 
 (8) Az időszakos felülvizsgálat nem érinti a más minősítő intézet hatáskörébe utalt kötelező vizsgálatokat.
 
+(9)[^75] Felülvizsgálatra feljogosított állami fenntartású, illetve állam tulajdonában lévő fekvőbeteg-szakellátó egészségügyi intézmény – ideértve az Eütv. 155. § (19) bekezdés a) pontja szerinti rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltatót és b) pontja szerinti honvédelmi egészségügyi szolgáltatót – a rendszeres időszakos felülvizsgálati tevékenységet kizárólag a használatában lévő, 13. mellékletben meghatározott kategóriákba tartozó orvostechnikai eszközök vonatkozásában gyakorolhatja.
+
 [^69]: A 27. § a 35/2021. (VIII. 16.) EMMI rendelet 31. §-ával megállapított szöveg.
 [^70]: A 27. § (1) bekezdése az 57/2024. (XII. 20.) BM rendelet 29. §-ával megállapított szöveg.
 [^71]: A 27. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § d) és e) pontja szerint módosított szöveg.
 [^72]: A 27. § (5) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § e) pontja szerint módosított szöveg.
 [^73]: A 27. § (6) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § c) pontja szerint módosított szöveg.
 [^74]: A 27. § (7) bekezdése a 28/2023. (VIII. 10.) BM rendelet 52. § e) pontja szerint módosított szöveg.
+[^75]: A 27. § (9) bekezdését a 32/2025. (VIII. 11.) BM rendelet 6. §-a iktatta be.
