@@ -1,0 +1,1 @@
+2. § A 450/2023. Korm. rendelet 26. § (3) bekezdésében a „díjas termék” szövegrész helyébe a „díjas, nem újrahasználható termék” szöveg és a „működtetésére fordítja” szövegrész helyébe a „működtetésére – ideértve a szükséges beruházásokat is – fordítja” szöveg lép.
