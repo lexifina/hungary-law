@@ -1,0 +1,1 @@
+3. § Az R. 2. melléklet „SÜRGŐSSÉGI BETEGELLÁTÁS” megjelölésű rész „Központi ügyelet”, „Szakmakód: 4601” megjelölésű részében foglalt táblázatban a „Laryngeális tubus” szövegrész helyébe a „Laryngeális tubus vagy laryngeális maszk” szöveg lép.
