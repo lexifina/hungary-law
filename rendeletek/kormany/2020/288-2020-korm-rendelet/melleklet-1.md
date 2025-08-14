@@ -44,7 +44,10 @@ Az ellenőrzött bejelentés alkalmazásából kizárt ügyek
 
 20.[^4] Köznevelési nyilvántartásba vételi és engedélyezési eljárások
 
+21.[^5] Nem védett kulturális javak kiviteli engedélyezése
+
 [^1]: A 3. §-t a 259/2021. (V. 20.) Korm. rendelet 48. §-a iktatta be.
 [^2]: Az 1. melléklet az 561/2023. (XII. 14.) Korm. rendelet 49. §-ával megállapított szöveg.
 [^3]: Az 1. melléklet 7. pontja a 285/2024. (IX. 30.) Korm. rendelet 145. §-ával megállapított szöveg.
 [^4]: Az 1. melléklet 20. pontja a 201/2024. (VII. 29.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 21. pontját a 266/2025. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
