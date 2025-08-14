@@ -10,4 +10,6 @@ c) a saját nyilvántartási rendszereivel, mérési, megfigyelési adataival eg
 
 (3) Ha a beépített automatikus ellenőrzés az adatszolgáltatásra kötelezett által feltöltött adat tartalma ellenőrzése során hibát tár fel, arról az adatszolgáltatásra kötelezett részére elektronikus értesítést küld.
 
-(4) A 2023. július 1-jét megelőző időszakra vonatkozó a hulladékgazdálkodási közszolgáltatási feladatok ellátására közszolgáltatóként működött gazdasági társaság valamennyi, az adott számlázási időszakban ellátott ingatlanhasználó tekintetében, a Koordináló szerv által a honlapján közzétetteknek megfelelő struktúrában, a megjelölt határidő betartásával a közszolgáltatási díj Koordináló szerv általi számlázásához szükséges adatot tartalmazó számlaállományt az ügyfélportálon keresztül átadja a Koordináló szerv részére.
+(4)[^2]
+
+[^2]: A 4. § (4) bekezdését a 25/2025. (VIII. 13.) EM rendelet 2. § a) pontja hatályon kívül helyezte.

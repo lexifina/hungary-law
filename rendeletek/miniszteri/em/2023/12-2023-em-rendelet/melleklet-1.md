@@ -8,10 +8,12 @@ A 3. § (1) bekezdése szerinti adatszolgáltatásra kötelezettek által a Koor
 
 3. A hulladékgazdálkodási létesítményeknek az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló 246/2014. (IX. 29.) Korm. rendelet 2. § (1) bekezdés 14. pontja szerinti üzemnaplója.
 
-4. A hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 309/2014. (XII. 11.) Korm. rendelet alapján az Országos Környezetvédelmi Információs Rendszerbe történő adatszolgáltatás során feltöltött adatok.
+4.[^4]
 
 5. A hulladéklerakók telítettségének monitorozásához szükséges adatok.
 
 6. Az illegálisan lerakott hulladék mennyisége helyszínenként és típusonként.
 
 7. Az adatszolgáltatásra kötelezettek hulladékgazdálkodással érintett telephelyeinek főkönyvi pénzügyi adatai.
+
+[^4]: Az 1. melléklet 4. pontját a 25/2025. (VIII. 13.) EM rendelet 2. § b) pontja hatályon kívül helyezte.
