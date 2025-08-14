@@ -1,10 +1,8 @@
-## A tanácsadó alapfelszerelése
-
 ## I.
 
 ## – Személymérleg,
 
-## – magasságmérőállvány,
+## – magasságmérő állvány,
 
 ## – csecsemőmérleg,
 
@@ -14,7 +12,7 @@
 
 ## – audiométer,
 
-## – látásélesség vizsgáló tábla,
+## – látásélesség-vizsgáló tábla,
 
 ## – színlátást vizsgáló könyv,
 
@@ -24,17 +22,17 @@
 
 ## – magzati szívhangvizsgáló készülék,
 
-## – vizeletvizsgálathoz: (reagensek, tesztek, kémcsövek, kémcsőállvány, vizeletgyűjtő pohár),
+## – vizeletvizsgálathoz: vizeletvizsgálati gyorstesztek, vizeletgyűjtő pohár,
 
 ## – vércukor meghatározásához eszköz,
 
-## – egyszerhasználatos gumikesztyűk, gumiujjak,
+## – egyszer használatos gumikesztyűk, gumiujjak,
 
-## – egyszerhasználatos fecskendők, injekciós tűk különböző méretben,
+## – egyszer használatos fecskendők, injekciós tűk különböző méretben,
 
-## – leszorító gumi,
+## – leszorítógumi,
 
-## – csipesz (kullancs, szálka)
+## – csipesz (kullancs, szálka),
 
 ## – olló (különböző),
 
@@ -44,21 +42,19 @@
 
 ## – lázmérő,
 
-## – OPV adáshoz kanál,
-
 ## – vizespohár,
 
 ## – pedálos vödör,
 
-## – textíliák: (köpeny, törölköző, lepedő, műszertörlő),
+## – textíliák: köpeny, törölköző, lepedő, műszertörlő,
 
 ## – hűtőszekrény, hűtőtáska,
 
-## – veszélyes anyagok tárolására alkalmas hulladék gyűjtő,
+## – veszélyes anyagok tárolására alkalmas hulladékgyűjtő,
 
-## – bútorzat: (műszer- és kötszerszekrény, vizsgálóasztal, műszerasztal, mérlegasztal, pakolóasztal, zárható íróasztal, irattartó szekrény, számítógép asztal, székek, fekvőhely).
+## – bútorzat: műszer- és kötszerszekrény, vizsgálóasztal, műszerasztal, mérlegasztal, pakolóasztal, zárható íróasztal, irattartó szekrény, számítógépasztal, székek, fekvőhely.
 
-## II.[^40]
+## II.
 
 ## – telefon,
 
@@ -66,7 +62,7 @@
 
 ## – nyomtató,
 
-## – szélessávú internet elérés.
+## – szélessávúinternet-elérés.
 
 5/A. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^41]
 
@@ -100,5 +96,4 @@
 
 14. postázáshoz szükséges feltételek: buborékos boríték, A/4-es boríték, postakönyv.
 
-[^40]: Az 5. számú melléklet II. pontja a 28/2013. (IV. 5.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^41]: Az 5/A. számú mellékletet a 28/2013. (IV. 5.) EMMI rendelet 3. § (2) bekezdése iktatta be.
