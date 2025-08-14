@@ -15,3 +15,10 @@ d) az országba visszaviteli kötelezettséggel behozott kulturális javak eset�
 (3) A műtárgykísérő igazolás tartalmát a 20. melléklet határozza meg.
 
 (4) A kulturális javak hatósága a határozott időre szóló műtárgykísérő igazolás időbeli hatályát a kulturális javak védetté nyilvánításának jogszabályban meghatározott szempontjai esetleges bekövetkezésének várható időpontjára tekintettel állapítja meg.
+
+(5)[^278] A nem védett kulturális javak kiviteli engedélye iránti kérelem esetén a kérelmező a kérelem benyújtásával egyidejűleg köteles a kérelemmel érintett kulturális javakat fizikai vizsgálat céljából a kulturális javak hatósága részére rendelkezésre bocsátani.
+
+(6)[^279] A kulturális javak hatósága a kérelem elbírálása során köteles a kérelemmel érintett kulturális javakat fizikailag megvizsgálni és a vizsgálat eredményét jegyzőkönyvbe foglalni.
+
+[^278]: A 107. § (5) bekezdését a 266/2025. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^279]: A 107. § (6) bekezdését a 266/2025. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.

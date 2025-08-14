@@ -2,13 +2,13 @@
 
 a) a kiviteli engedély számát,
 
-b)[^279]
+b)[^282]
 
-c)[^280]
+c)[^283]
 
-d)[^281]
+d)[^284]
 
-e)[^282]
+e)[^285]
 
 (2) A nem védett kulturális javak kiviteli engedélyének nyilvántartása tartalmazza
 
@@ -16,7 +16,7 @@ a) a kiviteli engedély számát,
 
 b) a tárgy megnevezését, azonosításra alkalmas adatait,
 
-c)[^283]
+c)[^286]
 
 d) a kiviteli engedély időbeli hatályát, továbbá
 
@@ -28,11 +28,11 @@ a) a tárgy megnevezését, azonosításra alkalmas adatait,
 
 b) a műtárgykísérő igazolás számát és időbeli hatályát.
 
-(4)[^284] A behozatali engedélyek nyilvántartása tartalmazza a behozatali engedély számát.
+(4)[^287] A behozatali engedélyek nyilvántartása tartalmazza a behozatali engedély számát.
 
-[^279]: A 111. § (1) bekezdés b) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^280]: A 111. § (1) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^281]: A 111. § (1) bekezdés d) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^282]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^283]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^284]: A 111. § (4) bekezdését a 142/2025. (VI. 19.) Korm. rendelet 35. §-a iktatta be.
+[^282]: A 111. § (1) bekezdés b) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^283]: A 111. § (1) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^284]: A 111. § (1) bekezdés d) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^285]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^286]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^287]: A 111. § (4) bekezdését a 142/2025. (VI. 19.) Korm. rendelet 35. §-a iktatta be.
