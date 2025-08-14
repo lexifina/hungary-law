@@ -1,0 +1,3 @@
+4. §[^14] Bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok nyersanyagának kitermelése nem teljesíti az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk (1) bekezdésében meghatározott fenntarthatósági és üvegházhatásúgázkibocsátás-megtakarítási kritériumokat, ha a nyersanyag olyan földterületen termesztett nyersanyag, amely földterület 2008 januárjában tőzeges ősláp földterület volt, kivéve, ha a biomassza-termelő bizonyítja, hogy a nyersanyag termesztése és betakarítása nem jár korábban lecsapolatlan területek lecsapolásával.
+
+[^14]: A 4. § a 39/2025. (VIII. 13.) AM rendelet 9. § j) pontja szerint módosított szöveg.

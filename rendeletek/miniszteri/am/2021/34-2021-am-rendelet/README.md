@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-34-20-7
 | 2021-10-14 | 2021-34-20-7R.1 | 34/2021. (X. 6.) AM rendelet |
 | 2021-10-15 | 2021-34-20-7R.2 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-34-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-08-14 | 2021-34-20-7R.4 | 39/2025. (VIII. 13.) AM rendelet |
