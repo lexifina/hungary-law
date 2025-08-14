@@ -34,11 +34,11 @@ l)[^10] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valam
 
 m)[^11] egy és ugyanazon vállalkozás: a Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
 
-n)[^12] átmeneti támogatás: a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti támogatás.
+n)[^12]
 
 o)[^13] sertés: az ex 0103921900 vámtarifaszámú, legalább 70 kg élősúlyú vágósertés vagy az élelmiszerlánc-felügyeleti információs rendszer szerinti tenyészsertés.
 
-p)[^14] válságtámogatás: az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás.
+p)[^14]
 
 [^1]: Az 1. § b) pontja a 65/2016. (IX. 21.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pont ba) alpontja a 14/2024. (IV. 25.) NGM rendelet 1. §-ával megállapított szöveg.
@@ -51,6 +51,6 @@ p)[^14] válságtámogatás: az orosz–ukrán konfliktus miatt gazdasági nehé
 [^9]: Az 1. § k) pontját az 51//2016. (VII. 21.) FM rendelet 5. §-a iktatta be.
 [^10]: Az 1. § l) pontját az 51//2016. (VII. 21.) FM rendelet 5. §-a iktatta be.
 [^11]: Az 1. § m) pontját a 65/2016. (IX. 21.) FM rendelet 6. § (2) bekezdése iktatta be.
-[^12]: Az 1. § n) pontját a 66/2020. (XII. 18.) AM rendelet 1. §-a iktatta be.
+[^12]: Az 1. § n) pontját a 66/2020. (XII. 18.) AM rendelet 1. §-a iktatta be, a 23/2025. (VIII. 13.) NGM rendelet 10. § a) pontja hatályon kívül helyezte.
 [^13]: Az 1. § o) pontját a 49/2021. (XII. 28.) AM rendelet 1. §-a iktatta be.
-[^14]: Az 1. § p) pontját a 26/2022. (VIII. 31.) AM rendelet 1. §-a iktatta be.
+[^14]: Az 1. § p) pontját a 26/2022. (VIII. 31.) AM rendelet 1. §-a iktatta be, a 23/2025. (VIII. 13.) NGM rendelet 10. § a) pontja hatályon kívül helyezte.

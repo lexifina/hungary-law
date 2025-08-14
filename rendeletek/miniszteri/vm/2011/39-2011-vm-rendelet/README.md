@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2023-12-28 | 2011-39-20-2Y.35 | 25/2023. (IX. 28.) GFM rendelet |
 | 2024-04-26 | 2011-39-20-2Y.36 | 14/2024. (IV. 25.) NGM rendelet |
 | 2024-08-30 | 2011-39-20-2Y.37 | 32/2024. (VIII. 29.) NGM rendelet |
+| 2025-08-14 | 2011-39-20-2Y.38 | 23/2025. (VIII. 13.) NGM rendelet |
