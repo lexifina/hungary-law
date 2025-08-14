@@ -1,0 +1,3 @@
+6. § A 39/2011. (V. 18.) VM rendelet 7/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az 1408/2013/EU bizottsági rendelet szerinti támogatás a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű támogatással 50 000 eurónak megfelelő forintösszegig, az (EU) 2023/2831 bizottsági rendelet szerinti általános csekély összegű támogatással 300 000 eurónak megfelelő forintösszegig halmozható, feltéve, hogy a tevékenységek szétválasztásával vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön a 717/2014/EU bizottsági rendelet vagy az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatásban.”
