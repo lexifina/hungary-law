@@ -2,7 +2,7 @@
 
 ## 4. Gépkocsivásárlási kölcsön
 
-9. § (1) A gépkocsivásárlási kölcsön legmagasabb összege a központi költségvetésről szóló törvényben meghatározott deviza-illetményalap összegének tizenkétszerese, de az nem haladhatja meg a gépkocsi vételárát.
+9. § (1)[^9] A gépkocsivásárlási kölcsön legmagasabb összege a központi költségvetésről szóló törvényben meghatározott deviza-illetményalap tárgyévet megelőző év december 15. napján érvényes, az MNB által közzétett hivatalos amerikai dollár árfolyamon átszámított összegének tizenkétszerese, de az nem haladhatja meg a gépkocsi vételárát.
 
 (2) A gépkocsivásárlási kölcsön kamatának mértéke 0%.
 
@@ -15,3 +15,5 @@
 (6) A kihelyezett a kérelmet a külképviselet vezetőjének nyújtja be, aki a kérelmet a kihelyező vezetőnek továbbítja.
 
 (7) A kihelyező vezető a kérelmet beérkezése napjától számított 30 napon belül elbírálja.
+
+[^9]: A 9. § (1) bekezdése a 11/2025. (VIII. 13.) KKM rendelet 3. §-ával megállapított szöveg.
