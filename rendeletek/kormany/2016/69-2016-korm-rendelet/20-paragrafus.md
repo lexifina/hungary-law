@@ -1,8 +1,8 @@
 ## 19. § A Koordináló szerv rendszeres adattovábbítást adatfeldolgozásra kötött szerződés alapján, valamint jogszabályban meghatározott szerveknek végezhet, a jogszabályban meghatározott időszakonként és tartalommal.
 
-## 11.[^21] A koncessziós társaság adatszolgáltatása
+## 11.[^24] A koncessziós társaság adatszolgáltatása
 
-20. §[^22] (1) A Ht. 53/J. § (2) bekezdése szerinti, a koncessziós társaság által évente benyújtott tevékenységi beszámoló alapján a miniszter dönt a koncessziós szerződésben foglalt további jelentések szükségességéről és tartalmáról. Ha a tevékenységi beszámoló alapján nem állapítható meg, hogy biztosított-e a koncessziós szerződésben foglalt célértékek határidőben történő teljesítése, vagy ha a miniszter a gördülő fejlesztési rendszerterv jóváhagyása során az indokolásban előírta, a koncessziós társaság a jelentésben további felvilágosítást és adatszolgáltatást ad a miniszter által előírt tartalommal.
+20. §[^25] (1) A Ht. 53/J. § (2) bekezdése szerinti, a koncessziós társaság által évente benyújtott tevékenységi beszámoló alapján a miniszter dönt a koncessziós szerződésben foglalt további jelentések szükségességéről és tartalmáról. Ha a tevékenységi beszámoló alapján nem állapítható meg, hogy biztosított-e a koncessziós szerződésben foglalt célértékek határidőben történő teljesítése, vagy ha a miniszter a gördülő fejlesztési rendszerterv jóváhagyása során az indokolásban előírta, a koncessziós társaság a jelentésben további felvilágosítást és adatszolgáltatást ad a miniszter által előírt tartalommal.
 
 (2) A koncessziós társaság részére a Ht. 53/J. §-a szerinti kötelezettség teljesítéséhez a miniszter a rendelkezésére álló, környezet védelmének általános szabályairól szóló törvény szerinti környezeti adatokhoz – az adatvédelemre vonatkozó előírások betartása mellett – ingyenes adatkérési jogot biztosít a koncessziós szerződésben foglalt célértékek teljesülésének nyomon követése érdekében.
 
@@ -12,5 +12,5 @@
 
 (5) A koncessziós társaság rögzíti az állami hulladékgazdálkodási közfeladat ellátásával kapcsolatos adatokat, azokról nyilvántartást vezet, amelyhez a miniszter számára ellenőrzés céljából elektronikus úton hozzáférést biztosít.
 
-[^21]: A 11. alcím címe a 277/2023. (VI. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^22]: A 20. § a 277/2023. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^24]: A 11. alcím címe a 277/2023. (VI. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^25]: A 20. § a 277/2023. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

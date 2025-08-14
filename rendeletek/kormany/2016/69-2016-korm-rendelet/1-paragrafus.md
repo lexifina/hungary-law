@@ -2,7 +2,7 @@
 
 1. §[^1] E rendelet hatálya
 
-a) a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 32/A. § (4e) bekezdésében foglalt feladatok ellátására az állam által létrehozott Koordináló szervre,
+a)[^2] a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 32/A. § (4i) bekezdésében meghatározott Koordináló szervre (a továbbiakban: Koordináló szerv),
 
 b) a koncessziós társaságra,
 
@@ -21,3 +21,4 @@ h) az egyes közszolgáltatások ellátásáról és az ezzel összefüggő tör
 terjed ki.
 
 [^1]: Az 1. § a 277/2023. (VI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a) pontja a 261/2025. (VIII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

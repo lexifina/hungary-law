@@ -1,5 +1,5 @@
-## 6.[^9]
+## 6.[^10]
 
 7. §
 
-[^9]: A 6. alcímet (7–8. §) a 312/2021. (VI. 7.) Korm. rendelet 19. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^10]: A 6. alcímet (7–8. §) a 312/2021. (VI. 7.) Korm. rendelet 19. § (4) bekezdés a) pontja hatályon kívül helyezte.

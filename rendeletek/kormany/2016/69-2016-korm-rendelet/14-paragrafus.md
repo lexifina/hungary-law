@@ -1,3 +1,3 @@
-14. §[^16]
+14. §[^17]
 
-[^16]: A 14. §-t a 277/2023. (VI. 29.) Korm. rendelet 15. § 4. pontja hatályon kívül helyezte.
+[^17]: A 14. §-t a 277/2023. (VI. 29.) Korm. rendelet 15. § 4. pontja hatályon kívül helyezte.
