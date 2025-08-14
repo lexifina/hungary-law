@@ -1,0 +1,3 @@
+## 4. A hulladékgazdálkodási közszolgáltatási résztevékenység és a résztevékenység körébe tartozó, hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének, valamint a közszolgáltatási résztevékenység igénybevételének részletes szabályairól szóló 169/2024. (VI. 29.) Korm. rendelet módosítása
+
+5. § Hatályát veszti a hulladékgazdálkodási közszolgáltatási résztevékenység és a résztevékenység körébe tartozó, hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének, valamint a közszolgáltatási résztevékenység igénybevételének részletes szabályairól szóló 169/2024. (VI. 29.) Korm. rendelet 13. alcíme.

@@ -1,0 +1,3 @@
+## 3. A koncessziós társaság és a Koordináló szerv együttműködésére vonatkozó részletes szabályokról szóló 270/2023. (VI. 29.) Korm. rendelet módosítása
+
+4. § A koncessziós társaság és a Koordináló szerv együttműködésére vonatkozó részletes szabályokról szóló 270/2023. (VI. 29.) Korm. rendelet 1. § nyitó szövegrészében az „a Ht. 32/A. § (4i) bekezdésében kijelölt állami tulajdonú gazdasági társaság” szövegrész helyébe az „az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.) Korm. rendelet 3. § (1) bekezdésében kijelölt Koordináló szerv” szöveg lép.
