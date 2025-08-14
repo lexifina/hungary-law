@@ -1,4 +1,4 @@
-98/C. §[^402] (1) Azon szállítási rendszerüzemeltető, amely rendszerére a szállítóvezeték-létesítő által létesítendő szállítóvezeték csatlakozik (a továbbiakban: kapcsolódó szállítási rendszerüzemeltető) és a szállítóvezeték-létesítési engedély kérelmezője köteles a létesítésre vonatkozó együttműködési megállapodást megkötni. Az együttműködési megállapodás a Hivatal által kiadott szállítóvezeték-létesítési engedély hatályba lépésének napján lép hatályba.
+98/C. §[^407] (1) Azon szállítási rendszerüzemeltető, amely rendszerére a szállítóvezeték-létesítő által létesítendő szállítóvezeték csatlakozik (a továbbiakban: kapcsolódó szállítási rendszerüzemeltető) és a szállítóvezeték-létesítési engedély kérelmezője köteles a létesítésre vonatkozó együttműködési megállapodást megkötni. Az együttműködési megállapodás a Hivatal által kiadott szállítóvezeték-létesítési engedély hatályba lépésének napján lép hatályba.
 
 (2) Az (1) bekezdés szerinti együttműködési megállapodás tartalmazza
 
@@ -22,7 +22,7 @@ cd) a 92/A. § (6) bekezdése szerinti felelősségi szabályokra vonatkozó ren
 
 (5) A kapcsolódó szállítási rendszerüzemeltető – az (1) bekezdés szerinti együttműködési megállapodás alapján – megvizsgálja, hogy a tervezett szállítóvezeték-létesítés milyen fejlesztéseket igényel az általa üzemeltetett rendszer tekintetében, és annak eredményét – az együttműködési megállapodás megkötését követő 60 napon belül – megküldi a szállítási rendszerirányító, valamint a Hivatal részére.
 
-(6)[^403] A szállítási rendszerirányító az (5) bekezdés szerinti megkeresés alapján megvizsgálja, hogy a tervezett szállítóvezeték létesítése érinti-e a jóváhagyott 10 éves fejlesztési tervet. A szállítási rendszerirányító a vizsgálat eredménye alapján – az (5) bekezdés szerinti megkeresés kézhezvételét követő 60 napon belül – nyilatkozik a Hivatal felé arról, hogy a létesítés a jóváhagyott 10 éves fejlesztési tervet
+(6)[^408] A szállítási rendszerirányító az (5) bekezdés szerinti megkeresés alapján megvizsgálja, hogy a tervezett szállítóvezeték létesítése érinti-e a jóváhagyott 10 éves fejlesztési tervet. A szállítási rendszerirányító a vizsgálat eredménye alapján – az (5) bekezdés szerinti megkeresés kézhezvételét követő 60 napon belül – nyilatkozik a Hivatal felé arról, hogy a létesítés a jóváhagyott 10 éves fejlesztési tervet
 
 a) érinti, és bemutatja a létesítés miatt felmerült vagy módosult fejlesztési igényeket, vagy
 
@@ -30,5 +30,5 @@ b) nem érinti.
 
 (7) A Hivatal az (5) és a (6) bekezdés alapján megküldött adatokat a kérelem elbírálása során figyelembe veszi.
 
-[^402]: A Vhr. 98/C. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^403]: A Vhr. 96/C. § (6) bekezdés nyitó szövegrésze a 401/2020. (VIII. 17.) Korm. rendelet 29. § 15. pontja szerint módosított szöveg.
+[^407]: A Vhr. 98/C. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^408]: A Vhr. 96/C. § (6) bekezdés nyitó szövegrésze a 401/2020. (VIII. 17.) Korm. rendelet 29. § 15. pontja szerint módosított szöveg.

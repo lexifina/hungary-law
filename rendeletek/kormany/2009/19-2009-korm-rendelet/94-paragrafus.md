@@ -2,7 +2,7 @@
 
 ## Szolgáltatás szüneteltetése
 
-94. §[^369] (1)[^370] A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról és fejlesztéséről. Ennek érdekében jogosult díjvisszatérítési és pótdíjfizetési kötelezettség nélkül évente egy alkalommal, legfeljebb
+94. §[^374] (1)[^375] A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról és fejlesztéséről. Ennek érdekében jogosult díjvisszatérítési és pótdíjfizetési kötelezettség nélkül évente egy alkalommal, legfeljebb
 
 a) 48 óra időtartamú gázszünettel vagy
 
@@ -10,9 +10,9 @@ b) 120 óra időtartamú, a kapacitás legfeljebb 50%-os átmeneti csökkentés�
 
 (2) A rendszerüzemeltető – az (5) bekezdés kivételével – a gázszünettel járó karbantartások időpontját és a tervezett leállások időpontját a következő évre vonatkozóan – a GET 78. § (2) bekezdése szerinti határidő figyelembevételével – minden év december 15-ig bejelenti a kapcsolódó szállítási rendszerüzemeltető részére. A bejelentés részletes szabályait az ÜKSZ tartalmazza.
 
-(3)[^371] A szállítási rendszerüzemeltető évente köteles az általa üzemeltetett szállítóvezetékre karbantartási, leállási tervet készíteni, amely a gázszállítási szünettel járó karbantartási, felújítási, fejlesztési munkákat tartalmazza. A szállítási rendszerüzemeltető az általa üzemeltetett szállítóvezeték karbantartási, leállási tervének elkészítésekor a (2) bekezdés szerint bejelentett tervezett karbantartások és leállások időpontját figyelembe veszi.
+(3)[^376] A szállítási rendszerüzemeltető évente köteles az általa üzemeltetett szállítóvezetékre karbantartási, leállási tervet készíteni, amely a gázszállítási szünettel járó karbantartási, felújítási, fejlesztési munkákat tartalmazza. A szállítási rendszerüzemeltető az általa üzemeltetett szállítóvezeték karbantartási, leállási tervének elkészítésekor a (2) bekezdés szerint bejelentett tervezett karbantartások és leállások időpontját figyelembe veszi.
 
-(4)[^372] A szállítási rendszerüzemeltető a gázszünettel járó munkákat az aktuális évre vonatkozóan minden év január 15-ig a kapcsolódó rendszerüzemeltetők egyidejű értesítésével közzéteszi.
+(4)[^377] A szállítási rendszerüzemeltető a gázszünettel járó munkákat az aktuális évre vonatkozóan minden év január 15-ig a kapcsolódó rendszerüzemeltetők egyidejű értesítésével közzéteszi.
 
 (5) A szállítási rendszerüzemeltető jogosult a közzétett leállási időpontok megváltoztatására, de az új időpontot az érintett rendszerüzemeltetőkkel és a szállítóvezetékre közvetlenül csatlakozó felhasználókkal vagy az őket ellátó földgázkereskedőkkel legalább 3 hónappal a leállás tervezett új időpontja előtt egyeztetnie kell. A szállítási rendszerüzemeltető az új időpontot honlapján közzéteszi.
 
@@ -22,10 +22,10 @@ a) csökkenteni, ha a kapcsolódó rendszerüzemeltető a korábbi bejelentése 
 
 b) törölni, ha a kapcsolódó rendszerüzemeltető nem tervezett a szállítóvezetéki leállási időtartamára karbantartási munkát.
 
-(7)[^373] A rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelni, amely lehetővé teszi a munkák gázszüneteltetés nélküli elvégzését, az ezzel kapcsolatos költségek a felhasználót terhelik.
+(7)[^378] A rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelni, amely lehetővé teszi a munkák gázszüneteltetés nélküli elvégzését, az ezzel kapcsolatos költségek a felhasználót terhelik.
 
-[^369]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^370]: A Vhr. 94. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^371]: A Vhr. 94. § (3) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^372]: A Vhr. 94. § (4) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 29. § 6. pontja szerint módosított szöveg.
-[^373]: A Vhr. 94. § (7) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 29. § 7. pontja szerint módosított szöveg.
+[^374]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^375]: A Vhr. 94. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^376]: A Vhr. 94. § (3) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^377]: A Vhr. 94. § (4) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 29. § 6. pontja szerint módosított szöveg.
+[^378]: A Vhr. 94. § (7) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 29. § 7. pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## Az Európai Unió jogának való megfelelés
 
-168. §[^649] (1)[^650] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i (EU) 2017/1938 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+168. §[^657] (1)[^658] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i (EU) 2017/1938 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(2)[^651] E rendelet
+(2)[^659] E rendelet
 
 a) 23/A. §-a, 54. § (5) bekezdése, 115/A. § (1) és (3)–(6) bekezdése, 115/C–115/E. §-a az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, valamint VII. mellékletének,
 
@@ -12,29 +12,32 @@ c) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról s
 
 d) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv 70. cikk 1., 3. és 6. pontjának
 
-e)[^652] a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
+e)[^660] a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
+
+f)[^661] a megújuló gáz és a földgáz, valamint a hidrogén belső piacára vonatkozó közös szabályokról, az (EU) 2023/1791 irányelv módosításáról, valamint a 2009/73/EK irányelv hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1788 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-(3)[^653] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről szóló 715/2009/EK európai parlamenti és tanácsi rendelet I. mellékletének módosításáról szóló, 2012. augusztus 24-i 2012/490/EU európai bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3)[^662] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről szóló 715/2009/EK európai parlamenti és tanácsi rendelet I. mellékletének módosításáról szóló, 2012. augusztus 24-i 2012/490/EU európai bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(4)[^654] Ez a rendelet a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i (EU) 2017/459 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(4)[^663] Ez a rendelet a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i (EU) 2017/459 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(5)[^655] Ez a rendelet a gázszállításirendszer-üzemeltetők közötti rendszeregyensúlyozásra vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2014. március 26-i 312/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(5)[^664] Ez a rendelet a gázszállításirendszer-üzemeltetők közötti rendszeregyensúlyozásra vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2014. március 26-i 312/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(5a)[^656] Ez a rendelet az alternatív üzemanyagok infrastruktúrájának kiépítéséről, valamint a 2014/94/EU irányelv hatályon kívül helyezéséről szóló, 2023. szeptember 13-i (EU) 2023/1804 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(5a)[^665] Ez a rendelet az alternatív üzemanyagok infrastruktúrájának kiépítéséről, valamint a 2014/94/EU irányelv hatályon kívül helyezéséről szóló, 2023. szeptember 13-i (EU) 2023/1804 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(5b)[^657] Ez a rendelet az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1106 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(5b)[^666] Ez a rendelet az 1227/2011/EU és az (EU) 2019/942 rendeletnek a nagykereskedelmi energiapiacon az Unió piaci manipulációval szembeni védelmének javítása tekintetében történő módosításáról szóló, 2024. április 11-i (EU) 2024/1106 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(6)[^658] A 19/A. § (1) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+(6)[^667] A 19/A. § (1) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^649]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^650]: A Vhr. 168. § (1) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
-[^651]: A Vhr. 168. § (2) bekezdése a 715/2020. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^652]: A 168. § (2) bekezdés e) pontját a 824/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
-[^653]: A Vhr. 168. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
-[^654]: A Vhr. 168. § (4) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 19. §-a iktatta be, szövege a 275/2017. (IX. 21.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^655]: A Vhr. 168. § (5) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 19. §-a iktatta be.
-[^656]: A Vhr. 168. § (5a) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^657]: A Vhr. 168. § (5b) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^658]: A Vhr. 168. § (6) bekezdését a 652/2023. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
+[^657]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^658]: A Vhr. 168. § (1) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
+[^659]: A Vhr. 168. § (2) bekezdése a 715/2020. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^660]: A 168. § (2) bekezdés e) pontját a 824/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^661]: A Vhr. 168. § (2) bekezdés f) pontját a 264/2025. (VIII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^662]: A Vhr. 168. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
+[^663]: A Vhr. 168. § (4) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 19. §-a iktatta be, szövege a 275/2017. (IX. 21.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^664]: A Vhr. 168. § (5) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 19. §-a iktatta be.
+[^665]: A Vhr. 168. § (5a) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^666]: A Vhr. 168. § (5b) bekezdését a 467/2024. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^667]: A Vhr. 168. § (6) bekezdését a 652/2023. (XII. 28.) Korm. rendelet 14. §-a iktatta be.

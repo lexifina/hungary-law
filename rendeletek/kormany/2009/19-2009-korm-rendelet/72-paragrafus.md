@@ -1,3 +1,3 @@
-72. §[^317] A biogáz termelőre is a földgáztermelőre vonatkozó szabályokat kell megfelelően alkalmazni.
+72. §[^319]
 
-[^317]: A Vhr. 72. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^319]: A Vhr. 72. §-át a 264/2025. (VIII. 13.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.

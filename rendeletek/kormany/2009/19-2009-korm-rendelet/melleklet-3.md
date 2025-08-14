@@ -20,7 +20,7 @@
 
 ## 1.3. Az egyetemes szolgáltató ügyfélszolgálatán a felhasználó kezdeményezheti az elosztói csatlakozási szerződés és az elosztóhálózat-használati szerződés megkötését is.
 
-## 2.[^705] Egyetemes szolgáltatás igénybevétele, egyetemes szolgáltatási szerződés
+## 2.[^716] Egyetemes szolgáltatás igénybevétele, egyetemes szolgáltatási szerződés
 
 ## 2.1. Az egyetemes szolgáltató üzletszabályzata közzétételével – szerződéskötési kötelezettségére figyelemmel – saját ajánlati kötöttségét is meghatározza.
 
@@ -28,7 +28,7 @@
 
 ## 2.3. Az egyetemes szolgáltatási szerződés a felhasználói jognyilatkozat hatályosulásával – amennyiben az a szerződéskötéshez szükséges adatokat, okiratokat tartalmazza – létrejön. A szerződés létrejöttét az egyetemes szolgáltató 15 napon belül az üzletszabályzatában meghatározottak szerint az egyetemes szolgáltató által aláírt szerződés megküldésével igazolja vissza a felhasználó felé. Ha a felhasználói jognyilatkozat szerződéskötésre nem alkalmas, az egyetemes szolgáltató a felhasználói jognyilatkozat beérkezésétől számított 15 napon belül a felhasználót hiánypótlásra hívja fel, a hiányok pontos megjelölésével.
 
-## 2.4.[^706] Az elosztóhálózat-használati szerződés egyetemes szolgáltató mint megbízott által történő kezelése esetén a megbízási szerződés az egyetemes szolgáltatási szerződéssel egyidejűleg létrejön.
+## 2.4.[^717] Az elosztóhálózat-használati szerződés egyetemes szolgáltató mint megbízott által történő kezelése esetén a megbízási szerződés az egyetemes szolgáltatási szerződéssel egyidejűleg létrejön.
 
 ## 2.5. Az egyetemes szolgáltatás igénybevétele és az egyetemes szolgáltatási jogviszony fennállása során – az egyetemes szolgáltatás biztosítása érdekében – az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező földgázelosztó együttműködik.
 
@@ -36,7 +36,7 @@
 
 ## 2.7. Eltérő megállapodás hiányában minden felhasználási helyre külön egyetemes szolgáltatási szerződést kell kötni.
 
-## 3. [^707]
+## 3. [^718]
 
 ## 4. A felhasználó felhasználási helyében, valamint a részére földgázt értékesítő engedélyes személyében beállt változás
 
@@ -60,43 +60,43 @@
 
 ## 6.5. Az elszámolási időszak időtartamában a felek az egyetemes szolgáltatási szerződésben állapodnak meg. Erre vonatkozó eltérő megállapodás hiányában az elszámolási időszak megegyezik a leolvasási időszakkal.
 
-## 6.6.[^708] Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók. A részszámla a felhasználási helyre az elosztó általi leolvasás hiányában a felhasználó havonként történő közlése, ennek elmaradása vagy a felek megállapodása esetén becsléssel megállapított mennyiség alapján kerül kiállításra.
+## 6.6.[^719] Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók. A részszámla a felhasználási helyre az elosztó általi leolvasás hiányában a felhasználó havonként történő közlése, ennek elmaradása vagy a felek megállapodása esetén becsléssel megállapított mennyiség alapján kerül kiállításra.
 
 ## 6.7. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát kibocsátani és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, mely magában foglalja a tételes pénzügyi elszámolást is.
 
-## 6.8.[^709] Az egyetemes szolgáltatási szerződés megszűnésekor keletkező visszafizetendő összeget az egyetemes szolgáltató az elszámolást követő 8 napon belül visszafizeti a felhasználónak.
+## 6.8.[^720] Az egyetemes szolgáltatási szerződés megszűnésekor keletkező visszafizetendő összeget az egyetemes szolgáltató az elszámolást követő 8 napon belül visszafizeti a felhasználónak.
 
-## 6.9. [^710] Ha az egyetemes szolgáltató és a felhasználó az egyetemes szolgáltatási szerződésben fizetési határidőben nem állapodtak meg, akkor a felhasználó a számlában feltüntetett díjat a számlán feltüntetett fizetési határidő napjáig kifizeti.
+## 6.9. [^721] Ha az egyetemes szolgáltató és a felhasználó az egyetemes szolgáltatási szerződésben fizetési határidőben nem állapodtak meg, akkor a felhasználó a számlában feltüntetett díjat a számlán feltüntetett fizetési határidő napjáig kifizeti.
 
-## 6.10.[^711] A fizető és a felhasználó – a felek megállapodásától függően – tartósan vagy időlegesen is eltérő lehet, az egyetemes szolgáltatóval szemben azonban felelősségük egyetemleges. A fizetési megállapodásban vállalt kötelezettségek elmulasztása esetén a megállapodásban meghatározott felhasználási helyen (helyeken) megszüntethető a földgázellátás.
+## 6.10.[^722] A fizető és a felhasználó – a felek megállapodásától függően – tartósan vagy időlegesen is eltérő lehet, az egyetemes szolgáltatóval szemben azonban felelősségük egyetemleges. A fizetési megállapodásban vállalt kötelezettségek elmulasztása esetén a megállapodásban meghatározott felhasználási helyen (helyeken) megszüntethető a földgázellátás.
 
-## 6.11.[^712] Az egyetemes szolgáltató a számla felhasználó részére történő eljuttatásáról oly módon gondoskodik, hogy a számla kiegyenlítésére a felhasználónak a kézhezvételtől számított legalább 8 nap rendelkezésére álljon.
+## 6.11.[^723] Az egyetemes szolgáltató a számla felhasználó részére történő eljuttatásáról oly módon gondoskodik, hogy a számla kiegyenlítésére a felhasználónak a kézhezvételtől számított legalább 8 nap rendelkezésére álljon.
 
-## 6.12.[^713] Az egyetemes szolgáltató – a felhasználó vagy fizető eltérő kérése hiányában – a visszafizetést átutalással vagy hitelkártya számla javára történő befizetéssel teljesíti, ha az ahhoz szükséges adatok az egyetemes szolgáltatási szerződés alapján, ennek hiányában a felhasználó vagy fizető fizetési módja alapján vagy más módon a rendelkezésére állnak.
+## 6.12.[^724] Az egyetemes szolgáltató – a felhasználó vagy fizető eltérő kérése hiányában – a visszafizetést átutalással vagy hitelkártya számla javára történő befizetéssel teljesíti, ha az ahhoz szükséges adatok az egyetemes szolgáltatási szerződés alapján, ennek hiányában a felhasználó vagy fizető fizetési módja alapján vagy más módon a rendelkezésére állnak.
 
-## 6.13.[^714] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
+## 6.13.[^725] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
 
-## 6.14.[^715] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell eltelnie.
+## 6.14.[^726] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell eltelnie.
 
-## 6.15.[^716]
+## 6.15.[^727]
 
-## 6.16.[^717]
+## 6.16.[^728]
 
-## 6.17.[^718]
+## 6.17.[^729]
 
-## 6.18.[^719]
+## 6.18.[^730]
 
 ## 7. Kifogás
 
 ## 7.1. A felhasználó a számla ellen az egyetemes szolgáltatónál kifogást emelhet. A kifogás bejelentésének a számla kifizetésére csak akkor van halasztó hatálya, ha a számlán elszámolt földgázmennyiség az előző év azonos időszakára vetített mennyiség 150%-át meghaladja. Azonos időszak alatt egyforma elszámolási időszak értendő. Ha az elszámolási időszak mértékében változás következik be, az azonos időszakra vetített mennyiséget a 13. számú mellékletben vagy az egyetemes szolgáltató üzletszabályzatában meghatározott jelleggörbe szerinti megosztással kell kiszámítani.
 
-## 7.2. [^720]
+## 7.2. [^731]
 
-## 7.3. [^721]
+## 7.3. [^732]
 
-## 7.4.[^722] Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót díj vagy díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül, egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel. E rendelkezés nem mentesíti az egyetemes szolgáltatót a szerződésszegés egyéb jogkövetkezményei alól. Ha a felhasználó az e pont szerinti részlet megfizetésével késedelembe esik, nem lakossági fogyasztó esetén a GET 28/A. § (3) bekezdése, lakossági fogyasztó esetén a GET 29. § (3) bekezdése szerint kell eljárni.
+## 7.4.[^733] Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót díj vagy díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül, egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel. E rendelkezés nem mentesíti az egyetemes szolgáltatót a szerződésszegés egyéb jogkövetkezményei alól. Ha a felhasználó az e pont szerinti részlet megfizetésével késedelembe esik, nem lakossági fogyasztó esetén a GET 28/A. § (3) bekezdése, lakossági fogyasztó esetén a GET 29. § (3) bekezdése szerint kell eljárni.
 
-## 7.5.[^723] A 7.4. pontban előírtakon túli teljesítés késedelmes fizetésnek minősül. Késedelmes fizetés esetén a késedelembe eső fél köteles a szerződésben és a jogszabályokban meghatározott mértékű kamatot, valamint a másik fél igazolt költségeit megfizetni.
+## 7.5.[^734] A 7.4. pontban előírtakon túli teljesítés késedelmes fizetésnek minősül. Késedelmes fizetés esetén a késedelembe eső fél köteles a szerződésben és a jogszabályokban meghatározott mértékű kamatot, valamint a másik fél igazolt költségeit megfizetni.
 
 ## 8. A szerződésszegés esetei
 
@@ -124,15 +124,15 @@
 
 ## 8.4. A szerződésszegések jogkövetkezményei alkalmazásának részletes szabályait – a 8.5. pontban foglalt kivétellel – az egyetemes szolgáltató üzletszabályzata tartalmazza.
 
-## 8.5.[^724] A GET 29. § (5) bekezdésében meghatározott kötelezettség megszegése esetén az egyetemes szolgáltató kötbért köteles fizetni a felhasználónak, amelynek mértéke a Hivatal elosztói külön díj ellenében végezhető szolgáltatásokról szóló határozatában meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
+## 8.5.[^735] A GET 29. § (5) bekezdésében meghatározott kötelezettség megszegése esetén az egyetemes szolgáltató kötbért köteles fizetni a felhasználónak, amelynek mértéke a Hivatal elosztói külön díj ellenében végezhető szolgáltatásokról szóló határozatában meghatározott, a felhasználónak a földgázellátásból való jogszerű kizárása (kikapcsolása) utáni visszakapcsolásáért kért külön díj
 
 ## a) 50%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 48 óránál később, de 72 órán belül kerül sor,
 
 ## b) 100%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 72 óránál később kerül sor.
 
-## 8.6.[^725] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
+## 8.6.[^736] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
 
-## 9.[^726] Egyetemes szolgáltatás jogosulatlan igénybevétele
+## 9.[^737] Egyetemes szolgáltatás jogosulatlan igénybevétele
 
 ## 9.1. Ha az egyetemes szolgáltató megállapítja, hogy a felhasználó egyetemes szolgáltatásra nem jogosult, az egyetemes szolgáltató az egyetemes szolgáltató és a felhasználó közötti jogviszony fennállása alatt jogosulatlanul vételezett földgázt az adott hónapra vonatkozó átlagos CEEGEX másnapi súlyozott átlagáron, de legalább a GET 107. § (6) bekezdése alapján megállapított egységáron számolja el a felhasználóval.
 
@@ -152,7 +152,7 @@
 
 ## 9.9. A 9.1. és 9.7. alpont esetén az euróban megadott árak forintra történő átszámításakor az MNB által megállapított, tárgyhónap utolsó munkanapján érvényes deviza középárfolyamot kell alkalmazni.
 
-3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^727]
+3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^738]
 
 Üzemi és Kereskedelmi Szabályzat
 
@@ -172,7 +172,7 @@ d) A szállítási rendszerüzemeltető és a külföldi rendszerüzemeltető ka
 
 a) a földgázrendszer felépítése, fő részei (szállító-, tároló-, elosztórendszerek, egymáshoz csatlakozásuknak feltételei),
 
-b)[^728] Gázminőségi követelmények, ideértve a földgáz hidrogéntartalmára vonatkozó minőségi követelményeket is,
+b)[^739] Gázminőségi követelmények, ideértve a földgáz hidrogéntartalmára vonatkozó minőségi követelményeket is,
 
 c) Szigetüzem működési feltételei
 
@@ -188,7 +188,7 @@ c) Karbantartás
 
 d) Üzemzavar elhárítás
 
-e)[^729] Mérési infrastruktúra üzemeltetése, ideértve a földgáz hidrogéntartalmára vonatkozó mérési feltételeket is
+e)[^740] Mérési infrastruktúra üzemeltetése, ideértve a földgáz hidrogéntartalmára vonatkozó mérési feltételeket is
 
 f) Földgázszagosítás
 
@@ -210,53 +210,28 @@ b) Kereskedőváltás szabályai
 
 c) A hozzáférés felfüggesztésének szabályai
 
-d) Kapacitás visszaadásának és visszavételének eljárásrendje
-
-e) MGP használata
-
-f) Másodlagos kapacitáskereskedelem
-
-7. A nominálás szabályai
-
-8. Az egyensúlytartás szabályai
-
-9. A korlátozás szabályai
-
-10. Üzemzavar elhárítás, válsághelyzetre vonatkozó intézkedések, a válsághelyzet elhárítására vonatkozó jogszabályok alkalmazásának részletei a földgázszállító rendszeren
-
-11.[^730] Mennyiség mérési és minőség ellenőrzési előírások, mérési hibák kezelése, ideértve földgáz hidrogéntartalmára vonatkozó előírásokat is
-
-12. Allokálási szabályok a földgázszállító rendszer hálózati pontjain és az MGP-n
-
-13. Elszámolási szabályok az együttműködő földgázrendszeren
-
-14. Adatszolgáltatási szabályok
-
-15. A szervezett földgázpiac működésének főbb szabályai
-
-[^705]: A 2. melléklet 2. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (11) bekezdésével megállapított szöveg.
-[^706]: A 2. melléklet 2.4. pontja a 652/2023. (XII. 28.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
-[^707]: A 2. melléklet 3. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
-[^708]: A Vhr. 2. számú melléklet 6.6. pontja a 123/2015. (V. 26.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^709]: A Vhr. 2. számú melléklet 6.8. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte, újonnan a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontja iktatta be.
-[^710]: A 2. melléklet 6.9. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte, újonnan a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontja iktatta be.
-[^711]: A Vhr. 2. számú melléklet 6.10. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
-[^712]: A Vhr. 2. számú melléklet 6.11. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
-[^713]: A Vhr. 2. számú melléklet 6.12. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
-[^714]: A Vhr. 2. számú melléklet 6.13. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
-[^715]: A Vhr. 2. számú melléklet 6.14. pontját a 123/2015. (V. 26.) Korm. rendelet 35. §-a hatályon kívül helyezte, újonnan a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontja iktatta be.
-[^716]: A 2. melléklet 6.15. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
-[^717]: A Vhr. 2. számú melléklet 6. pont 6.16. alpontját a 343/2017. (XI. 15.) Korm. rendelet 13. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.
-[^718]: A Vhr. 2. számú melléklet 6. pont 6.17. alpontját a 343/2017. (XI. 15.) Korm. rendelet 13. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.
-[^719]: A Vhr. 2. számú melléklet 6.18. pontját a 497/2017. (XII. 29.) Korm. rendelet 9. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.
-[^720]: A 2. melléklet 7.2. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
-[^721]: A 2. melléklet 7.3. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
-[^722]: A Vhr. 2. számú melléklet 7.4. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^723]: A 2. melléklet 7.5. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés c) pontja szerint módosított szöveg.
-[^724]: A 2. melléklet 8.5. pontja a 458/2016. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
-[^725]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^726]: A Vhr. 2. számú melléklet 9. pontját a 233/2025. (VII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^727]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. [A 344/2013. (IX. 27.) Korm. rendelet 9. §-ával elrendelt módosítás, amely szerint a 3. számú melléklet 17. pontja d) alponttal egészül ki, nem vezethető át.]
-[^728]: A Vhr. 3. számú melléklet 2. pont b) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^729]: A Vhr. 3. számú melléklet 4. pont e) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^730]: A Vhr. 3. számú melléklet 11. pontja a 467/2024. (XII. 30.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^716]: A 2. melléklet 2. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (11) bekezdésével megállapított szöveg.
+[^717]: A 2. melléklet 2.4. pontja a 652/2023. (XII. 28.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
+[^718]: A 2. melléklet 3. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^719]: A Vhr. 2. számú melléklet 6.6. pontja a 123/2015. (V. 26.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^720]: A Vhr. 2. számú melléklet 6.8. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte, újonnan a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontja iktatta be.
+[^721]: A 2. melléklet 6.9. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte, újonnan a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontja iktatta be.
+[^722]: A Vhr. 2. számú melléklet 6.10. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
+[^723]: A Vhr. 2. számú melléklet 6.11. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
+[^724]: A Vhr. 2. számú melléklet 6.12. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
+[^725]: A Vhr. 2. számú melléklet 6.13. pontja a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
+[^726]: A Vhr. 2. számú melléklet 6.14. pontját a 123/2015. (V. 26.) Korm. rendelet 35. §-a hatályon kívül helyezte, újonnan a 652/2023. (XII. 28.) Korm. rendelet 15. § b) pontja iktatta be.
+[^727]: A 2. melléklet 6.15. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^728]: A Vhr. 2. számú melléklet 6. pont 6.16. alpontját a 343/2017. (XI. 15.) Korm. rendelet 13. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.
+[^729]: A Vhr. 2. számú melléklet 6. pont 6.17. alpontját a 343/2017. (XI. 15.) Korm. rendelet 13. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.
+[^730]: A Vhr. 2. számú melléklet 6.18. pontját a 497/2017. (XII. 29.) Korm. rendelet 9. §-a iktatta be, a 652/2023. (XII. 28.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.
+[^731]: A 2. melléklet 7.2. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^732]: A 2. melléklet 7.3. pontját a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^733]: A Vhr. 2. számú melléklet 7.4. pontja a 80/2019. (IV. 15.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^734]: A 2. melléklet 7.5. pontja a 216/2023. (VI. 1.) Korm. rendelet 4. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^735]: A 2. melléklet 8.5. pontja a 458/2016. (XII. 23.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^736]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^737]: A Vhr. 2. számú melléklet 9. pontját a 233/2025. (VII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^738]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. [A 344/2013. (IX. 27.) Korm. rendelet 9. §-ával elrendelt módosítás, amely szerint a 3. számú melléklet 17. pontja d) alponttal egészül ki, nem vezethető át.]
+[^739]: A Vhr. 3. számú melléklet 2. pont b) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^740]: A Vhr. 3. számú melléklet 4. pont e) alpontja a 467/2024. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

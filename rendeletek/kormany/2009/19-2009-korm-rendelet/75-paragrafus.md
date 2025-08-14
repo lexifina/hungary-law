@@ -1,4 +1,4 @@
-75. §[^327] (1) A vásárolt kapacitás más felhasználási helyre nem vihető át, az csak a felhasználási helyen értékesíthető.
+75. §[^330] (1) A vásárolt kapacitás más felhasználási helyre nem vihető át, az csak a felhasználási helyen értékesíthető.
 
 (2) A felhasználási hely vásárolt kapacitásának mértékéről kizárólag a felhasználási hely tulajdonosa rendelkezhet.
 
@@ -12,4 +12,4 @@
 
 (7) Ha a (3) bekezdés szerinti jogszerű használónak a rendszerhez való hozzáférését szerződésszegés folytán felfüggesztik, a felhasználási hely tulajdonosa akkor rendelkezhet ismételten az átadott kapacitáslekötési joggal érintett kapacitásokról, ha ő vagy a kapacitás feletti rendelkezési joggal bíró személy biztosítja a felfüggesztés megszüntetéséhez szükséges garanciákat és feltételeket, rendezi a jogosulttal szemben a lejárt számlatartozásokat.
 
-[^327]: A Vhr. 75. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^330]: A Vhr. 75. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
