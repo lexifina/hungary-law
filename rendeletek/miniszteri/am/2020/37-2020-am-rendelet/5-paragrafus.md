@@ -10,7 +10,7 @@ a) a kérelmező ügyfél-azonosítóját és
 
 b) a 4. § d) pontja szerinti nyilatkozatokat.
 
-c)[^28] a kérelmező által használt karácsonyfa-ültetvény hektárban meghatározott nagyságát és elhelyezkedését (megye, blokkazonosító, táblasorszám), valamint
+c)[^28] a kérelmező által használt karácsonyfa-ültetvény hektárban meghatározott nagyságát és elhelyezkedését (vármegye, településnév, helyrajzi szám),
 
 d)[^29] a kérelmező nyilatkozatát a jogszerű földhasználatról.
 
@@ -21,7 +21,7 @@ d)[^29] a kérelmező nyilatkozatát a jogszerű földhasználatról.
 (6)[^31] A támogatási kérelem legkésőbb az (1) bekezdésben meghatározott határidő végéig, az elektronikus felületen keresztül módosítható. Módosítás esetén az utolsóként benyújtott támogatási kérelmet kell elbírálni. A támogatási kérelem benyújtásának időpontja az utolsó módosításra irányuló kérelem benyújtásának időpontja.
 
 [^27]: Az 5. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 65. § (1) bekezdésével megállapított szöveg. [Az 5. § (1) bekezdés c) pontjában a 7/2025. (IV. 10.) AM rendelet 68. § b) pontjával elrendelt módosítás, amely szerint a „nagyságát és elhelyezkedését (megye, blokkazonosító, táblasorszám), valamint” szövegrész helyébe a „nagyságát és elhelyezkedését (vármegye, településnév, helyrajzi szám),” szöveg lép, nem vezethető át.]
-[^28]: Az 5. § (3) bekezdés c) pontját a 9/2021. (III. 12.) AM rendelet 8. §-a iktatta be.
+[^28]: Az 5. § (3) bekezdés c) pontját a 9/2021. (III. 12.) AM rendelet 8. §-a iktatta be, szövege a 39/2025. (VIII. 13.) AM rendelet 1. §-a szerint módosított szöveg.
 [^29]: Az 5. § (3) bekezdés d) pontját a 9/2021. (III. 12.) AM rendelet 8. §-a iktatta be.
 [^30]: Az 5. § (5) bekezdése a 7/2025. (IV. 10.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
 [^31]: Az 5. § (6) bekezdése a 7/2025. (IV. 10.) AM rendelet 65. § (2) bekezdésével megállapított szöveg.
