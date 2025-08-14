@@ -2,9 +2,9 @@
 
 (2) A honvédségi autóbusz akkor minősíthető alkalmasnak, ha
 
-a)[^36]
+a)[^40]
 
-b)[^37] az M3 kategóriájú autóbusz megfelel az európai és nemzetközi fékezési tulajdonságokról szóló előírásban meghatározott IIA. típusú tartós fékezés hatásosság követelményének,
+b)[^41] az M3 kategóriájú autóbusz megfelel az európai és nemzetközi fékezési tulajdonságokról szóló előírásban meghatározott IIA. típusú tartós fékezés hatásosság követelményének,
 
 c) kényszerkormányzott tengelyén futózott gumiabroncs nincs felszerelve,
 
@@ -14,5 +14,5 @@ e) a megtett út, a sebesség és a gépkocsivezető vezetési idejének legalá
 
 f) rendelkezik saját számlás utasszállítási igazolvánnyal.
 
-[^36]: A 23. § (2) bekezdés a) pontját a 6/2012. (V. 18.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^37]: A 23. § (2) bekezdés b) pontja a 12/2015. (X. 27.) HM rendelet 5. §-ával megállapított szöveg.
+[^40]: A 23. § (2) bekezdés a) pontját a 6/2012. (V. 18.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^41]: A 23. § (2) bekezdés b) pontja a 12/2015. (X. 27.) HM rendelet 5. §-ával megállapított szöveg.

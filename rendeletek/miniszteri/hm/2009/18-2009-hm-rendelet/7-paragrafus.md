@@ -1,1 +1,0 @@
-## 6. § A közlekedésbiztonsággal, kötelező gépjármű-felelősségbiztosítással és CASCO biztosítással kapcsolatos MH szintű szakmai, nyilvántartási és adatszolgáltatási feladatokat a tulajdonosként bejegyzett szervezet végzi.

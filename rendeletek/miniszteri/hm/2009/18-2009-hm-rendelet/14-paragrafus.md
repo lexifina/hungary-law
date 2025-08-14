@@ -1,8 +1,8 @@
 ## 13. § A NATO Szabványosítási Ügynökség által kiadott – a katonai szabványosítás sajátos szabályairól szóló kormányrendelet alapján a HM hivatalos lapjában közzétett – katonai nemzeti szabványokban meghatározott követelmények teljesítését úgy kell tekinteni, hogy azok az MR rendelkezéseitől való eltérés körében megfelelnek az e rendelet követelményeinek.
 
-14. § (1)[^25] Az alapvetően külföldi katonai missziós feladatok végrehajtására – ahol a helyi (háborús) körülmények miatt az EURO–4 és annál magasabb környezetvédelmi előírásokat teljesítő járművek szakszerű forgalomban tartása nem biztosított – tervezett honvédségi járművek legalább EURO–3 környezetvédelmi követelmények teljesítése esetén helyezhetők forgalomba.
+14. § (1)[^27] Az alapvetően katonai célra gyártott honvédségi jármű úgy helyezhető forgalomba, ha megfelel legalább az MR 5. számú melléklet II. A gépjárművek környezetvédelmi osztályba sorolása táblázat 4. környezetvédelmi osztály jelzés (kód) szerinti követelményeknek.
 
-(2)[^26] A honvédségi járművek mentesülnek az MR A. Függelék A/2a. számú mellékletében a könnyű haszongépjárművek szennyezőanyag kibocsátására, valamint az MR A. Függelék A/41. és A/41a. számú mellékletében a nehéz tehergépjárművek dízel motorjaira és a fedélzeti diagnosztikai (OBD) rendszerekre vonatkozó követelmények teljesítése alól.
+(2)[^28] A honvédségi járművek mentesülnek az MR A. Függelék A/2a. számú mellékletében a könnyű haszongépjárművek szennyezőanyag kibocsátására, valamint az MR A. Függelék A/41. és A/41a. számú mellékletében a nehéz tehergépjárművek dízel motorjaira és a fedélzeti diagnosztikai (OBD) rendszerekre vonatkozó követelmények teljesítése alól.
 
-[^25]: A 14. § (1) bekezdése a 13/2014. (VIII. 14.) HM rendelet 10. § d) pontja szerint módosított szöveg.
-[^26]: A 14. § (2) bekezdése a 12/2015. (X. 27.) HM rendelet 1. §-ával megállapított szöveg.
+[^27]: A 14. § (1) bekezdése a 8/2025. (VIII. 13.) HM rendelet 6. §-ával megállapított szöveg.
+[^28]: A 14. § (2) bekezdése a 12/2015. (X. 27.) HM rendelet 1. §-ával megállapított szöveg.

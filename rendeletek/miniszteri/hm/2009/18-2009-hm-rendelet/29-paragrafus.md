@@ -1,3 +1,3 @@
-29. §[^45]
+29. §[^49]
 
-[^45]: A 29. §-t a 16/2017. (XI. 27.) HM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^49]: A 29. §-t a 16/2017. (XI. 27.) HM rendelet 8. § b) pontja hatályon kívül helyezte.
