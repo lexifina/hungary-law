@@ -32,7 +32,7 @@ d)[^11]
 
 e)[^12]
 
-(5)[^13] A területi hulladékgazdálkodási hatóság a 2013. évi CXXXIV. törvény 1. § (2) bekezdés szerinti értesítést követően haladéktalanul megkeresi az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.-t (a továbbiakban: Koordináló szerv), amely a megkeresést követő 8 napon belül javaslatot tesz a kijelölendő közérdekű szolgáltató személyére, az ideiglenes ellátás keretében végzendő hulladékgazdálkodási tevékenység megnevezésére, a tevékenység végzésének gyakoriságára és minimális műszaki tartalmára, valamint a kötelezően igénybe veendő hulladékkezelő létesítmény megnevezésére.
+(5)[^13] A területi hulladékgazdálkodási hatóság a 2013. évi CXXXIV. törvény 1. § (2) bekezdés szerinti értesítést követően haladéktalanul megkeresi az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.) Korm. rendelet 3. § (1) bekezdésében kijelölt Koordináló szervet (a továbbiakban: Koordináló szerv), amely a megkeresést követő 8 napon belül javaslatot tesz a kijelölendő közérdekű szolgáltató személyére, az ideiglenes ellátás keretében végzendő hulladékgazdálkodási tevékenység megnevezésére, a tevékenység végzésének gyakoriságára és minimális műszaki tartalmára, valamint a kötelezően igénybe veendő hulladékkezelő létesítmény megnevezésére.
 
 [^1]: Az 1. § az 505/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 92. §-ával megállapított szöveg.
@@ -46,4 +46,4 @@ e)[^12]
 [^10]: Az 1. § (4) bekezdés c) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^11]: Az 1. § (4) bekezdés d) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^12]: Az 1. § (4) bekezdés e) pontját a 675/2023. (XII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^13]: Az 1. § (5) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 1. §-a iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 93. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § (5) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 1. §-a iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 93. § a) pontja, a 261/2025. (VIII. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
