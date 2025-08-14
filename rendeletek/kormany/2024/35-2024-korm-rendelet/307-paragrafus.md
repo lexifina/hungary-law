@@ -1,3 +1,3 @@
-307. §[^99]
+307. §[^101]
 
-[^99]: A 307. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 307. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

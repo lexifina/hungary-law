@@ -50,6 +50,7 @@ d) 92. alcímét
 
 (9) A 2024. március 1. és 2024. április 1. között lejáró tartózkodási engedélyre vonatkozó, a Tv. 287. §-a szerinti kérelmet legkésőbb a tartózkodási engedély érvényességi idejének utolsó napján kell benyújtani.
 
-(10)[^53]
+(10)[^54] E rendeletnek a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet módosításáról szóló 267/2025. (VIII. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 80. § (2) bekezdését a Módr. hatálybalépésekor[^55] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^53]: A 260. § (10) bekezdését a 450/2024. (XII. 23.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
+[^54]: A 260. § (10) bekezdését a 450/2024. (XII. 23.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte, újonnan a 267/2025. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^55]: A hatálybalépés időpontja 2025. augusztus 14.

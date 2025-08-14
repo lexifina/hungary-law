@@ -1,3 +1,3 @@
-297. §[^89]
+297. §[^91]
 
-[^89]: A 297. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 297. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

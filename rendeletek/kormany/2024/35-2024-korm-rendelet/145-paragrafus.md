@@ -2,7 +2,7 @@
 
 (2) A bejelentési kötelezettséget – a (3) bekezdésben foglaltak kivételével – a beutazástól számított három napon belül az e célra rendszeresített formanyomtatványon kell teljesíteni az idegenrendészeti ügyindítási elektronikus felületen keresztül, a szálláshely szerint illetékes regionális igazgatóságnak címezve.
 
-(3)[^37] A tartózkodási engedély kiadását kérelmező harmadik országbeli állampolgár a bejelentési kötelezettséget a tartózkodási engedély iránti kérelemre indult eljárásban teljesíti. A kérelem engedélyezését követően megváltozott szálláshely bejelentésére a 146. §-ban foglaltak irányadók.
+(3)[^38] A tartózkodási engedély kiadását kérelmező harmadik országbeli állampolgár a bejelentési kötelezettséget a tartózkodási engedély iránti kérelemre indult eljárásban teljesíti. A kérelem engedélyezését követően megváltozott szálláshely bejelentésére a 146. §-ban foglaltak irányadók.
 
 (4) A (2) bekezdés szerinti bejelentéshez mellékelni kell a 9. § (3) és (5) bekezdése szerinti iratokat, valamint a harmadik országbeli állampolgár érvényes úti okmányának másolatát.
 
@@ -38,4 +38,4 @@ c) az informatikai eszközzel optikailag olvasható adattároló kódot.
 
 (11) Ha a harmadik országbeli állampolgár a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárás során a kereskedelemről szóló törvény hatálya alá tartozó és a nem üzleti célú közösségi, szabadidős szálláshelynek minősülő szálláshelyet jelöl meg, a harmadik országbeli állampolgár bejelentési kötelezettségét a (2)–(6) bekezdésben foglaltak szerint teljesíti.
 
-[^37]: A 145. § (3) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^38]: A 145. § (3) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.

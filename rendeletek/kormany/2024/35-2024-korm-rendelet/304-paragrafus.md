@@ -1,3 +1,3 @@
-304. §[^96]
+304. §[^98]
 
-[^96]: A 304. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 304. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

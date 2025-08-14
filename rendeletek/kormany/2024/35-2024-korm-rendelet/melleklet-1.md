@@ -120,7 +120,7 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 6.2.1. szezonális munkavállalás célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”
 
-6.2.2.[^138] beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá az engedély kiállításának jogalapja szerint „beruházás előkészítés” vagy „beruházás beüzemelés”
+6.2.2.[^140] beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá az engedély kiállításának jogalapja szerint „beruházás előkészítés” vagy „beruházás beüzemelés”
 
 6.2.3. foglalkoztatási célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”
 
@@ -142,7 +142,7 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 6.2.12. Vállalati Kártya Tv. 48. § (2) bekezdés b)–c) pontja szerinti kiállítása esetén: „Munkavégzésre jogosult …-nál/-nél”
 
-6.2.13.[^139] Nemzeti Kártya esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá, ha a Nemzeti Kártya határ menti ingázó munkavállaló részére kerül kiállításra: „határ menti ingázó munkavállaló”
+6.2.13.[^141] Nemzeti Kártya esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá, ha a Nemzeti Kártya határ menti ingázó munkavállaló részére kerül kiállításra: „határ menti ingázó munkavállaló”
 
 6.2.14. tanulmányi célú tartózkodási engedély esetén: „Tanulmányokat folytat …-nál/-nél”, illetve „Ösztöndíj keretében …-nál/-nél”
 
@@ -180,5 +180,5 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 8. A regionális igazgatóság az Szmtv. 95. § (16) és (17) bekezdése alapján kiadott tartózkodási engedély esetén az engedély típusa rovatban az „Az EUSZ 50. cikke – Határ menti ingázó munkavállaló” szöveget tünteti fel.
 
-[^138]: Az 1. melléklet 6.2.2. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^139]: Az 1. melléklet 6.2.13. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^140]: Az 1. melléklet 6.2.2. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^141]: Az 1. melléklet 6.2.13. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.

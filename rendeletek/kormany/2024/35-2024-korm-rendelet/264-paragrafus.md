@@ -1,3 +1,3 @@
-264. §[^56]
+264. §[^58]
 
-[^56]: A 264. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 264. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
