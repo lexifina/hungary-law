@@ -1,0 +1,1 @@
+14. § Ha a közép- vagy kisfeszültségre csatlakozó felhasználó betáplálási irányú teljesítményt igényel, akkor az igényelt betáplálási csatlakozási teljesítmény biztosításáért a 4–7. §, háztartási méretű kiserőmű esetén a 9. § szerint kiszámított csatlakozási díjat fizeti meg.
