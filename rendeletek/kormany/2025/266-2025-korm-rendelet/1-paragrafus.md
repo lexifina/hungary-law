@@ -8,8 +8,6 @@
 
 ## kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet (a továbbiakban: Övr.) 107. §-a a következő (5) és (6) bekezdéssel egészül ki:
+1. §[^2]
 
-„(5) A nem védett kulturális javak kiviteli engedélye iránti kérelem esetén a kérelmező a kérelem benyújtásával egyidejűleg köteles a kérelemmel érintett kulturális javakat fizikai vizsgálat céljából a kulturális javak hatósága részére rendelkezésre bocsátani.
-
-(6) A kulturális javak hatósága a kérelem elbírálása során köteles a kérelemmel érintett kulturális javakat fizikailag megvizsgálni és a vizsgálat eredményét jegyzőkönyvbe foglalni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
