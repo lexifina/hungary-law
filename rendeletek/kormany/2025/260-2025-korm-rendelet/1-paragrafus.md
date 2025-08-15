@@ -4,6 +4,6 @@
 
 ## [3] A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 9. és 37. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet (a továbbiakban: 450/2023. Korm. rendelet) 30. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az egységnyi csatlakozási és szolgáltatási díjakra a Hivatal a Ht. rendelkezéseinek figyelembevételével, a 3. mellékletben meghatározott díjkód szerinti bontásban, a tárgyévet megelőző év szeptember 15. napjáig tesz javaslatot. A javaslat elkészítése során a Hivatal figyelembe veszi a fogyasztó által vissza nem váltott, kötelezően visszaváltási díjas, nem újrahasználható termék visszafizetésre nem kerülő visszaváltási díjából a koncessziós társaság tárgyévben várható bevételét, továbbá a tárgyévet két évvel megelőző naptári évben az (1) bekezdés szerinti díjakból származó és a fogyasztó által vissza nem váltott kötelezően visszaváltási díjas, nem újrahasználható termék visszafizetésre nem került visszaváltási díjából származó bevétel, valamint az ugyanezen időszakban a koncessziós társaságnál a kötelező visszaváltási díjas termékekkel kapcsolatban felmerült indokolt költségek különbözetét.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
