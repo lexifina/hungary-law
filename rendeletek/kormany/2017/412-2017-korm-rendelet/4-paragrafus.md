@@ -14,4 +14,6 @@ b) a hasznosítás mértékét,
 
 c) a vadászat kibocsátóhelytől mért körzetét.
 
-(3) A (2) bekezdés b) pontja szerinti mérték legfeljebb negyven százalék lehet.
+(3)[^3] A (2) bekezdés b) pontja szerinti mérték legfeljebb hatvan százalék lehet.
+
+[^3]: A 4. § (3) bekezdése a 228/2025. (VII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
