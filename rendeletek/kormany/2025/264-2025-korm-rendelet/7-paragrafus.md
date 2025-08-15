@@ -1,3 +1,3 @@
-7. § A Get. Vhr. 115/E. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(2) Elektronikus számlázás esetén a számla tartalma és a fogyasztási adatokról való tájékoztatási kötelezettség – jogszabály eltérő rendelkezése hiányában – megegyezik a nyomtatott számla tartalmával és a nyomtatott számla esetében előírt tájékoztatási kötelezettséggel.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

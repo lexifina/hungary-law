@@ -1,3 +1,3 @@
-11. § A Get. Vhr. 168. § (2) bekezdése a következő f) ponttal egészül ki:
+11. §[^12]
 
-(E rendelet)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

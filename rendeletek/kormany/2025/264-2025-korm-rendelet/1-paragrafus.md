@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 3., 5., 8., 9., 12., 14. és 19. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Get. Vhr.) 64. §-a a következő d) ponttal egészül ki:
+1. §[^2]
 
-(Az ÜKSZ-ben eljárásrendet kell kialakítani a szállítási rendszerüzemeltetők és a földgázelosztók között)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

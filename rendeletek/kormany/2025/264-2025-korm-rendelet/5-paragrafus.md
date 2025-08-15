@@ -1,3 +1,3 @@
-5. § A Get. Vhr. a következő 81/A. §-sal egészül ki:
+5. §[^6]
 
-„81/A. § A rendszerüzemeltető a biogáz termelő csatlakozását a Hivatal 66. § (3) bekezdése alapján kiadott határozatában, az ÜKSZ-ben és a rendszerüzemeltető üzletszabályzatában foglaltak figyelembevételével megkötött csatlakozási szerződés szerint biztosítja.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
