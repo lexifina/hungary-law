@@ -12,19 +12,22 @@ e) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük 
 
 f) a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet
 
-g)[^320] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet 21. cikkének
+g)[^322] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet 21. cikkének
 
-h)[^321] az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet 14. cikkének
+h)[^323] az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet 14. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) Ez a rendelet
+(2)[^324] Ez a rendelet
 
-a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek, valamint
+a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
 
-b) a tudományos célokra felhasznált állatok védelméről szóló, 2010. szeptember 22-i 2010/63/EK európai parlamenti és a tanácsi irányelvnek
+b) a tudományos célokra felhasznált állatok védelméről szóló, 2010. szeptember 22-i 2010/63/EK európai parlamenti és a tanácsi irányelvnek, valamint
+
+c) a vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv 7. cikk (1) bekezdésének, valamint II. melléklet A. részének
 
 való megfelelést szolgálja.
 
-[^320]: A 81. § (1) bekezdés g) pontját az 564/2020. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
-[^321]: A 81. § (1) bekezdés h) pontját a 351/2024. (XI. 21.) Korm. rendelet 2. §-a iktatta be.
+[^322]: A 81. § (1) bekezdés g) pontját az 564/2020. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^323]: A 81. § (1) bekezdés h) pontját a 351/2024. (XI. 21.) Korm. rendelet 2. §-a iktatta be.
+[^324]: A 81. § (2) bekezdése a 228/2025. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
