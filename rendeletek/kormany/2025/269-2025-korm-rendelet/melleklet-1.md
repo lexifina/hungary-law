@@ -1,13 +1,3 @@
-1. melléklet a 269/2025. (VIII. 13.) Korm. rendelethez
+1. melléklet a 269/2025. (VIII. 13.) Korm. rendelethez[^5]
 
-Az R. 2. mellékletében foglalt táblázat a következő 139. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-„
-
-| 139. | Gyógyszeralapanyag gyártó üzem kialakítása Gödöllő város területén | Gödöllő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Gödöllő belterület 8217 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

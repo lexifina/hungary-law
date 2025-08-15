@@ -1,1 +1,3 @@
-3. § Az R. 4. § (7) és (8) bekezdésében a „120. és 138. sora” szövegrész helyébe a „120., 138. és 139. sora” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
