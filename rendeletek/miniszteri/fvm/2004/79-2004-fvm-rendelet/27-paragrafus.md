@@ -2,7 +2,7 @@
 
 (2)[^79] A fácántyúk csak vadászati célú kibocsátása esetén vadászható, a kibocsátott mennyiség erejéig, a kibocsátóhelytől mért ezer méteres távolságon belül. A kibocsátóhely egyértelmű beazonosíthatóságához szükséges földrajzi koordinátákat az éves vadgazdálkodási tervben meg kell adni.
 
-(3)[^80] Fogoly a vadászati idényben azokon a vadászterületeken vadászható, ahol az adott vadászati évben legalább 500 példány fogoly kibocsátása történt, a vadászati hatóság által a vad zárttéri tartásáról és kibocsátásáról adott engedélyben foglaltak szerint.
+(3)[^80] Fogoly a vadászati idényben azon a vadászterületen vadászható, ahol az adott vadászati évben zárttéri vadtartásból származó fogoly vadászati célú kibocsátása történt, a vadászati hatóság által a vad zárttéri tartásáról és kibocsátásáról adott engedélyben foglaltak szerint. A vadászterületnek azon a részén, ahol állandó jelleggel természetes fogolyállomány él, fogoly vadászati célú kibocsátása a természetes fogolyállomány három kilométeres körzetében tilos. A kibocsátóhely egyértelmű beazonosíthatóságához szükséges földrajzi koordinátáit az éves vadgazdálkodási tervben meg kell adni.
 
 (3a)[^81] Vadászterületre vörös fogoly csak vadászati hasznosítás céljából bocsátható ki. A kibocsátásra szeptember 1. és február utolsó napja között kerülhet sor. Azon a vadászterületen, ahol állandó jelleggel természetes fogolyállomány él, a vörös fogoly kibocsátása tilos.
 
@@ -18,7 +18,7 @@
 
 [^78]: A Vhr. 27. §-a a 72/2012. (VII. 24.) VM rendelet 12. §-ával megállapított szöveg.
 [^79]: A Vhr. 27. § (2) bekezdése a 2/2021. (II. 15.) AM rendelet 2. §-ával megállapított, az 57/2023. (X. 16.) AM rendelet 28. § 9. pontja szerint módosított szöveg.
-[^80]: A Vhr. 27. § (3) bekezdése a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^80]: A Vhr. 27. § (3) bekezdése a 33/2025. (VII. 31.) AM rendelet 1. §-ával megállapított szöveg.
 [^81]: A Vhr. 27. § (3a) bekezdését az 52/2020. (X. 27.) AM rendelet 2. §-a iktatta be.
 [^82]: A Vhr. 27. § (5) bekezdése az 57/2023. (X. 16.) AM rendelet 28. § 10. pontja szerint módosított szöveg.
 [^83]: A Vhr. 27. § (6) bekezdését a 65/2015. (X. 26.) FM rendelet 4. § b) pontja hatályon kívül helyezte.
