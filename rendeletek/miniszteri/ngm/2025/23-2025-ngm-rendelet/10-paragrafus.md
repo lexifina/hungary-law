@@ -1,7 +1,3 @@
-10. § Hatályát veszti a 39/2011. (V. 18.) VM rendelet
+10. §[^11]
 
-a) 1. § n) és p) pontja,
-
-b) 7/B. § (3) bekezdése, valamint
-
-c) 7/E. §-a.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
