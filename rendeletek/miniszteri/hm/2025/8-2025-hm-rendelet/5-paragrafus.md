@@ -1,3 +1,3 @@
-5. § Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) Forgalomba helyezéskor a honvédségi szervezetek járműveire a „H” kezdőjelű különleges rendszámtáblától eltérő, sorozatban előállított, általános rendszámtáblát csak a logisztikai támogató feladatok ellátására kijelölt, más, magasabb szintű, parancsnokság jogállású katonai szervezet parancsnokának külön engedélyével lehet felszerelni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

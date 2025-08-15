@@ -1,5 +1,3 @@
-13. § Hatályát veszti az R.
+13. §[^14]
 
-a) 5. § (1) bekezdésében a „kizárólag szolgálati célból és” szövegrész és
-
-b) 38. § (1) bekezdése.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

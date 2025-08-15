@@ -1,3 +1,3 @@
-3. § Az R. 6. §-a helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„6. § A közlekedésbiztonsággal, gépjármű kötelező felelősségbiztosítással és casco biztosítással kapcsolatos MH szintű szakmai, nyilvántartási és adatszolgáltatási feladatokat az MH ARB végzi.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

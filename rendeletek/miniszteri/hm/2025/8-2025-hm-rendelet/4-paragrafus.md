@@ -1,3 +1,3 @@
-4. § Az R. 9. §-a a következő (5) bekezdéssel egészül ki:
+4. §[^5]
 
-„(5) A honvédelmi és haderőfejlesztési program keretében beérkező gépjárművek első forgalomba helyezésük során mentesülnek az előzetes eredetiségvizsgálat elvégzése alól.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
