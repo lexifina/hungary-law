@@ -14,4 +14,6 @@
 
 ## 1. A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013. (VII. 26.) Korm. rendelet módosítása
 
-1. § A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013. (VII. 26.) Korm. rendelet 1. § (5) bekezdésében az „az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.-t” szövegrész helyébe az „az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.) Korm. rendelet 3. § (1) bekezdésében kijelölt Koordináló szervet” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
