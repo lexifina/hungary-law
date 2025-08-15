@@ -1,3 +1,5 @@
 ## 4. A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESZCSM rendelet módosítása
 
-5. § A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESZCSM rendelet 5. számú melléklete helyébe a 2. melléklet lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

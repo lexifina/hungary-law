@@ -20,6 +20,6 @@
 
 ## 1. A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló 51/1997. (XII. 18.) NM rendelet módosítása
 
-1. § A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló 51/1997. (XII. 18.) NM rendelet 2/A. §-a a következő (1a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) Az (1) bekezdés szerinti személyes meghívás – a technikai feltételek rendelkezésre állása esetén – az Elektronikus Egészségügyi Szolgáltatási Tér útján is történhet.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

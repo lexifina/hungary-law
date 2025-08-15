@@ -1,1 +1,3 @@
-3. § Az R. 2. melléklet „SÜRGŐSSÉGI BETEGELLÁTÁS” megjelölésű rész „Központi ügyelet”, „Szakmakód: 4601” megjelölésű részében foglalt táblázatban a „Laryngeális tubus” szövegrész helyébe a „Laryngeális tubus vagy laryngeális maszk” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
