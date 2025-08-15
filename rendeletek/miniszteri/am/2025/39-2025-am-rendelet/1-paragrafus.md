@@ -12,4 +12,6 @@
 
 ## 1. A karácsonyfa-ültetvények után igénybe vehető támogatásról szóló 37/2020. (VII. 10.) AM rendelet módosítása
 
-1. § A karácsonyfa-ültetvények után igénybe vehető támogatásról szóló 37/2020. (VII. 10.) AM rendelet 5. § (3) bekezdés c) pontjában a „nagyságát és elhelyezkedését (megye, blokkazonosító, táblasorszám), valamint” szövegrész helyébe a „nagyságát és elhelyezkedését (vármegye, településnév, helyrajzi szám),” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

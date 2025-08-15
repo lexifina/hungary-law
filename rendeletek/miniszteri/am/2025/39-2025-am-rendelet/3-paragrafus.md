@@ -1,3 +1,3 @@
-3. § A 34/2021. (X. 6.) AM rendelet 2. §-a a következő e) ponttal egészül ki:
+3. §[^4]
 
-(Bioüzemanyagok, folyékony bio-energiahordozók, valamint biomasszából előállított tüzelőanyagok alapanyagául szolgáló mezőgazdasági biomassza nyersanyagának termesztésére nem vehető igénybe – a földterület jelenlegi besorolására tekintet nélkül – a 2008 januárjában vagy azt követően érzékenynek minősülő következő földterület:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
