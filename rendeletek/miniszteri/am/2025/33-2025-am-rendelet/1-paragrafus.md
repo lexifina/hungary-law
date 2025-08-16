@@ -18,6 +18,6 @@
 
 ## 1. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet módosítása
 
-1. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet 27. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) Fogoly a vadászati idényben azon a vadászterületen vadászható, ahol az adott vadászati évben zárttéri vadtartásból származó fogoly vadászati célú kibocsátása történt, a vadászati hatóság által a vad zárttéri tartásáról és kibocsátásáról adott engedélyben foglaltak szerint. A vadászterületnek azon a részén, ahol állandó jelleggel természetes fogolyállomány él, fogoly vadászati célú kibocsátása a természetes fogolyállomány három kilométeres körzetében tilos. A kibocsátóhely egyértelmű beazonosíthatóságához szükséges földrajzi koordinátáit az éves vadgazdálkodási tervben meg kell adni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
