@@ -4,7 +4,7 @@
 
 (2) Az egyéni terv szerint megvalósított tevékenységre vonatkozó kifizetési kérelem az elektronikus űrlapkitöltő felületen nyújtható be április 1. és július 1. között a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
-(2a)[^39] Kifizetési kérelem e rendeletben foglaltak szerint legkésőbb 2025. április 1-je és 2025. július 1-je között nyújtható be.
+(2a)[^39] Kifizetési kérelem e rendeletben foglaltak szerint legkésőbb a 2025. évben nyújtható be.
 
 (3) Kifizetési kérelmet a Kincstár által jóváhagyott egyéni tervvel rendelkező kérelmező jogosult benyújtani.
 
@@ -52,7 +52,7 @@ f)[^42] az (EU) 2016/1150 bizottsági végrehajtási rendelet 24. cikk (3) bekez
 
 (13)[^44] A támberendezésről készített vázrajzban fel kell tüntetni az oszlopokat, huzalokat, végoszlop rögzítés és a szőlőtőke megtámasztásának módját (karó, nevelőpálca, huzal), a támberendezés anyagát (fém, fa, beton), a huzalokat tartó közoszlopok közötti távolságot, a huzalok talajtól és egymástól mért távolságát.
 
-[^39]: A 18. § (2a) bekezdését a 32/2024. (V. 16.) AM rendelet 2. §-a iktatta be.
+[^39]: A 18. § (2a) bekezdését a 32/2024. (V. 16.) AM rendelet 2. §-a iktatta be, szövege a 38/2025. (VIII. 13.) AM rendelet 2. §-a szerint módosított szöveg.
 [^40]: A 18. § (5) bekezdés c) pontja a 35/2022. (X. 28.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^41]: A 18. § (5) bekezdés d) pontja a 35/2022. (X. 28.) AM rendelet 10. § i) pontja szerint módosított szöveg.
 [^42]: A 18. § (5) bekezdés f) pontját a 35/2022. (X. 28.) AM rendelet 6. § (2) bekezdése iktatta be, szövege a 49/2023. (VIII. 24.) AM rendelet 5. § g) pontja szerint módosított szöveg.

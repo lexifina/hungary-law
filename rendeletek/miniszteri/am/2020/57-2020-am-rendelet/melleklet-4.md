@@ -12,8 +12,8 @@
 
 ## * A földrajzi árujelző termékleírásában körülhatárolt termőterületén belül a termékleírásban engedélyezett szőlőfajtákkal beültetett terület nagysága.
 
-4. melléklet az 57/2020. (XI. 13.) AM rendelethez[^63]
+4. melléklet az 57/2020. (XI. 13.) AM rendelethez[^64]
 
 Hektáronkénti költségátalányok és kompenzáció
 
-[^63]: A 4. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (1) bekezdése iktatta be, szövege a 49/2023. (VIII. 24.) AM rendelet 5. § j) pontja szerint módosított szöveg.
+[^64]: A 4. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (1) bekezdése iktatta be, szövege a 49/2023. (VIII. 24.) AM rendelet 5. § j) pontja szerint módosított szöveg.
