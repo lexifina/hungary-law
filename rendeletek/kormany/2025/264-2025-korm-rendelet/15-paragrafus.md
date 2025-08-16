@@ -1,1 +1,0 @@
-15. § Ez a rendelet a megújuló gáz és a földgáz, valamint a hidrogén belső piacára vonatkozó közös szabályokról, az (EU) 2023/1791 irányelv módosításáról, valamint a 2009/73/EK irányelv hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1788 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
