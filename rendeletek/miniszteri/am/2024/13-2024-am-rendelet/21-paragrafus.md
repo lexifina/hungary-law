@@ -1,3 +1,3 @@
-21. §[^2]
+21. §[^60]
 
-[^2]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 ## 4. A támogatás jogosultsági feltételei
 
-4. § (1) A támogatás igénybevételére az a borászati üzemengedélyes jogosult, aki
+4. § (1)[^22] A 2. § (2) bekezdés a), b), c) vagy d) pontja szerinti támogatás igénybevételére az a borászati üzemengedélyes vagy a borászati üzemengedélyesek által alkotott konzorcium jogosult, aki vagy – konzorcium esetében – amelynek tagja
 
 a) a kérelem benyújtásának időpontjában rendelkezik borászati termék előállítására, kiszerelésére, illetve tárolására vonatkozó borászati üzemengedéllyel (a továbbiakban: üzemengedély);
 
@@ -18,11 +18,13 @@ g) nyilatkozattal vállalja, hogy
 
 ga) a fenntartási időszak alatt bekövetkező amortizáció, lopás, működésképtelenné vagy használhatatlanná válás vagy jótállás alapján felmerülő csereok esetén a beruházási eszközt saját forrás terhére az új beruházási eszközzel azonos rendeltetésű, azonos vagy jobb paraméterekkel rendelkező, a csere megvalósulásának bejelentésétől számított két évnél nem régebbi gyártású beruházási eszközre cseréli,
 
-gb) a beszerzett eszközök egyedi azonosítójára is kiterjedően tájékoztatást nyújt arról, hogy a beruházási eszköz bármely üzemeltetési helyén üzemeltet-e azzal megegyező hasznosítású olyan beruházási eszközt, vagy folyamatban van-e azzal megegyező hasznosítású olyan beruházási eszköz beszerzése, amely vonatkozásában 2014. január 1-jét követően az Európai Unió valamely forrásából származó támogatást használtak vagy használnak fel,
+gb)[^23] a beszerzett eszközök egyedi azonosítójára is kiterjedően tájékoztatást nyújt arról, hogy a beruházási eszköz bármely üzemeltetési helyén üzemeltet-e azzal megegyező hasznosítású olyan beruházási eszközt, vagy folyamatban van-e azzal megegyező hasznosítású olyan beruházási eszköz beszerzése, amely vonatkozásában 2017. január 1-jét követően az Európai Unió valamely forrásából származó támogatást használtak vagy használnak fel,
 
 gc) a beruházási eszköz vásárlásával összefüggő gazdasági eseményről elkülönített nyilvántartást, könyvvezetési kötelezettség esetén elkülönített analitikus nyilvántartást vezet, valamint
 
 gd) több bejelentett üzemeltetési hely esetén a helyszíni ellenőrzésről történő értesítést követően haladéktalanul nyilatkozatban megadja a beruházási eszköz aktuális üzemeltetési helyét.
+
+(1a)[^24] A 2. § (2) bekezdés e) pontja szerinti intézkedés esetében támogatás igénybevételére az (1) bekezdés b), f) és g) pontja szerinti feltételeket teljesítő szőlőtermelő vagy szőlőtermelők által alkotott konzorcium jogosult.
 
 (2) A Nébih a támogatási kérelem és a kifizetési kérelem benyújtási időszakának utolsó napjáig megküldi az NKÜ részére az (1) bekezdés d) és e) pontja szerinti borászati üzemek listáját, a borászati üzem helyrajzi számának és az üzemengedély számának feltüntetésével.
 
@@ -33,3 +35,16 @@ a) az (1) bekezdésben meghatározott feltételeket teljesítő és
 b) szőlőtermesztést is végző
 
 szőlészeti és borászati oktatási intézmény.
+
+(4)[^25] A támogatási kérelmet benyújtó konzorcium tagjai polgári jogi társasági szerződéssel (a továbbiakban: konzorciumi szerződés) arra vállalnak kötelezettséget, hogy a műveletet a támogatási kérelemben meghatározott módon közösen megvalósítják, és eleget tesznek a 10. és 11. §-ban meghatározott fenntartási időszakhoz kapcsolódó követelményeknek.
+
+(5)[^26] A konzorcium NKÜ előtt történő ügyeinek vitelére és képviseletére a konzorcium tagjai a konzorciumi szerződésben kijelölt egyetlen tagot jogosítanak fel.
+
+(6)[^27] A konzorciumi tagoknak a támogatási döntésben foglaltak megszegéséért való felelősségét a konzorciumi szerződésben részletezni kell.
+
+[^22]: A 4. § (1) bekezdés nyitó szövegrésze a 38/2025. (VIII. 13.) AM rendelet 13. § 7. pontja szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdés g) pont gb) alpontja a 38/2025. (VIII. 13.) AM rendelet 13. § 8. pontja szerint módosított szöveg.
+[^24]: A 4. § (1a) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (1) bekezdése iktatta be.
+[^25]: A 4. § (4) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
+[^26]: A 4. § (5) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.
+[^27]: A 4. § (6) bekezdését a 38/2025. (VIII. 13.) AM rendelet 7. § (2) bekezdése iktatta be.

@@ -2,9 +2,9 @@
 
 1. § E rendelet alkalmazásában
 
-1. borászati üzem: a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 7. § (1) bekezdése szerinti üzem;
+1.[^1] borászati üzem: a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.) 7. § (1) bekezdése szerinti üzem;
 
-2. egyedi azonosításra alkalmas jelölés: a gyártó – ennek hiányában a forgalmazó – által a vásárlást alátámasztó dokumentumon feltüntetett és az e rendelet alapján támogatott borászati gépen, technológiai berendezésen és informatikai eszközön (a továbbiakban együtt: beruházási eszköz) rögzített olyan jelölés, amely legalább a fenntartási időszak végéig lehetővé teszi annak egyedi azonosítását;
+2.[^2] egyedi azonosításra alkalmas jelölés: a gyártó – ennek hiányában a forgalmazó – által a vásárlást alátámasztó dokumentumon feltüntetett és az e rendelet alapján támogatott szőlészeti, valamint borászati gépen, technológiai berendezésen és informatikai eszközön (a továbbiakban együtt: beruházási eszköz) – szoftver esetében a szoftver futtatására kijelölt informatikai eszközön rögzített vagy a szoftver beállításaiban található licenc adatokban – szereplő olyan jelölés, amely legalább a fenntartási időszak végéig lehetővé teszi annak egyedi azonosítását;
 
 3. fenntartási időszak: az az időszak, amely alatt
 
@@ -20,6 +20,8 @@ b) a beruházási eszközt a kedvezményezettnek az üzemeltetési helyen üzeme
 
 7. KKV: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti mikro-, kis- és középvállalkozás;
 
+7a.[^3] konzorcium: a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet [a továbbiakban: 54/2023. (IX. 13.) AM rendelet] 2. § 7. pontja szerinti fogalom;
+
 8. nagyvállalat: mikro-, kis- és középvállalkozásnak nem minősülő vállalkozás;
 
 9. nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdése szerinti vállalkozás;
@@ -27,6 +29,8 @@ b) a beruházási eszközt a kedvezményezettnek az üzemeltetési helyen üzeme
 10. pénzügyi év: az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 3. cikk 17. pontja szerinti fogalom;
 
 11. pótló beruházás: olyan beruházási eszköz beszerzése, amely nem felel meg a 2. § (1) bekezdésében foglaltaknak;
+
+11a.[^4] szőlőtermelő: a Btv. 1. § 24. pontjában meghatározott ültetvényhasználó;
 
 12. terméktárolási kapacitás: a borászati üzem szakmai-jövedéki nyilvántartásának tárolótartály nyilvántartásra vonatkozó részében (a továbbiakban: tárolótartály-nyilvántartás) rögzített, hektoliterben kifejezett mennyiség, amely a borászati üzemben a gyártástechnológia műszaki feltételeinek betartása mellett maximálisan tárolható;
 
@@ -36,4 +40,10 @@ a) biztosítottak a rendeltetésszerű működés műszaki, technikai, jogi és 
 
 b) a beruházási eszköz az e rendelet szerinti támogatás kedvezményezettjénél üzembe helyezett tárgyi eszközként van nyilvántartva;
 
-14. üzemeltetési hely: az e rendelet alapján támogatott beruházási eszköz üzembe helyezésének és rendeltetésszerű használatának helye.
+14.[^5] üzemeltetési hely: a 2. § (2) bekezdés a)–d) pontja szerinti beruházási eszköz üzembe helyezésének és rendeltetésszerű használatának helye, valamint a 2. § (2) bekezdés e) pontja szerinti beruházási eszköz tárolási helye.
+
+[^1]: Az 1. § 1. pontja a 38/2025. (VIII. 13.) AM rendelet 13. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § 2. pontja a 38/2025. (VIII. 13.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 7a. pontját a 38/2025. (VIII. 13.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^4]: Az 1. § 11a. pontját a 38/2025. (VIII. 13.) AM rendelet 4. § (3) bekezdése iktatta be.
+[^5]: Az 1. § 14. pontja a 38/2025. (VIII. 13.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.
