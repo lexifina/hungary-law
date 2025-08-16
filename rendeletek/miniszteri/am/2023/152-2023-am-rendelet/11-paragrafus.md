@@ -20,7 +20,7 @@ h) az ültetvény jellegének megjelölését a sor- és tőtáv, valamint a hek
 
 i) a művelésmód kialakítása tekintetében a huzalok számát a 6. mellékletben foglaltaknak megfelelően, valamint a vég- és soroszlop anyagát,
 
-j) a 2. § a) és b) pontja szerinti intézkedés esetében a hegybíró által kiállított újratelepítési engedély számát,
+j)[^12] a 2. § a), b) és c) pontja szerinti intézkedés esetében a hegybíró által kiállított újratelepítési engedély számát,
 
 k) az 5. melléklet 1. pontjában foglalt táblázat A:11 mezőjében foglaltak érvényesítése esetében, ha a borászati üzem a támogatást igénylő tulajdonában vagy használatában van, a borászati üzemengedély számát,
 
@@ -46,11 +46,11 @@ ba) az intézkedéssel érintett terület termőhelyi kataszteri osztályáról 
 
 bb) az 5. melléklet 1. pontjában foglalt táblázat A:7 vagy A:8 mezőjében foglaltak teljesüléséről, ha az ott meghatározott pontértékeket a támogatást igénylő érvényesíteni kívánja,
 
-bc)[^12] az 5. melléklet 1. pontjában foglalt táblázat A:12 mezőjében foglaltak teljesüléséről, ha az ott meghatározott pontértékeket a támogatást igénylő érvényesíteni kívánja,
+bc)[^13] az 5. melléklet 1. pontjában foglalt táblázat A:12 mezőjében foglaltak teljesüléséről, ha az ott meghatározott pontértékeket a támogatást igénylő érvényesíteni kívánja,
 
 c) az 5. melléklet 1. pontjában foglalt táblázat A:15 mezőjében, valamint 2. pontjában foglalt táblázat A:10 mezőjében foglaltaknak való megfelelést igazoló iratok másolatát, ha az ott meghatározott pontértékeket a támogatást igénylő érvényesíteni kívánja,
 
-d)[^13] az 5. melléklet 1. pontjában foglalt táblázat A:11 mezőjében foglaltaknak való megfeleléshez – az (1) bekezdés k) pontja szerinti adat hiányában – a hegybíró igazolásának másolatát arra vonatkozóan, hogy a támogatást igénylő olyan borgazdasági egységbe tartozik, amelynek valamely tagja érvényes borászati üzemengedéllyel rendelkezik,
+d)[^14] az 5. melléklet 1. pontjában foglalt táblázat A:11 mezőjében foglaltaknak való megfeleléshez – az (1) bekezdés k) pontja szerinti adat hiányában – a hegybíró igazolásának másolatát arra vonatkozóan, hogy a támogatást igénylő olyan borgazdasági egységbe tartozik, amelynek valamely tagja érvényes borászati üzemengedéllyel rendelkezik,
 
 e) a termesztéstechnológiai módszerek javítása esetén a hegybíró igazolásának másolatát
 
@@ -68,12 +68,13 @@ ha) az átalányalapú egységköltség 5. § (3) bekezdése szerinti megállap�
 
 hb) az intézkedést vagy annak meghatározott, számlával nem igazolható részét saját erőből hajtotta végre,
 
-i)[^14] az újratelepítési engedély másolatát, kivéve a 2. § d) pontja szerinti tevékenység esetén.
+i)[^15] az újratelepítési engedély másolatát, kivéve a 2. § d) pontja szerinti tevékenység esetén.
 
-j)[^15] a 2. § c) pontja szerinti újratelepítés esetén a kivágást elrendelő hatósági döntés másolatát és a kivágás végrehajtását megállapító hatósági jegyzőkönyv másolatát.
+j)[^16] a 2. § c) pontja szerinti újratelepítés esetén a kivágást elrendelő hatósági döntés másolatát és a kivágás végrehajtását megállapító hatósági jegyzőkönyv másolatát.
 
 [^11]: A 11. § (1) bekezdés a) pontja a 13/2024. (IV. 4.) AM rendelet 21. § (1) bekezdése szerint módosított szöveg.
-[^12]: A 11. § (2) bekezdés b) pont bc) alpontja az 1/2025. (II. 11.) AM rendelet 19. § b) pontja szerint módosított szöveg.
-[^13]: A 11. § (2) bekezdés d) pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés c) pontja szerint módosított szöveg.
-[^14]: A 11. § (2) bekezdés i) pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés d) pontja szerint módosított szöveg.
-[^15]: A 11. § (2) bekezdés j) pontját az 1/2025. (II. 11.) AM rendelet 18. § (6) bekezdése iktatta be.
+[^12]: A 11. § (1) bekezdés j) pontja a 38/2025. (VIII. 13.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^13]: A 11. § (2) bekezdés b) pont bc) alpontja az 1/2025. (II. 11.) AM rendelet 19. § b) pontja szerint módosított szöveg.
+[^14]: A 11. § (2) bekezdés d) pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 11. § (2) bekezdés i) pontja az 1/2025. (II. 11.) AM rendelet 18. § (17) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 11. § (2) bekezdés j) pontját az 1/2025. (II. 11.) AM rendelet 18. § (6) bekezdése iktatta be.
