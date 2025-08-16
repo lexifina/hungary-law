@@ -1,1 +1,3 @@
-3. § A 383/2016. (XII. 2.) Korm. rendelet 76. § (3) bekezdés b) pontjában a „kiengedésére” szövegrész helyébe a „kibocsátására” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

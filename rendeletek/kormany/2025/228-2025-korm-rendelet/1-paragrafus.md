@@ -14,6 +14,6 @@
 
 ## 1. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet módosítása
 
-1. § A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 383/2016. (XII. 2.) Korm. rendelet] 76. §-a a következő (3a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3a) Natura 2000 különleges madárvédelmi területen a fogoly és a vörös fogoly vadászterületre történő kibocsátására irányuló engedélyezési eljárásban szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

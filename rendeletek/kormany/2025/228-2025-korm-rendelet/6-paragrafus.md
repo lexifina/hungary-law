@@ -1,1 +1,3 @@
-6. § A 412/2017. (XII. 15.) Korm. rendelet 4. § (3) bekezdésében a „negyven” szövegrész helyébe a „hatvan” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
