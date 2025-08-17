@@ -1,1 +1,3 @@
-2. § Az 57/2020. (XI. 13.) AM rendelet 18. § (2a) bekezdésében a „2025. április 1-je és 2025. július 1-je között” szövegrész helyébe az „a 2025. évben” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

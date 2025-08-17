@@ -1,5 +1,3 @@
-14. § Hatályát veszti a 13/2024. (IV. 4.) AM rendelet
+14. §[^15]
 
-a) 8. § (5) bekezdés c) pontja és
-
-b) 8. § (5) bekezdés f) pontjában a „valamint” szövegrész.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
