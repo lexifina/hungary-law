@@ -1,0 +1,3 @@
+26. § A 80/2023. (III. 14.) Korm. rendelet 21. §-a a következő (1d) bekezdéssel egészül ki:
+
+„(1d) Az (1b) bekezdéstől eltérően az (1a) bekezdés szerinti esetben a koncessziós társaság a tárgyév negyedik negyedévét követően a kiterjesztett gyártói felelősségi díjról szóló számlát akkor is kiállítja a gyártó részére, ha a megelőző időszakokra megállapított, de még ki nem számlázott kiterjesztett gyártói felelősségi díjak általános forgalmi adó nélkül számított összege göngyölítetten nem éri el az 1000 forintot. A gyártó a kiterjesztett gyártói felelősségi díjat a koncessziós társaság által így kiállított számla alapján, a számla kézhezvételétől számított 15 napon belül fizeti meg a koncessziós társaság részére.”

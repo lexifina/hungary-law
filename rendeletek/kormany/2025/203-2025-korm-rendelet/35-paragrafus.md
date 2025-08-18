@@ -1,0 +1,3 @@
+35. § A 450/2023. (X. 4.) Korm. rendelet 31. §-a a következő (3d) bekezdéssel egészül ki:
+
+„(3d) A (3b) bekezdéstől eltérően a (3a) bekezdés szerinti esetben a koncessziós társaság a tárgyév negyedik negyedévét követően a csatlakozási díjról vagy a szolgáltatási díjról szóló számlát akkor is kiállítja a gyártó részére, ha a megelőző időszakokra megállapított, de még ki nem számlázott csatlakozási díjak vagy szolgáltatási díjak általános forgalmi adó nélkül számított összege göngyölítetten nem éri el az 1000 forintot. A gyártó a csatlakozási díjat vagy a szolgáltatási díjat a koncessziós társaság által így kiállított számla alapján, a számla kézhezvételétől számított 15 napon belül fizeti meg a koncessziós társaság részére.”
