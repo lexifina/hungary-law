@@ -1,5 +1,5 @@
-## 5.[^46]
+## 5.[^49]
 
 9. §
 
-[^46]: Az 5. alcímet (9-11. §-t) a 276/2023. (VI. 29.) Korm. rendelet 40. § c) pontja hatályon kívül helyezte.
+[^49]: Az 5. alcímet (9-11. §-t) a 276/2023. (VI. 29.) Korm. rendelet 40. § c) pontja hatályon kívül helyezte.

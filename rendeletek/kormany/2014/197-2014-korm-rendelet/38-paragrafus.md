@@ -1,3 +1,3 @@
-38. §[^103]
+38. §[^108]
 
-[^103]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

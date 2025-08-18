@@ -16,7 +16,7 @@ terjed ki.
 
 a) az olyan elektromos, elektronikus berendezésre, amely Magyarország alapvető biztonsági érdekeinek védelmével kapcsolatos, továbbá a fegyverekre, a lőszerekre, a hadianyagokra, ide nem értve a nem kifejezetten katonai célokra szánt termékekben használt elektromos és elektronikus berendezést,
 
-b) az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e rendelet hatálya alá nem tartozó elektromos, elektronikus berendezés részeként lett tervezve és elhelyezve, és amely csak az adott elektromos, elektronikus berendezés részeként töltheti be funkcióját,
+b)[^3] az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e rendelet hatálya alá nem tartozó berendezés részeként lett tervezve és elhelyezve, és amely csak az adott berendezés részeként töltheti be funkcióját,
 
 c) az izzószálas villanykörtére,
 
@@ -36,3 +36,4 @@ j) az életciklusuk vége előtt várhatóan fertőzővé váló orvostechnikai 
 
 [^1]: Az 1. § (1) bekezdés a) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 40. §-sal megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja a 203/2025. (VII. 17.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.

@@ -1,12 +1,14 @@
 ## 2. Értelmező rendelkezések
 
-2. §[^3] (1) E rendelet alkalmazásában:
+2. §[^4] (1) E rendelet alkalmazásában:
 
-1.[^4] az 1. melléklet 1. pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolt elektromos, elektronikus berendezésre,
+1.[^5] az 1. melléklet 1. pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolt elektromos, elektronikus berendezésre,
 
 2. elektromos, elektronikus berendezés: legfeljebb 1000 V váltakozó feszültségű, valamint legfeljebb 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőtől vagy elektromos áramtól függ, ideértve az elektromágneses mező vagy elektromos áram előállítását, mérését, átvitelét biztosító eszközöket is;
 
 3. elektromos, elektronikus berendezés háztartásban képződő hulladéka: olyan hulladékká vált elektromos, elektronikus berendezés, amely a háztartásban képződik, továbbá amely kereskedelmi, ipari, intézményi vagy egyéb forrásból származik, ha jellegénél és mennyiségénél fogva az elektromos, elektronikus berendezések olyan hulladékához hasonló, amely háztartásból származik, továbbá az olyan hulladékká vált elektromos, elektronikus berendezés, amelyet feltehetően háztartások és egyéb felhasználók egyaránt használnak;
+
+3a.[^6] elem, illetve akkumulátor: az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2023/1542 rendelet] szerinti elem, illetve akkumulátor;
 
 4. eltávolítás: olyan kézi, gépi, vegyi vagy kohászati eljárás útján végzett kezelés, amelynek eredményeképpen a hulladékká vált elektromos, elektronikus berendezésből a veszélyes anyagok, valamint azok keverékei és összetevői egy elkülöníthető anyagáramba kerülnek vagy valamely anyagáram egy elkülöníthető részévé válnak; egy anyag, keverék vagy összetevő akkor tekinthető elkülöníthetőnek, ha ellenőrzés útján igazolható, hogy a kezelés környezetvédelmi szempontból biztonságos;
 
@@ -14,7 +16,7 @@
 
 6. finanszírozási megállapodás: valamilyen elektromos, elektronikus berendezéssel kapcsolatos hitel-, bérleti, haszonbérleti vagy részletfizetési szerződés vagy megállapodás, függetlenül attól, hogy a szerződés vagy megállapodás, illetve bármely kiegészítő szerződés vagy megállapodás rendelkezik-e az elektromos, elektronikus berendezés tulajdonjogának átruházásáról vagy annak lehetőségéről;
 
-7.[^5] forgalmazó: az a természetes személy vagy a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 14. pontjában meghatározott forgalmazó, aki, illetve amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
+7.[^7] forgalmazó: az a természetes személy vagy a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 14. pontjában meghatározott forgalmazó, aki, illetve amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
 
 8. forgalomba hozatal: valamely elektromos, elektronikus berendezés piaci hozzáférhetőségének első alkalommal történő üzletszerű biztosítása Magyarország területén;
 
@@ -34,9 +36,9 @@ nem tekintendő gyártónak az, aki (amely) valamely finanszírozási megállapo
 
 11. import: elektromos, elektronikus berendezés vámjogszabályok szerinti, az Európai Unió vámterületén kívülről történő behozatala;
 
-12.[^6] in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 2. cikk 2. pontja szerinti olyan eszköz, vagy annak az IVDR 2. cikk 4. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus eszköznek minősül;
+12.[^8] in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 2. cikk 2. pontja szerinti olyan eszköz, vagy annak az IVDR 2. cikk 4. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus eszköznek minősül;
 
-13.[^7]
+13.[^9]
 
 14. nagyméretű, helyhez kötött elektromos, elektronikus berendezés: különböző típusú készülékek vagy eszközök nagyméretű összessége,
 
@@ -50,22 +52,25 @@ c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel hel
 
 16. nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép, amelynek működtetése folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között;
 
-17.[^8] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan eszköz vagy annak az MDR 2. cikk 2. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus berendezésnek minősül;
+17.[^10] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan eszköz vagy annak az MDR 2. cikk 2. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus berendezésnek minősül;
 
 18. piaci hozzáférhetőség biztosítása: Magyarország piacán egy termék gazdasági tevékenység keretében történő rendelkezésre bocsátása forgalmazás, fogyasztás vagy használat céljára, függetlenül attól, hogy az fizetés ellenében vagy ingyenesen történik;
 
-19. történelmi hulladék: a 2005. augusztus 13. napján vagy azt megelőzően gyártott hulladékká vált elektromos, elektronikus berendezés;
+19.[^11] történelmi hulladék: a 2005. augusztus 13. napján vagy azt megelőzően forgalomba hozott, az e rendelet 1. melléklete 2017. december 31. napján hatályos rendelkezései szerinti elektromos, elektronikus berendezés, ide nem értve a fotovoltaikus paneleket;
 
 20. vásárlási utalvány: olyan nyomtatott vagy elektronikus formában kiállított elismervény, számla, amely új elektromos, elektronikus berendezés vásárlása esetén az új termék árából a jogosultat az e rendeletben meghatározott összegű árengedmény igénybevételére jogosítja fel.
 
-(2) E rendeletben az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
+(2)[^12] E rendeletben az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
 
-(3)[^9] Az e rendeletben alkalmazott fogalmakat a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(3)[^13] Az e rendeletben alkalmazott fogalmakat a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
-[^3]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés a) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 12. pontja a 135/2022. (IV. 7.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^7]: A 2. § (1) bekezdés 13. pontját a 276/2023. (VI. 29.) Korm. rendelet 40. § a) pontja hatályon kívül helyezte.
-[^8]: A 2. § (1) bekezdés 17. pontja a 164/2020. (IV. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 28. §-a iktatta be.
+[^4]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés a) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 3a. pontját a 203/2025. (VII. 17.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § (1) bekezdés 12. pontja a 135/2022. (IV. 7.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^9]: A 2. § (1) bekezdés 13. pontját a 276/2023. (VI. 29.) Korm. rendelet 40. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés 17. pontja a 164/2020. (IV. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § (1) bekezdés 19. pontja a 203/2025. (VII. 17.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § (2) bekezdése a 203/2025. (VII. 17.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 28. §-a iktatta be.
