@@ -56,6 +56,38 @@ c)[^38] az adott hulladékgazdálkodási tevékenységgel érintett éves maxim�
 
 (3)[^39] A közvetítésre, kereskedelemre vonatkozó hulladékgazdálkodási engedély véglegessé válását követően a hulladékgazdálkodási hatóság az engedélyes adatait felveszi a közvetítők, kereskedők nyilvántartásába.
 
+(4)[^40] Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet szerinti kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedély iránti kérelemnek a következőket kell tartalmaznia:
+
+1. a kérelmező neve, székhelye, amely tartalmazza többek között az irányítószámot, a települést, az utcanevet és házszámot, az országot, telefonszáma, és ha van, az internetes és az e-mail-címe, adószáma, adóazonosító jele, KSH statisztikai számjele − ennek hiányában a közösségi vagy nemzetközi adószáma −, cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma, KÜJ-azonosítója;
+
+2. kollektív teljesítés esetén a gyártók által várhatóan forgalomba hozni tervezett elem, akkumulátor mennyisége az engedéllyel érintett időszakra vonatkozóan, elem- és akkumulátor-kategóriánkénti bontásban;
+
+3. egyéni teljesítés esetén a gyártó által forgalomba hozni tervezett elem, akkumulátor mennyisége az engedéllyel érintett időszakra vonatkozóan, elem- és akkumulátor-kategóriánkénti bontásban;
+
+4. a körforgásos termékből képződő, gyűjteni tervezett hulladék mennyisége elem- és akkumulátor-kategóriánként, évenkénti bontásban, az engedéllyel érintett időszakra vonatkozóan;
+
+5. a vállalt gyűjtési arány mértékéről szóló nyilatkozat az engedéllyel érintett időszakra vonatkozóan, elem- és akkumulátor-kategóriánként;
+
+6. a tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése;
+
+7. a kérelmező korábbi hulladékgazdálkodási tevékenységéről szóló, a 11. § szerinti nyilatkozat;
+
+8. ha a gyűjtést, kezelést kollektív teljesítés esetén nem a koncessziós társaság, egyéni teljesítés esetén nem a gyártó végzi, a gyűjtést, kezelést végző gazdálkodó szervezet neve, az újrafeldolgozást, továbbá az újrafeldolgozási folyamat során keletkezett maradványhulladék kezelését ténylegesen végző gazdálkodó szervezettel vagy szervezetekkel kötött szerződések másolata és a hulladékgazdálkodási tevékenységekre vonatkozó engedélyek iktatószáma;
+
+9. ha a gyűjtést, kezelést kollektív teljesítés esetén a koncessziós társaság, egyéni teljesítés esetén a gyártó végzi, akkor az erre vonatkozó engedélyének iktatószáma;
+
+10. az elem- és akkumulátorhulladék elem- és akkumulátor-kategóriánkénti gyűjtési rendszereinek, kezelési módjainak bemutatása, a gyűjtési célkitűzések érdekében tett intézkedések ismertetése;
+
+11. a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelv 8a. cikk (3) bekezdés d) pontja szerinti önellenőrzési mechanizmus bemutatása;
+
+12. a pénzügyi biztosíték, a céltartalék, valamint a környezetvédelmi biztosítás hulladékgazdálkodással összefüggő részletes szabályairól szóló kormányrendelet szerinti pénzügyi biztosíték rendelkezésre állását igazoló dokumentum egyéni teljesítést választó gyártó esetén, valamint a környezetvédelmi biztosítás megkötésének tényét igazoló dokumentum;
+
+13. a kérelmező nyilatkozata arra vonatkozóan, hogy a székhelye és a telephelye szerinti önkormányzati adóhatósággal szemben lejárt köztartozása van-e, és
+
+14. az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet 58. cikk (2) bekezdése szerinti további igazolások és igazoló dokumentumok.
+
+(5)[^41] A hulladékgazdálkodási hatóság a köztartozásmentes adózói adatbázis alapján hivatalból ellenőrzi, hogy a kérelmezőnek van-e az állami adóhatósággal szemben köztartozása. Amennyiben a kérelem nem tartalmazza a (4) bekezdés 13. pontja szerinti nyilatkozatot, a hulladékgazdálkodási hatóság a kérelmező székhelye vagy a telephelye szerinti önkormányzati adóhatóság megkeresése útján ellenőrzi a kérelmező köztartozás-mentességét.
+
 [^19]: A 7. § (1) bekezdés nyitó szövegrésze a 370/2014. (XII. 30.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
 [^20]: A 7. § (1) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
 [^21]: A 7. § (1) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
@@ -77,3 +109,5 @@ c)[^38] az adott hulladékgazdálkodási tevékenységgel érintett éves maxim�
 [^37]: A 7. § (2) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^38]: A 7. § (2) bekezdés c) pontját a 370/2014. (XII. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
 [^39]: A 7. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 10. pontja, a 457/2017. (XII. 28.) Korm. rendelet 424. § b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^40]: A 7. § (4) bekezdését a 203/2025. (VII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^41]: A 7. § (5) bekezdését a 203/2025. (VII. 17.) Korm. rendelet 1. §-a iktatta be.
