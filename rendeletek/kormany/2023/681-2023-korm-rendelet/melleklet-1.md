@@ -89,3 +89,7 @@ A pénzügyi biztosíték meghatározásának módja
 4.4.1. nem veszélyes hulladékok esetében a pénzügyi biztosíték alapösszegével,
 
 4.4.2. veszélyes hulladékok esetében a pénzügyi biztosíték alapösszegének 200%-ával.
+
+5.[^4] Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet szerinti kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedélyhez kötött tevékenységet végző gazdálkodó szervezet esetén a pénzügyi biztosíték kiszámítása során a telephelyen egyidejűleg gyűjthető hulladékok mennyisége alatt az éves szinten gyűjteni tervezett hulladék mennyiséget kell érteni.
+
+[^4]: Az 1. melléklet 5. pontját a 203/2025. (VII. 17.) Korm. rendelet 37. § (1) bekezdése iktatta be.
