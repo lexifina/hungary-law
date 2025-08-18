@@ -4,7 +4,7 @@ Egyéni teljesítés esetén a gyártó koncessziós társasággal kötött szer
 
 1. A gyártó neve, székhelye, adószáma, cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma
 
-2.[^147] A körforgásos termék 1. melléklet szerinti megnevezése és azonosító kódszámának 1–6. karaktere
+2.[^159] A körforgásos termék 1. melléklet szerinti megnevezése és azonosító kódszámának 1–6. karaktere
 
 3. Az egyéni teljesítés kezdő időpontja
 
@@ -16,4 +16,4 @@ Egyéni teljesítés esetén a gyártó koncessziós társasággal kötött szer
 
 7. A szerződésszegéssel és a szerződés megszűnésével, megszüntetésével összefüggő jogok és kötelezettségek
 
-[^147]: Az 5. melléklet 2. pontja a 465/2024. (XII. 30.) Korm. rendelet 37. § 17. pontja szerint módosított szöveg.
+[^159]: Az 5. melléklet 2. pontja a 465/2024. (XII. 30.) Korm. rendelet 37. § 17. pontja szerint módosított szöveg.
