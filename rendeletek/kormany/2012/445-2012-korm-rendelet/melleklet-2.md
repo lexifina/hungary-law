@@ -1,5 +1,3 @@
-2. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^74]
+2. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^110]
 
-A gyűjtési kötelezettség mértéke
-
-[^74]: A 2. melléklet a 370/2014. (XII. 30.) Korm. rendelet 25. § 7. pontja, a 279/2016. (IX. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^110]: A 2. mellékletet a 203/2025. (VII. 17.) Korm. rendelet 16. § 24. pontja hatályon kívül helyezte.

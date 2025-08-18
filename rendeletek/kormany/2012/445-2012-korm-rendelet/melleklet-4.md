@@ -1,4 +1,4 @@
-4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^76]
+4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^112]
 
 A gyártó, a koncessziós társaság és a koncesszori alvállalkozó adatszolgáltatási kötelezettsége során közölt adatok
 
@@ -52,4 +52,4 @@ A gyártó, a koncessziós társaság és a koncesszori alvállalkozó adatszolg
 
 3.5. összesített mennyiség.
 
-[^76]: A 4. melléklet a 276/2023. (VI. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^112]: A 4. melléklet a 276/2023. (VI. 29.) Korm. rendelet 24. §-ával megállapított szöveg.

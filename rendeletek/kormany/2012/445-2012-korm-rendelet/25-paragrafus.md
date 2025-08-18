@@ -1,20 +1,22 @@
 ## 14. Jogkövetkezmények
 
-25. § (1)[^63] Ha egyéni teljesítés esetén a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az országos hulladékgazdálkodási hatóság a gyártó vagyoni biztosítékának terhére, az arra feljogosított kezelő útján gondoskodik.
+25. § (1)[^82] Ha egyéni teljesítés esetén a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az országos hulladékgazdálkodási hatóság a gyártó pénzügyi biztosítékának terhére, az arra feljogosított kezelő útján gondoskodik.
 
-(2)[^64] Ha a gyártó és a koncessziós társaság és a koncesszori alvállalkozó az e rendeletben meghatározott kötelezettségét nem teljesíti, a 23. § szerinti hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
+(2)[^83] Ha egyéni teljesítés esetén a gyártó az (EU) 2023/1542 rendelet 55. cikk (3) bekezdés d) pontjában meghatározott követelményeknek már nem felel meg, az országos hulladékgazdálkodási hatóság a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet szerinti nyilvántartásból a gyártót törölheti.
 
-(3)[^65]
+(3)[^84] Az országos hulladékgazdálkodási hatóság az (EU) 2023/1542 rendelet 58. cikk (6) bekezdése szerinti esetekben a kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedélyt visszavonhatja.
 
-(4)[^66]
+(4)[^85]
 
-(5) A 7. § (1) és (2) bekezdésében, továbbá a 20. § (4) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. 2. § a) pontja értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
+(5)[^86] A 7. § (1) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. 2. § a) pontja értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
-(6) A 4. §-ban, a 7. § (3) bekezdésében, valamint a 19. §-ban és a 20. § (1) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el.
+(6)[^87] A 4. §-ban, a 7. § (3) bekezdésében, a 18. § (1) és (3) bekezdésében, valamint a 19. § (1) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el.
 
 (7) Az (5) és (6) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^63]: A 25. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^64]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja, a 276/2023. (VI. 29.) Korm. rendelet 25. § i) pontja, a 156/2025. (VI. 23.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^65]: A 25. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § k) pontja hatályon kívül helyezte.
-[^66]: A 25. § (4) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § k) pontja hatályon kívül helyezte.
+[^82]: A 25. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 23. §-ával megállapított, a 203/2025. (VII. 17.) Korm. rendelet 15. § 9. pontja szerint módosított szöveg.
+[^83]: A 25. § (2) bekezdése a 203/2025. (VII. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^84]: A 25. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § k) pontja hatályon kívül helyezte, újonnan a 203/2025. (VII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^85]: A 25. § (4) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § k) pontja hatályon kívül helyezte.
+[^86]: A 25. § (5) bekezdése a 203/2025. (VII. 17.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
+[^87]: A 25. § (6) bekezdése a 203/2025. (VII. 17.) Korm. rendelet 15. § 10. pontja szerint módosított szöveg.

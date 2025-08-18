@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-445-20-
 | 2021-06-22 | 2012-445-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-07-01 | 2012-445-20-22.13 | 276/2023. (VI. 29.) Korm. rendelet |
 | 2025-07-09 | 2012-445-20-22.14 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2025-08-18 | 2012-445-20-22.15 | 203/2025. (VII. 17.) Korm. rendelet |

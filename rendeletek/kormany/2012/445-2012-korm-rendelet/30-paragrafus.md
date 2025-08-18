@@ -1,22 +1,29 @@
 30. § (1) Ez a rendelet
 
-a) az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról, továbbá a 91/157/EGK irányelv hatályon kívül helyezéséről szóló, 2006. szeptember 6-i 2006/66/EK európai parlament és tanácsi irányelvnek;
+a)[^96]
 
-b) az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelvnek az elemek és akkumulátorok forgalomba hozatala tekintetében történő módosításáról szóló, 2008. november 19-i 2008/103/EK európai parlamenti és tanácsi irányelvnek;
+b)[^97]
 
-c) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek;
+c)[^98]
 
-d) a 2006/66/EK európai parlamenti és tanácsi irányelvvel összhangban az elemek és akkumulátorok gyártóinak nyilvántartásba vételére vonatkozó követelmények megállapításáról szóló, 2009. augusztus 5-i 2009/603/EK bizottsági határozatnak;
+d)[^99]
 
 e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek;
 
-f)[^71] az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK európai parlamenti és tanácsi irányelvnek a vezeték nélküli villamos kézi szerszámokba szánt, kadmiumot tartalmazó hordozható elemek és akkumulátorok, valamint az alacsony higanytartalmú gombelemek forgalomba hozatala tekintetében történő módosításáról, és a 2009/603/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2013. november 20-i 2013/56/EU európai parlamenti és tanácsi irányelvnek.
+f)[^100]
 
-g)[^72] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
+g)[^101]
 
 való megfelelést szolgálja.
 
+(1a)[^102] Ez a rendelet az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 (2) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^71]: A 30. § (1) bekezdés f) pontját a 370/2014. (XII. 30.) Korm. rendelet 24. §-a iktatta be.
-[^72]: A 30. § (1) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 11. §-a iktatta be.
+[^96]: A 30. § (1) bekezdés a) pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 20. pontja hatályon kívül helyezte.
+[^97]: A 30. § (1) bekezdés b) pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 20. pontja hatályon kívül helyezte.
+[^98]: A 30. § (1) bekezdés c) pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 20. pontja hatályon kívül helyezte.
+[^99]: A 30. § (1) bekezdés d) pontját a 203/2025. (VII. 17.) Korm. rendelet 16. § 20. pontja hatályon kívül helyezte.
+[^100]: A 30. § (1) bekezdés f) pontját a 370/2014. (XII. 30.) Korm. rendelet 24. §-a iktatta be, a 203/2025. (VII. 17.) Korm. rendelet 16. § 20. pontja hatályon kívül helyezte.
+[^101]: A 30. § (1) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 11. §-a iktatta be, a 203/2025. (VII. 17.) Korm. rendelet 16. § 20. pontja hatályon kívül helyezte.
+[^102]: A 30. § (1a) bekezdését a 203/2025. (VII. 17.) Korm. rendelet 14. §-a iktatta be.
