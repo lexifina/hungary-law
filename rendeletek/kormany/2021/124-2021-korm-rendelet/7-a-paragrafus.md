@@ -1,3 +1,3 @@
-7/A. §[^20] A területi hulladékgazdálkodási hatóság és az országos hulladékgazdálkodási hatóság az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 3. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
+7/A. §[^21] A területi hulladékgazdálkodási hatóság és az országos hulladékgazdálkodási hatóság az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet szerinti kiterjesztett gyártói felelősség teljesítésére vonatkozó hulladékgazdálkodási engedélyezési eljárás kivételével az engedélyezési eljárásában – az adott eljárásra vonatkozó különös szabályokban meghatározott szempontok mellett – a 3. mellékletben foglalt táblázat szerinti feltételek esetén vizsgálja a táblázatban meghatározott szakkérdést.
 
-[^20]: A 7/A. §-t a 258/2024. (VIII. 29.) Korm. rendelet 28. §-a iktatta be.
+[^21]: A 7/A. §-t a 258/2024. (VIII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 203/2025. (VII. 17.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
