@@ -12,6 +12,6 @@ b) ha a visszaváltás nem a forgalmazás helyén történik, a visszaváltásra
 
 (2) A visszaváltás feltételeinek változásáról kötelezően visszaváltási díjas, nem újrahasználható termék esetén a koncessziós társaság, kötelezően visszaváltási díjas, újrahasználható termék, valamint önkéntesen visszaváltási díjas termék esetén a gyártó által adott tájékoztatást a forgalmazó az (1) bekezdésben meghatározott helyen haladéktalanul közzéteszi.
 
-(3)[^13] A forgalmazó a visszaváltási helyen, az üzlet vásárlók által használható bejáratánál tájékoztatja a fogyasztókat arról, hogy visszaváltási helyet működtet.
+(3)[^14] A forgalmazó a visszaváltási helyen, az üzlet vásárlók által használható bejáratánál tájékoztatja a fogyasztókat arról, hogy visszaváltási helyet működtet.
 
-[^13]: A 17. § (3) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
+[^14]: A 17. § (3) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 47. §-a iktatta be.

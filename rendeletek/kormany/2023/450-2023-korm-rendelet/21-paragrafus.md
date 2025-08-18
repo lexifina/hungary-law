@@ -1,6 +1,6 @@
 21. § (1) A koncessziós társaság a kötelezően visszaváltási díjas termék visszaváltása érdekében országos lefedettséggel visszaváltásihely-hálózatot alakít ki.
 
-(2)[^15] A koncessziós társaság a visszaváltási helyen automata visszaváltó berendezéssel, illetve kézi átvétellel történő visszaváltási lehetőséget biztosít.
+(2)[^16] A koncessziós társaság a visszaváltási helyen automata visszaváltó berendezéssel, illetve kézi átvétellel történő visszaváltási lehetőséget biztosít.
 
 (3) A kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltása érdekében a koncessziós társaság legalább
 
@@ -12,4 +12,4 @@ b) minden 1000 főnél nagyobb népességű településen visszaváltási hely k
 
 (5) A koncessziós társaság a visszaváltási helyet üzemeltetővel legalább a 2. melléklet szerinti adattartalommal köt szerződést. A koncessziós társaság jogosult a visszaváltással kapcsolatos, jogszabályon alapuló követelményeket a szerződésben meghatározni.
 
-[^15]: A 21. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^16]: A 21. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
