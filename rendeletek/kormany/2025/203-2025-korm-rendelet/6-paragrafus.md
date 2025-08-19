@@ -1,3 +1,3 @@
-6. §[^1]
+6. §[^6]
 
-[^1]: A 6. § a 38. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^6]: A 6. § a 38. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

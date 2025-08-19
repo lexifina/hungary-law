@@ -1,29 +1,40 @@
 15. § A 445/2012. (XII. 29.) Korm. rendelet
 
-1. 2. § (2) bekezdésében a „rendeletben” szövegrész helyébe a „rendeletben az elemekről, illetve akkumulátorokról és a hulladékelemekről, illetve -akkumulátorokról, a 2008/98/EK irányelv és az (EU) 2019/1020 rendelet módosításáról, valamint a 2006/66/EK irányelv hatályon kívül helyezéséről szóló, 2023. július 12-i (EU) 2023/1542 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1542 rendelet], valamint” szöveg,
+1.[^15]
 
-2. 4. §-ában az „akkumulátorcsomagon” szövegrész helyébe az „akkumulátorcsomagon az (EU) 2023/1542 rendelet 13. cikkében és” szöveg,
+2.[^16]
 
-3. 5. § (2) bekezdésében az „a 2. melléklet” szövegrész helyébe az „az (EU) 2023/1542 rendelet 59. cikk (3) bekezdése szerinti, a hulladékká vált LMT-elemek, illetve -akkumulátorok gyűjtéséről az (EU) 2023/1542 rendelet 60. cikk (3) bekezdése” szöveg,
+3.[^17]
 
-4. 5. § (4) bekezdésében az „eltérésekkel” szövegrész helyébe az „eltérésekkel, és az (EU) 2023/1542 rendelet 59–61. cikkében előírtak szerint” szöveg,
+4.[^18]
 
-5. 6. § (2) bekezdésében az „Az előkezelési, valamint újrafeldolgozási” szövegrész helyébe az „A kezelési” szöveg,
+5.[^19]
 
-6. 6. § (3) bekezdésében az „újrafeldolgozási” szövegrészek helyébe a „kezelési” szöveg, az „e rendelet” szövegrész helyébe az „(EU) 2023/1542 rendelet” szöveg és az „az újrafeldolgozás” szövegrész helyébe az „a kezelés” szöveg,
+6.[^20]
 
-7. 5. alcím címében a „gyártó” szövegrész helyébe a „gyártó és a koncessziós társaság” szöveg,
+7.[^21]
 
-8. 20. § (3) bekezdésében az „ipari” szövegrész helyébe az „olyan” szöveg,
+8.[^22]
 
-9. 25. § (1) bekezdésében a „vagyoni” szövegrész helyébe a „pénzügyi” szöveg,
+9.[^23]
 
-10. 25. § (6) bekezdésében a „valamint a 19. §-ban és a 20. § (1)” szövegrész helyébe az „a 18. § (1) és (3) bekezdésében, valamint a 19. § (1)” szöveg,
+10.[^24]
 
-11.[^3]
+11.[^25]
 
-12. 1. melléklet 6. pontjában a „hordozható” szövegrész helyébe a „hordozható elemen és” szöveg
+12.[^26]
 
 lép.
 
-[^3]: A 15. § 11. pontja a 38. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^15]: A 15. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 15. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 15. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 15. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 15. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 15. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 15. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 15. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 15. § 11. pontja a 38. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^26]: A 15. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

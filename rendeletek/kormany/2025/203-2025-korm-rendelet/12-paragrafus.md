@@ -1,3 +1,3 @@
-12. § A 445/2012. (XII. 29.) Korm. rendelet 29. §-a helyébe a következő rendelkezés lép:
+12. §[^12]
 
-„29. § E rendeletnek a kiterjesztett gyártói felelősségi rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 203/2025. (VII. 17.) Korm. rendelettel (a továbbiakban: Mód. kr.) megállapított 8. §-a szerinti engedély iránti kérelmet a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 23. §-a alapján az országos hulladékgazdálkodási hatóság nyilvántartásában a Mód. kr. hatálybalépésekor szereplő gyártó, valamint a koncessziós társaság 2025. szeptember 30. napjáig terjeszti elő az országos hulladékgazdálkodási hatóság előtt.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

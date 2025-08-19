@@ -1,1 +1,3 @@
-33. § Hatályát veszti a 80/2023. (III. 14.) Korm. rendelet 7. §-ában az „ , az 1. melléklet 1.5. pontja szerinti körforgásos termékek, valamint az 1. melléklet 1.4. pontjából az ipari vagy gépjármű elemek és -akkumulátorok” szövegrész.
+33. §[^76]
+
+[^76]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,17 +1,23 @@
 23. § Hatályát veszti a 197/2014. (VIII. 1.) Korm. rendelet
 
-a) 2. § (2) bekezdésében az „az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és” szövegrész,
+a)[^58]
 
-b)[^9]
+b)[^59]
 
-c) 19. § (2) bekezdése,
+c)[^60]
 
-d) 35. § (1) bekezdés d) pontja,
+d)[^61]
 
-e) 35/A. §-a,
+e)[^62]
 
-f) 4. melléklet címében az „elkülönített gyűjtést igénylő, hulladékká vált” szövegrész,
+f)[^63]
 
-g) 7. melléklet 1.2. pontja.
+g)[^64]
 
-[^9]: A 23. § b) pontja a 38. § (4) bekezdése alapján 2027. február 18-án lép hatályba.
+[^58]: A 23. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 23. § b) pontja a 38. § (4) bekezdése alapján 2027. február 18-án lép hatályba.
+[^60]: A 23. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 23. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 23. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 23. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 23. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

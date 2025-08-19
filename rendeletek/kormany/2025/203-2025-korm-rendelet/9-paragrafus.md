@@ -1,3 +1,3 @@
-9. § A 445/2012. (XII. 29.) Korm. rendelet 13. alcíme a következő 24/A. §-sal egészül ki:
+9. §[^9]
 
-„24/A. § Az országos hulladékgazdálkodási hatóság látja el az (EU) 2023/1542 rendelet 69. cikk (2)–(5) bekezdése szerinti ellenőrzési és illetékes hatóság részére meghatározott feladatokat.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

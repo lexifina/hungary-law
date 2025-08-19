@@ -1,3 +1,3 @@
-8. § A 445/2012. (XII. 29.) Korm. rendelet 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(2) Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság gondoskodik az átvett hulladékká vált elem vagy akkumulátor kezeléséről.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

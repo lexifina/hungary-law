@@ -1,3 +1,3 @@
-21. § A 197/2014. (VIII. 1.) Korm. rendelet 35. § (2) bekezdése a következő f) ponttal egészül ki:
+21. §[^56]
 
-(Ez a rendelet)
+[^56]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
