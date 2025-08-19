@@ -16,7 +16,13 @@
 
 (6) Az eljárásban a jogi képviselet nem kötelező. Az ítélőtábla előtti eljárásban az ügy érdemében hozott végzés elleni fellebbezést, továbbá a Kúria előtti eljárásban a fellebbezést és a felülvizsgálati kérelmet előterjesztő személy számára a jogi képviselet kötelező.
 
-(7) Az eljárásban a Pp. ítélkezési szünetre vonatkozó rendelkezései nem alkalmazhatók.
+(7) Az eljárásban a Pp.
+
+a) határidőtúllépésre, valamint
+
+b) ítélkezési szünetre
+
+vonatkozó rendelkezései nem alkalmazhatók.
 
 (8) Az eljárásban magánszakértő alkalmazásának nincs helye.
 
