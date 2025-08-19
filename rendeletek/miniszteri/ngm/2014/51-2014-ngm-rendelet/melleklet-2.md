@@ -58,11 +58,11 @@
 
 | 0707 | Uborka és apró uborka frissen vagy hűtve |
 
-| 0708 | Hüvelyes zöldség, hüvelyben vagy kifejtve, frissen vagy hűtve |
+| 0708 ex. 0708 10 00 ex. 0708 20 00 20 | Hüvelyes zöldség, hüvelyben vagy kifejtve, frissen vagy hűtve |
 
-| 0709 | Más zöldség frissen vagy hűtve |
+| 0709 ex. 0709 99 60 | Más zöldség frissen vagy hűtve |
 
-| 0710 | Zöldség (nyersen, vagy gőzöléssel vagy vízben forrázással főzve is) fagyasztva |
+| 0710 | Zöldség (nyersen vagy gőzöléssel vagy vízben forrázással főzve is) fagyasztva |
 
 | 0711 | Zöldségfélék ideiglenesen tartósítva (pl. kén-dioxid-gázzal, sós lében, kénes vízben vagy más tartósító oldatban), de közvetlen fogyasztásra nem alkalmas állapotban |
 
@@ -112,7 +112,7 @@
 
 | 1509 | Olívaolaj és frakciói, finomítva is, de vegyileg nem átalakítva |
 
-| 1510 | Kizárólag olívabogyóból nyert más olaj és frakciói finomítva is, de vegyileg nem átalakítva, beleértve a 1509 vtsz. alá tartozó olajokkal vagy ezek frakcióival készült keverékeket is |
+| 1510 | Kizárólag olívabogyóból nyert más olaj és frakciói finomítva is, de vegyileg nem átalakítva, beleértve az 1509 vtsz. alá tartozó olajokkal vagy ezek frakcióival készült keverékeket is |
 
 | 1511 | Pálmaolaj és frakciói, finomítva is, de vegyileg nem átalakítva |
 
@@ -126,9 +126,9 @@
 
 | 1516 | Állati vagy növényi zsír és olaj és ezek frakciói részben vagy teljesen hidrogénezve, közbeesően észterezve, újraészterezve vagy elaidinizálva, finomítva is, de tovább nem elkészítve |
 
-| 1517 | Margarin; ebbe az árucsoportba tartozó állati vagy növényi zsírok vagy olajok vagy különböző zsírok vagy olajok frakcióinak étkezésre alkalmas keveréke vagy készítménye, a 1516 vtsz. alá tartozó étkezési zsír vagy olaj vagy ezek frakciói kivételével |
+| 1517 | Margarin; ebbe az árucsoportba tartozó állati vagy növényi zsírok vagy olajok vagy különböző zsírok vagy olajok frakcióinak étkezésre alkalmas keveréke vagy készítménye, az 1516 vtsz. alá tartozó étkezési zsír vagy olaj vagy ezek frakciói kivételével |
 
-| 1518 | Állati vagy növényi zsír és olaj és ezek frakciói főzve, oxidálva, víztelenítve, szulfurálva, fújva, hővel polimerizálva vákuumban vagy közömbös gázban, vagy vegyileg másképp átalakítva, a 1516 vtsz. alá tartozók kivételével; ebbe az árucsoportba tartozó, máshol nem említett állati vagy növényi zsír vagy olaj vagy különböző zsírok vagy olajok frakcióinak étkezésre alkalmatlan keveréke vagy készítménye |
+| 1518 | Állati vagy növényi zsír és olaj és ezek frakciói főzve, oxidálva, víztelenítve, szulfurálva, fújva, hővel polimerizálva vákuumban vagy közömbös gázban vagy vegyileg másképp átalakítva, az 1516 vtsz. alá tartozók kivételével; ebbe az árucsoportba tartozó, máshol nem említett állati vagy növényi zsír vagy olaj vagy különböző zsírok vagy olajok frakcióinak étkezésre alkalmatlan keveréke vagy készítménye |
 
 | 1601 | Kolbász és hasonló termék húsból, vágási melléktermékből, belsőségből vagy vérből; ezeken a termékeken alapuló élelmiszerek |
 
