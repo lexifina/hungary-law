@@ -24,7 +24,7 @@ g) a gyermeket a gyámhatóság nevelésbe vette és a szülő szülői felügye
 
 h) a bíróság a gyermeket harmadik személynél helyezte el; vagy
 
-i) a szülő a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat hatálya alatt áll.
+i) a szülő a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat – ide nem értve a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján az elítélttel szemben elrendelt megelőző távoltartásról szóló határozatot – hatálya alatt áll.
 
 (2) Az életközösség fennállása alatt szünetel a szülői felügyeleti joga annak a szülőnek, aki együtt él a szülői felügyelettől megfosztott másik szülővel.
 

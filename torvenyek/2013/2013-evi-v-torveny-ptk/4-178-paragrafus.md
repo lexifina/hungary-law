@@ -6,7 +6,7 @@
 
 (2) A gyermekétől különélő szülő - ha a bíróság vagy a gyámhatóság eltérően nem rendelkezik - jogosult és köteles gyermekével kapcsolatot tartani.
 
-(3) A szülőnek joga van gyermekével kapcsolatot tartani akkor is, ha a szülői felügyeleti joga szünetel, kivéve, ha a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat hatálya alatt áll.
+(3) A szülőnek joga van gyermekével kapcsolatot tartani akkor is, ha a szülői felügyeleti joga szünetel, kivéve, ha a gyermek vagy a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett cselekmény miatt elrendelt távoltartó határozat – ide nem értve a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján az elítélttel szemben elrendelt megelőző távoltartásról szóló határozatot – hatálya alatt áll.
 
 (4) Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra,
 
