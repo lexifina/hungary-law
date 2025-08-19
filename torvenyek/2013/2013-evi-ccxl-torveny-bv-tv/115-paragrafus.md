@@ -1,1 +1,1 @@
-### 115. §
+115. § Ha a szabadságvesztés végrehajtása során a pártfogó felügyelői vélemény és a környezettanulmány elkészítésével, a 185. § (6) bekezdés a)–d) pontja szerinti gondozás körébe tartozó tevékenységgel, a reintegrációs őrizettel, a pártfogó felügyelettel, valamint az utógondozással kapcsolatos feladatok elvégzésére vonatkozó illetékességi szabály szerinti vármegyében nincs bv. intézet, a büntetés-végrehajtás országos parancsnoka által kijelölt bv. intézet büntetés-végrehajtási pártfogó felügyelője jár el.

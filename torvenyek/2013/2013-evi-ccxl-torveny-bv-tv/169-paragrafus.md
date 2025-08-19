@@ -26,4 +26,4 @@ g)
 
 (7) Ha a végrehajtást akadályozó vagy a félbeszakítást eredményező körülmény a fenyítés kiszabásától számított hat hónapig folyamatosan fennáll, a magánelzárás nem hajtható végre.
 
-(8) Fegyelmi elkülönítés esetén, ha az egyszemélyes elhelyezéssel jár, a 146. § (5) bekezdését megfelelően alkalmazni kell.
+(8)

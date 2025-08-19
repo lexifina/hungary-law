@@ -15,3 +15,13 @@ a) a döntést vagy az intézkedést a bv. intézet parancsnoka hozta vagy a mul
 b) a döntést az agglomerációs központ vezetője hozta, a panaszt az országos parancsnok
 
 bírálja el, amely döntés ellen további jogorvoslatnak nincs helye.
+
+(4) A panasz elbírálására jogosult a határozatban
+
+a) a döntés, intézkedés jogszerűségének megállapítása esetén a panaszt elutasítja,
+
+b) a jogsértő döntést megváltoztatja vagy megsemmisíti, és ezzel egyidejűleg az elsőfokú eljárás lefolytatóját új eljárásra utasítja,
+
+c) az intézkedésre jogosultat a jogszerű intézkedés megtételére utasítja,
+
+d) mulasztás esetén felhívja a jogosultat a döntés meghozatalára, illetve az intézkedés megtételére.

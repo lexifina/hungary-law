@@ -22,13 +22,13 @@ c) az elítélttel szemben újabb vagy összbüntetésként megállapított szab
 
 (5) A (4) bekezdésben meghatározott esetben a BFB az elítélt kezdeti kategória-besorolásáról és a kategóriaváltásról a 97. § (3) vagy (4) bekezdése alapján – a 26. § (4) bekezdésében foglaltak figyelembevételével – határozattal dönt.
 
-(6) Ha a kategóriaváltás szükségessé teszi, a bv. intézet haladéktalanul kezdeményezi a BVOP-nál a szabadságvesztés végrehajtására másik bv. intézet kijelölését.
+(6) Ha a kategóriaváltás szükségessé teszi, a bv. intézet haladéktalanul kezdeményezi a BVOP elhelyezésért felelős szakterületéténél a szabadságvesztés végrehajtására másik bv. intézet kijelölését.
 
 (7) Kiemelkedően súlyos fegyelemsértés esetén a bv. intézet parancsnoka a fegyelmi eljárás elrendelésétől – a kreditpontoktól függetlenül – az elítélt legfeljebb két kategóriára terjedő azonnali visszasorolásáról határozhat, amely határozattal szemben bírósági felülvizsgálati kérelem nyújtható be.
 
 (8) A (7) bekezdés alkalmazásában kiemelkedően súlyos fegyelemsértés:
 
-a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
+a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, tiltott tudatmódosító szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
 
 b) bűncselekményt megvalósító, személy elleni erőszakos vagy súlyos sérülést okozó fegyelemsértés.
 

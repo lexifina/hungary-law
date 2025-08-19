@@ -10,7 +10,7 @@ c) öt évet meg nem haladó tartamú szabadságvesztést tölt.
 
 (1a) A reintegrációs őrizet időtartama
 
-a) legfeljebb egy év, ha az elítéltet gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre,
+a) egy év, illetve két évet meghaladó tartamú szabadságvesztés esetén legfeljebb a szabadságvesztés fele része, ha az elítéltet gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre,
 
 b) az a) pontban meghatározottakon kívül legfeljebb tíz hónap.
 

@@ -10,7 +10,7 @@
 
 a) a más elítélt vagy egyéb jogcímen fogvatartott sérelmére elkövetett könnyebb sérülést okozó, magánindítványra üldözendő bűncselekményt megvalósító fegyelmi cselekmény,
 
-b) a pszichoaktív szer tartása, birtoklása, használata
+b) a kábítószer, illetve tiltott tudatmódosító szer tartása, birtoklása, használata
 
 miatt kiszabott fegyelmi fenyítés.
 

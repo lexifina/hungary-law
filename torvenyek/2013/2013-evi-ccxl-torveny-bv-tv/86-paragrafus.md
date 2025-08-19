@@ -1,4 +1,4 @@
-86. § (1) A BVOP az előző naptári héten kiadott felhívásokat az azokban megjelölt bv. szervek szerint összesíti, az ezek alapján összeállított jegyzéket a bv. intézet parancsnokának megküldi.
+86. § (1) A BVOP a kiadott felhívásokat a bv. intézet számára hozzáférhetővé teszi.
 
 (2) Ha a szabadságvesztés megkezdésére szóló felhívás az elítéltnek azért nem volt kézbesíthető, mert ismeretlen helyre távozott, a BVOP haladéktalanul megkísérli az elítélt tartózkodási helyének a felkutatását, ha ez nem vezet eredményre, kezdeményezi az elsőfokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bírónál az elítélttel szemben elfogatóparancs kibocsátását.
 

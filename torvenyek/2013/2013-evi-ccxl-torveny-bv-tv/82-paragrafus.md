@@ -25,3 +25,9 @@
 7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése, valamint reintegrációs eltávozása esetén élni kíván, továbbá ahol az átmeneti részlegre helyezése esetén az eltávozáskor tartózkodna,
 
 8. kreditrendszer: az elítélt magatartása, együttműködési készsége és a reintegrációs tevékenység keretében nyújtott teljesítménye alapján számított kreditértékeken alapuló előmeneteli rendszer, amelyben a szabadságvesztés tartamához igazodóan rögzítésre kerül azon kreditpontok száma, amelynek összegyűjtése esetén az elítélt a kezdeti besoroláshoz képest átkerülhet egy kedvezőbb kategóriába, és amelyhez mérten az elítélt által megszerzett és a tőle levont kreditpontok számértéke határozza meg a kategóriák közötti előre- vagy visszasorolását.
+
+9. bv. intézet alatt a büntetés-végrehajtási egészségügyi szervet (a továbbiakban: bv. egészségügyi szerv), valamint a bv. intézet parancsnoka alatt a bv. egészségügyi szerv vezetőjét is érteni kell.
+
+10. kábítószer: a Btk. 459. § (1a) bekezdésében kábítószerként meghatározott anyag,
+
+11. tiltott tudatmódosító szer: az elítélt által magánál nem tartható, kábítószernek nem minősülő, bódult állapot előidézésére alkalmas anyag.

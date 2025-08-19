@@ -12,7 +12,7 @@ a) az elítélt által elkövetett bűncselekményt, a kiszabott büntetés tart
 
 b) az elítélt büntetés végrehajtása alatt tanúsított magatartását,
 
-c) az elítéltnek a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
+c) az elítéltnek az általa elkövetett bűncselekményhez való viszonyulását és a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
 
 d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az igazságügyért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
 
@@ -30,9 +30,11 @@ b) az elítélt mentális állapotára vonatkozó szakorvosi és pszichológusi 
 
 c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt,
 
-d) a Btk. XIX. Fejezetében meghatározott, tizennyolcadik életévet be nem töltött sértett sérelmére elkövetett bűncselekmény miatti elítélés esetén az elítélt hasonló jellegű bűncselekmény elkövetésére vonatkozó – az előterjesztést megelőző két hónapon belül készült – visszaesési kockázat felmérésének az eredményét.
+d) a Btk. XIX. Fejezetében meghatározott, tizennyolcadik életévet be nem töltött sértett sérelmére elkövetett bűncselekmény miatti elítélés esetén az elítéltről – az előterjesztést megelőző két hónapon belül – készült pszichológusi véleményt.
 
-(2b) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
+(2b) A (2a) bekezdés d) pontja szerinti pszichológusi véleményt megalapozó pszichológiai vizsgálatot a KKMI módszertani iránymutatása alapján – lehetőség szerint – az elítélt alapellátásában részt nem vevő pszichológus végzi. A pszichológusi vélemény tartalmazza az erre a célra rendszeresített mérőeszközzel mért visszaesési kockázat eredményét is. A pszichológusi véleményt a KKMI állományába tartozó pszichológusokból álló háromfős bizottság véglegezi, és a KKMI közvetlenül küldi meg a büntetés-végrehajtási bírónak.
+
+(2c) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 
 (3) A büntetés-végrehajtási bíró a határozott ideig tartó szabadságvesztésből feltételes szabadságra bocsátott elítélt pártfogó felügyeletét (Btk. 69. §) rendelheti el, és az elítélt számára a Btk. 71. § (2)–(3) bekezdése alapján külön magatartási szabályokat írhat elő.
 

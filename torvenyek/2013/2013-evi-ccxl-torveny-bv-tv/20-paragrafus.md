@@ -4,9 +4,11 @@
 
 (2) Ha a végrehajtásért felelős szerv szervezeti egységének vezetője hivatalból jár el – e törvény eltérő rendelkezése hiányában – az intézkedésre vagy döntés meghozatalára okot adó körülmény felmerülését követő tizenöt napon belül kell intézkedni, illetve dönteni, kivéve, ha az ügy jellege soron kívüli elintézést kíván.
 
-(3) Ha a végrehajtásért felelős szerv szervezeti egységének vezetője kérelemre jár el, a kérelem benyújtásától számított harminc napon belül intézkedik, illetve dönt, kivéve, ha az ügy jellege soron kívüli elintézést kíván. Az elintézési határidőt a kérelem elbírálására – az (1) bekezdés szerint – jogosult indokolt esetben, írásban, egy alkalommal legfeljebb harminc nappal meghosszabbíthatja. Erről a kérelmezőt írásban értesíteni kell.
+(3) Ha a végrehajtásért felelős szerv szervezeti egységének vezetője kérelemre jár el, a kérelem beérkezésétől számított harminc napon belül intézkedik, illetve dönt, kivéve, ha az ügy jellege soron kívüli elintézést kíván. Az elintézési határidőt a kérelem elbírálására – az (1) bekezdés szerint – jogosult indokolt esetben, írásban, egy alkalommal legfeljebb harminc nappal meghosszabbíthatja. Erről a kérelmezőt írásban értesíteni kell.
 
-(4) Az elintézési határidőbe nem számít be a hiánypótlásnak, a hivatalból történő iratok beszerzésének, a megkeresésnek, a szakértői vélemény, illetve a pártfogó felügyelői vélemény vagy környezettanulmány elkészítésének és az indítványozott tanúmeghallgatások teljesítésének időtartama.
+(3a) Ha a kérelmet nem a végrehajtásért felelős szerv elbírálásra jogosult szervezeti egységéhez nyújtották be, a kérelem áttételéről a kérelem beérkezésétől számított öt munkanapon belül, kivéve, ha az ügy jellege soron kívüli elintézést kíván, a végrehajtásért felelős szerv azon szervezeti egységének vezetője intézkedik, ahová a kérelmet benyújtották.
+
+(4) Az elintézési határidőbe nem számít be a (3a) bekezdés szerinti áttételnek, a hiánypótlásnak, a hivatalból történő iratok beszerzésének, a megkeresésnek, a szakértői vélemény, illetve a pártfogó felügyelői vélemény vagy környezettanulmány elkészítésének és az indítványozott tanúmeghallgatások teljesítésének időtartama.
 
 (5) A kérelemben foglaltak megalapozása a kérelmező feladata, erre a figyelmét fel kell hívni, és ha ez elmaradt ezzel egyidejűleg hiánypótlásra kell felszólítani. Ugyanígy kell eljárni, ha a kérelemből nem lehet megállapítani, hogy az mire irányul. A kérelmezőt tájékoztatni kell arról, hogy ha a hiánypótlásnak az előírt határidőben nem tesz eleget, kérelmét a rendelkezésre álló adatok alapján bírálják el.
 

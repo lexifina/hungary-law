@@ -20,26 +20,26 @@ f) az elítélt kockázatelemzési vizsgálat során tanúsított magatartása.
 
 a) a KKMI végzi, ha az elítéltet
 
-aa) a Btk. XIX. Fejezetébe tartozó bűncselekmény vagy a Btk. 160. § (2) bekezdése szerint minősülő emberölés tettesként történő elkövetése miatt ítélték szabadságvesztésre,
+aa) a Btk. XIX. Fejezetébe tartozó bűncselekmény vagy a Btk. 160. § (2) bekezdése szerint minősülő emberölés elkövetése miatt ítélték szabadságvesztésre,
 
 ab) tizenöt évi vagy azt meghaladó tartamú szabadságvesztésre
 
 ítélték,
 
-b) az a) pontban meghatározott kivétellel a KKMI agglomerációs szervezeti egysége végzi, ha a szabadságvesztés vagy több szabadságvesztés esetén azok együttes tartama, illetve a Btk. 92–92/B. §-a szerinti beszámítás esetén a még végrehajtásra váró tartama az öt évet meghaladja.
+b) az a) pontban meghatározott kivétellel a KKMI agglomerációs szervezeti egysége végzi, ha a szabadságvesztés vagy több szabadságvesztés esetén azok együttes tartama, illetve a Btk. 92–92/B. §-a szerinti beszámítás esetén a még végrehajtásra váró tartama az öt évet meghaladja, továbbá ha az elítélt kategória-besorolása abban a bv. intézetben esedékes, amelyben a szervezeti egység működik.
 
 (4) Ha e törvény eltérően nem rendelkezik, az (1) bekezdés szerinti kockázatelemzési vizsgálatot akkor is a KKMI folytatja le, ha az elítélttel szemben újabb vagy összbüntetésként megállapított, a (3) bekezdés a) pontjában meghatározott szabadságvesztést kell végrehajtani, kivéve, ha az összbüntetésbe foglalt alapítélet tekintetében a KKMI a vizsgálatot már elvégezte.
 
 (5) A (3) bekezdés szerinti esetben a KKMI-ben vagy az agglomerációs szervezeti egységén az elítélt elhelyezése legfeljebb harminc napig tarthat, amit a KKMI, illetve az agglomerációs szervezeti egység vezetője indokolt esetben további harminc nappal meghosszabbíthat. Ezen időtartam alatt a végrehajtás rendjére a fogházfokozatú és a börtönfokozatú elítélt esetén a III. kategória, fegyházfokozatú elítélt esetén a IV. kategória szabályai vonatkoznak.
 
-(6) A (3) bekezdésben meghatározott esetben a KKMI, illetve az agglomerációs szervezeti egysége az (1) bekezdés szerinti vizsgálat alapján – a 26. § (4) bekezdésében foglaltak figyelembevételével – határozattal dönt a 97. § (3) vagy (4) bekezdése alapján az elítélt kezdeti kategória-besorolásáról, valamint az elítélt szükségleteinek megfelelő sajátos kezelési igényű részlegre helyezésére tehet javaslatot.
+(6) A (3) bekezdésben meghatározott esetben a KKMI, illetve az agglomerációs szervezeti egysége az (1) bekezdés szerinti vizsgálat alapján – a 26. § (4) bekezdésében foglaltak figyelembevételével – határozattal dönt a 97. § (3) vagy (4) bekezdése alapján az elítélt kezdeti kategória-besorolásáról, valamint az elítélt szükségleteinek megfelelő sajátos kezelési igényű elítéltek részlegére helyezésre tehet javaslatot.
 
 (7) A KKMI dönt – az elítélt hozzájárulásával – a 132. § szerinti szexuális bűnelkövetők visszaesési valószínűségét csökkentő intenzív kezelési programba történő bevonásról.
 
 (8) Az (5) bekezdés szerinti vizsgálati időszak kockázatértékelési jelentéssel zárul, amely tartalmazza az elítélt befogadásakor mért általános – visszaesési és fogvatartási – kockázatát, meghatározza a kockázat csökkentéséhez szükséges egészségügyi, pszichológiai, biztonsági és reintegrációs feladatokat, amelyet a bv. intézetnek a reintegrációs tevékenysége során figyelembe kell vennie.
 
-(9) Az elítélt részére a (6) bekezdés szerinti határozatot át kell adni, továbbá tájékoztatni kell a számára javasolt visszaesési és fogvatartási kockázatot csökkentő reintegrációs programokról, illetve a sajátos kezelési igényű részlegre helyezésre vonatkozó javaslatról.
+(9) Az elítélt részére a (6) bekezdés szerinti határozatot át kell adni, továbbá tájékoztatni kell a számára javasolt visszaesési és fogvatartási kockázatot csökkentő reintegrációs programokról, illetve a sajátos kezelési igényű elítéltek részlegére helyezésre vonatkozó javaslatról.
 
 (10) Az elítéltről készült kockázatértékelési jelentést a fogvatartotti nyilvántartásban rögzíteni kell.
 
-(11) A KKMI, illetve az agglomerációs szervezeti egysége a szabadságvesztést végrehajtó bv. intézet kijelölése érdekében haladéktalanul értesíti a BVOP-t az elítélt kategória-besorolásáról, valamint a sajátos kezelési igényű részlegre helyezésére vonatkozó javaslatáról.
+(11) A KKMI, illetve az agglomerációs szervezeti egysége a szabadságvesztést végrehajtó bv. intézet kijelölése érdekében haladéktalanul értesíti a BVOP elhelyezésért felelős szakterületét az elítélt kategória-besorolásáról, valamint a sajátos kezelési igényű elítéltek részlegére helyezésre vonatkozó javaslatáról.

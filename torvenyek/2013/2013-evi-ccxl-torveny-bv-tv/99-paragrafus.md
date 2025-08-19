@@ -10,7 +10,7 @@ amely a kategóriák közötti előresorolását vagy visszasorolását eredmén
 
 (3) A végrehajtás során megszerezhető – a kategóriákban való előmenetelt biztosító – kreditpontok száma és kategória-előresorolás időbeli ütemezése a szabadságvesztés, több szabadságvesztés folyamatos végrehajtása esetén azok együttes tartamához, illetve hátralévő részéhez és az elítélt kezdeti kategória-besorolásához igazodik.
 
-(4) Több szabadságvesztés folyamatos végrehajtása esetén az egyes kategóriákban az előresoroláshoz szükséges kreditpontok számának és ütemezésének meghatározásakor biztosítani kell, hogy az adott végrehajtási fokozathoz tartozó szabadságvesztések megkezdésének várható időpontjára az elítélt az adott végrehajtási fokozathoz tartozó, a 97. § (3) bekezdése szerinti kedvezőbb kategóriába juthasson, továbbá biztosítani kell a 97. § (5) bekezdés b) pontjában foglaltak megtartását.
+(4) Több szabadságvesztés folyamatos végrehajtása esetén az egyes kategóriákban az előresoroláshoz szükséges kreditpontok számának és ütemezésének meghatározásakor biztosítani kell, hogy az adott végrehajtási fokozathoz tartozó szabadságvesztések megkezdésének várható időpontjára az elítélt az adott végrehajtási fokozathoz tartozó, a legalább a 97. § (3) bekezdés b), illetve d) pontja szerinti szigorúbb kategóriába juthasson, továbbá biztosítani kell a 97. § (5) bekezdés b) pontjában foglaltak megtartását.
 
 (5) Ha a szabadságvesztés tartama, több szabadságvesztés folyamatos végrehajtása esetén azok együttes tartama megváltozik, és az elítélt újabb kategória-besorolására nem kerül sor, az elítélt aktuális kategória-besorolása és a még végrehajtásra váró rész alatt megszerezhető kreditpontok alapján a kategória-előresorolás ütemezését a megváltozott tartamhoz igazodva jogszabályban meghatározottak szerint arányosítani kell.
 
@@ -26,7 +26,7 @@ felfüggesztheti, és ha az elítélt ez idő alatt jó magaviseletet tanúsít,
 
 (8) Ha az összesítési időszakban megszerzett vagy tőle levont kreditpontjai alapján az elítélt kategóriaváltása szükséges, arról a BFB soron kívül dönt. Jogszabályban meghatározott kivétellel az elítélt egy alkalommal egy kategóriát sorolható előre. Ha az elítélt fenyítése során kreditpontlevonás végrehajtásának felfüggesztésére került sor, a felfüggesztés tartama alatt kategória-előresorolásnak nincs helye.
 
-(9) Jogszabályban meghatározott kivétellel kategória-előresorolásra első alkalommal a szabadságvesztés végrehajtásának megkezdésétől számított egy év elteltével kerülhet sor, ha az elítélt ezen időszak alatt legalább hét kreditpontot szerzett oly módon, hogy a második hathavi összesítés időszakában is szerzett legalább három kreditpontot. Ez utóbbi feltételnek minden további kategória-előresorolás esetén teljesülnie kell.
+(9) Jogszabályban meghatározott kivétellel kategória-előresorolásra első alkalommal a szabadságvesztés végrehajtásának megkezdésétől számított egy év elteltével kerülhet sor, ha az elítélt ezen időszak alatt legalább hét kreditpontot szerzett oly módon, hogy a második hathavi összesítés időszakában is szerzett legalább három kreditpontot. A legalább három kreditpont megszerzésére vonatkozó feltételnek minden további kategória-előresorolás esetén teljesülnie kell.
 
 (10) Ha az összesítés eredményeként az elítélt elérte a kategória-előresoroláshoz szükséges kreditpontok ötven százalékát, az együttműködési készségére és a reintegrációs tevékenységben való előrehaladására figyelemmel a BFB méltányosságból előresorolhatja, amely esetben a hiányzó kreditpontokat jóváírja.
 

@@ -2,7 +2,7 @@
 
 ## A RENDBÍRSÁG HELYÉBE LÉPŐ ELZÁRÁS VÉGREHAJTÁSA
 
-432. § (1) A rendbírság helyébe lépő elzárás végrehajtására a VII. Fejezetben foglaltakat az (1a)–(3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+432. § (1) A rendbírság helyébe lépő elzárás végrehajtására a VII. Fejezetben foglaltakat az (1a)–(3) bekezdésben meghatározott eltérésekkel kell alkalmazni. A rendbírság helyébe lépő elzárás végrehajtásának megkezdése érdekében a bv. csoport intézkedik.
 
 (1a) A befogadás során a bv. intézet a rendbírság helyébe lépő elzárásra kötelezett személyazonosságát ellenőrzi.
 

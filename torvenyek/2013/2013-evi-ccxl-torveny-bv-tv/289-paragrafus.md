@@ -9,3 +9,5 @@ b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozást segítő
 c) egészségi állapotában olyan tartós változás következett be, amely a közérdekű munka végrehajtását nem teszi lehetővé, vagy a foglalkoztathatósági szakvélemény, vagy a megismételt vizsgálat szerinti foglalkoztathatósági szakvélemény alapján a közérdekű munka végzésére az elítélt nem alkalmas,
 
 d) folyamatosan öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy letartóztatásban, illetve kényszergyógykezelésben vagy előzetes kényszergyógykezelésben, vagy két évet vagy azt meghaladó időt töltött javítóintézetben.
+
+e) legénységi állománycsoportba tartozóként legalább egy évig katonai szolgálatot teljesített.

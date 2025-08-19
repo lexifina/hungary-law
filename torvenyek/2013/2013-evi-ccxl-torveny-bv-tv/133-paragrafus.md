@@ -16,7 +16,7 @@ e) a bv. intézet tisztántartásában, karbantartásában és ellátásában d�
 
 f) alávetni magát a jogszabályban előírt kötelező vagy egészségi állapotának megítéléséhez szükséges orvosi vizsgálatnak és a jogszabály szerint kötelező, gyógykezelésnek,
 
-g) vizsgálati anyagot szolgáltatni az alkohol-, bódítószer-, illetve kábítószer-fogyasztás hiteles mérőeszközzel vagy vizelet-mintavétellel történő, szúrópróbaszerű ellenőrzéséhez, fegyelemsértés, illetve bűncselekmény gyanúja esetén ezt meghaladóan szükség szerint a vérmintavételhez,
+g) vizsgálati anyagot szolgáltatni a kábítószer-, illetve tiltott tudatmódosítószer-fogyasztás hiteles mérőeszközzel vagy vizelet-mintavétellel történő, szúrópróbaszerű ellenőrzéséhez, fegyelemsértés, illetve bűncselekmény gyanúja esetén ezt meghaladóan szükség szerint a vérmintavételhez,
 
 h) az egyes kategóriákra vonatkozó jogszabályi rendelkezéseknek megfelelően előírt forma- és egyéb ruházatot viselni,
 

@@ -14,7 +14,7 @@ a) a döntés-előkészítés során készült tervezetre,
 
 b) a kockázatelemzési vizsgálat irataira és a kockázatértékelési jelentésre,
 
-c) a bv. szerv előterjesztésének a döntésre vonatkozó javaslatát tartalmazó részére,
+c) a bv. szerv előterjesztésének a döntésre vonatkozó javaslatát tartalmazó részére és az előterjesztéshez csatolt, valamint a feltételes szabadságra bocsátás lehetőségéből kizárt életfogytig tartó szabadságvesztésre ítélt esetében hivatalból induló kegyelmi eljárás (a továbbiakban: kötelező kegyelmi eljárás) lefolytatásához szükséges előkészítő iratként készült pszichológusi véleményre,
 
 d) a biztonsági intézkedések alkalmazásával, az egyedi biztonsági előírással, valamint a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezéssel kapcsolatos olyan iratra, amelynek ismertté válása valamely más személy jogait vagy érdekeit sértené,
 
@@ -22,9 +22,11 @@ e) a végrehajtásért felelős szerv szakterületi véleményére,
 
 f) a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő feljegyzésére és az egyéni pártfogó felügyelői tervnek a bűncselekmény elkövetéséhez vezető okokra, a bűnismétlés vonatkozásában fennálló, a pártfogoltat veszélyeztető körülmények kockázatelemzésére vagy kockázatértékelésére vonatkozó részére,
 
-g) az elfogatóparancs kibocsátásáról szóló igazolásra, valamint
+g) az elfogatóparancs kibocsátásáról szóló igazolásra,
 
-h) azon iratokra, amelyeknek a megismerésére a kérelmező törvény szerint nem jogosult.
+h) a sértett 188/A. § (1) bekezdés szerinti nyilatkozatára és a sértett meghallgatása esetén a nyilatkozatáról felvett jegyzőkönyvre, valamint
+
+i) azon iratokra, amelyeknek a megismerésére a kérelmező törvény szerint nem jogosult.
 
 (5) Ha a kiadandó másolat olyan adatot tartalmaz, amely megismerésére a kérelmező nem jogosult, részére olyan másolatot kell kiadni, amely a védett vagy zártan kezelt adatokat nem tartalmazza.
 

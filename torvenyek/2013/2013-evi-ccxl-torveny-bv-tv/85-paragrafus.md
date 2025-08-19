@@ -16,4 +16,4 @@ d) a telítettséget.
 
 (5) A 84. § (1) bekezdésében meghatározott esetben a BVOP a 92. § (3) bekezdésében foglaltak fennállása esetén szükség szerint intézkedik az elítélt kockázatelemzési vizsgálatra történő átszállítása iránt.
 
-(6) A BVOP az elítélt 92. § (1) bekezdése szerinti vizsgálatát követően a kategória-besorolásról hozott határozat, valamint a sajátos kezelési igényű részlegre helyezésre vonatkozó javaslat alapján jelöli ki azt a bv. intézetet, amely a szabadságvesztést végrehajtja, és egyidejűleg intézkedik az elítélt átszállítása érdekében.
+(6) A BVOP az elítélt 92. § (1) bekezdése szerinti vizsgálatát követően a kategória-besorolásról hozott határozat, valamint a sajátos kezelési igényű elítéltek részlegére helyezésre vonatkozó javaslat alapján jelöli ki azt a bv. intézetet, amely a szabadságvesztést végrehajtja, és egyidejűleg intézkedik az elítélt átszállítása érdekében.

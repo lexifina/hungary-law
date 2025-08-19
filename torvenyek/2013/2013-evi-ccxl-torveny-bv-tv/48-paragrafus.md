@@ -20,6 +20,6 @@ bb) a letöltendő büntetés hátralévő tartamára tekintettel a büntetés v
 
 (4) A büntetés-végrehajtási bíró a hibás formában vagy tartalommal kiállított értesítőlap kijavítását saját hatáskörben elvégezheti.
 
-(5) Közérdekű munka helyébe lépő szabadságvesztés és pénzbüntetés helyébe lépő szabadságvesztés esetén, ha az elítélt szabadlábon van, a büntetés végrehajtásának megkezdésére szóló felhívást a büntetés-végrehajtási bíró adja ki.
+(5) A közérdekű munka helyébe lépő szabadságvesztés, a pénzbüntetés helyébe lépő szabadságvesztés és a rendbírság helyébe lépő elzárás esetén, ha az elítélt vagy az elzárásra kötelezett szabadlábon van, a büntetés, illetve az elzárás végrehajtásának megkezdésére szóló felhívást a büntetés-végrehajtási bíró adja ki.
 
 (6) A büntetés-végrehajtási bíró a büntetés-végrehajtás során az általa lefolytatott eljárásokban hivatalból vizsgálja a büntetés vagy az intézkedés végrehajtásának törvényi akadályát, és annak fennállását – a 27. § (1) bekezdés a) és c) pontja kivételével – határozattal állapítja meg.
