@@ -38,6 +38,8 @@ g) egyéb nemperes eljárásokban – a közigazgatási nemperes eljárás kivé
 
 (1b) Ha a követelésnek csak egy része kapcsolatos lakástulajdonnal vagy ahhoz kapcsolódó vagyoni értékű joggal, az illetéket e követelésrész tekintetében külön kell megállapítani, és az illeték megállapítása során az (1a) bekezdésben foglaltakat alkalmazni.
 
+(1c) Az egyszerűsített polgári perben az illeték az (1) bekezdés a) pontja alapján megállapított illeték 70%-a, de legalább 18 000 forint.
+
 (2) Ha a fizetési meghagyásos eljárás perré alakul – ideértve azt az esetet is, ha a felperes a keresetlevelet a fizetési meghagyás kibocsátása iránti kérelmet visszautasító, illetve az eljárást megszüntető végzés jogerőre emelkedését követő harminc napon belül a bírósághoz benyújtja –, az (1a) és (1b) bekezdésben foglaltak figyelembe vételével megállapított, az (1) bekezdés a) pontja szerinti mértékű illetéket kell fizetni, amelybe a fizetési meghagyásos eljárásért fizetendő díj – esetleges kedvezményekkel csökkentett – összegét be kell számítani.
 
 (3) A végrehajtási eljárás megindítása iránti beadvány: a végrehajtás elrendelése iránti kérelemnek, illetve a végrehajtási záradékkal ellátható okiratnak a bíróságnál történő benyújtása. Ide kell érteni a pénzkövetelés biztosítására, illetve meghatározott dolog zárlatára irányuló kérelem benyújtását is.
