@@ -10,6 +10,8 @@ b) a bíróság eljárási cselekmény elvégzésére határidőt tűzött, amel
 
 c) a bíróság az adott eljárási cselekményt az annak elvégzésére elegendő észszerű időtartamon belül nem végezte el vagy annak elvégzéséről nem rendelkezett.
 
-(2) A kifogást az ügyben eljáró bíróságnál írásban lehet benyújtani, a kifogás elbírálására hatáskörrel rendelkező bírósághoz címezve, kérve a kifogás elbírálására hatáskörrel rendelkező bíróságtól a mulasztás tényének megállapítását, valamint – megfelelő határidő tűzésével – a mulasztó bíróságnak az (1) bekezdés a) és c) pontjában foglalt esetben az elmulasztott eljárási cselekmény elvégzésére vagy határozat meghozatalára, az (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására történő utasítását.
+d) a bíróság a határidőtúllépés miatti vagyoni elégtétel megfizetése iránt határidőben nem intézkedett.
+
+(2) A kifogást az ügyben eljáró bíróságnál írásban lehet benyújtani, a kifogás elbírálására hatáskörrel rendelkező bírósághoz címezve, kérve a kifogás elbírálására hatáskörrel rendelkező bíróságtól a mulasztás tényének megállapítását, valamint – megfelelő határidő tűzésével – a mulasztó bíróságnak az (1) bekezdés a), c) és d) pontjában foglalt esetben az elmulasztott eljárási cselekmény, intézkedés elvégzésére vagy határozat meghozatalára, az (1) bekezdés b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására történő utasítását.
 
 (3) A kifogást annak benyújtója mindaddig visszavonhatja, amíg a bíróság azt érdemben el nem bírálta. A visszavont kifogást újból előterjeszteni nem lehet.
