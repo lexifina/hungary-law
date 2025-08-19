@@ -1,1 +1,1 @@
-### 87. §
+87. § Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építményre irányuló beruházás esetében a helyi önkormányzat által megállapított, a fás szárú növényekre vonatkozó követelmények nem alkalmazandók, továbbá a kivágáshoz szükséges engedélyezési hatáskört Jász-Nagykun-Szolnok Vármegye Kormányhivatala gyakorolja.

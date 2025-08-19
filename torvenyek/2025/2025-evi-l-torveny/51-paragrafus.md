@@ -1,1 +1,1 @@
-### 51. §
+51. § A belgazdaságért felelős miniszter a 42. § (1) bekezdésében és a 47. § (1) bekezdésében meghatározott feladata ellátása során megkereséssel fordulhat bármely állami szervhez, amely a megkeresést 5 napon belül köteles teljesíteni.

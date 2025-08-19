@@ -1,1 +1,1 @@
-### 40. §
+40. § A bejelentéssel összefüggésben a belgazdaságért felelős miniszter a bejelentő jogi képviselőjével, szükség esetén a bejelentővel a bejelentésben megjelölt elérhetőségen elektronikus úton tart kapcsolatot. Ha a bejelentésben megjelölt elérhetőségen sem a jogi képviselő, sem a bejelentő nem elérhető, ennek következménye a bejelentőt terheli.
