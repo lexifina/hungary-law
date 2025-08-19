@@ -1,1 +1,0 @@
-8. § Az e rendelet hatálybalépésekor jogerős szabadságvesztésre ítélt, büntetés-végrehajtási intézetbe befogadott elítéltek esetében az e rendeletben foglaltak szerint kell eljárni, azzal, hogy a 3. § (1) bekezdése szerinti határidő 30 munkanap.
