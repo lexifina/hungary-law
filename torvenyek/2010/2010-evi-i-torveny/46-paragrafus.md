@@ -10,11 +10,11 @@ d) kérheti, hogy a családi és utónevét, illetve gyermeke családi és utón
 
 (2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 
-(3) Nemzetiségi utónévként az érintett országos nemzetiségi önkormányzat által összeállított és közzétett nemzetiségi utónévjegyzékben szereplő utónév anyakönyvezhető.
+(3) Nemzetiségi utónévként a kultúráért felelős miniszter által rendeletben közzétett nemzetiségi utónévjegyzékben szereplő utónév anyakönyvezhető.
 
-(4) Nemzetiségi családi név, valamint a nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév anyakönyvezhetőségéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. A nemzetiségi utónévkönyvben nem szereplő nemzetiségi utónév tekintetében közvetlenül az érintett vagy az anyakönyvvezető, illetve az anyakönyvi szerv megkeresi az érintett országos nemzetiségi önkormányzatot, amely az állásfoglalását a megkereséstől számított 30 napon belül adja meg. Azt az utónevet, amelynek bejegyzését az érintett országos nemzetiségi önkormányzat jóváhagyta, azt az országos nemzetiségi önkormányzat az utónévjegyzékbe haladéktalanul felveszi.
+(4) Nemzetiségi családi név anyakönyvezhetőségéről, valamint a nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév utónévjegyzékbe való felvételéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. A nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév tekintetében közvetlenül az érintett vagy az anyakönyvvezető, illetve az anyakönyvi szerv megkeresi az érintett országos nemzetiségi önkormányzatot, amely az állásfoglalását a megkereséstől számított kilencven napon belül adja meg. Ha az utónév felvételét az érintett nemzetiségi önkormányzat támogatta, a megkeresést és az állásfoglalását öt napon belül megküldi a kultúráért felelős miniszter részére.
 
-(5) Az országos nemzetiségi önkormányzat az általa összeállított és vezetett nemzetiségi utónévjegyzéket a honlapján teszi közzé, amely tartalmazza
+(5) A nemzetiségi utónévjegyzék tartalmazza
 
 a) a magyar anyakönyvbe bejegyezhető nemzetiségi utónevet,
 

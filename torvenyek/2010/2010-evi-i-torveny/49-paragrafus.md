@@ -24,7 +24,7 @@ e) személyhez fűződő jogot sértő családi nevet.
 
 (5) A névváltoztatási eljárásban e törvény születési névre vonatkozó rendelkezéseit – a 44. § (2a) és (6) bekezdése, a 44/A. §, a 45. §, valamint a 46. § (1) és (5) bekezdése kivételével – megfelelően alkalmazni kell.
 
-(6) A (4) bekezdés a) pontja szerinti családi név engedélyezésére irányuló kérelem esetén az anyakönyvi szerv a Nyelvtudományi Kutatóközpont nyilatkozatát kérheti. Az anyakönyvi szerv a Nyelvtudományi Kutatóközpont nyilatkozatának kérése esetén akkor adhat helyt a kérelemnek, ha a Nyelvtudományi Kutatóközpont nyilatkozata szerint a névváltoztatás nem ütközik a (4) bekezdés a) pontjába.
+(6) A (4) bekezdés a) pontja szerinti családi név engedélyezésére irányuló kérelem esetén az anyakönyvi szerv a HUN-REN Nyelvtudományi Kutatóközpont nyilatkozatát kérheti. Az anyakönyvi szerv a HUN-REN Nyelvtudományi Kutatóközpont nyilatkozatának kérése esetén akkor adhat helyt a kérelemnek, ha a HUN-REN Nyelvtudományi Kutatóközpont nyilatkozata szerint a névváltoztatás nem ütközik a (4) bekezdés a) pontjába.
 
 (7) Különös méltánylást érdemlő körülmények fennállása esetén engedélyezhető
 

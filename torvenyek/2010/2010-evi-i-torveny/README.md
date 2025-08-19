@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2025-01-20 | 2024. évi LXXIV. törvény | 2010-1-00-00.43 |
 | 2025-02-01 | 2024. évi LXXIII. törvény | 2010-1-00-00.41 |
 | 2025-06-01 | 2024. évi XIV. törvény | 2010-1-00-00.39 |
+| 2025-08-19 | 2025. évi LXV. törvény | 2010-1-00-00.45 |

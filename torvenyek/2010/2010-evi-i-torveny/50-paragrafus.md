@@ -68,4 +68,4 @@ g) nyilatkozatot arról, hogy a kérelmezett név a Ptk. névviselésre irányad
 
 (7) Az igazgatási szolgáltatási díj – a (8) bekezdésben meghatározott kivétellel – az anyakönyvi szerv bevételét képezi.
 
-(8) A 49. § (6) bekezdésében foglaltak alkalmazása esetén a Nyelvtudományi Kutatóközpontot 5000 forint illeti meg. Az anyakönyvi szerv a díjbevételt félévente, a tárgyi időszakot követő hónap 25. napjáig utalja át a Nyelvtudományi Kutatóközpont által megjelölt számlára.
+(8) A 49. § (6) bekezdésében foglaltak alkalmazása esetén a HUN-REN Nyelvtudományi Kutatóközpontot 5000 forint illeti meg. Az anyakönyvi szerv a díjbevételt félévente, a tárgyi időszakot követő hónap 25. napjáig utalja át a HUN-REN Nyelvtudományi Kutatóközpont által megjelölt számlára.

@@ -10,7 +10,7 @@ a) az anyakönyvi eljárás lefolytatására és az anyakönyvi eljárásban val
 
 b) az anyakönyvezéshez szükséges képesítési feltételeket,
 
-c) a Nyelvtudományi Kutatóközpont által vezetett utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
+c) a magyar utónévjegyzék összeállítására és vezetésére, valamint az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
