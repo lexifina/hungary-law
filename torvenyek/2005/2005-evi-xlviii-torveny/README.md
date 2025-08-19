@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-48-00-00
 | 2007-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-48-00-00.2 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2005-48-00-00.3 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2005-48-00-00.4 |
+| 2025-08-19 | 2025. évi XLIX. törvény | 2005-48-00-00.5 |
