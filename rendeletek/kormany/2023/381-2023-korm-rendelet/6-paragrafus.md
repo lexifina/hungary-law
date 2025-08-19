@@ -1,1 +1,0 @@
-6. § E rendelet 4. §-át azokban a közigazgatási perekben is alkalmazni kell, amelyek esetében e rendelet a közigazgatási hatóság közigazgatási perben megtámadott döntésének véglegessé válását megelőzően lépett hatályba.

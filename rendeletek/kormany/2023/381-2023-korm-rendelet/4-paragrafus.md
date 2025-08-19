@@ -1,1 +1,0 @@
-4. § A Kp. 50. § (6) bekezdés c) pontját azzal a kiegészítéssel kell alkalmazni, hogy az azonnali jogvédelem a honvédelmi és katonai célú sajátos építményfajtákkal – ideértve a 2. § (1) bekezdése szerinti közlekedési építményeket is – kapcsolatos valamennyi, közigazgatási hatósági engedély felülvizsgálatára irányuló közigazgatási perben kizárt.
