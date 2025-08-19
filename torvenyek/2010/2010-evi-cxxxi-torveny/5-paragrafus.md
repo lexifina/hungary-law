@@ -26,9 +26,11 @@ c) a költségvetésről, a költségvetés végrehajtásáról,
 
 d) az európai uniós, illetve nemzetközi forrásokból nyújtott támogatásokról,
 
-e) a nemzetközi szerződés kihirdetéséről, valamint
+e) a nemzetközi szerződés kihirdetéséről,
 
-f) a szervezet és intézmény alapításáról,
+f) a szervezet és intézmény alapításáról, valamint
+
+g) az anyakönyvi eljárásról szóló 2010. évi I. törvény 44. § (3) bekezdése és 46. § (3) bekezdése szerinti utónévjegyzékről
 
 szóló jogszabályok tervezeteit.
 
