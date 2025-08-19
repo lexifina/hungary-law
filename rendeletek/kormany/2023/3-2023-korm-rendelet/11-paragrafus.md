@@ -1,1 +1,0 @@
-11. § Ha a szabadságvesztés végrehajtása félbeszakításának megszüntetésére a külföldi elítélt 10. § (2) bekezdés a) vagy d) pontja szerinti felróható magatartása alapján került sor, a büntetés-végrehajtási bíró a Bv. tv. 55. §-a szerinti eljárásban dönt a feltételes szabadságra bocsátás lehetőségének a kizárásáról.

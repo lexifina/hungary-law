@@ -1,1 +1,0 @@
-17. § A 2–12. §-ban foglalt rendelkezéseket az e rendelet hatálybalépésekor már foganatba vett szabadságvesztés, elzárás, kényszerintézkedés és szabálysértési elzárás végrehajtása során is alkalmazni kell.
