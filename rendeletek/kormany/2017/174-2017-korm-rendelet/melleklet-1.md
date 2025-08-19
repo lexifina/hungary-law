@@ -42,12 +42,12 @@
 
 21. Ungvári Főkonzulátus
 
-22.[^35] Manchesteri Főkonzulátus
+22.[^34] Manchesteri Főkonzulátus
 
-23.[^36] Innsbrucki Főkonzulátus
+23.[^35] Innsbrucki Főkonzulátus
 
-24.[^37] Edinburgh-i Főkonzulátus
+24.[^36] Edinburgh-i Főkonzulátus
 
-[^35]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
-[^36]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
-[^37]: Az 1. melléklet 24. pontját a 102/2022. (III. 10.) Korm. rendelet 3. §-a iktatta be.
+[^34]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^35]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^36]: Az 1. melléklet 24. pontját a 102/2022. (III. 10.) Korm. rendelet 3. §-a iktatta be.

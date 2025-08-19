@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-174-20-
 | 2023-01-01 | 2017-174-20-22.13 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-07-12 | 2017-174-20-22.14 | 315/2020. (VII. 1.) Korm. rendelet |
 | 2024-07-08 | 2017-174-20-22.15 | 174/2024. (VII. 7.) Korm. rendelet |
+| 2025-08-19 | 2017-174-20-22.16 | 212/2025. (VII. 22.) Korm. rendelet |
