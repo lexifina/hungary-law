@@ -10,6 +10,8 @@ b) a vele szemben elrendelt távoltartás magatartási szabályainak megszegés�
 
 a sértettel kapcsolatot teremt abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon.
 
+(1b) Az (1) bekezdés szerint büntetendő, aki abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon, a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján az elítélttel szemben elrendelhető megelőző távoltartás szabályait megszegi.
+
 (2) Aki félelemkeltés céljából
 
 a) mást vagy rá tekintettel hozzátartozóját személy elleni erőszakos vagy közveszélyt okozó büntetendő cselekmény elkövetésével megfenyeget, vagy
