@@ -1,4 +1,4 @@
-151. §[^543] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 209/2024. (VII. 29.) Korm. rendelettel (a továbbiakban: Módr143.) módosított 5/Q. § (3) és (4) bekezdését, valamint 2. mellékletében foglalt táblázat 21. sorát a Módr143. hatálybalépésekor[^544] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+151. §[^546] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 209/2024. (VII. 29.) Korm. rendelettel (a továbbiakban: Módr143.) módosított 5/Q. § (3) és (4) bekezdését, valamint 2. mellékletében foglalt táblázat 21. sorát a Módr143. hatálybalépésekor[^547] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^543]: A 151. §-t a 209/2024. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^544]: A hatálybalépés időpontja 2024. július 30.
+[^546]: A 151. §-t a 209/2024. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^547]: A hatálybalépés időpontja 2024. július 30.
