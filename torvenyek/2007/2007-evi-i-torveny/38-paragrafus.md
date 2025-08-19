@@ -13,3 +13,5 @@ b) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesít
 (4) A beutazási és tartózkodási tilalom elrendeléséről az e törvény szerinti adatkezelő szervet értesíteni kell.
 
 (5) Ha a kiutasítást a bíróság rendelte el, a beutazási és tartózkodási tilalom nyilvántartásba vételéről a kiutasítást végrehajtó hatóság gondoskodik.
+
+(6) Ha az ügyészség a büntetőeljárás során feltételes ügyészi felfüggesztésről hozott határozatát a büntetőeljárásról szóló 2017. évi XC. törvény 836/A. § alapján hozta meg, arra tekintettel, hogy a gyanúsított vállalta, hogy Magyarország területét a határozat közlésétől számított hetvenkét órán belül elhagyja, valamint a határozatban meghatározott időtartamig nem tér vissza, akkor a beutazási és tartózkodási tilalom nyilvántartásba vételéről az ügyészség székhelye szerint illetékes hatóság gondoskodik.
