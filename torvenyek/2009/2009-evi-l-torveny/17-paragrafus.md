@@ -9,3 +9,5 @@
 (4) A közjegyző a fél részére ügygondnokot rendel akkor is, ha a felet olyan személy képviseli, aki az ellenérdekű fél vagy az ellenérdekű fél képviselője is.
 
 (5) Ügygondnokrendelés szükségessége esetén a közjegyző rövid határidő tűzésével az ügygondnoki díjnak a Kjnp. megfelelő alkalmazásával történő előlegezésére hívja fel a jogosultat, ennek megtörténtét követően a fél képviseletére ügygondnokot rendel. Ha a jogosult a közjegyző felhívására nem előlegezi meg az ügygondnok díját, a közjegyző a fizetési meghagyás kibocsátása iránti kérelmét visszautasítja vagy az eljárást megszünteti.
+
+(6) A fizetési meghagyásos eljárásban nincs helye a Pp. határidő-túllépésre vonatkozó szabályai alkalmazásának.

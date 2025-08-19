@@ -20,4 +20,6 @@ d) a 32. § (2) bekezdésben meghatározott ok áll fenn.
 
 (6) Ha a jogi személy és a Dáptv. alapján elektronikus ügyintézésre kötelezett egyéb személy ellentmondását nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, az ellentmondást hiánypótlási felhívás nélkül kell visszautasítani.
 
+(6a) Az ellentmondás benyújtásának joghatásai fennmaradnak, ha a közjegyző a jogi képviselő nélkül eljáró egyéni vállalkozó ellentmondását az (5) bekezdés c) pontja alapján utasította vissza, és az egyéni vállalkozó a visszautasító határozat jogerőre emelkedésétől számított öt nap alatt az ellentmondást a közjegyzőnél az e törvényben foglaltaknak megfelelően újra benyújtja.
+
 (7) Az ellentmondást visszautasító végzés ellen a kötelezett fellebbezéssel élhet.
