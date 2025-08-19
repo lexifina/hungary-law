@@ -1,9 +1,0 @@
-6. § (1) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, hazai vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
-
-(2) Az e rendelet szerinti támogatás különböző azonosítható elszámolható költségek esetén halmozható más, helyi, regionális, hazai vagy uniós forrásból származó állami támogatással.
-
-(3) Az egy projekthez igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
-
-(4) Amennyiben a 4. és 9., valamint a 22–24. alcím szerinti támogatás nem rendelkezik azonosítható elszámolható költségekkel, a támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
-
-(5) A 23., 25. és 26. alcím szerinti támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 145. cikk (2) bekezdése és 146. cikke szerinti kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná a 23., 25. és 26. alcím szerinti értékeket.
