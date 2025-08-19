@@ -12,7 +12,7 @@ b) az elsőfokú és a másodfokú bírósági eljárást
 
 arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
 
-(2) A harmadfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
+(2) A harmadfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra, a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra és a polgári jogi igényre vonatkozó rendelkezésekről is.
 
 (3) A harmadfokú bíróság az ítélet fellebbezéssel nem érintett része tekintetében is felülbírálja
 

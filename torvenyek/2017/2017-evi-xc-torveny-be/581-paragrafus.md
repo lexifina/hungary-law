@@ -15,3 +15,5 @@ e) a vádlott házastársa vagy élettársa a kényszergyógykezelés elrendelé
 f) a magánfél a polgári jogi igényt érdemben elbíráló rendelkezés ellen,
 
 g) a vagyoni érdekelt a rá vonatkozó rendelkezés ellen.
+
+h) a sértett a vádlottal szemben, a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra irányuló indítvány elutasítása ellen.

@@ -8,7 +8,7 @@
 
 a) az előzetes mentesítésre vonatkozó rendelkezést is ideértve a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó rendelkezés,
 
-b) az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező rendelkezése, a szülői felügyeleti jog megszüntetése iránti indítványt, illetve a polgári jogi igényt érdemben elbíráló rendelkezése, vagy
+b) az ítéletnek az egyszerűsített felülvizsgálati eljárás tárgyát képező rendelkezése, a szülői felügyeleti jog megszüntetése iránti indítványt, valamint a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra irányuló indítványt elbíráló, illetve a polgári jogi igényt érdemben elbíráló rendelkezése, vagy
 
 c) a felmentő ítélet indokolásának 566. § (4) bekezdése, valamint a megszüntető határozat indokolásának 567. § (5) bekezdése szerinti tartalma
 

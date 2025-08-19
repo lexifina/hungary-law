@@ -30,7 +30,7 @@ a) a bűnösség megállapítására, illetve a bűncselekmény minősítésére
 
 b) a kiszabott büntetés vagy alkalmazott intézkedés törvénysértő.
 
-(7) A másodfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
+(7) A másodfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra, a Hketv. III/A. Fejezet alapján a terhelttel szemben elrendelhető megelőző távoltartásra és a polgári jogi igényre vonatkozó rendelkezésekről is.
 
 (8) Nem bírálható felül az ítéletnek az a felmentő vagy eljárást megszüntető rendelkezése, amely ellen nem fellebbeztek.
 
