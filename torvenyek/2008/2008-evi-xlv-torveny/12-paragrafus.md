@@ -10,7 +10,7 @@
 
 (5) Az eljárásban felfüggesztésnek, szünetelésnek, beavatkozásnak és ideiglenes intézkedés elrendelésének nincs helye.
 
-(6) Az eljárásban a Pp. 148. §-a nem alkalmazható.
+(6) Az eljárásban a Pp. határidő-túllépésre, valamint ítélkezési szünetre vonatkozó szabályai nem alkalmazhatóak.
 
 (7) Az eljárásban a Pp. jegyzőkönyvre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a jegyzőkönyvet a közjegyző maga is felveheti, és a jegyzőkönyv folyamatos felvétel útján történő készítésének nincs helye.
 

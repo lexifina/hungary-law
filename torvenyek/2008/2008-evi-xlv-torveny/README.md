@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-45-00-00
 | 2025-01-01 | 2024. évi LXXXV. törvény | 2008-45-00-00.28 |
 | 2025-01-15 | 2024. évi XVII. törvény | 2008-45-00-00.23 |
 | 2025-06-20 | 2025. évi XLIX. törvény | 2008-45-00-00.29 |
+| 2025-08-19 | 2025. évi XLIX. törvény | 2008-45-00-00.30 |
