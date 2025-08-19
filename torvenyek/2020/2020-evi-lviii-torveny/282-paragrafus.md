@@ -1,3 +1,1 @@
-282. § (1) A 283. § (1) bekezdés a) pontja szerinti vizsgálat alapján a miniszter a bejelentésben és mellékleteiben meg nem adott további adatok és információk közlését, illetve a bejelentéshez nem mellékelt további iratok eredeti vagy hiteles másolati példányának – idegen nyelvű irat esetén magyar nyelvű hiteles fordításával együttes – benyújtását kérheti a bejelentőtől, legalább 3 napos, de legfeljebb 10 napos vagy a bejelentőtől eltérő természetes személytől, jogi személytől vagy egyéb szervezettől legfeljebb 20 napos határidő tűzésével.
-
-(2) Az (1) bekezdés szerinti felhívás eredménytelensége esetén a miniszter a benyújtott iratok alapján vizsgálja meg a bejelentést.
+### 282. §
