@@ -2,7 +2,7 @@
 
 a) illetményét az adott besorolási kategóriához tartozó összeghatáron belül legfeljebb 20%-kal csökkentheti, illetve legfeljebb 30%-kal növelheti,
 
-b) részére teljesítmény elismerést fizetését rendelheti el.
+b) részére teljesítmény elismerés fizetését rendelheti el.
 
 (2) Az (1) bekezdés szerinti intézkedések elrendelése tekintetében a teljesítményértékelésen és minősítésén túl a munkáltatói jogkör gyakorlója az alábbi szempontokat veszi figyelembe:
 

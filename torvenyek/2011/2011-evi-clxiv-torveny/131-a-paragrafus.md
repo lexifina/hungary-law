@@ -2,7 +2,7 @@
 
 (2) A tisztviselő, az írnok és a fizikai alkalmazott mentesül a teljesítményértékelés alól
 
-a) az öregségi nyugdíjkorhatár betöltését megelőző hat évben, kivéve, ha a teljesítményértékelés eredményének megváltoztatását valószínűsítő körülmény merül fel, vagy a tisztviselő, írnok a teljesítményértékelését maga kéri, vagy
+a) az öregségi nyugdíjkorhatár betöltését megelőző hat évben, kivéve, ha a teljesítményértékelés eredményének megváltoztatását valószínűsítő körülmény merül fel, vagy a tisztviselő, írnok, fizikai alkalmazott a teljesítményértékelését maga kéri, vagy
 
 b) a próbaidő alatt.
 

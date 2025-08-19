@@ -1,4 +1,4 @@
-135. § (1) A tisztviselőt, írnokot és fizikai alkalmazottat – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
+135. § (1) A tisztviselők, írnokok és fizikai alkalmazottak tekintetében – a (2) bekezdésben foglaltak kivételével – az alábbi álláshelyi besorolási kategóriákat kell alkalmazni:
 
 a) ügyintéző, ezen belül:
 

@@ -26,7 +26,7 @@ i) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már ne
 
 (5) A (4) bekezdésben említett esetben a volt legfőbb ügyész helyettest – ha ehhez hozzájárul – a lemondási idő lejártát követő nappal más ügyészi munkakörbe kell áthelyezni. Ha a volt legfőbb ügyész helyettes az áthelyezéséhez nem járul hozzá, ügyészségi szolgálati viszonya a lemondási idő lejártának napjával megszűnik.
 
-(6) A (3) és (5) bekezdésben említett munkáltatói intézkedést a legfőbb ügyész teszi meg. A volt legfőbb ügyész helyettest a Legfőbb Ügyészségen vagy kérésére alacsonyabb szintű ügyészségen más – lehetőleg vezető – ügyészi munkakörbe kell áthelyezni. A volt legfőbb ügyész helyettest áthelyezése esetén „címzetes főügyész” cím és a beosztási pótlékon kívül – választása szerint – a legfőbb ügyészségi főosztályvezető-helyettes ügyész vezetői pótlékával azonos összegű címpótlék vagy az új munkakörére megállapított vezetői pótlék illeti meg. A volt legfőbb ügyész helyettes fizetési fokozatba sorolását az áthelyezés nem érinti.
+(6) A (3) és (5) bekezdésben említett munkáltatói intézkedést a legfőbb ügyész teszi meg. A volt legfőbb ügyész helyettest a Legfőbb Ügyészségen vagy kérésére alacsonyabb szintű ügyészségen más − lehetőleg vezető − ügyészi munkakörbe kell áthelyezni. A volt legfőbb ügyész helyettest áthelyezése esetén „címzetes főügyész” cím és legalább főosztályvezető-helyettes ügyészi illetmény illeti meg.
 
 (7) A köztársasági elnök a legfőbb ügyész javaslatára kimondja a legfőbb ügyész helyettes hivatalvesztését, ha a legfőbb ügyész helyettes neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ügydöntő határozatban megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
 
