@@ -1,1 +1,0 @@
-2. § A Ctv. 116. § (5) bekezdésében, valamint a Cstv. 41. § (1) bekezdésében és 45/A. § (4) bekezdésében foglaltaktól eltérően, ha a kényszertörlési eljárás során felszámolási eljárást kell kezdeményezni, a felszámolás során helye lehet egyezségkötésnek, és a felszámolási eljárás az adós cég teljesítésére tekintettel megszüntethető.

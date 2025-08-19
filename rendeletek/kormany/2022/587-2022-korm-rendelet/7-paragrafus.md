@@ -1,1 +1,0 @@
-7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő kényszertörlési és – a felszámolási eljárás elrendelésének időpontjától függetlenül – a folyamatban lévő felszámolási eljárásokban is alkalmazni kell.
