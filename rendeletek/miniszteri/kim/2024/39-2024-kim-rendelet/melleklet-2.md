@@ -18,17 +18,17 @@ a) Neve
 
 b) Címe
 
-c) Azonosító számai vagy adószáma
+c)[^5] Azonosító számai vagy adószáma vagy szakképzés esetén OM azonosítója száma
 
 d) Képző képviselője (név)
 
 e) Képző képviselője (pozíció)
 
-3. A képzés fő adatai
+3.[^6] A képzés fő adatai
 
-a) Megnevezés
+a) Megnevezés, szakképzés esetén a szakképző intézmény szakmai programja szerinti tantárgy, tananyagegység megnevezése, továbbá a kapcsolódó szakma vagy szakmajegyzék szerinti megnevezése
 
-b) Azonosító
+b) Azonosító, szakképzés esetén a szakképző intézmény szakmai programja szerinti tantárgy, tananyagegység azonosító száma (ha van), továbbá a kapcsolódó szakma szakmajegyzék szerinti azonosító száma
 
 4. A mikrotanúsítvány adatai
 
@@ -50,7 +50,7 @@ h) Az értékelés módja
 
 i) Értékelés
 
-j) Kompetenciák leírása, felsőoktatás esetén tárgytematika és tanulási eredmény
+j)[^7] Felnőttképzés esetén a kompetenciák leírása, felsőoktatás esetén a tárgytematika és tanulási eredmény, szakképzés esetén a tanulási eredmény leírása
 
 5. A kiállító szervezet
 
@@ -58,7 +58,7 @@ a) Neve
 
 b) Címe
 
-c) Adószáma
+c)[^8] Adószáma vagy szakképzés esetén a szakképző intézmény OM azonosítója
 
 d) Képző képviselője (név)
 
@@ -84,7 +84,7 @@ b) Állampolgársága
 
 c) Legmagasabb iskolai végzettsége
 
-d) A résztvevő magyarországi tartózkodással nem rendelkező külföldi személy-e
+d)[^9] Felnőttképzés esetén a résztvevő magyarországi tartózkodással nem rendelkező külföldi személy-e
 
 8. Támogatási program
 
@@ -93,3 +93,9 @@ d) A résztvevő magyarországi tartózkodással nem rendelkező külföldi szem
 a) Visszavonás esetén: a mikrotanúsítvány visszavonásának vagy érvénytelenítésének időpontja
 
 b) Visszavonás oka
+
+[^5]: A 2. melléklet 2. pont c) alpontja a 9/2025. (VIII. 18.) KIM rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet 3. pontja a 9/2025. (VIII. 18.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. melléklet 4. pont j) alpontja a 9/2025. (VIII. 18.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. melléklet 5. pont c) alpontja a 9/2025. (VIII. 18.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet 7. pont d) alpontja a 9/2025. (VIII. 18.) KIM rendelet 4. § c) pontja szerint módosított szöveg.

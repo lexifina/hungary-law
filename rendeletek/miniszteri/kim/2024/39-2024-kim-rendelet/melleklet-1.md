@@ -18,23 +18,25 @@ a) Megnevezés
 
 b) Azonosító
 
-4. A mikrotanúsítvány adatai
+4.[^4] A mikrotanúsítvány adatai
 
-a) A mikrotanúsítvány (Szakképzési tankönyv) megnevezése, nyilvántartásba vételi száma
+a) A mikrotanúsítvány (szakképzési tankönyv vagy annak fejezete) megnevezése, szakképzési tankönyv megnevezése és nyilvántartásba vételi száma
 
-b) Óraszám
+b) Amennyiben a szakképzési tankönyv a teljes szakképesítésre felkészítő szakmai képzés tartalmát lefedi, úgy a szakmai képzést megalapozó programkövetelmény száma és nyilvántartásba vételének ideje
 
-c) Kezdete – Vége
+c) Óraszám
 
-d) A képzés formája
+d) Kezdete – vége
 
-e) A számonkérés módja
+e) A képzés formája
 
-f) Az értékelés módja
+f) A számonkérés módja
 
-g) Értékelés
+g) Az értékelés módja
 
-h) Kompetenciák leírása
+h) Értékelés
+
+i) Kompetenciák leírása
 
 5. A kiállító szervezet
 
@@ -53,3 +55,5 @@ a) A mikrotanúsítvány alátámasztásához alkalmazott minőségbiztosítás 
 b) Típusa
 
 c) Kibocsátásának helye és időpontja
+
+[^4]: Az 1. melléklet 4. pontja a 9/2025. (VIII. 18.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
