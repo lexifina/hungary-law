@@ -46,9 +46,9 @@ c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az �
 
 d) a miniszter, hogy az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 
-e) a miniszter, hogy az élő állat nyereményjáték díjaként történő felhasználásának részletes szabályait,
+e)
 
-f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
+f) a miniszter, hogy az állatvédelmi képzés és oktatás részletes szabályait,
 
 g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét,
 

@@ -16,7 +16,7 @@
 
 (6) Állatvédelmi bírság kiszabása helyett vagy azzal egyidejűleg az állattartót a hiányosságok kijavítására, pótlására kell kötelezni, továbbá az állatok gondozásával, a velük való helyes bánásmóddal kapcsolatos állatvédelmi oktatáson (a továbbiakban: állatvédelmi képzés) való részvételre kötelezhető.
 
-(7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság lép.
+(7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság és a kötelezettség teljesítésének igazolásáig állattartástól való eltiltás lép.
 
 (8)
 
