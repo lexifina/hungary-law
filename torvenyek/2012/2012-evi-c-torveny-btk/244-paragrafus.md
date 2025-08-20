@@ -16,17 +16,21 @@ b) több állat maradandó egészségkárosodását vagy pusztulását okozva,
 
 c) nagy nyilvánosság előtt,
 
-d) az állatok védelméről és kíméletéről szóló törvényben meghatározott, az állat kedvtelésből való tartásától, illetve az érintett állatfaj tartásától eltiltással érintett állattal szemben az eltiltás tartama alatt, vagy
+d) az állatok védelméről és kíméletéről szóló törvényben meghatározott, az állat kedvtelésből való tartásától, illetve az érintett állatfaj tartásától eltiltással érintett állattal szemben az eltiltás tartama alatt,
 
-e) állatkínzás vagy tiltott állatviadal szervezése bűncselekmény miatti elítélést követő két éven belül
+e) állatkínzás vagy tiltott állatviadal szervezése bűncselekmény miatti elítélést követő két éven belül, vagy
+
+f) ebrendészeti telep vagy állatmenhely működtetése során
 
 követik el.
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az állatkínzást
 
-a) méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével több állat pusztulását okozva, vagy
+a) méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével több állat pusztulását okozva,
 
-b) különös visszaesőként
+b) különös visszaesőként, vagy
+
+c) a (2) bekezdés f) pontjában foglalt bűncselekményt tíznél nagyobb számú állatra
 
 követik el.
 
