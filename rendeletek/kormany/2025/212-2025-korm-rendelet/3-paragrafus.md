@@ -1,1 +1,3 @@
-3. § Az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről szóló 174/2017. (VI. 30.) Korm. rendelet 2. melléklet címében az „A Nyelvtudományi Kutatóközpont utónév anyakönyvezhetőségére vonatkozó nyilatkozata” szövegrész helyébe az „Az utónév utónévjegyzékbe történő felvétele” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
