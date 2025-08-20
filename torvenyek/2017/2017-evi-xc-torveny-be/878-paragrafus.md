@@ -23,15 +23,3 @@
 10. az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről szóló, 2006. december 18-i 2006/960/IB tanácsi kerethatározatnak,
 
 11. az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló, 2008. július 24-i 2008/675/IB kerethatározatnak,
-
-12. a szervezett bűnözés elleni küzdelemről szóló, 2008. október 24-i 2008/841/IB tanácsi kerethatározatnak,
-
-13. a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározatnak,
-
-14. a kölcsönös elismerés elvének az ítéletekre és próbaidőt megállapító határozatokra való, a próbaidő alatti magatartási szabályok és alternatív szankciók felügyelete céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/947/IB tanácsi kerethatározatnak,
-
-15. a rasszizmus és az idegengyűlölet egyes formái és megnyilvánulásai elleni, büntetőjogi eszközökkel történő küzdelemről szóló, 2008. november 28-i 2008/913/IB tanácsi kerethatározatnak,
-
-16. az Eurojust megerősítéséről és az Eurojust létrehozásáról a bűnözés súlyos formái elleni fokozott küzdelem céljából szóló 2002/187/IB határozat módosításáról szóló, 2008. december 16-i 2009/426/IB tanácsi határozatnak,
-
-17. a személyek eljárási jogainak megerősítése, valamint a kölcsönös elismerés elvének az érintett személy megjelenése nélkül lefolytatott eljárásokat követően hozott határozatokra való alkalmazásának előmozdítása tekintetében a 2002/584/IB, a 2005/214/IB, a 2006/783/IB, a 2008/909/IB és a 2008/947/IB kerethatározat módosításáról szóló, 2009. február 26-i 2009/299/IB tanácsi kerethatározatnak,
