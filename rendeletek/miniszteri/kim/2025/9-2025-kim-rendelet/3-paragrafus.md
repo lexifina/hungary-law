@@ -1,3 +1,3 @@
-3. § (1) A 39/2024. (XII. 2.) KIM rendelet 1. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
 
-(2) A 39/2024. (XII. 2.) KIM rendelet 2. melléklete a 2. melléklet szerint módosul.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
