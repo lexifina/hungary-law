@@ -1,5 +1,3 @@
-79. § Hatályát veszti
+79. §[^1]
 
-a) a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 1/2024. (IV. 30.) PM rendelet,
-
-b) a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 20/2024. (VI. 24.) NGM rendelet.
+[^1]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
