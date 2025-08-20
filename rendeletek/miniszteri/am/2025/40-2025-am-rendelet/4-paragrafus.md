@@ -1,5 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 2. §-a,
-
-b) 1. mellékletében foglalt táblázat F:9 mező 1. pont 1.1. alpontjában a „ , valamint az AM Nemzeti Földalap feletti tulajdonosi joggyakorlói tevékenységét támogató nyilvántartási rendszerének” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
