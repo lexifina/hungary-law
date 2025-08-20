@@ -2,4 +2,6 @@
 
 ## [2] E célok végrehajtására az adózás rendjéről szóló 2017. évi CL. törvény 269. § (11) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 18. és 21. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. pontjában meghatározott feladatkörében eljáró agrárminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működésével összefüggésben a kockázatos termékek meghatározásáról szóló 51/2014. (XII. 31.) NGM rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
