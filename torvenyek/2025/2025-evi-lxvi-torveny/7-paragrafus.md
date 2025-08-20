@@ -1,0 +1,1 @@
+7. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 185. § (3) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) bekezdés a) pontjában” szöveg lép.
