@@ -1,1 +1,1 @@
-4. § Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 43. § (7) bekezdésében a „bírság” szövegrész helyébe a „bírság és a kötelezettség teljesítésének igazolásáig állattartástól való eltiltás” szöveg lép.
+### 4. §
