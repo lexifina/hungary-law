@@ -1,4 +1,4 @@
-## 24. §[^74] A kereskedelmi üzemet az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelet (a továbbiakban: MódKr.) hatálybalépése előtt megkezdő, zöld prémium típusú jogosultsággal rendelkező premizált termelők esetében a támogatás időtartamát a 16. § (1) bekezdése szerinti szerződés hatálybalépésétől, vagy – ha a szerződés később lép hatályba – a MódKr. hatálybalépésétől[^75] számított harmadik hónap első napjától kell számítani.
+## 24. §[^79] A kereskedelmi üzemet az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelet (a továbbiakban: MódKr.) hatálybalépése előtt megkezdő, zöld prémium típusú jogosultsággal rendelkező premizált termelők esetében a támogatás időtartamát a 16. § (1) bekezdése szerinti szerződés hatálybalépésétől, vagy – ha a szerződés később lép hatályba – a MódKr. hatálybalépésétől[^80] számított harmadik hónap első napjától kell számítani.
 
-[^74]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 787/2021. (XII. 27.) Korm. rendelet 69. §-a iktatta be.
-[^75]: A hatálybalépés időpontja 2022. január 1.
+[^79]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 787/2021. (XII. 27.) Korm. rendelet 69. §-a iktatta be.
+[^80]: A hatálybalépés időpontja 2022. január 1.

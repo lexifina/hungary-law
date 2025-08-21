@@ -1,4 +1,4 @@
-6. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^85]
+6. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^91]
 
 A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkozó szabályok
 
@@ -50,4 +50,4 @@ A Menetrendadásra kötelezett önálló kiegyenlítő menedzsmentjére vonatkoz
 
 8. A 9. § (6) bekezdése szerinti számlán szereplő, 7. pont szerinti összeget a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, amely a 9. § (11) bekezdése alapján korrigálásra kerül.
 
-[^85]: A 6. mellékletet a 787/2021. (XII. 27.) Korm. rendelet 71. § (2) bekezdése iktatta be, szövege a 26/2025. (II. 27.) Korm. rendelet 15. § b) pontjával megállapított szöveg.
+[^91]: A 6. mellékletet a 787/2021. (XII. 27.) Korm. rendelet 71. § (2) bekezdése iktatta be, szövege a 26/2025. (II. 27.) Korm. rendelet 15. § b) pontjával megállapított szöveg.

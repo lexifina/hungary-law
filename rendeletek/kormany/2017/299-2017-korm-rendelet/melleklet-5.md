@@ -1,4 +1,4 @@
-5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^84]
+5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^90]
 
 A szabályozási pótdíj megállapítására vonatkozó szabályok
 
@@ -150,4 +150,4 @@ f) 2026. január 1-től nulla;
 
 7. A 9. § (7) bekezdése szerinti számviteli bizonylaton szereplő, 1–6. pont szerinti szabályozási pótdíj összegét a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján kell kiszámítani, mely a 9. § (11) bekezdése alapján korrigálásra kerül.
 
-[^84]: Az 5. melléklet a 26/2025. (II. 27.) Korm. rendelet 15. § a) pontjával megállapított szöveg.
+[^90]: Az 5. melléklet a 26/2025. (II. 27.) Korm. rendelet 15. § a) pontjával megállapított szöveg.

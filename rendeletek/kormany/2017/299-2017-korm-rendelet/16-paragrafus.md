@@ -1,4 +1,4 @@
-16. §[^52] (1) A prémium típusú támogatás igénybevételéhez a termelő a befogadó üzletszabályzata szerinti szerződést köt a befogadóval. A szerződés megkötésére vonatkozó eljárásrendet a kereskedelmi szabályzat és befogadó üzletszabályzata határozza meg.
+16. §[^57] (1) A prémium típusú támogatás igénybevételéhez a termelő a befogadó üzletszabályzata szerinti szerződést köt a befogadóval. A szerződés megkötésére vonatkozó eljárásrendet a kereskedelmi szabályzat és befogadó üzletszabályzata határozza meg.
 
 (2) Prémium típusú támogatás premizált termelő részére történő kifizetésére a befogadó az (1) bekezdés szerinti szerződés alapján jogosult és köteles.
 
@@ -6,4 +6,4 @@
 
 (4) A termelő kérésére – barna prémium, továbbá a kötelező átvételi vagy prémium támogatási jogosultság jogutódlás vagy az erőműegység feletti rendelkezés átadása miatti megállapításának esetét kivéve – a kötelező átvételi vagy prémium támogatási jogosultságot a Hivatal nem vonhatja vissza.
 
-[^52]: A 16. § a 229/2022. (VI. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^57]: A 16. § a 229/2022. (VI. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
