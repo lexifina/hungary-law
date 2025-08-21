@@ -2,7 +2,7 @@
 
 2. § E rendelet alkalmazásában
 
-1. értékelendő személy: a teljesítményértékelési időszak első napján legalább Pedagógus I. besorolással rendelkező, pedagógus munkakörben foglalkoztatott, valamint a Púétv. 98. § (3) bekezdésében meghatározott pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott,
+1.[^1] értékelendő személy: a teljesítményértékelési időszak első napján legalább Pedagógus I. besorolással rendelkező, pedagógus munkakörben, pedagógiai szakértő munkakörben, pedagógiai előadó munkakörben foglalkoztatott, valamint a Púétv. 98. § (3) bekezdésében meghatározott pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott,
 
 2. értékelő vezető: értékelendő személy esetében a nevelési-oktatási intézmény igazgatója, főigazgatója (a továbbiakban együtt: igazgató), az igazgató esetében a nevelési-oktatási intézmény fenntartójának kijelölt képviselője,
 
@@ -17,3 +17,5 @@
 a) b)–l) pontja szerinti köznevelési intézményben foglalkoztatott értékelendő személy esetében a szeptember 1-jétől a tanítási év végéig tartó időszak,
 
 b) a) és m) pontja szerinti köznevelési intézményben foglalkoztatott értékelendő személy esetében a szeptember 1-jétől a következő év július 15-éig tartó időszak.
+
+[^1]: A 2. § 1. pontja a 34/2025. (VIII. 18.) BM rendelet 21. § a) pontja szerint módosított szöveg.

@@ -16,7 +16,7 @@ a) az értékeléshez szükséges adatok összegyűjtése és áttekintése alap
 
 b) értékelő beszélgetést folytat az értékelendő személlyel, és ez alapján véglegesíti a pontszámot,
 
-c)[^2] a teljesítményértékelést követően a teljesítményszintek szerint besorolja az értékelendő személyeket.
+c)[^4] a teljesítményértékelést követően a teljesítményszintek szerint besorolja az értékelendő személyeket.
 
 (5) Az értékelendő személy az előzetes értékelési javaslat ismeretében önértékelést készíthet, amelyre az értékelő beszélgetés során ki kell térni. Ha az értékelendő személy a teljesítményértékelésével kapcsolatban észrevételt tesz, az észrevételeit a teljesítményértékelésnek tartalmaznia kell.
 
@@ -46,4 +46,4 @@ c) a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő
 
 (10) A véglegesített pontszámot és a teljesítményszintet az értékelt személlyel való közlését követően rögzíteni kell a teljesítményértékelési elektronikus rendszerben. A véglegesített értékelést az értékelt személynek elektronikus dokumentumként, a teljesítményértékelési elektronikus rendszerben kell kézbesíteni.
 
-[^2]: Az 5. § (4) bekezdés c) pontja a 21/2025. (VI. 26.) BM rendelet 3. §-a szerint módosított szöveg.
+[^4]: Az 5. § (4) bekezdés c) pontja a 21/2025. (VI. 26.) BM rendelet 3. §-a szerint módosított szöveg.
