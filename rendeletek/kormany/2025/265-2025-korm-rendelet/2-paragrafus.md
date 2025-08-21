@@ -1,0 +1,3 @@
+2. § A KÁT rendelet a következő 11/A. §-sal egészül ki:
+
+„11/A. § E rendeletnek a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet, valamint a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 265/2025. (VIII. 13.) Korm. rendelettel (a továbbiakban: MódR1.) megállapított 5. §-át a MódR1. hatálybalépésekor fennálló támogatási jogosultságokra is alkalmazni kell.”
