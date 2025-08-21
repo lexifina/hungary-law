@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-2-00-00
 | --- | --- | --- |
 | 2025-03-06 | 2025. évi II. törvény | 2025-2-00-00.0 (közlönyállapot) |
 | 2025-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-2-00-00.1 |
+| 2025-08-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-2-00-00.2 |
