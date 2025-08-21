@@ -40,14 +40,18 @@ Az Egészséges Budapest Program terhére egyes egészségügyi fejlesztésekhez
 
 | 3. | Budapest Főváros XX. kerület Pesterzsébet Önkormányzata | Vas Gereben úti Gyermek Egészségház fejlesztése, Pacsirta utcai gyermekorvosi rendelők felújítása, Szabadka utcai és Zamárdi utcai háziorvosi rendelők felújítása. | 381 251 525 |
 
-| 4. | Budafok-Tétény Budapest XXII. kerület Önkormányzata | Háziorvosi rendelők felújítása | 305 001 000 |
+| 4. | Budafok-Tétény Budapest XXII. kerület Önkormányzata | Háziorvosi rendelők felújítása és alapellátás-fejlesztése[^2] | 305 001 000 |
 
 | 5. | Budapesti Szent Ferenc Kórház | Rehabilitációs kert, oktatáshoz eszközök beszerzése, tetőszerkezet beázás miatti cseréje. | 400 000 000 |
 
-| 6. | Észak-budai Szent János Centrumkórház | Az 5. épület felújítása, átalakítása, energetikai korszerűsítése. | 1 000 000 000 |
+| 6. | Észak-budai Szent János Centrumkórház | Az 5. épület felújítása, átalakítása, energetikai korszerűsítése. | 1 112 368 255[^3] |
 
-| 7. | Budapesti és egyes Pest vármegyei kórházak | Aggregátorok beépítése, beüzemelése: Jahn Ferenc Dél-pesti Kórház és Rendelőintézet részére 2 db, Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet - Országos Klinikai Idegtudományi Intézet részére 1 db, Kistarcsai Flór Ferenc Kórház részére 2 db, Szent Margit Kórház részére 2 db, Uzsoki Utcai Kórház részére 2 db. | 501 650 000 |
+| 7. | Budapesti és egyes Pest vármegyei kórházak | Aggregátorok beépítése, beüzemelése: Jahn Ferenc Dél-pesti Kórház és Rendelőintézet részére 2 db, Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet - Országos Klinikai Idegtudományi Intézet részére 1 db, Kistarcsai Flór Ferenc Kórház részére 2 db, Szent Margit Kórház részére 2 db, Uzsoki Utcai Kórház részére 2 db. | 389 281 745[^4] |
 
 | 8. | Budapesti kórházak | Wifi hálózat kiépítése: Dél-Pesti Centrum (Szent László, Szent István kórház, Hematológiai Intézet) részére, Észak Pesti Centrum kórház (Honvéd Kórház) részére, Jahn Ferenc Dél-pesti Kórház részére, Országos Korányi és Pulmonológiai Intézet részére, Heim Pál Országos Gyermekgyógyászati Intézet részére. | 2 200 000 000 |
 
 | ÖSSZESEN: | 4 967 902 525 |
+
+[^2]: Az 1. mellékletben foglalt táblázat B:4 mezője az 1319/2025. (VIII. 21.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. mellékletben foglalt táblázat C:6 mezője az 1319/2025. (VIII. 21.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1319/2025. (VIII. 21.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
