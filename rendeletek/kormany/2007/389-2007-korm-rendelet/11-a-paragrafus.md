@@ -1,3 +1,4 @@
-11/A. §[^118]
+11/A. §[^118] E rendeletnek a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet, valamint a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 265/2025. (VIII. 13.) Korm. rendelettel (a továbbiakban: MódR1.) megállapított 5. §-át a MódR1. hatálybalépésekor[^119] fennálló támogatási jogosultságokra is alkalmazni kell.
 
-[^118]: A 11/A. §-t a 369/2010. (XII. 31.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
+[^118]: A 11/A. §-t hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a, újonnan a 265/2025. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^119]: A hatálybalépés időpontja 2025. augusztus 21.

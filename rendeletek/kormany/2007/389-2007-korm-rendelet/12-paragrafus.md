@@ -6,6 +6,6 @@ a) az Európai Parlament és a Tanács 2001/77/EK irányelve (2001. szeptember 2
 
 b) az Európai Parlament és a Tanács 2004/8/EK irányelve (2004. február 11.) a hasznos hőigényen alapuló kapcsolt energiatermelés belső energia piacon való támogatásáról és a 92/42/EGK irányelv módosításáról;
 
-c)[^128]
+c)[^129]
 
-[^128]: A 12. § c) pontját a 75/2011. (V. 2.) Korm. rendelet 29. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
+[^129]: A 12. § c) pontját a 75/2011. (V. 2.) Korm. rendelet 29. §-a iktatta be, hatályon kívül helyezte a 256/2018. (XII. 18.) Korm. rendelet 6. §-a.
