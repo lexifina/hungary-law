@@ -14,7 +14,7 @@ f) a különböző tantárgyak, szakterületek köznevelési feladataihoz kapcso
 
 (2) Az Nkt. 19. § (2) bekezdés b) pontja szerinti szaktanácsadás, tantárgygondozás keretében a szaktanácsadók, tantárgygondozók által ellátandó feladatok:
 
-a) a pedagógusok munkájának fejlesztő célú támogatása érdekében: nevelési tevékenységek, tanórák és más pedagógiai célú foglalkozások látogatása; a látogatott órák, foglalkozások értékelése; óra és foglalkozáslátogatást követően a tapasztalatok közös feldolgozása az érintett pedagógussal, munkaközösség vezetővel, intézményvezetővel; a látogatott pedagógusok, intézményvezetők számára személyre szabott fejlesztési és továbbképzési javaslatok megfogalmazása,
+a)[^18] a pedagógusok munkájának fejlesztő célú támogatása érdekében: nevelési tevékenységek, tanórák és más pedagógiai célú foglalkozások látogatása; a látogatott órák, foglalkozások értékelése; óra és foglalkozáslátogatást követően a tapasztalatok közös feldolgozása az érintett pedagógussal, munkaközösség vezetővel, igazgatóval; a látogatott pedagógusok, igazgatók számára személyre szabott fejlesztési és továbbképzési javaslatok megfogalmazása,
 
 b) igény alapján egyéni segítségnyújtás pedagógusoknak a szakterületükkel, munkakörükkel összefüggő szakmai, módszertani kérdésekben,
 
@@ -24,6 +24,9 @@ d) közreműködés a szakterületének megfelelő tudományos információk gy�
 
 e) igény alapján segítségnyújtás az intézmények belső önértékelési rendszerének kialakításához, megvalósításához,
 
-f) az országos pedagógiai szakmai ellenőrzésben (tanfelügyelet) részt vett pedagógus, intézményvezető, intézmény összegző értékelésének eredményétől függően a fejlesztési feladatok megvalósításának támogatása,
+f)[^19] az országos pedagógiai szakmai ellenőrzésben (tanfelügyelet) részt vett pedagógus, igazgató, intézmény összegző értékelésének eredményétől függően a fejlesztési feladatok megvalósításának támogatása,
 
 g) közreműködés a pedagógiai-szakmai szolgáltatási területek feladatainak megvalósításában.
+
+[^18]: A 4. § (2) bekezdés a) pontja a 34/2025. (VIII. 18.) BM rendelet 9. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdés f) pontja a 34/2025. (VIII. 18.) BM rendelet 9. § b) pontja szerint módosított szöveg.
