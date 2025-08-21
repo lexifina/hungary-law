@@ -8,9 +8,9 @@
 
 a) az intézmény igazgatójának vezetői programját,
 
-b) az intézménynek a látogatás évére vonatkozó továbbképzési programját és
+b)[^487] az intézménynek a látogatás évére vonatkozó pedagógus-továbbképzési intézményi programját.
 
-c) az intézménynek a látogatás évére vonatkozó beiskolázási tervét.
+c)[^488]
 
 (5) A komplex ellenőrzés során
 
@@ -37,3 +37,6 @@ b) a 156. § (8) bekezdése nem alkalmazható.
 (11) Az utóellenőrzés eredményeiről a hivatal jelentést készít a miniszter számára, amely tartalmazza az utóellenőrzésbe bevont intézmények nevét, külön megjelölve azt az intézményt, amely az intézkedési tervben foglaltakat nem hajtotta végre.
 
 (12) Az intézmény igazgatója az intézkedési tervben a komplex ellenőrzés során készült szakértői értékelés megállapításainak megfelelő kötelező pedagógus-továbbképzést írhat elő a pedagógus számára.
+
+[^487]: A 153. § (4) bekezdés b) pontja a 34/2025. (VIII. 18.) BM rendelet 7. § 14. pontja szerint módosított szöveg.
+[^488]: A 153. § (4) bekezdés c) pontját a 34/2025. (VIII. 18.) BM rendelet 8. § 6. pontja hatályon kívül helyezte.

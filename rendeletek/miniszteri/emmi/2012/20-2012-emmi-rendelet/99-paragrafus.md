@@ -10,7 +10,7 @@ b) a tanuló nevét, állampolgárságát, nem magyar állampolgár esetén a ta
 
 c) a tanuló osztálynaplóban szereplő sorszámát,
 
-d)[^326] a tanévet és a tanuló által elvégzett évfolyamot,
+d)[^335] a tanévet és a tanuló által elvégzett évfolyamot,
 
 e) a tanuló magatartásának és szorgalmának értékelését,
 
@@ -26,7 +26,7 @@ j) a tanulmányok alatti vizsgára vonatkozó adatokat,
 
 k) a tanulót érintő gyermekvédelmi intézkedéssel, hátrányos helyzet, halmozottan hátrányos helyzet megállapításával kapcsolatos és tanulói jogviszonyából következő döntéseket, határozatokat, záradékokat.
 
-(4)[^327] Ha az iskola sajátos nevelési igényű tanuló nevelés-oktatását is ellátja, a törzslapon fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
+(4)[^336] Ha az iskola sajátos nevelési igényű tanuló nevelés-oktatását is ellátja, a törzslapon fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény számát és kiállításának keltét, a felülvizsgálat időpontját.
 
 (5) Az egyéni törzslapokat az alsó tagozat, a felső tagozat és a középfokú iskolai tanulmányok befejezését követően, a törzslap külívének teljes lezárása után szétválaszthatatlanul össze kell fűzni, és ilyen módon kell tárolni.
 
@@ -44,5 +44,5 @@ d) a törzslap külívének lezárásakor hatályos osztálynévsort (a tanuló 
 
 (8) A megsemmisült vagy elveszett törzslap helyett – a rendelkezésre álló iratok, adatok alapján – póttörzslapot kell kiállítani.
 
-[^326]: A 99. § (3) bekezdés d) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § f) pontja szerint módosított szöveg.
-[^327]: A 99. § (4) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^335]: A 99. § (3) bekezdés d) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § f) pontja szerint módosított szöveg.
+[^336]: A 99. § (4) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 16. pontja szerint módosított szöveg.

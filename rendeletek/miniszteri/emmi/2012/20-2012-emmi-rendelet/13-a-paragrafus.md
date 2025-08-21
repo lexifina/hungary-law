@@ -1,6 +1,6 @@
-13/A. §[^62] (1)[^63] Az óvodai, iskolai, kollégiumi foglalkozásokat az óvoda, a kollégium helyiségeiben, az iskola tantermeiben, illetve egyéb, a foglalkozás megtartására alkalmas helyen kell megszervezni. Az óvodán, iskolán, kollégiumon kívül akkor szervezhető foglalkozás, ha a gyermekek, tanulók intézményi felügyelete a külső helyszínen, továbbá az oda- és visszajutás közben biztosított. Az óvodán, iskolán kívül szervezett foglalkozásról a szülőt előzetesen tájékoztatni kell. Abban az esetben, ha a külső helyszínre történő eljutás akadályozza más tanítási óra megtartását, gondoskodni kell a kiesett tanítási óra pótlásáról.
+13/A. §[^67] (1)[^68] Az óvodai, iskolai, kollégiumi foglalkozásokat az óvoda, a kollégium helyiségeiben, az iskola tantermeiben, illetve egyéb, a foglalkozás megtartására alkalmas helyen kell megszervezni. Az óvodán, iskolán, kollégiumon kívül akkor szervezhető foglalkozás, ha a gyermekek, tanulók intézményi felügyelete a külső helyszínen, továbbá az oda- és visszajutás közben biztosított. Az óvodán, iskolán kívül szervezett foglalkozásról a szülőt előzetesen tájékoztatni kell. Abban az esetben, ha a külső helyszínre történő eljutás akadályozza más tanítási óra megtartását, gondoskodni kell a kiesett tanítási óra pótlásáról.
 
-(2)[^64] Amennyiben a nevelési-oktatási intézmény csoportszobáiban és tantermeiben a műszaki, működési feltételek tartós hiánya miatt a hőmérséklet legalább két egymást követő nevelési, oktatási napon nem éri el a húsz Celsius-fokot, az igazgató a fenntartó és a működtető egyidejű értesítése mellett rendkívüli szünetet rendel el, és a rendkívüli szünet elrendeléséről tájékoztatja a szülőket.
+(2)[^69] Amennyiben a nevelési-oktatási intézmény csoportszobáiban és tantermeiben a műszaki, működési feltételek tartós hiánya miatt a hőmérséklet legalább két egymást követő nevelési, oktatási napon nem éri el a húsz Celsius-fokot, az igazgató a fenntartó és a működtető egyidejű értesítése mellett rendkívüli szünetet rendel el, és a rendkívüli szünet elrendeléséről tájékoztatja a szülőket.
 
 (3) A (2) bekezdésben meghatározott rendkívüli szünet időtartama alatt az intézmény fenntartója saját fenntartásában működő másik intézményben köteles gondoskodni
 
@@ -8,6 +8,6 @@ a) a szülők kérésére a gyermekek, tanulók felügyeletéről és étkeztet�
 
 b) a záróvizsgák és az adott tanévben már nem pótolható szakmai gyakorlat megtartásáról.
 
-[^62]: A 13/A. §-t a 22/2013. (III. 22.) EMMI rendelet 4. §-a iktatta be.
-[^63]: A 13/A. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^64]: A 13/A. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.
+[^67]: A 13/A. §-t a 22/2013. (III. 22.) EMMI rendelet 4. §-a iktatta be.
+[^68]: A 13/A. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^69]: A 13/A. § (2) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.

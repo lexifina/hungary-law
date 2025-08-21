@@ -1,5 +1,3 @@
-## 184/K. § A Korm. rendelet 9/T. § (2) bekezdésében meghatározott eljárás esetén
+184/K. §[^640]
 
-a) a szakértői díjazás mértéke a tankönyvvé nyilvánítási eljárásban fizetendő szakértői díjazás 10%-a;
-
-b) az iskola kérelme esetén a tankönyvek után fizetendő igazgatási szolgáltatási díj mértéke a tankönyvvé nyilvánítási eljárásban fizetendő igazgatási szolgáltatási díj 10%-a.
+[^640]: A 184/K. §-t a 34/2025. (VIII. 18.) BM rendelet 8. § 8. pontja hatályon kívül helyezte.

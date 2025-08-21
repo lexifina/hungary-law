@@ -14,13 +14,14 @@ d) a gyermekvédelemmel összefüggő pedagógiai tevékenységet,
 
 e) a szülő, a gyermek, a pedagógus együttműködésének formáit,
 
-f) nemzetiségi óvodai nevelésben részt vevő óvoda esetén a nemzetiség kultúrájának és nyelvének ápolásával járó feladatokat,
+f)[^33] nemzetiségi óvodai nevelésben részt vevő óvoda esetén a nemzetiség óvodai nevelésének és a nemzetiség iskolai nevelés-oktatásának irányelve alapján a nemzetiség kultúrájának és nyelvének ápolásával járó feladatokat,
 
-g)[^33] az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
+g)[^34] az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
 
 h) a gyermekek esélyegyenlőségét szolgáló intézkedéseket,
 
 i) a nevelőtestület által szükségesnek tartott további elveket.
 
 [^32]: A 6. § (2) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 13. § 1. pontja szerint módosított szöveg.
-[^33]: A 6. § (2) bekezdés g) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 2. pontja szerint módosított szöveg.
+[^33]: A 6. § (2) bekezdés f) pontja a 34/2025. (VIII. 18.) BM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^34]: A 6. § (2) bekezdés g) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 2. pontja szerint módosított szöveg.

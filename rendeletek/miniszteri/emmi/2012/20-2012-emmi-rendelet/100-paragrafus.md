@@ -1,6 +1,6 @@
 100. § (1) Az értesítő (ellenőrző) a tanuló magatartásáról, szorgalmáról, évközi és félév végi tanulmányi eredményéről szóló tájékoztatásra, a hiányzások igazolására, valamint az iskola és a szülő kölcsönös tájékoztatására szolgál. Az alapfokú művészeti iskolai értesítőben a tanuló magatartását nem kell értékelni.
 
-(2)[^328] Az értesítőben (ellenőrzőben) fel kell tüntetni az iskola nevét, OM azonosítóját és címét, az osztály megnevezését.
+(2)[^337] Az értesítőben (ellenőrzőben) fel kell tüntetni az iskola nevét, OM azonosítóját és címét, az osztály megnevezését.
 
 (3) Az értesítő (ellenőrző) tartalmazza
 
@@ -16,4 +16,4 @@ e) a mulasztások igazolását.
 
 (4) A tanuló félévi osztályzatairól az iskola az iskolai elektronikus napló alkalmazása esetén is köteles az értesítő (ellenőrző) útján, az osztályfőnök aláírásával és az iskola körbélyegzőjének lenyomatával ellátott írásbeli tájékoztatást adni.
 
-[^328]: A 100. § (2) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § g) pontja szerint módosított szöveg.
+[^337]: A 100. § (2) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § g) pontja szerint módosított szöveg.

@@ -10,6 +10,6 @@ b) szabadon választható.
 
 (4) A kollégiumnak az éves tanulói foglalkozási terv elkészítéséhez minden tanév első hetében fel kell mérnie, hány tanuló és milyen szabadon választható foglalkozáson kíván a tanévben részt venni.
 
-(5)[^444] Az éves tanulói foglalkozási tervet a kollégium igazgatója készíti elő, és a nevelőtestület fogadja el a kötelező foglalkozásokra vonatkozóan a tanév megkezdéséig, a szabadon választható foglalkozásokra vonatkozóan legkésőbb az adott tanév szeptember 30-áig. Az éves tanulói foglalkozási tervet az elfogadást követő három munkanapon belül a helyben szokásos módon közzé kell tenni. A tanulók a közzétételtől számított hét munkanapon belül jelenthetik be írásban a kollégium igazgatójának, hogy melyik szabadon választható foglalkozáson kívánnak részt venni.
+(5)[^455] Az éves tanulói foglalkozási tervet a kollégium igazgatója készíti elő, és a nevelőtestület fogadja el a kötelező foglalkozásokra vonatkozóan a tanév megkezdéséig, a szabadon választható foglalkozásokra vonatkozóan legkésőbb az adott tanév szeptember 30-áig. Az éves tanulói foglalkozási tervet az elfogadást követő három munkanapon belül a helyben szokásos módon közzé kell tenni. A tanulók a közzétételtől számított hét munkanapon belül jelenthetik be írásban a kollégium igazgatójának, hogy melyik szabadon választható foglalkozáson kívánnak részt venni.
 
-[^444]: A 137/C. § (5) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. és 19. pontja szerint módosított szöveg.
+[^455]: A 137/C. § (5) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 4. és 19. pontja szerint módosított szöveg.

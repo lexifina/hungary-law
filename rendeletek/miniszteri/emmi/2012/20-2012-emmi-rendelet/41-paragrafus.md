@@ -4,10 +4,10 @@
 
 (3) A tanulói adatlapok módosításának feldolgozását követően a Felvételi Központ a KIFIR rendszerben kiegészíti a jelentkezők listáját.
 
-(4)[^163] A jelentkezők listájának kiegészítése után a középfokú iskola igazgatója a (2) bekezdésben meghatározottak szerint, a tanév rendjéről szóló miniszteri rendeletben meghatározott határidőig kiegészíti az ideiglenes felvételi rangsort, valamint tanulmányi területenként közli a felvehető tanulók számát.
+(4)[^171] A jelentkezők listájának kiegészítése után a középfokú iskola igazgatója a (2) bekezdésben meghatározottak szerint, a tanév rendjéről szóló miniszteri rendeletben meghatározott határidőig kiegészíti az ideiglenes felvételi rangsort, valamint tanulmányi területenként közli a felvehető tanulók számát.
 
 (5) A Felvételi Központ a KIFIR rendszer segítségével az ideiglenes felvételi rangsorok alapján tanulmányi területenként elkészíti az egyeztetett felvételi jegyzéket. Az egyeztetett felvételi jegyzéken minden jelentkező esetében szerepel a felvételi kérelem elfogadásának vagy elutasításának ténye. Az egyeztetett felvételi jegyzék elkészítése során a Felvételi Központ a tanulói adatlapon a jelentkező által meghatározott sorrend, a középfokú iskola által meghatározott felvételi rangsor, valamint a középfokú iskola által közölt felvehető tanulói létszám együttes mérlegelése alapján az adott jelentkezőnek egyetlen felvételi kérelmét nyilvánítja elfogadottnak, a többit elutasítja. A Felvételi Központ a jelentkezőnek azt az adatlapon szereplő legalacsonyabb sorszámú felvételi kérelmét nyilvánítja elfogadottnak, amelyet az adott tanulmányi területet meghirdető iskola elfogadott, és a jelentkező a középfokú iskola által közölt felvehető tanulói létszámon belül van.
 
 (6) A Felvételi Központ a KIFIR rendszerben a középfokú iskolák számára elérhetővé teszi az egyeztetett felvételi jegyzéket.
 
-[^163]: A 41. § (4) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 9. pontja, a 24. § (1) bekezdés g) pontja, a 36/2023. (IX. 5.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^171]: A 41. § (4) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 9. pontja, a 24. § (1) bekezdés g) pontja, a 36/2023. (IX. 5.) BM rendelet 4. § a) pontja szerint módosított szöveg.

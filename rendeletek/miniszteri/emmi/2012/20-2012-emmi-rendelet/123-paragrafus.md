@@ -4,17 +4,17 @@
 
 ## 39. A köznevelési intézmény hivatalos neve
 
-123. § (1)[^364] A köznevelési intézmény a működése során kizárólag olyan nevet használhat, amely megfelel az e rendeletben meghatározottaknak és – a (2) bekezdés e) pontját kivéve –szerepel a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában.
+123. § (1)[^374] A köznevelési intézmény a működése során kizárólag olyan nevet használhat, amely megfelel az e rendeletben meghatározottaknak és – a (2) bekezdés e) pontját kivéve –szerepel a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában.
 
 (2) A köznevelési intézmény
 
 a) hivatalos nevet,
 
-b)[^365] többcélú köznevelési intézmény esetében a hivatalos névből képzett rövid nevet,
+b)[^375] többcélú köznevelési intézmény esetében a hivatalos névből képzett rövid nevet,
 
 c) tagintézmény esetében a hivatalos név vagy a rövid név feltüntetésével képzett tagintézményi nevet,
 
-d)[^366] az a)–c) pont szerinti nevet nemzetiségi vagy idegen nyelven,
+d)[^376] az a)–c) pont szerinti nevet nemzetiségi vagy idegen nyelven,
 
 e) rövidített nevet
 
@@ -22,9 +22,9 @@ használhat.
 
 (3) A köznevelési intézmény hivatalos neve az az egyedi, megkülönböztetésre alkalmas és az ellátott feladatokat tükröző, jogszabály szerinti megnevezésekből álló elnevezés, amely kifejezi azt a tevékenységet, amelyre az adott köznevelési intézményt létrehozták.
 
-(4)[^367] A köznevelési intézmény jogszabály szerinti megnevezése
+(4)[^377] A köznevelési intézmény jogszabály szerinti megnevezése
 
-1.[^368] óvoda, óvoda-bölcsőde, kiegészítő nemzetiségi óvoda,
+1.[^378] óvoda, óvoda-bölcsőde, kiegészítő nemzetiségi óvoda,
 
 2. általános iskola,
 
@@ -32,7 +32,7 @@ használhat.
 
 4. szakgimnázium,
 
-5.[^369]
+5.[^379]
 
 6. szakiskola,
 
@@ -40,7 +40,7 @@ használhat.
 
 8. alapfokú művészeti iskola,
 
-9.[^370] kiegészítő nemzetiségi nyelvoktató iskola,
+9.[^380] kiegészítő nemzetiségi nyelvoktató iskola,
 
 10. kollégium,
 
@@ -54,24 +54,24 @@ használhat.
 
 15. egységes konduktív pedagógiai módszertani intézmény, valamint
 
-16.[^371]
+16.[^381]
 
 lehet.
 
-(5)[^372] A magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – a miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
+(5)[^382] A magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – a miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
 
-(6)[^373] A kiegészítő nemzetiségi nyelvoktató iskola megnevezése tartalmazza az adott nemzetiségi nyelv megjelölését.
+(6)[^383] A kiegészítő nemzetiségi nyelvoktató iskola megnevezése tartalmazza az adott nemzetiségi nyelv megjelölését.
 
-(7)[^374] A gyógypedagógiai nevelési-oktatási intézmény, az egységes iskola és az összetett iskola, valamint e feladatokra létrehozott intézményegységek esetében a (4) bekezdés szerinti megnevezéssel kell a hivatalos nevet megállapítani.
+(7)[^384] A gyógypedagógiai nevelési-oktatási intézmény, az egységes iskola és az összetett iskola, valamint e feladatokra létrehozott intézményegységek esetében a (4) bekezdés szerinti megnevezéssel kell a hivatalos nevet megállapítani.
 
-[^364]: A 123. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 4. pontja szerint módosított szöveg.
-[^365]: A 123. § (2) bekezdés b) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 9. pontja szerint módosított szöveg.
-[^366]: A 123. § (2) bekezdés d) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
-[^367]: A 123. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^368]: A 123. § (4) bekezdés 1. pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^369]: A 123. § (4) bekezdés 5. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 22. pont a) alpontja hatályon kívül helyezte.
-[^370]: A 123. § (4) bekezdés 9. pontja az 53/2016. (XII. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^371]: A 123. § (4) bekezdés 16. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 22. pont a) alpontja hatályon kívül helyezte.
-[^372]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 22. pont b) alpontja, az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
-[^373]: A 123. § (6) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be, szövege az 53/2016. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^374]: A 123. § (7) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^374]: A 123. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 4. pontja szerint módosított szöveg.
+[^375]: A 123. § (2) bekezdés b) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 9. pontja szerint módosított szöveg.
+[^376]: A 123. § (2) bekezdés d) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
+[^377]: A 123. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^378]: A 123. § (4) bekezdés 1. pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^379]: A 123. § (4) bekezdés 5. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 22. pont a) alpontja hatályon kívül helyezte.
+[^380]: A 123. § (4) bekezdés 9. pontja az 53/2016. (XII. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^381]: A 123. § (4) bekezdés 16. pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 22. pont a) alpontja hatályon kívül helyezte.
+[^382]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 22. pont b) alpontja, az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^383]: A 123. § (6) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be, szövege az 53/2016. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^384]: A 123. § (7) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 72. § (1) A gyakorlati vizsgarész szabályait akkor kell alkalmazni, ha a tantárgy helyi tantervben meghatározott követelményei eltérő rendelkezést nem állapítanak meg.
 
-(2)[^258]
+(2)[^266]
 
 (3) A gyakorlati vizsgarészt akkor lehet megkezdeni, ha a vizsgabizottság elnöke meggyőződött a vizsgafeladatok elvégzéséhez szükséges személyi és tárgyi feltételek meglétéről.
 
@@ -12,4 +12,4 @@
 
 (7) A vizsgázó gyakorlati vizsgarészre kapott érdemjegyét a vizsgamunkára, a vizsga helyszínén készített önálló gyakorlati alkotásra vagy a vizsga helyszínén bemutatott gyakorlatra kapott osztályzatok alapján kell meghatározni.
 
-[^258]: A 72. § (2) bekezdését a 44/2023. (X. 19.) BM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^266]: A 72. § (2) bekezdését a 44/2023. (X. 19.) BM rendelet 24. § a) pontja hatályon kívül helyezte.

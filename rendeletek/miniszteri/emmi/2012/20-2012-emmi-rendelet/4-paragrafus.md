@@ -54,7 +54,7 @@ c) a diákönkormányzat, a diákképviselők, valamint az iskolai vezetők köz
 
 d) az iskolai sportkör, valamint az iskola vezetése közötti kapcsolattartás formáit és rendjét,
 
-e)[^24] szakiskola és szakgimnázium esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
+e)[^24] szakiskola esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét, szakgimnázium esetén az iskolán kívül szervezett szakmai tantárgyi tanóra rendjét,
 
 f) a gyermekek, tanulók egészségét veszélyeztető helyzetek kezelésére irányuló eljárásrendet,
 
@@ -74,5 +74,5 @@ tartalmazza.
 [^21]: A 4. § (1) bekezdés i) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^22]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^23]: A 4. § (1) bekezdés t) pontja a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.
-[^24]: A 4. § (2) bekezdés e) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 1. pontja szerint módosított szöveg.
+[^24]: A 4. § (2) bekezdés e) pontja a 34/2025. (VIII. 18.) BM rendelet 1. §-ával megállapított szöveg.
 [^25]: A 4. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 2. pontja szerint módosított szöveg.

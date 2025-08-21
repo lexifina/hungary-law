@@ -36,7 +36,7 @@ f)[^29] az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei
 
 g) az iskola, kollégium által szervezett, a pedagógiai program végrehajtásához kapcsolódó iskolán, kollégiumon kívüli rendezvényeken elvárt tanulói magatartást,
 
-h)[^30] a mobiltelefon és egyéb digitális, infokommunikációs eszköz tanórai és egyéb foglalkozásokon való használatának szabályait,
+h)[^30] – az Nkt. és a nevelési-oktatási intézményekben a tiltott és a használatában korlátozott tárgyak köréről, valamint a tárgyakra vonatkozó eljárásrend részletes szabályairól szóló 245/2024. (VIII. 8.) Korm. rendelettel összhangban – a használatában korlátozott tárgy tanórai és egyéb foglalkozásokon való használatának szabályait,
 
 i)[^31] büntetőjogi és fegyelmi eljárás hatálya alá nem tartozó, pedagógus vagy a köznevelési intézmény egyéb alkalmazottja ellen irányuló, a köznevelési intézménnyel jogviszonyban álló tanuló részéről elkövetett közösségellenes vagy azzal fenyegető cselekmények megelőzésének, kivizsgálásának, elbírálásának elveit és az alkalmazandó intézkedéseket.
 
@@ -44,5 +44,5 @@ i)[^31] büntetőjogi és fegyelmi eljárás hatálya alá nem tartozó, pedagó
 [^27]: Az 5. § (1) bekezdés h) pontja a 34/2019. (XII. 30.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
 [^28]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
 [^29]: Az 5. § (2) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 1. pontja szerint módosított szöveg.
-[^30]: Az 5. § (2) bekezdés h) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.
+[^30]: Az 5. § (2) bekezdés h) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be, szövege a 34/2025. (VIII. 18.) BM rendelet 7. § 1. pontja szerint módosított szöveg.
 [^31]: Az 5. § (2) bekezdés i) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.

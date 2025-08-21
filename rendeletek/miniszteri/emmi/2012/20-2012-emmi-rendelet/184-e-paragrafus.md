@@ -8,4 +8,6 @@
 
 a) a szükséges tankönyvek, ajánlott és kötelező irodalom beszerzéséhez és
 
-b) a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény egyes rendelkezéseinek végrehajtásáról, valamint a tankönyvellátásban közreműködők kijelöléséről szóló 501/2013. (XII. 29.) Korm. rendelet (a továbbiakban: Korm. rendelet) 9/T. § (1) és (2) bekezdésében meghatározott külföldi tankönyvek beszerzéséhez.
+b)[^630] a Korm. rendelet 44/Y. § (2) és (3) bekezdésében meghatározott külföldi tankönyvek beszerzéséhez.
+
+[^630]: A 184/E. § (3) bekezdés b) pontja a 34/2025. (VIII. 18.) BM rendelet 7. § 22. pontja szerint módosított szöveg.

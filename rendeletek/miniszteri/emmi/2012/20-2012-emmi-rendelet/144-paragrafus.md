@@ -1,5 +1,5 @@
-## 56.[^469]
+## 56.[^480]
 
 144. §
 
-[^469]: Az 56. alcímet (144. §) a 20/2016. (VIII. 24.) EMMI rendelet 28. § 11. pontja hatályon kívül helyezte.
+[^480]: Az 56. alcímet (144. §) a 20/2016. (VIII. 24.) EMMI rendelet 28. § 11. pontja hatályon kívül helyezte.
