@@ -1,4 +1,4 @@
-2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^213]
+2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^217]
 
 A szakértői vizsgálat eljárásrendje
 
@@ -40,7 +40,7 @@ A vizsgálati véleményt a vizsgálatvezető ismerteti a szülővel.
 
 Amennyiben az enyhe értelmi fogyatékosság megállapítására vagy kizárására irányuló első vizsgálat során az orvosi adatok, szakértői vélemény nem támasztják alá a fogyatékosság tényét (nem állapítható meg az ok), vagy ha a komplex vizsgálat (pszichológiai, gyógypedagógiai, orvosi) alapján egyértelműen nem támasztható alá az enyhe értelmi fogyatékosság diagnózisa (határeset, retardáció), akkor a vizsgálatvezető kezdeményezi a folyamatos figyelemmel kísérést. Szükségességéről a vizsgáló csoport véleményének figyelembevételével a bizottságvezető dönt. A folyamatos figyelemmel kísérés tényéről a vizsgálatvezető (az időtartam, a vizsgálatvezető gyógypedagógus megjelölésével, elérhetősége megadásával, a megfigyelés módszerének ismertetésével) a szülőt tájékoztatja, a szülőt és az érintett intézményt írásban értesíti, az utóbbival elvégzi a szükséges egyeztetést.
 
-A gyermek folyamatos figyelemmel kísérése a gyermeket nevelő, a tanulót nevelő, oktató intézményben történik előzetesen egyeztetett időpontban, az e rendeletben meghatározott módon. A vizsgálatvezető tájékoztatja az intézmény vezetőjét, majd az érintett pedagógusokat a jogi- és szakmai szabályokról, a pedagógiai teendőkről.
+A gyermek folyamatos figyelemmel kísérése a gyermeket nevelő, a tanulót nevelő, oktató intézményben történik előzetesen egyeztetett időpontban, az e rendeletben meghatározott módon. A vizsgálatvezető tájékoztatja az intézmény (fő)igazgatóját, majd az érintett pedagógusokat a jogi- és szakmai szabályokról, a pedagógiai teendőkről.
 
 Első alkalommal a bizottságvezető által megbízott munkatárs megfigyeli a gyermeket, a tanulót az óvodai, iskolai, környezetben, egyezteti a megfigyelést segítő, a pedagógus feladatait rögzítő megfigyelési szempontsort, elkészíti az első megfigyelés tapasztalatait rögzítő feljegyzést. A megfigyelési szempontsor meghatározza a gyermek, a tanuló nevelésével, oktatásával kapcsolatos teendőket, valamint a megfigyelésben közreműködő pedagógus feladatait.
 
@@ -70,4 +70,4 @@ A hivatalból elrendelt felülvizsgálattal megbízott munkatárs a beérkezett 
 
 A bizottságvezető kijelöli a vizsgálatvezetőt és a vizsgálatban résztvevőket, elkészíti a felülvizsgálatok ütemtervét, dönt arról, hogy a felterjesztő intézményben, vagy a bizottság székhelyén történjék-e a vizsgálat, és írásban értesíti az intézményeket a vizsgálat helyéről és időpontjáról.
 
-[^213]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^217]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 20. pontja, a 34/2025. (VIII. 18.) BM rendelet 13. § 14. pontja szerint módosított szöveg.

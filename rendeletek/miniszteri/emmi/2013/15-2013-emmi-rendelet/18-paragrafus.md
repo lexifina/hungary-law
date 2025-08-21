@@ -1,9 +1,9 @@
-18. § (1)[^106] A gyermek, tanuló ellátására a szakértői véleményben foglaltak szerint akkor kerül sor, ha az abban foglaltakkal a szülő egyetért. Amennyiben a szakértői véleményben foglaltakkal a szülő nem ért egyet, a szakértői bizottság köteles erről a tényről a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi központot tájékoztatni.
+18. § (1)[^105] A gyermek, tanuló ellátására a szakértői véleményben foglaltak szerint akkor kerül sor, ha az abban foglaltakkal a szülő egyetért. Amennyiben a szakértői véleményben foglaltakkal a szülő nem ért egyet, a szakértői bizottság köteles erről a tényről a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi központot tájékoztatni.
 
-(2)[^107] A szülő közvetlenül is eljárást indíthat a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi központnál a szakértői vélemény felülvizsgálatát kezdeményezve. A szülőnek a szakértői véleményben foglaltakkal kapcsolatos egyetértését vagy egyet nem értését írásban kell közölnie.
+(2)[^106] A szülő közvetlenül is eljárást indíthat a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi központnál a szakértői vélemény felülvizsgálatát kezdeményezve. A szülőnek a szakértői véleményben foglaltakkal kapcsolatos egyetértését vagy egyet nem értését írásban kell közölnie.
 
-(3)[^108] A szülőnek – a szakértői vélemény kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. Amennyiben a szülő a szakértői vélemény kézhezvételétől számított tizenöt napon belül nem tesz nyilatkozatot és nem indítja meg a (2) bekezdésben meghatározott eljárást, az egyetértését megadottnak kell tekinteni.
+(3)[^107] A szülőnek – a szakértői vélemény kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. Amennyiben a szülő a szakértői vélemény kézhezvételétől számított tizenöt napon belül nem tesz nyilatkozatot és nem indítja meg a (2) bekezdésben meghatározott eljárást, az egyetértését megadottnak kell tekinteni.
 
-[^106]: A 18. § (1) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont a) alpontja, a 44/2023. (X. 19.) BM rendelet 30. § f) pontja szerint módosított szöveg.
-[^107]: A 18. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont b) alpontja szerint módosított szöveg.
-[^108]: A 18. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 33. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont c) alpontja szerint módosított szöveg.
+[^105]: A 18. § (1) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont a) alpontja, a 44/2023. (X. 19.) BM rendelet 30. § f) pontja szerint módosított szöveg.
+[^106]: A 18. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont b) alpontja szerint módosított szöveg.
+[^107]: A 18. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 33. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 10. pont c) alpontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 38. § Az Intézménynek az alapító okiratában meghatározott pedagógiai szakszolgálati feladatok ellátásához legalább a 9. mellékletben meghatározott eszközökkel és felszerelésekkel [a továbbiakban: kötelező (minimális) eszközök és felszerelések] rendelkeznie kell. A kötelező (minimális) eszközöket és felszereléseket telephelyenként, az alapító okiratban meghatározott és a telephelyen ténylegesen ellátott feladatokra kell biztosítani.
 
-## 15. [^183] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
+## 15. [^187] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
 
 39. § (1) A Gyakorló Szakszolgálat a (2)–(13) bekezdésében meghatározott esetekben szakértői bizottságként, egyéb, jogszabályban meghatározott esetekben szakértőként jár el.
 
@@ -38,16 +38,16 @@ d) javaslatot az adható kedvezményekre,
 
 e) a kérelmező tájékoztatását a jogorvoslat lehetőségéről.
 
-(9)[^184] A szakértői véleményt a vizsgálat lezárását követő huszonegy napon belül postai úton, személyesen, kézbesítő útján vagy ügyfélkapun keresztül kézbesíteni kell a kérelmezőnek. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a kérelmező általi átvétele megtörtént, vagy amely napon a kérelmező az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+(9)[^188] A szakértői véleményt a vizsgálat lezárását követő huszonegy napon belül postai úton, személyesen, kézbesítő útján vagy ügyfélkapun keresztül kézbesíteni kell a kérelmezőnek. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a kérelmező általi átvétele megtörtént, vagy amely napon a kérelmező az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 (10) A kérelmező – a szakértői vélemény vagy a vizsgálat elutasításáról szóló értesítés kézhezvételétől számított – tizenöt napon belül kezdeményezheti a szakértői vélemény, illetve a vizsgálat elutasításának felülvizsgálatát közigazgatási hatósági eljárás keretében.
 
 (11) A szakértői bizottságként eljáró Gyakorló Szakszolgálat (2) bekezdésben meghatározott tevékenysége térítésköteles.
 
-(12)[^185] A Gyakorló Szakszolgálat vezetője adott ügyben a kérelmezőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 9. és 10. pontja vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 67/A. §-a alapján hátrányos vagy halmozottan hátrányos helyzetére tekintettel, továbbá ha a kérelmező családjában az egy főre eső havi nettó jövedelem nem haladja meg a szociális vetítési alap összegét, egyedülálló kérelmező esetében a szociális vetítési alap összegének 150%-át, méltányossági jogkört gyakorolva a térítési díjat csökkentheti vagy mellőzheti. Ennek részletes szabályait a Gyakorló Szakszolgálat határozza meg.
+(12)[^189] A Gyakorló Szakszolgálat vezetője adott ügyben a kérelmezőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 9. és 10. pontja vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 67/A. §-a alapján hátrányos vagy halmozottan hátrányos helyzetére tekintettel, továbbá ha a kérelmező családjában az egy főre eső havi nettó jövedelem nem haladja meg a szociális vetítési alap összegét, egyedülálló kérelmező esetében a szociális vetítési alap összegének 150%-át, méltányossági jogkört gyakorolva a térítési díjat csökkentheti vagy mellőzheti. Ennek részletes szabályait a Gyakorló Szakszolgálat határozza meg.
 
 (13) A 7–23. § a szakértői bizottságként eljáró Gyakorló Szakszolgálat esetében nem alkalmazható.
 
-[^183]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.
-[^184]: A 39. § (9) bekezdése a 36/2023. (IX. 5.) BM rendelet 5. §-a szerint módosított szöveg.
-[^185]: A 39. § (12) bekezdése a 80/2022. (XII. 30.) BM rendelet 38. §-a szerint módosított szöveg.
+[^187]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.
+[^188]: A 39. § (9) bekezdése a 36/2023. (IX. 5.) BM rendelet 5. §-a szerint módosított szöveg.
+[^189]: A 39. § (12) bekezdése a 80/2022. (XII. 30.) BM rendelet 38. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-48. §[^210]
+48. §[^214]
 
-[^210]: A 48. §-t a 8/2014. (I. 30.) EMMI rendelet 32. § f) pontja hatályon kívül helyezte.
+[^214]: A 48. §-t a 8/2014. (I. 30.) EMMI rendelet 32. § f) pontja hatályon kívül helyezte.

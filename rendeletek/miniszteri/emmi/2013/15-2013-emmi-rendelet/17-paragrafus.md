@@ -10,27 +10,27 @@ bb) a sajátos nevelési igényre, vagy annak kizárására vonatkozó megállap
 
 c) a korai fejlesztés és gondozás szükségességét, az ennek keretében nyújtott szolgáltatásokat, a fejlesztéssel kapcsolatos szakmai feladatokat, valamint annak megjelölését, hogy a feladatokat milyen ellátás keretében mely intézmény biztosítja,
 
-d)[^92] annak megállapítását, hogy a sajátos nevelési igényű gyermek, tanuló az e célra létrehozott, a fogyatékosság típusának megfelelő nevelési-oktatási, illetve szakképző intézményben, osztályban, csoportban, tagozaton vagy a többi gyermekkel, tanulóval közösen is részt vehet az óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben,
+d)[^91] annak megállapítását, hogy a sajátos nevelési igényű gyermek, tanuló az e célra létrehozott, a fogyatékosság típusának megfelelő nevelési-oktatási, illetve szakképző intézményben, osztályban, csoportban, tagozaton vagy a többi gyermekkel, tanulóval közösen is részt vehet az óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben,
 
-e)[^93] annak megállapítását, hogy a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan egyéni munkarend, egyéni tanulmányi rend keretében teljesítheti,
+e)[^92] annak megállapítását, hogy a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan egyéni munkarend, egyéni tanulmányi rend keretében teljesítheti,
 
-f)[^94] ha a tanuló a tankötelezettségét kizárólagosan egyéni munkarend, egyéni tanulmányi rend keretében teljesítheti, a heti foglalkoztatás idejét és a felkészüléshez szükséges szakembereket,
+f)[^93] ha a tanuló a tankötelezettségét kizárólagosan egyéni munkarend, egyéni tanulmányi rend keretében teljesítheti, a heti foglalkoztatás idejét és a felkészüléshez szükséges szakembereket,
 
 g) annak megállapítását, hogy a tanuló a tankötelezettségét fejlesztő nevelés-oktatás, illetőleg a fejlesztő nevelés-oktatást nyújtó iskola által szervezett egyéni fejlesztés keretében teljesíti,
 
-h)[^95] a gyermek, tanuló sajátos nevelési igényének megfelelő
+h)[^94] a gyermek, tanuló sajátos nevelési igényének megfelelő
 
-ha)[^96] óvodára, csoportra (a továbbiakban együtt: kijelölt óvoda),
+ha)[^95] óvodára, csoportra (a továbbiakban együtt: kijelölt óvoda),
 
-hb)[^97] általános iskolára, középfokú iskolára, szakképző intézményre, fejlesztő nevelés-oktatást végző iskolára, csoportra, osztályra, tagozatra (a továbbiakban együtt: kijelölt iskola),
+hb)[^96] általános iskolára, középfokú iskolára, szakképző intézményre, fejlesztő nevelés-oktatást végző iskolára, csoportra, osztályra, tagozatra (a továbbiakban együtt: kijelölt iskola),
 
-hc)[^98] kollégiumra [a h) pont alattiak a továbbiakban együtt: kijelölt intézmény]
+hc)[^97] kollégiumra [a h) pont alattiak a továbbiakban együtt: kijelölt intézmény]
 
 vonatkozó javaslatot és a kijelölt intézmény megjelölését,
 
 i) a hivatalból történő felülvizsgálat időpontját,
 
-j)[^99] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket,
+j)[^98] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket,
 
 ja) fejlesztési feladatokat, a fejlesztési feladatok ellátásának javasolt időkeretét,
 
@@ -38,39 +38,39 @@ jb) javaslatot az egyes tantárgyakból, tantárgyrészekből az értékelés é
 
 k) a szükséges szakemberre vonatkozó javaslatot,
 
-l)[^100] az adott tanév szeptember 1. és január 18. napja közt elvégzett vizsgálatoknál az ötödik életévüket betöltött, de hat évesnél fiatalabb sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek esetében javaslatot a tankötelezettség teljesítésének következő tanévtől történő megkezdésére vagy további egy év óvodai nevelésre,
+l)[^99] az adott tanév szeptember 1. és január 18. napja közt elvégzett vizsgálatoknál az ötödik életévüket betöltött, de hat évesnél fiatalabb sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek esetében javaslatot a tankötelezettség teljesítésének következő tanévtől történő megkezdésére vagy további egy év óvodai nevelésre,
 
 m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezettségeiről.
 
-(1a)[^101] Nem alkalmazható
+(1a)[^100] Nem alkalmazható
 
 a) a nappali munkarend szerinti felnőttoktatásban tanuló személy vizsgálata alapján készített szakértői vélemény vonatkozásában az (1) bekezdés c), i) és l) pontja, valamint a 22. § (2)–(4) bekezdése,
 
 b) a nem nappali munkarend szerint folytatott felnőttoktatásban tanuló személy, valamint a felnőttképzésben részt vevő személy vizsgálata alapján készített szakértői vélemény vonatkozásában az (1) bekezdés c)–i), k) és l) pontja, j) pont ja) alpontja, valamint a 22. § (2)–(4) bekezdése.
 
-(2)[^102] Ha a fővárosi, vármegyei területi gyermekvédelmi szakszolgálat értesítése szerint a szakértői bizottság eljárásával egyidejűleg a gyermek, tanuló nevelésbe vételével kapcsolatos eljárás is folyik, a szakértői véleményt a kijelölt gondozási helyről szóló tájékoztatás megérkezését követően lehet elkészíteni.
+(2)[^101] Ha a fővárosi, vármegyei területi gyermekvédelmi szakszolgálat értesítése szerint a szakértői bizottság eljárásával egyidejűleg a gyermek, tanuló nevelésbe vételével kapcsolatos eljárás is folyik, a szakértői véleményt a kijelölt gondozási helyről szóló tájékoztatás megérkezését követően lehet elkészíteni.
 
 (3) A szakértői vizsgálat befejezését követően a szülőt tájékoztatni kell a szakértői vizsgálat megállapításairól, a szakértői vélemény várható tartalmáról, a szülői jogokról és kötelezettségekről. A tájékoztatás tényét, a tájékoztatási kötelezettség teljesítését írásba kell foglalni és a szülővel alá kell íratni.
 
 (4) Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésének jogával.
 
-(5)[^103] A szakértői véleményt, az e bekezdésben foglalt kivétellel – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. Amennyiben a szülő a 16. § (3) bekezdése alapján összeállított intézményjegyzékről intézményt nem választ, a szakértői bizottság a vizsgálat lezárását követő harmincadik napon a gyermeket, tanulót ellátó intézményt saját választása alapján kijelöli és a szakértői véleményt a kijelöléstől számított öt munkanapon belül a szülőnek kézbesíti.
+(5)[^102] A szakértői véleményt, az e bekezdésben foglalt kivétellel – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. Amennyiben a szülő a 16. § (3) bekezdése alapján összeállított intézményjegyzékről intézményt nem választ, a szakértői bizottság a vizsgálat lezárását követő harmincadik napon a gyermeket, tanulót ellátó intézményt saját választása alapján kijelöli és a szakértői véleményt a kijelöléstől számított öt munkanapon belül a szülőnek kézbesíti.
 
-(6)[^104] A kézbesítés történhet postai úton, személyesen, kézbesítő útján vagy ügyfélkapun keresztül. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+(6)[^103] A kézbesítés történhet postai úton, személyesen, kézbesítő útján vagy ügyfélkapun keresztül. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
-(7)[^105] Ha a Hivatal a kérelmező által benyújtott dokumentumok alapján, a tankötelezettség teljesítésének hat éves kor előtti megkezdésével vagy a tankötelezettség megkezdése alóli felmentéssel kapcsolatos hatósági eljárásban a szakértői bizottságot szakértőként kirendelte, és a Korm. rendelet szerinti szakvélemény elkészítése és a Hivatalnak történő megküldése mellett a hatósági eljárástól függetlenül az e rendelet szerinti szakértői vélemény kibocsátása is szükséges, úgy azt a szakértői bizottság az e rendelet általános szabályai szerint készíti el. Ha szakértői vizsgálatot a Hivatal kirendelésére a járási szakértői bizottság végezte el, és a szakértői vizsgálat alapján sajátos nevelési igény valószínűsíthető, akkor a járási szakértői bizottság a Korm. rendelet szerinti szakvélemény elkészítésével és a Hivatalnak történő megküldésével egyidejűleg saját vizsgálatának dokumentációját és annak eredményeit, a vizsgálat alapján tett megállapításait, valamint a rendelkezésükre álló egyéb iratokat megküldi a vármegyei szakértői bizottság részére, amely a szakértői vizsgálatot a hatósági eljárástól függetlenül e rendelet általános szabályai szerint fejezi be. A vármegyei szakértői bizottság a járási szakértői bizottság azon szakmai megállapításaihoz, melyeket a Korm. rendelet szerinti szakvélemény tartalmaz, kötve van.
+(7)[^104] Ha a Hivatal a kérelmező által benyújtott dokumentumok alapján, a tankötelezettség teljesítésének hat éves kor előtti megkezdésével vagy a tankötelezettség megkezdése alóli felmentéssel kapcsolatos hatósági eljárásban a szakértői bizottságot szakértőként kirendelte, és a Korm. rendelet szerinti szakvélemény elkészítése és a Hivatalnak történő megküldése mellett a hatósági eljárástól függetlenül az e rendelet szerinti szakértői vélemény kibocsátása is szükséges, úgy azt a szakértői bizottság az e rendelet általános szabályai szerint készíti el. Ha szakértői vizsgálatot a Hivatal kirendelésére a járási szakértői bizottság végezte el, és a szakértői vizsgálat alapján sajátos nevelési igény valószínűsíthető, akkor a járási szakértői bizottság a Korm. rendelet szerinti szakvélemény elkészítésével és a Hivatalnak történő megküldésével egyidejűleg saját vizsgálatának dokumentációját és annak eredményeit, a vizsgálat alapján tett megállapításait, valamint a rendelkezésükre álló egyéb iratokat megküldi a vármegyei szakértői bizottság részére, amely a szakértői vizsgálatot a hatósági eljárástól függetlenül e rendelet általános szabályai szerint fejezi be. A vármegyei szakértői bizottság a járási szakértői bizottság azon szakmai megállapításaihoz, melyeket a Korm. rendelet szerinti szakvélemény tartalmaz, kötve van.
 
-[^92]: A 17. § (1) bekezdés d) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont a) alpontja szerint módosított szöveg.
-[^93]: A 17. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 34/2019. (XII. 30.) EMMI rendelet 19. § b) pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont b) alpontja szerint módosított szöveg.
-[^94]: A 17. § (1) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont b) alpontja szerint módosított szöveg.
-[^95]: A 17. § (1) bekezdés h) pont záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^96]: A 17. § (1) bekezdés h) pont ha) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^97]: A 17. § (1) bekezdés h) pont hb) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont c) alpontja szerint módosított szöveg.
-[^98]: A 17. § (1) bekezdés h) pont hc) alpontja a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^99]: A 17. § (1) bekezdés j) pontja a 37/2021. (VIII. 31.) EMMI rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^100]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte, újonnan a 34/2019. (XII. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^101]: A 17. § (1a) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 32. § (2) bekezdése iktatta be.
-[^102]: A 17. § (2) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 36. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
-[^103]: A 17. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 32. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^104]: A 17. § (6) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 32. §-a iktatta be, szövege a 36/2023. (IX. 5.) BM rendelet 5. §-a szerint módosított szöveg.
-[^105]: A 17. § (7) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 18. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 71. § d) pontja, a 44/2023. (X. 19.) BM rendelet 30. § e) pontja szerint módosított szöveg.
+[^91]: A 17. § (1) bekezdés d) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont a) alpontja szerint módosított szöveg.
+[^92]: A 17. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 34/2019. (XII. 30.) EMMI rendelet 19. § b) pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont b) alpontja szerint módosított szöveg.
+[^93]: A 17. § (1) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont b) alpontja szerint módosított szöveg.
+[^94]: A 17. § (1) bekezdés h) pont záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^95]: A 17. § (1) bekezdés h) pont ha) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^96]: A 17. § (1) bekezdés h) pont hb) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 9. pont c) alpontja szerint módosított szöveg.
+[^97]: A 17. § (1) bekezdés h) pont hc) alpontja a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^98]: A 17. § (1) bekezdés j) pontja a 37/2021. (VIII. 31.) EMMI rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^99]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte, újonnan a 34/2019. (XII. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 17. § (1a) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 32. § (2) bekezdése iktatta be.
+[^101]: A 17. § (2) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 36. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^102]: A 17. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 32. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^103]: A 17. § (6) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 32. §-a iktatta be, szövege a 36/2023. (IX. 5.) BM rendelet 5. §-a szerint módosított szöveg.
+[^104]: A 17. § (7) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 18. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 71. § d) pontja, a 44/2023. (X. 19.) BM rendelet 30. § e) pontja szerint módosított szöveg.

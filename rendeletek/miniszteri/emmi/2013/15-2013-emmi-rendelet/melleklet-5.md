@@ -126,6 +126,6 @@
 
 ## aláírás, pecsét
 
-5. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^215]
+5. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^219]
 
-[^215]: Az 5. melléklet a 8/2014. (I. 30.) EMMI rendelet 27. §-ával megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 26. pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^219]: Az 5. melléklet a 8/2014. (I. 30.) EMMI rendelet 27. §-ával megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 26. pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja, a 34/2025. (VIII. 18.) BM rendelet 12. §-a, 14. § b) és c) pontja szerint módosított szöveg.
