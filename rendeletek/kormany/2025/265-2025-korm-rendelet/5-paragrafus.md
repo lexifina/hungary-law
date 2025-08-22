@@ -1,3 +1,3 @@
-5. § A METÁR rendelet a következő 27. §-sal egészül ki:
+5. §[^6]
 
-„27. § E rendeletnek a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet, valamint a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 265/2025. (VIII. 13.) Korm. rendelettel (a továbbiakban: MódR3.) megállapított 14. § (2a)–(2c) és (7) bekezdését a MódR3. hatálybalépésekor fennálló támogatási jogosultságokra is alkalmazni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
