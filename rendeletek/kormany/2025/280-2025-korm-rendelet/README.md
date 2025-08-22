@@ -1,0 +1,9 @@
+# 280/2025. (VIII. 21.) Korm. rendelet
+
+a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet, valamint a villamosenergia tárgyú kormányrendeletek módosításáról szóló 466/2024. (XII. 30.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-280-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-08-22 | 2025-280-20-22.1 | 280/2025. (VIII. 21.) Korm. rendelet |
