@@ -1,4 +1,4 @@
-7/S. §[^80] (1) A 2. mellékletben foglalt táblázat 45. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/S. §[^81] (1) A 2. mellékletben foglalt táblázat 45. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -14,4 +14,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és
 
 (3) A 2. mellékletben foglalt táblázat 45. sorában meghatározott beruházással kapcsolatban a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározottakkal ellentétben 30 darab személygépkocsi elhelyezését kell biztosítani.
 
-[^80]: A 7/S. §-t az 525/2021. (IX. 8.) Korm. rendelet 2. §-a iktatta be.
+[^81]: A 7/S. §-t az 525/2021. (IX. 8.) Korm. rendelet 2. §-a iktatta be.

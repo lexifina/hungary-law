@@ -1,4 +1,4 @@
-5/B. §[^24] (1) A 2. mellékletben foglalt táblázat 102. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:102 mezőjében megjelölt ingatlanokon, illetve ezen ingatlanokból a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/B. §[^25] (1) A 2. mellékletben foglalt táblázat 102. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:102 mezőjében megjelölt ingatlanokon, illetve ezen ingatlanokból a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben meghatározott eltérésekkel kell alkalmazni, és
 
@@ -26,4 +26,4 @@ i) az előkert mérete 0 méter,
 
 j) az oldalkert és a hátsókert mérete 5 méter.
 
-[^24]: Az 5/B. §-t a 71/2024. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^25]: Az 5/B. §-t a 71/2024. (III. 28.) Korm. rendelet 1. §-a iktatta be.

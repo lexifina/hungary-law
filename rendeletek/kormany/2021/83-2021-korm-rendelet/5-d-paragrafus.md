@@ -1,4 +1,4 @@
-5/D. §[^26] (1) A 2. mellékletben foglalt táblázat 104. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
+5/D. §[^27] (1) A 2. mellékletben foglalt táblázat 104. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési eszköz előírásait, valamint a településrendezési és építési követelményekről szóló kormányrendelet előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -34,4 +34,4 @@ kb) rézsű, támfal, zöldfelülettel futtatott ferde támfal,
 
 azzal, hogy ahol funkcionálisan és a tereprendezés során lehetséges, zöldfelületet kell létesíteni.
 
-[^26]: Az 5/D. §-t a 149/2025. (VI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^27]: Az 5/D. §-t a 149/2025. (VI. 19.) Korm. rendelet 1. §-a iktatta be.
