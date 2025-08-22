@@ -1,0 +1,3 @@
+4. § A 396/2023. (VIII. 24.) Korm. rendelet 14. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A (2) bekezdés f) és g) pontjának alkalmazása során az érintett szervezetnek az elállás okáért való felelősség alóli mentesülésére nézve a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerződésszegéssel okozott károkért való felelősség szabályait kell alkalmazni, azzal, hogy az előreláthatóság tekintetében a beszerzési, a rendkívüli beszerzési vagy a kiegészítő beszerzési igény 9. § (1) bekezdés b), c) és d) pontja szerinti, Központi beszerző szerv részére történő megküldésének időpontját kell figyelembe venni.”
