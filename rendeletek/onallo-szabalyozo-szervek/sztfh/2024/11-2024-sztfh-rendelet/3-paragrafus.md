@@ -1,10 +1,8 @@
-3. § (1) A természetes személy kérelmező esetén a 2. § szerinti kérelem tartalmazza
+3. § (1)[^2] A természetes személy kérelmező esetén a 2. § szerinti kérelem tartalmazza
 
-a) a természetes személy kérelmező családi és utónevét, születési családi és utónevét, születési helyét, születési idejét, állampolgárságát, adóazonosító jelét,
+a) a természetes személy kérelmező családi és utónevét, születési családi és utónevét, születési helyét, születési idejét, állampolgárságát, adóazonosító jelét és
 
-b) a természetes személy kérelmező postacímét, telefonszámát, elektronikus levelezési címét és
-
-c) az ESG törvény 41. § (2) bekezdés 2. pontja szerinti adatokat.
+b) a természetes személy kérelmező postacímét, telefonszámát, elektronikus levelezési címét.
 
 (2) Ha a természetes személy kérelmező az ESG törvény szerinti ESG tanácsadói tevékenységet (a továbbiakban: ESG tanácsadói tevékenység) munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében vagy személyesen közreműködő tagként kívánja folytatni, a 2. § szerinti kérelem tartalmazza ezt a tényt és – feltéve, hogy a jogviszony már fennáll – a természetes személy kérelmezőt munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztató személy nevét, adószámát vagy annak a betéti társaságnak, közkereseti társaságnak a nevét, adószámát is, amelynek a természetes személy kérelmező a személyesen közreműködő tagja.
 
@@ -29,3 +27,5 @@ d) az NGM rendelet 2. § (2) bekezdés e) pontja szerinti követelmény teljesí
 e) az NGM rendelet 2. § (2) bekezdés f) pontja esetében – ha a természetes személy kérelmező nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – az állami adó- és vámhatóság nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó adótartozásról szóló – a kérelem benyújtásának időpontjától számított 30 napnál nem régebbi – adóigazolással
 
 igazolja.
+
+[^2]: A 3. § (1) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 4. §-ával megállapított szöveg.
