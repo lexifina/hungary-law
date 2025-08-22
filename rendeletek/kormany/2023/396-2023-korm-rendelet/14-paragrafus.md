@@ -1,12 +1,12 @@
 14. § (1) Az érintett szervezet a Központi beszerző szervnek beszerzési díjat fizet
 
-a)[^16] a 11. § (8) bekezdés a) pontja szerinti esetben,
+a)[^34] a 11. § (8) bekezdés a) pontja szerinti esetben,
 
 b) a 11. § (8) bekezdés c) pontja szerinti esetben és
 
 c) a 11. § (10) bekezdése szerinti esetben.
 
-(2)[^17] A beszerzési díj mértéke
+(2)[^35] A beszerzési díj mértéke
 
 a) eredményesen lefolytatott, nettó 1 millió forintot el nem érő becsült értékű képzési beszerzési eljárás alapján kötött szerződés általános forgalmi adó nélkül számított értékének 10%-a; eredménytelen képzési beszerzési eljárás esetén – amennyiben az eredménytelenség nem olyan okból következett be, amelyért a Központi beszerző szerv felelős – a képzési beszerzési eljárás becsült értékének 5%-a;
 
@@ -20,7 +20,7 @@ e) a Kbt. 105. §-a szerinti keretmegállapodás alapján történő képzési b
 
 f) ha a Központi beszerző szerv a beszerzési igény megvalósításához a 11. § (8) bekezdés a) pontja alapján járult hozzá, és az érintett szervezet a beszerzési igényétől a döntés rögzítését követően, de a szakmai előkészítés megkezdését megelőzően eláll, akkor a képzési beszerzési eljárás becsült értékének 0,5%-a, de legfeljebb nettó négyszázezer forint, kivéve, ha az elállás olyan okból következett be, amelyért az érintett szervezet nem felelős;
 
-g) ha a Központi beszerző szerv a beszerzési igény megvalósításához a 11. § (8) bekezdés a) pontja alapján járult hozzá, és az érintett szervezet a beszerzési igényétől a szakmai előkészítés megkezdését követően eláll, akkor a képzési beszerzési eljárás előkészítéséért a c) és a d) pont szerint fizetendő díj 50%-a, kivéve, ha az elállás olyan okból következett be, amelyért az érintett szervezet nem felelős;
+g)[^36] ha a Központi beszerző szerv a beszerzési igény megvalósításához a 11. § (8) bekezdés a) pontja alapján járult hozzá, és az érintett szervezet a beszerzési igényétől a szakmai előkészítés megkezdését követően eláll, akkor a képzési beszerzési eljárás előkészítéséért az eredményesen lefolytatott képzési beszerzési eljárások esetében az a)–e) pont szerint fizetendő díj 50%-a (beszerzési díjalapként a képzési beszerzési eljárás becsült értékét figyelembe véve), kivéve, ha az elállás olyan okból következett be, amelyért az érintett szervezet nem felelős;
 
 h) ha a Központi beszerző szerv a beszerzési igény kapcsán a 11. § (10) bekezdése szerinti döntést hoz, akkor az érintett szervezet által benyújtott beszerzési igény becsült értékének 0,5%-a, de legalább nettó kétszázezer, legfeljebb nettó négyszázezer forint;
 
@@ -32,18 +32,19 @@ j) a 11. § (8) bekezdés c) pontja szerinti döntés esetén az eljárás becs�
 
 (4) Ha az érintett szervezet eredménytelen képzési beszerzési eljáráshoz kapcsolódó beszerzési díj fizetésére köteles, akkor az ismételten lefolytatott eredményes képzési beszerzési eljárás után fizetendő beszerzési díj mértékét csökkenti az eredménytelen képzési beszerzési eljáráshoz kapcsolódóan megfizetett beszerzési díj.
 
-(5)[^18]
+(5)[^37] A (2) bekezdés f) és g) pontjának alkalmazása során az érintett szervezetnek az elállás okáért való felelősség alóli mentesülésére nézve a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerződésszegéssel okozott károkért való felelősség szabályait kell alkalmazni, azzal, hogy az előreláthatóság tekintetében a beszerzési, a rendkívüli beszerzési vagy a kiegészítő beszerzési igény 9. § (1) bekezdés b), c) és d) pontja szerinti, Központi beszerző szerv részére történő megküldésének időpontját kell figyelembe venni.
 
-(6)[^19]
+(6)[^38]
 
 (7) Ha az érintett szervezet az eljárás megindítását követően vonja vissza igényét, akkor a beszerzési díj mértékét az eredménytelen eljárás szabályai szerint kell megállapítani. A (4) bekezdés szerinti esetben csökkenthető a díj mértéke.
 
 (8) A Központi beszerző szerv tevékenységével összefüggő bevételei a Központi beszerző szerv saját bevételét képezik.
 
-(9)[^20] Ha az érintett szervezet a Központi beszerző szervnek fizetendő beszerzési díj teljesítésével késedelembe esik, köteles a Központi beszerző szervnek késedelmi kamatot fizetni, a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:155. § (1) bekezdése szerinti mértékben.
+(9)[^39] Ha az érintett szervezet a Központi beszerző szervnek fizetendő beszerzési díj teljesítésével késedelembe esik, köteles a Központi beszerző szervnek késedelmi kamatot fizetni, a Ptk. 6:155. § (1) bekezdése szerinti mértékben.
 
-[^16]: A 14. § (1) bekezdés a) pontja a 126/2024. (VI. 14.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^17]: A 14. § (2) bekezdése a 126/2024. (VI. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^18]: A 14. § (5) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^19]: A 14. § (6) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^20]: A 14. § (9) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^34]: A 14. § (1) bekezdés a) pontja a 126/2024. (VI. 14.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^35]: A 14. § (2) bekezdése a 126/2024. (VI. 14.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^36]: A 14. § (2) bekezdés g) pontja a 278/2025. (VIII. 21.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^37]: A 14. § (5) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte, újonnan a 278/2025. (VIII. 21.) Korm. rendelet 4. §-a iktatta be.
+[^38]: A 14. § (6) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^39]: A 14. § (9) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 278/2025. (VIII. 21.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
