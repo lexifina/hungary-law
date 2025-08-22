@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-29-20-2
 | --- | --- | --- |
 | 2024-08-09 | 2024-29-20-2X.1 | 29/2024. (VIII. 8.) NGM rendelet |
 | 2025-06-30 | 2024-29-20-2X.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-08-22 | 2024-29-20-2X.3 | 27/2025. (VIII. 21.) NGM rendelet |

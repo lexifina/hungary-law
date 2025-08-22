@@ -20,7 +20,7 @@ a) legalább két olyan természetes személyt foglalkoztat, aki a következő k
 
 aa) szerepel az ESG tanácsadók nyilvántartásában, és
 
-ab) a jogi személy ügyféllel legalább heti 30 órás munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
+ab)[^1] a jogi személy ügyféllel legalább heti 30 órás munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, vagy a jogi személy ügyfélnek a személyesen közreműködő tagja;
 
 b) nem áll csődeljárás, végelszámolás, kényszertörlési, illetve felszámolási eljárás hatálya alatt;
 
@@ -32,7 +32,7 @@ e) nincs érvényben vele szemben az Európai Bizottságnak valamely támogatás
 
 f) nincs esedékessé vált és meg nem fizetett köztartozása.
 
-(4) A (3) bekezdés a) pontja szerinti követelmény egy ESG tanácsadóként nyilvántartásba vett természetes személy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban történő alkalmazásával is teljesíthető, ha a betéti társaság vagy a közkereseti társaság ügyfél személyesen közreműködő tagja (a továbbiakban: személyesen közreműködő tag) nyilvántartásba vett ESG tanácsadó.
+(4)[^2]
 
 (5) ESG tanácsadói tevékenységet nem folytathat
 
@@ -45,3 +45,6 @@ c) az a) pont szerinti személy tulajdonában álló jogi személy; vagy
 d) olyan jogi személy, amelynek vezető tisztségviselője, munkavállalója vagy személyesen közreműködő tagja az a) pont szerinti személy.
 
 (6) Ha a természetes személy ügyfél az ESG tanácsadói tevékenységet egyéni vállalkozói jogviszonyban kívánja folytatni, abban az esetben is a természetes személy ügyfélre meghatározott követelményeknek kell megfelelnie.
+
+[^1]: A 2. § (3) bekezdés a) pont ab) alpontja a 27/2025. (VIII. 21.) NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (4) bekezdését a 27/2025. (VIII. 21.) NGM rendelet 4. § a) pontja hatályon kívül helyezte.

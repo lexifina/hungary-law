@@ -18,7 +18,7 @@ a) legalább két olyan természetes személyt foglalkoztat, aki a következő k
 
 aa) szerepel az ESG tanácsadók nyilvántartásában, és
 
-ab) a jogi személy ügyféllel legalább heti 30 órás munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
+ab)[^3] a jogi személy ügyféllel legalább heti 30 órás munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, vagy a jogi személy ügyfélnek a személyesen közreműködő tagja;
 
 b) nem áll csődeljárás, végelszámolás, kényszertörlési, illetve felszámolási eljárás hatálya alatt;
 
@@ -40,7 +40,7 @@ hb) – ha az akkreditált státusza megújításra került – az akkreditáci�
 
 a kérelem benyújtásáig terjedő időszakban összesen legalább nettó 40 000 000 Ft árbevételt szerzett.
 
-(4) A (3) bekezdés a) pontja szerinti követelmény egy ESG tanácsadóként nyilvántartásba vett természetes személy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban történő alkalmazásával is teljesíthető, ha a személyesen közreműködő tag nyilvántartásba vett ESG tanácsadó.
+(4)[^4]
 
 (5) A (3) bekezdés h) pontja szerinti követelmény teljesítettnek tekintendő abban az esetben is, ha a jogi személy ügyfél
 
@@ -53,3 +53,6 @@ a kérelem benyújtásáig terjedő időszakban összesen legalább 1000 ESG tan
 (6) Ha a természetes személy ügyfél az ESG tanácsadói tevékenységét egyéni vállalkozói jogviszonyban folytatja, az akkreditált státusz megújítása során a természetes személy ügyfélre meghatározott követelményeknek kell megfelelnie.
 
 (7) Ha az ESG tanácsadó nem újította meg az akkreditációját, akkor az akkreditált státusz lejártát követő 2 éven belül benyújtott akkreditációs kérelemre az (1)–(6) bekezdés szabályait kell alkalmazni.
+
+[^3]: A 4. § (3) bekezdés a) pont ab) alpontja a 27/2025. (VIII. 21.) NGM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § (4) bekezdését a 27/2025. (VIII. 21.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
