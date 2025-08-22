@@ -21,5 +21,3 @@ f) a pénzügyi biztosítékokról szóló megállapodásokról szóló, 2002. j
 g) a nyilvános vételi ajánlatról szóló, 2004. április 21-i 2004/25/EK európai parlamenti és tanácsi irányelvnek;
 
 h) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban című, 2007. július 11-i 2007/36/EK európai parlament és a tanácsi irányelvnek;
-
-i) a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló 98/26/EK irányelvnek és a pénzügyi biztosítékokról szóló megállapodásokról szóló 2002/47/EK irányelvnek a kapcsolódó rendszerek és hitelkövetelések tekintetében történő módosításáról szóló, 2009. május 6-i 2009/44/EK európai parlamenti és tanácsi irányelvnek;
