@@ -2,4 +2,6 @@
 
 (2) Az (1) bekezdés szerinti tanúsítványt olyan szervezet állíthatja ki, amelyet a Hatóság az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló SZTFH rendelet szerinti „magas” megbízhatósági szintű kiberbiztonsági tanúsítvány kiállítására vonatkozó feltételeknek megfelelő megfelelőségértékelő szervezetként nyilvántartásba vett.
 
-(3) Az (1) bekezdésben meghatározott tanúsítvány alapján nyilvántartásba vett ESG szoftver tekintetében a 10. § (3) bekezdése szerinti határozatot 2025. november 1-jéig kell benyújtani a Hatóság részére a 10. § (2) bekezdése szerinti követelmény teljesítésének igazolására. Az igazolás elmulasztása esetén az ESG szoftvert a Hatóság törli a nyilvántartásából.
+(3)[^3] Az (1) bekezdésben meghatározott tanúsítvány alapján nyilvántartásba vett ESG szoftver tekintetében a 10. § (3) bekezdése szerinti határozatot 2026. november 1-jéig kell benyújtani a Hatóság részére a 10. § (2) bekezdése szerinti követelmény teljesítésének igazolására. Az igazolás elmulasztása esetén az ESG szoftvert a Hatóság törli a nyilvántartásából.
+
+[^3]: A 12. § (3) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 7. §-a szerint módosított szöveg.
