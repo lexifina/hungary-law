@@ -1,5 +1,5 @@
 ## 5. A pedagógusok teljesítményértékeléséről szóló 18/2024. (IV. 4.) BM rendelet módosítása
 
-18. § A pedagógusok teljesítményértékeléséről szóló 18/2024. (IV. 4.) BM rendelet (a továbbiakban: R3.) 4. § (3) bekezdése a következő d) ponttal egészül ki:
+18. §[^18]
 
-[Az értékelést]
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -18,6 +18,6 @@
 
 ## 1. A nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet módosítása
 
-1. § A nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet (a továbbiakban: R1.) 4. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-[Az iskola, kollégium SZMSZ-e az (1) bekezdésben foglaltakon kívül]
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

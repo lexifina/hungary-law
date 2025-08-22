@@ -1,3 +1,3 @@
-4. § Az R1. 149. §-a a következő (5) bekezdéssel egészül ki:
+4. §[^4]
 
-„(5) Ha az intézményellenőrzés szakértői értékelésének eredménye 70% vagy az alatti, akkor szaktanácsadó kirendeléséről a hivatal dönthet. Egyházi vagy nemzetiségi önkormányzati fenntartású intézmény esetén a hivatal szaktanácsadó kirendelését megelőzően beszerzi az egyházi intézményfenntartó vagy a nemzetiségi önkormányzat által fenntartott pedagógiai-szakmai szolgáltató intézmény véleményét.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

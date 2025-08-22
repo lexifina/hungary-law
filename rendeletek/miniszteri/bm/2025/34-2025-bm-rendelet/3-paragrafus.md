@@ -1,3 +1,3 @@
-3. § Az R1. 133. §-a a következő (2c) bekezdéssel egészül ki:
+3. §[^3]
 
-„(2c) A közösségi szolgálat keretei között a 18. életévüket betöltött tanulók esetében véradási tevékenységre legfeljebb négy óra beszámítható oly módon, hogy egy véradási alkalom 4 óra közösségi szolgálatnak felel meg.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
