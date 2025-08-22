@@ -12,21 +12,19 @@ ad) rendelkezik a sérülékenységvizsgálat lefolytatásához szükséges adat
 
 b) „jelentős” vagy „magas” biztonsági osztály esetén az a) pontban foglalt feltételeknek való megfelelésen túl a sérülékenységvizsgálat lefolytatásához a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló rendelete szerinti „jelentős” vagy „magas” megbízhatósági szintre nyilvántartásba vett vizsgáló laboratóriumot vesz igénybe.
 
-(2) A sérülékenységvizsgálat végzésére jogosult természetes személynek rendelkeznie kell
+(2)[^1] A sérülékenységvizsgálat végzésére jogosult természetes személynek rendelkeznie kell
 
-a) a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló miniszteri rendelet szerinti műszaki vagy informatika képzési területen felsőfokú végzettséggel és
+a) a felsőoktatásban szerezhető képesítések jegyzékéről és az új képzések létesítéséről szóló miniszteri rendelet szerinti műszaki vagy informatika képzési területen szerzett felsőfokú végzettséggel, amelynek szakirányú képzése hálózatbiztonsági, kiberbiztonsági vagy azzal egyenértékű információbiztonsági területre irányul, vagy
 
 b) olyan képzettséggel, illetve képesítéssel, amely alapján alkalmas a következő tevékenységek közül legalább kettő végzésére:
 
-ba) számítógépes kódok, számítógépes programok fejlesztésére,
+ba) elektronikus információs rendszerek gyenge pontjainak feltárása és azok kihasználhatóságának ellenőrzése;
 
-bb) az elektronikus információs rendszer gyenge pontjainak feltárására és kihasználhatóságának ellenőrzésére,
+bb) webes alkalmazások sérülékenységeinek azonosítása;
 
-bc) a webes alkalmazások sérülékenységei feltárására,
+bc) vezeték nélküli hozzáférési és kapcsolódási pontok felkutatása, feltérképezése, a használt titkosítási eljárások elemzése, valamint a titkosítási kulcsok visszafejthetőségének ellenőrzése;
 
-bd) vezeték nélküli hozzáférési és kapcsolódási pontok keresésére, feltérképezésére, titkosítási eljárások elemzésére, titkosítási kulcsok visszafejthetőségének ellenőrzésére,
-
-be) pszichológiai manipulációs támadások kivitelezésére, illetve tervezésére és megvalósítására.
+bd) pszichológiai manipulációs (social engineering) támadások tervezése és kivitelezése.
 
 (3) A kérelmező a Kiberbiztonsági tv. 57. § (1) bekezdés c) pontja és 57. § (2) bekezdés a) és c) pontja, valamint az (1) és (2) bekezdés szerinti feltételek teljesítését a következő módon igazolja:
 
@@ -57,3 +55,5 @@ j) a (2) bekezdés b) pontja esetében a képzettséget, illetve képesítést i
 (6) Ha a kérelmező a Kiberbiztonsági tv. 57. § (1) bekezdés c) pontja és 57. § (2) bekezdés a) és c) pontja, illetve az (1) és (2) bekezdés szerinti feltételeket nem teljesíti, a kiberbiztonsági hatóság a nyilvántartásba vételre irányuló kérelmet elutasítja. A kérelmező a hatósági döntés véglegessé válását követő 90 napon belül új nyilvántartásba vételi kérelmet nem nyújthat be a korábbival megegyező tartalommal.
 
 (7) A (2) bekezdés b) pontja szerinti követelménynek való megfelelés szempontjából az érvényességi idővel rendelkező képzettség, illetve képesítés csak az érvényességi ideje lejártát megelőzően vehető figyelembe.
+
+[^1]: A 3. § (2) bekezdése a 8/2025. (VIII. 21.) SZTFH rendelet 8. §-ával megállapított szöveg.
