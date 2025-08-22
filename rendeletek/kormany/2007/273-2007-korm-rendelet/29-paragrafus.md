@@ -1,5 +1,6 @@
-29. §[^249] (1) Az engedélyes üzletszabályzatában köteles a felhasználói beadványok kezelésére, valamint a felhasználók panaszai benyújtására vonatkozó részletes szabályokat feltüntetni.
+29. §[^253] (1)[^254] Az engedélyes üzletszabályzatában a felhasználói beadványok egyszerű, gyors és tisztességes kezelésére, valamint a felhasználók panaszai benyújtására vonatkozó részletes szabályokat feltünteti.
 
 (2) A 28. § (3)–(4) bekezdéseiben foglaltakat nem lehet alkalmazni, ha az elosztó és a kereskedő ügyfélszolgálati tevékenységét azonos szervezeti egység vagy szervezet látja el.
 
-[^249]: A Vhr. 29. §-a a 116/2010. (IV. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^253]: A Vhr. 29. §-a a 116/2010. (IV. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^254]: A Vhr. 29. § (1) bekezdése a 280/2025. (VIII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.

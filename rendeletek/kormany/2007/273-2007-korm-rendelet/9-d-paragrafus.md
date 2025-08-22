@@ -1,4 +1,4 @@
-## A hálózatra történő termelői csatlakozás korlátja[^100]
+## A hálózatra történő termelői csatlakozás korlátja[^101]
 
 9/D. § (1) Az átviteli rendszerirányító az üzemi szabályzatban meghatározott objektív és transzparens feltételek szerint a VET 35/A. § (3) bekezdés szerinti elemzés keretében meghatározza a villamosenergia-rendszer üzembiztonsága – így különösen a villamosenergia-rendszer teljesítmény-egyensúlyának és a kiegyenlítő szabályozási kapacitásoknak a biztosíthatósága – szempontjából a villamosenergia-rendszerbe befogadható nap- és szélerőművi teljesítőképesség korlátját.
 
@@ -10,4 +10,4 @@ a) a csatlakozási igény a VET 35/A. § szerinti pályázati eljárásban nyert
 
 b) a villamosműhöz betáplálási teljesítmény igénylése nélkül csatlakozó nap- vagy szélerőművek esetén az igénybejelentő vállalja az üzemi szabályzatban meghatározott műszaki feltételeket, amely a villamosenergia-rendszer teljesítmény egyensúlyának fenntartását biztosítják.
 
-[^100]: A Vhr. „A hálózatra történő termelői csatlakozás korlátja” alcím (9/D. §) a 466/2024. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^101]: A Vhr. „A hálózatra történő termelői csatlakozás korlátja” alcím (9/D. §) a 466/2024. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
