@@ -1,3 +1,3 @@
-3. § A 29/2024. (VIII. 8.) NGM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(2) 2026. június 30-ig az a természetes személy ügyfél is akkreditálható, aki az ESG tanácsadói akkreditálás iránti kérelmét 2025. június 29. napját követően nyújtotta be, és nem rendelkezik a 2. § (2) bekezdés b) pontja szerinti ESG Tanácsadó képesítéssel.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

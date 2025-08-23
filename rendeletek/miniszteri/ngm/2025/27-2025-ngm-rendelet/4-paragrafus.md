@@ -1,5 +1,3 @@
-4. § Hatályát veszti a 29/2024. (VIII. 8.) NGM rendelet
+4. §[^5]
 
-a) 2. § (4) bekezdése,
-
-b) 4. § (4) bekezdése.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
