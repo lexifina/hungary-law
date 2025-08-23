@@ -1,3 +1,3 @@
-10. § A Vet. Vhr. 112/B. §-a a következő (4) bekezdéssel egészül ki:
+10. §[^13]
 
-„(4) A kábelcserét a helyi önkormányzat – a működési területéhez tartozó belterületen lévő közintézményi felhasználó és a sportról szóló törvény szerinti sportlétesítmény, valamint műemlék felújítása esetein túlmenően – a 27. számú mellékletben meghatározott esetekben és feltételekkel kezdeményezheti.”
+[^13]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

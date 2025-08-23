@@ -1,3 +1,3 @@
-12. § A Vet. Vhr. 130. § (1) bekezdése a következő i) ponttal egészül ki:
+12. §[^17]
 
-(E rendelet)
+[^17]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

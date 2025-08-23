@@ -1,1 +1,3 @@
-17. § Hatályát veszti a villamosenergia tárgyú kormányrendeletek módosításáról szóló 466/2024. (XII. 30.) Korm. rendelet 38. § (5) bekezdése.
+17. §[^31]
+
+[^31]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

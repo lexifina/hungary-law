@@ -1,3 +1,5 @@
 ## 2. A villamosenergia tárgyú kormányrendeletek módosításáról szóló 466/2024. (XII. 30.) Korm. rendelet módosítása
 
-16. § A villamosenergia tárgyú kormányrendeletek módosításáról szóló 466/2024. (XII. 30.) Korm. rendelet 38. § (1) bekezdésében a „(2)–(5) bekezdésben” szövegrész helyébe a „(2)–(4) bekezdésben” szöveg lép.
+16. §[^30]
+
+[^30]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -4,12 +4,9 @@
 
 ## 1. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-1. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 1. § (1) bekezdése a következő 4. ponttal egészül ki:
+1. § (1)[^1]
 
-(E rendelet alkalmazásában:)
+(2)[^2]
 
-## „4. fedezeti stratégia: a villamosenergia-kereskedő belső szervezeti és működési rendjére vonatkozó azon dokumentum, amely bemutatja a határozott idejű, fix árat tartalmazó villamosenergia-vásárlási szerződés teljesítéséhez szükséges fedezetnek a nagykereskedelmi piaci árak változásától független rendelkezésre állását biztosító pénzügyi és fizikai eszközöket, valamint rögzíti ezen eszközök igénybevételének szabályait;”
-
-(2)[^1]
-
-[^1]: Az 1. § (2) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (2) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.

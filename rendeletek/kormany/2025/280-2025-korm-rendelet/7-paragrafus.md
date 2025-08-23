@@ -1,3 +1,3 @@
-7. § A Vet. Vhr. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. §[^10]
 
-„(1) Az engedélyes üzletszabályzatában a felhasználói beadványok egyszerű, gyors és tisztességes kezelésére, valamint a felhasználók panaszai benyújtására vonatkozó részletes szabályokat feltünteti.”
+[^10]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

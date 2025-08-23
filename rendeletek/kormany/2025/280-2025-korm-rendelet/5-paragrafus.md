@@ -1,10 +1,9 @@
-5. § (1)[^4]
+5. § (1)[^6]
 
-(2)[^5]
+(2)[^7]
 
-(3) A Vet. Vhr. 21/A. §-a a következő (3c) bekezdéssel egészül ki:
+(3)[^8]
 
-„(3c) A felhasználó kérésére az engedélyes a felhasználói beadványok kezelésére vonatkozó eljárási szabályok szerint világos és közérthető formában levezeti a számlában foglalt, a felhasználó által fizetendő összegek kiszámítását.”
-
-[^4]: Az 5. § (1) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^5]: Az 5. § (2) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^6]: Az 5. § (1) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^7]: Az 5. § (2) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^8]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
