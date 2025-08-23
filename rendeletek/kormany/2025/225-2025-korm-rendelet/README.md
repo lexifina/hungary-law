@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-225-20-
 | --- | --- | --- |
 | 2025-07-25 | 2025-225-20-22.1 | 225/2025. (VII. 24.) Korm. rendelet |
 | 2025-07-26 | 2025-225-20-22.2 | 2010. évi CXXX. törvény |
+| 2025-08-23 | 2025-225-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
