@@ -30,7 +30,10 @@ h) a szakmai képzés esetén az azt megalapozó programkövetelmény számát �
 
 (4)[^71] A mikrotanúsítvány kiállítására a (2) és (3a) bekezdést nem kell alkalmazni.
 
+(5)[^72] Mikrotanúsítványt adó képzés esetén, ha a képzés tartalma teljes egészében megegyezik a mikrotanúsítvány kiállításának alapjául szolgáló tananyag – egyetlen szakképzési tankönyv vagy annak egyetlen fejezete – tartalmával, és a képzés nem minősül az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzésnek, akkor az Fktv. 11. § (2) bekezdés c) pontja szerinti tanúsítványt a FAR-ból kiállított mikrotanúsítvány teljeskörűen helyettesíti.
+
 [^68]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^69]: A 22. § (1) bekezdése a 647/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^70]: A 22. § (3a) bekezdését a 631/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 492/2024. (XII. 31.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^71]: A 22. § (4) bekezdését a 492/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^72]: A 22. § (5) bekezdését a 225/2025. (VII. 24.) Korm. rendelet iktatta be.
