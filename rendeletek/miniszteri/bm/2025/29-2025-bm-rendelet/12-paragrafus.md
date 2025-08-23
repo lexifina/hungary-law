@@ -2,23 +2,18 @@
 
 12. § A személyes gondoskodást végző személyek adatainak működési nyilvántartásáról szóló 8/2000. (VIII. 4.) SZCSM rendelet
 
-a)[^22]
+a) 3. § a) pontjában az „az 1. számú melléklet szerinti” szövegrész helyébe az „a szociálpolitikáért felelős miniszter (a továbbiakban: miniszter) által jóváhagyott és a nyilvántartó honlapján, valamint a Szociális Ágazati Portálon közzétett” szöveg,
 
-b)[^23]
+b) 3. § b) pontjában a „2. számú melléklet szerinti” szövegrész helyébe a „miniszter által jóváhagyott és a nyilvántartó honlapján, valamint a Szociális Ágazati Portálon közzétett” szöveg,
 
-c)[^24]
+c) 4. § (2) bekezdésében az „az 1. számú melléklet szerinti nyomtatványokat a 3. számú melléklet szerinti” szövegrész helyébe az „a 3. § a) pontja szerinti adatlapot a miniszter által jóváhagyott és a nyilvántartó honlapján, valamint a Szociális Ágazati Portálon közzétett” szöveg,
 
-d)[^25]
+d) 6. § (1) bekezdésében a „4. számú melléklet szerinti” szövegrész helyébe a „miniszter által jóváhagyott és a nyilvántartó honlapján, valamint a Szociális Ágazati Portálon közzétett” szöveg,
 
-e)[^26]
+e)[^22]
 
-f)[^27]
+f) 8. § (1) bekezdésében a „7. számú melléklet szerinti” szövegrész helyébe a „miniszter által jóváhagyott és a nyilvántartó honlapján, valamint a Szociális Ágazati Portálon közzétett” szöveg
 
 lép.
 
-[^22]: A 12. § a) pontja a 17. § (2) bekezdése alapján 2025. augusztus 23-án lép hatályba.
-[^23]: A 12. § b) pontja a 17. § (2) bekezdése alapján 2025. augusztus 23-án lép hatályba.
-[^24]: A 12. § c) pontja a 17. § (2) bekezdése alapján 2025. augusztus 23-án lép hatályba.
-[^25]: A 12. § d) pontja a 17. § (2) bekezdése alapján 2025. augusztus 23-án lép hatályba.
-[^26]: A 12. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 12. § f) pontja a 17. § (2) bekezdése alapján 2025. augusztus 23-án lép hatályba.
+[^22]: A 12. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
