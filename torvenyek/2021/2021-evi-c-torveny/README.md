@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-100-00-00
 | 2025-01-15 | 2023. évi LXI. törvény | 2021-100-00-00.3 |
 | 2025-01-16 | 2010. évi CXXX. törvény | 2021-100-00-00.4 |
 | 2025-06-26 | 2025. évi LXVII. törvény | 2021-100-00-00.9 |
+| 2025-08-23 | 2025. évi LXVII. törvény | 2021-100-00-00.10 |
