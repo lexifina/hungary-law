@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-8-20-85
 | 2023-01-01 | 2000-8-20-85.18 | 16/2003. (IV. 9.) ESZCSM rendelet |
 | 2024-07-01 | 2000-8-20-85.19 | 23/2024. (V. 9.) BM rendelet |
 | 2025-07-25 | 2000-8-20-85.20 | 29/2025. (VII. 24.) BM rendelet |
+| 2025-08-23 | 2000-8-20-85.21 | 29/2025. (VII. 24.) BM rendelet |
