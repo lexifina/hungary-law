@@ -1,0 +1,1 @@
+5. § Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 1. cikk b) pontjának való megfelelést szolgálja.
