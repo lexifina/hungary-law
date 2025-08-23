@@ -1,3 +1,3 @@
-2. § Az R. a következő 78. §-sal egészül ki:
+2. §[^3]
 
-„78. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 279/2025. (VIII. 21.) Korm. rendelettel (a továbbiakban: Módr70.) megállapított 4. § (2a) bekezdését és 2. mellékletében foglalt táblázat 106. sorát a Módr70. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
