@@ -1,1 +1,3 @@
-3. § Az R1. 2. § (2) bekezdés c) pontjában az „és cégjegyzékszámát,,” szövegrész helyébe az „és cégjegyzékszámát,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

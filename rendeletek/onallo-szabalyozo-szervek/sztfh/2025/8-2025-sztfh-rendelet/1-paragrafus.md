@@ -18,6 +18,6 @@
 
 ## 1. Az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásáról szóló23/2023. (XII. 19.) SZTFH rendelet módosítása
 
-1. § Az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásáról szóló 23/2023. (XII. 19.) SZTFH rendelet (a továbbiakban: R1.) 2. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[Az (1) bekezdés szerinti kérelem tartalmazza]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
