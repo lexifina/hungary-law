@@ -8,7 +8,7 @@
 
 3. jogi személyiséggel nem rendelkező szervezet: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti nem jogi személy és nem természetes személy jogalany;
 
-4. mentesítés: a pénzügyi és vagyoni korlátozó intézkedés alá vont pénzeszköz, illetve gazdasági erőforrás feletti rendelkezési jog gyakorlásának eseti, célhoz kötött engedélyezése;
+4. mentesítés: a pénzügyi és vagyoni korlátozó intézkedés alá vont pénzeszköz, illetve gazdasági erőforrás feletti rendelkezési jog gyakorlásának engedélyezése;
 
 5. pénzügyi és vagyoni korlátozó intézkedés:
 
@@ -28,4 +28,12 @@ c) uniós jogi aktusban, illetve az ENSZ BT határozatban meghatározott esetekb
 
 10. uniós jogi aktus: az Európai Unió Működéséről Szóló Szerződés 75. cikke, illetve 215. cikke alapján elfogadott uniós jogi aktusok, valamint az e jogi aktusok felhatalmazása alapján elfogadott jogi aktusok, illetve intézkedések;
 
-11. vagyoni nyilvántartás: a külön jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása.
+11. vagyoni nyilvántartás: a jogszabályok szerinti ingatlan-nyilvántartás, cégnyilvántartás, járműnyilvántartás, úszólétesítmény-lajstrom, légijármű-lajstrom, kulturális örökség hatósági nyilvántartása;
+
+12. pénzügyi és vagyoni korlátozó intézkedéssel érintett személy: olyan természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, akinek vagy amelynek a jogos érdekét a pénzügyi és vagyoni korlátozó intézkedés érinti, de nem minősül a pénzügyi és vagyoni korlátozó intézkedés alanyának;
+
+13. pénzügyi és vagyoni korlátozó intézkedés közvetett alanya: a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban, illetve ENSZ BT határozatban megnevezett természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet
+
+a) tulajdonában álló vagy által ellenőrzött jogi személy, jogi személyiséggel nem rendelkező szervezet, vagy
+
+b) által ellenőrzött természetes személy.

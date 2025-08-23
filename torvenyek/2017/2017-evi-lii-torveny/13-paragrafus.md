@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti mentesítés iránti kérelmet a hatósághoz kell benyújtani.
 
-(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya a szolgáltatón keresztül nyújtja be. A kérelemnek tartalmaznia kell a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
+(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya, valamint a pénzügyi és vagyoni korlátozó intézkedéssel érintett személy a szolgáltatón keresztül vagy közvetlenül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
 
 (4) A hatóság
 

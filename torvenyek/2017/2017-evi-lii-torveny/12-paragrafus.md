@@ -2,7 +2,7 @@
 
 (2) Amennyiben a mentesítés a bíróság által elrendelt zárlat feloldására irányul, a mentesítés iránti kérelmet a bíróságnak címezve, a hatósághoz kell benyújtani.
 
-(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya a szolgáltatón keresztül nyújtja be. A kérelemnek tartalmaznia kell a vagyon befagyasztásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
+(3) A kérelmet a pénzügyi és vagyoni korlátozó intézkedés alanya, valamint a pénzügyi és vagyoni korlátozó intézkedéssel érintett személy a szolgáltatón keresztül vagy közvetlenül a hatósághoz nyújtja be. A kérelemnek tartalmaznia kell a vagyon befagyasztásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmához kapcsolódó, rendelkezésre álló összes adatot, tényt, körülményt.
 
 (4) A hatóság
 
