@@ -14,6 +14,6 @@ legyen.
 
 (2) A szolgáltató olyan műszaki, szervezési és szervezeti intézkedésekkel köteles gondoskodni az adatkezelés biztonságának védelméről, amely az adatkezeléssel kapcsolatban jelentkező kockázatoknak megfelelő védelmi szintet nyújt.
 
-(3)[^2] A szolgáltató a (2) bekezdés szerinti intézkedéseit az Eht. 156. § (8) és (9) bekezdése szerinti legjobb gyakorlatról szóló ajánlás figyelembevételével alakíthatja ki.
+(3)[^4] A szolgáltató a (2) bekezdés szerinti intézkedéseit az Eht. 156. § (8) és (9) bekezdése szerinti legjobb gyakorlatról szóló ajánlás figyelembevételével alakíthatja ki.
 
-[^2]: A 2. § (3) bekezdését a 11/2020. (XII. 11.) NMHH rendelet 2. §-a iktatta be.
+[^4]: A 2. § (3) bekezdését a 11/2020. (XII. 11.) NMHH rendelet 2. §-a iktatta be.

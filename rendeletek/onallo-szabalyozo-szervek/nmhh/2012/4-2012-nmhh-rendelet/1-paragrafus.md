@@ -1,6 +1,6 @@
-## 1. A rendelet hatálya
+## 1.[^1] Általános rendelkezések
 
-1. §[^1] (1) E rendelet hatálya kiterjed
+1. §[^2] (1) E rendelet hatálya kiterjed
 
 a) a Magyarországon nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó természetes személyre, jogi személyre és egyéb szervezetre (a továbbiakban együtt: szolgáltató),
 
@@ -10,4 +10,5 @@ c) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbia
 
 (2) E rendelet hatálya nem terjed ki a titkos információgyűjtésre és a leplezett eszközök alkalmazására törvényben feljogosított szervezetekre, valamint a kormányzati célú hálózat létesítésével és működtetésével összefüggő adatkezelésre.
 
-[^1]: Az 1. § a 11/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. alcím címe a 9/2025. (VIII. 21.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § a 11/2020. (XII. 11.) NMHH rendelet 1. §-ával megállapított szöveg.

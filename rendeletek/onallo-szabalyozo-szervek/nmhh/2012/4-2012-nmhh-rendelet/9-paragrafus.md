@@ -1,6 +1,6 @@
 ## 5. Az azonosítókijelzés és a hívásátirányítás szabályai
 
-9. §[^36] (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltatónak ingyenesen biztosítania kell az előfizető írásbeli kérelme alapján
+9. §[^38] (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltatónak ingyenesen biztosítania kell az előfizető írásbeli kérelme alapján
 
 a) a hívó felhasználónak, hogy hívásonként letilthassa az azonosítója kijelzését a hívott készüléken;
 
@@ -18,4 +18,4 @@ e) a hívott előfizetőnek, hogy megtagadja azon hívások fogadását, amelyek
 
 (4) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató által az e § szerinti, előfizetők és felhasználók számára biztosítandó lehetőségekről köteles ügyfélszolgálatán és internetes honlapja mellett az egyéb szokásos módokon is tájékoztatást adni.
 
-[^36]: A 9. § a 11/2020. (XII. 11.) NMHH rendelet 5. §-ával megállapított szöveg.
+[^38]: A 9. § a 11/2020. (XII. 11.) NMHH rendelet 5. §-ával megállapított szöveg.
