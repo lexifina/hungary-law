@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-93-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-05-19 | 2025-93-20-22.1 | 93/2025. (V. 8.) Korm. rendelet |
+| 2025-08-26 | 2025-93-20-22.2 | 281/2025. (VIII. 25.) Korm. rendelet |
