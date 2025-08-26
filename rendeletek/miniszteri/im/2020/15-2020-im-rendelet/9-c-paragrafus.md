@@ -1,7 +1,0 @@
-9/C. § (1) A válságtámogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) bekezdésben meghatározott kivétellel – nem haladhatja meg a 2 000 000 eurónak megfelelő forintösszeget.
-
-(2) Az e tevékenységekhez összesen nyújtott válságtámogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén a 250 000 eurónak, a halászati és akvakultúra-ágazathoz tartozó vállalkozások esetén a 300 000 eurónak megfelelő forintösszeget.
-
-(3) Ha egy vállalkozás több ágazatban is folytat tevékenységet, és ezekre az (1) és (2) bekezdés szerinti eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást köteles vezetni, amely biztosítja az érintett tevékenységekre vonatkozó, (1) és (2) bekezdés szerinti felső határok betartását és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 000 000 eurónak megfelelő forintösszeget.
-
-(4) Ha egy vállalkozás a (2) bekezdés szerinti ágazatokban tevékenykedik, a teljes maximális támogatási összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
