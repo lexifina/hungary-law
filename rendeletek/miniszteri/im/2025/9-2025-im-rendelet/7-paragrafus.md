@@ -1,0 +1,1 @@
+7. § Az előirányzatok felhasználása során felmerülő költségek, így különösen a Magyar Államkincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét a felmerülés helye szerinti előirányzat terhére kell biztosítani.
