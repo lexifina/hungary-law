@@ -1,5 +1,3 @@
-22. § Hatályát veszti
+22. §[^2]
 
-a) a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2015. (V. 29.) IM rendelet, valamint
-
-b) a központi kezelésű előirányzatok kezeléséről és felhasználásának szabályairól szóló 15/2020. (XII. 3.) IM rendelet.
+[^2]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
