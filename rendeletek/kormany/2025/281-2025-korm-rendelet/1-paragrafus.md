@@ -4,4 +4,6 @@
 
 ## 1. Az élelmiszerárak csökkentése érdekében szükséges intézkedésekről szóló 42/2025. (III. 11.) Korm. rendelet módosítása
 
-1. § Az élelmiszerárak csökkentése érdekében szükséges intézkedésekről szóló 42/2025. (III. 11.) Korm. rendelet 9. §-ában az „augusztus 31-én” szövegrész helyébe a „november 30-án” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
