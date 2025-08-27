@@ -1,3 +1,3 @@
-3. § Az R. a következő 18. §-sal egészül ki:
+3. §[^4]
 
-„18. § E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 283/2025. (VIII. 25.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 3. § (5) bekezdés h) és i) pontját, 3. § (25) bekezdését, 7. mellékletét, valamint módosított 3. § (1) bekezdését, 3. § (4a) bekezdését, 3. § (5) bekezdés b) és e) pontját, 3. § (15) bekezdését, 3. mellékletét a Módr12. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
