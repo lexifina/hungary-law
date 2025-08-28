@@ -2,8 +2,8 @@
 
 ## EGYES TELEPÜLÉSRENDEZÉSI SAJÁTOS JOGINTÉZMÉNYEK
 
-## 31.[^94]
+## 31.[^105]
 
 52. §
 
-[^94]: A 31. alcímet (52. §-t) a 285/2024. (IX. 30.) Korm. rendelet 188. § 14. pontja hatályon kívül helyezte.
+[^105]: A 31. alcímet (52. §-t) a 285/2024. (IX. 30.) Korm. rendelet 188. § 14. pontja hatályon kívül helyezte.

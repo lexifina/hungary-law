@@ -1,4 +1,4 @@
-14. melléklet a 419/2021. (VII. 15.) Korm. rendelethez[^266]
+14. melléklet a 419/2021. (VII. 15.) Korm. rendelethez[^286]
 
 A település szegregált és szegregációval veszélyeztetett területeinek lehatárolásához és térképi ábrázolásához szükséges adatok
 
@@ -30,4 +30,4 @@ A település szegregált és szegregációval veszélyeztetett területeinek le
 
 Kartogram: a szegregált és a szegregációval veszélyeztetett területek kritériumainak megfelelő területeket ábrázolja. A kartogram olyan területeket is megjelöl, melyek eleget tesznek ugyan a szegregációs mutató kritériumának, de az alacsony népességszámuk (kevesebb mint 50 főnél), vagy intézeti háztartásban élők – ideértve kollégium, idősek otthona, hajléktalan szálló – miatt mégsem tekinthetők szegregált és a szegregációval veszélyeztetett területeknek.
 
-[^266]: A 14. mellékletet a 285/2024. (IX. 30.) Korm. rendelet 186. § (10) bekezdése iktatta be.
+[^286]: A 14. mellékletet a 285/2024. (IX. 30.) Korm. rendelet 186. § (10) bekezdése iktatta be.

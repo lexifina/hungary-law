@@ -10,7 +10,7 @@ b) a fás szárú növényfaj vagy növényfajok vonatkozásában csak a telepí
 
 c) területi építészeti követelmény nem állapítható meg, és
 
-d)[^45] a cégérekre, cég- és üzletjelzésekre, a Berendezések épületeken való elhelyezhetőségére vonatkozó településképi követelmény meghatározható.
+d)[^50] a cégérekre, cég- és üzletjelzésekre, a Berendezések épületeken való elhelyezhetőségére vonatkozó településképi követelmény meghatározható.
 
 (4) Honvédelmi és katonai rendeltetésű területet érintően, az érintett államigazgatási szerv egyetértésével, kizárólag a közterületi telekkel azonos telekhatáron álló vagy azzal érintkező épületre határozható meg egyedi építészeti követelmény.
 
@@ -18,4 +18,4 @@ d)[^45] a cégérekre, cég- és üzletjelzésekre, a Berendezések épületeken
 
 (6) A településképi rendelet a rendezési tervben meghatározható követelményeket, jogokat és kötelezettségeket nem tartalmazhat.
 
-[^45]: A 28. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 157. §-ával megállapított szöveg.
+[^50]: A 28. § (3) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 157. §-ával megállapított szöveg.

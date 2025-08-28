@@ -1,3 +1,3 @@
-76. §[^175]
+76. §[^190]
 
-[^175]: A 76. §-t a 10/2023. (I. 19.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^190]: A 76. §-t a 10/2023. (I. 19.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.

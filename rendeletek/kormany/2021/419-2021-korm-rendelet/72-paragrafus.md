@@ -1,4 +1,4 @@
-## 46.[^170] A településterv, a kézikönyv és a településképi rendelet nyilvánosságának szabályai
+## 46.[^183] A településterv, a kézikönyv és a településképi rendelet nyilvánosságának szabályai
 
 72. § (1) A polgármester
 
@@ -10,4 +10,4 @@ feltölti az E-TÉR felületre.
 
 (2) A rendezési terv módosítása esetén az egységes normaszöveget mellékleteivel együtt legkésőbb a módosítás hatálybalépéséig fel kell tölteni az E-TÉR felületre.
 
-[^170]: A 46. alcím (72. §) a 285/2024. (IX. 30.) Korm. rendelet 182. §-ával megállapított szöveg.
+[^183]: A 46. alcím (72. §) a 285/2024. (IX. 30.) Korm. rendelet 182. §-ával megállapított szöveg.

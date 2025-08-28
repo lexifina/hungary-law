@@ -1,7 +1,9 @@
-74. § (1) Ha az önkormányzat szerint az állami főépítész által kiadott záró szakmai vélemény jogszabályba ütközik, a záró szakmai vélemény E-TÉR-be történő feltöltésétől számított 15 napon belül kezdeményezi a miniszternél a záró szakmai vélemény jogi szempontú vizsgálatát, a jogszabálysértés konkrét megjelölésével és a jogszabálysértést tartalmazó irat megküldésével.
+74. § (1)[^186] Ha az önkormányzat szerint az állami főépítész által kiadott záró szakmai vélemény jogszabályba ütközik, a záró szakmai vélemény közlésétől számított 15 napon belül kezdeményezi az országos főépítésznél a záró szakmai vélemény jogi szempontú vizsgálatát, a jogszabálysértés konkrét megjelölésével és a jogszabálysértést tartalmazó irat megküldésével.
 
-(2) Ha a miniszter a záró szakmai véleményben jogszabályi ütközést észlel, 45 napon belül kezdeményezi az állami főépítésznél – a polgármester egyidejű tájékoztatása mellett – a záró szakmai vélemény felülvizsgálatát, a jogszabálysértés megjelölésével. Az állami főépítész kizárólag a megjelölt jogszabálysértés szempontjából vizsgálja felül a záró szakmai véleményt. A felülvizsgálat eredményeként a korábbi záró szakmai véleményét fenntartja vagy módosítja.
+(2)[^187] Ha az országos főépítész a záró szakmai véleményben jogszabályi ütközést észlel, 30 napon belül meghozott, indokolt döntésében a záró szakmai véleményt a jogszerűség biztosítása érdekében módosítja, és a módosító záró véleményt az E-TÉR rendszeren kívül közli az állami főépítésszel és az önkormányzattal. Ilyen esetben a módosító országos főépítészi vélemény az irányadó a településterv elfogadása során.
 
-(3)[^173] Ha a miniszter a záró szakmai véleményben jogszabályi ütközést nem észlel, erről 45 napon belül tájékoztatja az állami főépítészt és az önkormányzatot.
+(3)[^188] Ha az országos főépítész a záró szakmai véleményben nem észlel jogszabályi ütközést, 30 napon belül meghozott, indokolt döntésében a záró szakmai véleményt helybenhagyja, és a döntését az E-TÉR rendszeren kívül közli az állami főépítésszel és az önkormányzattal.
 
-[^173]: A 74. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 59. pontja szerint módosított szöveg.
+[^186]: A 74. § (1) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.
+[^187]: A 74. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^188]: A 74. § (3) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 20. §-ával megállapított szöveg.

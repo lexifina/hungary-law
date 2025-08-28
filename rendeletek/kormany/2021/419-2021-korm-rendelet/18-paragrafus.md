@@ -22,7 +22,7 @@ c) a növekmény b) pont szerinti felhasználással csökkentett mértékét.
 
 (6) Az egyes építési övezetek, övezetek, építési telkek vagy telkek és a különböző felületminőségek biológiai aktivitásértékét az adott terület hektárban mért területnagyságának és a 9. melléklet szerinti értékmutatójának a szorzata adja.
 
-(7) A terület eredeti vagy módosítás előtti biológiai aktivitásértékét – a (9) bekezdésben foglalt kivétellel – a 9. melléklet 1. pontjában megadott értékmutatók alkalmazásával kell kiszámítani
+(7)[^36] Az új beépítésre szánt terület eredeti vagy módosítás előtti biológiai aktivitásértékét – a (9) bekezdésben foglalt kivétellel – a 9. melléklet 1. pontjában megadott értékmutatók alkalmazásával kell kiszámítani
 
 a) hatályos rendezési terv és településrendezési eszköz hiányában a beépített területen a kialakult állapotnak, az egyéb területen az ingatlan-nyilvántartásba bejegyzett művelési ág szerinti övezetnek,
 
@@ -32,13 +32,14 @@ c) hatályos településrendezési eszköz esetében a területfelhasználási e
 
 megfelelően.
 
-(8)[^36] A 9. melléklet 1. pontjában foglalt táblázatban az építési övezetekre megadott értékmutatók a településrendezési és építési követelményekről szóló kormányrendeletben meghatározott legkisebb vagy a 9. melléklet szerinti zöldfelületi arányokra vonatkoznak.
+(8)[^37] A 9. melléklet 1. pontjában foglalt táblázatban az építési övezetekre megadott értékmutatók a településrendezési és építési követelményekről szóló kormányrendeletben meghatározott legkisebb vagy a 9. melléklet szerinti zöldfelületi arányokra vonatkoznak.
 
 (9) A (8) bekezdésben meghatározott legkisebb zöldfelületi aránytól eltérő – kialakult, meglévő vagy újonnan szabályozott – zöldfelület esetén az egyes területek biológiai aktivitásértéke arányosan módosítható, vagy differenciált számítással az adott területen belüli különböző felületminőségekhez tartozó 9. melléklet 2. pontjában foglalt táblázatban meghatározott értékmutatók segítségével pontosítható, helyszíni vizsgálat adatai vagy az új szabályozás szerinti különböző felületek mérete alapján.
 
-(10)[^37] Ha egy terület biológiai aktivitásértéke differenciált számítással került meghatározásra, akkor e terület biológiai aktivitásértéke differenciált számítással módosítható, kivéve, ha a módosítás során a követelmény a legkisebb zöldfelületi érték legkisebb mértékének meghatározásával biztosítható.
+(10)[^38] Ha egy terület biológiai aktivitásértéke differenciált számítással került meghatározásra, akkor e terület biológiai aktivitásértéke differenciált számítással módosítható, kivéve, ha a módosítás során a követelmény a legkisebb zöldfelületi érték legkisebb mértékének meghatározásával biztosítható.
 
 [^34]: A 18. § (1) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 187. § 10. pontja szerint módosított szöveg.
 [^35]: A 18. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 11. pontja szerint módosított szöveg.
-[^36]: A 18. § (8) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 12. pontja szerint módosított szöveg.
-[^37]: A 18. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 13. pontja szerint módosított szöveg.
+[^36]: A 18. § (7) bekezdés nyitó szövegrésze a 284/2025. (VIII. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^37]: A 18. § (8) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 12. pontja szerint módosított szöveg.
+[^38]: A 18. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 187. § 13. pontja szerint módosított szöveg.
