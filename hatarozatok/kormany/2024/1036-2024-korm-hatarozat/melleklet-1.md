@@ -16,7 +16,7 @@
 
 | Felelős: | Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke Szuverenitásvédelmi Hivatal elnöke érintett miniszterek |
 
-| Határidő: | 2025. január 31. |
+| Határidő: | 2025. január 31., a Miniszterelnökség részére biztosított 942 869 000 forint tekintetében 2028. június 30.[^1] |
 
 ## 3. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 5 241 834 412 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 45. Központi Maradványelszámolási Alap cím terhére, a 2. melléklet szerint;
 
@@ -30,8 +30,9 @@
 
 | Határidő: | azonnal |
 
-## 5.[^1]
+## 5.[^2]
 
 1. melléklet az 1036/2024. (II. 22.) Korm. határozathoz
 
-[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1322/2025. (VIII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
