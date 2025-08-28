@@ -1,0 +1,3 @@
+2. § A 190/2009. (IX. 15.) Korm. rendelet 7/B. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A közös önkormányzati hivatalhoz tartozó települések az önkormányzati főépítészi feladatok ellátására együttesen is megbízást adhatnak, azzal, hogy ilyen esetben a megbízási szerződést megbízóként a székhelytelepülés polgármestere írja alá. Ha a közös önkormányzati hivatalhoz tartozó települések a főépítészi feladatok ellátását a járásszékhely városnak a Méptv. 56. § (7) bekezdése szerint átadják, vagy attól a 11/A. § (3) bekezdése szerint átveszik, a feladatok átadására és átvételére a közös önkormányzati hivatalhoz tartozó településeknél egy eljárás keretében, egy átadás-átvételi jegyzőkönyv aláírásával, a 11/A. § előírásainak betartásával kerül sor.”
