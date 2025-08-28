@@ -4,6 +4,6 @@
 
 ## 443/2017. (XII. 27.) Korm. rendelet módosítása
 
-25. §[^5]
+25. §[^24]
 
-[^5]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

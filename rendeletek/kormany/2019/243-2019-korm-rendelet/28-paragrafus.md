@@ -1,5 +1,5 @@
 ## 15. Hatályon kívül helyező rendelkezések
 
-28. §[^8]
+28. §[^27]
 
-[^8]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

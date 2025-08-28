@@ -2,7 +2,7 @@
 
 a) – természetes személy bejelentő esetén – feltünteti a személyazonosító adatait;
 
-b)[^3] – gazdálkodó szervezet bejelentő esetén – nyilatkozik arról, hogy a kérelmezőt érintően társasági formaváltás, átalakulás, változás nincs folyamatban, nyilatkozik továbbá az 1. § 3. pontja szerinti tényleges tulajdonosáról;
+b)[^15] – gazdálkodó szervezet bejelentő esetén – nyilatkozik arról, hogy a kérelmezőt érintően társasági formaváltás, átalakulás, változás nincs folyamatban, nyilatkozik továbbá az 1. § 3. pontja szerinti tényleges tulajdonosáról;
 
 c) nyilatkozik arról, hogy rendelkezik általános szerződési feltételekkel (a továbbiakban: ÁSZF);
 
@@ -22,4 +22,4 @@ fc) elektromobilitás szolgáltatás nyújtására irányuló tevékenység foly
 
 (3) A Hivatal a bejelentési kötelezettség teljesítéséhez kötött tevékenységek végzésének alapjául szolgáló feltételek fennállását rendszeresen hivatalból felülvizsgálja.
 
-[^3]: A 9. § (1) bekezdés b) pontja a 680/2023. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^15]: A 9. § (1) bekezdés b) pontja a 680/2023. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.

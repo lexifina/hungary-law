@@ -1,4 +1,4 @@
-1. melléklet a 243/2019. (X. 22.) Korm. rendelethez
+1. melléklet a 243/2019. (X. 22.) Korm. rendelethez[^29]
 
 A nyilvános töltőberendezések alkalmasságának igazolásához szükséges paraméterek
 
@@ -8,44 +8,32 @@ A nyilvános töltőberendezések alkalmasságának igazolásához szükséges p
 
 3. elektromos töltőpontok teljesítménye, az elektromos töltőberendezések csatlakozóinak típusa, darabszáma;
 
-4. elektromobilitás szolgáltató személye;
+4. elektromos töltőpont intelligens töltésre vonatkozó képessége;
 
-5. üzemeltetés helye (GPS koordináták, cím, ingatlan helyrajzi száma);
+5. elektromos töltőpont digitális csatlakozásra irányuló képessége;
 
-6. a nyilvános töltőberendezések működtetéséhez szükséges csatlakozási teljesítmény;
+6. elektromobilitás szolgáltató személye;
 
-7. a kérelemben megjelölt nyilvános töltőberendezés, a vonatkozó műszaki és biztonsági előírásoknak megfelelő, az elektromos jármű töltésére használt villamos energia töltésenként történő hiteles mérésére alkalmas, valamint – ha a kérelemben a kérelmező ezt megjelölte – a műszaki, biztonsági előírásoknak megfelelő akkumulátorok száma, típusa;
+7. üzemeltetés helye (GPS-koordináták, cím, ingatlan helyrajzi száma);
 
-8. az elektromos töltőpont vonatkozásában, hogy
+8. a nyilvános töltőberendezések működtetéséhez szükséges csatlakozási teljesítmény;
 
-8.1. a váltakozó áramú töltésre képes, normál teljesítményű (legfeljebb 22 kW teljesítményű) töltőpont legalább egy, az EN 62196-2 szabvány szerinti 2. típusú (Type 2) csatlakozóaljzattal rendelkezik;
+9. a kérelemben megjelölt nyilvános töltőberendezés, a vonatkozó műszaki és biztonsági előírásoknak megfelelő, az elektromos jármű töltésére használt villamos energia töltésenként történő hiteles mérésére alkalmas, valamint – ha a kérelemben a kérelmező ezt megjelölte – a műszaki, biztonsági előírásoknak megfelelő akkumulátorok száma, típusa;
 
-8.2. a váltakozó áramú töltésre képes, nagy teljesítményű töltőpont legalább egy, az EN 62196-2 szabvány szerinti 2. típusú (Type 2) csatlakozóval rendelkezik;
+10. az elektromos töltőpont vonatkozásában, hogy megfelel a 2023/1804 európai parlamenti és tanácsi rendelet II. mellékletében szereplő műszaki előírásoknak;
 
-8.3. az egyenáramú töltésre képes töltőberendezés legalább egy, az EN 62196-3 szabvány szerinti kombinált Combo 2 (CCS-Type 2) típusú csatlakozóval ellátott normál vagy nagy teljesítményű töltőponttal rendelkezik;
+11. a nyilvános töltőberendezés a felhasználók azonosítására szolgáló rendszerrel és távoli elérést biztosító adatkommunikációs modullal van ellátva;
 
-8.4. a kizárólag „Type 4 (CHAdeMO)” típusú csatlakozóval ellátott töltőponttal rendelkező töltőberendezés, továbbá kizárólag Tesla Supercharger csatlakozóval ellátott töltőponttal rendelkező töltőberendezés esetén elektromos töltőállomásonként legalább egy olyan elektromos töltőberendezés üzemel, amelyik az EN 62196-3 szabvány szerinti kombinált Combo 2 (CCS-Type 2) típusú csatlakozóval rendelkezik;
+12. a nyilvános töltőberendezés az adatkommunikációs modul meghibásodása vagy az adatkapcsolat megszűnése esetén képes a töltési tranzakciók adatainak megőrzésére (offline működés);
 
-8.5.[^10] az elektromos autóbuszok normál és nagy teljesítményű váltakozó áramú (AC) töltőállomása legalább egy, az EN 62196-2 szabvány szerinti 2. típusú (Type 2) csatlakozóval rendelkezik;
+13. az üzemeltetési tevékenység végzéséhez szükséges eszközökkel és műszaki, tárgyi, személyi, valamint pénzügyi erőforrásokkal való rendelkezés, így különösen, hogy a kérelmező rendelkezik
 
-8.6.[^11] az elektromos autóbuszok normál és nagy teljesítményű egyenáramú (DC) töltőállomása legalább egy, az EN 62196-3 szabvány szerinti kombinált „Combo 2” töltőrendszer (CCS-Type 2) csatlakozójával rendelkezik;
+13.1. a Kkt. 45/C. § (6) bekezdése szerinti esetben az elszámolási adatok gyűjtéséhez szükséges informatikai rendszerrel, és az összegyűjtött elszámolási adatokat az elektromobilitás szolgáltató részére továbbítani képes,
 
-8.7.[^12] az infrastruktúrára szerelt automatizált kapcsolóeszközről (ACD) (áramszedő), a jármű tetejére szerelt ACD-ről, a jármű alá szerelt ACD-ről, valamint az infrastruktúrára szerelt és a jármű oldalára vagy tetejére csatlakozó ACD-ről szóló EN 61851-23-1 szabványnak megfelelő, a 4. üzemmódban az elektromos buszok vezetékes feltöltésére szolgáló automatizált kapcsolóeszköz az EN 50696 szabvány szerint mechanikai és elektromos kapcsolódási pontokkal rendelkezik;
+13.2. a 11.1. alpont szerinti elszámolási rendszer folyamatos üzemeltetését biztosító eszközökkel és személyzettel,
 
-9. a nyilvános töltőberendezés a felhasználók azonosítására szolgáló rendszerrel és távoli elérést biztosító adatkommunikációs modullal van ellátva;
+13.3. a Kkt. 45/C. § (6) bekezdése szerinti esetben az elektromobilitás szolgáltatóval létrejött szerződéssel;
 
-10. a nyilvános töltőberendezés az adatkommunikációs modul meghibásodása vagy az adatkapcsolat megszűnése esetén képes a töltési tranzakciók adatainak megőrzésére (offline működés);
+14. ha az elektromos töltőberendezés üzemeltető az általa üzemeltetett elektromos töltőberendezésen elektromobilitás szolgáltatási tevékenységet is nyújt, a 9. § (1) bekezdésében foglaltak.
 
-11. az üzemeltetési tevékenység végzéséhez szükséges eszközökkel és műszaki, tárgyi, személyi, valamint pénzügyi erőforrásokkal való rendelkezés, így különösen, hogy a kérelmező rendelkezik:
-
-11.1. a Kkt. 45/C. § (6) bekezdése szerinti esetben az elszámolási adatok gyűjtéséhez szükséges informatikai rendszerrel, és az összegyűjtött elszámolási adatokat az elektromobilitás szolgáltató részére továbbítani képes;
-
-11.2. a 11.1. alpont szerinti elszámolási rendszer folyamatos üzemeltetését biztosító eszközökkel és személyzettel;
-
-11.3. a Kkt. 45/C. § (6) bekezdése szerinti esetben az elektromobilitás szolgáltatóval létrejött szerződéssel;
-
-12. ha az elektromos töltőberendezés üzemeltető az általa üzemeltetett elektromos töltőberendezésen elektromobilitás szolgáltatási tevékenységet is nyújt, a 9. § (1) bekezdésében foglaltak.
-
-[^10]: Az 1. melléklet 8. pont 8.5. alpontját az 514/2023. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
-[^11]: Az 1. melléklet 8. pont 8.6. alpontját az 514/2023. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
-[^12]: Az 1. melléklet 8. pont 8.7. alpontját az 514/2023. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^29]: Az 1. melléklet a 262/2025. (VIII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.

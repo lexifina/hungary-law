@@ -24,6 +24,8 @@ k) felel az üzemeltetési feladatai nyújtása körében az elektromobilitás s
 
 l) ellátja a 6. alcímben meghatározott üzemeltetési elszámolási feladatokat.
 
+m)[^12] gondoskodik arról, hogy az általa üzemeltetett nyilvános elektromos töltőpontra, illetve az általa nyújtott vagy kiszervezett, az elektromos töltőponthoz szervesen kapcsolódó elektromobilitás szolgáltatásra vonatkozó statikus és dinamikus adatok az (EU) 2023/1804 európai parlamenti és tanácsi rendelet alkalmazási szabályainak az alternatív üzemanyagok infrastruktúrájára vonatkozó adatok rendelkezésre állásával és hozzáférhetőségével kapcsolatos előírások és eljárások tekintetében történő megállapításáról szóló, 2025. április 2-i (EU) 2025/655 bizottsági végrehajtási rendelet, valamint az (EU) 2023/1804 európai parlamenti és tanácsi rendeletnek az alternatív üzemanyagok infrastruktúrájára vonatkozó további adattípusok tekintetében történő módosításáról szóló, 2025. április 2-i (EU) 2025/671 felhatalmazáson alapuló bizottsági rendelet szerinti formátumban és gyakorisággal térítésmentesen rendelkezésre álljanak.
+
 (2) Az üzemeltetési engedélyben meghatározott nyilvános töltőberendezés üzemeltetésére irányuló tevékenységek közül kizárólag az (1) bekezdés c), j) és l) pontjában foglalt tevékenységek ellátása érdekében köthet az elektromos töltőberendezés üzemeltető szerződést harmadik féllel. A szerződéskötésre a Hivatal előzetes tájékoztatását követően kerülhet sor.
 
 (3) Az elektromos töltőberendezés üzemeltető az elektromobilitás szolgáltatási feladatai keretében
@@ -36,14 +38,20 @@ c) felel az elektromobilitás szolgáltatás nyújtása körében az elektromobi
 
 d) az elektromobilitás felhasználó számára az elektromobilitás szolgáltatás részét képező további kiegészítő szolgáltatásokat – időpontfoglalási, parkolási és egyéb szolgáltatások – nyújthat;
 
-e) az eseti töltés keretében igénybe vehető elektromobilitás szolgáltatásért fizetendő ellenértéket közzéteszi az elektronikus felületén, applikációján és az elektromos töltőberendezéseken is jól látható módon elhelyezi;
+e)[^13] az eseti töltés keretében igénybe vehető elektromobilitás szolgáltatásért fizetendő ellenértéket közzéteszi az elektronikus felületén, applikációján és az elektromos töltőállomáson is jól látható módon megjeleníti;
 
 f) nyitvatartási időben a 6. § (2) bekezdésében meghatározott rendelkezésre állási idő alatt elérhető telefonos vagy személyes ügyfélszolgálatot biztosít az elektromobilitás felhasználók részére;
 
 g) ellátja a 6. alcímben meghatározott elektromobilitás szolgáltatási elszámolási feladatokat.
+
+h)[^14] a töltőállomást kiszolgáló üzletekben több töltőpontot kiszolgálva is biztosíthatja az (EU) 2023/1804 európaiparlamenti és tanácsi rendelet 5. cikk (1) bekezdés második albekezdése szerinti készpénz-helyettesítő fizetési eszközök használatát, az (EU) 2023/1804 európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdés negyedik albekezdésével összhangban.
 
 (4) Az üzemeltetési engedélyben foglalt elektromobilitás szolgáltatás nyújtására irányuló tevékenységek közül kizárólag a (3) bekezdés d), f) és g) pontjában foglalt tevékenységek ellátása érdekében köthet az elektromos töltőberendezés üzemeltető szerződést harmadik féllel. A szerződéskötésre a Hivatal előzetes tájékoztatását követően kerülhet sor.
 
 (5) A (2) és (4) bekezdésben meghatározott esetekben az elektromos töltőberendezés üzemeltető úgy felel a jogszabályokban és az üzemeltetési engedélyben meghatározott kötelezettségei teljesítéséért, mintha az adott tevékenységet maga végezte volna.
 
 (6) Ha az elektromos töltőberendezés nem rendelkezik külön közcélú hálózati csatlakozási ponttal, a villamos energiát a hálózati csatlakozási pontra vonatkozó hálózati csatlakozási szerződéssel rendelkező rendszerhasználó biztosítja. Ebben az esetben az elektromos töltőberendezések külön áramköri védelemmel biztosított betáplálási pontján a felhasznált villamos energiát külön – hiteles mérőeszközzel – szükséges mérni.
+
+[^12]: A 7. § (1) bekezdés m) pontját a 262/2025. (VIII. 13.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^13]: A 7. § (3) bekezdés e) pontja a 262/2025. (VIII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^14]: A 7. § (3) bekezdés h) pontját a 262/2025. (VIII. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be.

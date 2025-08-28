@@ -14,4 +14,6 @@ e) a nyilvános töltőberendezés teljesítményére és típusára, valamint a
 
 f) a hiteles mérést biztosító mérőeszköz hitelesítési időpontjának lejártát.
 
-(2) Az elektromobilitás töltőberendezés üzemeltető, valamint a Kkt. 45/C. § (6) bekezdése szerinti esetben az elektromobilitás szolgáltató jól látható módon feltünteti az elektromos töltőberendezésen az eseti töltés esetén fizetendő elektromobilitás szolgáltatás ellenértékét és az (1) bekezdés e) pontjában meghatározott adatokat.
+(2)[^19] Az elektromobilitás töltőberendezés üzemeltető, valamint a Kkt. 45/C. § (6) bekezdése szerinti esetben az elektromobilitás szolgáltató jól látható módon feltünteti az elektromos töltőállomáson az eseti töltés esetén fizetendő elektromobilitás szolgáltatás ellenértékét és az (1) bekezdés e) pontjában meghatározott adatokat.
+
+[^19]: A 19. § (2) bekezdése a 262/2025. (VIII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
