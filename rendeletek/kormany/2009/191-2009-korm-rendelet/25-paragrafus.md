@@ -1,6 +1,6 @@
-## Az e-építési napló részei[^267]
+## Az e-építési napló részei[^268]
 
-25. §[^268] (1) Az e-építési napló része az e-főnapló és az e-alnapló.
+25. §[^269] (1) Az e-építési napló része az e-főnapló és az e-alnapló.
 
 (2) Az e-építési napló mellékletei:
 
@@ -16,5 +16,5 @@ e) a közös gyűjtőnapló, amely tartalmazza az e-fő- és e-alnapló mellékl
 
 f) a hatósági napló, amely tartalmazza az építésügyi hatóság, az állami adó- és vámhatóság, valamint a foglalkoztatás-felügyeleti hatóságnak a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló kormányrendelet szerinti ellenőrzésről felvett vagy kiadott jegyzőkönyveit, feljegyzéseit.
 
-[^267]: A 25. §-t megelőző alcím a 482/2016. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^268]: A 25. § a 286/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^268]: A 25. §-t megelőző alcím a 482/2016. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^269]: A 25. § a 286/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított szöveg.

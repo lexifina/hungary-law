@@ -1,4 +1,4 @@
-## A bírósági értesítéssel kapcsolatos eljárás[^350]
+## A bírósági értesítéssel kapcsolatos eljárás[^351]
 
 40/B. § (1) A Méptv. 212. §-a szerinti bírósági értesítéseknek az e-szankció elektronikus alkalmazásban történő rögzítését az OÉNY üzemeltetője köteles a beérkezést követően haladéktalanul, de legkésőbb a beérkezést követő munkanapon elvégezni. Az üzemeltető a rögzítéssel egyidejűleg az MKIK-t elektronikus úton értesíti. A Méptv. 212. §-a szerinti bírósági értesítéssel egyenértékűnek tekintendő, ha az MKIK tudomására jut olyan egyéb jogerős érdemi bírósági határozat, vagy jogerős fizetési meghagyás, amely ugyanazon adatokat tartalmazza.
 
@@ -16,4 +16,4 @@ c) tájékoztatja a feleket arról, hogy a határidő eredménytelen lejártát 
 
 (3) A (2) bekezdésben meghatározott igazolás határidőben történő megérkezése esetén az MKIK az eljárást 8 napon belül megszünteti, és a bejelentőt ennek tényéről, valamint arról értesíti, hogy az eljárás megszüntetése a díjigény egyéb úton történő érvényesítését nem érinti.
 
-[^350]: Az „A bírósági értesítéssel kapcsolatos eljárás” alcím (40/B–40/C. §) a 286/2024. (IX. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^351]: Az „A bírósági értesítéssel kapcsolatos eljárás” alcím (40/B–40/C. §) a 286/2024. (IX. 30.) Korm. rendelet 43. §-ával megállapított szöveg.

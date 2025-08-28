@@ -48,7 +48,7 @@ e) építésének és beépítésének technológiai feltételeit, valamint
 
 f) költségeinek meghatározásához szükséges adatokat.
 
-(4) A kivitelezési dokumentációnak minden esetben tartalmaznia kell az 1. melléklet szerinti munkarészeket.
+(4)[^240] A kivitelezési dokumentációt – egyszerű bejelentéshez kötött építési tevékenység esetében a (2) bekezdésben foglaltakra figyelemmel – az 1. melléklet szerint kell elkészíteni.
 
 (5) A kivitelezési dokumentációnak a (4) bekezdésben meghatározottakon túl tartalmaznia kell
 
@@ -67,3 +67,4 @@ daru vagy a ca) és cb) alpontban foglaltakon kívüli esetben 60 méternél mag
 (6) A kivitelezési dokumentáció tartalma nem térhet el a végleges építésügyi hatósági engedélyhez tartozó záradékolt vagy az egyszerű bejelentés építészeti-műszaki dokumentációban foglaltaktól kivéve, ha maga az eltérés nem építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység.
 
 [^239]: A 22. § a 286/2024. (IX. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^240]: A 22. § (4) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
