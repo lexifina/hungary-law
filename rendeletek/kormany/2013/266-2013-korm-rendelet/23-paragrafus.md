@@ -20,13 +20,13 @@ b) a vállalt tevékenységre vonatkozó teljesítési határidő,
 
 c) a tanúsítás díja mellett az elszámolás formája, módja, a fizetés módja és határideje.
 
-(5a)[^103] A Magyar Mérnöki Kamara független ellenőrzési rendszert működtet az energetikai tanúsítványok tekintetében. Ennek keretében jogszabályban meghatározott tartalmú ellenőrzés céljából évente véletlenszerűen kiválasztja az OÉNY-ben rendelkezésre álló összes, az ellenőrzési időszakot megelőző évi energetikai tanúsítványnak statisztikailag jelentős hányadát, és az ellenőrzések alapján megteszi az (5c) bekezdés szerinti intézkedéseket, valamint a hatáskörrel rendelkező szervnél kezdeményezi a jogszabályban meghatározott hatósági intézkedéseket.
+(5a)[^106] A Magyar Mérnöki Kamara független ellenőrzési rendszert működtet az energetikai tanúsítványok tekintetében. Ennek keretében jogszabályban meghatározott tartalmú ellenőrzés céljából évente véletlenszerűen kiválasztja az OÉNY-ben rendelkezésre álló összes, az ellenőrzési időszakot megelőző évi energetikai tanúsítványnak statisztikailag jelentős hányadát, és az ellenőrzések alapján megteszi az (5c) bekezdés szerinti intézkedéseket, valamint a hatáskörrel rendelkező szervnél kezdeményezi a jogszabályban meghatározott hatósági intézkedéseket.
 
-(5b)[^104] A Magyar Mérnöki Kamara az (5a) bekezdésben foglalt ellenőrzésen kívül bármely más energetikai tanúsítványt is ellenőrizhet.
+(5b)[^107] A Magyar Mérnöki Kamara az (5a) bekezdésben foglalt ellenőrzésen kívül bármely más energetikai tanúsítványt is ellenőrizhet.
 
-(5c)[^105] A Magyar Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet vagy bírságot szab ki.
+(5c)[^108] A Magyar Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet vagy bírságot szab ki.
 
-(6)[^106] A Magyar Mérnöki Kamara által működtetett független ellenőrzési rendszer keretében a tanúsítványok utóellenőrzésében nem vehet részt az a személy
+(6)[^109] A Magyar Mérnöki Kamara által működtetett független ellenőrzési rendszer keretében a tanúsítványok utóellenőrzésében nem vehet részt az a személy
 
 a) akinek jogát vagy jogos érdekét az ellenőrzés közvetlenül érinti, továbbá
 
@@ -38,13 +38,13 @@ d) akinek az ellenőrzött tanúsítvány elkészítésében a Ptk. szerinti kö
 
 e) akinek a Ptk. szerinti közeli hozzátartozója az ellenőrzött tanúsítvánnyal összefüggésbe hozható építésügyi műszaki szakértőként járt el.
 
-(7)[^107] A (6) bekezdés szerinti ellenőrzésben nem vehet részt az a személy, akitől nem várható el az ügy tárgyilagos megítélése. Az ellenőrzést végző a Magyar Mérnöki Kamara elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított öt napon belül köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A kizárási okot a kizárási okról való tudomásszerzéstől számított nyolc napon belül az ellenőrzött, vagy bármely érintett fél is bejelentheti.
+(7)[^110] A (6) bekezdés szerinti ellenőrzésben nem vehet részt az a személy, akitől nem várható el az ügy tárgyilagos megítélése. Az ellenőrzést végző a Magyar Mérnöki Kamara elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított öt napon belül köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A kizárási okot a kizárási okról való tudomásszerzéstől számított nyolc napon belül az ellenőrzött, vagy bármely érintett fél is bejelentheti.
 
-(8)[^108] A kizárás tárgyában a Magyar Mérnöki Kamara elnöke dönt, szükség esetén más ellenőrző személyt jelöl ki, továbbá arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ellenőrző személy járt el. A kizárás tárgyában hozott elnöki döntést az érintett felekkel közölni kell.
+(8)[^111] A kizárás tárgyában a Magyar Mérnöki Kamara elnöke dönt, szükség esetén más ellenőrző személyt jelöl ki, továbbá arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ellenőrző személy járt el. A kizárás tárgyában hozott elnöki döntést az érintett felekkel közölni kell.
 
-[^103]: A 23. § (5a) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 60. §-a iktatta be.
-[^104]: A 23. § (5b) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 60. §-a iktatta be.
-[^105]: A 23. § (5c) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 60. §-a iktatta be.
-[^106]: A 23. § (6) bekezdés nyitó szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 69. § 27. pontja szerint módosított szöveg.
-[^107]: A 23. § (7) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 27. pontja szerint módosított szöveg.
-[^108]: A 23. § (8) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 27. pontja szerint módosított szöveg.
+[^106]: A 23. § (5a) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 60. §-a iktatta be.
+[^107]: A 23. § (5b) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 60. §-a iktatta be.
+[^108]: A 23. § (5c) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 60. §-a iktatta be.
+[^109]: A 23. § (6) bekezdés nyitó szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 69. § 27. pontja szerint módosított szöveg.
+[^110]: A 23. § (7) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 27. pontja szerint módosított szöveg.
+[^111]: A 23. § (8) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 27. pontja szerint módosított szöveg.

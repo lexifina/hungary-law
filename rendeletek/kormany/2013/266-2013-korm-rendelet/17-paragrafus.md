@@ -1,6 +1,6 @@
 ## 10. Tervezési szerződés
 
-17. § (1)[^88] Az építészeti-műszaki tervezési tevékenység folytatásához szükséges tervezési szerződés a Ptk. és a Méptv. előírásain túlmenően tartalmazza
+17. § (1)[^91] Az építészeti-műszaki tervezési tevékenység folytatásához szükséges tervezési szerződés a Ptk. és a Méptv. előírásain túlmenően tartalmazza
 
 a) a vállalt tervezési tevékenység pontos megnevezését,
 
@@ -26,10 +26,10 @@ k) a tervezői művezetési feladatellátás részletes feltételeit, ha a terve
 
 l) az e-építési napló vezetéséhez kötött építőipari kivitelezési tevékenység esetén a tervező és a tervezői művezető naplóügyfél-jelét.
 
-(2)[^89] Az építmények, tájépítészeti alkotások tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló törvényben meghatározott esetekben az építészeti-műszaki tervezési szerződéses felek a Teljesítésigazolási Szakértői Szervhez fordulhatnak.
+(2)[^92] Az építmények, tájépítészeti alkotások tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló törvényben meghatározott esetekben az építészeti-műszaki tervezési szerződéses felek a Teljesítésigazolási Szakértői Szervhez fordulhatnak.
 
-(3)[^90]
+(3)[^93]
 
-[^88]: A 17. § (1) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^89]: A 17. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 2. pontja és 70. § 4. pontja szerint módosított szöveg.
-[^90]: A 17. § (3) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 5. pontja hatályon kívül helyezte.
+[^91]: A 17. § (1) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^92]: A 17. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 69. § 2. pontja és 70. § 4. pontja szerint módosított szöveg.
+[^93]: A 17. § (3) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 70. § 5. pontja hatályon kívül helyezte.

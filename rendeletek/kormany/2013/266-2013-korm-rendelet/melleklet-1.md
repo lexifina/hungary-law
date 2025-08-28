@@ -1,4 +1,4 @@
-1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^234]
+1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^237]
 
 A szakmagyakorlási jogosultságokhoz szükséges képesítési követelmények, szakmai gyakorlati idők, továbbá feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni
 
@@ -414,4 +414,4 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 
 VII. Szakma
 
-[^234]: Az 1. melléklet a 618/2021. (XI. 8.) Korm. rendelet 15. §-ával megállapított, a 229/2023. (VI. 8.) Korm. rendelet 7. §-a, 8. § k) pontja és 9. § b) pontja, a 141/2024. (VI. 28.) Korm. rendelet 19. § a)–c) pontja, a 286/2024. (IX. 30.) Korm. rendelet 68. §-a és 69. § 4., 52–56. pontja, a 175/2025. (VI. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^237]: Az 1. melléklet a 618/2021. (XI. 8.) Korm. rendelet 15. §-ával megállapított, a 229/2023. (VI. 8.) Korm. rendelet 7. §-a, 8. § k) pontja és 9. § b) pontja, a 141/2024. (VI. 28.) Korm. rendelet 19. § a)–c) pontja, a 286/2024. (IX. 30.) Korm. rendelet 68. §-a és 69. § 4., 52–56. pontja, a 175/2025. (VI. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.

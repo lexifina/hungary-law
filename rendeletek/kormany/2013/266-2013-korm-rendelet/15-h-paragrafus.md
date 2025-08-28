@@ -10,6 +10,8 @@ d) 1 milliárd forint feletti éves nettó jövedelem esetén biztosítási esem
 
 kell fedezetet biztosítania.
 
-(2) Éves nettó jövedelem alatt a felelősségbiztosítás megkötését vagy a biztosítási évfordulót megelőző naptári év nettó jövedelmét kell érteni, amelyből le kell vonni az állami építési beruházások rendjéről szóló törvény hatálya alá tartozó állami építési beruházással összefüggésben végzett tervezési és tervezői művezetési tevékenységből származó nettó jövedelmet. Ha a tervező tevékenységét ennél rövidebb ideje folytatja, rá az (1) bekezdés a) pontját kell alkalmazni.
+(2)[^82] Éves nettó jövedelem alatt a felelősségbiztosítás megkötését vagy a biztosítási évfordulót megelőző naptári év nettó jövedelmét kell érteni, amelyből le kell vonni az Ábtv. hatálya alá tartozó állami építési beruházással összefüggésben végzett tervezési és tervezői művezetési tevékenységből származó nettó jövedelmet. Ha a tervező tevékenységét ennél rövidebb ideje folytatja, rá az (1) bekezdés a) pontját kell alkalmazni.
 
 (3) A tervező a biztosítási évfordulóval kezdeményezi a biztosítónál a felelősségbiztosítási szerződés módosítását, ha az előző évi éves nettó jövedelme alapján a biztosítási összeget emelni vagy csökkenteni kell.
+
+[^82]: A 15/H. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
