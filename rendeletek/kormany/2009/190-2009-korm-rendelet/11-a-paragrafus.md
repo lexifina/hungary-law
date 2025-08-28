@@ -1,4 +1,4 @@
-## A főépítészi feladatellátás átadásának és átvételének szabályai[^75]
+## A főépítészi feladatellátás átadásának és átvételének szabályai[^76]
 
 11/A. § (1) A községi önkormányzattól a járásszékhely városhoz kerülő főépítészi feladatellátás esetén, a Méptv. 56. § (7) bekezdése és 228. § (1) bekezdése szerinti jelzéssel egyidejűleg a járásszékhely város jegyzője részére meg kell küldeni az átadás-átvételi jegyzőkönyv tervezetét, amelyhez mellékelni kell a hatályos településtervet, folyamatban lévő, valamint az 5 évre visszamenőleg lezárult településfejlesztési, településrendezési és településképi eljárások tervdokumentációját és az ilyen ügyben született önkormányzati döntések iratanyagát.
 
@@ -10,4 +10,4 @@
 
 (5) A Méptv. 56. § (9) bekezdése szerinti állami támogatás igénylésére kizárólag a Méptv. 56. § (7) bekezdése alapján többletfeladatot ellátni köteles járásszékhely város önkormányzata, valamint az önkormányzati főépítészt és munkatársait önkormányzati társulás keretében foglalkoztató, társulási megállapodásban meghatározott település jogosult.
 
-[^75]: Az „A főépítészi feladatellátás átadásának és átvételének szabályai” alcímet (11/A. §-t) a 285/2024. (IX. 30.) Korm. rendelet 46. §-a iktatta be.
+[^76]: Az „A főépítészi feladatellátás átadásának és átvételének szabályai” alcímet (11/A. §-t) a 285/2024. (IX. 30.) Korm. rendelet 46. §-a iktatta be.

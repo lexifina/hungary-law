@@ -8,6 +8,8 @@
 
 (4) Térségi főépítész esetében a megbízási szerződést megbízóként a társulási megállapodásban szereplő, ennek hiányában a társulás székhelye szerinti település polgármestere írja alá. Járásszékhely város önkormányzati főépítésze esetén a megbízási szerződést megbízóként a járásszékhely város polgármestere írja alá.
 
+(4a)[^57] A közös önkormányzati hivatalhoz tartozó települések az önkormányzati főépítészi feladatok ellátására együttesen is megbízást adhatnak, azzal, hogy ilyen esetben a megbízási szerződést megbízóként a székhelytelepülés polgármestere írja alá. Ha a közös önkormányzati hivatalhoz tartozó települések a főépítészi feladatok ellátását a járásszékhely városnak a Méptv. 56. § (7) bekezdése szerint átadják, vagy attól a 11/A. § (3) bekezdése szerint átveszik, a feladatok átadására és átvételére a közös önkormányzati hivatalhoz tartozó településeknél egy eljárás keretében, egy átadás-átvételi jegyzőkönyv aláírásával, a 11/A. § előírásainak betartásával kerül sor.
+
 (5) Eltérő megállapodás hiányában
 
 a) a megbízási jogviszony határozatlan időre jön létre, és
@@ -29,3 +31,4 @@ b) főépítészi tevékenységére fordított heti időtartamot olyan módon, h
 (10) Az önkormányzati főépítész megbízási jogviszonya megszűnik, ha az építész kamara a főépítész kamarai tagsági jogviszonyát felfüggesztette vagy őt a kamarából kizárta. A kizárás tényéről a kamara tájékoztatja a megbízó önkormányzatot.
 
 [^56]: Az „A megbízási jogviszonyban álló önkormányzati főépítész” alcímet (7/B. §-t) a 285/2024. (IX. 30.) Korm. rendelet 45. §-a iktatta be.
+[^57]: A 7/B. § (4a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 2. §-a iktatta be.

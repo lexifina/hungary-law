@@ -2,7 +2,7 @@
 
 (2)[^23]
 
-(3)[^24] A főépítészi vizsgát és az azt megelőző vizsgafelkészítő konzultációt – a (4) és (5) bekezdésben foglaltak szerint – az önkormányzati főépítészek tekintetében az illetékes állami főépítész, az állami főépítész és a Balatoni főépítész tekintetében az országos főépítész bonyolítja le.
+(3)[^24] A főépítészi vizsgát és az azt megelőző vizsgafelkészítő konzultációt – a (4) és (5) bekezdésben foglaltak szerint – az önkormányzati főépítészek tekintetében az illetékes állami főépítész, az állami főépítész tekintetében az országos főépítész bonyolítja le.
 
 (4)[^25] A főépítészi vizsga szóbeli és írásbeli vizsgarészből áll. A főépítészi vizsga írásbeli kérdéseit és a felkészülést segítő segédanyagokat az 1. melléklet 1. pontjában meghatározott témakörök alapján az országos főépítész a MÉK bevonásával állítja össze, továbbá gondoskodik annak a miniszter által vezetett minisztérium honlapján való közzétételéről. A MÉK a javaslatát a Főépítészi Tagozatának közreműködésével állítja össze.
 
@@ -12,7 +12,7 @@
 
 [^22]: A 4. § a 241/2021. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^23]: A 4. § (2) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 52. § a) pontja hatályon kívül helyezte.
-[^24]: A 4. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^24]: A 4. § (3) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított, a 284/2025. (VIII. 25.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^25]: A 4. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
 [^26]: A 4. § (5) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
 [^27]: A 4. § (6) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 36. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-13. §[^83] (1) A Méptv. 56. § (1) bekezdése alapján önkormányzati főépítészi feladatot vállaló személyeknek
+13. §[^84] (1) A Méptv. 56. § (1) bekezdése alapján önkormányzati főépítészi feladatot vállaló személyeknek
 
 a) a 3/D. § (1) és (2) bekezdésétől eltérően a kamarai tagságra és a főépítészi nyilvántartásba vételre vonatkozó kötelezettségüket 2024. december 31-ig, és
 
@@ -10,4 +10,4 @@ kell teljesíteniük.
 
 (3) Az állami főépítészekre az (1) bekezdés a) pontjában foglaltakat megfelelően alkalmazni kell.
 
-[^83]: A 13. §-t a 285/2024. (IX. 30.) Korm. rendelet 49. §-a iktatta be.
+[^84]: A 13. §-t a 285/2024. (IX. 30.) Korm. rendelet 49. §-a iktatta be.
