@@ -1,15 +1,13 @@
-137/A. §[^11] A 136. § (1) bekezdésében foglaltak kivételével e rendelet rendelkezéseit azon építmények, telekalakítások vagy területhasználatok esetében, amelyek vonatkozásában 2025. július 1-je előtt
+137/A. §[^33] A 136. §-ban foglaltaktól eltérően azon építmények, telekalakítások vagy területhasználatok esetében, amelyek vonatkozásában 2025. július 1-je előtt
 
-a) indul az építési engedélyezési vagy az egyszerű bejelentési eljárás,
+a) indult a hatósági eljárás,
 
-b) történik meg az építési engedélyhez vagy egyszerű bejelentéshez nem kötött, kivitelezési dokumentáció alapján végezhető építési tevékenységre vonatkozó kivitelezési dokumentáció átadása,
+b) történt meg az építési engedélyhez vagy egyszerű bejelentéshez nem kötött, kivitelezési dokumentáció alapján végezhető építési tevékenységre vonatkozó kivitelezési dokumentáció átadása,
 
-c) kezdik meg a kivitelezési dokumentációhoz nem kötött építési tevékenységet,
+c) kezdték meg a kivitelezési dokumentációhoz nem kötött építési tevékenységet, vagy
 
-d) indul a telekalakítási engedélyezési eljárás,
-
-e) kezdik meg a területhasználatot,
+d) adták ki az építési engedélyt vagy tették meg az egyszerű bejelentést, és a záradékolt építészeti-műszaki dokumentációtól vagy az egyszerű bejelentés építészeti-műszaki dokumentációjától nem engedély- vagy bejelentésköteles eltéréssel eltérnek,
 
 az OTÉK 2024. december 31-én hatályos szövegét kell alkalmazni.
 
-[^11]: A 137/A. §-t a 391/2024. (XII. 11.) Korm. rendelet 2. §-a iktatta be.
+[^33]: A 137/A. §-t a 391/2024. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 284/2025. (VIII. 25.) Korm. rendelet 34. §-ával megállapított szöveg.

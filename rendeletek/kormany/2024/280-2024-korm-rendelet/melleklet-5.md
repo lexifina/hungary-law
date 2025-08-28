@@ -1,6 +1,6 @@
 ## I. Egy személygépkocsi elhelyezését kell biztosítani:
 
-## 1. minden lakás és üdülő önálló rendeltetési egység után,
+## 1.[^37] minden lakás és üdülő önálló rendeltetési egység után, kivéve a nagyvárosi lakóterület építési övezetét, ahol minden 1,5 lakás önálló rendeltetési egység után,
 
 ## 2. a 3. pontban foglaltak kivételével, a kereskedelmi, szolgáltató önálló rendeltetési egység árusítóterének
 
@@ -52,7 +52,7 @@
 
 ## 13. fekvőbeteg-ellátó egészségügyi önálló rendeltetési egység minden megkezdett 4 betegágya után,
 
-## 14. ipari, üzemi, raktározási, logisztikai önálló rendeltetési egység minden 3 helyben dolgozó munkavállalója után,
+## 14.[^38] ipari és üzemi önálló rendeltetési egység minden 3 helyben dolgozó munkavállalója után a legnagyobb létszámú műszak figyelembevételével, raktározási és logisztikai önálló rendeltetési egység raktárhelyiségeinek minden megkezdett 1500 m2-e után,
 
 ## 15. közforgalmú személyközlekedés célját szolgáló egységek
 
@@ -97,3 +97,6 @@
 5. melléklet a 280/2024. (IX. 30.) Korm. rendelethez
 
 Az építmények rendeltetésszerű használatához szükséges kerékpár és motorkerékpár várakozóhelyek együttes számának megállapítása
+
+[^37]: A 4. melléklet I. pont 1. alpontja a 284/2025. (VIII. 25.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^38]: A 4. melléklet I. pont 14. alpontja a 284/2025. (VIII. 25.) Korm. rendelet 36. §-ával megállapított szöveg.

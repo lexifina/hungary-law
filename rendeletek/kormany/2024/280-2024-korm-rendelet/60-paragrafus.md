@@ -10,11 +10,11 @@ a) a várakozóhely fekvése szerinti telken belül máshol köteles fákat tele
 
 b) ha a telek adottsága alapján vagy biztonsági szempontból erre az a) pont szerint nincs lehetőség, a várakozóhely 500 méteres környezetében, a várakozóhely fekvése szerinti települési önkormányzat által kijelölt területen köteles fatelepítést végezni.
 
-(5) Ha a helyi építési szabályzat szigorúbb előírást nem állapít meg, a 4. melléklet 3. pontja szerinti várakozóhelyeknél
+(5)[^15] A 4. melléklet 3. pontja szerinti várakozóhelyeknél
 
-a) minden megkezdett 100 újonnan létesített várakozóhelyből legalább négyet elektromosgépjármű-töltőponttal kell ellátni,
+a)[^16] minden megkezdett 100 újonnan létesített várakozóhelyből legalább kettőt elektromosgépjármű-töltőponttal kell ellátni,
 
-b) az e rendelkezés hatálybalépésekor meglévő várakozóhelyek esetében a 300 m2-nél nagyobb nettó alapterületű üzleteknél legalább kettő várakozóhelyet elektromosgépjármű-töltőponttal kell ellátni.
+b)[^17] az e rendelkezés hatálybalépésekor meglévő várakozóhelyek esetében a 600 m2-nél nagyobb nettó árusítóterű üzleteknél legalább kettő várakozóhelyet elektromosgépjármű-töltőponttal kell ellátni.
 
 (6) Az (5) bekezdés szerinti elektromosgépjármű-töltőállomások 5 százalékának, de legalább egynek akadálymentesnek kell lennie.
 
@@ -31,3 +31,7 @@ b) az e rendelkezés hatálybalépésekor meglévő várakozóhelyek esetében a
 (12) Az építmények, önálló rendeltetési egységek, építési telkek rendeltetésszerű használatához az 5. melléklet szerint számított kerékpár- és motorkerékpár-elhelyezési lehetőséget kell biztosítani.
 
 (13) A települési önkormányzatnak – különösen a városközpontok és történeti városnegyedek tehermentesítése érdekében – biztosítania kell a közterületeken vagy ahhoz csatlakozó területen kerékpárok és mikromobilitási eszközök elhelyezési lehetőségét a helyi sajátosságoknak megfelelően, egyedi méretezés szerint.
+
+[^15]: A 60. § (5) bekezdés nyitó szövegrésze a 284/2025. (VIII. 25.) Korm. rendelet 37. § e) pontja szerint módosított szöveg.
+[^16]: A 60. § (5) bekezdés a) pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § f) pontja szerint módosított szöveg.
+[^17]: A 60. § (5) bekezdés b) pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § g) pontja szerint módosított szöveg.

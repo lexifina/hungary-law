@@ -226,6 +226,12 @@ j) építménynek minősülő antennatartó szerkezet, zászlótartó oszlop,
 
 k) szolgáltató automata;
 
+l)[^1] sprinkler tartály és gépház,
+
+m)[^2] csapadékvíz-tároló,
+
+n)[^3] oltóvíztároló;
+
 95. melléképület: a fő rendeltetési egységet kiszolgáló, egyéb kiegészítő helyiséget tartalmazó önálló épület, amely nem minősül melléképítménynek, továbbá nem gazdasági tevékenység folytatását szolgálja, és a főépülettel együtt vagy annak felépítését követően valósul meg;
 
 96. mellvéd: a kiesést, leesést megakadályozó tömör épületszerkezetű korlát, amelyet díszítő nyílások tagolhatnak;
@@ -310,7 +316,7 @@ között függőlegesen mért távolság;
 
 133. szabad méret: a helyiség azon alaprajzi mérete, amelybe épületszerkezet, beépített berendezés, vezeték vagy más szerkezet nem állhat be;
 
-134. szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó meglévő, valamint a szabályozási terven meghatározott tervezett közterületi telekhatár, amely egyben övezethatár is;
+134.[^4] szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó, a szabályozási terven meghatározott tervezett közterületi telekhatár, amely egyben övezethatár is;
 
 135. szállás jellegű rendeltetés: olyan rendeltetés, amely üzleti jellegű, nem életvitelszerű huzamos éjszakai ott-tartózkodás, pihenés biztosítására és az ezzel közvetlenül összefüggő kényelmi és ellátási szolgáltatás nyújtására szolgál;
 
@@ -429,3 +435,8 @@ b) a kémény, az antenna, villámhárító és a tetősíkban fekvő ablak nem 
 182. zöldfal: építményhez rögzített, mesterségesen létrehozott vagy homlokzatra futtatott jellemzően sík, növényzettel fedett felület, tartó- és futtatószerkezetével, ültetőközeggel együtt;
 
 183. zöldtető: mélygarázs, épület, egyéb építmény épített födémszerkezetén mesterségesen létrehozott, jellemzően sík, növényzettel fedett felület, a legfelső szigetelőréteg fölött kialakított egyéb technikai rétegekkel és ültetőközeggel együtt.
+
+[^1]: Az 5. § 94. pont l) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
+[^2]: Az 5. § 94. pont m) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
+[^3]: Az 5. § 94. pont n) alpontját a 284/2025. (VIII. 25.) Korm. rendelet 25. §-a iktatta be.
+[^4]: Az 5. § 134. pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.

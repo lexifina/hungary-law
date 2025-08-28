@@ -40,6 +40,8 @@ e) nevelési, alapfokú oktatási, szakmai továbbképzést biztosító oktatás
 
 épületek helyezhetők el.
 
+(7a)[^6] Ha az állami főépítész az eltérési igénnyel megegyező záró szakmai véleményt állít ki, a helyi építési szabályzat megengedheti a (6) bekezdés c) pontja szerinti telken lakó rendeltetésű épület elhelyezését úgy, hogy a lakó rendeltetésű épület bruttó alapterülete az övezetre megengedett beépítettség felét nem haladhatja meg.
+
 (8) Ha a helyi építési szabályzat kifejezetten megengedi, a kertes mezőgazdasági területen egy lakó rendeltetésű épület elhelyezhető, ha a következő feltételek együttesen teljesülnek:
 
 a) a telek nagysága az egy hektárt meghaladja,
@@ -61,3 +63,5 @@ c) a közműellátás – ideértve a közműpótló berendezést is – biztos�
 (11) Mezőgazdasági övezetben lévő, zártkerti művelés alól kivett telken építmény legfeljebb 10%-os beépítettséggel helyezhető el.
 
 (12) A Balaton vízparti területei esetében e §-t a Vízparti Tervvel együttesen kell alkalmazni, azzal, hogy ha a Vízparti Terv szigorúbb előírást állapít meg, e rendelet helyett a Vízparti Terv előírását kell alkalmazni.
+
+[^6]: A 34. § (7a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 26. §-a iktatta be.

@@ -38,21 +38,21 @@ esetében létesíthető, ha a helyi építési szabályzat megengedi és az ál
 
 (4) A (3) bekezdés a), c) és d) pontja szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 1/2-e lehet. Az épületkiugrás – az erkélyt is beleértve – a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,00 méter távolságra lehet.
 
-(5) Az elő- és oldalkert 46. § (2) és (3) bekezdése szerint előírt méretén belül nem lehet:
+(5)[^10] Az elő- és oldalkertben nem helyezhető el:
 
 a) növénytermesztés céljára szolgáló üvegház és fóliasátor,
 
-b) tisztítómezővel ellátott oldómedencés létesítmény, árnyékszék, trágyatároló, komposzttoalett,
+b) tisztítómezővel ellátott oldómedencés létesítmény, árnyékszék, trágyatároló, komposzt-toalett,
 
 c) háztartási célú kemence, húsfüstölő,
 
 d) állatkifutó,
 
-e) közterületről látható épületgépészeti berendezés,
+e) közterületről látható épületgépészeti berendezés, kivéve a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben,
 
-f) siló, fedetlen kialakítású ömlesztett anyag-, folyadék- vagy gáztároló és
+f) siló, fedetlen kialakítású ömlesztettanyag-, folyadék- vagy gáztároló, kivéve a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, és
 
-g) nem ideiglenes jellegű medence.
+g) nem ideiglenes jellegű medence, kivéve a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben.
 
 (6) A hátsókertben – a szükséges védőtávolságok megtartásával – valamennyi melléképítmény, továbbá kerti és nyári konyha, személygépjármű-, kerékpár- és motorkerékpár-tároló, szauna, kerti szerszámtároló és tűzifatároló épület elhelyezhető. Üvegházat és fóliasátrat a teleknek a szomszédos telekkel közös határától legalább 1,50 méter távolságra szabad elhelyezni.
 
@@ -65,3 +65,22 @@ b) a megújuló energiaforrás műtárgyai és épületgépészeti berendezés �
 ha az elhelyezése szerinti telek és a szomszédos telek rendeltetésszerű használatát nem zavarják.
 
 (8) Ha a helyi építési szabályzat másként nem rendelkezik, terepszint alatt gépjárműtároló, valamint önálló és épülethez kapcsolódó pince az építési helyen kívül is elhelyezhető, azzal, hogy az a közvetlenül szomszédos telkek rendeltetésszerű használatát nem korlátozhatja.
+
+(9)[^11] Ha a helyi építési szabályzat másként nem rendelkezik, a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, az elő-, oldal- és hátsókertben elhelyezhető
+
+a) portaépület legfeljebb 50 m2-es beépítési mértékig,
+
+b) fedett kerékpártároló,
+
+c) sprinkler tartály és gépház,
+
+d) közmű és közműhöz kapcsolódó termelő, elosztó, gyűjtő, továbbító, szabályozó, mérő rendeltetésű építmények, vezetékek, berendezések,
+
+e) csapadékvíz-tároló,
+
+f) oltóvíztároló,
+
+g) aggregátor.
+
+[^10]: A 47. § (5) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^11]: A 47. § (9) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 28. § (2) bekezdése iktatta be.

@@ -16,6 +16,8 @@ d) a vendéglátó önálló rendeltetési egység közterületi terasza esetén
 
 (4) A gépjárműveket telken belül, elsődlegesen épületben vagy terepszint alatti építményben kell elhelyezni. Ha az adottságok szükségessé teszik, és azt a helyi építési szabályzat megengedi, – a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározottak szerint – a gépjármű várakozóhelyek a 4. melléklet 3. pontja kivételével a telekhatártól mért, legfeljebb 500 méteren belüli más telken parkolóban, parkolóházban, illetve a közforgalom céljára átadott magánút egy részének felhasználásával is kialakíthatók. Parkolóház esetén a mozgásukban korlátozottak részére kialakított várakozóhelyeknek akadálymentes elérési útvonalon elérhetőnek kell lenniük.
 
+(4a)[^14] A 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben elsődlegesen felszíni várakozóhelyek alakítandók ki.
+
 (5) A helyi építési szabályzat a 4. és az 5. mellékletben meghatározott gépjármű, kerékpár és motorkerékpár várakozóhelyek számára vonatkozó előírásoktól – a 4. melléklet 3. pontja kivételével – eltérhet, ha
 
 a) a helyi építési szabályzat megalapozó vizsgálata és alátámasztó javaslata az érintett építési övezet, övezet, telektömb, telek településen belüli elhelyezkedése, domborzati adottságai, közösségi közlekedési ellátottsága vagy forgalmi terheltsége alapján megalapozottnak tartja a 4. és 5. mellékletben foglaltaknál szigorúbb vagy enyhébb szabályok alkalmazását – ideértve azt is, hogy a közösségi közlekedési ellátottság magas szintje alapján nem kell gépjármű vagy kerékpár várakozóhelyet kialakítani –, és
@@ -45,3 +47,5 @@ várakozóhely létesítendő.
 (10) A személygépjármű tárolók és várakozóhelyek minimális méreteire vonatkozó követelményeket a 6. melléklet tartalmazza.
 
 (11) A személygépjármű álláshelyek kialakítása során a 2. melléklet 11–13. ábráját figyelembe kell venni.
+
+[^14]: Az 59. § (4a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 30. §-a iktatta be.
