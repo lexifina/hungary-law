@@ -69,3 +69,7 @@ a) az érintett forgalmi számla zárolásra került,
 b) a számlatulajdonos a származási garancia kiállításának mellőzését kérte, vagy
 
 c) az erőmű vagy a villamosenergia-tároló minősítése vagy regisztrációja megszűnt.
+
+(13)[^4] A Hivatal biztosítja, hogy a kiállított származási garancia megfeleljen az EN 16325 szabvány követelményeinek.
+
+[^4]: A 10. § (13) bekezdését a 262/2025. (VIII. 13.) Korm. rendelet 15. §-a iktatta be.

@@ -12,6 +12,8 @@ b) előre nem tervezett vagy nem tervezhető változást a tudomásszerzéstől 
 
 (4) A Hivatal visszavonja a minősítést, amennyiben olyan információ jut tudomására, ami szerint a minősítés feltételei nem állnak fenn.
 
-(5) A Hivatal határozatával saját hatáskörben visszavonja a minősítést, amennyiben tudomására jut, hogy jogszabály, a 16. § szerinti automatikus kapcsolatra vonatkozó Európai Energiatanúsítvány Rendszer szabályai vagy a Szabvány változására tekintettel a minősítés feltételei nem állnak fenn.
+(5)[^3] A Hivatal határozatával saját hatáskörben visszavonja a minősítést, amennyiben tudomására jut, hogy jogszabály, a 16. § szerinti automatikus kapcsolatra vonatkozó Európai Energiatanúsítvány Rendszer szabályai, az EN 16325 szabvány vagy a Szabvány változására tekintettel a minősítés feltételei nem állnak fenn.
 
 (6) Az (1) bekezdéstől eltérően a villamosenergia-tárolóra, a nagy hatásfokú kapcsolt termelésre, a közcélú hálózatra nem vagy betáplálási teljesítmény nélkül csatlakozó erőműre, valamint a közcélú hálózatra csatlakozó erőműre az általa termelt és a csatlakozási pont mögött felhasznált villamos energiára vonatkozó minősítés érvényességi ideje – amennyiben annak visszavonására nem kerül sor – legfeljebb egy év, kivéve, ha a minősítés lejáratát 30 nappal megelőzően a 4. § (5) bekezdése szerinti igazolás a minősítésben foglalt feltételek változatlanságát alátámasztja.
+
+[^3]: A 6. § (5) bekezdése a 262/2025. (VIII. 13.) Korm. rendelet 14. §-ával megállapított szöveg.

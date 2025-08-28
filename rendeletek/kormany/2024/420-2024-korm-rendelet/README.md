@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-420-20-
 | --- | --- | --- |
 | 2025-01-01 | 2024-420-20-22.1 | 420/2024. (XII. 23.) Korm. rendelet |
 | 2025-01-02 | 2024-420-20-22.2 | 2010. évi CXXX. törvény |
+| 2025-08-28 | 2024-420-20-22.3 | 262/2025. (VIII. 13.) Korm. rendelet |

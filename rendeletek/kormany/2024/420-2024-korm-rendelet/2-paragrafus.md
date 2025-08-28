@@ -42,13 +42,13 @@ e) külföldi származási garancia elismerését kérheti.
 
 (12) A számlatulajdonosok, valamint a regisztrált erőművek személyes adatokat nem tartalmazó azonosító adatait a Hivatal a honlapján közzéteszi.
 
-(13) Az e rendeletben nem szabályozott kérdésekben a számlaszerződésre a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó általános szabályait kell alkalmazni. A Hivatal e rendelettel összhangban jogosult a számlarendszerhez való hozzáférésre, a számlaszerződésre és a forgalmi számla vezetésére vonatkozó részletes szabályokat az általános szerződési feltételekben egyoldalúan meghatározni.
+(13)[^1] Az e rendeletben nem szabályozott kérdésekben a számlaszerződésre a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó általános szabályait kell alkalmazni. A Hivatal e rendelettel és az Európai Szabványügyi Bizottság által kibocsátott EN 16325 szabvánnyal (a továbbiakban: EN 16325 szabvány) összhangban jogosult a számlarendszerhez való hozzáférésre, a számlaszerződésre és a forgalmi számla vezetésére vonatkozó részletes szabályokat az általános szerződési feltételekben egyoldalúan meghatározni.
 
-(14) A Hivatal jogosult az általános szerződési feltételeket egyoldalúan módosítani, ha azt
+(14)[^2] A Hivatal jogosult az általános szerződési feltételeket egyoldalúan módosítani, ha azt
 
 a) jogszabályváltozás vagy
 
-b) a származási garanciákról szóló nemzeti szabvány vagy azzal egyenértékű műszaki megoldás (a továbbiakban: Szabvány) változása vagy
+b) az EN 16325 szabvány, a származási garanciákról szóló nemzeti szabvány vagy azzal egyenértékű műszaki megoldás (a továbbiakban: Szabvány) változása vagy
 
 c) a számlarendszer és külföldi számlarendszerek közötti, 16. § szerinti automatikus kapcsolatra vonatkozó Európai Energiatanúsítvány Rendszer szabályainak változása
 
@@ -59,3 +59,6 @@ indokolja.
 (16) A Hivatal a módosításról annak hatálybalépését megelőzően legalább 40 nappal a Hivatal honlapján történő közzététel útján tájékoztatja az érintett számlatulajdonosokat.
 
 (17) A számlaszerződés közigazgatási szerződésnek minősül.
+
+[^1]: A 2. § (13) bekezdése a 262/2025. (VIII. 13.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^2]: A 2. § (14) bekezdése a 262/2025. (VIII. 13.) Korm. rendelet 13. §-ával megállapított szöveg.
