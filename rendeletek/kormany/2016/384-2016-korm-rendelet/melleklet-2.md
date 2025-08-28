@@ -4,7 +4,7 @@ A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dok
 
 1. A telekalakítási dokumentáció tartalma:
 
-1.1.[^89]
+1.1.[^93]
 
 1.2. a telekalakítási helyszínrajz,
 
@@ -26,12 +26,12 @@ A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dok
 
 2.7. a telekalakítással érintett földrészleten lévő összes építmény távolságát a tervezett földrészlet határtól,
 
-2.8.[^90] a létrejövő földrészlet méreteit, nyúlványos telek esetén a földrészlet nyúlvány nélküli méretét,
+2.8.[^94] a létrejövő földrészlet méreteit, nyúlványos telek esetén a földrészlet nyúlvány nélküli méretét,
 
 2.9. a beépített földrészlet esetén a földrészlet eredeti és a telekalakítás utáni beépítési százalékát.
 
-3.[^91]
+3.[^95]
 
-[^89]: A 2. melléklet 1.1. pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 17. pontja hatályon kívül helyezte.
-[^90]: A 2. melléklet 2.8. pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § h) pontja szerint módosított szöveg.
-[^91]: A 2. melléklet 3. pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 18. pontja hatályon kívül helyezte.
+[^93]: A 2. melléklet 1.1. pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 17. pontja hatályon kívül helyezte.
+[^94]: A 2. melléklet 2.8. pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § h) pontja szerint módosított szöveg.
+[^95]: A 2. melléklet 3. pontját a 179/2023. (V. 15.) Korm. rendelet 179. § 18. pontja hatályon kívül helyezte.
