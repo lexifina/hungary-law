@@ -36,6 +36,8 @@
 
 ## f) az Ávr. 172/B. § (3) bekezdésében biztosított jogkörében eljárva, az Ávr. 172/A. § (2) és (3) bekezdése alapján a XXV. Közigazgatási és Területfejlesztési Minisztérium fejezet részére megállapított, a 2024. október hónapban adott éves és a december hónapban adott tárgyhavi előrejelzés tekintetében megállapított befizetési kötelezettség összegéből 14 538 105 forint befizetési kötelezettséget elengedi.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint kormányhatározat visszavonásáról szóló 1036/2024. (II. 22.) Korm. határozat 2. pontjában a „2025. január 31.” szövegrész helyébe a „2025. január 31., a Miniszterelnökség részére biztosított 942 869 000 forint tekintetében 2028. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1322/2025. (VIII. 28.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
