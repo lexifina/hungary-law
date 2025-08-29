@@ -10,11 +10,13 @@ c) a kialakult vízminőségi helyzet miatt szükséges.
 
 (2) Az I. fokú készültséget az érintett VIZIG vezetője rendeli el.
 
-(3) A vízhiány elleni védekezés II. fokú készültségét kell elrendelni, ha a vízhiánykezelő körzet területi adottsága alapján
+(3)[^77] A vízhiány elleni védekezés II. fokú készültségét kell elrendelni, ha a vízhiánykezelő körzet területi adottsága alapján
 
 a) a HDIs szerinti aszályfokozat azt indokolja, és a mezőgazdasági művelésre használt talaj vízháztartási adatai, valamint a hidrometeorológiai előrejelzések alapján ezen aszályfokozat tartós fennállására lehet számítani, vagy
 
-b) a felhasználható vízkészletek csökkenése és a vízelosztásban részt vevő medrek, tározók (holtágak) és műtárgyak átbocsátóképességének átmeneti hiányossága, üzemzavara miatt – a vízjogi engedélyekben lekötött vízmennyiségek figyelembevételével – az átadási pontokon egyidejűleg felmerülő vízigényeket nem lehet kielégíteni, de az üzemrend optimalizálásával, kiegészítő műszaki megoldásokkal a vízmennyiség biztosítható.
+b) felhasználható vízkészletek csökkenése és a vízelosztásban részt vevő medrek, tározók (holtágak) és műtárgyak átbocsátóképességének átmeneti hiányossága, üzemzavara miatt – a vízjogi engedélyekben lekötött vízmennyiségek figyelembevételével – az átadási pontokon egyidejűleg felmerülő vízigényeket nem lehet kielégíteni, de az üzemrend optimalizálásával, kiegészítő műszaki megoldásokkal a vízmennyiség biztosítható, vagy
+
+c) az egyes vízhiánykezelő körzetek vízkivételi helyénél a folyószakasz elrendelő vízmércéjén előrejelzett vízállás a 3. melléklet szerinti elrendelési vízszint alá csökken.
 
 (4) A vízhiány elleni védekezés III. fokú készültségét kell elrendelni, ha a vízhiánykezelő körzet területi adottsága alapján
 
@@ -22,13 +24,13 @@ a) a HDIs szerinti aszályfokozat azt indokolja, és a mezőgazdasági művelés
 
 b) a (3) bekezdés b) pontjában foglaltakon túl területi vízkorlátozás elrendelésének kezdeményezése szükséges.
 
-(5)[^75] A vízkorlátozást a III. fokú készültség esetén a védelemvezető javaslatára a Területi Védelmi Bizottság vagy a vízügyi hatóság tájékoztatása mellett a Törzs rendeli el, ha a vízkorlátozás több VIZIG működési területét érinti.
+(5)[^78] A vízkorlátozást a III. fokú készültség esetén a védelemvezető javaslatára a Területi Védelmi Bizottság vagy a vízügyi hatóság tájékoztatása mellett a Törzs rendeli el, ha a vízkorlátozás több VIZIG működési területét érinti.
 
 (6) A védelemvezető
 
 a) javaslatára, ha a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 15. § (5) bekezdése szerinti korlátozási sorrend alapján a létfenntartási ivó- és közegészségügyi, valamint a katasztrófaelhárítási vízigények kielégítése veszélybe kerül, a vízhiány elleni védekezés során a rendkívüli készültséget,
 
-b)[^76] – a vízügyi hatóság tájékoztatásával, a Területi Védelmi Bizottság egyetértésével és a Törzs útján tett – javaslatára a veszélyhelyzet kihirdetése nélküli rendkívüli készültség esetén a vízkorlátozást
+b)[^79] – a vízügyi hatóság tájékoztatásával, a Területi Védelmi Bizottság egyetértésével és a Törzs útján tett – javaslatára a veszélyhelyzet kihirdetése nélküli rendkívüli készültség esetén a vízkorlátozást
 
 a miniszter rendeli el.
 
@@ -36,5 +38,6 @@ a miniszter rendeli el.
 
 (8) A vízhiány elleni védekezés során elrendelt készültség egyes fokozatait meg kell szüntetni, ha az elrendelés oka nem áll fenn.
 
-[^75]: A 23/H. § (5) bekezdése a 41/2022. (XII. 9.) BM rendelet 1. § b) pontja szerint módosított szöveg.
-[^76]: A 23/H. § (6) bekezdés b) pontja a 41/2022. (XII. 9.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^77]: A 23/H. § (3) bekezdése a 27/2025. (VIII. 28.) EM rendelet 2. §-ával megállapított szöveg.
+[^78]: A 23/H. § (5) bekezdése a 41/2022. (XII. 9.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^79]: A 23/H. § (6) bekezdés b) pontja a 41/2022. (XII. 9.) BM rendelet 1. § b) pontja szerint módosított szöveg.

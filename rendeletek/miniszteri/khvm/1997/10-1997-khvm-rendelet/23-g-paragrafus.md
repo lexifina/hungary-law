@@ -1,3 +1,3 @@
-## III/B.[^74] A vízhiány elleni védekezés
+## III/B.[^76] A vízhiány elleni védekezés
 
-[^74]: A III/B. alcímet (23/G–23/J. §) a 35/2021. (X. 14.) BM rendelet 1. § (10) bekezdése iktatta be.
+[^76]: A III/B. alcímet (23/G–23/J. §) a 35/2021. (X. 14.) BM rendelet 1. § (10) bekezdése iktatta be.
