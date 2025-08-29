@@ -1,0 +1,1 @@
+20. § A 17. § (2) bekezdése szerint értékesítésre kerülő lakás vevőjét a 19. §-ban, az üres, valamint a harmadik személy részére lakottan értékesítésre kerülő lakás vevőjét a 17–19. §-ban meghatározott kedvezmények nem illetik meg.

@@ -1,0 +1,1 @@
+30. § A főigazgató a 29. §-ban meghatározott feltételek alól mentesítést engedélyezhet a 6. melléklet 7. táblázata szerinti kiemelt munkaköri kategóriába sorolás esetében, ha a közalkalmazott mérnöki végzettséggel betölthető munkakörbe kerül besorolásra.
