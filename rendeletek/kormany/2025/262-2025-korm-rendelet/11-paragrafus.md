@@ -1,1 +1,3 @@
-11. § A Korm. rendelet 1. § 1. pontjában a „legalább 2 darab” szövegrész helyébe a „legalább 1 darab” szöveg lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

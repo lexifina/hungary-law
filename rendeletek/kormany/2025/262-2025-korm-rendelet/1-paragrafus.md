@@ -12,4 +12,6 @@
 
 ## 1. Az elektromobilitás hazai elterjesztésével kapcsolatos egyes állami feladatokról szóló 443/2017. (XII. 27.) Korm. rendelet hatályon kívül helyezése
 
-1. § Hatályát veszti az elektromobilitás hazai elterjesztésével kapcsolatos egyes állami feladatokról szóló 443/2017. (XII. 27.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

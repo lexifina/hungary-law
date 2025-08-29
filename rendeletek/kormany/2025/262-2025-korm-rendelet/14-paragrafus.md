@@ -1,3 +1,3 @@
-14. § Az Szgr. 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(5) A Hivatal határozatával saját hatáskörben visszavonja a minősítést, amennyiben tudomására jut, hogy jogszabály, a 16. § szerinti automatikus kapcsolatra vonatkozó Európai Energiatanúsítvány Rendszer szabályai, az EN 16325 szabvány vagy a Szabvány változására tekintettel a minősítés feltételei nem állnak fenn.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

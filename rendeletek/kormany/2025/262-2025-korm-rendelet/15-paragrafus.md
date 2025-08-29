@@ -1,3 +1,3 @@
-15. § Az Szgr. 10. §-a a következő (13) bekezdéssel egészül ki:
+15. §[^16]
 
-„(13) A Hivatal biztosítja, hogy a kiállított származási garancia megfeleljen az EN 16325 szabvány követelményeinek.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
