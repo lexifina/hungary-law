@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-14-20-1
 | 2021-07-25 | 2021-14-20-15.2 | 2010: CXXX. törvény |
 | 2022-12-30 | 2021-14-20-15.3 | 37/2022. (XII. 29.) HM rendelet |
 | 2023-12-28 | 2021-14-20-15.4 | 39/2023. (XII. 27.) HM rendelet |
+| 2025-08-29 | 2021-14-20-15.5 | 9/2025. (VIII. 28.) HM rendelet |
