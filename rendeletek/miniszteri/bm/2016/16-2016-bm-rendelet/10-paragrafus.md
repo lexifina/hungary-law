@@ -12,7 +12,7 @@ d) a közcélú szennyvízelvezető, -tisztító műbe bebocsátott szennyvíz �
 
 e) az üzemeltetéssel összefüggő nyilvántartás és adatszolgáltatás;
 
-f) a létfontosságú vízgazdálkodási rendszerelemek és vízilétesítmények azonosításáról, kijelöléséről és védelméről szóló kormányrendelet alapján kijelölt létfontosságú rendszerelem védelmével kapcsolatos feladatok ellátása.
+f)[^28] a kritikus szervezetek ellenálló képességéről szóló törvény végrehajtásáról szóló kormányrendelet alapján a szennyvíz alágazatban kijelölt kritikus infrastruktúra védelmével kapcsolatos feladatok ellátása.
 
 (2) A közcélú szennyvízelvezető, -tisztító mű szakszerű és biztonságos üzemeltetésével kapcsolatos műszaki, technológiai, vízgazdálkodási, biztonságtechnikai, közegészségügyi, ár- és belvízvédelmi, víz-, környezet- és természetvédelmi előírásokat, továbbá az egyes tevékenységek gyakorlásának személyi feltételeit – a jogszabályi rendelkezések figyelembevételével – üzemeltetési szabályzatban kell meghatározni.
 
@@ -47,3 +47,5 @@ b) a vizsgálandó fizikai, kémiai és biológiai összetevők,
 c) a vizsgálandó minták száma
 
 meghatározására terjed ki.
+
+[^28]: A 10. § (1) bekezdés f) pontja a 27/2025. (VIII. 28.) EM rendelet 6. §-ával megállapított szöveg.

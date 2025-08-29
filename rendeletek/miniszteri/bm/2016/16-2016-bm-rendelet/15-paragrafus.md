@@ -1,6 +1,6 @@
 15. § (1) A lakosegyenértékben (a továbbiakban: LE) kifejezett terhelést az év folyamán a telepre belépő maximális heti terhelés alapján – ide nem értve a szélsőséges időjárási esemény következtében előálló üzemállapotot – meghatározott átlagos terhelésből kell kiszámítani. Egyesített rendszerek esetében a terheléseket a hatósági engedély szerint kell figyelembe venni.
 
-(2)[^28] A szennyvízvizsgálatok szempontjából a szennyvíztisztító telepről elfolyó tisztított szennyvíz minőségénél az öt napos biokémiai oxigénigény (BOI5) paramétert
+(2)[^30] A szennyvízvizsgálatok szempontjából a szennyvíztisztító telepről elfolyó tisztított szennyvíz minőségénél az öt napos biokémiai oxigénigény (BOI5) paramétert
 
 a) a felszíni vizek minősége védelmének szabályairól szóló kormányrendelet szerint önellenőrzésre kötelezett, vagy önellenőrzésre vállalkozott közcélú szennyvíztisztító telep esetében a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben szabályozott önellenőrzés keretén belüli, vagy
 
@@ -14,12 +14,12 @@ vizsgálni kell.
 
 a) a használt- és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben előírt adatszolgáltatást az abban foglalt határidőre az illetékes vízügyi hatóság részére,
 
-b)[^29]
+b)[^31]
 
 meg kell küldeni.
 
-(5)[^30]
+(5)[^32]
 
-[^28]: A 15. § (2) bekezdése a 42/2017. (XII. 29.) BM rendelet 16. §-ával megállapított szöveg.
-[^29]: A 15. § (4) bekezdés b) pontját a 31/2020. (VIII. 4.) BM rendelet 2. § c) pontja hatályon kívül helyezte.
-[^30]: A 15. § (5) bekezdését a 31/2020. (VIII. 4.) BM rendelet 2. § d) pontja hatályon kívül helyezte.
+[^30]: A 15. § (2) bekezdése a 42/2017. (XII. 29.) BM rendelet 16. §-ával megállapított szöveg.
+[^31]: A 15. § (4) bekezdés b) pontját a 31/2020. (VIII. 4.) BM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^32]: A 15. § (5) bekezdését a 31/2020. (VIII. 4.) BM rendelet 2. § d) pontja hatályon kívül helyezte.

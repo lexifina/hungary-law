@@ -1,3 +1,3 @@
-20. §[^36]
+20. §[^38]
 
-[^36]: A 20. §-t az 5/2017. (V. 5.) BM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^38]: A 20. §-t az 5/2017. (V. 5.) BM rendelet 5. § b) pontja hatályon kívül helyezte.

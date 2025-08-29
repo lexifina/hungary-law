@@ -10,8 +10,8 @@ c) amennyiben a vízkivételi mű nem rendelkezik jogerős vízjogi üzemelteté
 
 d) amennyiben a vízkivételi mű a jelen rendelet hatálybalépését követő időpontban kerül első alkalommal üzembe helyezésre, az üzembe helyezéstől számított két naptári éven belül
 
-e)[^31] a közösségi ivóvízellátást biztosító saját célú ivóvízmű esetén 2025. január 12-ig
+e)[^33] a közösségi ivóvízellátást biztosító saját célú ivóvízmű esetén 2025. január 12-ig
 
 kell az első alapállapot-vizsgálatot elvégezni.
 
-[^31]: A 17. § (2) bekezdés e) pontját az 1/2023. (I. 12.) BM rendelet 15. §-a iktatta be.
+[^33]: A 17. § (2) bekezdés e) pontját az 1/2023. (I. 12.) BM rendelet 15. §-a iktatta be.

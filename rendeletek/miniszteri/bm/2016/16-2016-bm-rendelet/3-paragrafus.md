@@ -12,7 +12,7 @@ d) a közcélú ivóvízmű üzemeltetéssel összefüggő nyilvántartás és a
 
 e) az ivóvíz minőségének rendszeres vizsgálata;
 
-f) a létfontosságú vízgazdálkodási rendszerelemek és vízilétesítmények azonosításáról, kijelöléséről és védelméről szóló kormányrendelet alapján kijelölt létfontosságú rendszerelem védelmével kapcsolatos feladatok ellátása.
+f)[^8] a kritikus szervezetek ellenálló képességéről szóló törvény végrehajtásáról szóló kormányrendelet alapján az ivóvíz alágazatban kijelölt kritikus infrastruktúra védelmével kapcsolatos feladatok ellátása.
 
 (2) A közcélú ivóvízmű szakszerű és biztonságos üzemeltetésével kapcsolatos műszaki, technológiai, vízgazdálkodási, vízvédelmi, biztonságtechnikai, közegészségügyi, környezet- és természetvédelmi előírásokat, továbbá az egyes tevékenységek gyakorlásának személyi feltételeit – a jogszabályi rendelkezések figyelembevételével – üzemeltetési szabályzatban kell meghatározni.
 
@@ -46,10 +46,11 @@ szolgáló szabályokat.
 
 a) a vizsgálatok gyakorisága;
 
-b)[^8] a vizsgálandó fizikai, kémiai mikroszkópos biológiai és bakteriológiai összetevők;
+b)[^9] a vizsgálandó fizikai, kémiai mikroszkópos biológiai és bakteriológiai összetevők;
 
 c) a vizsgálandó minták száma
 
 meghatározására terjed ki.
 
-[^8]: A 3. § (6) bekezdés b) pontja a 42/2017. (XII. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés f) pontja a 27/2025. (VIII. 28.) EM rendelet 5. §-ával megállapított szöveg.
+[^9]: A 3. § (6) bekezdés b) pontja a 42/2017. (XII. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.

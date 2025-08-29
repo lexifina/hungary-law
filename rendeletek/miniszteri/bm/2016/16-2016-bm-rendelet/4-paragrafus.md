@@ -4,7 +4,7 @@ a) a műtárgyakra és berendezésekre vonatkozó dokumentációkat, kezelési, 
 
 b) munkavédelmi és érintésvédelmi bizonylatokat;
 
-c)[^9] a vízjogi üzemeltetési engedély véglegessé válásáig a műszaki átadás-átvételi jegyzőkönyveket;
+c)[^10] a vízjogi üzemeltetési engedély véglegessé válásáig a műszaki átadás-átvételi jegyzőkönyveket;
 
 d) a geodéziai felméréseket, hidrológiai, hidrogeológiai adatokat, észleléseket rögzítő dokumentumokat;
 
@@ -22,4 +22,4 @@ i) az ivóvízbiztonsági tervet.
 
 (3) A közcélú ivóvízmű üzemeltetőjének az (1) és (2) bekezdésekben foglaltakat figyelembe véve üzemeltetési utasítást kell készítenie.
 
-[^9]: A 4. § (1) bekezdés c) pontja a 42/2017. (XII. 29.) BM rendelet 13. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdés c) pontja a 42/2017. (XII. 29.) BM rendelet 13. §-ával megállapított szöveg.
