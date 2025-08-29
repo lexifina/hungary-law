@@ -1,7 +1,3 @@
-24. § Hatályát veszti a 419/2021. (VII. 15.) Korm. rendelet
+24. §[^28]
 
-a) 29. alcíme,
-
-b) 70. § a) pontjában az „a kézikönyv és a településképi rendelet vonatkozásában” szövegrész,
-
-c) – az egyes jogszabályok településrendezéssel összefüggő módosításáról szóló 253/2023. (VI. 23.) Korm. rendelet által megállapított – 78/D. § (3) bekezdésében az „ , azzal, hogy az 57. § a) pontja szerinti alaptérképet DAT- és shape-formátumban szolgáltatja az önkormányzatoknak” szövegrész.
+[^28]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

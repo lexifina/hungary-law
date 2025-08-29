@@ -1,3 +1,3 @@
-19. § A 419/2021. (VII. 15.) Korm. rendelet 59. §-a a következő (5) bekezdéssel egészül ki:
+19. §[^23]
 
-„(5) Az (1) bekezdés a) pontja szerinti adatszolgáltatást az önkormányzat a (2) bekezdés szerinti döntéstől számított 6 hónapon belül kezdeményezheti, és a folyamatban lévő tervezés során, szükség esetén ismételt adatszolgáltatást kérhet.”
+[^23]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

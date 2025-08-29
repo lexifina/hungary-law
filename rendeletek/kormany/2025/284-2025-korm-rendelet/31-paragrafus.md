@@ -1,3 +1,3 @@
-31. § A TÉKA 66. §-a a következő (1a) bekezdéssel egészül ki:
+31. §[^35]
 
-„(1a) A zárt szennyvíztárolás – szivárgásmentes kialakítással, rendszeres ürítéssel, ellenőrzött elszállítással – csak végső megoldásként alkalmazható.”
+[^35]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-4. § A 190/2009. (IX. 15.) Korm. rendelet 4. § (3) bekezdésében a „főépítész és a Balatoni főépítész” szövegrész helyébe a „főépítész” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

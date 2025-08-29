@@ -1,13 +1,5 @@
 ## 6. A településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet módosítása
 
-25. § A településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet [a továbbiakban: TÉKA] 5. § 94. pontja a következő l)–n) alponttal egészül ki:
+25. §[^29]
 
-(E rendelet alkalmazásában
-
-melléképítmény: a telek és a telken álló főépület, főépületek rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény, különösen:)
-
-„l) sprinkler tartály és gépház,
-
-m) csapadékvíz-tároló,
-
-n) oltóvíztároló;”
+[^29]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

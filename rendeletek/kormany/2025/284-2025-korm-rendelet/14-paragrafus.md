@@ -1,1 +1,3 @@
-14. § Hatályát veszti a 384/2016. (XII. 2.) Korm. rendelet 23/J. § (1) bekezdése.
+14. §[^18]
+
+[^18]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

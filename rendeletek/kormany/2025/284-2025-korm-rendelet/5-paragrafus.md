@@ -1,5 +1,5 @@
 ## 2. Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet módosítása
 
-5. § Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet [a továbbiakban: 191/2009. (IX. 15.) Korm. rendelet] 22. § (4) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(4) A kivitelezési dokumentációt – egyszerű bejelentéshez kötött építési tevékenység esetében a (2) bekezdésben foglaltakra figyelemmel – az 1. melléklet szerint kell elkészíteni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

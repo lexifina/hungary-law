@@ -2,14 +2,17 @@
 
 7. § Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet [a továbbiakban: 266/2013. (VII. 11.) Korm. rendelet]
 
-a) 15/E. § (1) bekezdésében az „az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény” szövegrész helyébe az „az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.)” szöveg és az „állami építési beruházások rendjéről szóló törvényben” szövegrész helyébe az „Ábtv.-ben” szöveg,
+a)[^8]
 
-b)[^3]
+b)[^9]
 
-c) 15/E. § (3) bekezdésében az „állami építési beruházások rendjéről szóló törvény” szövegrész helyébe az „Ábtv.” szöveg, valamint az „állami építési beruházások rendjéről szóló törvényben” szövegrész helyébe az „Ábtv.-ben” szöveg,
+c)[^10]
 
-d) 15/H. § (2) bekezdésében az „állami építési beruházások rendjéről szóló törvény” szövegrész helyébe az „Ábtv.” szöveg
+d)[^11]
 
 lép.
 
-[^3]: A 7. § b) pontja a 41. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^8]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § b) pontja a 41. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^10]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

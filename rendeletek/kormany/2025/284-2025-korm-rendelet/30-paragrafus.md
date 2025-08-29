@@ -1,3 +1,3 @@
-30. § A TÉKA 59. §-a a következő (4a) bekezdéssel egészül ki:
+30. §[^34]
 
-„(4a) A 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben elsődlegesen felszíni várakozóhelyek alakítandók ki.”
+[^34]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
