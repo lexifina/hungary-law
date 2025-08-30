@@ -1,1 +1,3 @@
-4. § A 10/1997. (VII. 17.) KHVM rendelet 4. mellékletében foglalt táblázat B:2 és B:3 mezőjében az „1,33” szövegrész helyébe az „1,20” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,12 +10,6 @@
 
 ## 1. Az árvíz- és a belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet módosítása
 
-1. § Az árvíz- és a belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet [a továbbiakban: 10/1997. (VII. 17.) KHVM rendelet] 19. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) A belvízi jelenségek megjelenése esetén a vízkészletek mennyiségi javítása céljából az (1) bekezdés szerinti fokozatot nem kell elrendelni
-
-a) a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet 6. § (5) bekezdésében meghatározott, öntözésre vonatkozó vízhasznosítási idény (a továbbiakban: öntözési idény) időtartama alatt legfeljebb 15 napig,
-
-b) öntözési idényen kívül legfeljebb 30 napig.
-
-(1b) Ha a hidrometeorológiai és talajnedvességi adatok indokolják, a VIZIG az (1a) bekezdésben rögzített határidőtől eltérhet, és elrendeli az I. fokú készültséget.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
