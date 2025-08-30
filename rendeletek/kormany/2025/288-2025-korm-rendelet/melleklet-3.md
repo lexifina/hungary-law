@@ -1,7 +1,3 @@
-3. melléklet a 288/2025. (VIII. 28.) Korm. rendelethez
+3. melléklet a 288/2025. (VIII. 28.) Korm. rendelethez[^11]
 
-Az R6. 2. melléklete a következő 32. ponttal egészül ki:
-
-(A nevelő-oktató munka során alkalmazott tartalomszabályozókról szóló gyakornoki továbbképzési programok:)
-
-„32. Az óvodapedagógusi munkát meghatározó központi szabályozó: az Óvodai Nevelés Országos Alapprogramja.”
+[^11]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

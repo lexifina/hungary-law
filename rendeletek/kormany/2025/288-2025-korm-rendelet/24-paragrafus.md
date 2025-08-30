@@ -1,1 +1,3 @@
-24. § Az R5. 1. § (1) bekezdés c) pont nyitó szövegrészében a „pontban meghatározottak” szövegrész helyébe a „pontban és a (3) bekezdésben meghatározottak” szöveg lép.
+24. §[^7]
+
+[^7]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
