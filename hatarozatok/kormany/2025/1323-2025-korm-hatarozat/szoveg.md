@@ -14,6 +14,8 @@ c) felhatalmazza a közigazgatási és területfejlesztési minisztert, hogy a t
 
 | Határidő: | a tervezet Európai Bizottsággal történő tárgyalása során folyamatos |
 
-2. A Kormány visszavonja a Területi Igazságos Átmenet Tervek elfogadásáról szóló 1404/2021. (VI. 30.) Korm. határozatot.
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
