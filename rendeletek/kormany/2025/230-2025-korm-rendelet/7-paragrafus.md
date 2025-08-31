@@ -1,5 +1,3 @@
-## 3.[^7]
+## 3. Az egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről szóló 774/2021. (XII. 23.) Korm. rendelet módosítása
 
-7. §
-
-[^7]: A 3. alcím a 11. § (2) bekezdése alapján 2025. augusztus 31-én lép hatályba.
+7. § Az egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről szóló 774/2021. (XII. 23.) Korm. rendelet 4. § (2) bekezdésében az „az AH NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság” szövegrész helyébe az „a Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság” szöveg lép.

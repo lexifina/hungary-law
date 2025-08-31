@@ -1,3 +1,3 @@
-1. melléklet a 230/2025. (VII. 31.) Korm. rendelethez[^11]
+1. melléklet a 230/2025. (VII. 31.) Korm. rendelethez[^10]
 
-[^11]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
