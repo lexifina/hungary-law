@@ -16,7 +16,7 @@
 
 6. a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak vagy biztosítási titoknak minősülő adatot kezelő szervtől, ilyen adatra vonatkozóan,
 
-7. az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben meghatározott egészségügyi és személyes adatot kezelő szervezettől, ilyen adatra vonatkozóan,
+7. az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben meghatározott egészségügyi és személyes adatot kezelő szervezettől, ilyen adatra, valamint az egészségügyi igazgatási feladatok ellátására létrehozott központi hivatalként működő szervtől az általa kezelt adatra vonatkozóan,
 
 8. a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 28. §-a és 28/A. §-a alapján vezetett nyilvántartásból,
 
@@ -59,5 +59,9 @@
 27. törvényben meghatározott esetben az Európai Unió kötelező jogi aktusa által létrehozott nyilvántartásból,
 
 28. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságtól
+
+29. TRACES rendszerből,
+
+30. az egészségügyi szolgálati jogviszonyban álló személyek nyilvántartásából, a közszolgálati alapnyilvántartásból, a személyügyi alapnyilvántartásból
 
 kérhető.

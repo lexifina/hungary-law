@@ -16,7 +16,9 @@ ba) szabott ki törvénysértő büntetést,
 
 bb) alkalmazott törvénysértő intézkedést;
 
-c) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását.
+c) a bűncselekmény törvénysértő minősítése miatt szabott ki olyan büntetést, illetve alkalmazott olyan intézkedést, amely a felülvizsgálati indítvánnyal megtámadott határozat szerint irányadó büntetési tételkerettől eltérő, törvényes büntetési tételkeretre figyelemmel aránytalanul súlyos vagy aránytalanul enyhe;
+
+d) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását.
 
 (2) Eljárási szabálysértés miatt felülvizsgálati indítvány terjeszthető elő, ha a bíróság a határozatát
 

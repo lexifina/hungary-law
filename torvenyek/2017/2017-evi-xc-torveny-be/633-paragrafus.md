@@ -8,10 +8,10 @@
 
 (4) Ha az ügyészség a vádat az elsőfokú bíróság határozatának hatályon kívül helyezése után módosította, a módosított vádirat lényegét az ügyész ismerteti.
 
-(5) Ha a vádlott nem tesz vallomást, az egyesbíró vagy a tanács elnöke a hatályon kívül helyezett vagy az Alkotmánybíróság által megsemmisített határozat alapjául szolgáló tárgyaláson tett vallomásának lényegét is ismertetheti vagy felolvashatja.
+(5) Ha a vádlott nem tesz vallomást, az egyesbíró vagy a tanács elnöke a hatályon kívül helyezett vagy az Alkotmánybíróság által megsemmisített határozat alapjául szolgáló tárgyaláson tett vallomásának lényegét is ismertetheti.
 
-(6) A tanú kihallgatása, illetve a szakértő meghallgatása helyett ismertethető vagy felolvasható a tanúnak a hatályon kívül helyezett vagy az Alkotmánybíróság által megsemmisített határozat alapjául szolgáló tárgyaláson tett vallomásáról, illetve a szakértőnek az ott előterjesztett szakvéleményéről készült jegyzőkönyv lényege.
+(6) A tanú kihallgatása, illetve a szakértő meghallgatása helyett ismertethető a tanúnak a hatályon kívül helyezett vagy az Alkotmánybíróság által megsemmisített határozat alapjául szolgáló tárgyaláson tett vallomásáról, illetve a szakértőnek az ott előterjesztett szakvéleményéről készült jegyzőkönyv lényege.
 
 (7) A (6) bekezdés nem alkalmazható, ha az elsőfokú bíróság ítéletének hatályon kívül helyezése azért történt, mert az ítélet megalapozatlanságát a másodfokú bírósági eljárásban nem lehetett kiküszöbölni.
 
-(8) A (7) bekezdés nem zárja ki azon tanúvallomás, illetve szakvélemény lényegének az ismertetését vagy felolvasását, amely nem az ítéleti tényállás megalapozatlan részére vonatkozik.
+(8) A (7) bekezdés nem zárja ki azon tanúvallomás, illetve szakvélemény lényegének az ismertetését amely nem az ítéleti tényállás megalapozatlan részére vonatkozik.

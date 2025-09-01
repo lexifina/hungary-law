@@ -12,7 +12,7 @@ b) feltételes ügyészi felfüggesztés alkalmazását és annak eredményéhez
 
 c) a gyanúsított együttműködésére tekintettel – a 399. § (1) bekezdésében meghatározott okból – az eljárás megszüntetését, illetve – a 382. § (1) bekezdésében meghatározott okból – a feljelentés elutasítását, illetve
 
-d) vádemelés esetén a XCVIII. és C. Fejezetben meghatározott külön eljárás érdekében szükséges intézkedések megtételét
+d) vádemelés esetén a 422. § (3) bekezdésben meghatározott indítvány megtételét, valamint a XCVIII. és C. Fejezetben meghatározott külön eljárás érdekében szükséges intézkedések megtételét
 
 helyezheti kilátásba, ha a felsorolt intézkedések vagy határozatok e törvényben meghatározott – a bűncselekmény elkövetésének beismerésén, illetve az együttműködésen kívüli – feltételei fennállnak.
 
@@ -25,3 +25,5 @@ b) a (2) bekezdés c) és d) pontja esetén a sértett bejelentése szerint érv
 c) a (2) bekezdés b) pontja kivételével a feltételes ügyészi felfüggesztés keretében előírható egyéb kötelezettség teljesítéséhez
 
 is kötheti.
+
+(4) Az ügyészi intézkedés vagy határozat kilátásba helyezésének nem akadálya, ha a gyanúsított a bűncselekmény elkövetését beismerte.

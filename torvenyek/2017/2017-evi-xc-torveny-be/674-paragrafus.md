@@ -6,7 +6,7 @@
 
 (3) A bíróság az elkésett, a törvényben kizárt vagy a nem jogosulttól származó indítványt érdemi indokolás nélkül elutasítja. A nem jogosulttól származó indítvány elutasítása esetén a bíróság az eljárást hivatalból megindítja, ha az eljárás törvényi feltételei fennállnak.
 
-(4) A bíróság az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésben végzéssel határoz.
+(4) A bíróság az egyszerűsített felülvizsgálati eljárás tárgyát képező kérdésben végzéssel határoz. Ha az egyszerűsített felülvizsgálati eljárásban a bíróság a próbára bocsátás megszüntetéséről határoz, akkor a törvénynek megfelelő halmazati büntetést ítéletben szabja ki.
 
 (5) A bíróság határozata ellen az fellebbezhet, aki az eljárás megindítása érdekében indítványtételre jogosult, vagy az őt érintő körben, akinek a határozat a jogait vagy kötelezettségeit érintette.
 

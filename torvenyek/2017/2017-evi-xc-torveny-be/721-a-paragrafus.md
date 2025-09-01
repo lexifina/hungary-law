@@ -21,3 +21,9 @@ b) a bíróság vagy az ügyészség megkeresi a büntetőeljárás lefolytatás
 (8) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot nem ügydöntő végzésével hatályában fenntartja, ha a büntetőeljárás lefolytatásának az (1) bekezdésben meghatározott akadálya a (2) bekezdés alapján elhárult.
 
 (9) A Kúria a felülvizsgálati indítvánnyal megtámadott határozatot hatályon kívül helyezi és nem ügydöntő végzésével az eljárást megszünteti, ha az alapügyben a bíróság a jogerős ügydöntő határozatát a specialitás szabályán alapuló mentességnek a megsértésével hozta meg, és a büntetőeljárás lefolytatásának az (1) bekezdésben meghatározott akadálya áll fenn és az a (2) bekezdés alapján nem volt elhárítható.
+
+(10) A (8) és (9) bekezdésben meghatározott döntés meghozatala érdekében a (2) bekezdésben meghatározott intézkedéseket
+
+a) a 653. § (2) bekezdésében meghatározott bíróság teszi meg, a felülvizsgálati indítvány felterjesztése előtt, vagy
+
+b) a Kúria teszi meg, ha a felülvizsgálati indítványt a 653. § (4) bekezdése alapján a legfőbb ügyész a Kúriánál terjesztette elő, vagy ha a specialitás szabálya megsértésének vizsgálatára a 659. § (6) bekezdése alapján – hivatalból – kerül sor.

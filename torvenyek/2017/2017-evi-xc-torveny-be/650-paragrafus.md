@@ -8,6 +8,8 @@ b) a Kúria jogegységi eljárása alapján, felülvizsgálat során vagy a tör
 
 c) ha a törvénysértés egyszerűsített felülvizsgálati eljárás lefolytatása útján orvosolható.
 
+d) a terhelt terhére a halála esetén.
+
 (2) A felülvizsgálati indítványban a jogerős ügydöntő határozat által megállapított tényállás nem támadható.
 
 (3) A bíróság jogerős ügydöntő határozatának kizárólag a polgári jogi igény vagy a szülői felügyeleti jog kérdésében hozott rendelkezése ellen a polgári perrendtartásról szóló törvény szabályai szerint van helye felülvizsgálatnak.

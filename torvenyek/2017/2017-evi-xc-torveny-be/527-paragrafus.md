@@ -6,7 +6,7 @@ a) a tanú a tárgyaláson nem hallgatható ki, vagy az tartós külföldi tart�
 
 b) a tanú a tárgyaláson a vallomástételt jogosulatlanul vagy a 177. § (4) és (5) bekezdésében meghatározott esetben megtagadja,
 
-c) a tárgyalást az 518. § (3) bekezdése alapján meg kell ismételni,
+c) az 518. § (3) bekezdése alapján a tanú vallomásának ismertetése szükséges,
 
 d) a tanú a 181. § alapján írásban tett vallomást, és a tanú tárgyaláson történő kihallgatását a bíróság nem tartja szükségesnek.
 

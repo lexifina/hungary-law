@@ -4,6 +4,8 @@
 
 (2) A vád és az indítványok ismertetését követően a bíróság tájékoztatja a vádlottat az egyezség jóváhagyásának következményeiről, különösen a 735. § (2) bekezdésében és a 738. § (1) és (3) bekezdésében foglalt rendelkezésekről.
 
+(2a) Ha a megkötött egyezség módosítására a vádemelést követően kerül sor, akkor a bíróság az előkészítő ülést hivatalból vagy a vádlott vagy a védő indítványára elnapolhatja.
+
 (3) A bíróság ezután felhívja a vádlottat arra, hogy nyilatkozzon, beismeri-e az egyezséggel egyezően a bűnösségét és lemond-e a tárgyaláshoz való jogáról.
 
 (4) A nyilatkozat megtétele előtt a bíróság lehetővé teszi, hogy a vádlott a védővel tanácskozzon.

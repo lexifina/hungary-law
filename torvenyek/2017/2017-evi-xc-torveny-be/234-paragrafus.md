@@ -18,6 +18,6 @@ g) a választás, népszavazás és európai polgári kezdeményezés rendje ell
 
 h) a bennfentes kereskedelem és a tiltott piacbefolyásolás.
 
-(3) Bírói engedélyhez kötött leplezett eszközök a szándékosan elkövetett minősített adattal visszaélés, a hivatali visszaélés, a hivatalos személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.
+(3) Bírói engedélyhez kötött leplezett eszközök a szándékosan elkövetett minősített adattal visszaélés, a vesztegetés, a hivatali visszaélés, a közfeladati helyzettel visszaélés, a hivatalos személy elleni erőszak, a közfeladatot ellátó személy elleni erőszak, a nemzetközileg védett személy elleni erőszak, a nemzetközi gazdasági tilalom megszegése, a készpénz-helyettesítő fizetési eszköz hamisítása, a jogosulatlan pénzügyi tevékenység és a piramisjáték szervezése esetén is alkalmazhatók.
 
 (4) Ha a Btk. a bűncselekmény előkészületét büntetni rendeli, a bírói engedélyhez kötött leplezett eszközök az (1)–(3) bekezdésben meghatározott bűncselekmények előkészülete miatt indult büntetőeljárásban is alkalmazhatók.

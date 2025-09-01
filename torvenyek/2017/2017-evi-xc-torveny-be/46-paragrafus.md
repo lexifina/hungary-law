@@ -1,6 +1,6 @@
 ## Kirendelt védő
 
-46. § (1) A bíróság, az ügyészség és a nyomozó hatóság védő kirendeléséről határoz, ha a büntetőeljárásban védő részvétele kötelező, és a terheltnek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek nincs meghatalmazott védője. A kirendelés alapján a védőként eljáró ügyvéd kijelölése az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.
+46. § (1) A bíróság, az ügyészség vagy a nyomozó hatóság védő kirendeléséről határoz, ha a büntetőeljárásban védő részvétele kötelező, és a terheltnek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek nincs meghatalmazott védője. A kirendelés alapján a védőként eljáró ügyvéd kijelölése – a 45. § (4) bekezdésében foglalt kivétellel – az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.
 
 (2) A kijelölés céljából a védő kirendeléséről szóló határozatot az (1) bekezdés szerint illetékes területi ügyvédi kamarával is közölni kell.
 
