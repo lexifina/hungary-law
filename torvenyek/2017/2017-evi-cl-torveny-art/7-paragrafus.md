@@ -94,7 +94,7 @@ c) amely az egyik szerződő fél számára folyamatos rendelkezésre állási k
 
 29. kereskedelmi kapcsolat: a termékbeszerzés és -értékesítés – ideértve az Áfa tv. szerinti adómentes termékimportot megalapozó Közösségen belüli adómentes termékértékesítést is –, valamint a szolgáltatásnyújtás és -igénybevétel,
 
-30. kezelt vagyon: a Ptk. szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon,
+30. kezelt vagyon: a Ptk. szerint bizalmi vagyonkezelési szerződés alapján kezelt vagyon és a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelés keretében kezelt vagyon,
 
 31. kifizető:
 

@@ -16,6 +16,8 @@ d) közigazgatási hatósági vagy bírósági eljárásban részt vevő személ
 
 e) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerint nyilvántartásba vett bizalmi vagyonkezelő által kezelt vagyon
 
+f) a vagyonkezelő alapítvány által tartós vagyonkezelés keretében kezelt vagyon
+
 [az a)–d) pont a továbbiakban együtt: személy] adózásának és költségvetési támogatásának rendjére e törvény rendelkezéseit kell alkalmazni.
 
 (2) E törvény hatálya kiterjed
