@@ -1,3 +1,5 @@
+## 15. § Hatályát veszti a 3. § (4) bekezdése és a 4. § (4) bekezdése.
+
 1. melléklet a 204/2020. (V. 14.) Korm. rendelethez
 
 Az Arany János Tehetséggondozó Programban, Arany János Kollégiumi Programban elszámolható tételtípusok

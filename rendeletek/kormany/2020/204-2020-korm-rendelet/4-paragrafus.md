@@ -20,4 +20,6 @@ ba) évfolyamismétlésre kötelezés esetén, vagy attól a hónaptól kezdőd�
 
 bb) az Nkt. 58. § (4) bekezdés c), e) és f) pontjában meghatározott fegyelmi büntetés esetén az arról szóló határozat véglegessé válásának napját követő hónaptól azon következő félévig, amelytől az ösztöndíjra való jogosultság feltételei újra teljesülnek.
 
-(4) Az Arany János Kollégiumi Programban részt vevő, technikumban tanulmányokat folytató tanuló nem jogosult az e § szerinti ösztöndíjra, ha egyidejűleg a szakképzésről szóló 2019. évi LXXX. törvényben és a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 355. §-a szerinti ösztöndíjra való jogosultsága is fennáll.
+(4)[^10]
+
+[^10]: A 4. § (4) bekezdését a 15. § hatályon kívül helyezte.
