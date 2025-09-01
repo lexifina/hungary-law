@@ -1,3 +1,5 @@
-14. §[^14]
+14. § Hatályát veszti a NAV Korm. rendelet
 
-[^14]: A 14. § a 28. § (4) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+a) 22. § (1) bekezdésében az „ , illetve a KAVIG is” szövegrész,
+
+b) 22. § (1b) bekezdésében az „ , illetve a KAVIG is” szövegrész.
