@@ -1,0 +1,1 @@
+4. § Az e rendelet eltérő szabályainak alkalmazásán alapuló intézkedéseken túlmenően az állampolgárok alapvető jogai – a tényleges szolgálatot teljesítő katonák, a honvédelmi alkalmazottak, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok érintett állománya, valamint a közigazgatási tevékenységet ellátók kivételével – a Vbö. 7. § (2) bekezdése alapján nem korlátozhatók.
