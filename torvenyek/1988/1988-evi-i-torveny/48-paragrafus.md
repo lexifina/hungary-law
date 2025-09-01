@@ -286,7 +286,7 @@ q) a miniszter, hogy a 21/B. § (3) bekezdésében említett, az útdíjfizetés
 
 r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy a feladat- és hatáskörébe tartozó tevékenységhez kapcsolódó, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint emelő-, rakodó gépek, az egyes technológiai műveletekben részfeladatokat ellátó, stabil kivitelezésű – telepített – gépsorok részét képező gépeket működtető gépkezelők képzésére és vizsgáztatására vonatkozó szabályokat
 
-s) az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszolgáltatási gazdasági társaság által a viszonteladóknak fizetendő átalány-költségtérítés mértékét és számításának módját
+s)
 
 t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
 
