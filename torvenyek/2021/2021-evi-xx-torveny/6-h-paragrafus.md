@@ -1,0 +1,1 @@
+6/H. § A 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a tulajdonosi joggyakorló köti meg az Egyetemmel.

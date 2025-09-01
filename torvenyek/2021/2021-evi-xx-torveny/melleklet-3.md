@@ -1419,3 +1419,43 @@ Budapest
 |
 
 Kivett beépítetlen terület
+
+|
+
+71.
+
+|
+
+GÖDÖLLŐ
+
+|
+
+291/3
+
+|
+
+1/1
+
+|
+
+kivett orvosi rendelő
+
+|
+
+72.
+
+|
+
+GÖDÖLLŐ
+
+|
+
+411
+
+|
+
+1/1
+
+|
+
+kivett orvosi rendelő
