@@ -88,7 +88,7 @@ e) a köznevelési intézményben ideiglenes védelemre jogosult tanulók fejles
 
 f) a pedagógus-továbbképzés rendszerét, a továbbképzés szervezését végző szervet vagy szerveket, a pedagógus-továbbképzés programjának, a továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét,
 
-g)
+g) az egyes eltérő évfolyamszámú köznevelési intézmények közötti átjárhatóság biztosításához szükséges részletszabályokat,
 
 h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 
@@ -126,7 +126,7 @@ x) a lemorzsolódással veszélyeztetett tanulónak minősülés részletes felt
 
 y) a köznevelési szerződés tartalmát, érvényességi idejét és a megkötésére vonatkozó eljárásrendet,
 
-z)
+z) a köznevelési intézmény fenntartója részére a külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához nyújtható kiegészítő támogatás megállapításának, igénylésének, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait,
 
 rendeletben állapítsa meg.
 

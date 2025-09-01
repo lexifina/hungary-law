@@ -38,7 +38,7 @@ g) iskolatípusonként az évfolyamok számát,
 
 h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tanszakok megnevezését,
 
-i) szakgimnázium esetén a szakképesítés megnevezését, azonosító számát, szintjét, szakiskola esetén a szakképesítés, szakma, részszakma megnevezését, azonosító számát, szintjét,
+i) szakgimnázium esetén a szakképesítés megnevezését, azonosító számát, programkövetelmény számát, szintjét, szakiskola esetén a szakképesítés programkövetelmény számát, szakma, részszakma megnevezését, azonosító számát, szintjét,
 
 j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
 
@@ -95,6 +95,8 @@ f) a fenntartó egy nevelési, tanítási évnél hosszabb ideig nem működteti
 g) a hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt – a nem állami költségvetési szerv vagy nem települési önkormányzat által fenntartott köznevelési intézmény esetén a működési engedély visszavonásával egyidejűleg – a nyilvántartásból való törlését elrendeli.
 
 (9) Ha a köznevelési feladatokat ellátó hatóság a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból, az erről szóló határozatában kijelöli azt a nevelési-oktatási intézményt vagy szakképző intézményt, amely a törölt köznevelési intézménnyel jogviszonyban álló gyermek, tanköteles tanuló felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító nevelési-oktatási intézményt vagy – a szakképzési államigazgatási szerv egyetértésével – szakképző intézményt kijelölni. A nevelési-oktatási intézményt vagy szakképző intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a köznevelési intézmény székhelye szerint területileg illetékes tankerületi központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő köznevelési intézmény iratállományát a jogutód köznevelési intézménynek kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
+
+(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokra vonatkozó iratállományt nem kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a hivatal az arra jogosult kérelmére a tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványt továbbítja a kérelmező részére.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 

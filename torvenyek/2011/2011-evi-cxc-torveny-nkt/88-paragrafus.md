@@ -8,6 +8,10 @@
 
 (4) A központi költségvetés a 2. § (3) bekezdés b) pontja szerinti fenntartók számára az állami és a települési önkormányzati fenntartású nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben pedagógus munkakörben alkalmazottak elismert létszáma, valamint a nevelő-oktató munkát közvetlenül segítők jogszabály szerint finanszírozott létszáma alapján átlagbér alapú költségvetési hozzájárulást biztosít a köznevelési feladat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetménye, munkabére és ezek járulékai kifizetéséhez. A 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók esetében az átlagbér alapú költségvetési hozzájárulás mértékét a központi költségvetésről szóló törvény állapítja meg.
 
+(4a) A köznevelési intézmény fenntartója részére a külföldről hazatérő tanuló nemzeti köznevelési rendszerben való felzárkóztatásához kiegészítő támogatás nyújtható, amely megállapításának, igénylésének, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+
+(4b) A (4a) bekezdés szerinti külföldről hazatérő tanuló az a magyar állampolgár, aki a (4a) bekezdés szerinti kiegészítő támogatás iránti kérelem benyújtását megelőző két tanévből legalább egy tanévet külföldi államban, nem magyar tanítási nyelvű nevelési-oktatási intézményben töltött.
+
 (5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
 
 (6) A nem állami fenntartású szakgimnázium és szakiskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a köznevelésért felelős miniszterrel.
