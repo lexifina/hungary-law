@@ -7,3 +7,5 @@
 (2) A 155. § (10) bekezdésében meghatározott célok érdekében az energetikai adatszolgáltató platformot kormányrendeletben kijelölt működtető engedélyes szabályzatában meghatározott módon gondoskodik a háztartási méretű kiserőművek nem elszámolási célú adatainak kezeléséről a Hivatal által kiadott engedély alapján.
 
 (3) Az elosztói engedélyes, az egyetemes szolgáltató, a villamosenergia-kereskedő és az energetikai adatszolgáltató platform működtetője a kormányrendeletben meghatározott módon köteles együttműködni a háztartási méretű kiserőmű és az inverterek azonosításához szükséges adatok cseréjében.
+
+(4) Az elosztó a hatásos villamosenergia-mennyiségre vonatkozó mérési adatokhoz hozzáférést biztosít az energetikai adatszolgáltató platform működtetője számára a 155. § (10) bekezdése szerinti célból. Az adatokhoz való hozzáférés és az adatkezelés részletszabályait a Vhr. és az elosztói szabályzat tartalmazza.

@@ -196,7 +196,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 
-49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
+49a.
 
 49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;
 
@@ -281,6 +281,8 @@ ab) vételező részére magánvezetéken keresztül
 b) vételező által termelt vagy tárolt villamos energia közvetlenül a magánvezeték engedélyese részére magánvezetéken keresztül
 
 történő értékesítése vagy ellenérték nélküli átadása;
+
+69b. Megosztási hozzárendelés: a megosztott energiamennyiségnek a megosztásban részt vevő elszámolási pontokhoz történő hozzárendelése negyedórás adatok alapján;
 
 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 

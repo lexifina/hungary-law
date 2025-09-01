@@ -116,7 +116,7 @@
 
 56. az energetikai adatszolgáltató platform működtetőjének kijelölését, a működtetésére vonatkozó részletes szabályokat, a háztartási méretű kiserőművek nem elszámolási célú adatok és azok műszaki jellemzői meghatározását, valamint az energetikai adatszolgáltató platform által nyújtott szolgáltatások díját,
 
-57. az aktív felhasználó 45/A. § szerinti kötelezettsége teljesítésének részletes szabályait és a teljesítéshez szükséges műszaki és egyéb feltételeket, valamint a kötelezettség alóli mentesülés feltételeinek részletes szabályait,
+57. az aktív felhasználó 45/A. § szerinti kötelezettsége teljesítésének részletes szabályait és a teljesítéshez szükséges műszaki és egyéb feltételeket, valamint a kötelezettség alóli mentesülés feltételeinek részletes szabályait, továbbá a 45/A. § (4) bekezdése szerinti adatok műszaki jellemzőinek meghatározását és az azokhoz való hozzáférés, átadás részletes szabályait,
 
 58. a rugalmas hálózati csatlakozási szerződésre vonatkozó részletszabályokat,
 

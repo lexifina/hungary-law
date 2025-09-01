@@ -84,7 +84,7 @@ céljából kezelheti a távlehívható fogyasztásmérő által gyűjtött adat
 
 (9) Az aggregátor és az energiaközösség a (6) és a (8) bekezdésben meghatározott adatokat 5 évig kezeli.
 
-(10) Az energetikai adatszolgáltató platform
+(10) Az energetikai adatszolgáltató platformot működtető engedélyes
 
 a) a biztonságos villamosenergia-ellátás támogatása,
 
@@ -96,13 +96,15 @@ d) a szabályszegések szűrésének támogatása,
 
 e) az érintett felhasználók tájékoztatása,
 
-f) a decentralizált energiatermelés hatékonyabb intergrációjának támogatása,
+f) a decentralizált energiatermelés hatékonyabb integrációjának támogatása,
 
 g) az energiaközösségek, aggregátorok, aktív felhasználók adatalapú támogatása,
 
-h) az e törvény végrehajtására kiadott rendeletben foglaltak szerint a hálózati engedélyesek közötti adat- és információcsere-folyamatok segítése, fejlesztése
+h) az e törvény végrehajtására kiadott rendeletben foglaltak szerint a hálózati engedélyesek közötti adat- és információcsere-folyamatok segítése,
 
-céljából kezeli a háztartási méretű kiserőművek nem elszámolási célú adatait.
+i) a szakpolitikai döntéshozatal támogatása
+
+céljából kezeli a háztartási méretű kiserőművek nem elszámolási célú termelési és üzemeltetési adatait és a fogyasztásmérő berendezések hatásos villamosenergia-mennyiségre vonatkozó adatait.
 
 (11) Az energetikai adatszolgáltató platform a (10) bekezdésben meghatározott adatokat 5 évig kezeli.
 
