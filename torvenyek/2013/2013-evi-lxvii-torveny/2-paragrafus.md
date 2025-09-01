@@ -169,3 +169,5 @@ b) az (EU) 2019/1242 rendelet hatálya alá nem tartozó járművek tekintetébe
 74. lényegesen módosított UD rendszer: az UD rendszer olyan módosítása, amelynek eredményeképpen az EETS-szolgáltató által alkalmazott átjárhatósági rendszerelemek olyan mértékű módosítása szükséges, amely az EETS-szolgáltató újbóli akkreditálását is szükségessé teszi;
 
 75. EETS-akkreditáció: az EETS-szolgáltató által az útdíjszedőnél kezdeményezett eljárás, amelynek eredményes lefolytatását követően az útdíjszedő az EETS-szolgáltatóval az EETS, EETS-területen történő nyújtására szerződést köt.
+
+76. végső menedékes bevallási közreműködő: olyan kiemelt bevallási közreműködő, amely szolgáltatását valamennyi szerződött díjfizető számára biztosítja.
