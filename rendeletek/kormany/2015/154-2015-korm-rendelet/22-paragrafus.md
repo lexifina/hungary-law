@@ -10,7 +10,7 @@ d) a hivatásos állomány tagjait megillető egészségügyi ellátás.
 
 (2) A más szervhez vezényeltet a fogadó szervnél a Hszt.-ben meghatározott jogosultságokon túl az alábbi jogosultságok illetik meg:
 
-a) a fogadó szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó kedvezmények és támogatások, ha azokban a vezényelt a rendvédelmi szervtől nem részesült,
+a)[^33] a fogadó szervnek az ellátott munkakör vagy betöltött szolgálati beosztás szerinti foglalkoztatottaira vonatkozó kedvezmények és támogatások, ha azokban a vezényelt a rendvédelmi szervtől nem részesült,
 
 b) a más szervhez vezényléssel – így különösen az utazással, költözéssel, szállás biztosításával – kapcsolatos költségek megtérítése.
 
@@ -19,3 +19,5 @@ b) a más szervhez vezényléssel – így különösen az utazással, költöz�
 (4) Ha a fogadó szervnél az ellátott munkakörre tekintettel megállapítható illetménynek a Hszt. 63. § (3) bekezdés d) pontjában meghatározott mértékű hivatásos pótlékkal növelt összege kevesebb a Hszt. 63. § (4) bekezdése szerint – a (3) bekezdésre figyelemmel – megállapított, a más szervhez vezénylés előtt a szolgálati beosztásban elért illetménynél, akkor – az (5) bekezdésben foglalt kivétellel – a különbözetet rendvédelmi kereset-kiegészítésként kell folyósítani a vezényelt részére.
 
 (5) A vezénylési megállapodásban a felek – a vezényelt kifejezett hozzájárulásával – megállapodhatnak abban, hogy a más szervhez vezénylés tartamára a (4) bekezdéstől eltérően a vezényelt részére a fogadó szervnél megállapított illetmény nem éri el a más szervhez vezénylés előtt a szolgálati beosztásban elért illetmény összegét, a hivatásos állomány tagjának megállapított illetménye azonban ebben az esetben sem lehet kevesebb, mint a fogadó szervnél ellátott munkakörre érvényes bérrendszernek, besorolásnak megfelelő illetménynek a Hszt. 63. § (3) bekezdés d) pontja szerinti mértékű hivatásos pótlékkal növelt összege.
+
+[^33]: A 22. § (2) bekezdés a) pontja a 175/2025. (VI. 30.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.

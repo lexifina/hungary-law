@@ -1,4 +1,4 @@
-19. § (1)[^26] A más szervhez vezénylés – a Hszt. 62. § (5) és (6) bekezdésében, 327. §-ában és 335. § (3) bekezdésében meghatározott kivételekkel – a Hszt. 62. § (2) bekezdésében meghatározott határidő letelte napján a törvény erejénél fogva megszűnik. A megszűnést a más szervhez vezénylésre jogosult elöljáró állapítja meg.
+19. § (1)[^29] A más szervhez vezénylés – a Hszt. 62. § (5) és (6) bekezdésében, 327. §-ában és 335. § (3) bekezdésében meghatározott kivételekkel – a Hszt. 62. § (2) bekezdésében meghatározott határidő letelte napján a törvény erejénél fogva megszűnik. A megszűnést a más szervhez vezénylésre jogosult elöljáró állapítja meg.
 
 (2) A fogadó szerv vezetője a más szervhez vezénylés megszüntetésére irányuló kezdeményezésben megjelöli a más szervhez vezénylés megszüntetésének a Hszt. 64. § (1) bekezdésében meghatározott okát és az azt alátámasztó indokokat. A kezdeményezés alapján a más szervhez vezénylésre jogosult elöljáró szünteti meg a vezénylést.
 
@@ -22,4 +22,4 @@ f) az a rendvédelmi szerv által megjelölt egyéb szolgálati érdekből szük
 
 (6) A más szervhez vezénylés megszüntetéséről szóló munkáltatói intézkedés meghatározza a vezénylés megszüntetésének napját.
 
-[^26]: A 19. § (1) bekezdése a 280/2023. (VI. 29.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^29]: A 19. § (1) bekezdése a 280/2023. (VI. 29.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
