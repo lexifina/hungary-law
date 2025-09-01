@@ -1,1 +1,3 @@
-### 69. §
+69. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 82/H. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Ha az egészségkárosodási ellátás megállapítását követően a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék mértékének emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a 82/G. § (1) és (2) bekezdése szerinti távolléti díjat az új hivatásos pótlék mértékével kell megállapítani – azzal, hogy a távolléti díjba beszámítandó további illetményelemek változatlan összeggel kerülnek figyelembevételre – és a 82/G. § szerinti számításokat ismételten el kell végezni.”
