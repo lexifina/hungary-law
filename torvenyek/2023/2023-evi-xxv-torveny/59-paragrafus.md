@@ -7,3 +7,5 @@ b) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU r
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) Ez a törvény az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -1,6 +1,10 @@
 48. § (1) Az ezen alcím szerinti védelem – a 43. §-ban meghatározott kivétellel – kizárólag akkor illeti meg a bejelentőt, ha
 
-a) a bejelentéssel érintett körülményekre vonatkozó, bejelentett információ az 1. mellékletben, illetve a 2. mellékletben szereplő európai uniós jogi aktusok vagy azok végrehajtását, az azoknak való megfelelést biztosító jogszabályi rendelkezések hatálya alá tartozik, vagy
+a) a bejelentéssel érintett körülményekre vonatkozó, bejelentett információ
+
+aa) az 1. mellékletben, illetve a 2. mellékletben szereplő európai uniós jogi aktusok vagy azok végrehajtását, az azoknak való megfelelést biztosító jogszabályi rendelkezések hatálya alá tartozik, vagy
+
+ab) az uniós korlátozó intézkedéseknek az (EU) 2024/1226 európai parlamenti és tanácsi irányelv 3. és 4. cikkében foglalt megsértésére vonatkozik, vagy
 
 b) a bejelentő az a) pont szerinti körülmény fennállását alapos okkal feltételezi.
 
