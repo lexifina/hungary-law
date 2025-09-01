@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-13-00-00
 | 2021-01-01 | 2020. évi CXLVIII. törvény | 2019-13-00-00.4 |
 | 2021-02-01 | 2020. évi CXLVIII. törvény | 2019-13-00-00.5 |
 | 2021-05-01 | 2021. évi IX. törvény | 2019-13-00-00.6 |
+| 2025-09-01 | 2025. évi XLIX. törvény | 2019-13-00-00.7 |
