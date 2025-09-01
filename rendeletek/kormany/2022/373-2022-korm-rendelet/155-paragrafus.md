@@ -1,5 +1,5 @@
 155. § (1) A támogatási előlegen alapuló követelés beszámítása vagy visszafizetése után a támogatási előleg újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
 
-(2)[^283] A támogatási előleggel való részleges vagy teljes elszámolást követően az előleg a 153. § szerinti mértékig, összegig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
+(2)[^292] A támogatási előleggel való részleges vagy teljes elszámolást követően az előleg a 153. § szerinti mértékig, összegig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
 
-[^283]: A 155. § (2) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^292]: A 155. § (2) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés e) pontja szerint módosított szöveg.

@@ -4,9 +4,12 @@
 
 (3) A végső kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi a nemzeti hatóság részére.
 
-(4)[^228] A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
+(4)[^235] A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
 
-(5)[^229] A végső kedvezményezett a (4) bekezdés szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok NFK általi ellenőrzését.
+(4a)[^236] Ha a nemzeti hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.
 
-[^228]: A 122. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 75. pontja szerint módosított szöveg.
-[^229]: A 122. § (5) bekezdését a 49/2024. (III. 4.) Korm. rendelet 2. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 84. § 76. pontja szerint módosított szöveg.
+(5)[^237] A végső kedvezményezett a (4) bekezdés szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok NFK általi ellenőrzését.
+
+[^235]: A 122. § (4) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 75. pontja szerint módosított szöveg.
+[^236]: A 122. § (4a) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 47. §-a iktatta be.
+[^237]: A 122. § (5) bekezdését a 49/2024. (III. 4.) Korm. rendelet 2. §-a iktatta be, szövege a 218/2024. (VII. 31.) Korm. rendelet 84. § 76. pontja szerint módosított szöveg.

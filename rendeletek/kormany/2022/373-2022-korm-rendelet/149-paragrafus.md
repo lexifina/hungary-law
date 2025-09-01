@@ -2,6 +2,6 @@
 
 (2) A nemzeti hatóság az (1) bekezdéstől eltérően a támogatási szerződés megkötését követően haladéktalanul kifizeti az előleget, ha a biztosítéknyújtási kötelezettség alól a 91. § (1) bekezdése alapján mentes közszféra szervezet végső kedvezményezett a támogatási kérelem benyújtásával egyidejűleg vagy a szerződéskötési folyamat során az előleg igénylésére irányuló kérelmet is benyújtotta.
 
-(3)[^280] A nemzeti hatóság előlegigénylés elbírálását felfüggeszti, ha az igényelt előleg mértéke a támogatási összeg utófinanszírozott kiadásainak a 13%-át meghaladja, kivéve a 153. § (2) bekezdése vagy a 233. § (5) bekezdése esetén.
+(3)[^289] A nemzeti hatóság előlegigénylés elbírálását felfüggeszti, ha az igényelt előleg mértéke a támogatási összeg utófinanszírozott kiadásainak a 13%-át meghaladja, kivéve a 153. § (2) bekezdése vagy a 233. § (5) bekezdése esetén.
 
-[^280]: A 149. § (3) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 42. pontja szerint módosított szöveg.
+[^289]: A 149. § (3) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 42. pontja szerint módosított szöveg.

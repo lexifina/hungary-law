@@ -6,6 +6,6 @@ b) a támogatási jogviszony – nem a jogorvoslati kérelemmel érintett szabá
 
 c) a végső kedvezményezett jogutód nélkül megszűnt.
 
-(2)[^356] A jogorvoslati eljárás megszüntetéséről a Belső Ellenőrzési és Integritási Igazgatóság haladéktalanul tájékoztatja a végső kedvezményezettet.
+(2)[^365] A jogorvoslati eljárás megszüntetéséről a Belső Ellenőrzési és Integritási Igazgatóság haladéktalanul tájékoztatja a végső kedvezményezettet.
 
-[^356]: A 212. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 17. pontja szerint módosított szöveg.
+[^365]: A 212. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 17. pontja szerint módosított szöveg.

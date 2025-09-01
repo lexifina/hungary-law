@@ -1,4 +1,4 @@
-111. §[^190] (1) Ha a végső kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra az 54–57. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
+111. §[^197] (1) Ha a végső kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra az 54–57. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
 
 (2) Ahol az 54–57. alcím
 
@@ -6,19 +6,19 @@ a) szabálytalansági döntést említ, azon közbeszerzési záró tanúsítvá
 
 b) szabálytalansági eljárást említ, azon közbeszerzési elszámolhatósági ellenőrzést,
 
-c)[^191] nemzeti hatóságot említ, azon az NFK-t
+c)[^198] nemzeti hatóságot említ, azon az NFK-t
 
 kell érteni.
 
-(3)[^192] A jogorvoslati kérelmet a közbeszerzési záró tanúsítvány kézhezvételétől számított öt munkanapon belül kell benyújtani az NFK-nál az indokok megjelölésével.
+(3)[^199] A jogorvoslati kérelmet a közbeszerzési záró tanúsítvány kézhezvételétől számított öt munkanapon belül kell benyújtani az NFK-nál az indokok megjelölésével.
 
-(4)[^193] Az NFK a jogorvoslati kérelem beérkezését követő öt munkanapon belül a jogorvoslati kérelemben foglaltakkal való
+(4)[^200] Az NFK a jogorvoslati kérelem beérkezését követő öt munkanapon belül a jogorvoslati kérelemben foglaltakkal való
 
 a) egyetértése esetén a közbeszerzési záró tanúsítványt módosítja,
 
 b) egyet nem értése esetén a jogorvoslati kérelmet az ellenőrzés dokumentumaival és a jogorvoslati kérelem tárgyában kialakított álláspontjával együtt megküldi a Belső Ellenőrzési és Integritási Igazgatóság részére.
 
-(5)[^194] Az NFK haladéktalanul tájékoztatja a végső kedvezményezettet és az nemzeti hatóságot a (4) bekezdés szerinti döntéséről.
+(5)[^201] Az NFK haladéktalanul tájékoztatja a végső kedvezményezettet és az nemzeti hatóságot a (4) bekezdés szerinti döntéséről.
 
 (6) A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelemről – az annak kézhezvételétől számított – tíz munkanapon belül dönt.
 
@@ -32,8 +32,8 @@ b) a közbeszerzési záró tanúsítványt módosítja.
 
 (9) A közbeszerzési záró tanúsítvánnyal szemben lefolytatott jogorvoslati eljárás esetén a 206. § (1) és (2) bekezdését, a 208. § (1) bekezdését, a 209. §-t, a 211. § (1) bekezdés f) pontját, a 213. §-t, a 214. §-t, a 215. § (1) és (2) bekezdését, valamint a 217. § (1), (3), (4) és (6) bekezdését nem kell alkalmazni.
 
-[^190]: A 111. § a 123/2023. (IV. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^191]: A 111. § (2) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 84. § 53. pontja szerint módosított szöveg.
-[^192]: A 111. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 54. pontja szerint módosított szöveg.
-[^193]: A 111. § (4) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 84. § 55. pontja szerint módosított szöveg.
-[^194]: A 111. § (5) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 21. pontja, a 218/2024. (VII. 31.) Korm. rendelet 84. § 56. pontja szerint módosított szöveg.
+[^197]: A 111. § a 123/2023. (IV. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^198]: A 111. § (2) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 84. § 53. pontja szerint módosított szöveg.
+[^199]: A 111. § (3) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 84. § 54. pontja szerint módosított szöveg.
+[^200]: A 111. § (4) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 84. § 55. pontja szerint módosított szöveg.
+[^201]: A 111. § (5) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 21. pontja, a 218/2024. (VII. 31.) Korm. rendelet 84. § 56. pontja szerint módosított szöveg.

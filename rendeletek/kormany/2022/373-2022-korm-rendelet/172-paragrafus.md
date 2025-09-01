@@ -2,7 +2,7 @@
 
 172. § (1) Az utolsó projekt mérföldkő elérését követően a támogatási szerződésben meghatározott határidőig záró kifizetési igénylést kell benyújtani.
 
-(1a)[^296] A záró kifizetési igénylés elfogadásának feltétele a végső kedvezményezett záró szakmai beszámolójának elfogadása.
+(1a)[^305] A záró kifizetési igénylés elfogadásának feltétele a végső kedvezményezett záró szakmai beszámolójának elfogadása.
 
 (2) A záró kifizetési igénylés keretében a projekt pénzügyi befejezését követően
 
@@ -12,7 +12,7 @@ b) szakmai beszámoló keretében be kell számolni a projekt szakmai megvalós�
 
 (3) A záró kifizetési igényléshez csatolni kell az elszámolhatósági útmutató szerinti valamennyi dokumentumot, amely alátámasztja az eredeti célkitűzés megvalósulásának tényét, és korábban még nem került benyújtásra a nemzeti hatósághoz.
 
-(4)[^297] Szállítói finanszírozású elszámoló bizonylat nem nyújtható be záró kifizetési igénylés keretében, kivéve, ha a projekt teljes egészében szállítói finanszírozással valósul meg, valamint ha erről a felhívás kifejezetten így rendelkezik.
+(4)[^306] Szállítói finanszírozású elszámoló bizonylat nem nyújtható be záró kifizetési igénylés keretében, kivéve, ha a projekt teljes egészében szállítói finanszírozással valósul meg, valamint ha erről a felhívás kifejezetten így rendelkezik.
 
 (5) Ha a projekt megvalósítása során a projekttel összefüggésben bevétel keletkezik, a bevételekről a záró kifizetési igénylésben kell adatot szolgáltatni.
 
@@ -20,8 +20,8 @@ b) szakmai beszámoló keretében be kell számolni a projekt szakmai megvalós�
 
 (7) Záró kifizetési igénylést akkor is be kell nyújtani, ha a végső kedvezményezett korábbi kifizetési igénylések keretében már a teljes megítélt támogatással elszámolt.
 
-(8)[^298] A záró kifizetési igénylésben a végső kedvezményezett nyilatkozik arról, hogy a záró kifizetési kérelem benyújtását követően a fel nem használt támogatásról lemond.
+(8)[^307] A záró kifizetési igénylésben a végső kedvezményezett nyilatkozik arról, hogy a záró kifizetési kérelem benyújtását követően a fel nem használt támogatásról lemond.
 
-[^296]: A 172. § (1a) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^297]: A 172. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^298]: A 172. § (8) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 213/2024. (VII. 29.) Korm. rendelet 50. § 49. pontja szerint módosított szöveg.
+[^305]: A 172. § (1a) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^306]: A 172. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^307]: A 172. § (8) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 213/2024. (VII. 29.) Korm. rendelet 50. § 49. pontja szerint módosított szöveg.

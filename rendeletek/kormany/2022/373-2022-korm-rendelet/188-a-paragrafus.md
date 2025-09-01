@@ -1,4 +1,4 @@
-## 51/A.[^316] Fenntartási kötelezettség és pénzügyi zárás
+## 51/A.[^325] Fenntartási kötelezettség és pénzügyi zárás
 
 188/A. § (1) A projektmegvalósítás akkor tekinthető befejezettnek, ha a projekt pénzügyi befejezését követően a projekt keretében támogatott tevékenységek végrehajtását igazoló záró kifizetési igénylést és beszámolót a nemzeti hatóság jóváhagyta és a támogatást kifizette.
 
@@ -6,11 +6,11 @@
 
 (3) Infrastrukturális beruházást nem tartalmazó projekt esetén a fenntartási kötelezettség a felhívás előírása szerint, de legfeljebb 2026. december 31-ig tart.
 
-(3a)[^317] A végső kedvezményezett a fenntartási jelentést a felhívásban vagy a támogatási szerződésben rögzítettek szerint nyújtja be.
+(3a)[^326] A végső kedvezményezett a fenntartási jelentést a felhívásban vagy a támogatási szerződésben rögzítettek szerint nyújtja be.
 
-(3b)[^318] A nemzeti hatóság a fenntartási jelentésről annak beérkezésétől számított harminc napon belül dönt. A nemzeti hatóság a határidőt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
+(3b)[^327] A nemzeti hatóság a fenntartási jelentésről annak beérkezésétől számított harminc napon belül dönt. A nemzeti hatóság a határidőt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
 
-(3c)[^319] Ha a nemzeti hatóság a fenntartási jelentéssel összefüggésben hiányosságot vagy hibát észlel, a fenntartási jelentés beérkezését vagy a jelentési határidő eredménytelen elteltét követően haladéktalanul, legfeljebb 15 napos határidővel a hiány pótlására vagy a hiba kijavítására szólítja fel a végső kedvezményezettet.
+(3c)[^328] Ha a nemzeti hatóság a fenntartási jelentéssel összefüggésben hiányosságot vagy hibát észlel, a fenntartási jelentés beérkezését vagy a jelentési határidő eredménytelen elteltét követően haladéktalanul, legfeljebb 15 napos határidővel a hiány pótlására vagy a hiba kijavítására szólítja fel a végső kedvezményezettet.
 
 (4) Ha a projekt állami támogatást tartalmaz, és az állami támogatási szabályok a (2) és (3) bekezdésben foglaltaknál szigorúbb előírást kötnek ki, a fenntartási kötelezettséget az állami támogatási szabályok szerint kell figyelembe venni.
 
@@ -34,7 +34,7 @@ c) aránytalan nehézség árán
 
 állítható helyre, a nemzeti hatóság a támogatási szerződés szerinti jogkövetkezményt alkalmazza.
 
-[^316]: Az 51/A. alcímet (188/A-188/E. §-t) a 154/2023. (IV. 27.) Korm. rendelet 13. §-a iktatta be.
-[^317]: A 188/A. § (3a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 34. §-a iktatta be.
-[^318]: A 188/A. § (3b) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 34. §-a iktatta be.
-[^319]: A 188/A. § (3c) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 34. §-a iktatta be.
+[^325]: Az 51/A. alcímet (188/A-188/E. §-t) a 154/2023. (IV. 27.) Korm. rendelet 13. §-a iktatta be.
+[^326]: A 188/A. § (3a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 34. §-a iktatta be.
+[^327]: A 188/A. § (3b) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 34. §-a iktatta be.
+[^328]: A 188/A. § (3c) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 34. §-a iktatta be.

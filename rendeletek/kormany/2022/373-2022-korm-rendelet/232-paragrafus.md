@@ -1,4 +1,4 @@
-232. §[^432] Az egyes állami támogatási kategóriák vonatkozásában támogatás a 2021–2027 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 638/2023. (XII. 28.) Korm. rendelet [a továbbiakban: 638/2023. (XII. 28.) Korm. rendelet] 2. alcíme, 3. § (3) bekezdése, 4–5. §-a, III. fejezete, valamint
+232. §[^441] Az egyes állami támogatási kategóriák vonatkozásában támogatás a 2021–2027 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 638/2023. (XII. 28.) Korm. rendelet [a továbbiakban: 638/2023. (XII. 28.) Korm. rendelet] 2. alcíme, 3. § (3) bekezdése, 4–5. §-a, III. fejezete, valamint
 
 1. regionális beruházási támogatás esetén a 638/2023. (XII. 28.) Korm. rendelet 14. alcíme,
 
@@ -62,9 +62,9 @@
 
 31. személyszállítási közszolgáltatásért járó ellentételezés esetén a 638/2023. (XII. 28.) Korm. rendelet 57. alcíme,
 
-32.[^433]
+32.[^442]
 
 szerint nyújtható.
 
-[^432]: A 232. § a 639/2023. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^433]: A 232. § 32. pontját a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés i) pontja hatályon kívül helyezte.
+[^441]: A 232. § a 639/2023. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^442]: A 232. § 32. pontját a 202/2025. (VII. 16.) Korm. rendelet 53. § (1) bekezdés i) pontja hatályon kívül helyezte.
