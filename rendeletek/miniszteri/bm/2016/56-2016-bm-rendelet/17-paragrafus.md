@@ -1,1 +1,0 @@
-## 16. § Az egészségkárosodási ellátásra jogosultságot megállapító határozat közlését követően a humánigazgatási szakszolgálat gondoskodik a határidők nyilvántartásáról és figyelemmel kíséréséről annak érdekében, hogy a Hszt. 82/E. § (1)–(3) bekezdése szerint az egészségkárosodási ellátásra jogosultság meghosszabbítása időben végrehajtható legyen.

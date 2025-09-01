@@ -1,1 +1,0 @@
-## 19. § Az egészségkárosodási ellátásra jogosultság időtartamát meghosszabbító határozat meghozatalához szükséges adatokat a humánigazgatási szakszolgálat hivatalból bocsátja a FÜV Bizottság rendelkezésére.
