@@ -1,1 +1,7 @@
-### 9. §
+9. § A Vet. 40. § (4)–(4b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) A leolvasást legalább éves gyakorisággal, a (4a) bekezdésben és a Vhr.-ben előírtakra figyelemmel a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani.
+
+(4a) Havinál ritkább gyakorisággal leolvasott felhasználási hely tekintetében a felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását a hálózati engedélyes negyedévente biztosítja.
+
+(4b) A hálózati engedélyes – a felhasználási helyen történő leolvasás esetén – legalább 5 napos időtartam megjelölésével felhívja a felhasználó figyelmét a leolvasás várható idejéről a leolvasás előtti utolsó számlában vagy a számla mellékletében. A (4) bekezdés szerinti leolvasás sikertelensége esetén a hálózati engedélyes a becsült mérőállást elszámolás céljából a leolvasásra megadott időszak utolsó napjára állapítja meg, továbbá a hálózati engedélyes értesítést hagy a felhasználó felhasználási helyén, – ha rendelkezésre áll – a levélszekrényben. Az értesítésben a hálózati engedélyes felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a hálózati engedélyes időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontjában a hálózati engedélyes és a felhasználó megegyeznek.”

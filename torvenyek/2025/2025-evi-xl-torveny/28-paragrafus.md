@@ -1,6 +1,6 @@
 28. § Hatályát veszti a Vet.
 
-a)
+a) 3. § 49a. pontja,
 
 b)
 
