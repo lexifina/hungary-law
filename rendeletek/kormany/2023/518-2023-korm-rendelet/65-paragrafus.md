@@ -1,3 +1,3 @@
-65. §[^133]
+65. §[^146]
 
-[^133]: A 65. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^146]: A 65. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

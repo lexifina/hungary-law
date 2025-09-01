@@ -1,6 +1,6 @@
 47. § (1) Ha a kölcsönkérelmet ikervárandósság ideje alatt, a várandósság betöltött 12. hetét követően nyújtják be, a gyermekvállalási támogatás iránti kérelmet a kölcsönkérelemmel egyidejűleg is be lehet nyújtani, azzal, hogy a 28. § (1) bekezdés 6. pontja szerinti igazolás kiállításának időpontja legfeljebb 15 nappal előzheti meg a kölcsönkérelem benyújtásának időpontját.
 
-(2)[^105] Az (1) bekezdésben nem említett esetben a gyermekvállalási támogatás iránti kérelem
+(2)[^118] Az (1) bekezdésben nem említett esetben a gyermekvállalási támogatás iránti kérelem
 
 a) vér szerinti gyermek esetén a várandósság betöltött 12. hetét követően – ideértve a szülést követő időszakot is – legkésőbb a gyermek születését,
 
@@ -30,4 +30,4 @@ is egyaránt jogosulttá válhatnak, akkor ugyanazon gyermek után a választás
 
 (9) A gyermekvállalási támogatás igénybevételéről a hitelintézet a támogatott személyekkel támogatási szerződést köt.
 
-[^105]: A 47. § (2) bekezdés záró szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 37. pontja szerint módosított szöveg.
+[^118]: A 47. § (2) bekezdés záró szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 37. pontja szerint módosított szöveg.

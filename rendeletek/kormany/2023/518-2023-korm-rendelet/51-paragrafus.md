@@ -1,6 +1,6 @@
 ## 12. A kölcsön és a támogatások központi költségvetéssel való elszámolásának szabályai
 
-51. § (1)[^112] A hitelintézetet az általa jogszerűen folyósított kölcsön, illetve gyermekvállalási támogatás összege után együttesen
+51. § (1)[^125] A hitelintézetet az általa jogszerűen folyósított kölcsön, illetve gyermekvállalási támogatás összege után együttesen
 
 a) lakás építése, bővítése vagy vásárlással egybekötött bővítése esetén 80 000 forint,
 
@@ -8,7 +8,7 @@ b) lakás vásárlása esetén 40 000 forint
 
 egyszeri költségtérítés illeti meg, amelyet a kölcsön vagy annak első részlete folyósítását követően számol el a központi költségvetéssel.
 
-(2)[^113] A hitelintézet a tárgyhónapra legfeljebb az előző hónapban a hitelintézet által benyújtott elszámolás alapján a Kincstár által ténylegesen kifizetett és elszámolt kamattámogatással, valamint gyermekvállalási támogatással (a továbbiakban ezen alcím vonatkozásában: támogatások) azonos összegű előleget igényelhet utólagos elszámolási kötelezettséggel.
+(2)[^126] A hitelintézet a tárgyhónapra legfeljebb az előző hónapban a hitelintézet által benyújtott elszámolás alapján a Kincstár által ténylegesen kifizetett és elszámolt kamattámogatással, valamint gyermekvállalási támogatással (a továbbiakban ezen alcím vonatkozásában: támogatások) azonos összegű előleget igényelhet utólagos elszámolási kötelezettséggel.
 
 (3) A hitelintézet az elszámolást a Kincstár honlapján található adatszolgáltatási felületen (a továbbiakban: eAdat) található útmutató szerint, a Kincstár által meghatározott formában és tartalommal, a tárgyhónapra vonatkozóan, egy alkalommal készíti el, és elektronikusan hiteles formában az eAdaton – legalább minősített tanúsítványon alapuló fokozott elektronikus aláírással vagy minősített tanúsítványon alapuló elektronikus bélyegzővel ellátva – a tárgyhónapot követő hónap 20. napjáig megküldi a Kincstár részére.
 
@@ -28,5 +28,5 @@ egyszeri költségtérítés illeti meg, amelyet a kölcsön vagy annak első r�
 
 (11) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^112]: Az 51. § (1) bekezdés nyitó szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 42. pontja szerint módosított szöveg.
-[^113]: Az 51. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 43. pontja szerint módosított szöveg.
+[^125]: Az 51. § (1) bekezdés nyitó szövegrésze a 388/2024. (XII. 11.) Korm. rendelet 48. § 42. pontja szerint módosított szöveg.
+[^126]: Az 51. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 48. § 43. pontja szerint módosított szöveg.

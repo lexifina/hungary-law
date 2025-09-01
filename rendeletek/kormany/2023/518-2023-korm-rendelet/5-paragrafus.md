@@ -42,9 +42,9 @@ a) olyan szabadon álló, oldalhatáron álló, zártsorú beépítési móddal 
 
 b) olyan ikerház, sorház vagy láncház, amelyben a kölcsönnel érintett lakás önálló tető- és épületszerkezettel és a terepszintről közvetlen bejárattal rendelkezik;
 
-3. első közös lakásszerzők: azok a házastársak, akik a lakás építésére vagy vásárlására irányuló kölcsönkérelmük benyújtásakor vagy azt megelőzően Magyarország területén nem rendelkeztek ugyanabban a lakásban mindketten tulajdonjoggal, és erről nyilatkozatot tesznek;
+3.[^6] első közös lakásszerzők: azok a házastársak, akik a lakás építésére vagy vásárlására irányuló kölcsönkérelmük benyújtásakor vagy az azt megelőző 10 évben Magyarország területén nem rendelkeztek ugyanabban az Otthon Start program keretében biztosított FIX 3%-os lakáshitelről szóló 227/2025. (VII. 31.) Korm. rendelet 4. § (3) és (4) bekezdésében meghatározottaktól eltérő belterületi lakásban mindketten tulajdonjoggal, és erről – az Otthon Start program keretében biztosított FIX 3%-os lakáshitelről szóló 227/2025. (VII. 31.) Korm. rendelet 1. melléklete szerinti tartalommal – teljes bizonyító erejű magánokiratba foglalt nyilatkozatot tesznek;
 
-4.[^2] életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+4.[^7] életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
 5. házaspár: házastársak, akik közül a feleség a kölcsön iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
 
@@ -54,9 +54,9 @@ a) a magzat a várandósság betöltött 12. hetét követően, valamint
 
 b) aki az igénylő vér szerinti vagy örökbefogadott eltartott gyermeke, és a 25. életévét még nem töltötte be, vagy betöltötte, de megváltozott munkaképességű személynek minősül;
 
-6a.[^3] használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány;
+6a.[^8] használatbavételi engedély: a használatbavételi engedély, a használatbavétel tudomásulvételéről az építésügyi hatóság által kiállított dokumentum, vagy a felépítés megtörténtét tanúsító hatósági bizonyítvány;
 
-7.[^4] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
+7.[^9] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 56. pontja szerint számított – hasznos alapterületének összege:
 
 a) előszoba, közlekedő,
 
@@ -102,19 +102,20 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 10. lejárt tőketartozás: a kölcsönszerződés felmondása miatt esedékessé vált tőketartozás, valamint a fel nem mondott kölcsönszerződésből eredő lejárt tőketartozás, amelynek törlesztési késedelme a 30 napot meghaladja;
 
-11.[^5] megváltozott munkaképességű személy: akinek a rehabilitációs hatóság komplex minősítése alapján egészségi állapota legfeljebb 50 százalékos mértékű, vagy a rehabilitációs hatóság jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50 százalékos mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67 százalékban elvesztette, vagy aki után az igénylő gyermekek otthongondozási díjában vagy ápolási díjban részesül;
+11.[^10] megváltozott munkaképességű személy: akinek a rehabilitációs hatóság komplex minősítése alapján egészségi állapota legfeljebb 50 százalékos mértékű, vagy a rehabilitációs hatóság jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50 százalékos mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67 százalékban elvesztette, vagy aki után az igénylő gyermekek otthongondozási díjában vagy ápolási díjban részesül;
 
 12. támogatott személy: akivel a hitelintézet a CSOK Plusz hitelprogram keretében elérhető kölcsön igénybevételére kölcsönszerződést köt;
 
-13.[^6] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített lakás, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is;
+13.[^11] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített lakás, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is;
 
 14. ügyleti kamat: a kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás.
 
-(2)[^7] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(2)[^12] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
-[^2]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 347. §-a szerint módosított szöveg.
-[^3]: Az 5. § (1) bekezdés 6a. pontját a 285/2024. (IX. 30.) Korm. rendelet 197. §-a iktatta be.
-[^4]: Az 5. § (1) bekezdés 7. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
-[^5]: Az 5. § (1) bekezdés 11. pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 2. pontja szerint módosított szöveg.
-[^6]: Az 5. § (1) bekezdés 13. pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 1. pontja szerint módosított szöveg.
-[^7]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés 3. pontja a 282/2025. (VIII. 25.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 347. §-a szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés 6a. pontját a 285/2024. (IX. 30.) Korm. rendelet 197. §-a iktatta be.
+[^9]: Az 5. § (1) bekezdés 7. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés 11. pontja a 388/2024. (XII. 11.) Korm. rendelet 48. § 2. pontja szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdés 13. pontja a 285/2024. (IX. 30.) Korm. rendelet 199. § 1. pontja szerint módosított szöveg.
+[^12]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 198. § b) pontja szerint módosított szöveg.

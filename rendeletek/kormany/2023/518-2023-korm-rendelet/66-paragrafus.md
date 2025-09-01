@@ -1,3 +1,3 @@
-66. §[^134]
+66. §[^147]
 
-[^134]: A 66. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^147]: A 66. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
