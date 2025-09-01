@@ -1,5 +1,5 @@
 ## 21. Egyes kormányrendeletek hatályon kívül helyezése
 
-25. §[^25]
+25. §[^22]
 
-[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
