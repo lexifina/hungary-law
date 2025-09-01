@@ -4,11 +4,7 @@
 
 (3) Az OMSZ mentési feladata(i) ellátására az (1) bekezdés szerinti működési engedéllyel rendelkező egészségügyi szolgáltatót közreműködőként igénybe veheti.
 
-(4)[^31] Az OMSZ a sürgősségi betegellátás hatékonyságának javítása és a folyamatos ellátás biztosítása érdekében az Eütv. 96. § (2) bekezdése és (3) bekezdés a) pontja, valamint 97. § (4) bekezdése alapján együttműködési megállapodást köt
-
-a) a mentési és a betegszállítási tevékenységre működési engedéllyel rendelkező szervezettel, függetlenül attól, hogy a szervezet a működéshez igényel-e állami költségvetésből pénzügyi támogatást,
-
-b) a fekvőbeteg-ellátáson kívül szervezett ügyeleti ellátást végző szervezettel.
+(4)[^31] A sürgősségi betegellátás hatékonyságának javítása és a folyamatos ellátás biztosítása érdekében az Eütv. 96. § (2) bekezdése és (3) bekezdés a) pontja szerinti együttműködési megállapodás arra való tekintet nélkül megköthető a mentési tevékenységre működési engedéllyel rendelkező szervezettel, hogy a szervezet a működéshez igényel-e állami költségvetésből pénzügyi támogatást.
 
 [^30]: A 10. § (1) bekezdése a 37/2011. (VI. 28.) NEFMI rendelet 12. § (1) bekezdés c) pontja, a 16/2014. (III. 12.) EMMI rendelet 14. § c) pontja, 15. § b) pontja szerint módosított szöveg.
-[^31]: A 10. § (4) bekezdése a 16/2015. (III. 30.) EMMI rendelet 21. §-ával megállapított szöveg.
+[^31]: A 10. § (4) bekezdése a 25/2025. (VII. 16.) BM rendelet 32. §-ával megállapított szöveg.

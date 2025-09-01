@@ -26,7 +26,7 @@ g) a 2. melléklet 1.6.8. pontja szerinti, mentőhelikopter készenlétét megk�
 
 h) a nemzeti ünnepek, valamint a kiemelkedő fontosságú rendezvények előkészítésének és lebonyolításának rendjéről szóló kormányhatározat szerinti rendezvények
 
-## egészségügyi biztosítását.
+egészségügyi biztosítását.
 
 (4a)[^40] A rendezvény egészségügyi biztosításáért – ide nem értve a (4) bekezdés h) pontjában foglalt rendezvényt – a rendezvény szervezője az egészségügyi biztosítást ellátó mentési tevékenységet végző szervezet által meghatározott térítési díjat fizet. A térítési díj összegéről a rendezvény szervezőjét a szolgáltatás igénybevétele előtt írásban tájékoztatni kell.
 
@@ -50,7 +50,7 @@ h) a rendezvény jellege,
 
 i) a rendezvény időtartama
 
-## figyelembevételével és a rendezvénybiztosítás részletes szabályait tartalmazó 2. melléklet szerinti feltételek alapján kerül sor.
+figyelembevételével és a rendezvénybiztosítás részletes szabályait tartalmazó 2. melléklet szerinti feltételek alapján kerül sor.
 
 (5)[^42] A rendezvény megfelelő egészségügyi biztosításáért a rendezvény szervezője felelős. Amennyiben a rendezvénybiztosítás során ellátott beteg egészségi állapotának megfelelő ellátásra alkalmas legközelebbi egészségügyi intézménybe szállítása válik szükségessé, akkor erről a rendezvény egészségügyi biztosítását végző szervezetnek – ide nem értve a gyalogőrséget – kell gondoskodnia. Ennek hiányában, vagy ha a tervezett oxiológiai ellátás a rendezvényen elégtelennek bizonyul, az OMSZ igazolt többletköltségét a rendezvény szervezője köteles az OMSZ számára megtéríteni. Ez alól kivételt képez a katasztrófa helyzet.
 

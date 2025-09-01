@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-5-20-0B
 | 2015-11-25 | 2006-5-20-0B.14 | 54/2015. (XI. 24.) EMMI rendelet |
 | 2017-01-01 | 2006-5-20-0B.15 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2021-09-07 | 2006-5-20-0B.16 | 41/2021. (IX. 6.) EMMI rendelet |
+| 2025-09-01 | 2006-5-20-0B.17 | 25/2025. (VII. 16.) BM rendelet |

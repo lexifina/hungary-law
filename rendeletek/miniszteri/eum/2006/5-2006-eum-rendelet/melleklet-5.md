@@ -66,6 +66,8 @@ Iránydiagnózisa:
 
 A szállítás alatt várható komplikáció:
 
+1M15256_0
+
 | légútbiztosítás módja |  |
 
 | eszköz |  |

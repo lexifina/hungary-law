@@ -1,5 +1,3 @@
-## A mentés személyi és tárgyi feltételei
-
 ## I. SZEMÉLYI FELTÉTELEK
 
 ## 1. Mentőgépkocsi-vezetőként az foglalkoztatható, aki
@@ -848,7 +846,7 @@
 
 2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^55]
 
-## Rendezvények egészségügyi biztosításának formái, szintjei és módja
+Rendezvények egészségügyi biztosításának formái, szintjei és módja
 
 1. Rendezvénybiztosítás:
 

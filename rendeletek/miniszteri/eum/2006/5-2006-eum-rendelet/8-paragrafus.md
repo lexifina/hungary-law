@@ -6,6 +6,6 @@ a) az ellátásban részt vevő mentőegységek legmagasabb egészségügyi kép
 
 b) amennyiben az a) pont szerinti képzettséggel több személy is rendelkezik, akkor az Irányító Központ szolgálatvezető főorvosa által kijelölt OMSZ dolgozó
 
-## látja el az egészségügyi kárhelyparancsnoki feladatot, aki a helyszínen lévő valamennyi mentő- és betegszállító egység, illetve a mentésben részt vevő valamennyi személy felé utasítási joggal rendelkezik.
+látja el az egészségügyi kárhelyparancsnoki feladatot, aki a helyszínen lévő valamennyi mentő- és betegszállító egység, illetve a mentésben részt vevő valamennyi személy felé utasítási joggal rendelkezik.
 
 (3) Az Irányító Központ részt vesz a tömeges balesetek, katasztrófahelyzetek felszámolásának koordinációjában, szükség esetén a mentési tevékenységre működési engedéllyel rendelkező szolgáltató(k) bevonására jogosult.

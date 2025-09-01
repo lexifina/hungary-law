@@ -6,7 +6,7 @@ a) az életveszélyes állapotban lévő beteget haladéktalanul,
 
 b) más beteget a mentőegység megérkezésétől számított 5 percen belül
 
-## az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló külön jogszabály szerinti fogadóhelyen átveszi a mentőegységtől, vagy a beteg sürgősségi ellátás informatikai rendszerében történő rögzítését követő 10 percen belül dönt a beteg továbbküldéséről.
+az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló külön jogszabály szerinti fogadóhelyen átveszi a mentőegységtől, vagy a beteg sürgősségi ellátás informatikai rendszerében történő rögzítését követő 10 percen belül dönt a beteg továbbküldéséről.
 
 (2) A sürgősségi betegellátó osztályra vagy fogadóhelyre kijelölt műszakvezető szakorvos (a továbbiakban: kijelölt szakorvos) dönt a betegfelvétel és a sürgősségi betegellátás során keletkező vitás ügyekben. A kijelölt szakorvos felelős a betegek felvételéért, ellátásuk intézményen belüli szervezéséért, illetve, ha az intézmény a beteg átvételére nem alkalmas, elvégzi a beteg továbbszállításához szükséges beavatkozásokat és egyeztet az ellátásra alkalmas és fogadóképes legközelebbi egészségügyi intézménnyel, és intézkedik a beteg továbbszállításáról.
 

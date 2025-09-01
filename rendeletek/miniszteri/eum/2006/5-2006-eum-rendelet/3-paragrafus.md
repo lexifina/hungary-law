@@ -6,7 +6,7 @@ b) 2 órán belüli,
 
 c) a mentési készenlétet igénylő őrzött szállítás esetén 2 órán túli
 
-## mentési feladat.
+mentési feladat.
 
 (2)[^11] A mentés az alkalmazott mentőegység típusa szerint lehet
 
