@@ -1,3 +1,3 @@
 20. §[^21]
 
-[^21]: A 20. § a 38. § (5) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^21]: A 20. § a 280/2025. (VIII. 21.) Korm. rendelet 18. §-a alapján nem lép hatályba.
