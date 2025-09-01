@@ -14,7 +14,9 @@ c) olyan belterületi lakóingatlannal rendelkezik vagy rendelkezett, amely hasz
 
 (4) A (2) és (3) bekezdésen kívül a kölcsön akkor is igényelhető, ha az igénylő a kölcsön iránti kérelem benyújtásának időpontjában és a benyújtását megelőző tíz éven belül egyidejűleg legfeljebb egy belterületi lakóingatlanban legfeljebb 50 százalékos tulajdoni hányaddal rendelkezett.
 
-(5) Házastársak hitelprogramban való részvétele esetén elegendő, ha a (2)–(4) bekezdésben, valamint a 8. § (1) bekezdés c) pontjában foglaltaknak az egyik házastárs maradéktalanul megfelel. Ez a szabály alkalmazandó abban az esetben is, ha az igénylő valamelyik szülője adóstársként bevonásra kerül az ügyletbe. Az adóstársra egyebekben ugyanazon igénylési feltételek vonatkoznak, mint az igénylőre.
+(5)[^4] A hitelügyletbe adóstársként kizárólag az igénylő házastársa, illetve szülője vonható be, azzal, hogy az igénylő szülője ebben az esetben nem szerezhet tulajdont az ingatlanban. Házastársak közös igénylése esetén mindkét házastárs szülei bevonhatóak adóstársként a hitelügyletbe.
+
+(5a)[^5] Házastársak hitelprogramban való részvétele esetén elegendő, ha a (2)–(4) bekezdésben, valamint a 8. § (1) bekezdés c) pontjában foglaltaknak az egyik házastárs maradéktalanul megfelel. Mentesül a (2)–(4) bekezdésben, valamint a 8. § (1) bekezdés c) pontjában foglalt feltételek teljesítése alól az igénylő szülője, amennyiben adóstársként kerül bevonásra az ügyletbe.
 
 (6) Otthon építése esetén a kölcsönszerződés megkötésének feltétele, hogy az igénylők által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja. Polgári jogi társaság (a továbbiakban: építőközösség) esetén az építőközösségi szerződés alapján megállapítható bekerülési költségnek az építőközösségi szerződés szerint tulajdonukba kerülő lakásra számított és a közös tulajdonba kerülő épületrészekből őket megillető tulajdoni hányad arányában meghatározott hányadát az építőközösség részére kiállított számlák alapján kell figyelembe venni.
 
@@ -44,6 +46,15 @@ azzal, hogy olyan új otthon vásárlásához vehető igénybe, amelyet a polgá
 
 (11) A kölcsön hitelcélja nem lehet lakóingatlan résztulajdonának megszerzése.
 
+(11a)[^6] A (11) bekezdés nem alkalmazandó házastársak közös igénylése esetén akkor, ha az adásvétel vagy építés eredményeként a házastársak együtt kizárólagos tulajdonosai lesznek az otthonnak.
+
+(11b)[^7] E rendelet alkalmazásában nem minősül résztulajdon megszerzésének, ha az igénylő a több önálló otthonból álló, osztatlan közös tulajdonú ingatlan esetén a hitelcél szerinti otthont jelentő ingatlanrész kizárólagos tulajdonosává válik.
+
 (12) A kölcsön igénybevételének feltétele, hogy az eladó vagy az építési tevékenységet végző az igénylőnek nem közeli hozzátartozója vagy élettársa, valamint ha az eladó vagy az építési munkálatokat végző gazdálkodó szervezet, abban az igénylő nem rendelkezik tagsággal vagy részesedéssel, továbbá a gazdálkodó szervezet tulajdonosa az igénylőnek nem közeli hozzátartozója vagy élettársa.
 
 (13) Az e § szerinti ingatlan-értékbecslési szakvélemény nem lehet régebbi a kölcsönkérelem benyújtását megelőző 90 napnál.
+
+[^4]: A 4. § (5) bekezdése a 282/2025. (VIII. 25.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (5a) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^6]: A 4. § (11a) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^7]: A 4. § (11b) bekezdését a 282/2025. (VIII. 25.) Korm. rendelet 15. § (2) bekezdése iktatta be.
