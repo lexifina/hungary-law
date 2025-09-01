@@ -60,7 +60,7 @@
 
 ## 2. A berendezéseket úgy kell megválasztani, hogy azok a lehető legkisebbre csökkentsék a veszélyt, illetve a hibák előfordulását a donorok, a személyzet vagy a vérkomponensek esetében.
 
-## 3.[^75] Csak a mindenkor érvényes jogszabályokat teljesítő, azaz jóváhagyott szállítóktól származó, a dokumentált követelményeknek és előírásoknak megfelelő reagenseket és anyagokat szabad felhasználni. Kritikus anyagok felszabadítását csak az ehhez képzettséggel rendelkező személy végezheti. Adott esetben az anyagoknak, reagenseknek és berendezéseknek meg kell felelniük:
+## 3.[^76] Csak a mindenkor érvényes jogszabályokat teljesítő, azaz jóváhagyott szállítóktól származó, a dokumentált követelményeknek és előírásoknak megfelelő reagenseket és anyagokat szabad felhasználni. Kritikus anyagok felszabadítását csak az ehhez képzettséggel rendelkező személy végezheti. Adott esetben az anyagoknak, reagenseknek és berendezéseknek meg kell felelniük:
 
 ## – orvostechnikai eszközök esetében az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet, illetve az orvostechnikai eszközökről szóló EüM rendelet,
 
@@ -70,7 +70,7 @@
 
 ## – harmadik országokban történő gyűjtés esetén az ezekkel egyenértékű előírásoknak.
 
-## 4.[^76] A leltárjegyzőkönyveket az országos tisztifőorvossal egyeztetett ideig kell megőrizni.
+## 4.[^77] A leltárjegyzőkönyveket az országos tisztifőorvossal egyeztetett ideig kell megőrizni.
 
 ## 5. Számítógépes rendszerek használatakor rendszeresen ellenőrizni kell a szoftvereket, a hardvert és a biztonsági másolati eljárásokat a megbízhatóság fenntartásának érdekében, azokat a használatbavétel előtt validálni kell és validált állapotban kell fenntartani. A hardvert és a szoftvereket védeni kell a jogosulatlan felhasználással vagy jogosulatlan változtatásokkal szemben. A biztonsági másolati eljárásoknak meg kell előzniük az adatvesztést vagy -károsodást, várt vagy váratlan áramszünet vagy működési zavar esetén.
 
@@ -170,7 +170,7 @@
 
 ## Az 5–7. számú mellékletben lefektetett kötelező előírásoktól eltérő vérkomponenseket csak kivételes körülmények között, és az igénylő orvos, valamint az OVSZ területi szerve orvosának írásos beleegyezésével szabad transzfúzióra felszabadítani.
 
-## 9.2.[^77] Panaszok
+## 9.2.[^78] Panaszok
 
 ## Dokumentálni kell minden olyan panaszt és információt – beleértve a súlyos szövődményeket és súlyos káros eseményeket –, amely arra utalhat, hogy nem megfelelő vérkomponenst adtak ki. A hiba okát ki kell vizsgálni, ha szükséges, a vérkomponenst vissza kell hívni, és a megfelelő intézkedéseket meg kell tenni a hiba kiküszöbölése érdekében. Olyan eljárásokat kell működtetni, amelyek biztosítják, hogy az országos tisztifőorvos a szabályozói követelményekkel összhangban megfelelően értesüljön a súlyos szövődményekről és súlyos káros eseményekről.
 
@@ -178,7 +178,7 @@
 
 ## 1. Az OVSZ területi szervének rendelkeznie kell olyan személyzettel, amely jogosult a vér és vérkomponensek visszahívására.
 
-## 2.[^78] A visszahívási eljárást szabályozni kell, beleértve a jogosultsági és felelősségi szinteket is. A visszahívási eljárás keretén belül szabályozni kell az országos tisztifőorvos értesítését is.
+## 2.[^79] A visszahívási eljárást szabályozni kell, beleértve a jogosultsági és felelősségi szinteket is. A visszahívási eljárás keretén belül szabályozni kell az országos tisztifőorvos értesítését is.
 
 ## 3. A vérkomponensek nyomon követéséről és adott esetben visszakereséséről gondoskodni kell. A vizsgálat célja minden olyan donor azonosítása, aki hozzájárulhatott a transzfúziós szövődmény kiváltásához, valamint az e donortól rendelkezésre álló vérkomponensek visszanyerése, továbbá az ugyanazon donortól gyűjtött komponensek címzettjeinek és recipienseinek értesítése abban az esetben, ha ők kockázatnak lehetnek kitéve.
 
@@ -196,10 +196,10 @@
 
 ## Minden eredményt dokumentálni kell, a javító és megelőző intézkedéseket a lehető legrövidebb időn belül el kell végezni.
 
-2. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^79]
+2. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^80]
 
-[^75]: Az 1/A. számú melléklet 4. alcím 3. pontja a 35/2021. (VIII. 16.) EMMI rendelet 20. §-a, a 13/2022. (IV. 29.) EMMI rendelet 32. §-a szerint módosított szöveg.
-[^76]: Az 1/A. számú melléklet „4. BERENDEZÉSEK ÉS ANYAGOK” cím 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 45. § e) pontja szerint módosított szöveg.
-[^77]: Az 1/A. számú melléklet 9. cím 9.2. pontja az 54/2016. (XII. 30.) EMMI rendelet 45. § f) pontja szerint módosított szöveg.
-[^78]: Az 1/A. számú melléklet 9. cím 9.3. pontja 2. alpontja az 54/2016. (XII. 30.) EMMI rendelet 45. § f) pontja szerint módosított szöveg.
-[^79]: A 2. számú melléklet a 2/2007. (I. 24.) EüM rendelet 7. § (2) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 48. § f) pontja szerint módosított szöveg.
+[^76]: Az 1/A. számú melléklet 4. alcím 3. pontja a 35/2021. (VIII. 16.) EMMI rendelet 20. §-a, a 13/2022. (IV. 29.) EMMI rendelet 32. §-a szerint módosított szöveg.
+[^77]: Az 1/A. számú melléklet „4. BERENDEZÉSEK ÉS ANYAGOK” cím 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 45. § e) pontja szerint módosított szöveg.
+[^78]: Az 1/A. számú melléklet 9. cím 9.2. pontja az 54/2016. (XII. 30.) EMMI rendelet 45. § f) pontja szerint módosított szöveg.
+[^79]: Az 1/A. számú melléklet 9. cím 9.3. pontja 2. alpontja az 54/2016. (XII. 30.) EMMI rendelet 45. § f) pontja szerint módosított szöveg.
+[^80]: A 2. számú melléklet a 2/2007. (I. 24.) EüM rendelet 7. § (2) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 48. § f) pontja szerint módosított szöveg.

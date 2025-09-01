@@ -6,7 +6,7 @@
 
 ## b) Rh(D) vércsoport meghatározás,
 
-## c)[^84] A donorok vizsgálata az alábbi fertőzésekre nézve:
+## c)[^85] A donorok vizsgálata az alábbi fertőzésekre nézve:
 
 ## ca) Hepatitis-B (HBs antigén, illetve a donor első véradása esetén HBs antigén és HBc antitest),
 
@@ -20,7 +20,7 @@
 
 ## További vizsgálatokra is szükség lehet speciális komponensek vagy donorok esetén, illetve epidemiológiai helyzetekben.
 
-6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^85]
+6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^86]
 
 A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmények
 
@@ -198,5 +198,5 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Granulocita-tartalom | Több, mint 1×1010 granulocita egységenként |
 
-[^84]: Az 5. melléklet c) pontja a 21/2024. (V. 3.) BM rendelet 1. §-ával megállapított szöveg.
-[^85]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.
+[^85]: Az 5. melléklet c) pontja a 21/2024. (V. 3.) BM rendelet 1. §-ával megállapított szöveg.
+[^86]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.

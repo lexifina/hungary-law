@@ -1,4 +1,4 @@
-## 17/E. §[^62] A minőségügyi és vérmintaadó biztonsági előírásokat, ideértve az ipari célú vérmintaadók nyilvántartására, vérmintaadás előtti kivizsgálására és a vérminta levételére vonatkozó részletes szabályokat, az OVSZ által kiadott eljárásrend határozza meg.
+## 17/E. §[^63] A minőségügyi és vérmintaadó biztonsági előírásokat, ideértve az ipari célú vérmintaadók nyilvántartására, vérmintaadás előtti kivizsgálására és a vérminta levételére vonatkozó részletes szabályokat, az OVSZ által kiadott eljárásrend határozza meg.
 
 ## Vér és vérkomponensek szállítása, elosztása és tárolása
 
@@ -14,4 +14,4 @@
 
 (6) A vérkészítmény megsemmisítésére az egészségügyi intézményekben keletkező hulladék kezeléséről szóló külön jogszabály rendelkezéseit kell alkalmazni.
 
-[^62]: A 17/E. §-t a 2/2019. (I. 16.) EMMI rendelet 3. §-a iktatta be.
+[^63]: A 17/E. §-t a 2/2019. (I. 16.) EMMI rendelet 3. §-a iktatta be.
