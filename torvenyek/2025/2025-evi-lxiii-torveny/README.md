@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-63-00-00
 | --- | --- | --- |
 | 2025-07-05 | 2025. évi LXIII. törvény | 2025-63-00-00.0 (közlönyállapot) |
 | 2025-07-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-63-00-00.1 |
+| 2025-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-63-00-00.2 |
