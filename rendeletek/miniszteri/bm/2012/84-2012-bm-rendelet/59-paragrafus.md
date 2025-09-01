@@ -4,6 +4,6 @@
 
 (3) A szolgálati elöljárói viszonyba lépett feljebbvalónak az átvett intézkedést be kell fejeznie. Amennyiben a szolgálati elöljárói viszonyba lépés szolgálati feladat végzésekor történik, akkor a szolgálati elöljáró a megkezdett feladat végrehajtásáért felelősséggel tartozik.
 
-(4)[^87] Az intézkedő országgyűlési őröknek a szolgálati elöljárói viszonyba lépésről közvetlen szolgálati elöljárójuknak jelentést kell tenniük. Ebből a célból kölcsönösen feljegyzik egymás nevét, rendfokozatát, azonosító jelvényének számát és beosztási helyét.
+(4)[^89] Az intézkedő országgyűlési őröknek a szolgálati elöljárói viszonyba lépésről közvetlen szolgálati elöljárójuknak jelentést kell tenniük. Ebből a célból kölcsönösen feljegyzik egymás nevét, rendfokozatát, azonosító jelvényének számát és beosztási helyét.
 
-[^87]: Az 59. § (4) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 24. pontja szerint módosított szöveg.
+[^89]: Az 59. § (4) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 24. pontja szerint módosított szöveg.

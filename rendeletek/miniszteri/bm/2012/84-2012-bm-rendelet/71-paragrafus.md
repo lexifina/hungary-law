@@ -1,4 +1,4 @@
-71. §[^107] (1) A 70. § (3) bekezdése szerinti engedély iránti kérelmet külön indokolással az Országgyűlési Őrség parancsnokához kell benyújtani, aki a szolgálati maroklőfegyver vagy lőszer szolgálaton kívüli birtoklását külön indokolás nélkül is megtilthatja, továbbá a kiadott engedélyt visszavonhatja.
+71. §[^109] (1) A 70. § (3) bekezdése szerinti engedély iránti kérelmet külön indokolással az Országgyűlési Őrség parancsnokához kell benyújtani, aki a szolgálati maroklőfegyver vagy lőszer szolgálaton kívüli birtoklását külön indokolás nélkül is megtilthatja, továbbá a kiadott engedélyt visszavonhatja.
 
 (2) A szolgálati maroklőfegyver vagy lőszer szolgálaton kívüli birtoklása esetén a biztonságos tárolás feltételeinek meglétét az Országgyűlési Őrség parancsnoka vagy az általa megbízott személy köteles évente, visszatérően ellenőrizni.
 
@@ -16,4 +16,4 @@ d) a biztonságos tárolás feltételei nem biztosítottak, vagy
 
 e) az országgyűlési őr a lőfegyverrel vagy lőszerrel bármely módon visszaélt.
 
-[^107]: A 71. § a 34/2024. (VIII. 8.) BM rendelet 11. §-ával megállapított szöveg.
+[^109]: A 71. § a 34/2024. (VIII. 8.) BM rendelet 11. §-ával megállapított szöveg.
