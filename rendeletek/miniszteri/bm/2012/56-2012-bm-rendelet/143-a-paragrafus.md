@@ -1,4 +1,4 @@
-143/A. §[^353] (1) Az ezen alcímben foglaltakat a (2) bekezdésben meghatározott eltérésekkel alkalmazni kell az Országgyűlési Őrségnél foglalkoztatott munkavállalóra is.
+143/A. §[^356] (1) Az ezen alcímben foglaltakat a (2) bekezdésben meghatározott eltérésekkel alkalmazni kell az Országgyűlési Őrségnél foglalkoztatott munkavállalóra is.
 
 (2) Az Országgyűlési Őrségnél foglalkoztatott munkavállaló tekintetében az ezen alcímben foglaltakat azzal kell alkalmazni, hogy
 
@@ -14,4 +14,4 @@ e) a Hszt. XIX. Fejezetében szereplő alapilletményen a munkavállaló alapbé
 
 kell érteni.
 
-[^353]: A 143/A. §-t a 24/2023. (VI. 30.) BM rendelet 32. §-a iktatta be.
+[^356]: A 143/A. §-t a 24/2023. (VI. 30.) BM rendelet 32. §-a iktatta be.

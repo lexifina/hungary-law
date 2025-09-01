@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^374]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^377]
 
 Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -32,17 +32,17 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | osztályvezető-helyettes | 920 970* 1020* 1070*[^375] | 920 |
+| 3. | D | osztályvezető-helyettes | 920 970* 1020* 1070*[^378] | 920 |
 
 | 4. | D | ügyeletvezető I. | 920 |  |
 
 | 5. | D | ügyeletvezető II. | 870 |  |
 
-| 6. | D | kiemelt főreferens | 920 970* 1020* 1070*[^376] | 870 |
+| 6. | D | kiemelt főreferens | 920 970* 1020* 1070*[^379] | 870 |
 
 | 7. | D | jogtanácsos |  | 970 |
 
-| 8. | C | kiemelt főelőadó | 920 970*[^377] | 870 |
+| 8. | C | kiemelt főelőadó | 920 970*[^380] | 870 |
 
 | 9. | C | kiemelt biztonsági főtiszt | 1070 |  |
 
@@ -64,7 +64,7 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 3. | D | csoportvezető | 920 | 920 |
 
-| 4. | D | szolgálatparancsnok | 920 970*[^378] |  |
+| 4. | D | szolgálatparancsnok | 920 970*[^381] |  |
 
 | 5. | D | szakreferens | 920 | 870 |
 
@@ -72,7 +72,7 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 7. | C | szolgálatparancsnok-helyettes | 870 |  |
 
-| 8. | C | főreferens | 870 920*[^379] | 820 |
+| 8. | C | főreferens | 870 920*[^382] | 820 |
 
 | 9. | C | technikus | 870 |  |
 
@@ -102,15 +102,15 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 4.3. 1020*: Az Országgyűlési Őrség Híradó és Biztonságtechnikai Osztályon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 1020%.
 
-4.4.[^380] 970*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 970%.
+4.4.[^383] 970*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 970%.
 
-4.5.[^381] 920*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 920%.
+4.5.[^384] 920*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 920%.
 
-[^374]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 14. §-ával megállapított szöveg.
-[^375]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^376]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^377]: Az 1. melléklet 2. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^378]: Az 1. melléklet 3. pontjában foglalt táblázat C:4 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^379]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^380]: Az 1. melléklet 4.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.
-[^381]: Az 1. melléklet 4.5. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.
+[^377]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 14. §-ával megállapított szöveg.
+[^378]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^379]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^380]: Az 1. melléklet 2. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^381]: Az 1. melléklet 3. pontjában foglalt táblázat C:4 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^382]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^383]: Az 1. melléklet 4.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.
+[^384]: Az 1. melléklet 4.5. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.

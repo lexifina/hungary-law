@@ -1,3 +1,3 @@
-65. §[^210]
+65. §[^211]
 
-[^210]: A 65. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 16. pontja hatályon kívül helyezte.
+[^211]: A 65. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 16. pontja hatályon kívül helyezte.
