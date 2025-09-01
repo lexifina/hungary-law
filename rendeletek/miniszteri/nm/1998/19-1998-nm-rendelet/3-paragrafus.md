@@ -1,26 +1,23 @@
-## 2/B. §[^8] A betegszállítás tekintetében területi ellátásra kötelezett az a szolgáltató – figyelemmel az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 33. § (6) bekezdésében foglaltakra –, amelynek a területén a biztosítottnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti lakóhelye vagy tartózkodási helye van.
-
 3. § (1) Betegszállítási tevékenység végzésére annak a szervezetnek adható engedély, amely rendelkezik az 1. számú mellékletben foglalt személyi és tárgyi feltételekkel.
 
-(2)[^9] A működési engedélyben rögzíteni kell
+(2)[^10] A működési engedélyben rögzíteni kell
 
 a) a betegszállító szervezet és állomás adatait,
 
 b) a betegszállítási tevékenység végzésére jogosult szervezet a 4. §-ban foglalt feladatok közül melyek végzésére jogosult,
 
-c)[^10]
+c)[^11]
 
-d)[^11] a működési terület közigazgatási határait, valamint a rendelkezésre állás időtartamát.
+d)[^12] a működési terület közigazgatási határait, valamint a rendelkezésre állás időtartamát.
 
 (3) A betegszállítási tevékenységre jogosító működési engedély alapján nem végezhető közúti közlekedési szolgáltatás.
 
-(4)[^12] Az Országos Mentőszolgálat (a továbbiakban: OMSZ) országosan irányítja a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK) kötött finanszírozási szerződéssel rendelkező betegszállító szervezetek tevékenységét. Ennek keretében végzi a betegszállítási feladatok 6. § (2) bekezdése szerinti felvételét, az illetékes betegszállító szervezet felé való továbbítását, a feladat teljesítésének folyamatos követését. A finanszírozási szerződéssel rendelkező betegszállító szervezetek a rendelkezésükre álló kapacitásokat az OMSZ által megadott időszakonként jelentik.
+(4)[^13] Az Országos Mentőszolgálat (a továbbiakban: OMSZ) az arra rendszeresített informatikai rendszer segítségével koordinálja a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK) kötött finanszírozási szerződéssel rendelkező betegszállító szervezetek tevékenységét. Ennek keretében végzi a betegszállítási feladatok 6. § (2) bekezdése szerinti felvételét, az illetékes betegszállító szervezet felé való továbbítását, a feladat teljesítésének folyamatos követését. A betegellátás hatékonysága érdekében a betegszállító szervezet az együttműködési megállapodás keretei között végzi el az OMSZ által a területi ellátási kötelezettség figyelembevételével kiosztott feladatot, ideértve a területi ellátási kötelezettségen kívüli betegszállítási feladatot is. A finanszírozási szerződéssel rendelkező betegszállító szervezetek a rendelkezésükre álló kapacitásokat az OMSZ által megadott időszakonként jelentik.
 
-(5)[^13]
+(5)[^14] A sürgősségi betegellátás hatékonyságának javítása és a folyamatos ellátás biztosítása érdekében az Eütv. 97. § (4) bekezdése szerinti együttműködési megállapodás arra való tekintet nélkül megköthető a betegszállítási tevékenységre működési engedéllyel rendelkező szervezettel, hogy a szervezet a működéshez igényel-e állami költségvetésből pénzügyi támogatást.
 
-[^8]: A 2/B. §-t a 15/2011. (IV. 27.) NEFMI rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 3. § (2) bekezdése a 25/2002. (V. 14.) EüM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 8. § (2) bekezdése alapján a 2002. május 22. napján betegszállítási tevékenység végzésére jogosító működési engedéllyel rendelkező egészségügyi szolgáltató a 2002. május 22. napjától számított 90 napon belül kérheti a működési engedélye módosítását.
-[^10]: A 3. § (2) bekezdés c) pontját a 28/2017. (X. 25.) EMMI rendelet 7. § a) pontja hatályon kívül helyezte.
-[^11]: A 3. § (2) bekezdésének d) pontját a 60/2007. (XII. 29.) EüM rendelet 3. § (1) bekezdése iktatta be.
-[^12]: A 3. § (4) bekezdését a 60/2007. (XII. 29.) EüM rendelet 3. § (2) bekezdése iktatta be, szövege a 37/2011. (VI. 28.) NEFMI rendelet 15. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § c) pontja szerint módosított szöveg.
-[^13]: A 3. § (5) bekezdését az 50/2008. (XII. 31.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 37/2011. (VI. 28.) NEFMI rendelet 17. § (2) bekezdése.
+[^10]: A 3. § (2) bekezdése a 25/2002. (V. 14.) EüM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 8. § (2) bekezdése alapján a 2002. május 22. napján betegszállítási tevékenység végzésére jogosító működési engedéllyel rendelkező egészségügyi szolgáltató a 2002. május 22. napjától számított 90 napon belül kérheti a működési engedélye módosítását.
+[^11]: A 3. § (2) bekezdés c) pontját a 28/2017. (X. 25.) EMMI rendelet 7. § a) pontja hatályon kívül helyezte.
+[^12]: A 3. § (2) bekezdésének d) pontját a 60/2007. (XII. 29.) EüM rendelet 3. § (1) bekezdése iktatta be.
+[^13]: A 3. § (4) bekezdését a 60/2007. (XII. 29.) EüM rendelet 3. § (2) bekezdése iktatta be, szövege a 25/2025. (VII. 16.) BM rendelet 8. §-ával megállapított szöveg.
+[^14]: A 3. § (5) bekezdését újonnan a 25/2025. (VII. 16.) BM rendelet 8. §-a iktatta be.

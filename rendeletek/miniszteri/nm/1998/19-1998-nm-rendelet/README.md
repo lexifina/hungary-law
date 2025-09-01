@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-19-20-3
 | 2017-10-30 | 1998-19-20-3D.20 | 28/2017. (X. 25.) EMMI rendelet |
 | 2021-06-09 | 1998-19-20-3D.21 | 23/2004. (IV. 1.) ESZCSM rendelet |
 | 2023-01-01 | 1998-19-20-3D.22 | 45/2022. (XII. 20.) BM rendelet |
+| 2025-09-01 | 1998-19-20-3D.23 | 25/2025. (VII. 16.) BM rendelet |
