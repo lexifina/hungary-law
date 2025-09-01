@@ -248,7 +248,7 @@ j) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításár
 
 59. a fogyasztóvédelmi tárgyú, 5 millió forintot meghaladó bírságösszeget tartalmazó határozat.
 
-(8) A pénzügyi infrastruktúráért felelős ügyvezető igazgató hoz döntést az 1. § a) pontja szerinti következő esetekben:
+(8)[^1] A pénzforgalomért, készpénzlogisztikáért és bankműveletekért felelős ügyvezető igazgató hoz döntést az 1. § a) pontja szerinti következő esetekben:
 
 a) a fizetési rendszer működtetése tevékenységet végző szervezet üzletszabályzata, szabályzata és ezek módosítása hatálybalépésének jóváhagyása,
 
@@ -320,7 +320,7 @@ c) a pénzmosás és terrorizmus finanszírozásának megelőzése és megakadá
 
 (15) A Közvetítők prudenciális felügyeleti önálló osztálya vezetője hoz döntést a feladatkörébe tartozó, az 1. § a) pontja szerinti, a (6) bekezdés d), f), h) és i) pontja alá nem tartozó egyéb, kivételes és rendkívüli intézkedést nem tartalmazó döntések esetében.
 
-(16) Az engedélyezésért, jogérvényesítésért és fogyasztóvédelemért felelős ügyvezető igazgató irányítása alá tartozó szervezeti egység hatáskörrel rendelkező főosztályvezetője hoz döntést az 1. § a) pontja szerinti, az általa vezetett főosztály feladatkörébe tartozó következő esetekben:
+(16)[^2] Az engedélyezésért, jogérvényesítésért és fogyasztóvédelemért felelős ügyvezető igazgató irányítása alá tartozó szervezeti egység hatáskörrel rendelkező főosztályvezetője, illetve hatáskörrel rendelkező önálló osztály vezetője hoz döntést az 1. § a) pontja szerinti, az általa vezetett főosztály, illetve önálló osztály feladatkörébe tartozó következő esetekben:
 
 a) az eljárást kérelemre megszüntető végzés,
 
@@ -359,3 +359,6 @@ b) különböző vezetési szinten álló, vezetői hatáskörrel rendelkező sz
 c) azonos vezetési szinten álló, vezetői hatáskörrel rendelkező személyek érintettsége esetén, illetve amennyiben a b) pont alapján nem határozható meg a döntéshozatalra jogosult személy, a felügyelt szervezet felügyeletéért SZMSZ szerint felelős szervezeti egység tekintetében vezetői hatáskörrel rendelkező személy
 
 jogosult a döntéshozatalra.
+
+[^1]: A 2. § (8) bekezdés nyitó szövegrésze a 26/2025. (VIII. 7.) MNB rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (16) bekezdés nyitó szövegrésze a 26/2025. (VIII. 7.) MNB rendelet 1. § b) pontja szerint módosított szöveg.
