@@ -170,7 +170,7 @@ kerül sor.
 
 ## 7.25.
 
-## 7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona terhére
+## 7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ideértve a tartós vagyonkezelésébe adott vagyonból kedvezményezettként általa megszerzett összeget is) terhére
 
 ## a) – ide nem értve az említett vagyonok osztaléknak minősülő hozamait – a kedvezményezett magánszemély részére juttatott vagyoni érték,
 

@@ -90,6 +90,6 @@ c) az átutalás napjáról.
 
 a) a magánalapítvány magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából;
 
-b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés, valamint a magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából magánszemély által alapított vagyonkezelő alapítvány bizalmi vagyonkezelői feladatának teljesítése céljából,
+b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés, valamint a magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából magánszemély által alapított vagyonkezelő alapítvány tartós vagyonkezelői feladatának teljesítése céljából,
 
 azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.

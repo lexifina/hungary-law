@@ -16,7 +16,7 @@ ae) a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kedve
 
 af)
 
-ag) a magánalapítvány által a kedvezményezett magánszemély részére a számviteli szabályok szerinti felhalmozott adózott eredmény értékét meg nem haladó összegben juttatott vagyoni érték;
+ag) a magánalapítvány által a kedvezményezett vagy az alapító, a csatlakozó magánszemélynek a számviteli szabályok szerinti tőkeváltozás terhére juttatott vagyoni érték, azzal, hogy ha a magánalapítvány tartós vagyonkezelés kedvezményezettje, a tőkeváltozás azon része terhére juttatott vagyoni érték, amely a tartós vagyonkezelés keretében kezelt vagyonból általa vagyonkiadás címén kedvezményezettként megszerzett juttatás értékének megfelelően keletkezett, csak annyiban minősül osztaléknak, amennyiben annak forrása a 65/C. § (11) bekezdése szerint külön nyilvántartott eszközérték-növekmény, és azt kedvezményezett magánszemély (nem az alapító, a csatlakozó) szerzi meg bevételként;
 
 ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
 
