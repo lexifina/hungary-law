@@ -2,10 +2,8 @@
 
 a) nyomdai, lap- és könyvkiadási, fordítási, lektorálási és tolmácsolási tevékenységet,
 
-b)[^1]
+b) informatikai rendszerek fejlesztési és üzemeltetési feladatait – amennyiben az nem tartozik más költségvetési szerv vagy állami tulajdonban álló gazdasági társaság jogszabályban meghatározott feladat- és hatáskörébe –, valamint
 
 c) a Deregulációs Portál fejlesztését és üzemeltetését
 
 az MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zártkörűen Működő Részvénytársaság végzi.
-
-[^1]: A 6. § b) pontja a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
