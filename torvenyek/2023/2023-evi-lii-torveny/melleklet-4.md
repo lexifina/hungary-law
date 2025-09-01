@@ -1,3 +1,9 @@
+## A) A köznevelési foglalkoztatotti jogviszonyban állók részére járó eseti pótlékok a havi illetmény egy órára járó összegének százalékában
+
+## | | A | B | 1 | Pótlék megnevezése | Pótlék mértéke | 2 | Vasárnapi munkavégzésért járó | 40–60% | 3 | Munkaszüneti napi munkavégzésért járó | 90–100% | 4 | Éjszakai munkavégzésért járó | 10–20% | 5 | Rendkívüli munkavégzésért járó | | 6 | munkanapon | 50% | 7 | heti pihenőnapon vagy munkaszüneti napon | 100%
+
+## B) A köznevelési intézményekben alkalmazott pedagógusok és nevelő-oktató munkát segítő munkakörben foglalkoztatottak részére járó tartós pótlékok és azok mértéke a Gyakornok fokozathoz tartozó havi illetményösszeg százalékában
+
 ## | | A | B | C | 1 | Pótlék megnevezése | Pótlék alsó határa | Pótlék felső határa | 2 | nemzetiségi pótlék | 5% | 20% | 3 | gyógypedagógiai pótlék | 2,5% | 5% | 4 | diabétesz ellátási pótlék | 10% | 10%
 
 4. melléklet a 2023. évi LII. törvényhez
