@@ -1,15 +1,13 @@
-13. § (1)[^18]
+13. § (1) A Vet. Vhr. 1. számú melléklete az 1. melléklet szerint módosul.
 
-(2)[^19]
+(2) A Vet. Vhr. 2. számú melléklete a 2. melléklet szerint módosul.
 
-(3)[^20]
+(3)[^12]
 
-(4)[^21]
+(4)[^13]
 
-(5)[^22]
+(5)[^14]
 
-[^18]: A 13. § (1) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^19]: A 13. § (2) bekezdése a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^20]: A 13. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 13. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 13. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 13. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,9 @@
 15. § Hatályát veszti a Vet. Vhr.
 
-a)[^27]
+a)[^18]
 
-b)[^28]
+b) 2. számú melléklet 2. pont 2.1. alpont e) pontjában a „valamint” szövegrész,
 
-c)[^29]
+c) 2. számú melléklet 2. pont 2.4. alpont h) pont hb) alpontjában a „továbbá” szövegrész.
 
-[^27]: A 15. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 15. § b) pontja a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^29]: A 15. § c) pontja a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^18]: A 15. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

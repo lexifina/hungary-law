@@ -1,3 +1,3 @@
-9. §[^12]
+9. § A Vet. Vhr. 47. § (3) bekezdése a következő f) és g) ponttal egészül ki:
 
-[^12]: A 9. § a 19. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+(Az Elosztói Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:)
