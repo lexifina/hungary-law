@@ -4,7 +4,7 @@
 
 ## 25. A felülvizsgálati eljárás
 
-100. § (1)[^37] A felülvizsgálati eljárás keretében kell az egészségi alkalmasság kérdésében dönteni, ha a hivatásos állomány tagjának betegsége vagy balesete miatt
+100. § (1)[^39] A felülvizsgálati eljárás keretében kell az egészségi alkalmasság kérdésében dönteni, ha a hivatásos állomány tagjának betegsége vagy balesete miatt
 
 a) a 83. § (4) bekezdése szerint az ismételt alkalmasságvizsgálaton „Alkalmas kategória-váltással” minősítést kapott, és a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott, alacsonyabb szolgálati beosztásnak minősülő szolgálati beosztást nem fogadja el,
 
@@ -16,4 +16,4 @@ d) a 83. § (8) bekezdése szerint a másodfokon megismételt alkalmasságvizsg�
 
 (2) A hivatásos állomány tagja alkalmasságának felülvizsgálatát az egészségi minimumfeltételek figyelembevételével kell végezni.
 
-[^37]: A 100. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 59. §-ával megállapított szöveg.
+[^39]: A 100. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 59. §-ával megállapított szöveg.
