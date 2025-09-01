@@ -18,11 +18,11 @@ b) a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő
 
 c) vezetői megbízással rendelkező értékelendő személy esetében a 3. melléklet
 
-d)[^2] vezetői megbízással nem rendelkező, pedagógiai szakértő munkakörben, pedagógiai előadó munkakörben foglalkoztatott értékelendő személy esetében a 4. melléklet
+d)[^6] vezetői megbízással nem rendelkező, pedagógiai szakértő munkakörben, pedagógiai előadó munkakörben foglalkoztatott értékelendő személy esetében a 4. melléklet
 
 szerinti értékelési szempontok (a továbbiakban: értékelési szempont) alapján kell lefolytatni.
 
-(3a)[^3] Az értékelő vezető a (3) bekezdés a) pontja szerinti pedagógus értékelése során az 1. mellékletben foglalt táblázat 2. sora szerinti szempont értékelése során figyelembe veszi a köznevelésért felelős miniszter által az Nkt. 62. § (5) bekezdése szerint elrendelt képzés teljesítését és eredményét.
+(3a)[^7] Az értékelő vezető a (3) bekezdés a) pontja szerinti pedagógus értékelése során az 1. mellékletben foglalt táblázat 2. sora szerinti szempont értékelése során figyelembe veszi a köznevelésért felelős miniszter által az Nkt. 62. § (5) bekezdése szerint elrendelt képzés teljesítését és eredményét.
 
 (4) A személyre szabott éves teljesítménycélok és értékelési szempontok meghatározásának, teljesülésük nyomon követésének és mérésének részletes módszertanát és szakmai szabályait a köznevelésért felelős miniszter a teljesítményértékelési időszak kezdetét megelőző július 31-ig a Púétv. 1. § (9) bekezdése szerinti hivatal által működtetett honlapon (a továbbiakban: honlap) teszi közzé. A szempontok a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni. Az egyedi intézményi értékelési szempontot a teljesítményértékelési időszak kezdetét megelőző augusztus 25-ig az értékelő vezető határozza meg, az adott tanévre vagy nevelési évre szólóan. A közzétett módszertan és szakmai szabályok, valamint az egyedi intézményi értékelési szempontok a teljesítményértékelési időszakban nem módosíthatók.
 
@@ -32,7 +32,7 @@ a) vezető megbízással nem rendelkező értékelendő személy esetén
 
 aa) a három, személyre szabott teljesítménycél megvalósulása esetén háromszor 8, összesen legfeljebb 24 pont,
 
-ab) a hét értékelési szempont – az 1. és 2. mellékletben feltüntetett pontszámokkal történő – értékelése alapján, összesen legfeljebb 76 pont,
+ab)[^8] a hét értékelési szempont – az 1., 2. és 4. mellékletben feltüntetett pontszámokkal történő – értékelése alapján, összesen legfeljebb 76 pont,
 
 b) a vezetői megbízással rendelkező értékelendő személy esetében
 
@@ -50,5 +50,6 @@ b) átlagos teljesítményszintű az az értékelendő személy, akinek pontszá
 
 c) fejlesztendő teljesítményszintű az az értékelendő személy, akinek pontszáma az elérhető pontszám 50%-a alatti.
 
-[^2]: A 4. § (3) bekezdés d) pontját a 34/2025. (VIII. 18.) BM rendelet 18. §-a iktatta be.
-[^3]: A 4. § (3a) bekezdését a 40/2024. (IX. 2.) BM rendelet 9. §-a iktatta be.
+[^6]: A 4. § (3) bekezdés d) pontját a 34/2025. (VIII. 18.) BM rendelet 18. §-a iktatta be.
+[^7]: A 4. § (3a) bekezdését a 40/2024. (IX. 2.) BM rendelet 9. §-a iktatta be.
+[^8]: A 4. § (5) bekezdés a) pont ab) alpontja a 34/2025. (VIII. 18.) BM rendelet 21. § e) pontja szerint módosított szöveg.

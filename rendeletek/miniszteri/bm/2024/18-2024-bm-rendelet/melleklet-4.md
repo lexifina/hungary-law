@@ -20,7 +20,7 @@
 
 | 10 |  | Összesen | 100 |
 
-4. melléklet a 18/2024. (IV. 4.) BM rendelethez[^6]
+4. melléklet a 18/2024. (IV. 4.) BM rendelethez[^16]
 
 Pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatott értékelendő személy teljesítményértékelésének szempontjai és az adható pontszámok
 
@@ -46,4 +46,4 @@ Pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakért
 
 | 10 |  | Összesen | 100 |
 
-[^6]: A 4. mellékletet a 34/2025. (VIII. 18.) BM rendelet 20. §-a iktatta be.
+[^16]: A 4. mellékletet a 34/2025. (VIII. 18.) BM rendelet 20. §-a iktatta be.
