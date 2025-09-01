@@ -20,7 +20,7 @@ bb) korszerűsítéséhez (felújításához) igénybe vett otthonfelújítási 
 
 (6) A (3) és (4) bekezdésben foglaltaktól eltérően a családi otthonteremtési kedvezmény összegének megállapításánál nem kell figyelembe venni az újabb támogatási kérelem benyújtásának időpontjáig – a (9) bekezdés szerinti nyilvántartás alapján, vagy a 2011. december 31. napját megelőzően benyújtott igénylések esetében közokirattal vagy hitelintézet által teljes bizonyító erejű magánokiratként kiállított dokumentummal igazolt módon – már visszafizetett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön összegét.
 
-(6a)[^5] A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti kölcsön igénybevétele miatt az (1), (3) és (4) bekezdés rendelkezése nem alkalmazandó az e rendelet szerinti családi otthonteremtési kedvezményre nézve.
+(6a)[^5] A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti kölcsön (a továbbiakban: CSOK Plusz kölcsön), illetve az Otthon Start program keretében biztosított FIX 3%-os lakáshitelről szóló 227/2025. (VII. 31.) Korm. rendelet szerinti kölcsön (a továbbiakban: Otthon Start kölcsön) igénybevétele miatt az (1), (3) és (4) bekezdés nem alkalmazandó az e rendelet szerinti családi otthonteremtési kedvezményre nézve.
 
 (7)[^6]
 
@@ -31,5 +31,5 @@ bb) korszerűsítéséhez (felújításához) igénybe vett otthonfelújítási 
 [^2]: A 3. § (1) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 32. § 2. pontja szerint módosított szöveg.
 [^3]: A 3. § (2) bekezdése a 388/2024. (XII. 11.) Korm. rendelet 32. § 3. pontja szerint módosított szöveg.
 [^4]: A 3. § (5) bekezdése a 389/2024. (XII. 11.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (6a) bekezdését az 518/2023. (XI. 30.) Korm. rendelet 66. § (1) bekezdése iktatta be, szövege a 388/2024. (XII. 11.) Korm. rendelet 32. § 4. pontja szerint módosított szöveg.
+[^5]: A 3. § (6a) bekezdését az 518/2023. (XI. 30.) Korm. rendelet 66. § (1) bekezdése iktatta be, szövege a 388/2024. (XII. 11.) Korm. rendelet 32. § 4. pontja, a 282/2025. (VIII. 25.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (7) bekezdését a 388/2024. (XII. 11.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.

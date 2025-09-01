@@ -1,3 +1,3 @@
-64. §[^202]
+64. §[^206]
 
-[^202]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^206]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

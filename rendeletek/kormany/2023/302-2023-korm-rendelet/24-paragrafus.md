@@ -12,8 +12,8 @@
 
 (6) A családi otthonteremtési kedvezményre vonatkozó, (5) bekezdés szerinti reklámok, hirdetések részletes szabályait az általános politikai koordinációért felelős miniszter állapítja meg.
 
-(7)[^89] Ha ugyanazon lakáscél megvalósításához a támogatott személy az e rendelet és egyéb lakáscélú állami támogatásokról szóló jogszabályok szerinti lakáscélú állami támogatásokat különböző hitelintézetektől veszi igénybe, a hitelintézetek kötelesek együttműködni, valamint a másik hitelintézethez már benyújtott számlát elfogadni.
+(7)[^91] Ha ugyanazon lakáscél megvalósításához a támogatott személy az e rendelet és egyéb lakáscélú állami támogatásokról szóló jogszabályok szerinti lakáscélú állami támogatásokat különböző hitelintézetektől veszi igénybe, a hitelintézetek kötelesek együttműködni, valamint a másik hitelintézethez már benyújtott számlát elfogadni.
 
 (8) A (7) bekezdés tekintetében lakáscélú állami támogatásnak minősül a lakás-takarékpénztárakról szóló törvény, valamint a lakáscélú állami támogatásokról, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról és az otthonteremtési kamattámogatásról szóló kormányrendelet, a lakásépítési támogatásról szóló kormányrendelet, valamint az e rendelet szerinti állami támogatás.
 
-[^89]: A 24. § (7) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^91]: A 24. § (7) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.

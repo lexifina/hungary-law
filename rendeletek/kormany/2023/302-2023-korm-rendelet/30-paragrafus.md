@@ -1,18 +1,18 @@
 30. § (1) A családi otthonteremtési kedvezményre való jogosultság feltételeinek meglétét az igénylő a következők szerint igazolja:
 
-1.[^100] a személyazonosságot és az életkort személyazonosító igazolvánnyal, érvényes úti okmánnyal vagy kártyaformátumú vezetői engedéllyel,
+1.[^103] a személyazonosságot és az életkort személyazonosító igazolvánnyal, érvényes úti okmánnyal vagy kártyaformátumú vezetői engedéllyel,
 
 2. a bejelentett lakóhelyet a lakcímet igazoló hatósági igazolvánnyal vagy – a 15. § (24) bekezdése szerinti esetben – azzal egyenértékű, külföldi hatóság által kiállított okirattal, a személyi azonosítót a személyi azonosítót igazoló hatósági igazolvánnyal,
 
 3. a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-4.[^101] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
+4.[^104] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
 
 5. a saját adóazonosító jelét adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
 
 6. a várandósság betöltött 12. hetét a várandósgondozásban részt vevő szülész-nőgyógyász szakorvos által kiállított, a várandósság tényéről és annak 12. hete betöltésének napjáról, a szülés várható időpontjáról és a magzatok számáról szóló igazolással,
 
-7.[^102] a 15. § (1) bekezdés c) pontjában, a 15. § (24) bekezdésében, valamint a (2) és (3) bekezdésben foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által 30 napnál nem régebben, a tanúsítani kívánt, 15. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított 30 napnál nem régebbi igazolással vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított 30 napnál nem régebbi igazolással, a 15. § (1) bekezdés c) pont cb) alpontja szerinti külföldi tanulmányokat az azok időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
+7.[^105] a 15. § (1) bekezdés c) pontjában, a 15. § (24) bekezdésében, valamint a (2) és (3) bekezdésben foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által 30 napnál nem régebben, a tanúsítani kívánt, 15. § (1) bekezdés c) pontja szerinti időtartam feltüntetésével kiállított igazolással, illetve az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított, 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, a Magyarországon végzett keresőtevékenységet az azt létesítő okirattal, a kiegészítő tevékenységet folytató személynek minősülést a Tbj. 4. § 17. pontja szerinti ellátás vagy az özvegyi nyugdíj megállapításáról rendelkező okirattal, valamint a keresőtevékenységre irányuló jogviszonyról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított 30 napnál nem régebbi igazolással vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvánnyal, illetve igazolvánnyal, engedéllyel vagy kamara, kar által kiállított 30 napnál nem régebbi igazolással, a 15. § (1) bekezdés c) pont cb) alpontja szerinti külföldi tanulmányokat az azok időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott 30 napnál nem régebbi igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával,
 
 8. a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel,
 
@@ -24,7 +24,7 @@ b) az építésügyi hatósági engedélyezési eljárást támogató elektronik
 
 c) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, amely szerint az építési tevékenységet megkezdheti, és a hitelintézet részére benyújtott, b) pont szerinti dokumentumok megegyeznek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe, illetve az elektronikus építési naplóba feltöltött dokumentumokkal,
 
-10.[^103]
+10.[^106]
 
 11. az adaptációs költséget
 
@@ -34,11 +34,11 @@ b) a tervezési díjról szóló számlával és
 
 c) az elektronikus építési naplóval.
 
-12.[^104] az igénylő építőközösségi tagságát építőközösségi szerződéssel,
+12.[^107] az igénylő építőközösségi tagságát építőközösségi szerződéssel,
 
-13.[^105] az 5. § (1) bekezdés 3. pontja szerinti önálló tető- és épületszerkezettel rendelkezés tényét – amennyiben az a 7. § (6) vagy (7) bekezdése szerinti helyszíni szemle során nem állapítható meg – az épület építészeti-műszaki dokumentációjával vagy építésügyi műszaki szakértő által készített szakvéleménnyel.
+13.[^108] az 5. § (1) bekezdés 3. pontja szerinti önálló tető- és épületszerkezettel rendelkezés tényét – amennyiben az a 7. § (6) vagy (7) bekezdése szerinti helyszíni szemle során nem állapítható meg – az épület építészeti-műszaki dokumentációjával vagy építésügyi műszaki szakértő által készített szakvéleménnyel.
 
-(2)[^106] Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés 7. pontja szerinti igazolás nem megfelelősége vagy hiánya miatt a hitelintézet a támogatás iránti kérelmet elutasítja – a kormányhivatal a 28. § (1) bekezdése szerinti hatósági eljárás során, az igénylő külön kérelmére, méltányosság keretében
+(2)[^109] Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés 7. pontja szerinti igazolás nem megfelelősége vagy hiánya miatt a hitelintézet a támogatás iránti kérelmet elutasítja – a kormányhivatal a 28. § (1) bekezdése szerinti hatósági eljárás során, az igénylő külön kérelmére, méltányosság keretében
 
 a) az illetékes külföldi hatóságtól – az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal bevonásával – nemzetközi jogsegély igénybevételével beszerzett vagy
 
@@ -72,7 +72,7 @@ b) a gyermek születését születési anyakönyvi kivonattal, elvált szülők 
 
 c) a gyermeke adóazonosító jelét adóigazolvánnyal,
 
-d)[^107] a megváltozott munkaképességű személlyé válást az orvosszakértői szerv igazolásával, a gyermekek otthongondozási díjában vagy ápolási díjban részesülést a járási (fővárosi kerületi) hivatal megállapító határozatával,
+d)[^110] a megváltozott munkaképességű személlyé válást az orvosszakértői szerv igazolásával, a gyermekek otthongondozási díjában vagy ápolási díjban részesülést a járási (fővárosi kerületi) hivatal megállapító határozatával,
 
 e) a köztartozás-mentességet – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges vagy a 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó adótartozásról szóló adóigazolással,
 
@@ -82,7 +82,7 @@ g) a felsőoktatási intézmény nappali tagozatán tanulást a felsőoktatási 
 
 h) a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adatait a hitelintézet a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje,
 
-i)[^108] annak tényét, hogy a több önálló lakásból álló közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakás teljes területére vonatkozóan a támogatott személy kizárólagos használati joga áll fenn,
+i)[^111] annak tényét, hogy a több önálló lakásból álló közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakás teljes területére vonatkozóan a támogatott személy kizárólagos használati joga áll fenn,
 
 ia) közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt használati megosztási szerződéssel,
 
@@ -90,18 +90,18 @@ ib) a tulajdonostársak 7. § (2) bekezdése szerinti határozatával, továbbá
 
 ic) bírósági határozattal,
 
-j)[^109] a gyámság vagy gondnokság fennállását a gyámhatóság vagy bíróság kirendelő határozatával.
+j)[^112] a gyámság vagy gondnokság fennállását a gyámhatóság vagy bíróság kirendelő határozatával.
 
-(9)[^110] A 6. § (10) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (7) bekezdés f) és g) pontja, a 20. § (5) bekezdése, a 26. § (1) bekezdés b)–d) pontja, a 34. § (1)–(3) bekezdése, valamint az 53. § (10) és (11) bekezdése szerinti tényeket a hitelintézet a 7. § (6) bekezdése szerinti helyszíni szemle útján ellenőrzi.
+(9)[^113] A 6. § (10) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (7) bekezdés f) és g) pontja, a 20. § (5) bekezdése, a 26. § (1) bekezdés b)–d) pontja, a 34. § (1)–(3) bekezdése, valamint az 53. § (10) és (11) bekezdése szerinti tényeket a hitelintézet a 7. § (6) bekezdése szerinti helyszíni szemle útján ellenőrzi.
 
-[^100]: A 30. § (1) bekezdés 1. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 32. pontja szerint módosított szöveg.
-[^101]: A 30. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 343. §-ával megállapított szöveg.
-[^102]: A 30. § (1) bekezdés 7. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 33. pontja, a 262/2024. (VIII. 29.) Korm. rendelet 2. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 32. § 26. pontja szerint módosított szöveg.
-[^103]: A 30. § (1) bekezdés 10. pontját a 388/2024. (XII. 11.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
-[^104]: A 30. § (1) bekezdés 12. pontját a 388/2024. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
-[^105]: A 30. § (1) bekezdés 13. pontját a 388/2024. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
-[^106]: A 30. § (2) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 34. pontja szerint módosított szöveg.
-[^107]: A 30. § (8) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 35. pontja szerint módosított szöveg.
-[^108]: A 30. § (8) bekezdés i) pontja a 649/2023. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^109]: A 30. § (8) bekezdés j) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 36. pontja szerint módosított szöveg.
-[^110]: A 30. § (9) bekezdését a 649/2023. (XII. 28.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 388/2024. (XII. 11.) Korm. rendelet 32. § 27. pontja szerint módosított szöveg.
+[^103]: A 30. § (1) bekezdés 1. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 32. pontja szerint módosított szöveg.
+[^104]: A 30. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 343. §-ával megállapított szöveg.
+[^105]: A 30. § (1) bekezdés 7. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 33. pontja, a 262/2024. (VIII. 29.) Korm. rendelet 2. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 32. § 26. pontja szerint módosított szöveg.
+[^106]: A 30. § (1) bekezdés 10. pontját a 388/2024. (XII. 11.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^107]: A 30. § (1) bekezdés 12. pontját a 388/2024. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
+[^108]: A 30. § (1) bekezdés 13. pontját a 388/2024. (XII. 11.) Korm. rendelet 26. §-a iktatta be.
+[^109]: A 30. § (2) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 34. pontja szerint módosított szöveg.
+[^110]: A 30. § (8) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 35. pontja szerint módosított szöveg.
+[^111]: A 30. § (8) bekezdés i) pontja a 649/2023. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^112]: A 30. § (8) bekezdés j) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 36. pontja szerint módosított szöveg.
+[^113]: A 30. § (9) bekezdését a 649/2023. (XII. 28.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 388/2024. (XII. 11.) Korm. rendelet 32. § 27. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-49. §[^168]
+49. §[^172]
 
-[^168]: A 49. § a 649/2023. (XII. 28.) Korm. rendelet 17. § m) pontja alapján nem lép hatályba.
+[^172]: A 49. § a 649/2023. (XII. 28.) Korm. rendelet 17. § m) pontja alapján nem lép hatályba.

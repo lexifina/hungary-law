@@ -106,7 +106,7 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 14. [^15] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
 
-(2) [^16] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+(2) [^16] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a magyar építészetről szóló 2023. évi C. törvényben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 (3) Ha az igénylő lakás korszerűsítésére családi otthonteremtési kedvezményt igényel, a lakásnak a kérelem benyújtása időpontjában az (1) bekezdés 11. pontja szerinti feltételek közül elegendő az (1) bekezdés 11. pont a) alpontja szerinti feltételnek – a fürdőhelyiség és a WC kivételével – megfelelnie.
 
@@ -124,5 +124,5 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 [^13]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja, a 388/2024. (XII. 11.) Korm. rendelet 32. § 6. pontja szerint módosított szöveg.
 [^14]: Az 5. § (1) bekezdés 12. pontja a 388/2024. (XII. 11.) Korm. rendelet 32. § 7. pontja szerint módosított szöveg.
 [^15]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja, a 285/2024. (IX. 30.) Korm. rendelet 196. § 1. pontja szerint módosított szöveg.
-[^16]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § b) pontja szerint módosított szöveg. [Az 5. § (2) bekezdésben a 388/2024. (XII. 11.) Korm. rendelet 32. § 8. pontja által elrendelt módosítás, amely szerint a „LXXVII.” szövegrész helyébe a „LXXVIII.” szöveg lép, nem vezethető át.]
+[^16]: Az 5. § (2) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 195. § b) pontja, a 282/2025. (VIII. 25.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. [Az 5. § (2) bekezdésben a 388/2024. (XII. 11.) Korm. rendelet 32. § 8. pontja által elrendelt módosítás, amely szerint a „LXXVII.” szövegrész helyébe a „LXXVIII.” szöveg lép, nem vezethető át.]
 [^17]: Az 5. § (6) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 193. §-a iktatta be.
