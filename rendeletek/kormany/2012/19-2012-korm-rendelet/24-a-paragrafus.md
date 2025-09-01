@@ -1,4 +1,4 @@
-24/A. §[^45] (1) A MAB az Nftv. 71/B. § (1) bekezdésében meghatározott szakvélemény elkészítéséhez szükséges intézményi dokumentumokat bekérheti, vagy a helyszínen megtekintheti.
+24/A. §[^46] (1) A MAB az Nftv. 71/B. § (1) bekezdésében meghatározott szakvélemény elkészítéséhez szükséges intézményi dokumentumokat bekérheti, vagy a helyszínen megtekintheti.
 
 (2) A szakvélemény elkészítése iránti eljárást a MAB által a hivatalos honlapján közzétett eljárási formanyomtatvány kitöltésével és az abban előírt mellékletek csatolásával kell a MAB-nál megindítani.
 
@@ -12,4 +12,4 @@
 
 (7) A felsőoktatási intézménynek a felülvizsgálati kérelméhez mellékelnie kell a MAB-szakvéleménnyel kapcsolatos észrevételeit. A felülvizsgálati kérelemben új tényre hivatkozni nem lehet.
 
-[^45]: A 24/A. §-t a 84/2025. (IV. 22.) Korm. rendelet 5. §-a iktatta be.
+[^46]: A 24/A. §-t a 84/2025. (IV. 22.) Korm. rendelet 5. §-a iktatta be.

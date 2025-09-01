@@ -1,4 +1,4 @@
-23/A. §[^43] (1) Az alapképzés, valamint az osztott vagy osztatlan képzésként megszervezett mesterképzés (a továbbiakban együtt: mesterképzés) indításához szükséges MAB-szakvéleményhez benyújtandó kérelem tartalmazza
+23/A. §[^44] (1) Az alapképzés, valamint az osztott vagy osztatlan képzésként megszervezett mesterképzés (a továbbiakban együtt: mesterképzés) indításához szükséges MAB-szakvéleményhez benyújtandó kérelem tartalmazza
 
 a) a képzési és kimeneti követelmények alapján a szak, szakirány felsőoktatási intézmény által kidolgozott tantervét,
 
@@ -18,4 +18,4 @@ b) hogyan segíti elő a felsőoktatási intézmény által kidolgozott tanterv 
 
 c) megvannak-e az intézményben az indításhoz szükséges személyi és tárgyi feltételek.
 
-[^43]: A 23/A. §-t a 84/2025. (IV. 22.) Korm. rendelet 3. §-a iktatta be.
+[^44]: A 23/A. §-t a 84/2025. (IV. 22.) Korm. rendelet 3. §-a iktatta be.
