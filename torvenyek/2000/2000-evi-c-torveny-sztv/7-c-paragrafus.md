@@ -1,0 +1,1 @@
+7/C. § A vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony alapján vagyonkezelésbe vett vagyon beszámolási és könyvvezetési kötelezettsége tekintetében e törvény bizalmi vagyonkezelésre vonatkozó szabályait kell megfelelően alkalmazni.

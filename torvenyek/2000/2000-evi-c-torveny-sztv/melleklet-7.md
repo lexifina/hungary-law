@@ -133,5 +133,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 19. A „25. Hitel és kölcsön törlesztése, visszafizetése” soron az igénybe vett hitel, kölcsön adott időszakban törlesztett összegét kell kimutatni.
 
 20. A „26. Véglegesen átadott pénzeszközök” soron az adott időszakban, jogszabály alapján, a tőke-, illetve eredménytartalék vagy az eredmény terhére véglegesen átadott pénzeszközöket kell kimutatni.
-
-21. További korrekciós tételeket keletkeztető gazdasági események:
