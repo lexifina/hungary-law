@@ -46,9 +46,9 @@
 
 | 22 | A 26/1997. (IX. 3.) NM rendelet 4. melléklet 1. és 3. pontja szerinti iskolafogászati ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
-| 23 | A 26/1997. (IX. 3.) NM rendelet 2. melléklet 3. és 4. pontja szerinti iskolaegészségügyi ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – a kezelést végző orvos azonosítója – naplósorszám – az elektronikus beutaló EESZT azonosítója – az ellátás típusa | 1 óra |
+| 23 | A 26/1997. (IX. 3.) NM rendelet 2. számú melléklet 1. pont a) alpontja – az óvodás korú gyermek vizsgálata kivételével –, 2. pont a) alpontja, 3. pont a) alpontja és 4. pontja szerinti iskolaegészségügyi ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – a kezelést végző orvos azonosítója – naplósorszám – az elektronikus beutaló EESZT azonosítója – az ellátás típusa | 1 óra |
 
-| 24 | A 26/1997. (IX. 3.) NM rendelet 2. melléklet 3. és 4. pontja szerinti iskolaegészségügyi ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
+| 24 | A 26/1997. (IX. 3.) NM rendelet 2. számú melléklet 1. pont a) alpontja – az óvodás korú gyermek vizsgálata kivételével –, 2. pont a) alpontja, 3. pont a) alpontja és 4. pontja szerinti iskolaegészségügyi ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
 | 25 | Művesekezelés megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja – a kezelést végző orvos azonosítója – az ellátás típusa – beküldő munkahely – beutaló vagy a beutalást megalapozó ellátás adatai – naplósorszám – az elektronikus beutaló EESZT azonosítója | 1 óra |
 
@@ -108,7 +108,9 @@
 
 | 53 | Rend- és honvédelmi dolgozók orvosi ellátásának befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés | 1 óra |
 
-| 54 |  |  |  |
+| 54 | A 26/1997. (IX. 3.) NM rendelet 3. számú melléklet 2. és 6. pontja szerinti iskolai védőnői ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – ellátott személy életkora – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – az ellátást végző iskolavédőnő azonosítója – az ellátás típusa – szakmakód | 1 óra |
+
+| 55 | A 26/1997. (IX. 3.) NM rendelet 3. számú melléklet 2. és 6. pontja szerinti iskolai védőnői ellátás lezárása | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója | 1 óra |
 
 ## Jelmagyarázat:
 
