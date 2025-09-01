@@ -1,4 +1,4 @@
-42. §[^39] (1) A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – haladéktalanul, de legkésőbb a kiállítástól számított 5 napon belül – értesíti az eltemettetésre kötelezettet, és
+42. §[^47] (1) A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – haladéktalanul, de legkésőbb a kiállítástól számított 5 napon belül – értesíti az eltemettetésre kötelezettet, és
 
 a) a halottvizsgálati bizonyítvány egy hiteles papíralapú másolatát átadja a holttest eltemettetésére kötelezett személynek, vagy
 
@@ -24,4 +24,4 @@ a halál okát megállapító orvos a halottvizsgálati bizonyítvány eltemette
 
 (7) Ha a halottvizsgálat alkalmával az eHVB rendszer nem hozzáférhető, akkor a halottvizsgálati bizonyítvány papír alapon is kitölthető. Ilyen esetekben az eHVB rendszer hozzáférésének helyreállítását követően haladéktalanul, de legkésőbb a hozzáférés helyreállítását követő egy munkanapon belül el kell végezni az adatok feltöltését az eHVB rendszerbe, ideértve az epikrízis adatokat is. Ha a hozzáférés a halottvizsgálatot követő munkanapig nem áll helyre, akkor a halottvizsgálati bizonyítvány anyakönyvezési célú részleges adattartalmú változatát – az eHVB rendszerben történő adatrögzítési kötelezettség érintetlenül hagyása mellett – haladéktalanul papír alapon továbbítani kell a haláleset anyakönyvezésére illetékes anyakönyvvezető részére.
 
-[^39]: A 42. § a 377/2023. (VIII. 10.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^47]: A 42. § a 377/2023. (VIII. 10.) Korm. rendelet 14. §-ával megállapított szöveg.

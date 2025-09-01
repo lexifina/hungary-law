@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-351-20-
 | 2024-01-01 | 2013-351-20-22.21 | 377/2023. (VIII. 10.) Korm. rendelet |
 | 2025-01-01 | 2013-351-20-22.22 | 402/2024. (XII. 16.) Korm. rendelet |
 | 2025-03-01 | 2013-351-20-22.23 | 377/2023. (VIII. 10.) Korm. rendelet |
+| 2025-09-01 | 2013-351-20-22.24 | 288/2025. (VIII. 28.) Korm. rendelet |

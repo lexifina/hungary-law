@@ -18,15 +18,15 @@ tehet javaslatot.
 
 (2) Az (1) bekezdés c) vagy d) pontja szerinti eljáró személy akkor tehet a kórbonctani vizsgálat kezdeményezésére vonatkozó javaslatot, ha igazságügyi vagy hatósági boncolásra nem került sor. A kórbonctani vizsgálat lefolytatására irányuló indokolt javaslathoz mellékelni kell a halálok megállapításához rendelkezésre álló orvosi dokumentációt.
 
-(3)[^24]
+(3)[^30]
 
-(4)[^25]
+(4)[^31]
 
-(5)[^26] Ha a halálesetnél hatósági eljárás keretében az ügyben eljáró hatóság eljárási cselekményt végzett, és annak adata megismerhető, ennek jegyzőkönyvi másolatát a hatóság a helyszíni halottvizsgálatot végző orvosnak – a betegdokumentációhoz történő csatolás céljából – átadja.
+(5)[^32] Ha a halálesetnél hatósági eljárás keretében az ügyben eljáró hatóság eljárási cselekményt végzett, és annak adata megismerhető, ennek jegyzőkönyvi másolatát a hatóság a helyszíni halottvizsgálatot végző orvosnak – a betegdokumentációhoz történő csatolás céljából – átadja.
 
-(6)[^27]
+(6)[^33]
 
-[^24]: A 28. § (3) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 19. §-a hatályon kívül helyezte.
-[^25]: A 28. § (4) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 19. §-a hatályon kívül helyezte.
-[^26]: A 28. § (5) bekezdése a 377/2023. (VIII. 10.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^27]: A 28. § (6) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^30]: A 28. § (3) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^31]: A 28. § (4) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^32]: A 28. § (5) bekezdése a 377/2023. (VIII. 10.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^33]: A 28. § (6) bekezdését a 377/2023. (VIII. 10.) Korm. rendelet 19. §-a hatályon kívül helyezte.
