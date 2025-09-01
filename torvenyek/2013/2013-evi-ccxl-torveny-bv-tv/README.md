@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2025-06-15 | 2025. évi XXXV. törvény | 2013-240-00-00.45 |
 | 2025-06-20 | 2025. évi XLIX. törvény | 2013-240-00-00.46 |
 | 2025-08-19 | 2025. évi XLIX. törvény | 2013-240-00-00.47 |
+| 2025-09-01 | 2025. évi XLIX. törvény | 2013-240-00-00.48 |

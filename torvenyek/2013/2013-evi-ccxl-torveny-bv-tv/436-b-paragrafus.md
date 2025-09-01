@@ -35,5 +35,3 @@ db) börtön szigorúbb rezsim alá soroltak be,
 e) V. kategóriába kerül az az elítélt, akit fegyház szigorúbb rezsim alá soroltak be.
 
 (2) A bv. intézetnek az (1) bekezdés szerinti kategória-besorolást a Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépését követő kilencven napon belül kell elvégeznie. Az elítélt ez idő alatt is szerezhet kreditpontot, amiről a BFB a besorolástól számított első összesítéskor dönt, és ha az elítélt ezen időpontig egy évet már letöltött a szabadságvesztésből, akkor a megszerzett kreditpontok alapján kategória-előresorolására is sor kerülhet.
-
-(2a) Ha a Mód. tv. 1. hatálybalépésekor az elítélt reintegrációs őrizetben, feltételes szabadságon volt, vagy a szabadságvesztés végrehajtását vele szemben félbeszakították, ezek megszüntetése esetén, illetve a félbeszakítás leteltével az elítélt újbóli befogadásakor a bv. intézet elvégzi az elítélt rezsimbe sorolásának az (1) bekezdés szerinti kategória-besorolás szerinti megfeleltetését, kivéve, ha az elítélttel szemben a 14. § (3) bekezdésének az alkalmazásával újabb szabadságvesztést kell foganatba venni.
