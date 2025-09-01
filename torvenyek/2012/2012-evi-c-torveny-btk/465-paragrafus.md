@@ -31,3 +31,13 @@ ib) a pénzmosás ellen büntetőjogi eszközökkel folytatott küzdelemről sz�
 j) 410–411. §-a és 414. §-a a piaci visszaélések büntetőjogi szankcióiról (piaci visszaélésekről) szóló 2014. április 16-i 2014/57/EU európai parlamenti és tanácsi irányelvnek,
 
 k) 72–76. §-a a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
+
+l) 219. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
+
+m) 3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek,
+
+n) 185/A. §-a
+
+na) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló, 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
+
+nb) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek

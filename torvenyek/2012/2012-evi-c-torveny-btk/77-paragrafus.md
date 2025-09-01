@@ -8,4 +8,6 @@ b) amelyet a bűncselekmény elkövetéséhez eszközül használtak, vagy
 
 c) amely bűncselekmény elkövetése útján jött létre.
 
+(1a) Az elektronikus adat végleges hozzáférhetetlenné tétele kiterjed minden olyan adatra, amely azonos a véglegesen hozzáférhetetlenné tett elektronikus adattal.
+
 (2) Az elektronikus adat végleges hozzáférhetetlenné tételét akkor is el kell rendelni, ha az elkövető gyermekkor, kóros elmeállapot, vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető, illetve ha az elkövetőt megrovásban részesítették.

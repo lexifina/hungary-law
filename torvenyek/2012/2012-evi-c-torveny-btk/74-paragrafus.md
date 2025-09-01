@@ -18,7 +18,7 @@ f) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
 
 (3) Ha az elkövető vagy a (2) bekezdés szerint gazdagodott személy meghalt, vagy a gazdálkodó szervezet átalakult, a vagyonelkobzást a jogutóddal szemben kell elrendelni arra az (1) bekezdés vagy a 74/A. § szerinti vagyonra, amelyre a jogutódlás történt.
 
-(4)
+(4) A vagyonelkobzás a gazdálkodó szervezettel szemben akkor is elrendelhető a gazdálkodó szervezet vagyont érintő kényszerintézkedéssel biztosított vagyonára, ha a gazdálkodó szervezet a vagyont érintő kényszerintézkedés elrendelését követően jogutód nélkül megszűnt.
 
 (5) Nem rendelhető el vagyonelkobzás
 

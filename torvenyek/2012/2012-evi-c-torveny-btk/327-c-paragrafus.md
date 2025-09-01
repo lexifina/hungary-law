@@ -1,0 +1,5 @@
+327/C. § (1) Az a nemzetközi korlátozó intézkedés alapján zárolási kötelezettséggel érintett vagyon tulajdonosa vagy az azzal rendelkezni jogosult más személy, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából a jogszabályban meghatározott bejelentési vagy adatszolgáltatási kötelezettségét megszegi, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az a foglalkozásánál fogva bejelentésre kötelezett személy, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából a zárolt vagy zárolási kötelezettséggel érintett vagyonnal kapcsolatban jogszabályban meghatározott bejelentési vagy adatszolgáltatási kötelezettségét megszegi, ha súlyosabb bűncselekmény nem valósul meg, egy évig terjedő szabadságvesztéssel büntetendő.
+
+(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a (2) bekezdés szerinti bűncselekményt hivatalos vagy közfeladatot ellátó személyként követik el.

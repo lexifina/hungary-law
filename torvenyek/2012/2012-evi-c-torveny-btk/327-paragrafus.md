@@ -1,45 +1,49 @@
 ## Nemzetközi gazdasági tilalom megszegése
 
-327. § (1) Aki Magyarország nemzetközi jogi kötelezettsége alapján kihirdetett, illetve az Európai Unió Működéséről szóló Szerződés 75. cikke és 215. cikke alapján elfogadott rendeletekben vagy e rendeletek felhatalmazása alapján elfogadott rendeletekben vagy határozatokban, valamint az Európai Uniót létrehozó szerződés 29. cikke alapján elfogadott tanácsi határozatokban elrendelt
+327. § (1) Aki nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében
 
-a) a pénzeszközök vagy gazdasági források zárolására vonatkozó kötelezettségét, illetve
+a) tilalmazott ügyletet köt, gazdasági tevékenységet folytat, pénzügyi, gazdasági vagy egyéb szolgáltatást nyújt, vagy
 
-b) gazdasági, kereskedelmi vagy pénzügyi tilalmat
+b) a tilalommal érintett személy, gazdálkodó szervezet, külföldi gazdálkodó szervezet vagy ezekre tekintettel más személy, gazdálkodó szervezet, külföldi gazdálkodó szervezet részére pénzügyi, gazdasági vagy egyéb szolgáltatást nyújt, vagyont rendelkezésre bocsát, vagy ilyen személlyel ügyletet köt, gazdasági tevékenységet folytat,
 
-megszegi, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a nemzetközi gazdasági tilalom megszegését
+(2) Az (1) bekezdés szerint büntetendő, aki az ott meghatározott tevékenységgel összefüggő közvetítő tevékenységet végez, vagy az ott meghatározott tevékenység végzéséhez más módon segítséget nyújt.
 
-a) a halálbüntetés végrehajtása, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelmével összefüggésben,
+(3) Az (1) bekezdés szerint büntetendő, aki a nemzetközi korlátozó intézkedésben elrendelt tilalom megsértésével vagy a tilalom megsértése érdekében a nemzetközi korlátozó intézkedésben elrendelt tilalommal összefüggésben kiadott engedély kereteit túllépi, vagy az engedélyben meghatározott kötelezettségét nem teljesíti.
 
-b) erőszakkal vagy
+(4) Az (1) bekezdés szerint büntetendő, aki nemzetközi korlátozó intézkedésben elrendelt tilalom kijátszása céljából
 
-c) hivatalos személyként
+a) a zárolási kötelezettséggel érintett vagyon eredetét, a vagyonon fennálló jogot, a vagyon helyét, ezek változását elfedi vagy elleplezi, ideérve a zárolási kötelezettséggel érintett vagyon tényleges tulajdonosára vonatkozó valótlan vagy megtévesztő adat szolgáltatását is,
+
+b) a zárolási kötelezettséggel érintett vagyont mástól átveszi, elrejti, átalakítja, átruházza, elidegenítésében közreműködik, felhasználja, azzal összefüggésben pénzügyi tevékenységet végez, pénzügyi szolgáltatást vesz igénybe vagy arról rendelkezik, vagy
+
+c) az a) vagy b) pontban meghatározott tevékenységgel összefüggő közvetítő tevékenységet végez vagy e tevékenység végzéséhez más módon segítséget nyújt.
+
+(5) Az (1)–(4) bekezdés szerinti bűncselekmény egy évtől öt évig terjedő szabadságvesztéssel büntetendő, ha a bűncselekményt
+
+a) hivatalos vagy közfeladatot ellátó személyként,
+
+b) jelentős értékű vagyonra,
+
+c) üzletszerűen,
+
+d) bűnszövetségben,
+
+e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árukra,
+
+f) lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék vagy egyéb katonai célú felhasználásra szánt termékre,
+
+g) az Európai Unió közös katonai listáján szereplő termékre vagy kettős felhasználású termékre
 
 követik el.
 
-(3) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a nemzetközi gazdasági tilalom megszegését
+(6) Az (1)–(4) bekezdés szerinti bűncselekmény két évtől nyolc évig terjedő szabadságvesztéssel büntetendő, ha
 
-a) lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék vagy egyéb katonai célú felhasználásra szánt termék kereskedelmével összefüggésben,
+a) a hivatalos vagy közfeladatot ellátó személy által elkövetett cselekmény az (5) bekezdés b)–g) pontja szerint is minősül,
 
-b) fegyveresen vagy
+b) a jelentős értékű vagyonra elkövetett cselekmény az (5) bekezdés c)–g) pontja szerint is minősül,
 
-c) bűnszövetségben
+c) a bűncselekményt különösen jelentős értékű vagyonra követik el.
 
-követik el.
-
-(4) Aki nemzetközi gazdasági tilalom megszegésére irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
-
-(5) E § alkalmazásában – ha a nemzetközi jogi kötelezettség alapján a kötelezettséget, illetve tilalmat kihirdető jogszabály eltérően nem rendelkezik –
-
-a) pénzeszközön az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet (e bekezdés alkalmazásában a továbbiakban: 267/2012/EU rendelet) 1. cikk l) pontjában meghatározott eszközöket,
-
-b) pénzeszközök zárolásán a 267/2012/EU rendelet 1. cikk k) pontjában meghatározottakat,
-
-c) gazdasági forráson a 267/2012/EU rendelet 1. cikk h) pontjában meghatározott eszközöket,
-
-d) gazdasági források zárolásán a 267/2012/EU rendelet 1. cikk j) pontjában meghatározott eszközöket,
-
-e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: (EU) 2019/125 európai parlamenti és tanácsi rendelet) II. mellékletében meghatározott árut
-
-kell érteni.
+(7) Aki az (1) bekezdésben meghatározott és az (5) bekezdés e), f), illetve g) pontja szerint minősülő bűncselekményt gondatlanságból követi el, vétség miatt három évig terjedő szabadságvesztéssel büntetendő.

@@ -4,7 +4,13 @@
 
 (2) Egy évtől öt évig terjedő szabadságvesztéssel büntetendő a vesztegető, ha a jogtalan előnyt azért adja vagy ígéri, hogy a hivatalos személy a hivatali kötelességét megszegje, a hatáskörét túllépje, vagy a hivatali helyzetével egyébként visszaéljen.
 
-(3) Az (1) és (2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.
+(2a) A büntetés
+
+a) az (1) bekezdés esetében egy évtől öt évig,
+
+b) a (2) bekezdés esetében két évtől nyolc évig terjedő szabadságvesztés, ha a vesztegetést bűnszövetségben vagy üzletszerűen követik el.
+
+(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.
 
 (4) Az (1) bekezdés szerint büntetendő a gazdálkodó szervezet vezetője, illetve ellenőrzésre vagy felügyeletre feljogosított, a gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy, ha az (1)–(3) bekezdésben meghatározott bűncselekményt a gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy a gazdálkodó szervezet érdekében követi el, és felügyeleti vagy ellenőrzési kötelezettségének teljesítése a bűncselekmény elkövetését megakadályozhatta volna.
 
