@@ -1,4 +1,4 @@
-## Országosan: 221
+## Országosan: 220
 
 ## I.
 
@@ -330,11 +330,11 @@
 
 | Tapolcai Járásbíróság | 1 |
 
-| Veszprémi Járásbíróság | 4 |
+| Veszprémi Járásbíróság | 3 |
 
 | Zirci Járásbíróság | 1 |
 
-| Összesen: | 8 |
+| Összesen: | 7 |
 
 ## XX.
 
