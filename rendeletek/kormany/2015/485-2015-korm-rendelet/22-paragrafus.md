@@ -2,7 +2,7 @@
 
 ## 11. [^65] Igazolásokkal, egyes nyilatkozatokkal, nyilvántartásba vétellel, bejelentéssel, tájékoztatással kapcsolatos különös illetékesség
 
-22. § (1)[^66] Az adózó személyesen, postai vagy elektronikus úton előterjesztett beadványa alapján – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – az alábbi ügyekben a NAV bármelyik vármegyei igazgatósága, illetve a KAVIG is eljárhat:
+22. § (1)[^66] Az adózó személyesen, postai vagy elektronikus úton előterjesztett beadványa alapján – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – az alábbi ügyekben a NAV bármelyik vármegyei igazgatósága eljárhat:
 
 a)[^67] az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti adóhatósági igazolásokkal kapcsolatos ügyintézés;
 
@@ -36,14 +36,14 @@ o)[^73] az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: 
 
 (1a)[^74] A NAV bármelyik vármegyei igazgatósága, illetve a KAVIG is eljárhat az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 3/A. § (2) bekezdésében, 13. § (4) bekezdésében és 19/B. §-ában meghatározott feladatok ellátása során.
 
-(1b)[^75] Az elektronikus, illetve a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerint digitalizált, papíralapú dokumentumokra vonatkozó iratbetekintés ügyében – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik vármegyei igazgatósága, illetve a KAVIG is eljárhat, kivéve, ha az iratbetekintési kérelem benyújtására folyamatban lévő ügyben kerül sor. Ez utóbbi esetben az az igazgatóság az illetékes, amelyiknél az eljárás folyamatban van.
+(1b)[^75] Az elektronikus, illetve a digitális állampolgárság egyes szabályairól szóló kormányrendelet szerint digitalizált, papíralapú dokumentumokra vonatkozó iratbetekintés ügyében – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik vármegyei igazgatósága eljárhat, kivéve, ha az iratbetekintési kérelem benyújtására folyamatban lévő ügyben kerül sor. Ez utóbbi esetben az az igazgatóság az illetékes, amelyiknél az eljárás folyamatban van.
 
 (2)[^76] Az (1) és (1a) bekezdésében meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – a NAV elnöke által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik vármegyei igazgatóság eljárhat.
 
 (3)[^77] Hivatalból indult ügyekben – a 63. § (1) bekezdés a), b) és d)–j) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik, az ügyben eljáró területi szerve megállapíthat technikai azonosító számot, adóazonosító jelet, illetve az uniós vámazonosító számtól eltérő vámazonosító számot.
 
 [^65]: A 11. alcím címe a 670/2020. (XII. 28.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
-[^66]: A 22. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja, a 611/2023. (XII. 22.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
+[^66]: A 22. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja, a 611/2023. (XII. 22.) Korm. rendelet 20. § 5. pontja, a 78/2025. (IV. 17.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^67]: A 22. § (1) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 79. § 7. pontja szerint módosított szöveg.
 [^68]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított, a 475/2017. (XII. 28.) Korm. rendelet 79. § 8. pontja szerint módosított szöveg.
 [^69]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -52,6 +52,6 @@ o)[^73] az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: 
 [^72]: A 22. § (1) bekezdés n) pontját a 214/2017. (VII. 25.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 611/2023. (XII. 22.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^73]: A 22. § (1) bekezdés o) pontja a 611/2023. (XII. 22.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
 [^74]: A 22. § (1a) bekezdését a 439/2020. (IX. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 78/2025. (IV. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^75]: A 22. § (1b) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 462/2024. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^75]: A 22. § (1b) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 462/2024. (XII. 30.) Korm. rendelet 24. §-ával megállapított, a 78/2025. (IV. 17.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^76]: A 22. § (2) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 13. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja, a 611/2023. (XII. 22.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
 [^77]: A 22. § (3) bekezdését a 214/2017. (VII. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 611/2023. (XII. 22.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.

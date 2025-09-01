@@ -1,4 +1,4 @@
-## 21/B.[^201] Szokásos piaci ár meghatározásával összefüggő jogkövetési vizsgálatra vonatkozó különös illetékességi szabály
+## 21/B.[^202] Szokásos piaci ár meghatározásával összefüggő jogkövetési vizsgálatra vonatkozó különös illetékességi szabály
 
 56/B. § (1) Az Air. 91. § (1) bekezdés e) pontjában foglalt szokásos piaci ár meghatározásával kapcsolatos jogkövetési vizsgálat lefolytatására – a KAVIG hatáskörébe tartozó adózók kivételével – az általános illetékesség szerint illetékes igazgatóság mellett a NAV Borsod-Abaúj-Zemplén Vármegyei Adó- és Vámigazgatósága, Észak-budapesti Adó- és Vámigazgatósága és Fejér Vármegyei Adó- és Vámigazgatósága is jogosult.
 
@@ -10,4 +10,4 @@ b) a NAV Borsod-Abaúj-Zemplén Vármegyei Adó- és Vámigazgatóságának ille
 
 c) a NAV Észak-budapesti Adó- és Vámigazgatóságának illetékességi területe Pest vármegye, valamint Budapest I., II., III., IV., V., VI., VII., VIII., IX., X., XI., XII., XIII., XIV., XV., XVI., XVII., XVIII., XIX., XX., XXI., XXII. és XXIII. kerületének közigazgatási területe.
 
-[^201]: A 21/B. alcímet (56/B. §) a 439/2020. (IX. 23.) Korm. rendelet 10. §-a iktatta be, szövege a 78/2025. (IV. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^202]: A 21/B. alcímet (56/B. §) a 439/2020. (IX. 23.) Korm. rendelet 10. §-a iktatta be, szövege a 78/2025. (IV. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
