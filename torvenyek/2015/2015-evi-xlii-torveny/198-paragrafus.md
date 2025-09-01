@@ -1,5 +1,7 @@
 198. § (1) A fegyelmi eljárást fel kell függeszteni, ha az eljárás alá vont személy tartós távolléte vagy egészségi állapota miatt védekezését előterjeszteni nem tudja, eljárási jogait nem gyakorolhatja. A fegyelmi eljárást a távollét vagy akadályoztatás idejére kell felfüggeszteni.
 
+(1a) Az (1) bekezdés szerinti felfüggesztést a hivatásos állomány tagjának egészségügyi szabadsága önmagában nem alapozza meg, minden esetben vizsgálandó, hogy a hivatásos állomány tagjának egészségügyi állapota ténylegesen akadályozza-e őt a védekezésének előterjesztésében és eljárási jogai gyakorlásában.
+
 (2) A fegyelmi eljárást fel lehet függeszteni, ha
 
 a) szakértői vizsgálat szükséges, a szakvélemény elkészítéséig,

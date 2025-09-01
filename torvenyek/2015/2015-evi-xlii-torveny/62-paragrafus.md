@@ -1,6 +1,6 @@
 ## 37. A más szervhez vezénylés
 
-62. § (1) A hivatásos állomány tagja kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a rendvédelmi szerv megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez vezényelhető szolgálatteljesítésre.
+62. § (1) A hivatásos állomány tagja kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a rendvédelmi szerv megállapodása alapján – beleegyezésével – munkakör, szolgálati beosztás vagy meghatározott feladat ellátására más szervhez vezényelhető szolgálatteljesítésre.
 
 (2) A más szervhez vezénylés – az (5) és (6) bekezdésben foglaltak kivételével – legfeljebb öt évre szól. A más szervhez vezénylés leteltét követően újabb más szervhez vezénylésre akkor kerülhet sor, ha a hivatásos állomány tagja a más szervhez vezénylés megszűnése után legalább a vezénylésével megegyező időtartamban a rendvédelmi szervnél szolgálatot teljesített.
 

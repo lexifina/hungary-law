@@ -1,10 +1,10 @@
 63. § (1) A hivatásos állomány más szervhez vezényelt tagja a más szerv illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát.
 
-(2) A hivatásos állomány más szervhez vezényelt tagjának tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére – a (6) és (7) bekezdés kivételével – a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak.
+(2) A hivatásos állomány más szervhez vezényelt tagjának tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére – a (6) és (7) bekezdés kivételével – a más szervnek az ellátott munkakör, szolgálati beosztás szerinti foglalkoztatottaira vonatkozó szabályok irányadóak.
 
 (3) A hivatásos állomány más szervhez vezényelt tagja
 
-a) illetményére, illetményjellegű juttatásaira – a (4a) bekezdésben foglalt korlátozás figyelembevétele mellett – a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok az irányadók,
+a) illetményére, illetményjellegű juttatásaira – a (4a) bekezdésben foglalt korlátozás figyelembevétele mellett – a más szervnek az ellátott munkakör vagy szolgálati beosztás szerinti foglalkoztatottaira vonatkozó szabályok az irányadók,
 
 b) keresőképtelensége esetén a 147. és 148. § szerinti szabályok alkalmazásával jogosult a 168. § szerinti távolléti díjra,
 
@@ -31,3 +31,11 @@ c) a más szervhez vezénylésre a külképviseletekről és a tartós külszolg
 (6) A (7) bekezdésben meghatározott korlátozással, a szolgálati viszonyt érintő munkáltatói jogokat jogszabályban meghatározottak szerint a miniszter vagy az országos parancsnok, az egyéb munkáltatói jogokat a más szervhez vezénylés helye szerinti más szerv munkáltatói jogkört gyakorló vezetője, parancsnoka gyakorolja.
 
 (7) A hivatásos állomány más szervhez vezényelt tagjának fegyelmi felelősségre vonására a rendvédelmi szervnél szolgálatot teljesítő hivatásos állomány tagjára vonatkozó szabályok az irányadók.
+
+(8) A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja vonatkozásában a (4a) bekezdés szerinti egy év leteltét követően vagy a (4c) bekezdés szerinti felmentés esetében a vezénylés kezdetétől
+
+a) a (3) bekezdés b) pontjától eltérően a keresőképtelenség idejére járó díjazás tekintetében is kiköthető a polgári nemzetbiztonsági szolgálatnál ellátott szolgálati beosztás szerinti foglalkoztatottra vonatkozó szabályok alkalmazása,
+
+b) a (3) bekezdés d) pontjában foglalt hivatásos pótlékra a szolgálati beosztásba vezényelt nem jogosult.
+
+(9) A hivatásos állomány polgári nemzetbiztonsági szolgálathoz vezényelt tagja vonatkozásában az (5) bekezdésben foglaltaktól eltérően a ruházati ellátmányt erre irányuló megállapodás esetén a rendvédelmi szerv helyett a polgári nemzetbiztonsági szolgálat is biztosíthatja a saját költségvetési forrása terhére.

@@ -8,6 +8,8 @@
 
 (5) Ha a rendvédelmi illetményalap emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a rendvédelmi illetményalap emelkedésének százalékos mértékével a 82/G. § (1) és (2) bekezdése szerinti távolléti díjat is meg kell emelni és a 82/G. § szerinti számításokat ismételten elvégezni.
 
+(5a) Ha az egészségkárosodási ellátás megállapítását követően a 82/G. § (1) vagy (2) bekezdése szerinti szolgálati beosztásra irányadó hivatásos pótlék mértékének emelésére kerül sor, az egészségkárosodási ellátás mértékét is emelni kell. Ebben az esetben a 82/G. § (1) és (2) bekezdése szerinti távolléti díjat az új hivatásos pótlék mértékével kell megállapítani – azzal, hogy a távolléti díjba beszámítandó további illetményelemek változatlan összeggel kerülnek figyelembevételre – és a 82/G. § szerinti számításokat ismételten el kell végezni.
+
 (6) Ha a rendvédelmi szervnél a 82/B. § (4) bekezdése szerint továbbfoglalkoztatott, rendvédelmi egészségkárosodási keresetkiegészítésre jogosultnak a rendvédelmi szervvel fennálló foglalkoztatási jogviszonya a rendvédelmi szerv érdekkörében felmerült okból vagy a rendvédelmi egészségkárosodási keresetkiegészítésre jogosult egészségi állapotára tekintettel megszűnik, részére a továbbiakban rendvédelmi egészségkárosodási keresetkiegészítés helyett rendvédelmi egészségkárosodási járadék folyósítandó, amelynek mértékét a 82/G. §-ban foglaltak alkalmazásával kell megállapítani. Ha a foglalkoztatási jogviszony a foglalkoztatottnak felróható okból szűnik meg, a rendvédelmi egészségkárosodási keresetkiegészítésre jogosultsága megszűnik és rendvédelmi egészségkárosodási járadékra sem válik jogosulttá.
 
 (7) Az egészségkárosodási ellátás fedezetét a mindenkori központi költségvetés biztosítja.
