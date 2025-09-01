@@ -2872,23 +2872,13 @@ Stefánia úti irodaház
 
 |
 
-Göd
+|
 
 |
 
-3658
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Kék Duna Központ
 
 |
 
