@@ -1,0 +1,7 @@
+13. § (1) A humánigazgatási szakszolgálat a járadékra való jogosultság lejártát megelőző 120 nappal megküldi a FÜV Bizottságnak a járadékra jogosultnak a járadék megállapításával kapcsolatos iratait, és a FÜV Bizottság intézkedik a Hszt. 82/E. § (3) bekezdés b) pontja alapján a szolgálatra alkalmasság vizsgálatára. A FÜV Bizottság a rendelkezésére álló iratok alapján ad állásfoglalást, vagy további, az egészségi állapotra vonatkozó iratokat kérhet be a járadékra jogosulttól, valamint személyes meghallgatásra is behívhatja őt.
+
+(2) Az (1) bekezdésben foglalt iratbekérési lehetőség alapján a FÜV Bizottság a járadékra jogosultat felhívhatja arra, hogy nyújtsa be a rehabilitációs hatóság által az egészségi állapota komplex minősítéséről kiállított hatósági bizonyítványt és a komplex minősítés eredményéről készült bizottsági összefoglaló véleményt. A felhívást a FÜV Bizottság az iratok kézhezvételétől számított 8 napon belül adhatja ki a járadékra jogosult részére 60 napos határidő tűzésével.
+
+(3) A FÜV Bizottság az (1) bekezdés szerinti állásfoglalását és az iratokat legkésőbb a járadékra való jogosultság lejártát megelőző 30 nappal megküldi a humánigazgatási szakszolgálat részére.
+
+(4) Ha a FÜV Bizottság állásfoglalása alapján az egészségi alkalmasság ismételten megállapítható, a Hszt. 330. § (3) bekezdés m) pontja alapján a humánigazgatási szakszolgálat intézkedik a járadékra való jogosultság megszüntetése iránt.

@@ -1,0 +1,1 @@
+15. § Az Országgyűlési Őrség parancsnoka a járadékra való jogosultság időtartamát meghosszabbító határozatában rendelkezik annak időtartamáról és a járadék összegéről, továbbá tájékoztatást ad a Hszt. 267–269. §-a szerinti szolgálati panasz benyújtásának lehetőségéről.

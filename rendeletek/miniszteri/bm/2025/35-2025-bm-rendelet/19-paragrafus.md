@@ -1,0 +1,1 @@
+19. § A járadékra való jogosultság megszűnése esetén a humánigazgatási szakszolgálat a járadékra való jogosultság időtartamának leteltét követően haladéktalanul intézkedik a járadék folyósításának megszüntetésére.

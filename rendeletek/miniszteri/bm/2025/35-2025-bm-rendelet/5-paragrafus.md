@@ -1,0 +1,1 @@
+5. § A Hszt. 82/A. § (1) bekezdés c) pontjában meghatározott feltétel fennállását, a Hszt. 82/A. § (5) bekezdésében meghatározott kizáró ok hiányát, valamint a Hszt. 330. § (3) bekezdés d) pontja szerinti tényleges szolgálati idő tartamát a humánigazgatási szakszolgálat ellenőrzi a személyügyi nyilvántartásban.
