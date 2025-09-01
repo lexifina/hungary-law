@@ -1,5 +1,5 @@
 ## 19. A hulladékgazdálkodási hatóság kijelöléséről szóló 124/2021. (III. 12.) Korm. rendelet módosítása
 
-27. §[^27]
+27. §[^26]
 
-[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
