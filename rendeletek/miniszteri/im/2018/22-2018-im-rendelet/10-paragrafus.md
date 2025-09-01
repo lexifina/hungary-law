@@ -1,35 +1,27 @@
-## 10. § Két- vagy többoldalú jogügylet esetén az ügyértékhez igazodó munkadíj összege:
+10. §[^4] Két- vagy többoldalú jogügylet esetén az ügyértékhez igazodó munkadíj összege:
 
-a) 20 000 Ft-ot meg nem haladó ügyérték esetén 5 500 Ft
+a) 500 000 Ft-ot meg nem haladó ügyérték esetén 20 000 Ft
 
-b) 20 000 Ft feletti, de 50 000 Ft-ot meg nem haladó ügyérték esetén 5 500 Ft
+b) 500 000 Ft feletti, de 5 000 000 Ft-ot meg nem haladó ügyérték esetén 20 000 Ft
 
-és a 20 000 Ft feletti rész 4%-a;
+és az 500 000 Ft feletti ügyértékrész 1%-a;
 
-c) 50 000 Ft feletti, de 100 000 Ft-ot meg nem haladó ügyérték esetén 6 700 Ft
+c) 5 000 000 Ft feletti, de 10 000 000 Ft-ot meg nem haladó ügyérték esetén 65 000 Ft
 
-és az 50 000 Ft feletti rész 3%-a;
+és az 5 000 000 Ft feletti ügyértékrész 0,5%-a;
 
-d) 100 000 Ft feletti, de 500 000 Ft-ot meg nem haladó ügyérték esetén 8 200 Ft
+d) 10 000 000 Ft feletti, de 200 000 000 Ft-ot meg nem haladó ügyérték esetén 90 000 Ft
 
-és a 100 000 Ft feletti rész 2%-a;
+és a 10 000 000 Ft feletti ügyértékrész 0,25%-a;
 
-e) 500 000 Ft feletti, de 5 000 000 Ft-ot meg nem haladó ügyérték esetén 16 200 Ft
+e) 200 000 000 Ft feletti, de 500 000 000 Ft-ot meg nem haladó ügyérték esetén 565 000 Ft
 
-és az 500 000 Ft feletti rész 1%-a;
+és a 200 000 000 Ft feletti ügyértékrész 0,2%-a;
 
-f) 5 000 000 Ft feletti, de 10 000 000 Ft-ot meg nem haladó ügyérték esetén 61 200 Ft
+f) 500 000 000 Ft feletti ügyérték esetén 1 165 000 Ft
 
-és az 5 000 000 Ft feletti rész 0,5%-a;
+és az 500 000 000 Ft feletti ügyértékrész 0,1%-a;
 
-g) 10 000 000 Ft feletti, de 200 000 000 Ft-ot meg nem haladó ügyérték esetén 86 200 Ft
+de legfeljebb 1 000 000 000 Ft ügyérték alapján járó munkadíjat kell felszámítani.
 
-és a 10 000 000 Ft feletti ügyérték 0,25%-a;
-
-h) 200 000 000 Ft feletti, de 500 000 000 Ft-ot meg nem haladó ügyérték esetén 561 200 Ft
-
-és a 200 000 000 Ft feletti rész 0,2%-a;
-
-i) 500 000 000 Ft feletti ügyérték esetén 1 161 200 Ft
-
-és az 500 000 000 Ft feletti ügyérték 0,1%-a;
+[^4]: A 10. § a 10/2025. (VIII. 28.) IM rendelet 1. §-ával megállapított szöveg.

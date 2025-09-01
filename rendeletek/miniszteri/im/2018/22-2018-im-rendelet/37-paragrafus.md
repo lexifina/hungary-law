@@ -1,42 +1,35 @@
 ## kell fizetni a közjegyző részére, a minősített elektronikus aláírással saját nevében való eljárás céljából történő regisztráció azonban mentes a munkadíj és költségtérítés fizetése alól.
 
-37. §[^18] (1)[^19] A (2) bekezdés szerinti munkadíjat, költségátalányt és készkiadást – ideértve az okiratról készített és az okiratkészítés során kiállított elektronikus hiteles kiadmány díját is – kell fizetni
+37. §[^31] (1) A (2) bekezdés szerinti munkadíjat kell fizetni a közjegyző részére
 
-a) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet,
+a) a kamattámogatással érintett kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozatnak
 
-b) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet,
+aa) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet,
 
-c) az otthonteremtési kamattámogatásról szóló kormányrendelet,
+ab) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet,
 
-d) a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, továbbá
+ac) az otthonteremtési kamattámogatásról szóló kormányrendelet,
 
-e)[^20] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet
+ad) a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet,
 
-f)[^21] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet
+ae) a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet,
 
-## szerinti kamattámogatással érintett kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalásáért a közjegyző részére.
+af) a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet,
 
-(2)[^22] A közjegyzői okirat elkészítéséért fizetendő munkadíj, költségátalány és készkiadás – ideértve az okiratról készített és az okiratkészítés során kiállított elektronikus hiteles kiadmány díját is – összesen
+ag) a Vidéki Otthonfelújítási Programról szóló kormányrendelet és
 
-a) 3 000 000 Ft-ot meg nem haladó ügyérték esetén 10 000 Ft,
+ah) az Otthon Start program keretében biztosított FIX 3%-os lakáshitelről szóló 227/2025. (VII. 31.) Korm. rendelet,
 
-b) 3 000 000 Ft feletti, de 5 000 000 Ft-ot meg nem haladó ügyérték esetén 14 000 Ft,
+b) a vissza nem térítendő támogatással érintett kölcsönszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozatnak
 
-c) 5 000 000 Ft feletti, de 10 000 000 Ft-ot meg nem haladó ügyérték esetén 16 500 Ft,
+ba) az Otthonfelújítási Program Lakossági energiahatékonysági beruházások megvalósításához (azonosító jel: RRF-REP-10.13.1-24) és
 
-d) 10 000 000 Ft feletti, de 15 000 000 Ft-ot meg nem haladó ügyérték esetén 19 500 Ft.
+bb) az Otthonfelújítási Program Lakossági energiahatékonysági beruházások megvalósításához (azonosító jel: KEHOP_Plusz-4.1.7-24, illetve KEHOP_Plusz-4.1.8-24)
 
-e)[^23] 15 000 000 Ft feletti, de 30 000 000 Ft-ot meg nem haladó ügyérték esetén 23 500 Ft,
+című pályázat
 
-f)[^24] 30 000 000 Ft feletti, de 50 000 000 Ft-ot meg nem haladó ügyérték esetén 27 500 Ft.
+## szerinti közokiratba foglalásáért.
 
-(3)[^25] Az e §-ban meghatározott ügyben a 3. § rendelkezései nem alkalmazhatóak. Az (1) bekezdés szerinti közjegyzői okirat elkészítése során az ügyérték megállapításának alapjául kizárólag az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződésben meghatározott, folyósítani kívánt kölcsön összege szolgál, a jelzálogszerződésben foglalt biztosított követelés összege vagy az önálló zálogjog alapításához kapcsolódó szerződésben meghatározott követelés összege az ügyérték megállapítása során nem vehető figyelembe.
+(2) Az (1) bekezdés szerinti közjegyzői okirat elkészítéséért fizetendő munkadíjként a 10. § szerinti munkadíj 15%-át kell felszámítani.
 
-[^18]: A 37. § a 21/2020. (XII. 31.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^19]: A 37. § (1) bekezdés nyitó szövegrésze a 2/2021. (III. 29.) IM rendelet 2. § a) pontja szerint módosított szöveg.
-[^20]: A 37. § (1) bekezdés e) pontja a 13/2023. (IX. 21.) IM rendelet 14. §-ával megállapított szöveg.
-[^21]: A 37. § (1) bekezdés f) pontját a 21/2023. (XII. 28.) IM rendelet 1. §-a iktatta be.
-[^22]: A 37. § (2) bekezdés nyitó szövegrésze a 2/2021. (III. 29.) IM rendelet 2. § a) pontja szerint módosított szöveg.
-[^23]: A 37. § (2) bekezdés e) pontját a 21/2023. (XII. 28.) IM rendelet 2. §-a iktatta be.
-[^24]: A 37. § (2) bekezdés f) pontját a 21/2023. (XII. 28.) IM rendelet 2. §-a iktatta be.
-[^25]: A 37. § (3) bekezdése a 16/2021. (XII. 1.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^31]: A 37. § a 10/2025. (VIII. 28.) IM rendelet 2. §-ával megállapított szöveg.

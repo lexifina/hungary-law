@@ -1,4 +1,4 @@
-32/A. §[^12] (1) A közjegyző részére a jelzálogjog és az azt biztosító elidegenítési tilalom, terhelési tilalom, vagy elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése vagy törlése iránti eljárásért 30 000 Ft munkadíjat kell fizetni.
+32/A. §[^19] (1) A közjegyző részére a jelzálogjog és az azt biztosító elidegenítési tilalom, terhelési tilalom, vagy elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése vagy törlése iránti eljárásért 30 000 Ft munkadíjat kell fizetni.
 
 (2) A közjegyző részére az ingatlan-nyilvántartási hatósági felhívásra irányuló eljárásért minden megkezdett óráért a 13. § (1) bekezdése szerinti munkadíjat kell fizetni.
 
@@ -18,4 +18,4 @@ b) az ingatlan-nyilvántartás informatikai rendszerében tehető nyilatkozat el
 
 16 500 Ft munkadíjat kell fizetni.
 
-[^12]: A 32/A. §-t a 43/2024. (XII. 30.) IM rendelet 3. §-a iktatta be.
+[^19]: A 32/A. §-t a 43/2024. (XII. 30.) IM rendelet 3. §-a iktatta be.
