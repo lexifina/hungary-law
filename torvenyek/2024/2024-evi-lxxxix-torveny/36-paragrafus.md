@@ -12,4 +12,6 @@
 
 (6)
 
-(7)
+(7) A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. §-a a következő 69b. ponttal egészül ki:
+
+(E törvény alkalmazásában)
