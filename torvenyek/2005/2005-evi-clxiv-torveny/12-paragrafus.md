@@ -20,7 +20,7 @@ i) a kereskedelmi hatóság által kiszabható bírság megállapításának, m�
 
 j) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-k)
+k) a befektetési arannyal folytatott kereskedelmi tevékenységre vonatkozó szabályok megsértése esetén kiszabható bírság megállapításának, mértékének és megfizetése módjának részletes szabályait
 
 l) a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket
 
@@ -82,4 +82,10 @@ b) az élelmiszeriparért felelős miniszterrel egyetértésben az egyes ipari t
 
 rendeletben határozza meg.
 
-(8)
+(8) Felhatalmazást kap az SZTFH elnöke arra, hogy rendeletben állapítsa meg
+
+a) a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat, valamint a tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit,
+
+b) a 9/C. § (1) bekezdése szerinti nyilvántartás – személyes adatot nem tartalmazó – adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat,
+
+c) az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.

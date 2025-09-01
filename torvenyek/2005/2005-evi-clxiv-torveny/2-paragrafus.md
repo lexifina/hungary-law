@@ -4,6 +4,8 @@
 
 1a. beszállító: aki a terméket, szolgáltatást kereskedelmi tevékenységet folytatónak forgalmazási céllal értékesíti;
 
+1b. befektetési arany: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 235. §-a szerinti befektetési arany;
+
 2. beszerzési szövetség: két vagy több vállalkozás által a beszerzési vagy értékesítési stratégiájuk érvényesítésére, beszerzési vagy értékesítési tevékenységük részének vagy egészének végzésére, koordinálására kötött megállapodás;
 
 3. bevásárlóközpont: olyan komplex kialakítású, vegyes rendeltetésű épület, amelyben állandó jelleggel több kereskedő folytat túlnyomórészt üzletekben különböző típusú kereskedelmi tevékenységet, és ahol emellett jellemzően a szabadidő eltöltésével összefüggő szolgáltatási tevékenységet is folytatnak;

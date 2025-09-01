@@ -1,0 +1,3 @@
+11/I. § (1) A Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 9/A. § hatálybalépésekor befektetési arannyal folytatott kereskedelmi tevékenységet végző személy ezen tevékenységét az SZTFH engedélye nélkül 2026. március 31-ig végezheti.
+
+(2) Ha a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvénnyel megállapított 9/A. § hatálybalépésekor befektetési arannyal folytatott kereskedelmi tevékenységet végző személy 2026. március 31-ig nem szerzi meg az SZTFH engedélyét, akkor egy engedéllyel rendelkező személy részére 2026. december 31-ig értékesíti a szerződés állományát és a készletén lévő befektetési aranyat.
