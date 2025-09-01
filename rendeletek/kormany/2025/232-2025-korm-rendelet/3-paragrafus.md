@@ -1,5 +1,3 @@
-## „c) az (EU) 2023/956 európai parlamenti és tanácsi rendelet alkalmazási szabályainak az engedélyezett nyilatkozattevői státusszal összefüggő feltételek és eljárások tekintetében történő megállapításáról szóló, 2025. március 17-i (EU) 2025/486 bizottsági végrehajtási rendelet”
+3. §[^4]
 
-## (végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-3. § A CBAM kormányrendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

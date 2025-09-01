@@ -1,3 +1,3 @@
-2. § A CBAM kormányrendelet 7. §-a a következő c) ponttal egészül ki:
+2. §[^3]
 
-(E rendelet)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
