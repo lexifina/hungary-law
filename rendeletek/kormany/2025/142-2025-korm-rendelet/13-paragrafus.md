@@ -1,3 +1,3 @@
-13. §[^13]
+13. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 34. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
-[^13]: A 13. § a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+(Régészeti munkavégzésre alkalmas állapotúnak minősül a terület, ha)

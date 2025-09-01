@@ -1,3 +1,5 @@
-14. §[^14]
+## „f) a megelőző feltáráshoz kapcsolódóan földdepók létesítése szükséges, azok – ha lehetséges – a feltárással érintett területen kívül kijelölésre kerültek a régészeti terepmunka elvégzésére jogosult intézmény javaslata alapján – a feltárásra vonatkozó szerződésben meghatározott eltérő rendelkezés hiányában – oly módon, hogy azok a régészeti lelőhely esetlegesen nem ismert, a beruházás miatt a későbbiekben feltárandó részeit ne fedjék el, ugyanakkor a feltárás helyszínétől ne legyenek a szükségesnél távolabb; valamint”
 
-[^14]: A 14. § a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+14. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 37. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A rendelkezésre álló örökségvédelmi hatástanulmány vagy próbafeltárás nélkül készült előzetes régészeti dokumentáció esetén az örökségvédelmi hatóság dönt arról, hogy az alkalmas-e az elvégzendő régészeti feladatellátás módjának, valamint idő- és költségvonzatának meghatározására. Ha a rendelkezésre álló dokumentáció nem alkalmas ennek meghatározására, az örökségvédelmi hatóság – a 3. § (3) bekezdése szerinti kijelölt örökségvédelmi szerv véleményének kikérésével, észszerű határidő tűzésével – előírja a hiányzó munkarészek pótlását vagy új előzetes régészeti dokumentáció elkészítését.”

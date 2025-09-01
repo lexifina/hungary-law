@@ -1,3 +1,3 @@
-11. §[^11]
+11. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 28. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^11]: A 11. § a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(1) A régészeti terepmunka jelentés és dokumentáció beérkezéséről a nyilvántartást vezető hatóság az ügyfél kérelmére igazolást bocsát ki. Ha a jelentés vagy a dokumentáció hiányos, a régészeti terepmunkát végző intézményt határidő tűzésével hiánypótlásra szólítja fel.”

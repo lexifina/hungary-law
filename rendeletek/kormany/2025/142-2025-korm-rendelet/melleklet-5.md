@@ -1,3 +1,27 @@
-5. melléklet a 142/2025. (VI. 19.) Korm. rendelethez[^66]
+## „5. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-[^66]: Az 5. melléklet a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+## Hadtörténeti örökség terepi kutatása iránti engedélykérelem adattartalma
+
+## 1. A terepi kutatási engedélyt kérő intézmény neve és székhelye
+
+## 2. A terepi kutatás tárgya, kora
+
+## 3. A terepi kutatás előzményei
+
+## 4. A terepi kutatás helyszíne (település, helyrajzi szám megadása), a munkálatok által érintett terület EOV vagy WGS84 koordinátákkal való adatolása, térképmellékleten való megjelölése
+
+## 5. A terepi kutatás által érintett terület alapterülete, nyomvonal esetén annak hossza
+
+## 6. A terepi kutatás időintervalluma
+
+## 7. A terepi kutatás módszertana
+
+## 8. A munkálatok költségei és azok forrása
+
+## 9. Javaslat a terepi kutatás során előtalált hadtörténeti örökség ingó elemeinek ideiglenes elhelyezésére
+
+## 10. A hadtörténeti örökség ingó elemeinek közgyűjteményben való gyarapítási terve
+
+## 11. Képmelléklet”
+
+5. melléklet a 142/2025. (VI. 19.) Korm. rendelethez

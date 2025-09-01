@@ -1,74 +1,54 @@
 38. § Hatályát veszti a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet
 
-1.[^38]
+1. 2. § 11. pontja,
 
-2.[^39]
+2. 3. § (1) bekezdés a) pontjában az „(a továbbiakban: hatóság)” szövegrész,
 
-3.[^40]
+3. 3. § (4) bekezdés nyitó szövegrészében az „és 87. § (3) bekezdésében” szövegrész,
 
-4.[^41]
+4. 10. § (2) bekezdésében a „vagy a Kötv. 72. § (5) bekezdése szerinti díjmentességet” szövegrész,
 
-5.[^42]
+5. 23. § (1) bekezdés c) pontjában a „vagy” szövegrész,
 
-6.[^43]
+6. 23. § (1) bekezdés d) pontja,
 
-7.[^44]
+7. 28. § (2) bekezdésében az „a feltárási” szövegrész,
 
-8.[^45]
+8. 29. § (8) bekezdése,
 
-9.[^46]
+9. 30. §-ában a „régészeti” szövegrész,
 
-10.[^47]
+10. 31. § g) pontjában az „– a Kötv. 7. § 20. pont c) alpontja kivételével –” szövegrész,
 
-11.[^48]
+11. 32. § (1) bekezdés g) pontjában a „régészeti” szövegrész,
 
-12.[^49]
+12. 34. § (5) bekezdésében a „régészeti” szövegrész,
 
-13.[^50]
+13. 39. § (3) bekezdésében az „– a Kötv. 7. § 20. pont c) alpontja kivételével –” szövegrész,
 
-14.[^51]
+14. 40. § (10) bekezdése,
 
-15.[^52]
+15. 84. § (2) bekezdés c) pontja,
 
-16.[^53]
+16. 84. § (5) bekezdésében a „régészeti terepbejárásról, illetve műszeres” szövegrész és a „feltárási” szövegrész,
 
-17.[^54]
+17. 85. §-a,
 
-18.[^55]
+18.[^3]
 
-19.[^56]
+19.[^4]
 
-20.[^57]
+20. 112. § (2) bekezdése,
 
-21.[^58]
+21.[^5]
 
-22.[^59]
+22. 7. melléklet 5.1. pontjában a „feltárandó” szövegrész,
 
-23.[^60]
+23. 7. melléklet 5.2. pontjában a „feltárandó” szövegrész,
 
-24.[^61]
+24.[^6]
 
-[^38]: A 38. § 1. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^39]: A 38. § 2. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^40]: A 38. § 3. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^41]: A 38. § 4. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^42]: A 38. § 5. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^43]: A 38. § 6. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^44]: A 38. § 7. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^45]: A 38. § 8. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^46]: A 38. § 9. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^47]: A 38. § 10. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^48]: A 38. § 11. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^49]: A 38. § 12. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^50]: A 38. § 13. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^51]: A 38. § 14. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^52]: A 38. § 15. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^53]: A 38. § 16. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^54]: A 38. § 17. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^55]: A 38. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: A 38. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 38. § 20. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^58]: A 38. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^59]: A 38. § 22. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^60]: A 38. § 23. pontja a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^61]: A 38. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 38. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 38. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 38. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 38. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

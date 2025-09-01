@@ -1,3 +1,7 @@
-27. §[^27]
+27. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 53. §-a a következő (7) bekezdéssel egészül ki:
 
-[^27]: A 27. § a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(7) Az örökségvédelmi hatóság a véglegessé vált határozatot megküldi
+
+a) a kérelmezőnek és
+
+b) a területileg illetékes régészeti gyűjtőkörrel rendelkező múzeumnak.”

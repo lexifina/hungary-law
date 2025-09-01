@@ -1,3 +1,3 @@
-12. §[^12]
+12. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 33. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^12]: A 12. § a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(2) Ha az örökségvédelmi hatóság a beruházás engedélyezése során előírta a megelőző feltárás módját, a szerződésben az előírtaktól eltérni csak az örökségvédelmi hatóság hozzájárulásával lehet.”

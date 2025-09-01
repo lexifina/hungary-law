@@ -1,3 +1,3 @@
-33. §[^33]
+33. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 98. § (2) bekezdése a következő f) ponttal egészül ki:
 
-[^33]: A 33. § a 39. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+(A védetté nyilvánítási eljárásban a kulturális javak közül pótolhatatlannak és kiemelkedő jelentőségűnek minősülnek különösen)
