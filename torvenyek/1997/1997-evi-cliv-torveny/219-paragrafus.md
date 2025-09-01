@@ -28,7 +28,7 @@ d) fekvőbeteg-gyógyintézetben elhunyt esetén a kezelőorvos és a patológus
 
 (3) A kórbonctani vizsgálat elvégzésétől a (2) bekezdés szerinti feltételek fennállása esetén – külön jogszabályban foglaltaknak megfelelően – el lehet tekinteni az (1) bekezdés f)–g) pontjaiban meghatározott esetben is, ha az elhunyt még életében vagy hozzátartozója a halált követően írásban kérte a kórbonctani vizsgálat mellőzését. Nem mellőzhető a kórbonctani vizsgálat, ha az elhunyt még életében vagy a halált követően a hozzátartozó azt írásban kérte.
 
-(4) A kórbonctani vizsgálat mellőzéséről fekvőbeteg-gyógyintézetben elhunyt személy esetében a fekvőbeteg-gyógyintézet (egyetemi klinika) orvos igazgatója, egyéb esetekben az egészségügyi államigazgatási szerv írásban dönt.
+(4) A kórbonctani vizsgálat mellőzéséről és a boncolás nélküli hamvasztás engedélyezéséről fekvőbeteg-gyógyintézetben elhunyt személy esetében a fekvőbeteg-gyógyintézet (egyetemi klinika) orvos igazgatója, egyéb esetekben a halottvizsgálatot végző orvos írásban dönt.
 
 (5) A kórbonctani vizsgálat célja
 
