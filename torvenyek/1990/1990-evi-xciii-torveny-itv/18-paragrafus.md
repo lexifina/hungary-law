@@ -43,3 +43,5 @@ b) az a) pontban felsoroltak – önálló vagy együttes – többségi tulajdo
 c) az a) és b) pontban felsoroltakkal a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozási viszonyban lévő személy,
 
 tulajdonában álló vagyoni betétek aránya önállóan vagy együttesen eléri vagy meghaladja az összes vagyoni betét 75%-át.
+
+(5) Az olyan vagyonszerzés, amely a 17/D. § (1) vagy (3) bekezdés alapján nem tárgya az ajándékozási illetéknek, csak akkor esik visszterhes vagyonátruházási illeték alá, ha a vagyonszerzést megelőzően a vagyonrendelő és a kedvezményezett, vagy az alapító, a csatlakozó és a kedvezményezett között létrejött visszterhes jogviszonyra tekintettel valósult meg. Ilyen esetben a visszterhes vagyonátruházási illeték a vagyon és annak hasznai megszerzésekor a kedvezményezettet terheli.
