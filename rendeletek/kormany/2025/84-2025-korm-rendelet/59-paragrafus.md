@@ -1,29 +1,24 @@
 59. § Hatályát veszti az Szkr.
 
-1.[^104]
+1. 26. § (1) bekezdésében az „A bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló nyomtatvány közokirat.” szövegrész,
 
-2.[^105]
+2. 26. § (3) bekezdés k) pontja,
 
-3.[^106]
+3. 26. § (5) és (6) bekezdése,
 
-4.[^107]
+4. 28. § (8) bekezdése,
 
-5.[^108]
+5. 32. § (2) bekezdésében az „A törzslap adatainak a bizonyítvánnyal való egyeztetéséért az osztályfőnök és az igazgató által kijelölt két összeolvasó-oktató felelős.” szövegrész,
 
-6.[^109]
+6.[^83]
 
-7.[^110]
+7.[^84]
 
-8.[^111]
+8.[^85]
 
-9.[^112]
+9.[^86]
 
-[^104]: Az 59. § 1. pontja a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^105]: Az 59. § 2. pontja a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^106]: Az 59. § 3. pontja a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^107]: Az 59. § 4. pontja a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^108]: Az 59. § 5. pontja a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^109]: Az 59. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^110]: Az 59. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^111]: Az 59. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^112]: Az 59. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: Az 59. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: Az 59. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: Az 59. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: Az 59. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

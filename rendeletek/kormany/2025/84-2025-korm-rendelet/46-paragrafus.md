@@ -1,3 +1,3 @@
-46. §[^46]
+46. § Az Szkr. 36. § (2a) bekezdése helyébe a következő rendelkezés lép:
 
-[^46]: A 46. § a 60. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(2a) Az elektronikus iratként előállított bizonyítvány, oklevél- és szakmai bizonyítványnyomtatvány a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet alapján a „B” okmányvédelmi kategóriába és a „Fokozott” okmányinformatikai védelmi kategóriába sorolt elektronikus biztonsági okmány. Az elektronikus iratként előállított oklevél- és szakmai bizonyítványnyomtatvány kiállítására szolgáló elektronikus felülethez csak az akkreditált szakképzési vizsgaközpont vezetője vagy az általa megbízott személy rendelkezhet hozzáférési jogosultsággal.”
