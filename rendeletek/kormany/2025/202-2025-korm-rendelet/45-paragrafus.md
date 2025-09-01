@@ -1,3 +1,3 @@
-45. §[^46]
+45. § A 373/2022. (IX. 30.) Korm. rendelet 118. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^46]: A 45. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(3a) Ha a nemzeti hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.”

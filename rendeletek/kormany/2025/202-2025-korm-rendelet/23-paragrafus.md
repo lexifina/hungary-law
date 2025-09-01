@@ -1,3 +1,3 @@
-23. §[^23]
+23. § A 256/2021. (V. 18.) Korm. rendelet 202. §-a a következő (4a) bekezdéssel egészül ki:
 
-[^23]: A 23. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(4a) Ha az irányító hatóság megállapítja, hogy a szerződésmódosítás eredményeként egyes költségek nem számolhatók el, részben támogató tartalmú nyilatkozatot állíthat ki, amelyben részletezi az el nem számolható költségeket.”

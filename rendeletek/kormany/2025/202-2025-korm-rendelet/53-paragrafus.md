@@ -1,6 +1,13 @@
-53. § (1)[^54]
+53. § (1)[^28]
 
-(2)[^55]
+(2) Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet
 
-[^54]: Az 53. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^55]: Az 53. § (2) bekezdése az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+a) 116. §-a,
+
+b) 123. § (5) bekezdése,
+
+c) 124. § (1) bekezdésében az „a 116. § szerinti utóellenőrzés eredményeként a nemzeti hatóság nem támogató tartalmú nyilatkozatot vagy” szövegrész,
+
+d) 125. § (1) bekezdés a) pontja.
+
+[^28]: Az 53. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

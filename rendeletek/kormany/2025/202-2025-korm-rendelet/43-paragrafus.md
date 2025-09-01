@@ -1,3 +1,3 @@
-43. §[^44]
+43. § A 373/2022. (IX. 30.) Korm. rendelet 115. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^44]: A 43. § az 57. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+„(2) Az (1) bekezdés szerinti utóellenőrzésre a 30. alcímet kell alkalmazni.”
