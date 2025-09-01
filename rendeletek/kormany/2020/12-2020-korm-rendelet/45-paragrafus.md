@@ -6,17 +6,17 @@
 
 45. § (1) A szakképzés a szakmajegyzékben
 
-a)[^126]
+a)[^136]
 
 b) az élelmiszeripar ágazatba és a mezőgazdaság és erdészet ágazatba sorolt szakmák tekintetében az Szkt. 27. § (1) bekezdés a) pontjában meghatározott miniszter,
 
 c) a környezetvédelem és vízügy ágazatba sorolt szakmák tekintetében
 
-ca)[^127] a környezetvédelmi technikus szakma esetében a környezetvédelemért felelős miniszter,
+ca)[^137] a környezetvédelmi technikus szakma esetében a környezetvédelemért felelős miniszter,
 
-cb)[^128]
+cb)[^138]
 
-d)[^129] a szociális ágazatba sorolt szakmák tekintetében a kisgyermekgondozó, -nevelő szakma esetében a gyermek- és ifjúságpolitikáért felelős miniszter
+d)[^139] a szociális ágazatba sorolt szakmák tekintetében a kisgyermekgondozó, -nevelő szakma esetében a gyermek- és ifjúságpolitikáért felelős miniszter
 
 engedélyével folyhat.
 
@@ -30,7 +30,7 @@ folyhat. A szakmajegyzékben a honvédelem ágazatba sorolt más szakma szakmai 
 
 (3) A szakmajegyzékben az (1) bekezdés a)–d) pontjában és a (2) bekezdésben meghatározott ágazatban a szakképzés szakmai és módszertani fejlesztéséért a Kormány adott ágazatért felelős tagja felel.
 
-[^126]: A 45. § (1) bekezdés a) pontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^127]: A 45. § (1) bekezdés c) pont ca) alpontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
-[^128]: A 45. § (1) bekezdés c) pont cb) alpontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^129]: A 45. § (1) bekezdés d) pontja a 631/2022. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^136]: A 45. § (1) bekezdés a) pontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^137]: A 45. § (1) bekezdés c) pont ca) alpontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 19. pontja szerint módosított szöveg.
+[^138]: A 45. § (1) bekezdés c) pont cb) alpontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^139]: A 45. § (1) bekezdés d) pontja a 631/2022. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

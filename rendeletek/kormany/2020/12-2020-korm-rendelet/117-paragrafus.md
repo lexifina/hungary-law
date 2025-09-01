@@ -4,6 +4,6 @@
 
 (3) A képességkibontakoztató felkészítés és az integrációs felkészítés megszervezése nem járhat együtt a hátrányos és a halmozottan hátrányos helyzetű tanulók elkülönítésével.
 
-(4)[^227] E § alkalmazása során a hátrányos helyzetű tanulók számának megállapításánál a hátrányos helyzetű sajátos nevelési igényű vagy fogyatékossággal élő személyt csak akkor kell figyelembe venni, ha szakmai oktatása a többi tanulóval együtt, azonos osztályban, csoportban történik.
+(4)[^237] E § alkalmazása során a hátrányos helyzetű tanulók számának megállapításánál a hátrányos helyzetű sajátos nevelési igényű vagy fogyatékossággal élő személyt csak akkor kell figyelembe venni, ha szakmai oktatása a többi tanulóval együtt, azonos osztályban, csoportban történik.
 
-[^227]: A 117. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 33. pontja, a 86/2025. (IV. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^237]: A 117. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 33. pontja, a 86/2025. (IV. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.

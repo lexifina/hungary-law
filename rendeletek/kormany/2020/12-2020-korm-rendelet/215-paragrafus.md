@@ -36,8 +36,8 @@ e) a beszélőképesség elvesztését vagy feltűnő eltorzulását, a tanuló 
 
 okozza. A súlyos baleset kivizsgálásába legalább középfokú munkavédelmi szakképesítéssel rendelkező személyt kell bevonni.
 
-(8)[^334]
+(8)[^345]
 
 (9) Minden tanulóbalesetet követően meg kell tenni a szükséges intézkedést a hasonló esetek megelőzésére.
 
-[^334]: A 215. § (8) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 47. pontja hatályon kívül helyezte.
+[^345]: A 215. § (8) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 47. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 32.[^203] Az Szkt. 27. §-ához
+## 32.[^213] Az Szkt. 27. §-ához
 
 88. § (1) A rendvédelmi szakképző intézmény működésére – az e rendeletben meghatározott további eltérések mellett – a következő, az Szkt.-ben foglaltaktól eltérő szabályokat kell alkalmazni:
 
@@ -18,11 +18,11 @@ a) létesítéséről,
 
 b) nevéről,
 
-c)[^204] átalakításáról és megszüntetéséről,
+c)[^214] átalakításáról és megszüntetéséről,
 
 d) az évente felvehető tanulók, illetve képzésben részt vevők létszámáról, és
 
 e) az igazgató kinevezéséről és felmentéséről, illetve megbízásáról és megbízásának visszavonásáról.
 
-[^203]: A 32. alcím címe a 292/2023. (VII. 6.) Korm. rendelet 47. § 32. pontja szerint módosított szöveg.
-[^204]: A 88. § (2) bekezdés c) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 35. pontja szerint módosított szöveg.
+[^213]: A 32. alcím címe a 292/2023. (VII. 6.) Korm. rendelet 47. § 32. pontja szerint módosított szöveg.
+[^214]: A 88. § (2) bekezdés c) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 35. pontja szerint módosított szöveg.
