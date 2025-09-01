@@ -1,4 +1,4 @@
-## (A VET 38–39. §-ához, 39/G–I. §-ához és 66. §-ához)[^122]
+## (A VET 38–39. §-ához, 39/G–I. §-ához és 66. §-ához)[^123]
 
 ## A termelői vezeték közös használata és az önellátó termelői egységhez tartozó termelői vezeték üzemeltetése
 
@@ -12,4 +12,4 @@
 
 (5) A termelői vezeték üzemeltetője a termelői vezeték igénybevételét a VET 39/G. § (1) bekezdése szerinti megállapodásban rögzített feltételek szerint, az abban megállapított költségalapú ellenérték fejében biztosítja.
 
-[^122]: A Vhr. „(A VET 38–39. §-ához, 39/G–I. §-ához és 66. §-ához) A termelői vezeték közös használata és az önellátó termelői egységhez tartozó termelői vezeték üzemeltetése” alcímet (13/F–13/I. §-t) ” a 466/2024. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^123]: A Vhr. „(A VET 38–39. §-ához, 39/G–I. §-ához és 66. §-ához) A termelői vezeték közös használata és az önellátó termelői egységhez tartozó termelői vezeték üzemeltetése” alcímet (13/F–13/I. §-t) ” a 466/2024. (XII. 30.) Korm. rendelet 12. §-a iktatta be.

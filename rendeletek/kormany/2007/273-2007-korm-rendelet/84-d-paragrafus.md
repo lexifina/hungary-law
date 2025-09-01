@@ -1,3 +1,3 @@
-84/D. §[^442] Az elosztó és az egyetemes szolgáltató a 84/A. §-ban és a 84/B. §-ban felsorolt tevékenységeken túlmenően további tevékenységet nem szervezhet ki.
+84/D. §[^450] Az elosztó és az egyetemes szolgáltató a 84/A. §-ban és a 84/B. §-ban felsorolt tevékenységeken túlmenően további tevékenységet nem szervezhet ki.
 
-[^442]: A Vhr. 84/D. §-át a 300/2013. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^450]: A Vhr. 84/D. §-át a 300/2013. (VII. 29.) Korm. rendelet 2. §-a iktatta be.

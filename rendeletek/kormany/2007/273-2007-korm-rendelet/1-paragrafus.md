@@ -28,7 +28,7 @@
 
 11.[^12] próbaüzem: az üzembe helyezés utolsó szakasza, amelynek célja annak igazolása, hogy az erőműegység a jogszabályokban, a hatósági határozatokban és a villamosenergia-ellátási szabályzatokban foglalt, folyamatos és rendeltetésszerű üzemeltetésre vonatkozó követelményeknek üzemelés közben megfelel;
 
-12.[^13]
+12.[^13] profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
 
 13.[^14]
 
@@ -82,7 +82,7 @@
 [^10]: A Vhr. 1. § (1) bekezdés 9. pontja a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^11]: A Vhr. 1. § (1) bekezdés 10a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^12]: A Vhr. 1. § (1) bekezdés 11. pontja a 378/2011. (XII. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^13]: A Vhr. 1. § (1) bekezdés 12. pontját a 466/2024. (XII. 30.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte.
+[^13]: A Vhr. 1. § (1) bekezdés 12. pontját a 466/2024. (XII. 30.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte, újonnan a 280/2025. (VIII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^14]: A Vhr. 1. § (1) bekezdés 13. pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése hatályon kívül helyezte.
 [^15]: A Vhr. 1. § (1) bekezdés 14. pontja a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése, a 787/2021. (XII. 7.) Korm. rendelet 21. § 1. pontja szerint módosított szöveg.
 [^16]: A Vhr. 1. § (1) bekezdés 14a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

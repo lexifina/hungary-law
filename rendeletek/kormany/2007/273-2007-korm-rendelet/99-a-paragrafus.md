@@ -1,10 +1,10 @@
-99/A. §[^473] (1) A 94. § (3) bekezdésében foglaltakon túl az átviteli rendszerirányító megfelelési programjának tartalmaznia kell:
+99/A. §[^481] (1) A 94. § (3) bekezdésében foglaltakon túl az átviteli rendszerirányító megfelelési programjának tartalmaznia kell:
 
 a) az operatív irányítást ellátó személyek és az átviteli rendszerirányítóval munkaviszonyban álló személyek függetlenségét biztosító intézkedéseket;
 
 b) az átviteli rendszerirányító és a vertikálisan integrált villamosenergia-ipari vállalkozás többi tagja közötti szolgáltatásnyújtás, kereskedelmi és pénzügyi kapcsolatok eljárásrendjét;
 
-c)[^474] az informatikai eszközök, az informatikai szolgáltatások, valamint az informatikai támogatási szolgáltatások beszerzésére vonatkozó eljárásrendet, amely biztosítja, hogy az átviteli rendszerirányító nem köt szerződést a vertikálisan integrált villamosenergia-ipari vállalkozás többi tagjával azonos tanácsadókkal és szállítókkal;
+c)[^482] az informatikai eszközök, az informatikai szolgáltatások, valamint az informatikai támogatási szolgáltatások beszerzésére vonatkozó eljárásrendet, amely biztosítja, hogy az átviteli rendszerirányító nem köt szerződést a vertikálisan integrált villamosenergia-ipari vállalkozás többi tagjával azonos tanácsadókkal és szállítókkal;
 
 d) a vertikálisan integrált villamosenergia-ipari vállalkozás többi tagjától eltérő könyvvizsgáló kiválasztására vonatkozó előírásokat, valamint
 
@@ -14,5 +14,5 @@ e) a felügyelőbizottsági tagja díjazásának elemeit és módját, továbbá
 
 (3) A 97. § (1) bekezdése szerinti nyilatkozatban az átviteli rendszerirányítónak nyilatkoznia kell arról, hogy rendelkezik-e közvetlen vagy közvetett részesedéssel a vertikálisan integrált villamosenergia-ipari vállalkozás termeléssel vagy kereskedelemmel foglalkozó leányvállalatában.
 
-[^473]: A Vhr. 99/A. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
-[^474]: A Vhr. 99/A. § (1) bekezdés c) pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 16. pontja szerint módosított szöveg.
+[^481]: A Vhr. 99/A. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^482]: A Vhr. 99/A. § (1) bekezdés c) pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 16. pontja szerint módosított szöveg.
