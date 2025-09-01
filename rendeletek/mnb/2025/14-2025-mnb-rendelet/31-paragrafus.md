@@ -1,3 +1,3 @@
-31. §[^5]
+31. §[^2]
 
-[^5]: A 31. § az 57. § (3) bekezdése alapján 2025. december 31-én lép hatályba.
+[^2]: A 31. § az 57. § (3) bekezdése alapján 2025. december 31-én lép hatályba.
