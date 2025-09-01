@@ -26,7 +26,7 @@ b) postai úton történő átvétele esetén az előző forgalmi engedélyt az 
 
 (4e)[^434] Az át nem vett forgalmi engedélyt az értesítési cím szerint illetékes közlekedési igazgatási hatóság a forgalmi engedély kiállításától számított 90 napig megőrzi, ezt követően selejtezi, és az arra feljogosított adatfeldolgozónak megsemmisítésre megküldi.
 
-(5)[^435] A közlekedési hatóság a jármű műszaki érvényességének határidejét a forgalmi engedélybe a Nyilvántartó elektronikus úton történő egyidejű értesítése mellett bejegyezheti. A jármű azonosító- és műszaki adatainak, valamint motorjának egyedi azonosító jelében, illetve kódjában, és a műszaki vizsga záradék változásának esetén a közlekedési hatóság által kiadott, elektronikus úton megküldött „Műszaki Adatlap” alapján végzi el a közlekedési igazgatási hatóság az adatváltozás járműnyilvántartásba történő bejegyzését.
+(5)[^435] A közlekedési hatóság a jármű műszaki érvényességének határidejét a forgalmi engedélybe a Nyilvántartó elektronikus úton történő egyidejű értesítése mellett bejegyezheti. A jármű azonosító és műszaki adatainak, valamint motorjának kódjában és a műszaki vizsga záradék változásának esetén a közlekedési hatóság által kiadott, elektronikus úton megküldött „Műszaki Adatlap” alapján végzi el a közlekedési igazgatási hatóság az adatváltozás járműnyilvántartásba történő bejegyzését.
 
 (6)[^436] Ha e jogszabály megengedi a kiadás mellőzését, nem kerül sor új forgalmi engedély kiállítására. Az adatváltozást a forgalmi engedély Hivatalos feljegyzések rovatába – a járműnyilvántartásba történő bejegyzéssel egyidejűleg – kell bejegyezni.
 
@@ -53,7 +53,7 @@ b) postai úton történő átvétele esetén az előző forgalmi engedélyt az 
 [^432]: A 89. § (4c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^433]: A 89. § (4d) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be.
 [^434]: A 89. § (4e) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^435]: A 89. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (11) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^435]: A 89. § (5) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^436]: A 89. § (6) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 30. pontja szerint módosított szöveg.
 [^437]: A 89. § (6a) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (17) bekezdése iktatta be.
 [^438]: A 89. § (7) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 15. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-I.[^660] A járműkísérő lap tartalmi elemei
+I.[^662] A járműkísérő lap tartalmi elemei
 
 H
 
@@ -62,7 +62,7 @@ Műszaki érvényességre vonatkozó adatok
 
 (P.3.) hajtóanyag
 
-(P.5.) motorkód (motorszám)
+(P.5.) motorkód
 
 (Q) teljesítmény/tömegarány (kW/kg-ban és csak a motorkerékpároknál)
 
@@ -136,12 +136,4 @@ Műszaki érvényességre vonatkozó adatok
 
 a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-II.[^661] A járműkísérő lap kitöltésének szabályai
-
-I. Új jármű forgalomba helyezése előtt;
-
-a)[^662] A járműimportőr:
-
-[^660]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^661]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
-[^662]: A 15. melléklet II. rész I. pont a) alpontja a 219/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^662]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
