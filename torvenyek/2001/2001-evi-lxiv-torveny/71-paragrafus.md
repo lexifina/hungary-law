@@ -1,20 +1,26 @@
 ## Nyilvántartások
 
-71. § (1) A hatóság vezeti
+71. § (1) A nyilvántartást vezető hatóság vezeti
 
 a) a régészeti lelőhelyek,
 
-b) a régészeti feltárási engedélyek és a feltárási dokumentációk,
+b) a régészeti feltárási engedélyek és a terepmunka-dokumentációk és
 
-c) a védetté nyilvánított régészeti lelőhelyek,
+c) a jogszabályban védetté nyilvánított régészeti lelőhelyek
 
-d)
-
-e) a világörökségi és a világörökségi várományos helyszínek és területek
-
-központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban meghatározottakkal összefüggő adatokat.
+központi, közhiteles nyilvántartását, amely tartalmazza a bejelentő régész nevét és munkahelyét, valamint a régészeti lelőhely által érintett ingatlanok helyrajzi számait.
 
 (1a) A 71. § (1) bekezdés a), c)–e) pontok szerinti nyilvántartáshoz szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a Mezőgazdasági Parcella Azonosító Rendszernek a 71. § (1) bekezdés a), c)–e) pontok szerinti nyilvántartáshoz szükséges adattartalmú felszínborítási rétegét, a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5), a földmérési és térinformatikai államigazgatási szerv térítésmentesen biztosítja.
+
+(1b) A nyilvántartást vezető hatóság vezeti a régészeti szakértők és a régészeti feltárás vezetésére jogosultak névjegyzékét. A névjegyzék az alábbi – közhitelesnek nem minősülő – adatokat tartalmazza:
+
+a) a szakértő nevét,
+
+b) az anyja nevét,
+
+c) a lakcímét, valamint
+
+d) az elérhetőségét.
 
 (2) A kulturális javak hatósága központi nyilvántartást vezet
 

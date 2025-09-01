@@ -2,7 +2,7 @@
 
 a) a védetté nyilvánított régészeti lelőhelyek állagvédelme, a mentő feltárások támogatása;
 
-b) a kulturális örökség védett elemei tulajdonosának (vagyonkezelőjének, használójának) támogatása;
+b) a kulturális örökség védett elemei tulajdonosának, vagyonkezelőjének vagy használójának támogatása;
 
 c) a hatósági feladatok ellátásával kapcsolatos kötelezettségek és a hatósági intézkedések teljesítésének fedezete, valamint a hatóság által a tulajdonosok helyett elvégzett munkák költségeinek megelőlegezése;
 
@@ -30,4 +30,4 @@ n) örökségvédelmi érdekű tudományos kutatási feladatok ellátására és
 
 o) örökségvédelemmel kapcsolatos ismeretterjesztési és képzési feladatok ellátására;
 
-p) e törvényben meghatározott egyéb örökségvédelmi feladatok, beleértve a szabályozási tervek 39. § (2) bekezdése szerinti módosításának költségeit.
+p) e törvényben meghatározott egyéb örökségvédelmi feladatok.

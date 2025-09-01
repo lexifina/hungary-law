@@ -2,7 +2,7 @@
 
 56. § (1) Az 1. melléklet szerinti kulturális javak – a 47. § (2) bekezdése hatálya alá tartozó tárgyak kivételével – a hatóság engedélye alapján, műtárgykísérő igazolással vihetők ki az országból.
 
-(2) A hatóság a kivitel jogszerűségéről az engedélyező határozattal egyidejűleg – átruházható – műtárgykísérő igazolást állít ki, amely tartalmazza a műtárgy azonosításához szükséges adatokat.
+(2) A hatóság a kivitel jogszerűségéről az engedélyező határozattal egyidejűleg – átruházható – műtárgykísérő igazolást állít ki, amely tartalmazza a tárgy azonosításához szükséges adatokat.
 
 (3) A kiviteli engedély, illetve a műtárgykísérő igazolás legfeljebb tíz évig terjedő határozott időre szólhat.
 

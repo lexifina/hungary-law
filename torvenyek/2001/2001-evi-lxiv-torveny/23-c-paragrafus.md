@@ -12,10 +12,10 @@
 
 (4) Az előzetes régészeti dokumentáció adattartalmának meghatározásához a jogszabályban kijelölt örökségvédelmi szerv megkeresésére a gyűjtőterületén érintett múzeum köteles a szakmai adatbázisában szereplő adatot ingyenesen, teljességi nyilatkozattal nyolc napon belül a jogszabályban kijelölt örökségvédelmi szerv rendelkezésére bocsátani.
 
-(5) Az előzetes régészeti dokumentáció készítése során – a jogszabályban meghatározott kivételekkel – próbafeltárást kell végezni, amely nem a megelőző feltárás része.
+(5) Az előzetes régészeti dokumentáció készítése során – e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott kivételekkel – olyan próbafeltárást kell végezni, amely nem a megelőző feltárás része. A próbafeltárás helyét úgy kell megválasztani, hogy az esetleges későbbi teljes felületű feltárás során a stratigráfiai egységek összefüggéseinek megfigyelését és dokumentálását ne lehetetlenítse el.
 
-(6) A jogszabályban kijelölt örökségvédelmi szerv az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe saját kapacitáshiánya esetén kizárólag más, a 20. § (4) bekezdés szerinti, feltárásra jogosult intézményt vonhat be. A bevont feltárásra jogosult intézmény további régészeti szaktevékenységet ellátó közreműködőt nem vehet igénybe.
+(6) A jogszabályban kijelölt örökségvédelmi szerv az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe saját kapacitáshiánya esetén kizárólag más, a 20. § (6) bekezdés szerinti, régészeti terepmunkára jogosult intézményt vonhat be. A bevont régészeti terepmunkára jogosult intézmény további régészeti szaktevékenységet ellátó közreműködőt nem vehet igénybe.
 
-(7) A műszeres lelőhely- és leletfelderítéshez kapcsolódó feladatok ellátásába gazdasági társaság bevonható.
+(7) A (6) bekezdés szerinti kapacitáshiány esetén lelőhely- és leletfelderítéshez, a kézi földmunkához és a régészeti objektumok kibontásához kapcsolódó feladatok ellátásába gazdasági társaság bevonható.
 
-(8) Amennyiben a beruházó a régészeti gépi földmunka elvégzését nem tudja biztosítani, az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátáshoz kapcsolódó régészeti gépi földmunka elvégzéséről a jogszabályban kijelölt örökségvédelmi szerv – a közbeszerzésekről szóló törvény szerint – gondoskodik a beruházó költségén.
+(8) Amennyiben a beruházó a régészeti gépi földmunka elvégzését nem tudja biztosítani, az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátáshoz kapcsolódó géppel végzett régészeti földmunka elvégzéséről a jogszabályban kijelölt örökségvédelmi szerv – a közbeszerzésekről szóló törvény szerint – gondoskodik a beruházó költségére.

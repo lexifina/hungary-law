@@ -2,124 +2,118 @@
 
 7. § E törvény alkalmazásában:
 
-1. Beruházó: beruházási, fejlesztési, bontási, helyreállítási vagy felújítási tevékenység engedélyezését kérelmező vagy azt végző természetes vagy jogi személy, illetve gazdasági társaság vagy annak megbízottja vagy felhatalmazottja, akinek érdekében az elvégzendő földmunka vagy a nyilvántartott régészeti lelőhely bolygatása szükségessé vált.
+1. bennhagyás: földmunkával járó beavatkozás elvégzése régészeti terepmunka nélkül, amelynek feltétele igazoltan meglévő, legalább 30 centiméter vastagságú intakt, nem a beruházás során mesterségesen létrehozott talajréteg a régészeti jelenségek jelentkezési szintje felett, amely a beruházás kivitelezése során biztosítja a régészeti emlékek és leletek eredeti lelőhelyükön, eredeti állapotukban és eredeti összefüggéseikben történő megőrzését;
 
-2. Elfedés: a feltárásra nem kerülő régészeti lelőhely, lelőhelyrész fizikai védelmét jogszabályban meghatározott módon biztosító műszaki megoldások régészeti megfigyelés mellett történő megvalósítása, amelyek visszabonthatóak, az esetleges későbbi, teljes felületű feltárás lehetőségét nem csökkentik vagy akadályozzák.
+2. beruházó: a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 21. pontja szerinti építési beruházás és a Méptv. 16. § 29. pontja szerinti építési tevékenység engedélyezését kérelmező vagy azt végző természetes vagy jogi személy, illetve gazdasági társaság, akinek érdekében az elvégzendő földmunka vagy a nyilvántartott régészeti lelőhely bolygatása szükségessé vált;
 
-3. Előzetes régészeti dokumentáció: valamely terület régészeti érintettségének tisztázására, a régészeti örökség elemeire vonatkozó ismeretek (különösen a lelőhely jellegének, korának, kiterjedésének és intenzitásának) megszerzésére és pontosítására szolgáló, valamint az ebből következően elvégzendő régészeti feladatellátás formájának, idő- és költségvonzatainak meghatározásához hozzájáruló, az ismert adatok és források feldolgozásával, a lelőhely állapotában maradandó változással nem járó műszeres lelőhely-, illetve leletfelderítés, terepbejárás és próbafeltárás alkalmazásával készült dokumentum.
+3. elfedés: a feltárásra nem kerülő régészeti lelőhely, lelőhelyrész, régészeti emlék fizikai védelmét az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott módon biztosító műszaki megoldások régészeti megfigyelés mellett történő megvalósítása, amelyek visszabonthatóak, az esetleges későbbi, teljes felületű feltárás lehetőségét nem csökkentik vagy akadályozzák;
 
-3a.
+4. elkerülés: a beruházás során a régészeti lelőhely horizontális vagy vertikális kikerülése, amely biztosítja a régészeti emlékek és leletek eredeti lelőhelyükön, eredeti állapotukban és eredeti összefüggéseikben történő megőrzését;
 
-4. Fenntartható használat: a védett kulturális örökség olyan módon történő használata – ideértve a kármegelőző és kárcsökkentő tevékenységeket is –, amely nem haladja meg a szakmailag indokolt mértéket és nem vezet az örökség elemeinek állapotromlásához, így biztosítva fennmaradásukat a jelen és jövő nemzedékek számára.
+5. előzetes régészeti dokumentáció: valamely terület régészeti érintettségének tisztázására, a régészeti lelőhelyekre és régészeti leletekre vonatkozó ismeretek, különösen a lelőhely jellegének, korának, kiterjedésének és intenzitásának megszerzésére és pontosítására szolgáló, valamint az ebből következően elvégzendő régészeti feladatellátás formájának, idő- és költségvonzatainak, valamint a lelőhelyek elfedésének lehetőségét vizsgáló lelőhely-, illetve leletfelderítési módszerek és próbafeltárás alkalmazásával egy vagy két fázisban készült dokumentum;
 
-4a. Földmunka: a földfelszíntől számított 30 centimétert meghaladó, kézi vagy gépi erővel végzett beavatkozás, beleértve a tereprendezést, depó, feltöltés, töltés kialakítását.
+6. feltárási projektterv: az előzetes régészeti dokumentáció záródokumentuma, a nagyberuházáshoz kapcsolódó valamennyi régészeti feladatellátást, annak módját, az érintett területet és annak régészeti jellemzőit, a várható kockázatokat, továbbá a nagyberuházás régészeti területi jellemzői és előkészítettsége alapján a régészeti feladatellátás területi szakaszait és a szakaszolás indokait meghatározó dokumentum, amely megnevezi a régészeti feladatellátást végző, régészeti terepmunka végzésére jogosult intézményt;
 
-5. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+7. fenntartható használat: a védett kulturális örökség olyan módon történő használata – ideértve a kármegelőző és kárcsökkentő tevékenységeket is –, amely nem haladja meg a szakmailag indokolt mértéket és nem vezet az örökség elemeinek állapotromlásához, így biztosítva fennmaradásukat a jelen és jövő nemzedékek számára;
 
-6. Gyűjtemény: gyűjtői tevékenység eredményeként létrejött, ritkaságából vagy jellegéből adódóan különös jelentőséggel bíró javak összessége, amelynek egységességében megnyilvánuló kulturális értéke meghaladja egyes darabjainak együttes értékét.
+8. földmunka: kézi vagy gépi erővel végzett
 
-7. Hadtörténeti örökség: 1711 utáni hadszíntér, csatatér, védelmi létesítmény, egyéb katonai objektum vagy hadi emlék, különösen harci repülőgép, kerekes vagy lánctalpas harcjármű és egyéb katonai fegyverrendszerek, fegyverek, felszerelés és egyenruha elemei, továbbá azok együttesei (a továbbiakban együtt: hadtörténeti örökségi elem).
+a) a földfelszíntől számított 30 centimétert meghaladó, vagy
 
-8.
+b) a lelőhely állapotromlásának és geomorfológiai adottságainak figyelembevételével ettől eltérően számított
 
-9. Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum. A jogi személyiséggel rendelkező vallási közösség kérelmére ezekkel azonos elbírálás alá kerülhetnek a jogi személyiséggel rendelkező vallási közösség, vagy az egyházi jogi személy fenntartásában működő, állami nyilvántartásba vett gyűjtemények (könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum).
+beavatkozás, ideértve a tereprendezést, depó, feltöltés, töltés kialakítását;
 
-10. Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei és egyéb bizonyítékai – az ingatlanok kivételével –, valamint a művészeti alkotások.
+9. gazdálkodó szervezet: a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti gazdálkodó szervezet;
 
-11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, a nemzeti emlékhely, a kiemelt nemzeti emlékhely és annak településkép-védelmi környezete, valamint a kulturális javak.
+10. gyűjtemény: gyűjtői tevékenység eredményeként létrejött, ritkaságából vagy jellegéből adódóan különös jelentőséggel bíró kulturális javak összessége, amelynek egységességében megnyilvánuló kulturális értéke meghaladja egyes darabjainak együttes értékét;
 
-12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
+11. hadtörténeti örökségi elem: a hadtörténeti örökség ingatlan és ingó elemeinek együttese;
 
-12a.
+12. hadtörténeti örökség ingatlan eleme: az 1711 utáni csataterek, összecsapások helyszínei, katonai vonatkozású építmények;
 
-13. Megelőző feltárás: írásbeli szerződés alapján, tudományos módszerrel végzett régészeti feladatellátás (régészeti megfigyelés, próbafeltárás, teljes felületű feltárás), amely a földmunkával járó beavatkozások, fejlesztések, beruházások által érintett, nyilvántartott régészeti lelőhelyek feltárására irányul.
+13. hadtörténeti örökség ingó eleme: az 1711 utáni, a talajban, vízben, mesterséges vagy természetes üregben eltemetődött hadi emlékek, különös tekintettel légi, szárazföldi vagy vízi harcjárművek és egyéb katonai rendeltetésű rendszerek maradványai, továbbá a nem hősi temetési helyeken előkerült fegyver, felszerelés és egyenruha elemei, személyes, illetve használati tárgyak, valamint azok együttesei;
 
-14. Mentő feltárás: régészeti emlék vagy lelet régészeti feltáráson kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló azonnali beavatkozás.
+14. hadtörténeti örökség terepi kutatása: a hadtörténeti örökség elemeinek felderítésére, azonosítására, feltárására, állapotának felmérésére és gyűjtésére irányuló, régészeti módszertant alkalmazó tudományos tevékenység, amely kiterjed a pilóta által vezetett és pilóta nélküli légi jármű használatára, talajt nem bolygató geofizikai és geodéziai felmérésre, a hadtörténeti örökség ingó elemeinek a talaj felszínéről történő gyűjtésére, fémkereső műszer használatára, valamint szondázó jellegű, illetve adott terület teljes egészére kiterjedő feltárása vagy felmérése;
 
-15.
+15. közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum, valamint a jogi személyiséggel rendelkező vallási közösség kérelmére ezekkel azonos elbírálás alá kerülő jogi személyiséggel rendelkező vallási közösség vagy az egyházi jogi személy fenntartásában működő, állami nyilvántartásba vett gyűjtemény;
 
-16.
+16. közösségi régészet: a területileg illetékes múzeum szakmai irányítása mellett működő közösségi program, amelynek keretében a régészeti terepmunkához kapcsolódó feladatok ellátásában, régész szakmai irányításával, önkéntesek működnek közre;
 
-17.
+17. kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei és egyéb bizonyítékai – az ingatlanok kivételével –, valamint a művészeti alkotások;
 
-18.
+18. kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, a nemzeti emlékhely, a kiemelt nemzeti emlékhely és annak a Méptv. 154. § (4) bekezdése szerinti településkép-védelmi környezete, valamint a kulturális javak;
 
-19. Műszeres lelőhely- és leletfelderítés: a légi felvételezés, a föld és víz alatti építmények és tárgyak vagy azok maradványainak, lenyomatainak geofizikai úton történő felmérése, a fémkereső műszerrel (detektorral) végzett lelettérképezés vagy -gyűjtés, geodéziai felmérés, és minden egyéb műszerrel folytatott olyan tevékenység, amely régészeti lelőhelyek vagy leletek felderítésére irányul.
+19. kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás;
 
-19a. Kulturális javak felügyelete: a 46. § alá nem tartozó kulturális javak megóvásának, fejlesztésének, fenntartható használatának hatósági eszközökkel, továbbá hatósági eszközökön kívüli, elsősorban tanácsadással történő elősegítése.
+20. lelőhely- és leletfelderítés: helyszíni szemlével, terepbejárással, illetve távérzékelési eljárásokkal történő, a felszíni, valamint föld- és víz alatti régészeti emlékek és régészeti leletek felmérésére, felderítésére irányuló tevékenység, beleértve a pilóta vezette és pilóta nélküli légi járművek használatát, a fémkereső műszerrel végzett lelettérképezést vagy -gyűjtést, geodéziai és geofizikai felmérést, talajfúrást és minden egyéb műszerrel folytatott olyan tevékenységet, amely régészeti lelőhelyek vagy leletek felderítésére és dokumentálására irányul;
 
-20. Nagyberuházás: az alábbi, földmunkával járó beavatkozás, fejlesztés, beruházás:
+21. megelőző feltárás: írásbeli szerződés alapján, tudományos módszerrel végzett régészeti feladatellátás – régészeti megfigyelés, próbafeltárás, teljes felületű feltárás -, amely a földmunkával járó beavatkozások, fejlesztések, beruházások által érintett, nyilvántartott régészeti lelőhelyek feltárására irányul;
 
-a) a bruttó 500 millió forintos értékhatárt meghaladó teljes bekerülési költségű beruházás,
+22. mentő feltárás: régészeti emlék vagy lelet régészeti terepmunkán kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló, azonnali beavatkozással járó régészeti feladatellátás;
 
-b)
+23. nagyberuházás: az alábbi, földmunkával járó beavatkozás, fejlesztés, beruházás:
 
-c) a Nemzeti Infrastruktúra Fejlesztő Zrt. által kezelt beruházás,
+a) a bruttó 800 millió forintos értékhatárt meghaladó teljes bekerülési költségű beruházás,
 
-d) a védmű-, töltés- és a 2500 hektár alapterületet meghaladó árapasztó- vagy árapasztó tározó-építés, vagy
+b) a védmű-, töltés- és a 2500 hektár alapterületet meghaladó árapasztó- vagy árapasztótározó-építés, vagy
 
-e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a kisajátításról szóló törvény szerint kisajátítást végeztek.
+c) a kisajátításról szóló törvény szerint kisajátítással járó közérdekű célú beruházás;
 
-21.
+24. nyilvántartott régészeti lelőhely: a közhiteles nyilvántartásba vett régészeti lelőhely;
 
-21a.
+25. örökségvédelmi hatástanulmány: a településtervet, valamint annak módosítását megalapozó dokumentáció, amely tartalmazza a településtervhez és településrendezési tervezési feladathoz kapcsolódó régészeti lelőhelyek állapotfelmérését, a várható környezeti hatások értékelését, a védelmi összefüggések bemutatását és a döntést elősegítő szakterületi javaslatokat;
 
-21b.
+26. örökségvédelmi többletköltség: a kulturális örökség elemein végzett kutatási, restaurálási, felújítási vagy helyreállítási munkák olyan – az értéknövekedéssel csökkentett – költségei, amelyeket az örökségvédelmi hatóság írt elő vagy rendelt el, valamint amelyeket a tulajdonos kezdeményezésére az örökségvédelmi hatóság annak elismer, és amelyek védettség hiányában a fenntartással vagy felújítással kapcsolatban egyébként nem merültek volna fel;
 
-22.
+27. próbafeltárás: valamely terület régészeti érintettségének megállapítása, a régészeti lelőhelyek állapotának felmérése, jellegének, térbeli kiterjedésének és rétegsorainak megállapítása, osztályozása, dokumentálása, a nyilvántartott régészeti lelőhely védetté nyilvánításának előkészítése során a lelőhelyek védelmi fokozatának megállapítása, a próbafeltárást követő feltárás esetén a veszélyeztető források és a további feltárás módjának és mértékének meghatározása céljából végzett régészeti terepmunka;
 
-23. Nyilvántartott régészeti lelőhely: a közhiteles nyilvántartásba vett, e törvény alapján általános védelem alatt álló régészeti lelőhely.
+28. régészeti bontómunka: a régészeti emlékek és leletek feltárás keretében történő kibontására és eredeti összefüggéseinek értelmezésére irányuló régészeti tevékenység – felületre bontás, rétegbontás, régészeti emlék bontása, nyesés, metszetek készítése -, amely földmunkával járó beavatkozás, fejlesztés, beruházás esetén régészeti feladatellátásnak minősül;
 
-24.
+29. régészeti emlék: a régészeti örökség stratigráfiai egységekkel meghatározható, a régészeti lelőhellyel érintett ingatlan területén megtalálható eleme, amely szerkezeteket, építményeket, épületcsoportokat, telepeket, temetőket, más jellegű emlékeket, valamint ezek összefüggéseit foglalja magában, akár a szárazföldön, akár a víz alatt találhatók;
 
-25. Örökségvédelmi többletköltség: a kulturális örökség védett elemein végzett kutatási, restaurálási vagy helyreállítási munkák olyan – az értéknövekedéssel csökkentett – költségei, amelyeket a hatóság írt elő vagy rendelt el, valamint amit a tulajdonos kezdeményezésére a hatóság annak elismer, és amelyek a védettség hiányában a fenntartással kapcsolatban egyébként nem merültek volna fel.
+30. régészeti érdekű terület: valamennyi terület, ahol földrajzi, vízrajzi helyzetéből adódóan régészeti lelőhely előkerülése várható vagy feltételezhető, tudományos módszerekkel végzett vizsgálatok révén;
 
-26. Próbafeltárás: a régészeti érdekű területek régészeti érintettségének megállapítása, a régészeti lelőhelyek állapotának felmérése, jellegének, térbeli kiterjedésének és rétegsorainak megállapítása, a próbafeltárást követő megelőző feltárás esetén a veszélyeztető források és a megelőző feltárás módjának és mértékének meghatározása vagy a lelőhelyek védelmi fokozatának megállapítása és osztályozása céljából végzett régészeti feltárás.
+31. régészeti feladatellátás: földmunkával járó beavatkozás, fejlesztés, beruházás esetén a jogszabályban meghatározott régészeti terepmunka végzésére jogosult intézmény által közfeladatként végzett lelőhely- és leletfelderítés, megelőző és mentő jellegű feltárás, próbafeltárás, teljes felületű feltárás, régészeti megfigyelés, régészeti bontómunka, melynek szaktevékenységi része a feltárásvezetés, a feltárás dokumentálása, a régésztechnikusi feladatellátás, a leletek elsődleges feldolgozása;
 
-27. Régészeti bontómunka: a régészeti örökség elemeinek feltárás keretében történő kibontására és eredeti összefüggéseinek értelmezésére irányuló régészeti tevékenység (felületre bontás, rétegbontás, régészeti emlék bontása, nyesés, metszetek készítése), amely földmunkával járó beavatkozás, fejlesztés, beruházás esetén régészeti feladatellátásnak minősül.
+32. régészeti felügyelet: a régészeti elem megóvásának, fejlesztésének, fenntartható használatának hatósági eszközökkel, továbbá hatósági eszközökön kívüli, elsősorban tanácsadással és feladatellátással történő elősegítése;
 
-28. Régészeti emlék: a régészeti örökség ingatlaneleme.
+33. régészeti földmunka: a régészeti bontómunka kivételével a próba- és megelőző régészeti feltárás megvalósítása érdekében, régész irányításával végzett kézi és gépi földmunka, amely nem része a régészeti feladatellátásnak, és amely eltávolítja a régészeti jelenségeket fedő talajréteget, és ezzel régészeti tükörfelületet alakít ki;
 
-29. Régészeti érdekű terület: valamennyi terület, természetes vagy mesterséges üreg és a vízmedrek azon része, amelyen, illetve amelyben régészeti lelőhely előkerülése várható vagy feltételezhető.
+34. régészeti lelet: a régészeti örökség érzékelt, felfedezett, feltárt – jellegénél fogva – ingó eleme, függetlenül attól, hogy eredeti helyéről, összefüggéseiből, állapotából elmozdult, elmozdították-e vagy sem;
 
-29a. Régészeti feladatellátás: A földmunkával járó beavatkozás, fejlesztés, beruházás esetén feltárásra jogosult által végzett lelőhely-felderítés és megelőző jellegű, közfeladatként állami vagy önkormányzati fenntartású intézmény által végzett örökségvédelmi tevékenység, melynek szaktevékenységi része a feltárásvezetés, a feltárás dokumentálása, a régésztechnikusi feladatellátás, a leletek elsődleges feldolgozása. Járulékos része a régészeti bontómunka.
+35. régészeti leletek elsődleges feldolgozása: a leletek egyedi tisztítása, az állagvédelemhez szükséges mértékű restaurálása, azonosítása, és ennek időtartamára ideiglenes elhelyezése, amely a tudományos-szakmai hozzáférés és a múzeumba történő végleges befogadás feltétele;
 
-30. Régészeti feltárás: tudományos módszerrel végzett tevékenység (régészeti megfigyelés, terepbejárás, próbafeltárás, megelőző feltárás, mentő feltárás, tervásatás, műszeres lelet- és lelőhely-felderítés, beleértve a fémkereső műszer használatát), amelynek célja a régészeti örökség elemeinek felkutatása.
+36. régészeti lelőhely: földrajzilag körülhatárolható terület a föld felszínén, a föld vagy vizek felszíne alatt és a természetes vagy mesterséges üregekben, amelyen a régészeti emlékek és régészeti leletek történeti összefüggéseikben találhatók, ideértve
 
-30a. Régészeti felügyelet: a régészeti elem megóvásának, fejlesztésének, fenntartható használatának hatósági eszközökkel, továbbá hatósági eszközökön kívüli, elsősorban tanácsadással és feladatellátással történő elősegítése.
+a) e törvény erejénél fogva általánosan védett,
 
-31. Régészeti földmunka: a régészeti bontómunka kivételével a nyilvántartott régészeti lelőhelyen a régészeti feltárás megvalósítása érdekében végzett, a régészeti feladatellátáshoz kapcsolódó, régészeti szaktevékenységnek nem minősülő, régészeti tükörfelületet kialakító gépi és kézi földmunkák összessége, amely nem foglalja magában a beruházás megvalósítása érdekében végzett földmunkát.
+b) fokozottan vagy kiemelten védett kategóriában miniszteri rendelettel védett,
 
-32. Régészeti korú tárgy: bizonyítottan gyűjteményben fennmaradt, a kulturális javak körébe tartozó, 1711 előtt keletkezett tárgy.
+c) e törvény értelmében általános védettsége mellett hatósági eljárás során ideiglenesen védett régészeti lelőhelyet is;
 
-33. Régészeti lelet: a régészeti örökség érzékelt, felfedezett, feltárt – jellegénél fogva – ingó eleme, függetlenül attól, hogy eredeti helyéről, összefüggéseiből, állapotából elmozdult, elmozdították-e vagy sem. Nem minősülnek régészeti leletnek a régészeti korú tárgyak.
+37. régészeti megfigyelés: a beruházás földmunkájának régész által a helyszínen történő folyamatos figyelemmel kísérése és dokumentálása, szükség esetén a régészeti bontómunka elvégzése;
 
-34. Régészeti leletek elsődleges feldolgozása: a leletek egyedi tisztítása, az állagvédelemhez szükséges mértékű restaurálása, azonosítása, és ennek időtartamára ideiglenes elhelyezése, amely a tudományos-szakmai hozzáférés és a múzeumba történő végleges befogadás feltétele.
+38. régészeti örökség: az emberi létnek a föld felszínén, a föld vagy a vizek felszíne alatt és a természetes vagy mesterséges üregekben 1711 előtt keletkezett érzékelhető nyoma, amely segít megismerni az egyetemes kultúrát, az emberiség történetét, kapcsolatát környezetével, valamint hozzájárul az ország területén élt népek és a nemzet történelmének rekonstruálásához, igazolja, bemutatja, alátámasztja népünk eredetét és fejlődését, továbbá amellyel kapcsolatos információszerzés fő forrásai a feltárás és egyéb kutatási módszerek;
 
-35. Régészeti lelőhely: földrajzilag körülhatárolható terület, amelyen a régészeti örökség elemei történeti összefüggéseikben találhatók.
+39. régészeti terepmunka: tudományos módszerrel végzett tevékenység – lelőhely- és leletfelderítés, megelőző és mentő feltárás, próbafeltárás, régészeti megfigyelés, régészeti bontómunka, teljes felületű feltárás, tervásatás –, amelynek célja a régészeti emlékek és leletek felkutatása és dokumentálása;
 
-36. Régészeti megfigyelés: a beruházás földmunkájának régész által a helyszínen történő folyamatos figyelemmel kísérése, szükség esetén a régészeti bontómunka elvégzése és dokumentálása.
+40. régészeti területi szakasz: a megelőző feltárás szakaszolása érdekében meghatározott terület;
 
-37. Régészeti örökség: az emberi létnek a föld felszínén, a föld vagy a vizek felszíne alatt és a természetes vagy mesterséges üregekben 1711 előtt keletkezett érzékelhető nyoma, amely segít megismerni az egyetemes kultúrát, az emberiség történetét, kapcsolatát környezetével, valamint hozzájárul az ország területén élt népek és a nemzet történelmének rekonstruálásához, igazolja, bemutatja, alátámasztja népünk eredetét és fejlődését, továbbá amellyel kapcsolatos információszerzés fő forrásai a feltárás és egyéb kutatási módszerek.
+41. régészeti védőövezet: jogszabállyal védetté nyilvánított régészeti lelőhely környezete, amely biztosítja annak fenntarthatóságát, megközelíthetőségét, tájképi védelmét;
 
-38. Régészeti védőövezet: a védetté nyilvánított régészeti lelőhely környezete, amely biztosítja annak fenntarthatóságát, megközelíthetőségét, tájképi védelmét.
+42. stratigráfiai egység: a régészeti emlékeket és leleteket, valamint azok környezetét azonosító, a régészeti terepmunka során horizontálisan és vertikálisan egyértelműen különválasztható régészeti és nem régészeti jelenségek dokumentálható összessége, beleértve a talajban és a talaj felett azonosított elemeket;
 
-39. Tárgyegyüttes: több elemből álló, egymással lényegileg összefüggő kulturális javak összessége, amely kivételes kulturális jelentőségét ebben az állapotában őrzi, és amely kulturális érték tekintetében meghaladja egyes elemeinek együttes értékét.
+43. tájképi jelentőségű régészeti lelőhely: olyan régészeti lelőhely, amely megjelenésével környezetének meghatározó tájképi eleme, így különösen erőd, erődítés, erődített település, halomsír, kaptárkő, a domborzatból kiemelkedő, többszörösen rétegzett tell település, templom, vár vagy más, helyszínen megtartandó épített örökségi elem maradványai, valamint a természet védelméről szóló törvény alapján védett barlang, kunhalom és földvár;
 
-40. Teljes felületű feltárás: nyilvántartott régészeti lelőhelyen a régészeti örökség elemeinek a földmunkával érintett terület teljes egészén történő feltárása.
+44. tárgyegyüttes: több elemből álló, egymással lényegileg összefüggő kulturális javak összessége, amely kivételes kulturális jelentőségét ebben az állapotában őrzi, és amely kulturális érték tekintetében meghaladja egyes elemeinek együttes értékét;
 
-41. Terepbejárás: minden olyan felszínen végzett kutatás, adatgyűjtés és kiértékelő dokumentálás, amely a régészeti örökség nem ismert elemének felfedezésére vagy a régészeti lelőhely állapotának ellenőrzésére, illetve azonosítására irányul, függetlenül attól, hogy együtt jár-e a leletek összegyűjtésével vagy sem.
+45. teljes felületű feltárás: nyilvántartott régészeti lelőhelyen a régészeti emlékek és leletek a földmunkával érintett terület teljes egészén történő feltárása és dokumentálása;
 
-42. Tervásatás: tudományos célból végzett, tudományos szempontok alapján előre tervezett régészeti feltárás.
+46. terepbejárás: minden olyan felszínen végzett kutatás, adatgyűjtés és kiértékelő dokumentálás, beleértve a helyszíni szemlét is, amely a régészeti örökség nem ismert elemének felfedezésére vagy a régészeti lelőhely állapotának ellenőrzésére, illetve azonosítására irányul, függetlenül attól, hogy együtt jár-e a leletek összegyűjtésével vagy sem;
 
-43.
+47. tervásatás: tudományos célból végzett, tudományos szempontok alapján előre tervezett régészeti feltárás és dokumentálás;
 
-44. Történeti városmag: a mai városok területén található, az eredeti, történelmi városszerkezetet tükröző, a régészeti örökség elemeit nagy mélységben és több rétegben megőrző, a település több évezredes múltját és folyamatosságát mutató jól lehatárolható, nagyobb összefüggő terület.
+48. történeti településmag: a mai települések területén található, a régészeti emlékeket és leleteket nagy mélységben és több rétegben megőrző, a település több évezredes múltját mutató, stratigráfiai egységekkel – a rétegsor időbeli folytonosságától függetlenül – jól lehatárolható, nagyobb összefüggő terület;
 
-44a.
-
-44b.
-
-45. Védetté nyilvánított régészeti lelőhely: miniszteri döntéssel, határozattal vagy e törvény alapján miniszteri rendelettel védetté nyilvánított kiemelkedő történeti és kulturális jelentőségű, nyilvántartott régészeti lelőhely.
-
-46. Védett örökségi elem: az e törvény erejénél fogva általános védelem alatt álló, illetve miniszteri rendelettel vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem.
+49. védett kulturális örökségi elem: az e törvény erejénél fogva általános védelem alatt álló, illetve miniszteri rendelettel vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem.

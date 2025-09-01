@@ -1,1 +1,1 @@
-### 37. §
+37. § A befogadó múzeumot illeti meg a hadtörténeti örökségi ingó elem végleges tárgybefogadási költségeinek megfelelő összeg, amely a befogadott tárgyak mennyiségével arányos egyszeri költségek, különösen a gyűjteményi alapleltárba vétel és a raktárkapacitás bővítésének fedezetére szolgál.

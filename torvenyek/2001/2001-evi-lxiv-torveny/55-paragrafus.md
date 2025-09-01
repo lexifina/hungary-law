@@ -6,7 +6,7 @@
 
 (3) A hatóság az ideiglenes kiviteli engedély iránti kérelmet elutasítja, ha
 
-a) a kivitel veszélyezteti a kulturális érdekeket vagy a tárgy biztonságát;
+a) a kivitel veszélyezteti a kulturális közérdeket vagy a tárgy biztonságát;
 
 b) a kivitellel érintett tárgyra nem vonatkozik állami garanciavállalás, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás;
 

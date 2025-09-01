@@ -10,7 +10,7 @@
 
 4. meghatározza az örökségvédelmi engedélyhez vagy tudomásulvételhez kötött tevékenységeket és az e tevékenységekkel kapcsolatos követelményeket;
 
-5. szabályozza az örökségvédelmi bírsággal kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
+5. szabályozza a bírsággal kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
 
 6. szabályozza az örökségvédelemmel kapcsolatos szakértői tevékenységek szakmagyakorlási feltételeit, ennek keretében a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
@@ -18,15 +18,15 @@
 
 8. meghatározza a feltáráson előkerülő, a helyszínen meg nem őrizhető régészeti emlékek elhelyezésének szabályait;
 
-9. meghatározza azokat a nyilvántartott régészeti lelőhelyeket, amelyeket a földmunkával járó beruházásokkal el kell kerülni, a régészeti feltárások részletes szabályait, a régészeti feltárásra alkalmas nap fogalmát, valamint az elektronikus lelőhely-bejelentés szabályait;
+9. meghatározza azokat a nyilvántartott régészeti lelőhelyeket, amelyeket a földmunkával járó beruházásokkal el kell kerülni, a régészeti terepmunka részletes szabályait, a régészeti terepmunka elvégzésére alkalmas nap fogalmát, valamint az elektronikus lelőhely-bejelentés szabályait;
 
-10. meghatározza a régészeti feltárásra vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti feltárásra irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
+10. meghatározza a régészeti terepmunka elvégzésére vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti terepmunka elvégzésére irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
 
-11. meghatározza a nagyberuházásokkal kapcsolatos régészeti feladatellátás részletes szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a 19. § (4) bekezdése szerinti hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, továbbá a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait, valamint a régészeti megfigyelés során előkerülő régészeti lelőhelyek feltárási módjáról és feltételeiről szóló miniszter döntés részletes szabályait;
+11. meghatározza a nagyberuházásokkal kapcsolatos régészeti feladatellátás részletes szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a 19. § (6) bekezdése szerinti hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, továbbá a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait, valamint a régészeti megfigyelés során előkerülő régészeti lelőhelyek feltárási módjának és feltételeinek részletes szabályait;
 
-12. meghatározza a régészeti feltárásra vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén alkalmazandó jogkövetkezmények szabályait;
+12. meghatározza a régészeti terepmunkára vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén alkalmazandó jogkövetkezmények szabályait;
 
-13. állapítsa meg a fémkereső műszer hivatás gyakorlásához szükséges használatának bejelentési, valamint a fémkereső műszer hivatáshoz nem kötött használata engedélyezésének szabályait;
+13. állapítsa meg a fémkereső műszer hivatás gyakorlásához szükséges használatának bejelentési, valamint a fémkereső műszer hivatáshoz nem kötött használatának bejelentési szabályait;
 
 14. állapítsa meg a régészeti lelőhely, a lelet megtalálójának anyagi elismerésére vonatkozó részletes szabályokat;
 
@@ -48,9 +48,11 @@
 
 23.
 
-24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat;
+24. szabályozza a hadtörténeti örökség terepkutatásával és nyilvántartásba vételével, valamint a hadtörténeti örökség ingó elemének elhelyezésével és a HM Hadtörténeti Intézet és Múzeum tárgykiválasztási jogával, továbbá a hadtörténeti örökség ingatlan elemei körében a nyilvántartásba vétellel és a hatósági nyilvántartással kapcsolatos részletes szabályokat;
 
-25.
+25. szabályozza a víz alatti régészettel kapcsolatos részletes szabályokat;
+
+26. szabályozza a régészeti terepmunkában közreműködő személyekre vonatkozó szakmai követelményekre vonatkozó részletes szabályokat.
 
 (1a)
 

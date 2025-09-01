@@ -1,4 +1,4 @@
-84. § (1) Az örökségvédelmi bírságból eredő végleges és végrehajtható határozatban megállapított követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
+84. § (1) A bírságból eredő végleges és végrehajtható határozatban megállapított követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
 
 (2) Az (1) bekezdés szerinti határozatával a hatóság megkeresi
 

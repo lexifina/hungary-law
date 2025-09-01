@@ -2,7 +2,7 @@
 
 (2) A védetté nyilvánított kulturális javakat és a védetté nyilvánító határozatban foglaltak betartását a hatóság a helyszíni ellenőrzés keretében jogosult ellenőrizni.
 
-(3) A védetté nyilvánított kulturális javakkal kapcsolatos – a 49. § b), c) pontjában meghatározott – adatokban bekövetkezett változásokat a tulajdonos (birtokos) haladéktalanul, de legkésőbb a tudomására jutástól számított 8 napon belül köteles bejelenteni a hatóságnak.
+(3) A védetté nyilvánított kulturális javakkal kapcsolatos – a 73. § (1) bekezdés b)–d) pontjában meghatározott – adatokban bekövetkezett változásokat a tulajdonos (birtokos) haladéktalanul, de legkésőbb a tudomására jutástól számított 8 napon belül köteles bejelenteni a hatóságnak.
 
 (3a) A (3) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a tulajdonos (birtokos) kéri – a (3) bekezdés szerinti határidőben értesíti a hatóságot.
 

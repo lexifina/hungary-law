@@ -1,0 +1,1 @@
+92/K. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2025. évi LVIII. törvény hatálybalépése napjáig védetté nyilvánított kulturális javak védettségének felülvizsgálatát a védetté nyilvánítás szempontjait megállapító kormányrendeletben foglaltak alapján 2025. december 31. napjáig el kell végezni.

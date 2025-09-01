@@ -2,4 +2,4 @@
 
 (2) A kulturális örökség elemeit tudományos módszerekkel kell felkutatni, számba venni, értékelni, az utókor számára megőrizni és hozzáférhetővé tenni.
 
-(3) A kulturális örökség elemeinek e törvény szerinti felderítése és kutatása csak e törvény rendelkezései és külön jogszabály alapján végezhető.
+(3) A kulturális örökség elemeinek e törvény szerinti felderítése és kutatása csak e törvény rendelkezései és e törvény felhatalmazása alapján kiadott kormányrendeletben foglaltak alapján végezhető.

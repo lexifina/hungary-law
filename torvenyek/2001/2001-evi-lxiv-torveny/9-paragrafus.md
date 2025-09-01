@@ -1,1 +1,1 @@
-9. § A régészeti lelőhelyeket – a fenntartható használat elvének figyelembevételével – csak olyan mértékben lehet igénybe venni, hogy azok állománya számottevően ne csökkenjen, illetve eredeti összefüggéseik jelentősen ne károsodjanak.
+9. § A régészeti lelőhelyek területét – a fenntartható használat elvének figyelembevételével – csak olyan mértékben lehet igénybe venni, hogy a lelőhelyek állománya ne csökkenjen, illetve eredeti összefüggéseik jelentősen ne károsodjanak.

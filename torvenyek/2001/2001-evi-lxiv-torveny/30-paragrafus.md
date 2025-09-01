@@ -1,1 +1,3 @@
-### 30. §
+30. § (1) A hadtörténeti örökség ingatlan elemei – a fenntartható használat elvének figyelembevételével – csak olyan mértékben hasznosíthatóak, hogy azok állománya ne csökkenjen, illetve eredeti összefüggéseikben az ingatlan örökségvédelmi értékét nem veszélyeztető állapotromlás ne következzen be.
+
+(2) A hadtörténeti örökség ingatlan elemeinek megelőző régészeti feltáráson vagy a hadtörténeti örökség terepi kutatásán kívüli, váratlan előkerülése esetén a közvetlenül érintett elemek szakszerű dokumentálására irányuló azonnali beavatkozás szükséges. A hadtörténeti és régészeti örökség nyilvántartását vezető hatóság, az örökségvédelmi hatóság és a régészeti terepmunka elvégzésére jogosult intézmények útján gondoskodni kell az engedély nélküli ásatásokra vonatkozó – személyes adatot nem tartalmazó – adatok összegyűjtéséről.
