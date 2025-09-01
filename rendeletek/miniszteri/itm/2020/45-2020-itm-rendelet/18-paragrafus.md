@@ -1,8 +1,8 @@
 ## 7. A jogosultság módosítása, az ellenőrző szelvény vagy a nyugtázó értesítés pótlása
 
-18. § (1)[^42] Ha a gépjármű tulajdonjogát a tulajdonosa év közben átruházza, vagy az annak használatát lehetővé tévő jogviszony megszűnik, a jogosultság érvényességi ideje alatt, a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság érvényesítése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre (a továbbiakban: átírás). Az átírásból eredő forgalmirendszám-változás átvezetéséhez
+18. § (1)[^61] Ha a gépjármű tulajdonjogát a tulajdonosa év közben átruházza, vagy az annak használatát lehetővé tévő jogviszony megszűnik, a jogosultság érvényességi ideje alatt, a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság érvényesítése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre (a továbbiakban: átírás). Az átírásból eredő forgalmirendszám-változás átvezetéséhez
 
-a) a NÚSZ Zrt. részére le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést,
+a)[^62] az útdíjszolgáltatási gazdasági társaság részére le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést,
 
 b) be kell mutatni az új jogosultsággal rendelkező gépjármű forgalmi engedélyét annak igazolására, hogy a gépjármű díjkategóriája megegyezik a korábbi jogosultsággal rendelkező gépjármű díjkategóriájával, és
 
@@ -12,7 +12,7 @@ c) be kell mutatni a korábbi jogosultsággal rendelkező gépjármű eladását
 
 (3) Ha az (1) vagy a (2) bekezdés szerinti két gépjármű nem esik azonos díjkategóriába, az átírás a díjkategória-különbözet megfizetésével lehetséges, azzal, hogy a különbözetet az érvényesség teljes időtartamára kell megfizetni.
 
-(4)[^43] A forgalmi rendszám karakterváltozással járó cseréje esetén a 20. § szerinti ügyintézési díj ellenében a jogosultságot kérelemre – a jogosultság vásárlásának időpontjától kezdődően, az új forgalmi rendszám használata következtében kapott pótdíjfizetési felszólítás kézhezvételét követő 60 napon belül – a NÚSZ Zrt. átírja az új forgalmi rendszámra. Ha a forgalmi rendszám általános – a tulajdonos lakóhelyére, illetve székhelyére vagy a jármű nyilvántartásba vételének helyére tekintet nélküli – karakterváltozással járó cseréjét jogszabály írja elő, a jogosultság átírása díjmentes. A forgalmi rendszám általános – karakterváltozással járó – cseréjéből eredő forgalmi rendszám változásának átvezetéséhez a NÚSZ Zrt. részére
+(4)[^63] A forgalmi rendszám karakterváltozással járó cseréje esetén a 20. § szerinti ügyintézési díj ellenében a jogosultságot kérelemre – a jogosultság vásárlásának időpontjától kezdődően, az új forgalmi rendszám használata következtében kapott pótdíjfizetési felszólítás kézhezvételét követő 60 napon belül – az útdíjszolgáltatási gazdasági társaság átírja az új forgalmi rendszámra. Ha a forgalmi rendszám általános – a tulajdonos lakóhelyére, illetve székhelyére vagy a jármű nyilvántartásba vételének helyére tekintet nélküli – karakterváltozással járó cseréjét jogszabály írja elő, a jogosultság átírása díjmentes. A forgalmi rendszám általános – karakterváltozással járó – cseréjéből eredő forgalmi rendszám változásának átvezetéséhez az útdíjszolgáltatási gazdasági társaság részére
 
 a) le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést,
 
@@ -20,7 +20,7 @@ b) be kell mutatni a forgalmi rendszám cseréjével érintett jármű forgalmi 
 
 c) be kell mutatni a forgalmi rendszám cseréjének tényét igazoló okiratot.
 
-(5) Ha a gépjárművet ellopták vagy gazdasági totálkár érte, a rendőrség vagy a biztosító erről szóló igazolásának bemutatása esetén a NÚSZ Zrt. vagy a NÚSZ Zrt. által bevont közreműködő partner ügyfélszolgálati irodájában a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság átvezetése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre az eredeti jogosultság érvényességi idejével megegyező időszakra. Az eljárásra az (1) bekezdésben foglaltak megfelelően irányadók, azzal, hogy a kérelmezőnek a lopás vagy gazdasági totálkár tényét is igazolnia kell. Az eljárás lefolytatásának nem akadálya, ha az eredeti ellenőrző szelvény megsemmisült vagy elveszett.
+(5)[^64] Ha a gépjárművet ellopták vagy gazdasági totálkár érte, a rendőrség vagy a biztosító erről szóló igazolásának bemutatása esetén az útdíjszolgáltatási gazdasági társaság vagy az útdíjszolgáltatási gazdasági társaság által bevont közreműködő partner ügyfélszolgálati irodájában a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság átvezetése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre az eredeti jogosultság érvényességi idejével megegyező időszakra. Az eljárásra az (1) bekezdésben foglaltak megfelelően irányadók, azzal, hogy a kérelmezőnek a lopás vagy gazdasági totálkár tényét is igazolnia kell. Az eljárás lefolytatásának nem akadálya, ha az eredeti ellenőrző szelvény megsemmisült vagy elveszett.
 
 (6) Nem megfelelő díjkategória-megállapítás esetén, a jogosultság érvényességi időtartamán belül a 20. § szerinti ügyintézési díj ellenében a díjkategória – díjkülönbözet megfizetése vagy visszaigénylése esetén – módosítható. Az eljárás során a helyes díjkategória megállapítása érdekében be kell mutatni a jogosultság megvásárlását igazoló ellenőrző szelvényt vagy a nyugtázó értesítést, valamint a gépjármű forgalmi engedélyét. Az újonnan kiadásra kerülő, a megfelelő díjkategóriájú jogosultsághoz regisztrált forgalmi rendszámnak meg kell egyeznie a korábbi jogosultsághoz regisztrált forgalmi engedély által igazolt forgalmi rendszámmal. A pótdíj kiszabását követő díjkategória-helyesbítés nem mentesít az előzetesen kiszabott pótdíj vagy pótdíjkülönbözet megfizetésének kötelezettsége alól.
 
@@ -28,8 +28,10 @@ c) be kell mutatni a forgalmi rendszám cseréjének tényét igazoló okiratot.
 
 (8) Téves felségjel feltüntetése miatt kiküldött pótdíjfizetési felszólítás kézhezvételét követő 60 napon belül a felségjel módosítható. Az eljárás során be kell mutatni a gépjármű forgalmi engedélyét és a jogosultság megvásárlását igazoló ellenőrző szelvényt vagy a nyugtázó értesítést. A módosításért a 20. §-ban meghatározott ügyintézési díjat kell megfizetni. Ebben az esetben a jogosultság a módosított felségjellel érvényes a teljes érvényességi időn belül.
 
-(9)[^44] A 3. § (2) bekezdés a) pontjában meghatározott jogosultság tekintetében az (1)–(6) bekezdés alkalmazásának nincs helye.
+(9)[^65] A 3. § (2) bekezdés a) pontjában meghatározott jogosultság tekintetében az (1)–(6) bekezdés alkalmazásának nincs helye.
 
-[^42]: A 18. § (1) bekezdés nyitó szövegrésze a 19/2022. (IX. 19.) TIM rendelet 4. § i) pontja szerint módosított szöveg.
-[^43]: A 18. § (4) bekezdése a 29/2024. (VIII. 15.) ÉKM rendelet 2. §-ával megállapított szöveg.
-[^44]: A 18. § (9) bekezdését a 7/2024. (III. 28.) ÉKM rendelet 1. § (5) bekezdése iktatta be.
+[^61]: A 18. § (1) bekezdés nyitó szövegrésze a 19/2022. (IX. 19.) TIM rendelet 4. § i) pontja szerint módosított szöveg.
+[^62]: A 18. § (1) bekezdés a) pontja a 22/2025. (VII. 22.) ÉKM rendelet 2. § c) pontja szerint módosított szöveg.
+[^63]: A 18. § (4) bekezdése a 29/2024. (VIII. 15.) ÉKM rendelet 2. §-ával megállapított, nyitó szövegrésze a 22/2025. (VII. 22.) ÉKM rendelet 2. § f) pontja szerint módosított szöveg.
+[^64]: A 18. § (5) bekezdése a 22/2025. (VII. 22.) ÉKM rendelet 2. § f) pontja szerint módosított szöveg.
+[^65]: A 18. § (9) bekezdését a 7/2024. (III. 28.) ÉKM rendelet 1. § (5) bekezdése iktatta be.

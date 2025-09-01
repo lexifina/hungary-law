@@ -4,13 +4,13 @@
 
 | 2. | D1 | 5 500 | 8 900 | 49 190 | 5 720 |
 
-| 3. | D1M[^66] | 2 750 | 4 450 | 49 190 | 5 720 |
+| 3. | D1M[^87] | 2 750 | 4 450 | 49 190 | 5 720 |
 
 | 4. | D2 | 8 000 | 12 600 | 69 830 | 11 450 |
 
 | 5. | U | 5 500 | 8 900 | 49 190 | 5 720 |
 
-3. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^67]
+3. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^88]
 
-[^66]: A 2. mellékletben foglalt táblázat A:3 mezője a 7/2024. (III. 28.) ÉKM rendelet 2. § e) pontja szerint módosított szöveg.
-[^67]: A 3. mellékletet a 24/2024. (VII. 31.) ÉKM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^87]: A 2. mellékletben foglalt táblázat A:3 mezője a 7/2024. (III. 28.) ÉKM rendelet 2. § e) pontja szerint módosított szöveg.
+[^88]: A 3. mellékletet a 24/2024. (VII. 31.) ÉKM rendelet 3. § b) pontja hatályon kívül helyezte.

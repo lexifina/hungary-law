@@ -44,12 +44,13 @@ bejelentették, és bejelentésük alapján nyilvántartásba vételre kerültek
 
 (6) Nincs helye pótdíj kiszabásának, ha az (5) bekezdés szerinti terelőút kijelölése nélkül, a forgalom irányítására jogszabály alapján jogosult szerv a közúti forgalmat vagy annak egy részét díjköteles útszakaszra tereli, ezen intézkedés által indokolt úthasználat tekintetében.
 
-(7) Nem kell úthasználati díjat fizetni a kárelhárítás vagy kármegelőzés időtartamára az abban részt vevő gépjárművek után, ha azok a kárelhárítást vagy kármegelőzést térítésmentesen végzik, és a forgalmi rendszámuk a kárelhárítást megelőzően a közút kezelője vagy a Nemzeti Útdíjfizetési Szolgáltató Zrt. (a továbbiakban: NÚSZ Zrt.) részére bejelentésre került, vagy forgalmi rendszámukat és a kárelhárítás vagy kármegelőzés várható időtartamát a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve a NÚSZ Zrt.-nek és a közlekedési igazgatási hatóságnak a kárelhárítás megkezdését megelőzően vagy legkésőbb az azt követő második munkanapon bejelenti.
+(7)[^5] Nem kell úthasználati díjat fizetni a kárelhárítás vagy kármegelőzés időtartamára az abban részt vevő gépjárművek után, ha azok a kárelhárítást vagy kármegelőzést térítésmentesen végzik, és a forgalmi rendszámuk a kárelhárítást megelőzően a közút kezelője vagy az útdíjszolgáltatási gazdasági társaság részére bejelentésre került, vagy forgalmi rendszámukat és a kárelhárítás vagy kármegelőzés várható időtartamát a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve az útdíjszolgáltatási gazdasági társaságnak és a közlekedési igazgatási hatóságnak a kárelhárítás megkezdését megelőzően vagy legkésőbb az azt követő második munkanapon bejelenti.
 
-(8)[^5]
+(8)[^6]
 
 [^1]: A 2. § (1) bekezdés b) pontja a 46/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (2) bekezdése a 46/2023. (XII. 29.) ÉKM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2a) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 1. § (3) bekezdése iktatta be.
 [^4]: A 2. § (4) bekezdése a 46/2023. (XII. 29.) ÉKM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^5]: A 2. § (8) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 4. §-a hatályon kívül helyezte.
+[^5]: A 2. § (7) bekezdése a 22/2025. (VII. 22.) ÉKM rendelet 2. § a) és b) pontja szerint módosított szöveg.
+[^6]: A 2. § (8) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 4. §-a hatályon kívül helyezte.

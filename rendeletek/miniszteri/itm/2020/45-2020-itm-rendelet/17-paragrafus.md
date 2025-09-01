@@ -6,14 +6,16 @@ b) a pótdíj kiszabására alapot adó esemény során használt gépjármű ü
 
 c) a pótdíj kiszabására alapot adó esemény során feltételezetten használt gépjármű üzembentartója a pótdíjfizetési felszólítás kézhezvételét követően a gépjármű egyedi azonosító jelével történő visszaélés gyanúja miatt rendőrségi feljelentést tett.
 
-(2) Nincs helye a pótdíj kiszabásának, ha az érintett gépjármű üzembentartója igazolja, hogy
+(2)[^60] Nincs helye a pótdíj kiszabásának, ha az érintett gépjármű üzembentartója igazolja, hogy
 
 a) a pótdíj kiszabására alapot adó esemény során használt gépjármű vagy annak hatósági jelzése a jogosulatlan úthasználat időpontját megelőzően jogellenesen került ki a birtokából, vagy
 
 b) a pótdíj kiszabására alapot adó esemény során feltételezetten használt gépjármű egyedi azonosító jelével visszaéltek,
 
-és az eljárást lefolytató hatóság végleges döntését vagy ezek másolatát azok jogerőre emelkedését követő 15 napon belül bemutatja a NÚSZ Zrt.-nek.
+és az eljárást lefolytató hatóság végleges döntését vagy ezek másolatát azok jogerőre emelkedését követő 15 napon belül bemutatja az útdíjszolgáltatási gazdasági társaságnak.
 
 (3) Amennyiben a (2) bekezdésben foglaltak nem vagy nem határidőben teljesülnek, úgy a pótdíj mértéke a 60 napon túli pótdíj mértékével egyezik meg.
 
 (4) Amennyiben a (2) bekezdésben foglaltak szerint nincs helye a pótdíj kiszabásának a jármű üzembentartója terhére, és ismertté válik annak a személye, aki a pótdíj kiszabásának alapjául szolgáló cselekmény idején a gépjárművet vezette, a pótdíj vele szemben kerül megállapításra az általános szabályok alkalmazásával. Amennyiben a gépjármű vezetőjének személye nem állapítható meg, de a (2) bekezdésben foglalt kimentő körülmények alapjául szolgáló cselekmény elkövetésében közreműködők személye megállapítható, úgy valamennyi közreműködő egyetemleges helytállási kötelezettséggel tartozik a pótdíj tekintetében.
+
+[^60]: A 17. § (2) bekezdés záró szövegrésze a 22/2025. (VII. 22.) ÉKM rendelet 2. § b) pontja szerint módosított szöveg.
