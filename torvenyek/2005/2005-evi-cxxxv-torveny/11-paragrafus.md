@@ -1,6 +1,6 @@
 ## Igazolás
 
-11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság a támogatás igénybevételéhez igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
+11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság a támogatás igénybevételéhez, valamint az eltulajdonított személyazonosító igazolvány díjmentes kiállítása érdekében igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
 
 a) az áldozat 10. § (3) bekezdésének a) pontja szerinti adatait,
 

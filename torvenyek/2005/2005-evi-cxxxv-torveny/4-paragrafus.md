@@ -30,7 +30,7 @@ e) egyéb segítséget
 
 nyújt a sérelem rendezéséhez.
 
-(3) Azonnali pénzügyi segélyként az áldozatsegítő szolgálat fedezi az áldozat lakhatással, ruházkodással, élelmezéssel és utazással kapcsolatos, valamint a gyógyászati és kegyeleti jellegű rendkívüli kiadásait akkor, ha a bűncselekmény vagy a tulajdon elleni szabálysértés következtében az áldozat ezen kiadások megfizetésére nem képes. A segély legmagasabb összege az alapösszeggel egyezik meg. Az alapösszeg mértéke a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43 százaléka.
+(3) Azonnali pénzügyi segélyként az áldozatsegítő szolgálat fedezi az áldozat lakhatással, ruházkodással, élelmezéssel és utazással kapcsolatos, valamint a gyógyászati és kegyeleti jellegű rendkívüli kiadásait akkor, ha a bűncselekmény vagy a tulajdon elleni szabálysértés következtében az áldozat ezen kiadások megfizetésére nem képes. A segély legmagasabb összege az alapösszeggel egyezik meg, legalacsonyabb megállapítható összege – függetlenül az áldozat által megjelölt kiadásoktól és a bűncselekménnyel vagy a tulajdon elleni szabálysértéssel okozott kár összegétől – az alapösszeg 10 százaléka. Az alapösszeg mértéke a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43 százaléka.
 
 (4) Ha valamely hatóság vagy más szerv az általa nyújtott ellátás, szolgáltatás vagy támogatás igénybevételét attól teszi függővé, hogy az ellátást, szolgáltatást vagy támogatást igénylő személy az e törvény hatálya alá tartozó áldozat, továbbá ha ez egyéb okból szükséges, az áldozatsegítő szolgálat e tény igazolására az áldozat kérelmére vagy hivatalból hatósági bizonyítványt állít ki (a továbbiakban: áldozati státusz igazolása).
 
@@ -39,5 +39,7 @@ nyújt a sérelem rendezéséhez.
 (6) Az állam az emberkereskedelem áldozataként azonosított, magyar állampolgárságú vagy a szabad mozgás és tartózkodás jogával rendelkező személy számára tekintet nélkül arra, hogy az 1. § (1) bekezdésében és a 2. §-ban meghatározott bűncselekmény miatt büntetőeljárás indult-e, szükség szerint védett szálláshelyet biztosít. Védett szálláshely az emberkereskedelem áldozataként azonosított személyt befogadó és számára jogszabályban meghatározott ellátásokat nyújtó létesítmény.
 
 (7) A szolgáltatások a rászorultság vizsgálata nélkül, térítésmentesen járnak az áldozatnak.
+
+(7a) Az áldozat eltulajdonított személyazonosító igazolványa helyett az új személyazonosító igazolvány kiállításáért, illetve annak belföldön, postai úton könyvelt küldeményként történő kézbesítéséért igazgatási szolgáltatási díjat nem kell fizetni, ha az áldozat bemutatja a személyazonosító igazolvány kiállítása ügyében eljáró hatóságnak az áldozati státusz igazolását.
 
 (8) Amennyiben az áldozat az (1) bekezdés a) vagy e) pontjában foglalt szolgáltatás iránt fordul az áldozatsegítő szolgálathoz, az áldozatsegítő szolgálat nevében eljáró hivatalos személy mentesül a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 376. § (2)–(3) bekezdésében foglalt kötelezettség alól.
