@@ -1,3 +1,1 @@
-22. §[^28]
-
-[^28]: A 22. § a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+22. § Hatályát veszti az R3. 5. § (5) bekezdésében a „Ha az értékelendő személy a teljesítményértékelésével kapcsolatban észrevételt tesz, az észrevételeit a teljesítményértékelésnek tartalmaznia kell.” szövegrész.

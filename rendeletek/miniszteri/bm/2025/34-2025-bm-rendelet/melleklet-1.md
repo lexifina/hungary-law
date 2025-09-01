@@ -1,3 +1,3 @@
-1. melléklet a 34/2025. (VIII. 18.) BM rendelethez[^29]
+1. melléklet a 34/2025. (VIII. 18.) BM rendelethez[^21]
 
-[^29]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

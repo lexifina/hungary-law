@@ -1,25 +1,19 @@
 21. § Az R3.
 
-a)[^21]
+a)[^20]
 
-b)[^22]
+b) 2. § 5. pontjában az „a teljesítményértékelés lebonyolítására,” szövegrész helyébe az „a köznevelésért felelős miniszter által engedélyezett, a tanulmányi rendszer részeként működő, a teljesítményértékelés lebonyolítására,” szöveg,
 
-c)[^23]
+c) 2. § 6. pont a) alpontjában a „b)–l) pontja” szövegrész helyébe a „b)–k) pontja” szöveg,
 
-d)[^24]
+d) 2. § 6. pont b) alpontjában az „a) és m) pontja” szövegrész helyébe az „a), l) és m) pontja” szöveg,
 
-e)[^25]
+e) 4. § (5) bekezdés a) pont ab) alpontjában az „az 1. és 2. mellékletben” szövegrész helyébe az „az 1., 2. és 4. mellékletben” szöveg,
 
-f)[^26]
+f) 5. § (4) bekezdés a) pontjában az „az értékelendő személlyel,” szövegrész helyébe az „az értékelendő személlyel, és az előzetes értékelési javaslatot rögzíti a teljesítményértékelési elektronikus rendszerben,” szöveg,
 
-g)[^27]
+g) 5. § (5) bekezdésében az „önértékelést készíthet,” szövegrész helyébe a „3 munkanapon belül önértékelést készíthet” szöveg
 
 lép.
 
-[^21]: A 21. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 21. § b) pontja a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^23]: A 21. § c) pontja a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^24]: A 21. § d) pontja a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^25]: A 21. § e) pontja a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^26]: A 21. § f) pontja a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
-[^27]: A 21. § g) pontja a 23. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^20]: A 21. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
