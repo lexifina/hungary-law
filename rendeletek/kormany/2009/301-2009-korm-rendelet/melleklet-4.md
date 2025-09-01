@@ -128,7 +128,7 @@ b) Vizsgáló eszközök:
 
 | 2. Jármű | 1. Alvázszám | Ipari kézitükör, kézilámpa, rétegvastagság-mérő | Szemrevételezés/ egyeztetés/ mérés: – fellelhetőségi adatok; – vegyszeres vizsgálati adatok; – festékrétegződés vizsgálati adatok; – karakterisztika adatok; – formai jellemzők adatai; – hordozóelem felületének vizsgálati adatok; – hordozóelem illesztési adatok; – fonákoldali karakterisztika adatok; – hordozóelem fonákoldali felületének vizsgálati adatok; – anyagszerkezet vizsgálati adatok; – vonalkód adatok; |
 
-| 2. Motorszám | Ipari kézitükör, kézilámpa | Szemrevételezés/egyeztetés: – fellelhetőségi adatok; – évjárat ellenőrzési adatok; – hordozófelület vizsgálati adatok; – karakterisztika adatok; – formai jellemzők; – hordozóelem illesztési (táblás motorszám esetén) adatok; |
+| 2. Motorkód (motortípus)[^61] | Ipari kézitükör, kézilámpa | Szemrevételezés/egyeztetés: – fellelhetőségi adatok; – évjárat ellenőrzési adatok; – hordozófelület vizsgálati adatok; – karakterisztika adatok; – formai jellemzők; – hordozóelem illesztési (táblás motorszám esetén) adatok; |
 
 | 3. Rendszám | Mérőszalag | Szemrevételezés/egyeztetés/ mérés: – tartalmi vizsgálati adatok; – formai vizsgálati adatok; – alapfólia fényvisszaverő biztonsági elemeinek adatai; – a rendszámtábla egyéb biztonsági elemeinek adatai; – 2004. 05. 01. EU hatósági jel további biztonsági elemeinek adatai; |
 
@@ -186,7 +186,7 @@ b) Vizsgáló eszközök:
 
 | Egyedi azonosítók másodlagos megjelenései, egyéb rejtett azonosítók | 1. Másodlagos alvázszám megjelenések vizsgálata |  | Szemrevételezés/egyeztetés: – fellelhetőségi adatok; – vegyszeres vizsgálati adatok; – festékrétegződés vizsgálati adatok; – karakterisztika adatok; – formai jellemzők; – hordozóelem felületének vizsgálatai adatok; – hordozóelem illesztési adatok; – fonákoldali karakterisztika adatok; – hordozóelem fonákoldali felületének vizsgálati adatok; – anyagszerkezet vizsgálati adatok; – vonalkód adatok |
 
-| 2. Másodlagos motorszám megjelenések vizsgálata |  | Szemrevételezés/egyeztetés: – fellelhetőségi adatok; – évjárat ellenőrzési adatok; – hordozófelület vizsgálati adatok; – karakterisztika adatok; – formai jellemzők; – hordozóelem illesztési (táblás motorszám esetén) adatok; |
+| 2. Másodlagos motorkód (motortípus) megjelenések vizsgálata[^62] |  | Szemrevételezés/egyeztetés: – fellelhetőségi adatok; – évjárat ellenőrzési adatok; – hordozófelület vizsgálati adatok; – karakterisztika adatok; – formai jellemzők; – hordozóelem illesztési (táblás motorszám esetén) adatok; |
 
 | 3. Táblák vizsgálata |  | Szemrevételezés/egyeztetés: – táblatípus; – fellelhetőségi adatok; – vizuális vizsgálati adatok; – adattartalom; – vonalkód adatok; – karakterisztika adatok; – forma- és anyagjellemzők; – vegyszeres vizsgálati adatok; – rögzítési adatok; – fonákoldali vizsgálati adatok; |
 
@@ -196,9 +196,9 @@ b) Vizsgáló eszközök:
 
 9.1. Hatósági bizonyítvány ellenőrzése, kiadása
 
-a)[^61] Az [járási (fővárosi kerületi) hivatali] ügyintéző a vizsgáló állomáson elvégzett vizsgálatot követően, eredetiségvizsgálati eljárás lezárásaként a kérelmező (tulajdonos, üzembentartó, illetve azok meghatalmazottja) számára – annak személyes megjelenésekor, díjmentesen – az előzetes eredetiségvizsgálati nyilvántartásból kinyomtatja a hatóság által kiállított hatósági bizonyítványt (ha az korábban nem került kézbesítésre), egyidejűleg rögzíti ezen nyilvántartásban a kézbesítésre vonatkozó információkat (annak tényét, idejét).
+a)[^63] Az [járási (fővárosi kerületi) hivatali] ügyintéző a vizsgáló állomáson elvégzett vizsgálatot követően, eredetiségvizsgálati eljárás lezárásaként a kérelmező (tulajdonos, üzembentartó, illetve azok meghatalmazottja) számára – annak személyes megjelenésekor, díjmentesen – az előzetes eredetiségvizsgálati nyilvántartásból kinyomtatja a hatóság által kiállított hatósági bizonyítványt (ha az korábban nem került kézbesítésre), egyidejűleg rögzíti ezen nyilvántartásban a kézbesítésre vonatkozó információkat (annak tényét, idejét).
 
-b)[^62] Az [járási (fővárosi kerületi) hivatali] ügyintéző – újabb eredetiségvizsgálati eljárás lefolytatása nélkül –, kérelemre igazgatási szolgáltatási díj megfizetésének ellenében hatósági bizonyítvány másolatot állít ki az előzetes eredetiségvizsgálati nyilvántartásból, valamint az igazgatási szolgáltatási díj megfizetéséről számviteli bizonylatot állít ki.
+b)[^64] Az [járási (fővárosi kerületi) hivatali] ügyintéző – újabb eredetiségvizsgálati eljárás lefolytatása nélkül –, kérelemre igazgatási szolgáltatási díj megfizetésének ellenében hatósági bizonyítvány másolatot állít ki az előzetes eredetiségvizsgálati nyilvántartásból, valamint az igazgatási szolgáltatási díj megfizetéséről számviteli bizonylatot állít ki.
 
 9.2. Az eredetiségvizsgálat megtörténtének igazolását igénylő közlekedési igazgatási eljárások lefolytatása és annak informatikai támogatása:
 
@@ -254,5 +254,7 @@ A járműokmány valódisága nem állapítható meg.
 
 A jármű egyedi azonosító adatai nem eredetiek. A jármű egyedi azonosító adatainak megváltozása külső, jogtalan beavatkozás eredménye. A járműokmány valódisága nem állapítható meg.
 
-[^61]: A 4. melléklet 9.1. pont a) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
-[^62]: A 4. melléklet 9.1. pont b) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
+[^61]: A 4. melléklet 7. A jármű vizsgálatának sorrendje pont 1. „A vizsgálat tárgya szerinti vizsgálati kört, eszközt és módszert összefoglalóan az alábbi táblázat tartalmazza:” pontjában foglalt táblázat „2. Jármű” sora a 155/2025. (VI. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^62]: A 4. melléklet 7. A jármű vizsgálatának sorrendje pont 1. „A vizsgálat tárgya szerinti vizsgálati kört, eszközt és módszert összefoglalóan az alábbi táblázat tartalmazza:” pontjában foglalt táblázat az „Egyedi azonosítók másodlagos megjelenései, egyéb rejtett azonosítók” sora a 155/2025. (VI. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^63]: A 4. melléklet 9.1. pont a) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
+[^64]: A 4. melléklet 9.1. pont b) alpontja a 174/2012. (VII. 26.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.

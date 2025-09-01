@@ -1,8 +1,6 @@
-## 20. §[^54]
-
 1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^55]
 
-## „VIZSGÁLÓ” alapképzés szakmai és vizsgakövetelményei
+„VIZSGÁLÓ” alapképzés szakmai és vizsgakövetelményei
 
 I. A munkaterület rövid, jellemző leírása
 
@@ -154,7 +152,6 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^54]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
 [^55]: Az 1. melléklet a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés d) pontja szerint módosított szöveg.
 [^56]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
 [^57]: Az 1. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 2. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^58]
 
-## „ADMINISZTRÁTOR” alapképzés szakmai és vizsgakövetelményei
+„ADMINISZTRÁTOR” alapképzés szakmai és vizsgakövetelményei
 
 I. A munkaterület rövid, jellemző leírása
 

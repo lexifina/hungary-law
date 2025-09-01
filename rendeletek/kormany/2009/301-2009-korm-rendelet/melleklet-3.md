@@ -1,6 +1,6 @@
 3. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
 
-## A vizsgáló állomás informatikai és biztonsági feltételei
+A vizsgáló állomás informatikai és biztonsági feltételei
 
 1. Telephelyenként különböző Publikus Internet felől fix IP cím;
 
