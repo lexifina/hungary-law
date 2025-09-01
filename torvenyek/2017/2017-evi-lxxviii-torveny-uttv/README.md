@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-78-00-00
 | 2025-05-13 | 2025. évi XXIII. törvény | 2017-78-00-00.43 |
 | 2025-05-16 | 2025. évi XII. törvény | 2017-78-00-00.42 |
 | 2025-07-01 | 2025. évi XXIII. törvény | 2017-78-00-00.44 |
+| 2025-09-01 | 2025. évi LVI. törvény | 2017-78-00-00.46 |

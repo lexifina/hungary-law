@@ -10,4 +10,6 @@ c) az Unió polgárainak és családtagjaiknak a tagállamok területén törté
 
 d) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 58–60. cikkének
 
+e) az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
