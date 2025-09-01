@@ -1,6 +1,6 @@
 ## 13. A konstrukciófelelős feladatai
 
-28. §[^72] (1) A konstrukciófelelős a felhívások tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében
+28. §[^73] (1) A konstrukciófelelős a felhívások tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében
 
 a) közreműködik a felhívások szakmai koncepciója előkészítésében az érintett irányító hatósággal és szakpolitikai felelőssel egyeztetve,
 
@@ -10,9 +10,9 @@ c) együttműködik a programok megvalósításában érintett minisztériumi fe
 
 d) közreműködik az irányító hatóságnak megküldendő, az éves fejlesztési keret alapját jelentő szakmai koncepció előkészítésében, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
 
-e)[^73] az adott felhívásra vonatkozó szakmai tartalom kialakítása során a területfejlesztésért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését.
+e)[^74] az adott felhívásra vonatkozó szakmai tartalom kialakítása során a területfejlesztésért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését.
 
 (2) A konstrukciófelelősöket a 3. mellékletben foglalt táblázat tartalmazza.
 
-[^72]: A 28. § a 82/2022. (III. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^73]: A 28. § (1) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^73]: A 28. § a 82/2022. (III. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^74]: A 28. § (1) bekezdés e) pontja az 599/2023. (XII. 22.) Korm. rendelet 14. §-a szerint módosított szöveg.

@@ -14,6 +14,6 @@ e) adatot szolgáltat az irányító hatóság részére az éves fejlesztési k
 
 f) végrehajtja az integrált területi programot, amelynek keretében a monitoring feladatainak ellátása céljából a kedvezményezettől és az irányító hatóságtól a támogatott projektekkel összefüggésben adatszolgáltatást kérhet, részt vehet a projektfejlesztésben.
 
-(2)[^74] A területi szereplő a fővárosi önkormányzat és a vármegyei önkormányzat.
+(2)[^75] A területi szereplő a fővárosi önkormányzat és a vármegyei önkormányzat.
 
-[^74]: A 29. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
+[^75]: A 29. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.

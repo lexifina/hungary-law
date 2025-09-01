@@ -1,6 +1,6 @@
-9. §[^15] Az NFK monitoring és értékelési feladatai keretében
+9. §[^16] Az NFK monitoring és értékelési feladatai keretében
 
-a)[^16] nyomon követi az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott feljogosító feltételek teljesülését,
+a)[^17] nyomon követi az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott feljogosító feltételek teljesülését,
 
 b) működteti és fejleszti a programok végrehajtását támogató monitoring és információs rendszert,
 
@@ -20,7 +20,7 @@ gb) módszertani támogatást nyújt az indikátorok előállításához szüks�
 
 gc) az irányító hatóság által szakmai szempontból véleményezett rendszeres jelentést készít a Kormány részére a forrásvesztés elkerülése érdekében,
 
-h)[^17] az irányító hatósággal együttműködve ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 44. cikk (5) bekezdése szerinti értékelési tervvel összefüggő feladatokat a Partnerségi Megállapodás minden programjára vonatkozóan, amely keretében
+h)[^18] az irányító hatósággal együttműködve ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 44. cikk (5) bekezdése szerinti értékelési tervvel összefüggő feladatokat a Partnerségi Megállapodás minden programjára vonatkozóan, amely keretében
 
 ha) koordinálja az értékelési terv végrehajtását és – indokolt esetben – aktualizálását,
 
@@ -32,12 +32,12 @@ hd) koordinálja a tagállami jelentéstételi kötelezettséget,
 
 i) az irányító hatósággal együttműködve monitoring és értékelési munkacsoportot működtet a programok előrehaladásának nyomon követése és értékelése érdekében.
 
-j)[^18] megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyeztetett, az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 69. cikk (10) bekezdése szerinti előrejelzéseket,
+j)[^19] megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyeztetett, az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 69. cikk (10) bekezdése szerinti előrejelzéseket,
 
-k)[^19] az irányító hatóságok rendelkezésére bocsátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 42. cikk (1) bekezdése szerinti, az egyes programokra vonatkozó összesített adatokat.
+k)[^20] az irányító hatóságok rendelkezésére bocsátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 42. cikk (1) bekezdése szerinti, az egyes programokra vonatkozó összesített adatokat.
 
-[^15]: A 9. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 6. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^16]: A 9. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 4. pontja szerint módosított szöveg.
-[^17]: A 9. § h) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 5. pontja szerint módosított szöveg.
-[^18]: A 9. § j) pontját a 195/2023. (V. 22.) Korm. rendelet 27. §-a iktatta be.
-[^19]: A 9. § k) pontját a 195/2023. (V. 22.) Korm. rendelet 27. §-a iktatta be.
+[^16]: A 9. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 6. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^17]: A 9. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 4. pontja szerint módosított szöveg.
+[^18]: A 9. § h) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 5. pontja szerint módosított szöveg.
+[^19]: A 9. § j) pontját a 195/2023. (V. 22.) Korm. rendelet 27. §-a iktatta be.
+[^20]: A 9. § k) pontját a 195/2023. (V. 22.) Korm. rendelet 27. §-a iktatta be.

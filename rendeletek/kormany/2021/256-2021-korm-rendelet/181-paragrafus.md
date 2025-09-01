@@ -1,3 +1,3 @@
-181. § (1) A kedvezményezett részére támogatás – a támogatási előleg kifizetése kivételével – csak a támogató tartalmú utóellenőrzési jelentés megléte esetén fizethető ki.
+181. §[^257]
 
-(2) Szabálytalansági gyanú esetén – az (1) bekezdéstől eltérően – a szabálytalansági gyanú elutasításáról szóló döntés vagy a szabálytalansági döntés irányadó a támogatás kifizetése tekintetében.
+[^257]: A 181. §-t a 202/2025. (VII. 16.) Korm. rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.

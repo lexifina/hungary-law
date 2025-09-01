@@ -1,4 +1,4 @@
-122. § (1)[^199] Állami támogatással érintett projekt esetén a támogatási kérelem adatait a támogatáshalmozódás vizsgálata céljából meg kell küldeni a kincstár által működtetett monitoring rendszer részére.
+122. § (1)[^200] Állami támogatással érintett projekt esetén a támogatási kérelem adatait a támogatáshalmozódás vizsgálata céljából meg kell küldeni a kincstár által működtetett monitoring rendszer részére.
 
 (2) Az irányító hatóság a támogatáshalmozódás vizsgálatát
 
@@ -16,4 +16,4 @@ alapján végzi el.
 
 (5) Ha az állami támogatással érintett projekt esetén a támogatási kérelem benyújtása és a támogatási döntés időpontja között hat hónapnál hosszabb idő telik el vagy a támogatást igénylő gazdálkodásában évforduló történt, a támogatáshalmozódás vizsgálatát ismételten el kell végezni.
 
-[^199]: A 122. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 69. pontja szerint módosított szöveg.
+[^200]: A 122. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 69. pontja szerint módosított szöveg.

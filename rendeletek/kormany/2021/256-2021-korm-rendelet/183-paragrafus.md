@@ -6,6 +6,6 @@
 
 (4) A kedvezményezett a (3) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat, vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi az irányító hatóság részére.
 
-(5)[^255] Az irányító hatóság az (1) bekezdés szerinti határidőben megküldi a kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
+(5)[^264] Az irányító hatóság az (1) bekezdés szerinti határidőben megküldi a kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja az NFK-t.
 
-[^255]: A 183. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 83. pontja szerint módosított szöveg.
+[^264]: A 183. § (5) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 83. pontja szerint módosított szöveg.

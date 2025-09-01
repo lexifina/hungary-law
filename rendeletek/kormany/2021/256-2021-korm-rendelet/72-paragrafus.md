@@ -10,7 +10,7 @@ d) a támogatható tevékenységek felsorolását,
 
 e) a felhívás keretösszegét és annak alátámasztását,
 
-f)[^146] a felhívás meghirdetésének tervezett időpontját negyedéves bontásban,
+f)[^147] a felhívás meghirdetésének tervezett időpontját negyedéves bontásban,
 
 g) a projektkiválasztási eljárásrendet,
 
@@ -20,4 +20,4 @@ i) az igényelhető támogatás összegét és annak alátámasztását, valamin
 
 j) a tervezett indikátorok felsorolását és célértékét.
 
-[^146]: A 72. § f) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 47. pontja szerint módosított szöveg.
+[^147]: A 72. § f) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 47. pontja szerint módosított szöveg.

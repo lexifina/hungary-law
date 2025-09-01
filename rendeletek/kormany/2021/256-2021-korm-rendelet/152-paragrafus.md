@@ -2,8 +2,8 @@
 
 (2) Ha a támogatási szerződés módosítása szükséges, az irányító hatóság az (1) bekezdés szerinti határidőt harminc nappal meghosszabbíthatja.
 
-(3)[^214] Az (1) és (2) bekezdés szerinti határidőbe a hiánypótlásra, a tisztázó kérdés megválaszolására és a kifogás elbírálására rendelkezésre álló, valamint a 151. § (1) bekezdése szerinti időtartam nem számít bele.
+(3)[^215] Az (1) és (2) bekezdés szerinti határidőbe a hiánypótlásra, a tisztázó kérdés megválaszolására és a kifogás elbírálására rendelkezésre álló, valamint a 151. § (1) bekezdése szerinti időtartam nem számít bele.
 
 (4) Az irányító hatóság az intézkedésről haladéktalanul tájékoztatja a kedvezményezettet.
 
-[^214]: A 152. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^215]: A 152. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 6. pontja szerint módosított szöveg.

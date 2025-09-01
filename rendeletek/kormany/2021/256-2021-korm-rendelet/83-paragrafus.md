@@ -4,7 +4,7 @@
 
 (2) Az irányító hatóság a felhívás éves fejlesztési keretben meghatározott
 
-a)[^163]
+a)[^164]
 
 b) keretösszegétől legfeljebb 20%-kal
 
@@ -22,4 +22,4 @@ d) a kiemelt projekt esetén a támogatási kérelem benyújtásának várható 
 
 (4) Az éves fejlesztési keret módosítására az éves fejlesztési keret elfogadására vonatkozó szabályokat kell alkalmazni.
 
-[^163]: A 83. § (2) bekezdés a) pontját a 218/2024. (VII. 31.) Korm. rendelet 76. § c) pontja hatályon kívül helyezte.
+[^164]: A 83. § (2) bekezdés a) pontját a 218/2024. (VII. 31.) Korm. rendelet 76. § c) pontja hatályon kívül helyezte.

@@ -26,7 +26,7 @@
 
 11.[^4] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet, a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 38/A. §-a szerinti szervezet,
 
-12. négy szem elve: valamely személy munkájának egy másik személy általi, ugyanazon szempontok szerint történő, teljes körű ellenőrzése,
+12.[^5] négy szem elve: valamely személy által végzett ellenőrzésnek egy másik személy általi felülvizsgálata,
 
 13. nonprofit szervezet: az egyesület, köztestület, alapítvány, közalapítvány, alapítvány vagy közalapítvány jogi személyiséggel rendelkező szervezeti egysége, nonprofit gazdasági társaság, szociális szövetkezet, helyi önkormányzat, költségvetési szerv, egyházi jogi személy, európai gazdasági egyesülés, európai szövetkezet, európai területi társulás, társasház, építőközösség, kivéve a biztosítóegyesületet, a politikai pártot és a munkáltatói vagy munkavállalói érdekképviseleti szervezetet,
 
@@ -34,17 +34,17 @@
 
 15. projekt fizikai befejezése: a projekt keretében támogatott tevékenységnek a felhívás és a támogatási szerződés szerinti végrehajtása,
 
-16.[^5] projektmegvalósítás irányító hatóság általi befejezése: a projekt keretében támogatott tevékenységek végrehajtását igazoló záró beszámoló jóváhagyását követően a záró kifizetési kérelem jóváhagyása és a támogatás kifizetése az irányító hatóság által,
+16.[^6] projektmegvalósítás irányító hatóság általi befejezése: a projekt keretében támogatott tevékenységek végrehajtását igazoló záró beszámoló jóváhagyását követően a záró kifizetési kérelem jóváhagyása és a támogatás kifizetése az irányító hatóság által,
 
 17. projekt pénzügyi befejezése: a projekt fizikai befejezését követően a projekt végrehajtása során keletkezett bizonylatok kiegyenlítése,
 
-18.[^6] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
+18.[^7] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
 
 19. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
 20. szakaszolt projekt: több programozási időszak forrásaiból finanszírozott projekt,
 
-20a.[^7] szállítói szerződés: a kedvezményezett és a szállító között létrejött, a projekt megvalósítása érdekében kötött szerződés, közbeszerzés esetén a közbeszerzési eljárás eredményeként kötött szerződés, keretmegállapodás alkalmazása esetén az ajánlatkérő általi közvetlen megrendelés, továbbá a visszaigazolt írásbeli megrendelés,
+20a.[^8] szállítói szerződés: a kedvezményezett és a szállító között létrejött, a projekt megvalósítása érdekében kötött szerződés, közbeszerzés esetén a közbeszerzési eljárás eredményeként kötött szerződés, keretmegállapodás alkalmazása esetén az ajánlatkérő általi közvetlen megrendelés, továbbá a visszaigazolt írásbeli megrendelés,
 
 21. teljesítmény-keretrendszer: indikátorokon alapuló, prioritásszintű mérési rendszer, amelynek célja, hogy az egyes prioritásokban kitűzött célok megvalósuljanak,
 
@@ -54,6 +54,7 @@
 [^2]: A 3. § 6. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
 [^3]: A 3. § 8a. pontját a 48/2024. (III. 4.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^4]: A 3. § 11. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^5]: A 3. § 16. pontja a 195/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^6]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
-[^7]: A 3. § 20a. pontját a 48/2024. (III. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^5]: A 3. § 12. pontja a 202/2025. (VII. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^6]: A 3. § 16. pontja a 195/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^7]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
+[^8]: A 3. § 20a. pontját a 48/2024. (III. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be.

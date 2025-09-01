@@ -1,4 +1,4 @@
-15. § (1)[^31] Az NFK kommunikációs feladatai keretében
+15. § (1)[^32] Az NFK kommunikációs feladatai keretében
 
 a) az irányító hatósággal együttműködve gondoskodik a programok megvalósítására vonatkozó egységes kommunikációs stratégia kidolgozásáról, az uniós jogszabályokban meghatározott, tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítéséről,
 
@@ -12,7 +12,7 @@ e) ellátja – szükség esetén az érintett irányító hatóság bevonásáv
 
 f) az irányító hatósággal együttműködve egységes, minden programot lefedő ügyfélszolgálatot alakít ki és működtet.
 
-(2)[^32] Az NFK az (1) bekezdés a) pontja keretében
+(2)[^33] Az NFK az (1) bekezdés a) pontja keretében
 
 a) kidolgozza a programok megvalósítására vonatkozó egységes kommunikációs stratégiát,
 
@@ -28,5 +28,5 @@ f) betölti Magyarország tájékoztatási és kommunikációs tisztviselői pos
 
 g) működteti a www.palyazat.gov.hu oldalt, amelyen közzéteszi a támogatott projektek listáját az átláthatóság biztosítása érdekében.
 
-[^31]: A 15. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 14. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 13. pontja szerint módosított szöveg.
-[^32]: A 15. § (2) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^32]: A 15. § (1) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 14. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^33]: A 15. § (2) bekezdés nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 14. pontja szerint módosított szöveg.

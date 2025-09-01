@@ -1,4 +1,4 @@
-## 15/A.[^76] A Belső Ellenőrzési és Integritási Igazgatóság feladatai
+## 15/A.[^77] A Belső Ellenőrzési és Integritási Igazgatóság feladatai
 
 31/A. § A Belső Ellenőrzési és Integritási Igazgatóság
 
@@ -12,4 +12,4 @@ d) tevékenységéről évente beszámol az Integritás Hatóság részére,
 
 e) együttműködik a büntetőeljárásban eljáró szervekkel.
 
-[^76]: A 15/A. alcímet (31/A. §-t) a 374/2022. (IX. 30.) Korm. rendelet 18. §-a iktatta be.
+[^77]: A 15/A. alcímet (31/A. §-t) a 374/2022. (IX. 30.) Korm. rendelet 18. §-a iktatta be.

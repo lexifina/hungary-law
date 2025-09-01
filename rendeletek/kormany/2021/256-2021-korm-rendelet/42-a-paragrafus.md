@@ -1,6 +1,6 @@
-42/A. §[^93] (1)[^94]
+42/A. §[^94] (1)[^95]
 
-(2)[^95] Az irányító hatóság az 1. mellékletben foglalt táblázat
+(2)[^96] Az irányító hatóság az 1. mellékletben foglalt táblázat
 
 a) 3., 5., 6. és 9. sora szerinti program,
 
@@ -12,6 +12,6 @@ esetén a helyszíni szemlével, helyszíni ellenőrzéssel összefüggő felada
 
 (3) Az NFK az irányító hatóság helyszíni szemlével, helyszíni ellenőrzéssel összefüggő feladatai közül a szervezeti és működési szabályzatában meghatározott feladatokat látja el.
 
-[^93]: A 42/A. §-t a 218/2024. (VII. 31.) Korm. rendelet 49. §-a iktatta be.
-[^94]: A 42/A. § (1) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 39. § (1) bekezdése hatályon kívül helyezte.
-[^95]: A 42/A. § (2) bekezdés záró szövegrésze a 202/2025. (VII. 16.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^94]: A 42/A. §-t a 218/2024. (VII. 31.) Korm. rendelet 49. §-a iktatta be.
+[^95]: A 42/A. § (1) bekezdését a 202/2025. (VII. 16.) Korm. rendelet 39. § (1) bekezdése hatályon kívül helyezte.
+[^96]: A 42/A. § (2) bekezdés záró szövegrésze a 202/2025. (VII. 16.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.

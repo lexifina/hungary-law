@@ -1,0 +1,1 @@
+181/D. § Ha a kedvezményezett a közbeszerzési eljárás utóellenőrzését nem vagy nem határidőben kezdeményezte, az irányító hatóság és az NFK a dokumentumokat a 181/B. § és 181/C. § szerint ellenőrzi, azzal, hogy az irányító hatóság a 179. § (1)–(4) bekezdését alkalmazza.
