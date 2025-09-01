@@ -106,7 +106,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.
 
-22. a vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
+## 22. a bizalmi vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
 
 23. felsőoktatási támogatási megállapodás alapján az adóévben felsőoktatási intézménynek, illetve annak fenntartójának visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke;
 

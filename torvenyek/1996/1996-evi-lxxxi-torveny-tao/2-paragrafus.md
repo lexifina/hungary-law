@@ -40,7 +40,7 @@ c) ingatlannal rendelkező társaságban meglévő részesedésének elidegenít
 
 (5) Nem alanya a társasági adónak az 5. számú mellékletben felsorolt szervezet.
 
-(6) Belföldi illetőségű adózónak minősül a bizalmi vagyonkezelési szerződés alapján kezelt vagyon.
+(6) Belföldi illetőségű adózónak minősül a kezelt vagyon.
 
 (7) A (8) bekezdésben foglalt kivétellel belföldi illetőségű adózónak minősül a Magyarországon bejegyzési hellyel vagy székhellyel rendelkező hibrid gazdálkodó szervezet, amely nem tartozik a (2)–(4) és (6) bekezdés hatálya alá, ha e törvény szerinti belföldi illetőséggel nem rendelkező szervezet (önmagában vagy e törvény szerinti belföldi illetőséggel nem rendelkező kapcsolt vállalkozásával együttesen)
 

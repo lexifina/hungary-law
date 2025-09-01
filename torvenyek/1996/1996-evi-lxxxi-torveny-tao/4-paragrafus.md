@@ -48,13 +48,13 @@ f) a b)–d) alpontokban foglaltaktól eltérően az éves beszámolóját, a k�
 
 8.
 
-9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési szerződés;
+9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési jogviszonyt vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszonyt szabályozó szerződés és egyoldalú jognyilatkozat;
 
 9/a. beszámoló: a számvitelről szóló törvény, vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 
 10.
 
-10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;
+10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési jogviszony vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony keretében átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;
 
 10/b. elismert tőzsde: a hatáskörrel rendelkező felügyeleti hatóság által elismert tőzsde, amely
 
@@ -126,9 +126,9 @@ i) a 8. § (1) bekezdés f) pontja alkalmazásában nem mentesülhet az ellenőr
 
 12a. élőzenei szolgáltatás: a FEOR-08 szerinti zenész, énekes személyes közreműködésével – rendszeresen vagy meghatározott időpontban, nyilvános, a vendégek számára ingyenes előadás útján – nyújtott zeneszolgáltatás;
 
-13. vagyonrendelő: az a személy, amely a Ptk. bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonrendelőnek minősül;
+13. bizalmi vagyonrendelő: az a személy, amely a Ptk. szerinti bizalmi vagyonkezelési jogviszony vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony keretében vagyont vagyonkezelésre ad át;
 
-14. kezelt vagyon: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján kezelt vagyon;
+14. kezelt vagyon: a Ptk. szerinti bizalmi vagyonkezelési jogviszony vagy a vagyonkezelő alapítványokról szóló törvény szerinti tartós vagyonkezelési jogviszony keretében kezelt vagyon;
 
 15. építkezés befejezésének napja: a használatbavételi, fennmaradási engedély jogerőre emelkedésének a napja, a használatbavétel tudomásulvételének a napja, alvállalkozó esetében az általa végzett tevékenység befejezésének a napja;
 
@@ -252,7 +252,13 @@ c) az a) pont szerinti berendezés és a b) pont szerinti alkatrész gyártásá
 
 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző vármegyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
-28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont és a vagyonkezelő alapítványt, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványt) nem számolja el az adózás előtti eredmény terhére ráfordításként;
+28/b. osztalék: az a bevétel, amelynek összegét az annak fizetésére (juttatására) kötelezett nem számolja el adózás előtti eredménye terhére ráfordításként és
+
+a) a számvitelről szóló törvény szerint kapott (járó) osztalék és részesedés címén elszámolt bevétel,
+
+b) a kezelt vagyon kedvezményezettjeként a kezelt vagyonból történő vagyonkiadás vagy hozamkiadás következtében megszerzett bevétel, vagy
+
+c) az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az a) és b) alpont szerinti bevételnek megfeleltethető összeg;
 
 28c. önálló szervezeti egység: egy társaság olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez;
 
