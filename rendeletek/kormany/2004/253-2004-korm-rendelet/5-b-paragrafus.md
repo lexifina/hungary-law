@@ -1,4 +1,4 @@
-5/B. §[^27] (1) A lőtér üzemeltetésének engedélyezése tárgyában hozott döntéséről a hatóság tájékoztatja
+5/B. §[^28] (1) A lőtér üzemeltetésének engedélyezése tárgyában hozott döntéséről a hatóság tájékoztatja
 
 a) az érintett rendvédelmi feladatokat ellátó szervet, ha a lőtér a rendvédelmi feladatokat szerv lőterétől számított 10 km távolságon belül létesül, valamint
 
@@ -6,7 +6,7 @@ b) a légiközlekedési hatóságot és a katonai légügyi hatóságot, ha a l�
 
 (2) A lőtér üzemeltetésére jogosító engedély iránti kérelemnek tartalmaznia kell
 
-a)[^28] a lőtér használatát kérelmező szerv megnevezését, székhelyének és telephelyének címét, cégbejegyzésének – sportegyesület vagy egyéni vállalkozó esetében nyilvántartási – számát,
+a)[^29] a lőtér használatát kérelmező szerv megnevezését, székhelyének és telephelyének címét, cégbejegyzésének – sportegyesület vagy egyéni vállalkozó esetében nyilvántartási – számát,
 
 b) a lőtér használatát kérelmező szerv elérhetőségi adataiként levelezési címet, telefonszámot, e-mail-címet,
 
@@ -20,8 +20,8 @@ f) annak megjelölését, hogy a lőtéren milyen jellegű, kaliberjelű és kat
 
 (3) Ha a kérelmező nem az érintett terület tulajdonosa, a kérelmező igazolja az érintett terület tulajdonosának a lőtér üzemeltetéséhez történő hozzájárulását.
 
-(4)[^29] A lőtér üzemeltetésére jogosító engedély kiadására irányuló eljárásban ügyfélnek minősül a lőtér veszélyességi hatásterületén lévő ingatlan tulajdonosa is, valamint az is, akinek a lőtér veszélyességi hatásterületén lévő ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
+(4)[^30] A lőtér üzemeltetésére jogosító engedély kiadására irányuló eljárásban ügyfélnek minősül a lőtér veszélyességi hatásterületén lévő ingatlan tulajdonosa is, valamint az is, akinek a lőtér veszélyességi hatásterületén lévő ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
-[^27]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^28]: Az 5/B. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^29]: Az 5/B. § (4) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^28]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: Az 5/B. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^30]: Az 5/B. § (4) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.

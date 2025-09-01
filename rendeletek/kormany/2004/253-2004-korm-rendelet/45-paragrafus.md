@@ -1,6 +1,6 @@
-## 44/B. §[^241] Az Ftv. 2. § 29. pont d) alpontjában meghatározott tűzfegyver kizárólag a Bizottsági Rendelet III. MELLÉKLETE szerinti tanúsítvány kíséretében hozható be Magyarország területére az Európai Unió tagállamának területéről, illetve vihető ki Magyarország területéről az Európai Unió tagállamának területére.
+## 44/B. §[^249] Az Ftv. 2. § 29. pont d) alpontjában meghatározott tűzfegyver kizárólag a Bizottsági Rendelet III. MELLÉKLETE szerinti tanúsítvány kíséretében hozható be Magyarország területére az Európai Unió tagállamának területéről, illetve vihető ki Magyarország területéről az Európai Unió tagállamának területére.
 
-45. §[^242] E rendelet eltérő rendelkezése hiányában az kaphat engedélyt
+45. §[^250] E rendelet eltérő rendelkezése hiányában az kaphat engedélyt
 
 a) egyedi jóváhagyást igénylő lőfegyver, lőszer kivitelére, behozatalára, átszállítására, aki annak gyártására, javítására, forgalmazására vagy tartására jogosító engedéllyel vagy
 
@@ -8,5 +8,5 @@ b) hangtompító kivitelére, behozatalára, átszállítására, aki a 35/B. §
 
 rendelkezik.
 
-[^241]: A 44/B. §-t a 326/2020. (VII. 1.) Korm. rendelet 14. §-a iktatta be.
-[^242]: A 45. § a 486/2023. (X. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^249]: A 44/B. §-t a 326/2020. (VII. 1.) Korm. rendelet 14. §-a iktatta be.
+[^250]: A 45. § a 486/2023. (X. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

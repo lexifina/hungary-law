@@ -1,7 +1,7 @@
-## 55/C. §[^289] A 26. § (1) bekezdés b) pont ba) alpontjában meghatározott feltételt teljesítettnek kell tekinteni, ha az elöltöltő fegyver vadászati célú használatára jogosító engedélyt kérelmező személy
+## 55/C. §[^297] A 26. § (1) bekezdés b) pont ba) alpontjában meghatározott feltételt teljesítettnek kell tekinteni, ha az elöltöltő fegyver vadászati célú használatára jogosító engedélyt kérelmező személy
 
 a) érvényes lőfegyvertartási engedéllyel rendelkezik vagy
 
 b) egyidejűleg lőfegyvertartási engedély iránti kérelmet terjeszt elő, amelynek megadását nem a lőfegyver biztonságos használatához előírt egészségi alkalmasság hiánya zárja ki.
 
-[^289]: Az 55/C. §-t a 371/2016. (XI. 29.) Korm. rendelet 19. §-a iktatta be.
+[^297]: Az 55/C. §-t a 371/2016. (XI. 29.) Korm. rendelet 19. §-a iktatta be.
