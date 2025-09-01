@@ -12,9 +12,9 @@ A régészeti lelőhely, lelet megtalálója elismerésének kezdeményezéséhe
 
 2. A jelölés indoklása
 
-2.1. A bejelentett régészeti örökségi elem (régészeti lelőhely, illetve lelet) megtalálásának körülményei és ideje
+2.1.[^498] A bejelentett régészeti lelőhely, illetve lelet megtalálásának körülményei és ideje
 
-2.2. A bejelentett régészeti örökségi elem (lelőhely, illetve régészeti lelet) ismertetése, leírása, tudományos jelentősége
+2.2.[^499] A bejelentett régészeti lelőhely, illetve régészeti lelet ismertetése, leírása, tudományos jelentősége
 
 3. A javaslattevő szervezet
 
@@ -25,3 +25,6 @@ A régészeti lelőhely, lelet megtalálója elismerésének kezdeményezéséhe
 4. Az elismerésre javasolt személy vagy szervezet nyilatkozata arról, hogy maradéktalanul eleget tett a Kötv. és más jogszabályok előírásainak.
 
 5. Az elismerésre javasolt személy vagy szervezet hozzájáruló nyilatkozata arról, hogy a miniszteri elismerés adományozását előkészítő eljárásban a miniszter az elismerésre javasolt személy vagy szervezet azonosító adatait nyilvántartsa.
+
+[^498]: A 11. melléklet 2.1. pontja a 142/2025. (VI. 19.) Korm. rendelet 36. § (5) bekezdésével megállapított szöveg.
+[^499]: A 11. melléklet 2.2. pontja a 142/2025. (VI. 19.) Korm. rendelet 36. § (5) bekezdésével megállapított szöveg.

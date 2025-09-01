@@ -1,3 +1,3 @@
-113. §[^288]
+113. §[^451]
 
-[^288]: A 113. §-t a 142/2025. (VI. 19.) Korm. rendelet 38. § 21. pontja hatályon kívül helyezte.
+[^451]: A 113. §-t a 142/2025. (VI. 19.) Korm. rendelet 38. § 21. pontja hatályon kívül helyezte.

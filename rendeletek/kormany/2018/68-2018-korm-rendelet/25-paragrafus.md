@@ -1,8 +1,6 @@
-## 24. §[^84] A 3. § (3) bekezdése szerinti örökségvédelmi szerv minden év február 28-ig előkészíti és megküldi a miniszternek a régészeti feltárás szakmai irányelveit, amelyeket a miniszter az Ásatási Bizottság bevonásával véleményez. Az elfogadott szakmai irányelveket a miniszter az általa vezetett minisztérium honlapján minden év április 30-ig közzéteszi.
+25. § (1)[^148] Régészeti terepmunka végzésére alkalmas napnak minősül az a munkanap, amelyen az időjárási és a talajviszonyok, továbbá egyéb körülmények nem akadályozzák meg a feltárási tevékenységet.
 
-25. § (1) Régészeti feltárásra alkalmas napnak minősül az a munkanap, amelyen az időjárási és a talajviszonyok, továbbá egyéb körülmények nem akadályozzák meg a feltárási tevékenységet.
-
-(2) Az (1) bekezdésben foglaltakra figyelemmel régészeti feltárásra alkalmatlan különösen az a nap, amelyen a feltárási tevékenységet
+(2)[^149] Az (1) bekezdésben foglaltakra figyelemmel régészeti terepmunka végzésére alkalmatlan különösen az a nap, amelyen a feltárási tevékenységet
 
 a) a talaj fagyott állapota, nedvességtartalma, a belvíz vagy a talajvíz szintje,
 
@@ -12,4 +10,5 @@ c) a rendkívüli időjárással összefüggő esemény miatt elrendelt riadó
 
 megakadályozza.
 
-[^84]: A 24. § a 62/2019. (III. 26.) Korm. rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^148]: A 25. § (1) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 37. § 49. pontja szerint módosított szöveg.
+[^149]: A 25. § (2) bekezdés nyitó szövegrésze a 142/2025. (VI. 19.) Korm. rendelet 37. § 50. pontja szerint módosított szöveg.

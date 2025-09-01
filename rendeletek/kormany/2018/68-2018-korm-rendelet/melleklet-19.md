@@ -6,7 +6,7 @@
 
 | 3. | Iparművészeti alkotás, kelet-ázsiai eredetű műtárgy | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1091 Budapest, Üllői út 33–37. |
 
-| 4. | Népművészeti és néprajzi alkotás, tárgy | Néprajzi Múzeum | 1055 Budapest, Kossuth Lajos tér 12. |
+| 4. | Népművészeti és néprajzi alkotás, tárgy | Néprajzi Múzeum | 1146 Budapest, Dózsa György út 35. |
 
 | 5. | A magyar nemzet és Magyarország népei történelmének emlékei, régészeti leletei, régészeti emléknek nem minősülő pénzérmék és egyéb numizmatikai tárgyak, valamint a fotótörténeti emlékek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1088 Budapest, Múzeum krt. 14–16. |
 
@@ -18,17 +18,17 @@
 
 | 9. | Színháztörténeti emlékek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1013 Budapest, Krisztina krt. 57. |
 
-| 10. | Műszaki és technikatörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 1146 Budapest, Városligeti krt. 11. |
+| 10. | Műszaki és technikatörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 4025 Debrecen, Széchenyi utca 31. |
 
 | 11. | Zenetörténeti emlékek | Bölcsészettudományi Kutatóintézet Zenetudományi Intézet – Zenetörténeti Múzeum | 1014 Budapest, Táncsics M. u. 7. |
 
-| 12. | Hadtörténeti emlékek | Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum | 1014 Budapest, Kapisztrán tér 2–4. |
+| 12. | Hadtörténeti emlékek | Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum | 1087 Budapest, Kerepesi út 29/b. |
 
 | 13. | Sporttörténeti emlékek | Magyar Olimpiai és Sportmúzeum | 1146 Budapest, Istvánmezei út 3–5. |
 
 | 14. | Mezőgazdaság-történeti emlékek | Magyar Mezőgazdasági Múzeum | 1146 Budapest, Vajdahunyad vár |
 
-| 15. | Közlekedéstörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 1146 Budapest, Városligeti krt. 11. |
+| 15. | Közlekedéstörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 4025 Debrecen, Széchenyi utca 31. |
 
 | 16. | Budapest várostörténetére vonatkozó emlékek és leletek | Budapesti Történeti Múzeum | 1014 Budapest, Szent György tér 2. |
 

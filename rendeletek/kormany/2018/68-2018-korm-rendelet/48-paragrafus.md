@@ -1,4 +1,4 @@
-## 14. A régészeti feltárás engedélyezése
+## 14.[^214] A régészeti feltárás engedélyezése és a hadtörténeti örökség kutatása
 
 48. § (1) A régészeti feltárás engedélyezése iránti kérelmet a 9. mellékletben meghatározott adattartalommal kell benyújtani.
 
@@ -6,7 +6,7 @@
 
 a) EOV vagy WGS84 földrajzi koordinátákat tartalmazó térképet a feltárni tervezett régészeti lelőhely megjelölésével;
 
-b) értelmezhető léptékű helyszínrajzot a feltárandó terület egyértelmű megjelölésével;
+b)[^215] a feltárandó terület helyszínrajzát a feltárandó felület egyértelmű megjelölésével;
 
 c) tervásatás esetén részletes kutatási programot, amely kitér az ismert és várható, a helyszínen megőrzendő régészeti emlék kezelésére, és a feltárás befejezését vagy egy évet meghaladó szünetelése esetén a feltárt régészeti örökség védelméről, a téliesítés módjáról, valamint a feltárási terület rendeltetésszerű és biztonságos, az élet- és balesetvédelmi előírásoknak megfelelő használatához szükséges tereprendezési munkák elvégzésére;
 
@@ -32,14 +32,21 @@ e) országos jelentőségű védett természeti területen tervezett régészeti
 
 (4) A leletanyag végleges befogadását a 10. mellékletben meghatározott adattartalommal kell igazolni, ha a befogadó intézmény nem azonos a feltárást végző intézménnyel.
 
-(5) A régészeti feltárás engedélyezésére irányuló kérelemről az Ásatási Bizottság szakmai véleményét kérheti
+(5)[^216] A régészeti tervásatás és a megelőző feltárás engedélyezésére irányuló kérelemről az Ásatási Bizottság szakmai véleményét kikéri
 
-a) az eljárást megelőzően a feltárásra jogosult intézmény, vagy
+a)[^217] az eljárást megelőzően a régészeti terepmunka elvégzésére jogosult intézmény, vagy
 
-b) az eljárás során a hatóság.
+b)[^218] az eljárás során az örökségvédelmi hatóság.
 
-(6) Az (5) bekezdés a) pontja szerinti esetben az Ásatási Bizottság szakvéleményét megküldi a feltárásra jogosult intézménynek és a hatóságnak.
+(6)[^219] Az (5) bekezdés a) pontja szerinti esetben az Ásatási Bizottság szakvéleményét megküldi a régészeti terepmunka elvégzésére jogosult intézménynek és az örökségvédelmi hatóságnak.
 
 (7) Az Ásatási Bizottság véleményezésének határideje a régészeti feltárási engedély iránti kérelem és mellékletei hiánytalan rendelkezésre bocsátásától számított tizenöt nap, nagyberuházás esetén öt nap.
 
 (8) A megelőző feltárás engedélyezésére irányuló eljárásban az ügyintézési határidő nagyberuházás esetén tizenöt nap.
+
+[^214]: A 14. alcím címe a 142/2025. (VI. 19.) Korm. rendelet 37. § 75. pontja szerint módosított szöveg.
+[^215]: A 48. § (2) bekezdés b) pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 76. pontja szerint módosított szöveg.
+[^216]: A 48. § (5) bekezdés nyitó szövegrésze a 142/2025. (VI. 19.) Korm. rendelet 37. § 77. pontja szerint módosított szöveg.
+[^217]: A 48. § (5) bekezdés a) pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 78. pontja szerint módosított szöveg.
+[^218]: A 48. § (5) bekezdés b) pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 79. pontja szerint módosított szöveg.
+[^219]: A 48. § (6) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 23. §-ával megállapított szöveg.

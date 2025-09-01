@@ -1,4 +1,4 @@
-9. §[^43] (1) A műemléki nyilvántartás tartalmazza
+9. §[^71] (1) A műemléki nyilvántartás tartalmazza
 
 a) a műemlék azonosítására és védettségére vonatkozó alábbi adatokat:
 
@@ -16,7 +16,7 @@ af) az örökségvédelmi bírság kategóriába sorolását, illetve a műemlé
 
 b) a műemlék elhelyezkedésének alábbi földrajzi, térbeli adatait:
 
-ba)[^44] a műemlék fekvése szerinti vármegyét települést, településrészt és címét,
+ba)[^72] a műemlék fekvése szerinti vármegyét települést, településrészt és címét,
 
 bb) az ingatlanok ingatlan-nyilvántartási adatai szerinti azonosítását (helyrajzi szám, alrészlet, albetét) amelyek területén a műemléki védelem fennáll,
 
@@ -26,7 +26,7 @@ bd) az ingatlan-nyilvántartási térképi adatbázis alapján a műemlék kiter
 
 c) a műemlék védettségét megalapozó alábbi szakanyagokat:
 
-ca)[^45] a műemlékre vonatkozó építéstörténeti tudományos dokumentációt, kerttörténeti tudományos dokumentációt, kutatási dokumentációt, restaurálási dokumentációt, értékleltárt, szakértői vizsgálatot, szakértői dokumentációt,
+ca)[^73] a műemlékre vonatkozó építéstörténeti tudományos dokumentációt, kerttörténeti tudományos dokumentációt, kutatási dokumentációt, restaurálási dokumentációt, értékleltárt, szakértői vizsgálatot, szakértői dokumentációt,
 
 cb) a műemlék, műemléki érték, műemlékvédelem sajátos tárgyának leírását, azonosító fényképeit, történeti topográfiáját,
 
@@ -48,8 +48,9 @@ f) a műemlék, a műemlékvédelem sajátos tárgyának veszélyeztetettségér
 
 (2) A műemléki nyilvántartás a műemlék elhelyezkedésének földrajzi adatait – jogszabály vagy szolgáltatási szerződés alapján – jogszabály alapján vezetett másik nyilvántartás tartalmára hivatkozással, annak közvetlen informatikai elérését biztosítva is teljesítheti.
 
-(3) A szakanyagot ki kell egészíteni, ha a műemléki nyilvántartásban nem szereplő, de a Kötv. 7. § 17. pontja értelmében a műemlékhez tartozó műemléki érték, alkotórész, tartozék vagy berendezés kerül elő.
+(3)[^74] A szakanyagot ki kell egészíteni, ha a műemléki nyilvántartásban nem szereplő, de a magyar építészetről szóló 2023. évi C. törvény 16. § 86. pontja értelmében a műemlékhez tartozó műemléki érték, alkotórész, tartozék vagy berendezés kerül elő.
 
-[^43]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^44]: A 9. § (1) bekezdés b) pont ba) alpontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
-[^45]: A 9. § (1) bekezdés c) pont ca) alpontja a 351/2023. (VII. 27.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^71]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^72]: A 9. § (1) bekezdés b) pont ba) alpontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
+[^73]: A 9. § (1) bekezdés c) pont ca) alpontja a 351/2023. (VII. 27.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^74]: A 9. § (3) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 37. § 17. pontja szerint módosított szöveg.

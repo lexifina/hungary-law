@@ -1,4 +1,4 @@
-3. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^309]
+3. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^473]
 
 Az örökségvédelmi engedély iránti kérelem, az örökségvédelmi bejelentés, a műemlékké vagy műemléki területté nyilvánítási vagy törlési eljárás dokumentumainak felépítése, kötelező adattartalma
 
@@ -10,7 +10,7 @@ Az örökségvédelmi engedély iránti kérelem, az örökségvédelmi bejelent
 
 1.1.2. Elhelyezkedés, helyszín, építmény megnevezése, építmény együttes esetén az építmények felsorolása, kert, temető, temetőrész kiterjedése
 
-1.1.3.[^310] Település, településrész; vármegye
+1.1.3.[^474] Település, településrész; vármegye
 
 1.1.4. Cím
 
@@ -276,7 +276,7 @@ A műszaki leírás alfabetikusan kereshető szöveges dokumentum, amelyben szü
 
 A tervlapok formátuma PDF/A. A tervlap összeállításánál törekedni kell arra, hogy a tervlap vagy annak egységnyi területe szükség esetén arányosan, értelmezhető módon A3 méretben szürkeárnyalatosan nyomtatható legyen. Az önálló tervlapokat önálló fájldokumentumonként kell benyújtani vektorgrafikus vagy 300 DPI felbontású pixeles formátumban.
 
-A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén az örökségvédelmi engedély iránti kérelemnek és mellékleteinek a műemlék egészére vagy a tervezett tevékenységgel érintett részére vonatkozóan – a tevékenység vagy a műemlék nagyságától és a jellegétől függően, megfelelő részletezettséggel – a következőket kell tartalmaznia.[^311]
+A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén az örökségvédelmi engedély iránti kérelemnek és mellékleteinek a műemlék egészére vagy a tervezett tevékenységgel érintett részére vonatkozóan – a tevékenység vagy a műemlék nagyságától és a jellegétől függően, megfelelő részletezettséggel – a következőket kell tartalmaznia.[^475]
 
 5.1. A bejelentés vagy a kérelem tartalma:
 
@@ -284,7 +284,7 @@ A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén 
 
 5.1.2. a bejelentés vagy kérelem tárgya, a tervezett tevékenység összefoglaló rövid leírása és bejelentés esetén a tevékenység tervezett megkezdésének vagy befejezésének időpontja,
 
-5.1.3. a tevékenység végzésére jogosultsággal rendelkező tervező vagy szakértő nyilatkozata, amelynek tartalma:
+5.1.3.[^476] a tevékenység elvégzésére jogosultsággal rendelkező tervező vagy szakértő nyilatkozata, amelynek tartalma:
 
 5.1.3.1. a jogosult neve és elérhetősége,
 
@@ -442,6 +442,7 @@ A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén 
 
 7.2.3. a további fenntartást biztosító kezelésre és megőrzésre vonatkozó javaslatok.
 
-[^309]: A 3. melléklet a 677/2020. (XII. 28.) Korm. rendelet 82. §-ával megállapított szöveg.
-[^310]: A 3. melléklet 1.1.3. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.
-[^311]: A 3. melléklet 5. pont nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^473]: A 3. melléklet a 677/2020. (XII. 28.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^474]: A 3. melléklet 1.1.3. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.
+[^475]: A 3. melléklet 5. pont nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^476]: A 3. melléklet 5.1.3. pontja a 142/2025. (VI. 19.) Korm. rendelet 37. § 110. pontja szerint módosított szöveg.

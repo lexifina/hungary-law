@@ -1,6 +1,4 @@
-## 30. § Megelőző feltárás esetén a régészeti feltárás elvégzésére vonatkozó általános követelményeket a 31–36. §-ban foglalt kiegészítésekkel kell alkalmazni.
-
-## 31. § Megelőző feltárás előkészítése során a beruházó köteles a feltárásra jogosult intézmény rendelkezésére bocsátani
+31. §[^163] Megelőző feltárás előkészítése során a beruházó köteles a régészeti terepmunka elvégzésére jogosult intézmény rendelkezésére bocsátani
 
 a) az érintett területek azonosításra és területszámításra alkalmas adatait,
 
@@ -14,8 +12,11 @@ e) a tereprendezésre vonatkozó adatokat,
 
 f) a kivitelezés megkezdésének tervezett időpontját,
 
-g) – a Kötv. 7. § 20. pont c) alpontja kivételével – nyilatkozatot arról, hogy a beruházás nagyberuházásnak minősül-e,
+g)[^164] nyilatkozatot arról, hogy a beruházás nagyberuházásnak minősül-e,
 
 h) nagyberuházás esetén nyilatkozatot a beruházás teljes bekerülési költségének tervezett összegéről, és
 
 i) a beruházás építési engedélyét, ha az rendelkezésre áll.
+
+[^163]: A 31. § nyitó szövegrésze a 142/2025. (VI. 19.) Korm. rendelet 37. § 59. pontja szerint módosított szöveg.
+[^164]: A 31. § g) pontja a 142/2025. (VI. 19.) Korm. rendelet 38. § 10. pontja szerint módosított szöveg.

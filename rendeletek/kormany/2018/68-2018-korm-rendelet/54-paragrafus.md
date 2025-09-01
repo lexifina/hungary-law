@@ -1,19 +1,28 @@
 ## 17. A hatóság régészeti örökséggel kapcsolatos ellenőrzési feladatai
 
-54. § (1) A régészeti feltárás ellenőrzése keretében a hatóság vizsgálja, hogy a régészeti feladatellátást a Kötv.-ben és az e rendeletben meghatározott követelményeknek és előírásoknak megfelelően végzik-e, valamint a feltárási naplóban rögzített régészeti feltárásra alkalmas és arra alkalmatlan napokat, a feltárásra alkalmatlanság indokoltságát, és eldönti az ezzel kapcsolatos vitás kérdéseket.
+54. § (1)[^240] A régészeti terepmunka ellenőrzése keretében az örökségvédelmi hatóság vizsgálja, hogy a régészeti feladatellátást a Kötv.-ben és az e rendeletben meghatározott követelményeknek és előírásoknak megfelelően végzik-e, valamint a feltárási naplóban rögzített régészeti terepmunka végzésére alkalmas és arra alkalmatlan napokat, a terepmunka végzésére alkalmatlanság indokoltságát, és eldönti az ezzel kapcsolatos vitás kérdéseket.
 
-(2) A hatóság az ellenőrzésbe bevonhatja az Ásatási Bizottságot.
+(2)[^241] Az örökségvédelmi hatóság az ellenőrzésbe bevonhatja az Ásatási Bizottságot.
 
-(3) A régészeti feltárásra vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén a hatóság a feltárást felfüggeszti, és megvizsgálja, hogy fennállnak-e a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai.
+(3)[^242] A régészeti terepmunkára vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén az örökségvédelmi hatóság a régészeti terepmunkát felfüggeszti, és megvizsgálja, hogy fennállnak-e a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai.
 
-(4) Szabálytalan feltárási tevékenység esetén, vagy ha a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai fennállnak, a hatóság a feltárást leállítja, továbbá engedélyköteles tevékenység esetén a feltárási engedélyt visszavonja.
+(4)[^243] Szabálytalan régészeti terepmunka tevékenység esetén, vagy ha a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai fennállnak, az örökségvédelmi hatóság a régészeti terepmunkát leállítja, továbbá engedélyköteles tevékenység esetén a feltárási engedélyt visszavonja.
 
-(5)[^106] A védetté nyilvánított régészeti lelőhely állapotát a hatóság a gyűjtőterületén érintett vármegyei hatókörű városi múzeum és a gyűjtőterületén érintett területi múzeum bevonásával ellenőrzi.
+(5)[^244] A miniszteri rendeletben védetté nyilvánított régészeti lelőhely állapotát az örökségvédelmi hatóság a területileg illetékes régészeti gyűjtőkörrel rendelkező múzeum bevonásával ellenőrzi.
 
 (6) Az ellenőrzés végén a 2. melléklet szerinti adatokat rögzítő jegyzőkönyvet meg kell küldeni a nyilvántartást vezető hatóságnak és az ellenőrzésbe bevont múzeumnak.
 
-(7) Az (5) bekezdés szerinti helyszíni ellenőrzést követően a Kötv. 18. § (1) bekezdése szerinti esetben a hatóság haladéktalanul kezdeményezi a régészeti védelem megszüntetését.
+(7)[^245] Az (5) bekezdés szerinti helyszíni ellenőrzést követően a Kötv. 18. § (1) bekezdése szerinti esetben az örökségvédelmi hatóság haladéktalanul kezdeményezi a régészeti védelem megszüntetését.
 
-(8) A hatóság a régészeti lelőhelyet veszélyeztető tevékenység végzését megtiltja.
+(8)[^246] Az örökségvédelmi hatóság a régészeti lelőhelyet veszélyeztető tevékenység végzését megtiltja.
 
-[^106]: Az 54. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
+(9)[^247] A (3) és (4) bekezdésben foglaltak a hadtörténeti örökség ingatlan elemének szabálytalan terepi kutatása esetén is alkalmazandóak.
+
+[^240]: Az 54. § (1) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^241]: Az 54. § (2) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 37. § 89. pontja szerint módosított szöveg.
+[^242]: Az 54. § (3) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^243]: Az 54. § (4) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^244]: Az 54. § (5) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^245]: Az 54. § (7) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^246]: Az 54. § (8) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 37. § 90. pontja szerint módosított szöveg.
+[^247]: Az 54. § (9) bekezdését a 142/2025. (VI. 19.) Korm. rendelet 28. § (4) bekezdése iktatta be.

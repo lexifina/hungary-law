@@ -1,3 +1,3 @@
-18. §[^79]
+18. §[^116]
 
-[^79]: A 18. §-t a 677/2020. (XII. 28.) Korm. rendelet 84. § 4. pontja hatályon kívül helyezte.
+[^116]: A 18. §-t a 677/2020. (XII. 28.) Korm. rendelet 84. § 4. pontja hatályon kívül helyezte.

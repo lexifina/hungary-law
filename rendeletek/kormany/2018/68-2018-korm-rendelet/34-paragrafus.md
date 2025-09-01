@@ -22,15 +22,15 @@ d) a közművezetékek terepi kijelölése megtörtént, leíró és térképes 
 
 e) a lőszer- és a tűzszerészeti vizsgálat és mentesítés megtörtént, és a lőszermentesítés minőségbiztosítási jegyzőkönyvét a feltárást végző intézménynek a beruházó átadta;
 
-f) a megelőző feltáráshoz kapcsolódóan földdepók létesítése szükséges, azok – ha lehetséges – a régészeti feltárással érintett területen kívül kijelölésre kerültek a feltárásra jogosult intézmény javaslata alapján – a feltárásra vonatkozó szerződésben meghatározott eltérő rendelkezés hiányában – oly módon, hogy azok a régészeti lelőhely esetlegesen nem ismert, a beruházás miatt a későbbiekben feltárandó részeit ne fedjék el, ugyanakkor a feltárás helyszínétől ne legyenek a szükségesnél távolabb; valamint
+f)[^171] a megelőző feltáráshoz kapcsolódóan földdepók létesítése szükséges, azok – ha lehetséges – a feltárással érintett területen kívül kijelölésre kerültek a régészeti terepmunka elvégzésére jogosult intézmény javaslata alapján – a feltárásra vonatkozó szerződésben meghatározott eltérő rendelkezés hiányában – oly módon, hogy azok a régészeti lelőhely esetlegesen nem ismert, a beruházás miatt a későbbiekben feltárandó részeit ne fedjék el, ugyanakkor a feltárás helyszínétől ne legyenek a szükségesnél távolabb; valamint
 
 g) a beruházó biztosítja a feltárandó terület megközelíthetőségét a feltárást végző intézmény számára.
 
 (4) Ha a beruházás előkészítése során a munkaterületen az emberre és környezetre veszélyt jelentő anyagok jelenlétét tárják fel, a beruházó köteles a munkaterület átadása során a felderítés minőségbiztosítási jegyzőkönyvét átadni a feltárást végző intézménynek.
 
-(5) Ha a feltárás beépített ingatlanon vagy a telekhatáron álló épülettel közvetlenül szomszédos területen – különösen történeti településmag területén – történik, a területátvételi állapotrögzítő jegyzőkönyvnek ki kell térnie a meglévő épületrészek megőrzésének szempontjaira is. Ilyen esetben a régészeti feltárási módszerek és technikák alkalmazása során figyelemmel kell lenni az építmények tartószerkezeti sajátosságaira.
+(5)[^172] Ha a feltárás beépített ingatlanon vagy a telekhatáron álló épülettel közvetlenül szomszédos területen – különösen történeti településmag területén – történik, a területátvételi állapotrögzítő jegyzőkönyvnek ki kell térnie a meglévő épületrészek megőrzésének szempontjaira is. Ilyen esetben a feltárási módszerek és technikák alkalmazása során figyelemmel kell lenni az építmények tartószerkezeti sajátosságaira.
 
-(6) A régészeti feltárást követő területátadás során felvett állapotrögzítő jegyzőkönyv tartalmazza
+(6)[^173] A megelőző feltárást követő területátadás során felvett állapotrögzítő jegyzőkönyv tartalmazza
 
 a) a régészeti lelőhely feltárt részének méretét és elhelyezkedését,
 
@@ -41,3 +41,7 @@ c) a feltárást végző intézmény nyilatkozatát a régészeti lelőhely áll
 d) az a) és b) pontban meghatározottak ábrázolását EOV-rendszerben készült digitális térképen.
 
 (7) A feltárási naplóban rögzíteni kell a területátvétel és a területátadás tényét. A területátvételi és a területátadási állapotrögzítő jegyzőkönyv a feltárási dokumentáció részét képezi.
+
+[^171]: A 34. § (3) bekezdés f) pontja a 142/2025. (VI. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^172]: A 34. § (5) bekezdése a 142/2025. (VI. 19.) Korm. rendelet 38. § 12. pontja szerint módosított szöveg.
+[^173]: A 34. § (6) bekezdés nyitó szövegrésze a 142/2025. (VI. 19.) Korm. rendelet 37. § 64. pontja szerint módosított szöveg.

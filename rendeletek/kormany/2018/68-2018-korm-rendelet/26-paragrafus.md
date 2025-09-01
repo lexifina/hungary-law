@@ -1,50 +1,39 @@
-26. § (1) A régészeti feltárásról jelentést kell készíteni, mely tartalmazza
+26. §[^150] (1) A Kötv. 20. §-a szerinti régészeti terepmunkáról jelentést kell készíteni, amely tartalmazza
 
 a) a 2. mellékletben meghatározott tartalmú lelőhely-bejelentő adatlapot,
 
 b) a szöveges ismertetést és
 
-c) a feltárás helyszínrajzát, mely tartalmazza a kutatott lelőhely ismert kiterjedésének körvonalát és a feltárt, kutatott terület zárt alakzatként ábrázolt határát a térképlapon olvashatóan feltüntetett koordinátákkal.
+c) a régészeti terepmunka által érintett terület EOV vetületű digitális vektoros formátumú helyszínrajzát, amely tartalmazza a kutatott lelőhely ismert kiterjedésének körvonalát és a feltárt, kutatott terület zárt alakzatként ábrázolt határát.
 
 (2) Az (1) bekezdés a) pontja szerinti adatlapot minden lelőhelyről külön kell kitölteni.
 
 (3) Az (1) bekezdés b) pontja szerinti szöveges ismertetés tartalmazza
 
-a) engedélyhez kötött feltárás esetén a feltárási engedély számát vagy az arra történő utalást, hogy a feltárás nem tartozik az engedélyezési körbe, országos jelentőségű védett természeti területen végzett régészeti feltárás esetén a természetvédelmi hatóság által kiadott engedély számát,
+a) engedélyhez kötött régészeti terepmunka tevékenység esetén a feltárási engedély számát vagy az arra történő utalást, hogy a régészeti terepmunka tevékenység nem tartozik az engedélyezési körbe, országos jelentőségű védett természeti területen végzett régészeti terepmunka tevékenység esetén a természetvédelmi hatóság által kiadott engedély számát,
 
-b) a lelőhely nyilvántartási azonosítóját,
+b) a régészeti terepmunka menetét, eredményeinek rövid összefoglalását,
 
-c) a feltárás menetét, a feltárás eredményeinek rövid összefoglalását,
+c) a régészeti terepmunkával érintett terület nagyságát,
 
-d) a feltárt terület nagyságát,
+d) a leletek elhelyezését,
 
-e) a leletek elhelyezését,
+e) az elvégzett régészeti terepmunka után a lelőhely állapotáról szóló adatokat,
 
-f) a lelőhely feltárás utáni állapotáról szóló adatokat,
+f) az alkalmazott módszereket, továbbá
 
-g) az alkalmazott módszereket, továbbá
+g) az előkerült leletek összefoglaló ismertetését.
 
-h) az előkerült leletek összefoglaló ismertetését.
+(4) A jelentés egy példányát a régészeti terepmunka befejezését követő harminc napon belül meg kell küldeni a nyilvántartást vezető hatóságnak, illetve az illetékes örökségvédelmi hatóságnak az Örökségvédelmi Nyilvántartási Rendszeren (a továbbiakban: ÖVNYR) keresztül.
 
-(4)[^85] A jelentés egy-egy példányát a feltárás befejezését követő harminc napon belül elektronikus úton meg kell küldeni
+(5) A jelentés további egy-egy példányát a régészeti terepmunka befejezését követő harminc napon belül elektronikus úton meg kell küldeni
 
-a) a nyilvántartást vezető hatóságnak
+a) a Magyar Nemzeti Múzeum Közgyűjteményi Központnak,
 
-b) a hatóságnak,
+b) a területileg érintett vármegyei hatókörű városi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte,
 
-c)[^86] a Magyar Nemzeti Múzeum Közgyűjteményi Központnak,
+c) a gyűjtőterületén érintett területi múzeumnak, ha a régészeti terepmunkát más régészeti terepmunka elvégzésére jogosult intézmény végezte, és
 
-d)[^87] a területileg érintett vármegyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
+d) a területi természetvédelmi hatóságnak és a működési területével érintett nemzeti park igazgatóságnak, ha a régészeti terepmunka országos jelentőségű védett természeti területen történt.
 
-e) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
-
-f) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, és
-
-g) a területi és természetvédelmi hatóságnak és a működési területével érintett nemzeti park igazgatóságnak, ha a feltárás országos jelentőségű védett természeti területen történt.
-
-(5)[^88]
-
-[^85]: A 26. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^86]: A 26. § (4) bekezdés c) pontja a 106/2024. (V. 9.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^87]: A 26. § (4) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
-[^88]: A 26. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 5. pontja hatályon kívül helyezte.
+[^150]: A 26. § a 142/2025. (VI. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
