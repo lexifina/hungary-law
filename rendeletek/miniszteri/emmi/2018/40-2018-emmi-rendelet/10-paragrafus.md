@@ -22,7 +22,13 @@ d) a településre vonatkozó integrált településfejlesztési stratégiában 
 
 e) a településrész jellege szerint külterületi lakott helyen él.
 
-(3a)[^18] A (3) bekezdésben foglalt feltételeknek a szolgáltatás igénybevételéről szóló megállapodás aláírásának időpontjában kell fennállnia, és azokat a szolgáltatás igénybevételének időtartama alatt folyamatosan fennállónak kell tekinteni.
+(3a)[^18] Ha a tanoda rendszeres igénybe vevőinek száma
+
+a) húsz és huszonnégy fő között van, a tanodát rendszeresen igénybe vevők közül legalább kettő főnek,
+
+b) több, mint huszonnégy fő, a tanodát rendszeresen igénybe vevők közül legalább három főnek
+
+középfokú iskolai tanulmányokat kell folytatnia.
 
 (4) A tanoda szolgáltatás igénybevételéről – a 12. § (1) bekezdés f)–h) pontjában foglalt szolgáltatások kivételével – a 2. melléklet szerinti adattartalmú jelenléti ívet kell vezetni.
 
@@ -30,4 +36,4 @@ e) a településrész jellege szerint külterületi lakott helyen él.
 [^15]: A 10. § (1a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (2) bekezdése iktatta be.
 [^16]: A 10. § (2a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (3) bekezdése iktatta be, szövege a 26/2025. (VII. 17.) BM rendelet 4. § c) pontja szerint módosított szöveg.
 [^17]: A 10. § (3) bekezdése a 26/2025. (VII. 17.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^18]: A 10. § (3a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (4) bekezdése iktatta be.
+[^18]: A 10. § (3a) bekezdését a 3/2021. (II. 5.) BM rendelet 3. § (4) bekezdése iktatta be, szövege a 26/2025. (VII. 17.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
