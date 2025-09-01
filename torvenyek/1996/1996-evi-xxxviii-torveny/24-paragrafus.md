@@ -1,3 +1,5 @@
 24. § (1) Sürgős esetben – különösen ha szökés veszélye áll fenn – a megkereső állam a kiadatási kérelem előterjesztése előtt is kérheti azon személy ideiglenes kiadatási letartóztatásának elrendelését, akinek kiadatása iránt megkeresést szándékozik előterjeszteni.
 
 (2) Az ideiglenes kiadatási letartóztatás iránti megkeresést a NEBEK útján is elő lehet terjeszteni. A NEBEK intézkedik a keresett személy őrizetének kiadatás céljából történő elrendelése és a Fővárosi Törvényszék elé állítása iránt. Az őrizet tartama legfeljebb hetvenkét óra lehet.
+
+(3) A megkereső állam által a Nemzetközi Bűnügyi Rendőrség Szervezete (Interpol) útján kiadatás céljából előterjesztett nemzetközi elfogatóparancsot ideiglenes kiadatási letartóztatás iránti kérelemnek kell tekinteni.

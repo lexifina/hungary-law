@@ -12,7 +12,7 @@ e) a kiadni kért személyt meghallgatja, különösen személyazonosságára, �
 
 f) tájékoztatja a kiadni kért személyt a 16. §-ban meghatározott szabályokról, a lemondás lehetőségéről, és a kiadni kért személyt erre nézve nyilatkoztatja, továbbá a kioktatást és a kiadni kért személy nyilatkozatát jegyzőkönyvben rögzíti;
 
-g)
+g) a miniszter útján kiegészítő információkat kérhet, ha megítélése szerint a megkereső állam igazságügyi hatósága által közölt tények és adatok nem elégségesek a kiadatás tárgyában történő határozathozatalhoz, amelynek megküldésére az e törvényben meghatározott határidők figyelembevételével észszerű határidőt szabhat;
 
 h) amennyiben a kiadatás feltételei fennállnak, elrendeli a kiadni kért személy kiadatási letartóztatását.
 
