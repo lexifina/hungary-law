@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-83-00-00
 | 2025-01-02 | 2010. évi CXXX. törvény | 2023-83-00-00.17 |
 | 2025-07-01 | 2025. évi LIV. törvény | 2023-83-00-00.23 |
 | 2025-07-02 | 2010. évi CXXX. törvény | 2023-83-00-00.24 |
+| 2025-09-01 | 2025. évi LIV. törvény | 2023-83-00-00.25 |
