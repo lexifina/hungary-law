@@ -2,9 +2,9 @@
 
 a)
 
-b)
+b) 21. § (3) bekezdés i) pontjában az „azonosító számát, szintjét, szakiskola esetén a szakképesítés,” szövegrész helyébe az „azonosító számát, programkövetelmény számát, szintjét, szakiskola esetén a szakképesítés programkövetelmény számát,” szöveg,
 
-c)
+c) 30/B. § (1) bekezdésében a „középiskola utolsó évfolyamán” szövegrész helyébe a „középiskolában” szöveg,
 
 d)
 
