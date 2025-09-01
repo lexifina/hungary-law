@@ -1,3 +1,3 @@
-3. melléklet a 25/2025. (VII. 16.) BM rendelethez[^38]
+3. melléklet a 25/2025. (VII. 16.) BM rendelethez[^30]
 
-[^38]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

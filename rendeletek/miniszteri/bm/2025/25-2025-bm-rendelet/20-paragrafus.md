@@ -1,5 +1,5 @@
 ## 9. Az étrend-kiegészítőkről szóló 37/2004. (IV. 26.) ESZCSM rendelet módosítása
 
-20. §[^10]
+20. §[^7]
 
-[^10]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

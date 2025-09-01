@@ -1,10 +1,9 @@
 29. § A 49/2004. (V. 21.) ESZCSM rendelet
 
-a)[^19]
+a)[^16]
 
-b)[^20]
+b) 7. §-ában a „személyekről az országos tisztifőorvos által működtetett” szövegrész helyébe a „személyekről – az iskola-egészségügyi ellátás kivételével – az országos tisztifőorvos által működtetett” szöveg
 
 lép.
 
-[^19]: A 29. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 29. § b) pontja a 44. § (2) bekezdése alapján 2025. szeptember 1-jén lép hatályba.
+[^16]: A 29. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

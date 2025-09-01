@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-25-20-0
 | --- | --- | --- |
 | 2025-07-17 | 2025-25-20-0A.1 | 25/2025. (VII. 16.) BM rendelet |
 | 2025-07-18 | 2025-25-20-0A.2 | 2010. évi CXXX. törvény |
+| 2025-09-01 | 2025-25-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
