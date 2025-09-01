@@ -8,7 +8,7 @@ a) az engedély vagy a járműokmány típusára, okmányazonosító jelére, ki
 
 b) az abban feltüntetett adatok nyilvántartásban való ellenőrzésére irányul. Az adatszolgáltatás azonban csak az adatok egyezőségének, illetve eltérésének tényét, továbbá az eltérő adat fajtájának megnevezését tartalmazza;
 
-c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, motorszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
+c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
 
 d) a járműnek a járműnyilvántartásba bejegyzett érvényes forgalmazási korlátozás tényének ellenőrzésére irányul,
 
@@ -42,7 +42,7 @@ ca) az előzetes eredetiségvizsgálat végzésének időpontja,
 
 cb) az előzetes eredetiségvizsgálatot lefolytató vizsgálóállomás megnevezése és címe,
 
-cc) az előzetes eredetiségvizsgáló által a jármű alvázszámára, motorszámára, motorkódjára, rendszámára és regisztrációs matricájára tett megállapítások,
+cc) az előzetes eredetiségvizsgáló által a jármű alvázszámára, motorkódjára, rendszámára és regisztrációs matricájára tett megállapítások,
 
 cd) az eredetiségvizsgálati képi dokumentáció,
 
