@@ -10,7 +10,7 @@ Az iskolafogászati tevékenységet ellátó fogorvos feladatai
 
 4. Elvégzi az óvodások szűrővizsgálatát az óvodában, évente legalább egyszer. A rászorulókat – egyénileg vagy csoportosan – kezelésre berendeli.
 
-5.[^32] Évente legalább egy alkalommal meglátogatja a körzetéhez tartozó nevelési- oktatási intézményeket, az intézmények igazgatóival rendszeres kapcsolatot tart.
+5.[^34] Évente legalább egy alkalommal meglátogatja a körzetéhez tartozó nevelési- oktatási intézményeket, az intézmények igazgatóival rendszeres kapcsolatot tart.
 
 6. Az iskolafogászati osztálynévsorokat és az aktuális tájékoztató nyomtatványokat a tanév elején eljuttatja az oktatási intézménybe.
 
@@ -20,4 +20,4 @@ Az iskolafogászati tevékenységet ellátó fogorvos feladatai
 
 9. Szervezi és irányítja a komplex fogászati megelőző programot.
 
-[^32]: A 4. számú melléklet 5. pontja a 44/2023. (X. 19.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^34]: A 4. számú melléklet 5. pontja a 44/2023. (X. 19.) BM rendelet 1. § b) pontja szerint módosított szöveg.

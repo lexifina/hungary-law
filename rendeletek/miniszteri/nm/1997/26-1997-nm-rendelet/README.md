@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-26-20-3
 | 2021-11-01 | 1997-26-20-3D.15 | 46/2021. (X. 29.) EMMI rendelet |
 | 2023-01-01 | 1997-26-20-3D.16 | 11/1999. (V. 14.) EüM rendelet |
 | 2023-10-22 | 1997-26-20-3D.17 | 44/2023. (X. 19.) BM rendelet |
+| 2025-09-01 | 1997-26-20-3D.18 | 25/2025. (VII. 16.) BM rendelet |
