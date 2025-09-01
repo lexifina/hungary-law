@@ -94,3 +94,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2025-04-05 | 1993-9-20-3D.152 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2025-05-01 | 1993-9-20-3D.153 | 10/2025. (IV. 4.) BM rendelet |
 | 2025-08-01 | 1993-9-20-3D.154 | 3/2004. (I. 15.) ESZCSM rendelet |
+| 2025-09-01 | 1993-9-20-3D.155 | 33/2025. (VIII. 13.) BM rendelet |
