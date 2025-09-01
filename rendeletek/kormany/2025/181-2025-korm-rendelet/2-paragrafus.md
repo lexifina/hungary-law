@@ -1,10 +1,10 @@
 2. § A Vhr.
 
-a)[^4]
+a)[^3]
 
-b)[^5]
+b)[^4]
 
 lép.
 
-[^4]: A 2. § a) pontja a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^5]: A 2. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § a) pontja a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^4]: A 2. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
