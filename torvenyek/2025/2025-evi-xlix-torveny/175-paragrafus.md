@@ -1,1 +1,3 @@
-### 175. §
+175. § A Be. 45. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt mind az általa, mind az (1) bekezdésben meghatározott segítő által meghatalmazott védő meghatalmazását bármikor visszavonhatja. Amennyiben a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a terhelt az eljárási cselekmény napján vagy az azt megelőző nyolc napon belül, a büntetőeljárás ugyanazon szakaszában ismételten vonja vissza a védő meghatalmazását, a bíróság, az ügyészség vagy a nyomozó hatóság hivatalból haladéktalanul védőt rendel ki.”

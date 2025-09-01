@@ -1,1 +1,3 @@
-### 52. §
+52. § Az Ást. 20. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az e törvény szerint a tizennyolcadik életévét be nem töltött személy részére nyújtható támogatások esetében nem járhat el a jogosult törvényes képviselője a hozzájáruláshoz kötött cselekményeknél, amennyiben a törvényes képviselőt a bűncselekménnyel érintett büntetőeljárásból kizárták. A kizárással nem érintett törvényes képviselő a hozzájáruláshoz kötött cselekményeknél továbbra is eljárhat. Amennyiben kizárással nem érintett törvényes képviselő nincs, a hozzájáruláshoz kötött cselekményeknél a kiskorú érdekeinek képviseletére kijelölt személy járhat el.”

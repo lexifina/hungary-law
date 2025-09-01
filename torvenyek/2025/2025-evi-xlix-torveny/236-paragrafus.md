@@ -1,22 +1,22 @@
 236. § Hatályát veszti a Be.
 
-a)
+a) 335. § (5) bekezdésében a „külön” szövegrész,
 
 b)
 
-c)
+c) 518. § (4) bekezdése,
 
-d)
+d) 633. § (5) bekezdésében a „vagy felolvashatja” szövegrész,
 
-e)
+e) 633. § (6) bekezdésében az „vagy felolvasható” szövegrész,
 
-f)
+f) 633. § (8) bekezdésében az „vagy felolvasását,” szövegrész,
 
-g)
+g) 655. § (2) bekezdése,
 
-h)
+h) 734. § (1) bekezdés a) pontja,
 
-i)
+i) 736. § (6) bekezdésében a „ , tárgyalás alapján” szövegrész,
 
 j)
 
