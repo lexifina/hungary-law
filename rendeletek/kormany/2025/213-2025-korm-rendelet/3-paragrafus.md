@@ -1,0 +1,5 @@
+3. § (1) A fenntartó a kiegészítő támogatást a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Vhr.) 37/C. § (1) bekezdésétől eltérően havonta, az adott hónap átlaglétszáma alapján, az egyéni felkészítést követő hónap ötödik napjáig igényelheti, azzal, hogy a november, december hónapra vonatkozó támogatási igényt november 5. napjáig, az októberi ténylétszámmal együtt, a novemberi és decemberi becsült létszám alapján kell benyújtania a Magyar Államkincstár fenntartó székhelye szerint illetékes vármegyei igazgatóságához (a továbbiakban: igazgatóság). A fenntartó a kérelem benyújtásakor igazolja, hogy az általa fenntartott köznevelési intézménnyel a tanuló jogviszonyban áll.
+
+(2) A kiegészítő támogatás iránti igény elbírálásának ügyintézési határideje 10 nap. Az igazgatóság a kérelemnek jogszerű hallgatással is helyt adhat.
+
+(3) A fenntartót megillető kiegészítő támogatást havonta, utólag, az igénylés hónapját követő hónap hetedik napjáig kell folyósítani. Az október, november és december havi támogatásokat egy összegben, december hónapban kell folyósítani.
