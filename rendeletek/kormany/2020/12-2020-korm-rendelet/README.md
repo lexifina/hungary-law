@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-12-20-2
 | 2025-07-25 | 2020-12-20-22.37 | 225/2025. (VII. 24.) Korm. rendelet |
 | 2025-08-08 | 2020-12-20-22.39 | 251/2025. (VIII. 7.) Korm. rendelet |
 | 2025-09-01 | 2020-12-20-22.33 | 84/2025. (IV. 22.) Korm. rendelet |
+| 2025-09-02 | 2020-12-20-22.38 | 84/2025. (IV. 22.) Korm. rendelet |

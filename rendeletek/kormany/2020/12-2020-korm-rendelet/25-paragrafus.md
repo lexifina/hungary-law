@@ -48,7 +48,7 @@ lehet.
 
 (4)[^75] Az (1) bekezdés 3–5. és 7–9. pontja szerinti nyomtatványt a szakképző intézmény a tanulmányi rendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
 
-(5)[^76] Az (1) bekezdés 3–9. pontja és a (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a tanulmányi rendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
+(5)[^76] Az (1) bekezdés 3–10. pontja és a (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a tanulmányi rendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
 
 (6)[^77] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelye településének nevét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
 
@@ -59,5 +59,5 @@ lehet.
 [^73]: A 25. § (1) bekezdés 10. pontját a 225/2025. (VII. 24.) Korm. rendelet 23. §-a iktatta be.
 [^74]: A 25. § (2) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
 [^75]: A 25. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 19. pontja, a 84/2025. (IV. 22.) Korm. rendelet 58. § 3. pontja szerint módosított szöveg.
-[^76]: A 25. § (5) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 58. § 4. és 5. pontja szerint módosított szöveg.
+[^76]: A 25. § (5) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 58. § 4. és 5. pontja, a 225/2025. (VII. 24.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
 [^77]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
