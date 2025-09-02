@@ -1,3 +1,3 @@
-16. § A 227/2025. (VII. 31.) Korm. rendelet 9. § (5) bekezdése a következő c) ponttal egészül ki:
+16. §[^15]
 
-[Nem minősül az (1) bekezdés szerinti elidegenítési és terhelési tilalom megszegésének, ha]
+[^15]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

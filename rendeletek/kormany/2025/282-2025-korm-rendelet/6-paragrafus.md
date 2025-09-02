@@ -1,5 +1,5 @@
 ## 3. A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet módosítása
 
-6. § A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet [a továbbiakban: 518/2023. (XI. 30.) Korm. rendelet] 2. § (2) bekezdése a következő c) ponttal egészül ki:
+6. §[^5]
 
-(A kölcsön a lakás)
+[^5]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

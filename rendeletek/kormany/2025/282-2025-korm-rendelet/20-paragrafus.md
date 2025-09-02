@@ -1,7 +1,3 @@
-20. § A 227/2025. (VII. 31.) Korm. rendelet
+20. §[^19]
 
-a) 9. § (5) bekezdés a) pontjában a „szerez, vagy” szövegrész helyébe a „szerez,” szöveg,
-
-b) 9. § (5) bekezdés b) pontjában az „alapítanak.” szövegrész helyébe az „alapítanak, vagy” szöveg
-
-lép.
+[^19]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
