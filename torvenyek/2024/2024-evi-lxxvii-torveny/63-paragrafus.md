@@ -1,9 +1,1 @@
-63. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 57. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az óvodai és iskolai nyomtatványok – az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – a tanulmányi rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton készülnek el. Az állami vizsga teljesítéséről szóló bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában és meg kell őrizni. A 7. § (1) bekezdés a)–j) pontjában meghatározott köznevelési intézmények rendeltetésszerű működésük során a köznevelésért felelős miniszter által jóváhagyott, az állam által díjmentesen biztosított tanulmányi rendszert kötelesek használni.”
-
-(2) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 57. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
-
-„(6a) Az iskolai bizonyítvány az iskola igazgatójának elektronikus aláírásával ellátott digitális biztonsági okmány formájában kerül kiállításra. A digitális biztonsági formában kiállított bizonyítvány közokiratnak minősül. A digitális bizonyítványt a tanulmányi rendszerben – miniszteri rendeletben meghatározott ideig – kell megőrizni azzal, hogy a hosszú távú megőrzéséről is gondoskodni kell.
-
-(6b) A tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványról kizárólag az arra jogosult tanuló vagy a tanuló szülőjének – a tanulmányi rendszeren keresztül is előterjeszthető – kérelemére hiteles papír alapú másolatot (a továbbiakban: díszpéldány) kell kiállítani. A díszpéldányon fel kell tüntetni a tanulmányi rendszer által generált és nyilvántartott egyedi azonosítót és azt, hogy a papír alapú hiteles másolat a digitális bizonyítvány hiteles másolata. A papír alapú hiteles másolatot eredeti aláírásával hitelesítenie kell a kiállítónak és az intézmény igazgatójának, továbbá a díszpéldányt az intézmény hivatalos körbélyegzőjével el kell látni. A díszpéldány első példánya ingyenes, a második példányért kormányrendeletben meghatározott térítési díjat kell fizetni.”
+### 63. §
