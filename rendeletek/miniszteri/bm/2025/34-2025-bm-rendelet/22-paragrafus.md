@@ -1,1 +1,3 @@
-22. § Hatályát veszti az R3. 5. § (5) bekezdésében a „Ha az értékelendő személy a teljesítményértékelésével kapcsolatban észrevételt tesz, az észrevételeit a teljesítményértékelésnek tartalmaznia kell.” szövegrész.
+22. §[^22]
+
+[^22]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
