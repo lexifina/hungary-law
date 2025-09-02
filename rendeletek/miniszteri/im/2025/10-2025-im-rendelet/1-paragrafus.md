@@ -6,30 +6,6 @@
 
 ## [4] A közjegyzőkről szóló 1991. évi XLI. törvény 183. § e) és m) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 10. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„10. § Két- vagy többoldalú jogügylet esetén az ügyértékhez igazodó munkadíj összege:
-
-a) 500 000 Ft-ot meg nem haladó ügyérték esetén 20 000 Ft
-
-b) 500 000 Ft feletti, de 5 000 000 Ft-ot meg nem haladó ügyérték esetén 20 000 Ft
-
-és az 500 000 Ft feletti ügyértékrész 1%-a;
-
-c) 5 000 000 Ft feletti, de 10 000 000 Ft-ot meg nem haladó ügyérték esetén 65 000 Ft
-
-és az 5 000 000 Ft feletti ügyértékrész 0,5%-a;
-
-d) 10 000 000 Ft feletti, de 200 000 000 Ft-ot meg nem haladó ügyérték esetén 90 000 Ft
-
-és a 10 000 000 Ft feletti ügyértékrész 0,25%-a;
-
-e) 200 000 000 Ft feletti, de 500 000 000 Ft-ot meg nem haladó ügyérték esetén 565 000 Ft
-
-és a 200 000 000 Ft feletti ügyértékrész 0,2%-a;
-
-f) 500 000 000 Ft feletti ügyérték esetén 1 165 000 Ft
-
-és az 500 000 000 Ft feletti ügyértékrész 0,1%-a;
-
-de legfeljebb 1 000 000 000 Ft ügyérték alapján járó munkadíjat kell felszámítani.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
