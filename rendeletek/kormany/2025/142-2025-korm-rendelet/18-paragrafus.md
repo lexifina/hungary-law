@@ -1,3 +1,3 @@
-18. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 41. § (3) bekezdése helyébe a következő rendelkezés lép:
+18. §[^18]
 
-„(3) A régészeti feladatellátás során felmerülő szakmai kérdésekben az örökségvédelmi hatóság kérheti a kijelölt örökségvédelmi szerv szakértői véleményét.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

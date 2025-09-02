@@ -1,3 +1,3 @@
-3. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 3/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(1) A hadtörténeti és régészeti örökség, illetve a műemléki érték védelmével kapcsolatos örökségvédelmi hatósági eljárásokban a kérelem és bejelentés elektronikus úton történő benyújtásához, a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását támogató dokumentációs rendszer (a továbbiakban: ÉTDR) a kérelmező részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

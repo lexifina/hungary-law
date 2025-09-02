@@ -1,5 +1,3 @@
-5. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet II. Fejezet címe helyébe a következő fejezetcím lép:
+5. §[^5]
 
-„II. Fejezet
-
-A RÉGÉSZETI LELŐHELY, A HADTÖRTÉNETI ÖRÖKSÉG INGATLAN ELEMEI ÉS A MŰEMLÉKI ÉRTÉK NYILVÁNTARTÁSBA VÉTELE, VALAMINT A NYILVÁNTARTOTT RÉGÉSZETI LELŐHELY ÉS A NYILVÁNTARTOTT MŰEMLÉKI ÉRTÉK VÉDETTÉ NYILVÁNÍTÁSA”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

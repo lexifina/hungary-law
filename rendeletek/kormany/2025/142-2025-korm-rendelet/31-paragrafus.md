@@ -1,5 +1,3 @@
-31. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 87. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+31. §[^31]
 
-„(1) A szakhatóságként eljáró vagy örökségvédelmi szakkérdést vizsgáló hatóság a hadtörténeti örökség ingatlan elemét, nyilvántartott régészeti lelőhelyet, a régészeti védőövezetet, a nyilvántartott műemléki értéket, a műemléket, a műemléki környezetet, a műemléki jelentőségű területet, a történeti tájat és világörökségi helyszínt vagy világörökségi területet érintő ügyben a 88. és 89. §-ban meghatározott szempontok alapján vizsgálja, hogy a tervezett tevékenység megfelel-e a Kötv.-ben és az e rendeletben meghatározott követelményeknek.
-
-(2) Az örökségvédelmi hatóság szakhatóságként vagy szakkérdés vizsgálata során a hadtörténeti örökség ingatlan elemét, nyilvántartott régészeti lelőhelyet, a régészeti védőövezetet, a nyilvántartott műemléki értéket, a műemléket, a műemléki környezetet, a műemléki jelentőségű területet, a történeti tájat és világörökségi helyszínt vagy világörökségi területet érintő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére kiadott előzetes szakhatósági állásfoglalása a kibocsátásától számított hat hónapig használható fel.”
+[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

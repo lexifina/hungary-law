@@ -1,3 +1,3 @@
-19. § A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 42. §-a helyébe a következő rendelkezés lép:
+19. §[^19]
 
-„42. § Ha a Kötv. 23/E. § (4) bekezdése szerint a megelőző feltárásra vonatkozó szerződést a régészeti terepmunka elvégzésére jogosult intézmény nem köti meg, a kijelölt örökségvédelmi szerv további tíz napon belül szerződést köt a beruházóval.”
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
