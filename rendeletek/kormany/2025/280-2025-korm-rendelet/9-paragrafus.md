@@ -1,3 +1,3 @@
-9. § A Vet. Vhr. 47. § (3) bekezdése a következő f) és g) ponttal egészül ki:
+9. §[^9]
 
-(Az Elosztói Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
