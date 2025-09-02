@@ -1,5 +1,5 @@
-## 3.[^8]
+## 3.[^9]
 
 5. §
 
-[^8]: A 3. alcím a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^9]: A 3. alcím a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.

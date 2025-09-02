@@ -26,23 +26,8 @@
 
 (2)[^2]
 
-(3) A Vhr. a következő 10/A. alcímmel egészül ki:
-
-„10/A. A végső menedékes bevallási közreműködő
-
-19/A. § (1) A végső menedékes bevallási közreműködőre a bevallási közreműködőre vonatkozó rendelkezéseket az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
-
-(2) A végső menedékes bevallási közreműködő a szerződött díjfizető számára, annak kérelmére, szerződéses ajánlatot tesz az általa nyújtott bevallási közreműködői szolgáltatás igénybevételére.
-
-(3) A 18. §-t a végső menedékes bevallási közreműködő tekintetében nem kell alkalmazni.
-
-(4) Az útdíjszolgáltató és a végső menedékes bevallási közreműködő a bevallási közreműködői tevékenység ellátása érdekében szerződést köt, amely kötelezően tartalmazza
-
-a) a bevallási közreműködővel szemben támasztott műszaki és személyi követelményeket,
-
-b) az útdíj megállapításával összefüggő földrajzi és egyéb – a bevallási közreműködői tevékenység ellátásához szükséges – adatokat,
-
-c) az útdíjköteles elemi útszakaszok használatára vonatkozó úthasználói adatok közlésére szolgáló formátumot, ezek megküldésének idejét és rendszerességét, az adatok pontosságára irányadó követelményeket, a hiányzó vagy hibás útdíjak százalékban kifejezett befogadási arányát, az operatív rendelkezésre állás teljesítményét.”
+(3)[^3]
 
 [^1]: Az 1. § (1) bekezdése a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
 [^2]: Az 1. § (2) bekezdése a 8. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^3]: Az 1. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
