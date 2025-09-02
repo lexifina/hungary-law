@@ -1,5 +1,1 @@
-48. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. alcíme a következő 6/H és 6/I. §-sal egészül ki:
-
-„6/H. § A 3. mellékletben foglalt táblázat 71. és 72. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a tulajdonosi joggyakorló köti meg az Egyetemmel.
-
-6/I. § A Tormay Károly Egészségügyi Központ Gödöllő európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Tormay Károly Egészségügyi Központ Gödöllő jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
+### 48. §
