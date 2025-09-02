@@ -68,6 +68,6 @@
 
 ## 1. Az iskola-egészségügyi ellátásról szóló 26/1997. (IX. 3.) NM rendelet módosítása
 
-1. § Az iskola-egészségügyi ellátásról szóló 26/1997. (IX. 3.) NM rendelet [a továbbiakban: 26/1997. (IX. 3.) NM rendelet] a következő 3/A. §-sal egészül ki:
+1. §[^1]
 
-„3/A. § Az iskola-egészségügyi ellátást végző iskolaorvos és védőnő az általuk gondozott személyekkel kapcsolatos feladatairól a dokumentációt a nemzeti köznevelésről szóló 2011. évi CXC. törvény és a szakképzésről szóló 2019. évi LXXX. törvény szerinti tanulmányi rendszer Iskola Egészségügyi Rendszermodulban vezeti.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

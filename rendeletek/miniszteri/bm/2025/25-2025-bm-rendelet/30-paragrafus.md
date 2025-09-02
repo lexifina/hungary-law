@@ -1,5 +1,5 @@
 ## 12. Az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírásokról, valamint ezek egyes technikai követelményeiről szóló 3/2005. (II. 10.) EüM rendelet módosítása
 
-30. § Az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírásokról, valamint ezek egyes technikai követelményeiről szóló 3/2005. (II. 10.) EüM rendelet [a továbbiakban: 3/2005. (II. 10.) EüM rendelet] 4. §-a a következő (2b) bekezdéssel egészül ki:
+30. §[^30]
 
-„(2b) A (2a) bekezdése szerinti plazmaferezis állomás az OVSZ által működtetett Nemzeti Keresztdonációs és Donorkizárási Regiszterben (a továbbiakban: Donor Regiszter) történő lekérdezéseinek arányában köteles megfizetni az OVSZ üzemeltetési önköltségének rá eső hányadát. A Donor Regiszter használatával kapcsolatos lekérdezésenkénti egységár 15 Ft+ÁFA. A Donor Regiszterhez történő csatlakozás módját és a rendszerhasználati díj megfizetésének szabályait a (2a) bekezdés szerinti együttműködési megállapodás tartalmazza.”
+[^30]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

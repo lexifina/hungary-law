@@ -1,1 +1,3 @@
-31. § Az 3/2005. (II. 10.) EüM rendelet 4. § (2) bekezdésében a „minőségügyi és donorbiztonsági előírásokat” szövegrész helyébe a „minőségügyi, donorbiztonsági és donor-megbecsülési előírásokat” szöveg lép.
+31. §[^31]
+
+[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

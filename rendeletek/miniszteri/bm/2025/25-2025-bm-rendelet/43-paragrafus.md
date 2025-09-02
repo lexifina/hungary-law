@@ -1,7 +1,3 @@
-43. § A 39/2016. (XII. 21.) EMMI rendelet
+43. §[^45]
 
-a) 1. melléklet A:23 mezőjében a „2. melléklet 3. és 4. pontja szerinti” szövegrész helyébe a „2. számú melléklet 1. pont a) alpontja – az óvodás korú gyermek vizsgálata kivételével –, 2. pont a) alpontja, 3. pont a) alpontja és 4. pontja szerinti” szöveg,
-
-b) 1. melléklet A:24 mezőjében a „2. melléklet 3. és 4. pontja szerinti” szövegrész helyébe a „2. számú melléklet 1. pont a) alpontja – az óvodás korú gyermek vizsgálata kivételével –, 2. pont a) alpontja, 3. pont a) alpontja és 4. pontja szerinti” szöveg
-
-lép.
+[^45]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

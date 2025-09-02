@@ -1,1 +1,3 @@
-15. § Hatályát veszti a 19/1998. (VI. 3.) NM rendelet 2–4. számú melléklete.
+15. §[^15]
+
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
