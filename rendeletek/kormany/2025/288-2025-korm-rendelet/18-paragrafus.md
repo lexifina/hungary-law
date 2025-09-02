@@ -1,1 +1,3 @@
-18. § Hatályát veszti az R3. 35/B. § (2) bekezdés b) pontjában és 35/B. § (3) bekezdés d) pontjában a „vagy” szövegrész.
+18. §[^9]
+
+[^9]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

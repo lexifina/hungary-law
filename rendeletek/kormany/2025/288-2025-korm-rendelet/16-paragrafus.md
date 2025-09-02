@@ -1,7 +1,3 @@
-## „f) a (2) bekezdés d) pontja szerinti esetben a külképviseleti biztonsági tevékenység ellátása során”
+16. §[^7]
 
-## (használható.)
-
-16. § Az R3. 38. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A lőfegyvert, gáz- és riasztófegyvert tartó személy)
+[^7]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
