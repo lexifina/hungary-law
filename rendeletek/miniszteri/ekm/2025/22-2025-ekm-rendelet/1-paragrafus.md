@@ -12,4 +12,6 @@
 
 ## 1. Az útdíjszedő által az útdíjszolgáltatóknak, valamint az egyetemes útdíjszolgáltató által a bevallási közreműködők és a viszonteladók részére fizetendő átalány-költségtérítés számításáról és mértékéről szóló 29/2013. (VI. 12.) NFM rendelet módosítása
 
-1. § Az útdíjszedő által az útdíjszolgáltatóknak, valamint az egyetemes útdíjszolgáltató által a bevallási közreműködők és a viszonteladók részére fizetendő átalány-költségtérítés számításáról és mértékéről szóló 29/2013. (VI. 12.) NFM rendelet 2. § (2) bekezdésében a „2%-a” szövegrész helyébe az „1,7%-a” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
