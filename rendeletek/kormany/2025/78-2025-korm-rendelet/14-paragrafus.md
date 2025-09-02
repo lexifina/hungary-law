@@ -1,5 +1,3 @@
-14. § Hatályát veszti a NAV Korm. rendelet
+14. §[^14]
 
-a) 22. § (1) bekezdésében az „ , illetve a KAVIG is” szövegrész,
-
-b) 22. § (1b) bekezdésében az „ , illetve a KAVIG is” szövegrész.
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
