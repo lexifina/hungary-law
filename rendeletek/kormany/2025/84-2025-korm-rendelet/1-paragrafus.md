@@ -24,6 +24,6 @@
 
 ## 1. A felsőoktatási minőségértékelés és -fejlesztés egyes kérdéseiről szóló 19/2012. (II. 22.) Korm. rendelet módosítása
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-47. § Az Szkr. 39. §-a helyébe a következő rendelkezés lép:
+47. §[^48]
 
-„39. § Ha a bizonyítvány, az oklevél, illetve a szakmai bizonyítvány eredeti kiállítója jogutód nélkül megszűnt, akadályoztatva van, vagy egyébként nem lelhető fel, a javított bizonyítványt, oklevelet, illetve szakmai bizonyítványt és Europass-kiegészítőt, valamint a díszpéldányt, az oklevélmásodlatot, illetve a szakmai bizonyítványmásodlatot és az Europasskiegészítő-másodlatot a szakképzési államigazgatási szerv állítja ki. A díszpéldány második és minden további példánya, a javított bizonyítvány, oklevél, illetve szakmai bizonyítvány kiállításáért, az oklevélmásodlatért, illetve a szakmai bizonyítványmásodlatért és az Europasskiegészítő-másodlatért a 6. mellékletben meghatározott térítési díjat kell fizetni.”
+[^48]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

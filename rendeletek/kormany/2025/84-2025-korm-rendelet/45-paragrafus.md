@@ -1,7 +1,3 @@
-## „e) az igazolást az igazgató írja alá, valamint
+45. §[^46]
 
-## f) az igazolás, valamint az igazolás kiállításának alapjául szolgáló nyomtatvány közokirat.”
-
-45. § Az Szkr. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az osztályfőnök vezeti a naplót, a törzslapot, és előállítja a bizonyítványt a tanulmányi rendszerben.”
+[^46]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

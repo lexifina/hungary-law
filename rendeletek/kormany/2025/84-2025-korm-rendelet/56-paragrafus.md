@@ -1,3 +1,3 @@
-56. § Az Szkr. 356. §-a a következő (3) bekezdéssel egészül ki:
+56. §[^57]
 
-„(3) A megsemmisült vagy elveszett törzslapra, a nyomdai úton előállított bizonyítványokra, a bizonyítványmásodlatra, valamint a pótbizonyítványra a 25–26. §, a 28. §, a 31/A–32. §, a 36. § (1)–(2a) bekezdésének, (4) bekezdés b)–c) pontjának, (5) és (6) bekezdésének, a 37. § (1) és (3) bekezdésének, a 39. §, a 180. § (9) bekezdésének, a 190. § (3) bekezdésének, a 191. § (2) és (3) bekezdésének, a 193. §, a 356. § (2) bekezdésének, valamint a 2. melléklet I. táblázatának, a 4. melléklet és a 6. melléklet 2025. augusztus 31-én hatályos rendelkezéseit kell alkalmazni.”
+[^57]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
