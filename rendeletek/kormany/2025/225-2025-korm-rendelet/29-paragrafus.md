@@ -1,6 +1,5 @@
-29. § (1)[^28]
+29. § (1)[^29]
 
-(2)[^29]
+(2) Az Szkr. 4. melléklete a 3. melléklet szerint módosul.
 
-[^28]: A 29. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 29. § (2) bekezdése a 32. § (4) bekezdése alapján 2025. szeptember 2-án lép hatályba.
+[^29]: A 29. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

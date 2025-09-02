@@ -1,16 +1,15 @@
 30. § Az Szkr.
 
-a)[^30]
+a) 25. § (5) bekezdésében az „Az (1) bekezdés 3–9. pontja” szövegrész helyébe az „Az (1) bekezdés 3–10. pontja” szöveg,
 
-b)[^31]
+b)[^30]
 
-c)[^32]
+c)[^31]
 
-d)[^33]
+d)[^32]
 
 lép.
 
-[^30]: A 30. § a) pontja a 32. § (4) bekezdése alapján 2025. szeptember 2-án lép hatályba.
-[^31]: A 30. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 30. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 30. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 30. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 30. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 30. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
