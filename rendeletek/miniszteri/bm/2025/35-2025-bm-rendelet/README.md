@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-35-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-09-01 | 2025-35-20-0A.1 | 35/2025. (VIII. 28.) BM rendelet |
+| 2025-09-02 | 2025-35-20-0A.2 | 2010. évi CXXX. törvény |

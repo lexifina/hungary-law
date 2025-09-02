@@ -1,5 +1,3 @@
-23. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 85. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+23. §[^1]
 
-„(1a) A Hszt. 198. § (1a) bekezdése szerinti vizsgálat során a fegyelmi jogkör gyakorlója beszerzi az alapellátó orvos állásfoglalását arról, hogy a hivatásos állomány tagjának egészségi állapota ténylegesen akadályozza-e őt a védekezésének előterjesztésében. Az állásfoglalás köti a fegyelmi jogkör gyakorlóját.
-
-(1b) Az egészségi állapotra tekintettel a hivatásos állomány tagja által kérelmezett felfüggesztés elbírálásáról a rendvédelmi alapellátó orvos döntését magába foglaló határozatban kell rendelkezni. A hivatásos állomány tagja által kérelmezett felfüggesztés elbírálásáról szóló határozatban tájékoztatni kell a hivatásos állomány tagját arról, hogy a döntés ellen önálló jogorvoslatnak helye nincs, a döntés jogszerűsége a fegyelmi ügyben hozott érdemi határozattal szemben a Hszt. 214. § (1) bekezdése szerint benyújtott keresetben kifogásolható.”
+[^1]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

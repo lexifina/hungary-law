@@ -1,3 +1,3 @@
-24. §[^1]
+24. §[^2]
 
-[^1]: A 24. § a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.
+[^2]: A 24. § a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.

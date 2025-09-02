@@ -1,12 +1,13 @@
 25. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet
 
-a) 46/D. § (1) bekezdés nyitó szövegrészében az „alapellátó orvos” szövegrész helyébe az „Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásról szóló 43/2022. (XII. 19.) BM rendelet szerinti rendvédelmi alapellátó orvos (a továbbiakban: alapellátó orvos)” szöveg,
+a)[^3]
 
-b)[^2]
+b)[^4]
 
-c)[^3]
+c)[^5]
 
 lép.
 
-[^2]: A 25. § b) pontja a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.
-[^3]: A 25. § c) pontja a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.
+[^3]: A 25. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 25. § b) pontja a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.
+[^5]: A 25. § c) pontja a 21. § (2) bekezdése alapján 2026. április 1-jén lép hatályba.

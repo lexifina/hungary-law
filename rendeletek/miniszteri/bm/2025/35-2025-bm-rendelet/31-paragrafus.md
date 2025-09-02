@@ -1,1 +1,3 @@
-31. § Hatályát veszti az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 148. § (7) bekezdése.
+31. §[^11]
+
+[^11]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
