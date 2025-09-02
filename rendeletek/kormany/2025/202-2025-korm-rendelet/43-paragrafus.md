@@ -1,3 +1,3 @@
-43. § A 373/2022. (IX. 30.) Korm. rendelet 115. § (2) bekezdése helyébe a következő rendelkezés lép:
+43. §[^43]
 
-„(2) Az (1) bekezdés szerinti utóellenőrzésre a 30. alcímet kell alkalmazni.”
+[^43]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

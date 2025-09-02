@@ -1,3 +1,3 @@
-18. § A 256/2021. (V. 18.) Korm. rendelet 195/A. §-a a következő (4) bekezdéssel egészül ki:
+18. §[^18]
 
-„(4) Ha a közbeszerzést olyan program finanszírozza, amelyet nem az NFK szervezeti egységeként működő irányító hatóság hajt végre, az (1)–(3) bekezdés szerinti ellenőrzéshez kapcsolódó feladatokat az irányító hatóság látja el.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
