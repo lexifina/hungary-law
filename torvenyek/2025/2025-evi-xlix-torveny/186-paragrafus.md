@@ -1,3 +1,1 @@
-186. § A Be. „Az elektronikus adat ideiglenes eltávolítása” alcíme a következő 336/A. §-sal egészül ki:
-
-„336/A. § Az elektronikus adat ideiglenes eltávolításáról szóló határozat hatálya kiterjed minden olyan adatra, amely azonos az elektronikus adat ideiglenes eltávolításáról szóló határozatban szereplő adattal (e § alkalmazásában a továbbiakban: érintett elektronikus adat másolata). Az érintett elektronikus adat másolatának ideiglenes hozzáférhetetlenné tételéről újabb határozat meghozatala nem szükséges. A bíróság, az ügyészség vagy a nyomozó hatóság a vagyoni érdekelt indítványára határoz arról, hogy az érintett elektronikus adat másolata az elektronikus adat ideiglenes hozzáférhetetlenné tételéről hozott határozat hatálya alá tartozik-e.”
+### 186. §
