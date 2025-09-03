@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) és j) pontja, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 13. § (1) bekezdése alapján – a külgazdasági és külügyminiszter előterjesztésére – Nyirati Katalin részére rendkívüli és meghatalmazott nagyköveti rangot adományozok, és megbízom Magyarország nairobi nagykövetségének a vezetésével, valamint Magyarországnak az Ugandai Köztársaságban, a Tanzániai Egyesült Köztársaságban, a Szomáli Szövetségi Köztársaságban, a Ruandai Köztársaságban, a Seychelle Köztársaságban, a Burundi Köztársaságban, a Comore-szigeteki Unióban és a Kongói Demokratikus Köztársaságban való képviseletével.
+
+SP ügyszám: SP/1497-2/2025
