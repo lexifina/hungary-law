@@ -1,13 +1,3 @@
-3. melléklet a 225/2025. (VII. 24.) Korm. rendelethez
+3. melléklet a 225/2025. (VII. 24.) Korm. rendelethez[^34]
 
-Az Szkr. 4. mellékletében foglalt táblázat a következő 30a. sorral egészül ki:
-
-|  | [A | B | C |
-
-| 1 | Irattári tételszám | Ügykör megnevezése | Őrzési idő (év)] |
-
-„
-
-| 30a. | B.29. | Mikrotanúsítvány | nem selejtezhető |
-
-”
+[^34]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
