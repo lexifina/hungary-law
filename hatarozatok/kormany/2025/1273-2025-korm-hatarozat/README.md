@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1273-30
 | --- | --- | --- |
 | 2025-07-24 | 2025-1273-30-22.1 | 1273/2025. (VII. 24.) Korm. határozat |
 | 2025-07-25 | 2025-1273-30-22.2 | 2010. évi CXXX. törvény |
+| 2025-09-03 | 2025-1273-30-22.3 | 1325/2025. (IX. 3.) Korm. határozat |
