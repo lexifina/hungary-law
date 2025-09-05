@@ -2,17 +2,17 @@
 
 17. § (1) A (2) bekezdés kivételével az 1. § (2) bekezdés a) pontjában meghatározott eljárásért
 
-a)[^25] 1–5 ingatlan esetén ingatlanonként 16 000 forint,
+a)[^32] 1–5 ingatlan esetén ingatlanonként 16 000 forint,
 
-b)[^26] 6–15 ingatlan esetén 80 000 forint, valamit a hatodik ingatlantól ingatlanonként további 8000 forint,
+b)[^33] 6–15 ingatlan esetén 80 000 forint, valamit a hatodik ingatlantól ingatlanonként további 8000 forint,
 
-c)[^27] 16 vagy több ingatlan esetén 160 000 forint, valamint a tizenhatodik ingatlantól ingatlanonként további 800 forint
+c)[^34] 16 vagy több ingatlan esetén 160 000 forint, valamint a tizenhatodik ingatlantól ingatlanonként további 800 forint
 
 összegű igazgatási szolgáltatási díjat kell fizetni.
 
-(2)[^28] A 7. § (7) bekezdésében meghatározott eljárás soron kívül történő lefolytatásának engedélyezése tárgyában folytatott eljárásért 16 000 forint igazgatási szolgáltatási díjat kell fizetni.
+(2)[^35] A 7. § (7) bekezdésében meghatározott eljárás soron kívül történő lefolytatásának engedélyezése tárgyában folytatott eljárásért 16 000 forint igazgatási szolgáltatási díjat kell fizetni.
 
-[^25]: A 17. § (1) bekezdés a) pontja a 6/2024. (VI. 28.) KTM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^26]: A 17. § (1) bekezdés b) pontja a 6/2024. (VI. 28.) KTM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^27]: A 17. § (1) bekezdés c) pontja a 6/2024. (VI. 28.) KTM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^28]: A 17. § (2) bekezdése a 6/2024. (VI. 28.) KTM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^32]: A 17. § (1) bekezdés a) pontja a 6/2024. (VI. 28.) KTM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^33]: A 17. § (1) bekezdés b) pontja a 6/2024. (VI. 28.) KTM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^34]: A 17. § (1) bekezdés c) pontja a 6/2024. (VI. 28.) KTM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^35]: A 17. § (2) bekezdése a 6/2024. (VI. 28.) KTM rendelet 10. § (2) bekezdésével megállapított szöveg.

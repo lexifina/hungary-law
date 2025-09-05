@@ -208,7 +208,7 @@ b) A 81–1. és 82–1. sorok esetében a területet m2 alapon kell meghatároz
 
 c) Amennyiben az adatszolgáltatás nem online szakrendszeren keresztül történik, úgy az adatszolgáltatási díj kiegészül a szolgáltatás munkadíjával, mely a 81–1.–81–4. és 82–1. sorok esetében 15%-a, míg a 81–5.–81–8. és 82–2.–82–8. sorok esetén 5%-a az adatdíjnak.
 
-d) A földmérési és térinformatikai államigazgatási szervtől 3 éven belül megvásárolt teljes adatállomány időközi változásokat tartalmazó frissítése esetén a teljes adatállomány kerül átadásra. Az egyszeri adatfrissítés díja a teljes területre vonatkozó adatdíj eltelt évenként 8%-a. Ez esetben a c) pont szerinti munkadíj nem kerül felszámításra.
+d) [^50] A földmérési és térinformatikai államigazgatási szervtől 3 éven belül megvásárolt teljes adatállomány időközi változásokat tartalmazó frissítése esetén a teljes adatállomány kerül átadásra. Az egyszeri adatfrissítés díja negyedévenként a teljes területre vonatkozó adatdíj 2%-a. A c) alpont szerinti munkadíj egy éven belüli frissítés esetén kerül felszámításra, melynek alapja az adatfrissítés adatdíja.
 
 9. Adatfelhasználási díj a nyilvántartási, térinformatikai és tervezési rendszerek állami alapadat tartalmáért
 
@@ -279,3 +279,4 @@ d) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 e) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
 [^49]: Az 1. melléklet a 6/2024. (VI. 28.) KTM rendelet 16. §-ával megállapított szöveg.
+[^50]: Az 1. melléklet 8. pont d) alpontja a 6/2025. (VIII. 5.) KTM rendelet 5. §-ával megállapított szöveg.

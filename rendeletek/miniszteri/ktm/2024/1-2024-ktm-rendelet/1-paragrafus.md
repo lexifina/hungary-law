@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet hatálya kiterjed
 
-a) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben (a továbbiakban: Inytv.) szabályozott hatósági eljárások,
+a)[^1] az ingatlan-nyilvántartásról szóló 2021. évi C. törvényben (a továbbiakban: Inytv.) szabályozott hatósági eljárások,
 
 b) a telekalakítási eljárás,
 
@@ -19,3 +19,5 @@ igazgatási szolgáltatási díjának meghatározására, valamint a megfizetés
 a) az (1) bekezdés a) és d) pontja szerinti eljárások esetén a soron kívüli ügyintézés engedélyezése tárgyában folytatott eljárások igazgatási szolgáltatási díjának meghatározására, valamint a megfizetésük és elosztásuk módjára és
 
 b) a 22. §-ban meghatározott egyéb földmérési és térképészeti tevékenységgel kapcsolatos igazgatási szolgáltatási díjak meghatározására, valamint a megfizetésük és elosztásuk módjára.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 6/2025. (VIII. 5.) KTM rendelet 6. § a) pontja szerint módosított szöveg.

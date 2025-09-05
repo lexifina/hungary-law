@@ -1,14 +1,9 @@
-21. § (1) A tulajdoni lap tartalmából szolgáltatható egyes ingatlan-nyilvántartási adatokért az alábbi adatszolgáltatási díjat kell fizetni:
+21. § (1) Az Inytv. 80. § a) pontja szerinti adat-földkönyv díja ingatlanonként 240 forint.
 
-a)[^33] a földkönyv vagy földkönyvkivonat esetében 240 forintot ingatlanonként,
+(2) Az Inytv. 80. § b) pontja szerinti jogosulti adatokkal kiegészített földkönyv díja ingatlanonként 320 forint.
 
-b)[^34] a tulajdonosi adatokkal kiegészített földkönyv vagy földkönyvkivonat esetében 320 forintot ingatlanonként,
+(3) Az Inytv. 80. § c) pontja szerinti tulajdonosi földkönyv díja helyrajziszám-lista szolgáltatása esetén helyrajzi számonként 320 forint.
 
-c)[^35] a területi összesítő esetében településenként 3200 forintot.
+(4) Az Inytv. 80. § d) pontja szerinti statisztikai földkönyv díja darabszámonként vagy helyrajzi számonként 240 forint, de legfeljebb 800 000 forint.
 
-(2)[^36]
-
-[^33]: A 21. § (1) bekezdés a) pontja a 6/2024. (VI. 28.) KTM rendelet 12. §-ával megállapított szöveg.
-[^34]: A 21. § (1) bekezdés b) pontja a 6/2024. (VI. 28.) KTM rendelet 12. §-ával megállapított szöveg.
-[^35]: A 21. § (1) bekezdés c) pontja a 6/2024. (VI. 28.) KTM rendelet 12. §-ával megállapított szöveg.
-[^36]: A 21. § (2) bekezdését a 6/2024. (VI. 28.) KTM rendelet 17. § c) pontja hatályon kívül helyezte.
+(5) A (2)–(4) bekezdésben meghatározott díjon felül adatszolgáltatásonként 20 000 forint igazgatási szolgáltatási díjat kell fizetni.
