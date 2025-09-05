@@ -22,8 +22,10 @@ i) rendelkezik legalább két olyan oktatóval, aki akkreditált ESG tanácsadó
 
 a) jelenléti képzés folytatása esetén rendelkezik legalább a képzést végzők számának megfelelő különálló munkaállomással;
 
-b) az 1. mellékletnek megfelelő képzést – képzési formától függetlenül – legalább kétszáz órában biztosítja, amelyből legalább a fele jelenléti képzés, és amelybe a szakmai gyakorlat időtartama nem számít bele;
+b)[^1] az 1. mellékletnek megfelelő képzést legalább kétszáz órában biztosítja, amelyből legalább a fele jelenléti képzés, és amelybe a szakmai gyakorlat időtartama nem számít bele;
 
 c) az ESG tananyagot a rendszeresen változó szabályozási környezetre tekintettel folyamatosan naprakészen tartja, azzal, hogy az ESG tanácsadók továbbképzésének feladatait is vállalja, azzal, hogy a továbbképzésben részt vevők részére legalább ötven óra képzést és szakmai konferencia megszervezését biztosítja.
 
 (3) Az akkreditált, ESG tanácsadókat oktató intézmény 15 napon belül köteles bejelenteni a vállalkozásfejlesztési ügynökségnek, ha e rendelet előírásainak már nem felel meg.
+
+[^1]: A 2. § (2) bekezdés b) pontja a 28/2025. (VIII. 21.) NGM rendelet 1. §-ával megállapított szöveg.

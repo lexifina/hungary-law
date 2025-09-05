@@ -22,7 +22,7 @@ e) a vállalati szintű ESG szakmai ismeretkör során a kutatásmódszertani al
 
 2. A tananyag minimumkövetelményei (az egyes pontok mögött zárójelben a minimális kötelező oktatási óraszám)
 
-2.1. Alapok (33 óra):
+2.1.[^4] Alapok (32 óra):
 
 2.1.1. Az ESG kialakulása, jelentése (1 óra);
 
@@ -66,7 +66,7 @@ e) a vállalati szintű ESG szakmai ismeretkör során a kutatásmódszertani al
 
 2.1.21. Digitális eszközök, szoftverek, kiberbiztonság, adatvédelem (1 óra).
 
-2.2. ESG pillérei (56 óra):
+2.2.[^5] ESG pillérei (59 óra):
 
 2.2.1. Környezetvédelem (28 óra):
 
@@ -157,3 +157,6 @@ b) az a) pont szerinti kérdőív és a gazdálkodó szervezet adatainak felhasz
 2.4.7. projektmenedzsment szemlélettel az ESG követelményrendszer adaptálásához szükséges szakmai feladatok megalkotására és ezek irányítására, továbbá az azokat ellátó szervezeti egységek közötti együttműködések koordinálására, valamint a felelős szakmai döntések előkészítésére és hatékony kivitelezésére, a megfelelő szakértők bevonására;
 
 2.4.8. önállóan ESG beszámoló elkészítésére.
+
+[^4]: Az 1. melléklet 2. pont 2.1. alpontja a 28/2025. (VIII. 21.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 2. pont 2.2. alpontja a 28/2025. (VIII. 21.) NGM rendelet 3. § b) pontja szerint módosított szöveg.
