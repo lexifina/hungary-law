@@ -1,1 +1,3 @@
-11. § Hatályát veszti a könyvvizsgálói közfelügyeleti feladatokkal összefüggő tevékenységek szabályozásáról szóló 28/2013. (VI. 29.) NGM rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
