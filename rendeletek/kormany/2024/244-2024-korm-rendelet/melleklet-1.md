@@ -62,12 +62,20 @@ c) honlapcím;
 
 – e-mail.
 
-5. Adatszolgáltatás:
+5.[^2] Adatszolgáltatás:
 
 – a kérelmező által szervezett képzés pontos megnevezése;
 
 – a képzés helyszíne;
 
+– a képzés honlapjának címe;
+
 – a képzés időtartama (órában megadva);
 
+– a jelenléti képzés aránya;
+
+– a képzés díja (bruttó);
+
 – tantárgyak felsorolása órabontásban.
+
+[^2]: Az 1. melléklet 5. pontja a 277/2025. (VIII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
