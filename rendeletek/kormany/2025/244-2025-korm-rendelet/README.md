@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-244-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-08-06 | 2025-244-20-22.1 | 244/2025. (VIII. 5.) Korm. rendelet |
+| 2025-09-05 | 2025-244-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
