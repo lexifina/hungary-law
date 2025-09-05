@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1-30-15
 | 2025-03-31 | 2024-1-30-15.2 | 1/2025. (III. 31.) HM határozat |
 | 2025-05-17 | 2024-1-30-15.3 | 2/2025. (V. 17.) HM határozat |
 | 2025-06-26 | 2024-1-30-15.4 | 3/2025. (VI. 26.) HM határozat |
+| 2025-09-05 | 2024-1-30-15.5 | 4/2025. (IX. 5.) HM határozat |

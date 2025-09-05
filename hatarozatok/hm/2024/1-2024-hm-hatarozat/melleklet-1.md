@@ -296,6 +296,10 @@ A 2025. évre engedélyezett gyakorlatok és kiképzések, és ezekkel kapcsolat
 
 | 86.[^14] | ANATOLIAN EAGLE | harcászati gyakorlat | Törökország | III. | 50 |  |  |
 
+| 87.[^15] | Magyar–észak-macedón különleges műveleti gyakorlat | különleges műveleti gyakorlat | Észak-Macedónia | III. | 60 |  |  |
+
+| 88.[^16] | Magyar–észak-macedón különleges műveleti gyakorlat | különleges műveleti gyakorlat | Magyarország | III. |  | 60 |  |
+
 3. További gyakorlatokkal és kiképzésekkel kapcsolatos áthaladások
 
 | 1. | NATO Allied Response Force (ARF), és NATO Readiness Initiative (NRI) áthaladási gyakorlatok | I–IV. | 2500 |
@@ -336,3 +340,5 @@ A 2025. évre engedélyezett gyakorlatok és kiképzések, és ezekkel kapcsolat
 [^12]: Az 1. melléklet 2. pontjában foglalt táblázat 84. sorát az 1/2025. (III. 31.) HM határozat 1. pontja iktatta be.
 [^13]: Az 1. melléklet 2. pontjában foglalt táblázat 85. sorát a 2/2025. (V. 17.) HM határozat szövege iktatta be.
 [^14]: Az 1. melléklet 2. pontjában foglalt táblázat 86. sorát a 3/2025. (VI. 26.) HM határozat iktatta be.
+[^15]: Az 1. melléklet 2. pontjában foglalt táblázat 87. sorát a 4/2025. (IX. 5.) HM határozat iktatta be.
+[^16]: Az 1. melléklet 2. pontjában foglalt táblázat 88. sorát a 4/2025. (IX. 5.) HM határozat iktatta be.
