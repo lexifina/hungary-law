@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-6-20-9D
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-09-05 | 2025-6-20-9D.1 | 6/2025. (VIII. 5.) KTM rendelet |
+| 2025-09-06 | 2025-6-20-9D.2 | 2010. évi CXXX. törvény |
