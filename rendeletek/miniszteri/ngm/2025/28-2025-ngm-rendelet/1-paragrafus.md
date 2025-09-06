@@ -6,6 +6,6 @@
 
 ## a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az ESG tanácsadókat oktató intézményként történő akkreditálás követelményrendszeréről, az akkreditált oktató intézményeket tartalmazó nyilvántartás vezetésére vonatkozó részletes eljárási szabályokról, valamint az ESG tanácsadói képzésről, továbbá a képzés és a vizsga díjáról szóló 30/2024. (VIII. 8.) NGM rendelet [a továbbiakban: 30/2024. (VIII. 8.) NGM rendelet] 2. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az ESG tanácsadó képzést folytató kérelmező köteles nyilatkozni arról, hogy)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
