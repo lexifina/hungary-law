@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-124-20-
 | 2017-01-01 | 2013-124-20-22.5 | 464/2016. (XII. 23.) Korm. rendelet |
 | 2017-09-06 | 2013-124-20-22.6 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2021-03-01 | 2013-124-20-22.7 | 529/2020. (XI. 28.) Korm. rendelet |
+| 2025-09-06 | 2013-124-20-22.8 | 289/2025. (IX. 5.) Korm. rendelet |
