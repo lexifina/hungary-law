@@ -1,0 +1,9 @@
+# 276/2025. (VIII. 21.) Korm. rendelet
+
+a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályainak megsértése esetén kiszabható bírság szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-276-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-09-06 | 2025-276-20-22.1 | 276/2025. (VIII. 21.) Korm. rendelet |
