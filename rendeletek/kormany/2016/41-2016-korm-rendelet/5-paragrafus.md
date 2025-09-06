@@ -4,6 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^2] Ez a rendelet 2025. szeptember 7-én hatályát veszti.
+(2)[^2] Ez a rendelet 2026. március 7-én hatályát veszti.
 
-[^2]: Az 5. § (2) bekezdése a 30/2025. (III. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 268/2025. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

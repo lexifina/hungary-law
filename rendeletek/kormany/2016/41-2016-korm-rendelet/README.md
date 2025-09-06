@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-2
 | 2024-03-06 | 2016-41-20-22.18 | 47/2024. (III. 4.) Korm. rendelet |
 | 2024-09-06 | 2016-41-20-22.19 | 265/2024. (IX. 2.) Korm. rendelet |
 | 2025-03-06 | 2016-41-20-22.20 | 30/2025. (III. 5.) Korm. rendelet |
+| 2025-09-06 | 2016-41-20-22.21 | 268/2025. (VIII. 13.) Korm. rendelet |
