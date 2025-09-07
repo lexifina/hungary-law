@@ -1,1 +1,3 @@
-2. § A 124/2013. (IV. 26.) Korm. rendelet 2. § (1) bekezdésében a „fedezetéül” szövegrész helyébe a „fedezetéül – a 7. §-ban foglaltak kivételével –” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
