@@ -1,4 +1,4 @@
-## Az országos tájépítész és a Balatoni főtájépítész, valamint a főmérnökök foglalkoztatási feltételei[^78]
+## Az országos tájépítész és a Balatoni főtájépítész, valamint a főmérnökök foglalkoztatási feltételei[^81]
 
 11/C. § (1) Országos tájépítészként és Balatoni főtájépítészként az foglalkoztatható, aki
 
@@ -20,4 +20,4 @@ b) okleveles építőmérnök, okleveles építészmérnök, okleveles települ�
 
 c) legalább ötéves közlekedési, közműfejlesztési, területrendezési vagy településtervezési tervezési tevékenységben, vagy ezek igazgatásában, oktatásában eltöltött szakmai gyakorlati idővel rendelkezik.
 
-[^78]: Az „Az országos tájépítész és a Balatoni főtájépítész, valamint a főmérnökök foglalkoztatási feltételei” alcímet (11/C. §-t) a 285/2024. (IX. 30.) Korm. rendelet 48. §-a iktatta be.
+[^81]: Az „Az országos tájépítész és a Balatoni főtájépítész, valamint a főmérnökök foglalkoztatási feltételei” alcímet (11/C. §-t) a 285/2024. (IX. 30.) Korm. rendelet 48. §-a iktatta be.

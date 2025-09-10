@@ -22,8 +22,13 @@ f) az e) pont szerinti adatok alátámasztásául szolgáló oklevelet, igazolá
 
 (6) Ha az állami vagy önkormányzati főépítész a főépítészi tevékenységét megszüntette, köteles ezt a területi építész kamarának a megszűnéstől számított 15 napon belül írásban bejelenteni.
 
-(7) A (2) és (3) bekezdés szerinti nyilvántartásba vételről, valamint az (5) és (6) bekezdés szerinti változás átvezetésről és törlésről a miniszteri rendeletben meghatározott igazgatási szolgáltatási díj kérelmező általi megfizetését követően, a területi kamara elnöksége nevében eljáró területi titkár dönt, a Magyar Építész Kamara (a továbbiakban: MÉK) szabályzatában rögzített eljárásrend szerint.
+(7)[^22] A (2) és (3) bekezdés szerinti nyilvántartásba vételről, valamint az (5) és (6) bekezdés szerinti változás átvezetésről és törlésről a miniszteri rendeletben meghatározott igazgatási szolgáltatási díj kérelmező általi megfizetését követően a területi kamara titkára dönt, a Magyar Építész Kamara (a továbbiakban: MÉK) szabályzatában rögzített eljárásrend szerint.
 
-(8) Ha az állami vagy önkormányzati főépítészként foglalkoztatott személy elmulasztja a (2) és (3) bekezdésben foglalt nyilvántartásba vételi vagy az (5) és (6) bekezdésben foglalt változás-bejelentési kötelezettségét, fegyelmi vétséget követ el, amely miatt vele szemben a Méptv. 43. § (4) bekezdése szerinti etikai-fegyelmi büntetés alkalmazható.
+(8)[^23] Ha az állami vagy önkormányzati főépítészként foglalkoztatott személy elmulasztja a (2) és (3) bekezdésben foglalt nyilvántartásba vételi kötelezettségét, fegyelmi vétséget követ el, amely miatt vele szemben a Méptv. 43. § (4) bekezdése szerinti etikai-fegyelmi büntetés alkalmazható.
+
+(9)[^24] Ha az állami vagy önkormányzati főépítészként foglalkoztatott személy elmulasztja az (5) és (6) bekezdésben foglalt változás-bejelentési kötelezettségét, vele szemben a területi kamara titkára a Méptv. 178. § (4) bekezdése szerinti közigazgatási szankciót alkalmazhatja.
 
 [^21]: A 3/D. §-t a 285/2024. (IX. 30.) Korm. rendelet 35. §-a iktatta be.
+[^22]: A 3/D. § (7) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^23]: A 3/D. § (8) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^24]: A 3/D. § (9) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 1. §-a iktatta be.

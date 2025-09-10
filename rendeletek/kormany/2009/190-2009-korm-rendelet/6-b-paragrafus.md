@@ -1,6 +1,6 @@
-## A Balatoni főépítész feladatai[^44]
+## A Balatoni főépítész feladatai[^47]
 
-6/B. §[^45] A Balatoni főépítész
+6/B. §[^48] A Balatoni főépítész
 
 a) ellátja a Méptv.-ben és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben (a továbbiakban: Trtv.) meghatározott feladatokat,
 
@@ -14,5 +14,5 @@ e) közreműködik a főépítészi továbbképzések lebonyolításában, és
 
 f) érvényesíti a településtervezési szabályzatban foglalt követelményeket.
 
-[^44]: Az „A Balatoni főépítész feladatai” alcím címét a 285/2024. (IX. 30.) Korm. rendelet 40. §-a iktatta be.
-[^45]: A 6/B. §-t a 62/2014. (III. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^47]: Az „A Balatoni főépítész feladatai” alcím címét a 285/2024. (IX. 30.) Korm. rendelet 40. §-a iktatta be.
+[^48]: A 6/B. §-t a 62/2014. (III. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 41. §-ával megállapított szöveg.
