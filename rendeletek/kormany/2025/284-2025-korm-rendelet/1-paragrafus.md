@@ -20,6 +20,10 @@
 
 ## 1. A főépítészi tevékenységről szóló 190/2009. (IX. 15.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A főépítészi tevékenységről szóló 190/2009. (IX. 15.) Korm. rendelet [a továbbiakban: 190/2009. (IX. 15.) Korm. rendelet] 3/D. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (9) bekezdéssel egészül ki:
 
-[^1]: Az 1. § a 41. § (2) bekezdése alapján 2025. szeptember 10-én lép hatályba.
+„(7) A (2) és (3) bekezdés szerinti nyilvántartásba vételről, valamint az (5) és (6) bekezdés szerinti változás átvezetésről és törlésről a miniszteri rendeletben meghatározott igazgatási szolgáltatási díj kérelmező általi megfizetését követően a területi kamara titkára dönt, a Magyar Építész Kamara (a továbbiakban: MÉK) szabályzatában rögzített eljárásrend szerint.
+
+(8) Ha az állami vagy önkormányzati főépítészként foglalkoztatott személy elmulasztja a (2) és (3) bekezdésben foglalt nyilvántartásba vételi kötelezettségét, fegyelmi vétséget követ el, amely miatt vele szemben a Méptv. 43. § (4) bekezdése szerinti etikai-fegyelmi büntetés alkalmazható.
+
+(9) Ha az állami vagy önkormányzati főépítészként foglalkoztatott személy elmulasztja az (5) és (6) bekezdésben foglalt változás-bejelentési kötelezettségét, vele szemben a területi kamara titkára a Méptv. 178. § (4) bekezdése szerinti közigazgatási szankciót alkalmazhatja.”
