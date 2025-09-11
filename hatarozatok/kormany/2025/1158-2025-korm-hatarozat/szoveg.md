@@ -12,10 +12,12 @@ b) a 2026. évtől évi 9 000 000 000 forint forrás beépülő jelleggel tört�
 
 | Határidő: | az a) alpont tekintetében a felmerülés ütemében a b) alpont tekintetében a 2026. évi központi költségvetés tervezése során |
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a LXV. Bethlen Gábor Alap fejezet, 9. Határtalanul! program támogatása cím terhére, a Határtalanul! program 2025. évi „Tanulmányi kirándulás hetedikeseknek” című nyílt pályázati kiírással összefüggésben vállalható kötelezettség mértékét a 2025. évben legfeljebb 3 600 000 000 forint összegben és a 2026. évi költségvetés terhére legfeljebb 6 200 000 000 forint összegben állapítja meg;
+3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a LXV. Bethlen Gábor Alap fejezet, 9. Határtalanul! program támogatása cím terhére, a Határtalanul! program 2025. évi „Tanulmányi kirándulás hetedikeseknek” című nyílt pályázati kiírással összefüggésben vállalható kötelezettség mértékét a 2025. évben legfeljebb 3 600 000 000 forint összegben és a 2026. évi költségvetés terhére legfeljebb 6 564 338 669 forint összegben állapítja meg;
 
 4. felhívja a miniszterelnök általános helyettesét, hogy – a Bethlen Gábor Alap irányításáért felelős Bizottság útján – gondoskodjon az 1. pontban meghatározott támogatási cél megvalósításáról.
 
 | Felelős: | a miniszterelnök általános helyettese |
 
 | Határidő: | a 2. pont a) alpontja szerinti forrás rendelkezésre állását követően haladéktalanul |
+
+[^1]: A 3. pont az 1330/2025. (IX. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
