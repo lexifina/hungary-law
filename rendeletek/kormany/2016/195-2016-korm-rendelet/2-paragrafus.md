@@ -1,43 +1,33 @@
 ## 2. A személyszállítási üzletszabályzat
 
-2. § (1) A vasúti társaság a személyszállítási üzletszabályzatban e rendelet rendelkezéseitől az utasok hátrányára akkor térhet el, ha arra e rendelet lehetőséget ad.
-
-(2) A vasúti társaság a személyszállítási üzletszabályzatban meghatározza különösen:
+2. §[^7] (1) A vasúti társaság a személyszállítási üzletszabályzatban (a továbbiakban: üzletszabályzat) az EU rendelettel és e rendelettel összhangban meghatározza különösen
 
 a) a díj ellenében végzett személyszállítási szolgáltatások körét,
 
-b)[^7] a személyszállítási szolgáltatás igénybevételének feltételeit,,
+b) a személyszállítási szolgáltatás igénybevételének feltételeit,
 
-c) az utasok tájékoztatására vonatkozó szabályokat,
+c) az utasok tájékoztatására vonatkozó részletes szabályokat,
 
-d) a menetjegyek és az utazásra jogosító okmányok felhasználásnak szabályait,
+d) a menetjegyek és az utazásra jogosító okmányok felhasználásának részletes szabályait,
 
-e) a felek jogait és kötelezettségeit,
+e) a felek jogait és kötelezettségeit, valamint az utazási feltételek alapját képező részletes szabályokat,
 
-f) az útipoggyász, a kézipoggyász és az élő állat szállításának szabályait,
+f) a kézipoggyász, az élő állat, az útipoggyász és az egyéb tárgyak szállításának részletes szabályait,
 
-g) az utaspanaszok bejelentésének és kezelésének szabályait,
+g) az utaspanaszok bejelentésének és kezelésének részletes szabályait,
 
-h) a vasúti társaság felelősségviselésének szabályait,
+h) a vasúti társaság felelősségviselésének részletes szabályait,
 
-i) azoknak az elektronikus adathordozóknak a felsorolását és tulajdonságait, amelyekre a menetjegyet, a helyjegyet, a pótjegyet, a hely- és pótjegyet és a felár bizonylatát ki lehet állítani, valamint
+i) azoknak az elektronikus adathordozóknak a felsorolását és tulajdonságait, amelyekre a menetjegyet és a felárbizonylatot ki lehet állítani,
 
-j) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat.
+j) a személyszállításhoz kapcsolódó kiegészítő szolgáltatások részletes szabályait, valamint
 
-(3) A vasúti társaság az általa nyújtott városi vagy helyi személyszállítási szolgáltatásra vonatkozóan
+k) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat.
 
-a) az utazás megszakítására vonatkozó jogosultság,
+(2) A vasúti társaság az üzletszabályzat tervezetét a hivatalos honlapján közzéteszi. Az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is közzé kell tenni. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
 
-b) az utazás megkezdése napjának szabad megválasztására vonatkozó jogosultság, valamint
+(3) A vasúti társaság az üzletszabályzatot – módosítás esetén a módosítással érintett rendelkezéseket, a módosítás okát, továbbá az üzletszabályzat módosításokkal egységes szerkezetű tervezetét – a (2) bekezdés szerinti határidő lejártát követő 15 napon belül a vasúti igazgatási szervnek jóváhagyásra nyújtja be. A kérelemhez csatolja az üzletszabályzat tervezetére érkezett és el nem fogadott észrevételeket, valamint az el nem fogadás indokolását.
 
-c) a menetjegy visszaváltására vonatkozó jogosultság
+(4) A vasúti társaság az üzletszabályzatot – módosítás esetén az üzletszabályzat módosításokkal egységes szerkezetét – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül a hivatalos honlapján közzéteszi, valamint biztosítja, hogy az utas – arra irányuló kérése esetén – a jegypénztárban megtekinthesse.
 
-tekintetében a személyszállítási üzletszabályzatában e rendelet rendelkezéseitől az utasok hátrányára is eltérhet.
-
-(4) A vasúti társaság a személyszállítási üzletszabályzat tervezetét a hivatalos honlapján nyilvánosságra hozza. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
-
-(5) A vasúti társaság az üzletszabályzatát a (4) bekezdés szerinti határidő lejártát követő 15 napon belül a vasúti igazgatási szervnek jóváhagyásra nyújtja be. A kérelemhez csatolja a személyszállítási üzletszabályzatra érkezett, el nem fogadott észrevételeket, valamint azok el nem fogadásának indokolását.
-
-(6) A vasúti társaság személyszállítási üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül – hivatalos honlapján közzéteszi, valamint biztosítja, hogy azt a jegypénztárakban papíralapon az utas megtekinthesse.
-
-[^7]: A 2. § (2) bekezdés b) pontja a 223/2023. (VI. 6.) Korm. rendelet 20. § a) pontja, a 251/2024. (VIII. 22.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^7]: A 2. § a 255/2025. (VIII. 11.) Korm. rendelet 29. §-ával megállapított szöveg.
