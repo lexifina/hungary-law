@@ -1,0 +1,3 @@
+13. § A 271/2009. (XII. 1.) Korm. rendelet 20. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A segítő kutya szállítása során a szájkosár és a póráz használata indokolt esetben mellőzhető.”
