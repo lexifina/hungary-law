@@ -1,3 +1,3 @@
-8. §[^10]
+8. §[^11]
 
-[^10]: A 8. § a 41. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^11]: A 8. § a 41. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.

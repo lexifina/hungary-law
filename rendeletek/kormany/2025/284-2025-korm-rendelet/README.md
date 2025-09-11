@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-284-20-
 | 2025-08-28 | 2025-284-20-22.1 | 284/2025. (VIII. 25.) Korm. rendelet |
 | 2025-08-29 | 2025-284-20-22.3 | 2010. évi CXXX. törvény |
 | 2025-09-10 | 2025-284-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-09-11 | 2025-284-20-22.5 | 2010. évi CXXX. törvény |
