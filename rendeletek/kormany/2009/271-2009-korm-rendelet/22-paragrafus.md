@@ -1,3 +1,3 @@
-22. §[^64]
+22. §[^74]
 
-[^64]: A 22. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezte.
+[^74]: A 22. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezte.
