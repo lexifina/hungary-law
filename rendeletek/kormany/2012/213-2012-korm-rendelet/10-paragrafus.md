@@ -2,54 +2,60 @@
 
 10. § (1) A közforgalmú menetrend szerinti autóbuszos személyszállításra vonatkozóan a szolgáltató üzletszabályzatot készít. Az üzletszabályzatot a több szolgáltatót összefogó szervezet is elkészítheti. Ez utóbbi esetben az üzletszabályzat valamennyi, a szervezetben tag szolgáltatóra kötelező.
 
-(2) A szolgáltatások díját, a díj megállapításának módját és feltételeit – a szolgáltatások díjaira vonatkozó külön jogszabályok figyelembevételével – a díjszabás tartalmazza. A díjszabás az üzletszabályzat mellékletét képezi.
+(2)[^24] A szolgáltatások díját, az egyéb díjak, a kedvezményes díjak és a díjmentes utazások igénybevételéhez szükséges utazási okmányok alkalmazásának módját – a közszolgáltatási szerződésben és a feladatellátási szerződésben rögzített kereteken belül – a szolgáltató díjszabása tartalmazza.
 
-(3) Az üzletszabályzat e rendelet rendelkezéseitől az utasok hátrányára akkor térhet el, ha arra e rendelet lehetőséget ad.
+(3)[^25] Ha az üzletszabályzatnak nem része a díjszabás, azt a szolgáltató a honlapján közzéteszi, továbbá biztosítja, hogy az utas – arra irányuló kérése esetén – a díjszabást a jegypénztárakban megtekinthesse.
 
-(4) Az üzletszabályzat az EU rendelettel és e rendelettel összhangban meghatározza különösen:
+(4)[^26] Az üzletszabályzat az EU rendelettel és e rendelettel összhangban meghatározza különösen:
 
-a) a személyszállítási szolgáltatás igénybevételének részletes feltételeit (a továbbiakban: utazási feltételek),
+a) a díj ellenében végzett személyszállítási szolgáltatások körét,
 
-b) a felek jogait és kötelezettségeit,
+b) a személyszállítási szolgáltatás igénybevételének részletes feltételeit, beleértve a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját is,
 
-c) a menetjegyek és az utazásra jogosító okmányok felhasználásának részletes szabályait,
+c) a felek jogait és kötelezettségeit,
 
-d) az útipoggyász és élő állat szállításának részletes szabályait,
+d) a menetjegyek felhasználásának részletes szabályait,
 
-e) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat,
+e) a kézipoggyász, az élő állat, az útipoggyász és az egyéb tárgyak szállításának részletes szabályait,
 
-f) a szolgáltató felelősségviselésének részletes szabályait,
+f) a szolgáltatás igénybevételével kapcsolatos egyéb szabályokat,
 
-g) az utasok tájékoztatására vonatkozó részletes szabályokat,
+g) a szolgáltató felelősségviselésének részletes szabályait,
 
-h) az utaspanaszok bejelentésének és kezelésének részletes szabályait,
+h) az utasok tájékoztatására vonatkozó részletes szabályokat,
 
-i) a járulékos szolgáltatások igénybevételének részletes szabályait,
+i) az utaspanaszok bejelentésének és kezelésének részletes szabályait,
 
-j)[^6] az utazási igazolványok visszaváltásával, továbbá a 9. § szerinti és az EU rendelet szerinti visszatérítésekkel kapcsolatos részletes szabályokat, ideértve a megítélt visszatérítés teljesítésének határidejét is, ami nem haladhatja meg a visszatérítési igény megítélésétől számított 30 napot.
+j) azoknak az elektronikus adathordozóknak a felsorolását és tulajdonságait, amelyekre a menetjegyeket ki lehet állítani,
 
-(5)[^7] Az üzletszabályzat készítője annak tervezetét a hivatalos honlapján közzéteszi. Az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is közzé kell tenni. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
+k) a személyszállításhoz kapcsolódó kiegészítő szolgáltatások részletes szabályait, valamint
 
-(6)[^8] Az üzletszabályzat készítője a tervezetet – az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is – autóbuszos hatóságnak elektronikus úton jóváhagyásra benyújtja. A kérelemhez csatolja az üzletszabályzat tervezetéhez érkezett és el nem fogadott észrevételeket, valamint az el nem fogadás indokolását, továbbá nyilatkozik az elfogadott észrevételekről.
+l) a menetjegyek visszaváltásával, továbbá a 9. § szerinti és az EU rendelet szerinti visszatérítésekkel kapcsolatos részletes szabályokat, ideértve a megítélt visszatérítés teljesítésének határidejét is, ami nem haladhatja meg a visszatérítési igény megítélésétől számított 30 napot.
 
-(6a)[^9] Az autóbuszos hatóság üzletszabályzat jóváhagyására irányuló, kérelemre indult eljárásában hozott hatósági döntések szóban nem közölhetőek.
+(5)[^27] A szolgáltató az üzletszabályzat tervezetét a hivatalos honlapján közzéteszi. Az üzletszabályzat módosítása esetén a módosításokat és a módosításokkal egységes szerkezetet is közzé kell tenni. A közzétételt követő 15 napon belül arra bárki észrevételt tehet.
 
-(6b)[^10] A jóváhagyási kötelezettséggel érintett üzletszabályzat az autóbuszos hatóság jóváhagyását követően, az üzletszabályzat készítője által a jóváhagyás iránti kérelemben meghatározott időponttól hatályos.
+(6)[^28] A szolgáltató a tervezetet – módosítás esetén a módosítással érintett rendelkezéseket, a módosítás okát, továbbá az üzletszabályzat módosításokkal egységes szerkezetű tervezetét – az (5) bekezdés szerinti határidő lejártát követő 15 napon belül az autóbuszos hatóságnak elektronikus úton jóváhagyásra benyújtja. A kérelemhez csatolja az üzletszabályzat tervezetére érkezett és el nem fogadott észrevételeket, valamint az el nem fogadás indokolását.
 
-(6c)[^11] A jóváhagyási kötelezettséggel nem érintett üzletszabályzat-módosítás az üzletszabályzat készítője által – a (8) bekezdésben meghatározott rendelkezést is figyelembe véve – meghatározott időponttól hatályos.
+(6a)[^29] Az autóbuszos hatóság üzletszabályzat jóváhagyására irányuló, kérelemre indult eljárásában hozott hatósági döntések szóban nem közölhetőek.
 
-(7)[^12] Az üzletszabályzatot annak készítője – az autóbuszos hatóság jóváhagyásától számított nyolc napon belül, amennyiben az üzletszabályzat hatálybalépésének időpontja ennél későbbi, vagy az üzletszabályzat módosításához az autóbuszos hatóság jóváhagyása nem szükséges, a hatálybalépést legalább 3 nappal megelőzően – hivatalos honlapján közzéteszi.
+(6b)[^30] A jóváhagyási kötelezettséggel érintett üzletszabályzat az autóbuszos hatóság jóváhagyását követően, a szolgáltató által a jóváhagyás iránti kérelemben meghatározott időponttól hatályos.
 
-(8)[^13] Nem szükséges az autóbuszos hatóság jóváhagyása az üzletszabályzat jogszabályi rendelkezésen, közszolgáltatási szerződésen alapuló, valamint az utasok jogait nem érintő módosítása esetén, de az üzletszabályzat készítője a módosítást annak hatálybalépését 8 nappal megelőzően köteles az autóbuszos hatóságnak elektronikus úton megküldeni, és a módosított üzletszabályzat szövegét a hivatalos honlapján annak hatálybalépése előtt köteles közzétenni.
+(6c)[^31] A jóváhagyási kötelezettséggel nem érintett üzletszabályzat-módosítás a szolgáltató által – a (8) bekezdésben meghatározott rendelkezést is figyelembe véve – meghatározott időponttól hatályos.
 
-(9)[^14] Amennyiben az autóbuszos hatóság az üzletszabályzattal kapcsolatos kötelezettségek vizsgálata érdekében szükségesnek tartja, hatósági ellenőrzés vagy eljárás keretében adatszolgáltatásra hívhatja fel a szolgáltatót vagy a közlekedésszervezőt. Ha az adatszolgáltatásra felhívásnak a szolgáltató vagy a közlekedésszervező határidőben nem tesz eleget, az autóbuszos hatóság eljárási bírságot szab ki.
+(7)[^32] Az üzletszabályzatot – módosítás esetén az üzletszabályzat módosításokkal egységes szerkezetét – a szolgáltató – az autóbuszos hatóság jóváhagyásától számított 8 napon belül, amennyiben az üzletszabályzat hatálybalépésének időpontja ennél későbbi, vagy az üzletszabályzat módosításához az autóbuszos hatóság jóváhagyása nem szükséges, a hatálybalépést legalább 3 nappal megelőzően – a hivatalos honlapján közzéteszi, valamint biztosítja, hogy az utas – arra irányuló kérése esetén – a jegypénztárban megtekinthesse.
 
-[^6]: A 10. § (4) bekezdés j) pontját az 516/2017. (XII. 29.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^7]: A 10. § (5) bekezdése a 226/2017. (VIII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 10. § (6) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^9]: A 10. § (6a) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^10]: A 10. § (6b) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^11]: A 10. § (6c) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^12]: A 10. § (7) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
-[^13]: A 10. § (8) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
-[^14]: A 10. § (9) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (5) bekezdése iktatta be.
+(8)[^33] Nem szükséges az autóbuszos hatóság jóváhagyása az üzletszabályzat jogszabályi rendelkezésen, közszolgáltatási szerződésen alapuló, valamint az utasok jogait nem érintő módosítása esetén, de a szolgáltató a módosítást annak hatálybalépését 8 nappal megelőzően köteles az autóbuszos hatóságnak elektronikus úton megküldeni, és a módosított üzletszabályzat szövegét a hivatalos honlapján annak hatálybalépése előtt köteles közzétenni.
+
+(9)[^34] Amennyiben az autóbuszos hatóság az üzletszabályzattal kapcsolatos kötelezettségek vizsgálata érdekében szükségesnek tartja, hatósági ellenőrzés vagy eljárás keretében adatszolgáltatásra hívhatja fel a szolgáltatót vagy a közlekedésszervezőt. Ha az adatszolgáltatásra felhívásnak a szolgáltató vagy a közlekedésszervező határidőben nem tesz eleget, az autóbuszos hatóság eljárási bírságot szab ki.
+
+[^24]: A 10. § (2) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^25]: A 10. § (3) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^26]: A 10. § (4) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^27]: A 10. § (5) bekezdése a 226/2017. (VIII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 255/2025. (VIII. 11.) Korm. rendelet 27. § 7. pontja szerint módosított szöveg.
+[^28]: A 10. § (6) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^29]: A 10. § (6a) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^30]: A 10. § (6b) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (3) bekezdése iktatta be, szövege a 255/2025. (VIII. 11.) Korm. rendelet 27. § 8. pontja szerint módosított szöveg.
+[^31]: A 10. § (6c) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (3) bekezdése iktatta be, szövege a 255/2025. (VIII. 11.) Korm. rendelet 27. § 9. pontja szerint módosított szöveg.
+[^32]: A 10. § (7) bekezdése a 255/2025. (VIII. 11.) Korm. rendelet 21. § (3) bekezdésével megállapított, a 255/2025. (VIII. 11.) Korm. rendelet 27. § 10. pontja szerint módosított szöveg.
+[^33]: A 10. § (8) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 28. § (4) bekezdésével megállapított, a 255/2025. (VIII. 11.) Korm. rendelet 27. § 11. pontja szerint módosított szöveg.
+[^34]: A 10. § (9) bekezdését az 516/2017. (XII. 29.) Korm. rendelet 28. § (5) bekezdése iktatta be.
