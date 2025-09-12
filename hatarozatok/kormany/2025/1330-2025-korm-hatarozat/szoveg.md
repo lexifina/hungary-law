@@ -12,4 +12,6 @@ bb) a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap fejezet, 5. Működtetési c�
 
 | Határidő: | a 2026. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-2. A Határtalanul! program „Tanulmányi kirándulás hetedikeseknek” című pályázati kiíráshoz szükséges forrásbiztosításról szóló 1158/2025. (V. 26.) Korm. határozat 3. pontjában a „6 200 000 000” szövegrész helyébe a „6 564 338 669” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
