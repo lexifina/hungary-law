@@ -1,5 +1,3 @@
-16. § Hatályát veszti a 271/2009. (XII. 1.) Korm. rendelet
+16. §[^17]
 
-a) 7. § (1) bekezdés i) pontja,
-
-b) 18. § (3) bekezdése.
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

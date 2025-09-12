@@ -1,7 +1,3 @@
-23. § A 213/2012. (VII. 30.) Korm. rendelet 12. §-a helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„12. § (1) Eltérő megállapodás hiányában, az utasnak az utazás megkezdésétől érvényes menetjeggyel, utazásra való jogosultsággal kell rendelkeznie. A menetjegy a menetdíj megfizetését mint a személyszállítási szerződésből eredő kötelezettség teljesítését igazolja.
-
-(2) A szolgáltató a menetjegy előre történő megvásárlását vagy az előzetes helyfoglalást – járataira vagy járatainak egy részére, egyes állomásokon vagy meghatározott időszakokban – kötelezővé teheti. Az előre megváltott menetjegyek utazásra való felhasználhatóságának időszakát (érvényességi idejét) a szolgáltató korlátozhatja. A járatra érvényesítéssel kiadott menetjegyek csak a meghatározott napon és járaton jogosítanak utazásra.
-
-(3) A menetjeggyel rendelkező utasnak a járatra történő felszálláskor menetjegyét a szolgáltató az üzletszabályzatban előírt módon kell kezelnie, kezeltetnie, vagy ellenőrzésre a szolgáltatónak a menetjegy meglétének ellenőrzésével megbízott alkalmazottjának (a továbbiakban: jegykezelő) felmutatnia, vagy utazási jogosultságát igazolnia. A különböző jogosultsághoz kötött menetjegyeket a jogosultságot igazoló okmányokkal együtt – beleértve szükség esetén a személyazonosság igazolására szolgáló okmányokat is – a jegykezelőnek fel kell mutatni vagy át kell adni. A járaton szolgálatot teljesítő jegykezelőt ebben a 13. §-ban meghatározott jogosultság illeti meg.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

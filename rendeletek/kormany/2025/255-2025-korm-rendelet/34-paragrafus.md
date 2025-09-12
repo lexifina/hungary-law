@@ -1,3 +1,3 @@
-34. § A 195/2016. (VII. 13.) Korm. rendelet 12. §-a a következő (2a) bekezdéssel egészül ki:
+34. §[^35]
 
-„(2a) A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A segítő kutya szállítása során a szájkosár és a póráz használata indokolt esetben mellőzhető.”
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

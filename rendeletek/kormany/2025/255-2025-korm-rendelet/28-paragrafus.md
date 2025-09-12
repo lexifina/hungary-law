@@ -1,9 +1,3 @@
-28. § Hatályát veszti a 213/2012. (VII. 30.) Korm. rendelet
+28. §[^29]
 
-a) 2/A. § (10) bekezdésében az „autóbusszal személyszállítási szolgáltatásokat végző” szövegrész,
-
-b) 9. § (1) bekezdésében a „közlekedési” szövegrész,
-
-c) 9. § (4) bekezdésében a „közlekedési” szövegrész,
-
-d) 11. § (3) bekezdésében a „közlekedési” szövegrész.
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

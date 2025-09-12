@@ -1,1 +1,3 @@
-37. § Hatályát veszti a 195/2016. (VII. 13.) Korm. rendelet 10. § (4) bekezdése.
+37. §[^38]
+
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

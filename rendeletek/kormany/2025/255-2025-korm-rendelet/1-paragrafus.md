@@ -18,18 +18,6 @@
 
 ## 1. Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet módosítása
 
-1. § (1) Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet [a továbbiakban: 271/2009. (XII. 1.) Korm. rendelet] 2. § b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
-
-## „b) felár: a menetdíjon, illetve a viteldíjon felül fizetendő díj, amelynek megfizetése a menetrendben kijelölt személyszállító vonatok, vonatrészek igénybevételének feltétele;”
-
-(2) A 271/2009. (XII. 1.) Korm. rendelet 2. § f) pontja helyébe a következő rendelkezés lép:
-
-(E rendelet alkalmazásában)
-
-## „f) menetdíj: személyszállítási szolgáltatásért fizetendő díj;”
-
-(3) A 271/2009. (XII. 1.) Korm. rendelet 2. §-a a következő m) ponttal egészül ki:
-
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

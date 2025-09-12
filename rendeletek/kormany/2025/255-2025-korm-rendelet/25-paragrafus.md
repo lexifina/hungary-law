@@ -1,3 +1,3 @@
-25. § A 213/2012. (VII. 30.) Korm. rendelet 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+25. §[^26]
 
-„(3) A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A segítő kutya szállítása során a szájkosár és a póráz használata indokolt esetben mellőzhető.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

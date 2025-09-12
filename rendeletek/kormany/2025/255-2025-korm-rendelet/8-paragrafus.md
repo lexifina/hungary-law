@@ -1,3 +1,3 @@
-8. § A 271/2009. (XII. 1.) Korm. rendelet 11. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+8. §[^9]
 
-[A menetjegyen és az otthon nyomtatott jegyen az EU rendelet I. melléklet 7. cikk (2) bekezdésében felsoroltakon túl fel kell tüntetni:]
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

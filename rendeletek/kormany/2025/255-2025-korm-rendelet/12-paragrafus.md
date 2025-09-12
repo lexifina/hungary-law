@@ -1,5 +1,3 @@
-12. § A 271/2009. (XII. 1.) Korm. rendelet 19. §-a helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„19. § (1) A vasúti társaság az üzletszabályzatban meghatározza a kézipoggyász, a babakocsi, a roller és a kerékpár mérethatárait, valamint a járművön való elhelyezésük módját. A vasúti társaság az üzletszabályzatban a személyes használat körébe közvetlenül nem tartozó, túlméretes, a vasúti közlekedés biztonságát, az utasok ruházatának, a jármű berendezéseinek tisztaságát, épségét veszélyeztető, továbbá különösen értékes tárgyak szállítását kizárhatja, vagy további feltételekhez, illetve díjfizetéshez kötheti.
-
-(2) A fogyatékossággal élő vagy csökkent mozgásképességű személy kerekesszékére és egyéb mozgást segítő eszközére a mérethatárokra, valamint a díjmegállapításra vonatkozó rendelkezéseket nem kell alkalmazni.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
