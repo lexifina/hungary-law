@@ -1,0 +1,1 @@
+3. § A terrorizmust elhárító szerv az Rtv. 7/E. § (1) bekezdése szerinti feladatai mellett a rendészetért felelős miniszter – indokolt esetben a külpolitikáért felelős miniszter egyetértésével meghozott – döntése alapján speciális képességeivel külföldön Magyarország biztonsági, bűnüldözési érdekeinek érvényesítését szolgáló tevékenységet láthat el.
