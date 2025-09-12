@@ -1,4 +1,4 @@
-25. §[^65] E rendeletnek a mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet módosításáról szóló 12/2025. (IV. 22.) AM rendelettel [a továbbiakban: 12/2025. (IV. 22.) AM rendelet] megállapított 1–3. §-át, 6. §-át, 8. és 9. §-át, 11–13/B. §-át, 16. §-át, 1. és 2. mellékletét a 12/2025. (IV. 22.) AM rendelet hatálybalépésekor[^66] folyamatban lévő eljárásokban is alkalmazni kell.
+25. §[^67] E rendeletnek a mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet módosításáról szóló 12/2025. (IV. 22.) AM rendelettel [a továbbiakban: 12/2025. (IV. 22.) AM rendelet] megállapított 1–3. §-át, 6. §-át, 8. és 9. §-át, 11–13/B. §-át, 16. §-át, 1. és 2. mellékletét a 12/2025. (IV. 22.) AM rendelet hatálybalépésekor[^68] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^65]: A 25. §-t a 12/2025. (IV. 22.) AM rendelet 12. §-a iktatta be.
-[^66]: A hatálybalépés időpontja 2025. április 30.
+[^67]: A 25. §-t a 12/2025. (IV. 22.) AM rendelet 12. §-a iktatta be.
+[^68]: A hatálybalépés időpontja 2025. április 30.
