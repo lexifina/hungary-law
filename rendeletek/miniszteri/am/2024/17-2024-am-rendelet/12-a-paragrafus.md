@@ -1,4 +1,4 @@
-## 9a.[^30] Nem termelő tájképi elemek és területek emelt szintű kijelölése szántóterületeken
+## 9a.[^35] Nem termelő tájképi elemek és területek emelt szintű kijelölése szántóterületeken
 
 12/A. § (1) A nem termelő tájképi elemek és területek emelt szintű kijelölése szántóterületen gyakorlat (a továbbiakban: gyakorlat3a) a mezőgazdasági üzem teljes szántóterületére vonatkozik.
 
@@ -24,9 +24,9 @@ b) az a) pont szerinti területen belül a nem termelő tájképi elemek és a F
 
 (10) A gyakorlat3a-t nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy
 
-a) az egységes kérelemben bejelentett, az ellenőrzések alapján elfogadható nem termelő tájképi elemek és területek nagysága nem éri el a kötelezettségalap 10%-át, vagy
+a)[^36] az egységes kérelemben bejelentett, az ellenőrzések alapján elfogadható nem termelő tájképi elemek és területek nagysága nem éri el a kötelezettségalap 9,7%-át, vagy
 
-b) a nem termelő tájképi elemek és a HMKÁ 8. szerinti parlagon hagyott területek – ide nem értve az AKG keretében létrehozott zöldugart – együttes nagysága nem éri el a kötelezettségalap 5%-át.
+b)[^37] a nem termelő tájképi elemek és a HMKÁ 8. szerinti parlagon hagyott területek – ide nem értve az AKG keretében létrehozott zöldugart – együttes nagysága nem éri el a kötelezettségalap 4,85%-át.
 
 (11) A gyakorlat3a teljesítésére megjelölt nem termelő tájképi elem vagy terület nem vehető figyelembe, amennyiben az ellenőrzés keretében megállapításra kerül, hogy
 
@@ -38,4 +38,6 @@ c) a gyakorlat keretében megjelölt tájképi elem vagy terület nem felel meg 
 
 (12) Amennyiben az ellenőrzés eredményeképpen megállapításra kerül, hogy a gyakorlat3a nem teljesül, de a gyakorlat3 igen, akkor úgy kell tekinteni, mintha a mezőgazdasági termelő a gyakorlat3-at választotta és teljesítette volna.
 
-[^30]: A 9a. alcímet (12/A. §-t) az 5/2025. (IV. 3.) AM rendelet 37. §-a iktatta be.
+[^35]: A 9a. alcímet (12/A. §-t) az 5/2025. (IV. 3.) AM rendelet 37. §-a iktatta be.
+[^36]: A 12/A. § (10) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 5. pontja szerint módosított szöveg.
+[^37]: A 12/A. § (10) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 7. pontja szerint módosított szöveg.

@@ -22,6 +22,9 @@ c) a mezőgazdasági termelő nem jelentette be az egységes kérelemben, hogy m
 
 (6) A gyakorlat16-ot nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy
 
-a) nem valósul meg a mikroöntözés a gyakorlat16 teljesítésébe bevont táblák mindegyikén, de legalább az egyéb állandó kultúra terület 50%-án; vagy
+a)[^91] nem valósul meg a mikroöntözés a gyakorlat16 teljesítésébe bevont táblák mindegyikén, de legalább az egyéb állandó kultúra terület 48,5%-án; vagy
 
-b) a mezőgazdasági termelő az öntözést nem az (5) bekezdés szerint valósította meg a bevont táblák mindegyikén, de legalább az egyéb állandó kultúra terület 50%-án.
+b)[^92] a mezőgazdasági termelő az öntözést nem az (5) bekezdés szerint valósította meg a bevont táblák mindegyikén, de legalább az egyéb állandó kultúra terület 48,5%-án.
+
+[^91]: A 31. § (6) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.
+[^92]: A 31. § (6) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.

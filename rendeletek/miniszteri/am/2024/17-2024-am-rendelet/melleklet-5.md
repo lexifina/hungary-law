@@ -68,6 +68,6 @@
 
 | 34. | Karbamid műtrágya környezetbarát használata egyéb állandó kultúrában | 1 |
 
-5. melléklet a 17/2024. (IV. 9.) AM rendelethez[^96]
+5. melléklet a 17/2024. (IV. 9.) AM rendelethez[^133]
 
-[^96]: Az 5. mellékletet az 5/2025. (IV. 3.) AM rendelet 49. § f) pontja hatályon kívül helyezte.
+[^133]: Az 5. mellékletet az 5/2025. (IV. 3.) AM rendelet 49. § f) pontja hatályon kívül helyezte.

@@ -20,7 +20,7 @@ b) a kaszálás vagy kaszálások elvégzésének dátumát.
 
 a) a mezőgazdasági termelő a gyakorlat12-vel érintett gyep hasznosítású tábla esetében nem, vagy nem az (5) bekezdésben foglaltak szerint jelentette be a kaszálást;
 
-b) a mezőgazdasági termelő a gyakorlat12 teljesítéséhez szükséges kaszálást nem teljesítette a vállalással érintett valamennyi gyeptábla esetében;
+b)[^76] a mezőgazdasági termelő a gyakorlat12 teljesítéséhez szükséges kaszálást nem teljesítette a vállalással érintett valamennyi gyeptábla esetében, azzal, hogy a nem teljesített terület eléri vagy meghaladja a gyakorlat12-vel érintett teljes terület 3%-át;
 
 c) nincs extenzív gyeptábla a mezőgazdasági üzemben;
 
@@ -31,3 +31,5 @@ e) a gyakorlat12-vel érintett táblák valamelyike része az AKG keretében tá
 f) nem extenzív gyeptábla is része a mezőgazdasági üzem gyakorlat12-vel érintett területének; vagy
 
 g) a gyakorlat12-vel érintett tábla Natura 2000 gyepterületen helyezkedik el.
+
+[^76]: A 25. § (7) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 10. §-ával megállapított szöveg.

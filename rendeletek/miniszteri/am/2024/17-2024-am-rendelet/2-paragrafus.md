@@ -8,7 +8,7 @@
 
 a) a támogatási programmal érintett területe vonatkozásában a Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet alapján jogosult fenntarthatóságot elősegítő alapszintű-jövedelemtámogatásra (a továbbiakban: alaptámogatás);
 
-b)[^7] a mezőgazdasági üzem teljes területén elvégzett tevékenységek Egységes kérelem rendelet 7. § (5) bekezdése szerinti adatszolgáltatásának (a továbbiakban: adatszolgáltatás) az Egységes kérelem rendelet 7. § (6) bekezdése, valamint 19. § (4) bekezdése szerinti határidőben eleget tesz;
+b)[^7] a mezőgazdasági üzem teljes területén elvégzett tevékenységek Egységes kérelem rendelet 7. § (5) bekezdése szerinti, a c) pontnak megfelelően vállalt és legalább 2 pont értékben teljesített gyakorlatra vonatkozó adatszolgáltatásának (a továbbiakban: adatszolgáltatás) az Egységes kérelem rendelet 7. § (6) bekezdése, valamint 19. § (4) bekezdése szerinti határidőben eleget tesz;
 
 c) az egységes kérelemben vállalja a mezőgazdasági üzem e rendelet szerinti minden földhasználati kategóriájára a 4. mellékletben felsorolt egy vagy több mezőgazdasági gyakorlat (a továbbiakban: gyakorlat) teljesítését a 4. mellékletben meghatározott pontozási rendszer alapján legalább 2 pont, de legfeljebb 4 pont értékben; és
 
@@ -33,5 +33,5 @@ b) Natura 2000 gyepterület, valamint a különleges állandó kultúra vonatkoz
 (4)[^8] A támogatást igényelheti az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet, aki vagy amely csőd-, felszámolási, végelszámolási, adósságrendezési eljárás alatt áll.
 
 [^6]: A 2. § (1) bekezdés nyitó szövegrésze az 5/2025. (IV. 3.) AM rendelet 48. § 2. pontja szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés b) pontja a 79/2024. (XII. 30.) AM rendelet 2. § a) pontja, az 5/2025. (IV. 3.) AM rendelet 48. § 3. pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 3. §-ával megállapított szöveg.
 [^8]: A 2. § (4) bekezdését a 33/2024. (V. 30.) AM rendelet 40. §-a iktatta be.

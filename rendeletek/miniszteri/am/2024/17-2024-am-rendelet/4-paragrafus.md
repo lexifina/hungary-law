@@ -1,6 +1,6 @@
 ## 3. A támogatás mértéke, a támogatási döntés
 
-4. § (1)[^9] A támogatásra vonatkozó 2023–2027. évi támogatási keretösszegek, valamint a legkisebb és legmagasabb fajlagos támogatási összegek a Nemzeti Irányító Hatóság által kiadott közleményben kerülnek meghatározásra.
+4. § (1)[^9] A támogatásra vonatkozó 2024–2027. évi támogatási keretösszegek, valamint a legkisebb és legmagasabb fajlagos támogatási összegek a Nemzeti Irányító Hatóság által kiadott közleményben kerülnek meghatározásra.
 
 (2) A közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet 94. cikke szerinti árfolyamon forintban kifejezett pénzügyi keretek összege és a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet (a továbbiakban: KAP Vhr.) 66. §-a szerinti előrehozott kifizetés maximális fajlagos összege az e rendelet szerinti támogatáshoz kapcsolódó támogatási összegekről szóló Nemzeti Irányító Hatóság által kiadott közleményben kerül meghatározásra.
 
@@ -26,6 +26,6 @@ b) határidőre teljesíti a 2. § (1) bekezdés b) pontja szerinti adatszolgál
 
 (7) Az egyes gyakorlatok teljesítése során minden esetben az adott földhasználati kategória Egységes kérelem rendelet 1. § 42. pontja szerinti meghatározott területét kell alapul venni.
 
-[^9]: A 4. § (1) bekezdése az 5/2025. (IV. 3.) AM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdése az 5/2025. (IV. 3.) AM rendelet 32. § (1) bekezdésével megállapított, a 41/2025. (IX. 11.) AM rendelet 18. § 1. pontja szerint módosított szöveg.
 [^10]: A 4. § (3) bekezdése a 17/2025. (V. 8.) AM rendelet 1. §-ával megállapított szöveg.
 [^11]: A 4. § (5) bekezdése az 5/2025. (IV. 3.) AM rendelet 32. § (2) bekezdésével megállapított szöveg.

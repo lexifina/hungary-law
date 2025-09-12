@@ -38,7 +38,7 @@ a) mikrobiológiai készítmények lábon álló kultúrában történő alkalma
 
 b) mikrobiológiai készítmény csávázószerként történő kijuttatásával vagy
 
-c)[^48] olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
+c)[^57] olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
 
 (6) A gyakorlat7 vállalása esetében a mezőgazdasági termelőnek
 
@@ -56,9 +56,10 @@ ab) az alkalmazott mikrobiológiai készítmények pontos megnevezését vagy ki
 
 b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt; vagy
 
-c)[^49] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
+c)[^58] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
 
-(8) A gyakorlat7-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a szántóterület több mint 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(6) bekezdésben foglaltaknak megfelelően juttatta ki a mikrobiológiai készítményt.
+(8)[^59] A gyakorlat7-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy az (1)–(6) bekezdésben foglaltaknak megfelelően kijuttatott mikrobiológiai készítménnyel kezelt terület nem haladja meg a szántóterület 48,5%-át.
 
-[^48]: A 16. § (5) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^49]: A 16. § (7) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^57]: A 16. § (5) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^58]: A 16. § (7) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^59]: A 16. § (8) bekezdése a 41/2025. (IX. 11.) AM rendelet 5. §-ával megállapított szöveg.

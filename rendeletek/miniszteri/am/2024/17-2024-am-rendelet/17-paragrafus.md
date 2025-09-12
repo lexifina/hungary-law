@@ -2,7 +2,7 @@
 
 17. § (1) A talaj- és növénykondicionáló szerek, nitrogénmegkötő készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat8) keretében a mezőgazdasági termelőnek a mezőgazdasági üzem szántóterületének legalább 50%-án talajkondicionáló, növénykondicionáló – beleértve a csávázószerként használt mikrobiológiai készítményt – vagy nitrogénmegkötő készítményt (ezen alcím alkalmazásában a továbbiakban együtt: kondicionáló) kell alkalmaznia a tárgyévben.
 
-(2)[^50] A gyakorlat8 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
+(2)[^60] A gyakorlat8 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
 
 (3) A gyakorlat8 teljesítése során kizárólag olyan kondicionáló kijuttatása fogadható el,
 
@@ -50,9 +50,10 @@ b) nem teljesítette a (3) bekezdésben meghatározott valamely feltételt;
 
 c) a táblán nem juttatott ki kondicionálót; vagy
 
-d)[^51] által bejelentett tábla területének több mint 15%-a nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
+d)[^61] által bejelentett tábla területének több mint 15%-a nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
 
-(9) A gyakorlat8-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a szántóterület legalább 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(7) bekezdésben foglaltaknak megfelelően juttatott ki kondicionálót.
+(9)[^62] A gyakorlat8-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy az (1)–(7) bekezdésben foglaltaknak megfelelően kijuttatott kondicionálóval kezelt terület nem haladja meg a szántóterület 48,5%-át.
 
-[^50]: A 17. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^51]: A 17. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^60]: A 17. § (2) bekezdése az 5/2025. (IV. 3.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^61]: A 17. § (8) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^62]: A 17. § (9) bekezdése a 41/2025. (IX. 11.) AM rendelet 6. §-ával megállapított szöveg.

@@ -20,13 +20,13 @@ a) a kaszálóeszköz;
 
 b) a felfüggesztés vagy csatlakozás módja;
 
-c) a kaszálóeszköz vágófelülete és
+c)[^77] a elülső felfüggesztés esetén a kaszálóeszköz vágófelülete és
 
 d) a szársértő berendezés hiánya.
 
 (7) A gyakorlat13-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
-a) a gyakorlat13-mal érintett gyep hasznosítású tábla valamelyikének vonatkozásában nem teljesítette az (5) bekezdésben foglalt feltételt;
+a)[^78] a gyakorlat13-mal érintett gyep hasznosítású tábla valamelyikének vonatkozásában nem teljesítette az (5) bekezdésben foglalt feltételt, azzal, hogy a nem teljesített terület eléri vagy meghaladja a gyakorlat13-mal érintett teljes terület 3%-át;
 
 b) nem teljesítette a (6) bekezdésben foglalt feltételt, vagy a mobilGazda alkalmazás segítségével készített georeferált fénykép nem a mezőgazdasági termelő valamely, a gyakorlattal érintett területén készült, vagy azon az eszköz, annak felfüggesztési vagy csatlakoztatási módja, illetve vágófelülete vagy szársértő hiánya nem jól látható;
 
@@ -37,3 +37,9 @@ ca) a tárgyévben nem végzett kaszálást,
 cb) az adott gazdálkodási évben nem alternáló vagy hátsó felfüggesztésű, illetve vontatott, szársértő nélküli kaszával végezte a kaszálást; vagy
 
 d) a gyakorlat12-t is választotta.
+
+(8)[^79] A (7) bekezdéstől eltérően a gyakorlat13-at teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a gyakorlat az (1)–(7) bekezdésben foglaltaknak megfelelően elfogadható területe eléri a gyepterület 97%-át.
+
+[^77]: A 26. § (6) bekezdés c) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 13. pontja szerint módosított szöveg.
+[^78]: A 26. § (7) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^79]: A 26. § (8) bekezdését a 41/2025. (IX. 11.) AM rendelet 11. § (2) bekezdése iktatta be.

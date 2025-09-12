@@ -52,8 +52,11 @@ d) nem, vagy nem határidőben jelentette be a biológiai ágens vagy a feromon 
 
 (9) A gyakorlat18-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy
 
-a) az egyéb állandó kultúra terület legalább 50%-án nem használtak, vagy nem megfelelően használtak biológiai ágenst vagy feromon légtértelítési eszközt;
+a)[^97] az egyéb állandó kultúra terület legalább 48,5%-án nem használtak, vagy nem megfelelően használtak biológiai ágenst vagy feromon légtértelítési eszközt;
 
-b) a mezőgazdasági termelő nem jelentette be az egységes kérelem felületen a biológiai ágens vagy feromon légtértelítési eszköz alkalmazását az egyéb állandó kultúra területnek a gyakorlat18 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat18 teljesítéséhez szükséges egyéb állandó kultúra terület 50%-án; vagy
+b)[^98] a mezőgazdasági termelő nem jelentette be az egységes kérelem felületen a biológiai ágens vagy feromon légtértelítési eszköz alkalmazását az egyéb állandó kultúra területnek a gyakorlat18 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat18 teljesítéséhez szükséges egyéb állandó kultúra terület 48,5%-án; vagy
 
 c) nem jelölte meg a mezőgazdasági termelő az egységes kérelemben, hogy mely tábla esetében kívánja betartani a gyakorlat18-at.
+
+[^97]: A 33. § (9) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.
+[^98]: A 33. § (9) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.

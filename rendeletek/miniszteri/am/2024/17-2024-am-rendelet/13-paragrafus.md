@@ -14,12 +14,15 @@ b) mezőgazdasági üzemének szántóterülete nem éri el az 50 hektárt.
 
 (5) A gyakorlat4-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy
 
-a) bármely tábla mérete meghaladja a 30 hektárt;
+a)[^38] bármely tábla mérete meghaladja a 30,9 hektárt;
 
 b) bármely tábla egybeművelésben vesz részt;
 
 c) ugyanazon növénykultúrával borított táblák között nem tartotta meg a legalább 2 méter széles elkülönítő sávot;
 
-d) a mezőgazdasági üzem szántóterülete együttesen nem haladja meg az 50 hektárt; vagy
+d)[^39] a mezőgazdasági üzem szántóterülete együttesen nem haladja meg az 48,5 hektárt; vagy
 
 e) olyan mezőgazdasági termelő választja a gyakorlat4-et, aki részt vesz táblaméret korlátozásra irányuló egyéb forrásból finanszírozott intézkedésben.
+
+[^38]: A 13. § (5) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 8. pontja szerint módosított szöveg.
+[^39]: A 13. § (5) bekezdés d) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 9. pontja szerint módosított szöveg.
