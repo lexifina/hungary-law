@@ -1,1 +1,3 @@
-2. § A mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet 3. § (3) bekezdés a) és b) pontjában az „a tárgyévi egységes kérelemben” szövegrész helyébe az „a tárgyévet megelőző évi egységes kérelemben” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

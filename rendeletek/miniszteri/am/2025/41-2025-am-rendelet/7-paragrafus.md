@@ -1,3 +1,3 @@
-7. § A 17/2024. (IV. 9.) AM rendelet 18. § (9) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(9) A gyakorlat9-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a szűkített növényvédőszer-használat melletti forgatás nélküli művelést az (1)–(5) bekezdésben foglaltaknak megfelelően szántóterületének 48,5%-át meg nem meghaladó mértékben alkalmazta.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

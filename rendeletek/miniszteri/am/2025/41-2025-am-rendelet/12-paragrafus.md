@@ -1,3 +1,3 @@
-12. § A 17/2024. (IV. 9.) AM rendelet 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(2) A gyakorlat14-et nem teljesítettnek kell tekinteni a teljesítésbe bevont tábla vonatkozásában, ha az ellenőrzés keretében megállapításra kerül, hogy a tábla legeltetéssel kapcsolatos adatait nem vagy nem megfelelően rögzítette a mezőgazdasági termelő a legeltetési napló betétlapján, vagy a legeltetést nem a gyakorlat teljesítésébe bevont táblán valósította meg.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

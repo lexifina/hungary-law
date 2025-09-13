@@ -1,3 +1,3 @@
-14. § A 17/2024. (IV. 9.) AM rendelet 29. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
+14. §[^15]
 
-(A gyakorlat15-öt nem teljesítettnek kell tekinteni az adott földhasználati kategória tekintetében, ha az ellenőrzés keretében megállapításra kerül, hogy)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § A 17/2024. (IV. 9.) AM rendelet 17. § (9) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(9) A gyakorlat8-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy az (1)–(7) bekezdésben foglaltaknak megfelelően kijuttatott kondicionálóval kezelt terület nem haladja meg a szántóterület 48,5%-át.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

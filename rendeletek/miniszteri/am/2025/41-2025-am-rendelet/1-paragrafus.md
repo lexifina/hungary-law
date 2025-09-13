@@ -12,6 +12,6 @@
 
 ## 1. A mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet módosítása
 
-1. § A mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet a következő 26. §-sal egészül ki:
+1. §[^2]
 
-„26. § E rendeletnek a mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet, valamint a Közös Agrárpolitika Stratégiai Tervből megvalósuló Agro-ökológiai Programhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 17/2024. (IV. 9.) AM rendelet módosításáról szóló 41/2025. (IX. 11.) AM rendelettel [a továbbiakban: 41/2025. (IX. 11.) AM rendelet] megállapított 3. § (3) bekezdés a) és b) pontját a 41/2025. (IX. 11.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

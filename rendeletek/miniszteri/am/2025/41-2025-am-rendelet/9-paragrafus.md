@@ -1,3 +1,3 @@
-9. § A 17/2024. (IV. 9.) AM rendelet 24. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+9. §[^10]
 
-(A gyakorlat11-et nem teljesítettnek kell tekinteni a teljesítésbe bevont tábla vonatkozásában, ha az ellenőrzés keretében megállapításra kerül, hogy)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
