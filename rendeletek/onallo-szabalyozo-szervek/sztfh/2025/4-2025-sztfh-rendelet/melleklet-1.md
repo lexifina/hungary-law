@@ -1,3 +1,3 @@
-1. melléklet a 4/2025. (IV. 17.) SZTFH rendelethez[^44]
+1. melléklet a 4/2025. (IV. 17.) SZTFH rendelethez[^42]
 
-[^44]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
