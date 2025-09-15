@@ -1343,5 +1343,3 @@ c) biztosítani kell, hogy felesleges, lényegtelen információ ne legyen megje
 3.4.4.1200. A blokkvezénylő tervezésekor a 3.4.4.0100. pontnak megfelelően figyelembe kell venni az alábbi követelményeket:
 
 a) biztosítani kell a rendszerek és folyamatok képernyő alapú ellenőrzésének lehetőségét, valamint a kezelő személyzetet segítő nagykapacitású számítástechnikai eszközöket,
-
-b) a blokkvezénylői személyzet által jól láthatóan és könnyen értelmezhető módon biztosítani kell az atomerőművi blokk mindenkori állapotának és fő paramétereinek egységes áttekintését,
