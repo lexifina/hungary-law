@@ -1,8 +1,13 @@
+## Az NBSZ 5. melléklete a következő 5.3.15.0310. ponttal egészül ki:
+
+## „5.3.15.0310. Az engedélyes valamennyi, a telephelyén működő tárolóban lévő radioaktív hulladékcsomag helyét és jellemzőit – beleértve a radioaktív hulladékcsomag tulajdonosát is – tartalmazó nyilvántartási rendszert fejleszt ki és alkalmaz. A jelölési rendszernek olyannak kell lennie, hogy minden radioaktív hulladékcsomag egyedileg azonosítható maradjon az átmeneti tárolás teljes időtartamára.”
+
 4. melléklet az 1/2025. (III. 19.) OAH rendelethez
 
-1.[^19]
+1. Az NBSZ 6. melléklete a következő 6.3.6.0810. ponttal egészül ki:
 
-2.[^20]
+## „6.3.6.0810. Az engedélyes valamennyi, a telephelyén működő tárolóban lévő radioaktív hulladékcsomag helyét és jellemzőit – beleértve a radioaktív hulladékcsomag tulajdonosát is – tartalmazó nyilvántartási rendszert fejleszt ki és alkalmaz. A jelölési rendszernek olyannak kell lennie, hogy minden radioaktív hulladékcsomag egyedileg azonosítható maradjon az átmeneti tárolás teljes időtartamára.”
 
-[^19]: A 4. melléklet 1. pontja a 8. § (3) bekezdése alapján 2025. szeptember 15-én lép hatályba.
-[^20]: A 4. melléklet 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2.[^15]
+
+[^15]: A 4. melléklet 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
