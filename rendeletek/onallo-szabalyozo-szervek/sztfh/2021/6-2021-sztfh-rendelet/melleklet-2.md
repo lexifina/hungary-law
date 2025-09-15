@@ -1,4 +1,4 @@
-## Országosan: 220
+## Országosan: 219
 
 ## I.
 
@@ -344,11 +344,11 @@
 
 | Lenti Járásbíróság | 1 |
 
-| Nagykanizsai Járásbíróság | 3 |
+| Nagykanizsai Járásbíróság | 2 |
 
 | Zalaegerszegi Járásbíróság | 3 |
 
-| Összesen: | 8 |
+| Összesen: | 7 |
 
 2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^46]
 
