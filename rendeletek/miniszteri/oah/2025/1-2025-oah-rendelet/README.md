@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1-20-8L
 | 2025-05-18 | 2025-1-20-8L.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-05-19 | 2025-1-20-8L.4 | 2010. évi CXXX. törvény |
 | 2025-09-15 | 2025-1-20-8L.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-09-16 | 2025-1-20-8L.6 | 2010. évi CXXX. törvény |

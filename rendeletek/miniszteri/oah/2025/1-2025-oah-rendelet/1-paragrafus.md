@@ -4,6 +4,6 @@
 
 ## [3] Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (12) bekezdés 9. pontjában kapott felhatalmazás alapján – az atomenergiáról szóló 1996. évi CXVI. törvény 6/J. § (1) bekezdés j) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
