@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-143-20-
 | 2020-07-02 | 2018-143-20-22.5 | 315/2020. (VII. 1.) Korm. rendelet |
 | 2024-01-01 | 2018-143-20-22.6 | 674/2023. (XII. 29.) Korm. rendelet |
 | 2024-10-01 | 2018-143-20-22.7 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2025-09-17 | 2018-143-20-22.8 | 274/2025. (VIII. 18.) Korm. rendelet |

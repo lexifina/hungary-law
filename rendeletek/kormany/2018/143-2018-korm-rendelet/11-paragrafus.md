@@ -2,6 +2,6 @@
 
 (2) A bírságot az azt megállapító határozatban előírt határidőn belül a Magyar Államkincstár által vezetett beszedési számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – ha a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
 
-(3)[^21] A befizetés megtörténtét a befizetést követő nyolc napon belül a kötelezett igazolja a bírságot megállapító rendeltetésmódosítási hatóság részére.
+(3)[^24] A befizetés megtörténtét a befizetést követő nyolc napon belül a kötelezett igazolja a bírságot megállapító rendeltetésmódosítási hatóság részére.
 
-[^21]: A 11. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 195. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 11. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 195. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
