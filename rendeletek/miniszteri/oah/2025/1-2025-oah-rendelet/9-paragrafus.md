@@ -1,1 +1,0 @@
-9. § Ez a rendelet a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló, 2014. július 8-i 2014/87/EURATOM tanácsi irányelv 1. cikk 5. pontja szerinti 4. cikk (1) bekezdés b)–c) és e) pontjának, 1. cikk 7. pontja szerinti 6. cikk b) és d) pontjának, 1. cikk 8. pontja szerinti 8a. cikk (1) bekezdésének való megfelelést szolgálja.
