@@ -1,6 +1,6 @@
 A Kormány a K–12 Mesterszalon kialakítása, kulturális és pedagógiai programjának megvalósítása érdekében
 
-1. egyetért a Budapest, VIII. kerület Krúdy Gyula utca 12. szám alatt található társasház 36668/0/A/44 helyrajzi számú ingatlanrészének felújításával és a működéshez szükséges eszközbeszerzéssel;
+1.[^1] egyetért a Budapest, VIII. kerület Krúdy Gyula utca 12. szám alatt található társasház 36668/0/A/44 helyrajzi számú ingatlanrészének felújításával (a továbbiakban: Beruházás) és a működéshez szükséges eszközbeszerzéssel, valamint a Beruházás I. üteméhez a 2. pont szerint költségvetési támogatás nyújtásával;
 
 2. egyetért az 1. pontban foglalt cél megvalósításához a 2019. és 2020. évben szükséges, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt 350 000 000 forint biztosításával az alábbi ütemezés szerint:
 
@@ -8,7 +8,7 @@ a) a 2019. évben 100 000 000 forint,
 
 b) a 2020. évben 250 000 000 forint;
 
-3.[^1]
+3.[^2]
 
 4. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – az 1. pont szerinti cél megvalósításához gondoskodjon a 2019. évben szükséges, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt legfeljebb 100 000 000 forint központi költségvetési forrás biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 21. A K–12 Mesterszalon kialakítása jogcímcsoport javára;
 
@@ -42,4 +42,5 @@ Felelős: pénzügyminiszter
 
 Határidő: az adott évi központi költségvetés tervezése során
 
-[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^1]: Az 1. pont az 1334/2025. (IX. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
