@@ -52,7 +52,7 @@
 
 | 13. | Nagyváradi Római Katolikus Püspökség | Nagyváradi római katolikus püspöki palota felújításának további támogatása | 268 000 000 |
 
-| 14. | Iskola Alapítvány | A szervezet ingatlanvásárlásának, valamint oktatási és kulturális célú ingatlanfejlesztésének támogatása | 680 000 000 |
+| 14. | Iskola Alapítvány | A Minerva Kulturális Központ létrehozásával kapcsolatos egyes munkálatok támogatása | 680 000 000 |
 
 | 15. | Jolánta Kulturális Egyesület | Az Árpád-ház Program első ütemének további támogatása | 72 500 000 |
 
@@ -114,4 +114,4 @@
 
 [^1]: A 2.4. pont az 1602/2019. (X. 16.) Korm. határozat 5. pont a) alpontja, az 1452/2023. (X. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
 [^2]: A 4. pontot az 1602/2019. (X. 16.) Korm. határozat 4. pontja iktatta be.
-[^3]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja, az 1468/2019. (VII. 31.) Korm. határozat, az 1602/2019. (X. 16.) Korm. határozat 5. pont b) alpontja, az 1452/2023. (X. 24.) Korm. határozat 1. pont b) alpontja és 2. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja, az 1468/2019. (VII. 31.) Korm. határozat, az 1602/2019. (X. 16.) Korm. határozat 5. pont b) alpontja, az 1452/2023. (X. 24.) Korm. határozat 1. pont b) alpontja és 2. pontja, az 1337/2025. (IX. 18.) Korm. határozat szerint módosított szöveg.
