@@ -58,7 +58,7 @@
 
 | 13. | Kőolaj-, földgázkitermelés (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
 
-| b) kutatófúrás csak védett természeti területen, Natura 2000 területen, barlang védőövezetén és felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
+| b) kutatófúrás és kutatási fázisú próbatermelés csak védett természeti területen, Natura 2000 területen, barlang védőövezetén és felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
 
 | 14. | Önállóan létesített kőolaj- és földgáz-előkészítő üzem (beleértve a tisztítást, víztelenítést, kéntelenítést) | méretmegkötés nélkül |
 
@@ -66,15 +66,21 @@
 
 | b) felhagyása |
 
+| c) kutatófúrás felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
+
 | 16. | Önállóan létesített uránérc-előkészítő, ércdúsító, meddőhányó-hasznosító mű | méretmegkötés nélkül |
 
 | 17. | Fémtartalmúérc-bányászat (amennyiben nem tartozik az 1. számú mellékletbe) | a) méretmegkötés nélkül |
 
 | b) felhagyása |
 
+| c) kutatófúrás felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
+
 | 18. | Önállóan létesített fémérc-előkészítő, -dúsító, -pörkölő, -zsugorító, meddőhányó-hasznosító mű | méretmegkötés nélkül |
 
-| 19. | Egyéb bányászat (amennyiben nem tartozik az 1. számú mellékletbe), kivéve az önállóan létesített ásványfeldolgozó üzemet | méretmegkötés nélkül |
+| 19. | Egyéb bányászat (amennyiben nem tartozik az 1. számú mellékletbe), kivéve az önállóan létesített ásványfeldolgozó üzemet | a) méretmegkötés nélkül |
+
+| b) kutatófúrás felszín alatti vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki) |
 
 | 19a. | Vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények építéséhez szükséges ásványi nyersanyagot biztosító anyagnyerő hely | védett természeti területen, Natura 2000 területen |
 
@@ -117,6 +123,8 @@
 | 37. | Kenőanyag előállítása kőolajból | 15 ezer t/év késztermék előállításától |
 
 | 38. | Vegyi anyagot előállító üzem (kivéve a peroxidok és peszticidek gyártását és amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
+
+| 38a. | Köztes vegyipari termékek kezelésére szolgáló üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 20 ezer t/év késztermék előállításától |
 
 | 39. | Peroxidgyártó üzem (amennyiben nem tartozik az 1. számú mellékletbe) | 1000 t/év késztermék előállításától |
 
@@ -258,15 +266,17 @@
 
 | 86. | Vasúti pálya (amennyiben nem tartozik az 1. számú mellékletbe) | a) regionális, egyéb, csatlakozó vagy összekötő vasúti pálya |
 
-| b) helyi vasúthálózat elemei (magasvasút, kéregvasút, metró, helyi érdekű vasút, villamos, és különleges pályával rendelkező vasút, kivéve a sífelvonót) |
+| b) helyi vasúthálózat elemei (magasvasút, kéregvasút, metró, helyi érdekű vasút, villamos, és különleges pályával rendelkező vasút) |
 
 | c) mezőgazdasági, erdőgazdasági, ipari vagy kiránduló (erdei) vasút védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
-| 87. | Közutak és közforgalom elől el nem zárt magánutak, kerékpárutak (amennyiben nem tartozik az 1. számú mellékletbe) | a) országos közút építése (amennyiben nem tartozik az 1. számú mellékletbe) |
+| 87. | Közutak és kerékpárutak (amennyiben nem tartozik az 1. számú mellékletbe) | a) országos közút építése (amennyiben nem tartozik az 1. számú mellékletbe) |
 
 | b) országos közút fejlesztése 1 km hossztól |
 
-| c) az előző pontokba nem tartozó országos közút, helyi közút, a közforgalom elől el nem zárt magánút és kerékpárút védett területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
+| c) az a) és b) pontba nem tartozó országos közút, helyi közút és kerékpárút védett természeti területen, Natura 2000 területen, barlang védőövezetén, méretmegkötés nélkül |
+
+| 87a. | Magánutak | védett természeti területen, Natura 2000 területen, barlang védőövezetén 500 m hossztól |
 
 | 88. | Víziút (amennyiben nem tartozik az 1. számú mellékletbe) | méretmegkötés nélkül |
 
@@ -378,7 +388,9 @@
 
 | b) védett természeti területen, Natura 2000 területen, barlang védőövezetén 0,5 ha-tól |
 
-| 113. | Sípálya (a kapcsolódó létesítményekkel együtt) | védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+| 113. | Sípályák, sífelvonók, drótkötélpályák és azok kiegészítő létesítményei | a) 2 ha területfoglalás felett |
+
+| b) védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
 | 114. | Golfpálya (a kapcsolódó létesítményekkel együtt, a minigolf kivételével) | a) 18 vagy többlyukú pálya esetén |
 

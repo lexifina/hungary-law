@@ -4,7 +4,7 @@
 
 1. § (1) A rendelet hatálya – a (2) bekezdésben meghatározott kivétellel – az 1–3. számú mellékletben meghatározott tevékenységekre, létesítményekre, valamint azok jelentős módosításaira, változtatásaira (a továbbiakban együtt: tevékenység) terjed ki.
 
-(2)[^1] Nem terjed ki a rendelet hatálya azokra a kizárólag a 2. számú mellékletben vagy a 3. számú melléklet 1–128. és 130–132. pontjában szereplő tevékenységekre, amelyeket kutatásra, fejlesztésre, valamint új termékek és folyamatok tesztelésére használnak.
+(2)[^1] Nem terjed ki a rendelet hatálya azokra a kizárólag a 2. számú mellékletben szereplő tevékenységekre, amelyeket kutatásra, kutatás-fejlesztésre, valamint új termékek és folyamatok tesztelésére használnak.
 
 (3) A tevékenység megkezdéséhez, ha az
 
@@ -66,7 +66,7 @@ b) az arról való tájékoztatást, hogy a környezethasználó a megvalósíto
 
 (12)[^19] Az e rendeletben szabályozott eljárások során a megújuló energiát hasznosító erőművet és a hozzá kapcsolódóan létesített villamosenergia-tárolót, valamint az ilyen erőmű és villamosenergia-tároló közcélú hálózathoz történő csatlakoztatásához szükséges átviteli és elosztó hálózati fejlesztést úgy kell tekinteni, hogy az kiemelt fontosságú közérdeket, valamint közegészséget és közbiztonságot szolgál.
 
-[^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése, a 271/2025. (VIII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés b) pontja a 281/2013. (VII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 34. §-a, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 281/2013. (VII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.

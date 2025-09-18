@@ -1,8 +1,8 @@
-## 29/J. §[^270] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet és a környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet módosításáról szóló 139/2017. (VI. 9.) Korm. rendelettel (a továbbiakban: Mkr12.) megállapított rendelkezéseit az Mkr12. hatálybalépését[^271] követően indult vagy megismételt eljárásokban kell alkalmazni.
+## 29/J. §[^271] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet és a környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet módosításáról szóló 139/2017. (VI. 9.) Korm. rendelettel (a továbbiakban: Mkr12.) megállapított rendelkezéseit az Mkr12. hatálybalépését[^272] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-29/K. §[^272] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 549/2022. (XII. 22.) Korm. rendelettel (a továbbiakban: Mkr13.) megállapított 5. § (2) bekezdés c) pont ca) és cd) alpontját, valamint a 10. § (4) bekezdés a) pontját az Mkr13. hatálybalépésekor[^273] folyamatban lévő vagy megismételt ügyekben (eljárásokban) is alkalmazni kell.
+29/K. §[^273] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 549/2022. (XII. 22.) Korm. rendelettel (a továbbiakban: Mkr13.) megállapított 5. § (2) bekezdés c) pont ca) és cd) alpontját, valamint a 10. § (4) bekezdés a) pontját az Mkr13. hatálybalépésekor[^274] folyamatban lévő vagy megismételt ügyekben (eljárásokban) is alkalmazni kell.
 
-[^270]: A 29/J. §-t a 139/2017. (VI. 9.) Korm. rendelet 9. §-a iktatta be.
-[^271]: A hatálybalépés napja 2017. június 10.
-[^272]: A 29/K. §-t az 549/2022. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
-[^273]: A hatálybalépés időpontja 2022. december 25.
+[^271]: A 29/J. §-t a 139/2017. (VI. 9.) Korm. rendelet 9. §-a iktatta be.
+[^272]: A hatálybalépés napja 2017. június 10.
+[^273]: A 29/K. §-t az 549/2022. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^274]: A hatálybalépés időpontja 2022. december 25.

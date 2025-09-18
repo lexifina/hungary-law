@@ -1,8 +1,8 @@
-20. §[^178] (1) Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
+20. §[^179] (1) Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
 
 (2) A környezetvédelmi hatóság a szakhatóság megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletei elérési helyének megadásával.
 
-(3)[^179] A környezetvédelmi hatóság hatáskörébe tartozó engedélyeket, valamint a hulladékgazdálkodási engedélyt az egységes környezethasználati engedélybe kell foglalni.
+(3)[^180] A környezetvédelmi hatóság hatáskörébe tartozó engedélyeket, valamint a hulladékgazdálkodási engedélyt az egységes környezethasználati engedélybe kell foglalni.
 
 (4) A környezetvédelmi hatóság az egységes környezethasználati engedélyre vonatkozó határozatában – a külön jogszabályban foglaltak figyelembevételével – a földtani közeg, a levegő és víz szennyezésének megelőzése, a zajkibocsátás mérséklése, a hulladékok környezetkímélő kezelése céljából intézkedéseket, környezetvédelmi követelményeket, valamint kibocsátási határértékeket és azok teljesítésére határidőt határoz meg, különös tekintettel a 10. számú mellékletben felsorolt szennyező anyagokra.
 
@@ -30,15 +30,15 @@ miatt.
 
 (11) Az egységes környezethasználati engedély részletes tartalmi követelményeit a 11. számú melléklet tartalmazza.
 
-(12)[^180] Az engedély kettő vagy több olyan létesítményre vagy létesítményrészre is kiterjedhet, amelyet ugyanazon környezethasználó az adott telephelyen üzemeltet. Ilyen esetben a környezetvédelmi hatóság a tevékenység végzésének feltételeit az engedélyben úgy határozza meg, hogy az egyes létesítmények önállóan is megfeleljenek az e rendeletben megállapított követelményeknek.
+(12)[^181] Az engedély kettő vagy több olyan létesítményre vagy létesítményrészre is kiterjedhet, amelyet ugyanazon környezethasználó az adott telephelyen üzemeltet. Ilyen esetben a környezetvédelmi hatóság a tevékenység végzésének feltételeit az engedélyben úgy határozza meg, hogy az egyes létesítmények önállóan is megfeleljenek az e rendeletben megállapított követelményeknek.
 
 (13) Ha az elérhető legjobb technika alkalmazásával a vonatkozó jogszabályok szerinti környezetvédelmi célállapot elérése, illetve a szennyezettségi határértékek betartása nem biztosítható, a környezetvédelmi hatóság további feltételeket ír elő.
 
 (14) Olyan tevékenységek esetében, amelyekre vonatkozóan törvény biztonsági elemzés, illetve jelentés elkészítését írja elő, a biztonsági elemzést, illetve a jelentést az engedélyezés során a környezetvédelmi hatóság figyelembe veszi.
 
-(15)[^181]
+(15)[^182]
 
-[^178]: A 20. § a 480/2013. (XII. 17.) Korm. rendelet 3. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^179]: A 20. § (3) bekezdése a 675/2023. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^180]: A 20. § (12) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^181]: A 20. § (15) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^179]: A 20. § a 480/2013. (XII. 17.) Korm. rendelet 3. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^180]: A 20. § (3) bekezdése a 675/2023. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^181]: A 20. § (12) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^182]: A 20. § (15) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

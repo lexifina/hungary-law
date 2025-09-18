@@ -1,3 +1,3 @@
-25. §[^228]
+25. §[^229]
 
-[^228]: A 25. §-t és az azt megelőző alcím címet a 371/2012. (XII. 17.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^229]: A 25. §-t és az azt megelőző alcím címet a 371/2012. (XII. 17.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
