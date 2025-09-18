@@ -1,23 +1,23 @@
-|  | A | B | C | D | E |
+|  | A | B | C |
 
-| 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 2 | 1. | A gyorsan romló élelmiszerek szállítását végző, nemzetközi forgalomban közlekedő különleges tehergépkocsi szállítási alkalmasságát igazoló bizonyítvány vagy bizonyítványtábla hiánya | SJ | 130 000 | szállító járművezető |
+| 2 | a gyorsan romló élelmiszerek szállítását végző, nemzetközi forgalomban közlekedő különleges tehergépkocsi szállítási alkalmasságát igazoló bizonyítvány vagy bizonyítványtábla hiánya | NSJ | 390 000 |
 
-| 3 | 2. | Szállítmányozói engedély nélkül végzett élőállat-szállítás | SJ | 780 000 | szállító járművezető |
+| 3 | szállítmányozói engedély nélkül végzett élőállat-szállítás | NSJ | 940 000 |
 
-| 4 | 3. | Az élőállat-szállításhoz használt közúti jármű jóváhagyási igazolásának hiánya | SJ | 520 000 | szállító járművezető |
+| 4 | az élőállat-szállításhoz használt közúti jármű jóváhagyási igazolásának hiánya | NSJ | 620 000 |
 
-| 5 | 4. | A járművezető/kísérő számára élőállat-szállításhoz előírt képesítési bizonyítvány hiánya | SJ | 520 000 | szállító járművezető |
+| 5 | a járművezető vagy kísérő számára élőállat-szállításhoz előírt képesítési bizonyítvány hiánya | NSJ | 620 000 |
 
-| 6 | 5. | Élőállat-szállításhoz előírt menetlevél nem megfelelő kiállítása, vezetése | SJ | 130 000 | szállító járművezető |
+| 6 | élőállat-szállításhoz előírt menetlevél nem megfelelő kiállítása, vezetése | NSJ | 160 000 |
 
-| 7 | 6. | A válaszfalak nem elég erősek ahhoz, hogy a szállított állatok súlyát elbírják | NSJ | 780 000 | szállító |
+| 7 | a válaszfalak nem elég erősek ahhoz, hogy a szállított állatok súlyát elbírják | NSJ | 930 000 |
 
-| 8 | 7. | Csúszós felületű, meredek, oldalsó védelemmel el nem látott be- és kirakodó rámpák használata | SJ | 520 000 | szállító járművezető |
+| 8 | csúszós felületű, meredek, oldalsó védelemmel el nem látott be- és kirakodó rámpák használata | NSJ | 620 000 |
 
-| 9 | 8. | Az állatoknak a berakodási és kirakodási műveletek során való kiesését vagy szökését megakadályozó biztonsági korlát nélküli emelőpadok és felső padozatok használata | SJ | 520 000 | szállító járművezető |
+| 9 | az állatoknak a berakodási és kirakodási műveletek során való kiesését vagy szökését megakadályozó biztonsági korlát nélküli emelőpadok és felső padozatok használata | NSJ | 620 000 |
 
-7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^113]
+7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^104]
 
-[^113]: A 7. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^104]: A 7. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § g) pontjával megállapított szöveg.

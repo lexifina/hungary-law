@@ -1,210 +1,159 @@
-|  | A | B | C | D | E | F |
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
 
-| 1 | Sor- szám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
+1. G – Menetíró készülék beépítése
 
-| 2 | A | Személyzet |
+|  | A | B | C |
 
-| 3 | A1 | A kalauzokra megállapított alsó korhatár be nem tartása | SJ | 130 000 | szállító |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 4 | B | Vezetési időszakok |
+| 2 | G1 – típusjóváhagyással rendelkező menetíró készülék beépítésének és használatának elmulasztása | RSJ | 1 250 000 |
 
-| 5 | B1 | A 9 órás napi vezetési idő túllépése, ha a 10 órára történő meghosszabbítás nem megengedett | 9 h < … < 10 h | EJ | 13 000 | járművezető szállító |
+2. H – Menetíró készülék, járművezetői kártya vagy adatrögzítő lap használata
 
-| 6 | B2 | 10 h ≤ … < 11 h | SJ | 78 000 |
+|  | A | B | C |
 
-| 7 | B3 | 11 h ≤ … | NSJ | 195 000 |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés)) | A bírság összege forintban (esetenként) |
 
-| 8 | B4 | A 9 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | 13 h 30 ≤ … szünet/pihenő nélkül | RSJ | 390 000 |
+| 2 | H1 – engedéllyel rendelkező műhely által nem felülvizsgált menetíró készülék használata | NSJ | 620 000 |
 
-| 9 | B5 | A 10 órás meghosszabbított napi vezetési idő túllépése, ha a meghosszabbítás megengedett | 10 h < … < 11 h | EJ | 13 000 | járművezető szállító |
+| 3 | H2 – a járművezető egynél több saját járművezetői kártyával rendelkezik, vagy egynél több saját járművezetői kártyát használ | NSJ | 1 250 000 |
 
-| 10 | B6 | 11 h ≤ … < 12 h | SJ | 78 000 |
+| 4 | H3 – a járművezető hamisított járművezetői kártyával vezet (úgy tekintendő, mintha járművezetői kártya nélkül vezetne) | RSJ | 1 250 000 |
 
-| 11 | B7 | 12 h ≤ … | NSJ | 195 000 |
+| 5 | H4 – a járművezető olyan járművezetői kártyával vezet, amelynek nem ő a jogosultja | RSJ | 1 250 000 |
 
-| 12 | B8 | A 10 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | 15 h ≤ … szünet/pihenő nélkül | RSJ | 390 000 |
+| 6 | H5 – járművezetői kártya (adatrögzítő lap behelyezése) nélküli vezetés vagy a járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok, illetve hamis okmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne) | RSJ | 1 250 000 |
 
-| 13 | B9 | Az összeadódott heti vezetési idő túllépése | 56 h < … < 60 h | EJ | 13 000 | járművezető szállító |
+| 7 | H6 – a menetíró készülék nem működik megfelelően (így különösen nem került sor a menetíró készülék megfelelő felülvizsgálatára, kalibrálására és plombálására) | NSJ | 470 000 |
 
-| 14 | B10 | 60 h ≤ … < 65 h | SJ | 78 000 |
+| 8 | H7 – a menetíró készülék nem megfelelő használata (így különösen szándékos, önkéntes vagy kényszer hatására történő visszaélés, a helyes használatra vonatkozó utasítás hiánya) | NSJ | 620 000 |
 
-| 15 | B11 | 65 h ≤ … < 70 h | NSJ | 195 000 |
+| 9 | H8 – olyan, csalásra alkalmas berendezés, eszköz használata, amely képes a menetíró készülék által rögzített információk módosítására | RSJ | 1 250 000 |
 
-| 16 | B12 | Az összeadódott heti vezetési idő 25%-os vagy annál nagyobb arányú túllépése | 70 h ≤ … | RSJ | 390 000 |
+| 10 | H8/A – olyan, csalásra alkalmas berendezés, eszköz jelenléte a járművön, amely az adatok, illetve a kinyomtatott információk meghamisítására felhasználható lehet (kapcsoló vagy vezeték) | RSJ | 620 000 |
 
-| 17 | B13 | Az összeadódott vezetési idő túllépése két egymást követő hét alatt | 90 h < … < 100 h | EJ | 13 000 | járművezető szállító |
+| 11 | H9 – az adatrögzítő lapokon rögzített adatok vagy a menetíró készülékben vagy a járművezetői kártyán tárolt és onnan letöltött adatok meghamisítása, eltitkolása, kitörlése vagy megsemmisítése | RSJ | 1 250 000 |
 
-| 18 | B14 | 100 h ≤ … < 105 h | SJ | 78 000 |
+| 12 | H10 – a vállalkozás nem őrzi meg legalább egy évig az adatrögzítő lapokat, kinyomatokat és letöltött adatokat | NSJ | 620 000 |
 
-| 19 | B15 | 105 h ≤ … < 112 h 30 | NSJ | 195 000 |
+| 13 | H11 – a rögzített és tárolt adatok nem állnak rendelkezésre legalább 365 napig, az adatok rendelkezésre bocsátásának feltételei nem garantálják az adatok biztonságát és pontosságát (digitális menetíró készülék esetében) | NSJ | 620 000 |
 
-| 20 | B16 | Az összeadódott vezetési idő 25%-os vagy nagyobb arányú túllépése két egymást követő hét alatt | 112 h 30 ≤ … | RSJ | 390 000 |
+| 14 | H12 – adatrögzítő lapok vagy járművezetői kártyák helytelen használata | NSJ | 160 000 |
 
-| 21 | B17 | 10 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 10 h < … < 11 h | EJ | 13 000 | járművezető szállító |
+| 15 | H13 – adatrögzítő lapok vagy járművezetői kártya szabálytalan kivétele, amely hatással van az érintett adatok rögzítésére | NSJ | 620 000 |
 
-| 22 | 11 h ≤ … < 12 h | SJ | 78 000 |
+| 16 | H14 – adatrögzítő lap vagy járművezetői kártya azon időtartamon túli használata, amelyre azt szánták, adatvesztéssel | NSJ | 620 000 |
 
-| 23 | 12 h ≤ … <15 h | NSJ | 195 000 |
+| 17 | H15 – elszennyeződött vagy sérült adatrögzítő lapok vagy járművezetői kártyák használata, az adatok nem olvashatók | NSJ | 470 000 |
 
-| 24 | 15 h ≤ … | RSJ | 390 000 |
+| 18 | H16 – kötelező kézi adatbevitel elmulasztása analóg és digitális menetíró készülék esetében egyaránt | NSJ | 230 000 |
 
-| 25 | B18 | 11 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 2 órával vagy a 10 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 11 h ≤ … <11 h 30 | EJ | 13 000 | járművezető szállító |
+| 19 | H17 – nem megfelelő adatrögzítő lap használata vagy a vezetői kártya nem megfelelő nyílásba történő beillesztése (többfős személyzet) | SJ | 230 000 |
 
-| 26 | 11 h 30 ≤ … <12 h | SJ | 78 000 |
+| 20 | H18 – kapcsoló berendezés helytelen használata | NSJ | 230 000 |
 
-| 27 | 12 h ≤ … <15 h | NSJ | 195 000 |
+| 21 | H19 – kapcsoló berendezés helytelen használata, amennyiben az értékelhetőséget nem akadályozza | SJ | 80 000 |
 
-| 28 | 15 h ≤ … | RSJ | 390 000 |
+| 22 | H20 – nincs elegendő számú adatrögzítő lap (figyelemmel az adatrögzítő lapok személyes jellegére, a szolgálati idő tartamára, a sérült vagy az ellenőr által lefoglalt adatrögzítő lapok pótlására) | SJ | 80 000 |
 
-| 29 | B19 | 12 órás napi vezetési idő túllépése, ha a 10 órás napi vezetési idő 2 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 12 h ≤ … < 12 h 30 | EJ | 13 000 | járművezető szállító |
+| 23 | H21 – az adatrögzítő lap mintája nem került jóváhagyásra | SJ | 80 000 |
 
-| 30 | B20 | Az összeadódott heti vezetési idő túllépése, ha az 1 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 57 h < … < 60 h | EJ | 13 000 | járművezető szállító |
+| 24 | H22 – nincs elegendő mennyiségű papír a kinyomtatáshoz | SJ | 50 000 |
 
-| 31 | 60 h ≤ … < 65 h | SJ | 78 000 |
+| 25 | H23 – a lapon feljegyzett idő nem egyezik annak az országnak a hivatalos idejével, amelyben a járművet nyilvántartásba vették | SJ | 80 000 |
 
-| 32 | 65 h ≤ … < 70 h | NSJ | 195 000 |
+| 26 | H24 – a letöltési kötelezettség elmulasztása esetenként | NSJ | 80 000 |
 
-| 33 | 70 h ≤ … | RSJ | 390 000 |
+| 27 | H25 – a letöltési kötelezettség késedelmes teljesítése esetenként (járművezetői kártyánként és fedélzeti egységenként) a letöltési időszakot meghaladó 30 naponként | SJ | 20 000, de legfeljebb 80 000 |
 
-| 34 | B21 | Az összeadódott heti vezetési idő túllépése, ha a 2 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 58 h < … < 60 h | EJ | 13 000 | járművezető szállító |
+| 28 | Adatok kitöltése |
 
-| 35 | 60 h ≤ … < 65 h | SJ | 78 000 |
+| 29 | H26 – az adatrögzítő lapról hiányzik a családi név | NSJ | 310 000 |
 
-| 36 | 65 h ≤ … < 70 h | NSJ | 195 000 |
+| 30 | H27 – az adatrögzítő lapról hiányzik az utónév | NSJ | 160 000 |
 
-| 37 | 70 h ≤ … | RSJ | 390 000 |
+| 31 | H28 – a lap használatba vétele kezdetének vagy végének ideje hiányzik | NSJ | 130 000 |
 
-| 38 | C | Szünetek |
+| 32 | H29 – a lap használatba vétele kezdetének vagy végének helye hiányzik | NSJ | 130 000 |
 
-| 39 | C1 | A megszakítás nélküli vezetési idő 4,5 órás határának túllépése szünet tartása előtt | 4 h 30 < … < 5 h | EJ | 13 000 | járművezető szállító |
+| 33 | H30 – az adatrögzítő lapról hiányzik a rendszám | NSJ | 130 000 |
 
-| 40 | C2 | 5 h ≤ … < 5 h 30 | SJ | 39 000 |
+| 34 | H31 – az adatrögzítő lapról hiányzik a kilométer-számláló állása (első menet előtt) | NSJ | 130 000 |
 
-| 41 | C3 | 5 h 30 ≤ … < 6 h | 78 000 |
+| 35 | H32 – az adatrögzítő lapról hiányzik a kilométer-számláló állása (utolsó menet végén) | NSJ | 130 000 |
 
-| 42 | C4 | 6 h ≤ … < 6 h 30 | NSJ | 130 000 |
+| 36 | H33 – az adatrögzítő lapról hiányzik a járműcsere időpontja | NSJ | 130 000 |
 
-| 43 | C5 | 6 h 30 ≤ … | 325 000 |
+3. I – Adatok bemutatása
 
-| 44 | D | Pihenőidők |
+|  | A | B | C |
 
-| 45 | D1 | Nem elegendő, 11 óránál rövidebb napi pihenőidő, ha a csökkentett napi pihenőidő nem megengedett | 10 h ≤ … < 11 h | EJ | 13 000 | járművezető szállító |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 46 | D2 | 9 h 15 ≤ … < 10 h | SJ | 39 000 |
+| 2 | I1 – a komp- vagy vonatjel helytelen használata vagy használatának mellőzése | SJ | 160 000 |
 
-| 47 | D3 | 8 h 30 ≤ … < 9 h 15 | 78 000 |
+| 3 | I2 – a járművezető nem tudja bemutatni a jogszabály által meghatározott időszakra vonatkozóan rögzített információkat | NSJ | 620 000 |
 
-| 48 | D4 | 7 h 45 ≤ … < 8 h 30 | NSJ | 130 000 |
+| 4 | I3 – az adatok nem tartalmazzák azoknak az országoknak a betűjeleit, amelyek határait a járművezető a napi munkaidőben átlépte | SJ | 160 000 |
 
-| 49 | D5 | … < 7 h 45 | 325 000 |
+| 5 | I4 – az adatok nem tartalmazzák azoknak az országoknak a betűjeleit, amelyekben a járművezető a napi munkaidejét megkezdte és befejezte | SJ | 160 000 |
 
-| 50 | D6 | Nem elegendő, 9 óránál rövidebb csökkentett napi pihenőidő, ha a csökkentés megengedett | 8 h ≤ … < 9 h | EJ | 13 000 | járművezető szállító |
+| 6 | I5 – ellenőrzés megtagadása vagy jármű visszatartása esetén a helyszín engedély nélküli elhagyása | NSJ | 1 250 000 |
 
-| 51 | D7 | 7 h 30 ≤ … < 8 h | SJ | 39 000 |
+| 7 | I6 – a járművezető nem tudja bemutatni a járművezetői kártyát | NSJ | 620 000 |
 
-| 52 | D8 | 7 h ≤ … < 7 h 30 | 78 000 |
+4. J – Hibás működés
 
-| 53 | D9 | 6 h 30 ≤ … < 7 h | NSJ | 130 000 |
+|  | A | B | C |
 
-| 54 | D10 | … < 6 h 30 | 325 000 |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 55 | D11 | Nem elegendő, 3 + 9 óránál rövidebb megosztott napi pihenőidő | 3 h + (8 h ≤ … < 9 h) | EJ | 13 000 | járművezető szállító |
+| 2 | J1 – a menetíró készülék javítását nem engedéllyel rendelkező szerelő vagy műhely végezte | NSJ | 310 000 |
 
-| 56 | D12 | 3 h + (7 h 30 ≤ … < 8 h) | SJ | 39 000 |
+| 3 | J2 – a járművezető nem jegyez be minden előírt információt azon időszakokra vonatkozóan, amelyekben a menetíró készülék üzemképtelensége vagy hibás működése miatt már nem rögzített információkat | NSJ | 470 000 |
 
-| 57 | D13 | 3 h + (7 h ≤ … < 7 h 30) | 78 000 |
+| 4 | J3 – a javítást nem végezték el útközben (ha a jármű nem tud visszatérni a telephelyre az üzemzavar-fellépésnek vagy a hibás működés megállapításának napjától számított egy héten belül) | NSJ | 160 000 |
 
-| 58 | D14 | 3 h + (6 h 30 ≤ … < 7 h) | NSJ | 130 000 |
+5. L – Kézi bejegyzés a kinyomatokon
 
-| 59 | D15 | 3 h + (… < 6 h 30) | 325 000 |
+|  | A | B | C |
 
-| 60 | D16 | Nem elegendő, 9 óránál rövidebb napi pihenőidő többfős személyzet esetén | 8 h ≤ … < 9 h | EJ | 13 000 | járművezető szállító |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 61 | D17 | 7 h 30 ≤ … < 8 h | SJ | 39 000 |
+| 2 | L1 – az ideiglenes lapról hiányzik a járművezető kártyájának száma, illetve neve, illetve vezetői engedélyének száma amennyiben az azonosítás a hiányzó adatok miatt lehetetlen | NSJ | 310 000 |
 
-| 62 | D18 | 7 h ≤ … < 7 h 30 | 78 000 |
+| 3 | L2 – az ideiglenes lapról hiányzik a járművezető kártyájának száma, illetve neve, illetve vezetői engedélyének száma amennyiben azonosítható | EJ | 50 000 |
 
-| 63 | D19 | 6 h 30 ≤ … < 7 h | NSJ | 130 000 |
+| 4 | L3 – az ideiglenes lapról hiányzik az aláírás | EJ | 50 000 |
 
-| 64 | D20 | … < 6 h 30 | 325 000 |
+| 5 | L4 – a járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | SJ | 230 000 |
 
-| 65 | D21 | Nem elegendő, 24 óránál rövidebb csökkentett heti pihenőidő | 22 h ≤ … < 24 h | EJ | 13 000 | járművezető szállító |
+6. M – A menetíró készülék kapcsán típusjóváhagyásra, menetíró szerelőműhelyre, menetíró szerelőre vonatkozó rendelkezések
 
-| 66 | D22 | 21 h ≤ … < 22 h | SJ | 39 000 |
+|  | A | B | C |
 
-| 67 | D23 | 20 h ≤ … < 21 h | 78 000 |
+| 1 | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban (esetenként) |
 
-| 68 | D24 | 19 h ≤ … < 20 h | NSJ | 130 000 |
+| 2 | M1 – típusjóváhagyással nem rendelkező menetíró készülék kereskedelmi forgalmazása | RSJ | 470 000 |
 
-| 69 | D25 | … < 19 h | 325 000 |
+| 3 | M2 – adatrögzítő lap típusjóváhagyás nélküli forgalmazása | RSJ | 470 000 |
 
-| 70 | D26 | Nem elegendő, 45 óránál rövidebb heti pihenőidő, ha a csökkentett heti pihenőidő nem megengedett | 42 h ≤ … < 45 h | EJ | 13 000 | járművezető szállító |
+| 4 | M3 – menetíró szerelőműhely engedély nélküli működtetése | RSJ | 1 560 000 |
 
-| 71 | D27 | 39 h ≤ … < 42 h | SJ | 39 000 |
+| 5 | M4 – menetíró szerelő tevékenység engedély nélküli végzése | RSJ | 470 000 |
 
-| 72 | D28 | 36 h ≤ … < 39 h | 78 000 |
+| 6 | M5 – külső kalibrálási tevékenység végzése a közlekedési hatóság részére történő bejelentés vagy – amennyiben az szükséges – az illetékes közlekedési hatóság által egyedi kérelemre kiadott engedély nélkül | NSJ | 470 000 |
 
-| 73 | D29 | 33 h ≤ … < 36 h | NSJ | 130 000 |
+| 7 | M6 – elveszett vagy egyéb ok miatt működésképtelenné vált tachográfkártya bejelentési kötelezettségének elmulasztása | NSJ | 470 000 |
 
-| 74 | D30 | … < 33 h | 325 000 |
+| 8 | M7 – menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 470 000 |
 
-| 75 | D31 | 6 egymást követő 24 órás időszak túllépése az előző heti pihenőidő után | … < 3 h | EJ | 13 000 | járművezető szállító |
+| 9 | M8 – nincs felszerelve sebességkorlátozó készülék | RSJ | 1 250 000 |
 
-| 76 | D32 | 3 h ≤ … < 6 h | SJ | 39 000 |
+| 10 | M9 – a sebességkorlátozó készülék nem elégíti ki a vonatkozó műszaki követelményeket | NSJ | 620 000 |
 
-| 77 | D33 | 6 h ≤ … < 12 h | 78 000 |
+| 11 | M10 – a sebességkorlátozó készüléket nem engedéllyel rendelkező műhely szerelte fel | SJ | 310 000 |
 
-| 78 | D34 | 12 h ≤ … < 18 h | NSJ | 130 000 |
+| 12 | M11 – olyan, csalásra alkalmas berendezés birtoklása vagy használata, amely képes a sebességkorlátozó készülék adatainak meghamisítására vagy csalásra alkalmas sebességkorlátozó készülék birtoklása vagy használata | RSJ | 1 250 000 |
 
-| 79 | D35 | 18 h ≤ … | 325 000 |
-
-| 80 | D36 | Két egymást követő csökkentett heti pihenőidő esetén nincs kompenzációs pihenőidő | NSJ | 260 000 | járművezető szállító |
-
-| 81 | D37 | A munkáltató nem fedezi a járművön kívüli szállás költségeit | SJ | 195 000 | szállító |
-
-| 82 | E | Eltérés a 12 napos szabálytól (Nemzetközi, nem menetrend szerinti autóbuszjárat) |
-
-| 83 | E1 | 12 egymást követő 24 órás időszak túllépése az előző rendszeres heti pihenőidő után | … < 3 h | EJ | 13 000 | járművezető szállító |
-
-| 84 | E2 | 3 h ≤ … < 6 h | SJ | 39 000 |
-
-| 85 | E3 | 6h ≤ … < 12 h | 78 000 |
-
-| 86 | E4 | 12 h ≤ … < 18 h | NSJ | 130 000 |
-
-| 87 | E5 | 18 h ≤ … | 325 000 |
-
-| 88[^94] | E6 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 67 h < … ≤ 69 h | EJ | 13 000 | járművezető szállító |
-
-| 89[^95] | E7 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 65 h < … ≤ 67 h | SJ | 78 000 | járművezető szállító |
-
-| 90[^96] | E8 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 64 h < … ≤ 65 h | NSJ | 130 000 | járművezető szállító |
-
-| 91[^97] | E9 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | … ≤ 64 h | NSJ | 325 000 | járművezető szállító |
-
-| 92 | E10 | 22:00 óra és 6:00 óra között 3 órát meghaladó vezetési idő szünet tartása előtt, ha a járművet nem többfős személyzet vezeti | 3 h < … < 3 h 45 | SJ | 26 000 | járművezető szállító |
-
-| 93 | E11 | 3 h 45 ≤ … < 4 h 30 | 78 000 |
-
-| 94 | E12 | 4 h 30 ≤ … < 5 h 15[^98] | NSJ | 130 000 |
-
-| 95 | E13 | 5 h 15 ≤ … | 325 000 |
-
-| 96 | F | Munkaszervezés |
-
-| 97 | F1 | A bér és a megtett úthossz vagy a célba juttatás sebessége vagy a szállított áru mennyisége közötti kapcsolat | NSJ | 520 000 | szállító |
-
-| 98 | F2 | A járművezető munkájának nem megfelelő szervezése vagy a szervezés elmaradása, illetve nem megfelelő utasítások a járművezető részére a jogszabály betartására vonatkozóan vagy az utasítások hiánya | NSJ | 260 000 | szállító |
-
-| 99 | F3 | A rendszeres heti pihenőidő és a korábbi csökkentett heti pihenőidő kompenzációjaként tartott, 45 óránál hosszabb heti pihenőidő járműben való eltöltése | NSJ | 520 000 | járművezető |
-
-| 100 | F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 325 000 | szállító |
-
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
-
-[^94]: A 3. mellékletben foglalt táblázat 88. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^95]: A 3. mellékletben foglalt táblázat 89. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^96]: A 3. mellékletben foglalt táblázat 90. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^97]: A 3. mellékletben foglalt táblázat 91. sora az 51/2025. (III. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^98]: A 3. mellékletben foglalt táblázat C:94 mezője a 251/2024. (VIII. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^99]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^100]: A 4. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § c) pontjával megállapított szöveg.

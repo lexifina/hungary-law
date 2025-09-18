@@ -1,4 +1,4 @@
-## 2. §[^2] A Kkt. 20. § (1) bekezdés a) és q) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – az 1. mellékletben meghatározott összegű bírságot köteles fizetni az, aki
+2. §[^2] A Kkt. 20. § (1) bekezdés a), b) és q) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – az 1. mellékletben meghatározott összegű bírságot köteles fizetni az a járművezető, szállító, diszpécserszolgálat, felrakó, lerakó, fuvarozó, feladó, megbízó, aki vagy ami
 
 a)[^3] a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet 2. § (2) bekezdésében,
 
@@ -32,7 +32,7 @@ o)[^15] az Európai Unió és Ukrajna között a közúti árufuvarozásról sz�
 
 meghatározott, a közúti közlekedési szolgáltatások végzéséhez előírt engedélyekre és okmányokra vonatkozó rendelkezést megsérti.
 
-[^2]: A 2. § nyitó szövegrésze a 791/2021. (XII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 2. § nyitó szövegrésze a 791/2021. (XII. 27.) Korm. rendelet 3. §-a, a 272/2025. (VIII. 18.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § a) pontja a 176/2015. (VII. 7.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 26. §-át.
 [^4]: A 2. § b) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított, a 171/2014. (VII. 18.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § c) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.

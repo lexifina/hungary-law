@@ -36,6 +36,6 @@
 
 | 18 | J5 | 70 000 | 187 000 | 281 000 |
 
-11/I. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^125]
+11/I. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^116]
 
-[^125]: A 11/I. mellékletet a 44/2024. (II. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 220/2024. (VII. 31.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^116]: A 11/I. mellékletet a 44/2024. (II. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 220/2024. (VII. 31.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.

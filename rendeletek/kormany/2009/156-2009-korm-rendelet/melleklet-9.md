@@ -1,131 +1,125 @@
-| Sorszám | A | B | C | D | E |
+|  | A | B | C | D |
 
-| 1. | Bírságolással érintett cselekmények, mulasztások | Eltérések | A súlyosság foka: (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhe jogsértés) | Bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
+| 1 | Bírságolással érintett cselekmények, mulasztások | Eltérések | A súlyosság foka: (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhe jogsértés) | Bírság összege forintban |
 
-| 2. |  | … < 5% | EJ | 65 000 | feladó, felrakó, szállító, járművezető |
+| 2 | jármű vagy járműszerelvény közútkezelői hozzájárulás nélküli vagy a közútkezelő hozzájárulásában szereplő értéktől eltérő közlekedése, amennyiben a 9. § (1) bekezdés b) pontjában hivatkozott jogszabály szerint megengedett legnagyobb össztömeg túllépése fennáll, N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény kivételével | … < 5% | EJ | 80 000 |
 
-| 2.1. | 5% ≤ … < 10% | SJ | 130 000 |
+| 3 | 5% ≤ … < 10% | SJ | 160 000 |
 
-| 2.2. | Jármű vagy járműszerelvény közútkezelői hozzájárulás nélküli vagy a közútkezelő hozzájárulásában szereplő értéktől eltérő közlekedése, amennyiben a 9. § (1) bekezdés b) pontjában hivatkozott jogszabály szerint megengedett legnagyobb össztömeg túllépése fennáll, N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény kivételével. | 10% ≤ … < 20% | N2 vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ, egyéb esetben NSJ | 260 000 |
+| 4 | 10% ≤ … < 20% | N2 vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ, egyéb esetben NSJ | 320 000 |
 
-| 2.3. | 20% ≤ … < 30% | N2 vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ, egyéb esetben RSJ | 455 000 |
+| 5 | 20% ≤ … < 30% | N2 vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ, egyéb esetben RSJ | 550 000 |
 
-| 2.4. | 30% ≤ … | 650 000 |
+| 6 | 30% ≤ … | 780 000 |
 
-| 3. | N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény közútkezelői hozzájárulás nélküli vagy a közútkezelő hozzájárulásában szereplő értéktől eltérő közlekedése, amennyiben a 9. § (1) bekezdés b) pontjában hivatkozott jogszabály szerint megengedett legnagyobb össztömeg túllépése fennáll | … < 5% | EJ | 100 000 |
+| 7 | N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény közútkezelői hozzájárulás nélküli vagy a közútkezelő hozzájárulásában szereplő értéktől eltérő közlekedése, amennyiben a 9. § (1) bekezdés b) pontjában hivatkozott jogszabály szerint megengedett legnagyobb össztömeg túllépése fennáll | … < 5% | EJ | 120 000 |
 
-| 3.1. | 5% ≤ … < 10% | SJ | 200 000 |
+| 8 | 5% ≤ … < 10% | SJ | 240 000 |
 
-| 3.2. | 10% ≤ … < 20% | NSJ | 400 000 |
+| 9 | 10% ≤ … < 20% | NSJ | 480 000 |
 
-| 3.3. | 20% ≤ … < 30% | RSJ | 700 000 |
+| 10 | 20% ≤ … < 30% | RSJ | 840 000 |
 
-| 3.4. | 30% ≤ … <50% | 1000000 |
+| 11 | 30% ≤ … < 50% | 1 200 000 |
 
-| 3.5. | 50% ≤ … | 1 500 000 |
+| 12 | 50% ≤ … | 1 800 000 |
 
-| 4. | A 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése jármű vagy járműszerelvény esetén, N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény kivételével. | … < 5% | EJ | 65 000 | feladó, szállító, járművezető |
+| 13 | a 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése jármű vagy járműszerelvény esetén, N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény kivételével | … < 5% | EJ | 80 000 |
 
-| 4.1. | 5% ≤ … < 10% | SJ | 130 000 |
+| 14 | 5% ≤ … < 10% | SJ | 160 000 |
 
-| 4.2. | 10% ≤ … < 20% | N2 vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ, egyéb esetben NSJ | 260 000 |
+| 15 | 10% ≤ … < 20% | N2 vagy ilyen járműből is álló járműszerelvény esetében 15% alatt SJ, 15%-tól NSJ, egyéb esetben NSJ | 320 000 |
 
-| 4.3. | 20% ≤ … < 30% | N2 vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ, egyéb esetben RSJ | 455 000 |
+| 16 | 20% ≤ … < 30% | N2 vagy ilyen járműből is álló járműszerelvény esetében 25% alatt NSJ, 25%-tól RSJ, egyéb esetben RSJ | 550 000 |
 
-| 4.4. | 30% ≤ … | 650 000 |
+| 17 | 30% ≤ … | 780 000 |
 
-| 5. | A 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény esetében | … < 5% | EJ | 100 000 |
+| 18 | a 9. § (1) bekezdés f) pontjában hivatkozott jogszabály szerint a hatósági engedélyben feltüntetett megengedett legnagyobb össztömeg túllépése N3 kategóriájú jármű vagy N3 kategóriájú járműből és pótkocsijából álló járműszerelvény esetében | … < 5% | EJ | 120 000 |
 
-| 5.1. | 5% ≤ … < 10% | SJ | 200 000 |
+| 19 | 5% ≤ … < 10% | SJ | 240 000 |
 
-| 5.2. | 10% ≤ … < 20% | NSJ | 400 000 |
+| 20 | 10% ≤ … < 20% | NSJ | 480 000 |
 
-| 5.3. | 20% ≤ … < 30% | RSJ | 700 000 |
+| 21 | 20% ≤ … < 30% | RSJ | 840 000 |
 
-| 5.4. | 30% ≤ …<50% | 1 000 000 |
+| 22 | 30% ≤ …< 50% | 1 200 000 |
 
-| 5.5. | 50% ≤ … | 1 500 000 |
+| 23 | 50% ≤ … | 1 800 000 |
 
-| 6. | A 9. § (1) bekezdés b) pontjában hivatkozott jogszabály szerint megengedett legnagyobb tengely- vagy tengelycsoport-terhelést meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű esetében | … < 5% | EJ | 100 000 | feladó, felrakó, szállító, járművezető |
+| 24 | a 9. § (1) bekezdés b) pontjában hivatkozott jogszabály szerint megengedett legnagyobb tengely- vagy tengelycsoport-terhelést meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű esetében | … < 5% | EJ | 120 000 |
 
-| 6.1. | 5% ≤ … < 10% | SJ | 200 000 |
+| 25 | 5% ≤ … < 10% | SJ | 240 000 |
 
-| 6.2. | 10% ≤ … < 20% | NSJ | 400 000 |
+| 26 | 10% ≤ … < 20% | NSJ | 480 000 |
 
-| 6.3. | 20% ≤ … < 30% | RSJ | 700 000 |
+| 27 | 20% ≤ … < 30% | RSJ | 840 000 |
 
-| 6.4. | 30% ≤ … | 1 000 000 |
+| 28 | 30% ≤ … | 1 200 000 |
 
-| 7. | A megengedett legnagyobb hosszúságot vagy magasságot meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű | … < 2% | SJ | 13 000 | szállító, járművezető |
+| 29 | a megengedett legnagyobb hosszúságot vagy magasságot meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű | … < 2% | SJ | 20 000 |
 
-| 7.1. | 2% ≤ … < 5% | 39 000 |
+| 30 | 2% ≤ … < 5% | 50 000 |
 
-| 7.2. | 5% ≤ … < 10% | SJ | 65 000 |
+| 31 | 5% ≤ … < 10% | SJ | 80 000 |
 
-| 7.3. | 10% ≤ … < 20% | 104000 |
+| 32 | 10% ≤ … < 20% | 120 000 |
 
-| 7.4. | 20% ≤ … < 30% | NSJ | 260 000 |
+| 33 | 20% ≤ … < 30% | NSJ | 300 000 |
 
-| 7.5. | 30% ≤ … | 455 000 |
+| 34 | 30% ≤ … | 550 000 |
 
-| 8. | A megengedett legnagyobb szélességet meghaladó, a közút kezelőjének hozzájárulása nélkül közlekedő jármű | 2,6 m <… < 2,65 m | EJ | 39 000 | szállító, járművezető |
+| 35 | a megengedett legnagyobb szélességet meghaladó, a közút kezelőjének hozzájárulása nélkül közlekedő jármű | 2,6 m <… < 2,65 m | EJ | 50 000 |
 
-| 8.1. | 2,65 m ≤ … < 2,85 m | SJ | 65000 |
+| 36 | 2,65 m ≤ … < 2,85 m | SJ | 80 000 |
 
-| 8.2. | 2,85 m ≤ … < 3,10 m | SJ | 104 000 |
+| 37 | 2,85 m ≤ … < 3,10 m | SJ | 120 000 |
 
-| 8.3. | 3,10 m ≤ …< 3,60 m | NSJ | 260 000 |
+| 38 | 3,10 m ≤ …< 3,60 m | NSJ | 300 000 |
 
-| 8.4. | 3,60 m ≤ … | 455 000 |
+| 39 | 3,60 m ≤ … | 550 000 |
 
-| 9. | A megengedett legnagyobb szélességet meghaladó, a közút hozzájárulásában szereplő értéktől eltérően közlekedő jármű | … < 5% | EJ | 39 000 |
+| 40 | a megengedett legnagyobb szélességet meghaladó, a közút hozzájárulásában szereplő értéktől eltérően közlekedő jármű | … < 5% | EJ | 50 000 |
 
-| 9.1. | 5% ≤ … < 10% | SJ | 65 000 |
+| 41 | 5% ≤ … < 10% | SJ | 80 000 |
 
-| 9.2. | 10% ≤ … < 20% | SJ | 104 000 |
+| 42 | 10% ≤ … < 20% | SJ | 120 000 |
 
-| 9.3. | 20% ≤ … < 30% | NSJ | 260 000 |
+| 43 | 20% ≤ … < 30% | NSJ | 300 000 |
 
-| 9.4. | 30% ≤ … | 455 000 |
+| 44 | 30% ≤ … | 550 000 |
 
-| 10. | Túlsúlyos, tengely-, illetve tengelycsoport-túlsúlyos, túlméretes lánctalpas járművel a közút kezelőjének hozzájárulása nélkül vagy az abban foglalt feltételektől eltérő közlekedés |  | SJ | 130 000 |
+| 45 | túlsúlyos, tengely-, illetve tengelycsoport-túlsúlyos, túlméretes lánctalpas járművel a közút kezelőjének hozzájárulása nélkül vagy az abban foglalt feltételektől eltérő közlekedés |  | SJ | 160 000 |
 
-| 11. | Ömlesztett áru szállításához szükséges jármű-tömegbizonylat, illetve nyilatkozat hiánya vagy az áru tömegére vonatkozó valótlan tartalmú bizonylat, nyilatkozat |  | NSJ | 390 000 | feladó, felrakó, szállító, járművezető |
+| 46 | ömlesztett áru szállításához szükséges jármű-tömegbizonylat, illetve nyilatkozat hiánya vagy az áru tömegére vonatkozó valótlan tartalmú bizonylat, nyilatkozat |  | NSJ | 470 000 |
 
-| 12. | Nemzetközi időszakos vizsgálati bizonyítvány hiánya, érvénytelensége |  | SJ | 39 000 | szállító, járművezető |
+| 47 | ömlesztett áru szállításához szükséges jármű-tömegbizonylat, illetve nyilatkozat nem megfelelő kiállítása, hiányzó adatonként – ide nem értve a mért becsült össztömegre vonatkozó adatokat |  | SJ | 60 000 |
 
-| 13. | A megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó, a közút kezelőjének hozzájárulásában előírt kísérési feltételektől (nem megfelelő számú, és/vagy minősített kíséret elmulasztása) eltérően közlekedő jármű |  | NSJ | 520 000 | járművezető, üzemben tartó |
+| 48 | nemzetközi időszakos vizsgálati bizonyítvány hiánya, érvénytelensége |  | SJ | 50 000 |
 
-| 14. | A megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó, a közút kezelőjének hozzájárulásában előírt a járműre kötelezően elhelyezendő forgalombiztonsági feltételeket szolgáló jelzésekre vonatkozó feltételektől eltérően közlekedő jármű |  | NSJ | 390 000 |
+| 49 | a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó, a közút kezelőjének hozzájárulásában vagy jogszabályban előírt kísérési feltételektől (nem megfelelő számú, illetve minősített kíséret elmulasztása) eltérően közlekedő jármű |  | NSJ | 620 000 |
 
-| 15. | A megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó, a közút kezelőjének hozzájárulásában előírt egyéb közlekedési feltételektől (pl. napszakkorlátozás, forgalomszabályozási előírások) eltérően közlekedő jármű |  | NSJ | 260 000 |
+| 50 | a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó, a közút kezelőjének hozzájárulásában előírt, a járműre kötelezően elhelyezendő forgalombiztonsági feltételeket szolgáló jelzésekre vonatkozó feltételektől eltérően közlekedő jármű |  | NSJ | 470 000 |
 
-| 16. | A megengedett legnagyobb méretet meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő, mezőgazdasági rendeltetésű önjáró vagy vontatott munkagép | … < 5% | EJ | 13 000 | járművezető, gépkezelő |
+| 51 | a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó, a közút kezelőjének hozzájárulásában előírt egyéb közlekedési feltételektől (így különösen napszakkorlátozás, forgalomszabályozási előírások) eltérően közlekedő jármű |  | NSJ | 320 000 |
 
-| 17. | 5% ≤ … < 10% | 26 000 |
+| 52 | a megengedett legnagyobb méretet meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő, mezőgazdasági rendeltetésű önjáró vagy vontatott munkagép | … < 5% | EJ | 20 000 |
 
-| 18. | 10% ≤ … < 20% | EJ | 52 000 |
+| 53 | 5% ≤ … < 10% | 30 000 |
 
-| 19. | 20% ≤ … < 30% | NSJ | 130 000 |
+| 54 | 10% ≤ … < 20% | EJ | 60 000 |
 
-| 20. | 30% ≤ ... | NSJ | 260 000 |
+| 55 | 20% ≤ … < 30% | NSJ | 160 000 |
 
-| 21. | Nincs felszerelve sebességkorlátozó készülék |  | RSJ | 1 040 000 | üzemben tartó |
+| 56 | 30% ≤ … | NSJ | 300 000 |
 
-| 22. | A sebességkorlátozó készülék nem elégíti ki a vonatkozó műszaki követelményeket |  | NSJ | 520 000 |
+| 57 | a visszatartás szabályainak megszegése |  | RSJ | 780 000 |
 
-| 23. | A sebességkorlátozó készüléket nem engedéllyel rendelkező műhely szerelte fel |  | SJ | 260 000 |
+| 58 | a tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén |  | NSJ | 360 000 |
 
-| 24. | Olyan, csalásra alkalmas berendezés birtoklása és/vagy használata, amely képes a sebességkorlátozó készülék adatainak meghamisítására, vagy csalásra alkalmas sebességkorlátozó készülék birtoklása és/vagy használata |  | RSJ | 1 040 000 | járművezető, üzemben tartó |
+| 59 | a közúti ellenőrzésre (beleértve a tengelyterhelés mérésre utasító jelzést is) történő kiterelésre utasító jelzőtábla, közúti ellenőrzésre jogosult közúti ellenőrzésre utasító jelzésének figyelmen kívül hagyása |  | RSJ | 1 250 000 |
 
-| 25. | A visszatartás szabályainak megszegése |  | RSJ | 650 000 | járművezető |
+| 60 | a közúti ellenőrzésben való közreműködés megtagadása, közúti ellenőrzés akadályozása |  | RSJ | 1 250 000 |
 
-| 26. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén |  | NSJ | 300 000 | járművezető |
+9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^106]
 
-| 27. | A közúti ellenőrzésre (beleértve a tengelyterhelés mérésre utasító jelzést is) történő kiterelésre utasító jelzőtábla, közúti ellenőrzésre jogosult közúti ellenőrzésre utasító jelzésének figyelmen kívül hagyása. |  | RSJ | 1 040 000 | járművezető |
-
-| 28. | A közúti ellenőrzésben való közreműködés megtagadása, közúti ellenőrzés akadályozása |  | RSJ | 1 040 000 | járművezető |
-
-9. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^115]
-
-[^115]: A 9. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^106]: A 9. melléklet a 272/2025. (VIII. 18.) Korm. rendelet 13. § i) pontjával megállapított szöveg.
