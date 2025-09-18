@@ -4,9 +4,9 @@
 
 (3) E rendelet 10–11. §-a 2008. május 1-jén lép hatályba.
 
-(4)[^50]
+(4)[^49]
 
-(5)[^51]
+(5)[^50]
 
-[^50]: A 13. § (4) bekezdése e rendelet 13. § (5) bekezdése alapján hatályát vesztette.
-[^51]: A 13. § (5) bekezdését a 69/2009. (IV. 2.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^49]: A 13. § (4) bekezdése e rendelet 13. § (5) bekezdése alapján hatályát vesztette.
+[^50]: A 13. § (5) bekezdését a 69/2009. (IV. 2.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

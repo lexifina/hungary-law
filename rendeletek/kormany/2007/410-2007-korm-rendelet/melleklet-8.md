@@ -8,4 +8,4 @@
 
 8. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^67]
 
-[^67]: A 8. mellékletet a 69/2009. (IV. 2.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^67]: A 8. mellékletet a 69/2009. (IV. 2.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte, újonnan a 272/2025. (VIII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.
