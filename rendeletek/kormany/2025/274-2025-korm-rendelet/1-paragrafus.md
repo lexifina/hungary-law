@@ -2,22 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 37. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § (1) A rendeltetésmódosítási eljárás során alkalmazandó részletes szabályokról szóló 143/2018. (VIII. 13.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése a következő d) ponttal egészül ki:
+1. §[^2]
 
-[E rendeletet a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 33. alcímében szabályozott,]
-
-## „d) a 400 m2-nél nagyobb bruttó alapterületű
-
-## da) kereskedelmi építménynek,
-
-## db) kereskedelmi építmény 400 m2-nél nagyobb bruttó alapterületű kereskedelmi rendeltetésű önálló rendeltetési egysége vagy árusítótere részének vagy egészének
-
-## a kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő üzlet kialakítása céljából történő átruházására vagy használatba adására”
-
-## [(a továbbiakban együtt: rendeltetésmódosítási eljárás) kell alkalmazni.]
-
-(2) Az R. 1. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Ha az (1) bekezdés szerinti 400 m2-nél nagyobb bruttó alapterületű építmény, önálló rendeltetési egység vagy árusítótér rendeltetésmódosítási engedéllyel rendelkező engedélyese az építménynek, önálló rendeltetési egységének vagy árusítóterének egy részét vagy egészét bármilyen jogcímen a kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő üzlet kialakítása céljából átruházza vagy használatba adja, az építmény, önálló rendeltetési egység vagy árusítótér kereskedelmi rendeltetési célból történő használatához az új tulajdonosnak vagy használónak új rendeltetésmódosítási engedélyt kell kérnie.
-
-(1b) Ha az (1) bekezdés szerinti 400 m2-nél nagyobb bruttó alapterületű építmény vagy önálló rendeltetési egység az építésügyi hatóság használatbavételre jogosító engedélyével rendelkezik, de annak használatát a használatbavételi engedély jogosultja bármilyen módon másnak a kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő üzlet kialakítása céljából átengedi, az új használónak rendeltetésmódosítási engedélyt kell kérnie.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

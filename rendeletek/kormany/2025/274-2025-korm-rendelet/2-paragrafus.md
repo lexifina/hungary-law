@@ -1,1 +1,3 @@
-2. § Az R. 1. § (1) bekezdés c) pontjában az „átalakítására” szövegrész helyébe az „átalakítására – ideértve az árusítótérnek a határoló szerkezeteihez rögzített elemekkel történő, a kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő üzlet működtetése céljából újonnan létrejövő, egybefüggő részt eredményező tagolását, el- vagy leválasztását is –” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
