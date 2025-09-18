@@ -61,3 +61,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2025-03-01 | 2007-329-20-22.60 | 13/2025. (II. 18.) Korm. rendelet |
 | 2025-05-27 | 2007-329-20-22.61 | 111/2025. (V. 26.) Korm. rendelet |
 | 2025-07-01 | 2007-329-20-22.62 | 111/2025. (V. 26.) Korm. rendelet |
+| 2025-09-18 | 2007-329-20-22.63 | 259/2021. (V. 20.) Korm. rendelet |

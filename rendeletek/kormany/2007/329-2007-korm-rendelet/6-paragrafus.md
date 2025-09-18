@@ -112,7 +112,7 @@ s)[^56] a fegyveres biztonsági őrségről, a természetvédelmi és a mezei ő
 
 t)[^57] az Rtv. 92. §-a alapján indult közigazgatási hatósági eljárásokban a területi szervek által hozott döntések tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el,
 
-u)[^58] a közúti közlekedésről szóló 1988. évi I. törvény 21. § (1) bekezdés a)–c) és e)–h) pontja szerinti bírságolással kapcsolatos eljárások tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
+u)[^58] a közúti közlekedésről szóló 1988. évi I. törvény 21. § (1) bekezdés a)–c), e)–h) és j) pontja szerinti bírságolással kapcsolatos eljárások tekintetében az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
 
 (3a)[^59] Az ORFK gazdasági feladatkörében ellátja a központi bírságkezelő szerv kijelöléséről szóló kormányrendelet szerinti központi bírságkezelő szerv feladatait.
 
@@ -168,6 +168,6 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^55]: A 6. § (3) bekezdés r) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § a) pontja szerint módosított szöveg.
 [^56]: A 6. § (3) bekezdés s) pontját a 375/2020. (VII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^57]: A 6. § (3) bekezdés t) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be.
-[^58]: A 6. § (3) bekezdés u) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be.
+[^58]: A 6. § (3) bekezdés u) pontját a 259/2021. (V. 20.) Korm. rendelet 17. §-a iktatta be, szövege a 272/2025. (VIII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^59]: A 6. § (3a) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 13. §-a iktatta be.
 [^60]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
