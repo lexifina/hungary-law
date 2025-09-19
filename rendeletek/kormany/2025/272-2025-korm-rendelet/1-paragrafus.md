@@ -12,4 +12,6 @@
 
 ## 1. A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet módosítása
 
-1. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 6. § (3) bekezdés u) pontjában az „a)–c) és e)–h) pontja” szövegrész helyébe az „a)–c), e)–h) és j) pontja” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

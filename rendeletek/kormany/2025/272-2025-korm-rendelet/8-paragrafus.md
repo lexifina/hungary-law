@@ -1,5 +1,5 @@
 ## 3. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
 
-8. § A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet [a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet] 4. § b) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-[A Kkt. 20. § (1) bekezdés c) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 3. és 4/A. mellékletben meghatározott összegű bírságot köteles fizetni az, aki]
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
