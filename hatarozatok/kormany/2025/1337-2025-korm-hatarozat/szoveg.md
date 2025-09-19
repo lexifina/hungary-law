@@ -1,1 +1,0 @@
-A határon túli célú költségvetési támogatások biztosításáról szóló 1810/2018. (XII. 23.) Korm. határozat 1. mellékletében foglalt táblázat 14. sorában a „szervezet ingatlanvásárlásának, valamint oktatási és kulturális célú ingatlanfejlesztésének” szövegrész helyébe a „Minerva Kulturális Központ létrehozásával kapcsolatos egyes munkálatok” szöveg lép.
