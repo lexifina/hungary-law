@@ -1,3 +1,3 @@
-2. § A 314/2005. (XII. 25.) Korm. rendelet 30. § f) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(Ez a rendelet a Kvt.-vel együtt)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
