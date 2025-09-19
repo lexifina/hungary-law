@@ -46,8 +46,11 @@
 
 | Határidő: | azonnal |
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában a „2026. május 31.” szövegrész helyébe a „2027. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A K–12 Mesterszalon kialakításával és működésével összefüggő intézkedésekről szóló 1440/2019. (VII. 26.) Korm. határozat 1. pontjában a „felújításával és a működéshez szükséges eszközbeszerzéssel;” szövegrész helyébe a „felújításával (a továbbiakban: Beruházás) és a működéshez szükséges eszközbeszerzéssel, valamint a Beruházás I. üteméhez a 2. pont szerint költségvetési támogatás nyújtásával;” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1334/2025. (IX. 18.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
