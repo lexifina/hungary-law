@@ -1,0 +1,1 @@
+4. § A 2. § szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen – annak együttes összegének mértékéig – a jóváírt 2026. évi ruházati utánpótlási ellátmány összegének legfeljebb 80%-a tartható vissza.
