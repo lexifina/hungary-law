@@ -386,7 +386,7 @@
 
 | 193. | Szécsény és Térsége Egészségügyi Centrum | Szécsény |
 
-| 194. | Szegedi Kistérség Többcélú Társulása Egyesített Szociális Intézmény | Szeged |
+| 194. | Szeged Megyei Jogú Város Önkormányzata Egyesített Szociális Intézmény | Szeged |
 
 | 195. | Székesfehérvár Vármegyei Jogú Város Önkormányzata Humán Szolgáltató Intézet | Székesfehérvár |
 
@@ -506,7 +506,7 @@
 
 | 253. | Szegedi Sport és Fürdők Kft. | Szeged |
 
-| 254. | Vámospércsi Rendelőintézet | Vámospércs |
+| 254. | Bácsalmási Egészségközpont | Bácsalmás |
 
 | 255. | Pro Rekreatione Közhasznú Nonproft Kft. | Gárdony |
 
@@ -518,7 +518,7 @@
 
 | 259. | ARNAUT PASA FÜRDŐJE Gyógyászati Korlátolt Felelősségű Társaság | Eger |
 
-| 260. | Vámospércs-Kistérségi Egészségügyi Szakellátó Nonprofit Korlátolt Felelősségű Társaság | Vámospércs |
+| 260. | Vámospércsi Rendelőintézet | Vámospércs |
 
 | 261. | Százhalombattai Egészségügyi Közalapítvány | Százhalombatta |
 
@@ -585,6 +585,14 @@
 | 292. | Városi Egészségügyi Központ | Gyál |
 
 | 293. | Mezőkovácsházi Humán Szolgáltató Központ | Mezőkovácsháza |
+
+| 294. | Gyógyfürdő Nonprofit Közhasznú Kft. | Túrkeve |
+
+| 295. | Kornisné Liptay Elza Szociális és Gyermekjóléti Központ | Tiszavasvári |
+
+| 296. | Térségi Népjóléti Gondozási Központ | Várpalota |
+
+| 297. | "MOFETTA 2003" Egészségügyi, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság | Mátraderecske |
 
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^137]
 

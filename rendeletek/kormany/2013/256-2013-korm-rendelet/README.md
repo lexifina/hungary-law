@@ -72,3 +72,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2025-03-08 | 2013-256-20-22.64 | 394/2013. (XI. 14.) Korm. rendelet |
 | 2025-03-14 | 2013-256-20-22.65 | 44/2025. (III. 13.) Korm. rendelet |
 | 2025-06-01 | 2013-256-20-22.66 | 394/2013. (XI. 14.) Korm. rendelet |
+| 2025-09-19 | 2013-256-20-22.67 | 2010: CXXX. törvény |
