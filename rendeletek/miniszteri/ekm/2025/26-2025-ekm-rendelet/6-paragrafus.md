@@ -1,0 +1,1 @@
+6. § A beruházás-lebonyolítói szakmai továbbképzés sikeres befejezésekor a szakmagyakorló részére a továbbképzést nyújtó szervezet a továbbképzésnek megfelelően beruházás-lebonyolítói tanúsítványt állít ki.

@@ -1,0 +1,1 @@
+10. § Az e rendelet szerinti beruházás-lebonyolítói, valamint költségszakértői szakmai továbbképzés alól mentesül, aki rendelkezik az e rendelet hatálybalépését megelőzően kiállított beruházás-lebonyolítói, valamint költségszakértői továbbképzést igazoló tanúsítvánnyal.
