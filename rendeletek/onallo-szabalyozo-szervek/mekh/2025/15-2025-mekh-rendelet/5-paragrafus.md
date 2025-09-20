@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 16/2022. (XII. 21.) MEKH rendelet 10. § (5) bekezdésében az „és az azt követő, árszabályozási ciklus alatti években” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
