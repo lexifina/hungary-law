@@ -1,0 +1,1 @@
+Az Országgyűlés Tóth Endre országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE.5551/2025/1-II. számú indítványában meghatározott, helyszín biztosításával kapcsolatos szabálysértés gyanúja miatt a Budapesti Rendőr-főkapitányság III. kerületi Rendőrkapitánysága mint szabálysértési hatóság előtt 01803/53/2025. ált. számon indított ügyben felfüggeszti.
