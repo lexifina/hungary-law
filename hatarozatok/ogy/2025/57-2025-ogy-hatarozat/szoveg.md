@@ -1,0 +1,1 @@
+Az Országgyűlés Tordai Bence országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE. 6619/2025/2-I. számú indítványában meghatározott, közúti közlekedési szabályok kisebb fokú megsértése szabálysértés gyanúja miatt a Budapesti Rendőr-főkapitányság II. kerületi Rendőrkapitánysága mint szabálysértési hatóság előtt 01802/18/2025. ált. számon indított ügyben felfüggeszti.
