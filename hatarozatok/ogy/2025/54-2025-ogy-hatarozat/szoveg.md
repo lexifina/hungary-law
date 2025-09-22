@@ -1,0 +1,1 @@
+Az Országgyűlés Lőcsei Lajos országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE.6291/2025/2-I. számú indítványában meghatározott, közúti közlekedési szabályok kisebb fokú megsértése szabálysértés gyanúja miatt a Budapesti Rendőr-főkapitányság V. kerületi Rendőrkapitánysága mint szabálysértési hatóság előtt 01805/21/2025. ált. számon indított ügyben felfüggeszti.
