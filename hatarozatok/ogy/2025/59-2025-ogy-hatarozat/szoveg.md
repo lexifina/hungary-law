@@ -1,0 +1,1 @@
+Az Országgyűlés Bedő Dávid országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE. 6740/2025/2-I. számú indítványában meghatározott, gyülekezési joggal visszaélés szabálysértés gyanúja miatt a Budapesti Rendőr-főkapitányság V. kerületi Rendőrkapitánysága mint szabálysértési hatóság előtt 01805/27/2025. ált. számon indított ügyben felfüggeszti.
