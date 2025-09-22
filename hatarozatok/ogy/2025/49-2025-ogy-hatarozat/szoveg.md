@@ -1,0 +1,1 @@
+Az Országgyűlés Lőcsei Lajos országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE.6147/2025/3-I. számú indítványában meghatározott, gyülekezési joggal visszaélés szabálysértés gyanúja miatt a Budapesti Rendőr-főkapitányság V. kerületi Rendőrkapitánysága mint szabálysértési hatóság előtt 01805/17/2025. ált. számon indított ügyben felfüggeszti.
