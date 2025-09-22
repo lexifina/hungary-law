@@ -1,0 +1,1 @@
+Az Országgyűlés Bedő Dávid országgyűlési képviselő mentelmi jogát a legfőbb ügyész T.KvFE.5063/2025/3-I. számú indítványában meghatározott, polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés gyanúja miatt a Zalaegerszegi Rendőrkapitányság mint szabálysértési hatóság előtt 20801/2/2025. ált. számon indított ügyben felfüggeszti.
