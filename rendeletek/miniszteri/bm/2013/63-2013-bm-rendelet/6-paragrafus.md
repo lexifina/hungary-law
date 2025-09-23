@@ -1,12 +1,14 @@
-6. § (1)[^9] Az eltűnt, valamint a nem rendőrség által elrendelt körözés alapján az ismeretlen helyen tartózkodó személy felkutatására irányuló körözési eljárás lefolytatására a (2)–(6) bekezdésben meghatározott kivétellel az ismeretlen helyen tartózkodó személy:
+6. § (1)[^9] Az eltűnt személy, valamint a nem rendőrség által elrendelt körözés alapján az ismeretlen helyen tartózkodó személy felkutatására irányuló körözési eljárás lefolytatására a (2)–(6) bekezdésben meghatározott kivétellel
 
-a) bejelentett lakóhelye,
+a) az ismeretlen helyen tartózkodó személy személyiadat- és lakcímnyilvántartás szerinti lakóhelye,
 
-b) bejelentett lakóhely hiányában bejelentett tartózkodási helye,
+b) – az a) pontban foglaltak hiányában – az ismeretlen helyen tartózkodó személy személyiadat- és lakcímnyilvántartás szerinti tartózkodási helye,
 
-c) bejelentett lakó- vagy tartózkodási helye hiányában utolsó ismert bejelentett lakó-, illetve tartózkodási helye,
+c) – az a) és b) pontban foglaltak hiányában – az ismeretlen helyen tartózkodó személy utolsó ismert tartózkodási helye,
 
-d) az a)–c) pontban felsoroltak hiányában a személlyel kapcsolatban körözést elrendelő szerv hatóság vagy egyéb szerv székhelye, az eltűnéssel összefüggésben bejelentést tévő személy lakóhelye vagy intézmény székhelye, ennek hiányában a bejelentés helye szerinti rendőrkapitányság illetékes.
+d) – az a)–c) pontban foglaltak hiányában – az ismeretlen helyen tartózkodó személlyel kapcsolatban körözést elrendelő szerv, hatóság vagy egyéb szerv székhelye, az eltűnéssel összefüggésben bejelentést tévő személy lakóhelye vagy intézmény székhelye, ennek hiányában a bejelentés helye
+
+szerinti rendőrkapitányság illetékes.
 
 (2) Az ismeretlen helyen tartózkodó kiskorúval kapcsolatban a körözési eljárást lefolytató rendőri szerv illetékességének megállapítása során az (1) bekezdés rendelkezéseit a kiskorú felügyeletét ellátó nagykorú személyre vonatkozóan kell alkalmazni.
 
@@ -38,7 +40,7 @@ d) az a)–c) pontban felsoroltak hiányában a személlyel kapcsolatban köröz
 
 (10)[^22] A (7) és a (8) bekezdés rendelkezései a körözési eljárás lefolytatására való illetékességet nem érintik.
 
-[^9]: A 6. § (1) bekezdés nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 8. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdése a 39/2025. (IX. 18.) BM rendelet 8. §-ával megállapított szöveg.
 [^10]: A 6. § (2a) bekezdését a 74/2015. (XII. 21.) BM rendelet 5. § (1) bekezdése iktatta be.
 [^11]: A 6. § (4) bekezdése a 62/2024. (XII. 30.) BM rendelet 24. §-ával megállapított, a 19/2025. (VI. 13.) BM rendelet 9. § a) pontja szerint módosított szöveg.
 [^12]: A 6. § (5) bekezdése a 37/2018. (XII. 28.) BM rendelet 26. §-ával megállapított szöveg.
