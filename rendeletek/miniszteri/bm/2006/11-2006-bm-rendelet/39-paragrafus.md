@@ -1,3 +1,3 @@
-## 38. §[^99]
+39. §[^102]
 
-[^99]: A 38. §-t és az azt megelőző alcímet az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^102]: A 39. §-t az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.

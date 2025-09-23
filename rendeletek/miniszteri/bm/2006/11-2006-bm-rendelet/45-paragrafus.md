@@ -1,4 +1,4 @@
-45. §[^108] (1)[^109] Az elrendelésre jogosult vezető az iratok kézhezvételétől számított három munkanapon belül, a kézhezvételtől számított 15 napon belüli időpontra meghallgatást tűz ki, amelyen az eljárás alá vont személy és képviselője, valamint a vizsgáló lehet jelen.
+45. §[^110] (1)[^111] Az elrendelésre jogosult vezető az iratok kézhezvételétől számított három munkanapon belül, a kézhezvételtől számított 15 napon belüli időpontra meghallgatást tűz ki, amelyen az eljárás alá vont személy és képviselője, valamint a vizsgáló lehet jelen.
 
-[^108]: A 45. § a 37/2015. (VI. 16.) BM rendelet 38. §-ával megállapított szöveg.
-[^109]: [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 5. pontjával elrendelt módosítás, amely szeint a „fegyveres” szövegrész helyébe a „rendvédelmi” szöveg lép, nem vezethető át.]
+[^110]: A 45. § a 37/2015. (VI. 16.) BM rendelet 38. §-ával megállapított szöveg.
+[^111]: [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 5. pontjával elrendelt módosítás, amely szeint a „fegyveres” szövegrész helyébe a „rendvédelmi” szöveg lép, nem vezethető át.]

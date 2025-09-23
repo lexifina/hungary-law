@@ -1,12 +1,10 @@
-## oly módon kell vezetni, hogy a Tv. 227. § (1) bekezdésében rögzített feltételek az a)–g) pontban meghatározott szerveknél vezetett névjegyzékek mindegyikére önállóan teljesüljenek.
-
 47/B. § (1) A névjegyzékre vételre a hivatásos állomány tagjának
 
 a) önkéntes jelentkezése, vagy
 
 b) – a hivatásos állomány tagjának beleegyezése esetén – az állományilletékes parancsnok általi jelölése
 
-## alapján kerülhet sor.
+alapján kerülhet sor.
 
 (2) A hivatásos állomány más szervnél szolgálatot teljesítő tagja annak a szervnek a névjegyzékére történő felvételre jelentkezhet vagy jelölhető, ahonnan őt szolgálatteljesítésre vezényelték vagy átrendelték.
 
