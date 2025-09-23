@@ -16,10 +16,11 @@ f) a hivatásos állomány tagját az egészségi alkalmatlanság megállapítá
 
 g) az álláshely elfogadása esetén az új illetményre vonatkozó adatok,
 
-h) ha a rendvédelmi szerv rendelkezésére áll ilyen irat, a hivatásos állomány tagjának baleseti járadékra vagy baleseti táppénzre (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátásra vagy rehabilitációs ellátásra való jogosultságáról, továbbá az ezen ellátás összegéről szóló tájékoztatás,
+h)[^17] ha a rendvédelmi szerv rendelkezésére áll ilyen irat, a hivatásos állomány tagjának baleseti ellátásra, rokkantsági ellátásra vagy rehabilitációs ellátásra való jogosultságáról, továbbá az ezen ellátás összegéről szóló tájékoztatás,
 
 i) a döntéshozatalhoz szükséges egyéb személyügyi adatok, és
 
 j) a szolgálati viszony megszüntetéséről szóló állományparancs vagy határozat tervezete.
 
 [^16]: A 12. § nyitó szövegrésze a 40/2017. (XII. 29.) BM rendelet 16. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^17]: A 12. § h) pontja a 39/2025. (IX. 18.) BM rendelet 17. § a) pontja szerint módosított szöveg.
