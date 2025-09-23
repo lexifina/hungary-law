@@ -1,4 +1,4 @@
-3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^86]
+3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^87]
 
 Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -102,7 +102,7 @@ Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellát
 
 4. Az idegenrendészeti szerv hivatásos állománya ügyfélszolgálati feladatok ellátása esetén a szolgálati feladatokat formaruházatban látja el.
 
-4.1.[^87] A szolgálati feladatok függvényében a hivatásos állomány helyszíni ellenőrzésbe bevonható tagjai részére a kijelölt állomány biztonsága, láthatósága és megkülönböztetése érdekében speciális szolgálati egyenruházatként a normán felül 1 db 08. mintájú jó láthatósági átvetőt (MSZ EN 1150 szerinti fluoreszcens sárga) kell kiadni.
+4.1.[^88] A szolgálati feladatok függvényében a hivatásos állomány helyszíni ellenőrzésbe bevonható tagjai részére a kijelölt állomány biztonsága, láthatósága és megkülönböztetése érdekében speciális szolgálati egyenruházatként a normán felül 1 db 08. mintájú jó láthatósági átvetőt (MSZ EN 1150 szerinti fluoreszcens sárga) kell kiadni.
 
 5. A hivatásos állomány az alább felsorolt termékeket megengedett öltözetként viselheti:
 
@@ -122,5 +122,5 @@ Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellát
 
 | 7 | 10M e. r. gyakorló zubbony, felirattal | 2028. 12. 31. |
 
-[^86]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 46/2024. (IX. 26.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^87]: A 3/A. melléklet 4.1. pontját a 24/2025. (VII. 16.) BM rendelet 7. § (2) bekezdése iktatta be.
+[^87]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 46/2024. (IX. 26.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^88]: A 3/A. melléklet 4.1. pontját a 24/2025. (VII. 16.) BM rendelet 7. § (2) bekezdése iktatta be.

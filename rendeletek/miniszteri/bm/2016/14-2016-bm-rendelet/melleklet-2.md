@@ -58,7 +58,7 @@
 
 ## * Az egyenruházati cikkeknél és a ruházati felszereléseknél meghatározott tervezett viselési idők azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló-, speciális vagy munkaruházati) termékek vegyes használata mellett a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati utánpótlási ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – az önálló szerv költségvetése terhére történő – kártérítésénél a tervezett viselési időket figyelembe kell venni.
 
-2. melléklet a 14/2016. (V. 10.) BM rendelethez[^84]
+2. melléklet a 14/2016. (V. 10.) BM rendelethez[^85]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -694,4 +694,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^84]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése, a 73/2022. (XII. 27.) BM rendelet 1. §-a, az 55/2023. (XII. 19.) BM rendelet 8. § (1) bekezdése, a 94/2023. (XII. 28.) BM rendelet 1. §-a, a 24/2025. (VII. 16.) BM rendelet 7. § (1) bekezdése szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]
+[^85]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése, a 73/2022. (XII. 27.) BM rendelet 1. §-a, az 55/2023. (XII. 19.) BM rendelet 8. § (1) bekezdése, a 94/2023. (XII. 28.) BM rendelet 1. §-a, a 24/2025. (VII. 16.) BM rendelet 7. § (1) bekezdése szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]

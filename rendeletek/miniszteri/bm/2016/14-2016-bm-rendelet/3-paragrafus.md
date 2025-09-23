@@ -2,7 +2,7 @@
 
 (1a)[^12] Ha a ruházati ellátási normában a termék természetbeni kiadása helyett annak beszerzésére költségtérítés kerül biztosításra, az igényjogosult az (1) bekezdésben meghatározottak mellett a költségtérítésből beszerzett termékeket is viselheti. Ha a terméket az igényjogosult látható felületen viseli, a termék külső megjelenésének a ruházati ellátási normában meghatározott külső megjelenésnek meg kell felelnie. A viselés során nem látható termék esetében a termék külső megjelenése nem kerül meghatározásra.
 
-(2)[^13] A más szervhez vezényelt, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezényelt, a hatósági vezényelt, az ügyészi szervezethez vezényelt vagy a Nemzeti Közszolgálati Egyetemre vezényelt hivatásos állomány az e rendeletben meghatározott kivétellel a vezénylő rendvédelmi feladatokat ellátó szervnél rendszeresített egyenruházati terméket és felszerelési cikket viselhet. A terrorizmust elhárító szervhez és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervhez vezényelt rendőri állomány a fogadó rendvédelmi feladatokat ellátó szervnél rendszeresített egyenruházati terméket és felszerelési cikket viselhet.
+(2)[^13] A más szervhez vezényelt, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezényelt, a hatósági vezényelt, az ügyészi szervezethez vezényelt vagy a Nemzeti Közszolgálati Egyetemre vezényelt hivatásos állomány az e rendeletben meghatározott kivétellel a vezénylő rendvédelmi feladatokat ellátó szervnél rendszeresített egyenruházati terméket és felszerelési cikket viselhet. A polgári nemzetbiztonsági szolgálathoz vezényelt hivatásos állomány a vezénylő rendvédelmi feladatokat ellátó szervnél rendszeresített egyenruházati terméket és felszerelési cikket, valamint a fogadó polgári nemzetbiztonsági szolgálatnál rendszeresített egyenruházati terméket és felszerelési cikket is viselhet. A terrorizmust elhárító szervhez és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervhez vezényelt rendőri állomány a fogadó rendvédelmi feladatokat ellátó szervnél rendszeresített egyenruházati terméket és felszerelési cikket viselhet.
 
 (2a)[^14] Más rendvédelmi feladatokat ellátó szervhez történő áthelyezéskor az igényjogosultat azon ékítményekkel és termékekkel, amelyek cseréje e rendelkezésre tekintettel szükséges, a 15. § (1) bekezdés d) pontjának alkalmazásával el kell látni.
 
@@ -14,7 +14,7 @@
 
 [^11]: A 3. § (1) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § (1a) bekezdését a 29/2017. (XI. 6.) BM rendelet 2. § (1) bekezdése iktatta be.
-[^13]: A 3. § (2) bekezdése a 62/2024. (XII. 30.) BM rendelet 45. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdése a 39/2025. (IX. 18.) BM rendelet 13. §-ával megállapított szöveg.
 [^14]: A 3. § (2a) bekezdését a 29/2017. (XI. 6.) BM rendelet 2. § (2) bekezdése iktatta be.
 [^15]: A 3. § (3) bekezdése az 55/2023. (XII. 19.) BM rendelet 2. §-ával megállapított szöveg.
 [^16]: A 3. § (5) bekezdése a 6/2022. (IV. 14.) BM rendelet 8. § 1. pontja szerint módosított szöveg.
