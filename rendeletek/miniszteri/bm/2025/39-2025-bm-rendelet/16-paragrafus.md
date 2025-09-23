@@ -1,0 +1,7 @@
+16. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 54/2016. (XII. 22.) BM rendelet 7. alcíme a következő 28. §-sal egészül ki:
+
+„28. § (1) Ha a 2025. augusztus 31-én egészségkárosodási ellátásra jogosult tekintetében az egészségkárosodási ellátás mértékét a Hszt. 82/H. § (5a) bekezdése alapján – figyelemmel a Hszt. 376. § a) pontjában foglaltakra is – 2025. szeptember 1-jei hatállyal módosítani kell, az országos parancsok az egészségkárosodási ellátás új mértékéről szóló határozatot a 22. § (2) bekezdés a) pontjában foglaltaktól eltérően 2025. szeptember 22. napjáig hozza meg.
+
+(2) Ha a 2025. augusztus 31-én egészségkárosodási ellátásra jogosult tekintetében az egészségkárosodási ellátás mértékét a Hszt. 82/H. § (5a) bekezdése alapján – figyelemmel a Hszt. 376. § b) pontjában foglaltakra is – 2026. január 1-jei hatállyal módosítani kell, az országos parancsok az egészségkárosodási ellátás új mértékéről szóló határozatot a 22. § (2) bekezdés a) pontjában foglaltaktól eltérően 2026. január 21. napjáig hozza meg.
+
+(3) Ha a 2025. augusztus 31-én egészségkárosodási ellátásra jogosult tekintetében az egészségkárosodási ellátás mértékét a Hszt. 82/H. § (5a) bekezdése alapján – figyelemmel a Hszt. 376. §-ában foglaltakra is – 2027. január 1-jei hatállyal módosítani kell, az országos parancsok az egészségkárosodási ellátás új mértékéről szóló határozatot a 22. § (2) bekezdés a) pontjában foglaltaktól eltérően 2027. január 21. napjáig hozza meg.”

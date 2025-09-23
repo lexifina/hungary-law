@@ -1,0 +1,1 @@
+11. § Hatályát veszti a Tűzvédelmi Műszaki Bizottság létrehozásának, összetételének, feladatkörének és működésének részletes szabályairól szóló 53/2014. (XII. 5.) BM rendelet 2. § (2) bekezdés j) pontjában a „valamint” szövegrész.
