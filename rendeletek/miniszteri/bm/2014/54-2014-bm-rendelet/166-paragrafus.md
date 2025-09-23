@@ -18,8 +18,8 @@ f) a főelzáró szerelvények üzemszerű állapotát (nyitott vagy zárt).
 
 a) olyan riasztóberendezést kell létesíteni, amely az oltóberendezés működésbe lépése előtt – jogszabályokban meghatározott kiürítési időt is számításba véve – figyelmeztető jelzést ad, kivéve, ha a belépés csak kikapcsolt oltóberendezés mellett lehetséges és
 
-b)[^393] az oltóanyag kiáramlásának megakadályozására alkalmas blokkoló szerkezetet vagy kapcsolót kell beépíteni.
+b)[^397] az oltóanyag kiáramlásának megakadályozására alkalmas blokkoló szerkezetet vagy kapcsolót kell beépíteni.
 
 (3) Abban az esetben is a (2) bekezdés szerinti biztonsági megoldások alkalmazása szükséges, ha az egészségkárosító hatás határértékét jelentő koncentráció nincs meghatározva.
 
-[^393]: A 166. § (2) bekezdés b) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 37. pontja szerint módosított szöveg.
+[^397]: A 166. § (2) bekezdés b) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 37. pontja szerint módosított szöveg.

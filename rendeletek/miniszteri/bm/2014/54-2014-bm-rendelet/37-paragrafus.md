@@ -1,12 +1,12 @@
-## 14. [^108] Szállásjellegű rendeltetés
+## 14. [^110] Szállásjellegű rendeltetés
 
-37. § (1)[^109] Szállásjellegű rendeltetés esetén a szobaegység és a szomszédos helyiségek közötti elválasztó fal legalább EI 30 tűzállósági teljesítményű legyen.
+37. § (1)[^111] Szállásjellegű rendeltetés esetén a szobaegység és a szomszédos helyiségek közötti elválasztó fal legalább EI 30 tűzállósági teljesítményű legyen.
 
-(2)[^110] A NAK és AK kockázati osztályú kockázati egység kivételével a szobaegységek épületen belüli bejárati ajtói legalább EI2 30-C tűzállósági teljesítményűek legyenek.
+(2)[^112] A NAK és AK kockázati osztályú kockázati egység kivételével a szobaegységek épületen belüli bejárati ajtói legalább EI2 30-C tűzállósági teljesítményűek legyenek.
 
-(3)[^111] A menekülési útvonalra nyíló 20 m2-nél nagyobb alapterületű tárolóhelyiségek ajtói EI2 30-C teljesítményűek legyenek.
+(3)[^113] A menekülési útvonalra nyíló 20 m2-nél nagyobb alapterületű tárolóhelyiségek ajtói EI2 30-C teljesítményűek legyenek.
 
-(4)[^112] A szállásjellegű épület, épületrész tömegtartózkodásra szolgáló helyiségeinek
+(4)[^114] A szállásjellegű épület, épületrész tömegtartózkodásra szolgáló helyiségeinek
 
 a) falburkolata, mennyezetburkolata és belső oldali hő- és hangszigetelése legalább B-s1, d0 tűzvédelmi osztályú és
 
@@ -14,15 +14,15 @@ b) padlóburkolata legalább Cfl-s1 tűzvédelmi osztályú
 
 legyen.
 
-(5)[^113] Elegendő a lakó rendeltetésre vonatkozó követelmények betartása a szociális vagy gyermekvédelmi ellátás keretében működő szállás vagy saját otthont pótló, helyettesítő intézmény esetén akkor, ha
+(5)[^115] Elegendő a lakó rendeltetésre vonatkozó követelmények betartása a szociális vagy gyermekvédelmi ellátás keretében működő szállás vagy saját otthont pótló, helyettesítő intézmény esetén akkor, ha
 
 a) gyermekvédelmi ellátás esetén az ellátott, gondozott személyek, valamint a felügyeletüket, szükség szerinti mentésüket ellátó személyek aránya legfeljebb 5:1, és a felügyeletet folyamatosan ellátják, valamint a (6) bekezdésben foglaltak teljesülnek,
 
 b) szociális ellátás esetén a szállás, intézmény legfeljebb 12 fő fogyatékos személy, pszichiátriai beteg, szenvedélybeteg lakhatását biztosítja, vagy a lakhatást családok átmeneti otthonához, hajléktalan személyek átmeneti szállásához, nappali melegedőjéhez kapcsolódó külső férőhelyen nyújtják.
 
-(6)[^114] Gyermekotthon esetén a jellemzően 6 év alatti korosztályba tartozó gyermekek részére szolgáló helyiség az alagsorban, a földszinten vagy a kijárati szinten, valamint az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 méterrel magasabban elhelyezkedő szinten alakítható ki.
+(6)[^116] Gyermekotthon esetén a jellemzően 6 év alatti korosztályba tartozó gyermekek részére szolgáló helyiség az alagsorban, a földszinten vagy a kijárati szinten, valamint az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 méterrel magasabban elhelyezkedő szinten alakítható ki.
 
-(7)[^115] Szállásjellegű épület esetén a lakórendeltetésre vonatkozó követelmények alkalmazhatóak, ha
+(7)[^117] Szállásjellegű épület esetén a lakórendeltetésre vonatkozó követelmények alkalmazhatóak, ha
 
 a) az épület földszintes,
 
@@ -32,11 +32,11 @@ c) valamennyi helyiség kiürítése biztonságos térbe a kiürítés első sza
 
 d) férőhelyeinek száma nem haladja meg a 20 főt.
 
-[^108]: A 14. alcím címe a 8/2022. (IV. 14.) BM rendelet 75. § 7. pontja szerint módosított szöveg.
-[^109]: A 37. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 28. § (1) bekezdésével megállapított, a 8/2022. (IV. 14.) BM rendelet 75. § 8. pontja szerint módosított szöveg.
-[^110]: A 37. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^111]: A 37. § (3) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 106. § 17. pontja szerint módosított szöveg.
-[^112]: A 37. § (4) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 9. pontja szerint módosított szöveg.
-[^113]: A 37. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 28. § (2) bekezdése iktatta be.
-[^114]: A 37. § (6) bekezdését a 30/2019. (VII. 26.) BM rendelet 28. § (2) bekezdése iktatta be.
-[^115]: A 37. § (7) bekezdését a 8/2022. (IV. 14.) BM rendelet 18. §-a iktatta be.
+[^110]: A 14. alcím címe a 8/2022. (IV. 14.) BM rendelet 75. § 7. pontja szerint módosított szöveg.
+[^111]: A 37. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 28. § (1) bekezdésével megállapított, a 8/2022. (IV. 14.) BM rendelet 75. § 8. pontja szerint módosított szöveg.
+[^112]: A 37. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^113]: A 37. § (3) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 106. § 17. pontja szerint módosított szöveg.
+[^114]: A 37. § (4) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 9. pontja szerint módosított szöveg.
+[^115]: A 37. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 28. § (2) bekezdése iktatta be.
+[^116]: A 37. § (6) bekezdését a 30/2019. (VII. 26.) BM rendelet 28. § (2) bekezdése iktatta be.
+[^117]: A 37. § (7) bekezdését a 8/2022. (IV. 14.) BM rendelet 18. §-a iktatta be.

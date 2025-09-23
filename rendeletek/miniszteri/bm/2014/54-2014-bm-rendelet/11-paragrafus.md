@@ -1,4 +1,4 @@
-11. §[^16] (1) A kockázati egység kiterjedésének 10. § (2) bekezdés a)–c) pontja szerinti meghatározása esetén azonos kockázati egységbe helyezhetőek
+11. §[^18] (1) A kockázati egység kiterjedésének 10. § (2) bekezdés a)–c) pontja szerinti meghatározása esetén azonos kockázati egységbe helyezhetőek
 
 a) a lakások egymással,
 
@@ -10,4 +10,4 @@ bb) beépített tűzjelző vagy tűzoltó berendezés létesítési kötelezetts
 
 (2) Az (1) bekezdés szerinti esetekben a kockázati egység alaprendeltetése megegyezik a kockázati egységen belüli, azonos alaprendeltetésű önálló rendeltetési egységek alaprendeltetésenként összesített alapterülete alapján a legnagyobb területet elfoglaló alaprendeltetéssel, ha annak alapterülete meghaladja a teljes alapterület 50%-át. Egyéb esetben a kockázati egység vegyes alaprendeltetésű.
 
-[^16]: A 11. § a 30/2019. (VII. 26.) BM rendelet 6. §-ával megállapított szöveg.
+[^18]: A 11. § a 30/2019. (VII. 26.) BM rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 73. Tűzeseti fogyasztók működőképessége
 
-137. § (1)[^339] A tűzeseti fogyasztók létesítése, beépítése, kialakítása során biztosítani kell, hogy tűz esetén működőképességüket a 11. mellékletben foglalt 1. táblázat szerinti időtartam és a teherhordó falra vonatkozó tűzállóságiteljesítmény-követelmény időtartama közül a kisebb időtartamig megtarthassák. Abban az esetben, ha az építményszerkezetek tűzállósági teljesítményét vagy a tűzszakaszok megengedett méretét fokozott üzembiztonságú tűzoltó berendezés figyelembevételével állapították meg, a 11. mellékletben foglalt 1. táblázat szerinti időtartamot kell biztosítani. Az érintett vezetékrendszer tűzhatás elleni védelmét legfeljebb 90 percig kell biztosítani.
+137. § (1)[^341] A tűzeseti fogyasztók létesítése, beépítése, kialakítása során biztosítani kell, hogy tűz esetén működőképességüket a 11. mellékletben foglalt 1. táblázat szerinti időtartam és a teherhordó falra vonatkozó tűzállóságiteljesítmény-követelmény időtartama közül a kisebb időtartamig megtarthassák. Abban az esetben, ha az építményszerkezetek tűzállósági teljesítményét vagy a tűzszakaszok megengedett méretét fokozott üzembiztonságú tűzoltó berendezés figyelembevételével állapították meg, a 11. mellékletben foglalt 1. táblázat szerinti időtartamot kell biztosítani. Az érintett vezetékrendszer tűzhatás elleni védelmét legfeljebb 90 percig kell biztosítani.
 
 (2) A működőképesség-megtartás megvalósul, ha tűz esetén
 
@@ -18,11 +18,11 @@ b) normál és biztonsági tápforrás együttes alkalmazása esetén a normál 
 
 c) a tűzeseti fogyasztó kialakítása megfelel a vonatkozó műszaki követelménynek vagy azzal egyenértékű.
 
-(3)[^340] Biztonsági tápforrást kell alkalmazni
+(3)[^342] Biztonsági tápforrást kell alkalmazni
 
 a) az MK mértékadó kockázati osztályú építmények, önálló épületrészek tűzeseti fogyasztóinak ellátására,
 
-b) létfontosságú rendszerelemek tűzeseti fogyasztóinak ellátására,
+b)[^343] kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős infrastruktúra tűzeseti fogyasztóinak ellátására,
 
 c) fekvőbeteg-ellátásra szolgáló intézmény tűzeseti fogyasztóinak ellátására és az előkészítéssel vagy azzal sem menthető betegek életfunkcióit fenntartó rendszerek ellátására,
 
@@ -40,5 +40,6 @@ b) egyéb tűzeseti fogyasztó esetén 90 másodperc.
 
 (6) Tűzeseti fogyasztó biztonsági tápellátására gázmotor nem alkalmazható.
 
-[^339]: A 137. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^340]: A 137. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^341]: A 137. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^342]: A 137. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^343]: A 137. § (3) bekezdés b) pontja a 39/2025. (IX. 18.) BM rendelet 12. § c) pontja szerint módosított szöveg.

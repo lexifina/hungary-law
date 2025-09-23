@@ -1,6 +1,6 @@
-## 44. [^246] Az épületbe jutás biztosítása
+## 44. [^248] Az épületbe jutás biztosítása
 
-## 83. §[^247] A tűzoltó egységek számára a roncsolásmentes bejutás lehetőségét biztosítani kell
+## 83. §[^249] A tűzoltó egységek számára a roncsolásmentes bejutás lehetőségét biztosítani kell
 
 a) a 10 000 m2-nél nagyobb alapterületű ipari, mezőgazdasági, termelő, tároló és feldolgozó épület esetében,
 
@@ -14,5 +14,5 @@ e) a 10 000 m2-nél nagyobb alapterületű műemlék és nemzeti értékek elhel
 
 f) ott, ahol a tűzvédelmi hatóság előírja.
 
-[^246]: A 44. alcím címe a 30/2019. (VII. 26.) BM rendelet 51. §-ával megállapított szöveg.
-[^247]: A 83. § a 30/2019. (VII. 26.) BM rendelet 52. §-ával megállapított szöveg.
+[^248]: A 44. alcím címe a 30/2019. (VII. 26.) BM rendelet 51. §-ával megállapított szöveg.
+[^249]: A 83. § a 30/2019. (VII. 26.) BM rendelet 52. §-ával megállapított szöveg.

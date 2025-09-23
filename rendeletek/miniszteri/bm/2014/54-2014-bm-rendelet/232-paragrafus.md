@@ -6,7 +6,7 @@
 
 ## 114. Éghető folyadékok tárolása és szállítása
 
-232. § (1)[^528] Fokozottan tűz- vagy robbanásveszélyes osztályba tartozó aeroszol és folyadék pinceszinten, padlástérben, menekülési útvonalon nem tárolható.
+232. § (1)[^532] Fokozottan tűz- vagy robbanásveszélyes osztályba tartozó aeroszol és folyadék pinceszinten, padlástérben, menekülési útvonalon nem tárolható.
 
 (2) Éghető folyadék csak a folyadék hatásának ellenálló, a folyadékra gyújtási veszélyt nem jelentő, jól zárható edényben tárolható.
 
@@ -14,11 +14,11 @@
 
 (4) Az edények csak kiöntőnyílásukkal felfelé, lezárt állapotban tárolhatók és szállíthatók. Kiürített, de ki nem tisztított edények tárolására és szállítására a megtöltöttekre vonatkozó előírások irányadók. A tárolható anyagmennyiség a tárolóedények űrtartalmának összesített értékét jelenti.
 
-(5)[^529]
+(5)[^533]
 
-(6)[^530] Lakóépületben fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékok maximum 20 liter űrtartalmú tárolóeszközben tárolhatók.
+(6)[^534] Lakóépületben fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadékok maximum 20 liter űrtartalmú tárolóeszközben tárolhatók.
 
-(7)[^531] 20 litert meghaladó mennyiségű fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék egy helyiségen belüli tárolása esetén legalább 1 db szóróeszközt, továbbá
+(7)[^535] 20 litert meghaladó mennyiségű fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék egy helyiségen belüli tárolása esetén legalább 1 db szóróeszközt, továbbá
 
 a) legfeljebb 1 liter űrtartalmú tárolóedény alkalmazásánál legalább 0,02 m3 mennyiségű felitató anyagot,
 
@@ -30,7 +30,7 @@ kell a tárolás helyétől legfeljebb 15 méter távolságra tartani.
 
 (9) Személyszállító felvonó éghető folyadék szállítására legfeljebb 20 liter mennyiségig és legfeljebb 1 személy kíséretében használható.
 
-[^528]: A 232. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 150. pontja és 106. § 55. pontja szerint módosított szöveg.
-[^529]: A 232. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 56. pontja hatályon kívül helyezte.
-[^530]: A 232. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 151. pontja szerint módosított szöveg.
-[^531]: A 232. § (7) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.
+[^532]: A 232. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 150. pontja és 106. § 55. pontja szerint módosított szöveg.
+[^533]: A 232. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 56. pontja hatályon kívül helyezte.
+[^534]: A 232. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 151. pontja szerint módosított szöveg.
+[^535]: A 232. § (7) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja szerint módosított szöveg.

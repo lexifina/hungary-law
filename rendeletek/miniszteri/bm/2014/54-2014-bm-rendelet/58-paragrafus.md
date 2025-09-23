@@ -1,6 +1,6 @@
 ## 31. Menekülési útvonal követelményei
 
-58. § (1)[^178] Menekülési útvonal lehet
+58. § (1)[^180] Menekülési útvonal lehet
 
 a) közlekedési útvonalat képező helyiség,
 
@@ -12,11 +12,11 @@ d) fedett átrium, nyitott folyosó, függőfolyosó, a hő- és füstelvezetés
 
 e) legfeljebb 3 szintet összekötő lépcsőtér.
 
-(2)[^179]
+(2)[^181]
 
-(3)[^180] A menekülési útvonal építményszerkezeteinek tűzvédelmi jellemzői feleljenek meg a 2. mellékletben foglalt 1. táblázat szerinti követelményeknek.
+(3)[^182] A menekülési útvonal építményszerkezeteinek tűzvédelmi jellemzői feleljenek meg a 2. mellékletben foglalt 1. táblázat szerinti követelményeknek.
 
-(4)[^181] A menekülési útvonalon a lépcsőházak kivételével a padlóburkolat, falburkolat, mennyezetburkolat elvárt tűzvédelmi osztálya helyett alkalmazható egy osztállyal enyhébb követelmény, ha a menekülési útvonalat befogadó tűzszakasz teljes területén tűzoltó berendezést létesítenek, és
+(4)[^183] A menekülési útvonalon a lépcsőházak kivételével a padlóburkolat, falburkolat, mennyezetburkolat elvárt tűzvédelmi osztálya helyett alkalmazható egy osztállyal enyhébb követelmény, ha a menekülési útvonalat befogadó tűzszakasz teljes területén tűzoltó berendezést létesítenek, és
 
 a) padlóburkolat esetében az enyhébb követelmény legalább Dfl-s1,
 
@@ -28,7 +28,7 @@ c) mennyezetburkolat esetében annak gyújtásveszélyességi kategóriája lega
 
 (6) A menekülési útvonalat biztonsági világítással, menekülési jelekkel és menekülési útirányjelző rendszerrel kell ellátni a XIII. fejezet szerint.
 
-[^178]: Az 58. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^179]: Az 58. § (2) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 21. pontja hatályon kívül helyezte.
-[^180]: Az 58. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 21. pontja hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 31. § (2) bekezdése iktatta be.
-[^181]: Az 58. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^180]: Az 58. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^181]: Az 58. § (2) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 21. pontja hatályon kívül helyezte.
+[^182]: Az 58. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 21. pontja hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 31. § (2) bekezdése iktatta be.
+[^183]: Az 58. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 31. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 144. §[^349] Nem kötelező villámvédelmet létesíteni
+## 144. §[^352] Nem kötelező villámvédelmet létesíteni
 
 a) az épület terepszinti csatlakozásának legalsó és a tetőfedés legmagasabb pontja között legfeljebb 10 m magasságú
 
@@ -16,4 +16,4 @@ ca) a felszín feletti nagynyomású, illetve fokozottan tűz- vagy robbanásves
 
 cb) az olyan kötélpályás felvonók vagy egyéb nyomvonalas műszaki létesítmények, amelyek villámvédelmét önálló, kifejezetten az adott típusú nyomvonalas műszaki létesítményre vonatkozó szakmai műszaki előírás szabályozza.
 
-[^349]: A 144. § a 30/2019. (VII. 26.) BM rendelet 72. §-ával megállapított szöveg.
+[^352]: A 144. § a 30/2019. (VII. 26.) BM rendelet 72. §-ával megállapított szöveg.

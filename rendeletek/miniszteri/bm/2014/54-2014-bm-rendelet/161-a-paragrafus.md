@@ -1,4 +1,4 @@
-161/A. §[^381] (1) A részegységek elhelyezését és jelölését a gyártói utasításban foglaltak szerint kell elvégezni.
+161/A. §[^385] (1) A részegységek elhelyezését és jelölését a gyártói utasításban foglaltak szerint kell elvégezni.
 
 (2) A beépített tűzjelző berendezést úgy kell megtervezni, hogy a vezetékhálózaton fellépő vezetékhiba hatása korlátozott legyen.
 
@@ -14,4 +14,4 @@ a) az épület tűzjelzővel védett alapterülete a 10 000 m2-t meghaladja, vag
 
 b) az épületben létesített automatikus érzékelők és kézi jelzésadók száma összesen több, mint 1000.
 
-[^381]: A 161/A. §-t a 30/2019. (VII. 26.) BM rendelet 79. §-a iktatta be.
+[^385]: A 161/A. §-t a 30/2019. (VII. 26.) BM rendelet 79. §-a iktatta be.

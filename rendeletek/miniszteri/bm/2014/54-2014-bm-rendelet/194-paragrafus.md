@@ -1,13 +1,13 @@
-194. § (1)[^466] Az épületek menekülési útvonalain fokozottan tűz- vagy robbanásveszélyes és mérsékelten tűzveszélyes osztályba tartozó anyagok nem helyezhetőek el, nem tárolhatóak. Ezalól kivételt képeznek a beépített építési termékek és biztonsági jelek, valamint azok az installációk, dekorációk, szőnyegek, falikárpitok és egyéb, nem tárolásra szolgáló, valamint a helyiség rendeltetésével összefüggő tárgyak, amelyek az elhelyezéssel érintett fal vagy a padló felületének szintenként legfeljebb 15%-át fedik le.
+194. § (1)[^470] Az épületek menekülési útvonalain fokozottan tűz- vagy robbanásveszélyes és mérsékelten tűzveszélyes osztályba tartozó anyagok nem helyezhetőek el, nem tárolhatóak. Ezalól kivételt képeznek a beépített építési termékek és biztonsági jelek, valamint azok az installációk, dekorációk, szőnyegek, falikárpitok és egyéb, nem tárolásra szolgáló, valamint a helyiség rendeltetésével összefüggő tárgyak, amelyek az elhelyezéssel érintett fal vagy a padló felületének szintenként legfeljebb 15%-át fedik le.
 
-(2)[^467]
+(2)[^471]
 
 (3) A menekülésre számításba vett közlekedőkben, nem füstmentes lépcsőházakban és a pinceszinti helyiségekben elhelyezett installációk, dekorációk, anyagok a hő- és füstelvezetés hatékonyságát nem ronthatják.
 
 (4) Tömegtartózkodásra szolgáló vagy a vonatkozó jogszabály szerinti zenés, táncos rendezvények tartására szolgáló helyiségben égéskésleltető szerrel hatékonyan kezelt dekoranyagok vagy akkreditált laboratórium által igazolt, a vonatkozó műszaki követelmény szerinti 1-es osztálynak megfelelő függönyök alkalmazhatóak.
 
-(5)[^468]
+(5)[^472]
 
-[^466]: A 194. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 92. §-ával megállapított szöveg.
-[^467]: A 194. § (2) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 49. pontja hatályon kívül helyezte.
-[^468]: A 194. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 49. pontja hatályon kívül helyezte.
+[^470]: A 194. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 92. §-ával megállapított szöveg.
+[^471]: A 194. § (2) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 49. pontja hatályon kívül helyezte.
+[^472]: A 194. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 49. pontja hatályon kívül helyezte.

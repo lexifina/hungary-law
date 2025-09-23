@@ -1,6 +1,6 @@
-## 22. [^133] Kényszertartózkodásra szolgáló rendeltetés
+## 22. [^135] Kényszertartózkodásra szolgáló rendeltetés
 
-46. § (1)[^134] A kényszertartózkodásra szolgáló rendeltetés esetén a tűzvédelmi hatósággal egyeztetni kell
+46. § (1)[^136] A kényszertartózkodásra szolgáló rendeltetés esetén a tűzvédelmi hatósággal egyeztetni kell
 
 a) a kiürítési feltételeket, ideértve az üzemszerűen lezárt ajtók külső nyithatóságát,
 
@@ -12,5 +12,5 @@ d) a beépített tűzjelző és tűzoltó berendezés részegységeinek általá
 
 (2) A kényszertartózkodási helyiségekben legalább A2 tűzvédelmi osztályú építményszerkezetek és burkolatok építhetők be.
 
-[^133]: A 22. alcím címe a 8/2022. (IV. 14.) BM rendelet 75. § 11. pontja szerint módosított szöveg.
-[^134]: A 46. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 21. §-ával megállapított szöveg.
+[^135]: A 22. alcím címe a 8/2022. (IV. 14.) BM rendelet 75. § 11. pontja szerint módosított szöveg.
+[^136]: A 46. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 21. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 25. Mezőgazdasági rendeltetés
 
-49. §[^143] (1) Az 1000 m2-nél nagyobb alapterületű, állattartó építmények esetében az állatok mentésére alkalmas ajtót kell kialakítani.
+49. §[^145] (1) Az 1000 m2-nél nagyobb alapterületű, állattartó építmények esetében az állatok mentésére alkalmas ajtót kell kialakítani.
 
 (2) A nagylégterű helyiséget tartalmazó, mezőgazdasági rendeltetésű, részben többszintes épület legnagyobb megengedett tűzszakaszmérete, valamint a teherhordó, a legfelső szint lefedését biztosító szerkezetek, a tűzgátló válaszfalak elvárt tűzállósági teljesítményének időtartama meghatározható a földszintes épületre vonatkozó követelmény alapján
 
@@ -40,4 +40,4 @@ f) az épület teljes területén fokozott üzembiztonságú tűzoltó berendez�
 
 g) az épületben többirányú kiürítést biztosítanak.
 
-[^143]: A 49. § a 8/2022. (IV. 14.) BM rendelet 25. §-ával megállapított szöveg.
+[^145]: A 49. § a 8/2022. (IV. 14.) BM rendelet 25. §-ával megállapított szöveg.

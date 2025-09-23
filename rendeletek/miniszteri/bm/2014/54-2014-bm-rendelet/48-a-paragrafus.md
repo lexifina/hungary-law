@@ -1,4 +1,4 @@
-48/A. §[^142] (1) A NAK, AK vagy KK mértékadó kockázati osztályba tartozó, tárolási rendeltetésű nagylégterű helyiséget és a hozzá tartozó irodai, kiszolgáló területet tartalmazó épület esetében a teherhordó, a legfelső szint lefedését biztosító szerkezetek, a tűzgátló válaszfalak elvárt tűzállósági teljesítményének időtartama 15 perc, az alábbi feltételek együttes teljesülése esetén:
+48/A. §[^144] (1) A NAK, AK vagy KK mértékadó kockázati osztályba tartozó, tárolási rendeltetésű nagylégterű helyiséget és a hozzá tartozó irodai, kiszolgáló területet tartalmazó épület esetében a teherhordó, a legfelső szint lefedését biztosító szerkezetek, a tűzgátló válaszfalak elvárt tűzállósági teljesítményének időtartama 15 perc, az alábbi feltételek együttes teljesülése esetén:
 
 a) a tárolási rendeltetésű nagylégterű helyiség a földszinten van,
 
@@ -60,4 +60,4 @@ gc) az épület nagylégterű helyiségét legalább három részre osztják fel
 
 gd) főfoglalkozású létesítményi tűzoltóságot tartanak fenn.
 
-[^142]: A 48/A. §-t a 8/2022. (IV. 14.) BM rendelet 24. §-a iktatta be.
+[^144]: A 48/A. §-t a 8/2022. (IV. 14.) BM rendelet 24. §-a iktatta be.

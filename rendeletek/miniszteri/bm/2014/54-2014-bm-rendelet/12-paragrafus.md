@@ -1,4 +1,4 @@
-12. §[^17] (1) A kockázati egység kockázati osztályát
+12. §[^19] (1) A kockázati egység kockázati osztályát
 
 a) speciális építmény esetén a XII. fejezetben foglaltak alapján,
 
@@ -20,7 +20,7 @@ b) legalább KK, ha az épület, önálló épületrész szintszáma meghaladja 
 
 c) MK, ha az épület, önálló épületrész szintszáma meghaladja a 15 építményszintet.
 
-(4)[^18] Az építményszintek számának a (3) bekezdés, a 24. § (2) bekezdés e) pontja, a 26. § (3) bekezdése, a 2. mellékletben foglalt 1., 2. és 3. táblázat szerinti, valamint a legfelső építményszint szintmagasságának a 65. § (1) bekezdés a) pontja, a 79. § (1) bekezdése, a 8. mellékletben foglalt 2. táblázat 1. sora szerinti megállapításánál, továbbá a kockázati osztály 1. mellékletben foglalt 1. táblázat 2. és 3. sora szerinti megállapításánál figyelmen kívül hagyható
+(4)[^20] Az építményszintek számának a (3) bekezdés, a 24. § (2) bekezdés e) pontja, a 26. § (3) bekezdése, a 2. mellékletben foglalt 1., 2. és 3. táblázat szerinti, valamint a legfelső építményszint szintmagasságának a 65. § (1) bekezdés a) pontja, a 79. § (1) bekezdése, a 8. mellékletben foglalt 2. táblázat 1. sora szerinti megállapításánál, továbbá a kockázati osztály 1. mellékletben foglalt 1. táblázat 2. és 3. sora szerinti megállapításánál figyelmen kívül hagyható
 
 a) az a tetőszint, amelyen csak felvonógépház, lépcsőház felső szintje, továbbá gépészeti helyiség található, és a gépészeti helyiségek összesített alapterülete nem haladja meg a tetőszint alapterületének 25%-át,
 
@@ -50,5 +50,5 @@ d) magas kockázati, MK osztályba
 
 tartozik.
 
-[^17]: A 12. § a 30/2019. (VII. 26.) BM rendelet 7. §-ával megállapított szöveg.
-[^18]: A 12. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 12. § a 30/2019. (VII. 26.) BM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 12. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 4. §-ával megállapított szöveg.

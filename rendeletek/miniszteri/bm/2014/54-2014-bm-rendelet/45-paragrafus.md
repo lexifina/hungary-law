@@ -10,6 +10,6 @@ b) padlóburkolata legalább Cfl-s1 tűzvédelmi osztályú
 
 legyen.
 
-(3)[^132] A fokozottan tűz- vagy robbanásveszélyes anyagok, termékek passzív tárolására, forgalmazására szolgáló helyiséget a tárolni kívánt anyag mennyisége alapján, a 17. mellékletben foglaltak figyelembevételével kell kialakítani.
+(3)[^134] A fokozottan tűz- vagy robbanásveszélyes anyagok, termékek passzív tárolására, forgalmazására szolgáló helyiséget a tárolni kívánt anyag mennyisége alapján, a 17. mellékletben foglaltak figyelembevételével kell kialakítani.
 
-[^132]: A 45. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 36. §-a iktatta be.
+[^134]: A 45. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 36. §-a iktatta be.

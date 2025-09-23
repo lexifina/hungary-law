@@ -1,8 +1,8 @@
-## XI. Fejezet[^310]
+## XI. Fejezet[^312]
 
 ## ROBBANÁS ELLENI VÉDELEM
 
-99. §[^311] (1)[^312] A fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag előállítása, feldolgozása, használata, tárolása és forgalmazása során az érintett térrészben, helyiségben, építményben, ipari technológiai egységben, továbbá az e tevékenységekkel összefüggő tervezés és kivitelezés során a robbanás elleni védelmet – kivéve elhanyagolható mértékű robbanásveszély esetén – tervezéssel és védelmi intézkedésekkel biztosítani, a védelmi intézkedéseket dokumentálni kell.
+99. §[^313] (1)[^314] A fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag előállítása, feldolgozása, használata, tárolása és forgalmazása során az érintett térrészben, helyiségben, építményben, ipari technológiai egységben, továbbá az e tevékenységekkel összefüggő tervezés és kivitelezés során a robbanás elleni védelmet – kivéve elhanyagolható mértékű robbanásveszély esetén – tervezéssel és védelmi intézkedésekkel biztosítani, a védelmi intézkedéseket dokumentálni kell.
 
 (2) A robbanás elleni védelem kialakításához a robbanásveszélyes terek robbanásvédelmi zónába sorolását el kell végezni.
 
@@ -26,6 +26,6 @@ c) az építményszerkezeteket a lehető legkisebb károsodás érje.
 
 (6) Robbanásveszélyes térben csak olyan villamos és nem villamos berendezések alkalmazhatóak, amelyek a robbanásveszélyes zónának megfelelő robbanásbiztos védelmi móddal rendelkeznek.
 
-[^310]: A XI. fejezet címe a 30/2019. (VII. 26.) BM rendelet 65. §-ával megállapított szöveg.
-[^311]: A 99. § a 30/2019. (VII. 26.) BM rendelet 66. §-ával megállapított szöveg.
-[^312]: A 99. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 75. § 31. pontja szerint módosított szöveg.
+[^312]: A XI. fejezet címe a 30/2019. (VII. 26.) BM rendelet 65. §-ával megállapított szöveg.
+[^313]: A 99. § a 30/2019. (VII. 26.) BM rendelet 66. §-ával megállapított szöveg.
+[^314]: A 99. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 75. § 31. pontja szerint módosított szöveg.

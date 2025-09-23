@@ -1,8 +1,8 @@
-## 176. §[^413] E fejezet a létesítmények, építmények, szabad terek, gépek, berendezések, eszközök és – a robbanó és robbantó anyagok kivételével – az anyagok használatára, technológiák alkalmazására vonatkozó tűzvédelmi rendelkezéseket állapítja meg.
+## 176. §[^417] E fejezet a létesítmények, építmények, szabad terek, gépek, berendezések, eszközök és – a robbanó és robbantó anyagok kivételével – az anyagok használatára, technológiák alkalmazására vonatkozó tűzvédelmi rendelkezéseket állapítja meg.
 
 ## 89. A használatra vonatkozó általános tűzvédelmi szabályok
 
-177. § (1)[^414] Az üzemeltetőnek, tulajdonosnak, bérlőnek a használat, a tevékenység végzése során gondoskodnia kell arról, hogy
+177. § (1)[^418] Az üzemeltetőnek, tulajdonosnak, bérlőnek a használat, a tevékenység végzése során gondoskodnia kell arról, hogy
 
 a) az építmény, építményrész létesítésekor hatályos előírások által elvárt biztonsági szintet a használat és az átalakítások, változtatások során fenntartsa,
 
@@ -18,28 +18,28 @@ f) a tűzvédelmi célú jelölések észlelhetőségét, egyértelműségét fe
 
 g) a robbanás elleni védelmet, az alkalmazott berendezések robbanásbiztos kialakítását és működőképességét a robbanásveszélyes technológia teljes élettartama során fenntartsa.
 
-(2)[^415] Az építményt, építményrészt, a szabadteret csak a vonatkozó tűzvédelmi követelményeknek megfelelően szabad használni.
+(2)[^419] Az építményt, építményrészt, a szabadteret csak a vonatkozó tűzvédelmi követelményeknek megfelelően szabad használni.
 
-(3)[^416] A termelést, a használatot, a tárolást, a forgalomba hozatalt, forgalmazást, valamint az egyéb tevékenységet (a továbbiakban együtt: tevékenység) csak a tűzvédelmi követelményeknek megfelelő szabadtéren, helyiségben, tűzszakaszban, rendeltetési egységben, építményben szabad folytatni.
+(3)[^420] A termelést, a használatot, a tárolást, a forgalomba hozatalt, forgalmazást, valamint az egyéb tevékenységet (a továbbiakban együtt: tevékenység) csak a tűzvédelmi követelményeknek megfelelő szabadtéren, helyiségben, tűzszakaszban, rendeltetési egységben, építményben szabad folytatni.
 
 (4) A helyiségben, építményben és szabadtéren csak az ott folytatott folyamatos tevékenységhez szükséges anyag és eszköz tartható.
 
-(5)[^417] Tűztávolságon belül tárolási tevékenység nem végezhető, kivéve, ha a tárolt anyag mennyisége, minősége, elhelyezése nem növeli a tűz átterjedésének veszélyét. Ezen területet a hulladékoktól, száraz aljnövényzettől mentesen kell tartani.
+(5)[^421] Tűztávolságon belül tárolási tevékenység nem végezhető, kivéve, ha a tárolt anyag mennyisége, minősége, elhelyezése nem növeli a tűz átterjedésének veszélyét. Ezen területet a hulladékoktól, száraz aljnövényzettől mentesen kell tartani.
 
-(6)[^418] A helyiségből, a szabadtérből, a gépről, a berendezésről, az eszközről, a készülékről a tevékenység során keletkezett fokozottan tűz- vagy robbanásveszélyes és mérsékelten tűzveszélyes osztályba tartozó anyagot, hulladékot folyamatosan, de legalább műszakonként, valamint a tevékenység befejezése után el kell távolítani.
+(6)[^422] A helyiségből, a szabadtérből, a gépről, a berendezésről, az eszközről, a készülékről a tevékenység során keletkezett fokozottan tűz- vagy robbanásveszélyes és mérsékelten tűzveszélyes osztályba tartozó anyagot, hulladékot folyamatosan, de legalább műszakonként, valamint a tevékenység befejezése után el kell távolítani.
 
-(7)[^419] Fokozottan tűz- vagy robbanásveszélyes, mérsékelten tűzveszélyes osztályba tartozó folyadékkal, zsírral szennyezett hulladékot jól záró fedővel ellátott, nem tűzveszélyes anyagú edényben kell gyűjteni, majd erre a célra kijelölt helyen kell tárolni.
+(7)[^423] Fokozottan tűz- vagy robbanásveszélyes, mérsékelten tűzveszélyes osztályba tartozó folyadékkal, zsírral szennyezett hulladékot jól záró fedővel ellátott, nem tűzveszélyes anyagú edényben kell gyűjteni, majd erre a célra kijelölt helyen kell tárolni.
 
-(8)[^420] Robbanásveszélyes térben csak olyan készülék, eszköz, berendezés, erő- és munkagép helyezhető el és használható, amely az alkalmazási helyén a megállapított robbanásveszélyes zóna minőségének, valamint hőmérsékleti osztályának vagy mértékadó legmagasabb hőmérsékletének megfelel, és amit a robbanásvédelem szabályai szerint gyártottak, felülvizsgáltak, karbantartottak, javítottak.
+(8)[^424] Robbanásveszélyes térben csak olyan készülék, eszköz, berendezés, erő- és munkagép helyezhető el és használható, amely az alkalmazási helyén a megállapított robbanásveszélyes zóna minőségének, valamint hőmérsékleti osztályának vagy mértékadó legmagasabb hőmérsékletének megfelel, és amit a robbanásvédelem szabályai szerint gyártottak, felülvizsgáltak, karbantartottak, javítottak.
 
-(9)[^421] Építési tevékenységet végezni csak az elvárt biztonsági szint folyamatos fenntartása mellett, a vonatkozó tűzvédelmi előírások betartásával lehet.
+(9)[^425] Építési tevékenységet végezni csak az elvárt biztonsági szint folyamatos fenntartása mellett, a vonatkozó tűzvédelmi előírások betartásával lehet.
 
-[^413]: A 176. § a 30/2019. (VII. 26.) BM rendelet 105. § 113. pontja szerint módosított szöveg.
-[^414]: A 177. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (1) bekezdésével megállapított szöveg.
-[^415]: A 177. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (1) bekezdésével megállapított, a 8/2022. (IV. 14.) BM rendelet 76. § 14. pontja szerint módosított szöveg.
-[^416]: A 177. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 114. pontja szerint módosított szöveg.
-[^417]: A 177. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (2) bekezdésével megállapított szöveg.
-[^418]: A 177. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 115. pontja szerint módosított szöveg.
-[^419]: A 177. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 116. pontja szerint módosított szöveg.
-[^420]: A 177. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 85. § (3) bekezdése iktatta be.
-[^421]: A 177. § (9) bekezdését a 8/2022. (IV. 14.) BM rendelet 58. §-a iktatta be.
+[^417]: A 176. § a 30/2019. (VII. 26.) BM rendelet 105. § 113. pontja szerint módosított szöveg.
+[^418]: A 177. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^419]: A 177. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (1) bekezdésével megállapított, a 8/2022. (IV. 14.) BM rendelet 76. § 14. pontja szerint módosított szöveg.
+[^420]: A 177. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 114. pontja szerint módosított szöveg.
+[^421]: A 177. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (2) bekezdésével megállapított szöveg.
+[^422]: A 177. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 115. pontja szerint módosított szöveg.
+[^423]: A 177. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 116. pontja szerint módosított szöveg.
+[^424]: A 177. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 85. § (3) bekezdése iktatta be.
+[^425]: A 177. § (9) bekezdését a 8/2022. (IV. 14.) BM rendelet 58. §-a iktatta be.

@@ -24,9 +24,9 @@ e) az üzemképességet fenntartó vagy helyreállító javítást, tisztítást
 
 f) az üzemeltetéshez szükséges dokumentációt.
 
-(5)[^483] A berendezés – közte a tűz- és hibaátjelző – tervszerű, részleges vagy teljes üzemszünetét, a kikapcsolás előtt legalább 5 munkanappal írásban, a 24 órán belül el nem hárítható meghibásodást a tudomásra jutást követően késedelem nélkül telefonon jelezni kell a tűzvédelmi hatóság által meghatározott helyen.
+(5)[^487] A berendezés – közte a tűz- és hibaátjelző – tervszerű, részleges vagy teljes üzemszünetét, a kikapcsolás előtt legalább 5 munkanappal írásban, a 24 órán belül el nem hárítható meghibásodást a tudomásra jutást követően késedelem nélkül telefonon jelezni kell az illetékes hivatásos katasztrófavédelmi szerv helyi szerve által meghatározott helyen.
 
-(6)[^484] A berendezés meghibásodása, tervszerű üzemszünete esetén, továbbá a tűzoltó berendezés aktiválódását követően az oltóanyag pótlásáig, a berendezés üzemkész állapotának visszaállításáig a biztonsági feltételeket az üzemeltető a helyi kockázatnak megfelelően biztosítja.
+(6)[^488] A berendezés meghibásodása, tervszerű üzemszünete esetén, továbbá a tűzoltó berendezés aktiválódását követően az oltóanyag pótlásáig, a berendezés üzemkész állapotának visszaállításáig a biztonsági feltételeket az üzemeltető a helyi kockázatnak megfelelően biztosítja.
 
 (7) A helyi felügyeletet kiváltó átjelzés meghibásodása esetén a berendezés felügyeletéről haladéktalanul gondoskodni kell.
 
@@ -38,8 +38,8 @@ b) a kiiktatott érzékelő, zóna a téves riasztást okozó hatás helyiségé
 
 c) a berendezés műszaki kialakítását ismerő szakemberrel a zónakiiktatás körülményei egyeztetve vannak olyan módon, hogy az a létesítéssel, karbantartással, felülvizsgálattal összefüggő jogokat, kötelezettségeket nem sérti és
 
-d)[^485] az érzékelő, zóna kiiktatásának és visszaállításának körülményei, annak felelősségi köre, az ellensúlyozó intézkedések a Tűzvédelmi Szabályzatban – annak hiányában írásban – rögzítve vannak.
+d)[^489] az érzékelő, zóna kiiktatásának és visszaállításának körülményei, annak felelősségi köre, az ellensúlyozó intézkedések a Tűzvédelmi Szabályzatban – annak hiányában írásban – rögzítve vannak.
 
-[^483]: A 202. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 136. pontja, a 16/2025. (V. 29.) BM rendelet 27. § b) pontja szerint módosított szöveg.
-[^484]: A 202. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 96. §-ával megállapított szöveg.
-[^485]: A 202. § (8) bekezdés d) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 137. pontja szerint módosított szöveg.
+[^487]: A 202. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 136. pontja, a 16/2025. (V. 29.) BM rendelet 27. § b) pontja, a 39/2025. (IX. 18.) BM rendelet 12. § d) pontja szerint módosított szöveg.
+[^488]: A 202. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 96. §-ával megállapított szöveg.
+[^489]: A 202. § (8) bekezdés d) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 137. pontja szerint módosított szöveg.

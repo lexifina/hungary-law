@@ -1,3 +1,3 @@
-14. §[^22]
+14. §[^24]
 
-[^22]: A 14. §-át a 30/2019. (VII. 26.) BM rendelet 106. § 9. pontja hatályon kívül helyezte.
+[^24]: A 14. §-át a 30/2019. (VII. 26.) BM rendelet 106. § 9. pontja hatályon kívül helyezte.

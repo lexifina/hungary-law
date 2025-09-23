@@ -1,6 +1,6 @@
-## 147. §[^355] Biztonsági jel lehet kívülről vagy belülről megvilágított jel vagy olyan utánvilágító jel, amely legalább a vonatkozó műszaki követelményben meghatározott mértékben alkalmas a céljának megfelelő fény kibocsátására.
+## 147. §[^358] Biztonsági jel lehet kívülről vagy belülről megvilágított jel vagy olyan utánvilágító jel, amely legalább a vonatkozó műszaki követelményben meghatározott mértékben alkalmas a céljának megfelelő fény kibocsátására.
 
-148. § (1)[^356] A 147. §-ban foglaltaknak megfelelő tűzvédelmi jelekkel kell megjelölni az elhelyezett
+148. § (1)[^359] A 147. §-ban foglaltaknak megfelelő tűzvédelmi jelekkel kell megjelölni az elhelyezett
 
 a) tűzoltó készüléket,
 
@@ -18,7 +18,7 @@ g) hő- és füstelvezető rendszer kézi működtető szerkezetét és
 
 h) beléptető rendszer vésznyitó szerkezetét.
 
-i)[^357] biztonsági felvonót az aknaajtók mellett.
+i)[^360] biztonsági felvonót az aknaajtók mellett.
 
 (2) A 147. §-ban foglaltaknak megfelelően a helyiség bejáratánál, a helyiségben vagy az érintett szabadtéren tiltó jellel kell jelölni
 
@@ -30,7 +30,7 @@ c) a vízzel oltás tilalmát.
 
 (3) A 147. §-ban foglaltaknak megfelelő biztonsági jellel kell figyelmeztetni
 
-a)[^358] a 20 liternél/kilogrammnál több fokozottan tűz- vagy robbanásveszélyes anyag jelenlétére,
+a)[^361] a 20 liternél/kilogrammnál több fokozottan tűz- vagy robbanásveszélyes anyag jelenlétére,
 
 b) a radioaktív anyag jelenlétére és
 
@@ -40,7 +40,7 @@ c) az épület főbejárata mellett kívülről a napelem jelenlétére.
 
 (5) A robbanásveszélyre figyelmeztető, valamint a (2) bekezdés szerinti figyelmeztető és tiltó rendelkezéseket tartalmazó biztonsági jeleket a 20 m2-nél kisebb helyiségben nem szükséges elhelyezni, csak azok bejáratánál.
 
-[^355]: A 147. § a 8/2022. (IV. 14.) BM rendelet 50. §-ával megállapított szöveg.
-[^356]: A 148. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 75. §-ával megállapított szöveg.
-[^357]: A 148. § (1) bekezdés i) pontját a 8/2022. (IV. 14.) BM rendelet 51. §-a iktatta be.
-[^358]: A 148. § (3) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja szerint módosított szöveg.
+[^358]: A 147. § a 8/2022. (IV. 14.) BM rendelet 50. §-ával megállapított szöveg.
+[^359]: A 148. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 75. §-ával megállapított szöveg.
+[^360]: A 148. § (1) bekezdés i) pontját a 8/2022. (IV. 14.) BM rendelet 51. §-a iktatta be.
+[^361]: A 148. § (3) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja szerint módosított szöveg.

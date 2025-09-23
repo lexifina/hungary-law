@@ -6,9 +6,9 @@
 
 17. § (1) A tűz átterjedését meg kell gátolni
 
-a)[^34] az azonos vagy szomszédos telken álló, szomszédos épületek között, továbbá a nem szomszédos telken álló épület irányába,
+a)[^36] az azonos vagy szomszédos telken álló, szomszédos épületek között, továbbá a nem szomszédos telken álló épület irányába,
 
-b)[^35] a szabadtéri tárolóterület tárolási egysége és a szomszédos épület, speciális építmény között,
+b)[^37] a szabadtéri tárolóterület tárolási egysége és a szomszédos épület, speciális építmény között,
 
 c) a szabadtéri tárolóterület szomszédos tárolási egységeiből kialakított tűzszakaszok között és
 
@@ -22,27 +22,27 @@ b) az épület és az épülettel szemközti és tűztávolságon belüli homlok
 
 c) az épületek egymással szemközti és tűztávolságon belüli homlokzatszakaszát magukba foglaló épületrészek egyetlen tűzszakaszként kialakíthatóak.
 
-(3)[^36] Nem kell az azonos telken álló, szomszédos épület és speciális építmény közötti, valamint a speciális építmények közötti tűzterjedés elleni védelemről gondoskodni, ha a (2) bekezdésben foglalt feltételek az épület és a speciális építmény, valamint a speciális építmények vonatkozásában teljesülnek.
+(3)[^38] Nem kell az azonos telken álló, szomszédos épület és speciális építmény közötti, valamint a speciális építmények közötti tűzterjedés elleni védelemről gondoskodni, ha a (2) bekezdésben foglalt feltételek az épület és a speciális építmény, valamint a speciális építmények vonatkozásában teljesülnek.
 
-(4)[^37] Nem kell az azonos telken álló épület és szabadtéri tárolóterület tárolási egysége közötti tűzterjedés elleni védelemről gondoskodni, ha a szabadtéri tárolóterület vagy annak része és az épület vagy annak része egyetlen tűzszakaszként kialakítható, kivéve, ha fokozott üzembiztonságú oltóberendezést alkalmaznak. Az épület vagy épületrész tűzszakaszához akkor tartozhat a szabadtéri tárolóterület tárolási egysége, ha a tárolási egység tárolóhelyiségként való kialakítása esetén a tűzszakasz részét képezhetné.
+(4)[^39] Nem kell az azonos telken álló épület és szabadtéri tárolóterület tárolási egysége közötti tűzterjedés elleni védelemről gondoskodni, ha a szabadtéri tárolóterület vagy annak része és az épület vagy annak része egyetlen tűzszakaszként kialakítható, kivéve, ha fokozott üzembiztonságú oltóberendezést alkalmaznak. Az épület vagy épületrész tűzszakaszához akkor tartozhat a szabadtéri tárolóterület tárolási egysége, ha a tárolási egység tárolóhelyiségként való kialakítása esetén a tűzszakasz részét képezhetné.
 
 (5) Az (1) bekezdés szerinti esetekben a tűzterjedés elleni védelem biztosítható
 
 a) tűztávolság tartásával,
 
-b)[^38] tűzfal létesítésével,
+b)[^40] tűzfal létesítésével,
 
-c)[^39] szabadtéri tárolóterület szomszédos tűzszakaszai között a tárolt anyag, termék méretét minden irányban legalább 1,0 méterrel meghaladó, legalább REI 90-M tűzállósági teljesítményű tűzfal létesítésével,
+c)[^41] szabadtéri tárolóterület szomszédos tűzszakaszai között a tárolt anyag, termék méretét minden irányban legalább 1,0 méterrel meghaladó, legalább REI 90-M tűzállósági teljesítményű tűzfal létesítésével,
 
-d)[^40] azonos telken álló épületek vagy azonos telken álló épület és szabadtéri tárolóterület tárolási egysége esetén a homlokzat és a tető tűzterjedés ellen védett, az épületek tűzszakaszainak elválasztására vonatkozó követelményeknek megfelelő kialakításával,
+d)[^42] azonos telken álló épületek vagy azonos telken álló épület és szabadtéri tárolóterület tárolási egysége esetén a homlokzat és a tető tűzterjedés ellen védett, az épületek tűzszakaszainak elválasztására vonatkozó követelményeknek megfelelő kialakításával,
 
-e)[^41] a nem szomszédos telken, az előírt tűztávolságon belül álló épület irányába a tűzvédelmi hatósággal egyeztetett módon.
+e)[^43] a nem szomszédos telken, az előírt tűztávolságon belül álló épület irányába a tűzvédelmi hatósággal egyeztetett módon.
 
-[^34]: A 17. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^35]: A 17. § (1) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^36]: A 17. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^37]: A 17. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 6. §-ával megállapított szöveg.
-[^38]: A 17. § (5) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 106. § 10. pontja szerint módosított szöveg.
-[^39]: A 17. § (5) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 19. pontja szerint módosított szöveg.
-[^40]: A 17. § (5) bekezdés d) pontja a 30/2019. (VII. 26.) BM rendelet 106. § 11. pontja szerint módosított szöveg.
-[^41]: A 17. § (5) bekezdés e) pontját a 30/2019. (VII. 26.) BM rendelet 11. § (3) bekezdése iktatta be.
+[^36]: A 17. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^37]: A 17. § (1) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^38]: A 17. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^39]: A 17. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 6. §-ával megállapított szöveg.
+[^40]: A 17. § (5) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 106. § 10. pontja szerint módosított szöveg.
+[^41]: A 17. § (5) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 19. pontja szerint módosított szöveg.
+[^42]: A 17. § (5) bekezdés d) pontja a 30/2019. (VII. 26.) BM rendelet 106. § 11. pontja szerint módosított szöveg.
+[^43]: A 17. § (5) bekezdés e) pontját a 30/2019. (VII. 26.) BM rendelet 11. § (3) bekezdése iktatta be.

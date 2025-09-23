@@ -16,11 +16,11 @@ d) 500 fő feletti tartózkodásra szolgáló építmény esetén legalább A2
 
 tűzvédelmi osztályú.
 
-(4)[^333] Az ipari rendeltetésű építménynél a függőleges, vízszintes és lépcső tartószerkezet A1 vagy A2 tűzvédelmi osztályú. A tűzállósági teljesítmény meghatározásánál figyelembe kell venni a fokozottan tűz- vagy robbanásveszélyes vagy mérsékelten tűzveszélyes osztályba tartozó anyagok jelenlétét, amelyek tűz esetén a tartószerkezet állékonyságát veszélyeztetik.
+(4)[^335] Az ipari rendeltetésű építménynél a függőleges, vízszintes és lépcső tartószerkezet A1 vagy A2 tűzvédelmi osztályú. A tűzállósági teljesítmény meghatározásánál figyelembe kell venni a fokozottan tűz- vagy robbanásveszélyes vagy mérsékelten tűzveszélyes osztályba tartozó anyagok jelenlétét, amelyek tűz esetén a tartószerkezet állékonyságát veszélyeztetik.
 
 (5) Az állvány jellegű építményekre maximális tűzszakaszméret-követelmény nem vonatkozik.
 
-(6)[^334] Az állvány jellegű építmények kiürítésre szolgáló útvonalait, kijáratainak számát, méretét úgy kell kialakítani, hogy
+(6)[^336] Az állvány jellegű építmények kiürítésre szolgáló útvonalait, kijáratainak számát, méretét úgy kell kialakítani, hogy
 
 a) a D tűzvédelmi osztályú tartószerkezettel rendelkező építmény 1 perc,
 
@@ -30,5 +30,5 @@ c) az A1 vagy A2 tűzvédelmi osztályú tartószerkezettel rendelkező építm�
 
 alatt kiüríthető legyen.
 
-[^333]: A 129. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 75. § 33. pontja szerint módosított szöveg.
-[^334]: A 129. § (6) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.
+[^335]: A 129. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 75. § 33. pontja szerint módosított szöveg.
+[^336]: A 129. § (6) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.
