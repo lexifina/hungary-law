@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-67-20-1
 | 2023-01-01 | 2007-67-20-1U.24 | 45/2022. (XII. 20.) BM rendelet |
 | 2025-01-01 | 2007-67-20-1U.25 | 62/2024. (XII. 30.) BM rendelet |
 | 2025-03-01 | 2007-67-20-1U.26 | 5/2025. (II. 25.) BM rendelet |
+| 2025-09-23 | 2007-67-20-1U.27 | 5/2025. (II. 25.) BM rendelet |
