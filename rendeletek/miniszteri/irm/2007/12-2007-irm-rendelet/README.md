@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-12-20-1
 | 2024-01-31 | 2007-12-20-1U.26 | 16/2019. (V. 3.) BM rendelet |
 | 2025-01-01 | 2007-12-20-1U.27 | 59/2024. (XII. 23.) BM rendelet |
 | 2025-03-18 | 2007-12-20-1U.28 | 8/2025. (III. 17.) BM rendelet |
+| 2025-09-23 | 2007-12-20-1U.29 | 39/2025. (IX. 18.) BM rendelet |
