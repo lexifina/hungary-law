@@ -1,5 +1,3 @@
-## „l) a tűzvédelmi hatósági ügyekért felelős miniszter által vezetett minisztérium”
+10. §[^11]
 
-## [képviselője.]
-
-10. § A Tűzvédelmi Műszaki Bizottság létrehozásának, összetételének, feladatkörének és működésének részletes szabályairól szóló 53/2014. (XII. 5.) BM rendelet 2. § (2) bekezdés e) pontjában az „a Szent István Egyetem Ybl Miklós” szövegrész helyébe az „az Óbudai Egyetem Ybl Miklós” szöveg lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

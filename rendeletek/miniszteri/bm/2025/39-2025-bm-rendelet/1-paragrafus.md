@@ -38,8 +38,6 @@
 
 ## 1. A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai Fegyelmi Szabályzatáról szóló 11/2006. (III. 14.) BM rendelet módosítása
 
-1. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai Fegyelmi Szabályzatáról szóló 11/2006. (III. 14.) BM rendelet 16. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) A Tv. 198. § (1a) bekezdése szerinti vizsgálat során a fegyelmi jogkör gyakorlója beszerzi a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló 2/2021. (I. 14.) BM rendelet szerinti rendvédelmi alapellátó orvos állásfoglalását arról, hogy a hivatásos állomány tagjának egészségi állapota ténylegesen akadályozza-e őt a védekezésének előterjesztésében. Az állásfoglalás köti a fegyelmi jogkör gyakorlóját.
-
-(1b) Az egészségi állapotra tekintettel a hivatásos állomány tagja által kérelmezett felfüggesztés elutasításáról a rendvédelmi alapellátó orvos döntését magába foglaló határozatban kell rendelkezni. A hivatásos állomány tagja által kérelmezett felfüggesztés elbírálásáról szóló határozatban tájékoztatni kell a hivatásos állomány tagját arról, hogy a döntés ellen önálló jogorvoslatnak helye nincs, a döntés jogszerűsége a fegyelmi ügyben hozott érdemi határozattal szemben a Tv. 212. § (1) bekezdése szerinti panaszban vagy a miniszter hatáskörében hozott határozat esetében a Tv. 214. § (1) bekezdése szerint benyújtott keresetben kifogásolható.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-14. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 6. alcíme a következő 18/A. §-sal egészül ki:
+14. §[^15]
 
-„18/A. § Ha a polgári nemzetbiztonsági szolgálathoz vezényelt részére – a Hszt. 63. § (9) bekezdése alapján, az erre irányuló megállapodás esetén – a ruházati ellátmányt a rendvédelmi szerv helyett a polgári nemzetbiztonsági szolgálat biztosítja saját költségvetési forrása terhére, a ruházati utánpótlási ellátmány felhasználására e rendelet rendelkezései helyett a megállapodásban foglaltak szerint a polgári nemzetbiztonsági szolgálatoknál nyújtott öltözködési támogatásra vonatkozó szabályok alkalmazása is előírható.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
