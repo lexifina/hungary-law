@@ -1,3 +1,3 @@
-## 21.[^45] A gyártó létesítmény tűzvédelmi berendezéseire vonatkozó előírások
+## 21.[^46] A gyártó létesítmény tűzvédelmi berendezéseire vonatkozó előírások
 
-[^45]: A 21. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 23. §-ával megállapított szöveg.
+[^46]: A 21. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 23. §-ával megállapított szöveg.

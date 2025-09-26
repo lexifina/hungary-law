@@ -2,6 +2,6 @@
 
 (2) A vészkijáratot legalább 0,4 m vastag, falazott gátkeretbe épített, fémből készült rácsos, kifelé nyíló – belülről is nyitható – ajtóval kell ellátni.
 
-(3)[^119] A bejárati táró, és a vészkijárat ajtóit biztonsági zárral vagy lakattal zárhatóan kell készíteni.
+(3)[^120] A bejárati táró, és a vészkijárat ajtóit biztonsági zárral vagy lakattal zárhatóan kell készíteni.
 
-[^119]: A 150. § (3) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 54. pontja szerint módosított szöveg.
+[^120]: A 150. § (3) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 54. pontja szerint módosított szöveg.

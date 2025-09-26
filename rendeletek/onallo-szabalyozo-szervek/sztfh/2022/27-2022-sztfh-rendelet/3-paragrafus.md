@@ -1,6 +1,6 @@
 ## 3. Személyi feltételek
 
-3. §[^6] (1) Polgári robbanóanyag forgalmazás irányításával és felügyeletével az a személy bízható meg, aki
+3. §[^7] (1) Polgári robbanóanyag forgalmazás irányításával és felügyeletével az a személy bízható meg, aki
 
 a) betöltötte a 21. életévét, és
 
@@ -14,4 +14,4 @@ b) rendelkezik robbantásvezetői engedéllyel.
 
 (5) Építményrobbantással legalább 3 éves robbantásvezetői gyakorlattal rendelkező robbantásvezető bízható meg.
 
-[^6]: A 3. § a 15/2024. (IX. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § a 15/2024. (IX. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.

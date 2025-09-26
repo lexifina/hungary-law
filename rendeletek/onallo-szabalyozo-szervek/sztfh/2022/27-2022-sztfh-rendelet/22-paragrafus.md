@@ -1,4 +1,4 @@
-## 17.[^38] A gyártó létesítmény légtechnikai rendszere
+## 17.[^39] A gyártó létesítmény légtechnikai rendszere
 
 22. § (1) Az „RV-besorolású” helyiségben olyan hatékonyságú szellőzést kell kialakítani, hogy üzemszerű körülmények között a helyiség légterében a robbanóanyag gőzének, porának vagy kondenzátumának és az A–B tűzveszélyességi osztályú gáz, gőz vagy por – egyedi vagy együttes – koncentrációja ne haladja meg az alsó robbanási határ 20%-át.
 
@@ -10,7 +10,7 @@
 
 (5) Minden olyan légtechnikai csővezetékben, amely robbanóanyag gőzével, porával vagy robbanásveszélyes gázzal, gőzzel vagy porral szennyezett levegőt szállít, és azok egyedi vagy együttes koncentrációja elérheti az alsó gyulladási hatáskoncentráció 40%-át, robbanás tovaterjedése elleni védelmet kell kialakítani, valamint tűzszakasz határonként tűzvédelmi csappantyúkat is be kell építeni.
 
-(6)[^39] Azon az „RV-besorolású” építményben, amelynek helyiségében a robbanóanyag minősége vagy a művelet biztonsága meghatározott paraméterű légállapotot követel meg, klimatizáló berendezést kell létesíteni.
+(6)[^40] Azon az „RV-besorolású” építményben, amelynek helyiségében a robbanóanyag minősége vagy a művelet biztonsága meghatározott paraméterű légállapotot követel meg, klimatizáló berendezést kell létesíteni.
 
 (7) Az „RV-besorolású” helyiség szellőző- és klimatizáló berendezésének létesítési követelményei a következők:
 
@@ -58,5 +58,5 @@ a) a befúvó és elszívó oldali rácsokat és a hozzájuk tartozó légcsator
 
 b) tilos elhelyezni a helyiségben porleválasztót, légszűrő és mosóberendezést, hűtési és fűtési hőcserélőt, nyomáslevezető szerelvényt, kompresszort, vákuumszivattyút.
 
-[^38]: A 17. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 19. §-ával megállapított szöveg.
-[^39]: A 22. § (6) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 9. pontja szerint módosított szöveg.
+[^39]: A 17. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 19. §-ával megállapított szöveg.
+[^40]: A 22. § (6) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 9. pontja szerint módosított szöveg.

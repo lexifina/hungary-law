@@ -1,4 +1,4 @@
-## 11.[^34] A gyártó létesítmény közlekedési útjaira vonatkozó előírások
+## 11.[^35] A gyártó létesítmény közlekedési útjaira vonatkozó előírások
 
 16. § (1) A gyártó létesítmény országos közúttal való összeköttetésére két nyomtávú bekötőutat kell kiépíteni.
 
@@ -18,4 +18,4 @@ a) a személyek közlekedésére legalább 0,8 m széles utat kell biztosítani,
 
 b) az építményben használatra engedélyezett szállítóeszköz közlekedésére, azok méreteitől és a rakodás térigényétől függő, de legalább 0,8 m széles utakat kell a helyiségek padozatára kijelölni, amelyek széleit 10 cm-es szélességben fehérre kell festeni és – indokolt esetben – korláttal kell határolni.
 
-[^34]: A 11. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 15. §-ával megállapított szöveg.
+[^35]: A 11. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 15. §-ával megállapított szöveg.

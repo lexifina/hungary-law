@@ -1,4 +1,4 @@
-## 15.[^36] A gyártó létesítmény víz- és csatornarendszere
+## 15.[^37] A gyártó létesítmény víz- és csatornarendszere
 
 20. § (1) A gyártó létesítménynél olyan vízellátási rendszert kell kiépíteni, hogy annak vízvezetéki hálózatáról az egyes építmények szociális, technológiai és oltóvíz igénye biztosítható legyen.
 
@@ -16,4 +16,4 @@ ca) zárt csatornát, csatornatönköt, szabadon vezetett csatornát, padlóban,
 
 cb) a csatornákat egyenes pontokból és íves irányváltoztatásokkal kell kialakítani, ha pedig ez nem lehetséges, úgy az iránytörésnél tisztító nyílást kell létesíteni.
 
-[^36]: A 15. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 17. §-ával megállapított szöveg.
+[^37]: A 15. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 17. §-ával megállapított szöveg.

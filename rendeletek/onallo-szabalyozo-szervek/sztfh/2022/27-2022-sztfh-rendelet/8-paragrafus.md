@@ -1,4 +1,4 @@
-8. § (1)[^18] A robbanóanyag nem robbanóképes alkotókból, egyszerű mechanikai keveréssel történő előállítása esetén a keverő berendezés helyét – a keverés alatt álló és az egyidejűleg tárolt robbanóanyag-mennyiség alapján – a robbanóanyag-raktárakra vonatkozó védőtávolság figyelembevételével a robbantásvezető jelöli ki.
+8. § (1)[^19] A robbanóanyag nem robbanóképes alkotókból, egyszerű mechanikai keveréssel történő előállítása esetén a keverő berendezés helyét – a keverés alatt álló és az egyidejűleg tárolt robbanóanyag-mennyiség alapján – a robbanóanyag-raktárakra vonatkozó védőtávolság figyelembevételével a robbantásvezető jelöli ki.
 
 (2) A robbanóanyag keveréssel való előállítására, mérlegelésére, csomagolására, átmeneti tárolására szolgáló helyiségek, térségek fokozottan tűz- és robbanásveszélyesek, A tűzveszélyességi osztályúak.
 
@@ -16,4 +16,4 @@ d) az egyes helyiségekben, az előállítás helyén tárolható robbanóanyag-
 
 e) a biztonsági szempontból fontosabb rendelkezéseket.
 
-[^18]: A 8. § (1) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 3. pontja szerint módosított szöveg.
+[^19]: A 8. § (1) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 3. pontja szerint módosított szöveg.

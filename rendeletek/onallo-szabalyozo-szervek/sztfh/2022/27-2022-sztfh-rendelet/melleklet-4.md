@@ -4,7 +4,7 @@ A robbantás biztonsági távolságának meghatározása
 
 I. Szeizmikus biztonság
 
-1.[^143] A szeizmikus biztonsági távolságot – ami nem jelenti azonban az épületkárok feltétlen fellépését e távolságon belül – a következő képlettel vagy szakértői véleményben kell meghatározni:
+1.[^144] A szeizmikus biztonsági távolságot – ami nem jelenti azonban az épületkárok feltétlen fellépését e távolságon belül – a következő képlettel vagy szakértői véleményben kell meghatározni:
 
 1.1. Az 1. pontban foglalt képlet alkalmazásában
 
@@ -32,7 +32,7 @@ I. Szeizmikus biztonság
 
 2.2. Ha a 2.1. pontban foglalt képlet szerint meghatározott szeizmikus biztonsági távolságon („L”) belül védendő létesítmény van és a következő egyenlőtlenség áll fenn, akkor a 2.3. pontban foglalt képlettel kell kiszámítani a várható rezgési sebességet:
 
-2.3.[^144] A várható rezgési sebesség értékének előzetes becslésére a következő képletet kell alkalmazni:
+2.3.[^145] A várható rezgési sebesség értékének előzetes becslésére a következő képletet kell alkalmazni:
 
 2.3.1. A 2.3. pontban foglalt képlet alkalmazásában
 
@@ -44,7 +44,7 @@ I. Szeizmikus biztonság
 
 2.3.1.4. „k”, „n” és „m” a robbantás körülményeit figyelembe vevő tényezők, az 1. pont 1.1. alpont 1.1.3. pontja szerinti táblázat adatai szerint.
 
-2.4.[^145] A megengedett rezgési sebességeket a következő táblázat alapján kell kiválasztani. A három frekvenciasáv közül, ha még nem történt szeizmikus mérés, az f < 10 Hz-hez tartozó megengedett rezgési sebességi értéket kell figyelembe venni. Szeizmikus mérések esetén a rezgések frekvenciája alapján kell kiválasztani a megengedett rezgési sebesség értékét.
+2.4.[^146] A megengedett rezgési sebességeket a következő táblázat alapján kell kiválasztani. A három frekvenciasáv közül, ha még nem történt szeizmikus mérés, az f < 10 Hz-hez tartozó megengedett rezgési sebességi értéket kell figyelembe venni. Szeizmikus mérések esetén a rezgések frekvenciája alapján kell kiválasztani a megengedett rezgési sebesség értékét.
 
 | Építményfajta | A maximális rezgési sebesség komponens, vi megengedett értékei, (mm/s) |
 
@@ -62,9 +62,9 @@ I. Szeizmikus biztonság
 
 ## 100 Hz feletti frekvenciák esetén az irányérték a 100 Hz-hez tartozó táblázati érték legyen.
 
-2.5.[^146]
+2.5.[^147]
 
-2.6.[^147]
+2.6.[^148]
 
 3. A robbantás szeizmikus hatásának számítása különleges esetre
 
@@ -192,7 +192,7 @@ c) nagy átmérőjű töltettel végzett építményrobbantáskor.
 
 1.5. A minimális biztonsági távolság fémszerkezetek nyírással való elvágásakor 500 m.
 
-1.6.[^148] A nagy átmérőjű töltettel végzett kőzetjövesztő robbantás során várható repeszhatás mértékét, a biztonsági zóna kiterjedését a következő képlet szerinti számítással kell meghatározni:
+1.6.[^149] A nagy átmérőjű töltettel végzett kőzetjövesztő robbantás során várható repeszhatás mértékét, a biztonsági zóna kiterjedését a következő képlet szerinti számítással kell meghatározni:
 
 1.6.1. Az 1.6. pontban foglalt képlet alkalmazásában
 
@@ -206,11 +206,11 @@ c) nagy átmérőjű töltettel végzett építményrobbantáskor.
 
 1.6.1.5. „m”: a közelségi tényező értéke: a szomszédos töltetek közötti távolság és az előtét hányadosa.
 
-1.7.[^149] Veszélyes mértékű repeszhatás akkor keletkezhet, ha az előtét nagysága és a robbanóanyag átmérőjének hányadosa kisebb vagy egyenlő 20 [W/dr.a. ≤ 20], vagy a fojtás hossza és anyaga nem megfelelő. Az előtét és töltet átmérő hányadosának 20-nál nagyobbnak kell lennie.
+1.7.[^150] Veszélyes mértékű repeszhatás akkor keletkezhet, ha az előtét nagysága és a robbanóanyag átmérőjének hányadosa kisebb vagy egyenlő 20 [W/dr.a. ≤ 20], vagy a fojtás hossza és anyaga nem megfelelő. Az előtét és töltet átmérő hányadosának 20-nál nagyobbnak kell lennie.
 
-1.8.[^150] Az 1.6. pont szerint a kivetés irányában meghatározott repeszhatás mértékének a felét kell figyelembe venni a kivetési irányra merőleges oldalakra és a kivetési iránnyal ellentétes oldalra.
+1.8.[^151] Az 1.6. pont szerint a kivetés irányában meghatározott repeszhatás mértékének a felét kell figyelembe venni a kivetési irányra merőleges oldalakra és a kivetési iránnyal ellentétes oldalra.
 
-2.[^151] Az 1. alpontban fel nem sorolt esetekben a biztonsági távolságot a használt robbanóanyag fajtájától, a töltet elhelyezésétől, a robbantott, jövesztett anyagtól, a helyi körülményektől és az alkalmazott védőeszközöktől függően a robbantásvezető határozza meg.
+2.[^152] Az 1. alpontban fel nem sorolt esetekben a biztonsági távolságot a használt robbanóanyag fajtájától, a töltet elhelyezésétől, a robbantott, jövesztett anyagtól, a helyi körülményektől és az alkalmazott védőeszközöktől függően a robbantásvezető határozza meg.
 
 2.1. Az 1.6. pont szerinti kifejezéssel meghatározott repeszhatás biztonsági távolsága a kőzetkivetés irányában, a közel függőleges felületeknél akkor érvényes, ha
 
@@ -254,12 +254,12 @@ III. Légnyomás hatása elleni biztonsági távolság
 
 5.6. „VI”: vasbeton vázas épületek
 
-[^143]: A 4. melléklet I. pont 1. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
-[^144]: A 4. melléklet I. pont 2. alpont 2.3. pontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
-[^145]: A 4. melléklet I. pont 2. alpont 2.4. pontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
-[^146]: A 4. melléklet I. pont 2. alpont 2.5. pontját a 15/2024. (IX. 9.) SZTFH rendelet 49. § 8. pontja hatályon kívül helyezte.
-[^147]: A 4. melléklet I. pont 2. alpont 2.6. pontját a 15/2024. (IX. 9.) SZTFH rendelet 49. § 8. pontja hatályon kívül helyezte.
-[^148]: A 4. melléklet II. pont 1. alpont 1.6. pontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
-[^149]: A 4. melléklet II. pont 1. alpont 1.7. pontját a 15/2024. (IX. 9.) SZTFH rendelet 46. §-a iktatta be.
-[^150]: A 4. melléklet II. pont 1. alpont 1.8. pontját a 15/2024. (IX. 9.) SZTFH rendelet 46. §-a iktatta be.
-[^151]: A 4. melléklet II. pont 2. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
+[^144]: A 4. melléklet I. pont 1. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
+[^145]: A 4. melléklet I. pont 2. alpont 2.3. pontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
+[^146]: A 4. melléklet I. pont 2. alpont 2.4. pontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
+[^147]: A 4. melléklet I. pont 2. alpont 2.5. pontját a 15/2024. (IX. 9.) SZTFH rendelet 49. § 8. pontja hatályon kívül helyezte.
+[^148]: A 4. melléklet I. pont 2. alpont 2.6. pontját a 15/2024. (IX. 9.) SZTFH rendelet 49. § 8. pontja hatályon kívül helyezte.
+[^149]: A 4. melléklet II. pont 1. alpont 1.6. pontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.
+[^150]: A 4. melléklet II. pont 1. alpont 1.7. pontját a 15/2024. (IX. 9.) SZTFH rendelet 46. §-a iktatta be.
+[^151]: A 4. melléklet II. pont 1. alpont 1.8. pontját a 15/2024. (IX. 9.) SZTFH rendelet 46. §-a iktatta be.
+[^152]: A 4. melléklet II. pont 2. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 46. §-ával megállapított szöveg.

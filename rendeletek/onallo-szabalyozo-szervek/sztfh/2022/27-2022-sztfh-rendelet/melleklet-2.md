@@ -402,17 +402,17 @@ R500 = 4,6 ∙ (0,25 ∙ C1 ∙ C2 ∙ … ∙ Cn)0,33 ∙ (M ∙ E)1/3
 
 3. Azon a helyen, ahol a robbantás napi feladatokat képez, a környező építmény védelme érdekében a robbantás szeizmikus hatása ellen védő biztonsági távolságot is meg kell állapítani.
 
-4.[^133] A robbanóanyag-raktár tárolási normáját kg-ban – a környező védendő építménynél megengedett robbanási nyomásmaximum alapulvételével – az 1. pont szerinti alapképlet „M”-re kifejezett, következő alakjának segítségével kell kiszámítani:
+4.[^134] A robbanóanyag-raktár tárolási normáját kg-ban – a környező védendő építménynél megengedett robbanási nyomásmaximum alapulvételével – az 1. pont szerinti alapképlet „M”-re kifejezett, következő alakjának segítségével kell kiszámítani:
 
-5.[^134] A 4. pont szerinti tárolási norma kiszámításához az „R” helyébe a robbanóanyag-raktár robbanási centruma és a védendő építmény közötti tényleges távolságot „m”-ben kell behelyettesíteni. A képlet más tényezői megegyeznek az 1. pont szerinti képlettel.
+5.[^135] A 4. pont szerinti tárolási norma kiszámításához az „R” helyébe a robbanóanyag-raktár robbanási centruma és a védendő építmény közötti tényleges távolságot „m”-ben kell behelyettesíteni. A képlet más tényezői megegyeznek az 1. pont szerinti képlettel.
 
-6. [^135]A robbanóanyag TNT-egyenértékét („E”) a következő módon kell kiszámítani:
+6. [^136]A robbanóanyag TNT-egyenértékét („E”) a következő módon kell kiszámítani:
 
 ## A képlet alkalmazásában: a TNT robbanáshője: 4564 kJ/kg.
 
 7. Az ismeretlen TNT-egyenértékű iniciáló és brizáns robbanóanyag, valamint a robbanóképes pirotechnikai keverék TNT-egyenértékét – méréssel megállapított vagy szakirodalomból vett robbanáshő, vagy a gyártó által megadott égéshő adataik alapján – a 6. pontban foglalt képlet szerint kell meghatározni.
 
-8.[^136] A gyártó létesítményen belül védendő „RV-besorolású” vagy tűzveszélyességi osztályú építmény és szabadtér, valamint a védendő külső építmény – robbanási centrum felé eső – legközelebbi pontjainál, és tartózkodási helyein a robbanási ütőhullám nyomásmaximumának („p”) megengedett legnagyobb értékei a következők:
+8.[^137] A gyártó létesítményen belül védendő „RV-besorolású” vagy tűzveszélyességi osztályú építmény és szabadtér, valamint a védendő külső építmény – robbanási centrum felé eső – legközelebbi pontjainál, és tartózkodási helyein a robbanási ütőhullám nyomásmaximumának („p”) megengedett legnagyobb értékei a következők:
 
 a) 110 kPa-nál (0,1 bar túlnyomásnál) kisebb
 
@@ -446,7 +446,7 @@ eb) a legfeljebb 10 fős létszámú „RV-besorolású” építménynél;
 
 f) 500 kPa (4,0 bar túlnyomás)
 
-fa)[^137] a robbanóanyag-raktárnál,
+fa)[^138] a robbanóanyag-raktárnál,
 
 fb) a gyártó üzemhez tartozó, állandó munkahely nélküli segédanyag-raktárnál,
 
@@ -510,8 +510,8 @@ fc) a létesítmény külső kerítésénél.
 
 | 20. | 1,0 | a kifúvófal és kifúvófödém esetében |
 
-[^133]: A 2. melléklet 4. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 61. pontja szerint módosított szöveg.
-[^134]: A 2. melléklet 5. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 62. pontja szerint módosított szöveg.
-[^135]: A 2. melléklet 6. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 63. pontja szerint módosított szöveg.
-[^136]: A 2. melléklet 8. pont nyitó szövegrésze a 15/2024. (IX. 9.) SZTFH rendelet 48. § 64. pontja szerint módosított szöveg.
-[^137]: A 2. melléklet 8. pont f) alpont fa) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 65. pontjával megállapított szöveg.
+[^134]: A 2. melléklet 4. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 61. pontja szerint módosított szöveg.
+[^135]: A 2. melléklet 5. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 62. pontja szerint módosított szöveg.
+[^136]: A 2. melléklet 6. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 63. pontja szerint módosított szöveg.
+[^137]: A 2. melléklet 8. pont nyitó szövegrésze a 15/2024. (IX. 9.) SZTFH rendelet 48. § 64. pontja szerint módosított szöveg.
+[^138]: A 2. melléklet 8. pont f) alpont fa) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 65. pontjával megállapított szöveg.

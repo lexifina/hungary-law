@@ -6,7 +6,7 @@
 
 (3) Személygépkocsival – a telephelyen belüli robbanóanyag szállítás esetében – legfeljebb 5 kg tömegű robbanóanyag, valamint az ahhoz szükséges, külön hordládába helyezett iniciáló eszköz szállítható. Ebben az esetben a szállítmányt kísérő robbantómesteren kívül más személyt szállítani tilos.
 
-(4)[^127] Robbanóanyag-szállító gépkocsit csak olyan személy vezethet, akinek a járműkategóriára érvényes jogosítványa van, a szállítandó robbanóanyag veszélyes tulajdonságait, valamint a szállítási előírásokat – előzetes oktatás alapján – ismeri, valamint az előzetes oktatás során elsajátított ismeretanyagról készített írásos dokumentáció a birtokában van.
+(4)[^128] Robbanóanyag-szállító gépkocsit csak olyan személy vezethet, akinek a járműkategóriára érvényes jogosítványa van, a szállítandó robbanóanyag veszélyes tulajdonságait, valamint a szállítási előírásokat – előzetes oktatás alapján – ismeri, valamint az előzetes oktatás során elsajátított ismeretanyagról készített írásos dokumentáció a birtokában van.
 
 (5) Raktárból a felhasználás helyére és vissza
 
@@ -26,7 +26,7 @@ d) 20 kg robbanóanyagot és 1000 db perforátort vagy 500 m robbanózsinórt,
 
 (8) A robbanóanyagot szállító járműnek és járműszerelvénynek meg kell felelnie az általános közlekedésbiztonsági előírásoknak. A járművet legalább két db 12 kg töltetű porral oltó vagy ennek megfelelő vizsgálati tűz oltására alkalmas kézi tűzoltó készülékkel kell felszerelni.
 
-(9)[^128] A járművet megengedett terhelésének 90%-áig, lőpor, gyutacs, perforátor vagy robbanózsinór szállítása esetén a megengedett terhelésének legfeljebb 66%-áig lehet igénybe venni. A rakomány az oldal- és hátfal peremén nem nyúlhat túl.
+(9)[^129] A járművet megengedett terhelésének 90%-áig, lőpor, gyutacs, perforátor vagy robbanózsinór szállítása esetén a megengedett terhelésének legfeljebb 66%-áig lehet igénybe venni. A rakomány az oldal- és hátfal peremén nem nyúlhat túl.
 
-[^127]: A 174. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 42. §-ával megállapított szöveg.
-[^128]: A 174. § (9) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 59. pontja szerint módosított szöveg.
+[^128]: A 174. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 42. §-ával megállapított szöveg.
+[^129]: A 174. § (9) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 59. pontja szerint módosított szöveg.

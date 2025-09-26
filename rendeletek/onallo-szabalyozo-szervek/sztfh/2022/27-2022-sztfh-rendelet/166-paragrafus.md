@@ -6,6 +6,6 @@
 
 (4) A robbanóanyag szállításához csak kifogástalan állapotban levő eszközöket lehet használni, azokat a rakodás megkezdése előtt meg kell vizsgálni, és rakfelületüket gondosan meg kell tisztítani.
 
-(5)[^124] A szállítóeszköz megfelelő műszaki állapotáról, valamint az előírt feltételek és felszerelések biztosításáról az eszköz üzembentartója gondoskodik.
+(5)[^125] A szállítóeszköz megfelelő műszaki állapotáról, valamint az előírt feltételek és felszerelések biztosításáról az eszköz üzembentartója gondoskodik.
 
-[^124]: A 166. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 57. pontja szerint módosított szöveg.
+[^125]: A 166. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 57. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 33. § A villamos berendezés minden részének ellen kell állnia a fellépő és a berendezésre káros vegyi hatásoknak. A védelem megfelelő tartós védőburkolattal is kialakítható.
 
-## 19.[^42] Villamos gyártmányok alkalmazhatósága és létesítési követelményei a gyártó létesítményben
+## 19.[^43] Villamos gyártmányok alkalmazhatósága és létesítési követelményei a gyártó létesítményben
 
 34. § (1) Az „RV-1”–„RV-3” besorolású helyiségben és szabadtéren kommutátoros vagy csúszógyűrűs villamos motort alkalmazni tilos.
 
@@ -16,4 +16,4 @@
 
 (7) Az „RV-besorolású” helyiségben és szabadtéren nem lehet alkalmazni éghető folyadékot tartalmazó villamos hőfejlesztő berendezést, készüléket. Csak olyan villamos fűtésű berendezés, készülék alkalmazható, amely megfelelően védett, és méretezése vagy a hozzá tartozó önműködő hőmérséklet-szabályozója biztonságosan kizárja, hogy a környezeti légtérrel érintkező bármely felületrész a megengedett határhőmérséklet fölé emelkedjék.
 
-[^42]: A 19. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 21. §-ával megállapított szöveg.
+[^43]: A 19. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 21. §-ával megállapított szöveg.

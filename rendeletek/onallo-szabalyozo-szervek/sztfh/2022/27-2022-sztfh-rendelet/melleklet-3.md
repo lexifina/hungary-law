@@ -2,7 +2,7 @@
 
 Irányelvek robbantási technológiai előírás összeállításához
 
-1.[^138] a robbantási technológiai előírás (RTE) alkalmazhatósági körének meghatározása (adott termelő, gazdálkodó szervezet külszíni, vagy földalatti művelésű bányája, bányái, továbbá a robbantás helyének, helyeinek megjelölése, a robbantandó anyag, kőzet meghatározása, a robbantás céljának ismertetése a robbantási módokkal, lehetőségekkel), személyi feltételek meghatározása
+1.[^139] a robbantási technológiai előírás (RTE) alkalmazhatósági körének meghatározása (adott termelő, gazdálkodó szervezet külszíni, vagy földalatti művelésű bányája, bányái, továbbá a robbantás helyének, helyeinek megjelölése, a robbantandó anyag, kőzet meghatározása, a robbantás céljának ismertetése a robbantási módokkal, lehetőségekkel), személyi feltételek meghatározása
 
 2. a felhasználható robbanóanyag megnevezése
 
@@ -14,7 +14,7 @@ Irányelvek robbantási technológiai előírás összeállításához
 
 5.1. töltetek kialakítása, töltetszerkezet
 
-5.2.[^139] osztott, vagy nyújtott töltetek alkalmazhatósága
+5.2.[^140] osztott, vagy nyújtott töltetek alkalmazhatósága
 
 5.3. töltőgép használata esetén a kezelésre vonatkozó szabályok; vizes környezet esetén a víztelenítés lehetősége, a nem vízálló robbanóanyag vízállóvá tételének módja
 
@@ -36,7 +36,7 @@ Irányelvek robbantási technológiai előírás összeállításához
 
 6.4. a nem elektromos rendszerű robbantóhálózat kialakítására vonatkozó szabályok
 
-6.5.[^140] az időzítési lehetőségek, és az időzítésre vonatkozó alapvető irányelvek
+6.5.[^141] az időzítési lehetőségek, és az időzítésre vonatkozó alapvető irányelvek
 
 7. a fojtás anyaga, mérete, elhelyezésének módja
 
@@ -54,7 +54,7 @@ Irányelvek robbantási technológiai előírás összeállításához
 
 8.6. a villamos robbantóhálózat, részáramkörök tényleges eredő ellenállásának mérése, a méréshez alkalmazható műszer
 
-9.[^141] biztonsági távolság meghatározása, a repeszhatás csökkentésének szükségessége, lehetőségei, különösen a repeszhatás csökkentése érdekében a védendő létesítmények vonatkozásában alkalmazott geotextília vagy drótfonat és geotextília együttes alkalmazásának, elhelyezésének módja, a felhasználandó anyagok típusának megnevezése, vastagsága, g/m2 értéke és az átfedések mérete, formája
+9.[^142] biztonsági távolság meghatározása, a repeszhatás csökkentésének szükségessége, lehetőségei, különösen a repeszhatás csökkentése érdekében a védendő létesítmények vonatkozásában alkalmazott geotextília vagy drótfonat és geotextília együttes alkalmazásának, elhelyezésének módja, a felhasználandó anyagok típusának megnevezése, vastagsága, g/m2 értéke és az átfedések mérete, formája
 
 10. a jelzés rendje és módja
 
@@ -66,14 +66,14 @@ Irányelvek robbantási technológiai előírás összeállításához
 
 14. a robbanóanyag megsemmisítése, a megsemmisítés helye, módja, az egyidejűleg megsemmisíthető tömeg
 
-15.[^142] az élet- és vagyonbiztonság érdekében szükséges egyéb intézkedések, különösen az elektromos vezeték feszültségmentesítése, csővezeték túlnyomásmentesítése, a hatásterületen belül lévő építmények esetében a szeizmikus mérések helyeinek kijelölése, az első robbantást megelőzően a hatásterülettel érintett építmények statikai állapotú felmérése
+15.[^143] az élet- és vagyonbiztonság érdekében szükséges egyéb intézkedések, különösen az elektromos vezeték feszültségmentesítése, csővezeték túlnyomásmentesítése, a hatásterületen belül lévő építmények esetében a szeizmikus mérések helyeinek kijelölése, az első robbantást megelőzően a hatásterülettel érintett építmények statikai állapotú felmérése
 
 16. a robbantási engedélyben rögzített külön feltételek
 
 17. a rendelet előírásainak betartása alóli esetleges felmentések ismertetése
 
-[^138]: A 3. melléklet 1. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 66. pontja szerint módosított szöveg.
-[^139]: A 3. melléklet 5. pont 5.2. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 67. pontja szerint módosított szöveg.
-[^140]: A 3. melléklet 6. pont 6.5. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 68. pontja szerint módosított szöveg.
-[^141]: A 3. melléklet 9. pontja a 15/2024. (IX. 9.) SZTFH rendelet 45. §-ával megállapított szöveg.
-[^142]: A 3. melléklet 15. pontja a 15/2024. (IX. 9.) SZTFH rendelet 45. §-ával megállapított szöveg.
+[^139]: A 3. melléklet 1. pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 66. pontja szerint módosított szöveg.
+[^140]: A 3. melléklet 5. pont 5.2. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 67. pontja szerint módosított szöveg.
+[^141]: A 3. melléklet 6. pont 6.5. alpontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 68. pontja szerint módosított szöveg.
+[^142]: A 3. melléklet 9. pontja a 15/2024. (IX. 9.) SZTFH rendelet 45. §-ával megállapított szöveg.
+[^143]: A 3. melléklet 15. pontja a 15/2024. (IX. 9.) SZTFH rendelet 45. §-ával megállapított szöveg.

@@ -4,9 +4,9 @@
 
 (3) A mentesítési munka megkezdése előtt az építmény villamos berendezéseit le kell választani a hálózatról, ennek megtörténtét az azzal megbízott villanyszerelőnek írásban kell igazolnia.
 
-(4)[^51] A robbanóanyag gyártásért felelős személy köteles a mentesítő munkálatban részt vevőket (robbantás és égetés esetén a biztonsági őröket is) személyesen kioktatni. Az oktatás megtörténtét az azon részt vevők kötelesek – az erre a célra vezetett naplóban – aláírásukkal igazolni.
+(4)[^52] A robbanóanyag gyártásért felelős személy köteles a mentesítő munkálatban részt vevőket (robbantás és égetés esetén a biztonsági őröket is) személyesen kioktatni. Az oktatás megtörténtét az azon részt vevők kötelesek – az erre a célra vezetett naplóban – aláírásukkal igazolni.
 
-(5)[^52] A nehezebb fizikai munkáknál a robbanóanyag gyártásért felelős személynek váltásról vagy pihenők közbeiktatásáról kell gondoskodnia.
+(5)[^53] A nehezebb fizikai munkáknál a robbanóanyag gyártásért felelős személynek váltásról vagy pihenők közbeiktatásáról kell gondoskodnia.
 
 (6) Egy-egy munkafázishoz egy munkahelyre legfeljebb 4 főt lehet beosztani. A munkacsoportok között a szabadban legalább 10 m távolságot kell tartani.
 
@@ -20,5 +20,5 @@
 
 (11) A mentesítés naponkénti megkezdéséről és befejezéséről értesíteni kell az érdekelt szervezeti egységeket.
 
-[^51]: A 68. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 14. pontja szerint módosított szöveg.
-[^52]: A 68. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 15. pontja szerint módosított szöveg.
+[^52]: A 68. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 14. pontja szerint módosított szöveg.
+[^53]: A 68. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 15. pontja szerint módosított szöveg.

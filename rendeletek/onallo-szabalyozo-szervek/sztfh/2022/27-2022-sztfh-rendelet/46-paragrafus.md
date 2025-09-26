@@ -10,6 +10,6 @@
 
 (6) A próbaüzemeltetést a gép, berendezés tervezett gyártási kapacitásának eléréséig kell folytatni (ha a garanciális feltételek más kikötést nem tartalmaznak). A próbaüzemeltetés időtartama a 180 napot nem haladhatja meg.
 
-(7)[^46] A próbaüzemeltetésről részletes munkanaplót (műszaknapló) kell vezetni, amelybe a próbaüzemeltetéssel kapcsolatos minden lényeges adatot, eseményt és tapasztalatot be kell jegyezni, hogy azok a későbbiekben visszakereshetőek, az üzemszerű gyártás technológiai dokumentációjának elkészítéséhez felhasználhatóak legyenek. A munkanaplót a gép vagy berendezés végleges üzemen kívül helyezéséig meg kell őrizni.
+(7)[^47] A próbaüzemeltetésről részletes munkanaplót (műszaknapló) kell vezetni, amelybe a próbaüzemeltetéssel kapcsolatos minden lényeges adatot, eseményt és tapasztalatot be kell jegyezni, hogy azok a későbbiekben visszakereshetőek, az üzemszerű gyártás technológiai dokumentációjának elkészítéséhez felhasználhatóak legyenek. A munkanaplót a gép vagy berendezés végleges üzemen kívül helyezéséig meg kell őrizni.
 
-[^46]: A 46. § (7) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 24. §-ával megállapított szöveg.
+[^47]: A 46. § (7) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 24. §-ával megállapított szöveg.

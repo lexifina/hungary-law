@@ -6,8 +6,8 @@
 
 (4) A különösen veszélyes szakaszos üzemű technológiai berendezés működését helyiségének ajtajával vagy kezelőnyílásának ajtajával kényszerkapcsolatba kell hozni (reteszelni kell), hogy az ajtó becsukása nélkül ne legyen indítható.
 
-(5)[^44] Azon a munkahelyen, ahol a robbanóanyag gőze vagy pora, továbbá a fokozottan tűz- vagy robbanásveszélyes vagy a mérsékelten tűzveszélyes osztályba tartozó gáz, gőz vagy por veszélyes mértékben jelenhet meg, a technológiai berendezést a szellőző berendezéssel kényszerkapcsolatba kell hozni. Technológiai művelet csak a szellőzés működése mellett végezhető.
+(5)[^45] Azon a munkahelyen, ahol a robbanóanyag gőze vagy pora, továbbá a fokozottan tűz- vagy robbanásveszélyes vagy a mérsékelten tűzveszélyes osztályba tartozó gáz, gőz vagy por veszélyes mértékben jelenhet meg, a technológiai berendezést a szellőző berendezéssel kényszerkapcsolatba kell hozni. Technológiai művelet csak a szellőzés működése mellett végezhető.
 
 (6) A vizsgáló és a megsemmisítő berendezést a robbanás és a tűz károsító hatásának ellenálló védelemmel kell létesíteni. A robbantás jelzésére hang- vagy fényjelző berendezést kell biztosítani. A lőtereket – a meglevő nagy távolságok miatt – kétféle, egymástól függetlenül működő jelzőberendezéssel kell ellátni.
 
-[^44]: A 40. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 11. pontja szerint módosított szöveg.
+[^45]: A 40. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 11. pontja szerint módosított szöveg.

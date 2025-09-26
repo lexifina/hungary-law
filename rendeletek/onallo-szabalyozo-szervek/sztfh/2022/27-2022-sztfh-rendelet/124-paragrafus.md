@@ -4,7 +4,7 @@
 
 (3) A nyilvántartási könyvben a robbantóanyag-készletet minden készletváltozás esetén ki kell mutatni.
 
-(4)[^101] A robbanóanyag-bevételt és -kiadást tételenként kell bejegyezni és az átadó vagy az átvevő általi aláírással igazoltatni.
+(4)[^102] A robbanóanyag-bevételt és -kiadást tételenként kell bejegyezni és az átadó vagy az átvevő általi aláírással igazoltatni.
 
 (5) A különböző megnevezésű robbanóanyagokat külön kell nyilvántartani. A nyilvántartásban a készletváltozás okát fel kell tüntetni. A készletváltozás oka vásárlás, eladás, beszállítás, elszállítás, felhasználás, visszavétel, megsemmisítés lehet.
 
@@ -18,4 +18,4 @@ c) megsemmisítés: megsemmisítés céljából kiadott, vagy bevételezett robb
 
 (7) A használatból kivont nyilvántartási könyvet – a tevékenység befejezése esetén is – a használatból kivonást követő öt évig meg kell őrizni.
 
-[^101]: A 124. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 37. pontja szerint módosított szöveg.
+[^102]: A 124. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 37. pontja szerint módosított szöveg.

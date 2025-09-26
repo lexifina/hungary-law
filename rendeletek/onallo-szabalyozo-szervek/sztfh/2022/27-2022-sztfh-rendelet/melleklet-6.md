@@ -14,7 +14,7 @@
 
 | 7. |  |  | 200–400 | 60 |  |  |
 
-6. melléklet a 27/2022. (I. 31.) SZTFH rendelethez[^152]
+6. melléklet a 27/2022. (I. 31.) SZTFH rendelethez[^153]
 
 Villamos gyutacsok osztályozása
 
@@ -30,4 +30,4 @@ Villamos gyutacsok osztályozása
 
 | 5. | Elektrosztatikus érzékenység, izzógyújtó és gyutacshüvely között (mJ/Ω) | 0,6 | 12 | 120 | 600 |
 
-[^152]: A 6. melléklet a 15/2024. (IX. 9.) SZTFH rendelet 47. §-ával megállapított szöveg.
+[^153]: A 6. melléklet a 15/2024. (IX. 9.) SZTFH rendelet 47. §-ával megállapított szöveg.

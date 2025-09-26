@@ -72,7 +72,7 @@ e) átrakodóhely: rendszerint a robbanóanyag-raktárak közelében, azok véde
 
 21. megállt töltet: olyan töltet, amelynek indítását megkísérelték, de nem vagy csak részben robbant fel;
 
-22.[^1] mértékadó töltet: az azonos késleltetési fokozatban együttrobbanó töltetek mennyisége közül a legnagyobb, elektronikus gyutacs esetén a 8 ms-on belül együtt robbantott töltetek közül a legnagyobb, nyújtott töltet esetén a töltet tömege;
+22.[^2] mértékadó töltet: az azonos késleltetési fokozatban együttrobbanó töltetek mennyisége közül a legnagyobb, elektronikus gyutacs esetén a 8 ms-on belül együtt robbantott töltetek közül a legnagyobb, nyújtott töltet esetén a töltet tömege;
 
 23. munkatér: az a helyiség, amelyben a robbanóanyaggal munkaműveletet végeznek;
 
@@ -94,7 +94,7 @@ e) átrakodóhely: rendszerint a robbanóanyag-raktárak közelében, azok véde
 
 32. robbanás: nagy sebességű, energia-felszabadulással járó folyamat;
 
-32a.[^2] robbanásbiztos kivitel: az a villamos vagy gépészeti berendezés-kialakítás, amely működése során nem válthat ki robbanást, és nem válhat gyújtóforrássá még rendellenes működés esetén sem;
+32a.[^3] robbanásbiztos kivitel: az a villamos vagy gépészeti berendezés-kialakítás, amely működése során nem válthat ki robbanást, és nem válhat gyújtóforrássá még rendellenes működés esetén sem;
 
 33. robbanóanyag: szilárd vagy folyékony halmazállapotú anyag vagy ezek keveréke, amely kémiai reakció révén képes arra, hogy olyan sebességgel fejlesszen gázt, ami elegendő hőmérsékletű és akkora nyomáshullámot hoz létre, hogy a környezetben károsodást idéz elő, így különösen az alap-, az emulzió alapú-, a por alakú keverék-, az öntött- és a préselt robbanóanyag;
 
@@ -118,13 +118,13 @@ e) átrakodóhely: rendszerint a robbanóanyag-raktárak közelében, azok véde
 
 43. robbantással kapcsolatos jelzésrend: a robbantás tervezett időpontja előtti első, a robbantás kezdetét, valamint befejezését jelentő jelzések meghatározása;
 
-44.[^3] robbantóanyag: a robbanóanyag és a robbantószer összefoglaló elnevezése;
+44.[^4] robbantóanyag: a robbanóanyag és a robbantószer összefoglaló elnevezése;
 
 45. robbantóhálózat: villamos gyutacsok esetében a gyutacsvezetékek és a robbantóvezeték összekapcsolásával kialakított vezetékrendszer, gyújtózsinór és nem elektromos hálózat esetén a gyutacsokkal szerelt és lefektetett zsinórrendszer;
 
 46. robbantóhálózat ellenállása: a villamos gyutacsok vezeték hossztól függő összellenállása és a robbanóvezeték ellenállása figyelembevételével meghatározott összes ellenállás ohmban kifejezett értéke;
 
-46a.[^4] robbantószer: a töltet közvetlen iniciálására szolgáló anyag vagy szerkezet;
+46a.[^5] robbantószer: a töltet közvetlen iniciálására szolgáló anyag vagy szerkezet;
 
 47. robbantótöltet elkészítésének megkezdése: az az időpont, amikor a robbantás helyén a robbanóanyagot felhasználás céljából a hordládából vagy a gyári csomagolásból kiveszik;
 
@@ -134,7 +134,7 @@ e) átrakodóhely: rendszerint a robbanóanyag-raktárak közelében, azok véde
 
 50. szállítási norma: az a tömegegységben vagy darabszámban meghatározott legnagyobb robbanóanyag-mennyiség, amely – a szállítás módjától és a használt göngyöleg fajtájától függően – anyagmozgató, vagy szállítóeszközzel egyszerre szállítható;
 
-50a.[^5] szellőztetési üzemzavar: a légosztályok számának, a főszellőztető-gép légtechnikai jellemzőinek, az áthúzó légáram irányának és mennyiségének változása, valamint a bányatérségek szellőztetésében bekövetkező olyan változás, amely a légáram előírt mennyiségétől, sebességétől vagy a levegő összetételének megengedett értékétől való eltérését okozza vagy okozhatja;
+50a.[^6] szellőztetési üzemzavar: a légosztályok számának, a főszellőztető-gép légtechnikai jellemzőinek, az áthúzó légáram irányának és mennyiségének változása, valamint a bányatérségek szellőztetésében bekövetkező olyan változás, amely a légáram előírt mennyiségétől, sebességétől vagy a levegő összetételének megengedett értékétől való eltérését okozza vagy okozhatja;
 
 51. szikraérzékenység: az az elektromos energia, amelynél nagyobb energiájú kisüléstől az anyag meggyulladhat, és a meggyulladás valószínűsége a kisülés energiájának növekedésével nő;
 
@@ -190,8 +190,8 @@ b) megállt töltet esetén védett helyen kell tartózkodni;
 
 75. zárt rendszerű technológia: az a technológiai berendezés, amelynek üzemszerű működése során egyáltalán nem, vagy csak a környezetre veszélytelen mértékben juthat vegyianyag, robbanóanyag, robbanásveszélyes gáz, gőz vagy por a légtérbe.
 
-[^1]: A 2. § 22. pontja a 15/2024. (IX. 9.) SZTFH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 32a. pontját a 15/2024. (IX. 9.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
-[^3]: A 2. § 44. pontja a 15/2024. (IX. 9.) SZTFH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^4]: A 2. § 46a. pontját a 15/2024. (IX. 9.) SZTFH rendelet 1. § (4) bekezdése iktatta be.
-[^5]: A 2. § 50a. pontját a 15/2024. (IX. 9.) SZTFH rendelet 1. § (5) bekezdése iktatta be.
+[^2]: A 2. § 22. pontja a 15/2024. (IX. 9.) SZTFH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 32a. pontját a 15/2024. (IX. 9.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 44. pontja a 15/2024. (IX. 9.) SZTFH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^5]: A 2. § 46a. pontját a 15/2024. (IX. 9.) SZTFH rendelet 1. § (4) bekezdése iktatta be.
+[^6]: A 2. § 50a. pontját a 15/2024. (IX. 9.) SZTFH rendelet 1. § (5) bekezdése iktatta be.

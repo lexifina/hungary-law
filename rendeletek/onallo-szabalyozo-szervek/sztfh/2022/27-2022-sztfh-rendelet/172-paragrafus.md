@@ -2,7 +2,7 @@
 
 172. § (1) Robbanóanyagot csak hordládába helyezve lehet szállítani. Egy személy egyidejűleg csak egy hordládát vihet magával. Gyutacsot, robbanózsinórt vagy perforátort csak robbantómester szállíthat.
 
-(2)[^126] A hordládában legfeljebb 6 kg nedves vagy 3 kg száraz iniciáló robbanóanyag, valamint 25 kg egyéb robbanóanyag, 400 db gyutacs, 250 m robbanózsinór vagy 250 db perforátor szállítható. Egy hordládában legfeljebb 10 kg robbanóanyag, valamint külön rekeszben legfeljebb 50 db gyutacs együtt is elhelyezhető.
+(2)[^127] A hordládában legfeljebb 6 kg nedves vagy 3 kg száraz iniciáló robbanóanyag, valamint 25 kg egyéb robbanóanyag, 400 db gyutacs, 250 m robbanózsinór vagy 250 db perforátor szállítható. Egy hordládában legfeljebb 10 kg robbanóanyag, valamint külön rekeszben legfeljebb 50 db gyutacs együtt is elhelyezhető.
 
 (3) A hordládát fából, elektrosztatikus feltöltődésre nem hajlamos hézagmentes béleléssel, a terhelésnek megfelelő szilárdságú fogantyúval, valamint lecsapódás ellen biztosított fedéllel kell elkészíteni.
 
@@ -12,4 +12,4 @@
 
 (6) A robbanóanyaggal megrakott, merev vonórudas kézi kocsit csak húzni, más kézi kocsit csak tolni szabad. A kézi kocsin a rakományt úgy kell elhelyezni, hogy az útra való rálátást ne akadályozza.
 
-[^126]: A 172. § (2) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 49. § 6. pontja szerint módosított szöveg.
+[^127]: A 172. § (2) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 49. § 6. pontja szerint módosított szöveg.

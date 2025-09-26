@@ -36,7 +36,7 @@ cd) 5000 m robbanózsinór
 
 tárolható együtt.
 
-(5)[^105] Robbantóanyagból ugyanabban a tárolóban legfeljebb
+(5)[^106] Robbantóanyagból ugyanabban a tárolóban legfeljebb
 
 a) 40 000 kg robbanóanyag,
 
@@ -54,7 +54,7 @@ tárolható együtt.
 
 a) 1 kg lőpor,
 
-b)[^106] 100 db gyutacs, vagy,
+b)[^107] 100 db gyutacs, vagy,
 
 c) perforátor és robbanózsinór esetén a bennük lévő – E=1,28·TNT-egyenértékkel figyelembe vett – nettó robbanóanyagnak megfelelő mennyiség
 
@@ -64,5 +64,5 @@ az egyenértékű.
 
 (8) A kerítésen kívül kell elhelyezni az őrzéssel, a villamosenergia-ellátással kapcsolatos, valamint a robbanóanyag csomagolásához használt göngyölegek tárolására szolgáló létesítményeket.
 
-[^105]: A 129. § (5) bekezdés záró szövegrésze a 15/2024. (IX. 9.) SZTFH rendelet 48. § 40. pontjával megállapított szöveg.
-[^106]: A 129. § (6) bekezdés b) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 41. pontja szerint módosított szöveg.
+[^106]: A 129. § (5) bekezdés záró szövegrésze a 15/2024. (IX. 9.) SZTFH rendelet 48. § 40. pontjával megállapított szöveg.
+[^107]: A 129. § (6) bekezdés b) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 41. pontja szerint módosított szöveg.

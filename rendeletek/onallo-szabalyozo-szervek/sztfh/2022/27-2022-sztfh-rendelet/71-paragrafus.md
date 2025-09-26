@@ -14,11 +14,11 @@
 
 (7) A robbantás szeizmikus biztonsági távolságán belül, a robbantásvezető által kijelölt építmények állagfelmérését el kell végezni, majd ezek alapján kell meghatározni a megengedhető rezgési sebességet, amelyet műszeres méréssel ellenőrizni kell.
 
-(8)[^62] A robbantás megkezdése előtt számítással meg kell határozni a szeizmikus biztonsági távolságot. A biztonsági távolságon belül lévő védendő létesítmények esetében a 4. melléklet I. pontja szerint meg kell állapítani a létesítmény statikai jellemzői figyelembevételével a várható rezgésterhelést. A 4. melléklet I. pont 2. alpont 2.3. pontja szerinti képlettel számított rezgési sebesség nem haladhatja meg a 4. melléklet I. pont 2. alpont 2.4. pontjában foglalt besorolás szerinti megengedett rezgési sebesség értéket.
+(8)[^63] A robbantás megkezdése előtt számítással meg kell határozni a szeizmikus biztonsági távolságot. A biztonsági távolságon belül lévő védendő létesítmények esetében a 4. melléklet I. pontja szerint meg kell állapítani a létesítmény statikai jellemzői figyelembevételével a várható rezgésterhelést. A 4. melléklet I. pont 2. alpont 2.3. pontja szerinti képlettel számított rezgési sebesség nem haladhatja meg a 4. melléklet I. pont 2. alpont 2.4. pontjában foglalt besorolás szerinti megengedett rezgési sebesség értéket.
 
 (9) Szeizmikus méréssel kell meghatározni a rezgés paramétereit, ha
 
-a)[^63] a 4. melléklet I. pont 2. alpont 2.4. pontjában foglalt táblázat szerinti különleges védelmet igénylő létesítményeknél a megengedhető rezgési sebesség 80%-át eléri a számított rezgési sebesség,
+a)[^64] a 4. melléklet I. pont 2. alpont 2.4. pontjában foglalt táblázat szerinti különleges védelmet igénylő létesítményeknél a megengedhető rezgési sebesség 80%-át eléri a számított rezgési sebesség,
 
 b) a robbantások rendszeresen ismétlődnek és idegen, nem a robbantást végző engedélyes kezelésében lévő létesítmények védelmét kell biztosítani, vagy
 
@@ -28,5 +28,5 @@ c) azt a bányafelügyelet szükségesnek tartja és határozatában előírja.
 
 (11) Ha a (10) bekezdésben meghatározott A-hangnyomásszint a 125 dB értéket túllépi, a robbantást végző köteles műszaki intézkedésekkel, a munkák szervezésével és a zajexpozíció intenzitásának és időtartamának minimalizálásával ezen zajok okozta kockázatot megszüntetni.
 
-[^62]: A 71. § (8) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^63]: A 71. § (9) bekezdés a) pontja a 15/2024. (IX. 9.) SZTFH rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^63]: A 71. § (8) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^64]: A 71. § (9) bekezdés a) pontja a 15/2024. (IX. 9.) SZTFH rendelet 28. § (2) bekezdésével megállapított szöveg.

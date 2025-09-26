@@ -12,6 +12,6 @@
 
 (6) A fojtást szerszámmal vagy fúrással eltávolítani nem lehet.
 
-(7)[^77] Ha a megállt töltet hatástalanítása nem sikerült, a robbantómester gondoskodik a megállt töltet őrzéséről, és intézkedik aziránt, hogy az általa meghatározott körzetben senki ne tartózkodjon, valamint jelentést tesz az általa megtett intézkedésekről a robbantásvezetőnek.
+(7)[^78] Ha a megállt töltet hatástalanítása nem sikerült, a robbantómester gondoskodik a megállt töltet őrzéséről, és intézkedik aziránt, hogy az általa meghatározott körzetben senki ne tartózkodjon, valamint jelentést tesz az általa megtett intézkedésekről a robbantásvezetőnek.
 
-[^77]: A 83. § (7) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 34. §-ával megállapított szöveg.
+[^78]: A 83. § (7) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 34. §-ával megállapított szöveg.

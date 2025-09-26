@@ -1,6 +1,6 @@
 ## 50. Kivető robbantás nagy átmérőjű robbantólyukak tölteteivel
 
-100. § (1)[^89] A nagy átmérőjű – 60 mm-nél nagyobb – robbantólyukak kialakításához a robbantásvezetőnek telepítési tervet kell készíteni. A telepítési tervet a fúrást végzőnek a munka megkezdése előtt átvételi elismervény ellenében ki kell adni.
+100. § (1)[^90] A nagy átmérőjű – 60 mm-nél nagyobb – robbantólyukak kialakításához a robbantásvezetőnek telepítési tervet kell készíteni. A telepítési tervet a fúrást végzőnek a munka megkezdése előtt átvételi elismervény ellenében ki kell adni.
 
 (2) A robbantásvezető vagy akadályoztatása esetén az általa írásban megbízott robbantásvezető képesítésű személy köteles a nyújtott töltetek elhelyezése előtt a töltési terek méreteit ellenőrizni, a tervtől való eltérés esetén a töltetszámítást felülvizsgálni, szükség esetén a töltetek tömegét módosítani.
 
@@ -12,4 +12,4 @@
 
 (6) A robbantásvezetőnek a nagy átmérőjű robbantólyukak tölteteinek indításánál jelen kell lennie.
 
-[^89]: A 100. § (1) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 32. pontja szerint módosított szöveg.
+[^90]: A 100. § (1) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 32. pontja szerint módosított szöveg.

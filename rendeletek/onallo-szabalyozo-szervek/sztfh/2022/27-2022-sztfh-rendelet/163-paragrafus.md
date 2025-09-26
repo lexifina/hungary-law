@@ -1,6 +1,6 @@
 163. § (1) A raktárban a helyhez kötött világítási lámpatesteken, valamint az ezeket tápláló kábeleken kívül más villamos berendezést létesíteni nem lehet.
 
-(2)[^122] A sújtólégveszélyes bányatérségekben a raktár villamos berendezéseinek létesítésénél a következő feltételeknek is teljesülni kell:
+(2)[^123] A sújtólégveszélyes bányatérségekben a raktár villamos berendezéseinek létesítésénél a következő feltételeknek is teljesülni kell:
 
 a) a villamos berendezés táplálására csak kábelt szabad használni,
 
@@ -14,4 +14,4 @@ e) a világítási hálózat kapcsolóját a raktár bejáratánál – kívül 
 
 (3) A raktár világítására helyhez kötött hálózati lámpatesteket kell beépíteni. A megvilágítás erősségének meg kell felelnie a 152. § (3) bekezdésében foglaltaknak.
 
-[^122]: A 163. § (2) bekezdés nyitó szövegrésze a 15/2024. (IX. 9.) SZTFH rendelet 49. § 5. pontja szerint módosított szöveg.
+[^123]: A 163. § (2) bekezdés nyitó szövegrésze a 15/2024. (IX. 9.) SZTFH rendelet 49. § 5. pontja szerint módosított szöveg.

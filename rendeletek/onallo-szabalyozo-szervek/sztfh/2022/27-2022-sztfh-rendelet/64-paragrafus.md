@@ -1,6 +1,6 @@
 ## 63. § A gyártó technológiai gépet, berendezést csak a 61. § (2)–(4) bekezdésében foglalt mentesítés és engedélyezés után szabad lebontani átalakítás vagy áttelepítés céljából.
 
-## 27.[^50] A gyártó létesítményre vonatkozó tűzvédelmi előírások
+## 27.[^51] A gyártó létesítményre vonatkozó tűzvédelmi előírások
 
 64. § (1) A gyártó építmény és berendezés üzemeltetésének tűzvédelmi szabályait a Tűzvédelmi Szabályzatban kell rögzíteni.
 
@@ -14,4 +14,4 @@
 
 (6) A védősánccal be nem védett „RV-besorolású” építmény legalább 5 m-es körzetén belül ki kell vágni a fákat, továbbá 10 m-es körzeten belül a fákat a terepszinttől mért legalább 2 m magasságig le kell gallyazni, a cserjét, bozótot ki kell irtani.
 
-[^50]: A 27. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 26. §-ával megállapított szöveg.
+[^51]: A 27. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 26. §-ával megállapított szöveg.

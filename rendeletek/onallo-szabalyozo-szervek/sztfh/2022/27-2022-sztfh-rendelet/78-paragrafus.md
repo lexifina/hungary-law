@@ -28,6 +28,6 @@ b) az egyes gyutacsok vagy részáramkörök ellenállásaként a legnagyobb ell
 
 (11) Robbantóhálózat kialakításához csak azonos érzékenységű (fajlagos energiaigényű) villamos gyutacsok alkalmazhatók.
 
-(12)[^71] Az elektronikusan programozható gyutacsok alkalmazása esetében a gyártói kezelési utasítás szerint kell eljárni.
+(12)[^72] Az elektronikusan programozható gyutacsok alkalmazása esetében a gyártói kezelési utasítás szerint kell eljárni.
 
-[^71]: A 78. § (12) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 30. §-a iktatta be.
+[^72]: A 78. § (12) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 30. §-a iktatta be.

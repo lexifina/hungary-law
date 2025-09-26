@@ -1,4 +1,4 @@
-## 8.[^27] A robbanóanyag gyártására szolgáló építmények belső védelmi rendszerének kialakítása
+## 8.[^28] A robbanóanyag gyártására szolgáló építmények belső védelmi rendszerének kialakítása
 
 11. § (1) Az „RV-besorolású” építményt egyszintesre kell alakítani, több szintet igénylő gyártási folyamatnál csak a technológiai tér alakítható ki többszintesre.
 
@@ -28,10 +28,10 @@
 
 (14) A különösen veszélyes munkahelyeken (különösen iniciáló robbanóanyag szárításánál, szitálásánál, száraz keverésénél, préselésénél, brizáns robbanóanyag sajtolásánál) a munkavállalókat a technológiai tértől vasbeton fallal és zsiliprendszerű mozgatható acéllappal el kell választani. A vasbeton fal és az acéllap kialakításának olyannak kell lenni, hogy a technológiai térben esetleg felrobbanó összes robbanóanyag a munkavállalók testi épségét ne veszélyeztesse.
 
-(15)[^28] A robbanóanyagokkal közvetlenül kézzel vagy szerszámmal végzett szerelési, vizsgálati, ellenőrzési műveleteknél munkahelyi bevédéseket kell felszerelni. A munkahelyi bevédések védőképességét a létesítmény üzemeltetője modellkísérletekkel ellenőrzi. Az ellenőrzést a munkafázishoz tartozóan, a tervezett terhelési norma 1,5-szeresének megfelelő mennyiségű robbanóanyag robbantásával vagy meggyújtásával kell elvégezni.
+(15)[^29] A robbanóanyagokkal közvetlenül kézzel vagy szerszámmal végzett szerelési, vizsgálati, ellenőrzési műveleteknél munkahelyi bevédéseket kell felszerelni. A munkahelyi bevédések védőképességét a létesítmény üzemeltetője modellkísérletekkel ellenőrzi. Az ellenőrzést a munkafázishoz tartozóan, a tervezett terhelési norma 1,5-szeresének megfelelő mennyiségű robbanóanyag robbantásával vagy meggyújtásával kell elvégezni.
 
-(16)[^29] Az „RV besorolású” helyiségekben az ott jelenlévő robbanóanyag jellemzőinek megfelelő automata tűzoltó berendezést kell létesíteni.
+(16)[^30] Az „RV besorolású” helyiségekben az ott jelenlévő robbanóanyag jellemzőinek megfelelő automata tűzoltó berendezést kell létesíteni.
 
-[^27]: A 8. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 11. §-ával megállapított szöveg.
-[^28]: A 11. § (15) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 7. pontja szerint módosított szöveg.
-[^29]: A 11. § (16) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 12. §-a iktatta be.
+[^28]: A 8. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 11. §-ával megállapított szöveg.
+[^29]: A 11. § (15) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 7. pontja szerint módosított szöveg.
+[^30]: A 11. § (16) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 12. §-a iktatta be.

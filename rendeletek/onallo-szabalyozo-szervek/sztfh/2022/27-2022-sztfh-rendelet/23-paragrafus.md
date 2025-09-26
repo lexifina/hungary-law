@@ -1,4 +1,4 @@
-## 18.[^40] A gyártó létesítmény villamos berendezéseinek létesítési előírásai
+## 18.[^41] A gyártó létesítmény villamos berendezéseinek létesítési előírásai
 
 23. § (1) Az „RV-besorolású” építményben csak kis- és törpefeszültségű, villamos berendezés létesíthető.
 
@@ -6,4 +6,4 @@
 
 (3) A gyártási technológia megváltozása esetén a villamos berendezést az általa okozható veszély szempontjából felül kell vizsgálni még abban az esetben is, ha a technológiai berendezések változatlanok maradnak.
 
-[^40]: A 18. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 20. §-ával megállapított szöveg.
+[^41]: A 18. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 20. §-ával megállapított szöveg.

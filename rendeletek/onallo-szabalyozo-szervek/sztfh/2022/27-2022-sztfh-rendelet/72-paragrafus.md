@@ -8,13 +8,13 @@
 
 (4) Az indítótöltet, a robbantószerkezet elkészítését megkezdeni vagy folytatni nem lehet, ha a robbantás elvégzését akadályozó vagy tiltó körülmény áll fenn, vagy ilyennel számolni kell.
 
-(5)[^64] A robbantómester – szükség esetén őrökkel – biztosítja, hogy a robbantás kezdetétől annak befejezéséig a személyek védelmére előírt biztonsági távolságon belül – a védett helyen levők és a robbantáshoz beosztottak kivételével –, valamint a robbanási termékek által veszélyeztetett körzetben személyek ne tartózkodjanak.
+(5)[^65] A robbantómester – szükség esetén őrökkel – biztosítja, hogy a robbantás kezdetétől annak befejezéséig a személyek védelmére előírt biztonsági távolságon belül – a védett helyen levők és a robbantáshoz beosztottak kivételével –, valamint a robbanási termékek által veszélyeztetett körzetben személyek ne tartózkodjanak.
 
-(6)[^65] A robbantómester az érintett személyekkel jelzés útján vagy egyéb módon közli azt az időpontot, amikor a biztonsági távolságon túlra vagy védett helyre kell távozniuk, valamint a robbantás befejezését.
+(6)[^66] A robbantómester az érintett személyekkel jelzés útján vagy egyéb módon közli azt az időpontot, amikor a biztonsági távolságon túlra vagy védett helyre kell távozniuk, valamint a robbantás befejezését.
 
-(7)[^66] A védett helyet a robbantómester jelöli ki. Védett helyként csak olyan helyet lehet kijelölni, ahol a személyek védelme a robbantás káros hatása ellen biztosított.
+(7)[^67] A védett helyet a robbantómester jelöli ki. Védett helyként csak olyan helyet lehet kijelölni, ahol a személyek védelme a robbantás káros hatása ellen biztosított.
 
-(8)[^67] A robbanóanyagot nem lehet felrobbantani, amíg a biztonsági távolságon belül – a védett helyen levők kivételével – személy tartózkodik. A robbantás helyét a robbantómester utolsóként hagyja el.
+(8)[^68] A robbanóanyagot nem lehet felrobbantani, amíg a biztonsági távolságon belül – a védett helyen levők kivételével – személy tartózkodik. A robbantás helyét a robbantómester utolsóként hagyja el.
 
 (9) A robbantás befejezése előtt a robbantómester engedélyével lehet a védett helyet elhagyni, vagy a biztonsági távolság által meghatározott területre belépni.
 
@@ -70,7 +70,7 @@ f) segítség a robbanóanyag és a gyutacs megsemmisítésénél.
 
 (15) Ha ugyanazon robbantásnál több robbantómester tevékenykedik az egyik robbantómestert a munka irányítójának kell kijelölni.
 
-[^64]: A 72. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 22. pontja szerint módosított szöveg.
-[^65]: A 72. § (6) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 23. pontja szerint módosított szöveg.
-[^66]: A 72. § (7) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 24. pontja szerint módosított szöveg.
-[^67]: A 72. § (8) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 25. pontja szerint módosított szöveg.
+[^65]: A 72. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 22. pontja szerint módosított szöveg.
+[^66]: A 72. § (6) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 23. pontja szerint módosított szöveg.
+[^67]: A 72. § (7) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 24. pontja szerint módosított szöveg.
+[^68]: A 72. § (8) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 25. pontja szerint módosított szöveg.

@@ -6,19 +6,19 @@ a) ha a robbantás helyének 3 m-es körzetében vagy a robbantóállomáson a f
 
 b) ha a töltet 3 m-es körzetében ellenőrizhetetlen levegő-összetételű üreg van vagy ilyennel számolni kell,
 
-c)[^78] fejtésben omlasztással egyidejűleg, és
+c)[^79] fejtésben omlasztással egyidejűleg, és
 
 d) döntőgurítóban vagy bunkerben, ha abban szenet tárolnak,
 
 nem lehet robbantani.
 
-(2)[^79] Sújtólégveszélyes bányában és szénporrobbanás-veszélyes bányában csak sújtólégbiztos robbantást lehet végezni, csak sújtólégbiztos robbanóanyagot, robbantógépet és ellenőrző műszert lehet használni.
+(2)[^80] Sújtólégveszélyes bányában és szénporrobbanás-veszélyes bányában csak sújtólégbiztos robbantást lehet végezni, csak sújtólégbiztos robbanóanyagot, robbantógépet és ellenőrző műszert lehet használni.
 
-(3)[^80]
+(3)[^81]
 
-(4)[^81] Sújtólégveszélyes bánya szénomlasztásos fejtésében, valamint 30°-nál nagyobb dőléssel felfelé szénben hajtott bányatérségében csak kiürített légosztály mellett lehet robbantani.
+(4)[^82] Sújtólégveszélyes bánya szénomlasztásos fejtésében, valamint 30°-nál nagyobb dőléssel felfelé szénben hajtott bányatérségében csak kiürített légosztály mellett lehet robbantani.
 
-(5)[^82] Sújtólégveszélyes bányában gyutacsot és robbanóanyagot ugyanabban a hordládában együtt szállítani és tárolni nem lehet. A gyutacsot és robbanóanyagot tartalmazó hordládákat egymástól legalább 1 m távolságban kell tartani.
+(5)[^83] Sújtólégveszélyes bányában gyutacsot és robbanóanyagot ugyanabban a hordládában együtt szállítani és tárolni nem lehet. A gyutacsot és robbanóanyagot tartalmazó hordládákat egymástól legalább 1 m távolságban kell tartani.
 
 (6) A robbantás helyén töltetet elhelyezni, azt elhagyni, továbbá a robbantóállomáson robbantóhálózatot az ellenőrző műszerrel vagy a robbantógéppel összekapcsolni csak akkor lehet, ha a robbantómester előzetesen ellenőrzése során a levegő metántartalma nem haladta meg az 1,00%V/V-ot.
 
@@ -42,16 +42,16 @@ h) több töltet egyidejű indítása esetén az elsőként és az utolsóként 
 
 i) rátett töltetet alkalmazni nem lehet,
 
-j)[^83] védett hely frontfejtésben nem jelölhető ki,és
+j)[^84] védett hely frontfejtésben nem jelölhető ki,és
 
 k) főteprovokálás esetén a robbantóállomást a behúzó vágatban, a fejtés homlokától legalább 150 m távolságban kell kijelölni, továbbá a robbantóállomás és a fejtés közötti vágatba robbanásfojtó zárat kell beépíteni.
 
-(8)[^84] Sújtólégveszélyes bányában a főteprovokálást kiürített légosztály mellett lehet végezni.
+(8)[^85] Sújtólégveszélyes bányában a főteprovokálást kiürített légosztály mellett lehet végezni.
 
-[^78]: A 88. § (1) bekezdés c) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 28. pontja szerint módosított szöveg.
-[^79]: A 88. § (2) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^80]: A 88. § (3) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 49. § 2. pontja hatályon kívül helyezte.
-[^81]: A 88. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^82]: A 88. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 29. pontja szerint módosított szöveg.
-[^83]: A 88. § (7) bekezdés j) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 30. pontja szerint módosított szöveg.
-[^84]: A 88. § (8) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 35. § (3) bekezdésével megállapított szöveg.
+[^79]: A 88. § (1) bekezdés c) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 28. pontja szerint módosított szöveg.
+[^80]: A 88. § (2) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^81]: A 88. § (3) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 49. § 2. pontja hatályon kívül helyezte.
+[^82]: A 88. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^83]: A 88. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 29. pontja szerint módosított szöveg.
+[^84]: A 88. § (7) bekezdés j) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 30. pontja szerint módosított szöveg.
+[^85]: A 88. § (8) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 35. § (3) bekezdésével megállapított szöveg.
