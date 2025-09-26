@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-57-20-0
 | 2017-01-01 | 2006-57-20-0L.4 | 62/2016. (XII. 29.) NGM rendelet |
 | 2017-01-29 | 2006-57-20-0L.7 | 10/2010. (III. 2.) NFGM rendelet |
 | 2025-01-30 | 2006-57-20-0L.6 | 53/2024. (XII. 30.) NGM rendelet |
+| 2025-09-26 | 2006-57-20-0L.8 | 30/2025. (IX. 11.) NGM rendelet |

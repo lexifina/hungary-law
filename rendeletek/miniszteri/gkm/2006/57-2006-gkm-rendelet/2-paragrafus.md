@@ -44,11 +44,11 @@ Fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint bejele
 
 | 1.9. különleges árukezelés, darabonként | 45 Ft |
 
-| 1.10. sürgősségi díj: |
+| 1.10. [^10] |
 
-| 1.10.1. arany-, platina- és palládiumtárgyak esetében, darabonként | 80 Ft |
+| 1.10.1.[^11] |  |
 
-| 1.10.2. ezüsttárgyak esetében, darabonként | 40 Ft |
+| 1.10.2.[^12] |  |
 
 | 2. Laboratóriumi anyagvizsgálati díjak: |
 
@@ -106,11 +106,11 @@ Fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint bejele
 
 | 2.8. egyedi árukezelés vizsgálatonként | 3 800 Ft |
 
-| 2.9. sürgősséggel megrendelt munkálatokat a Kormányhivatal |
+| 2.9.[^13] |
 
-| 2.9.1. 72 órán belül végzi el: a sürgősségi díj mértéke az alapdíj | 100%-a |
+| 2.9.1.[^14] |  |
 
-| 2.9.2. 24 órán belül végzi el: a sürgősségi díj mértéke az alapdíj | 200%-a |
+| 2.9.2.[^15] |  |
 
 | 3. Egyéb díjak: |
 
@@ -124,5 +124,20 @@ Fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint bejele
 
 | 3.5. egyenértékűség megállapítását célzó eljárás díja | 565 000 Ft |
 
+| 3.6.[^16] sürgősségi eljárás pótdíja |
+
+| 3.6.1.[^17] soron kívüli eljárás esetén az alapdíj | 100%-a |
+
+| 3.6.2.[^18] azonnali eljárás esetén az alapdíj | 200%-a |
+
 [^8]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
 [^9]: A melléklet az 53/2024. (XII. 30.) NGM rendelet 1. §-ával megállapított szöveg.
+[^10]: A Mellékletben foglalt táblázat 1.10. sorát a 30/2025. (IX. 11.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^11]: A Mellékletben foglalt táblázat 1.10.1. sorát a 30/2025. (IX. 11.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^12]: A Mellékletben foglalt táblázat 1.10.2. sorát a 30/2025. (IX. 11.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^13]: A Mellékletben foglalt táblázat 2.9. sorát a 30/2025. (IX. 11.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^14]: A Mellékletben foglalt táblázat 2.9.1. sorát a 30/2025. (IX. 11.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^15]: A Mellékletben foglalt táblázat 2.9.2. sorát a 30/2025. (IX. 11.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^16]: A Mellékletben foglalt táblázat 3.6. sorát a 30/2025. (IX. 11.) NGM rendelet 1. §-a iktatta be.
+[^17]: A Mellékletben foglalt táblázat 3.6.1. sorát a 30/2025. (IX. 11.) NGM rendelet 1. §-a iktatta be.
+[^18]: A Mellékletben foglalt táblázat 3.6.2. sorát a 30/2025. (IX. 11.) NGM rendelet 1. §-a iktatta be.
