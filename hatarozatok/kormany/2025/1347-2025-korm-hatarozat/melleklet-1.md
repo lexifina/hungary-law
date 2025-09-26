@@ -20,7 +20,7 @@
 
 | Határidő: | az Európai Beruházási Bankkal a 2. pont szerint folytatandó tárgyalások lezárását követően |
 
-## 4. visszavonja a vasútfejlesztések megvalósítása érdekében az Európai Beruházási Banktól történő forrásbevonáshoz szükséges intézkedésekről szóló 1154/2024. (VI. 10.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1347/2025. (IX. 25.) Korm. határozathoz
 
@@ -45,3 +45,5 @@ Az Európai Beruházási Banktól történő forrásbevonás terhére megvalós�
 | Pályafelújítás | 100a | Budapest-Nyugati–Szolnok (Városliget elágazás – KöKi; KöKi – Vecsés rostálás; Ceglédbercel–Cserő–Cegléd; Cegléd–Szolnok között alépítményhiba-javítás; Szolnok állomás) | részszakaszokra irányuló eltérő beavatkozások | 61 |
 
 | Összesen: |  | 782 |
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
