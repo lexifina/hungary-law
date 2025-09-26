@@ -6,6 +6,8 @@ b) azt, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályokn
 
 c) azt, hogy a létesítménnyel érintett ingatlanon üzemelő vagy tervezett közművek üzemben tartói a szolgáltatást biztosítják, illetve elutasító nyilatkozat esetén a közműkiváltó műszaki megoldás lehetőségét.
 
+d)[^3] a végleges vízjogi létesítési vagy fennmaradási engedély megszerzését az engedély számának benyújtásával.
+
 (2) A létesítési engedély iránti kérelemhez mellékelni kell:
 
 a) a tervezett hajózási létesítményre vonatkozó mellékletekben meghatározott tartalmú műszaki tervdokumentációt 3 példányban, nyilatkozatot a tervezett üzemeltetési formáról;
@@ -23,3 +25,8 @@ bd) a helyszínrajzhoz az eredeti térképlap másolatát csatolni kell.
 (3) A több megvalósulási szakaszra bontott létesítés esetében csak az első szakasz engedélyezése iránti kérelemhez kell helyszínrajzot csatolni és a későbbiek során csupán a korábban becsatolt helyszínrajzra kell utalni, megjelölve, hogy az azon feltüntetett több létesítményrész közül melyik létesítményrész kerül megépítésre. Ha azonban a későbbi szakaszban a helyszínrajztól eltérően kívánják a létesítményt elhelyezni, a kérelemhez módosított helyszínrajzot kell csatolni.
 
 (4) A műszaki tervdokumentációt a hajózási hatóság felhívására elektronikus kapcsolattartás esetén is papír alapon kell benyújtani. A számítógépes adatrögzítés módjáról a hajózási hatóság honlapján közleményt tesz közzé, a közleményt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben is közzé kell tenni.
+
+(5)[^4] Balatoni csónakkikötő létesítési engedélyezési kérelméhez mellékelni kell az adott létesítményre vonatkozó természet- és tájvédelmi tervdokumentációt. A tervdokumentációt a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján a természetvédelem szakterület megfelelő részterületén, valamint a tájvédelem szakterületén szakértői jogosultsággal rendelkező szakértő készíti el. A tervdokumentáció tartalmi követelményeit a 4. melléklet tartalmazza.
+
+[^3]: A 13. § (1) bekezdés d) pontját a 287/2025. (VIII. 27.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^4]: A 13. § (5) bekezdését a 287/2025. (VIII. 27.) Korm. rendelet 28. § (2) bekezdése iktatta be.

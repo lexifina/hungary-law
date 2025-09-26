@@ -12,4 +12,6 @@ d) a létesítmény rendeltetésszerű használhatóságához szükséges járul
 
 e) a tervezőként megjelölt szerv, illetőleg személy rendelkezik-e a tervezés tárgya szerinti tervezői jogosultsággal.
 
-(2) A hajózási hatóság az engedély kiadását megtagadja, ha a tervezett hajózási létesítmény a 13. és 14. §-ban foglalt követelményeknek nem felel meg, vagy a helyi településrendezési tervvel és szabályokkal ellenkezik.
+(2)[^5] A hajózási hatóság az engedély kiadását megtagadja, ha a tervezett hajózási létesítmény a 13. és 14. §-ban foglalt követelményeknek nem felel meg, vagy a helyi településrendezési tervvel és szabályokkal, valamint balatoni kikötő engedélyezési eljárása esetén a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben, egyúttal a Vízparti Tervben rögzített követelményekkel ellenkezik.
+
+[^5]: A 15. § (2) bekezdése a 287/2025. (VIII. 27.) Korm. rendelet 30. §-a szerint módosított szöveg.
