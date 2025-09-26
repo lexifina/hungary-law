@@ -4,7 +4,7 @@
 
 ## 6. Az engedélyező hatóság jogai és kötelezettségei
 
-7. § (1)[^7] A polgári robbantási tevékenység és a robbanóanyag-forgalmazás folytatásával kapcsolatos adatok nyilvántartása érdekében az engedélyező hatóság
+7. § (1)[^8] A polgári robbantási tevékenység és a robbanóanyag-forgalmazás folytatásával kapcsolatos adatok nyilvántartása érdekében az engedélyező hatóság
 
 a) az engedélyt a tevékenység megkezdése előtt öt nappal,
 
@@ -14,4 +14,4 @@ elektronikus dokumentum formájában megküldi az általános rendőrségi felad
 
 (2) Az életet, testi épséget, egészséget, a környezet élővilágát, a vagyonbiztonságot veszélyeztető polgári robbantási tevékenység, vagy robbanóanyag-forgalmazás megkezdését, folytatását a bányafelügyelet megtilthatja, továbbá korlátozhatja vagy megtilthatja a polgári robbantási tevékenység végzését, a robbanóanyag-forgalmazás megkezdését, folytatását.
 
-[^7]: A 7. § (1) bekezdés záró szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 46. § c) pontja szerint módosított szöveg.
+[^8]: A 7. § (1) bekezdés záró szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 46. § c) pontja szerint módosított szöveg.

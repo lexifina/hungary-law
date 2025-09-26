@@ -218,9 +218,9 @@ b) a felelős személy természetes személyazonosító adatait és lakcímét,
 
 c) a kérelmező nyilatkozatát az engedély alapját képező bányafelügyeleti engedélyről és számáról,
 
-d)[^8] a robbantás célját, helyének megjelölését, a felhasználásra tervezett robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és szénporrobbanás-veszélyességi besorolást,
+d)[^9] a robbantás célját, helyének megjelölését, a felhasználásra tervezett robbanóanyag megnevezését és mennyiségét, földalatti bánya esetében a gázkitörés-, a sújtólég- és szénporrobbanás-veszélyességi besorolást,
 
-e)[^9] a robbantás tervezőjének nevét, lakcímét és engedélyének számát, valamint
+e)[^10] a robbantás tervezőjének nevét, lakcímét és engedélyének számát, valamint
 
 f) a robbantás tervezőjének nyilatkozatát arról, hogy a tervezett robbantás Általános Robbantási Biztonsági Szabályzat szerinti repeszhatása, a rezgésre érzékeny létesítményeken várható rezgések szeizmikus hatása nem veszélyezteti az életet, a testi épséget, az egészséget, illetve a vagyonbiztonságot,
 
@@ -230,14 +230,14 @@ h) a robbantás során szükséges biztonsági intézkedéseket, a védendő lé
 
 i) a robbantás műszaki leírását, valamint
 
-j)[^10] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
+j)[^11] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
 
-4.2.[^11] A kérelem benyújtásakor igazolni kell épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét, ha az épület bontása az építésügyi hatóság engedélye alapján történhet.
+4.2.[^12] A kérelem benyújtásakor igazolni kell épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét, ha az épület bontása az építésügyi hatóság engedélye alapján történhet.
 
-4.3.[^12]
+4.3.[^13]
 
-[^8]: A 2. melléklet 4. pont 4.1. alpont d) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § b) pontja szerint módosított szöveg.
-[^9]: A 2. melléklet 4.1. pont e) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § c) pontja szerint módosított szöveg.
-[^10]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg. [A 2. melléklet 4. pont 4.1. alpont j) pontjában a 19/2024. (XII. 30.) SZTFH rendelet 26. § b) pontja által elrendelt módosítás, amely szerint a „bányában,” szövegrész helyébe a „bányában a kőolaj- és földgázbányászatban, a víz kitermelése céljából fúrólyukban” szöveg lép, nem vezethető át.]
-[^11]: A 2. melléklet 4. pont 4.2. alpontja a 4/2024. (V. 31.) SZTFH rendelet 14. §-ával megállapított szöveg.
-[^12]: A 2. melléklet 4. pont 4.3. alpontját a 19/2024. (XII. 30.) SZTFH rendelet 27. § d) pontja hatályon kívül helyezte.
+[^9]: A 2. melléklet 4. pont 4.1. alpont d) pontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § b) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet 4.1. pont e) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 27. § c) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg. [A 2. melléklet 4. pont 4.1. alpont j) pontjában a 19/2024. (XII. 30.) SZTFH rendelet 26. § b) pontja által elrendelt módosítás, amely szerint a „bányában,” szövegrész helyébe a „bányában a kőolaj- és földgázbányászatban, a víz kitermelése céljából fúrólyukban” szöveg lép, nem vezethető át.]
+[^12]: A 2. melléklet 4. pont 4.2. alpontja a 4/2024. (V. 31.) SZTFH rendelet 14. §-ával megállapított szöveg.
+[^13]: A 2. melléklet 4. pont 4.3. alpontját a 19/2024. (XII. 30.) SZTFH rendelet 27. § d) pontja hatályon kívül helyezte.

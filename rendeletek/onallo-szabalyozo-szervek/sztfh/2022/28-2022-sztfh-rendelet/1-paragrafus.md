@@ -8,10 +8,12 @@
 
 (2) E rendelet hatálya nem terjed ki
 
-a) a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek, továbbá a Magyarország területén állomásozó fegyveres szervek használatában álló robbanóanyagokra,
+a)[^1] a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, továbbá a Magyarország területén állomásozó fegyveres szervek használatában álló robbanóanyagokra,
 
 b) a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti pirotechnikai termékekre,
 
 c) a polgári felhasználású lőszerekre, valamint
 
 d) az 1. mellékletben felsorolt, a veszélyes áruk szállítására vonatkozó, az ENSZ „Ajánlások a veszélyes áruk szállítására” című kiadványa alapján azonosított pirotechnikai termékekre és lőszerekre.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 9/2025. (IX. 25.) SZTFH rendelet 2. §-a szerint módosított szöveg.
