@@ -100,9 +100,9 @@ Mezőgazdasági eszközök és termelőlétesítmények (ideértve az öntözőr
 
 A népesség földrajzi eloszlása – ideértve a népességi jellemzőket és a tevékenységi szinteket is – statisztikai elemzési egységek (hálótérképek, régiók, közigazgatási egységek) alapján összesítve.
 
-11.[^2] Területgazdálkodási, -korlátozási, -szabályozási övezetek és adatszolgáltató egységek
+11. Területgazdálkodási, -korlátozási, -szabályozási övezetek és adatszolgáltató egységek
 
-A) A területrendezési tervek szerinti térségi övezetek határai: az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben lehatárolt országos övezetek, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvényben lehatárolt kiemelt térségi övezetek, a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben lehatárolt kiemelt térségi övezetek, valamint a vármegyei területrendezési tervekben lehatárolt térségi övezetek.
+A)[^2] A területrendezési tervek szerinti térségi övezetek határai: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvényben, továbbá a területrendezési tervek készítésének és alkalmazásának kiegészítő szabályozásáról szóló 9/2019. (VI. 14.) MvM rendeletben lehatárolt országos és kiemelt térségi övezetek, valamint a megyei területrendezési tervekben lehatárolt térségi övezetek.
 
 B) A nemzetközi, illetve európai szinten irányított, szabályozott vagy adatszolgáltatási egységként kijelölt területek.
 
@@ -140,4 +140,4 @@ Energiaforrások, ideértve különösen a szénhidrogéneket, vízenergiát, bi
 
 Ásványi nyersanyagok, ideértve különösen a fémek érceit, az ipari ásványokat, valamint adott esetben ideértve a nyersanyag kiterjedésére vonatkozó mélységi, illetve magassági információkat.
 
-[^2]: A 2. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 105. §-a szerint módosított szöveg.
+[^2]: A 2. számú melléklet 11. pont A) alpontja a 287/2025. (VIII. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
