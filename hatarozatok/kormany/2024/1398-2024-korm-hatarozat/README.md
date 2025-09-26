@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1398-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-12-16 | 2024-1398-30-22.1 | 1398/2024. (XII. 16.) Korm. határozat |
+| 2025-09-26 | 2024-1398-30-22.2 | 1345/2025. (IX. 25.) Korm. határozat |
