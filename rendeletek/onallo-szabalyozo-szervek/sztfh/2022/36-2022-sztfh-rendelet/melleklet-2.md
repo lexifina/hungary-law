@@ -1,4 +1,4 @@
-2. melléklet a 36/2022. (IX. 30.) SZTFH rendelethez[^6]
+2. melléklet a 36/2022. (IX. 30.) SZTFH rendelethez[^8]
 
 A dohányboltban nyújtható szolgáltatások a következők:
 
@@ -14,4 +14,4 @@ A dohányboltban nyújtható szolgáltatások a következők:
 
 | 5. | a dohányboltban forgalmazható termékekből keletkező hulladékoknak a hulladékról szóló 2012. évi CLXXXV. törvény szerinti gyűjtése |
 
-[^6]: A 2. mellékletet a 13/2023. (VI. 30.) SZTFH rendelet 10. §-a iktatta be.
+[^8]: A 2. mellékletet a 13/2023. (VI. 30.) SZTFH rendelet 10. §-a iktatta be.

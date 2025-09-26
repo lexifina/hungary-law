@@ -216,6 +216,12 @@ A dohányboltban forgalmazható termékek a következők:
 
 | 104.[^5] | a népegészségügyi termékadóról szóló törvényben meghatározott ropogtatnivaló (snack) | 1904, 1905, 2005 20 20, 2005 99, 2008 |
 
+| 105.[^6] | koffeint, illetve taurint tartalmazó étrend-kiegészítő párna (koffeintasak, energiatasak) |  |
+
+| 106.[^7] | koffeint, illetve taurint tartalmazó étrend-kiegészítő párna | 2106 |
+
 [^3]: Az 1. melléklet a 13/2023. (VI. 30.) SZTFH rendelet 9. §-ával megállapított szöveg.
 [^4]: Az 1. melléklet 2. pontjában foglalt táblázat 103. sorát a 6/2024. (VI. 18.) SZTFH rendelet 7. §-a iktatta be.
 [^5]: Az 1. melléklet 2. pontjában foglalt táblázat 104. sorát a 6/2024. (VI. 18.) SZTFH rendelet 7. §-a iktatta be.
+[^6]: Az 1. melléklet 2. pontjában foglalt táblázat 105. sorát a 9/2025. (IX. 25.) SZTFH rendelet 3. §-a iktatta be.
+[^7]: Az 1. melléklet 2. pontjában foglalt táblázat 106. sorát a 9/2025. (IX. 25.) SZTFH rendelet 3. §-a iktatta be.
