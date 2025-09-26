@@ -4,9 +4,9 @@ A Kormány
 
 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az AAVSZ díjazása (GINOP) előirányzat terhére az 1. pontban meghatározott célra vállalható kötelezettségek mértékét a 2024–2034. évekre a következők szerint állapítja meg:
 
-a) 2024. évre vonatkozó kötelezettségvállalás felső korlátja: 13,83 milliárd forint,
+a)[^1]
 
-b) 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 11,23 milliárd forint,
+b)[^2] 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 22,19 milliárd forint,
 
 c) 2026. évre vonatkozó kötelezettségvállalás felső korlátja: 8,94 milliárd forint,
 
@@ -26,7 +26,7 @@ j) 2033. évre vonatkozó kötelezettségvállalás felső korlátja: 2,63 milli
 
 k) 2034. évre vonatkozó kötelezettségvállalás felső korlátja: 2,47 milliárd forint;
 
-3. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közigazgatási és területfejlesztési miniszter mint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatatok ellátására kijelölt miniszter, az 1. pontban meghatározott célra és 67,84 milliárd forint erejéig, a 2. pontban meghatározott éven túli kötelezettségvállalási korlátok figyelembevételével az MFB Zrt.-vel finanszírozási szerződést kössön;
+3.[^3] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közigazgatási és területfejlesztési miniszter mint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatatok ellátására kijelölt miniszter, az 1. pontban meghatározott célra és 64,97 milliárd forint erejéig, a 2. pontban meghatározott éven túli kötelezettségvállalási korlátok figyelembevételével az MFB Zrt.-vel finanszírozási szerződést kössön;
 
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
@@ -36,9 +36,9 @@ k) 2034. évre vonatkozó kötelezettségvállalás felső korlátja: 2,47 milli
 
 5. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az AAVSZ díjazása (VEKOP) előirányzat terhére a 4. pontban meghatározott célra vállalható kötelezettségek mértékét a 2024–2034. évekre a következők szerint állapítja meg:
 
-a) 2024. évre vonatkozó kötelezettségvállalás felső korlátja: 0,56 milliárd forint,
+a)[^4]
 
-b) 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 0,26 milliárd forint,
+b)[^5] 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 0,51 milliárd forint,
 
 c) 2026. évre vonatkozó kötelezettségvállalás felső korlátja: 0,25 milliárd forint,
 
@@ -58,7 +58,7 @@ j) 2033. évre vonatkozó kötelezettségvállalás felső korlátja: 0,16 milli
 
 k) 2034. évre vonatkozó kötelezettségvállalás felső korlátja: 0,15 milliárd forint;
 
-6. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közigazgatási és területfejlesztési miniszter mint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatatok ellátására kijelölt miniszter, a 4. pontban meghatározott célra és 2,57 milliárd forint erejéig, az 5. pontban meghatározott éven túli kötelezettségvállalási korlátok figyelembevételével az MFB Zrt.-vel finanszírozási szerződést kössön;
+6.[^6] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közigazgatási és területfejlesztési miniszter mint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatatok ellátására kijelölt miniszter, a 4. pontban meghatározott célra és 2,27 milliárd forint erejéig, az 5. pontban meghatározott éven túli kötelezettségvállalási korlátok figyelembevételével az MFB Zrt.-vel finanszírozási szerződést kössön;
 
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
@@ -68,9 +68,9 @@ k) 2034. évre vonatkozó kötelezettségvállalás felső korlátja: 0,15 milli
 
 8. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az AAVSZ díjazása (EFOP) előirányzat terhére a 7. pontban meghatározott célra vállalható kötelezettségek mértékét a 2024–2032. évekre a következők szerint állapítja meg:
 
-a) 2024. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0219 milliárd forint,
+a)[^7]
 
-b) 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0198 milliárd forint,
+b)[^8] 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0354 milliárd forint,
 
 c) 2026. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0187 milliárd forint,
 
@@ -86,7 +86,7 @@ h) 2031. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0100 mil
 
 i) 2032. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0100 milliárd forint;
 
-9. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közigazgatási és területfejlesztési miniszter mint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatatok ellátására kijelölt miniszter, a 7. pontban meghatározott célra és 0,1439 milliárd forint erejéig, a 8. pontban meghatározott éven túli kötelezettségvállalási korlátok figyelembevételével az MFB Zrt.-vel finanszírozási szerződést kössön;
+9.[^9] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közigazgatási és területfejlesztési miniszter mint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatatok ellátására kijelölt miniszter, a 7. pontban meghatározott célra és 0,1377 milliárd forint erejéig, a 8. pontban meghatározott éven túli kötelezettségvállalási korlátok figyelembevételével az MFB Zrt.-vel finanszírozási szerződést kössön;
 
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
@@ -97,3 +97,13 @@ i) 2032. évre vonatkozó kötelezettségvállalás felső korlátja: 0,0100 mil
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
 | Határidő: | a felmerülés ütemében |
+
+[^1]: A 2. pont a) alpontját az 1344/2025. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^2]: A 2. pont b) alpontja az 1344/2025. (IX. 25.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1344/2025. (IX. 25.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont a) alpontját az 1344/2025. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^5]: Az 5. pont b) alpontja az 1344/2025. (IX. 25.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^6]: A 6. pont az 1344/2025. (IX. 25.) Korm. határozat 1. pont d) alpontja szerint módosított szöveg.
+[^7]: A 8. pont a) alpontját az 1344/2025. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^8]: A 8. pont b) alpontja az 1344/2025. (IX. 25.) Korm. határozat 1. pont e) alpontja szerint módosított szöveg.
+[^9]: A 9. pont az 1344/2025. (IX. 25.) Korm. határozat 1. pont f) alpontja szerint módosított szöveg.
