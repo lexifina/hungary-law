@@ -18,7 +18,7 @@
 
 | 9. | Minden eljárásnál. | Környezet-egészségügyi követelmények érvényesítése. |
 
-3. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^40]
+3. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^41]
 
 Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
@@ -28,4 +28,4 @@ Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kor
 
 | 2 | Országos jelentőségű elem beillesztésére, pontosításra, eltérésre, beillesztésre irányuló területrendezési hatósági eljárás. | A vízgazdálkodás jogszabályi követelményeinek érvényesülése. | Az országos, a kiemelt térségi vagy a vármegyei tervben nem szereplő, de más rendelkezéseinek megfelelő Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók beillesztési eljárásánál. Országos jelentőségű vízkárelhárítási célú tározó pontosítási eljárásánál. A 10 millió m3-t meghaladó térfogatú vízkárelhárítási célú tározási fejlesztési lehetőség pontosítási eljárásánál. Országos jelentőségű csatorna pontosítási és eltérési eljárásánál. Az 1 millió m3-t meghaladó, de 10 millió m3-nél kisebb térfogatú vízkárelhárítási célú tározási fejlesztési lehetőség pontosítási és beillesztési eljárásánál. Térségi csatorna pontosítási, eltérési és beillesztési eljárásánál. |
 
-[^40]: A 3. számú mellékletet hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 244. § e) pontja, újonnan a 258/2024. (VIII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^41]: A 3. számú mellékletet hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 244. § e) pontja, újonnan a 258/2024. (VIII. 29.) Korm. rendelet 6. §-a iktatta be.

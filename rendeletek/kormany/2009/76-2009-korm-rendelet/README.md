@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-76-20-2
 | 2023-01-01 | 2009-76-20-22.24 | 25/2014. (II. 7.) Korm. rendelet |
 | 2023-03-01 | 2009-76-20-22.25 | 70/2015. (III. 30.) Korm. rendelet |
 | 2024-10-01 | 2009-76-20-22.26 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2025-09-26 | 2009-76-20-22.27 | 287/2025. (VIII. 27.) Korm. rendelet |
