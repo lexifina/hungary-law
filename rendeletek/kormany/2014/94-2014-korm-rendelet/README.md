@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-94-20-2
 | 2023-01-01 | 2014-94-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-09-01 | 2014-94-20-22.6 | 345/2019. (XII. 23.) Korm. rendelet |
 | 2024-07-01 | 2014-94-20-22.7 | 591/2023. (XII. 20.) Korm. rendelet |
+| 2025-09-26 | 2014-94-20-22.8 | 287/2025. (VIII. 27.) Korm. rendelet |
