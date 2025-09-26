@@ -14,6 +14,8 @@
 
 | 3. | Ha a hajózási létesítmény nyilvántartott régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
+| 4. | Ha az eljárás érinti a Balaton vízparti területeit. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben és a Vízparti Tervben rögzített követelményeknek megfelel-e, mely szakvéleményt a területileg illetékes állami főépítészi hatáskörében eljáró vármegyei kormányhivatal adja ki. |
+
 3. A hajókiemelő berendezés elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, adatváltozás átvezetésére irányuló eljárásában, valamint a tervtől eltérés engedélyezése iránt eljárásában részt vevő szakhatóságok
 
 4. A hajókiemelő berendezés elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, adatváltozás átvezetésére irányuló eljárásában, valamint a tervtől eltérés engedélyezése iránt eljárásban a hajózási hatóság által vizsgált szakkérdések
@@ -35,6 +37,8 @@
 | 1. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a) a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, b) a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
 
 | 2. | Ha a hajózási létesítmény nyilvántartott régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
+
+| 3. | Ha az eljárás érinti a Balaton vízparti területeit. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben és a Vízparti Tervben rögzített követelményeknek megfelel-e, mely szakvéleményt a területileg illetékes állami főépítészi hatáskörében eljáró vármegyei kormányhivatal adja ki. |
 
 7. Úszóműves rakodóhelyre, hajóállomásra, úszóműállásra, hajóhídra, veszteglőhelyre, vízisportpályára és vízi repülőtérre vonatkozó létesítési, fennmaradási és használatba vételi engedélyezési eljárásaiban, valamint ezen eljárások vonatkozásában a tervtől eltérés engedélyezési eljárásban részt vevő szakhatóságok
 
@@ -60,4 +64,4 @@
 
 | 1. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^200]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 158. § (12) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 42. §-a szerint módosított szöveg.
+[^200]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 158. § (12) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 42. §-a, a 287/2025. (VIII. 27.) Korm. rendelet 27. §-a szerint módosított szöveg.
