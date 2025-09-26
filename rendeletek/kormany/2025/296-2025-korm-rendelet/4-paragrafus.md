@@ -1,0 +1,1 @@
+4. § A hegybíró a Hktv. 40. § (2) bekezdésében meghatározott feladatain túl gondoskodik azon szőlőtőkék megsemmisítéséről, amelyek megsemmisítését az élelmiszerlánc-felügyeleti szerv az Éltv. 48. § (1) bekezdés a) pontja szerint rendelte el.

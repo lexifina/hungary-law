@@ -1,0 +1,1 @@
+2. § A járványügyi intézkedés eredményes végrehajtása érdekében az Éltv. 51. § (3) bekezdés q) pontja szerinti intézkedés növénybetegség megelőzése, megállapítása, továbbterjedésének megakadályozása, kártételének csökkentése, felszámolása érdekében is elrendelhető.
