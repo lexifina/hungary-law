@@ -40,72 +40,14 @@
 
 | 20 | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy a kulturális örökség védelme jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | A vízjogi üzemeltetési engedélyezés, valamint a fúrt kút engedélyezéseinek kivételével, ha az eljárás a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy műemléket érintő tevékenység engedélyezésére irányul. |
 
-5. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^299]
+| 21.[^299] | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | A víziközlekedés biztonsága, hajózási érdekek érvényre juttatása jogszabályban meghatározott követelményeinek való megfelelés kérdésében. | Hajózási létesítmény engedélyezésére irányuló eljárás esetében. |
+
+| 22.[^300] | Vízjogi létesítési, üzemeltetési, fennmaradási és megszüntetési engedélyezési eljárások, továbbá ezek módosítására irányuló eljárás, ha az engedély műszaki tartalmában változás következett be. | Annak elbírálása, hogy teljesülnek-e a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben és a Vízparti Tervben rögzített követelmények. | Ha az eljárás a Balaton tómeder övezetét érinti. |
+
+5. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^301]
 
 Adatlap a háztartási kút bejelentéséhez
 
-| ALAPADATOK: |
-
-| Tulajdonos neve, címe: |  |  |
-
-| Üzemeltető neve, címe: |  |  |
-
-| A bejelentés célja (létesítés, üzemeltetés, megszüntetés): |  |  |
-
-| A HÁZTARTÁSI KÚT HELYE ÉS MŰSZAKI PARAMÉTEREI: |
-
-| Kútfúró neve, a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló miniszteri rendeletben meghatározott végzettség, igazolás vagy megfelelőségi nyilatkozat megnevezése: |
-
-| Telepítés helye: (vármegye, település, helyrajzi szám, EOV koordináták) |  |
-
-| Talpmélység: |  | m |  |
-
-| Nyugalmi vízszint: |  | m |
-
-| Csövezés |
-
-| mélysége |  | m–m között |
-
-| átmérője |  | mm/mm |
-
-| anyaga |  | PVC, acélcső |
-
-| Szűrőzés |
-
-| mélysége |  | m–m között |
-
-| átmérője |  | mm/mm |
-
-| anyaga |  | PVC, acélcső/ szűrő típus |
-
-| Talplezárás: |  | m mélységben |
-
-| Kútakna |
-
-| mérete |  |
-
-| anyaga |  |
-
-| Kútgépészet (szivattyú típusa, kapacitása, üzemi jellemzői) |  |
-
-| Szerelvények (vízmérőóra, vízmintavételi csap) |  |
-
-| VÍZKÉSZLETADATOK: |
-
-| Kitermelt víz mennyisége: | m3/év |
-
-| Üzemi jellemzők: (a megfelelő aláhúzandó) | folyamatos / szakaszos / idényjelleg esetén (hónap/nap – hónap/nap) |
-
-| Rendelkezik-e hitelesített vízórával: (a megfelelő aláhúzandó) | igen / nem |
-
-| Vízhasznosítás jellege: (a megfelelő aláhúzandó) | ivóvíz / locsolás / egyéb |
-
-| Vízkészlet jellege: (a megfelelő aláhúzandó) | talajvíz / rétegvíz / partiszűrésű víz / karszt- és hasadékvíz |
-
-| Az adatlapon azonosított és alulírott bejelentő illetve kútfúró, a jelen adatlap aláírásával büntetőjogi felelősségünk teljes tudatában kijelentjük, hogy a jelen adatlapon általunk, fent feltüntetett valamennyi adat a valóságnak teljes mértékben megfelel. |
-
-| Kelt: |
-
-| Bejelentő aláírása | Kútfúró aláírása |
-
-[^299]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^299]: A 4. mellékletben foglalt táblázat 21. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^300]: A 4. mellékletben foglalt táblázat 22. sorát a 287/2025. (VIII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^301]: Az 5. mellékletet a 224/2025. (VII. 24.) Korm. rendelet 7. § (3) bekezdése iktatta be.

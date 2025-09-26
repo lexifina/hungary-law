@@ -20,7 +20,7 @@
 
 (4)[^42] A kérelem elbírálása során vizsgálni kell azt, hogy a tervezett vízimunka, a vízilétesítmény – tekintettel az annak gyakorlásával, illetve elhelyezésével érintett és vízgazdálkodási szempontból összefüggő térségre – mennyiben felel meg a vízjogi engedély megadására vonatkozó feltételeknek.
 
-(4a)[^43]
+(4a)[^43] Balatoni mederhasználati vízilétesítmény létesítésére, fennmaradására irányuló engedély kérelméhez mellékelni kell az adott létesítményre vonatkozó természet- és tájvédelmi tervdokumentációt. A tervdokumentációt a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján a természetvédelmi szakterület megfelelő részterületén, valamint a tájvédelem szakterületén szakértői jogosultsággal rendelkező szakértő készíti el. A tervdokumentáció tartalmi követelményeit a 6. melléklet tartalmazza.
 
 (5)[^44] Vízkészlet hasznosítására vízjogi létesítési engedély akkor adható, ha
 
@@ -66,7 +66,7 @@ c) az a) és b) pontban meghatározott létesítményeken túl minden olyan egy�
 [^40]: A 3. § (3a) bekezdését az 527/2013. (XII. 30.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 171/2015. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^41]: A 3. § (3b) bekezdését a 100/2016. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^42]: A 3. § eredeti (3) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (4) bekezdésre változtatta. A 3. § (4) bekezdése a 42/2014. (II. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^43]: A 3. § (4a) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 28. § a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^43]: A 3. § (4a) bekezdését újonnan a 287/2025. (VIII. 27.) Korm. rendelet 22. § (1) bekezdése iktatta be.
 [^44]: A 3. § (5) bekezdése a 61/2023. (II. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^45]: A 3. § eredeti (5) bekezdésének számozását a 10/2000. (II. 2.) Korm. rendelet 2. §-ának (1) bekezdése (6) bekezdésre változtatta. A 3. § (6) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
 [^46]: A 3. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 10/2000. (II. 2.) Korm. rendelet 2. § (1) bekezdése. A 3. § (7) bekezdése a 340/2024. (XI. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
