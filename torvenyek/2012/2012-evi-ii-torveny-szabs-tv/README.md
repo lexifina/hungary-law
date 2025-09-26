@@ -89,3 +89,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2025-06-07 | 2025. évi XXXV. törvény | 2012-2-00-00.83 |
 | 2025-06-15 | 2025. évi XIX. törvény | 2012-2-00-00.82 |
 | 2025-08-20 | 2025. évi LXVI. törvény | 2012-2-00-00.84 |
+| 2025-09-26 | 9/2025. (IX. 25.) AB határozat | 2012-2-00-00.85 |
