@@ -1,5 +1,0 @@
-19/A. §[^56] (1) A vízpart-rehabilitációs tanulmánytervek önkormányzat kérelmére történő módosítása esetén a területrendezésért felelős miniszter felhívja az érintett minisztereket, az érintett települési önkormányzatokat, az érintett civil szervezeteket, valamint az 1. mellékletben meghatározott területileg illetékes szerveket az egyeztetési anyag véleményezésére, amelynek elérhetőségét a TeIR-en keresztül biztosítja. A területrendezésért felelős miniszter az érdekelt civil szervezetek, érdekképviseleti szervek és gazdálkodó szervezetek számára a véleményezési határidőt a TeIR-en keresztül teszi közzé. A területrendezésért felelős miniszter a véleményezésre legalább 15 napot biztosít.
-
-(2) A területrendezésért felelős miniszter a módosított vízpart-rehabilitációs tanulmánytervet annak kihirdetését követő 15 napon belül elérhetővé teszi a TeIR-en.
-
-[^56]: A 19/A. §-t a 342/2014. (XII. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 463/2017. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
