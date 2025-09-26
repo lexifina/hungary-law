@@ -1,1 +1,1 @@
-3/K. § Az 5. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+### 3/K. §
