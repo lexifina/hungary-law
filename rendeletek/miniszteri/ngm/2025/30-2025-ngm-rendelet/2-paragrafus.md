@@ -1,0 +1,1 @@
+2. § Hatályát veszti a fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési tevékenységért, valamint az egyenértékűség megállapítási eljárásért fizetendő igazgatási szolgáltatási díjakról szóló 57/2006. (VIII. 3.) GKM rendelet Mellékletében foglalt táblázat 1.10., 1.10.1., 1.10.2., 2.9., 2.9.1. és 2.9.2. sora.
