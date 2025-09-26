@@ -1,0 +1,1 @@
+30. § Az 510/2017. (XII. 29.) Korm. rendelet 15. § (2) bekezdésében a „szabályokkal” szövegrész helyébe a „szabályokkal, valamint balatoni kikötő engedélyezési eljárása esetén a Balaton vízparti területeinek területfelhasználási követelményeiről szóló kormányrendeletben, egyúttal a Vízparti Tervben rögzített követelményekkel” szöveg lép.

@@ -1,0 +1,1 @@
+23. § A Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló 241/2009. (X. 29.) Korm. rendelet [a továbbiakban: 241/2009. (X. 29.) Korm. rendelet] 2. számú melléklete a 9. melléklet szerint módosul.

@@ -1,0 +1,1 @@
+25. § A 147/2010. (IV. 29.) Korm. rendelet 42. § (1) bekezdésében a „Balaton esetében a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló törvény” szövegrész helyébe a „Balaton esetében a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény” szöveg lép.

@@ -1,0 +1,1 @@
+16. § A Trtv. 4. § 3a. pontja szerinti balatoni közstrandokat az 5. mellékletben foglalt táblázat rögzíti, amely a balatoni közstrandok helyrajzi számát és azok ingatlan-nyilvántartásban feltüntetni szükséges művelési ágát vagy művelés alól kivett megnevezését is tartalmazza.
