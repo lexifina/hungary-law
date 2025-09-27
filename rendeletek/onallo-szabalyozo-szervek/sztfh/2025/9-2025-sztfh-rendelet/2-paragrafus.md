@@ -1,3 +1,5 @@
 ## 2. A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 28/2022. (I. 31.) SZTFH rendelet módosítása
 
-2. § A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 28/2022. (I. 31.) SZTFH rendelet 1. § (2) bekezdés a) pontjában a „továbbá” szövegrész helyébe az „a nemzetbiztonsági szolgálatok, továbbá” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

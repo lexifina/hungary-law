@@ -12,10 +12,6 @@
 
 ## 1. Az Általános Robbantási Biztonsági Szabályzatról szóló 27/2022. (I. 31.) SZTFH rendelet módosítása
 
-1. § Az Általános Robbantási Biztonsági Szabályzatról szóló 27/2022. (I. 31.) SZTFH rendelet
+1. §[^2]
 
-a) 1. § (2) bekezdés a) pontjában a „továbbá” szövegrész helyébe az „a nemzetbiztonsági szolgálat, továbbá” szöveg,
-
-b) 118. § (1) bekezdésében a „rendvédelmi szervek zárt” szövegrész helyébe az „a rendvédelmi szervek, a nemzetbiztonsági szolgálatok zárt” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
