@@ -1,0 +1,3 @@
+## 4. A létrejövő építmény üzemeltetésének feltételei
+
+9. § Az üzemeltető az Ábtv. 7. § (2) bekezdése szerinti előkészítési szakasz első ütemétől kezdődően látja el feladatait, ideértve különösen a kiviteli terv véleményezését, az üzemeltetői nyilatkozatok kiadását, a megvalósítással és a létesítmény üzemeltetésével szemben támasztott követelmények, elvárások és feltételek tervezési fázisban történő meghatározását, valamint a műszaki átadás-átvételtől vagy használatba vételtől kezdve a jókarbantartási kötelezettség és a szerviz- vagy üzemeltetési kézikönyvben meghatározott üzemeltetési feladatok ellátását.

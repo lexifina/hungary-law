@@ -1,0 +1,1 @@
+14. § Az üzemeltető feladata betartani és betartatni a létesítmény üzemeltetési feltételeit, beleértve a létesítményt használókat és hasznosítókat is, amelyhez a szükséges eszközöket, jogköröket a létesítmény tulajdonosi joggyakorlója biztosítja.

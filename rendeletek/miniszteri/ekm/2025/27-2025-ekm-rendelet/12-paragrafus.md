@@ -1,0 +1,1 @@
+12. § Az építtető legkésőbb a műszaki átadás-átvételi eljárás befejezésekor az üzemeltetési időszakra kijelölt – leendő tulajdonosi joggyakorló és az üzemeltető – részére átadja az együttműködési megállapodásban rögzített, üzemeltetéshez szükséges dokumentumokat.
