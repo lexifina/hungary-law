@@ -1,1 +1,3 @@
-27. § A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 382/2016. (XII. 2.) Korm. rendelet] 4. melléklete a 11. melléklet szerint módosul.
+27. §[^6]
+
+[^6]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

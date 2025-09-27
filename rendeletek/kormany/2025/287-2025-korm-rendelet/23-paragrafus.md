@@ -1,1 +1,3 @@
-23. § A Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló 241/2009. (X. 29.) Korm. rendelet [a továbbiakban: 241/2009. (X. 29.) Korm. rendelet] 2. számú melléklete a 9. melléklet szerint módosul.
+23. §[^2]
+
+[^2]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
