@@ -1,6 +1,6 @@
 ## XXVI/A. Fejezet
 
-## ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE VONATKOZÓ POZÍCIÓLIMITEK
+## ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE VONATKOZÓ POZÍCIÓLIMITEK, VALAMINT ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE ÉS KIBOCSÁTÁSI EGYSÉGEK SZÁRMAZTATOTT TERMÉKEIRE VONATKOZÓ POZÍCIÓKEZELÉSI KONTROLLMECHANIZMUSOK
 
 157/A. § (1) A Felügyelet az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban világos mennyiségi küszöbértékeket megtestesítő pozíciólimiteket állapít meg és alkalmaz a kereskedési helyszíneken kereskedett mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre, valamint a gazdaságilag egyenértékű, tőzsdén kívüli (OTC) ügyletekre vonatkozóan egy adott személy által bármely időpontban tartható nettó pozíció nagysága tekintetében. Az árualapú származtatott termékek akkor tekinthetők kritikusnak vagy jelentősnek, ha a záró pozícióval rendelkezők összes nettó pozíciójának összege megegyezik nyitott pozíciójuk nagyságával, és egy egyéves időszakra vetítve, átlagosan legalább 300 000 tételt tesz ki.
 

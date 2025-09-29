@@ -1,10 +1,10 @@
-144/A. § (1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et illetve OTF-et működtet, amelyen árualapú származtatott termékekkel kereskednek, pozíciókezelési kontrollmechanizmust alkalmaz.
+144/A. § (1) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységek származtatott termékeivel kereskednek, pozíciókezelési kontrollmechanizmust alkalmaz.
 
 (2) A pozíciókezelési kontrollmechanizmus legalább az alábbi hatásköröket foglalja magában:
 
 a) a tagok és ügyfelek nyitott pozícióinak nyomon követése;
 
-b) a tagoktól és ügyfelektől származó mindazon információ – így többek között minden dokumentum – beszerzése, amely a vállalt pozíció vagy kitettség nagyságára és rendeltetésére, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozik, beleértve adott esetben azokat a pozíciókat amelyeket az ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező árualapú származtatott termékekben, más kereskedési helyszíneken vagy gazdaságilag egyenértékű tőzsdén kívüli ügyletekben, tagokon és résztvevőkön keresztül tartanak;
+b) a tagoktól és ügyfelektől származó mindazon információ – így többek között minden dokumentum – beszerzése, amely a vállalt pozíció vagy kitettség nagyságára és rendeltetésére, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozik, beleértve adott esetben azokat a pozíciókat, amelyeket a kibocsátási egységek származtatott termékeiben tartanak, vagy az ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező árualapú származtatott termékekben, más kereskedési helyszíneken vagy gazdaságilag egyenértékű tőzsdén kívüli ügyletekben, tagokon és résztvevőkön keresztül tartanak;
 
 c) egy adott tag, illetve ügyfél kötelezése arra, hogy – ideiglenesen vagy tartósan – lezárja vagy csökkentse pozícióját, és a megfelelő intézkedés egyoldalú megtétele a lezárás vagy a csökkentés biztosítása érdekében, amennyiben az adott tag, illetve ügyfél nem tesz eleget a felszólításnak; valamint
 

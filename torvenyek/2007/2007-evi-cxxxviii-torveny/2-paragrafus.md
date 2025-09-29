@@ -4,7 +4,7 @@ a) arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott 
 
 aa) árjegyző,
 
-ab) szabályozott piac vagy multilaterális kereskedési rendszer tagja vagy közvetlen elektronikus hozzáférése van egy kereskedési helyszínhez, kivéve a kereskedési helyszínen olyan ügyleteket végrehajtó nem pénzügyi szervezetet, amely ügyletek objektíven mérhető módon csökkentik az adott nem pénzügyi szervezet vagy csoportjai kereskedelmi tevékenységhez vagy likviditásfinanszírozási tevékenységhez közvetlenül kapcsolódó kockázatait,
+ab) szabályozott piac vagy multilaterális kereskedési rendszer tagja, ide nem értve a kereskedési helyszínen olyan ügyleteket végrehajtó nem pénzügyi szervezetet, amely ügyletek objektíven mérhető módon csökkentik az adott nem pénzügyi szervezet vagy csoportjai kereskedelmi tevékenységhez vagy likviditásfinanszírozási tevékenységhez közvetlenül kapcsolódó kockázatait, vagy amely ügyletek a likviditáskezelés részei,
 
 ac) nagysebességű algoritmikus kereskedési technikát alkalmaz,
 

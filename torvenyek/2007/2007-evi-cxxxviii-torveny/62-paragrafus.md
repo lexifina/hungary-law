@@ -22,10 +22,10 @@ f) a megbízás jellegét vagy bármely más, a megbízás végrehajtása szempo
 
 (4) Az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapítására vonatkozó vizsgálat során, ha a megbízás több, a befektetési vállalkozás 63. § (1) bekezdése szerinti szabályzatában felsorolt – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikk (1) bekezdésében meghatározott – végrehajtási helyszínen is teljesíthető, a befektetési vállalkozás – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikk (3) bekezdésében foglaltakra figyelemmel – az összehasonlításban figyelembe veszi az egyes végrehajtási helyszínekhez kapcsolódó saját jutalékait és egyéb, a végrehajtással összefüggő költségeit.
 
-(5) A befektetési vállalkozás nem fogadhat el semmilyen díjazást, kedvezményt vagy nem pénzbeli előnyt annak ellentételezéséül, hogy az ügyfél megbízásait egy meghatározott végrehajtási helyszínre irányítja.
+(5)
 
 (6) Ha a befektetési vállalkozás a (2) bekezdésben foglalt szempont vonatkozásában az ügyféltől határozott utasítást kapott, a megbízást ezen utasításnak megfelelően hajtja végre.
 
 (7) Az ügyfél kérésére a befektetési vállalkozás a végrehajtási politikában foglalt rendelkezések alkalmazásának bemutatásával igazolja, hogy az ügyfél megbízását a végrehajtási politikában foglaltaknak megfelelően hajtotta végre, és a Felügyelet kérésére igazolja, hogy e §-ban és a 63. §-ban foglaltaknak megfelelően járt el.
 
-(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.
+(8) A 600/2014/EU európai parlamenti és tanácsi rendelet 23. és 28. cikkében előírt kereskedési kötelezettség tárgyát képező pénzügyi eszközök tekintetében a befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.

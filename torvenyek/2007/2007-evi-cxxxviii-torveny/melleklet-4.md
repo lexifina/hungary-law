@@ -47,5 +47,3 @@ a) a magasabb alapjavadalmazás-teljesítményjavadalmazás arány szükségess�
 b) a javasolt maximális arányt,
 
 c) az érintett vezető állású személyek és munkavállalók számára, beosztására vonatkozó adatokat, valamint
-
-d) a befektetési vállalkozás stabil tőkealapjának fenntartására vonatkozó követelményre gyakorolt hatást.

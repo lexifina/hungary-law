@@ -7,3 +7,5 @@
 (4) A Felügyelet a (3) bekezdésben említett információt haladéktalanul az Európai Értékpapír-piaci Hatóság és az Európai Unió más tagállamainak hatáskörrel rendelkező felügyeleti hatóságai rendelkezésére bocsátja. Az értesítés előtt a Felügyelet meggyőződik az 596/2014/EU rendelet által tiltott magatartásra utaló magatartás valódiságáról.
 
 (5) Az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető indokolatlan késedelem nélkül eljuttatja a vonatkozó információkat az MTF-en vagy OTF-en elkövetett piaci visszaélésekkel kapcsolatos vizsgálat és vádemelés tekintetében hatáskörrel rendelkező hatósághoz és támogatja az erre vonatkozó hatósági eljárásokat.
+
+(6) Az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető rendelkezik a 600/2014/EU európai parlamenti és tanácsi rendelet 22b. cikke szerinti adatminőségi előírásoknak megfelelő mechanizmusokkal.

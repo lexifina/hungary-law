@@ -206,7 +206,7 @@ c) az eladási és vételi ár különbségének (spread) átlagos nagyságrendj
 
 49. minisztérium: a miniszter által vezetett minisztérium,
 
-49a. multilaterális rendszer: valamely rendszer, amelyben több harmadik fél pénzügyi eszközökre irányuló vételi és eladási szándéka hozható össze a rendszeren belül,
+49a. multilaterális rendszer: a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 11. pontjában meghatározott fogalom,
 
 49b. nagykereskedelmi energiatermék: a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1227/2011/EU európai parlamenti és tanácsi rendelet) 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
 
@@ -242,7 +242,11 @@ c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében 
 
 55a. rendkívüli állami pénzügyi támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás, vagy bármilyen más, nemzeti szinten nyújtva állami támogatásnak minősülő szupranacionális szintű állami pénzügyi támogatás, amelyet egy, az 1. § szerinti jogalany életképességének, likviditásának vagy fizetőképességének megőrzése vagy helyreállítása céljából nyújtanak,
 
-56. rendszeres internalizáló: az a befektetési vállalkozás, amely ügyfél részére szervezett keretek között, sajátszámlás kereskedés keretében gyakran, rendszeresen és jelentős nagyságrendben biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre,
+56. rendszeres internalizáló: az a befektetési vállalkozás, amely
+
+a) tulajdonviszonyt megtestesítő eszközökre szervezett keretek között, sajátszámlás kereskedés keretében rendszeresen biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre, vagy
+
+b) rendszeres internalizáló státuszát választja,
 
 57.
 
