@@ -15,13 +15,3 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 5. Az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelv.
 
 6. Az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet.
-
-7. Az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet.
-
-8. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet.
-
-9. Az Európai Parlament és a Tanács 2004. április 21-i 2004/25/EK irányelve a nyilvános vételi ajánlatról.
-
-10. Az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról.
-
-11. a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet.

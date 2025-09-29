@@ -14,6 +14,8 @@ c) a tőzsde hatékony mechanizmusokkal segítse elő a rendszereiben végrehajt
 
 d) a tőzsde figyelemmel kísérje a tőzsdei kereskedők által a rendszereik keretében elküldött megbízásokat és törléseket, illetve az általuk végrehajtott ügyleteket annak érdekében, hogy azonosítsák a szabályok megsértését, a szabálytalan kereskedési feltételeket, az 596/2014/EU rendelet által tiltott magatartásra utaló magatartást vagy a rendszer zavarait valamely tőzsdei termékkel kapcsolatban.
 
+e) a tőzsde rendelkezzen a 600/2014/EU európai parlamenti és tanácsi rendelet 22b. cikke szerinti adatminőségi előírásoknak megfelelő mechanizmusokkal.
+
 (4) A tőzsde szabályzatában meg kell határozni:
 
 a) a tőzsdei kereskedési jog megszerzésének, felfüggesztésének és megszűnésének feltételeit és eljárási rendjét;
