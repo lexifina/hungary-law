@@ -1,0 +1,3 @@
+1. Az Országgyűlés elfogadja az Európai Ügyek Bizottságának az orosz földgáz behozatalának fokozatos megszüntetéséről, az esetleges energiafüggőségek hatékonyabb nyomon követéséről és az (EU) 2017/1938 rendelet módosításáról szóló európai parlamenti és tanácsi rendelettervezet vonatkozásában az indokolt vélemény elfogadása feltételeinek fennállásáról szóló jelentését, és annak alapján megállapítja, hogy a rendelettervezet sérti a szubszidiaritás elvét.
+
+2. Az Országgyűlés felkéri az Országgyűlés elnökét, hogy a jelentésben foglalt indokolt véleményt továbbítsa az Európai Parlament, az Európai Unió Tanácsa, illetve az Európai Bizottság elnökének, és egyidejűleg arról a Kormányt is tájékoztassa.
