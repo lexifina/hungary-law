@@ -11,5 +11,5 @@
 [^15]: A 10. § (1) bekezdése a 20/2025. (VII. 31.) EM rendelet 15. §-ával megállapított szöveg.
 [^16]: A 10. § (2) bekezdése a 20/2025. (VII. 31.) EM rendelet 15. §-ával megállapított szöveg.
 [^17]: A 10. § (3) bekezdése a 20/2025. (VII. 31.) EM rendelet 15. §-ával megállapított szöveg.
-[^18]: A 10. § (4) bekezdése az 5/2024. (IV. 3.) EM rendelet 4. § a) pontja, a 20/2025. (VII. 31.) EM rendelet 19. § 6. pontja szerint módosított szöveg.
+[^18]: A 10. § (4) bekezdése az 5/2024. (IV. 3.) EM rendelet 4. § a) pontja , a 20/2025. (VII. 31.) EM rendelet 19. § 6. pontja szerint módosított szöveg.
 [^19]: A 10. § (5) bekezdése az 5/2024. (IV. 3.) EM rendelet 1. §-ával megállapított szöveg.

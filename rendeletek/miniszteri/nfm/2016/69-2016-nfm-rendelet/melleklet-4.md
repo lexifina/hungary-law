@@ -1,3 +1,3 @@
-4. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^35]
+4. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^37]
 
-[^35]: A 3–5. mellékletet az 52/2017. (XII. 22.) NFM rendelet 39. § f) pontja hatályon kívül helyezte.
+[^37]: A 3–5. mellékletet az 52/2017. (XII. 22.) NFM rendelet 39. § f) pontja hatályon kívül helyezte.
