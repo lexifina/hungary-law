@@ -1,0 +1,9 @@
+2. § E rendelet alkalmazásában
+
+1. biztosító nagyegyesület: egyesületi formában működő, kisbiztosító-egyesületnek nem minősülő biztosító;
+
+2. kisbiztosító: a Bit. hatodik része hatálya alá tartozó biztosító;
+
+3. kisbiztosító-egyesület: kölcsönös biztosító egyesületi formában működő, a Bit. 230. § (1) bekezdése szerinti biztosító;
+
+4. törzsszám: az adószám első nyolc számjegye.

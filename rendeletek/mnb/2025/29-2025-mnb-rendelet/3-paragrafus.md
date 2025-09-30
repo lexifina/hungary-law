@@ -1,0 +1,9 @@
+3. § (1) A bejelentésre kötelezett az 1. és 2. melléklet szerinti törzsadatokat elektronikus űrlapon, a Magyar Nemzeti Bank (a továbbiakban: MNB) által meghatározott elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva, az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszer (a továbbiakban: ERA rendszer) „Törzsadatszolgáltatás” szolgáltatásán keresztül jelenti be az MNB részére.
+
+(2) Az (1) bekezdés alapján bejelentendő, az MNB által nyilvántartott törzsadatainak naprakészségét a bejelentésre kötelezett ellenőrzi, az ERA rendszer „Törzsadat bejelentés” szolgáltatásán keresztül. Amennyiben a bejelentésre kötelezett megállapítja, hogy
+
+a) az MNB által nyilvántartott törzsadatok módosítása szükséges, a módosítást az (1) bekezdésben foglaltak szerint kezdeményezi,
+
+b) az MNB által nyilvántartott törzsadatok naprakészek, a 3. melléklet szerinti tartalmú, az ERA rendszerben elérhető „Adategyezőségi nyilatkozatot” (a továbbiakban: Adategyezőségi nyilatkozat) küld elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva az MNB részére.
+
+(3) Az ERA rendszer használatára, valamint az (1) és (2) bekezdés szerinti bejelentési, módosítási, illetve nyilatkozattételi kötelezettség (a továbbiakban együtt: bejelentési kötelezettség) teljesítésében való akadályoztatás bejelentésére vonatkozó szabályokat a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 54/2024. (XII. 3.) MNB rendelet (a továbbiakban: alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr.) 2. melléklet I. B. 1. pontja, az ERA rendszer használatát segítő részletes útmutatást az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr. 3. melléklet 3. pontja szerinti, az MNB honlapján közzétett technikai segédletek tartalmazzák.

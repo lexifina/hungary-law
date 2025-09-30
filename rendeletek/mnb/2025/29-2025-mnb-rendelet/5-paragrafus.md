@@ -1,0 +1,1 @@
+5. § A biztosító, valamint a biztosításközvetítő a biztosításközvetítők felügyeleti nyilvántartásához a Bit. 412. § (8) és (9) bekezdése szerinti bejelentési kötelezettségét az ott meghatározott határidőben, az ERA rendszer „Biztosításközvetítő”, valamint „Kiegészítő biztosításközvetítő” szolgáltatásain keresztül teljesíti az MNB részére.
