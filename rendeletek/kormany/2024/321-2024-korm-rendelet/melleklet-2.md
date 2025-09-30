@@ -1,4 +1,4 @@
-2. melléklet a 321/2024. (XI. 6.) Korm. rendelethez[^40]
+2. melléklet a 321/2024. (XI. 6.) Korm. rendelethez[^42]
 
 A nemzeti digitális irattárca szolgáltatás keretében a 7. § (1) bekezdés a) pontja szerint a felhasználó számára megjeleníthető adatok
 
@@ -30,4 +30,4 @@ A nemzeti digitális irattárca szolgáltatás keretében a 7. § (1) bekezdés 
 
 5.5. járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére vonatkozó adatok
 
-[^40]: A 2. mellékletet a 164/2025. (VI. 23.) Korm. rendelet 17. §-a iktatta be.
+[^42]: A 2. mellékletet a 164/2025. (VI. 23.) Korm. rendelet 17. §-a iktatta be.

@@ -28,10 +28,10 @@ c) az együttműködésből eredő felelősségi szabályokat;
 
 d) a képzések, oktatások részletszabályait;
 
-e)[^35] Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági incidens bekövetkezése esetén értesítendő személyek megnevezését, beosztását, elérhetőségét; továbbá
+e)[^36] Magyarország kiberbiztonságáról szóló törvény szerinti kiberbiztonsági incidens bekövetkezése esetén értesítendő személyek megnevezését, beosztását, elérhetőségét; továbbá
 
 f) az e rendeletben és a szolgáltatási szabályzatban nem szabályozott, ügyfélszolgálati és informatikai együttműködéshez szükséges részletszabályokat.
 
 (4) Az együttműködési megállapodásban foglaltak a szolgáltatási szabályzatban meghatározottaktól kizárólag az országos telefonos ügyfélszolgálat működtetőjének szakmai mérlegelése eredményeképpen történő jóváhagyásával térhetnek el.
 
-[^35]: A 60. § (3) bekezdés e) pontja a 418/2024. (XII. 23.) Korm. rendelet 152. §-a szerint módosított szöveg.
+[^36]: A 60. § (3) bekezdés e) pontja a 418/2024. (XII. 23.) Korm. rendelet 152. §-a szerint módosított szöveg.
