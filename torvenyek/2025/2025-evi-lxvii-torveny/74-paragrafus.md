@@ -1,3 +1,1 @@
-74. § A Bszt. 63. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az ügyfélmegbízásokat végrehajtó befektetési vállalkozás figyelemmel kíséri a végrehajtási politika és a végrehajtásra vonatkozó szabályok megfelelőségének hatékonyságát annak érdekében, hogy az esetleges hiányosságokat azonosítsa és kezelje. Rendszeresen értékeli, hogy a végrehajtási politikában foglalt végrehajtási helyszínek a legjobb eredményt biztosítják-e az ügyfél számára, továbbá hogy meg kell-e változtatnia a megbízások végrehajtására vonatkozó szabályait, tekintetbe véve többek között a 62. § (8) bekezdése szerinti tájékoztatást is. A befektetési vállalkozás értesíti azon ügyfeleit a megbízások végrehajtására vonatkozó szabályai vagy végrehajtási politikája bármely lényeges változásáról, akikkel az adott időpontban ügyfélkapcsolatban áll.”
+### 74. §
