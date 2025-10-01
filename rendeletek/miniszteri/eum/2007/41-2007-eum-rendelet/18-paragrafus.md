@@ -1,4 +1,4 @@
-18. §[^81] (1)[^82] A közforgalmú gyógyszertárakban a személyi jogos gyógyszerész által hitelesített papíralapú, vagy az a)–h), valamint a j) és k) pontok esetén a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban elektronikusan vezetett
+18. §[^82] (1)[^83] A közforgalmú gyógyszertárakban a személyi jogos gyógyszerész által hitelesített papíralapú, vagy az a)–h), valamint a j) és k) pontok esetén a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban elektronikusan vezetett
 
 a) „Vizsgálati napló”,
 
@@ -110,7 +110,7 @@ b) a vizsgálat megnevezését, idejét, eredményét, valamint
 
 c) a vizsgáló gyógyszerész aláírását vagy elektronikus azonosítóját.
 
-(11)[^83] A forgalmazás megszüntetéséről, felfüggesztéséről szóló nyilvántartás az NNGYK honlapján közzétett döntések végrehajtásának dokumentumait foglalja magában, mely tartalmazza
+(11)[^84] A forgalmazás megszüntetéséről, felfüggesztéséről szóló nyilvántartás az NNGYK honlapján közzétett döntések végrehajtásának dokumentumait foglalja magában, mely tartalmazza
 
 a) a forgalomból való kivonás napját,
 
@@ -144,9 +144,9 @@ e) az ellenőrzést végző aláírását vagy elektronikus azonosítóját.
 
 (14) A nyilvántartási kötelezettség automata hőmérséklet adatgyűjtő-adatrögzítő alkalmazásával is teljesíthető, amennyiben a tárolt mérési adatok legalább 1 évre visszamenőleg visszakereshetők a készülékből.
 
-(15)[^84] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, amely tartalmazza a kiadott gyógyszernek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti adatait, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, valamint – papír alapon vezetett nyilvántartás esetén – a kiadó és az átvevő aláírását.
+(15)[^85] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, amely tartalmazza a kiadott gyógyszernek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti adatait, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, valamint – papír alapon vezetett nyilvántartás esetén – a kiadó és az átvevő aláírását.
 
-(15a)[^85] A nyilvántartás papír alapon vagy a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban elektronikus módon is vezethető. Az elektronikus módon vezetett nyilvántartás esetén a gyógyszer átvevője a pénztári bizonylat másodpéldányán aláírásával igazolja az átvétel tényét. A gyógyszertár a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban, elektronikus módon vezetett nyilvántartás esetén a pénztári bizonylatok másodpéldányát a kiadástól számított öt évig a gyógyszerkiadás időrendjében lefűzve, elkülönítetten megőrzi.
+(15a)[^86] A nyilvántartás papír alapon vagy a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban elektronikus módon is vezethető. Az elektronikus módon vezetett nyilvántartás esetén a gyógyszer átvevője a pénztári bizonylat másodpéldányán aláírásával igazolja az átvétel tényét. A gyógyszertár a gyógyszertár teljes ügyvitelét lefedő komplex informatikai programban, elektronikus módon vezetett nyilvántartás esetén a pénztári bizonylatok másodpéldányát a kiadástól számított öt évig a gyógyszerkiadás időrendjében lefűzve, elkülönítetten megőrzi.
 
 (16) A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletnek megfelelően rendelt, Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a gyógyszertár által kiszolgáltatott gyógyszerekről nyilvántartást vezet.
 
@@ -154,8 +154,8 @@ e) az ellenőrzést végző aláírását vagy elektronikus azonosítóját.
 
 (18) A fiókgyógyszertárban az ott folytatott tevékenységnek megfelelő nyilvántartást kell vezetni.
 
-[^81]: A 18. § a 38/2022. (XI. 10.) BM rendelet 5. §-ával megállapított szöveg.
-[^82]: A 18. § (1) bekezdés nyitó szövegrésze az 57/2024. (XII. 20.) BM rendelet 23. §-a szerint módosított szöveg.
-[^83]: A 18. § (11) bekezdés nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 43. § b) pontja szerint módosított szöveg.
-[^84]: A 18. § (15) bekezdése az 57/2024. (XII. 20.) BM rendelet 20. §-ával megállapított szöveg.
-[^85]: A 18. § (15a) bekezdését az 57/2024. (XII. 20.) BM rendelet 20. §-a iktatta be.
+[^82]: A 18. § a 38/2022. (XI. 10.) BM rendelet 5. §-ával megállapított szöveg.
+[^83]: A 18. § (1) bekezdés nyitó szövegrésze az 57/2024. (XII. 20.) BM rendelet 23. §-a szerint módosított szöveg.
+[^84]: A 18. § (11) bekezdés nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 43. § b) pontja szerint módosított szöveg.
+[^85]: A 18. § (15) bekezdése az 57/2024. (XII. 20.) BM rendelet 20. §-ával megállapított szöveg.
+[^86]: A 18. § (15a) bekezdését az 57/2024. (XII. 20.) BM rendelet 20. §-a iktatta be.

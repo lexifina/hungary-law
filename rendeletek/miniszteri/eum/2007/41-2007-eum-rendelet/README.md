@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-41-20-0
 | 2023-08-11 | 2007-41-20-0B.29 | 28/2023. (VIII. 10.) BM rendelet |
 | 2024-05-06 | 2007-41-20-0B.30 | 6/2024. (II. 6.) BM rendelet |
 | 2024-12-21 | 2007-41-20-0B.31 | 57/2024. (XII. 20.) BM rendelet |
+| 2025-10-01 | 2007-41-20-0B.32 | 41/2025. (IX. 29.) BM rendelet |

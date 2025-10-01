@@ -12,7 +12,7 @@ d) maró anyagok, savak tárolására alkalmas szekrényt vagy fülkét;
 
 e) az aszeptikus gyógyszerkészítés feltételeit;
 
-f)[^38] hűvös, hideg és mélyhűtött tárolás feltételeit biztosító hűtőszekrényt vagy a hűtést igénylő készítmények eltartására szolgáló helyiséget;
+f)[^39] hűvös, hideg és mélyhűtött tárolás feltételeit biztosító hűtőszekrényt vagy a hűtést igénylő készítmények eltartására szolgáló helyiséget;
 
 g) a 18. §-ban és a 19. §-ban meghatározott nyilvántartások vezetésének és megőrzésének a feltételeit;
 
@@ -20,10 +20,10 @@ h) a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendsz
 
 i) a tevékenység végzésére megfelelő informatikai rendszert;
 
-j)[^39] internetes kapcsolatot, e-mail elérhetőséget, valamint
+j)[^40] internetes kapcsolatot, e-mail elérhetőséget, valamint
 
-k)[^40] a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
+k)[^41] a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
 
-[^38]: A 11. § (2) bekezdés f) pontja az 56/2013. (VII. 31.) EMMI rendelet 30. §-ával megállapított, a 7/2016. (III. 30.) EMMI rendelet 26. § a) pontja szerint módosított szöveg.
-[^39]: A 11. § (2) bekezdés j) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
-[^40]: A 11. § (2) bekezdés k) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
+[^39]: A 11. § (2) bekezdés f) pontja az 56/2013. (VII. 31.) EMMI rendelet 30. §-ával megállapított, a 7/2016. (III. 30.) EMMI rendelet 26. § a) pontja szerint módosított szöveg.
+[^40]: A 11. § (2) bekezdés j) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
+[^41]: A 11. § (2) bekezdés k) pontja az 56/2009. (XII. 30.) EüM rendelet 6. §-ával megállapított szöveg.
