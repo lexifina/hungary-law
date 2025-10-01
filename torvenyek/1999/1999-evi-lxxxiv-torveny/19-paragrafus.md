@@ -96,7 +96,7 @@ k) a környezet- és természetvédelmi hatóság a környezetkárosítást vég
 
 l) a nyilvántartó által megbízott megszemélyesítést végző szervezet ingyenesen az automatikus úton kiállított vezetői engedély, törzskönyv és forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez az okmányra kerülő adatok tekintetében,
 
-m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
+m)
 
 n) a közlekedési hatóság a digitális tachográf kártya kiadásához a 8. § (1) bekezdés a) pont aj) alpontjában, a 8. § (1) bekezdés b) pont ba)–bc) alpontjában lévő adatokat.
 
