@@ -42,7 +42,7 @@ m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanit
 
 n) a pénzforgalmi szolgáltató által vezetett fizetési számla terhére megvalósított fizetési művelet, feltéve, hogy a számla tulajdonosa kizárólag olyan természetes személy, jogi személy vagy egyéb jogi megállapodás (különösen a gazdasági társaság, a polgári jogi társasági szerződés, a bizalmi vagyonkezelési szerződés vagy az alapítvány), aki (amely) az Európai Unió más tagállama vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt,
 
-o)
+o) a belföldi hitelintézet által az Áht. 84. § (1a) és (1e) bekezdése, a kincstár által az Áht. 84. § (1d) bekezdése, valamint a beutalással érintett önkormányzat és költségvetési szerve számlái közötti, az Áht. 84. § (1a) és (1d) bekezdése szerint végrehajtott fizetési művelet,
 
 p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
 
