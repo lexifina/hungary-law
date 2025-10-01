@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-1-20-0M
 | 2023-08-11 | 2003-1-20-0M.28 | 38/2022. (XI. 10.) BM rendelet |
 | 2023-11-16 | 2003-1-20-0M.29 | 47/2023. (XI. 15.) BM rendelet |
 | 2025-02-18 | 2003-1-20-0M.30 | 57/2024. (XII. 20.) BM rendelet |
+| 2025-10-01 | 2003-1-20-0M.31 | 38/2006. (IX. 27.) EüM rendelet |

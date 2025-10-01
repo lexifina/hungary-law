@@ -1,4 +1,4 @@
-7. § (1)[^24] Ha a gyógyszert a GYR 3. §-ának (5)–(8) bekezdése vagy 4. §-a szerint rendelték, a támogatást a gyógyszer kiadására kijelölt – e tevékenységre külön szerződést kötött – gyógyszertár számolhatja el.
+7. § (1)[^24] Ha a gyógyszert a az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló kormányrendeletnek az EGT-tagállamban vagy EGT-megállapodásban részes államban forgalomba hozatalra engedélyezett gyógyszer rendelésére vonatkozó szabályai vagy az egyedi gyógyszerbeszerzés szabályai szerint rendelték, a támogatást a gyógyszer kiadására kijelölt – e tevékenységre külön szerződést kötött – gyógyszertár számolhatja el.
 
 (2)[^25]
 
@@ -10,7 +10,7 @@
 
 (6)[^29] A 10. számú melléklet szerinti palackok és tartályok visszavételekor a szolgáltató a letéti díjhoz igénybe vett támogatás összegével a tárgyhavi támogatási igényét – elszámolási korrekcióként – mérsékli a biztosított vagy hozzátartozója részére pedig a térítési díjat visszafizeti.
 
-[^24]: A 7. § (1) bekezdése a 38/2006. (IX. 27.) EüM rendelet 3. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2006. október 16. napját követően kiállított vények beváltásakor kell alkalmazni.
+[^24]: A 7. § (1) bekezdése a 38/2006. (IX. 27.) EüM rendelet 3. § (3) bekezdése, a 41/2025. (IX. 29.) BM rendelet 4. §-a szerint módosított szöveg.
 [^25]: A 7. § (2) bekezdését a 39/2008. (X. 18.) EüM rendelet 9. § (2) bekezdése hatályon kívül helyezte.
 [^26]: A 7. § (3)–(4) bekezdését a 10/2004. (XII. 15.) EüM rendelet 19. § (3) bekezdésének c) pontja hatályon kívül helyezte.
 [^27]: A 7. § (3)–(4) bekezdését a 10/2004. (XII. 15.) EüM rendelet 19. § (3) bekezdésének c) pontja hatályon kívül helyezte.
