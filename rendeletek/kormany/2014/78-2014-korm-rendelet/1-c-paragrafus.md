@@ -6,7 +6,7 @@
 
 a) legalább 55%-a hitelviszonyt megtestesítő értékpapír, illetve ilyen eszközzel szembeni kitettséget biztosító eszköz,
 
-b) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+b)[^3] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 c) legfeljebb 37%-a egyéb eszköz.
 
@@ -14,7 +14,7 @@ c) legfeljebb 37%-a egyéb eszköz.
 
 a) legalább 80%-a részvénykitettséget biztosító eszköz,
 
-b) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+b)[^4] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 c) legfeljebb 12%-a egyéb eszköz.
 
@@ -24,7 +24,7 @@ a) legfeljebb 80%-a részvénykitettséget biztosító eszköz,
 
 b) legfeljebb 80%-a hitelviszonyt megtestesítő értékpapír, vagy ilyen eszközzel szembeni kitettséget biztosító eszköz,
 
-c) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+c)[^5] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 d) legfeljebb 35%-a egyéb eszköz.
 
@@ -32,7 +32,7 @@ d) legfeljebb 35%-a egyéb eszköz.
 
 a) legalább 60%-a hitelviszonyt megtestesítő értékpapír (ideértve az ilyen eszközzel szembeni kitettséget biztosító eszközt), illetve bankbetét, ezen belül legfeljebb 40% hitelviszonyt megtestesítő értékpapír (ideértve az ilyen eszközzel szembeni kitettséget biztosító eszközt),
 
-b) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+b)[^6] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 c) legfeljebb 32%-a egyéb eszköz.
 
@@ -46,7 +46,7 @@ c) legfeljebb 32%-a egyéb eszköz.
 
 a) legalább 50%-a árupiaci kitettséget biztosító eszköz (ideértve más árupiaci alap által kibocsátott kollektív befektetési értékpapírt),
 
-b) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+b)[^7] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 c) legfeljebb 42%-a egyéb eszköz.
 
@@ -54,7 +54,7 @@ c) legfeljebb 42%-a egyéb eszköz.
 
 a) legalább 85%-a kollektív befektetési értékpapír,
 
-b) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+b)[^8] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 c) legfeljebb 7%-a egyéb eszköz.
 
@@ -64,7 +64,7 @@ a) legalább 40%-a hitelviszonyt megtestesítő értékpapír (ideértve az ilye
 
 b) legfeljebb 40%-a a 37. § a)–c) és f) pontok valamelyikében megjelölt eszköz,
 
-c) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+c)[^9] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 d) legfeljebb 35%-a egyéb eszköz.
 
@@ -72,10 +72,19 @@ d) legfeljebb 35%-a egyéb eszköz.
 
 a) legalább 40%-a a 37. § a)–c) és f) pontok valamelyikében megjelölt eszköz,
 
-b) legalább 5%-a állampapír, és legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
+b)[^10] legalább 5%-a éven túli állampapír, és további legalább 3%-a legfeljebb egyéves futamidejű vagy egyéves hátralévő futamidejű állampapír,
 
 c) legfeljebb 52%-a egyéb eszköz.
 
 (12) Újonnan induló ingatlanalap a (11) bekezdésben meghatározott korlátokat az alap Felügyelet által történő nyilvántartásba vételétől számított két éven belül éri el, amely időszak a Felügyeletnek történő bejelentést követően két évvel meghosszabbítható.
 
 (13) Átalakuló ingatlanalap a (11) bekezdésben meghatározott korlátokat az átalakulás napjától számított egy éven belül éri el, amely időszak a Felügyeletnek történő bejelentést követően egy évvel meghosszabbítható.
+
+[^3]: Az 1/C. § (1) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: Az 1/C. § (2) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^5]: Az 1/C. § (3) bekezdés c) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^6]: Az 1/C. § (4) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^7]: Az 1/C. § (8) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^8]: Az 1/C. § (9) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^9]: Az 1/C. § (10) bekezdés c) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^10]: Az 1/C. § (11) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
