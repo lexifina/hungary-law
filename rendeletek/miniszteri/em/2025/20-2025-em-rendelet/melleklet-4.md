@@ -1,3 +1,3 @@
-4. melléklet a 20/2025. (VII. 31.) EM rendelethez[^24]
+4. melléklet a 20/2025. (VII. 31.) EM rendelethez[^26]
 
-[^24]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
