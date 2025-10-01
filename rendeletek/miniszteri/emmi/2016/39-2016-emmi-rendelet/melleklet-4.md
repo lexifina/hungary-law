@@ -30,8 +30,8 @@
 
 | 15 | Diagnosztikai eredmények | vércsoport | vércsoport meghatározás időpontja |
 
-4. melléklet a 39/2016. (XII. 21.) EMMI rendelethez[^33]
+4. melléklet a 39/2016. (XII. 21.) EMMI rendelethez[^54]
 
 Egészségügyi dokumentumok nyilvántartása
 
-[^33]: A 4. melléklet a 37/2020. (X. 30.) EMMI rendelet 7. § (2) bekezdésével megállapított, a 6/2022. (II. 15.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^54]: A 4. melléklet a 37/2020. (X. 30.) EMMI rendelet 7. § (2) bekezdésével megállapított, a 6/2022. (II. 15.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.

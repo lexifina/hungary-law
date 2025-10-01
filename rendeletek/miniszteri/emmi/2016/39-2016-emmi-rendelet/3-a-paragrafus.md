@@ -1,4 +1,4 @@
-## 2/A. [^8] Az EESZT csatlakozáshoz használt informatikai rendszer megfelelősége
+## 2/A. [^20] Az EESZT csatlakozáshoz használt informatikai rendszer megfelelősége
 
 3/A. § (1) Az Eüak. 35/B. § (5) bekezdése szerinti, az EESZT csatlakozáshoz használt informatikai rendszernek (a továbbiakban: informatikai rendszer) meg kell felelnie
 
@@ -8,24 +8,37 @@ b) a tervezett felhasználási területtől függően a 2. § (3) bekezdés b) p
 
 meghatározott követelményeknek.
 
-(2) A működtető a 2. § (3) bekezdése szerint hozzáférhetővé tett dokumentáció részeként teszi közzé az (1) bekezdés szerinti követelmények teljesítésére és igazolására, a kérelmezői öntesztre, az együttműködési képesség tesztelésére vonatkozó részletes szakmai követelményeket, az EESZT vagy az informatikai rendszer műszaki átalakítása esetére vagy új EESZT szolgáltatás bevezetése esetére, és a működtető által az ellenőrzés körében megállapított hiányosság esetén a célzott tesztelésre vonatkozó célzott vizsgálat követelményeit és teszteseteit is.
+(2)[^21] A Szolgáltatóközpont az informatikai rendszer fejlesztői részére hozzáférhetővé teszi az (1) bekezdés szerinti követelmények
 
-(3) Az informatikai rendszer engedélyezésére irányuló kérelmet a szoftverre vonatkozó vagyoni jogokkal vagy a szoftver továbbfejlesztéséhez szükséges felhasználási jogokkal rendelkező szervezet (a továbbiakban: fejlesztő) terjesztheti elő. A kérelem tartalmazza az informatikai rendszer tervezett, 6. melléklet szerinti felhasználási területét. A kérelemben több felhasználási terület is megjelölhető.
+a) teljesítéséhez szükséges informatikai feltételek műszaki specifikációját, az alkalmazandó információbiztonsági és egyéb követelményeket,
 
-(4) A működtető azt az Eüak. 35/B. § (5) bekezdése szerinti informatikai rendszert engedélyezi EESZT csatlakozásra használható informatikai rendszerként, amely eleget tesz az (1) bekezdés szerinti követelményeknek. A működtető az engedélyben feltünteti az informatikai rendszer 6. melléklet szerinti felhasználási területét, amelyre az engedély vonatkozik.
+b) teljesítésére és igazolására, a fejlesztői öntesztre, az együttműködési képesség tesztelésére vonatkozó részletes szakmai követelményeket és
 
-(5) Az informatikai rendszer továbbfejlesztése, verzióváltása, vagy az EESZT csatlakozás műszaki követelményeinek változása esetén az engedély jogosultja köteles gondoskodni az (1) bekezdés szerinti követelmények folyamatos teljesítéséről.
+c) változása esetén a célzott felülvizsgálat követelményeit és teszteseteit.
 
-(6) Az engedély jogosultja köteles 8 napon belül bejelenteni, ha
+(3)[^22] A Szolgáltatóközpont az EESZT műszaki specifikációját érintő verzióváltás esetén annak tervezett időpontját megelőzően legalább hatvan nappal a fejlesztők számára elérhetővé teszi
 
-a) az informatikai rendszer engedélyben feltüntetett adatai megváltoznak,
+a) a verzióváltás tervezett időpontját,
 
-b) az informatikai rendszer az (5) bekezdésben foglalt változások eredményeként nem felel meg az (1) bekezdés szerinti követelményeknek, vagy ha
+b) a verzióváltással érintett szolgáltatások körét és
 
-c) az informatikai rendszerben továbbfejlesztés, verzióváltás kapcsán jelentős műszaki változás került megvalósításra.
+c) az új verzióra vonatkozó műszaki leírások elérhetőségét.
 
-(7) A működtető a szoftvert a csatlakozott adatkezelőkkel való együttműködése keretében, a szoftver működése közben is ellenőrzi. A működtető a szoftver engedélyét visszavonhatja, ha a szoftver nem felel meg az engedélyezéshez szükséges feltételeknek.
+(4)[^23] A (3) bekezdés szerinti változás alapján a Szolgáltatóközpont felhívására az informatikai rendszer fejlesztője igazolja a megváltozott követelményeknek való megfelelést.
 
-(8) A működtető közzéteszi az e § szerinti engedéllyel rendelkező szoftverek jegyzékét.
+(5)[^24]
 
-[^8]: A 2/A. alcímet (3/A. §) a 37/2020. (X. 30.) EMMI rendelet 5. § (1) bekezdése iktatta be.
+(6)[^25]
+
+(7)[^26]
+
+(8)[^27]
+
+[^20]: A 2/A. alcímet (3/A. §) a 37/2020. (X. 30.) EMMI rendelet 5. § (1) bekezdése iktatta be.
+[^21]: A 3/A. § (2) bekezdése a 40/2025. (IX. 25.) BM rendelet 2. §-ával megállapított szöveg.
+[^22]: A 3/A. § (3) bekezdése a 40/2025. (IX. 25.) BM rendelet 2. §-ával megállapított szöveg.
+[^23]: A 3/A. § (4) bekezdése a 40/2025. (IX. 25.) BM rendelet 2. §-ával megállapított szöveg.
+[^24]: A 3/A. § (5) bekezdését a 40/2025. (IX. 25.) BM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^25]: A 3/A. § (6) bekezdését a 40/2025. (IX. 25.) BM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^26]: A 3/A. § (7) bekezdését a 40/2025. (IX. 25.) BM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^27]: A 3/A. § (8) bekezdését a 40/2025. (IX. 25.) BM rendelet 5. § c) pontja hatályon kívül helyezte.

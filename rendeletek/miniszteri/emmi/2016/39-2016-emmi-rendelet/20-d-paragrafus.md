@@ -1,4 +1,4 @@
-## 13/C. [^17] Elektronikus szolgáltatásrendelés és időpontfoglalás
+## 13/C. [^38] Elektronikus szolgáltatásrendelés és időpontfoglalás
 
 20/D. § (1) Elektronikus szolgáltatásrendelés esetében az igénylő orvos a szolgáltatásrendeléssel érintett egészségügyi szolgáltatásban részesülő érintett kérésére papír alapú igazolást állít ki az elektronikus szolgáltatásrendelésről. Az igazolás az elektronikus szolgáltatásrendelés adattartalmát, és az elektronikus szolgáltatásrendelés EESZT azonosítóját tartalmazza vonalkódos és szövegesen olvasható formában is.
 
@@ -14,4 +14,4 @@
 
 (7) Az ellátást nyújtó csatlakozott adatkezelő a (6) bekezdés szerint közzétett időpontokat – kivételes esetben, alapos okból – az EESZT útján módosíthatja vagy törölheti. Lefoglalt időpont módosítása vagy törlése esetén az ellátást nyújtó csatlakozott adatkezelő köteles a szolgáltatásrendeléssel érintett egészségügyi szolgáltatásban részesülő érintett értesítésére, és új időpont egyeztetésére.
 
-[^17]: A 13/C. alcímet (20/D. §) a 37/2020. (X. 30.) EMMI rendelet 5. § (2) bekezdése iktatta be.
+[^38]: A 13/C. alcímet (20/D. §) a 37/2020. (X. 30.) EMMI rendelet 5. § (2) bekezdése iktatta be.

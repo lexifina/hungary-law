@@ -1,4 +1,4 @@
-## 13/A. [^15] Digitális képtovábbítás és elektronikus konzílium
+## 13/A. [^36] Digitális képtovábbítás és elektronikus konzílium
 
 20/A. § (1) Ha a csatlakozott adatkezelő megfelel a szolgáltatás igénybevételéhez szükséges műszaki követelményeknek, a képalkotó diagnosztikai eljárással készített felvétel egészségügyi informatikai rendszerbe történő rögzítésekor adatot szolgáltathat az EESZT működtetője által a digitális képtovábbítási szolgáltatással kapcsolatban vezetett nyilvántartásba. A szolgáltatás igénybevételéhez szükséges műszaki követelményeket a működtető a csatlakozó adatkezelők számára hozzáférhetővé teszi.
 
@@ -10,4 +10,4 @@
 
 (5) A szolgáltatás használatával kapcsolatos adatkezelés naplózásra kerül. Az adatkezelés részleteit az érintett az EESZT közvetlen hozzáférési felületén keresztül megismerheti, erre vonatkozó beállítás esetén a képtovábbítás megtörténtéről e-mail útján értesítést kaphat.
 
-[^15]: A 13/A. alcímet (20/A–20/B. §) a 29/2017. (X. 31.) EMMI rendelet 24. §-a iktatta be.
+[^36]: A 13/A. alcímet (20/A–20/B. §) a 29/2017. (X. 31.) EMMI rendelet 24. §-a iktatta be.

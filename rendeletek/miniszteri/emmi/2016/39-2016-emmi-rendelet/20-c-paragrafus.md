@@ -1,4 +1,4 @@
-## 13/B. [^16] Elektronikus betegségregiszter
+## 13/B. [^37] Elektronikus betegségregiszter
 
 20/C. § (1) Az EESZT útján vezetett elektronikus betegségregiszterbe történő adatszolgáltatás kizárólag az elektronikus adatszolgáltatási űrlapon teljesíthető.
 
@@ -6,4 +6,4 @@
 
 (3) A betegségregiszterek személyazonosításra alkalmatlan módon tárolt adataihoz bármely csatlakozott adatkezelő hozzáférhet.
 
-[^16]: A 13/B. alcímet (20/C. §) a 29/2017. (X. 31.) EMMI rendelet 24. §-a iktatta be.
+[^37]: A 13/B. alcímet (20/C. §) a 29/2017. (X. 31.) EMMI rendelet 24. §-a iktatta be.

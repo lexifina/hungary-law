@@ -2,9 +2,9 @@
 
 ## 16. Módosító rendelkezések
 
-23. § (1)[^28]
+23. § (1)[^49]
 
-(2)[^29]
+(2)[^50]
 
-[^28]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 23. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 23. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

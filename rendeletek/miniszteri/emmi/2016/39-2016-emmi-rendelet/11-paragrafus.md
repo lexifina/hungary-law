@@ -6,7 +6,7 @@ b) az üzemzavarról szóló tájékoztatást, és
 
 c) a verzióváltással kapcsolatos előzetes tájékoztatást.
 
-(2)[^12] A működtető köteles az (1) bekezdés a) pontjával kapcsolatban az üzemszünet tervezett időpontját megelőzően legalább 7 nappal közzétenni
+(2)[^31] A működtető köteles az (1) bekezdés a) pontjával kapcsolatban az üzemszünet tervezett időpontját megelőzően legalább 7 nappal közzétenni
 
 a) a karbantartás megkezdésének és befejezésének időpontját, és
 
@@ -34,14 +34,9 @@ a) a verzióváltás tervezett időpontját, és
 
 b) az érintett szolgáltatások körét.
 
-(6) A működtető köteles az (1) bekezdés c) pontjával kapcsolatban az EESZT műszaki specifikációját érintő verzióváltás esetén annak tervezett időpontját megelőzően legalább hatvan nappal közzétenni
-
-a) a verzióváltás tervezett időpontját,
-
-b) a verzióváltással érintett szolgáltatások körét, és
-
-c) az új verzióra vonatkozó műszaki leírások elérhetőségét.
+(6)[^32]
 
 (7) A működtető az (1) bekezdésben meghatározott üzemeltetési nyilvántartást az EESZT működésétől függetlenül is elérhető honlapján bárki számára elérhetővé teszi.
 
-[^12]: A 11. § (2) bekezdés nyitó szövegrésze a 29/2017. (X. 31.) EMMI rendelet 25. §-a szerint módosított szöveg.
+[^31]: A 11. § (2) bekezdés nyitó szövegrésze a 29/2017. (X. 31.) EMMI rendelet 25. §-a szerint módosított szöveg.
+[^32]: A 11. § (6) bekezdését a 40/2025. (IX. 25.) BM rendelet 5. § d) pontja hatályon kívül helyezte.
