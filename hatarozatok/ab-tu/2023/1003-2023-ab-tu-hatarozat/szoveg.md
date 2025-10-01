@@ -30,17 +30,15 @@ Dr. Schanda Balázs alkotmánybíró.
 
 A 3. öttagú tanács tagjai:
 
-Dr. Patyi András tanácsvezető alkotmánybíró,
-
-Dr. Horváth Attila alkotmánybíró,
+Dr. Lomnici Zoltán tanácsvezető alkotmánybíró,
 
 Dr. Hörcherné dr. Marosi Ildikó alkotmánybíró,
 
-Dr. Lomnici Zoltán alkotmánybíró,
+Dr. Kozma Ákos alkotmánybíró,
+
+Dr. Patyi András alkotmánybíró,
 
 Dr. Szabó Marcel alkotmánybíró.
-
-Előadó alkotmánybíróként dr. Horváth Attila alkotmánybíró az 1. öttagú tanácsban jár el.
 
 3. A tanácsvezetők megbízatása 2024. szeptember 30-ig tart.
 
@@ -50,5 +48,5 @@ Előadó alkotmánybíróként dr. Horváth Attila alkotmánybíró az 1. öttag
 
 Alkotmánybírósági ügyszám: XVIII/1886/2023.
 
-[^1]: A 2. pont az 1002/2025. (III. 11.) AB Tü. határozat 1. pontja, az 1004/2025. (VI. 4.) AB Tü. határozat 1. pontja, az 1005/2025. (VI. 19.) AB Tü. határozat 1. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1002/2025. (III. 11.) AB Tü. határozat 1. pontja, az 1004/2025. (VI. 4.) AB Tü. határozat 1. pontja, az 1005/2025. (VI. 19.) AB Tü. határozat 1. pontja, az 1007/2025. (IX. 30.) AB Tü. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
