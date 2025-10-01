@@ -1,0 +1,3 @@
+2. § A 29/2022. (I. 31.) Korm. rendelet 5/A. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az EESZT működtetője az EESZT-be az egészségügyi szolgáltatók által feltöltendő adatok tekintetében bekövetkezett adatvédelmi incidens esetén együttműködik az incidensben érintett egészségügyi szolgáltatóval. Az EESZT működtetője eljárásrendet tartalmazó ajánlást ad ki az EESZT-be az egészségügyi szolgáltatók által feltöltendő adatokat érintő adatvédelmi incidensek és incidensgyanús események esetére az incidens azonosításában, a kockázatok felmérésében, az incidens elhárításához szükséges adminisztratív feladatokban az egészségügyi szolgáltató és az EESZT működtetője közötti együttműködés tekintetében.”
