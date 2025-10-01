@@ -22,7 +22,7 @@ b) örökbefogadott gyermek esetén az örökbefogadást engedélyező határoza
 
 c) a magzat elhalása vagy halva születése esetén az erre vonatkozó, a 9. § (2) bekezdés c) pontja szerinti igazolás keltét
 
-követő 1 évig nyújtható be.
+követő 1 évig nyújtható be, azzal, hogy a (3) bekezdésben meghatározott esetben a kérelmezési határidő – a támogatott személyek választása szerint – az a)–c) pontban meghatározott időpontok helyett a korábbi törlesztés-szüneteltetés lejártától is számítható.
 
 (6a)[^79] A törlesztés szüneteltetésére való jogosultságot megalapozza, ha annak – (1) vagy (3) bekezdés szerinti – feltétele a kölcsönkérelem és a szüneteltetés iránti kérelem benyújtása közötti időszakban bármikor fennáll.
 
@@ -44,7 +44,7 @@ számított 3 évig szünetel.
 [^75]: A 14. § (4) bekezdése a 252/2020. (V. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^76]: A 14. § (4a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 24. § (2) bekezdése iktatta be.
 [^77]: A 14. § (5) bekezdése a 151/2019. (VI. 26.) Korm. rendelet 2. §-ával megállapított, a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés g) pontja, a 649/2023. (XII. 28.) Korm. rendelet 22. § (4) bekezdése szerint módosított szöveg.
-[^78]: A 14. § (6) bekezdése a 252/2020. (V. 29.) Korm. rendelet 24. § (3) bekezdésével megállapított, záró szövegrésze a 131/2023. (IV. 18.) Korm. rendelet 2. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 23. § 13. pontja szerint módosított szöveg.
+[^78]: A 14. § (6) bekezdése a 252/2020. (V. 29.) Korm. rendelet 24. § (3) bekezdésével megállapított, záró szövegrésze a 131/2023. (IV. 18.) Korm. rendelet 2. § b) pontja, a 388/2024. (XII. 11.) Korm. rendelet 23. § 13. pontja, a 282/2025. (VIII. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^79]: A 14. § (6a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
 [^80]: A 14. § (7) bekezdése a 252/2020. (V. 29.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
 [^81]: A 14. § (7) bekezdés a) pontja a 388/2024. (XII. 11.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
