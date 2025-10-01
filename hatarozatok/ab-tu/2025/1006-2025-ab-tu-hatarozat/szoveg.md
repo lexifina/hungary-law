@@ -2,8 +2,10 @@ Az Alkotmánybíróság teljes ülése az Alkotmánybíróság ügyrendjéről s
 
 1. Az egyesbírói feladatokat 2025. október 1-től 2026. szeptember 30-ig Haszonicsné dr. Ádám Mária alkotmánybíró, dr. Patyi András alkotmánybíró, dr. Polt Péter alkotmánybíró, dr. Schanda Balázs alkotmánybíró és dr. Varga Réka alkotmánybíró látja el.
 
-2. Hatályát veszti az egyesbírók személyéről szóló 1005/2024. (IX. 12.) AB Tü. határozat.
+2.[^2]
 
 3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/2215/2025.
+
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
