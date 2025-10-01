@@ -156,6 +156,6 @@
 
 ## 11.13.
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^177]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^181]
 
-[^177]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (4) bekezdése és 19. § c) pontja szerint módosított szöveg.
+[^181]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (3) bekezdése, a 48/2022. (XII. 27.) BM rendelet 4. §-a, az 57/2024. (XII. 20.) BM rendelet 18. § (4) bekezdése és 19. § c) pontja szerint módosított szöveg.

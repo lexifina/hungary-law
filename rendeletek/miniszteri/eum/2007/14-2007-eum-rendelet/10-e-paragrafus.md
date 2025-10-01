@@ -6,13 +6,14 @@ b) cégjegyzékszámát és adószámát,
 
 c) vezető tisztségviselőjének (tisztségviselőinek) nevét, telefonos és elektronikus elérhetőségét,
 
-d) (4)–(5) bekezdés szerinti törlésre előjegyzett státuszát,
+d)[^50] Korm. rendelet 13. § (3)–(4) bekezdése szerinti törlésre előjegyzett státuszát,
 
 e) által végzett forgalomba hozatali tevékenység típusát, és
 
 f) szállítókódját.
 
-(2)–(6)[^50]
+(2)–(6)[^51]
 
 [^49]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
-[^50]: A 10/E. § (2)–(6) bekezdését a 8/2018. (II. 13.) EMMI rendelet 43. § i) pontja hatályon kívül helyezte.
+[^50]: A 10/E. § (1) bekezdés d) pontja a 41/2025. (IX. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^51]: A 10/E. § (2)–(6) bekezdését a 8/2018. (II. 13.) EMMI rendelet 43. § i) pontja hatályon kívül helyezte.

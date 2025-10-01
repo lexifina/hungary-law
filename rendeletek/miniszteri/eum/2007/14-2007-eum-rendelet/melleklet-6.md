@@ -94,7 +94,7 @@
 
 ## 10. Szakorvosi vélemény
 
-## 10.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 10.1. Országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény, amelyen szerepel a kiadás kelte, a véleményező orvos neve, szakképzettségei, beosztása, munkahelye.
 
 ## 10.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -120,7 +120,7 @@
 
 ## 10.13.
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^180]
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^184]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:
 
@@ -148,4 +148,4 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem 
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
 
-[^180]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 10/2022. (III. 31.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^184]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 10/2022. (III. 31.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.

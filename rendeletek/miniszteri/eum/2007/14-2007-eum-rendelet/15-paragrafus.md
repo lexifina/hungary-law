@@ -1,14 +1,14 @@
-15. § (1)[^127] A támogatással rendelt, egyedi méretvétel alapján készült gyógyászati segédeszköz alkalmasságát a beteg véleményezteti az azt rendelő orvossal vagy az eszköz felírására jogosult más orvossal. Amennyiben az orvos a gyógyászati segédeszközt nem tartja megfelelőnek, erről értesíti a gyártót vagy annak meghatalmazott képviselőjét és a NEAK-ot.
+15. § (1)[^129] A támogatással rendelt, egyedi méretvétel alapján készült gyógyászati segédeszköz alkalmasságát a beteg véleményezteti az azt rendelő orvossal vagy az eszköz felírására jogosult más orvossal. Amennyiben az orvos a gyógyászati segédeszközt nem tartja megfelelőnek, erről értesíti a gyártót vagy annak meghatalmazott képviselőjét és a NEAK-ot.
 
-(2)[^128] A forgalmazó, illetve a gyártó vagy annak meghatalmazott képviselője a Gyftv. 33. § (6) bekezdése szerinti közleményben meghatározott sorozatgyártású, illetve adaptív gyógyászati segédeszközt termékazonosító EAN kóddal köteles ellátni.
+(2)[^130] A forgalmazó, illetve a gyártó vagy annak meghatalmazott képviselője a Gyftv. 33. § (6) bekezdése szerinti közleményben meghatározott sorozatgyártású, illetve adaptív gyógyászati segédeszközt termékazonosító EAN kóddal köteles ellátni.
 
-(3)[^129]
+(3)[^131]
 
-(4)[^130] A gyógyászati segédeszköz kiszolgáltatása során – az egyedi méretvétel alapján készült eszközök kivételével – a támogatással kiszolgáltatott és kölcsönzött eszköz árát, kölcsönzési díját, a támogatás mértékét és nettó összegét, továbbá a beteg által fizetendő nettó térítési vagy kölcsönzési díjat a beteg számára hozzáférhető módon közzé kell tenni. A tájékoztatóban egyértelműen jelezni kell, hogy a közzétett ár, kölcsönzési és térítési díj az áfát nem tartalmazza.
+(4)[^132] A gyógyászati segédeszköz kiszolgáltatása során – az egyedi méretvétel alapján készült eszközök kivételével – a támogatással kiszolgáltatott és kölcsönzött eszköz árát, kölcsönzési díját, a támogatás mértékét és nettó összegét, továbbá a beteg által fizetendő nettó térítési vagy kölcsönzési díjat a beteg számára hozzáférhető módon közzé kell tenni. A tájékoztatóban egyértelműen jelezni kell, hogy a közzétett ár, kölcsönzési és térítési díj az áfát nem tartalmazza.
 
 (5) A (4) bekezdés szerinti információról, az eszköz gyártójáról vagy annak meghatalmazott képviselőjéről és elérhetőségéről, továbbá a használati útmutatóban foglaltakról vakok és gyengénlátók részére kérésükre szóbeli tájékoztatást kell adni.
 
-[^127]: A 15. § (1) bekezdése az 57/2024. (XII. 20.) BM rendelet 14. §-ával megállapított szöveg.
-[^128]: A 15. § (2) bekezdése a 34/2010. (V. 14.) EüM rendelet 13. § 18. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
-[^129]: A 15. § (3) bekezdését a 34/2010. (V. 14.) EüM rendelet 14. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^130]: A 15. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 13. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^129]: A 15. § (1) bekezdése az 57/2024. (XII. 20.) BM rendelet 14. §-ával megállapított szöveg.
+[^130]: A 15. § (2) bekezdése a 34/2010. (V. 14.) EüM rendelet 13. § 18. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
+[^131]: A 15. § (3) bekezdését a 34/2010. (V. 14.) EüM rendelet 14. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^132]: A 15. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 13. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.

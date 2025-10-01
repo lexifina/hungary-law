@@ -1,3 +1,3 @@
-13/B. §[^103]
+13/B. §[^104]
 
-[^103]: A 13/B. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be, hatályon kívül helyezte a 10/2022. (III. 31.) EMMI rendelet 4. §-a.
+[^104]: A 13/B. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be, hatályon kívül helyezte a 10/2022. (III. 31.) EMMI rendelet 4. §-a.
