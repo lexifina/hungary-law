@@ -34,10 +34,12 @@ c) a kormánytisztviselőtől a kormányzati igazgatásról szóló 2018. évi C
 
 (12) A töredék havi külszolgálati ellátmány, devizailletmény és átalány-költségtérítés kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 
-(13) E rendelet alkalmazásában nem minősül foglalkoztatási jogviszonyból származó jövedelemnek a csecsemőgondozási díj, a gyermekgondozási díj, az örökbefogadói díj és a szülési szolgálatmentesség idejére járó illetmény.
+(13)[^1] E rendelet alkalmazásában nem minősül foglalkoztatási jogviszonyból származó jövedelemnek a csecsemőgondozási díj, a gyermekgondozási díj, az örökbefogadói díj.
 
 (14) Házastársak egyazon állomáshelyen teljesített külföldi szolgálata esetén a hozzátartozók utáni juttatások, illetve a lakhatási átalány-költségtérítés csak a házastársak egyikét illeti meg. Ebben az esetben a házastársak a juttatás, illetve a lakhatási átalány-költségtérítés igénylésével egyidejűleg közös nyilatkozatot kötelesek tenni a döntésre jogosult elöljáró részére arra vonatkozóan, hogy a juttatást, illetve a lakhatási átalány-költségtérítést melyik fél kívánja igénybe venni a külföldi szolgálat időtartama alatt. Ezen bekezdés szerint kell eljárni abban az esetben is, ha a házastársak az állomáshely szerinti országon belül eltérő állomáshelyen teljesítenek külföldi szolgálatot, de életvitelszerűen együtt élnek.
 
 (15) Az állomáshelyen kialakult, a honvéd vagy a honvédelmi alkalmazott személyi biztonságát közvetlenül érintő válsághelyzet esetén a miniszter a külszolgálati ellátmány összegét eseti jelleggel, határozott időtartamra normatív utasításában megemelheti.
 
 (16) A pályázati forrásból finanszírozott külföldi képzés esetén a kiküldő a rendelkezésére álló pályázati forrás terhére a honvéd tisztjelölt részére az e rendelet szerinti juttatások helyett egyéb juttatásokat állapíthat meg.
+
+[^1]: A 17. § (13) bekezdése a 10/2025. (IX. 5.) HM rendelet 5. §-a szerint módosított szöveg.

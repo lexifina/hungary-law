@@ -192,7 +192,7 @@
 
 | 96. | Vietnám | 60 | EUR |
 
-4. melléklet a 23/2024. (IX. 30.) HM rendelethez[^7]
+4. melléklet a 23/2024. (IX. 30.) HM rendelethez[^8]
 
 A külföldi katonai műveletben részt vevők alapellátmánya és alapellátmány-kiegészítésehavi nettó összege
 
@@ -268,4 +268,4 @@ A külföldi katonai műveletben részt vevők alapellátmánya és alapellátm�
 
 | 5. | 4. extrém | 136 668 |
 
-[^7]: A 4. melléklet a 73. §-sal megállapított szöveg.
+[^8]: A 4. melléklet a 73. §-sal megállapított szöveg.
