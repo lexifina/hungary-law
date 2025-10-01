@@ -126,3 +126,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2025-06-01 | 2011-368-20-22.119 | 104/2025. (V. 14.) Korm. rendelet |
 | 2025-07-01 | 2011-368-20-22.120 | 397/2014. (XII. 31.) Korm. rendelet |
 | 2025-07-20 | 2011-368-20-22.122 | 210/2025. (VII. 17.) Korm. rendelet |
+| 2025-10-01 | 2011-368-20-22.121 | 194/2025. (VII. 8.) Korm. rendelet |
