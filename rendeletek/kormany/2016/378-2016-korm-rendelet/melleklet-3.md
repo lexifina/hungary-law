@@ -76,15 +76,15 @@
 
 | 5. | Aszód | 183 |
 
-| 6. | Csákvár | 195 |
+| 6. |  |  |
 
 | 7. | Dabronc | 318/1 |
 
 | 8. | Dabronc | 333 |
 
-| 9. | Dénesfa | 111 |
+| 9. |  |  |
 
-| 10. | Dénesfa | 117 |
+| 10. |  |  |
 
 | 11. | Doba | 0219 |
 
@@ -126,7 +126,7 @@
 
 | 30. | Fáj | 23 |
 
-| 31. | Gyömrő | 632 |
+| 31. |  |  |
 
 | 32. | Hódmezővásárhely | 6487/3 |
 
@@ -172,7 +172,7 @@
 
 | 53. | Pécs | 4955 |
 
-| 54. | Pilis | 1753 |
+| 54. |  |  |
 
 | 55. | Sirok | 766 |
 
@@ -192,7 +192,7 @@
 
 | 63. | Sopronhorpács | 310/3 |
 
-| 64. | Szany | 1162/1 |
+| 64. |  |  |
 
 | 65. |  |  |
 
@@ -206,9 +206,9 @@
 
 | 70. | Váchartyán | 726 |
 
-| 71. | Vassurány | 197 |
+| 71. |  |  |
 
-| 72. | Veszprém | 1965/14 |
+| 72. |  |  |
 
 | 73. | Veszprém | 9837 |
 
@@ -218,8 +218,8 @@
 
 | 76. |  |  |
 
-| 77. | Zsira | 563/1 |
+| 77. |  |  |
 
-| 78. | Zsira | 563/2 |
+| 78. |  |  |
 
-[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a, a 273/2025. (VIII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.

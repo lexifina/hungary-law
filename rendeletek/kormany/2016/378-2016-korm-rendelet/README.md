@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-378-20-
 | 2025-01-01 | 2016-378-20-22.17 | 416/2024. (XII. 20.) Korm. rendelet |
 | 2025-02-01 | 2016-378-20-22.18 | 250/2018. (XII. 17.) Korm. rendelet |
 | 2025-08-06 | 2016-378-20-22.19 | 168/2018. (IX. 17.) Korm. rendelet |
+| 2025-10-01 | 2016-378-20-22.20 | 250/2018. (XII. 17.) Korm. rendelet |
