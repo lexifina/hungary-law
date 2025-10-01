@@ -1,13 +1,1 @@
 4. § A három gyermeket nevelő anya az 1. § (2) bekezdés szerinti jövedelmei után az 1. § szerinti kedvezményt – ha az 1. § (3) bekezdés szerinti gyermekei száma, figyelemmel az 1. § (4) bekezdésében foglaltakra is, három – a 2025. szeptember 30. után megszerzett, az 1. § (2) bekezdése szerinti jövedelmei, munkaviszonyból származó jövedelem esetén a 2025. szeptember 30. utáni időszakra elszámolt jövedelmei tekintetében érvényesítheti.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
