@@ -1,4 +1,4 @@
-63. § (1)[^5] E rendelet hatálybalépése előtt tett egyszerű bejelentéssel
+63. § (1)[^4] E rendelet hatálybalépése előtt tett egyszerű bejelentéssel
 
 a) épített vagy bővített lakóépület esetén az építésügyi hatóság – az 56. § (1) bekezdésében foglaltakon kívül – a szabálytalanság tárgyában meghozandó döntéséig azonnal megtiltja az építőipari kivitelezési tevékenység végzését akkor is, ha azt a bejelentés megtételének időpontjában hatályos szabályok megsértésével végzik,
 
@@ -10,7 +10,7 @@ d) épített új lakóépület esetén az építésügyi hatóság a használatb
 
 e) épített vagy bővített lakóépület esetén az építésügyi hatóság az elektronikus építési napló készenlétét akkor is haladéktalanul megszünteti, ha az épület felépítésének, bővítésének megtörténtét tanúsító hatósági bizonyítványt feltöltötték.
 
-(1a)[^6] Az (1) bekezdés c) pontjában foglaltaktól eltérően az e rendelet hatálybalépése előtt tett egyszerű bejelentéssel épített új lakóépület használatbavételi eljárásában az építésügyi hatóság a használatbavételi eljárás iránti kérelem benyújtásának időpontjában hatályos általános építésügyi követelményeknek, valamint helyi építési szabályzatnak való megfelelést is vizsgálja, ha az az építtető számára kedvezőbb. Ha az új lakóépület a használatbavételi eljárás iránti kérelem benyújtásának időpontjában hatályos általános építésügyi követelményeknek vagy a helyi építési szabályzatnak sem felel meg, az építésügyi hatóság a használatbavételi engedély megadását vagy a használatbavétel tudomásulvételét megtagadja.
+(1a)[^5] Az (1) bekezdés c) pontjában foglaltaktól eltérően az e rendelet hatálybalépése előtt tett egyszerű bejelentéssel épített új lakóépület használatbavételi eljárásában az építésügyi hatóság a használatbavételi eljárás iránti kérelem benyújtásának időpontjában hatályos általános építésügyi követelményeknek, valamint helyi építési szabályzatnak való megfelelést is vizsgálja, ha az az építtető számára kedvezőbb. Ha az új lakóépület a használatbavételi eljárás iránti kérelem benyújtásának időpontjában hatályos általános építésügyi követelményeknek vagy a helyi építési szabályzatnak sem felel meg, az építésügyi hatóság a használatbavételi engedély megadását vagy a használatbavétel tudomásulvételét megtagadja.
 
 (2) E rendelet hatálybalépése előtt, saját lakhatás biztosítása céljából megtett egyszerű bejelentés alapján, építési napló vezetése nélkül végzett építési tevékenység esetén
 
@@ -34,5 +34,5 @@ ca) az Épkiv. 14. §-a szerinti nyilatkozat az a) pont aa) és ab) alpontja sze
 
 cb) az építési engedélyhez vagy egyszerű bejelentéshez nem kötött eltérést ábrázoló megvalósulási dokumentáció az a) pont ac) alpontjában foglaltak szerint nem áll rendelkezésre.
 
-[^5]: A 63. § (1) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 39. §-ával megállapított szöveg.
-[^6]: A 63. § (1a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 39. §-a iktatta be.
+[^4]: A 63. § (1) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^5]: A 63. § (1a) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 39. §-a iktatta be.
