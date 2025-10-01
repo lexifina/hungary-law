@@ -1,4 +1,4 @@
-1. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^6]
+1. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^7]
 
 Az adatszolgáltatás részletes adattartalma
 
@@ -103,6 +103,10 @@ Az adatszolgáltatás részletes adattartalma
 | 34. | A garancia hitelhelyettesítő-e? |
 
 | 35. | Tőketörlesztés típusa |
+
+| 36. | A keret rulírozó-e? |
+
+| 37. | A keret feltétel nélkül megszüntethető-e? |
 
 4. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
@@ -528,7 +532,17 @@ Az adatszolgáltatás részletes adattartalma
 
 | 210. | A környezeti célkitűzéshez igazodó kitettség igazodási aránya |
 
-5. INSTM Instrumentum – megszűnés
+| 211. | A keret rulírozó-e? |
+
+| 212. | A keret feltétel nélkül megszüntethető-e? |
+
+| 213. | Referenciakamat-szorzó |
+
+| 214. | Referenciakamat-késleltetés |
+
+| 215. | Referenciakamat-átlag |
+
+| 5. INSTM Instrumentum – megszűnés |  |
 
 | Attribútum sorszáma | Attribútum megnevezése |
 
@@ -567,6 +581,46 @@ Az adatszolgáltatás részletes adattartalma
 | 17. | Halmozott leírások összege – devizanem (megszűnéskor) |
 
 | 18. | Az instrumentum túlfizetéssel szűnt-e meg? |
+
+| 19. | Átvevő külföldi vállalkozás adószáma |
+
+| 20. | Átvevő külföldi vállalkozás cégjegyzékszáma |
+
+| 21. | Átvevő külföldi vállalkozás LEI-kódja |
+
+| 22. | Átvevő külföldi vállalkozás egyéb azonosítója |
+
+| 23. | Átvevő külföldi vállalkozás megnevezése |
+
+| 24. | Átvevő külföldi vállalkozás székhelye: irányítószám |
+
+| 25. | Átvevő külföldi vállalkozás székhelye: település |
+
+| 26. | Átvevő külföldi vállalkozás székhelye: közterület megnevezése |
+
+| 27. | Átvevő külföldi vállalkozás székhelye: közterület jellege |
+
+| 28. | Átvevő külföldi vállalkozás székhelye: házszám |
+
+| 29. | Átvevő külföldi vállalkozás székhelye: lépcsőház, emelet, ajtó |
+
+| 30. | Átvevő külföldi vállalkozás székhelye: helyrajzi szám |
+
+| 31. | Az átvevő külföldi vállalkozás az adatszolgáltatónál nyilvántartott ügyfélcsoporthoz tartozik-e? |
+
+| 32. | Ügyfélcsoport azonosító |
+
+| 33. | Értékesített tőkekövetelés összege |
+
+| 34. | Értékesített tőkekövetelés devizaneme |
+
+| 35. | Értékesített teljes követelés összege |
+
+| 36. | Értékesített teljes követelés devizaneme |
+
+| 37. | Követelésvásárlás fizetési módja |
+
+| 38. | Átruházott követelés mögötti biztosíték fedezeti értéke |
 
 6. INSTN Instrumentum – felügyeleti adatok
 
@@ -738,6 +792,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 28. | Projekt tárgyát képező ingatlan készültségi foka |
 
+| 29. | Szén-dioxid-kibocsátás (kg/m2/év) – eredeti |
+
 9. FEDA Fedezet – aktuális
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -789,6 +845,8 @@ Az adatszolgáltatás részletes adattartalma
 | 23. | Projekt tárgyát képező ingatlan készültségi foka |
 
 | 24. | Alkalmazott fedezeti szorzó |
+
+| 25. | Szén-dioxid-kibocsátás (kg/m2/év) – aktuális |
 
 10. INST_FED Instrumentum – fedezet
 
@@ -1314,6 +1372,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 44. | Nem pénzügyi kimutatás közzétételére köteles vállalkozás-e? |
 
+| 45. | A partner hitelintézet SWIFT-kódja |
+
 21. UGYFM Ügyfélminősítés
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -1524,4 +1584,4 @@ Az adatszolgáltatás részletes adattartalma
 
 | 27. | A vízi és tengeri erőforrások fenntartható használata és védelme – taxonómiához igazítható tevékenységek beruházási ráfordítása |
 
-[^6]: Az 1. melléklet a 46/2020. (XI. 20.)MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 46/2020. (XI. 20.)MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés a) pontja, a 25/2025. (VIII. 7.) MNB rendelet 3. § a) pontja szerint módosított szöveg.

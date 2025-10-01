@@ -1,4 +1,4 @@
-2. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^7]
+2. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^8]
 
 Kitöltési előírások
 
@@ -10,11 +10,11 @@ I. Általános rendelkezések
 
 1.2. Átstrukturálás: a nem teljesítő kitettségre és az átstrukturált követelésre vonatkozó prudenciális követelményekről szóló MNB rendelet alapján átstrukturáltnak minősülő hitel.
 
-1.3. Folyó faktoring ügylet: a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet 1. melléklet 2. pontjában meghatározott fogalom.
+1.3. Folyó faktoring ügylet: szerződés alapján az ügyféltől le nem jártan megvásárolt, megelőlegezett követelés.
 
-1.4. Folyószámlahitel: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet (a továbbiakban: alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet) 2. melléklet I. F. pontjában meghatározott fogalom.
+1.4. Folyószámlahitel: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. E. pontjában meghatározott fogalom.
 
-1.5. Hitelkeret: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. F. pontjában meghatározott fogalom.
+1.5. Hitelkeret: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. E. pontjában meghatározott fogalom.
 
 1.6. Instrumentum: a részletes hitelezési és hitelkockázati adatok gyűjtéséről szóló, 2016. május 18-i (EU) 2016/867 európai központi banki rendelet 1. cikk 23. pontja szerinti fogalom. Keretjellegű instrumentumnak az adott szerződés alapján nyíló igénybevételi lehetőség, míg nem keretjellegű instrumentumnak az azonos karakterekkel (kockázati, kamatozási sajátosságokkal) rendelkező, adott devizanemben meghatározható szerződésrész minősül.
 
@@ -30,15 +30,17 @@ I. Általános rendelkezések
 
 1.11. Nem speciális keretjellegű instrumentum: olyan keretinstrumentum, amely nem tartozik a speciális keretjellegű instrumentumok közé.
 
+1.11a. Repóügyletből eredő követelés: olyan ügylet, amely esetén annak megfordítására nem pusztán opció, hanem kötelezettség áll fenn, beleértve az értékpapírkölcsön-ügylethez kapcsolódó készpénzóvadék miatti követelést is.
+
 1.12. Speciális keretjellegű instrumentum: olyan keretinstrumentum, amelyből a szerződés alapján több, eltérő tulajdonsággal rendelkező instrumentum keletkezhet [pl. többdevizás (multicurrency), többcélú (multipurpose) és faktoring hitelkeretek], vagy amely esetén a keret nyílásakor az alaptulajdonságok (pl. kamatozás) még nem ismertek.
 
 1.12a. Taxonómia: a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet alapján létrehozott fenntartható befektetések előmozdítását célzó keret.
 
 1.13. Többcélú (multipurpose) hitel: olyan hitel, amelyben a hitelnyújtó lehetőséget nyújt az ügyfélnek arra, hogy a hitelt az általa megválasztott, a hitelszerződésben előzetesen meghatározott instrumentum típusokra (célokra) hívhassa le, ideértve a garanciát is. Ennek megfelelően a garancialehívási lehetőséget is tartalmazó hitelszerződés többcélú (multipurpose) hitelszerződésként jelentendő.
 
-1.14. Többdevizás (multicurrency) hitel: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. F. pontjában meghatározott fogalom.
+1.14. Többdevizás (multicurrency) hitel: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. E. pontjában meghatározott fogalom.
 
-1.15. Újratárgyalás: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. F. pontjában meghatározott fogalom.
+1.15. Újratárgyalás: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. E. pontjában meghatározott fogalom.
 
 1.16. Új ügyfél: azon ügyfél, aki, illetve amely az adott termék igénylésekor nem áll szerződéses viszonyban az adatszolgáltatóval. Nem minősül fennálló szerződéses viszonynak az, ha az ügyfél a hiteligénylés előtt három napon belül nyit betéti számlát az adatszolgáltatónál (jellemzően a hiteligényléshez kapcsolódóan, annak feltételeként).
 
@@ -50,63 +52,29 @@ I. Általános rendelkezések
 
 2. Szektormeghatározások
 
-Az adatszolgáltatásban a szervezet (partner, ügyfél) szektorának meghatározásakor – a jelen melléklet eltérő rendelkezése hiányában – az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. pontjában leírtaknak megfelelően kell eljárni.
+Az adatszolgáltatásban a szervezet (partner, ügyfél) szektorának meghatározásakor az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. pontjában leírtaknak megfelelően kell eljárni.
 
-3. Az ERA rendszer használatára vonatkozó általános előírások
+3. Az adatszolgáltatás ERA rendszeren keresztül történő beküldésére vonatkozó sajátos szabályok:
 
-3.1. Számítástechnikai környezetre vonatkozó feltételek
+3.1. Az adatszolgáltatást a hitelintézet és az ezen típusú EGT-fióktelep az ERA rendszer „HITREG” szolgáltatásán, az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás az ERA rendszer „HITREGPVOV” szolgáltatásán, az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás és az ezen típusú EGT-fióktelep az ERA rendszer „HITREGPV” szolgáltatásán keresztül teljesíti, amelyek használatához felhasználónév – jelszó vagy tanúsítvány alapú regisztráció szükséges.
 
-a) internet kapcsolat,
+3.2. Az adatszolgáltató az adatszolgáltatás feldolgozásáról ellenőrzési szakaszonként visszajelzést kap. Amennyiben az adatszolgáltatás adott szakasza sikeresen teljesítésre került, akkor az adatszolgáltató „Hibátlan”, az adatszolgáltatási szakasz hibás teljesítése esetén „Hibás” üzenetet kap.
 
-b) HTTPS protokollon keresztül kommunikálni képes webböngésző program,
+3.3. Az adatszolgáltatást az MNB akkor tekinti teljesítettnek, ha az adatszolgáltató elektronikus úton megküldött adatszolgáltatására vonatkozóan „Feldolgozva, az adatszolgáltatást az MNB teljesítettnek tekinti.” státuszról szóló üzenetet kap.
 
-c) e-mail-postafiók,
+3.4. Amennyiben az adatszolgáltató az adatszolgáltatás teljesítése után az abban szerepeltetett adatokat befolyásoló információk birtokába jut, adatszolgáltatását módosítja. Az adatszolgáltató az általa – számviteli politikájában vagy egyéb módon – meghatározott jelentős mértékű eltérés esetén a módosításról, valamint a módosítással érintett időszak tartamáról az MNB Statisztikai igazgatóságát előzetesen, elektronikus úton tájékoztatja (e-mail-cím: hitreg@mnb.hu).
 
-d) az ERA rendszerhez tartozó érvényes regisztráció.
+3.5. Amennyiben az adatszolgáltató a korábban teljesített adatszolgáltatását módosítani kívánja, akkor az adatszolgáltatás 1. mellékletben meghatározott teljes adattartalmát újra kell küldenie a módosított adatokkal.
 
-3.2. Regisztráció
+3.6. Az adatszolgáltató az adatszolgáltatás 1. melléklet szerinti bármely pontja szerinti adattartalom tekintetében jelezheti, hogy arra vonatkozóan nem rendelkezik adattal, ebben az esetben az adatszolgáltatás ezen részét „nemleges”-ként kell teljesítenie.
 
-Az ERA rendszer használatához történő, e rendelet 3. § (2) bekezdésében előírt regisztráció az MNB honlapján, az alábbi elérési útvonalon kezdeményezhető: https://era.mnb.hu/ERA.WEB/RegDb/Registration. A regisztráció részletes folyamatát az ERA rendszer felületén elérhető „Súgó” tartalmazza.
+3.7. Az adatszolgáltatás 1. melléklet egy-egy pontjába foglalt adattartalmát külön szöveges állományokban kell megjeleníteni és tömöríteni. Az adatszolgáltatás egyes részei, valamint a tömörített állományok elnevezésekor alkalmazandó szabályokat, valamint a jelentésfájlok szerkezetére vonatkozó részletes leírást a 3. melléklet 6. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
-3.3. Bejelentkezés
-
-Az ERA rendszerbe történő bejelentkezés felhasználónév és jelszó használata útján történik.
-
-A regisztráció során felhasználónévként kizárólag egyedi, más felhasználó által még nem regisztrált felhasználónév választható. Az ERA rendszer a felhasználónév egyediségét ellenőrzi. A felhasználónév megváltoztatásakor az új regisztrációra vonatkozó szabályok alkalmazandók.
-
-3.4. Az adatszolgáltatás ERA rendszeren keresztül történő beküldésére vonatkozó alapvető szabályok
-
-3.4.1. Az ERA rendszer „HITREG” szolgáltatásán keresztül az adatszolgáltató nevében kizárólag érvényes és jóváhagyott regisztrációval rendelkező személy (intézményi képviselő) jogosult adatszolgáltatást beküldeni.
-
-3.4.2. Az adatszolgáltató az ERA rendszerbe feltöltött adatszolgáltatásról a beérkezés időpontját, érkeztetési számát és a küldeményazonosító K-számát tartalmazó, automatikus „Beérkezett” üzenetet kap.
-
-3.4.3. Az adatszolgáltató az adatszolgáltatás feldolgozásáról ellenőrzési szakaszonként visszajelzést kap. Amennyiben az adatszolgáltatás adott szakasza sikeresen teljesítésre került, akkor az adatszolgáltató „Hibátlan”, az adatszolgáltatási szakasz hibás teljesítése esetén „Hibás” üzenetet kap.
-
-3.4.4. Az adatszolgáltatást az MNB akkor tekinti teljesítettnek, ha az adatszolgáltató elektronikus úton megküldött adatszolgáltatására vonatkozóan „Feldolgozva, az adatszolgáltatást az MNB teljesítettnek tekinti.” státuszról szóló üzenetet kapott.
-
-3.4.5. Amennyiben az adatszolgáltató az adatszolgáltatás teljesítése után az abban szerepeltetett adatokat befolyásoló információk birtokába jut, adatszolgáltatását módosítja. Az adatszolgáltató az általa – Számviteli politikájában vagy egyéb módon – meghatározott jelentős mértékű eltérés esetén a módosításról, valamint a módosítással érintett időszak tartamáról az MNB Statisztikai igazgatóságát előzetesen, elektronikus úton tájékoztatja (e-mail-cím: hitreg@mnb.hu).
-
-3.4.6. Amennyiben az adatszolgáltató a korábban teljesített adatszolgáltatását módosítani kívánja, akkor az adatszolgáltatás 1. mellékletben meghatározott teljes adattartalmát újra kell küldenie a módosított adatokkal.
-
-3.4.7. Az adatszolgáltató az adatszolgáltatás 1. melléklet szerinti bármely pontja szerinti adattartalom tekintetében jelezheti, hogy arra vonatkozóan nem rendelkezik adattal, ebben az esetben az adatszolgáltatás ezen részét „nemleges”-ként kell teljesítenie.
-
-3.4.8. Az adatszolgáltatás vonatkozási idejének jelzésére a következő dátumkódokat kell használni:
-
-|  | 20□□ □□ □□ | (év), 01–12 (hó), 28–31 (nap) |
-
-3.4.9. Az adatszolgáltatás 1. melléklet egy-egy pontjába foglalt adattartalmát külön szöveges állományokban kell megjeleníteni és tömöríteni. Az adatszolgáltatás egyes részei, valamint a tömörített állományok elnevezésekor alkalmazandó szabályokat, valamint a jelentésfájlok szerkezetére vonatkozó részletes leírást a 3. melléklet 4. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
-
-4. Megfigyelt partnerek szektora
-
-4.1. Amennyiben az – akár rezidens, akár nem rezidens – ügyfél adósi, adóstársi szerepkörben vesz részt az adott hitelügyletben, az adatszolgáltatásban az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. 2. pontjában felsorolt szektorokba tartozó ügyfelekre vonatkozó adatokat kell jelenteni, azzal, hogy a B) Központi bank szektorába sorolt MNB-re vonatkozó adatok nem jelentendők, hitelintézet adatszolgáltató esetén a C) Egyéb monetáris pénzügyi intézmények szektorába sorolt ügyfelek közül csak az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. A. 4. pontjában hivatkozott C6 alcsoportkód alá tartozó ügyfelekre vonatkozó adatok szerepeltetendők (kivéve azt az esetet, ha valamely MNB által biztosított eszköz igénybevételéhez előfeltétel a bankközi ügyletek szerepeltetése).
-
-Amennyiben az adatszolgáltatásban jelentendő hitelhez tartozó ügyfelek között van az előző bekezdés szerinti szektorba tartozó adós, adóstárs, akkor a hitelhez tartozó valamennyi adós, adóstárs jelentendő, függetlenül azok szektorától.
-
-4.2. A fedezetnyújtó szerepkörben lévő ügyfél tekintetében az ügyfél szektorára tekintet nélkül teljesítendő az adatszolgáltatás, a fedezetnyújtói szerepkörre vonatkozóan meghatározott szűkített adattartalommal.
+4.
 
 5. Az adatszolgáltatásban szerepeltetendő ügyletek
 
-5.1. Az adatszolgáltatásban hitelügyletként az adatszolgáltató által tartott olyan, hitelviszonyt megtestesítő, alapvetően visszafizetendő, pénzkölcsön nyújtásából vagy befektetési szolgáltatásból fakadó, hiteljellegű instrumentumok jelentendők, amelyek nem sorolhatók a különféle eszközoldali betétek vagy értékpapírok közé. Hitelügylet alatt értendő a faktoring és lízingügylet is. Az adatszolgáltatásban jelentendő továbbá a garancia, az egyéb mérlegen kívüli kötelezettségvállalás, valamint a folyószámlához köthető olyan tartozás, amelyhez nem tartozik hitelkeret-szerződés, csak betéti szerződés, ideértve az értékpapírszámlán megjelenő negatív egyenleget is.
+5.1. Az adatszolgáltatásban hitelügyletként az adatszolgáltató által tartott olyan, hitelviszonyt megtestesítő, alapvetően visszafizetendő, pénzkölcsön nyújtásából vagy befektetési szolgáltatásból fakadó, hiteljellegű instrumentumok jelentendők, amelyek nem sorolhatók a különféle eszközoldali betétek vagy értékpapírok közé. Hitelügylet alatt értendő a faktoring, a repóügyletből eredő követelés és a lízingügylet is. Az adatszolgáltatásban hitel jellegű követelésként jelentendő a garancia, az egyéb mérlegen kívüli kötelezettségvállalás, a folyószámlához köthető olyan tartozás, amelyhez nem tartozik hitelkeret-szerződés, csak betéti szerződés – ideértve az értékpapírszámlán megjelenő negatív egyenleget is –, valamint az eszközoldali betét.
 
 5.2. Az adatok tartalmára, értékelésére vonatkozóan – e rendelet eltérő rendelkezése hiányában – azon adatszolgáltató számára, amely
 
@@ -178,7 +146,7 @@ A nem keretjellegű instrumentumok az INSTR kódú adatkörben jelentendők.
 
 2.3. Átvétel esetén a hitel azzal a nappal kerül be az adatszolgáltatásba, amikor a hitellel kapcsolatos kockázatok a szerződés szerint átkerülnek az adatszolgáltatóhoz, vagyis amikor a kitettséget az adatszolgáltató mutatja ki.
 
-2.4. A hitelekkel kapcsolatos eseményeknél (hitelnyújtás, átvétel) jelentési kötelezettség annak a hónapnak a végén keletkezik, amikor az instrumentum ténylegesen létrejött (pl. folyószámlahitel esetén a folyószámlát megnyitotta az adatszolgáltató).
+2.4. Az instrumentumokkal kapcsolatos eseményeknél (pl. hitelnyújtás, átvétel, betételhelyezés, garanciakeret megnyitása) jelentési kötelezettség annak a hónapnak a végén keletkezik, amikor az instrumentum ténylegesen létrejött (pl. folyószámlahitel esetén a folyószámlát megnyitotta az adatszolgáltató).
 
 2.5. Többdevizás (multicurrency) hitelek esetében a speciális keretjellegű instrumentumnál jelezni kell, hogy többdevizás (multicurrency) hitelről van szó. Többdevizás (multicurrency) hitelek esetében az eltérő tulajdonságokkal rendelkező lehívások külön, nem keretjellegű instrumentumként jelentendők.
 
@@ -240,7 +208,7 @@ az INST_FED kódú adatkörben nem jelentendő összerendelés. Ha a fedezet má
 
 9.2. Tranzakcióként a ténylegesen bekövetkezett esemény jelentendő, a folyósítási, törlesztési tervet nem kell jelenteni.
 
-9.3. A FOLY és TORL kódú adatkörben a folyószámlahitellel, kártyahitellel kapcsolatos folyósítást és törlesztést nem kell jelenteni, kivéve, ha ezen hitel problémássá (pl. késedelmessé vagy nem teljesítővé) válik. Ezekben az esetekben a hitellel kapcsolatos megtérülési eseményeket jelenteni kell a TORL kódú adatkörben.
+9.3. A FOLY és TORL kódú adatkörben a folyószámlahitellel, kártyahitellel, eszközoldali betéttel kapcsolatos folyósítást és törlesztést nem kell jelenteni, kivéve, ha ezen hitel problémássá (pl. késedelmessé vagy nem teljesítővé) válik. Ezekben az esetekben a hitellel kapcsolatos megtérülési eseményeket jelenteni kell a TORL kódú adatkörben.
 
 9.4. Az összes, az adatszolgáltató rendszerében folyósításként és törlesztésként nyilvántartott adatot jelenteni kell, azonban jelölni kell, ha nem tényleges tranzakció okozza a törlesztést, folyósítást, hanem technikai okok (pl. az újratárgyalás a rendszerben törlesztésként és újbóli folyósításként van nyilvántartva).
 
@@ -338,7 +306,7 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 28–30., 33., 35. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 23., 24., 27–30., 33–35., 40. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 23., 24., 27–30., 33–35., 40., 45. sorszámú attribútumra vonatkozó mező.
 
 12.15. UGYFM Ügyfélminősítés
 
@@ -358,4 +326,4 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 13. Az adatszolgáltatáshoz használandó kódokat, illetve a kitöltést segítő módszertani útmutatást a 3. melléklet 2., illetve 3. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza. Az adatszolgáltatás hibátlan beküldését elősegítő ellenőrzési szabályokat a 3. melléklet 5. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
-[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés b) pontja, a 25/2025. (VIII. 7.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
