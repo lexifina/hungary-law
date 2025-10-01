@@ -1,0 +1,1 @@
+5. § A kincstár zárt, biztonságos elektronikus nyilvántartásban átadhatja a beutalással érintett önkormányzat és költségvetési szerve írásos rendelkezése alapján a kincstári számlán és a kincstári értékpapírszámlán lévő eszközökre vonatkozó információkat a beutalással érintett önkormányzat és költségvetési szerve fizetési számláját vezető belföldi hitelintézet számára.

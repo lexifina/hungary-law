@@ -1,0 +1,3 @@
+2. § (1) A beutalással érintett önkormányzat írásban tájékoztatja a kincstárt az Áht. 84. § (1c) bekezdése szerinti kincstári határozatban szereplő limitérték összegének az önkormányzat és költségvetési szerveinek számlái közötti megosztásáról, a belföldi hitelintézet felé történő tájékoztatást követő legfeljebb három napon belül.
+
+(2) Ha a beutalással érintett önkormányzat és költségvetési szerve az Áht. 84. § (1c) bekezdése szerint módosította a limitérték megosztását a számlái között, akkor a limitérték új, számlák közötti megosztásáról a beutalással érintett önkormányzat és költségvetési szerve fizetési számláját vezető belföldi hitelintézet 5 munkanapon belül írásban tájékoztatja a kincstárt.

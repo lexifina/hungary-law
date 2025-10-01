@@ -1,0 +1,1 @@
+6. § A belföldi hitelintézetnél és a kincstárnál vezetett fizetési számlák között az Áht. 84. § (1e) bekezdése szerinti technikai fizetési számla közbeiktatásával történő pénzmozgás számviteli elszámolását a beutalással érintett önkormányzatnak és a költségvetési szervének az érintett számlák között közvetlenül, a technikai fizetési számla nélkül kell végrehajtania.
