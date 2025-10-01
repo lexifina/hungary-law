@@ -1,7 +1,3 @@
-15. § A Dápvhr.
+15. §[^15]
 
-a) 51. § (1) bekezdés nyitó szövegrészében a „dap.gov.hu honlapon” szövegrész helyébe a „honlapján” szöveg,
-
-b) 53. § (5) bekezdésében az „a dap.gov.hu-n” szövegrész helyébe az „az 51. § (1) bekezdése szerinti honlapon” szöveg
-
-lép.
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-21. §[^14]
+21. §[^21]
 
-[^14]: A 21. § a 22. § (3) bekezdése alapján 2025. december 1-jén lép hatályba.
+[^21]: A 21. § a 22. § (3) bekezdése alapján 2025. december 1-jén lép hatályba.

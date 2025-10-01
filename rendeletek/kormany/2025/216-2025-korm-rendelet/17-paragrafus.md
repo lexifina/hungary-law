@@ -1,3 +1,3 @@
-17. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 43. § (5) bekezdése helyébe a következő rendelkezés lép:
+17. §[^17]
 
-„(5) A költségvetési szervnek, köztestületnek, nonprofit szervezetnek vagy helyi önkormányzatnak minősülő együttműködő szervek, a köznevelési intézmények és fenntartóik, a Magyar Bírósági Végrehajtói Kar, a nemzetiségi önkormányzatok, valamint a költségvetési szervnek minősülő, adószámmal nem rendelkező gazdálkodó szervezetek, továbbá a közjegyzők és az önálló bírósági végrehajtók számára a hivatali tárhely létesítése és fenntartása díjmentes.”
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

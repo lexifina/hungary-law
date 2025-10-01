@@ -1,5 +1,3 @@
-19. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet XIX. Fejezete a következő 138/A. §-sal egészül ki:
+19. §[^19]
 
-„138/A. § (1) A címképzésért felelős szerv – szükség szerint a közreműködő szerv igénybevételével – felülvizsgálja az illetékességi területén található, a központi címregiszter kialakításához szükséges adatellenőrzési feladatokról szóló 216/2014. (VIII. 28.) Korm. rendeletben foglaltak alapján elvégzett adatellenőrzés során „felülvizsgálandó” megjelöléssel ellátott címek megfelelését e rendelet előírásainak, és szükség esetén az érintett ingatlanok vonatkozásában a címkezelést lefolytatja. A címképzésért felelős szerv szükség esetén egyeztet az ingatlan azonosítása céljából az illetékes ingatlanügyi hatósággal az erre a célra rendszeresített elektronikus alkalmazás útján.
-
-(2) Az (1) bekezdésben meghatározott felülvizsgálathoz a központi címregiszter működtetéséért felelős szerv a címképzésért felelős szerv részére erre a célra rendszeresített elektronikus úton biztosítja a címadatokat és a helyrajzi számot.”
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
