@@ -10,10 +10,10 @@
 
 (5) Az orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat befejezésének bejelentésére az MDR 77. cikk (4) és (5) bekezdésében, az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat befejezésének bejelentésére az IVDR 73. cikk (4) és (5) bekezdésében foglaltakat kell alkalmazni.
 
-(6)[^81] Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) az (5) bekezdésben említett vizsgálatok hozzá benyújtott jelentésének másolatait szakmai-etikai értékelésre megküldi az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottság (a továbbiakban: ETT TUKEB) részére.
+(6)[^81] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) az (5) bekezdésben említett vizsgálatok hozzá benyújtott jelentésének másolatait szakmai-etikai értékelésre megküldi az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottság (a továbbiakban: ETT TUKEB) részére.
 
 (7) Az (5) bekezdésben említett vizsgálatok esetében az ETT TUKEB által sikertelennek értékelt vizsgálat nem hivatkozható, nem publikálható.
 
 [^79]: A 20/N. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 13. §-ával megállapított szöveg.
 [^80]: A 20/O. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 14. §-ával megállapított szöveg.
-[^81]: [A 20/O. § (6) bekezdésében a 28/2023. (VIII. 10.) BM rendelet 12. § (2) bekezdés a) pontja által elrendelt módosítás, amely szerint az „az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI)” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK)” szöveg lép, nem vezethető át.]
+[^81]: A 20/O. § (6) bekezdése a 41/2025. (IX. 29.) BM rendelet 3. §-a szerint módosított szöveg.
