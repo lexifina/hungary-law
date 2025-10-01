@@ -1,4 +1,4 @@
-19/E. § (1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető.
+19/E. § (1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető. Közvetlen hozzáférés esetén igazgatási szolgáltatási díj megfizetése mellett kérhető tájékoztatás.
 
 (2) Az (1) bekezdésben meghatározott kérelem benyújtására elektronikus azonosítási szolgáltatás használata nélkül kizárólag elektronikus úton egyedi informatikai alkalmazás igénybevételével
 

@@ -20,7 +20,7 @@ f) természetes személyazonosító adatok, valamint a lakcím adatok;
 
 g) elhalálozás ténye, helye és ideje.
 
-h) a 24/I. § szerinti adatok.
+h)
 
 (3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat – a 2. § (5) bekezdésében foglalt feltételekkel – statisztikai célból felhasználhatják, és azokat nyilvánosságra hozhatják, valamint statisztikai adatszolgáltatást végezhetnek.
 

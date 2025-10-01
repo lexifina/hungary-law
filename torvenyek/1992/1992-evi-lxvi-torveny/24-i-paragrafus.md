@@ -1,1 +1,1 @@
-24/I. § A nyilvántartást kezelő szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás során a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény szerinti szolgáltató automatikus információátadásra vonatkozó jelzésére a polgár 11. § (1) bekezdés h) pontja szerinti adatát, állampolgárságát, a személyazonosító igazolványának okmányazonosítóját, aláírását, valamint arcképmását átadja.
+### 24/I. §
