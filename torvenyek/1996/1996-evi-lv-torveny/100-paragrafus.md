@@ -24,7 +24,7 @@ c) rendeletben szabályozza
 
 4. a vadjelölési szabályokat,
 
-5.a vadászati napló és teríték-nyilvántartás vezetésének szabályait, valamint a vadászati napló és teríték-nyilvántartás személyes adatnak nem minősülő adattartalmát,
+5.a vadászati napló és teríték-nyilvántartás vezetésére, valamint a vadászati hatóság ezzel kapcsolatos nyilvántartási feladataira vonatkozó követelményeket, a vadászati napló és teríték-nyilvántartás személyes adatnak nem minősülő adattartalmát, továbbá az elektronikus vadászati napló és teríték-nyilvántartás használatának bejelentésére és működésére vonatkozó követelményeket,
 
 6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, valamint érvénytelenítésére vonatkozó szabályokat,
 
@@ -93,6 +93,8 @@ c) rendeletben szabályozza
 38. a lőfegyverre szerelt hangtompító eszköz vadászat során történő használatának részletes szabályait.
 
 39. a fokozottan vadkárveszélyes területekre, valamint a nagy értékű növénykultúrákra vonatkozó szabályokat,
+
+40. az elektronikus vadászati napló és teríték-nyilvántartásból történő adatszolgáltatásra vonatkozó szabályokat.
 
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 

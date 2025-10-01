@@ -54,6 +54,8 @@ f) a 74/A. § (2) bekezdésben meghatározott korlátozást megszegi;
 
 g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat engedély nélkül vagy az engedélyben foglaltaktól eltérően tart zárt térben, vadat vadászterületek között engedély nélkül szállít vagy vadat vadászterületre engedély nélkül helyez ki.
 
+h) az elektronikus vadászati napló és teríték-nyilvántartás használata esetén a vadászati hatóság felé történő bejelentési kötelezettségének nem tesz eleget.
+
 (5)
 
 (6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít vagy tart fenn a vad mozgását befolyásoló, tartós telepítésű kerítést.
