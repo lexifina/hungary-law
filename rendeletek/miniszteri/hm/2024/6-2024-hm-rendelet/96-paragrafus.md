@@ -14,6 +14,12 @@ d) a gyermeket gondozó vér szerinti apának, ha a szülő nő meghal, az elhal
 
 e) annak a férfinak, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, ha a gyermeket vele együtt örökbe fogadni szándékozó nő az egészségügyi szolgáltató által igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
 
-f) annak a férfinak, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, ha a gyermeket örökbe fogadni szándékozó nő meghal, az elhalálozás napjától, és
+f)[^4] annak a férfinak, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, ha a gyermeket örökbe fogadni szándékozó nő meghal, az elhalálozás napjától,
 
-g) annak a férfinak, aki a gyermeket egyedül vette örökbefogadási szándékkal nevelésbe, a gondozásba vétel napjától.
+g)[^5] annak a férfinak, aki a gyermeket egyedül vette örökbefogadási szándékkal nevelésbe, a gondozásba vétel napjától, és
+
+h)[^6] a csecsemőt gondozó vér szerinti apának, ha a gyermeket szülő nő szülői felügyeleti joga megszűnt.
+
+[^4]: A 96. § (2) bekezdés f) pontja a 10/2025. (IX. 5.) HM rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 96. § (2) bekezdés g) pontja a 10/2025. (IX. 5.) HM rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: A 96. § (2) bekezdés h) pontját a 10/2025. (IX. 5.) HM rendelet 1. §-a iktatta be.
