@@ -1,6 +1,6 @@
-9. §[^203] (1)[^204] A Gyftv. 32. § (4) bekezdése szerinti eljárást követően a támogatásba befogadott gyógyászati segédeszköz esetében a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben foglalt adatokat a forgalomba hozó a támogatás kezdőnapját követő 30 napon belül elektronikus úton a NEAK rendelkezésére bocsátja.
+9. §[^210] (1)[^211] A Gyftv. 32. § (4) bekezdése szerinti eljárást követően a támogatásba befogadott gyógyászati segédeszköz esetében a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben foglalt adatokat a forgalomba hozó a támogatás kezdőnapját követő 30 napon belül elektronikus úton a NEAK rendelkezésére bocsátja.
 
 (2) A Gyftv. 21/A. § (3) bekezdése szerinti bírság összege eszközönként 100 ezer forint.
 
-[^203]: A Vhr. 9. §-át a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte, újonnan a 325/2011. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
-[^204]: A Vhr. 9. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 19. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^210]: A Vhr. 9. §-át a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte, újonnan a 325/2011. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^211]: A Vhr. 9. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 19. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.

@@ -1,13 +1,13 @@
-## Nem magyar biztosított beteg ellátása közfinanszírozott kapacitásokon[^121]
+## Nem magyar biztosított beteg ellátása közfinanszírozott kapacitásokon[^126]
 
-5/C. §[^122] (1) Az egészségügyi szolgáltató a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján arra jogosult beteg vagy képviselője általi kezdeményezésre tervezett egészségügyi ellátást biztosíthat a közfinanszírozott kapacitásán, ha
+5/C. §[^127] (1) Az egészségügyi szolgáltató a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján arra jogosult beteg vagy képviselője általi kezdeményezésre tervezett egészségügyi ellátást biztosíthat a közfinanszírozott kapacitásán, ha
 
 a) az ellátást a várólista alapján nyújtható ellátások részletes szabályairól szóló kormányrendeletnek megfelelő feltételek alapján biztosítani tudja, és
 
 b) az ellátás elvégzését az érintett beteg számára az ellátás tervezett időpontjának közlésével, valamint fekvőbeteg-szakellátás esetén a betegnek az Ebtv. 20/A. § (5) bekezdése szerinti várólista azonosítója, járóbeteg-szakellátás esetén a betegfogadási azonosítója közlésével igazoltan vállalja.
 
-(2)[^123] Az egészségügyi szolgáltató az (1) bekezdés szerinti ellátásról az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglaltaknak megfelelő tájékoztató jelentést küld a NEAK részére.
+(2)[^128] Az egészségügyi szolgáltató az (1) bekezdés szerinti ellátásról az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglaltaknak megfelelő tájékoztató jelentést küld a NEAK részére.
 
-[^121]: A Vhr. 5/C. §-át megelőző alcímet újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
-[^122]: A Vhr. 5/C. §-át újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
-[^123]: A Vhr. 5/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^126]: A Vhr. 5/C. §-át megelőző alcímet újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
+[^127]: A Vhr. 5/C. §-át újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
+[^128]: A Vhr. 5/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.

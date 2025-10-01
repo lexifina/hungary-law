@@ -1,4 +1,4 @@
-11/G. §[^297] (1) Az Ebtv. 26/D. § (6) bekezdése szerinti elszámoló szervezetnek a Batthyány-Strattmann László Alapítvány A Gyógyításért alapítvány (a továbbiakban: Alapítvány) által nyújtott támogatások rendszeres kifizetéséhez, elszámolásához és ellenőrzéséhez gyógyszertárakkal, más egészségügyi szolgáltatókkal szerződéses kapcsolatokkal, valamint átlátható kifizetési és elszámolási rendszerekkel kell rendelkeznie.
+11/G. §[^306] (1) Az Ebtv. 26/D. § (6) bekezdése szerinti elszámoló szervezetnek a Batthyány-Strattmann László Alapítvány A Gyógyításért alapítvány (a továbbiakban: Alapítvány) által nyújtott támogatások rendszeres kifizetéséhez, elszámolásához és ellenőrzéséhez gyógyszertárakkal, más egészségügyi szolgáltatókkal szerződéses kapcsolatokkal, valamint átlátható kifizetési és elszámolási rendszerekkel kell rendelkeznie.
 
 (2) Elszámoló szervezet igénybevétele esetén az Alapítvány a biztosított számára megítélt támogatásról az okirat megküldésével értesíti
 
@@ -12,4 +12,4 @@ c) az okiratban foglaltak végrehajtásában érintett, a biztosított által me
 
 (4) Az Alapítvány – az elszámoló szervezet által a részére átadott – (3) bekezdés szerinti elszámolások alapján téríti meg az elszámoló szervezetnek a támogatást.
 
-[^297]: A Vhr. 11/G. §-át a 2/2025. (I. 23.) Korm. rendelet 1. §-a iktatta be.
+[^306]: A Vhr. 11/G. §-át a 2/2025. (I. 23.) Korm. rendelet 1. §-a iktatta be.

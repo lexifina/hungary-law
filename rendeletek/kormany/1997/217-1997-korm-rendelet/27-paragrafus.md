@@ -2,7 +2,7 @@
 
 ## (Az Ebtv. 44–48. §-ához)
 
-27. § (1)[^472] A gyermekápolási táppénz iránti kérelem elbírálása tekintetében egyedülállónak minősül
+27. § (1)[^481] A gyermekápolási táppénz iránti kérelem elbírálása tekintetében egyedülállónak minősül
 
 a) az, aki hajadon, nőtlen, özvegy,
 
@@ -12,17 +12,17 @@ c) a házasság felbontása nélkül a házastársától külön élő azon szü
 
 kivéve, ha élettársa van.
 
-(1a)[^473] Közös szülői felügyeleti jogot gyakorló elvált szülők egybehangzó nyilatkozata alapján az Ebtv. 46. § (1) bekezdés c)–e) pontja alkalmazása szempontjából – a közös gyermeküknek a válást követő születésnapjától – a nyilatkozatuk szerinti szülőt kell egyedülállónak tekinteni.
+(1a)[^482] Közös szülői felügyeleti jogot gyakorló elvált szülők egybehangzó nyilatkozata alapján az Ebtv. 46. § (1) bekezdés c)–e) pontja alkalmazása szempontjából – a közös gyermeküknek a válást követő születésnapjától – a nyilatkozatuk szerinti szülőt kell egyedülállónak tekinteni.
 
 (2) Az egyedülállóság szempontjából különélőnek kell tekinteni azt is, aki házastársával ugyanabban a lakásban lakik, ha a házasság felbontása iránt bírói eljárás van folyamatban.
 
 (3) Egyedülállónak kell tekinteni továbbá,
 
-a)[^474]
+a)[^483]
 
 b) azokat a házastársakat, akik a vakok személyi járadékában részesülnek, vagy arra egyébként jogosultak,
 
-c)[^475] akinek a házastársa
+c)[^484] akinek a házastársa
 
 ca) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
 
@@ -36,7 +36,7 @@ ce) előzetes letartóztatásban van, szabadságvesztés büntetését tölti.
 
 (4) A (3) bekezdés rendelkezéseit megfelelően alkalmazni kell az élettársakra is.
 
-[^472]: A Vhr. 27. § (1) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^473]: A Vhr. 27. § (1a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^474]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
-[^475]: A 27. § (3) bekezdés c) pontja a 137/2012. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^481]: A Vhr. 27. § (1) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^482]: A Vhr. 27. § (1a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^483]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^484]: A 27. § (3) bekezdés c) pontja a 137/2012. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

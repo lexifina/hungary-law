@@ -1,3 +1,3 @@
-4/B. §[^112]
+4/B. §[^117]
 
-[^112]: A Vhr. 4/B. §-át a 413/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be, a 42/2024. (II. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^117]: A Vhr. 4/B. §-át a 413/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be, a 42/2024. (II. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.

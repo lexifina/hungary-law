@@ -1,4 +1,4 @@
-1. melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^696]
+1. melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^705]
 
 ## A) Az Egészségbiztosítási Alapból folyósított pénzeszközök felhasználásának pénzügyi ellenőrzése során figyelembe vehető bevételek és kiadások háziorvosi, házi gyermekorvosi vállalkozások esetében
 
@@ -298,4 +298,4 @@ II. KIADÁSOK
 
 15. Egyéb, az 1–14. pontban nem nevesített kiadások
 
-[^696]: A Vhr. 1. számú mellékletét a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének h) pontja hatályon kívül helyezte, újonnan a 204/2016. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^705]: A Vhr. 1. számú mellékletét a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének h) pontja hatályon kívül helyezte, újonnan a 204/2016. (VII. 21.) Korm. rendelet 2. §-a iktatta be.

@@ -1,3 +1,3 @@
-26/B. §[^467] A gyermekgondozási díj legmagasabb naptári napi összegét az Ebtv. 42/D. § (1) bekezdésében, illetve 42/E. § (5) és (6) bekezdésében meghatározott összeg harmincad részében kell megállapítani.
+26/B. §[^476] A gyermekgondozási díj legmagasabb naptári napi összegét az Ebtv. 42/D. § (1) bekezdésében, illetve 42/E. § (5) és (6) bekezdésében meghatározott összeg harmincad részében kell megállapítani.
 
-[^467]: A Vhr. 26/B. §-át a 203/1999. (XII. 26.) Korm. rendelet 6. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^476]: A Vhr. 26/B. §-át a 203/1999. (XII. 26.) Korm. rendelet 6. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -76,7 +76,7 @@ n)[^62] a külpolitikáért felelős miniszter által vezetett minisztérium fog
 
 (5) A társadalombiztosítási ellátásra, a külön jogszabályban meghatározott szociális juttatásra vagy kedvezményre való jogosultság megállapítása céljából a biztosított orvosi beutaló nélkül jogosult felkeresni a vonatkozó jogszabály szerint a szakvélemény (igazolás) elkészítésére jogosult egészségügyi szolgáltatót.
 
-(6)[^65] A szakellátásra beutalt biztosított ismételt orvosi beutalás nélkül jogosult igénybe venni a járóbeteg-szakellátást, ha annak keretében ismételt ellátása orvosszakmai szempontból indokolt. Az ismételt ellátás indokoltságát a járóbeteg-szakellátás orvosa rögzíti a biztosított egészségügyi dokumentációjában, és erről írásban tájékoztatja a biztosítottat, azzal, hogy ez nem érinti az ellátás beutaló nélkül történő igénybevételének jogosultságát.
+(6)[^65] Az (1) bekezdés b) pontjában foglaltakat is figyelembe véve, ha a beutaló-köteles járóbeteg-szakellátás keretében a biztosított ismételt ellátása, ideértve a kontrollvizsgálatot is (a továbbiakban: visszarendelés) orvosszakmai szempontból indokolt, a visszarendeléshez a járóbeteg-szakellátás orvosa részéről új beutaló kiállítása szükséges, kivéve, ha a visszarendeléssel érintett ellátás során közvetlen orvosi közreműködés nem szükséges.
 
 (7)[^66]
 
@@ -106,7 +106,7 @@ n)[^62] a külpolitikáért felelős miniszter által vezetett minisztérium fog
 [^62]: A Vhr. 2. § (2) bekezdés n) pontját a 223/2017. (VIII. 11.) Korm. rendelet 50. §-a iktatta be.
 [^63]: A Vhr. 2. §-ának (3) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte, újonnan a 319/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^64]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^65]: A Vhr. 2. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^65]: A Vhr. 2. § (6) bekezdése a 288/2025. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^66]: A Vhr. 2. §-ának (7) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
 [^67]: A Vhr. 2. §-ának (8) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be.
 [^68]: A Vhr. 2. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
