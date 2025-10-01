@@ -24,6 +24,8 @@ j) hitel-betét műveleteket végez,
 
 k) közreműködik az állami kezesség, garancia melletti hitel- és kölcsönfelvétellel, hitelviszonyt megtestesítő értékpapír kibocsátással kapcsolatos feladatok ellátásában.
 
+l) az a) pont szerinti tevékenysége keretében, a helyi önkormányzatok befektetési lehetőségeinek biztosítása érdekében, piaci kamatokhoz illeszkedő, kizárólag a helyi önkormányzatok részére kibocsátásra kerülő állampapír forgalomba hozatalát szervezi.
+
 (2) Az ÁKK Zrt. az (1) bekezdés i) pontja szerinti közreműködésért a központi költségvetés terhére az alapügyben szereplő tőke összege legfeljebb 0,025 százalékának megfelelő díjazásban részesül. Az ÁKK Zrt. e feladatának és díjazásának részletes szabályait a Kormány rendeletben határozza meg.
 
 (3) Az ÁKK Zrt. a 12. § (5) bekezdésében meghatározott értékpapírszámla elkülönített alszámláin – forgalomba hozatal és mögöttes pénzkövetelés nélkül – olyan hitelviszonyt megtestesítő értékpapír-állományt hozhat létre, amely az (1) bekezdés f) pontja szerinti ügyletek tárgya lehet.
