@@ -1,13 +1,3 @@
 ## 8. Az Egészségbiztosítási Alappal összefüggő rendelkezések
 
-14. § (1) A Kormány a LXXII. Egészségbiztosítási Alap fejezetben kizárólag
-
-a) a 2. cím, 7. Gyógyító-megelőző ellátás alcím, a 10. Gyógyszertámogatás alcím és a 11. Gyógyászati segédeszköz támogatás alcím között és
-
-b) a 2. cím, 7. Gyógyító-megelőző ellátás alcím, 12. Gyógyító-megelőző ellátás céltartalék jogcímcsoportról az alcím 1–9. jogcímcsoportjára, 10. jogcímcsoport jogcímeire és 14. jogcímcsoportjára
-
-csoportosíthat át.
-
-(2) A Kormány a LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 7. Gyógyító-megelőző ellátás alcím 1–9. jogcímcsoportja, 10. jogcímcsoport jogcímei és 14. jogcímcsoportja, 10. Gyógyszertámogatás alcím 1. Gyógyszertámogatás kiadásai jogcímcsoport, valamint 11. Gyógyászati segédeszköz támogatás alcím előirányzatait megemelheti.
-
-(3) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 7. alcím, 10. Összevont szakellátás jogcímcsoport, 3. Többletkapacitás befogadás fedezete jogcím előirányzatát a Kormány módosíthatja az (1) bekezdés b) pontja szerinti átcsoportosítással vagy a (2) bekezdés szerinti előirányzat-emeléssel.
+### 14. §

@@ -1,3 +1,1 @@
-18. § (1) A LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai címen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén táppénz, csecsemőgondozási díj és gyermekgondozási díj megállapítására együttesen 250,0 millió forint, rokkantsági, rehabilitációs ellátás megállapítására 290,0 millió forint, gyógyító-megelőző ellátásra 6833,4 millió forint, gyógyszertámogatásra 24 000,0 millió forint, gyógyászati segédeszköz támogatásra 3200,0 millió forint használható fel.
-
-(2) Az (1) bekezdésben a gyógyító-megelőző ellátásra, a gyógyszertámogatásra, és a gyógyászati segédeszköz támogatásra meghatározott keret megemelését az egészségbiztosításért felelős miniszter engedélyezheti, az államháztartásért felelős miniszter egyidejű – indokolást tartalmazó – tájékoztatása mellett. A meghatározott keret megemelése nem okozhatja az adott előirányzat túllépését.
+### 18. §
