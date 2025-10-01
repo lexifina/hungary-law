@@ -4,4 +4,4 @@ a)
 
 b)
 
-c)
+c) 19. § (2) bekezdés m) pontja.
