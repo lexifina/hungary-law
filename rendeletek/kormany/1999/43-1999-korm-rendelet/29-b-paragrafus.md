@@ -1,4 +1,4 @@
-29/B. §[^360] (1) A képalkotó diagnosztikai programhoz tartozó járóbeteg szakellátási szolgáltatások finanszírozását az 5. számú mellékletben az „Összevont szakellátás, Járóbeteg-szakellátás” előirányzaton biztosított fedezet rendelkezésre állását követően annak felhasználásával kell elvégezni, a járóbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályok és a (2)–(5) bekezdésben foglaltak figyelembevételével.
+29/B. §[^361] (1) A képalkotó diagnosztikai programhoz tartozó járóbeteg szakellátási szolgáltatások finanszírozását az 5. számú mellékletben az „Összevont szakellátás, Járóbeteg-szakellátás” előirányzaton biztosított fedezet rendelkezésre állását követően annak felhasználásával kell elvégezni, a járóbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályok és a (2)–(5) bekezdésben foglaltak figyelembevételével.
 
 (2) Az (1) bekezdés szerinti programot a 2025. évben kell teljesíteni.
 
@@ -10,4 +10,4 @@
 
 (6) A (3) és a (4) bekezdés szerint jelentett ellátásokra az alapdíj 100%-ának és az elszámolható pont szorzatának megfelelő finanszírozási díj számolható el, és az ellátás teljesítményét nem kell figyelembe venni a 28. § (1) bekezdése szerinti tárgyhavi teljesítmény számításában.
 
-[^360]: A 29/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § d) pontja újból hatályon kívül helyezte, újonnan az 542/2021. (IX. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 66/2025. (IV. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^361]: A 29/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § d) pontja újból hatályon kívül helyezte, újonnan az 542/2021. (IX. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 66/2025. (IV. 4.) Korm. rendelet 7. §-ával megállapított szöveg.

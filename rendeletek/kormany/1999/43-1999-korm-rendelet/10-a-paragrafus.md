@@ -1,4 +1,4 @@
-10/A. §[^127] (1) Az a Felzárkózó Települések Programban résztvevő egészségügyi szolgáltató, amely
+10/A. §[^128] (1) Az a Felzárkózó Települések Programban résztvevő egészségügyi szolgáltató, amely
 
 a) hajléktalanok háziorvosi ellátására vonatkozó működési engedéllyel rendelkezik, és
 
@@ -10,4 +10,4 @@ b) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXX
 
 (3) Az (1) bekezdés szerint végzett ellátások fedezetéül az Egészségbiztosítási Alap a 2. cím 7. alcím 7. Célelőirányzatok jogcímcsoport „Mozgó Egészségügyi Központok működtetése” előirányzata szolgál.
 
-[^127]: A 10/A. §-t a 77/2024. (IV. 3.) Korm. rendelet 1. §-a iktatta be.
+[^128]: A 10/A. §-t a 77/2024. (IV. 3.) Korm. rendelet 1. §-a iktatta be.

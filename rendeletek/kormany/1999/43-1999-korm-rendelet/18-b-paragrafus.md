@@ -1,4 +1,4 @@
-18/B. §[^201] (1) Az e § szerinti Krónikus Betegségmenedzsment Program megvalósításában a Pkr. 2. § (3) bekezdése szerinti praxisközösségben részt vevő felnőtt és vegyes háziorvosi szolgálatok vehetnek részt.
+18/B. §[^202] (1) Az e § szerinti Krónikus Betegségmenedzsment Program megvalósításában a Pkr. 2. § (3) bekezdése szerinti praxisközösségben részt vevő felnőtt és vegyes háziorvosi szolgálatok vehetnek részt.
 
 (2) A Krónikus Betegségmenedzsment Program keretében krónikus, nem fertőző betegségek hatékony megelőzése, felderítése, gyógyítása és gondozása a következő négy betegségcsoportban történik meg:
 
@@ -18,4 +18,4 @@ d) cukorbetegség.
 
 (6) A Krónikus Betegségmenedzsment Program megvalósításának határideje 2026. július 31.
 
-[^201]: A 18/B. §-t a 123/2025. (VI. 2.) Korm. rendelet 1. §-a iktatta be.
+[^202]: A 18/B. §-t a 123/2025. (VI. 2.) Korm. rendelet 1. §-a iktatta be.
