@@ -1,3 +1,1 @@
-7. §[^8]
-
-[^8]: A 7. § a 8. § (2) bekezdése alapján 2025. október 1-jén lép hatályba.
+7. § A 79/2004. (V. 4.) FVM rendelet 13. számú melléklete az 1. melléklet szerinti módosul.
