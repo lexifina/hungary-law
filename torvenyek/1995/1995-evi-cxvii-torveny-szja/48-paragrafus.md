@@ -12,9 +12,11 @@ c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről
 
 d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
 
-e) a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítéséről.
+e) a négy vagy több gyermeket nevelő anyák kedvezményének érvényesítéséről,
 
-f) a 30 év alatti anyák kedvezményének érvényesítéséről.
+f) a három gyermeket nevelő anyák kedvezményének érvényesítéséről,
+
+g) a 30 év alatti anyák kedvezményének érvényesítéséről.
 
 (2a) A (2) bekezdés b), d) és e) pontja szerinti nyilatkozat esetében a magánszemély kérheti, hogy a kifizető a nyilatkozat tartalmát mindaddig változatlan tartalommal vegye figyelembe, ameddig a magánszemély nem tesz új nyilatkozatot, vagy nem kéri a korábban tett nyilatkozatának mellőzését (a továbbiakban: folytatólagos nyilatkozat), azzal, hogy a (2) bekezdés b) pontja szerinti esetben a folytatólagos nyilatkozatban foglaltak legfeljebb a 29/C. § (4) bekezdése szerinti időtartamban vehetők figyelembe. Ha a magánszemély új nyilatkozat benyújtásával nem jelezte a jogosultság feltételeiben bekövetkezett változást, és a folytatólagos nyilatkozatban foglaltak alkalmazása miatt adóhiány keletkezett, a jogkövetkezmények nem mérsékelhetők.
 
@@ -42,9 +44,9 @@ d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának,
 
 e) az első házasok kedvezményének közös érvényesítése esetén a házastárs adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
-(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3), illetve (3a) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
+(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye és a három gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, a 29/D. § (3) és (3a) bekezdése, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (3) és (4) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
 
-(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti és a három gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az e törvény 8. §-a szerinti adómértékkel meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (3d) A 29/F. § (2) bekezdése szerinti jövedelmet juttató, adóelőleget megállapító munkáltató, az összevont adóalapba tartozó bevételt juttató kifizető a fiatal adóelőleg-alapját – a fiatalnak a 25 év alatti fiatalok kedvezménye részben vagy egészben történő érvényesítésének mellőzését kérő nyilatkozata hiányában – jogosultsági hónaponként csökkenti a 29/F. § (2) bekezdése szerinti összeggel.
 
