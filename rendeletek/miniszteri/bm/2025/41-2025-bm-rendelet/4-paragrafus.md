@@ -1,0 +1,3 @@
+## 3. A társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet módosítása
+
+4. § A társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet 7. § (1) bekezdésében a „GYR 3. §-ának (5)–(8) bekezdése vagy 4. §-a” szövegrész helyébe az „az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló kormányrendeletnek az EGT-tagállamban vagy EGT-megállapodásban részes államban forgalomba hozatalra engedélyezett gyógyszer rendelésére vonatkozó szabályai vagy az egyedi gyógyszerbeszerzés szabályai” szöveg lép.
