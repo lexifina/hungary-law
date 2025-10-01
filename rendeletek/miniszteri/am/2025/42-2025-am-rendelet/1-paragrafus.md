@@ -1,0 +1,25 @@
+## [1] A madárinfluenza járványos előfordulása az elmúlt néhány év során világszerte, így Európában és Magyarországon is rendkívüli mértékben megszaporodott. Hazánkban jellemzően a víziszárnyas szektort érinti legsúlyosabb mértékben, azon belül is a dél-alföldi régió termelőit.
+
+## [2] Jelenleg a baromfi ágazatban az egyes telepek egymáshoz való közelsége is hozzájárul a madárinfluenza terjedéséhez, ezért szükséges a meghatározott állatlétszámú állattartó telepektől való legkisebb távolságot előírni új baromfitartó telep létesítése vagy betelepítés esetén.
+
+## [3] Az intézkedés bevezetésével csökkenthető a fertőzés továbbvitelének a kockázata, ezáltal a betegség okozta károk is mérsékelhetőek.
+
+## [4] A hazai baromfiállományok földrajzi sűrűségének szabályozása regionálisan célzott módon, több évre kiterjedően, hatékony eszközként szolgálhatja a járványügyi kockázatok csökkentését. Ezért egy olyan mezőgazdasági csekély összegű támogatási program indult, amely a madárinfluenza vírus kitöréssel korábban már érintett baromfitartó telepek számára ösztönzést és kompenzációt nyújt a termelési kapacitások racionalizálására. A támogatási kérelmek benyújtását követően ismertté vált, hogy a jogos igények várhatóan meghaladják a rendelkezésre álló forrást. A módosítás célja ezért a termelőknek nyújtott támogatási konstrukció hatékony végrehajtásának biztosítása és minden jogos támogatási igény kielégítése.
+
+## [5] A 2025. év március és április hónapban ragadós száj- és körömfájás állatbetegséggel sújtott gazdálkodók tekintetében indokolt a kártalanítás összegét a káreseménykori nettó forgalmi érték 100%-ában megállapítani, melyet nemcsak a folyamatban lévő, hanem a már befejezett eljárások tekintetében is alkalmazni kell.
+
+## [6] Az erdők felújításának csekély összegű (de minimis) támogatásáról szóló 102/2008. (VIII. 8.) FVM rendelet a 2008. január 1-jét megelőzően végzett véghasználatok után keletkezett erdőfelújítási kötelezettség teljesítésére adott támogatást. A rendelet kihirdetése óta eltelt több mint 17 évre figyelemmel a rendelet további hatályban tartása nem indokolt.
+
+## [7] Az óvoda- és iskolatej program keretében a tejtermelők és tejelőállítók jelenlegi és jövőbeni piacainak megteremtése mellett cél az érintett intézményekbe járó gyermekek minél szélesebb körének tejtermékkel való ellátása.
+
+## [8] Tekintettel arra, hogy bizonyos, előre nem látható gazdasági események következtében előfordulhat, hogy a tejtermékek jóváhagyott, szerződéssel rendelkező beszállítója nem tud eleget tenni beszállítási kötelezettségeinek, szükséges az érintett intézmények más beszállító által történő ellátását lehetővé tenni.
+
+## [9] Az európai uniós szabályozás módosulása következtében a korábbiaktól eltérően a tojást főszabály szerint már csak a termelés helyén lehet megjelölni. A tagállamoknak azonban lehetőségük van megengedni, hogy a tojás megjelölése abban a csomagolóközpontban történjen, amelybe a tojást elsőként beszállították. A rendelet, élve az európai uniós jogi felhatalmazással, lehetőséget biztosít a jól működő gyakorlat fenntartására. Az új rendelkezés bevezetésével is változatlanul biztosított lesz a nyomonkövetési kritériumok teljesülése.
+
+## [10] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 19. és 20. pontjában kapott felhatalmazás alapján, a 3. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a 4. alcím tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 4. pontjában kapott felhatalmazás alapján, az 5. alcím tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (5) bekezdés e) pont eb) alpontjában kapott felhatalmazás alapján, a 6. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, a 7. és a 8. alcím tekintetében a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. és 3. pontjában meghatározott feladatkörömben eljárva, az 5. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 18. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben, a következőket rendelem el:
+
+## 1.[^1]
+
+1. §
+
+[^1]: Az 1. alcím a 15. § (2) bekezdése alapján 2025. október 3-án lép hatályba.
