@@ -1,0 +1,1 @@
+22. § A Kincstár a pénzügyi tranzakciós illeték megfizetése céljából az eredeti előirányzaton felüli, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény 7. § (4) bekezdése alapján keletkezett többletbevételeivel az államháztartásért felelős miniszter engedélye nélkül, saját hatáskörben megnövelheti a bevételi és kiadási előirányzatait.

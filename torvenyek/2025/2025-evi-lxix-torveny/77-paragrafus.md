@@ -1,0 +1,3 @@
+## 22. Felülvizsgálati kötelezettség
+
+77. § A Kormánynak az Európai Parlament és Tanács (EU) 2024/1263 rendelete 26. cikk szerinti országspecifikus mentesítési rendelkezések aktiválását követő európai uniós szabályok véglegeződése után, de legkésőbb 2025. december 31-ig felül kell vizsgálni, hogy e törvény szerinti kiadások, bevételek és egyenleg megfelelnek-e az európai uniós követelményrendszernek, így különösen a Magyarország számára megállapított nettó kiadási pályának. Amennyiben a Kormány vizsgálata meg nem felelőséget mutat, akkor a Kormány tegye meg a szükséges intézkedéseket a megfelelőség biztosítása érdekében.

@@ -1,0 +1,1 @@
+72. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 25. § (4) bekezdése szerinti egészségügyi szolgáltatási járulék összeg 12 450 forint/fő/hó.

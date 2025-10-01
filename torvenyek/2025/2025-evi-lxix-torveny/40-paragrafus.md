@@ -1,0 +1,3 @@
+40. § (1) A IX. Helyi önkormányzatok támogatásai fejezetben az államháztartásért felelős miniszter gondoskodhat a 2025. évben év közben létrehozott új címek, alcímek 2026. évi címrendbe történő felvételéről és a 2025. december 31-én fennálló pozitív egyenlegnek megfelelő összeg biztosításáról.
+
+(2) A helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter a IX. Helyi önkormányzatok támogatásai fejezetben – az 1. mellékletben szereplő címek, valamint a 2. mellékletben és a 3. mellékletben szereplő, önkormányzatok által igényelhető jogcímek között és azokon belül – átcsoportosíthat.
