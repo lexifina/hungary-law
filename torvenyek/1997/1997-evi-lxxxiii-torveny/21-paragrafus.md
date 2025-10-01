@@ -8,7 +8,7 @@ ab) magisztrális gyógyszerek esetében a külön jogszabály,
 
 támogatást állapít meg,
 
-b) azt a finanszírozott egészségügyi szolgáltató e jogosultságra kijelölt orvosa, illetve az egészségbiztosítóval e jogosultságra szerződést kötött orvos rendeli, és
+b) azt a finanszírozott egészségügyi szolgáltató e jogosultságra kijelölt orvosa, illetve az egészségbiztosítóval e jogosultságra szerződést kötött orvos, vagy az egészségügyért felelős miniszter rendeletében meghatározott esetekben gyógyszerész, okleveles kiterjesztett hatáskörű ápoló rendeli, és
 
 c) a rendelés a (4) bekezdésben foglaltak szerint történik, és
 

@@ -4,7 +4,7 @@ a) a lekötött kapacitáson nyújtandó szolgáltatásokat szakmánkénti bont�
 
 b) a tárgyi és személyi feltételek azonosítására szolgáló, a hatáskörrel és illetékességgel rendelkező hatóság által vezetett nyilvántartás szerinti adatot, valamint a szolgáltatás nyújtásához rendelkezésre álló, a finanszírozás szempontjából meghatározó feltételeket,
 
-c) az egészségügyi szakellátásra történő beutalásra jogosult, a táppénzfizetés alapjául szolgáló keresőképesség elbírálására, továbbá a gyógyszer, gyógyászati segédeszköz és ellátás támogatással történő rendelésére jogosult orvos családi és utónevét, orvosi bélyegzőjének számát,
+c) az egészségügyi szakellátásra történő beutalásra jogosult, a táppénzfizetés alapjául szolgáló keresőképesség elbírálására, továbbá a gyógyszer, gyógyászati segédeszköz és ellátás támogatással történő rendelésére jogosult orvos családi és utónevét, orvosi bélyegzőjének számát, valamint a gyógyszer támogatással történő rendelésére jogosult okleveles kiterjesztett hatáskörű ápoló családi és utónevét,
 
 d) az egészségügyi szolgáltató adatszolgáltatási kötelezettségét,
 

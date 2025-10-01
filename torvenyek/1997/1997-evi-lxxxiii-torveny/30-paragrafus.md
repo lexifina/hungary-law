@@ -24,7 +24,7 @@ köthető finanszírozási szerződés.
 
 (1c) Az egészségbiztosítási ellátás keretében diagnosztikai célból kizárólag az (1b) bekezdésnek megfelelő egészségügyi szolgáltató által közvetlenül elvégzett CT-MRI vizsgálat végezhető, a finanszírozási szerződésben ezen eljárások tekintetében közreműködő igénybevétele – az (1b) bekezdés szerinti szolgáltatók által biztosított közreműködés kivételével – a tárgyi és személyi feltételek biztosítása érdekében nem köthető ki.
 
-(2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
+(2) Az (1) bekezdésben foglaltakon túl gyógyszer árhoz nyújtott támogatással történő kiszolgáltatására, az egészségügyért felelős miniszter rendeletében meghatározott esetekben gyógyszer rendelésére, gyógyászati segédeszköz árhoz nyújtott támogatással történő forgalmazására, kölcsönzésére, javítására és amennyiben a gyártó az eszköz kiszolgáltatását is végzi, egyedi méretvétel alapján történő gyártására (a továbbiakban együtt: forgalmazás), valamint gyógyászati ellátás támogatással történő nyújtására az egészségbiztosító szerződést köt a szolgáltatóval, amennyiben az
 
 a) erre külön jogszabályban foglaltak szerint jogosult, valamint
 
