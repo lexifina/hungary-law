@@ -1,4 +1,4 @@
-2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^36]
+2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^34]
 
 Az indokolt költségek figyelembevételének módszertana a távhőtermelők és távhőszolgáltatók vonatkozásában
 
@@ -44,7 +44,7 @@ A pénzügyi ráfordítás valamint a hiteltörlesztés – az alkalmazott finan
 
 2.3. Megtérülés
 
-2.3.1. Megtérülésként az 1. pont alapján figyelembe vett bruttó eszközérték és az 5. § (2) bekezdésében meghatározott nyereségtényező szorzatát kell elismerni indokolt költségként.
+2.3.1. Megtérülésként az 1. pont alapján figyelembe vett eszközérték és az 5. § (2) bekezdésében meghatározott nyereségtényező szorzatát kell elismerni indokolt költségként.
 
 2.4. Támogatások
 
@@ -60,4 +60,4 @@ A Hivatal az egyedi vizsgálata során a beruházás számított tőkeköltsége
 
 Abban az esetben, ha a beruházás hatására bekövetkező költségcsökkenés mértéke a beruházás számított tőkeköltségének összegét meghaladja, akkor a Hivatal a beruházás számított tőkeköltségét indokolt költségként elismeri.
 
-[^36]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése, a 29/2025. (IX. 30.) EM rendelet 6. §-a szerint módosított szöveg.

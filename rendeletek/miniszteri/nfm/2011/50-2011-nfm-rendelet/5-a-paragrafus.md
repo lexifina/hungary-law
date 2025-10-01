@@ -1,5 +1,7 @@
-5/A. §[^20] (1) Azon hőtermelő, amely kizárólag a távhőtermelési vagy villamosenergia-termelési célú ipari folyamattól eltérő ipari folyamatból származó hulladékhőből állítja elő a távhőt, a 3. melléklet szerinti legmagasabb árnak tekintendő árral megegyező vagy az alatti szerződéses árat a közvetlenül a távhőszolgáltatóval kötött szerződésében jogosult alkalmazni, a Hivatal erre vonatkozó jóváhagyása esetén.
+5/A. §[^24] (1) A maradékhő-értékesítő az érintett település vonatkozásában az 1. melléklet 1. pontjában foglalt táblázat szerinti adott távhőszolgáltatóra meghatározott legalacsonyabb értékesítői hődíjat, de legfeljebb az 1. melléklet 2. pontjában foglalt táblázat 7. sora szerinti értékesítői hődíjat alkalmazhatja.
 
-(2) Az (1) bekezdés szerinti hőtermelő mentesül az 5. § (1) bekezdése szerinti nyereségkorlát alkalmazása alól.
+(2) Az 5. § (1) bekezdése nem alkalmazható a maradékhő-értékesítői engedélyesre.
 
-[^20]: Az 5/A. §-t az 54/2015. (IX. 30.) NFM rendelet 6. §-a iktatta be.
+(3) A maradékhő-értékesítőre vonatkozó legmagasabb hatósági ár meghatározásának módszertanát a 3. melléklet tartalmazza.
+
+[^24]: Az 5/A. §-t az 54/2015. (IX. 30.) NFM rendelet 6. §-a iktatta be, szövege a 29/2025. (IX. 30.) EM rendelet 2. §-ával megállapított szöveg.

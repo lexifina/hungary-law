@@ -14,7 +14,7 @@ eszközérték és a nyereségtényező szorzatának mértékét (a továbbiakba
 
 a) azon értékesítő esetében, amely 2011. március 31. és 2024. december 31. napja között a villamos energiáról szóló törvény szerinti megújuló energiaforrást hasznosító vagy a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendelet szerinti nagy hatásfokú kapcsolt energiatermelés követelményeinek megfelelő távhőtermelő létesítményt üzembe helyezett, illetve üzembe helyez: 4,5%;
 
-b) azon értékesítő esetében, amely 2024. december 31. napját követően a villamos energiáról szóló törvény szerinti megújuló energiaforrást hasznosító vagy a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendelet szerinti nagy hatásfokú kapcsolt energiatermelés követelményeinek megfelelő távhőtermelő létesítményt üzembe helyez, és annak eszközeit külön eszközkartonokon tartja nyilván, az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság által közzétett 10 és 15 éves névleges futamidejű állampapírok tárgyév március hónap utolsó munkanapján közzétett referenciahozam számtani átlagának 2,5 százalékponttal növelt értéke az alábbi feltételek szerint:
+b)[^19] azon értékesítő esetében, amely 2024. december 31. napját követően a villamos energiáról szóló törvény szerinti megújuló energiaforrást hasznosító vagy a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendelet szerinti nagy hatásfokú kapcsolt energiatermelés követelményeinek megfelelő távhőtermelő létesítményt üzembe helyez, és annak eszközeit külön eszközkartonokon tartja nyilván, az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK) által közzétett 10 és 15 éves névleges futamidejű állampapírok tárgyév március hónap utolsó munkanapján közzétett referenciahozam számtani átlagának 2,5 százalékponttal növelt értéke az alábbi feltételek szerint:
 
 ba) ha az így számított érték nem éri el a 4,5%-ot, a nyereségtényező 4,5%;
 
@@ -22,11 +22,17 @@ bb) ha az így számított érték meghaladja a 9%-ot, a nyereségtényező 9%;
 
 c) az a) és b) pont alá nem tartozó értékesítő esetében: 2,0%;
 
-d) azon távhőszolgáltató esetében, amely 2024. december 31. napját követően a Hivatal által 2024. december 31-ig kiadott kritériumoknak megfelelő energiahatékonyságot növelő vagy a távhőszolgáltatás költségeit csökkentő beruházást hajt végre, a beruházás lezárását követően a fejlesztésben érintett eszközökre 4,25%;
+d)[^20] azon távhőszolgáltató esetében, amely 2024. december 31. és 2025. december 31. napja között a Hivatal által kiadott kritériumoknak megfelelő energiahatékonyságot növelő vagy a távhőszolgáltatás költségeit csökkentő beruházást hajt végre, a beruházás lezárását követően a fejlesztésben érintett eszközökre 4,25%;
 
-e) a d) pont alá nem tartozó távhőszolgáltató esetében: 2,0%.
+e)[^21] azon távhőszolgáltató esetében, amely 2025. december 31. napját követően a Hivatal által kiadott kritériumoknak megfelelő energiahatékonyságot növelő vagy a távhőszolgáltatás költségeit csökkentő beruházást hajt végre, a beruházás lezárását követően a fejlesztésben érintett eszközökre az ÁKK által közzétett 10 és 15 éves névleges futamidejű állampapírok tárgyév március hónap utolsó munkanapján közzétett referenciahozam számtani átlagának 2,5 százalékponttal növelt értéke, az alábbi feltételek szerint:
 
-(3)[^19] Az értékesítő és a távhőszolgáltató köteles a nyereségkorlát feletti eredményét a távhőtermelés és távhőszolgáltatás energiahatékonyságát növelő, vagy költségének csökkentése érdekében felmerülő beruházásra fordítani a nyereségkorlát feletti eredmény keletkezését követő három éven belül, amely beruházás megvalósulását a Hivatal ellenőrzi.
+ea) ha az így számított érték nem éri el a 4,5%-ot, a nyereségtényező 4,5%;
+
+eb) ha az így számított érték meghaladja a 9%-ot, a nyereségtényező 9%;
+
+f)[^22] a d) és e) pont alá nem tartozó távhőszolgáltató esetében 2,0%.
+
+(3)[^23] Az értékesítő és a távhőszolgáltató köteles a nyereségkorlát feletti eredményét a távhőtermelés és távhőszolgáltatás energiahatékonyságát növelő, vagy költségének csökkentése érdekében felmerülő beruházásra fordítani a nyereségkorlát feletti eredmény keletkezését követő három éven belül, amely beruházás megvalósulását a Hivatal ellenőrzi.
 
 (4) Ha a Hivatal az ellenőrzés során azt állapítja meg, hogy a (3) bekezdés szerinti beruházás nem, vagy csak részben valósult meg, akkor a nyereségkorlát feletti eredmény beruházásra fel nem használt mértékét a soron következő árelőkészítés során mint indokolt költséget csökkentő tételt veszi figyelembe.
 
@@ -35,4 +41,8 @@ e) a d) pont alá nem tartozó távhőszolgáltató esetében: 2,0%.
 [^16]: Az 5. § (1) bekezdése a 16/2024. (IX. 30.) EM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^17]: Az 5. § (1a) bekezdését a 16/2024. (IX. 30.) EM rendelet 2. § (1) bekezdése iktatta be.
 [^18]: Az 5. § (2) bekezdése a 16/2024. (IX. 30.) EM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (3) bekezdése a 16/2024. (IX. 30.) EM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^19]: Az 5. § (2) bekezdés b) pont nyitó szövegrésze a 29/2025. (IX. 30.) EM rendelet 4. §-a szerint módosított szöveg.
+[^20]: Az 5. § (2) bekezdés d) pontja a 29/2025. (IX. 30.) EM rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 5. § (2) bekezdés e) pontja a 29/2025. (IX. 30.) EM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 5. § (2) bekezdés f) pontját a 29/2025. (IX. 30.) EM rendelet 1. §-a iktatta be.
+[^23]: Az 5. § (3) bekezdése a 16/2024. (IX. 30.) EM rendelet 5. § (1) bekezdése szerint módosított szöveg.
