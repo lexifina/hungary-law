@@ -38,9 +38,9 @@ b) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának 
 
 II. Klinikai vizsgálóhely II.a és II.b kockázati osztályba tartozó és minden invazív orvostechnikai eszköz vizsgálatához
 
-A) Tárgyi feltételek:
+A)[^55] Tárgyi feltételek:
 
-Olyan egyetemi klinikán vagy kórházban lévő – érvényes minőségbiztosítási tanúsítvánnyal rendelkező – fekvőbeteg-osztály vagy szakambulancia, illetve egyéb szakorvosi rendelő, amely rendelkezik a megfelelő diagnosztikai egységekkel, és amely megfelel az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott tárgyi minimumfeltételeinek, valamint rendelkezik a tervezett vizsgálat elvégzéséhez szükséges eszközökkel, felszereltséggel.
+Olyan egyetemi klinikán vagy kórházban lévő fekvőbeteg-osztály vagy szakambulancia, illetve egyéb szakorvosi rendelő, amely rendelkezik a megfelelő diagnosztikai egységekkel, és amely megfelel az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott tárgyi minimumfeltételeinek, valamint rendelkezik a tervezett vizsgálat elvégzéséhez szükséges eszközökkel, felszereltséggel.
 
 B) Személyi feltételek:
 
@@ -56,9 +56,9 @@ b) a vizsgálatra kerülő orvostechnikai eszköz tervezett felhasználásának 
 
 III. Klinikai vizsgálóhely III. kockázati osztályba tartozó és aktív beültethető orvostechnikai eszközök vizsgálatához
 
-A) Tárgyi feltételek:
+A)[^56] Tárgyi feltételek:
 
-Olyan egyetemi klinikán vagy kórházi osztályon, az intézményen belül intenzív terápiás osztályos háttérrel rendelkező – az aktív betegellátástól elkülönített – érvényes minőségbiztosítási tanúsítvánnyal rendelkező egység, melynek rendelkezésére állnak a tervezett vizsgálat elvégzéséhez szükséges eszközök, felszerelések.
+Olyan egyetemi klinikán vagy kórházi osztályon, az intézményen belül intenzív terápiás osztályos háttérrel rendelkező – az aktív betegellátástól elkülönített – egység, melynek rendelkezésére állnak a tervezett vizsgálat elvégzéséhez szükséges eszközök, felszerelések.
 
 A vizsgálóhelyen helyben kell biztosítani az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben a központi ügyeletre előírt minimumfeltételek közül a gép-műszerparkra és egyéb eszközökre vonatkozó felszereltséget, kivéve a szülészeti egységcsomagot és a gépkocsit.
 
@@ -94,3 +94,5 @@ Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfe
 [^52]: A 28. § (2) bekezdés b) pontja a 13/2022. (IV. 29.) EMMI rendelet 49. §-ával megállapított szöveg.
 [^53]: A 28. § (2) bekezdés c) pontját a 13/2022. (IV. 29.) EMMI rendelet 49. §-a iktatta be.
 [^54]: A Melléklet a 13/2022. (IV. 29.) EMMI rendelet 50. §-ával megállapított szöveg.
+[^55]: A Melléklet II. pont A) alpontja a 41/2025. (IX. 29.) BM rendelet 22. § a) pontja szerint módosított szöveg.
+[^56]: A Melléklet III. pont A) alpontja a 41/2025. (IX. 29.) BM rendelet 22. § b) pontja szerint módosított szöveg.
