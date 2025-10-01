@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-36-20-1
 | 2023-03-24 | 2014-36-20-11.13 | 12/2023. (III. 21.) AM rendelet |
 | 2023-11-23 | 2014-36-20-11.14 | 60/2023. (XI. 15.) AM rendelet |
 | 2025-06-24 | 2014-36-20-11.15 | 27/2025. (VI. 23.) AM rendelet |
+| 2025-10-01 | 2014-36-20-11.16 | 42/2025. (IX. 30.) AM rendelet |
