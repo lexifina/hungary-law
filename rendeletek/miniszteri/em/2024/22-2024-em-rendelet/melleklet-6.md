@@ -2,23 +2,23 @@
 
 | 1 | Gépjármű-kategória | Gépjármű fajtája | Koncessziós társaságot megillető díjelem (Ft/kg) | Önkormányzatot megillető díjelem (Ft/kg) | A gyártók által fizetendő kiterjesztett gyártói felelősségi díj (Ft/kg) |
 
-| 2 | M1 járműkategória | belső égésű motorral hajtott jármű | 28,99 | 0,08 | 29,07 |
+| 2 | M1 járműkategória | belső égésű motorral hajtott jármű | 44,81 | 0,08 | 44,89 |
 
-| 3 | M1 járműkategória | részben elektromos motorral hajtott jármű, nem tölthető akkumulátorral | 31,17 | 0,08 | 31,25 |
+| 3 | M1 járműkategória | részben elektromos motorral hajtott jármű, nem tölthető akkumulátorral | 46,84 | 0,08 | 46,92 |
 
-| 4 | M1 járműkategória | részben elektromos motorral hajtott jármű, tölthető akkumulátorral | 37,71 | 0,08 | 37,79 |
+| 4 | M1 járműkategória | részben elektromos motorral hajtott jármű, tölthető akkumulátorral | 52,92 | 0,08 | 53,00 |
 
-| 5 | M1 járműkategória | tisztán elektromos motorral hajtott jármű | 51,13 | 0,08 | 51,21 |
+| 5 | M1 járműkategória | tisztán elektromos motorral hajtott jármű | 65,27 | 0,08 | 65,35 |
 
-| 6 | N1 járműkategória | belső égésű motorral hajtott jármű | 27,09 | 0,06 | 27,15 |
+| 6 | N1 járműkategória | belső égésű motorral hajtott jármű | 43,51 | 0,06 | 43,57 |
 
-| 7 | N1 járműkategória | részben elektromos motorral hajtott jármű | 30,8 | 0,06 | 30,86 |
+| 7 | N1 járműkategória | részben elektromos motorral hajtott jármű | 46,99 | 0,06 | 47,05 |
 
-| 8 | N1 járműkategória | tisztán elektromos motorral hajtott jármű | 38,3 | 0,06 | 38,36 |
+| 8 | N1 járműkategória | tisztán elektromos motorral hajtott jármű | 53,94 | 0,06 | 54,00 |
 
-| 9 | háromkerekű gépjármű, kivéve a motoros triciklit | belső égésű motorral hajtott jármű | 37,03 | 0,15 | 37,18 |
+| 9 | háromkerekű gépjármű, kivéve a motoros triciklit | belső égésű motorral hajtott jármű | 53,72 | 0,15 | 53,87 |
 
-| 10 | háromkerekű gépjármű, kivéve a motoros triciklit | részben vagy teljesen elektromos motorral hajtott jármű | 47,93 | 0,15 | 48,08 |
+| 10 | háromkerekű gépjármű, kivéve a motoros triciklit | részben vagy teljesen elektromos motorral hajtott jármű | 63,87 | 0,15 | 64,02 |
 
 6. melléklet a 22/2024. (XI. 28.) EM rendelethez
 

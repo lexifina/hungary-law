@@ -32,7 +32,7 @@ A csatlakozási díj és a szolgáltatási díj egy egységre vetített mérték
 
 | 7 | újrahasználható (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | X71 | 1 |
 
-2. A szolgáltatási díj egy egységre vetített mértéke
+2.[^1] A szolgáltatási díj egy egységre vetített mértéke
 
 |  | A | B | C | D | E |
 
@@ -40,16 +40,18 @@ A csatlakozási díj és a szolgáltatási díj egy egységre vetített mérték
 
 | 2 | nem újrahasználható műanyag | M51 | 213 | 6 | 219 |
 
-| 3 | nem újrahasználható fém | V51 | 178 | 8 | 186 |
+| 3 | nem újrahasználható fém | V51 | 190 | 8 | 198 |
 
-| 4 | nem újrahasználható üveg (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | U51 | 63 | 14 | 77 |
+| 4 | nem újrahasználható üveg (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | U51 | 70 | 14 | 84 |
 
 | 5 | díjátalány-fizetéssel érintett borászati termék nem újrahasználható üveg csomagolása pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor üveg csomagolása kivételével | U61 | 21 | 4 | 25 |
 
-| díjátalány-fizetéssel érintett borászati termék újrahasználható üveg csomagolása pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor üveg csomagolása kivételével | 25,80 | 4 | 29,80 |
+| 6 | díjátalány-fizetéssel érintett borászati termék újrahasználható üveg csomagolása pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor üveg csomagolása kivételével | 25,80 | 4 | 29,80 |
 
-| 6 | díjátalány fizetéssel érintett pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor nem újrahasználható üveg csomagolása | U71 | 21 | 3 | 24 |
+| 7 | díjátalány-fizetéssel érintett pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor nem újrahasználható üveg csomagolása | U71 | 21 | 3 | 24 |
 
-| díjátalány fizetéssel érintett pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor újrahasználható üveg csomagolása | 26,80 | 3 | 29,80 |
+| 8 | díjátalány-fizetéssel érintett pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor újrahasználható üveg csomagolása | 26,80 | 3 | 29,80 |
 
-| 7 | újrahasználható (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | X71 | 63 | 14 | 77 |
+| 9 | újrahasználható (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | X71 | 63 | 14 | 77 |
+
+[^1]: A 3. melléklet 2. pontja a 28/2025. (IX. 22.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.

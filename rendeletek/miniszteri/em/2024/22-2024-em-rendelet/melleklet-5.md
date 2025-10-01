@@ -10,13 +10,13 @@
 
 | 5 | egyéb csomagolás | X01 | 125 | 4 | 129 |
 
-| 6 | fa csomagolás | F01 | 19 | – | 19 |
+| 6 | fa csomagolás | F01 | 22 | – | 22 |
 
-| 7 | textil csomagolás | C01 | 67 | – | 67 |
+| 7 | textil csomagolás | C01 | 148 | – | 148 |
 
-| 8 | üveg csomagolás | U01 | 63 | 14 | 77 |
+| 8 | üveg csomagolás | U01 | 93 | 14 | 107 |
 
-| 9 | társított (kompozit) csomagolás | K01 | 162 | 6 | 168 |
+| 9 | társított (kompozit) csomagolás | K01 | 185 | 6 | 191 |
 
 | 10 | egyszer használatos és egyéb műanyagtermék | SUP01 | 101 | 12 | 113 |
 
@@ -24,7 +24,7 @@
 
 | 12 | képernyők, monitorok és olyan berendezések, amelyek 100 cm2-nél nagyobb felszínű képernyőt tartalmaznak | E02 | 361 | 1 | 362 |
 
-| 13 | lámpák | E03 | 305 | 1 | 306 |
+| 13 | lámpák | E03 | 418 | 1 | 419 |
 
 | 14 | nagygépek (amelyeknek bármely külső mérete meghaladja az 50 cm-t) | E04 | 123 | 1 | 124 |
 
@@ -36,22 +36,24 @@
 
 | 18 | ipari elem, akkumulátor | A02 | 239 | – | 239 |
 
-| 19 | gépjármű elem, akkumulátor | A03 | 238 | – | 238 |
+| 19 | gépjármű elem, akkumulátor | A03 | 390 | – | 390 |
 
-| 20 | gépjármű | J01 | 21 | – | 21 |
+| 20 | gépjármű | J01 | 36 | – | 36 |
 
 | 21 | gumiabroncs | G01 | 134 | 3 | 137 |
 
 | 22 | irodai papír | I01 | 127 | 1 | 128 |
 
-| 23 | reklámhordozó papír | R01 | 91 | 3 | 94 |
+| 23 | reklámhordozó papír | R01 | 201 | 3 | 204 |
 
-| 24 | sütőolaj és -zsír | Z01 | 36 | – | 36 |
+| 24 | sütőolaj és -zsír | Z01 | 62 | – | 62 |
 
-| 25 | textiltermékek | T01 | 131 | 14 | 145 |
+| 25 | textiltermékek | T01 | 150 | 14 | 164 |
 
-| 26 | bútorok fából | B01 | 11 | 6 | 17 |
+| 26 | bútorok fából | B01 | 45 | 6 | 51 |
 
-5. melléklet a 22/2024. (XI. 28.) EM rendelethez
+5. melléklet a 22/2024. (XI. 28.) EM rendelethez[^3]
 
 A gépjármű gyártója által választása szerint díjátalányként fizetendő kiterjesztett gyártói felelősségi díj egy egységre vetített mértéke
+
+[^3]: Az 5. melléklet a 28/2025. (IX. 22.) EM rendelet 1. § (3) bekezdésével megállapított szöveg.
