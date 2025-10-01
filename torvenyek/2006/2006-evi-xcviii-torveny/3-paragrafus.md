@@ -28,7 +28,7 @@ b) az olyan tényszerű informatív bejelentés vagy tájékoztató jellegű any
 
 c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásával, gyógyászati segédeszköz alkalmazásával kapcsolatos állítást;
 
-12. gyógyszerek és gyógyászati segédeszközök rendelésére, illetve forgalmazására jogosult: az orvos, a gyógyszerész, a gyógyszerek, gyógyászati segédeszközök kereskedelmi forgalmában részt vevő – a vonatkozó tevékenységi engedéllyel rendelkező – előállító és kereskedő;
+12. gyógyszerek és gyógyászati segédeszközök rendelésére, illetve forgalmazására jogosult: az orvos, a gyógyszerész, az okleveles kiterjesztett hatáskörű ápoló, a gyógyszerek, gyógyászati segédeszközök kereskedelmi forgalmában részt vevő – a vonatkozó tevékenységi engedéllyel rendelkező – előállító és kereskedő;
 
 13. ATC-csoport: a gyógyszerek anatómiai, terápiás, illetve kémiai hatás szerinti osztályozása;
 
