@@ -4,10 +4,12 @@
 
 (2) Az e rendelet szerinti pénzbeli illetményen kívüli juttatást a jogosult megbízása alapján kell az általa megadott fizetési számlára átutalni, vagy ha azzal nem rendelkezik, lakcímére postai úton történő kifizetéssel teljesíteni.
 
-(3) Az állomány tagja részére e rendelet szerinti illetményen kívüli juttatás – e rendelet eltérő rendelkezése hiányában – nem állapítható meg, ha az állomány tagjának a hivatásos és a szerződéses állomány tagjának illetményéről szóló 20/2024. (IX. 30.) HM rendelet (a továbbiakban: Illetményrendelet) 17. § (2) bekezdése, 19. § (1) bekezdése, 20. § (2) bekezdése szerinti szolgálatmentesség időtartama alatt illetmény nem folyósítható.
+(3)[^1] Az állomány tagja részére e rendelet szerinti illetményen kívüli juttatás – e rendelet eltérő rendelkezése hiányában – nem állapítható meg, ha az állomány tagjának a hivatásos és a szerződéses állomány tagjának illetményéről szóló 20/2024. (IX. 30.) HM rendelet (a továbbiakban: Illetményrendelet) 17. § (2) bekezdése, 19. § (1) bekezdése szerinti szolgálatmentesség időtartama alatt illetmény nem folyósítható.
 
 (4) A 30 napot meghaladó illetmény nélküli szolgálatmentesség és a 30 napot meghaladó fizetés nélküli szabadság időtartamára – e rendelet eltérő rendelkezése hiányában – e rendelet szerinti illetményen kívüli juttatás nem állapítható meg. A honvédelmi alkalmazottat a tényleges önkéntes tartalékos katonai szolgálatteljesítés okán engedélyezett fizetés nélküli szabadság időtartamára is megilletik az e rendelet szerinti illetményen kívüli juttatások.
 
 (5) A honvédelmi szervezet az állomány tagja, a honvédelmi alkalmazott és a munkavállaló szolgálati viszonyával, honvédelmi alkalmazotti jogviszonyával vagy munkaviszonyával összefüggő egyéb tartozásának, továbbá az illetményen, munkabéren túl minden egyéb, jogalap nélkül kifizetett pénzbeli illetményen kívüli juttatásának megtérítésére irányuló igényét az érintett előzetes értesítését követően a folyósításra kerülő illetményből, munkabérből vagy pénzbeli illetményen kívüli juttatásokból történő levonással vagy utólag írásbeli felszólítással vagy fizetési meghagyással, elévülési időn belül érvényesítheti.
 
 (6) Az állomány tagja, a honvédelmi alkalmazott vagy a munkavállaló elhalálozása esetén a halál bekövetkezésének napjáig járó e rendelet szerinti időarányos illetményen kívüli juttatásait az örökös vagy törvényes képviselője részére a jogerős hagyatékátadó végzés vagy az öröklési bizonyítvány alapján, annak az állományilletékes honvédelmi szervezet részére történő benyújtásának napját követő hónap végéig kell kifizetni.
+
+[^1]: A 3. § (3) bekezdése a 10/2025. (IX. 5.) HM rendelet 4. §-a szerint módosított szöveg.

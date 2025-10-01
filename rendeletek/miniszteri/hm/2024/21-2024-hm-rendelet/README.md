@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-21-20-1
 | 2024-10-01 | 2024-21-20-15.1 | 21/2024. (IX. 30.) HM rendelet |
 | 2024-10-02 | 2024-21-20-15.2 | 2010. évi CXXX. törvény |
 | 2025-07-08 | 2024-21-20-15.3 | 6/2025. (VII. 7.) HM rendelet |
+| 2025-10-01 | 2024-21-20-15.4 | 10/2025. (IX. 5.) HM rendelet |
