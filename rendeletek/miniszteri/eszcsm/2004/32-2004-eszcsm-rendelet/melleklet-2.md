@@ -740,65 +740,65 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-| Budapest | Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Jahn Ferenc Dél-pesti Kórház |
+| Budapest | Budapesti Jahn Ferenc Dél-pesti Kórház és Rendelőintézet |
 
-| Budapest | Péterfy Sándor utcai Kórház-Rendelőintézet |
+| Budapest | Budapesti Péterfy Sándor Utcai Kórház-Rendelőintézet |
 
-| Budapest | Szent Imre Kórház |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
 
-| Budapest | Uzsoki utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Budapest | Országos Onkológiai Intézet |
 
 | Budapest | Semmelweis Egyetem |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Győr | Petz Aladár Egyetemi Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
-| Salgótarján | Szent Lázár Megyei Kórház |
+| Salgótarján | Nógrád Vármegyei Szent Lázár Kórház |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szentes | Dr. Bugyi István Kórház |
+| Szentes | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Dr. Bugyi István Szentesi Multidiszciplináris Centrum |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Szent Rafael Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 8/i1.
 
@@ -1152,59 +1152,59 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-Pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Péterfy Kórház-Rendelőintézet és Baleseti Központ |
+| Budapest | Budapesti Péterfy Sándor Utcai Kórház-Rendelőintézet |
 
-| Budapest | Szent Imre Kórház |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Budapest | Országos Onkológiai Intézet |
 
-| Budapest | Semmelweis Egyetem I. - II. - III. sz. Belgyógyászati Klinika |
+| Budapest | Semmelweis Egyetem I–II–III. sz. Belgyógyászati Klinika |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Onkológiai Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kerepestarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ Onkoterápiás Intézet |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Onkoterápiás Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szentes | Dr. Bugyi István Kórház |
+| Szentes | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Dr. Bugyi István Szentesi Multidiszciplináris Centrum |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 8/u.
 
@@ -1228,15 +1228,15 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-| Budapest | Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Péterfy Sándor utcai Kórház-Rendelőintézet |
+| Budapest | Budapesti Péterfy Sándor Utcai Kórház-Rendelőintézet |
 
 | Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
 
-| Budapest | Uzsoki utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Budapest | Országos Korányi Pulmonológiai Intézet |
 
@@ -1244,59 +1244,59 @@ Kijelölt intézmények:
 
 | Budapest | Semmelweis Egyetem |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Deszk | Csongrád-Csanád Megyei Mellkasi Betegségek Szakkórháza |
+| Deszk | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Tüdőgyógyászati Klinika |
 
-| Edelény | Koch Róbert Kórház és Rendelőintézet |
+| Edelény | Edelényi Koch Róbert Kórház és Rendelőintézet |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Farkasgyepű | Veszprém Megyei Tüdőgyógyintézet |
+| Farkasgyepű | Farkasgyepűi Tüdőgyógyintézet |
 
-| Győr | Petz Aladár Egyetemi Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
 | Mátraháza | Mátrai Gyógyintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
-| Salgótarján | Szent Lázár Megyei Kórház |
+| Salgótarján | Nógrád Vármegyei Szent Lázár Kórház |
 
 | Sopron | Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
 | Törökbálint | Református Pulmonológiai Centrum |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Szent Rafael Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 9/a.
 
@@ -1346,7 +1346,7 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Ajka | Magyar Imre Kórház-Rendelőintézet |
+| Ajka | Ajkai Magyar Imre Kórház-Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
@@ -1356,29 +1356,27 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Gyermekklinika, Tüdőgyógyászati Klinika |
 
-| Debrecen | Kenézy Gyula Kórház és Rendelőintézet |
+| Deszk | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Tüdőgyógyászati Klinika |
 
-| Deszk | Csongrád Megye Mellkasi Betegségek Szakkórháza |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Mosdós | Somogy Vármegyei Kaposi Mór Oktató Kórház Mosdósi Telephely |
 
-| Mosdós | Somogy Megyei Kaposi Mór Oktató Kórház Mosdósi Telep |
-
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Gyermekgyógyászati Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Gyermekgyógyászati Klinika A és B részlege |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 | Törökbálint | Református Pulmonológiai Centrum |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 10/a1.
 
@@ -1422,7 +1420,7 @@ A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAK
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
-F20, F21, F22, F23, F24, F25, F26, F27, F28, F29
+F20, F21, F22, F23, F24, F25, F28, F29
 
 EÜ100 10/a3.
 
@@ -1920,73 +1918,67 @@ B180, B181
 
 Kijelölt intézmények:
 
-2X10465M.docx
-
 | Város | Intézmény neve |
 
-| Ajka | Magyar Imre Kórház-Rendelőintézet |
+| Ajka | Ajkai Magyar Imre Kórház-Rendelőintézet |
 
-| Balassagyarmat | Dr. Kenessey Albert Kórház és Rendelőintézet |
+| Balassagyarmat | Balassagyarmati Dr. Kenessey Albert Kórház-Rendelőintézet |
 
-| Békéscsaba | Békés Megyei Központi Kórház |
+| Békéscsaba | Békés Vármegyei Központi Kórház |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet, III.–IV. sz. Belgyógyászat |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Szent János Kórház és Észak-budai Egyesített Kórházak - Gastroenterologia |
+| Budapest | Észak-budai Szent János Centrumkórház Gastroenterologia |
 
-| Budapest | Semmelweis Egyetem I.-II. sz. Belgyógyászati Klinika |
+| Budapest | Semmelweis Egyetem I–II. sz. Belgyógyászati Klinika |
 
 | Budapest | Semmelweis Egyetem Transzplantációs Klinika |
 
-| Budapest | Országos Onkológiai Intézet - Gastroenterológia |
+| Budapest | Országos Onkológiai Intézet – Gastroenterologia |
 
-| Debrecen | Debreceni Egyetem Klinikai Központ, II. sz. Belgyógyászat |
+| Debrecen | Debreceni Egyetem Klinikai Központ II. sz. Belgyógyászat |
 
-| Debrecen | Kenézy Gyula Kórház és Rendelőintézet |
+| Debrecen | Debreceni Egyetem Klinikai Központ Kenézy Gyula Campus |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet – Infektológia |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet – Infektológia |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház, Infektológia |
+| Gyula | Békés Vármegyei Központi Kórház, Infektológia |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Mosonmagyaróvár | Karolina Kórház |
+| Mosonmagyaróvár | Mosonmagyaróvári Karolina Kórház-Rendelőintézet |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ I. sz. Belgyógyászati Klinika, Infektológia |
 
-| Sopron | Erzsébet Kórház |
+| Sopron | Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
 
-| Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Szegedi Kórház |
 
-|  | Szegedi Kórház |
+| Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ I. sz. Belgyógyászati Klinika |
 
-| Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház, Belgyógyászat, Infektológia |
 
-|  | I. sz. Belgyógyászati Klinika |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház, Belgyógyászat, Infektológia |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház Gasztroenterológia, Infektológia |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház Gasztroenterológia, Infektológia |
-
-| Tatabánya | Szent Borbála Kórház |
-
-| Zalaegerszeg | Zala Megyei Kórház - Gasztroenterológia, Infektológia |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház – Gasztroenterológia, Infektológia |
 
 EÜ100 23/a2.
 
@@ -2024,7 +2016,7 @@ Kijelölt intézmények:
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Szülészeti és Nőgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
 EÜ100 25.
 
@@ -2124,13 +2116,13 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Gyermekgyógyászati Intézet |
 
-| Deszk | Csongrád Megyei Mellkasi Betegségek Szakkórháza, I. sz. Tüdőgyógyászati Osztály |
+| Deszk | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Tüdőgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Oktató Kórház |
 
 | Mátraháza | Mátrai Gyógyintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika, Tüdőgyógyászat |
 
@@ -2138,13 +2130,13 @@ Kijelölt intézmények:
 
 | Törökbálint | Református Pulmonológiai Centrum |
 
-| Szeged | Szegedi Tudományegyetem Általános Orvostudományi Kar Gyermekgyógyászati Klinika és Gyermek Egészségügyi Központ, Tüdőgyógyászati Tanszék |
+| Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Orvostudományi Kar Gyermekgyógyászati Klinika és Gyermek Egészségügyi Központ, Tüdőgyógyászati Tanszék |
 
-| Gyula | Gyula – Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 29.
 
@@ -2170,15 +2162,13 @@ EÜ100 30/a.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Dializált beteg részére, ha lágyrészmeszesedése, 1,86 mmol/l-nál magasabb foszfor szintje, 2,5 mmol/l-nél magasabb korrigált kalcium szintje, 4,4 mmol2/l2-nél magasabb a kalcium és foszfor szorzata, 150-300 pg/ml közötti intakt parathormon szintje van, a csontanyagcsere-zavar, illetve életet veszélyeztető lágyrészmeszesedés megelőzésére
+– Dializált beteg részére, ha lágyrészmeszesedése, 1,86 mmol/l-nél magasabb foszfor szintje, 2,5 mmol/l-nél magasabb korrigált kalcium szintje, 4,4 mmol2/l2-nél magasabb kalcium és foszfor szorzata, 150-300 pg/ml közötti intakt parathormon szintje van, a csontanyagcsere-zavar, illetve életet veszélyeztető lágyrészmeszesedés megelőzésére
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
 | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-| Kijelölt intézmény | Nephrológia | javasolhat és írhat |
-
-| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Nephrológia | javaslatra írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Nephrológia | javasolhat és írhat |
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -2188,29 +2178,29 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Szent Imre Kórház, Nephrologia-Hypertonia |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház Nephrologia-Hypertonia |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika |
 
 | Budapest | Semmelweis Egyetem I. sz. Gyermekgyógyászati Klinika |
 
-| Budapest | Uzsoki Utcai Kórház, Nephrológiai Szakambulancia |
+| Budapest | Budapesti Uzsoki Utcai Kórház, Nephrológiai Szakambulancia |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ I. Belgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház, Immunnephrológia és Hypertonia Osztály |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház, Immunnephrológia és Hypertonia Osztály |
 
-| Miskolc | FMC Nephrológiai Központ |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház FMC Nephrológiai Központ |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház, I. sz. Belgyógyászat |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház, I. sz. Belgyógyászat |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ II. sz. Belgyógyászati Klinika és Nephrológiai Centrum |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
 EÜ100 31/a.
 
@@ -2390,73 +2380,73 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-| Budapest | Dél-pesti Centrumkórház-Országos Hematológiai Intézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő |
+| Budapest | Észak-budai Szent János Centrumkórház |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet |
+| Budapest | Budapesti Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
 | Budapest | Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet |
 
-| Budapest | Semmelweis Egyetem Klinikai Központ |
+| Budapest | Semmelweis Egyetem Reumatológiai és Immunológiai Klinika |
 
-| Budapest | Péterfy Kórház-Rendelőintézet |
+| Budapest | Budapesti Péterfy Sándor Utcai Kórház-Rendelőintézet |
 
 | Budapest | Semmelweis Egyetem Kútvölgyi Neurológiai Klinikai Csoport |
 
 | Budapest | Semmelweis Egyetem Neurológiai Klinika |
 
-| Budapest | Szent Imre Egyetemi Oktatókórház |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Neurológiai Klinika Neuroimmunológia |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Esztergom | Vaszary Kolos Kórház |
+| Esztergom | Komárom-Esztergom Vármegyei Vaszary Kolos Kórház |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nagykanizsa | Kanizsai Dorottya Kórház |
+| Nagykanizsa | Nagykanizsai Kanizsai Dorottya Kórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Neurológiai Klinika |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Salgótarján | Szent Lázár Megyei Kórház |
+| Salgótarján | Nógrád Vármegyei Szent Lázár Kórház |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Neurológiai Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Szent Rafael Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 34/a.
 
@@ -2494,41 +2484,43 @@ Kijelölt intézmények:
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Szent János Kórház és Észak-budai Egyesített Kórházak |
+| Budapest | Észak-budai Szent János Centrumkórház |
 
 | Budapest | Semmelweis Egyetem I. és II. sz. Gyermekgyógyászati Klinika |
 
 | Budapest | Semmelweis Egyetem I. és II. sz. Belgyógyászati Klinika – Endokrinológia |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Gyermekklinika, I. sz. Belgyógyászati Klinika Endokrinológiai Tanszék |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Hódmezővásárhely | Erzsébet Kórház-Rendelőintézet |
+| Hódmezővásárhely | Hódmezővásárhelyi-Makói Egészségügyi Ellátó Központ |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
+
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ Gyermekgyógyászati Klinika |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ I. sz. Belgyógyászati Klinika Endokrinológia |
 
-| Salgótarján | Szent Lázár Megyei Kórház |
+| Salgótarján | Nógrád Vármegyei Szent Lázár Kórház |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Endokrinológia |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Gyermekgyógyászati Klinika |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
 EÜ100 36/a.
 
@@ -2552,65 +2544,65 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Békéscsaba | Békés Megyei Központi Kórház |
+| Békéscsaba | Békés Vármegyei Központi Kórház |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Semmelweis Egyetem II. sz. Gyermekgyógyászati Klinika, I-II-III. sz. Belgyógyászati Klinika |
+| Budapest | Semmelweis Egyetem II. sz. Gyermekgyógyászati Klinika, I–II–III. sz. Belgyógyászati Klinika |
 
-| Budapest | Károlyi Sándor Kórház és Rendelőintézet |
+| Budapest | Budapesti Károlyi Sándor Kórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Cegléd | Toldy Ferenc Kórház és Rendelőintézet |
+| Cegléd | Ceglédi Toldy Ferenc Kórház és Rendelőintézet |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Belgyógyászati Klinika, Gyermekklinika |
 
-| Dunaújváros | Szent Pantaleon Kórház-Rendelőintézet |
+| Dunaújváros | Dunaújvárosi Szent Pantaleon Kórház-Rendelőintézet |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Gyöngyös | Bugát Pál Kórház |
+| Gyöngyös | Gyöngyösi Bugát Pál Kórház |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Keszthely | Keszthelyi Kórház és Rendelőintézet |
+| Keszthely | Keszthelyi Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Mosonmagyaróvár | Karolina Kórház |
+| Mosonmagyaróvár | Mosonmagyaróvári Karolina Kórház-Rendelőintézet |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Haematológia |
 
-| Salgótarján | Szent Lázár Megyei Kórház |
+| Salgótarján | Nógrád Vármegyei Szent Lázár Kórház |
 
-| Sopron | Országos Vérellátó Szolgálat, Sopron |
+| Sopron | Országos Vérellátó Szolgálat Soproni Területi Vérellátó |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, II. sz. Belgyógyászati Klinika, Gyermekgyógyászati Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 36/b.
 
@@ -2636,49 +2628,49 @@ Kijelölt intézmények:
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház, I. Belgyógyászati Osztály |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház, I. Belgyógyászati Osztály |
 
 | Budapest | Semmelweis Egyetem I., II., III. sz. Belgyógyászati Klinika |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Belgyógyászati Klinika |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
 | Keszthely | Keszthelyi Kórház és Rendelőintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Mosonmagyaróvár | Karolina Kórház |
+| Mosonmagyaróvár | Mosonmagyaróvári Karolina Kórház-Rendelőintézet |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika |
 
-| Sopron | Országos Vérellátó Szolgálat |
+| Sopron | Országos Vérellátó Szolgálat Soproni Területi Vérellátó |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, II. sz. Belgyógyászati Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház, Belgyógyászat Onko-Hematológia részlege |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház, Belgyógyászat Onko-Hematológia részlege |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
 EÜ100 36/c.
 
@@ -2706,31 +2698,31 @@ Kijelölt intézmények:
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Semmelweis Egyetem I-II-III. sz. Belgyógyászati Klinika |
+| Budapest | Semmelweis Egyetem I–II–III. sz. Belgyógyászati Klinika |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Belgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ I. sz. Belgyógyászati Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ II. sz. Belgyógyászati Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 37/a.
 
@@ -2754,59 +2746,59 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Péterfy Kórház-Rendelőintézet és Baleseti Központ |
+| Budapest | Budapesti Péterfy Sándor Utcai Kórház-Rendelőintézet |
 
-| Budapest | Szent Imre Kórház |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Budapest | Országos Onkológiai Intézet |
 
-| Budapest | Semmelweis Egyetem I. - II. - III. sz. Belgyógyászati Klinika |
+| Budapest | Semmelweis Egyetem I–II–III. sz. Belgyógyászati Klinika |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Onkológiai Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kerepestarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Onkoterápiás Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Onkoterápiás Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szentes | Dr. Bugyi István Kórház |
+| Szentes | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Dr. Bugyi István Szentesi Multidiszciplináris Centrum |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 37/b.
 
@@ -2832,43 +2824,43 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
 | Budapest | Országos Onkológiai Intézet |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika, Urológiai Klinika |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Onkológiai Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Onkoterápiás Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Onkoterápiás Klinika |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 37/c.
 
@@ -2894,43 +2886,43 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
 | Budapest | Országos Onkológiai Intézet |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika, Urológiai Klinika |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Onkológiai Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Onkoterápiás Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Onkoterápiás Klinika |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 38/a.
 
@@ -2982,11 +2974,11 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház, I. Belgyógyászati Osztály |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház, I. Belgyógyászati Osztály |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika |
 
@@ -3002,47 +2994,47 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Gyermekklinika |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Gyöngyös | Bugát Pál Kórház |
+| Gyöngyös | Gyöngyösi Bugát Pál Kórház |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
 | Keszthely | Keszthelyi Kórház és Rendelőintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Mosonmagyaróvár | Karolina Kórház |
+| Mosonmagyaróvár | Mosonmagyaróvári Karolina Kórház-Rendelőintézet |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Gyermekgyógyászati Klinika |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika |
 
-| Sopron | Országos Vérellátó Szolgálat |
+| Sopron | Országos Vérellátó Szolgálat Soproni Területi Vérellátó |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Belgyógyászati Klinika Haematológiai Osztály |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, Gyermekgyógyászati Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház, Haematológiai és Haemostaseológiai Osztály |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház, Haematológiai és Haemostaseológiai Osztály |
 
-| Tatabánya | Szent Borbála Kórház, Belgyógyászat Onko-Hematológia részlege |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház, Belgyógyászat Onko-Hematológia részlege |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
 EÜ100 38/c.
 
@@ -3066,63 +3058,61 @@ Kijelölt intézmények:
 
 | Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Péterfy Sándor utcai Kórház-Rendelőintézet |
+| Budapest | Budapesti Péterfy Sándor Utcai Kórház-Rendelőintézet |
 
 | Budapest | Országos Onkológiai Intézet |
 
 | Budapest | Semmelweis Egyetem |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Győr | Petz Aladár Egyetemi Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Szent Rafael Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 39/a.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Végstádiumú veseelégtelenség fenntartó dialízisterápiája során kialakult szekunder hyperparathyreosis kezelése, amennyiben a beteg szérum iPTH 500-800 pg/ml között van, és a konvencionális aktív D-vitamin kezelést dokumentáltan meg kellett szakítani a szérum kalciumszint normál szint fölé emelkedése miatt (Ca>2,4 mmol/l) vagy normokalcaemia esetén (Ca<2,4 mmol/l), ha a szérum iPTH>800 pg/ml és a mellékpajzsmirigy sebészeti eltávolítása kontraindikált
+– Végstádiumú veseelégtelenség fenntartó dialízisterápiája során kialakult szekunder hyperparathyreosis kezelése, amennyiben a beteg szérum iPTH 500-800 pg/ml között van, és a konvencionális aktív D-vitamin kezelést dokumentáltan meg kellett szakítani a szérum kalciumszint normál szint fölé emelkedése miatt (Ca>2,4 mmol/l) vagy normokalcaemia esetén (Ca<2,4 mmol/l), ha a szérum iPTH>800 pg/ml és a mellékpajzsmirigy sebészeti eltávolítása kontraindikált
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
 | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-| Kijelölt intézmény | Nephrológia | javasolhat és írhat |
-
-| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Nephrológia | javaslatra írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Nephrológia | javasolhat és írhat |
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -3132,41 +3122,39 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Szent Imre Kórház, Nephrologia-Hypertonia |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház Nephrologia-Hypertonia |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika |
 
-| Budapest | Uzsoki Utcai Kórház, Nephrológiai ambulancia |
+| Budapest | Budapesti Uzsoki Utcai Kórház, Nephrológiai ambulancia |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ I. sz. Belgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház, Nephrológia Osztály |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Oktató Kórház, Nephrológia Osztály |
 
-| Miskolc | FMC Nefrológiai Központ |
+| Miskolc | Borsod-Abúj-Zemplén Vármegyei Központi Kórház FMC Nephrológiai Központ |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház, I. sz. Belgyógyászat |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház, I. sz. Belgyógyászat |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, II. sz. Belgyógyászati Klinika és Nephrológiai Centrum |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
 EÜ100 39/b.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Végstádiumú veseelégtelenség fenntartó dialízisterápiája során kialakult szekunder hyperparathyreosis kezelése, amennyiben szérum iPTH 500-800 pg/ml között van, és a szérum Ca >2,4 mmol/l és a CaxP >4,44 mmol2/l2, vagy a szérum iPTH>800 pg/ml és a mellékpajzsmirigy sebészeti eltávolítása kontraindikált
+– Végstádiumú veseelégtelenség fenntartó dialízisterápiája során kialakult szekunder hyperparathyreosis kezelése, amennyiben szérum iPTH 500-800 pg/ml között van, és a szérum Ca>2,4 mmol/l és a CaxP>4,44 mmol2/l2, vagy a szérum iPTH>800 pg/ml és a mellékpajzsmirigy sebészeti eltávolítása kontraindikált
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
 | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-| Kijelölt intézmény | Nephrológia | javasolhat és írhat |
-
-| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Nephrológia | javaslatra írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Nephrológia | javasolhat és írhat |
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -3176,27 +3164,27 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Szent Imre Kórház, Nephrologia-Hypertonia |
+| Budapest | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház Nephrologia-Hypertonia |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika |
 
-| Budapest | Uzsoki Utcai Kórház, Nephrológiai ambulancia |
+| Budapest | Budapesti Uzsoki Utcai Kórház, Nephrológiai ambulancia |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, I. sz. Belgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház, Nephrológia Osztály |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház, Nephrológia Osztály |
 
-| Miskolc | FMC Nefrológiai Központ |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház FMC Nephrológiai Központ |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház, I. sz. Belgyógyászat |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház, I. sz. Belgyógyászat |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ II. sz. Belgyógyászati Klinika és Nephrológiai Centrum |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
 EÜ100 40.
 
@@ -3222,13 +3210,13 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Országos Onkológiai Intézet |
 
@@ -3236,27 +3224,27 @@ Kijelölt intézmények:
 
 | Budapest | Semmelweis Egyetem II. sz. Belgyógyászati Klinika |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Onkológiai Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Onkoterápiás Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Onkoterápiás Klinika |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 42.
 
@@ -3280,23 +3268,23 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Békéscsaba | Békés Megyei Központi Kórház |
+| Békéscsaba | Békés Vármegyei Központi Kórház |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Heim Pál Országos Gyermekgyógyászati Intézet Madarász utcai Részleg |
+| Budapest | Heim Pál Országos Gyermekgyógyászati Intézet Madarász Utcai Részleg |
 
 | Budapest | Semmelweis Egyetem |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Belgyógyászati Klinika |
 
-| Győr | Győri Regionális Vérellátó Központ |
+| Győr | OVSZ Győri Regionális Vérellátó Központ |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Nyíregyháza | OVSZ Nyíregyházi Területi Vérellátó |
 
@@ -3310,11 +3298,11 @@ Kijelölt intézmények:
 
 | Szolnok | OVSZ Szolnoki Területi Vérellátó |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 | Szombathely | OVSZ Szombathelyi Területi Vérellátó |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
 | Veszprém | OVSZ Veszprémi Területi Vérellátó |
 
@@ -3344,29 +3332,29 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
 | Budapest | Országos Onkológiai Intézet |
 
-| Budapest | Semmelweis Egyetem I. - II. sz. Gyermekgyógyászati Klinika, I. - II. sz. Belgyógyászati Klinika |
+| Budapest | Semmelweis Egyetem I–II. sz. Gyermekgyógyászati Klinika, I–II. sz. Belgyógyászati Klinika |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Belgyógyászati Klinika Endokrinológia Tanszék, Onkológiai Klinika |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ Endokrinológia Tanszék, Onkoterápiás Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ I. sz. Belgyógyászai Klinika Endokrinológia Tanszék, Onkoterápiás Klinika |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 44/a.
 
@@ -3402,11 +3390,11 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet V. Belgyógyászat |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet V. Belgyógyászat |
 
-| Debrecen | Kenézy Gyula Kórház és Rendelőintézet |
+| Debrecen | Debreceni Egyetem Klinikai Központ Kenézy Gyula Campus |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem I. sz. Belgyógyászati Klinika |
 
@@ -3436,41 +3424,41 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| Budapest | Budapesti Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
 | Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
 
-| Budapest | Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Országos Onkológiai Intézet |
 
-| Budapest | Országos Idegtudományi Intézet |
+| Budapest | Semmelweis Egyetem Klinikai Központ Idegsebészeti és Neurointervenciós Klinika |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Uzsoki Utcai Kórház |
+| Budapest | Budapesti Uzsoki Utcai Kórház |
 
 | Budapest | Semmelweis Egyetem II. Gyermekklinika |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Onkológiai Klinika, Gyermekklinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ Onkoterápiás Intézet, Gyermekgyógyászati Klinika |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Onkoterápiás Klinika, Gyermekgyógyászati Klinika |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
 EÜ100 52.
 
@@ -3500,7 +3488,7 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ Gyermekklinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ Gyermekgyógyászati Klinika |
 
@@ -3552,9 +3540,9 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai Intézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
 | Budapest | Semmelweis Egyetem I. sz. Belgyógyászati Klinika |
 
@@ -3562,43 +3550,45 @@ Kijelölt intézmények:
 
 | Budapest | Semmelweis Egyetem III. sz. Belgyógyászati Klinika |
 
+| Budapest | Heim Pál Országos Gyermekgyógyászati Intézet |
+
 | Debrecen | Debreceni Egyetem Klinikai Központ, Belgyógyászati Intézet |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
 | Keszthely | Keszthelyi Kórház és Rendelőintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Mosonmagyaróvár | Karolina Kórház |
+| Mosonmagyaróvár | Mosonmagyaróvári Karolina Kórház-Rendelőintézet |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika |
 
-| Sopron | Országos Vérellátó Szolgálat |
+| Sopron | Országos Vérellátó Szolgálat Soproni Területi Vérellátó |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ, II. sz. Belgyógyászati Klinika |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház – Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Tatabánya | Szent Borbála Kórház |
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
 | Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
@@ -3616,33 +3606,35 @@ Hosszútávú, elsődleges vagy másodlagos megelőzésként folyamatos alvadás
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Belgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Érsebészet | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Érsebészet | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Hematológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Hematológia | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Idegsebészet | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Idegsebészet | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Kardiológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Kardiológia | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Klinikai onkológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Klinikai onkológia | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Mellkassebészet | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Mellkassebészet | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Szívsebészet | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Szívsebészet | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Szülészet-nőgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Szülészet-nőgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/ Fekvőbeteg gyógyintézet | Tüdőgyógyászat | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Tüdőgyógyászat | javasolhat és írhat |
 
-|  | Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Gyermek hemato-onkológia | javasolhat és írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Gyermek hemato-onkológia | javasolhat és írhat |
 
-|  | Háziorvos | Megkötés nélkül | javaslatra írhat |
+| Járóbeteg szakrendelés/Fekvőbeteg gyógyintézet | Plasztikai- és égés-sebészet | javasolhat és írhat |
 
-|  |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap |
+| Háziorvos | Megkötés nélkül | javaslatra írhat |
+
+|  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap |
 
 ELFOGADHATÓ BNO KÓDOK (beleértve az összes azonosan kezdődő kódot):
 
@@ -3702,7 +3694,7 @@ Kijelölt intézmények:
 
 | Város | Intézmény neve |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
 | Budapest | Országos Onkológiai Intézet |
 
@@ -3710,13 +3702,13 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Debrecen | Kenézy Gyula Kórház és Rendelőintézet |
+| Debrecen | Debreceni Egyetem Klinikai Központ Kenézy Gyula Campus |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 60.
 
@@ -3782,19 +3774,19 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Kaposvár | Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
 EÜ100 62.
 
@@ -3822,27 +3814,27 @@ Kijelölt intézmények:
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Tüdőgyógyászati Klinika |
 
-| Deszk | Csongrád Megye Mellkasi Betegségek Szakkórháza |
+| Deszk | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Tüdőgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
 | Mátraháza | Mátrai Gyógyintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika, Tüdőgyógyászat |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház Pulmonológia |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház Pulmonológia |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 | Törökbálint | Református Pulmonológiai Centrum |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
 EÜ100 63.
 
@@ -3868,17 +3860,17 @@ Kijelölt intézmények:
 
 | Budapest | Semmelweis Egyetem |
 
-| Budapest | Dél-pesti Centrumkórház-Országos Hematológiai Intézet |
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
 
-| Debrecen | Debreceni Egyetem Orvos- és Egészségtudományi Centrum |
+| Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 64.
 
@@ -3928,11 +3920,11 @@ Kijelölt intézmények:
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Debrecen | Debreceni Egyetem Kenézy Gyula Egyetemi Kórház, Neurológiai Osztálya |
+| Debrecen | Debreceni Egyetem Klinikai Központ Kenézy Gyula Campus Neurológiai Osztálya |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház, nyíregyházi Neurológiai Osztály |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház, Neurológiai Osztály |
 
 EÜ100 66.
 
@@ -3960,25 +3952,25 @@ Kijelölt intézmények:
 
 | Budapest | Országos Korányi Pulmonológiai Intézet |
 
-| Budapest | Semmelweis Egyetem Pulmonológia Klinika |
+| Budapest | Semmelweis Egyetem Pulmonológiai Klinika |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ, Tüdőgyógyászati Klinika |
 
-| Deszk | Csongrád Megye Mellkasi Betegségek Szakkórháza |
+| Deszk | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Tüdőgyógyászati Klinika |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
 | Mátraháza | Mátrai Gyógyintézet |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, I. sz. Belgyógyászati Klinika, Tüdőgyógyászat |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Szolnok | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház-Rendelőintézet |
 
 | Törökbálint | Református Pulmonológiai Centrum |
 
@@ -3988,11 +3980,11 @@ Kijelölt intézmények:
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ, Gyermekgyógyászati Klinika |
 
-| Szeged | Szegedi Tudományegyetem Általános Orvostudományi Kar Gyermekgyógyászati Klinika és Gyermek Egészségügyi Központ, Tüdőgyógyászati Tanszék |
+| Szeged | Szegedi Tudományegyetem Általános Orvostudományi Kar Gyermekgyógyászati Klinika és Gyermekegészségügyi Központ, Tüdőgyógyászati Tanszék |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház Pulmonológia |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház Pulmonológia |
 
 EÜ100 67.
 
@@ -4098,7 +4090,7 @@ Kijelölt intézmények:
 
 | Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
 
-| Budapest | DUNAMENTI REK Kft. |
+| Budapest | DUNAMENTI REK Reprodukciós Központ |
 
 | Budapest | Semmelweis Egyetem Klinikai Központ |
 
@@ -4146,21 +4138,23 @@ Kijelölt intézmények:
 
 | Budapest | Semmelweis Egyetem |
 
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
+
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Oktató Kórház |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 73.
 
@@ -4186,21 +4180,23 @@ Kijelölt intézmények:
 
 | Budapest | Semmelweis Egyetem |
 
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
+
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Győr | Petz Aladár Megyei Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Oktató Kórház |
 
-| Kaposvár | Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
 EÜ100 74.
 
@@ -4246,7 +4242,7 @@ EÜ100 76.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-In vitro és/vagy in vivo diagnosztikával igazolt, klinikai tüneteket okozó túlérzékenység gyakran allergizáló táplálékra, gyógyszerre, rovarméregre abban az esetben, ha súlyos szisztémás reakció szerepel a kórtörténetben illetve bármilyen okból (foglakozás, környezet) nagy az anaphylaxia veszélye.
+In vitro és/vagy in vivo diagnosztikával igazolt, klinikai tüneteket okozó túlérzékenység gyakran allergizáló táplálékra, gyógyszerre, rovarméregre abban az esetben, ha súlyos szisztémás reakció szerepel a kórtörténetben, illetve bármilyen okból (foglakozás, környezet) nagy az anaphylaxia veszélye.
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
@@ -4260,7 +4256,21 @@ A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAK
 
 | Háziorvos | Megkötés nélkül | javaslatra írhat |
 
-| Megkötés nélkül Megkötés nélkül Megkötés nélkül | Allergológia és klinikai immunológia Gyermektüdőgyógyászat Tüdőgyógyászat | írhat írhat írhat |
+| Megkötés nélkül | Allergológia és klinikai immunológia | írhat |
+
+| Megkötés nélkül | Gyermektüdőgyógyászat | írhat |
+
+| Megkötés nélkül | Tüdőgyógyászat | írhat |
+
+| Megkötés nélkül | Bőrgyógyászat | írhat |
+
+| Megkötés nélkül | Fül-orr-gégegyógyászat | írhat |
+
+| Megkötés nélkül | Gasztroenterológia | írhat |
+
+| Megkötés nélkül | Gyermekgasztroenterológia | írhat |
+
+| Megkötés nélkül | Oxyológia és sürgősségi orvostan | írhat |
 
 |  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap |
 
@@ -4312,57 +4322,59 @@ Kijelölt intézmények:
 
 | Budapest | Magyarországi Református Egyház Bethesda Gyermekkórház |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Semmelweis Egyetem Reumatológiai és Immunológiai Klinika |
 
-| Budapest | Péterfy Sándor utcai Kórház-Rendelőintézet |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
+
+| Budapest | Budapesti Péterfy Sándor utcai Kórház-Rendelőintézet |
 
 | Budapest | Budai Irgalmasrendi Kórház |
 
 | Budapest | Semmelweis Egyetem |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
-| Budapest | Észak-Közép-budai Centrum Új Szent János Kórház és Szakrendelő |
+| Budapest | Észak-budai Szent János Centrumkórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Debrecen | Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| Debrecen | Debreceni Egyetem Klinikai Központ Kenézy Gyula Campus |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Esztergom | Vaszary Kolos Kórház |
+| Esztergom | Komárom-Esztergom Vármegyei Vaszary Kolos Kórház |
 
-| Győr | Petz Aladár Egyetemi Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Hévíz | Hévízgyógyfürdő és Szent András Reumakórház |
+| Hévíz | Hévízi Szent András Reumakórház és Gyógyfürdő |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | MÁV Kórház és Rendelőintézet |
+| Szolnok | Szolnok MÁV Kórház és Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Szent Rafael Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 77/a2.
 
@@ -4410,57 +4422,59 @@ Kijelölt intézmények:
 
 | Budapest | Magyarországi Református Egyház Bethesda Gyermekkórház |
 
-| Budapest | Észak-Pesti Centrum Kórház – Honvédkórház |
+| Budapest | Semmelweis Egyetem Reumatológiai és Immunológiai Klinika |
 
-| Budapest | Péterfy Sándor utcai Kórház-Rendelőintézet |
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
+
+| Budapest | Budapesti Péterfy Sándor utcai Kórház-Rendelőintézet |
 
 | Budapest | Budai Irgalmasrendi Kórház |
 
 | Budapest | Semmelweis Egyetem |
 
-| Budapest | Szent Margit Kórház |
+| Budapest | Budapesti Szent Margit Kórház |
 
-| Budapest | Észak-Közép-budai Centrum Új Szent János Kórház és Szakrendelő |
+| Budapest | Észak-budai Szent János Centrumkórház |
 
 | Debrecen | Debreceni Egyetem Klinikai Központ |
 
-| Debrecen | Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| Debrecen | Debreceni Egyetem Klinikai Központ Kenézy Gyula Campus |
 
-| Eger | Markhot Ferenc Oktatókórház és Rendelőintézet |
+| Eger | Heves Vármegyei Markhot Ferenc Oktatókórház és Rendelőintézet |
 
-| Esztergom | Vaszary Kolos Kórház |
+| Esztergom | Komárom-Esztergom Vármegyei Vaszary Kolos Kórház |
 
-| Győr | Petz Aladár Egyetemi Oktató Kórház |
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| Gyula | Békés Megyei Központi Kórház |
+| Gyula | Békés Vármegyei Központi Kórház |
 
-| Hévíz | Hévízgyógyfürdő és Szent András Reumakórház |
+| Hévíz | Hévízi Szent András Reumakórház és Gyógyfürdő |
 
-| Kaposvár | Somogy Megyei Kaposi Mór Oktató Kórház |
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| Kecskemét | Bács-Kiskun Megyei Kórház |
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
 
-| Kistarcsa | Pest Megyei Flór Ferenc Kórház |
+| Kistarcsa | Kistarcsai Flór Ferenc Kórház |
 
-| Miskolc | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
 
-| Nyíregyháza | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
 
 | Pécs | Pécsi Tudományegyetem Klinikai Központ |
 
 | Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| Székesfehérvár | Fejér Megyei Szent György Egyetemi Oktató Kórház |
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház |
 
-| Szekszárd | Tolna Megyei Balassa János Kórház |
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
 
-| Szolnok | MÁV Kórház és Rendelőintézet |
+| Szolnok | Szolnoki MÁV Kórház és Rendelőintézet |
 
-| Szombathely | Markusovszky Egyetemi Oktatókórház |
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| Veszprém | Csolnoky Ferenc Kórház |
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
 
-| Zalaegerszeg | Zala Megyei Szent Rafael Kórház |
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
 
 EÜ100 78.
 
@@ -4558,4 +4572,104 @@ Szekunder prevencióként azon felnőtt betegek kezelésére, akik életmódvál
 
 • egy sztatinnal vagy sztatinnal és egyéb lipidszintcsökkentő terápiákkal kombinálva
 
-[^126]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja, a 47/2011. (VII. 27.) NEFMI rendelet 8. § (2) bekezdése, a 67/2011. (XII. 13.) NEFMI rendelet 3. § a)–b) pontja, a 2/2012. (I. 3.) NEFMI rendelet 6. § (1)–(3) bekezdése, a 25/2012. (IV. 21.) NEFMI rendelet 2. § (1) bekezdése, a 10/2012. (VII. 19.) EMMI rendelet 2. § (1) bekezdése és 3. § d) pontja, a 10/2013. (I. 31.) EMMI rendelet 13. § (2) bekezdése és 14. § (3) bekezdése, a 31/2013. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 7/2014. (I. 29.) EMMI rendelet 9. § (2) bekezdése, a 33/2014. (IV. 18.) EMMI rendelet 2. § (1) és (3) bekezdése, a 10/2015. (II. 23.) EMMI rendelet 5. § (3) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 2. §-a, a 38/2015. (VIII. 17.) EMMI rendelet 4. § (2) bekezdése és 5. §-a, a 15/2016. (VII. 15.) EMMI rendelet 2. § (2) bekezdése, a 41/2016. (XII. 22.) EMMI rendelet 1. § (2) bekezdése, a 9/2017. (V. 31.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 2. § (1) bekezdése, a 28/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 2. § (3) bekezdése, a 3/2020. (I. 31.) EMMI rendelet 2. § (2) bekezdése, a 16/2020. (IV. 30.) EMMI rendelet 1. §-a, a 40/2021. (IX. 6.) EMMI rendelet 2. §-a, az 55/2021. (XII. 22.) EMMI rendelet 3. § (2) bekezdése, a 16/2022. (IV. 29.) EMMI rendelet 2. § (2) bekezdése, a 37/2022. (X. 28.) BM rendelet 4. § (2) bekezdése, az 55/2022. (XII. 27.) BM rendelet 5. §-a, az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése, a 70/2023. (XII. 23.) BM rendelet 13. §-a, a 41/2024. (IX. 5.) BM rendelet 2. § (1) bekezdése, az 57/2024. (XII. 20.) BM rendelet 6. § (1) bekezdése, a 10/2025. (IV. 4.) BM rendelet 11–13. §-a szerint módosított szöveg. [A 36/2019. (XII. 30.) EMMI rendelet rendelet 2. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. számú melléklet EÜ100 7/a., EÜ100 7/b., EÜ100 8/t., EÜ100 23/a., EÜ100 34., EÜ100 36/a., EÜ100 36/b., EÜ100 36/c., EÜ100 37/a., EÜ100 37/b., EÜ100 37/c., EÜ100 38/b., EÜ100 41., EÜ100 42., EÜ100 43., EÜ100 50., EÜ100 51., EÜ100 56. pontjában foglalt táblázatban az „Egyesített Szent István és Szent László Kórház és Rendelőintézet” szövegrész helyébe a „Dél-pesti Centrumkórház-Országos Hematológiai Intézet” szöveg lép, nem vezethető át.][Az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése által elrendelt módosítás, amely szerint hatályát veszti a 2. számú melléklet EÜ100 28., EÜ100 29. és EÜ100 37/b. pontjában a „finanszírozási eljárásrendekről szóló miniszteri rendeletben” szövegrész, nem vezethető át.]
+• bizonyítható sztatin intolerancia (CK emelkedés, egyértelműen sztatin terápiára visszavezethető szignifikáns májfunkció eltérés) vagy sztatin ellenjavallat esetén önmagában vagy egyéb lipidszintcsökkentő terápiákkal kombinálva
+
+A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
+
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+
+| Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Belgyógyászat | írhat |
+
+| Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Kardiológia | írhat |
+
+ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
+
+E780, E782, E784, E785
+
+EÜ100 83.
+
+TÁMOGATOTT INDIKÁCIÓK:
+
+Relabáló vagy refrakter, FLT3-ITD mutációval rendelkező akut myeloid leukémiában (AML) szenvedő felnőtt betegek kezelésére, monoterápiaként. A haemopoeticus-őssejttranszplantáció (HSCT) utáni fenntartó kezelésként a terápia nem adható.
+
+A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
+
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+
+| Kijelölt intézmény | Hematológia | írhat |
+
+ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
+
+C920
+
+Kijelölt intézmények:
+
+| Város | Intézmény neve |
+
+| Budapest | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
+
+| Budapest | Semmelweis Egyetem |
+
+| Budapest | Észak-Pesti Centrumkórház – Honvédkórház |
+
+| Debrecen | Debreceni Egyetem Klinikai Központ |
+
+| Eger | Heves Vármegyei Markhot Ferenc Kórház, Eger |
+
+| Győr | Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
+
+| Gyula | Békés Vármegyei Központi Kórház |
+
+| Kaposvár | Somogy Vármegyei Kaposi Mór Oktató Kórház |
+
+| Kecskemét | Bács-Kiskun Vármegyei Oktatókórház |
+
+| Miskolc | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
+
+| Nyíregyháza | Szabolcs-Szatmár-Bereg Vármegyei Oktatókh. |
+
+| Pécs | Pécsi Tudományegyetem Klinikai Központ |
+
+| Szeged | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| Székesfehérvár | Fejér Vármegyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+
+| Szekszárd | Tolna Vármegyei Balassa János Kórház |
+
+| Szolnok | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház – Rendelőintézet |
+
+| Szombathely | Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
+
+| Tatabánya | Komárom-Esztergom Vármegyei Szent Borbála Kórház |
+
+| Veszprém | Veszprém Vármegyei Csolnoky Ferenc Kórház |
+
+| Zalaegerszeg | Zala Vármegyei Szent Rafael Kórház |
+
+EÜ100 84.
+
+TÁMOGATOTT INDIKÁCIÓK:
+
+Mellékvese-elégtelenség hormonpótló kezelésére újszülötteknél, csecsemőknél, kisdedeknél, illetve kisgyermekeknél 20 kg testsúlyig.
+
+A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
+
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+
+| Megkötés nélkül | Csecsemő-gyermekgyógyászat | írhat |
+
+ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
+
+Q891
+
+EÜ100 85.
+
+TÁMOGATOTT INDIKÁCIÓK:
+
+Polycythaemia verában (PV) szenvedő, felnőtt betegek kezelésére, akik dokumentáltan rezisztensek vagy intoleránsak legalább 3 hónapos hidroxikarbamid (hidroxiurea, HU) kezelésre. Amennyiben a 32. héten végzett laboratóriumi vizsgálat során a hematocrit >45% vagy a thrombocytaszám >400 G/l vagy a fehérvérsejtszám >10 G/l, a terápiát fel kell függeszteni.
+
+A terápia leállítandó, ha legalább 28 napnyi kezelést követően, legalább két hónapig, havi 2 E-nyi vörösvérsejt transzfúziós igény mutatkozik, vagy legalább grade 3 szintű trombocitopenia, anémia, vagy vérzés lép fel. Relabáló a beteg, ha legalább 3 hónapos kezelés mellett a lép újra megnövekszik, amelyet a léptérfogat <10%-os vagy a lépméret <30%-os csökkenése jellemez a kezdeti választ követően.
+
+A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
+
+[^126]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja, a 47/2011. (VII. 27.) NEFMI rendelet 8. § (2) bekezdése, a 67/2011. (XII. 13.) NEFMI rendelet 3. § a)–b) pontja, a 2/2012. (I. 3.) NEFMI rendelet 6. § (1)–(3) bekezdése, a 25/2012. (IV. 21.) NEFMI rendelet 2. § (1) bekezdése, a 10/2012. (VII. 19.) EMMI rendelet 2. § (1) bekezdése és 3. § d) pontja, a 10/2013. (I. 31.) EMMI rendelet 13. § (2) bekezdése és 14. § (3) bekezdése, a 31/2013. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 7/2014. (I. 29.) EMMI rendelet 9. § (2) bekezdése, a 33/2014. (IV. 18.) EMMI rendelet 2. § (1) és (3) bekezdése, a 10/2015. (II. 23.) EMMI rendelet 5. § (3) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 2. §-a, a 38/2015. (VIII. 17.) EMMI rendelet 4. § (2) bekezdése és 5. §-a, a 15/2016. (VII. 15.) EMMI rendelet 2. § (2) bekezdése, a 41/2016. (XII. 22.) EMMI rendelet 1. § (2) bekezdése, a 9/2017. (V. 31.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 2. § (1) bekezdése, a 28/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 2. § (3) bekezdése, a 3/2020. (I. 31.) EMMI rendelet 2. § (2) bekezdése, a 16/2020. (IV. 30.) EMMI rendelet 1. §-a, a 40/2021. (IX. 6.) EMMI rendelet 2. §-a, az 55/2021. (XII. 22.) EMMI rendelet 3. § (2) bekezdése, a 16/2022. (IV. 29.) EMMI rendelet 2. § (2) bekezdése, a 37/2022. (X. 28.) BM rendelet 4. § (2) bekezdése, az 55/2022. (XII. 27.) BM rendelet 5. §-a, az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése, a 70/2023. (XII. 23.) BM rendelet 13. §-a, a 41/2024. (IX. 5.) BM rendelet 2. § (1) bekezdése, az 57/2024. (XII. 20.) BM rendelet 6. § (1) bekezdése, a 10/2025. (IV. 4.) BM rendelet 11–13. §-a, a 41/2025. (IX. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg. [A 36/2019. (XII. 30.) EMMI rendelet rendelet 2. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. számú melléklet EÜ100 7/a., EÜ100 7/b., EÜ100 8/t., EÜ100 23/a., EÜ100 34., EÜ100 36/a., EÜ100 36/b., EÜ100 36/c., EÜ100 37/a., EÜ100 37/b., EÜ100 37/c., EÜ100 38/b., EÜ100 41., EÜ100 42., EÜ100 43., EÜ100 50., EÜ100 51., EÜ100 56. pontjában foglalt táblázatban az „Egyesített Szent István és Szent László Kórház és Rendelőintézet” szövegrész helyébe a „Dél-pesti Centrumkórház-Országos Hematológiai Intézet” szöveg lép, nem vezethető át.][Az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése által elrendelt módosítás, amely szerint hatályát veszti a 2. számú melléklet EÜ100 28., EÜ100 29. és EÜ100 37/b. pontjában a „finanszírozási eljárásrendekről szóló miniszteri rendeletben” szövegrész, nem vezethető át.]
