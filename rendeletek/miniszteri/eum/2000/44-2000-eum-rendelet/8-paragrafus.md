@@ -2,11 +2,11 @@
 
 ## (A Kbtv. 23. §-ához)
 
-8. § (1)[^12] Az országos tisztifőorvos által működtetett Egészségügyi Toxikológiai Tájékoztató Szolgálat (a továbbiakban: ETTSZ) feladata a veszélyes anyagok és veszélyes keverékek adatainak gyűjtése és feldolgozása, információadás céljából történő rendszerezése. Az ETTSZ látja el az 1272/2008/EK európai parlamenti és tanácsi rendelet 45. cikkében meghatározott, a keverékeket forgalomba hozó importőröktől és továbbfelhasználóktól beérkező információk fogadásával, kezelésével és felhasználásával kapcsolatos feladatokat.
+8. § (1)[^12] Az országos tisztifőorvos által működtetett Egészségügyi Toxikológiai Tájékoztató Szolgálat (a továbbiakban: ETTSZ) látja el az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet) 45. cikkében meghatározott, a keverékeket forgalomba hozó importőröktől és továbbfelhasználóktól beérkező információk fogadásával, kezelésével és felhasználásával kapcsolatos feladatokat. Az ETTSZ kezeli az 1272/2008/EK európai parlamenti és tanácsi rendelet 45. cikke szerinti bejelentés alkalmazását megelőzően a veszélyes anyagokra és veszélyes keverékekre benyújtott információkat.
 
-(2)[^13] Az ETTSZ a veszélyes keverékekről terméknyilvántartást vezet.
+(2)[^13]
 
-(3)[^14] Az ETTSZ a nyilvántartásában szereplő veszélyes anyagokra és veszélyes keverékekre vonatkozó megkeresésre felvilágosítást ad
+(3)[^14] Az ETTSZ a veszélyes anyagokra és veszélyes keverékekre vonatkozó megkeresésre felvilágosítást ad
 
 a) a mérgezettek orvosi elsősegélynyújtását és egészségügyi ellátását végzők részére a betegellátáshoz szükséges mértékben;
 
@@ -49,9 +49,9 @@ i)[^18] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 (11)[^29] A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyért felelős miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
 [^11]: A 7. § a 26/2007. (VI. 7.) EüM rendelet 1. §-ával megállapított, valamint a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének d) pontja, a 25/2010. (V. 12.) EüM rendelet 2. § b) pontja szerint módosított szöveg.
-[^12]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^13]: A 8. § (2) bekezdése a 25/2010. (V. 12.) EüM rendelet 2. § m) pontja, a 75/2023. (XII. 23.) BM rendelet 4. § b) pontja szerint módosított szöveg.
-[^14]: A 8. § (3) bekezdés nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 2. § n) pontja szerint módosított szöveg.
+[^12]: A 8. § (1) bekezdése a 41/2025. (IX. 29.) BM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 8. § (2) bekezdését a 41/2025. (IX. 29.) BM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^14]: A 8. § (3) bekezdés nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 2. § n) pontja, a 41/2025. (IX. 29.) BM rendelet 2. § c) pontja szerint módosított szöveg.
 [^15]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § f) pontja, a 38/2018. (X. 31.) EMMI rendelet 6. §-a, a 45/2022. (XII. 20.) BM rendelet 19. § a) pontja szerint módosított szöveg.
 [^16]: A 8. § (3) bekezdésének c) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^17]: [Az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés f) pontjában foglalt módosítás, mely szerint a 8. § (3) bekezdés f) pontjában „a környezet- és természetvédelmi, illetve a vízügyi vízügyi felügyeletek” szövegrész helyébe az „a környezet- és természetvédelmi, illetve a vízügyi hatóságok” szöveg lép, nem vezethető át.]
