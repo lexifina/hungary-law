@@ -10,8 +10,11 @@
 
 (5)[^200] Egyéni vadászat esetén, ha ahhoz a vadászatra jogosult kísérővadászt állított, a kísérővadász köteles a vadászat megkezdése előtt balesetvédelmi eligazítást tartani. Társas vadászat esetén a vadászatvezető a vadászat megkezdése előtt balesetvédelmi eligazítást tart, amelynek megtörténtét a résztvevők aláírásukkal igazolnak.
 
+(6)[^201] Elektronikus vadászati napló és teríték-nyilvántartás használata esetén a vadászatvezető a balesetvédelmi eligazításról jegyzőkönyvet vesz fel, amelyet a társas vadászaton jelenlévők aláírásukkal igazolnak. Az ilyen módon létrejött jegyzőkönyvet 5 napon belül az elektronikus alkalmazásba fel kell tölteni.
+
 [^196]: A Vhr. 67. § (1) bekezdése a 24/2017. (V. 17.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^197]: A Vhr. 67. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 33. §-ával megállapított, az 57/2023. (X. 16.) AM rendelet 28. § 25. pontja szerint módosított szöveg.
 [^198]: A Vhr. 67. § (3a) bekezdését a 24/2017. (V. 17.) FM rendelet 20. § (2) bekezdése iktatta be, szövege az 57/2023. (X. 16.) AM rendelet 28. § 26. pontja, az 56/2024. (X. 31.) AM rendelet 17. § n) pontja szerint módosított szöveg.
 [^199]: A Vhr. 67. § (4) bekezdése a 6/2025. (IV. 10.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^200]: A Vhr. 67. § (5) bekezdését a 6/2025. (IV. 10.) AM rendelet 6. § (1) bekezdése iktatta be.
+[^201]: A Vhr. 67. § (6) bekezdését a 6/2025. (IV. 10.) AM rendelet 6. § (2) bekezdése iktatta be.

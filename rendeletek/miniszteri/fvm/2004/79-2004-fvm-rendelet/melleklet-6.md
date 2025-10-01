@@ -250,7 +250,7 @@
 
 ## 33. a nemzetközi jelentőségű vadvízként (ramsari területként) közzétett Böddi-szék és Sóséri-puszta.
 
-6. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^317]
+6. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^318]
 
 A vadgazdálkodási üzemterv tartalmi követelményei
 
@@ -308,4 +308,4 @@ A vadgazdálkodási üzemterv tartalmi követelményei
 
 8.3. A tervben felhasznált adatok és szakirodalom forrásai.
 
-[^317]: A Vhr. 6. számú melléklete az 56/2024. (X. 31.) AM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^318]: A Vhr. 6. számú melléklete az 56/2024. (X. 31.) AM rendelet 16. § (4) bekezdésével megállapított szöveg.

@@ -20,7 +20,7 @@ ha a vadállományban vagy az élőhely állapotában, illetve a vadállomány h
 
 (5) A vadászati hatóság az éves vadgazdálkodási terv időarányos teljesítéséről év közbeni adatszolgáltatást is előírhat.
 
-(6)[^99] Gímszarvas és dámszarvas esetében a vadászati hatóság előírhatja, hogy a vadászatra jogosult az (5) bekezdésben meghatározott kötelezettségét az elejtést követően haladéktalanul, elektronikus úton, fotódokumentáció megküldésével teljesítse.
+(6)[^99] Gímszarvas és dámszarvas esetében a vadászati hatóság előírhatja, hogy a vadászatra jogosult az (5) bekezdésben meghatározott kötelezettségét az elejtést követően haladéktalanul, elektronikus úton, fotódokumentáció megküldésével teljesítse. A Vtv. 58/A. § b) pontja szerint vezetett elektronikus vadászati napló és teríték-nyilvántartás használata esetén az (5) bekezdés szerinti adatszolgáltatási kötelezettség az elektronikus vadászati napló és teríték-nyilvántartás útján is teljesíthető.
 
 [^93]: A Vhr. 29. §-a a 24/2017. (V. 17.) FM rendelet 8. §-ával megállapított szöveg.
 [^94]: A Vhr. 29. § (2) bekezdése az 57/2023. (X. 16.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
@@ -28,4 +28,4 @@ ha a vadállományban vagy az élőhely állapotában, illetve a vadállomány h
 [^96]: A Vhr. 29. § (3a) bekezdését az 57/2023. (X. 16.) AM rendelet 6. § (2) bekezdése iktatta be.
 [^97]: A Vhr. 29. § (3b) bekezdését az 57/2023. (X. 16.) AM rendelet 6. § (2) bekezdése iktatta be.
 [^98]: A Vhr. 29. § (4) bekezdés a) pontja az 57/2023. (X. 16.) AM rendelet 28. § 15. pontja szerint módosított szöveg.
-[^99]: A Vhr. 29. § (6) bekezdését az 57/2023. (X. 16.) AM rendelet 6. § (3) bekezdése iktatta be.
+[^99]: A Vhr. 29. § (6) bekezdését az 57/2023. (X. 16.) AM rendelet 6. § (3) bekezdése iktatta be, szövege a 6/2025. (IV. 10.) AM rendelet 2. §-ával megállapított szöveg.

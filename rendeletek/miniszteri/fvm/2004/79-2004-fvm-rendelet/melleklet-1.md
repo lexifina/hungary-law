@@ -1,4 +1,4 @@
-1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^307]
+1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^308]
 
 1. A tulajdonosi közösség közös képviselőjének nyilvántartásba vétele iránti kérelem kötelező adattartalma
 
@@ -26,7 +26,7 @@
 
 2.7. Keltezés, a kérelmező aláírása (bélyegzője)
 
-3.[^308] A vadaskert vadászatra jogosultjának nyilvántartásba vétele iránti kérelem kötelező adattartalma
+3.[^309] A vadaskert vadászatra jogosultjának nyilvántartásba vétele iránti kérelem kötelező adattartalma
 
 3.1. A Vtv. 92. § (2) bekezdés b) pontjában meghatározott adatok
 
@@ -40,5 +40,5 @@
 
 3.6. Keltezés, a kérelmező aláírása (bélyegzője)
 
-[^307]: A Vhr. 1. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^308]: A Vhr. 1. számú melléklet 3. pontját az 56/2024. (X. 31.) AM rendelet 16. § (1) bekezdése iktatta be.
+[^308]: A Vhr. 1. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^309]: A Vhr. 1. számú melléklet 3. pontját az 56/2024. (X. 31.) AM rendelet 16. § (1) bekezdése iktatta be.
