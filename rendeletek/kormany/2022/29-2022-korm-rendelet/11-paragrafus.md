@@ -1,3 +1,3 @@
-11. §[^21]
+11. §[^28]
 
-[^21]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

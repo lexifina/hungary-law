@@ -1,4 +1,4 @@
-2/A. §[^6] (1) A Szolgáltatóközpont közszolgáltatásként kórházi információs rendszert biztosít a 2. melléklet 2. pont h) és i) alpontja szerinti szervek (e rendelet alkalmazásában a továbbiakban: igénybevevők) részére.
+2/A. §[^7] (1) A Szolgáltatóközpont közszolgáltatásként kórházi információs rendszert biztosít a 2. melléklet 2. pont h) és i) alpontja szerinti szervek (e rendelet alkalmazásában a továbbiakban: igénybevevők) részére.
 
 (2) Az (1) bekezdés szerinti igénybevevők kötelesek a Szolgáltatóközpont által biztosított kórházi információs rendszer igénybevételére.
 
@@ -10,4 +10,4 @@
 
 (6) A Szolgáltatóközpont a (4) és (5) bekezdés szerint nyújtott közszolgáltatások ellentételezésére és az észszerű nyereség elszámolására az 5. § szerint tarthat igényt.
 
-[^6]: A 2/A. §-t a 293/2024. (X. 9.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A 2/A. §-t a 293/2024. (X. 9.) Korm. rendelet 4. §-a iktatta be.
