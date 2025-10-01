@@ -4,8 +4,8 @@
 
 ## [3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-## 1.[^1]
+## 1. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-1. §
+1. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet a következő 41. §-sal egészül ki:
 
-[^1]: Az 1. alcím a 22. § (2) bekezdése alapján 2025. október 1-jén lép hatályba.
+„41. § Azok a támogatott személyek, akiknek a törlesztés szüneteltetése iránti kérelmét a 2025. október 1-je előtt hatályos 14. § (6) bekezdésében foglalt benyújtási határidő elmulasztása miatt utasították el, 2025. október 1. napjától számított 60 napon belül jogosultak a törlesztés-szüneteltetés iránti kérelmüket ismételten benyújtani.”

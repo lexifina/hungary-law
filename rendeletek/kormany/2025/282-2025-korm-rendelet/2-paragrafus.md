@@ -1,1 +1,1 @@
-2. §
+2. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet 14. § (6) bekezdés záró szövegrészében a „nyújtható be” szövegrész helyébe a „nyújtható be, azzal, hogy a (3) bekezdésben meghatározott esetben a kérelmezési határidő – a támogatott személyek választása szerint – az a)–c) pontban meghatározott időpontok helyett a korábbi törlesztés-szüneteltetés lejártától is számítható” szöveg lép.
