@@ -1,0 +1,1 @@
+374. § E törvénynek az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 6/C. számú melléklet 1a. és 2a. pontját a 2025. október 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallások tekintetében kell először alkalmazni.

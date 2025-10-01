@@ -38,8 +38,8 @@ a) az áru átengedéséről szóló vámhatóság általi értesítés számár
 
 b) az importáló adószámáról,
 
-c) az adó alapjáról és
+c) az adó forintban meghatározott alapjáról és
 
-d) az adó összegéről.
+d) az adó forintban meghatározott összegéről.
 
 (6) Az az adóalany, aki (amely) bevallási kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerint teljesíti, az (5) bekezdésben említett nyilatkozattételi kötelezettségét a 184. § (2) bekezdés b) vagy c) pontja szerinti bevallásában teljesíti.
