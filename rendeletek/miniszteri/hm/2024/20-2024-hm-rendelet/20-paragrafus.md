@@ -1,3 +1,3 @@
-20. § (1) A szülési szolgálatmentesség idejére járó illetmény személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.
+20. §[^1]
 
-(2) Nem folyósítható illetmény a szülési szolgálatmentesség alatt az állomány tagjának, ha bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – díjazás ellenében munkát végez, vagy hatósági engedélyhez kötött keresőtevékenységét személyesen folytatja, ide nem értve a gyakorolható tevékenységet.
+[^1]: A 20. §-t a 10/2025. (IX. 5.) HM rendelet 3. §-a hatályon kívül helyezte.
