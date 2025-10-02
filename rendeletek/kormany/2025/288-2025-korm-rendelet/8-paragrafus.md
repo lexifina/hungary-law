@@ -1,3 +1,3 @@
-8. § Az R2. 12/A. §-a a következő (3) bekezdéssel egészül ki:
+8. §[^9]
 
-„(3) Az (1) és a (2) bekezdés szerinti díjazást az elektronikus beutalók használatának figyelembevételével a 42. számú mellékletben foglaltak szerint korrigálni kell.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

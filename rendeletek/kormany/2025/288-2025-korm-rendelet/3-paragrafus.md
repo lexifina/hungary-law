@@ -1,3 +1,3 @@
-3. § Az R1. 3/A. §-a a következő (10f) bekezdéssel egészül ki:
+3. §[^4]
 
-„(10f) A beutaló orvos tájékoztatja a beteget arról, hogy a beutalóban szereplő ellátásra egészségszakmai szempontból legkorábban milyen időpontot vehet igénybe.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

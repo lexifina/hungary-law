@@ -1,3 +1,3 @@
-11. § (1) Az R2. 6/A. számú melléklete az 1. melléklet szerint módosul.
+11. §[^12]
 
-(2) Az R2. a 2. melléklet szerinti 42. számú melléklettel egészül ki.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

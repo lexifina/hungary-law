@@ -32,6 +32,6 @@
 
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: R1.) 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(6) Az (1) bekezdés b) pontjában foglaltakat is figyelembe véve, ha a beutaló-köteles járóbeteg-szakellátás keretében a biztosított ismételt ellátása, ideértve a kontrollvizsgálatot is (a továbbiakban: visszarendelés) orvosszakmai szempontból indokolt, a visszarendeléshez a járóbeteg-szakellátás orvosa részéről új beutaló kiállítása szükséges, kivéve, ha a visszarendeléssel érintett ellátás során közvetlen orvosi közreműködés nem szükséges.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

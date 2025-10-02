@@ -1,5 +1,3 @@
-9. § Az R2. IV. fejezet „Általános szabályok” alcíme a következő 26/B. §-sal egészül ki:
+9. §[^10]
 
-„26/B. § (1) Ha a Vhr. az elektronikus beutaló kiállítását kötelezővé teszi, ennek elmulasztása esetén a beutaló szakellátó szolgáltatótól és – a Vhr. 4/A. § (3a) bekezdésében foglalt eset kivételével – a nem elektronikus beutaló alapján ellátást nyújtó szolgáltatótól az adott ellátás után járó összeg 10%-a, de legfeljebb 1000 forint levonásra kerül.
-
-(2) Ha a beutaló alapján ellátást nyújtó egészségügyi szolgáltató a Vhr. szerinti, az elektronikus beutaló EESZT-ben történő rögzítésére vonatkozó kötelezettségét nem teljesíti, a szolgáltatótól az adott ellátás után járó összeg 10%-a, de legfeljebb 1000 forint levonásra kerül.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
