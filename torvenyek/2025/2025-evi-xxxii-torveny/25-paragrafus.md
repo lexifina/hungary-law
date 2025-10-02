@@ -1,7 +1,1 @@
-25. § Hatályát veszti a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény
-
-a)
-
-b)
-
-c) 19. § (2) bekezdés m) pontja.
+### 25. §
