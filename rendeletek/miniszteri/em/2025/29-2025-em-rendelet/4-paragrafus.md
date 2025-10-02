@@ -1,1 +1,3 @@
-4. § Az Árrendelet 5. § (2) bekezdés b) pontjában a „Részvénytársaság” szövegrész helyébe a „Részvénytársaság (a továbbiakban: ÁKK)” szöveg lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

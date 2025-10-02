@@ -1,3 +1,3 @@
-5. §[^2]
+5. §[^5]
 
-[^2]: Az 5. § a 9. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^5]: Az 5. § a 9. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

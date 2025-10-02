@@ -1,1 +1,3 @@
-6. § Hatályát veszti az Árrendelet 2. melléklet 2.3.1. pontjában a „bruttó” szövegrész.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -8,6 +8,6 @@
 
 ## 1. A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet módosítása
 
-1. § A távhőszolgáltatónak értékesített távhő árának, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díjának megállapításáról szóló 50/2011. (IX. 30.) NFM rendelet (a továbbiakban: Árrendelet) 5. § (2) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek, és a bekezdés a következő f) ponttal egészül ki:
+1. §[^1]
 
-(A nyereségtényező)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
