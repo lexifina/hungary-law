@@ -8,6 +8,6 @@
 
 ## az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet [a továbbiakban: 29/2022. (I. 31.) Korm. rendelet] 2. §-a a következő (1d) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1d) A Szolgáltatóközpont ellátja EESZT-hez csatlakozásra köteles egészségügyi szolgáltatók és csatlakozásra kötelezett más szervezetek EESZT csatlakozásához kapcsolódó műszaki bevizsgálásának feladatait.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 29/2022. (I. 31.) Korm. rendelet 2. § (1a) bekezdésében a „szükséges műszaki bevizsgáláshoz” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

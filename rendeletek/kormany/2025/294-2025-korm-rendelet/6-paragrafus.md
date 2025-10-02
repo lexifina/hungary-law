@@ -1,1 +1,3 @@
-6. § A 29/2022. (I. 31.) Korm. rendelet 2. § (2) bekezdésében az „(1)–(1c)” szövegrész helyébe az „(1)–(1d)” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
