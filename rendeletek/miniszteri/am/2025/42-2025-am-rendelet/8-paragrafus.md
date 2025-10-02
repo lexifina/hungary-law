@@ -1,3 +1,3 @@
-8. § A 36/2014. (XII. 17.) FM rendelet 10. § (2) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek, és a bekezdés a következő g) és h) ponttal egészül ki:
+8. §[^6]
 
-(Ez a rendelet)
+[^6]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
