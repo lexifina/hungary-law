@@ -4,6 +4,6 @@
 
 ## 1. A hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet módosítása
 
-1. § A hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet (a továbbiakban: R.) 96. § (2) bekezdése a következő h) ponttal egészül ki:
+1. §[^2]
 
-[A szülési szolgálatmentességet az (1) bekezdés szerinti – a gyermek születése napjától számított – időtartamból még hátralévő időre engedélyezni kell továbbá]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
