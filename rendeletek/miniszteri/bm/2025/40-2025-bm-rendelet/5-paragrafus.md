@@ -1,11 +1,3 @@
-5. § Hatályát veszti a 39/2016. (XII. 21.) EMMI rendelet
+5. §[^6]
 
-a) 2. § (3) bekezdése,
-
-b) 3. § (2) bekezdés f)–i) pontja,
-
-c) 3/A. § (5)–(8) bekezdése,
-
-d) 11. § (6) bekezdése,
-
-e) 6. melléklete.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
