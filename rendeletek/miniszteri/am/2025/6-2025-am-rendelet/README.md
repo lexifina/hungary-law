@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-6-20-7R
 | 2025-04-18 | 2025-6-20-7R.1 | 6/2025. (IV. 10.) AM rendelet |
 | 2025-04-19 | 2025-6-20-7R.2 | 2010. évi CXXX. törvény |
 | 2025-10-01 | 2025-6-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-10-02 | 2025-6-20-7R.4 | 2010. évi CXXX. törvény |

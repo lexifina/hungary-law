@@ -1,1 +1,3 @@
-7. § A 79/2004. (V. 4.) FVM rendelet 13. számú melléklete az 1. melléklet szerinti módosul.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
