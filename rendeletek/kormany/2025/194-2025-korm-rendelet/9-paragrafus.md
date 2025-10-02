@@ -1,1 +1,3 @@
-9. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 5. melléklete az 1. melléklet szerint módosul.
+9. §[^2]
+
+[^2]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
