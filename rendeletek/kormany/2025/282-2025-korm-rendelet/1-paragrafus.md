@@ -6,6 +6,6 @@
 
 ## 1. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-1. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet a következő 41. §-sal egészül ki:
+1. §[^2]
 
-„41. § Azok a támogatott személyek, akiknek a törlesztés szüneteltetése iránti kérelmét a 2025. október 1-je előtt hatályos 14. § (6) bekezdésében foglalt benyújtási határidő elmulasztása miatt utasították el, 2025. október 1. napjától számított 60 napon belül jogosultak a törlesztés-szüneteltetés iránti kérelmüket ismételten benyújtani.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
