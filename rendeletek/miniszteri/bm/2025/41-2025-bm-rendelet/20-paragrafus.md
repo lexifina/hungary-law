@@ -1,9 +1,5 @@
 ## 10. A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet módosítása
 
-20. § A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet [a továbbiakban: 41/2007. (IX. 19.) EüM rendelet]
+20. §[^29]
 
-a) 1. §-ában a „Gyftv. 3. §-ának p)–s) pontjaiban” szövegrész helyébe a „Gyftv. 3. § 16–18. pontjában” szöveg,
-
-b) 3. § (2c) bekezdésében a „gyógyszertár” szövegrész helyébe a „fiókgyógyszertár” szöveg
-
-lép.
+[^29]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

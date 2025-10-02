@@ -1,1 +1,3 @@
-19. § Hatályát veszti a 14/2007. (III. 14.) EüM rendelet 14/B. §-a.
+19. §[^28]
+
+[^28]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

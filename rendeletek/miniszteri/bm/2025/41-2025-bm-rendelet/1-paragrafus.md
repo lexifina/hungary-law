@@ -32,6 +32,6 @@
 
 ## 1. A veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet módosítása
 
-1. § A veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet [a továbbiakban: 44/2000. (XII. 27.) EüM rendelet] 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) Az országos tisztifőorvos által működtetett Egészségügyi Toxikológiai Tájékoztató Szolgálat (a továbbiakban: ETTSZ) látja el az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet) 45. cikkében meghatározott, a keverékeket forgalomba hozó importőröktől és továbbfelhasználóktól beérkező információk fogadásával, kezelésével és felhasználásával kapcsolatos feladatokat. Az ETTSZ kezeli az 1272/2008/EK európai parlamenti és tanácsi rendelet 45. cikke szerinti bejelentés alkalmazását megelőzően a veszélyes anyagokra és veszélyes keverékekre benyújtott információkat.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

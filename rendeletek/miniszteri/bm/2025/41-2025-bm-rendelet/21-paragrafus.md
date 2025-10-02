@@ -1,1 +1,3 @@
-21. § Hatályát veszti a 41/2007. (IX. 19.) EüM rendelet 36. § (6) bekezdése.
+21. §[^30]
+
+[^30]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

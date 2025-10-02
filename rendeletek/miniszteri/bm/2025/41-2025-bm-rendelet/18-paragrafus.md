@@ -1,25 +1,31 @@
 18. § A 14/2007. (III. 14.) EüM rendelet
 
-a) 10/E. § (1) bekezdés d) pontjában a „(4)–(5) bekezdés” szövegrész helyébe a „Korm. rendelet 13. § (3)–(4) bekezdése” szöveg,
+a)[^19]
 
-b)[^3]
+b)[^20]
 
-c)[^4]
+c)[^21]
 
-d) 10. számú mellékletében foglalt táblázat E:547 mezőjében a „300 000” szövegrész helyébe az „500 000” szöveg,
+d)[^22]
 
-e) 10. számú mellékletében foglalt táblázat E:594 mezőjében a „400 000” szövegrész helyébe a „600 000” szöveg,
+e)[^23]
 
-f) 10. számú mellékletében foglalt táblázat F:202 mezőjében az „egészségügyi szakellátás” szövegrész helyébe az „az egészségügyi szakellátás” szöveg,
+f)[^24]
 
-g) 10. számú mellékletében foglalt táblázat G:973 mezőjében az „A szakorvosi javaslat maximális érvényességi időtartama: 24 hónap.” szövegrész helyébe az „A szakorvosi javaslat érvényessége addig tart, amíg a rendelt eszköz funkcionális csoportja és felszívókapacitása megfelelő. Amennyiben más funkcionális csoportba tartozó vagy nagyobb felszívókapacitású eszköz szükséges, annak rendelésére új szakorvosi javaslat alapján kerülhet sor.” szöveg,
+g)[^25]
 
-h)[^5]
+h)[^26]
 
-i) 16. számú melléklet 4. pont b) alpontjában az „az 1.3. pont szerinti” szövegrész helyébe az „a 3. pont szerinti” szöveg
+i)[^27]
 
 lép.
 
-[^3]: A 18. § b) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^4]: A 18. § c) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^5]: A 18. § h) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^19]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 18. § b) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^21]: A 18. § c) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^22]: A 18. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 18. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 18. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 18. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 18. § h) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^27]: A 18. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

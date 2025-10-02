@@ -1,9 +1,3 @@
-2. § Hatályát veszti a 44/2000. (XII. 27.) EüM rendelet
+2. §[^2]
 
-a) 3. § (1) bekezdése,
-
-b) 8. § (2) bekezdése,
-
-c) 8. § (3) bekezdésében a „nyilvántartásában szereplő” szövegrész,
-
-d) 5. számú melléklete.
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,5 @@
 ## 11. Az orvostechnikai eszközök klinikai vizsgálatáról szóló 33/2009. (X. 20.) EüM rendelet módosítása
 
-22. § Hatályát veszti az orvostechnikai eszközök klinikai vizsgálatáról szóló 33/2009. (X. 20.) EüM rendelet Melléklet
+22. §[^31]
 
-a) II. pont A) alpontjában az „– érvényes minőségbiztosítási tanúsítvánnyal rendelkező –” szövegrész,
-
-b) III. pont A) alpontjában az „érvényes minőségbiztosítási tanúsítvánnyal rendelkező” szövegrész.
+[^31]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. § A 44/2004. (IV. 28.) ESZCSM rendelet 18. §-a a következő (1a) bekezdéssel egészül ki:
+9. §[^9]
 
-„(1a) Ha a gyógyszer alkalmazási előírása a kiadásra az (1) bekezdésben foglaltnál rövidebb időtartamot határoz meg, a kiadásra az alkalmazási előírás rendelkezéseinek megfelelően kerülhet sor.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

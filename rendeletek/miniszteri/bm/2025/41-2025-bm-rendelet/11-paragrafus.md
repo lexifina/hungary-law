@@ -1,9 +1,10 @@
 11. § A 44/2004. (IV. 28.) ESZCSM rendelet
 
-a)[^1]
+a)[^11]
 
-b) 22/E. § (4) bekezdésében az „az R. 2. § (4) bekezdése szerinti módszertani levélben foglaltak szerint” szövegrész helyébe az „az R.-ben foglaltak szerint” szöveg
+b)[^12]
 
 lép.
 
-[^1]: A 11. § a) pontja a 24. § (2) bekezdése alapján 2025. november 28-án lép hatályba.
+[^11]: A 11. § a) pontja a 24. § (2) bekezdése alapján 2025. november 28-án lép hatályba.
+[^12]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
