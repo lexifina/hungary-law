@@ -1,10 +1,10 @@
 ## 11. A kifizetési kérelem benyújtása
 
-17. § (1)[^58] A kérelmező a (3) bekezdésben meghatározott adattartalmú kifizetési kérelmét az 1. § 6. pontjában meghatározott szállítási időszakokban kiszállított termékekre vonatkozóan, időszakonként egy alkalommal, az adott időszakot követő harmadik hónap utolsó napjáig nyújthatja be a Kincstár által erre a célra rendszeresített elektronikus űrlapon, elektronikus azonosítást követően a 8. §-ban foglaltak szerint.
+17. § (1)[^61] A kérelmező a (3) bekezdésben meghatározott adattartalmú kifizetési kérelmét az 1. § 6. pontjában meghatározott szállítási időszakokban kiszállított termékekre vonatkozóan, időszakonként egy alkalommal, az adott időszakot követő harmadik hónap utolsó napjáig nyújthatja be a Kincstár által erre a célra rendszeresített elektronikus űrlapon, elektronikus azonosítást követően a 8. §-ban foglaltak szerint.
 
-(2)[^59] A kifizetési kérelem (1) bekezdésben meghatározott határidőn túli benyújtása esetén a (EU) 2017/39 bizottsági végrehajtási rendelet 4. cikk (5) bekezdése szerinti jogkövetkezményeket kell alkalmazni.
+(2)[^62] A kifizetési kérelem (1) bekezdésben meghatározott határidőn túli benyújtása esetén a (EU) 2017/39 bizottsági végrehajtási rendelet 4. cikk (5) bekezdése szerinti jogkövetkezményeket kell alkalmazni.
 
-(3)[^60] A kifizetési kérelem tartalmazza
+(3)[^63] A kifizetési kérelem tartalmazza
 
 a) a kérelmező, a kérelmező képviselője vagy meghatalmazottja nevét és ügyfél-azonosítóját;
 
@@ -42,19 +42,19 @@ k) gyártó üzemenkénti bontásban az előállított és kiosztott termék men
 
 l) a csatolt dokumentumok felsorolását.
 
-(4)[^61] A kifizetési kérelemhez az elektronikus űrlapon csatolni kell az adott szállítási időszakra vonatkozó, a támogatott termékek értékesítését igazoló számlákat.
+(4)[^64] A kifizetési kérelemhez az elektronikus űrlapon csatolni kell az adott szállítási időszakra vonatkozó, a támogatott termékek értékesítését igazoló számlákat.
 
-(5)[^62] A Kincstár legkésőbb az (EU) 2017/39 bizottsági végrehajtási rendelet 5. cikk (2) bekezdése szerinti határidőn belül elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
+(5)[^65] A Kincstár legkésőbb az (EU) 2017/39 bizottsági végrehajtási rendelet 5. cikk (2) bekezdése szerinti határidőn belül elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
 
-(6)[^63]
+(6)[^66]
 
 (7) A kifizetési kérelemben a 8. § (4) bekezdésében meghatározott módosítási határidő lejártáig fel nem tüntetett vagy a kifizetési kérelemhez csatolt számlákon nem szereplő termékmennyiség a támogatási összeg meghatározása során nem vehető figyelembe.
 
 (8) A támogatási összeg megállapítása a számlán feltüntetett nettó egységár és általános forgalmi adókulcs alapján történik a 18. §-ban foglaltak szerint.
 
-[^58]: A 17. § (1) bekezdése a 3/2025. (II. 27.) AM rendelet 16. § 8. és 16. § 15. pontja szerint módosított szöveg.
-[^59]: A 17. § (2) bekezdése a 3/2025. (II. 27.) AM rendelet 16. § 16. pontja szerint módosított szöveg.
-[^60]: A 17. § (3) bekezdése a 3/2025. (II. 27.) AM rendelet 11. §-ával megállapított szöveg.
-[^61]: A 17. § (4) bekezdése a 3/2025. (II. 27.) AM rendelet 11. §-ával megállapított szöveg.
-[^62]: A 17. § (5) bekezdése a 3/2025. (II. 27.) AM rendelet 11. §-ával megállapított szöveg.
-[^63]: A 17. § (6) bekezdését a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^61]: A 17. § (1) bekezdése a 3/2025. (II. 27.) AM rendelet 16. § 8. és 16. § 15. pontja szerint módosított szöveg.
+[^62]: A 17. § (2) bekezdése a 3/2025. (II. 27.) AM rendelet 16. § 16. pontja szerint módosított szöveg.
+[^63]: A 17. § (3) bekezdése a 3/2025. (II. 27.) AM rendelet 11. §-ával megállapított szöveg.
+[^64]: A 17. § (4) bekezdése a 3/2025. (II. 27.) AM rendelet 11. §-ával megállapított szöveg.
+[^65]: A 17. § (5) bekezdése a 3/2025. (II. 27.) AM rendelet 11. §-ával megállapított szöveg.
+[^66]: A 17. § (6) bekezdését a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.

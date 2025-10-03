@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-19-20-7
 | 2023-01-01 | 2021-19-20-7R.5 | 156/2022. (XII. 27.) AM rendelet |
 | 2023-05-12 | 2021-19-20-7R.6 | 22/2023. (V. 9.) AM rendelet |
 | 2025-03-02 | 2021-19-20-7R.7 | 3/2025. (II. 27.) AM rendelet |
+| 2025-10-03 | 2021-19-20-7R.9 | 42/2025. (IX. 30.) AM rendelet |

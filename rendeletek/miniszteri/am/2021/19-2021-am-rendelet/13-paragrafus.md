@@ -1,4 +1,4 @@
-13. § (1)[^35] A szállítási szerződés jóváhagyásának feltétele, hogy az tartalmazza
+13. § (1)[^36] A szállítási szerződés jóváhagyásának feltétele, hogy az tartalmazza
 
 1. a felek azonosító adatait (név, cím vagy székhely, adóazonosító jel vagy adószám, ügyfél-azonosító),
 
@@ -48,23 +48,23 @@ b) a számlázás ütemezése,
 
 17. nyilatkozatot arra vonatkozóan, hogy a kérelmező, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyja jóvá.
 
-(2)[^36] Az (1) bekezdés szerinti adatokat tartalmazó szállítási szerződés mintáját és azok mellékleteit a Kincstár a honlapján közleményben teszi közzé.
+(2)[^37] Az (1) bekezdés szerinti adatokat tartalmazó szállítási szerződés mintáját és azok mellékleteit a Kincstár a honlapján közleményben teszi közzé.
 
-(3)[^37] A szállítási szerződésben a végső kedvezményezettek számát az ellátni kívánt intézménybe a szállítási szerződés megkötését követő tanév első évfolyamára maximálisan beíratható végső kedvezményezetteknek, valamint a szállítási szerződés megkötésének tanévében az első és az utolsó előtti évfolyamra járó végső kedvezményezetteknek a szállítási szerződés megkötésekor fennálló számának alapulvételével kell meghatározni.
+(3)[^38] A szállítási szerződésben a végső kedvezményezettek számát az ellátni kívánt intézménybe a szállítási szerződés megkötését követő tanév első évfolyamára maximálisan beíratható végső kedvezményezetteknek, valamint a szállítási szerződés megkötésének tanévében az első és az utolsó előtti évfolyamra járó végső kedvezményezetteknek a szállítási szerződés megkötésekor fennálló számának alapulvételével kell meghatározni.
 
-(4)[^38]
+(4)[^39]
 
 (5) Ha a kérelmező nem rendelkezik a szállított termék vonatkozásában saját, illetve a megrendelések teljesítését teljes mértékben lehetővé tevő saját tejfeldolgozó üzemmel, a kérelmezőnek azt a szerződést, amelyet a kérelmező egy, az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemmel a tej, illetve a tejtermék előállítása tárgyában kötött, a szállítási szerződéssel együtt – a 14. § (1) bekezdésében meghatározott határidőben – csatolnia kell a szállítási szerződés jóváhagyása iránti kérelméhez.
 
-(6)[^39] A kiszállított termékek mennyiségét a kérelmező saját üzemében előállított, illetve az (5) bekezdés szerinti szerződésben szereplő termékmennyiségnek biztosítania kell. Ha az e bekezdésben foglalt feltétel nem teljesül, a kiszállított termékek után támogatás nem nyújtható.
+(6)[^40] A kiszállított termékek mennyiségét a kérelmező saját üzemében előállított, illetve az (5) bekezdés szerinti szerződésben szereplő termékmennyiségnek biztosítania kell. Ha az e bekezdésben foglalt feltétel nem teljesül, a kiszállított termékek után támogatás nem nyújtható.
 
-(7)[^40]
+(7)[^41]
 
 (8) A kérelmező, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyta jóvá.
 
-[^35]: A 13. § (1) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^36]: A 13. § (2) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^37]: A 13. § (3) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^38]: A 13. § (4) bekezdését a 3/2025. (II. 27.) AM rendelet 17. § 6. pontja hatályon kívül helyezte.
-[^39]: A 13. § (6) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^40]: A 13. § (7) bekezdését a 3/2025. (II. 27.) AM rendelet 17. § 6. pontja hatályon kívül helyezte.
+[^36]: A 13. § (1) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^37]: A 13. § (2) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^38]: A 13. § (3) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^39]: A 13. § (4) bekezdését a 3/2025. (II. 27.) AM rendelet 17. § 6. pontja hatályon kívül helyezte.
+[^40]: A 13. § (6) bekezdése a 3/2025. (II. 27.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^41]: A 13. § (7) bekezdését a 3/2025. (II. 27.) AM rendelet 17. § 6. pontja hatályon kívül helyezte.

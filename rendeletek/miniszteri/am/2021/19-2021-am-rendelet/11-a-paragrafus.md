@@ -1,4 +1,4 @@
-11/A. §[^33] (1) A fenntartó az általa fenntartott intézmény igényeire – termékkategória, termék mennyisége és mennyiségi egysége – figyelemmel, valamint a (2) bekezdésben meghatározottakra tekintettel értékelési szempontrendszert alakít ki, amelyet az ajánlattételi felhívásban előzetesen közzétesz.
+11/A. §[^34] (1) A fenntartó az általa fenntartott intézmény igényeire – termékkategória, termék mennyisége és mennyiségi egysége – figyelemmel, valamint a (2) bekezdésben meghatározottakra tekintettel értékelési szempontrendszert alakít ki, amelyet az ajánlattételi felhívásban előzetesen közzétesz.
 
 (2) Az ajánlat értékelése során az ajánlatban szereplő kiosztandó termékek árának figyelembevételekor
 
@@ -40,4 +40,4 @@ g) hetente több kiosztási napra vállalja natúr termék szállítását.
 
 (7) A fenntartó a rangsort vagy a Kbt. szerinti írásbeli összegzés eredményét az arról való döntést követő öt napon belül a hivatalos honlapján közzéteszi, és egyúttal a miniszter részére – a 11. § (1) bekezdésében meghatározott módon – tájékoztatásul megküldi. A fenntartó a rangsornak vagy a Kbt. szerinti írásbeli összegzés eredményének a honlapján való elérhetőségét a közzétételtől számított öt évig biztosítja.
 
-[^33]: A 11/A. §-t a 3/2025. (II. 27.) AM rendelet 7. §-a iktatta be.
+[^34]: A 11/A. §-t a 3/2025. (II. 27.) AM rendelet 7. §-a iktatta be.
