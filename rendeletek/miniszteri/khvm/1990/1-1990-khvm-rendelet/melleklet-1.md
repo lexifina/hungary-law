@@ -1,224 +1,119 @@
-1. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez
+1. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^63]
 
-## A járműfenntartó tevékenységek és az azok önálló végzéséhez szükséges szakképesítések[^71]
+A járműfenntartó tevékenységek és az azok önálló végzéséhez szükséges szakképesítések
 
-1.[^72] Járműszerelő tevékenység:
+1. A járműfenntartó tevékenységek tekintetében előírt képesítés
 
-a) járművek napi vizsgálata, időszakos műszaki szemléje és garanciális átvizsgálása,
+|  | A | B | C |
 
-b) jármű kisjavítása, futójavítása, jármű fődarab és karosszéria cseréje,
+| 1 | Tevékenység megnevezése | Előírt képesítés | Megjegyzés |
 
-c) járművek, jármű fődarabok és részegységek diagnosztikai ellenőrzése, beszabályozása,
+| 2 | járműszerelői tevékenység | autószerelő szakmunkás képesítés, alternatív járműhajtási technikus, autógyártó, gépjármű-mechatronikai technikus, gépjármű mechatronikus, járműipari karbantartó technikus, mechatronikai technikus, mezőgazdasági gépésztechnikus, honvéd kadét – gépjármű mechatronikai technikus, honvéd altiszt – műszakigép-szerelő, páncélos- és gépjárműszerelő | Kizárólag motorkerékpár szerelése motorkerékpár szerelő képesítéssel is végezhető. |
 
-d) járművek, jármű fődarabok, részegységek javítása és (az elektromos részegységek kivételével) felújítása,
+| 3 | jármű-villamossági javító tevékenység | autóvillamossági szerelő, autóelektronikai műszerész képesítés, hibrid és elektromos gépjárművek szerelője villamos ismeretekkel szakképesítés | Kizárólag motorkerékpárok jármű-villamossági javító tevékenysége motorkerékpár szerelő képesítéssel is végezhető. |
 
-e) járművek egyedi előállítása (összeépítése) és átalakítása,
+| 4 | karosszériajavító tevékenység | karosszérialakatos szakmunkás képesítés, járműkarosszéria-előkészítő képesítés, karosszéria-lakatos képesítés |  |
 
-f) járművek bontása.
+| 5 | jármű ápolása | autószerelő, motorkerékpár-szerelő vagy gépjárművezető és karbantartó szakmunkás képesítés | A napi gondozás állásvállalásra jogosító gépjárművezetői engedéllyel is végezhető. |
 
-Előírt képesítés:
+| 6 | gumiabroncs-javító tevékenység | gumiabroncs-javító szakmunkás képesítés, továbbá gumijavító, autószerelő vagy karosszérialakatos szakmunkás képesítés gumiabroncs-javító tanfolyammal, gumiabroncs-javító és kerékkiegyensúlyozó szakképesítés | Kizárólag motorkerékpárok gumiabroncs-javító tevékenysége motorkerékpár szerelő képesítéssel is végezhető. |
 
-a) autószerelő – motorkerékpárok esetében motorkerékpár- szerelő – szakmunkás képesítés,
+| 7 | járműfényező tevékenység | fényező-mázoló szakmunkás képesítés, fémszerkezetfelület-bevonó képesítés, járműfényező képesítés, járműkarosszéria-előkészítő, felületbevonó képesítés |  |
 
-b) alternatív járműhajtási technikus,
+| 8 | hűtőjavító tevékenység | bádogos, lakatos, autószerelő vagy karosszérialakatos szakmunkás képesítés |  |
 
-c) autógyártó,
+| 9 | járműkárpitos tevékenység | kárpitos szakmunkás képesítés |  |
 
-d) gépjármű-mechatronikai technikus,
+| 10 | járműrugó-javító tevékenység | kovács szakmunkás képesítés |  |
 
-e) gépjármű mechatronikus,
+| 11 | akkumulátorjavító tevékenység | akkumulátorjavító, autóvillamossági szerelő vagy autóelektronikai műszerész szakmunkás képesítés |  |
 
-f) járműipari karbantartó technikus,
+| 12 | gumiszerelő, kerékkiegyensúlyozó tevékenység | autószerelő, motorkerékpár-szerelő, karosszérialakatos, gumijavító vagy gépjárművezető- és karbantartó szakmunkás képesítés |  |
 
-g) mechatronikai technikus,
+| 13 | alváz- és üregvédelem | autószerelő vagy karosszérialakatos szakmunkás képesítés |  |
 
-h) mezőgazdasági gépésztechnikus,
+| 14 | járműtisztítás, járműpolírozás | nem szükséges hozzá képesítés |  |
 
-i) honvéd kadét- gépjármű mechatronikai technikus (szerviz),
+| 15 | gépjármű gáztartályának beszerelése, kiszerelése és szemrevételezéses vizsgálata | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-j) Honvéd altiszt-Műszakigép-szerelő, Páncélos- és gépjárműszerelő.
+| 16 | gépjármű gázüzemanyag-ellátó berendezésének beszerelése, kiszerelése, vizsgálata, javítása, karbantartása és beszabályozása | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-2.[^73] Jármű-villamossági javító tevékenység, ideértve:
+| 17 | gépjármű gázüzemanyag-ellátó berendezésének felújítása | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-a)[^74] járművek elektromos kisjavítása, futójavítása;
+| 18 | gépjármű gázüzemanyag-ellátó berendezésének bontása | autószerelő vagy autóvillamossági szerelői képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-b)[^75] járművek elektromos berendezésének, elektronikus rendszereinek (részegység, műszer, tartozék) diagnosztikai ellenőrzése, beszabályozása;
+| 19 | gépjármű gázüzemanyag-ellátó berendezéseinek bontás utáni minőség-ellenőrzése | autószerelő- vagy autóvillamossági szerelő mestervizsga, illetve középfokú vagy ennél magasabb szakirányú képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-c)[^76] járművek elektromos részegységeinek, műszereinek javítása, felújítása, illetve elektronikus elemeinek beépítése, javítása;
+| 20 | gázüzemű gépjárművön végzett, az 1–4. és a 6. sorban meghatározott tevékenység | a tevékenységre előírt képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-d)[^77] járművön elektromos jellegű vagy azzal összefüggő átalakítási munkák végzése;
+| 21 | gázbiztonsági szemle | autószerelő vagy autóvillamossági szerelő mestervizsga, középfokú, illetve ennél magasabb szakirányú képesítés autógáz-biztonsági vizsgával kiegészítve |  |
 
-e)[^78] jármű-villamossági berendezések bontása.
+| 22 | járműbontó tevékenység | autószerelő vagy autóvillamossági szerelő, karosszérialakatos szakmunkás, az alkatrészek minőség-ellenőrzésére a 3. § (3) bekezdésében meghatározott képesítés |  |
 
-Előírt képesítés: autóvillamossági szerelő – motorkerékpárok esetében motorkerékpár-szerelő szakmunkás vagy autóelektronikai műszerész képesítés.
+| 23 | járműbontó tevékenység irányítása | középfokú környezetvédelmi szakképesítés vagy környezetvédelmi megbízott középfokú képesítés |  |
 
-3.[^79] Karosszériajavító tevékenység, ideértve:
+2. Az 1. pontban foglalt táblázat alkalmazása tekintetében:
 
-a) jármű karosszériák és tartozékaik kisjavítása, futójavítása, karosszéria elemek, valamint autószerelő közreműködésével a teljes karosszéria cseréje,
+2.1. járműszerelői tevékenység:
 
-b) karosszéria elemek és tartozékok felújítása,
+2.1.1. járművek napi vizsgálata, időszakos műszaki szemléje és garanciális átvizsgálása,
 
-c) jármű felépítmények összeépítése és átalakítása,
+2.1.2. jármű kisjavítása, futójavítása, jármű fődarab és karosszéria cseréje,
 
-d) karosszériák és tartozékaik bontása.
+2.1.3. járművek, jármű fődarabok és részegységek diagnosztikai ellenőrzése, beszabályozása,
 
-Előírt képesítés:
+2.1.4. járművek, jármű fődarabok, részegységek javítása és – az elektromos részegységek kivételével – felújítása,
 
-a) karosszérialakatos szakmunkás képesítés,
+2.1.5. járművek egyedi előállítása, összeépítése és átalakítása,
 
-b) járműkarosszéria-előkészítő képesítés,
+2.1.6. járművek bontása,
 
-c) karosszéria-lakatos képesítés.
+2.2. jármű-villamossági javító tevékenység:
 
-4.[^80] Jármű ápolása, ideértve:
+2.2.1. járművek elektromos kisjavítása, futójavítása,
 
-a) kenési műveletek,
+2.2.2. járművek elektromos berendezésének, elektronikus rendszereinek, diagnosztikai ellenőrzése, beszabályozása,
 
-b) kenő- és segédanyagok cseréje,
+2.2.3. járművek elektromos részegységeinek, műszereinek javítása, felújítása, illetve elektronikus elemeinek beépítése, javítása,
 
-c) kenő- és segédanyagok szintjének ellenőrzése és utántöltése.
+2.2.4. járművön elektromos jellegű vagy azzal összefüggő átalakítási munkák végzése,
 
-Előírt képesítés: autószerelő, motorkerékpár-szerelő vagy gépjárművezető és karbantartó szakmunkás képesítés. A napi gondozás állásvállalásra jogosító gépjárművezetői engedéllyel is elvégezhető.
+2.2.5. jármű-villamossági berendezések bontása,
 
-5.[^81] Gumiabroncsjavító tevékenység
+2.3. karosszériajavító tevékenység:
 
-Előírt képesítés: gumiabroncsjavító szakmunkás képesítés, továbbá gumijavító, autószerelő – motorkerékpárok esetében motorkerékpár-szerelő – vagy karosszérialakatos szakmunkás képesítés gumiabroncsjavító tanfolyammal, gumiabroncs-javító és kerékkiegyensúlyozó szakképesítés.
+2.3.1. jármű karosszériák és tartozékaik kisjavítása, futójavítása, karosszéria elemek, valamint teljes karosszéria cseréje,
 
-6.[^82] Járműfényező tevékenység
+2.3.2. karosszéria elemek és tartozékok felújítása,
 
-Előírt képesítés:
+2.3.3. jármű felépítmények összeépítése és átalakítása,
 
-a) fényező-mázoló szakmunkás képesítés,
+2.3.4. karosszériák és tartozékaik bontása,
 
-b) Fémszerkezet-felület-bevonó képesítés,
+2.4. jármű ápolása:
 
-c) Járműfényező képesítés,
+2.4.1. kenési műveletek,
 
-d) Járműkarosszéria-előkészítő, felületbevonó képesítés.
+2.4.2. kenő- és segédanyagok cseréje,
 
-7. Hűtőjavító tevékenység
+2.4.3. kenő- és segédanyagok szintjének ellenőrzése és utántöltése,
 
-Előírt képesítés: bádogos, lakatos, autószerelő vagy karosszérialakatos szakmunkás képesítés.
+2.5. gázbiztonsági szemle, amely kiterjed a gázüzemanyag-ellátó berendezés egyes részegységei
 
-8.[^83] Járműkárpitos tevékenység
+2.5.1. azonosítására, valamint a gépjárműhöz engedélyezettel történő megegyezőség vizsgálatára,
 
-Előírt képesítés: kárpitos szakmunkás képesítés.
+2.5.2. gépjárművön való elhelyezésének és rögzítésének a beszerelési utasítás, valamint megfelelőség vizsgálatára,
 
-9.[^84] Járműrugó javító tevékenység
+2.5.3. csatlakozási pontjai és szerelvényei sérülés- és szivárgásmentességének vizsgálatára, működési próbájára,
 
-Előrít képesítés: kovács szakmunkás képesítés.
+2.6. járműbontó tevékenység:
 
-10.[^85] Akkumulátorjavító tevékenység
+2.6.1. a hulladékká vált járműveknek, ezek alkatrészeinek és anyagainak hulladékként történő előkezelése,
 
-Előírt képesítés: akkumulátorjavító, illetve autóvillamossági szerelő vagy autóelektronikai műszerész szakmunkás képesítés.
+2.6.2. a hulladékká vált jármű alvázszámának, illetve a számot tartalmazó karosszérialemez vagy alvázrész megsemmisítése,
 
-11.[^86] Gumiszerelő, kerékkiegyensúlyozó tevékenység
+2.6.3. a hulladékká vált gépjárműből alkatrészek és tartozékok újrahasználat céljára történő kiszerelése, kinyerése,
 
-Előírt képesítés: autószerelő, motorkerékpár-szerelő, karosszérialakatos, gumijavító vagy gépjárművezető-, és karbantartó szakmunkás képesítés.
+2.6.4. a gépjárműből kiszerelt, a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendelet szerint meghatározott pótalkatrészek és tartozékok minőség-ellenőrzése.
 
-12. Alváz- és üregvédelem
-
-Előírt képesítés: autószerelő vagy karosszérialakatos szakmunkás képesítés.
-
-13.[^87] Autómosás, autópolírozás
-
-Képesítéshez nem kötött tevékenység.
-
-14.[^88] A járműfenntartó tevékenység végzése során szükségessé váló különböző – e tevékenység szempontjából járulékosnak minősülő – egyéb ipari tevékenységek és a velük kapcsolatos képesítési előírások a következők:
-
-a) gépi forgácsolás, amely forgácsoló szakmunkás képesítéssel,
-
-b) feltöltő hegesztés és fémszórás, amely hegesztő szakmunkás képesítéssel,
-
-c)[^89] egyes karosszéria és motorkerékpárváz elemek (pl. ülésrögzítő sín, zárak, kipufogó dobok) felújítása, lakatos szakmunkás képesítéssel,
-
-d)[^90] járműbe épített elektromos részegységek és egyéb műszerek felújítása, amely elektroműszerész és mechanikai műszerész szakmunkás képesítéssel
-
-végezhető.
-
-15.[^91] Gázüzemanyag-ellátó berendezés javítása, ideértve:
-
-a) gépjármű gáztartályának beszerelése, kiszerelése és szemrevételezéses vizsgálata;
-
-b) gépjármű gázüzemanyag-ellátó berendezésének beszerelése, kiszerelése, vizsgálata, javítása, karbantartása és beszabályozása;
-
-c) gépjármű gázüzemanyag-ellátó berendezésének felújítása;
-
-d)[^92] gépjármű gázüzemanyag-ellátó berendezésének bontása.
-
-Előírt képesítés: autószerelő vagy autóvillamossági szerelő – motorkerékpárok esetében motorkerékpár-szerelő –
-
-e)[^93] gépjármű gázüzemanyag-ellátó berendezéseinek bontás utáni minőség-ellenőrzése.
-
-Előírt képesítés: autószerelő vagy autóvillamossági szerelő – motorkerékpárok esetében motorkerékpár-szerelő – mestervizsga, illetőleg középfokú, vagy ennél magasabb szakirányú képesítés,.
-
-16.[^94] Gázüzemű gépjárművön végzett, 1—4. és 6. pontokban meghatározott tevékenység
-
-Előírt képesítés: a tevékenységre előírt képesítés, autógáz-biztonsági vizsgával kiegészítve[^95].
-
-17.[^96] Gázbiztonsági szemle, mely kiterjed a gázüzemanyag-ellátó berendezés egyes részegységei:
-
-– azonosítására, valamint a gépjárműhöz engedélyezettel történő megegyezőség vizsgálatára,
-
-– gépjárművön való elhelyezésének és rögzítésének a beszerelési utasítás, valamint a külön jogszabály előírásai szerint megfelelőség vizsgálatára,
-
-– csatlakozási pontjai és szerelvényei sérülés- és szivárgásmentességének vizsgálatára, működési próbájára.
-
-Előírt képesítés: autószerelő vagy autóvillamossági szerelő – motorkerékpárok esetében motorkerékpár-szerelő – mestervizsga, illetőleg középfokú, illetőleg ennél magasabb szakirányú képesítés,.
-
-18.[^97]
-
-19.[^98] Járművek bontása (járműbontó tevékenység), ideértve
-
-a)[^99] a hulladékká vált járműveknek, ezek alkatrészeinek és anyagainak környezetkímélő, ellenőrzött, a bontási információk alapján kidolgozott technológiai feltételeknek megfelelő hulladékként történő előkezelése, amely során eltávolítják a folyadékokat, valamint a veszélyes alkotókat és az újrahasználatnak, a hasznosításnak, illetve ártalmatlanításnak megfelelő módon anyagaira, alkatrészeire szedik vagy szétszerelik, azokat válogatják, szétválasztják, osztályozzák, aprítják, tömörítik, bálázzák és az elszállításig elkülönített módon gyűjtik és tárolják,
-
-b)[^100] a hulladékká vált jármű alvázszámának (jármű azonosító szám), illetőleg a számot tartalmazó karosszérialemeznek vagy alvázrésznek kiépítése és a közlekedési hatóságnak ellenőrzésre történő bemutatása;
-
-c)[^101] a hulladékká vált járműből alkatrészek és tartozékok újrahasználat céljára történő kiszerelése, kinyerése;
-
-d)[^102] a járműből kiszerelt, külön jogszabályban[^103] mehatározott alkatrészek és tartozékok minőség-ellenőrzése.
-
-Előírt képesítés:
-
-a)[^104] a tevékenység végzéséhez:
-
-– autószerelő vagy autóvillamossági szerelő – motorkerékpárok esetében motorkerékpár-szerelő –, illetőleg karosszérialakatos szakmunkás, továbbá
-
-– az alkatrészek minőség-ellenőrzésére a 3. § (3) bekezdésében meghatározott képesítés;
-
-b) az irányítói munkakörben foglalkoztatott személy tekintetében: középfokú környezetvédelmi szakképesítés vagy környezetvédelmi megbízott középfokú képesítéssel.
-
-[^71]: Az 1. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
-[^72]: Az 1. számú melléklet 1. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontjával megállapított szöveg.
-[^73]: Az 1. számú melléklet 2. pontja a 37/2001. (XI. 14.) KöViM rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 29. pontja, záró szövegrésze a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^74]: Az 1. számú melléklet 2. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
-[^75]: Az 1. számú melléklet 2. pontjának b) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
-[^76]: Az 1. számú melléklet 2. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 14. pontja szerint módosított szöveg.
-[^77]: Az 1. számú melléklet 2. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 10. pontja szerint módosított szöveg.
-[^78]: Az 1. számú melléklet 2. pontjának e) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 28. pontja szerint módosított szöveg.
-[^79]: Az 1. számú melléklet 3. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontjával megállapított szöveg.
-[^80]: Az 1. számú melléklet 4. pontjának nyitó szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 7. pontja, záró szövegrésze a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^81]: Az 1. számú melléklet 5. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontjával megállapított szöveg.
-[^82]: Az 1. számú melléklet 6. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontjával megállapított szöveg.
-[^83]: Az 1. számú melléklet 8. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^84]: Az 1. számú melléklet 9. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^85]: Az 1. számú melléklet 10. pontja a 37/2001. (XI. 14.) KöViM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^86]: Az 1. számú melléklet 11. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^87]: Az 1. számú melléklet 13. pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^88]: Az 1. számú melléklet 14. pontjának bevezető szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
-[^89]: Az 1. számú melléklet 14. pont c) alpontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^90]: Az 1. számú melléklet 14. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 8. pontja szerint módosított szöveg.
-[^91]: Az 1. számú melléklet 15. pontját a 13/1993. (V. 12.) KHVM rendelet 16. §-a iktatta be, szövege a 37/2001. (XI. 14.) KöViM rendelet 6. § (1) bekezdésével megállapított, záró szövegrésze a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^92]: Az 1. számú melléklet 15. pont d) alpontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^93]: Az 1. számú melléklet 15. pont e) alpontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^94]: Az 1. számú melléklet 16. pontját a 13/1993. (V. 12.) KHVM rendelet 16. §-a iktatta a szövegbe.
-[^95]: A vizsgára vonatkozó feltételeket a Közlekedési Főfelügyelet szabályzatban határozza meg.
-[^96]: Az 1. számú melléklet 17. pontját a 13/1993. (V. 12.) KHVM rendelet 16. §-a iktatta be, szövege a 37/2001. (XI. 14.) KöViM rendelet 6. § (1) bekezdésével megállapított, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^97]: Az 1. számú melléklet 18. pontját a 29/2004. (III. 12.) GKM rendelet 6. § (1) bekezdése iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés f) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
-[^98]: Az 1. számú melléklet 19. pontját a 29/2004. (III. 12.) GKM rendelet 6. §-ának (1) bekezdése iktatta be, nyitó szövegrésze a 63/2009. (XI. 23.) KHEM rendelet 8. § 15. és 30. pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^99]: Az 1. számú melléklet 19. pontjának a) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 18. pontja szerint módosított szöveg.
-[^100]: Az 1. számú melléklet 19. pontjának b) alpontja a 95/2006. (XII. 27.) GKM rendelet 14. § i) pontja, a 63/2009. (XI. 23.) KHEM rendelet 8. § 6. és 34. pontja szerint módosított szöveg.
-[^101]: Az 1. számú melléklet 19. pontjának c) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
-[^102]: Az 1. számú melléklet 19. pontjának d) alpontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 11. pontja szerint módosított szöveg.
-[^103]: A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 9. §-ának (4) bekezdése.
-[^104]: Az 1. számú melléklet 19. pont előírt képesítés a) pontja a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^63]: Az 1. számú melléklet a 29/2025. (IX. 18.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.

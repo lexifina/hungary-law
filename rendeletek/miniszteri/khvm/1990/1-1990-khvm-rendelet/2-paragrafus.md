@@ -20,7 +20,7 @@ i)[^14]
 
 [^3]: A 2. § a 29/2004. (III. 12.) GKM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § a) pontja a 63/2009. (XI. 23.) KHEM rendelet 2. §-ával megállapított, a 9/2022. (VIII. 1.) TIM rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § b) pontja a 63/2009. (XI. 23.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § b) pontja a 63/2009. (XI. 23.) KHEM rendelet 2. §-ával megállapított szöveg. [A 2. § b) pontjában a 29/2025. (IX. 18.) ÉKM rendelet 5. § a) pontja által elrendelt módosítás, amely szerint a „kiállított, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentési igazolással” szövegrész helyébe a „kiadott engedéllyel” szöveg lép, nem vezethető át.]
 [^6]: A hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 1. számú melléklete szerint az Európai Hulladék Katalógus (EWC) 16. főcsoportjának 1601 alcsoportjába sorolt (veszélyes) hulladékok, a 160601*, a 160604, a 160606*, a 160801 és a 160807* kódszám alá sorolt (veszélyes) hulladékok, továbbá a 13. főcsoport 1301, 1302, 1307 és 1308 alcsoportjaiba sorolt olajhulladékok és folyékony üzemanyagok hulladékai.
 [^7]: A 2. § c) pontját a 63/2009. (XI. 23.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^8]: A 2. § d) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 9. pontja szerint módosított szöveg.

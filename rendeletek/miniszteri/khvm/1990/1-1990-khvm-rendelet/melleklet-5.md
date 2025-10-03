@@ -1,6 +1,6 @@
-5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^165]
+5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^118]
 
-## A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^166]
+A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^119]
 
 A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata
 
@@ -100,21 +100,21 @@ A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabál
 
 | 44. | gázüzemanyag-ellátó berendezés javítás, gázbiztonsági szemle | gázüzemanyag szivárgás | kézi szivárgás ellenőrző készülék |
 
-Megjegyzések:
+## Megjegyzések:
 
-1 Értékelő ellenőrzést az 5/1990. (IV. 12.) KöHÉM rendelet 11. számú melléklete szerinti előírás alapján kell végezni.
+## 1 Értékelő ellenőrzést az 5/1990. (IV. 12.) KöHÉM rendelet 11. számú melléklete szerinti előírás alapján kell végezni.
 
-2 Helyettesítő mérés a szokványos próbapadon nem mérhető járműveknél (pl. traktor) a 6/1990. (IV. 12.) KöHÉM rendelet 8. számú mellékletében meghatározott követelmények figyelembe vételével.
+## 2 Helyettesítő mérés a szokványos próbapadon nem mérhető járműveknél (pl. traktor) a 6/1990. (IV. 12.) KöHÉM rendelet 8. számú mellékletében meghatározott követelmények figyelembe vételével.
 
-3 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
+## 3 3,5 t megengedett össztömeg fölötti gépjárművek javításánál nem kötelező.
 
-4 18"-nál nagyobb méretű kerekek kiegyensúlyozottságának ellenőrzése nem kötelező, de a kormányzott mellső kerekeken ajánlott.
+## 4 18"-nál nagyobb méretű kerekek kiegyensúlyozottságának ellenőrzése nem kötelező, de a kormányzott mellső kerekeken ajánlott.
 
-5 Alkalmazása 2004. január 1. napja után kötelező.
+## 5 Alkalmazása 2004. január 1. napja után kötelező.
 
-6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
+## 6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
 
 4. A közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben előírt műszaki vizsgálat és a különböző eljárásban végzett környezetvédelmi felülvizsgálat keretében végzett munkafolyamatokat a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott módon kell elvégezni.
 
-[^165]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. § (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés a) pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^166]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^118]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. § (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, a 75/2016. (XII. 29.) NFM rendelet 40. § (3) bekezdés a) pontja, a 9/2022. (VIII. 1.) TIM rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^119]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.

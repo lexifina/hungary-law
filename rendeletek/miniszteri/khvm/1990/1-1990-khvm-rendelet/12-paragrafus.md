@@ -1,9 +1,9 @@
-12. § (1)[^63] Az e rendeletben foglaltak megtartását a közlekedési hatóság ellenőrzi. A közlekedési hatóság az 1. számú melléklet 18. pontjában meghatározott tevékenységet végzőket a mérésügyi és műszaki biztonsági hatóság, az 1. számú melléklet 19. pontjában meghatározott tevékenységet végzőket a környezetvédelmi hatóság bevonásával ellenőrzi. Az ellenőrzés során a közlekedési hatóság a 165/2014/EU európai parlamenti és tanácsi rendeletben, valamint a 3821/85/EGK tanácsi rendelet végrehajtásáról szóló miniszteri rendeletben meghatározott ellenőrzési módszertant alkalmazza.
+12. § (1)[^55] Az e rendeletben foglaltak betartását a közlekedési hatóság ellenőrzi, az 1. számú melléklet 1. pontjában foglalt táblázat 22. sorában meghatározott tevékenységet végzőket érintően a környezetvédelmi hatóság bevonásával.
 
-(2)[^64]
+(2)[^56]
 
-(3)[^65] A közlekedési hatóság a bejelentett adatokról nyilvántartást vezet.
+(3)[^57]
 
-[^63]: A 12. § (1) bekezdése a 44/2015. (VII. 20.) NFM rendelet 2. §-ával megállapított szöveg.
-[^64]: A 12. § (2) bekezdését a 12/2021. (III. 5.) ITM rendelet 3. §-a hatályon kívül helyezte.
-[^65]: A 12. § (3) bekezdését a 29/2004. (III. 12.) GKM rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 5. §-ával megállapított szöveg.
+[^55]: A 12. § (1) bekezdése a 29/2025. (IX. 18.) ÉKM rendelet 3. §-ával megállapított szöveg.
+[^56]: A 12. § (2) bekezdését a 12/2021. (III. 5.) ITM rendelet 3. §-a hatályon kívül helyezte.
+[^57]: A 12. § (3) bekezdését a 29/2004. (III. 12.) GKM rendelet 4. §-ának (2) bekezdése iktatta be, a 29/2025. (IX. 18.) ÉKM rendelet 6. § d) pontja hatályon kívül helyezte.

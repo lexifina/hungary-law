@@ -1,31 +1,29 @@
 ## Bejelentés, a tevékenység ellenőrzése
 
-11. § (1)[^54] A járműfenntartó tevékenység végzésére irányuló szándékot a közlekedési hatóság részére be kell jelenteni.
+11. §[^54] (1) A járműfenntartó tevékenység végzésére irányuló szándékot be kell jelenteni, amely bejelentésnek tartalmaznia kell
 
-(2) A bejelentésnek tartalmaznia kell:
+a) a bejelentő nevét, székhelyét és a tevékenységgel érintett telephelyének címét – kivéve, ha az 1. számú melléklet 1. pontjában foglalt táblázat 14. sora szerinti tevékenységet változó helyszínen kívánják végezni –, elektronikus és telefonos elérhetőségét,
 
-a)[^55] a bejelentő nevét, székhelyét, és telephelyének (telephelyeinek) címét, elektronikus és telefonos elérhetőségét, a folytatni kívánt járműfenntartó tevékenység megnevezését,
+b) telephelyenként az ott folytatni kívánt járműfenntartó tevékenységet az 1. számú melléklet 1. pontjában foglalt táblázat megfelelő sorát megjelölve,
 
-b)[^56] telephelyenként az ott végzett járműfenntartó tevékenységnek az 1. számú mellékletben foglalt tevékenységfajták (résztevékenységek) szerinti megjelölését (leírását),
+c) azt, hogy a járműfenntartó tevékenységet szolgáltatásként, saját üzemeltetésű járművek tekintetében vagy mindkét vonatkozásban végzi-e,
 
-c)[^57] azt, hogy a járműfenntartó tevékenységet szolgáltatásként, vagy saját üzemeltetésű járműveken, esetleg mindkét vonatkozásban végzi-e,
+d) – az 1. számú melléklet 1. pontjában foglalt táblázat 15–19. sorában meghatározott járműfenntartó tevékenység végzésére irányuló szándék esetén – az e rendeletben megállapított feltételeknek való megfelelőséget igazoló – a műszaki biztonsági hatóság által kiadott – szakvéleményt.
 
-d)[^58] az 1. számú melléklet 15. pontjában meghatározott járműfenntartó tevékenységre a rendeletben megállapított feltételeknek való megfelelőséget igazoló – a mérésügyi és műszaki biztonsági hatóság által kiadott – szakvéleményt,
+(2) A regisztrált bontó-hulladékkezelő tevékenység a közlekedési hatóság – erre irányuló kérelem alapján kiadott – engedélye alapján végezhető. A kérelemnek az alábbiakat kell tartalmaznia:
 
-e)[^59]
+a) az (1) bekezdés a) pontjában meghatározott adatokat, valamint
 
-f)[^60] az 1. számú melléklet 19. pontja szerinti járműbontó tevékenység végzése esetében a környezetvédelmi hatóság által kiadott veszélyes hulladékkezelésre feljogosító engedélyének adatait, amennyiben a bejelentést nem a veszélyes hulladékkezelési tevékenység engedélyezése iránti kérelemmel egyidejűleg teszik meg.
+b) a környezetvédelmi hatóság által kiadott veszélyeshulladék-kezelésre feljogosító engedély számát.
 
-(3)[^61]
+(3) A járműfenntartó szervezet köteles haladéktalanul, de legkésőbb 8 napon belül bejelenteni a közlekedési hatóság részére – az időtartam megjelölésével – a tevékenység szüneteltetését, a tevékenység megszüntetését, valamint az (1) és (2) bekezdésben meghatározott adatok tekintetében bekövetkezett változásokat.
 
-(4)[^62] A járműfenntartó szervezet köteles bejelenteni a közlekedési hatóság részére – az időtartam megjelölésével – a tevékenység szüneteltetését, a tevékenység megszüntetését, valamint a (2) bekezdésben meghatározott adatok tekintetében bekövetkezett változásokat.
+(4) A közlekedési hatóság a regisztrált bontó-hulladékkelezői tevékenység tekintetében kiadott engedélyt visszavonja, ha
 
-[^54]: A 11. § (1) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^55]: A 11. § (2) bekezdés a) pontja a 63/2009. (XI. 23.) KHEM rendelet 4. § (2) bekezdésével megállapított, a 9/2022. (VIII. 1.) TIM rendelet 2. § g) pontja szerint módosított szöveg.
-[^56]: A 11. § (2) bekezdés b) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
-[^57]: A 11. § (2) bekezdés c) pontja a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. és 17. pontja szerint módosított szöveg.
-[^58]: A 11. § (2) bekezdésének d) pontját a 13/1993. (V. 12.) KHVM rendelet 14. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja, az 1/2011. (I. 11.) NFM rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^59]: A 11. § (2) bekezdés e) pontját a 29/2004. (III. 12.) GKM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés c) pontja. Alkalmazására lásd e módosító rendelet 38. §-át.
-[^60]: A 11. § (2) bekezdésének f) pontját a 29/2004. (III. 12.) GKM rendelet 3. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^61]: A 11. § (3) bekezdését a 75/2016. (XII. 29.) NFM rendelet 40. § (2) bekezdés d) pontja újból hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
-[^62]: A 11. § (4) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 4. § (4) bekezdésével megállapított szöveg.
+a) az engedély kiadásának feltételei már nem állnak fenn, és az engedélyes a környezetvédelmi hatóság által kiadott veszélyeshulladék-kezelésre feljogosító engedélyének meghosszabbítását nem kezdeményezte,
+
+b) az engedélyes azt kéri,
+
+c) a (3) bekezdésben előírt bejelentési kötelezettségének az engedélyes nem tesz eleget.
+
+[^54]: A 11. § a 29/2025. (IX. 18.) ÉKM rendelet 2. §-ával megállapított szöveg.

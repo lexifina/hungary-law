@@ -1,6 +1,6 @@
-6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^167]
+6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^120]
 
-## A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
+A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
 
 |  | A | B | C |
 
@@ -106,10 +106,10 @@
 
 | 52. | kézi gázszivárgás ellenőrző készülék | jelzési határ | alsó éghetőségi koncentráció legfeljebb | 5%-a | ±20% |
 
-Megjegyzések:
+## Megjegyzések:
 
 1. A %-ban kifejezett legnagyobb megengedett hiba a berendezés felső méréshatárának százalékát jelenti.
 
 2. A jobb és bal oldal közötti eltérés legfeljebb 2% lehet.
 
-[^167]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^120]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 3. § (2) bekezdésével megállapított szöveg.
