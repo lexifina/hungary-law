@@ -24,11 +24,13 @@ a) az 5. § (6) bekezdés f) és g) pontjában foglalt esetekben,
 
 b) a járványkitörés miatt meghiúsult, de azt megelőzően megkötött kihelyezési szerződéssel rendelkező baromfikeltető esetében,
 
-c) a járványügyi visszakövetés után vágóhídon vagy más élelmiszeripari létesítményben, kereskedelemben elkobzott termék esetében, valamint
+c)[^34] a járványügyi visszakövetés után vágóhídon vagy más élelmiszeripari létesítményben, kereskedelemben elkobzott termék esetében,
 
 d) a nem gazdasági tevékenység keretében állatot tartó esetében.
 
-(3b)[^34] Baromfi végtermék állományok esetében – az étkezési tojást termelő állományok kivételével – a kártalanítás jogosultja a (3) bekezdés alapján számított kártalanítási összeg legfeljebb 80%-ára jogosult.
+e)[^35] ragadós száj- és körömfájás állatbetegség miatt 2025. év március és április hónapban a ragadós száj- és körömfájás elleni védekezésről szóló 23/2005. (III. 23.) FVM rendelet 12. § (1) bekezdése szerinti intézkedéssel érintett állattartó esetében.
+
+(3b)[^36] Baromfi végtermék állományok esetében – az étkezési tojást termelő állományok kivételével – a kártalanítás jogosultja a (3) bekezdés alapján számított kártalanítási összeg legfeljebb 80%-ára jogosult.
 
 (4) A kártalanítási határozat tartalmazza
 
@@ -48,11 +50,11 @@ c) az állami kártalanítás nettó összegét, az állami kártalanítást ter
 
 d) az állami kártalanítás bruttó összegét, amennyiben a kártalanítás jogosultja nem alanya az általános forgalmi adónak, és
 
-e)[^35] az Éltv. 55. § (7) bekezdésében meghatározott esetben a kártalanítás jogosultjának írásbeli nyilatkozata alapján annak megállapítását, hogy a lebonyolító szerv az általános forgalmi adó fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általános forgalmi adó bevételi számlára utalja.
+e)[^37] az Éltv. 55. § (7) bekezdésében meghatározott esetben a kártalanítás jogosultjának írásbeli nyilatkozata alapján annak megállapítását, hogy a lebonyolító szerv az általános forgalmi adó fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általános forgalmi adó bevételi számlára utalja.
 
 (5) A kártalanítási határozat indokolásában meg kell jelölni, hogy az állat elhullása mely állatbetegség következtében történt, vagy a járványügyi intézkedéseket mely állatbetegség gyanúja, megállapítása vagy felszámolása miatt rendelték el, valamint a betegség megállapításának alapjául szolgáló diagnosztikai vagy laboratóriumi eredményt, ennek hiányában a húsvizsgálat vagy boncolás írásban rögzített eredményét.
 
-(6)[^36] A kártalanítási összeg kifizetése érdekében az eljáró hatóság – a kártalanítási határozat véglegessé válása után haladéktalanul – elektronikus úton megküldi a lebonyolító szervnek a kártalanítási határozatot.
+(6)[^38] A kártalanítási összeg kifizetése érdekében az eljáró hatóság – a kártalanítási határozat véglegessé válása után haladéktalanul – elektronikus úton megküldi a lebonyolító szervnek a kártalanítási határozatot.
 
 (7) Az eljáró hatóság elektronikus úton rögzíti továbbá:
 
@@ -64,11 +66,11 @@ c) a becslési jegyzőkönyvet, és
 
 d) az országos főállatorvos által határozatban elrendelt 4. § (4) bekezdése szerinti egyéb bizonylatot.
 
-(8)[^37] A lebonyolító szerv intézkedik a kártalanítás összegének folyósítása iránt a vármegyei kormányhivatal részére, amely azt a (9)–(11) bekezdésben foglaltak szerint fizeti ki a jogosultnak.
+(8)[^39] A lebonyolító szerv intézkedik a kártalanítás összegének folyósítása iránt a vármegyei kormányhivatal részére, amely azt a (9)–(11) bekezdésben foglaltak szerint fizeti ki a jogosultnak.
 
-(9)[^38] Azon jogosult, aki az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) alapján általános forgalmi adóalanynak (a továbbiakban: áfaalany) minősül, a kártalanítás összegéről számlát bocsát ki az eljáró hatóság, illetve amennyiben az eljáró hatóság a járási hivatal, a vármegyei kormányhivatal részére. A kártalanítás folyósítása a számla alapján történik. A kártalanítás kifizetési határideje a kártalanítási határozat véglegessé válásától számított hatvan nap.
+(9)[^40] Azon jogosult, aki az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) alapján általános forgalmi adóalanynak (a továbbiakban: áfaalany) minősül, a kártalanítás összegéről számlát bocsát ki az eljáró hatóság, illetve amennyiben az eljáró hatóság a járási hivatal, a vármegyei kormányhivatal részére. A kártalanítás folyósítása a számla alapján történik. A kártalanítás kifizetési határideje a kártalanítási határozat véglegessé válásától számított hatvan nap.
 
-(10)[^39] Ha a kártalanítás jogosultja az Éltv. 55. § (6) és (7) bekezdése alapján általános forgalmi adó fizetési halasztást vesz igénybe, a számla általános forgalmi adó tartalmát a vármegyei kormányhivatal közvetlenül az állami adóhatóság általános forgalmi adó bevételi számlájára fizeti meg.
+(10)[^41] Ha a kártalanítás jogosultja az Éltv. 55. § (6) és (7) bekezdése alapján általános forgalmi adó fizetési halasztást vesz igénybe, a számla általános forgalmi adó tartalmát a vármegyei kormányhivatal közvetlenül az állami adóhatóság általános forgalmi adó bevételi számlájára fizeti meg.
 
 (11) Ha a kártalanítás jogosultja az Áfa törvény alapján nem minősül áfaalanynak, a kártalanítást a határozat alapján, az annak véglegessé válásától számított hatvanadik napig kell folyósítani.
 
@@ -88,9 +90,11 @@ e) az egyes állatbetegségek és zoonózisok felszámolására, az ellenük val
 [^31]: A 6. § (1) bekezdése a 135/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^32]: A 6. § (3) bekezdése a 9/2022. (II. 28.) AM rendelet 7. §-ával megállapított, a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^33]: A 6. § (3a) bekezdését a 9/2022. (II. 28.) AM rendelet 7. §-a iktatta be.
-[^34]: A 6. § (3b) bekezdését a 33/2025. (VII. 31.) AM rendelet 2. §-a iktatta be.
-[^35]: A 6. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^36]: A 6. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^37]: A 6. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés c) pontja, a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^38]: A 6. § (9) bekezdése a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^39]: A 6. § (10) bekezdése a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^34]: A 6. § (3a) bekezdés c) pontja a 42/2025. (IX. 30.) AM rendelet 6. §-a szerint módosított szöveg.
+[^35]: A 6. § (3a) bekezdés e) pontját a 42/2025. (IX. 30.) AM rendelet 4. §-a iktatta be.
+[^36]: A 6. § (3b) bekezdését a 33/2025. (VII. 31.) AM rendelet 2. §-a iktatta be.
+[^37]: A 6. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 6. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^39]: A 6. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés c) pontja, a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^40]: A 6. § (9) bekezdése a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^41]: A 6. § (10) bekezdése a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
