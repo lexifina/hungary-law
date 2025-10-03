@@ -1,5 +1,5 @@
 ## 5. Egyes miniszteri rendeletek módosítása és hatályon kívül helyezése
 
-10. §[^5]
+10. §[^7]
 
-[^5]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

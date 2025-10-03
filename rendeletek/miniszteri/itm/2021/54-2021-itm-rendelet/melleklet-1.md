@@ -1,6 +1,6 @@
 ## 12. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^7]
+1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^9]
 
 Gépkezelői jogosítvánnyal kezelhető gépek
 
@@ -214,7 +214,7 @@ Gépkezelői jogosítvánnyal kezelhető gépek
 
 | 104 | 5631 |  |  | Útfenntartó- és karbantartó gépek |
 
-| 105 | 5632 |  |  | Önjáró útburkolati jelfestők |
+| 105 | 5633[^10] |  |  | Önjáró útburkolati jelfestők |
 
 | 106 | 5636 |  |  | Kátyúzó gépek |
 
@@ -228,4 +228,5 @@ Gépkezelői jogosítvánnyal kezelhető gépek
 
 | 111 | 5681 |  |  | Útkorona átfúró berendezések |
 
-[^7]: Az 1. melléklet az 54/2024. (XII. 30.) ÉKM rendelet 34. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet az 54/2024. (XII. 30.) ÉKM rendelet 34. §-ával megállapított szöveg.
+[^10]: Az 1. mellékletben foglalt táblázat A:105 mezője a 29/2025. (IX. 18.) ÉKM rendelet 12. §-a szerint módosított szöveg.

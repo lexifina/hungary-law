@@ -20,6 +20,6 @@ kell oktatni.
 
 a) elméleti oktatási részébe tartozó tantárgyat az oktathatja, aki legalább középfokú végzettséggel és az adott tantárgy szakmai tartalmához igazodó, a tantervi és vizsgakövetelményekben meghatározott szakképesítéssel rendelkezik, továbbá
 
-b)[^2] gyakorlati oktatási részébe tartozó tantárgyat az oktathatja, aki legalább középfokú végzettséggel, továbbá az adott gépkategória (1–5) bármely gépcsoportjába tartozó gép kezeléséhez szükséges gépkezelői jogosítvánnyal vagy szakirányú OKJ szakképesítéssel és legalább kétéves időtartamú gépkezelési gyakorlattal rendelkezik.
+b)[^4] gyakorlati oktatási részébe tartozó tantárgyat az oktathatja, aki legalább középfokú végzettséggel, továbbá az adott gépkategória (1–5) bármely gépcsoportjába tartozó gép kezeléséhez szükséges gépkezelői jogosítvánnyal vagy szakirányú OKJ szakképesítéssel és legalább kétéves időtartamú gépkezelési gyakorlattal rendelkezik.
 
-[^2]: A 4. § (2) bekezdés b) pontja a 48/2023. (XII. 29.) ÉKM rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdés b) pontja a 48/2023. (XII. 29.) ÉKM rendelet 1. § b) pontja szerint módosított szöveg.

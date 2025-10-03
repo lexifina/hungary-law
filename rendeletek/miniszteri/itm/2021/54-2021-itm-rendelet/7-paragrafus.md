@@ -32,6 +32,6 @@ c) az időszakos orvosi alkalmasság bejegyzése esetén az alkalmasságot megá
 
 d) a bejegyzést végző aláírását és bélyegzőlenyomatát.
 
-(5)[^3] Az 1. mellékletben szereplő gépcsoportokba sorolható gépek kezeléséhez szükséges az (1) bekezdés szerinti gépkezelői jogosítvány.
+(5)[^5] Az 1. mellékletben szereplő gépcsoportokba sorolható gépek kezeléséhez szükséges az (1) bekezdés szerinti gépkezelői jogosítvány.
 
-[^3]: A 7. § (5) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 33. §-a iktatta be.
+[^5]: A 7. § (5) bekezdését az 54/2024. (XII. 30.) ÉKM rendelet 33. §-a iktatta be.
