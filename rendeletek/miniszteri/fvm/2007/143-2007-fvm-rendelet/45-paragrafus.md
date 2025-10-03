@@ -6,18 +6,18 @@
 
 ## Sertéseket és más fajokat érintő laboratóriumi vizsgálatok és egyéb intézkedések
 
-45. § (1)[^107] A madárinfluenza bármely gazdaságban való jelenlétének megállapítását követően a gazdaság területén található sertéseket a készenléti tervvel összhangban megfelelő laboratóriumi vizsgálatoknak kell alávetni, a sertések madárinfluenza vírussal való múltbeli vagy jelenlegi fertőzöttségének megállapítása vagy kizárása érdekében. E vizsgálatok eredményének közléséig a gazdaságból sertést nem lehet kivinni.
+45. § (1)[^108] A madárinfluenza bármely gazdaságban való jelenlétének megállapítását követően a gazdaság területén található sertéseket a készenléti tervvel összhangban megfelelő laboratóriumi vizsgálatoknak kell alávetni, a sertések madárinfluenza vírussal való múltbeli vagy jelenlegi fertőzöttségének megállapítása vagy kizárása érdekében. E vizsgálatok eredményének közléséig a gazdaságból sertést nem lehet kivinni.
 
 (2) Amennyiben az (1) bekezdéssel összhangban elvégzett laboratóriumi vizsgálatok megállapítják, hogy a sertések fertőződtek a madárinfluenza vírusok által,
 
-a)[^108] a vármegyei kormányhivatal csak akkor engedélyezheti e sertések mozgatását más sertéstartó gazdaságokba vagy a kijelölt vágóhidakra, ha a későbbi megfelelő vizsgálatok kimutatták azt, hogy a madárinfluenza terjedésének kockázata elhanyagolható, és
+a)[^109] a vármegyei kormányhivatal csak akkor engedélyezheti e sertések mozgatását más sertéstartó gazdaságokba vagy a kijelölt vágóhidakra, ha a későbbi megfelelő vizsgálatok kimutatták azt, hogy a madárinfluenza terjedésének kockázata elhanyagolható, és
 
 b) a laboratóriumi vizsgálatok komoly egészségügyi veszélyt állapítanak meg, a sertéseket az állatvédelmi szabályokkal összhangban és a lehető leghamarabb, hatósági felügyelet mellett, olyan módon kell leölni, hogy különösen szállítás közben, megelőzhető legyen a madárinfluenza vírus terjedése.
 
-(3)[^109] A vármegyei kormányhivatal a kockázatértékelés alapján, a madárinfluenza bármely gazdaságban való jelenlétének megállapítását követően az (1) és (2) bekezdésben meghatározott intézkedéseket kiterjesztheti a gazdaságban tartott bármely emlősállatra, valamint a kontaktgazdaságok emlősállataira is.
+(3)[^110] A vármegyei kormányhivatal a kockázatértékelés alapján, a madárinfluenza bármely gazdaságban való jelenlétének megállapítását követően az (1) és (2) bekezdésben meghatározott intézkedéseket kiterjesztheti a gazdaságban tartott bármely emlősállatra, valamint a kontaktgazdaságok emlősállataira is.
 
 (4) A madárinfluenza vírus sertésekben vagy bármely más, bármely gazdaságban tartott emlősben való jelenlétének megállapítását követően, a készenléti tervnek megfelelően további megfigyelést kell elrendelni az adott gazdaságra, illetve a kontaktgazdaságokra vonatkozóan a madárinfluenza vírus további elterjedésének megakadályozása érdekében.
 
-[^107]: A 45. § (1) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § m) pontja szerint módosított szöveg.
-[^108]: A 45. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^109]: A 45. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^108]: A 45. § (1) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § m) pontja szerint módosított szöveg.
+[^109]: A 45. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^110]: A 45. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

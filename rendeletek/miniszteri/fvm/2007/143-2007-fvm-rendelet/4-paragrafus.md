@@ -1,3 +1,1 @@
-## érdekében.
-
 ## Megfigyelési (surveillance) programok

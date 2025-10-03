@@ -2,7 +2,7 @@
 
 ## A betegség bejelentése és a Bizottság felé szolgáltatandó további járványügyi információk
 
-1.[^135] A 6. § (1) bekezdésében említetteknek megfelelően elkészített jelentést a vármegyei kormányhivatalnak az elsődleges kitörés megállapításától vagy a madárinfluenza vágóhídon vagy szállítóeszközön történő észlelésétől számított 24 órán belül kell megküldeni az alábbi adatokat tartalmazóan:
+1.[^136] A 6. § (1) bekezdésében említetteknek megfelelően elkészített jelentést a vármegyei kormányhivatalnak az elsődleges kitörés megállapításától vagy a madárinfluenza vágóhídon vagy szállítóeszközön történő észlelésétől számított 24 órán belül kell megküldeni az alábbi adatokat tartalmazóan:
 
 a) a bejelentés napja;
 
@@ -66,4 +66,4 @@ ec) amennyiben a kontaktgazdaságokban a baromfi vagy más, fogságban tartott m
 
 6. Az országos főállatorvosnak 24 órán belül értesíteni kell a Bizottságot és a többi tagállamot, ha a megfigyelés eredményeként komoly egészségügyi veszélyt állapítanak meg.
 
-[^135]: Az 1. számú melléklet 1. pontja a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^136]: Az 1. számú melléklet 1. pontja a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

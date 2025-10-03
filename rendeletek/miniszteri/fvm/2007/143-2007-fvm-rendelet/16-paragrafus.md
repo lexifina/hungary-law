@@ -4,7 +4,7 @@
 
 ## KORLÁTOZÁS ALATT ÁLLÓ KÖRZETEK
 
-16. § (1)[^37] A magas patogenitású madárinfluenza járvány kitörést követően a vármegyei kormányhivatalnak haladéktalanul ki kell jelölni:
+16. § (1)[^38] A magas patogenitású madárinfluenza járvány kitörést követően a vármegyei kormányhivatalnak haladéktalanul ki kell jelölni:
 
 a) a védő körzet területét a gazdaság körüli legalább 3 km sugarú körben;
 
@@ -28,11 +28,11 @@ e) a védő- és megfigyelési körzeteken belül a baromfi vagy más, fogságba
 
 (5) A további, korlátozás alatt álló körzetekben:
 
-a)[^38] a vármegyei kormányhivatal elrendelheti a 3. és 4. Címben előírt valamely vagy minden intézkedés alkalmazását.
+a)[^39] a vármegyei kormányhivatal elrendelheti a 3. és 4. Címben előírt valamely vagy minden intézkedés alkalmazását.
 
 b) a 3. számú melléklet szempontjai alapján veszélyeztetettnek minősülő gazdaságokban a 17. § (3) bekezdésében foglaltak alkalmazhatóak.
 
 (6) Amennyiben a védő-, megfigyelési vagy korlátozás alatt álló további körzetek Magyarországról más tagállam területére átnyúlnának, az érintett tagállamok illetékes hatóságait az országos főállatorvos értesíti.
 
-[^37]: A 16. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^38]: A 16. § (5) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^38]: A 16. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § i) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^39]: A 16. § (5) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
