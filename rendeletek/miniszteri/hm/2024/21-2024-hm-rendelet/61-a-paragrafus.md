@@ -1,4 +1,4 @@
-61/A. §[^3] (1) Azt a nyugállományú tábornokot, aki a világűr meghódításában a magyar nemzet számára példát mutató tevékenységet végzett, a miniszter – át nem ruházható egyedi döntésével – lakás ingyenes használatát biztosító juttatásban részesítheti, amelyről a nyugállományú tábornokkal megállapodást köt.
+61/A. §[^7] (1) Azt a nyugállományú tábornokot, aki a világűr meghódításában a magyar nemzet számára példát mutató tevékenységet végzett, a miniszter – át nem ruházható egyedi döntésével – lakás ingyenes használatát biztosító juttatásban részesítheti, amelyről a nyugállományú tábornokkal megállapodást köt.
 
 (2) Az (1) bekezdés szerint biztosított lakás használatának joga a nyugállományú tábornokot élete végéig illeti meg.
 
@@ -18,4 +18,4 @@ c) a használatba adói jogokat és kötelezettségeket – a megállapodás meg
 
 (7) Az e § szerint juttatott lakást törzslakásnak kell tekinteni.
 
-[^3]: A 61/A. §-t a 6/2025. (VII. 7.) HM rendelet 2. §-a iktatta be.
+[^7]: A 61/A. §-t a 6/2025. (VII. 7.) HM rendelet 2. §-a iktatta be.

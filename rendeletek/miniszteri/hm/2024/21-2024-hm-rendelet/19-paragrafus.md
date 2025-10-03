@@ -16,9 +16,11 @@ g) házastársi jövedelem-kiegészítésre,
 
 h) a szolgálatteljesítési helytől és a tartózkodás helyétől eltérő településre való áthelyezéshez és vezényléshez kapcsolódó költségek megtérítésére,
 
-i) a szolgálati érdekű utazásokkal, a tanulmányi szerződéshez kapcsolódó költségek megtérítésére és
+i)[^2] a szolgálati érdekű utazásokkal, a tanulmányi szerződéshez kapcsolódó költségek megtérítésére,
 
-j) a helyi és helyközi munkába járási költségek megtérítésére.
+j)[^3] a helyi és helyközi munkába járási költségek megtérítésére és
+
+k)[^4] az előírt fizikai követelmények teljesítéséhez, illetve felkészüléshez szükséges sportruházat vásárlásához történő hozzájárulásra.
 
 (2) Az állomány tagja részére a döntésre jogosult elöljáró mérlegelési jogkörben az e fejezetben meghatározottak szerint illetményen felüli egyéb juttatásként különösen
 
@@ -87,3 +89,7 @@ a) munkabérelőleget és
 b) segélyt
 
 engedélyezhet.
+
+[^2]: A 19. § (1) bekezdés i) pontja a 12/2025. (X. 2.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: A 19. § (1) bekezdés j) pontja a 12/2025. (X. 2.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^4]: A 19. § (1) bekezdés k) pontját a 12/2025. (X. 2.) HM rendelet 1. §-a iktatta be.
