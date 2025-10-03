@@ -1,4 +1,4 @@
-5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^326]
+5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^327]
 
 A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
@@ -258,11 +258,11 @@ ae) a járműszerelvény legalább 80 km/óra sebesség elérésére alkalmas;
 
 b) kötelező felszerelések és tartozékok:
 
-ba) legalább 8 előremeneti fokozatú sebességváltó (nyomatékváltó),
+ba) olyan sebességváltó rendszerrel van felszerelve, amely lehetővé teszi a vezető által a sebességfokozat kézi kiválasztását;
 
 bb) minden fékezett kerékre ható blokkolásgátló (ABS),
 
-bc) 6/1990. (IV. 12.) KöHÉM rendeletben meghatározott követelményeknek megfelelő menetíró készülék (tachográf) oktatási célú használatra,
+bc) a 6/1990. (IV. 12.) KöHÉM rendeletben meghatározott követelményeknek megfelelő menetíró készülék (tachográf) oktatási célú használatra,
 
 bd) sebességkorlátozó,
 
@@ -342,4 +342,4 @@ Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivé
 
 Az „AM” és „A” kategóriás, továbbá az „A1” és „A2” kategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^326]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a, a 9/2022. (VIII. 1.) TIM rendelet 50. § b) pontja, az 54/2024. (XII. 30.) ÉKM rendelet 17. §-a szerint módosított szöveg.
+[^327]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a, a 9/2022. (VIII. 1.) TIM rendelet 50. § b) pontja, az 54/2024. (XII. 30.) ÉKM rendelet 17. §-a, a 29/2025. (IX. 18.) ÉKM rendelet 8. §-a szerint módosított szöveg.

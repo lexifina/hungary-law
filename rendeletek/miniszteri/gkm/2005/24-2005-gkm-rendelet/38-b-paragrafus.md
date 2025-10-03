@@ -4,7 +4,7 @@
 
 (2) Középiskolás járművezetői tanfolyam során a tanuló azonosítót egységesen a tanulmányi rendszer hozza létre.
 
-(3) Középiskolás járművezetői tanfolyamra az a középiskola utolsó évfolyamán tanuló vehető fel, aki a „B” kategóriás vezetői engedély kiadásához szükséges, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott életkornál legfeljebb 12 hónappal fiatalabb.
+(3)[^299] Középiskolás járművezetői tanfolyamra az a középiskolai tanuló vehető fel, aki a „B” kategóriás vezetői engedély kiadásához szükséges, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott életkornál legfeljebb 12 hónappal fiatalabb.
 
 (4) A középiskolás járművezetői tanfolyamhoz és az ahhoz kapcsolódó elméleti vizsgaszervezéshez szükséges adatokat, nyilatkozatokat és kérelmeket a középiskola a tanulmányi rendszerében hitelesen, kizárólag elektronikus úton rögzíti, amely azokat a vizsgaközpont informatikai rendszerébe is továbbítja.
 
@@ -53,3 +53,4 @@ b) a vizsgázó elfogulatlan felügyelete tőle egyéb okból nem várható el.
 (18) A 7/B. § (2) bekezdésében foglaltak, a 12. § szóbeli és írásbeli elméleti vizsgára vonatkozó rendelkezései, valamint a 17. § (2) bekezdésében foglaltak nem alkalmazandóak a középiskolás járművezetői tanfolyamra.
 
 [^298]: Az „A középiskolákban, valamint szakképző intézményekben végzett járművezető képzésre vonatkozó eltérő szabályok” alcímet (38/B. §-t) a 38/2024. (XI. 21.) ÉKM rendelet 2. §-a iktatta be.
+[^299]: A 38/B. § (3) bekezdése a 29/2025. (IX. 18.) ÉKM rendelet 7. §-a szerint módosított szöveg.
