@@ -42,6 +42,10 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 
 (20)[^46] E rendelet 12. mellékletének a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet húskészítményekről és egyes előkészített húsokról szóló előírása tekintetében történő módosításáról szóló 26/2025. (VI. 19.) AM rendelettel (a továbbiakban: MódR10.) megállapított rendelkezéseinek nem megfelelő, a MódR10. hatálybalépésének[^47] napját megelőző napon hatályos előírásoknak megfelelő termékek a MódR10. hatálybalépésének napjától számított 12. hónap utolsó napjáig előállíthatók, forgalomba hozhatók, és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.
 
+(21)[^48] A 13. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendeletnek a tejtermékekről és a sütőipari termékekről szóló előírás tekintetében történő módosításáról szóló 43/2025. (X. 2.) AM rendelettel (a továbbiakban: MódR11.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR11. hatálybalépésének[^49] napját megelőző napon hatályos előírásoknak megfelelő, 13. melléklet szerinti termékek a MódR11. hatálybalépésének napjától számított 30 napig előállíthatók, forgalomba hozhatók, és a minőségmegőrzési idejük lejártáig forgalomban tarthatók.
+
+(22)[^50] A 39. mellékletnek a MódR11.-gyel megállapított rendelkezéseinek nem megfelelő, azonban a MódR11. hatálybalépésének[^51] napját megelőző napon hatályos előírásoknak megfelelő, 39. melléklet szerinti termékek a MódR11. hatálybalépésének napjától számított 7 napig előállíthatók, forgalomba hozhatók, és a minőségmegőrzési idejük lejártáig forgalomban tarthatók.
+
 [^22]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^23]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^24]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
@@ -68,3 +72,7 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 [^45]: A hatálybalépés időpontja 2025. április 25.
 [^46]: A 2. § (20) bekezdését a 26/2025. (VI. 19.) AM rendelet 1. §-a iktatta be.
 [^47]: A hatálybalépés időpontja 2025. június 22.
+[^48]: A 2. § (21) bekezdését a 43/2025. (X. 2.) AM rendelet 1. §-a iktatta be.
+[^49]: A hatálybalépés időpontja 2025. október 3.
+[^50]: A 2. § (22) bekezdését a 43/2025. (X. 2.) AM rendelet 1. §-a iktatta be.
+[^51]: A hatálybalépés időpontja 2025. október 3.

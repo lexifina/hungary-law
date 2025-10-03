@@ -1,4 +1,4 @@
-22. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^90]
+22. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^96]
 
 A Magyar Élelmiszerkönyv 1-3-2001/114 számú előírása a részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékekről (Sűrített tej és tejpor)
 
@@ -86,7 +86,7 @@ Dehidratált tej, amelynek zsírtartalma legfeljebb 1,5% (m/m).
 
 a) Az 1. pont e)–g) alpontjaiban meghatározott termékek gyártásához a végtermékre vonatkoztatva legfeljebb 0,03% (m/m) tejcukor hozzáadása megengedett.
 
-b)[^91] A 853/2004/EK európai parlamenti és tanácsi rendelet sérelme nélkül, az 1. és 2. pontban említett termékek tartósítása a következő módokon történik:
+b)[^97] A 853/2004/EK európai parlamenti és tanácsi rendelet sérelme nélkül, az 1. és 2. pontban említett termékek tartósítása a következő módokon történik:
 
 – hőkezeléssel (sterilezés, UHT stb.) az 1. pont a)–d) alpontjaiban meghatározott termékek esetében,
 
@@ -98,7 +98,7 @@ c) Ezen rész 1. és 2. pontjában szereplő összetételi követelmények sére
 
 4. Engedélyezett egyéb anyagok
 
-a)[^92] Vitaminok és ásványi anyagok az 1925/2006/EK európai parlamenti és tanácsi rendelettel összhangban,
+a)[^98] Vitaminok és ásványi anyagok az 1925/2006/EK európai parlamenti és tanácsi rendelettel összhangban,
 
 b) A 3. pont c) alpontjában említett fehérjetartalom-beállítás céljára az alábbi engedélyezett nyersanyagok használhatók:
 
@@ -166,6 +166,6 @@ w) A cseh „suÓené smetana” a B rész 2. pont a) alpontjában meghatározot
 
 x) A cseh „suÓené polotu…né mléko” a B rész 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 14 és 16% (m/m) között van.
 
-[^90]: A 22. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
-[^91]: 22. melléklet B rész 3. pont b) alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § d) pontja szerint módosított szöveg.
-[^92]: A 22. melléklet B rész 4. pont a) alpontja a 11/2025. (IV. 22.) AM rendelet 4. § f) pontja szerint módosított szöveg.
+[^96]: A 22. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^97]: 22. melléklet B rész 3. pont b) alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § d) pontja szerint módosított szöveg.
+[^98]: A 22. melléklet B rész 4. pont a) alpontja a 11/2025. (IV. 22.) AM rendelet 4. § f) pontja szerint módosított szöveg.
