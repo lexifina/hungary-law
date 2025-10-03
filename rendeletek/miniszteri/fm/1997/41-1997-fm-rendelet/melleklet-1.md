@@ -4246,13 +4246,15 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 
 = hulladékgyűjtő, -kezelő és -ártalmatlanító létesítmények.
 
-f)[^548]
+1.3.[^545] Baromfitartó telep esetében betartották-e a madárinfluenza elleni védekezés részletes szabályairól szóló 143/2007. (XII. 4.) FVM rendelet 3/A. §-ában a kereskedelmi célú baromfitartó gazdaság tekintetében meghatározott védőtávolsággal kapcsolatos rendelkezéseket.
 
-g)[^549]
+f)[^549]
 
-h)[^550]
+g)[^550]
 
-i)[^551]
+h)[^551]
+
+i)[^552]
 
 ## ................................................
 
@@ -4276,7 +4278,7 @@ i)[^551]
 
 ## 16. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^564]
+## az Állategészségügyi Szabályzathoz[^565]
 
 ## 16. számú függelék az Állategészségügyi Szabályzathoz
 
@@ -4300,7 +4302,7 @@ i)[^551]
 
 17. számú függelék
 
-az Állategészségügyi Szabályzathoz[^565]
+az Állategészségügyi Szabályzathoz[^566]
 
 Vármegye: ................ |_|_|_|_|_|_|_|_|_|_|
 
@@ -4688,7 +4690,7 @@ Klórlúg 4,0%
 
 Nátrium-hidroxid 4,0%
 
-14.[^566]
+14.[^567]
 
 15. Brucellózis
 
@@ -4760,7 +4762,7 @@ A takarmányban levő száj- és körömfájás vírus az alábbi módon pusztí
 
 Fenti eljárást kell értelemszerűen alkalmazni valamennyi bejelentési kötelezettség alá tartozó állatbetegség esetén.
 
-4.[^567] A kutak fertőtlenítése
+4.[^568] A kutak fertőtlenítése
 
 Kutakat klórmésszel, magnolmésszel vagy klórlúggal kell fertőtleníteni.
 
@@ -4839,6 +4841,24 @@ a) A tisztítás során a trágyát, almot fel kell lazítani és el kell távol
 b) Egyszerű fertőtlenítés esetén a padlót, a mennyezetet és a falakat legalább 50 °C-ra melegített vízzel meg kell mosni, majd 2%-os klórlúg- vagy nátronlúgoldattal, korrózióra érzékeny részek esetén 2%-os formalinoldattal be kell permetezni.
 
 c) A fertőtlenítésnek az egész kocsira, repülőgép- vagy hajórekeszre ki kell terjednie még abban az esetben is, ha annak csak egy részét használták állatszállításra. Szennyeződés esetén a kocsi külső felületét, az ajtókat, vasalásokat, a kocsi futóművét és alvázát is meg kell tisztítani és fertőtleníteni.
+
+d) Az állatok be- és kirakására használt rámpákat, hidakat és egyéb eszközöket, valamint a rakodóhelyeket, rakodóudvarokat tisztára kell seperni, s azután tiszta vízzel bőven le kell öblíteni. Az esetleg szükséges fertőtlenítést a vizsgáló állatorvos irányítása és ellenőrzése mellett kell végrehajtani.
+
+e) A fertőtlenítéshez használatos eszközöket (lapátokat, seprők, tömlők, villák, kaparószerszámok, hordók, permetezők stb.) jó karban, a fertőtlenítőanyagokat pedig erre a célra szolgáló elzárható helyen kellő mennyiségben készletben kell tartani. A fertőtlenítő oldatokat felügyelet alatt kell készíteni. A fertőtlenítendő vasúti kocsikat úgy kell a (mosó-) fertőtlenítővágányra állítani, hogy az egyszerű fertőtlenítést igénylő kocsik egymás mellé kerüljenek.
+
+f) A járművekből kitakarított, továbbá vasút- és hajóállomásokon, repülőtereken, gépkocsi-rakodóhelyeken levő trágyát, almot, hulladékot és szemetet gondosan össze kell gyűjteni és félre kell rakni. Az összegyűjtött trágyát, almot, hulladékot és szemetet lehetőleg minél előbb, illetőleg minél gyakrabban el kell hordani. Az elhordásra olyan kocsikat vagy tartályokat kell használni, amelyek tartalma ki nem hullhat, illetőleg ki nem folyhat. Fertőtlenítés szükségessége esetén ezeket az anyagokat el kell égetni vagy el kell ásni, vagy olyan helyre szállítani, ahol embert vagy állatot nem fertőzhet.
+
+g) A járműveket, állatrakodó helyeket szigorított módon kell fertőtleníteni hatósági rendelkezésre, továbbá anélkül is akkor, ha kérődző állatot vagy sertést olyan állomásról szállítottak, amelynek 20 km-es körzetében ragadós száj- és körömfájás áll fenn, továbbá, ha a sertéseket fertőző sertésbénulással fertőzött vagy emiatt védőkörzetbe vont községből szállították. Szigorított fertőtlenítés esetén az egyszerű fertőtlenítésen felül a padlót, a mennyezetet és a falakat az egyes betegségekre meghatározott anyagok felhasználásával be kell permetezni. Ha a fertőtlenítés módját jelző bárcán az állatbetegség nincs feltüntetve, a fertőtlenítést 2%-os formalin, 3%-os klórlúg- vagy nátronlúgoldattal kell elvégezni.
+
+8. Állatok és egyes állati termékek fertőtlenítése
+
+a) A tőgybimbó bőrének fejés utáni fertőtlenítésére pl. Demast-emulzió vagy 10–33%-os bőrkímélő hatású jodoforoldat vagy más, erre a célra engedélyezett szer használható.
+
+b) Újszülött állatok köldökének fertőtlenítésére lehetőleg színes fertőtlenítőoldatot (pl. 10%-os fakátrány, 5%-os pioktanin) kell használni.
+
+c) Bejelentési kötelezettség alá tartozó fertőző állatbetegségben elhullott, levágott vagy leölt állatok bőrét csak a 11. pontban meghatározott sózás vagy savas kezelés után szabad felhasználni vagy forgalomba hozni, kivéve, ha az egyes fertőző állatbetegségek leküzdésére vonatkozó szabályok más eljárást tesznek kötelezővé.
+
+d) Fertőző állatbetegségben beteg vagy betegségre gyanús állat szőrét, sertéjét vagy tollát – ha az egyes bejelentési kötelezettség alá tartozó fertőző betegségek leküzdésére vonatkozó szabályok ezt lehetővé teszik – a bőrrel együtt az előző bekezdés szerint, a bőrtől elválasztva pedig 0,5–1 órán át tartó főzés után szabad forgalomba hozni.
 
 [^6]: Megjelent a Mezőgazdasági és Élelmezésügyi Értesítő 1997. évi 13. számában (1997. június 30.), valamint a Magyar Közlöny 1998. évi 74/II. számában (1998. augusztus 15.).
 [^7]: Az 1. számú melléklet 2. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 4. pontja szerint módosított szöveg.
@@ -5379,11 +5399,12 @@ c) A fertőtlenítésnek az egész kocsira, repülőgép- vagy hajórekeszre ki 
 [^542]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
 [^543]: Az 1. számú melléklet 1. számú függelék 4. pontja az 51/2013. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.
 [^544]: Az 1. számú függelék 6. pontja a 27/2006. (II. 7.) Korm. rendelet 20. §-a, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
-[^548]: Az 1. melléklet 5. függelék 3.8. pont f) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
-[^549]: Az 1. melléklet 5. függelék 3.8. pont g) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
-[^550]: Az 1. melléklet 5. függelék 3.8. pont h) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
-[^551]: Az 1. melléklet 5. függelék 3.8. pont i) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
-[^564]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 49. pontja szerint módosított szöveg.
-[^565]: Az 1. melléklet 17. függeléke a 23/2023. (V. 10.) AM rendelet 1. § j) pontja szerint módosított szöveg
-[^566]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^567]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
+[^545]: Az 1. számú melléklet 2. számú függelék 1. pont 1.3. alpontját a 42/2025. (IX. 30.) AM rendelet 1. §-a iktatta be.
+[^549]: Az 1. melléklet 5. függelék 3.8. pont f) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^550]: Az 1. melléklet 5. függelék 3.8. pont g) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^551]: Az 1. melléklet 5. függelék 3.8. pont h) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^552]: Az 1. melléklet 5. függelék 3.8. pont i) alpontját a 23/2023. (V. 10.) AM rendelet 2. § f) pontja hatályon kívül helyezte.
+[^565]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 49. pontja szerint módosított szöveg.
+[^566]: Az 1. melléklet 17. függeléke a 23/2023. (V. 10.) AM rendelet 1. § j) pontja szerint módosított szöveg
+[^567]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^568]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 13. számú függelék[^562]
+## 13. számú függelék[^563]
 
 ## 14. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^563]
+## az Állategészségügyi Szabályzathoz[^564]
 
 ## 15. számú függelék
 
@@ -186,5 +186,5 @@ VIII. Közegészségügyi vonatkozás
 
 IX. Állategészségügyi Intézeti vizsgálat
 
-[^562]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
-[^563]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^563]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+[^564]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
