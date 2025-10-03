@@ -18,8 +18,8 @@
 
 ## [10] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 19. és 20. pontjában kapott felhatalmazás alapján, a 3. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (5) bekezdésében kapott felhatalmazás alapján, a 4. alcím tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 4. pontjában kapott felhatalmazás alapján, az 5. alcím tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (5) bekezdés e) pont eb) alpontjában kapott felhatalmazás alapján, a 6. alcím tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, a 7. és a 8. alcím tekintetében a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (4) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. és 3. pontjában meghatározott feladatkörömben eljárva, az 5. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 18. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben, a következőket rendelem el:
 
-## 1.[^1]
+## 1. Az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet módosítása
 
-1. §
+1. § Az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet 1. számú melléklet 2. számú függelék 1. pontja a következő 1.3. alponttal egészül ki:
 
-[^1]: Az 1. alcím a 15. § (2) bekezdése alapján 2025. október 3-án lép hatályba.
+(Az állategészségügyi szakhatóság az állattartó telep és technológia járványügyi, állathigiéniai alkalmasságának megállapításához az alábbi feltételek fennállását vizsgálja:)

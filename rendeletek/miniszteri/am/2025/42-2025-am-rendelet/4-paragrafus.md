@@ -1,5 +1,5 @@
-## 4.[^4]
+## 4. Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet módosítása
 
-4. §
+4. § Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet [a továbbiakban: 74/2013. (VIII. 30.) VM rendelet] 6. § (3a) bekezdése a következő e) ponttal egészül ki:
 
-[^4]: A 4. alcím a 15. § (2) bekezdése alapján 2025. október 3-án lép hatályba.
+[A kártalanítás összege az 5. § (6) bekezdése szerint megállapított érték 100%-a]
