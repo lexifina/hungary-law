@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 24/2005. (IV. 21.) GKM rendelet 6. melléklet III. pont 1. alpontjában az „A sebességváltónál az előírt – előremeneti – legalább 8 fokozat felezővel is teljesíthető.” szövegrész.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

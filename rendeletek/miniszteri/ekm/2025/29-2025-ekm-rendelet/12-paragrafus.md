@@ -1,1 +1,3 @@
-12. § Az 54/2021. (XI. 5.) ITM rendelet 1. mellékletében foglalt táblázat A:105 mezőjében az „5632” szövegrész helyébe az „5633” szöveg lép.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

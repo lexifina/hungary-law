@@ -12,6 +12,6 @@
 
 ## 1. A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet módosítása
 
-1. § A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet [a továbbiakban: 1/1990. (IX. 29.) KHVM rendelet] 7. § c) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Egyszemélyes járműfenntartó szervezet esetében)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
