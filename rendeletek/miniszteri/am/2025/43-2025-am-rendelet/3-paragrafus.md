@@ -1,3 +1,3 @@
-3. § (1) Az R. 13. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
 
-(2) Az R. 39. melléklete a 2. melléklet szerint módosul.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
