@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 19. § (1) bekezdés i) pontjában a „megtérítésére és” szövegrész helyébe a „megtérítésére,” szöveg,
-
-b) 19. § (1) bekezdés j) pontjában a „megtérítésére.” szövegrész helyébe a „megtérítésére és” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
