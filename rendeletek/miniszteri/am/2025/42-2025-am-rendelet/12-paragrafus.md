@@ -1,1 +1,3 @@
-12. § A 19/2021. (V. 5.) AM rendelet 11. § (3) bekezdésében a „(4) bekezdés alapján” szövegrész helyébe a „(2) bekezdés alapján” szöveg lép.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-6. § Hatályát veszti a 74/2013. (VIII. 30.) VM rendelet 6. § (3a) bekezdés c) pontjában a „valamint” szövegrész.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

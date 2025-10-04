@@ -20,6 +20,6 @@
 
 ## 1. Az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet módosítása
 
-1. § Az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet 1. számú melléklet 2. számú függelék 1. pontja a következő 1.3. alponttal egészül ki:
+1. §[^2]
 
-(Az állategészségügyi szakhatóság az állattartó telep és technológia járványügyi, állathigiéniai alkalmasságának megállapításához az alábbi feltételek fennállását vizsgálja:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
