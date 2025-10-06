@@ -1,0 +1,171 @@
+# A Kormány 304/2025. (X. 6.) Korm. rendelete
+
+Magyar Közlöny 2025. évi 116. szám, 2025. október 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/l5GdpEDrg7yNAurl3miG68dc3833d2ab7/dokumentumok/64b44d90f57a5a0d93f6e720d7c7c577f9aae27d/letoltes)
+
+---
+
+A Kormány 304/2025. (X. 6.) Korm. rendelete
+a Bérgarancia Alapról szóló 1994. évi LXVI. törvény, valamint egyes felszámolási tárgyú törvények
+veszélyhelyzet ideje alatt való eltérő alkalmazásáról
+[1] E veszélyhelyzeti rendelet célja, hogy a veszélyhelyzet ideje alatt az orosz–ukrán háború, valamint az arra hivatkozással
+bevezetett európai uniós szankciók következtében felszámolással fenyegetett gazdálkodó szervezetek reorganizációját,
+illetve működő üzemként történő értékesítését és szükség esetén átmeneti finanszírozását hatékonyan előmozdítsa.
+[2] A Kormány kiemelt célja továbbra is, hogy az orosz–ukrán háború, valamint az arra hivatkozással bevezetett európai
+uniós szankciók teremtette gazdasági környezetben megvédje a magyar nemzetgazdaság stabilitását, valamint a hazai
+munkahelyeket.
+[3] A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel
+a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a csődeljárásról
+
+és a felszámolási eljárásról szóló 1991. évi XLIX. törvényt (a továbbiakban: Cstv.), a Bérgarancia Alapról szóló
+1994. évi LXVI. törvényt (a továbbiakban: Btv.), a veszélyhelyzettel összefüggő átmeneti szabályokról szóló
+2021. évi XCIX. törvényt (a továbbiakban: Törvény), továbbá a felszámolást megelőző reorganizációs célú eljárásról,
+valamint a csőd- és felszámolási eljárás egyes veszélyhelyzeti szabályairól szóló 252/2025. (VIII. 7.) Korm. rendeletet
+(a továbbiakban: R.) az e rendeletben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+2. § (1) E rendeletet a Cstv. IV. Fejezete szerinti azon felszámolási eljárásban kell alkalmazni, amelyben az R. 2. §-a alapján
+a Kormány reorganizációs terv elkészítését rendelte el.
+(2) E rendeletet az (1) bekezdés szerinti eljárás adósának (a továbbiakban: adós) a társasági adóról és az osztalékadóról
+szóló 1996. évi LXXXI. törvény 4. § 23. pont a)–c) alpontja szerinti kapcsolt vállalkozása (a továbbiakban: kapcsolt
+vállalkozás) vonatkozásában is alkalmazni kell.
+3. § (1) Az R. 6. §-át azzal a kiegészítéssel kell alkalmazni, hogy ha a teljes reorganizáció nem lehetséges, de az adós
+leválasztott részének értékesítésével a további működés biztosítható, akkor az állami felszámoló az adós
+leválasztandó részének felszámolás keretében való korai értékesítésére (a továbbiakban: korai értékesítési
+mechanizmus), valamint az adós gazdasági tevékenységének az értékesítésig való folytatására vonatkozó tervet
+nyújt be a bíróság részére, és kéri a felszámolási eljárás folytatását.
+(2) Az (1) bekezdés szerinti terv a kapcsolt vállalkozás egy részének leválasztására és értékesítésére is irányulhat,
+ha az állami felszámoló a terv benyújtásával és az adós elleni felszámolás folytatására vonatkozó kérelemmel
+egyidejűleg kérelmezi a kapcsolt vállalkozás felszámolását is, és a kapcsolt vállalkozás gazdasági tevékenysége
+vagy vagyoni helyzete az adós gazdasági tevékenységét vagy vagyoni helyzetét befolyásolja. A kapcsolt vállalkozás
+fizetésképtelenségét meg kell állapítani, ha az állami felszámoló a kérelmében úgy nyilatkozik, hogy a kapcsolt
+vállalkozás tartozásai meghaladják az utolsó közzétett beszámolóban feltüntetett vagyonát, vagy lejárt tartozásai
+meghaladják pénzeszközeit, vagy a tartozását (tartozásait) az esedékességkor nem tudta kielégíteni.
+(3) A (2) bekezdés szerinti esetben
+a) a Cstv. 22. § (1) bekezdését, a Cstv. 27. § (2) bekezdését, valamint az R. 4. § (2) és (3) bekezdését azzal
+az eltéréssel kell alkalmazni, hogy az adós kapcsolt vállalkozásának felszámolását az adós nevében eljáró
+állami felszámoló kérelmére kell elrendelni,
+b) a Cstv. 6. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kapcsolt vállalkozás elleni felszámolási
+eljárásra az a bíróság kizárólagosan illetékes, amely előtt az adós felszámolási eljárása folyamatban van.
+(4) Az állami felszámoló az (1) bekezdés szerinti tervben bemutatja, hogy az adós vagy kapcsolt vállalkozása
+vagyonának a felszámolási eljárás alatti gazdasági tevékenység folytatására és egyben, önállóan működőképes
+egységként történő értékesítésére alkalmas részének leválasztása és értékesítése várhatóan miért előnyösebb
+a hitelezők számára, mint a vagyonelemek egyenként történő értékesítése.
+(5) Az (1), illetve (2) bekezdés szerinti kérelem bírósághoz érkezését követő 1 munkanapon belül a bíróság végzést tesz
+közzé a Cégközlönyben az adóst, illetve a kapcsolt vállalkozást – a felszámolás jogerős elrendeléséig vagy a kérelem
+jogerős elutasításáig – megillető rendkívüli moratóriumról. A Cégközlönyben történő közzétételre a Cégközlöny
+honlapján napi feltöltéssel, 0 órakor kerül sor. A rendkívüli moratórium a közzétételtől illeti meg az adóst. A bíróság
+a végzésben rendkívüli vagyonfelügyelőként kirendeli az állami felszámolót. A rendkívüli vagyonfelügyelőként
+kirendelt állami felszámolót megilletik mindazok a jogok, amelyek a felszámolót megilletik. A végzés ellen
+fellebbezésnek nincs helye.
+(6) A rendkívüli moratórium időtartama alatt a gazdálkodó szervezet ellen a kérelem bírósághoz érkezésének
+időpontjában meglévő és azt követően szerzett vagyonnal kapcsolatos pénzkövetelést ideiglenesen nem lehet
+érvényesíteni, az adóssal, illetve a kapcsolt vállalkozással szemben a pénzkövetelések végrehajtása szünetel,
+és végrehajtásuk elrendelésének nincs helye. A rendkívüli moratórium időtartama alatt a hitelezői követelések
+kamatoznak.
+(7) A rendkívüli moratórium időtartama alatt kifizetéseket kizárólag a rendkívüli vagyonfelügyelő ellenjegyzésével
+lehet teljesíteni. A rendkívüli vagyonfelügyelő ellenjegyzi a rendkívüli moratórium időtartama alatt esedékessé váló
+azon kifizetéseket, amelyek a rendkívüli moratórium időtartama alatt az adós tevékenységének folytatásához és
+a működőképessége fenntartásához szükségesek.
+(8) A rendkívüli vagyonfelügyelőt az adós pénzforgalmi számlái felett együttes rendelkezési jog illeti meg. A rendkívüli
+vagyonfelügyelő haladéktalanul bejelenti az adós számláit vezető pénzforgalmi szolgáltatónak az e bekezdésben
+meghatározott jogosítványait és hitelt érdemlő módon igazolt aláírását. A rendkívüli moratórium időtartama alatt
+a számlavezető köteles biztosítani az adós és a rendkívüli vagyonfelügyelő bankszámlák feletti rendelkezési jogának
+
+gyakorlását és a pénzforgalom zavartalanságát, valamint köteles tartózkodni minden olyan magatartástól, ideértve
+a szerződésen alapuló jogok gyakorlását is, amely a vagyonfelügyelő bankszámlák feletti rendelkezési jogának
+gyakorlását vagy a pénzforgalom zavartalanságát korlátozná, akadályozná vagy kizárná.
+(9) A bíróság az (1) bekezdés szerinti kérelem beérkezésétől számított 3 munkanapon belül
+a) jóváhagyja az (1) bekezdés szerinti tervet, ha az a (4) bekezdés szerinti indokolást tartalmazza, és
+b) elrendeli az adós elleni felszámolási eljárást, illetve
+c) a (2) bekezdés szerinti esetben külön végzésben elrendeli a kapcsolt vállalkozás elleni felszámolási eljárást.
+(10) A (9) bekezdés alapján meghozott végzés elleni fellebbezésnek nincs halasztó hatálya.
+4. §
+Az állami felszámoló a 3. § alapján elrendelt felszámolási eljárásban az egyben, önállóan működőképes egységként
+történő értékesítésre alkalmas vagyonrész leválasztását a 3. § (9) bekezdése szerinti elrendeléstől, a leválasztott rész
+korai értékesítési mechanizmus keretében történő értékesítését a felszámolás kezdő időpontjától megkezdheti.
+5. §
+A Cstv. 46. § (3) és (4) bekezdését, valamint 67. § (7) bekezdését a 3. § alapján elrendelt felszámolási eljárásban
+azzal az eltéréssel kell alkalmazni, hogy az adós gazdasági tevékenységének a 3. § (1) bekezdése szerinti tervben
+bemutatott értékesítésig történő továbbfolytatásához a hitelezői választmány hozzájárulása nem szükséges.
+6. § (1) A Törvény 76. §-át a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy
+a) a felszámoló a hitelezőket a leválasztási szándékról nem köteles értesíteni;
+b) a leválasztásról való döntéshez a hitelezők jóváhagyása nem szükséges;
+c) a szétválási tervet az állami felszámoló nem köteles megküldeni a Cstv. 49/D. §-a szerint kielégítésre jogosult
+hitelezőknek;
+d) az adós tevékenységének folytatása céljából kiválással létrejött gazdasági társaság alapítása során a Polgári
+Törvénykönyv 3:163. § (1) bekezdését nem kell alkalmazni;
+e) az adós tevékenységének folytatása céljából kiválással létrejött gazdasági társaság bejegyzésére irányuló
+kérelmét a cégbíróság – ha azt nem egyszerűsített eljárásban nyújtották be – az adószám beérkezésétől
+számított 3 munkanap alatt bírálja el; és
+f) az adós tevékenységének folytatása céljából kiválással létrejött gazdasági társaság kölcsön- vagy
+hitelfelvételéhez a Cstv. 49/D. § (1) és (3) bekezdése szerinti hitelezői követelések jogosultjainak előzetes
+jóváhagyása nem szükséges.
+(2) A Cstv. 67. § (9d) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy
+az állami felszámoló a nem nyilvános értékesítésre vonatkozó döntése előtt a hitelezői választmány véleményét nem
+köteles kikérni.
+(3) A Cstv. 67. § (9e) bekezdését és a Törvény 76. § (11) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal
+az eltéréssel kell alkalmazni, hogy ha az állami felszámoló az adós vagyonát nem nyilvánosan értékesíti, előzetesen
+legalább két független értékbecslő szakértőtől származó értékbecslést kell beszereznie. A hitelezői választmány
+a becsérték felülvizsgálatát nem kezdeményezheti. A részesedés értékesítése során a minimálár meghatározásához
+a Cstv. 49/D. § (1) bekezdése szerinti hitelezők jóváhagyása nem szükséges.
+(4) A kiválással létrejött gazdasági társaság részesedése tekintetében a Magyar Államot vételi jog illeti meg
+a (3) bekezdés szerinti két független szakértői értékbecslésben szereplő becsértékek számtani átlagának megfelelő
+vételáron.
+(5) Az állami felszámoló a Magyar Állam vételi jog gyakorlására jogosult képviselőjét a (3) bekezdés szerinti független
+szakértői értékbecslések tartalmáról azok beérkezésétől számított 3 munkanapon belül tájékoztatja.
+(6) Ha a Magyar Állam vételi jog gyakorlására jogosult képviselője előzetesen arról tájékoztatja az állami felszámolót,
+hogy a vételi joggal a későbbiekben élni kíván, akkor – az állami felszámoló kezdeményezésére, ha az az adós
+működőképességének átmeneti fenntartása érdekében szükséges – az adós részére vételárelőleget fizethet.
+7. § (1) A Btv. 7. § (1) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy
+a támogatási igény meghatározása során egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet
+megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének
+huszonhatszorosa vehető figyelembe.
+(2) A Btv. 7. § (3) bekezdése a 3. § alapján elrendelt felszámolási eljárással összefüggésben igényelt támogatás
+vonatkozásában nem alkalmazandó.
+
+(3) A Btv. 11. § (3) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy
+a támogatási igény meghatározása során egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet
+megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének
+tizenhatszorosa vehető figyelembe.
+(4) A Btv. 3. §-át és 6. § (2) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni,
+hogy az állami felszámoló a támogatás iránti kérelmeket összevont – egyösszegű – kérelemként (a továbbiakban:
+összevont támogatás iránti kérelem), elektronikus úton az e célra rendszeresített informatikai rendszer mellőzésével
+is benyújthatja az állami foglalkoztatási szervhez. Az összevont támogatás iránti kérelemben a kérelemmel érintett
+munkavállalók adatait nem kell feltüntetni.
+(5) A Btv. 5. §-át az összevont támogatás iránti kérelem intézése során azzal az eltéréssel kell alkalmazni, hogy
+az összevont támogatás iránti kérelemben megjelölt egyösszegű munkabértartozást az állami foglalkoztatási szerv
+a kérelem beérkezésétől számított 5 munkanapon belül a kérelemben megjelölt és e célra elkülönített bankszámlára
+átutalja.
+(6) Az állami felszámoló az (5) bekezdés szerint átutalt összevont támogatás alapján a munkavállalókat megillető
+munkabérek – munkavállalókat terhelő közterhekkel csökkentett – összegének a munkavállalók részére történő
+megfizetését az összevont támogatásnak az elkülönített bankszámlán történő jóváírását követő 5 munkanapon
+belül teljesíti.
+(7) Az állami felszámoló a munkavállalók részére teljesített kifizetésekkel egyidejűleg intézkedik a munkavállalókat
+terhelő közterheknek az állami adó- és vámhatóság részére történő megfizetéséről a felszámolás alatt álló
+gazdálkodó szervezet nevében és a gazdálkodó szervezet adószámának feltüntetésével, valamint a munkabért
+– határozat vagy jogszabály alapján – terhelő levonásoknak a levonások jogosultjai részére történő kifizetéséről.
+(8) Az állami felszámoló a (6) és (7) bekezdésben foglalt kifizetések teljesítését követő 45 napon belül köteles az állami
+foglalkoztatási szerv felé elektronikus úton munkavállalónkénti részletezettséggel elszámolást benyújtani,
+ezzel egyidejűleg az összevont támogatási kérelem alapján igényelt összeg fel nem használt részét az állami
+foglalkoztatási szerv részére visszafizetni.
+(9) A Cstv. 58. § (1) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy
+a Cstv. 57. § (1) bekezdés a) pontjába, továbbá a Cstv. 57. § (2) bekezdés d) pontjába sorolt bérgarancia támogatást
+az esedékességétől számított hat hónapon belül, de legkésőbb a zárómérleg vagy záró egyszerűsített mérleg
+jóváhagyása után 30 napon belül kell kielégíteni, azzal, hogy ezek a követelések a közbenső mérleg alapján nem
+elégíthetőek ki.
+(10) A Törvény 76. § (17) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni,
+hogy a bérgarancia támogatás visszafizetésére a kiválással létrejött gazdasági társaság helyett az adós köteles.
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+9. §
+E rendeletet a hatálybalépése napján folyamatban lévő felszámolási eljárásban, valamint az R. szerinti, e rendelet
+hatálybalépése napján folyamatban lévő eljárásban is alkalmazni kell, ha az állami felszámoló az R. 6. §
+(1) bekezdése alapján a felszámolást megelőző reorganizációs célú eljárást az e rendelet hatálybalépése napjáig
+nem kezdeményezte, vagy a 6. § (3) bekezdése alapján a bíróság részére nyilatkozatot nem tett.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IX. Határozatok Tára
