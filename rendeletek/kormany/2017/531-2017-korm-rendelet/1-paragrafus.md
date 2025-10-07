@@ -1,4 +1,4 @@
-1. § (1)[^1] A Kormány – a (2)–(4) bekezdésben, az 1/A–1/E. §-ban foglaltak kivételével – az 1. mellékletben meghatározott közigazgatási hatósági eljárásokban, az ott meghatározott szakkérdések tekintetében, az ott meghatározott hatóságokat szakhatóságként jelöli ki.
+1. § (1)[^1] A Kormány – a (2)–(4) bekezdésben, az 1/A–1/G. §-ban foglaltak kivételével – az 1. mellékletben meghatározott közigazgatási hatósági eljárásokban, az ott meghatározott szakkérdések tekintetében, az ott meghatározott hatóságokat szakhatóságként jelöli ki.
 
 (2) A Kormány az összevont telepítési eljárásban a 2. melléklet szerinti szakhatóságokat jelöli ki.
 
@@ -8,7 +8,7 @@
 
 (5)[^4] A Kormány a 3. melléklet 23. és 42. pontja szerinti beruházások esetén az 1. melléklet szerinti közigazgatási hatósági eljárásokban, valamint a vízgazdálkodási és vízvédelmi célú projektek esetén, továbbá a gyorsforgalmi közúthálózat fejlesztése során az 1. melléklet 9. pontja szerinti táblázat 2. és 3. sorában meghatározott környezetvédelmi közigazgatási hatósági eljárásokban vízgazdálkodási és vízvédelmi szakkérdésben szakhatóságként a területileg illetékes vízügyi hatóságot és a területileg illetékes vízvédelmi hatóságot jelöli ki.
 
-[^1]: Az 1. § (1) bekezdése a 363/2020. (VII. 23.) Korm. rendelet 8. § a) pontja, a 604/2021. (X. 29.) Korm. rendelet 3. § a) pontja, a 788/2021. (XII. 27.) Korm. rendelet 32. § a) pontja, a 438/2022. (XI. 2.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 363/2020. (VII. 23.) Korm. rendelet 8. § a) pontja, a 604/2021. (X. 29.) Korm. rendelet 3. § a) pontja, a 788/2021. (XII. 27.) Korm. rendelet 32. § a) pontja, a 438/2022. (XI. 2.) Korm. rendelet 10. § (3) bekezdése, a 302/2025. (X. 6.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 604/2021. (X. 29.) Korm. rendelet 3. § b) pontja, a 788/2021. (XII. 27.) Korm. rendelet 32. § a) pontja, a 438/2022. (XI. 2.) Korm. rendelet 10. § (3) bekezdése, a 258/2024. (VIII. 29.) Korm. rendelet 24. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 32. § b) pontja, a 258/2024. (VIII. 29.) Korm. rendelet 24. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (5) bekezdését a 368/2020. (VII. 28.) Korm. rendelet 13. §-a iktatta be, szövege az 545/2020. (XII. 2.) Korm. rendelet 9. §-ával megállapított, a 258/2024. (VIII. 29.) Korm. rendelet 24. § (1) bekezdés c) pontja szerint módosított szöveg.

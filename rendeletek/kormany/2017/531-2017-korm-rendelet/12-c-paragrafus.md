@@ -1,0 +1,4 @@
+12/C. §[^37] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 302/2025. (X. 6.) Korm. rendelettel (a továbbiakban: Módr8.) módosított 1. § (1) bekezdését és megállapított 1/G. §-át a Módr8. hatálybalépésekor[^38] folyamatban lévő eljárásokban is alkalmazni kell.
+
+[^37]: A 12/C. §-t a 302/2025. (X. 6.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^38]: A hatálybalépés időpontja 2025. október 7.

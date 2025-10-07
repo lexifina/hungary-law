@@ -86,3 +86,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2025-07-01 | 2017-531-20-22.80 | 155/2025. (VI. 23.) Korm. rendelet |
 | 2025-08-07 | 2017-531-20-22.81 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2025-09-26 | 2017-531-20-22.82 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2025-10-07 | 2017-531-20-22.83 | 302/2025. (X. 6.) Korm. rendelet |
