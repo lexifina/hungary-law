@@ -1,0 +1,1 @@
+5. § A Cstv. 46. § (3) és (4) bekezdését, valamint 67. § (7) bekezdését a 3. § alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy az adós gazdasági tevékenységének a 3. § (1) bekezdése szerinti tervben bemutatott értékesítésig történő továbbfolytatásához a hitelezői választmány hozzájárulása nem szükséges.
