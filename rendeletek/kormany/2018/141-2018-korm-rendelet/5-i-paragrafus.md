@@ -1,4 +1,4 @@
-5/I. §[^82] (1) A 2. mellékletben foglalt táblázat 100. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:100 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
+5/I. §[^87] (1) A 2. mellékletben foglalt táblázat 100. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:100 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -48,4 +48,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2)–(
 
 (6) A 2. mellékletben foglalt táblázat 100. sora szerinti beruházással összefüggésben megvalósuló építési tevékenységet ütemenként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság. Az egyes ütemek használatbavétele akkor is engedélyezhető, ha az építmény rendeltetésszerű és biztonságos használhatóságához szükséges járulékos építményei telken belül ideiglenesen vagy a meglévő szomszédos, illetve a telephelyi telkeken helyezkednek el.
 
-[^82]: Az 5/I. §-t a 202/2022. (VI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^87]: Az 5/I. §-t a 202/2022. (VI. 7.) Korm. rendelet 1. §-a iktatta be.

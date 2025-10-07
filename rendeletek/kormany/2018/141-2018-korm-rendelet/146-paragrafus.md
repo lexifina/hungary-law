@@ -1,4 +1,4 @@
-146. §[^536] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 99/2024. (V. 7.) Korm. rendelettel (a továbbiakban: Módr138.) módosított 2. mellékletében foglalt táblázat 117. sorát a Módr138. hatálybalépésekor[^537] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+146. §[^542] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 99/2024. (V. 7.) Korm. rendelettel (a továbbiakban: Módr138.) módosított 2. mellékletében foglalt táblázat 117. sorát a Módr138. hatálybalépésekor[^543] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^536]: A 146. §-t a 99/2024. (V. 7.) Korm. rendelet 1. §-a iktatta be.
-[^537]: A hatálybalépés időpontja 2024. május 8.
+[^542]: A 146. §-t a 99/2024. (V. 7.) Korm. rendelet 1. §-a iktatta be.
+[^543]: A hatálybalépés időpontja 2024. május 8.

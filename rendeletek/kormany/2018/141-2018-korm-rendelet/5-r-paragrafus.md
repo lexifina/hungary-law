@@ -1,8 +1,8 @@
-5/R. §[^126] (1) A 2. mellékletben foglalt táblázat B:42a mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+5/R. §[^132] (1) A 2. mellékletben foglalt táblázat B:42a mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
-a)[^127] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
+a)[^133] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
-b)[^128] ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^134] ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) Az 1. melléklet szerinti hatósági eljárásokban a 2. mellékletben foglalt táblázat B:42a mezőjében megjelölt, Bük város belterületén fekvő, 1337/39 és 1337/40 helyrajzi számú ingatlanokból telekalakítással kialakuló telken az ivóvíz kezeléséhez, a berendezések működtetéséhez kapcsolódó építmények helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -28,6 +28,6 @@ d) az épületmagasság megengedett legnagyobb mértéke a toronyépítmények �
 
 e) zöldfelületet nem kell létesíteni.
 
-[^126]: Az 5/R. §-t a 194/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
-[^127]: Az 5/R. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 35. pontja szerint módosított szöveg.
-[^128]: Az 5/R. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 36. pontja szerint módosított szöveg.
+[^132]: Az 5/R. §-t a 194/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
+[^133]: Az 5/R. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 35. pontja szerint módosított szöveg.
+[^134]: Az 5/R. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 36. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-4/B. §[^30] A 2. mellékletben foglalt táblázat 66. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:66 mezőjében megjelölt beruházással összefüggésben létesített épületekre, építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a közútkezelői nyilatkozat, hozzájárulás megszerzése.
+4/B. §[^33] A 2. mellékletben foglalt táblázat 66. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:66 mezőjében megjelölt beruházással összefüggésben létesített épületekre, építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a közútkezelői nyilatkozat, hozzájárulás megszerzése.
 
-[^30]: A 4/B. §-t a 155/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 4/B. §-t a 155/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.

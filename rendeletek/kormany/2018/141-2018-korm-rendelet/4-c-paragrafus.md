@@ -1,8 +1,8 @@
-4/C. §[^31] (1) A 2. mellékletben foglalt táblázat 131. sora szerinti beruházás esetében a 2. mellékletben foglalt tábláztat B:131 mezőjében megjelölt ingatlanok területén ipari tevékenységhez kapcsolódó épületek, közmű, energiaszolgáltatás épületei, hírközlési és gazdasági rendeltetésű építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek, illetve azok kiszolgálóépítményei, közműpótló műtárgyak, valamint azok kiszolgálóépítményei helyezhetők el, és a beépítés egyedi szabályait a (2), (6) és (7) bekezdés állapítja meg, azzal, hogy
+4/C. §[^34] (1) A 2. mellékletben foglalt táblázat 131. sora szerinti beruházás esetében a 2. mellékletben foglalt tábláztat B:131 mezőjében megjelölt ingatlanok területén ipari tevékenységhez kapcsolódó épületek, közmű, energiaszolgáltatás épületei, hírközlési és gazdasági rendeltetésű építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek, illetve azok kiszolgálóépítményei, közműpótló műtárgyak, valamint azok kiszolgálóépítményei helyezhetők el, és a beépítés egyedi szabályait a (2), (6) és (7) bekezdés állapítja meg, azzal, hogy
 
-a)[^32] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2), (6) és (7) bekezdésben foglalt eltéréssel kell alkalmazni, és
+a)[^35] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2), (6) és (7) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
-b)[^33] ha a hatályos településrendezési terv és településképi rendelet vagy az OTÉK, illetve a TÉKA a beépítés (2), (6) és (7) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^36] ha a hatályos településrendezési terv és településképi rendelet vagy az OTÉK, illetve a TÉKA a beépítés (2), (6) és (7) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat 131. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:131 mezőjében megjelölt ingatlanok által lefedett területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -36,9 +36,9 @@ k) a hatályos településrendezési terv szerinti szabályozási vonalat nem ke
 
 (6) A 2. mellékletben foglalt táblázat 131. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:131 mezőjében megjelölt ingatlanokon, valamint az ezen földrészletekből a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított földrészleteken munkásszállás is elhelyezhető.
 
-(7)[^34] A fő rendeltetés szerinti épületek használatbavételéig az építési beruházás megvalósítása során a kivitelezési munkák elvégzéséhez szükséges, munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, de az OTÉK 104/A. §-ában, illetve a TÉKA 127. §-ában foglaltaknak megfelelő, szállás jellegű épület létesítése a telekalakítással kialakuló építési telken belül megengedett, azzal, hogy a szállás jellegű épülethez nem kötelező személygépkocsi-várakozóhelyeket és kerékpártárolót biztosítani, azonban gondoskodni kell a szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról.
+(7)[^37] A fő rendeltetés szerinti épületek használatbavételéig az építési beruházás megvalósítása során a kivitelezési munkák elvégzéséhez szükséges, munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, de az OTÉK 104/A. §-ában, illetve a TÉKA 127. §-ában foglaltaknak megfelelő, szállás jellegű épület létesítése a telekalakítással kialakuló építési telken belül megengedett, azzal, hogy a szállás jellegű épülethez nem kötelező személygépkocsi-várakozóhelyeket és kerékpártárolót biztosítani, azonban gondoskodni kell a szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról.
 
-[^31]: A 4/C. §-t a 156/2024. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^32]: A 4/C. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^33]: A 4/C. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
-[^34]: A 4/C. § (7) bekezdése a 178/2025. (VI. 30.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^34]: A 4/C. §-t a 156/2024. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^35]: A 4/C. § (1) bekezdés a) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^36]: A 4/C. § (1) bekezdés b) pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^37]: A 4/C. § (7) bekezdése a 178/2025. (VI. 30.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
