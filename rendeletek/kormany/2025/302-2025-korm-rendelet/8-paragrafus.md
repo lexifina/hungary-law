@@ -1,9 +1,5 @@
 ## 2. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosítása
 
-8. § (1) Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet a következő 1/G. §-sal egészül ki:
+8. §[^9]
 
-„1/G. § A Kormány az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R3.) 2. mellékletében foglalt táblázat 140. és 141. sora szerinti beruházással összefüggő és az R3. 1. melléklet 3., 4. és 22. pontja, valamint az 1. melléklet 9. pontjában foglalt táblázat 20. sora szerinti közigazgatási hatósági eljárásban kizárólagosan eljáró szakhatóságként Budapest Főváros Kormányhivatalát jelöli ki.”
-
-(2) Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet a következő 12/C. §-sal egészül ki:
-
-„12/C. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 302/2025. (X. 6.) Korm. rendelettel (a továbbiakban: Módr8.) módosított 1. § (1) bekezdését és megállapított 1/G. §-át a Módr8. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

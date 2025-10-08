@@ -1,1 +1,3 @@
-9. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. § (1) bekezdésében az „1/A–1/E. §-ban” szövegrész helyébe az „1/A–1/G. §-ban” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
