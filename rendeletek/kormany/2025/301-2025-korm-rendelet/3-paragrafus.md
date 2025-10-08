@@ -1,1 +1,3 @@
-3. § Az R. 4. § (9) bekezdésében a „115.” szövegrész helyébe a „21. és 115.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
