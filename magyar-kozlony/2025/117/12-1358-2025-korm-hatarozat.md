@@ -1,0 +1,55 @@
+# A Kormány 1358/2025. (X. 9.) Korm. határozata
+
+Magyar Közlöny 2025. évi 117. szám, 2025. október 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8eR0sfGZe9BAIfXecGrM68dd770564d89/dokumentumok/a5d11f342b3b607755e6ba1e5fd47eb7a4317c29/letoltes)
+
+---
+
+A Kormány 1358/2025. (X. 9.) Korm. határozata
+a 2026. évi UEFA Bajnokok Ligája-döntő megrendezéséhez szükséges további kormányzati intézkedésekről
+A Kormány
+1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 7.45. pontja szerinti jogkörében
+eljárva, a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zrt. (a továbbiakban: NRÜ Zrt.) mint a 2026. évi
+UEFA Bajnokok Ligája-döntő szervezője által a szervezésben részt vevő szervezetek közreműködésével
+biztosítható juttatások tekintetében az igénybe vehető adómentesség mértékét legfeljebb 347 000 000 forintban
+határozza meg;
+2. felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy az NRÜ Zrt. bevonásával gondoskodjon az autóbusz-
+forgalmi sávon a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 36. § (8) bekezdés
+b) pont bf) alpontja alapján az autóbusz-forgalmi sáv használatára jogosult járművek kijelöléséről és részükre
+– a Magyar Labdarúgó Szövetség közreműködésével – a 2026. évi UEFA Bajnokok Ligája-döntő megrendezésével
+kapcsolatban az 1. melléklet szerinti igazolás és matrica kiadásáról.
+Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
+Határidő: 2026. május 22. és június 1. között folyamatosan
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1358/2025. (X. 9.) Korm. határozathoz
+A 2026. évi UEFA Bajnokok Ligája-döntő járműveinek megjelölésére szolgáló jelzés, annak a járművön
+történő rögzítési módja, a jelzés viselésére jogosító igazolás tartalma és használatának ellenőrzése
+1. A kijelölt járművek megjelölésére szolgáló jelzést az 1. ábra tartalmazza.
+1.1. Kivitel: öntapadó matrica
+1.2. Elhelyezés: a jármű elején és a hátulján
+1.3. Ha a jármű első vagy hátsó szélvédőjén helyezik el:
+méretek: szélesség 10 cm
+magasság 10 cm
+1.4. Ha a jármű egyéb részén helyezik el:
+méretek:szélesség 30 cm
+magasság 20 cm
+1. ábra
+2. Az 1. pontban meghatározott jelzést a jármű első és hátsó részén úgy kell elhelyezni, hogy megfeleljen a közúti
+járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.)
+KöHÉM rendelet 97. §-a rendelkezéseinek.
+3. Az 1. pontban meghatározott jelzés járműre történő felhelyezésére jogosító igazolás tartalma:
+„Az autóbusz-forgalmi sáv használatára jogosító igazolás”
+3.1. Járműadatok:
+a) rendszám:
+b) gyártmány:
+c) típus:
+
+3.2. A forgalmi engedély száma:
+3.3. Az igazolás kiállításának kelte:
+3.4. A kiállító aláírása:
+3.5. A kiállító bélyegzőjének helye:
+3.6. Az igazolás érvényessége (év, hónap, nap):
+3.7. Az 1. pontban meghatározott jelzés színes lenyomata:
+4. Az igazolás használatának ellenőrzése:
+Az igazolás és az 1. pontban meghatározott jelzés használatát a közúti közlekedésről szóló 1988. évi I. törvény 44. §
+(2) bekezdése szerint a rendőrség ellenőrzi.
