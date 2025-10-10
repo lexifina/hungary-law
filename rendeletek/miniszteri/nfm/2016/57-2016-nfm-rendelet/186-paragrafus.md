@@ -8,7 +8,7 @@ a) a mozgási területen vagy annak közvetlen közelében folyó építési vag
 
 b) a futópályák, gurulóutak vagy előterek felületének rossz állapotban lévő vagy feltört részei, függetlenül attól, hogy meg vannak-e jelölve,
 
-c)[^229] víz, hó, latyak, jég, jégtelenítő folyadék vagy egyéb szennyeződés valamelyik futópályán, gurulóúton vagy előtéren, hópad vagy hótorlasz valamelyik futópályán, gurulóúton vagy előtér közelében,
+c)[^231] víz, hó, latyak, jég, jégtelenítő folyadék vagy egyéb szennyeződés valamelyik futópályán, gurulóúton vagy előtéren, hópad vagy hótorlasz valamelyik futópályán, gurulóúton vagy előtér közelében,
 
 d) más, ideiglenes veszély előfordulása, beleértve a parkoló légijárműveket és a madarakat a földön vagy a levegőben,
 
@@ -20,4 +20,4 @@ f) bármely egyéb ide tartozó tájékoztatás.
 
 (4) Ha a repülőtéri légiforgalmi irányítónak a munkaterület légijármű által való biztonságos használatát befolyásoló, előzőleg nem közölt körülményt jelentenek, vagy azt a repülőtéri légiforgalmi irányító maga észleli, erről tájékoztatnia kell a repülőtér üzemeltetőjét; és a munkaterület ezen szakaszán a működést be kell szüntetni addig, amíg a repülőtér üzemeltetője másképp nem rendelkezik.
 
-[^229]: A 186. § (2) bekezdés c) pontja a 7/2022. (VII. 27.) TIM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^231]: A 186. § (2) bekezdés c) pontja a 7/2022. (VII. 27.) TIM rendelet 15. § (2) bekezdésével megállapított szöveg.

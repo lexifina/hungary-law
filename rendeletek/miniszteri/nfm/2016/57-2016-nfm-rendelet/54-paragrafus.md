@@ -2,6 +2,6 @@
 
 ## 34. Repülőtéri földi mozgást irányító szolgálat
 
-54. §[^151]
+54. §[^153]
 
-[^151]: Az 54. §-t a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés u) pontja hatályon kívül helyezte.
+[^153]: Az 54. §-t a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés u) pontja hatályon kívül helyezte.

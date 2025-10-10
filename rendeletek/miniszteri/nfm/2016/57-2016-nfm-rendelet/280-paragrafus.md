@@ -8,9 +8,9 @@ ab) a hajózó személyzet által jelentett helyzettel, vagy
 
 ac) a helyzetképernyőn megjelenített, és azonosított helyzet kijelzéssel,
 
-b)[^263] a légiközlekedési hatóság jóváhagyása esetén azonosság átadása,
+b)[^265] a légiközlekedési hatóság jóváhagyása esetén azonosság átadása,
 
-c)[^264] a légiközlekedési hatóság jóváhagyása esetén automatikus azonosítási eljárás.
+c)[^266] a légiközlekedési hatóság jóváhagyása esetén automatikus azonosítási eljárás.
 
-[^263]: A 280. § b) pontja a 7/2022. (VII. 27.) TIM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^264]: A 280. § c) pontja a 7/2022. (VII. 27.) TIM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^265]: A 280. § b) pontja a 7/2022. (VII. 27.) TIM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^266]: A 280. § c) pontja a 7/2022. (VII. 27.) TIM rendelet 16. § (2) bekezdésével megállapított szöveg.

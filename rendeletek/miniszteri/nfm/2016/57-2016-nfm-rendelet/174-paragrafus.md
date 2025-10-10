@@ -4,7 +4,7 @@
 
 ## 80. A repülőtéri irányító torony feladatai
 
-174. § (1)[^222] A repülőtéri irányító torony tájékoztatásokat, utasításokat és engedélyeket ad ki az irányítása alatt álló légijárműveknek a repülőtéren és annak közelében működő légiforgalom biztonságos, rendszeres, gyors áramlásának megvalósítása érdekében és az összeütközések megelőzése céljából:
+174. § (1)[^224] A repülőtéri irányító torony tájékoztatásokat, utasításokat és engedélyeket ad ki az irányítása alatt álló légijárműveknek a repülőtéren és annak közelében működő légiforgalom biztonságos, rendszeres, gyors áramlásának megvalósítása érdekében és az összeütközések megelőzése céljából:
 
 a) a repülőtéri irányító torony illetékességi területén belül – beleértve a repülőtér forgalmi köreit – működő légijárművek között,
 
@@ -26,9 +26,9 @@ a) a repülőtéri légiforgalmi irányító, aki a futópályán lévő forgalo
 
 b) a gurító irányító, aki a munkaterület forgalmáért felelős, a futópályák kivételével,
 
-c)[^223] az engedélyt továbbító irányító – ahol ilyen munkahelyet létesítettek –, aki az induló IFR forgalom részére a hajtómű indítási és ATC engedélyek továbbításáért felelős.
+c)[^225] az engedélyt továbbító irányító – ahol ilyen munkahelyet létesítettek –, aki az induló IFR forgalom részére a hajtómű indítási és ATC engedélyek továbbításáért felelős.
 
 (4) Ahol párhuzamos vagy közel párhuzamos futópályákat használnak egyidejű üzemelésre, szükség szerint futópályánként külön repülőtéri légiforgalmi irányító felelős az egyes futópályákon történő működésért.
 
-[^222]: A 174. § (1) bekezdés nyitó szövegrésze a 7/2022. (VII. 27.) TIM rendelet 18. § 18. pontja szerint módosított szöveg.
-[^223]: A 174. § (3) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^224]: A 174. § (1) bekezdés nyitó szövegrésze a 7/2022. (VII. 27.) TIM rendelet 18. § 18. pontja szerint módosított szöveg.
+[^225]: A 174. § (3) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés f) pontja szerint módosított szöveg.

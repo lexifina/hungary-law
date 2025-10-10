@@ -12,6 +12,6 @@ b) a tevékenység végrehajtására kijelölt légtér méretét a lehető legk
 
 (4) A veszélyt jelentő tevékenységek tervezésénél az illetékes ATS egység, valamint a tevékenységet végrehajtó egység között összeköttetést kell biztosítani arra az esetre, ha kényszerhelyzet vagy más előre nem látható esemény miatt a tevékenység megszakítása válik szükségessé. Amennyiben lehetséges, ez az összeköttetés közvetlen összeköttetés legyen.
 
-(5)[^79]
+(5)[^81]
 
-[^79]: A 26. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § d) pontja hatályon kívül helyezte.
+[^81]: A 26. § (5) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § d) pontja hatályon kívül helyezte.

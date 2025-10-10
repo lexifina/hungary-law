@@ -1,6 +1,6 @@
 ## 64. Időn alapuló hosszirányú turbulencia elkülönítési minimumok
 
-137. §[^211] (1) Az érintett ATC egységnek a következő esetekben nem kell turbulencia elkülönítést alkalmaznia:
+137. §[^213] (1) Az érintett ATC egységnek a következő esetekben nem kell turbulencia elkülönítést alkalmaznia:
 
 a) azonos futópályára leszálló, érkező VFR légijárművek esetén, ha az előttük leszálló egy szuper, nehéz vagy közepes turbulencia kategóriájú légijármű,
 
@@ -38,7 +38,7 @@ b) 760 m-nél kisebb oldaltávolságú párhuzamos futópályának
 
 a közbenső részéről száll fel.
 
-(6)[^212] Az ATC egységnek az (1) bekezdésben foglaltak kivételével legalább 3 perc elkülönítést kell biztosítania szuper turbulencia kategóriájú légijármű mögött felszálló nehéz turbulencia kategóriájú légijármű között, ha a másodiknak felszálló légijármű:
+(6)[^214] Az ATC egységnek az (1) bekezdésben foglaltak kivételével legalább 3 perc elkülönítést kell biztosítania szuper turbulencia kategóriájú légijármű mögött felszálló nehéz turbulencia kategóriájú légijármű között, ha a másodiknak felszálló légijármű:
 
 a) ugyanannak a futópályának vagy
 
@@ -88,5 +88,5 @@ a) a felszálláshoz a futópálya ellentétes irányát használja, a 6. mellé
 
 b) ugyanarra a futópályára ellentétes irányból száll le, illetve egy olyan párhuzamos futópályára hajt végre ellentétes irányú leszállást, amely 760 m-nél kisebb oldaltávolságra helyezkedik el, a 6. melléklet 1.1. pontjában foglalt ábra szerint.
 
-[^211]: A 137. § a 7/2022. (VII. 27.) TIM rendelet 14. § (7) bekezdésével megállapított szöveg.
-[^212]: [A 7/2022. (VII. 27.) TIM rendelet 18. § 15. pontjával elrendelt módosítás, amely szerint a „küszöbét áthelyezték, ha” szövegrész helyébe a „küszöbét áthelyezték és a tervezett repülési pályájuk keresztezi egymást, ha” szöveg lép, nem vezethető át.]
+[^213]: A 137. § a 7/2022. (VII. 27.) TIM rendelet 14. § (7) bekezdésével megállapított szöveg.
+[^214]: [A 7/2022. (VII. 27.) TIM rendelet 18. § 15. pontjával elrendelt módosítás, amely szerint a „küszöbét áthelyezték, ha” szövegrész helyébe a „küszöbét áthelyezték és a tervezett repülési pályájuk keresztezi egymást, ha” szöveg lép, nem vezethető át.]

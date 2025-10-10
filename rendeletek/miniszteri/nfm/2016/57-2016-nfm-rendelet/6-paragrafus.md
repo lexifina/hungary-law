@@ -1,6 +1,6 @@
 ## 4. Légiforgalmi szolgálatok szükségességének meghatározása
 
-6. §[^64] (1) Budapest FIR-ben repülőtéri repüléstájékoztató szolgálatot kell biztosítani a repülőtér üzemideje alatt a repülőtéren, ha
+6. §[^65] (1) Budapest FIR-ben repülőtéri repüléstájékoztató szolgálatot kell biztosítani a repülőtér üzemideje alatt a repülőtéren, ha
 
 a) az aktuális naptári évet megelőző naptári évben a VFR szerint működő induló vagy érkező légijárművek éves műveletszáma meghaladja a 40 000-et,
 
@@ -30,10 +30,11 @@ alapján a repülőtér üzembentartója indokoltnak tartja, úgy a repülőtér
 
 a) annak tényét a légiközlekedési hatóságnak, annak tudomására jutásától számított nyolc napon belül bejelenteni;
 
-b) a légiközlekedési hatóságnak ütemtervet benyújtani arra vonatkozóan, hogy az 550/2004/EK európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésével összhangban milyen módon kívánja biztosítani a légiforgalmi szolgálatok ellátását.
+b)[^66] a légiközlekedési hatóságnak ütemtervet benyújtani arra vonatkozóan, hogy az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésével összhangban milyen módon kívánja biztosítani a légiforgalmi szolgálatok ellátását.
 
 (5) A (4) bekezdés b) pontjában meghatározott ütemtervben a repülőtér üzemben tartója megjelöli a (4) bekezdés a) pontjában meghatározott tudomásra jutástól számított 6–18 hónap közötti időpontot, amelyen belül teljesíti a légiforgalmi szolgálat ellátásához szükséges feltételek összességét, valamint amennyiben szükséges, intézkedik a légtér kijelölése iránt.
 
 (6) Az (5) bekezdésben meghatározott ütemtervben foglaltak végrehajtásáig a repülőtér üzembentartója a repülőtér forgalmát úgy szervezi meg, hogy a repülőtér forgalma a légiforgalmi szolgálat felállításához meghatározott küszöbértéket ne lépje át.
 
-[^64]: A 6. § a 16/2024. (VII. 2.) ÉKM rendelet 23. §-ával megállapított szöveg.
+[^65]: A 6. § a 16/2024. (VII. 2.) ÉKM rendelet 23. §-ával megállapított szöveg.
+[^66]: A 6. § (4) bekezdés b) pontja a 32/2025. (X. 9.) ÉKM rendelet 9. § a) pontja szerint módosított szöveg.

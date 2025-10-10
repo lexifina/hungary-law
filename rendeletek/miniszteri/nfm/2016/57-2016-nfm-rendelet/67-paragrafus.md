@@ -10,6 +10,6 @@
 
 67. § (1) A Magyarország légterében és repülőterein – az állami repülések céljára szolgáló repülőterek kivételével – nyújtott légiforgalmi szolgálatoknak, az összeköttetéseknek, a navigációs infrastruktúrának és a légtérellenőrzésnek, valamint az alkalmazott légiforgalmi eljárásoknak biztosítaniuk kell a légiforgalmi szolgáltatásokra előírt elfogadható repülésbiztonsági szint fenntartását.
 
-(2)[^164]
+(2)[^166]
 
-[^164]: A 67. § (2) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § c) pontja hatályon kívül helyezte.
+[^166]: A 67. § (2) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § c) pontja hatályon kívül helyezte.

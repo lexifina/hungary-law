@@ -1,8 +1,8 @@
 ## 26. Az irányítás felelősségének átadása
 
-38. § (1)[^106]
+38. § (1)[^108]
 
-(2)[^107] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész 2. Szakasz ATS.TR.230 pont a) alpont (1) és (2) bekezdésében meghatározottakon kívül, az átadás egyéb körülményeit is együttműködési megállapodásban, illetve munkahelyi előírásban kell meghatározni.
+(2)[^109] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész 2. Szakasz ATS.TR.230 pont a) alpont (1) és (2) bekezdésében meghatározottakon kívül, az átadás egyéb körülményeit is együttműködési megállapodásban, illetve munkahelyi előírásban kell meghatározni.
 
-[^106]: A 38. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés l) pontja hatályon kívül helyezte.
-[^107]: A 38. § (2) bekezdése a 7/2022. (VII. 27.) TIM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^108]: A 38. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés l) pontja hatályon kívül helyezte.
+[^109]: A 38. § (2) bekezdése a 7/2022. (VII. 27.) TIM rendelet 13. § (1) bekezdésével megállapított szöveg.

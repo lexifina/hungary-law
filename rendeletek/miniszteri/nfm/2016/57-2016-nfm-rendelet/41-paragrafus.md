@@ -1,17 +1,17 @@
 ## 27. Személyek és járművek mozgásának ellenőrzése a repülőtereken
 
-41. § (1)[^116]
+41. § (1)[^118]
 
-(2)[^117]
+(2)[^119]
 
-(3)[^118] Azokat az időjárási jellemzőket, amelyekre – az ICAO Európai Útmutató a Korlátozott Látási Körülmények Közötti Repülőtéri Műveletekhez (ICAO European Guidance Material on Aerodrome Operations Under Limited Visibility Conditions, a továbbiakban: ICAO EUR Doc 013) valamint az ICAO Fejlett, Földi Mozgást Támogató És Irányító Rendszer (A-SMGCS) Kézikönyv (ICAO Advanced Surface Movement Guidance and Control System (A-SMGCS) Manual, ICAO Doc 9830) alapján – a rossz látási körülményekre kidolgozott eljárásokat kell alkalmazni, munkahelyi előírásban kell meghatározni és az AIP-ben kell közzétenni.
+(3)[^120] Azokat az időjárási jellemzőket, amelyekre – az ICAO Európai Útmutató a Korlátozott Látási Körülmények Közötti Repülőtéri Műveletekhez (ICAO European Guidance Material on Aerodrome Operations Under Limited Visibility Conditions, a továbbiakban: ICAO EUR Doc 013) valamint az ICAO Fejlett, Földi Mozgást Támogató És Irányító Rendszer (A-SMGCS) Kézikönyv (ICAO Advanced Surface Movement Guidance and Control System (A-SMGCS) Manual, ICAO Doc 9830) alapján – a rossz látási körülményekre kidolgozott eljárásokat kell alkalmazni, munkahelyi előírásban kell meghatározni és az AIP-ben kell közzétenni.
 
-(4)[^119]
+(4)[^121]
 
-(5)[^120]
+(5)[^122]
 
-[^116]: A 41. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
-[^117]: A 41. § (2) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
-[^118]: A 41. § (3) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 7. pontja szerint módosított szöveg.
-[^119]: A 41. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
-[^120]: A 41. § (5) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
+[^118]: A 41. § (1) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
+[^119]: A 41. § (2) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
+[^120]: A 41. § (3) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 7. pontja szerint módosított szöveg.
+[^121]: A 41. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.
+[^122]: A 41. § (5) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés n) pontja hatályon kívül helyezte.

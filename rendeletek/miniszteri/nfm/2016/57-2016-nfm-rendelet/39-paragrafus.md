@@ -1,21 +1,21 @@
-39. § (1)[^108] Ha több légiforgalmi irányító szolgálat feladatát egy légiforgalmi irányító egység látja el, az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 1. Szakasz ATS.OR.150 pontjában, a B. Alrész 2. Szakasz ATS.TR.230 pont a) alpont (1) és (2) bekezdésében, valamint a 38. § (2) bekezdésében meghatározottakat nem kell alkalmazni.
+39. § (1)[^110] Ha több légiforgalmi irányító szolgálat feladatát egy légiforgalmi irányító egység látja el, az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet A. Alrész 1. Szakasz ATS.OR.150 pontjában, a B. Alrész 2. Szakasz ATS.TR.230 pont a) alpont (1) és (2) bekezdésében, valamint a 38. § (2) bekezdésében meghatározottakat nem kell alkalmazni.
 
-(2)[^109]
+(2)[^111]
 
-(3)[^110]
+(3)[^112]
 
-(4)[^111]
+(4)[^113]
 
-(5)[^112]
+(5)[^114]
 
-(6)[^113]
+(6)[^115]
 
-(7)[^114] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.230 pont b) alpontjában meghatározottak végrehajtásához alkalmazandó koordinálási eljárásokat, beleértve az irányítás átadásának pontjait is, együttműködési megállapodásokban vagy munkahelyi előírásokban kell szabályozni.
+(7)[^116] Az (EU) 2017/373 bizottsági végrehajtási rendelet IV. Melléklet B. Alrész ATS.TR.230 pont b) alpontjában meghatározottak végrehajtásához alkalmazandó koordinálási eljárásokat, beleértve az irányítás átadásának pontjait is, együttműködési megállapodásokban vagy munkahelyi előírásokban kell szabályozni.
 
-[^108]: A 39. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^109]: A 39. § (2) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
-[^110]: A 39. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
-[^111]: A 39. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
-[^112]: A 39. § (5) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
-[^113]: A 39. § (6) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
-[^114]: A 39. § (7) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 6. pontja szerint módosított szöveg.
+[^110]: A 39. § (1) bekezdése a 7/2022. (VII. 27.) TIM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^111]: A 39. § (2) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^112]: A 39. § (3) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^113]: A 39. § (4) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^114]: A 39. § (5) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^115]: A 39. § (6) bekezdését a 7/2022. (VII. 27.) TIM rendelet 22. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^116]: A 39. § (7) bekezdése a 7/2022. (VII. 27.) TIM rendelet 18. § 6. pontja szerint módosított szöveg.

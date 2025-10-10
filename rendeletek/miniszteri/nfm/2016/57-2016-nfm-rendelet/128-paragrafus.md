@@ -1,3 +1,3 @@
-128. §[^206]
+128. §[^208]
 
-[^206]: A 128. §-t a 33/2020. (X. 5.) ITM rendelet 62. § l) pontja hatályon kívül helyezte.
+[^208]: A 128. §-t a 33/2020. (X. 5.) ITM rendelet 62. § l) pontja hatályon kívül helyezte.

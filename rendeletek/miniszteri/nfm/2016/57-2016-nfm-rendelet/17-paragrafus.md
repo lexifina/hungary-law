@@ -6,7 +6,7 @@
 
 (3) A standard indulási, érkezési, megközelítési és várakozási eljárások létesítéséhez, illetve módosításához a légiközlekedési hatóság jóváhagyása szükséges. Az eljárások tervezésére ellenőrzött légtérben ANS szolgáltató jogosult. Az eljárások létesítésére és módosítására vonatkozó kérelmet ellenőrzött légtérben az illetékes ANS szolgáltató, nem ellenőrzött légtérben az illetékes ATS szolgálat vagy a repülőtér üzemben tartója nyújthat be a légiközlekedési hatósághoz.
 
-(4)[^69]
+(4)[^71]
 
 (5) ATS útvonal tervezését és annak ellenőrzését eljárástervező személy végezheti.
 
@@ -18,7 +18,7 @@ b) az a) pontban meghatározottakat követően eljárástervező felügyelete me
 
 c) legalább ötévente sikeresen elvégez egy ismeretfelújító tanfolyamot.
 
-(7)[^70] A standard indulási, érkezési, megközelítési és várakozási eljárások fenntartását és legalább 5 évenkénti felülvizsgálatát ellenőrzött légtérben az ANS szolgáltató, nem ellenőrzött légtérben az illetékes ATS szolgálat vagy a repülőtér üzembentartója által megbízott, az (5) bekezdésben meghatározott személy az (EU) 2017/373 bizottsági végrehajtási rendelet 6. cikk k) pontjában meghatározott követelmények betartásával végzi el.
+(7)[^72] A standard indulási, érkezési, megközelítési és várakozási eljárások fenntartását és legalább 5 évenkénti felülvizsgálatát ellenőrzött légtérben az ANS szolgáltató, nem ellenőrzött légtérben az illetékes ATS szolgálat vagy a repülőtér üzembentartója által megbízott, az (5) bekezdésben meghatározott személy az (EU) 2017/373 bizottsági végrehajtási rendelet 6. cikk k) pontjában meghatározott követelmények betartásával végzi el.
 
-[^69]: A 17. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § b) pontja hatályon kívül helyezte.
-[^70]: A 17. § (7) bekezdését a 7/2022. (VII. 27.) TIM rendelet 12. § (1) bekezdése iktatta be.
+[^71]: A 17. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § b) pontja hatályon kívül helyezte.
+[^72]: A 17. § (7) bekezdését a 7/2022. (VII. 27.) TIM rendelet 12. § (1) bekezdése iktatta be.
