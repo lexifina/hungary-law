@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-56-20-2
 | 2024-07-03 | 2016-56-20-2W.10 | 16/2024. (VII. 2.) ÉKM rendelet |
 | 2024-12-15 | 2016-56-20-2W.11 | 21/2024. (VII. 31.) ÉKM rendelet |
 | 2025-03-08 | 2016-56-20-2W.12 | 21/2024. (VII. 31.) ÉKM rendelet |
+| 2025-10-10 | 2016-56-20-2W.13 | 33/2020. (X. 5.) ITM rendelet |

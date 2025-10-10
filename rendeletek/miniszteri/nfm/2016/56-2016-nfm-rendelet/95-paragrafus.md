@@ -14,7 +14,7 @@ e)[^183] az egységes európai égbolton belüli beszédüzemű kommunikáció c
 
 f) az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 1079/2012/EU végrehajtási rendelet módosításáról szóló, 2013. július 10-i 657/2013/EU bizottsági végrehajtási rendelet;
 
-g)[^184] a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdése,
+g)[^184] az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdése;
 
 h)[^185] a 923/2012/EU végrehajtási rendeletnek a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések (SERA C. rész) aktualizálása és kiegészítése tekintetében történő módosításáról, valamint a 730/2006/EK rendelet hatályon kívül helyezéséről szóló, 2016. július 20-i (EU) 2016/1185 EU bizottsági végrehajtási rendelet
 
@@ -27,7 +27,7 @@ k)[^188] a 923/2012/EU rendeletnek, a 139/2014/EU rendeletnek és az (EU) 2017/3
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^183]: A 95. § e) pontja a 7/2021. (II. 5.) ITM rendelet 7. § b) pontja szerint módosított szöveg.
-[^184]: A 95. § g) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be.
+[^184]: A 95. § g) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be, szövege a 32/2025. (X. 9.) ÉKM rendelet 6. §-ával megállapított szöveg.
 [^185]: A 95. § h) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be.
 [^186]: A 95. § i) pontját a 7/2021. (II. 5.) ITM rendelet 6. §-a iktatta be.
 [^187]: A 95. § j) pontját a 7/2022. (VII. 27.) TIM rendelet 9. §-a iktatta be.
