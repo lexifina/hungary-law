@@ -1,6 +1,6 @@
-## 8/B. §[^39] A légiközlekedési hatóság a repülőtér környezetében létesítendő zajgátló védőövezet kijelöléséről szóló határozatot hirdetmény útján közli.
+## 8/B. §[^40] A légiközlekedési hatóság a repülőtér környezetében létesítendő zajgátló védőövezet kijelöléséről szóló határozatot hirdetmény útján közli.
 
-8/C. §[^40] (1) A légiközlekedési hatóság a repülőtér üzembentartóját a tevékenység végzésétől eltiltja, amennyiben a repülőtér üzembentartója
+8/C. §[^41] (1) A légiközlekedési hatóság a repülőtér üzembentartóját a tevékenység végzésétől eltiltja, amennyiben a repülőtér üzembentartója
 
 a) a jóváhagyott üzemben tartási engedélyben foglaltakat megszegi,
 
@@ -26,5 +26,5 @@ c) az üzembentartó a (2) bekezdés szerinti felfüggesztés időtartama alatt 
 
 (5) A repülőtér üzembentartója a repülőtér üzemben tartásának befejezése esetén a repülőtér üzemben tartását a légiközlekedési hatóság erre vonatkozó határozatának véglegessé válását követően fejezi be, és az üzemben tartási engedélyt 8 napon belül visszaszolgáltatja a légiközlekedési hatóság számára.
 
-[^39]: A 8/B. §-t a 348/2019. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
-[^40]: A 8/C. §-t a 84/2024. (IV. 17.) Korm. rendelet 18. §-a iktatta be.
+[^40]: A 8/B. §-t a 348/2019. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
+[^41]: A 8/C. §-t a 84/2024. (IV. 17.) Korm. rendelet 18. §-a iktatta be.

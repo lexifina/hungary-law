@@ -1,6 +1,6 @@
-## 4/A. [^11] A repülőtéri repüléstájékoztató szolgálat működésével kapcsolatos kiegészítő eljárási szabályok
+## 4/A. [^12] A repülőtéri repüléstájékoztató szolgálat működésével kapcsolatos kiegészítő eljárási szabályok
 
-5/A. §[^12] Ha a légiközlekedési hatóság a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet [a továbbiakban: 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet] 3/A. § (2) és (3) bekezdésében meghatározottak szerint megállapítja, hogy a forgalmi tájékoztató körzetben (a továbbiakban: TIZ légtér) a repülőtéri repüléstájékoztató szolgálat nyújtására kijelölt szervezet folyamatosan
+5/A. §[^13] Ha a légiközlekedési hatóság a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet [a továbbiakban: 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet] 3/A. § (2) és (3) bekezdésében meghatározottak szerint megállapítja, hogy a forgalmi tájékoztató körzetben (a továbbiakban: TIZ légtér) a repülőtéri repüléstájékoztató szolgálat nyújtására kijelölt szervezet folyamatosan
 
 a) 1 hónapig nem nyújt szolgáltatást, és a TIZ légtér nem üzemel, a szervezet tanúsítványát felfüggeszti,
 
@@ -8,5 +8,5 @@ b) 12 hónapig nem nyújt szolgáltatást, és a TIZ légtér nem üzemel, a sze
 
 kivéve, ha ez a szervezet önhibáján kívül történik.
 
-[^11]: A 4/A. alcímet (5/A. §) a 402/2020. (VIII. 17.) Korm. rendelet 8. §-a iktatta be.
-[^12]: Az 5/A. § nyitó szövegrésze a 251/2024. (VIII. 22.) Korm. rendelet 76. § a) pontja szerint módosított szöveg.
+[^12]: A 4/A. alcímet (5/A. §) a 402/2020. (VIII. 17.) Korm. rendelet 8. §-a iktatta be.
+[^13]: Az 5/A. § nyitó szövegrésze a 251/2024. (VIII. 22.) Korm. rendelet 76. § a) pontja szerint módosított szöveg.

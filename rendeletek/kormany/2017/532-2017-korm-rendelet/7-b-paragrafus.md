@@ -1,4 +1,4 @@
-7/B. §[^30] (1) Az üzemben tartási engedély iránti kérelem elbírálása során a légiközlekedési hatóság meggyőződik arról, hogy
+7/B. §[^31] (1) Az üzemben tartási engedély iránti kérelem elbírálása során a légiközlekedési hatóság meggyőződik arról, hogy
 
 a) a repülőtér megfelel-e a légiközlekedési hatóság által kiadott létesítési engedélyben foglaltaknak,
 
@@ -20,4 +20,4 @@ a) a kérelem az (1) bekezdésben foglaltaknak nem felel meg, vagy
 
 b) az üzemben tartási kérelem elbírálásáig a kérelmező jóváhagyásra nem nyújtja be a légiközlekedési hatósághoz a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló 169/2010. (V. 11.) Korm. rendeletben meghatározott védelmi tervet.
 
-[^30]: A 7/B. §-t a 84/2024. (IV. 17.) Korm. rendelet 17. §-a iktatta be.
+[^31]: A 7/B. §-t a 84/2024. (IV. 17.) Korm. rendelet 17. §-a iktatta be.

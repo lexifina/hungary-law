@@ -4,7 +4,7 @@
 
 ## 5. Általános rendelkezés
 
-6. §[^20] A légiközlekedési hatóság
+6. §[^21] A légiközlekedési hatóság
 
 a) kiadja a repülőterek üzemben tartási engedélyét,
 
@@ -22,4 +22,4 @@ g) kiadja a földi kiszolgálás végzéséhez szükséges hatósági engedélyt
 
 h) tanúsítja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá tartozó repülőteret.
 
-[^20]: A 6. § a 94/2024. (IV. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^21]: A 6. § a 94/2024. (IV. 25.) Korm. rendelet 5. §-ával megállapított szöveg.

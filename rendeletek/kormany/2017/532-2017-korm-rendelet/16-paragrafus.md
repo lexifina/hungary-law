@@ -1,4 +1,4 @@
-16. §[^49] (1) A légiforgalmi földi rádióberendezés üzemben tartójának üzemben tartási engedély iránti kérelmet kell benyújtania a légiközlekedési hatósághoz.
+16. §[^50] (1) A légiforgalmi földi rádióberendezés üzemben tartójának üzemben tartási engedély iránti kérelmet kell benyújtania a légiközlekedési hatósághoz.
 
 (2) Az üzemben tartási engedély iránti kérelemnek tartalmaznia kell
 
@@ -24,4 +24,4 @@ e) – ha szoftveresen történik a hangrögzítés – az alkalmazott szoftver 
 
 f) díjfizetési igazolást.
 
-[^49]: A 16. § a 94/2024. (IV. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^50]: A 16. § a 94/2024. (IV. 25.) Korm. rendelet 8. §-ával megállapított szöveg.

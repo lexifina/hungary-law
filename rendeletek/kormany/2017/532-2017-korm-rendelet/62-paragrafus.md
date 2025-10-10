@@ -4,11 +4,11 @@
 
 (3) A repüléstájékoztató szakszolgálati engedély nyelvi kiterjesztésének érvényességi ideje a légiforgalmi irányítói szakszolgálati engedélyekre és tanúsítványokra vonatkozó formai követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról, a 923/2012/EU bizottsági végrehajtási rendelet módosításáról és a 805/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló 2015. február 20-i 2015/340 bizottsági rendelet (a továbbiakban: 2015/340. bizottsági rendelet) I. Melléklet 1. függeléke szerinti
 
-a)[^79] 4-es szinten teljesített nyelvismereti vizsga esetében 3 év,
+a)[^80] 4-es szinten teljesített nyelvismereti vizsga esetében 3 év,
 
-b)[^80] 5-ös szinten teljesített nyelvismereti vizsga esetében 6 év,
+b)[^81] 5-ös szinten teljesített nyelvismereti vizsga esetében 6 év,
 
-c)[^81] 6-os szinten teljesített nyelvismereti vizsga esetén 9 év.
+c)[^82] 6-os szinten teljesített nyelvismereti vizsga esetén 9 év.
 
 (4) A nyelvi kiterjesztést a (3) bekezdésben meghatározott időtartamra a légiközlekedési hatóság meghosszabbítja, ha az engedélyes angol nyelvből, illetve nem magyar anyanyelvű személy magyar nyelvből is nyelvismereti vizsgát tett a nyelvi kiterjesztés érvényességi idejének lejártát megelőző három hónapban.
 
@@ -20,6 +20,6 @@ a) a légijármű vezetésére vagy hajózó navigátori feladatok ellátására
 
 b) a légiforgalmi irányítókra kidolgozott ICAO nyelvi követelményeknek megfelelően legalább 4-es szinten teljesített nyelvismereti vizsgáról kiadott külön igazolást a légiközlekedési hatóság a nyelvi kiterjesztés alapjául elfogadja.
 
-[^79]: A 62. § (3) bekezdés a) pontja a 251/2024. (VIII. 22.) Korm. rendelet 76. § f) pontja szerint módosított szöveg.
-[^80]: A 62. § (3) bekezdés b) pontja a 251/2024. (VIII. 22.) Korm. rendelet 76. § g) pontja szerint módosított szöveg.
-[^81]: A 62. § (3) bekezdés c) pontja a 251/2024. (VIII. 22.) Korm. rendelet 76. § h) pontja szerint módosított szöveg.
+[^80]: A 62. § (3) bekezdés a) pontja a 251/2024. (VIII. 22.) Korm. rendelet 76. § f) pontja szerint módosított szöveg.
+[^81]: A 62. § (3) bekezdés b) pontja a 251/2024. (VIII. 22.) Korm. rendelet 76. § g) pontja szerint módosított szöveg.
+[^82]: A 62. § (3) bekezdés c) pontja a 251/2024. (VIII. 22.) Korm. rendelet 76. § h) pontja szerint módosított szöveg.

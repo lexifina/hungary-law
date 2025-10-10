@@ -1,4 +1,4 @@
-## 18. [^76] A szakszolgálati engedély felfüggesztése, visszavonása és korlátozása
+## 18. [^77] A szakszolgálati engedély felfüggesztése, visszavonása és korlátozása
 
 56. § (1) A légiközlekedési hatóság a szakszolgálati engedélyt, jogosítást, jogosítás-kiterjesztést, munkahelyi kiterjesztést vagy szakszolgálati kiterjesztést azonnali hatállyal felfüggesztheti, illetve a d) pontban foglalt feltétel esetén felfüggeszti, ha az engedélyes
 
@@ -16,4 +16,4 @@ d) a szaktudás értékelésen második alkalommal is nem megfelelt értékelés
 
 (4) A légiközlekedési hatóság a szakszolgálati engedélyt azonnali hatállyal visszavonja, ha az engedélyes a kérelemben valótlan adatokat jelölt meg.
 
-[^76]: A 18. alcím (56–56/B. §) a 713/2020. (XII. 30.) Korm. rendelet 58. § (4) bekezdésével megállapított szöveg.
+[^77]: A 18. alcím (56–56/B. §) a 713/2020. (XII. 30.) Korm. rendelet 58. § (4) bekezdésével megállapított szöveg.

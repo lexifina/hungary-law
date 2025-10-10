@@ -1,4 +1,4 @@
-23. § (1)[^61] Az engedélyt a légiközlekedési hatóság 5 évre adja ki. Az engedély időbeli hatályát – a hatály lejárta előtt legfeljebb 90 nappal benyújtott kérelem alapján – a légiközlekedési hatóság további 5 évre meghosszabbítja, ha annak jogszabályi akadálya nincs, és az engedély megadásához az e rendeletben előírt feltételek továbbra is fennállnak.
+23. § (1)[^62] Az engedélyt a légiközlekedési hatóság 5 évre adja ki. Az engedély időbeli hatályát – a hatály lejárta előtt legfeljebb 90 nappal benyújtott kérelem alapján – a légiközlekedési hatóság további 5 évre meghosszabbítja, ha annak jogszabályi akadálya nincs, és az engedély megadásához az e rendeletben előírt feltételek továbbra is fennállnak.
 
 (2) Az engedélyt a légiközlekedési hatóság
 
@@ -10,4 +10,4 @@ c) meghatározott légijármű típusokra adja ki.
 
 (3) A földi kiszolgálási tevékenység folytatására jogosultnak az engedélyt a földi kiszolgálás végzésének helyén kell tartania.
 
-[^61]: A 23. § (1) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^62]: A 23. § (1) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 73. §-a szerint módosított szöveg.
