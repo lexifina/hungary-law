@@ -1,3 +1,3 @@
-142. §[^55]
+142. §[^75]
 
-[^55]: A 142. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 142. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

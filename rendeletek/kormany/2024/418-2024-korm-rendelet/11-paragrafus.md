@@ -6,7 +6,7 @@
 
 a) megelőzően meggyőződik a jogszabályi követelményeknek való megfelelőségéről,
 
-b) követően nyilvántartásba vétel érdekében bejelenti a nemzeti kiberbiztonsági hatóság részére, egyidejűleg megküldi a bejelentett adatokat igazoló dokumentumokat.
+b)[^7] követően nyilvántartásba vétel érdekében bejelenti a kiberbiztonsági hatóság részére, egyidejűleg megküldi a bejelentett adatokat igazoló dokumentumokat.
 
 (3) Az elektronikus információs rendszer biztonságáért felelős személyre vonatkozó bejelentés magában foglalja a vonatkozó munka-, megbízási szerződés vagy más megállapodás másolatának hatóság számára történő megküldését olyan módon, hogy abból csak a hatóság számára releváns, a feladat- és hatásköre ellátáshoz szükséges információ legyen megismerhető. A megállapodáshoz csatolni kell az adott személy végzettségét, képzettségét igazoló okirat, vagy a szakterületi gyakorlatot igazoló okirat, vagy nyilatkozat másolatát.
 
@@ -20,6 +20,9 @@ c) a megbízás tárgyát,
 
 d) a felek jogait és kötelezettségeit a hatályos jogszabályokban foglaltaknak megfelelően.
 
-(5) Az elektronikus információs rendszer biztonságáért felelős személy büntetlen előéletét a szervezet vezetője – a nemzeti kiberbiztonsági hatóság, honvédelmi célú elektronikus információs rendszer vonatkozásában a honvédelmi kiberbiztonsági hatóság által meghatározott módon – igazolja.
+(5)[^8] Az elektronikus információs rendszer biztonságáért felelős személy büntetlen előéletét a szervezet vezetője – a kiberbiztonsági hatóság, honvédelmi célú elektronikus információs rendszer vonatkozásában a honvédelmi kiberbiztonsági hatóság által meghatározott módon – igazolja.
 
 (6) A szervezet vezetője az elektronikus információs rendszer biztonságáért felelős személyt kötelezheti, hogy a szervezettel fennálló jogviszonya alatt a büntetlen előélet követelményének való megfelelést igazolja.
+
+[^7]: A 11. § (2) bekezdés b) pontja a 308/2025. (X. 9.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
+[^8]: A 11. § (5) bekezdése a 308/2025. (X. 9.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.

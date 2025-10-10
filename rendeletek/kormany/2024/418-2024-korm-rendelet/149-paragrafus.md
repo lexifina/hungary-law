@@ -1,3 +1,3 @@
-149. §[^62]
+149. §[^82]
 
-[^62]: A 149. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 149. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

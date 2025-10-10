@@ -28,10 +28,12 @@ l) az alkalmazni tervezett jogkövetkezmény hatékonyságát, arányosságát �
 
 a) az ismételt jogsértések;
 
-b) a jelentős események bejelentésének vagy orvoslásának elmaradása;
+b)[^28] a jelentős kiberbiztonsági incidensek bejelentésének vagy orvoslásának elmaradása;
 
 c) a hiányosságok orvoslásának elmaradása az illetékes hatóságok kötelező erejű utasításait követően;
 
 d) a jogsértés megállapítását követően az illetékes hatóság által elrendelt ellenőrzések vagy ellenőrzési tevékenységek akadályozása;
 
 e) a hamis vagy súlyosan pontatlan információk közlése.
+
+[^28]: A 38. § (2) bekezdés b) pontja a 308/2025. (X. 9.) Korm. rendelet 5. § 6. pontja szerint módosított szöveg.

@@ -26,7 +26,7 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 3. Az adatok sértetlenség és rendelkezésre állás szerinti értékelése
 
-3.1.[^67] SR1: az adatok SÉRTETLENSÉGE ÉS RENDELKEZÉSRE ÁLLÁSA NEM KRITIKUS
+3.1.[^87] SR1: az adatok SÉRTETLENSÉGE ÉS RENDELKEZÉSRE ÁLLÁSA NEM KRITIKUS
 
 ## Az elektronikus információs rendszeren tárolt és kezelt adatok sértetlenségének és rendelkezésre állásának sérülése vagy elvesztése a szervezetnek vagy más személynek nem, vagy nem jelentős mértékben okozhat anyagi vagy reputációs veszteséget.
 
@@ -34,7 +34,7 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 ## Az elektronikus információs rendszeren tárolt és kezelt adatok sértetlenségének vagy rendelkezésre állásának sérülése vagy elvesztése a szervezetnek vagy más személynek jelentős, vagy kritikus mértékű anyagi vagy reputációs veszteséget okozhat.
 
-4.[^68] Az adatosztályozás eredménye
+4.[^88] Az adatosztályozás eredménye
 
 4.1. Titkosítás
 
@@ -114,5 +114,5 @@ Az adatosztályozás végrehajtásához irányadó szempontok
 
 | 5 | B4 | F4 | F4 |
 
-[^67]: Az 1. melléklet 3. pont 3.1. alpontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 16. és 17. pontja szerint módosított szöveg.
-[^68]: Az 1. melléklet 4. pontja a 189/2025. (VII. 3.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^87]: Az 1. melléklet 3. pont 3.1. alpontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 16. és 17. pontja szerint módosított szöveg.
+[^88]: Az 1. melléklet 4. pontja a 189/2025. (VII. 3.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

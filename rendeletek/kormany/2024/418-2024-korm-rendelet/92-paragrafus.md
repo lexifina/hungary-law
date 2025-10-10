@@ -22,8 +22,8 @@ f) a miniszterelnök nemzetbiztonsági főtanácsadója
 
 (4) A (2) bekezdésben meghatározottakon túl a Nemzeti Kiberbiztonsági Munkacsoport tagjai a kiberbiztonságért felelős biztos által felkért személyek.
 
-(5)[^20] A Nemzeti Kiberbiztonsági Munkacsoport tagjának visszahívásáról a tagot delegáló személy dönt saját kezdeményezés vagy a Nemzeti Kiberbiztonsági Munkacsoport elnökének javaslata alapján.
+(5)[^39] A Nemzeti Kiberbiztonsági Munkacsoport tagjának visszahívásáról a tagot delegáló személy dönt saját kezdeményezés vagy a Nemzeti Kiberbiztonsági Munkacsoport elnökének javaslata alapján.
 
 (6) A Nemzeti Kiberbiztonsági Munkacsoport elnöke a Nemzeti Kiberbiztonsági Munkacsoport munkájáról legalább félévente beszámol az informatikáért felelős miniszternek.
 
-[^20]: A 92. § (5) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^39]: A 92. § (5) bekezdése a 189/2025. (VII. 3.) Korm. rendelet 9. §-ával megállapított szöveg.

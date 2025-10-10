@@ -1,3 +1,3 @@
-124. §[^37]
+124. §[^57]
 
-[^37]: A 124. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 124. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

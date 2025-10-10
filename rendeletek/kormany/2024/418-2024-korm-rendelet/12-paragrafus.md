@@ -1,4 +1,4 @@
-12. § (1) Az elektronikus információs rendszer biztonságáért felelős személy az e feladatkörében a nemzeti kiberbiztonsági hatóság előtti eljárásra a nemzeti kiberbiztonsági hatóság általi nyilvántartásba vételét követően válik jogosulttá, és képviseleti joga megszűnésének bejelentéséig vagy a nemzeti kiberbiztonsági hatóság általi hivatalból való törléséig képviseletre jogosult személynek kell tekinteni.
+12. § (1)[^9] Az elektronikus információs rendszer biztonságáért felelős személy az e feladatkörében a kiberbiztonsági hatóság előtti eljárásra a kiberbiztonsági hatóság általi nyilvántartásba vételét követően válik jogosulttá, és képviseleti joga megszűnésének bejelentéséig vagy a kiberbiztonsági hatóság általi hivatalból való törléséig képviseletre jogosult személynek kell tekinteni.
 
 (2) Az elektronikus információs rendszer biztonságáért felelős személy
 
@@ -6,11 +6,11 @@ a) gondoskodik a szervezet elektronikus információs rendszereinek biztonságá
 
 b) gondoskodik a kockázatkezelési keretrendszer szerinti tevékenységek tervezéséről, szervezéséről, koordinálásáról, elvégzéséről és ellenőrzéséről,
 
-c) előkészíti és a szervezet vezetőjének jóváhagyását követően megküldi a nemzeti kiberbiztonsági hatóság részére a szervezet információbiztonsági szabályzatát,
+c)[^10] előkészíti és a szervezet vezetőjének jóváhagyását követően megküldi a kiberbiztonsági hatóság részére a szervezet információbiztonsági szabályzatát,
 
 d) előkészíti a szervezet elektronikus információs rendszereinek biztonsági osztályba sorolását,
 
-e) előkészíti és a szervezet vezetőjének egyetértésével kezdeményezi a nemzeti kiberbiztonsági hatóságnál a szervezet elektronikus információs rendszereivel kapcsolatos engedélyezési eljárásokat,
+e)[^11] előkészíti és a szervezet vezetőjének egyetértésével kezdeményezi a kiberbiztonsági hatóságnál a szervezet elektronikus információs rendszereivel kapcsolatos engedélyezési eljárásokat,
 
 f) megtartja vagy megszervezi a továbbképzésre kötelezett személyek részére jogszabályban előírt továbbképzéseket,
 
@@ -24,10 +24,15 @@ j) az ellenőrzések és az esetleges incidensek tapasztalatai felhasználásáv
 
 k) legalább évente megvizsgálja a 4. § (2) bekezdése szerinti intézkedési tervet és beszámolót készít a szervezet vezetője számára az előrehaladásról, amiben kiemeli az esetleges lemaradásokat és a rövid távon szükséges intézkedéseket,
 
-l) kapcsolatot tart a nemzeti kiberbiztonsági hatósággal és a kiberbiztonsági incidenskezelő központtal,
+l)[^12] kapcsolatot tart a kiberbiztonsági hatósággal és a kiberbiztonsági incidenskezelő központtal,
 
 m) a szervezet bármely elektronikus információs rendszerét érintő incidensről tájékoztatja e rendeletben meghatározott szervet,
 
 n) együttműködik a Kszetv. szerinti kritikus szervezet ellenálló képességéért felelős vezetővel, valamint a Vbö. szerinti ellenálló képességért felelős vezetővel.
 
 (3) Ha az elektronikus információs rendszer biztonságáért felelős személy feladatait a szervezeten kívüli személy végzi, feladatait alapvető szervezeteknél legalább kéthavonta egy napon, fontos szervezeteknél legalább háromhavonta egy napon – dokumentált módon – az érintett szervezetnél való fizikai jelenlét mellett köteles ellátni.
+
+[^9]: A 12. § (1) bekezdése a 308/2025. (X. 9.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
+[^10]: A 12. § (2) bekezdés c) pontja a 308/2025. (X. 9.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
+[^11]: A 12. § (2) bekezdés e) pontja a 308/2025. (X. 9.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
+[^12]: A 12. § (2) bekezdés l) pontja a 308/2025. (X. 9.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.

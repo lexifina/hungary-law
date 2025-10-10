@@ -1,3 +1,3 @@
-138. §[^51]
+138. §[^71]
 
-[^51]: A 138. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 138. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

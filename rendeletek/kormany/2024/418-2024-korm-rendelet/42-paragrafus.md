@@ -2,7 +2,7 @@
 
 42. § (1) A Kiberbiztonsági tv. 30. § (2) bekezdése alapján
 
-a)[^14] a nemzeti kiberbiztonsági hatóság a Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) és f) pontja, valamint 1. § (2a) bekezdése szerinti szervezettel szemben a 2. mellékletben,
+a)[^29] a nemzeti kiberbiztonsági hatóság a Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) és f) pontja, valamint 1. § (2a) bekezdése szerinti szervezettel szemben a 2. mellékletben,
 
 b) a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) a Kiberbiztonsági tv. 1. § (1) bekezdés d) és e) pontja szerinti szervezettel szemben a 3. mellékletben
 
@@ -18,4 +18,4 @@ b) ha a szervezet fontos szervezetnek minősül 7 millió eurónak megfelelő fo
 
 (4) Ha a szervezet vezetője a jogszabályban előírt kötelezettségének nem tesz eleget, a nemzeti kiberbiztonsági hatóság 15 millió forintig terjedő bírsággal sújthatja, illetve ismételt jogsértés esetén sújtja.
 
-[^14]: A 42. § (1) bekezdés a) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 9. pontja szerint módosított szöveg.
+[^29]: A 42. § (1) bekezdés a) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 9. pontja szerint módosított szöveg.

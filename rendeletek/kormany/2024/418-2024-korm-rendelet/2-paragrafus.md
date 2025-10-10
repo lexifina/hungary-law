@@ -8,7 +8,7 @@
 
 3. automatizált sérülékenységfelderítés és -elemzés: olyan sérülékenységvizsgálati módszer, amelynek a során a szervezet elektronikus információs rendszerének a sérülékenységei kizárólag célszoftverek segítségével kerülnek feltérképezésre és dokumentálásra;
 
-4. CSIRT: az (EU) 2022/2555 európai parlamenti és tanácsi irányelv szerinti számítógép-biztonsági eseményekre reagáló csoport;
+4.[^4] CSIRT: az (EU) 2022/2555 európai parlamenti és tanácsi irányelv szerinti számítógép-biztonsági incidensekre reagáló csoport;
 
 5. CSIRT-hálózat: az Európai Unió tagállamai által kijelölt CSIRT-eknek az (EU) 2022/2555 európai parlamenti és tanácsi irányelv szerint létrehozott hálózata;
 
@@ -57,3 +57,5 @@ c) a kapcsolódó javítások elérhetőségét, valamint elérhető javítás h
 24. szolgáltatói nyilvántartás: az ENISA által az (EU) 2022/2555 európai parlamenti és tanácsi irányelv alapján vezetett, a DNS-szolgáltatók, a legfelső szintű doménnév-nyilvántartók, a doménnév-nyilvántartási szolgáltatásokat nyújtó szervezetek, a felhőszolgáltatók, az adatközpont-szolgáltatók, a tartalomszolgáltató hálózati szolgáltatók, az irányított szolgáltatók és az irányított biztonsági szolgáltatók, valamint az online piacterek, az online keresőprogramok és a közösségimédia-szolgáltatási platformok nyilvántartása;
 
 25. vezeték nélküli hálózat informatikai biztonsági vizsgálat: olyan sérülékenységvizsgálati módszer, amelynek során a vezeték nélküli hozzáférési és kapcsolódási pontok keresése, feltérképezése, titkosítási eljárások elemzése, titkosítási kulcsok visszafejthetőségének ellenőrzése célszoftverek és kézi vizsgálat útján történik.
+
+[^4]: A 2. § 4. pontja a 308/2025. (X. 9.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.

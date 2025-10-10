@@ -10,7 +10,7 @@
 
 a) a Kiberbiztonsági tv. 1. § (1) bekezdés a) pontja szerinti szervezet költség-haszon elemzést és kilépési tervet,
 
-b)[^4] a Kiberbiztonsági tv. 1. § (1) bekezdés b) és c) pontja, valamint a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti szervezet legalább kilépési tervet
+b)[^5] a Kiberbiztonsági tv. 1. § (1) bekezdés b) és c) pontja, valamint a honvédelmi célú elektronikus információs rendszerei vonatkozásában az f) pontja szerinti szervezet legalább kilépési tervet
 
 készít.
 
@@ -20,4 +20,4 @@ készít.
 
 (5) A szervezet az adatosztályozás eredményét a biztonsági osztályba sorolás eredményének bejelentése keretében jelenti be a 16. § (1) bekezdése szerinti nemzeti kiberbiztonsági hatóság (a továbbiakban: nemzeti kiberbiztonsági hatóság) részére.
 
-[^4]: A 3. § (2) bekezdés b) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés b) pontja a 189/2025. (VII. 3.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.

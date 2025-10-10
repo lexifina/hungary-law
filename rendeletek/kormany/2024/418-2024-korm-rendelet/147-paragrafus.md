@@ -1,3 +1,3 @@
-147. §[^60]
+147. §[^80]
 
-[^60]: A 147. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 147. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
