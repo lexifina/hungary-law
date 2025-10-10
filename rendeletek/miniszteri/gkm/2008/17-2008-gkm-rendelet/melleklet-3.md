@@ -114,9 +114,9 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^133]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^141]
 
-## A REPÜLÉSTÁJÉKOZTATÓ TISZT ÉS LÉGIFORGALMI TISZT SZAKSZOLGÁLATI ENGEDÉLY KÉRELEM KÖTELEZŐ TARTALMI ELEMEI
+A REPÜLÉSTÁJÉKOZTATÓ TISZT ÉS LÉGIFORGALMI TISZT SZAKSZOLGÁLATI ENGEDÉLY KÉRELEM KÖTELEZŐ TARTALMI ELEMEI
 
 1. A szakszolgálati engedély száma (amennyiben rendelkezésre áll)
 
@@ -148,4 +148,4 @@
 
 7.4. Munkahelyi vizsga jegyzőkönyv másolata
 
-[^133]: A 3. melléklet a 9/2022. (VIII. 1.) TIM rendelet 56. §-ával megállapított szöveg.
+[^141]: A 3. melléklet a 9/2022. (VIII. 1.) TIM rendelet 56. §-ával megállapított szöveg.

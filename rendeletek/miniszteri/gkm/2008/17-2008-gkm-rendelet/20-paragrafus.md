@@ -1,5 +1,3 @@
-## 5–19. §
-
 ## 2. CÍM
 
 ## A REPÜLÉSTÁJÉKOZTATÓ SZAKSZOLGÁLATI ENGEDÉLY

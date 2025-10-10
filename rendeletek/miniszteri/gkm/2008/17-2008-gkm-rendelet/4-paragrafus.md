@@ -4,6 +4,6 @@
 
 ## VONATKOZÓ RENDELKEZÉSEK
 
-## 1. CÍM[^16]
+## 1. CÍM[^19]
 
-[^16]: Az 1. Címet (4–19. §) a 43/2016. (XI. 2.) NFM rendelet 14. § 8. pontja hatályon kívül helyezte.
+[^19]: Az 1. Címet (4–19. §) a 43/2016. (XI. 2.) NFM rendelet 14. § 8. pontja hatályon kívül helyezte.

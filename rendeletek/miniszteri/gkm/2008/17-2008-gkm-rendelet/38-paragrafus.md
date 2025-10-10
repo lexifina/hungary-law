@@ -1,3 +1,3 @@
-## 37. §[^42]
+38. §[^46]
 
-[^42]: A 37. §-t a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^46]: A 38. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § d) pontja hatályon kívül helyezte.

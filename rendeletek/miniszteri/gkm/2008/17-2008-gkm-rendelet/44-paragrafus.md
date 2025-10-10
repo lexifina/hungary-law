@@ -1,12 +1,10 @@
-## 41–43. §[^46]
-
 ## IV. Fejezet
 
-## A SZAKSZEMÉLYZET KÉPZÉSE, VALAMINT A REPÜLÉSTÁJÉKOZTATÓK, A GYAKORNOK LÉGIFORGALMI IRÁNYÍTÓK ÉS A LÉGIFORGALMI IRÁNYÍTÓK NYELVISMERETI KÖVETELMÉNYEI[^47]
+## A SZAKSZEMÉLYZET KÉPZÉSE, VALAMINT A REPÜLÉSTÁJÉKOZTATÓK, A GYAKORNOK LÉGIFORGALMI IRÁNYÍTÓK ÉS A LÉGIFORGALMI IRÁNYÍTÓK NYELVISMERETI KÖVETELMÉNYEI[^52]
 
 ## A képzési engedély
 
-44. §[^48] (1) A szakszemélyzet képzése a légiközlekedési hatóság által kiadott képzési engedéllyel folytatható.
+44. §[^53] (1) A szakszemélyzet képzése a légiközlekedési hatóság által kiadott képzési engedéllyel folytatható.
 
 (2) Az (1) bekezdésben meghatározott képzési engedélyt – kérelemre – a légiközlekedési hatóság adja ki 5 éves időtartamra.
 
@@ -28,10 +26,11 @@ f) a képzésre és a képzési szervezetekre vonatkozó követelményeknek val�
 
 (5) Képzési engedélyt – a (6) bekezdésben foglalt eltéréssel – az a jogi személy kaphat, amely teljesíti a képzésre és a képzési szervezetekre vonatkozó feltételeket.
 
-(6) A szakszemélyzet munkahelyi képzésére és továbbképzésére vonatkozó engedélyt és tanúsítást az 549/2004/EK európai parlamenti és tanácsi rendelet 7. cikke alapján tanúsított szolgáltató, valamint a légiforgalmi szolgáltatás ellátására jogszabályban kijelölt szervezet kaphat.
+(6)[^54] A szakszemélyzet munkahelyi képzésére és továbbképzésére vonatkozó engedélyt és tanúsítást az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 7. cikke alapján tanúsított szolgáltató, valamint a légiforgalmi szolgáltatás ellátására jogszabályban kijelölt szervezet kaphat.
 
-(7) Szakszemélyzet munkahelyi képzésére és továbbképzésére vonatkozó engedélyt kaphat a (6) bekezdésben foglaltakon túl az a képző szervezet is, amely az 550/2004/EK európai parlamenti és tanácsi rendelet 7. cikke alapján tanúsítást kérelmezővel mint új szolgáltatóval, vagy a (6) bekezdésben foglalt szolgáltatóval munkahelyi képzésre vagy továbbképzésre vonatkozó szerződést köt, és teljesíti a képzésre és a képzési szervezetekre vonatkozó feltételeket.
+(7)[^55] Szakszemélyzet munkahelyi képzésére és továbbképzésére vonatkozó engedélyt kaphat a (6) bekezdésben foglaltakon túl az a képző szervezet is, amely az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 7. cikke alapján tanúsítást kérelmezővel mint új szolgáltatóval, vagy a (6) bekezdésben foglalt szolgáltatóval munkahelyi képzésre vagy továbbképzésre vonatkozó szerződést köt, és teljesíti a képzésre és a képzési szervezetekre vonatkozó feltételeket.
 
-[^46]: A 41–43. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § d) pontja hatályon kívül helyezte.
-[^47]: A IV. Fejezet címe a 43/2016. (XI. 2.) NFM rendelet 13. § 24. pontja szerint módosított szöveg.
-[^48]: A 44. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § d) pontja hatályon kívül helyezte, újonnan a 47/2019. (XII. 23.) ITM rendelet 3. §-a iktatta be.
+[^52]: A IV. Fejezet címe a 43/2016. (XI. 2.) NFM rendelet 13. § 24. pontja szerint módosított szöveg.
+[^53]: A 44. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § d) pontja hatályon kívül helyezte, újonnan a 47/2019. (XII. 23.) ITM rendelet 3. §-a iktatta be.
+[^54]: A 44. § (6) bekezdése a 32/2025. (X. 9.) ÉKM rendelet 3. § a) pontja szerint módosított szöveg.
+[^55]: A 44. § (7) bekezdése a 32/2025. (X. 9.) ÉKM rendelet 3. § b) pontja szerint módosított szöveg.

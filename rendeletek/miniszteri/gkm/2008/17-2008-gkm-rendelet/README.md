@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-17-20-0
 | 2021-04-14 | 2008-17-20-0L.14 | 62/2012. (XI. 26.) NFM rendelet |
 | 2021-11-10 | 2008-17-20-0L.15 | 55/2021. (XI. 5.) ITM rendelet |
 | 2022-08-06 | 2008-17-20-0L.16 | 9/2022. (VIII. 1.) TIM rendelet |
+| 2025-10-10 | 2008-17-20-0L.17 | 32/2025. (X. 9.) ÉKM rendelet |

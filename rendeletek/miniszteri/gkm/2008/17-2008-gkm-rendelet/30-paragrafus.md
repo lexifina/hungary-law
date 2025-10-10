@@ -1,5 +1,3 @@
-## 29. §[^30]
-
 ## 3. CÍM
 
 ## A LÉGIFORGALMI TISZT SZAKSZOLGÁLATI ENGEDÉLY
@@ -11,5 +9,3 @@
 30. § (1) A légiforgalmi tiszt szakszolgálati engedély az engedélyest feljogosítja, hogy a szakszolgálati engedélybe bejegyzett jogosításnak, és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztésnek megfelelő légiforgalmi tiszt szolgálati tevékenységet lásson el.
 
 (2) Az engedélyes olyan légiforgalmi tiszt szolgálati tevékenységet, amelyhez megfelelő jogosítással, jogosítás-kiterjesztéssel nem rendelkezik csak képzés keretében, legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel és a képzés típusának megfelelő jogosítással, – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéssel rendelkező engedélyes felügyelete mellett láthat el.
-
-[^30]: A 29. §-t az 55/2017. (XII. 27.) NFM rendelet 37. § b) pontja hatályon kívül helyezte.

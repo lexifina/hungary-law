@@ -1,5 +1,3 @@
-## 50–51. §
-
 ## VII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -10,6 +8,6 @@
 
 (2) E rendelet 46. § (2) bekezdése és a 28. § (3) bekezdés d) pontja 2009. január 1-jén lép hatályba.
 
-(3)[^57]
+(3)[^65]
 
-[^57]: Az 52. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^65]: Az 52. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
