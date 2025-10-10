@@ -8,9 +8,9 @@
 
 (5) A Módr.2. hatálybalépésekor[^560] villamosenergia-kereskedelemre vonatkozó hatályos engedéllyel rendelkező engedélyes a Módr.2.-vel beiktatott 15. számú melléklet 4. pontjában előírt dokumentumot 2026. január 1. napjáig nyújtja be a Hivatal részére.
 
-(7)[^561] E rendeletnek a Módr.2.-vel megállapított 14/B. § (1) bekezdés f) pontjában foglaltakat az elosztó új felhasználási hely csatlakozása esetén a 14/B. § (1) bekezdés a) és c) pontja szerinti esetben teljesíti.
+(7)[^561] E rendeletnek a Módr.2.-vel megállapított 14/B. § (1) bekezdés e) pontjában foglaltakat az elosztó új felhasználási hely csatlakozása esetén a 14/B. § (1) bekezdés a) és c) pontja szerinti esetben teljesíti.
 
 [^558]: A Vhr. 126/A. §-át újonnan a 280/2025. (VIII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^559]: A hatálybalépés időpontja 2025. augusztus 22.
 [^560]: A hatálybalépés időpontja 2025. augusztus 22.
-[^561]: A Vhr. 126/A. § (7) bekezdését a 280/2025. (VIII. 21.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^561]: A Vhr. 126/A. § (7) bekezdését a 280/2025. (VIII. 21.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 308/2025. (X. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
