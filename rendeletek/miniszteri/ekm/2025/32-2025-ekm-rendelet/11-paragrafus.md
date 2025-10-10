@@ -1,0 +1,1 @@
+11. § Ez a rendelet az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
