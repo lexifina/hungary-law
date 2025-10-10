@@ -1,3 +1,3 @@
-15. §[^77]
+15. §[^89]
 
-[^77]: A 15. §-t a 8/2024. (IV. 17.) KKM rendelet 23. § e) pontja hatályon kívül helyezte.
+[^89]: A 15. §-t a 8/2024. (IV. 17.) KKM rendelet 23. § e) pontja hatályon kívül helyezte.

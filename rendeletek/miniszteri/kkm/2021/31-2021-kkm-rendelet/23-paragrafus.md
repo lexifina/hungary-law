@@ -4,7 +4,7 @@
 
 ## 11. A támogatás igénylése és a támogatási döntés
 
-23. § (1)[^114] Támogatás – a 163/2018. (IX. 10.) Korm. rendelet 2. § (2) bekezdésében megjelölt külföldi országok gazdaságfejlesztési stratégiák által érintett területeit beruházási célterületként megjelölő projektek kivételével – a HEPA által biztosított felületen, cégszerűen aláírt beruházási koncepció benyújtásával (a továbbiakban: koncepció) igényelhető.
+23. § (1)[^131] Támogatás – a 163/2018. (IX. 10.) Korm. rendelet 2. § (2) bekezdésében megjelölt külföldi országok gazdaságfejlesztési stratégiák által érintett területeit beruházási célterületként megjelölő projektek kivételével – a HEPA által biztosított felületen, cégszerűen aláírt beruházási koncepció benyújtásával (a továbbiakban: koncepció) igényelhető.
 
 (2) A koncepció tartalmazza
 
@@ -18,11 +18,16 @@ d) a beruházó, illetve a konzorcium beruházási koncepcióban szereplő beruh
 
 e) a beruházás, illetve a kutatás-fejlesztési projekt megvalósításához igényelt támogatás indikatív mértékét,
 
-f) a támogatás célját és formáját és
+f)[^132] a támogatás célját és formáját,
 
-g) az elszámolható költségekre vonatkozó adatokat.
+g)[^133] az elszámolható költségekre vonatkozó adatokat és
 
-(3)[^115]
+h)[^134] a beruházó nyilatkozatát arról, hogy üzleti tevékenysége során milyen korrupció- és külföldivesztegetés-ellenes politikát folytat.
 
-[^114]: A 23. § (1) bekezdése a 47/2021. (XII. 22.) KKM rendelet 7. §-ával megállapított szöveg.
-[^115]: A 23. § (3) bekezdését a 47/2021. (XII. 22.) KKM rendelet 12. § d) pontja hatályon kívül helyezte.
+(3)[^135]
+
+[^131]: A 23. § (1) bekezdése a 47/2021. (XII. 22.) KKM rendelet 7. §-ával megállapított szöveg.
+[^132]: A 23. § (2) bekezdés f) pontja a 12/2025. (IX. 25.) KKM rendelet 13. § 12. pontja szerint módosított szöveg.
+[^133]: A 23. § (2) bekezdés g) pontja a 12/2025. (IX. 25.) KKM rendelet 13. § 13. pontja szerint módosított szöveg.
+[^134]: A 23. § (2) bekezdés h) pontját a 12/2025. (IX. 25.) KKM rendelet 9. §-a iktatta be.
+[^135]: A 23. § (3) bekezdését a 47/2021. (XII. 22.) KKM rendelet 12. § d) pontja hatályon kívül helyezte.
