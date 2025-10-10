@@ -72,7 +72,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 23. a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 300/2008/EK rendelet) 9. cikke szerinti felelős hatósági feladatok ellátása,
 
-24.[^126] az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, ellátja az (EU) 2019/317 bizottsági végrehajtási rendeletben a nemzeti felügyeleti hatóságra vonatkozóan megállapított feladatokat, továbbá az (EU) 2015/340 bizottsági rendelet 5. cikke szerinti illetékes hatóságként gondoskodik az (EU) 2015/340 bizottsági rendeletben meghatározott feladatok ellátásáról,
+24.[^126] az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, ellátja az (EU) 2019/317 bizottsági végrehajtási rendeletben a nemzeti felügyeleti hatóságra vonatkozóan megállapított feladatokat, továbbá az (EU) 2015/340 bizottsági rendelet 5. cikke szerinti illetékes hatóságként gondoskodik az (EU) 2015/340 bizottsági rendeletben meghatározott feladatok ellátásáról,
 
 25. a kormányzati frekvenciagazdálkodási hatósággal együttműködve nemzeti és nemzetközi frekvenciaegyeztetést végez a légiközlekedést szolgáló légiforgalmi célú földi rádióberendezések üzembe helyezési eljárásának keretében,
 
@@ -238,7 +238,7 @@ eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközle
 [^123]: A 9. § (4) bekezdés 8. pontja a 76/2023. (III. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^124]: A 9. § (4) bekezdés 10. pontját a 789/2021. (XII. 27.) Korm. rendelet 59. §-a hatályon kívül helyezte.
 [^125]: A 9. § (4) bekezdés 17. pontja a 94/2024. (IV. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^126]: A 9. § (4) bekezdés 24. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^126]: A 9. § (4) bekezdés 24. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 310/2025. (X. 9.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^127]: A 9. § (4) bekezdés 26. pontja a 116/2023. (IV. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^128]: A 9. § (4) bekezdés 28. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^129]: A 9. § (4) bekezdés 35. pontja a 94/2024. (IV. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
