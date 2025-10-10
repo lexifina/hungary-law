@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-68-20-2
 | 2024-01-03 | 2011-68-20-2W.8 | 40/2023. (XII. 29.) ÉKM rendelet |
 | 2024-05-03 | 2011-68-20-2W.9 | 9/2024. (IV. 25.) ÉKM rendelet |
 | 2024-07-03 | 2011-68-20-2W.10 | 16/2024. (VII. 2.) ÉKM rendelet |
+| 2025-10-10 | 2011-68-20-2W.11 | 32/2025. (X. 9.) ÉKM rendelet |
