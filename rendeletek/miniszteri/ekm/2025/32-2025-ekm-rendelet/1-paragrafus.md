@@ -10,16 +10,6 @@
 
 ## 1. A léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet módosítása
 
-1. § A léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet [a továbbiakban: 17/2008. (IV. 30.) GKM rendelet] 1. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1. § E rendelet hatálya kiterjed
-
-a) a léginavigációs szolgáltatóra és a légiforgalmi szolgáltatást ellátó szervezetre (a továbbiakban együtt: szolgáltató),
-
-b) a gyakornok légiforgalmi irányítóra és a légiforgalmi irányítóra,
-
-c) a repüléstájékoztató és légiforgalmi tiszt szakszemélyzetre (a továbbiakban együtt: szakszemélyzet),
-
-d) a szakszemélyzet képzését végző szervezetre (a továbbiakban: képzési szervezet), valamint
-
-e) a légiközlekedési hatóságra.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
