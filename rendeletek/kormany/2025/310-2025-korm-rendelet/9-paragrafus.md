@@ -1,5 +1,3 @@
-## „c) ANS szolgáltató: az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 2. cikk 4. pontjában meghatározott léginavigációs szolgáltató (Air Navigation Service Provider);”
+9. §[^10]
 
-9. § Az 532/2017. (XII. 29.) Korm. rendelet 172. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Ez a rendelet)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

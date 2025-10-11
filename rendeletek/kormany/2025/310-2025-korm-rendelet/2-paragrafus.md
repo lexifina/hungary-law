@@ -1,1 +1,3 @@
-2. § A 4/1998. (I. 16.) Korm. rendelet 10/A. § (1) bekezdésében az „Az 549/2004/EK, az 550/2004/EK, az 551/2004/EK és az 552/2004/EK rendeletnek az európai légiközlekedési rendszer teljesítményének és fenntarthatóságának javítását célzó módosításáról szóló, 2009. október 21-i 1070/2009/EK európai parlamenti és tanácsi rendelettel módosított, az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: az 1070/2009/EK rendelettel módosított 549/2004/EK európai parlamenti és tanácsi rendelet) 10. cikk” szövegrész helyébe az „Az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 49. cikk” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

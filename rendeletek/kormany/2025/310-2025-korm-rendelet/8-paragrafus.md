@@ -1,5 +1,5 @@
 ## 3. A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet módosítása
 
-8. § A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet [a továbbiakban: 532/2017. (XII. 29.) Korm. rendelet] 1. § c) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(E rendelet alkalmazásában:)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § A 4/1998. (I. 16.) Korm. rendelet 12. § b) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(E rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A 4/1998. (I. 16.) Korm. rendelet a 11. §-át megelőzően a következő alcím címmel egészül ki:
+3. §[^4]
 
-„Hatálybalépés”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
