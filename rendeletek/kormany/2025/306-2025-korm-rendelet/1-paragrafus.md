@@ -8,4 +8,6 @@
 
 ## [5] A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az egyes koncesszióköteles tevékenységek tekintetében az illetékes ágazati miniszteri feladatok ellátásáról szóló 495/2020. (XI. 11.) Korm. rendelet 1. melléklete a következő 6. ponttal egészül ki:
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
