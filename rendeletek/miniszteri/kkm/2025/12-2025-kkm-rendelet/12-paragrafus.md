@@ -1,3 +1,3 @@
-12. § A Rendelet 32. § d) pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(E rendelet)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

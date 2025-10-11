@@ -1,5 +1,3 @@
-## „h) a beruházó nyilatkozatát arról, hogy üzleti tevékenysége során milyen korrupció- és külföldivesztegetés-ellenes politikát folytat.”
+10. §[^11]
 
-10. § A Rendelet 25. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A fenntartási időszakban – az Ávr. 85. § (1) bekezdés b) pontjával összhangban – a biztosíték mértéke a támogatás összegének 50%-áig csökkenthető.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

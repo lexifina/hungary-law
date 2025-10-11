@@ -2,6 +2,6 @@
 
 ## [2] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 18. alpontjában és a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 1. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben a következőket rendelem el:
 
-1. § A Külpiaci Növekedési Támogatási Program szerinti támogatások szabályairól szóló 31/2021. (VIII. 31.) KKM rendelet (a továbbiakban: Rendelet) a következő 1/A. §-sal egészül ki:
+1. §[^2]
 
-„1/A. § E rendelet nem alkalmazható a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról szóló 163/2018. (IX. 10.) Korm. rendelet [a továbbiakban: 163/2018. (IX. 10.) Korm. rendelet] 2. § (2) bekezdésében megjelölt célországok gazdaságfejlesztési stratégiák célterületeihez tartozó területén megvalósuló beruházásokat magában foglaló projektek megvalósítása érdekében nyújtott támogatásokra.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

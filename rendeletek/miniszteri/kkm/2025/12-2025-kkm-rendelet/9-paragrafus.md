@@ -1,5 +1,3 @@
-## „20. adók – beleértve az általános forgalmi adót (a továbbiakban: ÁFA) –, illetékek,”
+9. §[^10]
 
-9. § A Rendelet 23. § (2) bekezdése a következő h) ponttal egészül ki:
-
-(A koncepció tartalmazza)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

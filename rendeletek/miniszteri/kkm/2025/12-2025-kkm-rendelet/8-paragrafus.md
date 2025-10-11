@@ -1,3 +1,3 @@
-8. § A Rendelet 20. § (2) bekezdés 20. pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Nem elszámolhatóak a következő költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók-e a bekerülési értékbe:)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
