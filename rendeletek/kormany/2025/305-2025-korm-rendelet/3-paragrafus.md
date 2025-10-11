@@ -1,1 +1,3 @@
-3. § A Korm. rendelet 1. § (2) bekezdés b) pontjában a „nemzetközi sportszövetség, mellyel a miniszter a 2. § (1) bekezdése szerinti megállapodást köt (a továbbiakban: nemzetközi sportszövetség),” szövegrész helyébe a „nemzetközi sportszövetség vagy nemzeti olimpiai bizottságok tagságával rendelkező nemzetközi szervezetként működő regionális sportszövetség (a továbbiakban együtt: nemzetközi sportszövetség), mellyel a miniszter a 2. § (1) bekezdése szerinti megállapodást köt,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
