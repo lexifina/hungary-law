@@ -1,5 +1,5 @@
-## 4.[^6]
+## 4. Az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésére, kiegészítésére és törlésére, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokról, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályairól szóló 189/2020. (V. 7.) Korm. rendelet módosítása
 
-9. §
+9. § Az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésére, kiegészítésére és törlésére, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokról, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályairól szóló 189/2020. (V. 7.) Korm. rendelet 2. §-a a következő (5) bekezdéssel egészül ki:
 
-[^6]: A 4. alcím a 27. § (2) bekezdése alapján 3000. január 1-jén lép hatályba.
+„(5) Ha az Országos Idegenrendészeti Főigazgatóság mint illetékes hatóság az Európai Határregisztrációs Rendszerből történő lekérdezés során az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 12. cikk (3) bekezdésében, 14 cikk (8) bekezdésében, 19., 20., 24., 26., 27. és 41. cikkében meghatározott esetekben azt észleli, hogy az érintett harmadik országbeli állampolgár egy vagy több adata, illetve az érintett harmadik országbeli állampolgár általa felvitt egyéni aktája módosításra szorul, ennek végrehajtása érdekében az Európai Határregisztrációs Rendszerben haladéktalanul intézkedik.”

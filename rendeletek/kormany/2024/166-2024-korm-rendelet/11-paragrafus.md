@@ -1,1 +1,3 @@
-11. §
+11. § Az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésére, kiegészítésére és törlésére, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokról, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályairól szóló 189/2020. (V. 7.) Korm. rendelet 4. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Az egyéni akta módosítására – a 2. § (5) bekezdésében foglaltak kivételével –, az illetékes hatóságokkal, valamint a más európai uniós tagállammal az (EU) 2017/2226 európai parlamenti és tanácsi rendelet szerinti kapcsolattartásra kizárólag a nemzeti központi hozzáférési pont arra kijelölt munkatársai jogosultak.”

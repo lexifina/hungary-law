@@ -1,3 +1,3 @@
-25. §[^19]
+25. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 261. §-a a következő (5) bekezdéssel egészül ki:
 
-[^19]: A 25. § a 27. § (2) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+„(5) E rendelet 111. alcíme a határregisztrációs rendszerben (EES) túltartózkodóként azonosított személyek listájának összeállítására, valamint e listának a tagállamok rendelkezésére bocsátására vonatkozó eljárás kialakítására irányuló intézkedések meghatározásáról szóló, 2018. október 15-i (EU) 2018/1548 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.”

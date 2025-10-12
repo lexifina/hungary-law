@@ -1,3 +1,3 @@
-19. §[^13]
+19. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 137. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^13]: A 19. § a 27. § (2) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+„(1a) A Tv. 143. § (3) bekezdése szerinti ellenőrzési kötelezettségét nem teljesítő fuvarozót személyenként legalább 3000, legfeljebb 5000 euróig terjedő, forintban meghatározott közrendvédelmi bírsággal kell sújtani.”

@@ -1,1 +1,3 @@
-4. §
+4. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 80. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) E rendelet 78/C. §-a a határregisztrációs rendszerben (EES) túltartózkodóként azonosított személyek listájának összeállítására, valamint e listának a tagállamok rendelkezésére bocsátására vonatkozó eljárás kialakítására irányuló intézkedések meghatározásáról szóló, 2018. október 15-i (EU) 2018/1548 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.”

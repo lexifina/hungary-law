@@ -1,1 +1,3 @@
-10. §
+10. § Az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésére, kiegészítésére és törlésére, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokról, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályairól szóló 189/2020. (V. 7.) Korm. rendelet 2. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Ha az illetékes hatóság – az Országos Idegenrendészeti Főigazgatóság kivételével – az Európai Határregisztrációs Rendszerből történő lekérdezés során azt észleli, hogy az érintett harmadik országbeli állampolgár egy vagy több adata, illetve az érintett harmadik országbeli állampolgár teljes egyéni aktája helyesbítésre, kiegészítésre vagy törlésre szorul (a továbbiakban: egyéni akta módosítás), ennek végrehajtása érdekében a nemzeti központi hozzáférési pontot tájékoztatnia kell.”

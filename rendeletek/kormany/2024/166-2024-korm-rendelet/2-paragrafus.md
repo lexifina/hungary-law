@@ -1,1 +1,3 @@
-2. §
+2. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet a következő 4/A. §-sal egészül ki:
+
+„4/A. § Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet szerinti vízumhatóság alatt az e rendelet 4. §-ában foglalt vízumkiadó hatóságokat kell érteni. A határátkelőhelyen előterjesztett kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelmek befogadása és továbbítása, valamint a döntés kihirdetése vonatkozásában vízumhatóság alatt a Rendőrséget is érteni kell.”

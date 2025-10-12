@@ -1,3 +1,3 @@
-20. §[^14]
+20. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet a következő 161/A. §-sal egészül ki:
 
-[^14]: A 20. § a 27. § (2) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+„161/A. § Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet szerinti bevándorlási hatóság alatt az e rendelet 161. §-ában foglalt idegenrendészeti hatóságokat kell érteni.”
