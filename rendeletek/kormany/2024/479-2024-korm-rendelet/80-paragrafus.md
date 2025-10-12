@@ -1,6 +1,7 @@
-80. § (1)[^66]
+80. § (1)[^65]
 
-(2)[^67]
+(2) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 255. § (2) bekezdése a következő e) ponttal egészül ki:
 
-[^66]: A 80. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^67]: A 80. § (2) bekezdése a 83. § (4) bekezdése alapján a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+(A VIS rendelet alapján a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt adatokhoz történő hozzáférés szempontjából)
+
+[^65]: A 80. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
