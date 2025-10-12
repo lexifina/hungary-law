@@ -1,3 +1,3 @@
-284. §[^78]
+284. §[^80]
 
-[^78]: A 284. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 284. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-263. §[^57]
+263. §[^59]
 
-[^57]: A 263. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 263. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-272. §[^66]
+272. §[^68]
 
-[^66]: A 272. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 272. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

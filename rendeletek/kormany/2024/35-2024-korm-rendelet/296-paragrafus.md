@@ -1,3 +1,3 @@
-296. §[^90]
+296. §[^92]
 
-[^90]: A 296. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 296. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

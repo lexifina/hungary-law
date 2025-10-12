@@ -1,3 +1,3 @@
-302. §[^96]
+302. §[^98]
 
-[^96]: A 302. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 302. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

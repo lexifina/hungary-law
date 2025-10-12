@@ -1,5 +1,5 @@
 ## 161. A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet módosítása
 
-342. §[^134]
+342. §[^135]
 
-[^134]: A 342. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 342. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

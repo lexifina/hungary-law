@@ -1,5 +1,5 @@
 ## 139. Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosítása
 
-298. §[^92]
+298. §[^94]
 
-[^92]: A 298. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 298. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

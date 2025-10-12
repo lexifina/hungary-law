@@ -1,3 +1,3 @@
-346. §[^138]
+346. §[^139]
 
-[^138]: A 346. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^139]: A 346. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
