@@ -68,3 +68,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2025-03-01 | 1997-168-20-22.95 | 24/2025. (II. 27.) Korm. rendelet |
 | 2025-03-14 | 1997-168-20-22.96 | 44/2025. (III. 13.) Korm. rendelet |
 | 2025-04-03 | 1997-168-20-22.97 | 59/2025. (III. 31.) Korm. rendelet |
+| 2025-10-12 | 1997-168-20-22.99 | 309/2025. (X. 9.) Korm. rendelet |
