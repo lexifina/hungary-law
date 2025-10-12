@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-120-00-00
 | 2023-03-08 | 2010. évi CXXX. törvény | 2021-120-00-00.23 |
 | 2023-07-01 | 2022. évi L. törvény | 2021-120-00-00.17 |
 | 2023-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-120-00-00.18 |
+| 2025-10-12 | 2/2025. (IX. 11.) BM határozat | 2021-120-00-00.24 |
