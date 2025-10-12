@@ -1,3 +1,3 @@
-13. §[^33]
+13. §[^35]
 
-[^33]: A 13. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^35]: A 13. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## A személykörözés elrendelése
 
-## 67. § Körözés elrendelésére
+67. § Körözés elrendelésére
 
 a) a Tv. 63. § (1) bekezdés a) pontja alapján az őrizetet elrendelő,
 

@@ -1,3 +1,5 @@
-## 40. § A külpolitikáért felelős miniszter bírálja el – külön jogszabály szerint – a diplomáciai vagy nemzetközi jogon alapuló más kiváltságot és mentességet élvező személyek családtagjainak tartózkodási jogot igazoló okmány iránt kérelmeit.
-
 ## Bejelentési kötelezettségek
+
+41. §[^133] A Tv. 27. § (2) és (3) bekezdésében meghatározott értesítést a regionális igazgatóság közvetlenül, elektronikus úton teljesíti.
+
+[^133]: A 41. § a 290/2010. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.

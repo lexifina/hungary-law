@@ -1,16 +1,16 @@
-21. § (1)[^84] Elegendő forrással rendelkezik a kérelmező, ha a háztartásában az egy főre jutó havi jövedelem eléri a szociális vetítési alap összegét. Nem rendelkezik elegendő forrással az a személy, aki a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.)
+21. § (1)[^86] Elegendő forrással rendelkezik a kérelmező, ha a háztartásában az egy főre jutó havi jövedelem eléri a szociális vetítési alap összegét. Nem rendelkezik elegendő forrással az a személy, aki a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.)
 
 a) 32/B. §-ának (1) bekezdése alapján időskorúak járadékában,
 
-b)[^85] 33. §-a alapján aktív korúak ellátásában,
+b)[^87] 33. §-a alapján aktív korúak ellátásában,
 
-c)[^86]
+c)[^88]
 
 három hónapnál hosszabb ideig részesül.
 
-(2)[^87] Ha a kérelmező háztartásában az egy főre jutó havi jövedelem nem éri el a szociális vetítési alap összegét, az eljáró idegenrendészeti hatóság a kérelmező jövedelmi, vagyoni helyzetének vizsgálata után megállapítja, hogy a kérelmező elegendő forrással rendelkezik-e önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére.
+(2)[^89] Ha a kérelmező háztartásában az egy főre jutó havi jövedelem nem éri el a szociális vetítési alap összegét, az eljáró idegenrendészeti hatóság a kérelmező jövedelmi, vagyoni helyzetének vizsgálata után megállapítja, hogy a kérelmező elegendő forrással rendelkezik-e önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére.
 
-(3)[^88] Ha a tartózkodás célja tanulmányok folytatása, az eljáró idegenrendészeti hatóság az elegendő forrás meglétét a (2) bekezdésben foglalt vizsgálat lefolytatása nélkül megállapítja, ha a kérelmező nyilatkozik arról, hogy elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére.
+(3)[^90] Ha a tartózkodás célja tanulmányok folytatása, az eljáró idegenrendészeti hatóság az elegendő forrás meglétét a (2) bekezdésben foglalt vizsgálat lefolytatása nélkül megállapítja, ha a kérelmező nyilatkozik arról, hogy elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére.
 
 (4) A (2) bekezdésben foglalt vizsgálat során különösen az alábbi szempontokat kell figyelembe venni:
 
@@ -46,11 +46,11 @@ a) rendszeres jövedelem esetén a tartózkodás bejelentését megelőző háro
 
 b) nem rendszeres jövedelem esetén a tartózkodás bejelentését megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
-(8)[^89] E rendelet alkalmazásában jövedelemnek, illetve vagyonnak minősül az Szt. 4. § (1) bekezdés a), illetve b) pontjában meghatározott jövedelem, illetve vagyon.
+(8)[^91] E rendelet alkalmazásában jövedelemnek, illetve vagyonnak minősül az Szt. 4. § (1) bekezdés a), illetve b) pontjában meghatározott jövedelem, illetve vagyon.
 
-[^84]: A 21. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 18. §-ával megállapított, nyitó szövegrésze a 629/2022. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
-[^85]: A 21. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^86]: A 21. § (1) bekezdés c) pontját a 179/2025. (VI. 30.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
-[^87]: A 21. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja, a 629/2022. (XII. 30.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
-[^88]: A 21. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^89]: A 21. § (8) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^86]: A 21. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 18. §-ával megállapított, nyitó szövegrésze a 629/2022. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^87]: A 21. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^88]: A 21. § (1) bekezdés c) pontját a 179/2025. (VI. 30.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
+[^89]: A 21. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja, a 629/2022. (XII. 30.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^90]: A 21. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^91]: A 21. § (8) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdésének c) pontja szerint módosított szöveg.

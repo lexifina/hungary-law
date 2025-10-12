@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-## 1. § E rendelet alkalmazásában
+1. § E rendelet alkalmazásában
 
 a) EGT-állampolgár: a Tv. 1. § (1) bekezdés a) pontjában meghatározott személy;
 

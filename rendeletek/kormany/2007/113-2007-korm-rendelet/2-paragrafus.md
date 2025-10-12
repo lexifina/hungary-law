@@ -1,6 +1,6 @@
 ## Eljáró idegenrendészeti hatóságok[^2]
 
-## 2. §[^3] A Tv.-ben szabályozott idegenrendészeti eljárások során a következő hatóságok járnak el:
+2. §[^3] A Tv.-ben szabályozott idegenrendészeti eljárások során a következő hatóságok járnak el:
 
 a)[^4]
 
