@@ -1,6 +1,7 @@
-13. § (1)[^12]
+13. § (1)[^8]
 
-(2)[^13]
+(2) Az Szmvhr. 80. § (3) bekezdése a következő 6. ponttal egészül ki:
 
-[^12]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 13. § (2) bekezdése a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+(Ez a rendelet)
+
+[^8]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
