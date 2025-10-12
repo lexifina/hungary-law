@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-46-20-0
 | 2021-12-31 | 2021-46-20-0A.4 | 2010: CXXX. törvény |
 | 2022-01-01 | 2021-46-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-02 | 2021-46-20-0A.6 | 2010: CXXX. törvény |
+| 2025-10-12 | 2021-46-20-0A.7 | 2/2025. (IX. 11.) BM határozat |
