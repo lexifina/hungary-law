@@ -1,6 +1,6 @@
 ## 60. Védelmi ellenőrzési és felügyeleti szolgálati forma
 
-83. §[^146] (1) A védelmi ellenőrzési és felügyeleti feladatra beosztott rendőr nemzetközi repülőtéren felügyeli
+83. §[^148] (1) A védelmi ellenőrzési és felügyeleti feladatra beosztott rendőr nemzetközi repülőtéren felügyeli
 
 a) az utasok és kézipoggyászaik,
 
@@ -20,4 +20,4 @@ a) ellátja a repülőtér szigorított védelmi területeinek rendőri felügye
 
 b) közreműködik a repülőtér területén a közveszéllyel fenyegetés bűncselekmény elhárításában, továbbá az elhagyott, gazdátlan csomagokkal kapcsolatos rendőri feladatok végrehajtásában.
 
-[^146]: A 83. § a 18/2013. (V. 9.) BM rendelet 13. §-ával megállapított szöveg.
+[^148]: A 83. § a 18/2013. (V. 9.) BM rendelet 13. §-ával megállapított szöveg.

@@ -6,6 +6,6 @@
 
 (4) A rendőr szolgálati maroklőfegyvert (lőszert) más kereső foglalkozás végzése közben nem tarthat magánál.
 
-(5)[^155] Ha a rendőr a szolgálati maroklőfegyvert (lőszert) szolgálaton kívül magánál tartja, azt csak az általa életvitelszerűen lakott lakásban, biztonsági zárral ellátott szekrényben, fiókban vagy falhoz, padlóhoz, szekrényhez rögzített, biztonsági zárral ellátott vaslemez dobozban tarthatja úgy, hogy illetéktelen személy ne férhessen hozzá. A maroklőfegyvert ürített, fesztelenített állapotban, a lőszerektől elkülönítve kell tárolni.
+(5)[^157] Ha a rendőr a szolgálati maroklőfegyvert (lőszert) szolgálaton kívül magánál tartja, azt csak az általa életvitelszerűen lakott lakásban, biztonsági zárral ellátott szekrényben, fiókban vagy falhoz, padlóhoz, szekrényhez rögzített, biztonsági zárral ellátott vaslemez dobozban tarthatja úgy, hogy illetéktelen személy ne férhessen hozzá. A maroklőfegyvert ürített, fesztelenített állapotban, a lőszerektől elkülönítve kell tárolni.
 
-[^155]: A 96. § (5) bekezdése a 18/2013. (V. 9.) BM rendelet 15. §-ával megállapított szöveg.
+[^157]: A 96. § (5) bekezdése a 18/2013. (V. 9.) BM rendelet 15. §-ával megállapított szöveg.

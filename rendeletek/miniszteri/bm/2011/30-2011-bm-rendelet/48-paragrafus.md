@@ -4,6 +4,6 @@
 
 (3) Mások személyét, vagyonát közvetlenül veszélyeztető megvadult állatra a rendőr akkor lőhet, ha a veszélyhelyzet elhárítására az adott körülmények között más lehetőség nincs. Szolgálati feladata teljesítésének érdekében a rendőr a testi épségét közvetlenül veszélyeztető állatot lelőheti.
 
-(4)[^94] Az állatra irányuló lövésnek feltétele, hogy az ember életét, testi épségét ne veszélyeztesse.
+(4)[^95] Az állatra irányuló lövésnek feltétele, hogy az ember életét, testi épségét ne veszélyeztesse.
 
-[^94]: A 48. § (4) bekezdése a 83/2023. (XII. 28.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+[^95]: A 48. § (4) bekezdése a 83/2023. (XII. 28.) BM rendelet 3. § a) pontja szerint módosított szöveg.

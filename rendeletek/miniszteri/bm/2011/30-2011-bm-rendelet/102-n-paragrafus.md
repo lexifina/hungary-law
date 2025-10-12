@@ -1,16 +1,16 @@
-## 83. [^179] Feltartóztatás, dolog ideiglenes elvétele
+## 83. [^181] Feltartóztatás, dolog ideiglenes elvétele
 
 102/N. § (1) Ha az iskolaőr feltartóztatja azt a személyt, akitől felvilágosítást kér, ennek során az intézkedés helyszínének elhagyásában korlátozhatja, vagy a további intézkedés megtételéig a helyszín elhagyásában megakadályozhatja.
 
 (2) A feltartóztatást meg kell szüntetni, ha az intézkedés a célját elérte.
 
-(3)[^180] Az iskolaőr – az Rtv. 10/C. § (1) bekezdés d) pontja szerinti dolog (a továbbiakban: dolog) rendőr megérkezéséig történő ideiglenes elvétele érdekében – az intézkedés alá vont személyt felszólíthatja a dolog átadására.
+(3)[^182] Az iskolaőr – az Rtv. 10/C. § (1) bekezdés d) pontja szerinti dolog (a továbbiakban: dolog) rendőr megérkezéséig történő ideiglenes elvétele érdekében – az intézkedés alá vont személyt felszólíthatja a dolog átadására.
 
-(4)[^181] Ha az intézkedés alá vont személy felszólításra a dolgot nem adja át, és a kényszerítő eszközök alkalmazásának feltételei fennállnak, az iskolaőr a kényszerítő eszköz alkalmazását követően – ha az nem igényli a ruházat vagy csomag átvizsgálását – a dolgot átvételi elismervény ellenében a rendőr megérkezéséig ideiglenesen elveheti az intézkedés alá vont személytől.
+(4)[^183] Ha az intézkedés alá vont személy felszólításra a dolgot nem adja át, és a kényszerítő eszközök alkalmazásának feltételei fennállnak, az iskolaőr a kényszerítő eszköz alkalmazását követően – ha az nem igényli a ruházat vagy csomag átvizsgálását – a dolgot átvételi elismervény ellenében a rendőr megérkezéséig ideiglenesen elveheti az intézkedés alá vont személytől.
 
-(5)[^182] Ha az intézkedés alá vont személy felszólításra a dolgot nem adja át, és a kényszerítő eszközök alkalmazásának feltételei nem állnak fenn, az iskolaőr a rendőr megérkezéséig biztosítja a helyszínt.
+(5)[^184] Ha az intézkedés alá vont személy felszólításra a dolgot nem adja át, és a kényszerítő eszközök alkalmazásának feltételei nem állnak fenn, az iskolaőr a rendőr megérkezéséig biztosítja a helyszínt.
 
-[^179]: A 83. alcím címe a 12/2022. (IV. 29.) BM rendelet 3. §-ával megállapított szöveg.
-[^180]: A 102/N. § (3) bekezdését a 12/2022. (IV. 29.) BM rendelet 2. §-a iktatta be.
-[^181]: A 102/N. § (4) bekezdését a 12/2022. (IV. 29.) BM rendelet 2. §-a iktatta be.
-[^182]: A 102/N. § (5) bekezdését a 12/2022. (IV. 29.) BM rendelet 2. §-a iktatta be.
+[^181]: A 83. alcím címe a 12/2022. (IV. 29.) BM rendelet 3. §-ával megállapított szöveg.
+[^182]: A 102/N. § (3) bekezdését a 12/2022. (IV. 29.) BM rendelet 2. §-a iktatta be.
+[^183]: A 102/N. § (4) bekezdését a 12/2022. (IV. 29.) BM rendelet 2. §-a iktatta be.
+[^184]: A 102/N. § (5) bekezdését a 12/2022. (IV. 29.) BM rendelet 2. §-a iktatta be.

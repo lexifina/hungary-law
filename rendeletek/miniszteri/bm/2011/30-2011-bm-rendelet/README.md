@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-30-20-0
 | 2024-12-31 | 2011-30-20-0A.36 | 64/2024. (XII. 30.) BM rendelet |
 | 2025-06-15 | 2011-30-20-0A.37 | 19/2025. (VI. 13.) BM rendelet |
 | 2025-07-01 | 2011-30-20-0A.38 | 37/2016. (IX. 1.) BM rendelet |
+| 2025-10-12 | 2011-30-20-0A.31 | 46/2021. (XII. 22.) BM rendelet |
