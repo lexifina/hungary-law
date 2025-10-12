@@ -22,6 +22,8 @@ h) Schengeni határ-ellenőrzési kódex, a Schengeni Megállapodás végrehajt�
 
 i) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet
 
+j) a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet
+
 l) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet
 
 m) az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet
