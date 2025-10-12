@@ -34,6 +34,8 @@ o) meghatározza a személyi védelemben részesíthető személyek körét és 
 
 p) kijelölje az idegenrendészeti szervet, meghatározza annak tagozódását, továbbá az idegenrendészeti szerv hatáskörének és feladatai ellátásának részletes szabályait.
 
+q) meghatározza az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésének, kiegészítésének és törlésének, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokat, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályait.
+
 (2)
 
 (3)

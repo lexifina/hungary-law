@@ -36,6 +36,8 @@ p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatá
 
 q) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
 
+r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer,
+
 t) különleges bánásmódot igénylő nagykorú személy: a fogyatékos, a gondokság alatt álló vagy olyan nagykorú személy, aki korábban emberkereskedelem vagy nemi erkölcs elleni bűncselekmény sértettjévé vált.
 
 (2)
