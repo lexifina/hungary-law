@@ -94,4 +94,6 @@ p) a légiutas-adat személyazonosításra alkalmatlanná tétele: az érintett 
 
 q) a légiutas-adat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
 
+r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
+
 t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezet.
