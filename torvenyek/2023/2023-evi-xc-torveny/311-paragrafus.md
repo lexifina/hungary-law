@@ -1,1 +1,1 @@
-### 311. §
+311. § A Rendőrségről szóló 1994. évi XXXIV. törvény 42. § (5a) bekezdésében az „a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe az „a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép.

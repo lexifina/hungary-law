@@ -8,7 +8,7 @@
 
 (2) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal.
 
-(3)
+(3) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve közúton szállító fuvarozó köteles elvégezni az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 13. cikk (3) bekezdésében előírt ellenőrzést.
 
 (4)
 
@@ -24,6 +24,12 @@ c) a más célállamba történő szállítást vállaló fuvarozó megtagadja a
 
 (7) Ha a fuvarozó vitatja a visszaszállítási, illetve költségviselési kötelezettsége fennállását, az idegenrendészeti hatóság a visszaszállítási kötelezettség teljesítésére és a költségviselésre határozattal kötelezi.
 
-(8) A (2) bekezdés szerinti kötelezettségét nem teljesítő fuvarozót – jogszabályban meghatározott – közrendvédelmi bírsággal kell sújtani.
+(8) A (2) és (3) bekezdés szerinti kötelezettségét nem teljesítő fuvarozót – jogszabályban meghatározott – közrendvédelmi bírsággal kell sújtani.
 
 (9) A közrendvédelmi bírság megfizetésének kötelezettsége alól a fuvarozó akkor mentesül, ha bizonyítja, hogy a (2) bekezdésben foglalt ellenőrzési kötelezettségének a tőle elvárható gondossággal eleget tett.
+
+(10) A (3) bekezdés szerinti kötelezettségét nem teljesítő fuvarozó mentesül a közrendvédelmi bírság megfizetésének kötelezettsége alól, ha
+
+a) bizonyítja, hogy az ellenőrzési kötelezettségének a tőle elvárható gondossággal eleget tett, vagy
+
+b) az (EU) 2017/2226 európai parlamenti és tanácsi rendeletnek az (EU) 2021/1152 európai parlamenti és tanácsi rendelettel beillesztett 13a. cikk (1) bekezdése alapján a fuvarozó számára technikailag kivitelezhetetlen az ellenőrzés elvégzése.

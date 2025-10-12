@@ -6,7 +6,7 @@
 
 250. § E rész alkalmazásában:
 
-a)
+a) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
 
 b)
 
