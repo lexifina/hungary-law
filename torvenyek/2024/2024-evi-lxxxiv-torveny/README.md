@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-84-00-00
 | 2025-07-01 | 2025. évi XXXV. törvény | 2024-84-00-00.11 |
 | 2025-07-02 | 2010. évi CXXX. törvény | 2024-84-00-00.12 |
 | 2025-10-12 | 2/2025. (IX. 11.) BM határozat | 2024-84-00-00.19 |
+| 2025-10-13 | 2010. évi CXXX. törvény | 2024-84-00-00.20 |
