@@ -1,3 +1,3 @@
-336. §[^131]
+336. §[^132]
 
-[^131]: A 336. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 336. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
