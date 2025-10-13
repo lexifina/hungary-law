@@ -1,1 +1,3 @@
-12. § Nem lép hatályba az Európai Határregisztrációs Rendszerbe bevitt adatok helyesbítésére, kiegészítésére és törlésére, valamint az érintett jogainak érvényesítésére vonatkozó eljárási szabályokról, továbbá az Európai Határregisztrációs Rendszerhez való bűnüldözési célú hozzáférés eljárási szabályairól szóló 189/2020. (V. 7.) Korm. rendelet 12. §-a.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-21. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet a következő 162/A. §-sal egészül ki:
+21. §[^22]
 
-„162/A. § Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet szerinti vízumhatóság alatt az e rendelet 162. §-ában foglalt vízumkiadó hatóságokat kell érteni. A határátkelőhelyen előterjesztett kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelmek befogadása és továbbítása, valamint a döntés kihirdetése vonatkozásában a Rendőrséget is érteni kell.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
