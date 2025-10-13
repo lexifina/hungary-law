@@ -1,7 +1,3 @@
-2. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet a következő 96/A. §-sal egészül ki:
+2. §[^2]
 
-„96/A. § (1) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet, valamint a közszférában alkalmazandó nyugdíjpolitikai elveknek az egészségügyi dolgozók vonatkozásában történő érvényesítéséről és végrehajtásáról szóló 124/2013. (IV. 26.) Korm. rendelet módosításáról szóló 309/2025. (X. 9.) Korm. rendelettel megállapított 73/B. § (1) bekezdés d) pontját a 2025. december 31-ét követő időszakra folyósítandó öregségi nyugdíjra kell alkalmazni.
-
-(2) Az egészségügyért felelős miniszter a 2025. december 5-éig megküldött – a közszférában alkalmazandó nyugdíjpolitikai elveknek az egészségügyi dolgozók vonatkozásában történő érvényesítéséről és végrehajtásáról szóló kormányrendelet szerinti – megkeresésében feltüntetett egészségügyi dolgozóknak a Tny. 83/C. §-a alapján 2025 decemberében szünetelő öregségi nyugdíját a nyugdíjfolyósító szerv 2026. január 1-jétől, hivatalból folyósítja.
-
-(3) Aki esetében a 2025. évben az öregségi nyugdíj folyósítása a Tny. 83/C. §-a alapján, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet, valamint a közszférában alkalmazandó nyugdíjpolitikai elveknek az egészségügyi dolgozók vonatkozásában történő érvényesítéséről és végrehajtásáról szóló 124/2013. (IV. 26.) Korm. rendelet módosításáról szóló 309/2025. (X. 9.) Korm. rendelettel megállapított 73/B. § (1) bekezdés d) pontja szerinti jogviszony miatt szünetelt, azt úgy kell tekinteni, mint aki a 2025. év legalább egy napjára öregségi nyugdíjban részesült.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
