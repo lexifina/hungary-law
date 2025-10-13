@@ -1,4 +1,4 @@
-## 16. § A 2. §, a 4–6. § és a 8. § hatálybalépésének naptári napját a határrendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^14]
+## 16. § A 2. §, a 4–6. § és a 8. § hatálybalépésének naptári napját a határrendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^17]
 
 ## 17. § Ez a rendelet
 
@@ -8,4 +8,4 @@ b) a tagállamok külső határait átlépő harmadik országbeli állampolgáro
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^14]: Lásd a 2/2025. (IX. 11.) BM határozatot.
+[^17]: Lásd a 2/2025. (IX. 11.) BM határozatot.
