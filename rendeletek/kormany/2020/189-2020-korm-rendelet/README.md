@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-189-20-
 | 2020-06-01 | 2020-189-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-06-02 | 2020-189-20-22.4 | 2010: CXXX. törvény |
 | 2025-10-12 | 2020-189-20-22.5 | 166/2024. (VI. 28.) Korm. rendelet |
+| 2025-10-13 | 2020-189-20-22.6 | 2010: CXXX. törvény |
