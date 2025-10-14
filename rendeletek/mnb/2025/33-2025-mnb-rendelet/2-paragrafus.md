@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján a Vakok Iskolájának otthont adó épület ólomüvegablaka részlete, egy olvasó vak kislány ábrázolása látható, háttérben a Braille-írással megjelenített, többször ismétlődő „200 ÉVES A VAKOK OKTATÁSA MAGYARORSZÁGON” felirattal. Az előlap vízszintes vonallal határolt alsó harmadában, bal oldalon, két sorban a „3000” értékjelzés és a „FORINT” felirat, jobb oldalon, három sorban a „MAGYARORSZÁG” felirat, a „2025” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának vízszintes vonallal határolt felső felében a Vakok Iskolájának otthont adó épület homlokzati részletének ábrázolása látható. A hátlap alsó felében, két sorban a „200 ÉVES A VAKOK OKTATÁSA MAGYARORSZÁGON” felirat olvasható, alatta a Vakok Iskolája alapításának évére utaló, Braille-írással megjelenített „1825” felirattal. A hátlap alsó szélén, középen Molnár Mercédesz Dorisz tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
