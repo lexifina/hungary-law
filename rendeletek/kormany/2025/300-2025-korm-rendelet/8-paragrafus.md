@@ -1,1 +1,3 @@
-8. § Hatályát veszti a Magyar Védelmi Exportügynökség Zártkörűen Működő Részvénytársaság feladatairól szóló 461/2024. (XII. 30.) Korm. rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
