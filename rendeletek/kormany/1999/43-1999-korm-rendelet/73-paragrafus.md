@@ -1,3 +1,3 @@
-73. §[^582]
+73. §[^583]
 
-[^582]: A 73. §-t a 447/2012. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § j) pontja.
+[^583]: A 73. §-t a 447/2012. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § j) pontja.

@@ -1,4 +1,4 @@
-48/E. §[^534] (1) A 48/C. § (1) bekezdése szerinti ellátásszervező intézet a CKF2 program keretében történt járó- és fekvőbeteg-szakellátási esetekről az e rendeletben szabályozott módon, az adott ellátási formára előírt adattartalommal jelentést küld a finanszírozó számára.
+48/E. §[^535] (1) A 48/C. § (1) bekezdése szerinti ellátásszervező intézet a CKF2 program keretében történt járó- és fekvőbeteg-szakellátási esetekről az e rendeletben szabályozott módon, az adott ellátási formára előírt adattartalommal jelentést küld a finanszírozó számára.
 
 (2) A CKF2 program részét képező ellátási lánc valamennyi elemére a 48/D. § (5) bekezdése szerinti kötegelt finanszírozási díj nyújt fedezetet, kivéve a háziorvosi fejpénz alapú juttatásokat, valamint a COPD-vel összefüggő területen kívüli ellátásokat.
 
@@ -26,4 +26,4 @@ g) a laboratóriumi szakmai besorolású szervezeti egységek által COPD miatt 
 
 (7) Ha a CKF2 program során más egészségügyi szolgáltató bevonása szükséges az ellátásba, és az ellátás fődiagnózisa BNO J43–J44, az esetben a jogszerűen igénybe vett és teljesített szolgáltatások díja a bevonásra került egészségügyi szolgáltató részére a hatályos finanszírozási szabályok alapján az R.-ben meghatározott díjtételek alapján megállapításra és utalványozásra kerül. A CKF2 programban részt vevő, igénybe vevő szolgáltatónál erre az ellátásra az esetfinanszírozási díj nyújt fedezetet.
 
-[^534]: A 48/E. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 311/2024. (XI. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^535]: A 48/E. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 311/2024. (XI. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
