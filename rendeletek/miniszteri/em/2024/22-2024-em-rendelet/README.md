@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-22-20-8
 | --- | --- | --- |
 | 2025-01-01 | 2024-22-20-8Y.1 | 22/2024. (XI. 28.) EM rendelet |
 | 2025-10-01 | 2024-22-20-8Y.2 | 28/2025. (IX. 22.) EM rendelet |
+| 2025-10-15 | 2024-22-20-8Y.3 | 30/2025. (X. 14.) EM rendelet |

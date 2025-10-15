@@ -44,7 +44,7 @@
 
 | 22 | irodai papír | I01 | 127 | 1 | 128 |
 
-| 23 | reklámhordozó papír | R01 | 201 | 3 | 204 |
+| 23 | reklámhordozó papír | R01 | 91[^4] | 3 | 94[^5] |
 
 | 24 | sütőolaj és -zsír | Z01 | 62 | – | 62 |
 
@@ -52,8 +52,10 @@
 
 | 26 | bútorok fából | B01 | 45 | 6 | 51 |
 
-5. melléklet a 22/2024. (XI. 28.) EM rendelethez[^3]
+5. melléklet a 22/2024. (XI. 28.) EM rendelethez[^6]
 
 A gépjármű gyártója által választása szerint díjátalányként fizetendő kiterjesztett gyártói felelősségi díj egy egységre vetített mértéke
 
-[^3]: Az 5. melléklet a 28/2025. (IX. 22.) EM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: A 4. mellékletben foglalt táblázat C:23 mezője a 30/2025. (X. 14.) EM rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 4. mellékletben foglalt táblázat E:23 mezője a 30/2025. (X. 14.) EM rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. melléklet a 28/2025. (IX. 22.) EM rendelet 1. § (3) bekezdésével megállapított szöveg.

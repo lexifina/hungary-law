@@ -32,7 +32,7 @@ A csatlakozási díj és a szolgáltatási díj egy egységre vetített mérték
 
 | 7 | újrahasználható (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | X71 | 1 |
 
-2.[^1] A szolgáltatási díj egy egységre vetített mértéke
+2.[^2] A szolgáltatási díj egy egységre vetített mértéke
 
 |  | A | B | C | D | E |
 
@@ -54,4 +54,4 @@ A csatlakozási díj és a szolgáltatási díj egy egységre vetített mérték
 
 | 9 | újrahasználható (a díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével) | X71 | 63 | 14 | 77 |
 
-[^1]: A 3. melléklet 2. pontja a 28/2025. (IX. 22.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. melléklet 2. pontja a 28/2025. (IX. 22.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
