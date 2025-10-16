@@ -1,7 +1,3 @@
-2. § Az EM rendelet 4. mellékletében foglalt táblázat
+2. §[^3]
 
-a) C:23 mezőjében a „201” szövegrész helyébe a „91” szöveg,
-
-b) E:23 mezőjében a „204” szövegrész helyébe a „94” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
