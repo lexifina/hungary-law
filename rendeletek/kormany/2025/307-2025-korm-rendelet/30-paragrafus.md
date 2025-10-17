@@ -1,0 +1,5 @@
+30. § (1) Ha a Hatóság a szervezet tevékenységi engedélyének ellenőrzése során figyelmeztetést tartalmazó döntést hoz, abban javító intézkedés megtételét írhatja elő, amelyben felhívhatja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezheti annak megszüntetésére.
+
+(2) A tervezésre, gyártásra, javításra és karbantartásra jogosító tevékenységi engedély kiállítását követően a szervezet tevékenységében bekövetkezett bármely változtatás, amely a légijármű, annak alkatrésze és berendezése légialkalmasságát érinti, vagy a minőségbiztosítási rendszer módosításával jár, új tevékenységi engedély kiadásához kötött.
+
+(3) Az új tevékenységi engedélyben a Hatóság hatályon kívül helyezi a korábban kiadott tevékenységi engedélyt.

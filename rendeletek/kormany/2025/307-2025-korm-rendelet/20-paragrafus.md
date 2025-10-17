@@ -1,0 +1,3 @@
+20. § (1) A Nyilvántartásba bejegyzett üzembentartó az „A1” vagy a „B1” kategóriájú, a Nyilvántartásban nem szereplő típusú pilóta nélküli állami légijármű alkalmazásba vételét az alkalmazásba vételétől számított 8 napon belül bejelenti a Hatóságnak. A bejelentésben az üzembentartó nyilatkozik arról, hogy az új típusú pilóta nélküli állami légijármű üzemeltetésében közvetlenül részt vevő valamennyi személy alkalmas feladatai ellátására, és a pilóta nélküli állami légijárművet megfelelő kompetenciaszinttel rendelkező kezelők fogják működtetni.
+
+(2) Az (1) bekezdés szerinti bejelentés alapján a Hatóság a Nyilvántartást módosítja.

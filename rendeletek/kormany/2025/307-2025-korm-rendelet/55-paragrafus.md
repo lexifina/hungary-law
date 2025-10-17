@@ -1,0 +1,1 @@
+55. § A NATO vagy az EU tagállamában gyártott vagy rendszeresített pilóta nélküli állami légijármű vagy pilóta nélküli állami légijármű rendszer típusalkalmassági vizsgálata esetén a Hatóság elfogadja a gyártó állam illetékes hatóságának hatályos igazolását arról, hogy a típus a vonatkozó európai uniós és nemzetközi előírásoknak megfelel, és biztonságos repülésre alkalmas.

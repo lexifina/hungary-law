@@ -1,0 +1,1 @@
+9. § Az „F” kategóriába tartozó pilóta nélküli állami légijárműre a lövedékek és rakéták légtérbe juttatására vonatkozó, a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendeletben meghatározott előírások alkalmazandóak.

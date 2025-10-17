@@ -1,0 +1,1 @@
+27. § Ha a pilóta nélküli légijármű nem rendelkezik az illetékes hatósága által kiadott típusalkalmassági bizonyítvánnyal, a 25. § szerinti kérelem benyújtásával egyidejűleg a gyártó vagy az üzembentartó a Hatóságtól kérelmezheti a „B2”, a „C”, a „D” vagy az „E” kategóriába tartozó pilóta nélküli állami légijármű típusalkalmasságának megállapítását.
