@@ -8,10 +8,10 @@ b) a Beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakoz
 
 c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
 
-(2a)[^2] A (2) bekezdésében foglaltakon túl az (1) bekezdés alkalmazásában a 2. mellékletben foglalt táblázat 66. és 127. sora szerinti beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a beruházás előkészítéséhez, valamint a beruházáshoz közvetlenül kapcsolódó létesítmény megközelítését, működését és városképi illeszkedését segítő közterület- és zöldfelület-rendezési, közlekedésfejlesztési munkákra vonatkoznak.
+(2a)[^2] A (2) bekezdésében foglaltakon túl az (1) bekezdés alkalmazásában a 2. mellékletben foglalt táblázat 66., 127. és 142. sora szerinti beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a beruházás előkészítéséhez, valamint a beruházáshoz közvetlenül kapcsolódó létesítmény megközelítését, működését és városképi illeszkedését segítő közterület- és zöldfelület-rendezési, közlekedésfejlesztési munkákra vonatkoznak.
 
 (3)[^3] A 2. mellékletben foglalt táblázat 53. sora szerinti beruházás tekintetében a géntechnológiai hatósági eljárások és a géntechnológiai szakhatósági eljárások nem minősülnek nemzetgazdasági szempontból kiemelt jelentőségű ügynek.
 
 [^1]: Az 1. § (1) bekezdése az 581/2020. (XII. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2a) bekezdését az 555/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 155/2024. (VI. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2a) bekezdését az 555/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 155/2024. (VI. 28.) Korm. rendelet 4. § a) pontja, a 318/2025. (X. 17.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdését az 581/2020. (XII. 14.) Korm. rendelet 1. §-a iktatta be.

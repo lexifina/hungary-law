@@ -1,4 +1,4 @@
-5/T. §[^146] (1) A 2. mellékletben foglalt táblázat 119. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:119 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/T. §[^147] (1) A 2. mellékletben foglalt táblázat 119. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:119 mezőjében megjelölt ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -10,4 +10,4 @@ a) az épületmagasság megengedett legnagyobb mértéke 20 méter,
 
 b) az ingatlanokon és az azokon megvalósuló építményeken villamos energiát termelő erőmű és megújuló energiaforrás műtárgyai – kivéve szélerőmű, szélerőműpark – teljesítménykorlátozás nélkül elhelyezhetőek.
 
-[^146]: Az 5/T. §-t a 398/2023. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^147]: Az 5/T. §-t a 398/2023. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.

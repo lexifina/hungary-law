@@ -156,3 +156,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2025-08-14 | 2018-141-20-22.148 | 482/2023. (X. 31.) Korm. rendelet |
 | 2025-08-19 | 2018-141-20-22.149 | 369/2024. (XI. 28.) Korm. rendelet |
 | 2025-10-07 | 2018-141-20-22.150 | 302/2025. (X. 6.) Korm. rendelet |
+| 2025-10-18 | 2018-141-20-22.151 | 318/2025. (X. 17.) Korm. rendelet |
