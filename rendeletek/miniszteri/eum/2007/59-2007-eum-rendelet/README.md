@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-59-20-0
 | 2014-12-20 | 2007-59-20-0B.7 | 52/2014. (XII. 19.) EMMI rendelet |
 | 2017-01-01 | 2007-59-20-0B.8 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-12-13 | 2007-59-20-0B.9 | 34/2017. (XII. 12.) EMMI rendelet |
+| 2025-10-18 | 2007-59-20-0B.10 | 9/2012. (VII. 13.) EMMI rendelet |
