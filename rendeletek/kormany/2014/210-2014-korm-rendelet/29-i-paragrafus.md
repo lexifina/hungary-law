@@ -1,12 +1,12 @@
-29/I. §[^353] (1)[^354] E rendelet alapján a 2. § (1) bekezdés a), b), e) pontjában, valamint a 2. § (2) bekezdésében foglalt támogatásokról támogatási döntést az általános csoportmentességi rendelet 59. cikk második mondatában meghatározott időpont szerint, 2027. június 30-ig lehet hozni.
+29/I. §[^360] (1)[^361] E rendelet alapján a 2. § (1) bekezdés a), b), e) pontjában, valamint a 2. § (2) bekezdésében foglalt támogatásokról támogatási döntést az általános csoportmentességi rendelet 59. cikk második mondatában meghatározott időpont szerint, 2027. június 30-ig lehet hozni.
 
 (2) E rendelet alapján a 2. § (1) bekezdés c) pontjában foglalt támogatásokról támogatási döntést az Európai Bizottságnak a regionális állami támogatásokról szóló iránymutatása című, 2021/C 153/01 számú európai bizottsági közlemény 189. pontjában meghatározott időpont szerint, 2027. december 31-ig lehet hozni.
 
-(3)[^355]
+(3)[^362]
 
-(4)[^356] E rendelet alapján a 2. § (1) bekezdés g) pontjában foglalt támogatásokról támogatási döntést a Közlemény (85) bekezdés c) pontjában meghatározott időpont szerint, 2025. december 31-ig lehet hozni.
+(4)[^363] E rendelet alapján a 2. § (1) bekezdés g) pontjában foglalt támogatásokról támogatási döntést a Közlemény (85) bekezdés c) pontjában meghatározott időpont szerint, 2025. december 31-ig lehet hozni.
 
-[^353]: A 29/I. §-t a 463/2020. (X. 21.) Korm. rendelet 9. §-a iktatta be, szövege a 310/2022. (VIII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^354]: A 29/I. § (1) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^355]: A 29/I. § (3) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 25. §-a iktatta be, a 81/2025. (IV. 17.) Korm. rendelet 31. § 35. pontja hatályon kívül helyezte.
-[^356]: A 29/I. § (4) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 25. §-a iktatta be.
+[^360]: A 29/I. §-t a 463/2020. (X. 21.) Korm. rendelet 9. §-a iktatta be, szövege a 310/2022. (VIII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^361]: A 29/I. § (1) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^362]: A 29/I. § (3) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 25. §-a iktatta be, a 81/2025. (IV. 17.) Korm. rendelet 31. § 35. pontja hatályon kívül helyezte.
+[^363]: A 29/I. § (4) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 25. §-a iktatta be.

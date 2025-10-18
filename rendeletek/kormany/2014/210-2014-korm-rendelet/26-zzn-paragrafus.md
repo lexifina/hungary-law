@@ -24,8 +24,8 @@ b) azt a Közlemény (86) bekezdés e) pontja szerinti finanszírozási hiányt,
 
 (5) A (3) bekezdésben foglaltak figyelembevételével meghatározott összeg forintra történő átszámítása során a támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
-(6)[^309] Azonos vagy részben azonos azonosítható elszámolható költségek esetében a támogatás a Közlemény (85) bekezdés m) pontja szerint halmozható. A támogatás különböző azonosítható elszámolható költségek esetében halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
+(6)[^313] Azonos vagy részben azonos azonosítható elszámolható költségek esetében a támogatás a Közlemény (85) bekezdés m) pontja szerint halmozható. A támogatás különböző azonosítható elszámolható költségek esetében halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
 
 (7) A Közlemény (85) bekezdése alapján Magyarországon megítélt támogatás vállalatcsoportonként nem haladhatja meg a 350 millió eurónak megfelelő forintösszeget, folyóáron számolva, azzal, hogy Budapesten vállalatcsoportonként legfeljebb 150 millió eurónak megfelelő forintösszegű támogatás nyújtható, folyóáron számolva.
 
-[^309]: A 26/ZZN. § (6) bekezdése a 81/2025. (IV. 17.) Korm. rendelet 31. § 28. pontja szerint módosított szöveg.
+[^313]: A 26/ZZN. § (6) bekezdése a 81/2025. (IV. 17.) Korm. rendelet 31. § 28. pontja szerint módosított szöveg.

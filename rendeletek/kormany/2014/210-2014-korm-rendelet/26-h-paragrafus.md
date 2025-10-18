@@ -12,18 +12,18 @@ d) az oktatók és a képzésben részt vevők kapcsán felmerülő működési 
 
 e) a képzési projekthez kapcsolódó tanácsadás költsége, amely nem haladhatja meg a teljes elszámolható költségek 5%-át.
 
-(1a)[^257] Nem minősül elszámolható költségnek
+(1a)[^261] Nem minősül elszámolható költségnek
 
 a) az (1) bekezdés b) pontja szerinti azon személyi jellegű ráfordítás, amelyhez azonos időszakban a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális beruházási támogatás igénybevételére is sor kerül,
 
 b) azon tárgyi eszközöknek az (1) bekezdés d) pontjában meghatározott értékcsökkenési leírása, amelyeknek a beszerzésére támogatás igénybevételével került sor.
 
-c)[^258] a képzési támogatás kedvezményezettjével alkalmazotti viszonyban nem álló képzésben részt vevőkhöz kapcsolódó költség.
+c)[^262] a képzési támogatás kedvezményezettjével alkalmazotti viszonyban nem álló képzésben részt vevőkhöz kapcsolódó költség.
 
 (2) A képzési projekt megkezdése az elszámolható költségek alapjául szolgáló első jogilag kötelező érvényű kötelezettségvállalás napja.
 
-(3)[^259]
+(3)[^263]
 
-[^257]: A 26/H. § (1a) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
-[^258]: A 26/H. § (1a) bekezdés c) pontját a 81/2025. (IV. 17.) Korm. rendelet 14. §-a iktatta be.
-[^259]: A 26/H. § (3) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 11. pontja hatályon kívül helyezte.
+[^261]: A 26/H. § (1a) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
+[^262]: A 26/H. § (1a) bekezdés c) pontját a 81/2025. (IV. 17.) Korm. rendelet 14. §-a iktatta be.
+[^263]: A 26/H. § (3) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 11. pontja hatályon kívül helyezte.

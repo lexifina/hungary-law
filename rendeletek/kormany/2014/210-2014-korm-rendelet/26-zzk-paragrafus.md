@@ -1,4 +1,4 @@
-## IV/E. Fejezet[^308]
+## IV/E. Fejezet[^312]
 
 ## A NULLA NETTÓ KIBOCSÁTÁSI CÉLT SZOLGÁLÓ GAZDASÁGRA ÁTÁLLÁS SZEMPONTJÁBÓL STRATÉGIAI JELENTŐSÉGŰ ÁGAZATOKBAN GYORSÍTOTT BERUHÁZÁSOKHOZ NYÚJTOTT TÁMOGATÁSRA SPECIÁLIS RENDELKEZÉSEK
 
@@ -6,4 +6,4 @@
 
 (2) A támogatással kapcsolatos részletesebb tájékoztató a lebonyolító szerv honlapján kerül közzétételre.
 
-[^308]: A IV/E. Fejezetet (26/ZZK-26/ZZU. §-t) a 366/2023. (VIII. 3.) Korm. rendelet 6. §-a iktatta be.
+[^312]: A IV/E. Fejezetet (26/ZZK-26/ZZU. §-t) a 366/2023. (VIII. 3.) Korm. rendelet 6. §-a iktatta be.

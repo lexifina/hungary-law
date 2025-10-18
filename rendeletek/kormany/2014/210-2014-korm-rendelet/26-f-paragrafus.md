@@ -4,9 +4,9 @@
 
 a) az üzemfejlesztés vagy a regionális szolgáltató központ létrehozása vagy bővítése milyen iparágban valósul meg,
 
-b)[^252]
+b)[^256]
 
-c)[^253]
+c)[^257]
 
 d) a támogatott tevékenység által érintett helyszín gazdasági fejlettsége,
 
@@ -14,5 +14,5 @@ e) a kérelmező vállalatmérete,
 
 f) képzések köre, jellemzői, céljai, tervezett eredményei.
 
-[^252]: A 26/F. § b) pontját a 81/2025. (IV. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
-[^253]: A 26/F. § c) pontját a 81/2025. (IV. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
+[^256]: A 26/F. § b) pontját a 81/2025. (IV. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
+[^257]: A 26/F. § c) pontját a 81/2025. (IV. 17.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
