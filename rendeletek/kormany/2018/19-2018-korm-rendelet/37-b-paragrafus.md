@@ -1,4 +1,4 @@
-## 17/A.[^120] A KNEB egyéb hozzájárulási eljárása
+## 17/A.[^121] A KNEB egyéb hozzájárulási eljárása
 
 37/B. § (1) A KNEB kérelemre a Méptv. 154. § (6) bekezdésében meghatározott hozzájáruló nyilatkozat kiadása érdekében az e §-ban foglaltak alapján eljárást folytat le
 
@@ -46,4 +46,4 @@ b) az eredeti állapot helyreállítására kötelezi a tevékenységet végzőt
 
 (9) Ha a végezni kívánt tevékenység jellegét, tartalmát vagy ütemezését tekintve a kérelem benyújtását követően megváltozik, a kérelmező új kérelmet nyújt be a KNEB-hez.
 
-[^120]: A 17/A. alcímet (37/B. §-t) a 424/2024. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^121]: A 17/A. alcímet (37/B. §-t) a 424/2024. (XII. 23.) Korm. rendelet 10. §-a iktatta be.

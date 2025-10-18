@@ -4,6 +4,6 @@
 
 ## 252/2006. (XII. 7.) Korm. rendelet módosítása
 
-55. §[^160]
+55. §[^161]
 
-[^160]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^161]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
