@@ -12,11 +12,11 @@
 
 | 6. | Budapest közigazgatási területén elhelyezkedő, 74350 helyrajzi számú ingatlan | Budapest Fővárosi Kormányhivatalát vezető főispán |
 
-| 7. | Budapest közigazgatási területén elhelyezkedő, 75100/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
+| 7. |  |  |
 
-| 8. | Budapest közigazgatási területén elhelyezkedő, 75100/7 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
+| 8. |  |  |
 
-| 9. | Budapest közigazgatási területén elhelyezkedő, 75100/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
+| 9. |  |  |
 
 | 10. | Budapest közigazgatási területén elhelyezkedő, 76491/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
