@@ -1,0 +1,9 @@
+# 316/2025. (X. 17.) Korm. rendelet
+
+az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet egyes rendelkezéseinek hatályon kívül helyezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-316-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-10-18 | 2025-316-20-22.1 | 316/2025. (X. 17.) Korm. rendelet |
