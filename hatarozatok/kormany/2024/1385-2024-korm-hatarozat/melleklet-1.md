@@ -50,6 +50,10 @@
 
 | 19. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 150 fő | szövetséges országok | NATO, EU országok |
 
+| 20.[^1] | NATO Mission MQ-9 misszió keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | NATO Mission MQ-9 misszióban részt vevő országok | Románia |
+
+| 21.[^2] | Operation Biloxi keretében történő áthaladások | a nemzetközi mandátum időtartamára | egyidejűleg legfeljebb 500 fő | Operation Biloxi műveletben részt vevő országok | Románia |
+
 2. Magyarországon települő nemzetközi katonai szervezetekkel kapcsolatos csapatmozgások
 
 |  | A | B | C | D | E |
@@ -63,3 +67,6 @@
 | 4. | NFIU HUN csapatmozgások | a nemzetközi mandátum időtartamára | 1000 | NATO, EU országok | Magyarország, NATO, EU országok |
 
 | 5. | HQ MND-C csapatmozgások | a nemzetközi mandátum időtartamára | 1000 | NATO, EU országok | Magyarország, NATO, EU országok |
+
+[^1]: Az 1. melléklet 1. pontjában foglalt táblázat 20. sorát az 1374/2025. (X. 17.) Korm. határozat 1. pontja iktatta be.
+[^2]: Az 1. melléklet 1. pontjában foglalt táblázat 21. sorát az 1374/2025. (X. 17.) Korm. határozat 1. pontja iktatta be.
