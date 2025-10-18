@@ -1,1 +1,3 @@
-79. § Hatályát veszti a pilóta nélküli állami légijárművek repüléséről szóló 38/2021. (II. 2.) Korm. rendelet.
+79. §[^1]
+
+[^1]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
