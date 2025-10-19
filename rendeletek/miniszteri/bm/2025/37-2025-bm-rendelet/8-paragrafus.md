@@ -1,7 +1,3 @@
-8. § Hatályát veszti az 59/2007. (XII. 29.) EüM rendelet
+8. §[^9]
 
-a) 3. § (8) bekezdés a) pontja,
-
-b) 3. § b) pontjában az „és” szövegrész,
-
-c) 3. § (10) bekezdése.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § (1) Az 59/2007. (XII. 29.) EüM rendelet 1. számú melléklete helyébe az 1. melléklet lép.
+6. §[^7]
 
-(2) Az 59/2007. (XII. 29.) EüM rendelet 3. számú melléklete helyébe a 2. melléklet lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
