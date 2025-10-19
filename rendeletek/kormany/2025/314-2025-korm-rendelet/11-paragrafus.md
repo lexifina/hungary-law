@@ -1,1 +1,3 @@
-11. § Hatályát veszti a Rendelet 26/D. § (1) bekezdés h) pontjában az „a támogatási kérelem benyújtását megelőző 2 naptári éven belül és a támogatási szerződés aláírásakor” szövegrész.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
