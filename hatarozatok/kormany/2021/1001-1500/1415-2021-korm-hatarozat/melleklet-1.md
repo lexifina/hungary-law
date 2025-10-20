@@ -96,23 +96,49 @@
 
 | Határidő: | a 2026. évtől kezdődően a központi költségvetés tervezése során |
 
-## 2.[^6]
+## m) [^6] egyetért a Piliscsaba, belterület 1602/4/B helyrajzi szám alatti ingatlan (a továbbiakban: Kollégiumépület) 1/1 tulajdoni hányad arányú tulajdonjogának az állam javára adásvétel útján történő megszerzésével;
 
-## 3.[^7]
+## n) [^7] felhívja a nemzetgazdasági minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zrt. útján – gondoskodjon az m) alpontban részletezett adásvétel érdekében adásvételi szerződés megkötéséről a 2025. évben nettó 1 640 000 000 forint összegű vételár megfizetése mellett, azzal, hogy a teljes vételár megfizetése két részletben történjen, a következők szerint:
 
-## 4.[^8]
+## na) az első részlet – a vételár 10%-a – foglalóként a 2025. évben az adásvételi szerződés létrejöttét követő 15. napig,
 
-## 5.[^9]
+## nb) a második részlet 2026. március 31. napjáig
 
-1. melléklet az 1415/2021. (VI. 30.) Korm. határozathoz[^10]
+## kerüljön kifizetésre;
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | az adásvételi szerződés megkötésére az e határozat közzétételét követő 30 napon belül |
+
+## o) [^8] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az m) alpontban meghatározott feladat finanszírozása érdekében a 2026. évben 1 640 000 000 forint forrás rendelkezésre állásáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény (a továbbiakban: 2026. évi Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások jogcímcsoport, 1. Ingatlan beruházások, ingatlan és egyéb eszközök vásárlása jogcím javára, valamint a 2026. évi Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím terhére;
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | a felmerülés ütemében |
+
+## p) [^9] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdésében biztosított jogkörében eljárva az m) alpont szerinti jogügylet finanszírozása érdekében a 2026. évi Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások jogcímcsoport, 1. Ingatlan beruházások, ingatlan és egyéb eszközök vásárlása jogcím vonatkozásában a szabad előirányzatot meghaladó mértékű kötelezettségvállalást nettó 1 640 000 000 forintban állapítja meg.
+
+## 2.[^10]
+
+## 3.[^11]
+
+## 4.[^12]
+
+## 5.[^13]
+
+1. melléklet az 1415/2021. (VI. 30.) Korm. határozathoz[^14]
 
 [^1]: Az 1. pont h) alpontját az 1079/2024. (III. 28.) Korm. határozat iktatta be.
 [^2]: Az 1. pont i) alpontját az 1079/2024. (III. 28.) Korm. határozat iktatta be.
 [^3]: Az 1. pont j) alpontját az 1181/2024. (VI. 20.) Korm. határozat szövege iktatta be.
 [^4]: Az 1. pont k) alpontját az 1181/2024. (VI. 20.) Korm. határozat szövege iktatta be.
 [^5]: Az 1. pont l) alpontját az 1181/2024. (VI. 20.) Korm. határozat szövege iktatta be.
-[^6]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. pont m) alpontját az 1382/2025. (X. 20.) Korm. határozat iktatta be.
+[^7]: Az 1. pont n) alpontját az 1382/2025. (X. 20.) Korm. határozat iktatta be.
+[^8]: Az 1. pont o) alpontját az 1382/2025. (X. 20.) Korm. határozat iktatta be.
+[^9]: Az 1. pont p) alpontját az 1382/2025. (X. 20.) Korm. határozat iktatta be.
+[^10]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
