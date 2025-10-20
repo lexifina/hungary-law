@@ -1,16 +1,20 @@
 A Kormány
 
-1.[^1] egyetért azzal, hogy Válon a műemlék Ürményi–Dreher-kastély és a hozzá tartozó park, valamint a korábbi történeti állapotnak megfelelő ingatlanegyüttes hasznosítása a kastélypark eredeti állapotának minél teljesebb mértékű helyreállítására és felújítására irányuló alábbi fejlesztések megvalósuljanak:
+1.[^1] egyetért azzal, hogy Válon a műemlék Ürményi–Dreher-kastély és a hozzá tartozó park, valamint a korábbi történeti állapotnak megfelelő ingatlanegyüttes hasznosítására a kastélypark eredeti állapotának minél teljesebb mértékű helyreállítására és felújítására irányuló a)–f) alpont szerinti fejlesztések, valamint a g) pont szerinti fejlesztés megvalósuljanak:
 
 a) az Ürményi–Dreher-kastély és kertjének rekonstrukciója, funkcióbővítő átalakítása,
 
-b) a Szolgabíróság (volt iskola) épületének rekonstrukciója és átalakítása új funkcióval,
+b) az egykori szolgabíróság (volt iskola) épületének rekonstrukciója és átalakítása új funkcióval,
 
-c) a „Rongyos” (gazdasági) terület hasznosítása kiszolgáló funkciókra,
+c) az ún. „Rongyos” (gazdasági) terület hasznosítása kiszolgáló funkciókra,
 
 d) a Magtár turisztikai és kulturális célú hasznosítása, átalakítása,
 
-e) a Nagypince vendéglátási, turisztikai és kulturális célú hasznosítása;
+e) a Nagypince vendéglátási, turisztikai és kulturális célú hasznosítása,
+
+f) az Ürményi Mauzóleum épületének rekonstrukciója,
+
+g) oktatási-nevelési célú, kulturális és sportközpont kialakításának előkészítése;
 
 2. egyetért a Vereb–Vál–Gyúró–Etyek új úthálózati elem létesítésének szükségességével, azzal, hogy a fejlesztést 2026-ig szükséges megvalósítani;
 
@@ -26,7 +30,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2020. évi központi költségvetés végrehajtása során, az a) és b) alpont szerinti ütemezéssel
 
-5.[^3] felhívja a pénzügyminisztert, hogy a 4. pont alapján biztosított forrás terhére létesítsen támogatási jogviszonyt a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanáccsal, azzal, hogy az előkészítési feladatokat 2024. december 31-ig szükséges megvalósítani;
+5.[^3] felhívja a pénzügyminisztert, hogy a 4. pont alapján biztosított forrás terhére létesítsen támogatási jogviszonyt a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanáccsal, azzal, hogy az előkészítési feladatokat 2027. december 31-ig szükséges megvalósítani;
 
 Felelős: pénzügyminiszter
 
@@ -56,6 +60,6 @@ pénzügyminiszter
 
 Határidő: a 2. pont szerinti fejlesztés 4. pont eredményeként történő előkészítését követően
 
-[^1]: Az 1. pont nyitó szövegrésze az 1232/2023. (VI. 16.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1377/2025. (X. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont az 1232/2023. (VI. 16.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
-[^3]: Az 5. pont az 1232/2023. (VI. 16.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1377/2025. (X. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
