@@ -8,7 +8,7 @@
 
 (4) A kérelem benyújtásakor csatolni kell a sportakadémia képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát, az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát.
 
-(5) A sportakadémia a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
+(5)[^1] A sportakadémia előfinanszírozott támogatás esetén a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
 
 a) 4. § (2) bekezdés b)–f) pontjában foglaltaknak megfelel,
 
@@ -17,3 +17,18 @@ b) 4. § (2) bekezdés b)–f) pontjában foglalt igazolásokkal, nyilatkozatokk
 c) 4. § (2) bekezdés b)–f) pontjában előírt kötelezettségeket teljesíti,
 
 azzal, hogy a szükséges dokumentumok meglétét a jóváhagyást végző szervezet a sportfejlesztési program jóváhagyása során ellenőrzi.
+
+(6)[^2] A sportakadémia utófinanszírozott támogatás esetén a kérelemben nyilatkozik arról, hogy a látvány-csapatsport támogatásáról szóló kormányrendelet
+
+a) 4. § (2) bekezdés b), c), e) és f) pontjában foglaltaknak megfelel,
+
+b) 4. § (2) bekezdés b), c), e) és f) pontjában foglalt igazolásokkal, nyilatkozatokkal, engedélyekkel rendelkezik,
+
+c) 4. § (2) bekezdés b), c), e) és f) pontjában előírt kötelezettségeket teljesíti, és
+
+d) amennyiben a kérelem építési beruházásra irányul, úgy rendelkezik az építésügyi hatóság arról szóló szakmai nyilatkozatával, hogy a bejelentésben megjelölt építési tevékenység építési engedély nélkül végezhető, vagy vállalja, hogy a végleges építési engedélyt az első elszámolás vagy részelszámolás benyújtásával egyidejűleg az ellenőrző szervezethez benyújtja,
+
+azzal, hogy a szükséges dokumentumok meglétét a jóváhagyást végző szervezet a sportfejlesztési program jóváhagyása során ellenőrzi.
+
+[^1]: A 3. § (5) bekezdése a 322/2025. (X. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (6) bekezdését a 322/2025. (X. 20.) Korm. rendelet 1. §-a iktatta be.
