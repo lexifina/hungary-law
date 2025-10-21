@@ -26,6 +26,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1060/2025. (III. 13.) Korm. határozat 1. pont b) alpontjában a „2025. december 31.” szövegrész helyébe a „2025. december 31., a Fenntarthatósági és modernizációs vasúti fejlesztések előirányzat részére biztosított 2 000 000 000 forint tekintetében 2027. szeptember 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1379/2025. (X. 20.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
