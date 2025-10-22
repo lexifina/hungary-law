@@ -1,6 +1,6 @@
 ## 31. Interreg VI-A Románia–Magyarország Program
 
-81. §[^58] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
+81. §[^62] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
 
 1. az éghajlatváltozáshoz való alkalmazkodás és a katasztrófakockázatok megelőzése, valamint a reziliencia előmozdítása, figyelembe véve az ökoszisztéma-alapú megközelítéseket,
 
@@ -18,4 +18,4 @@
 
 8. a kölcsönös bizalom kiépítése, különösen az emberek közötti fellépések ösztönzésével.
 
-[^58]: A 81. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 22. pontja szerint módosított szöveg.
+[^62]: A 81. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 22. pontja szerint módosított szöveg.

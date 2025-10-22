@@ -1,4 +1,4 @@
-96. §[^69] (1) Beruházási támogatás keretében a tárgyi eszközök és az immateriális javak következő költségei számolhatók el:
+96. §[^73] (1) Beruházási támogatás keretében a tárgyi eszközök és az immateriális javak következő költségei számolhatók el:
 
 a) az infrastruktúra építésének, korszerűsítésének, bővítésének, megvásárlásának, megőrzésének és fejlesztésének költsége, ha az infrastruktúra időbeli vagy térbeli kapacitását évente legalább 80%-ban kulturális célra használják,
 
@@ -20,4 +20,4 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 kell levonni az elszámolható költségekből.
 
-[^69]: A 96. § a 66/2024. (III. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^73]: A 96. § a 66/2024. (III. 28.) Korm. rendelet 14. §-ával megállapított szöveg.

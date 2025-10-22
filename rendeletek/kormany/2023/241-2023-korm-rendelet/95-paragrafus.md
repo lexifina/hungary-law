@@ -4,7 +4,7 @@
 
 (2) A támogatás − a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével − a következőkhöz nyújtható:
 
-a)[^68] múzeum, levéltár, könyvtár, művészeti és kulturális központ vagy kulturális tér, színház, filmszínház, operaház, koncertterem, egyéb élő előadásokat bemutató szervezet, filmművészeti örökséggel foglalkozó intézmény és egyéb, hasonló művészeti és kulturális infrastruktúra, szervezet és intézmény,
+a)[^72] múzeum, levéltár, könyvtár, művészeti és kulturális központ vagy kulturális tér, színház, filmszínház, operaház, koncertterem, egyéb élő előadásokat bemutató szervezet, filmművészeti örökséggel foglalkozó intézmény és egyéb, hasonló művészeti és kulturális infrastruktúra, szervezet és intézmény,
 
 b) tárgyi kulturális örökség, régészeti lelőhely, emlékmű, történelmi emlékhely és épület, a kulturális örökséghez kapcsolódó természeti örökség, kulturális vagy természeti örökséggé nyilvánított örökség,
 
@@ -16,4 +16,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^68]: A 95. § (2) bekezdés a) pontja a 66/2024. (III. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^72]: A 95. § (2) bekezdés a) pontja a 66/2024. (III. 28.) Korm. rendelet 13. §-ával megállapított szöveg.

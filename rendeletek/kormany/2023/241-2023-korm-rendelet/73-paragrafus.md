@@ -1,6 +1,6 @@
 ## 27. Interreg VI-A Magyarország–Szlovákia Program
 
-73. §[^47] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
+73. §[^51] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
 
 1. a körforgásos és erőforrás-hatékony gazdaságra való átállás előmozdítása,
 
@@ -18,4 +18,4 @@
 
 8. a kölcsönös bizalom építése, különösen az emberek közötti kapcsolatokat erősítő fellépések előmozdításával.
 
-[^47]: A 73. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 14. pontja szerint módosított szöveg.
+[^51]: A 73. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 14. pontja szerint módosított szöveg.

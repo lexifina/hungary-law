@@ -1,4 +1,4 @@
-## 31/A.[^59] Az Interreg VI-A Magyarország–Horvátország Program
+## 31/A.[^63] Az Interreg VI-A Magyarország–Horvátország Program
 
 82/A. § Az Európai Területi Együttműködés (2021–2027) előirányzatából nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
 
@@ -18,4 +18,4 @@
 
 8. kölcsönös bizalom kiépítése, különösen az emberek közötti fellépések ösztönzésével.
 
-[^59]: A 31/A. alcímet (82/A–82/B. §-t) a 66/2024. (III. 28.) Korm. rendelet 8. §-a iktatta be.
+[^63]: A 31/A. alcímet (82/A–82/B. §-t) a 66/2024. (III. 28.) Korm. rendelet 8. §-a iktatta be.

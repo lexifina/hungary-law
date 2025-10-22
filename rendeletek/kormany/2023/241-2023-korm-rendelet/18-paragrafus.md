@@ -1,14 +1,14 @@
-18. § (1) A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként gondoskodik a projektrészek megvalósításának helyszíni ellenőrzéséről az alábbiak szerint.
+18. § (1)[^27] A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként gondoskodik a projektrészek megvalósításának helyszíni ellenőrzéséről – amennyiben az adott program másként nem rendelkezik – az e §-ban foglaltak szerint.
 
 (2) Legalább egy helyszíni ellenőrzést le kell folytatni abban az esetben, ha a projektrész infrastrukturális fejlesztést vagy
 
-a)[^27] az 1. § (1) bekezdés a), valamint d)–g) pontja szerinti programok esetén 10 000 euró feletti eszközbeszerzést vagy
+a)[^28] az 1. § (1) bekezdés a), valamint d)–g) pontja szerinti programok esetén 10 000 euró feletti eszközbeszerzést vagy
 
 b) az 1. § (1) bekezdés b) és c) pontja szerinti programok esetén 20 000 euró feletti eszközbeszerzést
 
 tartalmaz.
 
-(3) A (2) bekezdésbe nem sorolható projektrészek esetében a helyszíni ellenőrzés kockázatelemzésen alapuló mintavételen keresztül valósul meg. A kockázatelemzés módszertanát a nemzeti hatóság hagyja jóvá.
+(3)[^29] A (2) bekezdésben foglaltakon kívül a hitelesítési tevékenységre kijelölt szervezet bármely projektrész megvalósítását – a partner előzetes értesítése nélkül is – helyszíni ellenőrzés keretében ellenőrizheti.
 
 (4) A helyszíni ellenőrzést legkésőbb a projektrész zárójelentéséhez kapcsolódó hitelesítési tevékenység részeként kell lefolytatni.
 
@@ -32,4 +32,6 @@ h) az elkülönített számviteli nyilvántartás vezetését.
 
 (6) A helyszíni ellenőrzésről készült jegyzőkönyvet a hitelesítési tevékenységet végző szervezet feltölti a határon átnyúló Interreg programok elektronikus monitoring és információs rendszerébe.
 
-[^27]: A 18. § (2) bekezdés a) pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^27]: A 18. § (1) bekezdése a 312/2025. (X. 14.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^28]: A 18. § (2) bekezdés a) pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^29]: A 18. § (3) bekezdése a 312/2025. (X. 14.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-90. §[^62] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
+90. §[^66] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
 1. az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás esetén vállalkozásonként és projektenként meghaladja a 2,2 millió eurónak megfelelő forintösszeget,
 
@@ -10,4 +10,4 @@
 
 5. helyi infrastruktúra fejlesztésére irányuló támogatás esetén meghaladja egyazon infrastruktúra esetén a 11 millió eurónak megfelelő forintösszeget vagy a 22 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
-[^62]: A 90. § a 66/2024. (III. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^66]: A 90. § a 66/2024. (III. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

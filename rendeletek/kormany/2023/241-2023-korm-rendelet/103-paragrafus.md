@@ -1,6 +1,6 @@
-## 38.[^78] A helyi infrastruktúrára irányuló támogatás
+## 38.[^82] A helyi infrastruktúrára irányuló támogatás
 
-103. §[^79] (1) Helyi infrastruktúrára irányuló támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
+103. §[^83] (1) Helyi infrastruktúrára irányuló támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
 (2) Nem nyújtható támogatás
 
@@ -12,5 +12,5 @@ b) dedikált infrastruktúra fejlesztéséhez.
 
 (4) Az infrastruktúra működtetését koncesszióba adni vagy azzal harmadik felet megbízni csak nyílt, átlátható és megkülönböztetésmentes módon, a gazdaságilag legelőnyösebb ajánlat alapján, a vonatkozó koncessziós és közbeszerzési jogszabályok betartásával lehet.
 
-[^78]: A 38. alcím címe a 66/2024. (III. 28.) Korm. rendelet 20. § 27. pontja szerint módosított szöveg.
-[^79]: A 103. § a 66/2024. (III. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^82]: A 38. alcím címe a 66/2024. (III. 28.) Korm. rendelet 20. § 27. pontja szerint módosított szöveg.
+[^83]: A 103. § a 66/2024. (III. 28.) Korm. rendelet 17. §-ával megállapított szöveg.

@@ -14,12 +14,12 @@ f) a szabálytalanság vagy pénzügyi hiba oka kizárólag számítási hiba.
 
 (2) Ha a szabálytalanság vagy pénzügyi hiba gyanúja az (1) bekezdés a)–d) pontja szerinti ügyben érkezett a hitelesítési tevékenységre kijelölt szervezet szabálytalanság-felelőséhez, akkor a szervezet vezetője javaslatot tehet szabálytalanság szabálytalansági vizsgálat lefolytatása nélküli megállapítására, valamint az alkalmazandó jogkövetkezményekre.
 
-(3)[^31] Nem kell szabálytalansági eljárást indítani a hazai partnerrel szemben, ha az audit hatóság vagy az auditor csoport hazai tagja azt állapítja meg, hogy a központosított közbeszerzési eljárás keretében, a hazai partner által megkötött szerződés alapján elszámolni kért költség a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárásra visszavezethető okból nem számolható el teljeskörűen az Európai Bizottsággal.
+(3)[^35] Nem kell szabálytalansági eljárást indítani a hazai partnerrel szemben, ha az audit hatóság vagy az auditor csoport hazai tagja azt állapítja meg, hogy a központosított közbeszerzési eljárás keretében, a hazai partner által megkötött szerződés alapján elszámolni kért költség a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárásra visszavezethető okból nem számolható el teljeskörűen az Európai Bizottsággal.
 
-(4)[^32] Ha a keretmegállapodás vagy a dinamikus beszerzési rendszer a (3) bekezdés szerinti elszámolhatósági korláttal érintett, az audit hatóság vagy auditor csoport hazai tagja által meghatározott pénzügyi korrekció mértékével arányos mértékben csökken a hazai partner beszerzésének elszámolható költsége.
+(4)[^36] Ha a keretmegállapodás vagy a dinamikus beszerzési rendszer a (3) bekezdés szerinti elszámolhatósági korláttal érintett, az audit hatóság vagy auditor csoport hazai tagja által meghatározott pénzügyi korrekció mértékével arányos mértékben csökken a hazai partner beszerzésének elszámolható költsége.
 
-(5)[^33] A (4) bekezdés alapján keletkezett el nem számolható összeg a Magyarország központi költségvetéséről szóló törvény XIX. Uniós fejlesztések költségvetési fejezet hazai forrása terhére számolható el, azzal, hogy az érintett összeget a hazai partner költségvetésében zárolni kell.
+(5)[^37] A (4) bekezdés alapján keletkezett el nem számolható összeg a Magyarország központi költségvetéséről szóló törvény XIX. Uniós fejlesztések költségvetési fejezet hazai forrása terhére számolható el, azzal, hogy az érintett összeget a hazai partner költségvetésében zárolni kell.
 
-[^31]: A 26. § (3) bekezdését a 69/2025. (IV. 7.) Korm. rendelet 7. §-a iktatta be.
-[^32]: A 26. § (4) bekezdését a 69/2025. (IV. 7.) Korm. rendelet 7. §-a iktatta be.
-[^33]: A 26. § (5) bekezdését a 69/2025. (IV. 7.) Korm. rendelet 7. §-a iktatta be.
+[^35]: A 26. § (3) bekezdését a 69/2025. (IV. 7.) Korm. rendelet 7. §-a iktatta be.
+[^36]: A 26. § (4) bekezdését a 69/2025. (IV. 7.) Korm. rendelet 7. §-a iktatta be.
+[^37]: A 26. § (5) bekezdését a 69/2025. (IV. 7.) Korm. rendelet 7. §-a iktatta be.

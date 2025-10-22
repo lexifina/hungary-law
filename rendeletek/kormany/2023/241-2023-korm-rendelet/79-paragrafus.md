@@ -1,6 +1,6 @@
 ## 30. Interreg VI-A Ausztria–Magyarország Program
 
-79. §[^57] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
+79. §[^61] Az Európai Területi Együttműködés (2021–2027) előirányzatból nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
 
 1. az éghajlatváltozáshoz való alkalmazkodás, valamint a katasztrófakockázatok megelőzése és az ellenálló-képesség javítása, figyelembe véve az ökoszisztéma-alapú megközelítéseket,
 
@@ -16,4 +16,4 @@
 
 7. a hatékony közigazgatás fokozása a jogi és közigazgatási együttműködés, valamint a polgárok, a civil társadalom szereplői és az intézmények közötti együttműködés előmozdításával, különösen a határ menti régiókban fennálló jogi és egyéb akadályok megoldása érdekében.
 
-[^57]: A 79. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 21. pontja szerint módosított szöveg.
+[^61]: A 79. § nyitó szövegrésze a 66/2024. (III. 28.) Korm. rendelet 20. § 21. pontja szerint módosított szöveg.
