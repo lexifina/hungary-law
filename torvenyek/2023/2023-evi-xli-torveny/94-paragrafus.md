@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 11. §-ában az „a 7. §” szövegrész helyébe az „a 6/I. §, a 7. §” szöveg,
 
 c)
 
