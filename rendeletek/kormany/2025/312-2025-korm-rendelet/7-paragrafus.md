@@ -1,0 +1,1 @@
+7. § Ez a rendelet a határrégiók fejlesztési és növekedési eszközéről (BRIDGEforEU) szóló, 2025. május 7-i (EU) 2025/925 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
