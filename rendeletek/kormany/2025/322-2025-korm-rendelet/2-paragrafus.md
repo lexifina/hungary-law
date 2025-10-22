@@ -1,3 +1,3 @@
-2. § Az R. 5. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„5. § Az e rendelet alapján benyújtott és jóváhagyott vagy részben jóváhagyott sportfejlesztési programok – a tárgyi eszköz beruházásra, felújításra irányuló sportfejlesztési programok kivételével – nem módosíthatók és nem hosszabbíthatók meg.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
