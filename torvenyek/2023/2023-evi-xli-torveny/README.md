@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-41-00-00
 | 2024-01-01 | 2023. évi LXXXV. törvény | 2023-41-00-00.11 |
 | 2024-01-02 | 2010. évi CXXX. törvény | 2023-41-00-00.12 |
 | 2025-10-22 | 3/2025. (XII. 8.) NGM határozat | 2023-41-00-00.13 |
+| 2025-10-23 | 2010. évi CXXX. törvény | 2023-41-00-00.14 |
