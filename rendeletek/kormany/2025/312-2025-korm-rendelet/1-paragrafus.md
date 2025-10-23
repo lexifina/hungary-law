@@ -4,6 +4,6 @@
 
 ## [3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a–15c. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A 2021–2027 programozási időszakban megvalósuló határon átnyúló Interreg programok végrehajtásáról szóló 241/2023. (VI. 20.) Korm. rendelet (a továbbiakban: Rendelet) 21/A. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-(Jogviszonya létesítésével egyidejűleg vagy a jogviszony alapján végzett tevékenység megkezdését megelőzően általános összeférhetetlenségi nyilatkozatot és – az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről című 2021/C 121/01 európai bizottsági közlemény 6.3. pontja szerinti adatokat is tartalmazó – érdekeltségi nyilatkozatot tesz)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
