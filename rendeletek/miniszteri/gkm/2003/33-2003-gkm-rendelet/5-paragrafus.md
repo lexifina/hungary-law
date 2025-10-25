@@ -1,10 +1,8 @@
-## 4. §[^4] A katasztrófavédelmi feladatok ellátására külön jogszabály[^5] alapján létrehozott Közlekedési Védekezési Munkabizottság, valamint Ipari Védekezési Munkabizottság (a továbbiakban együtt: védekezési munkabizottság) működik. A védekezési munkabizottságot a katasztrófavédelmi feladatok ellátását felügyelő helyettes államtitkár vezeti, feladatait, összetételét és működési rendjét a védekezési munkabizottság ügyrendje tartalmazza. A védekezési munkabizottság az ügyrendjét maga állapítja meg, és azt a minisztériumot vezető miniszter hagyja jóvá.
-
 ## A védekezési munkabizottságba kijelölt hatósági jogköröket gyakorló ágazati szervek és feladataik
 
 5. § (1) A védekezési munkabizottságban – a kijelölt minisztériumi szakfőosztályokon kívül – állandó tagként a következő ágazati szervek vesznek részt:
 
-a)[^6] a Közlekedési Védekezési Munkabizottságban a közlekedési hatóság,
+a)[^6]
 
 b)[^7] az Ipari Védekezési Munkabizottságban a Budapest Főváros Kormányhivatala, a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet) és a Magyar Energetikai és Közmű-szabályozási Hivatal.
 
@@ -20,9 +18,7 @@ d) katasztrófa esetén a minisztérium védekezési munkabizottsága, illetve a
 
 e) feladat- és hatáskörüknek megfelelően gondoskodnak a részükre külön intézkedés szerint meghatározott adatgyűjtési, adatszolgáltatási és egyéb információs feladatok ellátásáról.
 
-[^4]: A 4. § az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^5]: A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény végrehajtásáról szóló 179/1999. (XII. 10.) Korm. rendelet (a továbbiakban: Vhr.) 5. § (1) bekezdés.
-[^6]: Az 5. § (1) bekezdés a) pontja az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés a) pontját a 30/2025. (IX. 25.) ÉKM rendelet 6. § b) pontja hatályon kívül helyezte.
 [^7]: Az 5. § (1) bekezdésének b) pontja a 86/2006. (XII. 26.) GKM rendelet 9. § (1) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés d)–e) pontja, a 24/2017. (VI. 30.) NFM rendelet 1. § a) pontja, a 2/2022. (I. 7.) ITM rendelet 1. § a) pontja szerint módosított szöveg.
 [^8]: Az 5. § (2) bekezdés b) pontja a 2/2023. (II. 20.) ÉKM rendelet 4. § a) pontja szerint módosított szöveg.
 [^9]: Vhr.
