@@ -1,0 +1,1 @@
+2. § E rendelet alkalmazásában ágazathoz tartozó szervezet: az építési és közlekedési miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium), valamint a miniszter irányítása, felügyelete alá tartozó költségvetési szerv, alapítói joggyakorlása alá tartozó alapítvány, valamint tulajdonosi joggyakorlása alá tartozó gazdasági társaság.
