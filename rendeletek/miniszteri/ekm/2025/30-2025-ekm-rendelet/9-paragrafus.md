@@ -1,1 +1,3 @@
-9. § Hatályát veszti az ÉKM r. 5. § (1) bekezdése és 2. melléklete.
+9. §[^4]
+
+[^4]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
