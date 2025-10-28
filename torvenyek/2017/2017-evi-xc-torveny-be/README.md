@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2025-08-19 | 2025. évi XLIX. törvény | 2017-90-00-00.36 |
 | 2025-08-20 | 2025. évi LXVI. törvény | 2017-90-00-00.39 |
 | 2025-09-01 | 2025. évi XLIX. törvény | 2017-90-00-00.37 |
+| 2025-10-28 | 2024. évi XCI. törvény | 2017-90-00-00.40 |

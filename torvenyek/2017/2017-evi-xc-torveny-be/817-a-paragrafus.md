@@ -12,7 +12,7 @@ ab) a vesztegetés elfogadása enyhébben minősülő esetét [Btk. 291. § (1) 
 
 b) a hivatali visszaélés (Btk. 305. §), kivéve, ha azt rendvédelmi szervnél, nemzetbiztonsági szolgálatnál, Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél nem vezető beosztású hivatalos személy követi el;
 
-c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
+c) a vagyon elleni bűncselekmények közül a nemzeti vagyonra, a HUN-REN Magyar Kutatási Hálózat vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által kezelt vagyonra elkövetett vagy ilyen vagyonban kárt okozó
 
 ca) sikkasztás súlyosabban minősülő esetei [Btk. 372. § (4)–(6) bekezdés],
 
