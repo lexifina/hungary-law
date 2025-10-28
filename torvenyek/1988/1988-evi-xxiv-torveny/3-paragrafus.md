@@ -8,7 +8,7 @@ c) olyan belföldi székhelyű gazdasági társaság, egyesülés vagy szövetke
 
 (2) Az (1) bekezdést nem kell alkalmazni a következő gazdasági tevékenységekre, ha a külföldi a tevékenység végzéséhez belföldön alkalmazottat nem foglalkoztat, ideértve a külföldön foglalkoztatott alkalmazott vagy megbízott Magyarországra történő kirendelését vagy kiküldését is:
 
-a) nevelési-oktatási intézménynél, szakképzési intézménynél, felsőoktatási intézménynél oktatási, kutatási tevékenység,
+a) nevelési-oktatási intézménynél, szakképzési intézménynél, felsőoktatási intézménynél, valamint a HUN-REN Magyar Kutatási Hálózatnál oktatási, kutatási tevékenység,
 
 b) előadó-művészi tevékenység,
 

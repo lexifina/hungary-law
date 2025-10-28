@@ -2,4 +2,4 @@
 
 ## Külföldi részvétellel működő társaság alapítása, részesedés szerzése működő társaságban
 
-7. §
+### 7. §

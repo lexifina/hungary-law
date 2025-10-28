@@ -2,4 +2,4 @@
 
 ## A társaságok működési feltételei
 
-14. §
+### 14. §
