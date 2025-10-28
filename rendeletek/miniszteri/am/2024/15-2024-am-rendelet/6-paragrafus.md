@@ -1,4 +1,4 @@
-6. §[^19] (1)[^20] A Tkt rendelet 22. §-a szerinti támogatás esetén a mezőgazdasági termelőnek, aki
+6. §[^22] (1)[^23] A Tkt rendelet 22. §-a szerinti támogatás esetén a mezőgazdasági termelőnek, aki
 
 a) közvetlenül termel cukorrépát, a Tkt rendelet 22. § (1) bekezdés c) pontja szerinti szállítási szerződés másolatát,
 
@@ -8,17 +8,17 @@ kell az egységes kérelemhez csatolnia.
 
 (2) A Tkt rendelet
 
-a)[^21] 26. §-a szerinti támogatás esetén a mezőgazdasági termelőnek a Tkt rendelet 25. § (1) bekezdés d) pontja szerinti nyilatkozatot,
+a)[^24] 26. §-a szerinti támogatás esetén a mezőgazdasági termelőnek a Tkt rendelet 25. § (1) bekezdés d) pontja szerinti nyilatkozatot,
 
-b)[^22] 27. §-a szerinti támogatás esetén a mezőgazdasági termelőnek a Tkt rendelet 26. § (1) bekezdés c) pontja szerinti nyilatkozatot
+b)[^25] 27. §-a szerinti támogatás esetén a mezőgazdasági termelőnek a Tkt rendelet 26. § (1) bekezdés c) pontja szerinti nyilatkozatot
 
 kell az egységes kérelem felületen megtennie.
 
-(3)[^23] A Tkt rendelet 29. §-a szerinti támogatás esetén a mezőgazdasági termelőnek az első vetés évét, továbbá, ha a tárgyévben a Tkt rendelet 28. § (5) bekezdése szerinti felülvetés valósul meg, a felülvetés tényét és a felülvetéssel érintett terület nagyságát az egységes kérelemben kell megjelölnie.
+(3)[^26] A Tkt rendelet 29. §-a szerinti támogatás esetén a mezőgazdasági termelőnek az első vetés évét, továbbá, ha a tárgyévben a Tkt rendelet 28. § (5) bekezdése szerinti felülvetés valósul meg, a felülvetés tényét és a felülvetéssel érintett terület nagyságát az egységes kérelemben kell megjelölnie.
 
 (4) A mezőgazdasági termelő az egységes kérelemben megjelöli, hogy az adott táblán termesztett növénykultúra – vagy az egymás után termesztett növénykultúrák esetében mely növénykultúra – vonatkozásában igényli a termeléshez kötött közvetlen támogatást.
 
-(5)[^24] Ha a mezőgazdasági termelő
+(5)[^27] Ha a mezőgazdasági termelő
 
 a) a Tkt rendelet 18. § (1) bekezdés a)–f) pontja szerinti támogatást igényel,
 
@@ -28,9 +28,9 @@ c) nem rendelkezik a Tkt rendelet 7. § (3) bekezdés a) pontja szerinti vízjog
 
 akkor az egységes kérelem felületen nyilatkozhat arról, hogy az általa használt mezőgazdasági célú kút megfelel a vízgazdálkodásról szóló 1995. évi LVII. törvény 45/N. §-ában foglaltaknak.
 
-[^19]: [A 6. §-ban az 5/2025. (IV. 3.) AM rendelet 19. § 4. pontja által elrendelt módosítás, amely szerint a 6. § záró szövegrészében az „az egységes kérelemhez csatolnia” szövegrész helyébe az „az egységes kérelem felületen legkésőbb tárgyév szeptember 30-áig csatolja” szöveg lép, nem vezethető át.]
-[^20]: [Nem vezethető át a 33/2024. (V. 30.) AM rendelet 35. § b) pontjában foglalt azon módosítás, amely szerint a 6. § (1) bekezdésében a „22. §” szövegrész helyébe a „21. §” szöveg lép.]
-[^21]: A 6. § (2) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § c) pontja szerint módosított szöveg.
-[^22]: A 6. § (2) bekezdés b) pontja a 33/2024. (V. 30.) AM rendelet 35. § d) pontja szerint módosított szöveg.
-[^23]: A 6. § (3) bekezdése a 33/2024. (V. 30.) AM rendelet 35. § e) pontja szerint módosított szöveg.
-[^24]: [Nem vezethető át a 33/2024. (V. 30.) AM rendelet 35. § f) pontjában foglalt azon módosítás, amely szerint a 6. § (5) bekezdésében a „18. §” szövegrész helyébe a „17. §” szöveg lép.]
+[^22]: [A 6. §-ban az 5/2025. (IV. 3.) AM rendelet 19. § 4. pontja által elrendelt módosítás, amely szerint a 6. § záró szövegrészében az „az egységes kérelemhez csatolnia” szövegrész helyébe az „az egységes kérelem felületen legkésőbb tárgyév szeptember 30-áig csatolja” szöveg lép, nem vezethető át.]
+[^23]: [Nem vezethető át a 33/2024. (V. 30.) AM rendelet 35. § b) pontjában foglalt azon módosítás, amely szerint a 6. § (1) bekezdésében a „22. §” szövegrész helyébe a „21. §” szöveg lép.]
+[^24]: A 6. § (2) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § c) pontja szerint módosított szöveg.
+[^25]: A 6. § (2) bekezdés b) pontja a 33/2024. (V. 30.) AM rendelet 35. § d) pontja szerint módosított szöveg.
+[^26]: A 6. § (3) bekezdése a 33/2024. (V. 30.) AM rendelet 35. § e) pontja szerint módosított szöveg.
+[^27]: [Nem vezethető át a 33/2024. (V. 30.) AM rendelet 35. § f) pontjában foglalt azon módosítás, amely szerint a 6. § (5) bekezdésében a „18. §” szövegrész helyébe a „17. §” szöveg lép.]

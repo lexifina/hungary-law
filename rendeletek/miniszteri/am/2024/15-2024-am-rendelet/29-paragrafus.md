@@ -8,7 +8,7 @@ a) egy véletlenszerűen kiválasztott részből, valamint
 
 b) egy kockázatelemzés alapján kiválasztott részből, amely azon területekre összpontosít, ahol a legmagasabb a hibakockázat.
 
-(4)[^56] Az évente elvégzett helyszíni vizsgálatok mintájába bele kell foglalni az (1) bekezdés szerinti integrált rendszer hatálya alá tartozó támogatást igénylő mezőgazdasági termelők legalább 3%-át és a kendertermelésre bejelentett területek 30%-át.
+(4)[^59] Az évente elvégzett helyszíni vizsgálatok mintájába bele kell foglalni az (1) bekezdés szerinti integrált rendszer hatálya alá tartozó támogatást igénylő mezőgazdasági termelők legalább 3%-át és a kendertermelésre bejelentett területek 30%-át.
 
 (5) Az ellenőrzési minta – a meg nem felelés valószínűsége alapján – legalább 20%-át, de legfeljebb 40%-át véletlenszerűen, a fennmaradó részét kockázatelemzés alapján kell kiválasztani. Ha egy támogatás alkalmazása első évében a meg nem felelés valószínűsége előzetesen nem állapítható meg, lehetőség van kizárólag véletlenszerű módszer alkalmazására.
 
@@ -18,4 +18,4 @@ b) egy kockázatelemzés alapján kiválasztott részből, amely azon területek
 
 (8) Ha egy adott támogatással összefüggésben a véletlenszerűen kiválasztott kérelmek helyszíni ellenőrzése jelentős meg nem felelést tár fel, a Kincstár a következő évben – kizárólag a helyszíni vizsgálaton feltárt, jelentős meg nem felelés alapján – növeli a vizsgálatnak alávetendő mezőgazdasági termelők számát.
 
-[^56]: A 29. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 19. § 19. pontja, a 23/2025. (VI. 13.) AM rendelet 18. §-a szerint módosított szöveg.
+[^59]: A 29. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 19. § 19. pontja, a 23/2025. (VI. 13.) AM rendelet 18. §-a szerint módosított szöveg.

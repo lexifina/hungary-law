@@ -1,6 +1,6 @@
 8. § (1) A fiatal mezőgazdasági termelőnek – a FIG rendelet szerinti támogatás igénylésének első évében – az egységes kérelemben nyilatkoznia kell a FIG rendelet 2. § (5) bekezdés a) pontjában foglaltakról, továbbá arról, hogy – figyelemmel a FIG rendelet 2. § (5) bekezdés a) pont ac) alpontjában foglaltakra – rendelkezik-e mezőgazdasági vagy erdészeti szakirányú képzettséggel (a továbbiakban: szakirányú képzettség). Ha a mezőgazdasági termelő szakirányú képzettséggel
 
-a)[^30] rendelkezik, akkor legkésőbb a tárgyévi egységes kérelem benyújtásával egyidejűleg – a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet (a továbbiakban: KAP Vhr.) 8. § (5) bekezdésében foglaltakra figyelemmel – a KAP törvény 13. § (1) bekezdés f) pontja szerinti képzettségi nyilvántartásban kezdeményezi a képzettségére vonatkozó adatok feltöltését,
+a)[^33] rendelkezik, akkor legkésőbb a tárgyévi egységes kérelem benyújtásával egyidejűleg – a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet (a továbbiakban: KAP Vhr.) 8. § (5) bekezdésében foglaltakra figyelemmel – a KAP törvény 13. § (1) bekezdés f) pontja szerinti képzettségi nyilvántartásban kezdeményezi a képzettségére vonatkozó adatok feltöltését,
 
 b) nem rendelkezik, akkor a FIG rendelet 2. § (5) bekezdés a) pontja szerint nyilatkoznia kell, hogy rendelkezik legalább 730 nap, a FIG rendelet 2. § (5) bekezdés a) pont ac) alpontja szerinti gyakorlattal, és mellékelni kell a FIG rendelet 2. § (10) bekezdése szerinti igazolást.
 
@@ -30,4 +30,4 @@ is csatolnia kell az egységes kérelemhez.
 
 (8) A fiatal mezőgazdasági termelőnek az egységes kérelemben kell nyilatkoznia azon jogi személy nevéről, annak támogatási azonosítójáról, továbbá a tényleges és hosszú távú ellenőrzés megkezdésének időpontjáról, amelyben a fiatal mezőgazdasági termelő a mezőgazdasági tevékenységét a FIG rendelet 6. § (1) bekezdése szerint megkezdte.
 
-[^30]: A 8. § (1) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § h) pontja szerint módosított szöveg.
+[^33]: A 8. § (1) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § h) pontja szerint módosított szöveg.

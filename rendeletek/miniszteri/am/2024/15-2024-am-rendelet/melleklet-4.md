@@ -1,3 +1,5 @@
+## I. Nem termelő tájképi elemekre és egyéb tájképi elemekre vonatkozó inváziós fajok
+
 |  | A | B |
 
 | 1. | Magyar név | Tudományos név |
@@ -96,7 +98,7 @@
 
 | 13. | átellenes rucaöröm | Salvinia molesta (Salvinia adnata) |
 
-4. melléklet a 15/2024. (IV. 9.) AM rendelethez[^63]
+4. melléklet a 15/2024. (IV. 9.) AM rendelethez[^72]
 
 Az EMVA és EMGA állatalapú támogatások esetén alkalmazandó állategység átváltási arányok
 
@@ -138,4 +140,4 @@ Az EMVA és EMGA állatalapú támogatások esetén alkalmazandó állategység 
 
 | 18. | méh méhcsaládonként | 1 | 0,2 ÁE |
 
-[^63]: A 4. mellékletet az 5/2025. (IV. 3.) AM rendelet 18. §-a iktatta be.
+[^72]: A 4. mellékletet az 5/2025. (IV. 3.) AM rendelet 18. §-a iktatta be.

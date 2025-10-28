@@ -11,5 +11,3 @@
 3. melléklet a 15/2024. (IV. 9.) AM rendelethez
 
 Az inváziós növények listája
-
-I. Nem termelő tájképi elemekre és egyéb tájképi elemekre vonatkozó inváziós fajok

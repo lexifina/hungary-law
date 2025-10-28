@@ -24,7 +24,7 @@ c) a fás szárú gyümölcs- és szőlőültetvények a gyommentesen tartási k
 
 (5) Ha a nem termelő tájképi elem vagy egyéb tájképi elem vonatkozásában az inváziós növények jelenléte meghaladja az adott tájképi elem területének a 10%-át, az adott tájképi elem területe a támogatás szempontjából nem vehető figyelembe.
 
-(6)[^37] A (2)–(5) bekezdés nem alkalmazandó
+(6)[^40] A (2)–(5) bekezdés nem alkalmazandó
 
 a) kis vizes élőhely területén a nád jelenléte vagy
 
@@ -32,7 +32,7 @@ b) vizenyős területen és az ökológiai célú vízpótlásra használt terü
 
 esetén.
 
-(7)[^38]
+(7)[^41]
 
-[^37]: A 16. § (6) bekezdése az 5/2025. (IV. 3.) AM rendelet 11. §-ával megállapított szöveg.
-[^38]: A 16. § (7) bekezdését az 5/2025. (IV. 3.) AM rendelet 20. § b) pontja hatályon kívül helyezte.
+[^40]: A 16. § (6) bekezdése az 5/2025. (IV. 3.) AM rendelet 11. §-ával megállapított szöveg.
+[^41]: A 16. § (7) bekezdését az 5/2025. (IV. 3.) AM rendelet 20. § b) pontja hatályon kívül helyezte.

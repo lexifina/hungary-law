@@ -16,6 +16,8 @@ bd) fás-bokros gyepterületet és
 
 be) kis vizes élőhelyet, valamint
 
+bf)[^17] vízvédelmi sávot;
+
 c) nem termelő tájképi elemeket:
 
 ca) a védett tájképi elemet,
@@ -30,9 +32,9 @@ ce) erózióvédelmi sávot és
 
 cf) nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítményt.
 
-d)[^15] a vizenyős területet.
+d)[^18] a vizenyős területet.
 
-(3)[^16] A támogatható terület tekintetében a nem termelő tájképi elem vagy elemek és egyéb tájképi elem vagy elemek együttes területe – ide nem értve a védett tájképi elemet, a fás-bokros gyepterületet és szántóterületen vagy ideiglenes gyepterületen elhelyezkedő vízvédelmi sávot – a tábla legfeljebb 50%-át foglalhatja el.
+(3)[^19] A támogatható terület tekintetében a nem termelő tájképi elem vagy elemek és egyéb tájképi elem vagy elemek együttes területe – ide nem értve a védett tájképi elemet, a fás-bokros gyepterületet és szántóterületen vagy ideiglenes gyepterületen elhelyezkedő vízvédelmi sávot – a tábla legfeljebb 50%-át foglalhatja el.
 
 (4) A bejelentési kötelezettség az egyes támogatásokra vonatkozóan meghatározott, minimális támogatható méretet el nem érő mezőgazdasági táblára is vonatkozik. Ha a mezőgazdasági termelő egyetlen bejelentett tábla kapcsán sem igényel támogatást, azt az egységes kérelemben jeleznie kell.
 
@@ -42,9 +44,9 @@ a) az ne metssze a fizikai blokk és a támogatható terület határát, kivéve
 
 b) a bejelentett területi elem beazonosítása – az adminisztratív, illetve helyszíni ellenőrzésen, valamint a területi monitoring rendszerben történő felhasználása érdekében – a természetbeni állapot szerinti elhelyezkedést kövesse, továbbá
 
-c)[^17] az nem metszheti a 2. § (4) bekezdés 9–11. pontja szerinti intézkedések esetén a kötelezettségvállalással érintett egybefüggő területek határát.
+c)[^20] az nem metszheti a 2. § (4) bekezdés 9–11. pontja szerinti intézkedések esetén a kötelezettségvállalással érintett egybefüggő területek határát.
 
-(5a)[^18] Ha miniszteri rendelet vagy pályázati felhívás eltérően nem rendelkezik, támogatás alapjául szolgáló bejelentett területi elem – kivéve a nem termelő tájképi elem vagy egyéb tájképi elem – nem lehet keskenyebb 2 méternél.
+(5a)[^21] Ha miniszteri rendelet vagy pályázati felhívás eltérően nem rendelkezik, támogatás alapjául szolgáló bejelentett területi elem – kivéve a nem termelő tájképi elem vagy egyéb tájképi elem – nem lehet keskenyebb 2 méternél.
 
 (6) A 124/2009. (IX. 24.) FVM rendelet vonatkozásában a mezőgazdasági termelő a MePAR rendelet szerinti fizikai blokk alfanumerikus azonosításával, valamint az erdőrészlet azonosító megjelölésével adja meg a területadatokat. Az erdőállományok kézimunka-igényes ápolási célprogram részterületen történő megvalósítása esetén a mezőgazdasági termelő a MePAR rendelet szerinti fizikai blokk alfanumerikus, továbbá az erdőrészlet numerikus és grafikus azonosításával adja meg a területadatokat.
 
@@ -80,7 +82,8 @@ foglalt bejelentési kötelezettség teljesítésének, illetve a bejelentés ke
 
 (15) Az egységes kérelem benyújtásakor az igényelt támogatás tekintetében a mezőgazdasági termelő felelős a bejelentett adatok és a benyújtott dokumentumok helytállóságáért.
 
-[^15]: Az 5. § (2) bekezdés d) pontját az 5/2025. (IV. 3.) AM rendelet 7. § (1) bekezdése iktatta be.
-[^16]: Az 5. § (3) bekezdése az 5/2025. (IV. 3.) AM rendelet 19. § 3. pontja szerint módosított szöveg.
-[^17]: Az 5. § (5) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 19. § 5. pontja szerint módosított szöveg.
-[^18]: Az 5. § (5a) bekezdését az 5/2025. (IV. 3.) AM rendelet 7. § (2) bekezdése iktatta be.
+[^17]: Az 5. § (2) bekezdés b) pont bf) alpontját a 44/2025. (X. 27.) AM rendelet 9. §-a iktatta be.
+[^18]: Az 5. § (2) bekezdés d) pontját az 5/2025. (IV. 3.) AM rendelet 7. § (1) bekezdése iktatta be.
+[^19]: Az 5. § (3) bekezdése az 5/2025. (IV. 3.) AM rendelet 19. § 3. pontja szerint módosított szöveg.
+[^20]: Az 5. § (5) bekezdés c) pontja az 5/2025. (IV. 3.) AM rendelet 19. § 5. pontja szerint módosított szöveg.
+[^21]: Az 5. § (5a) bekezdését az 5/2025. (IV. 3.) AM rendelet 7. § (2) bekezdése iktatta be.

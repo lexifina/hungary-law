@@ -64,19 +64,21 @@ b) az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetv�
 
 11. KAP-RD21-RD22-1-24 Földhasználat váltást elősegítő beruházások és azok fenntartására vonatkozó támogatás kifizetése;
 
-12. KAP-RD38-RD39-1-24 Erdőtelepítés és fásítás támogatás kifizetése;
+12.[^10] KAP-RD38-RD39-1-25 Erdőtelepítés és fásítás támogatás kifizetése;
 
-13. KAP-RD21-RD22-2-24 Agrár-erdészeti rendszerek telepítésére és azok fenntartására vonatkozó támogatás kifizetése.
+13.[^11] KAP-RD21-RD22-1-25 Agrár-erdészeti rendszerek telepítésére és azok fenntartására vonatkozó támogatás kifizetése.
 
 (5) E rendeletet a 2. § (2)–(4) bekezdésében meghatározott támogatási rendeletek és pályázati felhívások alapján igényelhető támogatások tekintetében akkor kell alkalmazni, ha a támogatási rendeletek, pályázati felhívások vagy azokra vonatkozóan európai uniós jogi aktus eltérően nem rendelkeznek.
 
 (6) Az egységes kérelem a 2. § (1) bekezdésében meghatározott támogatások esetében – a 2. § (1) bekezdés a) pontja szerinti támogatás kivételével – támogatási és egyben kifizetési kérelemnek minősül.
 
-(7)[^10] Az egységes kérelem az (1) bekezdés a) pontjában, a (2) és (3) bekezdésben, valamint a (4) bekezdés 4–7. és 9–14. pontjában meghatározott támogatások esetében kifizetési kérelemnek minősül.
+(7)[^12] Az egységes kérelem az (1) bekezdés a) pontjában, a (2) és (3) bekezdésben, valamint a (4) bekezdés 4–7. és 9–13. pontjában meghatározott támogatások esetében kifizetési kérelemnek minősül.
 
-(8)[^11] Az egységes kérelem a (4) bekezdés 1–3. és 8. pontjában meghatározott támogatások esetében támogatási és egyben kifizetési kérelemnek minősül.
+(8)[^13] Az egységes kérelem a (4) bekezdés 1–3. és 8. pontjában meghatározott támogatások esetében támogatási és egyben kifizetési kérelemnek minősül.
 
 [^8]: A 2. § (3) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (4) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^11]: A 2. § (8) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § (4) bekezdés 12. pontja a 44/2025. (X. 27.) AM rendelet 14. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (4) bekezdés 13. pontja a 44/2025. (X. 27.) AM rendelet 14. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított, a 44/2025. (X. 27.) AM rendelet 14. § c) pontja szerint módosított szöveg.
+[^13]: A 2. § (8) bekezdése az 5/2025. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
