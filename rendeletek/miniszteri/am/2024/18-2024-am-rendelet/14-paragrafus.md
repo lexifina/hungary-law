@@ -36,7 +36,7 @@ c) a kérelmezett állattól a birtokon tartás időszaka alatt született borja
 
 d) a kérelmezett állatállományát az egységes kérelem benyújtásának időpontjától gümőkór-, brucellózis- és leukózismentes tenyészetben tartja, és
 
-e)[^5] gondoskodik a tenyészetében tartott állatok Szarvasmarha ENAR rendelet szerinti jelöléséről, nyilvántartásáról és az adatok hibátlan bejelentéséről.
+e)[^6] gondoskodik a tenyészetében tartott állatok Szarvasmarha ENAR rendelet szerinti jelöléséről, nyilvántartásáról és az adatok hibátlan bejelentéséről.
 
 (5) Ha a mezőgazdasági termelő a (4) bekezdés b) pontjában jelölt ellési arányt az igényelt állatok vonatkozásában nem éri el, akkor az egyéb támogatási feltételek teljesítése mellett a meghatározott állatlétszámnak azt kell tekinteni, amelyre a tényleges ellési arány teljesül.
 
@@ -52,4 +52,4 @@ e)[^5] gondoskodik a tenyészetében tartott állatok Szarvasmarha ENAR rendelet
 
 (11) Ha a mezőgazdasági termelő gazdaságában összesen 120 000 kg értékesített tejet meghaladó tejtermelést folytató és tejtermelést nem folytató tenyészet egyaránt megtalálható, a tejtermelést folytató tenyészet adatairól tejértékesítési jelentést nem kell benyújtani.
 
-[^5]: A 14. § (4) bekezdés e) pontja az 5/2025. (IV. 3.) AM rendelet 51. §-a szerint módosított szöveg.
+[^6]: A 14. § (4) bekezdés e) pontja az 5/2025. (IV. 3.) AM rendelet 51. §-a szerint módosított szöveg.

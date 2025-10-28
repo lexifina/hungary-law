@@ -22,6 +22,6 @@
 
 (9) A területkompenzációs mechanizmusban azon alapszintű-jövedelemtámogatásra bejelentett tábla vehető figyelembe, amelynek megállapított támogatható területét adminisztratív ellenőrzés, illetve helyszíni vizsgálat eredményeként határozták meg.
 
-(10)[^3] Az alapszintű-jövedelemtámogatásban részesülhet az a mezőgazdasági termelő is, aki vagy amely csőd-, felszámolási, végelszámolási, adósságrendezési alatt áll.
+(10)[^4] Az alapszintű-jövedelemtámogatásban részesülhet az a mezőgazdasági termelő is, aki vagy amely csőd-, felszámolási, végelszámolási, adósságrendezési alatt áll.
 
-[^3]: A 3. § (10) bekezdése a 33/2024. (V. 30.) AM rendelet 50. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (10) bekezdése a 33/2024. (V. 30.) AM rendelet 50. § b) pontja szerint módosított szöveg.
