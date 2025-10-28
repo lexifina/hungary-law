@@ -7,25 +7,3 @@ I.
 II.
 
 III. Az adó- és értékbizonyítvány kiállításával kapcsolatos eljárás illetéke
-
-|
-
-|
-
-Eljárás
-
-|
-
-Illeték
-
-|
-
-1.
-
-|
-
-az adó- és értékbizonyítvány kiállítása iránti eljárás, ingatlanonként
-
-|
-
-4 000 Ft
