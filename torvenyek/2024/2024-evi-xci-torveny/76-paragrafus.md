@@ -1,6 +1,6 @@
 76. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
-1.
+1. 5. § (1) bekezdésében a „Magyar Kutatási” szövegrész helyébe a „HUN-REN Magyar Kutatási” szöveg,
 
 2.
 

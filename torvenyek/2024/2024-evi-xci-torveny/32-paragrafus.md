@@ -1,1 +1,1 @@
-### 32. §
+32. § A Kormány egyedi határozatával a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XXXVI. MAGYAR KUTATÁSI HÁLÓZAT fejezet kiadási előirányzatait a HUN-REN 1. § (2) bekezdés szerinti közfeladatai végrehajtásának támogatása érdekében átcsoportosíthatja, azok címrendi besorolását módosíthatja.
