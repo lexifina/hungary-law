@@ -30,6 +30,8 @@ e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifej
 
 f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok és az általuk létesített vagy fenntartott jogi személyek.
 
+g) a HUN-REN Magyar Kutatási Hálózat.
+
 (2) A támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek uniós közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését többségi részben, uniós értékhatárokat el nem érő, de a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését 75%-ot meghaladó mértékben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, feltéve, hogy a beszerzés tárgya
 
 a) olyan építési beruházás, amely az 1. melléklet szerinti mélyépítési tevékenységet foglal magában,
