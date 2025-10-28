@@ -32,6 +32,8 @@ o) szénhidrogén-kutatásra, -feltárásra és -kitermelésre irányuló épít
 
 p) a kulturális örökség védelméről szóló törvény szerinti kiemelt nemzeti emlékhelyen megvalósuló építési beruházásra.
 
+q) a HUN-REN Magyar Kutatási Hálózatról szóló törvény szerinti HUN-REN Magyar Kutatási Hálózat, valamint az általa létesített vagy fenntartott jogi személy építési beruházására,
+
 (2) A Kormány egyedi határozatában mentesítheti az adott állami építési beruházást e törvény alkalmazása alól az építési beruházás gyors lefolytatása érdekében, ha ahhoz kiemelt nemzeti vagy befektetésösztönzési érdek fűződik, vagy ha az építési beruházás – a legkisebb költség elvére figyelemmel – ezáltal alacsonyabb mértékű központi költségvetési forrás felhasználásával megvalósítható.
 
 (3) A Kormány – az e törvény felhatalmazása alapján kiadott rendeletében – állapít meg mentesítést vagy kötelezettséggel kapcsolatos kedvezményt a 15. § (2) bekezdése szerinti projektszervezet tagja számára
