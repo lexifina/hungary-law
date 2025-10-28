@@ -217,5 +217,3 @@ A toborzási adatbázis adatköre
 ## 4. időtartam
 
 ## III.
-
-## 1. iskolai végzettség, (szak)képzettség, képesítés
