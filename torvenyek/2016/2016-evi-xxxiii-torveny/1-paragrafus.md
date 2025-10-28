@@ -10,7 +10,7 @@
 
 a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és vármegyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, köztisztviselőként, munkavállalóként, a Nemzeti Adó- és Vámhivatalnál foglalkoztatottként vagy munkavállalóként,
 
-b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
+b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, a HUN-REN Magyar Kutatási Hálózatnál munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 
 c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként,
 
