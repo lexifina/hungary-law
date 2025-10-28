@@ -10,4 +10,6 @@ köteles elektronikus úton feltölteni a kockázatkezelési adatbázisba.
 
 (3) Az országosan jelentősnek, valamint jelentősnek minősülő ár-, illetve belvízhelyzet fennállását és megszünését az OVF által a honlapján közzétett közleménye alapján kell megállapítani.
 
-(4) Az OVF az országosan jelentősnek minősülő ár-, illetve belvízhelyzet megszűnéséről haladéktalanul tájékoztatja az FTFF-et.
+(4)[^18] Az OVF az országosan jelentősnek minősülő ár-, illetve belvízhelyzet megszűnéséről haladéktalanul tájékoztatja az Lechner Tudásközpontot.
+
+[^18]: A 8. § (4) bekezdése a 44/2025. (X. 27.) AM rendelet 8. § c) pontja szerint módosított szöveg.

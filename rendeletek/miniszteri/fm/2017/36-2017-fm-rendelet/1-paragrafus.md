@@ -20,15 +20,15 @@ b) agrárpolitikáért felelős miniszter által vezetett minisztérium (a tová
 
 c) díjtámogatott mezőgazdasági biztosítást értékesítő biztosító (a továbbiakban: biztosító),
 
-d) Budapest Főváros Kormányhivatalának Földmérési, Távérzékelési és Földhivatali Főosztálya (a továbbiakban: FTFF),
+d)[^2] Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont),
 
-e)[^2] földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: agrárkár-megállapító szerv),
+e)[^3] földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: agrárkár-megállapító szerv),
 
 f) Magyar Államkincstár (a továbbiakban: agrárkárenyhítési szerv),
 
 g) Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: mezőgazdasági igazgatási szerv),
 
-h) Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ),
+h)[^4] HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HungaroMet Zrt.),
 
 i) Országos Vízügyi Főigazgatóság (a továbbiakban: OVF).
 
@@ -37,4 +37,6 @@ i) Országos Vízügyi Főigazgatóság (a továbbiakban: OVF).
 (4) A 2. §-ban foglalt adatoknak a kockázatkezelési adatbázisba elektronikus úton történő feltöltése az agrárkárenyhítési szerv és a (2) bekezdésben felsorolt szervezetek közötti együttműködési megállapodás alapján történik.
 
 [^1]: Az 1. § (2) bekezdés a) pontja a 3/2021. (II. 19.) AM rendelet 8. § a) pontjával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés e) pontja a 46/2020. (IX. 23.) AM rendelet 36. §-ával megállapított, a 146/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés d) pontja a 44/2025. (X. 27.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés e) pontja a 46/2020. (IX. 23.) AM rendelet 36. §-ával megállapított, a 146/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés h) pontja a 44/2025. (X. 27.) AM rendelet 7. § (3) bekezdésével megállapított szöveg.

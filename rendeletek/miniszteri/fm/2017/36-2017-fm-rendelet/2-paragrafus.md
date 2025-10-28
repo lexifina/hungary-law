@@ -24,9 +24,9 @@
 
 11. az egységes kérelemben megjelölhető és a mezőgazdasági kockázatkezelési rendszerben szereplő valamennyi növénykultúrára vonatkozó éves referenciaárakat és ha releváns, akkor éves referencia ársávokat,
 
-12.[^3] az egységes kérelemben megjelölhető és a mezőgazdasági kockázatkezelési rendszerben szereplő valamennyi növénykultúrára vonatkozó éves vármegyei, ennek hiányában éves országos átlaghozam-adatokat,
+12.[^5] az egységes kérelemben megjelölhető és a mezőgazdasági kockázatkezelési rendszerben szereplő valamennyi növénykultúrára vonatkozó éves vármegyei, ennek hiányában éves országos átlaghozam-adatokat,
 
-13.[^4] az AKI Nonprofit Kft. által kifejlesztett agrometeorológiai növényélettani modell meghatározott növénykultúrákra vonatkozó, aszálykár-bejelentés esetén keletkező adatokat mezőgazdasági parcellánként,
+13.[^6] az AKI Nonprofit Kft. által kifejlesztett agrometeorológiai növényélettani modell meghatározott növénykultúrákra vonatkozó, aszálykár-bejelentés esetén keletkező adatokat mezőgazdasági parcellánként,
 
 14. a belvízzel érintett területekre vonatkozó térinformatikai adatokat (a továbbiakban: tematikus belvíztérkép),
 
@@ -34,7 +34,7 @@
 
 16. az aszállyal érintett területekre vonatkozó térinformatikai adatokat (a továbbiakban: tematikus aszálytérkép),
 
-17.[^5] a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 5. § (3) bekezdés e) pontja szerinti, vármegyei szintű állapotminősítési, termésbecslési és betakarítási adatokat (a továbbiakban: vármegyei szintű állapotminősítési, termésbecslési és betakarítási adatok) is figyelembe vevő, a mezőgazdasági termelő
+17.[^7] a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 5. § (3) bekezdés e) pontja szerinti, vármegyei szintű állapotminősítési, termésbecslési és betakarítási adatokat (a továbbiakban: vármegyei szintű állapotminősítési, termésbecslési és betakarítási adatok) is figyelembe vevő, a mezőgazdasági termelő
 
 a) kárbejelentésére lefolytatott helyszíni, illetve adminisztratív,
 
@@ -42,7 +42,7 @@ b) kárenyhítő juttatás iránti kérelmére lefolytatott adminisztratív
 
 ellenőrzés során keletkezett adatokat,
 
-18.[^6]
+18.[^8]
 
 19. az Mkk. törvény 18. § (2) bekezdés c) pontja szerinti kárenyhítési hozzájárulás megfizetésére vonatkozó adatokat,
 
@@ -60,7 +60,7 @@ ellenőrzés során keletkezett adatokat,
 
 26. a talajvízszintre vonatkozó adatokat.
 
-[^3]: A 2. § 12. pontja a 146/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 13. pontja a 3/2021. (II. 19.) AM rendelet 8. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § 17. pont nyitó szövegrésze a 146/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § 18. pontját a 146/2022. (XII. 27.) AM rendelet 2. §-a hatályon kívül helyezte.
+[^5]: A 2. § 12. pontja a 146/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 13. pontja a 3/2021. (II. 19.) AM rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § 17. pont nyitó szövegrésze a 146/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § 18. pontját a 146/2022. (XII. 27.) AM rendelet 2. §-a hatályon kívül helyezte.
