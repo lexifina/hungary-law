@@ -100,7 +100,7 @@ bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-
 
 be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
 
-c) az egyházi jogi személy, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+c) az egyházi jogi személy, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény, továbbá a HUN-REN Magyar Kutatási Hálózat a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 
 d) a nemzeti vagyonba tartozó víziközmű-létesítmények tekintetében az állam 100%-os tulajdonában álló gazdálkodó szervezet és a helyi önkormányzat közös – együttesen 100%-os – tulajdonában álló gazdálkodó szervezet.
 
