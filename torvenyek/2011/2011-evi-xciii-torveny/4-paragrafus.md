@@ -26,6 +26,8 @@ d) a Magyar Rektori Konferencia elnöke, illetve a Magyar Rektori Konferencia á
 
 e) a Magyar Közgazdasági Társaság által delegált két képviselő;
 
+f) a HUN-REN Magyar Kutatási Hálózat elnöke és az általa delegált két képviselő;
+
 5. a művészet képviselői
 
 a) a Magyar Művészeti Akadémia elnöke,

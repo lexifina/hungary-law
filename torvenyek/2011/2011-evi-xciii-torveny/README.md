@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-93-00-00
 | 2016-05-21 | 2016. évi XLV. törvény | 2011-93-00-00.7 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2011-93-00-00.8 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2011-93-00-00.9 |
+| 2025-10-28 | 2024. évi XCI. törvény | 2011-93-00-00.10 |
