@@ -12,7 +12,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 b) a Magyar Tudományos Akadémia;
 
-c)
+c) a HUN-REN Magyar Kutatási Hálózat,
 
 d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény:
 
