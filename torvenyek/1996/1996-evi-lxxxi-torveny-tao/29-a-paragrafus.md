@@ -268,6 +268,8 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 
 (125) E törvénynek az egyes adótörvények módosításáról szóló 2024. évi LV. törvénnyel megállapított 22/C. § (1) bekezdés a) pont ag) alpontját az egyes adótörvények módosításáról szóló 2024. évi LV. törvény hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
+(126) E törvénynek a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvénnyel (a továbbiakban: HUN-REN törvény) módosított 7. § (1) bekezdés z) pontját, 7. § (7) bekezdés a) pontját, 18/C. § (23) bekezdését, 3. számú melléklet B) rész 25. pontját első alkalommal e rendelkezések hatálybalépése napját követően létrejött jogviszonyok tekintetében kell alkalmazni.
+
 (126) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 4. § 5. pontját az adózó első alkalommal – figyelemmel a (127) bekezdésben foglaltakra – a rendelkezés hatálybalépését követően megvalósuló határokon átnyúló átalakulás esetében alkalmazza.
 
 (127) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 4. § 5. pontját az adózó a 2024. január 1-je és a rendelkezés hatálybalépése közötti időszakban megvalósult határokon átnyúló átalakulás esetén akkor alkalmazhatja, ha a rendelkezés hatálybalépését követő 75 napon belül bejelenti az adóhatóságnak azon részesedéseket, amelyeket a belföldi illetőség megszerzése előtt szerzett, feltéve hogy e részesedéseket a rendelkezés hatálybalépéséig még nem jelentette be. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.

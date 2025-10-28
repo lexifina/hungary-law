@@ -28,6 +28,8 @@ k) az európai kutatási infrastruktúráért felelős konzorcium (ERIC),
 
 l) a vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány.
 
+m) a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti HUN-REN Magyar Kutatási Hálózat (a továbbiakban: HUN-REN).
+
 (3) Belföldi illetőségű adózónak minősül a külföldi személy, ha üzletvezetésének helye belföld.
 
 (4) Adóalany a külföldi személy, illetve az üzletvezetése helye alapján külföldi illetőségű, ha

@@ -16,6 +16,8 @@ f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványnak az adóal
 
 g) a Magyar Tudományos Akadémiának az adóalapja azon része után, amelyet céljainak, törvényben meghatározott közfeladatainak megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen vagyonelemei hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül, ideértve a Magyar Tudományos Akadémiának a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény szerinti, a magyar állam számára történő visszterhes vagyonjuttatását is.
 
+h) a HUN-REN-nek az adóalapja azon része után, amelyet céljainak, közfeladatának, közérdekű tevékenységének megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen az állam által rendelt, valamint az egyéb forrásból származó vagyon átvételéből, hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül.
+
 (2) A szociális szövetkezet, közhasznú nonprofit gazdasági társaság és a vízitársulat az adókedvezményeket az adómentességgel csökkentett adó arányában érvényesítheti.
 
 (3)
