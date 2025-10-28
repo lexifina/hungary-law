@@ -1,6 +1,6 @@
 1. melléklet az 57/2012. (VI. 21.) VM rendelethez
 
-## Mezőgazdasági termeléssel összefüggő szakképesítések
+Mezőgazdasági termeléssel összefüggő szakképesítések
 
 1. Elfogadható szakképesítések az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet alapján
 

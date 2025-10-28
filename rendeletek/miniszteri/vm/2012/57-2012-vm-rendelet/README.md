@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-57-20-2
 | 2018-01-01 | 2012-57-20-2Y.7 | 37/2017. (XII. 27.) MvM rendelet |
 | 2018-08-18 | 2012-57-20-2Y.8 | 22/2018. (VIII. 17.) AM rendelet |
 | 2020-06-15 | 2012-57-20-2Y.9 | 22/2018. (VIII. 17.) AM rendelet |
+| 2025-10-28 | 2012-57-20-2Y.10 | 45/2025. (X. 27.) AM rendelet |

@@ -1,6 +1,6 @@
-5. melléklet az 57/2012. (VI.21.) VM rendelethez[^44]
+5. melléklet az 57/2012. (VI.21.) VM rendelethez[^47]
 
-## A területileg illetékes önkormányzat jegyző igazolásának adattartalma a gazdálkodásra alkalmas életvitelszerű tartózkodási helyről
+A területileg illetékes önkormányzat jegyző igazolásának adattartalma a gazdálkodásra alkalmas életvitelszerű tartózkodási helyről
 
 1. Ügyfél adatai:
 
@@ -38,4 +38,4 @@
 
 3.d Területileg illetékes önkormányzat jegyzőjének aláírása és pecsét.
 
-[^44]: Az 5. mellékletet a 8/2014. (XI. 19.) MvM rendelet 12. § (4) bekezdése iktatta be.
+[^47]: Az 5. mellékletet a 8/2014. (XI. 19.) MvM rendelet 12. § (4) bekezdése iktatta be.
