@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-53-20-1
 | 2024-03-26 | 2015-53-20-11.20 | 11/2022. (III. 25.) AM rendelet |
 | 2024-12-21 | 2015-53-20-11.21 | 66/2024. (XII. 20.) AM rendelet |
 | 2025-05-09 | 2015-53-20-11.22 | 15/2025. (V. 8.) AM rendelet |
+| 2025-10-28 | 2015-53-20-11.23 | 15/2025. (V. 8.) AM rendelet |
