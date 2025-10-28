@@ -10,6 +10,8 @@ a) az agrárágazathoz tartozó szakképzési feladatot ellátó intézmény,
 
 b) az agrárágazathoz tartozó felsőoktatási intézmény
 
+c) a HUN-REN Magyar Kutatási Hálózat
+
 az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudományos kutatási alapfeladatát szolgáló föld használatát megszerezheti.
 
 (4) Haszonbérlet címén a föld használatát a bevett egyház vagy annak belső egyházi jogi személye oktatási, szociális, vagy gazdasági tevékenység végzése céljából megszerezheti.
