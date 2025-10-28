@@ -22,7 +22,7 @@ ed) a sertésfélékre vonatkozóan a sertések jelöléséről, valamint Egysé
 
 ee) a baromfifélékre vonatkozóan a Baromfi Információs Rendszer létrehozásáról és működtetésének rendjéről szóló miniszteri rendeletben
 
-## előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek;
+előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek;
 
 f) a használatában lévő területeket a földhasználati nyilvántartásba bejelenteni, amennyiben a feltételt jogszabály lehetővé teszi;
 

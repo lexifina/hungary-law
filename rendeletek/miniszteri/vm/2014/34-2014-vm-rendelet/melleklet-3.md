@@ -1,4 +1,4 @@
-## Agrár képzési területen végezhető képzések
+## 4K04852_0
 
 |  | A | B |
 
@@ -311,3 +311,5 @@
 | zöldséghajtató és gombatermesztő szakmérnök |
 
 3. melléklet a 34/2014. (IV. 4.) VM rendelethez
+
+Értékelés

@@ -10,7 +10,7 @@ b) legalább 7 EUME nagyságú, de a 10 EUME-t nem éri el, akkor 30 000 euróna
 
 c) legalább 10 EUME nagyságú, akkor 40 000 eurónak
 
-## megfelelő forintösszeg.
+megfelelő forintösszeg.
 
 (3) A támogatás forintösszege a folyósítás évének január 1-jén érvényes Európai Központi Bank által rögzített árfolyamon kerül kifizetésre.
 

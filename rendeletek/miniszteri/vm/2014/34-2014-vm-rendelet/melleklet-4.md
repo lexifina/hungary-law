@@ -1,5 +1,3 @@
-## Értékelés
-
 |  | A | B | C | D |
 
 | 1. | Értékelési szempont megnevezése | Értékelés/ellenőrzés módja | Pontszám |
@@ -96,7 +94,7 @@
 
 4. melléklet a 34/2014. (IV. 4.) VM rendelethez
 
-## Közreműködő bevonására vonatkozó magánokirat adattartalma
+Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 1. A családtámogatási ellátásban részesülő ügyfél személyes adatai
 
