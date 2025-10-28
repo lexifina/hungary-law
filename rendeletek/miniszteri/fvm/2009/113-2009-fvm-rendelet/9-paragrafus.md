@@ -1,12 +1,12 @@
 ## Jogkövetkezmények
 
-9. § (1)[^25] Amennyiben az ügyfél nem teljesíti a 4. § (4) bekezdés b) és c) pontjában foglaltakat, valamint gazdaságának üzemmérete az utolsó kifizetést követően nem éri el a 4 EUME méretet, abban az esetben az igénybe vett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+9. § (1)[^25] Amennyiben az ügyfél nem teljesíti a 4. § (4) bekezdés b) és c) pontjában foglaltakat, valamint gazdaságának üzemmérete az utolsó kifizetést követően nem éri el a 4 EUME méretet, abban az esetben az igénybe vett támogatás részben vagy egészben jogosulatlanul igénybe vett támogatásnak minősül.
 
 (2)[^26] A Kincstár a 4. § (4) bekezdés d) és e) pontjának teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
 
 (3) Amennyiben
 
-a)[^27]
+a)[^27] az ügyfél a mezőgazdasági tevékenységet nem főtevékenységként egyéni vállalkozóként végzi, akkor minden olyan naptári hónapban, amikor legalább egy napig nem teljesíti ezt a kötelezettségét, a már kifizetett támogatás 2%-át köteles visszafizetni.
 
 b)[^28] az ügyfél gazdaságának üzemmérete az utolsó kifizetést követően a támogatási határozat véglegessé válását követő 4. naptári év végére vállalt mérettől 20%-ot meghaladóan marad el, akkor az ügyfél köteles a 20%-ot meghaladó elmaradáson túl százalékpontonként a kifizetett támogatási összeg 0,5%-át, de legfeljebb évente a kifizetett támogatási összeg 15%-át intézkedésben való jogosulatlan részvétel jogcímén visszafizetni;
 
@@ -54,9 +54,9 @@ b) kifizetési kérelem elutasításra kerül.
 
 (12)[^41] A (11) bekezdés kizárólag akkor alkalmazható, ha a támogatási kérelmet jóváhagyó határozat kézhezvételét követő 5. naptári évben teljesül az üzleti tervben a 4. évre vállalt üzemméret.
 
-[^25]: A 9. § (1) bekezdése a 7/2015. (II. 17.) MvM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^25]: A 9. § (1) bekezdése a 7/2015. (II. 17.) MvM rendelet 28. § (1) bekezdésével megállapított, a 45/2025. (X. 27.) AM rendelet 3. §-a szerint módosított szöveg.
 [^26]: A 9. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 12. § (5) bekezdésével megállapított, a 35/2017. (XII. 27.) MvM rendelet 2. § f) pontja szerint módosított szöveg.
-[^27]: A 9. § (3) bekezdés a) pontját a 30/2014. (IV. 3.) VM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^27]: A 9. § (3) bekezdés a) pontját a 30/2014. (IV. 3.) VM rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 45/2025. (X. 27.) AM rendelet 1. §-a iktatta be.
 [^28]: A 9. § (3) bekezdés b) pontja a 7/2015. (II. 17.) MvM rendelet 28. § (2) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 17. §-a szerint módosított szöveg.
 [^29]: A 9. § (3) bekezdés c) pontja a 35/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^30]: A 9. § (3) bekezdés d) pontja a 7/2015. (II. 17.) MvM rendelet 28. § (3) bekezdésével megállapított szöveg.
