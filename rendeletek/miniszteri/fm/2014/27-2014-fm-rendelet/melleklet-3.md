@@ -20,7 +20,7 @@
 
 ## 6. A biztosított hozamérték (Ft)
 
-## 7. A biztosító által káreseményekre megállapított kártérítés káreseményenkénti bontásban (Ft)
+## 7.
 
 ## 8. Ha az ügyfél mezőgazdasági biztosítással nem rendelkezik, akkor az ügyfél erről szóló nyilatkozata
 
@@ -90,7 +90,7 @@
 
 ## 15. A mezőgazdasági termelő nyilatkozata arról, hogy
 
-## 15.1. az érintett káresemény által okozott kárra a biztosítóval kötött szerződés alapján a biztosító által megállapított összeget az Mkk. tv. által előírt kötelezettség szerint tüntette fel, és tudomásul veszi, hogy a kötelezettség elmulasztásával a kárenyhítő juttatásra való jogosultságot a teljes kárenyhítő juttatás összegére vonatkozóan elveszíti, és kötelezettséget vállal arra, hogy ilyen esetben a felvett összeget a Magyar Államkincstár felszólító határozata szerint visszafizeti;
+## 15.1.
 
 ## 15.2. a kárenyhítő juttatás iránti kérelem benyújtásakor az Mkk. tv. 2. § 7. pont szerinti elemi káreseményen – ide nem értve az üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó mezőgazdasági árvízkárt – alapuló okokon kívüli okokból a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak minősül-e.
 
@@ -98,6 +98,6 @@
 
 ## 1Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
 
-3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^136]
+3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^138]
 
-[^136]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja, a 31/2023. (VII. 14.) AM rendelet 4. § b) pontja, az 59/2023. (X. 30.) AM rendelet 5. § b) pontja, a 47/2024. (IX. 5.) AM rendelet 8. §-a szerint módosított szöveg.
+[^138]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja, a 31/2023. (VII. 14.) AM rendelet 4. § b) pontja, az 59/2023. (X. 30.) AM rendelet 5. § b) pontja, a 47/2024. (IX. 5.) AM rendelet 8. §-a szerint módosított szöveg.

@@ -84,19 +84,19 @@ jogosult megállapítani.
 
 (7)[^60] Ha a (3) bekezdés szerinti adatok, valamint az adminisztratív ellenőrzést megalapozó – különösen a hőmérsékletre, a csapadékmennyiségre, a csapadékintenzitásra, a felszíni vízborítottságra, a talajvízszintre, a távérzékeléses vagy drónfelvételen alapuló adatokból származó megállapításokra vonatkozó adatokon alapuló – kockázatelemzés során felhasznált adatok kétséget kizáróan alkalmasak a mezőgazdasági káresemény bekövetkezésének vagy be nem következésének megállapítására, akkor ezen adatok alapján az agrárkár-megállapító szerv mellőzheti a (4) bekezdés szerinti helyszíni ellenőrzés lefolytatását
 
-a) aszály, nagy kiterjedésű belvíz és mezőgazdasági árvíz esetében, ha igazoltnak találja a mezőgazdasági káresemény bekövetkezését, vagy
+a)[^61] aszály, nagy kiterjedésű tavaszi fagy, belvíz és mezőgazdasági árvíz esetében, ha igazoltnak találja a mezőgazdasági káresemény bekövetkezését, vagy
 
 b) bármely mezőgazdasági káresemény bejelentését követően, ha megállapítja, hogy a mezőgazdasági káresemény nem következett be.
 
-(8)[^61] A (7) bekezdés szerinti eljárás esetén az agrárkár-megállapító szerv a lefolytatott adminisztratív ellenőrzés alapján hozza meg a (6) bekezdés szerinti határozatot a mezőgazdasági káresemény bejelentésétől számított tizenöt napon belül.
+(8)[^62] A (7) bekezdés szerinti eljárás esetén az agrárkár-megállapító szerv a lefolytatott adminisztratív ellenőrzés alapján hozza meg a (6) bekezdés szerinti határozatot a 4. § (4) bekezdésében meghatározott véghatáridőt követő negyvenöt napon belül.
 
-(9)[^62] A fóliás és üvegházi növénykultúrák esetében
+(9)[^63] A fóliás és üvegházi növénykultúrák esetében
 
-a)[^63] az agrárkár-megállapító szerv minden esetben helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot a jégesőkár vagy viharkár vonatkozásában tett kárbejelentésről,
+a)[^64] az agrárkár-megállapító szerv minden esetben helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot a jégesőkár vagy viharkár vonatkozásában tett kárbejelentésről,
 
 b) a belvíz vagy mezőgazdasági árvíz vonatkozásában tett kárbejelentésre a (7) bekezdésben foglaltak alkalmazandók.
 
-(10)[^64] Az agrárkár-megállapító szerv a tárgyévre vonatkozóan szaporítóanyag előállítás céljából termesztett növénykultúrák esetében helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot.
+(10)[^65] Az agrárkár-megállapító szerv a tárgyévre vonatkozóan szaporítóanyag előállítás céljából termesztett növénykultúrák esetében helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot.
 
 [^38]: Az 5. § (1) bekezdése a 60/2020. (XII. 9.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^39]: Az 5. § (1a) bekezdését a 60/2020. (XII. 9.) AM rendelet 3. § (1) bekezdése iktatta be.
@@ -121,7 +121,8 @@ b) a belvíz vagy mezőgazdasági árvíz vonatkozásában tett kárbejelentésr
 [^58]: Az 5. § (4) bekezdése a 60/2020. (XII. 9.) AM rendelet 8. § e) pontja szerint módosított szöveg.
 [^59]: Az 5. § (5) bekezdése a 47/2024. (IX. 5.) AM rendelet 9. § 13. pontja szerint módosított szöveg.
 [^60]: Az 5. § (7) bekezdése a 60/2020. (XII. 9.) AM rendelet 3. § (5) bekezdésével megállapított szöveg.
-[^61]: Az 5. § (8) bekezdése a 47/2024. (IX. 5.) AM rendelet 9. § 14. pontja szerint módosított szöveg.
-[^62]: Az 5. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (3) bekezdése iktatta be.
-[^63]: Az 5. § (9) bekezdés a) pontja a 47/2024. (IX. 5.) AM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^64]: Az 5. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 2. § (2) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 10. § d) pontja szerint módosított szöveg.
+[^61]: Az 5. § (7) bekezdés a) pontja a 44/2025. (X. 27.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^62]: Az 5. § (8) bekezdése a 44/2025. (X. 27.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^63]: Az 5. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (3) bekezdése iktatta be.
+[^64]: Az 5. § (9) bekezdés a) pontja a 47/2024. (IX. 5.) AM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^65]: Az 5. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 2. § (2) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 10. § d) pontja szerint módosított szöveg.

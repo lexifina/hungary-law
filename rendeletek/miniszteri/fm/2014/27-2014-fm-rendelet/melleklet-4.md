@@ -108,6 +108,6 @@
 
 | Bérletidíj-csökkenés összege (Ft) | = | növénykultúra tárgyévi vetésterülete (ha) | × | [piaci bérleti díj (Ft/ha) – kedvezményes bérleti díj (Ft/ha)] |
 
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^137]
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^139]
 
-[^137]: A 4. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^139]: A 4. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
