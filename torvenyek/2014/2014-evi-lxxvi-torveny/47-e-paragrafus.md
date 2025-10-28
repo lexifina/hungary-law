@@ -1,0 +1,1 @@
+47/E. § A HUN-REN Központ Irányító Testületének e rendelkezés hatálybalépését megelőzően kinevezett tagjainak megbízatása a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 28. § (3) bekezdésében meghatározott időpontban megszűnik.

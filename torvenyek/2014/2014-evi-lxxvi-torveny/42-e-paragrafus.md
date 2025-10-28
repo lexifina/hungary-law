@@ -1,1 +1,1 @@
-42/E. § Az Irányító Testület és az elnök munkájuk segítése céljából testületeket hozhatnak létre, amelyek tagjai részére tiszteletdíj adható. A tiszteletdíjat a testületet létrehozó elnök vagy az Irányító Testület állapítja meg.
+### 42/E. §
