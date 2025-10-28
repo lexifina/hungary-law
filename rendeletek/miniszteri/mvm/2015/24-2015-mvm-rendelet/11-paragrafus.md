@@ -1,6 +1,6 @@
 ## 9. Jogkövetkezmények
 
-11. § (1)[^16] Ha a Kincstár az ellenőrzés során azt állapítja meg, hogy a támogatásra jogosult nem teljesíti a 4. § (1) bekezdés a) vagy b) pontjában foglaltakat, az intézkedésben való részvétellel összefüggésben megállapított jogosultság megszűnik, és az igénybe vett támogatás egésze jogosulatlanul igénybe vett támogatásnak minősül.
+11. § (1)[^16] Ha a Kincstár az ellenőrzés során azt állapítja meg, hogy a támogatásra jogosult nem teljesíti a 4. § (1) bekezdés a) pontjában foglaltakat, az intézkedésben való részvétellel összefüggésben megállapított jogosultság megszűnik, és az igénybe vett támogatás egésze jogosulatlanul igénybe vett támogatásnak minősül.
 
 (2)[^17] Ha az ellenőrzés során bizonyosságot nyer, hogy a támogatásra jogosult a gazdálkodási napló vezetésében több mint 6 hónapos elmaradásban van, a Kincstár 8 napos határidő tűzésével felszólítja az elmaradás pótlására.
 
@@ -20,7 +20,7 @@ c) az ügyfél pénzügyi tervében a működtetési időszak 4. vagy 5. événe
 
 (7) Az ügyfél köteles a kifizetett támogatási összeg 2%-át visszafizetni, ha nem teljesíti a 4. § (1) bekezdés c) pontjában foglalt kötelezettségét.
 
-(8)[^19]
+(8)[^19] Az ügyfél minden olyan naptári hónapban, amikor legalább egy napig nem teljesíti a 4. § (1) bekezdés b) pontja szerinti kötelezettségét, a már kifizetett támogatás 2%-át köteles visszafizetni.
 
 (9)[^20]
 
@@ -72,10 +72,10 @@ a) a működtetési időszak 5. évében teljesül az üzleti tervben a 4. évre
 
 b)[^27] a működtetési időszak 5. évét követő év július 1. és augusztus 31. között benyújtott kifizetési kérelem alapján legfeljebb 10%-kal tér el a 4. évre vállalt üzemmérettől, feltéve, hogy az eltérés nem eredményezi a 7. § (2) bekezdése szerinti üzemméret kategória változását.
 
-[^16]: A 11. § (1) bekezdése a 35/2017. (XII. 27.) MvM rendelet 21. §-ával megállapított szöveg. [A 11. § (1) bekezdésének a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontjával elrendelt módosítása, amely szerint az „az MVH” szövegrész helyébe az „a Kincstár” szöveg lép, nem vezethető át.]
+[^16]: A 11. § (1) bekezdése a 35/2017. (XII. 27.) MvM rendelet 21. §-ával megállapított, a 45/2025. (X. 27.) AM rendelet 12. §-a szerint módosított szöveg. [A 11. § (1) bekezdésének a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontjával elrendelt módosítása, amely szerint az „az MVH” szövegrész helyébe az „a Kincstár” szöveg lép, nem vezethető át.]
 [^17]: A 11. § (2) bekezdése a 35/2017. (XII. 27.) MvM rendelet 26. § c) pontja szerint módosított szöveg.
 [^18]: A 11. § (5) bekezdés b) pontja a 37/2017. (XII. 27.) MvM rendelet 32. § b) pontja szerint módosított szöveg.
-[^19]: A 11. § (8) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte.
+[^19]: A 11. § (8) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte, újonnan a 45/2025. (X. 27.) AM rendelet 10. §-a iktatta be.
 [^20]: A 11. § (9) bekezdését a 35/2017. (XII. 27.) MvM rendelet 27. § b) pontja hatályon kívül helyezte.
 [^21]: A 11. § (11) bekezdés b) pontja a 35/2017. (XII. 27.) MvM rendelet 22. §-ával megállapított szöveg.
 [^22]: A 11. § (11) bekezdés d) pontja a 60/2019. (XII. 18.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
