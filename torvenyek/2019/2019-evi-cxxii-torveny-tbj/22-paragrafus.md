@@ -26,7 +26,7 @@ ic) a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felső
 
 id) az a külföldi állampolgár, aki nemzetközi szerződés vagy a köznevelésért, felsőoktatásért, a külpolitikáért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll,
 
-ie) az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll, vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy általa fenntartott intézmény által alapított ösztöndíjban részesül.
+ie) az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll, vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy általa fenntartott intézmény, vagy a HUN-REN Magyar Kutatási Hálózat által alapított ösztöndíjban részesül.
 
 j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 
