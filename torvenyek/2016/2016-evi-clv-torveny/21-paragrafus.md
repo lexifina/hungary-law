@@ -36,7 +36,7 @@ f) a Magyar Kereskedelmi és Iparkamara által jelölt tag,
 
 g) a Nemzeti Agrárgazdasági Kamara által jelölt tag,
 
-h) a tudományos élet képviselői közül a Magyar Tudományos Akadémia által jelölt öt tag,
+h) a tudományos élet képviselői közül a Magyar Tudományos Akadémia és a HUN-REN Magyar Kutatási Hálózat által közösen jelölt öt tag,
 
 i) az MNB mint adatfelhasználó által jelölt tag.
 
