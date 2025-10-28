@@ -4,7 +4,7 @@
 
 (2) A Géntechnológiai Bizottságba
 
-a) a Magyar Tudományos Akadémia a genetika, a környezettudományok, az orvostudományok, az agrártudományok, a jogtudományok és az állatorvostudományok területéről egy-egy, összesen hat,
+a) a Magyar Tudományos Akadémia és a HUN-REN Kutatási Hálózat közösen a genetika, a környezettudományok, az orvostudományok, az agrártudományok, a jogtudományok és az állatorvostudományok területéről egy-egy, összesen hat,
 
 b) az agrárpolitikáért felelős miniszter a mezőgazdaság és az ipar területéről egy-egy,
 
