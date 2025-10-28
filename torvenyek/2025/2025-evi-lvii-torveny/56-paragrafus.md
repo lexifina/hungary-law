@@ -1,1 +1,1 @@
-### 56. §
+56. § A HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 32. §-a az „átcsoportosíthatja” szövegrész helyett az „átcsoportosíthatja, azok címrendi besorolását módosíthatja” szöveggel lép hatályba.

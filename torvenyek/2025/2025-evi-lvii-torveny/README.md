@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-57-00-00
 | 2025-08-02 | 2010. évi CXXX. törvény | 2025-57-00-00.6 |
 | 2025-09-01 | 2/2025. (IX. 1.) NGM határozat | 2025-57-00-00.7 |
 | 2025-09-02 | 2010. évi CXXX. törvény | 2025-57-00-00.11 |
+| 2025-10-28 | 5/2025. (XI. 26.) KIM határozat | 2025-57-00-00.12 |
