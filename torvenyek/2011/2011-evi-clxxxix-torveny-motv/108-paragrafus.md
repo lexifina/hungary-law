@@ -6,7 +6,7 @@ a) az állam vagy más helyi önkormányzat javára jogszabályban meghatározot
 
 b) egyház, egyházi jogi személy részére hitéleti feladatai elősegítése vagy az általa végzett állami, önkormányzati – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében vagy
 
-c) közhasznú szervezet javára, az általa átvállalt állami, önkormányzati feladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében.
+c) közhasznú szervezet javára, az általa átvállalt állami, önkormányzati feladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia, a HUN-REN Magyar Kutatási Hálózat és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében.
 
 (3) Az ingyenes vagyonátadás az önkormányzat kötelezően ellátandó feladatainak ellátását nem veszélyeztetheti. Nem adható át különösen az olyan vagyonelem, amely valamely kötelező önkormányzati feladat ellátásához, a nemzeti köznevelésről szóló törvényben meghatározott önkormányzati köznevelési feladathoz vagy ezek finanszírozási forrásának biztosításához, vagy az önkormányzati költségvetési bevételi előirányzatok teljesítéséhez szükséges.
 
