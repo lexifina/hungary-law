@@ -12,9 +12,11 @@ e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban m
 
 f) a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
 
+g) a HUN-REN Magyar Kutatási Hálózattal az alapító okiratában vagy jogszabályban meghatározott tudományos kutatási vagy innovációs közfeladatának megvalósítása célját szolgáló földrészletre.
+
 (2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet végezheti.
 
-(2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény is végezheti.
+(2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény, valamint a HUN-REN Magyar Kutatási Hálózat is végezheti.
 
 (3) Közvetlenül a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv kivételével központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
