@@ -1,6 +1,6 @@
 77. § Hatályát veszti a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
 
-1. 5. § (2) bekezdés nyitó szövegrészében az „és a HUN-REN elnöke” szövegrész,
+1.
 
 2.
 
@@ -24,24 +24,24 @@
 
 12.
 
-13. 30. §-ában az „a HUN-REN Központra,” szövegrész és az „a HUN-REN Központ,” szövegrész,
+13.
 
-14. 34. § (4) bekezdése,
+14.
 
-15. 13/A. alcíme,
+15.
 
-16. 42/B. § (1), (2) és (4) bekezdése,
+16.
 
 17.
 
 18.
 
-19. 42/B. § (6) és (7) bekezdése,
+19.
 
-20. 13/C. alcíme,
+20.
 
-21. 13/D. alcíme,
+21.
 
-22. 13/E. alcíme,
+22.
 
 23.
