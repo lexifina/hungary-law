@@ -1,5 +1,3 @@
-4. § Hatályát veszti a 27/2014. (XI. 25.) FM rendelet 2. melléklet
+4. §[^5]
 
-a) I. pont 7. alpontja és
-
-b) V. pont 15. alpont 15.1. pontja.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

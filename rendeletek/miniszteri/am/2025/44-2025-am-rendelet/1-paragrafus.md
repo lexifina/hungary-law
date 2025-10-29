@@ -16,8 +16,7 @@
 
 1. § (1)[^1]
 
-(2) A 27/2014. (XI. 25.) FM rendelet 5. § (7) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Ha a (3) bekezdés szerinti adatok, valamint az adminisztratív ellenőrzést megalapozó – különösen a hőmérsékletre, a csapadékmennyiségre, a csapadékintenzitásra, a felszíni vízborítottságra, a talajvízszintre, a távérzékeléses vagy drónfelvételen alapuló adatokból származó megállapításokra vonatkozó adatokon alapuló – kockázatelemzés során felhasznált adatok kétséget kizáróan alkalmasak a mezőgazdasági káresemény bekövetkezésének vagy be nem következésének megállapítására, akkor ezen adatok alapján az agrárkár-megállapító szerv mellőzheti a (4) bekezdés szerinti helyszíni ellenőrzés lefolytatását]
+(2)[^2]
 
 [^1]: Az 1. § (1) bekezdése a 16. § (2) bekezdése alapján 2025. november 21-én lép hatályba.
+[^2]: Az 1. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

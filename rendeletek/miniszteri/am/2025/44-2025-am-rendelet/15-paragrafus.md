@@ -1,5 +1,5 @@
 ## 6. A Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet módosítása
 
-15. § A Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+15. §[^18]
 
-„(4) A mezőgazdasági termelő részére kifizetésre kerülő II. és III. fejezet szerinti támogatások fajlagos összegeit a Nemzeti Kifizető Ügynökségként eljáró Magyar Államkincstár (a továbbiakban: Kincstár) a (3) bekezdés szerinti pénzügyi keretek és a II. és III. fejezet szerinti támogatások esetében az ellenőrzések alapján megállapított összes terület hányadosai alapján – figyelemmel jogorvoslat várható forrásigényére és az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 87. cikk (1) bekezdése szerinti pénzügyi allokáció szabályaira – állapítja meg.”
+[^18]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
