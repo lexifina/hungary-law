@@ -1,1 +1,3 @@
-3. § Az R1 9. § (1) bekezdésében a „támogatás jogosulatlanul” szövegrész helyébe a „támogatás részben vagy egészben jogosulatlanul” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
