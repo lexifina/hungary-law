@@ -1,0 +1,29 @@
+1. Az Alaptörvény 9. cikk (3) bekezdés k) pontja és 26. cikk (2) bekezdése, valamint a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 3. § (2) bekezdése és 23. § (1) bekezdése alapján – az Országos Bírósági Hivatal elnökének javaslatára –
+
+dr. Balka Viktóriát és
+
+dr. Nagy Tímea Margitot
+
+a 2025. november 15. napjától 2028. november 14. napjáig terjedő időtartamra bíróvá kinevezem.
+
+2. Az Alaptörvény 9. cikk (3) bekezdés k) pontja és 26. cikk (2) bekezdése, valamint a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 3. § (2) bekezdése, 23. § (1) bekezdése és 24. §-a alapján – az Országos Bírósági Hivatal elnökének javaslatára –
+
+dr. Juhász Dorottyát,
+
+dr. Mikó Sándor Józsefet,
+
+dr. Orbán Fanni Irént,
+
+dr. Szűts Veronikát,
+
+dr. Váczi Katalint,
+
+dr. Winklerné dr. Nóvé Ildikót és
+
+dr. Zakócs Ildikót
+
+2025. november 15. napjától határozatlan időtartamra bíróvá kinevezem.
+
+Budapest, 2025. október 22.
+
+SP ügyszám: SP/3586-2/2025
