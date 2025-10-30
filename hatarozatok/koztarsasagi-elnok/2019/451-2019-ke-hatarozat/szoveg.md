@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: KEH/04739-8/2019.
 
-[^1]: A 311/2022. (X. 28.) KE határozat alapján a köztársasági elnök Gnájné dr. Porkoláb Erika bírói kinevezését a 2022. november 1. napjától 2025. október 31. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 289/2025. (X. 30.) KE határozat alapján a köztársasági elnök Gnájné dr. Porkoláb Erika bírói kinevezését a 2025. november 1. napjától 2028. október 31. napjáig terjedő időtartamra meghosszabbította.
