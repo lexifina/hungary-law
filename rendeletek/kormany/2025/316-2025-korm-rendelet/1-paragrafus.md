@@ -8,9 +8,8 @@
 
 1. § Hatályát veszti az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet 3. mellékletében foglalt táblázat
 
-a)[^1]
+a) 58–60. sora,
 
-b)[^2]
+b)[^1]
 
-[^1]: Az 1. § a) pontja a 3. § (2) bekezdése alapján 2025. október 31-én lép hatályba.
-[^2]: Az 1. § b) pontja a 3. § (3) bekezdése alapján 2025. november 30-án lép hatályba.
+[^1]: Az 1. § b) pontja a 3. § (3) bekezdése alapján 2025. november 30-án lép hatályba.
