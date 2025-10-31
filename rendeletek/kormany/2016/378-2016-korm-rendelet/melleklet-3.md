@@ -180,11 +180,11 @@
 
 | 57. | Somogysárd | 101 |
 
-| 58. | Somogyvár | 0150 |
+| 58. |  |  |
 
-| 59. | Somogyvár | 2026/3 |
+| 59. |  |  |
 
-| 60. | Somogyvár | 2101 |
+| 60. |  |  |
 
 | 61. | Soponya | 368 |
 
@@ -222,4 +222,4 @@
 
 | 78. |  |  |
 
-[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a, a 273/2025. (VIII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a, a 273/2025. (VIII. 18.) Korm. rendelet 1. §-a, a 316/2025. (X. 17.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
