@@ -1,3 +1,3 @@
-89. §[^71]
+89. §[^75]
 
-[^71]: A 89. § a 287/2024. (IX. 30.) Korm. rendelet 23. § b) pontja alapján nem lép hatályba.
+[^75]: A 89. § a 287/2024. (IX. 30.) Korm. rendelet 23. § b) pontja alapján nem lép hatályba.

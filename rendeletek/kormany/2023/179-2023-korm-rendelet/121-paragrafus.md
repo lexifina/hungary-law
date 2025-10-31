@@ -1,4 +1,4 @@
-121. § (1)[^99] A jogok és tények bejegyzése iránti beadványt
+121. § (1)[^103] A jogok és tények bejegyzése iránti beadványt
 
 a) – az ingatlan-nyilvántartás vezetését támogató informatikai rendszer ügyintézési felületén – ingatlan-nyilvántartási elektronikus űrlapon,
 
@@ -16,10 +16,10 @@ az ingatlanügyi hatóságnál kell benyújtani.
 
 (5) Az ingatlan-nyilvántartási eljárás teljes eljárásban történő lefolytatására irányuló kérelmet a 4. mellékletben meghatározott tartalommal vagy ingatlan-nyilvántartási elektronikus űrlapon lehet előterjeszteni.
 
-(6)[^100] Az e-Papír szolgáltatással, illetve hivatali tárhelyre elektronikusan vagy papíralapon előterjesztett kérelem mellékleteként csatolandó kérelem-formanyomtatvány adattartalmát a 8. melléklet állapítja meg.
+(6)[^104] Az e-Papír szolgáltatással, illetve hivatali tárhelyre elektronikusan vagy papíralapon előterjesztett kérelem mellékleteként csatolandó kérelem-formanyomtatvány adattartalmát a 8. melléklet állapítja meg.
 
-(7)[^101] A papíralapon benyújtott kérelemhez a bejegyzés alapjául szolgáló okiratot két eredeti példányban kell mellékelni.
+(7)[^105] A papíralapon benyújtott kérelemhez a bejegyzés alapjául szolgáló okiratot két eredeti példányban kell mellékelni.
 
-[^99]: A 121. § (1) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg. [E módosító rendelet 25. § 11. pontja által elrendelt módosítás, amely szerint a 121. § (1) bekezdése a „tények bejegyzése iránti kérelmet –” szövegrész helyett a „tények változásának bejegyzése iránti beadványt –” szöveggel lép hatályba, nem vezethető át.]
-[^100]: A 121. § (6) bekezdését a 483/2024. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^101]: A 121. § (7) bekezdését a 483/2024. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^103]: A 121. § (1) bekezdése a 483/2024. (XII. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg. [E módosító rendelet 25. § 11. pontja által elrendelt módosítás, amely szerint a 121. § (1) bekezdése a „tények bejegyzése iránti kérelmet –” szövegrész helyett a „tények változásának bejegyzése iránti beadványt –” szöveggel lép hatályba, nem vezethető át.]
+[^104]: A 121. § (6) bekezdését a 483/2024. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^105]: A 121. § (7) bekezdését a 483/2024. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.

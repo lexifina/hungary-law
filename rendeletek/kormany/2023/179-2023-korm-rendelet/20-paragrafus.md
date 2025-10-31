@@ -18,7 +18,7 @@
 
 6. megállapodáson és bírósági határozaton alapuló földhasználati jog;
 
-7.[^5] haszonélvezeti jog, túlélő házastárs haszonélvezeti joga és özvegyi jog;
+7.[^9] haszonélvezeti jog, túlélő házastárs haszonélvezeti joga és özvegyi jog;
 
 8. használat joga;
 
@@ -32,7 +32,7 @@ b) földminősítési mintaterek elhelyezését biztosító használati jog,
 
 c) államhatárjelek elhelyezését biztosító használati jog,
 
-d)[^6] gázipari sajátos építmények elhelyezését, illetve üzemeltetését biztosító vezetékjog és használati jog,
+d)[^10] gázipari sajátos építmények elhelyezését, illetve üzemeltetését biztosító vezetékjog és használati jog,
 
 e) vezetékjog,
 
@@ -40,7 +40,7 @@ f) vízvezetési szolgalmi jog,
 
 g) vízhasználati szolgalmi jog,
 
-h)[^7] a bányászatról szóló törvény szerinti szolgalom (a továbbiakban: bányászati célú szolgalom),
+h)[^11] a bányászatról szóló törvény szerinti szolgalom (a továbbiakban: bányászati célú szolgalom),
 
 i) vasúti használati jog,
 
@@ -54,7 +54,7 @@ m) villamosenergia-ipari építmény céljára szolgáló vezetékszolgalom,
 
 n) villamosenergia-ipari építmény céljára szolgáló használati szolgalom;
 
-o)[^8] öntözési szolgalom;
+o)[^12] öntözési szolgalom;
 
 11. jelzálogjog, önálló zálogjog, átalakításos önálló zálogjog;
 
@@ -84,13 +84,13 @@ o)[^8] öntözési szolgalom;
 
 24. közös tulajdon használatára vonatkozó jog.
 
-25.[^9] építményi jog;
+25.[^13] építményi jog;
 
-26.[^10] jogszabályon alapuló használati jog.
+26.[^14] jogszabályon alapuló használati jog.
 
-[^5]: A 20. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^6]: A 20. § 10. pont d) alpontja a 287/2024. (IX. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^7]: A 20. § 10. pont h) alpontja a 287/2024. (IX. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^8]: A 20. § 10. pont o) alpontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^9]: A 20. § 25. pontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^10]: A 20. § 26. pontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^9]: A 20. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^10]: A 20. § 10. pont d) alpontja a 287/2024. (IX. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: A 20. § 10. pont h) alpontja a 287/2024. (IX. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^12]: A 20. § 10. pont o) alpontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^13]: A 20. § 25. pontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^14]: A 20. § 26. pontját a 287/2024. (IX. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 153/2025. (VI. 19.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

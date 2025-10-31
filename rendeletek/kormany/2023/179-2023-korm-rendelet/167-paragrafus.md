@@ -28,6 +28,6 @@ d) a jelzálogjog ranghelyének előzetes biztosítása, lemondás jelzálogjog 
 
 e) a földminősítési mintatér megjelölése.
 
-(4)[^125] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás nem terjed ki a lakásszövetkezeti tagot megillető állandó használati jogra.
+(4)[^133] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás nem terjed ki a lakásszövetkezeti tagot megillető állandó használati jogra.
 
-[^125]: A 167. § (4) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^133]: A 167. § (4) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 5. §-ával megállapított szöveg.

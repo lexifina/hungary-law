@@ -1,4 +1,4 @@
-102. §[^73] (1) Az ingatlan-nyilvántartásban az építési engedélyhez vagy egyszerű bejelentéshez kötött építmény építését, bővítését végleges használatbavételi engedély, fennmaradási engedély, hatósági bizonyítvány, a használatbavétel tudomásulvételéről szóló végzés vagy az építésügyi hatóság használatbavétel tudomásulvételéről szóló értesítése alapján lehet bejegyezni.
+102. §[^77] (1) Az ingatlan-nyilvántartásban az építési engedélyhez vagy egyszerű bejelentéshez kötött építmény építését, bővítését végleges használatbavételi engedély, fennmaradási engedély, hatósági bizonyítvány, a használatbavétel tudomásulvételéről szóló végzés vagy az építésügyi hatóság használatbavétel tudomásulvételéről szóló értesítése alapján lehet bejegyezni.
 
 (2) Építmény bontását a bontás elvégzéséről szóló, az építésügyi hatóság által hozott végzés vagy kiállított hatósági bizonyítvány alapján lehet az ingatlan-nyilvántartásba bejegyezni.
 
@@ -16,4 +16,4 @@
 
 (9) Az e § (1)–(6) bekezdése szerinti hatósági döntésnek a kiállító hatóságtól történő beszerzéséről, amennyiben azt az ügyfél a kérelméhez nem csatolta, az ingatlanügyi hatóság gondoskodik.
 
-[^73]: A 102. § a 483/2024. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^77]: A 102. § a 483/2024. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.

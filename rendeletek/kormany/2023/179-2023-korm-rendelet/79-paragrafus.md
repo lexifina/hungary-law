@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti tény bejegyzését követően további jogokat – a közvetlenül jogszabályon alapuló, a bírósági vagy hatósági határozaton alapuló, továbbá a 20. § 9. és 10. pontjában meghatározott jogok kivételével, de a (3) bekezdésben foglaltakra tekintettel – csak a szerződés alapján történő tulajdonosváltozás bejegyzésétől függő hatállyal lehet bejegyezni. A bejegyzésben, valamint a további jogokra irányuló bejegyzésekben erre utalni kell.
 
-(3)[^70] A tény bejegyzését követően az ingatlanügyi hatóság a hatósági határozaton alapuló jelzálogjogot, a végrehajtási jogot és a tény bejegyzését követően az ingatlan-nyilvántartásba bejegyzett végrehajtási jogon alapuló árverés esetén az árverési vevő tulajdonjogát a szerződés alapján történő tulajdonosváltozás bejegyzésétől függő hatállyal jegyzi be az ingatlan-nyilvántartásba. A bejegyzésben a függő hatályra utalni kell.
+(3)[^74] A tény bejegyzését követően az ingatlanügyi hatóság a hatósági határozaton alapuló jelzálogjogot, a végrehajtási jogot és a tény bejegyzését követően az ingatlan-nyilvántartásba bejegyzett végrehajtási jogon alapuló árverés esetén az árverési vevő tulajdonjogát a szerződés alapján történő tulajdonosváltozás bejegyzésétől függő hatállyal jegyzi be az ingatlan-nyilvántartásba. A bejegyzésben a függő hatályra utalni kell.
 
-[^70]: A 79. § (3) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^74]: A 79. § (3) bekezdése a 153/2025. (VI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,0 +1,1 @@
+17/C. § Az Inytv. 72/E. § (1) bekezdése szerinti kérelemre induló adatváltozás bejegyzése iránti eljárás nem mentesíti a tulajdonost a zártkerti ingatlanon fennálló építmény ingatlan-nyilvántartási feltüntetéséhez szükséges más hatósági engedélyek beszerzésének kötelezettsége alól.

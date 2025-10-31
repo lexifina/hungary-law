@@ -22,13 +22,13 @@ b) végelszámolás;
 
 6. telekalakítási eljárás megindítása;
 
-7.[^11] bányászati célú szolgalom alapítására irányuló eljárás megindítása;
+7.[^15] bányászati célú szolgalom alapítására irányuló eljárás megindítása;
 
 8. részarány-földtulajdon helyének meghatározására irányuló eljárás megindítása;
 
 9. felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás megindítása;
 
-10.[^12]
+10.[^16]
 
 11. az ingatlanügyi hatóság döntése elleni
 
@@ -106,7 +106,7 @@ b) helyrehozatali kötelezettség,
 
 c) beültetési kötelezettség;
 
-d)[^13] leállási kötelezettség;
+d)[^17] leállási kötelezettség;
 
 25. önkormányzati hatósági szerződésen alapuló településrendezési kötelezettség;
 
@@ -150,7 +150,7 @@ g) építmény, építményrész felülvizsgálatára, felújítására, átalak
 
 38. a társasházakról szóló törvény alapján
 
-a)[^14]
+a)[^18]
 
 b) közös képviselői tisztség keletkezése,
 
@@ -182,7 +182,7 @@ e) szervezeti-működési szabályzat benyújtása;
 
 49. biztonsági övezet fennállása;
 
-50.[^15] kutatási védőidom fennállása;
+50.[^19] kutatási védőidom fennállása;
 
 51. teljes eljárásban történő elbírálás;
 
@@ -192,17 +192,17 @@ e) szervezeti-működési szabályzat benyújtása;
 
 54. a közös tulajdon rendezésének kötelezettsége.
 
-55.[^16] tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása;
+55.[^20] tulajdonos hozzájárulásának hiánya miatti társasháztulajdonná való átalakítás iránti per megindítása;
 
-56.[^17] az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindítása;
+56.[^21] az országos jelentőségű vasútvonallal érintett ingatlan tulajdonjogi viszonyainak rendezése iránti eljárás megindítása;
 
-57.[^18] változtatási tilalom.
+57.[^22] változtatási tilalom.
 
-[^11]: A 21. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^12]: A 21. § 10. pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^13]: A 21. § 24. pont d) alpontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^14]: A 21. § 38. pont a) alpontját a 153/2025. (VI. 19.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^15]: A 21. § 50. pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^16]: A 21. § 55. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^17]: A 21. § 56. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^18]: A 21. § 57. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^15]: A 21. § 7. pontja a 287/2024. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^16]: A 21. § 10. pontját a 153/2025. (VI. 19.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^17]: A 21. § 24. pont d) alpontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^18]: A 21. § 38. pont a) alpontját a 153/2025. (VI. 19.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^19]: A 21. § 50. pontja a 287/2024. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^20]: A 21. § 55. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^21]: A 21. § 56. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^22]: A 21. § 57. pontját a 287/2024. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
