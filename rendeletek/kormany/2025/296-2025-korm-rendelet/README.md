@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-296-20-
 | --- | --- | --- |
 | 2025-09-26 | 2025-296-20-22.1 | 296/2025. (IX. 25.) Korm. rendelet |
 | 2025-10-11 | 2025-296-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-10-31 | 2025-296-20-22.3 | 336/2025. (X. 30.) Korm. rendelet |
