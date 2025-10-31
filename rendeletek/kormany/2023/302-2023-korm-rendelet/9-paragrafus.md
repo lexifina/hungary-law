@@ -6,4 +6,6 @@
 
 a) lakhatási körülményeiknek javulnia kell, valamint
 
-b) a kialakított lakásnak meg kell felelnie a 8. § (1) bekezdésében foglalt követelményeknek.
+b)[^34] a kialakított lakásnak meg kell felelnie a 8. § (1) vagy (2) bekezdésében foglalt követelményeknek.
+
+[^34]: A 9. § (3) bekezdés b) pontja a 332/2025. (X. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.

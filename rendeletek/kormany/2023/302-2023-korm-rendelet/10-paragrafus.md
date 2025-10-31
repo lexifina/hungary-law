@@ -22,9 +22,9 @@ j) a korszerűsítéshez közvetlenül kapcsolódó helyreállítási munka, a k
 
 (2) A korszerűsítéshez igényelt családi otthonteremtési kedvezményből több, az (1) bekezdés szerinti munkálat elvégzése is támogatható.
 
-(3)[^34] A 6. § (1) bekezdés a) vagy b) pontja szerinti támogatás igénybevétele esetén az igénylő a támogatási szerződésben vállalja, hogy a 15. § (7) bekezdés e) pontja szerinti számlabemutatási kötelezettsége keretében nem nyújt be olyan számlát, amelyet ugyanazon lakásra nyújtott otthonfelújítási támogatás kapcsán már elszámoltak.
+(3)[^35] A 6. § (1) bekezdés a) vagy b) pontja szerinti támogatás igénybevétele esetén az igénylő a támogatási szerződésben vállalja, hogy a 15. § (7) bekezdés e) pontja szerinti számlabemutatási kötelezettsége keretében nem nyújt be olyan számlát, amelyet ugyanazon lakásra nyújtott otthonfelújítási támogatás kapcsán már elszámoltak.
 
-(4)[^35] A 6. § (1) bekezdés a) vagy b) pontja szerinti támogatás igénybevétele esetén a hitelintézet a 15. § (7) bekezdés e) pontja szerinti számlabemutatási kötelezettség keretében benyújtott és elszámolt számlák adatait feltölti a Kincstár – 45. § (4) bekezdése szerinti – eAdat felületére.
+(4)[^36] A 6. § (1) bekezdés a) vagy b) pontja szerinti támogatás igénybevétele esetén a hitelintézet a 15. § (7) bekezdés e) pontja szerinti számlabemutatási kötelezettség keretében benyújtott és elszámolt számlák adatait feltölti a Kincstár – 45. § (4) bekezdése szerinti – eAdat felületére.
 
-[^34]: A 10. § (3) bekezdését a 389/2024. (XII. 11.) Korm. rendelet 36. § (2) bekezdése iktatta be.
-[^35]: A 10. § (4) bekezdését a 389/2024. (XII. 11.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^35]: A 10. § (3) bekezdését a 389/2024. (XII. 11.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^36]: A 10. § (4) bekezdését a 389/2024. (XII. 11.) Korm. rendelet 36. § (2) bekezdése iktatta be.
