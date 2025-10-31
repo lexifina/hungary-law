@@ -16,6 +16,6 @@
 
 a) tetőfelületeken zöldtető kialakításával biztosított vegyes rendszerben is történhet és
 
-b)[^7] talajszinten csak közterületről nem látható módon lehetséges.
+b)[^8] talajszinten csak közterületről nem látható módon lehetséges.
 
-[^7]: A 43. § (7) bekezdés b) pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^8]: A 43. § (7) bekezdés b) pontja a 284/2025. (VIII. 25.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.

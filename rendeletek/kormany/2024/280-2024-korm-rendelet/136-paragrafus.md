@@ -1,4 +1,4 @@
-136. § (1)[^29] A (2) bekezdésben foglalt kivételekkel az e rendelet hatálybalépése után indított hatósági eljárásokban, építészeti tervtanácsi és egyéb eljárásokban, ezek hiányában a területhasználat megkezdésekor
+136. § (1)[^30] A (2) bekezdésben foglalt kivételekkel az e rendelet hatálybalépése után indított hatósági eljárásokban, építészeti tervtanácsi és egyéb eljárásokban, ezek hiányában a területhasználat megkezdésekor
 
 a) az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának figyelembevételével elkészített és elfogadott településrendezési eszközökkel rendelkező településeknél, fővárosi kerületeknél a településrendezési eszközt az OTÉK 2012. augusztus 6-án hatályos II. és III. Fejezetével, valamint ezek mellékleteivel együttesen,
 
@@ -10,7 +10,7 @@ d) e rendelet hatálybalépését követően készülő településtervvel rende
 
 kell alkalmazni.
 
-(2)[^30] Azon építmények, telekalakítások vagy területhasználatok esetében, amelyek vonatkozásában 2025. június 30-át követően
+(2)[^31] Azon építmények, telekalakítások vagy területhasználatok esetében, amelyek vonatkozásában 2025. június 30-át követően
 
 a) indul a hatósági eljárás,
 
@@ -26,8 +26,8 @@ az 1. §-t, a 2. §-t, a 4. §-t, a 7. § (6) bekezdését, a 8. § (9) bekezdé
 
 (3) A 4. § szerinti egyedi eltérési kérelem jóváhagyása esetén az (1) és a (2) bekezdésben foglaltakat az egyedi eltérési jogosultsággal együttesen kell alkalmazni.
 
-(4)[^31] 2025. július 1-je előtt kiadott építési engedély vagy egyszerű bejelentés esetén, ha az építmény 2025. július 1-jén használatbavételi engedéllyel, használatbavétel tudomásulvételével vagy az épület felépítésének, bővítésének megtörténtét igazoló hatósági bizonyítvánnyal még nem rendelkezik, az építési engedély mellékletét képező, záradékolt építészeti-műszaki dokumentációtól vagy az egyszerű bejelentési dokumentációtól való engedély- vagy bejelentésköteles eltérés esetén az eltérés vonatkozásában az e rendelet vonatkozó rendelkezéseit – az (1)–(3) bekezdésben foglaltak figyelembevételével – alkalmazni kell.
+(4)[^32] 2025. július 1-je előtt kiadott építési engedély vagy egyszerű bejelentés esetén, ha az építmény 2025. július 1-jén használatbavételi engedéllyel, használatbavétel tudomásulvételével vagy az épület felépítésének, bővítésének megtörténtét igazoló hatósági bizonyítvánnyal még nem rendelkezik, az építési engedély mellékletét képező, záradékolt építészeti-műszaki dokumentációtól vagy az egyszerű bejelentési dokumentációtól való engedély- vagy bejelentésköteles eltérés esetén az eltérés vonatkozásában az e rendelet vonatkozó rendelkezéseit – az (1)–(3) bekezdésben foglaltak figyelembevételével – alkalmazni kell.
 
-[^29]: A 136. § (1) bekezdés nyitó szövegrésze a 284/2025. (VIII. 25.) Korm. rendelet 37. § i) pontja szerint módosított szöveg.
-[^30]: A 136. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^31]: A 136. § (4) bekezdése a 391/2024. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 284/2025. (VIII. 25.) Korm. rendelet 37. § j) pontja szerint módosított szöveg.
+[^30]: A 136. § (1) bekezdés nyitó szövegrésze a 284/2025. (VIII. 25.) Korm. rendelet 37. § i) pontja szerint módosított szöveg.
+[^31]: A 136. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^32]: A 136. § (4) bekezdése a 391/2024. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 284/2025. (VIII. 25.) Korm. rendelet 37. § j) pontja szerint módosított szöveg.

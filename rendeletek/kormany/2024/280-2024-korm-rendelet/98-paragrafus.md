@@ -8,10 +8,10 @@
 
 (4) Akadálymentes használathoz a kapcsolókat, a jelző és működtető berendezéseket, valamint a kommunikációs eszközöket a padlószinttől számított 0,80–1,10 méter közötti magasságban kell elhelyezni.
 
-(5)[^23]
+(5)[^24]
 
 (6) Épületen belül az elektromos, elektronikus hírközlési vezetékeket az építményszerkezetek legkevesebb roncsolásával – a padlóban vagy álmennyezet fölött – kell vezetni.
 
 (7) Az építmények beépített vezetékhálózatát úgy kell tervezni és megvalósítani, hogy az energetikai korszerűsítés, vagyonvédelmi rendszer, kültéri megvilágítás kiépítése a lehető legkevesebb átalakítással a későbbiekben is megvalósítható legyen.
 
-[^23]: A 98. § (5) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 18. § c) pontja alapján nem lép hatályba.
+[^24]: A 98. § (5) bekezdése a 424/2024. (XII. 23.) Korm. rendelet 18. § c) pontja alapján nem lép hatályba.

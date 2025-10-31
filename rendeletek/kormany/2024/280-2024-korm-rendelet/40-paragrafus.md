@@ -30,6 +30,8 @@ a) jogszerűen elhelyezett megújuló energiaforrás műtárgya fennmaradhat, é
 
 b) erőművi és hálózati végleges engedéllyel rendelkező megújuló energiaforrás műtárgya elhelyezhető.
 
-(6) A honvédelmi és katonai, valamint nemzetbiztonsági építmények valamennyi építési övezetben, illetve övezetben – a telek megengedett beépített területére és beépítési magasságára, a telek zöldfelületének legkisebb mértékére és a szintterületi mutatóra e rendeletben, továbbá a helyi építési szabályzatban meghatározott előírásokra tekintet nélkül – elhelyezhetők.
+(6)[^7] A honvédelmi és katonai, valamint nemzetbiztonsági építmények valamennyi építési övezetben, illetve övezetben – az általános településrendezési követelményekre, továbbá a helyi építési szabályzatban meghatározott előírásokra tekintet nélkül – elhelyezhetők. Az így elhelyezett építmény rendeltetése – a telek e rendeletben, továbbá a helyi építési szabályzatban meghatározott megengedett beépített területére és beépítési magasságára, az építési helyre, a telek zöldfelületének legkisebb mértékére és a szintterületi mutatóra vonatkozó előírásokra tekintet nélkül – megváltoztatható.
 
 (7) E fejezet alkalmazásában – ha e rendelet másként nem rendelkezik – telek alatt az építési telket is érteni kell.
+
+[^7]: A 40. § (6) bekezdése a 332/2025. (X. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

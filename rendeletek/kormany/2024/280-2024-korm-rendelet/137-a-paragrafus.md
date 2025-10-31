@@ -1,4 +1,4 @@
-137/A. §[^33] A 136. §-ban foglaltaktól eltérően azon építmények, telekalakítások vagy területhasználatok esetében, amelyek vonatkozásában 2025. július 1-je előtt
+137/A. §[^34] A 136. §-ban foglaltaktól eltérően azon építmények, telekalakítások vagy területhasználatok esetében, amelyek vonatkozásában 2025. július 1-je előtt
 
 a) indult a hatósági eljárás,
 
@@ -10,4 +10,4 @@ d) adták ki az építési engedélyt vagy tették meg az egyszerű bejelentést
 
 az OTÉK 2024. december 31-én hatályos szövegét kell alkalmazni.
 
-[^33]: A 137/A. §-t a 391/2024. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 284/2025. (VIII. 25.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^34]: A 137/A. §-t a 391/2024. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 284/2025. (VIII. 25.) Korm. rendelet 34. §-ával megállapított szöveg.
