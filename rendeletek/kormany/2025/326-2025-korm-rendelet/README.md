@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-326-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-10-21 | 2025-326-20-22.1 | 326/2025. (X. 20.) Korm. rendelet |
+| 2025-10-31 | 2025-326-20-22.2 | 337/2025. (X. 30.) Korm. rendelet |
