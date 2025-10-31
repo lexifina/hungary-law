@@ -1,4 +1,4 @@
-122. §[^494] E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr114.) megállapított 2. mellékletében foglalt táblázat 114. sorát a Módr114. hatálybalépésekor[^495] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+122. §[^495] E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr114.) megállapított 2. mellékletében foglalt táblázat 114. sorát a Módr114. hatálybalépésekor[^496] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^494]: A 122. §-t a 198/2023. (V. 22.) Korm. rendelet 3. §-a iktatta be.
-[^495]: A hatálybalépés időpontja 2023. május 23.
+[^495]: A 122. §-t a 198/2023. (V. 22.) Korm. rendelet 3. §-a iktatta be.
+[^496]: A hatálybalépés időpontja 2023. május 23.

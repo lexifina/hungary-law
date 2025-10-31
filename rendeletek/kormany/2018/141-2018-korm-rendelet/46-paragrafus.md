@@ -1,4 +1,4 @@
-## 45. §[^343] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 580/2020. (XII. 14.) Korm. rendelettel (a továbbiakban: Módr37.) megállapított 2. mellékletben foglalt táblázat 51. sorát a Módr37. hatálybalépésekor[^344] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 45. §[^344] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 580/2020. (XII. 14.) Korm. rendelettel (a továbbiakban: Módr37.) megállapított 2. mellékletben foglalt táblázat 51. sorát a Módr37. hatálybalépésekor[^345] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^343]: A 45. §-t az 580/2020. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
-[^344]: A hatálybalépés időpontja 2020. december 15.
+[^344]: A 45. §-t az 580/2020. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^345]: A hatálybalépés időpontja 2020. december 15.
