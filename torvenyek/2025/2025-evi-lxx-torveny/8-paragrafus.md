@@ -1,0 +1,13 @@
+8. § Az 1. § és a 3. § a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
+
+|
+
+Dr. Sulyok Tamás s. k.,
+
+köztársasági elnök
+
+|
+
+Dr. Latorcai János s. k.,
+
+az Országgyűlés alelnöke
