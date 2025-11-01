@@ -1,3 +1,3 @@
-5. §[^5]
+5. § A 68/2020. (XII. 23.) AM rendelet 8. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^5]: Az 5. § a 16. § (2) bekezdése alapján 2025. november 1-jén lép hatályba.
+„(3a) A krízisbiztosítási rendszer kapcsán az agrárgazdasági elemzésekkel foglalkozó intézmény által alkalmazott STÉ-kalkulátort a krízisbiztosítási szerv a honlapján közzéteszi.”

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-12-20-7
 | --- | --- | --- |
 | 2025-04-30 | 2025-12-20-7R.1 | 12/2025. (IV. 22.) AM rendelet |
 | 2025-05-01 | 2025-12-20-7R.2 | 2010. évi CXXX. törvény |
+| 2025-11-01 | 2025-12-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
