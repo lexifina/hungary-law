@@ -16,7 +16,7 @@ g) az állami szerv által igazolt állami célú nemzetközi repülésekhez és
 
 h) az állami légijármű nyilvántartásának, gyártásának és javításának, valamint annak típus- és légialkalmasságának részletes szabályait,
 
-i) a pilóta nélküli állami légijárművek repülésének, a pilóta nélküli állami légijármű rendszerek üzemeltetésének, a kezelő személyzet képesítésének, egészségi alkalmasságának követelményeit, valamint a vonatkozó hatósági eljárás részletes szabályait,
+i) a pilóta nélküli állami légijárművek nyilvántartásának, gyártásának, javításának, típus- és légialkalmasságának, üzemben tartásának, üzemeltetésének, repülésének, a kezelő személyzet képesítésének, valamint a vonatkozó hatósági eljárásoknak a részletes szabályait,
 
 j) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait,.
 
