@@ -4,4 +4,6 @@
 
 ## [3] A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az ISD DUNAFERR Dunai Vasmű Zártkörűen Működő Részvénytársaság „felszámolás alatt”, a Duna Furnace Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint a Dunarolling Dunai Vasmű Korlátolt Felelősségű Társaság „felszámolás alatt” felszámolási eljárásának stratégiailag kiemelt jelentőségű felszámolási eljárássá minősítéséről szóló 326/2025. (X. 20.) Korm. rendelet 1. §-ában az „(a továbbiakban együtt: Társaságok)” szövegrész helyébe az „ , az ISD POWER Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság „felszámolás alatt” (székhelye: 2400 Dunaújváros, Vasmű tér 1–3.; cégjegyzékszáma: 07-09-004531; adószáma: 11451448-2-07) gazdasági társaság, a DUNAFERR LABOR Munkaerőkölcsönző és Műszaki Szolgáltató Nonprofit Korlátolt Felelősségű Társaság „felszámolás alatt” (székhelye: 2400 Dunaújváros, Vasmű tér 1–3.; cégjegyzékszáma: 07-09-016672; adószáma: 22136132-2-07) gazdasági társaság (a továbbiakban együtt: Társaságok)” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
