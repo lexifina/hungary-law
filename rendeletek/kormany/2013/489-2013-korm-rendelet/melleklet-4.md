@@ -48,8 +48,8 @@
 
 | 24. | 8. melléklet II. fejezetében meghatározott mesterfokozatú végzettségű mesterpedagógus vagy kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 103 000 forint/fő/év |
 
-4. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^99]
+4. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^101]
 
 A 2022. évi bérkompenzáció fajlagos összegei
 
-[^99]: A 4. mellékletet a 11/2022. (I. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § c) pontja szerint módosított szöveg.
+[^101]: A 4. mellékletet a 11/2022. (I. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § c) pontja szerint módosított szöveg.
