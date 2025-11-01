@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-180-00-00
 | 2025-06-15 | 2025. évi XXXV. törvény | 2012-180-00-00.32 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2012-180-00-00.33 |
 | 2025-09-01 | 2025. évi XLIX. törvény | 2012-180-00-00.34 |
+| 2025-11-01 | 2025. évi LXXI. törvény | 2012-180-00-00.35 |
