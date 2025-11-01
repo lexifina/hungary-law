@@ -10,4 +10,6 @@ c) a KELER Központi Értéktár Zártkörűen Működő Részvénytársaságra,
 
 d) az összevont alapú felügyelet alá nem tartozó lakás-takarékpénztárra,
 
-e) a negyvenmilliárd forintnál alacsonyabb, 1 éven túli hátralévő lejáratú nettó lakossági jelzáloghitel-állománnyal rendelkező hitelintézetre.
+e)[^1] a százmilliárd forintnál alacsonyabb, 1 éven túli hátralévő lejáratú nettó lakossági jelzáloghitel-állománnyal rendelkező hitelintézetre.
+
+[^1]: Az 1. § (2) bekezdés e) pontja a 34/2025. (X. 30.) MNB rendelet 3. §-a szerint módosított szöveg.
