@@ -1,0 +1,5 @@
+## 32.[^32]
+
+44. §
+
+[^32]: A 32. alcím a 63. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
