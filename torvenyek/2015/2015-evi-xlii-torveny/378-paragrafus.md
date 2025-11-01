@@ -1,0 +1,5 @@
+378. § (1) A 2025. október 31-én rendvédelmi tisztjelölti jogviszonyban álló rendvédelmi tisztjelölt szolgálati jogviszonya a rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvény hatálybalépésének napján a törvény erejénél fogva átalakul szerződéses rendvédelmi tisztjelölti jogviszonnyá.
+
+(2) A rendvédelmi tisztjelöltet legkésőbb 2025. november 15-ig írásban tájékoztatni kell a rendvédelmi tisztjelölti jogviszonyát érintő módosítás tartalmi elemeiről, és gondoskodni kell a szerződés aláírásáról. Ha a rendvédelmi tisztjelölt az előírt határnapig a szerződést nem kívánja aláírni, a rendvédelmi tisztjelölti jogviszonya 2025. november 30. napjával megszűnik és visszatérítési kötelezettsége keletkezik, ebben az esetben a visszatérítési kötelezettségre a 285/C. §-t kell alkalmazni.
+
+(3) A rendvédelmi tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.

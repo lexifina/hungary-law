@@ -2,7 +2,7 @@
 
 ## A RENDVÉDELMI TISZTJELÖLT
 
-284. § (1) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti szolgálati jogviszonyban (a továbbiakban: rendvédelmi tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szervet jogszabályban meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A rendvédelmi tisztjelölt elsődleges szolgálati kötelezettsége a rendvédelmi szervnél a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülés.
+284. § (1) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti szerződéses jogviszonyban (a továbbiakban: rendvédelmi tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szervet jogszabályban meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A rendvédelmi tisztjelölt elsődleges szolgálati kötelezettsége a rendvédelmi szervnél a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülés.
 
 (2) A rendvédelmi tisztjelöltre e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 

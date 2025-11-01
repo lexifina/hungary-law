@@ -1,6 +1,6 @@
 ## 113. A rendvédelmi tisztjelölti szolgálat
 
-286. § (1) A rendvédelmi tisztjelölt a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv tisztjelölti állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
+286. § (1) A rendvédelmi tisztjelölt a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv tisztjelölti szerződéses állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
 
 (2) A rendvédelmi tisztjelölt rendfokozata
 
