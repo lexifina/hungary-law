@@ -1,6 +1,6 @@
 31. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
 
-a) 114. § (6) bekezdés nyitó szövegrészében a „vezető illetményét” szövegrész helyébe a „vezető illetményének alsó határát” szöveg,
+a)
 
 b) 284. § (1) bekezdésében a „tisztjelölti szolgálati” szövegrész helyébe a „tisztjelölti szerződéses” szöveg,
 
@@ -16,12 +16,12 @@ g) 285/C. § (3) bekezdésében a „szolgálati jogviszony” szövegrész hely
 
 h) 286. § (1) bekezdésében a „tisztjelölti állományában” szövegrész helyébe a „tisztjelölti szerződéses állományában” szöveg,
 
-i) 319/C. § (1) bekezdés e) pontjában a „létesítését megelőzően” szövegrész helyébe a „létesítését megelőzően, valamint a szerződéses jogviszony fennállása alatt” szöveg,
+i)
 
-j) 319/C. § (3) bekezdés c) pontjában a „10 napon belül lefolytatja,” szövegrész helyébe a „tíz napon belül lefolytatja, amely határidőt a kifogástalan életvitel ellenőrzésre felhatalmazott szerv egy alkalommal tíz nappal meghosszabbíthatja,” szöveg,
+j)
 
-k) 350. § (4) bekezdésében a „2025.” szövegrész helyébe a „2026.” szöveg,
+k)
 
-l) 350. § (4b) bekezdésében a „2025.” szövegrész helyébe a „2026.” szöveg
+l)
 
 lép.

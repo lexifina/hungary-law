@@ -1,3 +1,1 @@
-22. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 157/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 114. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kiemelt vezető a 154–157. § szerint megállapított illetmény helyett a miniszter által egyedileg meghatározott illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg a 9. mellékletben meghatározott alsó sáv figyelembevételével. A 114. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kiemelt vezető tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetménye nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi bruttó átlagkereset tízszeresét.”
+### 22. §
