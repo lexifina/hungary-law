@@ -1,6 +1,6 @@
-## A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthon és az ideiglenes befogadó férőhely[^502]
+## A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthon és az ideiglenes befogadó férőhely[^504]
 
-135/A. §[^503] (1) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen elhelyezett kísérő nélküli kiskorú számára biztosítani kell
+135/A. §[^505] (1) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen elhelyezett kísérő nélküli kiskorú számára biztosítani kell
 
 a) a lakhatási lehetőséget;
 
@@ -22,7 +22,7 @@ g) a hozzátartozóival való levelezési költséget, a gyámságát ellátó s
 
 h) a szabadidejének hasznos eltöltését, a játékhoz, sporthoz szükséges eszközöket, az e tevékenységekhez kapcsolódó szükséges és indokolt költséget;
 
-i)[^504] a 82. §-ban foglaltak szerint járó havi zsebpénz időarányos részét heti rendszerességgel, utólagosan, a 82. § (4) bekezdésében foglalt zsebpénznyilvántartás vezetése mellett;
+i)[^506] a 82. §-ban foglaltak szerint járó havi zsebpénz időarányos részét heti rendszerességgel, utólagosan, a 82. § (4) bekezdésében foglalt zsebpénznyilvántartás vezetése mellett;
 
 j) a lehetőséget arra, hogy a számára nyújtott ellátásról, illetve a személyét érintő ügyekről véleményt nyilváníthasson;
 
@@ -36,6 +36,6 @@ l) az ellátásához, valamint az ellátásához kapcsolódóan az ügyei intéz
 
 (4) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen folyó gondozás és nevelés során a kísérő nélküli kiskorú véleményét életkorának és személyiségállapotának megfelelően figyelembe kell venni.
 
-[^502]: A 135/A. §-t megelőző alcímet a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
-[^503]: A 135/A. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
-[^504]: A 135/A. § (1) bekezdés i) pontja a 6/2020. (III. 6.) EMMI rendelet 6. § g) pontja szerint módosított szöveg.
+[^504]: A 135/A. §-t megelőző alcímet a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^505]: A 135/A. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^506]: A 135/A. § (1) bekezdés i) pontja a 6/2020. (III. 6.) EMMI rendelet 6. § g) pontja szerint módosított szöveg.

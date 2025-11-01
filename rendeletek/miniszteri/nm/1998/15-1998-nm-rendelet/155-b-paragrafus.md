@@ -1,8 +1,8 @@
-## Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás[^642]
+## Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás[^644]
 
 155/B. § (1) A szakszolgálat a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást a szakmai programjában meghatározott szakmai egység működtetésével biztosítja, amelynek feladata az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermek áldozatok (a továbbiakban ezen alcímben együtt: bántalmazott gyermekek) vizsgálata és terápiája, valamint – hivatalos szerv megkeresése alapján – meghallgatása.
 
-(2)[^643] A bántalmazott gyermekek
+(2)[^645] A bántalmazott gyermekek
 
 a) vizsgálatát és meghallgatását pszichológus vagy pszichiáter végzettségű szaktanácsadó,
 
@@ -10,7 +10,7 @@ b) terápiáját klinikai gyermek szakpszichológus vagy pszichiáter végzetts�
 
 c) orvosi vizsgálatát orvos,
 
-d)[^644] vizsgálatát, terápiáját és meghallgatását előkészítő tevékenységet szociális munkás vagy diakónus szakképzettséggel rendelkező személy,
+d)[^646] vizsgálatát, terápiáját és meghallgatását előkészítő tevékenységet szociális munkás vagy diakónus szakképzettséggel rendelkező személy,
 
 e) meghallgatásának technikai feltételeit, a kép és hang rögzítését technikus
 
@@ -28,6 +28,6 @@ c) a feladatellátásra külső szakembereket kérhet fel.
 
 (5) A szakszolgálat a bántalmazott gyermekek vizsgálatára, terápiájára és meghallgatására irányuló szolgáltatását térítésmentesen nyújtja.
 
-[^642]: Az „Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás” alcímet (155/B. §) a 4/2019. (II. 27.) EMMI rendelet 6. §-a iktatta be.
-[^643]: A 155/B. § (2) bekezdése az 1/2021. (I. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^644]: A 155/B. § (2) bekezdés d) pontja a 27/2023. (VIII. 3.) BM rendelet 4. § i) pontja szerint módosított szöveg.
+[^644]: Az „Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás” alcímet (155/B. §) a 4/2019. (II. 27.) EMMI rendelet 6. §-a iktatta be.
+[^645]: A 155/B. § (2) bekezdése az 1/2021. (I. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^646]: A 155/B. § (2) bekezdés d) pontja a 27/2023. (VIII. 3.) BM rendelet 4. § i) pontja szerint módosított szöveg.

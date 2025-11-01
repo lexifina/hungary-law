@@ -8,6 +8,6 @@ b) tömegközlekedési eszközzel megközelíthető legyen.
 
 (2) A gyermekotthon kezdeményezi a kapcsolatfelvételt a helyi közösséggel, és elősegíti a gyermekek részvételét a helyi szervezetek életében.
 
-(3)[^379] A gyermekotthon a területi szükségletekhez és az e rendeletben meghatározott szakmai szabályokhoz igazodóan alakítja ki szervezetét, nevelési-gondozási rendszerét és szakmai programját.
+(3)[^381] A gyermekotthon a területi szükségletekhez és az e rendeletben meghatározott szakmai szabályokhoz igazodóan alakítja ki szervezetét, nevelési-gondozási rendszerét és szakmai programját.
 
-[^379]: A 110. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 13. §-a iktatta be.
+[^381]: A 110. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 13. §-a iktatta be.

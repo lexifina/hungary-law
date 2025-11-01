@@ -10,6 +10,6 @@ a) a gyermek törvényes képviselőjét,
 
 b) a szakszolgálatot,
 
-c)[^402] a szülő lakóhelye szerinti család- és gyermekjóléti központot.
+c)[^404] a szülő lakóhelye szerinti család- és gyermekjóléti központot.
 
-[^402]: A 123. § (4) bekezdés c) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
+[^404]: A 123. § (4) bekezdés c) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.

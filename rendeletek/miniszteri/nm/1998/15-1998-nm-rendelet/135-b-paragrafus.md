@@ -1,4 +1,4 @@
-## 135/B. §[^505] A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonra és az ideiglenes befogadó férőhelyre – a 114–118. §-ban és a 121–124. §-ban foglaltak kivételével – a III. Fejezet 5. Címét kell alkalmazni azzal, hogy
+## 135/B. §[^507] A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonra és az ideiglenes befogadó férőhelyre – a 114–118. §-ban és a 121–124. §-ban foglaltak kivételével – a III. Fejezet 5. Címét kell alkalmazni azzal, hogy
 
 a) a gyermekotthon gondoskodik a házirend angol nyelvre és lehetőség szerint az ellátottak által beszélt más idegen nyelvre történő lefordításáról és kifüggesztéséről,
 
@@ -10,4 +10,4 @@ d) ha a gyermekotthoni munkakör közalkalmazotti jogviszonyban foglalkoztatott 
 
 e) a 135/A. § (1) bekezdés l) pontja szerinti fordítási és tolmácsolási feladatot – ha a szükséges nyelven szakképzett fordító, tolmács nem áll rendelkezésre –, foglalkoztatásra irányuló jogviszonyban végezheti a nyelvet a feladatellátáshoz szükséges mértékben beszélő személy.
 
-[^505]: A 135/B. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^507]: A 135/B. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## AZ UTÓGONDOZÓI ELLÁTÁS
 
-92. § (1)[^289] Az utógondozói ellátás keretében a fiatal felnőtt számára a befogadását vállaló nevelőszülő a nevelőszülői hálózattal együtt, a gyermekotthon vagy utógondozó otthon, továbbá a külső férőhely működtetője (a továbbiakban együtt: utógondozói ellátást nyújtó) szükség szerinti ellátást nyújt, amelynek keretében biztosítja
+92. § (1)[^291] Az utógondozói ellátás keretében a fiatal felnőtt számára a befogadását vállaló nevelőszülő a nevelőszülői hálózattal együtt, a gyermekotthon vagy utógondozó otthon, továbbá a külső férőhely működtetője (a továbbiakban együtt: utógondozói ellátást nyújtó) szükség szerinti ellátást nyújt, amelynek keretében biztosítja
 
 a) az életvitelszerű tartózkodás lehetőségét,
 
@@ -16,23 +16,23 @@ e) az elsősegélyhez szükséges felszereléseket,
 
 f) a személyre szóló pedagógiai, pszichológiai, jogi, szociális és mentálhigiénés támogatást és segítségnyújtást.
 
-(2)[^290] Ha az utógondozói ellátás elrendelésére a Gyvt. 93. § (1) bekezdés b) pontjában meghatározott ok miatt került sor, az utógondozott számára az utógondozói ellátást nyújtó biztosítja
+(2)[^292] Ha az utógondozói ellátás elrendelésére a Gyvt. 93. § (1) bekezdés b) pontjában meghatározott ok miatt került sor, az utógondozott számára az utógondozói ellátást nyújtó biztosítja
 
 a) az utógondozói ellátás időtartama alatt megkezdett vagy folytatott első tanulmányának teljes költségét,
 
-b)[^291] a tankönyveket, tanszereket és egyéb, a tanulmányok végzéséhez szükséges felszereléseket, továbbá a köznevelési, felsőoktatási intézménybe, szakképző intézménybe vagy felnőttképzőhöz járással kapcsolatban felmerülő költségeket.
+b)[^293] a tankönyveket, tanszereket és egyéb, a tanulmányok végzéséhez szükséges felszereléseket, továbbá a köznevelési, felsőoktatási intézménybe, szakképző intézménybe vagy felnőttképzőhöz járással kapcsolatban felmerülő költségeket.
 
-(2a)[^292] Ha az utógondozói ellátás biztosítására a fiatal felnőtt tulajdonában vagy bérleményében lévő ingatlanban mint külső férőhelyen kerül sor, az ellátás igénybevételéről szóló megállapodásban rögzíteni kell, hogy a külső férőhelyet működtető intézmény által rendelkezésre bocsátott pénzfedezetet a fiatal felnőtt milyen módon köteles felhasználni. A felhasználás teljesítését a külső férőhelyet működtető intézmény a szakmai programjában és a megállapodásban rögzített módon és gyakorisággal ellenőrzi.
+(2a)[^294] Ha az utógondozói ellátás biztosítására a fiatal felnőtt tulajdonában vagy bérleményében lévő ingatlanban mint külső férőhelyen kerül sor, az ellátás igénybevételéről szóló megállapodásban rögzíteni kell, hogy a külső férőhelyet működtető intézmény által rendelkezésre bocsátott pénzfedezetet a fiatal felnőtt milyen módon köteles felhasználni. A felhasználás teljesítését a külső férőhelyet működtető intézmény a szakmai programjában és a megállapodásban rögzített módon és gyakorisággal ellenőrzi.
 
-(3)[^293] A gyermek és gyermekvédelmi gyámja vagy a fiatal felnőtt kérelmére az utógondozói ellátást nyújtó nyilatkozik a fiatal felnőtt utógondozói ellátásra történő befogadásáról vagy annak megtagadásáról, ha a fiatal felnőtt a Gyvt. 93. § (1) bekezdésében meghatározott helyzetben van.
+(3)[^295] A gyermek és gyermekvédelmi gyámja vagy a fiatal felnőtt kérelmére az utógondozói ellátást nyújtó nyilatkozik a fiatal felnőtt utógondozói ellátásra történő befogadásáról vagy annak megtagadásáról, ha a fiatal felnőtt a Gyvt. 93. § (1) bekezdésében meghatározott helyzetben van.
 
-(4)[^294] Az utógondozói ellátást nyújtó a befogadást megtagadhatja, ha a fiatal felnőtt korábbi ellátása során a Gyvt. 93. § (10) bekezdés b) vagy c) pontjában meghatározott magatartást tanúsította.
+(4)[^296] Az utógondozói ellátást nyújtó a befogadást megtagadhatja, ha a fiatal felnőtt korábbi ellátása során a Gyvt. 93. § (10) bekezdés b) vagy c) pontjában meghatározott magatartást tanúsította.
 
-(5)[^295] Ha az utógondozói ellátást nyújtó a befogadást megtagadja, a fiatal felnőtt a kérelmét az elutasítás indokolásával és a maga álláspontjával együtt az intézmény érdekképviseleti fóruma elé terjesztheti.
+(5)[^297] Ha az utógondozói ellátást nyújtó a befogadást megtagadja, a fiatal felnőtt a kérelmét az elutasítás indokolásával és a maga álláspontjával együtt az intézmény érdekképviseleti fóruma elé terjesztheti.
 
-(6)[^296] Az érdekképviseleti fórum a gyámhivatalnak a Gyer. 124. § (2) bekezdése szerinti megkeresésére, vagy a fiatal felnőtt kérelmére az elutasítás okát megvizsgálja és véleményt nyilvánít a kérelem, illetve az elutasítás indokoltságáról.
+(6)[^298] Az érdekképviseleti fórum a gyámhivatalnak a Gyer. 124. § (2) bekezdése szerinti megkeresésére, vagy a fiatal felnőtt kérelmére az elutasítás okát megvizsgálja és véleményt nyilvánít a kérelem, illetve az elutasítás indokoltságáról.
 
-(7)[^297] Az utógondozói ellátást nyújtó és a fiatal felnőtt az utógondozói ellátásról a külön jogszabályban meghatározottak szerint írásbeli megállapodást köt. A megállapodás megkötésekor figyelemmel kell lenni különösen a fiatal felnőtt
+(7)[^299] Az utógondozói ellátást nyújtó és a fiatal felnőtt az utógondozói ellátásról a külön jogszabályban meghatározottak szerint írásbeli megállapodást köt. A megállapodás megkötésekor figyelemmel kell lenni különösen a fiatal felnőtt
 
 a) vagyoni, jövedelmi viszonyaira,
 
@@ -44,15 +44,15 @@ d) tanulmányai folytatására,
 
 e) kötelezettségeire.
 
-(8)[^298] Az utógondozói ellátást igénybe vevő fiatal felnőtt az ellátásért a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendeletben meghatározottak szerint térítési díjat fizet.
+(8)[^300] Az utógondozói ellátást igénybe vevő fiatal felnőtt az ellátásért a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendeletben meghatározottak szerint térítési díjat fizet.
 
-[^289]: A 92. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított, nyitó szövegrésze a 30/2024. (VII. 23.) BM rendelet 16. § 9. pontja szerint módosított szöveg.
-[^290]: A 92. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^291]: A 92. § (2) bekezdése az 1/2021. (I. 7.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^292]: A 92. § (2a) bekezdését a 29/2025. (VII. 24.) BM rendelet 3. §-a iktatta be.
-[^293]: A 92. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (7) bekezdésre változtatva. A 92. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^294]: A 92. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (8) bekezdésre változtatva. A 92. § (4) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^295]: A 92. § (5) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^296]: A 92. § (6) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^297]: A 92. § eredeti (3) bekezdésének számozását (7) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése, nyitó szövegrésze a 26/2013. (III. 29.) EMMI rendelet 37. § 4. pontja szerint módosított szöveg.
-[^298]: A 92. § eredeti (4) bekezdésének számozását (8) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése, szövege a 28/2010. (XII. 30.) NEFMI rendelet 25. § k) pontja szerint módosított szöveg.
+[^291]: A 92. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított, nyitó szövegrésze a 30/2024. (VII. 23.) BM rendelet 16. § 9. pontja szerint módosított szöveg.
+[^292]: A 92. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^293]: A 92. § (2) bekezdése az 1/2021. (I. 7.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^294]: A 92. § (2a) bekezdését a 29/2025. (VII. 24.) BM rendelet 3. §-a iktatta be.
+[^295]: A 92. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (7) bekezdésre változtatva. A 92. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^296]: A 92. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (8) bekezdésre változtatva. A 92. § (4) bekezdése a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^297]: A 92. § (5) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^298]: A 92. § (6) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^299]: A 92. § eredeti (3) bekezdésének számozását (7) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése, nyitó szövegrésze a 26/2013. (III. 29.) EMMI rendelet 37. § 4. pontja szerint módosított szöveg.
+[^300]: A 92. § eredeti (4) bekezdésének számozását (8) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 54. § (3) bekezdése, szövege a 28/2010. (XII. 30.) NEFMI rendelet 25. § k) pontja szerint módosított szöveg.
