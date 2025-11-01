@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-123-00-00
 | 2022-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-123-00-00.7 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2020-123-00-00.8 |
 | 2024-01-01 | 2023. évi XCIII. törvény | 2020-123-00-00.9 |
+| 2025-11-01 | 2025. évi LXXX. törvény | 2020-123-00-00.10 |
