@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a felszámolást megelőző reorganizációs célú eljárásról, valamint a csőd- és felszámolási eljárás egyes veszélyhelyzeti szabályairól szóló 252/2025. (VIII. 7.) Korm. rendelet 2. §-ára, továbbá a Bérgarancia Alapról szóló 1994. évi LXVI. törvény, valamint egyes felszámolási tárgyú törvények veszélyhelyzet ideje alatt való eltérő alkalmazásáról szóló 304/2025. (X. 6.) Korm. rendelet 2. §-ára figyelemmel, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság felszámolási eljárásának stratégiailag kiemelt jelentőségű felszámolási eljárássá minősítéséről szóló 253/2025. (VIII. 7.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„3. § A Kormány megállapítja, hogy az 1. §-ban meghatározott Társaság mint stratégiailag kiemelt jelentőségű felszámolási eljárásban érintett gazdálkodó szervezet vonatkozásában a Cstv. 68–70. §-át, a felszámolást megelőző reorganizációs célú eljárásról, valamint a csőd- és felszámolási eljárás egyes veszélyhelyzeti szabályairól szóló 252/2025. (VIII. 7.) Korm. rendeletet, továbbá a Bérgarancia Alapról szóló 1994. évi LXVI. törvény, valamint egyes felszámolási tárgyú törvények veszélyhelyzet ideje alatt való eltérő alkalmazásáról szóló 304/2025. (X. 6.) Korm. rendeletet kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
