@@ -1,0 +1,3 @@
+2. § Az Nmr. a következő 187. §-sal egészül ki:
+
+„187. § A gyermekvédelmi szakellátásban gondozott gyermek ruházatára fordítandó, e rendeletnek az egyes gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 42/2025. (X. 30.) BM rendelettel módosított 77. § (1) bekezdésében foglalt megemelt éves összeg időarányos része 2025. november 1-jétől jár, ha a gyermek és a gondozási hely az egyéb jogosultsági feltételeknek megfelel. Ebben az esetben 2025. évben a teljes körű ellátás részeként nyújtott ruházattal kapcsolatos költségek éves összege 152 084 forintnál nem lehet kevesebb.”
