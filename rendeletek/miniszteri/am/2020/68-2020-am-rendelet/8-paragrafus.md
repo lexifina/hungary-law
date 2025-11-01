@@ -4,4 +4,8 @@
 
 (3) Az STÉ-t a mezőgazdasági termelő által megadott adatok és az Európai Unióban működő mezőgazdasági üzemek jövedelmére és üzleti tevékenységére vonatkozó számviteli adatok gyűjtésére szolgáló hálózat létrehozásáról szóló 1217/2009/EK tanácsi rendelet alkalmazására vonatkozó szabályok megállapításáról szóló, 2015. február 3-i (EU) 2015/220 bizottsági végrehajtási rendeletben meghatározott módszertan szerint az agrárgazdasági elemzésekkel foglalkozó intézmény határozza meg.
 
+(3a)[^35] A krízisbiztosítási rendszer kapcsán az agrárgazdasági elemzésekkel foglalkozó intézmény által alkalmazott STÉ-kalkulátort a krízisbiztosítási szerv a honlapján közzéteszi.
+
 (4) Az üzemméretre vetített mezőgazdasági jövedelemváltozás – a 2. mellékletben foglaltak szerint – az üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató és az üzemméretre vetített mezőgazdasági referenciajövedelem-mutató hányadosának felel meg.
+
+[^35]: A 8. § (3a) bekezdését a 12/2025. (IV. 22.) AM rendelet 5. §-a iktatta be.

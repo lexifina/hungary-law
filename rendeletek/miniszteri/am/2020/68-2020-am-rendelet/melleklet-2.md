@@ -10,15 +10,15 @@ MJ R átlag = Σ MJ R / 3
 
 STÉ R átlag= Σ STÉ R / 3
 
-3.[^73] Üzemméretre vetített mezőgazdasági referenciajövedelem-mutató
+3.[^74] Üzemméretre vetített mezőgazdasági referenciajövedelem-mutató
 
 MJI R = MJ R átlag / STÉ R átlag
 
-4.[^74] Üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató
+4.[^75] Üzemméretre vetített tárgyévi mezőgazdasági jövedelemmutató
 
 MJI T = MJ T / STÉ T
 
-5.[^75] Mezőgazdasági jövedelemváltozás mértéke
+5.[^76] Mezőgazdasági jövedelemváltozás mértéke
 
 MJ% = (MJI T – MJI R) / ABS (MJI R) × 100,
 
@@ -36,6 +36,6 @@ STÉ (Standard Termelési Érték) = üzemméret (adott területen és adott át
 
 ABS = abszolút érték
 
-[^73]: A 2. melléklet 3. pontja a 12/2025. (IV. 22.) AM rendelet 14. § 22. pontja szerint módosított szöveg.
-[^74]: A 2. melléklet 4. pontja a 12/2025. (IV. 22.) AM rendelet 14. § 22. pontja szerint módosított szöveg.
-[^75]: A 2. melléklet 5. pontja a 12/2025. (IV. 22.) AM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^74]: A 2. melléklet 3. pontja a 12/2025. (IV. 22.) AM rendelet 14. § 22. pontja szerint módosított szöveg.
+[^75]: A 2. melléklet 4. pontja a 12/2025. (IV. 22.) AM rendelet 14. § 22. pontja szerint módosított szöveg.
+[^76]: A 2. melléklet 5. pontja a 12/2025. (IV. 22.) AM rendelet 13. § (2) bekezdésével megállapított szöveg.

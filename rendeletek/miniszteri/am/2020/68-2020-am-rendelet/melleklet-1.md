@@ -38,7 +38,7 @@ Az éves átlagos állatállományi létszám meghatározása
 
 ## n= az év napjainak száma, szökőévben 366 nap
 
-3.[^71] A 2. § (6) bekezdés a) pontja szerinti állatok:
+3.[^72] A 2. § (6) bekezdés a) pontja szerinti állatok:
 
 3.1. szarvasmarha, az alábbi bontásban:
 
@@ -90,7 +90,7 @@ Az éves átlagos állatállományi létszám meghatározása
 
 3.9. tenyésztyúk.
 
-4.[^72] A 2. § (6) bekezdés b) pontja szerinti állatok:
+4.[^73] A 2. § (6) bekezdés b) pontja szerinti állatok:
 
 4.1. anyanyúl
 
@@ -148,5 +148,5 @@ Az éves átlagos állatállományi létszám meghatározása
 
 4.16. tojótyúk.
 
-[^71]: Az 1. melléklet 3. pontját a 12/2025. (IV. 22.) AM rendelet 13. § (1) bekezdése iktatta be.
-[^72]: Az 1. melléklet 4. pontját a 12/2025. (IV. 22.) AM rendelet 13. § (1) bekezdése iktatta be.
+[^72]: Az 1. melléklet 3. pontját a 12/2025. (IV. 22.) AM rendelet 13. § (1) bekezdése iktatta be.
+[^73]: Az 1. melléklet 4. pontját a 12/2025. (IV. 22.) AM rendelet 13. § (1) bekezdése iktatta be.
