@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a kriptoeszközökre vonatkozó adatszolgáltatási keret alapján történő automatikus információcseréről szóló illetékes hatóságok közötti többoldalú Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának az 1. mellékletben meghatározott államok viszonylatában történő elismerésére.
