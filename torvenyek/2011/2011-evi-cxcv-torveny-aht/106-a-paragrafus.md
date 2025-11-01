@@ -10,6 +10,8 @@ d) iskolai és egyéb végzettségére vonatkozó adatának,
 
 e) foglalkoztatásával összefüggésben a fennálló és a korábbi munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, álláshelyének, a jogviszonya kezdete és befejezése időpontjának
 
+f) elektronikus levelezési címének és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: DÁP tv.) szerinti kapcsolattartásra szolgáló hivatalos elérhetőség adatainak
+
 kezelésére.
 
 (2) A kincstár az (1) bekezdés szerinti személyes adatokat az érintett jogviszonya befejezését követő öt évig, vagy – ha az későbbi – a jogviszonyra vonatkozóan benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
