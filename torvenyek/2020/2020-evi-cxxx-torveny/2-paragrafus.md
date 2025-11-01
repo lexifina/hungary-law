@@ -12,7 +12,7 @@ ab) pénzügyőri státuszú foglalkoztatottakból
 
 b) munkaviszonyban álló munkavállalókból és
 
-c) tisztjelölti szolgálati jogviszonyban (a továbbiakban: tisztjelölti jogviszony) álló pénzügyőr tisztjelöltekből (a továbbiakban: tisztjelölt)
+c) a NAV tisztjelölti szerződéses állományában (a továbbiakban: a NAV tisztjelölti állománya) tisztjelölti szerződéses jogviszonyban (a továbbiakban: tisztjelölti jogviszony) álló pénzügyőr tisztjelöltekből
 
 áll.
 

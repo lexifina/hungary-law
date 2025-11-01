@@ -10,10 +10,14 @@ c) a hallgatói jogviszony megszűnésének napján,
 
 d) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
 
-(2) A tisztjelölt tisztjelölti jogviszonyát felmentéssel meg kell szüntetni, ha
+e) a törvény erejénél fogva e törvényben meghatározott esetekben,
 
-a) nemzetbiztonsági szempontból a tisztjelölti szolgálatra alkalmatlanná vált,
+f) a szerződés felmondásával.
+
+(2) A szerződést fel kell mondani, ha a tisztjelölt
+
+a) nemzetbiztonsági szempontból a tisztjelölti szolgálatra alkalmatlanná vált, az életvitele nem kifogástalan vagy a 241. § (6) bekezdése szerinti esküt nem teszi le,
 
 b) a képzési idő alatt a jogszabályban előírt, egészségi, pszichológiai vagy fizikai alkalmassági követelményeknek nem felel meg.
 
-(3) Felmentés esetén a felmentési idő egy hónap. A tisztjelölt írásbeli kérelme alapján a felek ennél rövidebb felmentési időben is megállapodhatnak.
+(3)
