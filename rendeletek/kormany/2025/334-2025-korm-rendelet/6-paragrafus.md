@@ -1,3 +1,3 @@
-6. §[^2]
+6. §[^6]
 
-[^2]: A 6. § a 8. § (2) bekezdése alapján 2026. január 31-én lép hatályba.
+[^6]: A 6. § a 8. § (2) bekezdése alapján 2026. január 31-én lép hatályba.

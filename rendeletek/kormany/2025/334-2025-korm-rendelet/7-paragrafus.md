@@ -1,9 +1,3 @@
-7. § Az R.
+7. §[^7]
 
-a) 1. melléklet címében az „a rozsdaövezeti akcióterületen megvalósuló beruházások” szövegrész helyébe az „a rozsdaövezeti akcióterületen megvalósuló kiemelt beruházások” szöveg,
-
-b) 2. melléklet címében az „üggyé” szövegrész helyébe az „üggyé, illetve kiemelt jelentőségű üggyé” szöveg,
-
-c) 2. melléklet 24. pontjában a „katasztrófavédelmi” szövegrész helyébe az „iparbiztonsági” szöveg
-
-lép.
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
