@@ -72,3 +72,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2025-04-01 | 2024. évi LXXI. törvény | 2010-122-00-00.65 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2010-122-00-00.67 |
 | 2025-07-01 | 2025. évi XXXV. törvény | 2010-122-00-00.66 |
+| 2025-11-01 | 2025. évi LXXI. törvény | 2010-122-00-00.68 |
