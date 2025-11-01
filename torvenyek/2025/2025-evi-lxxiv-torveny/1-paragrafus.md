@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a 2015. évi CXC. törvénnyel kihirdetett, a pénzügyi számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás (a továbbiakban: Megállapodás) kiegészítése kötelező hatályának az 1. mellékletben meghatározott államok viszonylatában történő elismerésére.
