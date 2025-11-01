@@ -12,7 +12,7 @@ d) a vállalkozási tevékenységet folytató adózó nevére, elnevezésére, s
 
 e) az adóvégrehajtás során végrehajtási joggal vagy jelzálogjoggal terhelt ingatlan tulajdonosának az ingatlanra az adóhatóság által bejegyeztetett jogok alapját képező tartozás fennálló összegéről, valamint a tehermentesítés módjáról szóló, továbbá ha az adótartozást egyoldalú nyilatkozattal átvállalni jogosult személy tájékoztatását szolgálja,
 
-f) az állami adóhatóság az adópolitikáért felelős miniszter utasítása alapján teljesíti a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre vagy adómentességre való jogosultsággal összefüggő kormányzati tájékoztatást.
+f) az állami adó- és vámhatóság az adópolitikáért felelős miniszter utasítása alapján tájékoztatást teljesít a jogszabályban meghatározott adókedvezménnyel, adóalap-kedvezménnyel vagy adómentességgel érintett adózók, továbbá az érintettek számára választható, kedvezményes adózási szabályok hatálya alá tartozók számára,
 
 g) a gazdasági társaság adótartozására vonatkozó adatok megismerésére a gazdasági társaság tagjának, – a nyilvánosan működő részvénytársaság részvényese kivételével – részvényesének az adótartozás kiegyenlítése céljából van szüksége,
 
