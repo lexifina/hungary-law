@@ -1,1 +1,1 @@
-55. § Az atomenergiáról szóló 1996. évi CXVI. törvény 6/H. § (1) bekezdésében a „jogviszony, az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony” szövegrész helyébe a „jogviszony és az állami projektértékelői jogviszony” szöveg lép.
+### 55. §

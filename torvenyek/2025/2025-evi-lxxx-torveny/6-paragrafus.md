@@ -1,1 +1,1 @@
-6. § A közúti közlekedésről szóló 1988. évi I. törvény 21/D. § (1a) bekezdésében az „a j) pont ja) alpontjában” szövegrész helyébe az „az (1) bekezdés i) pontjában és az (1) bekezdés j) pont ja) és jd) alpontjában” szöveg lép.
+### 6. §

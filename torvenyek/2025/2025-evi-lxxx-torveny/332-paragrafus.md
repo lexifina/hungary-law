@@ -5,15 +5,3 @@
 (3) A 124. alcím az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
 (4) A 128. alcím és a 137. alcím az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

@@ -1,1 +1,1 @@
-68. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 38. § (2) bekezdésében a „kijelölhető” szövegrész helyébe a „nyilvántartásba vehető” szöveg és a „kijelölésre” szövegrész helyébe a „nyilvántartásba vételre” szöveg lép.
+### 68. §

@@ -1,1 +1,1 @@
-198. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 16/B. § (1) bekezdésében a „17. §-ban” szövegrész helyébe az „a 17., 18., 20. és 22. §-ban” szöveg lép.
+### 198. §
