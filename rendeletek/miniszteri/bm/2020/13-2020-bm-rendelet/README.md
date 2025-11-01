@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-13-20-0
 | 2025-03-27 | 2020-13-20-0A.17 | 44/2020. (XII. 11.) BM rendelet |
 | 2025-05-20 | 2020-13-20-0A.18 | 15/2025. (V. 19.) BM rendelet |
 | 2025-08-03 | 2020-13-20-0A.19 | 31/2025. (VII. 31.) BM rendelet |
+| 2025-11-01 | 2020-13-20-0A.20 | 44/2020. (XII. 11.) BM rendelet |
