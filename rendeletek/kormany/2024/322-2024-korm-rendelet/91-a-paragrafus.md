@@ -1,4 +1,4 @@
-91/A. §[^55] A Dáptv. 65. § (1) bekezdés a) pontja szerinti digitális szolgáltatást biztosító szervezetnek nem minősülő, közfeladatot ellátó szerv az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, a kormányzati hitelesítésszolgáltató tanúsítvány szolgáltatásaihoz kapcsolódó díjak kivételével nem köteles díj fizetésére, és jogosult a keretszolgáltatás és támogató szolgáltatás igénybevételére, ha
+91/A. §[^56] A Dáptv. 65. § (1) bekezdés a) pontja szerinti digitális szolgáltatást biztosító szervezetnek nem minősülő, közfeladatot ellátó szerv az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, a kormányzati hitelesítésszolgáltató tanúsítvány szolgáltatásaihoz kapcsolódó díjak kivételével nem köteles díj fizetésére, és jogosult a keretszolgáltatás és támogató szolgáltatás igénybevételére, ha
 
 a) az állami vagy önkormányzati költségvetési szervként, költségvetési rend szerint gazdálkodó szervként,
 
@@ -10,4 +10,4 @@ d) állami viszontgarancia melletti készfizető kezességet vállaló hitelint�
 
 veszi igénybe a szolgáltatást.
 
-[^55]: A 91/A. §-t a 164/2025. (VI. 23.) Korm. rendelet 41. §-a iktatta be.
+[^56]: A 91/A. §-t a 164/2025. (VI. 23.) Korm. rendelet 41. §-a iktatta be.

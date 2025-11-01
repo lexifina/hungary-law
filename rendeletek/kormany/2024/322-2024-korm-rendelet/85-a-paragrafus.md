@@ -1,4 +1,4 @@
-## 48/A.[^46] Aggregátum szolgáltatás
+## 48/A.[^47] Aggregátum szolgáltatás
 
 85/A. § (1) Ezen alcím alkalmazásában
 
@@ -10,4 +10,4 @@
 
 (3) A szolgáltatást igénybe vevő szervek nyilvántartása és a szolgáltatások katalógusa adattartalmára a 85. §-ban foglaltak az irányadók, vezetésüket a szolgáltató a KKSZB nyújtására kijelölt szolgáltató útján is elláthatja.
 
-[^46]: A 48/A. alcímet (85/A–85/D. §-t) a 164/2025. (VI. 23.) Korm. rendelet 36. §-a iktatta be.
+[^47]: A 48/A. alcímet (85/A–85/D. §-t) a 164/2025. (VI. 23.) Korm. rendelet 36. §-a iktatta be.

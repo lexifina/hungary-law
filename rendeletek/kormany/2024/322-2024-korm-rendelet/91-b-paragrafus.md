@@ -1,4 +1,4 @@
-91/B. §[^56] (1) A Dáptv. 65. § (1) bekezdése szerinti szervezet a csatlakozási kérelmét a kijelölt szolgáltatóhoz nyújtja be, amely tartalmazza
+91/B. §[^57] (1) A Dáptv. 65. § (1) bekezdése szerinti szervezet a csatlakozási kérelmét a kijelölt szolgáltatóhoz nyújtja be, amely tartalmazza
 
 a) az igénybe venni kívánt szolgáltatás megnevezését,
 
@@ -28,4 +28,4 @@ b) az az ezen alcímben foglalt feltételeknek nem felel meg, a kérelem indokol
 
 (6) PKASZ-hoz piaci szereplő általi csatlakozás esetében a Felügyelet a Dáptv. 72. §-ában és az e rendeletben foglaltak szerint jár el.
 
-[^56]: A 91/B. §-t a 164/2025. (VI. 23.) Korm. rendelet 41. §-a iktatta be.
+[^57]: A 91/B. §-t a 164/2025. (VI. 23.) Korm. rendelet 41. §-a iktatta be.

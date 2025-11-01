@@ -1,6 +1,6 @@
 ## XXIII/A. Fejezet
 
-## A DIGITÁLIS SZOLGÁLTATÁS BIZTOSÍTÁSÁRA KÖTELEZETT EGYES SZERVEZETEK INFORMATIKAI RENDSZEREI TANÚSÍTÁSÁRÓL, A TANÚSÍTÓ SZERVEZETTEL, A TANÚSÍTÁSI ELJÁRÁS DÍJÁVAL SZEMBEN TÁMASZTOTT KÖVETELMÉNYEKRŐL[^71]
+## A DIGITÁLIS SZOLGÁLTATÁS BIZTOSÍTÁSÁRA KÖTELEZETT EGYES SZERVEZETEK INFORMATIKAI RENDSZEREI TANÚSÍTÁSÁRÓL, A TANÚSÍTÓ SZERVEZETTEL, A TANÚSÍTÁSI ELJÁRÁS DÍJÁVAL SZEMBEN TÁMASZTOTT KÖVETELMÉNYEKRŐL[^72]
 
 150/A. § (1) E fejezet hatálya a Dáptv. 80. § (1) bekezdés i)–n) pontja szerinti digitális szolgáltatás biztosítására kötelezett szervezetekre (e fejezet alkalmazásában a továbbiakban együtt: intézmény) terjed ki.
 
@@ -20,4 +20,4 @@ d) a szabályozások és eljárások garantálják a rendszer biztonsági szintj
 
 3. teljes körű védelem: az informatikai rendszer valamennyi elemére kiterjedő védelem.
 
-[^71]: A XXIII/A. Fejezetet (150/A–150/E. §-t) a 164/2025. (VI. 23.) Korm. rendelet 46. §-a iktatta be.
+[^72]: A XXIII/A. Fejezetet (150/A–150/E. §-t) a 164/2025. (VI. 23.) Korm. rendelet 46. §-a iktatta be.
