@@ -1,24 +1,22 @@
-## 22. §[^1]
-
 1. melléklet a 20/2021. (X. 6.) HM rendelethez
 
 I. A II. Repülőegészségi alkalmassági követelmények megjelölésű táblázat rovatainak
 
 és nagybetűs jelzéseinek megnevezése
 
-1. Repülőegészségi alkalmasság rovatai:
+1.[^39] Repülőegészségi alkalmasság rovatai:
 
-1.1. I/A. rovat: hangsebesség feletti repülőgépvezető jelölt,
+1.1. I/A. rovat: harcászati repülőgépvezető jelölt és harcászati kiképző repülőgépvezető jelölt,
 
-1.2. I/B. rovat: hangsebesség alatti repülőgépvezető és helikoptervezető jelölt, valamint ejtőernyős jelölt,
+1.2. I/B. rovat: szállító-repülőgépvezető jelölt, kiképző repülőgépvezető jelölt, rendvédelmi repülőgépvezető jelölt, kiképző helikoptervezető jelölt, katonai helikoptervezető jelölt és rendvédelmi helikoptervezető jelölt, valamint ejtőernyős jelölt,
 
-1.3. II. rovat: hangsebesség feletti repülőgépvezető,
+1.3. II. rovat: harcászati repülőgépvezető,
 
-1.4. III. rovat: hangsebesség alatti harci repülőgépvezető, valamint sugárhajtóműves kiképzőrepülőgép-vezető,
+1.4. III. rovat: harcászati kiképző repülőgépvezető,
 
 1.5. IV. rovat: szállítórepülőgép-vezető,
 
-1.6. V. rovat: harci helikoptervezető, könnyű, és közepes kategóriájú helikoptervezető, légcsavaros kiképző repülőgépvezető,
+1.6. V. rovat: kiképző repülőgépvezető, rendvédelmi repülőgépvezető, kiképző helikoptervezető, katonai helikoptervezető és rendvédelmi helikoptervezető,
 
 1.7. VI. rovat: szakszolgálati engedélyhez kötött légijármű szakszemélyzet tag,
 
@@ -26,7 +24,7 @@ I. A II. Repülőegészségi alkalmassági követelmények megjelölésű tábl�
 
 1.9. VIII. rovat: légijármű fedélzetén munkát végző, nem légijármű szakszemélyzet tag és
 
-1.10. IX. rovat: légiforgalmi irányító, légvédelmi irányító, pilóta nélküli állami légijármű kezelő („C”–„E” kategóriájú szakszolgálati engedély esetén), szimulátor és gyakorló berendezés oktató, repülőműszaki földi szakszemélyzet.
+1.10. IX. rovat: légiforgalmi irányító, légvédelmi irányító, pilóta nélküli állami légijármű kezelő „C”, „D” és „E” kategóriájú szakszolgálati engedély esetén, szimulátor és gyakorló berendezés oktató, repülőműszaki földi szakszemélyzet.
 
 2. Repülőalkalmassági minősítés jelzései:
 
@@ -64,11 +62,15 @@ I. A II. Repülőegészségi alkalmassági követelmények megjelölésű tábl�
 
 3.12. a „CCL”: korrekció csak kontaktlencsével”.
 
+3.13.[^40] az „egyéb speciális korlátozás” az SSL, olyan operatív jellegű korlátozás, mely az előzőekben felsorolt esetek között nem szerepel.
+
 4. A szakszolgálati engedélyen alkalmazható kiterjesztések:
 
 4.1. az „NVG-éjjellátó készülékkel repülhet” és
 
 4.2. a „magassági ugrást végezhet”.
+
+4.3.[^41] a „kiemelt alkalmasságú repülőműszaki tevékenységet végezhet.”
 
 II. Repülőegészségi alkalmassági követelmények
 
@@ -118,7 +120,7 @@ II. Repülőegészségi alkalmassági követelmények
 
 | 21. | 1. alkalmi epilepsziás roham | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 22. | 2. ritka rosszullét, gyógyszerrel befolyásolható forma | E | E | E | E | E | E | E | E | E | E |
+| 22. | 2. ritka rosszullét, gyógyszerrel befolyásolható forma | E | E | E | E | E | E | E | E | E | KLGS[^42] |
 
 | 23. | 3. gyakori rosszullét | E | E | E | E | E | E | E | E | E | E |
 
@@ -158,9 +160,9 @@ II. Repülőegészségi alkalmassági követelmények
 
 | 41. | 10. | Migrén |
 
-| 42. | 1. migrén aura nélkül, ritka rohammal, gyakori tenziós fejfájás | E | E | E | E | E | E | KLGS | E | KLGS | KLGS |
+| 42.[^43] | 1. migrén aura nélkül, ritka rohammal, gyakori tenziós fejfájás | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 43. | 2. migrén aurával, aura nélküli gyakori roham, Cluster fejfájás | E | E | E | E | E | E | E | E | E | E |
+| 43.[^44] | 2. migrén aurával, aura nélküli gyakori roham, Cluster fejfájás | E | E | E | E | E | E | E | E | KLGS | KLGS |
 
 | 44. | A fejfájás részletes kivizsgálása szükséges a koponya MRI, MRA, EEG-vel, a társszakmák részéről (belgyógyász, szemész, pszichológus) konziliárus bevonása javasolt. |
 
@@ -228,7 +230,7 @@ II. Repülőegészségi alkalmassági követelmények
 
 | 24. | 2. mérsékelt tünetekkel járó, kezelésre reagáló | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 25. | 3. kifejezett tünetekkel, illetve kezelésre nem javuló, tartós vagy ismétlődő | E | E | E | E | E | E | E | E | E | E |
+| 25. | 3. kifejezett tünetekkel, illetve kezelésre nem javuló, tartós vagy ismétlődő | E | E | E | E | E | E | E | E | E | KLGS[^45] |
 
 | 26. | Szigorúbb az elbírálás az önálló feladatvégzéssel járó beosztásokban, az ekipázsrendszerben szolgálatot teljesítő hajózóknál a konkrét beosztás követelményeit figyelembe véve alkalmazható a különleges elbírálás. Az első két pontnak megfelelő, de ismétlődő zavar fennállása esetén a 3. alpontot kell alkalmazni a coping gyengeség valószínűsíthetősége miatt, amivel az extrém feladathelyzetekben az esetleges inadekvát cselekvés esélye megnő. Az eseményt átélt személy repülőalkalmasságáról szóló döntést a repülőesemény után meg kell hozni, mert az idő előrehaladtával a visszaállítás esélye a tapasztalatok szerint csökken. A repülési averzió a 3. alpont szerint bírálandó el. |
 
@@ -338,13 +340,13 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 12. | 2. enyhe | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 13. | A zsír- és anyagcserezavarok – amennyiben életmód változtatással és diétával nem rendezhetőek – gyógyszeres beállítása is szóba jön, figyelembe véve egyéb tényezőket, kardiovaszkuláris rizikófaktoraikat, szív- és érrendszeri kockázatukat (Magyar Kardiovaszkuláris Konszenzus Konferencia ajánlása alapján). A nagy kockázatú csoportba tartozó repülőszemélyzet tagját lehetőleg célértékeken kell kezelni. A koleszterin és triglicerid értékek már enyhe zavarai esetén alkalmatlan a jelölt. Kiképzett repülőállományú személy a vérzsír paraméterek csökkentésére szolgáló gyógyszerek szedése mellett – a szakutasításban leírt szabályok betartásával – repülhet. Amennyiben a testtömeg index 40 kg/m2 felett van, súlyos elhízásról beszélünk, alkalmatlan minden rovat szerint. Ha a testtömeg index 35–40 kg/m2 között van, a has körfogat férfiaknál 102 cm felett, nőknél 88 cm felett van, és metabolikus szindróma is igazolható (IDF módosított kritériumai), 6 hónapig fokozott orvosi ellenőrzés mellett alkalmas lehet. Ha a jelölt has körfogata 102 cm, illetve 88 cm felett van és 30 kg/m2 feletti testtömeg indexszel rendelkezik, alkalmatlan (náluk a metabolikus szindróma jelenléte sem szükséges az alkalmatlan minősítéshez). A csak diétával egyensúlyban tartott diabetes mellitus, jó általános állapot, secunder eltérések nélkül II. és III. rovat kivételével alkalmas lehet. A II. és III. rovat szerint a kevesebbet repülő, készültséget nem adó elöljárói állomány (megfigyelő státusz) esetében különleges elbírálással, figyelembe véve az általános anyagcsere állapotot és szív-érrendszeri rizikóstátuszt, alkalmasság kimondható. A II. és III. rovat kivételével nem hypoglikemizáló (metformin típusú) orális antidiabetikum segítségével egyensúlyban tartott diabetes mellitus repülésre alkalmas minősítést kaphat ekipázs rendszerű gépen. Mindkét eltérés az anyagcsere-betegség 2. pontja alapján minősíthető az anyagcsere állapot és szív-érrendszeri rizikó figyelembevételével. Ekkor figyelembe kell venni a hipoxia, külső stresszor tényezők (hőmérséklet) hatását is, mely a mellékhatásokat potencírozhatja (magassági korlát, oxigén fegyelem). A jelölt minimális vércukor emelkedés esetén sem lehet alkalmas, ha a megismételt vizsgálat is pozitív. Ilyenkor orális glukóztolerancia teszt elvégzése indokolt, de IFG, IGT és cukorbetegség igazolása esetén is alkalmatlan a minősítés. 1-es típusú cukorbetegség esetén inzulin használata szükséges, a minősítés az 1-es pont szerint történik (minden rovat szerint alkalmatlan). Bilirubin anyagcsere zavara (Gilbert kór) enyhe eltérésnek tekinthető, alkalmas minősítés adható (étkezés utáni Se bi kontroll megfontolandó). |
+| 13. | A zsír- és anyagcserezavarok – amennyiben életmód-változtatással és diétával nem rendezhetőek – gyógyszeres beállítása is szóba jön, figyelembe véve egyéb tényezőket, kardiovaszkuláris rizikófaktoraikat, szív- és érrendszeri kockázatukat (Magyar Kardiovaszkuláris Konszenzus Konferencia ajánlása alapján). A nagy kockázatú csoportba tartozó repülőszemélyzet tagját lehetőleg célértékeken kell kezelni. Kiképzett repülőállományú személy a vérzsír paraméterek csökkentésére szolgáló gyógyszerek szedése mellett – a szakutasításban leírt szabályok betartásával – repülhet. Amennyiben a testtömeg index 40 kg/m2 felett van, súlyos elhízásról beszélünk. Ha a testtömeg index 35–40 kg/m2 között van, a haskörfogat férfiaknál 102 cm felett, nőknél 88 cm felett van, és metabolikus szindróma is igazolható (IDF módosított kritériumai), 6 hónapig fokozott orvosi ellenőrzés mellett alkalmas lehet. A csak diétával egyensúlyban tartott diabetes mellitus, jó általános állapot, secunder eltérések nélkül II. és III. rovat kivételével alkalmas lehet. A II. és III. rovat szerint a kevesebbet repülő, készültséget nem adó elöljárói állomány (megfigyelő státusz) esetében különleges elbírálással, figyelembe véve az általános anyagcsere állapotot és szív-érrendszeri rizikóstátuszt, az alkalmasság kimondható. A II. és III. rovat szerint minősített személy kivételével nem hypoglikemizáló (metformin típusú) orális antidiabetikum segítségével egyensúlyban tartott diabetes mellitus repülésre alkalmas minősítést kaphat ekipázs rendszerű gépen. Mindkét eltérés az anyagcsere-betegség 2. pontja alapján minősíthető az anyagcsere állapot és szív-érrendszeri rizikó figyelembevételével. Ekkor figyelembe kell venni a hipoxia, külső stresszor tényezők (hőmérséklet) hatását is, mely a mellékhatásokat potencírozhatja (magassági korlát, oxigénfegyelem). Az I/A. rovat szerinti jelölt minimális vércukor-emelkedés esetén sem lehet alkalmas, ha a megismételt vizsgálat is pozitív. Ilyenkor orális glukóztolerancia teszt elvégzése indokolt, de IFG, IGT és cukorbetegség igazolása esetén is alkalmatlan a minősítés. 1-es típusú cukorbetegség esetén inzulin használata szükséges, a minősítés az 1-es pont szerint történik (minden rovat szerint alkalmatlan). Ez alól kivétel a repülő-műszaki földi szakszemélyzet az anyagcsere állapot és a munkakör okozta megterhelések gondos mérlegelésével és fokozott megfigyeléssel. Bilirubin anyagcsere zavara (Gilbert-kór) enyhe eltérésnek tekinthető, alkalmas minősítés adható (étkezés utáni Se bi kontroll megfontolandó).[^46] |
 
 | 14. | 29. | Köszvény |
 
 | 15. | 1. nemrégen fennálló, remisszió állapotban levő köszvény, ritka rohamok esetén | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 16. | 2. „viscerális” köszvény, gyakori rohamok esetén | E | E | E | E | E | E | E | E | E | E |
+| 16. | 2. „viscerális” köszvény, gyakori rohamok esetén | E | E | E | E | E | E | E | E | E | KLGS[^47] |
 
 | 17. | A vizsgálat során véletlenül kimutatott hyperuricaemia panaszmentes esetei az anyagcsere enyhe zavarainak tekinthetők. Arthritis urica, köszvényes nephropathia és a köszvény egyéb manifesztációja repülőkiképzésre és repülésre való alkalmatlanságot jelent. |
 
@@ -368,7 +370,7 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 27. | 32. | Hiányvérszegénység, haemoglobinopathiák |
 
-| 28. | 1. enyhe formák | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
+| 28. | 1. enyhe formák | E | KLGS[^48] | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 29. | 2. súlyos formák | E | E | E | E | E | E | KLGS | KLGS | KLGS | KLGS |
 
@@ -392,11 +394,11 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 39. | 35. | Atherosclerosis |
 
-| 40. | 1. jelentős | E | E | E | E | E | E | E | E | KLGS | KLGS |
+| 40.[^49] | 1. jelentős | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 41. | 2. minimális | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 42. | Nem szignifikáns – coronarografia-val, esetleg coronaria CT-vel vagy MR-rel igazolt – koszorúér betegség esetén a légiközlekedési szakszemélyzet tagjánál jó funkcionális kapacitás (8 MET felett), nem csökkent coronaria rezerv kapacitás, terheléses szívizom szcintigraphia során nem, vagy minimális, kis kiterjedésű veszélyeztetett szívizomterület esetén, a szakmai ajánlások által javasolt prevenciós gyógyszeres kezelések mellett, figyelembe véve az MH központi egészségügyi szervezetének vezetője által jóváhagyott szakutasítást is, alkalmas minősítés adható. A jelölt és a II. és III. rovat szerint minősített személy alkalmatlan, kardiológus szakvélemény szükséges. Évente részletes kardiológiai kontrollvizsgálatok elvégzése szükséges (szívultrahang, terheléses EKG, sz.e.-n képalkotóval érzékenyített terheléses vizsgálat, coronarografia, coronaria CT). Szignifikáns koszorúér betegséget követően elvégzett PTCA, stent implantáció, coronaria bypass jelölteknél II–VII. rovat szerint vizsgált személynél kizáró tényezők. Egyéb atherosclerosisra utaló eltérések (carotis, aorta, vese erek, perifériás erek érintettsége, stb.) esetén a mindenkori szakmai ajánlások által javasolt prevenciós gyógyszeres kezelések mellett, figyelembe véve az MH központi egészségügyi szervezetének vezetője által jóváhagyott szakutasítást is, alkalmas minősítés adható. Ebben az esetben szív- és érrendszeri kivizsgálása a panaszmentes légijármű-vezető, légijármű-szakszemélyzet tagja és ejtőernyős esetén szükséges kardiológus, neurológus bevonásával történik, és ezt követően döntenek a további alkalmasságról. A carotis vizsgálat 40 év felett, vagy a rizikóprofil függvényében szűrő jelleggel történik. A tünet- és panaszmentesen észlelt carotis plakk jelenléte a II. és III. rovat szerint a kevesebbet repülő, készültséget nem adó elöljárói állomány esetében különleges elbírálást igényelnek a szakmai protokoIlok (szakmai kollégiumi ajánlás, az MH központi egészségügyi szervezetének vezetője által jóváhagyott szakutasítás), társuló betegségek, eltérések, rizikóstratifikáció (esetlegesen előforduló halmozott rizikó, stb.) figyelembevételével. Ezen esetekben a különleges elbírálás elve alkalmazandó. Ezen eltérések, betegségek miatt elvégzett műtéti beavatkozások (endarterectomia, PTA) kizáró tényezők az alapbetegségre való tekintettel. Az atherosclerosis az érrendszert érintő, generalizált, progresszív megbetegedés, mely a vezető morboditási és mortalitási okként szereplő vaszkuláris kórképek alapja, leggyakoribb oka, ezért a betegségben szenvedőt, akár panaszmentesen is prevenciós gyógyszeres kezelésben kell részesíteni. Rendszeres éves ellenőrzés és az elérhető maximális rizikócsökkentés szükséges. |
+| 42. | Nem szignifikáns – coronarografiával, esetleg coronaria CT-vel vagy MR-rel igazolt – koszorúér betegség esetén a légiközlekedési szakszemélyzet tagjánál jó funkcionális kapacitás (8 MET felett), nem csökkent coronaria rezerv kapacitás, terheléses szívizom-szcintigraphia során nem, vagy minimális, kis kiterjedésű veszélyeztetett szívizomterület esetén, a szakmai ajánlások által javasolt prevenciós gyógyszeres kezelések mellett, figyelembe véve az MH központi egészségügyi szervezetének vezetője által jóváhagyott szakutasítást is, alkalmas minősítés adható. A jelölt és a II. és III. rovat szerint minősített személy alkalmatlan, kardiológus szakvélemény szükséges. Évente részletes kardiológiai kontrollvizsgálatok elvégzése szükséges (szívultrahang, terheléses EKG, sz.e.-n képalkotóval érzékenyített terheléses vizsgálat, coronarografia, coronaria CT). Szignifikáns koszorúér betegséget követően elvégzett PTCA, stent implantáció, coronaria bypass jelölteknél II. és III. rovat szerint minősített személynél kizáró tényezők. Egyéb atherosclerosisra utaló eltérések (carotis, aorta, vese erek, perifériás erek érintettsége stb.) esetén a mindenkori szakmai ajánlások által javasolt prevenciós gyógyszeres kezelések mellett, figyelembe véve az MH központi egészségügyi szervezetének vezetője által jóváhagyott szakutasítást is, alkalmas minősítés adható. Ebben az esetben szív- és érrendszeri kivizsgálása a panaszmentes légijármű-vezető, légijármű-szakszemélyzet tagja és ejtőernyős esetén szükséges kardiológus, neurológus bevonásával történik, és ezt követően döntenek a további alkalmasságról. A carotis vizsgálat 45 év felett, vagy a rizikóprofil függvényében szűrő jelleggel történik. A tünet- és panaszmentesen észlelt carotis plakk jelenléte a II. és III. rovat szerint a kevesebbet repülő, készültséget nem adó elöljárói állomány esetében különleges elbírálást igényelnek a szakmai protokollok (szakmai kollégiumi ajánlás, az MH központi egészségügyi szervezetének vezetője által jóváhagyott szakutasítás), társuló betegségek, eltérések, rizikóstratifikáció (esetlegesen előforduló halmozott rizikó stb.) figyelembevételével. Ezen esetekben a különleges elbírálás elve alkalmazandó. Ezen eltérések, betegségek miatt elvégzett műtéti beavatkozások (endarterectomia, PTA) kizáró tényezők az alapbetegségre való tekintettel. Az atherosclerosis az érrendszert érintő, generalizált, progresszív megbetegedés, mely a vezető morbiditási és mortalitási okként szereplő vaszkuláris kórképek alapja, leggyakoribb oka, ezért a betegségben szenvedőt – akár panaszmentesen is – prevenciós gyógyszeres kezelésben kell részesíteni. Rendszeres éves ellenőrzés és az elérhető maximális rizikócsökkentés szükséges.[^50] |
 
 | 43. | 36. | Hypertonia |
 
@@ -426,7 +428,7 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 56. | 39. | Mitralis regurgitatio |
 
-| 57. | 1. enyhe eset | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
+| 57. | 1. enyhe eset | E | KLGS[^51] | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 58. | 2. közepesen súlyos és súlyos eset | E | E | E | E | E | E | E | E | E | E |
 
@@ -434,7 +436,7 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 60. | 40. | Mitralis prolapsus (MVP) |
 
-| 61. | 1. enyhe esetben | E | E | KLGS | KLGS | A | A | A | A | A | A |
+| 61. | 1. enyhe esetben | E | KLGS[^52] | KLGS | KLGS | A | A | A | A | A | A |
 
 | 62. | 2. közepesen súlyos és súlyos esetben | E | E | E | E | E | E | E | E | KLGS | KLGS |
 
@@ -442,7 +444,7 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 64. | 41. | Bicuspidalis aorta billentyű vagy aorta stenosis |
 
-| 65. | 1. bicuspidalis aorta billentyű | E | E | E | E | E | E | E | E | KLGS | KLGS |
+| 65.[^53] | 1. bicuspidalis aorta billentyű | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 66. | 2. enyhe stenosis esetben | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
@@ -450,7 +452,7 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 68. | 4. műtéti korrekció után | E | E | E | E | E | E | E | E | KLGS | KLGS |
 
-| 69. | Bicuspidális billentyű jelenléte alkalmatlan minősítést jelent. A regurgitáció, illetve a stenosis mértékétől függően KLGS alkalmas minősítést kap a VIII. és IX. rovat szerint minősített személy. Enyhe aorta stenosis esetén, ha az aorta felett mért átlaggradiens mértéke nem haladja meg a 20 Hgmm-t, koncentrikus bal kamra hypertrophia jelei nem észlelhetőek, az aorta ascendens nem tág, jó funkcionális kapacitás esetén alkalmas minősítést kell adni. A jelöltnél szívultrahang-vizsgálat indokolt. A jelöltnél elvégzett szívultrahang-vizsgálat kizárja a bicuspidális aorta billentyű lehetőségét a II–V. és a VII. rovatban. |
+| 69. | Bicuspidális billentyű jelenléte alkalmatlan minősítést jelent. A regurgitáció, illetve a stenosis mértékétől függően KLGS alkalmas minősítést kap a IV., V., VI., VII., VIII. és IX. rovat szerint minősített személy. Enyhe aorta stenosis esetén, ha az aorta felett mért átlaggradiens mértéke nem haladja meg a 20 Hgmm-t, koncentrikus bal kamra hypertrophia jelei nem észlelhetőek, az aorta ascendens nem tág, jó funkcionális kapacitás esetén alkalmas minősítést kell adni, repülőgépvezető esetén többpilótás korlátozással. Az I/A. rovat szerinti jelöltnél szívultrahang-vizsgálat indokolt. A jelöltnél elvégzett szívultrahang-vizsgálat kizárja a bicuspidális aorta billentyű lehetőségét a II. és III. rovat szerint minősített személy esetében.[^54] |
 
 | 70. | 42. | Aorta regurgitatio vagy insuffitientia |
 
@@ -480,9 +482,9 @@ D. BELGYÓGYÁSZATI BETEGSÉGEK
 
 | 83. | 1. ritka, izolált | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 84. | 2. paroxysmalis, krónikus | E | E | E | E | E | E | E | E | E | E |
+| 84. | 2. paroxysmalis, krónikus | E | E | E | E | E | E | E | E | E | KLGS[^55] |
 
-| 85. | Ha nincs a hátterében strukturális szívbetegség, szekunder ok, nem okoz haemodinamikai zavart, lone típusú, Holiday heart valószínűsíthető, létrejöttét elektrolit eltérés potencírozza, ritka (egy-két alkalommal jelentkező), rövid ideig tartó paroxizmusok esetén alkalmas minősítést kaphat rendszeres, szoros kontrollok mellett, az érvényben lévő szakmai kollégiumi ajánlások figyelembevételével. A II–V. rovat szerint minősített személy részletes kivizsgálást követően (átmenetileg) ekipázs rendszerben, kiképzett pilótával repülhet, visszaállítás teljes panasz- és tünetmentesség esetén lehetséges (centrifuga vagy real holter mérlegelendő). A jelölt alkalmatlan. Gyógyszeres kezelésre szoruló pitvarfibrillació alkalmatlan minősítést indokol. |
+| 85. | Ha nincs a hátterében strukturális szívbetegség, szekunder ok, nem okoz haemodinamikai zavart, lone-típusú, Holiday heart valószínűsíthető, létrejöttét elektrolit eltérés potencírozza, ritka (egy-két alkalommal jelentkező), rövid ideig tartó paroxizmusok esetén alkalmas minősítést kaphat rendszeres, szoros kontrollok mellett, az érvényben lévő szakmai kollégiumi ajánlások figyelembevételével. A II–V. rovat szerint minősített személy részletes kivizsgálást követően (átmenetileg) ekipázs rendszerben, kiképzett pilótával repülhet, visszaállítás teljes panasz- és tünetmentesség esetén lehetséges (centrifuga vagy real holter mérlegelendő). A jelölt alkalmatlan. Gyógyszeres kezelésre szoruló pitvarfibrillació alkalmatlan minősítést indokol. Ez alól kivétel a repülőműszaki földi szakszemélyzet tagja a részletes kardiológiai kivizsgálás után nonvalvuláris pitvarfibrilláció esetén jó funkcionális kapacitás és frekvenciakontroll mellett a funkcionális állapot és a munkakör okozta megterhelések gondos mérlegelésével és fokozott megfigyeléssel.[^56] |
 
 | 86. | 46. | Kamrai és széles QRS-ű tachycardia |
 
@@ -708,7 +710,7 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 45. | 4. súlyos | E | E | E | E | E | E | E | E | E | E |
 
-| 46. | Gerinc betegségei, deformitásai a helytelen tartás (lapos hát), fokozott kypholordoticus hátnyerges hát (domború hát), Morbus Scheuermann, vertebra plana, scoliosis, spondylarthritis ankylopoetica, spondylosis deformans, spondylolysis, spondylolisthesis, sacralisatio, lumbalisatio, spina bifida, illetve ide tartozó egyéb elváltozások. Megállapításához fizikális vizsgálat, kétirányú röntgenfelvétel, szükség esetén kiegészítő felvételek, illetve laborvizsgálatok szükségesek. A jelölt mérsékelt fokú helytelen tartásnál alkalmas lehet, amennyiben nem társul hozzá pes planovalgus és genu valgum. Morbus Scheuermann esetén a jelölt alkalmatlan. A háti szakaszra lokalizálódó, kisebb szakaszt érintő, kifejezett röntgentünetekkel nem járó esetekben, amennyiben a jelölt tünet- és panaszmentes, és egyéb gerincelváltozás (fejlődési rendellenesség, spina bifida, neoarthrosis) nem áll fenn, különleges elbírálással alkalmas megállapítás tehető, előzetes rheumatologiai, esetleg orthopaediai véleményezés után. A jelölt alkalmatlan a következő kórképek esetén: Bechterew-kór, spondylosis deformans, spondylolysis, spondylolisthesis. A szakszemélyzet tagját egyénileg kell elbírálni. Sacralisatio, lumbalisatio esetén, amennyiben ezen elváltozások szimmetrikusak, és más fejlődési rendellenesség nem társul hozzájuk, a jelölt alkalmasnak ítélhető, ha szimmetrikus ugyan, de más fejlődési rendellenesség is társul hozzá, úgy alkalmatlan. Féloldali sacralisatio, lumbalisatio esetén a jelölt alkalmatlan. A spina bifida elbírálása jelölteknél: a) ha a sacrum végig nyitott, vagy szélesebb 20 mm-nél, alkalmatlan, b) ha nem társul hozzá más fejlődési rendellenesség, és a szélessége kisebb 20 mm-nél, I/B. szerint alkalmas, c) ha kisebb 10 mm-nél, I/A. szerint alkalmas. A scoliosis: amennyiben a görbület foka nem haladja meg a Cobb módszerével mért 20 fokot, illetve a rotatio foka a + (kereszt), úgy a jelölt alkalmasnak ítélhető. Súlyos a scoliosis, ha 40 fok feletti, illetve a rotáció foka ++++-os. Az itt felsorolt egyéb elváltozások súlyosnak ítélendők, ha azok jelentősen mozgáskorlátozottsággal járnak, röntgenfelvételeken előrehaladott elváltozások láthatók, és az előzetes kezelés eredménytelen. Ejtőernyős jelölt I/B. szerint minősítendő. |
+| 46. | Gerinc betegségei, deformitásai a helytelen tartás (lapos hát), fokozott kypholordoticus hátnyerges hát (domború hát), Morbus Scheuermann, vertebra plana, scoliosis, spondylarthritis ankylopoetica, spondylosis deformans, spondylolysis, spondylolisthesis, sacralisatio, lumbalisatio, spina bifida, illetve ide tartozó egyéb elváltozások. Megállapításához fizikális vizsgálat, kétirányú röntgenfelvétel, szükség esetén kiegészítő felvételek, illetve laborvizsgálatok szükségesek. A jelölt mérsékelt fokú helytelen tartásnál alkalmas lehet, amennyiben nem társul hozzá pes planovalgus és genu valgum. Morbus Scheuermann esetén a jelölt I/A. rovat szerint minősített személy alkalmatlan. A jelölt I/B. rovat szerint minősített személy alkalmas lehet, amennyiben panasz és tünetmentes, az elváltozás a röntgen felvétel alapján nem terjed ki hosszabb gerincszakaszra, illetve nem kíséri egyéb gerincelváltozás, fejlődési rendellenesség (spina bifida, spondylosis, neoarthrosis). A jelölt alkalmatlan a következő kórképek esetén: Bechterew-kór, spondylosis deformans, spondylolysis, spondylolisthesis. A szakszemélyzet tagját egyénileg kell elbírálni. Sacralisatio, lumbalisatio esetén, amennyiben ezen elváltozások szimmetrikusak, és más fejlődési rendellenesség nem társul hozzájuk, a jelölt alkalmasnak ítélhető, ha szimmetrikus ugyan, de más fejlődési rendellenesség is társul hozzá, úgy alkalmatlan. Féloldali sacralisatio, lumbalisatio esetén a jelölt alkalmatlan. A spina bifida elbírálása jelölteknél: a) ha a sacrum végig nyitott, vagy szélesebb 20 mm-nél, a jelölt alkalmatlan, b) ha nem társul hozzá más fejlődési rendellenesség, és a szélessége kisebb 20 mm-nél, az I/B. rovat szerint a jelölt alkalmas, c) ha kisebb 10 mm-nél, az I/A. rovat szerint a jelölt alkalmas. A scoliosis: amennyiben a görbület foka nem haladja meg a Cobb módszerével mért 20 fokot, illetve a rotatio foka a + (kereszt), úgy a jelölt alkalmasnak ítélhető. Súlyos a scoliosis, ha 40 fok feletti, illetve a rotáció foka ++++-os. Az itt felsorolt egyéb elváltozások súlyosnak ítélendők, ha azok jelentős mértékű mozgáskorlátozottsággal járnak, röntgenfelvételeken előrehaladott elváltozások láthatók, és az előzetes kezelés eredménytelen. Ejtőernyős jelölt az I/B. rovat szerint minősítendő.[^57] |
 
 | 47. | 71. | A fej csont és lágyrész sérülései után kialakult végleges állapotok |
 
@@ -718,7 +720,7 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 50. | 3. közepesen súlyos | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 51. | 4. súlyos | E | E | E | E | E | E | E | E | E | E |
+| 51. | 4. súlyos | E | E | E | E | E | E | E | E | E | KLGS[^58] |
 
 | 52. | A fej csont- és lágyrész sérüléseinek megítéléséhez részletes anamnesis, részletes fizikális vizsgálat, műtéti leírás, kétirányú koponya röntgen-felvétel, szükség esetén kiegészítő felvételek, koponya CT, MR, valamint a társszakmák szakvéleménye szükséges. Az 1. alpont alapján kell elbírálni: a szövődmény nélkül gyógyult lágyrész sérülések, melyek után feltűnő hegesedés nem maradt vissza, arcdeformitást nem okozó melléküreg csontjainak, járomcsontnak egyszerű törései utáni állapota funkciózavar nélkül, orrlégzést nem akadályozó orrcsonttörés utáni állapot, valamint szövődmény nélkül gyógyult állkapocscsont törése utáni állapot. A 2. és 3. alpont szerint kell megítélni: a koponyaboltozat, illetve zárt koponyatörések utókövetkezmények nélkül, járomcsonttörés rágási zavarral, a nervus infraorbitalis sérülésével (érzéketlenség az arcon és a felső ajkon), Le-Fort I. és II. típusú maxillo-facialis sérülések. A szemüreg csontos falának sérülése mérsékelt ideg- vagy izomkárosodással, a mandibula olyan ficama vagy törése, amely a rágási funkciót rontja. A 4. alpont szerint kell megítélni: az arc és agykoponya olyan lágysérüléseit, melyeknél a torzító deformitás plasztikai módszerrel sem rendezhető kielégítően. Az arcideg ágainak károsodását okozó sérülések következményei (arcizombénulás, szaruhártya kiszáradás, nyálcsorgás, csüngő szemhéj). Az arcsérülések azon formái, melyek koponyaűri gyulladásos szövődményt okoztak, deformitást okozó koponyacsont sérülések, koponyasérülést követő osteomyelitis, többszörös vonalas, impressios törések, veleszületett vagy szerzett koponyacsonthiány. Azon koponyaalapi törések, melyek liquor szivárgással, valamint agyideg károsodással, központi idegrendszeri eltérésekkel vagy sérülésekkel (fistula carotideo-cavernosa) járnak. A Le-Fort III. típusú maxillo-facialis sérülései, a rágási funkciót lehetetlenné tévő mandibulatörés, a szemüreg súlyos sérülései. |
 
@@ -826,7 +828,7 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 104. | 82. | Mellkas deformitása |
 
-| 105. | 1. enyhe | E | E | E | E | E | E | E | E | KLGS | KLGS |
+| 105.[^59] | 1. enyhe | E | KLGS | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 106. | 2. közepesen súlyos | E | E | E | E | E | E | E | E | KLGS | KLGS |
 
@@ -836,7 +838,7 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 109. | 83. | Mellkasi szervek csonkolás nélküli műtéte utáni állapotok |
 
-| 110. | 1. légzésfunkciós zavar nélkül | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | A | A |
+| 110. | 1. légzésfunkciós zavar nélkül | E | KLGS[^60] | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | A | A |
 
 | 111. | 2. mérsékelt légzésfunkciós zavarral | E | E | E | E | E | E | E | E | KLGS | KLGS |
 
@@ -846,11 +848,11 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 114. | 84. | Spontán légmell |
 
-| 115. | 1. egy alkalommal keletkezett, konzervatív kezeléssel megoldott | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
+| 115. | 1. egy alkalommal keletkezett, konzervatív kezeléssel megoldott | E | KLGS[^61] | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 116. | 2. egy alkalommal keletkezett, műtéttel megoldott | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 117. | 3. recidiv spontán légmell | E | E | E | E | E | E | E | E | E | E |
+| 117. | 3. recidiv spontán légmell | E | E | E | E | E | E | E | E | E | KLGS[^62] |
 
 | 118. | A kórkép megítéléséhez mellkas-felvétel, cardio-respiratoricus status vizsgálatok, belgyógyászati, szükség esetén tüdőgyógyászati szakvizsgálat és vélemény szükségesek. A jelölt és a II. és III. rovat szerint minősített személy alkalmatlan, a IV–IX. rovat szerint minősített személyt a spontán ptx megoldása után ki kell vizsgálni, alkalmassága különleges elbírálás alá esik. |
 
@@ -858,9 +860,9 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 120. | 1. segmentectomia utáni állapot | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 121. | 2. lobectomia utáni állapot | E | E | E | E | E | E | KLGS | KLGS | KLGS | KLGS |
+| 121.[^63] | 2. lobectomia utáni állapot | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 122. | 3. pulmonectomia utáni állapot | E | E | E | E | E | E | E | E | E | E |
+| 122. | 3. pulmonectomia utáni állapot | E | E | E | E | E | E | E | E | E | KLGS[^64] |
 
 | 123. | Jelen pontban kell megítélni a segmentectomia, lobectomia utáni állapotot. Elbírálás rendje: mellkas röntgenfelvétel, szükség esetén mellkas CT vizsgálat, cardio-respiratoricus status megítélésére szolgáló vizsgálatok, belgyógyászati szakvizsgálat és véleményezés. A IV–IX. rovat szerinti szakszolgálati tevékenységet végző személy elbírálása egyénileg történik, tekintettel a műtétet kiváltó többféle alapbetegségre. |
 
@@ -910,7 +912,7 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 146. | 1. recidíva nélkül | A | A | A | A | A | A | A | A | A | A |
 
-| 147. | 2. ritka recidíva esetén | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
+| 147. | 2. ritka recidíva esetén | E | KLGS[^65] | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 148. | 3. gyakori recidíva esetén | E | E | E | E | E | E | E | E | E | E |
 
@@ -958,7 +960,7 @@ E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK
 
 | 170. | 2. panaszokkal járó epekövesség | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
-| 171. | E pontban kell minősíteni a cholelithiasist, a dyskinesis cholecystae-t, az epehólyag polypus-t. Az elbíráláshoz hasi ultrahang, rutin labor vizsgálatokon kívül GOT, GPT, serum alkalikus phosphatase, szükség esetén iv. epehólyag-, epeút-vizsgálat, gastroscopia ERCP kell. Az epekövesség II–V. rovat szerint minősített személy esetében repülésről való letiltást jelent, ezért az érintett szakszemélynek fel kell ajánlani a műtétet. Epekövesség és cholecystectomia után a jelölt alkalmatlan. Mellékleletként mutatkozó epekövesség esetén VI–IX. rovat szerint minősített személynél panasz- és tünetmentes állapotban az alkalmasság kimondható. Ebben az esetben fokozott megfigyelés, hasi ultrahang követés szükséges. Műtét a szakmai indikáció esetén szükséges. A szakszemélyzet, beleértve a repülőszakkiképzést végző jelöltet, sikeres műtét után panasz- és tünetmentesség esetén alkalmas. A dyskinesia önmagában nem jelent alkalmatlanságot, de ha a műtét utáni cholecystographia során 24 óra múlva az epehólyag nem ürül ki, úgy ajánlani kell a műtéti megoldást. Endoscopos szfinkterotomia után 14 nappal sebész szakorvos vélemény birtokában az alkalmasság visszaállítható. A rutin hasi ultrahangvizsgálat során nem ritka az epehólyag polypuss. Műtétet kell felajánlani, amennyiben az illető ezt nem fogadja el, rendszeres kontrollálásra (1/2–1 évente hasi ultrahang) szorul. |
+| 171. | E pontban kell minősíteni a cholelithiasist, a dyskinesis cholecystae-t, az epehólyag polypus-t. Az elbíráláshoz hasi ultrahang, rutin laborvizsgálatokon kívül GOT, GPT, serum alkalikus phosphatase, szükség esetén iv. epehólyag-, epeút-vizsgálat, gastroscopia ERCP kell. Az epekövesség II–V. rovat szerint minősített személy esetében repülésről való letiltást jelent, ezért az érintett szakszemélynek fel kell ajánlani a műtétet. Epekövesség és cholecystectomia után a jelölt panasz és tünetmentesség esetén alkalmas lehet. Mellékleletként mutatkozó epekövesség esetén a VI–IX. rovat szerint minősített személynél panasz- és tünetmentes állapotban az alkalmasság kimondható. Ebben az esetben fokozott megfigyelés, hasi ultrahang követés szükséges. Műtét a szakmai indikáció esetén szükséges. A szakszemélyzet, beleértve a repülőszakkiképzést végző jelöltet, sikeres műtét után panasz- és tünetmentesség esetén alkalmas. A dyskinesia önmagában nem jelent alkalmatlanságot, de ha a műtét utáni cholecystographia során 24 óra múlva az epehólyag nem ürül ki, úgy ajánlani kell a műtéti megoldást. Endoscopos szfinkterotomia után 14 nappal sebész szakorvos vélemény birtokában az alkalmasság visszaállítható. A rutin hasi ultrahangvizsgálat során nem ritka az epehólyag polypuss. Műtétet kell felajánlani, amennyiben az illető ezt nem fogadja el, úgy rendszeres kontrollálásra (½–1 évente hasi ultrahang) szorul.[^66] |
 
 | 172. | 96. | Hasfali és hasüregi sérv |
 
@@ -1250,324 +1252,31 @@ F. BŐR- ÉS NEMIBETEGEDÉSEK
 
 G. A FÜL-ORR-GÉGE, MELLÉKÜREGEK ÉS AZ ÁLLKAPOCS BETEGSÉGEI
 
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1. |  |  | Rovatok |
-
-| 2. | Sor- szám | Betegségek és fizikai fogyatékosságok megnevezése | I/A. | I/B. | II. | III. | IV. | V. | VI. | VII. | VIII. | IX. |
-
-| 3. | 127. | Krónikus, gennyes epitympanitis. Krónikus, gennyes kétoldali mesotympanitis, amely gyakran kiújul, vagy amelyet a dobüreg falának polypjai, granolumái, cariesei kísérnek, vagy ha a felső légutak nyálkahártyája dystrophiának kifejezett tünetei állnak fenn |
-
-| 4. |  | E | E | E | E | E | E | E | E | E | E |
-
-| 5. | A középfül gyakran kiújuló, makacs krónikus gyulladásait, melyek terápia resistensek, gyakran gennyesednek, sarjképződést, polypusokat okoznak, a hallást, esetleg az egyensúlyrendszert is befolyásolják, minden rovat szerint alkalmatlannak kell tekinteni. Amennyiben ezen folyamatok műtétre kerülnek vagy kerültek, a továbbiakban a 127., 128. és 129. pont alapján kell elbírálni. |
-
-| 6. | 128. | Krónikus, gennyes féloldali mesotympanitis, amelyet nem kísérnek az előző ponthoz felsorolt sajátságos tünetek |
-
-| 7. |  | E | E | E | E | KLGS | KLGS | KLGS | E | KLGS | KLGS |
-
-| 8. | A gennyes mesotympanitis olyan krónikus nyálkás-gennyes fülfolyás, mely a dobhártya mesotympanalis részén állandó jellegű gyűrűs perforációt okoz, így az ebben szenvedő személyt kezelni kell. Egyes esetekben, jóindulatú lefolyású folyamat esetén a IV–IX. rovat szerint minősített személyt – a fedélzeti rádiós kivételével – alkalmasnak lehet ítélni. Jóindulatú lefolyásúak azok a krónikus, gennyes mesotympanitisek, amelyeknek: – nincs recidíva hajlama, – a fülből ürülő váladéka baktériummentes, – granuláció polyposis és más kóros elváltozások nincsenek, – a felső légutak nyálkahártyája gyulladásmentes, – olyan gégészeti betegség nem mutatható ki, amely okozhatná a fül kóros elváltozását, – a hallás és vesztibuláris funkció nem károsodott, – a folyamat lokalizálódása, progresszív folyamat hiánya (caries, cholesteatoma), amelyet a röntgenlelet is megerősít, – szubjektív kellemetlen érzések nincsenek (fejfájás, fülzúgás). |
-
-| 9. | 129. | Középfülgyulladás után visszamaradt állandó tünetek, a középfül krónikus, nem gennyes gyulladásai |
-
-| 10. | 1. Középfülgyulladás után visszamaradt állandó tünetek (dobhártya száraz perforáció heges elváltozása, összenövések a dobüreg falában), valamint a középfül krónikus, nem gennyes gyulladásai a hallás mérsékelt csökkenésével és jó barofunkció esetén | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 11. | 2. Otosclerosis, súlyos fokú | E | E | E | E | E | E | KLGS | KLGS | KLGS | KLGS |
-
-| 12. | Ebbe a pontba a lezajlott középfülgyulladás maradványtünetei tartoznak. A lezajlott perforáció helyén kialakult kisebb heg és a hallócsontláncolat elmeszesedése (otosclerosis) azon eseteiben, amikor az elváltozás enyhe vagy kevésbé súlyos, a II–V. rovat szerint minősített személynél az alkalmasság KLGS megadható. Száraz perforáció esetén az alkalmasságot csak akkor lehet kimondani, ha bizonyos, hogy a száraz dobhártya perforációja mögött nem húzódik meg krónikus gennyes középfülgyulladás, ezért a szakszolgálati tevékenységet végző személyek azon tagjánál, akinél a dobhártya száraz perforációja zajlott le, kórházi kivizsgálást kell végezni, ahol a dinamikus megfigyelés során teljes audiometriai és röntgenvizsgálatokat kell végezni. Gyulladás hiányában – a hallásfunkció jó (audiometria jó eredmény), a fül-orr-gége szervek normálisak – alkalmas minősítést kell tenni. Az orvosi jellemzésben le kell írni, hogy a lezajlott folyamat a szakmai tevékenységet hogyan befolyásolta. Ehhez a ponthoz tartozik az ún. száraz középfülgyulladás (a középfül száraz hurutja), amely nem recidivál és közepes fokú hallás és barofunkció zavarok kísérik, amelyek mértéke önmagában nem teszi szükségessé a 127. és a 128. pontok alkalmazását. Csak akkor engedélyezhető ezen személy részére a szakszolgálati tevékenység végzése, ha a repülést jól viseli, és hatására barotraumára utaló elváltozások nem jelentkeznek, illetve a szolgálat teljesítéséhez szükséges kommunikációnak megfelelő hallásfunkcióval rendelkezik. |
-
-| 13. | 130. | Fülműtétek utáni állapot |
-
-| 14. | 1. antrotomia, amennyiben a gyermekkori antrotomia műtéti eredménye jó, recidíva nem történt, dobhártyák minimális hegesedésűek, halláskárosodás nincs | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 15. | 2. mastoidectomia és/vagy tympanoplastikák, amennyiben a műtét gyógyult és eredményét elérte (krónikus folyamat megszűnt, halláskárosodás nem jelentős, dobhártyák funkciójukat megtartották, barofunkció jó, lényeges röntgeneltérés nincs, vesztibuláris funkció jó) | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 16. | 3. radicalis fülműtétek (amennyiben a radikális műtéti terület gyógyult, kihámosodott sarjszövet, cholestectoma képződés nincs, a hallásfunkció a 128. pontot kielégíti, a barofunkció, a vesztibuláris funkció megfelelő, recidívák nem alakulnak ki) | E | E | E | E | KLGS | KLGS | KLGS | E | KLGS | KLGS |
-
-| 17. | 4. stapedectomia | E | E | E | E | E | E | E | E | E | E |
-
-| 18. | 5. egyéb, fent nem felsorolt műtétek (amennyiben a különleges felszerelések használatát nem befolyásolja, recidíva hajlam nincs, a hallást, barofunkciót, vesztibuláris funkciót nem befolyásolja, a professzionális repülés várhatóan nem hoz intenzív romlást) | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 19. | A fülműtétek utáni állapotot mindig különleges elbírálás alapján kell megítélni a jelöltnél, repülőszakkiképzést végző jelöltnél és szakszolgálati tevékenységet végző személynél egyaránt. Figyelembe kell venni a fülműtét anatómiai helyét, funkcionális eredményét, idejét, a funkció várható változását a professzionális igénybevétel hatására. Kizáró ok a többszöri műtét utáni recidíva, stapedectomia, cholesteatoma recidíva, mindenféle rosszindulatú daganat utáni műtét. A jelölt csak a gyermekkorban végzett, jól gyógyult, recidíva hajlamot nem mutató, jó hallással rendelkező, jól mozgó és kissé hegesedett dobhártyájú antrotomia utáni állapotnál alkalmas. Amennyiben a fülműtét jól gyógyult, recidíva hajlam (genny, sarjszövet, polyp, cholestectoma, hámosodási deffectus) nincs, a különleges felszerelést akadályozó körülmény nincs, az alkalmasságot a 127., 128., 129. és a 130. pont alapján kell eldönteni. |
-
-| 20. | 131. | A fül vagy az orrmelléküregek barofunkciójának csökkenése (a légnyomásváltozásra fellépő fokozott érzékenység) |
-
-| 21. | 1. állandó heves formája | E | E | E | E | E | E | E | KLGS | E | – |
-
-| 22. | 2. nem heves formája | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | – |
-
-| 23. | A fül barofunkció romlásának mértékét és tartósságát otometriás vizsgálaton kívül barokamrai felszállással (zuhanópróba) is ellenőrizni kell. Tartós és igen kifejezett fül barofunkciós zavar (a dobhártya kiterjedt hyperaemiája, a dobüregi vérömleny, exudátum), mely barokamrai vizsgálat vagy gyakorlórepülés után jelentkezik, a szakkiképzés vagy a repülések folytatását kizárja. Hasonló módon kell elbírálni azokat az eseteket is, amikor a dobhártya helyi elváltozásai és a fájdalom nem áll előtérben, hanem hosszabb ideig tartó (több nap) hallászavar lép fel minden alkalommal, amikor a vizsgált személy légnyomásváltozás hatásának van kitéve. A dobhártya kiterjedt hyperaemiáját, amelynél bevérzés vagy exudátum van a dobüregben, fájdalom, füldugulás kíséri, valamint azokat a mérsékelt fokú hallászavarokat, amelyek a barokamrai vizsgálat után 24 órán belül megszűnnek, a fül mérsékelt barofunkció zavaraként kell értékelni. Ezekben az esetekben a II–VIII. rovat szerint minősített személynél alkalmasságot különleges elbírálás alapján, a végzett munka jellegétől, a barofunkció zavar formájától (organikus vagy funkcionális), a gyógykezelés eredményétől és egyéb olyan adatoktól függően kell minősíteni, amelyek alapján következtetni lehet arra, hogy a vizsgált személy hogyan tudja a jövőben a munkakörével kapcsolatos feladatokat ellátni. A jelölt vizsgálatoknál a fül barofunkcióját a fülkürt átfújásával, a fül-orr-gége szervek endoscopiás, audiometriás és barokamrai vizsgálatával kell meghatározni. Azokban az esetekben, amikor a normális otoscopiás lelet és jó hallás mellett az Eustach kürt átjárhatósága akadályozott, a vizsgálatot az orr nyálkahártyájának anaemizálása után meg kell ismételni. Ha a barokamrai vizsgálat a fül barofunkció zavarát mutatja, úgy a barotraumás elváltozások megszűnése, illetve a kiváltó ok (például felső légúti hurut) gyógyulása után a vizsgálatot meg kell ismételni. Amennyiben a jelöltnél a barokamrai vizsgálat után enyhe dobhártya hyperaemia vagy a kalapács nyelének belöveltsége található, de az otomanometria eredményei jók, a fül-orr-gége szervekben egyéb kóros eltérés nincs, beiskolázása engedélyezhető. Az orrmelléküregek barofunkció zavarait a vizsgált panaszai, az orrnyálkahártya vizsgálati lelet, a légnyomásváltozás-tűrőképesség, szükség esetén a barokamrai vizsgálat előtt és után végzett melléküreg röntgenvizsgálatok együttes adatai alapján lehet megállapítani. |
-
-| 24. | 132. | Hallásromlás |
-
-| 25. | 1. végleges, teljes süketség az egyik fülön, végleges hallásromlás mindkét fülön, a súgott beszéd megértési határa 1 méterig terjed | E | E | E | E | E | E | E | E | E | E |
-
-| 26. | 2. végleges halláscsökkenés az egyik fülön, a súgott beszéd megértési határa 1 méterig terjed, amíg a másik fülön 1–4 méterig, végleges halláscsökkenés mindkét fülön, a súgott beszéd megértési határa mindegyik fülön 1–2 méterig terjed | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | E | E |
-
-| 27. | 3. végleges halláscsökkenés az egyik fülön, a súgott beszéd megértési határa 1 méterig terjed vagy a másikon 4 méter felett van, végleges halláscsökkenés mindkét fülön, a súgott beszéd megértési határa 2–3 méter között van | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 28. | 4. végleges halláscsökkenés az egyik fülön, a súgott beszéd megértési határ ezen a fülön 2–4 méter között van | E | E | A | A | A | A | A | A | A | A |
-
-| 29. | Halláscsökkenés megállapítása után ismételten el kell végezni a hallásfunkció súgott beszéd, hangvilla és audiometriai módszerrel végzett vizsgálatát. Amennyiben a halláscsökkenés csak átmeneti – főképpen a mély magánhangzókat tartalmazó hangcsoportokra terjed ki –, a fülkürtöt át kell fújni. Fél- vagy kétoldali teljes süketség gyanúja esetén el kell végezni a süketség objektív megállapítására szolgáló vizsgálatokat (Lombard-vizsgálat, BERA-vizsgálat). Az alkalmasság eldöntésére a legrosszabb hallásértéket kell alapul venni függetlenül attól, hogy ezek a mély vagy magas hangokra vonatkoznak. A hallási funkciók elbírálásában azok az adatok, amelyeket a hang-audiometria szolgáltat, lehetőséget adnak a hallásromlás fokának megállapítására és a hallásromlás dinamikus megfigyelésére. Súlyosabb hallásromlás jele, ha 2–8000 Hz-en a hallásküszöb emelkedés 40–50 dB. Az alkalmasság elbírálása szempontjából a másodfokú halláskárosodások fontosak, és az elbírálást a 2. alpont alapján kell elvégezni. Kifejezett halláskárosodásnak kell tekinteni a hallásküszöb emelkedést minden frekvencián, illetve ha 500 Hz feletti frekvenciákra kiterjedő. Ilyen esetben a hallásküszöb emelkedés 1500 Hz alatt 15–20 dB, felette pedig 80 dB-ig terjed (nagyothallás 3. stádium). Az alkalmasságot ezekben az esetekben a 1. alpont alapján kell elbírálni. Kritérium a hallászavarok megítélésénél a rádióhangok jó megértése repülés közben, amit egyénileg kell elbírálni a parancsnoki és orvosi jellemzés, esetleg ellenőrző repülés adatait is felhasználva. Azt a halláskárosodott szakszemélyt, akinél mindkét fülön 70 dB hangerősség mellett vagy a felett (100%-os beszédérthetőség normális szintje 30 dB hangerősség) nem lehet elérni 100%-os beszédérthetőséget a beszéd-audiometriás módszerrel, a repülő szolgálatról le kell tiltani. Gyorsan progrediáló nagyothallás esetén szakszolgálati tevékenység végzésére alkalmatlan döntést kell hozni a halláscsökkenés fokától és a repülés közbeni rádióvételi készségtől függetlenül. A szakszolgálati tevékenység végzéséhez szükséges alkalmasságot hallásromlás esetében megfelelő gyógykezelés és kórházi kivizsgálás után kell elbírálni. Jelölt, repülőszakkiképzést végző jelölt, rádiós alkalmas, ha a mély és magas hangokat tartalmazó súgott beszédet mindkét fülön legalább 6 méterről megérti. Jelöltnél a követelmény az audiometriás értékekre: |
-
-| 30. | Határétékek | 500 Hz | 1000 Hz | 2000 Hz | 4000 Hz | 8000 Hz |  |
-
-| 31. | 15 dB | 20 dB | 20 dB | 25 dB | 35 dB |  |
-
-| 32. | 133. | Fokozott vesztibuláris érzékenység |
-
-| 33. | 1. kifejezett, állandó, amely repülés közben lép fel és tréninggel nem kezelhető | E | E | E | E | E | E | E | E | E | – |
-
-| 34. | 2. repülés közben kompenzált | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | – |
-
-| 35. | 3. átmeneti tüneti jellegű | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | – |
-
-| 36. | 4. kisfokú vesztibuláris érzékenység | E | A | E | E | A | A | A | A | A | – |
-
-| 37. | A légijármű-vezető és légijármű szakszemélyzet tag vesztibuláris érzékenységének reális megítélését a vesztibulometriás (forgószék) vizsgálat, az anamnézis, a repüléstechnikai jellemzés (bonyolult műrepülési figurák, hosszú ideig tartó repülések elviselése) alapján kell elvégezni. Egyetlen adat alapján a szakszemélyzet tag alkalmassági minősítését eldönteni nem lehet. Az 1. alponthoz tartoznak a repülés közben fellépő kifejezett, nem átmeneti jellegű, tréninggel nem javítható, fokozott vesztibuláris érzékenység esetei. Ide kell sorolni a Meniere betegséget kísérő vesztibuláris, vegetatív tüneteket. Egyes esetekben, amikor meggyőző adatok bizonyítják, hogy a vizsgált személy a repülést rosszul tűri a súlyos vegetatív vesztibuláris reakciók miatt, de a vesztibulometriai vizsgálat ezt nem tudja kimutatni, és a klinikai kivizsgálás sem mutatott eltérést, az 1. alpont alapján szakszolgálati tevékenység végzésére alkalmatlan döntést kell hozni a repülőorvosi és szakmai vélemény adataira támaszkodva. A szakszemélyzet azon tagját, akinél a vesztibuláris túlérzékenység koponyatrauma után lépett fel, kórházi kivizsgálásra kell küldeni. Az alkalmasságról szóló döntést csak neurológiai és vesztibulometriás vizsgálatok adatai alapján lehet meghozni. Enyhe vesztibulo-vegetatív reakciók, amelyek sápadtság, enyhe izzadás formájában jelentkeznek, és a vesztibulometriai vizsgálat alatt súlyosbodnak, azon vizsgált személynél, aki egyébként a repülést jól viseli és semmilyen egyéb elváltozása nincs, a jelen pont alkalmazandó. Azokban az esetekben, amikor a szakszemély tagjánál utasként végzett repülések során hányinger lép fel, a vizsgált személyt a 2. alpont alapján alkalmasnak lehet ítélni azon típuson, amelyiken a vizsgálat időpontjában repül. A 3. alponthoz tartoznak az átmeneti, ún. „tüneti” vesztibuláris túlérzékenységi jelenségek. Átmeneti jellegű vesztibuláris zavarok esetén, amelyek kiszáradás, gyomor-bél betegségek után jelentkeznek, a vizsgáltnál oki gyógykezelést kell elvégezni, amely után alkalmassági vizsgálatnak kell alávetni. Azt a vizsgált személyt, akinél hosszabb ideig tartó repülési szünet után vesztibuláris zavarok lépnek fel, speciális edzésnek kell alávetni. A vesztibulo-vegetatív reakciók labilitása esetén (ha a vegetatív zavarok a vesztibuláris inger hatására növekednek) a vizsgálatot kórházban kell elvégezni, ahol az alkalmasságot komplex, céltudatos kivizsgálás alapján kell eldönteni. Jelen pont alapján kell megítélni azt a szakszemélyzet tagot, akinél repülés közben illúziók léptek fel, amennyiben azok vesztibuláris eredetűek. A repülés közben csak ritkán jelentkező és könnyen leküzdhető (átmeneti jellegű), valamint a műszer szerint végzett repülési tapasztalatok növekedésével eltűnő illúziók nem teszik szükségessé jelen pont alkalmazását. A vesztibuláris apparátus funkcionális állapotának megállapítására a jelöltnél is a Markarjan-féle forgószékes cumulativ vesztibuláris ingerléses vizsgálatot kell elvégezni. Kifejezett vegetatív reflexek észlelése esetén a vizsgálatot 1–2 nap múlva ugyanabban a formában és terjedelemben meg kell ismételni. Ha az ismételt vizsgálatkor is a kumulatív ingerek hatására fokozott vesztibuláris érzékenység tapasztalható, úgy az 1. vagy 2. alpont alapján a jelölt alkalmatlan. Az a jelölt, akinél a fokozott vesztibuláris érzékenység csökkent hipoxia-tűrőképességgel társul, alkalmatlan, és ebben az esetben szükségtelen a barokamrai és vesztibuláris vizsgálatok megismétlése. A vesztibuláris rendszer vizsgálatát kumulált ingerek alkalmazása mellett, a nap első felében kell elvégezni, étkezés után legkorábban 2 órával. Ha a vizsgálat 2 perce alatt kifejezett vegetatív reakciók lépnek fel (erős sápadtság, émelygés, hányinger, hányás stb.), a jelöltet a vesztibuláris túlérzékenység miatt repülőkiképzésre alkalmatlannak kell ítélni. Jelentéktelen sápadtság és mérsékelt izzadás, jó közérzet mellett a vizsgálat 1–2 napon belüli megismétlését teszi szükségessé. |
-
-| 38. | 134. | Az orr, garat, gége trachea, állkapocs, arcüreg, fülkagyló és külső hallójárat traumáinak és betegségeinek következményei |
-
-| 39. | 1. ha kifejezett légzési, beszéd-, nyelési, rágófunkció zavarok állnak fenn, vagy ha zavarja a különleges felszerelések és berendezések használatát | E | E | E | E | E | E | E | E | E | E |
-
-| 40. | 2. ha az 1. pontban felsorolt zavarok nem kísérik, és nem zavarja a különleges felszerelések és berendezések használatát, teljes (maradandó) szaglóképesség elvesztés | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 41. | E pont alapján kell megítélni az orr, szájüreg, gége és az állkapocs sérülései után visszamaradt elváltozásokat, valamint azokat a veleszületett fejlődési rendellenességeket, amelyeket sebészeti beavatkozással vagy más módszerrel nem sikerül megszüntetni, és a szerv működőképessége helyreáll, úgy a II–IX. rovat szerint minősített személynél szakszolgálati tevékenység végzésére alkalmas megállapítást lehet tenni. A szaglóképesség állandó jellegű csökkenése vagy teljes szagláshiány esetén csak akkor alkalmas a vizsgált személy, ha az nincs egyéb betegséggel pathogenetikai összefüggésben. Ha a szaglóképesség elvesztése vagy csökkenése egyéb megbetegedés tünete, úgy a szakszolgálati tevékenység végzésére való alkalmasságot az alapbetegség alapján kell elbírálni. Ugyanebbe a pontba tartoznak az orrsövényferdülések, adenoidok, az orrkagyló hypertrophiája, az orrmelléküregek csontos falának megbetegedései (osteomák, osteomyelitisek stb.), krónikus tonsillitisek, a felsőlégutak nyálkahártyájának hypertrophiája vagy artrophiája, valamint azok az egyéb megbetegedések, amelyek kedvezőtlenül befolyásolják a légzési, nyelési, beszéd- és rágásfunkciókat, illetve amelyek akadályozzák a különleges felszerelések és berendezések használatát. A fenti megbetegedésekben szenvedő jelölt alkalmatlan, a repülőszakkiképzést végző jelöltet és kiképzett személyt kórházi vagy ambuláns szakorvosi kezelésben kell részesíteni, addig ideiglenesen alkalmatlanok. A II–IX. rovat szerint minősített személy csak abban az esetben lehet alkalmatlan, ha a végzett gyógykezelés eredménytelen volt, és a fennálló elváltozások a végzett munka ellátását kedvezőtlenül befolyásolják. |
-
-| 42. | 135. | Az orrmelléküregek krónikus megbetegedései |
-
-| 43. | 1. a felsőlégutak dystrophiás vagy gyakran ismétlődő gennyes megbetegedései, gyakori sinusitis (egy- vagy kétoldali) | E | E | E | E | E | E | E | E | E | KLGS |
-
-| 44. | 2. gennyes kísérő tünetek nélküli folyamatok | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 45. | 3. nem gennyes folyamatok (catarrhalis serosus, vasomotoros és sinusitisek egyéb, nem gennyes formái, arcüreg cysta) | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 46. | 4. nagy polypusok (jó barofunkció, tünet- és panaszmentesség esetén) | E | A | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 47. | 5. enyhe catarrhalis gyulladásnál, ha a lágyrész árnyék 1/2 cm-nél kisebb, illetve babnyinál kisebb polypus (jó barofunkció, tünet- és panaszmentesség esetén) | E | A | A | A | A | A | A | A | A | A |
-
-| 48. | Az orrmelléküregek krónikus gennyes megbetegedéseinek a diagnózisát a rhynoscopiai vizsgálattal (gennyképződés) és orrmelléküreg röntgenfelvétellel kell igazolni. A Highmore üreg esetében a fentieken kívül még próba punctioval is alá kell támasztani. Az orrmelléküreg műtétei után visszamaradt tünetek (vonalszerű heg a szájtornác áthajlási redőjében, az operált melléküreg és az orrüreg között fennmaradt anastomosis, fátyolozottság a röntgenfelvételen), ha nem okoznak panaszokat, nincs gennyképződés és a felső légutak nyálkahártyája normális, nem jelenti a szakszolgálati tevékenység végzésének akadályát. Az 1. alpont alapján kell elbírálni azokat az orrnyálkahártya polypokat, amelyek az orrlégzést akadályozzák. Ebbe a betegségcsoportba tartoznak a krónikus sinusitisek, amelyeknél nincsenek látható szövődmények, de gyakran kiújulnak (évente legalább kétszer), és nagy kiesést okoznak a szakszolgálati tevékenység végzése alól. A 2. alpontba azok a krónikus gennyes orrmelléküreg gyulladások tartoznak, amelyeket nem kísér a felső légutak nyálkahártyájának dystrophiaja, nem hajlamosak gyakori kiújulásra, és nem okoznak fejfájást. Az ilyen típusú sinusitisben szenvedő vizsgált személyt gyógykezelni kell. Nem teljes gyógyulás esetén a IV–IX. rovat szerint csak az a vizsgált személy lehet szakszolgálati tevékenység végzésére alkalmas, akinél a betegség nem jár szubjektív tünetekkel (rossz közérzet, fejfájás, nyomásérzés a fejben, alvási és munkaképesség zavarok), és ha a megbetegedés a tevékenységet károsan nem befolyásolja. A 3. alpontba az orrmelléküregek krónikus, nem gennyes megbetegedései tartoznak (catarrhalis, serosus, vazomotoros és egyéb nem gennyes sinusitisek), valamint a Highmore üreg cystái. A szakszemély tag alkalmatlan, ha megbetegedését a felső légút nyálkahártyájának dystrophiája kíséri, vagy kifejezett szubjektív tünetek állnak fenn, a folyamat hajlamos a gyakori kiújulásra, és rosszul viseli a légnyomásváltozásokat, akár repülés közben, akár az ismételt barokamrai vizsgálatok alkalmából. Az orrmelléküregek krónikus, nem gennyes megbetegedéseit mindenre kiterjedő, komplex vizsgálatok alapján kell megállapítani. Nem lehet az alkalmassági minősítést, illetve a betegség diagnózisát egyetlen lelet (orrtükrözés vagy röntgenfelvétel) alapján elbírálni. A Highmore üregek nyálkahártyájának parietális duzzanatai jelölt esetében nem jelentenek alkalmatlanságot, ha az ellenőrző röntgenvizsgálatok, a fül-orr-gége szervek endoscopiás vizsgálata és egyéb vizsgálatok nem mutatnak ki kóros elváltozásokat. A melléküregek polypusai, cystái, műtét utáni állapotai, amennyiben nem okoznak zavarokat, légzési zavarokat, barofunkciós problémákat, gyakori gyulladásos fellobbanásokat, jelöltnél az I/B., légijármű-vezetőnél és egyéb légijármű szakszemélyzet tagnál különleges elbírálás alapján nem zárják ki az alkalmasságot. |
-
-| 49. | 136. | A felső légutak lupus vulgarisa, tuberculosisa, scleromája és egyéb infekciós granulomái, valamint rosszindulatú daganatai, bármilyen fejlődési stádiumban |
-
-| 50. |  | E | E | E | E | E | E | E | E | E | E |
-
-| 51. | Kivételt képezhet a tökéletes gyógyulás, amennyiben hegesedés a funkciókat nem zavarja, recidiva hajlam hosszabb időn keresztül nincs, a ruházat és speciális felszerelés használata nem akadályozott – sebész és belgyógyász bevonásával – a II–IX. rovat szerint minősített személynél a repülőalkalmasságot ki lehet mondani. |
-
-| 52. | 137. | Allergiás felső légúti folyamatok |
-
-| 53. | 1. szezonális | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 54. | 2. nem szezonális | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 55. | A klinikailag és labor által igazolt (tünettan, bőrpróba, IgE, PRIST), enyhe fokú, szezonális megjelenésű felső légúti allergiás folyamatok szoros ellenőrzése mellett, különleges elbírálás szerint a vizsgált személy szakszolgálati tevékenység végzésére minden rovatban alkalmas lehet, jelöltként nem alkalmas. Az egyes esetekben félévenként ROB szinten, belgyógyász bevonásával kell ellenőrizni, az esetleges progresszió kizárása miatt. Szükség szerint osztályos kivizsgálással kell mérlegelni a minősített személy további alkalmasságát, esetleges korlátozását, jelentősebb progresszió esetén letiltását. Évenként orvosi és parancsnoki jellemzésben kell kérni a minősített személy repülőtevékenységének megítélését. Célszerű az allergiás időszakra tervezni a minősített személy szabadságát, illetve a kondicionáló kiképzések idejét. Nem szezonális jellegű allergiás folyamatoknál az I–III. rovat szerint minősített személy nem alkalmas, a IV–IX. rovat szerint minősített személyt különleges elbírálás alapján, a fentiek szerint (belgyógyász bevonásával), a gyakoriság, súlyosság, esetleges progresszió alapján kell megítélni. Különös figyelmet kell fordítani a barofunkció megtartottságára. A gyógyszerelés alapja a jóváhagyott, a hajózó állomány gyógyszerszedéséről szóló szakutasítás, fokozott figyelmet kell fordítani az esetleges gyógyszer mellékhatások felismerésére. |
-
-| 56. | 138. | Dadogás és hebegés fizikális eltérés esetén |
-
-| 57. | 1. igen kifejezett | E | E | E | E | E | E | E | E | E | E |
-
-| 58. | 2. enyhe forma | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 59. | A dadogás súlyosságát ideggyógyásszal közösen, a beszédfunkció dinamikus megfigyelésével kell meghatározni. Mérsékelt fokú dadogás esetében a VI–IX. rovat szerint azon minősített személynél lehet engedélyezni a szakszolgálati tevékenység folytatását, akinél a jellemzésben kifejezetten utalnak arra, hogy dadogása nem befolyásolja kedvezőtlenül a kapott feladata elvégzését. |
-
-| 60. | 139. | Hangszalag és gége mozgásának és funkciójának károsodása |
-
-| 61. | 1. hangszalag intermedier vagy laterális állásban fixált | E | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 62. | 2. hangszalag paramedián állásban fixált | E | E | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 63. | 3. mindkét hangszalag fixált | E | E | E | E | E | E | E | E | E | E |
-
-| 64. | A fül-orr-gégész szakorvos speciális vizsgálatokat indikálhat, melyek eredményétől függ a döntés. |
-
-H. FOGÁSZATI MEGBETEGEDÉSEK
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1. |  |  | Rovatok |
-
-| 2. | Sor- szám | Betegségek és fizikai fogyatékosságok megnevezése | I/A. | I/B. | II. | III. | IV. | V. | VI. | VII. | VIII. | IX. |
-
-| 3. | 140. | Foghiány |
-
-| 4. | 1. kivehető protézis | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 5. | 2. precíziós finommechanikai rögzítőelemmel rögzített kivehető pótlás | E | E | KLGS | A | A | A | A | A | A | A |
-
-| 6. | 3. összesen 6 vagy több fog hiánya, quadransonként 2-nél több őrlőfog hiánya esetén (8-asok nem számítódnak bele), röntgenfelvétellel igazolt, állcsontban normális állású, de még áttörési tendenciát nem mutató 8-ast meglévő fognak lehet tekinteni. Nagymértékben elhanyagolt fogazat. | E | E | A | A | A | A | A | A | A | A |
-
-| 7. | 4. pótlás: rögzített (beépített) pótlás 1-nél több quadransban, az áthidalás a fent említettek szerint | KLGS | KLGS | A | A | A | A | A | A | A | A |
-
-| 8. | 5. tömések, 15-nél több tömött fog | KLGS | KLGS | A | A | A | A | A | A | A | A |
-
-| 9. | A ROB vizsgálatok alkalmával a részletes fogászati státuszt rögzíteni kell kiegészítve a STANAG 2466 NATO Egységes Védelmi Előírás által javasolt fogászati fitnesz standardizációval. Szükség esetén kiegészítésként ajánlott a röntgen- és speciális röntgenfelvételek készítése. Ennek értelmében a repülőszakkiképzést végző jelöltnél, valamint a II–IX. rovat szerint minősített személynél egy alkalommal OP felvételt kell készíteni és archiválni. Újabb felvételt csak akkor kell készíteni, ha a fogstátusz nagymértékben változik. A II–VII. rovat szerint minősített személy kivehető protézis esetén csak akkor repülhet, ha a repülés előtt protézisét kiveszi. Ebben az esetben a vizsgált személy csak akkor végezhet repülőmunkát, ha a protézis kivétele nem akadályozza a beszéd érthetőségét. Javasolt a kivehető protézisek helyett a rögzített, szükség esetén a fog beültetése, különösen a II. rovat szerint vizsgált személynél. Amennyiben az elkészített tömések, pótlások kifogástalanok, úgy a különleges elbírálás szempontjai a rágás és beszédkészség, speciális eszközök használata. A szakszemélyzet tagjánál jelentős foghiányok esetén a pótlás elkészültéig, gangrénás fogak, radixok esetében a sanatio teljes befejezéséig szakszolgálati tevékenység végzésére ideiglenesen alkalmatlan megállapítást kell tenni. Jelölt esetén a nagymértékben elhanyagolt fogazatot kell diagnosztizálni, 8-nál több kezeletlen fog (caries profunda, radix, gangrena) esetén a kezelés befejezéséig alkalmatlan, kiképzett állománynál az állapot függvényében (fogstátusz) KLGS alkalmazható. Foghúzás után a szakszemélyzet tagja 48 óráig nem repülhet, illetve ejtőernyős ugrást nem végezhet. A II–IV. rovat szerinti vizsgált személynél foggyökérkezelés, dentoalveoláris és szájsebészeti beavatkozás után OP felvételt és barokamrai vizsgálatot (kiterjesztett zuhanópróba) kell végezni. A végleges alkalmasságról csak rendezett, szanált fogazat esetén lehet dönteni. A kezelésre minden rovat esetén konkrét határidőt kell megadni, addig ideiglenes alkalmatlanságot kell megállapítani. |
-
-| 10. | 141. | Parodontosis |
-
-| 11. | 1. harmadik stádium | E | E | KLGS | LKGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 12. | 2. második stádium | E | E | KLGS | KLGS | A | A | A | A | A | A |
-
-| 13. | 3. első stádium | KLGS | KLGS | A | A | A | A | A | A | A | A |
-
-| 14. | Kezelni kell azt a szakszemélyzet tagot és repülőszakkiképzést végző jelöltet, akinek parodontosisa van. A 2. alpont szerint, különleges elbírálás alapján a parodontosis jellegét (gennyes, abscedáló, száraz), kiterjedését és a végzett gyógykezelés eredményességét figyelembe véve kell dönteni. Az 1. alpont szerint nem alkalmas a vizsgált személy, ha a fogak csontosan rögzített gyökérfelülete, a fog egyharmada vagy ennél kisebb, illetve ha a fogak mozgathatósága 1 mm-nél nagyobb, vagy ha a fogak rágófunkciót betölteni nem tudnak. A fogak szanálása után pótlás elkészítése szükséges. Röntgen- vagy speciális röntgenfelvétel készítése javasolt. |
-
-| 15. | 142. | A szájnyálkahártya makacs vagy recidív betegségei |
-
-| 16. |  | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 17. | E pont alapján kell megítélni a leukoplakiák, stomatitisek, glossitisek, cheilitisek és más recidiváló szájnyálkahártya betegségeket. |
-
-| 18. | 143. | A nyálmirigyek krónikus betegségei |
-
-| 19. | 1. gyakran kiújuló, kifejezett funkciózavarral | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 20. | 2. jelentéktelen funkciózavarral | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 21. | Az 1. alpont alapján kell megítélni a gyakran kialakuló krónikus, nem specifikus parotitiseket, a nyálmirigyek köves megbetegedéseit, azok eltávolítását vagy veleszületett hiánya okozta xerostomia makacs tüneteit. A ROB a döntését a bennfekvéses vizsgálatok (kivizsgálás) után hozza meg. |
-
-| 22. | 144. | Az arc, szájüreg, nyelv, állkapocs sérülései és betegsége következményei veleszületett és szerzett anomáliái |
-
-| 23. | 1. az arc eltorzulásával, beszéd- és nyelészavarral, súlyos funkciózavarral járó, vagy a speciális felszerelés használatát megnehezítő elváltozások | E | E | E | E | E | E | E | E | E | E |
-
-| 24. | 2. középsúlyos funkciózavarral járó elváltozások | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 25. | 3. minimális elhanyagolható funkciózavar, elsősorban esztétikai eltérés | A | A | A | A | A | A | A | A | A | A |
-
-I. SZEMÉSZETI MEGBETEGEDÉSEK
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1. |  |  | Rovatok |
-
-| 2. | Sor- szám | Betegségek és fizikai fogyatékosságok megnevezése | I/A. | I/B. | II. | III. | IV. | V. | VI. | VII. | VIII. | IX. |
-
-| 3. | 145. | A szaruhártya teljes befedését nem biztosító szemhéj elégtelenség, befordult szemhéj és a szempillának a szemgolyó irányába való befelé növése |
-
-| 4. | A szaruhártya teljes befedését nem biztosító szemhéj elégtelenség, befordult szemhéj és a szempillának a szemgolyó irányába való befelé növése, amely a szemet izgatja, vagy a szem funkcióját nehezíti. A szemhéjak egymással vagy a szemgolyóval való összenövése, akár csak egy szemen is, ha ez a szem funkcióját gátolja | E | E | E | E | E | E | E | E | E | E |
-
-| 5. | Azokban az esetekben, amikor a sebészeti beavatkozástól pozitív eredmény várható, az alkalmasság II–IX. rovat szerinti elbírálását a gyógykezelés után kell elvégezni. Szemhéjkifordulásnál, a szemhéjak egymással vagy a szemgolyóval való összenövésénél az egyik szemen, ha az a látást nem akadályozza, a szem mozgását nem gátolja, és kettős látást nem idéz elő, a II–IX. rovat szerint minősített személynél szakszolgálati tevékenység végzésére alkalmas megállapítást lehet tenni. A szemhéj jó- és rosszindulatú daganatai a gyógykezelés eredményének függvényében bírálhatók el. Szükség esetén onkológus bevonásával kell dönteni. |
-
-| 6. | 146. | A szemhéj és a conjunctivák krónikus betegségei |
-
-| 7. | 1. enyhe, gyakori kiújulásra nem hajlamos formák | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 8. | 2. kifejezett, gyógyulási hajlamot nem mutató, vagy gyakori kiújulásra hajlamos formák | E | E | E | E | E | E | E | E | E | E |
-
-| 9. | A 2. alponthoz tartoznak az elhanyagolt fekélyes blepharitisek ritka esetei, valamint azok a krónikus conjunctivitisek, amelyek a papilla hypertrophiájával és a nyálkahártya alatti szövetek kifejezett infiltrációjával járnak. Jelöltnél a szemhéj conjunctivája nem lehet fellazult, bársonyos, érdes és infiltrált. A conjunctiva enyhe bársonyossága a szemhéj sarkában, a tarsalis áthajlás helyén és az orbitális részben, valamint a pterygium, illetve a jégárpa nem akadálya a jelölt beiskolázásának. Egyes pikkelyes blepharitisek, valamint folliculosis, follicularis conjuctivitis esetében (ha az csak kisszámú folliculussal jár), továbbá egyes, nem trachomás eredetű felületes hegek conjunctiván való jelenlétekor (ha a conjunctiván és corneán egyéb elváltozások nem láthatók), a jelölt és a repülőszakkiképzést végző jelölt kiképzésre alkalmas. Az I. rovat szerint minősített személy alkalmatlan a tavaszi conjunctivitis, kifejezett formájú folliculosis és conjunctivitis follicularis, továbbá olyan pterygium esetén, amely a conjunctivák állandó hurutját okozza. Gyógykezelés szükséges, ha a II–IX. rovat szerint minősített személynél a szemhéjszélek krónikus gyulladását és progresszióját mutató pterygium észlelhető. |
-
-| 10. | 147. | Trachoma |
-
-| 11. | 1. a trachoma kezdődő formája, trachomás hegek nyálkahártya alatti szövetek kis infiltrációjával | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 12. | 2. a kötőhártya trachomás károsodása a nyálkahártya alatti szövetek mély infiltrációjával, a szaruhártya kifejezett trachomás károsodása (pannus) | E | E | E | E | E | E | E | E | E | E |
-
-| 13. | Ha a II–IX. rovat szerint minősített személynél lezajlott trachoma maradványtünetei láthatók, réslámpás vizsgálatot kell végezni, szükség esetén trachomaellenes kezelést kell alkalmazni. A II–IX. rovat szerint minősített személyt alkalmasnak lehet ítélni olyan trachoma következményeként létrejött sima hegeknél, amelyek komplikáció- és recidívamentesek. |
-
-| 14. | 148. | A könnycsatornák megbetegedéseit kísérő makacs könnyfolyás |
-
-| 15. | 1. gyógyítható | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 16. | 2. nem gyógyítható | E | E | E | E | E | E | E | E | E | E |
-
-| 17. | A jelöltnél meg kell követelni a könnyszervek normális állapotát. A 2. alponthoz tartoznak azok a megbetegedések, amelyeknél hiányzik vagy hegesen beszűkült a könnyzacskó, valamint a könnyutak kórházi kezelést nem igénylő, egyéb patológiás elváltozásai. A könnypontok szűkülete vagy szabálytalan elhelyezkedése, a könnycsatornák és a könny-orr csatornák rendellenességei, a könnyzacskó gennyes gyulladása és egyéb megbetegedései, amelyek könnycsorgást idéznek elő, jelölt esetében alkalmatlanságot, a II–IX. rovatok szerint vizsgált személynél a gyógykezelés időtartamára ideiglenes alkalmatlanságot jelentenek. A kezelés befejezése után az alkalmasság eldöntését a terápia eredményétől függően, különleges elbírálás szerint kell meghozni. Könnycsorgás vagy könnyelvezetési zavarokra utaló panaszok esetén színes oldattal kell a könny-orr csatornát megvizsgálni. Mindkét szembe 1–2 csepp 2%-os fluorescein oldatot szükséges cseppenteni, a vizsgált személyt utasítva arra, hogy 5 percen át üljön. Azután fehér szalvétába fújja ki először a jobb, majd a bal orrfelét. Ha 5 perc múlva az orrváladék elszíneződik, a könnyelvezető csatornák jól működnek. A könnyvezetékek különböző funkcionális zavaraiban a próba késhet (6–20 perc) vagy negatív lehet (20 perc múlva átfecskendezve sem színeződik el az orrváladék). Ilyen esetekben folyadékkal kell vizsgálni a könnyutak anatómiai átjárhatóságát. Ha a folyadék átfecskendezése során ezeknél a személyeknél az orrüregen át lefolyik, akkor a könny-orr csatornában nincs jelentős akadály. Ekkor ajánlatos a festékpróbát megismételni. A pozitív eredmény a könnyvezetékek funkcióinak helyreállását mutatja. Ha a színes folyadék lefolyása késleltetett, vagy a könnypontokon át kilép, az a könny-orr csatorna zavarát jelenti. Az ismételt festékoldatos próba negatív eredménye esetében az okot a könnypontok és a csatornák patológiás elváltozásában kell keresni. Negatív vagy késleltetett festékpróbánál a jelölt alkalmatlan. |
-
-| 18. | 149. | A szem hártyáinak gyulladásos vagy degeneratív megbetegedései, szemlencse vagy üvegtesti homály, a látási szervek traumáinak következményei |
-
-| 19. | 1. a szem funkcióját nem zavarja | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 20. | 2. látászavar, rossz gyógyulási készség vagy gyakori recidíva | E | E | E | E | E | E | E | E | E | E |
-
-| 21. | A 2. alponthoz tartoznak a szemgolyók hártyáinak különböző eredetű, nehezen vagy nem gyógyítható betegségei. Lezajlott folyamat esetében az alkalmasság a szem funkcióinak állapotától függően (látásélesség, látótér stb.) állapítható meg. Ha a szemfenék-vizsgálat elvégzését a szűk pupilla nehezíti, valamint olyan esetekben, amikor a szemfenék vagy környezete elváltozásának gyanúja fennáll, oftalmoszkópos, illetve más vizsgálatot (biomikroszkópia) kell végezni pupillatágítás mellett (ha mydraticum nem ellenjavallt). Iritis után maradó elváltozások (hátsó lenövések, pigmentáció a lencse elülső tokján, valamint a szemlencse és az üvegtest különböző etiológiájú elhomályosodása) estén az I. rovat szerint minősített jelölt alkalmatlan. A szemlencse elülső tokján lévő veleszületett pigment-lerakódások, elszíneződések, egyes, csak réslámpával látható szemcsék és lencse tokjai alatti vacuolák nem akadályozzák a jelölt beiskolázását. A II–IX. rovat szerint minősített azon személy részére, akinél herpeses keratitis, iritis, iridocyclitis zajlott le, repülésre ideiglenesen alkalmatlan minősítés adható. A szakszolgálati tevékenységhez szükséges alkalmasságot a 2. alpont alapján kell megállapítani. Ha a betegség első hat hónapjában recidíva lép fel, a II–IX. rovat szerint minősített személy alkalmatlan. A szemlencse körülírt elhomályosodása – a progresszivitás jelei nélkül –, továbbá az üvegtest betegségek után fellépő elhomályosodása – normális látási funkciók mellett (látásélesség, látótér stb.) – a II–IX. rovat szerint minősített személynél a szakszolgálati tevékenység ellátására való alkalmasságot nem befolyásolja. A VIII–IX. rovat szerint minősített személynél szürkehályog műtét után, amennyiben műanyag lencse beültetése történt – jó szemfunkcióknál – a szakszolgálati tevékenység ellátása különleges elbírálással engedélyezhető. A szem jóindulatú daganatai esetén – hacsak az egyik szemen is – az I. rovat szerint minősített személynél alkalmatlanságot kell megállapítani. A II–IX. rovat szerint minősített személy gyógykezelése szükséges. Rosszindulatú daganat, valamint annak eltávolítása után maradt hegek esetén a vizsgált személy minden rovat szerint alkalmatlan. Nem eltávolítható intraocularis idegentest jelenléte minden rovat szerinti alkalmatlanságot eredményez. |
-
-| 22. | 150. | Látóideg-atrophia fokozódó látáscsökkenéssel, glaucoma. Ablatio retinae, a retina pigmentes elfajulása, kifejezett éjszakai látáscsökkenés |
-
-| 23. |  | E | E | E | E | E | E | E | E | E | E |
-
-| 24. | A nervus opticus nem progrediáló atrophiája esetén – ha az csak féloldali is – az I. rovat szerint minősített személy alkalmatlan, a II–IX. rovat szerint minősített személy a szem funkcióinak vizsgálati eredményeitől függően alkalmas. A féloldali látótér minimális határai fehér fényben a halántéki oldalon 90°, az orr felőli oldalon 55°, fent 55°, lent 60°. Az egyéni eltérések nem léphetik túl az 5–10°-ot. Bármilyen eredetű látótérszűkület esetén az I–IX. rovat szerint minősített személy alkalmatlan. A 40 év feletti állománynál az éves ROB vizsgálatok során kötelező a szemnyomás ellenőrzése. Kórházi kivizsgálást kell végezni, ha a szem belső nyomása a 22 Hgmm-t meghaladja – ha az csak féloldali is –, valamint glaucomára utaló panaszoknál. A szemnyomás mérése után a vizsgált személyt a repülés alól egy napra fel kell menteni. A jelöltnél az éjszakai látást a szakkiképzésre történő beiskolázás előtt szükséges vizsgálni. A II–IX. rovat szerint minősített személynél a sötét adaptációzavarásra utaló jelek vagy panasz esetén kell adaptometriát végezni. A II–VI rovat szerint minősített személynél NVG (éjjellátó készülék) tervezett használata esetén az éjszakai látóélességet (sötét adaptációt) vizsgálni kell. Sikertelen kórházi kezelés esetén, a sötét adaptáció óránkénti adaptometriával megállapított olyan kifejezett állandó csökkenését, amely nem jár együtt a szemfenék patológiás elváltozásával, úgy kell megítélni, mint a retina pigmentes elfajulása (pigmentek nélkül). A repülőszakkiképzést végző jelölt és a II–IX. rovat szerint minősített személynél az éjszakai látáscsökkenés esetén a szakszolgálati tevékenység végzésére való alkalmasság meghatározása csak a kórházi kivizsgálás és kezelés során végezhető el. |
-
-| 25. | 151. | A szemmozgató apparátus zavarai, a szemhéj vagy a szemmozgató izmok bénulása vagy állandó paresise, hacsak az egyik szemen is |
-
-| 26. |  | E | E | E | E | E | E | E | E | E | E |
-
-| 27. | Ide tartozik az egyik vagy mindkét felső szemhéj ptosisa – akár veleszületett, akár szerzett –, ha az a látóteret beszűkíti. Concomitáló strabismus nem mindig fedezhető fel felületes vizsgálatnál, különösen kisfokú kancsalság esetén. A binocularis látás a kancsalság súlyossági fokától függetlenül minden esetben károsodást szenved. A végzős légijárművezető jelöltnél és a szakszemélyzet tagjánál vizsgálni kell a térlátást. A binocularis látás tökéletessége kizárja a concomitáló strabismust. A binocularis látás károsodásával rendelkező jelölt alkalmatlan. |
-
-| 28. | 152. | Látásélesség |
-
-| 29. | 1. 0,6 és annál alacsonyabb mindkét szemen, vagy 0,5-nél alacsonyabb az egyik szemen | E | E | E | E | E | E/KLGS | E/KLGS | E | A | A |
-
-| 30. | 2. 0,5-0,7 az egyik szemen és 0,7 a másik szemen (ejtőernyős jelölt megítélése az I/B. rovatban KLGS) | E | E/ KLGS | E | E | E | E/KLGS | E/KLGS | KLGS | A | A |
-
-| 31. | 3. 0,5-0,6 az egyik szemen és 0,8-nál nem alacsonyabb a másik szemen (ejtőernyős jelölt megítélése az I/B. rovatban KLGS) | E | E/KLGS | E | E | E | E/KLGS | E/KLGS | KLGS | A | A |
-
-| 32. | 4. 0,7 az egyik-szemen és 0,8-nál nem alacsonyabb a másik szemen (ejtőernyős jelölt megítélése az I/B. rovatban KLGS) | E | E/KLGS | E | KLGS | KLGS | A | A | A | A | A |
-
-| 33. | 5. 0,8 mindkét szemen (ejtőernyős jelölt megítélése az I/B. rovatban KLGS) | E | E/ KLGS | E | A | A | A | A | A | A | A |
-
-| 34. | 6. 0,9 mindkét szemen (ejtőernyős jelölt megítélése az I/B. rovatban KLGS) | E | E /KLGS | KLGS | A | A | A | A | A | A | A |
-
-| 35. | A látásélességet korrekció nélkül kell meghatározni. A jelöltnél és az elsőéves légijármű-vezető, légiforgalom irányító jelöltnél mindkét szemen 1,0 (teljes), a másodéveseknél minimum 0,9 visus-értéket kell megkövetelni. Ezen pont esetében az ejtőernyős jelölt megítélése a VII. rovat szerint történik. Egyes esetekben azon szakszolgálati tevékenységet végző személynek, aki bármilyen típusú helikopteren vagy szállító-repülőgépen repül, a látásélesség refrakciós anomália miatti csökkenésekor a repülések végzése megengedhető korrekciós szemüveggel vagy kontaktlencsével akkor, ha a korrekció nélküli látásélesség egyik szemen sem alacsonyabb 0,5-nél, a korrekcióval pedig 0,8-nél. Ebben az esetben a sphaerikus korrekció ±2,0 D-nál, a cylindrikus ±1,0 D-nál nem lehet nagyobb. A fedélzeti mérnök vagy technikus KLGS elbírálással folytathatja a repülést korrekciós szemüveggel, ha a nyers visus csak az 1–3. alpont szerinti értékeket éri el, de a korrigált látásélesség nem alacsonyabb 0,7-nél az egyik, vagy 0,5-nél mindkét szemen, szükség szerint védőtok használatával. A speciális beosztásban a sötét adaptációt, az éjszakai látóélesség (myóp tendencia) stereopsist, valamint a mélységlátást külön kell vizsgálni. A VII. rovat szerint minősített ejtőernyős látásélességét a 2. alpont határozza meg. A VIII–IX. rovat szerint minősített személynél a megkívánt nyers látásélesség 0,1. Korrekcióval a VIII. rovat szerint minősített személynél 0,7 az alkalmasság alsó határa. Aki szemüveget vagy kontaktlencsét visel, szolgálati ideje alatt köteles tartalékszemüveget tartani magánál. Kontaktlencse viselése szolgálat idején csak a hangsebesség alatt repülő eszközön szolgálatot teljesítő állománynál engedélyezhető, s kizárólag annak, aki legalább nyolc órán keresztül, bizonyítottan panaszmentesen tudja hordani. A radiális keratotomián átesett jelölt, repülőszakkiképzést végző jelölt, illetve a légijármű-vezető szakszolgálati tevékenység végzésére alkalmatlan. A fotorefraktív keratotomia után vizsgált személy a szaruhártya állapotától függően, különleges elbírálás szerint kerül megítélésre. Figyelembe véve a műtét típusát (PRK, intraLASIK v. LASIK) a szaruhártya állapotától és a műtét óta eltelt időtől függően lehet alkalmas jelöltként is. A műtét előtti refrakciós hiba nem lehet nagyobb 4 dioptriánál. A műtét után vizsgálni kell a látásélesség stabilitását (2 hét különbséggel vizsgált látásélesség között nem lehet 0.5 dioptriánál nagyobb eltérés), funkcionális látásvizsgálatok szükségesek, különösen a látótér, réslámpa, csökkent fényviszonyok közötti látás vizsgálata. |
-
-| 36. | 153. | Refrakciós anomáliák |
-
-| 37. |  | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 38. | I/A. rovat szerint alkalmatlan, ha a myopia nagyobb 0,5 D-nál, a hypermetropia nagyobb 1,5 D-nál és az astigmatismus bármilyen látásnál nagyobb, mint 0,5 D az egyik vagy mindkét szemen. I/B. rovat szerint alkalmatlan, ha a myopia nagyobb, mint 0,5 D, a hypermetropia nagyobb 1,5 D-nál és az astigmatismus bármilyen látásnál nagyobb, mint 0,5 D az egyik vagy mindkét szemen. A szakszemélyzet többi tagjelöltjénél a megengedett felső határérték: 1,0 D myopia, 2,0 D hypermetropia és 1,0 D astigmatismus egy vagy két szemen. A II–VI. rovat szerint minősített személy 1,0 D feletti myopia, 2,5 D feletti hypermetropia,1,0 D feletti bármilyen astigmatismus esetén egy vagy mindkét szemen alkalmatlan. A szakszemélyzet többi tagja és az ejtőernyős 1,0 D feletti myopia, 2,5 feletti túllátás és 1,0 D feletti bármilyen astigmatismus esetén a jobbik szemen: alkalmatlan. (A rosszabbik szemen a látásélesség követelményei függetlenek a refrakciótól.) Az V. és VI. rovat szerint minősített fedélzeti technikus vagy mérnök beosztásban KLGS elbírálással részletes kivizsgálás után, a VIII. rovat szerint minősített személy enyhébb minimum feltételekkel alkalmas lehet. A VIII. rovat szerint minősített személy 5,0 myopia, 4,5 D hypermetropia, 2,0 D feletti bármilyen astigmatismus esetén egy vagy mindkét szemen alkalmatlan. A IX. rovat szerint minősített szakszemélyzet tagja 6,0 D myopia, 6,0 D hypermetrophia, 2,0 D feletti bármilyen astigmatismus esetén egy vagy mindkét szemen alkalmatlan. |
-
-| 39. | A refraktometriával (skiaszkópia, autorefraktometria) kapott eredményeket szubjektív módszerrel (üveggel) ellenőrizni kell, szükség esetén gyógyszeres pupillatágítás alkalmazható. A szakszemélyzet tagja és a repülőszakkiképzést végző jelölt a cycloplegiás vizsgálatok után csak akkor repülhet, ha az akkomodációs képesség teljesen visszaállt. Ha a hangsebesség alatt repülőgépeken szolgálatot teljesítő személynél a refrakciós anomália túllépi a megengedett normát, de nem többel, mint 0,5 D, és a látásfunkciók jók (a repüléstechnikai minősítés figyelembevételével), különleges elbírálás alapján alkalmas megállapítás tehető. A szakszemélyzet tagjának egészségügyi könyvébe 0,5 D közellátás, túllátás és bármilyen formájú astigmatismus esetében – ha a látásélesség mindkét szemen korrekció nélkül 1,0 – a diagnózis rovatba a szemészeti szempontból egészséges bejegyzés kerül. Ekkor a fénytörés skiaszkópiával rovatban kell a megfelelő megjegyzést tenni. |
-
-| 40. | 154. | Akkomodációs zavarok |
-
-| 41. | 1. az akkomodáció bénulása vagy állandó spasmusa az egyik vagy mindkét szemen, sikertelen kórházi kezelés után | E | E | E | E | E | E | E | E | E | E |
-
-| 42. | 2. presbiopia: 2,5 D mindkét szemen | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 43. | 3. presbiopia: 2,5 D és annál magasabb az egyik vagy mindkét szemen | E | E | E | E | E | E | E | E | A | A |
-
-| 44. | Az akkomodáció állandó spasmusa miatt komplex vizsgálatokat kell végezni, neurológus, belgyógyász és más szakorvosok részvételével. Abban az esetben, amikor az akkomodáció spasmusát idegrendszeri, belgyógyászati vagy más betegség okozza, a repülőalkalmasság eldöntése az alapbetegség alapján történik. A korral változó akkomodáció mértékét (presbyopia) a közelpont-meghatározó segítségével kell megítélni. A betűk megvilágításából adódó hibák elkerülése érdekében a közelpont meghatározását sötét szobában, nem vakító, mesterséges fehér fényben, mindkét szemen külön-külön kell elvégezni. A Csapody-féle IV. táblázat kartonokra ragasztott szövegét addig kell a vizsgált szemétől távolítani, míg képes elolvasni (de 35 cm-nél nem nagyobb távolságra). Ha a vizsgált személy a betűket ebből a távolságból nem tudja elolvasni, akkor növekvő erősségű pozitív sphaerikus üvegeket szükséges a szeme elé helyezni addig, amíg nem tudja elolvasni a szavakat. A 1,5 D-ás presbyopiát kezdeti formának kell tartani, amely a légijármű-vezető alkalmasságot nem befolyásolja. Ha a II–VI. rovat szerint minősített személynél a presbyopia nem haladja meg a 2,0 D-t, akkor jó látásfunkciók esetén (látásélesség, éjszakai látás stb.) a repülés különleges elbírálással engedélyezhető. A bi-, vagy multifokális korrekciós üveg felírásánál a fő szempont a műszerfal és a lokátorernyő jó látása. Az e célra adott üveg optikai erőssége nem lehet több 2,0 D-nál. |
-
-| 45. | 155. | Színlátás zavarai |
-
-| 46. | 1. színlátás enyhe zavara (anomalia) | E | E | E | E | E | E | E | KLGS | KLGS | KLGS |
-
-| 47. | 2. színlátás kifejezett zavara (anopia) | E | E | E | E | E | E | E | KLGS | E | E |
-
-| 48. | A színlátást közhasználatban lévő polychromaticus táblákkal kell vizsgálni, amennyiben a színtévesztés foka nem állapítható meg, további kivizsgálás szükséges a színbiztosság megállapításához (például anomaloscopos vizsgálat). |
-
-J. NŐGYÓGYÁSZATI BETEGSÉGEK
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1. |  |  | Rovatok |
-
-| 2. | Sor- szám | Betegségek és fizikai fogyatékosságok megnevezése | I/A. | I/B. | II. | III. | IV. | V. | VI. | VII. | VIII. | IX. |
-
-| 3. | 156. | A női nemiszerv daganatai |
-
-| 4. | 1. jóindulatú | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 5. | 2. rosszindulatú | E | E | E | E | E | E | E | E | E | E |
-
-| 6. | A női nemiszervek jóindulatú daganatai esetében a gyógykezelés (műtét) eredményétől függően nőgyógyászati vélemény alapján különleges elbírálással véleményezhető az alkalmasság. A női nemiszervek rosszindulatú daganatai alkalmatlanságot jelentenek. |
-
-| 7. | 157. | Terhesség |
-
-| 8. |  | I | I | I | I | I | I | I | I | I | KLGS |
-
-| 9. | A terhesség megállapítása után a szakszemélyzet tagja ideiglenesen alkalmatlan, a szülés utáni alkalmasság a szoptatás befejeztével – de legkorábban a szülést követő 6. hét után – szülész szakorvosi vélemény birtokában véleményezhető és megadható. |
-
-| 10. | 158. | A genitáliák és környezetük fejlődési rendellenessége, gyulladása, előreesése, sérülés vagy műtét utáni állapota |
-
-| 11. | 1. funkciózavarral, recidíva hajlammal, gyakori panaszokkal | E | E | E | E | E | E | E | E | E | E |
-
-| 12. | 2. funkciózavar nélkül, fájdalommentesen | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 13. | A genitáliák és környezetük fejlődési rendellenessége, gyulladása, előreesése, sérülés vagy műtét utáni állapota funkciózavarral, recidíva hajlammal, gyakori panaszokkal alkalmatlanságot jelent. Amennyiben ezen elváltozások funkciózavar nélküliek, fájdalommentesek, panaszokat nem okoznak (úgymint kétszarvú méh, méh vagy hüvely fejletlensége, hiánya stb.) nőgyógyászati vélemény alapján, különleges elbírálással – szükség esetén más szakmák bevonásával (urológia, onkológia) – véleményezhető az alkalmasság. |
-
-| 14. | 159. | A menstruációs ciklus zavarai |
-
-| 15. |  | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
-
-| 16. | Dysmenorrhoea esetében a gyógykezelés eredményétől függően nőgyógyászati vélemény alapján különleges elbírálással véleményezhető az alkalmasság. Abban az esetben, ha panasz- és tünetmentességhez rendszeres gyógyszerszedés szükséges, meg kell vizsgálni, hogy a készítmény szedése okoz-e olyan mellékhatást, mely káros befolyást gyakorol a feladat ellátásában. |
-
-[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: Az 1. melléklet I. pont 1. alpontja a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^40]: Az 1. melléklet I. pont 3. alpont 3.13. pontját a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdése iktatta be.
+[^41]: Az 1. melléklet I. pont 4. alpont 4.3. pontját a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdése iktatta be.
+[^42]: Az 1. melléklet II. pont „A. IDEG- ÉS ELMEGYÓGYÁSZATI MEGBETEGEDÉSEK” alpontjában foglalt táblázat L:22 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 1. melléklet II. pont „A. IDEG- ÉS ELMEGYÓGYÁSZATI MEGBETEGEDÉSEK” alpontjában foglalt táblázat 42. sora a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^44]: Az 1. melléklet II. pont „A. IDEG- ÉS ELMEGYÓGYÁSZATI MEGBETEGEDÉSEK” alpontjában foglalt táblázat 43. sora a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. melléklet II. pont „B. MENTÁLIS ÉS VISELKEDÉSZAVAROK” alpontjában foglalt táblázat L:25 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat B:13–L:13 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^47]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat L:16 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^48]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat D:28 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^49]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat 40. sora a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^50]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat B:42-L:42 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^51]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat D:57 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^52]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat D:61 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^53]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat 65. sora a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^54]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat B:69-L:69 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^55]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat L:84 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^56]: Az 1. melléklet II. pont „D. BELGYÓGYÁSZATI BETEGSÉGEK” alpontjában foglalt táblázat B:85-L:85 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat B:46-L:46 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat L:51 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^59]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat 105. sora a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^60]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat D:110 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^61]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat D:115 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat L:117 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^63]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat 121. sora a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^64]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat L:122 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^65]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat D:147 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^66]: Az 1. melléklet II. pont „E. SEBÉSZETI MEGBETEGEDÉSEK, ELVÁLTOZÁSOK” alpontjában foglalt táblázat B:171-L:171 mezője a 11/2025. (IX. 18.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-16. § (1) A hatóság az állami légijárművek nem magyar állampolgárságú légiközlekedési szakszemélyzetének repülőegészségi alkalmasságáról hatósági repülőorvosi igazolványt állít ki a NATO vagy az Európai Unió bármely tagállamának hatáskörrel rendelkező katonai vagy polgári hatósága által kiadott hatósági repülőorvosi igazolvány alapján.
+16. §[^33]
 
-(2) Az állami légijárművek nem magyar állampolgárságú légiközlekedési szakszemélyzetének repülőegészségi alkalmasságának megállapítása a teljes repülőegészségi dokumentáció alapján a hatósági repülőszakorvos, az újraminősítése a repülőegészségi alkalmasság megállapítását végző intézet feladata.
+[^33]: A 16. §-t a 11/2025. (IX. 18.) HM rendelet 11. § g) pontja hatályon kívül helyezte.

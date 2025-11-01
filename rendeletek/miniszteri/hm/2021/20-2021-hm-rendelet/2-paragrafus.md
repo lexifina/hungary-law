@@ -10,6 +10,8 @@
 
 4. jelölt: az a személy, aki megfelelt az előzetesen meghatározott egészségi alkalmassági követelményeknek, és repülőszakmai képesítés megszerzésére törekszik, valamint azon személy, aki elméleti és gyakorlati repülőszakképzésben részesül,
 
+4a.[^1] légialkalmazású katona: olyan katona, aki alaprendeltetésű feladataiból adódóan légijárműből ejtőernyős ugrást hajt végre kis és közepes magasságból, bekötött nyitási rendszerű, körkupolás ejtőernyő rendszerrel, vagy az alacsonyan szálló vagy lebegő helikopterből ejtőernyő nélkül ugrik ki, vagy helikopterrel történő kirakást, illetve kiemelést végez különböző kötéltechnikai módszerekkel,
+
 5. légiközlekedési szakszemélyzet: az állami célú légiközlekedés szakszemélyzetének szakszolgálati engedélyeiről szóló miniszteri rendeletben (a továbbiakban: szakszolgálati rendelet) meghatározott fogalom,
 
 6. légiközlekedéssel összefüggő tevékenységet folytató szakszemélyzet: a szakszolgálati rendeletben meghatározott fogalom,
@@ -33,3 +35,5 @@
 15. szimulátor és gyakorló berendezés oktató: a katonai légügyi hatóság által auditált berendezésen – amelyen a repülési körülmények a földön mesterségesen előállíthatók – oktató tevékenységet folytató személy,
 
 16. vizsgált személy: aki a repülőegészségi alkalmasság formáinak megfelelően, e rendelet szerinti repülőegészségi vizsgálaton vesz részt.
+
+[^1]: A 2. § 4a. pontját a 11/2025. (IX. 18.) HM rendelet 1. §-a iktatta be.

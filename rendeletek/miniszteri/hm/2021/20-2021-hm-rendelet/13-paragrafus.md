@@ -20,13 +20,13 @@ e) az állományilletékes parancsnok, a szervezet vezetőjének véleménye.
 
 (3) A vizsgált személy repülőegészségi alkalmasságának megállapítása során a vizsgálatok elvégzését követően az alábbi okmányok kiállítása szükséges:
 
-a) repülőorvosi igazolás szakszolgálati engedély kiállításához, és
+a)[^23] repülőorvosi igazolás hatósági repülőorvosi igazolvány kiállításához, és
 
 b) hatósági repülőorvosi igazolvány.
 
 (4) Az EROB szakfőorvosai és a speciális vizsgálatokat végző orvosok szakvizsgálatainak eredményét az (1) bekezdés a) pontja szerinti vizsgálati lap, valamint az (1) bekezdés b) pontja szerinti repülő-egészségügyi könyv és a (3) bekezdés a) pont szerinti egészségügyi dokumentáció megfelelő rovatába kell bejegyezni. A vizsgálati eredmények mellett be kell jegyezni a megállapított kórismét, a repülőegészségi alkalmasság rovatát, szakterületét, a korlátozás vagy kiterjesztés megnevezését, a szükséges gyógyító-megelőző teendőket és az egyéb, repülésügyi szempontból jelentős egészségügyi adatokat.
 
-(5) A (2) bekezdés d) pontja szerinti orvosi bizonyítvány a vizsgált személy következő adatait tartalmazza:
+(5)[^24] A (2) bekezdés c) pontja szerinti orvosi bizonyítvány a vizsgált személy következő adatait tartalmazza:
 
 a) neve, születési éve, anyja neve, rendfokozata, szervezete, beosztása, szakmai beosztásának kezdete,
 
@@ -58,10 +58,16 @@ e) a kórisme és a korlátozás megnevezése a Táblázat vonatkozó pontjának
 
 a) az (1) bekezdés a) pontja, a (2) bekezdés b) és c) pontja szerinti okiratokat az MH központi egészségügyi szervezete,
 
-b) az (1) bekezdés b) pontja, a (2) bekezdés e) pontja és a (3) bekezdés a) pontja szerinti okiratokat az alapellátást végző egészségügyi szolgálat,
+b)[^25] az (1) bekezdés b) pontja szerinti okiratokat az alapellátást végző egészségügyi szolgálat,
 
 c) a (2) bekezdés d) és e) pontja szerinti orvosi és parancsnoki vélemény egy-egy példányát az MH központi egészségügyi szervezet és az alapellátást végző egészségügyi szolgálat,
 
 d) a (2) bekezdés c) pontja és a (3) bekezdés a) pontja szerinti okiratok 1. számú példányát a hatóság,
 
 e) a (3) bekezdés b) pontja szerinti okiratot a minősített személy
+
+tárolja.
+
+[^23]: A 13. § (3) bekezdés a) pontja a 11/2025. (IX. 18.) HM rendelet 10. § d) pontja szerint módosított szöveg.
+[^24]: A 13. § (5) bekezdés nyitó szövegrésze a 11/2025. (IX. 18.) HM rendelet 10. § e) pontja szerint módosított szöveg.
+[^25]: A 13. § (7) bekezdés b) pontja a 11/2025. (IX. 18.) HM rendelet 11. § d) pontja szerint módosított szöveg.

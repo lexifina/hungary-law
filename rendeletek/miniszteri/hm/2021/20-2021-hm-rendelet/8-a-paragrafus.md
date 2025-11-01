@@ -1,0 +1,3 @@
+8/A. §[^16] A légialkalmazású katona vizsgálata és minősítése során az 1. melléklet alkalmazásának nincs helye, helyette az EROB a döntését a hivatásos és a szerződéses katonai szolgálatra való egészségi, pszichikai és fizikai alkalmassági követelmények és ellenőrzésük keretszabályairól szóló HM rendelet alapján hozza meg. Az egészségügyi vizsgálat során be kell szerezni az érintett személy 2. melléklet szerinti nyilatkozatát arra vonatkozóan, hogy a kockázatok ismeretében elfogadja-e az ejtőernyős, illetve a helikopterből történő kirakás és kiemelés jellegű feladatok során fennálló kockázatokat.
+
+[^16]: A 8/A. §-t a 11/2025. (IX. 18.) HM rendelet 4. §-a iktatta be.
