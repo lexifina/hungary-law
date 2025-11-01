@@ -1,0 +1,1 @@
+270. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 61. § (1) bekezdés nyitó szövegrészében az „A” szövegrész helyébe a „Ha törvény eltérően nem rendelkezik, a” szöveg és a „bekezdés” szövegrész helyébe a „bekezdése” szöveg lép.

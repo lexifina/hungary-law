@@ -1,0 +1,3 @@
+309. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 98. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés szerinti nyilvántartásokban nyilvános adatként, illetve dokumentumként közzétehető a bizalmi szolgáltató neve, lakcíme, székhelye, nyilvántartásbavételi száma, a szolgáltatás megjelölése, nyújtásának helye, megkezdésének időpontja, a szolgáltatási szabályzat, a szolgáltatási rend, a szolgáltatási kivonat, valamint az általános szerződési feltétel. A bizalmi felügyelet által közzétett nyilvántartás a bizalmi szolgáltató neve, lakcíme, székhelye kivételével közhiteles nyilvántartásnak minősül.”

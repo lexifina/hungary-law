@@ -1,0 +1,3 @@
+45. § A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 30. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Természetes személy vagy szerv, a tulajdonában vagy birtokában lévő, közlevéltár illetékességébe nem tartozó, maradandó értékű iratainak tartós megőrzésére, a (2) bekezdésben foglalt követelmények teljesítésének vállalásával, a kultúráért felelős miniszternél kérelmezheti nyilvános magánlevéltár létesítésének engedélyezését. A nyilvános magánlevéltár létesítését – a levéltári szakfelügyelet javaslatára – a kultúráért felelős miniszter engedélyezheti.”

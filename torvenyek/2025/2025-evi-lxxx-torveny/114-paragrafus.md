@@ -1,0 +1,1 @@
+114. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15. § (1) bekezdésében az „Az egészségügyi” szövegrész helyébe az „A gyógyszerészeti” szöveg lép.
