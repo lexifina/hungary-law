@@ -2,6 +2,6 @@
 
 ## [2] A légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (2) bekezdés l) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § Az állami célú légiközlekedési személyzet repülőegészségi alkalmasságának feltételeiről, valamint a repülőegészségi alkalmassági vizsgálatot végző szerv kijelölésének és tevékenységének szabályairól szóló 20/2021. (X. 6.) HM rendelet (a továbbiakban: R.) 2. §-a a következő 4a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
