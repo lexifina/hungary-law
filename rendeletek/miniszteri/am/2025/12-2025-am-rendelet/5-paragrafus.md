@@ -1,3 +1,3 @@
-5. § A 68/2020. (XII. 23.) AM rendelet 8. §-a a következő (3a) bekezdéssel egészül ki:
+5. §[^6]
 
-„(3a) A krízisbiztosítási rendszer kapcsán az agrárgazdasági elemzésekkel foglalkozó intézmény által alkalmazott STÉ-kalkulátort a krízisbiztosítási szerv a honlapján közzéteszi.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
