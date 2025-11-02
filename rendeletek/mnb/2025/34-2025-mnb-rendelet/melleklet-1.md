@@ -1,3 +1,3 @@
-1. melléklet a 34/2025. (X. 30.) MNB rendelethez[^3]
+1. melléklet a 34/2025. (X. 30.) MNB rendelethez[^4]
 
-[^3]: Az 1. melléklet a 4. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
+[^4]: Az 1. melléklet a 4. § (2) bekezdése alapján 2026. október 1-jén lép hatályba.
