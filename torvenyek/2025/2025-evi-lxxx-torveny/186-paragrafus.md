@@ -4,7 +4,7 @@ a)
 
 b)
 
-c) 106/D. § (2) bekezdésében az „a), b), d) és e) pontja” szövegrész helyébe az „a), b), d), e) és f) pontja” szöveg,
+c)
 
 d)
 

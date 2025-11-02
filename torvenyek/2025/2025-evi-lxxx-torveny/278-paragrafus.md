@@ -1,3 +1,1 @@
-278. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 242/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a munkáltatói jogkör gyakorlója – miniszteri rendeletben meghatározott rendben – a tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti. A tisztjelölt a kérelme nélkül is részben vagy teljesen mentesíthető a megtérítési kötelezettség alól, ha a 242. § (2) bekezdésében meghatározott alkalmatlanságot okozó állapot kialakulásában a közrehatása nem állapítható meg.”
+### 278. §
