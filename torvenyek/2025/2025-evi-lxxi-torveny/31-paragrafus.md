@@ -2,19 +2,19 @@
 
 a)
 
-b) 284. § (1) bekezdésében a „tisztjelölti szolgálati” szövegrész helyébe a „tisztjelölti szerződéses” szöveg,
+b)
 
-c) 285. § (2) bekezdésében a „Nem nevezhető ki rendvédelmi tisztjelölti jogviszonyba,” szövegrész helyébe a „Nem létesíthető rendvédelmi tisztjelölti jogviszony azzal,” szöveg,
+c)
 
-d) 285. § (3) bekezdésében a „tisztjelölti jogviszonyba történő kinevezést és annak módosítását” szövegrész helyébe a „tisztjelölttel kötött szerződést és annak módosítását” szöveg,
+d)
 
-e) 285. § (5) bekezdésében a „kinevezést” szövegrész helyébe a „szerződést” szöveg,
+e)
 
-f) 285/A. § (3) bekezdésében a „Felmentés” szövegrész helyébe a „Felmondás” szöveg, a „felmentési” szövegrészek helyébe a „felmondási” szöveg,
+f)
 
-g) 285/C. § (3) bekezdésében a „szolgálati jogviszony” szövegrész helyébe a „rendvédelmi tisztjelölti jogviszony” szöveg,
+g)
 
-h) 286. § (1) bekezdésében a „tisztjelölti állományában” szövegrész helyébe a „tisztjelölti szerződéses állományában” szöveg,
+h)
 
 i)
 
