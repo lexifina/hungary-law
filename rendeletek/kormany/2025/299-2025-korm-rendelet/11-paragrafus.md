@@ -1,1 +1,3 @@
-11. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 62. § (7) bekezdésében a „151 985” szövegrész helyébe a „154 420” szöveg lép.
+11. §[^7]
+
+[^7]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
