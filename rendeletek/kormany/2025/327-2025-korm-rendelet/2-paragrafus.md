@@ -1,11 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 2. §-ában,
-
-b) 3. § (1) bekezdésében,
-
-c) 3. § (2) bekezdés nyitó szövegrészében, valamint
-
-d) 1. melléklet címében
-
-az „1. §” szövegrész helyébe az „1. § és az 1/A. §” szöveg lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

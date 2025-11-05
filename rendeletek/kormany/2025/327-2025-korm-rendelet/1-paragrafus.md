@@ -6,12 +6,6 @@
 
 ## [4] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés a), b) és d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A nagy sebességű mobil hírközlési hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 484/2017. (XII. 28.) Korm. rendelet (a továbbiakban: R.) a következő 1/A. §-sal egészül ki:
+1. §[^2]
 
-„1/A. § A Kormány kiemelt jelentőségű üggyé nyilvánítja az Energiaügyi Minisztérium Digitális Megújulás Operatív Program Plusz Irányító Hatósága által kiírt
-
-a) „DIMOP Plusz 3.1.2-25 Gigabit Magyarország Program” tárgyú pályázat alapján létrejött támogatási szerződésekben vállalt gigabitképes vezetékes hálózatok fejlesztését, valamint a mobil szélessávú hálózatok kapacitásának bővítését szolgáló projektek;
-
-b) „DIMOP Plusz-3.1.1-23 Gigabitképes hírközlési hálózat fejlesztést támogató al- és felépítmény-nyilvántartás” tárgyú pályázat keretében kötött önerős együttműködési megállapodásban vállalt fejlesztéseket szolgáló projektek
-
-beruházásaival összefüggő – az ilyen hálózatok megvalósításához, használatbavételéhez, valamint üzembe helyezéséhez közvetlenül szükséges –, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
