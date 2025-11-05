@@ -1,8 +1,10 @@
 ## 1. A Kormány a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § c) pontjában meghatározott feladatkörében eljárva a Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési keretét az 1. melléklet szerint állapítja meg.
 
+## 1/A.[^1] A Kormány elfogadja a 2. melléklet szerinti projektek kiemelt projektként történő nevesítését.
+
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1184/2022. (III. 28.) Korm. határozathoz[^1]
+1. melléklet az 1184/2022. (III. 28.) Korm. határozathoz[^2]
 
 A Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési kerete
 
@@ -20,7 +22,7 @@ A Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési
 
 | 5. | HAVE Plusz – 1.1.6 | A határátlépés gyorsítását szolgáló fejlesztések (specific action) | 2,60 | kiemelt | 2024. III. negyedév |
 
-| 6. | HAVE Plusz – 1.1.7 | Határátkelőhelyek fejlesztése és áteresztő kapacitásuk maximalizálása | 3,50 | kiemelt | 2025. II. negyedév |
+| 6. | HAVE Plusz – 1.1.7 | Határátkelőhelyek fejlesztése és áteresztő kapacitásuk maximalizálása | 6,70 | kiemelt | 2025. II. negyedév |
 
 | 7. | HAVE Plusz – 1.1.8 | Elektronikus határőrizeti rendszer fejlesztése (specific action) | 7,64 | kiemelt | 2025. II. negyedév |
 
@@ -28,11 +30,11 @@ A Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési
 
 | 9. | HAVE Plusz – 1.1.10 | A schengeni területen belül jogszerűtlenül tartózkodó személyek hatékonyabb kiszűrését támogató fejlesztések | 0,08 | standard | 2025. IV. negyedév |
 
-| 10. | HAVE Plusz – 1.1.11 | A határőrizeti képességek növelése a magyar-szerb határ mentén felderítő eszközök és fokozott védelmi képességű járőrgépkocsik beszerzésével (specific action) | 9,21 | kiemelt | 2025. II. negyedév |
+| 10. | HAVE Plusz – 1.1.11 | A határőrizeti képességek növelése a magyar–szerb határ mentén felderítő eszközök és fokozott védelmi képességű járőrgépkocsik beszerzésével (specific action) | 9,21 | kiemelt | 2025. II. negyedév |
 
 | 11. | HAVE Plusz – 1.2.1 | Együttműködés erősítése az integrált határigazgatás külső dimenzióiban | 3,50 | standard | 2024. I. negyedév |
 
-| 12. | HAVE Plusz – 1.2.2 | Kapcsolattartási Szolgálati Helyek infrastrukturális és IT fejlesztése a tagállamokkal és harmadik országokkal folytatott közvetlen információcsere támogatására. | 0,45 | standard | 2025. II. negyedév |
+| 12. | HAVE Plusz – 1.2.2 | Kapcsolattartási Szolgálati Helyek infrastrukturális és IT fejlesztése a tagállamokkal és harmadik országokkal folytatott közvetlen információcsere támogatására | 0,45 | standard | 2025. II. negyedév |
 
 | 13. | HAVE Plusz – 1.3.1 | Határrendészeti Innovációs Program létrehozása | 0,59 | standard | 2024. I. negyedév |
 
@@ -46,9 +48,11 @@ A Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési
 
 | 18. | HAVE Plusz – 1.4.4 | Intelligens határok bevezetése Magyarország külső határain SMART-HU (specific action) | 0,84 | kiemelt | 2025. I. negyedév |
 
-| 19. | HAVE Plusz – 1.5.1 | Az integrált határigazgatás végrehajtását szolgáló működési támogatás | 2,00 | standard | 2024. III. negyedév |
+| 19. | HAVE Plusz – 1.4.5 | A határigazgatás területén működtetett nagyméretű informatikai rendszerek interoperabilitásának biztosítása | 3,80 | standard | 2026. I. negyedév |
 
-| 20. | HAVE Plusz – 1.5.2 | Az integrált határigazgatás végrehajtását szolgáló működési támogatás II. | 2,00 | kiemelt | 2025. III. negyedév |
+| 20. | HAVE Plusz – 1.5.1 | Az integrált határigazgatás végrehajtását szolgáló működési támogatás | 2,00 | standard | 2024. III. negyedév |
+
+| 21. | HAVE Plusz – 1.5.2 | Az integrált határigazgatás végrehajtását szolgáló működési támogatás II. | 5,00 | kiemelt | 2026. I. negyedév |
 
 2. A közös vízumpolitika támogatása című 2. célkitűzés
 
@@ -66,6 +70,7 @@ A Határigazgatási és Vízumpolitikai Eszköz Program Plusz éves fejlesztési
 
 | 6. | HAVE Plusz – 2.3.1 | Szakértői kapacitások biztosítása a konzuli döntéshozatal támogatására | 2,90 | standard | 2024. I. negyedév |
 
-| 7. | HAVE Plusz – 2.4.1 | A közös vízumpolitika területén működtetett nagyméretű informatikai rendszerek felállítása, üzemeltetése és karbantartása | 0,70 | kiemelt | 2025. II. negyedév |
+| 7. | HAVE Plusz – 2.4.1 | A közös vízumpolitika területén működtetett nagyméretű informatikai rendszerek felállítása, üzemeltetése és karbantartása | 1,50 | kiemelt | 2025. IV. negyedév |
 
-[^1]: Az 1. melléklet az 1164/2025. (V. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1/A. pontot az 1393/2025. (XI. 4.) Korm. határozat 1. pontja iktatta be.
+[^2]: Az 1. melléklet az 1393/2025. (XI. 4.) Korm. határozat 2. pontjával megállapított szöveg.
