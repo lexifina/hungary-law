@@ -148,7 +148,7 @@
 
 1.67. Országos Vízügyi Főigazgatóság,
 
-1.68.[^21]
+1.68.[^21] Nemzeti Biodiverzitás- és Génmegőrzési Központ
 
 2. A központi államigazgatási és kormányzati tevékenység szempontjából fontos gazdálkodó szervezetek és létesítményeik:
 
@@ -306,7 +306,7 @@
 [^18]: Az 1. melléklet 1. pont 1.60. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^19]: Az 1. melléklet 1. pont 1.64. alpontját az 1041/2025. (III. 5.) Korm. határozat 4. pont c) alpontja hatályon kívül helyezte.
 [^20]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
-[^21]: Az 1. melléklet 1. pont 1.68. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^21]: Az 1. melléklet 1. pont 1.68. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte, újonnan az 1400/2025. (XI. 4.) Korm. határozat 1. pontja iktatta be.
 [^22]: Az 1. melléklet 2. pont 2.2. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^23]: Az 1. melléklet 2. pont 2.5. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
 [^24]: Az 1. melléklet 2. pont 2.6. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
