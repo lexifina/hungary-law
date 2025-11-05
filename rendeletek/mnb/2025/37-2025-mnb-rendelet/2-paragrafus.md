@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján a Magyar Tudományos Akadémia székházának és környezetének ábrázolása látható, előtérben a Lánchíd részletével. Az ábrázolás fölötti két vízszintes sorban a „3000” értékjelzés és a „FORINT” felirat olvasható. Az előlap szélén, köriratban, fent a „MAGYARORSZÁG” felirat, bal oldalon a „BP.” verdejel és a „2025” verési évszám olvasható, jobb oldalon – az ábrázolásba illesztve – az előlapot tervező Veres Gábor tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Holló Barnabás: A Magyar Tudományos Akadémia alapítása című domborművének érmére adaptált ábrázolása látható. Az ábrázolás fölött a Magyar Tudományos Akadémia alapításának évére utaló „1825” felirat olvasható, az ábrázolás alatt, négy sorban a „200 ÉVES A MAGYAR TUDOMÁNYOS AKADÉMIA” felirat olvasható. A hátlap szélén, bal oldalon – az ábrázolásba illesztve – a hátlapot tervező Fritz Mihály tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
