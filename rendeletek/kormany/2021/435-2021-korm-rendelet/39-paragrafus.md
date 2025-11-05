@@ -16,10 +16,10 @@ bb) csökkentését.
 
 (2) Az (EU) 2019/934 felhatalmazáson alapuló bizottsági rendelet I. melléklet A. részében foglalt 2. táblázat 6.5., 6.6. és 6.9. sorában meghatározott borászati eljárás végrehajtását legalább 5 nappal korábban be kell jelenteni a NÉBIH részére.
 
-(3)[^42] A borászati üzem a művelet megkezdése előtt legalább 5 nappal korábban bejelenti a NÉBIH részére
+(3)[^53] A borászati üzem a művelet megkezdése előtt legalább 5 nappal korábban bejelenti a NÉBIH részére
 
 a) a sűrített szőlőmust és a finomított szőlőmustsűrítmény előállítását, valamint
 
 b) a szőlővíz megsemmisítésének idejét és módját.
 
-[^42]: A 39. § (3) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 10. §-a iktatta be.
+[^53]: A 39. § (3) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 10. §-a iktatta be.

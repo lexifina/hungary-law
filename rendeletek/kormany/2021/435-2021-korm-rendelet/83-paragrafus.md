@@ -20,9 +20,9 @@ c) a telepítés, kivágás tényét bejelentették, de a telepítést vagy a ki
 
 (4) A (3) bekezdésben meghatározott mulasztási bírságot az érintett terület mérete, a mulasztás időtartamának hossza, a megelőző 5 borpiaci évben kiszabott mulasztási bírságok száma és a mulasztási bírsággal érintett szőlőültetvény használója által használt szőlőültetvények összesített területnagyságának figyelembevételével kell kiszabni.
 
-(5) A mulasztási bírság összege hektáronként 500 000 forint a szőlőültetvény rendeltetésszerű művelése megkezdésének a hegybíró felszólítása ellenére történő elmulasztása esetén.
+(5)[^110] A mulasztási bírság összege hektáronként 500 000 forint a szőlőültetvény rendeltetésszerű művelése megkezdésének a hegybíró felszólítása ellenére történő elmulasztása esetén. Osztatlan közös tulajdon esetében a bírság mértékét a tulajdoni hányad mértékére figyelemmel kell meghatározni.
 
-(6)[^89] A mulasztási bírság összege 10 000 forinttól 500 000 forintig terjed
+(6)[^111] A mulasztási bírság összege 10 000 forinttól 500 000 forintig terjed
 
 a) a gazdasági aktára vonatkozó adatszolgáltatási kötelezettség elmulasztása,
 
@@ -32,11 +32,12 @@ c) a bejelentési vagy adatszolgáltatási kötelezettség elmulasztása,
 
 d) a bejelentésköteles tevékenység bejelentés nélkül történő végzése vagy
 
-e)[^90] borászati kísérőokmány nélküli vagy nem megfelelő adattartalmú borászati kísérőokmánnyal való szállítása
+e)[^112] borászati kísérőokmány nélküli vagy nem megfelelő adattartalmú borászati kísérőokmánnyal való szállítása
 
 ## esetén.
 
 (7) A (6) bekezdésben meghatározott mulasztási bírságot a mulasztási bírság kiszabásának alapjául szolgáló adatszolgáltatási kötelezettséggel érintett szőlőültetvény területe, a borászati terméktétel mennyisége, a mulasztás időtartama és a megelőző 5 borpiaci évben kiszabott mulasztási bírságok számának figyelembevételével kell kiszabni.
 
-[^89]: A 83. § (6) bekezdés nyitó szövegrésze a 392/2023. (VIII. 14.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
-[^90]: A 83. § (6) bekezdés e) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) és k) pontja szerint módosított szöveg.
+[^110]: A 83. § (5) bekezdése a 339/2025. (X. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^111]: A 83. § (6) bekezdés nyitó szövegrésze a 392/2023. (VIII. 14.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^112]: A 83. § (6) bekezdés e) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) és k) pontja szerint módosított szöveg.

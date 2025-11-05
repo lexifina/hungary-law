@@ -1,1 +1,0 @@
-## 51. § Földrajzi jelzés nélküli borászati termék az általános érzékszervi jellemzőknek való megfelelés esetén hozható közfogyasztásra forgalomba. Az érzékszervi jellemzők vizsgálatát, valamint, ha azt az érzékszervi vizsgálat nem megfelelő eredményének kézhezvételét követő 7 napon belül kérelmezik, a megismételt érzékszervi vizsgálatot az OBB végzi.

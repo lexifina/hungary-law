@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-435-20-
 | 2024-06-01 | 2021-435-20-22.14 | 107/2024. (V. 9.) Korm. rendelet |
 | 2024-10-23 | 2021-435-20-22.16 | 301/2024. (X. 22.) Korm. rendelet |
 | 2024-10-25 | 2021-435-20-22.17 | 301/2024. (X. 22.) Korm. rendelet |
+| 2025-11-05 | 2021-435-20-22.18 | 339/2025. (X. 31.) Korm. rendelet |

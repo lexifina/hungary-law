@@ -1,5 +1,3 @@
-## 58. § Az Európai Gazdasági Térség szerződő államain kívüli állam (a továbbiakban: harmadik ország) által megkövetelt, borászati termék forgalomba hozatalához szükséges dokumentumot (a továbbiakban: forgalombahozatali dokumentum) a NÉBIH állítja ki. A forgalombahozatali dokumentum kiállítását, elektronikus ügyintézésre köteles ügyfél, valamint az elektronikus ügyintézést önkéntesen vállaló ügyfél esetében az E-ügyintézési tv. és a végrehajtására kiadott kormányrendeletben szabályozott módon, a borászati termék forgalombahozatali azonosítójának megadásával kell kérelmezni.
-
 59. § (1) A borászati termék – a borecet kivételével – Btv. 10. § (2) bekezdése szerinti, harmadik országból történő behozatala esetén a NÉBIH a forgalombahozatali azonosítót az általa az importőr szállítmányonként beadott kérelmére elvégzett analitikai és érzékszervi vizsgálat megfelelő eredménye esetén adja ki.
 
 (2) Nemzetközi szerződés alapján akkor mellőzhető az (1) bekezdés szerinti analitikai és érzékszervi vizsgálat, ha
