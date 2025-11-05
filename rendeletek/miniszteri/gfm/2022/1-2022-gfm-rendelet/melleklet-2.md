@@ -102,7 +102,13 @@ IX. Tulajdonosi joggyakorló: Országos Vízügyi Főigazgatóság
 
 | 2. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 15-09-070444 | 2026. december 31. |
 
-X.
+X. Tulajdonosi joggyakorló: Néprajzi Múzeum
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Néprajzi Múzeum Nonprofit Korlátolt Felelősségű Társaság | 01-09-446465 | 2026. december 31. |
 
 XI. Tulajdonosi joggyakorló: Szabadtéri Néprajzi Múzeum
 
@@ -188,4 +194,4 @@ XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
 
 XXI. Tulajdonosi joggyakorló: Központi Statisztikai Hivatal
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 1. §-a, a 13/2024. (IV. 9.) NGM rendelet 1. §-a, a 22/2024. (VII. 2.) NGM rendelet 2. §-a, a 33/2024. (IX. 9.) NGM rendelet 3. § (2) bekezdése, a 49/2024. (XII. 20.) NGM rendelet 1. §-a, a 9/2025. (IV. 7.) NGM rendelet 3. § c)-e) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 1. §-a, a 13/2024. (IV. 9.) NGM rendelet 1. §-a, a 22/2024. (VII. 2.) NGM rendelet 2. §-a, a 33/2024. (IX. 9.) NGM rendelet 3. § (2) bekezdése, a 49/2024. (XII. 20.) NGM rendelet 1. §-a, a 9/2025. (IV. 7.) NGM rendelet 3. § c)-e) pontja, a 32/2025. (XI. 4.) NGM rendelet 1. §-a szerint módosított szöveg.
