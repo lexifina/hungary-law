@@ -56,21 +56,21 @@ A Gazdaságfejlesztési és Innovációs Operatív Program Plusz éves fejleszt�
 
 | 4a.[^36] | GINOP Plusz-2.1.3-24 | KKV-k innovációs képességének támogatása | 75,00 (ebből fejlett régió: 15,00) | standard[^37] | Meghirdetve 2024. szeptemberben[^38] |
 
-| 4b.[^39] | GINOP Plusz-2.1.4-25 | KKV innovációk piacravitelének támogatása | 60,00 (ebből fejlett régió: 15,00) | standard | 2025. harmadik negyedév |
+| 4b.[^39] | GINOP Plusz-2.1.4-25 | KKV innovációk piacravitelének támogatása | 60,00 (ebből fejlett régió: 15,00) | standard | Meghirdetve 2025. októberben[^40] |
 
-| 4c.[^40] | GINOP Plusz-2.1.5-25 | Life Sciences Catalyst Program | 15,00 (ebből fejlett régió: 10,00) | standard | 2025. negyedik negyedév |
+| 4c.[^41] | GINOP Plusz-2.1.5-25 | Life Sciences Catalyst Program | 15,00 (ebből fejlett régió: 10,00) | standard | 2025. negyedik negyedév |
 
-| 4d.[^41] | GINOP Plusz-2.1.6-25 | Nagyvállalati Fókuszterületi Innovációs Program | 10,00 (ebből fejlett régió: 3,00) | standard | 2025. harmadik negyedév |
+| 4d.[^42] | GINOP Plusz-2.1.6-25 | Nagyvállalati Fókuszterületi Innovációs Program | 10,00 (ebből fejlett régió: 3,00) | standard | Meghirdetve 2025. októberben[^43] |
 
-| 5. | GINOP Plusz-2.2.1-25[^42] | Hazai kutatási infrastruktúrák komplex fejlesztésének támogatása | 26,00 (ebből fejlett régió: 15,00)[^43] | standard | 2025. harmadik negyedév[^44] |
+| 5. | GINOP Plusz-2.2.1-25[^44] | Hazai kutatási infrastruktúrák komplex fejlesztésének támogatása | 26,00 (ebből fejlett régió: 15,00)[^45] | standard | Meghirdetve 2025. októberben[^46] |
 
-| 6.[^45] | GINOP Plusz-2.5.1-25[^46] | Korai fázisú kutatás-fejlesztési kockázati tőkeprogram | 11,35[^47] | pénzügyi eszköz | 2025. negyedik negyedév[^48] |
+| 6.[^47] | GINOP Plusz-2.5.1-25[^48] | Korai fázisú kutatás-fejlesztési kockázati tőkeprogram | 18,12 (ebből fejlett régió: 6,77)[^49] | pénzügyi eszköz | 2025. negyedik negyedév[^50] |
 
-| 7.[^49] |  |  |  |  |  |
+| 7.[^51] | GINOP Plusz-2.5.2-26 | Technológiaspecifikus kockázati tőkeprogram | 55,12 | pénzügyi eszköz | 2026. első negyedév |
 
-| 8.[^50] |  |  |  |  |  |
+| 8.[^52] |  |  |  |  |  |
 
-| 9.[^51] |  |  |  |  |  |
+| 9.[^53] |  |  |  |  |  |
 
 3. A Fenntartható munkaerőpiac című 3. prioritás
 
@@ -78,19 +78,19 @@ A Gazdaságfejlesztési és Innovációs Operatív Program Plusz éves fejleszt�
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (milliárd forint) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP Plusz-3.1.1-23 | A munkaerő-kínálat bővítése és fejlesztése | 175,67[^52] | kiemelt | Meghirdetve 2023. decemberben[^53] |
+| 2. | GINOP Plusz-3.1.1-23 | A munkaerő-kínálat bővítése és fejlesztése | 175,67[^54] | kiemelt | Meghirdetve 2023. decemberben[^55] |
 
 | 3. | GINOP Plusz-3.2.1-21 | A munkavállalók és vállalatok alkalmazkodóképességének és termelékenységének javítása a munkaerő fejlesztésén keresztül | 70,00 | kiemelt | Meghirdetve 2021. júliusban |
 
-| 4. | GINOP Plusz-3.2.2-24[^54] | A foglalkoztatáspolitikai intézményrendszer adminisztratív folyamatainak hatékonyabbá tétele | 8,76 | kiemelt | Meghirdetve 2024. júniusban[^55] |
+| 4. | GINOP Plusz-3.2.2-24[^56] | A foglalkoztatáspolitikai intézményrendszer adminisztratív folyamatainak hatékonyabbá tétele | 8,76 | kiemelt | Meghirdetve 2024. júniusban[^57] |
 
-| 5. | GINOP Plusz-3.2.3-24[^56] | Szociális partnerek kapacitásépítésének támogatása | 10,684[^57] | standard | Meghirdetve 2024. áprilisban[^58] |
+| 5. | GINOP Plusz-3.2.3-24[^58] | Szociális partnerek kapacitásépítésének támogatása | 10,684[^59] | standard | Meghirdetve 2024. áprilisban[^60] |
 
-| 6.[^59] | GINOP Plusz-3.2.4-23 | KKV kapacitásbővítő támogatás | 5,00 | kiemelt | Meghirdetve 2023. novemberben[^60] |
+| 6.[^61] | GINOP Plusz-3.2.4-23 | KKV kapacitásbővítő támogatás | 5,00 | kiemelt | Meghirdetve 2023. novemberben[^62] |
 
-| 7.[^61] | GINOP Plusz-3.2.5-24 | Munkakörülmények fejlesztése | 8,61[^62] | kiemelt | Meghirdetve 2024. júliusban[^63] |
+| 7.[^63] | GINOP Plusz-3.2.5-24 | Munkakörülmények fejlesztése | 8,61[^64] | kiemelt | Meghirdetve 2024. júliusban[^65] |
 
-| 8.[^64] | GINOP Plusz-3.2.6-25[^65] | Munkáltatók egészségtudatosságának fejlesztése | 8,76 | kiemelt | 2025. második negyedév[^66] |
+| 8.[^66] | GINOP Plusz-3.2.6-25[^67] | Munkáltatók egészségtudatosságának fejlesztése | 8,76 | kiemelt | Meghirdetve 2025. augusztusban[^68] |
 
 4. Az Ifjúsági garancia című 4. prioritás
 
@@ -98,7 +98,7 @@ A Gazdaságfejlesztési és Innovációs Operatív Program Plusz éves fejleszt�
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (milliárd forint) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP Plusz-4.1.1-23 | Ifjúsági Garancia Plusz | 208,00[^67] | kiemelt | Meghirdetve 2023. szeptemberben[^68] |
+| 2. | GINOP Plusz-4.1.1-23 | Ifjúsági Garancia Plusz | 208,00[^69] | kiemelt | Meghirdetve 2023. szeptemberben[^70] |
 
 5. A Felsőoktatás, szakképzés című 5. prioritás
 
@@ -106,33 +106,33 @@ A Gazdaságfejlesztési és Innovációs Operatív Program Plusz éves fejleszt�
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (milliárd forint) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 1a.[^69] | GINOP Plusz-5.1.1-24 | Szakképzési ágazati tudásközpontok létrehozása | 21,363 (ebből fejlett régió: 4,270) | standard[^70] | Meghirdetve 2024. decemberben[^71] |
+| 1a.[^71] | GINOP Plusz-5.1.1-24 | Szakképzési ágazati tudásközpontok létrehozása | 21,363 (ebből fejlett régió: 4,270) | standard[^72] | Meghirdetve 2024. decemberben[^73] |
 
-| 2. | GINOP Plusz-5.2.1-23 | Mérés-értékelés, tudásbeszámítás és átjárhatóság fejlesztése a szakképzésben | 9,297 | kiemelt | Meghirdetve 2023. novemberben[^72] |
+| 2. | GINOP Plusz-5.2.1-23 | Mérés-értékelés, tudásbeszámítás és átjárhatóság fejlesztése a szakképzésben | 9,297 | kiemelt | Meghirdetve 2023. novemberben[^74] |
 
-| 3. | GINOP Plusz-5.2.2-23 | Minőségfejlesztés és továbbképzési paletta bővítése a szakképzésben | 8,215 | kiemelt | Meghirdetve 2023. októberben[^73] |
+| 3. | GINOP Plusz-5.2.2-23 | Minőségfejlesztés és továbbképzési paletta bővítése a szakképzésben | 8,215 | kiemelt | Meghirdetve 2023. októberben[^75] |
 
-| 4. | GINOP Plusz-5.2.3-23 | Szakképző intézményi fejlesztések és hátránykompenzáció szakmai támogatása | 6,499 | kiemelt | Meghirdetve 2023. novemberben[^74] |
+| 4. | GINOP Plusz-5.2.3-23 | Szakképző intézményi fejlesztések és hátránykompenzáció szakmai támogatása | 6,499 | kiemelt | Meghirdetve 2023. novemberben[^76] |
 
-| 4a.[^75] | GINOP Plusz-5.2.4-25[^76] | Pálya- és karrier-tanácsadás a szakképzésben | 6,60 | kiemelt | 2025. második negyedév[^77] |
+| 4a.[^77] | GINOP Plusz-5.2.4-25[^78] | Pálya- és karrier-tanácsadás a szakképzésben | 6,60 | kiemelt | Meghirdetve 2025. augusztusban[^79] |
 
-| 4b.[^78] | GINOP Plusz-5.2.5-25 | A szakképzésben tanulók idegen nyelvi kompetenciáinak kis csoportos fejlesztése | 8,938 (ebből fejlett régió: 1,788) | standard | 2025. harmadik negyedév |
+| 4b.[^80] | GINOP Plusz-5.2.5-25 | A szakképzésben tanulók idegen nyelvi kompetenciáinak kis csoportos fejlesztése | 8,938 (ebből fejlett régió: 1,788) | standard | Meghirdetve 2025. szeptemberben[^81] |
 
-| 4c.[^79] | GINOP Plusz-5.2.6-25 | Ágazati képzőközpontok létrehozása | 6,210 (ebből fejlett régió: 1,725) | standard | 2025. harmadik negyedév |
+| 4c.[^82] | GINOP Plusz-5.2.6-25 | Ágazati képzőközpontok létrehozása | 6,210 (ebből fejlett régió: 1,725) | standard | Meghirdetve 2025. szeptemberben[^83] |
 
-| 4d.[^80] | GINOP Plusz-5.2.7-25 | Az innovatív szakmai oktatás fejlesztése digitális tananyagok fejlesztésével, digitális asszisztensek bevonásával | 22,00 | kiemelt | 2025. harmadik negyedév |
+| 4d.[^84] | GINOP Plusz-5.2.7-25 | Az innovatív szakmai oktatás fejlesztése digitális tananyagok fejlesztésével, digitális asszisztensek bevonásával | 22,00 | kiemelt | 2025. harmadik negyedév |
 
-| 4e.[^81] | GINOP Plusz-5.2.8-25 | Támogatott oktatói képzések a szakképzésben | 2,877 | kiemelt | 2025. negyedik negyedév |
+| 4e.[^85] | GINOP Plusz-5.2.8-25 | Támogatott oktatói képzések a szakképzésben | 2,877 | kiemelt | 2025. negyedik negyedév |
 
-| 5. | GINOP Plusz-5.3.1-23 | Apáczai ösztöndíjprogram | 12,265[^82] | kiemelt | Meghirdetve 2023. októberben[^83] |
+| 5. | GINOP Plusz-5.3.1-23 | Apáczai ösztöndíjprogram | 12,265[^86] | kiemelt | Meghirdetve 2023. októberben[^87] |
 
-| 6. | GINOP Plusz-5.3.2-25[^84] | Szakképzési hátránykompenzációs programok és rugalmas tanulási utak | 29,021 (ebből fejlett régió: 5,200)[^85] | standard | 2025. második negyedév[^86] |
+| 6. | GINOP Plusz-5.3.2-25[^88] | Szakképzési hátránykompenzációs programok és rugalmas tanulási utak | 29,021 (ebből fejlett régió: 5,200)[^89] | standard | Meghirdetve 2025. augusztusban[^90] |
 
-| 7. | GINOP Plusz-5.3.3-25[^87] | Mobilitási programok a felsőoktatásban | 10,03 | kiemelt | 2025. második negyedév[^88] |
+| 7. | GINOP Plusz-5.3.3-25[^91] | Mobilitási programok a felsőoktatásban | 10,03 | kiemelt | Meghirdetve 2025. augusztusban[^92] |
 
-| 8. | GINOP Plusz-5.3.4-25[^89] | Felsőoktatási Mentorprogram | 1,00 | kiemelt | 2025. második negyedév[^90] |
+| 8. | GINOP Plusz-5.3.4-25[^93] | Felsőoktatási Mentorprogram | 1,00 | kiemelt | Meghirdetve 2025. júliusban[^94] |
 
-| 9. | GINOP Plusz-5.3.5-25[^91] | A hallgatói sikeresség fokozása lemorzsolódást csökkentő, tanulást támogató programokkal | 28,051[^92] | standard | 2025. negyedik negyedév[^93] |
+| 9. | GINOP Plusz-5.3.5-25[^95] | A hallgatói sikeresség fokozása lemorzsolódást csökkentő, tanulást támogató programokkal | 28,051[^96] | standard | 2025. negyedik negyedév[^97] |
 
 [^1]: Az 1/A. pontot az 1179/2024. (VI. 20.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. melléklet az 1369/2023. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
@@ -173,57 +173,61 @@ A Gazdaságfejlesztési és Innovációs Operatív Program Plusz éves fejleszt�
 [^37]: Az 1. melléklet 2. pontjában foglalt táblázat D:4a mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont b) pont bd) alpontjával megállapított szöveg.
 [^38]: Az 1. melléklet 2. pontjában foglalt táblázat E:4a mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont bb) alpontja szerint módosított szöveg.
 [^39]: Az 1. melléklet 2. pontjában foglalt táblázat 4b. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^40]: Az 1. melléklet 2. pontjában foglalt táblázat 4c. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^41]: Az 1. melléklet 2. pontjában foglalt táblázat 4d. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^42]: Az 1. melléklet 2. pontjában foglalt táblázat A:5 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont bc) alpontja szerint módosított szöveg.
-[^43]: Az 1. melléklet 2. pontjában foglalt táblázat C:5 mezője az 1438/2023. (X. 9.) Korm. határozat 2. pont b) pont bc) alpontjával megállapított szöveg.
-[^44]: Az 1. melléklet 2. pontjában foglalt táblázat E:5 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont b) pont bc) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^45]: Az 1. melléklet 2. pontjában foglalt táblázat 6. sora az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontjával megállapított szöveg.
-[^46]: Az 1. melléklet 2. pontjában foglalt táblázat A:6 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont be) alpontja szerint módosított szöveg.
-[^47]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője az 1438/2023. (X. 9.) Korm. határozat 2. pont b) pont bd) alpontjával megállapított szöveg.
-[^48]: Az 1. melléklet 2. pontjában foglalt táblázat E:6 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont b) pont bd) alpontja, az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont bf) alpontja szerint módosított szöveg.
-[^49]: Az 1. melléklet 2. pontjában foglalt táblázat 7. sorát az 1213/2025. (VI. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^50]: Az 1. melléklet 2. pontjában foglalt táblázat 8. sorát az 1213/2025. (VI. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^51]: Az 1. melléklet 2. pontjában foglalt táblázat 9. sorát az 1213/2025. (VI. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^52]: Az 1. melléklet 3. pontjában foglalt táblázat C:2 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont c) pont ca) alpontja szerint módosított szöveg.
-[^53]: Az 1. melléklet 3. pontjában foglalt táblázat E:2 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont ba) alpontjával megállapított szöveg. Az 1. melléklet 3. pontjában foglalt táblázat E:2 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont cb) alpontjával megállapított szöveg.
-[^54]: Az 1. melléklet 3. pontjában foglalt táblázat A:4 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont bb) alpontjával megállapított szöveg.
-[^55]: Az 1. melléklet 3. pontjában foglalt táblázat E:4 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont bc) alpontjával megállapított, az 1277/2024. (IX. 12.) Korm. határozat 3. pont c) pont ca) alpontjával megállapított szöveg.
-[^56]: Az 1. melléklet 3. pontjában foglalt táblázat A:5 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont cd) alpontjával megállapított szöveg.
-[^57]: Az 1. melléklet 3. pontjában foglalt táblázat C:5 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont c) pont ca) alpontja szerint módosított szöveg.
-[^58]: Az 1. melléklet 3. pontjában foglalt táblázat E:5 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont ce) alpontjával megállapított szöveg.
-[^59]: Az 1. melléklet 3. pontjában foglalt táblázat 6. sorát az 1438/2023. (X. 9.) Korm. határozat 1. pontja iktatta be.
-[^60]: Az 1. melléklet 3. pontjában foglalt táblázat E:6 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont be) alpontjával megállapított szöveg.
-[^61]: Az 1. melléklet 3. pontjában foglalt táblázat 7. sorát az 1587/2023. (XII. 20.) Korm. határozat 1. pontja iktatta be.
-[^62]: Az 1. melléklet 3. pontjában foglalt táblázat C:7 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont cf) alpontjával megállapított szöveg.
-[^63]: Az 1. melléklet 3. pontjában foglalt táblázat E:7 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont c) pont cb) alpontjával megállapított szöveg.
-[^64]: Az 1. melléklet 3. pontjában foglalt táblázat 8. sorát az 1179/2024. (VI. 20.) Korm. határozat 2. pontja iktatta be.
-[^65]: Az 1. melléklet 3. pontjában foglalt táblázat A:8 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont c) pont cb) alpontja szerint módosított szöveg.
-[^66]: Az 1. melléklet 3. pontjában foglalt táblázat E:8 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont c) pont cc) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont c) pont cb) alpontja szerint módosított szöveg.
-[^67]: Az 1. melléklet 4. pontjában foglalt táblázat C:2 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
-[^68]: Az 1. melléklet 4. pontjában foglalt táblázat E:2 mezője az 1438/2023. (X. 9.) Korm. határozat 2. pont d) pontjával megállapított szöveg.
-[^69]: Az 1. melléklet 5. pontjában foglalt táblázat 1a. sorát az 1587/2023. (XII. 20.) Korm. határozat 1. pontja iktatta be.
-[^70]: Az 1. melléklet 5. pontjában foglalt táblázat D:1a mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont da) alpontjával megállapított szöveg.
-[^71]: Az 1. melléklet 5. pontjában foglalt táblázat E:1a mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont da) alpontja szerint módosított szöveg.
-[^72]: Az 1. melléklet 5. pontjában foglalt táblázat E:2 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont ca) alpontjával megállapított szöveg.
-[^73]: Az 1. melléklet 5. pontjában foglalt táblázat E:3 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont cb) alpontjával megállapított szöveg.
-[^74]: Az 1. melléklet 5. pontjában foglalt táblázat E:4 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont cc) alpontjával megállapított szöveg.
-[^75]: Az 1. melléklet 5. pontjában foglalt táblázat 4a. sorát az 1179/2024. (VI. 20.) Korm. határozat 2. pontja iktatta be.
-[^76]: Az 1. melléklet 5. pontjában foglalt táblázat A:4a mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont db) alpontja szerint módosított szöveg.
-[^77]: Az 1. melléklet 5. pontjában foglalt táblázat E:4a mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont dc) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont ea) alpontja szerint módosított szöveg.
-[^78]: Az 1. melléklet 5. pontjában foglalt táblázat 4b. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^79]: Az 1. melléklet 5. pontjában foglalt táblázat 4c. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^80]: Az 1. melléklet 5. pontjában foglalt táblázat 4d. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^81]: Az 1. melléklet 5. pontjában foglalt táblázat 4e. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
-[^82]: Az 1. melléklet 5. pontjában foglalt táblázat C:5 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont eb) alpontja szerint módosított szöveg.
-[^83]: Az 1. melléklet 5. pontjában foglalt táblázat E:5 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont cd) alpontjával megállapított szöveg.
-[^84]: Az 1. melléklet 5. pontjában foglalt táblázat A:6 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont dd) alpontja szerint módosított szöveg.
-[^85]: Az 1. melléklet 5. pontjában foglalt táblázat C:6 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont ec) alpontja szerint módosított szöveg.
-[^86]: Az 1. melléklet 5. pontjában foglalt táblázat E:6 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont dd) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont ed) alpontja szerint módosított szöveg.
-[^87]: Az 1. melléklet 5. pontjában foglalt táblázat A:7 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont df) alpontja szerint módosított szöveg.
-[^88]: Az 1. melléklet 5. pontjában foglalt táblázat E:7 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont de) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont ee) alpontja szerint módosított szöveg.
-[^89]: Az 1. melléklet 5. pontjában foglalt táblázat A:8 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont dh) alpontja szerint módosított szöveg.
-[^90]: Az 1. melléklet 5. pontjában foglalt táblázat E:8 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont df) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont ef) alpontja szerint módosított szöveg.
-[^91]: Az 1. melléklet 5. pontjában foglalt táblázat A:9 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont dj) alpontja szerint módosított szöveg.
-[^92]: Az 1. melléklet 5. pontjában foglalt táblázat C:9 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont eg) alpontja szerint módosított szöveg.
-[^93]: Az 1. melléklet 5. pontjában foglalt táblázat E:9 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont dg) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont eh) alpontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 2. pontjában foglalt táblázat E:4b mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont a) pont aa) alpontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 2. pontjában foglalt táblázat 4c. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
+[^42]: Az 1. melléklet 2. pontjában foglalt táblázat 4d. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
+[^43]: Az 1. melléklet 2. pontjában foglalt táblázat E:4d mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont a) pont ab) alpontja szerint módosított szöveg.
+[^44]: Az 1. melléklet 2. pontjában foglalt táblázat A:5 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont bc) alpontja szerint módosított szöveg.
+[^45]: Az 1. melléklet 2. pontjában foglalt táblázat C:5 mezője az 1438/2023. (X. 9.) Korm. határozat 2. pont b) pont bc) alpontjával megállapított szöveg.
+[^46]: Az 1. melléklet 2. pontjában foglalt táblázat E:5 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont b) pont bc) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont b) alpontja, az 1398/2025. (XI. 4.) Korm. határozat 2. pont a) pont ac) alpontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 2. pontjában foglalt táblázat 6. sora az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontjával megállapított szöveg.
+[^48]: Az 1. melléklet 2. pontjában foglalt táblázat A:6 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont be) alpontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője az 1438/2023. (X. 9.) Korm. határozat 2. pont b) pont bd) alpontjával megállapított, az 1398/2025. (XI. 4.) Korm. határozat 2. pont a) pont ad) alpontja szerint módosított szöveg.
+[^50]: Az 1. melléklet 2. pontjában foglalt táblázat E:6 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont b) pont bd) alpontja, az 1115/2025. (IV. 10.) Korm. határozat 1. pont b) pont bf) alpontja szerint módosított szöveg.
+[^51]: Az 1. melléklet 2. pontjában foglalt táblázat 7. sorát az 1213/2025. (VI. 19.) Korm. határozat 4. pontja hatályon kívül helyezte, újonnan az 1398/2025. (XI. 4.) Korm. határozat 1. pontja iktatta be.
+[^52]: Az 1. melléklet 2. pontjában foglalt táblázat 8. sorát az 1213/2025. (VI. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^53]: Az 1. melléklet 2. pontjában foglalt táblázat 9. sorát az 1213/2025. (VI. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^54]: Az 1. melléklet 3. pontjában foglalt táblázat C:2 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont c) pont ca) alpontja szerint módosított szöveg.
+[^55]: Az 1. melléklet 3. pontjában foglalt táblázat E:2 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont ba) alpontjával megállapított szöveg. Az 1. melléklet 3. pontjában foglalt táblázat E:2 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont cb) alpontjával megállapított szöveg.
+[^56]: Az 1. melléklet 3. pontjában foglalt táblázat A:4 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont bb) alpontjával megállapított szöveg.
+[^57]: Az 1. melléklet 3. pontjában foglalt táblázat E:4 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont bc) alpontjával megállapított, az 1277/2024. (IX. 12.) Korm. határozat 3. pont c) pont ca) alpontjával megállapított szöveg.
+[^58]: Az 1. melléklet 3. pontjában foglalt táblázat A:5 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont cd) alpontjával megállapított szöveg.
+[^59]: Az 1. melléklet 3. pontjában foglalt táblázat C:5 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont c) pont ca) alpontja szerint módosított szöveg.
+[^60]: Az 1. melléklet 3. pontjában foglalt táblázat E:5 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont ce) alpontjával megállapított szöveg.
+[^61]: Az 1. melléklet 3. pontjában foglalt táblázat 6. sorát az 1438/2023. (X. 9.) Korm. határozat 1. pontja iktatta be.
+[^62]: Az 1. melléklet 3. pontjában foglalt táblázat E:6 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont b) pont be) alpontjával megállapított szöveg.
+[^63]: Az 1. melléklet 3. pontjában foglalt táblázat 7. sorát az 1587/2023. (XII. 20.) Korm. határozat 1. pontja iktatta be.
+[^64]: Az 1. melléklet 3. pontjában foglalt táblázat C:7 mezője az 1179/2024. (VI. 20.) Korm. határozat 3. pont c) pont cf) alpontjával megállapított szöveg.
+[^65]: Az 1. melléklet 3. pontjában foglalt táblázat E:7 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont c) pont cb) alpontjával megállapított szöveg.
+[^66]: Az 1. melléklet 3. pontjában foglalt táblázat 8. sorát az 1179/2024. (VI. 20.) Korm. határozat 2. pontja iktatta be.
+[^67]: Az 1. melléklet 3. pontjában foglalt táblázat A:8 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont c) pont cb) alpontja szerint módosított szöveg.
+[^68]: Az 1. melléklet 3. pontjában foglalt táblázat E:8 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont c) pont cc) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont c) pont cb) alpontja, az 1398/2025. (XI. 4.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^69]: Az 1. melléklet 4. pontjában foglalt táblázat C:2 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^70]: Az 1. melléklet 4. pontjában foglalt táblázat E:2 mezője az 1438/2023. (X. 9.) Korm. határozat 2. pont d) pontjával megállapított szöveg.
+[^71]: Az 1. melléklet 5. pontjában foglalt táblázat 1a. sorát az 1587/2023. (XII. 20.) Korm. határozat 1. pontja iktatta be.
+[^72]: Az 1. melléklet 5. pontjában foglalt táblázat D:1a mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont da) alpontjával megállapított szöveg.
+[^73]: Az 1. melléklet 5. pontjában foglalt táblázat E:1a mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont da) alpontja szerint módosított szöveg.
+[^74]: Az 1. melléklet 5. pontjában foglalt táblázat E:2 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont ca) alpontjával megállapított szöveg.
+[^75]: Az 1. melléklet 5. pontjában foglalt táblázat E:3 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont cb) alpontjával megállapított szöveg.
+[^76]: Az 1. melléklet 5. pontjában foglalt táblázat E:4 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont cc) alpontjával megállapított szöveg.
+[^77]: Az 1. melléklet 5. pontjában foglalt táblázat 4a. sorát az 1179/2024. (VI. 20.) Korm. határozat 2. pontja iktatta be.
+[^78]: Az 1. melléklet 5. pontjában foglalt táblázat A:4a mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont db) alpontja szerint módosított szöveg.
+[^79]: Az 1. melléklet 5. pontjában foglalt táblázat E:4a mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont c) pont ca) alpontja szerint módosított szöveg.
+[^80]: Az 1. melléklet 5. pontjában foglalt táblázat 4b. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
+[^81]: Az 1. melléklet 5. pontjában foglalt táblázat E:4b mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont c) pont cb) alpontja szerint módosított szöveg.
+[^82]: Az 1. melléklet 5. pontjában foglalt táblázat 4c. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
+[^83]: Az 1. melléklet 5. pontjában foglalt táblázat E:4c mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont c) pont cc) alpontja szerint módosított szöveg.
+[^84]: Az 1. melléklet 5. pontjában foglalt táblázat 4d. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
+[^85]: Az 1. melléklet 5. pontjában foglalt táblázat 4e. sorát az 1213/2025. (VI. 19.) Korm. határozat 1. pont a) alpontja iktatta be.
+[^86]: Az 1. melléklet 5. pontjában foglalt táblázat C:5 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont eb) alpontja szerint módosított szöveg.
+[^87]: Az 1. melléklet 5. pontjában foglalt táblázat E:5 mezője az 1587/2023. (XII. 20.) Korm. határozat 2. pont c) pont cd) alpontjával megállapított szöveg.
+[^88]: Az 1. melléklet 5. pontjában foglalt táblázat A:6 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont dd) alpontja szerint módosított szöveg.
+[^89]: Az 1. melléklet 5. pontjában foglalt táblázat C:6 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont ec) alpontja szerint módosított szöveg.
+[^90]: Az 1. melléklet 5. pontjában foglalt táblázat E:6 mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont c) pont cd) alpontja szerint módosított szöveg.
+[^91]: Az 1. melléklet 5. pontjában foglalt táblázat A:7 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont df) alpontja szerint módosított szöveg.
+[^92]: Az 1. melléklet 5. pontjában foglalt táblázat E:7 mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont c) pont ce) alpontja szerint módosított szöveg.
+[^93]: Az 1. melléklet 5. pontjában foglalt táblázat A:8 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont dh) alpontja szerint módosított szöveg.
+[^94]: Az 1. melléklet 5. pontjában foglalt táblázat E:8 mezője az 1398/2025. (XI. 4.) Korm. határozat 2. pont c) pont cf) alpontja szerint módosított szöveg.
+[^95]: Az 1. melléklet 5. pontjában foglalt táblázat A:9 mezője az 1115/2025. (IV. 10.) Korm. határozat 1. pont d) pont dj) alpontja szerint módosított szöveg.
+[^96]: Az 1. melléklet 5. pontjában foglalt táblázat C:9 mezője az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont eg) alpontja szerint módosított szöveg.
+[^97]: Az 1. melléklet 5. pontjában foglalt táblázat E:9 mezője az 1277/2024. (IX. 12.) Korm. határozat 3. pont d) pont dg) alpontja, az 1213/2025. (VI. 19.) Korm. határozat 2. pont e) pont eh) alpontja szerint módosított szöveg.
