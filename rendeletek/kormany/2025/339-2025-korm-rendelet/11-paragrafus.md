@@ -1,3 +1,3 @@
-11. §[^2]
+11. §[^11]
 
-[^2]: A 11. § a 18. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^11]: A 11. § a 18. § (3) bekezdése alapján 2026. július 1-jén lép hatályba.

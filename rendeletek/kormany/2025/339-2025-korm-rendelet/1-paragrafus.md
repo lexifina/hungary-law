@@ -8,6 +8,6 @@
 
 ## [5] A Kormány a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 23. § (1) bekezdés 5., 10–14., 16., 18–20. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet [a továbbiakban: 435/2021. (VII. 16.) Korm. rendelet] 1. § 19. pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-(E rendelet alkalmazásában)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-17. § Hatályát veszti a 435/2021. (VII. 16.) Korm. rendelet 60. § f) pontja.
+17. §[^17]
+
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

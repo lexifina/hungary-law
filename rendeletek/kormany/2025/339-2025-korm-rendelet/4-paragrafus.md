@@ -1,3 +1,3 @@
-4. § A 435/2021. (VII. 16.) Korm. rendelet 31. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő c) ponttal egészül ki:
+4. §[^4]
 
-(A szüretről a szőlőtermés)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

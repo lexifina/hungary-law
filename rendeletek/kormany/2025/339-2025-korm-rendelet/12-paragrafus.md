@@ -1,3 +1,3 @@
-12. § A 435/2021. (VII. 16.) Korm. rendelet 60. § d) és e) pontja helyébe a következő rendelkezések lépnek:
+12. §[^12]
 
-(Borászati termék földrajzi árujelzőjének oltalma iránti kérelemhez mellékelni kell)
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

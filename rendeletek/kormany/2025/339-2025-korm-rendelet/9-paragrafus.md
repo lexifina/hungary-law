@@ -1,7 +1,3 @@
-9. § A 435/2021. (VII. 16.) Korm. rendelet 50. és 51. §-a helyébe a következő rendelkezések lépnek:
+9. §[^9]
 
-„50. § (1) Földrajzi árujelzővel ellátott borászati termék közfogyasztásra történő forgalomba hozatala vagy Magyarország területéről történő kivitele esetén – a Btv. 9. § (2) bekezdésében és 10. §-ában foglalt esetek kivételével – a borászati terméktétel érzékszervi jellemzőinek meg kell felelnie a földrajzi árujelző termékleírásában foglaltaknak. Az érzékszervi jellemzők termékleírásban foglaltaknak történő megfelelését a közfogyasztásra történő forgalomba hozatalt vagy a Magyarország területéről történő kivitelt megelőzően az érintett földrajzi árujelző termékleírásában megjelölt földrajzi árujelző borbíráló bizottság (a továbbiakban: FBB) vizsgálja.
-
-(2) Földrajzi árujelzővel el nem látott borászati termék az általános érzékszervi jellemzőknek való megfelelés esetén hozható közfogyasztásra forgalomba. Az érzékszervi jellemzők vizsgálatát a NÉBIH által működtetett FBB végzi.
-
-51. § Az 50. § szerinti érzékszervi vizsgálat nem megfelelő minősítése esetén az adott borászati termék érzékszervi vizsgálata legfeljebb két alkalommal, az érzékszervi vizsgálat nem megfelelő eredményének kézhezvételétől számított hét napon belül történő kérelmezése esetén megismételhető. Az első megismételt érzékszervi vizsgálatot az FBB, a másodikat az Országos Borszakértő Bizottság (a továbbiakban: OBB) végzi.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
