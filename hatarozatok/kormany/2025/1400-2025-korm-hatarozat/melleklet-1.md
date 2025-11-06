@@ -1,11 +1,8 @@
-## 1. A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 1.[^2]
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1400/2025. (XI. 4.) Korm. határozathoz
+1. melléklet az 1400/2025. (XI. 4.) Korm. határozathoz[^3]
 
-A nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 2009/2015. (XII. 29.) Korm. határozat 1. melléklet 1. pontja a következő 1.68. alponttal egészül ki:
-
-[A központi államigazgatási és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények:]
-
-„1.68. Nemzeti Biodiverzitás- és Génmegőrzési Központ”
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
