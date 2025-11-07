@@ -1,0 +1,1 @@
+4. § Az EUMSZ 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat 9., 10., 21., 26. és 32. sora alapján képzési támogatás, létesítménytámogatás, csekély összegű támogatás, valamint regionális repülőtér támogatás nyújtható.
