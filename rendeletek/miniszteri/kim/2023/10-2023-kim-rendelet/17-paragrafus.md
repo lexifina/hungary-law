@@ -1,4 +1,4 @@
-## 8. A 651/2014/EU bizottsági rendelet 54. cikke szerinti audiovizuális alkotásokra nyújtott támogatás
+## 8.[^39] Audiovizuális alkotásokra nyújtott támogatás
 
 17. § (1) Kulturális terméknek számító audiovizuális alkotásokra irányuló forgatókönyvíráshoz, fejlesztéshez, gyártáshoz, terjesztéshez és promócióhoz – filmstúdió infrastruktúrájára irányuló támogatás kivételével – kapcsolódó támogatási programokhoz támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) nyújtható.
 
@@ -20,12 +20,20 @@ számolhatóak el.
 
 (6) Az audiovizuális alkotások gyártására vonatkozó támogatási intenzitás nem haladhatja meg az elszámolható költségek 50 százalékát.
 
-(7) A támogatási intenzitás
+(7)[^40] A támogatási intenzitás
 
-a) az egynél több tagállamban készülő, több tagállambeli producerrel dolgozó produkciók esetében az elszámolható költségek legfeljebb 60 százalékára;
+a) az egynél több tagállamban készülő, több tagállambeli producerrel dolgozó produkciók esetében az elszámolható költségek legfeljebb 60 százalékára,
 
-b) nehezen megvalósítható vagy terjeszthető audiovizuális alkotások, valamint a Gazdasági Együttműködési és Fejlesztési Szervezet OECD Fejlesztési Támogatási Bizottságának (DAC) listáján feltüntetett országokat érintő koprodukciók esetében az elszámolható költségek legfeljebb 100 százalékára
+b) olyan, eredetileg magyar nyelven gyártott filmalkotás esetén, amely esetében valószínűsíthető, hogy a gyártási költségvetése a terjesztés valamennyi formájából származó összes bevétel révén sem térül meg a filmalkotás gyártási költségvetésének, nemzetközi koprodukciós filmalkotás esetében a magyar hozzájárulás arányának a 100 százalékára, valamint
+
+c) a Gazdasági Együttműködési és Fejlesztési Szervezet OECD Fejlesztési Támogatási Bizottságának (DAC) listáján feltüntetett országokat érintő koprodukciók esetében az elszámolható költségek legfeljebb 100 százalékára
 
 növelhető.
 
+(7a)[^41] Ha a (7) bekezdés b) pontja szerinti támogatás esetében a filmalkotás gyártási költségvetése a terjesztés során megtérül, a gyártási költségvetést meghaladó összeget a támogató részére vissza kell fizetni.
+
 (8) A gyártás-előkészítésre vonatkozó támogatási intenzitás nem haladhatja meg az elszámolható költségek 100 százalékát. Amennyiben az elkészült forgatókönyv vagy projekt alapján végül audiovizuális alkotást készítenek, akkor a gyártás-előkészítési költségeket bele kell számítani a teljes költségvetésbe, és figyelembe kell venni a támogatási intenzitás kiszámításakor. A terjesztésre vonatkozó támogatási intenzitás mértéke megegyezik a gyártásra vonatkozó támogatási intenzitáséval.
+
+[^39]: A 8. alcím címe a 24/2025. (XI. 6.) KIM rendelet 6. §-ával megállapított szöveg.
+[^40]: A 17. § (7) bekezdése a 24/2025. (XI. 6.) KIM rendelet 7. §-ával megállapított szöveg.
+[^41]: A 17. § (7a) bekezdését a 24/2025. (XI. 6.) KIM rendelet 7. §-a iktatta be.

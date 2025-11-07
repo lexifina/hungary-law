@@ -1,1 +1,3 @@
-21/F. § Kutatási infrastruktúra fejlesztéséhez akkor nyújtható támogatás, ha az infrastruktúrához való hozzáférést több felhasználó számára átlátható és megkülönböztetésmentes módon biztosítják.
+21/F. §[^63]
+
+[^63]: A 21/F. §-t a 24/2025. (XI. 6.) KIM rendelet 17. § c) pontja hatályon kívül helyezte.

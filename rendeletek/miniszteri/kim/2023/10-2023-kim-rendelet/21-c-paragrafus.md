@@ -2,18 +2,26 @@
 
 a) acélipari tevékenységhez,
 
-b) hajógyártási tevékenységhez,
+b)[^50] lignitipari tevékenységhez,
 
 c) szénipari tevékenységhez,
 
-d) szintetikusszál-ipari tevékenységhez,
+d)[^51] ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
 
-e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
+e)[^52] energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
+f)[^53] széles sávú ágazatban végzett tevékenységhez,
 
-g) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
+g)[^54]
 
-h) széles sávú infrastruktúra kiépítéséhez, kivéve a 21/G. §-ban meghatározott feltételekkel, valamint
+h)[^55]
 
-i) kutatási infrastruktúra fejlesztéséhez, kivéve a 21/F. §-ban meghatározott feltételekkel.
+i)[^56]
+
+[^50]: A 21/C. § b) pontja a 24/2025. (XI. 6.) KIM rendelet 16. § 7. pontja szerint módosított szöveg.
+[^51]: A 21/C. § d) pontja a 24/2025. (XI. 6.) KIM rendelet 10. §-ával megállapított szöveg.
+[^52]: A 21/C. § e) pontja a 24/2025. (XI. 6.) KIM rendelet 10. §-ával megállapított szöveg.
+[^53]: A 21/C. § f) pontja a 24/2025. (XI. 6.) KIM rendelet 10. §-ával megállapított szöveg.
+[^54]: A 21/C. § g) pontját a 24/2025. (XI. 6.) KIM rendelet 17. § a) pontja hatályon kívül helyezte.
+[^55]: A 21/C. § h) pontját a 24/2025. (XI. 6.) KIM rendelet 17. § a) pontja hatályon kívül helyezte.
+[^56]: A 21/C. § i) pontját a 24/2025. (XI. 6.) KIM rendelet 17. § a) pontja hatályon kívül helyezte.
