@@ -1,1 +1,0 @@
-1. § E rendelet hatálya a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetbe sorolt központi kezelésű kiadási előirányzatokra (a továbbiakban: előirányzatok) terjed ki.
