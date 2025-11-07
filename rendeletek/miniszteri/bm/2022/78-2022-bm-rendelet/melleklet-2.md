@@ -110,7 +110,7 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 50 | DMA |  | (±)-2,5-dimethoxy-α-methylphenethylamine | C11H17NO2 | LATVFYDIBMDBSY-UHFFFAOYSA-N |
 
-| 51 | DMAA*** |  | 4-methylhexan-2-amine | C7H17N | YAHRDLICUYEDAU-UHFFFAOYSA-N |
+| 51 | DMAA (1,3-DMAA)[^7] |  | 4-methylhexan-2-amine | C7H17N | YAHRDLICUYEDAU-UHFFFAOYSA-N |
 
 | 52 | DMHP |  | 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | C25H38O2 | QBEFIFWEOSUTKV-UHFFFAOYSA-N |
 
@@ -555,3 +555,4 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 4.3. Jelen P4 jegyzék a Pszichotróp Egyezmény aktualizált IV. listája alapján készült.
 
 [^6]: A 2. melléklet a 31/2023. (VIII. 22.) BM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 2. melléklet 1.1. pontjában foglalt táblázat A:51 mezője a 44/2025. (XI. 4.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
