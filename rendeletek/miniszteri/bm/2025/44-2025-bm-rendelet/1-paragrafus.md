@@ -6,6 +6,6 @@
 
 ## [4] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (5a) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § (1) Az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet (a továbbiakban: R.) 2. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
 
-(2) Az R. 3. melléklete a 2. melléklet szerint módosul.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
