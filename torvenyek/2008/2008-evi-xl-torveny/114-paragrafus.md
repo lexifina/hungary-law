@@ -58,6 +58,10 @@ d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérele
 
 e) a kérelmező hamis, hamisított vagy valótlan tartalmú bizonyítékot terjeszt elő kérelmében.
 
+f) a kérelmező az adózás rendjéről szóló törvény alapján nem minősül köztartozásmentes adózónak.
+
+(7a) Az állami adó- és vámhatóság minden év január 31. napjáig a Hivatal rendelkezésére bocsátja a tárgyévet megelőző évben köztartozással érintettek listáját a köztartozással érintett időszak megjelölésével. Az adatszolgáltatás teljesítése érdekében a Hivatal minden év december 31. napjáig az állami adó- és vámhatóság részére megküldi az ellenőrzéssel érintettek nevét és adószámát.
+
 (8) Az e törvény által kiadott engedély nem érinti a más jogszabályokban előírt engedélyek megszerzésének, és az engedélyezési eljárások lefolyatásának kötelezettségét.
 
 (9) A Hivatal az engedély iránti kérelem elutasításának okait tájékoztatásul megküldi az Európai Bizottságnak.

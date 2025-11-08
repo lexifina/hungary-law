@@ -30,7 +30,7 @@
 
 15.
 
-16. az energetikai szabályozási tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, az energetikai szabályozási tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai szabályozási tesztkörnyezetben való részvétel meghosszabbításának feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezmények részletes szabályait,
+16. az energetikai szabályozási tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az energetikai szabályozási tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai szabályozási tesztkörnyezetben való részvétel meghosszabbításának feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezmények részletes szabályait,
 
 17. a hazai föld alatti gáztárolókra vonatkozó feltöltési célértéket.
 
