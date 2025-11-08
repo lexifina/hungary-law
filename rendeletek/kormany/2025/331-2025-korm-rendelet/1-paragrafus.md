@@ -24,12 +24,6 @@
 
 ## 1. A kincstárjegyről szóló 286/2001. (XII. 26.) Korm. rendelet módosítása
 
-1. § A kincstárjegyről szóló 286/2001. (XII. 26.) Korm. rendelet 1. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(4) A kincstárjegy futamideje
-
-a) dematerializált értékpapírként történő előállítás esetén a kibocsátás,
-
-b) nyomdai úton történő előállítás esetén az okirat jogosult által történő átvétele
-
-időpontjától számított 366 napig terjedhet.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

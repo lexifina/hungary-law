@@ -1,3 +1,3 @@
-6. §[^4]
+6. §[^5]
 
-[^4]: A 6. § a 11. § (4) bekezdése alapján 2026. április 16-án lép hatályba.
+[^5]: A 6. § a 11. § (4) bekezdése alapján 2026. április 16-án lép hatályba.
