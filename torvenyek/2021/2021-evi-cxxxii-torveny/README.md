@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-132-00-00
 | 2022-01-02 | 2010. évi CXXX. törvény | 2021-132-00-00.4 |
 | 2024-04-25 | 2024. évi IX. törvény | 2021-132-00-00.5 |
 | 2024-05-01 | 2024. évi IX. törvény | 2021-132-00-00.6 |
+| 2025-11-08 | 2025. évi LXXVI. törvény | 2021-132-00-00.7 |

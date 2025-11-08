@@ -4,6 +4,8 @@
 
 (2) Az Ingatlanok tulajdonjogának változását az eljáró hatóság az Önkormányzatok kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási kérelemben hivatkozni kell e törvény tulajdonjog-átruházást tartalmazó rendelkezésére, valamint az Ingatlanok helyrajzi számát tartalmazó (1) bekezdés szerinti kormányhatározatra.
 
+(2a) A (2) bekezdéstől eltérően az MNV Zrt. egyoldalú nyilatkozata alapján kerül sor az Önkormányzatok tulajdonjogának ingatlan-nyilvántartási bejegyzésére, ha azt az Önkormányzatok körébe tartozó érintett települési önkormányzat e bekezdés hatálybalépését követő 60 napon belül nem kérelmezi. Az MNV Zrt. az ingatlan-nyilvántartásba történő bejegyzés érdekében az illetékes ingatlanügyi hatósághoz egyoldalú nyilatkozatot nyújt be, amelyben megjelöli a kedvezményezett települési önkormányzatot, e törvény tulajdonjog-átruházást tartalmazó rendelkezését, valamint az átadásra kijelölt ingatlan helyrajzi számát tartalmazó (1) bekezdés szerinti kormányhatározatot.
+
 (3) Az Ingatlanok birtokának átruházására az Önkormányzatok (1) bekezdés szerinti tulajdonszerzését követően kerül sor. Azon ingatlanok vonatkozásában, amelyek használata, hasznosítása bármely okból – az érintett önkormányzat tulajdonszerzésének időpontjában – korlátozott, birtokátruházási szerződést kell kötni azzal, hogy az ingatlanok korábbi használatából, vagyonkezeléséből eredő esetleges korlátozásokat, tényeket a birtokátruházási szerződésben rögzíteni kell.
 
 (4) A korlátozásokkal nem terhelt ingatlanok birtokának átruházása birtokátruházási jegyzőkönyv felvételével történik.
