@@ -1,4 +1,4 @@
-1. melléklet a 399/2023. (VIII. 24.) Korm. rendelethez[^44]
+1. melléklet a 399/2023. (VIII. 24.) Korm. rendelethez[^47]
 
 NYILATKOZATa földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló 399/2023. (VIII. 24.) Korm. rendelet szerinti kapcsolattartói adatokról és kivételi körbe tartozásról
 
@@ -78,4 +78,4 @@ NYILATKOZATa földgázellátás biztonságának megőrzését szolgáló intézk
 
 3.3. Aláírás
 
-[^44]: Az 1. melléklet a 274/2024. (IX. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet a 274/2024. (IX. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
