@@ -1,0 +1,3 @@
+11. § A Törvény 2/B. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdéstől eltérően az MNV Zrt. egyoldalú nyilatkozata alapján kerül sor az Önkormányzatok2 tulajdonjogának ingatlan-nyilvántartási bejegyzésére, ha azt az Önkormányzatok2 körébe tartozó érintett települési önkormányzat az e bekezdés hatálybalépését követő 60 napon belül nem kérelmezi. Az MNV Zrt. az ingatlan-nyilvántartásba történő bejegyzés érdekében az illetékes ingatlanügyi hatósághoz egyoldalú nyilatkozatot nyújt be, amelyben megjelöli a kedvezményezett települési önkormányzatot, e törvény tulajdonjog-átruházást tartalmazó rendelkezését, valamint az Ingatlanok2 helyrajzi számát tartalmazó (1) bekezdés szerinti kormányhatározatot.”

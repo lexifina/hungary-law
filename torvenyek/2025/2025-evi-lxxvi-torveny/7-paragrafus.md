@@ -1,0 +1,1 @@
+7. § Az Önkormányzatot – a 4. § szerinti vagyonjuttatás tekintetében – a 4. § szerinti juttatási céloknak megfelelő hasznosítási és állagmegóvási kötelezettség, valamint az erre vonatkozó beszámolási kötelezettség – az Nvtv. 13. § (4) bekezdésétől eltérően – határozatlan ideig terheli.
