@@ -1,9 +1,3 @@
-## „d) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
+11. §[^12]
 
-## e) energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
-
-## f) széles sávú ágazatban végzett tevékenységhez,”
-
-11. § A Rendelet 21/E. § (8) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
-
-[Az (1) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha]
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

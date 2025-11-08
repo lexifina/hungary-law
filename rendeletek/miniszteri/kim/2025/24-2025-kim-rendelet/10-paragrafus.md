@@ -1,3 +1,3 @@
-10. § A Rendelet 21/C. § d)–f) pontja helyébe a következő rendelkezés lép:
+10. §[^11]
 
-(Nem nyújtható támogatás)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

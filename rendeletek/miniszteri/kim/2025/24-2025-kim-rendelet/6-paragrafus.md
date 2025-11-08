@@ -1,3 +1,3 @@
-6. § A Rendelet 8. alcím címe helyébe a következő alcím cím lép:
+6. §[^7]
 
-„8. Audiovizuális alkotásokra nyújtott támogatás”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
