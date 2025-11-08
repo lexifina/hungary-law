@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-26-00-00
 | 2024-06-01 | 2024. évi XV. törvény | 2006-26-00-00.24 |
 | 2025-01-01 | 2024. évi LXXXIX. törvény | 2006-26-00-00.25 |
 | 2025-08-01 | 2025. évi LI. törvény | 2006-26-00-00.26 |
+| 2025-11-08 | 2025. évi LXXXI. törvény | 2006-26-00-00.27 |

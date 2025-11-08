@@ -14,7 +14,7 @@ b) a hazai földgáztárolók üzemszerű működési feltételeinek biztosítá
 
 (4) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a készletbeszerzés mértékére és feltételeire, továbbá készletértékesítés esetén az értékesítendő földgáz mennyiségére, az értékesítés módjára, a földgáz értékének és a kedvezményezettek körére, a földgáz visszapótlásra kötelezettekre és a visszapótlás feltételeire, rendjére, valamint a szabad kapacitások értékesítésére vonatkozó szabályokat.
 
-(5) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a villamos energiáról szóló törvény alapján villamos energia termelői működési engedéllyel rendelkező, az 50 MW és annál nagyobb teljesítményű erőművek energiahordozó-készletének legkisebb mértékéről és a készletezés rendjéről szóló miniszteri rendelet rendelkezései szerint energiaforrás-készlet fenntartására kötelezett felhasználási hely részére a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket.
+(5) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a villamos energiáról szóló törvény szerinti termelői működési engedélyesnek minősülő felhasználó felhasználási helye részére a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
