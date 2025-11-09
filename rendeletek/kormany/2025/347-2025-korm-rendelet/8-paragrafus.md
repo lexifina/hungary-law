@@ -1,0 +1,1 @@
+8. § Ez a rendelet a 2006/111/EK irányelvnek a jelentéstételi kötelezettségek tekintetében történő módosításáról szóló, 2025. július 18-i (EU) 2025/1442 bizottsági irányelvnek való megfelelést szolgálja.
