@@ -1,3 +1,3 @@
-2. § A Kr. 14. § (8) bekezdés e) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-[A (7) bekezdés szerinti kérelemben be kell mutatni, hogy vészhelyzetben vagy a szolidaritási intézkedés alkalmazása esetén a kritikus jelentőségű gázüzemű erőmű gázellátásának hiánya]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
