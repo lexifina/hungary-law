@@ -1,6 +1,6 @@
-36. § (1)[^212] A referencia alapkamatlábról, a diszkont kamatlábról és a visszafizettetési kamatlábról az Európai Bizottság hivatalos értesítését követően a miniszter közleményt ad ki, és azt a Támogatásokat Vizsgáló Iroda honlapján közzéteszi.
+36. § (1)[^218] A referencia alapkamatlábról, a diszkont kamatlábról és a visszafizettetési kamatlábról az Európai Bizottság hivatalos értesítését követően a miniszter közleményt ad ki, és azt a Támogatásokat Vizsgáló Iroda honlapján közzéteszi.
 
-(2)[^213] A 2. melléklet B) pontjában meghatározott támogatási formák támogatástartalmának számítására vonatkozóan a miniszter közleményt ad ki, és azt a minisztérium honlapján közzéteszi.
+(2)[^219] A 2. melléklet B) pontjában meghatározott támogatási formák támogatástartalmának számítására vonatkozóan a miniszter közleményt ad ki, és azt a minisztérium honlapján közzéteszi.
 
-[^212]: A 36. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 177/2016. (VII. 1.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^213]: A 36. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^218]: A 36. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 177/2016. (VII. 1.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^219]: A 36. § (2) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.

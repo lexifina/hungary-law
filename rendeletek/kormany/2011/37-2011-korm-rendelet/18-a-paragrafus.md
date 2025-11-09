@@ -1,6 +1,6 @@
-## 7/A. [^162] Az Európai Bizottság részére történő speciális tájékoztatási és közzétételi kötelezettség hatálya alá tartozó állami támogatásokkal kapcsolatos eljárás
+## 7/A. [^164] Az Európai Bizottság részére történő speciális tájékoztatási és közzétételi kötelezettség hatálya alá tartozó állami támogatásokkal kapcsolatos eljárás
 
-18/A. §[^163] (1) A támogatást nyújtó a 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatási intézkedés esetén kötelező adatszolgáltatással teljesíti a 651/2014/EU bizottsági rendelet
+18/A. §[^165] (1) A támogatást nyújtó a 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatási intézkedés esetén kötelező adatszolgáltatással teljesíti a 651/2014/EU bizottsági rendelet
 
 a) 11. cikk (1) bekezdés a) pontja szerinti utólagos tájékoztatási kötelezettségét,
 
@@ -48,5 +48,5 @@ b) a bizottsági határozatban foglalt közzétételi kötelezettségét.
 
 (10) A támogatást nyújtó az (1) bekezdés b) pontja szerinti éves jelentéstételi kötelezettségét a 651/2014/EU bizottsági rendelet 11. cikk (1) bekezdés b) pont második mondatában meghatározott módon is teljesítheti, amennyiben erről a 7. § (1) bekezdése szerinti bejelentésében tájékoztatja a minisztert és a 651/2014/EU bizottsági rendelet 11. cikk (1) bekezdés b) pontja szerinti garancia megállapodásnak megfelelő éves jelentést az Európai Bizottság felé történő benyújtással egyidejűleg megküldi a miniszternek.
 
-[^162]: A 7/A. alcímet (18/A–18/D. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
-[^163]: A 18/A. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^164]: A 7/A. alcímet (18/A–18/D. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
+[^165]: A 18/A. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

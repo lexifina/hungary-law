@@ -18,7 +18,7 @@ f) az (EU) 2023/2832 bizottsági rendelet 3. cikke
 
 [az a)–f) alpont a továbbiakban együtt: csekély összegű támogatásokra vonatkozó bizottsági rendeletek] alapján nyújtott támogatás,
 
-1a.[^5] államháztartási szerv: az államháztartásról szóló 2011. évi CXCV. törvény 3. § (2) és (3) bekezdése szerinti jogalany,
+1a.[^5] államháztartási szerv: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 3. § (2) és (3) bekezdése szerinti jogalany,
 
 1b.[^6] állami hitelintézet: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti olyan hitelintézet, amely felett valamely államháztartási szerv meghatározó befolyással rendelkezik,
 
@@ -52,7 +52,7 @@ b) az EUMSz 106. cikk (2) bekezdése alapján általános gazdasági érdekű sz
 
 6d.[^16] halászati és akvakultúra-termékek: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek,
 
-6e.[^17] feldolgozóiparhoz tartozó közvállalkozás: olyan közvállalkozás, amely éves árbevételének legalább 50%-a a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. melléklet 10–33. ágazata szerinti tevékenységekből származik,
+6e.[^17]
 
 7.[^18] hivatalos bejelentés: a 2015/1589/EU tanácsi rendelet 2. cikke szerinti bejelentés,
 
@@ -102,17 +102,21 @@ b) a vállalkozás többségi szavazati jogot biztosító üzletrészeivel, rés
 
 c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyelő bizottsági tagjai többségének kijelölésére, megválasztására vagy visszahívására,
 
+10h.[^35] nyilvántartási és hozzáférhetővé tételi kötelezettség: az 1408/2013/EU bizottsági rendelet 6. cikke, az (EU) 2023/2831 bizottsági rendelet 6. cikke és az (EU) 2023/2832 bizottsági rendelet 6. cikke szerinti nyilvántartási és hozzáférhetővé tételi kötelezettség,
+
+10i.[^36] nyilvántartási és hozzáférhetővé tételi kötelezettség hatálya alá tartozó támogatás: a nyilvántartási és hozzáférhetővé tételi kötelezettség hatálya alá tartozó ad hoc támogatás vagy támogatási program keretében egyedi kedvezményezetteknek odaítélt támogatás.
+
 11. pályázat: a támogatási program végrehajtása érdekében megjelentetett pályázati felhívás, pályázati útmutató vagy pályázati kiírás a támogatási programban való részvételre,
 
-12.[^35] prenotifikáció: a támogatási tervezet hivatalos bejelentését megelőző kapcsolatfelvétel az Európai Bizottsággal, a formanyomtatványok, a 794/2004/EK bizottsági rendelet 2. cikkében előírt szükséges kiegészítő adatlapok és a vonatkozó bizottsági határozatokra való hivatkozás benyújtása a SANI rendszeren keresztül,
+12.[^37] prenotifikáció: a támogatási tervezet hivatalos bejelentését megelőző kapcsolatfelvétel az Európai Bizottsággal, a formanyomtatványok, a 794/2004/EK bizottsági rendelet 2. cikkében előírt szükséges kiegészítő adatlapok és a vonatkozó bizottsági határozatokra való hivatkozás benyújtása a SANI rendszeren keresztül,
 
 13. referencia alapkamatláb: az Európai Bizottság által az egyéves bankközi kínálati kamatláb alapján meghatározott mérték, amely az egyéni referencia kamatláb, a diszkont kamatláb és a visszafizettetési kamatláb számításának alapja,
 
-14.[^36] SANI rendszer: a Támogatásokat Vizsgáló Iroda honlapján közzétett honlapon, a miniszter által biztosított bejelentkezési névvel és jelszóval elérhető, a támogatást nyújtó által kitöltendő, az Európai Bizottság felé benyújtandó elektronikus, webalapú formanyomtatványokból álló rendszerek a támogatási tervezetekről, támogatási intézkedésekről,
+14.[^38] SANI rendszer: a Támogatásokat Vizsgáló Iroda honlapján közzétett honlapon, a miniszter által biztosított bejelentkezési névvel és jelszóval elérhető, a támogatást nyújtó által kitöltendő, az Európai Bizottság felé benyújtandó elektronikus, webalapú formanyomtatványokból álló rendszerek a támogatási tervezetekről, támogatási intézkedésekről,
 
 15. támogatási intenzitás: a támogatástartalom és az elszámolható költségek jelenértékének hányadosa, százalékos formában kifejezve,
 
-16.[^37] támogatási program: a 2015/1589/EU tanácsi rendelet 1. cikk d) pontja szerinti intézkedés,
+16.[^39] támogatási program: a 2015/1589/EU tanácsi rendelet 1. cikk d) pontja szerinti intézkedés,
 
 17. támogatást folyósító: az állami támogatásnak a támogatás kedvezményezettjéhez történő eljuttatásának pénzügyi lebonyolításában részt vevő szerv,
 
@@ -120,20 +124,20 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 
 19. támogatástartalom: a kedvezményezett számára, akár több forrásból nyújtott állami támogatásnak a 2. mellékletben meghatározott módszer alapján számított értéke,
 
-19a.[^38] vadgazdálkodási állami támogatás: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott célok teljesítése érdekében végzett tevékenységekre nyújtott állami támogatás,
+19a.[^40] vadgazdálkodási állami támogatás: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott célok teljesítése érdekében végzett tevékenységekre nyújtott állami támogatás,
 
-19b.[^39] vidékfejlesztési állami támogatás: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i, 1305/2013/EU parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU parlamenti és tanácsi rendelet) és a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/2115 európai parlamenti és tanácsi rendelet] vontkozó cikkei szerinti állami támogatás,
+19b.[^41] vidékfejlesztési állami támogatás: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i, 1305/2013/EU parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU parlamenti és tanácsi rendelet) és a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2021/2115 európai parlamenti és tanácsi rendelet] vontkozó cikkei szerinti állami támogatás,
 
-20.[^40] visszafizettetési kamatláb: a 794/2004/EK bizottsági rendelet 9–11. cikkében foglaltak szerint megállapított kamatláb,
+20.[^42] visszafizettetési kamatláb: a 794/2004/EK bizottsági rendelet 9–11. cikkében foglaltak szerint megállapított kamatláb,
 
-21.[^41] termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat.
+21.[^43] termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat.
 
-22.[^42] uniós joggal összhangban levő támogatási intézkedés: a létező támogatás, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program vagy ad hoc támogatás,
+22.[^44] uniós joggal összhangban levő támogatási intézkedés: a létező támogatás, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program vagy ad hoc támogatás,
 
-23.[^43] uniós joggal összhangban levő támogatási program: a létező támogatásnak minősülő, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program.
+23.[^45] uniós joggal összhangban levő támogatási program: a létező támogatásnak minősülő, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program.
 
 [^4]: A 2. § 1. pontja a 82/2024. (IV. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § 1a. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § 1a. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 347/2025. (XI. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^6]: A 2. § 1b. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 2. § 2. pontját a 38/2016. (III. 3.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 177/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^8]: A 2. § 2a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (2) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
@@ -145,7 +149,7 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^14]: A 2. § 6b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (4) bekezdése iktatta be, szövege a 165/2018. (IX. 11.) Korm. rendelet 1. §-ával megállapított, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
 [^15]: A 2. § 6c. pontját a 38/2016. (III. 3.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 165/2018. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^16]: A 2. § 6d. pontját a 165/2018. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 2. § 6e. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^17]: A 2. § 6e. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, a 347/2025. (XI. 4.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^18]: A 2. § 7. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
 [^19]: A 2. § 9. pontja a 158/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 554. § b) pontja szerint módosított szöveg.
 [^20]: A 2. § 9a. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 639/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -163,12 +167,14 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^32]: A 2. § 10e. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^33]: A 2. § 10f. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^34]: A 2. § 10g. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^35]: A 2. § 12. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 7. pontja szerint módosított szöveg.
-[^36]: A 2. § 14. pontja az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés d) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 221/2014. (IX. 4.) Korm. rendelet 554. § a) pontja, a 177/2016. (VII. 1.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^37]: A 2. § 16. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 8. pontja szerint módosított szöveg.
-[^38]: A 2. § 19a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be.
-[^39]: A 2. § 19b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 8. § b) pontja, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
-[^40]: A 2. § 20. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^41]: A 2. § 21. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^42]: A 2. § 22. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
-[^43]: A 2. § 23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^35]: A 2. § 10h. pontját a 347/2025. (XI. 4.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A 2. § 10i. pontját a 347/2025. (XI. 4.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 2. § 12. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 7. pontja szerint módosított szöveg.
+[^38]: A 2. § 14. pontja az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés d) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 221/2014. (IX. 4.) Korm. rendelet 554. § a) pontja, a 177/2016. (VII. 1.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^39]: A 2. § 16. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 8. pontja szerint módosított szöveg.
+[^40]: A 2. § 19a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be.
+[^41]: A 2. § 19b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 8. § b) pontja, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^42]: A 2. § 20. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^43]: A 2. § 21. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^44]: A 2. § 22. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^45]: A 2. § 23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 4/A.[^128] Adókedvezmény, adómentesség formájában igénybe vett csekély összegű támogatásokra vonatkozó szabályok
+## 4/A.[^130] Adókedvezmény, adómentesség formájában igénybe vett csekély összegű támogatásokra vonatkozó szabályok
 
 13/A. § (1) Adókedvezmény, adómentesség formájában igénybe vett csekély összegű támogatás esetén az állami adó- és vámhatóság a támogatást nyújtó nevében a bevalláson biztosítja a 11/A. § (3a) bekezdése szerinti nyilatkozat kedvezményezett általi megtételét, továbbá a 11. § (9) bekezdésében foglalt feladat ellátása során – a bevallás feldolgozását megelőzően – megkeresi a kifizető ügynökséget, valamint a 11. § (10) bekezdése szerinti esetben – a bevallás kijavítás szabályait alkalmazva – eljár, és a kijavítás eredményeként a keretösszeg figyelembevételével megállapított adatokat tartalmazó bevallást feldolgozza.
 
@@ -14,4 +14,4 @@
 
 (7) E § alkalmazásában a támogatástartalom forintról euróra történő átszámításakor a bevallás, önellenőrzés esetén az eredeti bevallás benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam az irányadó.
 
-[^128]: A 4/A. alcímet (13/A. §-t) a 365/2023. (VIII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^130]: A 4/A. alcímet (13/A. §-t) a 365/2023. (VIII. 3.) Korm. rendelet 1. §-a iktatta be.

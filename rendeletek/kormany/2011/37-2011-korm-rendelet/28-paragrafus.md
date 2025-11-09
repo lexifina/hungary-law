@@ -1,7 +1,7 @@
-## VI. Fejezet[^203]
+## VI. Fejezet[^209]
 
 ## 13.
 
 28. §
 
-[^203]: A VI. Fejezetet (28–32. §) a 42. § b) pontja hatályon kívül helyezte.
+[^209]: A VI. Fejezetet (28–32. §) a 42. § b) pontja hatályon kívül helyezte.

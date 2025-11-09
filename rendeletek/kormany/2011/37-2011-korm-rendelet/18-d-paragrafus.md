@@ -1,4 +1,4 @@
-18/D. §[^166] (1) A miniszter a TVI honlapján közzéteszi
+18/D. §[^168] (1) A miniszter a TVI honlapján közzéteszi
 
 a) a 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatait, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma
 
@@ -88,4 +88,4 @@ teszi közzé.
 
 (4) A miniszter az éves jelentést – a 2012/21/EU bizottsági határozat hatálya alá tartozó támogatási intézkedés esetén kétévente készített jelenést – az állami támogatási tárgyú szabályban, vagy az Európai Bizottság határozatában meghatározott határidőn belül továbbítja az Európai Bizottságnak.
 
-[^166]: A 18/D. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^168]: A 18/D. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

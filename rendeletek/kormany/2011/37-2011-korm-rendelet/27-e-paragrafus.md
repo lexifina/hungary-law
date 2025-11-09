@@ -4,6 +4,9 @@
 
 (2) Az elkülönített elszámolások vezetésére kötelezett vállalkozás a 27/D. § (2) bekezdése szerinti nyilvántartást öt évig megőrzi, és azt az Európai Bizottság felhívására – a miniszter útján – annak rendelkezésére bocsátja.
 
-(3) A 27/C. § (1) bekezdése szerinti közvállalkozások nevét és bevételi adatait tartalmazó jegyzéket a miniszter a közvállalkozások 27/C. § (1) bekezdése szerinti adatszolgáltatása alapján minden év március 31-éig megküldi az Európai Bizottságnak.
+(3)[^207]
 
-(4) A 27/C. § (1) és (2) bekezdése szerinti adatokat és dokumentumokat a miniszter minden év szeptember 30-áig az Európai Bizottság rendelkezésére bocsátja.
+(4)[^208]
+
+[^207]: A 27/E. § (3) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^208]: A 27/E. § (4) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
