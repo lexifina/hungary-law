@@ -6,6 +6,6 @@
 
 ## [4] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15d. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. §-a a következő 10h. és 10i. ponttal egészül ki:
+1. §[^1]
 
-(E rendelet alkalmazásában)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
