@@ -1,0 +1,3 @@
+10. § (1) A vállalkozás és a vele – a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontja szerinti – egy és ugyanazon vállalkozásnak minősülő vállalkozás részére megállapítható általános csekély összegű támogatás bruttó támogatástartalma bármely három, egymást követő év során nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
+
+(2) A 717/2014/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozás részére bármely három, egymást követő év során a 717/2014/EU bizottsági rendelet alapján Magyarországon odaítélt halászati csekély összegű támogatás támogatástartalma nem haladhatja meg a 40 000 eurónak megfelelő forintösszeget, figyelembe véve a 717/2014/EU rendelet 3. cikk (3) bekezdésében foglalt felső határt.
