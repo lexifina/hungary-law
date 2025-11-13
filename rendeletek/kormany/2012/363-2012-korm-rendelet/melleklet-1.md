@@ -106,7 +106,7 @@ d) az óvoda nevelje a gyermeket annak elfogadására, megértésére, hogy az e
 
 2. A szocializáció szempontjából meghatározó a közös élményeken alapuló tevékenységek gyakorlása, a gyermek erkölcsi tulajdonságainak (mint például az együttérzés, a segítőkészség, az önzetlenség, a figyelmesség) és akaratának (ezen belül önállóságának, önfegyelmének, kitartásának, feladattudatának, szabálytudatának), szokás- és normarendszerének megalapozása.
 
-3. Az óvoda a gyermek nyitottságára épít, és ahhoz segíti a gyermeket, hogy megismerje szűkebb és tágabb környezetét, amely a nemzeti identitástudat, a kulturális értékek, a hazaszeretet, a szülőföldhöz és családhoz való kötődés alapja, hogy rá tudjon csodálkozni a természetben, az emberi környezetben megmutatkozó jóra és szépre, mindazok megbecsülésére.
+3.[^5] Az óvoda a gyermek nyitottságára épít, és ahhoz segíti a gyermeket, hogy megismerje szűkebb és tágabb környezetét, amely a nemzeti identitástudat, a keresztény kultúrán alapuló értékrend, a hazaszeretet, a szülőföldhöz és családhoz való kötődés alapja, hogy rá tudjon csodálkozni a természetben, az emberi környezetben megmutatkozó jóra és szépre, mindazok megbecsülésére.
 
 4. A gyermeki magatartás alakulása szempontjából az óvodapedagógus, az óvoda valamennyi alkalmazottjának kommunikációja, bánásmódja és viselkedése modellértékű szerepet tölt be.
 
@@ -333,3 +333,4 @@ b) feladattudata kialakulóban van, és ez a feladat megértésében, feladattar
 9. A kiemelt figyelmet igénylő gyermekek iskolaérettségi kritériumai tükrözik a befogadó intézmény elvárásait az iskolába kerülő gyermekekkel szemben.
 
 [^4]: Az 1. melléklet a 77/2025. (IV. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet III. „AZ ÓVODAI NEVELÉS FELADATAI” fejezet, „Az érzelmi, az erkölcsi és az értékorientált közösségi nevelés” alcím 3. pontja a 351/2025. (XI. 12.) Korm. rendelet 14. §-a szerint módosított szöveg.

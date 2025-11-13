@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-363-20-
 | 2018-09-01 | 2012-363-20-22.5 | 137/2018. (VII. 25.) Korm. rendelet |
 | 2021-02-15 | 2012-363-20-22.6 | 137/2018. (VII. 25.) Korm. rendelet |
 | 2025-04-22 | 2012-363-20-22.7 | 77/2025. (IV. 15.) Korm. rendelet |
+| 2025-11-13 | 2012-363-20-22.8 | 351/2025. (XI. 12.) Korm. rendelet |
