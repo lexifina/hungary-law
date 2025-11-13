@@ -1,1 +1,0 @@
-2. § A Vet. 143. § (5) bekezdésétől eltérően a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a 2024. évi rendszerhasználati díjak mértékét legkésőbb 2023. december 15. napjáig kiadott határozatában állapítja meg. A Hivatal a határozatát a honlapján legkésőbb 2023. december 18. napjáig teszi közzé.
