@@ -1,1 +1,0 @@
-2. § A Korm. rendelet 4. §-a szerinti, a villamos energia szabályozott áron történő biztosításáért (a továbbiakban: Szolgáltatás) a villamosenergia-kereskedő (a továbbiakban: kereskedő) a Korm. rendelet 5. § (1) bekezdése szerinti mértékig kompenzációra jogosult.
