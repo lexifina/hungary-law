@@ -1,4 +1,4 @@
-3/A. §[^3] (1) A Törvény 21. § (3) bekezdése esetében a közjegyző az értesülésben foglalt állításokat és adatokat tizenöt napon belül ellenőrzi, szóban (ideértve a telefon alkalmazását is), illetve írásban (ideértve a telefax és az elektronikus levél alkalmazását is) kapcsolatot felvéve azzal, aki az értesítést adta, a jegyzővel és – szükség esetén – a polgármesterrel. Az ellenőrzés eredményeként a közjegyző megállapítja
+3/A. §[^4] (1)[^5] A Törvény 21. § (3) bekezdése esetében a közjegyző az értesülésben foglalt állításokat és adatokat tizenöt napon belül ellenőrzi, szóban (ideértve a telefon alkalmazását is), illetve írásban (ideértve az elektronikus levél alkalmazását is) kapcsolatot felvéve azzal, aki az értesítést adta, a jegyzővel és – szükség esetén – a polgármesterrel. Az ellenőrzés eredményeként a közjegyző megállapítja
 
 a) illetékességét,
 
@@ -18,4 +18,5 @@ a) az elkészített leltárt, vagy
 
 b) a leltározási feladatellátása során már rendelkezésére álló adatokat.
 
-[^3]: A 3/A. §-t a 40/2015. (XII. 22.) IM rendelet 3. §-a iktatta be.
+[^4]: A 3/A. §-t a 40/2015. (XII. 22.) IM rendelet 3. §-a iktatta be.
+[^5]: A 3/A. § (1) bekezdés nyitó szövegrésze a 14/2025. (XI. 13.) IM rendelet 13. §-a szerint módosított szöveg.

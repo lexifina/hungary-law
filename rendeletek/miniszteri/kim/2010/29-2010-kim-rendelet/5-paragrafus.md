@@ -8,6 +8,6 @@ aa) készpénzt, nyomdai úton előállított értékpapírt, okiratot és
 
 ab) olyan, az aa) pontban nem szereplő vagyontárgyat vagy eszközt, amelynek őrzésére, illetve kezelésére képes;
 
-b)[^8]
+b)[^10]
 
-[^8]: Az 5. § b) pontját a 13/2023. (IX. 21.) IM rendelet 13. § a) pontja hatályon kívül helyezte.
+[^10]: Az 5. § b) pontját a 13/2023. (IX. 21.) IM rendelet 13. § a) pontja hatályon kívül helyezte.

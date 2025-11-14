@@ -1,6 +1,6 @@
-## 25. §[^25] E rendelet 1. §-a, 4/A. §-a, 1. mellékletének 2.2.4. pontja, valamint 2. melléklete az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 25. §[^27] E rendelet 1. §-a, 4/A. §-a, 1. mellékletének 2.2.4. pontja, valamint 2. melléklete az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^26]
+1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^28]
 
 A hagyatéki leltár nyomtatványának adattartalma
 
@@ -22,7 +22,7 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 2.1.1. a hagyatékban található vagyontárgy jellege (pl. a hagyatékban ingatlan, gazdasági társasági/szövetkezeti részesedés, lajstromozott tárgy van)
 
-2.1.2.[^27] az örökösként érdekelt személye (pl. nem rendelkezik teljes cselekvőképességgel/méhmagzat/Magyar Állam / belföldi települési önkormányzat stb.)
+2.1.2.[^29] az örökösként érdekelt személye (pl. nem rendelkezik teljes cselekvőképességgel/méhmagzat/Magyar Állam / belföldi települési önkormányzat stb.)
 
 2.1.3. végintézkedéssel történt alapítványrendelés
 
@@ -42,11 +42,11 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 3.1. a közjegyzőnek (megjegyzésben az illetékességét megállapító ok)
 
-3.2.[^28] a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: gyámhivatal) (megjegyzésben ennek oka)
+3.2.[^30] a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: gyámhivatal) (megjegyzésben ennek oka)
 
 4. Az örökhagyóra vonatkozó adatok:
 
-4.1. a Törvényben felsorolt személyes adatok
+4.1.[^31] a Törvényben felsorolt személyes adatok, személyi azonosító
 
 4.2. a Törvényben felsorolt foglalkozás, amely esetében az örökhagyó halálával kapcsolatban értesítési kötelezettség áll fenn (megjegyzésben annak ténye, ha a szakmai kamara vagy gyámhivatal részére jegyzőkönyv került megküldésre, ha pedig az örökhagyó bizalmi vagyonkezelő volt, akkor ennek a ténye, és az, hogy azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak, és a leltárban nem szerepelnek, külön jegyzőkönyv tartalmazza)
 
@@ -92,15 +92,15 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 6.1.2. lakásszövetkezeti tagot megillető lakáshasználati jog
 
-6.1.3.[^29] annak megjelölése, ha az ingatlan feltehetően a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 7:74. § (5) bekezdésének hatálya alá tartozik
+6.1.3.[^32] annak megjelölése, ha az ingatlan feltehetően a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 7:74. § (5) bekezdésének hatálya alá tartozik
 
 6.2. ingó dolog
 
 6.2.1. tulajdon/egyéb jog [az egyes ingó dolgoknál résztulajdon esetén megjegyzésben: aránya és a tulajdonostárs neve (megnevezése)]
 
-6.2.2.[^30] követelés
+6.2.2.[^33] követelés
 
-6.2.3.[^31] az ingó dolog örökhagyó halálakori fellelhetőségi helye, ha az ingó dolog feltehetően a Ptk. 7:74. § (4) bekezdésének hatálya alá tartozik
+6.2.3.[^34] az ingó dolog örökhagyó halálakori fellelhetőségi helye, ha az ingó dolog feltehetően a Ptk. 7:74. § (4) bekezdésének hatálya alá tartozik
 
 6.3. egyéb meglévő vagyon, vagy követelés értékmegjelöléssel [pl. fizetési, nyugdíj-előtakarékossági, tartós befektetési, önkéntes kölcsönös biztosító-pénztári, ügyfél vagy értékpapírszámla (a számlavezető cégneve, a számla számának, egyenlegének, névértékének és esetleges kedvezményezettjének megjelölésével), gazdasági társasági/szövetkezeti részesedés stb.]
 
@@ -136,13 +136,13 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 9. A hagyatéki eljárásban érdekeltek és egyéb résztvevők adatai:
 
-9.1. a Törvényben felsorolt személyes adatok [megjegyzésben: érdekeltséget vagy részvételt megalapozó ok (törvényes, végrendeleti örökös, gondnok, tanú, a végrendelet birtokosa vagy tudója stb.), rokonsági fok, és van-e képviselője; végintézkedés esetében is feltüntetendő a leszármazó és a felmenő, aki kötelesrészre, valamint ági vagyonra jogosul lehet]
+9.1.[^35] a Törvényben felsorolt személyes adatok, személyi azonosító [megjegyzésben: érdekeltséget vagy részvételt megalapozó ok (törvényes, végrendeleti örökös, gondnok, tanú, a végrendelet birtokosa vagy tudója stb.), rokonsági fok, és van-e képviselője; végintézkedés esetében is feltüntetendő a leszármazó és a felmenő, aki kötelesrészre, valamint ági vagyonra jogosult lehet]
 
 9.2. képviselőnek a Törvényben felsorolt adatai [megjegyzésben: meghatalmazással, hivatalból (törvényes/társaság) vagy kirendelés útján keletkezett, és kinek a képviselője]
 
-9.3.[^32] érdekeltnek a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti azonosító adatai
+9.3.[^36] érdekeltnek a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti azonosító adatai
 
-9.4.[^33] nyilatkozat arról, hogy a nem elektronikus kapcsolattartásra kötelezett személy az elektronikus kapcsolattartást kéri
+9.4.[^37] nyilatkozat arról, hogy a nem elektronikus kapcsolattartásra kötelezett személy az elektronikus kapcsolattartást kéri
 
 10. Kapcsolódó intézkedésekre vonatkozó adatok:
 
@@ -186,12 +186,14 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 12. A leltár mellékleteinek felsorolása
 
-[^25]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
-[^26]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^27]: Az 1. melléklet 2. pont 2.1. alpont 2.1.2. pontja a 10/2023. (VII. 20.) IM rendelet 2. § b) pontja szerint módosított szöveg.
-[^28]: Az 1. melléklet 3. pont 3.2. alpontja a 38/2022. (XII. 27.) IM rendelet 7. §-a szerint módosított szöveg.
-[^29]: Az 1. melléklet 6.1.3. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
-[^30]: Az 1. melléklet 6.2.2. pontja a 13/2023. (IX. 21.) IM rendelet 12. §-a szerint módosított szöveg.
-[^31]: Az 1. melléklet 6.2.3. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
-[^32]: Az 1. melléklet 9.3. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
-[^33]: Az 1. melléklet 9.4. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
+[^27]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
+[^28]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^29]: Az 1. melléklet 2. pont 2.1. alpont 2.1.2. pontja a 10/2023. (VII. 20.) IM rendelet 2. § b) pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet 3. pont 3.2. alpontja a 38/2022. (XII. 27.) IM rendelet 7. §-a szerint módosított szöveg.
+[^31]: Az 1. melléklet 4. pont 4.1. alpontja a 14/2025. (XI. 13.) IM rendelet 12. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet 6.1.3. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
+[^33]: Az 1. melléklet 6.2.2. pontja a 13/2023. (IX. 21.) IM rendelet 12. §-a szerint módosított szöveg.
+[^34]: Az 1. melléklet 6.2.3. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
+[^35]: Az 1. melléklet 9. pont 9.1. alpontja a 14/2025. (XI. 13.) IM rendelet 12. §-ával megállapított szöveg.
+[^36]: Az 1. melléklet 9.3. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
+[^37]: Az 1. melléklet 9.4. pontját a 13/2023. (IX. 21.) IM rendelet 12. §-a iktatta be.
