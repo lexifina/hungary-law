@@ -1,0 +1,1 @@
+19. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet 41. § (2) bekezdés b) pontjában a „letéttel, az” szövegrész helyébe a „letéttel, a bizalmi őrzéssel, valamint az” szöveg lép.
