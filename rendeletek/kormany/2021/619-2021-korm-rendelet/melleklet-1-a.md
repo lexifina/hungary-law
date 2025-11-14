@@ -138,8 +138,8 @@
 
 | 69. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/4 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Szolgáltató és kereskedelmi funkciókat is tartalmazó lakóterület kialakítására irányuló fejlesztés | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/4 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-1a. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^51]
+1a. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^53]
 
 Rozsdaövezeti akcióterületek lehatárolása és a rozsdaövezeti akcióterületen megvalósuló beruházások
 
-[^51]: Az 1a. mellékletet a 334/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.
+[^53]: Az 1a. mellékletet a 334/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.

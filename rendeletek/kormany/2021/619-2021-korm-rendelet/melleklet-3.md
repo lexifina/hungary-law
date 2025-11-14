@@ -1,4 +1,4 @@
-3. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^54]
+3. melléklet a 619/2021. (XI. 8.) Korm. rendelethez[^58]
 
 Az 1. mellékletben foglalt táblázat D:2 mezőjében szereplő, Budapest 25896/2 helyrajzi számú ingatlan területén található, a 6. § (2a) bekezdése szerinti ingatlanrész területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -38,4 +38,4 @@ Az 1. mellékletben foglalt táblázat D:2 mezőjében szereplő, Budapest 25896
 
 | 17. | 13-45_39 | 651603.63 | 243814.78 |
 
-[^54]: A 3. mellékletet a 243/2025. (VII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^58]: A 3. mellékletet a 243/2025. (VII. 31.) Korm. rendelet 3. §-a iktatta be.
