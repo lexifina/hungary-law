@@ -6,8 +6,10 @@
 
 (3) A közjegyzői kamarának a felhasználó azonosítását nem kell elvégeznie, ha a felhasználó
 
-a) az Fmhtv. 11. § (1) bekezdés b) pontja alkalmazásával lép kapcsolatba a MOKK rendszerével,
+a)[^2]
 
 b) kizárólag a MOKK rendszerének azonosítást nem igénylő szolgáltatásait veszi igénybe.
 
 (4) A közjegyzői kamarának a jogosult felhasználókra, valamint a jogosult felhasználók nevében működő folyamatokra és eszközökre kell korlátoznia a MOKK rendszerének azonosítást igénylő részéhez való hozzáférést.
+
+[^2]: A 7. § (3) bekezdés a) pontját a 14/2025. (XI. 13.) IM rendelet 8. §-a hatályon kívül helyezte.

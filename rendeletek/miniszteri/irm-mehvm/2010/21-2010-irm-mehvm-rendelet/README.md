@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-21-20-1
 | 2012-01-02 | 2010-21-20-1U.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-01 | 2010-21-20-1U.4 | 29/2016. (XII. 27.) IM rendelet |
 | 2024-12-31 | 2010-21-20-1U.5 | 29/2016. (XII. 27.) IM rendelet |
+| 2025-11-14 | 2010-21-20-1U.6 | 14/2025. (XI. 13.) IM rendelet |

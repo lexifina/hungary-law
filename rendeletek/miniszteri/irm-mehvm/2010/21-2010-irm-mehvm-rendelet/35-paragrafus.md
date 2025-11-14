@@ -1,3 +1,3 @@
-35. §[^4]
+35. §[^5]
 
-[^4]: A 35. §-t a 36. § (1) bekezdése hatályon kívül helyezte.
+[^5]: A 35. §-t a 36. § (1) bekezdése hatályon kívül helyezte.
