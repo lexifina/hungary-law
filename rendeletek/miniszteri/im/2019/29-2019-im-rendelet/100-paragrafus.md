@@ -1,5 +1,5 @@
 ## 99. § Az e rendelet hatálybalépésekor meglévő iratok selejtezésére e rendelet rendelkezéseit kell alkalmazni.
 
-## 60. [^73] Az Európai Unió jogának való megfelelés
+## 60. [^74] Az Európai Unió jogának való megfelelés
 
-[^73]: A 60. alcímet (100. §) az 1/2021. (III. 12.) IM rendelet 19. §-a iktatta be.
+[^74]: A 60. alcímet (100. §) az 1/2021. (III. 12.) IM rendelet 19. §-a iktatta be.

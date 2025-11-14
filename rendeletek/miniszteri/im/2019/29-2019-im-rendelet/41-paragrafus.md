@@ -8,9 +8,10 @@
 
 a) az eljárást befejező határozat kézbesítése megtörtént-e, illetve
 
-b) a letéttel, az idegen iratok visszaküldésével kapcsolatos intézkedések megtörténtek-e.
+b)[^31] a letéttel, a bizalmi őrzéssel, valamint az idegen iratok visszaküldésével kapcsolatos intézkedések megtörténtek-e.
 
 (3) Ha az ellenőrzéskor az ügyintéző azt észleli, hogy a (2) bekezdésben megjelölt intézkedésekre nincs utasítás vagy az hiányos, erről a közjegyzőt, illetve a közjegyzőhelyettest értesíti. Ha az utasítást csak részben vagy egyáltalán nem hajtották végre, az ügyintéző a szükséges intézkedést megteszi.
 
 [^29]: A 41. § (1) bekezdése a 25/2024. (XII. 23.) IM rendelet 1. §-ával megállapított szöveg.
 [^30]: A 41. § (1a) bekezdését a 25/2024. (XII. 23.) IM rendelet 1. §-a iktatta be.
+[^31]: A 41. § (2) bekezdés b) pontja a 14/2025. (XI. 13.) IM rendelet 19. §-a szerint módosított szöveg.
