@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-78-00-00
 | --- | --- | --- |
 | 2025-11-13 | 2025. évi LXXVIII. törvény | 2025-78-00-00.0 (közlönyállapot) |
 | 2025-11-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-78-00-00.1 |
+| 2025-11-14 | 2010. évi CXXX. törvény | 2025-78-00-00.2 |
