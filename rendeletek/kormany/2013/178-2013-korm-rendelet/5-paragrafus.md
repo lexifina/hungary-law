@@ -20,6 +20,8 @@ c) a 2. § (2) bekezdés b) pontja szerinti esetben az egészségügyi válságh
 
 d) a Tanács döntése alapján – a 2. § (2) bekezdés b) pontja szerinti esetben – az egészségügyi válsághelyzet megszűnését megelőző időpontig
 
+tart.
+
 [^5]: Az 5. § (1) bekezdés b) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § a) pontja, a 265/2022. (VII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: Az 5. § (1) bekezdés c) pontja a 629/2020. (XII. 22.) Korm. rendelet 12. § b) pontja, a 265/2022. (VII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^7]: Az 5. § (2) bekezdése a 85/2022. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
