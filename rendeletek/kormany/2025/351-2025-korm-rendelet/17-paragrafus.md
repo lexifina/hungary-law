@@ -1,3 +1,3 @@
-17. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet a következő 8/B. §-sal egészül ki:
+17. §[^8]
 
-„8/B. § A Kincstár a biztosítási jogviszonyokról, valamint az Ebtv. szerinti egészségbiztosítási pénzbeli ellátásokról és a baleseti táppénzről szóló elektronikus nyilvántartás (a továbbiakban: e-TB kiskönyv) kialakítása céljából a NEAK részére átadja a kormányhivatal által 2023. december 31. napja után megállapított, valamint a kifizetőhelynek a 2023. december 31. napja után teljesített, az Ebtv. 79/B. § (4) bekezdése szerinti adatszolgáltatásában szereplő ellátások adatait (a továbbiakban: ősfeltöltés). Az ősfeltöltésnek az e-TB kiskönyv nyilvántartás éles indulását megelőző 30 napon belül kell megtörténnie.”
+[^8]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
