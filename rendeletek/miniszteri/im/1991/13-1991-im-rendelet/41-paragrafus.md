@@ -1,15 +1,15 @@
-41. §[^110] (1) E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 20/2013. (VIII. 7.) KIM rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módr. hatálybalépését[^111] követően indult pályázati eljárásokban kell alkalmazni.
+41. §[^111] (1) E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 20/2013. (VIII. 7.) KIM rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módr. hatálybalépését[^112] követően indult pályázati eljárásokban kell alkalmazni.
 
-(2) E rendeletnek a Módr.-rel megállapított 5. § (1) bekezdés c) pontját, 5. § (3) bekezdését és 6. §-át a Módr. hatálybalépésekor[^112] folyamatban lévő pályázati eljárásokban is alkalmazni kell. Ha a Módr. hatálybalépésekor még le nem zárt pályázati eljárásban a területi elnökség már elkészítette a kinevezési javaslatot, a pályázati iratokat részére a Módr. hatálybalépését követő 15 napon belül vissza kell küldeni annak érdekében, hogy a kinevezési javaslatot – a korábbi kinevezési javaslat alapját képező kamarai értékelés alapján – a Módr.-rel megállapított 5. § (1) bekezdés c) pontja és 5. § (3) bekezdése alapján készítse el és terjessze fel a miniszternek.
+(2) E rendeletnek a Módr.-rel megállapított 5. § (1) bekezdés c) pontját, 5. § (3) bekezdését és 6. §-át a Módr. hatálybalépésekor[^113] folyamatban lévő pályázati eljárásokban is alkalmazni kell. Ha a Módr. hatálybalépésekor még le nem zárt pályázati eljárásban a területi elnökség már elkészítette a kinevezési javaslatot, a pályázati iratokat részére a Módr. hatálybalépését követő 15 napon belül vissza kell küldeni annak érdekében, hogy a kinevezési javaslatot – a korábbi kinevezési javaslat alapját képező kamarai értékelés alapján – a Módr.-rel megállapított 5. § (1) bekezdés c) pontja és 5. § (3) bekezdése alapján készítse el és terjessze fel a miniszternek.
 
-(3)[^113] E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 34/2013. (XII. 23.) KIM rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatályba lépését[^114] követően kiírt pályázatokra kell alkalmazni.
+(3)[^114] E rendeletnek az egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 34/2013. (XII. 23.) KIM rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatályba lépését[^115] követően kiírt pályázatokra kell alkalmazni.
 
-(4)[^115] A közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendelet módosításáról szóló 8/2021. (IX. 17.) IM rendelettel (a továbbiakban: Módr2.) megállapított 6/B. § szerinti szabályzatot a Módr2. hatálybalépését[^116] követő 30. napig kell a miniszter részére megküldeni.
+(4)[^116] A közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (XI. 26.) IM rendelet módosításáról szóló 8/2021. (IX. 17.) IM rendelettel (a továbbiakban: Módr2.) megállapított 6/B. § szerinti szabályzatot a Módr2. hatálybalépését[^117] követő 30. napig kell a miniszter részére megküldeni.
 
-[^110]: A Vhr. 41. §-át a 20/2013. (VIII. 7.) KIM rendelet 1. § (5) bekezdése iktatta be.
-[^111]: A hatálybalépés időpontja 2013. augusztus 15.
+[^111]: A Vhr. 41. §-át a 20/2013. (VIII. 7.) KIM rendelet 1. § (5) bekezdése iktatta be.
 [^112]: A hatálybalépés időpontja 2013. augusztus 15.
-[^113]: A Vhr. 41. § (3) bekezdését a 34/2013. (XII. 23.) KIM rendelet 1. § (5) bekezdése iktatta be.
-[^114]: A hatálybalépés időpontja 2014. január 1.
-[^115]: A Vhr. 41. § (4) bekezdését a 8/2021. (IX. 17.) IM rendelet 5. §-a iktatta be.
-[^116]: A hatálybalépés időpontja 2021. szeptember 18.
+[^113]: A hatálybalépés időpontja 2013. augusztus 15.
+[^114]: A Vhr. 41. § (3) bekezdését a 34/2013. (XII. 23.) KIM rendelet 1. § (5) bekezdése iktatta be.
+[^115]: A hatálybalépés időpontja 2014. január 1.
+[^116]: A Vhr. 41. § (4) bekezdését a 8/2021. (IX. 17.) IM rendelet 5. §-a iktatta be.
+[^117]: A hatálybalépés időpontja 2021. szeptember 18.

@@ -30,33 +30,34 @@ e) a pályázó részletes szakmai önéletrajzát,
 
 f) közjegyzőhelyettes pályázó esetén az alkalmazó közjegyző értékelését,
 
-g) a pályázat elbírálása során figyelembe venni kért tények és adatok fennállását igazoló okiratok eredeti példányát vagy hiteles másolatát, továbbá az ezen tényekről és adatokról – az országos kamara által rendszeresített és a honlapján közzétett formanyomtatvány kitöltésével – készített összesítést, valamint
+g)[^11] a pályázat elbírálása során figyelembe venni kért tények és adatok fennállását igazoló okiratok eredeti példányát vagy hiteles másolatát – ide nem értve a publikációt, amely egyszerű másolatban is csatolható –, továbbá az ezen tényekről és adatokról az országos kamara által rendszeresített és a honlapján közzétett formanyomtatvány kitöltésével készített összesítést, valamint
 
 h) a közjegyzői tevékenység megkezdésével járó kiadások fedezésére, valamint a közjegyzői iroda tárgyi és személyi feltételeire vonatkozó tervet.
 
-(3)[^11] A (2) bekezdésben foglaltakon túl a pályázó hatósági erkölcsi bizonyítvánnyal igazolja, hogy vele szemben a Ktv. 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény nem áll fenn, a pályázó kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a pályáztató területi elnökség részére – annak a közjegyzői kinevezés feltételeinek vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
+(3)[^12] A (2) bekezdésben foglaltakon túl a pályázó hatósági erkölcsi bizonyítvánnyal igazolja, hogy vele szemben a Ktv. 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény nem áll fenn, a pályázó kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a pályáztató területi elnökség részére – annak a közjegyzői kinevezés feltételeinek vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
 
-(4)[^12] A pályázó a pályázatot és annak mellékleteit elektronikus úton nyújtja be. A pályázati eljárás során a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával kell a pályázóval kapcsolatot tartani.
+(4)[^13] A pályázó a pályázatot és annak mellékleteit elektronikus úton nyújtja be. A pályázati eljárás során a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával kell a pályázóval kapcsolatot tartani.
 
-(4a)[^13]
+(4a)[^14]
 
-(4b)[^14] Határidőben beérkezettnek kell tekinteni legkésőbb a pályázati határidő utolsó napján elektronikus úton a Dáptv.-nek és végrehajtási rendeleteinek megfelelően benyújtott pályázatot.
+(4b)[^15] Határidőben beérkezettnek kell tekinteni legkésőbb a pályázati határidő utolsó napján elektronikus úton a Dáptv.-nek és végrehajtási rendeleteinek megfelelően benyújtott pályázatot.
 
-(5)[^15] Ha a pályázó a pályáztató területi elnökségnél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
+(5)[^16] Ha a pályázó a pályáztató területi elnökségnél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
 
-(6)[^16] Ha a közjegyzői álláshelyre más kamara illetékességi területén működő közjegyző vagy közjegyzőhelyettes nyújt be pályázatot, a pályáztató területi elnökség az illetékes területi kamara elnökségének a pályázóra vonatkozó írásbeli véleményét beszerzi.
+(6)[^17] Ha a közjegyzői álláshelyre más kamara illetékességi területén működő közjegyző vagy közjegyzőhelyettes nyújt be pályázatot, a pályáztató területi elnökség az illetékes területi kamara elnökségének a pályázóra vonatkozó írásbeli véleményét beszerzi.
 
-(7)[^17] A közjegyző és a közjegyzőhelyettes pályázónak nem kell igazolnia olyan adatot, tényt, amelyet a közjegyzők, illetve a közjegyzőhelyettesek névjegyzéke tartalmaz, erre a pályázatban hivatkozni kell. Ha a közjegyző, illetve a közjegyzőhelyettes pályázó nem a pályáztató területi elnökség által vezetett névjegyzékbe van bejegyezve, a pályáztató területi elnökség megkeresi a névjegyzéket vezető területi elnökséget az adatok szolgáltatása, illetve a tények igazolása céljából.
+(7)[^18] A közjegyző és a közjegyzőhelyettes pályázónak nem kell igazolnia olyan adatot, tényt, amelyet a közjegyzők, illetve a közjegyzőhelyettesek névjegyzéke tartalmaz, erre a pályázatban hivatkozni kell. Ha a közjegyző, illetve a közjegyzőhelyettes pályázó nem a pályáztató területi elnökség által vezetett névjegyzékbe van bejegyezve, a pályáztató területi elnökség megkeresi a névjegyzéket vezető területi elnökséget az adatok szolgáltatása, illetve a tények igazolása céljából.
 
 [^6]: A Vhr. 3. §-a a 6/2010. (III. 12.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A Vhr. 3. § (1) bekezdése a 8/2021. (IX. 17.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: A Vhr. 3. § (1a) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (2) bekezdése iktatta be.
 [^9]: A Vhr. 3. § (1b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (2) bekezdése iktatta be.
 [^10]: A Vhr. 3. § (2) bekezdése a 8/2021. (IX. 17.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^11]: A Vhr. 3. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 4. § (1) bekezdésével megállapított, a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^12]: A Vhr. 3. § (4) bekezdése a 29/2024. (XII. 30.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^13]: A Vhr. 3. § (4a) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, a 29/2024. (XII. 30.) IM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^14]: A Vhr. 3. § (4b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, szövege a 29/2024. (XII. 30.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^15]: A Vhr. 3. § (5) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^16]: A Vhr. 3. § (6) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^17]: A Vhr. 3. § (7) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (6) bekezdése iktatta be.
+[^11]: A Vhr. 3. § (2) bekezdés g) pontja a 14/2025. (XI. 13.) IM rendelet 1. §-ával megállapított szöveg.
+[^12]: A Vhr. 3. § (3) bekezdése a 20/2017. (XII. 21.) IM rendelet 4. § (1) bekezdésével megállapított, a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A Vhr. 3. § (4) bekezdése a 29/2024. (XII. 30.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: A Vhr. 3. § (4a) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, a 29/2024. (XII. 30.) IM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^15]: A Vhr. 3. § (4b) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (5) bekezdése iktatta be, szövege a 29/2024. (XII. 30.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^16]: A Vhr. 3. § (5) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A Vhr. 3. § (6) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A Vhr. 3. § (7) bekezdését a 8/2021. (IX. 17.) IM rendelet 1. § (6) bekezdése iktatta be.

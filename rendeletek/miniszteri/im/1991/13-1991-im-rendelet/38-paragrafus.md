@@ -1,3 +1,3 @@
-38. §[^107]
+38. §[^108]
 
-[^107]: A Vhr. 38. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^108]: A Vhr. 38. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
