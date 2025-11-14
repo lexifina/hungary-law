@@ -1,4 +1,4 @@
-3. §[^5] (1) A vizsga – a vizsgázó felkészültségéhez igazodóan – „megfelelt” vagy „nem felelt meg” eredménnyel minősíthető. Az eredményesen letett vizsgáról a jelentkező részére a Jogakadémia a (2) bekezdés szerinti adattartalommal tanúsítványt állít ki.
+3. §[^6] (1) A vizsga – a vizsgázó felkészültségéhez igazodóan – „megfelelt” vagy „nem felelt meg” eredménnyel minősíthető. Az eredményesen letett vizsgáról a jelentkező részére a Jogakadémia a (2) bekezdés szerinti adattartalommal tanúsítványt állít ki.
 
 (2) A Jogakadémia által kiállított papíralapú tanúsítvány tartalmazza
 
@@ -20,4 +20,4 @@ e) a Jogakadémia bélyegzőlenyomatát.
 
 (4) Ha a vizsgázó „nem felelt meg” minősítést kapott a vizsgán, a vizsgát megismételheti.
 
-[^5]: A 3. § a 7/2025. (VI. 30.) IM rendelet 34. §-ával megállapított szöveg.
+[^6]: A 3. § a 7/2025. (VI. 30.) IM rendelet 34. §-ával megállapított szöveg.

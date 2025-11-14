@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-9-20-06
 | 2023-09-02 | 2023-9-20-06.2 | 2010. évi CXXX. törvény |
 | 2024-12-31 | 2023-9-20-06.3 | 44/2024. (XII. 30.) IM rendelet |
 | 2025-07-08 | 2023-9-20-06.4 | 7/2025. (VI. 30.) IM rendelet |
+| 2025-11-14 | 2023-9-20-06.5 | 14/2025. (XI. 13.) IM rendelet |

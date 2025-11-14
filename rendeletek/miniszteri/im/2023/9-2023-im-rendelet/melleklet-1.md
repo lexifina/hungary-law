@@ -1,3 +1,3 @@
-1. melléklet a 9/2023. (VII. 20.) IM rendelethez[^10]
+1. melléklet a 9/2023. (VII. 20.) IM rendelethez[^11]
 
-[^10]: Az 1. mellékletet a 7/2025. (VI. 30.) IM rendelet 37. §-a hatályon kívül helyezte.
+[^11]: Az 1. mellékletet a 7/2025. (VI. 30.) IM rendelet 37. §-a hatályon kívül helyezte.
