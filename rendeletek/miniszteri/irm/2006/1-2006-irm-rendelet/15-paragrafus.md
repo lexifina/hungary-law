@@ -2,21 +2,21 @@
 
 (2) A 7. § (3) bekezdése 2007. január 1. napján lép hatályba.
 
-(3)[^60]
+(3)[^63]
 
-(4)[^61]
+(4)[^64]
 
-(5)[^62]
+(5)[^65]
 
-(6)[^63]
+(6)[^66]
 
-(7)[^64]
+(7)[^67]
 
-(8)[^65]
+(8)[^68]
 
-[^60]: A 15. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
-[^61]: A 15. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
-[^62]: A 15. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
-[^63]: A 15. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
-[^64]: A 15. § (7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
-[^65]: A 15. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^63]: A 15. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^64]: A 15. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^65]: A 15. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^66]: A 15. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^67]: A 15. § (7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.
+[^68]: A 15. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 56. pontja hatályon kívül helyezte.

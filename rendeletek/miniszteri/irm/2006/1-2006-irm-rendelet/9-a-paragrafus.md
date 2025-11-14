@@ -1,4 +1,4 @@
-9/A. §[^38] (1) A Ctv. 17/A. §-ban meghatározott cégadatokat az Európai Bizottság által üzemeltetett európai igazságügyi portálon (a továbbiakban: e-Justice portál) keresztül – keresőprogram segítségével – a céginformációs szolgálat cégbizonyítvány formájában biztosítja.
+9/A. §[^41] (1) A Ctv. 17/A. §-ban meghatározott cégadatokat az Európai Bizottság által üzemeltetett európai igazságügyi portálon (a továbbiakban: e-Justice portál) keresztül – keresőprogram segítségével – a céginformációs szolgálat cégbizonyítvány formájában biztosítja.
 
 (2) Az EUID-val rendelkező cég létesítő okiratához (létesítő okirat módosítása, egységes szerkezetű létesítő okirat) való hozzáférés az e-Justice portálon keresztül
 
@@ -14,17 +14,17 @@ biztosított.
 
 (5) Az e-Justice portálon keresztül hozzáférhető céginformációért – közokirati és nem közokirati formára tekintet nélkül egyaránt –
 
-a)[^39] az (1) bekezdés szerinti esetben 2300 Ft,
+a)[^42] az (1) bekezdés szerinti esetben 2300 Ft,
 
-b)[^40] a létesítő okirat (létesítő okirat módosítása, egységes szerkezetű létesítő okirat), továbbá az elektronikus irattárban tárolt irat esetében a (2) bekezdés a) pontja szerinti esetben – cégiratonként – 3400 Ft, a (2) bekezdés b) pontja szerinti esetben – cégiratonként – 1700 Ft,
+b)[^43] a létesítő okirat (létesítő okirat módosítása, egységes szerkezetű létesítő okirat), továbbá az elektronikus irattárban tárolt irat esetében a (2) bekezdés a) pontja szerinti esetben – cégiratonként – 3400 Ft, a (2) bekezdés b) pontja szerinti esetben – cégiratonként – 1700 Ft,
 
-c)[^41] a beszámoló esetében 4600 Ft,
+c)[^44] a beszámoló esetében 4600 Ft,
 
-d)[^42] cégkivonat esetében 3400 Ft
+d)[^45] cégkivonat esetében 3400 Ft
 
 közzétételi költségtérítést kell fizetni azzal, hogy az esetlegesen felmerülő általános forgalmi adót ezen összeg nem tartalmazza.
 
-(6)[^43] Az e-Justice portálon keresztül ingyenesen ismerhető meg a korlátolt felelősségű társaságnak, a részvénytársaságnak, az európai részvénytársaságnak
+(6)[^46] Az e-Justice portálon keresztül ingyenesen ismerhető meg a korlátolt felelősségű társaságnak, a részvénytársaságnak, az európai részvénytársaságnak
 
 a) a Ctv. 24. § (1) bekezdés b) pontjában, valamint a 25. § (1) bekezdés a) és b) pontjában meghatározott adata,
 
@@ -42,9 +42,9 @@ g) az Európai Unió más tagállamában bejegyzett fióktelepének a neve, a ny
 
 h) ha azt a cégjegyzék tartalmazza, a honlapjára vonatkozó adata.
 
-[^38]: A 9/A. §-t a 6/2017. (VI. 1.) IM rendelet 9. §-a iktatta be.
-[^39]: A 9/A. § (5) bekezdés a) pontja a 11/2023. (VII. 20.) IM rendelet 10. § h) pontja szerint módosított szöveg.
-[^40]: A 9/A. § (5) bekezdés b) pontja a 11/2023. (VII. 20.) IM rendelet 10. § i) pontja szerint módosított szöveg.
-[^41]: A 9/A. § (5) bekezdés c) pontja a 11/2023. (VII. 20.) IM rendelet 10. § j) pontja szerint módosított szöveg.
-[^42]: A 9/A. § (5) bekezdés d) pontja a 11/2023. (VII. 20.) IM rendelet 10. § k) pontja szerint módosított szöveg.
-[^43]: A 9/A. § (6) bekezdését a 6/2022. (IV. 4.) IM rendelet 6. §-a iktatta be.
+[^41]: A 9/A. §-t a 6/2017. (VI. 1.) IM rendelet 9. §-a iktatta be.
+[^42]: A 9/A. § (5) bekezdés a) pontja a 11/2023. (VII. 20.) IM rendelet 10. § h) pontja szerint módosított szöveg.
+[^43]: A 9/A. § (5) bekezdés b) pontja a 11/2023. (VII. 20.) IM rendelet 10. § i) pontja szerint módosított szöveg.
+[^44]: A 9/A. § (5) bekezdés c) pontja a 11/2023. (VII. 20.) IM rendelet 10. § j) pontja szerint módosított szöveg.
+[^45]: A 9/A. § (5) bekezdés d) pontja a 11/2023. (VII. 20.) IM rendelet 10. § k) pontja szerint módosított szöveg.
+[^46]: A 9/A. § (6) bekezdését a 6/2022. (IV. 4.) IM rendelet 6. §-a iktatta be.
