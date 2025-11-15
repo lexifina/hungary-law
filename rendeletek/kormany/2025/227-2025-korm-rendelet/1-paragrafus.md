@@ -13,3 +13,7 @@
 1. § (1) E rendelet célja, hogy támogassa az első megfelelő otthon biztosításának lehetőségét.
 
 (2) Az igénylő a központi költségvetésből az e rendeletben meghatározott feltételekkel Magyarország területén lévő, belterületi lakás, egylakásos lakóépület, tanya vagy birtokközpont (a továbbiakban együtt: otthon) építéséhez, vásárlásához az e rendelet szerinti államilag támogatott hitelprogramban vehet részt, és a kölcsön kamatainak megfizetéséhez – lakáscélú állami támogatásként – kamattámogatást vehet igénybe.
+
+(3)[^1] Amennyiben az igénylő az e rendelet szerinti kölcsönt a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet szerinti kölcsönnel (a továbbiakban: CSOK Plusz kölcsön) egyidejűleg veszi igénybe ugyanarra az otthonra, úgy az e rendelet szerinti és a CSOK Plusz kölcsön hitelcéljaként szolgáló otthonnak a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendeletben meghatározott lakásméretre vonatkozó feltételeknek kell megfelelnie.
+
+[^1]: Az 1. § (3) bekezdését a 349/2025. (XI. 12.) Korm. rendelet 3. §-a iktatta be.
