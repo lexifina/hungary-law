@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 74. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet (a továbbiakban: R.) a következő 20. §-sal egészül ki:
+1. §[^2]
 
-„20. § E rendeletnek a rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet módosításáról szóló 357/2025. (XI. 13.) Korm. rendelettel (a továbbiakban: Módr11.) módosított 1a. melléklet 4. és 5. sorát a Módr11. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
