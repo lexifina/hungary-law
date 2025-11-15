@@ -1,9 +1,5 @@
 ## 4. A Közjegyzői Levéltár tevékenységével összefüggő szakmai követelményekről szóló 62/2009. (XII. 17.) IRM rendelet módosítása
 
-6. § A Közjegyzői Levéltár tevékenységével összefüggő szakmai követelményekről szóló 62/2009. (XII. 17.) IRM rendelet
+6. §[^6]
 
-a) 56. § (1) bekezdésében a „bíróság vagy” szövegrész helyébe a „bíróság, a MOKK vagy” szöveg,
-
-b) 56. § (2) bekezdésében az „A területi” szövegrész helyébe az „A MOKK vagy a területi” szöveg
-
-lép.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

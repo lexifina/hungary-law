@@ -1,5 +1,5 @@
-## 7.[^2]
+## 7.[^9]
 
 9. §
 
-[^2]: A 7. alcím a 22. § (3) bekezdése alapján 2026. január 13-án lép hatályba.
+[^9]: A 7. alcím a 22. § (3) bekezdése alapján 2026. január 13-án lép hatályba.

@@ -1,3 +1,3 @@
-18. §[^5]
+18. §[^17]
 
-[^5]: A 18. § a 22. § (2) bekezdése alapján 2025. december 14-én lép hatályba.
+[^17]: A 18. § a 22. § (2) bekezdése alapján 2025. december 14-én lép hatályba.

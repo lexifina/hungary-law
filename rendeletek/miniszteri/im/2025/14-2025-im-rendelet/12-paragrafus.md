@@ -1,1 +1,3 @@
-12. § A hagyatéki eljárás egyes cselekményeiről szóló 29/2010. (XII. 31.) KIM rendelet 1. melléklete a 4. melléklet szerint módosul.
+12. §[^11]
+
+[^11]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

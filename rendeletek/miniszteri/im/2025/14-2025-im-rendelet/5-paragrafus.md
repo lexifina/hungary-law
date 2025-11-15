@@ -1,3 +1,5 @@
 ## 3. Az illeték és a közzétételi költségtérítés elektronikus úton történő megfizetéséről a cégeljárásban és más cégügyekben szóló 25/2006. (V. 18.) IM rendelet módosítása
 
-5. § Az illeték és a közzétételi költségtérítés elektronikus úton történő megfizetéséről a cégeljárásban és más cégügyekben szóló 25/2006. (V. 18.) IM rendelet 1. § (1) bekezdésében az „által vezetett minisztérium szervezeti egységeként működő” szövegrész helyébe a „felelősségi körébe tartozó” szöveg lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

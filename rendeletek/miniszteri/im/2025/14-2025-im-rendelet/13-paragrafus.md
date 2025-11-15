@@ -1,1 +1,3 @@
-13. § Hatályát veszti a hagyatéki eljárás egyes cselekményeiről szóló 29/2010. (XII. 31.) KIM rendelet 3/A. § (1) bekezdés nyitó szövegrészében az „a telefax és” szövegrész.
+13. §[^12]
+
+[^12]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
