@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Nemzeti Humanitárius Koordinációs Tanácsról szóló 178/2013. (VI. 4.) Korm. rendelet 9. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„9. § Az Adományvonal bevételei kizárólag a szervezeti tagok veszélyhelyzetek kezelése során ellátott – magyarországi és Magyarországgal szomszédos országban végzett – humanitárius jellegű feladataival kapcsolatos kiadásokra használhatók fel.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
