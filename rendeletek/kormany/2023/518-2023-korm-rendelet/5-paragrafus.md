@@ -42,7 +42,7 @@ a) olyan szabadon álló, oldalhatáron álló, zártsorú beépítési móddal 
 
 b) olyan ikerház, sorház vagy láncház, amelyben a kölcsönnel érintett lakás önálló tető- és épületszerkezettel és a terepszintről közvetlen bejárattal rendelkezik;
 
-3.[^6] első közös lakásszerzők: azok a házastársak, akik a lakás építésére vagy vásárlására irányuló kölcsönkérelmük benyújtásakor vagy az azt megelőző 10 évben Magyarország területén nem rendelkeztek ugyanabban az Otthon Start program keretében biztosított FIX 3%-os lakáshitelről szóló 227/2025. (VII. 31.) Korm. rendelet 4. § (3) és (4) bekezdésében meghatározottaktól eltérő belterületi lakásban mindketten tulajdonjoggal, és erről – az Otthon Start program keretében biztosított FIX 3%-os lakáshitelről szóló 227/2025. (VII. 31.) Korm. rendelet 1. melléklete szerinti tartalommal – teljes bizonyító erejű magánokiratba foglalt nyilatkozatot tesznek;
+3.[^6] első közös lakásszerzők: azok a házastársak, akik a lakás építésére vagy vásárlására irányuló kölcsönkérelmük benyújtásakor vagy azt megelőzően Magyarország területén nem rendelkeztek ugyanabban a lakásban mindketten tulajdonjoggal, és erről teljes bizonyító erejű magánokiratba foglalt nyilatkozatot tesznek;
 
 4.[^7] életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
@@ -112,7 +112,7 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 (2)[^12] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, a Méptv.-ben, valamint a településrendezési és építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
-[^6]: Az 5. § (1) bekezdés 3. pontja a 282/2025. (VIII. 25.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés 3. pontja a 349/2025. (XI. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 347. §-a szerint módosított szöveg.
 [^8]: Az 5. § (1) bekezdés 6a. pontját a 285/2024. (IX. 30.) Korm. rendelet 197. §-a iktatta be.
 [^9]: Az 5. § (1) bekezdés 7. pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 198. § a) pontja szerint módosított szöveg.
