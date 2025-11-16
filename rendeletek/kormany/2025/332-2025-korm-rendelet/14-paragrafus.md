@@ -1,7 +1,3 @@
-14. § Hatályát veszti a 227/2025. (VII. 31.) Korm. rendelet
+14. §[^15]
 
-a) 4. § (8) bekezdésében az „otthon vásárlásához” szövegrész,
-
-b) 4. § (8) bekezdésében az „a kölcsönkérelem elbírálása során” szövegrész,
-
-c) 1. melléklete.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

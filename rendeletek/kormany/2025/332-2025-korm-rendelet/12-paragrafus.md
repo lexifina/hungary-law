@@ -1,3 +1,3 @@
-12. § A 227/2025. (VII. 31.) Korm. rendelet 19. §-a a következő (2a) bekezdéssel egészül ki:
+12. §[^13]
 
-„(2a) A (2) bekezdés a) pontjában és a (3) bekezdésben foglaltaktól eltérően – az igénylő hitelintézethez intézett kérelme és megfelelő pótfedezet bevonása esetén – a készültségi fok eléréséhez a kölcsön összege előzetesen is folyósítható, azzal, hogy a kölcsön első részleteként folyósított összeg nem haladhatja meg a kölcsön összegének 30 százalékát.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
