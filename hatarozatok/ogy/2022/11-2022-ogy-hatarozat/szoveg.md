@@ -20,7 +20,7 @@ Barkóczi Balázs (DK)[^4]
 
 Dudás Róbert (Jobbik)[^5]
 
-dr. Cseh Katalin (Momentum)[^6]
+Lőcsei Lajos (Momentum)[^6]
 
 b) Fenntartható fejlődés bizottsága (9 fő)
 
@@ -670,7 +670,7 @@ Varga Szimeon (nemzetiségi szószóló)[^103]
 [^3]: A 21/2024. (XI. 6.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: Az 1/2025. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^6]: A 26/2024. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 68/2025. (XI. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^7]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^8]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^9]: A 29/2023. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
