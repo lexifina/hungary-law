@@ -1,0 +1,7 @@
+## [1] A Kormány kiemelt célja a közfoglalkoztatottak jogviszonyának fenntartása és foglalkoztatásának elősegítése a nyílt munkaerőpiacon történő elhelyezkedésüket megelőzően.
+
+## [2] A Kormány a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 53. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § (1) A Kormány az e rendeletben meghatározottak szerint állapítja meg a közfoglalkoztatási jogviszony maximális időtartamát.
+
+(2) A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 2. § (2) bekezdésében meghatározott rendelkezés alapján azon álláskereső esetében, akinek a közfoglalkoztatási jogviszonyban töltött ideje meghaladja a 10 évet, az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendeletben kijelölt állami foglalkoztatási szerv – a 2. §-ban meghatározottak szerint – vizsgálja az álláskereső elsődleges munkaerőpiaci foglalkoztathatóságát, majd mérlegelés alapján határozza meg a további közfoglalkoztatási programba történő bevonhatóságát, amely program maximális időtartama a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendeletben meghatározott időtartam.

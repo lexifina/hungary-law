@@ -1,0 +1,1 @@
+4. § Az állami foglalkoztatási szerv az 1. § (2) bekezdésében meghatározott álláskeresők tekintetében a programba történő bevonást megelőzően – a rendelkezésére álló dokumentumok alapján – vizsgálja a 2. és 3. §-ban foglalt feltételek fennállását, kivéve azon álláskeresők esetében, akik a programba történő bevonást követő három éven belül öregségi nyugdíjra válnak jogosulttá.
