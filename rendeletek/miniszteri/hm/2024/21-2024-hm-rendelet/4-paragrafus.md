@@ -1,1 +1,3 @@
-4. § Ahol szolgálati viszonyra vonatkozó szabály úgy rendelkezik, hogy valamely illetményen kívüli juttatás megállapításának alapja az alapilletmény, ott a Hjkr. 24. § (4) bekezdése szerinti esetben az állomány tagjának szolgálati beosztásához – ennek hiányában viselt rendfokozatához – tartozó besorolási kategória szerinti irányadó illetménysáv felső határa szerinti összeget kell alapilletményként figyelembe venni.
+4. §[^4]
+
+[^4]: A 4. §-t a 14/2025. (XI. 17.) HM rendelet 4. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 16/A.[^5] Az előírt fizikai követelmények teljesítéséhez, illetve felkészüléshez szükséges sportruházat vásárlásához történő hozzájárulás
+## 16/A.[^12] Az előírt fizikai követelmények teljesítéséhez, illetve felkészüléshez szükséges sportruházat vásárlásához történő hozzájárulás
 
 24/A. § (1) Az előírt fizikai követelmények teljesítéséhez, illetve felkészüléshez szükséges sportruházat vásárlásához történő hozzájárulás érdekében évente egyszeri alkalommal, az augusztus 1-jén szolgálati viszonyban állók esetén tárgyév szeptember 1-ig 33 080 forint hozzájárulást kell kifizetni az állomány tagja részére.
 
@@ -18,4 +18,4 @@ c) a 3. § (3) bekezdése vagy a 18. § (3) bekezdése hatálya alá tartozik.
 
 (6) Az (1) bekezdés szerinti hozzájárulás teljes összegben jár, ha az állomány tagja legalább az év egy részében nem áll a (3) bekezdés szerinti kizáró feltételek hatálya alatt. Ha az (1) bekezdés szerinti hozzájárulás jogszerű kifizetését követően a sportruházat természetben biztosításra kerül, vagy az állomány tagjának szolgálati viszonya megszűnik, a kifizetett összeg nem követelhető vissza.
 
-[^5]: A 16/A. alcímet (24/A. §-t) a 12/2025. (X. 2.) HM rendelet 2. §-a iktatta be.
+[^12]: A 16/A. alcímet (24/A. §-t) a 12/2025. (X. 2.) HM rendelet 2. §-a iktatta be.
