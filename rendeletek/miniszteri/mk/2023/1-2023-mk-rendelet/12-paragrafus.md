@@ -1,1 +1,0 @@
-12. § A 16. § (2), (8) és (10) bekezdésében, valamint a 17. § (3) és (7) bekezdésében meghatározott határidők indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthatók. A meghosszabbításról a munkáltatói jogkör gyakorlója dönt.

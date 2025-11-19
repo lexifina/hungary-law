@@ -1,1 +1,0 @@
-21/C. § A munkáltatói jogkör gyakorlója érdemtelenség hiánya esetén az eljárás megszüntetéséről szóló vagy az érdemtelenség megállapításáról szóló határozatát a vizsgáló jelentésének kézhezvételét követően – a 21/A. § (5) bekezdésében foglalt határidőn belül – hozza meg.
