@@ -24,7 +24,7 @@ cd)[^11]
 
 ce)[^12]
 
-cf)[^13] a Terrorelhárítási Információs és Bűnügyi Elemző Központnál a főigazgató,
+cf)[^13]
 
 cg)[^14]
 
@@ -38,6 +38,6 @@ cg)[^14]
 [^10]: A 4. § (3) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 17. § b) pontja, a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 4–5. pontja szerint módosított szöveg.
 [^11]: A 4. § (3) bekezdés c) pont cd) alpontját a 27/2019. (VI. 28.) BM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^12]: A 4. § (3) bekezdés c) pont ce) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^13]: A 4. § (3) bekezdés c) pont cf) alpontja a 29/2016. (VII. 15.) BM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 4. § (3) bekezdés c) pont cf) alpontját a 17/2025. (XI. 4.) MK rendelet 40. § (1) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39. §-át.
 [^14]: A 4. § (3) bekezdés c) pont cg) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
 [^15]: A 4. § (5)–(6) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.
