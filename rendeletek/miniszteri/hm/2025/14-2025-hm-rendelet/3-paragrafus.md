@@ -1,11 +1,6 @@
-3. § (1) Az R.
+3. § (1)[^3]
 
-a) 1. § (2) és (3) bekezdésében a „20. §-t” szövegrész helyébe a „20. §-t, a 23/A. §-t” szöveg,
+(2)[^4]
 
-b) 19. § (1) bekezdés b) pontjában és 19. § (3) bekezdés f) pontjában a „21–23. §” szövegrész helyébe a „21–23/A. §” szöveg
-
-lép.
-
-(2)[^1]
-
-[^1]: A 3. § (2) bekezdése az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^3]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (2) bekezdése az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

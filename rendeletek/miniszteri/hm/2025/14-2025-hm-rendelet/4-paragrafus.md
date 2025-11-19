@@ -1,13 +1,14 @@
 4. § Hatályát veszti az R.
 
-a)[^2]
+a)[^5]
 
-b) 4. §-a,
+b)[^6]
 
-c)[^3]
+c)[^7]
 
-d)[^4]
+d)[^8]
 
-[^2]: A 4. § a) pontja az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^3]: A 4. § c) pontja az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^4]: A 4. § d) pontja az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^5]: A 4. § a) pontja az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^6]: A 4. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § c) pontja az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^8]: A 4. § d) pontja az 5. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
