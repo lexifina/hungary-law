@@ -1,3 +1,5 @@
-1. Hatályát veszti az Aszályvédelmi Operatív Törzsről szóló 1131/2025. (V. 7.) Korm. határozat.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
