@@ -1,6 +1,6 @@
 ### 199. § [Automatikus részletfizetési kedvezmény]
 
-(1) A természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – kérelmére az adóhatóság az általa nyilvántartott, legfeljebb kettőmillió forint összegű adótartozásra – kivéve a 198. § (3) bekezdésében meghatározott kötelezettségeket – évente egy alkalommal legfeljebb tizenkettő havi pótlékmentes részletfizetést engedélyez a 198. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül.
+(1) A természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – kérelmére az adóhatóság az általa nyilvántartott, legfeljebb kettőmillió forint összegű adótartozásra – kivéve a 198. § (3) bekezdésében meghatározott kötelezettségeket – évente egy alkalommal legfeljebb tizenkettő havi pótlékmentes részletfizetést engedélyez a 198. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül. A részletfizetés az adó esedékessé válását megelőzően is engedélyezhető.
 
 (1a) Az (1) bekezdésen felül természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – a tárgyév június 30. napjáig benyújtott kérelmére az adóhatóság a tárgyévben előírt éves gépjárműadó-fizetési kötelezettségre évente egy alkalommal legfeljebb öthavi pótlékmentes részletfizetést engedélyez. A kérelem benyújtására előírt határidő jogvesztő.
 

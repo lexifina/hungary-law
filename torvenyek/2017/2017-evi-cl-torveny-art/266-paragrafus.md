@@ -26,7 +26,7 @@ h) az e törvény szerint bejelentett automataberendezés regisztrációs szám�
 
 i) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvényben meghatározottak szerinti közzétételi kötelezettségének teljesítését,
 
-j) az állami adó- és vámhatóság engedélye alapján utólagos illetékfizetésre jogosult gazdálkodó szervezet megnevezését, székhelyét, adószámát, az engedély számát és időbeli hatályát,
+j)
 
 k) az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózó, valamint a csoportos általános forgalmi adóalanyiságot választó – kivéve a Magyar Honvédséget, a polgári nemzetbiztonsági szolgálatokat és a rendvédelmi feladatokat ellátó szerveket – az adóhatóság nyilvántartásában szereplő foglalkoztatottainak létszámát,
 

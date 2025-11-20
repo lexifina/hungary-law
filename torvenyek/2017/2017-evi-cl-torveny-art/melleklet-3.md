@@ -86,6 +86,8 @@
 
 ## 3.1.13. ha jogelőd nélkül alakult, havonként kell adóbevallást benyújtania a bejelentkezés évének, valamint az azt követő évnek az általános forgalmi adó kötelezettségéről.
 
+## 3.1.14. ha az általánosforgalmiadó-fizetési kötelezettségével összefüggő bejelentési, változásbejelentési kötelezettségét visszamenőleges hatállyal teljesítette, a bejelentés, változásbejelentés napját megelőző, általánosforgalmiadó-fizetési kötelezettséggel érintett, bevallással le nem fedett időszakra vonatkozóan havonkénti adóbevallást kell benyújtania.
+
 ## 3.2. Az átalakulással, az egyesüléssel, a szétválással létrejövő adózó általános forgalmiadó-bevallási kötelezettségének ugyanolyan gyakorisággal tesz eleget, mint az a szervezet, amelyből átalakult, egyesült vagy szétválás útján létrejött. Az átalakulással, egyesüléssel vagy szétválással létrejövő adózó a gyakoribb bevallásra kötelezett jogelőd bevallási gyakoriságának megfelelően tesz eleget általános forgalmiadó-bevallási kötelezettségének.
 
 ## 3.3. Az új közlekedési eszköznek az Európai Unió más tagállamából történő beszerzése esetén önadózással megállapítandó fizetendő általános forgalmi adót az általános forgalmiadó-alanynak nem minősülő természetes személy, illetve egyéb szervezet, az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany vevő az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be és fizeti meg az állami adó- és vámhatósághoz.
@@ -204,15 +206,17 @@
 
 ## fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
-## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó a kérelem benyújtását megelőző két éven belül
+## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha
 
-## 2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
+## 2.2.1. az adózó adószámát törölték, ha a törlés hatálya a kérelem benyújtásának napján fennáll,
 
-## 2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
+## 2.2.2. az adóhatóság az adózót – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett foglalkoztatott foglalkoztatása miatt – a kérelem benyújtását megelőző két éven belül véglegessé vált határozatban mulasztási bírsággal sújtotta,
 
-## 2.2.3. szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
+## 2.2.3. az adózó a kérelem benyújtását megelőző két éven belül szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
 
-## 2.2.4. huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt vagy folyik ellene.
+## 2.2.4. az adózó ellen huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt a kérelem benyújtását megelőző két éven belül végrehajtási eljárás folyt vagy folyik,
+
+## 2.2.5. az adózóval szemben csőd-, végelszámolási, kényszertörlési vagy felszámolási eljárás indult, amely a kérelem benyújtásának napján folyamatban van.
 
 ## 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
 
@@ -267,23 +271,3 @@
 ## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
 
 ## 8. Belföldi gépjárművek adója
-
-## Az adózó – az évközi adókötelezettség keletkezésének (változásának) kivételével – az adót a naptári évben egy alkalommal – végrehajtható okirat alapján – április hónap tizenötödik napjáig fizeti meg.
-
-## II.
-
-## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
-
-## Általános rendelkezések
-
-## Ha a helyi adóban az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
-
-## Az önkormányzati adóhatóság az adónemben túlfizetésként fennálló, ezer forintot el nem érő adót nem téríti vissza, azt a jövőben esedékes – az önkormányzati adóhatóságnál nyilvántartott – adóra, egyéb közteherre számolja el.
-
-## A) Helyi adók
-
-## 1. Az adózó az állandó jellegű helyi iparűzési tevékenység utáni adóban
-
-## a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
-
-## b)

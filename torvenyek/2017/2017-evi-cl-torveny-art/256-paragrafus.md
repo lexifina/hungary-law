@@ -24,7 +24,7 @@
 
 9. köztartozásmentes adózói adatbázist működtet és tesz közzé,
 
-10. a bejelentési, változásbejelentési kötelezettség teljesítéséhez online felületet biztosít,
+10. a bejelentési, változásbejelentési kötelezettség teljesítéséhez, kérelem benyújtásához online felületet biztosít,
 
 11. elektronikus úton tájékoztatja az elektronikus bevallásra kötelezett adózókat az általános forgalmi adó bevallási kötelezettségük gyakoriságáról, amely tájékoztatás mellőzését az adózó elektronikus úton kérheti,
 

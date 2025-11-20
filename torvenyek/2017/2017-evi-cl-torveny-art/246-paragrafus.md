@@ -8,19 +8,19 @@ b) az adózónak postai úton, hivatalos iratként kézbesített adóhatósági 
 
 c) az adózó által a rá irányadó szabályoknak megfelelően bejelentett székhelye nem valós cím,
 
-d) az adózó a rá irányadó szabályoknak megfelelő törvényes képviselőt az állami adó- és vámhatósághoz annak felszólítása ellenére sem jelentette be,
+d) az adózó a rá irányadó szabályoknak megfelelő törvényes képviselőt az állami adó- és vámhatósághoz nem jelentette be,
 
 e) az adózó ellenőrzése alapján hitelt érdemlően tudomást szerez arról, hogy az adózó által bejelentett törvényes képviselő nem valós személy,
 
 f) azt a támogató az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (3) és (4) bekezdésében meghatározott esetben kezdeményezi,
 
-g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási, vagy az általános forgalmi adó bevallási kötelezettségének a törvényi határidőtől számított kilencven napon belül az állami adó- és vámhatóság felszólítása ellenére sem tesz eleget,
+g) az adózó az állami adó- és vámhatósághoz az általános forgalmi adóról teljesítendő összesítő nyilatkozat benyújtására vonatkozó, vagy a havi adó- és járulékbevallási, vagy az általános forgalmi adó bevallási kötelezettségének a törvényi határidőtől számított kilencven napon belül nem tesz eleget,
 
 h) az adózó által bejelentett székhelyszolgáltató nem szerepel a székhelyszolgáltatók nyilvántartásában és az adózó az adóhatóság (2) bekezdés szerinti felhívása ellenére bejelentését nem vonta vissza, és nem gondoskodott másik megfelelő székhely vagy székhelyszolgáltató bejelentéséről sem.
 
 i) a Dáptv. alapján elektronikus ügyintézésre köteles adózó a Dáptv. szerinti hivatalos elérhetőséggel nem rendelkezik.
 
-(2) Az állami adó- és vámhatóság az (1) bekezdés a), b) és h) pontja szerinti esetben az adózót az adószám törléséről szóló figyelmeztetéssel felhívja – a felhívás kézbesítésétől számított harmincnapos határidő tűzésével – a törvényes állapot helyreállítására. A határidő eredménytelen eltelte esetén az állami adó- és vámhatóság az adózó adószámát törli. Nincs helye az adószám törlésének, ha az adózó az adószám törléséről szóló határozat véglegessé válását megelőzően a törvényes állapotot helyreállította.
+(2) Az állami adó- és vámhatóság az (1) bekezdés a), b), d), g) és h) pontja szerinti esetben az adózót az adószám törléséről szóló figyelmeztetéssel felhívja – a felhívás kézbesítésétől számított harmincnapos határidő tűzésével – a törvényes állapot helyreállítására. A határidő eredménytelen eltelte esetén az állami adó- és vámhatóság az adózó adószámát törli. Nincs helye az adószám törlésének, ha az adózó az adószám törléséről szóló határozat véglegessé válását megelőzően a törvényes állapotot helyreállította.
 
 (3) Az állami adó- és vámhatóság az adószám törléséről határozattal dönt. Ha az adózó közösségi adószámmal is rendelkezik, az állami adó- és vámhatóság az adószám törlésével egyidejűleg, ugyanazon határozatban a közösségi adószámot is törli. A határozat közösségi adószámot érintő rendelkezése önállóan nem fellebbezhető.
 

@@ -5,3 +5,5 @@
 (2) Az elhalálozás napját megelőző napon fennálló túlfizetés összegét az adóhatóság hivatalból számolja el az általa nyilvántartott, az adózót terhelő tartozásra.
 
 (3) Az e §-ban foglalt elszámolás a 75. §-ban meghatározott sorrend szerint történik, és arról az adóhatóság az adózót végzéssel értesíti. A végzés fellebbezésre tekintet nélkül végrehajtható.
+
+(4) A (2) bekezdés szerinti túlfizetés elszámolásáról az adóhatóság – a (3) bekezdésben foglaltaktól eltérően – a soron kívüli adómegállapítást tartalmazó határozatban értesíti az örököst.
