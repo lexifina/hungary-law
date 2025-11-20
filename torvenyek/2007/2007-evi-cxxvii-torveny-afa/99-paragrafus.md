@@ -44,7 +44,7 @@ b) rendelkezésére bocsátja az elektronikus igazolást.
 
 (9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 153/A. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
 
-(10) Az adó-visszaigénylő lap kötelező adattartalma a következő:
+(10) Az adó-visszaigénylő lap kötelező adattartalma és az (1a) bekezdés b) pontja szerinti kiléptetést igazoló elektronikus adattartalom kötelező tartalmi elemei az alábbiak:
 
 a) a termék értékesítőjének neve, címe és adószáma;
 
@@ -54,6 +54,6 @@ c) a termékértékesítés teljesítését tanúsító számla sorszáma;
 
 d) a termékértékesítés – adóval együtt számított – összellenértéke;
 
-e) a terméket a Közösség területéről kiléptető hatóság záradékának és bélyegzőjének helye annak igazolására, hogy a termék a Közösség területét elhagyta.
+e) a terméket a Közösség területéről kiléptető hatóság záradékának és bélyegzőjének helye, vagy a kiléptetést igazoló elektronikus adattartalom alkalmazásának lehetősége annak igazolására, hogy a termék a Közösség területét elhagyta.
 
 (11) Az adó-visszaigénylő lap rovatait legalább magyar, angol, német, francia és orosz nyelveken kell feltüntetni, és azokat magyar, angol, német vagy francia nyelven kell kitölteni.

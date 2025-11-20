@@ -27,7 +27,3 @@ Számla kiállítása, -kibocsátása
 Számla befogadása
 
 9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
-
-a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
-
-b) a nevére szóló számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
