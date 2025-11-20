@@ -291,3 +291,5 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (135) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel megállapított 7. § (1) bekezdés y) pontja az adózó választása szerint első alkalommal a 2025-ben kezdődő adóévre alkalmazható.
 
 (136) Az egyes adókötelezettségekről és egyes adótörvények módosításáról szóló 2025. évi LIV. törvénnyel módosított 16. § (2) bekezdés a) és d) pontját első alkalommal a módosítás hatálybalépését követő átalakulásra, egyesülésre, szétválásra kell alkalmazni.
+
+(137) Az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 24/A. § (25) bekezdését a 2025. július 23. napját követően kiállított igazolásokra kell alkalmazni.

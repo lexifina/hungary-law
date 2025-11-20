@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti választás az adózónál a 4. § 23/h–23/j. pontjai szerinti alapkutatás, alkalmazott (ipari) kutatás, kísérleti fejlesztés öt egymást követő adóévben felmerülő elszámolható költségei összességére vonatkozik.
 
-(3) Az (1) bekezdés szerinti választást a választással érintett első adóévről szóló éves adóbevallásban kell bejelenteni az állami adó- és vámhatóság részére. Az (1) bekezdés szerinti választás megváltoztatására legkorábban a választással érintett első adóévet követő hatodik adóévtől van lehetőség, amelyet az adóévről szóló adóbevallásban be kell jelenteni az állami adó- és vámhatóság részére.
+(3) Az (1) bekezdés szerinti választást a választással érintett első adóévről szóló éves adóbevallásban kell bejelenteni az állami adó- és vámhatóság részére. Az (1) bekezdés szerinti választás megváltoztatására legkorábban a választással érintett első adóévet követő ötödik adóévtől van lehetőség, amelyet az adóévről szóló adóbevallásban be kell jelenteni az állami adó- és vámhatóság részére.
 
 (4) Az adózó az e § szerinti adókedvezményt az elszámolható költség keletkezésének sorrendjében érvényesíti. Az adózó adóévenként a (6) bekezdésben meghatározott, az adóévben rendelkezésre álló teljes összeget, de legfeljebb az adóévi számított adó összegét érvényesítheti adókedvezményként.
 
