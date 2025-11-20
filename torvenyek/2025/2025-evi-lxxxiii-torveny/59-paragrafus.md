@@ -1,3 +1,1 @@
-59. § Az Itv. a következő 102/K. §-sal egészül ki:
-
-„102/K. § E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel megállapított 16. § (2a) bekezdés b) pontját, 17. § (2a) bekezdés b) pontját és 26. § (2a) bekezdés b) pontját az állami adó- és vámhatóság által véglegesen még el nem bírált illetékügyekben is alkalmazni kell.”
+### 59. §

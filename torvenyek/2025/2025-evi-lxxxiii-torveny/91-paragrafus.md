@@ -8,6 +8,6 @@
 
 4. 256. § (1) bekezdés 10. pontjában a „teljesítéséhez” szövegrész helyébe a „teljesítéséhez, kérelem benyújtásához” szöveg
 
-5. 1. melléklet 3. pont 3.3. alpontjában az „és f)–g) pontja” szövegrész helyébe az „ , f)–g) és l) pontja” szöveg
+5.
 
 lép.
