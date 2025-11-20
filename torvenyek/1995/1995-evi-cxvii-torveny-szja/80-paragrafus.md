@@ -13,3 +13,5 @@ e) a magyar építészetről szóló törvény szerint műemléknek minősülő 
 f) a béren kívüli juttatásként adható lakhatási támogatás juttatásának részletes feltételeit;
 
 g) azon betegségek körét, amelyekben szenvedő személyek a személyi kedvezmény érvényesítése szempontjából súlyosan fogyatékosnak minősülnek.
+
+h) az Otthontámogatásra jogosult személyek körét, az Otthontámogatás mértékét, juttatásának részletes feltételeit és eljárási szabályait, továbbá a folyósítás és a visszafizetés szabályait.

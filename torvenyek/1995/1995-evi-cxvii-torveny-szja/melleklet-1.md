@@ -398,6 +398,8 @@ d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgál
 
 e) mint sértett, jóvátételként közvetítői eljárás keretében a bűncselekmény tettesétől;
 
+## f) mint károsult, a pénzforgalmi szolgáltatások igénybevétele során használt érzékeny fizetési adatokkal való visszaélés – ideértve különösen az előbbiek felhasználásával elkövetett csalási események – eredményeképpen fellépő kár megtérítése esetén, bármely jogcímen, a károsulttal szerződéses kapcsolatban álló hitelintézet részéről, legfeljebb a kár összegéig.
+
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 
 6.3. a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben előírt, a kár megelőzését szolgáló vadászaton (ideértve különösen a vadászati hatóság által jóváhagyott vadgazdálkodási tervnek a törvényben meghatározott vadakra vonatkozó részének teljesítését szolgáló vadászatot és az idényen kívüli állományszabályozó vadászatot) a vadászatra jogosult által vadászati joga gyakorlása keretében a vadászaton résztvevő vadásznak ingyenesen vagy kedvezményesen nyújtott szolgáltatás, átadott termék;
@@ -488,7 +490,7 @@ c)
 
 7.12. a hallgatói hitelrendszerről és a Diákhitel Központról szóló kormányrendelet alapján nyújtott, a hallgatói hitellel kapcsolatos célzott kamattámogatás;
 
-## 7.13.
+## 7.13. a pedagógus továbbképzés más személy által viselt költsége vagy a továbbképzés költségeinek megtérítése (ideértve különösen a képzési költséget, a képzés időszaka alatt biztosított étkezést, utazást, szállást);
 
 7.14. A Nemzeti Földalapról szóló törvény, valamint a termőföld állam által életjáradék fizetése ellenében történő megvásárlásáról szóló kormányrendelet alapján kötött életjáradéki szerződésből származó jövedelem.
 

@@ -677,13 +677,3 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 6. a közcélú adományok;
 
 7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
-
-8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója, a vállalkozói személyi jövedelemadó, a kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó, a kisadózó vállalkozók tételes adója és a 40 százalékos mértékű különadó;
-
-9. a Tbj. szerint nem megállapodás alapján fizetett saját társadalombiztosítási járulék, a magánnyugdíjról és a magán-nyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
-
-10. a Tbj. szerint megállapodás alapján nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a saját maga javára fizetett összeg, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján a saját maga javára fizetett magán-nyugdíjpénztári tagdíj és annak kiegészítése;
-
-11. a Tbj. szerint megállapodás alapján fizetett egészségügyi szolgáltatás biztosítására kötött megállapodás alapján fizetett járulék;
-
-12. az értékcsökkenési leírás alapjába beszámító, a tárgyi eszköz, a nem anyagi javak üzembe helyezéséig felmerült kiadás, valamint a felújítási költséget képező kiadások, ha azokkal az egyéni vállalkozó az értékcsökkenési leírás alapját növeli;
