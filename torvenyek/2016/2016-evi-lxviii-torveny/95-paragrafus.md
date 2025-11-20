@@ -1,6 +1,6 @@
-95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés az Európai Bizottság SA.117068 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
-(2) A 113. § (1) bekezdése szerinti adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+(2) A 113. § (1) bekezdése szerinti adó-visszaigénylés az Európai Bizottság SA.117068 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
 (3) A 113. § (5) bekezdés szerinti adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK tanácsi irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatás.
 

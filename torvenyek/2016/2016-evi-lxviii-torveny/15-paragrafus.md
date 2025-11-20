@@ -6,7 +6,7 @@ a) az engedélyes magánszemély meghal, kivéve, ha örököse a tevékenység 
 
 b) a jogi személy engedélyes jogutód nélkül megszűnik;
 
-c) az engedélyt visszaadják.
+c) az engedélyes kérelmére az állami adó- és vámhatóság visszavonja.
 
 (2) Az állami adó- és vámhatóság az engedély megadásánál figyelembe vett vagy az engedély kiadását követően teljesítendő feltételek teljesülését és a tevékenység végzésének körülményeit folyamatosan vizsgálja.
 
