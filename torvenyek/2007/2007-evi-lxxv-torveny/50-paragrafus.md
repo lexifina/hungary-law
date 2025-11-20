@@ -50,7 +50,7 @@ a) ha a kérelem benyújtását megelőző 3 éven belül azt a kérelmezőtől 
 
 b) ha a rendelkezésre álló információk alapján megalapozottan feltételezhető, hogy a kérelmező a minősítésnek megfelelő gazdálkodó tekintetében nem tudja ellátni a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
 
-(6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
+(6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről a döntés véglegessé válását követő 30 napon belül értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
 
 (7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
 
@@ -58,4 +58,4 @@ b) ha a rendelkezésre álló információk alapján megalapozottan feltételezh
 
 (9) A (8) bekezdés szerinti külön szabályzatot a közfelügyeleti hatóság hagyja jóvá.
 
-(10) A 49/A. § a)–d) és g) pontja szerinti minősítések esetén a minősítés megadásának feltétele, hogy az adott minősítésre előírt szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.
+(10) A 49/A. § a)–d) és g) pontja szerinti minősítések esetén a minősítés megadásának feltétele, hogy az adott minősítésre előírt szakmai minősítő vizsgával a könyvvizsgáló rendelkezik.

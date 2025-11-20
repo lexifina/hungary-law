@@ -14,7 +14,7 @@ e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága
 
 f) a kamara könyvvizsgáló cégek nyilvántartásából törlő határozata alapján.
 
-(2) A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély visszavonásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
+(2) A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély visszavonásáról szóló döntésről, – a döntés véglegessé válását követő 30 napon belül – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
 
 (3) A kamara a könyvvizsgáló céget törli a nyilvántartásból
 

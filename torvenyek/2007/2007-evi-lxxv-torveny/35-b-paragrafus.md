@@ -1,1 +1,1 @@
-35/B. § A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély megadásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
+35/B. § A közfelügyeleti hatóság a 35. § és a 35/A. § (1) bekezdése szerinti engedély megadásáról szóló döntésről, – a döntés véglegessé válását követő 30 napon belül – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
