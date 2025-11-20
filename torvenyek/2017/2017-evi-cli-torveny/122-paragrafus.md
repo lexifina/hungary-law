@@ -12,7 +12,7 @@ a) az eljárást megszüntető,
 
 b) a kérelmet visszautasító,
 
-c) a bevallás, az adatbejelentés, a bejelentés, a fellebbezés vagy egyéb jogorvoslat határidejének elmulasztásával kapcsolatban benyújtott igazolási kérelmet elutasító,
+c) a bevallás, az adatbejelentés, a bejelentés, a fellebbezés vagy egyéb jogorvoslat határidejének elmulasztásával, az adószámlán nyilvántartott fizetési kötelezettség késedelmes megfizetése esetén előírt késedelmi pótlékkal kapcsolatban benyújtott igazolási kérelmet elutasító,
 
 d) az iratbetekintési jog korlátozását elrendelő,
 

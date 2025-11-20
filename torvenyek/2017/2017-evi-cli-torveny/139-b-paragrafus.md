@@ -4,4 +4,4 @@
 
 (2) A Módtv.2.-vel megállapított 82–84. §-t a 2019. január 1-jét követően elrendelt biztosítási intézkedések és ideiglenes biztosítási intézkedések tekintetében kell alkalmazni.
 
-(3) A Módtv.2.-vel megállapított 87. § (1) bekezdés a) pont ad) alpontját és (1a)–(1b) bekezdését a 2019-ben és azt követően kezdődő üzleti évek tekintetében kell alkalmazni.
+(3)

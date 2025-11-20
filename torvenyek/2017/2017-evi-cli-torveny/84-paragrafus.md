@@ -1,6 +1,6 @@
 ### 84. § [Kifizetés engedélyezése]
 
-(1) Ha az állami adó- és vámhatóság az adóellenőrzés során az adózó fizetési számláját biztosítási intézkedés vagy ideiglenes biztosítási intézkedés keretében zárolja, az állami adó- és vámhatóság az adózó kérelmére, az általa meghatározott sorrendben és összegben engedélyezheti a zárolt fizetési számláról történő kifizetések meghatározott személyek részére történő teljesítését.
+(1) Ha az állami adó- és vámhatóság az ellenőrzés során az adózó fizetési számláját biztosítási intézkedés vagy ideiglenes biztosítási intézkedés keretében zárolja, az állami adó- és vámhatóság az adózó kérelmére, az általa meghatározott sorrendben és összegben engedélyezheti a zárolt fizetési számláról történő kifizetések meghatározott személyek részére történő teljesítését.
 
 (2) Az állami adó- és vámhatóság abban az esetben engedélyezi a zárolt fizetési számláról történő kifizetést, ha az adózó igazolja, hogy a zárolt vagyonán kívüli forrásból nem képes a kifizetéseit teljesíteni, vagy azzal a tevékenysége aránytalan korlátozást szenvedne. A zárolt fizetési számláról történő kifizetés a biztosítási intézkedés alapjául szolgáló, fizetési kötelezettséget megállapító döntés véglegessé válásáig engedélyezhető.
 
