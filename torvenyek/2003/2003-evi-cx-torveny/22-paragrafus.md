@@ -10,11 +10,7 @@ Adótételek az egyes adókategóriákban, mely a táblázatban szereplő szorz�
 
 |
 
-Adó-
-
-kate-
-
-gória
+Adó- kate- gória
 
 |
 
