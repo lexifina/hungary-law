@@ -10,7 +10,7 @@
 
 a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
 
-b) a Tbj. 17. § (1) bekezdés a) pontja hatálya alá tartozó magyar állampolgár,
+b) a Tbj. 17. § (1) bekezdés b) pontja hatálya alá tartozó magyar állampolgár,
 
 köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
