@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2025-05-13 | 2025. évi XXI. törvény | 2000-100-00-00.82 |
 | 2025-06-20 | 2025. évi LIV. törvény | 2000-100-00-00.83 |
 | 2025-09-01 | 2025. évi LIV. törvény | 2000-100-00-00.84 |
+| 2025-11-20 | 2025. évi LXXXIII. törvény | 2000-100-00-00.86 |
