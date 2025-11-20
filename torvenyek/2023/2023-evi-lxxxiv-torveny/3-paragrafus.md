@@ -130,7 +130,9 @@ b) az olyan szervezet, amely állandó telephellyel rendelkezik, feltéve, hogy 
 
 22. csoporton belüli finanszírozás: az olyan jogügylet, amely során egy vagy több csoporttag kölcsönt nyújt ugyanazon csoport egy vagy több másik csoporttagjának, vagy más módon fektet be a csoporton belül;
 
-23. egyszerűsített tényleges adómérték: az országonkénti jelentés és az e törvény felhatalmazása alapján kiadott miniszteri rendelet alapján számított tényleges adómérték;
+23. egyszerűsített lefedett adó: a multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport elismert pénzügyi beszámolójában kimutatott, tárgyévi adófizetési kötelezettségként elszámolt nyereségadó-ráfordítás, ideértve a halasztott adóráfordítást, de ide nem értve a 20. § (3) bekezdésében felsorolt adókat, az ugyanazon elismert pénzügyi beszámolóban kimutatott bizonytalan adópozícióra vonatkozó tényleges adóráfordítást és a kapcsolódó halasztott adóráfordítást, illetve azt a nyereségadó-ráfordítást, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti kettős adóbeszámítás során merül fel;
+
+23a. egyszerűsített tényleges adómérték: egy állam vonatkozásában az egyszerűsített lefedett adó és az elismert országonkénti jelentés szerinti adózás előtti eredmény hányadosa;
 
 24. elfogadható pénzügyibeszámoló-készítési standard: a számvitelről szóló törvény, a nemzetközi számviteli standardok (IFRS vagy az Európai Unióban a nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardok), valamint Ausztrália, Brazil Szövetségi Köztársaság, Kanada, az Európai Unió tagállamai, az Európai Gazdasági Térség tagállamai, Hongkong, a Kínai Népköztársaság különleges közigazgatási területe, Japán, Mexikói Egyesült Államok, Új-Zéland, a Kínai Népköztársaság, az Indiai Köztársaság, a Koreai Köztársaság, Oroszországi Föderáció, Szingapúri Köztársaság, Svájci Államszövetség, az Egyesült Királyság és az Amerikai Egyesült Államok általánosan elfogadott számviteli elvei, szabályai;
 
@@ -185,6 +187,24 @@ d) amelynek eljárási szabályai összhangban vannak az Európai Unió tagálla
 31. elismert munkavállaló: a gazdasági jelenléten alapuló nyereségkivétel alkalmazásában a csoporttag azon teljes munkaidőben vagy részmunkaidőben foglalkoztatott munkavállalója vagy független szerződéses partnere, aki a multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport irányítása és ellenőrzése alatt részt vesz annak vállalkozási tevékenységében;
 
 32. elismert nyereség vagy veszteség: a csoporttag e törvény szerinti szabályokkal összhangban módosított számviteli nettó nyeresége vagy vesztesége;
+
+32a. elismert országonkénti jelentés: elismert pénzügyi beszámoló alapján készített (benyújtott) országonkénti jelentés, amely
+
+a) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 4. § (8) bekezdés 13. pontja szerinti országonkénti jelentés,
+
+b) – amennyiben a multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport az a) alpont szerinti jelentéssel nem rendelkezik, akkor – a végső anyavállalat illetősége szerinti állam országonkénti jelentéstételre vonatkozó szabályainak megfelelő jelentés,
+
+c) – amennyiben a multinacionális vállalatcsoport vagy nagyméretű belföldi vállalatcsoport az a) és b) alpont szerinti jelentéssel nem rendelkezik, akkor – az anyavállalat illetősége szerinti állam országonkénti jelentéstételre vonatkozó szabályai szerinti jelentés, ha az országonkénti jelentést nem a végső anyavállalat államában nyújtja be a vállalatcsoport, vagy
+
+d) – amennyiben a)–c) pontok egyike sem teljesül, – megfelel az OECD Adóalap-erózió és Nyereség-átcsoportosítás Projekt 13. akciópontja kapcsán publikált jelentésnek és az ahhoz készült iránymutatásnak, feltéve, hogy a végső anyavállalat államában nincsenek országonkénti jelentéstételre vonatkozó szabályok vagy a vállalatcsoport egy államban sem köteles országonkénti jelentés benyújtására;
+
+32b. elismert pénzügyi beszámoló:
+
+a) a végső anyavállalat összevont (konszolidált) éves beszámolójának elkészítéséhez használt, a csoporton belüli ügyletek kiszűrésére irányuló konszolidációs módosításokat nem tartalmazó dokumentáció,
+
+b) a csoporttag egyedi éves beszámolója, amennyiben az megbízható, feltéve, hogy elfogadott pénzügyibeszámoló-készítési standard vagy engedélyezett pénzügyibeszámoló-készítési standard szerint készült, feltéve, hogy a csoporttag a könyvviteli nyilvántartását az említett számviteli standard alapján vezeti és a könyvviteli nyilvántartásában rögzített információk megbízhatóak,
+
+c) a multinacionális vállalatcsoport összevont (konszolidált) éves beszámolójában kizárólag a méret vagy a lényegesség miatt soronként nem összevontan kimutatott csoporttag esetén az adott csoporttag azon egyedi éves beszámolója, amelyet a multinacionális vállalatcsoport országonkénti jelentésének elkészítésére használ;
 
 33. elismert tárgyi eszköz: a gazdasági jelenléten alapuló nyereségkivétel alkalmazásában a csoporttag illetősége szerinti államban található ingatlan, gép, berendezés, természeti erőforrás, a bérlőnek ebben az államban található tárgyi eszközhöz fűződő használati joga, ingatlanhasználatra vagy természeti erőforrások kiaknázására vonatkozó kormányzati engedély vagy hasonló megállapodás, amely jelentős tárgyieszköz-beruházást von maga után, azzal, hogy nem minősül elismert tárgyi eszköznek
 
