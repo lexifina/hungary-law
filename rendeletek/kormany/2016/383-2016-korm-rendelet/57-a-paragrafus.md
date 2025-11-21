@@ -1,3 +1,3 @@
-57/A. §[^276]
+57/A. §[^278]
 
-[^276]: Az 57/A. §-t a 20/2017. (II. 2.) Korm. rendelet 17. § (5) bekezdése iktatta be, hatályon kívül helyezte a 189/2019. (VII. 30.) Korm. rendelet 3. §-a.
+[^278]: Az 57/A. §-t a 20/2017. (II. 2.) Korm. rendelet 17. § (5) bekezdése iktatta be, hatályon kívül helyezte a 189/2019. (VII. 30.) Korm. rendelet 3. §-a.

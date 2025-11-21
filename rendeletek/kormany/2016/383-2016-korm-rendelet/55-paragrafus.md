@@ -1,14 +1,14 @@
 ## 18. A tenyésztési hatóság kijelölése
 
-55. §[^271] A Kormány tenyésztési hatóságként
+55. §[^273] A Kormány tenyésztési hatóságként
 
 a) a minisztert,
 
 b) a NÉBIH-et,
 
-c)[^272] a vármegyei kormányhivatalt
+c)[^274] a vármegyei kormányhivatalt
 
 jelöli ki.
 
-[^271]: Az 55. § a 189/2019. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^272]: Az 55. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 1. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^273]: Az 55. § a 189/2019. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^274]: Az 55. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 1. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

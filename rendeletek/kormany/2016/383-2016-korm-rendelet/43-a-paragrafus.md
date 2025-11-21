@@ -1,6 +1,6 @@
-43/A. §[^234] (1)[^235] A Kormány mezőgazdasági igazgatási szervként az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény 12. § (1) és (3) bekezdésében, valamint 14. § (3) bekezdésében foglaltak tekintetében a gazdaságátadási szerződéssel érintett föld (a továbbiakban: érintett föld) fekvése szerint illetékes, az 5. mellékletben meghatározott, a földügyi igazgatási feladatkörében eljáró vármegyei kormányhivatalt (a továbbiakban e § alkalmazásában: kormányhivatal) jelöli ki.
+43/A. §[^236] (1)[^237] A Kormány mezőgazdasági igazgatási szervként az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény 12. § (1) és (3) bekezdésében, valamint 14. § (3) bekezdésében foglaltak tekintetében a gazdaságátadási szerződéssel érintett föld (a továbbiakban: érintett föld) fekvése szerint illetékes, az 5. mellékletben meghatározott, a földügyi igazgatási feladatkörében eljáró vármegyei kormányhivatalt (a továbbiakban e § alkalmazásában: kormányhivatal) jelöli ki.
 
 (2) Ha a gazdaságátadási szerződés több kormányhivatal illetékességi területén fekvő földet érint, vagy nem érint földet, az eljárás lefolytatására az a kormányhivatal jogosult, amelyikhez az eredeti okiratokat benyújtották. Ha az eredeti okiratokat több kormányhivatalhoz is benyújtották, az a kormányhivatal jár el, amelynek illetékességi területéhez nagyobb számú érintett föld tartozik, azonos számú érintett föld esetén pedig az a kormányhivatal jár el, amelynek illetékességi területéhez tartozó érintett földek összterülete nagyobb.
 
-[^234]: A 43/A. §-t a 170/2023. (V. 12.) Korm. rendelet 33. §-a iktatta be.
-[^235]: A 43/A. § (1) bekezdése a 89/2024. (IV. 23.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^236]: A 43/A. §-t a 170/2023. (V. 12.) Korm. rendelet 33. §-a iktatta be.
+[^237]: A 43/A. § (1) bekezdése a 89/2024. (IV. 23.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
