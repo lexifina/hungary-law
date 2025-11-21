@@ -1,3 +1,1 @@
-38. § A Jöt. 150. §-a a következő (42) bekezdéssel egészül ki:
-
-„(42) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 128. § (2) bekezdése szerinti adómértékeket az állami adó- és vámhatóság az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvény kihirdetését követő 5 munkanapon belül internetes honlapján és a Magyar Közlönyben közzéteszi. Az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel módosított 128. § (2) bekezdés szerinti adómértékekre első alkalommal a 2026. évet követő évre vonatkozóan kell alkalmazni a 132/A. § rendelkezéseit.”
+### 38. §

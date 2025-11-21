@@ -4,6 +4,6 @@
 
 2.
 
-3. 84. § (1) bekezdésében az „adóellenőrzés” szövegrész helyébe az „ellenőrzés” szöveg
+3.
 
 lép.

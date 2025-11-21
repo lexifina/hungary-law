@@ -1,3 +1,1 @@
-80. § Az Art. 199. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A természetes személy adózó – ideértve a vállalkozási tevékenységet folytató és az általános forgalmi adó fizetésére kötelezett természetes személyt is – kérelmére az adóhatóság az általa nyilvántartott, legfeljebb kettőmillió forint összegű adótartozásra – kivéve a 198. § (3) bekezdésében meghatározott kötelezettségeket – évente egy alkalommal legfeljebb tizenkettő havi pótlékmentes részletfizetést engedélyez a 198. § (1) és (2) bekezdésében foglalt feltételek vizsgálata nélkül. A részletfizetés az adó esedékessé válását megelőzően is engedélyezhető.”
+### 80. §
