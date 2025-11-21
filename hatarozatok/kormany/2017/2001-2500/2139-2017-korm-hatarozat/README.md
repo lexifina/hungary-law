@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2139-30
 | --- | --- | --- |
 | 2017-12-29 | 2017-2139-30-22.1 | 2139/2017. (XII. 29.) Korm. határozat |
 | 2021-12-22 | 2017-2139-30-22.2 | 1953/2021. (XII. 22.) Korm. határozat |
+| 2025-11-21 | 2017-2139-30-22.3 | 1491/2025. (XI. 21.) Korm. határozat |

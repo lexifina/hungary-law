@@ -4,7 +4,7 @@ A Kormány
 
 a) a Nagykereki Belterület 610/1 helyrajzi szám alatt felvett, kivett könyvtár, múzeum megjelölésű, természetben 4127 Nagykereki, Bocskai utca 1. szám alatt található ingatlan felújításával, valamint
 
-b)[^1] a Nagykereki Belterület 610/2 helyrajzi szám alatt felvett, kivett magtár megjelölésű ingatlan állam általi megvásárlásával és felújításával, figyelemmel arra, hogy az a) alpontban meghatározott ingatlannal korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
+b)[^1] a Nagykereki Belterület 610/2 helyrajzi szám alatt felvett, kivett magtár megjelölésű ingatlan tulajdonjogának állam javára történő megszerzésével és felújításával, figyelemmel arra, hogy az a) alpontban meghatározott ingatlannal korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
 
 2. felhívja a Miniszterelnökséget vezető minisztert, hogy
 
@@ -50,11 +50,29 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében a felmerülés ütemében
 
-5.[^2] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Magyar Nemzeti Vagyonkezelő Zrt. útján az 1. pont b) alpontjában meghatározott ingatlannak a központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezete terhére – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken – az állam javára történő megvásárlásáról, vagy a megvásárlás meghiúsulása esetén kisajátításáról, és ezt követően Nagykereki Község Önkormányzata részére történő ingyenes használatba adásáról.
+5.[^2] felhívja a nemzetgazdasági minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon az 1. pont b) alpontjában meghatározott ingatlan tulajdonjogának az állam javára történő megszerzéséről
 
-Felelős: nemzeti fejlesztési miniszter
+a) adásvétel útján legfeljebb független ingatlanforgalmi szakértő által meghatározott forgalmi értékkel egyező összegű vételáron, vagy
 
-Határidő: 2018. március 31.
+b) – amennyiben az a) alpont szerinti tulajdonszerzésre nincs lehetőség – kisajátítás útján az igazságügyi szakértő által meghatározott kisajátítási kártalanítási összeg ellenében;
 
-[^1]: Az 1. pont b) alpontja az 1953/2021. (XII. 22.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^2]: Az 5. pontja az 1953/2021. (XII. 22.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | azonnal |
+
+6.[^3] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 5. pontban meghatározott feladat finanszírozása érdekében a 2026. évben legfeljebb 30 000 000 forint összegű forrás rendelkezésre állásáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások jogcímcsoport, 1. Ingatlan beruházások, ingatlan és egyéb eszközök vásárlása jogcím javára, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím terhére;
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | a felmerülés ütemében |
+
+7.[^4] felhívja a nemzetgazdasági minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon az 1. pont b) alpontjában meghatározott ingatlan Nagykereki Község Önkormányzata részére történő ingyenes használatba adásáról.
+
+| Felelős: | nemzetgazdasági miniszter |
+
+| Határidő: | az 1. pont b) alpontja szerinti ingatlan tulajdonjogának megszerzését követő 30 napon belül |
+
+[^1]: Az 1. pont b) alpontja az 1953/2021. (XII. 22.) Korm. határozat 5. pont a) alpontja, az 1491/2025. (XI. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1491/2025. (XI. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 6. pontot az 1491/2025. (XI. 21.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 7. pontot az 1491/2025. (XI. 21.) Korm. határozat 1. pontja iktatta be.
