@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-37-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-07-10 | 2024-37-20-7R.1 | 37/2024. (VII. 7.) AM rendelet |
+| 2025-11-21 | 2024-37-20-7R.2 | 48/2025. (XI. 13.) AM rendelet |

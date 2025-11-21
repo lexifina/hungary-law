@@ -1,4 +1,4 @@
-12. § (1) A veszettség tekintetében a pénzügyi hozzájárulás a Megállapodás II. mellékletében elfogadott nemzeti program szerinti, a veszettség vírus antigénjének vagy örökítőanyagának, a veszettség vírus elleni ellenanyagok kimutatására végzett, valamint biomarker kimutatására irányuló laboratóriumi vizsgálatok költségeire, a vakcinát tartalmazó csalétkek titrálásának költségeire, az oltóanyag beszerzési és kihelyezési költségeire, valamint figyelemfelhívó kampány költségeire vehető igénybe. A keretösszeg 1 244 477,43 eurónak megfelelő forintösszeg.
+12. § (1)[^3] A veszettség tekintetében a pénzügyi hozzájárulás a Megállapodás II. mellékletében elfogadott nemzeti program szerinti, a veszettség vírus antigénjének vagy örökítőanyagának, a veszettség vírus elleni ellenanyagok kimutatására végzett, valamint biomarker kimutatására irányuló laboratóriumi vizsgálatok költségeire, a vakcinát tartalmazó csalétkek titrálásának költségeire, az oltóanyag beszerzési és kihelyezési költségeire, valamint figyelemfelhívó kampány költségeire vehető igénybe. A keretösszeg 1 367 578,42 eurónak megfelelő forintösszeg.
 
 (2) A pénzügyi hozzájárulás igénybevételére a Nébih jogosult.
 
@@ -18,10 +18,13 @@ f) veszettség vírus tipizálása vizsgálatonként a 148,47 eurónak,
 
 g) vírust tartalmazó csalétekvakcina-minták titrálása esetében vizsgált csalétekvakcina-mintánként legfeljebb a 83,23 eurónak,
 
-h) orális csalétekvakcina beszerzése és kihelyezése esetében az 1 089 899,71 eurónak,
+h)[^4] orális csalétekvakcina beszerzése és kihelyezése esetében az 1 210 284,62 eurónak,
 
 i) vadon élő állatoknak a hatóság részére laboratóriumi vizsgálatok végzése céljából történő átadása esetében állatonként legfeljebb a 26,30 eurónak,
 
 j) figyelemfelhívó kampány esetében az 55 000 eurónak
 
 megfelelő forintösszeget.
+
+[^3]: A 12. § (1) bekezdése a 48/2025. (XI. 13.) AM rendelet 15. § c) pontja szerint módosított szöveg.
+[^4]: A 12. § (3) bekezdés h) pontja a 48/2025. (XI. 13.) AM rendelet 15. § d) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 3. A pénzügyi hozzájárulás igénybevételének részletes szabályai
 
-8. § (1) A szalmonellózis tekintetében a pénzügyi hozzájárulás a Megállapodás II. mellékletében elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok költségeire, a szerotipizálás költségeire, a felszámolásra került állatok és tojások értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 3 321 450,94 eurónak megfelelő forintösszeg.
+8. § (1)[^1] A szalmonellózis tekintetében a pénzügyi hozzájárulás a Megállapodás II. mellékletében elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok költségeire, a szerotipizálás költségeire, a felszámolásra került állatok és tojások értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 3 198 349,95 eurónak megfelelő forintösszeg.
 
 (2) A pénzügyi hozzájárulás igénybevételére a Nébih jogosult 79 807,51 eurónak megfelelő forint keretösszegig
 
@@ -32,7 +32,7 @@ a) a vármegyei kormányhivatal jogosult az állattartónak a vármegyei kormán
 
 b) a vármegyei kormányhivatal jogosult az állattartónak a tenyész- és tojóállományokban történő, a hatóság által jóváhagyott járványügyi intézkedési terve szerinti immunizáláshoz szükséges oltóanyagok beszerzési költségeinek állatonként maximálisan három vakcina költségének megtérítéséhez,
 
-c) a vármegyei kormányhivatal és a Nébih jogosult a baromfiállományból való hatósági mintavételhez összesen együttesen 3 241 643,43 eurónak megfelelő forint keretösszegig.
+c)[^2] a vármegyei kormányhivatal és a Nébih jogosult a baromfiállományból való hatósági mintavételhez összesen együttesen 3 118 542,44 eurónak megfelelő forint keretösszegig.
 
 (5) A vármegyei kormányhivatal a (4) bekezdés a) és b) pontja szerinti esetben a pénzügyi hozzájárulás számlájára történt átutalását követően haladéktalanul intézkedik annak azon állattartó fizetési számlájára történő továbbításáról, aki vagy amely a (6) bekezdés szerinti adattartalmú – a Nébih honlapján közzétett nyomtatványon benyújtandó – kérelmet (a továbbiakban: állattartói kérelem) az adott naptári hónapra vonatkozóan egy alkalommal, a tárgyhónapot követő hónap 15. napjáig, 2024. január–július hónapokra vonatkozóan – együttesen – 2024. augusztus 15-ig benyújtotta a telephelye szerint illetékes vármegyei kormányhivatalhoz, és
 
@@ -127,3 +127,6 @@ c) a (11) bekezdés f) pontja tekintetében a mintavétel időpontja.
 (13) Ha a pénzügyi hozzájárulás igénybevételére vonatkozó feltételek teljesítésének helyszíni vizsgálata során az állattartónál a Nébih vagy a vármegyei kormányhivatal a pénzügyi hozzájárulás kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesítette, akkor az állattartó részére a végrehajtási időszakban az adott célterületre vonatkozóan kifizetett támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
 
 (14) Ha az e rendelet alapján történt kifizetések ellenőrzése során az ellenőrzésre jogosult szerv megállapítja, hogy az állattartó nem az (5) bekezdés e) pontjának megfelelően küldte meg a jogosultságot igazoló dokumentumokat a vármegyei kormányhivatalnak, az állattartót kötelezi a jogosulatlanul igénybe vett összeg vármegyei kormányhivatal részére történő visszatérítésére. A vármegyei kormányhivatal haladéktalanul intézkedik a visszatérített összeg Kincstár részére történő visszautalásáról.
+
+[^1]: A 8. § (1) bekezdése a 48/2025. (XI. 13.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: A 8. § (4) bekezdés c) pontja a 48/2025. (XI. 13.) AM rendelet 15. § b) pontja szerint módosított szöveg.
