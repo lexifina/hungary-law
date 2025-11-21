@@ -1,5 +1,5 @@
 ## 10. Az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet módosítása
 
-31. §[^31]
+31. §[^29]
 
-[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

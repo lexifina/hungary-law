@@ -1,3 +1,1 @@
-30. §[^30]
-
-[^30]: A 30. § a 39. § (3) bekezdése alapján 2025. november 21-én lép hatályba.
+30. § Hatályát veszti a 383/2016. (XII. 2.) Korm. rendelet 42. § (1) bekezdés c) pontja.
