@@ -14,9 +14,14 @@
 
 ## 1. A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosítása
 
-1. § (1)[^1]
+1. § (1) A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 5. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
-(2)[^2]
+(Az agrárkár-megállapító szerv a várható hozamcsökkenés megállapítása és a mezőgazdasági káresemény igazolása során)
 
-[^1]: Az 1. § (1) bekezdése a 16. § (2) bekezdése alapján 2025. november 21-én lép hatályba.
-[^2]: Az 1. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## „f) az általa, ennek hiányában a Magyar Államkincstár mint mezőgazdasági igazgatási szerv által készített drónfelvétel adatait,”
+
+## (figyelembe veszi.)
+
+(2)[^1]
+
+[^1]: Az 1. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
