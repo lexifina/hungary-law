@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-44-20-0
 | 2018-01-01 | 2002-44-20-0L.8 | 52/2017. (XII. 22.) NFM rendelet |
 | 2019-07-01 | 2002-44-20-0L.9 | 52/2017. (XII. 22.) NFM rendelet |
 | 2025-08-01 | 2002-44-20-0L.10 | 22/2025. (VII. 31.) EM rendelet |
+| 2025-11-21 | 2002-44-20-0L.11 | 32/2025. (XI. 13.) EM rendelet |
