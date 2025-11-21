@@ -52,7 +52,7 @@ d)[^51]
 
 e)[^52] a Nemzeti Agrárgazdasági Kamara állapotminősítési, termésbecslési és betakarítási adatait
 
-f)[^53] az általa, ennek hiányában a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: mezőgazdasági igazgatási szerv) által készített drónfelvétel adatait,
+f)[^53] az általa, ennek hiányában a Magyar Államkincstár mint mezőgazdasági igazgatási szerv által készített drónfelvétel adatait,
 
 g)[^54] az általa elvégzett határszemle során rögzített adatokat, valamint
 
@@ -113,7 +113,7 @@ b) a belvíz vagy mezőgazdasági árvíz vonatkozásában tett kárbejelentésr
 [^50]: Az 5. § (3) bekezdés b) pontja a 60/2020. (XII. 9.) AM rendelet 8. § d) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § b) pontjával elrendelt módosítás, amely szerint a „Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI)” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szerv” szöveg lép, nem vezethető át.]
 [^51]: Az 5. § (3) bekezdés d) pontját a 47/2024. (IX. 5.) AM rendelet 10. § c) pontja hatályon kívül helyezte.
 [^52]: Az 5. § (3) bekezdés e) pontja a 47/2024. (IX. 5.) AM rendelet 9. § 10. pontja szerint módosított szöveg.
-[^53]: Az 5. § (3) bekezdés f) pontját a 60/2020. (XII. 9.) AM rendelet 3. § (3) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 9. § 11. pontja szerint módosított szöveg.
+[^53]: Az 5. § (3) bekezdés f) pontját a 60/2020. (XII. 9.) AM rendelet 3. § (3) bekezdése iktatta be, szövege a 44/2025. (X. 27.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^54]: Az 5. § (3) bekezdés g) pontját a 60/2020. (XII. 9.) AM rendelet 3. § (3) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 9. § 12. pontja szerint módosított szöveg.
 [^55]: Az 5. § (3) bekezdés h) pontját a 47/2024. (IX. 5.) AM rendelet 2. § (3) bekezdése iktatta be.
 [^56]: Az 5. § (3a) bekezdését a 60/2020. (XII. 9.) AM rendelet 3. § (4) bekezdése iktatta be, szövege a 47/2024. (IX. 5.) AM rendelet 2. § (4) bekezdésével megállapított szöveg.
