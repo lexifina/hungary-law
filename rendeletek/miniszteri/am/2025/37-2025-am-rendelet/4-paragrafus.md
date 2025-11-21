@@ -18,7 +18,7 @@ bb) megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § 
 
 c) az állatbetegséggel összefüggésben az RSZKF rendelet 12. § (1) bekezdése szerinti intézkedés miatt a kártalanítási rendelet alapján megállapították a kártalanításra való jogosultságát.
 
-(5)[^1] A tartási támogatási kérelem 2025. szeptember 1. és október 31. között nyújtható be az elektronikus felületen keresztül a Kincstárhoz, a honlapján közzétett közleményben foglaltaknak megfelelően.
+(5)[^2] A tartási támogatási kérelem 2025. szeptember 1. és október 31. között nyújtható be az elektronikus felületen keresztül a Kincstárhoz, a honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (6) Egy állattartó egy tartási támogatási kérelmet nyújthat be.
 
@@ -38,7 +38,7 @@ f) az állatbetegséggel összefüggésben az RSZKF rendelet 12. § (1) bekezdé
 
 (8) A hiányosan benyújtott tartási támogatási kérelem esetén a Kincstár a kedvezményezettet – nyolcnapos határidő tűzésével – hiánypótlásra szólítja fel.
 
-(9)[^2] A támogatási döntés meghozatalára legkésőbb 2025. november 15. napjáig kerül sor.
+(9)[^3] A támogatási döntés meghozatalára legkésőbb 2025. november 15. napjáig kerül sor.
 
 (10) A kedvezményezett a támogatási döntés kézhezvételét követően naptári hónaponként kifizetési kérelmet nyújthat be, amelyhez az adott időszak tartási költségeinek igazolása céljából mellékelni kell
 
@@ -64,5 +64,5 @@ d) az adott hónap tejhasznú üsző napi állatlétszámát és az állatok egy
 
 (13) A (12) bekezdés szerinti döntést a Kincstár a közléssel egyidejűleg elektronikus úton megküldi a lebonyolítóként eljáró ÉLBC részére. Az ÉLBC a támogatást a kártalanítási előirányzat terhére folyósítja a kedvezményezett részére.
 
-[^1]: A 4. § (5) bekezdése a 42/2025. (IX. 30.) AM rendelet 14. § a) pontja szerint módosított szöveg.
-[^2]: A 4. § (9) bekezdése a 42/2025. (IX. 30.) AM rendelet 14. § b) pontja szerint módosított szöveg.
+[^2]: A 4. § (5) bekezdése a 42/2025. (IX. 30.) AM rendelet 14. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (9) bekezdése a 42/2025. (IX. 30.) AM rendelet 14. § b) pontja szerint módosított szöveg.
