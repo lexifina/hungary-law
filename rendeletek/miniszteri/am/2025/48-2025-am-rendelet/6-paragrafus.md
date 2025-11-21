@@ -1,0 +1,7 @@
+6. § (1) A kérelmet – a (2)–(4) bekezdésben foglalt kivétellel – a Nébih tárgynegyedévente egy alkalommal, 2025. december 1. napjától kezdődően, a tárgynegyedévet követő hónap utolsó napjáig, első alkalommal 2025 első, második és harmadik tárgynegyedévére vonatkozóan együttesen 2025. december 31-ig nyújthatja be, az 5. § (1) bekezdésében foglaltak szerint.
+
+(2) A 8. § (4) bekezdés a) és b) pontjában meghatározott alcélterületek esetében a kérelmet a vármegyei kormányhivatal 2025. december 1. napjától kezdődően havonta egy alkalommal, az egyes tárgyhónapokat követő hónap utolsó napjáig – 2025. január–november hónapokra vonatkozóan együttesen 2026. január 15-ig – nyújthatja be, az 5. § (1) bekezdésében foglaltak szerint.
+
+(3) A 8. § (4) bekezdés c) pontjában meghatározott alcélterület esetében a kérelmet a kedvezményezett 2025. december 1. napjától kezdődően tárgyfélévente egy alkalommal, 2025 első tárgyfélévére vonatkozóan 2025. december 31-ig, ezt követően a tárgyfélévet követő hónap utolsó napjáig nyújthatja be, az 5. § (1) bekezdésében foglaltak szerint.
+
+(4) A 9. § (4) bekezdésében és a 10. § (4) bekezdésében meghatározott alcélterületek esetében a kérelmet a vármegyei kormányhivatal 2025. december 1. napjától kezdődően tárgyfélévente egy alkalommal, 2025 első tárgyfélévére vonatkozóan 2025. december 31-ig, ezt követően a tárgyfélévet követő hónap utolsó napjáig nyújthatja be, az 5. § (1) bekezdésében foglaltak szerint.

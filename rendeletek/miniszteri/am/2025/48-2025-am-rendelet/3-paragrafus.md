@@ -1,0 +1,1 @@
+3. § A támogatás forrása az adott naptári évre vonatkozó, Magyarország központi költségvetéséről szóló törvény, valamint az Európai Unió általános költségvetésének terhére a Megállapodás alapján a 2. § szerinti célterületek finanszírozására biztosított pénzösszeg.
