@@ -1,1 +1,3 @@
-30. § Hatályát veszti a 383/2016. (XII. 2.) Korm. rendelet 42. § (1) bekezdés c) pontja.
+30. §[^30]
+
+[^30]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
