@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-45-00-00
 | 2025-01-01 | 2024. évi LV. törvény | 2020-45-00-00.6 |
 | 2025-07-20 | 2025. évi LIV. törvény | 2020-45-00-00.7 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2020-45-00-00.8 |
+| 2025-11-22 | 2025. évi LXXXIV. törvény | 2020-45-00-00.11 |

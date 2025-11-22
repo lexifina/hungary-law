@@ -2,13 +2,13 @@
 
 6. § (1) Az adó mértéke a 2025-ben és a 2026-ban kezdődő adóévben az (1a) bekezdésben foglalt kivétellel
 
-a) az adóalap 500 millió forintot meg nem haladó része után 0 százalék,
+a) az adóalap 1 milliárd forintot meg nem haladó része után 0 százalék,
 
-b) az adóalap 500 millió forintot meghaladó, de 30 milliárd forintot meg nem haladó része után 0,15 százalék,
+b) az adóalap 1 milliárd forintot meghaladó, de 50 milliárd forintot meg nem haladó része után 0,15 százalék,
 
-c) az adóalap 30 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 1 százalék,
+c) az adóalap 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 1 százalék,
 
-d) az adóalap 100 milliárd forintot meghaladó része után 4,5 százalék.
+d) az adóalap 150 milliárd forintot meghaladó része után 4,5 százalék.
 
 (1a) A 2025. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (TEÁOR’25) szerint 47.3 ágazatba sorolt kiskereskedelmi tevékenység (a továbbiakban: gépjármű-üzemanyag kiskereskedelem) esetében a 2025-ben kezdődő adóévben az adó mértéke
 
