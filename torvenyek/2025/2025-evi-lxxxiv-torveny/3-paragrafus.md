@@ -2,8 +2,8 @@
 
 3. § Az Szja tv.
 
-a) 53. § (1) bekezdés a) pontjában a „40 százalék” szövegrész helyébe a „45 százalék” szöveg,
+a)
 
-b) 53. § (1) bekezdés a) pontjában a „45 százalék” szövegrész helyébe az „50 százalék” szöveg
+b)
 
 lép.

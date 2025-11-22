@@ -1,7 +1,1 @@
-7. § A Tao. törvény 29/A. §-a a következő (138)–(140) bekezdéssel egészül ki:
-
-„(138) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 4. § 33a. pontját, 22/B. § (1) bekezdés l) pontját és (36)–(50) bekezdését az adózó választása szerint alkalmazhatja a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvény vonatkozó rendelkezéseinek hatálybalépését megelőzően a 22/B. § (3) bekezdése vagy (20)–(35) bekezdése alapján benyújtott bejelentésre, azzal a feltétellel, hogy a beruházás vonatkozásában a 22/B. § (37) bekezdése szerinti bejelentést az adópolitikáért felelős miniszterhez benyújtja, az igényelt fejlesztési adókedvezmény összege nem haladja meg a 22/B. § (3) bekezdése vagy (20)–(35) bekezdése alapján eredetileg igényelt adókedvezmény összegét, továbbá a bejelentésben megjelölt beruházás megfelel a 4. § 33a. pontjában, a 22/B. § (1) bekezdés l) pontjában és (36)–(50) bekezdésében foglalt feltételeknek.
-
-(139) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 4. § 8.–8e. pontja és 22/I. §-a első alkalommal a 2026. adóévre és a 2026. január 1-jétől kezdődően megkezdett beruházásokra alkalmazható.
-
-(140) E törvénynek a vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 26. § (7) és (8) bekezdését első alkalommal a 2025. adóévi fizetendő adó alapján meghatározott adóelőlegre kell alkalmazni, feltéve, hogy annak bevallása 2025. december 31-ét követően esedékes.”
+### 7. §
