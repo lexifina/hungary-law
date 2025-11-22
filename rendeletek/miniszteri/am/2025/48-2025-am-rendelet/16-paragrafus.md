@@ -1,1 +1,3 @@
-16. § A ragadós száj- és körömfájás állatbetegség következményeinek enyhítéséről, valamint az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet módosításáról szóló 37/2025. (VIII. 13.) AM rendelet 3. § (2) bekezdésében a „hat havi” szövegrész helyébe a „tizenkét havi” szöveg lép.
+16. §[^2]
+
+[^2]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
