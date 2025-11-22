@@ -675,5 +675,3 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 5. a tagdíjak, ha törvény másként nem rendelkezik;
 
 6. a közcélú adományok;
-
-7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
