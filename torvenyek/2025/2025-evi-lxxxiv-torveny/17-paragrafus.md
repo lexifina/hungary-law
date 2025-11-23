@@ -1,11 +1,1 @@
-17. § Az Áfa tv. a következő 377. §-sal egészül ki:
-
-„377. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2026. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
-
-a) sem a 2025. naptári évben ténylegesen,
-
-b) sem a 2026. naptári évben észszerűen várhatóan, illetve ténylegesen
-
-nem haladja meg a 20 000 000 forintnak megfelelő pénzösszeget.
-
-(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2026. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében vagy a 195/K. § (6) bekezdésében rögzített időtartam még nem telt el.”
+### 17. §
