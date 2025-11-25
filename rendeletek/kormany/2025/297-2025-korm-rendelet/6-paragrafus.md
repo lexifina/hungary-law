@@ -8,6 +8,4 @@ b) pénzeszköz vagy gazdasági erőforrás tiltása,
 
 c) pénzügyi tranzakciók tilalma vagy korlátozása.
 
-(2)[^3]
-
-[^3]: A 6. § (2) bekezdése a 8. § (2) bekezdése alapján 2025. november 25-én lép hatályba.
+(2) A 4. alcím szerint minősített természetes személlyel szemben kiutasítás, valamint a kiutasításhoz kapcsolódóan beutazási és tartózkodási tilalom a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény általános szabályai szerint elrendelhető.
