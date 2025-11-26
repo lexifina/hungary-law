@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1099-30
 | 2025-04-07 | 2025-1099-30-22.1 | 1099/2025. (IV. 7.) Korm. határozat |
 | 2025-04-08 | 2025-1099-30-22.2 | 2010. évi CXXX. törvény |
 | 2025-07-24 | 2025-1099-30-22.4 | 1269/2025. (VII. 24.) Korm. határozat |
+| 2025-11-26 | 2025-1099-30-22.5 | 1500/2025. (XI. 26.) Korm. határozat |

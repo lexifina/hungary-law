@@ -14,22 +14,23 @@
 
 ## a) 2025. június 30-ig 3 300 000 000 forint,
 
-## b) 2025. október 15-ig további 3 000 000 000 forint
+## b)[^3] 2025. november 28-ig további 3 000 000 000 forint.
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | folyamatos |
 
-## 4.[^3] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1–3. pontban foglalt feladat végrehajtása érdekében legfeljebb 54 300 000 000 forint összegben kötelezettséget vállaljon;
+## 4.[^4] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1–3. pontban foglalt feladat végrehajtása érdekében legfeljebb 54 300 000 000 forint összegben kötelezettséget vállaljon;
 
-## 5.[^4]
+## 5.[^5]
 
-## 6.[^5]
+## 6.[^6]
 
 1. melléklet az 1099/2025. (IV. 7.) Korm. határozathoz
 
 [^1]: A 2. pont b) alpontját az 1269/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
 [^2]: A 3. pont az 1269/2025. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 4. pont az 1269/2025. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 5. pontot az 1269/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
-[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont b) alpontja az 1500/2025. (XI. 26.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 4. pont az 1269/2025. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: Az 5. pontot az 1269/2025. (VII. 24.) Korm. határozat 3. pontja visszavonta.
+[^6]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
