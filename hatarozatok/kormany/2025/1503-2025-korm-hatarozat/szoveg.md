@@ -14,4 +14,6 @@ A Kormány
 
 | Határidő: | 2026. január 1. |
 
-4. visszavonja a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaságnak a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaságba történő beolvadásáról szóló 1228/2025. (VI. 30.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
