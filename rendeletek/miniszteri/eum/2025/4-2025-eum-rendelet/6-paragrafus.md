@@ -1,0 +1,1 @@
+6. § Az alkalmassági vizsgálattal kapcsolatos koordinációs feladatokat a minisztérium EU ÁK személyügyi feladatait ellátó szervezeti egysége (a továbbiakban: személyügyi szervezeti egység) végzi. Az 1. § (1) bekezdése szerinti személy az alkalmassági vizsgálatra a személyügyi szervezeti egység által kiállított beutalóval jelentkezik.

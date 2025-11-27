@@ -1,0 +1,5 @@
+12. § (1) Az a vizsgálatra kötelezett, aki az előzetes alkalmassági vizsgálaton nem vett részt, illetve akinek az alkalmassági vizsgálat alapján a minősítése „Egészségileg alkalmatlan” vagy „Egészségileg ideiglenesen alkalmatlan”, nem helyezhető ki tartós külszolgálat ellátására, valamint a külképviselet által foglalkoztatni kívánt házastárssal nem köthető munkaszerződés.
+
+(2) A minisztérium soron kívül megszünteti annak a tartós külszolgálatra kihelyezett kormánytisztviselőnek, illetve a külképviselet által foglalkoztatott házastársnak a kihelyezését vagy foglalkoztatását, aki az időszakos vagy a soron kívüli alkalmassági vizsgálaton nem vett részt, vagy „Egészségileg alkalmatlan” minősítést kapott.
+
+(3) Az 1. § (1) bekezdés d) pontja szerinti hozzátartozó, aki nem vett részt az előzetes alkalmassági vizsgálaton, vagy akinek az alkalmassági vizsgálat alapján a minősítése „Egészségileg alkalmatlan” vagy „Egészségileg ideiglenesen alkalmatlan”, a kihelyező okiratban nem szerepeltethető.
