@@ -30,12 +30,8 @@
 
 ## 1.4. az 1.2. alpont a) pontjában szereplő ellentételezés finanszírozása érdekében jóváhagyja a Kvtv. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 21. Központi kezelésű előirányzatok cím, 23. Lakossági Rezsivédelmi Alap alcím kiadási előirányzatának legfeljebb 86 707 035 923 forint összeggel történő túllépését.
 
-## 2. A különleges földgázkészlet fenntartásához kapcsolódó pénzügyi intézkedésről szóló 1099/2025. (IV. 7.) Korm. határozat 3. pont b) alpontja helyébe a következő rendelkezés lép:
-
-## [A Kormány
-
-## felhívja az energiaügyi minisztert, hogy a 2. pont szerinti forrás terhére gondoskodjon a Szövetség részére a Korm. rendelet 5/C. § (3) bekezdése alapján megkötött szerződés szerinti ellentételezés teljesítéséről, a következő ütemezés szerint:]
-
-## „b) 2025. november 28-ig további 3 000 000 000 forint.”
+## 2.[^1]
 
 1. melléklet az 1500/2025. (XI. 26.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
