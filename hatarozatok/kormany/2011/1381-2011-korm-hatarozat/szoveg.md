@@ -6,29 +6,27 @@ A Kormány
 
 a) a rendszeres sportegészségügyi szűrővizsgálatokat és a teljesítménydiagnosztikai vizsgálatokat az Országos Sportegészségügyi Intézet végezze a Magyar Olimpiai Bizottság által biztosított fedezet és a kiegészítő támogatás terhére;
 
-b) az olimpiai felkészüléssel kapcsolatban szükségessé váló egészségügyi szakellátásokat – a megfelelő szakmai és területi lefedettség érdekében – az alábbi egészségügyi szolgáltatók végezzék:
+b)[^2] az olimpiai felkészüléssel kapcsolatban szükségessé váló egészségügyi szakellátásokat – a megfelelő szakmai és területi lefedettség érdekében – az alábbi egészségügyi szolgáltatók végezzék:
 
-ba) Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház (Miskolc),
+ba) Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház (Miskolc),
 
-bb) Debreceni Egyetem Orvos és Egészségtudományi Centrum (Debrecen),
+bb) Debreceni Egyetem Klinikai Központ (Debrecen),
 
-bc) Kastélypark Klinika Kft. (Tata),
+bc) Heim Pál Országos Gyermekgyógyászati Intézet (Budapest),
 
 bd) Országos Gerincgyógyászati Központ (Budapest),
 
-be) Országos Orvosi Rehabilitációs Intézet (Budapest),
+be) Országos Sportegészségügyi Intézet (Budapest),
 
-bf) Országos Sportegészségügyi Intézet (Budapest),
+bf) Pécsi Tudományegyetem Klinikai Központ (Pécs),
 
-bg) Pécsi Tudományegyetem Klinikai Központ (Pécs),
+bg) Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház (Győr),
 
-bh) Petz Aladár Megyei Oktató Kórház (Győr),
+bh) Semmelweis Egyetem Rehabilitációs Klinika (Budapest),
 
-bi) Semmelweis Egyetem (Budapest),
+bi) Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ (Szeged),
 
-bj) Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ (Szeged),
-
-bk)[^2] Magyar Honvédség Egészségügyi Központ (Budapest);
+bj) Észak-Pesti Centrumkórház – Honvédkórház (Budapest);
 
 3. elrendeli a 2. pontban meghatározott olimpiai sportegészségügyi szolgáltatói hálózat eredményes és hatékony működése érdekében a betegirányítási feladatokat ellátó telefonos ügyfélszolgálati rendszer létrehozását és működtetését az Országos Sportegészségügyi Intézetben;
 
@@ -43,4 +41,4 @@ Felelős: nemzeti erőforrás miniszter
 Határidő: azonnal
 
 [^1]: Az 1. pont az 1908/2015. (XII. 8.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 2. pont b) pont bk) alpontját az 1908/2015. (XII. 8.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 2. pont b) alpontja az 1514/2025. (XI. 28.) Korm. határozattal megállapított szöveg.
