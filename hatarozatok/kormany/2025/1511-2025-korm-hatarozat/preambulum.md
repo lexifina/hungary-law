@@ -1,0 +1,1 @@
+A közvetlen uniós projektek megvalósításával összefüggő intézkedésekről szóló 1240/2025. (VII. 3.) Korm. határozat [a továbbiakban: 1240/2025. (VII. 3.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosul.
