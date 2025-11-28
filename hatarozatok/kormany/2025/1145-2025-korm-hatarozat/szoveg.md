@@ -44,4 +44,12 @@ d) a 2026. évben a központi költségvetés XVI. Építési és Közlekedési 
 
 10. egyetért azzal, hogy az építési és közlekedési miniszter az 1. pontban meghatározott fejlesztések megvalósítása érdekében összesen legfeljebb 5 723 000 000 forint támogatási összeget tartalmazó támogatási jogviszonyokat létesítsen;
 
-11. egyetért azzal, hogy az 1. pont szerinti beruházásokkal összhangban a MÁV Zrt. és a WABERER’S INTERNATIONAL Nyrt. között a kiskundorozsmai terminál bérleti-üzemeltetési szerződése a beruházások várható hasznos élettartamának megfelelően kerüljön módosításra.
+11.[^1] egyetért azzal, hogy az 1. pont szerinti beruházásokkal összhangban a kiskundorozsmai terminál bérleti-üzemeltetési szerződése a beruházások várható hasznos élettartamának megfelelően kerüljön megkötésre;
+
+12.[^2] az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy dönt, hogy az 1. pont szerinti beruházások megvalósítása fejlesztéspolitikai közérdekű célból kiemelten indokolt, ezért a beruházással érintett állami tulajdonú ingatlanokra versenyeztetés mellőzésével köthető hasznosítási szerződés;
+
+13.[^3] a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (10a) bekezdése alapján úgy dönt, hogy az 1. pont szerinti infrastruktúra beruházások megtérülési idejére tekintettel a beruházással érintett állami tulajdonban álló ingatlanokra 30 éves határozott időre köthető hasznosítási szerződés.
+
+[^1]: A 11. pont az 1520/2025. (XI. 28.) Korm. határozattal megállapított szöveg.
+[^2]: A 12. pontot az 1520/2025. (XI. 28.) Korm. határozat iktatta be.
+[^3]: A 13. pontot az 1520/2025. (XI. 28.) Korm. határozat iktatta be.
