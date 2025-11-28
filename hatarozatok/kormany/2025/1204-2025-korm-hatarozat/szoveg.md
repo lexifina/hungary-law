@@ -12,11 +12,11 @@ A Kormány
 
 4. egyetért az Alapítvány alapító okiratában meghatározott célok és az azok elérése érdekében végzett tevékenységek megvalósításához szükséges forrás biztosításával;
 
-5. felhívja a kultúráért és innovációért felelős minisztert, hogy gondoskodjon a KEKVA tv. 20. § (1) bekezdése szerinti keretmegállapodás és közfeladat-finanszírozási megállapodás Alapítvánnyal történő megkötéséről;
+5.[^1] felhívja a kultúráért és innovációért felelős minisztert, hogy gondoskodjon a KEKVA tv. 20. § (1) bekezdése szerinti keretmegállapodás és közfeladat-finanszírozási megállapodás Alapítvánnyal való megkötéséről;
 
 | Felelős: | kultúráért és innovációért felelős miniszter |
 
-| Határidő: | az Alapítvány létrejöttét követő 6 hónapon belül, a 2025. évben a 7. pontban meghatározott időarányos forrás rendelkezésre állását követően haladéktalanul |
+| Határidő: | az Alapítvány létrejöttét követő 30 napon belül |
 
 6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében foglalt jogkörében eljárva elrendeli a Kvtv. 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok címnek a 30. Innovációs közfeladatot ellátó közérdekű vagyonkezelő alapítványok működésének és feladatainak támogatása alcímmel történő kiegészítését;
 
@@ -39,3 +39,5 @@ forrás rendelkezésre állásáról a központi költségvetés XX. Kulturális
 | Határidő: | a 2026. év tekintetében a felmerülés ütemében, azt követően az adott évi központi költségvetés tervezése során |
 
 9. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az Alapítvány céljai és az azok elérése érdekében végzett tevékenységei megvalósításának biztosítása érdekében a 6. pontban meghatározott előirányzat terhére vállalható kötelezettségek felső korlátját a 2026–2030. évek vonatkozásában, az eredeti előirányzaton felül évi 400 000 000 forintban állapítja meg.
+
+[^1]: Az 5. pont az 1506/2025. (XI. 28.) Korm. határozattal megállapított szöveg.
