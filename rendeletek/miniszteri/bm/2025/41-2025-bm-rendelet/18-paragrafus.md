@@ -1,31 +1,31 @@
 18. § A 14/2007. (III. 14.) EüM rendelet
 
-a)[^19]
+a)[^18]
 
-b)[^20]
+b)[^19]
 
-c)[^21]
+c)[^20]
 
-d)[^22]
+d)[^21]
 
-e)[^23]
+e)[^22]
 
-f)[^24]
+f)[^23]
 
-g)[^25]
+g)[^24]
 
-h)[^26]
+h)[^25]
 
-i)[^27]
+i)[^26]
 
 lép.
 
-[^19]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 18. § b) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^21]: A 18. § c) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^22]: A 18. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 18. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 18. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 18. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 18. § h) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^27]: A 18. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § b) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^20]: A 18. § c) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^21]: A 18. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 18. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 18. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 18. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 18. § h) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
+[^26]: A 18. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
