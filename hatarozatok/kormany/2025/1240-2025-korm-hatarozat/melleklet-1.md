@@ -66,7 +66,7 @@
 
 | 23 | 2025 | EU4HEALTH (EUCanScreen, JARED) | Országos Korányi Pulmonológiai Intézet | – | – | 74 965 985 | 47 704 573 | – |
 
-| 24 | 2025 | EURATOM, EUROfusion előkészítési és önerő támogatás | HUN-REN Energiatudományi Kutatóközpont | – | – | 40 000 000 | 50 000 000 | 50 000 000 |
+| 24[^2] | 2025 | EURATOM, EUROfusion előkészítési és önerő támogatás | HUN-REN Energiatudományi Kutatóközpont | – | – | 40 000 000 | 110 000 000 | – |
 
 | 25 | 2025 | Digitális Európa Program (Agrár EDIH) | Cibus Hungaricus Alapítvány (konzorciumvezető) és a konzorcium tagjai | – | – | 114 182 040 | 88 681 384 | 177 743 376 |
 
@@ -80,4 +80,11 @@
 
 | 30 | 2025 | Digitális Európa Program (HPC EDIH) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság (konzorciumvezető) és a konzorcium tagjai | – | – | – | 147 563 152 | 129 290 792 |
 
+| 31[^3] | 2025 | Digitális Európa Program (EuroCC-3) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. | – | – | – | 110 000 000 | 110 000 000 |
+
+| 32[^4] | 2025 | EU4Health, Digitális Európa program előkészítési támogatás | Semmelweis Egyetem Egészségügyi Menedzserképző Központ | – | – | – | 50 000 000 | 50 000 000 |
+
 [^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. mellékletben foglalt táblázat 24. sora az 1511/2025. (XI. 28.) Korm. határozattal megállapított szöveg.
+[^3]: Az 1. mellékletben foglalt táblázat 31. sorát az 1511/2025. (XI. 28.) Korm. határozat iktatta be.
+[^4]: Az 1. mellékletben foglalt táblázat 32. sorát az 1511/2025. (XI. 28.) Korm. határozat iktatta be.
