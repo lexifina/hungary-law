@@ -4,7 +4,7 @@
 
 | C10AA | Hmg CoA reductase gátlók |
 
-8. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^162]
+8. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^163]
 
 A FELÍRÁSI IGAZOLÁS KÖTELEZŐ TARTALMI ELEMEI
 
@@ -14,7 +14,7 @@ A FELÍRÁSI IGAZOLÁS KÖTELEZŐ TARTALMI ELEMEI
 
 3. Az ellátási esemény egyedi azonosítója (naplósorszám)
 
-4.[^163] A vényt vagy vényeket rendelő orvos neve, elérhetősége és alapnyilvántartási száma száma
+4.[^164] A vényt vagy vényeket rendelő orvos neve, elérhetősége és alapnyilvántartási száma száma
 
 5. Ha értelmezett: az egészségügyi szolgáltató megnevezése, címe, működési engedély száma
 
@@ -44,5 +44,5 @@ A FELÍRÁSI IGAZOLÁS KÖTELEZŐ TARTALMI ELEMEI
 
 7.9. A vény EESZT azonosítója vonalkódos, illetve szövegesen olvasható formában is
 
-[^162]: A 8. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (1) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^163]: A 8. számú melléklet 4. pontja a 29/2021. (VII. 6.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^163]: A 8. számú mellékletet a 29/2017. (X. 31.) EMMI rendelet 15. § (1) bekezdése iktatta be, szövege a 37/2020. (X. 30.) EMMI rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^164]: A 8. számú melléklet 4. pontja a 29/2021. (VII. 6.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.

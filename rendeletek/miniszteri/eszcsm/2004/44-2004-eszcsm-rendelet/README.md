@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-0
 | 2025-01-23 | 2004-44-20-0M.57 | 3/2025. (I. 20.) BM rendelet |
 | 2025-02-18 | 2004-44-20-0M.56 | 57/2024. (XII. 20.) BM rendelet |
 | 2025-10-01 | 2004-44-20-0M.58 | 41/2025. (IX. 29.) BM rendelet |
+| 2025-11-28 | 2004-44-20-0M.59 | 41/2025. (IX. 29.) BM rendelet |
