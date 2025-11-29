@@ -1,0 +1,9 @@
+2. § Az Aktv. 3/B. § (2) bekezdése helyébe a következő rendelkezés lép és a § a következő (3)–(5) bekezdéssel egészül ki:
+
+„(2) E törvény eltérő rendelkezése hiányában, az állami adó- és vámhatóság a II., a II/A., a II/B., a II/C., az V/B., az V/D., valamint az V/F. Fejezet szerint közölt, szerzett vagy továbbított információt az 5. § alapján az adómegállapítási jogsegély hatálya alá tartozó adóknak megfelelő magyar adókra, az általános forgalmi adóra és más közvetett adók, a vámok megállapítása, kezelése és végrehajtása céljából, a pénzmosás és terrorizmusfinanszírozás elleni fellépésre vonatkozó szabályozás vizsgálata, kezelése és végrehajtása céljából, valamint a 15. § (2) bekezdés b), illetve c) pontjában meghatározott célokra használhatja fel.
+
+(3) Az állami adó- és vámhatóság a II., a II/A., a II/B., a II/C., az V/B., az V/D., valamint az V/F. Fejezet szerinti információcsere során szerzett információk felhasználása céljából megfelelő mechanizmust működtet.
+
+(4) Az állami adó- és vámhatóság az e törvény szerinti automatikus információcsere eredményeként rendelkezésére álló információkat tíz évig megőrzi.
+
+(5) Az állami adó- és vámhatóság biztosítja, hogy a II., a II/A., a II/B., a II/C., az V/B., az V/D., valamint az V/F. Fejezet szerinti információcserével összefüggésben adatszolgáltatásra kötelezett szervezet elektronikus úton meggyőződjön az információcsere hatálya alá tartozó adózó adóazonosító számának megfelelőségéről. Az adóazonosító számra vonatkozó információ megerősítésére csak a 19/A. § (2) bekezdésében, a 19/B. § (4) bekezdésében, a 21/B. § (4) és (5) bekezdésében, a 21/M. § (2) bekezdésében, a 43/I. § (2) bekezdésében, a 43/N. § (9) bekezdésében, a 43/Y. § (2) bekezdésében, valamint 21/T. § (3) és (4) bekezdésében meghatározott adatok helyességének ellenőrzése céljából kerülhet sor.”

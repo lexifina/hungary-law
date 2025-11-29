@@ -1,0 +1,3 @@
+19. § Az Aktv. 43/W. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adótervezésben közreműködő mentesül a 43/U. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettség alól, ha e kötelezettség teljesítése a tevékenységét szabályozó jogszabályban rögzített titoktartási kötelezettség megsértését eredményezné. Ebben az esetben az adótervezésben közreműködő haladéktalanul tájékoztatja az adótervezésben közreműködő ügyfelét, ennek hiányában az érintett adózónak minősülő ügyfelét az adatszolgáltatási kötelezettség fennállásáról, továbbá, ha azzal rendelkezik, az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció tagállami hivatkozási számáról.”

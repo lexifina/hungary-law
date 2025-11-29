@@ -1,0 +1,1 @@
+35. § A 2–9. §, a 10. § (6) bekezdése, a 12–13. §, a 16. §, a 19. §, a 20. § (1)–(2) és (4) bekezdése, a 21. §, a 23. §, a 25. §, a 26–28. §, valamint az 1–3. melléklet az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU tanácsi irányelv módosításáról szóló, 2023. október 17-i (EU) 2023/2226 tanácsi irányelvnek való megfelelést szolgálja.
