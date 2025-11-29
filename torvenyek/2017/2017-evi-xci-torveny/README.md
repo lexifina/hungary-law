@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-91-00-00
 | 2022-11-24 | 2022. évi XLV. törvény | 2017-91-00-00.7 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2017-91-00-00.8 |
 | 2024-11-29 | 2024. évi LV. törvény | 2017-91-00-00.9 |
+| 2025-11-29 | 2025. évi LXXXVI. törvény | 2017-91-00-00.10 |

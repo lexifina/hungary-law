@@ -4,158 +4,170 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 1. Albánia
 
-1a. Andorra
+2. Andorra
 
-1b. Anguilla
+3. Anguilla
 
-1c. Argentína
+4. Antigua és Barbuda
 
-1d. Aruba
+5. Argentína
 
-2. Ausztrália
+6. Aruba
 
-2a. Azerbajdzsán
+7. Ausztrália
 
-2b. Bahrein
+8. Azerbajdzsán
 
-## 2b. Bahama-szigetek
+9. Bahama-szigetek
 
-2c. Belize
+10. Bahrein
 
-## 2c. Bahrein
+11. Barbados
 
-2d. Barbados
+12. Belize
 
-2e. Belize
+13. Bermuda
 
-3. Bermuda
+14. Botswana
 
-4. Brazília
+15. Brazília
 
-4a. Brit Virgin-szigetek
+16. Brit Virgin-szigetek
 
-5. Chile
+17. Chile
 
-5a. Ciprus
+18. Ciprus
 
-6. Costa Rica
+19. Costa Rica
 
-7. Curaçao
+20. Curaçao
 
-8. Dél-afrikai Köztársaság
+21. Dél-afrikai Köztársaság
 
-8a. Dominikai Köztársaság
+22. Dominikai Köztársaság
 
-8b. Egyesült Arab Emírségek
+23. Egyesült Arab Emírségek
 
-8c. Egyesült Királyság
+24. Egyesült Királyság
 
-8d. Feröer szigetek
+25. Feröer szigetek
 
-9. Gabon
+26. Gabon
 
-10. Georgia
+27. Georgia
 
-10a. Gibraltár
+28. Gibraltár
 
-11. Guernsey
+29. Grönland
 
-11a. Haiti
+30. Guernsey
 
-11b. Hongkong
+31. Haiti
 
-12. India
+32. Hongkong
 
-13. Indonézia
+33. India
 
-14. Izland
+34. Indonézia
 
-15. Izrael
+35. Izland
 
-16. Japán
+36. Izrael
 
-17. Jersey
+37. Japán
 
-17a. Kajmán-szigetek
+38. Jersey
 
-17b. Kamerun
+39. Kajmán-szigetek
 
-18. Kanada
+40. Kamerun
 
-18a. Katar
+41. Kanada
 
-18b. Kazahsztán
+42. Katar
 
-18c. Kenya
+43. Kazahsztán
 
-18d. Kolumbia
+44. Kenya
 
-19. Korea
+45. Kínai Népköztársaság
 
-20. Kínai Népköztársaság
+46. Kolumbia
 
-20a. Libéria
+47. Korea
 
-21. Liechtenstein
+48. Libéria
 
-21a. Makaó
+49. Liechtenstein
 
-22. Malajzia
+50. Makaó
 
-22a. Maldív-szigetek
+51. Malajzia
 
-23. Man-sziget
+52. Maldív-szigetek
 
-23a. Marokkó
+53. Man-sziget
 
-23b. Mauritánia
+54. Marokkó
 
-24. Mauritius
+55. Mauritánia
 
-25. Mexikó
+56. Mauritius
 
-25a. Monaco
+57. Mexikó
 
-25b. Montserrat
+58. Monaco
 
-26. Nigéria
+59. Mongólia
 
-27. Norvégia
+60. Montenegró
 
-27a. Omán
+61. Montserrat
 
-28. Orosz Föderáció
+62. Nigéria
 
-28a. Panama
+63. Norvégia
 
-28b. Pakisztán
+64. Omán
 
-28c. Pápua Új-Guinea
+65. Orosz Föderáció
 
-28d. San Marino
+66. Örményország
 
-28e. Seychelle-szigetek
+67. Pakisztán
 
-29. Peru
+68. Panama
 
-29a. Svájc
+69. Pápua Új-Guinea
 
-29b. Szaúd-Arábia
+70. Peru
 
-30. Szenegál
+71. San Marino
 
-30a. Szingapúr
+72. Seychelle-szigetek
 
-30b. Thaiföld
+73. Svájc
 
-30c. Törökország
+74. Szaúd-Arábia
 
-30d. Tunézia
+75. Szenegál
 
-30e. Turks és Caicos-szigetek
+76. Szerbia
 
-31. Új-Zéland
+77. Szingapúr
 
-31b. Ukrajna
+78. Thaiföld
 
-32. Uruguay
+79. Törökország
+
+80. Trinidad és Tobago
+
+81. Tunézia
+
+82. Turks és Caicos-szigetek
+
+83. Ukrajna
+
+84. Uruguay
+
+85. Új-Zéland
