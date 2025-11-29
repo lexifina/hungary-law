@@ -1,1 +1,0 @@
-A Kormány a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § c) pontjában, 82. § (1) és (2) bekezdésében, valamint 83. §-ában foglalt felhatalmazás alapján módosítja a Digitális Megújulás Operatív Program Plusz éves fejlesztési keretét, az 1. és 2. melléklet szerint.
