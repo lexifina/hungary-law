@@ -22,7 +22,7 @@ d) a tehergépkocsi össztömege – a rakfelületen szállított személyek sú
 
 e) a tehergépkocsi rakfelülete nem billenthető.
 
-(5)[^295] A fegyveres erők, a rendvédelmi szervek által üzemeltetett, valamint közveszély, elemi csapás vagy a vasútüzem biztonságát veszélyeztető akadály elhárításánál használt tehergépkocsin – a (4) bekezdés b)–e) pontjaiban foglalt rendelkezések megtartásával – a hatósági engedélybe bejegyzett személyek számánál több személyt abban az esetben is szabad szállítani, ha a tehergépkocsi megengedett legnagyobb össztömege a 3500 kg-ot nem haladja meg.
+(5)[^295] A fegyveres erők, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok által üzemeltetett, valamint közveszély, elemi csapás vagy a vasútüzem biztonságát veszélyeztető akadály elhárításánál használt tehergépkocsin – a (4) bekezdés b)–e) pontjaiban foglalt rendelkezések megtartásával – a hatósági engedélybe bejegyzett személyek számánál több személyt abban az esetben is szabad szállítani, ha a tehergépkocsi megengedett legnagyobb össztömege a 3500 kg-ot nem haladja meg.
 
 (6) Pótkocsin személyt szállítani tilos, kivéve
 
@@ -34,4 +34,4 @@ b) a mezőgazdasági vontató első, nem billenő rakfelületű pótkocsiján �
 [^292]: A 46. § (2) bekezdése az 58/2007. (III. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^293]: A 46. § (3) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^294]: A 46. § (4) bekezdése a 28/2001. (II. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^295]: A 46. § (5) bekezdése a 28/2001. (II. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^295]: A 46. § (5) bekezdése a 28/2001. (II. 15.) Korm. rendelet 19. §-ával megállapított, a 369/2025. (XI. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

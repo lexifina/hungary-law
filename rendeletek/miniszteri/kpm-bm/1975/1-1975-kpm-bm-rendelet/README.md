@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1975-1-20-24
 | 2024-09-19 | 1975-1-20-24.36 | 271/2024. (IX. 18.) Korm. rendelet |
 | 2024-12-17 | 1975-1-20-24.37 | 395/2024. (XII. 16.) Korm. rendelet |
 | 2025-01-01 | 1975-1-20-24.38 | 474/2024. (XII. 31.) Korm. rendelet |
+| 2025-11-29 | 1975-1-20-24.39 | 28/2001. (II. 15.) Korm. rendelet |

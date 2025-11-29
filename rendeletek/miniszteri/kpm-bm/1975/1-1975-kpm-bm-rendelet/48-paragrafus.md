@@ -50,7 +50,7 @@ b) ha gépkocsi hátsó ülésén utazik, 3. életévét már betöltötte, lega
 
 c) ha taxi üzemmódban használt taxi gépkocsi és a személygépkocsis személyszállítást végző gépkocsi hátsó ülésén utazik;
 
-d) ha a rendvédelmi szervek gépkocsijában vagy a mentő gépkocsi betegellátó terében utazik;
+d) [^309] ha a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok gépkocsijában vagy a mentő gépkocsi betegellátó terében utazik;
 
 e) a menetrend szerinti személyszállítást végző autóbuszban;
 
@@ -58,17 +58,17 @@ f) a nem menetrend szerinti személyszállítást végző autóbuszban, ha áll�
 
 g) ha 3. életévét még nem töltötte be és állva utazik az autóbuszban;
 
-h) ha külön jogszabályban[^309] meghatározott orvos által kiállított igazolással rendelkezik.
+h) ha külön jogszabályban[^310] meghatározott orvos által kiállított igazolással rendelkezik.
 
-(9) [^310] A zárt utastérrel (vezetőtérrel) nem rendelkező motorkerékpáron és segédmotoros kerékpáron utazó személynek becsatolt motorkerékpár-bukósisakot kell viselni. Ilyen járművel csak abban az esetben szabad közlekedni, ha a járművezető és az utas becsatolt motorkerékpár-bukósisakot visel.
+(9) [^311] A zárt utastérrel (vezetőtérrel) nem rendelkező motorkerékpáron és segédmotoros kerékpáron utazó személynek becsatolt motorkerékpár-bukósisakot kell viselni. Ilyen járművel csak abban az esetben szabad közlekedni, ha a járművezető és az utas becsatolt motorkerékpár-bukósisakot visel.
 
-(10) [^311] Olyan járművel, amelynek megengedett legnagyobb sebességét a műszaki megvizsgálás során az általánosnál alacsonyabban állapították meg [26. § (3) bek.], abban az esetben szabad közlekedni, ha a jármű hátsó oldalán a megengedett legnagyobb sebesség számértékét – kör alakú, 15 cm átmérőjű, 2 cm széles piros szegélyű, fehér alapon 6 cm magas fekete számjegyekkel – feltüntették.
+(10) [^312] Olyan járművel, amelynek megengedett legnagyobb sebességét a műszaki megvizsgálás során az általánosnál alacsonyabban állapították meg [26. § (3) bek.], abban az esetben szabad közlekedni, ha a jármű hátsó oldalán a megengedett legnagyobb sebesség számértékét – kör alakú, 15 cm átmérőjű, 2 cm széles piros szegélyű, fehér alapon 6 cm magas fekete számjegyekkel – feltüntették.
 
-(11) [^312] Gépjárművel, mezőgazdasági vontatóval és lassú járművel csak olyan pótkocsit szabad vontatni, amelynek vontatását – a hatósági engedélybe tett bejegyzéssel – engedélyezték.
+(11) [^313] Gépjárművel, mezőgazdasági vontatóval és lassú járművel csak olyan pótkocsit szabad vontatni, amelynek vontatását – a hatósági engedélybe tett bejegyzéssel – engedélyezték.
 
-(12) [^313] Iskolabusszal abban az esetben szabad közlekedni, ha:
+(12) [^314] Iskolabusszal abban az esetben szabad közlekedni, ha:
 
-a) [^314] a 20. § (6) bekezdésében meghatározott táblával és „Gyermekszállítás” felirattal megjelölték,
+a) [^315] a 20. § (6) bekezdésében meghatározott táblával és „Gyermekszállítás” felirattal megjelölték,
 
 b) az ülésekhez biztonsági övet szereltek fel,
 
@@ -78,7 +78,7 @@ d) a legalább 135 cm magas gyermeket biztonsági övvel rögzítették,
 
 e) a szállított utasok ülőhellyel rendelkeznek.
 
-(13) [^315] Az (5) bekezdés g) pontjában és a (8) bekezdés h) pontjában meghatározott igazolásnak a következőket kell tartalmaznia:
+(13) [^316] Az (5) bekezdés g) pontjában és a (8) bekezdés h) pontjában meghatározott igazolásnak a következőket kell tartalmaznia:
 
 a) a jogosított neve, születési időpontja (év, hónap, nap),
 
@@ -88,11 +88,11 @@ c) a kiállító orvos neve, névaláírása, bélyegző lenyomata,
 
 d) a kiállítás dátuma,
 
-e) a 161/b. ábra[^316] szerinti jelzés.
+e) a 161/b. ábra[^317] szerinti jelzés.
 
-(14) [^317] A nehéz tehergépkocsik e rendelet eltérő rendelkezése hiányában lakott területen kívül csak autópályán, autóúton és főútvonalon közlekedhetnek.
+(14) [^318] A nehéz tehergépkocsik e rendelet eltérő rendelkezése hiányában lakott területen kívül csak autópályán, autóúton és főútvonalon közlekedhetnek.
 
-(15) [^318] A (14) bekezdésben fel nem sorolt utakat elengedhetetlenül szükséges távolságban abban az esetben használhatja nehéz tehergépkocsi, ha
+(15) [^319] A (14) bekezdésben fel nem sorolt utakat elengedhetetlenül szükséges távolságban abban az esetben használhatja nehéz tehergépkocsi, ha
 
 a) áruszállítás érdekében az áru fel-, vagy lerakásának, illetve – különleges felépítményű jármű esetén – a felépítményével történő munkavégzés helyszínére vagy helyszínéről;
 
@@ -102,9 +102,9 @@ b) üzemben tartója telephelyére vagy telephelyéről
 
 ## A nehéz tehergépkocsi az a) és b) pontban felsorolt helyszínre, helyszínről történő közlekedése során a (14) bekezdésben felsorolt útvonalakról való lehajtás után, azokat egy irányban legfeljebb egy alkalommal keresztezheti.
 
-(16) [^319] Nem vonatkozik a (14) bekezdésben meghatározott tilalom azon nehéz tehergépkocsira, amely útlezárás miatt terelőúton közlekedik, valamint arra, amelyet az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerint 2013. évi LXVII. törvény 9. § (1) bekezdése szerint nem terhel útdíjfizetési és bevallási kötelezettség, továbbá a nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet 4. §-a alapján kiadott engedéllyel rendelkező járművekre.
+(16) [^320] Nem vonatkozik a (14) bekezdésben meghatározott tilalom azon nehéz tehergépkocsira, amely útlezárás miatt terelőúton közlekedik, valamint arra, amelyet az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerint 2013. évi LXVII. törvény 9. § (1) bekezdése szerint nem terhel útdíjfizetési és bevallási kötelezettség, továbbá a nehéz tehergépkocsik közlekedésének korlátozásáról szóló 190/2008. (VII. 29.) Korm. rendelet 4. §-a alapján kiadott engedéllyel rendelkező járművekre.
 
-(17) [^320] Nem vonatkozik a (14) bekezdésben meghatározott tilalom a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben meghatározott oktatójármű igazolással rendelkező azon nehéz tehergépkocsira, amely a (14) bekezdésben meg nem határozott utakat a miniszteri rendelet szerinti gyakorlati oktatás vagy vizsgáztatás során is használja.
+(17) [^321] Nem vonatkozik a (14) bekezdésben meghatározott tilalom a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben meghatározott oktatójármű igazolással rendelkező azon nehéz tehergépkocsira, amely a (14) bekezdésben meg nem határozott utakat a miniszteri rendelet szerinti gyakorlati oktatás vagy vizsgáztatás során is használja.
 
 [^302]: A 48. § (4) bekezdését az 59/2004. (III. 31.) Korm. rendelet 11. § (3) bekezdése hatályon kívül helyezte, újonnan az 58/2007. (III. 31.) Korm. rendelet 7. § (1) bekezdése iktatta be.
 [^303]: A 48. § (5) bekezdése az 58/2007. (III. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
@@ -113,15 +113,16 @@ b) üzemben tartója telephelyére vagy telephelyéről
 [^306]: A Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
 [^307]: A 48. § (7) bekezdése a 226/2014. (IX. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^308]: A 48. § (8) bekezdését a 28/2001. (II. 15.) Korm. rendelet 28. §-ának (1) bekezdése hatályon kívül helyezte, újonnan az 58/2007. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 14. § (2) bekezdésének b) pontja alapján az autóbuszban ülve szállított gyermekek gyermekbiztonsági rendszerben történő kötelező elhelyezésére vonatkozó rendelkezéseket 2007. szeptember 1-jétől kell alkalmazni.
-[^309]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 8. §.
-[^310]: A 48. § (9) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^311]: A 48. § (10) bekezdése az 58/2007. (III. 31.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^312]: A 48. § (11) bekezdését az 59/2004. (III. 31.) Korm. rendelet 6. §-a iktatta be, szövege az 58/2007. (III. 31.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^313]: A 48. § (12) bekezdését az 58/2007. (III. 31.) Korm. rendelet 7. § (4) bekezdése iktatta be, nyitó szövegrésze a 129/2013. (IV. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^314]: A 48. § (12) bekezdés a) pontja a 129/2013. (IV. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^315]: A 48. § (13) bekezdését az 58/2007. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be.
-[^316]: A Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
-[^317]: A 48. § (14) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
-[^318]: A 48. § (15) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
-[^319]: A 48. § (16) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
-[^320]: A 48. § (17) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^309]: A 48. § (8) bekezdés d) pontja a 369/2025. (XI. 28.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^310]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 8. §.
+[^311]: A 48. § (9) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^312]: A 48. § (10) bekezdése az 58/2007. (III. 31.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^313]: A 48. § (11) bekezdését az 59/2004. (III. 31.) Korm. rendelet 6. §-a iktatta be, szövege az 58/2007. (III. 31.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^314]: A 48. § (12) bekezdését az 58/2007. (III. 31.) Korm. rendelet 7. § (4) bekezdése iktatta be, nyitó szövegrésze a 129/2013. (IV. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^315]: A 48. § (12) bekezdés a) pontja a 129/2013. (IV. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^316]: A 48. § (13) bekezdését az 58/2007. (III. 31.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^317]: A Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő szöveg.
+[^318]: A 48. § (14) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^319]: A 48. § (15) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^320]: A 48. § (16) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^321]: A 48. § (17) bekezdését a 209/2013. (VI. 18.) Korm. rendelet 51. § (1) bekezdése iktatta be.
