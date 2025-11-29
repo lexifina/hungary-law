@@ -38,8 +38,11 @@
 
 ## i) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi, hogy a Nemzeti Népegészségügyi és Gyógyszerészeti Központ a „Személyi dozimetriai rendszer beszerzése” tárgyú beszerzési eljárás vonatkozásában – annak becsült értéke alapján – a 2026. év kiadási előirányzata terhére legfeljebb 1 800 000 000 forint összeg mértékéig kötelezettséget vállaljon.
 
-## 2. A vízügyi igazgatási szervek vízkárelhárítási tevékenysége során károsodott vízi létesítmények, védművek helyreállítása, illetve a védekezési tevékenységhez köthetően felmerült eszközök visszapótlása érdekében többletforrás biztosításáról szóló 1067/2025. (III. 13.) Korm. határozat [a továbbiakban: 1067/2025. (III. 13.) Korm. határozat] 2. pont a) alpontjában az „1 257 481 036 forint” szövegrész helyébe az „1 219 958 536 forint” szöveg lép.
+## 2.[^1]
 
-## 3. Az 1067/2025. (III. 13.) Korm. határozat 2. pont c) alpontjában a „110 066 000 forint” szövegrész helyébe a „147 588 500 forint” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1521/2025. (XI. 28.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
