@@ -4,9 +4,9 @@
 
 | Határidő: | azonnal |
 
-## 2. visszavonja a Horizont Európa kutatási és innovációs keretprogram egyes partnerségeihez való csatlakozásról és a csatlakozáshoz szükséges pénzügyi fedezet biztosításáról szóló 1410/2022. (VIII. 18.) Korm. határozatot;
+## 2.[^1]
 
-## 3. visszavonja a Mórahalmi Komplex Fejlesztő Centrum létrehozásáról szóló 1264/2019. (V. 7.) Korm. határozatot.
+## 3.[^2]
 
 1. melléklet az 1512/2025. (XI. 28.) Korm. határozathoz
 
@@ -27,3 +27,6 @@
 | 7. | GINOP PLUSZ 2.1.1-24 | Új szálcsiszolt szénacél termékek innovatív porfestése, illetve előkezelő anyag kifejlesztése | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 117 000 000 | A projekt fő célja egy olyan előkezelésre használható anyag kifejlesztése vagy kutatása, mely környezetbarát, és képes egy lépésben zsírtalanítani és korrózióvédelmet növelni. Ezt a technológiát a csiszolási technológiánkkal és áttetsző porfestett lakkréteggel lehetne használni korrózióálló acélok kiváltására. |
 
 | 8. | GINOP PLUSZ 2.1.1-24 | Fenntartható fogpótlások előállítása fogtechnikai kerámia hulladék újrahasznosításával | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 129 700 000 | A projekt elsődleges célja annak bizonyítása, hogy a cirkónium-dioxid-alapú fogpótlások előállítása Digital Light Processing (DLP) additív gyártási technológiával és poszt-szintereléssel technológiailag megvalósítható, valamint gazdaságosan és fenntarthatóan integrálható a fogászati kisvállalkozások működésébe. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
