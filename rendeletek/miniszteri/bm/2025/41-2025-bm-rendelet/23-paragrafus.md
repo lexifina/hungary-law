@@ -1,3 +1,5 @@
 ## 12. A lakossági gyógyszerellátás során képződött gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 11/2017. (VI. 12.) EMMI rendelet módosítása
 
-23. § A lakossági gyógyszerellátás során képződött gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 11/2017. (VI. 12.) EMMI rendelet 9. § (1) bekezdésében a „gyűjtőedény telepíthető” szövegrész helyébe a „gyűjtőedényt kell telepíteni” szöveg lép.
+23. §[^31]
+
+[^31]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

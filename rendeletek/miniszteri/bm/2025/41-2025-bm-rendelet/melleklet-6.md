@@ -1,3 +1,3 @@
-6. melléklet a 41/2025. (IX. 29.) BM rendelethez[^36]
+6. melléklet a 41/2025. (IX. 29.) BM rendelethez[^37]
 
-[^36]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
