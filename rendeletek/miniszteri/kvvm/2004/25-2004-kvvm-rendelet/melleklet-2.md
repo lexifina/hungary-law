@@ -6,4 +6,4 @@
 
 2. melléklet a 25/2004. (XII. 20.) KvVM rendelethez[^19]
 
-[^19]: A 2. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, megjelölését 2. mellékletre változtatva újonnan a 13/2025. (VI. 2.) EM rendelet 3. § (1) bekezdése iktatta be.
+[^19]: A 2. számú mellékletet a 31/2019. (VI. 26.) AM rendelet 4. §-a hatályon kívül helyezte, megjelölését 2. mellékletre változtatva újonnan a 13/2025. (VI. 2.) EM rendelet 3. § (1) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 4. § (1) bekezdésével megállapított szöveg.
