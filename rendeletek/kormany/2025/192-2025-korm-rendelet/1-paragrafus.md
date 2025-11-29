@@ -6,10 +6,12 @@
 
 1. § (1) A Kormány a földgázellátás biztonságának fokozására rezsivédelmi készletezési szolgáltatást nyújt a földgázfelhasználók számára a földgázellátás biztonságának fokozása földgázellátási nehézségek esetén is.
 
-(2) A rezsivédelmi készletezési szolgáltatást a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) 2026. április 1-ig biztosítja.
+(2)[^1] A rezsivédelmi készletezési szolgáltatást a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) 2027. április 1-ig biztosítja.
 
 (3) A rezsivédelmi készletezési szolgáltatás biztosítására az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a Szövetséggel szerződést (a továbbiakban: rezsivédelmi készletezési szolgáltatási szerződés) köt. A rezsivédelmi készletezési szolgáltatási szerződés tartalmazza
 
 a) a rezsivédelmi készletezési szolgáltatás biztosítására vonatkozó kötelezettség részletes tartalmát és
 
 b) a rezsivédelmi készletezési szolgáltatás biztosításáért járó ellentételezés előzetes összegének megállapítására, kifizetésére és utólagos elszámolására vonatkozó részletes szabályokat.
+
+[^1]: Az 1. § (2) bekezdése a 370/2025. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
