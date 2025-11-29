@@ -1,3 +1,3 @@
-4. §[^4]
+4. § (1) A 25/2004. (XII. 20.) KvVM rendelet 2. melléklete helyébe a 3. melléklet lép.
 
-[^4]: A 4. § a 9. § (2) bekezdése alapján 2025. november 29-én lép hatályba.
+(2) A 25/2004. (XII. 20.) KvVM rendelet 3. melléklete helyébe a 4. melléklet lép.
