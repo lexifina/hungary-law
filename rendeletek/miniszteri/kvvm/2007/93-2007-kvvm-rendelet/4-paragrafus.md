@@ -20,11 +20,21 @@ mérlegelésével dönt.
 
 (1f)[^15] Üzemi és szabadidős létesítmények által okozott környezeti zajterhelés számításához, a létesítmények hatásterületének számítással történő lehatárolásához a létesítmény zajkibocsátását a 10. számú mellékletben foglaltak szerint kell meghatározni.
 
-(2)[^16] Vonalas közlekedési zajforrás kibocsátását az 5., 6., 8. és 9. számú mellékletben megadott mérési, számítási módszerrel kell meghatározni.
+(2)[^16] Vonalas közlekedési zajforrás kibocsátásának meghatározására
 
-(2a)[^17] A vasúti rendszer kölcsönös átjárhatóságáról szóló kormányrendelet szerinti nagysebességű vonalak (a továbbiakban: nagysebességű vonalak) zajkibocsátásának számításához a stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól szóló miniszteri rendeletben megadott számítási módszert kell alkalmazni.
+a) a közúti közlekedési zaj számítása vonatkozásában az 5. és 12. mellékletet,
 
-(2b)[^18] A (2) és (2a) bekezdés szerinti mérés, számítás esetén a végeredményt LAM zajmutatóban, a 11. számú mellékletben meghatározott megítélési pontra kell megadni.
+b) a közúti közlekedési zaj mérése vonatkozásában a 6. számú mellékletet,
+
+c) a vasúti közlekedési zaj számítása vonatkozásában a 8. és 13. mellékletet,
+
+d) a vasúti közlekedési zaj mérése vonatkozásában a 9. számú mellékletet
+
+kell alkalmazni.
+
+(2a)[^17] A nyílt villamospálya szakaszokon közlekedő villamosok zajkibocsátását a (2) bekezdés c) pontja szerint kell számítással meghatározni, de közúti közlekedési zajnak kell tekinteni.
+
+(2b)[^18]
 
 (2c)[^19] A csendes övezet, fokozottan védett terület és fokozottan zajos terület kijelölése érdekében végzett mérés, számítás eredményeinek zajtérképen való megjelenítése esetén a stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól szóló 25/2004. (XII. 20.) KvVM rendelet 2. §-ának, 7. § (2)–(5) bekezdésének, valamint 8. § (1)–(4) bekezdésének rendelkezéseit kell alkalmazni.
 
@@ -32,7 +42,13 @@ mérlegelésével dönt.
 
 (4) A légiközlekedési zaj mérését az MSZ 13- 183-3:1992 számú, illetve az MSZ 13-183-4:1992 számú szabvány alapján vagy azzal egyenértékű eredményt adó mérési módszerrel kell elvégezni.
 
-(5)[^20] A (2) bekezdésben meghatározott számítási és mérési módszertől eltérő módszer csak abban az esetben alkalmazható, ha az pontosabb eredményt ad és a mérést, illetve számítást végző ezt bizonyítja.
+(5)[^20] A (2) bekezdésben meghatározott mérési módszertől eltérő módszer csak abban az esetben alkalmazható, ha az pontosabb eredményt ad és a mérést, illetve számítást végző ezt bizonyítja.
+
+(6)[^21] A (2) bekezdésben foglalt számítási módszertől abban az esetben lehet eltérni,
+
+a) ha a zajforrás speciális jellege miatt a (2) bekezdés szerinti módszer nem alkalmazható, vagy
+
+b) ha az eltérő módszer szerinti számítás a (2) bekezdés szerinti módszernél pontosabb eredményt ad, és ezt a számítás végzője bizonyítja.
 
 [^9]: A 4. § (1) bekezdése a 91/2015. (XII. 23.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. § (1a) bekezdését a 91/2015. (XII. 23.) FM rendelet 4. § (2) bekezdése iktatta be, szövege a 8/2019. (III. 26.) AM rendelet 3. §-a szerint módosított szöveg.
@@ -41,8 +57,9 @@ mérlegelésével dönt.
 [^13]: A 4. § (1d) bekezdését a 91/2015. (XII. 23.) FM rendelet 4. § (2) bekezdése iktatta be.
 [^14]: A 4. § (1e) bekezdését a 91/2015. (XII. 23.) FM rendelet 4. § (2) bekezdése iktatta be.
 [^15]: A 4. § (1f) bekezdését a 33/2019. (VII. 9.) AM rendelet 2. § (1) bekezdése iktatta be.
-[^16]: A 4. § (2) bekezdése a 17/2023. (IX. 21.) EM rendelet 1. §-ával megállapított szöveg.
-[^17]: A 4. § (2a) bekezdését a 33/2019. (VII. 9.) AM rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2023. (IX. 21.) EM rendelet 1. §-ával megállapított szöveg.
-[^18]: A 4. § (2b) bekezdését a 17/2023. (IX. 21.) EM rendelet 2. §-a iktatta be.
+[^16]: A 4. § (2) bekezdése a 13/2025. (VI. 2.) EM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (2a) bekezdését a 33/2019. (VII. 9.) AM rendelet 2. § (2) bekezdése iktatta be, szövege a 13/2025. (VI. 2.) EM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (2b) bekezdését a 17/2023. (IX. 21.) EM rendelet 2. §-a iktatta be, a 13/2025. (VI. 2.) EM rendelet 8. § a) pontja hatályon kívül helyezte.
 [^19]: A 4. § (2c) bekezdését a 17/2023. (IX. 21.) EM rendelet 2. §-a iktatta be.
-[^20]: A 4. § (5) bekezdése a 91/2015. (XII. 23.) FM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 4. § (5) bekezdése a 91/2015. (XII. 23.) FM rendelet 8. § (1) bekezdése, a 13/2025. (VI. 2.) EM rendelet 8. § b) pontja szerint módosított szöveg.
+[^21]: A 4. § (6) bekezdését a 13/2025. (VI. 2.) EM rendelet 5. § (2) bekezdése iktatta be.

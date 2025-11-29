@@ -1,108 +1,6 @@
-## ahol
+## 5X03714.pdf
 
-## A, B, lrefállandók, értékük az 1. táblázat szerint,
-
-## Qi az i-edik vonatfajta forgalma, db/óra,
-
-## Vi az i-edik vonatfajta sebessége, km/óra,
-
-## pi az i-edik vonatfajtán belül a tárcsafékes szerelvények részaránya,
-
-## Kp a pályatípustól függő korrekció a 2. táblázat szerint,
-
-## Kk a hangjelzéstől függő korrekció a 3. táblázat szerint.
-
-## Az A, B és lref állandók
-
-## 9K04666_1
-
-|  |  | 1. táblázat |
-
-|  | A | B | C | D | E |
-
-| 1. | Állandó | Vonat kategóriák |
-
-| 2. | Személy | Teher | BDvmot | Bzmot |
-
-| 3. | lref, m | 200 | 380 | 150 | 50 |
-
-| 4. | A | +57 | +61 | +57 | +57 |
-
-| 5. | B | 0 | 0 | - 6 | +2 |
-
-## A pályatípustól függő korrekció
-
-## A hangjelzéstől függő korrekció
-
-## A kiindulási egyenértékű A-hangnyomásszintet a következő összefüggéssel kell kiszámítani:
-
-## ahol
-
-## m a számításnál figyelembe vett vonatfajták száma
-
-## FORGALMI ADATLAP
-
-## A vasútvonal neve: ................................................................................................................
-
-## A vonal száma: ......................................................................................................................
-
-## A vizsgált pálya, jellemzők: ....................................................................................................
-
-## Pályaszakasz kezdete, vége: ..................................................................................................
-
-## Mértékadó vonatforgalom a vizsgált vonatkoztatási időtartamra:
-
-## napközben (06-18 óra),
-
-## este (18-22 óra),
-
-## nappal (06-22 óra),
-
-## éjszaka (22-06 óra)
-
-## közötti* időszakra
-
-## 9K04666_5
-
-|  | A | B | C | D | E | F |
-
-| 1. | Vonattípus | Vonatfajta | Forgalom db | Tárcsafékes % | Átlagos sebesség km/óra** | Átlagos hossz m*** |
-
-| 2. | Személy | Nemzetközi gyors |  |  |  |  |
-
-| 3. |  | Belföldi expressz |  |  |  |  |
-
-| 4. |  | Belföldi gyors |  |  |  |  |
-
-| 5. |  | Távolsági személy |  |  |  |  |
-
-| 6. |  | Helyi személy összesen |  |  |  |  |
-
-| 7. |  | Szerelvényvonat |  |  |  |  |
-
-| 8. |  | Postavonat |  |  |  |  |
-
-| 9. | Bzmot | Bzmot sorozatú Diesel-motorvonat |  |  |  |  |
-
-| 10. | BDvmot | BDvmot sorozatú Ganz villamos motorvonat |  |  |  |  |
-
-| 11. | Teher | Gyorsteher |  |  |  |  |
-
-| 12. |  | Irányvonat |  |  |  |  |
-
-| 13. |  | Közvetlen teher |  |  |  |  |
-
-| 14. |  | Tolatós teher |  |  |  |  |
-
-| 15. |  | Forda teher |  |  |  |  |
-
-## * a megfelelő időszak aláhúzandó
-
-## ** a szolgálati menetrendkönyv szerinti alapsebességet kell beírni
-
-## *** az adott vonalon közlekedő szerelvények átlagos hosszát kell beírni
-
-9. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^44]
+9. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^52]
 
 A vasúti közlekedési zaj mérése
 
@@ -262,13 +160,11 @@ ahol
 
 n az összesen megmért elhaladások száma.
 
-5.2.3 A vasúti forgalomból származó zaj megítélési szintjét a vonatkoztatási ponton a következő összefüggéssel kell kiszámítani:
+5.2.3[^53] A vasúti forgalomból származó zaj megítélési szintjét a vonatkoztatási ponton a következő összefüggéssel kell kiszámítani:
 
-LAM,va= LAM,va,REF+ K
+## , ahol
 
-ahol
-
-LAM,va,REFa vonatkoztatási ponton a mértékadó forgalmi adatokból, a 8. számú melléklet szerint kiszámított zajterhelés.
+a) LAM,va,REF a vonatkoztatási ponton a mértékadó forgalmi adatokból, a 8. számú melléklet és a 2015/996 bizottsági irányelv mellékletének 2.5. pontja szerint számított, a megítélési időre vonatkoztatott egyenértékű A-hangnyomásszint (dB(A))
 
 6. A vizsgálati eredmények közlése
 
@@ -296,7 +192,7 @@ j) az egyes mérések elvégzésének módja, időpontja és időtartama,
 
 k) a helyszíni mérési eredmények, illetve mérési adatok, beleértve az alapzaj mérését stb.,
 
-l) a 8. számú melléklet 4. táblázat szerinti Forgalmi Adatlap kitöltve,
+l)[^54] a vizsgált szakasz LAM,va,REF hangnyomásszintjének meghatározásához felhasznált bemenő adatok bemutatása,
 
 m) a mérési adatok feldolgozása, az elvégzett számítások és közbenső mérési eredmények (korrekciók stb.),
 
@@ -310,4 +206,6 @@ q) a vizsgálatot végzők neve,
 
 r) a vizsgálatokért felelős vezető neve, aláírása.
 
-[^44]: A 9. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (4) bekezdése iktatta be.
+[^52]: A 9. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (4) bekezdése iktatta be.
+[^53]: A 9. számú melléklet 5.2. pont 5.2.3 alpontja a 13/2025. (VI. 2.) EM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^54]: A 9. számú melléklet 6. pont l) alpontja a 13/2025. (VI. 2.) EM rendelet 7. § (4) bekezdésével megállapított szöveg.
