@@ -1,4 +1,4 @@
-10. §[^94] (1) Az építész tervező a záradékolt építészeti-műszaki dokumentációtól való eltéréshez szükséges hozzájáruló nyilatkozatát az e-építési naplóban teszi meg, ha – az atomenergia alkalmazására szolgáló építmény kivételével – az épület, épületrész
+10. §[^95] (1) Az építész tervező a záradékolt építészeti-műszaki dokumentációtól való eltéréshez szükséges hozzájáruló nyilatkozatát az e-építési naplóban teszi meg, ha – az atomenergia alkalmazására szolgáló építmény kivételével – az épület, épületrész
 
 a) építése építési engedélyhez vagy egyszerű bejelentéshez kötött,
 
@@ -24,4 +24,4 @@ d) a megvalósulási dokumentáció az épület külső megjelenése, azon belü
 
 e) a használatbavételhez hozzájárul-e, ha nem, annak építészeti indokait rögzítenie kell.
 
-[^94]: A 10. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 93. § h) pontja hatályon kívül helyezte. A 10. §-t újonnan a 286/2024. (IX. 30.) Korm. rendelet 23. §-a iktatta be.
+[^95]: A 10. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 93. § h) pontja hatályon kívül helyezte. A 10. §-t újonnan a 286/2024. (IX. 30.) Korm. rendelet 23. §-a iktatta be.

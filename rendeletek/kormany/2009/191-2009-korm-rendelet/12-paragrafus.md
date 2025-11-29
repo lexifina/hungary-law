@@ -1,12 +1,12 @@
 ## A kivitelező
 
-12. § (1)[^98] Építőipari kivitelezési tevékenységet – a Méptv. 188. § (4) bekezdésében foglaltakon túlmenően – a vállalkozó kivitelező akkor vállalhat, ha
+12. § (1)[^99] Építőipari kivitelezési tevékenységet – a Méptv. 188. § (4) bekezdésében foglaltakon túlmenően – a vállalkozó kivitelező akkor vállalhat, ha
 
 a) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzéke a vállalkozó kivitelezőre vonatkozóan tartalmazza a vállalt tevékenységet, és
 
 b) a vállalkozó kivitelező a vállalt kivitelezői tevékenység végzésében közvetlenül részt vesz.
 
-(1a)[^99] A vállalkozó kivitelező olyan építőipari kivitelezési tevékenységet vállalhat,
+(1a)[^100] A vállalkozó kivitelező olyan építőipari kivitelezési tevékenységet vállalhat,
 
 a) amelyhez
 
@@ -32,9 +32,9 @@ c) amelynek végzésére vonatkozóan az építtetővel vagy – alvállalkozói
 
 d) amelynek végzését az építésügyi hatóság nem tiltotta meg.
 
-(1b)[^100] A vállalkozó kivitelezőnek – az atomenergia alkalmazására szolgáló, a honvédelmi és katonai, valamint a nemzetbiztonsági célú építmények kivételével – munkaviszonyban kell alkalmaznia a felelős műszaki vezetőt, ha az építőipari kivitelezési tevékenység 17. § (3) bekezdésében meghatározott értéke a Kbt. szerinti közösségi értékhatárt eléri vagy meghaladja.
+(1b)[^101] A vállalkozó kivitelezőnek – az atomenergia alkalmazására szolgáló, a honvédelmi és katonai, valamint a nemzetbiztonsági célú építmények kivételével – munkaviszonyban kell alkalmaznia a felelős műszaki vezetőt, ha az építőipari kivitelezési tevékenység 17. § (3) bekezdésében meghatározott értéke a Kbt. szerinti közösségi értékhatárt eléri vagy meghaladja.
 
-(2)[^101] A vállalkozó kivitelező feladata a Méptv.-ben foglaltakon túlmenően
+(2)[^102] A vállalkozó kivitelező feladata a Méptv.-ben foglaltakon túlmenően
 
 1. az építőipari kivitelezési tevékenység
 
@@ -80,9 +80,9 @@ b) megkezdésekor az építtetőtől – alvállalkozó kivitelező esetében a 
 
 20. a kivitelezési dokumentáció építésszervezési munkarészének elkészítése.
 
-(2a)[^102] Amennyiben az eltakarásra kerülő szerkezetek ellenőrzésekor kiderül, hogy az nem felel meg az építtető és az építési műszaki ellenőr által indokoltan kért vizsgálatok követelményeinek, úgy a hibás szerkezetrészhez kapcsolódó további munkarészek a hibák kijavításáig nem kezdhetők el.
+(2a)[^103] Amennyiben az eltakarásra kerülő szerkezetek ellenőrzésekor kiderül, hogy az nem felel meg az építtető és az építési műszaki ellenőr által indokoltan kért vizsgálatok követelményeinek, úgy a hibás szerkezetrészhez kapcsolódó további munkarészek a hibák kijavításáig nem kezdhetők el.
 
-(3)[^103] A vállalkozó kivitelezőnek
+(3)[^104] A vállalkozó kivitelezőnek
 
 a) a (2) bekezdés e) pontjában meghatározott feladat teljesítésével kapcsolatos költségeit annak elszámolása esetén az építtető köteles megtéríteni,
 
@@ -90,7 +90,7 @@ b) az építtető köteles megtéríteni a 7. § (2) bekezdés d) pontjában meg
 
 c) a (2) bekezdés n) pontjában és a (2a) bekezdésben meghatározott kötelezettségei elmulasztása esetén a későbbi ellenőrzések során szükségessé váló építési tevékenységek költségeit viselnie kell.
 
-(4)[^104] A (2) bekezdésben foglaltakon túlmenően a fővállalkozó kivitelező feladata
+(4)[^105] A (2) bekezdésben foglaltakon túlmenően a fővállalkozó kivitelező feladata
 
 a) ha az építtető nem jelölte ki, az alvállalkozó kivitelezők kiválasztása,
 
@@ -98,15 +98,15 @@ b) az alvállalkozó kivitelezőkkel történő egyeztetések koordinálása, te
 
 c) az építési napló vezetése, külön megállapodás esetén az alvállalkozói építési napló vezetése.
 
-d)[^105] az építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység esetén az alapozás elkészültét az azt követő három napon belül az illetékes építésügyi hatóságnak az e-építési naplón keresztül – eseti bejegyzéssel – bejelenteni,
+d)[^106] az építési engedélyhez vagy egyszerű bejelentéshez kötött építési tevékenység esetén az alapozás elkészültét az azt követő három napon belül az illetékes építésügyi hatóságnak az e-építési naplón keresztül – eseti bejegyzéssel – bejelenteni,
 
-e)[^106] az építési műszaki ellenőr vagy eltérő megállapodás esetén az építtető által kiadott teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása, valamint
+e)[^107] az építési műszaki ellenőr vagy eltérő megállapodás esetén az építtető által kiadott teljesítésigazolás alapján a szerződés szerinti teljesítésről (részteljesítésről) kiállított számlának az építtető, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő részére történő eljuttatása, valamint
 
-f)[^107] a teljesítésigazolás alapján kiállított számla kifizetése az alvállalkozó kivitelező részére, ha nincs építtetői fedezetkezelés.
+f)[^108] a teljesítésigazolás alapján kiállított számla kifizetése az alvállalkozó kivitelező részére, ha nincs építtetői fedezetkezelés.
 
-(5)[^108] A vállalkozó kivitelező a saját e-építési naplójának a vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél elfogadásával a vállalkozó kivitelező e-építési naplójában kell rögzíteni.
+(5)[^109] A vállalkozó kivitelező a saját e-építési naplójának a vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél elfogadásával a vállalkozó kivitelező e-építési naplójában kell rögzíteni.
 
-(6)[^109] Az építőipari kivitelezési tevékenység építési szakmunkáit vagy annak egyes munkafázisait saját részre vagy a Ptk. szerinti hozzátartozó részére a vállalkozó kivitelezői tevékenység végzésére nem jogosult személy is végezheti
+(6)[^110] Az építőipari kivitelezési tevékenység építési szakmunkáit vagy annak egyes munkafázisait saját részre vagy a Ptk. szerinti hozzátartozó részére a vállalkozó kivitelezői tevékenység végzésére nem jogosult személy is végezheti
 
 a) szakirányú szakképesítés nélkül,
 
@@ -118,15 +118,15 @@ b) szakirányú szakképesítéssel azt a szakmunkát vagy munkafázist, amelyre
 
 a szakmai szabályok betartása mellett.
 
-[^98]: A 12. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg, nyitó szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 46. § 21. pontja szerint módosított szöveg.
-[^99]: A 12. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^100]: A 12. § (1b) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 25. § (1) bekezdése iktatta be.
-[^101]: A 12. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^102]: A 12. § (2a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (7) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 22. pontja szerint módosított szöveg.
-[^103]: A 12. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 11. § (8) bekezdésével megállapított, nyitó szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 46. § 23. pontja szerint módosított szöveg.
-[^104]: A 12. § (4) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ec) alpontja szerint módosított szöveg.
-[^105]: A 12. § (4) bekezdés d) pontját a 286/2024. (IX. 30.) Korm. rendelet 25. § (3) bekezdése iktatta be.
-[^106]: A 12. § (4) bekezdés e) pontját a 286/2024. (IX. 30.) Korm. rendelet 25. § (3) bekezdése iktatta be.
-[^107]: A 12. § (4) bekezdés f) pontját a 286/2024. (IX. 30.) Korm. rendelet 25. § (3) bekezdése iktatta be.
-[^108]: A 12. § (5) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 68. § (2) bekezedésével megállapított, a 482/2016. (XII. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^109]: A 12. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (9) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^99]: A 12. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg, nyitó szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 46. § 21. pontja szerint módosított szöveg.
+[^100]: A 12. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^101]: A 12. § (1b) bekezdését a 286/2024. (IX. 30.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^102]: A 12. § (2) bekezdése a 286/2024. (IX. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^103]: A 12. § (2a) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (7) bekezdése iktatta be, szövege a 286/2024. (IX. 30.) Korm. rendelet 46. § 22. pontja szerint módosított szöveg.
+[^104]: A 12. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 11. § (8) bekezdésével megállapított, nyitó szövegrésze a 286/2024. (IX. 30.) Korm. rendelet 46. § 23. pontja szerint módosított szöveg.
+[^105]: A 12. § (4) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ec) alpontja szerint módosított szöveg.
+[^106]: A 12. § (4) bekezdés d) pontját a 286/2024. (IX. 30.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+[^107]: A 12. § (4) bekezdés e) pontját a 286/2024. (IX. 30.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+[^108]: A 12. § (4) bekezdés f) pontját a 286/2024. (IX. 30.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+[^109]: A 12. § (5) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 68. § (2) bekezedésével megállapított, a 482/2016. (XII. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^110]: A 12. § (6) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (9) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2024-11-29 | 2009-191-20-22.44 | 286/2024. (IX. 30.) Korm. rendelet |
 | 2025-03-01 | 2009-191-20-22.45 | 482/2016. (XII. 28.) Korm. rendelet |
 | 2025-08-28 | 2009-191-20-22.46 | 284/2025. (VIII. 25.) Korm. rendelet |
+| 2025-11-29 | 2009-191-20-22.47 | 374/2025. (XI. 28.) Korm. rendelet |

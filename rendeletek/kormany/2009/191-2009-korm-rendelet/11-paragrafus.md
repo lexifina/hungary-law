@@ -1,4 +1,4 @@
-## A költségszakértő[^97]
+## A költségszakértő[^98]
 
 11. § (1) Az építtető és a vállalkozó kivitelező az építési beruházással kapcsolatos gazdasági, gazdaságossági, pénzügyi tervezési és ezekkel kapcsolatos döntés-előkészítési feladatokra költségszakértőt bízhat meg.
 
@@ -16,4 +16,4 @@ c) a költségváltozási kockázat elemzése, valamint
 
 d) a költségérzékenységi vizsgálat.
 
-[^97]: A 11. §-t a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont ge) alpontja, a 11. §-t megelőző az „Összeférhetetlenségi szabályok” alcím címet a 286/2024. (IX. 30.) Korm. rendelet 47. § 9. pontja hatályon kívül helyezte. Az „A költségszakértő” alcímet (11. §-t) újonnan a 286/2024. (IX. 30.) Korm. rendelet 24. §-a iktatta be.
+[^98]: A 11. §-t a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont ge) alpontja, a 11. §-t megelőző az „Összeférhetetlenségi szabályok” alcím címet a 286/2024. (IX. 30.) Korm. rendelet 47. § 9. pontja hatályon kívül helyezte. Az „A költségszakértő” alcímet (11. §-t) újonnan a 286/2024. (IX. 30.) Korm. rendelet 24. §-a iktatta be.

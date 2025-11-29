@@ -1,6 +1,6 @@
 ## A tervezői művezető
 
-15. §[^130] (1) A tervezői művezető feladata, hogy
+15. §[^131] (1) A tervezői művezető feladata, hogy
 
 a) szakmai tudásával, tapasztalatával az építészeti-műszaki és a kivitelezési dokumentáció szerinti megvalósítást elősegítse, valamint
 
@@ -10,4 +10,4 @@ b) a záradékolt építészeti-műszaki dokumentációtól vagy a kivitelezési
 
 (3) A tervezői művezető nem végezhet felelős műszaki vezetői tevékenységet azon építőipari kivitelezési tevékenység esetében, ahol tervezői művezetői feladatokat lát el.
 
-[^130]: A 15. § a 286/2024. (IX. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^131]: A 15. § a 286/2024. (IX. 30.) Korm. rendelet 27. §-ával megállapított szöveg.

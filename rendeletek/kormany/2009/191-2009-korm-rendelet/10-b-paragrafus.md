@@ -1,4 +1,4 @@
-10/B. §[^96] (1) Az építtető az építészeti-műszaki dokumentáció és a kivitelezési dokumentáció a jogszabályoknak, a szakmai szabályoknak, valamint az építtetői elvárások ellenőrzésére tervellenőrt bízhat meg.
+10/B. §[^97] (1) Az építtető az építészeti-műszaki dokumentáció és a kivitelezési dokumentáció a jogszabályoknak, a szakmai szabályoknak, valamint az építtetői elvárások ellenőrzésére tervellenőrt bízhat meg.
 
 (2) A tervellenőri feladatok ellátására az építtető az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben meghatározott tervellenőrrel írásbeli szerződést köt.
 
@@ -42,4 +42,4 @@ e) a tervellenőrzési díj összegét, az elszámolás és a teljesítésigazol
 
 (6) Az (5) bekezdésben nem szabályozott kérdésekben a Ptk. rendelkezései az irányadóak.
 
-[^96]: A 10/B. §-t a 286/2024. (IX. 30.) Korm. rendelet 23. §-a iktatta be.
+[^97]: A 10/B. §-t a 286/2024. (IX. 30.) Korm. rendelet 23. §-a iktatta be.

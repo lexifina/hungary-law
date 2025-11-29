@@ -1,4 +1,4 @@
-14. §[^129] Az építőipari kivitelezési tevékenység befejezését, valamint az építész tervező, a „rehabilitációs környezettervezés területén gyakorlott” címmel rendelkező szakmagyakorló és a felelős műszaki vezető e rendelet szerinti nyilatkozatának beszerzését követően a fővállalkozó kivitelező az e-építési napló összesítő lapján arról nyilatkozik, hogy
+14. §[^130] Az építőipari kivitelezési tevékenység befejezését, valamint az építész tervező, a „rehabilitációs környezettervezés területén gyakorlott” címmel rendelkező szakmagyakorló és a felelős műszaki vezető e rendelet szerinti nyilatkozatának beszerzését követően a fővállalkozó kivitelező az e-építési napló összesítő lapján arról nyilatkozik, hogy
 
 a) az elvállalt építőipari kivitelezési tevékenységet
 
@@ -22,4 +22,4 @@ g) az építési munkaterületen képződött építési-bontási hulladék menn
 
 h) az építmény rendeltetésszerű és biztonságos használatra alkalmas állapotban van.
 
-[^129]: A 14. § a 286/2024. (IX. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^130]: A 14. § a 286/2024. (IX. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
