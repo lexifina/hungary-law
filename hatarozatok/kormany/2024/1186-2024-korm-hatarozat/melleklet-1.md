@@ -34,17 +34,19 @@
 
 ## 1.7. felkéri az Országos Bírósági Hivatalt, az Országos Bírói Tanácsot és a Legfőbb Ügyészséget az Intézkedési Tervben foglalt feladatok megvalósításában való közreműködésre;
 
-## 1.8. felhívja az érintett minisztereket, hogy az Intézkedési Tervben foglalt feladatok végrehajtásáról készítsenek tájékoztatót a belügyminiszter részére;
+## 1.8. [^2] felhívja az érintett minisztereket, hogy az Intézkedési Tervben foglalt feladatok végrehajtásáról készítsenek tájékoztatót a belügyminiszter részére;
 
 | Felelős: | érintett miniszterek |
 
-| Határidő: | 2026. május 31. |
+| Határidő: | 2027. január 31. |
 
-## 1.9. felhívja a belügyminisztert, hogy az 1.8. alpontban foglaltak szerint elkészített tájékoztatók alapján készítsen jelentést a Kormány részére az Intézkedési Tervben foglalt feladatok végrehajtásáról.
+## 1.9. [^3] felhívja a belügyminisztert, hogy az 1.8. alpontban foglaltak szerint elkészített tájékoztatók alapján készítsen jelentést a Kormány részére az Intézkedési Tervben foglalt feladatok végrehajtásáról.
 
 | Felelős: | belügyminiszter |
 
-| Határidő: | 2026. október 31. |
+| Határidő: | 2027. május 31. |
+
+## 1.10. [^4] elrendeli, hogy az Intézkedési Terv legkésőbb 2025. december 31-én lejáró, valamint folyamatos határidejű intézkedéseinek végrehajtása az Országos Fogyatékosságügyi Program végrehajtásának 2026–2027. évekre vonatkozó Intézkedési Tervéről szóló kormányhatározat (a továbbiakban: új Intézkedési Terv) hatálybalépéséig, de legfeljebb 2026. szeptember 30-ig történjen meg, valamint a 2. mellékletben foglalt táblázat F oszlopa szerinti, a célérték elérésének várható időpontja az új Intézkedési Terv hatálybalépéséig, de legfeljebb 2026. szeptember 30-ig hosszabbodjon meg.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -693,3 +695,7 @@ Az Országos Fogyatékosságügyi Program végrehajtásának 2024–2025. évekr
 | Határidő: | 2025. december 31. |
 
 |  | Forrás: forrásbevonást nem igényel |
+
+[^2]: Az 1. pont 1.8. alpontja az 1509/2025. (XI. 28.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. pont 1.9. alpontja az 1509/2025. (XI. 28.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont 1.10. alpontját az 1509/2025. (XI. 28.) Korm. határozat 1. pontja iktatta be.

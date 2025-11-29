@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1186-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-06-29 | 2024-1186-30-22.1 | 1186/2024. (VI. 28.) Korm. határozat |
+| 2025-11-29 | 2024-1186-30-22.2 | 1509/2025. (XI. 28.) Korm. határozat |
