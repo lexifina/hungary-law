@@ -10,9 +10,7 @@
 
 ## „c) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció rövid tartalmi leírása, ideértve a konstrukció közismert nevét, ha van ilyen, valamint a konstrukcióval érintett gazdasági tevékenység bemutatását, valamint olyan egyéb információt, amely az esetleges adókockázat értékelésében a másik tagállam hatáskörrel rendelkező hatóságát segítheti, anélkül hogy az kereskedelmi, gazdasági vagy szakmai titok, kereskedelmi eljárás, vagy olyan információ felfedésével járna, amelynek közlése sérti a közrendet,”
 
-(3) Az Aktv. 43/Y. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 43/U. § szerinti adatszolgáltatásra kötelezett e kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti.”
+(3)
 
 (4) Az Aktv. 43/Y. § (6) bekezdése helyébe a következő rendelkezés lép:
 
