@@ -38,6 +38,8 @@ g)[^277] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § 
 
 (8) A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
+(9)[^278] A honvédelmi és haderőfejlesztési program keretében beérkező gépjárművek első forgalomba helyezésük során mentesülnek az előzetes eredetiségvizsgálat elvégzése alól.
+
 [^270]: Az 52. § (1) bekezdés a) pontja az 516/2017. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^271]: Az 52. § (1) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^272]: Az 52. § (1) bekezdés d) pontja az 572/2020. (XII. 9.) Korm. rendelet 45. § 19. pontja szerint módosított szöveg.
@@ -46,3 +48,4 @@ g)[^277] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § 
 [^275]: Az 52. § (7) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § i) pontja szerint módosított szöveg.
 [^276]: Az 52. § (7) bekezdés f) pontja a 104/2024. (V. 9.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^277]: Az 52. § (7) bekezdés g) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (5) bekezdése iktatta be, szövege a 289/2018. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^278]: Az 52. § (9) bekezdését a 369/2025. (XI. 28.) Korm. rendelet 4. §-a iktatta be.
