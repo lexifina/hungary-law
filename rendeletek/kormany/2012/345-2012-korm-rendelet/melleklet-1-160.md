@@ -110,7 +110,7 @@
 
 ## 1.1.54. Az M49 gyorsforgalmi út, M3 autópálya (Vaja) és Ököritófülpös (Porcsalma) közötti szakasz megvalósítása.
 
-## 1.1.55. Az M60 gyorsforgalmi út Pécs és Szigetvár közötti szakasz megvalósítása.
+## 1.1.55. Az M60 gyorsforgalmi út Pécs és Szigetvár közötti szakasz megvalósítása mérnökségi teleppel.
 
 ## 1.1.56. Az M60 gyorsforgalmi út Szigetvár és Barcs, országhatár közötti szakasz megvalósítása.
 
@@ -170,11 +170,11 @@
 
 ## 1.1.84. Az M44 gyorsforgalmi út Békéscsaba és Méhkerék, országhatár közötti szakasz megvalósítása kapcsolódó mérnökségi telepekkel.
 
-## 1.1.85. Kaposvár–Szigetvár gyorsforgalmi összeköttetése kapcsolódó mérnökségi teleppel.
+## 1.1.85. Kaposvár–Szigetvár gyorsforgalmi összeköttetése.
 
 ## 1.1.86. Az M3 autópálya Gödöllő (M31 csomópont) – Gyöngyös nyugati csomópont 2×3 sávra bővítése.
 
-## 1.1.87. Az M4 gyorsforgalmi út, Kisújszállás és Püspökladány közötti szakasz megvalósítása kapcsolódó mérnökségi teleppel.
+## 1.1.87. Az M4 gyorsforgalmi út, Kisújszállás és Püspökladány közötti szakasz megvalósítása.
 
 ## 1.1.88. Az M49 gyorsforgalmi út, Ököritófülpös (Porcsalma) és Csenger, országhatár közötti szakasz megvalósítása.
 

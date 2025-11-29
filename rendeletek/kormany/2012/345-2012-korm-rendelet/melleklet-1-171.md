@@ -136,7 +136,7 @@
 
 ## 1.2.129. A 66. számú főút, Pécs és Sásd közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
 
-## 1.2.130. A Karcag keleti elkerülő megvalósítása.
+## 1.2.130. A Karcag keleti elkerülő megvalósítása meglévő kisújszállási mérnökségi telep felújításával.
 
 ## 1.2.131. A 45. számú főút, Kunszentmárton és Hódmezővásárhely közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
 
@@ -158,7 +158,7 @@
 
 ## 1.2.140. Az 1. számú főút, Tatabánya, 48+995 km szelvényben lévő csomópont fejlesztése.
 
-## 1.2.141. A 37. számú főút Szerencs–Sátoraljaújhely szakasz teljes rekonstrukciója,
+## 1.2.141. A 37. számú főút Szerencs–Sátoraljaújhely szakasz fejlesztése,
 
 ## 1.2.142. A 39. számú főút Mezőzombor–Abaújkér szakasz felújítása,
 
