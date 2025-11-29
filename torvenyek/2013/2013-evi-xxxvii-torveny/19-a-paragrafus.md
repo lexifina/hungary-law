@@ -1,4 +1,4 @@
-19/A. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, a 2014. január 1-jétől kezdődő adómegállapítási időszakokat illetően, legkésőbb az információ rendelkezésre állásának adóévét követő év június 30-ig közli más tagállam hatáskörrel rendelkező hatóságával a (2) bekezdésben meghatározott jövedelem- és tőkekategóriákra vonatkozóan az Európai Unió más tagállamában illetőséggel rendelkező adózóról a nyilvántartása alapján rendelkezésére álló információkat, valamint – ha az rendelkezésre áll – a 2024. január 1-jétől kezdődő adómegállapítási időszakokat illetően az Európai Unió más tagállamában illetőséggel rendelkező adózó részére az illetőségének tagállama által kiadott adóazonosító számot.
+19/A. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében, legkésőbb az információ rendelkezésre állásának adóévét követő év június 30-ig közli más tagállam hatáskörrel rendelkező hatóságával a (2) bekezdésben meghatározott jövedelem- és tőkekategóriákra vonatkozóan az Európai Unió más tagállamában illetőséggel rendelkező adózóról a nyilvántartása alapján rendelkezésére álló információkat, valamint – ha az rendelkezésre áll – a 2024. január 1-jétől kezdődő adómegállapítási időszakokat illetően az Európai Unió más tagállamában illetőséggel rendelkező adózó részére az illetőségének tagállama által kiadott adóazonosító számot.
 
 (2) Az (1) bekezdés szerinti jövedelem- és tőkekategóriák a következők:
 
@@ -12,4 +12,6 @@ d) nyugdíj;
 
 e) ingatlan tulajdonjogának ténye és az ingatlan hasznosításából származó jövedelem;
 
-f) jogdíj.
+f) jogdíj;
+
+g) a 2011/96/EU tanácsi irányelv 4., 5. és 6. cikke alapján a társasági adó alól mentes osztalékbevételtől eltérő, nem letéti jellegű osztalékbevétel.

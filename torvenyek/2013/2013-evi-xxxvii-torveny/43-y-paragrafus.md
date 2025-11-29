@@ -2,11 +2,11 @@
 
 (2) Az (1) bekezdés szerinti információk a következők:
 
-a) az adótervezésben közreműködő és az érintett adózó azonosító adatai (név, cím, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik), valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,
+a) az adótervezésben közreműködő – az adatszolgáltatási kötelezettség alól a 43/W. § (1) bekezdése alapján mentesülő adótervezésben közreműködők kivételével – és az érintett adózó azonosító adatai – név, cím, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik –, valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,
 
 b) a határokon átnyúló konstrukcióra vonatkozó adatszolgáltatási kötelezettséget keletkeztető, a 4. mellékletben meghatározott ismertetőjegy(ek) részletes leírása,
 
-c) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció rövid leírása, (ideértve a konstrukció közismert nevét, ha van ilyen, valamint a konstrukcióval érintett gazdasági tevékenység bemutatását, anélkül hogy a leírás kereskedelmi, gazdasági vagy szakmai titok, kereskedelmi eljárás, vagy olyan információ felfedésével járna, amelynek közlése sérti a közrendet),
+c) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció rövid tartalmi leírása, ideértve a konstrukció közismert nevét, ha van ilyen, valamint a konstrukcióval érintett gazdasági tevékenység bemutatását, valamint olyan egyéb információt, amely az esetleges adókockázat értékelésében a másik tagállam hatáskörrel rendelkező hatóságát segítheti, anélkül hogy az kereskedelmi, gazdasági vagy szakmai titok, kereskedelmi eljárás, vagy olyan információ felfedésével járna, amelynek közlése sérti a közrendet,
 
 d) az az időpont, amikor az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció végrehajtásának első lépésére sor került vagy sor fog kerülni,
 
@@ -24,4 +24,4 @@ h) azon más tagállambeli személyek és a hozzájuk kapcsolódó tagállamok m
 
 (5) Az állami adó- és vámhatóság az e §-ban meghatározott automatikus információcsere tárgyát képező adatokat az Európai Bizottság által a 2011/16/EU tanácsi irányelv 26. cikk (2) bekezdése szerinti eljárásnak megfelelően meghatározott nyelvhasználati szabályok szerint továbbítja. E nyelvhasználati szabályok hiányában a 16. § (4) bekezdésében foglaltak megfelelően alkalmazandók.
 
-(6) Az állami adóhatóság megküldi az adópolitikáért felelős miniszter, valamint az Európai Bizottság részére az e fejezetben szabályozott automatikus információcsere hatékonyságáról, valamint a gyakorlatban elért eredményekről szóló éves értékelés, valamint a 4. mellékletben foglalt ismertetőjegyek felülvizsgálatáról szóló kétéves értékelés adatait.
+(6) Az állami adó- és vámhatóság megküldi az adópolitikáért felelős miniszter, valamint az Európai Bizottság részére az e fejezetben szabályozott automatikus információcsere hatékonyságáról, valamint a gyakorlatban elért eredményekről szóló éves értékelés adatait.

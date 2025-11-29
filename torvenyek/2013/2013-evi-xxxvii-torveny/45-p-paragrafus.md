@@ -5,3 +5,5 @@
 (3) Az állami adó- és vámhatóság a 21/B. § (3) bekezdésében meghatározott kötelezettségét először a 2023. január 1-jétől kezdődő Adatszolgáltatási időszak utolsó napját követő két hónapon belül teljesíti.
 
 (4) A 42/H. § (10) bekezdésében foglalt rendelkezéseket az e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
+
+(5) Az Adatszolgáltatásra kötelezett platformüzemeltetőnek más államok vonatkozásában a 21/B. § (1) bekezdésében előírt adatszolgáltatási kötelezettsége először a 2026. január 1-jén vagy azt követően kezdődő Adatszolgáltatási időszak tekintetében keletkezik.

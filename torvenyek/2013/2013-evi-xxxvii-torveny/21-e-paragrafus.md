@@ -1,4 +1,4 @@
-21/E. § (1) Az állami adó- és vámhatóság kéri az Európai Bizottságtól az 5. melléklet I/A/4. pont b) alpontjában meghatározott Adatszolgáltatásra kötelezett platformüzemeltető Központi nyilvántartásból való törlését, ha:
+21/E. § (1) Az állami adó- és vámhatóság törli az 5. melléklet I/A/4. pont b) alpontjában meghatározott Adatszolgáltatásra kötelezett platformüzemeltetőt a Központi nyilvántartásból, ha:
 
 a) az erről szóló értesítés alapján az állami adó- és vámhatóság tudomást szerez arról, hogy a Platformüzemeltető ilyen minőségében már nem folytat tevékenységet;
 

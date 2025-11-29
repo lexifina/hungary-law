@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti információt
 
-a) 5. § (1) bekezdésben és 6. §-ban meghatározott adókra vonatkozó magyar jogszabályok és az érintett tagállam(ok) jogszabályai végrehajtása céljából, vagy
+a) az 5. § (1) bekezdésben és 6. §-ban meghatározott adókra vonatkozó magyar jogszabályok és az érintett tagállam vagy tagállamok jogszabályai, valamint a pénzmosás és terrorizmusfinanszírozás elleni fellépésre vonatkozó szabályozás vizsgálata, kezelése és végrehajtása céljából, vagy
 
 b) az a) pont szerinti adókkal kapcsolatos olyan bírósági vagy közigazgatási eljárások során, amelyekben az ilyen adókkal kapcsolatos jogszabályok megsértése esetén hátrányos jogkövetkezmények megállapításának lehet helye,
 
@@ -12,7 +12,9 @@ c) a 22. § (1)–(2) bekezdésében meghatározott követelések és a kötelez
 
 ## A b) pont szerinti esetben az információ felhasználása nem járhat a bírósági vagy közigazgatási eljárásban részt vevő személyek jogait szabályozó általános rendelkezések sérelmével.
 
-(3) Az (1) bekezdés szerinti információt a magyar megkeresett hatóság, illetve magyar megkereső hatóság a (2) bekezdéstől eltérő célra az információt szolgáltató hatáskörrel rendelkező hatóság engedélyével használhatja fel. Az információt szolgáltatóként a magyar megkereső hatóság, illetve magyar megkeresett hatóság az (1) bekezdéstől eltérő célra való felhasználást akkor engedélyezi, ha az információ e célra való felhasználását a magyar jogszabályok lehetővé teszik.
+(3a) A magyar megkereső hatóság a kapott információkat és dokumentumokat az Európai Unió Működéséről szóló szerződés 215. cikkén alapuló jogi aktus hatálya alá tartozó bármely célra a (3) bekezdésben meghatározott engedély nélkül felhasználhatja, és továbbíthatja a korlátozó intézkedésekért felelős hatáskörrel rendelkező hatóságnak.
+
+(4) A megkereső vagy megkeresett hatóság tagállamától eltérő tagállam hatáskörrel rendelkező hatósága (harmadik fél) részére a magyar megkeresett hatóság az adómegállapítási jogsegély teljesítése során szerzett információt akkor továbbíthatja, ha megítélése szerint az információ a harmadik félnek hasznos lehet, és az információt szolgáltató megkeresett vagy megkereső hatóság az információ továbbítását nem ellenezte. A magyar megkeresett hatóság az információ továbbítását megelőzően tájékoztatja az információt szolgáltató megkereső vagy megkeresett hatóságot az információ továbbításának szándékáról. Ha e hatóság a tájékoztatás beérkezésétől számított tizenöt napon belül ellenzi az információ továbbítását, a magyar megkereső vagy megkeresett hatóság az információt harmadik fél részére nem adja ki.
 
 (4) A megkereső vagy megkeresett hatóság tagállamától eltérő tagállam hatáskörrel rendelkező hatósága (harmadik fél) részére a magyar megkeresett hatóság az adómegállapítási jogsegély teljesítése során szerzett információt akkor továbbíthatja, ha megítélése szerint az információ harmadik félnek hasznos lehet, és az információt szolgáltató megkeresett vagy megkereső hatóság az információ továbbítását nem ellenezte. A magyar megkeresett hatóság az információ továbbítását megelőzően tájékoztatja az információt szolgáltató megkereső vagy megkeresett hatóságot az információ továbbításának szándékáról. Ha e hatóság a tájékoztatás beérkezésétől számított tíz munkanapon belül ellenzi az információ továbbítását, a magyar megkereső vagy megkeresett hatóság az információt harmadik fél részére nem adhatja ki.
 

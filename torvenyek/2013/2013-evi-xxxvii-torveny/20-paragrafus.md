@@ -24,8 +24,8 @@ c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamain
 
 d) a 19/B. § és a 45/D. § szerinti adatszolgáltatást a 19/B. § (4) bekezdésében meghatározott adattartalommal – a 19/B. § (4) bekezdés 1., 2., 8. és 11. pontjában foglaltak kivételével – az Európai Bizottság részére is teljesíti.
 
-(4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–f) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
+(4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–g) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
 
-(5) A magyar központi kapcsolattartó iroda évente tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–f) pontjában rögzített jövedelemtípusait érintő legalább két jövedelem- és tőkekategóriáról, amelyek vonatkozásában a más tagállamban illetőséggel rendelkező személyekről információt ad át más tagállam hatáskörrel rendelkező hatóságának.
+(5) A magyar központi kapcsolattartó iroda évente tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–g) pontjában rögzített jövedelemtípusait érintő legalább öt jövedelem- és tőkekategóriáról, amelyek vonatkozásában a más tagállamban illetőséggel rendelkező személyekről információt ad át más tagállam hatáskörrel rendelkező hatóságának.
 
-(6) A magyar központi kapcsolattartó iroda tájékoztathatja a más tagállam hatáskörrel rendelkező hatóságát, ha a 19/A. § (2) bekezdés a)–f) pontjában felsorolt jövedelemtípusok tekintetében nem kíván információkat kapni. A magyar központi kapcsolattartó iroda erről az értesítésről tájékoztatja az Európai Bizottságot.
+(6) A magyar központi kapcsolattartó iroda tájékoztathatja a más tagállam hatáskörrel rendelkező hatóságát, ha a 19/A. § (2) bekezdés a)–g) pontjában felsorolt jövedelemtípusok tekintetében nem kíván információkat kapni. A magyar központi kapcsolattartó iroda erről az értesítésről tájékoztatja az Európai Bizottságot.
