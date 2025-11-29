@@ -1,0 +1,1 @@
+21. § A munkáltatói jogkör gyakorlója a kártérítési határozatban méltánylást érdemlő körülmények fennállása esetén hivatalból dönthet a kártérítés mérsékléséről vagy elengedéséről, ha a gondatlan károkozás a szolgálati gépjármű szolgálati feladat teljesítése céljából történő igénybevétele során következett be.
