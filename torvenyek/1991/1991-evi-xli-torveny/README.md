@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-41-00-00
 | 2025-01-01 | 2024. évi XVII. törvény | 1991-41-00-00.63 |
 | 2025-01-15 | 2021. évi CXLVI. törvény | 1991-41-00-00.72 |
 | 2025-06-20 | 2025. évi XLIX. törvény | 1991-41-00-00.73 |
+| 2025-11-29 | 2025. évi LXXXVIII. törvény | 1991-41-00-00.75 |
