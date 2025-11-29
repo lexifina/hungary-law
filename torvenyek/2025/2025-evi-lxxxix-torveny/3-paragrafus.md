@@ -1,0 +1,1 @@
+3. § A 2. §-ban foglaltak megsértése esetén az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) VI. Fejezete szerinti jogkövetkezményeket alkalmazhatja, az Éltv.-ben, valamint az Éltv. végrehajtására kiadott rendeletben foglaltak szerint.
