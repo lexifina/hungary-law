@@ -1,5 +1,1 @@
-25. § Az Aktv. 46. §-a a következő (11)–(12) bekezdéssel egészül ki:
-
-„(11) A 3/B. § (2)–(5) bekezdése, a 3/C. § (1) és (4) bekezdése, a 3/D. § (2) és (3) bekezdése, a 4. § (3) bekezdés 15. és 20. pontja, a 4. § (3a) és (3b) bekezdése, a (9) bekezdés 14. pontja, a 15. § (2) bekezdés a) pontja, (3a) és (4) bekezdése, a 19/A. § (1) és (2) bekezdése, a 19/B. § (2) bekezdés c) pontja, (3) bekezdés b) pontja, (3a) és (3b) bekezdése, (4) bekezdés 1. és 11. pontja, a 20. § (4)–(6) bekezdése, a 21/B. § (4) bekezdés m) pontja, a 21/E. § (1) bekezdése, a II/B. Fejezet, a 43/I. § (1) bekezdése, a 43/I. § (2) bekezdés 9–12. pontja, a 43/W. § (1) bekezdése, a 43/Y. § (2) bekezdés a) és c) pontja, (6) bekezdése, a 45/O. §-a, a 45/R–45/U. §, az 1., valamint az 5. és 6. melléklet az adózás területén való közigazgatási együttműködésről szóló 2011/16/EU tanácsi irányelv módosításáról szóló, 2023. október 17-i (EU) 2023/2226 tanácsi irányelvnek való megfelelést szolgálja.
-
-(12) A 3/B. § (2)–(5) bekezdése, a 4. § (3c)–(3d) bekezdése, a II/C. Fejezet, a 43/I. § (1) bekezdése, a 43/I. § (2) bekezdés 9–12. pontja, a 45/V. §-a, a 45/W. §-a és a 7. melléklet az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2025. április 14-i (EU) 2025/872 tanácsi irányelvnek való megfelelést szolgálja.”
+### 25. §
