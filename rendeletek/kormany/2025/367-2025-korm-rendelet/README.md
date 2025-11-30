@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-367-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-11-29 | 2025-367-20-22.1 | 367/2025. (XI. 28.) Korm. rendelet |
+| 2025-11-30 | 2025-367-20-22.2 | 2010. évi CXXX. törvény |

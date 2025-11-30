@@ -4,4 +4,6 @@
 
 ## 1. Az egyes mezőgazdasági termékek Magyarországra történő behozatalával kapcsolatos intézkedésekről szóló 80/2024. (IV. 11.) Korm. rendelet módosítása
 
-1. § Az egyes mezőgazdasági termékek Magyarországra történő behozatalával kapcsolatos intézkedésekről szóló 80/2024. (IV. 11.) Korm. rendelet [a továbbiakban: 80/2024. (IV. 11.) Korm. rendelet] 1. melléklete az 1. melléklet szerint módosul.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
