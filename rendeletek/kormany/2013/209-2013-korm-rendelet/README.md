@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-209-20-
 | 2025-02-01 | 2013-209-20-22.31 | 196/2024. (VII. 8.) Korm. rendelet |
 | 2025-07-01 | 2013-209-20-22.32 | 181/2025. (VI. 30.) Korm. rendelet |
 | 2025-09-01 | 2013-209-20-22.33 | 181/2025. (VI. 30.) Korm. rendelet |
+| 2025-11-30 | 2013-209-20-22.35 | 375/2025. (XI. 30.) Korm. rendelet |

@@ -18,6 +18,12 @@
 
 (7)[^107] E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 196/2024. (VII. 8.) Korm. rendelet 1. § (3) bekezdésével módosított 24. § (4) bekezdését 2025. február 1-jén vagy azt követően megváltott viszonylati jegy esetén kell alkalmazni.
 
+(8)[^108] A 2026. évre érvényes infrastruktúradíj megállapítására a 3. § (2) bekezdését nem kell alkalmazni, a 2026. évre érvényes infrastruktúradíj mértéke a közlekedésért felelős miniszter által rendeletben megállapított alapmérték.
+
+(9)[^109] A 2027. évre megállapított infrastruktúradíj a 3. § (2) bekezdésének alkalmazásában az infrastruktúradíj korrigált mértékének első alkalommal történő megállapításának minősül.
+
 [^105]: A 46. § a 490/2023. (XI. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^106]: A 46. § (6) bekezdését a 196/2024. (VII. 8.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^107]: A 46. § (7) bekezdését a 196/2024. (VII. 8.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^108]: A 46. § (8) bekezdését a 375/2025. (XI. 30.) Korm. rendelet 5. §-a iktatta be.
+[^109]: A 46. § (9) bekezdését a 375/2025. (XI. 30.) Korm. rendelet 5. §-a iktatta be.
