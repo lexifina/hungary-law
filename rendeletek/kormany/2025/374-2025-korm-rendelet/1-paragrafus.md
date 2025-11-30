@@ -2,6 +2,6 @@
 
 ## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 23. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Ha az építőipari kivitelezési tevékenységnek a 17. § (3) bekezdése szerint meghatározott értéke eléri vagy meghaladja a Kbt. szerinti közösségi értékhatárt, az építtetőnek – az atomenergia alkalmazására szolgáló, a honvédelmi és katonai célú, valamint a nemzetbiztonsági célú, illetve rendeltetésű, továbbá a Kbt. 9. § (1) bekezdés b) pontja szerinti felmentéssel érintett építmények kivételével – beruházáslebonyolítót kell megbíznia.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
