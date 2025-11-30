@@ -1,3 +1,3 @@
-4. § A 326/2011. (XII. 28.) Korm. rendelet 52. §-a a következő (9) bekezdéssel egészül ki:
+4. §[^4]
 
-„(9) A honvédelmi és haderőfejlesztési program keretében beérkező gépjárművek első forgalomba helyezésük során mentesülnek az előzetes eredetiségvizsgálat elvégzése alól.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

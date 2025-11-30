@@ -1,5 +1,3 @@
-3. melléklet a 369/2025. (XI. 28.) Korm. rendelethez
+3. melléklet a 369/2025. (XI. 28.) Korm. rendelethez[^20]
 
-A 345/2012. (XII. 6.) Korm. rendelet 1. melléklete a következő 1.3.144. ponttal egészül ki:
-
-„1.3.144. Soroksáron a 150. számú vasútvonal alatt kialakított aluljáró megközelítéséhez szükséges közúti fejlesztések.”
+[^20]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
