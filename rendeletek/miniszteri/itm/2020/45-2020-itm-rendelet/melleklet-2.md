@@ -96,8 +96,8 @@
 
 | 46. | Zala | M76 | 4+447 | 4 | Balatonszentgyörgy/ Balatonberény csomópont | 8+363 | – | Keszthely-Fenékpuszta csomópont |
 
-2. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^86]
+2. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^87]
 
 Az úthasználati jogosultság általános forgalmi adót tartalmazó, forintban kifejezett árának alapja
 
-[^86]: A 2. melléklet a 22/2023. (XII. 5.) ÉKM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^87]: A 2. melléklet a 22/2023. (XII. 5.) ÉKM rendelet 3. § (6) bekezdésével megállapított szöveg.

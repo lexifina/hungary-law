@@ -16,7 +16,11 @@
 
 (9)[^79] A 3,5 tonna műszakilag megengedett legnagyobb össztömeget meghaladó lakóautóra a 3. § (2) bekezdés c) pontjában és (4) bekezdésében meghatározott jogosultság a 2024. évre nem váltható, továbbá a 3,5 tonna műszakilag megengedett legnagyobb össztömeget meghaladó lakóautóra megváltott 3. § (2) bekezdés a) és b) pontjában meghatározott jogosultság érvényessége 2023. december 31. napján 24 órakor abban az esetben is lejár, ha a megváltásakor hatályos rendelkezések alapján ezen az időponton túl is érvényes lenne.
 
-(10)[^80] A 8. § (2)–(4b) bekezdésétől eltérően a 3. § (4) bekezdésében meghatározott, Borsod-Abaúj-Zemplén vármegye díjköteles úthálózatára a 2026. évre érvényes jogosultság általános forgalmi adóval terhelt, forintban meghatározott ára a 3. § (4) bekezdésében meghatározott többi vármegyei jogosultság 2026. évre érvényes árának 35%-a, – a matematikai kerekítési szabályok alkalmazásával – tízforintos kerekítési pontossággal meghatározottan. Az így megállapított árat az útdíjszolgáltatási gazdasági társaság a honlapján közzéteszi. A közzététel és a hatálybalépés között legalább 30 napnak el kell telnie. Az útdíjszolgáltatási gazdasági társaság a közzététel során a 8. § (5) és (6) bekezdésének megfelelő alkalmazásával jár el.
+(10)[^80] A 8. § (2)–(4b) bekezdésétől eltérően a 3. § (4) bekezdésében meghatározott, Borsod-Abaúj-Zemplén vármegye díjköteles úthálózatára a 2026. évre érvényes jogosultság általános forgalmi adóval terhelt, forintban meghatározott ára
+
+a) a 8. § (1) bekezdés a), b) és d) pontjában meghatározott díjkategóriára 2500 Ft,
+
+b) a 8. § (1) bekezdés c) pontjában meghatározott díjkategóriára 5000 Ft.
 
 [^73]: A 22. § (3) bekezdését a 24/2024. (VII. 31.) ÉKM rendelet 3. § a) pontja hatályon kívül helyezte.
 [^74]: A 22. § (5) bekezdését a 6/2022. (II. 17.) ITM rendelet 1. § (1) bekezdése iktatta be, szövege a 2/2023. (II. 20.) ÉKM rendelet 13. § d) pontja, a 22/2025. (VII. 22.) ÉKM rendelet 2. § c) pontja szerint módosított szöveg.
@@ -25,4 +29,4 @@
 [^77]: A 22. § (7) bekezdését a 19/2022. (IX. 19.) TIM rendelet 3. § (10) bekezdése iktatta be.
 [^78]: A 22. § (8) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 3. § (3) bekezdése iktatta be.
 [^79]: A 22. § (9) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 3. § (3) bekezdése iktatta be.
-[^80]: A 22. § (10) bekezdését a 10/2025. (IV. 3.) ÉKM rendelet 1. §-a iktatta be, szövege a 22/2025. (VII. 22.) ÉKM rendelet 2. § c) és e) pontja szerint módosított szöveg.
+[^80]: A 22. § (10) bekezdését a 10/2025. (IV. 3.) ÉKM rendelet 1. §-a iktatta be, szövege a 34/2025. (XI. 30.) ÉKM rendelet 5. §-ával megállapított szöveg.

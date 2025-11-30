@@ -6,11 +6,11 @@
 
 3. a nehéz tehergépjárművekre az egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról szóló, 2011. szeptember 27-i 2011/76/EU európai parlamenti és tanácsi irányelvnek
 
-4.[^81] az 1999/62/EK, az 1999/37/EK és az (EU) 2019/520 irányelvnek a gépjárművekre egyes infrastruktúrák használatáért kivetett díjak tekintetében való módosításáról szóló, 2022. február 24-i (EU) 2022/362 európai parlamenti és tanácsi irányelvnek
+4.[^82] az 1999/62/EK, az 1999/37/EK és az (EU) 2019/520 irányelvnek a gépjárművekre egyes infrastruktúrák használatáért kivetett díjak tekintetében való módosításáról szóló, 2022. február 24-i (EU) 2022/362 európai parlamenti és tanácsi irányelvnek
 
-5.[^82] az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
+5.[^83] az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-[^81]: A 23. § 4. pontját a 22/2023. (XII. 5.) ÉKM rendelet 3. § (4) bekezdése iktatta be.
-[^82]: A 23. § 5. pontját a 29/2024. (VIII. 15.) ÉKM rendelet 3. §-a iktatta be.
+[^82]: A 23. § 4. pontját a 22/2023. (XII. 5.) ÉKM rendelet 3. § (4) bekezdése iktatta be.
+[^83]: A 23. § 5. pontját a 29/2024. (VIII. 15.) ÉKM rendelet 3. §-a iktatta be.
