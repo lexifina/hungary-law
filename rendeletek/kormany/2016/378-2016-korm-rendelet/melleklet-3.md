@@ -190,7 +190,7 @@
 
 | 62. | Sopron | 19 |
 
-| 63. | Sopronhorpács | 310/3 |
+| 63. |  |  |
 
 | 64. |  |  |
 
@@ -222,4 +222,4 @@
 
 | 78. |  |  |
 
-[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a, a 273/2025. (VIII. 18.) Korm. rendelet 1. §-a, a 316/2025. (X. 17.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^38]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a, a 424/2024. (XII. 23.) Korm. rendelet 3. §-a, a 273/2025. (VIII. 18.) Korm. rendelet 1. §-a, a 316/2025. (X. 17.) Korm. rendelet 1. § a) és b) pontja szerint módosított szöveg.
