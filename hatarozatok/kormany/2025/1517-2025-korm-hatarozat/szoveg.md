@@ -64,4 +64,6 @@ c) a megbízatás visszavonásával.
 
 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
-16. Hatályát veszti a Fogyasztóvédelmi Tanácsról szóló 1259/2011. (VII. 27.) Korm. határozat.
+16.[^1]
+
+[^1]: A 16. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
