@@ -1,3 +1,3 @@
-4. § (1) A 25/2004. (XII. 20.) KvVM rendelet 2. melléklete helyébe a 3. melléklet lép.
+4. §[^5]
 
-(2) A 25/2004. (XII. 20.) KvVM rendelet 3. melléklete helyébe a 4. melléklet lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

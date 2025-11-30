@@ -1,13 +1,3 @@
-## „12. melléklet a 93/2007. (XII. 18.) KvVM rendelethez
+11. melléklet a 13/2025. (VI. 2.) EM rendelethez[^20]
 
-## 5X03730.pdf
-
-## ”
-
-11. melléklet a 13/2025. (VI. 2.) EM rendelethez
-
-„13. melléklet a 93/2007. (XII. 18.) KvVM rendelethez
-
-5X03736.pdf
-
-”
+[^20]: A 11. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

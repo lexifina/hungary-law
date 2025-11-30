@@ -1,7 +1,3 @@
-## „2. melléklet a 25/2004. (XII. 20.) KvVM rendelethez
+4. melléklet a 13/2025. (VI. 2.) EM rendelethez[^13]
 
-## 5X03695.pdf
-
-## ”
-
-4. melléklet a 13/2025. (VI. 2.) EM rendelethez
+[^13]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
