@@ -10,7 +10,6 @@
 
 a)[^1]
 
-b)[^2]
+b) 63. sora.
 
 [^1]: Az 1. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § b) pontja a 3. § (3) bekezdése alapján 2025. november 30-án lép hatályba.
