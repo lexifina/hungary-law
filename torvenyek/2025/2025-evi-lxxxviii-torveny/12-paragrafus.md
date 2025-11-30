@@ -1,3 +1,1 @@
-## „a) ha a kérelem, bírósági elrendelés vagy hatósági felhívás beérkezését megelőzően tulajdonjog-fenntartáshoz kapcsolódó vevői jogot vagy jövőbeli épületre vonatkozó vevői jogot jegyeztek be a tulajdoni lapra, tulajdonjog-fenntartáshoz kapcsolódó vevői jog esetén a tulajdonjog, jövőbeli épületre vonatkozó vevői jog esetén pedig a társasházi építményi jog vagy a tulajdonjog bejegyzése iránti kérelem elbírálásáig, de legfeljebb a tulajdonjog-fenntartáshoz kapcsolódó vevői jog vagy a jövőbeli épületre vonatkozó vevői jog bejegyzése iránti kérelem ingatlanügyi hatósági benyújtásától számított hat hónapos határidő elteltéig,”
-
 ### 12. §

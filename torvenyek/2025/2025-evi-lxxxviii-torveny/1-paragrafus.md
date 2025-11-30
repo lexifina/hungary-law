@@ -1,5 +1,3 @@
 ## 1. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-1. § A közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 134. §-a helyébe a következő rendelkezés lép:
-
-„134. § Az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés, a kapcsolódó társasházi építményi jogot alapító szerződés és az ezeket biztosító jelzálogszerződés, önálló zálogjogot alapító zálogszerződés alapján a közjegyzői okirat elkészítésére kizárólag egyoldalú kötelezettségvállaló nyilatkozat formájában kerülhet sor azzal, hogy a − félnek vagy az eljárás egyéb résztvevőjének nem minősülő − hitelezőnek a miniszter rendeletében meghatározott okiratminta alapján elkészített írásbeli tervezetet kell kitöltve a közjegyző rendelkezésére bocsátania.”
+### 1. §
