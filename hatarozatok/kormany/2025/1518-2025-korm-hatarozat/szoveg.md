@@ -94,4 +94,6 @@ c) lemondással.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13. Hatályát veszti a Piacfelügyeleti Munkacsoportról szóló 1044/2014. (II. 7.) Korm. határozat.
+13.[^1]
+
+[^1]: A 13. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
