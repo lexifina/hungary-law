@@ -32,15 +32,17 @@ n)[^12] a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban
 
 o)[^13] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
 
-(2)[^14] A NAV a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
+p)[^14] a vállalkozásfejlesztésért felelős miniszter.
 
-(3)[^15] Az NKFH feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
+(2)[^15] A NAV a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
 
-(4)[^16] Az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakoztatási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti berendezések és létesítmények piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és vármegyei kormányhivatalt jelöli ki.
+(3)[^16] Az NKFH feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
-(5)[^17] Az (EU) 2019/1009 európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti uniós termésnövelő anyag (a továbbiakban: uniós termésnövelő anyag) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a NÉBIH-et és a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt jelöli ki.
+(4)[^17] Az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakoztatási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti berendezések és létesítmények piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és vármegyei kormányhivatalt jelöli ki.
 
-(6)[^18] Az építési termék, építményszerkezet, tűz- vagy robbanásveszélyes készülék, gép, berendezés, tűzoltó-technikai termék (a továbbiakban együtt: termék) tűzvédelemmel, valamint nyitott égésterű tüzelőberendezés üzemeltetése során keletkező szén-monoxid érzékelésére szolgáló berendezéssel (a továbbiakban: szén-monoxid-érzékelő) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a tűzvédelmi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
+(5)[^18] Az (EU) 2019/1009 európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti uniós termésnövelő anyag (a továbbiakban: uniós termésnövelő anyag) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a NÉBIH-et és a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt jelöli ki.
+
+(6)[^19] Az építési termék, építményszerkezet, tűz- vagy robbanásveszélyes készülék, gép, berendezés, tűzoltó-technikai termék (a továbbiakban együtt: termék) tűzvédelemmel, valamint nyitott égésterű tüzelőberendezés üzemeltetése során keletkező szén-monoxid érzékelésére szolgáló berendezéssel (a továbbiakban: szén-monoxid-érzékelő) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a tűzvédelmi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
 
 [^3]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
@@ -53,8 +55,9 @@ o)[^13] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
 [^11]: A 2. § (1) bekezdés m) pontját a 246/2020. (V. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdés n) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
 [^13]: A 2. § (1) bekezdés o) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
-[^14]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a, a 93/2024. (IV. 23.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^15]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja, a 328/2024. (XI. 14.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^16]: A 2. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 5. §-a iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 5. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
-[^17]: A 2. § (5) bekezdését a 316/2022. (VIII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
-[^18]: A 2. § (6) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 67. § (2) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdés p) pontját a 344/2025. (X. 31.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^15]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a, a 93/2024. (IV. 23.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^16]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja, a 328/2024. (XI. 14.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^17]: A 2. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 5. §-a iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 5. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
+[^18]: A 2. § (5) bekezdését a 316/2022. (VIII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
+[^19]: A 2. § (6) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 67. § (2) bekezdése iktatta be.
