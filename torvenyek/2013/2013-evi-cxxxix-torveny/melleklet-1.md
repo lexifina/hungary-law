@@ -107,7 +107,3 @@ Kötelező elektronikus kapcsolattartással érintett egyes ügyek
 7. a helyi önkormányzat vagy az Európai Unió tagállama regionális vagy helyi önkormányzata között a helyi önkormányzat, az Európai Unió tagállama regionális vagy helyi önkormányzata által kibocsátott hitelviszonyt megtestesítő értékpapír, továbbá az Európai Unió tagállama regionális vagy helyi önkormányzata által garantált értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez készített tájékoztató, hirdetmény közzétételének engedélyezésére,
 
 8. a harmadik országban székhellyel rendelkező kibocsátó között a tájékoztató közzétételének engedélyezésére,
-
-9. a zártkörű részvénytársasággá alakuló, értékpapírt nyilvánosan forgalomba hozott kibocsátó között a nyilvánosság felé történő adatszolgáltatási kötelezettség alóli mentesítésre,
-
-10. a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltató között
