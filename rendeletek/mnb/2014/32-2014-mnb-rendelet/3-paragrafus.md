@@ -6,7 +6,7 @@ a) nem rendelkeztek lakásban 50%-ot elérő tulajdoni hányaddal, vagy
 
 b) kizárólag olyan lakástulajdonnal rendelkeztek, amely – a tulajdoni hányad mértékétől függetlenül – jogszabályon alapuló haszonélvezeti joggal terhelt.
 
-(1b)[^25] A hitelnyújtó az (1a) bekezdés szerinti feltételek fennállásáról az ügyfél, illetve adóstársak esetén az ügyfelek írásbeli nyilatkozata és az ingatlan-nyilvántartás adatai alapján győződik meg.
+(1b)[^25] A hitelnyújtó az (1a) bekezdés szerinti feltételek fennállásáról az ingatlan-nyilvántartás adatai alapján győződik meg.
 
 (1c)[^26] Az (1) bekezdéstől eltérően, az ingatlanra alapított jelzálogjog fedezete mellett nyújtott forinthitelnél és pénzügyi lízingnél a kitettség hitelkérelem elbíráláskori értéke nem haladhatja meg az ingatlan forgalmi értékének 90%-át, amennyiben a hitelcél a fedezetként szolgáló energetikailag hatékony lakás vásárlása, építése vagy a fedezetként szolgáló lakás energiamegtakarítási célú felújítása.
 
@@ -29,7 +29,7 @@ Egyéb esetben a hitelnyújtó az ingatlan-nyilvántartásba bejegyzett értéke
 (6)[^28]
 
 [^24]: A 3. § (1a) bekezdését a 64/2023. (XII. 15.) MNB rendelet 2. §-a iktatta be, szövege a 28/2025. (IX. 1.) MNB rendelet 1. §-ával megállapított szöveg.
-[^25]: A 3. § (1b) bekezdését a 64/2023. (XII. 15.) MNB rendelet 2. §-a iktatta be.
+[^25]: A 3. § (1b) bekezdését a 64/2023. (XII. 15.) MNB rendelet 2. §-a iktatta be, szövege a 28/2025. (IX. 1.) MNB rendelet 3. §-a szerint módosított szöveg.
 [^26]: A 3. § (1c) bekezdését a 49/2024. (XI. 11.) MNB rendelet 2. §-a iktatta be.
 [^27]: A 3. § (4) bekezdése az 51/2021. (XI. 16.) MNB rendelet 3. §-ával megállapított szöveg.
 [^28]: A 3. § (6) bekezdését a 24/2019. (VI. 26.) MNB rendelet 1. §-a iktatta be, hatályon kívül helyezte az 51/2021. (XI. 16.) MNB rendelet 5. §-a.
