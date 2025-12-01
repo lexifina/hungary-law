@@ -1,0 +1,5 @@
+10. § (1) A végrehajtói szolgálat szünetelésének vagy az önálló bírósági végrehajtó szolgálatból történő felfüggesztésének ideje alatt az önálló bírósági végrehajtó ellenőrzése érdekében vizsgálat nem indítható.
+
+(2) A végrehajtó – szünetelésnek vagy felfüggesztésnek nem minősülő – távolléte nem akadálya a vizsgálat megindításának, lefolytatásának és lezárásának – ideértve a vizsgálati jelentés tervezetének észrevételezését és a vizsgálati jelentés elleni kifogás benyújtását is –, továbbá az intézkedési terv elkészítésének.
+
+(3) A végrehajtó (2) bekezdés szerinti távolléte esetén a hivatalvezető, az ellenőrzési vezető, a vizsgálatvezető, valamint a Kar hivatali szerve az e rendelet szerinti, a végrehajtó számára kézbesítendő dokumentumokat a Vht. 244. § (1) bekezdése szerinti helyettesítő személy részére kézbesíti. A helyettesítő személy a távollét időtartama alatt az e rendeletben foglalt jogok és kötelezettségek tekintetében is ellátja a helyettesítési feladatokat, azzal, hogy a távollét megszűnésekor az általa elvégzett cselekményekről és átvett dokumentumokról a végrehajtót tájékoztatja.

@@ -1,0 +1,3 @@
+7. § (1) A 2. § a)–c) pontja szerinti vizsgálatot lezáró vizsgálati jelentésben foglalt intézkedési javaslatok alapján tett intézkedések nyomon követése érdekében az ellenőrzési vezető utóvizsgálatot rendelhet el. A vizsgálati jelentésben foglaltak alapján a Hatóság elnöke utóvizsgálat lefolytatását kezdeményezheti. A Hatóság elnöke általi kezdeményezés esetén az utóvizsgálatot a hivatalvezető köteles elrendelni.
+
+(2) Az utóvizsgálat célja, hogy az ellenőr bizonyosságot szerezzen az utóvizsgálat alapját képező vizsgálati jelentés alapján készített intézkedési tervben foglalt intézkedések megfelelő végrehajtásáról és arról, hogy a megállapított kockázat ténylegesen megszűnt.

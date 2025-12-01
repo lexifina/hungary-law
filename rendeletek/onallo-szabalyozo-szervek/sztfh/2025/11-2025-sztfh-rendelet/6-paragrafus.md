@@ -1,0 +1,3 @@
+6. § (1) A témavizsgálat a tárgyévben több végrehajtónál ugyanazon szempontok alapján lefolytatott, egy vagy több azonos vizsgálati tárgykörre irányuló vizsgálat, amelynek célja a meghatározott vizsgálati tárgykör ellenőrzési eredményeinek összehasonlítása annak érdekében, hogy a vizsgált tárgykörben általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket lehessen tenni.
+
+(2) Ha a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) elnöke témavizsgálatot kezdeményez, azt a vizsgálati tárgykör megjelölésével a tárgyév október 15. napjáig küldi meg a hivatalvezető részére. A Hatóság elnöke által kezdeményezett témavizsgálatot az ellenőrzési vezető az ellenőrzési tervbe beépíti.

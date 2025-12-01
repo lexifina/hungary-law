@@ -1,0 +1,1 @@
+39. § Hatályát veszti az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatásának részletes szabályairól szóló 9/2021. (X. 29.) SZTFH rendelet.

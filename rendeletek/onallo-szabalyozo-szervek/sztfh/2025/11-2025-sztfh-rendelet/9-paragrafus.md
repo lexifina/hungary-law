@@ -1,0 +1,3 @@
+## 3. Az ellenőrzés általános szabályai
+
+9. § Ha az ellenőrzési vezető felhívása ellenére a végrehajtó az együttműködési kötelezettségét megtagadja, vagy az e rendeletben foglalt bármely kötelezettségének nem tesz eleget, a hivatalvezető fegyelmi feljelentést tehet. Ha a végrehajtó az ellenőrzési vezető ismételt felhívása ellenére is megtagadja az együttműködési kötelezettségét, vagy az e rendeletben foglalt bármely kötelezettségének ismételt felhívás ellenére sem tesz eleget – feltéve, hogy a fegyelmi feljelentés megtételének lehetőségére őt az ellenőrzési vezető első alkalommal figyelmeztette –, a hivatalvezető fegyelmi feljelentést tesz.
