@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-76-20-2
 | 2023-01-09 | 2018-76-20-22.11 | 594/2022. (XII. 28.) Korm. rendelet |
 | 2025-01-01 | 2018-76-20-22.12 | 364/2024. (XI. 28.) Korm. rendelet |
 | 2025-09-01 | 2018-76-20-22.13 | 384/2024. (XII. 9.) Korm. rendelet |
+| 2025-12-01 | 2018-76-20-22.14 | 363/2025. (XI. 26.) Korm. rendelet |
