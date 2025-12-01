@@ -1,5 +1,5 @@
-## 13.[^103]
+## 13.[^116]
 
 21. §
 
-[^103]: A 13. alcímet (21–23. §) a 618/2022. (XII. 29.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.
+[^116]: A 13. alcímet (21–23. §) a 618/2022. (XII. 29.) Korm. rendelet 22. § i) pontja hatályon kívül helyezte.

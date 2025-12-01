@@ -1,42 +1,38 @@
-## 3. [^27] A központi alkalmazás-szolgáltató, a központi infrastruktúra-szolgáltató, a központi termék minőségbiztosító, valamint a Felügyelet feladatai
+## 3.[^28] [^29] A központi alkalmazás-szolgáltató, a szolgáltatástervezési központ,, a központi infrastruktúra-szolgáltató, a központi termék minőségbiztosító, valamint a Felügyelet feladatai
 
-4. § (1) A központi alkalmazás-szolgáltató
+4. § (1)[^30] A központi alkalmazás-szolgáltató
 
-a) az ÁAFK-val kapcsolatos feladatai körében:
+a) az ÁAFK-val kapcsolatos feladatai körében
 
 aa) végzi az ÁAFK alkalmazásplatform szolgáltatás (aPaaS) szintű fejlesztését, továbbfejlesztését és üzemeltetését,
 
-ab) ellátja az alkalmazásfejlesztésekkel kapcsolatos technológiai-szakértői és alkalmazás-integrátori feladatokat,
+ab) ellátja az alkalmazásfejlesztésekkel kapcsolatos technológiai-szakértői feladatokat,
 
-ac)[^28]
+ac) ellátja a leszállított alkalmazás átvételére irányuló eljárásban szakértőként történő közreműködéssel és szakmai vélemény kiállításával kapcsolatos feladatokat, és
 
-ad)[^29]
+ad) biztosítja az ÁAFK alkalmazásfejlesztés megvalósításához szükséges terjedelmű használatát;
 
-ae) ellátja a leszállított alkalmazás átvételére irányuló eljárásban szakértőként történő közreműködéssel és szakmai vélemény kiállításával kapcsolatos feladatokat,
+b) az Állami Alkalmazás-katalógussal (a továbbiakban: ÁAK) kapcsolatos feladatai körében végzi az ÁAK fejlesztését, továbbfejlesztését és alkalmazás szintű üzemeltetését.
 
-af)[^30] meghatározza és az ÁAFK elektronikus felületen közzéteszi a közszolgáltatásként igénybe vehető alapszolgáltatásokat, a szakmailag indokolt mértékű fejlesztői kapacitások meghatározására vonatkozó módszertant, az ÁAFK igénybevételére vonatkozó műszaki és adminisztratív feltételeket, amelyeket az ÁAFK-ra vonatkozó szolgáltatási szabályzat, a fejlesztési-szakmai követelmény- és szabályrendszer, a módszertani és műszaki dokumentáció és az egyéb kapcsolódó dokumentumok tartalmaznak,
+(1a)[^31] A szolgáltatástervezési központ
 
-ag)[^31] megteszi a szükséges intézkedéseket a megrendelő szervnek, valamint a fejlesztő szervezetnek az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelme végrehajtásához,
+a) az ÁAFK-val kapcsolatos feladatai körében
 
-ah)[^32] amennyiben a közszolgáltatásként igénybe vehető alapszolgáltatásokon felüli szolgáltatást (a továbbiakban: kiegészítő szolgáltatás) nyújt, szolgáltatási szerződést (a továbbiakban: szolgáltatási szerződés) köt a megrendelő szervvel és – az 1. § 8. pont b) alpontja szerinti esetben – a fejlesztő szervezettel,
+aa) meghatározza a központi szolgáltatótól közszolgáltatásként igénybe vehető szolgáltatásokat, a szakmailag indokolt mértékű fejlesztői kapacitások meghatározására vonatkozó módszertant, az ÁAFK igénybevételére vonatkozó műszaki és adminisztratív feltételeket, amelyeket az ÁAFK-ra vonatkozó szolgáltatási szabályzat, a fejlesztési-szakmai követelmény- és szabályrendszer, a módszertani és műszaki dokumentáció és az egyéb kapcsolódó dokumentumok tartalmaznak,
 
-ai)[^33] biztosítja az ÁAFK alkalmazásfejlesztés megvalósításához szükséges terjedelmű használatát.
+ab) intézkedik a megrendelő szervnek, valamint a fejlesztő szervezetnek az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelmével kapcsolatban;
 
-b) az Állami Alkalmazás-katalógussal (a továbbiakban: ÁAK) kapcsolatos feladatai körében:
+b) az ÁAK-kal kapcsolatos feladatai körében
 
 ba) ellátja az ÁAK vezetésével kapcsolatos feladatokat,
 
-bb) végzi az ÁAK fejlesztését, továbbfejlesztését és alkalmazás-szintű üzemeltetését,
+bb) a Felügyelet honlapján közzétett szakpolitikai elvek és követelmények alapján kidolgozza és karbantartja az ÁAK-ba történő adatfeltöltéshez szükséges módszertani útmutatót, valamint a nyilvántartási adatok kötelező adattartalmára vonatkozó részletes követelményeket,
 
-bc) a Felügyelet honlapján közzétett szakpolitikai elvek és követelmények alapján kidolgozza és az ÁAK felületen közzéteszi az ÁAK-ba történő első adatfeltöltéshez (a továbbiakban: ősfeltöltéshez) szükséges módszertani útmutatót, valamint a nyilvántartási adatok kötelező adattartalmára vonatkozó részletes követelményeket,
+bc) gondoskodik az ÁAK-ban nyilvántartott alkalmazásokkal kapcsolatos egyedi névazonosítási módszertan bevezetéséről,
 
-bd) gondoskodik az ÁAK-ban nyilvántartott alkalmazásokkal kapcsolatos egyedi névazonosítási módszertan bevezetéséről,
+bd) gondoskodik az e rendelet alapján az ÁAFK igénybevételével fejlesztett vagy továbbfejlesztett alkalmazásoknak az ÁAK-ban – a megrendelő szervek közreműködésével – történő nyilvántartásba vételéről, valamint
 
-be) szakmai támogatást nyújt a megrendelő szervnek a 15. §-ban előírt előzetes ellenőrzése lefolytatásához,
-
-bf)[^34] gondoskodik az e rendelet alapján az ÁAFK igénybevételével fejlesztett vagy továbbfejlesztett alkalmazásoknak az ÁAK-ban – a megrendelő szervek közreműködésével – történő nyilvántartásba vételéről,
-
-bg) létrehozza és a honlapján közzéteszi az ÁAK-ban lévő alkalmazáskategóriákról és az állam részére már korábban fejlesztett, az új alkalmazásfejlesztések során – amennyiben ilyen tárgyú részfejlesztést tartalmaz az újonnan fejlesztendő rendszer – kötelezően felhasználandó alkalmazáselemekről szóló – szűkített adattartalmú – nyilvános tájékoztatót.
+be) létrehozza, és a honlapján közzéteszi az ÁAK-ban lévő alkalmazáskategóriákról és az állam részére már korábban fejlesztett, az új alkalmazásfejlesztések során – amennyiben ilyen tárgyú részfejlesztést tartalmaz az újonnan fejlesztendő rendszer – kötelezően felhasználandó alkalmazáselemekről szóló – szűkített adattartalmú – nyilvános tájékoztatót.
 
 (2) A központi infrastruktúra-szolgáltató
 
@@ -44,27 +40,27 @@ a) virtualizációs szinten és az alatt biztosítja, fejleszti és továbbfejle
 
 b) nyújtja az ÁAFK és az ÁAK elérését biztosító hálózati infrastruktúra és egyéb hálózat üzemeltetési szolgáltatásokat,
 
-c)[^35] kialakítja a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító bevonásával az ÁAFK-t használó fejlesztő szervezetek infrastruktúra szintű hozzáférésének szabályrendszerét és az igénybevételhez kapcsolódó módszertani útmutatókat, amelyeket a központi alkalmazás-szolgáltató az ÁAFK, valamint ÁAK rendszerfelületein közzétesz,
+c)[^32] kialakítja a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító bevonásával az ÁAFK-t használó fejlesztő szervezetek infrastruktúra szintű hozzáférésének szabályrendszerét és az igénybevételhez kapcsolódó módszertani útmutatókat, amelyeket a központi alkalmazás-szolgáltató az ÁAFK, valamint ÁAK rendszerfelületein közzétesz,
 
-d)[^36] kialakítja a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító bevonásával az ÁAFK, valamint az ÁAK használatával kapcsolatos technológiai és IT biztonsági követelményeket meghatározó módszertani ajánlásokat, amelyeket a központi alkalmazás-szolgáltató az ÁAFK, valamint az ÁAK rendszerfelületein közzétesz.
+d)[^33] kialakítja a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító bevonásával az ÁAFK, valamint az ÁAK használatával kapcsolatos technológiai és IT biztonsági követelményeket meghatározó módszertani ajánlásokat, amelyeket a központi alkalmazás-szolgáltató az ÁAFK, valamint az ÁAK rendszerfelületein közzétesz.
 
-(3)[^37] A Felügyelet, a DMÜ által meghatározott szakpolitikai irányelvek alapján
+(3)[^34] A Felügyelet, a DMÜ által meghatározott szakpolitikai irányelvek alapján
 
-a) szakmai ajánlásként honlapján közzéteszi az alkalmazásfejlesztésekkel összefüggésben a miniszter által meghatározott szakpolitikai elveket, a központi alkalmazás-szolgáltató által kidolgozott szakmai és technológiai követelményeket,
+a)[^35] szakmai ajánlásként honlapján közzéteszi az alkalmazásfejlesztésekkel összefüggésben a miniszter által meghatározott szakpolitikai elveket, a szolgáltatástervezési központ által kidolgozott szakmai és technológiai követelményeket,
 
-b)[^38] kiadja az alkalmazásfejlesztés megvalósítását támogató hatósági határozatot,
+b)[^36] kiadja az alkalmazásfejlesztés megvalósítását támogató hatósági határozatot,
 
-c)[^39] a fejlesztő szervezetek által készre jelentett alkalmazások átadás-átvételi eljárásaiban a központi termék minőségbiztosító által kiállított záró megfelelőségi nyilatkozat felülvizsgálatával kapcsolatos kérelmeket elbírálja, a felülvizsgálati eljárásban hozott döntéséről a megrendelő szervet, valamint a központi alkalmazás-szolgáltatót, illetve a központi termék minőségbiztosítót tájékoztatja,
+c)[^37] a fejlesztő szervezetek által készre jelentett alkalmazások átadás-átvételi eljárásaiban a központi termék minőségbiztosító által kiállított záró megfelelőségi nyilatkozat felülvizsgálatával kapcsolatos kérelmeket elbírálja, a felülvizsgálati eljárásban hozott döntéséről a megrendelő szervet, valamint a központi alkalmazás-szolgáltatót, illetve a központi termék minőségbiztosítót tájékoztatja,
 
-d) szakmai ajánlásként honlapján közzéteszi az ÁAK-ba történő adatfeltöltést lehetővé tévő, a központi alkalmazás-szolgáltató által kidolgozott módszertani ajánlást,
+d)[^38] szakmai ajánlásként honlapján közzéteszi az ÁAK-ba történő adatfeltöltést lehetővé tévő, a szolgáltatástervezési központ által kidolgozott módszertani ajánlást,
 
-e) közzététel előtt jóváhagyja a központi szolgáltatók által készített,
+e)[^39] közzététel előtt jóváhagyja
 
-ea) az (1) bekezdés a) pont af) alpontjában,
+ea) az (1a) bekezdés a) pont aa) alpontjában,
 
-eb) az (1) bekezdés b) pont bc) alpontjában,
+eb) az (1a) bekezdés b) pont bb) alpontjában,
 
-ec) a (2) bekezdés c) pontjában,
+ec) a (2) bekezdés c) pontjában és
 
 ed) a (2) bekezdés d) pontjában
 
@@ -90,13 +86,13 @@ a) az egyes fejlesztési mérföldkövekhez kapcsolódó termék minőségbiztos
 
 b) minőségbiztosítási terv elkészítése,
 
-c) szoftverfejlesztési tanácsadás,
+c)[^43]
 
 d) megrendelői igények teljesülésének, jogszabályi megfelelőségének ellenőrzése,
 
 e) közreműködés felhasználói tesztek elvégzésében.
 
-(7)[^43] A központi termék minőségbiztosító tevékenysége
+(7)[^44] A központi termék minőségbiztosító tevékenysége
 
 a) nem minősül a megfelelőségértékelő szervezetek tevékenységéről szóló törvény szerinti megfelelőségértékelési tevékenységnek,
 
@@ -104,20 +100,20 @@ b) nem vált ki jogszabályban előírt, az informatikai rendszerekre vonatkozó
 
 c) nem váltja ki a megrendelő és a szállító között létrejött szerződésen alapuló polgárjogi kötelmeket és jótállási és szavatossági kötelezettségeket.
 
-[^27]: A 3. alcím címe a 476/2021. (VIII. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^28]: A 4. § (1) bekezdés a) pont ac) alpontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^29]: A 4. § (1) bekezdés a) pont ad) alpontját a 618/2022. (XII. 29.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.
-[^30]: A 4. § (1) bekezdés a) pont af) alpontja a 717/2021. (XII. 20.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^31]: A 4. § (1) bekezdés a) pont ag) alpontja a 717/2021. (XII. 20.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^32]: A 4. § (1) bekezdés a) pont ah) alpontja a 717/2021. (XII. 20.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^33]: A 4. § (1) bekezdés a) pont ai) alpontját a 717/2021. (XII. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^34]: A 4. § (1) bekezdés b) pont bf) alpontja a 618/2022. (XII. 29.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
-[^35]: A 4. § (2) bekezdés c) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^36]: A 4. § (2) bekezdés d) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^37]: A 4. § (3) bekezdés nyitó szövegrésze a 618/2022. (XII. 29.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
-[^38]: A 4. § (3) bekezdés b) pontja a 342/2024. (XI. 14.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^39]: A 4. § (3) bekezdés c) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^28]: A 3. alcím címe a 365/2025. (XI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^29]: A 3. alcím címe a 476/2021. (VIII. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^30]: A 4. § (1) bekezdése a 365/2025. (XI. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^31]: A 4. § (1a) bekezdését a 365/2025. (XI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^32]: A 4. § (2) bekezdés c) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^33]: A 4. § (2) bekezdés d) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^34]: A 4. § (3) bekezdés nyitó szövegrésze a 618/2022. (XII. 29.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
+[^35]: A 4. § (3) bekezdés a) pontja a 365/2025. (XI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^36]: A 4. § (3) bekezdés b) pontja a 342/2024. (XI. 14.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^37]: A 4. § (3) bekezdés c) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^38]: A 4. § (3) bekezdés d) pontja a 365/2025. (XI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^39]: A 4. § (3) bekezdés e) pontja a 365/2025. (XI. 28.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^40]: A 4. § (4) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.
 [^41]: A 4. § (5) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be, szövege a 618/2022. (XII. 29.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
 [^42]: A 4. § (6) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^43]: A 4. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.
+[^43]: A 4. § (6) bekezdés c) pontját a 365/2025. (XI. 28.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^44]: A 4. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.

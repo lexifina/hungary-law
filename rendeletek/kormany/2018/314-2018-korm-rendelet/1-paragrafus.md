@@ -46,7 +46,9 @@ b) a megrendelő szerv által lefolytatott beszerzési vagy közbeszerzési elj�
 
 16.[^10] szakrendszer: olyan hardver és szoftver elemekből álló, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus információs rendszer (a továbbiakban: informatikai rendszer), amely egy adott szakigazgatási feladatra jellemző, speciális szakmai folyamatokkal összefüggő nyilvántartási, ügyintézési tevékenységek végrehajtásához nyújt elektronikus támogatást.
 
-17.[^11] végső műszaki-szakmai átadás-átvétel: az alkalmazásfejlesztést, alkalmazás-továbbfejlesztést lezáró műszaki-szakmai átadás-átvételi eljárás.
+16a.[^11] szolgáltatástervezési központ: az Állami Alkalmazás-katalógus vezetésével kapcsolatos feladatokat ellátó és az Állami Alkalmazás-fejlesztési Környezet működésének és igénybevételének kereteit, továbbá az állami informatikai fejlesztésekre vonatkozó egységes állami követelményrendszert meghatározó, a Kormány rendeletében meghatározott szervezet,
+
+17.[^12] végső műszaki-szakmai átadás-átvétel: az alkalmazásfejlesztést, alkalmazás-továbbfejlesztést lezáró műszaki-szakmai átadás-átvételi eljárás.
 
 [^1]: Az 1. § 3. pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 5a. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
@@ -58,4 +60,5 @@ b) a megrendelő szerv által lefolytatott beszerzési vagy közbeszerzési elj�
 [^8]: Az 1. § 14a. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^9]: Az 1. § 15. pontját a 618/2022. (XII. 29.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
 [^10]: Az 1. § 16. pontja a 216/2025. (VII. 22.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^11]: Az 1. § 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^11]: Az 1. § 16a. pontját a 365/2025. (XI. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^12]: Az 1. § 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (6) bekezdése iktatta be.

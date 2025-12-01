@@ -1,3 +1,4 @@
-26/B. §[^113]
+26/B. §[^126] E rendeletnek a szolgáltatástervezési központ feladatairól, valamint a kapcsolódó feladatok Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság részére történő átadásáról szóló 365/2025. (XI. 28.) Korm. rendelettel (a továbbiakban: Módr. 3.) módosított 2. § (6) bekezdését, 4. § (3) bekezdés a), d) és e) pontját, 5. § (10) bekezdését, 7. § (1) bekezdését, 9. § (6) bekezdését, 10. § (2) bekezdését, 11. § (1) bekezdését, 12. § (2) bekezdését, 18. § (3) bekezdését, 16. § (3)–(6), (10) és (14) bekezdését, 17. § (3) és (7) bekezdését, 18. § (1)–(2), (4)–(5), (9), (11) és (15) bekezdését a Módr. 3. hatálybalépésekor[^127] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^113]: A 26/B. §-t a 717/2021. (XII. 20.) Korm. rendelet 26. § (10) bekezdése iktatta be, a 618/2022. (XII. 29.) Korm. rendelet 22. § m) pontja hatályon kívül helyezte.
+[^126]: A 26/B. §-t a 618/2022. (XII. 29.) Korm. rendelet 22. § m) pontja hatályon kívül helyezte, újonnan a 365/2025. (XI. 28.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^127]: A hatálybalépés időpontja 2025. november 29.
