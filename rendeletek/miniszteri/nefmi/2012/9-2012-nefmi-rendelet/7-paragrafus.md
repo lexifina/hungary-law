@@ -20,6 +20,6 @@ f) egy igénybevevőre vonatkozóan fennálló egyidejű vagy meghatározott id�
 
 (5) Azokat az egészségügyi eljárásokat, amelyek csak meghatározott OENO kódok mellett számolhatók el, az 5. melléklet tartalmazza.
 
-(6)[^6] Azokat az eljárásokat, amelyek telemedicinális ellátás keretében is elszámolhatóak, a 6. melléklet tartalmazza.
+(6)[^7] Azokat az eljárásokat, amelyek telemedicinális ellátás keretében is elszámolhatóak, a 6. melléklet tartalmazza.
 
-[^6]: A 7. § (6) bekezdését a 33/2020. (IX. 16.) EMMI rendelet 5. §-a iktatta be.
+[^7]: A 7. § (6) bekezdését a 33/2020. (IX. 16.) EMMI rendelet 5. §-a iktatta be.

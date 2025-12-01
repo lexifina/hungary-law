@@ -1,6 +1,4 @@
-## 17. §[^15] Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet és az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló 9/2012. (II. 28.) NEFMI rendelet módosításáról szóló 33/2020. (IX. 16.) EMMI rendelettel megállapított 6. mellékletben foglalt táblázat 1. sora szerinti egészségügyi eljárás a 2020. októberi teljesítményektől kezdve számolható el telemedicinális ellátás keretében.
-
-1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^16]
+1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^18]
 
 Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
@@ -26,15 +24,17 @@ Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
 | 3. | Ismételhetőség | Egy egészségügyi szolgáltatónál egy adott egészségügyi eljárás milyen időközönként számolható el |
 
-3. Az elszámolhatósági feltételek az adott egészségügyi eljárás mellett szükségszerűen elvégzendő egészségügyi eljárások, vagy azzal egyidejűleg el nem számolható egészségügyi eljárások
+3. Az elszámolhatósági feltételek az adott egészségügyi eljárás mellett szükségszerűen elvégzendő egészségügyi eljárások vagy azzal egyidejűleg el nem számolható egészségügyi eljárások tekintetében
 
 |  | A | B |
 
 | 1. | Feltétel | Jelölés |
 
-| 2. | Adott egészségügyi eljárás akkor számolható el, ha egyidejűleg elvégeztek mellette a 3. mellékletében az együtt elszámolhatósági feltételt követően felsoroltakból legalább egy egészségügyi eljárást. | Együtt |
+| 2. | Adott egészségügyi eljárás akkor számolható el, ha egyidejűleg elvégeztek mellette a 3. mellékletben az együtt elszámolhatósági feltételt követően felsoroltakból legalább egy egészségügyi eljárást. | Együtt |
 
-| 3. | Adott egészségügyi eljárás mellett nem elszámolható egészségügyi eljárás(ok): - azonos típusú egészségügyi eljárások egyidejű elvégzése vagy elszámolása kizárt, - összetett egészségügyi eljárás részét képező egészségügyi eljárás(ok). | Kizárva |
+| 3. | Adott egészségügyi eljárás akkor számolható el, ha meghatározott munkanapon belül elvégeztek mellette a 3. mellékletben az együtt elszámolhatósági feltételt követően felsoroltakból legalább egy egészségügyi eljárást. | Együtt N munkanapon belül |
+
+| 4. | Adott egészségügyi eljárás mellett nem elszámolható egészségügyi eljárás(ok): a) azonos típusú egészségügyi eljárások egyidejű elvégzése vagy elszámolása kizárt, b) összetett egészségügyi eljárás részét képező egészségügyi eljárás(ok). | Kizárva |
 
 4. Mennyiségi elszámolhatósági korlátok egy megjelenési esetre, további feltételek nélkül vagy valamilyen feltétel függvényében
 
@@ -448,7 +448,7 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 6.2.1. A CT, MR vizsgálatok elszámolásánál a következő általános érvényű szempontokat kell figyelembe venni:
 
-6.2.1.1. Elvégzett CT, MR vizsgálat csak akkor számolható el, ha (nem diaméretű) képi vagy digitális dokumentáció készült, mely egy példányát a beteg megkapta, egy példány ellenőrizhetően archiválásra került, és radiológus szakorvos leletezte. A beutalási rendről jogszabályok rendelkeznek.
+6.2.1.1. Az elvégzett CT vagy MR vizsgálat csak akkor számolható el, ha 7 munkanapon belül a felvételt radiológus szakorvos leletezte és – nem diaméretű – képi vagy digitális dokumentáció elkészült, mely egy példányát a beteg megkapta, egy példány ellenőrizhetően archiválásra került. A beutalási rendet a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló kormányrendelet tartalmazza.
 
 6.2.1.2. A CT, MR vizsgálatok test régiónként történnek, natív, intravénás kontrasztanyag alkalmazásával, illetve natív plusz intravénás kontrasztanyag adását követően.
 
@@ -578,5 +578,4 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
-[^15]: A 17. §-t a 33/2020. (IX. 16.) EMMI rendelet 6. §-a iktatta be.
-[^16]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 2. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 3. § (1) bekezdése, a 33/2023. (VIII. 24.) BM rendelet 2. § (1) bekezdése, a 34/2023. (VIII. 24.) BM rendelet 6. § (1) bekezdése, a 10/2025. (IV. 4.) BM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^18]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 2. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 3. § (1) bekezdése, a 33/2023. (VIII. 24.) BM rendelet 2. § (1) bekezdése, a 34/2023. (VIII. 24.) BM rendelet 6. § (1) bekezdése, a 10/2025. (IV. 4.) BM rendelet 23. § (1) bekezdése, a 46/2025. (XI. 28.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
