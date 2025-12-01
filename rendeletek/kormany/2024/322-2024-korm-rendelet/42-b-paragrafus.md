@@ -6,8 +6,8 @@
 
 (4) A megszüntetéssel egyidejűleg a szolgáltató tájékoztatja a digitális állampolgárság nyilvántartást vezető szervet a megszüntetésről és a dokumentumok letárolásának tényéről, aki a dokumentumok átvételének módjáról és helyéről tájékoztatja a hagyatéki leltár felvételére hatáskörrel rendelkező illetékes hatóságot, amely a hagyatékátadás jogerőre emelkedéséről a szolgáltatót a digitális állampolgárság nyilvántartást vezető szerv útján értesíti.
 
-(4a)[^26] A (4) bekezdés szerinti tájékoztatás elektronikus információs rendszerek útján történik, közvetlen hozzáférés biztosításával.
+(4a)[^35] A (4) bekezdés szerinti tájékoztatás elektronikus információs rendszerek útján történik, közvetlen hozzáférés biztosításával.
 
 (5) A szolgáltató a hagyatékátadás jogerőre emelkedésétől számított 1 évig őrzi meg a dokumentumokat, melyeket az örökös kérelmére, e jogosultságának igazolását követően bocsátja rendelkezésére. Ha a hagyatékátadó végzés jogerőre emelkedésétől számított 1 éven belül a szolgáltatóhoz nem érkezik ilyen kérelem, a szolgáltató gondoskodik a korábban a tárhelyről letárolt dokumentumok helyreállíthatatlan módon való törléséről.
 
-[^26]: A 42/B. § (4a) bekezdését a 216/2025. (VII. 22.) Korm. rendelet 16. §-a iktatta be.
+[^35]: A 42/B. § (4a) bekezdését a 216/2025. (VII. 22.) Korm. rendelet 16. §-a iktatta be.

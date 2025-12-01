@@ -14,7 +14,7 @@ c) ha a tervezett technikai tevékenység a digitális szolgáltatás nyújtás�
 
 d) ha az elektronikus ügyintézés olyan elektronikus felületen is elérhető, amelyet a technikai tevékenység nem érint, a felület elérhetőségét.
 
-(4)[^16] Előre nem tervezett üzemszünet vagy az elektronikus ügyintézés korlátozott működőképességét okozó esemény (a továbbiakban együtt: üzemzavar) bekövetkezése esetén a digitális szolgáltatást biztosító szervezet az üzemzavar bekövetkezését követően haladéktalanul, a digitális állampolgárság egyes szabályairól szóló kormányrendelet elektronikus tájékoztatásra vonatkozó fejezetében meghatározottak szerinti tájékoztatási felületeken, valamint saját honlapján köteles soron kívül tájékoztatást közzétenni. A tájékoztatásban fel kell tüntetni
+(4)[^25] Előre nem tervezett üzemszünet vagy az elektronikus ügyintézés korlátozott működőképességét okozó esemény (a továbbiakban együtt: üzemzavar) bekövetkezése esetén a digitális szolgáltatást biztosító szervezet az üzemzavar bekövetkezését követően haladéktalanul, a digitális állampolgárság egyes szabályairól szóló kormányrendelet elektronikus tájékoztatásra vonatkozó fejezetében meghatározottak szerinti tájékoztatási felületeken, valamint saját honlapján köteles soron kívül tájékoztatást közzétenni. A tájékoztatásban fel kell tüntetni
 
 a) az üzemzavarral pontosan érintett ügyintézési szolgáltatások meghatározását,
 
@@ -24,4 +24,4 @@ c) a működő felület elérhetőségét, ha az elektronikus ügyintézés más
 
 (5) A digitális szolgáltatást biztosító szervezet az elvégzett (2) bekezdés szerinti tevékenységről, valamint a (4) bekezdés szerinti üzemzavarról szóló nyilvántartást a SZÜF-ön és a saját honlapján is hozzáférhetővé teszi. A nyilvántartásnak tartalmaznia kell a technikai tevékenység, illetve az üzemzavar pontos időpontját és időtartamát, továbbá a digitális szolgáltatást biztosító szervezet által kiadott tájékoztatást.
 
-[^16]: A 12. § (4) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^25]: A 12. § (4) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
