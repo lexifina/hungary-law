@@ -26,29 +26,31 @@ ag)[^368] a robotterápiás vagy egyéb computerizált interaktív terápiás eg
 
 ah)[^369] a repetitív transzkraniális mágneses stimuláció (rTMS) akut kezelése eljárást;
 
+ai)[^370] a fekvőbeteg-szakellátást megelőző CT, MRI, röntgen eljárások leletezését;
+
 b) az olyan személy részére nyújtott ellátás, akit az ellátás napján – a rendelő beutalása alapján – a rendelőt működtető egészségügyi intézmény valamely fekvőbetegosztályára felvettek;
 
-c)[^370]
+c)[^371]
 
 d) az olyan személy részére nyújtott ellátás, amelynek költségeit az egészségügyi szolgáltató a beutaló (vizsgálatot kérő) szolgáltatóval közvetlenül elszámolja, vagy amely máshonnan megtérítésre kerül.
 
-(5)[^371] A nyújtott ellátáshoz tartozó önálló elszámolási tételként azt a legmagasabb pontértékű tételt lehet kiválasztani, amely tételhez tartozó szakmai követelményrendszernek az ellátás megfelelt.
+(5)[^372] A nyújtott ellátáshoz tartozó önálló elszámolási tételként azt a legmagasabb pontértékű tételt lehet kiválasztani, amely tételhez tartozó szakmai követelményrendszernek az ellátás megfelelt.
 
-(6)[^372] Ha a szakrendelés egy személy részére több egymással össze nem függő ellátást nyújt, akkor az ellátásokat az (5) bekezdésben foglaltak szerint külön-külön lehet elszámolni. A laboratóriumban végzett terheléses vizsgálatok elszámolása – külön beavatkozási kód hiányában – a vizsgálat szakmai szabályok szerinti ismételt jelentésével történik.
+(6)[^373] Ha a szakrendelés egy személy részére több egymással össze nem függő ellátást nyújt, akkor az ellátásokat az (5) bekezdésben foglaltak szerint külön-külön lehet elszámolni. A laboratóriumban végzett terheléses vizsgálatok elszámolása – külön beavatkozási kód hiányában – a vizsgálat szakmai szabályok szerinti ismételt jelentésével történik.
 
-(7)[^373] A laboratóriumi és a kórbonctani-kórszövettani vizsgálatok teljesítménye akkor is elszámolható, ha az alapellátás vagy a járóbeteg-szakellátás orvosának rendelésére beküldött mintából történt a vizsgálatok elvégzése. Az ellátás időpontjának a mintavétel időpontját kell tekinteni.
+(7)[^374] A laboratóriumi és a kórbonctani-kórszövettani vizsgálatok teljesítménye akkor is elszámolható, ha az alapellátás vagy a járóbeteg-szakellátás orvosának rendelésére beküldött mintából történt a vizsgálatok elvégzése. Az ellátás időpontjának a mintavétel időpontját kell tekinteni.
 
-(8)[^374] Ha a fekvőbeteg-ellátást nyújtó szolgáltató kérésére vagy jogszabály előírása alapján a beteg részére egészségügyi szolgáltatást más szolgáltató nyújt, ennek költségeit a szolgáltatók egymás között számolják el. Az elszámolás során legfeljebb az adott szolgáltatásnak a NEAK által alkalmazott aktuális finanszírozási paraméterei és a 6. § (2) bekezdése szerinti forintértékek vehetők figyelembe.
+(8)[^375] Ha a fekvőbeteg-ellátást nyújtó szolgáltató kérésére vagy jogszabály előírása alapján a beteg részére egészségügyi szolgáltatást más szolgáltató nyújt, ennek költségeit a szolgáltatók egymás között számolják el. Az elszámolás során legfeljebb az adott szolgáltatásnak a NEAK által alkalmazott aktuális finanszírozási paraméterei és a 6. § (2) bekezdése szerinti forintértékek vehetők figyelembe.
 
-(9)[^375]
+(9)[^376]
 
-(10)[^376]
+(10)[^377]
 
-(11)[^377] Az (1) bekezdés szerinti jelentést meg kell küldeni a finanszírozónak a tárgyhónapot követő hónap 5. munkanapjáig.
+(11)[^378] Az (1) bekezdés szerinti jelentést meg kell küldeni a finanszírozónak a tárgyhónapot követő hónap 5. munkanapjáig.
 
-(12)[^378] A 6. § (2) bekezdésének b) pontja alapján a forintérték meghirdetésre a 38. § (3) bekezdésében foglalt szabályokat kell alkalmazni.
+(12)[^379] A 6. § (2) bekezdésének b) pontja alapján a forintérték meghirdetésre a 38. § (3) bekezdésében foglalt szabályokat kell alkalmazni.
 
-(13)[^379]
+(13)[^380]
 
 [^362]: A 30. § (2) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 697/2020. (XII. 29.) Korm. rendelet 27. § n) pontja szerint módosított szöveg.
 [^363]: A 30. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 16. §-ának (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
@@ -58,13 +60,14 @@ d) az olyan személy részére nyújtott ellátás, amelynek költségeit az eg�
 [^367]: A 30. § (4) bekezdés a) pontja a 757/2021. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^368]: A 30. § (4) bekezdés a) pont ag) alpontját a 394/2023. (VIII. 24.) Korm. rendelet 1. §-a iktatta be.
 [^369]: A 30. § (4) bekezdés a) pont ah) alpontját a 463/2024. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
-[^370]: A 30. § (4) bekezdés c) pontját a 139/2011. (VII. 21.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
-[^371]: A 30. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (5) bekezdésre változtatta.
-[^372]: A 30. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (6) bekezdésre változtatta, szövege a 257/2001. (XII. 19.) Korm. rendelet 24. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
-[^373]: A 30. § (6) bekezdése a 21/2000. (III. 3.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg. Az eredeti (6) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (7) bekezdésre változtatta.
-[^374]: A 30. § eredeti (7) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (8) bekezdésre változtatta, szövege a 139/2011. (VII. 21.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 447/2012. (XII. 29.) Korm. rendelet 28. § g) pontj, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^375]: A Vhr. 30. § (9) - eredetileg (8) bekezdését - a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 132/2006. (VI. 15.) Korm. rendelet 2. §-a iktatta be, újból hatályon kívül helyezte a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés c) pontja
-[^376]: A 30. § (10) – eredetileg (9) – bekezdését a 29/2001. (III. 2.) Korm. rendelet 22. §-a (6) bekezdésének e) pontja hatályon kívül helyezte.
-[^377]: A 30. § eredeti (10) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (11) bekezdésre változtatta, szövege a 187/2001. (X. 12.) Korm. rendelet 6. §-ával megállapított, a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § g) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
-[^378]: A 30. § eredeti (11) bekezdésének első mondata a 14/2001. (II. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg, a bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (12) bekezdésre változtatta. A 257/2001. (XII. 19.) Korm. rendelet 24. § (4) bekezdésének b) és (6) bekezdésének d) pontja módosította.
-[^379]: A 30. § (13) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 10. §-a iktatta be, a 15/2005. (I. 26.) Korm. rendelet 19. § (3) bekezdése hatályon kívül helyezte.
+[^370]: A 30. § (4) bekezdés a) pont ai) alpontját a 356/2025. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^371]: A 30. § (4) bekezdés c) pontját a 139/2011. (VII. 21.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^372]: A 30. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (5) bekezdésre változtatta.
+[^373]: A 30. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (6) bekezdésre változtatta, szövege a 257/2001. (XII. 19.) Korm. rendelet 24. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
+[^374]: A 30. § (6) bekezdése a 21/2000. (III. 3.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg. Az eredeti (6) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (7) bekezdésre változtatta.
+[^375]: A 30. § eredeti (7) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (8) bekezdésre változtatta, szövege a 139/2011. (VII. 21.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 447/2012. (XII. 29.) Korm. rendelet 28. § g) pontj, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^376]: A Vhr. 30. § (9) - eredetileg (8) bekezdését - a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 132/2006. (VI. 15.) Korm. rendelet 2. §-a iktatta be, újból hatályon kívül helyezte a 365/2010. (XII. 30.) Korm. rendelet 19. § (1) bekezdés c) pontja
+[^377]: A 30. § (10) – eredetileg (9) – bekezdését a 29/2001. (III. 2.) Korm. rendelet 22. §-a (6) bekezdésének e) pontja hatályon kívül helyezte.
+[^378]: A 30. § eredeti (10) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (11) bekezdésre változtatta, szövege a 187/2001. (X. 12.) Korm. rendelet 6. §-ával megállapított, a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § g) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
+[^379]: A 30. § eredeti (11) bekezdésének első mondata a 14/2001. (II. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg, a bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 10. §-a (12) bekezdésre változtatta. A 257/2001. (XII. 19.) Korm. rendelet 24. § (4) bekezdésének b) és (6) bekezdésének d) pontja módosította.
+[^380]: A 30. § (13) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 10. §-a iktatta be, a 15/2005. (I. 26.) Korm. rendelet 19. § (3) bekezdése hatályon kívül helyezte.
