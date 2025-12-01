@@ -1,0 +1,1 @@
+7. § Aki e rendelet hatálybalépésekor a Polgári Törvénykönyv szerinti közeli hozzátartozójától bérel lakást, arra a 3. § (3) bekezdés f) pontja szerinti kizáró feltétel nem alkalmazandó mindaddig, amíg a bérleti vagy albérleti díj mértéke nem változik, vagy legfeljebb a tárgyévet megelőző éves átlagos infláció mértékével emelkedik.

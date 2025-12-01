@@ -1,0 +1,1 @@
+6. § A rendvédelmi lakhatási támogatás 2026. január hónapra történő folyósítására irányuló kérelem 2025. december 1-jét követően benyújtható, azzal, hogy a rendvédelmi lakhatási támogatás folyósítására 2026. január 1-jétől van lehetőség, első alkalommal a 2026. január hónapra megfizetendő lakásbérleti vagy albérleti díj tekintetében.
