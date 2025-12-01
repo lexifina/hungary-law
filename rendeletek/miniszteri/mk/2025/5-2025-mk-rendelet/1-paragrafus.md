@@ -12,14 +12,10 @@ b) a bruttó 200 m2-t nem meghaladó alapterületű üzletet üzemeltető keresk
 
 az 1. melléklet szerinti formai követelményeket, arculati elemeket és szöveget tartalmazó tájékoztatót használja a vásárlók tájékoztatása érdekében.
 
-(3) Az 1. melléklet szerinti tájékoztatót
-
-a) a (2) bekezdés a) pontja szerinti kötelezett az üzlet vásárlók által használható összes bejáratánál, az üzletben szokásosan használt információs táblákkal megegyező méretű, de legalább 297×420 milliméter nagyságú (A3 méret) méretben, jól látható információs táblán,
-
-b) a (2) bekezdés b) pontja szerinti kötelezett az üzlet vásárlók által használható bejáratánál, az üzletben szokásosan használt információs táblákkal megegyező méretű, de legalább 210×297 milliméter nagyságú (A4 méret) méretben, jól látható információs táblán
-
-köteles kihelyezni.
+(3)[^1] Az 1. melléklet szerinti tájékoztatót a (2) bekezdés szerinti kötelezett az üzlet vásárlók által használható összes bejáratánál, az üzletben szokásosan használt információs táblákkal megegyező méretű, de legalább 297×420 milliméter nagyságú (A3 méret) méretben, jól látható információs táblán köteles kihelyezni.
 
 (4) A (2) bekezdés a) pontja szerinti kereskedő a 2. melléklet szerinti formai követelményeket, arculati elemeket és szöveget tartalmazó jelzést is használja a vásárlók tájékoztatása érdekében, melyet közvetlenül a termék mellett – egyedi árkiírás alkalmazása esetén az egyedi árkiírás mellett –, jól látható helyen köteles kihelyezni, legalább 80×50 milliméter nagyságú méretben.
 
 (5) Azon kereskedő, aki kizárólag csomagküldő kereskedelmet folytat, valamint azon kereskedő, aki rendelkezik internetes honlappal, honlapjának nyitó felületén jól látható méretben közzéteszi az 1. melléklet szerinti tájékoztatót, valamint az egyes termékek ára mellett jól látható méretben elhelyezi a 2. melléklet szerinti jelzést.
+
+[^1]: Az 1. § (3) bekezdése a 19/2025. (XI. 28.) MK rendelet 1. §-ával megállapított szöveg.
