@@ -1,0 +1,1 @@
+13. § A Tanács elnöki tisztségét a mesterséges intelligenciáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1028/2025. (II. 24.) Korm. határozat alapján e törvény hatálybalépésekor fennálló kinevezésének ott megállapított időtartamáig a mesterséges intelligenciáért felelős kormánybiztos tölti be.

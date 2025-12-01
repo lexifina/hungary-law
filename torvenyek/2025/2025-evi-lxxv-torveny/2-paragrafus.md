@@ -1,0 +1,1 @@
+2. § Ha e törvény eltérően nem rendelkezik, az e törvényben és az annak végrehajtását szolgáló jogszabályokban alkalmazott fogalmakat az (EU) 2024/1689 európai parlamenti és tanácsi rendelet 3. cikkében szereplő meghatározások szerinti tartalommal kell értelmezni.
