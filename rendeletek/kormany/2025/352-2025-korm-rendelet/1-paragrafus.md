@@ -6,4 +6,4 @@
 
 1. §[^1]
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2025. december 1-jén lép hatályba.
+[^1]: Az 1. § a 367/2025. (XI. 28.) Korm. rendelet 4. §-a alapján nem lép hatályba.
