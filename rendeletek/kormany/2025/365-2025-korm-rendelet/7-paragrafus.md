@@ -1,3 +1,1 @@
-7. §[^5]
-
-[^5]: A 7. § a 2. § (2) bekezdése alapján 2025. december 1-jén lép hatályba.
+7. § A 307/2022. (VIII. 11.) Korm. rendelet 8. § (3) bekezdésében az „(1) és (2) bekezdésben” szövegrész helyébe az „(1)–(2) bekezdésben” szöveg lép.

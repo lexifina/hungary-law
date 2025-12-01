@@ -1,3 +1,1 @@
-10. §[^10]
-
-[^10]: A 10. § a 2. § (2) bekezdése alapján 2025. december 1-jén lép hatályba.
+10. § Hatályát veszti a digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 4. § (1) bekezdésében az „A digitális állampolgárság szolgáltató kivételével,” szövegrész.
