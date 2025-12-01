@@ -12,7 +12,7 @@ központosított alkalmazás-üzemeltetési és alkalmazás-fejlesztési, továb
 
 (4) 2025. január 1-jét követő 120 napon belül a Felügyelet hivatalból – az érintett központi szolgáltató bevonásával – teljeskörűen felülvizsgálja az (1) bekezdés b) pontja és a (2) bekezdés szerinti kötelezettségeket, és a felülvizsgálat eredményétől függően hatósági határozatában állapítja meg az (1) bekezdés b) pontja szerinti alkalmazások és infrastruktúra, továbbá a (2) bekezdés szerinti szervezetek tekintetében az e rendelet szerinti szolgáltatások kötelező igénybevételét és a finanszírozás módját.
 
-(5)[^2] 2026. január 1-jét követő 120 napon belül a Felügyelet hivatalból – az érintett központi szolgáltató bevonásával – teljeskörűen felülvizsgálja az (1) bekezdés a) pontja szerinti kötelezettségeket, és a felülvizsgálat eredményétől függően hatósági határozatában állapítja meg az (1) bekezdés a) pontja szerinti alkalmazások és infrastruktúra e rendelet szerinti kötelező igénybevételét és a finanszírozás módját.
+(5)[^4] 2026. január 1-jét követő 120 napon belül a Felügyelet hivatalból – az érintett központi szolgáltató bevonásával – teljeskörűen felülvizsgálja az (1) bekezdés a) pontja szerinti kötelezettségeket, és a felülvizsgálat eredményétől függően hatósági határozatában állapítja meg az (1) bekezdés a) pontja szerinti alkalmazások és infrastruktúra e rendelet szerinti kötelező igénybevételét és a finanszírozás módját.
 
 (6) A 309/2011. (XII. 23.) Korm. rendelet 2024. december 31. napján hatályos 2/A. melléklete szerinti szolgáltatási kivételek körébe tartozó központi költségvetési szervek a szolgáltatási kivételek közé tartozó szolgáltatások tekintetében 2025. január 1-jét követően is mentesülnek a kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatások kötelező igénybevétele alól.
 
@@ -20,4 +20,4 @@ központosított alkalmazás-üzemeltetési és alkalmazás-fejlesztési, továb
 
 (8) Az (1) és (2) bekezdésben szabályozott kötelezés és a (6) bekezdésben szabályozott mentesülés a Felügyelet által a teljes körű felülvizsgálatot lezáró utolsó határozat véglegessé válását követő napon szűnik meg.
 
-[^2]: A 15. § (5) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^4]: A 15. § (5) bekezdése a 164/2025. (VI. 23.) Korm. rendelet 51. §-a szerint módosított szöveg.
