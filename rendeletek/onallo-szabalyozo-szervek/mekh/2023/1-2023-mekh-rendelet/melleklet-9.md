@@ -34,10 +34,10 @@
 
 | 17. | Hátralékos fogyasztók adatai | V780 | Havi | Az adatokat a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 18.[^73] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | V724 | Negyedéves | Az adatokat a tárgyidőszakot követő 25. napig kell megadni. |
+| 18.[^72] | Lakossági fogyasztók száma a számlakiegyenlítés módja szerint | V724 | Negyedéves | Az adatokat a tárgyidőszakot követő 25. napig kell megadni. |
 
 9. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A szervezett villamosenergia-piaci engedélyes adatszolgáltatási kötelezettsége
 
-[^73]: A 8. mellékletben foglalt táblázat 18. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (4) bekezdése iktatta be.
+[^72]: A 8. mellékletben foglalt táblázat 18. sorát a 8/2025. (VI. 4.) MEKH rendelet 6. § (4) bekezdése iktatta be.

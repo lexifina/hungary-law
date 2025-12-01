@@ -44,13 +44,13 @@
 
 | 13. | Határkeresztező kapacitás vásárlás és értékesítés | V614 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 14. | Az Energiadíj Kalkulátorban megjelenő ajánlatok adatai[^67] | V620 | Éves | Az adatokat új ajánlat bevezetésekor, tetszőleges alkalommal lehet teljesíteni, de az ajánlatokról azok bevezetését megelőzően a kitöltési útmutatóban foglaltak szerint kötelező az adatszolgáltatás megtétele. Az adatszolgáltatás időszaka minden év december 31. napjáig tart. |
+| 14. | Az Energiadíj Kalkulátorban megjelenő ajánlatok adatai[^66] | V620 | Éves | Az adatokat új ajánlat bevezetésekor, tetszőleges alkalommal lehet teljesíteni, de az ajánlatokról azok bevezetését megelőzően a kitöltési útmutatóban foglaltak szerint kötelező az adatszolgáltatás megtétele. Az adatszolgáltatás időszaka minden év december 31. napjáig tart. |
 
 | 15. | Hátralékos fogyasztók adatai | V680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 16.[^68] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 16.[^67] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 17.[^69] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^68] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
 ## III. A Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -82,23 +82,23 @@
 
 | 13. | Határkeresztező kapacitás vásárlás és értékesítés | V614 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 14. | Az Energiadíj Kalkulátorban megjelenő ajánlatok adatai[^70] | V620 | Éves | Az adatokat új ajánlat bevezetésekor, tetszőleges alkalommal lehet teljesíteni, de az ajánlatokról azok bevezetését megelőzően a kitöltési útmutatóban foglaltak szerint kötelező az adatszolgáltatás megtétele. Az adatszolgáltatás időszaka minden év december 31. napjáig tart. |
+| 14. | Az Energiadíj Kalkulátorban megjelenő ajánlatok adatai[^69] | V620 | Éves | Az adatokat új ajánlat bevezetésekor, tetszőleges alkalommal lehet teljesíteni, de az ajánlatokról azok bevezetését megelőzően a kitöltési útmutatóban foglaltak szerint kötelező az adatszolgáltatás megtétele. Az adatszolgáltatás időszaka minden év december 31. napjáig tart. |
 
 | 15. | Garantált szolgáltatások – kereskedők | V670 | Éves | Az adatokat évente, a tárgyidőszakot követő év március 31-ig kell megadni. |
 
 | 16. | Hátralékos fogyasztók adatai | V680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 17.[^71] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^70] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 18.[^72] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 18.[^71] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
 8. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A villamosenergia egyetemes szolgáltatói engedélyes adatszolgáltatási kötelezettsége
 
-[^67]: A 7. melléklet II. pontjában foglalt táblázat A:14 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 3. pontjával megállapított szöveg.
-[^68]: A 7. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
-[^69]: A 7. melléklet II. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
-[^70]: A 7. melléklet III. pontjában foglalt táblázat A:14 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 3. pontjával megállapított szöveg.
-[^71]: A 7. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
-[^72]: A 7. melléklet III. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^66]: A 7. melléklet II. pontjában foglalt táblázat A:14 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 3. pontjával megállapított szöveg.
+[^67]: A 7. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^68]: A 7. melléklet II. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^69]: A 7. melléklet III. pontjában foglalt táblázat A:14 mezője a 11/2024. (XI. 21.) MEKH rendelet 6. § 3. pontjával megállapított szöveg.
+[^70]: A 7. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^71]: A 7. melléklet III. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
