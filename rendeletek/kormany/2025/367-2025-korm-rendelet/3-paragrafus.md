@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § az 5. § (2) bekezdése alapján 2025. december 1-jén lép hatályba.
+3. § A 42/2025. (III. 11.) Korm. rendelet 1. melléklet 3. pontjában a „14–24. sora” szövegrész helyébe a „14–24., valamint 35. sora” szöveg lép.

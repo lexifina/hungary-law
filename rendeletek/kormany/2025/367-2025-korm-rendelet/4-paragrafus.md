@@ -1,5 +1,3 @@
 ## 3. Az élelmiszerárak csökkentése érdekében szükséges intézkedésekről szóló 42/2025. (III. 11.) Korm. rendelet módosításáról szóló 352/2025. (XI. 13.) Korm. rendelet módosítása
 
-4. §[^4]
-
-[^4]: A 4. § az 5. § (2) bekezdése alapján 2025. december 1-jén lép hatályba.
+4. § Nem lép hatályba az élelmiszerárak csökkentése érdekében szükséges intézkedésekről szóló 42/2025. (III. 11.) Korm. rendelet módosításáról szóló 352/2025. (XI. 13.) Korm. rendelet 1. §-a, 2. § c) pontja és 1. melléklete.
