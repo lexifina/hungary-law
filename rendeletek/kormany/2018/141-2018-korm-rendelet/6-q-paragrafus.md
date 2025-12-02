@@ -1,4 +1,4 @@
-6/Q. §[^236] (1) A 2. mellékletben foglalt táblázat 69. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
+6/Q. §[^238] (1) A 2. mellékletben foglalt táblázat 69. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(6) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -36,4 +36,4 @@ helyezhető el.
 
 (6) A 2. mellékletben foglalt táblázat 69. sora szerinti beruházással érintett ingatlanok az érintett telkek méretétől függetlenül lekeríthetők.
 
-[^236]: A 6/Q. §-t a 400/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^238]: A 6/Q. §-t a 400/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be.

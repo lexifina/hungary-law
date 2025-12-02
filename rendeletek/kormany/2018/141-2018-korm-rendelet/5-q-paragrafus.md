@@ -46,9 +46,13 @@ l) a megengedett legkisebb zöldfelületi mértéket az ingatlanból a telekalak
 
 (10)[^110] A (7) bekezdés szerinti épület használatbavételi eljárásában az építésügyi hatóság nem vizsgálja az épületek energetikai jellemzőinek a tanúsításáról szóló kormányrendeletben meghatározott energetikai tanúsítvány meglétét és az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti energetikai követelményeknek való megfelelést.
 
-(11)[^111] A 2. mellékletben foglalt táblázat B:21 mezőjében megjelölt ingatlanok területén a közcélú villamos hálózat kiváltására irányuló munkát a magyar építészetről szóló 2023. évi C. törvény 200. § (3)–(8) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
+(10a)[^111] Az építési beruházás megvalósítása során a fő rendeltetés szerinti épületek próbaüzemének végéig az építésügyi hatóság az egyes épületekre vonatkozó használatbavételi eljáráskor legfeljebb hat hónapos határidővel feltételként a beruházó részére előírja az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározott energetikai tanúsítvány megszerzését és az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti energetikai követelményeknek való megfelelést.
 
-(12)[^112] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.1. alpont 2.1.1. pontjában foglalt táblázatban meghatározott területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
+(10b)[^112] A (10a) bekezdésben meghatározott esetben is a beruházó köteles gondoskodni a (10a) bekezdés szerinti határidő lejártáig az épület rendeltetésszerű használatáról és üzemeltetéséről.
+
+(11)[^113] A 2. mellékletben foglalt táblázat B:21 mezőjében megjelölt ingatlanok területén a közcélú villamos hálózat kiváltására irányuló munkát a magyar építészetről szóló 2023. évi C. törvény 200. § (3)–(8) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
+
+(12)[^114] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.1. alpont 2.1.1. pontjában foglalt táblázatban meghatározott területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
 
 a) a beépítettség megengedett legnagyobb mértéke 50%,
 
@@ -62,7 +66,7 @@ e) a kialakítható telek legkisebb területe 10 000 m²,
 
 f) villamos alállomás elhelyezhető.
 
-(13)[^113] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.1. alpont 2.1.2. és 2.1.3. pontjában foglalt táblázatban meghatározott területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
+(13)[^115] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.1. alpont 2.1.2. és 2.1.3. pontjában foglalt táblázatban meghatározott területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
 
 a) a beépítettség megengedett legnagyobb mértéke 50%,
 
@@ -74,7 +78,7 @@ d) a homlokzatmagasság megengedett legnagyobb mértéke 12,5 méter,
 
 e) a kialakítható telek legkisebb területe 4000 m².
 
-(14)[^114] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.2. alpontjában foglalt táblázatban meghatározott területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
+(14)[^116] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.2. alpontjában foglalt táblázatban meghatározott területre vonatkozó sajátos beépítési szabályok és egyedi építési követelmények:
 
 a) a beépítettség megengedett legnagyobb mértéke 40%,
 
@@ -86,7 +90,7 @@ d) a homlokzatmagasság megengedett legnagyobb mértéke 12,5 méter,
 
 e) a kialakítható telek legkisebb területe 4000 m².
 
-(15)[^115] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.3. alpont 2.3.1–2.3.4. pontjában foglalt táblázatban meghatározott területen oktatási, nevelési, kutatás-fejlesztési, kereskedelmi, szolgáltató, kulturális, igazgatási, iroda, sport, szálláshely, ipari és közlekedési rendeltetésű, geotermikus erőműhöz kapcsolódó létesítmények és építmények helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(15)[^117] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.3. alpont 2.3.1–2.3.4. pontjában foglalt táblázatban meghatározott területen oktatási, nevelési, kutatás-fejlesztési, kereskedelmi, szolgáltató, kulturális, igazgatási, iroda, sport, szálláshely, ipari és közlekedési rendeltetésű, geotermikus erőműhöz kapcsolódó létesítmények és építmények helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 1. az építési hely az ingatlan teljes területe,
 
@@ -112,13 +116,13 @@ e) a kialakítható telek legkisebb területe 4000 m².
 
 12. a beruházással érintett építmény gépjárművel való megközelítése nem korlátozott, gépkocsibehajtó létesíthető,
 
-13.[^116] az építmények és önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK. 4. számú melléklete, illetve a TÉKA 4. melléklete alapján számított személygépkocsik számának legalább 40%-ának elhelyezését kell biztosítani,
+13.[^118] az építmények és önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK. 4. számú melléklete, illetve a TÉKA 4. melléklete alapján számított személygépkocsik számának legalább 40%-ának elhelyezését kell biztosítani,
 
 14. közterületről látható hírközlési és egyéb adatátviteli berendezés, antenna az épületen elhelyezhető.
 
-(16)[^117] A 2. mellékletben foglalt táblázat 21. sora szerinti ipari beruházás kapcsán a 12. melléklet 2. pont 2.3. alpont 2.3.1–2.3.4. pontjában foglalt táblázatban meghatározott területen a helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem feltétele.
+(16)[^119] A 2. mellékletben foglalt táblázat 21. sora szerinti ipari beruházás kapcsán a 12. melléklet 2. pont 2.3. alpont 2.3.1–2.3.4. pontjában foglalt táblázatban meghatározott területen a helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem feltétele.
 
-(16a)[^118] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.4. alpontjában foglalt táblázatban meghatározott területre a közúti és a vasúti személyszállítási és utasforgalmi, valamint kapcsolódó teherforgalmi tevékenységhez, a telephely fenntartásához, kiszolgálásához, védelméhez kapcsolódó rendeltetéseket tartalmazó építmények, valamint nagy kapacitású közterületi parkolók építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(16a)[^120] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.4. alpontjában foglalt táblázatban meghatározott területre a közúti és a vasúti személyszállítási és utasforgalmi, valamint kapcsolódó teherforgalmi tevékenységhez, a telephely fenntartásához, kiszolgálásához, védelméhez kapcsolódó rendeltetéseket tartalmazó építmények, valamint nagy kapacitású közterületi parkolók építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a beépítettség megengedett legnagyobb mértéke 40%,
 
@@ -130,35 +134,35 @@ d) a homlokzatmagasság megengedett legnagyobb mértéke 12,5 méter,
 
 e) a kialakítható telek legkisebb területe 2000 m².
 
-(16b)[^119] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.6. alpontjában foglalt táblázatban meghatározott területre a többszintes területfelhasználás érintett szintjére vonatkozó, az OTÉK, illetve a TÉKA szerinti közlekedési területre vagy az OTÉK, illetve a TÉKA szerinti magánútra vonatkozó szabályokat kell alkalmazni.
+(16b)[^121] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.6. alpontjában foglalt táblázatban meghatározott területre a többszintes területfelhasználás érintett szintjére vonatkozó, az OTÉK, illetve a TÉKA szerinti közlekedési területre vagy az OTÉK, illetve a TÉKA szerinti magánútra vonatkozó szabályokat kell alkalmazni.
 
-(16c)[^120] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.7. alpontjában foglalt táblázatban meghatározott területre a többszintes területfelhasználás érintett szintjére vonatkozó, az OTÉK, illetve a TÉKA szerinti közlekedési területre vagy az OTÉK, illetve a TÉKA szerinti kötöttpályás közlekedési területre vonatkozó szabályokat kell alkalmazni.
+(16c)[^122] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.7. alpontjában foglalt táblázatban meghatározott területre a többszintes területfelhasználás érintett szintjére vonatkozó, az OTÉK, illetve a TÉKA szerinti közlekedési területre vagy az OTÉK, illetve a TÉKA szerinti kötöttpályás közlekedési területre vonatkozó szabályokat kell alkalmazni.
 
-(17)[^121] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.5. és 2.8. alpontjában foglalt táblázatban meghatározott területre a 2021. július 15-én hatályos OTÉK szerinti közlekedési területre vonatkozó szabályokat kell alkalmazni.
+(17)[^123] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.5. és 2.8. alpontjában foglalt táblázatban meghatározott területre a 2021. július 15-én hatályos OTÉK szerinti közlekedési területre vonatkozó szabályokat kell alkalmazni.
 
-(18)[^122]
+(18)[^124]
 
-(19)[^123] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.9. és 2.10. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti magánútra vonatkozó szabályokat kell alkalmazni.
+(19)[^125] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.9. és 2.10. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti magánútra vonatkozó szabályokat kell alkalmazni.
 
-(19a)[^124] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.11. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti kötöttpályás közlekedési területre vonatkozó szabályokat kell alkalmazni.
+(19a)[^126] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.11. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti kötöttpályás közlekedési területre vonatkozó szabályokat kell alkalmazni.
 
-(19b)[^125] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.12. alpontjában foglalt táblázatban meghatározott területre a többszintes területfelhasználás érintett szintjére vonatkozó, az OTÉK, illetve a TÉKA szerinti kötöttpályás közlekedési területre vagy az OTÉK, illetve a TÉKA szerinti magánútra vonatkozó szabályokat kell alkalmazni.
+(19b)[^127] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.12. alpontjában foglalt táblázatban meghatározott területre a többszintes területfelhasználás érintett szintjére vonatkozó, az OTÉK, illetve a TÉKA szerinti kötöttpályás közlekedési területre vagy az OTÉK, illetve a TÉKA szerinti magánútra vonatkozó szabályokat kell alkalmazni.
 
-(20)[^126] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.13. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti közkert területre vonatkozó szabályokat kell alkalmazni.
+(20)[^128] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.13. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti közkert területre vonatkozó szabályokat kell alkalmazni.
 
-(21)[^127] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.14. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti védelmi rendeltetésű erdőterületre vonatkozó szabályokat kell alkalmazni.
+(21)[^129] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.14. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti védelmi rendeltetésű erdőterületre vonatkozó szabályokat kell alkalmazni.
 
-(22)[^128]
+(22)[^130]
 
-(23)[^129] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.15. alpontjában foglalt táblázatban EOV koordinátákkal meghatározott területre az OTÉK, illetve a TÉKA szerinti általános mezőgazdasági területre vonatkozó szabályokat kell alkalmazni.
+(23)[^131] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.15. alpontjában foglalt táblázatban EOV koordinátákkal meghatározott területre az OTÉK, illetve a TÉKA szerinti általános mezőgazdasági területre vonatkozó szabályokat kell alkalmazni.
 
-(24)[^130] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.16. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti vízgazdálkodási területre vonatkozó szabályokat kell alkalmazni.
+(24)[^132] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 2. pont 2.16. alpontjában foglalt táblázatban meghatározott területre az OTÉK, illetve a TÉKA szerinti vízgazdálkodási területre vonatkozó szabályokat kell alkalmazni.
 
-(25)[^131] A 2. mellékletben foglalt táblázat 21. sora szerinti ipari beruházás kapcsán a 12. melléklet 1. és 2. pontjában, valamint 3. pont 3.1. alpontjában foglalt táblázatban meghatározott területen a 2. mellékletben foglalt táblázat 21. sora szerinti ipari beruházáshoz és kapcsolódó beruházásaihoz szükséges valamennyi közlekedési, valamint közmű műtárgy elhelyezhető.
+(25)[^133] A 2. mellékletben foglalt táblázat 21. sora szerinti ipari beruházás kapcsán a 12. melléklet 1. és 2. pontjában, valamint 3. pont 3.1. alpontjában foglalt táblázatban meghatározott területen a 2. mellékletben foglalt táblázat 21. sora szerinti ipari beruházáshoz és kapcsolódó beruházásaihoz szükséges valamennyi közlekedési, valamint közmű műtárgy elhelyezhető.
 
-(26)[^132] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 3. pont 3.2. alpont 3.2.1–3.2.19. pontjában foglalt táblázatban meghatározott terület ezen beruházáshoz és kapcsolódó beruházásaihoz szükséges anyagnyerőhely, zagytér céljára igénybe vehető.
+(26)[^134] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a 12. melléklet 3. pont 3.2. alpont 3.2.1–3.2.19. pontjában foglalt táblázatban meghatározott terület ezen beruházáshoz és kapcsolódó beruházásaihoz szükséges anyagnyerőhely, zagytér céljára igénybe vehető.
 
-(27)[^133] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet alapján meghozott végleges döntést a területi környezetvédelmi hatóság egyfokú hatósági eljárásban hozza meg.
+(27)[^135] A 2. mellékletben foglalt táblázat 21. sora szerinti beruházás kapcsán a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet alapján meghozott végleges döntést a területi környezetvédelmi hatóság egyfokú hatósági eljárásban hozza meg.
 
 [^100]: Az 5/Q. §-t a 184/2023. (V. 17.) Korm. rendelet 1. §-a iktatta be.
 [^101]: Az 5/Q. § (1) bekezdése a 275/2025. (VIII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -171,26 +175,28 @@ e) a kialakítható telek legkisebb területe 2000 m².
 [^108]: Az 5/Q. § (8) bekezdését a 70/2024. (III. 28.) Korm. rendelet 3. §-a iktatta be.
 [^109]: Az 5/Q. § (9) bekezdését a 70/2024. (III. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 28. pontja szerint módosított szöveg.
 [^110]: Az 5/Q. § (10) bekezdését a 70/2024. (III. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 369/2024. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^111]: Az 5/Q. § (11) bekezdését a 70/2024. (III. 28.) Korm. rendelet 3. §-a iktatta be.
-[^112]: Az 5/Q. § (12) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^113]: Az 5/Q. § (13) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^114]: Az 5/Q. § (14) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^115]: Az 5/Q. § (15) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^116]: Az 5/Q. § (15) bekezdés 13. pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 29. pontja szerint módosított szöveg.
-[^117]: Az 5/Q. § (16) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^118]: Az 5/Q. § (16a) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^119]: Az 5/Q. § (16b) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^120]: Az 5/Q. § (16c) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^121]: Az 5/Q. § (17) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 275/2025. (VIII. 18.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. [Az 5/Q. § (17) bekezdésében a 178/2025. (VI. 30.) Korm. rendelet 7. § 30. pontja által elrendelt módosítás, amely szerint „az OTÉK” szövegrész helyébe az „az OTÉK, illetve a TÉKA” szöveg lép, nem vezethető át.]
-[^122]: Az 5/Q. § (18) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, a 275/2025. (VIII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^123]: Az 5/Q. § (19) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 32. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^124]: Az 5/Q. § (19a) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^125]: Az 5/Q. § (19b) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^126]: Az 5/Q. § (20) bekezdése a 275/2025. (VIII. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^127]: Az 5/Q. § (21) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 34. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^128]: Az 5/Q. § (22) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, a 275/2025. (VIII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^129]: Az 5/Q. § (23) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 34. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^130]: Az 5/Q. § (24) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 34. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^131]: Az 5/Q. § (25) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 275/2025. (VIII. 18.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
-[^132]: Az 5/Q. § (26) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 275/2025. (VIII. 18.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^133]: Az 5/Q. § (27) bekezdését a 301/2025. (X. 6.) Korm. rendelet 1. §-a iktatta be.
+[^111]: Az 5/Q. § (10a) bekezdését a 377/2025. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
+[^112]: Az 5/Q. § (10b) bekezdését a 377/2025. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
+[^113]: Az 5/Q. § (11) bekezdését a 70/2024. (III. 28.) Korm. rendelet 3. §-a iktatta be.
+[^114]: Az 5/Q. § (12) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^115]: Az 5/Q. § (13) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^116]: Az 5/Q. § (14) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^117]: Az 5/Q. § (15) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^118]: Az 5/Q. § (15) bekezdés 13. pontja a 178/2025. (VI. 30.) Korm. rendelet 7. § 29. pontja szerint módosított szöveg.
+[^119]: Az 5/Q. § (16) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^120]: Az 5/Q. § (16a) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^121]: Az 5/Q. § (16b) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^122]: Az 5/Q. § (16c) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^123]: Az 5/Q. § (17) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 275/2025. (VIII. 18.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. [Az 5/Q. § (17) bekezdésében a 178/2025. (VI. 30.) Korm. rendelet 7. § 30. pontja által elrendelt módosítás, amely szerint „az OTÉK” szövegrész helyébe az „az OTÉK, illetve a TÉKA” szöveg lép, nem vezethető át.]
+[^124]: Az 5/Q. § (18) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, a 275/2025. (VIII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^125]: Az 5/Q. § (19) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 32. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^126]: Az 5/Q. § (19a) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^127]: Az 5/Q. § (19b) bekezdését a 275/2025. (VIII. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^128]: Az 5/Q. § (20) bekezdése a 275/2025. (VIII. 18.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^129]: Az 5/Q. § (21) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 34. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^130]: Az 5/Q. § (22) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, a 275/2025. (VIII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^131]: Az 5/Q. § (23) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 34. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^132]: Az 5/Q. § (24) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 178/2025. (VI. 30.) Korm. rendelet 7. § 34. pontja, a 275/2025. (VIII. 18.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^133]: Az 5/Q. § (25) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 275/2025. (VIII. 18.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^134]: Az 5/Q. § (26) bekezdését a 369/2024. (XI. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 275/2025. (VIII. 18.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^135]: Az 5/Q. § (27) bekezdését a 301/2025. (X. 6.) Korm. rendelet 1. §-a iktatta be.
