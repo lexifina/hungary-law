@@ -1,3 +1,3 @@
-38. §[^66]
+38. §[^67]
 
-[^66]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

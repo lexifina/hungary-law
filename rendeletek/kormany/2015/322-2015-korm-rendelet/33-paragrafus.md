@@ -1,9 +1,13 @@
 ## IV. Fejezet
 
-## ÉPÍTÉSI KONCESSZIÓ
+## AZ ÉPÍTÉSI KONCESSZIÓ, VALAMINT A KONCESSZIÓRÓL SZÓLÓ TÖRVÉNY HATÁLYA ALÁ TARTOZÓ ÉPÍTÉSI BERUHÁZÁSOK[^55]
 
-33. § (1) Építési koncesszió esetén e rendelet szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
+33. § Építési koncesszió, valamint a koncesszióról szóló 1991. évi XVI. törvény 3/A. §-a szerinti építési beruházás esetén e rendelet szabályait a következő eltérésekkel kell alkalmazni:
 
-(2) A Kbt. 8. § (5) bekezdésében foglaltakra figyelemmel építési koncesszió esetén e rendelet ellenérték kifizetésére vonatkozó szabályainak alkalmazása nem kötelező.
+a) a becsült érték meghatározásakor a 13. § (1) bekezdését nem kell alkalmazni;
 
-(3) A 22. §-ban foglaltak építési koncesszió esetében nem alkalmazandók.
+b) a 14. § (2) bekezdése és a 22. § nem alkalmazandó;
+
+c) e rendelet ellenérték kifizetésére vonatkozó szabályait nem kell alkalmazni.
+
+[^55]: A IV. Fejezet (33. §) a 371/2025. (XI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
