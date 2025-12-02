@@ -15,3 +15,7 @@ b) a Beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakoz
 (4) A Beruházások esetében az Országos Építészeti Tervtanács jár el, külön településképi szakmai konzultációnak nincs helye, és településképi véleményezési eljárást nem kell lefolytatni.
 
 (5) A Beruházásokkal érintett ingatlanok, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok tekintetében változtatási tilalom, valamint telekalakítási és építési tilalom nem alkalmazható.
+
+(6)[^1] A 2. mellékletben foglalt táblázat 8–11. sora szerinti beruházás tekintetében az építési tevékenységgel érintett ingatlanok közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
+
+[^1]: Az 1. § (6) bekezdését a 377/2025. (XII. 1.) Korm. rendelet 1. §-a iktatta be.
