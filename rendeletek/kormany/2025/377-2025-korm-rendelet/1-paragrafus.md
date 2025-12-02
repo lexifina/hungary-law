@@ -1,0 +1,7 @@
+## [1] A Kormány célja az Otthon Start program feltételeit teljesítő építési beruházások megvalósításának elősegítése az ilyen építési beruházás kiemelt beruházássá és az ezzel összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításával. A Kormány ezen intézkedése jelentősen hozzájárul a fiatalok első lakáshoz jutását elősegítő kormányzati célkitűzés megvalósításához.
+
+## [2] A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés a)–d) pontjában kapott felhatalmazás alapján, a magyar építészetről szóló törvény kiemelt beruházások körét meghatározó rendelkezéseinek eltérő alkalmazásáról szóló 257/2025. (VIII. 11.) Korm. rendelet 1. §-ára figyelemmel, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § Az Otthon Start program keretében biztosított FIX 3%-os hitelprogram feltételeit teljesítő lakások építésére irányuló építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 335/2025. (X. 30.) Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A 2. mellékletben foglalt táblázat 8–11. sora szerinti beruházás tekintetében az építési tevékenységgel érintett ingatlanok közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.”
