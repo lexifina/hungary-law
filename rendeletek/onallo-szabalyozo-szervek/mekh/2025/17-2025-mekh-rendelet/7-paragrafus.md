@@ -1,5 +1,3 @@
-7. § Hatályát veszti az R2. 4. melléklet
+7. §[^13]
 
-a) III. pontja és
-
-b) VII. pontja.
+[^13]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
