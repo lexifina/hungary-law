@@ -1,1 +1,3 @@
-3. § A 42/2025. (III. 11.) Korm. rendelet 1. melléklet 3. pontjában a „14–24. sora” szövegrész helyébe a „14–24., valamint 35. sora” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
