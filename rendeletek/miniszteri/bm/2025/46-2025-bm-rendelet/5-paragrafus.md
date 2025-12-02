@@ -1,5 +1,3 @@
-5. § (1) Az R2. 1. melléklete a 2. melléklet szerint módosul.
+5. §[^6]
 
-(2) Az R2. 2. melléklete a 3. melléklet szerint módosul.
-
-(3) Az R2. 3. melléklete a 4. melléklet szerint módosul.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

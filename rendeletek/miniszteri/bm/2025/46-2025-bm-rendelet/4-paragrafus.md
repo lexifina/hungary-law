@@ -1,5 +1,3 @@
-4. § Az R2. a következő 18. §-sal egészül ki:
+4. §[^5]
 
-„18. § (1) A képalkotó vizsgálatokkal kapcsolatos egészségbiztosítási tárgyú miniszteri rendeletek módosításáról szóló 46/2025. (XI. 28.) BM rendelettel (a továbbiakban: Módr.) megállapított 1. melléklet 6. pont 6.2. alpont 6.2.1. pont 6.2.1.1. alpontjában foglalt elszámolási szabályokat a 2026. áprilisi teljesítmények elszámolásától kell alkalmazni.
-
-(2) A Módr.-rel megállapított 3. mellékletben foglaltakat a 2026. áprilisi teljesítmények elszámolásáig azzal az eltéréssel kell alkalmazni, hogy a leletezés 7 munkanapon belüli elvégzése a finanszírozásnak nem feltétele.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

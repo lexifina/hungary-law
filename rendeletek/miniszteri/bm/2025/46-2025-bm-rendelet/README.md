@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-46-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-12-01 | 2025-46-20-0A.1 | 46/2025. (XI. 28.) BM rendelet |
+| 2025-12-02 | 2025-46-20-0A.2 | 2010. évi CXXX. törvény |

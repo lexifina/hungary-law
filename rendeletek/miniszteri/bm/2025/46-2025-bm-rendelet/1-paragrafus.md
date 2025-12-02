@@ -12,6 +12,6 @@
 
 ## 1. Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet módosítása
 
-1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) a következő 35. §-sal egészül ki:
+1. §[^2]
 
-„35. § A képalkotó vizsgálatokkal kapcsolatos egészségbiztosítási tárgyú miniszteri rendeletek módosításáról szóló 46/2025. (XI. 28.) BM rendelettel módosított 2. számú melléklet „3612A”–„3612N”, „3613D”, „36142”, „36144”, „36165”–„3616G” és „46000” megjelölésű sorában foglalt rendelkezéseket a 2025. szeptember havi teljesítményektől kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
