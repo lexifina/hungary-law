@@ -1,1 +1,3 @@
-5. § Hatályát veszti az ÁAFK rendelet 4. § (6) bekezdés c) pontja.
+5. §[^3]
+
+[^3]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
