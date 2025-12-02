@@ -1,1 +1,3 @@
-39. § Hatályát veszti az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatásának részletes szabályairól szóló 9/2021. (X. 29.) SZTFH rendelet.
+39. §[^1]
+
+[^1]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
