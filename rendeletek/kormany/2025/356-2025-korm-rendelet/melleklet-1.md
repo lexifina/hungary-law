@@ -1,5 +1,3 @@
-1. melléklet a 356/2025. (XI. 13.) Korm. rendelethez
+1. melléklet a 356/2025. (XI. 13.) Korm. rendelethez[^5]
 
-A Kr. 15. számú melléklete a következő 18. ponttal egészül ki:
-
-„18. Beutaló kelte”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
