@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-352-20-
 | 2025-11-14 | 2025-352-20-22.1 | 352/2025. (XI. 13.) Korm. rendelet |
 | 2025-11-15 | 2025-352-20-22.2 | 2010. évi CXXX. törvény |
 | 2025-12-01 | 2025-352-20-22.3 | 367/2025. (XI. 28.) Korm. rendelet |
+| 2025-12-02 | 2025-352-20-22.4 | 2010. évi CXXX. törvény |

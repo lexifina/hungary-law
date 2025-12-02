@@ -4,6 +4,6 @@
 
 ## 1. Az élelmiszerárak csökkentése érdekében szükséges intézkedésekről szóló 42/2025. (III. 11.) Korm. rendelet módosítása
 
-1. §[^1]
+1. §[^2]
 
-[^1]: Az 1. § a 367/2025. (XI. 28.) Korm. rendelet 4. §-a alapján nem lép hatályba.
+[^2]: Az 1. § a 367/2025. (XI. 28.) Korm. rendelet 4. §-a alapján nem lép hatályba.
