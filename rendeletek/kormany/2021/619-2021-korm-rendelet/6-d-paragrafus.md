@@ -26,4 +26,10 @@ gb) a lakó rendeltetésű épületek esetében 9 méter, azzal, hogy a lakó re
 
 (3) Az 1. mellékletben foglalt táblázat D:34 mezőjében megjelölt telken lakó, kereskedelmi, igazgatási, iroda, nevelési, egészségügyi, szolgáltató-, szálláshely, oktatási, sport és rekreáció rendeltetésű épületek, illetve ezek kiszolgáló építményei is elhelyezhetőek.
 
+(4)[^28] Az 1. mellékletben foglalt táblázat 34. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:34 mezőjében megjelölt telkeken, valamint az abból telekalakítással kialakításra kerülő ingatlanok tekintetében a telekalakítási eljárás során a szabályozási terven jelölt építési övezethatár és övezethatár mentén telekhatárt nem kell kialakítani.
+
+(5)[^29] Az 1. mellékletben foglalt táblázat 34. sora szerinti beruházás esetében az 1. mellékletben foglalt táblázat D:34 mezőjében megjelölt telkeken, valamint az abból telekalakítással kialakításra kerülő ingatlanok tekintetében telekalakítási, építési, valamint változtatási tilalom nem alkalmazandó.
+
 [^27]: A 6/D. §-t a 318/2024. (XI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^28]: A 6/D. § (4) bekezdését a 376/2025. (XII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 6/D. § (5) bekezdését a 376/2025. (XII. 1.) Korm. rendelet 1. §-a iktatta be.

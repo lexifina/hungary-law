@@ -1,4 +1,4 @@
-16. §[^44] E rendeletnek az egyes beruházásokkal összefüggő építési tárgyú kormányrendeletek módosításáról szóló 318/2024. (XI. 6.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 6/C. és 6/D. §-át a Módr8. hatálybalépésekor[^45] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+16. §[^46] E rendeletnek az egyes beruházásokkal összefüggő építési tárgyú kormányrendeletek módosításáról szóló 318/2024. (XI. 6.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 6/C. és 6/D. §-át a Módr8. hatálybalépésekor[^47] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^44]: A 16. §-t a 439/2024. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
-[^45]: A hatálybalépés időpontja 2024. november 7.
+[^46]: A 16. §-t a 439/2024. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^47]: A hatálybalépés időpontja 2024. november 7.
