@@ -1,5 +1,3 @@
-5. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R2.) 5/Q. §-a a következő (10a)–(10b) bekezdéssel egészül ki:
+5. §[^6]
 
-„(10a) Az építési beruházás megvalósítása során a fő rendeltetés szerinti épületek próbaüzemének végéig az építésügyi hatóság az egyes épületekre vonatkozó használatbavételi eljáráskor legfeljebb hat hónapos határidővel feltételként a beruházó részére előírja az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározott energetikai tanúsítvány megszerzését és az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti energetikai követelményeknek való megfelelést.
-
-(10b) A (10a) bekezdésben meghatározott esetben is a beruházó köteles gondoskodni a (10a) bekezdés szerinti határidő lejártáig az épület rendeltetésszerű használatáról és üzemeltetéséről.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

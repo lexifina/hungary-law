@@ -1,3 +1,3 @@
-3. § Az R1. a következő 7. §-sal egészül ki:
+3. §[^4]
 
-„7. § E rendeletnek az Otthon Start program keretében biztosított FIX 3%-os hitelprogram feltételeit teljesítő lakások építésére irányuló építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 335/2025. (X. 30.) Korm. rendelet módosításáról szóló 377/2025. (XII. 1.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2/A–2/G. §-át, 2. mellékletében foglalt táblázat 5–11. sorát és 3. mellékletét a Módr1. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
