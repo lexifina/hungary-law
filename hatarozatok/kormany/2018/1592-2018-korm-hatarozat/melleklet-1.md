@@ -412,7 +412,7 @@ közmű projektek
 
 | 5. | KÖZMŰ-3 | Az Észak-Nyugati Gazdasági Övezet területén keletkező kezelt csapadékvizek továbbítására alkalmas hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont c) alpont] | Debrecen MJV | 2019.10.30. |
 
-| 6. | KÖZMŰ-4 | Az Észak-Nyugati Gazdasági Övezet tűzivíz- és használativíz-ellátását növelő, valamint szennyvízelvezetését biztosító hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont d) alpont] | Debrecen MJV | 2019.10.30. |
+| 6. | KÖZMŰ-4 | Az Észak-Nyugati Gazdasági Övezet tűzivíz- és használativíz-ellátását növelő, valamint szennyvízelvezetését biztosító hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont d) alpont] | Debrecen MJV | 2026.03.31. |
 
 | 7. | KÖZMŰ-5 | Az Észak-Nyugati Gazdasági Övezet területén meglévő távközlési infrastruktúra kiváltásával és új távközlési hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont e) alpont] | Debrecen MJV | 2019.09.30. |
 
@@ -444,4 +444,4 @@ közmű projektek
 [^26]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^27]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^28]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja, az 1054/2025. (III. 11.) Korm. határozat 1. pontja, az 1109/2025. (IV. 7.) Korm. határozat szerint módosított szöveg.
+[^29]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja, az 1054/2025. (III. 11.) Korm. határozat 1. pontja, az 1109/2025. (IV. 7.) Korm. határozat, az 1529/2025. (XII. 5.) Korm. határozat szerint módosított szöveg.

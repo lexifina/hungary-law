@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1592-30
 | 2025-03-05 | 2018-1592-30-22.7 | 1302/2023. (VII. 19.) Korm. határozat |
 | 2025-03-11 | 2018-1592-30-22.8 | 1053/2020. (II. 19.) Korm. határozat |
 | 2025-04-07 | 2018-1592-30-22.9 | 1053/2020. (II. 19.) Korm. határozat |
+| 2025-12-05 | 2018-1592-30-22.12 | 1053/2020. (II. 19.) Korm. határozat |
