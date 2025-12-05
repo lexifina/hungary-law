@@ -52,7 +52,7 @@ d) az azbeszt tartalmú tetőfedés cseréjének vizsgálatával;
 
 1.6. a Beruházás második ütemének kormányzati felelőseként az építési és közlekedési minisztert jelöli ki;
 
-1.7. egyetért azzal, hogy a Beruházás második ütemének megvalósítója, ennek megfelelően az 1.3–1.5. alpontban meghatározott feladatok megvalósítója a Steindl Imre Program Nonprofit Zártkörűen Működő Társaság (a továbbiakban: Társaság) legyen, azzal, hogy az 1.3. alpont szerinti Tervezési Program elkészítésének és az 1.4. alpont szerinti Tervezési Program megalapozásához szükséges további feladatok elvégzésének határideje 2026. december 31. napja;
+1.7.[^1] egyetért azzal, hogy a Beruházás második ütemének megvalósítója, ennek megfelelően az 1.3–1.5. alpontban meghatározott feladatok megvalósítója a Steindl Imre Program Nonprofit Zártkörűen Működő Társaság (a továbbiakban: Társaság) legyen, azzal, hogy az 1.3. alpont szerinti Tervezési Program elkészítésének és az 1.4. alpont szerinti Tervezési Program megalapozásához szükséges további feladatok elvégzésének határideje 2027. június 30. napja;
 
 1.8. felhívja az építési és közlekedési minisztert, hogy az 1.3. alpont szerint lefolytatott feltételes beszerzési eljárás eredménye alapján a Társaság közreműködésével készítsen előterjesztést a Kormány részére a Beruházás második ütemének megvalósításáról;
 
@@ -92,12 +92,13 @@ d) 1 300 000 forint a 2026. évi központi költségvetés I. Országgyűlés fe
 
 | Határidő: | a 1.11. alpont szerinti forrás rendelkezésre állását követően azonnal |
 
-2.[^1]
+2.[^2]
 
-3.[^2]
+3.[^3]
 
-4.[^3]
+4.[^4]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.7. alpontja az 1525/2025. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

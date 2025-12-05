@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1450-30
 | --- | --- | --- |
 | 2024-12-31 | 2024-1450-30-22.1 | 1450/2024. (XII. 31.) Korm. határozat |
 | 2025-01-01 | 2024-1450-30-22.2 | 2010. évi CXXX. törvény |
+| 2025-12-05 | 2024-1450-30-22.3 | 1525/2025. (XII. 5.) Korm. határozat |
