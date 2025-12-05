@@ -34,7 +34,7 @@ c)[^2] felhívja a Miniszterelnökséget vezető minisztert és felkéri az Orsz
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2026. január 31.
+Határidő: 2027. december 31.
 
 d)[^3] felhívja a gazdaságfejlesztési minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy a Steindl Imre Program Nonprofit Zrt. útján, az a) alpont ag) pontjában meghatározott cél érdekében, az építési és közlekedési miniszter, valamint az igazságügyi miniszter bevonásával, az érintettekkel való konzultációval vizsgálják meg, hogy az Igazságügyi Palota rekonstrukcióját követően a Kúria az Igazságügyi Palotában el nem férő szervezeti egységei mely, az Igazságügyi Palota közelében lévő, állami tulajdonban álló épületben helyezhetők el, és az Igazságügyi Palotán kívül biztosítandó terület esetleges csökkentése érdekében vizsgálják meg az Igazságügyi Palota rekonstrukciójára vonatkozó kivitelezési tervdokumentáció részleges áttervezésének lehetőségét;
 
@@ -169,7 +169,7 @@ d) felhívja a nemzetgazdasági minisztert, hogy az MNV Zrt. útján tegye meg a
 | Határidő: | az a) pont aa) alpontjának megvalósulását követő három hónapon belül. |
 
 [^1]: Az 1. pont a) alpont ak) pontját az 1615/2021. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
-[^2]: Az 1. pont c) alpontja az 1085/2024. (IV. 3.) Korm. határozat 2. pontja, az 1280/2025. (VIII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. pont c) alpontja az 1085/2024. (IV. 3.) Korm. határozat 2. pontja, az 1280/2025. (VIII. 5.) Korm. határozat 3. pontja, az 1525/2025. (XII. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^3]: Az 1. pont d) pontja az 1621/2023. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: Az 1. pont e) pontot az 1621/2023. (XII. 29.) Korm. határozat 4. pont a) pontja visszavonta.
 [^5]: Az 1. pont f) pontja az 1621/2023. (XII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
