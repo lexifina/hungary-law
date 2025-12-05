@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért Edelény Város Önkormányzata (a továbbiakban: Önkormányzat) részére kilátó és játszótér fejlesztése céljából forrás biztosításával;
+1.[^1] egyetért Edelény Város Önkormányzata (a továbbiakban: Önkormányzat) működőképességének megőrzése, feladatai részben támogatás nyújtásával történő ellátása (kilátó és játszótér fejlesztése, utak-járdák felújítása és egyéb fejlesztések megvalósítása) érdekében forrás biztosításával;
 
 2. felhívja a nemzetgazdasági minisztert, hogy az 1. pont megvalósítása érdekében gondoskodjon 300 000 000 forint biztosításáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet javára, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím terhére;
 
@@ -13,3 +13,5 @@ A Kormány
 | Felelős: | közigazgatási és területfejlesztési miniszter |
 
 | Határidő: | a felmerülés ütemében |
+
+[^1]: Az 1. pont az 1532/2025. (XII. 5.) Korm. határozat szövegével megállapított szöveg.
