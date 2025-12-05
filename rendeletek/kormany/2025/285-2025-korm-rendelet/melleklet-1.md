@@ -1,3 +1,3 @@
-1. melléklet a 285/2025. (VIII. 25.) Korm. rendelethez[^3]
+1. melléklet a 285/2025. (VIII. 25.) Korm. rendelethez
 
-[^3]: Az 1. melléklet a 4. § (2) bekezdése alapján a Megállapodás 6. cikk 1. bekezdésében meghatározott időpontban lép hatályba.
+MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS MONTENEGRÓ KORMÁNYA KÖZÖTTI, AZ INFRASTRUKTÚRA-FEJLESZTÉS TERÜLETÉT ÉRINTŐ EGYÜTTMŰKÖDÉSRŐL

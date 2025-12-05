@@ -1,3 +1,1 @@
-2. §[^1]
-
-[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 6. cikk 1. bekezdésében meghatározott időpontban lép hatályba.
+2. § A Kormány a Megállapodást e rendelettel kihirdeti.
