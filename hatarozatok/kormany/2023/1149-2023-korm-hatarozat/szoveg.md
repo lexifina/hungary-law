@@ -48,7 +48,7 @@ c) a Digitális Magyarország Ügynökség vezérigazgatója
 
 6. A Bizottság elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, eseti jelleggel további szakértőket hívhat meg, akik a Bizottság elnöke által meghatározott napirendi pontok tekintetében tanácskozási joggal vesznek részt a Bizottság ülésén.
 
-7. A Bizottság szükség szerint, de évente legalább hat alkalommal ülésezik. A Bizottság ülését a Bizottság elnöke hívja össze.
+7.[^1] A Bizottság szükség szerint, de évente legalább három alkalommal ülésezik. A Bizottság ülését a Bizottság elnöke hívja össze.
 
 8. A Bizottság döntéseit – a Bizottság ügyrendjének eltérő rendelkezése hiányában – szótöbbséggel hozza, szavazategyenlőség esetén a Bizottság elnökének szavazata dönt.
 
@@ -63,3 +63,5 @@ c) a Digitális Magyarország Ügynökség vezérigazgatója
 13. A Bizottság tagjai tevékenységükért tiszteletdíjban nem részesülnek.
 
 14. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
+
+[^1]: A 7. pont az 1531/2025. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
