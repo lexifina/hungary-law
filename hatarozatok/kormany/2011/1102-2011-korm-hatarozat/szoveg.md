@@ -76,7 +76,7 @@ ba)[^8] a Társadalmi Esélyteremtési és Cigányügyi Tárcaközi Bizottság t
 
 bb) további meghívott személyek.
 
-6.[^9] A Tanács elnöke a belügyminiszter. A Tanács társelnökei a 4. pont 4.2. és 4.4. alpontjában meghatározott képviselők, valamint a 4. pont 4.10. és 4.12–4.16. alpontjában meghatározott képviselők által választott személy. A Tanács elnökét akadályoztatása esetén a 4. pont 4.2. alpontjában meghatározott személy helyettesíti.
+6.[^9] A Tanács elnöke a belügyminiszter. A Tanács társelnökei a 4. pont 4.8. alpontjában meghatározott képviselő, valamint a 4. pont 4.10. és 4.12–4.16. alpontjában meghatározott képviselők által választott személy. A Tanács alelnökei a 4. pont 4.2. és 4.4. alpontjában meghatározott képviselők. A Tanács elnökét akadályoztatása esetén – az alelnökök közül – a 4. pont 4.2. alpontjában meghatározott képviselő helyettesíti.
 
 6a.[^10]
 
@@ -120,7 +120,7 @@ c)[^21]
 [^6]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
 [^7]: Az 5. pont a) pont aa) alpontja az 1521/2022. (XI. 2.) Korm. határozat 14. pontjával megállapított szöveg.
 [^8]: Az 5. pont b) pont ba) alpontja az 1399/2024. (XII. 16.) Korm. határozat 6. pont e) alpontja szerint módosított szöveg.
-[^9]: A 6. pont az 1399/2024. (XII. 16.) Korm. határozat 8. pontjával megállapított szöveg.
+[^9]: A 6. pont az 1533/2025. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
 [^10]: A 6a. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, az 1399/2024. (XII. 16.) Korm. határozat 14. pont a) alpontja hatályon kívül helyezte.
 [^11]: A 6b. pontot újonnan az 1521/2022. (XI. 2.) Korm. határozat 15. pontja iktatta be, szövege az 1399/2024. (XII. 16.) Korm. határozat 6. pont f) alpontja szerint módosított szöveg.
 [^12]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított, az 1521/2022. (XI. 2.) Korm. határozat 16. pont c) pontja, az 1399/2024. (XII. 16.) Korm. határozat 6. pont g) alpontja szerint módosított szöveg.
