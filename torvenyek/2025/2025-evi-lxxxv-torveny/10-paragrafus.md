@@ -1,0 +1,1 @@
+10. § Az Országgyűlés megállapítja, hogy a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény végrehajtásáról szóló 2024. évi XLVIII. törvény 10. §-ában előírt megtérítési, visszautalási és elszámolási kötelezettségek teljesítése megtörtént.
