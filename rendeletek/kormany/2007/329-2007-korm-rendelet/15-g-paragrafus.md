@@ -1,4 +1,4 @@
-15/G. §[^182] (1) Románia teljes jogú schengeni csatlakozására tekintettel a Határrendészeti Kirendeltség Battonya elnevezésű szervezeti egység – a közfeladatok hatékony ellátása érdekében – megszűnik, jogutódja az általa ellátott feladatok, valamint a vele bármely foglalkoztatási jogviszonyban álló személyek tekintetében a foglalkoztatási jogviszonyból származó, munkáltatót megillető jogok és terhelő kötelezettségek vonatkozásában a Mezőkovácsházi Rendőrkapitányság.
+15/G. §[^200] (1) Románia teljes jogú schengeni csatlakozására tekintettel a Határrendészeti Kirendeltség Battonya elnevezésű szervezeti egység – a közfeladatok hatékony ellátása érdekében – megszűnik, jogutódja az általa ellátott feladatok, valamint a vele bármely foglalkoztatási jogviszonyban álló személyek tekintetében a foglalkoztatási jogviszonyból származó, munkáltatót megillető jogok és terhelő kötelezettségek vonatkozásában a Mezőkovácsházi Rendőrkapitányság.
 
 (2) Románia teljes jogú schengeni csatlakozására tekintettel a Határrendészeti Kirendeltség Biharkeresztes elnevezésű szervezeti egység – a közfeladatok hatékony ellátása érdekében – megszűnik, jogutódja az általa ellátott feladatok, valamint a vele bármely foglalkoztatási jogviszonyban álló személyek tekintetében a foglalkoztatási jogviszonyból származó, munkáltatót megillető jogok és terhelő kötelezettségek vonatkozásában a Berettyóújfalui Rendőrkapitányság.
 
@@ -20,4 +20,4 @@
 
 (11) Románia teljes jogú schengeni csatlakozására tekintettel a Határrendészeti Kirendeltség Nyírbátor elnevezésű szervezeti egység – a közfeladatok hatékony ellátása érdekében – megszűnik, jogutódja az általa ellátott feladatok, valamint a vele bármely foglalkoztatási jogviszonyban álló személyek tekintetében a foglalkoztatási jogviszonyból származó, munkáltatót megillető jogok és terhelő kötelezettségek vonatkozásában a Nyírbátori Rendőrkapitányság.
 
-[^182]: A 15/G. §-t a 13/2025. (II. 18.) Korm. rendelet 2. §-a iktatta be.
+[^200]: A 15/G. §-t a 13/2025. (II. 18.) Korm. rendelet 2. §-a iktatta be.

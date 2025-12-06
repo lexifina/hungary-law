@@ -1,14 +1,14 @@
-## 9/B. §[^73] A Kormány az 5. melléklet szerint egyes európai uniós jogi aktusokból, illetve nemzetközi kötelezettségvállalásból fakadó feladatok ellátására a Készenléti Rendőrséget jelöli ki.
+## 9/B. §[^80] A Kormány az 5. melléklet szerint egyes európai uniós jogi aktusokból, illetve nemzetközi kötelezettségvállalásból fakadó feladatok ellátására a Készenléti Rendőrséget jelöli ki.
 
-10. § (1)[^74] A Repülőtéri Rendőr Igazgatóság az ORFK – a rendészeti főigazgatója útján ellátott – irányításával önálló szervként, országos illetékességgel ellátja
+10. § (1)[^81] A Repülőtéri Rendőr Igazgatóság az ORFK – a rendészeti főigazgatója útján ellátott – irányításával önálló szervként, országos illetékességgel ellátja
 
 a) a nemzetközi és belföldi polgári repülés jogellenes cselekmények elleni védelmével kapcsolatos feladatokat,
 
-b)[^75] a 11. § (2) bekezdés l) pontjában meghatározott kivétellel a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét,
+b)[^82] a 11. § (2) bekezdés l) pontjában meghatározott kivétellel a rendőrség hatáskörébe utalt légiközlekedés védelmi feladatok szakmai felügyeletét,
 
-c)[^76]
+c)[^83]
 
-(2)[^77] A Repülőtéri Rendőr Igazgatóság a Budapest Liszt Ferenc Nemzetközi Repülőtéren
+(2)[^84] A Repülőtéri Rendőr Igazgatóság a Budapest Liszt Ferenc Nemzetközi Repülőtéren
 
 a) határellenőrzési és más határrendészeti feladatokat lát el,
 
@@ -20,17 +20,23 @@ d) elkövetett szabálysértések esetén szabálysértési hatóságként jár 
 
 e) törvényben meghatározott esetben légiközlekedési, közrendvédelmi bírságot állapít meg.
 
-f)[^78] ellátja a légiközlekedés rendjével kapcsolatos, hatáskörébe utalt feladatokat.
+f)[^85] ellátja a légiközlekedés rendjével kapcsolatos, hatáskörébe utalt feladatokat.
 
-(2a)[^79] A Repülőtéri Rendőr Igazgatóság a légiforgalmi irányító szolgálat központi létesítményének területén ellátja a (2) bekezdés b), d), és e) pontjában meghatározott feladatokat.
+g)[^86] a Ht. 86. § (11) bekezdésében foglaltak alapján, a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló 156/2025. (VI. 23.) Korm. rendeletben meghatározottak szerint hulladékgazdálkodási helyszíni bírságot szab ki,
 
-(3)[^80] A Repülőtéri Rendőr Igazgatóság Budapest, Pest vármegye területén ellátja
+h)[^87] ellátja a bűnmegelőzési célú felügyelet kapcsán rá háruló feladatokat,
 
-a)[^81] a 11. § (2) bekezdés gd)–ge) alpontjában meghatározott feladatokat;
+i)[^88] lefolytatja az elektronikus adat hozzáférhetetlenné tételével kapcsolatos hatósági eljárást az elsőként tudomására jutott esetekben.
+
+(2a)[^89] A Repülőtéri Rendőr Igazgatóság a légiforgalmi irányító szolgálat központi létesítményének területén ellátja a (2) bekezdés b), d), és e) pontjában meghatározott feladatokat.
+
+(3)[^90] A Repülőtéri Rendőr Igazgatóság Budapest, Pest vármegye területén ellátja
+
+a)[^91] a 11. § (2) bekezdés gd)–ge) alpontjában meghatározott feladatokat;
 
 b) az ideiglenes légi határátkelőhelyek megnyitásával kapcsolatos rendészeti feladatokat.
 
-(4)[^82] A Repülőtéri Rendőr Igazgatóság
+(4)[^92] A Repülőtéri Rendőr Igazgatóság
 
 a) a Budapest Liszt Ferenc Nemzetközi Repülőtéren, valamint
 
@@ -38,13 +44,16 @@ b) a légiforgalmi irányító szolgálat központi létesítményében működt
 
 ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában meghatározott hatósági feladatokat, valamint első fokon elbírálja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 10/A. §-a szerinti panaszt.
 
-[^73]: A 9/B. §-t a 276/2021. (V. 26.) Korm. rendelet 3. §-a iktatta be.
-[^74]: A 10. § (1) bekezdés nyitó szövegrésze a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^75]: A 10. § (1) bekezdés b) pontja a 302/2014. (XII. 5.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^76]: A 10. § (1) bekezdés c) pontját a 30/2009. (II. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^77]: A 10. § (2) bekezdése a 77/2018. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^78]: A 10. § (2) bekezdés f) pontját a 259/2021. (V. 20.) Korm. rendelet 19. §-a iktatta be.
-[^79]: A 10. § (2a) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^80]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^81]: A 10. § (3) bekezdés a) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése, a 267/2019. (XI. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^82]: A 10. § (4) bekezdését a 247/2009. (XI. 10.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^80]: A 9/B. §-t a 276/2021. (V. 26.) Korm. rendelet 3. §-a iktatta be.
+[^81]: A 10. § (1) bekezdés nyitó szövegrésze a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^82]: A 10. § (1) bekezdés b) pontja a 302/2014. (XII. 5.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^83]: A 10. § (1) bekezdés c) pontját a 30/2009. (II. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^84]: A 10. § (2) bekezdése a 77/2018. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^85]: A 10. § (2) bekezdés f) pontját a 259/2021. (V. 20.) Korm. rendelet 19. §-a iktatta be.
+[^86]: A 10. § (2) bekezdés g) pontját a 373/2025. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^87]: A 10. § (2) bekezdés h) pontját a 373/2025. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^88]: A 10. § (2) bekezdés i) pontját a 373/2025. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^89]: A 10. § (2a) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^90]: A 10. § (3) bekezdése a 30/2009. (II. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^91]: A 10. § (3) bekezdés a) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (3) bekezdése, a 267/2019. (XI. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^92]: A 10. § (4) bekezdését a 247/2009. (XI. 10.) Korm. rendelet 26. § (2) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-14/B. §[^172] Az általános rendőri szerv – a rendvédelmi technikumok közreműködésével – duális képzőhelyként részt vesz a Közszolgálati technikus szakma Rendészeti technikus szakmairány 13. évfolyamos tanulóinak duális képzésében.
+14/B. §[^190] Az általános rendőri szerv – a rendvédelmi technikumok közreműködésével – duális képzőhelyként részt vesz a Közszolgálati technikus szakma Rendészeti technikus szakmairány 13. évfolyamos tanulóinak duális képzésében.
 
-[^172]: A 14/B. §-t a 357/2024. (XI. 25.) Korm. rendelet 2. §-a iktatta be.
+[^190]: A 14/B. §-t a 357/2024. (XI. 25.) Korm. rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-9. §[^68] A Készenléti Rendőrség az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt önálló feladat- és hatáskörrel, országos illetékességgel önálló szervként
+9. §[^71] A Készenléti Rendőrség az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt önálló feladat- és hatáskörrel, országos illetékességgel önálló szervként
 
 1. részt vesz az előre nem tervezhető, halaszthatatlan beavatkozást és csapaterőt igénylő feladatok végrehajtásában;
 
@@ -48,11 +48,11 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 
 20. a titkos információgyűjtésre, illetve leplezett eszközök alkalmazására feljogosított általános rendőri szerv szervei felkérése alapján végrehajtja a határon átnyúló megfigyeléseket, valamint ellenőrzött szállításokat;
 
-21.[^69] törvényben meghatározottak szerint végzi a büntetőeljárásról szóló 2017. évi XC. törvény 820. § (2) bekezdése alapján a bűncselekményből származó vagyon visszaszerzését, valamint részt vesz a büntetőeljárásról szóló 2017. évi XC. törvény 353. § (1) bekezdése szerinti feladat ellátásában;
+21.[^72] törvényben meghatározottak szerint végzi a Be. 820. § (2) bekezdése alapján a bűncselekményből származó vagyon visszaszerzését, valamint részt vesz a Be. 353. § (1) bekezdése szerinti feladat ellátásában;
 
 22. a 16–18. pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez;
 
-23. a büntetőeljárásról szóló törvényre tekintettel bűnügyi technikai feladatokat lát el, ennek keretében végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet, illetve végzi az általános rendőri szerv bűnügyi technikai tevékenységének szakmai irányítását;
+23.[^73] a Be.-re tekintettel bűnügyi technikai feladatokat lát el, ennek keretében végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet, illetve végzi az általános rendőri szerv bűnügyi technikai tevékenységének szakmai irányítását;
 
 24. közreműködik az államhatár őrzésében, az államhatár jogellenes átlépésének megelőzésében és megakadályozásában, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedésekben, valamint a határrendészeti feladatok végrehajtásában;
 
@@ -62,11 +62,21 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 
 27. gazdálkodik az általános rendőri szerv titkos információgyűjtésre és leplezett eszköz alkalmazására feljogosított szervei speciális működési kiadásait biztosító elkülönített előirányzattal.
 
-28.[^70] közreműködik a büntetőeljárásokhoz kapcsolódó adatmentési feladatokban a szabad kapacitások terhére;
+28.[^74] közreműködik a büntetőeljárásokhoz kapcsolódó adatmentési feladatokban a szabad kapacitások terhére;
 
-29.[^71] ellátja a poligráfos szaktanácsadói tevékenységet.
+29.[^75] ellátja a poligráfos szaktanácsadói tevékenységet.
 
-[^68]: A 9. § a 37/2023. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^69]: A 9. § 21. pontja a 280/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^70]: A 9. § 28. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
-[^71]: A 9. § 29. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+30.[^76] a Ht. 86. § (11) bekezdésében foglaltak alapján, a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló 156/2025. (VI. 23.) Korm. rendeletben meghatározottak szerint hulladékgazdálkodási helyszíni bírságot szab ki;
+
+31.[^77] ellátja a bűnmegelőzési célú felügyelet kapcsán rá háruló feladatokat;
+
+32.[^78] lefolytatja az elektronikus adat hozzáférhetetlenné tételével kapcsolatos hatósági eljárást az elsőként tudomására jutott esetekben.
+
+[^71]: A 9. § a 37/2023. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^72]: A 9. § 21. pontja a 280/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított, a 373/2025. (XI. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^73]: A 9. § 23. pontja a 373/2025. (XI. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^74]: A 9. § 28. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^75]: A 9. § 29. pontját a 479/2024. (XII. 31.) Korm. rendelet 22. §-a iktatta be.
+[^76]: A 9. § 30. pontját a 373/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^77]: A 9. § 31. pontját a 373/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^78]: A 9. § 32. pontját a 373/2025. (XI. 28.) Korm. rendelet 6. §-a iktatta be.
