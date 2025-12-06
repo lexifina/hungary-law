@@ -1,0 +1,3 @@
+## „g) – az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet 38/D. §-ában meghatározott kiemelt sportesemény kivételével – a nemzetközi sportági szakszövetség vezetőinek, a nemzetközi jelentőségű sportrendezvények hivatalos közreműködőinek, így különösen a játékvezetőknek és a versenyfelügyelőknek, valamint a hazai és külföldi sportolóknak, továbbá csapatoknak a kísérése, az útvonaluk biztosítása;”
+
+2. § A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet 5/A. §-ában az „országos rendőrfőkapitányt” szövegrész helyébe, az „országos rendőrfőkapitányt, illetve a terrorizmust elhárító szerv főigazgatóját” szöveg lép.
