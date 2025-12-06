@@ -12,7 +12,7 @@ e)[^5] a lőfegyver, lőszer vagy lőszerelem rendőrség által történő tár
 
 f)[^6] a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott feltételek alapján sportrendezvények biztosítása;
 
-g)[^7] a sportrendezvénnyel közvetlenül össze nem függő esetekben a nemzetközi sportági szakszövetség vezetőinek, valamint a hazai és külföldi válogatott sportolók és csapatok kísérése, az útvonal biztosítása;
+g)[^7] – az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet 38/D. §-ában meghatározott kiemelt sportesemény kivételével – a nemzetközi sportági szakszövetség vezetőinek, a nemzetközi jelentőségű sportrendezvények hivatalos közreműködőinek, így különösen a játékvezetőknek és a versenyfelügyelőknek, valamint a hazai és külföldi sportolóknak, továbbá csapatoknak a kísérése, az útvonaluk biztosítása;
 
 h)[^8] a létesítmény biztonsága érdekében technikai ellenőrzést alkalmazó, a be- és kilépésre szabályozott körülmények mellett lehetőséget biztosító védelmi rendszer felülvizsgálata és időszakos ellenőrzése;
 
@@ -24,6 +24,6 @@ i)[^9] veszélyes vagy más, kiemelt védelmet igénylő különleges szállítm
 [^4]: Az 1. § c) pontja a 177/2019. (VII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. § e) pontját a 67/2010. (III. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 283/2022. (VIII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § f) pontját a 162/2011. (VIII. 18.) Korm. rendelet 15. a iktatta be.
-[^7]: Az 1. § g) pontját a 409/2012. (XII. 28.) Korm. rendelet 37. §-a iktatta be, szövege a 177/2019. (VII. 18.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^7]: Az 1. § g) pontját a 409/2012. (XII. 28.) Korm. rendelet 37. §-a iktatta be, szövege a 373/2025. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: Az 1. § h) pontját a 209/2014. (VIII. 26.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 1. § i) pontját a 177/2019. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
