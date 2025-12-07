@@ -1,1 +1,3 @@
-4. § Hatályát veszti az R. 2. § a) pontjában a „36847,” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
