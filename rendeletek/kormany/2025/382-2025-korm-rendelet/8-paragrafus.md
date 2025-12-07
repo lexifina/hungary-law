@@ -1,1 +1,3 @@
-8. § Hatályát veszti az MDDÜ Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság divat- és kreatíviparral kapcsolatos egyes feladatainak meghatározásáról szóló 157/2024. (VI. 28.) Korm. rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
