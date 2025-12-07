@@ -18,6 +18,6 @@
 
 ## 1. A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet módosítása
 
-1. § A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet 1. § g) pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-[A rendőrség – mint közhatalmi jogosítványokkal és kötelezettségekkel felruházott fegyveres rendvédelmi szerv – jogszabályban meghatározott feladatai kivételével – az államháztartásról szóló 2011. évi CXCV. törvény 46. § (2) bekezdésében foglaltakra figyelemmel – kizárólag az alábbi szolgáltatások nyújtására, írásban szerződhet:]
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

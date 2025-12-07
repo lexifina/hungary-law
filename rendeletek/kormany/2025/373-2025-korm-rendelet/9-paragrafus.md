@@ -1,24 +1,15 @@
-9. § (1) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 12. § (1) bekezdése a következő e) ponttal egészül ki:
+9. § (1)[^14]
 
-(A rendőrkapitányság bűnmegelőzési, bűnüldözési feladatkörében:)
+(2)[^15]
 
-## „e) ellátja a bűnmegelőzési célú felügyelet kapcsán rá háruló feladatokat.”
+(3)[^16]
 
-(2)[^5]
+(4)[^17]
 
-(3)[^6]
+(5)[^18]
 
-(4) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 12. § (3) bekezdése a következő i) és j) ponttal egészül ki:
-
-(A rendőrkapitányság közigazgatási hatáskörében)
-
-## „i) a Ht. 86. § (11) bekezdésében foglaltak alapján, a hulladékgazdálkodási bírság és a helyszíni bírság mértékéről, megállapításának szempontrendszeréről, kiszabásának, valamint egyéb szankciók alkalmazásának részletes szabályairól szóló 156/2025. (VI. 23.) Korm. rendeletben meghatározottak szerint hulladékgazdálkodási helyszíni bírságot szab ki,
-
-## j) lefolytatja az elektronikus adat hozzáférhetetlenné tételével kapcsolatos hatósági eljárást az elsőként tudomására jutott esetekben.”
-
-(5) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 12. § (7) bekezdése a következő i) ponttal egészül ki:
-
-(A büntető- és közigazgatási eljárásban a szemlével kapcsolatos helyszínelői és bűnügyi technikai tevékenységet:)
-
-[^5]: A 9. § (2) bekezdése a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^6]: A 9. § (3) bekezdése a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^14]: A 9. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § (2) bekezdése a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^16]: A 9. § (3) bekezdése a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^17]: A 9. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 9. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

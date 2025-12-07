@@ -1,5 +1,5 @@
 ## 2. A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet módosítása
 
-3. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 6. § (1) bekezdése a következő o) ponttal egészül ki:
+3. §[^3]
 
-(Az ORFK bűnmegelőzési, bűnüldözési feladatkörében:)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
