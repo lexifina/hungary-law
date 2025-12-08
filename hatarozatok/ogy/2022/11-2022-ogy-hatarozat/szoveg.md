@@ -130,7 +130,7 @@ Rónai Sándor (DK)[^22]
 
 Jakab Péter (független)[^23]
 
-dr. Cseh Katalin (Momentum)[^24]
+dr. Cseh Katalin (független)[^24]
 
 Szabó Szabolcs (Momentum)
 
@@ -688,7 +688,7 @@ Varga Szimeon (nemzetiségi szószóló)[^103]
 [^21]: A 36/2025. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
 [^22]: A 31/2025. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^23]: A 47/2022. (X. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^24]: A 60/2022. (XII. 8.) OGY határozat 1. pontja iktatta be, szövege a 26/2024. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^24]: A 60/2022. (XII. 8.) OGY határozat 1. pontja iktatta be, szövege a 69/2025. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
 [^25]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
 [^26]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^27]: A 15/2025. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
