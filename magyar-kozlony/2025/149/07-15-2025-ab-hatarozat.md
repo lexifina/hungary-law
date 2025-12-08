@@ -1,0 +1,1745 @@
+# Az Alkotmánybíróság 15/2025. (XII. 8.) AB határozata
+
+Magyar Közlöny 2025. évi 149. szám, 2025. december 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/vPo37yIrIEbnbtBBqJof692f489dd9016/dokumentumok/6f57dfa86634ded389c9ed81f88de88c95b5dc9d/letoltes)
+
+---
+
+Az Alkotmánybíróság 15/2025. (XII. 8.) AB határozata
+a büntetőeljárásról szóló 2017. évi XC. törvény 869. § (2) bekezdés b) pontja alaptörvény-ellenességének
+megállapítására és megsemmisítésére irányuló bírói kezdeményezés elutasításáról
+Az Alkotmánybíróság teljes ülése jogszabály alaptörvény-ellenességének megállapítására irányuló bírói
+kezdeményezés tárgyában – dr. Czine Ágnes, dr. Handó Tünde, dr. Márki Zoltán és dr. Patyi András alkotmánybírók
+párhuzamos indokolásával – meghozta a következő
+h a t á r o z a t o t :
+Az Alkotmánybíróság a büntetőeljárásról szóló 2017. évi XC. törvény 869. § (2) bekezdés b) pontja alaptörvény-
+ellenességének megállapítására és megsemmisítésére irányuló bírói kezdeményezést elutasítja.
+Az Alkotmánybíróság elrendeli e határozatának közzétételét a Magyar Közlönyben.
+I n d o k o l á s
+I.
+[1] 1. A Debreceni Ítélőtábla mint másodfokú bíróság bírói tanácsa Bf.II.584/2024/183. számú, Bf.II.747/2024/4. számú,
+Bf.II.762/2024/7. számú, valamint Bf.II.765/2024/5. számú végzéseivel az Alkotmánybíróságról szóló 2011. évi
+CLI. törvény (a továbbiakban: Abtv.) 25. § (1) bekezdése alapján a büntetőeljárásról szóló 2017. évi XC. törvény
+(a továbbiakban: Be.) 869. § (2) bekezdés b) pont alaptörvény-ellenességének megállapítását és ex nunc hatályú
+megsemmisítését indítványozta.
+
+[2] Az Alkotmánybíróság az indítványok alapján indult alkotmánybírósági eljárásokat tárgyuk összefüggő jellegére
+tekintettel, együttes vizsgálat és elbírálás végett az Abtv. 58. § (2) bekezdése és az Alkotmánybíróság Ügyrendjének
+34. § (1) bekezdése alapján egyesítette.
+[3] Az indítványozó bíróság – valamennyi indítványában – az I. rendű terhelt és társai ellen költségvetési csalás bűntette
+és más bűncselekmények miatt folyamatban lévő büntetőeljárásokban fordult az Alkotmánybírósághoz.
+[4] A büntetőeljárások előzményeként a Heves Megyei Főügyészség a nyomozás befejezése után négy különböző
+vádiratban emelt vádat. Az ügyészség az I. rendű terhelt és 132 társa ellen B.728/2015/108. számon
+2015. október 16. napján kelt, majd az I. rendű terhelt és 137 társa ellen B.320/2018/38-XXXII. számon
+2018. június 27. napján kelt vádiratot nyújtott be az Egri Törvényszéken.
+[5] A harmadik vádiratot a Heves Megyei Főügyészség az I. rendű terhelt és 36 társa ellen 2020. november 4. napján
+B.436/2020/24. számon nyújtotta be az Egri Járásbíróságon, valamint a negyedik vádiratban az I. rendű terhelt és
+18 társa ellen 2023. november 2. napján B.32/2021/213. számon emelt vádat az Egri Törvényszéken.
+[6] Ezek az alapügyek az egyes terheltekkel szembeni büntetőeljárások elkülönítése következtében több bíróság előtt
+ma is folyamatban lévő, illetve időközben befejezett büntetőeljárásokra ágaztak szét az egész ország területén.
+[7] A teljes ügycsoport iratanyaga meghaladja a másfél millió oldalt, több mint 500 személlyel szemben közöltek
+gyanúsítást, kb. 6 ezer tanút hallgattak ki, mintegy 500 szakvélemény készült, 12 ezer bűnjel van az ügyekben, több
+száz tárgyalási napot töltöttek az ügyekkel a bíróságok, illetve több ezer oldalnyi perbeszéd hangzott el.
+[8] Jelen alkotmánybírósági eljárás szempontjából releváns büntetőeljárás a B.728/2015/108. számú vádirat alapján
+az I. rendű terhelt és 132 társa ellen indult ügy, amelyben az Egri Törvényszék 7.B.30/2015/7137. számon hozott
+ítéletet.
+[9] Az ügyben másodfokon eljáró indítványozó az Egri Törvényszék 7.B.30/2015/7137. számú ítéletének
+felülvizsgálata során nyolc büntetőeljárást különített el. Az indítványozó bíróság ezekből négy büntetőeljárásban
+jogerős ítéletet hozott 2024. november 20. napján Bf.II.553/2024/136. és Bf.II.654/2024/23. számon, továbbá,
+2024. december 4. napján Bf.II.605/2024/105. és Bf.II.677/2024/37. számon.
+[10] Az említett nyolc ügyből folyamatban maradt további négy – a Bf.II.584/2024, a Bf.II.762/2024., a Bf.II.765/2024.,
+a Bf.II.747/2024. számú – büntetőügyben az indítványozó az eljárást felfüggesztette, és 2025. február 3. napján
+az Alkotmánybírósághoz fordult a jelen alkotmánybírósági eljárásban egyesített bírói kezdeményezésekkel.
+[11] Az indítványozó 2025. április 14. napján a Bf.II.733/2024/11. számú végzésében foglalt újabb bírói kezdeményezést
+nyújtott be. Az elkülönített ügyben ugyancsak az Egri Törvényszék 7.B.30/2015/7137. számon hozott ítéletet, és
+másodfokon van folyamatban az indítványozó – a Debreceni Ítélőtábla Bf.II. tanácsa – előtt az eljárás. A LXXII. rendű
+vádlottal szemben folyó eljárás elkülönítéséről az indítványozó 2024. november 20. napján megtartott nyilvános
+ülésén eljárási okból, a védővel szemben kiszabott rendbírság másodfokú elbírálása végett döntött, és az ügyet
+a Kúriára terjesztette fel, amely a Kúria Bpkf.I.215/2025/3. számú, rendbírságot helybenhagyó végzésével
+2025. március 28. napján érkezett vissza az ítélőtáblára. Időközben azonban az ügy többi terheltjére nézve
+az ítélőtábla az eljárást felfüggesztette és az Alkotmánybíróság eljárását kezdeményezte. Az indítványozó ezért
+ebben az ügyben is felfüggesztette az eljárást a LXXII. rendű vádlottra nézve, és a korábbiakkal azonos indokolással
+az Alkotmánybírósághoz fordult.
+[12] Az Alkotmánybíróság a 2025. április 14. napján érkezett, B.II.733/2024/11. számú végzés alapján indult
+alkotmánybírósági eljárást – tárgyuk összefüggő jellegére tekintettel, együttes vizsgálat és elbírálás végett –
+az Abtv. 58. § (2) bekezdése és az Ügyrend 34. § (1) bekezdése alapján a Debreceni Ítélőtábla által benyújtott és
+a Bf.II.584/2024/183. számú indítvány alapján indult eljárásban egyesített négy eljáráshoz egyesítette.
+[13] Az indítványozó 2025. április 24. napján Bf.II.46/2025/66. számú végzésével új bírói kezdeményezést nyújtott
+be az egyik vádlott és 44 vádlott-társa ellen költségvetési csalás bűntette és más bűncselekmény miatt indult
+büntetőeljárásban, amelyben a Nyíregyházi Törvényszék 2024. április 8. napján hozott 8.B.676/2017/1823. számon
+elsőfokú ítéletet. Az indítványozó Debreceni Ítélőtábla az elsőfokú ítélet elleni fellebbezés alapján eljárva az eljárást
+felfüggesztette, és az Abtv. 25. § (1) bekezdés alapján az Alkotmánybírósághoz fordult.
+[14] Az indítványozó a bírói kezdeményezésben közölte, hogy a Bf.II.46/2025. számú eljárás szoros összefüggésben van
+az előzőekben felsorolt és egyesített öt büntetőüggyel, mert annak az ügycsoportnak a Nyíregyházi Törvényszék
+előtt indult részét képezi. Az indítványozó ezért ezt a bírói kezdeményezést is a korábbiakkal azonos indokolással
+nyújtotta be.
+[15] Az Alkotmánybíróság a 2025. április 24. napján érkezett, B.II.46/2024/66. számú végzés alapján indult
+alkotmánybírósági eljárást – tárgyuk összefüggő jellegére tekintettel, együttes vizsgálat és elbírálás végett –
+az Abtv. 58. § (2) bekezdése és az Ügyrend 34. § (1) bekezdése alapján a Debreceni Ítélőtábla által benyújtott és
+
+a Bf.II.584/2024/183. számú indítvány alapján indult eljárásban egyesített öt korábbi bírói kezdeményezéshez
+egyesítette (a továbbiakban együtt: indítvány).
+[16] Az indítványozó mind a hat bírói kezdeményezésben szövegszerűen ugyanazt az indokolást ismételte meg,
+amelyet a Bf.II.605/2024/105. és a Bf.II.677/2024/37. számon – 2024. december 4. napján – jogerősen befejezett
+ügy ítéleteinek indokolásából átemelt a bírói kizárással kapcsolatos mérlegelésre vonatkozóan annak érdekében,
+hogy bemutassa az álláspontja szerint a jelen alkotmánybírósági eljárás alapjául szolgáló ügyekben fennálló és
+jogbizonytalanságot okozó szabályozási és értelmezési nehézségeket.
+[17] Az indítványozó beadványának mindegyike lényegét tekintve a Be. 869. § (2) bekezdés b) pontjának alaptörvény-
+ellenességét állítja, és ugyanazon alaptörvényi jogok sérelmét fogalmazza meg, ugyanazon indokolással.
+[18] 2. Az indítványozó szerint a Be. 869. § (2) bekezdés b) pontja ellentétes az Alkotmánybíróság által a másodfokú bíró
+kizárásával kapcsolatban rögzített alkotmányos követelményekkel és elvekkel.
+[19] Az alaptörvény-ellenesség igazolásaként az indítványozó hivatkozott az Alkotmánybíróság által az eljáró bíróval
+szembeni kizárás feltételei tekintetében hozott több határozatra [34/2013. (XI. 22.) AB határozat, 21/2016. (XI. 30.)
+AB határozat, 25/2017. (X. 17.) AB határozat, 2/2020. (I. 2.) AB határozat, 3001/2025. (I. 21.) AB határozat]. Álláspontja
+szerint a Be. 869. § (2) bekezdés b) pontjában foglalt jogszabályi rendelkezés nem felel meg az Alkotmánybíróság
+ezen határozataiban foglaltaknak.
+[20] Előadta az indítványozó, hogy a 34/2013. (XI. 22.) AB határozatban és a 21/2016. (XI. 30.) AB határozatban foglalt
+követelményeket a jogalkotó a büntetőeljárási szabályozásba is beépítette: előbb a büntetőeljárásról szóló 1998. évi
+XIX. törvény (a továbbiakban: régi Be.) 606/B. § (1) bekezdésébe, majd a Be. 869. § (2) bekezdésébe.
+[21] Az indítványozó rámutatott, hogy jelen indítványaiban támadott rendelkezésnek a régi Be. szerinti megfelelőjét
+már vizsgálta az Alkotmánybíróság a 25/2017. (X. 17.) AB határozatban. Kifejtette, hogy álláspontja szerint
+az Alkotmánybíróságnak a támadott jogszabályi rendelkezést már ennek a határozatnak a meghozatalakor meg
+kellett volna semmisítenie [lásd: Bf.II.584./2024/183. számú végzés 8. oldal utolsó bekezdés, 19. oldal 2. bekezdés].
+[22] Az indítványozó megjegyezte, hogy az Alkotmánybíróság a 2/2020. (I. 2.) AB határozatban a Be. 869. §
+(1) bekezdését is vizsgálta már, és azt az Alaptörvénnyel összhangban állónak nyilvánította, de a (2) bekezdés
+Alaptörvénnyel fennálló összhangjáról nem határozott, így ez a körülmény az általa támadott törvényhely
+tekintetében nem eredményez ítélt dolgot.
+[23] Az indítványozó álláspontja szerint a támadott jogszabályi rendelkezés az Alaptörvény B) cikk (1) bekezdését,
+a C) cikk (1) bekezdését, a XV. cikk (1) bekezdését, a XXIV. cikk (1) bekezdését, a XXVIII. cikk (1) bekezdését, valamint
+a 24. cikk (1) bekezdését, a 26. cikk (1) bekezdését és a 28. cikkét sérti.
+[24] Az alaptörvény-ellenességet az indítványozó az alábbiak szerint indokolta. (Mivel az indítványok érdemi indokolása
+szó szerint azonos szöveget tartalmaz, de az ügyek eltérő tényállásai folytán megváltozott a szöveg elrendezése,
+így a következő oldalhivatkozások a Bf.II.584/2024/183. számú végzésre vonatkoznak.)
+[25] Az indítványozó állítása szerint a Be. támadott rendelkezése és az Alkotmánybíróság alkotmányos követelményei
+közötti ellentét több vonatkozásban értelmezési és eljárási bizonytalanságot eredményezett. Ez az indítványozó
+álláspontja szerint sérti az Alaptörvény B) cikk (1) bekezdésből levezetett jogbiztonságot (világosság,
+kiszámíthatóság, előre láthatóság) (indítvány 19. oldal 2. bekezdés).
+[26] A jogbizonytalanságot fokozza az is, hogy a Be. 869. § (2) bekezdés b) pontja átvette a régi Be. 606/B. § (1) bekezdés
+c) pontját, és az eljáró bíró nem hagyhatja figyelmen kívül a Be.-t és az Alkotmánybíróság határozatát sem.
+A Be. 869. § (2) bekezdés b) pontja azonban nem ugyanazt a követelményt támasztja a bíró kizárása kapcsán, mint
+amely az Alkotmánybíróság gyakorlatából, a fent utalt határozatokból ered. A szabályozás és az AB határozatok
+indítványozó szerinti ellentéte a kizárás hivatkozási alapja tekintetében is bizonytalanságot eredményez.
+„Az eljárási törvény alapján nincs olyan szubjektív vagy objektív kizárási ok, amire hivatkozással a bíró a kizárását
+kérhetné, viszont az eljárási törvény által nem ismert kizárási ok bejelentése esetén fegyelmi felelősséggel tartozik”
+(indítvány 19. oldal 1. bekezdés). Az indítványozó állítása szerint„[j]ogbizonytalanság azonban az, hogy ki járhat el
+és milyen eljárás szabályozhatja a Be. ellenében történő eljárását a bírónak” (indítvány 19. oldal utolsó előtti
+bekezdés).
+[27] Az indítványozó megállapította, hogy az Alkotmánybíróság legutóbb a 3001/2025. (I. 21.) AB határozatában
+összegezte a bíró kizárásával kapcsolatos alkotmányos elveket. Úgy vélte, hogy döntésével az Alkotmánybíróság
+„új helyzetet teremtett” azáltal, hogy tovább szélesítette a kizárással érintett bírók körét. Az Alkotmánybíróság
+ebben a határozatában alkotmányjogi panasz alapján folytatott eljárásban megsemmisítette a Debreceni Ítélőtábla
+másodfokú határozatát annak következtében, hogy a Be. szerint eljárni jogosult, az Ítélőtábla érdemi ítéletét hozó
+tanácsban eljáró ítélőtáblai bíró a nyomozás során nem közvetlenül az indítványozóval, hanem annak terhelt-
+
+társával szemben alkalmazott kényszerintézkedés felülbírálatáról döntött. Az indítványozó álláspontja szerint
+az Alkotmánybíróság a kizárás alapjául szolgáló büntetőügy fogalmát és az érintett bírói kört ezáltal kiszélesítette.
+Ennek következménye, hogy az indítványozó előtt jelenleg is folyamatban lévő, az I. rendű terhelttel szemben
+indult és számos elkülönített büntetőeljárásra szétágazó büntetőügy is egyetlen ügynek számít a megfogalmazott
+alkotmányos követelmények szempontjából. Tehát egy többszáz vádlottas ügyben bármely terheltet érintően
+a nyomozás során hozott határozat felülbírálatában történő bírói részvétel valamennyi terheltre nézve kizárási okot
+alapoz meg a másodfokon ítélkező bírói tanács tagjával szemben (indítvány 16–17. oldal).
+[28] Az indítványozó utalt a 21/2016. (XI. 30.) AB határozatra, amely alkotmányos követelményként megállapítja, hogy
+a büntetőügy további elintézésében ne vegyen részt olyan bíró, aki az eljárás bármely korábbi szakaszában, így akár
+a nyomozás során bíróként járt el. Álláspontja szerint ez az AB határozat még a régi Be.-n alapult. A régi Be.-ben
+azonban a nyomozási bírónak lényeges feladatai voltak a bizonyítással összefüggően, de ezt a Be. nem vette át,
+így a kizárás követelményének „sztereotip ismétlése jelen jogi környezetben nem igazán értelmezhető. […] A bíró
+kizárása ebben a jogi környezetben azt jelenti, hogy az esetleges mentő bizonyítékokat megismerő bíró ki lesz zárva
+az eljárásból”. Kérdésként fogalmazza meg, hogy mennyiben lehet az eljárás tisztességességére hivatkozással kizárni
+az eljárásból azt a bírót is, aki ezeket az adatokat elvileg a nyomozás során megismerhette (indítvány 20. oldal
+4. és 6. bekezdés). Az indítványozó szerint a bizonyítékként felhasznált többletadatok előzetes ismerete a bírói
+mérlegelés természetes része, így pl. a Be. alapján már a tárgyalás előkészítése során dönteni kell a törvénysértő
+vagy hibában szenvedő bizonyíték kizárásáról, mégsem lesz a bíró ezek ismeretében sem eltiltva attól, hogy
+a tárgyalási szakaszban ügydöntő határozatot hozzon [Be. 506. § (4) bekezdés].
+[29] Az indítványozó a szerteágazó eljárások egy részének konkrét feltüntetésével kívánta bemutatni: a kizárásra
+vonatkozó alkotmányos követelmények érvényesítésével gyakran adódhat olyan helyzet, hogy az ügyben illetékes
+és hatáskörrel rendelkező törvényszéken vagy ítélőtáblán nincs már olyan másodfokú bíró, aki korábban ne járt
+volna el az érintett ügyben. Konkrét adatokkal támasztotta alá, hogy a Debreceni Ítélőtáblán nem maradt elég
+büntető ügyszakos bíró ahhoz, hogy olyan másodfokú ítélkező tanácsot állítsanak össze, amelynek egyetlen tagjával
+szemben sem merülhet fel – a részletezett szerteágazó ügyben – kizárás. Az Ítélőtáblán ugyanis összesen 8 büntető
+ügyszakos bíró ítélkezik. Az indítványozó 15 olyan végzést sorolt fel, amelyben a nyomozás során elrendelt
+kényszerintézkedések meghosszabbításáról, illetve más elsőfokú döntések felülvizsgálatáról a büntető ügyszakos
+bírák már döntöttek.
+[30] Az indítványozó ezzel kapcsolatban utalt az Alkotmánybíróság azon okfejtésére is, hogy azokban az ügyekben,
+amelyekben a kizárásra vonatkozó alkotmányos követelményt folyamatban lévő ügyben is alkalmazni kell
+„[a]z alkalmazási kötelesség alól csak kényszerítő okon alapuló kevés kivétel képzelhető el. Ilyen kivétel lehet,
+ha a kizárási szabály alkalmazása esetén nem lenne olyan bíró vagy bírósági tanács, amely eljárhatna az ügyben,
+és az így keletkező akadály a bíróságok rendelkezésére álló igazgatási eszközök alkalmazásával (kirendelés, más
+ügyszakos bíró ideiglenes kijelölése) sem volna elhárítható”{25/2017. (X. 17.) AB határozat, Indokolás [33]}.
+[31] Az indítványozó szerint a fentiekre figyelemmel jogbizonytalanságot okoz az is, hogy nincs elfogadott eljárási rend
+arra az esetre, ha nem áll már rendelkezésre törvényes bíró az adott bíróságon. Szintén alkalmas a jogbiztonság
+megsértésére, hogy hiányzik a „kényszerítő okok” szabályozása, amelyek felmentést adhatnak a kizárási szabály
+alkalmazása alól.
+[32] Az indítványozó megjegyezte azt is, hogy a bíró kirendelésének jogintézménye látszólag megoldást jelent erre
+a helyzetre, de pl. az ítélőtáblára történő kirendelés „a törvényszéki és ítélőtáblai elnökök, valamint az Országos
+Bírósági Hivatal (a továbbiakban: OBH) elnökének szubjektív, előre nem ismert kimenetelű döntésén alapszik”, amely
+szintén bizonytalansági tényező lehet (indítvány 22. oldal 3. bekezdés).
+[33] Az indítványozó ezen kérdéskörrel összefüggésben hivatkozott az Alaptörvény XXVIII. cikk (1) bekezdésében
+foglalt tisztességes eljáráshoz való jog részjogosítványai köréből a törvényes bíróhoz való jogra. A törvényes
+bíró az Alkotmánybíróság értelmezésében „a törvényben előre meghatározott hatáskörrel és illetékességgel
+rendelkező bíróságon működő, előre megállapított ügyelosztási rend szerint kijelölt bíró. […] Ebből következik,
+hogy a bíró és az ügy egymáshoz rendelése alkotmányosan csak előre meghatározott, általános szabályok
+alkalmazásával objektív alapokon történhet” {36/2013. (XII. 5.) AB határozat, Indokolás [32]}. Álláspontja szerint
+ilyenkor„[a]z eljárási törvények rendelkezéseit meghatározó súllyal kell a törvényes bíróhoz való jog szempontjából
+figyelembe venni. A Be. mint eljárási törvény 869. § (2) bekezdés b) pontja pedig jelenleg is hatályos és kötelezően
+alkalmazandó jog a bíróságok számára”(indítvány 22. oldal utolsó előtti bekezdés).
+[34] Az indítványozó szerint a 3001/2025. (I. 21.) AB határozatában megfogalmazott alkotmányos elvárás, amely
+alapján az Alkotmánybíróság csak a III. rendű terhelt vonatkozásában semmisítette meg a Kúria és a Debreceni
+Ítélőtábla másodfokú határozatát, azzal a következménnyel jár, hogy „az ügyek törvényes bírótól való elvonása,
+
+esetleg vármegyék vagy ítélőtáblai régiók között utaztatása” kezdődik (indítvány 23. oldal 5. bekezdés). Ez pedig
+a tisztességes eljáráshoz való jog adott részjogosítványa sérelméhez vezet.
+[35] 3. Az Alkotmánybíróság az üggyel kapcsolatban kérdéseket intézett az OBH elnökéhez annak érdekében, hogy
+az indítványozó által támadott kizárási szabály alkalmazásának gyakorlatáról tájékozódjon.
+[36] Az Alkotmánybíróság első kérdése arra vonatkozott, hogy milyen gyakran fordul elő az a helyzet, hogy
+a részletezett kizárási ok alkalmazása miatt adott ügyben nem marad a bíróságokon megfelelő szakértelemmel
+rendelkező törvényes bíró.
+[37] Az OBH áttekintette a 2017. január 1. napjától 2024. december 31. napjáig terjedő időszakot. Megállapította,
+hogy az egyik ítélőtáblán 5 peres és 15 nemperes ügyben merült fel a tárgyalt kizárási ok, és ezen ügyekben egy
+polgári ügyszakos bíró segítségével jártak el. A Fővárosi Ítélőtáblán pedig a katonai büntetőügyek másodfokú
+intézése során állt elő többször ez a perjogi helyzet, mert a katonai büntetőeljárásra tartozó ügyekben a Be. 697. §
+(2) bekezdése alapján a Fővárosi Ítélőtábla egyetlen katonai tanácsa jár el. Emiatt 17 peres és 27 nemperes katonai
+fellebbviteli eljárásban volt szükség két kirendelt katonai elsőfokú bíró bevonására.
+[38] Az Alkotmánybíróság második kérdése arra vonatkozott, hogy a bíróságok a tárgyalt kizárási ok felmerülése esetén
+milyen szabályok alkalmazásával döntenek e problémának a megoldásáról az ügyelosztási rend és a törvényes
+bíróhoz való jog biztosítása érdekében.
+[39] Az OBH elnöke válaszában utalt arra, hogy a vizsgált időszakban a bíróságok a hatályos törvényi rendelkezésre
+épülő kúriai iránymutatások és az azok figyelembevételével elfogadott ügyelosztási rendek alapján jártak el.
+Megfogalmazta, hogy a bíróságok a hatályos jogot és az alkotmánybírósági határozatokban foglaltakat
+alkalmazzák. Megemlítette, hogy az Alkotmánybíróság 25/2017. (X. 17.) AB határozatával nem semmisítette meg
+a régi Be. 606/B. § (1) bekezdését. A 2/2020. (I. 2.) AB határozatával pedig az Alkotmánybíróság az Alaptörvénnyel
+összhangban állónak találta az ugyanezen rendelkezéseket törvénybe iktató, Be. 869. § (1) bekezdését
+(Indokolás [31]). Ugyanakkor mivel sem az ügyben eljáró bíró, sem a Kúria nem dönthet a bíró kizárásáról
+az eljárási törvény rendelkezéseinek figyelmen kívül hagyásával, így egyedül az Alkotmánybíróságnak van joga
+arra, hogy egy konkrét bírósági határozat vizsgálatakor esetről esetre utólag megállapítsa, hogy a bíró kizárására
+vonatkozó alkotmányos követelményekre is tekintettel voltak-e a büntetőeljárás során vagy sem {lásd: BH2019.263,
+Indokolás [27]}.
+[40] Az Alkotmánybíróság harmadik kérdésében az indítványban – a bíró kirendelését érintően – kifejtett probléma-
+felvetésével kapcsolatos OBH álláspont közlését kérte.
+[41] Az OBH elnöke jelezte, hogy nem tud olyan ügyről, amelyben az ügy bíróságra érkezését és a szignálást követően
+rendeltek volna ki bírót. Nincs lehetőség továbbá a bírák jogállásáról és a javadalmazásáról szóló 2011. évi
+CLXII. törvény (a továbbiakban: Bjt.) alapján arra, hogy egy bíró adott ügyben történő eljárásra kirendelésre kerüljön,
+és arról sincs tudomása, hogy valamely bíróságon az ügyelosztási rendet a bíróságok szervezetéről és igazgatásáról
+szóló 2011. évi CLXI. tv. 9. § (1) bekezdésére figyelemmel utólagos kirendelés esetén módosítani kellett volna.
+Az OBH nem tart nyilván olyan adatokat, amelyek a kizárás elintézésére a Be. 17. §-ában foglaltakat veszik alapul.
+II.
+[42] 1. Az Alaptörvénynek az indítvánnyal érintett rendelkezései:
+„B) cikk (1) Magyarország független, demokratikus jogállam.”
+„C) cikk (1) A magyar állam működése a hatalom megosztásának elvén alapszik.”
+„XV. cikk (1) A törvény előtt mindenki egyenlő. Minden ember jogképes.”
+„XXIV. cikk (1) Mindenkinek joga van ahhoz, hogy ügyeit a hatóságok részrehajlás nélkül, tisztességes módon és
+ésszerű határidőn belül intézzék. A hatóságok törvényben meghatározottak szerint kötelesek döntéseiket indokolni.”
+„XXVIII. cikk (1) Mindenkinek joga van ahhoz, hogy az ellene emelt bármely vádat vagy valamely perben a jogait és
+kötelezettségeit törvény által felállított, független és pártatlan bíróság tisztességes és nyilvános tárgyaláson, ésszerű
+határidőn belül bírálja el. […]”
+„24. cikk (1) Az Alkotmánybíróság az Alaptörvény védelmének legfőbb szerve.”
+„26. cikk (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem
+utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet
+elmozdítani.”
+
+„28. cikk A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban azok céljával és az Alaptörvénnyel
+összhangban értelmezik. A jogszabályok céljának megállapítása során elsősorban a jogszabály preambulumát,
+illetve a jogszabály megalkotására vagy módosítására irányuló javaslat indokolását kell figyelembe venni.
+Az Alaptörvény és a jogszabályok értelmezésekor azt kell feltételezni, hogy a józan észnek és a közjónak megfelelő,
+erkölcsös és gazdaságos célt szolgálnak.”
+[43] 2. A Be. indítvánnyal érintett rendelkezései:
+„14. § (1) Bíróként nem járhat el,
+a) aki az ügyben ügyészként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró
+ügyésznek vagy a nyomozó hatóság tagjának a hozzátartozója,
+[…]
+(3) Az (1) bekezdésben szabályozott eseteken kívül
+a) a vádemelést követően a bíróság további eljárásából ki van zárva, aki az ügyben a vádemelés előtt nyomozási
+bíróként, vagy a nyomozási bíró határozata elleni fellebbezés tárgyában eljárt, […]”
+„869. § (1) A 14. § (3) bekezdés a) pontjának alkalmazása során a törvényszék másodfokú tanácsának tagjaként eljáró
+bíró a 2016. november 30. után indult büntetőeljárásokban minősül kizártnak.
+(2) A 14. § (3) bekezdés a) pontjának alkalmazása során kizártnak minősül
+a) a büntetőeljárásról szóló 1998. évi XIX. törvény 2017. június 30-ig hatályban volt 207. § (6) bekezdésében
+meghatározott ügyekben, illetve a házi őrizet egy éven túli meghosszabbítása tárgyában a törvényszék egyes
+bírájaként eljáró bíró, ha a büntetőeljárás 2013. november 22. után indult,
+b) a büntetőeljárásról szóló 1998. évi XIX. törvény 2017. június 30-ig hatályban volt 131. § (3) bekezdése, 138. §
+(3) bekezdése, 142. § (4) bekezdése, illetve 486. §-a alapján az ítélőtábla tanácsának tagjaként eljáró bíró,
+ha a büntetőeljárás 2016. november 30. után indult.”
+III.
+[44] Az Alkotmánybíróság mindenekelőtt azt vizsgálta, hogy a bírói kezdeményezések megfelelnek-e az Alaptörvény
+24. cikk (2) bekezdésében, valamint az Abtv. 25. §-ában, 51. §-ában, 52. § (1) bekezdésében, 52. § (1b) bekezdés
+a)–f) pontjában, továbbá 52. § (4)–(6) bekezdésében foglaltakból következő formai és tartalmi követelményeknek.
+[45] 1. Az Abtv. 25. § (1) bekezdése szerint a bíró – a bírósági eljárás felfüggesztése mellett – abban az esetben
+kezdeményezheti az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál a jogszabály
+vagy jogszabályi rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes
+jogszabály alkalmazásának kizárását, ha az előtte folyamatban lévő egyedi ügy elbírálása során olyan jogszabályt
+kell alkalmazni, amelynek alaptörvény-ellenességét észleli, vagy az alaptörvény-ellenességét az Alkotmánybíróság
+már megállapította.
+[46] Az Alkotmánybíróság rögzíti, hogy az indítványozó az előtte folyamatban lévő hat büntetőeljárást felfüggesztette.
+[47] 2. Az egyedi normakontroll eljárást kezdeményező bírói indítványnak az Abtv. 52. § (1) bekezdése szerinti határozott
+kérelmet kell tartalmaznia. A kérelem akkor határozott, ha tartalmazza az Alkotmánybíróság hatáskörére és
+az indítványozó jogosultságára vonatkozó hivatkozást, megjelöli az Alaptörvényben biztosított jogok sérelmének
+lényegét, az Alaptörvény megsértett rendelkezéseit, és megfelelő indokolást is tartalmaz. Ezenkívül megjelöli
+a sérelmezett jogszabályi rendelkezést, és kifejezetten kéri az alaptörvény-ellenességének a megállapítását
+és megsemmisítését, illetve az alaptörvény-ellenes jogszabály alkalmazásának a kizárását {3058/2015. (III. 31.)
+AB végzés, Indokolás [19]–[21]}.
+[48] A kérelem határozottságát vizsgálva az Alkotmánybíróság megállapította, hogy annak az egyesített, konkrét bírói
+kezdeményezések csak részben felelnek meg. Mind a hat bírói kezdeményezés lényegét tekintve – túlnyomórészt
+szövegszerűen is – azonos indokolást tartalmaz.
+[49] Az indítványozó megjelölte azt a törvényi rendelkezést [Abtv. 25. § (1) bekezdés], amely megállapítja
+az Alkotmánybíróság hatáskörét az indítvány elbírálására [Abtv. 52. § (1b) bekezdés a) pont], és előadta az eljárás
+megindításának indokait [Abtv. 52. § (1b) bekezdés b) pont]. Az indítványozó megjelölte az Alkotmánybíróság
+által vizsgálandó jogszabályi rendelkezést [Be. 869. § (2) bekezdés b) pont, Abtv. 52. § (1b) bekezdés c) pont],
+és az Alaptörvény sérülni vélt rendelkezéseit [Alaptörvény B) cikk (1) bekezdés, C) cikk (1) bekezdés, XV. cikk
+(1) bekezdés, XXIV. cikk (1) bekezdés, XXVIII. cikk (1) bekezdés, 24. cikk (1) bekezdés, 26. cikk (1) bekezdés és
+a 28. cikk; Abtv. 52. § (1b) bekezdés d) pont]. Az Alkotmánybíróság megállapította azt is, hogy az indítvány kifejezett
+
+kérelmet tartalmaz az Alkotmánybíróság döntésének tartalmára [Abtv. 52. § (1b) bekezdés f) pont], az Abtv. 41. §
+(1) bekezdésében foglaltak szerint a támadott Be. rendelkezés alaptörvény-ellenességének megállapítására és
+megsemmisítésére irányul.
+[50] Az Abtv. 52. § (1b) bekezdés e) pontja értelmében továbbá az indítványnak indokolást kell tartalmaznia arra
+nézve, hogy a sérelmezett jogszabályi rendelkezés miért ellentétes az Alaptörvény megjelölt rendelkezésével.
+Ennek a feltételnek az indítvány csak részben felel meg. Az indítványozó ugyanis csak az Alaptörvény B) cikk
+(1) bekezdéséből levezetett jogbiztonság tekintetében tartalmaz megfelelő indokolást arra nézve, hogy
+a sérelmezett jogszabályi rendelkezés az Alaptörvény megjelölt rendelkezésével miért ellentétes. Nem adott
+elő ugyanakkor alkotmányjogilag értékelhető indokolást az indítványozó az Alaptörvény egyéb rendelkezései
+vonatkozásában. Az Alaptörvény C) cikk (1) bekezdésének, XV. cikk (1) bekezdésének, XXIV. cikk (1) bekezdésének,
+24. cikk (1) bekezdésének, 26. cikk (1) bekezdésének és 28. cikkének megsértését az indítványozó önálló
+alkotmányjogi érveléssel nem támasztotta alá. Az Alaptörvény XXVIII. cikk (1) bekezdésében foglalt tisztességes
+eljáráshoz való jog részjogosítványai köréből a törvényes bíróhoz való jog sérelmére vonatkozó indítványozói
+érvelés pedig az adott részjogosítvány alkotmányos tartalmára vonatkozó általános megállapításokat tartalmaz,
+amelyek nem igazolták, hogy azt sértené a Be. támadott rendelkezése. Így az Alaptörvény C) cikk (1) bekezdésére,
+XV. cikk (1) bekezdésére, XXIV. cikk (1) bekezdésére, XXVIII. cikk (1) bekezdésére, 24. cikk (1) bekezdésére, 26. cikk
+(1) bekezdésére és 28. cikkére alapítottan nem volt helye érdemi vizsgálat lefolytatásának.
+[51] 3. Az Abtv. 25. § (1) bekezdése értelmében az egyedi normakontroll eljárásnak további két – egymással
+összefüggő – feltétele, hogy a bírói kezdeményezés ténybeli alapja a bíró előtt folyamatban lévő egyedi ügy
+legyen, és a kezdeményezésnek ebben az ügyben alkalmazandó jogszabály – jogegységi határozat – vizsgálatára
+kell irányulnia {3112/2014. (IV. 17.) AB végzés, Indokolás [3]; 3242/2014. (IX. 22.) AB végzés, Indokolás [4]}.
+Az Alkotmánybíróság következetes gyakorlata értelmében ugyanis a bírói kezdeményezés mint normakontroll
+egyedi vagy konkrét jellege az absztrakt utólagos normakontrollhoz képest annyiban szűkebb, hogy
+az indítványozó bíró csak az ügyben alkalmazott jogszabályt támadhatja meg, és részletesen meg kell indokolnia,
+hogy valóban kell-e azt az adott ügyben alkalmaznia. Csak ezzel biztosítható ugyanis a kezdeményezés egyedi
+– konkrét – normakontroll-jellege.
+[52] A támadott jogszabályi rendelkezés alkalmazása tekintetében az Alkotmánybíróság rögzíti, hogy a régi Be. 606/B. §
+(1) bekezdés a) pontja 2017. április 19-től hatályos átmeneti rendelkezést tartalmaz akként, hogy a törvényszék
+egyesbírójaként eljáró bíró a 2013. november 22. napja után indult büntetőeljárások tekintetében minősül
+kizártnak, és ezt a törvényi rendelkezést a folyamatban lévő eljárásokban, valamint a jogerős ítéletekkel elbírált
+ügyek tekintetében is alkalmazni kell. A törvényalkotás ezzel a szabályozással a 34/2013. (XI. 22.) AB határozat
+alkotmányos követelményét emelte törvényi szintre. A régi Be. 606/B. § (1) bekezdés c) pontja szerinti átmeneti
+rendelkezés értelmében továbbá az ítélőtábla tanácsának tagjaként eljáró bíró a 2016. november 30. után
+indult büntetőeljárások esetében minősül kizártnak. A törvényalkotás ezzel a szabályozással a 21/2016. (XI. 30.)
+AB határozatban foglalt alkotmányos követelményt emelte törvényi szintre. A 2018. július 1. napjától hatályos
+Be. 869. § (1) és (2) bekezdése szintén átmeneti rendelkezéseket tartalmaz. A Be. 869. § (1) bekezdése, valamint
+(2) bekezdés b) pontja a 2016. november 30. napján kihirdetett 21/2016. (XI. 30.) AB határozatban foglalt azon
+alkotmányos követelmény tartalmát iktatta törvénybe, hogy a büntetőügy további elintézésében ne vegyen részt
+olyan bíró, aki az eljárás bármely korábbi szakaszában, így akár a nyomozás során (ideértve a nyomozási bíró
+határozata elleni fellebbezés elbírálásában való részvételt) bíróként eljárt (Rendelkező rész 1.).
+[53] Tekintettel arra, hogy az alapul szolgáló büntetőeljárás a régi Be. hatálya alatt indult, így a Be. kizárásra irányadó
+szabályait a Be. átmeneti rendelkezéseire figyelemmel kell az eljáró bíróságnak alkalmaznia. Ez pedig azt jelenti,
+hogy a Be. 869. § (2) bekezdés b) pontot a másodfokú eljárást lefolytató és az érdemi döntést meghozó bírói tanács
+összeállításakor is alkalmazni kell.
+[54] 4. Az Alkotmánybíróság az egyesített indítvány befogadása körében vizsgálta a kérelem tárgyával kapcsolatban
+a res iudicata kérdését is.
+[55] Az Abtv. 31. § (1) bekezdése kimondja, hogy ha „alkotmányjogi panasz vagy bírói kezdeményezés alapján
+az alkalmazott jogszabály vagy jogszabályi rendelkezés Alaptörvénnyel való összhangjáról az Alkotmánybíróság
+már döntött, ugyanazon jogszabályra, illetve jogszabályi rendelkezésre és ugyanazon Alaptörvényben biztosított
+jogra, valamint azonos alkotmányjogi összefüggésre hivatkozással – ha a körülmények alapvetően nem változtak
+meg – nincs helye az alaptörvény-ellenesség megállapítására irányuló alkotmányjogi panasznak, valamint
+bírói kezdeményezés alaptörvény-ellenesség megállapítására irányuló vizsgálatának.” Az Alkotmánybíróságnak
+
+ezért – az érdemi vizsgálat megkezdése előtt – állást kellett foglalnia az ítélt dolog kérdésében {30/2016. (V. 12.)
+AB határozat, Indokolás [21]}.
+[56] Az Alkotmánybíróság a 2/2020. (I. 2.) AB határozatában alkotmányjogi panasz indítvány alapján már vizsgálta
+a Be. 869. § (1) bekezdés alaptörvény-ellenességét. Jelen bírói kezdeményezések azonban a Be. 869. § (2) bekezdés
+b) pontját támadják, amely rendelkezést eddig az Alkotmánybíróság még nem vizsgált. Az Alkotmánybíróság ezért
+megállapította, hogy az egyesített indítvány vonatkozásában a res iudicata esete nem áll fenn.
+IV.
+[57] A bírói kezdeményezés nem megalapozott.
+[58] 1. Az indítványozó az alaptörvény-ellenességet az Alaptörvény B) cikk (1) bekezdésből levezetett jogbiztonság
+követelményét érintően tartotta indokoltnak megállapítani.
+[59] 1.1. Az indítványozó azt állította, hogy a Be. 869. § (2) bekezdés b) pontja és az Alkotmánybíróság alkotmányos
+követelményei közötti ellentét több vonatkozásban értelmezési és eljárási bizonytalanságot eredményezett,
+ami az Alaptörvény B) cikk (1) bekezdéséből levezetett jogbiztonság sérelmét valósítja meg. Ez a sérelem
+pedig az indítvány értelmében alapvetően abból fakad, hogy a Be. 869. § (2) bekezdés b) pontja nem ugyanazt
+a követelményt támasztja a bíró kizárása kapcsán, mint amely az Alkotmánybíróság gyakorlatából ered.
+[60] 1.2. Az Alkotmánybíróság gyakorlata következetes abban, hogy a jogállamiság – és azon belül a jogbiztonság –
+követelményeinek teljesülését különös gondossággal vizsgálja az állami erőszak legális alkalmazásának
+területén, vagyis a büntetőhatalom gyakorlásával összefüggésben {7/2018. (VII. 5.) AB határozat, Indokolás [26]}.
+A jogállamiságból és a jogbiztonságból az Alkotmánybíróság értelmezése szerint számos olyan követelmény
+fakad, amelyek a normában kifejeződő büntetőpolitikai döntés alkotmányos korlátait jelentik. Ezek köréből
+az Alkotmánybíróság az indítványozó érvei alapján az állami büntetőhatalom gyakorlásával összefüggésben
+az alábbiakat emelte ki.
+[61] Az Alkotmánybíróság következetes felfogása szerint a jogállamisági klauzulából kiolvasható jogbiztonság
+követelménye azt jelenti, hogy a jogrendszer egésze, annak részterületei, valamint egyes szabályai világosak,
+egyértelműek, hatásukat tekintve kiszámíthatók, a norma címzettjei számára előre láthatóak legyenek, és
+a jogalkalmazás során felismerhető normatartalmat hordozzanak [9/1992. (I. 30.) AB határozat, ABH 1992,
+65–66]. A jogbiztonság egyik legfontosabb alapkövetelménye a jogszabályok kiszámíthatósága, a jog egésze,
+egyes részterületei és az egyes jogi normák, jogintézmények egyértelműsége {38/2012. (XI. 14.) AB határozat,
+Indokolás [84]; 3047/2013. (II. 28.) AB határozat, Indokolás [13] és [16]; 3106/2013. (V. 17.) AB határozat, Indokolás [8];
+24/2013. (X. 14.) AB határozat, Indokolás [48]}. A jogbiztonság teremti meg a lehetőséget a jogalanyoknak arra, hogy
+magatartásukat ténylegesen a jog előírásaihoz tudják igazítani {3208/2013. (XI. 18.) AB határozat, Indokolás [58]}.
+[62] A jogbiztonság szempontjából különösen fontosak az olyan jogszabályi rendelkezések, amelyek garantálják,
+hogy alappal lehessen számítani a törvény előírásainak megfelelő jogalkalmazói magatartásra. A jogbiztonság és
+az alapjogok védelme ezért megköveteli a büntetőeljárás részletes és differenciált szabályozását. Ennek keretében
+elvárás, hogy az eljáró bíróságra irányadó, köztük a bíró kizárását szabályozó rendelkezések egyértelműen
+meghatározzák, hogy az adott eljárásban ki, mely személyi kör nem járhat el bíróként. Mindez nem teljesül akkor,
+ha a jogszabály megfogalmazása nem egyértelmű, többféle értelmezést tesz lehetővé, amelynek következtében
+a jogintézmény kiszámítható működése nem biztosítható.
+[63] Az indítványozó a kifogásait épp erre alapította: úgy vélte, hogy a Be. 869. § (2) bekezdés b) pontja szerinti
+kizárási szabály tartalma nem egyezik az Alkotmánybíróság kapcsolódó gyakorlatával, ezért az nem egyértelmű.
+Az indítványozó ezen kifogására figyelemmel az Alkotmánybíróság indokoltnak tartotta, hogy áttekintse
+kapcsolódó döntéseit, és kiemelje azok elvi tartalmát.
+[64] 2. Az Alkotmánybíróság a büntetőeljárásban a bíró kizárása kapcsán 2013-tól kezdődően az alábbiak szerint
+alakította ki a gyakorlatát.
+[65] 2.1. Az első kapcsolódó döntés, a 34/2013. (XI. 22.) AB határozat rendelkező része értelmében:„az Alkotmánybíróság
+jelen határozatának kihirdetését követően indult büntetőeljárásokban az Alaptörvény XXVIII. cikk (1) bekezdéséből
+fakadó alkotmányos követelmény, hogy a büntetőeljárásról szóló 1998. évi XIX. törvény 207. § (6) bekezdése szerint
+eljáró bíró ugyanezen törvény 21. § (3) bekezdés a) pontjának megfelelően a bíróság további eljárásából ki van
+zárva.”
+
+[66] Az alkotmányos követelmény megfogalmazására azért volt szükség, mert a régi Be. 21. § (3) bekezdés a) pontja
+akkor hatályos szövege csak azt a kizárási okot tartalmazta, amely a nyomozási bírónak az érdemi döntés
+meghozatalából történő kizárására vonatkozott. Ugyanakkor nem tartozott a nyomozási bíró fogalma alá az előzetes
+letartóztatás egy éven túli meghosszabbítását, valamint az ideiglenes kényszergyógykezelés felülvizsgálatát
+végző törvényszéki egyesbíró. Nem szerepelt továbbá kizárási ok a törvényi rendelkezésekben a nyomozási bíró
+határozata elleni fellebbezést elbíráló bírói tanács tagjára vonatkozóan sem. Ezen eljáró bírák pártatlanságának
+a biztosítása érdekében született a 34/2013. (XI. 22.) AB határozat, valamint a 21/2016. (XI. 30.) AB határozat.
+[67] Az alkotmányos követelmény szerinti kizárási szabály tehát a régi Be. alapján arra az esetre volt irányadó, ha
+a vádemelést megelőzően, az előzetes letartóztatás egy éven túli meghosszabbítására, valamint az ideiglenes
+kényszergyógykezelés felülvizsgálatára irányuló eljárást a törvényszék egyesbírája folytatta le. Így a kizárás
+a 34/2013. (XI. 22.) AB határozat alapján azokra a bírókra vonatkozik, akik 2013. november 22. napját követően indult
+büntetőeljárásban jártak el a régi Be. 207. § (6) bekezdése alapján.
+[68] A határozat indokolásának tételmondatai szerint „semmi nem zárja ki annak elvi lehetőségét, hogy a bírósági
+tárgyaláson végül nem használnak fel bizonyítékként olyan, a bűnügyi nyomozás során beszerzett adatokat,
+amelyeket azonban a Be. 207. § (6) bekezdése szerint eljáró bíró [értsd: a vádirat benyújtása előtt az előzetes
+letartóztatás egy éven túli meghosszabbítására irányuló eljárást és az ideiglenes kényszergyógykezelés
+felülvizsgálatát lefolytató törvényszéki egyesbíró] megismerhetett. Az Alkotmánybíróság értékelése szerint
+a tárgyalás során bizonyítékként fel nem használt többletadatok előzetes ismerete is alkalmas lehet arra, hogy
+az ítélkező bíró elfogulatlanságát, vagyis a bűnügy elfogultságtól mentes megítélését veszélynek tegye ki”
+(Indokolás [52]). Mindebből pedig az Alkotmánybíróság azt a következtetést vonta le, hogy „a vádemelés előtt
+a gyanú megalapozottságát illetően a bizonyítékokról való előzetes állásfoglalás csakúgy, mint a büntetőügyre
+vonatkozó olyan adatok megismerése, amelyeket a tárgyalás során nem használnak fel bizonyítékként, mind olyan
+körülményeknek tekinthetőek, amelyek alapján a nyomozási bíró jogkörében korábban eljáró ítélkező bíróság
+tagjainak pártatlanságát kétely övezheti”(Indokolás [53]).
+[69] Ezért a terhelt pártatlan bírói eljáráshoz fűződő joga azt az igényt fogalmazza meg, hogy a nyomozási bíró mellett
+az ítélkezésben ne vehessen részt olyan bíró sem, aki nem nyomozási bíróként, de nyomozási bírói hatáskörben
+járt el. Ilyen volt a régi Be. értelmében az előzetes letartóztatás egy éven túli meghosszabbítására, valamint
+az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló eljárásban eljárva a törvényszék egyesbírája.
+[70] Az alkotmányos követelmény emellett a saját alkalmazását a kihirdetését követő időre, vagyis
+a 2013. november 22. napját követően indult büntetőeljárásokban írta elő. Ennélfogva az előzetes letartóztatás
+egy éven túli meghosszabbítására, valamint az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló
+eljárásban eljáró törvényszéki egyesbíróra vonatkozó kizárási ok az alkotmánybírósági határozat kihirdetésekor
+folyamatban lévő büntetőeljárásokban nem volt alkalmazandó.
+[71] 2.2. A 34/2013. (XI. 22.) AB határozat szerinti alkotmányos követelményt bővítette ki a 21/2016. (XI. 30.) AB határozat.
+A döntés rendelkező része értelmében „az Alaptörvény XXVIII. cikk (1) bekezdéséből eredő alkotmányos
+követelmény a büntetőeljárásról szóló 1998. évi XIX. törvény 21. § (3) bekezdés a) pontjának alkalmazásakor,
+hogy a büntetőügy további elintézésében ne vegyen részt olyan bíró, aki az eljárás bármely korábbi szakaszában,
+így akár a nyomozás során bíróként járt el.” A határozat értelmében az Alaptörvény XXVIII. cikk (1) bekezdésében
+foglalt pártatlanság követelménye megkívánja, hogy a büntetőügy további elintézésében ne vegyen részt olyan
+bíró, aki az eljárás bármely korábbi szakaszában, így akár a nyomozás során bírói feladatokat látott el,„ugyanis azzal
+szükségszerűen együtt jár a bizonyítékok bizonyos szintű, de mindenképpen előzetes értékelése. E körben nincs
+alapvető különbség a nyomozási bíró, az előzetes letartóztatás egy éven túli hosszabbításáról döntő egyesbíró,
+vagy az előzetes letartóztatás elrendelése, illetve meghosszabbítása tárgyában másodfokú döntést hozó tanács
+tagjainak feladatai között. Ebből fakadóan pedig a Be. 21. § (3) bekezdés a) pontjának szűkítő értelmezése sem lehet
+alkotmányosan megalapozott”(Indokolás [43]).
+[72] Ezzel a határozat két tekintetben terjesztette ki a korábbi, 34/2013. (XI. 22.) AB határozat által megfogalmazott
+alkotmányos követelményt:
+– egyrészről általános igényt formált minden olyan bíró kizárása iránt, aki az eljárás bármely korábbi
+szakaszában bíróként már eljárt. Így a kizárás követelménye vonatkozott a nyomozási bíróra,
+a kényszerintézkedést meghosszabbító fentebb részletezett törvényszéki egyesbíróra és a nyomozási bíró
+határozata elleni jogorvoslat során, másodfokon eljáró bíróra vagy bírói tanács tagjára is;
+– másrészről viszont nem határozott meg olyan dátumot, vagy időpontot, amelytől kezdődően
+a követelmény érvényesítését elvárta, ezáltal az érvényesítés általános, időkorlát nélküli igényét
+támasztotta. Ez azt jelentette, hogy az alkotmányos követelmény érvényesülésével kapcsolatos főszabály
+
+érvényesült: az alkotmányos követelmény mindenkire nézve kötelező, és ez a kötelezettség a hivatalos
+lapban való közzétételt követő napon áll be. A 21/2016. (XI. 30.) AB határozat közzétételének időpontja
+2016. november 30. napja volt. Ezen időponttól kezdődően az alkotmányos követelmény a régi Be. 21. §
+(3) bekezdés a) pontjának alkalmazásakor kötelezően irányadó volt a kihirdetésekor folyamatban lévő
+büntetőeljárásokban is.
+[73] Mind a 34/2013. (XI. 22.) AB határozat, mind pedig a 21/2016. (XI. 30.) AB határozat kiemelkedő jelentőségű
+a büntetőeljárások alkotmányos garanciarendszerében. Azok segítségével sikerült ugyanis az Alkotmánybíróságnak
+rámutatnia a pártatlanság követelményének érvényesülésével összefüggő hiányosságokra, és egyúttal összhangba
+hozni a bíró kizárásának törvényi szabályozását a tisztességes eljáráshoz való jog ezen részjogosítványából fakadó
+követelményekkel.
+[74] 2.3. A jogalkotó ezt követően az egyes büntetőjogi tárgyú törvények módosításáról szóló 2017. évi XXIX. törvénnyel
+(a továbbiakban: Mód.tv.) 2017. április 19-i hatállyal módosította a régi Be. 21. § (3) bekezdés a) pontjában rögzített
+kizárási szabályt. A kiegészített rendelkezés a vádemelést követően a bíróság további eljárásából nemcsak
+azt zárta ki, aki az ügyben a vádemelés előtt nyomozási bíróként eljárt, hanem azt is, aki az ügyben a vádemelés
+előtt a nyomozási bíró határozata elleni fellebbezés tárgyában eljárt.
+[75] A fenti módosításon túl a jogalkotó a kizárási szabályok alkalmazására a folyamatban lévő büntetőeljárásokban
+is iránymutatást kívánt adni. Ezért a Mód.tv.-nyel a régi Be. 606/B. §-ába belefoglalta az Alkotmánybíróságnak
+a bíró kizárásával kapcsolatos, két említett alkotmányos követelményét. A régi Be. 606/B. §-a szintén
+2017. április 19. napján lépett hatályba.
+[76] A 34/2013. (XI. 22.) AB határozatban szereplő alkotmányos követelmény tartalmát a Mód.tv. a régi Be. 606/B. §
+(1) bekezdésébe foglalta. A 21/2016. (XI. 30.) AB határozat alkotmányos követelményét a Mód. tv. a régi Be. 606/B. §
+(2)–(3) bekezdésében helyezte el. A régi Be. ezen rendelkezései 2018. június 30. napjáig voltak hatályban,
+majd a Be. az átmeneti rendelkezések között a régi Be. 606. §-ával azonos tartalommal szabályozta a törvényi
+rendelkezéssé alakított alkotmányos követelményeket.
+[77] A bíró kizárására irányadó hatályos szabályozás a Be. 14. § (3) bekezdés a) pontjában már tartalmazza azon kizárási
+okot, amely minden büntetőeljárásra vonatkozóan megköveteli az érdemi döntésből azon bíró kizárását, aki
+az ügyben a vádemelés előtt nyomozási bíróként, vagy a nyomozási bíró határozata elleni fellebbezés tárgyában
+eljárt. A Be. ezen 14. § (3) bekezdés a) pontjának a Be. hatálybalépésekor folyamatban volt eljárásokban való
+alkalmazására irányadó rendelkezéseket a Be. a 869. § (1) és (2) bekezdésében foglalja össze.
+[78] A Be. 869. § (1) és (2) bekezdés b) pontja a régi Be. 606/B. § szövegszerű megismétlésével a 21/2016. (XI. 30.)
+AB határozatban foglalt alkotmányos követelményt emelte be a törvényszövegbe, és alkalmazását
+a 2016. november 30. napja után indult büntetőeljárásokra állapította meg. A Be. 869. § (2) bekezdés a) pontja
+pedig a 34/2013. (XI. 22.) AB határozat alkotmányos követelményével egyező szabályt állapít meg a 2013. november
+22. napja után indult büntetőeljárásokra nézve.
+[79] 2.4. Az Alkotmánybíróság a régi Be. módosítása (2017. április 19.) és a Be. hatálybalépése (2018. július 1.) közötti
+időszakban hozott 25/2017. (X. 17.) AB határozatában a régi Be. 606/B. § (1) bekezdés b) és c) pontja alaptörvény-
+ellenességének megállapítására és megsemmisítésére irányuló bírói kezdeményezéseket vizsgált.
+[80] Az Alkotmánybíróság eljárásának az volt az indoka, hogy a bírói gyakorlatban bizonytalanság alakult ki arról,
+hogy a 21/2016. (XI. 30.) AB határozatban foglalt alkotmányos követelményt a régi Be. 606/B. § (1) bekezdésére is
+figyelemmel miként kell alkalmazni, irányadó-e az a határozat kihirdetésekor folyamatban volt büntető ügyekben.
+A bizonytalanság pedig az alábbi körülményekből fakadt. A 21/2016. (XI. 30.) AB határozat nem rendelkezett
+a saját alkalmazandóságáról, vagyis az abban foglalt alkotmányos követelményt az AB határozat közzétételének
+időpontjától (2016. november 30. napjától) általános jelleggel, a folyamatban lévő büntetőeljárásokban is
+alkalmazni kellett. Ezzel szemben az adott alkotmányos követelményt törvénybe iktató, a régi Be. 606/B. §
+(1) bekezdése alkalmazását a jogalkotó a 2016. november 30. napja után indult büntetőeljárásokra írta elő. A bíróság
+ezen ellentmondás feloldásában kérte az Alkotmánybíróság eljárását.
+[81] Az Alkotmánybíróság a 25/2017. (X. 17.) AB határozatában amellett, hogy az indítványokat elutasította, arra is
+felhívta a figyelmet, hogy a 21/2016. (XI. 30.) AB határozat alkotmányos követelményét nemcsak a kihirdetést
+követően indult, hanem – tekintettel arra, hogy eljárási szabályról van szó – a kihirdetésekor folyamatban lévő
+büntetőügyekben is alkalmazni kell (Indokolás [33]). Az Indokolás okfejtése szerint továbbá az alkotmányos
+követelmény nem új szabály, hanem közvetlenül és egyértelműen az Alaptörvény valamely rendelkezésén
+alapuló, abban eleve már benne rejlő helyes értelmezés, amelyet az Alkotmánybíróság csak felismer és
+kimond. (Indokolás [22]) „Előfordulhat, hogy egy adott rendelkezés önmagában nem minősül alaptörvény-
+ellenesnek, ugyanakkor annak értelmezési gyakorlata már igen, ilyenkor az Alkotmánybíróság dönthet
+
+a rendelkezés megsemmisítése mellett is. […] Mind a 34/2013. (XI. 22.) AB határozat, mind pedig a 21/2016. (XI. 30.)
+AB határozat meghozatala során arra a következtetésre jutott az Alkotmánybíróság, hogy az alkalmazott jogszabályi
+rendelkezések bírói értelmezése szűkítő volt, mely alaptörvény-ellenességhez vezetett, ugyanakkor megállapítható
+az Alaptörvénynek megfelelő értelmezés is, ezért a jogszabály kímélete és alkotmányos követelmény megállapítása
+mellett döntött.” (Indokolás [23]). A 25/2017. (X. 17.) AB határozat emellett arról is állást foglalt, hogy a régi
+Be. 606/B. §-a rendelkezései összhangban állnak az Alkotmánybíróságnak a bíró kizárásával kapcsolatos,
+fent ismertetett gyakorlatával. Ennek kapcsán a határozat kiemelte: nincs akadálya annak, hogy a jogalkotó
+módosítsa az alkotmányos követelménnyel érintett jogszabályi rendelkezést, erre került sor a jelen ügyben is.
+„Az, hogy a jogalkotó az Alkotmánybíróság alkotmányos követelményt megállapító határozatának hivatalos
+lapban történő megjelenésének napjától rendeli alkalmazni a módosított normaszöveget, meghatározva, hogy
+az mely ügyekre terjed ki és melyekre nem, felveti annak a kérdését, hogy – ahogyan erre a három indítványozó
+tanács is egyöntetűen következtetett – a jogalkotó az Alkotmánybíróság döntésének jogkövetkezményeit
+alaptörvény-ellenesen korlátozta. Ugyanakkor az Alkotmánybíróság jelen ügyben is a hatályos jog kíméletével
+járt el, megállapítva, hogy az indítványokban felvetett ellentmondás megfelelő jogértelmezéssel feloldható”
+(Indokolás [26]–[27]).
+[82] Eszerint a 25/2017. (X. 17.) AB határozatban szereplő értelmezés szerint:
+– azon ügyekben, amelyekben a módosított kizárási rendelkezésnek [régi Be. 21. § (3) bekezdés a) pont,
+606/B. §] megfelelően jártak el, a bíróság összetétele megfelel az Alkotmánybíróság követelményének.
+Az Alkotmánybíróság ezért megállapította, hogy a támadott rendelkezések nem sértik az Alaptörvény
+hivatkozott rendelkezéseit, és az indítványokat elutasította;
+– azon ügyekben, amelyekben nem lehet alkalmazni a régi Be.-be épített, módosított kizárási szabályokat, mert
+a büntetőeljárás 2016. november 30. napján folyamatban volt, a bíróságoknak közvetlenül kell figyelembe
+venniük a 21/2016. (XI. 30.) AB határozattal megállapított alkotmányos követelményt. Az Alkotmánybíróság
+határozatának erga omnes kötelező hatályát ugyanis az alkotmányos követelményt jogszabályba foglaló
+jogalkotói döntés nyilvánvalóan nem ronthatja le. A derogációs tilalom vonatkozik az időbeliségre, tehát
+a jogalkotó nem korlátozhatja az alkotmányos követelmény alkalmazását valamilyen jövőbeli időponttól
+kezdődő időszakra, és vonatkozik az eljárás szakaszaira is, tehát a nyomozás elrendelésével kezdődő
+büntetőeljárás egészére irányadó, nem korlátozható az ügyek bíróságra érkezésére.
+[83] Kiemelte az Alkotmánybíróság a határozat indokolásában azt is, hogy az alkotmányos követelmény alkalmazása
+ugyanakkor mindig konkrét ügyekhez kapcsolódik, azoktól nem szakadhat el. Ebből egyszersmind az is következik,
+hogy nincs lehetősége az Alkotmánybíróságnak arra, hogy hivatalból egyenként megvizsgálja az általános
+hatáskörű bíróságok előtt folyamatban lévő azon ügyeket, amelyekben felmerül az alkotmányos követelmény
+érvényesítése. Ez az eljáró általános hatáskörű bíróságok feladata. Az indítványozó felvetésére reagálva
+az Alkotmánybíróság kifejtette végül, hogy az alkotmányos követelményre irányadó alkalmazási kötelesség alól csak
+kényszerítő okon alapuló kevés kivétel képzelhető el. Ilyen kivétel lehet, ha a kizárási szabály alkalmazása esetén
+nem lenne olyan bíró vagy bírósági tanács, amely eljárhatna az ügyben, és az így keletkező akadály a bíróságok
+rendelkezésére álló igazgatási eszközök alkalmazásával sem volna elhárítható. Ezen helyzetek felismerése és
+az akadály elháríthatatlanságának a megállapítása a bírósági szervezet feladata. Fenntartja ugyanakkor magának
+az Alkotmánybíróság annak lehetőségét, hogy az alkotmányos követelmény figyelembevételének elmulasztását
+utólag, megfelelő alkotmányjogi panasz alapján, esetről esetre megvizsgálja.
+[84] 2.5. A 3165/2019. (VII. 10.) AB határozatban az Alkotmánybíróság olyan indítványt utasított el, amely a bíró
+kizárásával kapcsolatos fenti alkotmánybírósági gyakorlat alkalmazását kérte számon a bíróságokon az előzetes
+letartóztatás kérdésében a vádemelést követően döntést hozó bírók kapcsán. Az indokolás elvi tételei közül
+az Alkotmánybíróság jelen eljárásában a következőket tartotta szükségesnek felidézni (Indokolás [44]–[55]):
+– A 34/2013. (XI. 22.) AB határozat és 21/2016. (XI. 30.) AB határozat rendelkező részében – a döntések
+indokolásának a tanúsága szerint – az Alkotmánybíróság azért tartotta szükségesnek alkotmányos
+követelmény megfogalmazását, mert kétely övezhette az ítélkező bírók pártatlanságát. Ez a kétely abban
+az esetben merült fel, ha az ítélkezésben is részt vevő bíró a vádemelést megelőzően – a nyomozási bíró
+jogkörében eljáró törvényszéki egyesbíróként, illetve a nyomozási bíró, valamint törvényszéki egyesbíró
+döntései elleni jogorvoslat alapján eljáró másodfokú bírói tanács tagjaként – az előzetes letartóztatás
+elrendelésének vagy fenntartásának az egyik általános feltételét, a gyanú megalapozottságát illetően döntést
+hozott.
+– A vádemeléssel ugyanakkor a büntetőeljárás egy új szakaszába lép.
+
+[85] A 3165/2019. (VII. 10.) AB határozat ezen megállapítása kapcsán rámutat az Alkotmánybíróság, hogy amikor
+a bíróság a nyomozati szakaszban dönt a kényszerintézkedésekről, akkor a rendelkezésére álló és a rendelkezésére
+bocsátott bizonyítékok alapján az alapos gyanú meglétét vagy hiányát kell vizsgálnia, és mindig a döntés idején
+fennálló állapotot kell elemeznie. A gyanú akkor megalapozott, ha a hatóságnak nem feltételezései, hanem
+tényeken alapuló törvényesen beszerzett bizonyítékai vannak a terheltre és a bűncselekmény elkövetésére,
+illetve a kettő között oksági kapcsolat áll fenn. Nyilvánvaló, hogy ezekben a döntésekben az eljáró elsőfokú bíró
+– és az ilyen határozatokat felülbíráló bíróság – nem a gyanúsított büntetőjogi felelősségéről foglal állást,
+de a döntés során nem mellőzheti a rendelkezésére álló bizonyítékok elemzését, összevetését, és ennek alapján
+következtetés levonását. Ugyanis a meglapozott gyanú kérdésében való döntés lényegében a bizonyítékok
+értékelésének eredményeként kialakított, konkrét személyt terhelő meggyőződés. Az is előfordulhat, hogy
+a vádiratban már nem szerepelnek azok a bizonyítékok, amelyek a nyomozati szakaszban még megjelentek, és
+akkor relevánsnak tűntek. Ezért az ilyen döntésekben való részvétel következménye, hogy kétely övezheti a bírák
+pártatlanságát, amennyiben az eljárás későbbi szakaszában is eljárnak. A vádemelés során viszont az eljáró
+bíróságnak a vádlott büntetőjogi felelősségének kérdésében kell döntenie. Arról kell meggyőződnie, és állást
+foglalnia, hogy a vádirati tényállásban rögzített bűncselekményeket kétséget kizáróan elkövette-e a vádlott.
+[86] A 3165/2019. (VII. 10.) AB határozatban a régi Be. egyéb rendelkezéseit megvizsgálva az Alkotmánybíróság felidézte
+a 34/2013. (XI. 22.) AB határozat indokolásának megállapítását, amely szerint „semmi nem zárja ki annak elvi
+lehetőségét, hogy a bírósági tárgyaláson végül nem használnak fel bizonyítékként olyan, a bűnügyi nyomozás során
+beszerzett adatokat, amelyeket azonban a Be. 207. § (6) bekezdése szerint eljáró bíró [értsd: a vádirat benyújtása
+előtt az előzetes letartóztatás egy éven túli meghosszabbítására irányuló eljárást lefolytató törvényszéki egyesbíró]
+megismerhetett. Az Alkotmánybíróság értékelése szerint a tárgyalás során bizonyítékként fel nem használt
+többletadatok előzetes ismerete is alkalmas lehet arra, hogy az ítélkező bíró elfogulatlanságát, vagyis a bűnügy
+elfogultságtól mentes megítélését veszélynek tegye ki.” (Indokolás [27]). A vádemelés másik lényeges hatása, hogy
+a vád alapjául szolgáló és a tárgyalási szakaszban beszerzett bizonyítékok a további eljárás során kivétel nélkül
+hozzáférhetők mind az ítélkező, mind a kényszerintézkedés tárgyában eljáró bírók számára, függetlenül attól,
+hogy ezek közül az ítélkező bírók melyeket, hogyan értékelik. A vádemelést követően tehát nem fordulhat elő,
+hogy valamely kényszerintézkedés tárgyában döntést hozó – és az eljárás későbbi szakaszában az adott ügyben
+magasabb fokon ítélkező – bíró olyan bizonyítékokat ismerjen meg, amelyekhez az ítélkező tevékenysége során
+már nem férhet hozzá. Mivel tehát a büntetőeljárás vádemelés utáni szakaszában nem merülnek fel aggályok
+sem a bizonyítékok megismerhetősége, sem a megalapozott gyanú megállapítása körében, az Alkotmánybíróság
+megállapította, hogy nem sérül a pártatlan bíróhoz való jog akkor, ha a letartóztatás kérdésében a vádemelést
+követően döntést hozó bíró az ügy érdemében is eljár.
+[87] 2.6. A Be. 2018. július 1. napján hatályba lépett, és a 869. §-ában megőrizte a régi Be. 606/B. § szerinti átmeneti
+rendelkezéseket.
+[88] Az Alkotmánybíróság 2/2020. (I. 2.) AB határozatában a Be. 869. § (1) bekezdése alaptörvény-ellenességének
+megállapítására és megsemmisítésére irányuló alkotmányjogi panaszt elutasította. Egyúttal megerősítette
+az Alkotmánybíróság a bíró kizárásával összefüggésben kimunkált korábbi gyakorlatát: fenntartotta
+a 21/2016. (XI. 30.) AB határozatban megállapított követelményt és annak a 25/2017. (X. 17.) AB határozatban
+kifejtett alkalmazandóságát. A határozat indokolása ebből fakadóan rámutatott, hogy továbbra is ellentétes
+az Alaptörvény XXVIII. cikk (1) bekezdésében foglalt tisztességes bírósági eljáráshoz való jog részét képező
+pártatlanság követelményével, ha a büntetőeljárásban, a bírósági szakaszban olyan bíró jár el, aki a vádemelést
+megelőzően nyomozási bírói feladatokat látott el az ügyben (Indokolás [29]).
+[89] 2.7. A 3001/2025. (I. 21.) AB határozatban az Alkotmánybíróság a fentiekben ismertetett elveket konkrét bírósági
+döntések Alaptörvénnyel való összhangját vizsgálva alkalmazta.
+[90] A konkrét alkotmányossági vizsgálattal az Alkotmánybíróság megerősítette azon követelményrendszert, amelyet
+a 34/2013. (XI. 22.) AB határozatban, a 21/2016. (XI. 30.) AB határozatban, a 25/2017. (X. 17.) AB határozatban és
+a 2/2020. (I. 2.) AB határozatában rögzített, illetve fenntartott. Az abból fakadó követelményeket a konkrét ügyben is
+irányadónak tekintette.
+[91] Az Alkotmánybíróság kiemelte továbbá az indokolásban, hogy a 25/2017. (X. 17.) AB határozatban állást foglalt
+a 21/2016. (XI. 30.) AB határozat szerinti alkotmányos követelmény alkalmazandóságáról. Megerősítette, hogy
+a 25/2017. (X. 17.) AB határozat elfogadását követően – vagyis 2017. október 17. napjától kezdve – a bíróságok
+számára a folyamatban lévő büntetőeljárásokban is egyértelmű követelmény volt, hogy a büntetőügy további
+elintézésében nem vehetett részt olyan bíró, aki az eljárás bármely korábbi szakaszában, így akár a nyomozás
+során bármilyen vonatkozásban bíróként már eljárt (Indokolás [63]). Ezen dátumot követően a bíróságok részéről
+
+tehát nem merülhetett fel kétség azzal összefüggésben, hogy az alkotmányos követelményt – annak erga omnes
+hatályából fakadóan – a folyamatban lévő eljárásokban is érvényesíteni kell. Az Alkotmánybíróság határozatának
+erga omnes kötelező hatályát az alkotmányos követelményt jogszabályba foglaló jogalkotói döntés ugyanis
+nem ronthatja le.
+[92] Emellett rámutatott az Alkotmánybíróság, hogy a 21/2016. (XI. 30.) AB határozatban foglalt alkotmányos
+követelmény„ügyet”jelöl meg, amely arra utal, hogy a több vádlottas ügyben mindegy, hogy melyik terheltre nézve
+hoz döntést a nyomozás során eljárt bíró, elegendő, ha az ügy iratait megismerheti.
+[93] Mindezen követelményeket a konkrét ügyre alkalmazva megállapította az Alkotmánybíróság, hogy a másodfokú
+eljárásban olyan bíró vett részt, aki a büntetőeljárás korábbi – vádemelést megelőző – szakaszában bíróként már
+eljárt, és ez azt okozta, hogy az indítványozó esetében sérült a tisztességes eljáráshoz való jog részjogosítványaként
+a pártatlanság követelménye. Ezért az Alkotmánybíróság a támadott kúriai felülvizsgálati végzésnek és a másodfokú
+jogerős ítéletnek az indítványozóra vonatkozó részét megsemmisítette.
+[94] 3. Az indítványozó kifogásait az Alkotmánybíróság a jelen ügyben a fentiekben összefoglalt gyakorlatára is
+figyelemmel értékelte. Az alkotmányossági vizsgálat az indítványozó azon kifogásán alapul, amely szerint
+a Be. 869. § (2) bekezdés b) pontja és az Alkotmánybíróság alkotmányos követelményei közötti ellentét több
+vonatkozásban értelmezési és eljárási bizonytalanságot eredményez, ami az Alaptörvény B) cikk (1) bekezdéséből
+levezetett jogbiztonság sérelmét valósítja meg.
+[95] 3.1. A támadott jogszabályi rendelkezés kapcsán megállapította az Alkotmánybíróság, hogy az azonos előírást
+tartalmaz a régi Be. 606/B. § (1) bekezdés c) pontjával.
+[96] Az Alkotmánybíróság a jogszabályhelyek egyezősége okán ezért a jelen alkotmánybírósági vizsgálatban
+különös jelentőséget tulajdonított a régi Be. 606/B. § egyes rendelkezései alaptörvény-ellenességét vizsgáló
+25/2017. (X. 17.) AB határozatban tett megállapításainak. Egyúttal szükségesnek ítélte az Alkotmánybíróság,
+hogy ezeket a megállapításokat felülvizsgálja. A 25/2017. (X. 17.) AB határozatban az Alkotmánybíróság a régi
+Be. 606/B. § (1) bekezdés c) pontja alaptörvény-ellenességének megállapítására és megsemmisítésére irányuló
+bírói kezdeményezéseket nem tartotta megalapozottnak, és elutasította. Úgy ítélte meg ugyanis, hogy a régi
+Be. támadott rendelkezése az Alkotmánybíróság gyakorlatával összhangban áll, azzal összhangban alkalmazható.
+Pusztán ezen alkotmánybírósági álláspont alapján – a jelen eljárás alapjául szolgáló indítványban támadott és –
+a régi Be. 606/B. § (1) bekezdés c) pontjával azonos rendelkezést tartalmazó Be. 869. § (2) bekezdés b) pontja
+kapcsán is azonos következtetés lenne levonható. Mindez a két jogszabályhely szövegszerű egyezéséből és
+a változatlan alkotmánybírósági gyakorlatból adódna. Az Alkotmánybíróság ugyanakkor jelen eljárásában további
+szempontoknak is jelentőséget tulajdonított.
+[97] 3.2. Figyelemmel volt az Alkotmánybíróság arra, hogy az elmúlt években született alkotmánybírósági
+határozatokban előírt követelmények, valamint előbb a régi Be., majd a Be. jogalkotó általi módosításai,
+a szabályozásba iktatott átmeneti rendelkezések milyen hatással voltak a bíró kizárására irányadó szabályok
+jogalkalmazói gyakorlatára. Az indítványozó az alaptörvény-ellenesség indokaként ugyanis számos olyan kifogást
+nevesített, amelyek a Be. támadott rendelkezései alkalmazásával összefüggő nehézségként azonosíthatók.
+[98] Az Alkotmánybíróság gyakorlata a bíró kizárására irányuló szabályokat érintően a 34/2013. (XI. 22.) AB határozattól
+kezdődően fokozatosan alakult ki és a kapcsolódó követelmények többrétegű rendszerévé fejlődött.
+Ezt a folyamatot időközben a jogalkotó is alakította előbb a régi Be., majd a Be. szabályainak a módosításával. Ezen
+jogszabályi módosítások következtében a bíró kizárására irányuló szabályozás – előbb a régi Be. 21. § (3) bekezdés
+a) pontjában, majd a Be. 14. § (3) bekezdés a) pontjában – már megfelelt az Alkotmánybíróság határozataiban
+lefektetett követelményeknek. Kérdésként merült fel ugyanakkor a bíróságok gyakorlatában, hogy ezen módosított
+és új szabályokat a folyamatban lévő büntetőeljárásokban miként kell alkalmazni. A jogalkotó a bíró kizárására
+irányadó fenti rendelkezések alkalmazására ezért átmeneti szabályokat is alkotott (régi Be. 606/B. §, Be. 869. §).
+[99] Az átmeneti rendelkezések bíróságok általi alkalmazásában ugyanakkor előbb a – régi Be. 606/B. §-át vizsgáló –
+25/2017. (X. 17.) AB határozat, majd a – Be. 869. § (1) bekezdését vizsgáló – 2/2020. (I. 2.) AB határozat iránymutatása
+teremtett ellentmondásos helyzetet. A 25/2017. (X. 17.) AB határozatban az Alkotmánybíróság tanácsa által
+megfogalmazott kívánalmak ugyanis sok esetben választás elé állították az eljáró bíróságokat, amelyek nem
+tudtak a rájuk egyformán vonatkozó, ám olykor ellentétes elvárást generáló alkotmánybírósági és törvényi
+követelményeknek maradéktalanul eleget tenni.
+[100] Figyelemmel volt emellett az Alkotmánybíróság a bíróságokra az Alaptörvény 28. cikkéből fakadó
+követelményekre is. Az Alaptörvény felhívott rendelkezése értelmében a bíróságok a jogalkalmazás során
+a jogszabályok szövegét elsősorban azok céljával és az Alaptörvénnyel összhangban értelmezik. A jogszabályok
+
+céljának megállapítása során elsősorban a jogszabály preambulumát, illetve a jogszabály megalkotására vagy
+módosítására irányuló javaslat indokolását kell figyelembe venni. A Be. 869. §-ához, a jogszabály normaszöveg-
+javaslatához fűzött indokolásban a jogalkotó nem fűzött önálló magyarázatot. A régi Be. 606/B. §-át beiktató
+módosító jogszabály normaszöveg-javaslatához fűzött indokolásban viszont a jogalkotó ugyanakkor kifejezetten
+utalt rá: az átmeneti rendelkezések megalkotását lényegesen meghatározó körülmény volt a 21/2016. (XI. 30.)
+AB határozat kihirdetését követően a jogalkalmazásban tapasztalt jogértelmezési különbségekből fakadó
+bizonytalanság. „Az alkotmányos követelmény érvényesítése érdekében a bírósági vezetők ugyanis megkezdték
+a folyamatban lévő összes ügy áttekintését és az érintett büntetőügyek átszignálását, egy konkrét büntető ügyben
+eljáró kis létszámú törvényszéken pedig a bírák kizártságukra hivatkozással más törvényszék kijelölését kérték
+az eljárás lefolytatására. Ez azonban az időszerűségi mutatók romlásával járhat, hiszen a hivatásos bíró személyének
+megváltozása maga után vonja az eljárás megismétlésének kötelezettségét, hiszen ennek megsértése feltétlen,
+tehát mérlegelést nem tűrő hatályon kívül helyezési ok.” (Az egyes büntetőjogi tárgyú törvények módosításáról
+szóló 2017. évi XXIX. törvény 13. §-ához fűzött indokolás.) A kiszámíthatóság és a jogbiztonság követelményére
+figyelemmel a jogalkotó úgy ítélte meg, hogy az ügyek széles körét érintő kétség nem tartható fenn, ezért
+a helyzetet az átmeneti rendelkezésekkel kívánta egyértelműen rendezni. Így az egyéb alkotmányos szempontokra
+– vagyis az észszerű időn belüli eljáráshoz való jogra mint a tisztességes eljáráshoz való jog részjogosítványára,
+továbbá a jogbiztonság követelményeire, azok köréből is különösen a kiszámíthatóság kívánalmára – is figyelemmel
+a jogalkotó mind a 34/2013. (XI. 22.) AB határozat, mint pedig a 21/2016. (XI. 30.) AB határozat esetében azok
+közzétételének a napjára figyelemmel rendezte azt, hogy mely időponttól kezdődően kell kizártnak tekinteni
+a vádemelés utáni bírósági eljárásból a nyomozás során eljárt bírót a folyamatban lévő büntetőeljárásokban.
+[101] A pártatlanság követelménye mellett az egyéb alkotmányos szempontok érvényesítésének a jogalkotói szándékát
+elfogadva, figyelemmel a bíróságok jogalkalmazásban továbbra is tapasztalható bizonytalanságokra –, amelyekre
+példaként hozhatók fel a jelen bírói kezdeményezés alapjául szolgáló indítványok – az Alkotmánybíróság teljes ülése
+a benyújtott bírói kezdeményezések alapján úgy ítélte meg, hogy a továbbiakban nem tartja fenn:
+a) egyrészről a 25/2017. (X. 17.) AB határozat indokolásában (Indokolás [27], [29]–[31], [33]) foglalt,
+az Alkotmánybíróság öttagú tanácsa által megfogalmazott azon megállapításokat, amelyek a bíróságok
+számára a régi Be. 606/B. § alkalmazására irányadók, vagyis, hogy a 2016. november 30. napján folyamatban
+lévő ügyekre is alkalmazni kell a 21/2016. (XI. 30.) AB határozatban meghatározott alkotmányos
+követelményt;
+b) másrészről a 2/2020. (I. 2.) AB határozat indokolásában (Indokolás [29]) – a 25/2017. (X. 17.) AB határozatban
+kifejtett, az a) pontban ismertetett álláspontot megerősítő – megállapításokat, amelyek a bíróságok számára
+a Be. 869. § (1) bekezdés alkalmazására irányadók.
+[102] 3.3. Az indítványozó kifogásait az Alkotmánybíróság a fentiekre figyelemmel a következők szerint értékelte.
+[103] Rámutat az Alkotmánybíróság, hogy az alkotmányos követelmények és jogszabály-módosítások eredményeként
+a bíró kizárása tekintetében egy többrétegű követelményrendszer épült fel. Az Alkotmánybíróság a legutóbbi
+kapcsolódó tárgyú, 3001/2025. (I. 21.) AB határozatban is kifejtette: a büntetőügyben korábban eljáró és
+döntést hozó bíró kizárására vonatkozó alkotmányos követelményeket több lépcsőben bontotta ki, miközben
+a vonatkozó törvényi rendelkezések is módosultak, így a szabályozás és az alkotmányos elvárások áttekintése és
+együttes alkalmazása a jogalkalmazók feladatát kétségtelenül megnehezítette. Mindez jelentősen hozzájárult
+a határozat alapjául szolgáló ügyben történt alaptörvény-ellenesség bekövetkezéséhez (Indokolás [75]).
+Az Alkotmánybíróság megállapította, hogy a jelen indítvány tanúsága szerint az indítványozó bíróság is hasonló
+nehézségekkel szembesült az előtte folyamatban lévő eljárásokban az Alkotmánybíróság gyakorlatából fakadó
+követelmények, valamint a módosult, kiegészített szabályozás együttes alkalmazásának kísérlete során. Ezért is
+fordult hat bírói kezdeményezésben az Alkotmánybírósághoz.
+[104] Mindezeket a tapasztalatokat az Alkotmánybíróság a jogbiztonságból fakadó követelmények alapján értékelte.
+Figyelemmel volt arra, hogy következetes felfogása szerint a jogbiztonság követelményének egyik legfontosabb
+eleme a jogrendszer egésze, valamint annak részterületei kiszámítható működése. Az, hogy a norma címzettjei
+számára a jogalkalmazók magatartása előre látható, kalkulálható legyen. Ennek jegyében a jogbiztonság
+megköveteli a büntetőeljárás részletes és differenciált szabályozását. A jogbiztonságból fakadó elvárás, hogy
+az eljáró bíróságra irányadó, köztük a bíró kizárását szabályozó rendelkezések egyértelműen meghatározzák, hogy
+az adott eljárásban ki nem járhat el bíróként.
+[105] Úgy ítélte meg az Alkotmánybíróság, hogy ezen követelményeknek a Be. 869. § (2) bekezdés b) pontjában foglalt
+szabály megfelel. A 25/2017. (X. 17.) AB határozat és a 2/2020. (I. 2.) AB határozat utalt szövegrészei figyelmen kívül
+hagyásával a Be. támadott rendelkezése a jogbiztonságból fakadó követelményekkel összhangban alkalmazható.
+
+Annak értelmében – a 21/2016. (XI. 30.) AB határozatban foglalt alkotmányos követelmény alapján – az ítélőtábla
+tanácsának tagjaként eljáró bíró akkor kizárt, ha a büntetőeljárás 2016. november 30. után indult. A Be. 869. §
+(2) bekezdés b) pont alkalmazásával tehát egyértelműen, a kiszámíthatóság követelményével összhangban
+meghatározható, hogy az adott eljárásban eljáró bíró milyen esetben minősül kizártnak.
+[106] 3.4. Mindezek alapján az Alkotmánybíróság úgy ítélte meg, hogy a Be. támadott 869. § (2) bekezdés b) pontjában
+foglalt szabály nem sérti az Alaptörvény B) cikk (1) bekezdése szerinti jogbiztonságból fakadó követelményeket.
+Ezért az Alkotmánybíróság a bírói kezdeményezést a rendelkező részben foglaltak szerint elutasította.
+[107] Felhívja egyúttal a figyelmet az Alkotmánybíróság arra is, hogy a támadott jogszabályi rendelkezés vizsgálatakor
+észlelte, hogy a Be. 869. § (2) bekezdés b) pontja a régi Be. 2017. június 30. napjáig hatályban volt 131. §
+(3) bekezdése, 138. § (3) bekezdése, 142. § (4) bekezdése, illetve 486. §-a kapcsán tartalmaz előírásokat. A régi
+Be. szövegének változásait a különböző időállapotokban áttekintve ugyanakkor megállapítható, hogy a régi
+Be. felhívott rendelkezései 2018. június 30. napjáig voltak hatályosak. A régi Be.-nek egyetlen olyan rendelkezése
+sincs, amely 2017. június 30. napjáig volt hatályos, így a jogszabálynak nincs is ilyen időállapota.
+[108] Megállapította ezért az Alkotmánybíróság, hogy a támadott rendelkezésben nyilvánvaló elírás szerepel. A jogalkotó
+feladata, hogy a rendelkezésben szereplő nyilvánvaló elírást korrigálja, és a Be. felhívott szakaszai hatályon kívül
+helyezésének időpontját a valóságnak megfelelően állapítsa meg.
+[109] 4. Az indítványozó az Alkotmánybíróság gyakorlatával összefüggésben is megfogalmazott további kifogásokat.
+Az indítványozó ezen kifogásai az Alkotmánybíróság szerint nem voltak alkalmasak arra, hogy a támadott
+Be.-rendelkezés Alaptörvénnyel való összhangját megkérdőjelezzék. Fontosnak tartotta ugyanakkor
+az Alkotmánybíróság, hogy az indítványozó észrevételeire reagálva rámutasson a következőkre.
+[110] 4.1. Az indítványozó szerint az Alkotmánybíróság a 3001/2025. (I. 21.) AB határozatában „új helyzetet teremtett”
+azáltal, hogy tovább szélesítette a kizárással érintett bírók körét. Kiterjesztette ugyanis a kizárás tekintetében
+irányadó követelmények alkalmazási körét azon esetekre is, amikor a bíró nem közvetlenül az indítványozóval,
+hanem annak terhelt-társával szemben alkalmazott kényszerintézkedés felülbírálatáról hozott korábban,
+a vádemelést megelőzően döntést.
+[111] A kizárás indokoltságának megítélése szempontjából az Alkotmánybíróság gyakorlata szerint alapvető
+jelentősége van annak, hogy az eljáró bíró az eljárás vádemelést megelőző szakaszában megismerhet-e olyan
+adatokat, amelyekhez az ítélkezés során eljáró bíró már nem jut hozzá, de amelyek alkalmasak arra, hogy a bíró
+előzetes véleményt alakíthasson ki az ügyről. Az Alkotmánybíróság értékelése szerint ugyanis a tárgyalás során
+bizonyítékként fel nem használt többletadatok előzetes ismerete is alkalmas lehet arra, hogy az ítélkező bíró
+elfogulatlanságát, vagyis a bűnügy elfogultságtól mentes megítélését veszélynek tegye ki {34/2013. (XI. 22.)
+AB határozat, Indokolás [52]}. Ehhez kapcsolódóan állapította meg az Alkotmánybíróság, hogy az Alaptörvény
+XXVIII. cikk (1) bekezdésében foglalt pártatlanság követelménye megkívánja, hogy a büntetőügy további
+elintézésében ne vegyen részt olyan bíró, aki az eljárás bármely korábbi szakaszában, így akár a nyomozás során
+bírói feladatokat látott el, ugyanis azzal szükségszerűen együtt jár a bizonyítékok bizonyos szintű, de mindenképpen
+előzetes értékelése {21/2016. (XI. 30.) AB határozat, Indokolás [43]}.
+[112] Ezekre az előzményekre figyelemmel fejtette ki az Alkotmánybíróság a 3001/2025. (I. 21.) AB határozat
+indokolásában, hogy a 21/2016. (XI. 30.) AB határozat szerinti alkotmányos követelmény „ügyet” jelöl meg, amely
+arra utal, hogy a többvádlottas ügyben mindegy, hogy melyik terheltre nézve hoz döntést a nyomozás során eljáró
+bíró, elegendő, ha az ügy iratait megismerheti (Indokolás [68]). Azt, hogy erre a konkrét ügyben sor kerülhetett,
+az Alkotmánybíróság az egyedi körülményeket értékelve mérlegelte. Annak eredményeként megállapította,
+hogy a konkrét eljárásban a terheltek cselekvősége és a bizonyítékok egymással szoros összefüggést mutattak
+(Indokolás [70]).
+[113] Ilyen módon az Alkotmánybíróság a 3001/2025. (I. 21.) AB határozatban a korábban lefektetett elvi
+tételeket a konkrét eset értékelésére alkalmazta. Egyértelművé tette ezáltal, hogy többterheltes ügyekben
+az alkotmányossági vizsgálat az Alaptörvény XXVIII. cikk (1) bekezdésében foglalt tisztességes eljáráshoz való jog
+részjogosítványaként a pártatlan bírósági eljáráshoz való jog érvényesülésével összefüggésben kiterjed arra is, hogy
+a bíró az eljárás vádemelést megelőző szakaszában mely terheltet érintően ismerhetett meg adatokat, és mely
+terheltet érintően hozott döntést.
+[114] 4.2. Kifogásként utalt továbbá az indítványozó arra, hogy hiányzik azon „kényszerítő okok” szabályozása, amelyek
+az Alkotmánybíróság értelmezésében felmentést adhatnak a kizárási szabály alkalmazása alól.
+[115] Emlékeztet az Alkotmánybíróság arra, hogy a 25/2017. (X. 17.) AB határozat indokolásában fejtette ki: az alkalmazási
+kötelesség alól csak kényszerítő okon alapuló kevés kivétel képzelhető el. Ilyen kivétel lehet, ha a kizárási szabály
+
+alkalmazása esetén nem lenne olyan bíró vagy bírósági tanács, amely eljárhatna az ügyben, és az így keletkező
+akadály a bíróságok rendelkezésére álló igazgatási eszközök alkalmazásával sem volna elhárítható (Indokolás [33]).
+[116] Kiemeli az Alkotmánybíróság, hogy számolni kell a lehetőséggel, miszerint a sokrétegű, nagy kiterjedésű, kiemelt
+tárgyi súlyú és többvádlottas, 2013. november 22., valamint 2016. november 30. napja után indult ügyekben is
+előállhat olyan helyzet, amelyekben a személyi és tárgyi összefüggések okán számos bíróságot érintően felmerül
+a kizárással kapcsolatos követelmények alkalmazása.
+[117] Utal az Alkotmánybíróság az indítvány II.2. pontjában konkrétan megjelölt, egymással összefüggő ügyekre.
+Az indítványoknak alapul szolgáló büntetőügyek, valamint – az ahhoz kapcsolódó további – a nyomozás során,
+valamint a vádemelést követően egyesített, illetve elkülönített – büntetőügyek az ország különböző bíróságait,
+illetve ott ítélkező bírákat érintik első- és másodfokon is. Ez azt jelenti, hogy nemcsak az Egri Törvényszéken, Heves
+vármegyében és a Debreceni Ítélőtáblán, hanem többek között a Zalaegerszegi Törvényszéken, a Nyíregyházi
+Törvényszéken ítélkező bírák is eljártak ezekben a büntetőügyekben. Az eljáró bírák közül többen e szövevényes,
+bonyolult, több száz vádlottat érintő, évek óta tartó büntetőeljárás időtartama alatt már nem elsőfokú, hanem
+másodfokú – vagyis jogorvoslatot – elbíráló bíróként ítélkeznek.
+[118] Az ilyen kivételes helyzetek felismerése kapcsán rámutat az Alkotmánybíróság, hogy a tisztességes bírósági
+eljáráshoz való jogból fakadó pártatlanság mint az Alaptörvény XXVIII. cikk (1) bekezdésében foglalt részjogosítvány,
+nem korlátozhatatlan alapjog.
+[119] Az Alkotmánybíróság több határozatában vizsgálta a tisztességes bírósági eljáráshoz való jog korlátozhatóságának
+mércéit. Ezzel összefüggésben – általánosságban – arra mutatott rá, hogy a tisztességes eljáráshoz való jog olyan
+abszolút jog, amellyel szemben nem létezik mérlegelhető más alapvető jog vagy alkotmányos cél, mert már
+maga is mérlegelés eredménye {3003/2019. (I. 7.) AB határozat, Indokolás [28]}. A tisztességes eljáráshoz való
+jog egyes részjogosítványainak érvényesülését, valamint azok Alaptörvénnyel való összhangját ugyanakkor
+az Alkotmánybíróság jellemzően az Alaptörvény I. cikk (3) bekezdésében rögzített általános alapjogvédelmi teszt
+alkalmazásával vizsgálja {3031/2017. (III. 7.) AB határozat, Indokolás [61]}.
+[120] Hangsúlyozta ugyanakkor az Alkotmánybíróság azt is, hogy emellett a főszabályként alkalmazandó alkotmányossági
+mérce mellett egyes alapjogok esetében további kritériumok határozhatók meg, amelyek egyrészt ezt az általános
+mércét az illető jog tartalmához igazítva konkretizálják, másrészt, amelyek konkrét voltukban sokkal inkább állandó
+és saját tartalmi ismérvekkel határozzák meg az adott alapjog lényeges tartalmát a viszonyítással dolgozó általános
+szabály helyett {3003/2019. (I. 7.) AB határozat, Indokolás [29]; 3001/2020. (II. 4.) AB határozat, Indokolás [42]}.
+[121] Ezekben az esetekben a tisztességes eljárásból fakadó egyes követelmények (részjogosítványok) keretén belül
+alakítandó ki olyan ismérvrendszer, amely annak tartalmát adja. Ennek megfelelően az Alkotmánybíróság több
+határozatában rámutatott, hogy saját dogmatikája van annak, mi számít„bíróságnak”{3116/2015. (VII. 2.) AB végzés,
+Indokolás [11]}, mikor „törvényes” {36/2013. (XII. 5.) AB határozat, Indokolás [32]}, „független” és „pártatlan”
+{21/2014. (VII. 15.) AB határozat, Indokolás [58]} az eljáró testület.
+[122] Az Alkotmánybíróság következetes gyakorlata szerint az egyes részjogosítványokból fakadó garanciákat
+mindig az adott eljárásfajta keretein belül vizsgálja. Az Alkotmánybíróság jellemzően az adott eljárás egészének
+figyelembevételével értékeli, hogy az eljárás tisztességes volt-e. Az alkotmányossági vizsgálat során emellett
+nem lehet eltekinteni attól sem, hogy a tisztességes bírósági eljárásból fakadó követelmények nem ugyanazokat
+a garanciákat jelentik az egyes bírósági szakokban (például elsőfokú eljárás, rendes és rendkívüli jogorvoslati szak).
+Az Alkotmánybíróság a tisztességes bírósági eljárásból fakadó követelményeket mindig az adott eljárásfajta és
+eljárási szak sajátosságaihoz igazodóan értékeli.
+[123] Az Alkotmánybíróság a fentiekben bemutatott gyakorlatára figyelemmel hangsúlyozza: az alkotmányossági
+vizsgálat fókuszában az a kérdés áll, hogy az eljárás egésze szempontjából történt-e olyan beavatkozás, amely
+az eljárás tisztességtelenségét eredményezi. Az eljárás egyes elemeinek törvénysértő volta – figyelemmel az adott
+eljárásfajta sajátosságaira és az adott eljárási szak szabályaira is – önmagában nem eredményez szükségképpen
+alaptörvény-ellenességet, és csak alapos alkotmányjogi mérlegelés után dönthető el, hogy egyes szabálysértések,
+akár külön-külön, akár összességükben a konkrét ügyben alaptörvény-ellenességhez vezettek-e. A mérlegelés során
+az Alkotmánybíróság nem törvényességi szempontú vizsgálatot végez, és nem egyszerű felülvizsgálati fórumként
+jár el, ezért önmagukban az esetleges eljárási hibák nem vezetnek a tisztességes bírósági eljáráshoz való jog
+sérelmének megállapítására {3305/2020. (VII. 24.) AB határozat, Indokolás [45]}.
+[124] A fentiek értelmében a pártatlansághoz való jog korlátozásának olyan eseteit, amelyek az Alaptörvénnyel
+összhangban állnak, az Alkotmánybíróságnak az egyes alkotmányjogi panasz eljárásokban az adott ügy
+körülményeire figyelemmel folytatott egyedi mérlegelésen alapuló vizsgálatok keretében van lehetősége
+beazonosítani.
+
+[125] Ezzel összefüggésben az Alkotmánybíróság emlékeztet rá, hogy egy-egy támadott bírósági ítélet alaptörvény-
+ellenességének megállapításakor, illetve az arra irányuló alkotmányjogi panasz visszautasításakor vagy
+elutasításakor a következő körülményeknek is jelentőséget tulajdonít:
+– maga az indítványozó közvetlenül érintett-e az állított jogsérelemmel, azaz fennáll-e az alkotmányjogi panasz
+befogadásának ezen feltétele [3036/2017. (III. 7.) AB végzés, 3096/2017. (III. 7.) AB végzés];
+– a vádemelés előtti szakban és/vagy a vádemelési utáni szakban merült fel az eljáró bíró személyének
+azonossága [3342/2017. (XII. 20.) AB határozat, 3260/2018. (VII. 17.) AB végzés, 3165/2019. (VII. 10.)
+AB határozat];
+– a nyomozási szakban hozott bírói döntés, a támadott ítélet meghozatalának időpontja, illetve
+a büntetőeljárás folyamatban léte az alkotmányos követelmények kihirdetésének, illetve az új tartalmú
+büntetőeljárási szabályok hatálybalépésének időpontjához képest hova esik [25/2017. (X. 17.) AB határozat,
+3354/2017. (XII. 22.) AB határozat, 3355/2017. (X. 22.) AB határozat, 3286/2018. (VII. 20.) AB végzés,
+3019/2019. (I. 21.) AB végzés, 2/2020. (I. 2.) AB határozat];
+– miként rendelkezik a hatályos büntetőeljárási törvény, mi az élő jog, azaz a bírói gyakorlat milyen tartalmú
+jogegységet mutat [34/2013. (XI. 22.) AB határozat];
+– van-e olyan bíró vagy bírói tanács, amely eljárhatna az ügyben [25/2017. (X. 17.) AB határozat];
+– a végső felülbírálatot, felülvizsgálatot végző bírói tanács valamely tagját érinti-e az alkotmányos
+követelmények szerinti kizártság [34/2013. (XI. 22.) AB határozat, 21/2016. (XI. 30.) AB határozat,
+3354/2017. (XII. 22.) AB határozat, 3355/2017. (X. 22.) AB határozat, 3224/2018. (VII. 2.) AB végzés,
+3325/2018. (VII. 22.) AB végzés, 3286/2018. (VII. 20.) AB végzés, 3019/2019. (I. 21.) AB végzés,
+3165/2019. (VII. 10.) AB határozat, 2/2020. (I. 2.) AB határozat].
+[126] Ez utóbbi szempont kapcsán következetesnek tekinthető az Alkotmánybíróság gyakorlata, miszerint akkor
+semmisítette meg a támadott ítéleteket kizárt bíró eljárása miatt, ha a kizárt bíró olyan ítélet meghozatalában
+vett részt, mely végleges volt, vagyis további jogorvoslat nem követte, míg ha sor került a döntés revíziójára,
+az Alkotmánybíróság nem feltétlenül állapította meg a tisztességes bírósági eljáráshoz való jog sérelmét
+{3286/2018. (VII. 20.) AB végzés, Indokolás [10]}. Az ilyen felülbírálatnak ugyanakkor – a 3001/2025. (I. 21.)
+AB határozat alapján – feltétele az is, hogy tényleges és hatékony jogorvoslat legyen, vagyis az eljáró jogorvoslati
+fórum figyelemmel legyen az Alkotmánybíróság gyakorlatában e körben kidolgozott elvekre.
+[127] 4.3. Az indítványozó kifogásként nevesítette az indítványban, hogy nincs elfogadott eljárási rend arra az esetre,
+ha nem áll már rendelkezésre eljárni jogosult bíró az adott bíróságon.
+[128] Emlékeztet az Alkotmánybíróság arra, hogy már a 34/2013. (XI. 22.) AB határozat szerinti alkotmányos követelmény
+megfogalmazásakor jelentőséget tulajdonított annak, hogy „döntésének következménye az alacsonyabb bírói
+létszámmal működő törvényszékeken csekélyebb személyzeti átszervezéseket indokolhat. Annak érdekében,
+hogy az esetlegesen szükségessé váló bírósági szervezeti átalakítások leghatékonyabb módjának kiválasztásához
+és végrehajtásához kellő felkészülési idő álljon rendelkezésre, az Alkotmánybíróság az alkotmányos követelmény
+kötelező érvényesítését jelen határozatának kihirdetését követően megindított büntetőeljárások tekintetében
+írja elő”(Indokolás [56]).
+[129] Az Alkotmánybíróság ezzel kapcsolatban utal arra, hogy ha nem járhat el az adott büntető ügyben olyan bíró,
+akire a kizárási szabály nem vonatkozik, akkor a Bjt. irányadó rendelkezései alapján kirendeléssel lehetőség
+van ennek a problémának az áthidalására. A Bjt. szerint a bíró kirendeléséről a törvényszék elnöke vagy
+az OBH elnöke intézkedhet [Bjt. 31. § (1) bekezdés]. A kirendelésről szóló OBH elnöki határozat a kirendelés okát
+(az ügyteher egyenletes elosztásának biztosítása avagy szakmai fejlődés elősegítése), a kirendelés időtartamát és
+a kirendelés módját (az eredeti ítélkezési tevékenység megtartásával vagy anélkül, illetve részbeni megtartásával)
+tartalmazza. A Bjt. 32. § (1a) bekezdése szerint 2023. június 1. napjától kezdve az OBH elnökének a kirendeléshez
+előzetesen be kell kérnie az Országos Bírói Tanács (a továbbiakban: OBT) egyetértését, és az intézkedésre csak
+az OBT egyetértésével kerülhet sor. A Be. 17–18. §-a tartalmaz részletes szabályozást arra az esetre, ha a kizárás
+igazgatási ügykörben nem intézhető el.
+[130] Az Alkotmánybíróság rámutat továbbá arra, hogy az első kapcsolódó határozatát 2013-ban, majd a kizárás
+tekintetében általános követelményt rögzítő második határozatát 2016-ban hozta. Az eljárások összetettsége
+vagy az ügyek bonyolultsága okán – mint ahogyan jelen bírói kezdeményezések alapjául szolgáló esetben is –
+előfordulhat olyan perjogi helyzet, hogy nem marad az adott bíróságon (törvényszéken, ítélőtáblán) olyan bíró,
+aki nem kizárt az adott ügy érdemi elbírálásából.
+
+[131] Ezzel együtt a jogalkotó szabadságában áll, hogy mérlegelje a kizárással érintett helyzetekben egy egységes eljárási
+rend törvényi szintű szabályozásának a szükségességét.
+V.
+[132] Az Alkotmánybíróság a határozat Magyar Közlönyben történő közzétételét az Abtv. 44. § (1) bekezdésének második
+mondata alapján rendelte el.
+Budapest, 2025. november 18.
+Dr. Polt Péter s. k.,
+az Alkotmánybíróság elnöke
+Dr. Czine Ágnes s. k., Dr. Handó Tünde s. k.,
+előadó alkotmánybíró alkotmánybíró
+Haszonicsné dr. Ádám Mária s. k., Dr. Hende Csaba s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Horváth Attila s. k., Dr. Hörcherné dr. Marosi Ildikó s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Juhász Miklós s. k., Dr. Kozma Ákos s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Lomnici Zoltán s. k., Dr. Márki Zoltán s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Patyi András s. k., Dr. Schanda Balázs s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Szabó Marcel s. k., Dr. Varga Réka s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Czine Ágnes alkotmánybíró párhuzamos indokolása
+[133] A határozat indokolásának egyes elvi megállapításaival összefüggésben szükségesnek tartom az alábbiak
+kiemelését.
+[134] Az Alkotmánybíróság az Alaptörvényt nemcsak a kifejezetten erre irányuló eljárásban, hanem a jogszabályok
+alkotmányosságát vizsgáló minden eljárásában értelmezi. Az Alaptörvény egyes rendelkezéseinek értelme
+így az újabb és újabb értelmezések során bontakozik ki, amelyekben az Alkotmánybíróság mind a konkrét ügy
+sajátosságára, mind saját korábbi értelmezéseire tekintettel van. Az Alkotmánybíróság az egyes értelmezésekből
+kialakuló tételeket alkalmazásuk során tovább értelmezi és formálja. Ugyanazon alkotmányi rendelkezésre
+vonatkozóan az értelmezés súlypontja eltérő lehet, de az értelmezéseknek ellentmondásmentes rendszert
+kell képezniük {32/2021. (XII. 20.) AB határozat, Indokolás [17]}.
+[135] Ezek az értelmezések az alkotmánybírósági döntések rendelkező részében foglalt rendelkezésekhez kapcsolódnak,
+azonban jellemzően a döntések indokolásában jelennek meg. Igaz ez az egyes alapjogok alkotmányos tartalmára
+csakúgy, mint az Alkotmánybíróság által alkalmazott tesztek és vizsgálati szempontok meghatározására.
+Az Alkotmánybíróság így bontotta ki a tisztességes bírósági eljáráshoz való jog Alaptörvényben nem nevesített
+részjogosítványainak alkotmányos tartalmát is. Így például az indokolt bírói döntéshez való jog esetében
+a 7/2013. (III. 1.) AB határozat, a fegyverek egyenlősége esetében a 21/2014. (VII. 15.) AB határozat, a contra legem
+jogértelmezés tilalma esetében a 20/2017. (VIII. 18.) AB határozat indokolásában. Az Alkotmánybíróság több
+évtizedes gyakorlata során így dolgozta ki a pártatlanság követelményrendszerét is, például a pártatlanság objektív
+és szubjektív szempontrendszerét a 25/2013. (X. 4.) AB határozat indokolásában. Az Alkotmánybíróság döntéseinek
+
+rendelkező részében ezzel szemben jellemzően nem jelennek meg azok az elvek, érvek, tesztek, amelyek
+a bíróságok és az Alkotmánybíróság számára egyaránt irányadók.
+[136] Ilyen módon az Alkotmánybíróság határozatainak és végzéseinek indokolása tartalmazza azokat, a testület
+gyakorlatát formáló és abban iránymutatásul szolgáló megállapításokat, amelyek a konkrét ügyön, a konkrét
+alkotmányossági problémán túlmutató elveket rögzítenek, és ezáltal irányt mutatnak a jogalkalmazás számára.
+[137] Az Alkotmánybíróság a 29/2021. (XI. 10.) AB határozatában már megállapította, hogy az Abtv. 39. § (1) bekezdéséből
+következően az Alkotmánybíróság határozatának egésze, így annak indokolása is, erga omnes kötelező erővel
+bír, ekként ha az Alkotmánybíróság egy határozatában formálisan alkotmányos követelmény kimondása nélkül
+foglal állást valamely jogszabályi rendelkezés Alaptörvénnyel összhangban álló értelmezéséről, vagy éppen
+ellenkezőleg, azt mondja ki, hogy valamely értelmezés ellentétes az Alaptörvénnyel, arra az eljáró bíróságnak
+ugyancsak tekintettel kell lennie ítéletének meghozatala során (Indokolás [29]). Az Abtv. 39. § (1) bekezdésének ezt
+az értelmezését az Alkotmánybíróság a közelmúltban több határozatában megerősítette {pl. 3101/2024. (III. 14.)
+AB határozat, Indokolás [39]; 3379/2023. (VII. 27.) AB határozat, Indokolás [31]}.
+[138] Az Alkotmánybíróság gyakorlatában előfordult már, hogy egy korábbi döntésének valamely elvi
+megállapítását nem tartotta fenn. Így a 2/2016. (II. 8.) AB határozatban az Alkotmánybíróság megállapította,
+hogy a 3058/2015. (III. 31.) AB végzés indokolásának azt az elvi tételét, miszerint az alaptörvény-ellenesség
+megállapításának és alkalmazási tilalom kimondásának konjunktív indítványozása a bírói kezdeményezésekkel
+szemben támasztott követelmény, a továbbiakban nem tartja fenn (Indokolás [28]).
+[139] A jelen ügyben az Alkotmánybíróságnak a tisztességes bírósági eljáráshoz való jog követelményrendszerén belül
+a pártatlanság alkotmányos elvének egyik legfontosabb garanciális szabályát, a bírák kizárásának egyes kérdéseit
+kellett értelmeznie.
+[140] Az Alkotmánybíróság a bíró kizárására irányuló szabályokat érintő gyakorlatát 2013-tól kezdődően bontotta ki
+fokozatosan. Az alapokat a 34/2013. (XI. 22.) AB határozat fektette le azzal, hogy előírta: a nyomozási bíró mellett
+az ítélkezésben ne vehessen részt olyan bíró sem, aki nem nyomozási bíróként, de nyomozási bírói hatáskörben
+járt el. Ilyen volt a régi Be. értelmében az előzetes letartóztatás egy éven túli meghosszabbítására, valamint
+az ideiglenes kényszergyógykezelés felülvizsgálatára irányuló eljárásban eljárva a törvényszék egyesbírája. A döntés
+érvrendszerének középpontjában az a felismerés állt, hogy a vádirat benyújtása előtt nyomozási bíróként vagy
+nyomozási bírói hatáskörben eljáró bíró a bűnügyi nyomozás során beszerzett olyan adatokat is megismerhet,
+amelyeket a bírósági tárgyaláson végül nem használnak fel bizonyítékként. Ezen, a tárgyalás során bizonyítékként
+fel nem használt többletadatok előzetes ismerete pedig alkalmas lehet arra, hogy az ítélkező bíró elfogulatlanságát,
+vagyis a bűnügy elfogultságtól mentes megítélését veszélynek tegye ki.
+[141] Ugyanerre a felismerésre építette fel az Alkotmánybíróság a 21/2016. (XI. 30.) AB határozat indokolását, és jutott el
+annak generális előírásához, hogy a büntetőügy további elintézésében ne vegyen részt olyan bíró, aki az eljárás
+bármely korábbi szakaszában, így akár a nyomozás során bíróként járt el.
+[142] Az Alkotmánybíróság ezt követően számos döntésében megerősítette az ezen két alaphatározat szerinti
+követelményeket, valamint azokat egyedi ügyekben érvényesítette [pl. 3165/2019. (VII. 10.) AB határozat,
+3001/2025. (I. 21.) AB határozat]. Ezekben a határozatokban az Alkotmánybíróság követte és alkalmazta a korábbi
+határozataiban lefektetett szempontrendszert, attól nem tért el, mert ezt kívánta meg gyakorlatának a következetes
+érvényesítése. Figyelemmel volt ezen határozatok rendelkezéseire és az indokolásokban kifejtett érvelésre egyaránt.
+[143] A jogalkotó a büntetőeljárási törvény szabályait a két alaphatározat szerinti alkotmányos követelményhez
+hozzáigazította. Előbb a régi Be. 606/B. §-ába foglalta bele az Alkotmánybíróságnak a bíró kizárásával kapcsolatos,
+két említett AB határozatban megfogalmazott alkotmányos követelményét, majd ezeket a szabályokat a Be. 869. §
+(1) és (2) bekezdésében a hatályos szabályozásnak is részévé tette.
+[144] A jelen alkotmánybírósági határozat ezt a konzisztens rendszert erősíti meg újfent. Egyértelművé téve, hogy
+a jogalkotó nem csupán a jogbiztonságból és a tisztességes eljáráshoz való jogból fakadó követelményeknek
+eleget téve, hanem az Alkotmánybíróság döntéseinek megfelelően szabályozta a konkrét ügyben vizsgált Be. 869. §
+(2) bekezdés b) pontjában a bíró kizárásával kapcsolatos szabályok alkalmazását. Ez egyértelmű iránymutatás
+a jogalkalmazók számára arra vonatkozóan, hogy az ítélőtábla tanácsának tagjaként eljáró bíró akkor kizárt,
+ha a büntetőeljárás 2016. november 30. után indult. Ezzel a jelen ügyben az Alkotmánybíróság korábbi gyakorlatától
+eltért. Ezt azért tehette meg, mert az Alkotmánybíróság teljes ülése kimondta, hogy két korábbi határozat egyes
+megállapításait nem tartja fenn.
+
+[145] Meglátásom szerint ugyanakkor a döntés jelentősége ezen konkrét ügyön túlmutató. Az Alkotmánybíróság
+ugyanis egyértelműen és általános jelleggel foglalt állást arról, hogy az alkotmánybírósági határozatokból fakadó
+követelményeket a jogalkotó a Be. 869. §-ában megfelelően emelte be a büntetőeljárási törvény szabályozásába
+mind a 34/2013. (XI. 22.) AB határozatot, mind a 21/2016. (XI. 30.) AB határozatot érintően. Ilyen módon minden
+kétséget eloszlat afelől, hogy
+– a 2013. november 22. után indult büntetőeljárásokban minősül kizártnak a vádirat benyújtása előtt
+az előzetes letartóztatás egy éven túli meghosszabbítására, valamint az ideiglenes kényszergyógykezelés
+felülvizsgálatára irányuló eljárásban, illetve a házi őrizet egy éven túli meghosszabbítása tárgyában
+a törvényszék egyes bírájaként eljáró bíró;
+– a 2016. november 30. után indult büntetőeljárásokban minősül kizártnak a törvényszék másodfokú
+tanácsának tagjaként, valamint az ítélőtábla tanácsának tagjaként eljáró bíró.
+[146] Az Alkotmánybíróság gyakorlatából fakadó követelmények, valamint a módosult, kiegészített büntetőeljárási
+szabályozás együttes alkalmazása, azok által az Alaptörvény rendelkezéseinek – különösen a jogbiztonság és
+a tisztességes eljáráshoz való jog – érvényre juttatása a fentiek szerint elsődlegesen a bíróságok feladata.
+Budapest, 2025. november 18.
+Dr. Czine Ágnes s. k.,
+alkotmánybíró
+Dr. Handó Tünde alkotmánybíró párhuzamos indokolása
+[147] A határozat rendelkező részével egyetértek. A bírói kezdeményezés elutasításának alapjául szolgáló indokolás
+lényege a következőképpen foglalható össze: az Alkotmánybíróság a 21/2016. (XI. 30.) AB határozat és
+25/2017. (X. 17.) AB határozat alkotmányos követelményeit a pártatlan bíróhoz való alapjog [Alaptörvény
+XXVIIII. cikk (1) bekezdés] védelme okán fogalmazta meg. A törvényhozó az alkotmányos követelménynek
+megfelelően módosította a régi Be. kizárásra vonatkozó szabályait, majd ezekkel egyező szabályt fogalmazott
+meg a Be.-ben is. A törvényhozás ugyanekkor – a jogbiztonságra, a kiszámíthatóságra [Alaptörvény B) cikk
+(1) bekezdés], az észszerű időn belüli elbíráláshoz való jogra [Alaptörvény XXVIII. cikk (1) bekezdés] tekintettel –
+átmeneti szabályokról rendelkezett [Be. 869. § (1) és (2) bekezdés]. Ezért a támadott Be. 869. § (2) bekezdés b) pontja
+összhangban áll az Alaptörvénnyel.
+[148] 1. Az elutasítással az Alkotmánybíróság lényegében kinyilvánítja – bár ez a rendelkező részben, az indokolásban
+ilyen világosan nem kerül megfogalmazásra –, hogy a törvényhozó az átmeneti szabályokat az Alaptörvény
+I. cikk (3) bekezdésének megfelelő mérlegelés alapján alkotta meg, és a bíróságoknak a hatályos törvényt
+kell alkalmazniuk [„az ítélőtábla tanácsának tagjaként eljáró bíró akkor kizárt, ha a büntetőeljárás
+2016. november 30. után indult. A Be. 869. § (2) bekezdés b) pont alkalmazásával”].
+[149] Álláspontom szerint a törvényhozó az átmeneti szabályozással tiszteletben tartotta a pártatlan bíróhoz való jog
+lényeges tartalmát is, hiszen az elfogultsági kifogás (az ún. relatív kizárási ok) időtlen idők óta élő jogintézmény.
+Mivel a kizárási szabály meghatározott időponttól való hatályba léptetése nem érintette az elfogultsági kifogás
+előterjesztéséhez való jogot, ezért a törvényi szabályozás nem értékelhető jogelvonásként. Érdemes lett volna
+a határozatban legalább egy mondatot szentelni az Alaptörvény 26. cikkének is, mely szerint a bírók a törvényeknek
+alárendeltek, azt kell alkalmazniuk, és ez az Alaptörvény B) cikk (1) bekezdéséből is következő jogbiztonsági
+követelmény.
+[150] Egyértelműbb lett volna az Alkotmánybíróság döntése, ha a határozat rendelkező részében a következő
+alkotmányos követelmény megfogalmazására is sor kerül: „Az Alaptörvény B) cikk (1) bekezdéséből, valamint
+a 26. cikk (1) bekezdéséből eredő alkotmányos követelmény, hogy a büntetőeljárásról szóló 2017. évi XC. törvény
+869. § (2) bekezdés b) pontja alkalmazásakor az ítélőtábla tanácsának tagjaként eljáró bíró akkor kizárt,
+ha a büntetőeljárás 2016. november 30. után indult.”
+[151] 2. Talán volt már rá példa, hogy valamely korábbi AB határozat döntési lényegének (ratio decidendi) alkalmazását
+elhagyta az Alkotmánybíróság. A klasszikus precedensjogi rendszerben ez az art of distinguishing (az új ügy
+ezért-azért különbözik a korábbitól) vagy az overruling (a korábbi döntési lényeg felbírálata) módszertani elv
+alkalmazásával történik. Itt a határozat indokolása – a megelőzőleg felidézett féltucatnyi alkotmánybírósági
+
+döntésből kettőt választva – a következőket nyilvánítja ki (Indokolás [101]): „A pártatlanság követelménye
+mellett az egyéb alkotmányos szempontok érvényesítésének a jogalkotói szándékát elfogadva, figyelemmel
+a bíróságok jogalkalmazásban továbbra is tapasztalható bizonytalanságokra –, amelyekre példaként hozhatók fel
+a jelen bírói kezdeményezés alapjául szolgáló indítványok – az Alkotmánybíróság teljes ülése a benyújtott bírói
+kezdeményezések alapján úgy ítélte meg, hogy a továbbiakban nem tartja fenn:
+a) egyrészről a 25/2017. (X. 17.) AB határozat indokolásában (Indokolás [27], [29]–[31], [33]) foglalt,
+az Alkotmánybíróság öttagú tanácsa által megfogalmazott azon megállapításokat, amelyek a bíróságok
+számára a régi Be. 606/B. § alkalmazására irányadók, vagyis, hogy a 2016. november 30. napján folyamatban
+lévő ügyekre is alkalmazni kell a 21/2016. (XI. 30.) AB határozatban meghatározott alkotmányos
+követelményt;
+b) másrészről a 2/2020. (I. 2.) AB határozat indokolásában (Indokolás [29]) – a 25/2017. (X. 17.) AB határozatban
+kifejtett, az a) pontban ismertetett álláspontot megerősítő – megállapításokat, amelyek a bíróságok számára
+a Be. 869. § (1) bekezdés alkalmazására irányadók.”
+[152] A fenti, indokolásba foglalt „rendelkezés” számos kérdést vet fel: ez erga omnes rendelkezés? Mit jelent
+az ABH indokolásából kiemelt mondatokra vonatkoztatott erga omnes hatály? Hogyan illeszthető ez a módszertani
+megoldás az Alkotmánybíróság gyakorlatába? Mi ennek az előzménye? Mi az ebben rejlő logika? Hogyan kell
+ezt értenie az olvasónak (jogalkalmazónak, jogalanyoknak)? Világos, egyértelmű az olvasónak az, hogy miért
+ezekhez a határozatokhoz nyúl hozzá az Alkotmánybíróság? Világos, egyértelmű az olvasónak az, hogy miről szól
+a 25/2017. (X. 17.) AB határozat [27], [29]–[31], [33] bekezdése és a 2/2020. (I. 2.) AB határozat [29] bekezdése?
+Világos, egyértelmű az olvasónak, hogy miről szól a 25/2017. (X. 17.) AB határozat itt fel nem sorolt, és ezek szerint
+fenntartott rendelkezése, és a 2/2020. (I. 2.) AB határozat itt fel nem sorolt, és ezek szerint fenntartott rendelkezése?
+Milyen többletet ad ez hozzá a jelen határozat rendelkező részéhez kapcsolt indokolási lényeghez? Az ily módon
+fenn nem tartott korábbi megállapítások, vagy az ily módon fenntartott korábbi megállapítások erősítik, vagy
+gyengítik az elutasítás lényegi indokát? Segítik-e ezek a jövőbeli jogbiztonságot vagy éppen a bizonytalanságot
+éltetik tovább?
+[153] Ezek a kérdések ahhoz az egyetlen, lényeges és végső kérdéshez vezetnek, hogy mit kell érteni az alkotmánybírósági
+döntések erga omnes hatálya alatt. Az Abtv. maga annyit mond ki, hogy„az Alkotmánybíróság döntése mindenkire
+nézve kötelező”. Ebből azonban az nem következik, hogy a döntés lényegét megjelenítő ratio decidendit meghaladó
+indokolási elemek (pl. obliter dictum) mindegyike a rendelkező részt megillető jogerővel bírnak. Álláspontom
+szerint a határozat indokolásába foglalt, fent idézett látszólagos rendelkezésnek valójában nem lehet erga omnes
+hatálya. Tekintettel arra, hogy a bírói kezdeményezésben feltett kérdés új volt, az adott jogszabályi rendelkezést
+új megközelítésbe helyezve, az Alaptörvény I. cikk (3) bekezdése szerinti mérlegelést megkerülhetetlenné téve
+került megfogalmazásra, valamint a támadott rendelkezés nem tekinthető azonosnak az egykori 21/2016. (XI. 30.)
+AB határozat és 25/2017. (X. 17.) AB határozat általi követelménnyel érintett jogi normákkal, ezért itt valójában nem
+az egykori alkotmánybírósági döntések felülvizsgálatára került sor.
+[154] 3. Az érdemi döntésből következően a jelen ügyben semmi jelentősége nincs már a bírói kezdeményezésnek
+a 3001/2025. (I. 21.) AB határozatra vonatkoztatható kifogásainak. Álláspontom szerint ezért szükségtelen,
+de talán méltatlan is az Alkotmánybíróságnak az immár védhetetlenné tett korábbi álláspontját védenie
+[pl. a 3001/2025. (I. 21.) AB határozatban az„ügy” fogalmának újfajta meghatározásával egy korábbi, ebben töretlen
+alkotmánybírósági gyakorlatot változtatott meg, amely a 3036/2017. (III.7.) AB végzés óta létezett]. Álláspontom
+szerint a határozat IV/4. pontjában (Indokolás [101] és köv.) leírtak nem kezdhetik ki a jelen határozat rendelkezését,
+és a közvetlenül hozzá kapcsolódó elvi lényeget (a bíróknak a hatályos jogot kell alkalmazniuk). A határozat ezen
+szövegrészei csupán egy szakmai jellegű vita egy-egy fejezetének tekinthetők.
+Budapest, 2025. november 18.
+Dr. Handó Tünde s. k.,
+alkotmánybíró
+
+Dr. Márki Zoltán alkotmánybíró párhuzamos indokolása
+[155] 1. A határozatot – a helyes rendelkezése miatt – támogattam. Ugyanakkor a hozzáfűzött indokolás kapcsán
+a büntetőeljárási és alkotmányossági érvelést tekintve egyaránt más – nem egy korábbi állásponttól eltérést
+magyarázó, hanem az Alkotmánybíróság jelen döntésének alapját egyértelműsítő – hangsúlyozást tartok
+helyénvalónak. Álláspontomat párhuzamos indokolásként csatolom [Abtv. 66. § (3) bekezdés].
+[156] 2. Előrebocsátom, hogy részemről a határozat rendelkezése támogatásának nyilvánvaló előzménye, hogy
+a fél évvel korábbi 3001/2025. (I. 21.) AB határozat – ellentétes – rendelkezésével viszont nem értettem egyet.
+A 3001/2025. (I. 21.) AB határozathoz csatolt különvéleményem szerinti felfogás épp arra vonatkozó (volt), hogy
+az Alkotmánybíróság úgy jutott el döntéséhez, hogy lényeges, tartalmi alapkérdéseket nem tisztázott.
+[157] Jelen határozat esetében ez az adósság változatlanul fennáll. A határozat rendelkezését viszont jónak tartom.
+[158] 3. Figyelmes olvasattal megállapítható, miszerint
+– a 34/2013. (XI. 22.) AB határozat szerinti alkotmányos követelmény arra vonatkozott, hogy
+az Alkotmánybíróság a nyomozási bíró meglévő törvényi kizártságára vonatkozó rendelkezés érvényét
+kiterjesztette a nyomozási bírót jogorvosló bíró személyére is, ám csupán arra az esetre, ha (a vádemelés
+előtt) a letartóztatás avagy az ideiglenes kényszergyógykezelés tárgyában döntött másodfokon
+[vö.: 34/2013. (XI. 22.) AB határozat rendelkező részének 1. pontja; régi Be. 207. § (6) bekezdés]. Vagyis
+a 34/2013. (XI. 22.) AB határozat bizonyos tárgykörben elvárássá tette, hogy a nyomozási bírónak kell
+megfeleltetni az őt jogorvosló bírót. Függetlenül attól, hogy ezen jogorvosló bíró perjogi, szervezetjogi
+helyzete lényegesen különböző a nyomozási bíróétól (nem kijelölt, eleve törvényszékre beosztott).
+Ez személyi tágítás volt, ám korlátozott tárgykörben;
+– a 21/2016. (XI. 30.) AB határozat szerinti alkotmányos követelmény a 34/2013. (XI. 22.) AB határozat szerinti
+bizonyos tárgykörre korlátozott „perjogi egyneműsítést” megtartva, azt egyrészt függetlenítette az ügy
+tárgyától, vagyis közömbösnek vette, hogy milyen tárgyban volt a korábbi eljárás, illetve döntés. Másrészt
+általános érvénnyel a nyomozási bíró törvényi kizártságának fogalmi terjedelme alá vette – azzal egyezőnek
+feleltette meg – azon elvárást, miszerint a büntetőügy további elintézésében ne vegyen részt olyan bíró,
+aki az eljárás bármely korábbi szakaszában, így akár a nyomozás során bíróként eljárt.
+[159] E tágítás – megfogalmazásából fakadóan, s később a 3001/2025. (I. 21.) AB határozat indokolásában is
+visszaköszönve, illetve kifejtve – valójában azt jelenti, hogy bármely későbbi ügyintézés csak akkor alkotmányos,
+ha a későbbi bíró korábban az üggyel semmilyen módon nem találkozott. Függetlenül attól, hogy mi volt a korábbi
+ügyintézésének tárgya.
+– A jogalkotó a 21/2016. (XI. 30.) AB határozat után, 2017. április 19-i hatállyal módosította az akkor hatályos
+Be.-t, s e módosítással léptette hatályba 2018. július 1-jén a Be.-t is [vö.: az egyes büntetőjogi tárgyú törvények
+módosításáról szóló 2017. évi XXIX. törvény (a továbbiakban: 2017. évi XXIX. törvény) 1. §; Be.].
+– A 25/2017. (X. 17.) AB határozat – a 2017. évi XXIX. törvény ismeretében, s az akkor hatályos Be. tárgyában –
+(bár az indítványokat elutasította) indokolásában kimondva-kimondatlanul arra az álláspontra helyezkedett,
+miszerint a 34/2013. (XI. 22.) AB határozat és a 21/2016. (XI. 30.) AB határozat szerinti alkotmányos
+követelmény elvárását követő 2017. évi XXIX. törvény szerinti megoldás alkotmányos szempontból
+kívánnivalót hagy maga után (s ehhez képest a Be. 2018. július 1-jén hatályba lépett szövege is). Viszont
+a 25/2017. (X. 17.) AB határozat szerint az alkotmányos követelmény érvényesítése a folyamatban lévő
+ügyekben az eljáró általános hatáskörű bíróság feladata (Indokolás [31]).
+[160] 4. Mindezek alapján a jelenlegi jogállapot 2017. április 19-e óta fennáll. A jogalkotó a 34/2013. (XI. 22.)
+AB határozatot és a 21/2016. (XI. 30.) AB határozatot követő módosítást követően nem, s a 25/2017. (X. 17.)
+AB határozat után sem változtatott a hatályos jog szövegén. Megemlítem, hogy 2016. november 30-át követően
+a jogalkotó nem is volt címzettje változtatásra kényszerítő alkotmánybírósági rendelkezésnek [vö.: 21/2016. (XI. 30.)
+AB határozat]. Azóta közel 10 év telt el. Ehhez képest pedig a kérdés valójában az, hogy a 2017. évi XXIX. törvény
+szerinti módosítással beállt és fennálló jogállapotban a 34/2013. (XI. 22.) AB határozat és a 21/2016. (XI. 30.)
+AB határozat szerinti alkotmányos követelmény számonkérése indokolt-e a hatályos jogot alkalmazó bíróságon.
+
+[161] 5. Az Alkotmánybíróságnak a nyomozási bíró kizártságával kapcsolatos beavatkozási igénye, illetve felfogása
+– álláspontom szerint – külső kényszerrel nem igazolható. Az Emberi Jogok Európai Bírósága – a bíró pártatlansága,
+kizártsága tárgya kapcsán – a sérelmezett esetek megítélésében kettős, mégpedig szubjektív és objektív
+megközelítésű tesztet alkalmaz.
+[162] Elsősorban vizsgálja az eljáró bíró konkrét magatartását az ügyben. Azt, hogy volt-e olyan megnyilvánulása,
+amelyből a pártatlanságának hiányára lehet következtetni; ezt a folyamodó egyáltalán sérelmezi-e. A bíró személyes
+pártatlanságát vélelmezni kell az ellenkező bizonyításáig. Ezt követi az objektív megközelítés, annak vizsgálata,
+hogy függetlenül a bíró személyes magatartásától, a folyamodónak volt-e jogos, indokolt, objektíve igazolható oka
+a pártatlanság hiányának feltételezésére. Ehhez a Bíróság részletesen vizsgálja, hogy az adott jogrendszer szabályai
+szerint a bíró korábban milyen jellegű eljárásban, milyen feladatokat látott el, és milyen annak a szervezetnek
+a belső felépítése, amelynek keretében a pártatlanságát kétségessé tevő döntések születtek.
+[163] Ehhez képest arról van szó, hogy a 34/2013. (XI. 22.) AB határozat és a 21/2016. (XI. 30.) AB határozat esetében is,
+értelemszerűen az eljárás mikénti szabályozása nyomán, vizsgálata mentén – objektív indokkal, vagyis az imént
+említett eljárásjogi és szervezetjogi szempontok tüzetes vizsgálata alapján – kellett volna, kellene, hogy eljusson
+az alkotmányos követelmény megfogalmazásáig. [S annak a 25/2017. (X. 17.) AB határozatban való, illetve általi
+értelmezése sem lenne másképp olvasható.]
+[164] Ehhez képest pedig jelentősége van (kellene lennie) annak, hogy milyen objektív – a szabályozásban rejlő – oka van
+a pártatlanság sérelmének, illetve a pártosság vádjának. Ennek vizsgálatával mindmáig, s most is adós maradt
+az Alkotmánybíróság.
+[165] 6. Változatlanul nem látom alátámasztottnak, hogy a bíró különböző perjogi és szervezetjogi helyzete miért nem
+szempontja, illetve miért közömbösíthető szempontja a pártatlanság vizsgálatának. Önmagában az azonos eljárási
+szabályokból nem következik, hogy azok különböző perjogi állású alkalmazója azonosnak tekintendő. Kétségtelen,
+hogy a 34/2013. (XI. 22.) AB határozat közömbösítette a nyomozási bíró és az őt jogorvosló bíró között meglévő
+perjogi és szervezetjogi eltérést, s ehhez képest fogalmazta meg az alkotmányossági elvárást. A jogalkotó
+– elfogadva az Alkotmánybíróság ebbéli álláspontját – módosította a jogot, s a nyomozási bírót jogorvosló bírót is
+kizárta (vö.: 2017. évi XXIX. törvény, illetve Be.). Viszont itt megállt a jogalkotás, amit indokolatlannak tartok
+alkotmánybírósági intencióval illetni (vö.: Indokolás [131]).
+[166] 7. Változatlanul nem tartom megalapozottnak önmagában azt a feltevést, miszerint a pártatlanság
+kétségessége címén a jövőbeli érdemi (bűnösség és büntetés kérdésében való) döntésből kizárás objektív, feltétlen
+alapját jelenti a bárminemű korábbi találkozás az üggyel, mivel az eleve az ügybe merülést jelent. Másképpen
+szólva nem tartom megalapozottnak azt a feltevést, hogy a bíró kizárásának objektív, törvényi okával eleve azonos
+– s eleve a pártatlan bírósághoz való alkotmányos alapjog sérelmét jelenti – a bíró bárminemű korábbi találkozása
+az üggyel.
+[167] 8. Kétségtelen, hogy az Alkotmánybíróság a gyakorlatában a vád előtti és vád utáni szakasz között látja az érdemi
+cezúrát. Ez azonban formális megközelítés. Figyelmen kívül hagyja, hogy a magyar büntetőeljárásban a vád előtti
+bírói tevékenység, feladat (a titkos információgyűjtés engedélyezésének tárgykörét ide nem értve) alapvetően
+nem a nyomozás, a nyomozó hatóság érdekét, hanem éppen annak kontrollját szolgálja. A vád előtt eljáró bíró
+(nyomozási bíró és őt jogorvosló bíró) nem válik a nyomozás részévé, sem jogállását, sem perjogi helyzetét,
+sem pedig szervezeti beosztását illetően.
+[168] A nyomozási bíró és különösen az őt jogorvosló bíró nem válik a nyomozás, illetve a jövőbeni vád szolgálójává.
+Feladata változatlanul bírósági, bírói feladat. Amint a törvény kifejezetten – a nyomozási szakasztól elkülönített
+Tizenkettedik Rész szerinti szabályozásában – írja „[a] vádemelés előtt a bíróság feladatait elsőfokon
+a járásbíróságnak a törvényszék elnöke által kijelölt bírája nyomozási bíróként látja el” (vö.: Be. 463. §). A nyomozási
+bíró szerepe épp az, hogy a bírói létével biztosítsa a vád előtti helyzetben is az egyén alapjogának érvényesülését.
+Ezzel szemben a vádemelés előtti és vádemelés utáni szakaszra való formális kettéosztás világosan azt jelenti, hogy
+nem így tekintünk rá. Bizalmatlanok vagyunk iránta, pártatlansága fennmaradása iránt kétséget támasztunk.
+[169] A valódi, nem formális, hanem tartalmi cezúra az (lenne), hogy a korábbi, a vádemelés előtt, s értelemszerűen
+nem bizonyosság, hanem valószínűség alapján hozott döntése valóban elígérkezést jelent-e a későbbi, vádemelés
+utáni, s már a bizonyosság alapján hozott, a bűnösség kérdésében való döntése vonatkozásában.
+[170] 9. Az Alkotmánybíróságnak a formális alapon való cezúra felfogása alapján kirajzolódik a bírói kar (populáció)
+megkülönböztetése, vádemelés előtti és vádemelés utáni szakaszra bontása. Álláspontom szerint ennek sem
+kiindítója, sem generálója nem lehet az Alkotmánybíróság. Lévén ez mind perjogilag, mind szervezetjogilag
+
+a jogalkotás megfontolásának felelőssége. A határozat indokolása is kitér erre mint igazgatási munkaszervezési
+kérdésre. Ez azonban – álláspontom szerint – épp a nem tisztázott tartalmi alapok következménye, s nem pedig
+olyan ok, aminek az alkotmánybírósági döntés szempontja kell legyen (viszont kétségtelen„járulékos veszteség”).
+[171] 10. Változatlanul spekulatívnak és nem pedig perdöntőnek tartom azt a vélekedést, feltevést, hogy a letartóztatás
+kérdésében döntő bírónak a letartóztatás általános feltételéről (értsd: a megalapozott gyanú létéről, illetve a gyanú
+megalapozottságáról) kellene mérlegeléssel állást foglalni, s ekként már az ügybe merülés, a „végső elígérkezése”
+megtörtént. Nem az a perdöntő kérdés, hogy formailag mely eljárási szakaszban jár el a bíró, hanem az, hogy
+a csupán valószínűség alapján hozott döntése valóban elígérkezést jelent-e a későbbi, vádemelés utáni, s már
+a bizonyosság, a bizonyítás alapján hozott, a bűnösség kérdésében való döntése vonatkozásában.
+[172] A valószínűségi alapon hozott bírói döntés esetében (ide nem értve a nem a bizonyíték fennmaradását, hanem
+eleve a gyűjtését célzó döntést) a bírónak abban a tudatban kell eljárnia, hogy az ilyen döntése szükségképpen
+feltételes, így szükségképpen készen kell lennie arra, hogy a tárgyalás, a bizonyítás eredménye alapján
+elfogulatlanul és előítéletmentesen döntsön [vö.: 67/1995. (XII. 7.) AB határozat, ABH 1995, 346, 348.].
+[173] Ennek vizsgálatával az Alkotmánybíróság adós maradt. Adós maradt annak részletes vizsgálatával, hogy
+a büntetőeljárás adott rendszerének szabályai szerint a bíró korábban milyen jellegű eljárásban milyen feladatokat
+látott el, és milyen annak a szervezetnek a belső felépítése, amelynek keretében a pártatlanságát kétségessé tevő
+döntése született.
+[174] 11. Az Alkotmánybíróság számára – álláspontom szerint – nem az a feladat, hogy az adott jog rendszerén
+szisztematikus változás igényét keletkeztesse, hanem az, hogy feloldja az adott jog rendszerén belül felvetődött
+alkotmányos aggályokat. Kétségtelen, hogy a jelen ügy az „alkotmánybírósági perbe vitt igény” szempontjából
+minden korábbihoz képest nagyobb jelentőségűvé. Az alapügy perjogi helyzete közvetlen jogerő előtti, sok
+vádlottas ügy, sok cselekményes (egyesített) ügy, több mint 10 évvel ezelőtti vádemelés (értelemszerűen még
+régebbi elkövetés), ami 2024 augusztusában érkezett a másodfokra, az indítványozóhoz. Aki pedig az indítványával
+egyidejűleg a másodfokú eljárást felfüggesztette. Érthető az indítványozó veszélyérzete, hogy nem akar „lesre
+futni”, hiszen ő a jogerő perjogi jogosultja (s mint ilyen a Kúria eljárásjogi revíziójának tárgya avagy szenvedője, akár
+felülvizsgálat, akár esetleges harmadfok nyomán).
+[175] Ez méltányolható szempont, ám olyan kérdésben, hogy mit kell egy bírósági határozat érvényessége feltétlen
+feltételének tekinteni valójában nincs „kis ügy” avagy „nagy ügy”, ez nem lehet perdöntő, a már kifejtettek szerint
+a jogi alapok tisztázottsága viszont nem lehet közömbös.
+[176] 12. Megemlítem, hogy az indítvány felveti azt a perbírói gyakorlatban eddig háborítatlan, nyugvóponton lévő,
+s a 3001/2025. (I. 21.) AB határozatban is rögzített„ügy”fogalom meghatározást, amit az indítványozó problémásnak
+tart. Változatlanul nem gondolom, hogy alkotmányossági kérdés, meghatározás tárgya kell legyen, hogy az elsőfokú
+eljáráshoz képest a másodfokú és harmadfokú eljárás, a másodfokú eljáráshoz képest a harmadfokú eljárás, a jogerő
+előtti eljáráshoz képest a jogerő utáni eljárás (stb.) külön szakasza-e a büntetőeljárásnak. Ennek hagyományos
+felfogása régóta kialakult (amint annak is, hogy mit kell tekinteni az ügy fogalmának avagy a büntetőeljárás
+indulása időpontjának), indokolatlan abba kívülről beavatkozni, rendet tenni. Nyilvánvalóan ennek alapulvételével
+rendelkezik a Be. a bíró kizárása eseteiről akként, hogy nem formális szempont alapján (önmagában valamely
+eljárási szakaszban való bármely eljárási cselekvés alapján), hanem tartalmi alapon zár ki, az „elbírálásban” avagy
+„határozat meghozatalában”való részvétel miatt [vö.: 14. § (3) bekezdés b)–e) pont, (4)–(6), (7) bekezdés].
+[177] 13. Végül megemlítem, hogy az Alaptörvény védelme minden bizonnyal akkor indokolt, ha van sérelem. Jelen
+ügyben azt nem látom sérelemnek, hogy az indítványozó – józan felfogása szerint – a jövőbeni esetleges hatályon
+kívül helyezését vegyük sérelemnek (miközben indítványának aggályai valósak). Az alapügy egyéb érintettjei
+pedig ilyen sérelmet nem éreztek. Talán az is járható út, ha valamely fél kizárás iránti bejelentést tesz, amiről majd
+egy másik tanács dönt, s a hatályos jog alapján mérlegre teszi a kizárásra apelláló érveit.
+
+[178] Ennek – kétségtelenül meglévő perjogi – lehetősége sem a jogbiztonság ellenére való. Ami egyben azt is jelenti,
+hogy az ilyen kérdések, aggályok adott ügy(ek)beni jelentőségének, nem csupán formai, hanem tartalmi
+– a büntetőeljárás kiegyensúlyozott rendszerén alapuló – vizsgálata alapján való gondolkodás indokolt, mind
+perjogi, mind alkotmányjogi szempontból.
+Budapest, 2025. november 18.
+Dr. Márki Zoltán s. k.,
+alkotmánybíró
+Dr. Patyi András alkotmánybíró párhuzamos indokolása
+[179] 1. A tárgyalt ügyben képviselt álláspontom alapja az volt, hogy alapvetően nem értettem egyet azzal a korábbi
+alkotmánybírósági döntésekben (vagy azok relatív felidézésével) kialakított megközelítéssel, mely szerint
+eleve, abszolút, az Alaptörvény XXVIII. cikk (1) bekezdéséből fakadó feltétlen követelményként kizárt lenne
+a büntetőeljárás későbbi, érdemi, a vád tárgyáról való döntés meghozataláról szóló szakaszából az a bíró,
+aki a büntetőeljárás bármely korábbi, azaz nem bírói szakaszában bíróként eljárási cselekményt végzett.
+[180] Ebből (is) adódóan nem támogattam az Alkotmánybíróság 3001/2025. (I. 21.) AB határozatát sem, amely
+következtében már az eljárás bármely korábbi szakaszában, bármely vonatkozásban, bármely terheltre nézve eljárt
+bíró az Alaptörvényből fakadó módon kizárt lenne az ügy elintézéséből pusztán az iratok egy részének megismerése
+alapján. A bíró vádemelést megelőző eljárása nem eredményezi automatikusan az Alaptörvény XXVIII. cikk
+(1) bekezdése részjogosítványának sérelmét. Az eljáró bíró nem válik pártatlanná, a terhelt bűnössége tekintetében
+objektíve (kényszerítő módon) elfogulttá pusztán abból a tényből eredően, hogy az ügy iratait vagy azok egy
+meghatározott terheltre vonatkozó részét megismerte.
+[181] A fenti meggyőződésem alapján támogattam az Alkotmánybíróság korábbi gyakorlatának felülvizsgálatát.
+A precedensbíráskodás (és így az Alkotmánybíróság által folytatott, ún. kartális precedensbíráskodás) lényegét
+az ügyek állandó és alapos összevetése (s ha kell megkülönböztetése – distinguishing), a korábban meghozott
+döntési tartalmak alapos elemzése és azokból az ügyre feltétlenül vonatkoztatható követendő tartalmak
+(az ún. ratio decidendi) kiválasztása és az egyéb megállapítások (obiter dicta) gondos elkülönítése jelenti.
+Amennyiben az feltétlenül szükséges, az Alkotmánybíróság korábbi döntését felül kell, hogy bírálja (overruling).
+Az Alkotmánybíróság nem válhat olyan korábbi gyakorlatának (vagy a gyakorlat egyes elemei, mondatai) rabjává,
+amely a jogalkalmazást – nem csak, de kifejezetten a nagy kiterjedésű, sok terheltes ügyekben – ilyen módon
+nehezíti meg úgy, hogy a pártatlanság hiánya nem feltétlenül megalapozott.
+[182] 2. A fenti gondolatokkal kiegészítve csatlakozom dr. Handó Tünde alkotmánybíró és dr. Márki Zoltán alkotmánybíró
+párhuzamos indokolásához.
+Budapest, 2025. november 18.
+Dr. Patyi András s. k.,
+alkotmánybíró
+Alkotmánybírósági ügyszám: III/315/2025.
+
+VIII. A Kúria határozatai
+A Kúria Önkormányzati Tanácsának Köf.5.026/2025/4. számú határozata
+
+Az ügy száma: Köf.5.026/2025/4.
+A tanács tagjai: Dr. Sugár Tamás a tanács elnöke,
+Dr. Bögös Fruzsina előadó bíró,
+Dr. Balogh Zsolt bíró,
+Dr. Dobó Viola bíró,
+Dr. Kiss Árpád Lajos bíró
+Az indítványozó: Budapest Környéki Törvényszék
+Az érintett önkormányzat: Abony Város Önkormányzata
+(Cím1)
+Az ügy tárgya: önkormányzati rendelet más jogszabályba ütközésének vizsgálata
+Rendelkező rész
+A Kúria Önkormányzati Tanácsa
+– megállapítja, hogy Abony Város Önkormányzat Képviselő-testületének a közterületek eltérő használatáról
+szóló 8/2016. (IV.29.) önkormányzati rendeletének 6. § m) pontja és a 3. melléklete 17. pontja más
+jogszabályba ütközik, ezért azokat megsemmisíti;
+– megállapítja, hogy a megsemmisített rendelkezések a Budapest Környéki Törvényszék előtt
+23.K.701.239/2025/6. számon folyamatban lévő perben, valamint valamennyi, a jelen határozat
+meghozatalának időpontjában valamely bíróság előtt folyamatban lévő egyedi ügyben nem alkalmazhatók;
+– elrendeli határozatának közzétételét a Magyar Közlönyben.
+A határozat ellen jogorvoslatnak nincs helye.
+Indokolás
+Az indítvány alapjául szolgáló tényállás
+[1] Az alapügy felperese Abony város közterületein álló közvilágítási-, villany-, és telefonoszlopok hálózatát üzemelteti,
+az oszlopok használatát elektronikus hírközlő szolgáltatók részére átengedi.
+[2] Abony Város Önkormányzata (továbbiakban: önkormányzat) Polgármestere (a továbbiakban: elsőfokú hatóság)
+a 2025. március 18. napján kelt JT/51-6/2024. számú határozatával kötelezte a felperest Abony város közigazgatási
+területén, a közterületen álló közvilágítási-, villany-, és telefonoszlopok bérbeadása, hasznosítása, használatának
+átengedése után közterület-használati kérelem haladéktalan benyújtására, valamint a 2024. évben felülvizsgált
+oszlopszám alapján 10.254.000 forint 2025. évi közterület használati díj megfizetésére.
+[3] Az önkormányzat képviselő-testülete, mint másodfokú hatóság (az alapügy alperese) a 2025. május 29. napján
+hozott JT/51-8/2025. számú határozatában az elsőfokú határozatot helybenhagyta és kötelezte a felperest
+a közterület-használati díj megfizetésére és a közterület-foglalás engedélyezése iránti kérelem benyújtásával
+a jogellenes állapot megszüntetésére. Határozatát az Abony Város Önkormányzat Képviselő-testületének
+a közterületek eltérő használatáról szóló 8/2016. (IV. 29.) önkormányzati rendelet (továbbiakban: Ör.) 6. §
+m) pontjára és a 3. melléklete 17. pontjára alapította. Az Ör. 3. melléklet 17. pontja szerint a közterületen álló
+közvilágítási-, villany-, és telefonoszlopok bérbeadása, hasznosítása, használatának átengedése után fizetendő díj
+mértéke központi terület esetében 6.000 Ft/db/év, egyéb területen 6.000 Ft/db/év, s ennek figyelembevételével
+állapította meg az alperes a fizetendő összeget.
+
+[4] Az alapügy felperese ezen döntéssel szemben keresetet terjesztett elő a Budapest Környéki Törvényszéknél,
+amelyben az alperesi határozat elsőfokú határozatra is kiterjedő hatályon kívül helyezését kérte.
+Az indítvány és az önkormányzat védirata
+[5] A Budapest Környéki Törvényszék (a továbbiakban: indítványozó bíróság) a 2025. szeptember 10. napján
+kelt 23.K.701.239/2025/6. számú végzésével a közigazgatási perrendtartásról szóló 2017. évi I. törvény
+(a továbbiakban: Kp.) 146. § (1) bekezdés a) pontja alapján a Kúria Önkormányzati Tanácsának eljárását
+kezdeményezte és egyidejűleg a per tárgyalását felfüggesztette.
+[6] Az indítványozó bíróság álláspontja szerint az Ör. 6. § m) pontja és a 3. melléklet 17. pontja más jogszabályba
+ütközik, ezért azok megsemmisítését kérte, továbbá azt is, hogy a Kúria Önkormányzati Tanácsa mondja ki, hogy
+a megsemmisített rendelkezések valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban
+lévő egyedi ügyben nem alkalmazhatók.
+[7] Az indítványozó bíróság többek között kiemelte, hogy az elektronikus hírközlésről szóló 2003. évi C. törvény
+(továbbiakban: Ehtv.) 94. § (2a) bekezdése szerint a hálózatüzemeltető és az elektronikus hírközlési szolgáltató
+együttműködnek a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében, ennek keretében
+a hálózatüzemeltető köteles tűrni a fizikai infrastruktúrájának felhasználását vagy köteles a fizikai infrastruktúrájának
+alkalmassá tételét elvégezni. Az Ehtv. 94. § (4a) bekezdése értelmében pedig az elektronikus hírközlési építmény
+elhelyezését a közterület tulajdonosa tűrni köteles, a tulajdonosi hozzájárulást megadottnak kell tekinteni.
+Hivatkozott továbbá az Alaptörvény 32. cikk (2) bekezdésére is, amely alapján az önkormányzati rendelet más
+jogszabállyal nem lehet ellentétes.
+[8] Az indítványozó bíróság álláspontja szerint az Eht. törvényi szinten rendezi az elektronikus hírközlési építmény
+elhelyezésére, a fizikai infrastruktúra felhasználására, igénybevételére vonatkozó szabályokat, korlátozásokat, és
+az Eht. 96. § (1) bekezdése kifejezetten rögzíti a korlátozás közterület vonatkozásában történő ingyenességét.
+Az indítvány állítja, hogy az önkormányzat magasabb szintű jogszabály által rendezett életviszonyt – közterület-
+használati jogviszonynak minősítve – szabályozási tárgykörébe vont az Alaptörvény 32. cikkébe ütközően.
+[9] Az önkormányzat tévesen minősítette az élethelyzetet közterület-használatnak. Hivatkozott ezzel összefüggésben
+a Kúria 1/2022. Közigazgatási-polgári jogegységi határozatára (a továbbiakban: 1/2022. jogegységi határozat), amely
+rögzíti, hogy a közterület-használati jogviszony közjogi jogviszony. Kiemelte továbbá, hogy a közterület legfőbb
+jellemzője, hogy azt – rendeltetésének megfelelően – bárki használhatja. A közterület tehát közfunkciót teljesít,
+ezért közvagyonnak minősül az Alaptörvény 38. cikk (1) bekezdése értelmében.
+[10] Az indítványozó bíróság hangsúlyozta, hogy a közterület-használati jogviszonyban az önkormányzat, mint
+tulajdonos helyzete azért is sajátos, mert nemcsak szerződő félként vesz részt a jogviszonyban, hanem egyúttal
+szabályozója is az önmagát érintő jogviszonynak, amelyben a helyi közhatalom az Alaptörvény 32. cikk
+(1) bekezdésében kapott felhatalmazás alapján eredeti jogalkotói jogkörében alkot önkormányzati rendeletet.
+Kiemelte, hogy a közterület véges, nem áll korlátlanul rendelkezésre, ezért a – jogszerű – rendeltetéstől eltérő
+(egyéni érdeket szolgáló) használatot a közvagyon tulajdonosa, az önkormányzat közhatalomként szabályozza.
+A Kúria Kfv.37.470/2013/8. számú határozata alapján hivatkozott arra, hogy a közterület-használati jogviszony a helyi
+önkormányzat által szabályozott helyi közügynek minősül. Kiemelte továbbá, hogy e szerződéses jogviszonyban
+szerződési szabadságról nincs szó, az egyik félnek ugyanis csak a feltételek elfogadására vagy el nem fogadására
+van lehetősége, azok alakítására nincs befolyással.
+[11] Az indítvány szerint a törvényhozó a közterület használatát az elektronikus hírközlési szolgáltatások biztosítása
+érdekében kivette az önkormányzati szabályozás lehetősége alól, pontosan azért, mivel magasabb közérdeket
+kívánt szolgálni. Ezt támasztja alá a közterület-használati jogviszony ellenérték fejében történő használatának
+sajátossága is, mivel adott használati díj el nem fogadása esetén a közterület használata lehetetlenné válik. Ennek
+következtében a szolgáltatót más fizikai infrastruktúra létesítésére ösztönözné, amely ellentétes azzal a jogalkotói
+szándékkal, hogy a fizikai infrastruktúra, azaz a villanyoszlopok lehetőség szerint közterületen, azokat megosztva,
+több szolgáltató által használva kerüljenek felhasználásra. Mindemellett maga a jogalkotó már meghatározta
+a korlátozás folytán keletkező igény jogcímét, az Eht. 96. § (1) bekezdése alapján a Polgári Törvénykönyvről
+szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti kártalanítást, ami kizárja, hogy közterület-használati díj
+fizetésének kötelezettsége keletkezzen.
+
+[12] Az indítványozó bíróság rámutatott, hogy egyrészt az önkormányzati rendelet más ágazati jogszabály által
+szabályozott életviszonyt vont szabályozási körébe, másrészről tévesen minősítette a használatot közterület-
+használati jogviszonyként, így az Ör. vitatott rendelkezései az Alaptörvény 32. cikkébe, az Eht. 94. § (2a),
+(4a) bekezdéseibe és 96. §-ába ütköznek.
+[13] Az Önkormányzati Tanács a Kp. 140. § (1) bekezdése folytán alkalmazandó Kp. 42. § (1) bekezdése alapján az érintett
+önkormányzatot felhívta az indítványra vonatkozó nyilatkozata megtételére.
+[14] Az önkormányzat védiratot nem terjesztett elő.
+Az Önkormányzati Tanács döntésének indokai
+[15] Az indítvány az alábbiak szerint megalapozott.
+[16] A Kúria Önkormányzati Tanácsának abban a kérdésben kellett állást foglalnia, hogy az önkormányzat a magasabb
+jogszabályoknak megfelelően állapított-e meg díjfizetési kötelezettséget a közterületen álló közvilágítási-, villany-,
+és telefonoszlopok bérbeadása, hasznosítása, használatának átengedése után.
+[17] Az indítvány szempontjából releváns Ör. vitatott rendelkezései a következők:
+„6. § Közterületet közterület-használati engedélyben foglaltak szerint és az abban meghatározott használati díj
+megfizetése ellenében, rendeltetéstől eltérően használni különösen az alábbi esetekben lehet:
+m) A közterületen álló közvilágítási-, villany-, és telefonoszlopok bérbeadása, hasznosítása, használatának
+átengedése.”
+3. melléklet 17. pont: „közterületen álló közvilágítási-, villany-, és telefonoszlopok bérbeadása, hasznosítása,
+használatának átengedése (oszlop Ft/db/év) Központi terület: 6.000 Ft/db/év; Egyéb terület: 6.000 Ft/db/év.”
+I.
+[18] A Kúria Önkormányzati Tanácsa először a közterülettel, mint közjószággal kapcsolatos alapelvi szintű gyakorlatát
+tekintette át, s figyelemmel az indítványozó által hivatkozott 1/2022. jogegységi határozatra, valamint az időközben
+bekövetkezett jogszabályi változásokra, a jelen ügy szempontjából az alábbi elvi tételekre kíván rávilágítani.
+[19] A magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 73. pontja szerint közterület: (…)
+közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet az ingatlan-
+nyilvántartás ekként tart nyilván.
+[20] A közterület közfunkciót tölt be, ekképp közvagyonnak minősül az Alaptörvény 38. cikk (1) bekezdése
+értelmében, amely szerint az állam és a helyi önkormányzatok tulajdona nemzeti vagyon. „A nemzeti vagyon
+kezelésének és védelmének célja a közérdek szolgálata, a közös szükségletek kielégítése (…)”. Az önkormányzatok
+közvagyonnak minősülő tulajdoni tárgyaikkal nem rendelkeznek szabadon, tulajdonjoguk gyakorlása célhoz
+kötött: közfeladataikat, közérdekű célokat kötelesek megvalósítani a tulajdonukba tartozó közterületi vagyonuk
+hasznosításával (Kfv.37.470/2013/8.). A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.)
+5. § (3) bekezdése értelmében a helyi önkormányzat kizárólagos tulajdonát képező nemzeti vagyonba tartoznak
+a) a helyi közutak és műtárgyaik, b) a helyi önkormányzat tulajdonában álló terek, parkok, közkertek.
+A szabályozás alapján megállapítható, hogy a helyi önkormányzat tulajdonában álló egyes közterületek
+a forgalomképtelen törzsvagyonba tartoznak. A helyi önkormányzat a törzsvagyona tekintetében nem
+ugyanolyan tulajdonosi jogok gyakorlója, mint az üzleti vagyonát illetően. Ez a körülmény a létesíthető
+jogviszonyok tekintetében jelentős korlátot jelent, amelyek fő tartalma az Alaptörvényen és a Magyarország helyi
+önkormányzatairól szóló 2011. évi CLXXXIX. törvényen (a továbbiakban: Mötv.) kívül az Nvtv. szabályozásán alapul.
+[21] Mind a Kúria Önkormányzati Tanácsának joggyakorlata (Köf.5030/2017/3., Köf.5033/2017/4., Köf.5031/2019/5.,
+Köf.5010/2021/4. számú határozatok), mind az 1/2022. jogegységi határozat alapján kiemelhető, hogy a közterület,
+mint „véges közjószág” rendelkezésre állásának biztosításában a kormányzatnak különböző szinteken van szerepe.
+A közterület-használat bárki számára történő hozzáférhetőségének biztosítása helyi szinten az Mötv. 13. §
+(1) bekezdésének 2. pontjában adott feladatellátási felhatalmazással összefüggésben a települési önkormányzat
+feladata. Azaz a közterülettel kapcsolatos használati viszonyok egyik alanya mindig az állam, illetve annak nevében
+eljáró közigazgatási szerv, beleértve ebbe a helyi önkormányzatot is.
+[22] A közterületet rendeltetésszerűen, főszabályként bárki, ellenérték nélkül használhatja. A – jogszerű, mégis –
+rendeltetéstől eltérő használat (a közterület tartós egyéni igénybevétele) csak szabályozott módon történhet.
+A közterület végessége okán a többlet-, vagy meghatározott keretek között kizárólagos jogosultság gyakorlása
+fizetési kötelezettséggel járhat (Köf.5033/2017/4.). Ugyanakkor a közterület-használati jogviszonyban
+
+az önkormányzat nem magántulajdonosi minőségében jelenik meg, hanem mint a köztulajdonnal való
+rendelkezésre törvényi felhatalmazással bíró jogalany. Az önkormányzat, mint tulajdonos helyzete azért is sajátos,
+mert nemcsak szerződő félként vesz részt a jogviszonyban, hanem mint szabályozója is az önmagát érintő
+jogviszonynak, amelyben a helyi közhatalom az Alaptörvény 32. cikk (1) bekezdésében kapott felhatalmazás alapján
+eredeti jogalkotói jogkörében alkot normatív aktust (önkormányzati rendeletet).
+[23] A Köf.5033/2017/4. számú határozat alapján kimunkált gyakorlat szerint a közterület használatával kapcsolatos
+jogviszony közjogi jogviszony, ugyanakkor komplex is, ahol a közjogi és a magánjogi viszonyok olykor egymáshoz
+kapcsolódhatnak. A rendeleti szabályozásnak ugyanis nem egyetlen célja a kizárólagos használat feltételeinek
+rögzítése. A jogforrás rendeltetése elsősorban az egyéni közterület-használók számára a közjószág élvezete
+zavartalanságának a biztosítása, különös tekintettel arra, hogy„zsúfoltság”, azaz túlhasználat viszonyai közepette kell
+fenntartani a hozzáférés jogát, figyelemmel a bárki által való igénybevételre.
+II.
+[24] A Kúria Önkormányzati Tanácsa a fentieket követően azt vizsgálta, hogy e speciális keretszabályozáshoz hogyan
+viszonyul az Ör. által bevezetett szabályozás.
+[25] Az Ehtv. 94. § (1) bekezdése alapelvi szinten rögzíti, hogy„A település tervezésénél, rendezésénél, utak és közművek
+építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál – a külön
+jogszabályban meghatározott módon – biztosítani kell az elektronikus hírközlési építmények elhelyezésének
+lehetőségét.”
+[26] Az Ehtv. 94. § (2a) bekezdése továbbá azt is szabályozza, hogy: „A hálózatüzemeltető és az elektronikus
+hírközlési szolgáltató együttműködnek a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében,
+ennek keretében a hálózatüzemeltető köteles tűrni a fizikai infrastruktúrájának felhasználását vagy köteles
+a fizikai infrastruktúrájának alkalmassá tételét elvégezni. Az elektronikus hírközlési építmény kiépítésének és
+karbantartásának költségeit az elektronikus hírközlési szolgáltató viseli.”
+[27] Az Ehtv. 94. § (4a) bekezdése kimondja hogy: „Az elektronikus hírközlési építmény elhelyezését a közterület
+tulajdonosa (használója vagy kezelője) tűrni köteles, a tulajdonosi hozzájárulást megadottnak kell tekinteni.
+Ha az építési munka megkezdéséhez közterület-használati hozzájárulás, kezelői vagy üzemeltetői hozzájárulás
+(a továbbiakban együtt e bekezdésben: hozzájárulás) szükséges, azt az elektronikus hírközlési szolgáltató
+kérelmének benyújtásától számított – ha jogszabály vagy szabályzat rövidebb határidőt nem állapít meg – 30 napon
+belül ki kell adni. A hozzájárulás formája egyoldalú nyilatkozat vagy megállapodás is lehet. Ha a hozzájárulás
+megadására feljogosított személy vagy szerv a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében
+felmerült egyéb okból határidőn belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően
+megadottnak kell tekinteni.”
+[28] A jogalkotó lényegében a közterület-használat vonatkozásában jelentkező közösségi érdeket jeleníti meg
+az Ehtv. 96. § (1) bekezdésének szabályozásában azzal, hogy többek között a közterület és az állami tulajdonban
+álló ingatlan kivételt képeznek a korlátozás mértékének megfelelő, a Ptk. szerinti kártalanítás alól. E rendelkezés
+a következőképpen szól:„Az érintett ingatlan tulajdonosát – a közterület, az állami tulajdonban álló ingatlan, a közös
+eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa, valamint a 94. § (4e) bekezdés alapján
+létesített nagy sebességű elektronikus hírközlő hálózattal érintett ingatlan tulajdonosa kivételével – az e törvényből
+eredő korlátozás mértékének megfelelő, a Ptk. szerinti kártalanítás illeti meg.”
+[29] Az önkormányzatok rendeletalkotási joga közterülethasználat tárgyában az Mötv.-n alapul, mégpedig annak 23. §
+(4) bekezdés 19. pontján. Eszerint a szabályok és díjak megállapítása a törvényben meghatározott kötelező feladat.
+Ebből következően ez a jog nem a tulajdonosi mivoltból származik. A fenti szabályokat összevetve egyértelműen
+megállapítható, hogy az elektronikus hírközlési építmény elhelyezését a közterület tulajdonosa (használója vagy
+kezelője, így az önkormányzat is) tűrni köteles, s annak korlátozó előírására helyi rendeletben nincs lehetőség.
+[30] A rendeleti szabályozás jogosultsága éppen az, hogy a közterületek mindenki által való használhatósága
+ne sérüljön. Ehhez képest kerülhet sor a magáncélú igénybevétel, azaz a meghatározott feltételek közötti
+kizárólagos használat körülményeinek előírására, aminek része a kizárólagossággal elérhető hasznok
+ellenében díjfizetés megállapítása is. Azonban jelen esetben az infrastruktúra közterületen való elhelyezése
+nem magánérdekből, hanem közérdekből történik.
+[31] A helyi közművek kiépítése helyi közérdek, ahogyan a már meglévő infrastruktúra további hasznosítása is
+a helyi közösség érdeke – amelyet helyi szinten a közügyeken keresztül az önkormányzat képviseli –, egyúttal
+a hálózatüzemeltetőnek is együttműködései kötelezettsége van az elektronikus hírközlési szolgáltatóval. Az Ör.
+
+6. § m) pontja a közterületen álló közvilágítási-, villany-, és telefonoszlopok bérbeadása, hasznosítása, használatának
+átengedése esetére ír elő közterület-használati engedély beszerzését, valamint az Ör. 3. melléklet 17. pontja szerinti
+használati díj megfizetését. A fenti szabályozás alapján tehát az Ör. a létrejött közjogi jogviszonyban (és esetlegesen
+a hálózatüzemeltető és az elektronikus hírközlési szolgáltató között létrejött magánjogi jogviszonyba) kíván
+beavatkozni normatív szabályozási úton.
+[32] Egyfelől a közüzemi szolgáltatáshoz kapcsolódó oszlopok elhelyezését közösségi érdekből a közterületen biztosítani
+szükséges, másfelől az Ehtv. alapján a hálózatüzemeltető köteles (tehát nincs mérlegelési lehetősége) tűrni a fizikai
+infrastruktúrájának felhasználását vagy köteles a fizikai infrastruktúrájának alkalmassá tételét elvégezni. Az Ör.
+szabályozása pedig lényegében arra kötelezné a hálózatüzemeltetőt, hogy ne engedje infrastruktúrájának más célú
+(vagy más általi) felhasználását, mivel ebben az esetben közterület-használati engedély beszerzése és a használati
+díj megfizetése válna számára kötelezővé, mely egyúttal többletköltséget teremtene.
+[33] A Kúria Önkormányzati Tanácsa mindezek alapján arra a következtetésre jutott, hogy az önkormányzat az Eht.
+94. § (2a), (4a) bekezdéseibe és 96. §-ába ütköző módon vonta engedélyezési és díjfizetési kötelezettség alá
+a 6. § m) pontja szerinti közterületen álló közvilágítási-, villany-, és telefonoszlopok bérbeadását, hasznosítását,
+használatának átengedését. Erre tekintettel megállapítható, hogy az Ör. 6. § m) pontja és a 3. melléklete 17. pontja
+más jogszabályba ütközik, ezért azt a Kúria Önkormányzati Tanácsa – figyelembe véve a Kp. 146. § (3) bekezdését
+és a jogalkotásról szóló 2010. évi CXXX. törvény 10. § (8) bekezdését – a Kp. 146. § (1) bekezdés a) pontja alapján
+megsemmisítette.
+A döntés elvi tartalma
+[34] Az önkormányzat a közterület-használattal kapcsolatos rendeletében nem írhat elő a közterületen álló közvilágítási-,
+villany-, és telefonoszlopok bérbeadása, hasznosítása, használatának átengedése esetére közterület-használati
+engedély beszerzését, valamint használati díj megfizetését.
+Záró rész
+[35] Az Önkormányzati Tanács az indítványt a Kp. 141. § (2) bekezdése szerint tárgyaláson kívül bírálta el.
+[36] A Magyar Közlönyben történő közzététel a Kp. 146. § (2) bekezdésén, a helyben történő közzététel a Kp. 142. §
+(3) bekezdésén alapul.
+[37] Jelen eljárásban a Kp. 141. § (4) bekezdése alapján az önkormányzati rendelet törvényellenességének vizsgálatára
+irányuló eljárásban a feleket teljes költségmentesség illeti meg és saját költségeiket maguk viselik.
+[38] A határozat elleni jogorvoslatot a Kp. 116. § d) pontja és a 146. § (5) bekezdései zárják ki.
+Budapest, 2025. december 2.
+Dr. Sugár Tamás s.k.
+a tanács elnöke
+Dr. Bögös Fruzsina s.k. Dr. Balogh Zsolt s.k.
+előadó bíró bíró
+Dr. Dobó Viola s.k. Dr. Kiss Árpád Lajos s.k.
+bíró bíró
+
+A Kúria Önkormányzati Tanácsának Köf.5.027/2025/4. számú határozata
+
+Az ügy száma: Köf.5.027/2025/4.
+A tanács tagjai: Dr. Balogh Zsolt a tanács elnöke,
+Dr. Kiss Árpád Lajos előadó bíró,
+Dr. Bögös Fruzsina bíró,
+Dr. Dobó Viola bíró,
+Dr. Sugár Tamás bíró
+Az indítványozó: Pest Vármegyei Kormányhivatal
+(cím1)
+Az indítványozó képviselője: Dr. Danka Ferenc kamarai jogtanácsos
+(cím1)
+Az érintett önkormányzat: Üllő Város Önkormányzata
+(cím2)
+Az érintett önkormányzat képviselője: Dr. Kovács Krisztián ügyvéd
+(cím3)
+Az ügy tárgya: önkormányzati rendelet más jogszabályba ütközésének vizsgálata
+Rendelkező rész
+A Kúria Önkormányzati Tanácsa
+– megállapítja, hogy Üllő Város Önkormányzata Képviselő-testületének a település területén elrendelt
+változtatási tilalomról szóló 8/2024. (II. 26.) számú önkormányzati rendelete más jogszabályba ütközik, ezért
+azt 2024. február 29. napjára visszamenőleges hatállyal megsemmisíti;
+– elrendeli határozatának a Magyar Közlönyben való közzétételét;
+– elrendeli, hogy a határozat közzétételére – a Magyar Közlönyben való közzétételt követő 8 napon belül –
+az önkormányzati rendeletek kihirdetésével azonos módon kerüljön sor.
+A határozat ellen jogorvoslatnak nincs helye.
+Indokolás
+Az indítvány alapjául szolgáló tényállás
+[1] A Kormány megalkotta az Üllői Lövész Központ megvalósításával összefüggő közigazgatási hatósági ügyek
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 671/2023. (XII.29.) Korm. rendeletet
+(a továbbiakban: Kormányrendelet), amelynek 1. § (1) bekezdése nemzetgazdasági szempontból kiemelt
+jelentőségű üggyé nyilvánította az ingatlan-nyilvántartás szerint az Üllő külterület 0275/1, 0275/2, 0275/3 és
+0276 helyrajzi számon nyilvántartott ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásban
+hozott, véglegessé vált döntés alapján kialakított ingatlanokon az Üllői Lövész Központ megvalósítására
+irányuló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási
+hatósági ügyeket.
+[2] Ezt követően Üllő Város Önkormányzatának (a továbbiakban: önkormányzat) képviselő-testülete
+a 20/2024. (I. 25.) számú határozatával úgy döntött, hogy „Üllő közigazgatási határán belül ne legyen lőtér
+beruházás”, majd a 21/2024. (I. 25.) számú határozattal „a településtervek tartalmáról, elkészítésének és
+elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII.15.)
+kormányrendelet 59.§ (2) bekezdésének megfelelően módosít[otta] a város érvényes szerkezeti tervét, valamint
+a hatályos Helyi Építési Szabályzatát és szabályozási tervét a város Integrált Településfejlesztési Stratégiája szerint
+lehatárolt Dóra major városfejlesztési akcióterületére vonatkozóan és kiemelt fejlesztési területté nyilvánít[otta]
+az akcióterületbe tartozó 0262/12, 0265, 0266, 0267/1, 0275/1, 0275/2, 0275/3 és 0276 helyrajzi számokat”, továbbá
+a megjelölt területekre vonatkozó új szabályozás hatályba lépéséig tartó változtatási tilalom elrendelése érdekében
+az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 21. §-ában
+foglaltak alapján a településrendezési eszközök módosítására vonatkozó szerződés kötéséről döntött.
+
+[3] Az Önkormányzat a 2024. február 22-i ülésén – a 21/2024. (I. 25.) számú határozattal elrendelt településrendezési
+feladatok megvalósításának biztosítására – „az Alaptörvény 32. cikk (1) bekezdés a) pontjában, valamint az épített
+környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény [a továbbiakban: Étv.] 21. §-ban kapott
+felhatalmazás alapján” megalkotta a település területén elrendelt változtatási tilalomról szóló 8/2024. (II. 26.) számú
+önkormányzati rendeletet (a továbbiakban: Ör.), amellyel az Üllő város helyi építési szabályzatáról szóló
+20/2017. (VII. 08.) rendelet szerinti előírások, valamint szabályozás felülvizsgálatának időszakára, az új építési
+szabályokról szóló önkormányzati rendelet hatálybalépéséig, de legfeljebb az Ör. hatálybalépésétől 3 évi időtartamra
+változtatási tilalmat rendelt el a város alábbi területeire: az Üllő, 0260 hrsz-ú földút – 0262/9–16 hrsz-ú major területek –
+4603 jelű országos közút és Ócsa közigazgatási határa által határolt területen, a 0262/12, 0265, 0266, 0267/1, 0275/1,
+0275/2, 0275/3 és 0276 hrsz.-ú területekre.
+[4] A Pest Vármegyei Kormányhivatal (a továbbiakban: indítványozó) az Ör-rel szemben, annak jogellenessége okán
+PE/030/01461-1/2025. ügyiratszámon törvényességi felhívást bocsátott ki.
+[5] Az Önkormányzat a törvényességi felhívásban foglalt határidőn belül, 2025. augusztus 7. napján tartott ülésén
+a 267/2025. (VIII. 07.) számú határozatában a törvényességi felhívásban foglaltakkal nem értett egyet, erről
+a polgármester 2025. augusztus 13-án az NJT rendszerbe feltöltött levelével tájékoztatta az indítványozót.
+Az indítvány és az Önkormányzat védirata
+[6] Az indítványozó a 2025. szeptember 11. napján előterjesztett PE/030/01461-7/2025. számú indítványával
+a Kúria Önkormányzati Tanácsánál (a továbbiakban: Kúria vagy Önkormányzati Tanács) kezdeményezte
+az Ör. megsemmisítését, kifejtve, hogy a Kormányrendelet a változtatási tilalommal érintett ingatlanok
+közül a Beruházással érintett ingatlanok tekintetében településrendezési szempontból már rendelkezett,
+az Ör. így a Kormányrendeletben foglaltakkal ellentétes célokat fogalmaz meg.
+[7] Indítványában a Kormányrendelet 5. § (1) bekezdésének b) pontjára hivatkozva kifejtette, hogy a Kormányrendelet
+az eltérő szabályozást tartalmazó önkormányzati rendeletek, valamint a településrendezési terv alkalmazását kizárja.
+Mivel a Kormányrendelet az önkormányzati„döntéseknél” magasabb szintű jogforrás, ezért önkormányzati rendelet
+nem tartalmazhat a Kormányrendelettel ellentétes, vagy annak alkalmazását ellehetetlenítő szabályozást.
+[8] Előadta, hogy az Ör. ellentmond a jóhiszemű és a rendeltetésszerű joggyakorlás Magyarország helyi
+önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 9. §-ában megfogalmazott
+követelményének is azzal, hogy megakadályozni szándékozik kormányzati döntés(ek) végrehajtását.
+Az Önkormányzat a Kormányrendelet hatálybalépését követően kívánt azzal ellentétes álláspontot
+érvényesíteni. Az Önkormányzat képviselő-testületének 2024. január 25-i jegyzőkönyvében foglaltak szerint
+a képviselő-testületnek már 2021. évben tudomása volt a Kormányrendelettel biztosítani kívánt Beruházásról.
+A településrendezési eszközök módosításakor nyilvánvalóan tudatában volt annak is, hogy a 0275/1, 0275/2,
+0275/3 és 0276 hrsz-ú ingatlanokon megvalósuló Beruházást a kormány nemzetgazdasági szempontból kiemelt
+jelentőségű üggyé nyilvánította, ezért a területre speciális előírások vonatkoznak, illetve kizárólagosságuk miatt
+azok vonatkozásában a településrendezés helyi szabályai nem alkalmazandók. Már a 21/2024. (I. 25.) határozat
+előterjesztésének képviselő-testületi vitájában a településrendezési eszközök módosításának indokát abban
+jelölték meg, hogy ezáltal változtatási tilalmat tudjanak elrendelni az érintett ingatlanok vonatkozásában, így
+juttatva kifejezésre, hogy nem kívánják a kiemelt Beruházás megvalósulását.
+[9] Az indítványozó hivatkozott a Kúria – a jelen ügyhöz hasonló változtatási tilalomról szóló ügyben hozott –
+Köf.5.003/2024/5. számú határozatára, melyben az Önkormányzati Tanács kifejtette, hogy ha az önkormányzati
+rendelet az elfogadását követően megalkotott és hatályba lépett más, magasabb szintű jogszabállyal ellentétessé
+válik, akkor az önkormányzatnak módosítania kell rendeletét. Ha az önkormányzati rendelet – ugyanúgy, mint jelen
+esetben – már a megalkotásakor sem felelt meg a központi építésügyi jogszabályoknak, akkor azt a rendeletet
+az önkormányzatnak saját hatáskörben hatályon kívül kellett volna helyeznie. Mivel ezt az önkormányzat
+– a Köf.5.003/2024/5. számú ügyben – nem tette meg, ezért a Kúria Önkormányzati Tanácsa a rendelet
+megsemmisítéséről döntött.
+[10] Az indítványozó álláspontja szerint az Ör. sérti a jogszabályi hierarchiáról szóló alapvető jogelveket és ezért
+nem felel meg Magyarország Alaptörvénye 32. cikk (3) bekezdésében foglaltaknak.
+[11] Az Önkormányzati Tanács a közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) 140. §
+(1) bekezdése folytán alkalmazandó 42. § (1) bekezdése alapján az érintett Önkormányzatot felhívta az indítványra
+vonatkozó nyilatkozata megtételére.
+
+[12] Az önkormányzat 2025. október 1. napján előterjesztett védiratában az indítvány elutasítását és
+az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 25. § (1) bekezdése szerint
+a Kormányrendelet alaptörvény-ellenességének megállapítása érdekében egyedi normakontroll eljárás
+kezdeményezését kérte a Kúria Önkormányzati Tanácsától.
+[13] Az álláspontja szerint a Kormányrendelet közjogilag érvénytelen, mivel formálisan a háborús veszélyhelyzetre
+hivatkozik, azonban tartalmilag semmilyen összefüggést nem mutat a veszélyhelyzettel. A Kormányrendeletben
+hivatkozott honvédelmi indok mesterséges, mert a szomszédos katonai lőtér már biztosítja ezt a funkciót.
+Az Alkotmánybíróság döntéseiben alátámasztatott értelmezés szerint a különleges jogrend eszközei nem
+használhatók fel olyan célokra, amelyek évtizedekre kiható szabályozást eredményeznek. Utalt az 1/2023. (I. 4.)
+AB határozatra, amely szerint a különleges jogrend megszűnésével összefüggő szabályozás csak a veszélyhelyzet
+rendezésére irányulhat, és nem eredményezhet tartós hatásokat, valamint a 9/2024. (IV. 30.) AB határozatra is,
+amely kifejezetten kimondta, hogy a különleges jogrend nem használható fel a rendes jogalkotás megkerülésére és
+olyan tartós joghatások létrehozására, amelyek a veszélyhelyzethez érdemben nem kapcsolódnak. Ezzel szemben
+– a véleménye szerint – a Kormányrendelet nem átmeneti intézkedést tartalmaz, hanem tartósan vonja ki
+a települési önkormányzat hatásköréből a jövőbeni átépítéseket és bővítéseket is, ami nyilvánvalóan
+nem lehet a veszélyhelyzeti jogalkotás célja.
+[14] Az önkormányzat hivatkozott arra, hogy bár a Kormányrendelet kimondhatta volna, hogy a Beruházásnál
+a változtatási, építési és telekalakítási tilalom nem alkalmazható, azt nem tette meg. A megalkotott
+Kormányrendelet továbbá szükségtelenül és aránytalanul korlátozza az önkormányzat jogait, a megalkotása során
+nem vizsgálták, hogy van-e olyan alternatív helyszín, amely a kitűzött célokat a környezet károsítása nélkül is képes
+megvalósítani. Ezzel összefüggésben utalt arra, hogy a tervezett Beruházás közvetlen szomszédságában már
+működik egy katonai lőtér, amely a honvédelmi célokat önmagában is szolgálja, így a Beruházás indokolásában
+központi elemként megjelenő honvédelmi cél a meglévő lőtérrel elérhető, a további létesítmény pedig
+indokolatlanul duplázná a funkciót.
+[15] Utalt az önkormányzati autonómia sérelmére is. Ezzel összefüggésben előadta, hogy a Kormányrendelet tartósan
+kiüresíti a településrendezési és településképi hatásköröket, nemcsak a Beruházás megvalósítása, hanem a jövőbeni
+átépítések és bővítések esetében is. Ez az Alaptörvény 31. cikkében biztosított önkormányzatiság érdemi sérelmét
+jelenti.
+[16] A környezethez való jog sérelmével összefüggésben rámutatott, hogy a tervezett Beruházás több mint
+húsz hektárnyi erdő átminősítésével és erdőirtással járna és közvetlenül veszélyeztetné a fokozottan védett
+kerecsensólyom költőhelyét. Ez ellentétes az Alaptörvény P) cikkével és az Alkotmánybíróság 28/1994. (V. 20.) és
+48/1997. (X. 6.) AB határozataiban is megjelenő állandó gyakorlatával, az állam ugyanis nem élvez szabadságot
+abban, hogy a környezet állapotát romlani engedje, vagy a romlás kockázatát megengedje, különösen akkor,
+ha a tervezett célt más, környezetet nem károsító módon is el lehet érni.
+[17] Az önkormányzat álláspontja szerint a Kormányrendelet kizárja a nyilvánosság és az önkormányzat érdemi
+részvételét, amely az Aarhusi Egyezmény 6. és 9. cikkével ellentétes. A Kormányrendeletre vonatkozó előzetes
+társadalmi egyeztetés formális és kiüresített volt, ami a részvételi jogok sérelmét eredményezte. A Kormányrendelet
+formálisan sem felel meg a jogalkotásról szóló 2010. évi CXXX. törvény (a továbbiakban: Jat.) 18. §-ában
+foglaltaknak, ugyanis a jogszabálytervezet indokolása csupán egyetlen mondat. Ezzel kivitelezhetetlenné teszi,
+hogy a bíróságok az Alaptörvény 28. cikkének megfelelően a jogszabály céljának megállapítása során a jogszabály
+indokolását értékelni tudja.
+[18] Kiemelte, hogy az indítványban hivatkozott a Kúria Köf.5.003/2024/5. számú határozata a jelen ügyben
+nem irányadó, mert ott a telektömbnél kisebb területre rendelték el a tilalmat, ami jelen esetben nem áll fenn.
+Az Önkormányzati Tanács döntésének indokai
+[19] Az indítvány az alábbiak szerint alapos.
+[20] Az Alaptörvény 32. cikk (3) bekezdése szerint az önkormányzati rendelet más jogszabállyal nem lehet ellentétes.
+[21] Az önkormányzat az Ör-t az Alaptörvény 32. cikk (1) bekezdés a) pontjában, valamint az Étv. 21. §-ában kapott
+felhatalmazás alapján fogadta el.
+[22] Az Alaptörvény 32. cikk (1) bekezdés a) pontja szerint a helyi önkormányzat a helyi közügyek intézése
+körében törvény keretei között rendeletet alkot.
+
+[23] Az Mötv. 13. § (1) bekezdés 1. pontja értelmében a településfejlesztés, településrendezés helyi közügy.
+[24] Az Mötv. 14. § (1) bekezdés kimondja, hogy a 13. § (1) bekezdésében meghatározott feladatok ellátásának részletes
+szabályait, ha e törvény másként nem rendelkezik, jogszabályok tartalmazzák.
+[25] Az Ör. megalkotásakor hatályos Étv. 21. § (1) bekezdése szerint a helyi építési szabályzat – ideértve a kerületi építési
+szabályzatot is – készítésére vonatkozó írásos megállapodás megléte esetén a helyi építési szabályzat – ideértve
+a kerületi építési szabályzatot is – készítésének időszakára azok hatálybalépéséig, de legfeljebb három évig
+az érintett területre a települési önkormányzat rendelettel változtatási tilalmat írhat elő.
+[26] A Kormányrendelet megalkotásakor hatályos Étv. 62. § (1) bekezdés 27. pontja felhatalmazást adott a Kormánynak
+arra, hogy a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és
+egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) szerint nemzetgazdasági szempontból kiemelt
+jelentőségű beruházás során építési tevékenységgel érintett telekre, valamint az országos jelentőségű kulturális
+és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan
+az ott megvalósítandó közérdekű beruházás érdekében a beépítés szabályait, és a beruházásokkal összefüggő
+különös hatósági eljárási szabályokat rendelettel állapítsa meg.
+[27] A Kúria Önkormányzati Tanácsa kiemeli, hogy a jogállamiság [Alaptörvény B) cikk (1) bekezdés] alkotmányos
+alapját jelentő jogbiztonság elvének egyik garanciája a jogforrási hierarchia érvényesülése, azaz az alacsonyabb
+szintű jogszabály tartalma nem lehet ellentétes magasabb szintű jogszabály rendelkezéseivel {3132/2013. (VII. 2.)
+AB határozat, Indokolás [42]; 3152/2016. (VII. 22.) AB határozat, Indokolás [14]}. Ennek megfelelően kiemelt
+jelentőséget kell tulajdonítani annak a körülménynek, ha egy alacsonyabb szintű jogszabály megalkotásának célja
+a magasabb szintű jogszabály hatályosulásának ellehetetlenítése.
+[28] Mindezt erősíti az Mötv. 9. §-a, amely kimondja, hogy az e törvényben meghatározott jogokat jóhiszeműen,
+a kölcsönös együttműködés elvét figyelembe véve, a társadalmi rendeltetésüknek megfelelően kell gyakorolni.
+[29] A kifejtettekből következően az Étv. törvényi felhatalmazást adott arra, hogy a Kormány rendelettel
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások kapcsán az alapvetően helyi közügyek
+körébe tartozó településrendezés körében a beruházásokkal összefüggő különös szabályozást állapítson meg,
+amely így a jogforrási hierarchia érvényesülésének követelményére tekintettel az adott szabályozási körben
+nem teszi lehetővé a Kormány rendeletével ellentétes helyi önkormányzati szabályozás megalkotását.
+[30] A Kúria Önkormányzati Tanácsa megállapította, hogy az önkormányzat az Ör. megalkotása során kifejezetten azt
+tartotta szem előtt – ahogyan azt a 20/2024. (I. 25.) számú határozatában deklarálta is –, hogy „Üllő közigazgatási
+határán belül ne legyen lőtér beruházás”. Az önkormányzatnak mind a meghozott és a korábbiakban hivatkozott
+határozatai, mind az Ör. azt kívánja elérni, hogy a Kormányrendelet a területén ne hatályosuljon. Ezeket a védirat is
+hangsúlyozta.
+[31] A Kúria Önkormányzati Tanácsa megállapította, hogy az Ör. a leírtak mentén a Beruházással érintett 0275/1,
+0275/2, 0275/3 és 0276 hrsz-ú ingatlanok tekintetében a változtatási tilalom elrendelésével kifejezetten ellentétes
+a Kormányrendelettel, illetve az Mötv. 9. §-ában foglalt követelményekkel.
+[32] A Kormányrendelet 5. § (1) bekezdése értelmében az ingatlanokon a beépítés szabályait a Kormányrendelet 5. §
+(2) és (3) bekezdése állapítja meg, azzal, hogy a hatályos településrendezési terv, településképi rendelet
+és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet
+(a továbbiakban: OTÉK) előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá ha
+a hatályos településrendezési terv, településképi rendelet, egyéb önkormányzati rendelet vagy az OTÉK a beépítés
+(2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást
+tartalmaz, akkor a településrendezési tervet, településképi rendeletet, egyéb önkormányzati rendeletet és
+az OTÉK-ot nem lehet alkalmazni.
+[33] A Kúria Köf.5.017/2022/4. számú határozata szerint a helyi építési szabályzat egyes rendelkezései
+alkalmazhatóságának kizárása kormányrendeletben a rendeletalkotási jogkört önmagában nem korlátozza.
+A nem alkalmazhatóság nem teszi jogellenessé az adott szabályt előíró jogforrást, továbbá nem függeszti fel
+a felhatalmazást adó törvényi helyeket {megerősítette a Köf.5.003/2024/5. határozat [42] bekezdése}.
+
+[34] Mindez jelen ügyben azt jelenti, hogy az Ör. más jogszabályba ütközését nem a Kormányrendelet 5. § (1) bekezdés
+b) pontja teremti meg, hanem az, hogy a Kormányrendelet hatályba lépését követően elfogadott Ör. célja és
+alkalmazása esetén a következménye a magasabb szintű jogforrásban foglaltak érvényesülésének kizárása, ezáltal
+a helyi önkormányzat rendeletalkotási jogkörének rendeltetésellenes alkalmazása és a jogforrási hierarchia,
+azon keresztül a jogbiztonság érvényesülésének sérelme.
+[35] Mindezek alapján a Kúria Önkormányzati Tanácsa megállapította, hogy az Ör. a Beruházással érintett Üllő 0275/1,
+0275/2, 0275/3 és 0276 helyrajzi számú ingatlanok tekintetében más jogszabályba ütközött. Amennyiben azonban
+az Ör. megsemmisítésére csak ebben a tekintetben kerülne sor, úgy a változtatási tilalom a telektömbbe tartozó
+további ingatlanok tekintetében fennmaradna.
+[36] A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos
+jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 11. § (5) bekezdése kimondja, hogy egy adott területre
+csak egy helyi építési szabályzat állapítható meg, amelynek módosítását legalább telektömbre kell készíteni.
+Ezért a telektömbbe tartozó ingatlanok tekintetében a változtatási tilalom is csak egységesen lehet alkalmazható.
+Ez pedig indokolttá tette a további ingatlanokra vonatkozóan az egységes szabályozás érdekében a Kp. 143. §
+(3) bekezdése szerinti szoros összefüggés megállapítását.
+[37] Az önkormányzat a védiratában alapvetően nem a kormányhivatal által vizsgálni kért Ör. törvényessége,
+más jogszabállyal való összhangja mellett érvelt (ami a védirat funkciójából következik), hanem a Kormányrendelet
+alkotmányosságát vitatta.
+[38] A Kúria Önkormányzati Tanácsa valóban indítványozhatja a Kp. 139. §-a által alkalmazandó Kp. 34. § b) pontja
+alapján az Alkotmánybíróság eljárását az alkalmazandó jogszabály alkotmányossági vizsgálatát kérve.
+Ezt az eljárást a bíróság hivatalból vagy kérelemre kezdeményezheti. Az Alkotmánybíróság gyakorlata szerint
+– akkor is, ha kérelemre történik a kezdeményezés – a bíróságnak a saját álláspontját, saját meggyőződését kell
+az Alkotmánybíróság elé tárni, nem pedig a kérelmező érveit.
+[39] A Kúria Önkormányzati Tanácsának alapfeladata, hogy az indítványok alapján elbírálja az önkormányzati
+rendeletek törvényességét (más jogszabályba ütközését), s nem (alap)feladata a más jogszabály
+alkotmányellenességének vizsgálata. Bár lehetősége van arra, hogy kilépve a normahierarchia rendjéből az előtte
+fekvő ügyben az Alkotmánybíróság eljárását kezdeményezze azon jogszabállyal szemben, amellyel az indítványozó
+szerint az önkormányzati rendelet ellentétes, de ezt csak kivételesen és megfelelő saját indokok alapján teheti meg.
+[40] Jelen ügyben – annak tényállásból is következően – a Kúria Önkormányzati Tanácsa nem kezdeményezte
+a Kormányrendelet alkotmányossági vizsgálatát több okból sem. Az ügyben a Kormányrendelet kihirdetését és
+hatályba lépését követően, kifejezetten a Kormányrendelet rendelkezéseinek az érvényesülése ellen alkotta meg
+az önkormányzat a rendeletet, amely – az indítványozóval egyetértve – az Mötv. 9. §-ába foglalt jóhiszeműség és
+rendeltetésszerű joggyakorlás elvébe ütközik. Másfelől az indítványozó által a védiratban előterjesztett érvelés
+a védirat valódi funkciójától idegen. A védirat lényegében egy alkotmánybírósági beadvány a Kormányrendelet
+alkotmányellenességét tartalmazó érvekkel. Tartalmában címzettje az Alkotmánybíróság és nem az Önkormányzati
+Tanács, amelynek a feladata az Indítványozó indítványáról való döntés.
+[41] A kifejtettekre tekintettel a Kúria Önkormányzati Tanácsa az Ör-t a Kp. 146. § (1) és (4) bekezdésére és a jogbiztonság
+követelményére figyelemmel a hatályba lépésének napjára visszaható hatállyal megsemmisítette. Az ex tunc
+hatályú megsemmisítést nem csak a Kormányrendelet szabályainak érvényesülése, hanem a – fentebb bemutatott –
+Mötv. 9. §-ának sérelme is indokolta.
+A döntés elvi tartalma
+[42] Sérti a jogbiztonságot, valamint a jóhiszemű és rendeltetésszerű joggyakorlás elvébe ütközik egy olyan
+helyi rendelet megalkotása, amelynek a célja egy magasabb szintű jogszabály hatályosulásának megakadályozása.
+Záró rész
+[43] Az Önkormányzati Tanács az indítványt a Kp. 141. § (2) bekezdése szerint tárgyaláson kívül bírálta el.
+[44] A Magyar Közlönyben történő közzététel a Kp. 146. § (2) bekezdésén, a helyben történő közzététel a Kp. 142. §
+(3) bekezdésén alapul.
+
+[45] Jelen eljárásban a Kp. 141. § (4) bekezdése alapján az önkormányzati rendelet törvényellenességének vizsgálatára
+irányuló eljárásban a feleket teljes költségmentesség illeti meg és saját költségeiket maguk viselik.
+[46] A határozat elleni jogorvoslatot a Kp. 116. § d) pontja és a 146. § (5) bekezdése zárják ki.
+Budapest, 2025. december 2.
+Dr. Balogh Zsolt s.k.
+a tanács elnöke
+Dr. Kiss Árpád Lajos s.k. Dr. Bögös Fruzsina s.k.
+előadó bíró bíró
+Dr. Dobó Viola s.k. Dr. Sugár Tamás s.k.
+bíró bíró
+
+IX. Határozatok Tára
