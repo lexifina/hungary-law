@@ -88,8 +88,14 @@
 
 | 44. | 7305 Szakápolás (egészségügyi diplomával és/vagy szakápolói szakképesítéssel külön jogszabályban meghatározottak alapján) | 2.8.–2.14. ápolói munkakör, 2.23. rehabilitációs tevékenység terapeuta, 2.56. foglalkoztató |
 
-4. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^139]
+| 45.[^139] | 1005 Gyermektraumatológia | 2.8.–2.14. ápolói munkakör |
+
+| 46.[^140] | 4605 Sürgősségi betegellátás keretében szervezett gyermekellátás | 2.8.–2.14. ápolói munkakör, 2.28.–2.29., 2.32.–2.33., 2.68. és 2.71. |
+
+4. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^141]
 
 Orvosok, szakorvosok, fogorvosok, szakfogorvosok illetmény-, illetve bértáblája
 
-[^139]: A 4. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
+[^139]: A 3a. mellékletben foglalt táblázat 45. sorát a 383/2025. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^140]: A 3a. mellékletben foglalt táblázat 46. sorát a 383/2025. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^141]: A 4. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § a) pontjával megállapított szöveg.

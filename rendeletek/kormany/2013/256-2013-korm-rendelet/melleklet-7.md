@@ -38,8 +38,8 @@
 
 | 17 | 49–51 | 84 386 | 271 385 | 271 385 |
 
-7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^142]
+7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^144]
 
 Egészségügyi szakdolgozók, egyes egészségügyben dolgozók, valamint védőnők illetmény-, illetve bértáblája (Ft/hó, bruttó)
 
-[^142]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 181/2023. (V. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^144]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 181/2023. (V. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
