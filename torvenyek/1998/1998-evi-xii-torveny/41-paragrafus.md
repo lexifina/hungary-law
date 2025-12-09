@@ -8,7 +8,7 @@ c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére 
 
 d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet,
 
-e) a külpolitikáért felelős miniszter által kiadott útlevelek kiadásának és kezelésének részletes szabályait.
+e) a külpolitikáért felelős miniszter által kiadott úti okmányok kiadásának és kezelésének részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy az adatkezelő szervet rendeletben jelölje ki.
 
