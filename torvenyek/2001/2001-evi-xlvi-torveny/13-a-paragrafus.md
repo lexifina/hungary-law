@@ -6,8 +6,8 @@
 
 (3) Az uniós polgárnak és az őt kísérő családtagjának nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.
 
-(4) A tagállamok területén vagy harmadik államban képviselettel nem rendelkező uniós polgár kérelmére vagy állampolgársága szerinti tagállam kérelmére, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, részére a konzuli szolgálat ideiglenes úti okmányt (emergency travel document) állíthat ki.
+(4) A tagállamok területén vagy harmadik államban képviselettel nem rendelkező uniós polgár kérelmére vagy állampolgársága szerinti tagállam kérelmére, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, részére a konzuli szolgálat uniós ideiglenes úti okmányt állíthat ki.
 
-(5) A konzuli szolgálat a (4) bekezdés szerinti uniós polgárt kísérő, valamely tagállam területén jogszerűen tartózkodó családtagjának az uniós polgár állampolgársága szerinti tagállam kérésére ideiglenes úti okmányt (emergency travel document) állíthat ki.
+(5) A konzuli szolgálat a (4) bekezdés szerinti uniós polgárt kísérő, valamely tagállam területén jogszerűen tartózkodó családtagjának az uniós polgár állampolgársága szerinti tagállam kérésére uniós ideiglenes úti okmányt állíthat ki.
 
-(6) A konzuli szolgálat másik tagállam kifejezett kérésére ideiglenes úti okmányt (emergency travel document) állíthat ki olyan személyek részére, akik számára az érintett tagállamnak kötelessége védelmet nyújtani és akik jogszerűen tartózkodnak egy tagállamban.
+(6) A konzuli szolgálat másik tagállam kifejezett kérésére uniós ideiglenes úti okmányt állíthat ki olyan személyek részére, akik számára az érintett tagállamnak kötelessége védelmet nyújtani és akik jogszerűen tartózkodnak egy tagállamban.

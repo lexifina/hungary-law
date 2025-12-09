@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-46-00-00
 | 2023-06-15 | 2023. évi XXII. törvény | 2001-46-00-00.21 |
 | 2024-07-01 | 2023. évi LXXXII. törvény | 2001-46-00-00.22 |
 | 2024-07-02 | 2024. évi XXIV. törvény | 2001-46-00-00.24 |
+| 2025-12-09 | 2024. évi LXXXIV. törvény | 2001-46-00-00.25 |

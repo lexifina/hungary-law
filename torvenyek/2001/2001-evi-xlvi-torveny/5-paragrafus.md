@@ -12,7 +12,7 @@ c) közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi 
 
 (2a) A tiszteletbeli konzuli képviselő a külföldre utazásról szóló 1998. évi XII. törvény 20. § (1) bekezdése alapján érvényét vesztett útlevelet átveszi.
 
-(2b) Képviselettel nem rendelkező magyar állampolgár részére ideiglenes úti okmányt (emergency travel document) más tagállam konzuli szolgálata állíthat ki.
+(2b) Képviselettel nem rendelkező magyar állampolgár részére uniós ideiglenes úti okmányt más tagállam konzuli szolgálata állíthat ki.
 
 (3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – hazatérési kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről.
 
