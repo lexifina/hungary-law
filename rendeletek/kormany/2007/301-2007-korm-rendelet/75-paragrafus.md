@@ -1,8 +1,8 @@
 75. § (1) Az elismerését kérőnek személyes meghallgatása alkalmával a menekültügyi hatóság részére át kell adnia a rendelkezésére álló, az elismerés iránti kérelmet alátámasztó és még elő nem terjesztett bizonyítékait. E kötelezettségére az elismerését kérőt a meghallgatás megkezdésekor figyelmeztetni kell.
 
-(1a)[^208] Az (1) bekezdés valamint a Tv. 5. § (2) bekezdés a) pontja alapján a menekültügyi hatóságnak átadott okmány és okirati bizonyíték eredetiségét a menekültügyi hatóság szakértő bevonásával vizsgálhatja és a menekültügyi eljárás lezárásáig a törvényben foglalt feladatai végrehajtásával összefüggésben magánál tarthatja.
+(1a)[^209] Az (1) bekezdés valamint a Tv. 5. § (2) bekezdés a) pontja alapján a menekültügyi hatóságnak átadott okmány és okirati bizonyíték eredetiségét a menekültügyi hatóság szakértő bevonásával vizsgálhatja és a menekültügyi eljárás lezárásáig a törvényben foglalt feladatai végrehajtásával összefüggésben magánál tarthatja.
 
-(1b)[^209] A Tv. 41. § (1) bekezdés a) és b) pontjával összefüggésben, ha a kérelmező állításait nem támasztják alá dokumentumok vagy egyéb bizonyítékok és ezek beszerzése a kérelmezőtől az általa – különösen a menekülési körülményei vonatkozásában – elmondottakra tekintettel észszerűen nem várható el, a kérelmezőnek állításait nem kell bizonyítania, ha
+(1b)[^210] A Tv. 41. § (1) bekezdés a) és b) pontjával összefüggésben, ha a kérelmező állításait nem támasztják alá dokumentumok vagy egyéb bizonyítékok és ezek beszerzése a kérelmezőtől az általa – különösen a menekülési körülményei vonatkozásában – elmondottakra tekintettel észszerűen nem várható el, a kérelmezőnek állításait nem kell bizonyítania, ha
 
 a) láthatóan mindent megtett kérelmének alátámasztása érdekében,
 
@@ -20,5 +20,5 @@ e) általánosságban megállapítható a kérelmező szavahihetősége.
 
 (4) A meghallgatásról készült jegyzőkönyvnek tolmács, illetve szakértő igénybevétele esetén tartalmaznia kell a hamis tolmácsolás, illetve a hamis véleményadás következményeire való figyelmeztetés megtörténtét, valamint annak tudomásulvételét.
 
-[^208]: A 75. § (1a) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 29. §-a iktatta be.
-[^209]: A 75. § (1b) bekezdését a 304/2019. (XII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^209]: A 75. § (1a) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 29. §-a iktatta be.
+[^210]: A 75. § (1b) bekezdését a 304/2019. (XII. 12.) Korm. rendelet 3. §-a iktatta be.

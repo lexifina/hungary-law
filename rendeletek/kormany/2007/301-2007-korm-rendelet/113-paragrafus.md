@@ -1,7 +1,7 @@
-113. §[^256] (1) E rendeletnek az egyes migrációs és menekültügyi tárgyú kormányrendeletek módosításáról szóló 62/2016. (III. 31.) Korm. rendelettel (a továbbiakban: Módkr1.) megállapított rendelkezéseit a Módkr1. hatálybalépése[^257] után indult ügyekben kell alkalmazni.
+113. §[^257] (1) E rendeletnek az egyes migrációs és menekültügyi tárgyú kormányrendeletek módosításáról szóló 62/2016. (III. 31.) Korm. rendelettel (a továbbiakban: Módkr1.) megállapított rendelkezéseit a Módkr1. hatálybalépése[^258] után indult ügyekben kell alkalmazni.
 
-(2) A Módkr1. hatálybalépését[^258] megelőzően az e rendelet alapján biztosított támogatásokat a támogatás megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e rendeletnek a Módkr1.-gyel megállapított rendelkezései azokat nem érintik.
+(2) A Módkr1. hatálybalépését[^259] megelőzően az e rendelet alapján biztosított támogatásokat a támogatás megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e rendeletnek a Módkr1.-gyel megállapított rendelkezései azokat nem érintik.
 
-[^256]: A 113. § e rendelet 109. § (2) bekezdése alapján hatályát vesztette, újonnan a 62/2016. (III. 31.) Korm. rendelet 6. §-a iktatta be.
-[^257]: A hatálybalépés napja 2016. április 1.
+[^257]: A 113. § e rendelet 109. § (2) bekezdése alapján hatályát vesztette, újonnan a 62/2016. (III. 31.) Korm. rendelet 6. §-a iktatta be.
 [^258]: A hatálybalépés napja 2016. április 1.
+[^259]: A hatálybalépés napja 2016. április 1.

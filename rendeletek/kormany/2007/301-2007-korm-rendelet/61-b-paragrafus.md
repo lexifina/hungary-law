@@ -1,6 +1,6 @@
-61/B. §[^163] (1) Különösen indokolt esetben költségmentességet vagy részleges költségmentességet lehet engedélyezni, ha a menedékjogot élvező személy
+61/B. §[^164] (1) Különösen indokolt esetben költségmentességet vagy részleges költségmentességet lehet engedélyezni, ha a menedékjogot élvező személy
 
-a)[^164] és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegének 150%-át, és
+a)[^165] és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegének 150%-át, és
 
 b) az Európai Gazdasági Térség országaiban ingatlantulajdonnal nem, vagy kizárólag a lakhelyéül szolgáló ingatlan tulajdonával rendelkezik, vagy
 
@@ -10,5 +10,5 @@ c) ha a menedékjogot élvező személy különös méltánylást érdemlő kör
 
 (3) Az ingatlantulajdonra, a tulajdoni részesedésre és az ingatlan becsült forgalmi értékére vonatkozóan – elsősorban – a menedékjogot élvező személy nyilatkozata az irányadó.
 
-[^163]: A 61/B. §-t a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 46. §-a iktatta be.
-[^164]: A 61/B. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 31. § e) pontja szerint módosított szöveg.
+[^164]: A 61/B. §-t a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 46. §-a iktatta be.
+[^165]: A 61/B. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 31. § e) pontja szerint módosított szöveg.

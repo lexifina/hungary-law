@@ -1,8 +1,8 @@
-## Az őrizet végrehajtására szolgáló létesítményekre vonatkozó követelmények[^93]
+## Az őrizet végrehajtására szolgáló létesítményekre vonatkozó követelmények[^94]
 
-36/D. §[^94] (1) Az őrizet olyan épületben vagy épületrészben létesíthető, ahol
+36/D. §[^95] (1) Az őrizet olyan épületben vagy épületrészben létesíthető, ahol
 
-a)[^95] az elismerését kérő elhelyezésére szolgáló helyiségekben fejenként lehetőség szerint legalább 15 m3 légtér és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,
+a)[^96] az elismerését kérő elhelyezésére szolgáló helyiségekben fejenként lehetőség szerint legalább 15 m3 légtér és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,
 
 b) az étkezés, a szabadidő eltöltésére, beleértve a kiskorú elismerését kérő korának megfelelő játék- és rekreációs tevékenységet, illetve a látogatók fogadására alkalmas közösségi helyiség,
 
@@ -36,14 +36,14 @@ b) a házastársakat, valamint
 
 c) a kiskorú gyermekkel rendelkező családokat,
 
-d)[^96] őrizet és az előzetes letartóztatás hatálya alatt lévő személyeket
+d)[^97] őrizet és az előzetes letartóztatás hatálya alatt lévő személyeket
 
 külön épületben vagy épületrészben kell elhelyezni.
 
-(4)[^97] Az őrizet végrehajtására szolgáló létesítményben az elhelyezés során figyelembe kell venni az elismerését kérő nyilvántartott nemétől eltérő nemi identitását.
+(4)[^98] Az őrizet végrehajtására szolgáló létesítményben az elhelyezés során figyelembe kell venni az elismerését kérő nyilvántartott nemétől eltérő nemi identitását.
 
-[^93]: A 36/D. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
-[^94]: A 36/D. §-t a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
-[^95]: A 36/D. § (1) bekezdés a) pontja a 204/2015. (VII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^96]: A 36/D. § (3) bekezdés d) pontját a 260/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
-[^97]: A 36/D. § (4) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 43. §-a iktatta be.
+[^94]: A 36/D. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
+[^95]: A 36/D. §-t a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
+[^96]: A 36/D. § (1) bekezdés a) pontja a 204/2015. (VII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^97]: A 36/D. § (3) bekezdés d) pontját a 260/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
+[^98]: A 36/D. § (4) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 43. §-a iktatta be.

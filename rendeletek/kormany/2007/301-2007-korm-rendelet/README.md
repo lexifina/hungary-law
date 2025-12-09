@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2023-01-01 | 2007-301-20-22.42 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-03-07 | 2007-301-20-22.41 | 15/2013. (I. 28.) Korm. rendelet |
 | 2024-03-01 | 2007-301-20-22.43 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2025-12-09 | 2007-301-20-22.44 | 479/2024. (XII. 31.) Korm. rendelet |

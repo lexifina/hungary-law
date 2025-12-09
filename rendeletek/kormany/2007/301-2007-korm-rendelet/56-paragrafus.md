@@ -1,3 +1,3 @@
-56. §[^147]
+56. §[^148]
 
-[^147]: Az 55–58. §-t és az 55. §-t megelőző alcímet a 62/2016. (III. 31.) Korm. rendelet 8. § j) pontja hatályon kívül helyezte.
+[^148]: Az 55–58. §-t és az 55. §-t megelőző alcímet a 62/2016. (III. 31.) Korm. rendelet 8. § j) pontja hatályon kívül helyezte.

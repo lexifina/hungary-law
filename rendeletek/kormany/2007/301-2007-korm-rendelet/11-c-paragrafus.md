@@ -14,9 +14,10 @@ d) az oltalmazott úti okmánya,
 
 e) a menedékes úti okmánya,
 
-f) a menekült, oltalmazott és a menedékes egyszeri visszautazásra jogosító úti okmánya, továbbá
+f)[^23]
 
 g) a menedékes áttelepülése céljából kiállított okmány.
 
 [^21]: A 11/B. §-t és az azt megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 59. §-a iktatta be.
 [^22]: A 11/C. §-t és az azt megelőző alcímet a 411/2017. (XII. 15.) Korm. rendelet 41. §-a iktatta be.
+[^23]: A 11/C. § f) pontját a 479/2024. (XII. 31.) Korm. rendelet 21. §-a hatályon kívül helyezte.
