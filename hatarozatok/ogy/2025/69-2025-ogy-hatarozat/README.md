@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-69-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-12-08 | 2025-69-30-41.1 | 69/2025. (XII. 10.) OGY határozat |
+| 2025-12-09 | 2025-69-30-41.2 | 2010. évi CXXX. törvény |
