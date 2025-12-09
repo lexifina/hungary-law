@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-37-20-0
 | 2019-11-15 | 1998-37-20-0A.20 | 38/2019. (XI. 7.) BM rendelet |
 | 2021-08-02 | 1998-37-20-0A.21 | 24/2021. (VII. 30.) BM rendelet |
 | 2023-01-01 | 1998-37-20-0A.22 | 24/2021. (VII. 30.) BM rendelet |
+| 2025-12-09 | 1998-37-20-0A.23 | 17/2024. (XII. 23.) MK rendelet |

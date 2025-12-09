@@ -2,6 +2,6 @@
 
 11. § (1) Ez a rendelet 1998. szeptember 1-jén lép hatályba.
 
-(2)[^21]
+(2)[^22]
 
-[^21]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 185. pontja hatályon kívül helyezte.
+[^22]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 185. pontja hatályon kívül helyezte.

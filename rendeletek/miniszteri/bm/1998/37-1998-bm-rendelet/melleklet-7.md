@@ -4,6 +4,8 @@
 
 |  |  |  |  | Igénylő saját kezű aláírása Írásképtelen kérelmező esetén törvényes képviselő aláírása. |  |
 
+## 6M08677_1
+
 |  | Ideiglenes magánútlevél hazautazás céljából igénylése: továbbutazás céljából |
 
 |  | Ideiglenes magánútlevél Címke sorszáma: száma: |
@@ -12,9 +14,9 @@
 
 ## A vastagon bekeretezett részt a Kérelmező tölti ki.
 
-7. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^32]
+7. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^33]
 
-## A menekültként elismert személy kétnyelvű úti okmánya, az oltalmazottként elismert személy úti okmánya, valamint a menedékes úti okmánya iránti kérelem adattartalma
+A menekültként elismert személy kétnyelvű úti okmánya, az oltalmazottként elismert személy úti okmánya, valamint a menedékes úti okmánya iránti kérelem adattartalma
 
 1. A kérelmező
 
@@ -46,4 +48,4 @@
 
 4. A benyújtás dátuma
 
-[^32]: A 7. mellékletet a 38/2019. (XI. 7.) BM rendelet 1. § (3) bekezdése iktatta be.
+[^33]: A 7. mellékletet a 38/2019. (XI. 7.) BM rendelet 1. § (3) bekezdése iktatta be.
