@@ -1,0 +1,1 @@
+154/A. § Magyarország hivatásos konzuli tisztviselője uniós ideiglenes úti okmányt ad ki annak a Magyarország által hontalanként elismert személynek, akinek úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.

@@ -1,4 +1,4 @@
-260. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító okmányt kérelmező harmadik országbeli állampolgár következő adatait kezeli:
+260. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító úti okmányt kérelmező harmadik országbeli állampolgár következő adatait kezeli:
 
 a) a természetes személyazonosító adatokat,
 

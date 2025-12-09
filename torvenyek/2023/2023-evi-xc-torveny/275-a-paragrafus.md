@@ -1,0 +1,1 @@
+275/A. § Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból az uniós ideiglenes úti okmány kiállítása érdekében lefolytatott konzultáció céljából a magyar külképviseletek részére továbbít adatot.
