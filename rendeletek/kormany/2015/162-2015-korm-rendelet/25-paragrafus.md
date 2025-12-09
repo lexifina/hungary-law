@@ -1,6 +1,6 @@
 ## 16. A költségtérítéses szakképzés szakképzési díja
 
-25. § (1)[^115] Az egyetem a szakvizsgával már rendelkező és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb az Eszjtv. 1. melléklete szerinti 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembevételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag szedhető be.
+25. § (1)[^116] Az egyetem a szakvizsgával már rendelkező és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb az Eszjtv. 1. melléklete szerinti 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembevételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag szedhető be.
 
 (2) Az (1) bekezdés szerinti szakképzési díj
 
@@ -16,4 +16,7 @@ foglalja magába.
 
 (5) Az e fejezetben nem szabályozott esetekben a költségtérítéses képzésben részt vevő jelöltek képzési díját az egyetem állapítja meg és a honlapján közzéteszi.
 
-[^115]: A 25. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § p) pontja szerint módosított szöveg.
+(6)[^117] A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 11. § (5) bekezdése szerinti egyéni képzési terv alapján folytatott háziorvostan szakképzés időszakára, a képzést koordináló egyetem az (1) bekezdésben meghatározott képzési díjra jogosult. A képzési díj megfizetését az OKFŐ a helyettesítő háziorvosi ellátás biztosítására a Nemzeti Egészségbiztosítási Alapkezelőtől kapott finanszírozás terhére köteles biztosítani.
+
+[^116]: A 25. § (1) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § p) pontja szerint módosított szöveg.
+[^117]: A 25. § (6) bekezdését a 383/2025. (XII. 8.) Korm. rendelet 4. §-a iktatta be.

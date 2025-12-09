@@ -26,7 +26,9 @@ a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) 
 
 (6)[^109] Mentesül a visszatérítési kötelezettség alól a rezidens, ha egészségügyi okból válik alkalmatlanná a szakképzés befejezésére. A mentesítésről az OKFŐ főigazgatója független szakorvosi vélemény alapján dönt.
 
-(7)[^110] Ideiglenesen mentesül a visszafizetési kötelezettség alól az a rezidens, aki a szakvizsga megszerzését a 21/A. § alapján meghatározott határidőig vállalta, azonban valamely méltányolható ok miatt nem tudja teljesíteni, de a határidő lejártakor igazoltan képzésben vesz részt. Az ideiglenes mentesítésről az OKFŐ főigazgatója dönt a méltányolható ok figyelembevételével. A mentesítés feltétele, hogy a rezidens képzését irányító intézmény nyilatkozzon a szakképzés befejezésének várható időpontjáról, és ezen időpontig a rezidens vállalja a szakvizsga letételét.
+(6a)[^110] A (6) bekezdésben foglaltakon túl mentesül a rezidens a visszafizetési kötelezettsége alól, amennyiben a 18 éven aluli súlyosan beteg gyermeke tartós ápolása, gondozása okán válik lehetetlenné a szakképzés befejezése vagy az ösztöndíj szerződésben vállalt kötelezettségeinek teljesítése. A mentesítésről az OKFŐ főigazgatója a rezidens kérelmében foglaltak és az ahhoz csatolt dokumentumok alapján dönt.
+
+(7)[^111] Ideiglenesen mentesül a visszafizetési kötelezettség alól az a rezidens, aki a szakvizsga megszerzését a 21/A. § alapján meghatározott határidőig vállalta, azonban valamely méltányolható ok miatt nem tudja teljesíteni, de a határidő lejártakor igazoltan képzésben vesz részt. Az ideiglenes mentesítésről az OKFŐ főigazgatója dönt a méltányolható ok figyelembevételével. A mentesítés feltétele, hogy a rezidens képzését irányító intézmény nyilatkozzon a szakképzés befejezésének várható időpontjáról, és ezen időpontig a rezidens vállalja a szakvizsga letételét.
 
 (8) Ha a rezidens a (7) bekezdésben meghatározott határidőig nem szerez szakvizsgát, a (2)–(5) bekezdés szerint köteles a támogatás visszatérítésére.
 
@@ -37,4 +39,5 @@ a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) 
 [^107]: A 22. § (2) bekezdése a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^108]: A 22. § (5) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^109]: A 22. § (6) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^110]: A 22. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^110]: A 22. § (6a) bekezdését a 383/2025. (XII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^111]: A 22. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-39. §[^183]
+39. §[^185]
 
-[^183]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez[^195]
+1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez[^197]
 
-[^195]: Az 1. mellékletet a 359/2016. (XI. 23.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.
+[^197]: Az 1. mellékletet a 359/2016. (XI. 23.) Korm. rendelet 6. § g) pontja hatályon kívül helyezte.

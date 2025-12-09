@@ -4,6 +4,6 @@
 
 ## 21. A Fiatal Szakorvosok Támogatási Programjának célja, tartalma és időtartama
 
-30. §[^143]
+30. §[^145]
 
-[^143]: A 30. §-t a 359/2016. (XI. 23.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^145]: A 30. §-t a 359/2016. (XI. 23.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

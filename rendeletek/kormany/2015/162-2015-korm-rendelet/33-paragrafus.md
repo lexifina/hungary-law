@@ -1,38 +1,38 @@
 ## 23. Átmeneti rendelkezések
 
-33. § (1)[^153] E rendelet rendelkezéseit – az (1a) és a (7) bekezdésben fogalt kivétellel – a szakképzésüket 2015. június 30-át követően megkezdőkre kell alkalmazni. A szakképzésüket 2015. július 1-jét megelőzően megkezdőkre az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet (a továbbiakban: Kr.1.) rendelkezéseit kell alkalmazni.
+33. § (1)[^155] E rendelet rendelkezéseit – az (1a) és a (7) bekezdésben fogalt kivétellel – a szakképzésüket 2015. június 30-át követően megkezdőkre kell alkalmazni. A szakképzésüket 2015. július 1-jét megelőzően megkezdőkre az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló 122/2009. (VI. 12.) Korm. rendelet (a továbbiakban: Kr.1.) rendelkezéseit kell alkalmazni.
 
-(1a)[^154] A szakorvos képzést
+(1a)[^156] A szakorvos képzést
 
 a) az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: Kr.2.) alapján megkezdő és a szakképzést 2015. július 1-jét követő időpontig szüneteltető személyek, valamint
 
 b) a Kr.1. alapján megkezdő és háziorvostan képzésre szakot váltó személyek,
 
-c)[^155] korábban már megkezdő, azonban azzal felhagyó jelöltek különösen méltányolható ok esetében az OKFŐ főigazgatójának döntése alapján
+c)[^157] korábban már megkezdő, azonban azzal felhagyó jelöltek különösen méltányolható ok esetében az OKFŐ főigazgatójának döntése alapján
 
 a szakképzésüket e rendelet szabályai szerint fejezhetik be. A szakképzésbe történő visszakapcsolódásra a szakképzésbe történő belépés e rendelet szerinti szabályai szerint kerülhet sor.
 
-(2)[^156]
+(2)[^158]
 
-(3)[^157]
+(3)[^159]
 
-(4)[^158]
+(4)[^160]
 
-(5)[^159]
+(5)[^161]
 
-(6)[^160] A 7. § (1a) és (1b) bekezdésben foglaltak a szakképzésüket a Kr.1 alapján megkezdőkre is alkalmazhatók.
+(6)[^162] A 7. § (1a) és (1b) bekezdésben foglaltak a szakképzésüket a Kr.1 alapján megkezdőkre is alkalmazhatók.
 
-(7)[^161] A szakképzést a Kr.1. alapján megkezdő, azonban 2015. június 30-át követően szakot vagy egészségügyi szolgáltatót váltó személyek képzésére, szakváltására és egészségügyi szolgáltató váltására az (1a) bekezdés b) pontjában foglalt kivétellel a Kr.1. rendelkezéseit kell alkalmazni.
+(7)[^163] A szakképzést a Kr.1. alapján megkezdő, azonban 2015. június 30-át követően szakot vagy egészségügyi szolgáltatót váltó személyek képzésére, szakváltására és egészségügyi szolgáltató váltására az (1a) bekezdés b) pontjában foglalt kivétellel a Kr.1. rendelkezéseit kell alkalmazni.
 
-(8)[^162]
+(8)[^164]
 
-[^153]: A 33. § (1) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 9. § a) pontja, a 359/2016. (XI. 23.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^154]: A 33. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 8. §-a iktatta be.
-[^155]: A 33. § (1a) bekezdés c) pontját a 250/2017. (IX. 5.) Korm. rendelet 65. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^156]: A 33. § (2) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
-[^157]: A 33. § (3) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
-[^158]: A 33. § (4) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
-[^159]: A 33. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § j) pontja hatályon kívül helyezte.
-[^160]: A 33. § (6) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 46. § a) pontja hatályon kívül helyezte, újonnan a 287/2018. (XII. 21.) Korm. rendelet 40. §-a iktatta be.
-[^161]: A 33. § (7) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^162]: A 33. § (8) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § j) pontja hatályon kívül helyezte.
+[^155]: A 33. § (1) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 9. § a) pontja, a 359/2016. (XI. 23.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^156]: A 33. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 8. §-a iktatta be.
+[^157]: A 33. § (1a) bekezdés c) pontját a 250/2017. (IX. 5.) Korm. rendelet 65. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^158]: A 33. § (2) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^159]: A 33. § (3) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^160]: A 33. § (4) bekezdését a 359/2016. (XI. 23.) Korm. rendelet 6. § f) pontja hatályon kívül helyezte.
+[^161]: A 33. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § j) pontja hatályon kívül helyezte.
+[^162]: A 33. § (6) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 46. § a) pontja hatályon kívül helyezte, újonnan a 287/2018. (XII. 21.) Korm. rendelet 40. §-a iktatta be.
+[^163]: A 33. § (7) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^164]: A 33. § (8) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § j) pontja hatályon kívül helyezte.
