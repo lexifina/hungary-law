@@ -1,10 +1,7 @@
-10/C. §[^51] (1)[^52] Az ideiglenes úti okmány kiállításához szükséges előzetes hozzájárulást – a (2) bekezdésben foglalt kivétellel – az ideiglenes úti okmány iránti kérelem benyújtásához legközelebb működő konzuli tisztviselő adja meg az EU tagállam képviselete részére.
+10/C. §[^56] (1) Az uniós ideiglenes úti okmány kiállításához szükséges előzetes hozzájárulást – a (2) bekezdésben foglalt kivétellel – az a hivatásos konzuli tisztviselő adja meg az EU tagállam képviselete részére, akinél az előzetes hozzájárulást kérték.
 
-(2)[^53] Amennyiben az EU tagállam képviselete az (1) bekezdésben meghatározott konzuli tisztviselőt eredménytelenül kereste meg, az ideiglenes úti okmány kiállításához szükséges előzetes hozzájárulást a külügyminiszter adja meg.
+(2) Ha az EU tagállam képviselete az (1) bekezdésben meghatározott konzuli tisztviselőt eredménytelenül kereste meg, az uniós ideiglenes úti okmány kiállításához szükséges előzetes hozzájárulást a külpolitikáért felelős miniszter adja meg.
 
-(3)[^54] A konzuli tisztviselő, illetve a külügyminiszter az EU tagállam képviselete által kiállított és megküldött, az ideiglenes úti okmány fénymásolatát tartalmazó iratot az okmány kiállításától számított egy évig megőrzi.
+(3) A konzuli tisztviselő, illetve a külpolitikáért felelős miniszter az EU tagállam képviselete által kiállított és megküldött, az uniós ideiglenes úti okmány fénymásolatát tartalmazó iratot az okmány kiállításától számított 180 napig megőrzi.
 
-[^51]: A 10/C. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
-[^52]: A 10/C. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^53]: A 10/C. § (2) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^54]: A 10/C. § (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^56]: A 10/C. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
