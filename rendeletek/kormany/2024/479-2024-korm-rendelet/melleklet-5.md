@@ -1,3 +1,5 @@
-5. melléklet a 479/2024. (XII. 31.) Korm. rendelethez[^73]
+5. melléklet a 479/2024. (XII. 31.) Korm. rendelethez
 
-[^73]: Az 5. melléklet a 83. § (3) bekezdése alapján 2025. december 9-én lép hatályba.
+A fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 10. melléklete a következő 48. ponttal egészül ki:
+
+„48. A magyar állampolgár uniós ideiglenes úti okmányának átvétele és továbbítása a külpolitikáért felelős miniszter részére”

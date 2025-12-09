@@ -1,3 +1,3 @@
-4. melléklet a 479/2024. (XII. 31.) Korm. rendelethez[^72]
+4. melléklet a 479/2024. (XII. 31.) Korm. rendelethez[^69]
 
-[^72]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

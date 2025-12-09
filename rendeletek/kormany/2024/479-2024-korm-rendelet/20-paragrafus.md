@@ -1,5 +1,5 @@
-## 5.[^7]
+## 5. A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet módosítása
 
-20. §
+20. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 117. § (1) bekezdése a következő p) ponttal egészül ki:
 
-[^7]: Az 5. alcím a 83. § (3) bekezdése alapján 2025. december 9-én lép hatályba.
+(E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:)

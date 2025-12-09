@@ -1,5 +1,3 @@
 ## 18. A fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet módosítása
 
-71. §[^57]
-
-[^57]: A 71. § a 83. § (3) bekezdése alapján 2025. december 9-én lép hatályba.
+71. § A fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 10. melléklete az 5. melléklet szerint módosul.
