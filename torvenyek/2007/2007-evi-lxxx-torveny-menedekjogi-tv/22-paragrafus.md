@@ -4,7 +4,7 @@
 
 a) személyazonosságát igazoló okmányra;
 
-b) külön jogszabályban meghatározott, egyszeri kiutazásra és visszatérésre jogosító úti okmányra, ha származási országa érvényes úti okmányával nem rendelkezik;
+b) uniós ideiglenes úti okmányra, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség;
 
 c) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra;
 

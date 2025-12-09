@@ -14,7 +14,7 @@ a) a jogszabályban meghatározott személyazonosító igazolványra és – ha 
 
 b) az e törvényben és más jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra,
 
-c)
+c) uniós ideiglenes úti okmányra, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
 
 (4) A menekült köteles
 

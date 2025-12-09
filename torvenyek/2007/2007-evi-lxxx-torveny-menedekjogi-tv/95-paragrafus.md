@@ -40,6 +40,10 @@ r) a harmadik országok illegálisan tartózkodó állampolgárainak visszatér�
 
 s) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv.
 
+t) az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelv,
+
+u) az (EU) 2019/997 tanácsi irányelvnek az uniós ideiglenes úti okmány géppel olvasható vizsgálati zónája tekintetében történő módosításáról szóló, 2024. május 6-i (EU) 2024/1986 felhatalmazáson alapuló bizottsági irányelv.
+
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
 a) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről szóló, 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (VIS-rendelet) [35. §, 83. §],

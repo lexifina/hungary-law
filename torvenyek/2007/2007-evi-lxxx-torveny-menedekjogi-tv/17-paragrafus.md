@@ -6,6 +6,8 @@
 
 (2a) Az oltalmazott úti okmányának kiállítását elutasító határozatot – a 10. § (5)–(7) bekezdésben foglaltaknak megfelelően – bírósági úton megtámadhatja.
 
+(2b) Az oltalmazott uniós ideiglenes úti okmányra jogosult, ha úti okmánya elveszett, ellopták, megsemmisült vagy egyéb okból nem szerezhető be ésszerű időn belül, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
+
 (3) Az oltalmazott nem rendelkezik választójoggal.
 
 (4) Az oltalmazottat nem illetik meg a magyar állampolgárságról szóló törvény szerinti, a menekültre vonatkozó kedvezményes honosítási feltételek.
