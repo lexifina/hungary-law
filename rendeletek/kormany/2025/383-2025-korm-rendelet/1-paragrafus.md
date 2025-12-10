@@ -16,6 +16,6 @@
 
 ## 1. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
 
-1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 29/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az (1) bekezdés szerinti program alapján kifizetendő teljesítmények utoljára a 2026. októberi teljesítményekkel, 2026 novemberében jelenthetőek a NEAK felé.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

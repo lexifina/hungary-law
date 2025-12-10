@@ -1,1 +1,3 @@
-5. § A 162/2015. (VI. 30.) Korm. rendelet 22/A. §-ában a „g) pontja” szövegrész helyébe az „e) és g) pontja” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
