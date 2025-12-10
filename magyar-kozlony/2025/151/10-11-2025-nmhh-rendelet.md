@@ -1,0 +1,272 @@
+# A Nemzeti Média- és Hírközlési Hatóság elnökének 11/2025. (XII. 10.) NMHH rendelete
+
+Magyar Közlöny 2025. évi 151. szám, 2025. december 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/mTFrRczu6GuI7b1rloVR6931e6374ddb4/dokumentumok/9734de7f6aa2afb6b8fa72d4010ad5b961b7a42a/letoltes)
+
+---
+
+A Nemzeti Média- és Hírközlési Hatóság elnökének 11/2025. (XII. 10.) NMHH rendelete
+a védelmi és biztonsági célú lakossági riasztási rendszer műszaki követelményeiről
+[1] A rendelet célja, hogy – az elektronikus hírközlésről szóló 2003. évi C. törvény 145/B–145/D. §-a, valamint a védelmi és
+biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 71. §-a szerinti szabályozással összhangban –
+megállapítsa azokat a műszaki követelményeket, amelyek mobil rádiótelefon-technológia igénybevételével lehetővé teszik
+riasztási üzenet közel egyidejű továbbítását azon eszközökre, amelyek a riasztási célterületként meghatározott földrajzi
+területen találhatóak.
+[2] A védelmi és biztonsági célú lakossági riasztási rendszer által küldött üzenet címzettje nem konkrét felhasználó, hanem
+a mobil rádiótelefon-hálózaton honos és barangoló, az üzenetek fogadására képes mobil eszközök automatikusan
+megkapják azokat. Ennek biztosítása érdekében szükséges a védelmi és biztonsági igazgatás központi szerve,
+az üzemeltető szervezet, valamint az érintett elektronikus hírközlési szolgáltatók közötti együttműködés és a megfelelő
+hálózati technológiák műszaki specifikációjának e rendelet szerinti összehangolása.
+[3] Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (3) bekezdés 17. pontjában kapott felhatalmazás alapján,
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) bekezdésében
+meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+E rendelet alkalmazásában
+ 1. CAP üzenet: a CBE által előállított, az OASIS nemzetközi szabványügyi szervezet által kiadott CAP szabvány
+v1.2 verziójának megfelelő üzenet;
+
+ 2. CBC: a CBS azon központi komponense a szolgáltatók hálózataiban, amely kapcsolatot tart a CBE és
+a szolgáltató bázisállomásai között, ennek keretében fogadja a CBE által előkészített és továbbított
+CAP üzeneteket, a CB célterület alapján meghatározza, hogy mely cellákba kell továbbítani a CB üzenetet,
+valamint továbbítja a CB üzenetet a megfelelő bázisállomások számára;
+ 3. CB célterület: a CAP üzenetben meghatározott földrajzi terület, amelyet poligon, földrajzi koordináta és egy
+hozzá tartozó sugár által meghatározott kör alapú terület vagy egy előre definiált geokód határoz meg;
+ 4. CBE: a CBS azon központi komponense, amelyen megvalósul a CAP üzenet létrehozása és az üzenet
+továbbításának kezdeményezése a CBC-k felé;
+ 5. CBE üzemeltető: jogszabályban a CBE üzemeltetésére felhatalmazott jogi személy;
+ 6. CBS: az ETSI TS 123 041:2025 szabvány műszaki tartalmán alapuló, mobilkommunikációs technológia, amely
+lehetővé teszi szöveges üzenetek központi helyről történő küldését egy időben nagyszámú mobil eszközre,
+meghatározott földrajzi területen, felhasználótól függetlenül, a válaszadás lehetősége nélkül;
+ 7. CB üzenet: a mobil bázisállomások által a CAP üzenet szerinti paramétereknek megfelelően kisugárzott
+olyan szöveges üzenet, amelyet a lefedettségi területen lévő, CB üzenet fogadására képes mobil eszközök
+automatikusan megkapnak, megjelenítenek;
+ 8. IPsec: az IETF szabványügyi szervezet dokumentumaiban meghatározott protokollcsomag, amely
+az IP-alapú hálózati kommunikáció biztonságossá tételére szolgál, titkosítással, hitelesítéssel és
+adatintegritás-védelemmel;
+ 9. poligon: CB célterület leírására alkalmas IETF RFC 7946 szabvány szerinti GeoJSON térinformatikai adatcsere
+formátumú zárt geometriai alakzat;
+10. site-to-site VPN: telephelyek közötti VPN kapcsolat;
+11. szolgáltató: mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató;
+12. VPN: virtuális magánhálózat, amely lehetővé teszi a felhasználóknak, hogy úgy kommunikáljanak egymással,
+úgy vegyenek igénybe szolgáltatásokat a nyilvános, nyílt hozzáférésű hálózaton keresztül, mintha
+az eszközeik közvetlenül a zárt és védett magánhálózathoz csatlakoznának.
+2. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény 145/B. § (1) bekezdése szerinti védelmi és biztonsági célú
+lakossági riasztási rendszer működtetése a CBS útján valósul meg.
+(2) A CBE üzemeltető legalább kettő – egy aktív, valamint egy készenléti üzemmódban lévő – CBE-t üzemeltet, és az év
+minden napján biztosítja azok folyamatos felügyeletét. A CBE üzemeltető biztosítja, hogy a CBE-k rendelkezésre
+állása éves szinten legalább 99,9% legyen.
+(3) A CBE üzemeltető a CBE-ket egymástól földrajzilag oly módon elkülönítve helyezi el, hogy képesek legyenek
+az egymást helyettesítő működésre. A CBE üzemeltető biztosítja a helyettesítés automatikus vagy manuális
+beállítását.
+(4) A szolgáltató hálózatában legalább kettő – egymással nem szükségszerűen szinkronizált – CBC-t üzemeltet, és az év
+minden napján biztosítja azok folyamatos felügyeletét. A szolgáltató biztosítja, hogy a CBC-k rendelkezésre állása
+éves szinten legalább 99,9% legyen.
+(5) A szolgáltató a CBC-ket egymástól földrajzilag oly módon elkülönítve helyezi el, hogy képesek legyenek az egymást
+helyettesítő működésre. A CBC bármely CBE-től érkező CAP üzenetet az abban foglaltaknak megfelelően kezel,
+a CBE üzemmódjának ellenőrzése nélkül.
+(6) A szolgáltató hálózatában tesztcélú CBC-t üzemeltethet. A CBE üzemeltető biztosítja, hogy a CBE-k
+megkülönböztessék a CBC-t és a tesztcélú CBC-t. Tesztelés az 5. § (1) bekezdés f) pontja szerinti teszt üzenet küldése
+útján lehetséges.
+3. § (1) A CBE-k egymástól független adatátviteli utakon kapcsolódnak a CBC-khez. A CBE-k és a CBC-k nem változó
+nyilvános IP címekkel rendelkeznek.
+(2) A CBE és a CBC között közvetlen IP alapú adatátviteli kapcsolat kiépítéséhez felhasználhatók a kormányzati célú
+hálózat és a szolgáltató hálózata között már meglévő összeköttetések, szolgáltatásátadási pontok.
+(3) A CBE és a CBC együttműködését a CBE-CBC interfész biztosítja, amelynek rendelkezésre állása éves szinten
+legalább 99,9%. A CBC-nek alkalmasnak kell lennie – a CBE üzemeltető által meghatározott és a szolgáltató
+rendelkezésére bocsátott interfész specifikáció útján – a CBE-vel való együttműködésre.
+(4) A fizikai adatkapcsolat a szolgáltató és a CBE üzemeltető közötti megállapodás szerint kerülhet kialakításra,
+figyelemmel arra, hogy
+
+a) a CBE szerver nem változó nyilvános IP címeken éri el a CBC szervert az interneten, a Nemzeti Távközlési
+Gerinchálózaton keresztül, site-to-site VPN kapcsolattal és IPsec védelemmel, vagy
+b) a CBE és a CBC szerverei adatközpontokon keresztül kapcsolódnak egymáshoz, szükség szerint site-to-site
+VPN kapcsolattal és IPsec védelemmel.
+(5) A CBE üzemeltető által meghatározott szolgáltatásátadási pontoktól a szolgáltató a hálózatáig saját költségén
+alakítja ki az összeköttetést és üzemelteti a berendezéseket, illetve a szolgáltató viseli a 2. § (4) bekezdése szerinti
+rendelkezésre állással való kiépítési, létesítési és üzemeltetési költségeket. A CBE üzemeltető által meghatározott
+szolgáltatásátadási pontoktól a szolgáltató hálózatáig az összeköttetés továbbkábelezése a szolgáltató feladata és
+költsége.
+(6) A CBE és a CBC közötti kommunikáció titkosított csatornán történik, az 1. mellékletben foglaltak szerint.
+A tanúsítványkezelés a CBE üzemeltető feladata.
+4. § (1) A CBE és a CBC közötti kommunikáció alkalmazási szinten elsődlegesen XML formátumban történik. A CBE üzemeltető
+és a szolgáltató biztosítja, hogy a CBE és a CBC közötti kommunikáció az ETSI TS 102 900 V1.4.1 (2023-06) szabvány
+tartalmával összhangban megfeleljen az OASIS nemzetközi szabványügyi szervezet által kiadott CAP szabvány
+v1.2 verziója (a továbbiakban: CAP v1.2 szabvány) alapján – a védelmi és biztonsági igazgatás központi szerve
+által – meghatározott és közzétett követelményeknek. A CBE üzemeltető biztosítja továbbá, hogy a CBE kezelje
+mindazon eltéréseket, amelyek az egyes szolgáltatók CBC-inek kommunikációjában a CAP v1.2 szabványnak történő
+megfelelés mellett esetlegesen fennállnak.
+(2) Az aktív CBE minden szolgáltató esetében az elsődleges CBC-ként megjelölt CBC-vel tart kapcsolatot.
+A CBE üzemeltető biztosítja, hogy valamennyi CBE rendszeres időközönként állapotjelző üzenet küldésével
+folyamatosan ellenőrizze minden szolgáltató esetében az összes CBC elérhetőségét és a fennálló kapcsolat
+működőképességét. Ha az elsődlegesen megjelölt CBC működésképtelen, a CBE a szolgáltató másik CBC-jének küldi
+meg az üzeneteket.
+(3) Az ETSI TS 102 900 szabvány szerinti EU üzenettípusok és szintek, valamint az üzenettípusra vonatkozó,
+az ETSI TS 123 041 szabvány szerinti CB üzenetazonosítók és a GSMA szabvány szerinti kódok CAP v1.2 szabványnak
+történő megfeleltetését a 2. melléklet tartalmazza.
+5. § (1) A CBE és a CBC közötti üzenet tartalma szerint
+a) riasztás,
+b) törlés,
+c) visszaigazolás,
+d) hibajelzés,
+e) állapotjelző vagy
+f) teszt
+üzenet lehet.
+(2) A riasztási tartalmú CAP üzenet tartalmazza legalább a CB üzenetet, a küldés időzítését, a CB üzenet szintjét,
+prioritását és érvényességi idejét, a CB célterületet, az üzenet és a küldő CBE egyedi azonosítóját. A CBC-nek és
+a CBE-nek alkalmasnak kell lennie 100 koordinátát tartalmazó poligon által meghatározott CB célterület kezelésére.
+(3) A törlést tartalmazó CAP üzenetben a CB célterületnek azonosnak kell lennie a törölni kívánt, egyedi azonosító
+alapján meghatározott eredeti – riasztást tartalmazó – CAP üzenetben meghatározott CB célterülettel. Törlést
+tartalmazó CAP üzenet esetén a CBC – a CBE felé történő visszaigazolás üzenetküldést követően – a CB üzenet
+kiküldését haladéktalanul leállítja és naplózza.
+(4) A CBE és a CBC közötti kommunikációt a CBE üzemeltető – a 3. § (6) bekezdésében meghatározott azonosítás után –
+riasztás vagy törlés tartalmú CAP üzenet küldésével kezdeményezi.
+(5) A (4) bekezdés szerinti kezdeményezés esetén a CBC 3 percen belül
+a) visszaigazolást tartalmazó üzenetet küld a CBE-nek, ha az interfészen sikeresen és teljeskörűen fogadta
+a hitelesített CAP üzenetet, vagy
+b) hibajelzést tartalmazó üzenetet küld a CBE-nek, ha nem kapta meg teljeskörűen vagy hibátlanul, vagy
+ha nem tudta hitelesíteni, illetve értelmezni a CAP üzenetet.
+(6) A szolgáltató saját döntése alapján nem módosíthatja, nem törölheti a CAP és a CB üzenetet. A CAP és a CB üzenet
+bármely elemének módosítása a CBE által küldött törlést tartalmazó CAP üzenet, majd új – riasztást tartalmazó –
+CAP üzenet küldése útján történik.
+
+(7) Az (1) bekezdésben meghatározott üzenet tartalmának CAP v1.2 szabványnak történő megfeleltetését a 3. melléklet
+tartalmazza.
+6. § (1) A szolgáltató a CB üzenetet a 4G LTE és 5G NSA technológián alapuló mobil rádiótelefon-hálózatán, valamint
+– ha a szolgáltató 5G SA technológián alapuló mobil rádiótelefon-hálózatot használó előfizetőinek száma eléri
+az összes mobil rádiótelefon-szolgáltatást igénybe vevő előfizetőjének 5%-át – 5G SA technológián alapuló mobil
+rádiótelefon-hálózatán is haladéktalanul kiküldi, ha az adott technológia a szolgáltató hálózatában a CB célterületen
+támogatott. Az 5G SA technológián alapuló mobil rádiótelefon-hálózatot használó előfizetők meghatározásakor
+figyelmen kívül kell hagyni azokat a mobil eszközöket, amelyekről nem lehet hívást kezdeményezni és fogadni.
+(2) A szolgáltató biztosítja, hogy a CBC a CAP üzenetben foglalt adatok alapján automatikusan meghatározza, hogy
+a mobil rádiótelefon-hálózattal lefedett, a szolgáltató (1) bekezdés szerinti hálózatán belül mely bázisállomások
+mely celláin kell kisugározni a CB üzenetet a cellákhoz kapcsolódó mobil eszközökre.
+(3) A CB célterületet lefedő bázisállomásokat és cellákat a szolgáltató úgy határozza meg, hogy a lehető legkisebb
+legyen a felesleges és az elmulasztott riasztás előfordulásának valószínűsége, és a CB üzenettel ténylegesen elért
+terület ne legyen nagyobb, mint a CB célterület ellátását dominánsan biztosító cellák együttes ellátási területe.
+(4) A szolgáltató által üzemeltetett CBC-nek alkalmasnak kell lennie arra, hogy a CBE általi igény esetén biztosítsa
+a CB üzenetek időzített vagy ismételt sugárzását. A CBC-nek alkalmasnak kell lennie tizenkét darab maximális
+hosszúságú CB üzenet közvetítésére egy időben, akár ugyanazon a célterületen.
+7. § (1) A szolgáltató az 5. § (5) bekezdés a) pontja szerinti esetben a CB üzenetet a CAP üzenetben meghatározott
+CB célterület valamennyi cellájába közel egyidejűleg küldi ki.
+(2) Ha a CB üzenet – a CBC-be történő beérkezése után – nem küldhető ki részben vagy egészben, illetve azonnal
+a CAP üzenetben foglaltaknak megfelelően, akkor a szolgáltatónak az előzetesen megállapított eljárásrend
+szerinti technikai intézkedéseket kell meghoznia. A technikai intézkedésekkel összefüggő eljárásrendet
+a védelmi és biztonsági igazgatás központi szerve, a szolgáltatók és a CBE üzemeltető megállapodásban rögzítik.
+Az eljárásrendnek rendelkeznie kell az egyéb általános CBE és a CBC oldali üzemeltetési feladatok, folyamatok
+kezeléséről is.
+(3) Ha a CB üzenet bármilyen ok miatt részben vagy egészben nem küldhető ki a CAP üzenetben foglaltaknak
+megfelelően, a szolgáltató biztosítja, hogy a CBC az esetleges törlés tartalmú CAP üzenetet is figyelembe véve
+– a lehető leghamarabb – kiküldje a ki nem küldött CB üzenetet a CAP üzenetben foglaltaknak megfelelően.
+(4) A CBE és a CBC minden eseményt, hibát, tranzakciót automatikusan naplóz. A CBC-nek a CAP üzenet fogadásával,
+feldolgozásával és a CB üzenet kiküldésével kapcsolatos minden releváns eseményt naplóznia kell. A szolgáltató
+biztosítja, hogy a CBC által készített naplóbejegyzések alkalmasak legyenek az eszközön végzett szolgáltatói
+tevékenységek utólagos nyomonkövethetőségére is. A CBE üzemeltetőnek és a szolgáltatónak minden naplózott
+adatot – jogszabály eltérő rendelkezése hiányában – legalább 12 hónapig meg kell őriznie.
+8. §
+A védelmi és biztonsági célú lakossági riasztási rendszer üzemeltetésével kapcsolatos egyéb követelményeket
+a védelmi és biztonsági igazgatás központi szerve, a szolgáltatók és a CBE üzemeltető együttműködési
+megállapodásban rögzítik.
+9. §
+Ez a rendelet 2026. július 1. napján lép hatályba.
+10. §
+Ez a rendelet az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i
+(EU) 2018/1972 európai parlamenti és tanácsi irányelv 110. cikkének való megfelelést szolgálja.
+ Dr. Koltay András s. k.,
+ a Nemzeti Média- és Hírközlési Hatóság elnöke
+
+1. melléklet a 11/2025. (XII. 10.) NMHH rendelethez
+A CBE, CBC adatátvitel műszaki alapkövetelményei
+1. Az OSI-modell 7. rétegén (alkalmazási réteg) a HTTPS protokollt kell alkalmazni az RFC 2818 szerint.
+2. A HTTPS titkosítását és hitelesítését a TLS1.2 (hosszú távon 1.3) protokoll biztosítja az RFC 8446 szabványnak
+megfelelően.
+3. A TCP-csomagokat az OSI 3. rétegén az IPv4 protokoll kezeli.
+4. A site-to-site VPN javasolt konfigurációs paraméterei az alábbiak:
+A B
+1 Peer IP Primary a fizikai kapcsolat módjától függ
+2 Port UDP/500; UDP/4500; IP 50 ESP
+3 VPN Product a fizikai kapcsolat módjától függ
+4 IKE Policy IKev2 Preferred
+5 Message Encryption algorithm AES256
+6 Message integrity algorithm SHA256
+7 Peer Authentication Method PSK
+8 DH-Group 14
+9 IKE Lifetime 21600
+10 Mechanism for payload encryption E S P
+11 ESP Transform AES 256
+12 Data Integrity S H A 256
+13 Security Association (SA) Lifetime 3600 (or less)
+14 Perfect Forwarding Secrecy (PFS) Group 14
+2. melléklet a 11/2025. (XII. 10.) NMHH rendelethez
+Az EU előírás szerinti üzenetek és CB üzenetazonosítók
+A B C D E F G H I
+
+EU Alert
+Level
+CAPv1.2 CB üzenet-
+azonosító
+(3GPP
+Channel)
+GSMA
+kód
+
+alert.
+status
+alert.
+scope
+info.
+severity
+info.
+urgency
+info.
+certainty
+info.
+language
+3 Level 1 Actual Public Extreme Immediate Observed HU 4370
+
+4 Level 1 Actual Public Extreme Immediate Observed EN 4383
+5 Level 2 Actual Public Extreme Immediate Likely HU 4372
+
+6 Level 2 Actual Public Extreme Immediate Likely EN 4385
+7 Level 3 Actual Public Severe Expected Likely HU 4378
+
+8 Level 3 Actual Public Severe Expected Likely EN 4391
+9 Level 4 Actual Public Minor Expected Likely HU 4396
+
+10 Level 4 Actual Public Minor Expected Likely EN 4397
+11 EU test Test Public HU 4398
+
+12 EU test Test Public EN 4399
+13 EU-Exercise Exercise Restricted HU 4381
+
+14 EU-Exercise Exercise Restricted EN 4394
+
+3. melléklet a 11/2025. (XII. 10.) NMHH rendelethez
+A CBE és a CBC közötti tartalom szerinti üzenettípusok
+A B C D E F
+
+Üzenet tartalom
+CAPv1.2
+Irány Cél
+2 alert.status alert.msgType alert.scope
+3 riasztás Actual Alert Public CBE-CBC
+Új HU-Alert üzenet
+küldésének
+kezdeményezése
+4 törlés Cancel Public CBE-CBC
+Érvényben lévő HU-Alert
+üzenet törlése
+5 visszaigazolás Ack CBC-CBE
+Visszaigazolás HU-Alert
+üzenet hibamentes
+kiküldéséről
+6 hibajelzés Error CBC-CBE
+Visszajelzés HU-Alert üzenet
+sikertelen kézbesítéséről
+7 állapotjelző System Alert Restricted CBC-CBE
+A CBE-CBC kapcsolatok
+időszakos ellenőrzése
+(heartbeat message)
+8 teszt Test Alert Public CBE-CBC
+Teszt HU-Alert üzenetek
+küldése
+
+V. A Kormány tagjainak rendeletei
