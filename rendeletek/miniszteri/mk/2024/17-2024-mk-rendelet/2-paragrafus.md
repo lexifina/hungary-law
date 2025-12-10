@@ -1,1 +1,3 @@
-2. § A 37/1998. (VIII. 18.) BM rendelet az 1. melléklet szerinti 8. számú melléklettel egészül ki.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
