@@ -1,3 +1,3 @@
-72. §[^55]
+72. §[^71]
 
-[^55]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-78. §[^61]
+78. §[^77]
 
-[^61]: A 78. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 78. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

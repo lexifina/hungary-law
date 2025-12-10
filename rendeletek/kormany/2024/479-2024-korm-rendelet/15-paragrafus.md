@@ -1,1 +1,3 @@
-15. § Hatályát veszti a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 28. §-a.
+15. §[^14]
+
+[^14]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

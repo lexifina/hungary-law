@@ -1,3 +1,3 @@
-80. §[^63]
+80. §[^79]
 
-[^63]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
