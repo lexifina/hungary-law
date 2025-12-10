@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1456-30
 | --- | --- | --- |
 | 2017-07-19 | 2017-1456-30-22.1 | 1456/2017. (VII. 19.) Korm. határozat |
 | 2017-12-19 | 2017-1456-30-22.2 | 1988/2017. (XII. 19.) Korm. határozat |
+| 2025-12-10 | 2017-1456-30-22.3 | 1538/2025. (XII. 10.) Korm. határozat |
