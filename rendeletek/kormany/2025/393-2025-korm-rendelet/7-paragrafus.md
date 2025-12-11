@@ -1,0 +1,1 @@
+7. § Üzletszabályzat tartalmazhatja az Agrár Széchenyi Kártya Program keretében nyújtott támogatás mértékét a sertéstenyésztéssel foglalkozó gazdaságok támogatásának (e § alkalmazásában a továbbiakban: támogatás) jogszabályban nem rögzített feltételeit és a támogatás igénybevételének részletszabályait.
