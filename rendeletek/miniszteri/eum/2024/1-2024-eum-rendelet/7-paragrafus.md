@@ -1,6 +1,6 @@
 ## 6. Elszámolás a kiküldetés költségeivel
 
-7. § (1) A kiküldött az ideiglenes kiküldetés befejezését követő öt munkanapon belül elszámol a kiküldetéssel kapcsolatos kiadásokkal.
+7. § (1)[^1] A kiküldött az ideiglenes kiküldetés befejezését követően legkésőbb harminc munkanapon belül elszámol a kiküldetéssel kapcsolatos kiadásokkal.
 
 (2) A kiküldött úti jelentést (az utazás céljának megvalósításáról szóló szakmai beszámoló) készít a kiküldetés befejezését követő öt munkanapon belül, ha a kiküldetés célja előadás tartása.
 
@@ -23,3 +23,5 @@ f) a teljesítés igazoló aláírását, az aláírás időpontját,
 g) az érvényesítő aláírását, az aláírás időpontját.
 
 (5) Ha az ideiglenes kiküldetés elrendelője az ideiglenes kiküldetés elemeit módosítja, és az többletköltséggel jár, a kiküldött az elszámoláshoz mellékeli a kiküldetés elrendelőjének erről szóló jóváhagyását.
+
+[^1]: A 7. § (1) bekezdése az 5/2025. (XII. 10.) EUM rendelet 17. §-ával megállapított szöveg.
