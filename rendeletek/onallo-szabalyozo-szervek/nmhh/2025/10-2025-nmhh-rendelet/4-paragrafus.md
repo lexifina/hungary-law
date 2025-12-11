@@ -1,0 +1,3 @@
+4. § (1) Frekvenciakijelölés, valamint rádióengedély (a továbbiakban együtt: egyedi engedély) iránti kérelmet – a (2) bekezdésben foglalt kivétellel – nem polgári célú rádióspektrum-használó nyújthat be.
+
+(2) A vállalkozó abban az esetben nyújthat be egyedi engedély iránti kérelmet, ha az egyedi engedély iránti kérelemhez csatolja a nem polgári célú rádióspektrum-használó által kiadott, a vállalkozó képviseleti jogát igazoló iratot, amely az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza a vállalkozó által vállalt, a tervezett rádiórendszer kiépítésével és az egyedi engedély megszerzésével összefüggő feladatokat.

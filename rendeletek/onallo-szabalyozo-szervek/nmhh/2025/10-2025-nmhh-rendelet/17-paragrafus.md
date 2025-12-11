@@ -1,0 +1,1 @@
+17. § A frekvenciakijelölés érvényességi ideje legfeljebb három év, melyet a frekvenciakijelölés jogosultja – a frekvenciakijelölés érvényességi idejének lejárta előtt legalább két hónappal korábban benyújtott – írásbeli kérelmére a Hivatal egy alkalommal, legfeljebb egy évvel meghosszabbít, ha a visszavonás feltételei nem állnak fenn.

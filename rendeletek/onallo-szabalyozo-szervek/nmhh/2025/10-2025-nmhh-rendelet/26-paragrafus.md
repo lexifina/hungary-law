@@ -1,0 +1,3 @@
+26. § (1) Különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetén, hivatalból indult eljárásban a Hivatal anyagi jogi alapon – az engedélyessel történő egyeztetés eredményéhez igazodva – módosíthatja a rádióengedélyben szereplő feltételeket, vagy azokat – az engedélyes előzetes értesítésével – ideiglenesen időben, területileg vagy paramétereiben korlátozhatja.
+
+(2) Nemzetbiztonsági érdek érvényesítése érdekében a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálat a rádiófrekvenciás ellentevékenységre vonatkozó rendelkezésektől a Nemzeti Média- és Hírközlési Hatósággal kötött megállapodás alapján eltérhet.

@@ -1,0 +1,1 @@
+10. § A Hivatal a nem polgári célú rádióspektrum-használót – kérelemre – nem polgári frekvenciakészlet-gazdálkodásra feljogosítja, kivéve, ha a kérelem teljesítése műszaki vagy rádióspektrum-gazdálkodási okból nem lehetséges.

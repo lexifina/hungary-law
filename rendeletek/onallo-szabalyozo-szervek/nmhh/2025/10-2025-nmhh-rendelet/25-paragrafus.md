@@ -1,0 +1,1 @@
+25. § A rádióengedély érvényességi ideje – ha az NFFF másként nem rendelkezik – legfeljebb öt év, melyet az engedélyes a rádióengedély érvényességi idejének lejárta előtt legalább két hónappal korábban benyújtott írásbeli kérelmére a Hivatal meghosszabbít, kivéve, ha a kérelem teljesítése műszaki vagy rádióspektrum-gazdálkodási okból nem lehetséges.
