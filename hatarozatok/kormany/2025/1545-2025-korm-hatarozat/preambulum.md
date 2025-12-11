@@ -1,0 +1,1 @@
+A Kormány – elismerve, hogy a kiemelt társadalmi igényű közúti felújítások előkészítése és megvalósítása elősegíti a piac munkával történő folyamatos ellátását, a vidéken élők életminőségének javulását, a befektetői környezet modernizálását és nem utolsósorban a közlekedésbiztonság szintjének növelését –
