@@ -1,0 +1,1 @@
+5. § A tananyagokat évente egy alkalommal, legkésőbb október 31-éig a minisztérium – egyes vizsgatárgyakért felelős – szervezeti egységeinek vezetői felülvizsgálják. A vizsgaanyag az EU-s szakmai vizsgát megelőző egy hónapon belül nem változtatható meg.
