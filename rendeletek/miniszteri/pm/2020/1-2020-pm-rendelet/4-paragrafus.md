@@ -1,5 +1,0 @@
-4. § (1) A miniszter feladat- és hatáskörébe tartozó, illetve azt támogató területen eredményes, példamutató tevékenységet végző természetes személy, jogi személy, szervezet vagy kutatóműhely szakmai elismerése céljából Miniszteri Elismerő Oklevél adományozható a március 15-i és az október 23-i nemzeti ünnep alkalmából. Az évente adományozható elismerések száma: 100 db.
-
-(2)[^5] A Miniszteri Elismerő Oklevéllel pénzjutalom adható, amelynek összege bruttó 800 000 forint. Amennyiben a Miniszteri Elismerő Oklevél adományozására a miniszter irányítása vagy felügyelete alá tartozó szerv vagy a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság vezetője tett javaslatot, a pénzjutalmat annak a szervnek vagy gazdasági társaságnak kell biztosítania a költségvetéséből, amelynek vezetője az elismerést kezdeményezi. A minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára által elismerésre javasolt jutalmazásának fedezetét a minisztérium a költségvetéséből biztosítja.
-
-[^5]: A 4. § (2) bekezdése a 3/2024. (X. 14.) PM rendelet 2. §-ával megállapított szöveg.
