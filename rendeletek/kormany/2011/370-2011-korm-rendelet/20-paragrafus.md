@@ -1,4 +1,4 @@
-20. § (1)[^56] A belső ellenőr, illetve a belső ellenőrzési vezető tekintetében összeférhetetlenség áll fenn és ezért nem vehet részt bizonyosságot adót tevékenységben, ha
+20. § (1)[^57] A belső ellenőr, illetve a belső ellenőrzési vezető tekintetében összeférhetetlenség áll fenn és ezért nem vehet részt bizonyosságot adót tevékenységben, ha
 
 a) az ellenőrzött szerv, valamint szervezeti egység vezetőjének vagy alkalmazottjának a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója;
 
@@ -14,4 +14,4 @@ e) az adott bizonyosságot adó tevékenység tárgyilagos lefolytatása tőle e
 
 (3) Az összeférhetetlenségről a belső ellenőrzési vezető, a belső ellenőrzési egység vezetőjének személyét érintő összeférhetetlenség esetén a költségvetési szerv vezetője, az összeférhetetlenség okának tudomására jutásától számított 10 napon belül határoz. A döntés meghozataláig az ellenőrt, illetve a belső ellenőrzési egység vezetőjét az összeférhetetlenséggel összefüggésben az adott ellenőrzésben való részvétel alól fel kell menteni.
 
-[^56]: A 20. § (1) bekezdése a 342/2019. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^57]: A 20. § (1) bekezdése a 342/2019. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.

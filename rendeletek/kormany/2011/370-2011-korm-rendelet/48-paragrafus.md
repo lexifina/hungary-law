@@ -4,7 +4,7 @@
 
 a) a belső ellenőrzés által végzett tevékenység bemutatása önértékelés alapján az alábbiak szerint:
 
-aa)[^109] az éves ellenőrzési tervben foglalt feladatok teljesítésének értékelése, a soron kívüli ellenőrzésre tervezett kapacitás felhasználása;
+aa)[^110] az éves ellenőrzési tervben foglalt feladatok teljesítésének értékelése, a soron kívüli ellenőrzésre tervezett kapacitás felhasználása;
 
 ab) a bizonyosságot adó tevékenységet elősegítő és akadályozó tényezők bemutatása;
 
@@ -16,11 +16,11 @@ ba) a belső kontrollrendszer szabályszerűségének, gazdaságosságának, hat
 
 bb) a belső kontrollrendszer öt elemének értékelése;
 
-c)[^110] az intézkedési tervek megvalósítását
+c)[^111] az intézkedési tervek megvalósítását
 
 ca) a 14. § (1) és (2) bekezdése alapján és
 
 cb) a 47. § (1) és (2) bekezdésében meghatározott nyilvántartás szerint.
 
-[^109]: A 48. § a) pont aa) alpontja a 462/2024. (XII. 30.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
-[^110]: A 48. § c) pontja a 132/2023. (IV. 18.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^110]: A 48. § a) pont aa) alpontja a 462/2024. (XII. 30.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^111]: A 48. § c) pontja a 132/2023. (IV. 18.) Korm. rendelet 12. §-ával megállapított szöveg.

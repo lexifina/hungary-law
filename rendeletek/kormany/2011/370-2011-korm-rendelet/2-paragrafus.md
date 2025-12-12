@@ -48,7 +48,7 @@ f) országos nemzetiségi önkormányzat esetén az országos nemzetiségi önko
 
 17. magyarországi államháztartási belső ellenőrzési standardok: az államháztartásért felelős miniszter által kialakított hazai standardok, amelyek a nemzetközi belső ellenőrzési standardokkal összhangban meghatározzák az államháztartási belső ellenőrzés céljai eléréséhez szükséges tevékenységek és eljárások során alkalmazandó alapelveket,
 
-18. nemzetközi belső ellenőrzési standardok: a Belső Ellenőrök Nemzetközi Szervezete által kiadott és az államháztartásért felelős miniszter által közzétett iránymutatások, a belső ellenőrzés céljai eléréséhez szükséges tevékenységek és eljárások meghatározása a belső ellenőrzési tevékenység eredményeinek értékelése érdekében,
+18.[^8] nemzetközi belső ellenőrzési standardok: a Belső Ellenőrök Nemzetközi Szervezete által kiadott Nemzetközi Szakmai Gyakorlati Keretrendszer, a belső ellenőrzés céljai eléréséhez szükséges tevékenységek és eljárások meghatározása a belső ellenőrzési tevékenység eredményeinek értékelése érdekében,
 
 19. szervezeti integritást sértő esemény: minden olyan esemény, amely eltér a szervezetre vonatkozó szabályoktól, valamint a költségvetési szerv vezetője és az irányító szerv által – jogszabályi keretek között – meghatározott szervezeti célkitűzéseknek, értékeknek és elveknek megfelelő működéstől,
 
@@ -60,3 +60,4 @@ f) országos nemzetiségi önkormányzat esetén az országos nemzetiségi önko
 
 [^6]: A 2. § a 132/2023. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: A 2. § 7. pontja az 560/2023. (XII. 14.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
+[^8]: A 2. § 18. pontja a 394/2025. (XII. 11.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.

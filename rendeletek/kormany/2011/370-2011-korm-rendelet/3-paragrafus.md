@@ -1,4 +1,4 @@
-## II. Fejezet[^8]
+## II. Fejezet[^9]
 
 ## BELSŐ KONTROLLOK
 
@@ -8,7 +8,7 @@
 
 a) kontrollkörnyezet,
 
-b)[^9] integrált kockázatkezelési rendszer,
+b)[^10] integrált kockázatkezelési rendszer,
 
 c) kontrolltevékenységek,
 
@@ -18,5 +18,5 @@ e) nyomon követési rendszer (monitoring)
 
 kialakításáért, működtetéséért és fejlesztéséért.
 
-[^8]: A II. Fejezet megjelölést és címét a 465/2015. (XII. 29.) Korm. rendelet 28. §-a iktatta be.
-[^9]: A 3. § b) pontja a 187/2016. (VII. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^9]: A II. Fejezet megjelölést és címét a 465/2015. (XII. 29.) Korm. rendelet 28. §-a iktatta be.
+[^10]: A 3. § b) pontja a 187/2016. (VII. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@ a) soron kívüli vizsgálatot vagy az ellenőrzési tervben nem ütemezett tan�
 
 b) a vizsgálatvezető vagy a belső ellenőr az ellenőrzés lefolytatásában akadályoztatva van.
 
-(2)[^91] Az ellenőrzést a belső ellenőrzési vezető felfüggesztheti, ha az ellenőrzöttnél
+(2)[^92] Az ellenőrzést a belső ellenőrzési vezető felfüggesztheti, ha az ellenőrzöttnél
 
 a) az ellenőrzést érintő személyi vagy szervezeti változás,
 
@@ -18,16 +18,16 @@ d) az ellenőrzött szerv, illetve szervezeti egység jogsértő magatartása
 
 az ellenőrzés folytatását akadályozza.
 
-(2a)[^92] Az ellenőrzést a belső ellenőrzési vezető abban az esetben is megszakíthatja vagy felfüggesztheti, ha az ellenőrzés lefolytatását elháríthatatlan külső körülmény akadályozza.
+(2a)[^93] Az ellenőrzést a belső ellenőrzési vezető abban az esetben is megszakíthatja vagy felfüggesztheti, ha az ellenőrzés lefolytatását elháríthatatlan külső körülmény akadályozza.
 
-(3)[^93] A belső ellenőrzési vezető az ellenőrzés megszakítása vagy felfüggesztése esetén arról írásban tájékoztatja az ellenőrzött szerv, illetve szervezeti egység vezetőjét, melyben az ellenőrzés felfüggesztése esetén határidő megállapításával egyúttal felhívja az ellenőrzött szerv, illetve szervezeti egység vezetőjét az akadály megszüntetésére. Az ellenőrzés megszakításáról vagy felfüggesztéséről a belső ellenőrzési vezető egyidejűleg írásban tájékoztatja az ellenőrzési tervét jóváhagyó vezetőt.
+(3)[^94] A belső ellenőrzési vezető az ellenőrzés megszakítása vagy felfüggesztése esetén arról írásban tájékoztatja az ellenőrzött szerv, illetve szervezeti egység vezetőjét, melyben az ellenőrzés felfüggesztése esetén határidő megállapításával egyúttal felhívja az ellenőrzött szerv, illetve szervezeti egység vezetőjét az akadály megszüntetésére. Az ellenőrzés megszakításáról vagy felfüggesztéséről a belső ellenőrzési vezető egyidejűleg írásban tájékoztatja az ellenőrzési tervét jóváhagyó vezetőt.
 
-(4)[^94] A megszakított, illetve felfüggesztett ellenőrzést az elrendelése okául szolgáló akadály elhárulásától számított 30 napon belül folytatni kell, ennek időpontjáról a belső ellenőrzési vezető dönt és az ellenőrzés folytatásáról írásban értesíti az ellenőrzött szerv, illetve szervezeti egység vezetőjét.
+(4)[^95] A megszakított, illetve felfüggesztett ellenőrzést az elrendelése okául szolgáló akadály elhárulásától számított 30 napon belül folytatni kell, ennek időpontjáról a belső ellenőrzési vezető dönt és az ellenőrzés folytatásáról írásban értesíti az ellenőrzött szerv, illetve szervezeti egység vezetőjét.
 
-(5)[^95] A minisztérium belső ellenőrzési vezetője a (3) és (4) bekezdés szerinti tájékoztatást egyidejűleg a Hivatal elnökének is megküldi.
+(5)[^96] A minisztérium belső ellenőrzési vezetője a (3) és (4) bekezdés szerinti tájékoztatást egyidejűleg a Hivatal elnökének is megküldi.
 
-[^91]: A 38. § (2) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^92]: A 38. § (2a) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^93]: A 38. § (3) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^94]: A 38. § (4) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^95]: A 38. § (5) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^92]: A 38. § (2) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^93]: A 38. § (2a) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^94]: A 38. § (3) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^95]: A 38. § (4) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^96]: A 38. § (5) bekezdését a 132/2023. (IV. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
