@@ -1,1 +1,3 @@
-3. § Hatályát veszti a Magyar Nemzeti Bank elnökének rendelet kiadásában való helyettesíthetőségéről szóló 5/2024. (II. 27.) MNB rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
