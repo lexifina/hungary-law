@@ -8,7 +8,7 @@
 
 (4) A fejezetet irányító szerv a Szolgálatokra vonatkozó, jogszabályban meghatározott adatszolgáltatásokat a (8) bekezdésben meghatározott összevont adattartalommal a Kincstárnak és az államháztartásért felelős miniszternek küldi meg.
 
-(5)[^18] A kincstári költségvetési jelentéshez a Szolgálatok az Áhsz. szerint a költségvetési számvitelben elszámolt adataikról a (8) bekezdés szerinti tartalommal szolgáltatnak adatot a Kincstárnak a tárgyhónapot követő hónap tízedik napjáig.
+(5)[^18] A kincstári költségvetési jelentéshez a Szolgálatok az Áhsz. szerint a költségvetési számvitelben elszámolt adataikról a (8) bekezdés szerinti tartalommal szolgáltatnak adatot a Kincstárnak a tárgyhónapot követő hónap tizedik napjáig. A Szolgálatok az Ávr. 156. § (4) bekezdése szerinti határidőben történő egyeztetést nem végzik.
 
 (6)[^19] Az államháztartás végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 169. § (1) bekezdése szerinti időközi költségvetési jelentést a Szolgálatok az (5) bekezdésében meghatározott adattartalommal készítik el. Az Ávr. 5. mellékletében foglalt táblázat 21. sorában meghatározott, az időközi költségvetési jelentést alátámasztó főkönyvi kivonatot a Szolgálatok nem küldik meg a Kincstárnak.
 
@@ -66,7 +66,7 @@ kell megjeleníteni.
 
 [^16]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^17]: A 7. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^18]: A 7. § (5) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^18]: A 7. § (5) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^19]: A 7. § (6) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^20]: A 7. § (8) bekezdés 5. pontja a 85/2023. (III. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^21]: A 7. § (8) bekezdés 8. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont cb) alpontja szerint módosított szöveg.

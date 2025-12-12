@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-130-20-
 | 2022-07-01 | 2011-130-20-22.11 | 239/2022. (VI. 30.) Korm. rendelet |
 | 2023-03-24 | 2011-130-20-22.12 | 85/2023. (III. 21.) Korm. rendelet |
 | 2025-03-01 | 2011-130-20-22.13 | 24/2025. (II. 27.) Korm. rendelet |
+| 2025-12-12 | 2011-130-20-22.14 | 394/2025. (XII. 11.) Korm. rendelet |
