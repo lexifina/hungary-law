@@ -14,6 +14,7 @@ d) a támogatások odaítélésével és felhasználásával kapcsolatban meghoz
 
 összefüggő feladatokat.
 
-(3) A Kincstár támogatást kihelyező szervi feladataival összefüggésben érkező megkereséseket szükség szerint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 3. mellékletében foglalt táblázat C:3 mezője szerint, valamint a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 1. mellékletében foglalt táblázat C:3 mezője szerint az irányító hatósági feladatok ellátására kijelölt miniszter kezeli.
+(3)[^43] A Kincstár támogatást kihelyező szervi feladataival összefüggésben érkező megkereséseket szükség szerint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendeletben, valamint a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendeletben meghatározott irányító hatósági feladatokat ellátó szervezetként kezeli.
 
 [^42]: A 4/A. alcímet (18/A. §-t) a 310/2018. (XII. 27.) Korm. rendelet 38. §-a iktatta be, szövege a 202/2024. (VII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^43]: A 18/A. § (3) bekezdése a 394/2025. (XII. 11.) Korm. rendelet 34. §-ával megállapított szöveg.

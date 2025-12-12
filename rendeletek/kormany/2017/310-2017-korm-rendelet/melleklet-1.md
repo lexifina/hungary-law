@@ -1,4 +1,4 @@
-1. melléklet a 310/2017. (X. 31.) Korm. rendelethez[^45]
+1. melléklet a 310/2017. (X. 31.) Korm. rendelethez[^46]
 
 A Kincstár területi szervei
 
@@ -44,4 +44,4 @@ A Kincstár területi szervei
 
 | 20. | Magyar Államkincstár Zala Vármegyei Igazgatóság | Zala vármegye |
 
-[^45]: Az 1. melléklet a 480/2022. (XI. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^46]: Az 1. melléklet a 480/2022. (XI. 28.) Korm. rendelet 21. §-ával megállapított szöveg.

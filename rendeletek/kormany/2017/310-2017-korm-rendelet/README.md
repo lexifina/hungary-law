@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-310-20-
 | 2024-12-31 | 2017-310-20-22.24 | 207/2018. (XI. 10.) Korm. rendelet |
 | 2025-01-24 | 2017-310-20-22.25 | 3/2025. (I. 23.) Korm. rendelet |
 | 2025-03-12 | 2017-310-20-22.26 | 36/2025. (III. 11.) Korm. rendelet |
+| 2025-12-12 | 2017-310-20-22.27 | 394/2025. (XII. 11.) Korm. rendelet |
