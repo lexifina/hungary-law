@@ -10,7 +10,7 @@
 
 | 4.[^351] | XLII. fejezet 47. cím 1. alcím 8. jogcímcsoport, 3. alcím 2. jogcímcsoport | fővárosi és vármegyei kormányhivatalok | A jogtalanul igénybe vett ellátásokkal kapcsolatos követelések és a kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 5.[^352] | XVI. fejezet 11. cím 4. alcím; XVII. fejezet 21. cím 5. alcím; XLII. fejezet 1–3. cím (kivéve: 1. cím 7. alcím), 4. cím 2. alcím 2. és 7. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím 12. és 22. jogcímcsoport | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
+| 5.[^352] | XVI. fejezet 11. cím 4. alcím (kivéve: 5. jogcímcsoport); XVII. fejezet 21. cím 5. alcím; XLII. fejezet 1–3. cím (kivéve: 1. cím 7. alcím), 4. cím 2. alcím 2. és 7. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím 12. és 22. jogcímcsoport | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 6.[^353] | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok. A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -42,9 +42,11 @@
 
 | 19. | nincs címrendhez kötve | európai uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az európai uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai. A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó, átadásra kerülő, Európai Unióval szembeni követelések adatai. | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-| 20. | nincs címrendhez kötve | Start Garancia Pénzügyi Szolgáltató Zrt. | Az állam által vállalt viszontgarancia érvényesítéséből származó követelések és kötelezettségek adatai. | Negyedévente egyszer, a Kincstár által megállapított időpontban |
+| 20.[^356] | XLII. fejezet 33. cím 6. alcím | Start Garancia Pénzügyi Szolgáltató Zrt. | Az állam által vállalt viszontgarancia érvényesítéséből származó követelések és kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^356]
+| 21.[^357] | XVI. fejezet 11. cím 4. alcím 5. jogcímcsoport | Építési és Közlekedési Minisztérium | A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
+
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^358]
 
 Maradványkimutatás
 
@@ -76,8 +78,10 @@ IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
 
 [^350]: A 2. mellékletben foglalt táblázat 1. sora a 462/2024. (XII. 30.) Korm. rendelet 23. § (1) bekezdés 2. pontjával megállapított szöveg.
 [^351]: A 2. mellékletben foglalt táblázat 4. sora a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 2. pontjával megállapított szöveg.
-[^352]: A 2. mellékletben foglalt táblázat 5. sora a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 2. pontjával megállapított szöveg.
-[^353]: A 2. mellékletben foglalt táblázat 6. sora a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^352]: A 2. mellékletben foglalt táblázat 5. sora a 394/2025. (XII. 11.) Korm. rendelet 32. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^353]: A 2. mellékletben foglalt táblázat 6. sora a 394/2025. (XII. 11.) Korm. rendelet 32. § (2) bekezdés 2. pontjával megállapított szöveg.
 [^354]: A 2. mellékletben foglalt táblázat 14. sora a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 2. pontjával megállapított szöveg.
 [^355]: A 2. mellékletben foglalt táblázat 16. sora a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 2. pontjával megállapított szöveg.
-[^356]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja, a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^356]: A 2. mellékletben foglalt táblázat 20. sora a 394/2025. (XII. 11.) Korm. rendelet 32. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^357]: A 2. mellékletben foglalt táblázat 21. sorát a 394/2025. (XII. 11.) Korm. rendelet 32. § (2) bekezdés 2. pontja iktatta be.
+[^358]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja, a 462/2024. (XII. 30.) Korm. rendelet 23. § (2) bekezdés 3. pontja szerint módosított szöveg.
