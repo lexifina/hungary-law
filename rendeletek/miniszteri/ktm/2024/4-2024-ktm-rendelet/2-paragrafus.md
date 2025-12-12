@@ -92,9 +92,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 42. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
 
-43. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti intézkedés vagy tevékenység,
+43.[^2]
 
-43a.[^2] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet,
+43a.[^3] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet,
 
 44. közszolgáltatás: az EUMSz 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás,
 
@@ -116,7 +116,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 53. megújuló hidrogén: a 651/2014/EU bizottsági rendelet 2. cikk 102c. pontja szerinti hidrogén,
 
-54. megújuló villamos energia: a 651/2014/EU bizottsági rendelet 2. cikk 102d. pontja szerinti villamos energia,
+54.[^4]
 
 55. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti értékelés és elemzés,
 
@@ -194,10 +194,12 @@ d) az a)–c) alpont közül több pont együttes megvalósulása esetén a legk
 
 85. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
-86.[^3]
+86.[^5]
 
 87. versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
 
 [^1]: A 2. § nyitó szövegrésze a 3/2025. (III. 26.) KTM rendelet 6. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 43a. pontját a 3/2025. (III. 26.) KTM rendelet 1. §-a iktatta be.
-[^3]: A 2. § 86. pontját a 3/2025. (III. 26.) KTM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § 43. pontját a 9/2025. (XII. 11.) KTM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 43a. pontját a 3/2025. (III. 26.) KTM rendelet 1. §-a iktatta be.
+[^4]: A 2. § 54. pontját a 9/2025. (XII. 11.) KTM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^5]: A 2. § 86. pontját a 3/2025. (III. 26.) KTM rendelet 7. § a) pontja hatályon kívül helyezte.

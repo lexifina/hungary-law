@@ -1,6 +1,6 @@
 ## 4. Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
-6. §[^4] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+6. §[^6] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
 1. F:3 mező, F:4 mező, F:5 mező, F:7 mező, F:9 mező, F:10 mező, F:11 mező, F:12 mező, F:13 mező, F:14 mező, F:15 mező, F:16 mező, F:17 mező és F:21 mező alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás,
 
@@ -50,4 +50,4 @@
 
 nyújtható.
 
-[^4]: A 6. § a 3/2025. (III. 26.) KTM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 6. § a 3/2025. (III. 26.) KTM rendelet 2. §-ával megállapított szöveg.

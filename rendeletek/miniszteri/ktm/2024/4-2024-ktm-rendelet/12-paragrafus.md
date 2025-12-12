@@ -1,4 +1,4 @@
-## 7.[^13] Mezőgazdasági csekély összegű támogatás
+## 7.[^15] Mezőgazdasági csekély összegű támogatás
 
 12. § (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 50 ezer eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3) és (8)–(10) bekezdését.
 
@@ -12,4 +12,4 @@
 
 (6) A támogatás vonatkozásában a támogatást nyújtó az Atr. 11. és 11/A. §-ában meghatározottak szerint biztosítja az (1) és (4) bekezdésben foglaltak betartását.
 
-[^13]: A 7. alcím (12. §) a 3/2025. (III. 26.) KTM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 7. alcím (12. §) a 3/2025. (III. 26.) KTM rendelet 3. §-ával megállapított szöveg.
