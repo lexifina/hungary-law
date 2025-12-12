@@ -26,7 +26,7 @@
 
 | Határidő: | a projekt pénzügyi zárását megelőzően |
 
-## 2. A Környezeti és Energiahatékonysági Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1527/2023. (XII. 1.) Korm. határozat 2. mellékletében foglalt táblázat D:27 mezőjében a „0,04” szövegrész helyébe a „0,06” szöveg lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -41,3 +41,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | KEHOP_PLUSZ-2.1.10-23-2024-00001 | Mónosbél központú agglomeráció szennyvíztisztító telepének korszerűsítése | Mónosbél Községi Önkormányzat, Balaton Községi Önkormányzat, Bekölce Községi Önkormányzat, Bükkszentmárton Községi Önkormányzat és Mikófalva Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 85,874825 | 35 504 796 | 5 840 029 | 11 081 059 | – | – | 15 440 209 | 2 539 692 | 5 511 470 | 2 565 098 | 85,874825 | 50 945 005 | 8 379 721 | 16 592 529 | 2 565 098 | 78 482 353 | A beruházás keretében az érintett 2000 lakosegyenérték-terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
