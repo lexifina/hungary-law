@@ -8,7 +8,7 @@
 
 ## a mérleg és az eredménykimutatás kivonata, amely az éves beszámoló mérlegének és eredménykimutatásának összegző sorait tartalmazza, továbbá mindazon sorokat, amelyek kihagyása félrevezető,
 
-## 2.2. az 1. melléklet 4. részében meghatározott vezetőségi jelentés a féléves beszámoló időszakáról,
+## 2.2.[^26] az 1. melléklet 4. pontjában meghatározott vezetőségi jelentés a féléves beszámoló időszakáról, ide nem értve a fenntarthatósági jelentést és az ahhoz kapcsolódó követelményeket,
 
 ## 2.3. a könyvvizsgálói felülvizsgálatra vonatkozóan
 
@@ -28,7 +28,7 @@
 
 ## 3.1.1. a mérleg és az eredménykimutatás kivonata, amely az összevont (konszolidált) éves beszámoló mérlegének és eredménykimutatásának összegző sorait tartalmazza, továbbá mindazon sorokat, amelyek kihagyása félrevezető,
 
-## 3.2. az 1. melléklet 4. részében meghatározott összevont (konszolidált) vezetőségi jelentés az összevont (konszolidált) féléves beszámoló időszakáról
+## 3.2.[^27] az 1. melléklet 4. pontjában meghatározott összevont (konszolidált) vezetőségi jelentés az összevont (konszolidált) féléves beszámoló időszakáról, ide nem értve a fenntarthatósági jelentést és az ahhoz kapcsolódó követelményeket,
 
 ## 3.3. a könyvvizsgálói felülvizsgálatra vonatkozóan
 
@@ -42,10 +42,12 @@
 
 ## 3.4.2. az összevont (konszolidált) vezetőségi jelentés megbízható képet ad a kibocsátó és a konszolidációba bevont vállalkozások helyzetéről, fejlődéséről és teljesítményéről, ismertetve pénzügyi év hátralevő hat hónapját érintő főbb kockázatokat és bizonytalansági tényezőket.
 
-## 3.5.[^26] Amennyiben a kibocsátó a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tarozik, akkor a 3.1. pont helyett az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) féléves beszámolóját.
+## 3.5.[^28] Amennyiben a kibocsátó a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tarozik, akkor a 3.1. pont helyett az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) féléves beszámolóját.
 
-3. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^27]
+3. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^29]
 
 [^25]: A 2. melléklet 1. pontja a 19/2019. (XII. 18.) PM rendelet 4. §-a, a 25/2024. (VII. 29.) NGM rendelet 4. §-a szerint módosított szöveg.
-[^26]: A 2. melléklet 3.5. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^27]: A 3. mellékletet a 21/2016. (VI. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^26]: A 2. melléklet 2. pont 2.2. alpontja a 37/2025. (XII. 11.) NGM rendelet 2. §-ával megállapított szöveg.
+[^27]: A 2. melléklet 3. pont 3.2. alpontja a 37/2025. (XII. 11.) NGM rendelet 2. §-ával megállapított szöveg.
+[^28]: A 2. melléklet 3.5. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^29]: A 3. mellékletet a 21/2016. (VI. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.
