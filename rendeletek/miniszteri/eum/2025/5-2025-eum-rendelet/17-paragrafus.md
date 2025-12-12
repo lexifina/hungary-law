@@ -1,3 +1,3 @@
-17. § A Magyarország Európai Unió melletti Állandó Képviseletére tartós külszolgálatra kihelyezettek ideiglenes kiküldetésének részletes szabályairól szóló 1/2024. (III. 5.) EUM rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+17. §[^1]
 
-„(1) A kiküldött az ideiglenes kiküldetés befejezését követően legkésőbb harminc munkanapon belül elszámol a kiküldetéssel kapcsolatos kiadásokkal.”
+[^1]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-18. § Hatályát veszti a kihelyező szerv által támasztott szakmai követelményekről és azok teljesítéséről szóló 1/2020. (II. 17.) IM rendelet.
+18. §[^2]
+
+[^2]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
