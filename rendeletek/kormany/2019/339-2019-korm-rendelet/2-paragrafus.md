@@ -16,15 +16,16 @@
 
 5. integritás: a köztulajdonban álló gazdasági társaság szabályszerű, a köztulajdonban álló gazdasági társaság célkitűzéseinek, értékeinek és elveinek megfelelő működése;
 
-6. nemzetközi belső ellenőrzési standardok: a Belső Ellenőrök Nemzetközi Szervezete által kiadott, a Belső Ellenőrzés Szakmai Gyakorlatának Nemzetközi Keretrendszere által meghatározott, kötelezően alkalmazandó elemek (Küldetés, Alapelvek, Belső ellenőrzés definíciója, Etikai kódex, Normák);
+6.[^3] nemzetközi belső ellenőrzési standardok: a Belső Ellenőrök Nemzetközi Szervezete által kiadott Nemzetközi Szakmai Gyakorlati Keretrendszer;
 
 7. szervezeti integritást sértő esemény: minden olyan esemény, amely a köztulajdonban álló gazdasági társaságra vonatkozó jogszabályoktól, belső szabályzatoktól, valamint a köztulajdonban álló gazdasági társaság célkitűzéseinek, értékeinek és elveinek megfelelő működéstől eltér;
 
-8.[^3] tanácsadó tevékenység: a belső ellenőrzés által a köztulajdonban álló gazdasági társaság első számú vezetője vagy a felügyelőbizottság részére nyújtott, olyan hozzáadott értéket eredményező szolgáltatás, amely jellegét tekintve konzultációs tevékenység, továbbá a hatókörét a belső ellenőrzési vezető és a megbízó a megbízáskor közösen írásban vagy szóban határozza meg anélkül, hogy a vezetői felelősséget a belső ellenőr magára vállalná.
+8.[^4] tanácsadó tevékenység: a belső ellenőrzés által a köztulajdonban álló gazdasági társaság első számú vezetője vagy a felügyelőbizottság részére nyújtott, olyan hozzáadott értéket eredményező szolgáltatás, amely jellegét tekintve konzultációs tevékenység, továbbá a hatókörét a belső ellenőrzési vezető és a megbízó a megbízáskor közösen írásban vagy szóban határozza meg anélkül, hogy a vezetői felelősséget a belső ellenőr magára vállalná.
 
-9.[^4] tulajdonosi joggyakorló: a nemzeti vagyonról szóló törvény szerinti tulajdonosi joggyakorló.
+9.[^5] tulajdonosi joggyakorló: a nemzeti vagyonról szóló törvény szerinti tulajdonosi joggyakorló.
 
 [^1]: A 2. § 1. pontja a 462/2024. (XII. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 1a. pontját a 462/2024. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^3]: A 2. § 8. pontja a 132/2023. (IV. 18.) Korm. rendelet 30. § 1. pontja szerint módosított szöveg.
-[^4]: A 2. § 9. pontját a 132/2023. (IV. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^3]: A 2. § 6. pontja a 394/2025. (XII. 11.) Korm. rendelet 36. §-a alapján módosított szöveg.
+[^4]: A 2. § 8. pontja a 132/2023. (IV. 18.) Korm. rendelet 30. § 1. pontja szerint módosított szöveg.
+[^5]: A 2. § 9. pontját a 132/2023. (IV. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be.

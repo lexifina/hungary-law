@@ -1,4 +1,4 @@
-## 6/A.[^23] Központi koordináció és harmonizáció
+## 6/A.[^24] Központi koordináció és harmonizáció
 
 24/A. § A Takarékos tv. 7/J. § (10) bekezdésében meghatározott feladatkörében az államháztartásért felelős miniszter
 
@@ -14,4 +14,4 @@ e) kapcsolatot tart az illetékes európai uniós intézményekkel, a tagállamo
 
 f) felelős a belső kontrollrendszerrel és a belső ellenőrzéssel kapcsolatos kommunikációért és az érintett hazai szervezetekkel való kapcsolattartásért.
 
-[^23]: A 6/A. alcímet (24/A. §-t) a 462/2024. (XII. 30.) Korm. rendelet 37. §-a iktatta be.
+[^24]: A 6/A. alcímet (24/A. §-t) a 462/2024. (XII. 30.) Korm. rendelet 37. §-a iktatta be.
