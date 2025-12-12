@@ -152,8 +152,8 @@
 
 | 4. | Adathordozó | – | 1610 Ft/db |
 
-2. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^308]
+2. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^315]
 
 A kormányhivatal hatósági engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
-[^308]: A 2. mellékletet a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 258/2024. (VIII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^315]: A 2. mellékletet a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 258/2024. (VIII. 29.) Korm. rendelet 8. §-a iktatta be.

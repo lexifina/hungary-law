@@ -1,6 +1,6 @@
-## 21.[^305]
+## 21.[^312]
 
-57. §[^306]
+57. §[^313]
 
-[^305]: A 21. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^306]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^312]: A 21. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^313]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

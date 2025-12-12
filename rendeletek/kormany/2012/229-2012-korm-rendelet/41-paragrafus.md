@@ -12,7 +12,7 @@
 
 4.2. amennyiben nem a fenntartó az épület tulajdonosa, az épület feletti rendelkezési jog időtartamának kezdő és befejező dátumát,
 
-4.3.[^245] a köznevelésialapfeladat-ellátás megkezdésének tervezett dátumát,
+4.3.[^252] a köznevelésialapfeladat-ellátás megkezdésének tervezett dátumát,
 
 4.4. az épületbe felvehető maximális gyermek- és tanulólétszámot,
 
@@ -30,7 +30,7 @@
 
 4.11. az óvoda napi nyitvatartási idejét, a nyitás és a zárás időpontját,
 
-4.12.[^246] szakgimnázium és szakiskola esetén a 40. § (2) bekezdés g) pontjában meghatározottakat,
+4.12.[^253] szakgimnázium és szakiskola esetén a 40. § (2) bekezdés g) pontjában meghatározottakat,
 
 4.13. alapfeladatonként és munkarendenként a legmagasabb gyermek- és tanulói létszámot,
 
@@ -42,15 +42,15 @@
 
 a) a köznevelési intézmény pedagógiai programját,
 
-b)[^247] pedagógiai szakszolgálati intézmény esetében a miniszter szándéknyilatkozatát a pedagógiai szakszolgálati tevékenységre irányuló köznevelési szerződés megkötéséről,
+b)[^254] pedagógiai szakszolgálati intézmény esetében a miniszter szándéknyilatkozatát a pedagógiai szakszolgálati tevékenységre irányuló köznevelési szerződés megkötéséről,
 
 c) a fenntartói igazolást arról, hogy a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek feletti rendelkezési jog a köznevelési intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított (megállapodás, hozzájáruló nyilatkozat),
 
 d) annak igazolását, hogy a helyiségek a köznevelési intézmény feladatainak ellátására alkalmasak,
 
-e)[^248]
+e)[^255]
 
-f)[^249] a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket a kötelező (minimális) helyiség- és eszközjegyzékben, valamint a kötelező (minimális) felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket , valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét,
+f)[^256] a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket a kötelező (minimális) helyiség- és eszközjegyzékben, valamint a kötelező (minimális) felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket , valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét,
 
 g) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön az óvodai nevelésben, az iskolai nevelésben-oktatásban, a pedagógiai szakmai szolgáltatást nyújtó intézményben és a pedagógiai szakszolgálati intézményben foglalkoztatott pedagógusok, pedagógiai előadók, pedagógiai szakértők, óraadók listáját, feltüntetve a nevüket, végzettségüket és szakképzettségüket, iskola esetén tantárgyi bontásban, valamint a pedagógus,a pedagógiai előadó, a pedagógiai szakértő munkakör betöltésére jogosító végzettséget és szakképzettséget tanúsító oklevél kiállítóját és az oklevélszámát, a tantárgyfelosztást, továbbá a működéshez szükséges többi alkalmazott nevét, végzettségét és szakképzettségét, foglalkoztatásuk módját és időtartamát, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott személyi feltételek biztosítottak,
 
@@ -62,8 +62,8 @@ hb) a fenntartó által jóváhagyott egy évre szóló költségvetést, amely 
 
 hc) a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
 
-[^245]: A 41. § (1) bekezdés 4. pont 4.3. alpontja a 13/2020. (II. 7.) Korm. rendelet 73. § 11. pontja szerint módosított szöveg.
-[^246]: A 41. § (1) bekezdés 4. pont 4.12. alpontja a 13/2020. (II. 7.) Korm. rendelet 72. § (2) bekezdésével megállapított szöveg.
-[^247]: A 41. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 12. pontja szerint módosított szöveg.
-[^248]: A 41. § (2) bekezdés e) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 4. pontja hatályon kívül helyezte.
-[^249]: A 41. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 4. pontja, a 275/2019. (XI. 21.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^252]: A 41. § (1) bekezdés 4. pont 4.3. alpontja a 13/2020. (II. 7.) Korm. rendelet 73. § 11. pontja szerint módosított szöveg.
+[^253]: A 41. § (1) bekezdés 4. pont 4.12. alpontja a 13/2020. (II. 7.) Korm. rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^254]: A 41. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 12. pontja szerint módosított szöveg.
+[^255]: A 41. § (2) bekezdés e) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 4. pontja hatályon kívül helyezte.
+[^256]: A 41. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 4. pontja, a 275/2019. (XI. 21.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
