@@ -6,12 +6,12 @@
 
 (3) Ha az átcsoportosított előirányzat végső felhasználója az előirányzatot átvevő fejezetet irányító szerv irányítása alá tartozó költségvetési szerv, a megállapodást ez a költségvetési szerv is aláírja. Ebben az esetben a fejezetet irányító szerv arra vállal kötelezettséget, hogy az átvett előirányzatot a végső felhasználó rendelkezésére bocsátja, a felhasználás elszámoltatásában közreműködik, és a fel nem használt, továbbá a nem rendeltetésszerűen felhasznált előirányzatot az átadó jelzése alapján elvonja, az átcsoportosított előirányzat végső felhasználója pedig a megállapodásban az átvevőre nézve megállapított összes egyéb kötelezettség teljesítéséért felel.
 
-(4)[^171] A fejezetet irányító szerv Áht. 33. § (3) és (3b) bekezdése szerinti intézkedésének elrendelésére a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt, a fejezetet irányító szerv állományába tartozó személy jogosult, és az intézkedést az 55. § szerint kijelölt pénzügyi ellenjegyző ellenjegyzi.
+(4)[^171] A fejezetet irányító szerv Áht. 33. § (3)–(3b) bekezdése szerinti intézkedésének elrendelésére a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt, a fejezetet irányító szerv állományába tartozó személy jogosult, és az intézkedést az 55. § szerint kijelölt pénzügyi ellenjegyző ellenjegyzi.
 
-(5)[^172] A középirányító szerv az Áht. 33. § (3b) bekezdése szerinti intézkedésének elrendelésére, a fejezetet irányító szerv egyidejű tájékoztatása mellett a középirányító szerv vezetője vagy az általa írásban kijelölt, a középirányító szerv állományába tartozó személy jogosult, és az intézkedést az 55. § szerint kijelölt pénzügyi ellenjegyző ellenjegyzi.
+(5)[^172] A középirányító szerv az Áht. 33. § (3c) bekezdése szerinti intézkedésének elrendelésére, a fejezetet irányító szerv egyidejű tájékoztatása mellett a középirányító szerv vezetője vagy az általa írásban kijelölt, a középirányító szerv állományába tartozó személy jogosult, és az intézkedést az 55. § szerint kijelölt pénzügyi ellenjegyző ellenjegyzi.
 
 [^168]: Az Ávr. 41. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
 [^169]: Az Ávr. 41. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 6. pontja, a 89/2016. (IV. 29.) Korm. rendelet 4. § 2. pontja, az 560/2023. (XII. 14.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
 [^170]: Az Ávr. 41. § (1a) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^171]: Az Ávr. 41. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 3. pontja, a 104/2025. (V. 14.) Korm. rendelet 3. § 1. pontja szerint módosított szöveg.
-[^172]: Az Ávr. 41. § (5) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 560/2023. (XII. 14.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^171]: Az Ávr. 41. § (4) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 11. § 3. pontja, a 104/2025. (V. 14.) Korm. rendelet 3. § 1. pontja, a 394/2025. (XII. 11.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^172]: Az Ávr. 41. § (5) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 394/2025. (XII. 11.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.

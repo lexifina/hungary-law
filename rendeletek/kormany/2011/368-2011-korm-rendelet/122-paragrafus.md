@@ -1,11 +1,11 @@
 ## [Az Áht. 78. § (2) bekezdéséhez]
 
-122. § (1)[^588]
+122. § (1)[^591]
 
-(2)[^589] A helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács, valamint az általuk irányított költségvetési szerv likviditási terve a várható bevételeinek – ideértve az időszak elején rendelkezésre álló készpénz és számlaállomány együttes összegét is – alapul vételével, havi ütemezéssel tartalmazza a teljesíthető kiadásokat.
+(2)[^592] A helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács, valamint az általuk irányított költségvetési szerv likviditási terve a várható bevételeinek – ideértve az időszak elején rendelkezésre álló készpénz és számlaállomány együttes összegét is – alapul vételével, havi ütemezéssel tartalmazza a teljesíthető kiadásokat.
 
-(3)[^590]
+(3)[^593]
 
-[^588]: Az Ávr. 122. § (1) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 3. pontja hatályon kívül helyezte.
-[^589]: Az Ávr. 122. § (2) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^590]: Az Ávr. 122. § (3) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^591]: Az Ávr. 122. § (1) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^592]: Az Ávr. 122. § (2) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^593]: Az Ávr. 122. § (3) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 3. pontja hatályon kívül helyezte.

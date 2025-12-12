@@ -8,7 +8,7 @@ c) szükség szerint a pályázó képviselőjének és kapcsolattartójának ne
 
 d) a pályázó elérhetőségének megjelölését,
 
-e)[^388] – ha a pályázati kiírás ekként rendelkezik, a működési célú költségvetési támogatások kivételével – a költségvetési támogatásból megvalósítani tervezett tevékenységek ismertetését valamint az azokhoz kapcsolódó részletes költségtervet,
+e)[^389] – ha a pályázati kiírás ekként rendelkezik, a működési célú költségvetési támogatások kivételével – a költségvetési támogatásból megvalósítani tervezett tevékenységek ismertetését valamint az azokhoz kapcsolódó részletes költségtervet,
 
 f) az igényelt költségvetési támogatás általános forgalmi adót is tartalmazó összegét és a levonható, visszaigényelhető általános forgalmi adó összegét,
 
@@ -24,9 +24,9 @@ i) – ha az meghatározásra került – a pályázati díj megfizetéséről s
 
 j) a pályázati kiírásban előírt egyéb adatokat.
 
-(1a)[^389] Külföldi pályázó esetén a támogató az (1) bekezdés b) pontjának alkalmazásától eltekinthet.
+(1a)[^390] Külföldi pályázó esetén a támogató az (1) bekezdés b) pontjának alkalmazásától eltekinthet.
 
 (2) A pályázat befogadását a pályázati kiírás a 75. § (2) és (3) bekezdése szerinti nyilatkozatok, dokumentumok benyújtásától teheti függővé.
 
-[^388]: Az Ávr. 69. § (1) bekezdés e) pontja a 445/2020. (X. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^389]: Az Ávr. 69. § (1a) bekezdését a 224/2017. (VIII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^389]: Az Ávr. 69. § (1) bekezdés e) pontja a 445/2020. (X. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^390]: Az Ávr. 69. § (1a) bekezdését a 224/2017. (VIII. 11.) Korm. rendelet 5. §-a iktatta be.

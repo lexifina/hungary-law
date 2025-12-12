@@ -1,3 +1,3 @@
-119. §[^585]
+119. §[^588]
 
-[^585]: Az Ávr. „[Az Áht. 71. § (4) bekezdéséhez]” alcímét a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^588]: Az Ávr. „[Az Áht. 71. § (4) bekezdéséhez]” alcímét a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 2. pontja hatályon kívül helyezte.

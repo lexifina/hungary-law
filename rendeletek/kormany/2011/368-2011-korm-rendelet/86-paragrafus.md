@@ -1,8 +1,8 @@
-## [Az Áht. 51. §-ához][^447]
+## [Az Áht. 51. §-ához][^448]
 
-86. § (1)[^448] A költségvetési támogatás folyósítására a 87. § (1) bekezdésében foglalt kivétellel a beszámoló vagy – ha e rendelet szerint előírásra került – a részbeszámoló elfogadását követően kerülhet sor. A költségvetési támogatás Áht. 51. § (1) bekezdése szerinti rendelkezésre bocsátásának módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére. E §-t a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásra nem kell alkalmazni.
+86. § (1)[^449] A költségvetési támogatás folyósítására a 87. § (1) bekezdésében foglalt kivétellel a beszámoló vagy – ha e rendelet szerint előírásra került – a részbeszámoló elfogadását követően kerülhet sor. A költségvetési támogatás Áht. 51. § (1) bekezdése szerinti rendelkezésre bocsátásának módjára vonatkozó döntés meghozatala során figyelemmel kell lenni a költségvetési támogatás céljára, a támogatott tevékenység megvalósítási időszakának hosszára, a kedvezményezett saját forrásának mértékére. E §-t a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásra nem kell alkalmazni.
 
 (2) A beszámoló, részbeszámoló hibáinak, hiányosságainak pótlására a 70. § (3) bekezdését kell alkalmazni.
 
-[^447]: Az Ávr. 86. §-t megelőző alcím cím a 465/2015. (XII. 29.) Korm. rendelet 24. § 18. pontja szerint módosított szöveg.
-[^448]: Az Ávr. 86. § (1) bekezdése a 210/2025. (VII. 17.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^448]: Az Ávr. 86. §-t megelőző alcím cím a 465/2015. (XII. 29.) Korm. rendelet 24. § 18. pontja szerint módosított szöveg.
+[^449]: Az Ávr. 86. § (1) bekezdése a 210/2025. (VII. 17.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
