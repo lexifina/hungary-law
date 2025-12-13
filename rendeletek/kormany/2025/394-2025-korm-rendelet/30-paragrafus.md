@@ -1,5 +1,3 @@
-30. § Hatályát veszti a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet
+30. §[^60]
 
-1. 37/C. § (8) bekezdése,
-
-2. 37/K. §-a.
+[^60]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. §[^2]
+5. §[^6]
 
-[^2]: Az 5. § a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^6]: Az 5. § a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

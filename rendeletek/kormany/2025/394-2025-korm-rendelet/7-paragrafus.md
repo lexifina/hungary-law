@@ -1,3 +1,3 @@
-7. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 102/F. § (3) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(3) A támogató pénzben nyújtott támogatás esetén a támogatás folyósításáról a támogatás teljes összegének folyósítását követően, nem pénzben nyújtott támogatás esetén a támogatás kedvezményezett részére maradéktalanul történő biztosítását követően értesíti a Kincstárt.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

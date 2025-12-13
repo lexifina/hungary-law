@@ -54,10 +54,9 @@
 
 ## 1. A polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló 130/2011. (VII. 18.) Korm. rendelet módosítása
 
-1. § (1) A polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló 130/2011. (VII. 18.) Korm. rendelet 7. § (5) bekezdése helyébe a következő rendelkezés lép:
+1. § (1)[^1]
 
-„(5) A kincstári költségvetési jelentéshez a Szolgálatok az Áhsz. szerint a költségvetési számvitelben elszámolt adataikról a (8) bekezdés szerinti tartalommal szolgáltatnak adatot a Kincstárnak a tárgyhónapot követő hónap tizedik napjáig. A Szolgálatok az Ávr. 156. § (4) bekezdése szerinti határidőben történő egyeztetést nem végzik.”
+(2)[^2]
 
-(2)[^1]
-
-[^1]: Az 1. § (2) bekezdése a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (2) bekezdése a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.

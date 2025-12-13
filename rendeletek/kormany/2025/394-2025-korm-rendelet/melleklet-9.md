@@ -1,3 +1,3 @@
-9. melléklet a 394/2025. (XII. 11.) Korm. rendelethez[^20]
+9. melléklet a 394/2025. (XII. 11.) Korm. rendelethez[^81]
 
-[^20]: A 9. melléklet a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.
+[^81]: A 9. melléklet a 37. § (3) bekezdése alapján 2027. január 1-jén lép hatályba.

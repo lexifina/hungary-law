@@ -1,9 +1,3 @@
-15. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+15. §[^16]
 
-1. 1. melléklete az 1. melléklet,
-
-2. 5. melléklete a 2. melléklet,
-
-3. 6. melléklete a 3. melléklet
-
-szerint módosul.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

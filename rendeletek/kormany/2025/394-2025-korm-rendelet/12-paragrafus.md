@@ -1,3 +1,3 @@
-12. §[^3]
+12. §[^13]
 
-[^3]: A 12. § a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^13]: A 12. § a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

@@ -1,49 +1,70 @@
 16. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1. 6/A. §-ában a „XX. fejezet 10. cím 1. alcíme” szövegrész helyébe a „XIV. fejezet 09. cím 1. alcíme” szöveg,
+1.[^17]
 
-2. 40. §-ában a „12.” szövegrész helyébe a „26.” szöveg,
+2.[^18]
 
-3. 41. § (4) bekezdésében a „(3) és (3b)” szövegrész helyébe a „(3)–(3b)” szöveg,
+3.[^19]
 
-4. 41. § (5) bekezdésében az „Áht. 33. § (3b)” szövegrész helyébe az „Áht. 33. § (3c)” szöveg,
+4.[^20]
 
-5. 95/B. § (5) bekezdésében az „esetén a támogató a támogatott” szövegrész helyébe az „esetén a kedvezményezett, a támogatott” szöveg,
+5.[^21]
 
-6. 128. § (4) bekezdésében a „Kincstár a március” szövegrész helyébe a „Kincstár legkésőbb a március” szöveg,
+6.[^22]
 
-7. 136. § (9) bekezdésében az „előirányzat-felhasználási kereteit” szövegrész helyébe az „előirányzat felhasználási tervösszegeit” szöveg,
+7.[^23]
 
-8. 139. § (1b) bekezdésében a „XX.” szövegrész helyébe a „XLII.” szöveg,
+8.[^24]
 
-9. 148. § (3) bekezdés e) pontjában a „százezer” szövegrész helyébe a „kétszázezer” szöveg,
+9.[^25]
 
-10. 150. § (1) bekezdés l) pontjában az „a központi költségvetés terhére pályázati úton” szövegrész helyébe az „az államháztartáson belülről származó forrás terhére” szöveg,
+10.[^26]
 
-11. 167/C. § (2) bekezdés d) pontjában a „határozata” szövegrész helyébe a „rendelet vagy határozat” szöveg,
+11.[^27]
 
-12. 167/E. § (1) bekezdés 13. pontjában az „a nemzeti köznevelésről szóló 2011. évi CXC. törvény” szövegrész helyébe az „a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.)” szöveg,
+12.[^28]
 
-13. 167/E. § (1) bekezdés 20. pontjában a „létrehozásáról” szövegrész helyébe a „létrehozásáról, módosításáról” szöveg és a „megállapodás.” szövegrész helyébe a „megállapodás,” szöveg,
+13.[^29]
 
-14. 169. § (2) bekezdésében a „költségvetési jelentése a kincstári” szövegrész helyébe a „költségvetési jelentése a tárgyhónap utolsó napján ismert adatok szerinti kincstári” szöveg és a „25.” szövegrész helyébe a „20.” szöveg,
+14.[^30]
 
-15. 170. § (4) bekezdésében a „25-éig” szövegrész helyébe a „20-áig” szöveg,
+15.[^31]
 
-16. 170. § (7) bekezdésében a „negyvenöt” szövegrész helyébe a „húsz” szöveg és a „tárgynegyedévet követő hatvan napon belül” szövegrész helyébe a „költségvetési évet követő év február 5-éig” szöveg,
+16.[^32]
 
-17.[^4]
+17.[^33]
 
-18. 1. melléklet I. pont 38. alpontjában a „Gazdaságfejlesztési Minisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg,
+18.[^34]
 
-19. 5. melléklet B:6a és E:6a mezőjében a „Pénzügyminisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg,
+19.[^35]
 
-20. 5. melléklet C:25b mezőjében a „gazdaság-fejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg,
+20.[^36]
 
-21. 6. melléklet D:2a mezőjében a „Pénzügyminisztérium” szövegrész helyébe a „Nemzetgazdasági Minisztérium” szöveg,
+21.[^37]
 
-22. 187. § (3) bekezdésében a „2025. december 31.” szövegrész helyébe a „2026. augusztus 31.” szöveg
+22.[^38]
 
 lép.
 
-[^4]: A 16. § 17. pontja a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^17]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 16. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 16. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 16. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 16. § 17. pontja a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^34]: A 16. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 16. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 16. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 16. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 16. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
