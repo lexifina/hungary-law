@@ -1,1 +1,3 @@
-2. § A 24/2008. (VIII. 15.) PM rendelet 2. melléklete az 1. melléklet szerint módosul.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
