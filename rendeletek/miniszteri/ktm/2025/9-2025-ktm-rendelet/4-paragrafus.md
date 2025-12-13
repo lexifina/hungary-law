@@ -1,5 +1,6 @@
-4. § (1) Az R. 1. melléklete az 1. melléklet szerint módosul.
+4. § (1)[^5]
 
-(2)[^4]
+(2)[^6]
 
-[^4]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^5]: A 4. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § (2) bekezdése a 6. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.

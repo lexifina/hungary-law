@@ -1,5 +1,3 @@
-5. § Hatályát veszti az R.
+5. §[^7]
 
-a) 2. § 43. pontja,
-
-b) 2. § 54. pontja.
+[^7]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
