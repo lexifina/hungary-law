@@ -24,10 +24,10 @@
 
 12. 94. § (7) bekezdésében az „és a közhasználatú építmény” szövegrész,
 
-13. 181/E. §-a,
+13.
 
 14. 187. § (2) bekezdés i) pontja,
 
 15. 188. § 93. pontjában az „ , ideértve a kis hatótávú vezeték nélküli hozzáférési pontot” szövegrész,
 
-16. 188. § 94. pontja.
+16.
