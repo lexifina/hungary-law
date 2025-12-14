@@ -1,3 +1,1 @@
-18. §[^17]
-
-[^17]: A 18. § a 22. § (2) bekezdése alapján 2025. december 14-én lép hatályba.
+18. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet 1. melléklete az 5. melléklet szerint módosul.
