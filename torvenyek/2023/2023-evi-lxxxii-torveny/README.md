@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-82-00-00
 | 2024-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-82-00-00.1 |
 | 2024-07-02 | 2010. évi CXXX. törvény | 2023-82-00-00.2 |
 | 2025-12-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-82-00-00.3 |
+| 2025-12-14 | 2010. évi CXXX. törvény | 2023-82-00-00.4 |
