@@ -8,111 +8,71 @@
 
 (2) Az elektronikus hírközlési építményt elsősorban közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy más fizikai infrastruktúra elemeinek vagy más hálózatüzemeltető meglévő fizikai infrastruktúrájának felhasználásával kell elhelyezni, úgy, hogy a lehető legkisebb mértékben érintsen egyéb nem köztulajdonban lévő ingatlant.
 
-(2a) A hálózatüzemeltető és az elektronikus hírközlési szolgáltató együttműködnek a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében, ennek keretében a hálózatüzemeltető köteles tűrni a fizikai infrastruktúrájának felhasználását vagy köteles a fizikai infrastruktúrájának alkalmassá tételét elvégezni. Az elektronikus hírközlési építmény kiépítésének és karbantartásának költségeit az elektronikus hírközlési szolgáltató viseli.
+(2a)
 
-(2b) A fizikai infrastruktúra (2a) bekezdés szerinti felhasználásához való hozzájárulásról szóló megállapodás megkötését az elektronikus hírközlési szolgáltatónak írásbeli ajánlattal kell kezdeményeznie a hálózatüzemeltetőnél.
+(2b) A nyilvános elektronikus hírközlő hálózat üzemeltetője írásbeli ajánlatkéréssel kezdeményezi a fizikai infrastruktúra rendkívül nagy kapacitású hálózatok elemeinek, illetve kapcsolódó eszközeinek kiépítése céljából történő felhasználását a hálózatüzemeltetőnél vagy a közszférabeli szervezetnél.
 
-A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
+(2c) Az ajánlatkéréssel kapcsolatos követelményeket az Elnök rendeletben állapítja meg.
 
-a) a létesíteni kívánt elektronikus hírközlési építmény megjelölését, annak jellemzőit, elhelyezésének helyét, módját és helyigényét,
+(2d) Ha az ajánlatkérés nem vagy nem megfelelően tartalmazza az Elnök rendeletében meghatározott információkat, a hálózatüzemeltető vagy közszférabeli szervezet az ajánlatkérés kézhezvételét követő 15 napon belül a hiányzó adatok, információk pótlására hívja fel a nyilvános elektronikus hírközlő hálózat üzemeltetőjét.
 
-b) a fizikai infrastruktúra igénybe venni kívánt elemeinek megjelölését,
+(2e) A hálózatüzemeltető vagy közszférabeli szervezet az Elnök rendeletében meghatározott információkat teljeskörűen tartalmazó ajánlatkérés kézhezvételétől számított 20 napon belül írásban válaszol a nyilvános elektronikus hírközlő hálózat üzemeltetőjének a (2b) bekezdés szerinti ajánlatkérés elfogadásáról. Az ajánlatkérésre adott válasznak tartalmaznia kell legalább
 
-c) az igényelt használati jog és szükség szerint a kapcsolódó szolgalmi jog pontos tartalmát,
+a) a fizikai infrastruktúra használatának feltételeit és a fizikai infrastruktúra használatáért a nyilvános elektronikus hírközlő hálózat üzemeltetője által fizetendő ellenértéket tartalmazó ajánlatot, és
 
-d) az elektronikus hírközlési építményen elhelyezni kívánt elektronikus hírközlési berendezések megjelölését, műszaki jellemzőit,
+b) az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (4) bekezdése alapján figyelembe vett szempontokat, az ellenérték kiszámításának módját és a kapcsolódó számításokat.
 
-e) az elektronikus hírközlési építmény létesítését követően az építmény környezetének helyreállítására vonatkozó terveket,
+(2f) A Kormány rendeletében meghatározhatja a közszférabeli szervezetek tulajdonában vagy ellenőrzése alatt álló fizikai infrastruktúrákat vagy azok kategóriáit, amelyek építészeti, történelmi, vallási vagy környezeti értékük miatt, illetve közbiztonsági, védelmi, biztonsági és egészségügyi okokból mentesülnek az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (1), (4) és (5) bekezdésében foglalt rendelkezések alkalmazása alól.
 
-f) a megállapodás megkötésére irányuló, a használati jog és szükség szerint a kapcsolódó szolgalmi jog alapításáról szóló szerződéstervezetet, valamint a hálózatüzemeltető részére fizetendő ellenértéket tartalmazó egyértelmű ajánlatot, valamint
+(2g) Ha a hálózatüzemeltető vagy a közszférabeli szervezet a (2b) bekezdés szerinti ajánlatkérésre
 
-g) a (2d) és (2f) bekezdésben foglaltakra vonatkozó figyelemfelhívást.
+a) a (2e) bekezdés szerinti határidőn belül nem válaszol,
 
-(2c) A hálózatüzemeltető az ajánlat beérkezésétől számított 15 napon belül írásban válaszol az elektronikus hírközlési szolgáltatónak, amelyben a (2b) bekezdés szerinti ajánlatot elfogadja vagy elutasítja. Amennyiben a hálózatüzemeltető az ajánlatot elfogadja, akkor az ajánlatra adott válasznak tartalmaznia kell legalább
+b) az ajánlatkérést elutasítja, vagy
 
-a) az arra vonatkozó nyilatkozatot, hogy az ajánlattal érintett fizikai infrastruktúra átalakítással vagy átalakítás nélkül alkalmas-e az ajánlat szerinti felhasználásra; továbbá
+c) a megállapodás az ajánlatkérés kézhezvételétől – a (2d) bekezdés esetében a hiánypótlás teljesítésétől – számított 30 napon belül nem jön létre,
 
-b) az átalakítás szükségességére vonatkozó nyilatkozat esetén az átalakítás költségére vonatkozó becslést, valamint az átalakítás kivitelezésének várható időtartamát.
+a Hatóság kérelemre a használati jogot és szükség szerint a kapcsolódó szolgalmi jogot alapító határozatával – a rendkívül nagy kapacitású hálózat kiépítéséhez fűződő közérdekből, a szükséges mértékben – korlátozhatja a hálózatüzemeltető vagy közszférabeli szervezet fizikai infrastruktúra feletti használatának és a használat átengedésének jogát.
 
-Az átalakítás kivitelezésének időtartama a létesítési megállapodás létrejöttének időpontjától számított 270 napot nem haladhatja meg. Az átalakítás költségére vonatkozó becslés alapjául a fizikai infrastruktúra szükséges átalakításával közvetlen összefüggésben felmerülő indokolt és arra alkalmas dokumentumokkal igazolt költségek szolgálhatnak.
+(2h) Ha a hálózatüzemeltető vagy közszférabeli szervezet az ajánlatkérést az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (5) bekezdés f) pontja alapján utasítja el, a Hatóság a (2g) bekezdés szerinti eljárásban az ajánlatkéréssel érintett fizikai infrastruktúra vonatkozásában korlátozhatja a használat és a használat átengedésének jogát. A (2g) bekezdés szerinti eljárás iránt benyújtott kérelem elutasítása esetén a hálózatüzemeltetőt vagy közszférabeli szervezetet a hatósági határozat közlésétől számított 30 napig szerződéskötési kötelezettség terheli az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (5) bekezdés f) pontja alapján felajánlott fizikai infrastruktúra vonatkozásában.
 
-(2d) A hálózatüzemeltető – törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – a (2b) bekezdés szerinti ajánlatot kizárólag akkor jogosult elutasítani, ha
+(2i) A (2g) bekezdés szerinti eljárásban az 57–61. §-ok szerinti eljárás szabályait az alábbi eltérésekkel kell alkalmazni:
 
-a) az ajánlat szerint felhasználni kívánt fizikai infrastruktúra objektív műszaki okok miatt nem alkalmas arra, hogy annak felhasználásával a tervezett elektronikus hírközlési építmény a tervezett módon megvalósulhasson, azzal, hogy önmagukban az átalakítás szükségessége vagy a fizikai infrastruktúrán már nyújtott szolgáltatások nem minősülnek megtagadást megalapozó objektív műszaki oknak,
+a) az eljárást a hálózatüzemeltető, a közszférabeli szervezet vagy a nyilvános elektronikus hírközlő hálózat üzemeltetője kezdeményezheti,
 
-b) a létesíteni kívánt elektronikus hírközlési építmény helyigénye az annak létesítésével érintett hálózat meglévő vagy tervezett helyigényével nem egyeztethető össze,
+b) a kérelemhez az Elnök rendeletében előírt dokumentumokat kell csatolni, és
 
-c) a létesíteni kívánt elektronikus hírközlési építmény vagy annak létesítése sérti vagy közvetlenül és nyilvánvalóan veszélyezteti az emberi életet, egészséget vagy a vagyonbiztonságot,
+c) a nyilvános elektronikus hírközlő hálózat üzemeltetőjének kell bizonyítania, hogy a fizikai infrastruktúra felhasználása rendkívül nagy kapacitású hálózat kiépítéséhez szükséges.
 
-d) a létesíteni kívánt elektronikus hírközlési építmény vagy annak létesítése az annak létesítésével érintett hálózat vagy más hálózatok működését, biztonságát vagy integritását akadályozza vagy veszélyezteti,
+(2j) Ha a hálózatüzemeltető, a közszférabeli szervezet vagy a nyilvános elektronikus hírközlő hálózat üzemeltetője által benyújtott bizonyítékok alapján a Hatóságnak a tényállás tisztázásához további információra van szüksége, a (2g) bekezdés szerinti eljárásba bevonja az elektronikus hírközlési nyomvonalas és nyomvonal jellegű építmények, valamint az egyéb műtárgyak építésének engedélyezésére irányuló eljárásokban közreműködő, jogszabályban felsorolt szakhatóságokat.
 
-e) a létesíteni kívánt elektronikus hírközlési építmény vagy annak működése az annak létesítésével érintett hálózat útján nyújtott szolgáltatásokkal súlyos interferenciát okoz vagy e szolgáltatások nyújtását egyéb módon akadályozza vagy veszélyezteti, vagy
+(2k) Ha az ajánlatkérésre a hálózatüzemeltető vagy közszférabeli szervezet a (2e) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol, vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, különösen amellyel a fizikai infrastruktúrájához való hozzáférés biztosításával kapcsolatos valamely kötelezettségét megszegi, a nyilvános elektronikus hírközlő hálózat üzemeltetője a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, ha a kérelem tárgyával összefüggésben jogvitás eljárás korábban nem indult.
 
-f) a nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges elektronikus hírközlési építmény létesítéséhez az elektronikus hírközlési szolgáltató (2b) bekezdés szerinti ajánlatában megjelölt fizikai infrastruktúra helyett más alkalmas – az ajánlatban foglalttal egyenértékű – infrastruktúrát vagy egyéb hozzáférési lehetőséget ajánl fel, feltéve, hogy az ilyen módon felajánlott hozzáférésre tisztességes és ésszerű feltételek mellett kerülhet sor.
+(2l) Ha az ajánlatkérésre a hálózatüzemeltető vagy közszférabeli szervezet a (2e) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol, vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt a hálózatüzemeltető vagy közszférabeli szervezet számviteli törvény szerinti megelőző évi nettó árbevételét kell érteni.
 
-(2e) Amennyiben a hálózatüzemeltető az ajánlatot a (2d) bekezdés szerint elutasítja, akkor az elutasításról szóló válaszában köteles megjelölni a (2d) bekezdés a)–f) pontja szerinti valamely okot, továbbá válaszát köteles indokolni és bizonyítékokkal alátámasztani. Az elektronikus hírközlési szolgáltató a hálózatüzemeltető ajánlatra adott válaszának beérkezésétől számított 15 napon belül írásban tájékoztatja a hálózatüzemeltetőt az általa megadott műszaki-gazdasági feltételek elfogadásáról vagy elutasításáról.
+(3) A Hatóság (2g) bekezdés szerinti eljárásban hozott döntése tartalmi elemeit az Elnök rendeletben határozza meg.
 
-(2f) Ha a hálózatüzemeltető a (2b) bekezdés szerinti ajánlatra:
+(3a)
 
-a) a (2c) pont szerinti határidőn belül nem válaszol,
+(3b) Amennyiben a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a (2k) bekezdésben foglalt jogsértést és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást érdemben lezáró döntésében a (2l) bekezdésben meghatározott bírság kiszabására is jogosult.
 
-b) az ajánlatot elutasítja, vagy
+(3c) A (2g) bekezdés szerinti kérelem, valamint a 94/A. § szerinti kérelem egyidejűleg is előterjeszthető a Hatóságnál.
 
-c) a megállapodás az ajánlat kézhezvételétől számított 45 napon belül nem jön létre, a Hatóság kérelemre a használati jogot és szükség szerint a kapcsolódó szolgalmi jogot alapító határozatával – a nagy sebességű elektronikus hírközlő hálózat kiépítéséhez fűződő közérdekből, a szükséges mértékben – korlátozhatja a hálózatüzemeltető fizikai infrastruktúra feletti használatának és a használat átengedésének jogát.
+(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2g) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
 
-(2g) Ha a hálózatüzemeltető a (2b) bekezdés szerinti ajánlatot a (2d) bekezdés f) pontja alapján utasítja el, a Hatóság a (2f) bekezdés szerinti eljárásban a (2b) bekezdés szerinti ajánlattal érintett fizikai infrastruktúra vonatkozásában korlátozhatja a használat és a használat átengedésének jogát. A (2f) bekezdés szerinti eljárás iránt benyújtott kérelem elutasítása esetén a hálózatüzemeltetőt a hatósági határozat közlésétől számított 30 napig szerződéskötési kötelezettség terheli a (2d) bekezdés f) pontja alapján felajánlott fizikai infrastruktúra vonatkozásában.
+(4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – ha az (EU) 2024/1309 európai parlamenti és tanácsi rendelet vagy e törvény eltérően nem rendelkezik – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor. A megállapodásnak alkalmasnak kell lennie az építési jogosultság igazolására.
 
-(2h) A (2f) bekezdés szerinti eljárásban az 57–61. §-ok szerinti eljárás szabályait kell alkalmazni az alábbi eltérésekkel:
-
-a) az eljárást a hálózatüzemeltető vagy az elektronikus hírközlési szolgáltató kezdeményezheti,
-
-b) az eljárás lefolytatására irányuló kérelemhez csatolni kell a (2b) bekezdés szerinti ajánlatot, az annak kézhezvételét igazoló postai tértivevényt vagy a kézhezvételt igazoló más okiratot, valamint – ha rendelkezésre áll – a hálózatüzemeltető nyilatkozatát, illetve az ajánlatra adott érdemi választ és az ajánlat elutasítása esetén az elutasítás okát alátámasztó bizonyítékokat, továbbá annak igazolását, hogy a fizikai infrastruktúra nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges elektronikus hírközlési építmény létesítéséhez kerül felhasználásra,
-
-c) az elektronikus hírközlési szolgáltatónak kell bizonyítania, hogy a fizikai infrastruktúra felhasználása a nyilvános nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges,
-
-d) amennyiben a (2d) bekezdés f) pontja szerint felajánlott más – az ajánlatban foglalttal egyenértékű – alkalmas infrastruktúrát vagy egyéb hozzáférési lehetőséget a hírközlési szolgáltató nem fogadja el, az elutasítást a hírközlési szolgáltatónak meg kell indokolnia.
-
-(2i) Amennyiben a hálózatüzemeltető vagy az elektronikus hírközlési szolgáltató által benyújtott bizonyítékok alapján a Hatóság a döntését nem tudja meghozni, és a jogvita eldöntéséhez szükséges, a (2f) bekezdés szerinti eljárásban az elektronikus hírközlési nyomvonalas és nyomvonal jellegű építmények, valamint az egyéb műtárgyak építésének engedélyezésére irányuló eljárásokban közreműködő, jogszabályban felsorolt szakhatóságok vesznek részt az ott meghatározott feltételek fennállása esetén az ott megjelölt szakkérdésekben.
-
-(2j) Ha a (2b) bekezdés szerinti ajánlatra a megkeresett fél a (2c) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, különösen amellyel a (2a) bekezdés szerinti együttműködési kötelezettségét megszegi, az írásbeli ajánlatot benyújtó fél a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, ha a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
-
-(2k) Abban az esetben, ha a (2b) bekezdés szerinti ajánlatra a megkeresett fél a (2c) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
-
-(2l) A bírság mértékének megállapítása során a 48. § (2) bekezdésében foglaltak alkalmazása mellett a Hivatal mérlegeli az ügy összes körülményét, így különösen a jogsértő árbevételét, a jogsértéssel okozott hátrányok súlyát, a jogsértés ismételtségét.
-
-(3) A Hatóság a (2f) bekezdés szerinti eljárásban, a kérelem megalapozottsága esetén hozott határozatában meghatározza
-
-a) a fizikai infrastruktúra felhasználása, a használati jog és szükség szerint a kapcsolódó szolgalmi jog tartalmát,
-
-b) az elektronikus hírközlési építmény elhelyezésének helyét és módját,
-
-c) amennyiben szükséges, az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit,
-
-d) szükség szerint a (2d) bekezdés szerinti körülmények kialakulása megakadályozásához, valamint az elektronikus hírközlési építmény környezetének helyreállításához szükséges és elégséges feltételeket, valamint
-
-e) az Elnök rendeletében foglalt részletes szabályok szerint a közös használat körében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételeket, így különösen a feleket terhelő méltányos költségeket és annak a hozzáférési díjnak a mértékét, amelyre a hálózatüzemeltető a fizikai infrastruktúrájának használatáért jogosult. A határozat végrehajthatóságára nézve nincs halasztó hatálya a kártalanítás módjára és mértékére irányuló közigazgatási pernek.
-
-(3a) A (3) bekezdés e) pontjában foglalt hozzáférési díj mértékének megállapításánál a Hatóság figyelembe veszi a hálózatüzemeltető fizikai infrastruktúrájának a nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges felhasználásával összefüggésben felmerült indokolt költségeinek megtérülését, továbbá figyelembe veszi az érintett hozzáférés biztosításának a hálózatüzemeltető üzleti tervére, ezen belül beruházásainak megtérülésére gyakorolt hatását. Abban az esetben, ha a hozzáférési igény nagy sebességű elektronikus hírközlő hálózat fizikai infrastruktúrájához biztosított hozzáférésre vonatkozik, a Hatóság a díj megállapítása során figyelembe veszi a díjnak a hálózatüzemeltető piaci helyzetére gyakorolt hatását.
-
-(3b) Amennyiben a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a (2j) bekezdésében foglalt jogsértést és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást érdemben lezáró döntésében a (2k) és (2l) bekezdésében meghatározott bírság kiszabására is jogosult.
-
-(3c) A (2f) bekezdés szerinti kérelem, valamint a 94/A. § szerinti kérelem egyidejűleg is előterjeszthető a Hatóságnál.
-
-(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2f) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
-
-(4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – ha e törvény eltérően nem rendelkezik – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor. A megállapodásnak alkalmasnak kell lennie az építési jogosultság igazolására.
-
-(4a) Az elektronikus hírközlési építmény elhelyezését a közterület tulajdonosa (használója vagy kezelője) tűrni köteles, a tulajdonosi hozzájárulást megadottnak kell tekinteni. Ha az építési munka megkezdéséhez közterület-használati hozzájárulás, kezelői vagy üzemeltetői hozzájárulás (a továbbiakban együtt e bekezdésben: hozzájárulás) szükséges, azt az elektronikus hírközlési szolgáltató kérelmének benyújtásától számított – ha jogszabály vagy szabályzat rövidebb határidőt nem állapít meg – 30 napon belül ki kell adni. A hozzájárulás formája egyoldalú nyilatkozat vagy megállapodás is lehet. Ha a hozzájárulás megadására feljogosított személy vagy szerv a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően megadottnak kell tekinteni.
+(4a) Az elektronikus hírközlési építmény elhelyezését a közterület tulajdonosa (használója vagy kezelője) tűrni köteles, a tulajdonosi hozzájárulást megadottnak kell tekinteni. Ha az építési munka megkezdéséhez közterület-használati hozzájárulás, kezelői vagy üzemeltetői hozzájárulás (a továbbiakban együtt e bekezdésben: hozzájárulás) szükséges, azt az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője kérelmének benyújtásától számított – ha jogszabály vagy szabályzat rövidebb határidőt nem állapít meg – 30 napon belül ki kell adni. A hozzájárulás formája egyoldalú nyilatkozat vagy megállapodás is lehet. Ha a hozzájárulás megadására feljogosított személy vagy szerv a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően megadottnak kell tekinteni.
 
 (4b) A magyar állam tulajdonában álló ingatlanok igénybevétele vonatkozásában – ha van az ingatlan-nyilvántartásba bejegyzett vagyonkezelő – elegendő a vagyonkezelő hozzájárulása, a tulajdonos vagy tulajdonosi joggyakorló hozzájárulása nem szükséges.
 
-(4c) Ha az elektronikus hírközlési építmény elhelyezése vasúti pálya, folyóvíz vagy csatorna területét érinti, a vasúti pálya, folyóvíz, csatorna vagyonkezelője, ennek hiányában tulajdonosa köteles – ha jogszabály ennél rövidebb határidőt nem állapít meg – az elektronikus hírközlési szolgáltató megkeresését követő 45 napon belül megállapodást kötni. Ha a vagyonkezelő, ennek hiányában a tulajdonos a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a vagyonkezelő vagy a tulajdonos a kérelemben foglaltak szerinti feltételekkel köteles tűrni az elhelyezést.
+(4c) Ha az elektronikus hírközlési építmény elhelyezése vasúti pálya, folyóvíz vagy csatorna területét érinti, a vasúti pálya, folyóvíz, csatorna vagyonkezelője, ennek hiányában tulajdonosa köteles – ha jogszabály ennél rövidebb határidőt nem állapít meg – az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője megkeresését követő 45 napon belül megállapodást kötni. Ha a vagyonkezelő, ennek hiányában a tulajdonos a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a vagyonkezelő vagy a tulajdonos a kérelemben foglaltak szerinti feltételekkel köteles tűrni az elhelyezést.
 
 (4d) A tulajdonosi hozzájárulás a szolgalmi vagy más használati jogokkal azonos jogosultságokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
 
-(4e) A fizikai infrastruktúra (2a) bekezdés szerinti felhasználásához nem kell az ingatlan tulajdonosának hozzájárulását kérni a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlan tekintetében, ha a nagy sebességű elektronikus hírközlő hálózatok létesítése nem jelent további korlátozást az ingatlan használatában a fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest. Ha az építési engedélyezési eljárásra irányuló kérelem és mellékletei tartalmából más nem következik, vélelmezni kell, hogy a nagy sebességű elektronikus hírközlő hálózatok létesítése nem jár további korlátozással az ingatlan használatában a meglévő fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest.
+(4e) A fizikai infrastruktúra felhasználásához nem kell az ingatlan tulajdonosának hozzájárulását kérni a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlan tekintetében, ha a rendkívül nagy kapacitású hálózatok létesítése nem jelent további korlátozást az ingatlan használatában a fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest. Ha az építési engedélyezési eljárásra irányuló kérelem és mellékletei tartalmából más nem következik, vélelmezni kell, hogy a rendkívül nagy kapacitású hálózatok létesítése nem jár további korlátozással az ingatlan használatában a meglévő fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest.
 
-(4f) A (4e) bekezdés alapján létesített nagy sebességű elektronikus hírközlő hálózat üzemeltetőjének ingatlanhasználati joga megszűnik a felhasznált fizikai infrastruktúrához kapcsolódó vezetékjog, szolgalmi vagy használati jog megszűnésével, továbbá a felhasznált fizikai infrastruktúra ingatlanról történő eltávolításával.
+(4f) A (4e) bekezdés alapján létesített rendkívül nagy kapacitású hálózat üzemeltetőjének ingatlanhasználati joga megszűnik a felhasznált fizikai infrastruktúrához kapcsolódó vezetékjog, szolgalmi vagy használati jog megszűnésével, továbbá a felhasznált fizikai infrastruktúra ingatlanról történő eltávolításával.
 
 (4g) Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett tulajdonosok tulajdoni hányad alapján számított többségi döntése szükséges.
 
@@ -138,4 +98,4 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (6) A helyi önkormányzatot a tulajdonában álló közterületen található elektronikus hírközlési építményen – a 90. § megfelelő alkalmazásával – ingyenes használati jog illeti meg az olyan közbiztonsági, bűnmegelőzési, illetve bűnüldözési célt szolgáló eszköz, illetve az eszköz elektronikus hírközlő hálózati ellátását biztosító nem nyilvános elektronikus hírközlő hálózat elemeinek elhelyezésével összefüggésben, amelyek gazdasági célt közvetve sem szolgálnak. Az ingyenes használat joga a fővárosi közterületeken található elektronikus hírközlési építményekkel összefüggésben mind a fővárosi, mind a kerületi önkormányzatot megilleti, függetlenül attól, hogy melyik önkormányzat a közterület tulajdonosa. A használattal összefüggő műszaki feltételeket az elektronikus hírközlési építmény tulajdonosa, használója és a helyi önkormányzat közötti megállapodásban kell meghatározni. A megállapodásra az e törvény felhatalmazása alapján kiadott, az elektronikus hírközlési építmények elhelyezéséről szóló elnöki rendelet rendelkezéseit alkalmazni kell.
 
-(7) Kis területi lefedésű, vezeték nélküli hozzáférési pontok kiépítése érdekében az elektronikus hírközlési szolgáltatóval a (2a) bekezdés szerint köteles együttműködni a magyar építészetről szóló törvény szerint sajátos építményfajták – ide nem értve az e törvény szerinti fizikai infrastruktúra fogalmába tartozó sajátos építményfajtákat – és a közhasználatú építmény vagyonkezelője, ennek hiányában tulajdonosa, az utcabútor, reklámhordozót tartó berendezés, reklámcélú berendezés (ideértve a tájékozódást segítő jelzést megjelenítő reklámcélú eszközt is) és a hirdetőoszlop tulajdonosa. Az együttműködésre kötelezettek közötti megállapodás részletes szabályait az Elnök rendeletben állapítja meg.
+(7) Kis területi lefedésű, vezeték nélküli hozzáférési pontok kiépítése érdekében az elektronikus hírközlési szolgáltatóval vagy a kapcsolódó eszközök üzemeltetőjével köteles együttműködni a közszférabeli szervezet, a magyar építészetről szóló törvény szerint sajátos építményfajták – ide nem értve az e törvény szerinti fizikai infrastruktúra fogalmába tartozó sajátos építményfajtákat – vagyonkezelője, ennek hiányában tulajdonosa, az utcabútor, reklámhordozót tartó berendezés, reklámcélú berendezés (ideértve a tájékozódást segítő jelzést megjelenítő reklámcélú eszközt is) és a hirdetőoszlop tulajdonosa. Az együttműködésre kötelezettek közötti megállapodás részletes szabályait az Elnök rendeletben állapítja meg.

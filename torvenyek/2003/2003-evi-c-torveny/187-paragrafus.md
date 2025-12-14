@@ -20,6 +20,8 @@ h) a méltányos használatra vonatkozó feltételek alkalmazására és a kiske
 
 i) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és a BEREC Működését Segítő Ügynökségnek (BEREC Hivatal) a létrehozásáról, az (EU) 2015/2120 rendelet módosításáról, valamint az 1211/2009/EK rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1971 európai parlamenti és tanácsi rendelet 50. cikke
 
+j) a gigabites elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről, az (EU) 2015/2120 rendelet módosításáról, és a 2014/61/EU irányelv hatályon kívül helyezéséről (a gigabites infrastruktúráról szóló rendelet) szóló, 2024. április 29-i (EU) 2024/1309 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a törvény
@@ -40,7 +42,7 @@ g) a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gy
 
 h) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek,
 
-i) a nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről szóló, 2014. május 15-i 2014/61/EU európai parlamenti és a tanácsi irányelv 2. cikk 1–4. 7–9. valamint 11. pontja, 3. cikk, 4. cikk, 5. cikk, 6. cikk, 7. cikk, 8. cikk és a 9. cikk (1)–(4) bekezdésének,
+i)
 
 j) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelvnek, valamint
 

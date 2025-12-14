@@ -64,11 +64,13 @@ c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon t�
 
 27. Előfizetői szolgáltatás: a nyilvánosan elérhető, e törvény értelmében hálózati szolgáltatásnak nem minősülő elektronikus hírközlési szolgáltatás.
 
-28. Építési munka: olyan építési vagy közművesítési munkák, amelyek összességében vett eredménye önmagában alkalmas valamely gazdasági vagy műszaki funkció ellátására, és amely egy fizikai infrastruktúra legalább egy elemét érinti.
+28. Építési munka: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 5. pontjában meghatározott fogalom.
 
-29. Épületen belüli fizikai infrastruktúra: az épület hozzáférési pontján végződő, a végfelhasználói helyen található fizikai infrastruktúra vagy létesítmény, ideértve a vezetékes vagy a vezeték nélküli hozzáférési hálózatok fogadására szánt, közös tulajdonban lévő elemeket is, amennyiben ezek a hozzáférési hálózatok alkalmasak előfizetői szolgáltatás nyújtására.
+29. Épületen belüli fizikai infrastruktúra: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 6. pontjában meghatározott fogalom.
 
-30. Épület-hozzáférési pont: az épületen belül vagy kívül elhelyezkedő, elektronikus hírközlési szolgáltatás nyújtására hozzáférhető azon fizikai pont, amely lehetővé teszi az épületen belüli fizikai infrastruktúrához való fizikai és logikai csatlakozást.
+29a. Épületen belüli optikai kábelezés: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 7. pontjában meghatározott fogalom.
+
+30. Épület-hozzáférési pont: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában meghatározott fogalom.
 
 31. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
 
@@ -76,7 +78,7 @@ c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon t�
 
 33. Fizikai helymegosztás: olyan helymegosztás, amelynek esetében a jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
 
-34. Fizikai infrastruktúra: a hírközlő vezetékek, az aktív hálózati elemeket nélkülöző optikai szál, az ivóvíz-törzshálózat és az ivóvíz-bekötővezeték (azaz emberi fogyasztásra szánt víz szállítására használt hálózati elemek) kivételével a 47. pontban meghatározott rendeltetésű hálózathoz tartozó, különösen átviteli vagy elosztó hálózat elemek, csővezeték, védőcsövek, védőcsövek szerelvényei, alépítmény, ellenőrzőkamra, ellenőrzőakna, szekrény, építmény, antennaszerkezet, torony, tartóoszlop vagy más olyan elem, amely a hálózat más elemeinek fogadására szolgál anélkül, hogy maga is a hálózat aktív részévé válna.
+34. Fizikai infrastruktúra: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 4. pontjában meghatározott fogalom.
 
 35. Fogyasztó: az a természetes személy, aki szakmáján, üzleti, kereskedelmi, művészeti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
 
@@ -102,7 +104,7 @@ c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon t�
 
 46. Hálózatok és szolgáltatások biztonsága: az elektronikus hírközlő hálózatok és hírközlési szolgáltatások arra való képessége, hogy adott bizonyossággal ellenálljanak minden olyan cselekménynek, amely veszélyezteti a hálózatok és szolgáltatások, a rajtuk tárolt, továbbított vagy kezelt adatok vagy az említett elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások keretében nyújtott vagy rajtuk keresztül elérhető kapcsolódó szolgáltatások rendelkezésre állását, hitelességét, sértetlenségét vagy bizalmasságát.
 
-47. Hálózatüzemeltető: a földgáz, a villamos energia, a távhő előállításával, termelésével, szállításával, elosztásával vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra tulajdonosa, illetve annak üzemeltetője, valamint a nyilvános elektronikus hírközlő hálózat üzemeltetője.
+47. Hálózatüzemeltető: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom.
 
 48. Hálózati hozzáférési pont: a hálózatnak más hálózat fizikai és logikai csatlakoztatására kijelölt olyan pontja, amelyen keresztül a hozzáférési szolgáltatás megvalósul.
 
@@ -184,9 +186,31 @@ b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoz
 
 76. Kilépési pont: a titkos információgyűjtés, illetve leplezett eszközök alkalmazása során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
 
-77. Kis hatótávú, vezeték nélküli hozzáférési pont: engedélyköteles, engedélymentes, vagy engedélyköteles és engedélymentes rádióspektrum használatával üzemelő, kis teljesítményű, kis hatótávú, egy vagy több csekély vizuális hatású antennával rendelkező vezeték nélküli hálózati hozzáférést megvalósító kisméretű berendezés. Működhet nyilvános elektronikus hírközlő hálózat részeként, vagy biztosíthat a felhasználók számára vezeték nélküli hozzáférést tekintet nélkül a hálózati topológiára – akár állandóhelyű, akár mobil – elektronikus hírközlő hálózathoz.
+77. Kis területi lefedésű, vezeték nélküli hozzáférési pont: engedélyköteles, engedélymentes, vagy engedélyköteles és engedélymentes rádióspektrum használatával üzemelő, kis teljesítményű, kis területi lefedésű, egy vagy több csekély vizuális hatású antennával rendelkező vezeték nélküli hálózati hozzáférést megvalósító kisméretű berendezés. Működhet nyilvános elektronikus hírközlő hálózat részeként, vagy biztosíthat a felhasználók számára vezeték nélküli hozzáférést tekintet nélkül a hálózati topológiára – akár állandóhelyű, akár mobil – elektronikus hírközlő hálózathoz.
 
 78. Kizárólagos jog: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
+
+78a. Közjogi intézmény: az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy irányítása a minisztérium, a Kormány által kijelölt központi beszerző szerv, a 78b. pontjában meghatározott egy vagy több szervezet, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa létesített vagy fenntartott jogi személy, az Országgyűlés vagy a Kormány közvetlen vagy közvetett felügyelete alatt áll, vagy többségi részben egy vagy több ilyen szervezet (testület) finanszírozza, vagy egy vagy több ilyen szervezet (testület) választja meg a vezető tisztségviselők, a döntéshozó szerv vagy a felügyelőbizottság tagjainak a többségét.
+
+78b. Közszférabeli szervezet:
+
+a) az állam,
+
+b) a költségvetési szerv,
+
+c) a közalapítvány,
+
+d) a helyi önkormányzat,
+
+e) a helyi és országos nemzetiségi önkormányzat,
+
+f) a helyi és nemzetiségi önkormányzatok társulása,
+
+g) a területfejlesztési önkormányzati társulás,
+
+h) a térségi fejlesztési tanács, vagy
+
+i) a közjogi intézmény.
 
 79. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök közös használata. A helymegosztás a közös eszközhasználat különös formája.
 
@@ -220,6 +244,20 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 
 92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
 
-93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat, ideértve a kis hatótávú vezeték nélküli hozzáférési pontot.
+93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
 
 94. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
+
+95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
+
+96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatások hívószámai.
+
+97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
+
+98. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
+
+99. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók, adatforgalmaik egymásnak történő átadása céljából.
+
+100. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
+
+101. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban nyilvános elektronikus hírközlési szolgáltatások nyújtására használt hálózati végpontok közötti információátvitelt támogató elektronikus hírközlő hálózat.

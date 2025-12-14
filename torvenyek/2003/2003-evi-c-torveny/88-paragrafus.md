@@ -1,8 +1,8 @@
 ## A hálózati szerződések köre, közös szabályai
 
-88. § (1) Az elektronikus hírközlési szolgáltatók az elektronikus hírközlésre vonatkozó szabályban meghatározott feltételekkel köthetnek hálózati szerződést.
+88. § (1) Az elektronikus hírközlési szolgáltatók az elektronikus hírközlésre vonatkozó szabályban meghatározott feltételekkel köthetnek egymással vagy más vállalkozással hálózati szerződést.
 
-(2) A hálózati szerződéseket írásba kell foglalni, azokban a feleknek – a (2a) bekezdésben foglalt esetet ide nem értve – rendelkezniük kell:
+(2) A hálózati szerződéseket tartós adathordozón kell átadni, azokban a feleknek – a (2a) bekezdésben foglalt esetet ide nem értve – rendelkezniük kell:
 
 a) a szerződés tárgyáról, céljáról;
 
@@ -10,9 +10,9 @@ b) a nyújtott szolgáltatásról, annak minőségéről és a vállalt teljesí
 
 c) a fizetendő ellenértékről;
 
-d) a hálózatok működőképességének fenntartásáról;
+d)
 
-e) a szolgáltatások együttműködéséről;
+e)
 
 f) a szerződés megszűnésének eseteiről, a határozott idejű szerződés lejártának idejéről, illetve a határozatlan idejű szerződés felmondási idejéről;
 
@@ -20,13 +20,13 @@ g) a szolgáltatás nyújtása során az adatvédelem követelményei teljesít�
 
 h) a szerződésszegés esetén alkalmazandó jogkövetkezményekről;
 
-i) a harmadik személyeknek nyújtott szolgáltatásokért fennálló felelősség viselésének módjáról és mértékéről.
+i)
 
 (2a) Amennyiben az Elnök a 62–66. § vagy a XI. fejezet szerinti eljárásaiban hozzáféréssel vagy összekapcsolással kapcsolatos kötelezettséget ír elő, a (2) bekezdéstől eltérően a hálózati szerződések tartalmi elemeit az Elnök határozatában határozza meg.
 
-(3) Az elektronikus hírközlési tevékenységet végző és az általa irányított, őt irányító vagy vele közös irányítás alatt álló más szolgáltatóval e törvény hatálybalépését követően létrejött hálózati szerződést a feleknek a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtaniuk a Hatósághoz.
+(3) Az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdése szerinti hozzáférésre vonatkozóan létrejött hálózati szerződést a nyilvános elektronikus hírközlő hálózat üzemeltetőjének a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtania a Hatósághoz.
 
-(4) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 6 hónapon belül tervezett változtatásokat is.
+(4)
 
 (5) A hálózati szerződés semmissége, illetve a hálózati szerződés vonatkozásában fennálló felelősség tekintetében, amennyiben ezen törvény ellentétes rendelkezést nem tartalmaz, a Polgári törvénykönyvről szóló törvény (a továbbiakban: Ptk. megfelelő rendelkezéseit kell alkalmazni.
 

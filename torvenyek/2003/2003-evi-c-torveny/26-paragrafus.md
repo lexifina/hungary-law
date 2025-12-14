@@ -6,6 +6,6 @@
 
 (3) A véglegessé vált határozattal megállapított kötelezettség esetén az ügyfél jogutódjának minősül az a harmadik személy is, akire az eredeti (jogelőd) kötelezett ügyfél a tevékenysége végzésének feltételeit megállapodás alapján átruházza.
 
-(4) Amennyiben a jogutódlás a hatósági eljárás során következik be és a jogutódlás jogszabályon alapul, abban az esetben a Hatóság a jogutódlás tényét végzésében megállapítja.
+(4)
 
 (5) Amennyiben a jogutódlás hatósági eljárás során következik be és a jogutódlás szerződésen alapul, akkor a Hatóság a hatósági hatáskörének gyakorlásához szükséges jogutódlás tényét végzésében megállapítja.

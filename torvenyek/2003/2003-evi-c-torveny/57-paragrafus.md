@@ -1,6 +1,6 @@
 ## Eljárás jogvitában
 
-57. § (1) Az a szolgáltató vagy egyéb vállalkozás, amelynek egy másik szolgáltató
+57. § (1) Az a szolgáltató, kapcsolódó eszközök üzemeltetője, hálózatüzemeltető, közszférabeli szervezet vagy egyéb vállalkozás, amelynek egy másik szolgáltató, kapcsolódó eszközök üzemeltetője, hálózatüzemeltető, közszférabeli szervezet vagy egyéb vállalkozás
 
 a) elektronikus hírközlésre vonatkozó szabályban, az ez alapján kötött szerződésben,
 

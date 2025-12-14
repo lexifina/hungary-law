@@ -1,6 +1,6 @@
 ## Felhatalmazás
 
-182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
+182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg
 
 a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
 
@@ -12,17 +12,15 @@ d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos e
 
 e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
 
-f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
-
-g)
+f) a fizikai infrastruktúrához a rendkívül nagy kapacitású hálózatok kiépítéséhez kapcsolódóan biztosítandó hozzáférési kötelezettség alól mentesülő fizikai infrastruktúrák körét vagy az ilyen fizikai infrastruktúrák kategóriát, rendkívül nagy kapacitású hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával és a tervezett építési munkákkal kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli optikai kábelezés és fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
 
 g) a 127. § (2d) bekezdésében meghatározott szervet;
 
-h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét.
+h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét;
 
 i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
-(2)
+(2) Felhatalmazást kap a Kormány arra, hogy a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
 
@@ -76,7 +74,7 @@ i) az alapvető felhasználók elektronikus hírközlési szolgáltatással tör
 
 25. azon eljárások körét, amelyekben kötelező vagy kizárólagos az elektronikus kapcsolattartás, illetve az egyes eljárásokban a kapcsolattartás módját.
 
-26. az elektronikus hírközlési építményekkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárások szabályait, valamint a település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
+26. az elektronikus hírközlési építményekkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárások és a 83. § (4a) bekezdése szerinti egyeztetés szabályait, valamint a település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
 
 27. az egyetemes szolgáltatás nyújtásával, megfizethetőségével és megfelelőségével kapcsolatos szabályokat, ennek keretében az egyetemes szolgáltatás és a megfelelő szélessávú internet-hozzáférési szolgáltatás tartalmát, az egyetemes elektronikus hírközlési szolgáltató kijelölésének feltételeit és a vonatkozó eljárás részletes szabályait, a fogyatékossággal élő fogyasztók egyenértékű hozzáférését elősegítő különös szabályokat, az egyetemes szolgáltatás megfizethetőségének biztosításával kapcsolatos szabályokat, a nettó elkerülhető költség és az egyetemes szolgáltatás nyújtásából származó közvetett előnyök számításának részletes szabályait, az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait, valamint az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit;
 
@@ -88,13 +86,13 @@ i) az alapvető felhasználók elektronikus hírközlési szolgáltatással tör
 
 31. az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
 
-32. a honvédelmi és a katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
+32. a honvédelmi és katasztrófavédelmi feladatok ellátásában közreműködésre, valamint a védelmi és biztonsági célú felkészülési feladatok ellátására kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
 
 33. a 159/B. § szerinti elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók KEHTA-hoz való kapcsolódásának és elektronikus kapcsolattartásának, valamint a KEHTA-hoz való kapcsolódás alóli mentesülés részletes szabályait;
 
 34. a nagykereskedelmi hívásvégződtetési díjak meghatározásának elveit, kritériumait és a díjak alkalmazásával kapcsolatos egyéb szabályokat;
 
-35. a 83/A. § (1) bekezdés szerinti írásbeli ajánlat kötelező tartalmi elemeit, valamint a Hatóság 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (8) bekezdése, 93/B. § (6) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásának eljárási szabályait, a kérelem tartalmi követelményeit, a tényállás tisztázására vonatkozó szabályokat, a hatósági döntés tartalmát, a költségek megállapításának szabályait, az alkalmazandó költségszámítási vagy díjképzési módszer szabályait.
+35. a 83/A. § (1) bekezdés szerinti írásbeli ajánlat, a 94. § (2c) és a 99/B. § (1) bekezdése szerinti írásbeli ajánlatkérés kötelező tartalmát, és a 83/A. § (4) bekezdés c) pontja szerinti vidéki terület meghatározását, valamint a Hatóság 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (3) bekezdése, 93/B. § (3) bekezdése, 94. § (2g) bekezdése és 99/C. § (1) bekezdése szerinti jogvitás eljárásának eljárási szabályait, a kérelem tartalmi követelményeit, a tényállás tisztázására vonatkozó szabályokat, a hatósági döntés tartalmát, a költségek megállapításának szabályait, az alkalmazandó költségszámítási vagy díjképzési módszer szabályait;
 
 36. a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének kikérésével az egyazon egyéni előfizető, illetve egyazon üzleti előfizető által megköthető, előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződések számát;
 
