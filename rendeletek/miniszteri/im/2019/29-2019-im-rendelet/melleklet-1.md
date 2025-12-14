@@ -38,7 +38,7 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Záradéki tanúsítványok készítése során közreműködés megtagadása: |  |
 
-3.[^75] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek
+3.[^75] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek és az európai fizetési meghagyásos ügyek
 
 3.1. Hagyatéki ügy
 
@@ -54,11 +54,9 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 3.7. Gépjármű zálognyilvántartás
 
-3.8/a. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése
+3.8. Élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzése
 
-3.8/b. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése
-
-3.9. Európai fizetési meghagyásos ügy
+3.9. Élettársi kapcsolat fenn nem állásáról szóló nyilatkozat bejegyzése
 
 3.10. Hitelbiztosítéki nyilvántartásba bejegyzett jogosult vagy kötelezett jogutódjának megállapítására irányuló nemperes eljárás
 
@@ -84,25 +82,59 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 3.21. Összesen
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| Ügytípus | Érkezett | Befejezett | Folyamatban maradt |
 
-| a | b |
+| Összesen1 | 1 éven túli2 | 2 éven túli3 | 5 éven túli4 |
 
-| Érkezett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 |  |  |  |  |  |  |
 
-| Befejezett |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
 
-| Folyamatban maradt | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |
 
-|  | 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |
 
-|  | 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |
 
-|  | 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6 |  |  |  |  |  |  |
 
-| Jogerőre emelkedett, nemperes eljárást befejező érdemi határozatok (végrehajthatóvá nyilvánított európai fizetési meghagyások) száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7 |  |  |  |  |  |  |
 
-| Az európai fizetési meghagyásos ügyekben érkezett ellentmondások száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8 |  |  |  |  |  |  |
+
+| 9 |  |  |  |  |  |  |
+
+| 10 |  |  |  |  |  |  |
+
+| 11 |  |  |  |  |  |  |
+
+| 12 |  |  |  |  |  |  |
+
+| 13 |  |  |  |  |  |  |
+
+| 14 |  |  |  |  |  |  |
+
+| 15 |  |  |  |  |  |  |
+
+| 16 |  |  |  |  |  |  |
+
+| 17 |  |  |  |  |  |  |
+
+| 18 |  |  |  |  |  |  |
+
+| 19 |  |  |  |  |  |  |
+
+| 20 |  |  |  |  |  |  |
+
+| Összesen |  |  |  |  |  |  |
+
+## 1 Ebből a lekérdezés időpontjában a Hetv. 104/A–B. §-a szerinti hagyatéki ügy (szállomány):
+
+## 2 Ebből a lekérdezés időpontjában a Hetv. 104/A–B. §-a szerinti hagyatéki ügy (szállomány):
+
+## 3 Ebből a lekérdezés időpontjában a Hetv. 104/A–B. §-a szerinti hagyatéki ügy (szállomány):
+
+## 4 Ebből a lekérdezés időpontjában a Hetv. 104/A–B. §-a szerinti hagyatéki ügy (szállomány):
 
 4. Végrehajtás elrendelése iránti ügyek – kivéve fizetési meghagyásos ügyek és fizetési meghagyás alapján végrehajtás elrendelése és biztosítási intézkedés elrendelése iránti ügyek
 
@@ -130,4 +162,23 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Az ügyekből önálló bírósági végrehajtónak átadva |  |  |  |
 
-[^75]: Az 1. melléklet 3. pontja az 50/2024. (XII. 31.) IM rendelet 3. §-ával megállapított szöveg.
+5.[^76] Európai fizetési meghagyásos ügyek
+
+| Érkezett |  |
+
+| Befejezett |  |
+
+| Végrehajthatóvá nyilvánított európai fizetési meghagyások száma |  |
+
+| Az európai fizetési meghagyásos ügyekben érkezett ellentmondások száma |  |
+
+| Folyamatban maradt |  |
+
+| 1 éven túli |  |
+
+| 2 éven túli |  |
+
+| 5 éven túli |  |
+
+[^75]: Az 1. melléklet 3. pontja a 14/2025. (XI. 13.) IM rendelet 18. §-ával megállapított szöveg.
+[^76]: Az 1. melléklet 5. pontját a 14/2025. (XI. 13.) IM rendelet 18. §-a iktatta be.
