@@ -1,33 +1,33 @@
 18. § Hatályát veszti az Eht.
 
-1. 26. § (4) bekezdése,
+1.
 
-2. 47. § (4) bekezdésében az „ , amennyiben azokat az elektronikus hírközlési szolgáltató a Hatóság kötelező döntése vagy jogszabályban előírt, a Hatóság erre irányuló külön döntése nélküli adatszolgáltatási kötelezettség alapján szolgáltatta. A Hatóság az elektronikus hírközlési szolgáltatót az általa más eljárásban szolgáltatott adatok 62–66. § szerinti eljárásban való lehetséges felhasználására előzetesen figyelmeztetni köteles” szövegrész,
+2.
 
-3. 47. § (14) bekezdésében az „ , és ezeket az adatokat – a szolgáltató kifejezett nyilatkozata hiányában – nem használhatja fel tevékenységeiben, eljárásaiban és egyéb módon sem az adatszolgáltató tekintetében” szövegrész,
+3.
 
-4. 83/A. § (5) bekezdése,
+4.
 
-5. 83/B. § (3) bekezdésében a „részletes” szövegrész,
+5.
 
-6. 88. § (2) bekezdés d) és e) pontja,
+6.
 
-7. 88. § (2) bekezdés i) pontja,
+7.
 
-8. 88. § (4) bekezdése,
+8.
 
-9. 94. § (2a) bekezdése,
+9.
 
-10. 94. § (3a) bekezdése,
+10.
 
-11. 94. § (4e) bekezdésében a „(2a) bekezdés szerinti” szövegrész,
+11.
 
-12. 94. § (7) bekezdésében az „és a közhasználatú építmény” szövegrész,
+12.
 
 13.
 
-14. 187. § (2) bekezdés i) pontja,
+14.
 
-15. 188. § 93. pontjában az „ , ideértve a kis hatótávú vezeték nélküli hozzáférési pontot” szövegrész,
+15.
 
 16.
