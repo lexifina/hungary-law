@@ -60,5 +60,22 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
+10.[^3] egyetért azzal, hogy a 2. pont szerinti forrásból az 1. pontban szereplő Beruházások megvalósítása során a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által fel nem használt 1 997 688 120 forint támogatást a debreceni Déli Gazdasági Övezet bővítésével összefüggő infrastruktúra-fejlesztésekről szóló 1041/2022. (II. 4.) Korm. határozat 1.7. pont 1.7.2. alpont a) pontja szerinti villamos energia átviteli hálózati infrastruktúra-fejlesztésre fordítsa;
+
+11.[^4] felhívja az energiaügyi minisztert, hogy a 10. pont szerinti fel nem használt támogatás összegének eltérő fejlesztési céljából történő felhasználása érdekében tegye meg a szükséges intézkedéseket;
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | az e határozat közzétételét követő 30 napon belül |
+
+12.[^5] felhívja az energiaügyi minisztert, hogy gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal megkötött támogatási szerződés 2 447 311 880 forintra történő módosításáról.
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | az e határozat közzétételét követő 30 napon belül |
+
 [^1]: Az 1. pont nyitó szövegrésze az 1065/2023. (III. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 3. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont b) alpontja visszavonta.
+[^3]: A 10. pontot az 1561/2025. (XII. 16.) Korm. határozat 1. pontja iktatta be.
+[^4]: A 11. pontot az 1561/2025. (XII. 16.) Korm. határozat 1. pontja iktatta be.
+[^5]: A 12. pontot az 1561/2025. (XII. 16.) Korm. határozat 1. pontja iktatta be.
