@@ -64,7 +64,7 @@
 
 ## d) az igény ellátáshoz kapcsolódó további mögöttes átviteli hálózat átalakítása keretében a „Békéscsaba OVIT” 400/132 kV-os alállomás bővítése és „Sajóivánka–Felsőzsolca” második 400 kV-os távvezeték,
 
-## e) a „Debrecen Déli Ipari Park 2.” 132/22 kV-os alállomás létesítése és bővítése,
+## e) a „Debrecen Gugyori” 132 kV-os kapcsolóállomás létesítése és bővítése,
 
 ## f) a „Debrecen Déli Ipari Park 2.” és „Józsa” alállomások összeköttetése 132 kV-os távvezetékekkel,
 
@@ -74,15 +74,15 @@
 
 ## i) a „Debrecen Déli Ipari Park 1.” és „Debrecen Déli Ipari Park 2.” alállomások összeköttetése 132 kV-os kábelekkel,
 
-## j) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítás keretében a „Debrecen Délkelet” alállomás, „Debrecen Tócóskert – DKCE” 132 kV-os kábel, valamint „Debrecen OVIT – Debrecen Déli Ipari park 1.”, „Józsa – Debrecen OVIT III.”, „Macs – Debrecen OVIT” és „Debrecen OVIT – Debrecen Tócóskert (T-Debrecen Ipari) I.” 132 kV-os távvezetékek,
+## j) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítás keretében a „Debrecen Délkelet” alállomás, „Debrecen Tócóskert – DKCE” 132 kV-os kábel, valamint „Debrecen OVIT – Balkány”, „Józsa – Debrecen OVIT III.”, „Macs – Debrecen OVIT” és „Debrecen OVIT – Hajdúszoboszló” 132 kV-os távvezetékek, „Békéscsaba–Békés–Szeghalom” [132] kV-os távvezeték OPUS TITÁSZ Zrt. tulajdonú szakasza, „Békéscsaba – Mezőtúr (T-Szarvas)” [132] kV-os távvezeték OPUS TITÁSZ Zrt. tulajdonú szakasza,
 
-## k) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítása keretében a „Békéscsaba–Békés–Szeghalom” és „Békéscsaba – Mezőtúr (T-Szarvas)” 132 kV-os távvezetékek,
+## k) az igény ellátáshoz kapcsolódó további mögöttes elosztói hálózat átalakítása keretében a „Békéscsaba–Békés–Szeghalom” MVM DÉMÁSZ Áramhálózati Kft. tulajdonú szakasza és „Békéscsaba – Mezőtúr (T-Szarvas)” 132 kV-os távvezetékek MVM DÉMÁSZ Áramhálózati Kft. tulajdonú szakasza,
 
-## l) a Debrecen Déli Gazdasági Övezetbe betelepülő gazdasági társaságok ellátása érdekében 2*3 darab 132 kV-os közcélú kábelhálózat
+## l) a Debrecen Déli Gazdasági Övezetbe betelepülő gazdasági társaságok ellátása érdekében 2*2 darab 132 kV-os közcélú kábelhálózat
 
-## megvalósításával;
+## l) megvalósításával;
 
-## 1.7.2.[^2] azzal, hogy az 1.7.1. pont szerinti beruházások (a továbbiakban: Beruházások) finanszírozása 119 502 023 012 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 60 hónapon belül, az alábbiak szerint:
+## 1.7.2.[^2] azzal, hogy az 1.7.1. pont szerinti beruházások (a továbbiakban: Beruházások) finanszírozása 116 128 906 648 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 84 hónapon belül, az alábbiak szerint:
 
 ## a)[^3] a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvalósítandó átviteli hálózati fejlesztések megépítéséhez 76 035 800 538 forint,
 
@@ -90,13 +90,13 @@
 
 ## c)[^5] az MVM Démász Áramhálózati Korlátolt Felelősségű Társaság által megvalósítandó elosztó hálózati fejlesztések megépítéséhez 2 162 000 000 forint,
 
-## d)[^6] a Debrecen Megyei Jogú Város Önkormányzata által fizetendő teljesítményarányos csatlakozási díj, területszerzés és előkészítés, valamint projektkoordináció költségeinek megfizetéséhez 10 474 647 474 forint
+## d)[^6] a Debrecen Megyei Jogú Város Önkormányzata által fizetendő teljesítményarányos csatlakozási díj, területszerzés és előkészítés, valamint projektkoordináció költségeinek megfizetéséhez 7 101 531 110 forint
 
 ## biztosításával;
 
-## 1.7.3.[^7] azzal, hogy az 1.7.2. pont d) alpontjában meghatározott összeg csatlakozási díj része előlegként kerüljön megfizetésre az átviteli és elosztói hálózati engedélyes részére a 2022–2026. költségvetési években;
+## 1.7.3.[^7] azzal, hogy az 1.7.2. pont d) alpontjában meghatározott összeg csatlakozási díj része előlegként kerüljön megfizetésre az átviteli és elosztói hálózati engedélyes részére a 2022–2028. költségvetési években;
 
-## 1.8.[^8] az átviteli és elosztó hálózati fejlesztések megvalósítása érdekében felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával gondoskodjon mindösszesen 111 114 895 878 forint biztosításáról, az alábbi ütemezés szerint:
+## 1.8.[^8] az átviteli és elosztó hálózati fejlesztések megvalósítása érdekében felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával gondoskodjon mindösszesen 116 198 128 162 biztosításáról, az alábbi ütemezés szerint:
 
 ## a) a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára 4 560 580 303 forint,
 
@@ -104,21 +104,21 @@
 
 ## c) a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 17 794 619 294 forint,
 
-## d)[^9] egyetért azzal, hogy a 2025. évben 33 049 225 739 forint rendelkezésre állása szükséges, ennek érdekében felhívja
+## d)[^9] egyetért azzal, hogy a 2025. évben 30 191 666 405 forint rendelkezésre állása szükséges, ennek érdekében felhívja
 
-## da) az energiaügyi minisztert, hogy – a XVII. Energiaügyi Minisztérium fejezetben rendelkezésre álló 31 535 055 929 forinton túl – a 2025. évben szükséges kifizetésekről elsődlegesen az általa irányított költségvetési fejezetek meglévő forrásai terhére gondoskodjon,
+## da) az energiaügyi minisztert, hogy – a XVII. Energiaügyi Minisztérium fejezetben rendelkezésre álló 25 535 055 929 forinton túl – a 2025. évben szükséges kifizetésekről elsődlegesen az általa irányított költségvetési fejezetek meglévő forrásai terhére gondoskodjon,
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | folyamatos |
 
-## db) a nemzetgazdasági minisztert, hogy az energiaügyi miniszter kezdeményezésére, az energiaügyi miniszter által irányított költségvetési fejezetek rendelkezésére álló forrásai felhasználását követően gondoskodjon legfeljebb 1 514 169 810 forint biztosításáról a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára;
+## db) a nemzetgazdasági minisztert, hogy az energiaügyi miniszter kezdeményezésére, az energiaügyi miniszter által irányított költségvetési fejezetek rendelkezésére álló forrásai felhasználását követően gondoskodjon legfeljebb 1 514 169 810 forint többletforrás biztosításáról a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára;
 
-| Felelős: | nemzetgazdasági miniszter |
+| Felelős: | nemzetgazdasági miniszter energiaügyi miniszter |
 
 | Határidő: | a 2025. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-## e) [^10] a 2026. évben 32 826 235 092 forint;
+## e) [^10] a 2026. évben 32 308 654 192 forintt;
 
 ## 1.9. [^11] felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 76 035 800 538 forint összegben támogatási szerződés megkötéséről;
 
@@ -140,9 +140,9 @@
 
 ## 1.12. [^14] felhívja a technológiai és ipari minisztert, hogy az 1.7.2. pont d) alpontjában foglaltakra tekintettel a Beruházások megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
 
-## a) [^15] 3 415 562 139 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
+## a) [^15] 2 498 392 200 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
 
-## b) [^16] 7 059 085 335 forint összegű vissza nem térítendő támogatást tartalmazó
+## b) [^16] 4 603 138 910 forint összegű vissza nem térítendő támogatást tartalmazó
 
 ## támogatási szerződés megkötéséről, azzal, hogy a támogatási szerződésben kerüljön rögzítésre, ha a Debrecen Megyei Jogú Város Önkormányzata a terület értékesítése során a vevőre áthárításra kerülő teljesítményarányos csatlakozási díj tekintetében az a) pont szerinti összegnél nagyobb bevételre (a továbbiakban: többletbevétel) tesz szert, a többletbevétellel azonos összegű vissza nem térítendő támogatást köteles visszafizetni a központi költségvetés javára, legfeljebb a b) pontban meghatározott vissza nem térítendő támogatás csatlakozási díjra eső összegének erejéig;
 
@@ -162,32 +162,39 @@
 
 | Határidő: | a felmerülés ütemében |
 
-## 1.15. [^18]
+## 1.15. [^18] egyetért azzal, hogy az 1. pont 1.8. alpont c) pontja szerinti forrásból az 1. pont 1.7. alpont 1.7.1. pontjában szereplő Beruházások megvalósítása során az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság által fel nem használt 104 000 000 forint támogatást a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések megvalósításáról, valamint a fejlesztésekkel összefüggő kormányhatározatok módosításáról szóló 1592/2018. (XI. 22.) Korm. határozat „KÖZMŰ-1” azonosítóval jelölt közmű projekt 3. pont 3.7. alpontja szerinti többletberuházásainak finanszírozására fordítsa;
 
-## 2.[^19]
+## 1.16. [^19] felhívja az energiaügyi minisztert, hogy az 1. pont 1.15. alpont szerinti fel nem használt támogatás összegének eltérő fejlesztési céljából történő felhasználása érdekében tegye meg a szükséges intézkedéseket.
 
-## 3.[^20]
+| Felelős: | energiaügyi miniszter |
 
-1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^21]
+| Határidő: | az e határozat közzétételét követő 30 napon belül |
 
-[^1]: Az 1. pont 1.7. alpont 1.7.1. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1. pont 1.7. alpont 1.7.2. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1577/2022. (XI. 28.) Korm. határozat 3. pont a) pontja, az 1048/2025. (III. 11.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+## 2.[^20] A Kormány egyetért azzal, hogy az 1. pont 1.7. alpont 1.7.1. pontja szerinti feladatok megvalósítása érdekében a 2026. évi költségvetési törvényben az energiaügyi miniszter irányítása alá tartozó költségvetési fejezetben biztosított forrásokból e határozatnak az ipari parkok infrastruktúra-fejlesztéséhez szükséges források átcsoportosításával összefüggő intézkedésekről szóló 1561/2025. (XII. 16.) Korm. határozattal módosított rendelkezések szerinti átütemezés okán felszabaduló összegek felhasználásához a nemzetgazdasági miniszter egyetértése szükséges.
+
+## 3.[^21]
+
+1. melléklet az 1041/2022. (II. 4.) Korm. határozathoz[^22]
+
+[^1]: Az 1. pont 1.7. alpont 1.7.1. pontja az 1561/2025. (XII. 16.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. pont 1.7. alpont 1.7.2. pontja az 1415/2022. (VIII. 18.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1561/2025. (XII. 16.) Korm. határozat 9. pont a) és b) alpontja szerint módosított szöveg.
 [^3]: Az 1. pont 1.7. alpont 1.7.2. pont a) alpontja az 1048/2025. (III. 11.) Korm. határozat 3. pontjával megállapított szöveg.
 [^4]: Az 1. pont 1.7. alpont 1.7.2. pont b) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
 [^5]: Az 1. pont 1.7. alpont 1.7.2. pont c) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont d) pontja szerint módosított szöveg.
-[^6]: Az 1. pont 1.7. alpont 1.7.2. pont d) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont e) pontja szerint módosított szöveg.
-[^7]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be.
-[^8]: Az 1. pont 1.8. alpontja az 1268/2024. (IX. 10.) Korm. határozat 8. pontjával megállapított szöveg.
-[^9]: Az 1. pont 1.8. alpont d) pontja az 1048/2025. (III. 11.) Korm. határozat 4. pontjával megállapított szöveg.
-[^10]: Az 1. pont 1.8. pont e) alpontja az 1048/2025. (III. 11.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: Az 1. pont 1.7. alpont 1.7.2. pont d) alpontja az 1561/2025. (XII.16.) Korm. határozat 4. pontjával megállapított szöveg.
+[^7]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be, szövege az 1561/2025. (XII.16.) Korm. határozat 5. pontjával megállapított szöveg.
+[^8]: Az 1. pont 1.8. alpontja az 1268/2024. (IX. 10.) Korm. határozat 8. pontjával megállapított, az 1561/2025. (XII. 16.) Korm. határozat 9. pont c) alpontja szerint módosított szöveg.
+[^9]: Az 1. pont 1.8. alpont d) pontja az 1561/2025. (XII. 16.) Korm. határozat 6. pontjával megállapított szöveg.
+[^10]: Az 1. pont 1.8. alpont e) pontja az 1561/2025. (XII. 16.) Korm. határozat 6. pontjával megállapított szöveg.
 [^11]: Az 1. pont 1.9. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg. Az 1. pont 1.9. pontja az 1048/2025. (III. 11.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
 [^12]: Az 1. pont 1.10. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 3. pontjával megállapított, az 1577/2022. (XI. 28.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
 [^13]: Az 1. pont 1.11. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
 [^14]: Az 1. pont 1.12. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 4. pontjával megállapított szöveg.
-[^15]: Az 1. pont 1.12. alpont a) pontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont d) alpontja szerint módosított szöveg.
-[^16]: Az 1. pont 1.12. alpont b) pontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont e) alpontja szerint módosított szöveg.
+[^15]: Az 1. pont 1.12. alpont a) pontja az 1561/2025. (XII. 16.) Korm. határozat 9. pont d) alpontja szerint módosított szöveg.
+[^16]: Az 1. pont 1.12. alpont b) pontja az 1561/2025. (XII. 16.) Korm. határozat 9. pont e) alpontja szerint módosított szöveg.
 [^17]: Az 1.14. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta, újonnan az 1577/2022. (XI. 28.) Korm. határozat 2. pontja iktatta be.
-[^18]: Az 1.15. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta.
-[^19]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 1.15. pontot az 1255/2022. (V. 9.) Korm. határozat 5. pontja visszavonta, újonnan az 1561/2025. (XII.16.) Korm. határozat 7. pontja iktatta be.
+[^19]: Az 1.16. pontot az 1561/2025. (XII.16.) Korm. határozat 7. pontja iktatta be.
+[^20]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1561/2025. (XII.16.) Korm. határozat 8. pontja iktatta be.
+[^21]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
