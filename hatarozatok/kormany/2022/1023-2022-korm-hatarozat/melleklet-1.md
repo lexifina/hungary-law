@@ -106,7 +106,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint) |
 
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 19 707 306 259 | 17 105 061 570 | 9 039 256 439 | 0 | 0 | 0 | 64 715 324 656 |
+| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 19 707 306 259 | 17 105 061 570 | 9 339 256 439 | 7 697 688 120 | 0 | 0 | 72 713 012 776 |
 
 | 3. | 1292/2020. (VI. 10.) Korm. határozat | 6 306 346 827 | 14 681 759 120 | 7 476 661 669 | 0 | 0 | 0 | 0 | 0 | 28 464 767 616 |
 
@@ -118,7 +118,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 2 733 954 575 | 15 266 798 471 | 15 201 984 587 | 8 966 025 349 | 16 423 271 196 | 2 700 000 000 | 0 | 76 609 700 689 |
 
-| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 4 558 301 152 | 31 323 813 680 | 17 783 948 924 | 33 029 408 094 | 32 806 551 162 | 0 | 0 | 119 502 023 012 |
+| 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 4 558 301 152 | 31 323 813 680 | 17 783 948 924 | 30 175 958 056 | 32 286 884 836 | 0 | 0 | 116 128 906 648 |
 
 | 9. | 1251/2022. (V. 4.) Korm. határozat | 0 | 0 | 27 498 481 422 | 5 526 309 844 | 507 019 744 | 250 000 000 | 0 | 0 | 33 781 811 010 |
 
@@ -138,7 +138,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 14 233 679 741 | 11 733 580 510 | 30 637 096 121 | 0 | 65 478 075 575 | 0 | 122 082 431 947 |
 
-| 18. | 1592/2018. (XI. 22.) Korm. határozat | 0 | 0 | 10 975 559 784 | 0 | 1 087 975 861 | 9 645 000 000 | 2 856 314 655 | 0 | 24 564 850 300 |
+| 18. | 1592/2018. (XI. 22.) Korm. határozat | 0 | 0 | 10 975 559 784 | 0 | 0 | 1 649 000 000 | 18 603 233 | 3 229 263 | 12 646 392 280 |
 
 | 19. | 1595/2023. (XII. 21.) Korm. határozat | 0 | 0 | 0 | 825 500 000 | 0 | 0 | 0 | 0 | 825 500 000 |
 
@@ -190,4 +190,4 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 [^32]: A 6. pontot az 1025/2025. (II. 24.) Korm. határozat 1. pontja iktatta be.
 [^33]: A 7. pontot az 1026/2025. (II. 24.) Korm. határozat 2. pontja iktatta be.
 [^34]: A 8. pontot az 1048/2025. (III. 11.) Korm. határozat 1. pontja iktatta be.
-[^35]: Az 1. melléklet az 1052/2023. (II. 23.) Korm. határozat 5. pontjával megállapított, az 1065/2023. (III. 8.) Korm. határozat 2. pontja, az 1068/2023. (III. 8.) Korm. határozat 3. pontja, az 1119/2023. (III. 31.) Korm. határozat 4. pontja, az 1257/2023. (VI. 28.) Korm. határozat 4. pontja, az 1256/2023. (VI. 28.) Korm. határozat 4. pontja, az 1289/2023. (VII. 17.) Korm. határozat 6. pontja, az 1302/2023. (VII. 19.) Korm. határozat 6. pontja, az 1595/2023. (XII. 21.) Korm. határozat 6. pontja, az 1604/2023. (XII. 22.) Korm. határozat 5. pontja, az 1090/2024. (IV. 3.) Korm. határozat 1. pontja, az 1151/2024. (V. 23.) Korm. határozat 7. pontja, az 1159/2024. (VI. 10.) Korm. határozat 5. pontja, az 1207/2024. (VII. 8.) Korm. határozat 1. pontja, az 1268/2024. (IX. 10.) Korm. határozat 5. pontja, az 1320/2024. (X. 22.) Korm. határozat 3. pontja, az 1337/2024. (XI. 6.) Korm. határozat 2. pontja, az 1387/2024. (XII. 9.) Korm. határozat 4. pontja, az 1418/2024. (XII. 23.) Korm. határozat 4. pontja, az 1025/2025. (II. 24.) Korm. határozat 2. pontja, az 1026/2025. (II. 24.) Korm. határozat 3. pontja, az 1045/2025. (III. 5.) Korm. határozat 4. pontja, az 1048/2025. (III. 11.) Korm. határozat 2. pontja, az 1111/2025. (IV. 7.) Korm. határozat 1. pontja, az 1166/2025. (V. 26.) Korm. határozat 1. pontja, az 1257/2025. (VII. 17.) Korm. határozat 6. pontja, az 1259/2025. (VII. 17.) Korm. határozat 4. pontja, az 1267/2025. (VII. 22.) Korm. határozat 1. pontja, az 1527/2025. (XII. 5.) Korm. határozat 1. pontja, az 1528/2025. (XII. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet az 1052/2023. (II. 23.) Korm. határozat 5. pontjával megállapított, az 1065/2023. (III. 8.) Korm. határozat 2. pontja, az 1068/2023. (III. 8.) Korm. határozat 3. pontja, az 1119/2023. (III. 31.) Korm. határozat 4. pontja, az 1257/2023. (VI. 28.) Korm. határozat 4. pontja, az 1256/2023. (VI. 28.) Korm. határozat 4. pontja, az 1289/2023. (VII. 17.) Korm. határozat 6. pontja, az 1302/2023. (VII. 19.) Korm. határozat 6. pontja, az 1595/2023. (XII. 21.) Korm. határozat 6. pontja, az 1604/2023. (XII. 22.) Korm. határozat 5. pontja, az 1090/2024. (IV. 3.) Korm. határozat 1. pontja, az 1151/2024. (V. 23.) Korm. határozat 7. pontja, az 1159/2024. (VI. 10.) Korm. határozat 5. pontja, az 1207/2024. (VII. 8.) Korm. határozat 1. pontja, az 1268/2024. (IX. 10.) Korm. határozat 5. pontja, az 1320/2024. (X. 22.) Korm. határozat 3. pontja, az 1337/2024. (XI. 6.) Korm. határozat 2. pontja, az 1387/2024. (XII. 9.) Korm. határozat 4. pontja, az 1418/2024. (XII. 23.) Korm. határozat 4. pontja, az 1025/2025. (II. 24.) Korm. határozat 2. pontja, az 1026/2025. (II. 24.) Korm. határozat 3. pontja, az 1045/2025. (III. 5.) Korm. határozat 4. pontja, az 1048/2025. (III. 11.) Korm. határozat 2. pontja, az 1111/2025. (IV. 7.) Korm. határozat 1. pontja, az 1166/2025. (V. 26.) Korm. határozat 1. pontja, az 1257/2025. (VII. 17.) Korm. határozat 6. pontja, az 1259/2025. (VII. 17.) Korm. határozat 4. pontja, az 1267/2025. (VII. 22.) Korm. határozat 1. pontja, az 1527/2025. (XII. 5.) Korm. határozat 1. pontja, az 1528/2025. (XII. 5.) Korm. határozat 1. pontja, az 1559/2025. (XII. 16.) Korm. határozat 10. pontja, az 1560/2025. (XII. 16.) Korm. határozat 4. pontja, az 1561/2025. (XII. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
