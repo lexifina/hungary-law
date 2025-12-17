@@ -1,0 +1,13 @@
+53. § A 23. alcím a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+|
+
+Dr. Sulyok Tamás s. k.,
+
+köztársasági elnök
+
+|
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke

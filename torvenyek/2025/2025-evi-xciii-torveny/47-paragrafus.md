@@ -1,0 +1,5 @@
+## 31. Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény módosítása
+
+47. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 37. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A belgazdaságért felelős miniszterhez tett bejelentés és a bejelentés tudomásulvétele szükséges a stratégiai társaság tevékenysége folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök átruházása, használati vagy működtetési jogának átengedése vagy ilyen vagyontárgyak biztosítékba adása esetén is, ide nem értve hitelintézet által nyújtott finanszírozás biztosítékait (a továbbiakban együtt: üzemeltetési jog), ha az üzemeltetési jogot külföldi befektető vagy olyan jogi személy vagy szervezet szerzi meg, amelyben a külföldi befektető közvetlenül vagy közvetetten a Ptk. szerinti többségi befolyással rendelkezik.”
