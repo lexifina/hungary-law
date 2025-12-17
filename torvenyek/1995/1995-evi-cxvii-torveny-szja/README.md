@@ -148,3 +148,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2025-10-28 | 2024. évi XCI. törvény | 1995-117-00-00.219 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 1995-117-00-00.220 |
 | 2025-11-22 | 2025. évi LXXXIV. törvény | 1995-117-00-00.221 |
+| 2025-12-17 | 2025. évi XCV. törvény | 1995-117-00-00.223 |
