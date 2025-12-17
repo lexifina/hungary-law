@@ -1,1 +1,0 @@
-4. § E rendelet 2. §-át a rendelet hatálybalépését megelőzően keletkezett, a rendelet hatálybalépésekor már fennálló, 2. § szerinti tartozások kiegyenlítéséhez szükséges adósságot keletkeztető ügyletek megkötése során is alkalmazni kell.
