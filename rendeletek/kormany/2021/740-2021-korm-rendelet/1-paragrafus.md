@@ -2,7 +2,7 @@
 
 1. § (1) A nemzeti és történelmi emlékhely (a továbbiakban együtt: emlékhely) a (2) bekezdésben foglalt célokra és az ott meghatározottak szerint használható.
 
-(2) Az emlékhely
+(2)[^1] Az emlékhely
 
 a) ünnepi célra Magyarország nemzeti és állami ünnepein és az emlékhely szempontjából kiemelkedő alkalmakkor szervezett országos jelentőségű állami megemlékezés idején;
 
@@ -12,4 +12,6 @@ c) idegenforgalmi célra az emlékhelyet felkereső turisták látogatásakor;
 
 d) köznapi célra az a)–c) pont alá nem tartozó esetekben
 
-a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. § 21. és 43. pontja szerinti eszmei tartalmat tiszteletben tartva használható.
+a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 97. és 129. pontja szerinti eszmei tartalmat tiszteletben tartva használható.
+
+[^1]: Az 1. § (2) bekezdés záró szövegrésze a 397/2025. (XII. 16.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
