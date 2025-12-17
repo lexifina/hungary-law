@@ -4,9 +4,9 @@
 
 1. belső képzés: az olyan oktatás és képzés, amelyet a munkáltató
 
-a) nem üzletszerű gazdasági tevékenység keretében,
+a) nem üzletszerű gazdasági tevékenység keretében, és
 
-b) – a jogszabály alapján szervezett oktatás, képzés kivételével – összesen hat óra időtartamot meghaladó mértékben, vagy
+b)
 
 c) a saját, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás, valamint a munkáltató beszállítójának, illetve a munkáltató által igénybe vett közreműködő foglalkoztatottja (ideértve a kölcsönzött munkavállalót is, ha a munkaerő-kölcsönzésre kötött megállapodás tartalmazza az arra vonatkozó kitételt, hogy a kölcsönvevő vállalja a kölcsönzött munkavállaló oktatását, képzését is) részére
 
@@ -16,6 +16,8 @@ szervez.
 
 2a. digitális kollaborációs tér: a tanulmányi rendszerhez és a zárt rendszerű távoktatási képzésmenedzsment-rendszerhez rendszerkapcsolaton keresztül kapcsolódó rendszer, amely biztosítani képes legalább az oktatók, az oktatásszervezők és a képzésben részt vevő személyek egyéni vagy csoportos, interaktív és távolléti kapcsolattal megvalósuló, teljes értékű, digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
 
+2b. egyéni tanulási számla rendszer: olyan munkaerőpiaci szempontból releváns képzéseket ösztönző rendszer, amely képzésválasztást támogató funkciókkal, elérhető képzési forrásokkal kapcsolatos tájékoztatással, támogató funkciókkal segíti elő a motivációs és pénzügyi akadályok csökkentését, erősítve ezzel az élethosszig tartó tanulás fontosságát,
+
 3. előzetes tudásmérés: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel kell menteni,
 
 4. előzetesen megszerzett tudás beszámítása: a képzésre jelentkező – dokumentummal igazolt – tanulmányainak beszámítása, amelynek eredményeként a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel lehet menteni,
@@ -23,6 +25,8 @@ szervez.
 5. felnőttképzési tevékenységhez kapcsolódó szolgáltatás: olyan tevékenység, amely a felnőttképzési tevékenység keretében szervezett oktatás, képzés egyénre szabott kialakításának elősegítésére, a képzés hatékonyságának javítására vagy a munkavállalás elősegítésére irányul,
 
 5a. jogszabály alapján szervezett oktatás és képzés: jogszabály által valamely tevékenység folytatásának, munkakör betöltésének, illetve magasabb fizetési besorolás alkalmazásának feltételéül meghatározott olyan oktatás és képzés, amelynek legalább célját, tartalmát és megszervezésének általános feltételeit, továbbá az oktatás, képzés eredményes elvégzésének igazolási módját vagy ahhoz kapcsolódóan szervezett vizsga letételére vonatkozó követelményt jogszabály vagy a polgári nemzetbiztonsági szolgálatok vonatkozásában közjogi szervezetszabályozó eszköz határozza meg, ide nem értve a köznevelési intézmény, a szakképző intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába vagy a felsőoktatási intézmény alaptevékenységébe tartozó, valamint a szakképzettségre, szakképesítésre felkészítő oktatást és képzést,
+
+5b. képzés formája: a képzés kontaktóra – amely lehet jelenléti vagy online kontaktóra –, távoktatás vagy zárt rendszerű elektronikus távoktatás keretében megvalósult formája,
 
 6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
 

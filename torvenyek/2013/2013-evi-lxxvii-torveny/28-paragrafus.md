@@ -14,6 +14,8 @@ c) a képzési hitelt nyújtó szervet és
 
 d) a munkaerő-piaci előrejelző rendszer működéséért felelős szervet
 
+e) az egyéni tanulási számla rendszer működtetéséért felelős szervezetet
+
 rendeletben jelölje ki.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
@@ -40,11 +42,13 @@ i) a programkövetelmény nyilvántartásba vételének rendjét, valamint az el
 
 a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
 
-b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,
+b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait, valamint a programkövetelmények angol, illetve német nyelvű megnevezésének közzétételére vonatkozó szabályokat,
 
 c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
 
 d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a 13/C. § alapján kiállított mikrotanúsítványnak a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
+
+e) rendeletben határozza meg az egyéni tanulási számla rendszer működésének részletszabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
@@ -53,3 +57,5 @@ a) a jogi szakvizsga vizsgáztatóira, a joggyakorlati időre, a jogi szakvizsg�
 b) az Igazságügyi Akkreditációs Testület feladatkörére, összetételére, létszámára és a testület tagjainak kinevezésére
 
 vonatkozó részletes szabályokat.
+
+(5) Felhatalmazást kap a rendvédelmi feladatokat ellátó szervet irányító miniszter – az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, az Országgyűlés elnöke véleményének kikérésével –, hogy rendeletben határozza meg a 2/A. § (4) bekezdése szerinti, a szakképesítésre felkészítő szakmai képzések megszervezéséhez kapcsolódó személyi és tárgyi feltételek igazolásának kiállítására vonatkozó részletszabályokat.

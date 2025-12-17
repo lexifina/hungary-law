@@ -28,6 +28,8 @@ b) a felnőttképzési tevékenységhez kapcsolódó szolgáltatásra.
 
 4. a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szerinti reintegrációs program keretében történő oktatás, képzés
 
+5. – jogszabály alapján szervezett oktatás, képzés kivételével – az összesen hat óra időtartamot meg nem haladó belső képzés
+
 megszervezésére.
 
 (2) Jogszabály alapján szervezett oktatás és képzés esetén – ha jogszabály e törvény más rendelkezésének alkalmazását kifejezetten elő nem írja – a felnőttképző kizárólag a 2/A. § (1) bekezdése szerinti bejelentési kötelezettséget és – ha a 15. § (1a) bekezdése szerinti kivétel alkalmazásának nincs helye – a 15. § (1) bekezdése szerinti adatszolgáltatási kötelezettséget köteles teljesíteni. Ha a jogszabály alapján szervezett oktatás és képzés tekintetében jogszabály ekként rendelkezik, e kötelezettségeket a felnőttképző helyett a jogszabályban meghatározott hatóság teljesítheti legkésőbb annak a negyedévet követő negyedévnek az utolsó napjáig, amelyikbe a jogszabály alapján szervezett oktatás és képzés befejezésének időpontja esik. A jogszabályban meghatározott hatóság jogosult a felnőttképző 5. § (1) bekezdés b) pontjában és a képzésben részt vevő személy 15. § (1) bekezdésében meghatározott személyes adatát a bejelentés, illetve az adatszolgáltatás általa történő teljesítése céljából az ahhoz elengedhetetlenül szükséges ideig kezelni.

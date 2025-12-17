@@ -12,4 +12,6 @@ b) felnőttképzési tevékenység keretében szervezett képzésre,
 
 c) a felnőttképzők technikai feltételei fejlesztésére
 
-d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
+d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre, valamint
+
+e) az egyéni tanulási számla alapján felhasználható képzésre.
