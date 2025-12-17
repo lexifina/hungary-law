@@ -1,7 +1,3 @@
-## „IV. Mikrotanúsítványi törzs
-
-## 1. A mikrotanúsítványok nyilvántartása a felnőttképzésben használt mikrotanúsítvány tartalmáról és kiállításának feltételeiről szóló rendeletben meghatározott adatok tekintetében közhiteles nyilvántartás.”
-
 2. melléklet a 2025. évi XCV. törvényhez
 
 1. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. melléklet A) pontjában foglalt táblázat B:2 mezője helyébe a következő mező lép:
