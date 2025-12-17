@@ -1,8 +1,10 @@
 ## A kereskedelmi tevékenységek, a kereskedelmet kiszolgáló szolgáltató tevékenységek, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának ellenőrzése, jogkövetkezmények
 
-9. § (1) A kereskedelmi tevékenységre, a kereskedelmet kiszolgáló szolgáltató tevékenységekre, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységekre vonatkozó jogszabályi és hatósági előírások megtartását a kereskedelmi hatóság ellenőrzi, és – a (2) és a (3) bekezdésben foglalt kivétellel, továbbá törvény vagy kormányrendelet eltérő rendelkezése hiányában – eljár ezek megsértése esetén.
+9. § (1) A – 9/A. § (1) bekezdése szerinti kereskedelmi tevékenység kivételével a – kereskedelmi tevékenységre, a kereskedelmet kiszolgáló szolgáltató tevékenységekre, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységekre vonatkozó jogszabályi és hatósági előírások megtartását a kereskedelmi hatóság ellenőrzi, és – a (2) és a (3) bekezdésben foglalt kivétellel, továbbá törvény vagy kormányrendelet eltérő rendelkezése hiányában – eljár ezek megsértése esetén.
 
-(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – a 3. § (9) bekezdésében, az 5. § (2) és (4) bekezdésében, az 5/C.–5/F. §-ban, a 6. § (2) bekezdés b) pontjában, valamint a 6/K. §-ban foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(2) A – (2a) bekezdésben foglalt eltéréssel a – fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – a 3. § (9) bekezdésében, az 5. § (2) és (4) bekezdésében, az 5/C.–5/F. §-ban, a 6. § (2) bekezdés b) pontjában, valamint a 6/K. §-ban foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(2a) A befektetési arannyal folytatott kereskedelmi tevékenység vonatkozásában az 5. § (2) és (4) bekezdésében, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén fogyasztóvédelmi hatóságként az SZTFH jár el.
 
 (3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 

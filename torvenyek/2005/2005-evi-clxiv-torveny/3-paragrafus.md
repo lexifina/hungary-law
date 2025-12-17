@@ -4,9 +4,9 @@
 
 (2) A kereskedelmi tevékenység formáját (a továbbiakban: kereskedési forma) a kereskedő az e törvényben meghatározott, valamint a (4) bekezdés szerinti szabályok szerint maga választhatja meg.
 
-(3) Külön törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet a közrend, a közbiztonság, az emberek, az állatok, a növények egészségének és életének védelme, a környezet védelme, közegészségügyi követelmények érvényesítése érdekében előírhatja, hogy az abban meghatározott termékek forgalmazására irányuló kereskedelmi tevékenység kizárólag az ott meghatározott hatósági engedéllyel folytatható.
+(3) Törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet a közrend, a közbiztonság, az emberek, az állatok, a növények egészségének és életének védelme, a környezet védelme, közegészségügyi követelmények érvényesítése érdekében előírhatja, hogy az abban meghatározott termékek forgalmazására irányuló kereskedelmi tevékenység kizárólag az ott meghatározott hatósági engedéllyel folytatható.
 
-(4) Külön törvény, eredeti jogalkotói hatáskörben kiadott kormányrendelet vagy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – az e törvény felhatalmazása alapján kiadott kormányrendelet a közrend, a közbiztonság, az emberek, az állatok, a növények egészségének és életének védelme, a környezet védelme, közegészségügyi követelmények érvényesítése érdekében előírhatja, hogy az abban meghatározott termékek forgalmazására irányuló kereskedelmi tevékenység kizárólag a következő kereskedési formák valamelyikében folytatható, vagy az ilyen tevékenység meghatározott kereskedési formában való folytatását korlátozhatja vagy megtilthatja:
+(4) Törvény, eredeti jogalkotói hatáskörben kiadott kormányrendelet vagy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – az e törvény felhatalmazása alapján kiadott kormányrendelet a közrend, a közbiztonság, az emberek, az állatok, a növények egészségének és életének védelme, a környezet védelme, közegészségügyi követelmények érvényesítése érdekében előírhatja, hogy az abban meghatározott termékek forgalmazására irányuló kereskedelmi tevékenység kizárólag a következő kereskedési formák valamelyikében folytatható, vagy az ilyen tevékenység meghatározott kereskedési formában való folytatását korlátozhatja vagy megtilthatja:
 
 a) üzletben folytatott kereskedelmi tevékenység,
 
@@ -36,7 +36,7 @@ j) közlekedési eszközön folytatott értékesítés.
 
 (6) Üzlet
 
-a) ha a (4) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján meghatározott termék forgalmazása kizárólag üzletben megengedett, csak a kereskedelmi hatóság által, a (7) bekezdés szerint kiadott működési engedéllyel;
+a) ha a (4) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján meghatározott termék forgalmazása kizárólag üzletben megengedett, csak a kereskedelmi hatóság által, a (7) bekezdés szerint kiadott működési engedéllyel vagy – befektetési arany forgalmazása esetében – a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) által, a 9/A. § (1) bekezdése szerint kiadott engedéllyel;
 
 b) egyéb esetben az üzlet üzemeltetésére irányuló szándéknak a kereskedelmi hatóság részére történő bejelentését követően
 

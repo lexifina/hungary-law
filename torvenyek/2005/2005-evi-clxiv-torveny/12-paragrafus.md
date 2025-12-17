@@ -84,8 +84,12 @@ rendeletben határozza meg.
 
 (8) Felhatalmazást kap az SZTFH elnöke arra, hogy rendeletben állapítsa meg
 
-a) a befektetési arannyal folytatott kereskedelmi tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat, valamint a tevékenység végzésének személyi, tárgyi, technikai, informatikai, biztonsági, valamint gazdasági feltételeit,
+a) a befektetési arannyal folytatott kereskedelmi tevékenység végzésének részletes feltételeit, e tevékenység engedélyezésével, ellenőrzésével kapcsolatos részletes szabályokat,
 
 b) a 9/C. § (1) bekezdése szerinti nyilvántartás – személyes adatot nem tartalmazó – adattartalmával és a nyilvántartás vezetésével kapcsolatos részletes szabályokat,
 
 c) az engedélyes adatszolgáltatására vonatkozó részletes szabályokat.
+
+d) a befektetési arannyal folytatott kereskedelmi tevékenység esetében a vásárlók könyve hitelesítésének rendjét,
+
+e) a befektetési arannyal folytatott kereskedelmi tevékenység végzéséhez szükséges képesítéseket.
