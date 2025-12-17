@@ -100,7 +100,7 @@ minimum
 
 1.5. A helyi önkormányzatokért felelős miniszter az általa üzemeltetett elektronikus rendszeren keresztül tárgyév január 15-éig az önkormányzatok számára elérhetővé teszi az e melléklet szerinti jogcímeken az önkormányzatokat megillető összegeket.
 
-1.6. Az e mellékletben szereplő jogcímek szerinti támogatások igénylési és döntési eljárására, valamint az önkormányzati szolidaritási hozzájárulás megállapítására és a nettó finanszírozás keretében történő levonására nem kell alkalmazni az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait.
+1.6. Az e mellékletben szereplő jogcímek szerinti támogatások igénylési és döntési eljárására, valamint az önkormányzati szolidaritási hozzájárulás megállapítására és a 43. § (4a) bekezdés szerinti hatósági átutalási megbízásra nem kell alkalmazni az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait.
 
 1.7. Az e mellékletben szereplő jogcímek szerinti támogatások igénylése és év közbeni módosítása az államháztartásért felelős miniszter által az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) alapján kiadott tájékoztató és értesítő alapján történik.
 
@@ -254,11 +254,11 @@ A-D = a kiegészítés mértékének számításakor alkalmazandó 2.2.2.1. pont
 
 3.3. A támogatás fajlagos összege:
 
-a) Budapest Főváros Önkormányzata és a 10 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
+a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
 
-b) a legfeljebb 10 000 fő lakosságszámú, támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
+b) a legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
 
-3.4. A legfeljebb 10 000 fő lakosságszámú, támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
+3.4. A legfeljebb 30 000 fő lakosságszámú, támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
 
 3.5. Az elismert hivatali létszám a számított alaplétszám korrekciós tényezőkkel korrigált összege. Önálló polgármesteri hivatal esetében az elismert hivatali létszám megegyezik a számított alaplétszámmal. Budapest Főváros Önkormányzata esetében az elismert hivatali létszám 470 fő.
 
@@ -2270,7 +2270,7 @@ gyermekek átmeneti otthonában biztosított átmeneti ellátás
 
 |
 
-0,94
+1,32
 
 |
 
@@ -2732,7 +2732,7 @@ c) a 082044 Könyvtári szolgáltatások
 
 62. 4. Önkormányzati szolidaritási hozzájárulás jogcím
 
-62.1. A 25 000 forint feletti egy lakosra jutó iparűzési adóerő-képességgel rendelkező önkormányzat az egy lakosra jutó iparűzési adóerő-képességétől függő mértékű szolidaritási hozzájárulást teljesít a központi költségvetésnek. A szolidaritási hozzájárulás alapja az önkormányzat 1.4. pont szerinti iparűzési adóerő-képességet meghatározó adóalapja (a továbbiakban: a szolidaritási hozzájárulás alapja). A szolidaritási hozzájárulás központi költségvetés felé történő teljesítése a nettó finanszírozás keretében történik.
+62.1. A 25 000 forint feletti egy lakosra jutó iparűzési adóerő-képességgel rendelkező önkormányzat az egy lakosra jutó iparűzési adóerő-képességétől függő mértékű szolidaritási hozzájárulást teljesít a központi költségvetésnek. A szolidaritási hozzájárulás alapja az önkormányzat 1.4. pont szerinti iparűzési adóerő-képességet meghatározó adóalapja (a továbbiakban: a szolidaritási hozzájárulás alapja).
 
 62.2. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
 
@@ -2920,4 +2920,4 @@ KT = 600 fő lakosságszám alatti települések esetében alkalmazandó korrekc
 
 62.4. Amennyiben a település közös hivatal székhelye, a 62.2. pont szerinti paramétertábla 2-6 sorai szerinti kategóriákban a rá irányadó százalékos mérték 0,05 százalékponttal kisebb.
 
-62.5. Az államháztartásért felelős miniszter az önkormányzati szolidaritási hozzájárulás e pont szerint számított önkormányzatonkénti összegét rendeletben teszi közzé.
+62.5. Az államháztartásért felelős miniszter az e pont szerint számított önkormányzati szolidaritási hozzájárulás önkormányzatonkénti összegét, a teljesítendő részösszegeket, azok teljesítésének határidejét és a határidőben nem teljesített részösszegek tekintetében a Kincstár által benyújtandó hatósági átutalási megbízás benyújtásának időpontját rendeletben teszi közzé.
