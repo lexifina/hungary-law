@@ -4,7 +4,7 @@
 
 19/A. § (1) E törvény alkalmazása tekintetében a Citadella erőd és környezete: a Budapest XI. kerület belterület 5412 helyrajzi számú ingatlan, valamint a Budapest I. és XI. kerületében a Gellért-hegyen elhelyezkedő, kormányrendeletben meghatározott közterületek.
 
-(1a) Az (1) bekezdésben meghatározott, állami tulajdonban álló ingatlanok e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen a Citadella Vagyonkezelő Nonprofit Korlátolt Felelősségű Társaság (1013 Budapest, Ybl Miklós tér 6.; Cg.01-09-374211) vagyonkezelésébe kerülnek.
+(1a) Az (1) bekezdésben meghatározott, állami tulajdonban álló ingatlanok e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen a 17. § (2) bekezdése szerinti Vagyonkezelő vagyonkezelésébe kerülnek.
 
 (2) A Citadella erőd és környezete megújítását, védelmét és fennmaradását szolgáló, értékőrző és fejlesztési célú használata és fenntartása közérdek, amelynek biztosítása – összhangban a világörökségről és a kulturális örökség védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségekkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a civil és egyéb szervezetek, valamint a természetes személyek együttműködésével valósul meg.
 
