@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1558-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2025-12-16 | 2025-1558-30-22.1 | 1558/2025. (XII. 16.) Korm. határozat |
+| 2025-12-17 | 2025-1558-30-22.2 | 2010. évi CXXX. törvény |
