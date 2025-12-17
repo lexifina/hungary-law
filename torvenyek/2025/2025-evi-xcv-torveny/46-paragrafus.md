@@ -1,0 +1,1 @@
+46. § Hatályát veszti az Szkt. 14/A. § (3) bekezdésében az „Az engedély képzési területtel történő kiegészítésére irányuló kérelemnek helyt adó döntés nem érinti az engedély időbeli hatályát.” szövegrész.
