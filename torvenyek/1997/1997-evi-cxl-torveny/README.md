@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2025-01-01 | 2024. évi LXXVI. törvény | 1997-140-00-00.65 |
 | 2025-06-20 | 2025. évi LVII. törvény | 1997-140-00-00.68 |
 | 2025-10-28 | 2024. évi XCI. törvény | 1997-140-00-00.69 |
+| 2025-12-17 | 2025. évi XCV. törvény | 1997-140-00-00.70 |
