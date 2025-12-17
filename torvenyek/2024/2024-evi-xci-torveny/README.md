@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-91-00-00
 | 2025-06-20 | 2025. évi LVII. törvény | 2024-91-00-00.5 |
 | 2025-10-28 | 2025. évi LVII. törvény | 2024-91-00-00.3 |
 | 2025-10-29 | 2010. évi CXXX. törvény | 2024-91-00-00.4 |
+| 2025-12-17 | 2025. évi XCV. törvény | 2024-91-00-00.8 |
