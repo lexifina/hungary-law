@@ -1,5 +1,0 @@
-## 214. Az emberkereskedelem áldozatai azonosításának rendjéről szóló 354/2012. (XII. 13.) Korm. rendelet módosítása
-
-214. §[^342]
-
-[^342]: A 214. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
