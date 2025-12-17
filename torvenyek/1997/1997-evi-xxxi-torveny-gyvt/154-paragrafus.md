@@ -1,6 +1,6 @@
 154. § (1) Nem állapítható meg gondozási díj, ha
 
-a) a szülő gyermeke ismeretlen személy általi örökbefogadásához járult hozzá, illetve a hatodik életévét betöltött vagy egészségileg károsodott gyermek esetében a szülői nyilatkozatot a gyámhatóság jóváhagyta,
+a) a szülő gyermeke ismeretlen személy általi örökbefogadásához járult hozzá,
 
 b) a szülő a nevelőszülőnél vagy a gyermekotthonban a gyermekéről személyesen gondoskodik,
 
