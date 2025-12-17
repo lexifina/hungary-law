@@ -12,7 +12,7 @@ E törvény alkalmazásában
 
 1b. digitális kollaborációs tér: a tanulmányi rendszer modulja, amely biztosítani képes legalább a tanárok és a diákok egyéni vagy csoportos, interaktív és távolléti kapcsolattal megvalósuló, teljes értékű, digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
 
-1c. digitális bizonyítvány: a tanulmányi rendszer által kiállított, tárolt és nyilvántartott elektronikus formában kiállított közhiteles okiratnak minősülő bizonyítvány, amelyet kiállításakor az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja,
+1c. digitális bizonyítvány: a tanulmányi rendszer által kiállított, tárolt és nyilvántartott elektronikus formában kiállított közokirat, amelyet kiállításakor a szakképző intézmény igazgatójának legalább fokozott biztonságú elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja,
 
 2. egészségügyi alkalmasság: annak az orvosi szakvéleményre alapozott megállapítása, hogy a szakképzésbe bekapcsolódni szándékozó személy testi adottságai, egészségi és pszichikai állapota alapján képes önmaga és mások veszélyeztetése nélkül a választott szakma szerinti tevékenység, foglalkozás gyakorlására és a szakmai vizsgára való felkészülésre,
 

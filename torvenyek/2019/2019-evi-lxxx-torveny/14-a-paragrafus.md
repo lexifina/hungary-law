@@ -4,7 +4,7 @@
 
 (2) Akkreditált szakképzési vizsgaközpont szakmai és képesítő vizsgát engedély birtokában szervezhet. Az engedély határozatlan ideig hatályos.
 
-(3) A (2) bekezdés szerinti engedély kiadására, módosítására, a képzési területek egységes osztályozási rendszere szerinti képzési területtel (a továbbiakban: képzési terület) történő kiegészítésére irányuló kérelmet a kormányrendeletben kijelölt szakképzési államigazgatási szervhez kell benyújtani. Az engedély képzési területtel történő kiegészítésére irányuló kérelemnek helyt adó döntés nem érinti az engedély időbeli hatályát.
+(3) A (2) bekezdés szerinti engedély kiadására, módosítására, a képzési területek egységes osztályozási rendszere szerinti képzési területtel (a továbbiakban: képzési terület) történő kiegészítésére irányuló kérelmet a kormányrendeletben kijelölt szakképzési államigazgatási szervhez kell benyújtani.
 
 (4) A kérelem benyújtására, az engedélyezési eljárásra vonatkozó jogszabályi rendelkezésekről szóló tájékoztatót a szakképzési államigazgatási szerv a honlapján közzéteszi.
 

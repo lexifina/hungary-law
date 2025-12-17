@@ -30,11 +30,11 @@
 
 3a. a szakképzésben alkalmazható oklevél- és bizonyítványnyomtatványokkal összefüggésben fizetendő térítési díj mértékét,
 
-4. a szakképző intézmény alapításának, átalakításának, megszüntetésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
+4. a szakképző intézmény alapításának, átalakításának, megszüntetésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképzési centrum és a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 
 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
 
-6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált szakképzési vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
+6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált szakképzési vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait, a díszpéldányok, valamint a díszpéldányok tárolására szolgáló tartótokok kiadásában és forgalmazásában közreműködő szervezetet,
 
 7. a szakképzési minőségirányítási keretrendszert és a szakképző intézmény külső értékelésére, valamint a szakképző intézmény és a duális képzőhely ellenőrzésére vonatkozó részletes szabályokat,
 

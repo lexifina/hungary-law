@@ -16,6 +16,8 @@ b) szakmai és képesítő vizsgáztatási tevékenysége megfelel-e az e törv�
 
 (6) Az (1)–(3) bekezdés szerinti ellenőrzés eredményeként a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 6. §-a szerinti figyelmeztetés szankció nem alkalmazható.
 
+(6a) Az akkreditált szakképzési vizsgaközpont ellenőrzésére irányuló eljárásban az ügyintézési határidő 160 nap.
+
 (7) Ha az akkreditált szakképzési vizsgaközpont
 
 a) szakmai vagy képesítő vizsgáztatási tevékenységét jogellenesen végzi, vele szemben a szakképzési államigazgatási szerv 2 millió forinttól 5 millió forintig terjedő közigazgatási bírságot szab ki, illetve

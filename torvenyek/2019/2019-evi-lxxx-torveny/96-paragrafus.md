@@ -8,7 +8,7 @@ b) ellátja a foglalkoztatási programokkal kapcsolatos elkülönített állami 
 
 c) kiadja a képzési és kimeneti követelményeket a Kormány adott ágazatért felelős tagjának egyetértésével,
 
-d)
+d) gondoskodik a díszpéldányok, valamint a díszpéldányok tárolására szolgáló tartótokok kiadásáról és forgalmazásáról a Kormány rendeletében kijelölt, az állam százszázalékos tulajdonában álló, nonprofit gazdasági társaság közreműködésével,
 
 e) – a Kormány adott ágazatért felelős tagjának egyetértésével –
 

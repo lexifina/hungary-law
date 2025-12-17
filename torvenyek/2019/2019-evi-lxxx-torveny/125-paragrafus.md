@@ -34,13 +34,13 @@ d) a tanuló juttatásaira.
 
 (8) Ágazati alapoktatást és ágazati alapvizsgát a 2020/2021. tanévtől a változással érintett legalacsonyabb évfolyamon kezdve felmenő rendszerben kell megszervezni.
 
-(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga, továbbá az (1) bekezdés szerint kifutó jelleggel szervezett nevelés-oktatáshoz kapcsolódó szintvizsga és érettségi vizsga az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételekkel 2025. december 31-éig
+(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga 2026. december 31-éig
 
 a) az állam által fenntartott szakképző intézményben, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményben, valamint
 
 b) az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben és szakképzési alapfeladatot ellátó többcélú köznevelési intézményben az együttműködési megállapodásban meghatározott ágazatban
 
-is megszervezhető azzal, hogy akkreditált szakképzési vizsgaközpont alatt az ilyen szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. 2026. január 1-jétől az ilyen szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik az e törvény szerinti szakmai és képesítő vizsgáztatási tevékenység folytatására kiadott engedéllyel. A 2025. december 31-éig az ilyen szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
+is megszervezhető azzal, hogy akkreditált szakképzési vizsgaközpont alatt a szakmai vizsgát szervező szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. A 2026. december 31-éig a szakmai vizsgát szervező szakképző intézményben, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
 
 (9a)
 
