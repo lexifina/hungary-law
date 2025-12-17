@@ -46,13 +46,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Budapesti Gazdasági Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -74,13 +76,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Dunaújvárosi Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -120,7 +124,7 @@ b) egészségügyi tevékenység folytatása,
 
 c) agrár- és élelmiszertudományi kutatás-fejlesztés folytatása,
 
-d) további, az a) alpontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+d) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
 e) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
@@ -132,7 +136,9 @@ b) rászorultsági alapú támogatás biztosítása,
 
 c) tehetséggondozó programok működésének támogatása,
 
-d) a hazai oltóanyag-előállítás kutatás-fejlesztési és gyártástechnológiai tudásának megalapozása, fejlesztése, működtetése.
+d) a hazai oltóanyag-előállítás kutatás-fejlesztési és gyártástechnológiai tudásának megalapozása, fejlesztése, működtetése,
+
+4. jogi személy vagy a Debreceni Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -266,7 +272,9 @@ a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, t
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Budapesti Corvinus Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -284,7 +292,7 @@ Magyar Agrár- és Élettudományi Egyetemért Alapítvány
 
 a) felsőoktatási tevékenység folytatása,
 
-b) további, az a) alpontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
 c) a genetikai változatosság és a hazai mezőgazdaság genetikai anyagainak védelme, jogszabályban meghatározott jelentős növényfajok, változatok, fajták és vad rokonfajok mint génforrások megőrzésében és fenntartásában való közreműködés,
 
@@ -306,7 +314,9 @@ b) múzeumi, kulturális és turisztikai nevelési-oktatási tevékenységek fol
 
 c) kulturális célú és közcélú ingatlanhasznosítás.
 
-5.Olyan, az alapítvány feladatából, céljából, vagy az általa fenntartott felsőoktatási intézmény tevékenységéből fakadó, ahhoz kapcsolódó szellemi, tudományos, illetve társadalmilag vagy gazdaságilag hasznosítható értéket, dolgot, szellemi terméket megismertető vagy ezek bármelyikét – hazai vagy nemzetközi viszonylatban – kulturális, tudományos vagy gazdasági területen fejlesztő, előállító illetve hasznosító tevékenységet végző hazai vagy külföldi természetes személy, civil szervezet, gazdasági társaság vagy más jogi személy alapítvány általi támogatása, amely elősegíti az alapítvány céljainak megvalósítását, feladatainak ellátását vagy az alapítvány által fenntartott felsőoktatási intézmény oktatási, kutatási és fejlesztési tevékenységét, illetve az alapítvány vagy az általa fenntartott felsőoktatási intézmény hazai vagy nemzetközi kulturális, tudományos vagy gazdasági kapcsolatainak kialakítását, fejlesztését, vagy erősíti a tevékenységük hazai illetve nemzetközi relációban történő pozitív megítélését.
+5. olyan, az alapítvány feladatából, céljából, vagy az általa fenntartott felsőoktatási intézmény tevékenységéből fakadó, ahhoz kapcsolódó szellemi, tudományos, illetve társadalmilag vagy gazdaságilag hasznosítható értéket, dolgot, szellemi terméket megismertető vagy ezek bármelyikét - hazai vagy nemzetközi viszonylatban - kulturális, tudományos vagy gazdasági területen fejlesztő, előállító, illetve hasznosító tevékenységet végző hazai vagy külföldi természetes személy, civil szervezet, gazdasági társaság vagy más jogi személy alapítvány általi támogatása, amely elősegíti az alapítvány céljainak megvalósítását, feladatainak ellátását vagy az alapítvány által fenntartott felsőoktatási intézmény oktatási, kutatási és fejlesztési tevékenységét, illetve az alapítvány vagy az általa fenntartott felsőoktatási intézmény hazai vagy nemzetközi kulturális, tudományos vagy gazdasági kapcsolatainak kialakítását, fejlesztését, vagy erősíti a tevékenységük hazai, illetve nemzetközi relációban történő pozitív megítélését,
+
+6. jogi személy vagy a Magyar Agrár- és Élettudományi Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -344,17 +354,19 @@ Magyar Táncművészeti Egyetemért Alapítvány
 
 a) felsőoktatási tevékenység végzése,
 
-b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás;
+b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás,
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Magyar Táncművészeti Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -384,7 +396,7 @@ Marek József Alapítvány
 
 |
 
-1. az Állatorvostudományi Egyetem alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása
+1. az Állatorvostudományi Egyetem alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása,
 
 2. az Állatorvostudományi Egyetem útján
 
@@ -400,7 +412,9 @@ a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, t
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy az Állatorvostudományi Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -436,13 +450,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy az Moholy-Nagy Művészeti Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -502,6 +518,20 @@ b) rászorultsági alapú támogatás biztosítása,
 
 |
 
+18a
+
+|
+
+|
+
+Nemzeti Egészségügyi és Orvosképzésért Alapítvány további közfeladatai:
+
+1. a korai fázisú élettudományi innovatív vállalatok fejlesztése és versenyképességük növelése,
+
+2. jogi személy vagy a Semmelweis Egyetem útján közgyűjteményi tevékenység ellátása.
+
+|
+
 19
 
 |
@@ -520,13 +550,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Neumann János Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -548,13 +580,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Nyíregyházi Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -582,7 +616,9 @@ a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, t
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Pannon Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -624,13 +660,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy az Óbudai Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -652,13 +690,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Soproni Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -688,7 +728,9 @@ a) oktatási, tudományos, kutatási, hallgatói, tanulói, oktatói, kutatói, 
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Széchenyi István Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -700,7 +742,7 @@ Szegedi Tudományegyetemért Alapítvány
 
 |
 
-1. a Szegedi Tudományegyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, klinikai betegellátási feladatai, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása
+1. a Szegedi Tudományegyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, klinikai betegellátási feladatai, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása,
 
 2. a Szegedi Tudományegyetem útján
 
@@ -712,13 +754,15 @@ c) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tev
 
 d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Szegedi Tudományegyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -732,7 +776,7 @@ Színház- és Filmművészetért Alapítvány
 
 1. a Színház- és Filmművészeti Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása,
 
-2. Színház- és Filmművészeti Egyetem útján
+2. a Színház- és Filmművészeti Egyetem útján
 
 a) felsőoktatási tevékenység folytatása,
 
@@ -740,7 +784,7 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
@@ -752,7 +796,9 @@ c) tehetséggondozó programok működésének támogatása,
 
 5. a kortárs színművészet támogatása a magyar színjátszás múltjának megismertetésével és bemutatásával, valamint értékeinek és örökségének megőrzésével és hozzáférhetővé tételével,
 
-6. a magyar színházművészet hagyományainak ápolása, minőségelvű színházi ambíciók felkarolása, a drámairodalom színrevitelének támogatása.
+6. a magyar színházművészet hagyományainak ápolása, minőségelvű színházi ambíciók felkarolása, a drámairodalom színrevitelének támogatása,
+
+7. jogi személy vagy a Színház- és Filmművészeti Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -774,13 +820,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Testnevelési Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -802,13 +850,15 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tev
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Tokaj-Hegyalja Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -834,13 +884,15 @@ d) nemzetközi összehasonlító jogtudományi kutatások végzése, jogtudomán
 
 e) a közép-európai országokra kiterjedő jogtudományi és államtudományi kutatási és oktatási hálózat létrehozása, működtetése, ideértve a kutatási, képzési, publikálási és népszerűsítési tevékenységek támogatását,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Miskolci Egyetem útján közgyűjteményi tevékenység ellátása.
 
 |
 
@@ -864,13 +916,15 @@ c) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tev
 
 d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. jogi személy vagy a Pécsi Tudományegyetem útján közgyűjteményi tevékenység ellátása.
 
 B) Az állam mint csatlakozó részvételével működő közfeladatot ellátó közérdekű vagyonkezelő alapítványok és közfeladataik
 
