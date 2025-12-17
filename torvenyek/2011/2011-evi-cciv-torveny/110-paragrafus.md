@@ -76,7 +76,7 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a nemzeti felsőoktatási ösztöndíj, ideértve a Kooperatív Doktori Program ösztöndíjat is, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
 
-22. a pedagógus ösztöndíj igénybevételének feltételeit, a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait, választható egyenrangú szakpárjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
+22. a pedagógus ösztöndíj igénybevételének feltételeit,
 
 23. a magyar állami ösztöndíjjal támogatott képzésből eredő kötelezettségek teljesítésének rendjét, a hallgatói képzési szerződés nyilvántartásával, kezelésével kapcsolatos eljárási szabályokat, valamint a hallgatói képzési szerződés feltételeit,
 
@@ -97,6 +97,8 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 31. a mikrotanúsítvány kötelező tartalmi elemeit.
 
 32. a 48/T. § (1) bekezdésében előírt oklevélszerzési kötelezettségének eleget nem tevő doktorandusz felsőoktatási intézménye részére folyósított támogatási normatíva visszafizetésének szabályait.
+
+33. a Felsőoktatási Digitalizációs Szakértői Testület összetételét, a tagok megbízatásának és a tagság megszűnésének, a testület feladatainak és működési rendjének részletes szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy
 

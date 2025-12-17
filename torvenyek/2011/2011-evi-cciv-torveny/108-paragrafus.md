@@ -146,7 +146,7 @@ c) a Kormány rendeletében meghatározott feltételeknek megfelelő egyéb szer
 
 43c. tanulmányi rendszer üzemeltetője: a tanulmányi rendszerrel kapcsolatos fejlesztéseket, funkcionális üzemeltetést továbbá a jogszabályban vagy szerződésben meghatározott egyéb feladatokat ellátó szervezet;
 
-44. távoktatás: sajátos információtechnológiai és kommunikációs taneszközök, valamint ismeretátadási-tanulási módszerek, digitális tananyagok használatával az oktató és hallgató interaktív kapcsolatára és az önálló hallgatói munkára épülő képzés, amelyben a tanórák száma nem éri el a teljes idejű képzés tanóráinak harminc – részismereti képzés és szakirányú továbbképzés esetében húsz – százalékát. A távoktatás teljes egészében megvalósítható zárt rendszerű távoktatási képzésmenedzsment-rendszerrel megvalósított zárt rendszerű elektronikus távolléti oktatással;
+44. távoktatás: sajátos információtechnológiai és kommunikációs taneszközök, valamint ismeretátadási-tanulási módszerek, digitális tananyagok használatával az oktató és hallgató interaktív kapcsolatára és az önálló hallgatói munkára épülő képzés, amelyben a tanórák száma nem éri el a teljes idejű képzés tanóráinak harminc – szakirányú továbbképzés esetében húsz – százalékát. A távoktatás teljes egészében megvalósítható zárt rendszerű távoktatási képzésmenedzsment-rendszerrel megvalósított zárt rendszerű elektronikus távolléti oktatással;
 
 45. telephely: az alapító okiratban meghatározott, a székhelyen kívül működő szervezeti egység működési helye;
 

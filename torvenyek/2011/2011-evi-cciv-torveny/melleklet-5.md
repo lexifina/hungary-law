@@ -13,9 +13,3 @@ c) születési idejére,
 d) anyja nevére,
 
 e) adóazonosító jelére, és
-
-f) biztosítotti jogviszonya kezdő és záró időpontjára
-
-## vonatkozó személyes adatokat.
-
-2. A Diákhitel szervezet az 1. pont szerint nyilvántartott adatokat a Korm. rendeletben meghatározott kiváltó hitelre vonatkozó kölcsönszerződés megkötéstől számított 8 évig kezeli.

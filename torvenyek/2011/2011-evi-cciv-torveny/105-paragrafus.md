@@ -8,6 +8,6 @@
 
 (4) Az 1997. december 31-ig az egyetem által odaítélt doktori fokozat, illetőleg megállapított doktori fokozattal való egyenértékűség továbbra is érvényes.
 
-(5) Amennyiben jogszabály alkalmazási, foglalkoztatási, képesítési előírásként tudományos fokozatot említ, azon doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora, illetve a külföldön szerzett és honosított vagy elismert tudományos fokozatot kell érteni.
+(5) Amennyiben jogszabály alkalmazási, foglalkoztatási, képesítési előírásként tudományos fokozatot említ, azon doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora, illetve a külföldön szerzett és honosított, elismert vagy törvény erejénél fogva egyenértékű tudományos fokozatot kell érteni.
 
 (6) A tudomány(ok) kandidátusa fokozattal rendelkező személy a „doktori fokozat” megjelölést használhatja.

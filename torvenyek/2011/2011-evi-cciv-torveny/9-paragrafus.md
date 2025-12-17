@@ -22,7 +22,7 @@ e) az alaptevékenységének ellátásához szükséges oktatók és kutatók le
 
 a) legalább négy alapképzési szakon és két mesterképzési szakon jogosult képzésre,
 
-b) legalább két szakon duális képzést folytat,
+b) legalább két szakon duális képzés folytatására jogosult,
 
 c) munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, tudományos kutatóinak legalább negyvenöt százaléka tudományos fokozattal rendelkezik,
 

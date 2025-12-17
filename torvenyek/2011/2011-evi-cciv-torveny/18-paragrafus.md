@@ -18,7 +18,7 @@ e) a jogszabályokban meghatározott nyilvántartások vezetéséhez,
 
 f) a jogszabályokban és a felsőoktatási intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához,
 
-g) a közoktatásban és a szakképzésben részt vevő tanulók pályaorientációja és a 16. § szerint végzettek pályakövetése céljából
+g) a közoktatásban és a szakképzésben részt vevő tanulók pályaorientációja, illetve a 15. § és a 16. § szerint végzettek pályakövetése céljából
 
 nélkülözhetetlenül szükséges személyes és különleges adatokat tartja nyilván a tanulmányi rendszerében.
 

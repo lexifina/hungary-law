@@ -1,4 +1,4 @@
-## 7/A. A felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményei és a képesítési keret
+## 7/A. A felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményei és a képesítési keretrendszer
 
 16/A. § (1) A miniszter a képzési és kimeneti követelményeket – a tanári szakok képzési és kimeneti követelményeit ide nem értve – hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján. A képzési és kimeneti követelmények normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A képzési és kimeneti követelmények a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni.
 
