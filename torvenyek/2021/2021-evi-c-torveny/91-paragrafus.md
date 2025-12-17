@@ -18,7 +18,7 @@ c) az ingatlan-nyilvántartási rendszer működéséhez szükséges külső inf
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben a 87/A. § (1) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
-(2b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a 2024. szeptember 30-át megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos eljárás részletszabályait.
+(2b) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a 2025. január 15-ét megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közművek helyzetének rendezésével kapcsolatos eljárás részletszabályait.
 
 (2c) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a zártkerti ingatlan művelési ágának művelés alól kivett területként történő bejegyzésére vonatkozó részletes szabályait.
 

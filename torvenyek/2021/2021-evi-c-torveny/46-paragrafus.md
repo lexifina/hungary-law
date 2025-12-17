@@ -30,4 +30,4 @@ ab) az (1) bekezdés a) pont ab) vagy ad) alpontjában, illetve b)–d) pontjáb
 
 b) az ingatlan-nyilvántartási, a telekalakítási, a földmérési és térképészeti tevékenységgel kapcsolatos eljárások, továbbá az ingatlan-nyilvántartásból és az állami alapadatbázisokból történő adatszolgáltatások igazgatási szolgáltatási díjairól szóló miniszteri rendeletben meghatározott kivétellel az eljárás igazgatási szolgáltatási díjának meg nem fizetése miatt
 
-széljegyzésre alkalmatlan, az ingatlanügyi hatóság elektronikus igazolást küld a benyújtó számára arról, hogy a kérelem széljegyzésének akadálya van. Ebben az esetben a kérelmet be nem nyújtottnak kell tekinteni.
+széljegyzésre alkalmatlan, az ingatlanügyi hatóság elektronikus igazolást küld a benyújtó számára arról, hogy a beadvány széljegyzésének akadálya van. Ebben az esetben a beadványt be nem nyújtottnak kell tekinteni.

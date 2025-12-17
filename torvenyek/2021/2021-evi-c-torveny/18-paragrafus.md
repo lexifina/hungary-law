@@ -2,7 +2,7 @@
 
 18. § (1) Az ingatlanra bejegyzett jogok és tények ingatlan-nyilvántartási sorrendjét (a továbbiakban: rangsor) és az egyes bejegyzések ebből következő rangsorban elfoglalt helyét (a továbbiakban: ranghely) a bejegyzések hatályának kezdetére irányadó időpontok határozzák meg.
 
-(2) A bejegyzések hatályának kezdetére irányadó időpontnak – az azonos időpontban érkezett beadványokra vonatkozó eltéréssel – a bejegyzés iránt benyújtott kérelem, bírósági elrendelés vagy hatósági felhívás ingatlanügyi hatóság általi iktatásának az időpontját kell tekinteni feltéve, hogy a bíróság a bírósági elrendelésben ennél korábbi időpontot nem határoz meg.
+(2) A bejegyzések hatályának kezdetére irányadó időpontnak – az azonos időpontban érkezett beadványokra vonatkozó eltéréssel – a bejegyzés iránt benyújtott kérelem, bírósági elrendelés vagy hatósági felhívás ingatlanügyi hatóság általi iktatásának az időpontját kell tekinteni feltéve, hogy az e törvény 34. § (2) bekezdése szerinti esetben a bírósági elrendelés vagy hatósági felhívás ennél korábbi időpontot nem határoz meg.
 
 (3) Ranghelyet csak olyan kérelemmel, bírósági elrendeléssel vagy hatósági felhívással lehet alapítani, amelyhez a bejegyzés alapjául szolgáló okiratot is mellékelték. A bejegyzés alapjául szolgáló okiratnak nem tekinthető iratot a rangsor megállapításánál nem lehet figyelembe venni.
 
