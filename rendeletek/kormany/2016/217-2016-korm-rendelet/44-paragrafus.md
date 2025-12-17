@@ -1,5 +1,0 @@
-## 38. A szociálpolitikai menetdíj-támogatást nem tartalmazó, adómentes közlekedési kedvezményekről szóló 498/2013. (XII. 29.) Korm. rendelet módosítása
-
-44. §[^41]
-
-[^41]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
