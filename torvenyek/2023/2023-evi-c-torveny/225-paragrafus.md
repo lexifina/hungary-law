@@ -186,7 +186,7 @@ e) az összehangolt védelmi tevékenység során, illetve a tömeges bevándorl
 
 60. – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a kiemelt nemzeti emlékhelyen kiszabható e törvény szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait;
 
-61. a nemzeti és történelmi emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti és történelmi emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti és történelmi emlékhely használati tervének elkészítésével, a támogatás elbírálásának rendjével, a nemzeti és történelmi emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
+61. a nemzeti és történelmi emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti és történelmi emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti és történelmi emlékhelyre vonatkozó éves jelentés elkészítésével, a támogatás elbírálásának rendjével, a nemzeti és történelmi emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
 
 62. a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével
 
