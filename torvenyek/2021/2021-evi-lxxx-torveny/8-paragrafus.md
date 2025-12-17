@@ -1,3 +1,3 @@
-8. § (1) Az 1. § (1) bekezdése szerinti közfeladat ellátása érdekében állami tulajdonba kerülő ingatlan tekintetében az államot megillető jogok és kötelezettségek összességének gyakorlására a Minisztérium jogosult. A tulajdonosi jogok gyakorlására jogosult Minisztériumot az ingatlanügyi hatóság a Minisztérium kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba.
+8. § (1)
 
-(2) Az (1) bekezdés alapján az állam tulajdonába kerülő ingatlan esetén az önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
+(2) Az állam tulajdonába kerülő ingatlan esetén az önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
