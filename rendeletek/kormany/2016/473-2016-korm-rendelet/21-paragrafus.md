@@ -1,1 +1,0 @@
-## 21. Az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeleteknek a központi hivatalok és a költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő módosításáról szóló 380/2016. (XII. 2.) Korm. rendelet módosítása
