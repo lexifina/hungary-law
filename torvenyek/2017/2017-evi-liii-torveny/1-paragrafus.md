@@ -20,7 +20,7 @@ h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adót
 
 i) játékkaszinót, kártyatermet működtetőre vagy távszerencsejátéknak nem minősülő fogadást, távszerencsejátékot, online kaszinójátékot szervezőre;
 
-j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
+j) – az s) pont kivételével – nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 
 k) árukereskedőre, amennyiben tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést teljesít vagy fogad el;
 
@@ -34,9 +34,11 @@ o)
 
 p) kulturális javak (műalkotások, régiségek) forgalmazásával vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
 
-q) kulturális javak (műalkotások, régiségek) tárolásával vagy forgalmazásával szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot; és
+q) kulturális javak (műalkotások, régiségek) tárolásával vagy forgalmazásával szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
 
-r) székhelyszolgáltatóra.
+r) székhelyszolgáltatóra; és
+
+s) a befektetési arany forgalmazásával, vagy felvásárlásával foglalkozó személyekre.
 
 (1a) E törvény hatálya akkor terjed ki arra, aki Magyarország területén kívül az Európai Unió más tagállamában vagy harmadik országban rendelkezik székhellyel, ha az az (1) bekezdésben meghatározott szolgáltatók által nyújtható szolgáltatást Magyarországon létesített tartós üzleti egysége révén az ügyfelek számára állandó belföldi jelenlét formájában közvetlenül nyújtja [az (1) bekezdésben és e bekezdésben meghatározottak a továbbiakban együtt: szolgáltató].
 

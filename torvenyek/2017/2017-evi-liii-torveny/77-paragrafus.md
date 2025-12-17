@@ -58,25 +58,31 @@ l) az ügyfél és a tényleges tulajdonos vonatkozásában kiemelt közszerepl�
 
 vonatkozó részletszabályokat.
 
-(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében
+(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg
 
-a) a belső kockázatértékelés elkészítésének szabályrendszerére,
+a) az 1. § (1) bekezdés i) és s) pontjában meghatározott szolgáltatók tekintetében
 
-b) a belső ellenőrző és információs rendszer működtetésére,
+aa) a belső kockázatértékelés elkészítésének szabályrendszerére,
 
-c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
+ab) a belső ellenőrző és információs rendszer működtetésére,
 
-d) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+ac) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
 
-e) a megerősített eljárás esetköreire és feltételrendszerére,
+ad) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 
-f) a kijelölt felelős vezető és a megfelelési vezető kijelölésére és helyettesítésére, valamint a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
+ae) a megerősített eljárás esetköreire és feltételrendszerére,
 
-g) a képzési programra,
+af) a képzési programra,
 
-h) az ügylet felfüggesztésére
+ag) az ügylet felfüggesztésére,
 
-i) az ügyfél és a tényleges tulajdonos vonatkozásában kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására
+ah) az ügyfél és a tényleges tulajdonos vonatkozásában a kiemelt közszereplői minőség megállapításával kapcsolatos kockázatkezelési rendszer kialakítására,
+
+ai) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára;
+
+b) az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében a kijelölt felelős vezető és a megfelelési vezető kijelölésére és helyettesítésére;
+
+c) az 1. § (1) bekezdés s) pontjában meghatározott szolgáltatók tekintetében a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre
 
 vonatkozó részletszabályokat.
 

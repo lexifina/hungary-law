@@ -18,6 +18,8 @@ ec) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató esetében 
 
 ed) az 1. § (1) bekezdés h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból való törlését;
 
+ee) az 1. § (1) bekezdés s) pontjában meghatározott szolgáltató esetében visszavonja a szolgáltató engedélyét vagy a tevékenység végzésétől legalább egy, de legfeljebb tizenkét hónapra eltiltja;
+
 f) kezdeményezi a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja felelősségének megállapítását;
 
 g) kezdeményezi a szolgáltató vezetője vezetői jogkörének a jogsértés megszüntetéséig történő felfüggesztését vagy visszavonását;
@@ -28,7 +30,7 @@ ha) az 1. § (1) bekezdés a)–c) és e) pontjában meghatározott szolgáltat�
 
 hb) az 1. § (1) bekezdés d) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a tárgyévet megelőző év tagdíjbevételei és támogatásai együttes összege 10%-ának megfelelő összegig, vagy kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
 
-hc) az 1. § (1) bekezdés f)–k) és m)–r) pontjában meghatározott szolgáltató esetében százezer forinttól legfeljebb négyszázmillió forintig terjedő pénzbírságot szabhat ki;
+hc) az 1. § (1) bekezdés f)–k) és m)–s) pontjában meghatározott szolgáltató esetében százezer forinttól legfeljebb négyszázmillió forintig terjedő pénzbírságot szabhat ki;
 
 hd) befektetési vállalkozás esetében a ha) alponttól eltérően az MNBtv. 76. § (25) bekezdésében meghatározott összegű pénzbírságot szabhat ki;
 
@@ -36,7 +38,7 @@ i) az 1. § (1) bekezdés a)–e) pontjában meghatározott szolgáltatók eset�
 
 j) kötelezi a szolgáltatót határidő tűzésével az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére;
 
-k) az 1. § (1) bekezdés a)–r) pontjában meghatározott szolgáltatók esetében előírhatja rendkívüli adatszolgáltatási kötelezettség teljesítését;
+k) az 1. § (1) bekezdés a)–s) pontjában meghatározott szolgáltatók esetében előírhatja rendkívüli adatszolgáltatási kötelezettség teljesítését;
 
 l) az 1. § (1) bekezdés a)–e), n) és o) pontjában meghatározott szolgáltató jogsértésért felelős vezetőjét és foglalkoztatottját
 

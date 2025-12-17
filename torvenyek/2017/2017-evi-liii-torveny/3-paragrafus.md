@@ -214,7 +214,7 @@ gd) az a természetes személy, aki egyéb módon tényleges irányítást, elle
 
 40. útmutató: az 5. §-ban meghatározott felügyeletet ellátó szerv által az e törvény szerinti felügyeleti tevékenysége keretében a szolgáltatók számára kiadott, iránymutatást tartalmazó alábbi dokumentumok:
 
-a) az 1. § (1) bekezdés a)–f), h)–k) és m–r) pontjában meghatározott szolgáltató részére kiadott rendelet,
+a) az 1. § (1) bekezdés a)–f), h)–k) és m)–s) pontjában meghatározott szolgáltató részére kiadott rendelet,
 
 b) az 1. § (1) bekezdés g) pontjában meghatározott szolgáltató részére kiadott kötelező jellegű útmutató, valamint
 
@@ -254,11 +254,11 @@ a) az üzleti kapcsolat során a szolgáltató szakmai tevékenységi körébe t
 
 b) az ügyleti megbízás.
 
-44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony, valamint a 6. § (1) bekezdés e) pontja szerinti eseti jogviszony.
+44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–s) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony, valamint a 6. § (1) bekezdés e) pontja szerinti eseti jogviszony.
 
 45. üzleti kapcsolat:
 
-a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
+a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h), valamint j)–s) pontjában megjelölt szakmai tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
 
 b) a játékkaszinót vagy kártyatermet működtető szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték és az online kaszinójáték szervezőjénél a játékos nyilvántartásba vétele,
 

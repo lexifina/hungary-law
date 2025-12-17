@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-53-00-00
 | 2025-05-16 | 2025. évi XII. törvény | 2017-53-00-00.33 |
 | 2025-05-31 | 2025. évi XXXII. törvény | 2017-53-00-00.34 |
 | 2025-07-01 | 2024. évi LVI. törvény | 2017-53-00-00.31 |
+| 2025-12-17 | 2025. évi XCIII. törvény | 2017-53-00-00.37 |

@@ -2,7 +2,7 @@
 
 a) a)–e) pontjában meghatározott szolgáltatók és az 1. § (1b) bekezdésében meghatározott személyek vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
 
-b) i) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
+b) i) és s) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
 
 c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
 
