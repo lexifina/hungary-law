@@ -12,4 +12,4 @@ d) a területi közigazgatás megerősítésével összefüggő egyes kormányre
 
 e) a fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet,
 
-f) a magyar építészetről szóló törvény kiemelt beruházások körét meghatározó rendelkezéseinek eltérő alkalmazásáról szóló 257/2025. (VIII. 11.) Korm. rendelet.
+f)

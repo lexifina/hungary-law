@@ -1,5 +1,3 @@
-## „f) a befektetési arany kereskedelmi felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.”
-
 17. § A Kertv.
 
 a) 3. § (3) és (4) bekezdésében a „Külön törvény” szövegrész helyébe a „Törvény” szöveg,
@@ -14,11 +12,11 @@ e) 9. § (1) bekezdésében az „A kereskedelmi” szövegrész helyébe az „
 
 f) 9. § (2) bekezdésében az „A fogyasztóvédelmi” szövegrész helyébe az „A – (2a) bekezdésben foglalt eltéréssel a – fogyasztóvédelmi” szöveg,
 
-g) 9/C. § (1) bekezdés a) pont aa) alpontjában az „adószáma,” szövegrész helyébe az „adószáma, elektronikus levelezési címe és telefonszáma,” szöveg,
+g)
 
-h) 9/C. § (2a) bekezdésében a „d) pontja” szövegrész helyébe a „d) és e) pontja” szöveg,
+h)
 
-i) 9/C. § (4) bekezdésében a „d) pontja” szövegrész helyébe a „d) és e) pontja” szöveg,
+i)
 
 j) 9/C. § (5) bekezdésében a „közül az” szövegrész helyébe a „közül az érvényes engedéllyel rendelkező engedélyes” szöveg, az „adatokat” szövegrész helyébe az „adatait” szöveg,
 

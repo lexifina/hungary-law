@@ -2,7 +2,7 @@
 
 a) 158. § (9) bekezdésében a „(6)” szövegrész helyébe a „(8)” szöveg,
 
-b) 224. § (4) bekezdés b) pontjában a „nyilvántartásnak” szövegrész helyébe a „nyilvántartásnak és a NÉNY-nek” szöveg,
+b)
 
 c) 225. § (1) bekezdés 61. pontjában az „emlékhely használati tervének” szövegrész helyébe az „emlékhelyre vonatkozó éves jelentés” szöveg,
 
