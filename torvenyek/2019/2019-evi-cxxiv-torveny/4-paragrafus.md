@@ -18,7 +18,17 @@ ae) a Müpa Budapest – Művészetek Palotája Nonprofit Korlátolt Felelőssé
 
 af) a Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság;
 
-b) alkotóművészet ágazatban a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
+ag) a Csokonai Nemzeti Színház Debrecen;
+
+ah) a Kolozsvári Magyar Opera;
+
+ai) a Nemzeti Táncszínház Nonprofit Korlátolt Felelősségű Társaság;
+
+b) alkotóművészet ágazatban
+
+ba) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
+
+bb) a Ludwig Múzeum – Kortárs Művészeti Múzeum;
 
 c) közgyűjtemény és emlékezetpolitika ágazatban
 
@@ -40,7 +50,11 @@ db) a Néprajzi Múzeum;
 
 dc) a Szabadtéri Néprajzi Múzeum;
 
-e) közösségi művelődés ágazatban az NMI Művelődési Intézet Nonprofit Közhasznú Korlátolt Felelősségű Társaság;
+e) közösségi művelődés ágazatban
+
+ea) a Nemzeti Művelődési Intézet Nonprofit Közhasznú Korlátolt Felelősségű Társaság;
+
+eb) a Népfőiskola Alapítvány;
 
 f) vizuális művészet ágazatban a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság.
 
