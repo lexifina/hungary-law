@@ -1,0 +1,1 @@
+16. § Az államháztartásról szóló 2011. évi CXCV. törvény 84. § (1c) bekezdésében a „kincstár határozatban 2025. július 31-ig, az ezt követő években tárgyév október 15-éig” szövegrész helyébe a „kincstár határozatban a 2025. évre vonatkozóan 2025. július 31-ig, ezt követően a tárgyévet megelőző év október 15-éig” szöveg lép.

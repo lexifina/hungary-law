@@ -1,0 +1,3 @@
+5. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 14. alcíme a következő 52/C. §-sal egészül ki:
+
+„52/C. § E törvénynek az államháztartási tárgyú törvényeknek a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelv átültetésével összefüggő módosításáról szóló 2025. évi XCI. törvénnyel megállapított 10/A. § c) pontját a hatálybalépést megelőzően keletkezett, a hatálybalépéskor már fennálló tartozások kiegyenlítéséhez szükséges adósságot keletkeztető ügyletek megkötése során is alkalmazni kell.”

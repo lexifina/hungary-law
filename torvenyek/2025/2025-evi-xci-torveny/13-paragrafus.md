@@ -1,0 +1,5 @@
+## „f) a középtávú tervezés során figyelembe vett, valamint a Költségvetési Tanács által utólagosan értékelt makrogazdasági és költségvetési előrejelzés értékelését,”
+
+13. § Az államháztartásról szóló 2011. évi CXCV. törvény 103. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével –, a fejezeti kezelésű előirányzatok fejezetet irányító szerve, valamint a központi kezelésű előirányzatok kezelő szerve – a kincstár által könyvelt központi kezelésű előirányzatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.”

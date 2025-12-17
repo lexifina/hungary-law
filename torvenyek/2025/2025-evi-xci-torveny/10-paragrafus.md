@@ -1,0 +1,3 @@
+10. § Az államháztartásról szóló 2011. évi CXCV. törvény 60/B. §-a helyébe a következő rendelkezés lép:
+
+„60/B. § A helyi önkormányzat kérelme alapján a kincstár által e törvény alapján benyújtott beszedési megbízás vagy hatósági átutalási megbízás benyújtását a kincstár legfeljebb egy alkalommal, legfeljebb két hónapra elhalasztja, vagy a már benyújtott hatósági átutalási megbízást visszavonja és legfeljebb két hónappal később nyújtja csak be ismételten, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek, illetmények és ellátások kifizetését a beszedési megbízás vagy a hatósági átutalási megbízás érvényesítése veszélyeztetné.”
