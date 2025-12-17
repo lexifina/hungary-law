@@ -23,3 +23,53 @@ kezelhetőek.
 (7) A kincstár az (1) bekezdés szerinti tájékoztatást a Kormány tagja felkérésére, az államháztartásért felelős miniszter utasítása alapján teljesíti.
 
 (8) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve, valamint természetes személyazonosító adatai és a tájékoztatással érintett elérhetősége megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatban megadott adatok kiegészítését kizárólag abban az esetben kérheti, ha a megadott adatok alapján nem tudja kétséget kizáróan beazonosítani a tájékoztatás mellőzését kérő személyt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célból nem kezelheti és más szerv részére nem továbbíthatja.
+
+(9) A kincstár a személyi jövedelemadóról szóló törvény szerinti Otthontámogatással összefüggésben kezeli – a (2) bekezdésben meghatározott adatkörön túlmenően – az alábbiakban meghatározott adatokat az Otthontámogatás nyújtásának és igénybevétele ellenőrzésének céljából, az Otthontámogatás nyújtásához és igénybevétele ellenőrzéséhez szükséges időtartamban:
+
+a) a jogosult azonosításához szükséges adatok:
+
+aa) családi állapot,
+
+ab) adóazonosító jel,
+
+ac) fizetési számlaszám;
+
+b) foglalkoztató szerv megnevezése, címe, adószáma;
+
+c) foglalkoztatás jellege:
+
+ca) a foglalkoztatás időtartama,
+
+cb) a jogviszony típusa,
+
+cc) részmunkaidős foglalkoztatás;
+
+d) az Otthontámogatás igénybevételére vonatkozó adatok:
+
+da) az Otthontámogatás tervezett célja és időpontja,
+
+db) a támogatás típusa és összege;
+
+e) a lakáskölcsön-szerződés adatai:
+
+ea) a lakáskölcsön-szerződés száma,
+
+eb) a hitelintézet adatai,
+
+ec) a hitelfelvétel és a szerződéskötés dátuma,
+
+ed) a szerződési összeg,
+
+ee) az aktuális havi törlesztőrészlet összege,
+
+ef) a hitel lejárati dátuma;
+
+f) önerő összege,
+
+g) az adóstársra vonatkozó adatok:
+
+ga) az adóstárs természetes személyazonosító adatai,
+
+gb) az adóstárs tekintetében foglalkoztató szerv megnevezése, címe, adószáma.
+
+(10) A (9) bekezdésben meghatározott célból és időtartamban az Otthontámogatásról szóló kormányrendeletben meghatározott munkáltató és fenntartó is kezeli a (2) és (9) bekezdés szerinti adatokat, amelynek keretében az adatokat a kincstár részére az Otthontámogatásról szóló kormányrendeletben meghatározott módon átadja.
