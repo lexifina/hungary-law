@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2025-06-20 | 2025. évi LI. törvény | 2021-32-00-00.37 |
 | 2025-07-01 | 2025. évi LXVII. törvény | 2021-32-00-00.39 |
 | 2025-09-01 | 2025. évi LI. törvény | 2021-32-00-00.38 |
+| 2025-12-17 | 2025. évi XCIII. törvény | 2021-32-00-00.41 |

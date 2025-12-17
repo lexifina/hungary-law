@@ -1,4 +1,4 @@
-36/B. § (1) Az 1. § (1) bekezdés g) pontja és a 13. § x) pontja
+36/B. § (1) Az 1. § (1) bekezdés 7. pontja és a 13. § x) pontja
 
 a) a munkáltató fizetésképtelensége esetén a munkavállalók védelméről szóló, 2008. október 22-i 2008/94/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -10,4 +10,4 @@ d) a mikro-, kis- és középvállalkozások meghatározásáról szóló, 2003.
 
 való megfelelést szolgálja.
 
-(2) Az 1. § (1) bekezdés g) pontja és a 13. § x) pontja a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Az 1. § (1) bekezdés 7. pontja és a 13. § x) pontja a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
