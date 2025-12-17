@@ -6,7 +6,7 @@ a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban vélem
 
 aa) a költségvetési hiány mértékét,
 
-ab) a 3/A. § (2) bekezdésének való megfelelést, továbbá
+ab) a 3/A. § (1) bekezdésének való megfelelést, továbbá
 
 ac) a Magyar Nemzeti Bank tőkehelyzete tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 166. § (3) bekezdésében meghatározottnak való megfelelést,
 
