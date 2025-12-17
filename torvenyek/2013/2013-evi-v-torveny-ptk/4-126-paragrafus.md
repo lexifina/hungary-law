@@ -4,7 +4,7 @@
 
 (2) A szülő a hozzájáruló nyilatkozatát a gyermek születésétől számított hat héten belül - a gyermeknek a szülő vagy a gyermek más hozzátartozója által történő nevelése érdekében - visszavonhatja. A visszavonás lehetőségére a szülőt figyelmeztetni kell.
 
-(3) Ha a gyermek a hatodik életévét betöltötte vagy egészségileg károsodott, a hozzájáruló nyilatkozat érvényességéhez a gyámhatóság jóváhagyása szükséges.
+(3)
 
 (4) A (2) bekezdésben meghatározott esetben a szülő felügyeleti joga a gyermek hathetes életkorának betöltésével szűnik meg. A szülői felügyeleti jog megszűnését a gyámhatóság állapítja meg.
 

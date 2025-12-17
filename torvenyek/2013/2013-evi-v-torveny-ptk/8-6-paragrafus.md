@@ -17,7 +17,3 @@ d) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen felt�
 e) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem, egyes jogi vonatkozásairól szóló, 2000. június 8-i 2000/31/EK európai parlamenti és tanácsi irányelvnek;
 
 f) a pénzügyi biztosítékokról szóló megállapodásokról szóló, 2002. június 6-i 2002/47/EK európai parlamenti és tanácsi irányelvnek;
-
-g) a nyilvános vételi ajánlatról szóló, 2004. április 21-i 2004/25/EK európai parlamenti és tanácsi irányelvnek;
-
-h) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban című, 2007. július 11-i 2007/36/EK európai parlament és a tanácsi irányelvnek;

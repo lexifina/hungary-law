@@ -9,3 +9,7 @@
 (4) Az örökbefogadást a gyámhatóság engedélyezi.
 
 (5) A gyámhatóság az örökbefogadást az e törvényben meghatározott feltételek megléte esetén is akkor engedélyezi, ha az a kiskorú gyermek érdekében áll. A kiskorú gyermek érdekében a gyámhatóság elsősorban a házasságban élő örökbefogadók általi örökbefogadást engedélyezi.
+
+(6) Nevelésbe vett gyermek örökbefogadásakor előnyben részesül az, aki a gyámhatóság határozata alapján nála elhelyezett gyermeket ellenszolgáltatás ellenében saját háztartásában nevel (a továbbiakban: gyermekvédelmi nevelőszülő), amennyiben a gyermeket legalább két éve folyamatosan neveli, az örökbefogadásra irányuló eljárást kezdeményezi, és megfelel az örökbefogadás feltételeinek.
+
+(7) Amennyiben a gyermek súlyosan beteg, és számára az örökbefogadási eljárás során nem találtak örökbefogadó szülőt, a gyámhatóság engedélyezheti az örökbefogadást annak a személynek, aki a gyermekkel kialakított személyes kapcsolat révén vállalja a gondozását, megfelel az örökbefogadás feltételeinek, és az örökbefogadás engedélyezése előtt a súlyosan beteg vagy fogyatékos gyermek vonatkozásában az örökbefogadási alkalmasságot megszerezte.
