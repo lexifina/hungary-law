@@ -18,6 +18,6 @@
 
 ## 1. A Nemzeti Emlékhely és Kegyeleti Bizottságról szóló 258/2010. (XI. 12.) Korm. rendelet módosítása
 
-1. § A Nemzeti Emlékhely és Kegyeleti Bizottságról szóló 258/2010. (XI. 12.) Korm. rendelet (a továbbiakban: R1.) 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(6) A Bizottság működésével kapcsolatos ügyviteli feladatokat a Nemzeti Örökség Intézete (a továbbiakban: Intézet) látja el. Az Intézet főigazgatója a Bizottság üléseinek állandó meghívottja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
