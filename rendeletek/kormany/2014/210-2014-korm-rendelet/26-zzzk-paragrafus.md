@@ -1,8 +1,8 @@
-## 15/ZZI.[^329] Az eredményalapú támogatásban részesíthetők köre
+## 15/ZZI.[^332] Az eredményalapú támogatásban részesíthetők köre
 
-26/ZZZK. § (1)[^330]
+26/ZZZK. § (1)[^333]
 
 (2) A támogatás nagyvállalkozások által vehető igénybe.
 
-[^329]: A 15/ZZI. alcím címe a 81/2025. (IV. 17.) Korm. rendelet 31. § 30. pontja szerint módosított szöveg.
-[^330]: A 26/ZZZK. § (1) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 31. pontja hatályon kívül helyezte.
+[^332]: A 15/ZZI. alcím címe a 81/2025. (IV. 17.) Korm. rendelet 31. § 30. pontja szerint módosított szöveg.
+[^333]: A 26/ZZZK. § (1) bekezdését a 81/2025. (IV. 17.) Korm. rendelet 31. § 31. pontja hatályon kívül helyezte.

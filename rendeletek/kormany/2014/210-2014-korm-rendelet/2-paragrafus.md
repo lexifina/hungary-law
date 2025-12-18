@@ -20,6 +20,8 @@ ga) a Közlemény (85) bekezdés alapján az Európai Bizottság vonatkozó ügy
 
 gb) a Közlemény (86) bekezdés szerinti egyedi engedélyezési kötelezettség alá tartozó eljárásban hozott európai bizottsági határozattal összhangban lévő,
 
+h)[^8] az Európai Bizottságnak az „Állami támogatásokra vonatkozó keret a tisztaipar-megállapodás támogatása céljából” című, 2025. július 4-i, C/2025/3602. számú közleménye (a továbbiakban: CISAF Közlemény) 6.1 szakasza alapján az Európai Bizottság vonatkozó ügyben hozott határozatában és az azt módosító határozataiban foglalt feltételekkel összhangban lévő,
+
 támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyújtható.
 
 (2) E rendelet alapján az általános csoportmentességi rendelet 31. cikke szerinti képzési támogatás (a továbbiakban: képzési támogatás) a támogató egyedi döntésével a IV/A. Fejezetben megállapított szabályokban foglalt eltérésekkel nyújtható.
@@ -33,3 +35,4 @@ támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyúj
 [^5]: A 2. § (1) bekezdés e) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 81/2025. (IV. 17.) Korm. rendelet 30. § 1. pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés f) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, a 81/2025. (IV. 17.) Korm. rendelet 31. § 1. pontja hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdés g) pontját a 366/2023. (VIII. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be, nyitó szövegrésze a 81/2025. (IV. 17.) Korm. rendelet 30. § 2. pontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés h) pontja a 314/2025. (X. 17.) Korm. rendelet 1. §-a alapján került beiktatásra.

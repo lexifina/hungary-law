@@ -1,6 +1,6 @@
 ## 15/Z. Az elszámolható költségek köre
 
-26/ZL. § (1) [^302] A támogatás keretében kizárólag megújuló energia termeléséhez és megújuló energia tárolásához, vagy csak megújuló energia tárolásához vagy megújuló hidrogén előállításához és megújuló hidrogén tárolásához, vagy csak megújuló hidrogén tárolásához az Sztv. 47–51. §-ában és az IAS 16, valamint az IAS 38 standardban meghatározott költségek számolhatók el.
+26/ZL. § (1) [^305] A támogatás keretében kizárólag megújuló energia termeléséhez és megújuló energia tárolásához, vagy csak megújuló energia tárolásához vagy megújuló hidrogén előállításához és megújuló hidrogén tárolásához, vagy csak megújuló hidrogén tárolásához az Sztv. 47–51. §-ában és az IAS 16, valamint az IAS 38 standardban meghatározott költségek számolhatók el.
 
 (2) A támogatott beruházás által megtermelt energia mennyisége nem lépheti túl a beruházás üzembe helyezésekor számított önellátáshoz szükséges mértéket, figyelemmel a (4) bekezdés g) pontjára.
 
@@ -8,7 +8,7 @@
 
 (4) Nem minősül elszámolható költségnek
 
-a)[^303] – a 18. § (2) bekezdés 27. pontja kivételével – a 18. § (2) bekezdése szerinti költség,
+a)[^306] – a 18. § (2) bekezdés 27. pontja kivételével – a 18. § (2) bekezdése szerinti költség,
 
 b) az ingatlanvásárlás költsége,
 
@@ -26,5 +26,5 @@ g) az önellátást meghaladó mértékű energiatermelő beruházás arányos k
 
 (6) A támogatott beruházás kapcsán beszerzett eszköznek számviteli szempontból újnak kell lennie, és az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség alapja nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-[^302]: A 26/ZL. § (1) bekezdése a 314/2025. (X. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^303]: A 26/ZL. § (4) bekezdés a) pontja az 50/2023. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^305]: A 26/ZL. § (1) bekezdése a 314/2025. (X. 17.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^306]: A 26/ZL. § (4) bekezdés a) pontja az 50/2023. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.

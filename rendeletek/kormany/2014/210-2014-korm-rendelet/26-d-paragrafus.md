@@ -20,13 +20,13 @@ f) nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozás
 
 g) azon vállalkozás részére, amely nem szerepel a köztartozásmentes adózói adatbázisban legkésőbb a támogatási szerződés megkötésének napjáig,
 
-h)[^254] azon vállalkozás részére, amely nem felel meg a rendezett munkaügyi kapcsolatok követelményének,
+h)[^257] azon vállalkozás részére, amely nem felel meg a rendezett munkaügyi kapcsolatok követelményének,
 
 i) olyan vállalkozásnak vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak címzett határozata alapján tiltott állami támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget.
 
-(2)[^255] Nem nyújtható képzési támogatás, amennyiben a képzés az induló beruházás beindításához és működtetéséhez feltétlenül szükséges.
+(2)[^258] Nem nyújtható képzési támogatás, amennyiben a képzés az induló beruházás beindításához és működtetéséhez feltétlenül szükséges.
 
 (3) Nem nyújtható képzési támogatás az általános csoportmentességi rendelet III. fejezet 5. szakasz 31. cikk (2) bekezdésében foglalt esetben.
 
-[^254]: A 26/D. § (1) bekezdés h) pontja a 314/2025. (X. 17.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^255]: A 26/D. § (2) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 13. § k) pontja, a 81/2025. (IV. 17.) Korm. rendelet 30. § 13. pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 31. § 9. pontja által elrendelt módosítás, amely szerint hatályát veszti az „egy regionális beruházási támogatásban részesülő induló beruházás munkavállalóinak képzéséhez” szövegrész, nem vezethető át.]
+[^257]: A 26/D. § (1) bekezdés h) pontja a 314/2025. (X. 17.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^258]: A 26/D. § (2) bekezdése a 310/2022. (VIII. 11.) Korm. rendelet 13. § k) pontja, a 81/2025. (IV. 17.) Korm. rendelet 30. § 13. pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 31. § 9. pontja által elrendelt módosítás, amely szerint hatályát veszti az „egy regionális beruházási támogatásban részesülő induló beruházás munkavállalóinak képzéséhez” szövegrész, nem vezethető át.]

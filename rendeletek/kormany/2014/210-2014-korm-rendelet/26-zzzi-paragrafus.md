@@ -1,7 +1,7 @@
-## 15/ZZH.[^327] Beszámolás, visszakövetelés
+## 15/ZZH.[^330] Beszámolás, visszakövetelés
 
 26/ZZZI. § (1) A támogatáshoz kapcsolódó beszámolók benyújtására a 25. § rendelkezéseit kell alkalmazni, azzal, hogy a beruházó köteles benyújtani a beruházás megkezdésétől a kötelező üzemeltetési időszak végéig minden üzleti évben a lebonyolító szerv részére a 26/ZZW. § (1) bekezdése szerinti vállalkozásnak az auditált beszámolóját, az osztalékot fizető, a cégcsoporthoz tartozó vállalkozás döntéshozó szervének az adózott eredmény felhasználására vonatkozó határozatát, valamint az osztalék jóváírását igazoló bankszámlakivonatot.
 
 (2) A támogató eláll a támogatási szerződéstől, ha a kedvezményezett a munkahelyfenntartási kötelezettségét kevesebb, mint hetvenöt százalékos mértékben teljesíti, vagy csoportos létszámleépítést hajt végre, és a támogató a beruházóval nem tud megállapodni a támogatási szerződés olyan tartalmú módosításában, amely a támogatási szerződés létrejöttekor vállalt munkahelyfenntartási kötelezettséget a támogató által elfogadott módon biztosítja, ideértve a Felsőokt. tv. 108. § 1b. pontja szerinti duális képzés, valamint a Felsőokt. tv. 44. §-a alapján megkötött hallgatói munkaszerződés, illetve az Szkt. 83. § (1) bekezdése szerinti szakképzési munkaszerződés alapján foglalkoztatott személyeket is, ha a foglalkoztatás a havi 60 órát eléri, amennyiben a támogatást nem a 9. § (1) bekezdés d) pontja alapján veszi igénybe a beruházó.
 
-[^327]: A 15/ZZH. alcím (26/ZZZI. §) a 81/2025. (IV. 17.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^330]: A 15/ZZH. alcím (26/ZZZI. §) a 81/2025. (IV. 17.) Korm. rendelet 23. §-ával megállapított szöveg.

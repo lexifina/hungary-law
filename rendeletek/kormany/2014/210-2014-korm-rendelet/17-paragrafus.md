@@ -1,6 +1,6 @@
 ## 11. A támogatott beruházás elszámolható költsége
 
-17. §[^185] (1) Elszámolható költségként kizárólag a támogatási kérelem befogadására vonatkozó értesítést követően felmerült költségek számolhatóak el, figyelemmel a támogatási szerződésben rögzített beruházás, illetve az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésének időpontjára és az egyedileg meghatározott költség-kategóriákra.
+17. §[^188] (1) Elszámolható költségként kizárólag a támogatási kérelem befogadására vonatkozó értesítést követően felmerült költségek számolhatóak el, figyelemmel a támogatási szerződésben rögzített beruházás, illetve az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésének időpontjára és az egyedileg meghatározott költség-kategóriákra.
 
 (2) A 2. § (1) bekezdés a) vagy c) pontja szerinti támogatás esetén beruházás elszámolható költsége a beruházó támogatási kérelemben feltüntetett döntése szerint
 
@@ -8,7 +8,7 @@ a) kizárólag a beruházás érdekében felmerült tárgyi eszközök és immat
 
 b) kizárólag a beruházás által létrehozott munkahelyek 24 naptári hónapra számfejtett személyi jellegű ráfordításai, az adott munkahely létrehozatalától kezdődően.
 
-(3)[^186] A 2. § (1) bekezdés b) pontja szerinti támogatás esetén a kutatás-fejlesztési projekt elszámolható költsége a beruházó – választása szerint – az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésétől számított legkevesebb egy, de legfeljebb három év alatt felmerült, a támogatási kérelemben feltüntetett kutatás-fejlesztési projektjéhez kapcsolódó,
+(3)[^189] A 2. § (1) bekezdés b) pontja szerinti támogatás esetén a kutatás-fejlesztési projekt elszámolható költsége a beruházó – választása szerint – az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésétől számított legkevesebb egy, de legfeljebb három év alatt felmerült, a támogatási kérelemben feltüntetett kutatás-fejlesztési projektjéhez kapcsolódó,
 
 a) a kutató-fejlesztők, személyi jellegű ráfordításainak kizárólagosan a támogatott projekten eltöltött időre vetített része,
 
@@ -18,27 +18,27 @@ c) az épület, épületrész, valamint az egyéb építmény bérleti díja,
 
 d) a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb 25 százalékáig az igazolhatóan felhasznált az anyagköltség, ha az megfelel az általános csoportmentességi rendelet 25. cikk (3) bekezdés a)–c), valamint e) pontjának,
 
-e)[^187] az olyan szerződéses kutatás költségei, – felsőoktatási intézményekkel vagy egészségügyi intézményekkel történő együttműködés keretében felmerült szerződéses kutatás költségei kivételével –, amelyek kizárólag a kutatás-fejlesztési projekt célját szolgálják, a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb 25 százalékáig, valamint
+e)[^190] az olyan szerződéses kutatás költségei, – felsőoktatási intézményekkel vagy egészségügyi intézményekkel történő együttműködés keretében felmerült szerződéses kutatás költségei kivételével –, amelyek kizárólag a kutatás-fejlesztési projekt célját szolgálják, a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb 25 százalékáig, valamint
 
-f)[^188] ha a kutatás-fejlesztési projekt során felsőoktatási intézményekkel vagy egészségügyi intézményekkel történik együttműködés, az olyan szerződéses kutatás költségei, amelyek kizárólag a kutatás-fejlesztési projekt célját szolgálják, a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb hetvenöt százalékáig,
+f)[^191] ha a kutatás-fejlesztési projekt során felsőoktatási intézményekkel vagy egészségügyi intézményekkel történik együttműködés, az olyan szerződéses kutatás költségei, amelyek kizárólag a kutatás-fejlesztési projekt célját szolgálják, a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb hetvenöt százalékáig,
 
-g)[^189] az e) és f) pont együttes alkalmazása esetén a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb hetvenöt százalékáig.
+g)[^192] az e) és f) pont együttes alkalmazása esetén a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb hetvenöt százalékáig.
 
-(3a)[^190] E támogatások esetében a 18–20. §-t – a 20. § (2) bekezdése kivételével – nem kell alkalmazni.
+(3a)[^193] E támogatások esetében a 18–20. §-t – a 20. § (2) bekezdése kivételével – nem kell alkalmazni.
 
-(3b)[^191] Nem minősül projekten eltöltött időnek a szabadság és betegszabadság időszaka a (3) bekezdés a) pontjával kapcsolatban.
+(3b)[^194] Nem minősül projekten eltöltött időnek a szabadság és betegszabadság időszaka a (3) bekezdés a) pontjával kapcsolatban.
 
-(4)[^192] Nem minősül elszámolható költségnek
+(4)[^195] Nem minősül elszámolható költségnek
 
 a) azon tárgyi eszközöknek a (3) bekezdésben meghatározott értékcsökkenési leírása, amelyeknek a beszerzésére állami támogatás igénybevételével került sor,
 
 b) a (3) bekezdésben meghatározott azon kutató-fejlesztők személyi jellegű ráfordításai, amelyekhez azonos időszakban a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális beruházási támogatás igénybevételére is sor kerül.
 
-[^185]: A 17. § a 426/2016. (XII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^186]: A 17. § (3) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^187]: A 17. § (3) bekezdés e) pontja a 314/2025. (X. 17.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^188]: A 17. § (3) bekezdés f) pontja a 314/2025. (X. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^189]: A 17. § (3) bekezdés g) pontját a 314/2025. (X. 17.) Korm. rendelet 3. §-a iktatta be.
-[^190]: A 17. § (3a) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^191]: A 17. § (3b) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^192]: A 17. § (4) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 6. §-a iktatta be.
+[^188]: A 17. § a 426/2016. (XII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^189]: A 17. § (3) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^190]: A 17. § (3) bekezdés e) pontja a 314/2025. (X. 17.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^191]: A 17. § (3) bekezdés f) pontja a 314/2025. (X. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^192]: A 17. § (3) bekezdés g) pontját a 314/2025. (X. 17.) Korm. rendelet 3. §-a iktatta be.
+[^193]: A 17. § (3a) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^194]: A 17. § (3b) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^195]: A 17. § (4) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 6. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 ## 12. A támogatás igénylése és a támogatási döntés
 
-21. §[^221] (1)[^222] A támogatás igénylése a lebonyolító szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával történik.
+21. §[^224] (1)[^225] A támogatás igénylése a lebonyolító szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával történik.
 
 (2) A támogatási kérelem
 
@@ -12,9 +12,9 @@ a) a beruházó adatait (így különösen annak nevét, címét, méretét, ad�
 
 b) a tervezett beruházás, illetve kutatás-fejlesztési projekt vagy projektek ismertetését, adatait (így különösen annak helyszínét, a beruházás, illetve kutatás-fejlesztési projekt kezdetének és befejezésének várható időpontját) és szöveges bemutatását,
 
-c)[^223] a megtartott és a regionális szolgáltató központok létrehozása vagy bővítése esetén a beruházás megvalósítása során létrehozandó új munkahelyek számát, illetve az újonnan létesített kutatás-fejlesztési munkahelyek számát,
+c)[^226] a megtartott és a regionális szolgáltató központok létrehozása vagy bővítése esetén a beruházás megvalósítása során létrehozandó új munkahelyek számát, illetve az újonnan létesített kutatás-fejlesztési munkahelyek számát,
 
-d)[^224] a kérelmező, illetve nagyberuházás esetén a beruházó csoport támogatási kérelemben szereplő beruházását megelőző 3 évben támogatott és egyéb beruházásaira vonatkozó adatokat,
+d)[^227] a kérelmező, illetve nagyberuházás esetén a beruházó csoport támogatási kérelemben szereplő beruházását megelőző 3 évben támogatott és egyéb beruházásaira vonatkozó adatokat,
 
 e) a beruházás, illetve a kutatás-fejlesztési projekt megvalósításához igényelt támogatás indikatív mértékét,
 
@@ -28,16 +28,16 @@ tartalmazza.
 
 (4) A támogatási kérelem befogadásáról a támogató a beruházót írásban értesíti.
 
-(5)[^225] A támogatási eljárásban a beruházónak határidőben a lebonyolító szerv rendelkezésére kell bocsátania a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
+(5)[^228] A támogatási eljárásban a beruházónak határidőben a lebonyolító szerv rendelkezésére kell bocsátania a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
 
-(6)[^226] A beruházó legkésőbb a 22. § (4) bekezdésében szabályozott helyszíni vizsgálat előtt köteles a lebonyolító szerv részére benyújtani a beruházáshoz kapcsolódó üzleti tervet, azzal, hogy a lebonyolító szerv az üzleti terv benyújtását és annak független szakértő által történő felülvizsgálatát a 22. § (2) bekezdése szerinti feltételes támogatási ajánlat kiadásának feltételéhez is kötheti.
+(6)[^229] A beruházó legkésőbb a 22. § (4) bekezdésében szabályozott helyszíni vizsgálat előtt köteles a lebonyolító szerv részére benyújtani a beruházáshoz kapcsolódó üzleti tervet, azzal, hogy a lebonyolító szerv az üzleti terv benyújtását és annak független szakértő által történő felülvizsgálatát a 22. § (2) bekezdése szerinti feltételes támogatási ajánlat kiadásának feltételéhez is kötheti.
 
-(7)[^227]
+(7)[^230]
 
-[^221]: A 21. § a 426/2016. (XII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^222]: A 21. § (1) bekezdése a 118/2018. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^223]: A 21. § (2) bekezdés c) pontja a 227/2019. (IX. 26.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^224]: A 21. § (2) bekezdés d) pontja a 463/2020. (X. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^225]: A 21. § (5) bekezdése a 118/2018. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^226]: A 21. § (6) bekezdését a 227/2019. (IX. 26.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^227]: A 21. § (7) bekezdését a 386/2020. (VIII. 7.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 720/2021. (XII. 20.) Korm. rendelet 8. § g) pontja.
+[^224]: A 21. § a 426/2016. (XII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^225]: A 21. § (1) bekezdése a 118/2018. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^226]: A 21. § (2) bekezdés c) pontja a 227/2019. (IX. 26.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^227]: A 21. § (2) bekezdés d) pontja a 463/2020. (X. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^228]: A 21. § (5) bekezdése a 118/2018. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^229]: A 21. § (6) bekezdését a 227/2019. (IX. 26.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^230]: A 21. § (7) bekezdését a 386/2020. (VIII. 7.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 720/2021. (XII. 20.) Korm. rendelet 8. § g) pontja.
