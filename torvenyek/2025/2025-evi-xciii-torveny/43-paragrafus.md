@@ -1,3 +1,3 @@
 ## 29. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
 
-43. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény 3/C. § (1) és (2) bekezdésében a „2029” szövegrész helyébe a „2031” szöveg lép.
+### 43. §

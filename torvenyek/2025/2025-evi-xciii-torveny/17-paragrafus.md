@@ -1,16 +1,16 @@
 17. § A Kertv.
 
-a) 3. § (3) és (4) bekezdésében a „Külön törvény” szövegrész helyébe a „Törvény” szöveg,
+a)
 
-b) 5. § (3) bekezdésében a „miniszter” szövegrész helyébe a „miniszter vagy – befektetési arany esetében – az SZTFH elnökének” szöveg,
+b)
 
-c) 5. § (4) bekezdésében a „hatóság által” szövegrész helyébe a „hatóság – befektetési arany forgalmazása esetében az SZTFH – által” szöveg,
+c)
 
-d) 5. § (5) bekezdésében a „hatóság” szövegrész helyébe a „hatóság, vagy – a 9/A. § (1) bekezdése szerinti kereskedelmi tevékenység esetében – az SZTFH” szöveg,
+d)
 
-e) 9. § (1) bekezdésében az „A kereskedelmi” szövegrész helyébe az „A – 9/A. § (1) bekezdése szerinti kereskedelmi tevékenység kivételével a – kereskedelmi” szöveg,
+e)
 
-f) 9. § (2) bekezdésében az „A fogyasztóvédelmi” szövegrész helyébe az „A – (2a) bekezdésben foglalt eltéréssel a – fogyasztóvédelmi” szöveg,
+f)
 
 g)
 
@@ -18,8 +18,8 @@ h)
 
 i)
 
-j) 9/C. § (5) bekezdésében a „közül az” szövegrész helyébe a „közül az érvényes engedéllyel rendelkező engedélyes” szöveg, az „adatokat” szövegrész helyébe az „adatait” szöveg,
+j)
 
-k) 12. § (1) bekezdés k) pontjában a „szabályait,” szövegrész helyébe a „szabályait, továbbá a 9/B. § (8) bekezdés a) pontja szerinti bírságösszeg mértékét,” szöveg
+k)
 
 lép.

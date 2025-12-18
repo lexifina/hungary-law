@@ -2,14 +2,14 @@
 
 50. § Hatályát veszti
 
-a) az állami tisztviselőkről szóló 2016. évi LII. törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról szóló 217/2016. (VII. 22.) Korm. rendelet,
+a)
 
-b) a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet,
+b)
 
-c) a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 473/2016. (XII. 27.) Korm. rendelet,
+c)
 
-d) a területi közigazgatás megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 20/2017. (II. 2.) Korm. rendelet,
+d)
 
-e) a fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelet,
+e)
 
 f)
