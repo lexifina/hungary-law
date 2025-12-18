@@ -1,1 +1,3 @@
-2. § Az R. 2. § (4) bekezdésében a „2026. március 4.” szövegrész helyébe a „2027. március 4.” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
