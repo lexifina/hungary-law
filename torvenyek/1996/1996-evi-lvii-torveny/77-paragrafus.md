@@ -10,6 +10,8 @@ c) a 75. § szerinti kötelezettségvállalás teljesítését, továbbá
 
 d) meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó, az a)–c) pontban nem említett kötelezettség teljesítését, ha az a rendelkezésre álló adatokból nem állapítható meg.
 
+e) a 76/A. § szerinti kötelezettség teljesítését.
+
 (2) A határozatnak a 32. § (4) bekezdése, illetve a 75. § (3) bekezdése szerinti módosítása iránti kérelmet utóvizsgálat keretében kell elbírálni.
 
 (3) Az utóvizsgálatra – az e §-ban meghatározott eltérésekkel – a versenyfelügyeleti eljárásra vonatkozó rendelkezéseket kell megfelelően alkalmazni.

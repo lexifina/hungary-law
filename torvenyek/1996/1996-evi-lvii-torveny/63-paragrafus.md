@@ -8,17 +8,19 @@ a) a III. Fejezet rendelkezéseinek megsértése miatt indított eljárásban h�
 
 b) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások miatt indított eljárásban hat hónap,
 
-c) a 67. § (3), (6) vagy (8) bekezdése alapján indított eljárásban hat hónap,
+c) a 43/F. § (2) bekezdése alapján indított eljárásban három hónap,
 
-d) a 67. § (4) bekezdés a) pontja, (5) vagy (5a) bekezdése alapján indított eljárásban négy hónap,
+d) a 67. § (3), (6) vagy (8) bekezdése alapján indított eljárásban hat hónap,
 
-e) a 67. § (4) bekezdés b) pontja alapján indított eljárásban – a (3) bekezdés szerinti eltéréssel – harminc nap,
+e) a 67. § (4) bekezdés a) pontja, (5) vagy (5a) bekezdése alapján indított eljárásban négy hónap,
 
-f) a 67. § (7) bekezdése alapján indított eljárásban hatvan nap,
+f) a 67. § (4) bekezdés b) pontja alapján indított eljárásban – a (3) bekezdés szerinti eltéréssel – harminc nap,
 
-g) a 67. § (9) bekezdése alapján indított eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pont szerinti időtartam.
+g) a 67. § (7) bekezdése alapján indított eljárásban hatvan nap,
 
-(3) Ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, az ügyintézési határidő a (2) bekezdés d) pontja szerinti határidő.
+h) a 67. § (9) bekezdése alapján indított eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pont szerinti időtartam.
+
+(3) Ha a vizsgáló a 69. § alapján az összefonódás teljes körű vizsgálatát rendeli el, az ügyintézési határidő a (2) bekezdés e) pontja szerinti határidő.
 
 (4) A versenyfelügyeleti eljárás 70/A. § (1) bekezdése szerinti szétválasztása esetén a szétválasztás utáni eljárásokra a szétválasztás előtt irányadó ügyintézési határidő az irányadó.
 
@@ -70,11 +72,11 @@ a) a (2) bekezdés a) pontja szerinti eljárásban két alkalommal, egyenként l
 
 b) a (2) bekezdés b) pontja szerinti eljárásban két alkalommal, egyenként legfeljebb hat hónappal,
 
-c) a (2) bekezdés c) és d) pontja szerinti eljárásban egy alkalommal legfeljebb két hónappal,
+c) a (2) bekezdés c)–e) pontja szerinti eljárásban egy alkalommal legfeljebb két hónappal,
 
-d) a (2) bekezdés e) és f) pontja szerinti eljárásban egy alkalommal legfeljebb húsz nappal,
+d) a (2) bekezdés f) és g) pontja szerinti eljárásban egy alkalommal legfeljebb húsz nappal,
 
-e) a (2) bekezdés g) pontja szerinti eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pontban meghatározottak szerint,
+e) a (2) bekezdés h) pontja szerinti eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pontban meghatározottak szerint,
 
 f) a (3) bekezdés szerinti esetben további egy alkalommal, legfeljebb két hónappal
 

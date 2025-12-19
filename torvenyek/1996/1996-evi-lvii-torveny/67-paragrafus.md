@@ -8,6 +8,8 @@
 
 (2) A vizsgáló végzéssel vizsgálatot rendel el a Gazdasági Versenyhivatal hatáskörébe tartozó, valószínűsíthetően jogsértő magatartás észlelése esetén, ha a közérdek védelme versenyfelügyeleti eljárás lefolytatását szükségessé teszi.
 
+(2a) A vizsgáló végzéssel vizsgálatot rendel el a 43/F. § (2) bekezdése szerinti esetben, egyidejűleg kikéri a Szabályozott Tevékenységek Felügyeleti Hatóságának állásfoglalását a 43/F. § (4) bekezdés a) pont aa) és ac) alpontjában, b) pontjában, valamint c) pontjában foglaltak tekintetében. A Szabályozott Tevékenységek Felügyeleti Hatóságának állásfoglalására és eljárására az Ákr. szakhatósági eljárásra vonatkozó szabályait kell alkalmazni azzal, hogy a Szabályozott Tevékenységek Felügyeleti Hatósága szakhatósági eljárásának határideje hatvan nap. A Szabályozott Tevékenységek Felügyeleti Hatósága szakhatósági állásfoglalása a Gazdasági Versenyhivatalt köti.
+
 (3) A vizsgáló végzéssel vizsgálatot rendel el, ha valószínűsíthető, hogy a 24. § (1)–(3) bekezdése szerinti összefonódást a 29. § szerinti tilalom ellenére végrehajtották.
 
 (4) A 24. § szerinti összefonódás-bejelentés alapján a vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli az összefonódás vizsgálatát, ha

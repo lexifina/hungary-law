@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2024-05-10 | 2024. évi XVII. törvény | 1996-57-00-00.75 |
 | 2024-09-01 | 2024. évi XII. törvény | 1996-57-00-00.74 |
 | 2025-01-20 | 2024. évi LXXIV. törvény | 1996-57-00-00.76 |
+| 2025-12-19 | 2025. évi XCVIII. törvény | 1996-57-00-00.79 |

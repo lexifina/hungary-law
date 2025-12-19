@@ -38,6 +38,8 @@ n) a 67. § (7) bekezdés c) pontja alapján indított eljárásban megállapít
 
 o) megállapítja, hogy a magatartás nem jogsértő.
 
+p) a jogsértés tényének megállapítása nélkül megállapítja a vállalkozás vagy vállalkozáscsoport piacokon átívelő jelentőségét, valamint, hogy a vállalkozás vagy vállalkozáscsoport magatartása hozzájárul a 43/F. § (2) bekezdése szerinti jelentős mértékű és folyamatos versenytorzuláshoz vagy versenykorlátozáshoz, és számára arányos és a versenytorzulás vagy versenykorlátozás megszüntetéséhez szükséges kötelezettséget – ideértve különösen a magatartására vonatkozó vagy szerkezeti korrekciós intézkedéseket – ír elő.
+
 (2) Az összefonódást megtiltó határozatban az eljáró versenytanács – ha alkalmazandó – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról is.
 
 (3) Az (1) bekezdés d) vagy e) pontja szerinti megállapítás mellett bírság kiszabásának nincs helye.
