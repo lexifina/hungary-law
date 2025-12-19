@@ -1,3 +1,3 @@
-5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^67]
+5. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^74]
 
-[^67]: A 3–5. mellékletet az 50/2013. (VI. 17.) VM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^74]: A 3–5. mellékletet az 50/2013. (VI. 17.) VM rendelet 3. § c) pontja hatályon kívül helyezte.

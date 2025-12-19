@@ -70,6 +70,8 @@ d)[^20] a hagyományőrző cukrászati termékekről szóló 40. melléklet,
 
 e)[^21] a füstölt fűszerpaprika-őrleményről szóló 41. melléklet.
 
+f)[^22] a száraztésztákról szóló 42. melléklet.
+
 [^1]: Az 1. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 46. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 65/2010. (V. 12.) FVM rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés 1–2. pontját a 36/2014. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
@@ -91,3 +93,4 @@ e)[^21] a füstölt fűszerpaprika-őrleményről szóló 41. melléklet.
 [^19]: Az 1. § (3) bekezdés c) pontját a 85/2016. (XII. 19.) FM rendelet 1. §-a iktatta be.
 [^20]: Az 1. § (3) bekezdés d) pontját a 16/2017. (III. 29.) FM rendelet 1. §-a iktatta be.
 [^21]: Az 1. § (3) bekezdés e) pontját a 8/2020. (III. 25.) AM rendelet 1. §-a iktatta be.
+[^22]: Az 1. § (3) bekezdés f) pontját az 50/2025. (XII. 16.) AM rendelet 1. §-a iktatta be.

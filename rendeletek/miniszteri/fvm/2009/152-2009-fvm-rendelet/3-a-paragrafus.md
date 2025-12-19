@@ -1,4 +1,4 @@
-## 3/A. §[^54] Ez a rendelet
+## 3/A. §[^60] Ez a rendelet
 
 a) az élelmiszerenzimekről, valamint a 83/417/EGK tanácsi irányelv, az 1493/1999/EK tanácsi rendelet, a 2000/13/EK irányelv, a 2001/112/EK tanácsi irányelv és a 258/97/EK rendelet módosításáról szóló, 2008. december 16-i 1332/2008/EK európai parlamenti és tanácsi rendelet;
 
@@ -14,4 +14,4 @@ f) a halászati és akvakultúra-termékek piacának közös szervezéséről, a
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^54]: A 3/A. §-t a 10/2014. (IX. 18.) FM rendelet 3. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^60]: A 3/A. §-t a 10/2014. (IX. 18.) FM rendelet 3. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
