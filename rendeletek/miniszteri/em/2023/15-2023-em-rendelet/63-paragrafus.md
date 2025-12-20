@@ -1,4 +1,4 @@
-63. §[^154] Ez a rendelet
+63. §[^156] Ez a rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet,
 
@@ -14,4 +14,4 @@ f) a környezetvédelmi és éghajlat-politikai program (LIFE) létrehozásáró
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^154]: A 63. § a 10/2025. (IV. 3.) EM rendelet 10. §-ával megállapított szöveg.
+[^156]: A 63. § a 10/2025. (IV. 3.) EM rendelet 10. §-ával megállapított szöveg.
