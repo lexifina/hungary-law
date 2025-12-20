@@ -87,3 +87,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2025-10-01 | 2025. évi LIV. törvény | 2007-127-00-00.96 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2007-127-00-00.99 |
 | 2025-11-22 | 2025. évi LXXXIV. törvény | 2007-127-00-00.102 |
+| 2025-12-20 | 2025. évi LXXXIII. törvény | 2007-127-00-00.100 |
