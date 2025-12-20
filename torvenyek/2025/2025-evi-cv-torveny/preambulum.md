@@ -1,0 +1,3 @@
+[1] Magyarország Kormánya külpolitikájának alapvető célja, hogy a magyar érdekek nemzetközi fórumokon és a kétoldalú kapcsolatokban történő következetes képviseletével elősegítse az ország nemzetközi súlyának növekedését. Ehhez igazodóan, Magyarország és a Pakisztáni Iszlám Köztársaság erősíteni kívánja a két ország közötti politikai, gazdasági és kulturális kapcsolatokat, amelynek eszköze a két ország diplomata-útlevéllel rendelkező állampolgárai számára biztosított vízummentesség biztosítása.
+
+[2] A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény értelmében az Országgyűlés a következő törvényt alkotja:

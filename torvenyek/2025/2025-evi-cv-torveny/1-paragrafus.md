@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Pakisztáni Iszlám Köztársaság Kormánya között a diplomata-útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
