@@ -11,3 +11,5 @@
 (5) Közös tulajdon esetén a tulajdonostársak tulajdoni hányaduk arányában minősülnek adóalanyoknak. Az adó megfizetéséért a tulajdonostársak egyetemlegesen felelnek.
 
 (6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye Közösség területén kívül van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező üzembentartót, vagy az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.) meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
+
+(7) Az (1) bekezdéstől eltérően, ha a tulajdonos és az üzembentartó személye elválik egymástól, az adó alanya a tulajdonos.
