@@ -113,3 +113,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2025-09-01 | 2025. évi LIV. törvény | 1996-81-00-00.159 |
 | 2025-10-28 | 2024. évi XCI. törvény | 1996-81-00-00.155 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 1996-81-00-00.162 |
+| 2025-12-20 | 2025. évi LXXXIII. törvény | 1996-81-00-00.163 |

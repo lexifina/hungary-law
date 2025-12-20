@@ -14,7 +14,15 @@
 
 a) – a b) pontban foglalt eset kivételével – az elszámolható költség 10 százaléka,
 
-b) a felsőoktatási intézmény, a Magyar Tudományos Akadémia, a központi költségvetési szervként működő kutatóintézet, a HUN-REN Magyar Kutatási Hálózat, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely, valamint a közvetlenül vagy közvetve többségi állami tulajdonban lévő gazdasági társaság formájában működő kutatóintézet és az adózó által írásban kötött szerződés alapján közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén az elszámolható költség, de legfeljebb 500 millió forint.
+b) a felsőoktatási intézmény, a Magyar Tudományos Akadémia, a központi költségvetési szervként működő kutatóintézet, a HUN-REN Magyar Kutatási Hálózat, továbbá bármelyikük által vagy közösen alapított kutatóintézet, kutatóhely, továbbá az ezen intézmények 100 százalékos tulajdonában álló és fő céljaként ezen intézmények tudáshasznosítási feladatait ellátó gazdasági társaság, valamint a közvetlenül vagy közvetve többségi állami tulajdonban lévő gazdasági társaság formájában működő kutatóintézet és az adózó által írásban kötött szerződés alapján közösen végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés esetén (6a) bekezdés szerint meghatározott mérték, de legfeljebb 500 millió forint.
+
+(6a) A (6) bekezdés b) pontja alkalmazásában az adókedvezmény elszámolható költség arányában meghatározott mértéke nem haladhatja meg
+
+a) a 4. § 23/h. pontja szerinti alapkutatás esetében az elszámolható költség 100 százalékát;
+
+b) a 4. § 23/i. pontja szerinti alkalmazott (ipari) kutatás esetében az elszámolható költség 50 százalékát;
+
+c) a 4. § 23/j. pontja szerinti kísérleti fejlesztés esetében az elszámolható költség 25 százalékát.
 
 (7) Az adókedvezmény mértéke nem haladhatja meg adózónként és projektenként
 
