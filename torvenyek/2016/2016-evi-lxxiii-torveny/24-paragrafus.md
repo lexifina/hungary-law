@@ -8,7 +8,7 @@ c) a kihelyezett családi állapotától
 
 függ.
 
-(2) A külképviseleteket a külpolitikáért felelős miniszter rendeletben a külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából kategóriákba sorolja, azzal, hogy a rendeletben a külképviseletek kulturális intézetei a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározottak szerint a kulturális diplomáciai viszonyrendszerben elfoglalt helyük szerinti kategóriába is besorolásra kerülnek.
+(2) A külképviseleteket a külpolitikáért felelős miniszter utasításban a külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából kategóriákba sorolja, azzal, hogy az utasításban a külképviseletek kulturális intézetei a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározottak szerint a kulturális diplomáciai viszonyrendszerben elfoglalt helyük szerinti kategóriába is besorolásra kerülnek.
 
 (3) A kihelyezett az adott külképviselet külpolitikai viszonyrendszerben elfoglalt helye szerinti besorolásától függően
 
@@ -22,7 +22,7 @@ d) „C” kategória esetén az illetménye 0%-ának
 
 megfelelő deviza-illetménypótlékra jogosult.
 
-(4) „A plusz” kategóriába legfeljebb húsz, kiemelt fontosságú külképviselet sorolható.
+(4) „A plusz” kategóriába kiemelt fontosságú külképviselet sorolható.
 
 (5) A kihelyezett a (3) bekezdésben meghatározott deviza-illetménypótlékon túl az adott külképviselet élhetőségi besorolásától függően
 

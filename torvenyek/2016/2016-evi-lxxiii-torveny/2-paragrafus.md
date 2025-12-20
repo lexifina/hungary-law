@@ -10,7 +10,7 @@
 
 4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
 
-5. ENSZ-szorzó: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az amerikai dollár közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
+5. ENSZ által közzétett szorzószám: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az USA-dollár közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
 
 5a. életvitelszerű tartózkodás: a kihelyezett és hozzátartozója megszakítás nélkül, életvitelszerűen, illetve közös szülői felügyeletről rendelkező bírósági döntés esetén, amikor a gyermek a döntésben foglaltak szerinti időtartamban tartózkodik az állomáshelyen, vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó településen (e pont alkalmazásában a továbbiakban együtt: állomáshelyen), ha a tartós külszolgálat megkezdését követően az állomáshelyen lakóhelyéül szolgáló ingatlanban szervezi az életét továbbá, ha az életvitelhez szükséges tevékenységeket jellemzően az állomáshelyen folytatja, és a közüzemi szolgáltatásokat személyesen az állomáshelyen veszi igénybe;
 

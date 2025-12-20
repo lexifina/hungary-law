@@ -20,7 +20,7 @@ cb) az a) és b) pontokhoz kapcsolódó költségtérítés-kiegészítésekből
 
 (3a) A külképviselet-vezető a vegyes költségtérítés vonatkozásában megállapított költségtérítés-alap, valamint az adott állomáshely tekintetében megállapított költségtérítés-szorzó szorzata szerinti kétszeres vegyes költségtérítésre jogosult, ha az (1) bekezdés szerint az átalány-költségtérítés számfejtését a külképviselet-vezető önmaga számára igényli.
 
-(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg amerikai dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
+(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg USA-dollárban úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
 
 (5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó településen tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden gyermek után
 
@@ -48,7 +48,7 @@ illeti meg.
 
 (8) Ha a kihelyezett írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, a kihelyezett a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának megfelelő költségtérítés-kiegészítésre jogosult. A házastárs után járó költségtérítés-kiegészítésre a (3a) bekezdésben foglaltak nem alkalmazhatók.
 
-(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint gyermeknevelési költségtérítés-szorzókat a külpolitikáért felelős miniszter rendeletben állapítja meg, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
+(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint gyermeknevelési költségtérítés-szorzókat a külpolitikáért felelős miniszter utasításban állapítja meg, amelynek mértékét szükség szerint felülvizsgálja.
 
 (10) Az átalány-költségtérítés összege a kihelyezett által tetszőlegesen meghatározott arányban és mértékben használható fel bárminemű költségének fedezésére, ilyen különösen az állomáshelyén való lakhatás, Magyarország és a külképviselet közötti utazások, ingóságainak szállítása, mobiltelefon-költsége, gépjármű-használattal kapcsolatban felmerülő költségek, valamint más jogszabályokban a kormányzati szolgálati jogviszonyban álló személyekre nézve biztosított pénzbeli és természetbeni juttatások, illetve egyéb munkáltatói kedvezmények.
 
@@ -60,7 +60,7 @@ illeti meg.
 
 (14) A kihelyező szerv a kihelyezett kérelmére – kizárólag gépkocsivásárlás céljára – a külpolitikáért felelős miniszter által kiadott rendeletben megállapított feltételekkel kölcsönt nyújthat, a kihelyezéstől számított egy éven belül.
 
-(15) Ha a kihelyezett hozzátartozója egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a hozzátartozója alapján őt megillető 24. § (7) bekezdése szerinti juttatásra nem jogosult.
+(15) Ha a kihelyezett házastársa egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a hozzátartozója alapján őt megillető 24. § (7) bekezdése szerinti juttatásra nem jogosult.
 
 (16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés szerinti hozzátartozóját a kihelyező okiratból törölni kell.
 
@@ -68,14 +68,16 @@ illeti meg.
 
 (18) Ha a kihelyezett a tartós külszolgálata megszűnése vagy megszüntetése esetén az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést a tartós külszolgálata megszűnését vagy megszüntetését megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
 
-(19) Ha a kihelyezési okiraton szereplő hozzátartozó az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést, ahol lakhatási célból tartózkodik a tartós külszolgálat befejező időpontja előtt elhagyta, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozó a kihelyezett ideiglenes berendelése alatt hagyta el az állomáshelyet és a tartós külszolgálat megszűnése vagy megszüntetése előtt az állomáshelyre nem tér vissza, a kihelyezett a tartós külszolgálata megszűnésének vagy megszüntetésének napjáig jogosult a hozzátartozó utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozójával együtt hagyja el, de a hozzátartozó nem tér vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részéről befejeződött, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
+(19) Ha a kihelyezési okiraton szereplő hozzátartozó az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést, ahol lakhatási célból tartózkodik a tartós külszolgálat befejező időpontja előtt elhagyta, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozó a kihelyezett ideiglenes hazarendelése alatt hagyta el az állomáshelyet és a tartós külszolgálat megszűnése vagy megszüntetése előtt az állomáshelyre nem tér vissza, a kihelyezett a tartós külszolgálata megszűnésének vagy megszüntetésének napjáig jogosult a hozzátartozó utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozójával együtt hagyja el, de a hozzátartozó nem tér vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részéről befejeződött, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
 
 (20) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter döntése alapján a kihelyező szerv az intézetigazgató részére lakhatási költségtérítést biztosíthat.
 
-(21) A külpolitikáért felelős miniszter által vezetett minisztérium mint kihelyező szerv a kihelyezett, a külképviselet által foglalkoztatott házastárs, valamint az 57/B. § szerinti vendégoktatói ösztöndíjprogramban részt vevő vendégoktató számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben állapítja meg.
+(21) A külpolitikáért felelős miniszter által vezetett minisztérium mint kihelyező szerv a kihelyezett, a külképviselet által foglalkoztatott házastárs, valamint az 57/B. § szerinti vendégoktatói ösztöndíjprogramban részt vevő vendégoktató számára az euró- vagy dollárárfolyam-változás hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter utasításban állapítja meg.
 
 (22) A honvédelemért felelős miniszter a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselők számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat.
 
-(23) A (22) bekezdés szerinti árfolyam-kompenzációt az érintett kormánytisztviselők részére a honvédelemért felelős miniszter – a (21) bekezdés szerinti miniszteri rendeletben foglaltaknak megfelelően – saját hatáskörében állapítja meg.
+(23) A (22) bekezdés szerinti árfolyam-kompenzációt az érintett kormánytisztviselők részére a honvédelemért felelős miniszter – a (21) bekezdés szerinti miniszteri utasításban foglaltakra figyelemmel – saját hatáskörében állapítja meg.
 
 (24) A jogalap nélkül kifizetett, a 23. § (1) bekezdése szerinti devizailletmény vagy átalány-költségtérítés visszakövetelésére a kormányzati igazgatásról szóló törvénynek a jogalap nélkül kifizetett illetmény visszakövetelésére vonatkozó szabályai alkalmazandóak.
+
+(25) A tartós külszolgálatra kihelyezett lakhatásával, az állomáshelyen történő lakhatás feltételeivel, a szolgálati lakás használatával, a lakhatási költségtérítés felhasználásával, valamint a kihelyezett által történő lakásbérléssel kapcsolatos szabályokat a kihelyező vezető belső szabályzatban határozza meg.

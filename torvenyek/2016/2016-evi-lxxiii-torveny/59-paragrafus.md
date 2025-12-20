@@ -6,7 +6,7 @@ a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújt
 
 b) a tartós külszolgálathoz kapcsolódó felkészítés, illetve a külpolitikáért felelős miniszter által vezetett minisztériummal kormányzati vagy politikai szolgálati jogviszonyban álló foglalkoztatottra vonatkozó fegyelmi eljárás általánostól eltérő részletszabályai, valamint
 
-c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
+c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak, valamint a diplomáciai protokoll feladatellátás egyes pénzügyi rendelkezéseinek az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 
 d) az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatok ellátásának
 
@@ -28,9 +28,9 @@ c) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 d) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
-e) a külképviseletek külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+e)
 
-f) az egyes külképviseletekhez tartozó költségtérítés-szorzók,
+f)
 
 g) a külképviselet által foglalkoztatott munkavállaló foglalkoztatásának,
 
@@ -40,11 +40,11 @@ i) a biztonsági szolgálat,
 
 j) a pályáztatás,
 
-k) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az egyes állomáshelyekre vonatkozó, az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével, állomáshelyenként megállapított deviza-alapilletmények,
+k)
 
 l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
-m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának, folyósításának, törlesztésének,
+m) a kihelyezett és a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a kormányzati igazgatásról szóló törvény, illetve annak végrehajtási rendelete szerinti európai uniós vagy nemzetközi szervezetnél foglalkoztatott nemzeti szakértő részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának, folyósításának, törlesztésének,
 
 n) kizárólag gépkocsivásárlás céljára nyújtható kölcsönnek és nyújtásának, folyósításának, törlesztésének,
 
@@ -56,7 +56,7 @@ q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat ált
 
 r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének, valamint
 
-s) az árfolyam-kompenzáció feltételeinek és mértékének
+s)
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -66,25 +66,25 @@ a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
-c) az EU ÁK külpolitikai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+c)
 
-d) a költségtérítés-szorzók,
+d)
 
 e) a pályáztatás,
 
-f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
+f)
 
 g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
 h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
 
-i) az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó, valamint
+i)
 
 j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
-k) a költözési költségtérítés,
+k)
 
-l) az árfolyam-kompenzáció feltételeinek és mértékének
+l)
 
 m) az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumnál működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
 

@@ -1,4 +1,4 @@
-50. § (1) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai, vagy európai uniós szakmai tapasztalattal rendelkező diplomatája és szakdiplomatája részére a 23–24. § szerinti deviza-illetmény helyett, a 23–24. § szerinti számított deviza-illetménynél magasabb összegű deviza személyi illetményt állapíthat meg.
+50. § (1) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai, vagy európai uniós szakmai tapasztalattal rendelkező kihelyezettje részére a 23–24. § szerinti deviza-illetmény helyett, a 23–24. § szerinti számított deviza-illetménynél magasabb összegű deviza személyi illetményt állapíthat meg.
 
 (2) A deviza személyi illetmény határozott időre, legfeljebb egy naptári évre kerül megállapításra, amely a határozott idő letelte előtt is visszavonható, illetve a határozott idő letelte után ismét megállapítható.
 

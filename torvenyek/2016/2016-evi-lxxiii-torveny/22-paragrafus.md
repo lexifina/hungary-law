@@ -46,7 +46,7 @@ b) a hazautazással kapcsolatos kötelezettségeket.
 
 a) munkakörének megváltoztatását a kihelyezett által benyújtott pályázat alapján meghozott vagy kijelölési döntés indokolja,
 
-b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
+b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá, vagy e jogosultság megszűnik,
 
 c) rangemelésben részesül,
 

@@ -1,0 +1,1 @@
+58/P. § E törvénynek a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosításáról szóló 2025. évi CX. törvénnyel (a továbbiakban: Módtv11.) megállapított rendelkezéseit a Módtv11. hatálybalépését megelőzően létrejött és folyamatban lévő jogviszonyokra, kérelmekre és ügyekre is alkalmazni kell.

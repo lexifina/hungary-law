@@ -32,7 +32,7 @@ l) idegennyelv-ismerete.
 
 3. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő, valamint házas- és élettársának a fogadó államban nevelési-oktatási intézménybe járó gyermeke nevelési-oktatási intézményének neve, székhelye, telefonos elérhetősége.
 
-4. A kihelyezésre kerülő, külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő
+4. A kihelyezésre kerülő, valamint külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő
 
 a) családi és utóneve (születési családi és utóneve), neme;
 
