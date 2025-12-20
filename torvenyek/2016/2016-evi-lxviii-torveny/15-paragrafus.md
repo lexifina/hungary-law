@@ -38,6 +38,6 @@ c) az engedélyes jövedéki terméket nem állíthat elő, nem használhat fel,
 
 (9) A (3) bekezdéstől eltérően közteher nem teljesítése, továbbá köztartozás megállapítása esetén az állami adó- és vámhatóság abban az esetben vonja vissza az engedélyt, ha az engedélyes
 
-a) bármely adónemben fennálló közteherfizetési kötelezettségét vagy tartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az engedélyes az engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy arra részletfizetést vagy fizetési halasztást engedélyeztek, vagy
+a) bármely adónemben fennálló közteherfizetési kötelezettségét vagy tartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az engedélyes az állami adó- és vámhatóság – kötelezettség teljesítésére felszólító – végzésében meghatározott határidőn belül a kötelezettségét megfizette, vagy arra részletfizetést vagy fizetési halasztást engedélyeztek, vagy
 
 b) terhére a vizsgált időszakra vonatkozó közteherfizetési kötelezettség 10 százalékát meghaladó köztartozást véglegessé vált döntésben állapít meg és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. kizárja.

@@ -1,6 +1,6 @@
 ## 65. Csomagküldemények ellenőrzése
 
-98. § (1) Az állami adó- és vámhatóság legalább két tagjából álló bizottság az adófizetési kötelezettség teljesítésének ellenőrzése érdekében a csomagküldeményeket felbontás nélkül megvizsgálhatja.
+98. § (1) A postai szolgáltatásokról szóló törvényben meghatározott postai szolgáltató vagy postai közreműködő által szállított vagy kezelt postacsomagot (e § alkalmazásában a továbbiakban: csomagküldemény) az állami adó- és vámhatóság legalább két tagjából álló bizottság az adófizetési kötelezettség teljesítésének ellenőrzése érdekében felbontás nélkül megvizsgálhatja.
 
 (2) Ha a vizsgálat alapján valószínűsíthető, hogy a csomagküldemény adózatlan jövedéki terméket tartalmaz, az állami adó- és vámhatóság a csomagküldeményt felbontás céljából visszatartja. Az állami adó- és vámhatóság a visszatartásról végzéssel dönt, amelyet külföldön feladott csomagküldemény esetén a címzettként megjelölt személynek, belföldön feladott csomagküldemény esetén a feladóként megjelölt személynek, ha pedig ő nem ismert, a címzettként megjelölt személynek küld meg, tájékoztatva a felbontás helyszínéről. Az állami adó- és vámhatóság legalább két tagjából álló bizottság a felbontást az értesített személy jelenlétében végzi el. Ha a visszatartásról értesített személy az értesítés közlésétől számított 30 napon belül vagy általa kért póthatáridő esetén 60 napon belül nem jelenik meg a felbontás helyszínén, az állami adó- és vámhatóság a csomagküldeményt nélküle bontja fel, és a felbontásról készített jegyzőkönyvet az értesített személlyel közli.
 
@@ -9,3 +9,7 @@
 (4) Ha a felbontott csomagküldemény adózatlan jövedéki terméket nem vagy csak részben tartalmaz, az állami adó- és vámhatóság a csomagküldeményt vagy az abban található, adózatlan jövedéki termékeken kívüli dolgokat visszacsomagolja és a felbontásról készített jegyzőkönyvvel együtt az értesített személy részére átadja, eljuttatja.
 
 (5) A csomagküldemény elvesztéséből, megsérüléséből, késedelmes kézbesítéséből keletkezett kár megtérítésére a postai szolgáltatásokról szóló törvény és a futár- vagy csomagszállítást végző szolgáltatóval kötött szerződés irányadó azzal az eltéréssel, hogy az abban meghatározott kártérítési felelősség az adózatlan jövedéki terméket nem tartalmazó csomagküldemény esetében az állami adó- és vámhatóságot terheli, ha a bekövetkezett kár bizonyíthatóan a állami adó- és vámhatósági ellenőrzés vagy intézkedés folytán keletkezett.
+
+(6) A postai szolgáltatásokról szóló törvényben meghatározott postai szolgáltató vagy postai közreműködő terhére a tevékenységi körében nyújtott szolgáltatás során talált adózatlan jövedéki termék után jogkövetkezmény nem állapítható meg, ha kétséget kizáróan igazolja, hogy a vonatkozó jogszabályi előírásoknak és az üzleti szabályzatában foglaltaknak megfelelően járt el.
+
+(7) Ha a felbontott vagy sérült csomagküldemény adózatlan jövedéki terméket tartalmaz és bizonyított, hogy a jövedéki terméket a címzett rendelte, a címzett birtokosi minőségét vélelmezni kell.
