@@ -24,6 +24,6 @@
 
 | 12. | Vevői alkalmazás | érvényes forgalmazási engedély módosítása | – | 250 000 Ft |
 
-7. melléklet a 8/2025. (III. 31.) NGM rendelethez[^2]
+7. melléklet a 8/2025. (III. 31.) NGM rendelethez[^23]
 
-[^2]: A 7. melléklet az 57. § (3) bekezdése alapján 2028. július 1-jén lép hatályba.
+[^23]: A 7. melléklet az 57. § (3) bekezdése alapján 2028. július 1-jén lép hatályba.

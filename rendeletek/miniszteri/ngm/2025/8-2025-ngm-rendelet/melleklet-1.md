@@ -90,7 +90,11 @@
 
 2.3. az adóügyi egység gyártójának nyilatkozata arról, hogy az adóügyi egység megfelel az e rendeletben előírt feltételeknek,
 
-2.4. az adóügyi egység gyártója által a forgalmazó részére kiadott igazolás, hogy rendelkezik az adóügyi egység szervizelését végző székhellyel, telephellyel vagy fiókteleppel és ezek adatai,
+2.4.[^11] az adóügyi egység gyártója által a forgalmazó részére kiállított igazolás arról, hogy
+
+2.4.1. rendelkezik az adóügyi egység szervizelését végző székhellyel, telephellyel vagy fiókteleppel és ezek adatai,
+
+2.4.2. rendelkezik az IoT-eszközök nemzeti kiberbiztonsági tanúsítási rendszeréről szóló SZTFH rendelet szerint legalább „alap” megbízhatósági szinten kiállított nemzeti kiberbiztonsági tanúsítvánnyal, amely igazolás tartalmazza a nemzeti kiberbiztonsági tanúsítvány SZTFH rendelet szerinti nyilvántartásba vételének dátumát és nyilvántartási számát,
 
 2.5. egy darab adóügyi egység,
 
@@ -126,7 +130,7 @@
 
 3.2. független könyvvizsgáló által minősített üzleti terv,
 
-3.3. a forgalmazó nyilatkozata arról, hogy az üzemeltető részére biztosítja, hogy az általa forgalmazott e-pénztárgép üzemeltetési ideje alatt az általa az üzemeltető részére nyújtott szolgáltatások és termékek a jogszabályi és kiberbiztonsági előírásoknak megfelelnek,
+3.3.[^12] a forgalmazó nyilatkozata arról, hogy az üzemeltető részére biztosítja, hogy az általa forgalmazott e-pénztárgép üzemeltetési ideje alatt az általa az üzemeltető részére nyújtott szolgáltatások és termékek a jogszabályi előírásoknak megfelelnek,
 
 3.4. az engedélyezendő szoftver forráskódját (projektjét), olyan módon, amely fordítható egy kialakított fejlesztői környezetben,
 
@@ -143,6 +147,8 @@
 3.10. az engedélyezéshez benyújtott szoftver SHA-256 algoritmussal készített HASH lenyomatának értékét,
 
 3.11. adatbiztonságot bemutató és alátámasztó leírást, ami tanúsítja, hogy a forgalmazó olyan technikai megoldást alakított ki az e-pénztárgépek működésére, ami biztosítja, hogy nem képes megismerni az e-pénztárgéppel kiállított bizonylatok adóügyi adatait.
+
+3.12.[^13] a kiberbiztonsági audit lefolytatásának rendjéről és a kiberbiztonsági audit legmagasabb díjáról szóló SZTFH rendelet szerinti auditigazolás, ami tanúsítja, hogy a forgalmazó rendelkezik a Magyarország kiberbiztonságáról szóló törvény szerint, a Szabályozott Tevékenységek Felügyeleti Hatósága által „jelentős” vagy „magas” biztonsági osztályra nyilvántartásba vett auditor által lefolytatott kiberbiztonsági audittal, amely alapján a szervezet ellenálló-képességi indexe legalább „auditált” értékelésű.
 
 4. Vevői alkalmazás forgalmazásának engedélyezése iránti kérelem tartalma:
 
@@ -169,3 +175,7 @@
 5. Az 1–4. pontban meghatározott valamennyi iratot magyar nyelven, valamint – az igazolások és nyilatkozatok kivételével – elektronikusan szövegszerűen kereshető, nem képi formátumban (Portable Document Format) kell benyújtani.
 
 6. Ha az 1–4. pontban meghatározott iratok, információk közül valamelyik azért nem áll rendelkezésre, mert az engedélyeztetni kívánt e-pénztárgép vagy vevői alkalmazás tekintetében annak megléte nem értelmezhető, akkor azt a kérelemben nem kell szerepeltetni.
+
+[^11]: Az 1. melléklet 2. pont 2.4. alpontja a 39/2025. (XII. 19.) NGM rendelet 3. § a) pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 3. pont 3.3. alpontja a 39/2025. (XII. 19.) NGM rendelet 5. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet 3. pont 3.12. alpontját a 39/2025. (XII. 19.) NGM rendelet 3. § a) pontja iktatta be.

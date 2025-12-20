@@ -54,4 +54,6 @@ Vevői alkalmazásra vonatkozó követelmények
 
 7. A vevői alkalmazás rendelkezik helyreállítási funkcióval, képes ennek alkalmazása során a kulcs- és lenyomattárral a Fejlesztői Dokumentációban szereplő módon együttműködni.
 
-8. A vevői alkalmazásnak meg kell felelnie az engedélyezéskor érvényben lévő Digitális Állampolgárság Program előírásainak.
+8.[^22] A vevői alkalmazásnak meg kell felelnie az engedélyezéskor érvényben lévő Digitális Állampolgárság Program előírásainak a Fejlesztői Dokumentációban foglaltak szerint.
+
+[^22]: Az 5. melléklet 8. pontja a 39/2025. (XII. 19.) NGM rendelet 3. § d) pontjával megállapított szöveg.

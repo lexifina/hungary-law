@@ -64,6 +64,8 @@
 
 ## 7. A speciális e-pénztárgépek bizonylati sajátosságainak ellenőrzése.
 
+## 8.[^21] A kiegészítő információs elem létrehozhatóságának vizsgálata.
+
 ## III. Az adóügyi egységre vonatkozó követelmények vizsgálata hardveralapú e-pénztárgép esetén
 
 ## 1. A bizonylatok és adatszolgáltatási állományok kiolvasására szolgáló csatlakozó meglétének és megfelelő átviteli sebességének ellenőrzése.
@@ -153,3 +155,5 @@
 4. melléklet a 8/2025. (III. 31.) NGM rendelethez
 
 Az e-pénztárgéppel kiállítható bizonylatok listája
+
+[^21]: A 3. melléklet A) Az e-pénztárgép típusvizsgálatának részei alcím II. Az egyes bizonylatok vizsgálata pont 8. alpontját a 39/2025. (XII. 19.) NGM rendelet 3. § c) pontja iktatta be.

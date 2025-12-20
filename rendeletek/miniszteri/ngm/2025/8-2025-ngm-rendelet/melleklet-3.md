@@ -88,7 +88,9 @@
 
 ## 14.16. kezelő tájékoztatására szolgáló üzenet fogadására és megjelenítésére.
 
-## 15. Az adott e-pénztárgép azonosságának adóhatósági vizsgálatához biztosítani szükséges egy kezelői funkciót, amely egy bevitt, legfeljebb ezer karakter hosszúságú karaktersorozatot digitális aláírással lát el az adott e-pénztárgép aláíró kulcsának használatával, és az eredményt QR-kódban a képernyőn megjeleníti.
+## 14.17.[^14] a bizonylat tételeihez és a bizonylathoz kapcsolódó kiegészítő információs elemek beillesztésére a Fejlesztői Dokumentáció szerint.
+
+## 15.[^15] Az adott e-pénztárgép azonosságának adóhatósági vizsgálatához biztosítani szükséges egy kezelői funkciót, amely a Fejlesztői Dokumentációban meghatározott módon előállított adatsorozatot digitális aláírással lát el az adott e-pénztárgép aláíró kulcsának használatával és az eredményt QR-kódban a képernyőn megjeleníti.
 
 ## 16. A hardveralapú e-pénztárgép alkalmas offline működésre, a felhőalapú e-pénztárgép nem alkalmas offline működésre.
 
@@ -192,7 +194,11 @@
 
 ## e) hiba esetén villogó piros jelzőfényt.
 
-## 13. Felhőalapú e-pénztárgépen a 12. pont szerinti eseteknek megfelelő, folyamatos vizuális visszajelzést kell adni a kezelő számára.
+## 13.[^16] Felhőalapú e-pénztárgépen folyamatos vizuális visszajelzést kell adni a kezelő számára és láthatóvá tenni
+
+## a) folyamatosan világító zöld jelzőfényt, ha a legutóbbi FAM-mal való adatkapcsolat sikeres volt,
+
+## b) villogó piros jelzőfényt, ha a legutóbbi FAM-mal való adatkapcsolat sikertelen volt.
 
 ## I. A forgalmi gyűjtők, számlálók
 
@@ -662,7 +668,7 @@
 
 ## 14. Az adóügyi egység képes adatkapcsolat létesítésére legalább három magyarországi elektronikus hírközlési szolgáltató mobil földfelszíni hálózatán, és az így létrejött adatkapcsolat használatával a kiállított bizonylatok továbbítására és az előírt adatszolgáltatások végrehajtására a Fejlesztői Dokumentációban foglaltak szerint.
 
-## 15. Az adóügyi egység egy, a gyártó által beépített és kizárólagosan a NAV-I kommunikációra, valamint a forgalmazó által nyújtott üzleti szolgáltatások gépi interfészével létesített adatkapcsolat biztosítására alkalmas, áramkörbe eltávolíthatatlanul integrált SIM-modult (MIM, SIM-chip) tartalmaz.
+## 15.[^17] Az adóügyi egység egy, a gyártó által beépített, és kizárólagosan a NAV-I kommunikációra, valamint a forgalmazó által nyújtott, Fejlesztői Dokumentációban meghatározott üzleti szolgáltatások gépi interfészével létesített adatkapcsolat biztosítására alkalmas, áramkörbe eltávolíthatatlanul integrált SIM-modult (MIM, SIM-chip) tartalmaz.
 
 ## 16. Az adóügyi egység alkalmas lehet külső antenna csatlakoztatására. Az antennacsatlakozót az e-pénztárgép külső burkolatára kell elhelyezni.
 
@@ -676,7 +682,7 @@
 
 ## 21. Az adóügyi egység a NAV-I-val titkosított kapcsolatot alakít ki, amelynek felépítéséhez szükséges tanúsítvány tárolását, a kapcsolathoz szükséges információk generálását az adóügyi egységbe épített biztonsági hardvermegoldás biztosítja (Trusted Platform Modul vagy azzal egyező kriptográfiai funkciókat támogató hardverelem). A tanúsítványt az adóügyi egység gyártó kezdeményezésére az állami adó- és vámhatóság bocsátja ki. A tanúsítvány-kiállítási kérelem adattartalmára vonatkozó megkötéseket, valamint a titkosított kapcsolat kialakításához szükséges tanúsítvány kiállításának rendjét az állami adó- és vámhatóság hivatalos holnapján, közleményben teszi közzé. Az adóügyi egység és a NAV-I közötti titkosított kapcsolathoz és az adóügyi egység aláíró funkciójához szükséges kulcskezelő és nyilvántartó rendszert az állami adó- és vámhatóság biztosítja. Az adóügyi egységnek képesnek kell lennie ezzel a rendszerrel együttműködni.
 
-## 22. Az adóügyi egység képes legalább három magyarországi elektronikus hírközlési szolgáltató mobil földfelszíni hálózatára felkapcsolódni. Az adóügyi egység biztosítja, hogy a szolgáltató keresést az e-pénztárgép igény szerint bármikor kezdeményezhesse. Az adóügyi egység akkor válasszon másik hálózati szolgáltatót, ha az aktuálisan használt hálózati szolgáltató nincs adatátvitelre alkalmas állapotban.
+## 22.[^18] Az adóügyi egység képes legalább három magyarországi elektronikus hírközlési szolgáltató mobil földfelszíni hálózatára felkapcsolódni. Az adóügyi egység biztosítja, hogy a szolgáltató keresést az e-pénztárgép igény szerint bármikor kezdeményezhesse és a preferált szolgáltatót részesítse előnyben. Az adóügyi egység akkor válasszon másik hálózati szolgáltatót, ha a preferált hálózati szolgáltató nincs adatátvitelre alkalmas állapotban.
 
 ## 23. Az adóügyi egységnek nincs nyilvános hálózaton való azonosítást lehetővé tevő IP-címe. Az adóügyi egység nem folytathat kommunikációt más adóügyi egységekkel. Az adóügyi egység képes
 
@@ -712,7 +718,7 @@
 
 ## c) az adóügyi egység minimum vételi teljesítményszintje –102dBm, a készülék bemeneti kapcsaira vonatkoztatva, valamint a szükséges C/I (jel/interferencia viszony) 10dB.
 
-## 29. Az adóügyi egységben működő szoftver működésének helyességét és a rejtett funkcióktól való mentességét három független, „ISTQB Certified Tester Foundation Level” minősítésű szakértővel rendelkező szervezet által kiállított tanúsítvánnyal szükséges alátámasztani, amelyben a kiállítók nyilatkoznak arról, hogy
+## 29.[^19] Az adóügyi egységben működő szoftver működésének helyességét és a rejtett funkcióktól való mentességét a Szabályozott Tevékenységek Felügyeleti Hatósága által nyilvántartásba vett megfelelőségértékelő szervezet által kiállított igazolással szükséges alátámasztani, amelyben a kiállító nyilatkozik arról, hogy
 
 ## a) a szoftver egészén (minden egyes komponensén, ideértve különösen az esetleges operációs rendszert, fordító környezetet, gyártók által szállított meghajtókat, firmware-eket megbízhatósági vizsgálatot végeztek, amely kiterjedt a felhasznált (más gyártók által vagy közösség által fejlesztett) rendszerek eredetének vizsgálatára,
 
@@ -748,7 +754,7 @@
 
 ## 4. Az egyes bizonylatokon és adatszolgáltatásokon a felhőalapú adóügyi modul által szolgáltatott dátumot és időt kell szerepeltetni.
 
-## 5. Az alkalmazás működésének helyességét és rejtett funkcióktól való mentességét három független, „ISTQB Certified Tester Foundation Level” minősítésű szakértővel rendelkező szervezet által kiállított tanúsítvánnyal szükséges alátámasztani, amelyben a kiállítók nyilatkoznak arról, hogy
+## 5.[^20] Az alkalmazás működésének helyességét és rejtett funkcióktól való mentességét a Szabályozott Tevékenységek Felügyeleti Hatósága által nyilvántartásba vett megfelelőségértékelő szervezet által kiállított tanúsítvánnyal szükséges alátámasztani, amelyben a kiállító nyilatkozik arról, hogy
 
 ## a) az alkalmazás egészén megbízhatósági vizsgálatot végeztek, amely kiterjedt a felhasznált (más gyártók által vagy közösség által fejlesztett) komponensek eredetének vizsgálatára,
 
@@ -799,3 +805,11 @@
 3. melléklet a 8/2025. (III. 31.) NGM rendelethez
 
 A) Az e-pénztárgép típusvizsgálatának részei
+
+[^14]: A 2. melléklet A) Az e-pénztárgépek kötelező funkciói alcím 14. pont 14.17. alpontját a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontja iktatta be.
+[^15]: A 2. melléklet A) Az e-pénztárgépek kötelező funkciói alcím 15. pontja a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontjával megállapított szöveg.
+[^16]: A 2. melléklet B) Hardveralapú és felhőalapú e-pénztárgépekre egyaránt vonatkozó műszaki követelmények alcím 13. pontja a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontjával megállapított szöveg.
+[^17]: A 2. melléklet D) Hardveralapú e-pénztárgépekre vonatkozó műszaki követelmények alcím III. A hardveralapú e-pénztárgépek adóügyi egységére vonatkozó követelmények pont 15. alpontja a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontjával megállapított szöveg.
+[^18]: A 2. melléklet D) Hardveralapú e-pénztárgépekre vonatkozó műszaki követelmények alcím III. A hardveralapú e-pénztárgépek adóügyi egységére vonatkozó követelmények pont 22. alpontja a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontjával megállapított szöveg.
+[^19]: A 2. melléklet D) Hardveralapú e-pénztárgépekre vonatkozó műszaki követelmények alcím III. A hardveralapú e-pénztárgépek adóügyi egységére vonatkozó követelmények pont 29. alpontja a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontjával megállapított szöveg.
+[^20]: A 2. melléklet E) Felhőalapú e-pénztárgépekre vonatkozó műszaki követelmények alcím 5. pontja a 39/2025. (XII. 19.) NGM rendelet 3. § b) pontjával megállapított szöveg.
