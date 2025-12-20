@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanács Számítástechnikai Bűnözésről szóló Egyezményéhez csatolt, a megerősített együttműködésről és az elektronikus bizonyítékok átadásáról szóló második kiegészítő jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
