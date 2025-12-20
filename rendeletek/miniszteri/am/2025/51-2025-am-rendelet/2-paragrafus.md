@@ -1,3 +1,3 @@
-2. § Az R. 3. §-a a következő 22. ponttal egészül ki:
+2. §[^3]
 
-(Ez a rendelet)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
