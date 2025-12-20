@@ -4,7 +4,7 @@
 
 | 2. | növendék csirke, szabadtartásos csirke és gyöngyös | I. negyedév | 1 350,00 | 1 350,00 | 1 250,00 | 1 150,00 | 1 150,00 | 1 150,00 | 1150,00 |
 
-| 3. | növendék csirke, szabadtartásos csirke és gyöngyös | II. negyedév | 1 350,00 | 1 408,00 | 1 150,00 | 1 150,00 | 1 150,00 | 1 150,00 | 1150,00 |
+| 3. | növendék csirke, szabadtartásos csirke és gyöngyös | II. negyedév | 1 350,00 | 1 408,00 | 1 150,00 | 1 150,00 | 1 150,0 | 1 150,00 | 1536,00 |
 
 | 4. | növendék csirke, szabadtartásos csirke és gyöngyös | III. negyedév | 1 350,00 | 1 350,00 | 1 200,00 | 1 200,00 | 1 200,00 | 1 200,00 | 1200,00 |
 
@@ -20,7 +20,7 @@
 
 | 10. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | I. negyedév | 1 700,00 | 630,00 | 1608,00 | 600,00 | 600,00 | 1336,9 | 600,00 |
 
-| 11. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | II. negyedév | 1 750,00 | 850,00 | 1562,00 | 670,00 | 670,00 | 1397,10 | 670,00 |
+| 11. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | II. negyedév | 1 750,00 | 850,00 | 1562,00 | 670,00 | 670,00 | 1397,10 | 1170,00 |
 
 | 12. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | III. negyedév | 853,91 | 500 | 500,00 | 500,00 | 500,00 | 500,00 | 500,00 |
 

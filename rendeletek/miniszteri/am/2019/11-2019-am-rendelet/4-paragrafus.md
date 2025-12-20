@@ -26,7 +26,7 @@ d) átminősített előnevelt (növendék) pulykára, valamint
 
 e) levágott összes baromfifélére
 
-a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/2021. támogatási évben legfeljebb 11,408 milliárd forint, a 2021/2022. támogatási évben legfeljebb 12,000 millió forint, a 2022/2023. támogatási évben legfeljebb 10,000 milliárd forint, a 2023/2024. támogatási évben legfeljebb 10,000 milliárd forint, a 2024/2025. támogatási évben legfeljebb 11,464 milliárd forint, a 2025/2026. támogatási évben legfeljebb 10,000 milliárd forint összegig állapítható meg támogatás, amely a 2. mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és tárgynegyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
+a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/2021. támogatási évben legfeljebb 11,408 milliárd forint, a 2021/2022. támogatási évben legfeljebb 12,000 millió forint, a 2022/2023. támogatási évben legfeljebb 10,000 milliárd forint, a 2023/2024. támogatási évben legfeljebb 10,000 milliárd forint, a 2024/2025. támogatási évben legfeljebb 11,464 milliárd forint, a 2025/2026. támogatási évben legfeljebb 10,886 milliárd forint összegig állapítható meg támogatás, amely a 2. mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és tárgynegyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
 
 (2) A Magyar Államkincstár (a továbbiakban: Kincstár) a 6. § szerint benyújtott és az ellenőrzést követően jóváhagyott kifizetési kérelmeket negyedévente összesíti, és az adott tárgynegyedévre vonatkozóan megállapítja a kérelmenként járó jogos támogatás összegét.
 
@@ -42,4 +42,4 @@ a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/20
 
 (8) A Tv. 45/B. §-a szerinti kötelezettség-átadásra jelen intézkedés vonatkozásában nincs lehetőség.
 
-[^5]: A 4. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 44. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 7/2025. (IV. 10.) AM rendelet 44. §-ával megállapított, záró szövegrésze az 53/2025. (XII. 19.) AM rendelet 8. §-a szerint módosított szöveg.
