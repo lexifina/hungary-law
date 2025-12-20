@@ -30,6 +30,8 @@ dc) a hitelszerződéshez kapcsolódó intézményi kezességvállalás esetén 
 
 dd) a kezességi díj támogatás támogatástartalom-igazolás másolatát;
 
+de)[^4] a 2. § (2) bekezdés c) pontjában foglalt támogatás igénylése esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal által üzemeltetett, ügyfélkapun keresztül elérhető webENAR felületen közzétett és onnan letölthető, a vállalkozás saját tenyészetére vonatkozó – a 3. melléklet szerinti számítási módszertan alapján meghatározott, átlagos állategységben kifejezett sertésállományról szóló – dokumentum nyomtatott és a vállalkozás által aláírt példányát,
+
 e) meghatalmazza a pénzügyi intézményt, hogy a kamattámogatás támogatástartalmának zárolása, lekötése – szükség esetén – felszabadítása érdekében, továbbá a megelőlegezett kamattámogatás lehívásával kapcsolatban a Kincstár előtt eljárjon.
 
 (2) A vállalkozás részére azon hitelszerződéshez nyújtható kamattámogatás, amelynél a pénzügyi intézmény
@@ -45,3 +47,5 @@ d) a b) pont szerint kiszámított támogatástartalmat a c) pontban meghatároz
 (3) A Kincstár a pénzügyi intézmény (2) bekezdés a) pontja szerinti megkeresésének beérkezését követő öt napon belül köteles tájékoztatást adni a rendelkezésre álló csekély összegű támogatási keretről, amely keret a 37/2011. (III. 22.) Korm. rendelet 11. § (8) bekezdés a) pontjában előírt összeszámítási szabályok figyelembevétele nélkül kerül megállapításra, továbbá az eljárás során a Kincstár a tagállami keretösszeg kihasználtságának rendelkezésre állását is ellenőrzi.
 
 (4) A kamattámogatási kérelem támogatástartalmáról történő döntésnél, a rendelkezésre álló szabad csekély összegű keret meghatározásánál figyelembe kell venni a hitel kedvezményes kamatából, a kezességvállaló intézmény által kedvezményes kezességvállalási díj mellett nyújtott kezességből és a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatástartalmat.
+
+[^4]: A 4. § (1) bekezdés d) pont de) alpontját az 53/2025. (XII. 19.) AM rendelet 12. §-a iktatta be.

@@ -15,3 +15,7 @@
 1. pénzügyi intézmény: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) honlapján közzétett, az MFB Agrár Forgóeszköz Hitelprogram 2025-höz (a továbbiakban: hitelprogram) csatlakozott hitelintézet, valamint az MFB Zrt.;
 
 2. támogatástartalom: a vállalkozás számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke.
+
+3.[^1] sertés: az ex 0103921900 vámtarifaszámú, legalább 70 kg élősúlyú vágósertés vagy az élelmiszerlánc-felügyeleti információs rendszer szerinti tenyészsertés.
+
+[^1]: Az 1. § 3. pontját az 53/2025. (XII. 19.) AM rendelet 10. §-a iktatta be.
