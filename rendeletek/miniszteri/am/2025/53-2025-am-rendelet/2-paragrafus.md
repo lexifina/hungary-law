@@ -1,0 +1,1 @@
+2. § Hatályát veszti a 148/2007. (XII. 8.) FVM rendelet 7. § (2i) bekezdésében az „A C001 technikai kódú állat-egészségügyi szolgáltatásokra rendelkezésre álló támogatási keret kimerülése esetén a baromfi-, az egyéb állattenyésztési ágazatra vagy a vemhes üszőkre megállapított szabad támogatási keret terhére támogatási összeg nem csoportosítható át.” szövegrész.
