@@ -1,32 +1,11 @@
 ## 6. Jelentéstétel és adatszolgáltatás
 
-7. § (1)[^2] A miniszter az ITS-alkalmazást alkalmazó vagy alkalmazni tervező szervezetek, gazdasági társaságok közreműködésével ötévente elkészíti a következő ötéves időszakra szóló nemzeti ITS-intézkedésekre vonatkozó terveket. Az ITS-intézkedésekre vonatkozó terveket a miniszter az Európai Bizottság részére megküldi.
+7. § (1)[^9] A miniszter az ITS-alkalmazást alkalmazó vagy alkalmazni tervező szervezetek, gazdasági társaságok közreműködésével ötévente elkészíti a következő ötéves időszakra szóló nemzeti ITS-intézkedésekre vonatkozó terveket. Az ITS-intézkedésekre vonatkozó terveket a miniszter az Európai Bizottság részére megküldi.
 
-(2)[^3] Az ITS bevezetésében elért haladásról a miniszter az Európai Bizottság aktuális iránymutatásainak figyelembevételével háromévente jelentést készít (a továbbiakban: ITS-jelentés), amelynek tartalmaznia kell az ITS-szolgáltatások kiépítésében történt előrelépést bemutató jelentést, beleértve
+(2)[^10] A miniszter háromévente jelentést készít az (EU) 2023/2661 európai parlamenti és tanácsi irányelvhez kapcsolódóan megtett intézkedésekről, a kiemelt területekkel kapcsolatos fő nemzeti tevékenységekről és projektekről, továbbá a 3. és 4. mellékletben meghatározott adatok és szolgáltatások rendelkezésre állásáról.
 
-a) helyzetjelentést az aktuális nemzeti, nemzetközi és határokon átnyúló fejlesztésekről és kutatási eredményekről;
+(3)[^11] A városi csomópontok központjában lévő városokban a földrajzi lefedettség azokra az utcákra korlátozható, ahol az éves átlagos napi forgalom több mint 7 000 jármű. A korlátozás bevezetése esetében a miniszter a 3. melléklet 1. pontjában foglalt táblázat 2., 3., 6., 8. és 9. sorában meghatározott adatok tekintetében 2026. december 31-ig, a 3. melléklet 1. pontjában foglalt táblázat 7. sorában meghatározott adatok vonatkozásában 2028. december 31-ig értesíti a Bizottságot.
 
-b) áttekintő kimutatást az ITS-alkalmazások eredményességéről és bevezetésük mértékéről;
-
-c) piaci kimutatásokat a bevezetésre alkalmas ITS-szolgáltatásokról;
-
-d) kimutatásokat a szükséges és a felhasznált pénzügyi forrásokról, ideértve az ITS üzemeltetési költségeit is;
-
-e) az aktuális problémák és a problémás területek bemutatását;
-
-f) rövid összefoglalót az adatvédelemmel és a felelősséggel kapcsolatos aktuális kérdésekről;
-
-g) a megelőző évben a kiemelt területeken megvalósított intézkedések és projektek leírását és értékelését;
-
-h) az a)–g) pontok alapján szükséges intézkedések felsorolását;
-
-i) ajánlásokat a jövőbeni tevékenységekre vonatkozóan;
-
-j) a jelentés előterjesztésének évében és az azt követő négy évben kilátásba helyezett intézkedések és projektek előzetes áttekintését; valamint
-
-k) egy közérthető módon nyilvánosságra hozatal céljára megfogalmazott összefoglalót.
-
-(3) Az ITS-jelentést a miniszter által vezetett minisztérium honlapján közzé kell tenni.
-
-[^2]: A 7. § (1) bekezdése az 1/2017. (I. 3.) NFM rendelet 64. § b) pontja szerint módosított szöveg.
-[^3]: A 7. § (2) bekezdés nyitó szövegrésze az 1/2017. (I. 3.) NFM rendelet 64. § c) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdése az 1/2017. (I. 3.) NFM rendelet 64. § b) pontja szerint módosított szöveg.
+[^10]: A 7. § (2) bekezdése a 35/2025. (XII. 19.) ÉKM rendelet 7. §-ával megállapított szöveg.
+[^11]: A 7. § (3) bekezdése a 35/2025. (XII. 19.) ÉKM rendelet 7. §-ával megállapított szöveg.
