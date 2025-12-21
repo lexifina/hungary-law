@@ -1,1 +1,3 @@
-4. § Az NGM rendelet 7. §-ában az „az 5. § (1) bekezdés d) pontjában” szövegrész helyébe az „a 6. § (1) bekezdésében” szöveg lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

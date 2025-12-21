@@ -1,1 +1,3 @@
-5. § Hatályát veszti az NGM rendelet 1. melléklet 3. pont 3.3. alpontjában az „és kiberbiztonsági” szövegrész.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
