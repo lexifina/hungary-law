@@ -8,7 +8,7 @@ c) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (2)[^112] A miniszter külön jogszabályban meghatározottak szerint ellátja az Mvt. 84. § (2) bekezdésében meghatározott foglalkozási megbetegedésekkel kapcsolatos feladatokat.
 
-(3)[^113] A munkavédelmi hatósági hatáskörben eljáró kormányhivatal gyakorolja az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. A munkavédelmi hatósági hatáskörben eljáró kormányhivatal ellátja továbbá mindazon munkavédelmi hatósági ellenőrzési feladatokat, amelyeket jogszabály nevesítve feladat- és hatáskörébe utal.
+(3)[^113] A munkavédelmi hatósági hatáskörben eljáró kormányhivatal gyakorolja az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. A munkavédelmi hatósági hatáskörben eljáró kormányhivatal ellátja továbbá mindazon munkavédelmi hatósági ellenőrzési, engedélyezési és nyilvántartás vezetési feladatokat, amelyeket jogszabály nevesítve feladat- és hatáskörébe utal.
 
 (4)[^114] A munkavédelmi bírság kiszabására az a munkavédelmi hatósági hatáskörben eljáró kormányhivatal jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
@@ -22,7 +22,7 @@ c) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 [^110]: A 14. § (1) bekezdése a) pontját a 356/2021. (VI. 24.) Korm. rendelet 24. § c) pontja hatályon kívül helyezte.
 [^111]: A 14. § (1) bekezdés b) pontja a 24/2024. (II. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^112]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 515. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^113]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, a 337/2020. (VII. 9.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^113]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, a 337/2020. (VII. 9.) Korm. rendelet 14. § c) pontja, a 408/2025. (XII. 19.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^114]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 457/2017. (XII. 28.) Korm. rendelet 516. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^115]: A 14. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^116]: A 14. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
