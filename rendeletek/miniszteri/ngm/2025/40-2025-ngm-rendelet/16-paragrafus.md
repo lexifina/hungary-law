@@ -1,0 +1,1 @@
+16. § Az azbeszt okozta foglalkozási eredetű megbetegedéseket a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló miniszteri rendelet szerint kell bejelenteni és kivizsgálni.
