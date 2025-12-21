@@ -2,6 +2,8 @@
 
 ## (IMO FAL 3 formának megfelel)
 
+## 2K17704_0
+
 |  |  |  | Érkezés |  | Indulás | Oldalszám |
 
 |  | 1.1. | A hajó neve |  | 1.2. | IMO szám |
@@ -21,6 +23,8 @@
 ## IMO SHIP’S STORES DECLARATION
 
 ## (IMO FAL Form 3)
+
+## 2K17704_1
 
 |  |  |  | Arrival |  | Departure | Page Number |
 

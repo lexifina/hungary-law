@@ -2,6 +2,8 @@
 
 ## (IMO FAL 1 formának megfelel)
 
+## 2K17700_0
+
 |  |  | Érkezés |  | Indulás |
 
 | 1.1.A hajó neve és típusa | 1.2. IMO szám |
@@ -39,6 +41,8 @@
 ## IMO GENERAL DECLARATION
 
 ## (IMO FAL Form 1)
+
+## 2K17700_1
 
 |  |  | Arrival |  | Departure |
 

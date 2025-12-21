@@ -2,6 +2,8 @@
 
 ## (IMO FAL 2 formának megfelel)
 
+## 2K17702_0
+
 |  |  |  | Érkezés |  | Indulás | Oldalszám |
 
 |  | 1.1. | A hajó neve | 1.2. | IMO szám |
@@ -21,6 +23,8 @@
 ## IMO CARGO DECLARATION
 
 ## (IMO FAL Form 2)
+
+## 2K17702_1
 
 |  |  |  | Arrival |  | Departure | Page Number |
 

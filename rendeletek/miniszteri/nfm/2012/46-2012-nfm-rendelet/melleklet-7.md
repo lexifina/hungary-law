@@ -2,6 +2,8 @@
 
 ## (IMO FAL 6 formának megfelel)
 
+## 2K17710_0
+
 |  |  | Érkezés |  | Indulás | Oldalszám |
 
 | 1.1 A hajó neve | 1.2. | IMO szám | 1.3. | Hívójel |
@@ -15,6 +17,8 @@
 ## IMO PASSENGER LIST
 
 ## (IMO FAL Form 6)
+
+## 2K17710_1
 
 |  |  | Arrival |  | Departure | Page Number |
 

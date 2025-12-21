@@ -4,6 +4,8 @@
 
 ## (SOLAS 74, VII. fejezet, 4.5 és 7-2.2szabályai, MARPOL 73/78, III. Melléklet, 4.3 szabálya és IMDG Kódex5.4fejezet, 5.4.3.1 szakasza)
 
+## 2K17712_0
+
 |  | Oldalszám |
 
 | 1.1 A hajó neve | 1.2. | IMO szám | 1.3. | Hívójel |
@@ -25,6 +27,8 @@
 ## (IMO FAL Form 7)
 
 ## (As required by SOLAS 74, chapter VII, regulations 4.5 and 7-2.2, MARPOL 73/78, Annex III, regulation 4.3 and chapter 5.4, paragraph 5.4.3.1 of the IMDG Code)
+
+## 2K17712_1
 
 |  | Page Number |
 

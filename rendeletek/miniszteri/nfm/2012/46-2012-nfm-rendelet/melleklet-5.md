@@ -2,6 +2,8 @@
 
 ## (IMO FAL 4 formának megfelel)
 
+## 2K17706_0
+
 |  |  | Oldalszám |
 
 | 1.1. A hajó neve | 1.2. IMO szám |
@@ -19,6 +21,8 @@
 ## IMO CREW’S EFFECTS DECLARATION
 
 ## (IMO FAL Form 4)
+
+## 2K17706_1
 
 |  |  | Page Number |
 
