@@ -53,3 +53,19 @@ ac) az áru mennyisége és helye a hajón, amennyiben a szállítás egységrak
 b) igazolás arról, hogy a veszélyes vagy szennyező áruk adatait és a hajón való elhelyezésüket tartalmazó jegyzék (list), bevallási jegyzék (manifest) vagy rakodási terv (cargo plan) a hajón rendelkezésre áll;
 
 c) az a levelezési cím, ahol a rakományra vonatkozóan részletes tájékoztatás kapható.
+
+3.3.[^3] A bejelentési kötelezettségnek ki kell terjednie:
+
+3.3.1. valamennyi 1 000 bruttó regisztertonna feletti hajó esetében az üzemanyag-készlet jellemzői és becsület mennyiségére,
+
+3.3.2. a hajózási státuszra,
+
+3.3.3. a biztosító által kiállított és a hajó fedélzetén tartott egy vagy több biztosítási igazolás, amely a 2009/20/EK irányelv 4. cikkével összhangban a tengeri biztosítási kárigényekre vonatkozó biztosítás meglétét bizonyítja, valamint az alábbiak szerint kiállított polgári jogi felelősségről szóló igazolások
+
+3.3.3.1. az olajszennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 1992. évi módosított nemzetközi egyezmény;
+
+3.3.3.2. bunkerolaj-szennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 2001. évi nemzetközi egyezmény és
+
+3.3.3.3. a hajóroncsok eltávolításáról szóló 2007. évi nairobi nemzetközi egyezmény.
+
+[^3]: Az 1. melléklet 3.3. pontját a 35/2025. (XII. 19.) ÉKM rendelet 2. §-a iktatta be.
