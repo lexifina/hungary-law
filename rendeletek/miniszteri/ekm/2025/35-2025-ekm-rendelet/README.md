@@ -1,0 +1,9 @@
+# 35/2025. (XII. 19.) ÉKM rendelet
+
+egyes közlekedési tárgyú miniszteri rendeletek jogharmonizációs kötelezettség teljesítésével összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-35-20-8X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-12-21 | 2025-35-20-8X.1 | 35/2025. (XII. 19.) ÉKM rendelet |
