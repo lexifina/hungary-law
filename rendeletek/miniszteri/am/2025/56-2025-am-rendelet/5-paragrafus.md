@@ -1,3 +1,3 @@
-5. §[^6]
+5. §[^7]
 
-[^6]: Az 5. § a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^7]: Az 5. § a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
