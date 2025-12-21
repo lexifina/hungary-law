@@ -10,4 +10,8 @@ c) a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére k
 
 d) a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő multimodális utazási információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló, 2017. május 31-i (EU) 2017/1926 felhatalmazáson alapuló bizottsági rendelet
 
+e)[^3] a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő valós idejű forgalmi információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló, 2022. február 2-i (EU) 2022/670 felhatalmazáson alapuló bizottsági rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^3]: A 6. § e) pontját a 35/2025. (XII. 19.) ÉKM rendelet 15. §-a iktatta be.
