@@ -1,6 +1,6 @@
 ## A törvény hatálya
 
-9. § (1) A törvény hatálya — a (2)—(3) bekezdésekben megállapított kivételekkel — kiterjed minden szervezett munkavégzésre, függetlenül attól, hogy az milyen szervezeti vagy tulajdoni formában történik.
+9. § (1) A törvény hatálya — a (2)–(4) bekezdésekben megállapított kivételekkel — kiterjed minden szervezett munkavégzésre, függetlenül attól, hogy az milyen szervezeti vagy tulajdoni formában történik.
 
 (2) A törvény meghatározott rendelkezéseit (26/A., 28., 32., 40., 44. és 45. §-ok) alkalmazni kell a munkavégzés hatókörében tartózkodóra is (járókelő, látogató, szolgáltatást igénybe vevő stb.).
 

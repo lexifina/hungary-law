@@ -160,6 +160,10 @@ n) az Európai Unió Mezőgazdasági Szövetkezeteinek Általános Szövetsége 
 
 o) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelv.
 
+p) a munkájuk során azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló, 2009. november 30-i 2009/148/EK európai parlamenti és tanácsi irányelv,
+
+q) a munkájuk során azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2009/148/EK irányelv módosításáról szóló, 2023. november 22-i (EU) 2023/2668 európai parlamenti és tanácsi irányelv.
+
 (7)
 
 (8)

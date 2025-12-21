@@ -6,11 +6,15 @@ a) a munkavállaló nevét, születési helyét, idejét,
 
 b) az expozíciót okozó rákkeltő, mutagén vagy reprodukciót károsító anyag nevét,
 
-c) a munkavállaló napi, heti és éves expozíciós idejét, és
+c) a munkavállaló napi, heti és éves expozíciós idejét,
 
-d) az expozíciós koncentráció mért vagy becsült adatait anyagonként.
+d) az expozíciós koncentráció mért vagy becsült adatait anyagonként és
+
+e) a tevékenység jellegét.
 
 (3) A munkáltató a (2) bekezdés szerinti nyilvántartásban szereplő adatokat a rákkeltő és mutagén anyagok tekintetében az expozíció utolsó napját követő ötven évig, ha a munkavállaló munkahelyén reprodukciót károsító hatású anyagoknak van kitéve, legalább öt évig megőrzi.
+
+(3a) Feladatai ellátása érdekében a munkaegészségügyi szaktevékenységet ellátó személy, a munkabiztonsági szaktevékenységet ellátó személy és a munkavédelmi hatóság jogosult a munkáltató által nyilvántartott adatokba betekinteni. A munkavállaló a személyére vonatkozó adatokat, a munkavédelmi képviselő, illetve a munkavállaló a nyilvántartás névtelen, csoportos információit jogosult megismerni.
 
 (4) Amennyiben a munkáltató jogutód nélkül megszűnik, az (2) bekezdés szerint nyilvántartott adatokat a munkavégzés helye szerint illetékes munkavédelmi hatóságnak átadja az (1) bekezdésben meghatározott célból.
 

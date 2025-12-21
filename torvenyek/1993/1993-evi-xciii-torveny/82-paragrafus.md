@@ -22,11 +22,11 @@ g) a veszélyes munkahelyen, veszélyes munkaeszközzel, vagy veszélyes technol
 
 h) a külön jogszabályok szerint előírt foglalkoztatási tilalom megszegése;
 
-i) a megengedett értéket meghaladó expozícióban történő foglalkoztatás a szükséges védelem hiányában; továbbá
+i) a megengedett értéket meghaladó expozícióban történő foglalkoztatás a szükséges védelem hiányában;
 
 j) a rákkeltő expozícióval járó tevékenység esetére a külön jogszabály által előírt mérések elmulasztása.
 
-k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technológiai folyamatban végzett munka esetére a munkavédelemre vonatkozó szabályban előírtnál kevesebb munkavállalói létszám foglalkoztatása.
+k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technológiai folyamatban végzett munka esetére a munkavédelemre vonatkozó szabályban előírtnál kevesebb munkavállalói létszám foglalkoztatása; továbbá
 
 (3)
 

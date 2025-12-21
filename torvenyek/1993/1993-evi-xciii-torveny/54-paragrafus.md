@@ -26,7 +26,7 @@ i) a munkavállalók megfelelő utasításokkal történő ellátása.
 
 (2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, legfeljebb 50 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat foglalkozás-orvostan, üzemorvostan, munkahigiéne, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakorvosi diplomával, illetve közegészségügyi-járványügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy láthatja el. A feladatokat foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
 
-(3) A munkáltató a kockázatértékelést, annak részeként a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben kerülnek rögzítésre. Indokolt esetnek kell tekinteni
+(3) A munkáltató a kockázatértékelést, annak részeként a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni. Indokolt esetnek kell tekinteni
 
 a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását, valamint a munkáltató tevékenységi körének változását,
 
@@ -86,6 +86,6 @@ h) teljes felelősséggel megtenni minden szükséges intézkedést a munkaváll
 
 i) a munkabiztonsági szaktevékenységnek, illetve munkaegészségügyi szaktevékenységnek minősített feladatok ellátásáról az e törvényben meghatározott módon gondoskodni és az előírt feladatok ellátására e törvényben meghatározott személyt, illetve szervezetet biztosítani.
 
-(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló jogszabályban foglalt szempontokat is figyelembe kell venni.
+(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló jogszabályban foglalt szempontokat is figyelembe kell venni.
 
 (9) A munkáltató a kockázatértékelést követően, annak megállapításait figyelembe véve, a feltárt kockázatok kezelése során határozza meg a védekezés leghatékonyabb módját, a kollektív, műszaki egyéni védelem módozatait, illetve az alkalmazandó szervezési és egészségügyi megelőzési intézkedéseket.
