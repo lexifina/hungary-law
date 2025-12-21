@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-5-20-7Q
 | 2024-04-01 | 2020-5-20-7Q.16 | 68/2023. (XII. 28.) GFM rendelet |
 | 2024-07-12 | 2020-5-20-7Q.8 | 32/2021. (VII. 26.) ITM rendelet |
 | 2025-01-18 | 2020-5-20-7Q.9 | 6/2020. (II. 7.) ITM rendelet |
+| 2025-12-21 | 2020-5-20-7Q.19 | 41/2025. (XII. 19.) NGM rendelet |

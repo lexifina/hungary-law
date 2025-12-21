@@ -1,4 +1,4 @@
-1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^21]
+1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^23]
 
 Veszélyes anyagok a munkahelyi levegőben
 
@@ -70,7 +70,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 31 | BENZOIL-KLORID | 98-88-4 | 2,8 | 0,5 |  |  | i |  | N |
 
-| 32 | BENZOL | 71-43-2 | 1,65 | 1 |  |  | k(1A), b, i, BEM | EU6 | T |
+| 32 | BENZOL | 71-43-2 | 1,65 | 0,5 |  |  | k(1A), b, i, BEM | EU6 | T |
 
 | 33 | BENZO[a]PIRÉN | 50-32-8 | 0,002 |  |  |  | k(1B) |  | T |
 
@@ -438,7 +438,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 215 | 4-METILPENTÁN-2-ON (izobutil-metil-keton) | 108-10-1 | 83 | 20 | 208 | 50 |  | EU1 | N |
 
-| 216 | N-METIL-2- PIRROLIDON | 872-50-4 | 40 | 10 | 80 | 20 | b, Repr.(1B) | EU3 | T |
+| 216 | N-METIL-2- PIRROLIDON | 872-50-4 | 40 | 10 | 80 | 20 | b, Repr.(1B)BEM | EU3 | T |
 
 | 217 | 2-(2-METOXIETOXI)- ETANOL | 111-77-3 | 50,1 | 10 |  |  |  | EU2 | R+T |
 
@@ -762,4 +762,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^21]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(3) bekezdése szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^23]: Az 1. melléklet a 6/2020. (II. 7.) ITM rendelet - a 69/2023. (XII. 28) GFM rendelet 1. §-a szerint módosított - 12. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (2)-(3) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 3. § a) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]

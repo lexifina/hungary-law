@@ -1,4 +1,4 @@
-3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^23]
+3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^25]
 
 A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós és hatásmutatók megengedhető határértékei
 
@@ -14,7 +14,7 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 | 4. | Arzén | arzén | m.v. |  |  | 0,05 | 0,67 |
 
-| 5. | Benzol | S-fenil-merkaptursav | m.v. | 0,04 | 0,22 |  |  |
+| 5. | Benzol | S-fenil-merkaptursav [a határérték az SPMA előanyagának (pre-SPMA) pH<2 körülmények között történő átalakítása után az összes SPMA-ra vonatkozik.] | m.v. | 0,022 | 0,011 |  |  |
 
 | 6. | Diklórmetán | Diklórmetán | m.v. |  |  | 0,3 | 3,5 |
 
@@ -48,7 +48,7 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 | 20. | 4,4’-Metilén-bisz(2-klóranilin) [MOCA] | 4,4’-Metilén-bisz- (2-klóranilin) [MOCA] (hidrolízis után) | m.v. | 11 | 5 |  |  |
 
-| 21. | Nikkel | nikkel | mhv., m.v. |  |  | 0,003 | 0,051 |
+| 21. | Nikkel | nikkel | mhv., m.v. | 0,0030 | 0,0058 |  |  |
 
 | 22. | Nitrobenzol | p-nitro-fenol | m.v. | 5 | 4,0 |  |  |
 
@@ -65,6 +65,8 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 | 28. | Vanádium | vanádium | n.k. | 0,070 | 0,155 |  |  |
 
 | 29. | Xilol | metilhippursavak | m.v. | 1500 | 860 |  |  |
+
+| 30. | n-metil-2-pirrolidon | 5-hidroxi-N-metil-2-pirrolidon | m.v. | 70 |  |  |  |
 
 1.1. A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós és hatásmutatók megengedhető határértékei vizeletben elnevezésű táblázat tekintetében használt rövidítések magyarázata
 
@@ -120,4 +122,4 @@ A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós 
 
 |  | 4. | mhv. | munkahét végén |
 
-[^23]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a szerint módosított szöveg.
+[^25]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a, a 41/2025. (XII. 19.) NGM rendelet 3. § b) pontja szerint módosított szöveg.

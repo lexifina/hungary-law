@@ -26,8 +26,14 @@ k)[^18] a 98/24/EK tanácsi irányelv alapján meghatározott indikatív foglalk
 
 l)[^19] a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelvnek
 
+m)[^20] a munkájuk során azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló, 2009. november 30-i 2009/148/EK európai parlamenti és tanácsi irányelvnek,
+
+n)[^21] a munkájuk során azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2009/148/EK irányelv módosításáról szóló, 2023. november 22-i (EU) 2023/2668 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 [^17]: A 23. § j) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
 [^18]: A 23. § k) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
 [^19]: A 23. § l) pontját a 68/2023. (XII. 28.) GFM rendelet 2. §-a iktatta be.
+[^20]: A 23. § m) pontját a 41/2025. (XII. 19.) NGM rendelet 1. §-a iktatta be.
+[^21]: A 23. § n) pontját a 41/2025. (XII. 19.) NGM rendelet 1. §-a iktatta be.

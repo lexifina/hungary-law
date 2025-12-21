@@ -1,4 +1,4 @@
-2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^22]
+2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^24]
 
 Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
@@ -38,7 +38,7 @@ Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
 |  | 1. | Megnevezés (CAS-számok) | ÁK-érték (rost/cm3) | Tulajdonság | Hivatkozás | ÁK korrekciós csoport |
 
-|  | 2. | Azbeszt | aktinolit (77536-66-4) | 0,1 (idővel súlyozott átlag, 8 órára vonat- koztatva) | k(1A) | EUA | T |
+|  | 2. | Azbeszt | aktinolit (77536-66-4) | 0,01 (idővel súlyozott átlag, 8 órára vonat- koztatva) | k(1A) | EUA | T |
 
 |  | 3. | amozit (12172-73-5) |
 
@@ -58,4 +58,4 @@ Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
 |  | 11. | Tűzálló kerámia rostok (Refrakter kerámia rostok – RCF) | 0,3 | k(1B) | EU6 | T |
 
-[^22]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja, a 13/2023. (VII. 5.) GFM rendelet 1. §-a, 68/2023. (XII. 28.) GFM rendelet 3. § (6) bekezdése szerint módosított szöveg.
+[^24]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja, a 13/2023. (VII. 5.) GFM rendelet 1. §-a, 68/2023. (XII. 28.) GFM rendelet 3. § (6) bekezdése, a 41/2025. (XII. 19.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.
