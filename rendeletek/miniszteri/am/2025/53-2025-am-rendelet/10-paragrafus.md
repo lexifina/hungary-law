@@ -1,5 +1,5 @@
 ## 6. Az MFB Agrár Forgóeszköz Hitelprogram 2025 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 46/2025. (XI. 11.) AM rendelet módosítása
 
-10. § Az MFB Agrár Forgóeszköz Hitelprogram 2025 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 46/2025. (XI. 11.) AM rendelet [a továbbiakban: 46/2025. (XI. 11.) AM rendelet] 1. §-a a következő 3. ponttal egészül ki:
+10. §[^11]
 
-(E rendelet alkalmazásában)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

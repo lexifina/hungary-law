@@ -1,1 +1,3 @@
-13. § A 46/2025. (XI. 11.) AM rendelet a 2. melléklet szerinti 3. melléklettel egészül ki.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

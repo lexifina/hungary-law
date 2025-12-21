@@ -1,1 +1,3 @@
-8. § A 11/2019. (IV. 1.) AM rendelet 4. § (1) bekezdésében a „2025/2026. támogatási évben legfeljebb 10,000 milliárd forint” szövegrész helyébe a „2025/2026. támogatási évben legfeljebb 10,886 milliárd forint” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

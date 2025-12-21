@@ -8,6 +8,6 @@
 
 ## 1. Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet módosítása
 
-1. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet [a továbbiakban: 148/2007. (XII. 8.) FVM rendelet] a következő 28. §-sal egészül ki:
+1. §[^2]
 
-„28. § E rendeletnek az egyes állattartó ágazatok által igénybe vehető agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 53/2025. (XII. 19.) AM rendelettel megállapított 7. § (2i) bekezdését a 2025. támogatási évben kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
