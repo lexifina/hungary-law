@@ -1,3 +1,0 @@
-[1] Különösen az erősen koncentrált vagy oligopolisztikus piacok, illetve a vertikálisan integrált ágazatok esetében az összefonódás-ellenőrzéstől mentes vállalatfelvásárlásokból, a piacról való kilépésekből, a belső növekedésből vagy a jelentős piacralépési korlátok miatti alacsony (potenciális) versenyből származó, konkrét versenyjogi jogsértéshez nem köthető strukturális problémák előidézhetik a piaci verseny jelentős és folyamatos torzítását vagy korlátozását, amelyek a versenyhatóság rendelkezésére álló jogi eszközökkel nem vagy nem elég hatékonyan kezelhetőek.
-
-[2] E célok megvalósítására az Országgyűlés – figyelembe véve az Európai Unió jogi aktusaihoz való közelítés követelményét, valamint a hazai versenyjog hagyományait is – a következő törvényt alkotja:
