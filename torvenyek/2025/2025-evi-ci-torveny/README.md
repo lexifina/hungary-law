@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-101-00-00
 | --- | --- | --- |
 | 2025-12-21 | 2025. évi CI. törvény | 2025-101-00-00.0 (közlönyállapot) |
 | 2025-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-101-00-00.1 |
+| 2025-12-22 | 2010. évi CXXX. törvény | 2025-101-00-00.2 |
