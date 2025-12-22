@@ -1,0 +1,9 @@
+# 14/2025. (XII. 19.) KKM rendelet
+
+a Regionális Gazdaságfejlesztési Támogatási Program szerinti támogatások szabályairól szóló 46/2021. (XII. 22.) KKM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-14-20-6Q
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-12-22 | 2025-14-20-6Q.1 | 14/2025. (XII. 19.) KKM rendelet |
