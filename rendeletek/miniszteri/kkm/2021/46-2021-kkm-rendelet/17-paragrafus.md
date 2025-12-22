@@ -1,3 +1,3 @@
-17. §[^44]
+17. §[^45]
 
-[^44]: A 17. §-t a 20/2024. (XII. 20.) KKM rendelet 11. § 14. pontja hatályon kívül helyezte.
+[^45]: A 17. §-t a 20/2024. (XII. 20.) KKM rendelet 11. § 14. pontja hatályon kívül helyezte.
