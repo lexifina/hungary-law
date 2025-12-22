@@ -1,5 +1,5 @@
-## 5.[^4]
+## 5.[^5]
 
 21. §
 
-[^4]: Az 5. alcím a 24. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^5]: Az 5. alcím a 24. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.

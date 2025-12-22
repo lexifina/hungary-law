@@ -1,5 +1,5 @@
-## 4.[^3]
+## 4.[^4]
 
 12. §
 
-[^3]: A 4. alcím a 24. § (2) bekezdése alapján 2026. január 4-én lép hatályba.
+[^4]: A 4. alcím a 24. § (2) bekezdése alapján 2026. január 4-én lép hatályba.
