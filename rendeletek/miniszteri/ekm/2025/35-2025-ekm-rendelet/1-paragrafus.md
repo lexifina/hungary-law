@@ -14,6 +14,6 @@
 
 ## 1. A tengeri hajók bejelentkezési és bejelentési kötelezettségéről szóló 54/2011. (X. 19.) NFM rendelet módosítása
 
-1. § A tengeri hajók bejelentkezési és bejelentési kötelezettségéről szóló 54/2011. (X. 19.) NFM rendelet [a továbbiakban: 54/2011. (X. 19.) NFM rendelet] 15. §-a a következő d) ponttal egészül ki:
+1. §[^1]
 
-(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
