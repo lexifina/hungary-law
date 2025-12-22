@@ -1,0 +1,33 @@
+3. § (1) A 13/2024. (VIII. 15.) SZTFH rendelet 4. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A vállalkozás a (4) bekezdés szerinti lényegességi vizsgálat eredménye alapján az összes közvetlen szállítót bevonja az átvilágítási folyamatba, vagy – ha a (6) bekezdés szerinti két szintű kockázatelemzést végzett – a két szintű kockázatelemzés eredménye alapján meghatározza az átvilágítási folyamatba bevonásra kerülő, ESG szempontból kockázatosabbnak minősülő közvetlen szállítók körét.”
+
+(2) A 13/2024. (VIII. 15.) SZTFH rendelet 4. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A vállalkozás
+
+a) a magyarországi, Európai Gazdasági Térséghez tartozó országbeli (a továbbiakban: EGT-országbeli) vagy svájci székhelyű, ESG törvény 7. § 26. pontja szerinti nagyvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–29.; 31–41.; 74–137.; 140–233.; 236–238.; 266–271.; 282–286.; 292–376.; 383–428.; 441–476. és 479–500. sora, továbbá az önkéntesen megválaszolható 30.; 42–73. és 239. sora,
+
+b) a magyarországi, EGT-országbeli vagy svájci székhelyű, az ESG törvény 7. § 19. pontja szerinti középvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–29.; 31.; 35–41.; 75.; 76.; 84–137.; 140–232.; 236.; 237.; 266–271.; 282–286.; 299.; 302–376.; 377–423.; 427.; 428. és 441–476. sora, továbbá az önkéntesen megválaszolható 30.; 42–73.; 238.; 239.; 292–298.; 300.; 301.; 481.; 492–500. sora,
+
+c) a magyarországi, EGT-országbeli vagy svájci székhelyű, az ESG törvény 7. § 17. pontja szerinti kisvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–21.; 25–29.; 38–41.; 85–87.; 89.; 91.; 93–96.; 100–102.; 104–136.; 140–174.; 176–178.; 190–232.; 266–269.; 282.; 299.; 302–327.; 339–376. és 466–475. sora, továbbá az önkéntesen megválaszolható 30.; 35–37.; 42–73.; 75.; 76.; 84.; 88.; 90.; 92.; 97–99.; 103.; 137.; 175.; 179–189.; 236–239.; 283.; 284.; 292–298.; 300.; 301.; 328–338.; 387–422.; 427.; 452.; 454.; 481. és 492–500. sora,
+
+d) a magyarországi, EGT-országbeli vagy svájci székhelyű, az ESG törvény 7. § 25. pontja szerinti mikrovállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–21.; 25–29.; 38–41.; 85.; 89.; 91.; 93–96.; 100–102.; 104–136.; 140–174.; 176–178.; 190–232.; 266–269.; 282.; 299.; 302–327.; 339–376. és 466–475. sora, továbbá az önkéntesen megválaszolható 30.; 35–37.; 42–73.; 75.; 76.; 84.; 88.; 90.; 92.; 97–99.; 103.; 137.; 175.; 179.; 180–189.; 236–239.; 283.; 284.; 292–298.; 300.; 301.; 328–331.; 333–338.; 387–422.; 427.; 452.; 481. és 492–500. sora,
+
+e) – az a)–d) pont szerinti szervezetek kivételével – a Gazdasági Együttműködési és Fejlesztési Szervezet tagállambeli (a továbbiakban: OECD-országbeli) székhelyű, az ESG törvény 7. § 26. pontja szerinti nagyvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–29.; 31–41.; 74–137.; 140–232.; 236.; 237.; 266–286.; 292–302.; 304–376.; 387–428.; 441–476. és 479–500. sora, továbbá az önkéntesen megválaszolható 30. és 42–73. sora,
+
+f) az OECD-országbeli székhelyű, az ESG törvény 7. § 19. pontja szerinti középvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–29.; 31.; 35–41.; 75.; 76.; 84–137.; 140–232.; 236.; 237.; 266–286.; 299.; 302.; 304–376.; 387–423.; 427.; 428. és 441–476. sora, továbbá az önkéntesen megválaszolható 30.; 42–73.; 292–298.; 300.; 301.; 481. és 492–500. sora,
+
+g) az OECD-országbeli székhelyű, az ESG törvény 7. § 17. pontja szerinti kisvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–21.; 25–29.; 38–41.; 85–87.; 89.; 91.; 93–96.; 100–102.; 104–136.; 140–174.; 176–178.; 190–232.; 266–269.; 282.; 299.; 302.; 304–327.; 339–376. és 466–475. sora, továbbá az önkéntesen megválaszolható 30.; 35–37.; 42–73.; 75.; 76.; 84.; 88.; 90.; 92.; 97–99.; 103.; 137.; 175.; 179.; 180–189.; 236.; 237.; 272–281.; 283.; 284.; 292–298.; 300.; 301.; 328–338.; 387–422.; 427.; 452.; 454.; 481. és 492–500. sora,
+
+h) az OECD-országbeli székhelyű, az ESG törvény 7. § 25. pontja szerinti mikrovállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–21.; 25–29.; 38–41.; 85.; 89.; 91.; 93–96.; 100–102.; 104–136.; 140–174.; 176–178.; 190–232.; 266–269.; 282.; 299.; 302.; 304–327.; 339–376. és 466–475. sora, továbbá az önkéntesen megválaszolható 30.; 35–37.; 42–73.; 75.; 76.; 84.; 88.; 90.; 92.; 97–99.; 103.; 137.; 175.; 179.; 180–189.; 236.; 237.; 272–281.; 283.; 284.; 292–298.; 300.; 301.; 328–339.; 333–338.; 387–422.; 427.; 452.; 481. és 492–500. sora,
+
+i) a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamain kívüli országbeli (a továbbiakban: egyéb országbeli) székhelyű, az ESG törvény 7. § 26. pontja szerinti nagyvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–29.; 31–41.; 74–137.; 140–232.; 236.; 237.; 241–287.; 292–302.; 304–376.; 387–428.; 441–476. és 479–500. sora, továbbá az önkéntesen megválaszolható 30. és 42–73. sora,
+
+j) az egyéb országbeli székhelyű, az ESG törvény 7. § 19. pontja szerinti középvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–29.; 31.; 35–41.; 75.; 76.; 84–137.; 140–232.; 236.; 237.; 241–287.; 299.; 302.; 304–376.; 387–423.; 427.; 428. és 441–476. sora, továbbá és az önkéntesen megválaszolható 30.; 42–73.; 292–298.; 300.; 301.; 481. és 492–500. sora,
+
+k) az egyéb országbeli székhelyű, az ESG törvény 7. § 17. pontja szerinti kisvállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–21.; 25–29.; 38–41.; 85–87.; 89.; 91.; 93–96.; 100–102.; 104–136.; 140–174.; 176–178.; 190–232.; 241–269.; 282.; 287.; 299.; 302.; 304–327.; 339–376.; 466–475. sora, továbbá az önkéntesen megválaszolható 30.; 35–37.; 42–73.; 75.; 76.; 84.; 88.; 90.; 92.; 97–99.; 103.; 137.; 175.; 179.; 180–189.; 236.; 237.; 272–281.; 283.; 284.; 292–298.; 300.; 301.; 328–338.; 387–422.; 427.; 452.; 454.; 481. és 492–500. sora,
+
+l) az egyéb országbeli székhelyű, az ESG törvény 7. § 25. pontja szerinti mikrovállalkozásnak minősülő közvetlen szállítónak az 1. mellékletben foglalt táblázat 3–21.; 25–29.; 38–41.; 85.; 89.; 91.; 93–96.; 100–102.; 104–136.; 140–174.; 176–178.; 190–232.; 241–269.; 282.; 287.; 299.; 302.; 304–327.; 339–376. és 466–475. sora, továbbá az önkéntesen megválaszolható 30.; 35–37.; 42–73.; 75.; 76.; 84.; 88.; 90.; 92.; 97–99.; 103.; 137.; 175.; 179.; 180–189.; 236.; 237.; 272–281.; 283.; 284.; 292–298.; 300–302.; 328–331.; 333–338.; 387–422.; 427.; 452.; 481. és 492–500. sora
+
+szerinti kérdéseket tartalmazó kérdőívet küldi meg.”
