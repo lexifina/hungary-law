@@ -1,1 +1,3 @@
-21. § Hatályát veszti az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 12/2006. (III. 23.) EüM rendelet.
+21. §[^3]
+
+[^3]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
