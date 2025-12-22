@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
