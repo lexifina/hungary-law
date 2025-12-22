@@ -1,13 +1,1 @@
-7. § Nem lép hatályba a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló, Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti Megállapodás módosításáról szóló Megállapodás kihirdetéséről szóló 2023. évi LXVIII. törvény 2. §-a, 3. §-a, 1. melléklete és 2. melléklete.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
+### 7. §
