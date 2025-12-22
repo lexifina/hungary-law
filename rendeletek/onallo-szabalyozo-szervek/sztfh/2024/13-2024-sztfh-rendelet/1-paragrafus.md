@@ -6,6 +6,8 @@
 
 2. ESG adat: az ESG kockázatok felméréséhez szükséges adat;
 
-3. ESG kockázat: az ESG törvény szerinti környezeti vagy társadalmi felelőségvállalás körében felmerülő kockázat, továbbá olyan vállalatirányítási tényező vagy fenyegetettség, amely negatív hatást gyakorolhat a vállalkozás fenntartható működésére, gazdasági, illetve pénzügyi tevékenységére (a továbbiakban: vállalatirányítási kockázat);
+3.[^1] ESG beszámoló: az ESG törvény és az e rendelet alapján elkészített éves beszámoló, amely tartalmazza az ESG törvényben meghatározott kötelezettségek teljesítéséhez kapcsolódó folyamatokra, továbbá a fenntarthatósági, társadalmi és vállalatirányítási teljesítményre vonatkozó adatokat és információkat;
 
 4. lényegességi vizsgálat: az ESG kockázatokat befolyásoló, továbbá a fenntarthatósági célú átvilágítási kötelezettségeknek való megfelelést biztosító tényezők meghatározása a vállalkozás és a közvetlen szállítói vonatkozásában az érdekelt felek igényeinek figyelembevétele mellett.
+
+[^1]: Az 1. § 3. pontja a 13/2025. (XII. 19.) SZTFH rendelet 1. §-ával megállapított szöveg.

@@ -14,10 +14,12 @@
 
 | 7. | Azon üzleti év, amelyre vonatkozóan az adatokat szolgáltatták: |  |
 
-| 8. | ESG kérdőív kitöltését kérő vállalkozás adatai |
+| 8. | Kitöltés dátuma: |  |
 
-| 9. | Cégnév: |  |
+| 9. | ESG kérdőív kitöltését kérő vállalkozás adatai |
 
-| 10. | Adószám: |  |
+| 10. | Cégnév: |  |
+
+| 11. | Adószám: |  |
 
 3. melléklet a 13/2024. (VIII. 15.) SZTFH rendelethez

@@ -1,6 +1,6 @@
 5. § (1) A kockázatelemzés során a vállalkozás a vállalatirányítási kockázatok azonosításával biztosítja, hogy a fenntarthatóság még inkább beépüljön a vállalkozás irányítási rendszerébe. A vállalkozás a kockázatelemzés során teljeskörűen azonosítja az ESG kockázatokat a saját üzleti hatáskörében és közvetlen szállítói tevékenységében.
 
-(2) A vállalkozás által felállított kockázatelemzési rendszer a minden év június 30-ig lefolytatott éves kockázatelemzési folyamatból és az eseti jellegű kockázatelemzési folyamatból áll.
+(2)[^7] A vállalkozás által felállított kockázatelemzési rendszer a legalább 12 havi gyakorisággal lefolytatott éves kockázatelemzési folyamatból és az eseti jellegű kockázatelemzési folyamatból áll.
 
 (3) A vállalkozás módszertant dolgoz ki az azonosított kockázatok értékelésére. Az értékelés során figyelembe kell venni az azonosított kockázatok lehetséges hatását, illetve előfordulási gyakoriságát, valamint a vállalkozás képességét azok kezelésére.
 
@@ -14,4 +14,7 @@
 
 (8) Ha a vállalkozás a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1)–(3) bekezdése szerinti mikro-, kis- és középvállalkozás (a továbbiakban: KKV) tekintetében a megfelelés ellenőrzésére irányuló intézkedéseket hajt végre, a független harmadik fél általi ellenőrzés költségeit a vállalkozásnak kell viselnie. A KKV a független harmadik fél általi ellenőrzés eredményét – a vállalkozás hozzájárulásával – ismertetheti más szervezetekkel is.
 
-(9) A rendszeres kockázatelemzés részeként a vállalkozás azonosítja és elemzi a vállalkozás működéséhez kapcsolódó releváns ESG adatait – figyelembe véve az ESG törvény 23. § (1) bekezdése szerinti ESG beszámoló (a továbbiakban: ESG beszámoló) mellékletét képező kérdőívet –, beleértve a vállalkozás jogszabályoknak, hatósági engedélyeinek való megfelelését.
+(9)[^8] A rendszeres kockázatelemzés részeként a vállalkozás azonosítja és elemzi a vállalkozás működéséhez kapcsolódó releváns ESG adatait – figyelembe véve az ESG beszámoló mellékletét képező kérdőívet –, beleértve a vállalkozás jogszabályoknak, hatósági engedélyeinek való megfelelését.
+
+[^7]: Az 5. § (2) bekezdése a 13/2025. (XII. 19.) SZTFH rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (9) bekezdése a 13/2025. (XII. 19.) SZTFH rendelet 4. § (2) bekezdésével megállapított szöveg.
