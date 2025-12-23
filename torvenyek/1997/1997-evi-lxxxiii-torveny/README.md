@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2025-07-01 | 2025. évi XXIV. törvény | 1997-83-00-00.115 |
 | 2025-10-01 | 2025. évi LXVII. törvény | 1997-83-00-00.118 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 1997-83-00-00.120 |
+| 2025-12-23 | 2025. évi CXIX. törvény | 1997-83-00-00.123 |

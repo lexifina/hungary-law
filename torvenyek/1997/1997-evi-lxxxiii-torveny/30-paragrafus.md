@@ -12,7 +12,7 @@
 
 a) állami fenntartású egészségügyi szolgáltatóval,
 
-b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központtal,
+b) az egységes egészségügyi állami irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központtal, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés b) pontja szerinti egészségügyi szolgáltatóval
 
 c) egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltatóval,
 
