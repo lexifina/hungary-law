@@ -108,177 +108,17 @@
 
 ## 4. a Hévízi-tó.
 
-## B)
+## B) Az állam kizárólagos tulajdonában álló országos törzshálózati vasúti pályák
 
-## Az állam kizárólagos tulajdonában álló országos törzshálózati vasúti pályák
+## 1. A transz-európai vasúti hálózat (TEN-T) részeként működő vasúti pályák
 
-## 1. A transz-európai vasúti áruszállítási hálózat részeként működő vasúti pályák
+## | 1 | 1 Budapest (Keleti pu.) – Hegyeshalom – országhatár | 2 | 1d Hegyeshalom – Rajka – országhatár | 3 | 3 Komárom – Komárom országhatár | 4 | 5 Székesfehérvár – Komárom (Rendező) | 5 | 10 Győr (Rendező) – Celldömölk | 6 | 15 Szombathely – Sopron – (Ágfalva) országhatár | 7 | 16 Hegyeshalom – Csorna – Porpác | 8 | 17 Szombathely – Zalaszentiván – Nagykanizsa | 9 | 20 Székesfehérvár – Boba – Celldömölk – Szombathely | 10 | 21 Szombathely – Szentgotthárd – országhatár | 11 | 25 Boba – Zalaszentiván – Zalaegerszeg – Őriszentpéter – országhatár | 12 | 30 Budapest (Déli pu.) – Székesfehérvár – Nagykanizsa – Murakeresztúr – országhatár | 13 | 31 Érd elágazás – Tárnok | 14 | 32 Érd alsó elágazás – Érd | 15 | 40 Budapest (Kelenföld) – Dombóvár – Szentlőrinc – Pécs | 16 | 41 Dombóvár – Gyékényes – országhatár | 17 | 42 (1) Pusztaszabolcs – Dunaújváros | 18 | 44 Székesfehérvár – Pusztaszabolcs | 19 | 50 Dombóvár – Bátaszék | 20 | 60 (1) Murakeresztúr – Gyékényes | 21 | 65 (1) Pécs – Villány | 22 | 66 Villány – Magyarbóly – országhatár | 23 | 70 Budapest (Nyugati pu.) – Vác – Szob – országhatár | 24 | 71 (2) Vácrátót – Vác | 25 | 77 Aszód – Vácrátót | 26 | 80 (1) Budapest (Keleti pu.) – Hatvan – Miskolc – Mezőzombor | 27 | 82 Hatvan – Újszász | 28 | 90 Felsőzsolca – Hidasnémeti – országhatár | 29 | 100 Budapest (Nyugati pu.) – Cegléd – Szolnok – Nyíregyháza – Záhony – országhatár | 30 | 100c Mezőzombor – Nyíregyháza | 31 | 101 Püspökladány – Biharkeresztes – országhatár | 32 | 120a Budapest (Rákos) – Újszász – Szolnok | 33 | 120 Szajol – Békéscsaba – Lőkösháza – országhatár | 34 | 136 Szeged (Rendező) – Röszke – országhatár | 35 | 137 Kiskundorozsma elágazás – Röszke elágazás | 36 | 140 Cegléd – Kecskemét – Szeged | 37 | 150 Budapest (Ferencváros) – Kiskunhalas – Kelebia – országhatár | 38 | 154 (1) Bátaszék – Baja – Bácsalmás | 39 | 155 Kiskunhalas – Kiskunfélegyháza | 40 | 200 Kőbánya felső – Rákosrendező | 41 | 202 Budapest-Angyalföld elágazás – Rákospalota-Újpest | 42 | 203 Rákos – Rákos elágazás | 43 | 204 Soroksári út – Soroksári út rendező | 44 | 205 Budapest (Ferencváros) – Kőbánya felső | 45 | 206 Budapest (Ferencváros) – Kőbánya-Kispest | 46 | 212 Kőbánya teher – Kőbánya felső | 47 | 217 Kőbánya felső kiágazás – Rákos | 48 | 218 Rákosrendező – Rákosrendező elágazás | 49 | 219 Rákosrendező – Városliget elágazás | 50 | 227 Soroksári út – Csepel elosztó | 51 | 235 Soroksár – Soroksár-Terminál | 52 | 261 Törökszentmiklós – Tiszatenyő elágazás | 53 | 263 Abony elágazás – Nyársapát elágazás | 54 | 265 Külsőhalas elágazás – Harkakötöny elágazás | 55 | 267 Dombóvár alsó – Dombóvár elágazás | 56 | 277 Nyíregyháza-Északi kitérő – Sóstóhegy elágazás | 57 | 284 Záhony normál nyomtávú hálózat | 58 | 291 Zalaszentiván elágazás – Andráshida elágazás | 59 | 292 Kerta elágazás – Jánosháza elágazás | 60 | 392 Bácsalmás – Csikéria | 61 | 400 Záhony széles nyomtávú hálózat
 
-## 1 Budapest (Keleti pu.) - Hegyeshalom - országhatár
+## 2. Nem a transz-európai vasúti (TEN-T) részét képező országos törzshálózati vasúti pályák
 
-## 1d Hegyeshalom - Rajka - országhatár
+## | 1 | 2 Budapest (Rákosrendező) – Esztergom | 2 | 4 Esztergom-Kertváros – Almásfüzitő | 3 | 11 Győrszabadhegy – Veszprém | 4 | 12 (2) Tatabánya – Oroszlány | 5 | 26 Balatonszentgyörgy – Tapolca – Ukk | 6 | 29 (2) Szabadbattyán – Tapolca | 7 | 40e Százhalombatta – Ercsi elágazás | 8 | 42 (2) Dunaújváros – Mezőfalva – Paks | 9 | 43 Mezőfalva – Rétszilas | 10 | 45 Sárbogárd – Börgönd | 11 | 46 Rétszilas – Bátaszék | 12 | 71 (1) Budapest (Rákospalota-Újpest) – Vácrátót | 13 | 74 Nógrádszakál – országhatár | 14 | 78 (2) Nógrádszakál – Ipolytarnóc – országhatár | 15 | 80 (2) Mezőzombor – Sátoraljaújhely – országhatár | 16 | 81 Hatvan – Somoskőújfalu – országhatár | 17 | 86 Vámosgyörk – Újszász | 18 | 87 Füzesabony – Eger – Szilvásvárad – Putnok | 19 | 89 Nyékládháza –Tiszapalkonya-Erőmű | 20 | 92 (1) Miskolc (Tiszai) – Bánréve – országhatár | 21 | 92 (2) Bánréve – Ózd | 22 | 94 Sajóecseg – Tornanádaska – Hídvégardó – országhatár | 23 | 103 Karcag – Tiszafüred | 24 | 105 Debrecen – Nyírábrány – országhatár | 25 | 108 Debrecen – Tiszafüred – Füzesabony | 26 | 110 Apafa – Mátészalka | 27 | 115 Mátészalka – Tiborszállás – Ágerdőmajor – országhatár | 28 | 135 Szeged – Békéscsaba – Kötegyán – országhatár | 29 | 142 Budapest (Kőbánya-Kispest) – Lajosmizse – Kecskemét | 30 | 154 (2) Bácsalmás – Kiskunhalas | 31 | 201 Budapest-Angyalföld elágazás – Budapest-Angyalföld | 32 | 210 Rákosrendező – Vasúttörténeti park | 33 | 211 Kispest elágazás – Pestszentimre felső elágazás | 34 | 216 Kőbánya felső elágazás – Kőbánya-Hízlaló | 35 | 220 Rákosrendező – Istvántelki főműhely | 36 | 318 Nagyirtás – Nagybörzsöny
 
-## 3 Komárom - Komárom országhatár
-
-## 10 Győr (Rendező) - Celldömölk
-
-## 15 Szombathely - Sopron - (Ágfalva) országhatár
-
-## 17 (2) Zalaszentiván - Nagykanizsa
-
-## 20 Székesfehérvár - Szombathely
-
-## 21 Szombathely - Szentgotthárd - országhatár
-
-## 25 Boba - Zalaegerszeg - Őriszentpéter - országhatár
-
-## 30 Budapest (Déli pu.) - Székesfehérvár - Nagykanizsa - Murakeresztúr - országhatár
-
-## 31 Érdi elágazás - Tárnok
-
-## 40 Budapest (Kelenföld) - Pécs
-
-## 41 Dombóvár - Gyékényes - országhatár
-
-## 44 Székesfehérvár - Pusztaszabolcs
-
-## 60 (1) Murakeresztúr - Gyékényes
-
-## 65 (1) Pécs - Villány
-
-## 66 Villány - Magyarbóly - országhatár
-
-## 70 Budapest (Nyugati pu.) - Szob - országhatár
-
-## 80 (1) Budapest (Keleti pu.) - Hatvan - Miskolc - Mezőzombor
-
-## 90 Felsőzsolca - Hidasnémeti - országhatár
-
-## 100 Budapest (Nyugati pu.) - Cegléd - Szolnok - Záhony - országhatár
-
-## 100c Mezőzombor - Nyíregyháza
-
-## 101 Püspökladány - Biharkeresztes - országhatár
-
-## 120a Budapest (Rákos) - Újszász - Szolnok
-
-## 120 Szajol - Lőkösháza - országhatár
-
-## 136 Szeged (Rendező) - Röszke - országhatár
-
-## 140 Cegléd - Szeged
-
-## 150 Budapest (Ferencváros) - Kelebia - országhatár
-
-## 235 Soroksár - Soroksár-Terminál
-
-## 284 Záhony normál nyomtávú hálózat
-
-## 400 Záhony széles nyomtávú hálózat
-
-## Budapesti körvasút vonalai közül:
-
-## 200 Kőbánya felső - Rákosrendező
-
-## 202 Budapest-Angyalföldi elágazás - Rákospalota-Újpest
-
-## 203 Rákos - Rákosi elágazás
-
-## 205 Budapest-Ferencváros - Kőbánya felső
-
-## 206 Budapest-Ferencváros - Kőbánya-Kispest
-
-## 212 Kőbánya teher - Kőbánya felső
-
-## 217 Kőbánya felsői kiágazás - Rákos
-
-## 219 Rákosrendező - Városligeti elágazás.
-
-## 2. Nem a transz-európai vasúti árufuvarozási hálózat részét képező országos törzshálózati vasúti pályák:
-
-## 2 Budapest (Rákosrendező) - Esztergom
-
-## 4 Esztergom-Kertváros - Almásfüzitő
-
-## 5 Székesfehérvár - Komárom (Rendező)
-
-## 11 Győr – Veszprém
-
-## 12 (2) Tatabánya - Oroszlány
-
-## 16 Hegyeshalom - Porpác
-
-## 17 (1) Szombathely - Zalaszentiván
-
-## 26 Balatonszentgyörgy - Tapolca - Ukk
-
-## 29 (2) Szabadbattyán - Tapolca
-
-## 42 Pusztaszabolcs - Dunaújváros - Paks
-
-## 43 Mezőfalva - Rétszilas
-
-## 45 Sárbogárd - Börgönd
-
-## 46 Rétszilas - Bátaszék
-
-## 71 Budapest (Rákospalota-Újpest) - Vácrátót - Vác
-
-## 74 Nógrádszakál - országhatár
-
-## 77 Aszód - Vácrátót
-
-## 78 (2) Nógrádszakál - Ipolytarnóc - országhatár
-
-## 80 (2) Mezőzombor - Sátoraljaújhely - országhatár
-
-## 81 Hatvan - Somoskőújfalu - országhatár
-
-## 82 Hatvan - Újszász
-
-## 86 Vámosgyörk - Újszász
-
-## 87 Füzesabony - Putnok
-
-## 89 Nyékládháza - Tiszapalkonya-Erőmű
-
-## 92 (1) Miskolc (Tiszai) - Bánréve - országhatár
-
-## 92 (2) Bánréve - Ózd
-
-## 94 Sajóecseg - Tornanádaska - Hídvégardó - országhatár
-
-## 103 Karcag - Tiszafüred
-
-## 105 Debrecen - Nyírábrány - országhatár
-
-## 108 Debrecen - Füzesabony
-
-## 110 Apafa - Mátészalka
-
-## 115 Mátészalka - Tiborszállás - Ágerdőmajor - országhatár
-
-## 135 Szeged - Békéscsaba - Kötegyán - országhatár
-
-## 142 Budapest (Kőbánya-Kispest) - Lajosmizse - Kecskemét
-
-## 154 Bátaszék - Baja - Kiskunhalas
-
-## 155 Kiskunhalas - Kiskunfélegyháza
-
-## 318 Nagyirtás – Nagybörzsöny
-
-## Budapesti körvasút vonalai közül:
-
-## 201 Budapest-Angyalföldi elágazás - Budapest-Angyalföld
-
-## 210 Rákosrendező - Vasúttörténeti park
-
-## 211 Kispesti elágazás - Pestszentimre felső elágazás
-
-## 216 Kőbánya felső elágazás - Kőbánya-Hízlaló
-
-## 220 Rákosrendező - Istvántelki főműhely
+## ”
 
 2. melléklet a 2011. évi CXCVI. törvényhez
 
@@ -337,15 +177,3 @@
 ## 5. BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
 
 ## | 5.1. | BOLDOGKŐVÁRALJA | várrom | 5.2. | | | 5.3. | | | 5.4. | FÜZÉR Várhegy | vár | 5.5. | | | 5.6. | GÖNC Kossuth u. 85. és 85/A | huszita ház | 5.7. | GÖNC Dobogóhegy | pálos templom- és kolostorrom | 5.8. | KOMLÓSKA Rákóczi u. 50. | rutén tájház | 5.9. | KURITYÁN | pálos templom- és kolostorrom | 5.10. | MARTONYI Háromhegy | pálos templom- és kolostorrom | 5.11. | | | 5.12. | MISKOLC Bükkszentlélek | pálos templom- és kolostorrom | 5.13. | MISKOLC Diósgyőr Vár u. | vár | 5.14. | MISKOLC Hámor Újmassa | őskohó | 5.15. | MOGYORÓSKA külterület | a Regéci vár romjai | 5.16. | ÓNOD | várrom | 5.17. | | | 5.18. | SÁROSPATAK, Szent Erzsébet u. 19–21. | Rákóczi-vár együttese | 5.19. | SZERENCS Rákóczi u. 96. | Rákóczi-várkastély | 5.20. | SZOMOLYA Toldi u. 28–30. | barlanglakás és udvara | 5.21. | SZÖGLIGET Várhegy | Szádvár romjai | 5.22. | TARD Béke u. 55. és 57. | tájház
-
-## 6. CSONGRÁD-CSANÁD VÁRMEGYE
-
-## | 6.1. | DEREKEGYHÁZ Köztársaság tér | Károlyi-kastély együttese | 6.2. | FÁBIÁNSEBESTYÉN Gádorosi műút Külső dűlő 48. | Cserna-féle szélmalom | 6.3. | NAGYMÁGOCS Szentesi út 2. | Károlyi-kastély együttese | 6.4. | SZEGVÁR Kossuth tér 1. | Károlyi-kastély
-
-## 7. FEJÉR VÁRMEGYE
-
-## | 7.1. | ALCSÚTDOBOZ Alcsút | Habsburg-kastély maradványai és a kastélypark | 7.2. | BICSKE Kossuth u 42. | Batthyány-kastély együttese | 7.3. | CSÁKVÁR Kastélypark u. és Szent Vince u. | Esterházy-kastély együttese | 7.4. | CSÓKAKŐ | várrom | 7.5. | | | 7.6. | | | 7.7. | FÜLE Széchenyi u. 107. | tájház | 7.8. | ISZKASZENTGYÖRGY Kossuth tér 1. | Amadé-Bajzáth-Pappenheim-kastély együttese | 7.9. | | | 7.10. | | | 7.11. | | | 7.12. | SZÉKESFEHÉRVÁR Koronázó tér | romkert, koronázó templom romjai | 7.13. | TÁC Fövenypuszta | Gorsium | 7.14. | |
-
-## 8. GYŐR-MOSON-SOPRON VÁRMEGYE
-
-## | 8.1. | DÉNESFA Fő u. 19. | Cziráky-kastély együttese | 8.2. | FERTŐD, Esterházy-kastély műemléki együttese | Madách Imre sétány | kastély | Bartók Béla u. 1–2. | egykori őrségépületek | Gábor Áron u. 1. | tiszttartói ház | | marionett színház | Raktár u. | narancsház | | kutyaház | | lovarda | Madách Imre sétány 1. | Muzsikaház | Bartók Béla u. | híd | | kastélypark | 8.3. | | | 8.4. | GYŐR Liszt Ferenc u. 13. | vármegyeháza | 8.5. | GYŐR Széchenyi tér 5. | Apátúr-ház | 8.6. | | | 8.7. | | | 8.8. | NAGYCENK, Széchenyi-kastély műemléki együttese | Kiscenki út 3. | Széchenyi Emlékmúzeum | Kiscenki út 3. | virágház (kastélyszálló) | Kiscenki út 3. | Vöröskastély (kastélyszálló) | Kiscenki út 3. | méntelep (lovasiskola) | Kiscenki út 3. | őrépületek | Kiscenki út 3. | kastélypark | 8.9. | SOPRON, Várkerület: városfal részek műemléki együttese | 8.10. | SOPRON Fő tér 6. | Fabricius-ház | 8.11. | SOPRON Fő tér 7. | Tábornokház | 8.12. | SOPRON Fő tér 8. | Storno-ház | 8.13. | SOPRON Templom u. 2. | Esterházy-palota | 8.14. | SOPRON Új u. 11. | zsinagóga | 8.15. | SOPRON Új u. 22–24. | zsinagóga | 8.16. | | | 8.17. | SZANY Kossuth u. 2–6. | püspöki kastély együttese
