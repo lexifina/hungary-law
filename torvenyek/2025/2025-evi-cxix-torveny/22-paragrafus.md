@@ -1,10 +1,10 @@
 22. § Hatályát veszti az Nkt.
 
-a) 69. § (1) bekezdés c) pontjában a „ , közalkalmazotti szabályzat” szövegrész,
+a)
 
-b) 77. § (2) bekezdés k) pontjában az „az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, valamint” szövegrész,
+b)
 
-c) 84. § (7) bekezdésében a „ , valamint az állami felsőoktatási intézmény által fenntartott intézmény” szövegrész,
+c)
 
 d) 93/A. § (3) bekezdés c) pontja,
 
