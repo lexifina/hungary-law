@@ -2,14 +2,17 @@
 
 a) hivatásos állomány tagjáról rendelkeznek, azon tisztjelöltet,
 
-b) hivatásos szolgálati jogviszonyról rendelkeznek, azon a tisztjelölti szolgálati jogviszonyt,
+b)[^9] hivatásos szolgálati jogviszonyról rendelkeznek, azon a rendvédelmi tisztjelölti szerződéses jogviszonyt,
 
-c) a helyi személyügyi szerven a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek tisztjelöltjeiről és a tisztjelölti szolgálati jogviszonyról szóló rendelet szerinti központi szakszolgálatot
+c)[^10] a helyi személyügyi szerven a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek rendvédelmi tisztjelöltjeiről és a rendvédelmi tisztjelölti szolgálati jogviszonyról szóló rendelet szerinti központi szakszolgálatot
 
 kell érteni.
 
-(2) A tisztjelöltet a 2. § (2) bekezdésében foglaltaktól eltérően a tisztjelölti szolgálati jogviszonyban történő véglegesítését követően kell szolgálati jelvénnyel ellátni.
+(2)[^11] A tisztjelöltet a 2. § (2) bekezdésében foglaltaktól eltérően a rendvédelmi tisztjelölti szerződéses jogviszonyban történő véglegesítését követően kell szolgálati jelvénnyel ellátni.
 
 (3) A tisztjelöltek szolgálati jelvényének leírását a 6. melléklet tartalmazza.
 
 [^8]: A 9/A. §-t a 20/2016. (VI. 9.) BM rendelet 48. § (1) bekezdése iktatta be.
+[^9]: A 9/A. § (1) bekezdés b) pontja az 52/2025. (XII. 22.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^10]: A 9/A. § (1) bekezdés c) pontja az 52/2025. (XII. 22.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^11]: A 9/A. § (2) bekezdése az 52/2025. (XII. 22.) BM rendelet 5. § c) pontja szerint módosított szöveg.

@@ -2,6 +2,6 @@
 
 1. melléklet a 32/2015. (VI. 16.) BM rendelethez
 
-Az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, terrorizmust elhárító szerv, valamint az idegenrendészeti szerv hivatásos állományú tagjai szolgálati jelvényének leírása[^9]
+Az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, terrorizmust elhárító szerv, valamint az idegenrendészeti szerv hivatásos állományú tagjai szolgálati jelvényének leírása[^12]
 
-[^9]: Az 1. melléklet címe a 27/2019. (VI. 28.) BM rendelet 52. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet címe a 27/2019. (VI. 28.) BM rendelet 52. § b) pontja szerint módosított szöveg.

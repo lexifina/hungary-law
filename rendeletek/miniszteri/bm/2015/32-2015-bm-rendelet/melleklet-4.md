@@ -6,6 +6,6 @@
 
 ## A pajzs alak, valamint a benne lévő mezők arany színnel vékonyan keretezettek, az azonosító számok feketék. A szolgálati jelvény fekete bőralátéten rögzített, a bőralátét szélesebb a fémjelvénynél, kitűzős kivitelű felül a gombolás céljára lyukasztott és hasított.
 
-4. melléklet a 32/2015. (VI. 16.) BM rendelethez[^10]
+4. melléklet a 32/2015. (VI. 16.) BM rendelethez[^13]
 
-[^10]: A 4. mellékletet a 13/2023. (VI. 14.) MK rendelet 16. § c) pontja hatályon kívül helyezte.
+[^13]: A 4. mellékletet a 13/2023. (VI. 14.) MK rendelet 16. § c) pontja hatályon kívül helyezte.
