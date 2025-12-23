@@ -1,3 +1,3 @@
-6/E. §[^25]
+6/E. §[^28]
 
-[^25]: A 6/E. §-t a 7/2025. (IV. 10.) AM rendelet 37. § b) pontja hatályon kívül helyezte.
+[^28]: A 6/E. §-t a 7/2025. (IV. 10.) AM rendelet 37. § b) pontja hatályon kívül helyezte.

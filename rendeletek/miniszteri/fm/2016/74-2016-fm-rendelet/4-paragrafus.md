@@ -6,7 +6,7 @@ a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 b) a támogatási kérelem benyújtásának időpontjában
 
-ba)[^14]
+ba)[^17]
 
 bb) nem áll felszámolási, végelszámolási eljárás vagy csődeljárás alatt,
 
@@ -26,11 +26,11 @@ ea) az apaállat megvásárlását, illetve a tenyésztésbe állítást igazol�
 
 eb) a 119/2007. (X. 18.) FVM rendelet szerint bejelentett tenyészettel.
 
-ec)[^15] a Magyar Juh- és Kecsketenyésztők Szövetsége (a továbbiakban: tenyésztőszervezet) által, az 5. § (2) bekezdésének megfelelően kiállított igazolással.
+ec)[^18] a Magyar Juh- és Kecsketenyésztők Szövetsége (a továbbiakban: tenyésztőszervezet) által, az 5. § (2) bekezdésének megfelelően kiállított igazolással.
 
-(2)[^16] Egy tenyészkos vagy tenyészbak után csak egy alkalommal igényelhető támogatás.
+(2)[^19] Egy tenyészkos vagy tenyészbak után csak egy alkalommal igényelhető támogatás.
 
-(3)[^17] Az állattartó a tenyészetében lévő
+(3)[^20] Az állattartó a tenyészetében lévő
 
 a) anyajuh minden megkezdett ötven egyedszáma után egy tenyészkos,
 
@@ -42,10 +42,10 @@ tenyésztésbe állításához igényelhet támogatást.
 
 (5) A támogatás tárgyévi igénybevétele szempontjából a tárgyévi, illetve a tárgyévet megelőző évi, az apaállat megvásárlását – saját állományból történő tenyésztésbe állítás esetén a tenyésztésbe állítást – igazoló, állattartó nevére kiállított számviteli bizonylat használható fel.
 
-(6)[^18] Adott tárgyévben egy állattartó egy támogatási kérelmet nyújthat be.
+(6)[^21] Adott tárgyévben egy állattartó egy támogatási kérelmet nyújthat be.
 
-[^14]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
-[^15]: A 4. § (1) bekezdés e) pont ec) alpontját a 7/2025. (IV. 10.) AM rendelet 35. §-a iktatta be.
-[^16]: A 4. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
-[^18]: A 4. § (6) bekezdése a 11/2024. (III. 25.) AM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
+[^18]: A 4. § (1) bekezdés e) pont ec) alpontját a 7/2025. (IV. 10.) AM rendelet 35. §-a iktatta be.
+[^19]: A 4. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
+[^21]: A 4. § (6) bekezdése a 11/2024. (III. 25.) AM rendelet 16. § (2) bekezdésével megállapított szöveg.

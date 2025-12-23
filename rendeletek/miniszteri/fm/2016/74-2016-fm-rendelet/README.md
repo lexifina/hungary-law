@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-74-20-1
 | 2024-03-26 | 2016-74-20-11.16 | 11/2024. (III. 25.) AM rendelet |
 | 2024-05-31 | 2016-74-20-11.17 | 11/2024. (III. 25.) AM rendelet |
 | 2025-04-11 | 2016-74-20-11.18 | 7/2025. (IV. 10.) AM rendelet |
+| 2025-12-23 | 2016-74-20-11.19 | 57/2025. (XII. 22.) AM rendelet |

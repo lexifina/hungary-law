@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. §[^19] (1) Az állattartó tárgyév június 1-jétől június 30-áig terjedő időszakban nyújthatja be a támogatási kérelmét elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+5. §[^22] (1) Az állattartó tárgyév június 1-jétől június 30-áig terjedő időszakban nyújthatja be a támogatási kérelmét elektronikus úton, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 46. § (1) bekezdése szerinti elektronikus azonosítási szolgáltatással elérhető elektronikus felületen (a továbbiakban: elektronikus felület) keresztül a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) A támogatási kérelem tartalmazza
 
@@ -42,4 +42,4 @@ f) a támogatási időszakban az állattartó tenyészetében lévő anyajuh, il
 
 (7) A támogatási kérelem benyújtása esetén a Kincstár megkeresésére a tenyésztőszervezet adatot szolgáltat a (3) bekezdésben foglaltakról.
 
-[^19]: Az 5. § a 7/2025. (IV. 10.) AM rendelet 36. §-ával megállapított szöveg.
+[^22]: Az 5. § a 7/2025. (IV. 10.) AM rendelet 36. §-ával megállapított szöveg.
