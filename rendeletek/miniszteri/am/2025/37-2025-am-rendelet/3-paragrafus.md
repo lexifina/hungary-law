@@ -2,7 +2,7 @@
 
 3. § (1) Az állattartó e § alapján vissza nem térítendő támogatást vehet igénybe a Bérgarancia Alapból történő támogatás-lehívás veszélyhelyzeti szabályairól szóló 65/2025. (III. 31.) Korm. rendelet alapján igénybe vett bérgarancia támogatás visszatérítéséhez.
 
-(2)[^1] A támogatás mértéke legfeljebb a bérgarancia támogatás első tizenkét havi igénybe vett összege.
+(2)[^2] A támogatás mértéke legfeljebb a bérgarancia támogatás első tizenkét havi igénybe vett összege.
 
 (3) A támogatás kérelemre nyújtható. A támogatási kérelem egyidejűleg kifizetési kérelemnek is minősül.
 
@@ -26,4 +26,4 @@ c) az állatbetegséggel összefüggésben az RSZKF rendelet 12. § (1) bekezdé
 
 (10) A támogatást az ÉLBC a kártalanítási előirányzat terhére a Bérgarancia Alap számára folyósítja.
 
-[^1]: A 3. § (2) bekezdése a 48/2025. (XI. 13.) AM rendelet 16. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 48/2025. (XI. 13.) AM rendelet 16. §-a szerint módosított szöveg.
