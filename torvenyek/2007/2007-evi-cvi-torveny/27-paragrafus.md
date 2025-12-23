@@ -23,3 +23,5 @@
 (9) A visszapótlási kötelezettség módját és mértékét vagy a visszapótlási kötelezettség alóli, (8) bekezdés szerinti mentesülés tényét a vagyonkezelési szerződésben, vagy – ha a vagyonkezelési szerződés megszűnésére figyelemmel az már nem lehetséges – az elszámolási szerződésben kell rögzíteni.
 
 (10) Amennyiben a vagyonkezelői jog törvényi kijelölés útján, vagyonkezelési szerződés megkötése nélkül jön létre, úgy a vagyonkezelőre nézve a tulajdonosi joggyakorló mindenkor hatályos tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. A vagyonkezelő köteles a vagyonkezelésébe került állami vagyont – a törvényi kijelölés alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról e törvény végrehajtási rendelete szerint adatot szolgáltatni a tulajdonosi joggyakorló részére.
+
+(11) Amennyiben a vagyonkezelői jog megszűnésekor a vagyonkezelőnek a vagyonkezelt állami vagyon tulajdonosi joggyakorló részére történő átadásával összefüggésben általánosforgalmiadó-fizetési kötelezettsége keletkezik, annak összegét az MNV Zrt. – a Kormány nyilvános határozatában foglalt döntése esetén – megtéríti.
