@@ -4,7 +4,7 @@
 
 (3) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az MTK-val. A szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.
 
-(4) Az MTK az ingatlant per-, teher- és igénymentesen szerzi meg.
+(4) Az MTK az ingatlant per-, teher- és igénymentesen szerzi meg, ide nem értve az ingatlanon 2025. augusztus 1-jén már fennálló bérleti jogcímet biztosító megállapodást.
 
 (5) Az ingatlanhoz kapcsolódó fizetési kötelezettségek az MTK-t az érintett ingatlan birtokátruházását követően terhelik.
 

@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2025-01-01 | 2024. évi LXXIV. törvény | 2021-101-00-00.43 |
 | 2025-06-20 | 2025. évi LI. törvény | 2021-101-00-00.44 |
 | 2025-08-01 | 2025. évi LI. törvény | 2021-101-00-00.45 |
+| 2025-12-23 | 2025. évi CXXXIII. törvény | 2021-101-00-00.46 |
