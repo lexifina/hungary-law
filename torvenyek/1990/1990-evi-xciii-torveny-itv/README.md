@@ -125,3 +125,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2025-09-01 | 2025. évi LIV. törvény | 1990-93-00-00.206 |
 | 2025-10-28 | 2017. évi CXXX. törvény | 1990-93-00-00.209 |
 | 2025-12-20 | 2025. évi LXXXIII. törvény | 1990-93-00-00.210 |
+| 2025-12-23 | 2025. évi CXX. törvény | 1990-93-00-00.212 |
