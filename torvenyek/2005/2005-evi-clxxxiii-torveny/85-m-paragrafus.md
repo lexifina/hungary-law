@@ -22,4 +22,4 @@ f) vasúti járművezető részére kiadásra kerülő hatósági bizonyítvány
 
 megfelelnek a vasút-villamos szolgáltatásra kiadott működési engedélyekben meghatározottaknak.
 
-(5) A vasút-villamos által használt vasúti pályahálózat használatbavételi engedélye iránti kérelmet legkésőbb a műszaki átadás-átvételt követő hatvan napon belül kell benyújtani a vasúti közlekedési hatósághoz. Használatbavételi engedély hiányában a műszaki átadás-átvételt követő legfeljebb kétszázhetven napig a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendeletben meghatározott korlátozott szolgáltatási szintű forgalom bonyolítható le.
+(5) A vasút-villamos által használt vasúti pályahálózat használatbavételi engedélye iránti kérelmet legkésőbb a műszaki átadás-átvételt követő hatvan napon belül kell benyújtani a vasúti közlekedési hatósághoz. Használatbavételi engedély hiányában a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendeletben meghatározott korlátozott szolgáltatási szintű forgalom bonyolítható le.

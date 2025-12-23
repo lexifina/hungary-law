@@ -10,19 +10,25 @@
 
 1.3. építéséhez,
 
-1.4. átalakításához, korszerűsítéséhez,
+1.4. átalakításához,
 
-1.5. használatbavételéhez,
+1.5. korszerűsítéséhez,
 
-1.6. ideiglenes használatbavételéhez,
+1.6. használatbavételéhez,
 
-1.7. fennmaradásához,
+1.7. ideiglenes használatbavételéhez,
 
-1.8. megszüntetéséhez, bontásához,
+1.8. fennmaradásához,
 
-1.9. üzemszünetéhez,
+1.9. megszüntetéséhez,
 
-1.10. tekintetében az építési engedélyben foglaltaktól való eltéréshez;
+1.10. bontásához,
+
+1.11. üzemszünetéhez,
+
+1.12. tekintetében az építési engedélyben foglaltaktól való eltéréshez, valamint
+
+1.13. a korlátozott szintű forgalomhoz;
 
 2. jogszabály eltérő rendelkezése hiányában a vasúti jármű
 
