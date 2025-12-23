@@ -1,0 +1,1 @@
+25/C. § E törvénynek a magyar állampolgárságról szóló 1993. évi LV. törvény és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosításáról szóló 2025. évi CXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 3. § (3) bekezdés c) pontját és 3. § (4) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
