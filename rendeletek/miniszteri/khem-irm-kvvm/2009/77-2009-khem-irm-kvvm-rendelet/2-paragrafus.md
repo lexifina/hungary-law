@@ -2,7 +2,7 @@
 
 (2) A rendelet alkalmazásában
 
-a)[^2] vizsgabiztos: a közúti közlekedésről szóló törvényben, valamint a közúti járművek műszaki megvizsgálásáról szóló 5/1990 (IV. 12) KöHÉM rendeletben (a továbbiakban: ER.) meghatározott feltételeknek megfelelő, a rendszeres környezetvédelmi felülvizsgálat keretében a jármű környezetszennyezésének ellenőrzését végző műszaki vizsgabiztos;
+a)[^3] vizsgabiztos: a közúti közlekedésről szóló törvényben, valamint a közúti járművek műszaki megvizsgálásáról szóló 5/1990 (IV. 12) KöHÉM rendeletben (a továbbiakban: ER.) meghatározott feltételeknek megfelelő, a rendszeres környezetvédelmi felülvizsgálat keretében a jármű környezetszennyezésének ellenőrzését végző műszaki vizsgabiztos;
 
 b) hagyományos Otto-motor: olyan motor, amelynek hengerében a keverék meggyújtása külső energia bevitellel (elektromos szikrával vagy más módon) történik, és a keverék összetétele a kipufogógázok összetételétől független; a motor működési módja szerint lehet kétütemű vagy négyütemű, tüzelőanyaga lehet benzin, PB-gáz, CNG és kipufogórendszerében lehet utókezelő berendezés is; e jellemzőket a megnevezéshez csatolt jelzők mutatják, ha a megkülönböztetés indokolt;
 
@@ -22,7 +22,7 @@ i) elektronikusan szabályozott dízelmotor: olyan dízelmotor, amelyben a motor
 
 j) dízelmotoros jármű: dízelmotorral vagy elektronikusan szabályozott dízelmotorral meghajtott jármű;
 
-k)[^3] a jármű a beépített hajtómotor üzeme szempontjából lehet:
+k)[^4] a jármű a beépített hajtómotor üzeme szempontjából lehet:
 
 ka) belső égésű motorral meghajtott jármű: a c), e), g) vagy i) pontban meghatározott motorral meghajtott gépkocsi, vagy
 
@@ -40,12 +40,12 @@ o) fedélzeti diagnosztikai rendszerrel felszerelt jármű: olyan jármű, amely
 
 p) OBD kiolvasó: a diagnosztikai csatlakozón keresztül a jármű fedélzeti diagnosztikai rendszeréhez csatlakoztatható, azzal kommunikálni képes berendezés, amelyen keresztül legalább a felülvizsgálat előírt adatai és egyes szabványos hibakódok megjeleníthetők;
 
-q)[^4] a tevékenység keretében alkalmazott technológiai adatok szempontjából
+q)[^5] a tevékenység keretében alkalmazott technológiai adatok szempontjából
 
 qa) gyári érték: a gyártómű vagy annak hazai képviselője által az adott típusra meghatározott, gyári adatforrásból, javítási könyvből, karbantartási utasításból származó emissziós és diagnosztikai érték;
 
 qb) rendeleti érték: az MR.-ben az egyes járműkategóriákra megállapított szennyezőanyag kibocsátási határérték, illetve a mérést és értékelést meghatározó további jellemzők.
 
-[^2]: A 2. § (2) bekezdés a) pontja a 2/2018. (II. 5.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdés k) pontja a 2/2018. (II. 5.) NFM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdés q) pontja a 2/2018. (II. 5.) NFM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdés a) pontja a 2/2018. (II. 5.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés k) pontja a 2/2018. (II. 5.) NFM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdés q) pontja a 2/2018. (II. 5.) NFM rendelet 16. § (3) bekezdésével megállapított szöveg.

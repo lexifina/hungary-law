@@ -1,4 +1,4 @@
-1. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^15]
+1. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^16]
 
 A környezetvédelmi felülvizsgálat végzésének személyi és tárgyi feltételei
 
@@ -742,4 +742,4 @@ A jármű környezetvédelmi állapotát az alábbiak szerint kell értékelni.
 
 | * - csak 2006. január 1-je utáni első ízben forgalomba helyezett járműveknél. |
 
-[^15]: Az 1. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 1. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.

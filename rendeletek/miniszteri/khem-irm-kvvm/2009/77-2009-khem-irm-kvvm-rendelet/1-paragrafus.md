@@ -16,6 +16,7 @@ c) az 1980. január 1. előtt első alkalommal forgalomba helyezett dízelmotorr
 
 d) az 5E, 5Z környezetvédelmi osztályba sorolt gépjárműre.
 
-(3) A Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek járművére a rendelet hatálya annyiban terjed ki, amennyiben a honvédelemért felelős, illetve az egyes rendvédelmi szerveket irányító miniszter – a közlekedésért felelős miniszterrel, a közlekedésrendészetért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben – e rendeletben foglaltaktól eltérően nem rendelkezik.
+(3)[^2] A Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek járművére a rendelet hatálya annyiban terjed ki, amennyiben a honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatot irányító miniszter, illetve az egyes rendvédelmi szerveket irányító miniszter – a közlekedésért felelős miniszterrel, a közlekedésrendészetért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben – e rendeletben foglaltaktól eltérően nem rendelkezik.
 
 [^1]: Az 1. § az 1/2023. (I. 19.) ÉKM rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 38/2025. (XII. 22.) ÉKM rendelet 3. §-a szerint módosított szöveg.
