@@ -12,4 +12,4 @@
 
 (6) A 38. §, a 39. § és a 41. § 2025. április 1-jén lép hatályba.
 
-(7) A 18. § b) és c) pontja 2026. július 31-én lép hatályba.
+(7) A 18. § b) és c) pontja 2026. december 31-én lép hatályba.
