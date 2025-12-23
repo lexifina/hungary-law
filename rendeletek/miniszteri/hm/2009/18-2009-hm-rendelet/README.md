@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-18-20-1
 | 2022-03-03 | 2009-18-20-15.11 | 5/2022. (II. 28.) HM rendelet |
 | 2023-12-29 | 2009-18-20-15.12 | 48/2023. (XII. 28.) HM rendelet |
 | 2025-08-14 | 2009-18-20-15.13 | 8/2025. (VIII. 13.) HM rendelet |
+| 2025-12-23 | 2009-18-20-15.14 | 8/2025. (VIII. 13.) HM rendelet |

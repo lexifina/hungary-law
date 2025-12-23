@@ -8,10 +8,10 @@
 
 (4)[^21] A már forgalomba helyezett honvédségi jármű átalakításához szükséges előzetes engedély kiadására vonatkozó kérelmet a közlekedési hatósághoz – a szaktervező által jóváhagyott műszaki dokumentációval együtt – csak a hadfelszerelés fejlesztésekért felelős HM szervezet vezetőjének hozzájárulásával lehet benyújtani.
 
-(5)[^22] A honvédelmi és haderőfejlesztési program keretében beérkező gépjárművek első forgalomba helyezésük során mentesülnek az előzetes eredetiségvizsgálat elvégzése alól.
+(5)[^22]
 
 [^18]: A 9. § (1) bekezdése a 6/2012. (V. 18.) HM rendelet 4. §-ával megállapított, a 22/2012. (XI. 13.) HM rendelet 1. §-a szerint módosított szöveg.
 [^19]: A 9. § (2) bekezdése a 13/2014. (VIII. 14.) HM rendelet 10. § a) pontja és 11. §-a szerint módosított szöveg.
 [^20]: A 9. § (3) bekezdése a 13/2014. (VIII. 14.) HM rendelet 10. § b) pontja szerint módosított szöveg.
 [^21]: A 9. § (4) bekezdése a 13/2014. (VIII. 14.) HM rendelet 4. §-ával megállapított szöveg.
-[^22]: A 9. § (5) bekezdését a 8/2025. (VIII. 13.) HM rendelet 4. §-a iktatta be.
+[^22]: A 9. § (5) bekezdését a 8/2025. (VIII. 13.) HM rendelet 4. §-a iktatta be, a 16/2025. (XII. 22.) HM rendelet 1. §-a hatályon kívül helyezte.
