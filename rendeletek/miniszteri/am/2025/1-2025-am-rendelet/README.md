@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-1-20-7R
 | --- | --- | --- |
 | 2025-02-14 | 2025-1-20-7R.1 | 1/2025. (II. 11.) AM rendelet |
 | 2025-02-15 | 2025-1-20-7R.2 | 2010. évi CXXX. törvény |
+| 2025-12-23 | 2025-1-20-7R.3 | 57/2025. (XII. 22.) AM rendelet |

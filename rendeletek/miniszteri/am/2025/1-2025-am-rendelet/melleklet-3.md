@@ -20,6 +20,6 @@
 
 | 10. | ÖSSZESEN |  | 100 |
 
-3. melléklet az 1/2025. (II. 11.) AM rendelethez[^3]
+3. melléklet az 1/2025. (II. 11.) AM rendelethez[^7]
 
-[^3]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

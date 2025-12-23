@@ -30,7 +30,7 @@ k) az akció megvalósítása során felmerülő adminisztratív költség, amel
 
 l) a 2. § (1) bekezdés b) pont bf) alpontjának megfelelő műszaki dokumentáció elkészítésének költsége, amelynek mértéke nem haladhatja meg a program teljes költségvetésének 10%-át; valamint
 
-m) a végrehajtó szervezet díja, amelynek mértéke nem haladhatja meg az adott akcióra elszámolható, a végrehajtó szervezetnél felmerülő költség 20%-át.
+m)[^2] a végrehajtó szervezet díja, amelynek mértéke nem haladhatja meg az adott akcióra elszámolható költség 20%-át.
 
 (2) Az (1) bekezdés szerinti költségek körében az általános forgalmi adó akkor számolható el, ha a kedvezményezett annak levonására nem jogosult. Külföldi számla vagy nyugta esetében nyilatkozat benyújtása szükséges az ÁFA visszaigénylésével kapcsolatban, a kedvezményezett okleveles könyvelőjének vagy a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény szerinti könyvvizsgálójának igazolnia kell, hogy a kifizetett ÁFA összege nem került visszaigénylésre.
 
@@ -39,3 +39,5 @@ m) a végrehajtó szervezet díja, amelynek mértéke nem haladhatja meg az adot
 (4) Ha az áru vagy a szolgáltatás ellenértékét részletekben fizetik meg, akkor csak a ténylegesen megfizetett részletek összege számolható el.
 
 (5) Az eszközbeszerzés elszámolható költsége nem haladhatja meg az eszköznek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 52. §-a és 53. §-a alapján meghatározott értékcsökkenése értékét. Az értékcsökkenés kizárólag az eszköznek a program megvalósítási időszakára eső tényleges használatának arányában és a programra fordított idő arányában számolható el.
+
+[^2]: A 11. § (1) bekezdés m) pontja az 57/2025. (XII. 22.) AM rendelet 7. § b) pontja szerint módosított szöveg.

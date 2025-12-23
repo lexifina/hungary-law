@@ -1,3 +1,3 @@
-4. melléklet az 1/2025. (II. 11.) AM rendelethez[^4]
+4. melléklet az 1/2025. (II. 11.) AM rendelethez[^8]
 
-[^4]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
