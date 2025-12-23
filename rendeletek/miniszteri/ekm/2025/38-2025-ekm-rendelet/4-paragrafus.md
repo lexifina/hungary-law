@@ -1,0 +1,3 @@
+## 4. Az intelligens közlekedési rendszerek fejlesztésének és üzemeltetésének általános feltételeiről, valamint más közlekedési módokhoz való kapcsolódásáról szóló 48/2012. (VIII. 23.) NFM rendelet módosítása
+
+4. § Az intelligens közlekedési rendszerek fejlesztésének és üzemeltetésének általános feltételeiről, valamint más közlekedési módokhoz való kapcsolódásáról szóló 48/2012. (VIII. 23.) NFM rendelet 1. § (3) bekezdésében a „rendvédelmi szervekre, továbbá a Magyar Honvédségre és a Katonai Nemzetbiztonsági Szolgálatra” szövegrész helyébe a „rendvédelmi szervekre, nemzetbiztonsági szolgálatokra, továbbá a Magyar Honvédségre” szöveg lép.
