@@ -16,8 +16,10 @@
 
 7. rendvédelmi szerv: a Hszt. 1. § (1) bekezdés a)–e) pontjában meghatározott rendvédelmi feladatokat ellátó szerv,
 
-8. rendvédelmi tisztjelölti jogviszony: a Hszt. szerinti rendvédelmi tisztjelölti szolgálati jogviszony,
+8.[^1] rendvédelmi tisztjelölti jogviszony: a Hszt. szerinti rendvédelmi tisztjelölti szerződéses jogviszony, valamint 2025. november 1. napját megelőzően a rendvédelmi tisztjelölti szolgálati jogviszony,
 
 9. szakmai gyakorlat: a képzés során elsajátított ismeretanyag gyakorlatban történő alkalmazására történő felkészítés olyan módszere, amikor a képzési időszak befejezését követően a rendvédelmi szervnél kerül sor a feladat végrehajtására,
 
 10. tanulmányi osztály: a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán (a továbbiakban: NKE Rendészettudományi Kar) és a Nemzeti Közszolgálati Egyetem Katasztrófavédelmi Intézetnél (a továbbiakban: NKE Katasztrófavédelmi Intézet) működő, a rendvédelmi tisztjelölttel kapcsolatos tanulmányi ügyek intézésére kijelölt szervezeti elem.
+
+[^1]: Az 1. § 8. pontja az 52/2025. (XII. 22.) BM rendelet 7. § a) pontja szerint módosított szöveg.

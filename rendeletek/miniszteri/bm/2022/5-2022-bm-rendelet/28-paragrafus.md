@@ -1,5 +1,3 @@
-## 27. § A rendvédelmi tisztjelöltet a 18. § (2) bekezdése szerinti, a rendvédelmi szervnél teljesített vagy a rendőrség rendvédelmi tisztjelöltje esetében a szakmai gyakorlatot biztosító rendőrségi szervnél teljesített szolgálat során felmerült, igazolt költségei után költségtérítés illeti meg. A felmerült költséget a rendvédelmi tisztjelölt a rendvédelmi szerv nevére kiállított számlával köteles igazolni.
-
 ## 10. Szociális juttatások
 
 28. § (1) A rendvédelmi tisztjelölt a belügyminiszter irányítása alatt álló fegyveres szervek hivatásos és közalkalmazotti állománya részére adható szociális támogatásról és a kegyeleti gondoskodással kapcsolatos egyes feladatokról szóló BM rendelet szerinti

@@ -1,6 +1,6 @@
 ## 2. A rendvédelmi tisztjelölti jogviszony létesítésének eljárási rendje
 
-4. § (1) Az országos parancsnok a központi szakszolgálat útján, a tanulmányi osztálytól kapott értesítést követően a rendészeti alapképzésre felvételt nyert személyt (a továbbiakban: felvételt nyert személy) felhívja, hogy a rendvédelmi tisztjelölti jogviszonyba kinevezés előkészítése, valamint az adatainak a Hszt. szerinti személyügyi nyilvántartásban történő rögzítése érdekében a (2) bekezdés szerinti dokumentumokat a felhívás kézhezvételétől számított három munkanapon belül bocsássa a központi szakszolgálat rendelkezésére.
+4. § (1)[^3] Az országos parancsnok a központi szakszolgálat útján, a tanulmányi osztálytól kapott értesítést követően a rendészeti alapképzésre felvételt nyert személyt (a továbbiakban: felvételt nyert személy) felhívja, hogy a szerződés előkészítése, valamint az adatainak a Hszt. szerinti személyügyi nyilvántartásban történő rögzítése érdekében a (2) bekezdés szerinti dokumentumokat a felhívás kézhezvételétől számított három munkanapon belül bocsássa a központi szakszolgálat rendelkezésére.
 
 (2) A felvételt nyert személy az alábbi dokumentumokat, adatokat nyújtja be a központi szakszolgálatnak:
 
@@ -32,4 +32,7 @@ d) a vele közös háztartásban élő házastársa, élettársa, valamint feln�
 
 e) a rendvédelmi oktatási intézménybe jelentkezők fizikai, pszichológiai és egészségi alkalmasságvizsgálatát szabályozó rendelet szerinti, a felvételt megelőző egészségi, pszichológiai és fizikai alkalmasságvizsgálaton megállapított alkalmas minősítést tartalmazó irat másolata.
 
-(4) A rendvédelmi tisztjelölti jogviszony létesítéséhez szükséges feltételeket igazoló dokumentumok benyújtását követően a központi szakszolgálat intézkedik a kinevezés előkészítése érdekében. A kinevezés aláírására csak abban az esetben kerülhet sor, ha rendelkezésre áll a Nemzeti Védelmi Szolgálat főigazgatójának a kifogástalan életvitel-ellenőrzés befejezéséről szóló határozata.
+(4)[^4] A rendvédelmi tisztjelölti jogviszony létesítéséhez szükséges feltételeket igazoló dokumentumok benyújtását követően a központi szakszolgálat intézkedik a szerződés előkészítése érdekében. A szerződés aláírására csak abban az esetben kerülhet sor, ha rendelkezésre áll a Nemzeti Védelmi Szolgálat főigazgatójának a kifogástalan életvitel-ellenőrzés befejezéséről szóló határozata.
+
+[^3]: A 4. § (1) bekezdése az 52/2025. (XII. 22.) BM rendelet 7. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (4) bekezdése az 52/2025. (XII. 22.) BM rendelet 7. § d) pontja szerint módosított szöveg.
