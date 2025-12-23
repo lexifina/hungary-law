@@ -22,6 +22,8 @@ g) polgári nemzetbiztonsági szolgálatok személyi állományának jogállás�
 
 h) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
 
+i) köznevelési foglalkoztatotti jogviszonyban álló személy
+
 tölthet be.
 
 (2)

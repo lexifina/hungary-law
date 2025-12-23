@@ -2,9 +2,9 @@
 
 A tanártovábbképzés és a köznevelésért felelős miniszter által előírt képzések végrehajtása érdekében kezelt személyes adatok
 
-E törvény alapján nyilvántartott adatok:
+## E törvény alapján nyilvántartott adatok:
 
-A tanártovábbképzésen és a köznevelésért felelős miniszter által előírt képzésen résztvevők:
+## A tanártovábbképzésen és a köznevelésért felelős miniszter által előírt képzésen résztvevők:
 
 1. családi és utóneve, születési családi és utóneve,
 
