@@ -1,1 +1,0 @@
-## 11. § Az e rendelet hatálybalépését megelőzően forgalomba helyezett kényszerszállító jármű 2025. december 31-ig átalakítási engedély nélkül – a 2. melléklet 1. pont e) és h) alpontja, a 2. pont e) és h) alpontja, valamint a 3. pont a) alpontjában előírt feltételek teljesítése nélkül – is részt vehet a közúti forgalomban.
