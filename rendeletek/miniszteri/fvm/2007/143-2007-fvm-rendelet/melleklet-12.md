@@ -1,4 +1,4 @@
-12. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez[^152]
+12. számú melléklet a 143/2007. (XII. 4.) FVM rendelethez[^156]
 
 ## A készenléti terv tartalma
 
@@ -32,4 +32,4 @@
 
 14. a készenléti terv végrehajtására vonatkozó jogszabályok és utasítások felsorolása.
 
-[^152]: A 12. számú mellékletet a 23/2008. (III. 4.) FVM rendelet 2. §-a iktatta be.
+[^156]: A 12. számú mellékletet a 23/2008. (III. 4.) FVM rendelet 2. §-a iktatta be.

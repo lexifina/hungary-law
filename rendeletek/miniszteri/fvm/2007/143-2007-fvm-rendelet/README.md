@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-143-20-
 | 2017-08-18 | 2007-143-20-82.9 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-01-01 | 2007-143-20-82.10 | 42/2017. (VIII. 17.) FM rendelet |
 | 2025-10-03 | 2007-143-20-82.11 | 42/2025. (IX. 30.) AM rendelet |
+| 2025-12-23 | 2007-143-20-82.12 | 58/2025. (XII. 22.) AM rendelet |

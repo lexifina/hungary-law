@@ -10,13 +10,13 @@
 
 (4) A gazdaságba belépő vagy onnan távozó személyek által használt minden, a vírussal történt kontaminációra gyanús járművet haladéktalanul a 46. §-ban meghatározott módon takarítási, fertőtlenítési eljárásnak kell alávetni.
 
-(5)[^43] A gazdaságba csak a vármegyei kormányhivatal engedélyével vihető be baromfi, más, fogságban tartott szárnyas vagy háziasított emlős. Ez a korlátozás nem vonatkozik azokra az emlősökre, amelyeknek csak az emberi lakóhelyül szolgáló területekre van bejárásuk, ahol
+(5)[^45] A gazdaságba csak a vármegyei kormányhivatal engedélyével vihető be baromfi, más, fogságban tartott szárnyas vagy háziasított emlős. Ez a korlátozás nem vonatkozik azokra az emlősökre, amelyeknek csak az emberi lakóhelyül szolgáló területekre van bejárásuk, ahol
 
 a) nem érintkeznek a háztáji baromfival vagy más, fogságban tartott szárnyassal, és
 
 b) nincs hozzáférésük olyan ketrechez vagy területhez, ahol ilyen háztáji baromfit vagy fogságban tartott madarakat tartanak.
 
-(6)[^44] A gazdaságban a megnövekedett morbiditást vagy mortalitást, vagy a gazdaság termelési adataiban bekövetkezett jelentős változást különös tekintettel az alábbiakra
+(6)[^46] A gazdaságban a megnövekedett morbiditást vagy mortalitást, vagy a gazdaság termelési adataiban bekövetkezett jelentős változást különös tekintettel az alábbiakra
 
 a) a takarmány- és vízfelvétel csökkenése meghaladja a 20%-ot,
 
@@ -38,5 +38,5 @@ c) a látogatási naplóba valamennyi a gazdaságba belépő személy adatainak 
 
 (8) A (7) bekezdés c) pontját nem kell alkalmazni, ha a látogatóknak nincs hozzáférésük a madarak tartására szolgáló területekhez például állatkertek, vadasparkok esetében.
 
-[^43]: A 19. § (5) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^44]: A 19. § (6) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § n) pontja szerint módosított szöveg.
+[^45]: A 19. § (5) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^46]: A 19. § (6) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § n) pontja szerint módosított szöveg.

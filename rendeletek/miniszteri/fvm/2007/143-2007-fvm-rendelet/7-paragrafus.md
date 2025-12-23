@@ -1,6 +1,6 @@
 ## Járványügyi nyomozás
 
-7. § (1)[^17] A vármegyei kormányhivatal a járványkitörés gyanúja esetén megkezdi a járványügyi nyomozást a készenléti terv mellékletében található kérdőívek alapján.
+7. § (1)[^19] A vármegyei kormányhivatal a járványkitörés gyanúja esetén megkezdi a járványügyi nyomozást a készenléti terv mellékletében található kérdőívek alapján.
 
 (2) A járványügyi nyomozás legalább a következőkre terjed ki:
 
@@ -18,4 +18,4 @@ a) a kiegészítő járványvédelmi intézkedések alkalmazásakor;
 
 b) az e rendeletben meghatározott felmentések megadásakor.
 
-[^17]: A 7. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^19]: A 7. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 102. § c) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
