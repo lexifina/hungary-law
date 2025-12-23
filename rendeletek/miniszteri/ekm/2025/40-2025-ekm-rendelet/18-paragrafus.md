@@ -1,0 +1,11 @@
+18. § (1) A vasúti személyszállítási közszolgáltató a nyílt hozzáférésű hálózaton tervezett évközi menetrend-módosítási javaslatról a módosítás tervezett érvénybelépése előtt 70 nappal döntés-előkészítő háttéranyagot küld a megrendelő részére, amelyben bemutatja a tervezett menetrendi módosítások jellemzőit. A megrendelő ez alapján 15 napon belül előzetes döntést hoz. Az előzetes jóváhagyás alapján a javaslatát legkésőbb 35 nappal a módosítás tervezett érvénybelépése előtt, a közszolgáltató az új, a megszűnő és megváltozó járatokra vonatkozó dokumentációval kiegészítve megküldi a megrendelőnek, valamint a közreműködő szervezetnek hiteles és ellenőrizhető formában aláírva, továbbá szerkeszthető formátumban.
+
+(2) A vasúti személyszállítási közszolgáltató a zárt hozzáférésű hálózaton tervezett évközi menetrend-módosítási javaslatát legkésőbb a menetrend-módosítás tervezett érvénybelépését 35 nappal megelőzően, a változás hatástanulmányát tartalmazó dokumentációval kiegészítve megküldi a megrendelőnek, valamint a közreműködő szervezetnek hiteles és ellenőrizhető formában aláírva, továbbá szerkeszthető formátumban.
+
+(3) Az autóbuszos személyszállítási közszolgáltató az évközi menetrend-módosítási javaslatát legkésőbb a menetrend-módosítás tervezett érvénybelépését 35 nappal megelőzően, az új, a megszűnő és megváltozó járatokra vonatkozó dokumentációval kiegészítve megküldi a megrendelőnek, valamint a közreműködő szervezetnek hiteles és ellenőrizhető formában aláírva, továbbá szerkeszthető formátumban.
+
+(4) A menetrendek módosítását tartalmazó javaslat (2) és (3) bekezdés szerinti megküldését megelőzően legalább egy, a közszolgáltató és a közreműködő szervezet közötti egyeztetés szükséges. Az egyeztetésről a felek emlékeztetőt készítenek.
+
+(5) A megrendelő a menetrend módosításáról legalább annak tervezett érvénybelépése előtt 20 nappal dönt. Ha a közszolgáltató által megküldött javaslat szerinti tervezett időpont nem megvalósítható, akkor az érvénybe lépés időpontjáról is dönt a megrendelő.
+
+(6) A közszolgáltatók a döntéshozatalt követően haladéktalanul intézkednek a módosított menetrend közzétételére vonatkozóan, amelyre a 21. § (1) és (2) bekezdésében foglaltak az irányadóak.
