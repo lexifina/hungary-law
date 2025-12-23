@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-75-20-2
 | 2018-06-30 | 2016-75-20-2W.6 | 2/2018. (VI. 29.) ITM rendelet |
 | 2021-03-06 | 2016-75-20-2W.7 | 12/2021. (III. 5.) ITM rendelet |
 | 2025-01-04 | 2016-75-20-2W.8 | 54/2024. (XII. 30.) ÉKM rendelet |
+| 2025-12-23 | 2016-75-20-2W.9 | 37/2025. (XII. 22.) ÉKM rendelet |
