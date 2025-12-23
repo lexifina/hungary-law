@@ -1,4 +1,4 @@
-41. §[^122] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 33/2024. (V. 30.) AM rendelettel [a továbbiakban: 33/2024. (V. 30.) AM rendelet] megállapított 2. § (4) bekezdését, 12. § (2) bekezdését, 16. § (5) bekezdés c) pontját, 17. § (2) bekezdését, 18. § (2) bekezdés b) pontját és 18. § (8) bekezdés d) pontját, 21. § (10) bekezdését, 34. § (7) bekezdését, valamint 35. § (7) bekezdését a 33/2024. (V. 30.)AM rendelet hatálybalépésekor[^123] folyamatban lévő eljárásokban is alkalmazni kell.
+41. §[^123] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 33/2024. (V. 30.) AM rendelettel [a továbbiakban: 33/2024. (V. 30.) AM rendelet] megállapított 2. § (4) bekezdését, 12. § (2) bekezdését, 16. § (5) bekezdés c) pontját, 17. § (2) bekezdését, 18. § (2) bekezdés b) pontját és 18. § (8) bekezdés d) pontját, 21. § (10) bekezdését, 34. § (7) bekezdését, valamint 35. § (7) bekezdését a 33/2024. (V. 30.)AM rendelet hatálybalépésekor[^124] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^122]: A 41. §-t a 33/2024. (V. 30.) AM rendelet 48. §-a iktatta be.
-[^123]: A hatálybalépés időpontja 2024. május 31.
+[^123]: A 41. §-t a 33/2024. (V. 30.) AM rendelet 48. §-a iktatta be.
+[^124]: A hatálybalépés időpontja 2024. május 31.

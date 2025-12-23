@@ -1,4 +1,4 @@
-## 21a.[^87] Őshonos haszonállatokkal történő emelt szintű legeltetés
+## 21a.[^88] Őshonos haszonállatokkal történő emelt szintű legeltetés
 
 28/A. § (1) A gyakorlat14a keretében a mezőgazdasági termelőnek a legeltetési időszakban folyamatosan legeltetést kell folytatnia saját állatállománnyal a mezőgazdasági üzem adott földhasználati kategóriába tartozó gyepterülete legalább 70%-án.
 
@@ -22,4 +22,4 @@ a) a gyakorlat14a teljesítésébe bevont táblákat és
 
 b) a gyakorlat14a teljesítésébe bevont táblánként a legeltetni tervezett állatfajokat.
 
-[^87]: A 21a. alcímet (28/A–28/B. §-t) az 5/2025. (IV. 3.) AM rendelet 43. §-a iktatta be.
+[^88]: A 21a. alcímet (28/A–28/B. §-t) az 5/2025. (IV. 3.) AM rendelet 43. §-a iktatta be.

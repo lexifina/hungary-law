@@ -22,10 +22,10 @@ a) a mezőgazdasági termelő a gyakorlat15-tel érintett gyep hasznosítású t
 
 b) a mezőgazdasági termelő nem teljesítette az (5) bekezdésben foglalt feltételt, vagy a mobilGazda alkalmazás segítségével készített georeferált fénykép nem a mezőgazdasági termelő valamely, a gyakorlattal érintett területén készült, vagy a kaszált terület és a tarlómagasság nem jól látható;
 
-c)[^90] a mezőgazdasági termelő a gyakorlat15 teljesítéséhez szükséges kaszálást nem teljesítette a gyakorlattal érintett földhasználati kategória valamennyi gyeptáblája esetében, azzal, hogy a nem teljesített terület eléri vagy meghaladja a gyakorlat15-tel érintett teljes terület 3%-át;
+c)[^91] a mezőgazdasági termelő a gyakorlat15 teljesítéséhez szükséges kaszálást nem teljesítette a gyakorlattal érintett földhasználati kategória valamennyi gyeptáblája esetében, azzal, hogy a nem teljesített terület eléri vagy meghaladja a gyakorlat15-tel érintett teljes terület 3%-át;
 
 d) a gyakorlattal érintett földhasználati kategória területén bármelyik kaszálás során 10 cm-nél alacsonyabb tarlót hagyott a mezőgazdasági termelő; vagy
 
 e) a mezőgazdasági termelő a gyakorlat12-t is választotta.
 
-[^90]: A 29. § (7) bekezdés c) pontja a 41/2025. (IX. 11.) AM rendelet 14. §-ával megállapított szöveg.
+[^91]: A 29. § (7) bekezdés c) pontja a 41/2025. (IX. 11.) AM rendelet 14. §-ával megállapított szöveg.

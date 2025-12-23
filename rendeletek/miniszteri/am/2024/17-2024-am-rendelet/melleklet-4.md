@@ -112,8 +112,8 @@
 
 | 56. | Örménygyökér | Inula helenium |
 
-4. melléklet a 17/2024. (IV. 9.) AM rendelethez[^132]
+4. melléklet a 17/2024. (IV. 9.) AM rendelethez[^134]
 
 Választható gyakorlatok pontozási rendszere
 
-[^132]: A 4. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (4) bekezdésével megállapított szöveg.
+[^134]: A 4. melléklet az 5/2025. (IV. 3.) AM rendelet 47. § (4) bekezdésével megállapított szöveg.

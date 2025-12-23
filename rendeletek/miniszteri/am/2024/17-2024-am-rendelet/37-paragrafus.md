@@ -20,9 +20,9 @@ b) keverék lehet, amelynek minden komponense a 10. melléklet szerinti növény
 
 (6) A gyakorlat22 esetében a sorköztakaró évelő növényeknek vagy gyepnek a tárgyév teljes egészében a területen kell lennie. Ez alól kivételt csak a telepítés éve jelent, amikor az állandó kultúra és a sorköztakaró növény telepítése május 1-ig megtörténik.
 
-(6a)[^108] A sorköztakaró évelő növény vagy gyep felújítása céljából, a szükséges talajelőkészítő munkálatok erejéig tárgyévben legfeljebb 30 napig lehet mentesülni a takarónövényzet jelenlétére vonatkozó követelmény alól.
+(6a)[^109] A sorköztakaró évelő növény vagy gyep felújítása céljából, a szükséges talajelőkészítő munkálatok erejéig tárgyévben legfeljebb 30 napig lehet mentesülni a takarónövényzet jelenlétére vonatkozó követelmény alól.
 
-(6b)[^109] A (6a) bekezdés alkalmazása esetén a sorköztakaró évelő növény vagy gyep felújításához szükséges talajelőkészítő munka kezdeti időpontját agrotechnikai műveletként be kell jelenteni.
+(6b)[^110] A (6a) bekezdés alkalmazása esetén a sorköztakaró évelő növény vagy gyep felújításához szükséges talajelőkészítő munka kezdeti időpontját agrotechnikai műveletként be kell jelenteni.
 
 (7) A gyakorlat22-t nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy
 
@@ -30,10 +30,10 @@ a) a gyakorlat22-vel érintett állandó kultúra vonatkozásában a sorköztaka
 
 b) a sorköztakaró növény vagy magkeverék nem felel meg az (5) bekezdésben foglaltaknak;
 
-c)[^110] a sorköztakaró növény – a telepítés évét kivéve – nem található a területen egész évben, azzal, hogy a nem teljesítéssel érintett terület eléri vagy meghaladja a gyakorlat22-vel érintett teljes terület 3%-át; vagy
+c)[^111] a sorköztakaró növény – a telepítés évét kivéve – nem található a területen egész évben, azzal, hogy a nem teljesítéssel érintett terület eléri vagy meghaladja a gyakorlat22-vel érintett teljes terület 3%-át; vagy
 
 d) az egységes kérelem felületen a mezőgazdasági termelő nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be a sorköztakarás módját, valamint az agrotechnikai műveleteket.
 
-[^108]: A 37. § (6a) bekezdését az 5/2025. (IV. 3.) AM rendelet 46. §-a iktatta be.
-[^109]: A 37. § (6b) bekezdését az 5/2025. (IV. 3.) AM rendelet 46. §-a iktatta be.
-[^110]: A 37. § (7) bekezdés c) pontja a 41/2025. (IX. 11.) AM rendelet 16. §-ával megállapított szöveg.
+[^109]: A 37. § (6a) bekezdését az 5/2025. (IV. 3.) AM rendelet 46. §-a iktatta be.
+[^110]: A 37. § (6b) bekezdését az 5/2025. (IV. 3.) AM rendelet 46. §-a iktatta be.
+[^111]: A 37. § (7) bekezdés c) pontja a 41/2025. (IX. 11.) AM rendelet 16. §-ával megállapított szöveg.

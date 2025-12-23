@@ -4,17 +4,17 @@
 
 a) a szakaszos legeltetéssel hasznosított területen kialakított bármely legelőszakaszon megszakítás nélkül 12 napot meghaladó ideig történt legeltetés;
 
-b)[^74] a tábla legeltetéssel kapcsolatos adatait nem vagy nem megfelelően rögzítette a mezőgazdasági termelő a legeltetési napló betétlapján, vagy a legeltetést nem a gyakorlat teljesítésébe bevont táblán valósította meg; vagy
+b)[^75] a tábla legeltetéssel kapcsolatos adatait nem vagy nem megfelelően rögzítette a mezőgazdasági termelő a legeltetési napló betétlapján, vagy a legeltetést nem a gyakorlat teljesítésébe bevont táblán valósította meg; vagy
 
 c) pásztoroló legeltetéssel hasznosított terület esetében a legeltetett állatot nem felügyeli pásztor.
 
 (3) A gyakorlat11-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy
 
-a)[^75] a gyakorlat11 teljesítésével érintett terület nem éri el a mezőgazdasági üzem gyepterületének 48,5%-át;
+a)[^76] a gyakorlat11 teljesítésével érintett terület nem éri el a mezőgazdasági üzem gyepterületének 48,5%-át;
 
 b) a gyakorlat11-gyel érintett területhez képest a bejelentett legeltethető állategyedek száma nem éri el hektáronként a 0,2 állategység állatállományt a legeltetési időszakban; vagy
 
 c) a mezőgazdasági termelő nem rendelkezik a gyakorlat11-gyel érintett teljes területre vonatkozó legeltetési napló betétlappal.
 
-[^74]: A 24. § (2) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 9. §-ával megállapított szöveg.
-[^75]: A 24. § (3) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 12. pontja szerint módosított szöveg.
+[^75]: A 24. § (2) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 9. §-ával megállapított szöveg.
+[^76]: A 24. § (3) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 12. pontja szerint módosított szöveg.

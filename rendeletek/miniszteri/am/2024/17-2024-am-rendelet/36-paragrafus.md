@@ -28,7 +28,7 @@ b) egyéves növény esetén agrotechnikai műveletként az elvetett sorköztaka
 
 a) a gyakorlat21-gyel érintett táblák között van olyan, amely nem felel meg a (3) bekezdésben meghatározottaknak;
 
-b)[^107] az előírt időszakban nem vagy nem a megfelelő mértékben található meg valamely táblán a mulcs vagy az egységes kérelemben bejelentett takarónövény, azzal, hogy a nem teljesített terület eléri vagy meghaladja a gyakorlat21-gyel érintett teljes terület 3%-át;
+b)[^108] az előírt időszakban nem vagy nem a megfelelő mértékben található meg valamely táblán a mulcs vagy az egységes kérelemben bejelentett takarónövény, azzal, hogy a nem teljesített terület eléri vagy meghaladja a gyakorlat21-gyel érintett teljes terület 3%-át;
 
 c) a gyakorlat21-gyel érintett valamely állandó kultúra földhasználati kategóriájú tábla esetében a mezőgazdasági termelő nem vagy nem az Egységes kérelem rendeletben meghatározottak szerint jelentette be agrotechnikai műveletként a szükséges adatokat;
 
@@ -36,4 +36,4 @@ d) mulcsozás esetén az nem felel meg a (6) bekezdésben foglaltaknak; vagy
 
 e) nem egyéves sorköztakaró növénnyel valósult meg a talajtakarás.
 
-[^107]: A 36. § (9) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 15. §-ával megállapított szöveg.
+[^108]: A 36. § (9) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 15. §-ával megállapított szöveg.

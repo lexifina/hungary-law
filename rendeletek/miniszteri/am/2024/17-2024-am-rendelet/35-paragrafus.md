@@ -34,7 +34,7 @@ c) a felhasznált mennyiséget és a felhasználhatósági időt igazoló kísé
 
 (6) Az (5) bekezdés szerinti igazoló dokumentumokat a mezőgazdasági termelőnek a KAP Vhr. 19. §-a szerint kell megőriznie, amelyeket a Kincstár helyszíni vizsgálat keretében jogosult ellenőrizni.
 
-(7)[^103] A gyakorlat20 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
+(7)[^104] A gyakorlat20 nem teljesíthető olyan táblán, ahol az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt a tábla területének több mint 15 százaléka nem kezelhető.
 
 (8) A gyakorlat20-at nem teljesítettnek kell tekinteni a gyakorlat20-al érintett tábla vonatkozásában, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
@@ -50,15 +50,15 @@ c) a táblán nem juttatott ki kondicionálót.
 
 (9) A gyakorlat20-at nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
-a)[^104] az egyéb állandó kultúra terület legalább 48,5%-án nem használt, vagy nem a (2)–(6) bekezdésben leírtaknak megfelelően használt kondicionálót;
+a)[^105] az egyéb állandó kultúra terület legalább 48,5%-án nem használt, vagy nem a (2)–(6) bekezdésben leírtaknak megfelelően használt kondicionálót;
 
-b)[^105] nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agrotechnikai műveletként a kondicionáló alkalmazását az egyéb állandó kultúra területnek a gyakorlat20 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat20 teljesítéséhez szükséges egyéb állandó kultúra terület 48,5%-án;
+b)[^106] nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agrotechnikai műveletként a kondicionáló alkalmazását az egyéb állandó kultúra területnek a gyakorlat20 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat20 teljesítéséhez szükséges egyéb állandó kultúra terület 48,5%-án;
 
 c) az egységes kérelemben nem jelentette be, hogy mely tábla vonatkozásában kívánja teljesíteni a gyakorlat20-at; vagy
 
-d)[^106] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
+d)[^107] által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított termésnövelő anyagok vízvédelmi sávja vagy sávjai miatt.
 
-[^103]: A 35. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^104]: A 35. § (9) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.
-[^105]: A 35. § (9) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.
-[^106]: A 35. § (9) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 45. § (2) bekezdésével megállapított szöveg.
+[^104]: A 35. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^105]: A 35. § (9) bekezdés a) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.
+[^106]: A 35. § (9) bekezdés b) pontja a 41/2025. (IX. 11.) AM rendelet 18. § 15. pontja szerint módosított szöveg.
+[^107]: A 35. § (9) bekezdés d) pontja az 5/2025. (IV. 3.) AM rendelet 45. § (2) bekezdésével megállapított szöveg.
