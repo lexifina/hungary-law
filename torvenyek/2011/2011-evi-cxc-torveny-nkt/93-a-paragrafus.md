@@ -14,6 +14,8 @@ a) tankönyvvé nyilvánításával és a tankönyvjegyzékre történő felvét
 
 b) fejlesztésével és kiadásával kapcsolatos feladatokat az állami tankönyvfejlesztésért és -kiadásért felelős szerv működtetésével,
 
-c) előállításával, valamint az iskolai tankönyvrendelés lebonyolításával kapcsolatos feladatokat a Kormány rendeletében kijelölt, az állam százszázalékos tulajdonában álló, nonprofit gazdasági társaság (a továbbiakban: könyvtárellátó), illetve a Kormány rendeletében kijelölt gazdasági társaság – amelyben a könyvtárellátó mint tag legalább minősített többségű befolyással rendelkezik – közreműködésével
+c)
 
-látja el.
+(4) Az iskolai tankönyvrendelés lebonyolításával, illetve az iskolában alkalmazott tankönyvek előállításával, terjesztésével kapcsolatos feladatokat – a hit- és erkölcstanoktatás tekintetében a miniszter rendeletében meghatározott kivétellel – a Kormány rendeletében kijelölt, az állam százszázalékos tulajdonában álló, nonprofit gazdasági társaság (a továbbiakban: könyvtárellátó) látja el.
+
+(5) A díszpéldány, valamint a díszpéldányok tárolására szolgáló tartótok előállítását és terjesztését a könyvtárellátó látja el.

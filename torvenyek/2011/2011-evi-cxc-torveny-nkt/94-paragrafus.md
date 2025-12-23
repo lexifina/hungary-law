@@ -150,7 +150,7 @@ d) a tankönyvvé nyilvánítási eljárással összefüggésben a felügyeleti 
 
 rendeletben határozza meg.
 
-(4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt, illetve a könyvtárellátó tankönyv-előállítási feladataiban közreműködő, a 93/A. § (3) bekezdés c) pontjában foglaltaknak megfelelő gazdasági társaságot rendeletben jelölje ki.
+(4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt rendeletben jelölje ki.
 
 (4g) Felhatalmazást kap a Kormány, hogy
 
