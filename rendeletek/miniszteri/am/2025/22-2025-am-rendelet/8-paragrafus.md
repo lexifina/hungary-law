@@ -4,10 +4,10 @@
 
 (2) A hiányosan benyújtott kérelem esetén a Kincstár a kedvezményezettet – nyolcnapos határidő tűzésével – hiánypótlásra szólítja fel.
 
-(3)[^2] A támogatási döntés meghozatalára legkésőbb 2025. november 30. napjáig, a támogatás folyósítására legkésőbb 2025. december 15. napjáig kerül sor.
+(3)[^3] A támogatási döntés meghozatalára legkésőbb 2025. november 30. napjáig, a támogatás folyósítására legkésőbb 2025. december 15. napjáig kerül sor.
 
 (4) Az 1408/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében meghatározott értékhatárt meghaladó támogatási igény elutasításra kerül.
 
 (5) A támogatás összegét a kérelembenyújtási időszak első napján érvényes, az Európai Központi Bank által közzétett forint–euró átváltási árfolyam alapján kell euróban meghatározni.
 
-[^2]: A 8. § (3) bekezdése a 42/2025. (IX. 30.) AM rendelet 13. § b) pontja szerint módosított szöveg.
+[^3]: A 8. § (3) bekezdése a 42/2025. (IX. 30.) AM rendelet 13. § b) pontja szerint módosított szöveg.

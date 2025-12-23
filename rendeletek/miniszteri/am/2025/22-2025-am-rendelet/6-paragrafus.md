@@ -22,8 +22,10 @@ cb) a támogatási időszak alatt a jogosult települések egyikén sem igényel
 
 cc) a támogatási időszak alatt Magyarország területén nem igényel saját nevében vagy egy és ugyanazon vállalkozásnak minősülő másik vállalkozás számára új tenyészetkódot víziszárnyas fajokra, és
 
-d) a tartási helyen a tenyészet megszüntetését a támogatás folyósítását követő 60 napon belül bejelenti a tenyésztési hatóság részére.
+d)[^2] a tartási helyen a tenyészet megszüntetését 2025. december 31-ig bejelenti a tenyésztési hatóság részére.
 
 (3) A kérelem kizárólag a TIR-ben legalább egy éve bejelentett tartási helyre és tenyészetre nyújtható be, amelyre a kedvezményezett a kérelem benyújtását megelőzően 2024. május 1-jét követően betelepítési engedélyt kapott a vármegyei kormányhivataltól, vagy ugyanezen időszakban a betelepítési engedély elutasítása valamely járványügyi korlátozó intézkedésre vezethető vissza.
 
 (4) A támogatás nem vehető igénybe tenyészállatot tartó víziszárnyas telep után.
+
+[^2]: A 6. § (2) bekezdés d) pontja az 58/2025. (XII. 22.) AM rendelet 11. §-a szerint módosított szöveg.
