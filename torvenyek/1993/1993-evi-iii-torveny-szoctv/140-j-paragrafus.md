@@ -1,1 +1,0 @@
-140/J. § A 2012. január 1-jét megelőző időponttól megállapított foglalkoztatást helyettesítő támogatás esetében első alkalommal a 2012. január hónapra járó, február hónapban folyósított ellátást kell a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 35. § (4) bekezdés szerinti összegben folyósítani.
