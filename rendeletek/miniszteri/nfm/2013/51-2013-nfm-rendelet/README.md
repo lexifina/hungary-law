@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-51-20-2
 | 2018-07-13 | 2013-51-20-2W.9 | 4/2018. (VII. 5.) ITM rendelet |
 | 2022-06-25 | 2013-51-20-2W.10 | 4/2018. (VII. 5.) ITM rendelet |
 | 2023-01-01 | 2013-51-20-2W.11 | 1/2017. (I. 3.) NFM rendelet |
+| 2025-12-23 | 2013-51-20-2W.12 | 38/2025. (XII. 22.) ÉKM rendelet |

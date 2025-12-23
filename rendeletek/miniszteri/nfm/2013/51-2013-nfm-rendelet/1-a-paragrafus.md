@@ -1,4 +1,4 @@
-1/A. §[^3] (1) E rendelet alkalmazásában:
+1/A. §[^4] (1) E rendelet alkalmazásában:
 
 1. radioaktív anyag belvízi szállítása: a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 177/2017. (VII. 5.) Korm. rendelet 2. melléklet (a továbbiakban: ADN Szabályzat) 7. osztályába tartozó áruk és anyagok belvízen történő árutovábbítása;
 
@@ -10,4 +10,4 @@
 
 5. saját számlás közúti szállítás: árunak vagy más radioaktív anyagnak gazdálkodó szervezet által közúton végzett szállítása, ha a szállított áru vagy más radioaktív anyag a szállítást végző tulajdona vagy birtoka, valamint azt a szállítást végző megvette, eladta, bérbe vette, bérbe adta, vagy az a szállítást végző által előállított, kinyert, feldolgozásra, javításra átvett, feldolgozott, javított dolog, és a szállítás célja az árunak vagy más dolognak a szállítást végzőhöz beszállítása vagy a szállítást végzőtől való elszállítása, a szállítást végző saját céljaira, és a szállítást végző által üzemben tartott vagy bérelt tehergépjárművel végzik a szállítást.
 
-[^3]: Az 1/A. §-t a 4/2018. (VII. 5.) ITM rendelet 9. § (2) bekezdése iktatta be.
+[^4]: Az 1/A. §-t a 4/2018. (VII. 5.) ITM rendelet 9. § (2) bekezdése iktatta be.

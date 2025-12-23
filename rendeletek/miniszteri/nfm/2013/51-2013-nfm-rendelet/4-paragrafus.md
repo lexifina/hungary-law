@@ -1,3 +1,3 @@
-4. §[^11]
+4. §[^12]
 
-[^11]: A 4. §-t az 52/2017. (XII. 22.) NFM rendelet 30. § c) pontja hatályon kívül helyezte.
+[^12]: A 4. §-t az 52/2017. (XII. 22.) NFM rendelet 30. § c) pontja hatályon kívül helyezte.
