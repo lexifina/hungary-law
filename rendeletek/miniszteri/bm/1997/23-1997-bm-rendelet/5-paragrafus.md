@@ -2,7 +2,7 @@
 
 ## Az eljárás felfüggesztése
 
-5. §[^15] (1) Az állományilletékes parancsnok – az eljárás alá vont személy egyidejű értesítése mellett – az eljárást felfüggeszti:
+5. §[^16] (1) Az állományilletékes parancsnok – az eljárás alá vont személy egyidejű értesítése mellett – az eljárást felfüggeszti:
 
 a) ha az eljárás alá vont személlyel szemben a kártérítési üggyel összefüggésben büntető-, szabálysértési vagy fegyelmi eljárás indult, annak jogerős elbírálásáig,
 
@@ -16,9 +16,9 @@ a) ha a kártérítés elbírálása olyan előzetes kérdéstől függ, amelyne
 
 b) az eljárás alá vont személy tartós távolléte, illetve egészségügyi szabadsága esetén a körülmény megszűnéséig,
 
-c)[^16] ha a rendvédelmi feladatokat ellátó szerv a bekövetkezett káreseményre is kiterjedő biztosítással rendelkezik vagy a megrongálódott dolog értékesítése valószínűsíthető, a biztosító kártérítési ajánlatának kézhezvételéig vagy a dolog értékesítéséig, de legfeljebb hat hónapi időtartamra.
+c)[^17] ha a rendvédelmi feladatokat ellátó szerv a bekövetkezett káreseményre is kiterjedő biztosítással rendelkezik vagy a megrongálódott dolog értékesítése valószínűsíthető, a biztosító kártérítési ajánlatának kézhezvételéig vagy a dolog értékesítéséig, de legfeljebb hat hónapi időtartamra.
 
 (4) A felfüggesztés tartama az elintézési határidőbe nem számít be.
 
-[^15]: Az 5. § a 34/2014. (IV. 24.) BM rendelet 2. §-ával megállapított szöveg.
-[^16]: Az 5. § (3) bekezdés c) pontját a 37/2015. (VI. 16.) BM rendelet 6. §-a iktatta be.
+[^16]: Az 5. § a 34/2014. (IV. 24.) BM rendelet 2. §-ával megállapított szöveg.
+[^17]: Az 5. § (3) bekezdés c) pontját a 37/2015. (VI. 16.) BM rendelet 6. §-a iktatta be.

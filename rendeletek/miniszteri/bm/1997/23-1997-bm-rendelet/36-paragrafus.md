@@ -1,4 +1,4 @@
-36. § (1)[^53] Amennyiben az állományilletékes parancsnok a kártérítési igényt a 31. § (2)–(3) bekezdése szerint nem teljesítheti, az igénybejelentést a hozzá csatolt bizonyítékokkal együtt indokolt javaslata kíséretében legkésőbb nyolc napon belül a rendvédelmi feladatokat ellátó szerv országos parancsnoka részére felterjeszti határozat meghozatala végett.
+36. § (1)[^54] Amennyiben az állományilletékes parancsnok a kártérítési igényt a 31. § (2)–(3) bekezdése szerint nem teljesítheti, az igénybejelentést a hozzá csatolt bizonyítékokkal együtt indokolt javaslata kíséretében legkésőbb nyolc napon belül a rendvédelmi feladatokat ellátó szerv országos parancsnoka részére felterjeszti határozat meghozatala végett.
 
 (2) Az indokolt javaslatban az állományilletékes parancsnoknak elsősorban a tényállásra, a felelősségre (az esetleges közrehatásra) és az egyes követelések ténybeli, összegbeli megalapozottságára vonatkozóan kell nyilatkoznia. Ha a károsult vétkes közrehatása megállapítható, a közrehatás mértékéről, továbbá a megsértett szabályokról is nyilatkoznia kell.
 
@@ -18,4 +18,4 @@ f) a kár összegszerűségére vonatkozó bizonyítékokat;
 
 g) a szerv vezetőjének indokolt javaslatát.
 
-[^53]: A 36. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (2) bekezdése, a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^54]: A 36. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (2) bekezdése, a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
