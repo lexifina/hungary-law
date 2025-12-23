@@ -1,1 +1,15 @@
-17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Nemzeti Információs Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés, elemzés-értékelés, valamint hírigény teljesítése céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
+17/A. § A légiközlekedési hatóság által e törvény szerint
+
+a) repülőeszközökről és a pilóta nélküli légijármű-rendszerekről, valamint pilóta nélküli légijármű-rendszer üzembentartókról,
+
+b) lajstromról,
+
+c) bejelentéshez kötött képzési tevékenységekről,
+
+d) tanúsított vizsgáztatókról,
+
+e) kiadott szakszolgálati engedélyekről, valamint
+
+f) üzembentartási engedélyekről,
+
+vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik ellátása céljából a polgári nemzetbiztonsági szolgálat, valamint terrormegelőzési célból a terrorizmust elhárító szerv közvetlen adathozzáféréssel átveheti.

@@ -20,6 +20,8 @@ i) a pilóta nélküli állami légijárművek nyilvántartásának, gyártásá
 
 j) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait,.
 
-k) az önkéntes jelentési rendszer és bizottság működési szabályait, valamint az ehhez kapcsolódó igazgatási megállapodások megkötésével összefüggő szabályokat
+k) a 376/2014/EU európai parlamenti és tanácsi 16. cikk (12) bekezdésével összhangban létrehozott bizottság működésével, valamint a 376/2014/EU európai parlamenti és tanácsi rendelet 15. cikk (4) bekezdésben szereplő előzetes igazgatási megállapodással összefüggő szabályokat,
+
+l) a repülésbiztonsági szervezetek működésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.

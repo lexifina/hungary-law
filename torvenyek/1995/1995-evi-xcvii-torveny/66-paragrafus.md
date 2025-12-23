@@ -8,7 +8,7 @@
 
 (5)
 
-(6) A Repülésbiztonság-irányítási Rendszer működését a légiközlekedési hatóság ellenőrzi. Ennek keretében a légiközlekedési hatóság jogosult a kiadott engedélyek felfüggesztésére vagy visszavonására.
+(6) A Repülésbiztonság-irányítási Rendszer működésének ellenőrzését, valamint a repülésbiztonsági szervezet felügyeletét a légiközlekedési hatóság végzi. Ennek keretében a légiközlekedési hatóság jogosult a kiadott engedélyek felfüggesztésére, visszavonására, valamint az engedélyezett tevékenységek korlátozására.
 
 (7) A légiközlekedési hatóság a közlekedésbiztonsági szervvel együttműködve végzi el a 376/2014/EU európai parlamenti és tanácsi rendelet 13. cikk (6) bekezdésében meghatározott események elemzését.
 

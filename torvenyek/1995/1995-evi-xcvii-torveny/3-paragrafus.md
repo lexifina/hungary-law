@@ -56,6 +56,8 @@ p) az állami repülések céljára szolgáló repülőtér és a közös felhas
 
 q) a légiközlekedési szakszemélyzet repülőorvosi minősítésének másodlagos felülvizsgálati eljárása.
 
+r) az (EU) 2019/947 bizottsági végrehajtási rendelet szerinti műveleti engedély, könnyű UAS-üzembentartói tanúsítvány, légijármű-modellező klubok vagy egyesületek keretében végrehajtott UAS-műveletekre vonatkozó engedélyek jóváhagyása, módosítása.
+
 (2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
 (2d) Az ügyintézési határidő 150 nap

@@ -6,7 +6,7 @@ a) neve: HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő 
 
 b) székhelye: H-1185 Budapest, Igló u. 33–35.;
 
-c) alapítója és egyedüli részvényese: a Magyar Állam;
+c) 100%-os állami tulajdonban áll vagy az állam 100%-os tulajdonában álló gazdasági társaság 100%-os tulajdonában áll.
 
 d)
 

@@ -60,6 +60,8 @@
 
 30. az egységes európai égbolt végrehajtásáról szóló 2024. október 23-i, (EU) 2024/2803 európai parlamenti és tanácsi rendelet.
 
+31. az (EU) 2018/1139 európai parlamenti és tanácsi rendeletnek az 1321/2014/EU, a 965/2012/EU, az 1178/2011/EU és az (EU) 2015/340 bizottsági rendelet, továbbá az (EU) 2017/373 és az (EU) 2021/664 bizottsági végrehajtási rendelet hatálya alá tartozó szervezetek, valamint a 748/2012/EU, az 1321/2014/EU, a 965/2012/EU, az 1178/2011/EU, az (EU) 2015/340 és a 139/2014/EU bizottsági rendelet, továbbá az (EU) 2017/373 és az (EU) 2021/664 bizottsági végrehajtási rendelet hatálya alá tartozó illetékes hatóságok tekintetében a repülésbiztonságra potenciálisan hatást gyakorló információbiztonsági kockázatok kezelésére vonatkozó követelmények tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az 1178/2011/EU, a 748/2012/EU, a 965/2012/EU, a 139/2014/EU, az 1321/2014/EU és az (EU) 2015/340 bizottsági rendelet, továbbá az (EU) 2017/373 és az (EU) 2021/664 bizottsági végrehajtási rendelet módosításáról szóló, 2022. október 27-i, (EU) 2023/203 bizottsági végrehajtási rendelet.
+
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 96/67/EGK irányelve (1996. október 15.) a közösségi repülőterek földi kiszolgálási piacára való bejutásról – a földi kiszolgálás feltételeiről és engedélyezésének rendjéről szóló 7/2002. (I. 28.) KöViM rendelettel együtt;
