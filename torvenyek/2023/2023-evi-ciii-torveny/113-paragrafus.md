@@ -88,6 +88,6 @@
 
 11. a hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat,
 
-12. az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat,
+12. az aggregátum szolgáltatás nyújtására, a szolgáltatáshoz történő csatlakozásra, a csatlakozás és a szolgáltatás igénybevétele során igénybe vehető szakértői szolgáltatásra és annak díjára, valamint a csatlakozó szervek nyilvántartásának vezetésére vonatkozó szabályokat,
 
 13. az európai digitális személyiadat-tárca felügyelet feladatának részletszabályait.

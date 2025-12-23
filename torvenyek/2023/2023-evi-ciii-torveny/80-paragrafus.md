@@ -40,7 +40,7 @@ gazdálkodó szervezet.
 
 (3) Az (1) bekezdés a) b), d), f) és g) pontja szerinti gazdálkodó szervezet, amelynek számlakibocsátása nem éri el a (2) bekezdésben meghatározott küszöböt, a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 
-(4) Az (1) bekezdés i)–n) pontja szerinti gazdálkodó szervezet a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
+(4) Az (1) bekezdés i)–n) pontja szerinti gazdálkodó szervezet a saját szolgáltatásai nyújtása során – azonos funkciót betöltő szolgáltatása mellett vagy helyett – a HARMADIK és a NEGYEDIK Résztől eltérően, kizárólag az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 
 (5) Arra az (1) bekezdés c), e) és h) pontja szerinti gazdálkodó szervezetre, amelynek szolgáltatásait a tárgyévet megelőző évben legalább 50 000 természetes személy felhasználó vette igénybe, a 9. § (2) bekezdése szerinti jogalanyokra vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a keretszolgáltatások közül az 52. § (1) bekezdés a) és b) pontja szerinti keretszolgáltatásokat köteles biztosítani.
 

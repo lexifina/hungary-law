@@ -6,9 +6,9 @@
 
 3. a nem a Kormány irányítása vagy felügyelete alá tartozó közfeladatot ellátó szerv által igénybe vett központosított informatikai és hírközlési szolgáltatások, a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszereket, a kormányzati célú hálózatok és hálózati szolgáltatások igénybevételének szabályait.
 
-4. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet és az önkéntesen csatlakozott szervezet által fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját,
+4. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet által fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját,
 
-5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.
+5. az adópolitikáért felelős miniszterrel egyetértésben a digitális szolgáltatás biztosítására kötelezett szervezet, a digitális szolgáltatás biztosítására kötelezett szervezetnek nem minősülő piaci szereplő és az önkéntesen csatlakozott szervezet számára az aktivált felhasználói profillal rendelkező felhasználó adatainak és adatváltozásainak az aggregátum szolgáltatás keretében történő rendelkezésre bocsátásáért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.
 
 (2) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben állapítsa meg
 

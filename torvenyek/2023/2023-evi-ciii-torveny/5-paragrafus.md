@@ -2,7 +2,7 @@
 
 (1a) A digitális állampolgárság szolgáltató, valamint az életesemény-alapú szolgáltatás szolgáltatója az e törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletekben foglalt közfeladatai ellátása körében az (1) bekezdés szerinti nyilvántartásokból és szakrendszerekből szolgáltatott adatokért fizetendő igazgatási szolgáltatási és más díj megfizetése alól mentesül.
 
-(1b) A digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója a keretszolgáltatásokat és a támogató szolgáltatásokat az általa nyújtott szolgáltatások nyújtásához díjmentesen igénybe veheti.
+(1b) A digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója, valamint a támogató szolgáltatás nyújtója a keretszolgáltatásokat és a támogató szolgáltatásokat az általa nyújtott szolgáltatások nyújtásához díjmentesen igénybe veheti.
 
 (1c) Az aggregátum szolgáltatás a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 47. pontja szerinti hiteles forrásnak minősül.
 

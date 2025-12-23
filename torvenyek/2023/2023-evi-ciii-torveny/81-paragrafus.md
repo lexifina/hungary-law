@@ -25,3 +25,5 @@ e) igazgatási szolgáltatási díj megfizetése a digitális állampolgárság 
 (8) A digitális szolgáltatás biztosítására kötelezett szervezet az (1)–(7) bekezdésben foglalt feltételek betartásával folyamatosan, a szolgáltatásnyújtás teljes időtartama alatt biztosítja a keretszolgáltatások követelményeinek teljesítését. A feltételek folyamatos biztosításának módját és azok igazolását a Kormány rendeletben határozza meg.
 
 (9) A digitális szolgáltatás biztosítására kötelezett szervezet a felhasználó számára ellenszolgáltatás és további díj felszámítása nélkül biztosítja a keretszolgáltatások igénybevételét.
+
+(10) A 80. § (1) bekezdése szerinti szervezetek számára a digitális állampolgárság szolgáltató a keretszolgáltatásokhoz kapcsolódó csatlakozás és szolgáltatás igénybevétele során szakértői szolgáltatást nyújthat. A szakértői szolgáltatás és a díj megállapításának részletszabályait a Kormány rendeletben határozza meg.

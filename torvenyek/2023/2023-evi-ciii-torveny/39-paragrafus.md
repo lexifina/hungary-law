@@ -42,6 +42,6 @@ a) az azonos hatáskörű szervek közül kijelölheti azt a digitális szolgál
 
 b) rendelkezhet úgy, hogy elektronikus ügyintézés esetén az azonos hatáskörű szervek mindegyike országos illetékességgel jár el és az ügyek elosztása objektív szempontok szerint, automatikusan történik meg.
 
-(6) Az állam a (2) bekezdés szerinti digitális szolgáltatást biztosító információs rendszer működtetéséhez szükséges, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat a 9. § (2) bekezdés szerinti szerveknek díjmentesen biztosítja.
+(6) Az állam a (2) bekezdés szerinti digitális szolgáltatást biztosító információs rendszer működtetéséhez szükséges, keretszolgáltatásokat és támogató szolgáltatásokat a 9. § (2) bekezdés szerinti szerveknek díjmentesen biztosítja.
 
 (7) A Kormány rendeletében meghatározott digitális szolgáltatást biztosító szervezetek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott információs rendszerekről, nyilvántartásokól és adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.
