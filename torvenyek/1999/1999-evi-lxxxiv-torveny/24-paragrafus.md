@@ -8,7 +8,7 @@ a) az engedély vagy a járműokmány típusára, okmányazonosító jelére, ki
 
 b) az abban feltüntetett adatok nyilvántartásban való ellenőrzésére irányul. Az adatszolgáltatás azonban csak az adatok egyezőségének, illetve eltérésének tényét, továbbá az eltérő adat fajtájának megnevezését tartalmazza;
 
-c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
+c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, motorszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
 
 d) a járműnek a járműnyilvántartásba bejegyzett érvényes forgalmazási korlátozás tényének ellenőrzésére irányul,
 
@@ -75,6 +75,8 @@ vonatkozó adatairól.
 (3d) A nyilvántartó a 9. § (1), (2) és (4) bekezdésben, a 9/A. § (1) bekezdés e) pontjában, valamint a 9/B. § (1) bekezdés h) pontjában meghatározott adatok térítésmentes, informatikai adatkapcsolat útján történő közvetlen átadását biztosítja a jármű tulajdonjogának és az üzembentartó személyének változását igazoló teljes bizonyító erejű magánokirat Automatikus Közigazgatási Döntéshozatali szolgáltatás igénybevételével történő létrehozásához szükséges ellenőrzéséhez és az automatikus döntéshozatali eljárás lefolytatásához.
 
 (3e) A nyilvántartó biztosítja a digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott szolgáltatásainak nyújtásához szükséges adatok informatikai adatkapcsolat útján történő közvetlen átadását.
+
+(3f) A nyilvántartó köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából, a feladatellátással érintett polgárok nyilvántartott adatainak változásáról és a nyilvántartott adatai változásának tényéről.
 
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 

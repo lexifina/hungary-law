@@ -1,6 +1,6 @@
 21. § A nyilvántartásból adatot igényelhet természetes és nem természetes személy (a továbbiakban: kérelmező):
 
-a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) alpontjában, a 8/A. § b)–c), e), i) pontjában meghatározott adatok kivételével;
+a) adatot és iratot jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) alpontjában, a 8/A. § b), c), e) és i) pontjában meghatározott adatok kivételével;
 
 b) tudományos kutatás céljából természetes személyazonosító és járműazonosító adatok kivételével;
 

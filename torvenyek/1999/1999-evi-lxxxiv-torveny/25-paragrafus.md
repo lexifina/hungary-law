@@ -6,4 +6,4 @@ b) egyéb esetekben személyazonosításra alkalmatlan módon
 
 statisztikai célra továbbíthatja.
 
-(2)
+(2) A nemzeti érdekeket szolgáló stratégiai programok, feladatok megvalósítása érdekében, statisztikai célra, személy- és egyedi azonosításra alkalmatlan módon a nyilvántartásból adat igényelhető.

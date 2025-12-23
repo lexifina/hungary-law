@@ -36,7 +36,7 @@ g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hi�
 
 h) a vizsgaközpont elektronikusan, haladéktalanul
 
-ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
+ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa) és ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
 
 hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
 

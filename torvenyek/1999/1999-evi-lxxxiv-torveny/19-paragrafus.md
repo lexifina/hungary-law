@@ -58,7 +58,7 @@ v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakáss
 
 w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 
-z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
+z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott és a tulajdonosváltozásra vonatkozó adatokat, valamint a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésében felsorolt adatokat.
 
 (1a) A KSH az (1) bekezdés o) pontja szerint átvett adatokat a statisztikai adat-előállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az adatoknak az adatigénylő által meghatározott célra történő és az ahhoz kapcsolódó feldolgozásának, felhasználásának lezárását követően a KSH az adatokat törli.
 
@@ -88,9 +88,9 @@ g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgázta
 
 h) a kereskedelmi hatóság az utazásszervezői tevékenységgel összefüggő eljárások és az azokkal kapcsolatos ellenőrzési feladatok ellátásához a 9. § (1) bekezdésében foglalt adatokat,
 
-i) a szociális hatóság a pénzbeli és természetbeni ellátások megállapításához a 9. § (1) bekezdésében foglalt adatokat,
+i)
 
-j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához a 9. § (1)–(1b) bekezdésében foglalt adatokat,
+j)
 
 k) a környezet- és természetvédelmi hatóság a környezetkárosítást végzők beazonosítása érdekében a 9. § (1) bekezdésében foglalt adatokat,
 
