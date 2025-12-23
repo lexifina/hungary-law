@@ -24,7 +24,7 @@
 
 | Felelős: | a Sándor-palota főigazgatója agrárminiszter építési és közlekedési miniszter külgazdasági és külügyminiszter nemzetgazdasági miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
 
-| Határidő: | 2025. december 31., a Fenntarthatósági és modernizációs vasúti fejlesztések előirányzat részére biztosított 2 000 000 000 forint tekintetében 2027. szeptember 30. |
+| Határidő: | 2025. december 31., a Fenntarthatósági és modernizációs vasúti fejlesztések előirányzat részére biztosított 2 000 000 000 forint tekintetében 2027. szeptember 30., az Országos közúthálózat felújítása előirányzat részére biztosított 11 406 840 000 forint tekintetében 2027. június 30., a Kulturális örökségvédelmi és egyéb feladatok jogcímcsoport részére biztosított 5 875 000 000 forint tekintetében 2028. június 30. |
 
 ## c) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 9 784 990 078 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -66,5 +66,5 @@
 
 1. melléklet az 1060/2025. (III. 13.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1379/2025. (X. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1379/2025. (X. 20.) Korm. határozat 2. pontja, az 1578/2025. (XII. 23.) Korm. határozat 2. pontja, az 1571/2025. (XII. 23.) Korm. határozat 6. pontja szerint módosított szöveg
 [^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
