@@ -1,5 +1,3 @@
-8. § Hatályát veszti a 13/2024. (VIII. 15.) SZTFH rendelet
+8. §[^9]
 
-a) 4. § (6) bekezdésében az „(a továbbiakban: előminősítés)” szövegrész,
-
-b) 4. § (7) bekezdésében az „az előminősítés keretében” szövegrész.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

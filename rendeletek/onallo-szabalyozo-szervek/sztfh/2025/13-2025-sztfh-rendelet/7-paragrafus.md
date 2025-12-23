@@ -1,3 +1,3 @@
-7. § (1) A 13/2024. (VIII. 15.) SZTFH rendelet 1. melléklete helyébe az 1. melléklet lép.
+7. §[^8]
 
-(2) A 13/2024. (VIII. 15.) SZTFH rendelet 2. melléklete helyébe a 2. melléklet lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
