@@ -30,9 +30,10 @@ m)[^5] standard kiválasztási eljárásrendben meghirdetett felhívásokra beny
 
 (2) Az (1) bekezdés szerinti feladatok elvégzését a KAP törvény 13. § (1) bekezdése szerinti integrált informatikai rendszerben kell rögzíteni.
 
-(3) A Nemzeti Irányító Hatóság a KAP Stratégiai Tervben szereplő intézkedések végrehajtása során a kedvezményezett által lefolytatott közbeszerzési eljárás támogathatósági, elszámolhatósági és műszaki szempontú ellenőrzését átruházhatja a vármegyei kormányhivatalokra.
+(3)[^6] A Nemzeti Irányító Hatóság a KAP Stratégiai Tervben szereplő intézkedések végrehajtása során a kedvezményezett által lefolytatott közbeszerzési eljárás támogathatósági, elszámolhatósági és műszaki szempontú ellenőrzését átruházhatja a vármegyei kormányhivatalokra, illetve a Nemzeti KAP-hálózat Vidék- és térségfejlesztési Támogató Egységére.
 
 [^2]: A 4. § (1) bekezdés a) pontja a 23/2025. (VI. 13.) AM rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^3]: A 4. § (1) bekezdés k) pontját a 23/2025. (VI. 13.) AM rendelet 20. § (2) bekezdése iktatta be.
 [^4]: A 4. § (1) bekezdés l) pontját a 23/2025. (VI. 13.) AM rendelet 20. § (2) bekezdése iktatta be.
 [^5]: A 4. § (1) bekezdés m) pontját a 23/2025. (VI. 13.) AM rendelet 20. § (2) bekezdése iktatta be.
+[^6]: A 4. § (3) bekezdése az 58/2025. (XII. 22.) AM rendelet 10. §-ával megállapított szöveg.
