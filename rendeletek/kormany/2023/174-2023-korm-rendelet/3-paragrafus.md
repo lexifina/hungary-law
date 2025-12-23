@@ -1,1 +1,0 @@
-3. § Az e rendelet szerinti visszafizetési kötelezettség teljesítését követően az érintett beruházás további szakmai indokoltságát a szakpolitikai felelős miniszter az irányadó szakpolitikai programban, illetve szakpolitikai stratégiában foglaltakra figyelemmel felülvizsgálja.
