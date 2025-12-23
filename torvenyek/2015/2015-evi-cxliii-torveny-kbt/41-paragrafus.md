@@ -8,7 +8,7 @@ b) a szerződés megkötésére és
 
 c) – az adott esetben a szerződés megkötését követően kezdeményezett előzetes vitarendezési eljárás, iratbetekintési kérelem és az azzal összefüggő írásbeli kommunikáció, valamint a 45. § (2) bekezdése szerinti tájékoztatás kivételével – a szerződés megkötését követő kommunikációra.
 
-(3) A 98. § (2) bekezdés e) pontja szerinti eljárásra – amennyiben az tárgyalási meghívó megküldésével vagy a tárgyalások megkezdésével indul –, a 98. § (4) bekezdés c)–d) pontja szerinti eljárásra, valamint az innovációs partnerség szerződéses szakaszára az (1) bekezdés szerinti, elektronikus úton történő kapcsolattartás kötelezettsége, valamint a 40. § (1) bekezdés nem alkalmazandó.
+(3) A 98. § (2) bekezdés e) pontja szerinti eljárásra – amennyiben az tárgyalási meghívó megküldésével vagy a tárgyalások megkezdésével indul –, a 98. § (4) bekezdés c) és d) pontja szerinti eljárásra, egyedi művészeti alkotás megszerzésekor a 98. § (2) bekezdés d) pontja szerinti eljárásra, valamint az innovációs partnerség szerződéses szakaszára az (1) bekezdés szerinti, elektronikus úton történő kapcsolattartás kötelezettsége, valamint a 40. § (1) bekezdés nem alkalmazandó.
 
 (4) A tervpályázati eljárásban, a keretmegállapodás alapján az ajánlatkérő általi közvetlen megrendelés, dinamikus beszerzési rendszerben az ajánlattételi szakasz lefolytatása, valamint az elektronikus katalógus 109. § (5) és (11)–(14) bekezdés szerinti alkalmazása során a 40. § (1) bekezdéstől eltérően az elektronikus kommunikáció az EKR-től eltérő informatikai rendszerben is történhet.
 

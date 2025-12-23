@@ -6,7 +6,9 @@
 
 (4) A projekttársaság csak a szerződés teljesítése érdekében szükséges tevékenységet végezhet, ilyen szerződéseket köthet, más gazdálkodó szervezetben részesedést nem szerezhet, valamint nem alakulhat át, nem válhat szét és nem egyesülhet más jogi személlyel.
 
-(5) A projekttársaságban a nyertes ajánlattevőn vagy ajánlattevőkön kívül más nem szerezhet részesedést, kivéve azt az esetet, amikor az ajánlatkérő az eljárást megindító felhívásban megjelöli, hogy a projekttársaságot a nyertes ajánlattevő vagy ajánlattevők és az ajánlatkérő hozzák létre. A projekttársaság jegyzett tőkéjét és jegyzett tőkén felüli vagyonát – ide nem értve az osztalékot – az alapítók nem vonhatják el.
+(5) A projekttársaságban a nyertes ajánlattevőn vagy ajánlattevőkön kívül más nem szerezhet részesedést, kivéve azt az esetet, amikor az ajánlatkérő az eljárást megindító felhívásban megjelöli, hogy a projekttársaságot a nyertes ajánlattevő vagy ajánlattevők és az ajánlatkérő vagy az (5a) bekezdés szerint az ajánlatkérő által kijelölt más jogi személy hozzák létre. A projekttársaság jegyzett tőkéjét és a jegyzett tőkén felüli vagyonát – ide nem értve az osztalékot – az alapítók nem vonhatják el.
+
+(5a) A közbeszerzési dokumentumokban az ajánlatkérő megjelölhet olyan jogi személyt, amely a nyertes ajánlattevő vagy ajánlattevők mellett a projekttársaságban részesedéssel rendelkezik, feltéve, hogy a megjelölt jogi személyben magántőke-részesedés nincsen és a projekttársaságban való részvétele megfelel a 2. § (1) és (2) bekezdésében foglaltaknak és nem okozza a verseny torzulását.
 
 (6) A nyertes ajánlattevő vagy ajánlattevők a projekttársaságot akkor szüntetheti(k) meg, ha
 
