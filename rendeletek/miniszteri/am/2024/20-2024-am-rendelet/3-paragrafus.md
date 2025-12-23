@@ -6,7 +6,7 @@ a) az alapján legalább 10 hektár – az Egységes kérelem rendelet 5. § (2)
 
 b) a FELIR-ben az élelmiszerlánc-felügyeleti információs rendszer működéséről szóló 578/2020. (XII. 14.) Korm. rendelet 1. melléklet 1–5., 14., 37., 39. és 46. pontja szerinti, FELIR azonosító köteles tevékenysége aktív státuszban van nyilvántartva.
 
-(3) Aktív mezőgazdasági termelőnek minősül
+(3)[^2] Aktív mezőgazdasági termelőnek minősül
 
 a) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 10. §-a szerinti egyházi jogi személy,
 
@@ -18,7 +18,7 @@ d) a szövetkezetekről szóló 2006. évi X. törvény 3. alcíme szerinti szoc
 
 e) a mezőgazdasághoz köthető egyéb szervezet,
 
-amely az Egységes kérelem rendelet 2. § (1) bekezdés b)–f) pontja és 2. § (4) bekezdés 1. pontja szerinti támogatásokra vonatkozó egységes kérelmet nyújt be.
+amely az Egységes kérelem rendelet 2. § (1) bekezdés b)–f) pontja és 2. § (4) bekezdés 8. pontja szerinti támogatásokra vonatkozó egységes kérelmet nyújt be.
 
 (4) Ha a (2) bekezdés b) pontja szerinti mezőgazdasági termelő aktív mezőgazdasági termelői minősége tekintetében kétség merül fel, a Magyar Államkincstár mint Nemzeti Kifizető Ügynökség (a továbbiakban: Kincstár) a mezőgazdasági tevékenység végzését saját hatáskörben indult eljárás keretében vizsgálja.
 
@@ -39,3 +39,4 @@ ellenőrzésére kerül sor.
 (8) A (3) bekezdés e) pontja szerinti mezőgazdasági termelő – a (6) bekezdéstől eltérően – a Kincstár felhívására a létesítő okirata beküldésével igazolja, hogy megfelel az 1. § c) pontja szerinti feltételeknek.
 
 [^1]: A 3. § (2) bekezdés nyitó szövegrésze az 5/2025. (IV. 3.) AM rendelet 61. §-a szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés záró szövegrésze az 58/2025. (XII. 22.) AM rendelet 9. §-a szerint módosított szöveg.
