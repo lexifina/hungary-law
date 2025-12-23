@@ -1,16 +1,16 @@
 |  | A | B | C | D |
 
-| 1. |  | 2024 |
+| 1. | Támogatás megnevezése | 2024 |
 
-| 2. | Támogatás megnevezése | Keretösszeg, euró | Fajlagos minimum, euró | Fajlagos maximum, euró |
+| 2. | Keretösszeg, euró | Fajlagos minimum, euró | Fajlagos maximum, euró |
 
-| 3. | Anyatehéntartás | 34 631 327,25 | 111,96 | 174,94 |
+| 3. | Anyatehéntartás | 31 518 906,34 | 111,96 | 174,94 |
 
-| 4. | Hízottbika | 5 061 180,70 | 40,76 | 65,22 |
+| 4. | Hízottbika | 3 233 415,75 | 40,76 | 65,22 |
 
-| 5. | Tejhasznú tehéntartás | 68 274 257,17 | 237,74 | 396,24 |
+| 5. | Tejhasznú tehéntartás | 68 072 684,91 | 237,74 | 396,24 |
 
-| 6. | Anyajuhtartás | 21 767 730,60 | 24,16 | 35,53 |
+| 6. | Anyajuhtartás | 23 180 401,84 | 24,16 | 35,53 |
 
 | 7. | Cukorrépa termesztés | 7 915 693,20 | 424,52 | 881,70 |
 
@@ -22,13 +22,13 @@
 
 | 11. | Ipari olajnövény termesztés | 740 499,63 | 76,71 | 142,47 |
 
-| 12. | Extenzív gyümölcstermesztés | 6 063 331,33 | 143,54 | 191,39 |
+| 12. | Extenzív gyümölcstermesztés | 5 583 331,33 | 143,54 | 191,39 |
 
 | 13. | Intenzív gyümölcstermesztés | 6 653 919,68 | 280,11 | 429,50 |
 
-| 14. | Szemes fehérjetakarmány-növény termesztés | 15 962 772,76 | 163,01 | 302,73 |
+| 14. | Szemes fehérjetakarmány-növény termesztés | 19 942 772,76 | 163,01 | 302,73 |
 
-| 15. | Szálas fehérjetakarmány-növény termesztés | 10 985 262,30 | 44,92 | 77 |
+| 15. | Szálas fehérjetakarmány-növény termesztés | 10 206 487,86 | 44,92 | 77 |
 
 2. melléklet a 19/2024. (IV. 9.) AM rendelethez
 
