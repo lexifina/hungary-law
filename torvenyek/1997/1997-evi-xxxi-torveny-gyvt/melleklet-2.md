@@ -199,5 +199,3 @@ ADATLAP a kifogástalan életvitel ellenőrzéséhez
 ## Dátum:. …………………………………………..
 
 ## ………………………………………….
-
-## gyermekvédelmi intézmény képviselője
