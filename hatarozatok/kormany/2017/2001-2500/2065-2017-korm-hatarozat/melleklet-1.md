@@ -118,11 +118,11 @@
 
 | 48. | Alsózsolcai Közösségi Sport Club fejlesztésének támogatása | Alsózsolcai Közösségi Sport Club fejlesztésének támogatása | 40 000 000 | Magyar Labdarúgó Szövetség |
 
-| 49. | Fradiváros II. ütem és műkődési célú kiadások | Fradiváros II. ütem | 15 000 000 000 | Ferencvárosi Torna Club |
+| 49. | Fradiváros II. ütem és működési, beruházási célú kiadások és műkődési célú kiadások | Fradiváros II. ütem és működési, beruházási célú kiadások | 15 000 000 000 | Ferencvárosi Torna Club |
 
 | 50. | Káptalanfüredi gyermek- és utánpótlás tábor fejlesztése | Káptalanfüredi gyermek- és utánpótlás tábor fejlesztése | 2 200 000 000 | Budapest Főváros VIII. kerület Önkormányzata |
 
 | 51. | Pannon Információbiztonsági Központ létrehozása | Pannon Információbiztonsági Központ létrehozása | 800 000 000 | Pannon Térség Fejlesztéséért Nonprofit Kft. |
 
 [^1]: Az 1. pont az 1684/2022. (XII. 28.) Korm. határozat 3. pontjával megállapított szöveg.
-[^2]: Az 1. melléklet az 1684/2022. (XII. 28.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1684/2022. (XII. 28.) Korm. határozat 4. pontja, az 1564/2025. (XII. 23.) Korm. határozat 2. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító határozat 3. pontját.
