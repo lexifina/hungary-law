@@ -26,7 +26,7 @@
 
 | 13. | 10.4.4. A sertések nem láthatják egymást. | Gazdaságon belüli vagy kismértékű (1) | Enyhe (1) | Rövid távon helyrehozható (1) |
 
-| 14.[^57] | 10.5. A sertéseknek állandó jelleggel hozzá kell férniük a fürkésző és manipulációs tevékenységekhez szükséges, elegendő mennyiségű, a sertések egészségére nem ártalmas anyaghoz, mint szalmához, szénához, fához, fűrészporhoz, gombakomposzthoz, tőzeghez, illetve ezek keverékéhez. | 10.5.1. A sertéseknek – különös tekintettel a kocákra és a kocasüldőkre – nem biztosítanak állandó jelleggel a fürkésző és manipulációs magatartáshoz szükséges, elegendő mennyiségű, a sertések egészségére nem ártalmas anyagot, mint szalmát, szénát, fát, fűrészport, gombakomposztot, tőzeget, illetve ezek keverékét. | Gazdaságon belüli vagy kismértékű (1) | Enyhe (1) | Rövid távon helyrehozható (1) |
+| 14.[^59] | 10.5. A sertéseknek állandó jelleggel hozzá kell férniük a fürkésző és manipulációs tevékenységekhez szükséges, elegendő mennyiségű, a sertések egészségére nem ártalmas anyaghoz, mint szalmához, szénához, fához, fűrészporhoz, gombakomposzthoz, tőzeghez, illetve ezek keverékéhez. | 10.5.1. A sertéseknek – különös tekintettel a kocákra és a kocasüldőkre – nem biztosítanak állandó jelleggel a fürkésző és manipulációs magatartáshoz szükséges, elegendő mennyiségű, a sertések egészségére nem ártalmas anyagot, mint szalmát, szénát, fát, fűrészport, gombakomposztot, tőzeget, illetve ezek keverékét. | Gazdaságon belüli vagy kismértékű (1) | Enyhe (1) | Rövid távon helyrehozható (1) |
 
 | 15. | 10.6. A padozatnak simának, de csúszásmentesnek kell lennie, és úgy kell megtervezni, kialakítani és karbantartani, hogy ne okozzon sérülést vagy fájdalmat a sertéseknek. A padozat kialakításának meg kell felelnie a sertések nagyságának és súlyának, és almozás hiányában szilárd, egyenletes és stabil felületet kell képeznie. | 10.6.1. A padozat kialakítása, illetve karbantartása nem megfelelő. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
@@ -130,4 +130,4 @@
 
 JFGK 11. követelmény- és minősítési tábla – Állatjólét (mezőgazdasági haszonállatok védelme) – az ellenőrzési jegyzőkönyv kérdéseihez tartozó meg nem felelési esetek
 
-[^57]: A 14. mellékletben foglalt táblázat 14. sora az 5/2025. (IV. 3.) AM rendelet 28. § (11) bekezdésével megállapított szöveg.
+[^59]: A 14. mellékletben foglalt táblázat 14. sora az 5/2025. (IV. 3.) AM rendelet 28. § (11) bekezdésével megállapított szöveg.

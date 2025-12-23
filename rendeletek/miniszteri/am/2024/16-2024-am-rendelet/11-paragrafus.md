@@ -1,6 +1,6 @@
 ## 7. Vizes élőhelyek és tőzeglápok megőrzése – HMKÁ 2. előírás
 
-11. §[^14] (1) A MePAR-ban vizes élőhelyként és tőzeglápos területként lehatárolt elem (a továbbiakban együtt: vizenyős terület) fenntartása kötelező.
+11. §[^15] (1) A MePAR-ban vizes élőhelyként és tőzeglápos területként lehatárolt elem (a továbbiakban együtt: vizenyős terület) fenntartása kötelező.
 
 (2) Vizenyős területként lehatárolt elem területén tilos
 
@@ -16,4 +16,4 @@ b) az ott található vizet és talajnedvességet levezetni.
 
 (6) Állandó gyepterületen található, vizenyős területként lehatárolt elem szántóterületté történő átalakítása tilos.
 
-[^14]: A 11. § az 5/2025. (IV. 3.) AM rendelet 24. §-ával megállapított szöveg.
+[^15]: A 11. § az 5/2025. (IV. 3.) AM rendelet 24. §-ával megállapított szöveg.

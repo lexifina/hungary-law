@@ -58,7 +58,7 @@
 
 | 29. | 5.13.3. A gazdálkodónál a reziduum-toxikológiai monitoring terv szerinti mintavétel eredménye valamely takarmány-adalékanyag vagy állatgyógyászati készítmény hatóanyag jogellenes használatát igazolta. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Maradandó (5) |
 
-| 30.[^49] | 5.14. Az állatokat tenyésztő vagy állati eredetű alaptermékeket előállító élelmiszeripari vállalkozóknak a következőkről kell nyilvántartást vezetniük: – az állatok etetésére használt takarmány jellege és eredete; – az állatoknak adott állatgyógyászati készítmények vagy egyéb kezelések, a beadás dátumai és az élelmezés-egészségügyi várakozási idő; – az állatokból vett mintákon vagy más, az emberi egészség szempontjából fontos, diagnosztikai célra vett mintákon végzett laboratóriumi vizsgálatok eredményei és – az állatokon vagy állati eredetű termékeken végzett vizsgálatokról szóló vonatkozó jelentések. | 5.14.1. Az állatokat tenyésztő vagy állati eredetű alaptermékeket előállító élelmiszeripari vállalkozó nem vezet nyilvántartást az állatok etetésére használt takarmány jellegéről és eredetéről. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
+| 30.[^51] | 5.14. Az állatokat tenyésztő vagy állati eredetű alaptermékeket előállító élelmiszeripari vállalkozóknak a következőkről kell nyilvántartást vezetniük: – az állatok etetésére használt takarmány jellege és eredete; – az állatoknak adott állatgyógyászati készítmények vagy egyéb kezelések, a beadás dátumai és az élelmezés-egészségügyi várakozási idő; – az állatokból vett mintákon vagy más, az emberi egészség szempontjából fontos, diagnosztikai célra vett mintákon végzett laboratóriumi vizsgálatok eredményei és – az állatokon vagy állati eredetű termékeken végzett vizsgálatokról szóló vonatkozó jelentések. | 5.14.1. Az állatokat tenyésztő vagy állati eredetű alaptermékeket előállító élelmiszeripari vállalkozó nem vezet nyilvántartást az állatok etetésére használt takarmány jellegéről és eredetéről. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
 
 | 31. | 5.14.2. Az állatokat tenyésztő vagy állati eredetű alaptermékeket előállító élelmiszeripari vállalkozó nem vezet nyilvántartást a gyógyszeres kezelésekről. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
@@ -90,7 +90,7 @@
 
 | 45. | 5.18. A nyerstejnek olyan állatokból kell származnia, – amelyek jó általános egészségi állapotban vannak, nem mutatják olyan betegség jeleit, amely a tej fertőződését eredményezheti, és különösen nem szenvednek az ivarszervek váladékos fertőzésében, hasmenéssel és lázzal járó bélgyulladásban vagy a tőgy felismerhető gyulladásában; – amelyeknek nincs olyan tőgysebük, amely hatással lenne a tejre; – amelyek a 96/23/EK irányelv értelmében nem kaptak tiltott szereket vagy készítményeket, és amelyek nem estek át illegális kezelésen; – amelyek vonatkozásában, amennyiben kaptak engedélyezett szereket vagy készítményeket, betartották az említett szerekre vagy készítményekre előírt élelmezés-egészségügyi várakozási időket. | 5.18.1. Nem fejik elkülönítetten a tőgybeteg, váladékozó ivarszervű, hasmenéses, lázas állatokat. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
-| 46.[^50] | 5.18.1.a) A tőgybeteg, váladékozó ivarszervű, hasmenéses, lázas állatok tejét nem kezelik külön, nem bizonyítható, hogy nem kerül bele az emberi fogyasztásra szánt elegytejbe. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Rövid távon helyrehozható (1) |
+| 46.[^52] | 5.18.1.a) A tőgybeteg, váladékozó ivarszervű, hasmenéses, lázas állatok tejét nem kezelik külön, nem bizonyítható, hogy nem kerül bele az emberi fogyasztásra szánt elegytejbe. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
 | 47. | 5.18.2. A gyógyszeres kezelésben részesült tejtermelő állatok esetében nem tartották be a vonatkozó élelmezés-egészségügyi várakozási időket. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
@@ -114,13 +114,13 @@
 
 | 57. | 5.23.4. A tej raktározására szolgáló helyiségek nincsenek felszerelve a megfelelő hűtőberendezésekkel, annak ellenére, hogy a jogszabályi előírások szerint a tejet hűteniük kellene. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
-| 58.[^51] | 5.24. A berendezések olyan felületei, amelyek érintkezésbe kerülnek a tejjel, legyenek könnyen tisztíthatók, és szükség szerint fertőtleníthetők, valamint jó állapotban legyenek. | 5.24. A berendezések tejjel érintkező felületei nem tisztíthatók, fertőtleníthetők könnyen, és nincsenek jó állapotban. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
+| 58.[^53] | 5.24. A berendezések olyan felületei, amelyek érintkezésbe kerülnek a tejjel, legyenek könnyen tisztíthatók, és szükség szerint fertőtleníthetők, valamint jó állapotban legyenek. | 5.24. A berendezések tejjel érintkező felületei nem tisztíthatók, fertőtleníthetők könnyen, és nincsenek jó állapotban. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
 
-| 59.[^52] | 5.25. A tejjel érintkező felületeket használat után tisztítani kell, és amennyiben szükséges, fertőtleníteni kell. Minden szállítás után, de minden esetben legalább naponta egyszer a nyerstej szállítására használt tartályokat ki kell tisztítani, és fertőtleníteni kell az újbóli használat előtt. | 5.25.1. A tejjel érintkező felületeket nem tisztítják használat után, illetve nem fertőtlenítik szükség esetén. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
+| 59.[^54] | 5.25. A tejjel érintkező felületeket használat után tisztítani kell, és amennyiben szükséges, fertőtleníteni kell. Minden szállítás után, de minden esetben legalább naponta egyszer a nyerstej szállítására használt tartályokat ki kell tisztítani, és fertőtleníteni kell az újbóli használat előtt. | 5.25.1. A tejjel érintkező felületeket nem tisztítják használat után, illetve nem fertőtlenítik szükség esetén. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
 
-| 60.[^53] | 5.25.2. A nyerstej szállítására használt tartályokat nem tisztítják és fertőtlenítik minden szállítás után, de legalább naponta egyszer. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
+| 60.[^55] | 5.25.2. A nyerstej szállítására használt tartályokat nem tisztítják és fertőtlenítik minden szállítás után, de legalább naponta egyszer. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
 
-| 61.[^54] | 5.26. A fejést higiénikusan kell végezni, különösen annak biztosítása mellett: – hogy a fejés megkezdése előtt a tőgybimbók, a tőgy és a környező részek tiszták; – hogy az olyan állatorvosi kezelésen átesett állatokat, amelyek kezelése során maradékanyagok juthatnak a tejbe, azonosítják, valamint, hogy az előírt élelmezés-egészségügyi várakozási idő letelte előtt az ilyen állatoktól származó tejet nem használják emberi fogyasztásra. | 5.26.1. Nem biztosítják, hogy a fejés megkezdése előtt a tőgybimbók, a tőgy és a környező részek tiszták legyenek. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
+| 61.[^56] | 5.26. A fejést higiénikusan kell végezni, különösen annak biztosítása mellett: – hogy a fejés megkezdése előtt a tőgybimbók, a tőgy és a környező részek tiszták; – hogy az olyan állatorvosi kezelésen átesett állatokat, amelyek kezelése során maradékanyagok juthatnak a tejbe, azonosítják, valamint, hogy az előírt élelmezés-egészségügyi várakozási idő letelte előtt az ilyen állatoktól származó tejet nem használják emberi fogyasztásra. | 5.26.1. Nem biztosítják, hogy a fejés megkezdése előtt a tőgybimbók, a tőgy és a környező részek tiszták legyenek. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
 
 | 62. | 5.26.2. Nem azonosítják az olyan állatorvosi kezelésen átesett állatokat, amelyek kezelése során maradékanyagok juthatnak a tejbe, illetve nem biztosítják, hogy az élelmezés-egészségügyi várakozási idő letelte előtt az ilyen állatoktól származó tejet emberi fogyasztásra ne használják fel. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
@@ -156,9 +156,9 @@
 
 JFGK 6. követelmény- és minősítési tábla – Egyes hormon- vagy tireosztatikus hatású anyagokra és ß-agonistákra vonatkozó felhasználási tilalom az állattenyésztésben
 
-[^49]: A 10. mellékletben foglalt táblázat 30. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
-[^50]: A 10. mellékletben foglalt táblázat 46. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
-[^51]: A 10. mellékletben foglalt táblázat 58. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
-[^52]: A 10. mellékletben foglalt táblázat 59. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
-[^53]: A 10. mellékletben foglalt táblázat 60. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
-[^54]: A 10. mellékletben foglalt táblázat 61. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
+[^51]: A 10. mellékletben foglalt táblázat 30. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
+[^52]: A 10. mellékletben foglalt táblázat 46. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
+[^53]: A 10. mellékletben foglalt táblázat 58. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
+[^54]: A 10. mellékletben foglalt táblázat 59. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
+[^55]: A 10. mellékletben foglalt táblázat 60. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.
+[^56]: A 10. mellékletben foglalt táblázat 61. sora az 5/2025. (IV. 3.) AM rendelet 28. § (8) bekezdésével megállapított szöveg.

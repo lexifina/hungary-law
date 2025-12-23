@@ -10,11 +10,11 @@ c) a területen betartották a (2) bekezdés szerint a növényvédőszer-haszn�
 
 (3) A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell a (2) bekezdés szerinti növényvédőszer-tilalom betartásáról. Ha a mezőgazdasági termelő – nyilatkozata vagy a helyszíni vizsgálat megállapítása szerint – az adott nem termelő területen növényvédő szert vagy csávázott vetőmagot használ, akkor a terület nem fogadható el a HMKÁ 8. előírás tekintetében nem termelő területként.
 
-(4)[^28]
+(4)[^29]
 
-(5)[^29]
+(5)[^30]
 
-(6)[^30]
+(6)[^31]
 
 (7) A nitrogénmegkötő növényekkel bevetett területként figyelembe vett területen a mezőgazdasági termelőnek
 
@@ -46,6 +46,6 @@ d) a gazdálkodási napló tartalmával nem tudja minden kétséget kizáróan i
 
 (13) Ha az adminisztratív ellenőrzés vagy helyszíni vizsgálat keretében megállapításra kerül, hogy a nitrogénmegkötő növények, keverékeik vagy a nitrogénmegkötő növények és nem nitrogénmegkötő növények keverékei a (11) bekezdés szerinti termesztési időszakokban nincsenek jelen a mezőgazdasági termelő földterületén, akkor a földterület nem vehető figyelembe nitrogénmegkötő növényekkel bevetett nem termelő területként.
 
-[^28]: A 29. § (4) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
-[^29]: A 29. § (5) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
-[^30]: A 29. § (6) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
+[^29]: A 29. § (4) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
+[^30]: A 29. § (5) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.
+[^31]: A 29. § (6) bekezdését az 5/2025. (IV. 3.) AM rendelet 30. § c) pontja hatályon kívül helyezte.

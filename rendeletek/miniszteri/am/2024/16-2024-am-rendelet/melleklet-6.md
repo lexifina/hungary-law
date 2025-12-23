@@ -456,8 +456,8 @@
 
 | 228. | Meliorációs retek | nem |
 
-6. melléklet a 16/2024. (IV. 9.) AM rendelethez[^41]
+6. melléklet a 16/2024. (IV. 9.) AM rendelethez[^43]
 
 A rátameghatározási segédtábla
 
-[^41]: A 6. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (5) bekezdésével megállapított szöveg.
+[^43]: A 6. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (5) bekezdésével megállapított szöveg.

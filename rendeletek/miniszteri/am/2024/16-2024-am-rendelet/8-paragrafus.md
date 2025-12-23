@@ -8,9 +8,9 @@
 
 (5) Ha a meg nem felelés miatt alkalmazandó teljes támogatáscsökkentés a tárgyévben nem haladja meg a 100 eurónak megfelelő forintösszeget, a támogatáscsökkentés kiszabásától el kell tekinteni.
 
-(6)[^11] Ha két egymást követő évben ugyanazon elhanyagolható meg nem felelés megállapításra kerül, akkor a Kincstár a mezőgazdasági termelőt az ismétlődésről külön tájékoztatja.
+(6)[^12] Ha két egymást követő évben ugyanazon elhanyagolható meg nem felelés megállapításra kerül, akkor a Kincstár a mezőgazdasági termelőt az ismétlődésről külön tájékoztatja.
 
-(7)[^12] Tárgyévben az előző két évben lefolytatott kölcsönös megfeleltetés és feltételességi ellenőrzések során megállapított meg nem feleléseket az ismétlődés megállapításakor figyelembe kell venni, amennyiben azok alapján egyértelműen megállapítható valamely feltételesség szerinti előírás megsértése.
+(7)[^13] Tárgyévben az előző két évben lefolytatott kölcsönös megfeleltetés és feltételességi ellenőrzések során megállapított meg nem feleléseket az ismétlődés megállapításakor figyelembe kell venni, amennyiben azok alapján egyértelműen megállapítható valamely feltételesség szerinti előírás megsértése.
 
-[^11]: A 8. § (6) bekezdése az 5/2025. (IV. 3.) AM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^12]: A 8. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^12]: A 8. § (6) bekezdése az 5/2025. (IV. 3.) AM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^13]: A 8. § (7) bekezdése az 5/2025. (IV. 3.) AM rendelet 23. § (2) bekezdésével megállapított szöveg.

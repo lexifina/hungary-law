@@ -10,7 +10,7 @@
 
 | 5. | 11.3. Megfelelő (rögzített vagy hordozható) világításnak kell rendelkezésre állnia annak érdekében, hogy az állatokat bármikor alaposan megvizsgálhassák. | 11.3.1. Sem rögzített, sem hordozható kiegészítő fényforrás nem áll rendelkezésre, amellyel a nap bármely időpontjában megvizsgálható minden állat. | Gazdaságon belüli vagy kismértékű (1) | Elhanyagolható (0) | Rövid távon helyrehozható (1) |
 
-| 6.[^58] | 11.4. Bármely betegnek vagy sérültnek tűnő állatról késedelem nélkül megfelelően gondoskodni kell, és ha egy állat nem reagál az ilyen gondoskodásra, a lehető legrövidebb időn belül állatorvos tanácsát kell kérni. Szükség esetén a beteg vagy sérült állatokat megfelelő helyen kell elkülöníteni, adott esetben, száraz és kényelmes alommal. | 11.4.1. Nem gondoskodnak megfelelően a sérültnek vagy betegnek tűnő állatokról, illetve nem kérik állatorvos tanácsát a szükséges esetekben. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Hosszú távon helyrehozható (3) |
+| 6.[^60] | 11.4. Bármely betegnek vagy sérültnek tűnő állatról késedelem nélkül megfelelően gondoskodni kell, és ha egy állat nem reagál az ilyen gondoskodásra, a lehető legrövidebb időn belül állatorvos tanácsát kell kérni. Szükség esetén a beteg vagy sérült állatokat megfelelő helyen kell elkülöníteni, adott esetben, száraz és kényelmes alommal. | 11.4.1. Nem gondoskodnak megfelelően a sérültnek vagy betegnek tűnő állatokról, illetve nem kérik állatorvos tanácsát a szükséges esetekben. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Hosszú távon helyrehozható (3) |
 
 | 7. | 11.4.2. Nem áll rendelkezésre a beteg állatok elkülönítésére szolgáló, megfelelő kialakítású férőhely. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Hosszú távon helyrehozható (3) |
 
@@ -78,9 +78,9 @@
 
 | 39. | 11.21. Nem tartható mezőgazdasági célra olyan állat, melynek tartása – genotípusa vagy fenotípusa alapján – káros hatással van az egészségére vagy jólétére. | 11.21.1. A gazdálkodó olyan állatfajt tart mezőgazdasági célra, amelynek tartása – genotípusa vagy fenotípusa alapján – káros hatással van az egészségére, illetve jólétére. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Maradandó (5) |
 
-16. melléklet a 16/2024. (IV. 9.) AM rendelethez[^59]
+16. melléklet a 16/2024. (IV. 9.) AM rendelethez[^61]
 
 HMKÁ követelmény- és minősítési tábla
 
-[^58]: A 15. mellékletben foglalt táblázat 6. sora az 5/2025. (IV. 3.) AM rendelet 28. § (12) bekezdésével megállapított szöveg.
-[^59]: A 16. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (13) bekezdésével megállapított szöveg.
+[^60]: A 15. mellékletben foglalt táblázat 6. sora az 5/2025. (IV. 3.) AM rendelet 28. § (12) bekezdésével megállapított szöveg.
+[^61]: A 16. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (13) bekezdésével megállapított szöveg.

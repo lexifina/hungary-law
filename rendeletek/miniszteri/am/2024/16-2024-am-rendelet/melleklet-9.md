@@ -8,7 +8,7 @@
 
 | 4. | 2.1 Évente mezőgazdasági területre szervestrágyával kijuttatott nitrogén hatóanyag mennyisége nem haladhatja meg a 170 kg/ha értéket, beleértve a legeltetés során az állatok által elhullajtott trágyát, továbbá a szennyvizekkel, szennyvíziszapokkal és szennyvíziszap komposzttal kijuttatott mennyiséget is. | 2.1.1 A gazdálkodó mezőgazdasági területén (kivéve gyepterületek) szervestrágyával szennyvízzel, szennyvíziszappal, szennyvíziszap komposzttal kijuttatott nitrogén hatóanyag mennyiség a vizsgált év vonatkozásában meghaladja a 170 kg/ha értéket. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
-| 5.[^45] | 2.1.2 A gazdálkodó gyepterületén a szervestrágyával kijuttatott nitrogén hatóanyag mennyiség a vizsgált év vonatkozásában meghaladja a 170 kg/ha értéket. | Gazdaságon kívüli vagy nagymértékű (5) | Közepes (3) | Hosszú távon helyrehozható (3) |
+| 5.[^47] | 2.1.2 A gazdálkodó gyepterületén a szervestrágyával kijuttatott nitrogén hatóanyag mennyiség a vizsgált év vonatkozásában meghaladja a 170 kg/ha értéket. | Gazdaságon kívüli vagy nagymértékű (5) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
 | 6. | 2.2 November 30-tól február 15-ig – az őszi kalászosok fejtrágyázásán kívül – tilos a trágyakijuttatás. | 2.2.1 Az őszi kalászosok fejtrágyázásán kívül november 30. és február 15. között trágyakijuttatás történt. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Rövid távon helyrehozható (1) |
 
@@ -48,17 +48,17 @@
 
 | 24. | 2.12 A silótereket szigetelt aljzattal kell készíteni. Az érlelés során keletkező silólevet szivárgásmentes, szigetelt aknában kell gyűjteni. | 2.12.1 A silótér aljzata nem szigetelt, illetve nem kapcsolódik hozzá szigetelt akna. | Gazdaságon belüli vagy kismértékű (1) | Enyhe (1) | Rövid távon helyrehozható (1) |
 
-| 25.[^46] | 2.13 Állattartó telepen képződött trágyát megfelelő méretben és minőségben kialakított trágyatárolóban kell gyűjteni a külön jogszabályban meghatározott időpontot követően. | 2.13.1 A gazdálkodó nem rendelkezik a jogszabály szerint megfelelő műszaki paraméterekkel rendelkező trágyatárolóval. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
+| 25.[^48] | 2.13 Állattartó telepen képződött trágyát megfelelő méretben és minőségben kialakított trágyatárolóban kell gyűjteni a külön jogszabályban meghatározott időpontot követően. | 2.13.1 A gazdálkodó nem rendelkezik a jogszabály szerint megfelelő műszaki paraméterekkel rendelkező trágyatárolóval. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Rövid távon helyrehozható (1) |
 
-| 26.[^47] |
+| 26.[^49] |
 
-| 27.[^48] | 2.13.2 A trágyatároló kapacitása nem felel meg a jogszabályban előírtaknak. | Gazdaságon belüli vagy kismértékű (1) | Enyhe (1) | Rövid távon helyrehozható (1) |
+| 27.[^50] | 2.13.2 A trágyatároló kapacitása nem felel meg a jogszabályban előírtaknak. | Gazdaságon belüli vagy kismértékű (1) | Enyhe (1) | Rövid távon helyrehozható (1) |
 
 9. melléklet a 16/2024. (IV. 9.) AM rendelethez
 
 JFGK 3–4. követelmény- és minősítési tábla
 
-[^45]: A 8. mellékletben foglalt táblázat 5. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
-[^46]: A 8. mellékletben foglalt táblázat 25. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
-[^47]: A 8. mellékletben foglalt táblázat 26. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
-[^48]: A 8. mellékletben foglalt táblázat 27. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
+[^47]: A 8. mellékletben foglalt táblázat 5. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
+[^48]: A 8. mellékletben foglalt táblázat 25. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
+[^49]: A 8. mellékletben foglalt táblázat 26. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.
+[^50]: A 8. mellékletben foglalt táblázat 27. sora az 5/2025. (IV. 3.) AM rendelet 28. § (7) bekezdésével megállapított szöveg.

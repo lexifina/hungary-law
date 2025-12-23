@@ -96,8 +96,8 @@
 
 | 48. | Tavaszi zab | Avena sativa |
 
-3. melléklet a 16/2024. (IV. 9.) AM rendelethez[^39]
+3. melléklet a 16/2024. (IV. 9.) AM rendelethez[^41]
 
 Talajtakarásos parlagként elismerhető növények listája
 
-[^39]: A 3. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^41]: A 3. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (3) bekezdésével megállapított szöveg.

@@ -170,8 +170,8 @@
 
 | 85. | Xeranthemum annua | Vasvirág |
 
-5. melléklet a 16/2024. (IV. 9.) AM rendelethez[^40]
+5. melléklet a 16/2024. (IV. 9.) AM rendelethez[^42]
 
 Zöldugar kultúrák listája
 
-[^40]: Az 5. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (4) bekezdésével megállapított szöveg.
+[^42]: Az 5. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (4) bekezdésével megállapított szöveg.

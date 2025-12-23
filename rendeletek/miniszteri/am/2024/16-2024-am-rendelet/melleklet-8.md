@@ -26,15 +26,15 @@
 
 | 13. | Az erózió veszélyeztetett területen az erózió elleni védelmet nyújtó terepalakulatokat, gyep-, cserje- és erdősávokat meg kell őrizni. | 1.4.1 Erózió ellen védelmet nyújtó terepalakulatokat, gyep-, cserje- és erdősávokat nem őrizte meg. | Gazdaságon kívüli vagy nagymértékű (5) | Közepes (3) | Rövid távon helyrehozható (1) |
 
-| 14.[^42] | Hígtrágya vagy talajjavító mederanyag termőföldön történő felhasználása a talajvédelmi hatóságnak történő bejelentéssel történhet. Hígtrágyával kijuttatott foszfor hatóanyag mennyisége nem lehet több, mint 150 kg/ha/év. | 1.5.1 A gazdálkodó mezőgazdasági területén a hígtrágyát vagy talajjavító mederanyagot nem a talajvédelmi hatósághoz történt bejelentés szerint használta fel. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Hosszú távon helyrehozható (3) |
+| 14.[^44] | Hígtrágya vagy talajjavító mederanyag termőföldön történő felhasználása a talajvédelmi hatóságnak történő bejelentéssel történhet. Hígtrágyával kijuttatott foszfor hatóanyag mennyisége nem lehet több, mint 150 kg/ha/év. | 1.5.1 A gazdálkodó mezőgazdasági területén a hígtrágyát vagy talajjavító mederanyagot nem a talajvédelmi hatósághoz történt bejelentés szerint használta fel. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Hosszú távon helyrehozható (3) |
 
-| 15.[^43] | 1.5.2 A mezőgazdasági területre kijuttatott foszfor hatóanyag mennyiség meghaladta a 150 kg/ha mennyiséget. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Hosszú távon helyrehozható (3) |
+| 15.[^45] | 1.5.2 A mezőgazdasági területre kijuttatott foszfor hatóanyag mennyiség meghaladta a 150 kg/ha mennyiséget. | Gazdaságon belüli vagy kismértékű (1) | Súlyos (5) | Hosszú távon helyrehozható (3) |
 
 | 16. | Szennyvíz, szennyvíziszap, szennyvíziszap komposzt vagy kezelt mederiszap kizárólag a talajvédelmi hatóság engedélye mellett, a talajvédelmi terv vagy az egyszerűsített talajvédelmi terv betartásával juttatható ki mezőgazdasági területre. | 1.6.1 A gazdálkodó mezőgazdasági területére engedély nélküli szennyvíz, szennyvíziszap, szennyvíziszap komposzt vagy kezelt mederiszap kijuttatás történt. | Gazdaságon kívüli vagy nagymértékű (5) | Súlyos (5) | Hosszú távon helyrehozható (3) |
 
 | 17. | 1.6.2 A gazdálkodó mezőgazdasági területén nem csak a talajvédelmi tervben szereplő területekre történt szennyvíz, szennyvíziszap, szennyvíziszap komposzt vagy kezelt mederiszap kijuttatás. | Gazdaságon kívüli vagy nagymértékű (5) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
-| 18.[^44] | 1.6.3 A kijuttatott szennyvíz, szennyvíziszap, szennyvíziszap komposzt vagy kezelt mederiszap nem a talajvédelmi tervben foglaltak betartásával és az abban meghatározott mennyiségben került kijuttatásra. | Gazdaságon kívüli vagy nagymértékű (5) | Közepes (3) | Hosszú távon helyrehozható (3) |
+| 18.[^46] | 1.6.3 A kijuttatott szennyvíz, szennyvíziszap, szennyvíziszap komposzt vagy kezelt mederiszap nem a talajvédelmi tervben foglaltak betartásával és az abban meghatározott mennyiségben került kijuttatásra. | Gazdaságon kívüli vagy nagymértékű (5) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
 | 19. | Erózió veszélyeztetett területen műtrágya vagy szerves trágya csak a lejtés szögének figyelembevételével juttatható ki, illetve műtrágya vagy szerves trágya a felszíni vizek védelme érdekében a partvonaltól mért védőtávolságon belül nem juttatható ki. | 1.7.1 A gazdálkodó nem dolgozta be azonnal a műtrágyát vagy szerves trágyát 12%-nál nagyobb lejtésű területen. | Gazdaságon belüli vagy kismértékű (1) | Közepes (3) | Hosszú távon helyrehozható (3) |
 
@@ -44,6 +44,6 @@
 
 JFGK 2. követelmény- és minősítési tábla – Mezőgazdasági eredetű nitrátszennyezés esetén az ellenőrzési kérdésekhez tartozó meg nem felelési esetek
 
-[^42]: A 7. mellékletben foglalt táblázat 14. sora az 5/2025. (IV. 3.) AM rendelet 28. § (6) bekezdésével megállapított szöveg.
-[^43]: A 7. mellékletben foglalt táblázat 15. sora az 5/2025. (IV. 3.) AM rendelet 28. § (6) bekezdésével megállapított szöveg.
-[^44]: A 7. mellékletben foglalt táblázat 18. sora az 5/2025. (IV. 3.) AM rendelet 28. § (6) bekezdésével megállapított szöveg.
+[^44]: A 7. mellékletben foglalt táblázat 14. sora az 5/2025. (IV. 3.) AM rendelet 28. § (6) bekezdésével megállapított szöveg.
+[^45]: A 7. mellékletben foglalt táblázat 15. sora az 5/2025. (IV. 3.) AM rendelet 28. § (6) bekezdésével megállapított szöveg.
+[^46]: A 7. mellékletben foglalt táblázat 18. sora az 5/2025. (IV. 3.) AM rendelet 28. § (6) bekezdésével megállapított szöveg.

@@ -62,8 +62,8 @@
 
 | 31. | Sárgavirágú somkóró (orvosi somkóró) (Melilotus officinalis) | egyéves |
 
-2. melléklet a 16/2024. (IV. 9.) AM rendelethez[^38]
+2. melléklet a 16/2024. (IV. 9.) AM rendelethez[^40]
 
 Az ökológiai jelentőségű másodvetések fajlistája
 
-[^38]: A 2. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^40]: A 2. melléklet az 5/2025. (IV. 3.) AM rendelet 28. § (2) bekezdésével megállapított szöveg.
