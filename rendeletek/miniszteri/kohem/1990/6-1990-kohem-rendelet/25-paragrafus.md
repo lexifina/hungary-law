@@ -1,8 +1,8 @@
-## Alvázszámra és motorszámra és adattáblára vonatkozó üzemeltetési műszaki feltételek[^118]
+## Alvázszámra, motorkódra és adattáblára vonatkozó üzemeltetési műszaki feltételek[^118]
 
 25. § (1) A gépjármű, a mezőgazdasági vontató, a lassú jármű és a pótkocsi alvázán vagy az alváz szerepét betöltő szerkezeti részén (a továbbiakban együtt: alváz) egyedi azonosítási jelnek (a továbbiakban: alvázszám) kell lennie. Az alvázszámot nem szabad eltüntetni, megváltoztatni.
 
-(2)[^119] A gépjármű, a mezőgazdasági vontató és a lassú jármű hajtómotorja a gyártója által egyedi azonosítási jellel, illetőleg a hajtómotor egyedi azonosítására nem szolgáló típus azonosító jellel (a továbbiakban együtt: motorszám) látható el. Amennyiben a hajtómotort motorszámmal látták el, az a jármű azonosító jelének tekintendő és azt nyilvántartásba kell venni. A motorszámot nem szabad eltüntetni, megváltoztatni.
+(2)[^119] A gépjármű, a mezőgazdasági vontató és a lassú jármű hajtómotorja a gyártója által egyedi azonosítására nem szolgáló típuskóddal (a továbbiakban: motorkód) látható el. Amennyiben a hajtómotort a gyártó nem látta el motorkóddal, azt a vizsgálatot végző vizsgálóállomás állapítja meg. A motorkódot nem szabad eltüntetni, megváltoztatni.
 
 (3)[^120] Az (1) bekezdésben említett alvázszámot csak a gyártó – ideértve a gyártó és a közlekedési hatóság által együttesen felhatalmazott hazai gyártói képviseletet is –, illetőleg a közlekedési hatóság tüntetheti fel a járművön. Az egyedi azonosításra alkalmatlanná vált alvázszám helyreállítására, illetőleg a járműnek a közlekedési hatóság által meghatározott és nyilvántartásba vett alvázszámmal (közlekedési hatósági alvázszám) történő ellátására vonatkozó további feltételeket külön jogszabály[^121] határozza meg.
 
@@ -30,8 +30,8 @@ A járműszerelvény hosszának meghatározásakor az összekapcsolt vonójárm�
 
 (7)[^125] A (6) bekezdés 1. és 2. pontjában meghatározott adatokat nem kell megismételni, ha a járművön a gyári táblát és a mérettáblát összevontan alakították ki.
 
-[^118]: A 25. § címe a 12/2000. (V. 24.) KHVM rendelet 5.§-ának (1) bekezdésével megállapított szöveg.
-[^119]: A 25. § (2) bekezdése a 44/2001. (XII. 28.) KöViM rendelet 5. §-ával megállapított szöveg.
+[^118]: Az „Alvázszámra, motorkódra és adattáblára vonatkozó üzemeltetési műszaki feltételek” alcím címe a 37/2025. (XII. 22.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^119]: A 25. § (2) bekezdése a 37/2025. (XII. 22.) ÉKM rendelet 5. §-ával megállapított szöveg.
 [^120]: A 25. § (3) bekezdése a 44/2001. (XII. 28.) KöViM rendelet 5. §-ával megállapított, a 95/2006. (XII. 27.) GKM rendelet 13. § e) pontja, a 67/2009. (XI. 27.) KHEM rendelet 9. § (4) és (8) bekezdése szerint módosított szöveg.
 [^121]: Lásd a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendeletet.
 [^122]: A 25. § (4) bekezdését a 12/2000. (V. 24.) KHVM rendelet 5.§-ának (3) bekezdése iktatta be.

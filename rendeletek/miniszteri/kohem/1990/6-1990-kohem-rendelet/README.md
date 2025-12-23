@@ -58,3 +58,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2024-09-25 | 1990-6-20-5E.110 | 33/2024. (IX. 10.) ÉKM rendelet |
 | 2025-01-01 | 1990-6-20-5E.108 | 28/2018. (XI. 15.) ITM rendelet |
 | 2025-01-04 | 1990-6-20-5E.111 | 54/2024. (XII. 30.) ÉKM rendelet |
+| 2025-12-23 | 1990-6-20-5E.112 | 37/2025. (XII. 22.) ÉKM rendelet |
