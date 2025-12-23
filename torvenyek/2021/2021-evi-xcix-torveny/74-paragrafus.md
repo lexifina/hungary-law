@@ -1,6 +1,6 @@
 ## 21. A Cstv. eltérő alkalmazása
 
-74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2025. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2026. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
 (2) A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Cstv. IV. Fejezetének hatálya alá tartozó, valamint arra a csődeljárásra és felszámolási eljárásra, amelyben az (5) bekezdés alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
 
