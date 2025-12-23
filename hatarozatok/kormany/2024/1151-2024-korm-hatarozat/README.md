@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1151-30
 | 2025-03-11 | 2024-1151-30-22.6 | 1054/2025. (III. 11.) Korm. határozat |
 | 2025-07-17 | 2024-1151-30-22.7 | 1260/2025. (VII. 17.) Korm. határozat |
 | 2025-12-05 | 2024-1151-30-22.8 | 1527/2025. (XII. 5.) Korm. határozat |
+| 2025-12-23 | 2024-1151-30-22.9 | 1571/2025. (XII. 23.) Korm. határozat |
