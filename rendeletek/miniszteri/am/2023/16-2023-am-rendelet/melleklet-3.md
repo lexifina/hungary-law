@@ -2,7 +2,7 @@
 
 | 1. | Igénylés éve | 2023 |
 
-| 2.[^24] | Támogatási keretösszeg | 689 786 452 |
+| 2.[^25] | Támogatási keretösszeg | 188 919 543 |
 
 | 3. | A támogatható terület közötti sáv (hektár) | 1,0000–10,0000 | 10,0001–150,0000 |
 
@@ -28,4 +28,4 @@ Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejért
 
 7. 1 kg sajt = 10 kg tej
 
-[^24]: A 2. mellékletben foglalt táblázat 2. sora a 7/2025. (IV. 10.) AM rendelet 73. §-ával megállapított szöveg.
+[^25]: A 2. mellékletben foglalt táblázat 2. sora az 58/2025. (XII. 22.) AM rendelet 4. § b) pontjával megállapított szöveg.
