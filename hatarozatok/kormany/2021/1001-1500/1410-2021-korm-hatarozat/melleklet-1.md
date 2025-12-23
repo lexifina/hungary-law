@@ -44,11 +44,11 @@
 
 ## 7.[^2]
 
-## 8.[^3] felhívja a honvédelmi minisztert, hogy gondoskodjon a sportszervezetek 2025. évi sportfejlesztési feladatai megvalósításának támogatásáról a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 7. Kiemelt sportegyesületek támogatása alcímen rendelkezésre álló forrás terhére.
+## 8.[^3] felhívja a honvédelmi minisztert, hogy gondoskodjon a sportszervezetek 2026. évi sportfejlesztési feladatai megvalósításának támogatásáról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 7. Kiemelt sportegyesületek, működésének, sportlétesítmény fenntartásának és üzemeltetésének támogatása alcímen rendelkezésre álló forrás terhére.
 
 | Felelős: | honvédelmi miniszter |
 
-| Határidő: | az egyes kiemelt vidéki sportszervezetek 2021–2026. évre vonatkozó sportfejlesztési feladataival összefüggő kormányzati intézkedésekről szóló 1410/2021. (VI. 30.) Korm. határozat módosításáról szóló 1036/2025. (III. 3.) Korm. határozat közzétételét követő 60 napon belül |
+| Határidő: | az egyes kiemelt vidéki sportszervezetek 2021–2026. évre vonatkozó sportfejlesztési feladataival összefüggő kormányzati intézkedésekről szóló 1410/2021. (VI. 30.) Korm. határozat módosításáról szóló 1566/2025. (XII. 23.) Korm. határozat közzétételét követő 60 napon belül |
 
 1. melléklet az 1410/2021. (VI. 30.) Korm. határozathoz[^4]
 
@@ -56,5 +56,5 @@ Az egyes kiemelt vidéki sportszervezetek kiválasztására vonatkozó sportszak
 
 [^1]: A 2. pont az 1036/2025. (III. 3.) Korm. határozat 2. pontjával megállapított szöveg.
 [^2]: A 7. pontot az 1025/2023. (II. 9.) Korm. határozat 4. pontja visszavonta.
-[^3]: A 8. pontot az 1025/2023. (II. 9.) Korm. határozat 2. pontja iktatta be, szövege az 1036/2025. (III. 3.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 8. pontot az 1025/2023. (II. 9.) Korm. határozat 2. pontja iktatta be, szövege az 1566/2025. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
 [^4]: Az 1. melléklet az 1036/2025. (III. 3.) Korm. határozat 4. pontjával megállapított szöveg.
