@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-11-20-0
 | 2022-08-01 | 2006-11-20-0A.24 | 5/2022. (III. 31.) BM rendelet |
 | 2025-09-23 | 2006-11-20-0A.25 | 39/2025. (IX. 18.) BM rendelet |
 | 2025-11-19 | 2006-11-20-0A.26 | 17/2025. (XI. 4.) MK rendelet |
+| 2025-12-23 | 2006-11-20-0A.27 | 20/2016. (VI. 9.) BM rendelet |
