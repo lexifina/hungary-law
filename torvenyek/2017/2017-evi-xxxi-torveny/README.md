@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-31-00-00
 | 2024-06-19 | 2024. évi XXIX. törvény | 2017-31-00-00.4 |
 | 2024-06-26 | 2024. évi XXIX. törvény | 2017-31-00-00.5 |
 | 2024-06-28 | 2024. évi XXIX. törvény | 2017-31-00-00.6 |
+| 2025-12-23 | 2025. évi CXXXIII. törvény | 2017-31-00-00.7 |
