@@ -1,5 +1,3 @@
-## „6. az adópolitikáért felelős miniszterrel egyetértésben a címadatoknak a digitális szolgáltatás nyújtására kötelezett szerv és a digitális szolgáltatás biztosítására kötelezett szervezet általi, központi címregiszterből történő megismeréséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.”
-
 27. § A Dáptv.
 
 a) 39. § (6) bekezdésében az „a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat” szövegrész helyébe a „keretszolgáltatásokat és támogató szolgáltatásokat” szöveg,

@@ -15,15 +15,3 @@
 (7) A 3. § 2026. augusztus 3-án lép hatályba.
 
 (8) A 29. § 2026. szeptember 1-jén lép hatályba.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
