@@ -1,4 +1,4 @@
-4. melléklet a 48/2012. (VIII. 23.) NFM rendelethez[^16]
+4. melléklet a 48/2012. (VIII. 23.) NFM rendelethez[^17]
 
 Az ITS-szolgáltatások jegyzéke
 
@@ -8,4 +8,4 @@ Az ITS-szolgáltatások jegyzéke
 
 | 2 | Közúti biztonsággal kapcsolatos minimális általános forgalmi információs (SRTI) szolgáltatás az 1. melléklet 3.4. pontjában említettek szerint | A transzeurópai közúti törzshálózat és átfogó közúthálózat | 2026. december 31. |
 
-[^16]: A 4. mellékletet a 35/2025. (XII. 19.) ÉKM rendelet 9. § d) pontja iktatta be.
+[^17]: A 4. mellékletet a 35/2025. (XII. 19.) ÉKM rendelet 9. § d) pontja iktatta be.

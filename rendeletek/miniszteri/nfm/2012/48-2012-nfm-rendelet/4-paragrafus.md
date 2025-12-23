@@ -1,6 +1,6 @@
-4. §[^4] Az ITS-alkalmazások és ITS-szolgáltatások kiválasztásának és kiépítésének a szolgáltatók és felhasználók szükségleteinek értékelésén kell alapulnia, meg kell felelnie az ITS-előírások alapján harmonizált jogszabályoknak, valamint:
+4. §[^5] Az ITS-alkalmazások és ITS-szolgáltatások kiválasztásának és kiépítésének a szolgáltatók és felhasználók szükségleteinek értékelésén kell alapulnia, meg kell felelnie az ITS-előírások alapján harmonizált jogszabályoknak, valamint:
 
-a)[^5] hozzá kell járulniuk a közúti torlódások csökkentéséhez, a káros anyag kibocsátások mérsékléséhez, az energiahatékonyság javításához, a magasabb szintű biztonság és védelem eléréséhez, a veszélyeztetett úthasználók számára is (hatékonyság);
+a)[^6] hozzá kell járulniuk a közúti torlódások csökkentéséhez, a káros anyag kibocsátások mérsékléséhez, az energiahatékonyság javításához, a magasabb szintű biztonság és védelem eléréséhez, a veszélyeztetett úthasználók számára is (hatékonyság);
 
 b) optimalizálniuk kell a költségek és az eredmények arányát a célok elérése tekintetében (költséghatékonyság);
 
@@ -12,7 +12,7 @@ e) a hatékony ITS-szolgáltatás nyújtása érdekében biztosítani kell az IT
 
 f) biztosítani kell, hogy az ITS-alkalmazások és ITS-szolgáltatások képesek legyenek az ugyanazon célt szolgáló már meglévő ITS-alkalmazásokkal és ITS-szolgáltatásokkal való együttes üzemelésre az új technológiák kifejlesztésének akadályozása nélkül (a visszamenőleges kompatibilitás elősegítése);
 
-g)[^6] biztosítani kell a veszélyeztetett úthasználók számára az ITS-alkalmazásokhoz és ITS-szolgáltatásokhoz való akadálytalan és hátrányos megkülönböztetéstől mentes hozzáférést (az egyenlő hozzáférés elősegítése);
+g)[^7] biztosítani kell a veszélyeztetett úthasználók számára az ITS-alkalmazásokhoz és ITS-szolgáltatásokhoz való akadálytalan és hátrányos megkülönböztetéstől mentes hozzáférést (az egyenlő hozzáférés elősegítése);
 
 h) megfelelő kockázatértékelést követően, a megfelelő szintű műszaki fejlesztések és a műveleti kihasználtság segítségével be kell mutatni az innovatív ITS szolgáltatási szintjét és elfogadható rendelkezésre állását (a kiforrottság biztosítása);
 
@@ -22,6 +22,6 @@ j) az ITS kiépítésekor figyelembe kell venni a különféle közlekedési mó
 
 k) figyelembe kell venniük a közlekedési hálózati jellemzőkben – különösen a forgalom nagyságában, a forgalmi kapacitások kihasználtságában és az időjárástól függő viszonyokban – rejlő eredendő különbségeket (a meglévő infrastruktúrák és hálózati jellemzők tiszteletben tartása).
 
-[^4]: A 4. § nyitó szövegrésze a 35/2025. (XII. 19.) ÉKM rendelet 10. § b) pontja szerint módosított szöveg.
-[^5]: A 4. § a) pontja a 35/2025. (XII. 19.) ÉKM rendelet 10. § c) pontja szerint módosított szöveg.
-[^6]: A 4. § g) pontja a 35/2025. (XII. 19.) ÉKM rendelet 10. § c) pontja szerint módosított szöveg.
+[^5]: A 4. § nyitó szövegrésze a 35/2025. (XII. 19.) ÉKM rendelet 10. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § a) pontja a 35/2025. (XII. 19.) ÉKM rendelet 10. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § g) pontja a 35/2025. (XII. 19.) ÉKM rendelet 10. § c) pontja szerint módosított szöveg.

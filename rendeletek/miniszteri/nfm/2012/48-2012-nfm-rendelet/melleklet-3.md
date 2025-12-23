@@ -28,7 +28,7 @@
 
 | 14 | Az átláthatóság és a bizalom megteremtése | Átláthatóságot kell teremteni, például azáltal, hogy a mobilitási lehetőségek ügyfelek számára történő felkínálásakor biztosítják a rangsorolás átláthatóságát, többek között a környezeti hatások tekintetében is. |
 
-3. melléklet a 48/2012. (VIII. 23.) NFM rendelethez[^15]
+3. melléklet a 48/2012. (VIII. 23.) NFM rendelethez[^16]
 
 1. Az EU egészére kiterjedő közúti forgalmi információs és navigációs szolgáltatások nyújtásához kapcsolódó adatok jegyzéke (az 1. melléklet 1.3–1.5. pontjában említettek szerint): statikus és dinamikus forgalomszabályozási adatok
 
@@ -96,4 +96,4 @@
 
 | 3 | Az Unió teljes közlekedési hálózata | 2028. december 31. | Felhatalmazáson alapuló EU jogi aktusok által megállapított határidő. |
 
-[^15]: A 3. mellékletet a 35/2025. (XII. 19.) ÉKM rendelet 9. § c) pontja iktatta be.
+[^16]: A 3. mellékletet a 35/2025. (XII. 19.) ÉKM rendelet 9. § c) pontja iktatta be.

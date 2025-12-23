@@ -1,6 +1,6 @@
 ## 9. Az Európai Unió jogának való megfelelés
 
-10. §[^12] Ez a rendelet
+10. §[^13] Ez a rendelet
 
 a) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -8,4 +8,4 @@ b) az intelligens közlekedési rendszereknek a közúti közlekedés területé
 
 való megfelelést szolgálja.
 
-[^12]: A 10. § a 35/2025. (XII. 19.) ÉKM rendelet 8. §-ával megállapított szöveg.
+[^13]: A 10. § a 35/2025. (XII. 19.) ÉKM rendelet 8. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 ## 4. Kiemelt területek
 
-5. §[^7] (1) Az ITS-előírások alkalmazása tekintetében
+5. §[^8] (1) Az ITS-előírások alkalmazása tekintetében
 
 a) I. kiemelt terület: Információs és mobilitási ITS-szolgáltatások;
 
@@ -28,4 +28,4 @@ d) az EU egészére kiterjedő, kölcsönösen átjárható, harmonizált e-seg�
 
 e) a tehergépjárművek és a haszongépjárművek számára biztonságos és védett parkolóhelyekre vonatkozó információs szolgáltatások nyújtása és a tehergépjárművek és a haszongépjárművek számára biztonságos és védett parkolóhelyekre vonatkozó foglalási szolgáltatások nyújtása.
 
-[^7]: Az 5. § a 35/2025. (XII. 19.) ÉKM rendelet 5. §-ával megállapított szöveg.
+[^8]: Az 5. § a 35/2025. (XII. 19.) ÉKM rendelet 5. §-ával megállapított szöveg.

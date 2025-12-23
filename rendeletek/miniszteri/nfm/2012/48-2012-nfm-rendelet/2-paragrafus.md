@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-2. §[^2] E rendelet alkalmazásában
+2. §[^3] E rendelet alkalmazásában
 
 1. adatok hozzáférhetősége: amikor lekérhetők és megszerezhetők az adatok digitális, géppel olvasható formátumban;
 
@@ -54,4 +54,4 @@
 
 26. veszélyeztetett úthasználók: nem motorizált úthasználók.
 
-[^2]: A 2. § a 35/2025. (XII. 19.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^3]: A 2. § a 35/2025. (XII. 19.) ÉKM rendelet 4. §-ával megállapított szöveg.

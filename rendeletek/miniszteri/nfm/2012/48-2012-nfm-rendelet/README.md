@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-48-20-2
 | 2024-01-03 | 2012-48-20-2W.3 | 1/2017. (I. 3.) NFM rendelet |
 | 2025-07-01 | 2012-48-20-2W.4 | 1/2017. (I. 3.) NFM rendelet |
 | 2025-12-21 | 2012-48-20-2W.5 | 35/2025. (XII. 19.) ÉKM rendelet |
+| 2025-12-23 | 2012-48-20-2W.6 | 38/2025. (XII. 22.) ÉKM rendelet |

@@ -1,4 +1,4 @@
-1. melléklet a 48/2012. (VIII. 23.) NFM rendelethez[^13]
+1. melléklet a 48/2012. (VIII. 23.) NFM rendelethez[^14]
 
 KIEMELT TERÜLETEK
 
@@ -172,4 +172,4 @@ KIEMELT TERÜLETEK
 
 4.4.3. az együttműködő intelligens közlekedési rendszerek (C-ITS) információbiztonságának kezelésére vonatkozó biztonsági politika.
 
-[^13]: Az 1. mellékletet a 35/2025. (XII. 19.) ÉKM rendelet 9. § a) pontja iktatta be.
+[^14]: Az 1. mellékletet a 35/2025. (XII. 19.) ÉKM rendelet 9. § a) pontja iktatta be.
