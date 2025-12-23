@@ -1,0 +1,3 @@
+18. § Az Nkt. 57. § (6a) bekezdése helyébe a következő rendelkezés lép:
+
+„(6a) Az iskolai bizonyítvány az iskola igazgatójának legalább fokozott biztonságú elektronikus aláírásával és időbélyegzővel ellátott digitális biztonsági okmány formájában kerül kiállításra. Az így kiállított bizonyítvány közokirat. A digitális bizonyítványt a tanulmányi rendszerben az időbélyegző felülhitelesítésével, a tanulói jogviszony megszűnését követő nyolcvan évig kell megőrizni. A tanuló, törvényes képviselője, továbbá a volt tanuló a digitális bizonyítványt a tanulmányi rendszerbe történő hitelesített belépést követően éri el.”
