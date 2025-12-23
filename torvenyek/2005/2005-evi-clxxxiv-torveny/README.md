@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-184-00-00
 | 2024-12-23 | 2024. évi LXXXI. törvény | 2005-184-00-00.27 |
 | 2025-01-05 | 2024. évi LXXXI. törvény | 2005-184-00-00.28 |
 | 2025-03-01 | 2024. évi LXXII. törvény | 2005-184-00-00.29 |
+| 2025-12-23 | 2025. évi CXX. törvény | 2005-184-00-00.30 |
