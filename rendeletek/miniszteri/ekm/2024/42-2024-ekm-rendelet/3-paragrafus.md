@@ -22,4 +22,6 @@ i) a befogadó nemzeti támogatás nyújtásával kapcsolatos – NATO-szervekke
 
 j) honvédelmi válsághelyzet időszakában a honvédelem szempontjából fontos építőipari termékek, valamint közlekedési eszközök készletezésével, valamint a katonai légiforgalmi irányítás szükséges mértékű bevezetésével összefüggő kormányzati intézkedések előkészítése, a Kormány által elrendelt intézkedések ágazati feladatainak a végrehajtása,
 
-k) a Hvt. 108. § (1) bekezdésében meghatározott váratlan támadás elhárításának időszakában a támadás elhárításában résztvevő honvédelmi és rendvédelmi szervek tevékenységének igény szerinti támogatása a meglévő képességeivel.
+k)[^1] a Hvt. 108. § (1) bekezdésében meghatározott váratlan támadás elhárításának időszakában a támadás elhárításában résztvevő honvédelmi és rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok tevékenységének igény szerinti támogatása a meglévő képességeivel.
+
+[^1]: A 3. § k) pontja a 38/2025. (XII. 22.) ÉKM rendelet 7. §-a szerint módosított szöveg.

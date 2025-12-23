@@ -1,4 +1,4 @@
-1. melléklet a 42/2024. (XII. 20.) ÉKM rendelethez[^4]
+1. melléklet a 42/2024. (XII. 20.) ÉKM rendelethez[^5]
 
 A honvédelemben közreműködő szervezetek
 
@@ -22,4 +22,4 @@ A honvédelemben közreműködő szervezetek
 
 10. ZÁHONY-PORT Záhonyi Logisztikai és Rakománykezelési Szolgáltató Zártkörűen Működő Részvénytársaság
 
-[^4]: Az 1. melléklet a 30/2025. (IX. 25.) ÉKM rendelet 8. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet a 30/2025. (IX. 25.) ÉKM rendelet 8. §-ával megállapított szöveg.
