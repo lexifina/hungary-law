@@ -2,7 +2,7 @@
 
 | 1. | Igénylés éve | 2023 |
 
-| 2.[^56] | Támogatási keretösszeg | 253 113 337 |
+| 2.[^56] | Támogatási keretösszeg | 253 883 555 |
 
 | 3. | Fajlagos támogatási összeg minimuma | 60,64 |
 
@@ -120,4 +120,4 @@ Méhlegelő növények listája
 
 54) Édeskömény – magtermesztés céljára szolgáló típusa (Foeniculum vulgare var. vulgare)
 
-[^56]: A 2. mellékletben foglalt táblázat 2. sora a 7/2025. (IV. 10.) AM rendelet 71. §-ával megállapított szöveg.
+[^56]: A 2. mellékletben foglalt táblázat 2. sora az 58/2025. (XII. 22.) AM rendelet 3. §-ával megállapított szöveg.
