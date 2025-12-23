@@ -1,0 +1,1 @@
+31. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 2. § 2. pont 2.21 alpontjában az „1–6. pontjában” szövegrész helyébe az „1–5. pontjában” szöveg, továbbá a „valamint a vasúti alépítmény és felépítmény” szövegrész helyébe az „a vasúti alépítmény, felépítmény, a műtárgyak” szöveg lép.

@@ -1,0 +1,3 @@
+3. § A közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A jármű (1) bekezdésben meghatározott okból történő elszállítását a járművezető tűrni köteles. Az intézkedés során állami kényszerrel is el kell érni, hogy a közút kezelője a járművet elszállíthassa. Az alkalmazott állami kényszer kivételesen a járművezető személyiségi jogait is érintheti. A járművezető személyét érintő kényszercselekményt – a közútkezelő intézkedése alapján – a rendőrség végzi. A rendőrség jogosult és köteles mindazokat az intézkedéseket megtenni és kényszerítő eszközöket alkalmazni, amelyek a rendőrségről szóló jogszabályok szerint megtehetők, valamint alkalmazhatók, és a jármű elszállításának eredményes befejezéséhez szükségesek.”
