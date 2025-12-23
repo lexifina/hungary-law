@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-7
 | 2025-06-08 | 2020-45-20-7Q.21 | 13/2025. (V. 8.) ÉKM rendelet |
 | 2025-09-01 | 2020-45-20-7Q.22 | 22/2025. (VII. 22.) ÉKM rendelet |
 | 2025-11-30 | 2020-45-20-7Q.23 | 10/2025. (IV. 3.) ÉKM rendelet |
+| 2025-12-23 | 2020-45-20-7Q.25 | 38/2025. (XII. 22.) ÉKM rendelet |

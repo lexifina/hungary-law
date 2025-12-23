@@ -1,4 +1,4 @@
-22/A. §[^81] (1) Az e rendelet hatálya alá tartozó járműre Pest, Fejér, Komárom-Esztergom és Győr-Moson-Sopron vármegye használatidíj-köteles közúthálózatára érvényes jogosultság (a továbbiakban: M1 regionális jogosultság) váltható.
+22/A. §[^82] (1) Az e rendelet hatálya alá tartozó járműre Pest, Fejér, Komárom-Esztergom és Győr-Moson-Sopron vármegye használatidíj-köteles közúthálózatára érvényes jogosultság (a továbbiakban: M1 regionális jogosultság) váltható.
 
 (2) Az M1 regionális jogosultságra a vármegyei jogosultságra vonatkozó rendelkezéseket az ebben a §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -10,4 +10,4 @@ b) a 8. § (1) bekezdés c) pontjában meghatározott díjkategóriára 30 000 F
 
 (4) M1 regionális jogosultság első alkalommal a 2026. évre váltható.
 
-[^81]: A 22/A. §-t a 34/2025. (XI. 30.) ÉKM rendelet 6. §-a iktatta be.
+[^82]: A 22/A. §-t a 34/2025. (XI. 30.) ÉKM rendelet 6. §-a iktatta be.
