@@ -1,6 +1,6 @@
 3. § (1) A szolgálati igazolvány visszavonásig vagy a rajta feltüntetett időpontig érvényes.
 
-(2)[^16] A szolgálati igazolványt vissza kell vonni a szolgálati viszony vagy a rendvédelmi tisztjelölti szolgálati viszony megszűnésekor, vagy ha a szolgálati igazolvány (3) bekezdés szerinti cseréje válik szükségessé. A szolgálati igazolvány visszavonására az állományilletékes parancsnok jogosult.
+(2)[^16] A szolgálati igazolványt vissza kell vonni a szolgálati viszony vagy a rendvédelmi tisztjelölti szerződéses jogviszony megszűnésekor, vagy ha a szolgálati igazolvány (3) bekezdés szerinti cseréje válik szükségessé. A szolgálati igazolvány visszavonására az állományilletékes parancsnok jogosult.
 
 (3) A szolgálati igazolványt ki kell cserélni, ha az azon feltüntetett adatokban változás következett be, megrongálódott vagy érvényességi ideje lejárt. A szolgálati igazolvány birtokosa köteles haladéktalanul jelenteni a helyi személyügyi szervnek, ha a szolgálati igazolványban szereplő adataiban változás következett be, vagy ha az igazolvány megrongálódott.
 
@@ -24,7 +24,7 @@ d)[^19]
 
 felel.
 
-[^16]: A 3. § (2) bekezdése a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés b) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^16]: A 3. § (2) bekezdése a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés b) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés c) pontja, az 52/2025. (XII. 22.) BM rendelet 4. § b) pontja szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdés a) pont aa) alpontja a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés c) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 3. § (4) bekezdés a) pont ad) alpontját a 27/2019. (VI. 28.) BM rendelet 20. §-a iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 5. § c) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^19]: A 3. § (4) bekezdés d) pontját a 13/2023. (VI. 14.) MK rendelet 15. § d) pontja hatályon kívül helyezte.

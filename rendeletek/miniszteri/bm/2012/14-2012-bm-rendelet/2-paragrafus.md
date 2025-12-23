@@ -34,7 +34,7 @@ f)[^12] a gépi kódot,
 
 g)[^13]
 
-h)[^14] a tisztjelölt esetében a tisztjelölti szolgálati jogviszonyra utalást, továbbá a „rendőrség tisztjelöltje”, a „rendőrség OIF tisztjelöltje” vagy a „katasztrófavédelem tisztjelöltje” feliratot.
+h)[^14] a tisztjelölt esetében a rendvédelmi tisztjelölti szerződéses jogviszonyra utalást, továbbá a „rendőrség tisztjelöltje”, a „rendőrség OIF tisztjelöltje” vagy a „katasztrófavédelem tisztjelöltje” feliratot.
 
 (6)[^15] A szolgálati igazolvány adattartalmának leírását és az egyes adatok szolgálati igazolványon történő elhelyezését az 1–9. melléklet tartalmazza.
 
@@ -44,5 +44,5 @@ h)[^14] a tisztjelölt esetében a tisztjelölti szolgálati jogviszonyra utalá
 [^11]: A 2. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 55. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (5) bekezdés f) pontja a 20/2016. (VI. 9.) BM rendelet 46. § (8) bekezdése szerint módosított szöveg.
 [^13]: A 2. § (5) bekezdés g) pontját a 13/2023. (VI. 14.) MK rendelet 15. § c) pontja hatályon kívül helyezte.
-[^14]: A 2. § (5) bekezdés h) pontját a 20/2016. (VI. 9.) BM rendelet 46. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^14]: A 2. § (5) bekezdés h) pontját a 20/2016. (VI. 9.) BM rendelet 46. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 5. § b) pontja, az 52/2025. (XII. 22.) BM rendelet 4. § a) pontja szerint módosított szöveg.
 [^15]: A 2. § (6) bekezdését a 37/2015. (VI. 16.) BM rendelet 55. § (2) bekezdése iktatta be, szövege a 29/2016. (VII. 15.) BM rendelet 19. §-a szerint módosított szöveg.
