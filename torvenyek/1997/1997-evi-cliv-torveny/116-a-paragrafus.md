@@ -48,7 +48,7 @@ c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a képz
 
 a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
-(7a) A (7) bekezdés a) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jelölt kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+(7a) A (7) bekezdés a) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról – a személyiadat- és lakcímnyilvántartás kivételével – a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jelölt kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
 
 (7b) A (7) bekezdés c) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
 

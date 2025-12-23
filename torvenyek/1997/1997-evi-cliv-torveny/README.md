@@ -96,3 +96,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2025-06-24 | 2025. évi LXVII. törvény | 1997-154-00-00.130 |
 | 2025-07-01 | 2025. évi LXVII. törvény | 1997-154-00-00.131 |
 | 2025-09-01 | 2025. évi XLIX. törvény | 1997-154-00-00.129 |
+| 2025-12-23 | 2025. évi CXXIII. törvény | 1997-154-00-00.134 |
