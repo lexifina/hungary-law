@@ -1,0 +1,1 @@
+19/P. § A katonai légügyi hatóság a hatáskörébe tartozó eljárás lefolytatása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) és – az elhalálozás helye kivételével – g) pontja szerinti adatait jogosult igényelni.

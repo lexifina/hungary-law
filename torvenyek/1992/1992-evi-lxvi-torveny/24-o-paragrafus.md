@@ -6,4 +6,4 @@
 
 (4) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató, az életesemény-alapú szolgáltatás szolgáltatója részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából átadja a feladatellátással érintett polgárok nyilvántartott adatait.
 
-(5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról.
+(5) A nyilvántartást kezelő szerv köteles rendszeres adatszolgáltatást teljesíteni a digitális állampolgárság szolgáltató részére jogszabályban meghatározott szolgáltatásainak nyújtása céljából a feladatellátással érintett polgárok nyilvántartott adatainak változásáról és a nyilvántartott adatai változásának tényéről.

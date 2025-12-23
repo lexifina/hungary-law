@@ -1,0 +1,1 @@
+19/Q. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti digitális szolgáltatások felügyelete jogszabályban meghatározott feladatai ellátása érdekében a természetes személy ügyfél 17. § (2) bekezdés f) pontja szerinti adatait jogosult igényelni.
