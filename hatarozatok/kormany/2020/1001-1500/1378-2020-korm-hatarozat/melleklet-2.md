@@ -14,7 +14,7 @@
 
 | 6. | Gyula Város Önkormányzata | Gyula belterület 2639/1 hrsz. 1/1 | Kulturális szolgáltatás, a kulturális örökség helyi védelme, a helyi közművelődési tevékenység támogatása / helytörténeti múzeum kialakítása [az Mötv. 13. § (1) bekezdésének 7. pontja szerinti feladat] | kivett lakóház, udvar | 1756 |
 
-| 7. | Gyula Város Önkormányzata | Gyula belterület 4713 hrsz. 1/1 | Egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások és szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg / EFOP-1.5.2-16-2017-000021 azonosító számú „Humán szolgáltatások komplex fejlesztése a kelet-békési térségben” elnevezésű pályázat megvalósítása [az Mötv. 13. § (1) bekezdésének 4. és 8a. pontjai szerinti feladat] | kivett lakóház, udvar, gazdasági épület | 1735 |
+| 7.[^2] | Gyula Város Önkormányzata | Gyula belterület 4713 hrsz. 1/1 | településfejlesztés, településrendezés, sport, ifjúsági ügyek, egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások [az Mötv. 13. § (1) bekezdés 1., 4., 8a. és 15. pontjai szerinti feladat] | kivett lakóház, udvar, gazdasági épület | 1735 |
 
 | 8. | Környe Község Önkormányzata | Környe belterület 401 hrsz. 1/1 | Településfejlesztés, településrendezés és településüzemeltetés / részben köztemető, részben közösségi tér kialakítása [az Mötv. 13. § (1) bekezdésének 1. és 2. pontjai szerinti feladat] | kivett beépítetlen terület | 6486 |
 
@@ -55,3 +55,5 @@
 4. Fischer György: Madonna szobra (leltári szám: K.2001.7.1.)
 
 5. Hadnagy György: Feszület című szobra (leltári szám: K.2001.8.1.)
+
+[^2]: Az 1. mellékletben foglalt táblázat 7. sora az 1569/2025. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
