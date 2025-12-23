@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1801-30
 | 2020-11-20 | 2016-1801-30-22.7 | 1251/2017. (V. 5.) Korm. határozat |
 | 2022-02-10 | 2016-1801-30-22.8 | 1251/2017. (V. 5.) Korm. határozat |
 | 2022-12-28 | 2016-1801-30-22.9 | 1684/2022. (XII. 28.) Korm. határozat |
+| 2025-12-23 | 2016-1801-30-22.10 | 1251/2017. (V. 5.) Korm. határozat |

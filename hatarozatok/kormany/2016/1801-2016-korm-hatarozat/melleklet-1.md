@@ -82,7 +82,7 @@
 
 | Vasas létesítményfejlesztési programjának többlettámogatása | az Illovszky Stadion rekonstrukciós többletmunkálatainak támogatása, valamint az egyéb vagyonkezelésben lévő ingatlanok rekonstrukciójának támogatása | 5 400 | Vasas Sport Club |
 
-| Népliget rekonstrukciója és a Ferencvárosi Torna Club működésének támogatása | Fradiváros I. ütem és műkődési célú kiadások | 10 000 | Ferencvárosi Torna Club |
+| Népliget rekonstrukciója és a Ferencvárosi Torna Club működésének és beruházásainak támogatása | Fradiváros I. ütem és működési, beruházási célú kiadások | 10 000 | Ferencvárosi Torna Club |
 
 [^1]: Az 1. pont az 1684/2022. (XII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja, az 1189/2019. (IV. 5.) Korm. határozat 10. pontja, az 1832/2020. (XI. 20.) Korm. határozat 8. pontja, az 1053/2022. (II. 10.) Korm. határozat 3. pontja, az 1684/2022. (XII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja, az 1189/2019. (IV. 5.) Korm. határozat 10. pontja, az 1832/2020. (XI. 20.) Korm. határozat 8. pontja, az 1053/2022. (II. 10.) Korm. határozat 3. pontja, az 1684/2022. (XII. 28.) Korm. határozat 2. pontja, az 1564/2025. (XII. 23.) Korm. határozat 1. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító határozat 3. pontját.
