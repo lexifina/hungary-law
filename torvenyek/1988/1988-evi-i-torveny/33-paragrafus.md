@@ -24,6 +24,8 @@ db) a külön jogszabályban meghatározott, kerékpározás céljára használt
 
 e)
 
+(1a) Koncessziós szerződés alapján működtetett országos közutat érintő állami útépítési beruházás esetében, ha a közútkezelői hozzájárulás kiadása iránti kérelem tekintetében a koncessziós társaság a közútkezelői minőségét vitatja vagy a közútkezelői hozzájárulás megadása vagy megtagadása tárgyában 42 napon belül nem nyilatkozik, akkor a közútkezelői hozzájárulás kiadásával kapcsolatos közútkezelői feladatok körében közútkezelőként a Kormány rendeletében kijelölt közútkezelő gazdasági társaság jár el.
+
 (2) A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet és a 21. § (4) bekezdése szerint kijelölt hatóság a gépjárműről és annak hatósági jelzéséről felvételt készíthet annak érdekében, hogy a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyítani lehessen. A közút kezelője, az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet az általa készített felvételt haladéktalanul átadja a 21. § (4) bekezdése szerint kijelölt hatóságnak. A díjfizetés ellenőrzésére jogosult szervezet – amennyiben nem jogosult a pótdíjkövetelés behajtására – a felvételt köteles haladéktalanul átadni a pótdíj beszedésére jogosult szervezetnek.
 
 (3) A (2) bekezdésben meghatározott szervek a felvételek készítéséhez és továbbításához közreműködőt vehetnek igénybe.

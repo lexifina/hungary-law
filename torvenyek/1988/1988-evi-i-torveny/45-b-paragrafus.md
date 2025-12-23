@@ -12,14 +12,16 @@
 
 6. elektromos töltőpont: az elektromos töltőberendezésen található töltőcsatlakozó, amely kizárólag egy elektromos meghajtású gépjármű villamosenergia-tároló rendszerének feltöltésére alkalmas egyidejűleg;
 
-7. eseti töltés: az elektromos töltőberendezés üzemeltetővel vagy az elektromobilitás szolgáltatóval tartós szerződéses jogviszonyban nem álló elektromobilitás felhasználó által igénybevett elektromobilitás szolgáltatás;
+7. eseti töltés: olyan elektromobilitás szolgáltatás, amely esetében az elektromobilitás felhasználónak nem szükséges regisztrálnia, elektromos töltőberendezés üzemeltetővel tartós szerződéses jogviszonyban állnia;
 
 8. nagy teljesítményű töltőpont: olyan elektromos töltőpont, amely a töltés folyamán 22 kW-nál nagyobb villamos teljesítmény leadására alkalmas;
 
 9. normál teljesítményű elektromos töltőpont: olyan elektromos töltőpont, amely a töltés folyamán legfeljebb 22 kW villamos teljesítmény leadására alkalmas, nem foglalja magában a 3,7 kW vagy annál kisebb villamos teljesítményű, háztartásban létesített, nyilvánosan nem hozzáférhető berendezéseket, vagy amelyek elsődleges rendeltetése nem az elektromos meghajtású gépjárművek töltése;
 
-10. nyilvános töltőberendezés: olyan közterületen, közintézmény épülete mellett és közintézmény ügyfélparkolóiban, továbbá közforgalmú üzemanyagtöltő-állomásokon üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók számára meghatározott azonosítási, használati és fizetési feltételek mellett megkülönböztetéstől mentesen hozzáférhető, valamint az olyan, közforgalom számára nyitott magánterületen vagy nyilvános parkolóban üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók korlátozott köre számára, ellenérték megfizetése nélkül vagy meghatározott fizetési feltételek mellett hozzáférhető, ideértve a part menti villamosenergia-ellátást, ide nem értve a háztartásokban üzemeltetett elektromos töltőberendezést;
+10. nyilvános töltőberendezés: olyan közterületen, közintézmény épülete mellett és közintézmény ügyfélparkolóiban, továbbá közforgalmú üzemanyagtöltő állomásokon üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók számára meghatározott azonosítási, használati és fizetési feltételek mellett megkülönböztetéstől mentesen hozzáférhető, valamint az olyan, közforgalom számára nyitott magánterületen vagy nyilvános parkolóban üzemeltetett elektromos töltőberendezés, amely az elektromobilitás felhasználók korlátozott köre számára, ellenérték megfizetése nélkül vagy meghatározott fizetési feltételek mellett hozzáférhető, ide nem értve a háztartásokban üzemeltetett elektromos töltőberendezést;
 
 11. elektromos töltőberendezés üzemeltető: az, aki az üzemeltetési engedély birtokában a nyilvános töltőberendezést rendeltetésszerűen működteti, annak műszaki üzemeltetését és karbantartását végzi, azon elektromobilitás szolgáltatást nyújt az elektromobilitás felhasználók számára, illetve elektromobilitás szolgáltató számára biztosítja az elektromobilitás szolgáltatás nyújtásának műszaki feltételeit;
 
 12. part menti villamosenergia-ellátás: villamos energia part menti, szabványos interfészen keresztül történő biztosítása a kikötőkben horgonyzó hajók részére.
+
+13. kétirányú töltés: az (EU) 2023/1804 európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti töltés.

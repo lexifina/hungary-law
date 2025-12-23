@@ -124,7 +124,7 @@ d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójá
 
 e) az (1) bekezdés k) pontja tekintetében a rendőrség
 
-f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
+f) az (1) bekezdés kg) pontja tekintetében a közlekedési hatóság, valamint a közterület-felügyelet is,
 
 g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Kormány rendeletében kijelölt, útdíjszolgáltatási tevékenységet ellátó állami tulajdonú gazdasági társaság (a továbbiakban: útdíjszolgáltatási gazdasági társaság),
 

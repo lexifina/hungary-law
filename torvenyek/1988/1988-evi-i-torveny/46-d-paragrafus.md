@@ -23,3 +23,5 @@ a) az adott területen elektronikus megfigyelőrendszer alkalmazásáról (térf
 b) az elektronikus biztonságtechnikai rendszer által folytatott közvetlen megfigyelési rendszert alkalmazó üzemeltetőről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
 
 (4) Az (1) bekezdés a) pontja szerinti esetben az (1)–(3) bekezdés szerinti kép- és hangmegfigyelésre vonatkozó előírásokat a vizsgaközpontra is alkalmazni kell.
+
+(5) A jogszerű vizsgáztatás és a visszaélések, a vizsgán meg nem engedett, a vizsga eredményének befolyásolására alkalmas külső informatikai és mobil segédeszközök használatának megakadályozása érdekében a vizsgaközpont jogosult a közúti járművezetők és közúti közlekedési szakemberek vizsgáztatása során az említett eszközök használatának zavarására, akadályozására szolgáló technikai, informatikai eszköz használatára.

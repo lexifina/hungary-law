@@ -1,4 +1,4 @@
-11. § (1) Az utakat úgy kell fejleszteni, hogy a közutak (országos közutak, helyi közutak) és a közforgalom elől el nem zárt magánutak összefüggő rendszert alkossanak.
+11. § (1) Az utakat úgy kell fejleszteni, hogy a közutak (országos közutak, helyi közutak) és a közforgalom elől el nem zárt magánutak összefüggő rendszert alkossanak, beleértve a közúti infrastruktúrát pótló vízi átkelést szolgáló kompokat is.
 
 (2) A közutak térségi hálózatának tervezése során – a közutak nyomvonalának kijelölésénél, az útkategória és keresztmetszeti megoldás kiválasztásánál, valamint a megvalósítás időbeli ütemezésénél – a következő gazdasági, társadalmi és környezeti szempontokat és hatásokat kell együttesen értékelni, és figyelembe venni:
 
