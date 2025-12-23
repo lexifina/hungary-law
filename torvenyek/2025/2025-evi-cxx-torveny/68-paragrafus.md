@@ -1,13 +1,1 @@
 68. § E törvény 46–52. §-a az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 2. cikk 8. pontjának, 3. cikk (1) bekezdésének, 5. cikk (9) bekezdésének, valamint 6. cikk (1) bekezdésének való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

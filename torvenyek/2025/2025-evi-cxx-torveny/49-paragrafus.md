@@ -1,3 +1,1 @@
-49. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 26. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) Az EETS-szolgáltató az útdíjszedő felhívásának kézhezvételétől számított 2 napon belül az útdíjszedőnek a Nemzeti Adó- és Vámhivatal felé fennálló kötelezettsége teljesítése céljából átadja az EETS-szolgáltatási szerződés hatálya alá tartozó valamennyi olyan járműre és annak tulajdonosára vagy üzembentartójára vonatkozó, az útdíjszedéshez és útdíjellenőrzéshez szükséges adatot, amelyek egy adott időszakban áthaladtak azon az EETS-területen, ahol az UD rendszert az útdíjszedő működteti. Az útdíjszedő az átadott adatokat kizárólag a Nemzeti Adó- és Vámhivatal felé fennálló kötelezettsége teljesítése céljából kezelheti.”
+### 49. §
