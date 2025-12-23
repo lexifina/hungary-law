@@ -64,7 +64,7 @@ f) mozgáskorlátozottak közlekedésére alakították ki, a kialakítás után
 
 (9a)[^166] A (9) bekezdés d) pontja alól kivételt képez az a járműre felhelyezett autóüveg fólia, amelyre a közlekedési hatóság alkalmazási engedélyt adott.
 
-(9b)[^167] A fővárosi és vármegyei kormányhivatalok, a járási (fővárosi kerületi) hivatalok, a honvédelmi és rendvédelmi szervek, valamint az egyéb állami feladatot ellátó szervek által üzemeltetett, valamint a CD betűjelű rendszámtáblával ellátott járművek időszakos műszaki vizsgálata a közlekedési hatóság által üzemeltetett vizsgáló állomáson is elvégezhető.
+(9b)[^167] A fővárosi és vármegyei kormányhivatalok, a járási (fővárosi kerületi) hivatalok, a honvédelmi szervek, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az egyéb állami feladatot ellátó szervek által üzemeltetett, valamint a CD betűjelű rendszámtáblával ellátott járművek időszakos műszaki vizsgálata a közlekedési hatóság által üzemeltetett vizsgáló állomáson is elvégezhető.
 
 (9c)[^168] A személygépkocsival végzett személyszállító szolgáltatást végző jármű alkalmassági vizsgálatával és oktató jármű minősítéssel egy eljárásban végzett időszakos műszaki vizsgálatok az országos lefedettséget biztosító műszaki vizsgálóállomásokon is elvégezhetőek.
 
@@ -116,7 +116,7 @@ követelményeket.
 [^164]: A 12. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^165]: A 12. § (9) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások, újonnan a 72/2015. (XII. 29.) NFM rendelet 2. §-a iktatta be, szövege a 42/2021. (IX. 8.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^166]: A 12. § (9a) bekezdését a 26/2016. (VII. 22.) NFM rendelet 4. §-a iktatta be, szövege a 42/2021. (IX. 8.) ITM rendelet 4. § b) pontja szerint módosított szöveg.
-[^167]: A 12. § (9b) bekezdését a 2/2018. (II. 5.) NFM rendelet 5. §-a iktatta be, szövege a 2/2023. (II. 20.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^167]: A 12. § (9b) bekezdését a 2/2018. (II. 5.) NFM rendelet 5. §-a iktatta be, szövege a 2/2023. (II. 20.) ÉKM rendelet 1. § a) pontja, a 38/2025. (XII. 22.) ÉKM rendelet 2. §-a szerint módosított szöveg.
 [^168]: A 12. § (9c) bekezdését a 42/2021. (IX. 8.) ITM rendelet 3. § (2) bekezdése iktatta be.
 [^169]: A 12. § (10) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 5. § g) pontja.
 [^170]: A 12. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. § (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított, a 71/2013. (XII. 2.) NFM rendelet 8. § (1) bekezdés a) pontja, az 54/2024. (XII. 30.) ÉKM rendelet 6. § a) pontja szerint módosított szöveg.

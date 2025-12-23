@@ -22,15 +22,15 @@ b) a jármű gyártmánya, típusa, kategóriája, a felépítmény típusa,
 
 c) a jármű forgalmi rendszáma,
 
-d) a jármű alvázszáma és motorszáma (motorkódja),
+d)[^259] a jármű alvázszáma és motorkódja (motor típusa),
 
-e)[^259] a járművön tervezett – időszakos műszaki vizsgálat során a fejlesztési célú járművön már végrehajtott – fejlesztés, módosítás vagy műszaki beavatkozás céljának és műszaki terjedelmének bemutatása.
+e)[^260] a járművön tervezett – időszakos műszaki vizsgálat során a fejlesztési célú járművön már végrehajtott – fejlesztés, módosítás vagy műszaki beavatkozás céljának és műszaki terjedelmének bemutatása.
 
 (8) A fejlesztési célú jármű üzemeltetési felelősségét a járműfejlesztő viseli.
 
-(9)[^260] Ha a fejlesztési célú jármű a 2. § (3b) bekezdés b) pontja szerinti fejlesztési célú autonóm járműnek minősül, úgy a járműfejlesztő teljesíti a fejlesztési célú autonóm járművek tesztelésére vonatkozó, 13. számú mellékletben meghatározott feltételeket is.
+(9)[^261] Ha a fejlesztési célú jármű a 2. § (3b) bekezdés b) pontja szerinti fejlesztési célú autonóm járműnek minősül, úgy a járműfejlesztő teljesíti a fejlesztési célú autonóm járművek tesztelésére vonatkozó, 13. számú mellékletben meghatározott feltételeket is.
 
-(10)[^261] A járműfejlesztő az autonóm jármű vezetésére a 13. számú melléklet 2. pontjában foglalt követelményeknek megfelelő tesztvezetőt jelöl ki, és a vezetési tevékenységéről nyilvántartást vezet.
+(10)[^262] A járműfejlesztő az autonóm jármű vezetésére a 13. számú melléklet 2. pontjában foglalt követelményeknek megfelelő tesztvezetőt jelöl ki, és a vezetési tevékenységéről nyilvántartást vezet.
 
 [^253]: A 16/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.
 [^254]: A 16/B. §-t a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be, szövege a 11/2017. (IV. 12.) NFM rendelet 3. §-ával megállapított szöveg.
@@ -38,6 +38,7 @@ e)[^259] a járművön tervezett – időszakos műszaki vizsgálat során a fej
 [^256]: A 16/B. § (3) bekezdése a 28/2018. (XI. 15.) ITM rendelet 8. § e) pontja szerint módosított szöveg.
 [^257]: A 16/B. § (6) bekezdése a 28/2018. (XI. 15.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^258]: A 16/B. § (6a) bekezdését a 28/2018. (XI. 15.) ITM rendelet 3. § (1) bekezdése iktatta be.
-[^259]: A 16/B. § (7) bekezdés e) pontja a 28/2018. (XI. 15.) ITM rendelet 8. § f) pontja szerint módosított szöveg.
-[^260]: A 16/B. § (9) bekezdése a 28/2018. (XI. 15.) ITM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^261]: A 16/B. § (10) bekezdése a 28/2018. (XI. 15.) ITM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^259]: A 16/B. § (7) bekezdés d) pontja a 37/2025. (XII. 22.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^260]: A 16/B. § (7) bekezdés e) pontja a 28/2018. (XI. 15.) ITM rendelet 8. § f) pontja szerint módosított szöveg.
+[^261]: A 16/B. § (9) bekezdése a 28/2018. (XI. 15.) ITM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^262]: A 16/B. § (10) bekezdése a 28/2018. (XI. 15.) ITM rendelet 3. § (2) bekezdésével megállapított szöveg.

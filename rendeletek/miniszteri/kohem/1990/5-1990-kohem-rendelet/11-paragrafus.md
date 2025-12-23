@@ -8,7 +8,7 @@ b) a jármű közlekedésbiztonsági és környezetvédelmi megfelelőségének 
 
 c) a forgalmi engedély időbeli hatályaként a következő időszakos vizsgálat határidejét, valamint – gépjárművek esetén – a kilométer-számláló műszer által jelzett értéket és a rögzítés időpontját (dátumát) is.
 
-(2)[^134] A „Műszaki adatlap” a jármű forgalomba helyezéséhez a forgalomba helyezés előtti vizsgálatot követő hat hónapig, de legfeljebb a forgalomba helyezési engedély időbeli hatályának lejártáig használható fel.
+(2)[^134] A „Műszaki adatlap” a jármű forgalomba helyezéséhez a forgalomba helyezés előtti vizsgálatot követő kilenc hónapig, de legfeljebb a forgalomba helyezési engedély időbeli hatályának lejártáig használható fel.
 
 (3)[^135] Az időszakos vizsgálat határidejét új jármű esetén a forgalomba helyezés napjától, használt jármű esetén a forgalomba helyezés előtti vizsgálat napjától számított
 
@@ -61,7 +61,7 @@ cc)[^145] a versenyjárművek használatára.
 (9)[^148]
 
 [^133]: A 11. § (1) bekezdése a 2/2018. (II. 5.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^134]: A 11. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (5) bekezdése hatályon kívül helyezte, újonnan a 83/2005. (X. 11.) GKM rendelet 5. § (1) bekezdése iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^134]: A 11. § (2) bekezdését újonnan a 83/2005. (X. 11.) GKM rendelet 5. § (1) bekezdése iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 4. §-ával megállapított, a 37/2025. (XII. 22.) ÉKM rendelet 2. § a) pontja szerint módosított szöveg.
 [^135]: A 11. § új (3) bekezdését a 12/1998. (V. 22.) KHVM rendelet 8. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^136]: A 11. § (3) bekezdés a) pontja a 62/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^137]: A 11. § (3) bekezdés b) pontja az 1/2023. (I. 19.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.

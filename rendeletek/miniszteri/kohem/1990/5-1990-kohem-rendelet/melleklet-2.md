@@ -426,6 +426,6 @@
 
 ## Aláírás:
 
-2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^418]
+2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^419]
 
-[^418]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^419]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
