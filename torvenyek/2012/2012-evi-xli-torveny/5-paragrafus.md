@@ -30,7 +30,7 @@ c) a regionális vagy elővárosi személyszállítási közszolgáltatás köz�
 
 (6) A KTI a
 
-a) 4. § (3) bekezdés i) és j) pontjában,
+a) 4. § (3) bekezdés i) és j) pontjában, valamint (5) bekezdésében,
 
 b) 26–28. §-ban,
 
