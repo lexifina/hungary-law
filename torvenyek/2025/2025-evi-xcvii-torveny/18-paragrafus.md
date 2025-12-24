@@ -18,7 +18,7 @@ h) 71. § (1) bekezdés 3. pontjában az „a tizennyolcadik” szövegrész hel
 
 i) 71. § (1) bekezdés 7. pontjában a „használata” szövegrész helyébe a „használata nagyvadfajok vadászata során” szöveg,
 
-j) 73. § (2) bekezdésében a „harminc” szövegrész helyébe a „kilencven” szöveg,
+j)
 
 k) 100. § (1) bekezdés c) pont 36. alpontjában az „a vadászati hatósági feladatokat ellátó személyek” szövegrész helyébe az „a vadászati hatóság alkalmazásában álló vadászati hatósági feladatokat ellátó személyek” szöveg
 

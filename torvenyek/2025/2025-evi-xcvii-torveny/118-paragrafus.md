@@ -4,6 +4,6 @@
 
 a) 7. § (5) bekezdés nyitó szövegrészében a „60 napos” szövegrész helyébe a „30 napos” szöveg,
 
-b) 7. § (5) bekezdés nyitó szövegrészében a „49. § (3) bekezdése” szövegrész helyébe az „51. § (1) bekezdése” szöveg
+b)
 
 lép.

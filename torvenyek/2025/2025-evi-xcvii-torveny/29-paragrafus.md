@@ -26,7 +26,7 @@
 
 13. 22. § (8) bekezdés záró szövegrészében a „személy vagy szervezet” szövegrész helyébe a „személy, szervezet, vagy ezek jogutóda” szöveg és az „újrahasznosítás elfogadásáról” szövegrész helyébe az „engedélyről” szöveg,
 
-14. 24. § (1) bekezdés g) pontjában a „8/B. § (2) bekezdésében” szövegrész helyébe a „10. § (2b) bekezdésében és 14. § (1b) bekezdésében” szöveg,
+14.
 
 15. 26. § (6) bekezdésében a „nem tartalmazza a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározott adatokat” szövegrész helyébe a „nem felel meg a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében foglalt követelményeknek, és a hiányosság pótolható” szöveg,
 

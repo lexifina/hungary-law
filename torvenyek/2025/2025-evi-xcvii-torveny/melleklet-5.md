@@ -1,15 +1,3 @@
-## A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. melléklet A) részében foglalt táblázat 6. sora helyébe a következő rendelkezés lép:
-
-## (Az állam által alapított közfeladatot ellátó közérdekű vagyonkezelő alapítványok és közfeladataik)
-
-## | | A | B | 1 | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány megnevezése | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladata
-
-## „
-
-## | 6 | Jövő Nemzedék Földje Alapítvány | 1. a vagyonkezelésében lévő vagy a tulajdonában álló jogi személyek vagyonát képező mező- és erdőgazdasági földek (a továbbiakban: földek) megőrzése és átörökítése a jövő nemzedékek számára, ideértve azokat a földeket is, amelyeket a társadalmi reintegrációt szolgáló, mező- és erdőgazdasági célú foglalkoztatási tevékenység keretében hasznosítanak; 2. a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság vagyonkezelői jogainak gyakorlása, működési feltételeinek biztosítása és bővítése; továbbá más minta- és tangazdaságok fejlődésének előmozdítása; 3. agrárképzést folytató középfokú oktatási és felsőoktatási intézmény működési feltételeinek javítása, intézményfejlesztési céljai megvalósításának támogatása; 4. a magyar középfokú és felsőfokú agrároktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének, valamint a középfokú agrároktatás infrastrukturális fejlesztésének támogatása, 5. védett őshonos magyar lófajták genetikai értékének megőrzése.
-
-## ”
-
 5. melléklet a 2025. évi XCVII. törvényhez
 
 ## „3. melléklet a 2021. évi XV. törvényhez

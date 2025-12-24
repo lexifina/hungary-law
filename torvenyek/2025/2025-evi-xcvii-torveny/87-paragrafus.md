@@ -1,20 +1,20 @@
 87. § A Fétv.
 
-a) 18/A. § (5) bekezdésében a „Földforgalmi törvény 23. §-a” szövegrész helyébe a „Földforgalmi törvény 21. és 23. §-a” szöveg,
+a)
 
 b) 18/B. § (1) bekezdésében a „nyilvántartásba vette” szövegrész helyébe a „legalább 3 éve nyilvántartásba vette, és a megelőző három gazdasági évben szaporítóanyagot állított elő” szöveg,
 
-c) 18/B. § (4) bekezdésében a „Földforgalmi törvény 23. §-a” szövegrész helyébe a „Földforgalmi törvény 21. és 23. §-a” szöveg,
+c)
 
-d) 18/C. § (6) bekezdésében a „Földforgalmi törvény 23. §-a” szövegrész helyébe a „Földforgalmi törvény 21. és 23. §-a” szöveg,
+d)
 
-e) 55/A. § (4) bekezdésében a „törvény 51. §-a” szövegrész helyébe a „törvény 49. és 51. §-a” szöveg,
+e)
 
 f) 55/B. § (1) bekezdésében a „nyilvántartásba vette” szövegrész helyébe a „legalább 3 éve nyilvántartásba vette, és a megelőző három gazdasági évben szaporítóanyagot állított elő” szöveg,
 
-g) 55/B. § (3) bekezdésében a „törvény 51. §-a” szövegrész helyébe a „törvény 49. és 51. §-a” szöveg,
+g)
 
-h) 55/C. § (4) bekezdésében a „törvény 51. §-a” szövegrész helyébe a „törvény 49. és 51. §-a” szöveg,
+h)
 
 i) 64. §-ában a „65. §-ban meghatározott” szövegrész helyébe a „65. §-ban és a 65/A. §-ban meghatározott” szöveg,
 

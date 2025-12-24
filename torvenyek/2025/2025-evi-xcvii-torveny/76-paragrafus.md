@@ -1,5 +1,3 @@
-## „a) a Földforgalmi törvény 21. § (2) bekezdésében előírtak szerint felismerhetetlenné tett és az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben közzétételre került adásvételi szerződés másolatát,”
-
 76. § A Fétv. a következő 9/A. alcímmel egészül ki:
 
 ## „9/A. A föld tulajdonjogának a helyi önazonosság védelméről szóló 2025. évi XLVIII. törvény szerinti elővásárlási joggal történő megszerzésére vonatkozó különös eljárási szabályok
