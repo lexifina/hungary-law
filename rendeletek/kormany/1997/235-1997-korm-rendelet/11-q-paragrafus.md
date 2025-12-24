@@ -1,4 +1,4 @@
-11/Q. § (1)[^103] A fővárosi, vármegyei gyermekvédelmi szakértői bizottság vezetője a GYVR bizottsági alrendszerében a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 103. § (4) bekezdésében meghatározott időpontra véglegesíti a TESZ-1 elkészítéséhez szükséges szakmai véleményt.
+11/Q. § (1)[^104] A fővárosi, vármegyei gyermekvédelmi szakértői bizottság vezetője a GYVR bizottsági alrendszerében a Gyer. 103. § (4) bekezdésében meghatározott időpontra véglegesíti a TESZ-1 elkészítéséhez szükséges szakmai véleményt.
 
 (2) A területi gyermekvédelmi szakszolgálat elhelyezési feladatot ellátó szervezeti egységének vezetője a TESZ-1 elkészítését a GYVR tervező és értékelő alrendszerében a Gyer. 103. § (10) bekezdésében meghatározott időpontra véglegesíti.
 
@@ -48,11 +48,11 @@ c) önkéntes utánkövetés esetén a kapcsolat felvételét követő tíz munk
 
 (13) Az örökbefogadói tanfolyam szervezője az örökbefogadói tanfolyam adatait a tanfolyam indítását megelőzően legalább harminc nappal rögzíti a GYVR örökbefogadási alrendszerében.
 
-(14)[^104] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója az új nevelőszülő adatait a nevelőszülővé válásra irányuló kérelem beérkezését követő tizenöt napon belül rögzíti a GYVR törzsadat alrendszerében.
+(14)[^105] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója az új nevelőszülő adatait a nevelőszülővé válásra irányuló kérelem beérkezését követő tizenöt napon belül rögzíti a GYVR törzsadat alrendszerében.
 
-(15)[^105] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója az új nevelőszülő adatainak (14) bekezdés szerinti rögzítését követően öt napon belül elindítja az alkalmasság megállapítására irányuló folyamatot a GYVR nevelőszülői alkalmassági alrendszerében.
+(15)[^106] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója az új nevelőszülő adatainak (14) bekezdés szerinti rögzítését követően öt napon belül elindítja az alkalmasság megállapítására irányuló folyamatot a GYVR nevelőszülői alkalmassági alrendszerében.
 
-(16)[^106] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója a nevelőszülő alkalmasságának rendes felülvizsgálatára irányuló folyamatot
+(16)[^107] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója a nevelőszülő alkalmasságának rendes felülvizsgálatára irányuló folyamatot
 
 a) a keretmegállapodás megkötésétől,
 
@@ -62,24 +62,24 @@ c) a rendkívüli felülvizsgálat lezárásának időpontjától
 
 számított két év lejártát megelőző harminc nappal elindítja a GYVR nevelőszülői alkalmassági alrendszerében.
 
-(17)[^107] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója a nevelőszülő alkalmasságának rendkívüli felülvizsgálatát az erre irányuló kezdeményezés beérkezését követő öt napon belül elindítja a GYVR nevelőszülői alkalmassági alrendszerében.
+(17)[^108] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója a nevelőszülő alkalmasságának rendkívüli felülvizsgálatát az erre irányuló kezdeményezés beérkezését követő öt napon belül elindítja a GYVR nevelőszülői alkalmassági alrendszerében.
 
-(18)[^108] A gondozási hely vezetője a GYVR gondozási helyek férőhely-nyilvántartási alrendszerében haladéktalanul, de legkésőbb két munkanapon belül rögzíti az arra vonatkozó adatot, hogy
+(18)[^109] A gondozási hely vezetője a GYVR gondozási helyek férőhely-nyilvántartási alrendszerében haladéktalanul, de legkésőbb két munkanapon belül rögzíti az arra vonatkozó adatot, hogy
 
 a) a gyermeket a Gyvt. 55. § (6) bekezdése vagy 57. § (2) bekezdés b) pontja alapján ideiglenesen befogadja, vagy
 
 b) az utógondozói ellátás biztosítása céljából befogadó nyilatkozatot bocsátott ki.
 
-(19)[^109] A GYVR gondozási helyek férőhely-nyilvántartási alrendszere automatikusan törli a (18) bekezdés szerint rögzített adatot, ha a gondozási hely vezetője a férőhely lefoglalását nem szünteti meg
+(19)[^110] A GYVR gondozási helyek férőhely-nyilvántartási alrendszere automatikusan törli a (18) bekezdés szerint rögzített adatot, ha a gondozási hely vezetője a férőhely lefoglalását nem szünteti meg
 
 a) a (18) bekezdés a) pontja szerinti esetben az ideiglenes befogadás dátumát követő 4. napon,
 
 b) a (18) bekezdés b) pontja szerinti esetben a rögzítés dátumát követő 71. napon.
 
-[^103]: A 11/Q. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^104]: A 11/Q. § (14) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
-[^105]: A 11/Q. § (15) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
-[^106]: A 11/Q. § (16) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
-[^107]: A 11/Q. § (17) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
-[^108]: A 11/Q. § (18) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
-[^109]: A 11/Q. § (19) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^104]: A 11/Q. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 26. §-a, a 432/2025. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^105]: A 11/Q. § (14) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^106]: A 11/Q. § (15) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^107]: A 11/Q. § (16) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^108]: A 11/Q. § (17) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^109]: A 11/Q. § (18) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^110]: A 11/Q. § (19) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.

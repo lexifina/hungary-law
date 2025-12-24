@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-235-20-
 | 2024-07-09 | 1997-235-20-22.29 | 194/2024. (VII. 8.) Korm. rendelet |
 | 2024-12-21 | 1997-235-20-22.30 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2025-07-01 | 1997-235-20-22.31 | 179/2025. (VI. 30.) Korm. rendelet |
+| 2025-12-24 | 1997-235-20-22.32 | 432/2025. (XII. 23.) Korm. rendelet |

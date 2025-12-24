@@ -18,33 +18,35 @@ f) az örökbefogadás engedélyezéséről szóló döntés rögzítését köv
 
 (3)[^70] A gyermek hazai örökbefogadásának elősegítése érdekében – a területi gyermekvédelmi szakszolgálat által az országos örökbefogadást elősegítő szerv részére átadott feladat elvégzése céljából – a gyermek- és ifjúságpolitikáért felelős miniszter kijelöli a feladat elvégzéséért felelős személyt, és a kijelölést legkésőbb két munkanapon belül rögzíti a GYVR-ben.
 
-(4)[^71] A gyermek nemzetközi örökbefogadásának elősegítése céljából az országos örökbefogadást elősegítő szerv részéről átadott feladat elvégzéséért felelős személyt a gyermek- és ifjúságpolitikáért felelős miniszter jelöli ki, és a kijelölést legkésőbb két munkanapon belül rögzít a GYVR-ben.
+(3a)[^71] A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 49/A. §-a szerinti feladat elvégzése céljából a gyermekvédelmi és gyámügyi feladatkörében eljáró Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal kerül kijelölésre, mely kijelölés és az ezzel járó jogosultság a GYVR-ben rögzítésre kerül.
+
+(4)[^72] A gyermek nemzetközi örökbefogadásának elősegítése céljából az országos örökbefogadást elősegítő szerv részéről átadott feladat elvégzéséért felelős személyt a gyermek- és ifjúságpolitikáért felelős miniszter jelöli ki, és a kijelölést legkésőbb két munkanapon belül rögzít a GYVR-ben.
 
 (5) A gyermek nevelőszülőnél, gyermekotthonban vagy a Gyvt. 53. § (6) bekezdés c) pontja szerinti intézménybe történő ideiglenes hatályú elhelyezéséről, nevelésbe vételéről, gondozási helyének megváltozásáról, ellátási szükségletének megváltozásáról, a fiatal felnőtt utógondozói ellátásának elrendeléséről és utógondozói ellátásának megváltozásáról szóló döntés rögzítését követően az otthont nyújtó ellátást, illetve az utógondozói ellátást biztosító nevelőszülői hálózat vagy gyermekotthon, a Gyvt. 53. § (6) bekezdés c) pontja szerinti intézmény szakmai vezetője haladéktalanul, de legkésőbb két munkanapon belül kijelöli a feladat ellátásért felelős szakembert, és a kijelölést rögzíti a GYVR-ben.
 
-(5a)[^72] A gyermekotthon vezetője a Gyvt. 57. § (2) bekezdés b) pontja szerinti ideiglenes gondozásra történő befogadás tényét, valamint az ideiglenes gondozás megszűnésének időpontját huszonnégy órán belül rögzíti a gondozási helyek férőhely-nyilvántartási alrendszerében. Ha a gyermekotthon vezetője az ideiglenes gondozás megszűnése időpontjának rögzítését elmulasztja, a férőhely az ideiglenes gondozásra történő befogadást követő negyedik napon automatikusan felszabadul.
+(5a)[^73] A gyermekotthon vezetője a Gyvt. 57. § (2) bekezdés b) pontja szerinti ideiglenes gondozásra történő befogadás tényét, valamint az ideiglenes gondozás megszűnésének időpontját huszonnégy órán belül rögzíti a gondozási helyek férőhely-nyilvántartási alrendszerében. Ha a gyermekotthon vezetője az ideiglenes gondozás megszűnése időpontjának rögzítését elmulasztja, a férőhely az ideiglenes gondozásra történő befogadást követő negyedik napon automatikusan felszabadul.
 
-(5b)[^73] A nevelőszülői hálózat és a gyermekotthon vezetője a gondozási helyek férőhely-nyilvántartási alrendszerében két munkanapon belül rögzíti, ha a fiatal felnőtt utógondozói ellátásának biztosítására vonatkozóan befogadó nyilatkozatot adott ki.
+(5b)[^74] A nevelőszülői hálózat és a gyermekotthon vezetője a gondozási helyek férőhely-nyilvántartási alrendszerében két munkanapon belül rögzíti, ha a fiatal felnőtt utógondozói ellátásának biztosítására vonatkozóan befogadó nyilatkozatot adott ki.
 
-(5c)[^74] Ha a fiatal felnőtt utógondozói ellátásra irányuló kérelmét a gyámhatóság elutasítja, a nevelőszülői hálózat és a gyermekotthon vezetője az (5b) bekezdés szerinti adatrögzítést törli. Ha a törlés elmarad, a férőhely az (5b) bekezdés szerinti adatrögzítést követő hetvenegyedik napon automatikusan felszabadul.
+(5c)[^75] Ha a fiatal felnőtt utógondozói ellátásra irányuló kérelmét a gyámhatóság elutasítja, a nevelőszülői hálózat és a gyermekotthon vezetője az (5b) bekezdés szerinti adatrögzítést törli. Ha a törlés elmarad, a férőhely az (5b) bekezdés szerinti adatrögzítést követő hetvenegyedik napon automatikusan felszabadul.
 
-(6)[^75] A területi gyermekvédelmi szakszolgálat vezetője az illetékessége megváltozását – az arra okot adó körülményről történő értesülést követően – legkésőbb két munkanapon belül rögzíti a GYVR-ben. Az újonnan illetékessé váló területi gyermekvédelmi szakszolgálat vezetője az illetékességváltozás GYVR-ben történő rögzítését követően legkésőbb két munkanapon belül kijelöli a feladatellátásért felelős szervezeti egység vezetőjét, és a kijelölést rögzíti a GYVR-ben.
+(6)[^76] A területi gyermekvédelmi szakszolgálat vezetője az illetékessége megváltozását – az arra okot adó körülményről történő értesülést követően – legkésőbb két munkanapon belül rögzíti a GYVR-ben. Az újonnan illetékessé váló területi gyermekvédelmi szakszolgálat vezetője az illetékességváltozás GYVR-ben történő rögzítését követően legkésőbb két munkanapon belül kijelöli a feladatellátásért felelős szervezeti egység vezetőjét, és a kijelölést rögzíti a GYVR-ben.
 
 (7) Az adat rögzítéséért felelős szerv vezetője a tévesen rögzített személy valamennyi adatát – a téves rögzítés tudomására jutását követően haladéktalanul – törli a GYVR-ből.
 
-(8)[^76] A család- és gyermekjóléti szolgáltatást nyújtó a gyermek veszélyeztetettségéről szóló jelzés vagy önkéntes jelentkezés esetén a gyermekről a Gyvt. 139. § (3a) bekezdése szerinti adatokat a GYVR törzsadat alrendszerében rögzíti, ha a gyermek adatai előzmény nélküliek a GYVR-ben.
+(8)[^77] A család- és gyermekjóléti szolgáltatást nyújtó a gyermek veszélyeztetettségéről szóló jelzés vagy önkéntes jelentkezés esetén a gyermekről a Gyvt. 139. § (3a) bekezdése szerinti adatokat a GYVR törzsadat alrendszerében rögzíti, ha a gyermek adatai előzmény nélküliek a GYVR-ben.
 
-(9)[^77] A család- és gyermekjóléti szolgáltatást nyújtó a jelzés vagy az önkéntes jelentkezés adatait a GYVR tervező és értékelő alrendszerében legkésőbb a jelzést vagy jelentkezést követő hét napon belül rögzíti, valamint feltölti a jelzésről szóló dokumentumot és az önkéntes jelentkezésről szóló feljegyzést a GYVR dokumentumtárába.
+(9)[^78] A család- és gyermekjóléti szolgáltatást nyújtó a jelzés vagy az önkéntes jelentkezés adatait a GYVR tervező és értékelő alrendszerében legkésőbb a jelzést vagy jelentkezést követő hét napon belül rögzíti, valamint feltölti a jelzésről szóló dokumentumot és az önkéntes jelentkezésről szóló feljegyzést a GYVR dokumentumtárába.
 
-(10)[^78] A család- és gyermekjóléti szolgáltatást nyújtó a jelzést tevő irányába tett visszajelzés adatait az első interjútól számított tizenöt napon belül rögzíti, és a visszajelzést tartalmazó dokumentumot feltölti a GYVR dokumentumtárába.
+(10)[^79] A család- és gyermekjóléti szolgáltatást nyújtó a jelzést tevő irányába tett visszajelzés adatait az első interjútól számított tizenöt napon belül rögzíti, és a visszajelzést tartalmazó dokumentumot feltölti a GYVR dokumentumtárába.
 
-(11)[^79] A család- és gyermekjóléti szolgálat családsegítője a megállapodás adatait a megállapodás megkötésétől számított öt napon belül rögzíti a GYVR-ben, a család- és gyermekjóléti szolgálat szakmai vezetője a rögzítéstől számított öt napon belül jóváhagyja azt.
+(11)[^80] A család- és gyermekjóléti szolgálat családsegítője a megállapodás adatait a megállapodás megkötésétől számított öt napon belül rögzíti a GYVR-ben, a család- és gyermekjóléti szolgálat szakmai vezetője a rögzítéstől számított öt napon belül jóváhagyja azt.
 
-(12)[^80] A család- és gyermekjóléti szolgáltatást, valamint a gyermekek átmeneti gondozását nyújtó a 11. § szerinti Egészségügyi lapot annak beérkezésétől számított öt napon belül feltölti a GYVR dokumentumtárába.
+(12)[^81] A család- és gyermekjóléti szolgáltatást, valamint a gyermekek átmeneti gondozását nyújtó a 11. § szerinti Egészségügyi lapot annak beérkezésétől számított öt napon belül feltölti a GYVR dokumentumtárába.
 
-(13)[^81] Ha a család problémája előreláthatólag hosszabb távú esetkezelést igényel, a család- és gyermekjóléti szolgálat a Gyvt. 135. § (2) bekezdés a)–c) pontja szerinti adatokat és az azokban bekövetkezett változásokat a GYVR törzsadat alrendszerében rögzíti. A családsegítő a környezettanulmányt, valamint a cselekvési és intézkedési tervet az együttműködési megállapodás megkötésétől számított tizenöt napon belül, a helyzetértékelést pedig ezek alapján félévente vagy szükség szerint a GYVR tervező és értékelő alrendszerében készíti el. Ha a család- és gyermekjóléti szolgáltatást nyújtó gyermekvédelmi gondoskodás alá tartozó hatósági intézkedést kezdeményez, vagy arra javaslatot tesz, azt a szakmai vezető véglegesíti.
+(13)[^82] Ha a család problémája előreláthatólag hosszabb távú esetkezelést igényel, a család- és gyermekjóléti szolgálat a Gyvt. 135. § (2) bekezdés a)–c) pontja szerinti adatokat és az azokban bekövetkezett változásokat a GYVR törzsadat alrendszerében rögzíti. A családsegítő a környezettanulmányt, valamint a cselekvési és intézkedési tervet az együttműködési megállapodás megkötésétől számított tizenöt napon belül, a helyzetértékelést pedig ezek alapján félévente vagy szükség szerint a GYVR tervező és értékelő alrendszerében készíti el. Ha a család- és gyermekjóléti szolgáltatást nyújtó gyermekvédelmi gondoskodás alá tartozó hatósági intézkedést kezdeményez, vagy arra javaslatot tesz, azt a szakmai vezető véglegesíti.
 
-(14)[^82] A Gyvt. 135. § (2) bekezdés a)–c) pontja szerinti adatokban bekövetkezett változásokat a tudomására jutástól számított hét napon belül
+(14)[^83] A Gyvt. 135. § (2) bekezdés a)–c) pontja szerinti adatokban bekövetkezett változásokat a tudomására jutástól számított hét napon belül
 
 a) gyermekvédelmi gondoskodás alatt nem álló veszélyeztetett gyermek esetén a család- és gyermekjóléti szolgálat családsegítője,
 
@@ -54,37 +56,37 @@ c) az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek esetében 
 
 rögzíti a GYVR törzsadat alrendszerében.
 
-(15)[^83] A család- és gyermekjóléti szolgálat szakmai vezetője a Gyvt. 135. § (2) bekezdés a)–c) pontja szerinti adatok rögzítésével, valamint a GYVR tervező és értékelő alrendszerében a környezettanulmány, a cselekvési és intézkedési terv, valamint a helyzetértékelés véglegesítésével
+(15)[^84] A család- és gyermekjóléti szolgálat szakmai vezetője a Gyvt. 135. § (2) bekezdés a)–c) pontja szerinti adatok rögzítésével, valamint a GYVR tervező és értékelő alrendszerében a környezettanulmány, a cselekvési és intézkedési terv, valamint a helyzetértékelés véglegesítésével
 
 a) kezdeményezi – az ideiglenes hatályú elhelyezés kivételével – a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés megtételét, vagy
 
 b) javaslatot tesz a gyermek ideiglenes hatályú elhelyezésére.
 
-(16)[^84] A család- és gyermekjóléti központ esetmenedzsere a GYVR tervező és értékelő alrendszerében a család- és gyermekjóléti szolgálat által rögzített, a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés kezdeményezését javaslatával kiegészíti, és azt a család- és gyermekjóléti központ szakmai vezetője öt napon belül véglegesíti.
+(16)[^85] A család- és gyermekjóléti központ esetmenedzsere a GYVR tervező és értékelő alrendszerében a család- és gyermekjóléti szolgálat által rögzített, a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés kezdeményezését javaslatával kiegészíti, és azt a család- és gyermekjóléti központ szakmai vezetője öt napon belül véglegesíti.
 
-(17)[^85] Hatósági megkeresés esetén a gyermekjóléti szolgáltatást nyújtó vezetője haladéktalanul, de legkésőbb öt napon belül kijelöli a feladat ellátására köteles munkatársat, és a kijelölést rögzíti a GYVR-ben. A család- és gyermekjóléti központ esetmenedzsere ezzel egyidejűleg az adatrögzítés alapjául szolgáló hatósági döntés adatait rögzíti, és a döntést tartalmazó okiratot feltölti a GYVR dokumentumtárába.
+(17)[^86] Hatósági megkeresés esetén a gyermekjóléti szolgáltatást nyújtó vezetője haladéktalanul, de legkésőbb öt napon belül kijelöli a feladat ellátására köteles munkatársat, és a kijelölést rögzíti a GYVR-ben. A család- és gyermekjóléti központ esetmenedzsere ezzel egyidejűleg az adatrögzítés alapjául szolgáló hatósági döntés adatait rögzíti, és a döntést tartalmazó okiratot feltölti a GYVR dokumentumtárába.
 
-(18)[^86] Előzménnyel nem rendelkező ügyek esetében a környezettanulmányt és a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés kezdeményezését tizenöt napon belül – a gyámhivatal vagy a család- és gyermekjóléti központ felkérésére – a család- és gyermekjóléti szolgálat szakmai vezetője vagy a család- és gyermekjóléti központ vezetője véglegesíti.
+(18)[^87] Előzménnyel nem rendelkező ügyek esetében a környezettanulmányt és a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés kezdeményezését tizenöt napon belül – a gyámhivatal vagy a család- és gyermekjóléti központ felkérésére – a család- és gyermekjóléti szolgálat szakmai vezetője vagy a család- és gyermekjóléti központ vezetője véglegesíti.
 
-(19)[^87] Gyermekvédelmi gondoskodás alatt álló gyermek esetében a hazagondozás céljából készített környezettanulmányt a család- és gyermekjóléti központ szakmai vezetője véglegesíti. Ha a környezettanulmányra nem a hazagondozás céljából van szükség, azt a (18) bekezdés szerint kell véglegesíteni.
+(19)[^88] Gyermekvédelmi gondoskodás alatt álló gyermek esetében a hazagondozás céljából készített környezettanulmányt a család- és gyermekjóléti központ szakmai vezetője véglegesíti. Ha a környezettanulmányra nem a hazagondozás céljából van szükség, azt a (18) bekezdés szerint kell véglegesíteni.
 
-(20)[^88] Ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a család- és gyermekjóléti szolgálat szakmai vezetője az ideiglenes hatályú döntésről való értesüléstől számított harminc napon belül véglegesíti a környezettanulmányt és a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés kezdeményezését. A (16) bekezdés szerinti javaslatot a család- és gyermekjóléti központ szakmai vezetője véglegesíti a gondozási terv és a gondozási folyamat összegzése nélkül.
+(20)[^89] Ha a gyermek előzmény nélkül került ideiglenes hatályú elhelyezésbe, a család- és gyermekjóléti szolgálat szakmai vezetője az ideiglenes hatályú döntésről való értesüléstől számított harminc napon belül véglegesíti a környezettanulmányt és a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés kezdeményezését. A (16) bekezdés szerinti javaslatot a család- és gyermekjóléti központ szakmai vezetője véglegesíti a gondozási terv és a gondozási folyamat összegzése nélkül.
 
-(21)[^89] A pártfogói felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: pártfogó felügyelői szolgálat) részére akkor kell továbbítani a környezettanulmányt, ha a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a család- és gyermekjóléti központot.
+(21)[^90] A pártfogói felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: pártfogó felügyelői szolgálat) részére akkor kell továbbítani a környezettanulmányt, ha a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban megkeresi a család- és gyermekjóléti központot.
 
-(22)[^90] A család- és gyermekjóléti központ a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedésről szóló döntést – a kézhezvételétől számított legkésőbb öt napon belül – feltölti a GYVR dokumentumtárába. Az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermekek esetében a hatósági döntés kézhezvételének dátumát kell rögzíteni.
+(22)[^91] A család- és gyermekjóléti központ a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedésről szóló döntést – a kézhezvételétől számított legkésőbb öt napon belül – feltölti a GYVR dokumentumtárába. Az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermekek esetében a hatósági döntés kézhezvételének dátumát kell rögzíteni.
 
-(23)[^91] A család- és gyermekjóléti szolgáltatást nyújtó szakmai vezetője a védelembe vételről szóló döntés kézhezvételét követően haladéktalanul, de legkésőbb öt napon belül kijelöli a feladat ellátásáért felelős munkatársat, és a kijelölést rögzíti a GYVR-ben.
+(23)[^92] A család- és gyermekjóléti szolgáltatást nyújtó szakmai vezetője a védelembe vételről szóló döntés kézhezvételét követően haladéktalanul, de legkésőbb öt napon belül kijelöli a feladat ellátásáért felelős munkatársat, és a kijelölést rögzíti a GYVR-ben.
 
-(24)[^92] Az esetmenedzser a családi, egyéni gondozási-nevelési tervet a GYVR tervező és értékelő alrendszerében a védelembevételi határozat véglegessé válását követő tizenöt napon belül elkészíti, amelyet a család- és gyermekjóléti szolgáltatást nyújtó szakmai vezetője véglegesít.
+(24)[^93] Az esetmenedzser a családi, egyéni gondozási-nevelési tervet a GYVR tervező és értékelő alrendszerében a védelembevételi határozat véglegessé válását követő tizenöt napon belül elkészíti, amelyet a család- és gyermekjóléti szolgáltatást nyújtó szakmai vezetője véglegesít.
 
-(25)[^93] A gondozási-nevelési tervet továbbítani kell
+(25)[^94] A gondozási-nevelési tervet továbbítani kell
 
 a) a család- és gyermekjóléti szolgálat kivételével minden olyan szerv, személy részére, akire nézve a gondozási-nevelési terv feladatot tartalmaz,
 
 b) a pártfogó felügyelői szolgálat részére, ha a gyámhivatal a megelőző pártfogás elrendelésével kapcsolatban kereste meg a család- és gyermekjóléti központot.
 
-(26)[^94] Az esetmenedzser a helyzetértékelést a GYVR tervező és értékelő alrendszerében
+(26)[^95] Az esetmenedzser a helyzetértékelést a GYVR tervező és értékelő alrendszerében
 
 a) a védelembe vételt elrendelő határozatban kitűzött felülvizsgálat időpontja előtt tíz nappal,
 
@@ -94,11 +96,11 @@ c) a soron kívüli felülvizsgálat kezdeményezésekor
 
 készíti el, amit a család- és gyermekjóléti központ vezetője véglegesít.
 
-(27)[^95] A helyzetértékelést a család- és gyermekjóléti központ vezetője megküldi a pártfogói felügyelő szolgálat részére, ha a gyámhivatal megelőző pártfogást rendelt el.
+(27)[^96] A helyzetértékelést a család- és gyermekjóléti központ vezetője megküldi a pártfogói felügyelő szolgálat részére, ha a gyámhivatal megelőző pártfogást rendelt el.
 
-(28)[^96] A család- és gyermekjóléti központ vezetője a családi kapcsolatok ápolását segítő családgondozás tervezése érdekében a nevelésbe vételről szóló döntés kézhezvételét követően haladéktalanul, de legkésőbb három napon belül kijelöli a feladat ellátásáért felelős munkatársat, és a kijelölést rögzíti a GYVR-ben.
+(28)[^97] A család- és gyermekjóléti központ vezetője a családi kapcsolatok ápolását segítő családgondozás tervezése érdekében a nevelésbe vételről szóló döntés kézhezvételét követően haladéktalanul, de legkésőbb három napon belül kijelöli a feladat ellátásáért felelős munkatársat, és a kijelölést rögzíti a GYVR-ben.
 
-(29)[^97] A család- és gyermekjóléti központ vezetője a GYVR tervező és értékelő alrendszerében
+(29)[^98] A család- és gyermekjóléti központ vezetője a GYVR tervező és értékelő alrendszerében
 
 a) a családi kapcsolatok ápolását segítő családgondozás tervezését a nevelésbe vétel tárgyában hozott határozatról való értesítést követő harminc napon belül és
 
@@ -106,7 +108,7 @@ b) a családi kapcsolatok ápolását segítő családgondozás tervezésének m
 
 véglegesíti.
 
-(30)[^98] A család- és gyermekjóléti központ szakmai vezetője a GYVR tervező és értékelő alrendszerében a nevelésbe vett gyermek helyzetértékelését
+(30)[^99] A család- és gyermekjóléti központ szakmai vezetője a GYVR tervező és értékelő alrendszerében a nevelésbe vett gyermek helyzetértékelését
 
 a) félévente,
 
@@ -116,9 +118,9 @@ c) a gyámhatósági felülvizsgálatot megelőzően, a gyámhivatali felkérés
 
 véglegesíti.
 
-(31)[^99] Az átmeneti gondozást nyújtónak az ellátást újonnan igénybe vevő személyes adatait és az ellátás kezdetének időpontját legkésőbb az ellátás kezdetét követő hét napon belül, az ellátás végének időpontját az ellátás utolsó napját követő három napon belül rögzítenie kell a GYVR törzsadat alrendszerében. Az átmeneti gondozást nyújtó intézmény vezetőjének az ellátás kezdetének időpontját tíz napon belül, az ellátás végének időpontját három napon belül kell jóváhagynia.
+(31)[^100] Az átmeneti gondozást nyújtónak az ellátást újonnan igénybe vevő személyes adatait és az ellátás kezdetének időpontját legkésőbb az ellátás kezdetét követő hét napon belül, az ellátás végének időpontját az ellátás utolsó napját követő három napon belül rögzítenie kell a GYVR törzsadat alrendszerében. Az átmeneti gondozást nyújtó intézmény vezetőjének az ellátás kezdetének időpontját tíz napon belül, az ellátás végének időpontját három napon belül kell jóváhagynia.
 
-(32)[^100] A helyettes szülői hálózat szakmai vezetője és a gyermekek átmeneti otthona szakmai vezetője a GYVR tervező és értékelő alrendszerében
+(32)[^101] A helyettes szülői hálózat szakmai vezetője és a gyermekek átmeneti otthona szakmai vezetője a GYVR tervező és értékelő alrendszerében
 
 a) az ellátott gyermek egyéni gondozási-nevelési tervét elhelyezés esetén az elhelyezést követő harminc napon belül és
 
@@ -126,7 +128,7 @@ b) – gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés m
 
 véglegesíti.
 
-(33)[^101] A családok átmeneti otthona szakmai vezetője a GYVR tervező és értékelő alrendszerében
+(33)[^102] A családok átmeneti otthona szakmai vezetője a GYVR tervező és értékelő alrendszerében
 
 a) az ellátott gyermekre vonatkozóan az egyéni gondozási-nevelési tervet, valamint az ellátott családra, válsághelyzetben lévő várandós anyára vagy a bántalmazott felnőttre a családgondozási lapot az elhelyezést követő harminc napon belül,
 
@@ -134,41 +136,42 @@ b) – a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés
 
 véglegesíti.
 
-(34)[^102] A család- és gyermekjóléti szolgáltatást nyújtó vezetője az illetékessége megváltozására vonatkozó tényt – az arra okot adó körülményről történő értesülést követően – legkésőbb öt napon belül rögzíti a GYVR-ben. Az újonnan illetékessé váló család- és gyermekjóléti szolgáltatást nyújtó vezetője az illetékességváltozás GYVR-ben történő rögzítését követően legkésőbb öt napon belül kijelöli a feladat ellátásáért felelős szervezeti egység vezetőjét, és a kijelölést rögzíti a GYVR-ben.
+(34)[^103] A család- és gyermekjóléti szolgáltatást nyújtó vezetője az illetékessége megváltozására vonatkozó tényt – az arra okot adó körülményről történő értesülést követően – legkésőbb öt napon belül rögzíti a GYVR-ben. Az újonnan illetékessé váló család- és gyermekjóléti szolgáltatást nyújtó vezetője az illetékességváltozás GYVR-ben történő rögzítését követően legkésőbb öt napon belül kijelöli a feladat ellátásáért felelős szervezeti egység vezetőjét, és a kijelölést rögzíti a GYVR-ben.
 
 [^67]: A 2/D. alcímet (11/P–11/R. §) a 447/2020. (X. 1.) Korm. rendelet 8. §-a iktatta be.
 [^68]: A 11/P. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
 [^69]: A 11/P. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
 [^70]: A 11/P. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^71]: A 11/P. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^72]: A 11/P. § (5a) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^73]: A 11/P. § (5b) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^74]: A 11/P. § (5c) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^75]: A 11/P. § (6) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^76]: A 11/P. § (8) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^77]: A 11/P. § (9) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^78]: A 11/P. § (10) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^79]: A 11/P. § (11) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^80]: A 11/P. § (12) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^81]: A 11/P. § (13) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^82]: A 11/P. § (14) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^83]: A 11/P. § (15) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^84]: A 11/P. § (16) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^85]: A 11/P. § (17) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^86]: A 11/P. § (18) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^87]: A 11/P. § (19) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^88]: A 11/P. § (20) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^89]: A 11/P. § (21) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^90]: A 11/P. § (22) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^91]: A 11/P. § (23) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^92]: A 11/P. § (24) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^93]: A 11/P. § (25) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^94]: A 11/P. § (26) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^95]: A 11/P. § (27) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^96]: A 11/P. § (28) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^97]: A 11/P. § (29) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^98]: A 11/P. § (30) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^99]: A 11/P. § (31) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^100]: A 11/P. § (32) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^101]: A 11/P. § (33) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
-[^102]: A 11/P. § (34) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^71]: A 11/P. § (3a) bekezdését a 432/2025. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^72]: A 11/P. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^73]: A 11/P. § (5a) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A 11/P. § (5b) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^75]: A 11/P. § (5c) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^76]: A 11/P. § (6) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^77]: A 11/P. § (8) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^78]: A 11/P. § (9) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^79]: A 11/P. § (10) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^80]: A 11/P. § (11) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^81]: A 11/P. § (12) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^82]: A 11/P. § (13) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^83]: A 11/P. § (14) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^84]: A 11/P. § (15) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^85]: A 11/P. § (16) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^86]: A 11/P. § (17) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^87]: A 11/P. § (18) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^88]: A 11/P. § (19) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^89]: A 11/P. § (20) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^90]: A 11/P. § (21) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^91]: A 11/P. § (22) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^92]: A 11/P. § (23) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^93]: A 11/P. § (24) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^94]: A 11/P. § (25) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^95]: A 11/P. § (26) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^96]: A 11/P. § (27) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^97]: A 11/P. § (28) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^98]: A 11/P. § (29) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^99]: A 11/P. § (30) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^100]: A 11/P. § (31) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^101]: A 11/P. § (32) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^102]: A 11/P. § (33) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
+[^103]: A 11/P. § (34) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 15. §-a iktatta be.
