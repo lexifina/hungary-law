@@ -1,0 +1,3 @@
+75. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 174. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a keresetlevél alapján megállapítható, hogy a per elbírálása valamely más bíróság hatáskörébe vagy illetékességébe tartozik, a bíróság elrendeli a keresetlevélnek ehhez a bírósághoz történő áttételét. Áttételnek van helye akkor is, ha a jogvita elbírálása közigazgatási perben, vagy egyéb közigazgatási bírósági eljárásban eljáró bíróság hatáskörébe tartozik, valamint akkor is, ha a keresetlevelet a törvényszékhez nyújtják be, de a jogvita elbírálása a munkaügyi perben eljáró bíróság hatáskörébe tartozik, illetve ha a keresetlevelet a munkaügyi perben eljáró bírósághoz nyújtják be, de a jogvita elbírálása a törvényszék hatáskörébe tartozik.”

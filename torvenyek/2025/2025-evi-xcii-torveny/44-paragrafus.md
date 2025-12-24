@@ -1,0 +1,9 @@
+## „9. A vezetői kinevezés visszavonása, megszűnése”
+
+44. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 9. alcíme a következő 25/A. §-sal egészül ki:
+
+„25/A. § (1) A főtitkár és a főtitkár-helyettes vezetői kinevezése az őt kinevező legfőbb ügyész megbízatási idejére szól. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a főtitkárnak és a főtitkár-helyettesnek a vezetői megbízatása is megszűnik. A legfőbb ügyész újraválasztása esetén a főtitkár és a főtitkár-helyettes vezetői kinevezése az őt kinevező legfőbb ügyész megbízatási idejére meghosszabbodik.
+
+(2) A legfőbb ügyész a megválasztott legfőbb ügyésszel egyeztetve a megbízatási ideje lejártát legalább 20, de legfeljebb 30 nappal megelőzően kiírja a főtitkári és főtitkár-helyettesi tisztségre vonatkozó pályázatot. A megválasztott legfőbb ügyész a pályázatokat hivatalba lépését követően haladéktalanul elbírálja. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a pályázatot a megválasztott legfőbb ügyész hivatalba lépését követően haladéktalanul kiírja. A legfőbb ügyész újraválasztása esetén pályázat kiírására nem kerül sor.
+
+(3) A főtitkár és a főtitkár-helyettes vezetői kinevezésének visszavonása, megszűnése vagy vezetői tisztségéről való lemondása esetében a 25. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a volt főtitkárt áthelyezése esetén – amennyiben legalább egy évig a főtitkári tisztséget betöltötte – legalább főosztályvezető-helyettes ügyészi illetmény, a volt főtitkár-helyettest áthelyezése esetén – amennyiben legalább egy évig a főtitkár-helyettesi tisztséget betöltötte – legalább legfőbb ügyészségi osztályvezető ügyészi illetmény illeti meg.”
