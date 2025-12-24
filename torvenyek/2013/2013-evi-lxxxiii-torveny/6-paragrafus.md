@@ -9,3 +9,9 @@ b) szorosan együttműködik a csoporton belüli szabályozott vállalkozás fel
 c) értesíti az érintett felügyeleti hatóságokat és az Európai Felügyeleti Hatóságok vegyes bizottságát (a továbbiakban: vegyes bizottság), ha egy magyarországi székhellyel rendelkező szabályozott vállalkozásról megállapítja, hogy az pénzügyi konglomerátumhoz tartozik.
 
 (3) A kiegészítő felügyeletet ellátó Felügyelet értesíti a csoport élén álló anyavállalatot vagy anyavállalat hiányában azt a szabályozott vállalkozást, amely a csoport legjelentősebb pénzügyi ágazatában a legnagyobb mérlegfőösszeggel rendelkezik, ha a csoport pénzügyi konglomerátumnak minősül.
+
+(4) A vegyes pénzügyi holding társaság kizárólag a legjelentősebb pénzügyi ágazatra vonatkozó rendelkezéseket alkalmazza, ha
+
+a) a csoportban a biztosítók felügyeletéért felelős felügyeleti hatóság egyetért és
+
+b) a vegyes pénzügyi holding társaság megfelel a biztosítási tevékenységről szóló törvény érintett előírásainak, így különösen a kockázat alapú felügyelet tekintetében.
