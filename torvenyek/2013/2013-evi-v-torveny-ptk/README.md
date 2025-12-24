@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2025-08-19 | 2025. évi XLIX. törvény | 2013-5-00-00.43 |
 | 2025-08-22 | 2025. évi LXVII. törvény | 2013-5-00-00.44 |
 | 2025-12-17 | 2025. évi XCV. törvény | 2013-5-00-00.47 |
+| 2025-12-24 | 2025. évi XCII. törvény | 2013-5-00-00.45 |
