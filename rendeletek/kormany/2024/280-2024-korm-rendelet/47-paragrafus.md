@@ -38,7 +38,7 @@ esetében létesíthető, ha a helyi építési szabályzat megengedi és az ál
 
 (4) A (3) bekezdés a), c) és d) pontja szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 1/2-e lehet. Az épületkiugrás – az erkélyt is beleértve – a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,00 méter távolságra lehet.
 
-(5)[^11] Az elő- és oldalkertben nem helyezhető el:
+(5)[^13] Az elő- és oldalkertben nem helyezhető el:
 
 a) növénytermesztés céljára szolgáló üvegház és fóliasátor,
 
@@ -66,7 +66,7 @@ ha az elhelyezése szerinti telek és a szomszédos telek rendeltetésszerű has
 
 (8) Ha a helyi építési szabályzat másként nem rendelkezik, terepszint alatt gépjárműtároló, valamint önálló és épülethez kapcsolódó pince az építési helyen kívül is elhelyezhető, azzal, hogy az a közvetlenül szomszédos telkek rendeltetésszerű használatát nem korlátozhatja.
 
-(9)[^12] Ha a helyi építési szabályzat másként nem rendelkezik, a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, az elő-, oldal- és hátsókertben elhelyezhető
+(9)[^14] Ha a helyi építési szabályzat másként nem rendelkezik, a 6. § (3) bekezdés 7–10. pontja szerinti építési övezetekben, az elő-, oldal- és hátsókertben elhelyezhető
 
 a) portaépület legfeljebb 50 m2-es beépítési mértékig,
 
@@ -82,5 +82,5 @@ f) oltóvíztároló,
 
 g) aggregátor.
 
-[^11]: A 47. § (5) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^12]: A 47. § (9) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^13]: A 47. § (5) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^14]: A 47. § (9) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 28. § (2) bekezdése iktatta be.

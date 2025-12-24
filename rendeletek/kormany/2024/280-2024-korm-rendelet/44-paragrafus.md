@@ -12,11 +12,11 @@ d) ahol a használat során képződő hulladék gyűjtésére szolgáló, a hul
 
 e) – ha e rendelet vagy a helyi építési szabályzat másként nem rendelkezik – ahol a gépjárművek elhelyezése biztosítható.
 
-(2)[^9] Az (1) bekezdés b)–d) pontjában előírtak a környezettudatos energiagazdálkodás eszközeivel közüzemi szolgáltatással vagy egyedi módon teljesíthetők az övezetre előírt teljes közművesítettség esetében is.
+(2)[^11] Az (1) bekezdés b)–d) pontjában előírtak a környezettudatos energiagazdálkodás eszközeivel közüzemi szolgáltatással vagy egyedi módon teljesíthetők az övezetre előírt teljes közművesítettség esetében is.
 
 (3) Kialakult állapot esetén – az (1) bekezdés a) pontjától eltérően –, ha a domborzati adottságok vagy a védett növényállomány miatt a telek gépjárművel nem közelíthető meg, a telek beépíthetőségének nem feltétele a gépjárművel történő megközelítés.
 
-(4)[^10] A lakó vagy üdülő rendeltetésű épületre és a hozzá kapcsolódó melléképületre vonatkozó építésügyi hatósági eljárások tekintetében rendezettnek minősül az építési telek, ha azt a helyi közút vagy kiszolgáló út szélesítését vagy csökkentését szolgáló szabályozási vonal érinti. Ha településrendezési szerződés másként nem rendelkezik, a kiszolgáló út céljára szolgáló területrész az építési telek telekméretébe nem számítható be.
+(4)[^12] A lakó vagy üdülő rendeltetésű épületre és a hozzá kapcsolódó melléképületre vonatkozó építésügyi hatósági eljárások tekintetében rendezettnek minősül az építési telek, ha azt a helyi közút vagy kiszolgáló út szélesítését vagy csökkentését szolgáló szabályozási vonal érinti. Ha településrendezési szerződés másként nem rendelkezik, a kiszolgáló út céljára szolgáló területrész az építési telek telekméretébe nem számítható be.
 
-[^9]: A 44. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 37. § d) pontja szerint módosított szöveg.
-[^10]: A 44. § (4) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 27. §-a iktatta be.
+[^11]: A 44. § (2) bekezdése a 284/2025. (VIII. 25.) Korm. rendelet 37. § d) pontja szerint módosított szöveg.
+[^12]: A 44. § (4) bekezdését a 284/2025. (VIII. 25.) Korm. rendelet 27. §-a iktatta be.
