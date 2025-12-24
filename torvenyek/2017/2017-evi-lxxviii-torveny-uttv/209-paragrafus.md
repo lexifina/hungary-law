@@ -12,4 +12,6 @@ d) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára
 
 e) az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
 
+f) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 parlamenti és tanácsi irányelv 6. cikk (1), (2) és (5) bekezdésének, valamint 20. cikk (3) bekezdésének
+
 való megfelelést szolgálja.
