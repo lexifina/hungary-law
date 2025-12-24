@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-31-00-00
 | 2019-04-19 | 2019. évi XXXI. törvény | 2019-31-00-00.0 (közlönyállapot) |
 | 2019-04-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-31-00-00.1 |
 | 2019-04-20 | 2010. évi CXXX. törvény | 2019-31-00-00.2 |
+| 2025-12-24 | 2025. évi XCVII. törvény | 2019-31-00-00.3 |

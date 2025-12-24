@@ -2,7 +2,7 @@
 
 3. § (1) A hátrányos helyzetű, beteg, illetve sérült gyermekek fejlesztésével, kezelésével, nevelésével és integrációjával, gyermekek oktatásával, táboroztatásával, környezetvédelmi szemléletformálásával, valamint a hazai lovassport és lovas parasport fejlesztésével összefüggő állami feladatok ellátásában való közreműködés és az ilyen tárgyú közérdekű tevékenység céljából, az Országgyűlés az 1. mellékletben meghatározott ingatlanok vagyonkezelőjének 2020. szeptember 1-től kezdődően 20 éves időtartamra a Nemzetközi Gyermekmentő Szolgálat Magyar Egyesületet jelöli ki.
 
-(2) Az ingatlanok az (1) bekezdésben meghatározott időszakra ingyenesen, közfeladat ellátásához szükséges vagyonként e törvény erejénél fogva kerülnek a vagyonkezelő vagyonkezelésébe.
+(2) Az 1. mellékletben meghatározott ingatlanok az (1) bekezdésben meghatározott időszakra ingyenesen, közfeladat ellátásához szükséges vagyonként e törvény erejénél fogva kerülnek a vagyonkezelő vagyonkezelésébe.
 
 (3) A vagyonkezelő vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése szükséges. A vagyonkezelési jogviszony tartalmára az e törvényben és az egyéb jogszabályokban foglaltakat kell alkalmazni.
 
