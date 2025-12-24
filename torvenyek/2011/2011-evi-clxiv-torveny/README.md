@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2025-02-19 | 2024. évi LXXIV. törvény | 2011-164-00-00.43 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2011-164-00-00.42 |
 | 2025-08-19 | 2025. évi XLIX. törvény | 2011-164-00-00.45 |
+| 2025-12-24 | 2025. évi XCII. törvény | 2011-164-00-00.46 |

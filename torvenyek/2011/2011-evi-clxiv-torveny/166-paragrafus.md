@@ -13,3 +13,5 @@ e) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.
 f) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelv.
 
 g) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
+
+h) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 parlamenti és tanácsi irányelv 20. cikk (2) bekezdés.
