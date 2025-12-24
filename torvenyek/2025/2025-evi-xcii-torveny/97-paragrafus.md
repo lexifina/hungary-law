@@ -7,15 +7,3 @@
 (4) A 86. § a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5) Az 59. §, a 60. §, a 61. § (2) bekezdése és a 15. alcím a hibás termékekért való felelősségről és a 85/374/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2024. október 23-i (EU) 2024/2853 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

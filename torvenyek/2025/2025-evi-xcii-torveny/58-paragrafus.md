@@ -1,1 +1,1 @@
-58. § Hatályát veszti a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 148. § b) pontja.
+### 58. §
