@@ -1,8 +1,8 @@
 263. § Az Nhf.
 
-a) 4. § (3) bekezdés 16. pontjában a „személyeinek,” szövegrész helyébe a „személyeinek, felügyelő bizottsági tagjainak,” szöveg,
+a)
 
-b) 8. § (1) bekezdésében a „személy” szövegrész helyébe a „személy, felügyelő bizottsági tag” szöveg,
+b)
 
 c) 17. § (4) bekezdésében a „Felügyelet” szövegrész helyébe a „Felügyelet, valamint a fogadó EGT-állam illetékes felügyeleti hatósága” szöveg,
 

@@ -1,14 +1,6 @@
-208. § (1) A Kbftv. 11. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+208. § (1)
 
-(A kérelmező a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdés figyelembevételével –)
-
-## „a) az ABAK nevét, nyilvántartási számát, létesítő okiratát, annak igazolását, hogy főirodája és a létesítő okirat szerinti székhelye egyaránt Magyarországon van, a végezni kívánt tevékenység megnevezését, valamint a 2. melléklet szerinti működési szabályzatát;”
-
-(2) A Kbftv. 11. § (3a) bekezdése helyébe a következő rendelkezés lép és a § a következő (3b) bekezdéssel egészül ki:
-
-„(3a) A Felügyelet jóváhagyása szükséges a zártkörű befektetési alap alapkezelője minősített befolyással rendelkező tulajdonosának megváltozására vonatkozó rendelkezéseihez, ahol legalább a 21. § feltételeit figyelembe veszi.
-
-(3b) A Felügyelet jóváhagyása szükséges a zártkörű alap kezelési szabályzat jóváhagyásához.”
+(2)
 
 (3) A Kbftv. 11. §-a a következő (8) és (9) bekezdéssel egészül ki:
 

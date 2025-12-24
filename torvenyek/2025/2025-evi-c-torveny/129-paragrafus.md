@@ -10,4 +10,4 @@ d) 48. § (1) bekezdésében az „és h)” szövegrész,
 
 e) 48. § (4) bekezdésében a „ , (2a)” szövegrész.
 
-(2) Hatályát veszti az Mnbtv. 167. § (1) bekezdése.
+(2)

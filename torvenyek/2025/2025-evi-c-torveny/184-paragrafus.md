@@ -1,9 +1,1 @@
-184. § A Hpt. 74. alcíme a következő 173/B. §-sal egészül ki:
-
-„173/B. § (1) Ha a harmadik országbeli pénzügyi intézmény fióktelepe a 9/A. § alapján az 1. osztályba sorolt, akkor a fióktelepre az összevont alapú felügyelet szabályai alkalmazandóak és a Felügyelet a felügyeleti kollégium szabályait alkalmazza azzal, hogy ha egy harmadik országbeli csoport leányvállalat felügyeletére felügyeleti kollégiumot hozott létre, akkor az adott csoportba tartozó, a 9/A. § alapján az 1. osztályba sorolt harmadik országbeli pénzügyi intézmény fióktelepe is ezen felügyeleti kollégium illetékességébe tartozik.
-
-(2) Ha a harmadik országbeli pénzügyi intézmény csoportjának több olyan fióktelepe van, ami a 9/A. § alapján az 1. osztályba sorolt és nem azonos tagállamban telepedtek le, de nincs a csoportban leányvállalat, így nem került felügyeleti kollégium felállításra, akkor a Felügyelet az összevont alapú felügyelet szabályait alkalmazza rájuk és felügyeleti kollégiumot kell felállítani valamelyik érintett tagállamban.
-
-(3) Ha a harmadik országbeli pénzügyi intézmény csoportjának több olyan fióktelepe van, ami a 9/A. § alapján az 1. osztályba sorolt és nem azonos tagállamban telepedtek le és egy vagy több olyan leányvállalata van, amely nem tartozik az összevont alapú felügyelet alá, akkor az összevont alapú felügyelet szabályait kell rájuk alkalmazni és felügyeleti kollégiumot kell felállítani valamelyik érintett tagállamban.
-
-(4) A (2) és (3) bekezdésben meghatározottak esetén az érintett tagállamok felügyeleti hatóságai megállapodnak egy olyan illetékes hatóság kijelölésében, amely a felügyeleti kollégiumot létrehozza vezető illetékes hatóságként azzal, hogy a vezető illetékes hatóság a teljes könyvelt eszközállomány értéke alapján a legnagyobb harmadik országbeli pénzügyi intézmény fióktelepét felügyeli.”
+### 184. §

@@ -1,6 +1,6 @@
 59. § A Bszt.
 
-a) 24/D. § (6) bekezdésében a „megküld az Európai Bankhatóság (a továbbiakban: EBH) számára” szövegrész helyébe a „megküld az EBH számára” szöveg,
+a)
 
 b) 38. § (2) bekezdésében az „az átvételi igazolás” szövegrész helyébe az „a teljességi igazolás” szöveg,
 

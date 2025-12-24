@@ -1,50 +1,50 @@
 201. § A Hpt.
 
-1. 6. § (1) bekezdés 76. pontjában az „ingatlanra alapított jelzálog” szövegrész helyébe az „építményi hitel, valamint az ingatlanra alapított jelzálog” szöveg,
+1.
 
-2. 6. § (1) bekezdés 120. pont a) alpontjában a „hitel és pénzkölcsön” szövegrész helyébe a „hitel és pénzkölcsön, továbbá az építményi hitel” szöveg,
+2.
 
-3. 6. § (1) bekezdés 120. pont b) alpontjában a „hitel és pénzkölcsön” szövegrész helyébe a „hitel és pénzkölcsön, illetve építményi hitel” szöveg,
+3.
 
-4. 21. § (3) bekezdés nyitó szövegrészében a „hitelintézetet” szövegrész helyébe a „hitelintézetet és a biztosítási tevékenységről szóló törvény szerinti biztosítót” szöveg,
+4.
 
-5. 74. § (1) bekezdés b) pont bc) alpontjában a „szakvizsgával” szövegrész helyébe a „szakvizsgával (kivéve jelzáloghitel közvetítés esetén)” szöveg,
+5.
 
-6. 89. § (1), (2) és (2a) bekezdésében a „globálisan rendszerszinten jelentős hitelintézetek” szövegrészek helyébe a „globálisan rendszerszinten jelentős intézmények” szöveg,
+6.
 
-7. 89. § (3), (4), (5) és (6) bekezdésében az „egyéb rendszerszinten jelentős hitelintézetek” szövegrész helyébe az „egyéb rendszerszinten jelentős intézmények” szöveg,
+7.
 
-8. 89. § (6) bekezdésében a „hitelintézetekre” szövegrészek helyébe az „intézményekre” szöveg,
+8.
 
-9. 89. § (7) bekezdésében a „jelentős hitelintézet összevont alapon globálisan rendszerszinten jelentős hitelintézetre” szövegrész helyébe a „jelentős intézmény összevont alapon globálisan rendszerszinten jelentős intézményre” szöveg,
+9.
 
-10. 89. § (8) bekezdésében az „A hitelintézet” szövegrész helyébe az „Az intézmény” szöveg, a „jelentős hitelintézet” szövegrész helyébe a „jelentős intézmény” szöveg,
+10.
 
-11. 90. § (1), (4) bekezdésében és 91. §-ában a „hitelintézet” szövegrészek helyébe az „intézmény” szöveg,
+11.
 
-12. 91. §-ában a „hitelintézetekre” szövegrész helyébe az „intézményekre” szöveg és a „hitelintézetre” szövegrészek helyébe az „intézményre” szöveg,
+12.
 
-13. 96. § (4) bekezdésében a „pufferkövetelményeket a Felügyelet” szövegrész helyébe a „pufferkövetelményeket – figyelemmel a (3) bekezdés e) pontjára is – a Felügyelet” szöveg,
+13.
 
-14. 107. § (1) bekezdés e) pontjában a „belső ellenőrzési mechanizmusokat” szövegrész helyébe a „belső kontroll mechanizmusokat” szöveg,
+14.
 
-15. 118. § (8) bekezdésében a „hitelintézet eredményét.” szövegrész helyébe a „hitelintézet eredményét, ideértve a 108. § (1) bekezdés szerinti kockázatok kezelését is.” szöveg,
+15.
 
-16. 129. § (1) bekezdésében a „két munkanapon” szövegrész helyébe a „tíz munkanapon” szöveg,
+16.
 
-17. 129. § (3) bekezdésében az „az átvételi” szövegrész helyébe az „a teljességi”szöveg,
+17.
 
-18. 184. § (1) bekezdésében a „vezető állású személye vagy tulajdonosa” szövegrész helyébe a „vezető állású személye, felső vezetése, kiemelt funkciót betöltő személye vagy tulajdonosa, továbbá azon alkalmazottja, akinek szakmai tevékenysége lényeges hatást gyakorol az intézmény kockázati profiljára” szöveg,
+18.
 
-19. 184. § (10) bekezdésében a „társaság már nem” szövegrész helyébe a „társaság nem teljesíti vagy már nem” szöveg,
+19.
 
-20. 186. § (8) bekezdésében a „tőkeáttételi kockázattól eltérő kockázat” szövegrész helyébe a „tőkeáttételi kockázat” szöveg és a „(3)–(7) bekezdés” szövegrész helyébe a „(3)–(6) bekezdés” szöveg,
+20.
 
-21. 213. § (1) bekezdés d) pontjában a „biztosító pénztár” szövegrész helyébe a „biztosító pénztár, a foglalkoztatói-” szöveg,
+21.
 
-22. 213. § (1) bekezdés k) pontjában az „illetve a Pénztárak Garancia Alapja,” szövegrész helyébe az „a Pénztárak Garancia Alapja és a Kártalanítási Alap,” szöveg,
+22.
 
-23. 228. § (6) bekezdésében az „egy munkanapon belül” szövegrész helyébe a „a kérést követő munkanap 18 óráig” szöveg,
+23.
 
 24. 234/A. § (1) bekezdésében a „betétállomány 0,8%-át” szövegrész helyébe a „betétállomány legalább 0,8%-át” szöveg,
 
