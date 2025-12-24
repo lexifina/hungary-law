@@ -18,7 +18,13 @@ e)
 
 f)
 
-(3) A vadászati hatóság az éves vadgazdálkodási terv jóváhagyásáról az érintett tájegységi fővadász és a területi vadgazdálkodási tanács véleményét kikérve, a vadgazdálkodási üzemtervben foglaltakra is figyelemmel, a tárgyév április hónapjának tizedik napjáig dönt.
+(3) A vadászati hatóság az éves vadgazdálkodási terv jóváhagyásáról
+
+a) az érintett tájegységi fővadász és
+
+b) a területi vadgazdálkodási tanács
+
+véleményének kikérését követően, szükség esetén a vadgazdálkodási terv megfelelő módosításával – a vadgazdálkodási üzemtervben foglaltak, valamint a vad környezetére gyakorolt hatásának figyelembevételével – a tárgyév április hónapjának tizedik napjáig dönt.
 
 (3a) A vadászterület vadgazdálkodási üzemtervében nemkívánatos fajként meghatározott nagyvadfaj – a vadászati hatóság által jóváhagyott éves vadgazdálkodási terv adott vadfajra vonatkozó rendelkezésétől függetlenül vagy annak hiányában is – vadászati idényben mennyiségi korlátozás nélkül elejthető.
 

@@ -22,9 +22,11 @@ e) Magyarországon bejegyzett gazdasági társaság, szövetkezet, erdőbirtokos
 
 (3) A vadászati jog haszonbérletére vagy alhaszonbérletére kötött szerződés megszűnésekor – a felek eltérő megállapodásának hiányában – az új vadászatra jogosult az okszerű gazdálkodás mértékéig köteles megtéríteni a korábbi haszonbérlő vagy alhaszonbérlő által létesített, az e törvény felhatalmazása alapján kiadott rendeletben meghatározott vadgazdálkodási, vadászati rendeltetésű létesítmények, berendezések ellenértékét, és
 
-a) vadaspark esetében legfeljebb a létesítési engedélyben meghatározott maximálisan fenntartható létszámú és ivararányú vadállomány ellenértékét, továbbá
+a) vadaspark esetében a szerződés megszűnésekor a ténylegesen fennmaradó vadállomány, de legfeljebb a létesítési engedélyben meghatározott maximálisan fenntartható létszámú és ivararányú vadállomány ellenértékét, továbbá
 
-b) vadaskert esetében legfeljebb a szerződés megszűnésekor a vadászati hatóság által a vadaskert vadeltartó képessége alapján a 27/C. § (10) bekezdése szerint megállapított maximálisan fenntartható létszámú és ivararányú vadállomány ellenértékét.
+b) vadaskert esetében a szerződés megszűnésekor a ténylegesen fennmaradó vadállomány, de legfeljebb a vadászati hatóság által a vadaskert vadeltartó képessége alapján a 27/C. § (10) bekezdése szerint megállapított maximálisan fenntartható létszámú és ivararányú vadállomány ellenértékét.
+
+(3a) A (3) bekezdés alkalmazásában a vadállomány ellenértéke alatt az e törvény végrehajtására kiadott rendeletben foglalt vadgazdálkodási értéknek a vadállomány egyedeire vonatkozó összértékét kell érteni.
 
 (4) Nem alkalmazható a haszonbérleti vagy az alhaszonbérleti szerződés olyan rendelkezése, amely az e törvényben, valamint az e törvény végrehajtására kiadott rendeletben foglalt megtérítési kötelezettséget meghaladó mértékű megtérítést ír elő bármelyik szerződő fél számára.
 

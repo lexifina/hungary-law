@@ -4,7 +4,7 @@
 
 2. az e törvényben meghatározott tiltott eszközzel való vadászat;
 
-3. a tizennyolcadik életévét be nem töltött személy vadászként való részvétele vadászaton;
+3. egyéni vadászat esetében a tizenhatodik életévét be nem töltött személy, társas vadászat esetében a tizennyolcadik életévét be nem töltött személy vadászként való részvétele vadászaton;
 
 4. az azonosító jel használata során a használatra vonatkozó rendelkezések be nem tartásával folytatott vadászat;
 
@@ -12,7 +12,7 @@
 
 6. a nagyvadfajok vadászata során – a sörétes vadászlőfegyverből kilőhető golyóval folytatott vaddisznó vadászat kivételével – a sörétes vadászlőfegyver használata;
 
-7. a .45-ösnél (11,4 mm) kisebb öbnagyságú elöltöltő fegyver használata;
+7. a .45-ösnél (11,4 mm) kisebb öbnagyságú elöltöltő fegyver használata nagyvadfajok vadászata során;
 
 8. a két tölténynél nagyobb tárkapacitású öntöltő (félautomata) vagy önműködő (automata) sörétes vadászlőfegyver használata;
 

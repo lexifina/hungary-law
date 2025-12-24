@@ -4,6 +4,6 @@
 
 (3) A vadászati hatóság a vadászjegy vagy a vadászati engedély visszavonásáról szóló döntésről, annak véglegessé válásától számított nyolc napon belül értesíti a Vadászkamarát, amely az értesítés kézhezvételét követő nyolc napon belül intézkedik a vadászjegy vagy a vadászati engedély érvénytelenítéséről.
 
-(4) A Vadászkamara az engedély visszavonásáról a nem kamarai tag esetén is gondoskodik.
+(4)
 
 (5) Akitől a vadászjegy egy évnél hosszabb időtartamra került visszavonásra, vagy az Országos Magyar Vadászkamaráról szóló törvény alapján érvénytelenítésre, a vadászvizsga újbóli letétele után kaphat ismételten vadászjegyet.

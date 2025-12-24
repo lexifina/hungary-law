@@ -4,6 +4,8 @@
 
 (2a) Egyéni vadászat esetén a vad elejtését követően a vadász köteles bejegyezni az elejtett vad faját, ivarát, mennyiségét a vadászati naplóba.
 
+(2b) A (2) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha az elhullott nagyvad vagy annak hasznosítható része a fellelés helyéről elszállításra kerül.
+
 (3) A vad jelölésének szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
 (4) A vadászatra jogosult a tartamos vadgazdálkodás biztosítása érdekében érvényes vadászjeggyel és

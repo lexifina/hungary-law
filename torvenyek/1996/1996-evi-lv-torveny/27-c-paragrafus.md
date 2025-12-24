@@ -43,3 +43,5 @@ f) jogszabályban meghatározott egyéb okból.
 (14) Vadaskert felszámolása esetén a felszámolási terv végrehajtása a vadaskert vadászatra jogosultjának kötelessége.
 
 (15) A vadaskert vadállományának felszámolását követően a vadászati hatóság dönt a vadaskert megszűnéséről.
+
+(16) Ha az engedélyes a vadállomány felszámolási kötelezettségének az előírt határidőben nem tesz eleget, nincs helye a (13) bekezdésben foglalt kényszerhasznosításnak. A vadállomány felszámolására a 27/B. § (8)–(10) bekezdésében foglaltak az irányadók.
