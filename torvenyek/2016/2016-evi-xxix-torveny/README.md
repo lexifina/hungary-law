@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-29-00-00
 | 2025-03-01 | 2024. évi LXXI. törvény | 2016-29-00-00.25 |
 | 2025-07-01 | 2025. évi XXIII. törvény | 2016-29-00-00.27 |
 | 2025-10-28 | 2024. évi XCI. törvény | 2016-29-00-00.29 |
+| 2025-12-24 | 2025. évi XCII. törvény | 2016-29-00-00.30 |

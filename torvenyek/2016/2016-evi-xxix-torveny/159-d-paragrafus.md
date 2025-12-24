@@ -1,6 +1,6 @@
 159/D. § (1) Az egyes törvényeknek az igazságügyi szakértőkkel és a szakértői bizonyítással összefüggő módosításáról szóló 2024. évi LI. törvénnyel (a továbbiakban: Mód2. tv.) megállapított 44. § (2) bekezdését, 47. § (2) bekezdését, 56. § (2) bekezdését, valamint az 1. melléklet 1.21. pontját a Mód2. tv. hatálybalépését követő igazságügyi szakértői kirendelésekre kell alkalmazni.
 
-(2) 2025. január 1. napján a névjegyzékben szereplő természetes személy igazságügyi szakértő, aki a Dáptv. szerinti hivatalos elérhetőségét nem jelentette be, a Mód2. tv.-vel megállapított 44. § (2) bekezdése alapján a névjegyzéket vezető hatóság részére 2025. február 1. napjáig köteles bejelenteni a Dáptv. szerinti hivatalos elérhetőségét.
+(2)
 
 (3) Akit a Kamara 2025. január 1. napjáig szakértőjelöltként nyilvántartásba vett a Mód2. tv. hatálybalépéséig teljesített szakértőjelölti ideje a Mód2. tv.-vel megállapított 5. § (2) bekezdés b) pont bb) alpontja szerinti gyakorlati időbe beleszámít.
 

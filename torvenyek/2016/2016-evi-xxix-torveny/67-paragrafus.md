@@ -4,6 +4,6 @@
 
 (3) Ha az igazságügyi szakértő keresetében arra hivatkozik, hogy tagdíjfizetési kötelezettségének önhibáján kívül nem tett eleget, egyidejűleg mulasztását kimenti és a tagdíj befizetését igazolja, a kereset megérkezésekor az elnökség haladéktalanul intézkedik a határozata felülvizsgálatáról. Ha az elnökség annak helyt ad, a kamarai tagság megszűnését megállapító határozatát visszavonja.
 
-(4) Az elnökség a véglegessé vált határozatát megküldi a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás keretében törli a névjegyzékből.
+(4) Az elnökség a véglegessé vált határozatát megküldi a névjegyzéket vezető hatóságnak.
 
 (5) Ha az igazságügyi szakértő kamarai tagsága a 66. § (2) bekezdés c) pontjában meghatározott okból szűnik meg, a megszűnést megállapító határozat véglegessé válásától számított egy évig ennek hatálya alatt áll.
