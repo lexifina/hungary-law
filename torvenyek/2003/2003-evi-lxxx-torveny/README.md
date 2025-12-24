@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 2003-80-00-00.37 |
 | 2025-01-01 | 2024. évi LXIV. törvény | 2003-80-00-00.38 |
 | 2025-07-01 | 2025. évi XXIII. törvény | 2003-80-00-00.39 |
+| 2025-12-24 | 2025. évi XCII. törvény | 2003-80-00-00.40 |

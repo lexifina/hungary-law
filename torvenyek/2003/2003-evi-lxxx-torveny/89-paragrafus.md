@@ -15,3 +15,5 @@ f) a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat fe
 g) a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló, 2016. október 26-i (EU) 2016/1919 európai parlamenti és tanácsi irányelv.
 
 h) az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 12. cikk (2) bekezdése.
+
+i) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 parlamenti és tanácsi irányelv 18. és 19. cikke.

@@ -19,3 +19,5 @@
 (9) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 5. § (2) bekezdés a) pontját a 2023. július 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
 
 (10) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel megállapított 21. §-át a 2023. július 1-jét követően indult és a megismételt eljárásokban kell alkalmazni azzal, hogy a 2023. július 1-jét megelőzően engedélyezett támogatást nem kell figyelembe venni.
+
+(11) E törvénynek a magánjogi tárgyú törvények módosításáról szóló 2025. évi XCII. törvénnyel (a továbbiakban: Módtv.) megállapított 27. § (3) bekezdését a Módtv. e törvény 27. § (3) bekezdését megállapító rendelkezésének a hatálybalépését követően engedélyezett támogatásokra kell alkalmazni.

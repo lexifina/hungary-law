@@ -11,3 +11,5 @@ a) a felülvizsgálat során – felhívás ellenére – nem nyilatkozik a tám
 b) a támogatás igénybevételének feltételei a kérelem előterjesztésekor sem álltak fenn és a fél a támogatás iránti kérelmében valótlan adatot szolgáltatott,
 
 c) a 10. § (2) bekezdésében meghatározott kizáró ok áll fenn.
+
+(3) A jogi segítségnyújtó szolgálat a támogatást határozattal megvonja, ha legalább három jogi segítő a fél számára jogi szolgáltatást nyújtását a 70. § (1) bekezdés a) pontjának ab) alpontjára vagy a 70. § (1) bekezdésének d) pontjára hivatkozással tagadja meg.
