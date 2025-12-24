@@ -8,7 +8,7 @@ c) beavatkozásnak
 
 nincs helye.
 
-(2) Az eljárásban a Pp. 148. §-a nem alkalmazható.
+(2) Az eljárásban a Pp. határidő-túllépésre, valamint az ítélkezési szünetre vonatkozó szabályai nem alkalmazhatóak.
 
 (3) Az eljárásban a Pp. jegyzőkönyvre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a jegyzőkönyvet a közjegyző maga is felveheti és a jegyzőkönyv folyamatos felvétel útján történő készítésének nincs helye.
 
