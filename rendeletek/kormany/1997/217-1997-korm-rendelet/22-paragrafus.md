@@ -48,9 +48,9 @@ cc) gyógyszer vagy gyógyászati segédeszköz gyártó, forgalmazó, nagykeres
 
 (11a)[^427] Ha a (11) bekezdés a) pontjában szereplő működési engedély adattartalma nem felel meg a működési engedélyekről vezetett közhiteles nyilvántartásban foglaltaknak, a NEAK a szerződéskötést felfüggeszti, és a hiba javítására a szerződést kezdeményező személyt felhívja. A hiba javításáig a szerződés nem köthető meg.
 
-(12)[^428] A (11) bekezdésben foglaltak változásáról a változást követő 10 napon belül a nem finanszírozott egészségügyi szolgáltató orvosa tájékoztatja a NEAK-ot.
+(12)[^428] A (11) bekezdésben foglaltak változásáról a változást követő 8 napon belül a nem finanszírozott egészségügyi szolgáltató orvosa tájékoztatja a NEAK-ot.
 
-(12a)[^429] Ha a (11) bekezdés c) pontja szerinti orvosi nyilatkozat tartalmában bekövetkező változás bejelentését az orvos – a változás bekövetkeztétől számított 10 napon belül írásban – elmulasztja a NEAK felé, a NEAK a szerződést felmondja, és az orvossal a felmondás hatályosulását követő 1 évig nem köthető új szerződés.
+(12a)[^429] Ha a (11) bekezdés c) pontja szerinti orvosi nyilatkozat tartalmában bekövetkező változás bejelentését az orvos – a változás bekövetkeztétől számított 8 napon belül írásban – elmulasztja a NEAK felé, a NEAK a szerződést felmondja, és az orvossal a felmondás hatályosulását követő 1 évig nem köthető új szerződés.
 
 (13)[^430] A Tbj. szerinti külföldi biztosított részére támogatással történő gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás rendelése esetén az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződéssel rendelkező orvos köteles öt évig megőrizni az érintett személynek az egészségügyi szolgáltatás igénybevételére vonatkozó jogosultságát igazoló dokumentum másolati példányát.
 
@@ -75,6 +75,6 @@ cc) gyógyszer vagy gyógyászati segédeszköz gyártó, forgalmazó, nagykeres
 [^425]: A Vhr. 22. § (11) bekezdés a) pontja a 477/2016. (XII. 27.) Korm. rendelet 9. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^426]: A Vhr. 22. § (11) bekezdés c) pontját a 659/2023. (XII. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be.
 [^427]: A Vhr. 22. § (11a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^428]: A Vhr. 22. § (12) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja szerint módosított szöveg.
-[^429]: A Vhr. 22. § (12a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^428]: A Vhr. 22. § (12) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja, a 418/2025. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^429]: A Vhr. 22. § (12a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 418/2025. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^430]: A Vhr. 22. § (13) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
