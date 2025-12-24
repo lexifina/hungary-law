@@ -24,4 +24,6 @@ g) bizalmi szolgáltatást,
 
 h) likviditáskezelési céllal legfeljebb 6 hónapra szóló repó- és fordított repóügyletek megkötését.
 
+i) kizárólag kockázatkezelési célból fedezeti célú származtatott (derivatív) ügyletek megkötése, amely ügyletek volumenét a kockázat csökkenése esetén csökkenteni kell, a kockázat megszűnése esetén pedig zárni kell.
+
 (2) Az (1) bekezdés b) pontjában meghatározott hitelintézetben történő tulajdoni részesedés megszerzését az MNB akkor engedélyezi, ha a tulajdonszerzéssel érintett hitelintézet a rá vonatkozó jogszabályok szerint a lakáscélú betétgyűjtést és hitelnyújtást zárt rendszerben végzi, csak a betétet elhelyezők részére nyújt hitelt, és erről nyilatkozatot nyújt be az MNB részére.

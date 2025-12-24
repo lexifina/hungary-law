@@ -2,7 +2,9 @@
 
 a) a lakás-előtakarékoskodó, illetve ha a szerződésben kedvezményezettet neveznek meg, a kedvezményezett, továbbá ezen személyek közeli hozzátartozója
 
-1. javára történő lakótelek vásárlása, lakás, családi ház, üdülő vagy tanyai lakóingatlan vásárlása, építése, cseréje, valamint lakásbérleti vagy lakáshasználati jog vásárlása, ideértve a nyugdíjasházban a jogosult élete végéig fennálló bérleti, lakáshasználati jog vásárlását, továbbá lakásra, családi házra vagy tanyai lakóingatlanra vonatkozó pénzügyi lízingszerződés megkötéséhez szükséges önerő finanszírozását,
+1. javára történő lakótelek vásárlása, lakás, családi ház, üdülő vagy tanyai lakóingatlan vásárlása, építése, cseréje, valamint lakásbérleti vagy lakáshasználati jog vásárlása, ideértve a nyugdíjasházban vagy valamilyen, életvitelszerű lakhatást, ápolást, illetve gondozást biztosító otthonban, intézményben a jogosult élete végéig fennálló bérleti, lakáshasználati jog vásárlását, továbbá lakásra, családi házra vagy tanyai lakóingatlanra vonatkozó pénzügyi lízingszerződés megkötéséhez szükséges önerő finanszírozását,
+
+1a. által nyugdíjasházban vagy valamilyen, életvitelszerű lakhatást, ápolást, illetve gondozást biztosító otthonban, intézményben történő ellátás térítési díjának egyösszegű megfizetése, megelőlegezése,
 
 2. tulajdonában, valamint pénzügyi lízingbe vétel, haszonélvezeti jog vagy az 1. pontnak megfelelő más jogcímen használatában lévő lakás, családi ház, üdülő vagy tanyai lakóingatlan bővítése, felújítása, korszerűsítése, helyreállítása,
 
