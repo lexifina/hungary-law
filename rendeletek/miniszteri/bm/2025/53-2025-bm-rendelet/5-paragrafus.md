@@ -1,1 +1,3 @@
-5. § A BM r. 7/A. §-ában a „jelzésekkel szerelhető fel.” szövegrész helyébe a „jelzést adó berendezéssel szerelt.” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
