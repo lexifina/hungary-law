@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2025-06-19 | 2025. évi XLVII. törvény | 2013-139-00-00.74 |
 | 2025-06-27 | 2025. évi XLVII. törvény | 2013-139-00-00.75 |
 | 2025-12-01 | 2025. évi LXXV. törvény | 2013-139-00-00.78 |
+| 2025-12-24 | 2025. évi C. törvény | 2013-139-00-00.80 |

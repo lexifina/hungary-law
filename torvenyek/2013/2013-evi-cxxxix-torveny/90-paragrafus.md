@@ -2,7 +2,7 @@
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység, bizalmi vagyonkezelési tevékenység, hitelgondozási tevékenység gyanúja esetén,
+a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, kriptoeszköz-szolgáltatás, eszközalapú token, illetve elektronikuspénz-token kibocsátói tevékenység, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység, bizalmi vagyonkezelési tevékenység, hitelgondozási tevékenység gyanúja esetén,
 
 b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 
@@ -10,9 +10,9 @@ c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre �
 
 d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 
-e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából [az a)–e) pont a továbbiakban együtt: piacfelügyeleti eljárás].
+e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából,
 
-f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páneurópai egyéni nyugdíjtermék” vagy „PEPP” megjelölést viselő termékek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén.
+f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páneurópai egyéni nyugdíjtermék” vagy „PEPP” megjelölést viselő termékek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén [az a)–f) pont a továbbiakban együtt: piacfelügyeleti eljárás].
 
 (2) Az (1) bekezdés a)–f) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
 

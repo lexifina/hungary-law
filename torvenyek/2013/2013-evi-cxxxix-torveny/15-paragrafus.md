@@ -1,3 +1,3 @@
 ## 11. Könyvvizsgáló
 
-15. § Az MNB könyvvizsgálója legfeljebb öt évre kaphat megbízást. A megbízás lejártát követően 5 éven belül a könyvvizsgálónak az MNB könyvvizsgálói feladatának ellátására újabb megbízás nem adható .
+15. § Az MNB könyvvizsgálója határozott időre, legfeljebb öt évre kaphat megbízást. Ismételt megbízás esetében a könyvvizsgáló megbízásának megszakítások nélküli időtartama nem haladhatja meg a tíz évet. A megbízás lejártát követően négy éven belül a könyvvizsgálónak az MNB könyvvizsgálói feladatának ellátására újabb megbízás nem adható.

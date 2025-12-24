@@ -22,6 +22,6 @@ f) a 4. § (7) bekezdésében meghatározott feladatkörében eljárva a Hpt. 90
 
 g) a 4. § (9) bekezdésében meghatározott feladatkörében a hitelintézet és a posta készpénzforgalma lebonyolításához kialakított infrastrukturális hálózatának az MNB elnökének a készpénzforgalmazás feltételeit szabályozó rendeletében meghatározott szempontrendszer szerinti minősítése, és az ezen minősítéshez a szempontrendszerben hozzárendelt követelményeknek megfelelő infrastrukturális hálózat kialakítására való kötelezés
 
-h) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (2a) bekezdésében meghatározott törvény hatálya alá tartozó hitelgondozó, valamint a hitelgondozási és hitelfelvásárlási tevékenységek feletti folyamatos felügyelet gyakorlása
+h)
 
 (a továbbiakban együtt: hatósági tevékenység) során.

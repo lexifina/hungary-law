@@ -8,7 +8,7 @@ c) a 140. § (1) bekezdés a) pontjában meghatározott szervezeteknek az Európ
 
 (1a) Az (1) bekezdés a) pontja vonatkozásában ide értendőek különösen a biztosítás- és viszontbiztosítás-értékesítők jó hírnevével, képzettségi követelményeivel, valamint szakmai képzésével és továbbképzésével kapcsolatos adatok.
 
-(2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak. Az adatszolgáltató hatóság előzetes írásos hozzájárulására nincs szükség, ha a kapott adatok továbbítása az MNB vagy a külföldi pénzügyi felügyeleti hatóság döntésével kapcsolatos bírósági vagy büntetőeljáráshoz közvetlenül szükséges.
+(2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak. Az adatszolgáltató hatóság előzetes írásos hozzájárulására nincs szükség, ha a kapott adatok továbbítása az MNB vagy a külföldi pénzügyi felügyeleti hatóság döntésével kapcsolatos bírósági-, büntetőeljáráshoz, vagy adójogi eljáráshoz közvetlenül szükséges.
 
 (3) Az MNB a hatósági eljárása során az e törvény, illetve a 39. §-ban meghatározott törvények alapján birtokába került személyes adatokat az adott személy utolsó engedélyezési, nyilvántartásba vételi kötelezettség alá eső jogviszonyának megszűnésétől számított legfeljebb öt évig kezelheti.
 
