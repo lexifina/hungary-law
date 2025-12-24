@@ -1,0 +1,11 @@
+2. § (1) Az e rendelet hatálya alá tartozó, igazoltan kulturális közfeladatot ellátó foglalkoztatott foglalkoztatója köteles az állami fenntartású szervezetek és a nem állami fenntartású szervezetek esetében közvetlenül, a nemzetiségi önkormányzati fenntartású intézmények és szervezetek, valamint a helyi önkormányzati fenntartású, igazoltan kulturális közfeladatot ellátó gazdasági társaságok esetén az önkormányzat, az igazoltan kulturális közfeladatot ellátó szervezettel, gazdasági társasággal közszolgáltatási szerződést kötő önkormányzat a kultúráért és innovációért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium által közzétett, a miniszter által felhívásban jelzett módon és határidőig az e célra rendszeresített elektronikus űrlapon bejelenteni az e rendelet hatálya alá tartozó foglalkoztatottjai számát, munkaköreik felsorolását, valamint a 2025. novemberi állapot szerinti bértömeg összegét.
+
+(2) Az e rendelet hatálya alá tartozó, igazoltan kulturális közfeladatot ellátó állami fenntartású intézmények esetében a felmérés elvégzéséről, továbbá a helyi önkormányzati fenntartású költségvetési szervek által foglalkoztatottak béremeléséhez szükséges forrás meghatározásáról a nemzetgazdasági miniszter gondoskodik.
+
+(3) A 2026. évi béremelés végrehajtása érdekében az (1) és (2) bekezdés alapján szükséges költségvetési forrás rendelkezésre állásáról, továbbá az állami intézmények részére a forrás eljuttatásáról a nemzetgazdasági miniszter gondoskodik.
+
+(4) A miniszter a helyi önkormányzatok részére az (1) és (2) bekezdés szerinti adatszolgáltatások alapján biztosítandó támogatásról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 3. melléklet 15. pont 2.4.6. A települési önkormányzatok kulturális feladatainak bérjellegű támogatása jogcím keretében dönt.
+
+(5) A miniszter a (3) bekezdés szerinti forrás terhére az állami fenntartású szervezetek és a nem állami fenntartású szervezetek részére 2026. március 1-jéig, a Nemzeti Kulturális Támogatáskezelő útján gondoskodik az 1. § (1) és (2) bekezdése szerinti béremelés megvalósításához szükséges forrás eljuttatásáról.
+
+(6) A 2. § (3)–(5) bekezdése szerint biztosított forrást az érintett intézmények és szervezetek kizárólag az 1. § (3) és (4) bekezdésében meghatározott szempontok szerinti béremelés megvalósítására használhatják fel.
