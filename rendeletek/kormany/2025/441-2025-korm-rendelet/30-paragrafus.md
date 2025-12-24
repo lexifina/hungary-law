@@ -1,0 +1,1 @@
+30. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 52. § (4) bekezdés a) pontjában a „miniszterelnöki biztost” szövegrész helyébe a „miniszterelnök politikai igazgatóját, a miniszterelnöki biztost” szöveg lép.

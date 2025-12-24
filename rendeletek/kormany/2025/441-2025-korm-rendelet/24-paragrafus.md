@@ -1,0 +1,1 @@
+24. § A felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet 5. § (3) bekezdés a) pontjában a „használatban lévő 200 ezer forint” szövegrész helyébe a „használatban lévő, a számviteli törvény 80. § (2) bekezdésében meghatározott összeg” szöveg lép.
