@@ -1,5 +1,3 @@
 ## 1. Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény módosítása
 
-1. § Az egyes állami tulajdonban álló ingatlanoknak a Magyarországi Református Egyház részére történő tulajdonba adásáról szóló 2017. évi XXXI. törvény (a továbbiakban: 2017. évi XXXI. törvény) a következő 2/A. §-sal egészül ki:
-
-„2/A. § Az Nvtv. 13. § (4) és (5) bekezdésétől eltérően az 1. § (1a) bekezdése szerinti ingatlan és az 1. § (4) bekezdése szerinti ingóságok tulajdonjogát a Magyarországi Református Egyház a Makó-Újvárosi Református Egyházközség javára átruházhatja azzal, hogy az ingatlan tekintetében az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési és terhelési tilalom továbbra is fennmarad. A Magyarországi Református Egyház és a Makó-Újvárosi Református Egyházközség közötti tulajdonátruházásra irányuló szerződésben a Makó-Újvárosi Református Egyházközség vállalja, hogy köznevelési, valamint általa végzett kulturális és sporttal kapcsolatos közfeladatok ellátása céljából kerül sor az 1. § (1a) bekezdése szerinti ingatlan és az 1. § (4) bekezdése szerinti ingóságok hasznosítására.”
+### 1. §
