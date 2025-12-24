@@ -24,15 +24,27 @@ c) a megszerezni kívánt részesedés arányát,
 
 d) a tagi részesedés szerzésre, vagy a szavazati joghoz kapcsolódó, jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot,
 
-e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 29. § (5) bekezdésében meghatározott kizáró ok megítéléséhez szükséges tényeket és a 29. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot, valamint
+e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 29. § (5) bekezdés a)–d) és h) pontjában meghatározott kizáró ok megítéléséhez szükséges tényeket és a 29. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot,
 
 f) egyéb olyan információkat, amelyek szükségesek annak megállapításához, hogy a prudens működés biztosítva van,
 
 g) nem természetes személy tulajdonos esetében a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – tényleges tulajdonosai bemutatását.
 
-(5) Ha a befolyásoló részesedést szerző tevékenysége, a pénzforgalmi intézményre, az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, a Felügyelet a bejelentést követő harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tagok szavazati jogának gyakorlását, addig, amíg a tag meg nem szünteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
+h) a 17. § (3) bekezdés a)–f), h) és i) pontjában meghatározott követelmények bemutatását.
 
-(5a) A Felügyelet a befolyásoló részesedés szerzését megtiltja, ha a bejelentő részesedés szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
+(5) Ha a befolyásoló részesedést szerző tevékenysége, a pénzforgalmi intézményre, az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, a Felügyelet a hiánytalan bejelentés beérkezésétől számított harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tagok szavazati jogának gyakorlását, addig, amíg a tag meg nem szünteti a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
+
+(5a) A befolyásoló részesedést szerző tevékenysége, illetve a pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre gyakorolt befolyása különösen akkor veszélyezteti a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, ha
+
+a) pénzügyi, gazdasági helyzete az ajánlat tárgyát képező részesedésszerzés nagyságához viszonyítva nem minősíthető megfelelőnek,
+
+b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök eredetének törvényessége vagy a pénzeszközök tulajdonosaként megjelölt személy adatainak valódisága,
+
+c) szavazati jogának gyakorlását a Felügyelet – a bejelentés benyújtását megelőző öt éven belül – felfüggesztette vagy
+
+d) természetes személy esetén a 29. § (5) és (6) bekezdésben foglalt kizáró ok áll fenn.
+
+(5b) A Felügyelet a befolyásoló részesedés szerzését megtiltja, ha a bejelentő részesedés szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
 (6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza a Felügyelet a bejelentési kötelezettség elmulasztása esetén is.
 

@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-235-00-00
 | 2025-07-01 | 2025. évi LXVII. törvény | 2013-235-00-00.33 |
 | 2025-07-02 | 2025. évi LXVII. törvény | 2013-235-00-00.41 |
 | 2025-09-29 | 2025. évi LXVII. törvény | 2013-235-00-00.42 |
+| 2025-12-24 | 2025. évi C. törvény | 2013-235-00-00.43 |

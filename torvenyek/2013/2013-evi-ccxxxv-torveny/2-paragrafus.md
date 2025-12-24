@@ -2,4 +2,4 @@
 
 (2) A 12. § (1) bekezdése, az 59–64. §, a 66. § és a 72–79. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon és a kincstári körön kívüli számlatulajdonosokon kívül más személyek részére végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikuspénz-kibocsátó intézményt említenek, azon a kincstár is értendő.
 
-(3) Az 5. § (3)–(4) bekezdése, a 11. §, a 12. § (1) bekezdés a) és f) pontja, a 13. §, a 13/A. § (1) bekezdése, a 14. §, a 15. § (1) bekezdés a), c)–e) pontja, a 15. § (2) bekezdése és a 17. § nem terjed ki a kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményre.
+(3) Az 5. § (3)–(4) bekezdése, a 11. §, a 12. § (1) bekezdés a) és f) pontja, a 12/A. §, a 13. §, a 13/A. § (1) bekezdése, a 14. §, a 15. § (1) bekezdés a), c)–e) pontja, a 15. § (2) bekezdése és a 17. § nem terjed ki a kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézményre.
