@@ -1,0 +1,3 @@
+199. § A Hpt. 294. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) A Felügyelet határozhat úgy, hogy a már tevékenységet folytató, harmadik országbeli pénzügyi intézmény fióktelepének a pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel (a továbbiakban: 2025. évi C. törvény) megállapított 15/B. § szerinti engedélyt legkésőbb 2027. január 10-ig kell megszereznie, ha a harmadik országbeli pénzügyi intézmény fióktelepe megfelel a 2025. évi C. törvénnyel megállapított 9/B. §-ban, 105/A. §-ban, 115/A. §-ban és 181/A. §-ban meghatározott minimumkövetelményeknek.”
