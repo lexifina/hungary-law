@@ -6,11 +6,9 @@
 
 1. agrártermék:
 
-a) az 1151/2012/EU európai parlamenti és tanácsi rendelet 2. cikke szerint a rendelet hatálya alá tartozó mezőgazdasági termék és élelmiszer,
+a) földrajzi árujelzővel ellátott agrártermék esetében az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdése szerinti termékek,
 
-b) a borászati termék, valamint
-
-c) az (EU) 2019/787 európai parlamenti és tanácsi rendelet hatálya alá tartozó szeszes ital;
+b) hagyományos különleges termék elnevezéssel ellátott agrártermék esetében az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 51. cikke szerinti termékek;
 
 2. borászati termék: az 1308/2013/EU európai parlamenti és tanácsi rendelet 92. cikk (1) bekezdésében meghatározott, szőlőből készült termék;
 
@@ -60,9 +58,9 @@ iránti eljárás;
 
 14. termékleírás: az oltalomban részesítendő, illetve az átmeneti nemzeti vagy uniós oltalom alatt álló földrajzi árujelzővel vagy bejegyezni kívánt vagy bejegyzett hagyományos különleges termék elnevezéssel ellátott agrártermékre vonatkozó követelményeket tartalmazó dokumentum, amely megfelel
 
-a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdésében vagy az 1151/2012/EU európai parlamenti és tanácsi rendelet 19. cikk (1) bekezdésében,
+a) mezőgazdasági termék és élelmiszer esetében az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 49. cikk (1) és (2) bekezdésében vagy 54. cikk (1) bekezdésében,
 
-b) borászati termék esetében az 1308/2013/EU európai parlamenti és tanácsi rendelet 94. cikk (2) bekezdésében,
+b) borászati termék esetében az 1308/2013/EU európai parlamenti és tanácsi rendelet 94. cikkében,
 
 c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 22. cikkében
 
@@ -70,21 +68,9 @@ meghatározott követelményeknek;
 
 15. termékleírás módosítása: a termékleírás standard és uniós módosítása;
 
-16. termékleírás standard módosítása: a termékleírásnak
+16. termékleírás standard módosítása: a termékleírásnak az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 24. cikk (4) bekezdése szerinti módosítása;
 
-a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 53. cikk (2) bekezdés a)–d) pontjába be nem sorolható módosítása,
-
-b) borászati termék esetében az (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet 14. cikk (1) bekezdés a)–d) pontjába be nem sorolható módosítása,
-
-c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 31. cikk (3) bekezdés a)–d) pontjába be nem sorolható módosítása;
-
-17. termékleírás uniós módosítása: a termékleírásnak
-
-a) mezőgazdasági termék és élelmiszer esetében az 1151/2012/EU európai parlamenti és tanácsi rendelet 53. cikk (2) bekezdés a)–d) pontjában foglalt esetek szerinti módosítása,
-
-b) borászati termék esetében az (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet 14. cikk (1) bekezdés a)–d) pontjában foglalt esetek szerinti módosítása,
-
-c) szeszes ital esetében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 31. cikk (3) bekezdés a)–d) pontjában foglalt esetek szerinti módosítása;
+17. termékleírás uniós módosítása: a termékleírásnak az (EU) 2024/1143 európai parlamenti és tanácsi rendelet 24. cikk (3) bekezdése szerinti módosítása;
 
 18. törlés iránti eljárás:
 

@@ -4,7 +4,7 @@
 
 a) a termékleírásban foglalt követelményeknek való megfelelés nem biztosított, vagy
 
-b) a földrajzi árujelzővel ellátott terméket legalább 7 éve nem hozták forgalomba.
+b) a földrajzi árujelzővel ellátott terméket legalább a kérelem benyújtását megelőző 7 egymást követő évben nem hozták forgalomba.
 
 (2) Az elnevezés törlése iránti kérelmet
 

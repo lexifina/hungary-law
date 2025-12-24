@@ -8,8 +8,12 @@
 
 (4) Ha a (3) bekezdés szerinti esetben a termékleírás javasolt módosításaival az oltalmat kérelmező vagy jogutódja nem ért egyet, a miniszter 2 hónapos határidő tűzésével felszólítja a feleket a termékleírás felszólítással érintett módosításainak egyeztetésére. A miniszter a 6. § (1) bekezdésében foglaltak szerint a felek által lefolytatott egyeztetés eredményeként módosított kérelmet teszi közzé. A kérelem azon pontjai tekintetében, ahol nincs egyetértés a felek között, az eredeti kérelemben szereplő szöveg kerül közzétételre.
 
-(5) A miniszter a termékleírás módosítása iránti eljárásban a kérelemnek helyt adó határozat véglegessé válását követően haladéktalanul továbbítja az Európai Bizottságnak az e törvény végrehajtására kiadott kormányrendelet szerint összeállított
+(5) A miniszter a termékleírás módosítása iránti eljárásban a kérelemnek helyt adó határozat véglegessé válását követően
 
-a) kérelmezési dokumentációt a termékleírás uniós módosítása esetén,
+a) haladéktalanul továbbítja az Európai Bizottságnak az e törvény végrehajtására kiadott kormányrendelet szerint összeállított
 
-b) közleményt a termékleírás standard módosítása esetén.
+aa) kérelmezési dokumentációt a termékleírás uniós módosítása esetén,
+
+ab) közleményt a termékleírás standard módosítása esetén, és
+
+b) standard módosítás esetén az általa vezetett minisztérium honlapján közzéteszi a kérelemnek helyt adó véglegessé vált határozatot, amely tartalmazza a módosított, egységes szerkezetbe foglalt termékleírás közzétett szövegére vonatkozó elektronikus hivatkozást és – amennyiben a termékleírás módosítása az egységes dokumentumot is érinti, vagy a standard módosítás olyan földrajzi árujelzőt érint, amelynek esetében még nem került sor egységes dokumentumnak az Európai Unió Hivatalos Lapjában való közzétételére – a módosított, egységes szerkezetbe foglalt egységes dokumentumot.
