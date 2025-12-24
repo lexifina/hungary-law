@@ -8,4 +8,4 @@ b) a hitelképesség vizsgálatának részletes szabályait – ide nem értve a
 
 c) a hiteltanácsadás nyújtásának részletes szabályait,
 
-d) jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing nyújtása vagy közvetítése esetén a hitelező, a hitelközvetítő és a közvetítői alvállalkozó eljárására, az általuk foglalkoztatott személyek végzettségére, szakképesítésére, belső képzésére és díjazására vonatkozó előírások részletes szabályait.
+d) fogyasztónak nyújtott hitel és pénzügyi lízing nyújtása vagy közvetítése esetén a hitelező, a hitelközvetítő és a közvetítői alvállalkozó eljárására, az általuk foglalkoztatott személyek végzettségére, szakképesítésére, belső képzésére és díjazására vonatkozó előírások részletes szabályait.
