@@ -5,3 +5,7 @@ a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előír�
 b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:4 mezőjében megjelölt ingatlan vonatkozásában a parkolóhelyek kialakításánál a kereskedelmi rendeltetési egységek rendeltetésszerű használatához a TÉKA 4. melléklete szerint meghatározott számú személygépkocsi-várakozóhelyből legalább 12 személygépkocsi-várakozóhely elhelyezését kell biztosítani.
+
+(3)[^16] A 2. mellékletben foglalt táblázat B:4 mezőjében megjelölt ingatlan vonatkozásában 167 kerékpár várakozóhely elhelyezését kell biztosítani.
+
+[^16]: A 4. § (3) bekezdését a 428/2025. (XII. 23.) Korm. rendelet 7. §-a iktatta be.

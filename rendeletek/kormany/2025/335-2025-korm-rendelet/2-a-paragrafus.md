@@ -1,4 +1,4 @@
-2/A. §[^2] (1) A 2. mellékletben foglalt táblázat 5. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:5 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+2/A. §[^8] (1) A 2. mellékletben foglalt táblázat 5. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:5 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -12,4 +12,4 @@ b) a 250 fölötti lakórendeltetés után a gépjármű-várakozóhelyek telken
 
 c) a lakásokhoz tartozó gépjárműtároló új épület építése esetén a főépülettől különállóan, illetve terepszint felett is megvalósítható.
 
-[^2]: A 2/A. §-t a 377/2025. (XII. 1.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 2/A. §-t a 377/2025. (XII. 1.) Korm. rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-2/B. §[^3] (1) A 2. mellékletben foglalt táblázat 6. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:6 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+2/B. §[^9] (1) A 2. mellékletben foglalt táblázat 6. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:6 mezőjében megjelölt ingatlanra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -24,4 +24,4 @@ h) a telek megengedett legkisebb zöldfelületi mértéke 25%,
 
 i) a telekre a TÉKA-nak a nagyvárosias lakóterület építési övezetre irányadó megengedett legkisebb teljes értékű zöldfelületre vonatkozó előírásait kell alkalmazni.
 
-[^3]: A 2/B. §-t a 377/2025. (XII. 1.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 2/B. §-t a 377/2025. (XII. 1.) Korm. rendelet 2. §-a iktatta be.
