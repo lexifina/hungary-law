@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2024-06-01 | 2024. évi XI. törvény | 2010-87-00-00.53 |
 | 2025-01-01 | 2024. évi LXXX. törvény | 2010-87-00-00.54 |
 | 2025-10-28 | 2024. évi XCI. törvény | 2010-87-00-00.55 |
+| 2025-12-24 | 2025. évi XCVII. törvény | 2010-87-00-00.56 |
