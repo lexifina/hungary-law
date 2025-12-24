@@ -2,7 +2,7 @@
 
 ## AZ MFB ZRT. FELADATAI, TEVÉKENYSÉGI KÖRE
 
-2. § Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen
+2. § Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források, a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény szerinti források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen
 
 a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
 
@@ -40,7 +40,7 @@ m) az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint az MFB Zrt. kö
 
 m)
 
-n)
+n) a Kormány egyedi határozata alapján a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvény szerinti hitel, illetve kölcsön nyújtásában;
 
 o) szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában,
 

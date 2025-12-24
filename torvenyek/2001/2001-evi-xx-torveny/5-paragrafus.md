@@ -52,4 +52,6 @@ b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés
 
 (10) Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 4. § (5) és (5b) bekezdésében meghatározott befektetési alap által kibocsátott befektetési jegyekbe fektetett tőke, valamint az MFB Zrt. többségi befolyása alatt álló gazdasági társaság tulajdonában lévő befektetési jegyekbe fektetett tőke és a befektetési jegyek helyébe lépő pénzkövetelés különbözetét (a továbbiakban: tőkekiegyenlítés) az MFB Zrt. részére.
 
-(11) A tőkekiegyenlítés részletes szabályairól az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter megállapodást köt az MFB Zrt.-vel.
+(10a) Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 2. § szerint nyújtott hitelek vagy kölcsönök kamatai, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés) az MFB Zrt. részére.
+
+(11) A tőke- és kamatkiegyenlítés részletes szabályairól az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter megállapodást köt az MFB Zrt.-vel.
