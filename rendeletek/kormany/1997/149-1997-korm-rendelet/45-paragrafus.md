@@ -1,6 +1,6 @@
 ## Az örökbefogadás iránti kérelem elbírálása
 
-45. §[^336] (1)[^337] A A kijelölt gyámhivatal a 41. § (1) és (2) bekezdésében felsorolt iratok, illetve az örökbe fogadni szándékozó személy és a gyermek szülőjének kérelme, gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekvédelmi szakszolgálat javaslata és a gyermekvédelmi gyám kérelme alapján tizenöt napon belül, hathetesnél fiatalabb gyermek esetén nyolc napon belül dönt a kötelező gondozásba történő kihelyezésről. A kijelölt gyámhivatal a kötelező gondozásba történő kihelyezést elrendelő végzésében a gondozási idő számításánál figyelembe veszi a tényleges gondozás kezdő időpontját. Nyílt örökbefogadás esetén a végzés tartalmazza az örökbefogadásban közreműködő szervezet nevét.
+45. §[^336] (1)[^337] A A kijelölt gyámhivatal a 41. § (1) és (2) bekezdésében felsorolt iratok, illetve az örökbe fogadni szándékozó személy és a gyermek szülőjének kérelme, gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekvédelmi szakszolgálat javaslata és a gyermekvédelmi gyám kérelme alapján öt napon belül, hathetesnél fiatalabb gyermek esetén nyolc napon belül dönt a kötelező gondozásba történő kihelyezésről. A kijelölt gyámhivatal a kötelező gondozásba történő kihelyezést elrendelő végzésében a gondozási idő számításánál figyelembe veszi a tényleges gondozás kezdő időpontját. Nyílt örökbefogadás esetén a végzés tartalmazza az örökbefogadásban közreműködő szervezet nevét.
 
 (2)[^338] Nyílt örökbefogadás esetén a kijelölt gyámhivatal annak megállapítását, hogy a hathetesnél fiatalabb életkorú gyermek örökbefogadásához tett szülői hozzájáruló nyilatkozattal a szülő szülői felügyeleti joga szünetel, legkésőbb a gondozásba történő kihelyezésről szóló végzésben rögzíti. Ezzel egyidejűleg a kijelölt gyámhivatal a 127. § (4) bekezdése alapján a gyermek részére családbafogadó gyámot rendel.
 
@@ -39,7 +39,7 @@ f)[^346] a gyermeket rokona fogadja örökbe.
 (12)[^353] Ha a megkeresett közhasznú szervezet nem vállalja az utánkövetést, a gyámhivatal tájékoztatja erről az örökbe fogadni szándékozó személyt, és újabb közhasznú szervezet megjelölésének hiányában tájékoztatja a gyermekvédelmi szakszolgálatot az örökbefogadás utánkövetésében való együttműködési kötelezettségéről.
 
 [^336]: A 45. § a 14/2003. (II. 12.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^337]: A 45. § (1) bekezdése a 447/2020. (X. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^337]: A 45. § (1) bekezdése a 447/2020. (X. 1.) Korm. rendelet 2. §-ával megállapított, a 432/2025. (XII. 23.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
 [^338]: A 45. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított, az 1/2025. (I. 23.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
 [^339]: A 45. § (2a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (2) bekezdése iktatta be.
 [^340]: A 45. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg.

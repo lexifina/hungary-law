@@ -1,13 +1,13 @@
-68/B. §[^566] (1)–(2)[^567]
+68/B. §[^567] (1)–(2)[^568]
 
-(3)[^568] A tárgyhónapra esedékes kiegészítő pénzbeli ellátás összegét a települési önkormányzat jegyzője a tárgyhónapot követő hónap 5. napjáig utólag folyósítja.
+(3)[^569] A tárgyhónapra esedékes kiegészítő pénzbeli ellátás összegét a települési önkormányzat jegyzője a tárgyhónapot követő hónap 5. napjáig utólag folyósítja.
 
-(4)[^569]
+(4)[^570]
 
-(5)[^570] A kiegészítő pénzbeli ellátás ismételt megállapítása során az ugyanezen jogcímen korábban folyósított támogatás, ellátás összegét jövedelemként nem lehet figyelembe venni.
+(5)[^571] A kiegészítő pénzbeli ellátás ismételt megállapítása során az ugyanezen jogcímen korábban folyósított támogatás, ellátás összegét jövedelemként nem lehet figyelembe venni.
 
-[^566]: A 68/B. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
-[^567]: A 68/B. § (1)–(2) bekezdését a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^568]: A 68/B. § (3) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^569]: A 68/B. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés p) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^570]: A 68/B. § (5) bekezdése a 98/2013. (III. 29.) Korm. rendelet 10. §-ával megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^567]: A 68/B. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. §-ának (4) bekezdését.
+[^568]: A 68/B. § (1)–(2) bekezdését a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^569]: A 68/B. § (3) bekezdése a 179/2019. (VII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^570]: A 68/B. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés p) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^571]: A 68/B. § (5) bekezdése a 98/2013. (III. 29.) Korm. rendelet 10. §-ával megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

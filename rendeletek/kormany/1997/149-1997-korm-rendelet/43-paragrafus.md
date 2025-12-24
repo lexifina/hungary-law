@@ -38,10 +38,11 @@ a) a hozzájáruló nyilatkozat megtételének jogkövetkezményeiről,
 
 b) hathetes életkor alatti gyermek esetén az örökbefogadáshoz való hozzájáruló jognyilatkozata visszavonásának lehetőségéről és arról, hogy a visszavonó nyilatkozatot az örökbefogadás engedélyezéséről határozó kijelölt gyámhivatalnál teheti meg, és
 
-c) titkos örökbefogadás esetén arról, hogy hatodik életévét betöltött vagy egészségileg károsodott gyermeke örökbefogadásához való hozzájáruló nyilatkozata érvényességéhez a gyámhivatal hozzájárulása szükséges.
+c)[^317]
 
 (5) A (4) bekezdés szerinti tájékoztatást, figyelmeztetést, valamint annak tudomásulvételét a gyámhivatal jegyzőkönyvben rögzíti. Titkos örökbefogadás esetén a jegyzőkönyvet soron kívül meg kell küldeni az örökbefogadás engedélyezéséről határozó kijelölt gyámhivatalnak.
 
 [^314]: A 43. § a 70/2014. (III. 13.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^315]: A 43. § (1) bekezdés a) pont af) alpontját a 70/2014. (III. 13.) Korm. rendelet 28. §-a iktatta be, szövege a 304/2023. (VII. 11.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^316]: A 43. § (1) bekezdés b) pontja a 304/2023. (VII. 11.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^317]: A 43. § (4) bekezdés c) pontját a 432/2025. (XII. 23.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
