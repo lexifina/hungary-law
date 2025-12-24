@@ -38,11 +38,13 @@ r)[^751] az európai uniós projektből az államháztartás központi alrendsze
 
 s)[^752] a XIII. Honvédelmi Minisztérium fejezet költségvetésében elszámolásra kerülő, Páncélozott gyalogsági harcjárművek beszerzésére vonatkozó szerződés szerinti teljesítéseknek az időbeni átütemezése miatt keletkező költségvetési maradványt.
 
-(2)[^753] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással nem terhelt költségvetési maradványa a teljes költségvetési maradványnak a kötelezettségvállalással terhelt költségvetési maradvány összegével csökkentett mértéke.
+t)[^753] az Árfolyam-kiegyenlítési Alap központi költségvetésen belüli kompenzációs mechanizmusba tartozó devizás kifizetéseken december hónapban keletkezett árfolyamnyereséget.
 
-(3)[^754] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványa a következő évben – az államháztartás központi alrendszerébe tartozó költségvetési szerv esetén saját hatáskörben, a fejezeti kezelésű előirányzatok esetén a fejezetet irányító szerv hatáskörében – az államháztartási számviteli kormányrendelet 44. § (2) bekezdés h) pontja szerint elvégzett előirányzat-módosítás után a 150. § (1) bekezdése szerinti kötelezettségvállalások kiegyenlítésére használható fel.
+(2)[^754] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással nem terhelt költségvetési maradványa a teljes költségvetési maradványnak a kötelezettségvállalással terhelt költségvetési maradvány összegével csökkentett mértéke.
 
-(4)[^755] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással nem terhelt költségvetési maradványát az éves költségvetési beszámolónak a Kincstár által működtetett elektronikus adatszolgáltató rendszerben a Kincstár által történő elfogadását, de legkésőbb az elfogadásra rendelkezésre álló határidő elteltét követő tíz munkanapon belül a Központi Maradványelszámolási Alap előirányzat javára be kell fizetni. A befizetési kötelezettség elmaradása esetén a Kincstár jogosult a költségvetési szerv, fejezeti kezelésű előirányzat fizetési számláját a be nem fizetett összeggel megterhelni.
+(3)[^755] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványa a következő évben – az államháztartás központi alrendszerébe tartozó költségvetési szerv esetén saját hatáskörben, a fejezeti kezelésű előirányzatok esetén a fejezetet irányító szerv hatáskörében – az államháztartási számviteli kormányrendelet 44. § (2) bekezdés h) pontja szerint elvégzett előirányzat-módosítás után a 150. § (1) bekezdése szerinti kötelezettségvállalások kiegyenlítésére használható fel.
+
+(4)[^756] Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással nem terhelt költségvetési maradványát az éves költségvetési beszámolónak a Kincstár által működtetett elektronikus adatszolgáltató rendszerben a Kincstár által történő elfogadását, de legkésőbb az elfogadásra rendelkezésre álló határidő elteltét követő tíz munkanapon belül a Központi Maradványelszámolási Alap előirányzat javára be kell fizetni. A befizetési kötelezettség elmaradása esetén a Kincstár jogosult a költségvetési szerv, fejezeti kezelésű előirányzat fizetési számláját a be nem fizetett összeggel megterhelni.
 
 [^733]: Az Ávr. 150. §-a a 497/2013. (XII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
 [^734]: Az Ávr. 150. § (1) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 63. pontja, a 310/2018. (XII. 27.) Korm. rendelet 31. § 21. pontja szerint módosított szöveg.
@@ -64,6 +66,7 @@ s)[^752] a XIII. Honvédelmi Minisztérium fejezet költségvetésében elszámo
 [^750]: Az Ávr. 150. § (1) bekezdés q) pontját a 462/2024. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
 [^751]: Az Ávr. 150. § (1) bekezdés r) pontját a 394/2025. (XII. 11.) Korm. rendelet 10. §-a iktatta be.
 [^752]: Az Ávr. 150. § (1) bekezdés s) pontját a 394/2025. (XII. 11.) Korm. rendelet 10. §-a iktatta be.
-[^753]: Az Ávr. 150. § (2) bekezdése a 426/2017. (XII. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^754]: Az Ávr. 150. § (3) bekezdését a 426/2017. (XII. 19.) Korm. rendelet 5. §-a iktatta be, szövege a 310/2018. (XII. 27.) Korm. rendelet 31. § 23. pontja szerint módosított szöveg.
-[^755]: Az Ávr. 150. § (4) bekezdését a 426/2017. (XII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^753]: Az Ávr. 150. § (1) bekezdés t) pontját a 441/2025. (XII. 23.) Korm. rendelet 27. §-a iktatta be.
+[^754]: Az Ávr. 150. § (2) bekezdése a 426/2017. (XII. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^755]: Az Ávr. 150. § (3) bekezdését a 426/2017. (XII. 19.) Korm. rendelet 5. §-a iktatta be, szövege a 310/2018. (XII. 27.) Korm. rendelet 31. § 23. pontja szerint módosított szöveg.
+[^756]: Az Ávr. 150. § (4) bekezdését a 426/2017. (XII. 19.) Korm. rendelet 5. §-a iktatta be.

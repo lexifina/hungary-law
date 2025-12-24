@@ -24,7 +24,7 @@ a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biz
 
 (4)[^215] (4) A kötelezettséget vállaló szerv vezetője írásban kötelezettségvállalási joggal ruházhatja fel
 
-a)[^216] a miniszterelnöki biztost és a miniszterelnöki megbízottat,
+a)[^216] a miniszterelnök politikai igazgatóját, a miniszterelnöki biztost és a miniszterelnöki megbízottat,
 
 b) a Magyar Corvin-lánc kitüntetés adományozására vonatkozó javaslat megtételére jogosult személyt,
 
@@ -60,7 +60,7 @@ alkalmazásában álló személyt jelölhet ki a nemzetiségi önkormányzat kia
 [^213]: Az Ávr. 52. § (2) bekezdés c) pontját a 486/2015. (XII. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.
 [^214]: Az Ávr. 52. § (3) bekezdését a 145/2015. (VI. 12.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^215]: Az Ávr. 52. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdésével megállapított, nyitó szövegrésze a 499/2016. (XII. 28.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
-[^216]: Az Ávr. 52. § (4) bekezdés a) pontja a 445/2020. (X. 1.) Korm. rendelet 17. § 3. pontja szerint módosított szöveg.
+[^216]: Az Ávr. 52. § (4) bekezdés a) pontja a 445/2020. (X. 1.) Korm. rendelet 17. § 3. pontja, a 441/2025. (XII. 23.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^217]: Az Ávr. 52. § (4) bekezdés c) pontja a 194/2018. (X. 15.) Korm. rendelet 1. §-ával megállapított, a 340/2019. (XII. 23.) Korm. rendelet 8. § 2. pontja, a 245/2022. (VII. 8.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
 [^218]: Az Ávr. 52. § (4) bekezdés d) pontja a 47/2019. (III. 12.) Korm. rendelet 8. § 3. pontja, a 340/2019. (XII. 23.) Korm. rendelet 7. § 4. pontja, a 245/2022. (VII. 8.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
 [^219]: Az 52. § (4) bekezdés e) pontját a 340/2019. (XII. 23.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 245/2022. (VII. 8.) Korm. rendelet 8. § 3. pontja.
