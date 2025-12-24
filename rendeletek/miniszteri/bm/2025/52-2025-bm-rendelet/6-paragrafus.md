@@ -1,5 +1,5 @@
 ## 6. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek rendvédelmi tisztjelöltjeiről és a rendvédelmi tisztjelölti szolgálati jogviszonyról szóló 5/2022. (III. 31.) BM rendelet módosítása
 
-6. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek rendvédelmi tisztjelöltjeiről és a rendvédelmi tisztjelölti szolgálati jogviszonyról szóló 5/2022. (III. 31.) BM rendelet 10. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„10. § Ha a rendvédelmi tisztjelölt a rendvédelmi tisztjelölti jogviszonya hatálya alatt a rendészeti alapképzésen belül úgy vált szakirányt, hogy az új szakirány másik rendvédelmi szerv érdekkörébe tartozik, a rendvédelmi tisztjelölt és az érintett rendvédelmi szervek a szerződéssel kapcsolatos, a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:208. § (1) bekezdése szerinti szerződésátruházásról háromoldalú megállapodást kötnek, amely a rendvédelmi tisztjelölti jogviszony folyamatosságának biztosítása mellett tartalmazza a szerződésben rögzített követelések és jogok engedményezésére, valamint kötelezettségek tartozásátvállalására vonatkozó rendelkezéseket.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

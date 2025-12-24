@@ -16,10 +16,6 @@
 
 ## 1. A belügyminiszter irányítása alatt álló fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségéről szóló 23/1997. (III. 19.) BM rendelet módosítása
 
-1. § A belügyminiszter irányítása alatt álló fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségéről szóló 23/1997. (III. 19.) BM rendelet
+1. §[^2]
 
-a) 1. § (2) bekezdés nyitó szövegrészében a „tisztjelölti állomány” szövegrész helyébe a „tisztjelölti szerződéses állomány” szöveg,
-
-b) 1. § (2) bekezdés c) pontjában a „rendvédelmi tisztjelölti szolgálati jogviszonyt” szövegrész helyébe a „rendvédelmi tisztjelölti szerződéses jogviszonyt” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
