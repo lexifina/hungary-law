@@ -1,4 +1,4 @@
-18/B. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az elővásárlásra jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként nyilvántartásba vette.
+18/B. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az elővásárlásra jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként legalább 3 éve nyilvántartásba vette, és a megelőző három gazdasági évben szaporítóanyagot állított elő.
 
 (2) A Földforgalmi törvény 18. § (2) bekezdés d) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
 

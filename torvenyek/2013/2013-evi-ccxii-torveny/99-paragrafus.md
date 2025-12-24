@@ -10,15 +10,19 @@ szolgáltat.
 
 a) hatóság részére hatósági ellenőrzése teljesítéséhez,
 
-b) mezőgazdasági és vidékfejlesztési támogatási szerv részére költségvetési vagy európai uniós támogatás igényléséhez szükséges feltételek teljesítésének megállapításához,
+b) a Nemzeti Kifizető Ügynökség részére költségvetési vagy európai uniós támogatás igényléséhez szükséges feltételek teljesítésének megállapításához,
 
-c) országos statisztikai célú adatgyűjtéshez, vagy
+c) az erdészeti hatóság számára hatósági feladatainak és a faanyag-kereskedelmi lánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében,
 
-d) több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén
+d) az élelmiszerlánc-felügyeleti szerv számára az élelmiszerlánc-felügyeleti információs rendszer (FELIR) működtetésével összefüggő és a parlagfű elleni védekezési kötelezettséghez kapcsolódó hatósági feladatainak ellátása érdekében,
+
+e) országos statisztikai célú adatgyűjtéshez, vagy
+
+f) több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén
 
 elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat.
 
-(1b) Az (1a) bekezdés c) és d) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
+(1b) Az (1a) bekezdés e) és f) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
 
 (1c) Az (1a) bekezdésben meghatározott elektronikus dokumentum az (1a) bekezdésben meghatározott adatszolgáltatás iránti igény célhozkötöttségétől függően a földhasználati lap másolaton megjeleníthető adatokat tartalmazhatja. Az elektronikus dokumentum nem tartalmazhatja a 94. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc–cf) alpontjában foglalt adatokat.
 
@@ -40,7 +44,7 @@ c) a Földforgalmi törvényben és e törvényben meghatározott célból a hat
 
 d) a hatáskörében eljáró ügyész és bíróság,
 
-e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a mezőgazdasági és vidékfejlesztési támogatási szerv.
+e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a Nemzeti Kifizető Ügynökség,
 
 f) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró.
 

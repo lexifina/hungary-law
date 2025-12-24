@@ -2,4 +2,10 @@
 
 (2) Az ügyintézés határidejébe nem számít bele a Földforgalmi tv. 51. § (1) bekezdése szerinti közbenső döntés meghozatala és az 50. § (1) bekezdés szerinti okiratok mezőgazdasági igazgatási szervhez történő beérkezése közötti időtartam.
 
-(3) A (2) bekezdésben meghatározott földhasználati szerződéseket az 53. § (1) bekezdésében előírtak szerint kell a mezőgazdasági igazgatási szervhez benyújtani.
+(3) Az olyan földhasználati szerződést, amely
+
+a) haszonbérleti szerződésnek minősül, de harmadik személynek előhaszonbérleti joga nem áll fenn, vagy
+
+b) nem minősül haszonbérletnek,
+
+az 53. § (1) bekezdésében előírtak szerint kell a mezőgazdasági igazgatási szervhez benyújtani.
