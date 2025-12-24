@@ -2,7 +2,7 @@
 
 (2) A Felügyelet köteles a felszámolást elrendelő, illetve a végelszámolásról szóló végzés tudomására jutásakor a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyét a felszámolás, illetve a végelszámolás kezdő időpontjával visszavonni.
 
-(3) A végelszámolásról szóló vagy a felszámolót kijelölő bírósági végzés (a továbbiakban: bírósági végzés) Cégközlönyben történő közzétételét követően a Felügyelet soron kívül köteles annak tartalmát magyar nyelven az Európai Közösségek Hivatalos Lapjában, valamint valamennyi állam legalább két országos napilapjában közzétenni.
+(3)
 
 (4) A végelszámolásról vagy a felszámolásról és azok gyakorlati következményeiről a Felügyelet haladéktalanul tájékoztatja az Európai Unió azon államainak felügyeleti hatóságait, amelyekben az intézmény fiókteleppel rendelkezett, vagy határon átnyúló tevékenység keretében nyugdíjkonstrukciót működtetett.
 
