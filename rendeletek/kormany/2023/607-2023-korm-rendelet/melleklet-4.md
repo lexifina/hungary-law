@@ -8,9 +8,9 @@ Az egyes hatósági képesítések oktatásához szükségek végzettségek
 
 | 2 | Adótanácsadó | Jogi feladatok a gyakorlatban | közgazdász, közgazdász-tanár, jogász |  |
 
-| 3 |  | Számviteli ismeretek | közgazdász, közgazdász-tanár | mérlegképes könyvelő, okleveles könyvvizsgáló vagy regisztrált könyvviteli szolgáltatást végző[^3] |
+| 3 |  | Számviteli ismeretek | közgazdász, közgazdász-tanár | mérlegképes könyvelő, okleveles könyvvizsgáló vagy regisztrált könyvviteli szolgáltatást végző[^5] |
 
-| 4 |  | Az adóigazgatás általános és speciális szabályai; A forgalmi adók, a jövedéki adóztatás és a vámismeretek; Jövedelemadózás és járulékfizetés; Egyéb adók, illetékek; Adótanácsadás, adókommunikáció | közgazdász, közgazdász-tanár, jogász | adótanácsadó, jövedéki ügyintéző (felsőfokú iskolai végzettség mellett) vagy vámügyintéző (felsőfokú iskolai végzettség mellett)[^4] |
+| 4 |  | Az adóigazgatás általános és speciális szabályai; A forgalmi adók, a jövedéki adóztatás és a vámismeretek; Jövedelemadózás és járulékfizetés; Egyéb adók, illetékek; Adótanácsadás, adókommunikáció | közgazdász, közgazdász-tanár, jogász | adótanácsadó, jövedéki ügyintéző (felsőfokú iskolai végzettség mellett) vagy vámügyintéző (felsőfokú iskolai végzettség mellett)[^6] |
 
 | 5 | Okleveles adószakértő | valamennyi modul | jogász, közgazdász, közgazdász-tanár | adótanácsadó vagy okleveles adószakértő |
 
@@ -20,11 +20,11 @@ Az egyes hatósági képesítések oktatásához szükségek végzettségek
 
 | 8 | Pénzügyi szervezeti mérlegképes könyvelő | valamennyi modul | közgazdász, közgazdász-tanár | pénzügyi szervezeti mérlegképes könyvelő, IFRS mérlegképes könyvelő, okleveles könyvvizsgáló IFRS minősítéssel, vagy okleveles könyvvizsgáló pénzügyi szervezeti minősítéssel |
 
-| 9 | Vállalkozási mérlegképes könyvelő | Vállalkozások pénzügyei; Könyvviteli ismeretek; Pénzügyi számvitel; Pénzügyi kimutatások összeállítása, elemzése és ellenőrzése | közgazdász, közgazdász-tanár | mérlegképes könyvelő, okleveles könyvvizsgáló vagy regisztrált könyvviteli szolgáltatást végző[^5] |
+| 9 | Vállalkozási mérlegképes könyvelő | Vállalkozások pénzügyei; Könyvviteli ismeretek; Pénzügyi számvitel; Pénzügyi kimutatások összeállítása, elemzése és ellenőrzése | közgazdász, közgazdász-tanár | mérlegképes könyvelő, okleveles könyvvizsgáló vagy regisztrált könyvviteli szolgáltatást végző[^7] |
 
-| 10 |  | Gazdasági és jogi alapismeretek; Adózási ismeretek | közgazdász, közgazdász-tanár jogász | mérlegképes könyvelő, okleveles könyvvizsgáló vagy regisztrált könyvviteli szolgáltatást végző[^6] |
+| 10 |  | Gazdasági és jogi alapismeretek; Adózási ismeretek | közgazdász, közgazdász-tanár jogász | mérlegképes könyvelő, okleveles könyvvizsgáló vagy regisztrált könyvviteli szolgáltatást végző[^8] |
 
-[^3]: A 4. mellékletben foglalt táblázat D:3 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^4]: A 4. mellékletben foglalt táblázat D:4 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § b) pontjával megállapított szöveg.
-[^5]: A 4. mellékletben foglalt táblázat D:9 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^6]: A 4. mellékletben foglalt táblázat D:10 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^5]: A 4. mellékletben foglalt táblázat D:3 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^6]: A 4. mellékletben foglalt táblázat D:4 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § b) pontjával megállapított szöveg.
+[^7]: A 4. mellékletben foglalt táblázat D:9 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^8]: A 4. mellékletben foglalt táblázat D:10 mezője a 423/2024. (XII. 23.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

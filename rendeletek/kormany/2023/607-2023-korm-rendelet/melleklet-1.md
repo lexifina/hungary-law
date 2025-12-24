@@ -446,7 +446,7 @@ h) regisztráció a könyvviteli szolgáltatást végzők nyilvántartásában.
 
 ## A képzési modul teljesítése alól felmentést kap az, aki rendelkezik
 
-a) ACCA (Foundation Level) – sikeresen befejezett vizsgákkal (a hivatalos okirat a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM),
+a)[^2] ACCA (Foundation Level) – sikeresen befejezett vizsgákkal (a hivatalos okiraton az összes vizsga teljesítésének dátuma a felmentési kérelem benyújtását megelőző 10 éven belül van),
 
 b) DipIFR – befejezett és sikeres vizsgákkal,
 
@@ -546,11 +546,11 @@ j) az IFRS-ekkel kapcsolatos aktuális kérdések (folyamatban lévő fejleszté
 
 ## A hatósági vizsgán használható segédeszközöket kizárólag a vizsgaközpont biztosítja a vizsgázók számára, egyéb segédeszköz használata – nem programozható számológépen felül – nem engedélyezett.
 
-3.5.5.[^2] A hatósági vizsga alóli felmentések speciális esetei, módja, és feltételei
+3.5.5.[^3] A hatósági vizsga alóli felmentések speciális esetei, módja, és feltételei
 
 ## A gyakorlati vizsga és a szóbeli vizsga teljesítése alól felmentést kap az, aki rendelkezik
 
-a) ACCA (Foundation Level) – sikeresen befejezett vizsgákkal (a hivatalos okirat a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM),
+a)[^4] ACCA (Foundation Level) – sikeresen befejezett vizsgákkal (a hivatalos okiraton az összes vizsga teljesítésének dátuma a felmentési kérelem benyújtását megelőző 10 éven belül van),
 
 b) DipIFR – befejezett és sikeres vizsgákkal,
 
@@ -757,4 +757,6 @@ l) pénzügyi szervezeti ellenőrzéssel kapcsolatos ismeretek.
 4.5.6. A hatósági vizsga egyéb szabályai
 
 [^1]: Az 1. melléklet 3. pont 3.4. alpont 3.4.2. pontja a 423/2024. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet 3. pont 3.5. alpont 3.5.5. pontja a 423/2024. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 3. pont 3.4. alpont 3.4.2. pont a) alpontja a 441/2025. (XII. 23.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 3. pont 3.5. alpont 3.5.5. pontja a 423/2024. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 3. pont 3.5. alpont 3.5.5. pont a) alpontja a 441/2025. (XII. 23.) Korm. rendelet 40. §-a szerint módosított szöveg.
