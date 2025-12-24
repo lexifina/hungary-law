@@ -28,7 +28,7 @@ g) az őshonos halállományt veszélyeztető, idegenhonos invazív halfajok és
 
 h) a vízminőség és a vízparti környezet védelmének elősegítése, az ehhez szükséges technikai feltételek biztosítása,
 
-i) a halállománnyal, a vízterületi életközösséggel, élőhellyel, a halegészségüggyel kapcsolatos szaktanácsadási, tervezési, kutatási és fejlesztési feladatok ösztönzése,
+i) a halállománnyal, a vízterületi életközösséggel, élőhellyel, a halegészségüggyel kapcsolatos szaktanácsadási és továbbképzési, tervezési, kutatás-fejlesztési és innovációs feladatok ellátása, valamint ezen tevékenységek ösztönzése,
 
 j) a horgászszervezetek halgazdálkodási szabályozási, monitorozó- és kontrolltevékenységének fejlesztése, halgazdálkodási terveinek és helyi horgászrendjeinek összehangolása és egységesítése.
 
@@ -94,6 +94,6 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 
 (5a) A horgászat és a horgászturizmus összehangolt fejlesztése és a (4) bekezdésben meghatározott közfeladatai ellátása érdekében a horgászszövetség a nyilvántartott halgazdálkodási vízterületeken és azok partjain tervezett fejlesztések esetében az országos és térségi turizmusfejlesztési, környezetvédelmi, vízügyi és más fejlesztési terveket véleményezi, továbbá hallépcső és halátjáró létesítésére vonatkozó vízjogi hatósági eljárásban ügyfélnek minősül.
 
-(5b) A 24. § (2) bekezdése alapján és a (2) bekezdésben meghatározott közfeladatai ellátása érdekében a horgászszövetség a halgazdálkodási terv jóváhagyásával, módosításával kapcsolatos közigazgatási, hatósági eljárásban az általa haszonbérelt állami vagy többségi állami tulajdonban álló nyilvántartott halgazdálkodási vízterületetek esetében ügyfélnek minősül.
+(5b) A 24. § (2) bekezdése alapján és a (2) bekezdésben meghatározott közfeladatai ellátása érdekében a horgászszövetség a halgazdálkodási terv jóváhagyásával, módosításával, illetve a halgazdálkodási jog gyakorlásának korlátozásával kapcsolatos közigazgatási, hatósági eljárásban az általa haszonbérelt állami vagy többségi állami tulajdonban álló nyilvántartott halgazdálkodási vízterületetek esetében ügyfélnek minősül.
 
 (6) A horgászszövetség közfeladat-ellátására vonatkozóan a miniszterrel közfeladat-ellátási szerződést kell kötni.

@@ -52,15 +52,17 @@ felhasználásával történik;
 
 16b. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
 
-17. horgászokmány: az állami horgászokmánynak minősülő Magyar Horgászkártya, az állami horgászjegy, a horgász fogási napló, a turista állami horgászjegy, az állami halászjegy, a halász fogási napló, valamint a területi jegy és a kiegészítő területi jegy;
+16c. horgász kísérő: a cselekvőképtelen vagy korlátozottan cselekvőképes személy törvényes képviselője, valamint a törvényes képviselő által meghatalmazott, a horgászszövetségi szakrendszerben regisztrált személy;
+
+17. horgászokmány: az állami horgászokmánynak minősülő Magyar Horgászkártya, az állami horgászjegy, a horgász fogási napló, a turista állami horgászjegy, az állami halászjegy, a halász fogási napló, valamint a területi jegy és a kiegészítő jegy;
 
 17a. horgászszervezet: a horgászszövetség, valamint annak bírósági nyilvántartásba vett horgászati célú halgazdálkodást folytató tagszervezete, cégbíróságon bejegyzett, horgászati célú halgazdálkodást folytató gazdálkodó szervezet tagja, továbbá a bírósági nyilvántartásba vett horgászegyesület;
 
 17b. horgászszövetség: a Magyar Országos Horgász Szövetség mint a horgászok és a horgászszervezetek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet;
 
-17c. horgászszövetségi applikáció: a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett, térítésmentesen letölthető, a nyilvántartott horgászok, illetve a gondviselő esetében a horgászszövetségi szakrendszer adatait felhasználó, illetve oda adatokat biztosító, mobil eszközökre optimalizált online informatikai alkalmazás, amely térerőtől függetlenül alkalmas a nyilvántartási adatok, az érvényes horgászokmányok és az állami horgászvizsga hiteles igazolására, a horgásznapi jelenléti és az elviteli fogási adatok rögzítésére;
+17c. horgászszövetségi applikáció: a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett, térítésmentesen letölthető, a nyilvántartott horgászok, illetve a horgász kísérő esetében a horgászszövetségi szakrendszer adatait felhasználó, illetve oda adatokat biztosító, mobil eszközökre optimalizált online informatikai alkalmazás, amely térerőtől függetlenül alkalmas a nyilvántartási adatok, az érvényes horgászokmányok és az állami horgászvizsga hiteles igazolására, a horgásznapi jelenléti és az elviteli fogási adatok rögzítésére;
 
-17d. horgászszövetségi szakrendszer: a horgászok és a gondviselők regisztrációs, nyilvántartási és horgászokmány-kiadási, állami horgászvizsgáztatási, valamint a horgászszervezetek támogatását és az elektronizációt szolgáló, a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett online informatikai rendszer;
+17d. horgászszövetségi szakrendszer: a horgászok és a horgász kísérők regisztrációs, nyilvántartási és horgászokmány-kiadási, állami horgászvizsgáztatási, valamint a horgászszervezetek támogatását és az elektronizációt szolgáló, a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett online informatikai rendszer;
 
 18. ívóhely: az ivarérett halak csoportosan vagy párosan felkeresett szaporodási helye, ahol az ívási felület és az ívási feltételek rendelkezésre állnak a szaporodáshoz;
 

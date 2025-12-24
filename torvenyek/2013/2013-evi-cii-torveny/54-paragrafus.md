@@ -18,6 +18,8 @@ f) a halászati engedély, állami halászjegy, illetve állami horgászjegy ala
 
 g) a 38/A. § (1) bekezdésében meghatározott nyilvántartás adatai.
 
+h) a haltartó tenyészeteknek a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló miniszteri rendelet szerinti Országos Adatbázisban nyilvántartott adatai.
+
 (4) Az Adattár működtetése céljából:
 
 a) a halgazdálkodási hatóság a (3) bekezdés a)–e) pontja,

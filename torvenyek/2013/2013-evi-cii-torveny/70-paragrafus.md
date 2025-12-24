@@ -12,7 +12,7 @@ d) a horgászat megkezdésének a fogási napló naptárában való megjelölés
 
 a) a 66. § (1) bekezdés b)–d), f) és g) pontja,
 
-b) a 66. § (2) bekezdése,
+b) a 66. § (2), (4) és (4a) bekezdése,
 
 c) a 67. § (1) bekezdés a)–f), i), l), m), o), q), s) és u) pontja, valamint
 

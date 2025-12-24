@@ -8,11 +8,19 @@
 
 (4) Az állami horgászjegyhez, a turista állami horgászjegyhez és az állami halászjegyhez fogási napló biztosítása is szükséges.
 
-(5) Az állami horgászjegy és a horgász fogási napló vagy az állami halászjegy és a halász fogási napló papíralapon kizárólag összevont horgászokmányként adható ki.
+(5)
 
 (6) Állami horgászokmány kizárólag a 62/C. § (4f) bekezdése szerinti, sikeres központi adatellenőrzés után adható ki. A Magyar Horgászkártya kiadásának évében az adatellenőrzés teljesítettnek tekinthető.
 
-(7) Egy személynek egy okmánytípusból egy naptári évben csak egy adható ki, a (12) és (13) bekezdése szerinti visszavonást követő új okmány kiadása és a (19) bekezdése szerinti pótlás, valamint a 40. § (3) bekezdése szerinti gyermekhorgász esetében a horgászegyesületi tagság évközi létesítése kivételével.
+(7) Egy személynek egy okmánytípusból egy naptári évben csak egy adható ki, – horgász és halász fogási napló esetében az állami horgászjegy kiváltásakor egyénileg megválasztott, papíralapú vagy elektronikus formában –,
+
+a) a (12) és (13) bekezdés szerinti visszavonást követő új okmány kiadása,
+
+b) a (19) bekezdés szerinti pótlás, valamint
+
+c) a 40. § (3) bekezdése szerinti gyermekhorgász esetében a horgászegyesületi tagság évközi létesítése
+
+kivételével.
 
 (8) Érvényes állami horgászjegy birtokában turista horgászjegy, illetve turista horgászjegy birtokában állami horgászjegy vagy állami halászjegy nem váltható.
 
@@ -28,7 +36,7 @@ b) elektronikus horgászokmány esetében a horgászszövetség bevonásával in
 
 (12) Az állami horgászokmányt a halgazdálkodási hatóság véglegesen visszavonja attól a személytől,
 
-a) aki ezen okmányát a helyszíni ellenőrzéskor nem tudja felmutatni és mulasztását a halgazdálkodási hatóságnál a helyszíni ellenőrzést követő 10 napon belül nem pótolja,
+a) aki ezen okmányát a helyszíni ellenőrzéskor nem tudja felmutatni vagy a 45. § (2) bekezdése szerinti módon igazolni és mulasztását a halgazdálkodási hatóságnál a helyszíni ellenőrzést követő 10 napon belül nem pótolja,
 
 b) akivel szemben halvédelmi bírságot, vagy más hatóság által megállapított, a hal fogására irányuló tevékenységgel kapcsolatosan megállapított szankciót szabtak ki,
 
@@ -46,7 +54,7 @@ d) aki tiltott vagy nem megengedett eszközzel, illetve módon halászik vagy ho
 
 (17) A horgászszövetség az állami horgászokmány elvételének tényét az eljárás lezárásáig a horgászszövetségi szakrendszerben a cselekmény leírása nélkül, jelöléssel rögzíti. Az eljárás lezárásáig új okmány az eljárás alá vont személy részére nem adható ki.
 
-(18) Az állami horgászokmány megsemmisülését vagy elvesztését annak jogosultja 3 napon belül köteles bejelenteni
+(18) A papíralapú állami horgászokmány megsemmisülését vagy elvesztését annak jogosultja 3 napon belül köteles bejelenteni
 
 a) a horgászszövetség által a forgalmazással megbízott horgászszervezet azon forgalmazási pontján, ahol számára az okmány kiadásra került, vagy
 
@@ -54,4 +62,4 @@ b) ha az a) pontban meghatározott helyen az állami horgászokmány forgalmazá
 
 (19) A horgászszövetség vagy a forgalmazással megbízott horgászszervezet a megsemmisült vagy elveszett okmányt a jogosult kérelmére pótolja.
 
-(20) Az állami horgászokmányok – a 40. § (4) bekezdése és a 41. § (3) bekezdése szerinti megfizetés alóli mentesítés hatálya alá eső személyek okmányai, valamint a turista horgász fogási napló kivételével – díj ellenében válthatóak, ideértve a pótlásuk esetét is.
+(20) Az állami horgászokmányok – a 40. § (4) bekezdése és a 41. § (3) bekezdése szerinti megfizetés alóli mentesítés hatálya alá eső személyek okmányai, valamint az elektronikus és a turista horgász fogási napló kivételével – díj ellenében válthatóak, ideértve a pótlásuk esetét is.

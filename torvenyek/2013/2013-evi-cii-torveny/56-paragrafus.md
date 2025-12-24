@@ -36,7 +36,7 @@ c) a kifogható mérettartományon kívüli, a területi jegyen meghatározott m
 
 d) a horgászati vagy halászati jogsértő cselekményt elkövető, helyi horgászrendet vagy helyi halászrendet megsértő személytől a területi jegyet elvenni és azt a kibocsátónak haladéktalanul megküldeni,
 
-e) a horgászati vagy halászati jogsértő cselekmények alábbi minősített eseteiben az állami horgászjegyet, turista állami horgászjegyet, állami halászjegyet elvenni attól a személytől, aki
+e) a horgászati vagy halászati jogsértő cselekmények alábbi minősített eseteiben az állami horgászokmányt elvenni attól a személytől vagy elektronikus kiadású forma esetén intézkedni annak ideiglenes inaktiválásáról annak a személynek az esetében, aki
 
 ea) tiltott vagy nem megengedett eszközzel, illetve módon horgászik vagy halászik, ideértve a megengedettnél több horgászkészség vagy halászeszköz használatát,
 
@@ -88,7 +88,7 @@ e) lakóhelyét;
 
 f) eskütételének időpontját, esküokmányának számát;
 
-g) szolgálati igazolványa, jelvénye, naplója számát;
+g) szolgálati igazolványa, jelvénye számát;
 
 h) vizsgáinak időpontját és vizsgabizonyítványának sorszámát;
 

@@ -2,7 +2,7 @@
 
 (2) A Magyar Horgászkártyát a horgászszövetség adja ki. A Magyar Horgászkártya megléte – a gyermekhorgász, az egyesületi tagságot nem létesítő külföldi horgász, valamint a turista állami horgászjeggyel horgászó személy kivételével – előfeltétele a további horgászokmányok kiváltásának.
 
-(3) Magyar Horgászkártyát a 40. § (3) bekezdésében meghatározott gyermekhorgász részére a horgászszövetségi szakrendszerben nyilvántartott gondviselő igényelhet.
+(3) Magyar Horgászkártyát a 40. § (3) bekezdésében meghatározott gyermekhorgász részére a horgászszövetségi szakrendszerben nyilvántartott horgász kísérő igényelhet.
 
 (4) A Magyar Horgászkártya megsemmisülését vagy elvesztését annak jogosultja haladéktalanul köteles bejelenteni
 

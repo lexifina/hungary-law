@@ -1,4 +1,4 @@
-38/B. § (1) A horgászszövetség az e törvényben közfeladatként meghatározott feladatai ellátása érdekében a horgászokról és a gondviselőkről, a rekreációs halászokról, a horgászszervezetekről, a halgazdálkodási vízterületekről, valamint a horgászokmányokról és az állami horgászvizsgáról, halászvizsgáról nyilvántartást vezet.
+38/B. § (1) A horgászszövetség az e törvényben közfeladatként meghatározott feladatai ellátása érdekében a horgászokról és a horgász kísérőkről, a rekreációs halászokról, a horgászszervezetekről, a halgazdálkodási vízterületekről, valamint a horgászokmányokról és az állami horgászvizsgáról, halászvizsgáról nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -20,7 +20,7 @@ ag) horgászszövetségi azonosító számát,
 
 ah) állami vizsgabizonyítványának számát, korábban igazolt horgászvizsga esetén annak számát vagy a megszerzés dátumát,
 
-ai) állami horgászjegyének számát és kiadásának időpontját,
+ai) állami horgászjegyének, horgász fogási naplójának számát és kiadásának időpontját,
 
 aj) a horgász fogási napló leadásának vagy lezárásának időpontját,
 
@@ -38,7 +38,7 @@ ba) a) pont aa)–ag) és aj)–am) alpontok szerinti adatait és
 
 bb) turista állami horgászjegyének számát;
 
-c) a horgászatra jogosult természetes személy gondviselőjének az a) pont aa)–ag) alpontok szerinti adatait;
+c) a horgászatra jogosult természetes személy horgász kísérőjének az a) pont aa)–ag) alpontok szerinti adatait;
 
 d) a rekreációs halászatra jogosult természetes személy
 
@@ -46,7 +46,7 @@ da) a) pont aa)–ag) és ak)–am) alpontok szerinti adatait,
 
 db) állami halászvizsga-bizonyítványának számát,
 
-dc) állami halászjegyének számát és
+dc) állami halászjegyének, halász fogási naplójának számát és kiadásának időpontját és
 
 dd) a halász fogási napló leadásának vagy lezárásának időpontját; valamint
 

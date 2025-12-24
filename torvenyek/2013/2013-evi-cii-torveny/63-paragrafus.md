@@ -96,9 +96,9 @@ ah) halőrzés támogatása, és technikai feltételeinek fejlesztése,
 
 ai) halgazdálkodási vízterület és a vízpart természeti környezetének, állami, önkormányzati vagy horgászszervezeti tulajdonban álló, illetve horgászszervezet által tartósan hasznosított épített környezetének, infrastruktúrájának és szolgáltatásainak fenntartási támogatása, fejlesztése, a vízminőség és a vízparti környezet védelmének, a védelem technikai feltételei biztosításának támogatása,
 
-aj) horgászati célú halgazdálkodási szaktanácsadás igénybevételének támogatása,
+aj) horgászati célú halgazdálkodási szaktanácsadás és továbbképzés nyújtása, igénybevételének támogatása,
 
-ak) halgazdálkodási és halvédelmi, halegészségügyi kutatások és kutatás-fejlesztések támogatása;
+ak) halgazdálkodási és halvédelmi, halegészségügyi kutatások és kutatás-fejlesztések, innovációk, valamint ezen tevékenységek támogatása;
 
 b) központi ügyvitele, valamint a tagjának, vagy tagszervezete tagjának minősülő horgászszervezetek esetében
 

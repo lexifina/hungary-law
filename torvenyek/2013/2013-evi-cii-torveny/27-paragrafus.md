@@ -1,4 +1,4 @@
-27. § (1) A halgazdálkodási jog haszonbérletére vonatkozó szerződés határozott időtartamra köthető, amelynek időtartama legalább 5 év, legfeljebb 15 év.
+27. § (1) A halgazdálkodási jog haszonbérletére vonatkozó szerződés határozott időtartamra köthető, amelynek időtartama legalább 5 év, legfeljebb 20 év.
 
 (2) A halgazdálkodási jog haszonbérletéért az e törvény végrehajtására kiadott rendeletben az egyes víztípusok halgazdálkodási értéke alapján meghatározott haszonbérleti díjat kell megfizetni.
 

@@ -28,7 +28,7 @@ bb) székhelyének címét; valamint
 
 c) a jogosult
 
-ca) halászati engedélyének, állami horgászjegyének, állami halászjegyének számát és kiadásának időpontját,
+ca) halászati engedélyének, állami horgászokmányainak számát és a kiadás időpontját,
 
 cb) a horgász, halász fogási napló leadásának vagy lezárásának időpontját,
 

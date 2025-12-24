@@ -36,7 +36,7 @@
 
 18. halfajonként a kifogható mérettartományt, a korlátozások alóli mentesítés szabályait, valamint a halfajonként naponta és évente kifogható mennyiségeket, az ez alóli mentesség szabályait;
 
-19. a halászati őrök és társadalmi halőrök nyilvántartására, vizsgakövetelményére, továbbképzésére, működésére, esküjének szövegére, valamint a hivatásos halőr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+19. a hivatásos halőrök és társadalmi halőrök nyilvántartására, vizsgakövetelményére, továbbképzésére, működésére, esküjének szövegére, valamint a hivatásos halőr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
 
 20. a haltermelési létesítmények típusait és a telepíthető halfajokat;
 
