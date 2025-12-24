@@ -1,13 +1,1 @@
-## „VI/A. Fejezet
-
-## REPÜLÉSBIZTONSÁGI SZERVEZETEK”
-
-22. § (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 65/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A légiközlekedés biztonsága érdekében annak a polgári légijármű üzemben tartónak, karbantartó szervezetnek, légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezetnek, repülőtér üzemben tartónak, valamint földi kiszolgáló szervezetnek, – kivéve, aki a 2018/1139/EU európai parlamenti és tanácsi rendelet rendelkezései alapján Repülésbiztonság-irányítási Rendszer működtetésére köteles – repülésbiztonsági szervezetet kell fenntartania, vagy a feladat ellátására más szervezettel szerződést kell kötnie.
-
-(2) Az (1) bekezdésben meghatározott szervezet engedélyét a légiközlekedési hatóság adja ki. A légiközlekedési hatóság – a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja az illetékes közlekedésbiztonsági szervet a kiadott, felfüggesztett és visszavont engedélyekről.”
-
-(2) A légiközlekedésről szóló 1995. évi XCVII. törvény 65/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A repülésbiztonsági szervezetek működésével kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.”
+### 22. §

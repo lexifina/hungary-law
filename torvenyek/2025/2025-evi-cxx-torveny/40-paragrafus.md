@@ -1,3 +1,1 @@
-40. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Az (1) bekezdés i) pontja, valamint a (2) bekezdés a) pontja szerinti kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszonyban a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet a tevékenység végzése céljából részére átadott, valamint a jogviszony alapján általa létrehozott, az állam vagy a helyi önkormányzat tulajdonába kerülő vagyontárgyon (e § alkalmazásában a továbbiakban: átengedett nemzeti vagyon) a törvény erejénél fogva működtetési jog illeti meg (a továbbiakban: kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog).”
+### 40. §

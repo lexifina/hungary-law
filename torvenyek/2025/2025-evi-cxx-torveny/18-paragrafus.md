@@ -1,3 +1,1 @@
-18. § A légiközlekedésről szóló 1995. évi XCVII. törvény „A személyszállítást végző légifuvarozókra vonatkozó adatkezelési és adatszolgáltatási rendelkezések” alcíme a következő 27/E. §-sal egészül ki:
-
-„27/E. § A személyszállítást végző légifuvarozó nemzetbiztonsági és terrormegelőzési célból köteles a veszélyes árut vagy fegyvert szállító utasokra, poggyászra, áru- és rakománytartalomra vonatkozó adatokat – ideértve a 27/A. § (1) és (3) bekezdés szerinti adatokat – közvetlenül megküldeni a terrorizmust elhárító szerv, az általános rendőrségi feladatok ellátására létrehozott szerv, a Nemzeti Adó- és Vámhivatal, valamint az Alkotmányvédelmi Hivatal részére.”
+### 18. §

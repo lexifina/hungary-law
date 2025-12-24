@@ -1,3 +1,1 @@
-5. § A közúti közlekedésről szóló 1988. évi I. törvény 33. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Koncessziós szerződés alapján működtetett országos közutat érintő állami útépítési beruházás esetében, ha a közútkezelői hozzájárulás kiadása iránti kérelem tekintetében a koncessziós társaság a közútkezelői minőségét vitatja vagy a közútkezelői hozzájárulás megadása vagy megtagadása tárgyában 42 napon belül nem nyilatkozik, akkor a közútkezelői hozzájárulás kiadásával kapcsolatos közútkezelői feladatok körében közútkezelőként a Kormány rendeletében kijelölt közútkezelő gazdasági társaság jár el.”
+### 5. §
