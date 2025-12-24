@@ -1,0 +1,1 @@
+5. § A Kr. 11/Q. § (1) bekezdésében az „a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.)” szövegrész helyébe az „a Gyer.” szöveg lép.
