@@ -32,4 +32,6 @@ h) önkéntes műnyilvántartást vezet,
 
 i) gondoskodik a Szerzői Jogi Szakértő Testület, valamint a Szerzői Jogi Szakértő Testületen belül létrehozott Egyeztető Testület működtetéséről.
 
+(4a) A Hivatal nyilvántartást vezet az üzleti titok védelméről szóló törvény szerinti védett ismeretről (know-how).
+
 (5) A Hivatal elnöke külön törvény alapján ellátja a Magyar Szabadalmi Ügyvivői Kamara törvényességi felügyeletét.
