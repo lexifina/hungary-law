@@ -10,7 +10,7 @@ d) a kamatkiegyenlítési és tőkekiegyenlítési rendszer keretében az Eximba
 
 e) az Eximbank által folyósított kötött segélyhitelekhez kapcsolódó, a központi költségvetés terhére nyújtott támogatások előirányzatát.
 
-f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány, valamint kötvényállomány felső határát.
+f) a Kormány határozata alapján állami készfizető kezességvállalás mellett nyújtott hitel- és kölcsönből, valamint kötvényből eredő kötelezettségvállalás felső határát.
 
 (2) Az (1) bekezdés a)–c) pontjában meghatározott fizetési kötelezettségek költségvetési fedezetét a Magyarország központi költségvetéséről szóló törvényben elkülönített előirányzatokban kell jóváhagyni.
 

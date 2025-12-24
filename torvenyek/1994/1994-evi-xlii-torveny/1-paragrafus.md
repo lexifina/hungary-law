@@ -14,7 +14,7 @@
 
 (4) Az Eximbankra és a Mehibre a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.
+(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.
 
 (5a) E törvény alkalmazásában:
 

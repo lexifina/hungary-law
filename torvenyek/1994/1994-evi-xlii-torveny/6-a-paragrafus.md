@@ -4,4 +4,4 @@ a) a 2. § (2) bekezdése szerint nyújtott kötött segélyhitelek kamatjainak,
 
 b) a 2. § szerint nyújtott hitelek kamatjainak, valamint az e célt szolgáló finanszírozási költségek különbözetét (a továbbiakban: kamatkiegyenlítés),
 
-c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba (a továbbiakban: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).
+c) az Eximbank által a 2. § (1a)–(1d) bekezdése szerinti alapokba vagy más kollektív befektetési formákba (a továbbiakban együtt: alap) befektetett tőkének és az alap vagy harmadik személy által az Eximbank részére a befektetési jegyekhez, társasági részesedéshez vagy az adott kollektív befektetési formának megfelelő jogi formában és jogcímen fennálló egyéb érdekeltséghez kapcsolódóan bármely jogcímen kifizetett összeg különbözetét (a továbbiakban: tőkekiegyenlítés).
