@@ -62,9 +62,11 @@ h) a 67. § (9) bekezdése alapján indított eljárásban – a visszavont hat�
 
 15. a 75/A. § (1) bekezdése szerinti felhívás közzétételétől az észrevételek benyújtására előírt határidő lejártáig terjedő időtartam,
 
-16. az összefonódás vizsgálatára irányuló, a 67. § (4) bekezdése alapján indított eljárásban a 62. § (1) bekezdés a), illetve b) pontja szerinti igazgatási szolgáltatási díj megfizetésére nyitva álló határidő eredménytelen elteltétől az esedékes díj megfizetéséig terjedő időtartam, valamint
+16. az összefonódás vizsgálatára irányuló, a 67. § (4) bekezdése alapján indított eljárásban a 62. § (1) bekezdés a), illetve b) pontja szerinti igazgatási szolgáltatási díj megfizetésére nyitva álló határidő eredménytelen elteltétől az esedékes díj megfizetéséig terjedő időtartam,
 
-17. a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama.
+17. a hatósági megkereséstől annak teljesítéséig, de legfeljebb a teljesítésre előírt határidő lejártáig terjedő időtartam, a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama, és
+
+18. az eljáró versenytanács 73/A. § (1) bekezdése szerinti felhívásától az egyezségi nyilatkozat benyújtásáig, illetve – az egyezségi eljárás meghiúsulása esetén – az eljárás alá vontnak az eljáró versenytanács egyezségi eljárás befejezéséről szóló tájékoztatásáig terjedő időtartam.
 
 (9) Az ügyintézési határidőt a Gazdasági Versenyhivatal elnöke, illetve – a versenytanácsi eljárás szakaszában – a Versenytanács elnöke indokolt esetben annak letelte előtt
 

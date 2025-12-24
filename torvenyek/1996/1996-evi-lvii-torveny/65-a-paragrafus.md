@@ -22,7 +22,7 @@ a vizsgálat tárgyát képező jogsértéssel, a vizsgált összefonódással, 
 
 (5) A helyszíni kutatás a bírói engedély közlésétől számított három hónapon belül foganatosítható.
 
-(6) A versenyfelügyeleti eljárást legkésőbb a helyszíni kutatás megkezdésével egy időben meg kell indítani. A vizsgálatot elrendelő végzést a jelen lévő ügyféllel, ideértve az ügyfél jelen lévő alkalmazottját is, a helyszínen közölni kell, az egyéb ügyféllel – a döntés közlésének módjára vonatkozó általános szabályok szerinti közlés megkezdése mellett – telefonon vagy fax útján is közölni kell.
+(6) A versenyfelügyeleti eljárást legkésőbb a helyszíni kutatás megkezdésével egy időben meg kell indítani. A vizsgálatot elrendelő végzést a jelen lévő ügyféllel – ideértve az ügyfél jelen lévő alkalmazottját is – a helyszínen közölni kell, az egyéb ügyféllel a döntés közlésének módjára vonatkozó általános szabályok szerint kell közölni.
 
 (7) A helyszíni kutatásról az érintettet, ideértve az ügyfél helyszínen jelen lévő alkalmazottját, illetve – a magáncélú, illetve magánhasználatú ingatlan, jármű vagy adathordozó esetében – az érintett nagykorú hozzátartozóját is, a helyszíni kutatás megkezdésével egyidejűleg szóban kell értesíteni, és a vizsgálati cselekmény megkezdése előtt közölni kell az érintettel a helyszíni kutatást engedélyező bírói végzést és a vizsgálati cselekmény célját.
 

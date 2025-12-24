@@ -6,7 +6,7 @@ a) a Gazdasági Versenyhivatal hatáskörébe tartozó jogsértő magatartást v
 
 b) az eljáró versenytanács határozatában megtiltott összefonódást a tilalom ellenére végrehajtotta,
 
-c) nem teljesítette az összefonódásra vonatkozóan a határozatban előírt kötelezettséget, vagy az összefonódást az eljáró versenytanács határozatában előírt feltétel teljesülése nélkül végrehajtotta, illetve
+c) határidőben nem teljesítette az összefonódásra vonatkozóan a határozatban előírt kötelezettséget, vagy az összefonódást az eljáró versenytanács határozatában előírt feltétel teljesülése nélkül végrehajtotta, illetve
 
 d) az összefonódást a 29. § szerinti tilalom ellenére végrehajtotta, akkor is, ha az eljáró versenytanács határozatában azt állapította meg, hogy az összefonódás nem csökkenti jelentős mértékben a versenyt az érintett piacon.
 

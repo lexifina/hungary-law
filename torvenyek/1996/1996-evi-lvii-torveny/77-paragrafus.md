@@ -24,7 +24,7 @@ e) a 76/A. § szerinti kötelezettség teljesítését.
 
 a) az (1) bekezdés a) pontja szerinti esetben határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – a 31. § szerinti intézkedést alkalmazza, valamint bírságot szabhat ki,
 
-b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – a 31. § szerinti intézkedést alkalmazza, és bírságot szabhat ki,
+b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – megállapítja a kötelezettség nem teljesítését, továbbá a 31. § szerinti intézkedést alkalmazhatja, és bírságot szabhat ki,
 
 c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát
 

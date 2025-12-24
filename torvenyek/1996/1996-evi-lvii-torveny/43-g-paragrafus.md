@@ -12,7 +12,7 @@ b) a bejelentéssel kapcsolatos eljárásban a 48. § (2) bekezdését, az 55/B.
 
 c) a panasszal kapcsolatos eljárásban az 55/C. § (1) bekezdését.
 
-(3) A bejelentő kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel élt. A Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a panaszos a Gazdasági Versenyhivatalnál panasszal élt.
+(3) A bejelentő kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel élt. A Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a panaszos a Gazdasági Versenyhivatalnál panasszal élt. Ha a bejelentő vagy a panaszos nyilvánosságra hozza azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel vagy panasszal élt, a Gazdasági Versenyhivatalt nem terheli az e bekezdés szerinti titoktartás.
 
 (4) A bejelentéssel és a panasszal kapcsolatos eljárás irataiba kizárólag a bejelentő, illetve a panaszos tekinthet be a bejelentés tárgyában való döntéshozatalt, illetve a panasszal kapcsolatos eljárás lezárultát követően azzal, hogy korlátozottan megismerhető adat csak akkor ismerhető meg, ha az iratbetekintést kérő igazolja, hogy az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak.
 

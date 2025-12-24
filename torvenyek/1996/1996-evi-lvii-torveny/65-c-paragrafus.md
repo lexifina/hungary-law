@@ -8,7 +8,7 @@
 
 a) arról kutatási másolat készül,
 
-b) az eljárási cselekménynél kizárólag olyan érintett volt jelen, aki az iratok védekezés céljából készült iratkénti minősülésére vonatkozó nyilatkozat megtétele körében az ügyfél vagy az érintett ügyvéd képviseletére nem volt jogosult, illetve
+b) az eljárási cselekménynél kizárólag olyan személy volt jelen, aki az iratok védekezés céljából készült iratkénti minősülésére vonatkozó nyilatkozat megtételére nem volt jogosult, illetve
 
 c) a vizsgáló nem ért egyet az irat védekezés céljából készült iratként való minősítésére vonatkozó nyilatkozattal.
 
@@ -29,3 +29,5 @@ c) a vizsgáló nem ért egyet az irat védekezés céljából készült iratké
 (12) A (11) bekezdéstől eltérve, a köztes munkamásolaton szereplő iratok tekintetében, illetve akkor, ha az irat szétválasztása a bizonyító erő sérelme nélkül nem lehetséges, a bíróság végzésében meghatározza, hogy mely irat, illetve az irat mely része minősül védekezés céljából készült iratnak, a köztes munkamásolatot, illetve az iratot pedig zárt tárolóeszközben a Gazdasági Versenyhivatalnak adja ki.
 
 (13) A (12) bekezdés szerint a Gazdasági Versenyhivatalnak kiadott zárt tárolóeszközt felnyitni, az abban foglalt adatokat megvizsgálni csak a köztes munkamásolatról védekezés céljából készült iratot nem tartalmazó vizsgálati munkamásolat készítése, illetve az irat védekezés céljából készült iratnak nem minősülő részének megvizsgálása céljából, az érintett ügyfél jelenlétében lehet, és ezt követően az iratot az ügyfélnek ki kell adni, illetve a köztes munkamásolatot a másolatot tartalmazó adathordozó fizikai megsemmisítésével vagy az adatoknak a helyreállításukat lehetetlenné tévő eljárással való törlésével haladéktalanul meg kell semmisíteni. Az ügyfelet legalább három nappal megelőzően értesíteni kell az ilyen vizsgálati cselekmény időpontjáról, várható időtartamáról és helyéről. A szabályszerűen értesített ügyfél távolmaradása a vizsgálati cselekmény foganatosításának nem akadálya.
+
+(14) E § alkalmazásában ügyfélen vagy érintett ügyfélen a szemlével vagy helyszíni kutatással érintettet is érteni kell.
