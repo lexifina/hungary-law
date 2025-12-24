@@ -22,7 +22,7 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 
 (5) A rendelet 7. cikk (1) bekezdés a) pontja szerinti feladatot a miniszter látja el, aki gondoskodik továbbá a 7. cikk (1) bekezdés c) pontja szerinti tájékoztatás nyújtásáról.
 
-(6) A tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet (e §-ban a továbbiakban: 1393/2007/EK európai parlamenti és tanácsi rendelet) 4. cikk (2) bekezdése alapján az átvevő intézmény a kézbesítendő iratokat postai úton, telefaxon és elektronikusan fogadja. Az 1393/2007/EK európai parlamenti és tanácsi rendelet és a rendelet által rendszeresített formanyomtatványokat az áttevő vagy átvevő intézmény magyar, angol, német vagy francia nyelven fogadja.
+(6) A rendelet által rendszeresített formanyomtatványokat az áttevő vagy átvevő intézmény magyar, angol, német vagy francia nyelven fogadja.
 
 (7) Ha a Pp. 137. § (2) bekezdésében meghatározott kézbesítési fikció alkalmazásával került sor a kézbesítés eredményének megállapítására, az átvevő intézmény az áttevő intézményt arról értesíti, hogy a kézbesítés beálltát és annak időpontját e kézbesítési fikció alapján állapította meg, és azzal szemben a címzettet a Pp. 138. §-a szerinti kifogás illeti meg. Ha a bíróság a címzett kifogásának utóbb helyt ad, a külföldi áttevő intézményt egyidejűleg értesíti arról, hogy a kézbesítéshez fűződő jogkövetkezmények a magyar jog szerint hatálytalanok.
 

@@ -6,6 +6,6 @@
 
 (4) A rendelet 19. cikk (1) bekezdése és 20. cikk (2) bekezdése szerinti, más tagállam bíróságától érkező kérelmet a miniszter fogadja és bírálja el, ennek során a 80. § (5)–(9) bekezdésében foglaltakat alkalmazni kell.
 
-(5) A rendelet által rendszeresített formanyomtatványokat a bíróság postai úton, telefaxon vagy elektronikusan, magyar, angol vagy német nyelven fogadja.
+(5) A rendelet által rendszeresített formanyomtatványokat a bíróság magyar, angol vagy német nyelven fogadja.
 
 (6) Magyar bíróság az előtte folyamatban lévő eljárás céljára az Európai Unió tagállamában, Dánia kivételével, a rendelet 19. cikkében szabályozott módon kívül is foganatosíthat közvetlenül bizonyítási cselekményt. Ilyen esetben a bizonyításfelvétel általános szabályai irányadóak azzal, hogy kényszerítő intézkedések alkalmazásának nincs helye.
