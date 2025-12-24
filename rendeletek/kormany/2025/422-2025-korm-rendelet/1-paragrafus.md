@@ -1,0 +1,5 @@
+## [1] A Kormány kiemelt célja, hogy megvédje a nemzetgazdaság stabilitását, valamint a hazai vállalkozásokat és munkahelyeket.
+
+## [2] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. § A Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság „felszámolás alatt”, valamint a Magyar Vagon Dunakeszi Járműgyártó, Javító és Karbantartó Korlátolt Felelősségű Társaság „f.a.” és a Ganz-MaVag International Korlátolt Felelősségű Társaság „f.a.” mint a Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság „felszámolás alatt” kapcsolt vállalkozásai (a továbbiakban együtt: Ganz-MaVag Csoport) fizetésképtelensége miatt kárt szenvedett, KKV-nak minősülő vállalkozást (a továbbiakban: károsult) megillető ellenszolgáltatás méltányosságon alapuló, mielőbbi megtérítése érdekében a Magyar Állam rendkívüli állami kárrendezést (a továbbiakban: állami kárrendezés) nyújt az e rendeletben foglaltak szerint.
