@@ -376,6 +376,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 114. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+114a. Unióban működő önálló hitelintézet: olyan hitelintézet, amely nem tartozik az 575/2013/EU rendelet Első Rész II. cím 2. fejezet szerinti prudenciális konszolidáció hatálya alá az Európai Unióban, és amely nem rendelkezik ilyen prudenciális konszolidáció hatálya alá tartozó EU-szintű anyavállalattal;
+
 115. ügyvezető: a vállalkozás irányítási jogkörrel rendelkező vezető testülete által megválasztott, a vállalkozással munkaviszonyban álló elnöke, a vállalkozás vezetésére kinevezett, a vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;
 
 116. üzletszerű tevékenység: az ellenérték fejében nyereség, illetve vagyonszerzés végett – előre egyedileg meg nem határozott ügyletek megkötésére irányuló – rendszeresen folytatott gazdasági tevékenység;

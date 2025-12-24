@@ -20,13 +20,13 @@
 
 ## A 94. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
 
-## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
 
-## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
 
-## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
 
-## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
 
 ## A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
 
@@ -38,13 +38,13 @@
 
 ## A 96/A. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
 
-## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+## a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
 
-## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+## b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
 
-## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+## c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
 
-## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+## d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
 
 ## A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
 
@@ -77,11 +77,3 @@ h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU e
 i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
 
 j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek,
-
-k) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
-
-l) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről szóló 2015. november 25-i (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek,
-
-m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek,
-
-n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek

@@ -21,3 +21,5 @@ c) hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozás induló tőkéj�
 (7) A 275. § (6) bekezdése szerinti kivonaton az OBA tagintézet felhívja a betétes figyelmét a 6. § (2) bekezdés 6. pontjának 2021. január 1-jén hatályba lépő módosítására.
 
 (8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
+
+(9) Más EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepének a belföldi fizetési rendszerhez való csatlakozása érdekében a szolgáltatásra vonatkozó szerződéseit és általános szerződési feltételeit úgy módosíthatja, hogy a módosítás az ügyfél számára nem okoz a termékjellemzők alapján Magyarországon nyújtott, versengő, hasonló szolgáltatások átlagos piaci feltételeihez képest érdeksérelmet a szerződés teljesítése során.

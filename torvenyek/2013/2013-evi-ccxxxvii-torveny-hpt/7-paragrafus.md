@@ -38,11 +38,13 @@ o) elektronikuspénz-értékesítői tevékenységet,
 
 p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 
-q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
+q) az általa vagy a vele szoros kapcsolatban álló vállalkozás által üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást,
 
 r) hitelintézet esetén az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti, pénzügyi szolgáltatásnak, befektetési szolgáltatási tevékenységnek nem minősülő egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is
 
 s) kriptoeszköz-szolgáltatást
+
+t) a vele szerződéses kapcsolatban álló vállalkozás által üzletszerűen végzett szolgáltatások ügyfelek részére történő ajánlására irányuló tevékenységet, ideértve az ajánlott szolgáltatást elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
 
 végezhet.
 
