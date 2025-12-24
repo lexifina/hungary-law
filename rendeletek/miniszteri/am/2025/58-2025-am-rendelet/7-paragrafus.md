@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 17/2024. (IV. 9.) AM rendelet 21. § (6) bekezdése.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

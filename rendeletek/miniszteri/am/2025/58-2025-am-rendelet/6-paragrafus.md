@@ -1,7 +1,3 @@
-6. § A 17/2024. (IV. 9.) AM rendelet 44. §-ában
+6. §[^7]
 
-a) a „41/2025. (IX. 11.) AM rendelettel” szövegrész helyébe a „41/2025. (IX. 11.) AM rendelettel [a továbbiakban: 41/2025. (IX. 11.) AM rendelet]” szöveg,
-
-b) a „2025. évben benyújtott” szövegrész helyébe a „41/2025. (IX. 11.) AM rendelet hatálybalépésének napján folyamatban lévő,” szöveg,
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

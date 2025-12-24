@@ -24,20 +24,6 @@
 
 ## 1. A madárinfluenza elleni védekezés részletes szabályairól szóló 143/2007. (XII. 4.) FVM rendelet módosítása
 
-1. § A madárinfluenza elleni védekezés részletes szabályairól szóló 143/2007. (XII. 4.) FVM rendelet 3/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-„(1) Kereskedelmi célú baromfitartó gazdaság
-
-a) a legalább 100 ezer darab brojler baromfit tartó állattartó teleptől,
-
-b) a legalább 35 000 jércét vagy tojótyúkot tartó állattartó teleptől,
-
-c) a legalább 40 000 előnevelt pulykát vagy 10 000 hízópulykát tartó állattartó teleptől,
-
-d) a legalább 50 ezer darab víziszárnyast tartó állattartó teleptől és
-
-e) az állattenyésztés részletes szabályairól szóló 45/2019. (IX. 25.) AM rendelet 2. § (1) bekezdés 20. pontja szerinti termelőteleptől
-
-10 kilométeres távolságon belül (a továbbiakban: védőtávolság) nem létesíthető.
-
-(2) Az (1) bekezdéstől eltérően kereskedelmi célú baromfitartó gazdaság a védőtávolságon belül létesíthető, ha az (1) bekezdés szerinti tartási helyen tartott állatok tartója – egy esetleges járványkitörés esetén a kereskedelmi célú baromfitartó gazdaság létesítésére figyelemmel felmerülő, az állatállománya kórokozóval történő fertőződése kockázatának mérlegelése alapján – egy hónapnál nem régebbi nyilatkozatában erre vonatkozó hozzájárulását megadta.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
