@@ -56,7 +56,7 @@ ic) amely a magyar jog vagy az Európai Unió más tagállamának joga alapján 
 
 j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, a rendszerüzemeltető, valamint a 648/2012/EU rendelet 17. cikke alapján engedéllyel rendelkező központi szerződő fél klíringtagja;
 
-k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
+k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg pénzügyi eszközt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 
 l) teljesítés: a rendszer résztvevői közötti tartozások és követelések kiegyenlítése a teljesítési számlákon;
 
