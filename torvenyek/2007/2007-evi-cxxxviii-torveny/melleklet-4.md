@@ -45,5 +45,3 @@ d) a befektetési vállalkozás tájékoztatja a Felügyeletet a közgyűlés el
 a) a magasabb alapjavadalmazás-teljesítményjavadalmazás arány szükségességének indoklását,
 
 b) a javasolt maximális arányt,
-
-c) az érintett vezető állású személyek és munkavállalók számára, beosztására vonatkozó adatokat, valamint

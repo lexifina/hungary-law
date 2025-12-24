@@ -12,13 +12,13 @@ d) a 22–24. §-ban meghatározott személyi körben bekövetkezett változást
 
 e) a közvetítővel kötött szerződés megszűnését,
 
-f) fióktelepének, képviseletének helyét, megnyitását és megszűnését,
+f)
 
 g) a közgyűlésének összehívását a napirend közlésével, valamint a közgyűlés által hozott határozatokat, az utóbbiak lényeges tartalmának összefoglalásával,
 
 h) az ügyfélfogadás szüneteltetésének tervét,
 
-i) a cégjegyzékben nyilvántartott adatainak változását,
+i)
 
 j) ha vele szemben törvényességi felügyeleti eljárás indult,
 

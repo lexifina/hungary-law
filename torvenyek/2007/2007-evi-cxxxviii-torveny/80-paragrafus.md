@@ -20,4 +20,4 @@ d) a kiszervezett tevékenységet végző személy vagy szervezet felügyeleti h
 
 e) a kiszervezett tevékenység végzésének feltételeiben bekövetkezett változás befektetési vállalkozás felé történő jelentésének módjáról.
 
-(4) A befektetési vállalkozás az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő öt napon belül megküldi a Felügyeletnek.
+(4) A befektetési vállalkozás az (1) bekezdés szerinti, kiszervezésről szóló megállapodást a megkötését követő öt munkanapon belül megküldi a Felügyeletnek.

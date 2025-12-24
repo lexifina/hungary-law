@@ -18,7 +18,7 @@
 
 (7) A befektetési vállalkozás olyan ügyfél részére, akit előzőleg nem tájékoztatott a telefonon történő üzenetváltások és beszélgetések rögzítéséről, nem végezhet telefonon keresztül befektetési szolgáltatási tevékenységet és nem nyújthat telefonon keresztül kiegészítő szolgáltatást, amennyiben a befektetési szolgáltatási tevékenységek vagy kiegészítő szolgáltatások ügyfélmegbízások fogadásához, továbbításához vagy végrehajtásához kapcsolódnak.
 
-(8) Az ügyfél egyéb úton is adhat megbízást, e közlésnek azonban tartós adathordozón rögzített formában, azaz pl. levélben, faxon vagy e-mailben kell történnie, vagy a személyes találkozókon elhangzott megbízások esetében azt dokumentálni kell. Így az ügyféllel folytatott releváns személyes beszélgetések tartalma írásos jegyzőkönyvek vagy feljegyzések formájában rögzíthető. Az így közölt megbízások a telefonon közölt megbízásokkal egyenértékűnek minősülnek.
+(8) Az ügyfél egyéb úton is adhat megbízást, e közlésnek azonban tartós adathordozón rögzített formában, azaz pl. levélben vagy e-mailben kell történnie, vagy a személyes találkozókon elhangzott megbízások esetében azt dokumentálni kell. Így az ügyféllel folytatott releváns személyes beszélgetések tartalma írásos jegyzőkönyvek vagy feljegyzések formájában rögzíthető. Az így közölt megbízások a telefonon közölt megbízásokkal egyenértékűnek minősülnek.
 
 (9) A befektetési vállalkozás megtesz minden észszerű lépést annak elkerülésére, hogy alkalmazottai vagy közvetítői a releváns telefonbeszélgetéseket és elektronikus üzenetváltásokat olyan, magántulajdonban lévő berendezéseken keresztül bonyolítsák le, amelyekről a befektetési vállalkozás az általuk közvetített tartalmat nem tudja rögzíteni vagy lemásolni.
 
