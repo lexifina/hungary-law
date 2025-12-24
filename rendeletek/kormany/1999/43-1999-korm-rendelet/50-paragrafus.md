@@ -1,3 +1,3 @@
-50. §[^547]
+50. §[^550]
 
-[^547]: Az 50. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^550]: Az 50. §-t a 697/2020. (XII. 29.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.

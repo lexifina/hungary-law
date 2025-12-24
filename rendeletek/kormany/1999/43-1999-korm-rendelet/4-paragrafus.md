@@ -44,6 +44,8 @@
 
 (18)[^42] Az ellátott által megfizetendő térítési díjra vonatkozóan „S” térítési kategóriában az ellátás nem jelenthető finanszírozásra.
 
+(19)[^43] A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 46. § (2) bekezdése szerinti személyek által igénybe vett ellátásoknak a miniszteri rendeletben meghatározott összeg alatti – az ellátást igénybe vevő személyre kiszámlázott és az Ebtv. 68/C. §-a szerinti követelésérvényesítés során befolyt – összegeket az egészségbiztosító a jóváírás banki napját követő 20 munkanapon belül átutalja az igényérvényesítési kérelmet benyújtó egészségügyi szolgáltató bankszámlájára.
+
 [^22]: A 3. § a 364/2014. (XII. 30.) Korm. rendelet 23. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
 [^23]: A 4. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^24]: A 4. § (4) bekezdését a 21/2000. (III. 3.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, szövege a 29/2001. (III. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
@@ -65,3 +67,4 @@
 [^40]: A 4. § (16) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
 [^41]: A 4. § (17) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
 [^42]: A 4. § (18) bekezdését a 277/2021. V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^43]: A 4. § (19) bekezdését a 418/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

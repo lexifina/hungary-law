@@ -1,8 +1,8 @@
-45. §[^526] (1)[^527] Az 5. számú melléklet szerinti Extrafinanszírozás előirányzat terhére az előre nem tervezhető, rendkívüli, egyedi aktív fekvőbeteg-szakellátások a NEAK főigazgatójának döntése alapján akkor finanszírozhatóak, ha az ellátás közvetlen költsége az R. 3. számú mellékletében foglalt homogén betegségcsoportokhoz rendelt súlyszám alapján meghatározott díjtétel közvetlen költségének ötszörösét meghaladja.
+45. §[^529] (1)[^530] Az 5. számú melléklet szerinti Extrafinanszírozás előirányzat terhére az előre nem tervezhető, rendkívüli, egyedi aktív fekvőbeteg-szakellátások a NEAK főigazgatójának döntése alapján akkor finanszírozhatóak, ha az ellátás közvetlen költsége az R. 3. számú mellékletében foglalt homogén betegségcsoportokhoz rendelt súlyszám alapján meghatározott díjtétel közvetlen költségének ötszörösét meghaladja.
 
-(1a)[^528] Az R. 8. melléklet szerinti ellátások az Extrafinanszírozás előirányzat terhére nem finanszírozhatók.
+(1a)[^531] Az R. 8. melléklet szerinti ellátások az Extrafinanszírozás előirányzat terhére nem finanszírozhatók.
 
-(2)[^529] Az (1) bekezdés szerinti igény elbírálása során az ellátás közvetlen költsége a következő elemek figyelembevételével kerül megállapításra:
+(2)[^532] Az (1) bekezdés szerinti igény elbírálása során az ellátás közvetlen költsége a következő elemek figyelembevételével kerül megállapításra:
 
 a) közvetlen gyógyszerköltség,
 
@@ -10,10 +10,10 @@ b) vér, vérkészítmények költsége,
 
 c) diagnosztikai és terápiás szolgáltatások költsége.
 
-(3)[^530] Az ellátásra szakmailag alkalmas egészségügyi szolgáltató az extrafinanszírozási igénybejelentést az adott ellátás befejezését követő 60 napon belül nyújthatja be. Az igénybejelentésben szereplő finanszírozási eset teljesítmény-elszámolását követően a NEAK továbbítja a szolgáltató részére a ráfordításgyűjtéshez szükséges állományokat, amely után a szolgáltatónak 30 nap áll rendelkezésére a ráfordításgyűjtés megküldésére.
+(3)[^533] Az ellátásra szakmailag alkalmas egészségügyi szolgáltató az extrafinanszírozási igénybejelentést az adott ellátás befejezését követő 60 napon belül nyújthatja be. Az igénybejelentésben szereplő finanszírozási eset teljesítmény-elszámolását követően a NEAK továbbítja a szolgáltató részére a ráfordításgyűjtéshez szükséges állományokat, amely után a szolgáltatónak 30 nap áll rendelkezésére a ráfordításgyűjtés megküldésére.
 
-[^526]: A 45. § a 87/2018. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^527]: A 45. § (1) bekezdése a 697/2020. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^528]: A 45. § (1a) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
-[^529]: A 45. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^530]: A 45. § (3) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^529]: A 45. § a 87/2018. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^530]: A 45. § (1) bekezdése a 697/2020. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^531]: A 45. § (1a) bekezdését a 697/2020. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^532]: A 45. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^533]: A 45. § (3) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
