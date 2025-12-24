@@ -1,0 +1,1 @@
+2/B. § Ha a 2. § a) pont aa) alpontjára figyelemmel a gazdaságátadási szerződésben több gazdaságátadó szerepel, a 2. § b) pont bb) alpontja szerinti követelménynek a gazdaságátadóknak együttesen kell megfelelniük.
