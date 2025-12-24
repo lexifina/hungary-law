@@ -1,3 +1,3 @@
-70. §[^248]
+70. §[^250]
 
-[^248]: A 70. §-t a 481/2016. (XII. 28.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^250]: A 70. §-t a 481/2016. (XII. 28.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.

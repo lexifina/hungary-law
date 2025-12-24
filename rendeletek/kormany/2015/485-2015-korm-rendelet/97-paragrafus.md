@@ -1,3 +1,3 @@
-97. §[^313]
+97. §[^315]
 
-[^313]: A 97. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § n) pontja hatályon kívül helyezte.
+[^315]: A 97. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § n) pontja hatályon kívül helyezte.

@@ -16,7 +16,7 @@ d) a regionális vám- és pénzügyőri főigazgatóságnál
 
 mint elsőfokú hatóságnál folyamatban lévő eljárásokat az e rendelet szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságok folytatják le azzal, hogy a vám- és pénzügyőri főigazgató kijelölése alapján a megyei vám- és pénzügyőri igazgatóság illetékességi területén kívül végzett, folyamatban lévő EMGA utólagos ellenőrzéseket a kijelölt megyei vám- és pénzügyőri igazgatóság székhelye szerinti megyei igazgatóság folytatja le.
 
-(2a)[^306] A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet módosításáról szóló 85/2016. (IV. 13.) Korm. rendelet hatálybalépésekor[^307] folyamatban lévő (2) bekezdés szerinti eljárásokat a (2) bekezdés a)–d) pontja szerinti szerv székhelye szerinti megyei igazgatóságok folytatják le azzal, hogy a vám- és pénzügyőri főigazgató kijelölése alapján a megyei vám- és pénzügyőri igazgatóság illetékességi területén kívül végzett, folyamatban lévő EMGA utólagos ellenőrzéseket a kijelölt megyei vám- és pénzügyőri igazgatóság székhelye szerinti megyei igazgatóság folytatja le.
+(2a)[^308] A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet módosításáról szóló 85/2016. (IV. 13.) Korm. rendelet hatálybalépésekor[^309] folyamatban lévő (2) bekezdés szerinti eljárásokat a (2) bekezdés a)–d) pontja szerinti szerv székhelye szerinti megyei igazgatóságok folytatják le azzal, hogy a vám- és pénzügyőri főigazgató kijelölése alapján a megyei vám- és pénzügyőri igazgatóság illetékességi területén kívül végzett, folyamatban lévő EMGA utólagos ellenőrzéseket a kijelölt megyei vám- és pénzügyőri igazgatóság székhelye szerinti megyei igazgatóság folytatja le.
 
 (3) Az e rendelet hatálybalépésekor
 
@@ -44,9 +44,9 @@ a) – ha a pénzügyőr az (1)–(4) bekezdés szerinti szerv állományába ta
 
 b) – ha a pénzügyőr a Bevetési Főigazgatóság állományába tartozik –, a Bevetési Igazgatóság.
 
-(6)[^308] Az e rendelet hatálybalépésekor még el nem bírált, a Bűnügyi Főigazgatóság által folytatott büntetőeljárás során közigazgatási hatósági eljárásban elbírált panasszal kapcsolatos fellebbezést, valamint a Bűnügyi Főigazgatóság főigazgatója kizárására vonatkozó indítványt haladéktalanul meg kell küldeni elbírálásra a bűnmegelőzési és bűnüldözési feladatok ellátásáért felelős szakmai helyettes részére.
+(6)[^310] Az e rendelet hatálybalépésekor még el nem bírált, a Bűnügyi Főigazgatóság által folytatott büntetőeljárás során közigazgatási hatósági eljárásban elbírált panasszal kapcsolatos fellebbezést, valamint a Bűnügyi Főigazgatóság főigazgatója kizárására vonatkozó indítványt haladéktalanul meg kell küldeni elbírálásra a bűnmegelőzési és bűnüldözési feladatok ellátásáért felelős szakmai helyettes részére.
 
-(7)[^309] Az e rendelet hatálybalépését megelőzően a NAV bűnügyi elnökhelyetteséhez megküldött, ügyészi utasítás elleni felterjesztés felettes ügyészhez történő továbbításáról a bűnmegelőzési és bűnüldözési feladatok ellátásáért felelős szakmai helyettes dönt.
+(7)[^311] Az e rendelet hatálybalépését megelőzően a NAV bűnügyi elnökhelyetteséhez megküldött, ügyészi utasítás elleni felterjesztés felettes ügyészhez történő továbbításáról a bűnmegelőzési és bűnüldözési feladatok ellátásáért felelős szakmai helyettes dönt.
 
 (8) Az e rendelet hatálybalépésekor
 
@@ -76,7 +76,7 @@ folyamatban lévő közigazgatási peres eljárásokban a perbeli képviseletet 
 
 (11) E rendelet hatálybalépését követően azokban az ügyekben, amelyekben az elsőfokú eljárást a Kiemelt Ügyek és Adózók Adóigazgatósága központosított ellenőrzés keretében folytatott le, a bíróság az adóhatóságot új eljárásra utasítja, az új eljárást az adózó tekintetében illetékes megyei igazgatóság folytatja le, kivéve, ha az alapeljárást a (3) bekezdés a) pontjában hivatkozott szerv folytatta le.
 
-[^306]: A 95. § (2a) bekezdését a 85/2016. (IV. 13.) Korm. rendelet 2. §-a iktatta be.
-[^307]: A hatálybalépés időpontja 2016. április 14.
-[^308]: A 95. § (6) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
-[^309]: A 95. § (7) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^308]: A 95. § (2a) bekezdését a 85/2016. (IV. 13.) Korm. rendelet 2. §-a iktatta be.
+[^309]: A hatálybalépés időpontja 2016. április 14.
+[^310]: A 95. § (6) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^311]: A 95. § (7) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
