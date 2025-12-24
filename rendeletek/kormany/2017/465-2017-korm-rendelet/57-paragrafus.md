@@ -1,5 +1,5 @@
 ## 24. Az EFER igénybevételével történő elektronikus fizetés
 
-57. §[^66] Az EFER-en keresztül történő elektronikus fizetés során a 322/2024. (XI. 6.) Korm. rendelet szabályait az e rendeletben foglalt eltérésekkel kell alkalmazni.
+57. §[^68] Az EFER-en keresztül történő elektronikus fizetés során a 322/2024. (XI. 6.) Korm. rendelet szabályait az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^66]: Az 57. § a 462/2024. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^68]: Az 57. § a 462/2024. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.

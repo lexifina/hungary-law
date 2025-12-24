@@ -1,6 +1,6 @@
 ## 9. Bizonylat és igazolás kiállítása kifizetésről
 
-23. § (1)[^33] A kifizető és a munkáltató olyan bizonylatot köteles kiállítani és a kifizetéskor átadni, amelyből kitűnik a természetes személynek a kifizetőtől, illetve a munkáltatótól származó bevételének teljes összege és jogcíme, az adóelőleg, az adó és a járulék, a természetes személyt terhelő szociális hozzájárulási adó alapja és összege, valamint a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (1)–(3) bekezdése szerinti jövedelme összege. A munkáltató a kifizetést követően a kiadott bizonylaton feltünteti az adóelőleg megállapításakor figyelembe vett családi kedvezmény összegét. E rendelkezést kell alkalmazni az adóköteles társadalombiztosítási ellátást teljesítő társadalombiztosítási kifizetőhelyre is. A munkáltató, a kifizető és az adóköteles társadalombiztosítási ellátást teljesítő társadalombiztosítási kifizetőhely a természetes személynek – a vállalkozó részére e minőségében teljesített kifizetések kivételével – az előzőekben említettekről, továbbá a kifizetéskor figyelembe vett bevételcsökkentő tételekről, valamint az adót, adóelőleget csökkentő tételekről az elszámolási évet követő év január 31-éig összesített igazolást ad.
+23. § (1)[^35] A kifizető és a munkáltató olyan bizonylatot köteles kiállítani és a kifizetéskor átadni, amelyből kitűnik a természetes személynek a kifizetőtől, illetve a munkáltatótól származó bevételének teljes összege és jogcíme, az adóelőleg, az adó és a járulék, a természetes személyt terhelő szociális hozzájárulási adó alapja és összege, valamint a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (1)–(3) bekezdése szerinti jövedelme összege. A munkáltató a kifizetést követően a kiadott bizonylaton feltünteti az adóelőleg megállapításakor figyelembe vett családi kedvezmény összegét. E rendelkezést kell alkalmazni az adóköteles társadalombiztosítási ellátást teljesítő társadalombiztosítási kifizetőhelyre is. A munkáltató, a kifizető és az adóköteles társadalombiztosítási ellátást teljesítő társadalombiztosítási kifizetőhely a természetes személynek – a vállalkozó részére e minőségében teljesített kifizetések kivételével – az előzőekben említettekről, továbbá a kifizetéskor figyelembe vett bevételcsökkentő tételekről, valamint az adót, adóelőleget csökkentő tételekről az elszámolási évet követő év január 31-éig összesített igazolást ad.
 
 (2) A természetes személy adózó a vele együtt élő házastársát, élettársát megillető, de az említettek általa igénybe nem vehető családi kedvezményt
 
@@ -14,7 +14,7 @@ veheti igénybe.
 
 (4) Az olyan igazolást, amelynek alapján az adózó a bevételét, az adóalapját vagy az adóját csökkentheti, a kedvezményre való jogosultság keletkezésének időpontjában, de legkésőbb az adóévet követő év február hónap 15. napjáig kell kiadni.
 
-(5)[^34] Ha a természetes személy munkaviszonya év közben megszűnik, a munkáltató a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 36/A. § (2) bekezdése szerinti foglalkoztatási igazolást állít ki. Az igazolásnak tartalmaznia kell az adóéven belüli előző munkáltató, munkáltatók által közölt adatokat is.
+(5)[^36] Ha a természetes személy munkaviszonya év közben megszűnik, a munkáltató a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 36/A. § (2) bekezdése szerinti foglalkoztatási igazolást állít ki. Az igazolásnak tartalmaznia kell az adóéven belüli előző munkáltató, munkáltatók által közölt adatokat is.
 
 (6) Az igazolást az (5) bekezdés szerint kell kiadni a természetes személy nyugdíjazása vagy halála esetén is. A természetes személy halála esetén az igazolást a vele közös háztartásban élt hozzátartozója, ennek hiányában örököse részére kell kiadni.
 
@@ -24,5 +24,5 @@ veheti igénybe.
 
 (9) A kifizető olyan bizonylatot (igazolást) állít ki az osztalékban részesülő személy részére, amely tartalmazza a kifizető és a bevételt, jövedelmet szerző nevét (elnevezését), adóazonosító számát, székhelyét (telephelyét), lakóhelyét, a kifizetés jogcímét, az osztalék kifizetésének évét, a bizonylat (igazolás) kiállításának időpontját, az adó alapját és a megállapított adó összegét. Osztalékelőleg fizetése esetén, illetve ha az osztalékadót a kifizető nem vonta le, adó-visszatérítésre jogosító igazolás nem állítható ki.
 
-[^33]: A 23. § (1) bekezdése a 611/2023. (XII. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^34]: A 23. § (5) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^35]: A 23. § (1) bekezdése a 611/2023. (XII. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^36]: A 23. § (5) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.

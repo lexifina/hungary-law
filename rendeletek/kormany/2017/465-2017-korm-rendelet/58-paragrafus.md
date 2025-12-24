@@ -1,16 +1,16 @@
 58. § (1) Az adózó az állami adó- és vámhatóságnál fennálló fizetési kötelezettségét – ide nem értve a végrehajtói letéti számlára történő fizetést – EFER-en keresztül átutalással is teljesítheti az EFER-hez csatlakozott pénzforgalmi szolgáltató házibank felületén keresztül.
 
-(2)[^67] A természetes személy adózó az állami adó- és vámhatóságnál fennálló fizetési kötelezettségét – ide nem értve a végrehajtói letéti számlára történő fizetést – EFER-en keresztül POS terminál útján vagy internetes felületen (VPOS) történő bankkártyás fizetéssel is teljesítheti.
+(2)[^69] A természetes személy adózó az állami adó- és vámhatóságnál fennálló fizetési kötelezettségét – ide nem értve a végrehajtói letéti számlára történő fizetést – EFER-en keresztül POS terminál útján vagy internetes felületen (VPOS) történő bankkártyás fizetéssel is teljesítheti.
 
-(3)[^68]
+(3)[^70]
 
-(4)[^69] A nem természetes személy adózó:
+(4)[^71] A nem természetes személy adózó:
 
 a) az eljárási illeték,
 
 b) az állami adó- és vámhatóságnál kezdeményezett eljárásokért fizetendő igazgatási szolgáltatási díj,
 
-c) az adórendszeren kívüli keresettel járó foglalkoztatáshoz kapcsolódó regisztrációs díj,
+c)[^72]
 
 d) az egyszerűsített foglalkoztatáshoz kapcsolódó közteher-,
 
@@ -20,13 +20,14 @@ f) tételes elszámolású
 
 fizetési kötelezettségét EFER-en keresztül POS terminál útján vagy internetes felületen (VPOS) történő bankkártyás fizetéssel is teljesítheti.
 
-(4a)[^70] A (4) bekezdés e)–f) pontja szerinti esetben az adózó fizetési kötelezettségét a határozat (iktató)számának megjelölésével teljesíti.
+(4a)[^73] A (4) bekezdés e)–f) pontja szerinti esetben az adózó fizetési kötelezettségét a határozat (iktató)számának megjelölésével teljesíti.
 
 (5) Az adózó – ha végrehajtási eljárás alatt áll – a végrehajtói letéti számlára történő befizetés vonatkozásában az állami adó- és vámhatóság felé fennálló fizetési kötelezettségét EFER-en keresztül POS terminál útján történő bankkártyás fizetéssel is teljesítheti.
 
 (6) Az általános forgalmi adóról szóló törvény szerinti csoportos adóalanyiság esetén a bankkártyával bonyolított fizetési műveletet a csoportképviselőn kívül a csoport bármely más tagja is teljesítheti.
 
-[^67]: Az 58. § (2) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 7. pontja szerint módosított szöveg.
-[^68]: Az 58. § (3) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte.
-[^69]: Az 58. § (4) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^70]: Az 58. § (4a) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^69]: Az 58. § (2) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 7. pontja szerint módosított szöveg.
+[^70]: Az 58. § (3) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte.
+[^71]: Az 58. § (4) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^72]: Az 58. § (4) bekezdés c) pontját a 417/2025. (XII. 23.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^73]: Az 58. § (4a) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 31. § (2) bekezdése iktatta be.

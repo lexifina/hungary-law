@@ -1,6 +1,6 @@
-## 10/A. [^41] A munkáltatói/kifizetői havi járulék adatszolgáltatáson alapuló elektronikus keresetkimutatás
+## 10/A. [^43] A munkáltatói/kifizetői havi járulék adatszolgáltatáson alapuló elektronikus keresetkimutatás
 
-24/A. §[^42] Az állami adó- és vámhatóság az adózó számára elérhetővé teszi, illetve a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény szerinti központi hitelinformációs rendszert kezelő pénzügyi vállalkozáson keresztül az Art. 131. § (24) bekezdése szerinti címzetteknek megküldi a következő adatokat tartalmazó keresetkimutatást, valamint a keresetkimutatás előállításának időpontját:
+24/A. §[^44] Az állami adó- és vámhatóság az adózó számára elérhetővé teszi, illetve a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény szerinti központi hitelinformációs rendszert kezelő pénzügyi vállalkozáson keresztül az Art. 131. § (24) bekezdése szerinti címzetteknek megküldi a következő adatokat tartalmazó keresetkimutatást, valamint a keresetkimutatás előállításának időpontját:
 
 a) a természetes személy neve és adóazonosító jele;
 
@@ -26,8 +26,8 @@ k) a gyermekgondozási díj (GYED) összege;
 
 l) a gyermekgondozást segítő ellátás (GYES) összege;
 
-m)[^43] a gyermeknevelési támogatás (GYET), a gyermekek otthongondozási díja (GYOD), az ápolási díj, munkarehabilitációs díj, fejlesztési foglalkoztatási díj, rendvédelmi egészségkárosodási járadék, honvédelmi egészségkárosodási járadék, rendvédelmi egészségkárosodási keresetkiegészítés, nemzetbiztonsági egészségkárosodási ellátás, honvédelmi egészségkárosodási keresetkiegészítés folyósításának, valamit az álláskeresési támogatás összege összesítve.
+m)[^45] a gyermeknevelési támogatás (GYET), a gyermekek otthongondozási díja (GYOD), az ápolási díj, munkarehabilitációs díj, fejlesztési foglalkoztatási díj, rendvédelmi egészségkárosodási járadék, honvédelmi egészségkárosodási járadék, rendvédelmi egészségkárosodási keresetkiegészítés, nemzetbiztonsági egészségkárosodási ellátás, honvédelmi egészségkárosodási keresetkiegészítés folyósításának, valamit az álláskeresési támogatás összege összesítve.
 
-[^41]: A 10/A. alcímet (24/A. §) a 260/2019. (XI. 7.) Korm. rendelet 6. §-a iktatta be.
-[^42]: A 24/A. § a 611/2023. (XII. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^43]: A 24/A. § m) pontja a 24/2025. (II. 27.) Korm. rendelet 72. §-a szerint módosított szöveg.
+[^43]: A 10/A. alcímet (24/A. §) a 260/2019. (XI. 7.) Korm. rendelet 6. §-a iktatta be.
+[^44]: A 24/A. § a 611/2023. (XII. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^45]: A 24/A. § m) pontja a 24/2025. (II. 27.) Korm. rendelet 72. §-a szerint módosított szöveg.

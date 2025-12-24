@@ -1,4 +1,4 @@
-## 2/A. [^17] A csoportos társasági adóalany létrehozására irányuló kérelem
+## 2/A. [^19] A csoportos társasági adóalany létrehozására irányuló kérelem
 
 15/B. § (1) A csoportos társasági adóalany létrehozására és a csoportos társasági adóalanyhoz történő csatlakozás engedélyezésére irányuló kérelem tartalmazza:
 
@@ -14,4 +14,4 @@ bc) a nyilvántartási rendszer bemutatását, amely alkalmas a Tao. tv. 5. § (
 
 (2) A csoportos társasági adóalanyhoz történő csatlakozás, illetve a csoportos társasági adóalanyból való kilépés engedélyezésére irányuló kérelemnek tartalmaznia kell a csoportos társasági adóalanyiságban részt vevő valamennyi többi tag közös, kifejezett és egybehangzó hozzájárulását a tag csatlakozásához, illetve kilépéséhez.
 
-[^17]: A 2/A. alcímet (15/B–15/C. §-t) a 311/2018. (XII. 27.) Korm. rendelet 25. §-a iktatta be.
+[^19]: A 2/A. alcímet (15/B–15/C. §-t) a 311/2018. (XII. 27.) Korm. rendelet 25. §-a iktatta be.

@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-465-20-
 | 2025-04-18 | 2017-465-20-22.24 | 78/2025. (IV. 17.) Korm. rendelet |
 | 2025-07-01 | 2017-465-20-22.25 | 78/2025. (IV. 17.) Korm. rendelet |
 | 2025-08-01 | 2017-465-20-22.26 | 311/2018. (XII. 27.) Korm. rendelet |
+| 2025-12-24 | 2017-465-20-22.28 | 417/2025. (XII. 23.) Korm. rendelet |

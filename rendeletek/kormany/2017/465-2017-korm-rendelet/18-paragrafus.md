@@ -18,9 +18,9 @@ b) nem ért egyet, a (2) bekezdésben foglaltak szerint kell eljárni.
 
 (7) Az adó megállapításához való jog elévülési idején belül az adózó is kezdeményezheti az adóbevallás kijavítását, ha a bevallás – adó, adóalap, költségvetési támogatás összegét nem érintő – hibáját észleli.
 
-(8)[^25]
+(8)[^27]
 
-(9)[^26]
+(9)[^28]
 
-[^25]: A 18. § (8) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 37. § 1. pontja hatályon kívül helyezte.
-[^26]: A 18. § (9) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 37. § 1. pontja hatályon kívül helyezte.
+[^27]: A 18. § (8) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 37. § 1. pontja hatályon kívül helyezte.
+[^28]: A 18. § (9) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 37. § 1. pontja hatályon kívül helyezte.
