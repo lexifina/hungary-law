@@ -1,4 +1,4 @@
-10. §[^27] Az 1. mellékletben foglalt 2. Egészségügyi ügyek táblázat 2. sorának 2022. január 30-án hatályos szövegét 2025. január 30-ig alkalmazni kell azon klinikai vizsgálatokra, amelyek engedélyezése iránt a kérelmet
+10. §[^28] Az 1. mellékletben foglalt 2. Egészségügyi ügyek táblázat 2. sorának 2022. január 30-án hatályos szövegét 2025. január 30-ig alkalmazni kell azon klinikai vizsgálatokra, amelyek engedélyezése iránt a kérelmet
 
 a) 2022. január 31-ét megelőzően, vagy
 
@@ -6,4 +6,4 @@ b) 2023. január 30-ig az emberen végzett orvostudományi kutatások, az emberi
 
 nyújtották be.
 
-[^27]: A 10. §-t a 724/2021. (XII. 20.) Korm. rendelet 14. §-a iktatta be.
+[^28]: A 10. §-t a 724/2021. (XII. 20.) Korm. rendelet 14. §-a iktatta be.

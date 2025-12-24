@@ -1,0 +1,3 @@
+1/H. §[^17] A Kormány az Otthon Start program keretében biztosított FIX 3%-os hitelprogram feltételeit teljesítő lakások építésére irányuló építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 335/2025. (X. 30.) Korm. rendelet (a továbbiakban: R4.) 2. mellékletében foglalt táblázat 12. sora szerinti beruházással összefüggő és az R4. 1. melléklet 3., 4. és 22. pontja, valamint az 1. melléklet 9. pontjában foglalt táblázat 20. sora szerinti közigazgatási hatósági eljárásban kizárólagos szakhatóságként a Budapest Főváros Kormányhivatalát jelöli ki.
+
+[^17]: Az 1/H. §-t a 428/2025. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
