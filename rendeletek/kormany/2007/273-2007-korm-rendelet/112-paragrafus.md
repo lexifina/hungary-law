@@ -1,3 +1,3 @@
-112. §[^502]
+112. §[^503]
 
-[^502]: A Vhr. 112. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.
+[^503]: A Vhr. 112. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.

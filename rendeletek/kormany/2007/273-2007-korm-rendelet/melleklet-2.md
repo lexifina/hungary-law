@@ -1,6 +1,6 @@
 ## 1. Az Egyetemes Szolgáltatási Szabályzat az egyetemes szolgáltatásra jogosult felhasználó (e melléklet alkalmazásában a továbbiakban: felhasználó) és a részére szolgáltatást nyújtó egyetemes szolgáltató közötti jogviszony részletes szabályait, valamint az egyetemes szolgáltató és a felhasználó közötti villamosenergia-vásárlási szerződés kötelező tartalmi elemeit és formai követelményeit tartalmazza.
 
-## 2.[^582] Egyetemes szolgáltatás igénybevétele, villamosenergia-vásárlási szerződés
+## 2.[^584] Egyetemes szolgáltatás igénybevétele, villamosenergia-vásárlási szerződés
 
 ## 2.1. Az egyetemes szolgáltató üzletszabályzata közzétételével – szerződéskötési kötelezettségére figyelemmel – saját ajánlati kötöttségét is meghatározza.
 
@@ -14,19 +14,19 @@
 
 ## 2.6. Eltérő megállapodás hiányában minden felhasználási helyre külön villamosenergia-vásárlási szerződést kell kötni.
 
-## 2.7.[^583] Ha a felhasználó egyetemes szolgáltatóval fennálló szerződése a 7.5. vagy a 7.8. alpontban foglaltak alapján szűnt meg, az egyetemes szolgáltató a felhasználó egyetemes szolgáltatásra való jogosultság feltételei fennállásának bizonyításáig a szerződéskötést megtagadja.
+## 2.7.[^585] Ha a felhasználó egyetemes szolgáltatóval fennálló szerződése a 7.5. vagy a 7.8. alpontban foglaltak alapján szűnt meg, az egyetemes szolgáltató a felhasználó egyetemes szolgáltatásra való jogosultság feltételei fennállásának bizonyításáig a szerződéskötést megtagadja.
 
-## 3.[^584]
+## 3.[^586]
 
 ## 4. Elszámolás
 
 ## 4.1. A villamos energia árváltozása esetén, amennyiben az árváltozás időpontjára a fogyasztásmérő-berendezés leolvasása vagy adatrögzítés nem történik, az egyetemes szolgáltatásért fizetendő árat az egyetemes szolgáltató kezdeményezésére történt felhasználói adatközlés, vagy ennek hiányában a felhasználás időarányos megosztásával kell megállapítani és számlázni.
 
-## 4.2.[^585] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
+## 4.2.[^587] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
 
 ## 4.3. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát, a villamosenergia-vásárlási szerződés – és amennyiben a hálózathasználati szerződést megbízottként kezeli, a hálózathasználati szerződés – megszűnése esetén a szerződés megszűnésének napjára végszámlát kibocsátani, és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, amely magában foglalja a tételes pénzügyi elszámolást is.
 
-## 4.4[^586].
+## 4.4[^588].
 
 ## 4.5. A villamosenergia-vásárlási szerződés megszűnésekor keletkező visszautalandó összeget az egyetemes szolgáltató köteles 8 napon belül visszafizetni a felhasználónak vagy a fizetőnek.
 
@@ -34,17 +34,17 @@
 
 ## 4.7. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak vagy a fizetőnek a kézhezvételtől legalább 8 nap rendelkezésére álljon.
 
-## 4.8.[^587] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
+## 4.8.[^589] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
 
-## 4.9.[^588] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
+## 4.9.[^590] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
 
-## 4.10.[^589] Az előre fizetős mérő használatával vételezett villamos energia mennyisége és ára vonatkozásában az egyetemes szolgáltató – a hibás mérés kivételével – utólagos elszámolás-korrekciót nem alkalmazhat.
+## 4.10.[^591] Az előre fizetős mérő használatával vételezett villamos energia mennyisége és ára vonatkozásában az egyetemes szolgáltató – a hibás mérés kivételével – utólagos elszámolás-korrekciót nem alkalmazhat.
 
-## 4.11.[^590] Az egyetemes szolgáltató a felhasználók részére biztosítja a fogyasztásmérő-berendezés mérőállásának bejelentését. A részszámla akkor alapulhat statisztikai elemzéssel (becsléssel) megállapított villamosenergia-mennyiségen, ha a felhasználó a fogyasztásmérő-berendezés mérőállását nem jelentette be az egyetemes szolgáltató üzletszabályzatában előírtak szerint.
+## 4.11.[^592] Az egyetemes szolgáltató a felhasználók részére biztosítja a fogyasztásmérő-berendezés mérőállásának bejelentését. A részszámla akkor alapulhat statisztikai elemzéssel (becsléssel) megállapított villamosenergia-mennyiségen, ha a felhasználó a fogyasztásmérő-berendezés mérőállását nem jelentette be az egyetemes szolgáltató üzletszabályzatában előírtak szerint.
 
-## 4.12.[^591] A 4.11. alpontban foglaltaktól eltérően szaldó elszámolás esetében a részszámla statisztikai elemzéssel (becsléssel) megállapított villamosenergia-mennyiségen alapul.
+## 4.12.[^593] A 4.11. alpontban foglaltaktól eltérően szaldó elszámolás esetében a részszámla statisztikai elemzéssel (becsléssel) megállapított villamosenergia-mennyiségen alapul.
 
-## 4.13.[^592] Ha a villamos energiát egyetemes szolgáltatásban vételező felhasználó egyúttal a VET 66/B. § (9) bekezdés b) pontja szerinti társasházi energiaközösségi megállapodásban vesz részt, az egyetemes szolgáltató által alkalmazott árszabás tekintetében az elszámolási ponton a felhasználó által termelt és egyidejűleg elfogyasztott villamos energiának kell tekinteni a felhasználó által az elszámolási ponton vételezett azon villamosenergia-mennyiséget, amelynek forrása a felhasználó részvételével működő társasházi energiaközösség által üzemeltetett háztartási méretű kiserőmű. Az elszámolás alapját képező villamosenergia-felhasználást az egyetemes szolgáltató a 21/A. § (2c) bekezdése szerint állapítja meg.
+## 4.13.[^594] Ha a villamos energiát egyetemes szolgáltatásban vételező felhasználó egyúttal a VET 66/B. § (9) bekezdés b) pontja szerinti társasházi energiaközösségi megállapodásban vesz részt, az egyetemes szolgáltató által alkalmazott árszabás tekintetében az elszámolási ponton a felhasználó által termelt és egyidejűleg elfogyasztott villamos energiának kell tekinteni a felhasználó által az elszámolási ponton vételezett azon villamosenergia-mennyiséget, amelynek forrása a felhasználó részvételével működő társasházi energiaközösség által üzemeltetett háztartási méretű kiserőmű. Az elszámolás alapját képező villamosenergia-felhasználást az egyetemes szolgáltató a 21/A. § (2c) bekezdése szerint állapítja meg.
 
 ## 5. Kifogás a számla ellen
 
@@ -52,11 +52,11 @@
 
 ## 5.2. Az egyetemes szolgáltató köteles a kifogást megvizsgálni, és annak eredményéről a felhasználót a kifogás kézhezvételétől számított 15 napon belül írásban értesíteni.
 
-## 5.3.[^593]
+## 5.3.[^595]
 
 ## 5.4. Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót termék ár, díj vagy árkülönbözet, díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel.
 
-## 5.5.[^594] A 4.5. pontjában, valamint 5.4. pontjában előírtakon túli teljesítés késedelmes fizetésnek minősül. Ha az egyetemes szolgáltató vagy a felhasználó a fentiek szerint meghatározott időpontig fizetési kötelezettségét nem teljesíti, köteles a kamatokat, valamint az igazolt költségeket a másik félnek megtéríteni.
+## 5.5.[^596] A 4.5. pontjában, valamint 5.4. pontjában előírtakon túli teljesítés késedelmes fizetésnek minősül. Ha az egyetemes szolgáltató vagy a felhasználó a fentiek szerint meghatározott időpontig fizetési kötelezettségét nem teljesíti, köteles a kamatokat, valamint az igazolt költségeket a másik félnek megtéríteni.
 
 ## 6. Szerződésszegés
 
@@ -82,7 +82,7 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-## 7.[^595] Egyetemes szolgáltatás jogosulatlan igénybevétele
+## 7.[^597] Egyetemes szolgáltatás jogosulatlan igénybevétele
 
 ## 7.1. Ha az egyetemes szolgáltató megállapítja, hogy a felhasználó egyetemes szolgáltatásra nem jogosult, az egyetemes szolgáltató az egyetemes szolgáltató és a felhasználó közötti jogviszony fennállása alatt jogosulatlanul vételezett villamos energiát az adott hónapra vonatkozó átlagos HUPX másnapi órás piaci áron, de legalább a VET 145. § (3b) bekezdése alapján megállapított egységáron számolja el a felhasználóval.
 
@@ -102,7 +102,7 @@
 
 ## 7.9. A 7.1. és 7.7. alpont esetén az euróban megadott árak forintra történő átszámításakor az MNB által megállapított, tárgyhónap utolsó munkanapján érvényes deviza középárfolyamot kell alkalmazni.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^596]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^598]
 
 Villamos hálózati csatlakozási és hálózathasználati szabályzat
 
@@ -128,17 +128,17 @@ cc) a VET 39/C. § -a alapján a közcélú hálózathoz közvetlenül kíván c
 
 cd) e rendelet 13/C. §-a alapján a magánvezeték engedélyesétől tájékoztatást kap arról, hogy az a Hivatalhoz villamosenergia-kereskedelemre vonatkozó működési engedély iránti kérelmet nyújtott be,
 
-d)[^597] az a termelő, aki közvetlen vezetéket létesít, és az általa megtermelt villamos energiát vagy annak egy részét közvetlen vezetéken keresztül vételezőknek kívánja értékesíteni
+d)[^599] az a termelő, aki közvetlen vezetéket létesít, és az általa megtermelt villamos energiát vagy annak egy részét közvetlen vezetéken keresztül vételezőknek kívánja értékesíteni
 
-e)[^598] közvetlen vezeték létesítése esetén a közvetlen vezeték létesítője,
+e)[^600] közvetlen vezeték létesítése esetén a közvetlen vezeték létesítője,
 
-f)[^599] az a termelő, aki a VET 39/G. §-a szerint kíván csatlakozni.
+f)[^601] az a termelő, aki a VET 39/G. §-a szerint kíván csatlakozni.
 
-g)[^600] az a felhasználó, aki a VET 66/B. §-a alapján társasházi energiaközösségben való részvétel céljából háztartási méretű kiserőművet kíván létesíteni, valamint
+g)[^602] az a felhasználó, aki a VET 66/B. §-a alapján társasházi energiaközösségben való részvétel céljából háztartási méretű kiserőművet kíván létesíteni, valamint
 
-h)[^601] az az aktív felhasználó, aki háztartási méretű kiserőmű üzemeltetőjeként a VET 66/B. § (9) bekezdése szerinti megállapodásban részt vesz.
+h)[^603] az az aktív felhasználó, aki háztartási méretű kiserőmű üzemeltetőjeként a VET 66/B. § (9) bekezdése szerinti megállapodásban részt vesz.
 
-2.2.[^602] A közép vagy nagyfeszültségű hálózatra vonatkozó erőművi csatlakozási igénybejelentésre, annak tartalmára, a csatlakozási feltételek megállapítására, és a csatlakozási eljárás folyamatára - a 2.5-2.12. pontban foglaltaktól eltérően - a villamosenergia-ellátási szabályzatok rendelkezései az irányadóak.
+2.2.[^604] A közép vagy nagyfeszültségű hálózatra vonatkozó erőművi csatlakozási igénybejelentésre, annak tartalmára, a csatlakozási feltételek megállapítására, és a csatlakozási eljárás folyamatára - a 2.5-2.12. pontban foglaltaktól eltérően - a villamosenergia-ellátási szabályzatok rendelkezései az irányadóak.
 
 2.3. Az igénybejelentés formanyomtatványon is megtehető. Az elosztó az igénybejelentésre ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé, továbbá honlapján elektronikusan letölthető formátumban közzéteszi.
 
@@ -154,7 +154,7 @@ d) amennyiben ismert, a hálózathasználat során igénybe venni kívánt lekö
 
 e) a felhasználás és a betáplálás jellemző, villamosenergia-ellátási szabályzatokban meghatározott adatait;
 
-f)[^603] a közcélú hálózatra kapcsolni kívánt erőmű és villamosenergia-tároló működésére jellemző, villamosenergia-ellátási szabályzatokban meghatározott adatokat,
+f)[^605] a közcélú hálózatra kapcsolni kívánt erőmű és villamosenergia-tároló működésére jellemző, villamosenergia-ellátási szabályzatokban meghatározott adatokat,
 
 g) kiserőmű létesítésére vonatkozó szándék esetében
 
@@ -168,13 +168,13 @@ h) magánvezeték vagy közvetlen vezeték létesítési igény kapcsán
 
 ha) annak a területnek a – vázrajzi térképekkel alátámasztott és az ingatlan-nyilvántartás szerinti helyrajzi számokkal megjelölt – leírását, amely területen az igénybejelentő vételezőket kíván ellátni, és
 
-hb)[^604] a területen létesíteni kívánt vételezési helyeket ellátó kapcsolódási pontok ellátását biztosító – mérnök kamarai tervezői jogosultsággal rendelkező tervező által elkészített – magánvezeték vagy közvetlen vezeték egyvonalas villamos kapcsolási rajzát, valamint ezek egyenkénti kapcsolódási teljesítményét (kVA),
+hb)[^606] a területen létesíteni kívánt vételezési helyeket ellátó kapcsolódási pontok ellátását biztosító – mérnök kamarai tervezői jogosultsággal rendelkező tervező által elkészített – magánvezeték vagy közvetlen vezeték egyvonalas villamos kapcsolási rajzát, valamint ezek egyenkénti kapcsolódási teljesítményét (kVA),
 
-i)[^605] a csatlakozás igénybevételének kívánt időpontját, valamint
+i)[^607] a csatlakozás igénybevételének kívánt időpontját, valamint
 
-j)[^606] társasházi energiaközösség létesítése esetén a társasházi energiaközösségről szóló, a VET 66/B. § (9) bekezdése szerinti írásbeli megállapodást.
+j)[^608] társasházi energiaközösség létesítése esetén a társasházi energiaközösségről szóló, a VET 66/B. § (9) bekezdése szerinti írásbeli megállapodást.
 
-2.5.[^607] A hálózati engedélyes köteles az üzletszabályzatában rögzített, helyszíni felülvizsgálatot nem igénylő csatlakozási igények esetében az igénybejelentőt valamennyi dokumentum rendelkezésre állásától számított 3 munkanapon belül tájékoztatni a hálózati csatlakozási és a hálózathasználati jogviszony minden lényeges eleméről, és ennek részeként a hálózati csatlakozásra és hálózathasználatra ajánlatot tenni. Ha az ajánlattétel előtt más szerv nyilatkozatának beszerzése vagy eljárásának lefolytatása szükséges, a hálózati engedélyes az igénybejelentés kézhezvételét követő 2. munkanapon köteles a nyilatkozat beszerzését, illetve az eljárás lefolytatását kezdeményezni. Az ajánlattételre nyitva álló határidőbe nem számít bele más szerv
+2.5.[^609] A hálózati engedélyes köteles az üzletszabályzatában rögzített, helyszíni felülvizsgálatot nem igénylő csatlakozási igények esetében az igénybejelentőt valamennyi dokumentum rendelkezésre állásától számított 3 munkanapon belül tájékoztatni a hálózati csatlakozási és a hálózathasználati jogviszony minden lényeges eleméről, és ennek részeként a hálózati csatlakozásra és hálózathasználatra ajánlatot tenni. Ha az ajánlattétel előtt más szerv nyilatkozatának beszerzése vagy eljárásának lefolytatása szükséges, a hálózati engedélyes az igénybejelentés kézhezvételét követő 2. munkanapon köteles a nyilatkozat beszerzését, illetve az eljárás lefolytatását kezdeményezni. Az ajánlattételre nyitva álló határidőbe nem számít bele más szerv
 
 a) nyilatkozatának beszerzéséhez vagy
 
@@ -182,9 +182,9 @@ b) eljárása lefolytatásához
 
 szükséges időtartam. A megkeresett szerv a megkeresés kézhezvételétől számított 8 napon belül köteles a nyilatkozatot kiadni, illetve az eljárását lefolytatni, és annak eredményéről a hálózati engedélyest tájékoztatni.
 
-2.6.[^608] Ha az igénybejelentés hiányos és ajánlat elkészítésére nem alkalmas, a hálózati engedélyes az igénybejelentés kézhezvételétől számított 3 munkanapon belül köteles a rendszerhasználót hiánypótlásra felhívni a hiányok pontos megjelölésével. Az ajánlattételre meghatározott határidő a hiánypótlás hálózati engedélyes általi kézhezvételétől számítandó.
+2.6.[^610] Ha az igénybejelentés hiányos és ajánlat elkészítésére nem alkalmas, a hálózati engedélyes az igénybejelentés kézhezvételétől számított 3 munkanapon belül köteles a rendszerhasználót hiánypótlásra felhívni a hiányok pontos megjelölésével. Az ajánlattételre meghatározott határidő a hiánypótlás hálózati engedélyes általi kézhezvételétől számítandó.
 
-2.7.[^609] Ha az igénybejelentés alapján vagy hiánypótlási felszólítás esetén a hiánypótlás alapján sem egyértelmű, hogy az igény megvalósításához szükséges-e csatlakozóvezeték vagy közcélú vezeték létesítése vagy bővítése, a hálózati engedélyes az igénybejelentés, illetve a hiánypótlás kézhezvételétől számított 5 munkanapon belül helyszíni felülvizsgálatot tart. Ha a helyszíni felülvizsgálat eredményeképpen a hálózati engedélyes azt állapította meg, hogy
+2.7.[^611] Ha az igénybejelentés alapján vagy hiánypótlási felszólítás esetén a hiánypótlás alapján sem egyértelmű, hogy az igény megvalósításához szükséges-e csatlakozóvezeték vagy közcélú vezeték létesítése vagy bővítése, a hálózati engedélyes az igénybejelentés, illetve a hiánypótlás kézhezvételétől számított 5 munkanapon belül helyszíni felülvizsgálatot tart. Ha a helyszíni felülvizsgálat eredményeképpen a hálózati engedélyes azt állapította meg, hogy
 
 a) a csatlakozási igény teljesítése csatlakozóvezeték vagy közcélú vezeték létesítését vagy bővítését nem igényli, akkor az ajánlatát és a tájékoztatót az igénybejelentőnek a felülvizsgálat napjától számított 5 munkanapon belül küldi meg,
 
@@ -198,15 +198,15 @@ a) a tájékoztató egyedi azonosító számát;
 
 b) az elosztó nevét, székhelyét, honlapjának címét, ügyfélszolgálatának címét és nyitvatartási idejét, valamint az elosztói szabályzat és az üzletszabályzata internetes elérési útvonalát;
 
-c)[^610] a kiindulási pont és a csatlakozási pont megjelölését, amelyen a hálózati engedélyes a rendelkezésre álló teljesítményt a közcélú hálózatból történő vételezés és abba való betáplálás céljából biztosítja;
+c)[^612] a kiindulási pont és a csatlakozási pont megjelölését, amelyen a hálózati engedélyes a rendelkezésre álló teljesítményt a közcélú hálózatból történő vételezés és abba való betáplálás céljából biztosítja;
 
 d) új csatlakozási pont esetében az igénybejelentésre biztosított rendelkezésre álló teljesítményt;
 
 e) meglévő csatlakozási pont esetén a már rendelkezésre álló teljesítményt, és az igénybejelentésre biztosított többletteljesítményt annak feltüntetésével, hogy a teljesítmény betáplálásra vagy vételezésre vonatkozik;
 
-f)[^611] a hálózatra csatlakozás és bekapcsolás műszaki feltételeit, elkülönítve a csatlakozó berendezés létesítésére vonatkozó adatokat a közcélú hálózat egyéb érintett részeinek adataitól;
+f)[^613] a hálózatra csatlakozás és bekapcsolás műszaki feltételeit, elkülönítve a csatlakozó berendezés létesítésére vonatkozó adatokat a közcélú hálózat egyéb érintett részeinek adataitól;
 
-g)[^612] a csatlakozási díjak elemeit, az egyes díjelemeknek megfelelően fizetendő összegeket és ezek számítási módját, a pénzügyi teljesítés módját és határidejét;
+g)[^614] a csatlakozási díjak elemeit, az egyes díjelemeknek megfelelően fizetendő összegeket és ezek számítási módját, a pénzügyi teljesítés módját és határidejét;
 
 h) a mérőhely kialakítására, annak ajánlott módjára és a fogyasztásmérő berendezés elhelyezésére vonatkozó követelményeket;
 
@@ -218,13 +218,13 @@ k) más rendszerhasználó villamosenergia-felhasználását vagy betáplálás�
 
 l) a hálózati csatlakozáshoz és a hálózathasználathoz szükséges engedélyek felsorolását;
 
-m)[^613] a közcélú hálózat rendelkezésre állásának tervezett időpontját, amely nem lehet későbbi az elosztói csatlakozási szerződés hatálybalépésétől, amennyiben csatlakozási díjfizetési kötelezettség merül fel, és ez utóbbi későbbi időpontra esik, akkor a csatlakozási díj befizetésétől számított 60. napnál, kivéve, ha az igénybejelentő későbbi időponttal kéri. A határidőbe nem számít bele
+m)[^615] a közcélú hálózat rendelkezésre állásának tervezett időpontját, amely nem lehet későbbi az elosztói csatlakozási szerződés hatálybalépésétől, amennyiben csatlakozási díjfizetési kötelezettség merül fel, és ez utóbbi későbbi időpontra esik, akkor a csatlakozási díj befizetésétől számított 60. napnál, kivéve, ha az igénybejelentő későbbi időponttal kéri. A határidőbe nem számít bele
 
-ma)[^614] minden más szerv nyilatkozatának beszerzéséhez vagy eljárása lefolytatásához szükséges időtartam azzal, hogy a hálózati engedélyes az összes nyilatkozat beszerzését és az összes eljárás lefolytatását - beleértve a hálózattervezést is - 5 munkanapon belül kezdeményezi,
+ma)[^616] minden más szerv nyilatkozatának beszerzéséhez vagy eljárása lefolytatásához szükséges időtartam azzal, hogy a hálózati engedélyes az összes nyilatkozat beszerzését és az összes eljárás lefolytatását - beleértve a hálózattervezést is - 5 munkanapon belül kezdeményezi,
 
 mb) az az időtartam, amely alatt jogszabály nem teszi lehetővé a munkavégzést;
 
-n)[^615] a hálózatra történő bekapcsolás tervezett időpontját, amely hálózati beavatkozást igénylő esetben nem lehet későbbi a közcélú hálózat rendelkezésre állásának napjától számított 15. napnál, egyéb esetekben az elosztói csatlakozási szerződés hatálybalépésétől, amennyiben csatlakozási díjfizetési kötelezettség merül fel, és ez utóbbi későbbi időpontra esik, akkor a csatlakozási díj befizetésétől számított 15. napnál, kivéve, ha az igénybejelentő későbbi időponttal kéri;
+n)[^617] a hálózatra történő bekapcsolás tervezett időpontját, amely hálózati beavatkozást igénylő esetben nem lehet későbbi a közcélú hálózat rendelkezésre állásának napjától számított 15. napnál, egyéb esetekben az elosztói csatlakozási szerződés hatálybalépésétől, amennyiben csatlakozási díjfizetési kötelezettség merül fel, és ez utóbbi későbbi időpontra esik, akkor a csatlakozási díj befizetésétől számított 15. napnál, kivéve, ha az igénybejelentő későbbi időponttal kéri;
 
 o) a rendszerhasználati díjszabást és megfizetésének módját;
 
@@ -234,13 +234,13 @@ q) a hálózati csatlakozásra vonatkozó ajánlatot vagy a hálózati csatlakoz
 
 r) tájékoztatást arról, hogy a csatlakozási pontra a hálózathasználati szerződés megkötése kapcsán az elosztói szabályzat szerint szükség van-e üzemviteli megállapodás megkötésére;
 
-s)[^616] okosmérő esetén az okosmérő teljes körű funkciói és interoperabilitás jellemzőit, az okosmérővel elérhető szolgáltatásokat, az okosmérővel való mérés várható előnyeit, közérthető módon megfogalmazva, valamint
+s)[^618] okosmérő esetén az okosmérő teljes körű funkciói és interoperabilitás jellemzőit, az okosmérővel elérhető szolgáltatásokat, az okosmérővel való mérés várható előnyeit, közérthető módon megfogalmazva, valamint
 
-t)[^617] a rugalmas csatlakozás biztosításának műszaki feltételeit, amennyiben a hálózati engedélyes így tudja biztosítani a csatlakozást.
+t)[^619] a rugalmas csatlakozás biztosításának műszaki feltételeit, amennyiben a hálózati engedélyes így tudja biztosítani a csatlakozást.
 
 2.9. Ha a csatlakoztatni kívánt felhasználói berendezés, mérőhely kiépítés, közvetlen vezeték, magánvezeték, összekötő berendezés, termelői vezeték csatlakoztatásának műszaki terveit nem a hálózati engedélyes készíti el, akkor köteles térítésmentesen az érintett rendszerhasználó rendelkezésére bocsátani minden az üzemi szabályzatban vagy az elosztói szabályzatban meghatározott, a hálózat tervezéséhez szükséges adatot.
 
-2.10.[^618] Ha a hálózati engedélyes az igénybejelentőt előzetesen értesítette, jogosult a 2.9. pontban meghatározott műszaki terv kivitelezés megkezdése előtti felülvizsgálatára, amely esetben a tervet a hálózati engedélyeshez be kell nyújtani. A hálózati engedélyes a műszaki terveket a kézhezvételtől számított 3 munkanapon belül köteles felülvizsgálni, és a közcélú hálózat üzembiztonsága érdekében jogosult azok módosítását előírni. A hálózati engedélyes köteles az előírt módosításokat indokolni, az igénybejelentő köteles az előírt módosításokat elvégezni.
+2.10.[^620] Ha a hálózati engedélyes az igénybejelentőt előzetesen értesítette, jogosult a 2.9. pontban meghatározott műszaki terv kivitelezés megkezdése előtti felülvizsgálatára, amely esetben a tervet a hálózati engedélyeshez be kell nyújtani. A hálózati engedélyes a műszaki terveket a kézhezvételtől számított 3 munkanapon belül köteles felülvizsgálni, és a közcélú hálózat üzembiztonsága érdekében jogosult azok módosítását előírni. A hálózati engedélyes köteles az előírt módosításokat indokolni, az igénybejelentő köteles az előírt módosításokat elvégezni.
 
 2.11. Az elosztó a háztartási méretű kiserőművek csatlakoztatásával összefüggő és a felhasználói berendezések kialakítására vonatkozó elvi egyvonalas kapcsolási típusterveket és technológiai előírásokat tartalmazó műszaki kézikönyvet köteles kidolgozni és honlapján közzétenni.
 
@@ -252,7 +252,7 @@ b) a felhasználói berendezés tekintetében az igénybejelentő
 
 köteles a jogszabályokban előírt tulajdonosi hozzájárulásokat beszerezni.
 
-2.13.[^619] A 2.1. pont h) alpontja szerinti igénybejelentésre, annak tartalmára, a csatlakozási feltételek megállapítására és a csatlakozási eljárás folyamatára a 2.3–2.12. pontban foglaltakat a következő eltérésekkel kell alkalmazni:
+2.13.[^621] A 2.1. pont h) alpontja szerinti igénybejelentésre, annak tartalmára, a csatlakozási feltételek megállapítására és a csatlakozási eljárás folyamatára a 2.3–2.12. pontban foglaltakat a következő eltérésekkel kell alkalmazni:
 
 2.13.1. a 2.4. pont i) alpontja nem alkalmazandó;
 
@@ -278,7 +278,7 @@ köteles a jogszabályokban előírt tulajdonosi hozzájárulásokat beszerezni.
 
 3. A hálózathoz való csatlakozás
 
-3.1.[^620] Közcélú hálózathoz történő csatlakozási igény esetében a hálózati engedélyes – amennyiben az igénybejelentő a hálózati csatlakozási szerződést megkötötte, és a csatlakozási díjat megfizette – a hálózati csatlakozási szerződés rendelkezései szerint köteles az adott felhasználási helyen lévő csatlakozási pontra a hálózati csatlakozást kiépíteni. A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja a külön jogszabály szerinti villanyszerelők nyilvántartásában szereplő vállalkozás megbízása útján. Az így létesült közcélú hálózati elem értéken, térítés nélkül kerül a hálózati engedélyes tulajdonába. A hálózati engedélyes köteles az igénybejelentővel és az általa megbízott kivitelezővel együttműködni.
+3.1.[^622] Közcélú hálózathoz történő csatlakozási igény esetében a hálózati engedélyes – amennyiben az igénybejelentő a hálózati csatlakozási szerződést megkötötte, és a csatlakozási díjat megfizette – a hálózati csatlakozási szerződés rendelkezései szerint köteles az adott felhasználási helyen lévő csatlakozási pontra a hálózati csatlakozást kiépíteni. A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja a külön jogszabály szerinti villanyszerelők nyilvántartásában szereplő vállalkozás megbízása útján. Az így létesült közcélú hálózati elem értéken, térítés nélkül kerül a hálózati engedélyes tulajdonába. A hálózati engedélyes köteles az igénybejelentővel és az általa megbízott kivitelezővel együttműködni.
 
 3.2. A rendelkezésre álló teljesítményt felhasználási helyenként és azon belül csatlakozási pontonként a hálózati csatlakozási szerződésben kell rögzíteni. A rendelkezésre álló teljesítményt erőmű esetében – ide nem értve a háztartási méretű kiserőművet – a betáplálás vagy a vételezés külön megjelölésével telephelyenként és azon belül csatlakozási pontonként kell a hálózati csatlakozási szerződésben rögzíteni. A háztartási méretű kiserőműre a felhasználókra vonatkozó rendelkezést kell alkalmazni.
 
@@ -290,11 +290,11 @@ b) amelyen a felhasználó a 2011. október 1-jét megelőzően nem engedélykö
 
 c) amelyen 2011. október 1-jét megelőzően a magánvezeték engedélyese magánvezeték létesítésére, működtetésére, a vezeték kapacitásának megváltoztatására, valamint működésének szüneteltetésére engedélye alapján jogosult volt,
 
-d)[^621] az épület közös használatú helyiségeit és szabadtereit (területrészeit) is,
+d)[^623] az épület közös használatú helyiségeit és szabadtereit (területrészeit) is,
 
-e)[^622] azt a területet is, amelyet mért magánvezeték lát el, vagy
+e)[^624] azt a területet is, amelyet mért magánvezeték lát el, vagy
 
-f)[^623] a hálózati engedélyes ellátási területén, ideiglenes biztonsági határzár technikai megerősítését szolgáló infrastrukturális fejlesztések megvalósításával összefüggően, a Magyarország területének a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávját.
+f)[^625] a hálózati engedélyes ellátási területén, ideiglenes biztonsági határzár technikai megerősítését szolgáló infrastrukturális fejlesztések megvalósításával összefüggően, a Magyarország területének a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávját.
 
 3.4. A felhasználó és a hálózati engedélyes eltérő megállapodása hiányában külön felhasználási helynek kell tekinteni egy ingatlan vagy épület összefüggő területén belül
 
@@ -304,11 +304,11 @@ b) a közös tulajdonban álló ingatlanon a tulajdonostársak kizárólagos has
 
 3.5. A hálózati engedélyes a hálózathoz való csatlakozást egy adott csatlakozási pontra a VET 27. § (2)–(3) bekezdésében szabályozott esetekben tagadhatja meg.
 
-3.6.[^624] A csatlakozási pontot és a kiindulási pontot a hálózati engedélyes jelöli ki az igénybejelentő érdekeinek figyelembevételével úgy, hogy a kijelölés az igénybejelentőnél és a hálózati engedélyesnél összességében a legkisebb költség elvének megfelelően történjen.
+3.6.[^626] A csatlakozási pontot és a kiindulási pontot a hálózati engedélyes jelöli ki az igénybejelentő érdekeinek figyelembevételével úgy, hogy a kijelölés az igénybejelentőnél és a hálózati engedélyesnél összességében a legkisebb költség elvének megfelelően történjen.
 
-3.7.[^625] Az ideiglenes csatlakozást kérő és a hálózati engedélyes a csatlakozási pontot – a hálózati csatlakozásra vonatkozó szabályok szerint – a meglévő közcélú hálózaton jelöli ki.
+3.7.[^627] Az ideiglenes csatlakozást kérő és a hálózati engedélyes a csatlakozási pontot – a hálózati csatlakozásra vonatkozó szabályok szerint – a meglévő közcélú hálózaton jelöli ki.
 
-3.8.[^626] Ha a csatlakozás beruházást igényel a közcélú hálózaton,
+3.8.[^628] Ha a csatlakozás beruházást igényel a közcélú hálózaton,
 
 a) a villamos energia hálózati csatlakozási díjak meghatározásának szempontjairól, a díjak elemeiről, mértékéről és alkalmazásuk szabályairól szóló rendelet szerinti csatlakozási díjak megfizetése ellenében a hálózati engedélyes által vagy
 
@@ -316,13 +316,13 @@ b) az igénybejelentő és a hálózati engedélyes közötti megállapodás ala
 
 a hálózati leágazási ponttól a csatlakozási pontig megépített és üzembe helyezett vezetékek, átalakító és kapcsoló berendezések a hálózati engedélyes tulajdonában lévő közcélú hálózat részét képezik.
 
-3.9.[^627] Az ideiglenes csatlakozást kérő feladata a csatlakozási ponton túli – nem közcélú – vezetékek létesítése és bontása, ezek költségeit az ideiglenes csatlakozást kérő viseli.
+3.9.[^629] Az ideiglenes csatlakozást kérő feladata a csatlakozási ponton túli – nem közcélú – vezetékek létesítése és bontása, ezek költségeit az ideiglenes csatlakozást kérő viseli.
 
 4. A hálózati csatlakozási szerződés előkészítése, létrejötte
 
 4.1. Ha az igénybejelentő a hálózati engedélyes tájékoztatójában foglalt ajánlatot elfogadja és – a hálózati engedélyes által vállalt ajánlati kötöttség időtartama alatt – a megküldött hálózati csatlakozási szerződéstervezetet a hálózati engedélyesnek aláírva visszaküldi, a hálózati csatlakozási szerződés annak a hálózati engedélyes által történő kézhezvételének napján lép hatályba. A visszaküldés tényének igazolása az igénybejelentőt terheli.
 
-4.2.[^628] Ha az igénybejelentő a hálózati csatlakozási szerződéstervezetet véleményeltéréssel írja alá, és küldi meg a hálózati engedélyesnek, a szerződés csak akkor jön létre, ha a felek – egyeztetés alapján – a szerződés tartalmában megállapodtak. Ebben az esetben a hálózati engedélyes köteles 3 munkanapon belül az igénybejelentővel egyeztetést kezdeményezni. A szerződés a felek által megállapított napon lép hatályba.
+4.2.[^630] Ha az igénybejelentő a hálózati csatlakozási szerződéstervezetet véleményeltéréssel írja alá, és küldi meg a hálózati engedélyesnek, a szerződés csak akkor jön létre, ha a felek – egyeztetés alapján – a szerződés tartalmában megállapodtak. Ebben az esetben a hálózati engedélyes köteles 3 munkanapon belül az igénybejelentővel egyeztetést kezdeményezni. A szerződés a felek által megállapított napon lép hatályba.
 
 4.3. A hálózati engedélyes a 4.2. pont szerinti az egyeztetésekről jegyzőkönyvet vesz fel, amely minden, a hálózati csatlakozási szerződés szempontjából lényeges tényt és nyilatkozatot tartalmaz. A jegyzőkönyv felek által aláírt egy példányát a hálózati engedélyes átadja az igénybejelentőnek.
 
@@ -334,7 +334,7 @@ a hálózati leágazási ponttól a csatlakozási pontig megépített és üzemb
 
 5.2. A megvalósíthatósági tanulmány és a csatlakozási terv általános tartalmi elemeit az üzemi szabályzat vagy az elosztói szabályzat, a megvalósíthatósági tanulmány csatlakozástól függő, egyedi feltételeit a hálózati engedélyes tájékoztatója tartalmazza.
 
-5.3.[^629] Ha a hálózati engedélyes megvalósíthatósági tanulmány vagy csatlakozási terv elkészítését írja elő, a hálózati csatlakozási szerződés azt követően jön létre, hogy a hálózati engedélyes a megvalósíthatósági tanulmányt és a csatlakozási tervet jóváhagyta.
+5.3.[^631] Ha a hálózati engedélyes megvalósíthatósági tanulmány vagy csatlakozási terv elkészítését írja elő, a hálózati csatlakozási szerződés azt követően jön létre, hogy a hálózati engedélyes a megvalósíthatósági tanulmányt és a csatlakozási tervet jóváhagyta.
 
 5.4. A hálózati engedélyes a megvalósíthatósági tanulmányt és a csatlakozási tervet a benyújtást követően az alábbiak szerint bírálja el:
 
@@ -358,7 +358,7 @@ bb) csatlakozási terv esetében 30 munkanapon belül.
 
 5.8. Ha a megvalósíthatósági tanulmány vagy a csatlakozási terv elbírálása kapcsán a hálózati engedélyes és az igénybejelentő között véleményeltérés alakul ki, a 4.2. pontban foglaltakat kell alkalmazni.
 
-5.9.[^630] Amennyiben a 2.1. alpont f) pont szerinti igény estében az igénybejelentő a hálózati engedélyes tájékoztatójában foglaltakat elfogadta és a csatlakozási díjat megfizette, a csatlakozási díj megfizetését követően a hálózati csatlakozási szerződésben részes felek a hálózati csatlakozási szerződést a hálózati engedélyes tájékoztatójában foglaltak szerint módosítják.
+5.9.[^632] Amennyiben a 2.1. alpont f) pont szerinti igény estében az igénybejelentő a hálózati engedélyes tájékoztatójában foglaltakat elfogadta és a csatlakozási díjat megfizette, a csatlakozási díj megfizetését követően a hálózati csatlakozási szerződésben részes felek a hálózati csatlakozási szerződést a hálózati engedélyes tájékoztatójában foglaltak szerint módosítják.
 
 6. A hálózati csatlakozási szerződés tartalma
 
@@ -372,9 +372,9 @@ c) a hálózati engedélyes által kiadott tájékoztató egyedi azonosító ada
 
 d) a felhasználási hely vagy erőművi telephely megjelölését, ezen belül a nem összefüggő területek meghatározását;
 
-e)[^631] csatlakozási pont helyének műszaki meghatározását és EOV koordinátáit, a csatlakozás módjának meghatározását, valamint a csatlakozási pont kiépítésére vonatkozó határidőket, amely nem lehet későbbi a közcélú hálózat rendelkezésre állásának napjától számított 15. napnál, kivéve, ha a rendszerhasználó későbbi időponttal kéri, részletes műszaki és egyéb rendelkezéseket;
+e)[^633] csatlakozási pont helyének műszaki meghatározását és EOV koordinátáit, a csatlakozás módjának meghatározását, valamint a csatlakozási pont kiépítésére vonatkozó határidőket, amely nem lehet későbbi a közcélú hálózat rendelkezésre állásának napjától számított 15. napnál, kivéve, ha a rendszerhasználó későbbi időponttal kéri, részletes műszaki és egyéb rendelkezéseket;
 
-f)[^632] csatlakozási pontonként a betáplálásra és vételezésre rendelkezésre álló teljesítményt, rugalmas csatlakozás esetén a betáplálás vagy vételezés igénybevételének feltételrendszerét;
+f)[^634] csatlakozási pontonként a betáplálásra és vételezésre rendelkezésre álló teljesítményt, rugalmas csatlakozás esetén a betáplálás vagy vételezés igénybevételének feltételrendszerét;
 
 g) a rendelkezésre álló teljesítmény hálózati engedélyesre történő átszállásának eseteit és feltételeit;
 
@@ -390,11 +390,11 @@ k) a hálózati csatlakozási szerződés megszűnésére, megszüntetésére vo
 
 6.3. A hálózati csatlakozási szerződést érintő, az üzletszabályzatban foglalt általános szerződési feltételek megváltoztatása esetén, a változás hatálybalépése előtt legalább 30 nappal a változásról az érintett rendszerhasználókat a hálózati engedélyes köteles írásban értesíteni, és az értesítést az ügyfélszolgálati helyiségekben kifüggeszteni.
 
-6.4.[^633] A hálózati engedélyes az erőművi csatlakozás gazdasági hatékonyságát biztosító műszaki megoldás esetén jogosult a csatlakozási szerződésben a csatlakozási kapacitás korlátozhatóságát előírni 10 év átlagában a csatlakozó erőmű termelési volumenének 5%-áig terjedő mértékben, azzal, hogy az üzemi szabályzat és az elosztói szabályzat a csatlakozási igénybejelentés egyedi műszaki és gazdasági feltételeire tekintettel ennél magasabb, legfeljebb 100%-os mértékű korlátozhatóságot is megállapíthat.
+6.4.[^635] A hálózati engedélyes az erőművi csatlakozás gazdasági hatékonyságát biztosító műszaki megoldás esetén jogosult a csatlakozási szerződésben a csatlakozási kapacitás korlátozhatóságát előírni 10 év átlagában a csatlakozó erőmű termelési volumenének 5%-áig terjedő mértékben, azzal, hogy az üzemi szabályzat és az elosztói szabályzat a csatlakozási igénybejelentés egyedi műszaki és gazdasági feltételeire tekintettel ennél magasabb, legfeljebb 100%-os mértékű korlátozhatóságot is megállapíthat.
 
 7. A hálózathasználati szerződés előkészítése, létrejötte
 
-7.1.[^634] Ha a rendszerhasználó a hálózati engedélyessel a hálózati csatlakozási szerződést megkötötte, a csatlakozás kiépült, és a rendszerhasználó a bekapcsolás feltételeit teljesítette, a bekapcsolást megelőzően a rendszerhasználó jogosult kezdeményezni a hálózati engedélyesnél a hálózathasználati szerződés megkötését. A hálózati engedélyes a rendszerhasználó szerződéskötésre irányuló szándékának kézhezvételétől számított 3 munkanapon belül köteles megküldeni a rendszerhasználó részére a hálózathasználati szerződés általa aláírt példányait. A hálózathasználati szerződés aláírására, érvényességére, a véleményeltérés kezelési módjára a 4. alcím rendelkezései irányadók.
+7.1.[^636] Ha a rendszerhasználó a hálózati engedélyessel a hálózati csatlakozási szerződést megkötötte, a csatlakozás kiépült, és a rendszerhasználó a bekapcsolás feltételeit teljesítette, a bekapcsolást megelőzően a rendszerhasználó jogosult kezdeményezni a hálózati engedélyesnél a hálózathasználati szerződés megkötését. A hálózati engedélyes a rendszerhasználó szerződéskötésre irányuló szándékának kézhezvételétől számított 3 munkanapon belül köteles megküldeni a rendszerhasználó részére a hálózathasználati szerződés általa aláírt példányait. A hálózathasználati szerződés aláírására, érvényességére, a véleményeltérés kezelési módjára a 4. alcím rendelkezései irányadók.
 
 7.2. A hálózathasználati szerződést a rendszerhasználó által megjelölt felhasználási helyre – eltérő megállapodás hiányában – csatlakozási pontonként kell megkötni.
 
@@ -412,9 +412,9 @@ e) a mérőberendezés üzembe helyezésére, a hálózathasználati szerződés
 
 köteles.
 
-7.4.[^635] A hálózati engedélyes az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt a hálózathasználati szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
+7.4.[^637] A hálózati engedélyes az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt a hálózathasználati szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
 
-7.5.[^636] A hálózati engedélyes folyamatos szállításra vonatkozó kötelezettsége nem zárja ki a Vet. szerinti elosztói rugalmassági szolgáltatásra és a 2019/943 EU rendelet 13. cikk 3. bekezdésében meghatározott teher-újraelosztásra vonatkozó szabályainak alkalmazását.
+7.5.[^638] A hálózati engedélyes folyamatos szállításra vonatkozó kötelezettsége nem zárja ki a Vet. szerinti elosztói rugalmassági szolgáltatásra és a 2019/943 EU rendelet 13. cikk 3. bekezdésében meghatározott teher-újraelosztásra vonatkozó szabályainak alkalmazását.
 
 8. A hálózathasználati szerződés tartalma
 
@@ -432,15 +432,15 @@ e) csatlakozási pont azonosító adatait;
 
 f) a csatlakozási ponthoz rendelt elszámolási pont és a mérési pont adatait;
 
-g)[^637] csatlakozási pontonként a betáplálásra vagy vételezésre rendelkezésre álló teljesítményt, rugalmas csatlakozás esetén a betáplálás vagy a vételezés igénybevételének feltételrendszerét, továbbá felhasználás esetén a lekötött teljesítményt, a szolgáltatott villamos energia műszaki jellemzőit, a nyújtott szolgáltatás minőségi jellemzőit, valamint a teher-újraelosztás elosztó általi alkalmazásának feltételeit és a rendszerhasználó által nyújtott elosztói rugalmassági szolgáltatások feltételeit;
+g)[^639] csatlakozási pontonként a betáplálásra vagy vételezésre rendelkezésre álló teljesítményt, rugalmas csatlakozás esetén a betáplálás vagy a vételezés igénybevételének feltételrendszerét, továbbá felhasználás esetén a lekötött teljesítményt, a szolgáltatott villamos energia műszaki jellemzőit, a nyújtott szolgáltatás minőségi jellemzőit, valamint a teher-újraelosztás elosztó általi alkalmazásának feltételeit és a rendszerhasználó által nyújtott elosztói rugalmassági szolgáltatások feltételeit;
 
 h) a szerződéskötés időpontjában hatályos rendszerhasználati díjak mértékét, megfizetésének módját és feltételeit, a hálózati engedélyes pénzforgalmi jelzőszámát, a rendszerhasználati díjfizetéssel kapcsolatos elszámolás szabályait;
 
-i)[^638] - az egyszerűsített ajánlattétel esetét kivéve - a felhasználási helyen felszerelt, elszámolás alapjául szolgáló fogyasztásmérő-berendezés részletes leírását, ellenőrzésének rendjét, valamint a fogyasztásmérő-berendezés hitelességére vonatkozó nyilatkozatot;
+i)[^640] - az egyszerűsített ajánlattétel esetét kivéve - a felhasználási helyen felszerelt, elszámolás alapjául szolgáló fogyasztásmérő-berendezés részletes leírását, ellenőrzésének rendjét, valamint a fogyasztásmérő-berendezés hitelességére vonatkozó nyilatkozatot;
 
 j) a leolvasási időpontot, az adatrögzítések időpontját, az elszámolási szabályokat;
 
-k)[^639] a hálózatba történő bekapcsolás időpontját, amely nem lehet későbbi a rendszerhasználó által aláírt hálózathasználati szerződés hálózati engedélyeshez történő visszaérkezésétől számított 8. munkanapnál, kivéve, ha a rendszerhasználó későbbi időponttal kéri;
+k)[^641] a hálózatba történő bekapcsolás időpontját, amely nem lehet későbbi a rendszerhasználó által aláírt hálózathasználati szerződés hálózati engedélyeshez történő visszaérkezésétől számított 8. munkanapnál, kivéve, ha a rendszerhasználó későbbi időponttal kéri;
 
 l) a szerződésszegés eseteit és ennek jogkövetkezményeit;
 
@@ -452,9 +452,9 @@ o) a meddő villamosenergia-forgalom mérési vagy számítási módját;
 
 p) a rendszerhasználó üzemének jellegéből adódó, a villamosmű üzembiztonságát zavaró vagy veszélyeztető hatások megszüntetésének módját;
 
-q)[^640] távlehívható fogyasztásmérővel nem rendelkező elszámolási ponttal rendelkező felhasználó által a mérlegkör-felelős felé való elszámoláshoz alkalmazandó profil meghatározását, valamint
+q)[^642] távlehívható fogyasztásmérővel nem rendelkező elszámolási ponttal rendelkező felhasználó által a mérlegkör-felelős felé való elszámoláshoz alkalmazandó profil meghatározását, valamint
 
-r)[^641] a termelői vezeték üzemeltetőjének a nyilatkozatát arról, hogy a termelői vezetéken csatlakoztatott erőmű a közcélú hálózat csatlakozási pontján a VET 39/G. §-a szerinti megállapodás alapján mekkora teljesítményt vehet igénybe.
+r)[^643] a termelői vezeték üzemeltetőjének a nyilatkozatát arról, hogy a termelői vezetéken csatlakoztatott erőmű a közcélú hálózat csatlakozási pontján a VET 39/G. §-a szerinti megállapodás alapján mekkora teljesítményt vehet igénybe.
 
 8.2. A lekötött teljesítmény értéke az adott csatlakozási ponton nem lehet nagyobb, mint a felszerelt kismegszakító, késes olvadóbiztosító, egyéb biztosító betét névleges árama vagy az állítható túláramvédelem beállítási értéke alapján meghatározott névleges csatlakozási teljesítmény értéke.
 
@@ -464,13 +464,13 @@ r)[^641] a termelői vezeték üzemeltetőjének a nyilatkozatát arról, hogy a
 
 8.5. A 12 hónapnál nem hosszabb időre kötött hálózathasználati szerződés egy alkalommal, 12 hónapnál nem hosszabb időtartamra meghosszabbítható.
 
-8.6.[^642] Ideiglenes csatlakozás olyan felhasználási hely esetében igényelhető, ahol nincs kiépített közcélú hálózati csatlakozás, vagy a kiépített csatlakozási ponton az igényelt ideiglenes villamos energia igény a meglévő csatlakozási pont műszaki jellemzői miatt nem biztosítható.
+8.6.[^644] Ideiglenes csatlakozás olyan felhasználási hely esetében igényelhető, ahol nincs kiépített közcélú hálózati csatlakozás, vagy a kiépített csatlakozási ponton az igényelt ideiglenes villamos energia igény a meglévő csatlakozási pont műszaki jellemzői miatt nem biztosítható.
 
-8.7.[^643] Ideiglenes csatlakozás kiépítésére az elosztó csak akkor köteles, ha a felhasználónak nincs csatlakozási díjjal, rendszerhasználati díjjal vagy a villamos energia árával kapcsolatos, lejárt esedékességű tartozása.
+8.7.[^645] Ideiglenes csatlakozás kiépítésére az elosztó csak akkor köteles, ha a felhasználónak nincs csatlakozási díjjal, rendszerhasználati díjjal vagy a villamos energia árával kapcsolatos, lejárt esedékességű tartozása.
 
 9. Hálózathoz való hozzáférés
 
-9.1.[^644] A hálózati engedélyes köteles gondoskodni arról, hogy a felhasználási helyen vagy az erőművi telephelyen a hálózathasználati szerződés hatálybalépésétől és a mérőhely megfelelő kialakításától, valamint – a 9.2. és 9.3. pont szerinti esetben, ha a hálózati engedélyes hibát állapított meg – a hibák kijavításának elfogadásától számított 3 munkanapon belül a fogyasztásmérő-berendezést felszereljék és zárópecséttel ellássák. Továbbá köteles gondoskodni arról, hogy a hálózathasználati szerződésben meghatározott időpontban a rendszerhasználó hálózatba történő bekapcsolása, valamint hálózathasználata megkezdődhessen.
+9.1.[^646] A hálózati engedélyes köteles gondoskodni arról, hogy a felhasználási helyen vagy az erőművi telephelyen a hálózathasználati szerződés hatálybalépésétől és a mérőhely megfelelő kialakításától, valamint – a 9.2. és 9.3. pont szerinti esetben, ha a hálózati engedélyes hibát állapított meg – a hibák kijavításának elfogadásától számított 3 munkanapon belül a fogyasztásmérő-berendezést felszereljék és zárópecséttel ellássák. Továbbá köteles gondoskodni arról, hogy a hálózathasználati szerződésben meghatározott időpontban a rendszerhasználó hálózatba történő bekapcsolása, valamint hálózathasználata megkezdődhessen.
 
 9.2. A 2.9. pont szerint csatlakoztatni kívánt felhasználói berendezés, közvetlen vezeték, magánvezeték, összekötő berendezés, termelői vezeték tervezését és kiépítését végző személy vagy társaság a bekapcsolás előtt köteles írásban nyilatkozatot adni a hálózati engedélyesnek, hogy a csatlakoztatni kívánt vezeték, berendezés, valamint a mérőhely kialakítása az előírásoknak, valamint a hálózati engedélyes által a rendszerhasználói igénybejelentésre adott tájékoztatóban meghatározott műszaki jellemzőknek megfelelően készült el.
 
@@ -484,7 +484,7 @@ a) 200 kVA rendelkezésre álló teljesítmény alatt a rendszerhasználót a fe
 
 b) 200 kVA rendelkezésre álló teljesítmény vagy ezt meghaladó teljesítmény esetén a rendszerhasználót – eltérő megállapodás hiányában – névre és felhasználási helyre vagy erőművi telephelyre szóló levélben.
 
-10.2.[^645] A hálózati engedélyes a fogyasztásmérő berendezés hitelességi idejének lejárta miatti csere esetén szükséges munkavégzésről, a fogyasztásmérő-berendezés ellenőrző leolvasása vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzésnek legfeljebb 4 órás időtartamban megjelölt, tervezett kezdő időpontjáról tértivevényes ajánlott levélben vagy egyéb igazolható módon értesíti a rendszerhasználót. Az értesítésben megjelölt, az időpont-egyeztetési lehetőség során választható munkavégzési időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell tartalmaznia. Az értesítésnek tartalmaznia kell a hálózati engedélyes időpont egyeztetésre alkalmas elérhetőségét is. Az értesítésnek legalább 8 nappal a megjelölt legkorábbi munkavégzési időpont előtt a rendszerhasználó rendelkezésére kell állnia.
+10.2.[^647] A hálózati engedélyes a fogyasztásmérő berendezés hitelességi idejének lejárta miatti csere esetén szükséges munkavégzésről, a fogyasztásmérő-berendezés ellenőrző leolvasása vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzésnek legfeljebb 4 órás időtartamban megjelölt, tervezett kezdő időpontjáról tértivevényes ajánlott levélben vagy egyéb igazolható módon értesíti a rendszerhasználót. Az értesítésben megjelölt, az időpont-egyeztetési lehetőség során választható munkavégzési időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell tartalmaznia. Az értesítésnek tartalmaznia kell a hálózati engedélyes időpont egyeztetésre alkalmas elérhetőségét is. Az értesítésnek legalább 8 nappal a megjelölt legkorábbi munkavégzési időpont előtt a rendszerhasználó rendelkezésére kell állnia.
 
 10.3. Nem alkalmazható a felhasználóval szemben a 10.2. pontban meghatározottak megsértése esetén hátrányos következmény, ha
 
@@ -494,7 +494,7 @@ b) a rendszerhasználó a hálózati engedélyes tértivevényes ajánlott levé
 
 c) a rendszerhasználó önhibáján kívül nem biztosította a hálózati engedélyesnek a megjelölt időpontban a mérőhelyre való bejutását, feltéve, hogy erről a hálózati engedélyest megfelelő határidőben, igazolható módon értesítette.
 
-10.4.[^646] A rendszerhasználó köteles a hálózati engedélyessel a 10.2. pontban foglaltak szerint egyeztetett időpontban a felhasználási helyhez tartozó mérőhelyen a hálózati engedélyes általi munkavégzést lehetővé tenni.
+10.4.[^648] A rendszerhasználó köteles a hálózati engedélyessel a 10.2. pontban foglaltak szerint egyeztetett időpontban a felhasználási helyhez tartozó mérőhelyen a hálózati engedélyes általi munkavégzést lehetővé tenni.
 
 11. Hálózathoz való hozzáférés megtagadása, a szállítások korlátozása, csökkentése, szüneteltetése
 
@@ -510,7 +510,7 @@ b) december 1. és február 29. között egynapos munka esetén a 8 órát, töb
 
 11.4. Nem lakossági fogyasztó esetén a felek a 11.3. pontban foglaltaktól eltérően is megállapodhatnak.
 
-11.5.[^647] A hálózati engedélyes a hálózathasználati szerződés fennállása alatt a jogcímet alátámasztó okiratokat jogosult a felhasználótól bekérni. Ha a hálózati engedélyes tudomására jut, hogy a felhasználó a szerződéskötéshez szükséges jogcímmel nem rendelkezik, jogosult a hálózathasználati szerződést azonnali hatállyal felmondani.
+11.5.[^649] A hálózati engedélyes a hálózathasználati szerződés fennállása alatt a jogcímet alátámasztó okiratokat jogosult a felhasználótól bekérni. Ha a hálózati engedélyes tudomására jut, hogy a felhasználó a szerződéskötéshez szükséges jogcímmel nem rendelkezik, jogosult a hálózathasználati szerződést azonnali hatállyal felmondani.
 
 12. Felhasználás és betáplálás
 
@@ -522,25 +522,25 @@ b) december 1. és február 29. között egynapos munka esetén a 8 órát, töb
 
 12.4. A hálózati engedélyes jogosult a villamosenergia-ellátás és felhasználás folyamatosságához szükséges munkákat előzetes értesítés után – eltérő, nem az üzletszabályzatban rögzített megállapodás hiányában – munkanapokon 7–20 óra között elvégezni.
 
-12.5.[^648] Ha felmerül annak lehetősége, hogy a rendszerhasználó a biztonságos szolgáltatásra vagy betáplálásra vonatkozó előírásokat nem tartja be, és az e miatt megkísérelt ellenőrzést meggátolja, a hálózati engedélyes a felhasználási helyre vagy erőműbe való bejutásig és a biztonsági ellenőrzés lefolytatásáig a hálózathoz való hozzáférést a csatlakozási ponton kívüli beavatkozással szüneteltetheti a mérőhelyre való bejutás járásbíróságnál való kezdeményezését követően.
+12.5.[^650] Ha felmerül annak lehetősége, hogy a rendszerhasználó a biztonságos szolgáltatásra vagy betáplálásra vonatkozó előírásokat nem tartja be, és az e miatt megkísérelt ellenőrzést meggátolja, a hálózati engedélyes a felhasználási helyre vagy erőműbe való bejutásig és a biztonsági ellenőrzés lefolytatásáig a hálózathoz való hozzáférést a csatlakozási ponton kívüli beavatkozással szüneteltetheti a mérőhelyre való bejutás járásbíróságnál való kezdeményezését követően.
 
 12.6. Ha a szabálytalanságra utaló körülmények kivizsgálása eredményeképpen megállapításra került, hogy a rendszerhasználó részéről szabálytalanság nem történt, az ellenőrzés során felmerült költségek a rendszerhasználóra nem háríthatók át, valamint a rendszerhasználónak okozott kárt meg kell téríteni.
 
 13. Változás a felhasználó személyében
 
-13.1.[^649] Ha a felhasználási helyen a felhasználó személye megváltozik, a felhasználó a bekövetkező változást legkésőbb – a 13.6. alpontban foglalt kivétellel – a változástól számított 15 napon belül köteles a hálózati engedélyesnek az üzletszabályzatban foglaltak szerint bejelenteni, és annak rendelkezései szerint eljárni. A felhasználó a bejelentés keretében a hálózathasználati szerződést is felmondja. A bejelentésnek – a 13.6. alpontban foglalt kivétellel – tartalmaznia kell legalább a 22/A. § (1b) bekezdés a), b) és d)–g) pontjában foglaltakat, figyelemmel a 22/A. § (1g) bekezdésében előírtakra, és a felhasználó hálózathasználati szerződés felmondására irányuló nyilatkozatát.
+13.1.[^651] Ha a felhasználási helyen a felhasználó személye megváltozik, a felhasználó a bekövetkező változást legkésőbb – a 13.6. alpontban foglalt kivétellel – a változástól számított 15 napon belül köteles a hálózati engedélyesnek az üzletszabályzatban foglaltak szerint bejelenteni, és annak rendelkezései szerint eljárni. A felhasználó a bejelentés keretében a hálózathasználati szerződést is felmondja. A bejelentésnek – a 13.6. alpontban foglalt kivétellel – tartalmaznia kell legalább a 22/A. § (1b) bekezdés a), b) és d)–g) pontjában foglaltakat, figyelemmel a 22/A. § (1g) bekezdésében előírtakra, és a felhasználó hálózathasználati szerződés felmondására irányuló nyilatkozatát.
 
-13.2.[^650] A felhasználási helyen a felhasználó személyében bekövetkező változásra vonatkozó bejelentés esetében – a hálózati engedélyes a felhasználó ez irányú kérése esetén és az üzletszabályzatában meghatározott egyéb esetben – elvégzi a csatlakozó- és mérőberendezés állapotának helyszíni ellenőrzését és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben történő rögzítését. Ennek elvégzése érdekében a hálózati engedélyes a bejelentés kézhezvételétől számított 3 munkanapon belül az igénybejelentővel időpontot egyeztet. Az egyeztetett időpont nem lehet későbbi, mint a bejelentést követő 5. munkanap, kivéve, ha azt az igénybejelentő későbbi időpontra kéri. Az ellenőrzéssel, annak körülményeivel és eredményével kapcsolatos állásfoglalását a felhasználó vagy az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a hálózati engedélyes köteles a felhasználónak és új felhasználó esetében az új felhasználónak átadni vagy postán megküldeni, további egy példányát megőrizni. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.
+13.2.[^652] A felhasználási helyen a felhasználó személyében bekövetkező változásra vonatkozó bejelentés esetében – a hálózati engedélyes a felhasználó ez irányú kérése esetén és az üzletszabályzatában meghatározott egyéb esetben – elvégzi a csatlakozó- és mérőberendezés állapotának helyszíni ellenőrzését és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben történő rögzítését. Ennek elvégzése érdekében a hálózati engedélyes a bejelentés kézhezvételétől számított 3 munkanapon belül az igénybejelentővel időpontot egyeztet. Az egyeztetett időpont nem lehet későbbi, mint a bejelentést követő 5. munkanap, kivéve, ha azt az igénybejelentő későbbi időpontra kéri. Az ellenőrzéssel, annak körülményeivel és eredményével kapcsolatos állásfoglalását a felhasználó vagy az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a hálózati engedélyes köteles a felhasználónak és új felhasználó esetében az új felhasználónak átadni vagy postán megküldeni, további egy példányát megőrizni. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.
 
-13.3.[^651] Ha a hálózati engedélyes a helyszíni ellenőrzési kötelezettségének a bejelentés kézhezvételétől számított 3 munkanapon belül nem tesz eleget, nem hivatkozhat hibás mérésre vagy szabálytalan vételezésre, és ilyen alapon nem érvényesíthet igényt a felhasználóval szemben. A felhasználó mentesül a 17.4. pontban és a 19.13. pontban meghatározott jogkövetkezmények alól, és a bejelentés napjától az új felhasználót terheli a felelősség, ha a hálózati engedélyes a felhasználási helyen vételező új felhasználó magatartása miatt, írásbeli felszólítás ellenére nem tudja végrehajtani a helyszíni ellenőrzést a bejelentés kézhezvételét követő 20 napon belül.
+13.3.[^653] Ha a hálózati engedélyes a helyszíni ellenőrzési kötelezettségének a bejelentés kézhezvételétől számított 3 munkanapon belül nem tesz eleget, nem hivatkozhat hibás mérésre vagy szabálytalan vételezésre, és ilyen alapon nem érvényesíthet igényt a felhasználóval szemben. A felhasználó mentesül a 17.4. pontban és a 19.13. pontban meghatározott jogkövetkezmények alól, és a bejelentés napjától az új felhasználót terheli a felelősség, ha a hálózati engedélyes a felhasználási helyen vételező új felhasználó magatartása miatt, írásbeli felszólítás ellenére nem tudja végrehajtani a helyszíni ellenőrzést a bejelentés kézhezvételét követő 20 napon belül.
 
 13.4. A bejelentés megtételének bizonyítása a felhasználót, a helyszíni ellenőrzés akadályoztatásának bizonyítása a hálózati engedélyest terheli.
 
-13.5.[^652] Új felhasználó esetében az új felhasználó a bejelentéshez csatolhatja a hálózathasználati szerződés megkötésére vonatkozó felhasználói igénybejelentést.
+13.5.[^654] Új felhasználó esetében az új felhasználó a bejelentéshez csatolhatja a hálózathasználati szerződés megkötésére vonatkozó felhasználói igénybejelentést.
 
-13.6.[^653] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell az elosztó számára bejelenteni. A bejelentésnek legalább a 22/A. § (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel a 22/A. § (1g) bekezdésében előírtakra.
+13.6.[^655] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell az elosztó számára bejelenteni. A bejelentésnek legalább a 22/A. § (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel a 22/A. § (1g) bekezdésében előírtakra.
 
-13.7.[^654] A 13.1. pont szerinti bejelentés formanyomtatványon is megtehető. A hálózati engedélyes az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé a 13.1. pont szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó számára postai úton is megküldi. A formanyomtatványt a hálózati engedélyes üzletszabályzata tartalmazza.
+13.7.[^656] A 13.1. pont szerinti bejelentés formanyomtatványon is megtehető. A hálózati engedélyes az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé a 13.1. pont szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó számára postai úton is megküldi. A formanyomtatványt a hálózati engedélyes üzletszabályzata tartalmazza.
 
 14. Mérés
 
@@ -548,13 +548,13 @@ b) december 1. és február 29. között egynapos munka esetén a 8 órát, töb
 
 14.2. A rendszerhasználó jogosult saját költségén ellenőrző fogyasztásmérő-berendezést felszereltetni. A hálózati engedélyes fogyasztásmérő-berendezésével azonos mérőtranszformátorokra ellenőrző fogyasztásmérő-berendezés abban az esetben szerelhető, ha ez a hálózati engedélyes mérésének pontosságát nem veszélyezteti, és a hálózati engedélyes a felszereléshez előzetesen írásban hozzájárult. Az ellenőrző fogyasztásmérő-berendezés mérési adata a szolgáltatott villamos energia és teljesítmény elszámolására alapul nem szolgálhat.
 
-14.3.[^655] Ha a rendszerhasználó a fogyasztásmérő-berendezés hibáját észleli, köteles azt a hálózati engedélyesnek haladéktalanul bejelenteni. A hálózati engedélyes a rendszerhasználó bejelentésének kézhezvételétől számított 3 munkanapon belül köteles a kifogásolt fogyasztásmérő-berendezés működését hitelesített vagy kalibrált ellenőrző eszközzel ellenőrizni. Ha az ellenőrzött fogyasztásmérő-berendezés mérési hibája a jogszabályi hibahatárt túllépi, vagy a hálózati engedélyes megállapítja, hogy a fogyasztásmérő-berendezés hibás, köteles azt kicserélni.
+14.3.[^657] Ha a rendszerhasználó a fogyasztásmérő-berendezés hibáját észleli, köteles azt a hálózati engedélyesnek haladéktalanul bejelenteni. A hálózati engedélyes a rendszerhasználó bejelentésének kézhezvételétől számított 3 munkanapon belül köteles a kifogásolt fogyasztásmérő-berendezés működését hitelesített vagy kalibrált ellenőrző eszközzel ellenőrizni. Ha az ellenőrzött fogyasztásmérő-berendezés mérési hibája a jogszabályi hibahatárt túllépi, vagy a hálózati engedélyes megállapítja, hogy a fogyasztásmérő-berendezés hibás, köteles azt kicserélni.
 
 14.4. A hálózati engedélyes a rendszerhasználó kérésére köteles a fogyasztásmérő-berendezést vagy annak valamelyik elemét a mérésügyi hatósággal vagy a mérésügyi hatóság által akkreditált laboratóriumban bevizsgáltatni, a vizsgálatról és annak eredményéről a rendszerhasználót értesíteni, és a vizsgálat eredményétől függően a fogyasztásmérő berendezést kicserélni.
 
 14.5. Ha a fogyasztásmérő-berendezés mérési hibája a jogszabályi hibahatárt túllépi, a 14.3. és 14.4. pont szerinti helyszíni ellenőrzés, vizsgálat vagy csere költségei – a hálózathasználati szerződés felhasználó általi szerződésszegésének kivételével – a hálózati engedélyest terhelik, egyéb esetben a költségeket a rendszerhasználó köteles megtéríteni.
 
-14.6.[^656] A fogyasztásmérő-berendezés cseréje esetén a hálózati engedélyes köteles gondoskodni arról, hogy
+14.6.[^658] A fogyasztásmérő-berendezés cseréje esetén a hálózati engedélyes köteles gondoskodni arról, hogy
 
 a) ha a fogyasztásmérő-berendezés cseréjére nem a 14.3. vagy 14.4. pont szerint, azonnali beavatkozással kerül sor, a csere időpontjáról a felhasználó a 10. alcímben foglaltak szerint értesítést kapjon, és
 
@@ -562,9 +562,9 @@ b) a régi fogyasztásmérő-berendezés utolsó és az új fogyasztásmérő-be
 
 c) a fogyasztásmérő-berendezés műszaki adatai a mérő állásával együtt jegyzőkönyvben kerüljenek rögzítésre, és annak egy példánya a rendszerhasználó részére átadásra kerüljön.
 
-14.7.[^657] A leszerelt fogyasztásmérő-berendezés mérőállását és állapotát a hálózati engedélyes jogosult fotótechnikai vagy elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési idő végéig - elszámoló számlára vonatkozó felhasználói panasz véglegessé vált döntéssel való lezárásáig vagy jogvita esetében a jogvita jogerős lezárásáig - a hálózati engedélyes köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő-berendezést változatlan állapotban megőrizni. A felhasználói panasz fennállásáról és annak véglegessé vált döntéssel való lezárásáról, továbbá a jogvita fennállásáról és annak jogerős lezárásáról a felhasználót ellátó villamosenergia-kereskedő a hálózati engedélyest tájékoztatja.
+14.7.[^659] A leszerelt fogyasztásmérő-berendezés mérőállását és állapotát a hálózati engedélyes jogosult fotótechnikai vagy elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési idő végéig - elszámoló számlára vonatkozó felhasználói panasz véglegessé vált döntéssel való lezárásáig vagy jogvita esetében a jogvita jogerős lezárásáig - a hálózati engedélyes köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő-berendezést változatlan állapotban megőrizni. A felhasználói panasz fennállásáról és annak véglegessé vált döntéssel való lezárásáról, továbbá a jogvita fennállásáról és annak jogerős lezárásáról a felhasználót ellátó villamosenergia-kereskedő a hálózati engedélyest tájékoztatja.
 
-14.8.[^658] Az elosztó a rendszerhasználó kérése esetén annak költségére az adott felhasználási helyen – a legkisebb költség elvével összhangban kiválasztott – távlehívható fogyasztásmérőt szerel fel.
+14.8.[^660] Az elosztó a rendszerhasználó kérése esetén annak költségére az adott felhasználási helyen – a legkisebb költség elvével összhangban kiválasztott – távlehívható fogyasztásmérőt szerel fel.
 
 14.9. Fogyasztásmérő-berendezés nélkül történő villamosenergia-felhasználás – kizárólag műszaki vagy gazdasági szempontok által indokolt esetben – a felhasználó és a hálózati engedélyes, illetve a villamosenergia-kereskedő megállapodása alapján történhet. A szolgáltatott villamos energia mennyiségét a felszerelt első túláramvédelmi elem névleges teljesítménye és a megállapodásban meghatározott felhasználási rendelkezésre állás időtartama alapján kell megállapítani.
 
@@ -612,11 +612,11 @@ c) a b) pont szerinti megállapodás hiányában egy év.
 
 17.6. A felek az adatok 17.2–17.5. pont szerinti meghatározását követő 15 napon belül kötelesek egymással elszámolni.
 
-17.7.[^659] Lejárt hitelességű fogyasztásmérő-berendezés esetében a hálózati engedélyes szabálytalan vételezésre kizárólag abban az esetben hivatkozhat, ha bizonyítja, hogy a fogyasztásmérő-berendezés megfelelő időben történő hitelesítése, cseréje a felhasználó érdekkörében fennálló okból nem vezetett eredményre, és ennek érdekében a mérőhelyre való bejutást a járásbíróságnál kezdeményezte.
+17.7.[^661] Lejárt hitelességű fogyasztásmérő-berendezés esetében a hálózati engedélyes szabálytalan vételezésre kizárólag abban az esetben hivatkozhat, ha bizonyítja, hogy a fogyasztásmérő-berendezés megfelelő időben történő hitelesítése, cseréje a felhasználó érdekkörében fennálló okból nem vezetett eredményre, és ennek érdekében a mérőhelyre való bejutást a járásbíróságnál kezdeményezte.
 
 17.8. Lejárt hitelességű fogyasztásmérő-berendezés esetén az elszámolásra a 17.2 pont a) alpont és a 17.4–17.6. pont rendelkezéseit kell alkalmazni.
 
-18.[^660] Elszámolás szerződés nélküli fogyasztás vagy betáplálás esetén
+18.[^662] Elszámolás szerződés nélküli fogyasztás vagy betáplálás esetén
 
 18.1. Ha a rendszerhasználó hatályos villamosenergia-vásárlási szerződés nélkül használ fel villamos energiát a hálózati engedélyes hálózatáról, akkor az általa felhasznált villamos energia ellenértékét a hálózati engedélyesnek fizeti meg a 18.2–18.6. alpont szerint.
 
@@ -634,95 +634,85 @@ c) a b) pont szerinti megállapodás hiányában egy év.
 
 18.8. A hálózati engedélyes a szerződés nélküli hálózathasználatot a közcélú hálózaton történő beavatkozással megszüntetheti.
 
-18.9.[^661] Ha a rendszerhasználó hatályos villamosenergia-értékesítési szerződés nélkül táplál be villamos energiát a hálózati engedélyes hálózatára, akkor a hálózati engedélyes a rendszerhasználóval szemben a 19.13. alpont c) pontja szerinti jogkövetkezményeket alkalmazza, illetve a rendszerhasználó az általa betáplált villamos energia után ellentételezésre nem jogosult.
+18.9.[^663] Ha a rendszerhasználó hatályos villamosenergia-értékesítési szerződés nélkül táplál be villamos energiát a hálózati engedélyes hálózatára, akkor a hálózati engedélyes a rendszerhasználóval szemben a 19.13. alpont c) pontja szerinti jogkövetkezményeket alkalmazza, illetve a rendszerhasználó az általa betáplált villamos energia után ellentételezésre nem jogosult.
 
-19. Szerződésszegés
-
-19.1. A felhasználási helyen végzett ellenőrzés során annak eredményét minden esetben írásbeli dokumentumban kell rögzíteni.
-
-19.2. A felhasználási helyen végzett ellenőrzés csak a felhasználó, a felhasználó képviselője, meghatalmazottja vagy független tanú jelenlétében folytatható le.
-
-19.3. Az ellenőrzést végzőknek az ellenőrzés megkezdésekor egyértelműen közölni kell a 19.2. pont szerinti személlyel az eljárás célját.
-
-19.4. Az ellenőrzést végzőknek fel kell kérni a 19.2. pont szerinti személyt, hogy az ellenőrzés teljes időtartama alatt tartózkodjon az ellenőrzés helyszínen. Amennyiben a felkért személy ennek a kérésnek nem tesz eleget, ennek tényét az írásbeli dokumentumban rögzíteni kell.
-
-[^582]: A Vhr. 1. melléklet 2. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (13) bekezdésével megállapított szöveg.
-[^583]: A Vhr. 1. számú melléklet 2. pont 2.7. alpontját a 233/2025. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
-[^584]: A Vhr. 1. melléklet 3. pontját a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés b) pontja hatályon kívül helyezte.
-[^585]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^586]: 
-[^587]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^588]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^589]: A Vhr. 1. számú melléklet 4.10. pontját a 497/2017. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^590]: A Vhr. 1.számú melléklet 4. pont 4.11. alpontját a 680/2023. (XII. 29.) Korm. rendelet 19. § (1) bekezdése iktatta be.
-[^591]: A Vhr. 1. melléklet 4. pont 4.12. alpontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (1) bekezdése iktatta be.
-[^592]: A Vhr. 1. számú melléklet 4. pont 4.13. alpontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^593]: 
-[^594]: A Vhr. 1. melléklet 5.5. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés c) pontja szerint módosított szöveg.
-[^595]: A Vhr. 1. számú melléklet 7. pontját a 233/2025. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
-[^596]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
-[^597]: A Vhr. 2. számú melléklet 2.1. pont d) alpontja a 466/2024. (XII. 30.) Korm. rendelet 34. § h) pontja szerint módosított szöveg.
-[^598]: A Vhr. 2. számú melléklet 2. pont 2.1. alpont e) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított, a 280/2025. (VIII. 21.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^599]: A Vhr. 2. számú melléklet 2.1. alpont f) pontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^600]: A Vhr. 2. számú melléklet 2. pont 2.1. alpont g) pontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^601]: A Vhr. 2. számú melléklet 2. pont 2.1. alpont h) pontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^602]: A Vhr. 2. számú melléklet 2.2. pontját a 787/2021. (XII. 27.) Korm. rendelet 22. § a) pontja iktatta be.
-[^603]: A Vhr. 2. számú melléklet 2.4. pont f) alpontja a 721/2020. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^604]: A Vhr. 2. számú melléklet 2. pont 2.4. alpont h) pont hb) alpontja a 280/2025. (VIII. 21.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^605]: A Vhr. 2. számú melléklet 2. pont 2.4. alpont i) pontja a 280/2025. (VIII. 21.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^606]: A Vhr. 2. számú melléklet 2. pont 2.4. alpont j) pontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^607]: A Vhr. 2. számú melléklet 2.5. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^608]: A Vhr. 2. számú melléklet 2.6. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^609]: A Vhr. 2. számú melléklet 2.7. pontja a 343/2017. (XI. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^610]: A Vhr. 2. melléklet 2.8. pont c) alpontja a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^611]: A Vhr. 2. melléklet 2.8. pont f) alpontja a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^612]: A Vhr. 2. melléklet 2.8. pont g) alpontja a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^613]: A Vhr. 2. számú melléklet 2.8. pont m) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^614]: A Vhr. 2. számú melléklet 2.8. pont m) pont ma) alpontja a 787/2021. (XII. 27.) Korm. rendelet 22. § a) pontjával megállapított szöveg.
-[^615]: A Vhr. 2. számú melléklet 2.8. pont n) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^616]: A A Vhr. 2. számú melléklet 2.8. alpont s) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^617]: A Vhr. 2. számú melléklet 2.8. alpont t) pontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^618]: A Vhr. 2. számú melléklet 2.10. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^619]: A Vhr. 2. számú melléklet 2. pont 2.13. alpontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^620]: A Vhr. 2. számú melléklet 3.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^621]: A Vhr. 2. számú melléklet 3.3. pont d) alpontja a 140/2016. (VI. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^622]: A Vhr. 2. számú melléklet 3.3. pont e) alpontja a 140/2016. (VI. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^623]: A Vhr. 2. számú melléklet 3.3. pont f) alpontját a 140/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
-[^624]: A Vhr. 2. melléklet 3.6. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^625]: A Vhr. 2. melléklet 3.7. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^626]: A Vhr. 2. melléklet 3.8. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^627]: A Vhr. 2. melléklet 3.9. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^628]: A Vhr. 2. számú melléklet 4.2. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^629]: A Vhr. 2. számú melléklet 5.3. pontja a 680/2023. (XII. 29.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
-[^630]: A Vhr. 2. számú melléklet 5. pont 5.9. alpontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^631]: A Vhr. 2. számú melléklet 6.1. pont e) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^632]: A Vhr. 2. számú melléklet 6.1. alpont f) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^633]: A Vhr. 2. számú melléklet 6. pont 6.4. alpontját a 721/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^634]: A Vhr. 2. számú melléklet 7.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^635]: A Vhr. 2. számú melléklet 7.4. pontját a 275/2017. (IX. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^636]: A Vhr. 2. számú melléklet 7. pont 7.5. alpontját a 721/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^637]: A Vhr. 2. számú melléklet 8.1. alpont g) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^638]: A Vhr. 2. számú melléklet 8.1. pont i) alpontja a 787/2021. (XII. 27.) Korm. rendelet 22. § a) pontjával megállapított szöveg.
-[^639]: A Vhr. 2. számú melléklet 8.1. pont k) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^640]: A Vhr. 2. számú melléklet 8. pont 8.1. alpont q) pontja a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^641]: A Vhr. 2. számú melléklet 8.1. alpont r) pontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^642]: A Vhr. 2. melléklet 8.6. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^643]: A Vhr. 2. melléklet 8.7. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^644]: A Vhr. 2. számú melléklet 9.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^645]: A Vhr. 2. számú melléklet 10.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^646]: A Vhr. 2. számú melléklet 10.4. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^647]: A Vhr. 2. számú melléklet 11. pont 11.5. alpontját a 672/2021. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
-[^648]: A Vhr. 2. számú melléklet 12.5. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^649]: A Vhr. 2. számú melléklet 13. pont 13.1. alpontja a 672/2021. (XII. 2.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^650]: A Vhr. 2. számú melléklet 13.2. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (14) bekezdésével megállapított szöveg.
-[^651]: A Vhr. 2. számú melléklet 13.3. pontja a 252/2012. (IX. 7.) Korm. rendelet 3. §-ával megállapított, a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^652]: A Vhr. 2. számú melléklet 13. pont 13.5. alpontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
-[^653]: A Vhr. 2. számú melléklet 13. pont 13.6. alpontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 672/2021. (XII. 2.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^654]: A Vhr. 2. számú melléklet 13. pont 13.7. alpontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
-[^655]: A Vhr. 2. számú melléklet 14.3. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^656]: A Vhr. 2. számú melléklet 14.6. pontja a 119/2013. (IV. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^657]: A Vhr. 2. számú melléklet 14.7. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^658]: A Vhr. 2. számú melléklet 14.8. alpontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^659]: A Vhr. 2. számú melléklet 17.7. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^660]: A Vhr. 2. melléklet 18. pontja a 680/2023. (XII. 29.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg. A Vhr. 2. melléklet 18. pont címe a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^661]: A Vhr. 2. zámú melléklet 18. pont 18.9. alpontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^584]: A Vhr. 1. melléklet 2. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (13) bekezdésével megállapított szöveg.
+[^585]: A Vhr. 1. számú melléklet 2. pont 2.7. alpontját a 233/2025. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^586]: A Vhr. 1. melléklet 3. pontját a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^587]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^588]: 
+[^589]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^590]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^591]: A Vhr. 1. számú melléklet 4.10. pontját a 497/2017. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^592]: A Vhr. 1.számú melléklet 4. pont 4.11. alpontját a 680/2023. (XII. 29.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^593]: A Vhr. 1. melléklet 4. pont 4.12. alpontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (1) bekezdése iktatta be.
+[^594]: A Vhr. 1. számú melléklet 4. pont 4.13. alpontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^595]: 
+[^596]: A Vhr. 1. melléklet 5.5. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés c) pontja szerint módosított szöveg.
+[^597]: A Vhr. 1. számú melléklet 7. pontját a 233/2025. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^598]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^599]: A Vhr. 2. számú melléklet 2.1. pont d) alpontja a 466/2024. (XII. 30.) Korm. rendelet 34. § h) pontja szerint módosított szöveg.
+[^600]: A Vhr. 2. számú melléklet 2. pont 2.1. alpont e) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított, a 280/2025. (VIII. 21.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^601]: A Vhr. 2. számú melléklet 2.1. alpont f) pontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^602]: A Vhr. 2. számú melléklet 2. pont 2.1. alpont g) pontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^603]: A Vhr. 2. számú melléklet 2. pont 2.1. alpont h) pontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^604]: A Vhr. 2. számú melléklet 2.2. pontját a 787/2021. (XII. 27.) Korm. rendelet 22. § a) pontja iktatta be.
+[^605]: A Vhr. 2. számú melléklet 2.4. pont f) alpontja a 721/2020. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^606]: A Vhr. 2. számú melléklet 2. pont 2.4. alpont h) pont hb) alpontja a 280/2025. (VIII. 21.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^607]: A Vhr. 2. számú melléklet 2. pont 2.4. alpont i) pontja a 280/2025. (VIII. 21.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^608]: A Vhr. 2. számú melléklet 2. pont 2.4. alpont j) pontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^609]: A Vhr. 2. számú melléklet 2.5. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^610]: A Vhr. 2. számú melléklet 2.6. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^611]: A Vhr. 2. számú melléklet 2.7. pontja a 343/2017. (XI. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^612]: A Vhr. 2. melléklet 2.8. pont c) alpontja a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^613]: A Vhr. 2. melléklet 2.8. pont f) alpontja a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^614]: A Vhr. 2. melléklet 2.8. pont g) alpontja a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^615]: A Vhr. 2. számú melléklet 2.8. pont m) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^616]: A Vhr. 2. számú melléklet 2.8. pont m) pont ma) alpontja a 787/2021. (XII. 27.) Korm. rendelet 22. § a) pontjával megállapított szöveg.
+[^617]: A Vhr. 2. számú melléklet 2.8. pont n) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^618]: A A Vhr. 2. számú melléklet 2.8. alpont s) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^619]: A Vhr. 2. számú melléklet 2.8. alpont t) pontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^620]: A Vhr. 2. számú melléklet 2.10. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^621]: A Vhr. 2. számú melléklet 2. pont 2.13. alpontját a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^622]: A Vhr. 2. számú melléklet 3.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^623]: A Vhr. 2. számú melléklet 3.3. pont d) alpontja a 140/2016. (VI. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^624]: A Vhr. 2. számú melléklet 3.3. pont e) alpontja a 140/2016. (VI. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^625]: A Vhr. 2. számú melléklet 3.3. pont f) alpontját a 140/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^626]: A Vhr. 2. melléklet 3.6. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^627]: A Vhr. 2. melléklet 3.7. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^628]: A Vhr. 2. melléklet 3.8. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^629]: A Vhr. 2. melléklet 3.9. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^630]: A Vhr. 2. számú melléklet 4.2. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^631]: A Vhr. 2. számú melléklet 5.3. pontja a 680/2023. (XII. 29.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
+[^632]: A Vhr. 2. számú melléklet 5. pont 5.9. alpontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^633]: A Vhr. 2. számú melléklet 6.1. pont e) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^634]: A Vhr. 2. számú melléklet 6.1. alpont f) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^635]: A Vhr. 2. számú melléklet 6. pont 6.4. alpontját a 721/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^636]: A Vhr. 2. számú melléklet 7.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^637]: A Vhr. 2. számú melléklet 7.4. pontját a 275/2017. (IX. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^638]: A Vhr. 2. számú melléklet 7. pont 7.5. alpontját a 721/2020. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^639]: A Vhr. 2. számú melléklet 8.1. alpont g) pontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^640]: A Vhr. 2. számú melléklet 8.1. pont i) alpontja a 787/2021. (XII. 27.) Korm. rendelet 22. § a) pontjával megállapított szöveg.
+[^641]: A Vhr. 2. számú melléklet 8.1. pont k) alpontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^642]: A Vhr. 2. számú melléklet 8. pont 8.1. alpont q) pontja a 280/2025. (VIII. 21.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^643]: A Vhr. 2. számú melléklet 8.1. alpont r) pontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^644]: A Vhr. 2. melléklet 8.6. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^645]: A Vhr. 2. melléklet 8.7. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^646]: A Vhr. 2. számú melléklet 9.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^647]: A Vhr. 2. számú melléklet 10.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^648]: A Vhr. 2. számú melléklet 10.4. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^649]: A Vhr. 2. számú melléklet 11. pont 11.5. alpontját a 672/2021. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^650]: A Vhr. 2. számú melléklet 12.5. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^651]: A Vhr. 2. számú melléklet 13. pont 13.1. alpontja a 672/2021. (XII. 2.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^652]: A Vhr. 2. számú melléklet 13.2. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (14) bekezdésével megállapított szöveg.
+[^653]: A Vhr. 2. számú melléklet 13.3. pontja a 252/2012. (IX. 7.) Korm. rendelet 3. §-ával megállapított, a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^654]: A Vhr. 2. számú melléklet 13. pont 13.5. alpontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
+[^655]: A Vhr. 2. számú melléklet 13. pont 13.6. alpontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 672/2021. (XII. 2.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^656]: A Vhr. 2. számú melléklet 13. pont 13.7. alpontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
+[^657]: A Vhr. 2. számú melléklet 14.3. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^658]: A Vhr. 2. számú melléklet 14.6. pontja a 119/2013. (IV. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^659]: A Vhr. 2. számú melléklet 14.7. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^660]: A Vhr. 2. számú melléklet 14.8. alpontja a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^661]: A Vhr. 2. számú melléklet 17.7. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^662]: A Vhr. 2. melléklet 18. pontja a 680/2023. (XII. 29.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg. A Vhr. 2. melléklet 18. pont címe a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^663]: A Vhr. 2. zámú melléklet 18. pont 18.9. alpontját a 466/2024. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
