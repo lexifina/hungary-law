@@ -1,6 +1,6 @@
 48. § (1) Előhaszonbérleti jog nem áll fenn
 
-a) a közeli hozzátartozók közötti,
+a) a családi gazdaságokról szóló 2020. évi CXXIII. törvény 2. § b) pontja szerinti hozzátartozói láncolatba tartozó személyek közötti,
 
 b) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló,
 
@@ -23,3 +23,5 @@ g) az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény 11/A. �
 haszonbérlet esetén.
 
 (2) Nem gyakorolhatja az előhaszonbérleti jogát az a mezőgazdasági termelőszervezet, amely csődeljárás, felszámolási eljárás vagy végelszámolási eljárás alatt áll.
+
+(3) Ha a föld tulajdonosa a mezőgazdasági termelőszervezetben fennálló tulajdonjogát öröklés útján szerezte, az (1) bekezdés c) pont ca) alpontja szerinti egyéves időtartamba beszámít az az időtartam, amíg az örökhagyó a mezőgazdasági termelőszervezetben tulajdonos volt.

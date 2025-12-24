@@ -12,7 +12,7 @@ b) a helyi földbizottság által támogatott elővásárlásra jogosulttal vagy
 
 ba) a birtokában álló föld jogellenes más célú hasznosítása, vagy a hasznosítási kötelezettség megsértése miatt az ingatlanügyi hatóság – az adás-vételi szerződés közlését megelőző 5 éven belül – véglegesen földvédelmi bírságot szabott ki;
 
-bb) jogerősen megállapított földhasználati díjtartozása áll fenn;
+bb)
 
 bc) a földszerzéshez vállalt kötelezettség megsértése miatt a mezőgazdasági igazgatási szerv – az adás-vételi szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése vagy a Fétv. 95. § (8) bekezdése szerinti bírságot szabott ki.
 

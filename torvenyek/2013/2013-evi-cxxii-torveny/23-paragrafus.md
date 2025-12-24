@@ -10,25 +10,29 @@ b) az adásvételi szerződés nem tartalmazza a vevőnek a 13. és 14. §-ban e
 
 c) az adásvételi szerződésben a vevő által tett nyilatkozatból nem állapítható meg egyértelműen az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító okiratok nem kerültek csatolásra, illetve az elővásárlási jog nem a megjelölt törvényen, vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, az adásvételi szerződés a vevő által megjelölt elővásárlási ranghelyhez kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza,
 
-d) az adásvételi szerződésben a felek alaptalanul hivatkoznak a 20. § (1) bekezdés valamely pontjának fennállására, vagy
+d) az adásvételi szerződésben a felek alaptalanul hivatkoznak a 20. § (1) bekezdés valamely pontjának fennállására,
 
-e) az ingatlan tulajdoni lapján a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás ténye szerepel.
+e) az ingatlan tulajdoni lapján a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás ténye szerepel, vagy
+
+f) a kérelmező elmulasztotta megküldeni a 21. § (1f)–(1h) bekezdése szerinti igazolásokat, illetve nyilatkozatot, vagy a nyilatkozat valótlan adatot tartalmaz.
+
+(2a) Ha az adásvételi szerződés érvényessége a gyámhatóság jóváhagyásához kötött, a mezőgazdasági igazgatási szerv nem tagadhatja meg a szerződés jóváhagyását abból az okból, hogy az a gyámhatóság jóváhagyó záradékát nem tartalmazza.
 
 (3) A mezőgazdasági igazgatási szerv a 22. § (1) bekezdése szerinti okiratok beérkezésétől számított 15 napon belül dönt az adásvételi szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy a (2) bekezdés alapján az adásvételi szerződés jóváhagyása megtagadásának lett volna helye.
 
 (3a) A mezőgazdasági igazgatási szerv a 22. § (1) bekezdése szerinti okiratok beérkezésétől számított 15 napon belül dönt a szerződés ismételt közzétételének elrendeléséről, ha a jegyző által megküldött okiratok alapján megállapítja az elővásárlási jog gyakorlására vonatkozó eljárási szabályok megsértését.
 
-(4) A mezőgazdasági igazgatási szerv a részére a jegyző által megküldött okiratok közül az elfogadó jognyilatkozatokat először – kizárólag azok tartalma és alaki kellékei alapján – az érvényességi és hatályosulási feltételeknek való megfelelőség szempontjából vizsgálja meg, illetve ellenőrzi. A mezőgazdasági igazgatási szerv úgy tekinti, hogy a jogosult elővásárlási jogát nem gyakorolta, ha megállapítja, hogy az elfogadó jognyilatkozat
+(4) A mezőgazdasági igazgatási szerv a részére a jegyző által megküldött okiratok vizsgálata során úgy tekinti, hogy a jogosult elővásárlási jogát nem gyakorolta, ha megállapítja, hogy
 
-a) az alakszerűségi előírásoknak nem felel meg,
+a) az elfogadó jognyilatkozat vagy a mellékelt okirat az alakszerűségi előírásoknak nem felel meg vagy egyéb okból érvénytelen,
 
-b) nem az elővásárlásra jogosulttól származik,
+b) az elfogadó jognyilatkozat nem az elővásárlásra jogosulttól származik,
 
-c) az elővásárlásra jogosulttól származik, de nem állapítható meg belőle az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító vagy a 21/A. § (1) és (3) bekezdése szerinti esetben a letétbe helyezést igazoló okiratok nem kerültek csatolásra, illetve az elővásárlási jog nem a megjelölt törvényen vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, az elővásárlásra jogosult által megjelölt elővásárlási jogosultsághoz kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza, vagy
+c) az elfogadó jognyilatkozat az elővásárlásra jogosulttól származik, de nem állapítható meg belőle az elővásárlási jogosultság jogalapja, vagy az, hogy az elővásárlási jog mely törvényen alapul, az elővásárlási jogosultságot bizonyító vagy a 21/A. § (1) és (3) bekezdése szerinti esetben a letétbe helyezést igazoló okiratok nem kerültek csatolásra, az elővásárlási jog nem a megjelölt törvényen vagy a törvényben meghatározott sorrend szerinti ranghelyen alapul, illetve az elővásárlásra jogosult által megjelölt elővásárlási jogosultsághoz kapcsolódóan törvény által előírt kötelezettségvállalásokat és nyilatkozatokat nem tartalmazza, vagy
 
-d) az elővásárlásra jogosulttól származik, de nem tartalmazza az elővásárlásra jogosultnak a 13. és 14. §-ban előírt tartalmú nyilatkozatait, vagy a 14. §-ban foglalt nyilatkozatokat valótlanul tartalmazza és erről a mezőgazdasági igazgatási szerv tudomással bír.
+d) az elfogadó jognyilatkozat az elővásárlásra jogosulttól származik, de nem tartalmazza az elővásárlásra jogosultnak a 13. és 14. §-ban előírt tartalmú nyilatkozatait, vagy a 14. §-ban foglalt nyilatkozatokat valótlanul tartalmazza, és erről a mezőgazdasági igazgatási szerv tudomással bír.
 
-(5) Ha a (3) bekezdés alapján a mezőgazdasági igazgatási szerv nem tagadja meg az adásvételi szerződés jóváhagyását vagy a (3a) bekezdés alapján nem rendeli el a szerződés ismételt közzétételét, és az elővásárlásra jogosult nyújtott be elfogadó jognyilatkozatot, a mezőgazdasági igazgatási szerv – a (6) bekezdésben meghatározott eset kivételével – az elővásárlásra jogosultat vagy jogosultakat, valamint az adásvételi szerződés szerinti vevőt a törvény által meghatározott sorrend alapján rangsorolja, és arról jegyzéket készít (a továbbiakban: jegyzék).
+(5) Ha az (1) bekezdés alapján a mezőgazdasági igazgatási szerv nem tagadja meg az adásvételi szerződés jóváhagyását vagy a (3a) bekezdés alapján nem rendeli el a szerződés ismételt közzétételét, és az elővásárlásra jogosult nyújtott be elfogadó jognyilatkozatot, a mezőgazdasági igazgatási szerv – a (6) bekezdésben meghatározott eset kivételével – az elővásárlásra jogosultat vagy jogosultakat, valamint az adásvételi szerződés szerinti vevőt a törvény által meghatározott sorrend alapján rangsorolja, és arról jegyzéket készít (a továbbiakban: jegyzék).
 
 (6) Nem kell a jegyzéket elkészíteni, ha a hirdetményi úton közölt adás-vételi szerződésre
 

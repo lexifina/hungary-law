@@ -14,7 +14,7 @@
 
 5a. erdőnek minősülő föld: a fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület;
 
-6. fiatal földműves: az a földműves, aki az elővásárlási, illetve előhaszonbérleti jog gyakorlása időpontjában elmúlt 16 éves, de a 40. életévét még nem töltötte be;
+6. fiatal földműves: az a földműves, aki az elővásárlási, illetve előhaszonbérleti jog gyakorlása időpontjában elmúlt 16 éves, de a 45. életévét még nem töltötte be;
 
 7. földműves: Magyarországon nyilvántartásba vett belföldi természetes személy, illetve tagállami állampolgár, aki e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik vagy ennek hiányában igazoltan legalább 3 éve
 
@@ -76,7 +76,7 @@ d) amely erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozásn
 
 22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
 
-22b. rizstelep: az élelmiszerlánc-felügyeleti szerv által rizstelepként elismert olyan, egy vagy több földrészletből álló, legalább 1 hektár térmértékű, egységes művelés alatt álló terület, amelyen a mezőgazdasági termelő a rizstelepként történő elismerés iránti kérelem benyújtását közvetlenül megelőző 3 évből legalább 1 évben 1006 10 KN kód, illetve 1008 90 00 KN kód alá tartozó rizst termeszt, és amely magába foglalja a földet és annak tartozékaként a rizstermesztést szolgáló, művelés alól kivett területként nyilvántartott földrészletet is;
+22b. rizstelep: az élelmiszerlánc-felügyeleti szerv által rizstelepként elismert olyan, egy vagy több, szántó művelési ágú földrészletből álló, legalább 1 hektár térmértékű, egységes művelés alatt álló terület, amelyen a mezőgazdasági termelő a rizstelepként történő elismerés iránti kérelem benyújtását közvetlenül megelőző 3 évből legalább 1 évben 1006 10 KN kód alá tartozó rizst, illetve 1008 90 00 KN kód alá tartozó indiánrizst (vadrizst) termeszt, és amely magába foglalja a földet és annak tartozékaként a rizstermesztést szolgáló, művelés alól kivett területként nyilvántartott földrészletet is;
 
 23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül érintkezik, illetve amelyet a jogügylet tárgyát képező földtől önálló helyrajzi szám alatt nyilvántartott út, vasút, kerékpárút, árok, csatorna, patak földrészlet vagy földrészletek közbeékelődése választ el;
 

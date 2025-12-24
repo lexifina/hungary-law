@@ -20,9 +20,11 @@ c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely 
 
 d) gazdaságátadási szerződés keretében engedi át a használatot;
 
-e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot, vagy
+e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot,
 
-f) a rizstelephez tartozó föld használatát engedi át a rizstelep használója részére.
+f) a rizstelephez tartozó föld használatát engedi át a rizstelep használója részére, vagy
+
+g) haszonbérleti szerződés keretében engedi át a használatot.
 
 (2a) A (2) bekezdés c) pontjában foglalt esetben a földhasználati szerződésnek tartalmaznia kell, hogy a használat átengedésére vetőmagtermeléshez szükséges terület biztosítása céljából került sor. A földhasználónak – ideértve az előhaszonbérletre jogosultat is –
 
@@ -48,9 +50,9 @@ d) tájgazdálkodási célú vízpótló csatorna és víztározó létesítése
 
 e) védett természeti területek természetvédelmi kezeléséért felelős szerv által jogszabályban, vagy e szerv alapító okiratában foglalt, valamint közösségi vagy hazai költségvetési forrás felhasználásával megvalósuló természetvédelmi célú feladatok ellátása;
 
-f) mezőgazdasági termeléshez, erdőgazdálkodáshoz szükséges gazdasági épület létesítése;
+f) mezőgazdasági termeléshez, erdőgazdálkodáshoz szükséges gazdasági épület és annak megközelítését szolgáló, legfeljebb 200 négyzetméter területű út létesítése;
 
-g) lakóépület létesítése;
+g) lakóépület és ahhoz tartozó, legfeljebb 500 négyzetméter területű udvar, illetve út létesítése;
 
 h) a föld megközelítését, illetve a föld használatát biztosító út kialakítása;
 

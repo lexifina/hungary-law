@@ -15,3 +15,7 @@
 (8) E törvény rendelkezéseit az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvényben foglalt eltérésekkel kell alkalmazni.
 
 (9) E törvény rendelkezéseit nem kell alkalmazni az állam tulajdonában lévő ingatlanoknak az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonába adására.
+
+(10) E törvény rendelkezéseit nem kell alkalmazni a föld használatának közjóléti tevékenységgel összefüggésben épített és használt sípálya létesítése és üzemeltetése céljából történő átengedése esetén, ha az nem akadályozza a föld művelési ágának megfelelő hasznosítását.
+
+(11) E törvény rendelkezéseit nem kell alkalmazni az állam tulajdonában lévő ingatlanoknak a Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület tevékenységével érintett egyes állami tulajdonú ingatlanok vagyonkezelésének rendezéséről szóló 2019. évi XXXI. törvény alapján a Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület részére ingyenesen történő tulajdonba adására.

@@ -1,6 +1,6 @@
 24. § (1) A helyi földbizottság a feladatkörébe tartozó ügyben a mezőgazdasági igazgatási szerv megkeresésének beérkezésétől számított 30 napon belül adja ki az állásfoglalását.
 
-(2) A helyi földbizottság az adás-vételi szerződést és a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatát a köztudomású tények és legjobb ismeretei, valamint a (3) bekezdésben foglaltak szerint beszerzett információk – kormányrendeletben meghatározott módon történő – mérlegelése alapján a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelés vonatkozásában értékeli és támogatja vagy nem támogatja.
+(2) A helyi földbizottság az adás-vételi szerződést és a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatát a köztudomású tények és legjobb ismeretei, valamint az adott ügy vonatkozásában jelentőséggel bíró, a (3) bekezdésben foglaltak szerint beszerzett információk – kormányrendeletben meghatározott módon történő – mérlegelése alapján a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelés vonatkozásában értékeli és támogatja vagy nem támogatja.
 
 (3) Az adásvételi szerződésnek a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelése értékelésének során figyelembe kell venni
 

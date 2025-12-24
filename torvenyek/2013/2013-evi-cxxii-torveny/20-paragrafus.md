@@ -16,7 +16,7 @@ g) a részarány-tulajdonost megillető vételi jog gyakorlása útján történ
 
 h) a bevett egyház vagy annak belső egyházi jogi személye részére temető létesítése vagy bővítése céljából, illetve hitéleti célból történő átruházás,
 
-i) az adásvétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra levő közigazgatási határú településen legalább három éve életvitelszerű lakáshasználat helyével vagy mezőgazdasági üzemközponttal rendelkező földműves vevő által jelen szerzést megelőzően bármikor, bármilyen jogcímen megszerzett – függetlenül ezen szerzés vagy szerzések tulajdonjogának jelen szerzéskor való fennálltától vagy már fenn nem állásától – föld összes területével együtt összesen 10 hektár területnagyságot meg nem haladó, szántó, legelő (gyep), illetve rét művelési ágban nyilvántartott, valamint erdőnek minősülő, kizárólagos tulajdonban álló és a használati jogosultság harmadik személy javára történt átengedésével nem érintett földrészlet megszerzése
+i) az adásvétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra levő közigazgatási határú, Magyarország területén fekvő településen legalább három éve életvitelszerű lakáshasználat helyével vagy mezőgazdasági üzemközponttal rendelkező földműves vevő által jelen szerzést megelőzően bármikor, bármilyen jogcímen Magyarország területén megszerzett – függetlenül ezen szerzés vagy szerzések tulajdonjogának jelen szerzéskor való fennálltától vagy már fenn nem állásától – föld összes területével együtt összesen 10 hektár területnagyságot meg nem haladó, szántó, legelő (gyep), illetve rét művelési ágban nyilvántartott, valamint erdőnek minősülő, a használati jogosultság harmadik személy javára történt átengedésével nem érintett földrészlet kizárólagos tulajdonának megszerzése
 
 esetén.
 
@@ -25,3 +25,5 @@ esetén.
 (3) Nincs helye az (1) bekezdés b) pontja alkalmazásának, ha az adásvételi szerződés megkötését megelőző három évben a földet telekegyesítési eljárás érintette.
 
 (4) Több föld egybefoglalt vételáron történő eladása esetén az (1) bekezdés i) pontja alkalmazására csak abban az esetben kerülhet sor, ha az ügyletben szereplő valamennyi föld megfelel az (1) bekezdés i) pontjában és a (2) bekezdésben meghatározott feltételnek.
+
+(5) Az (1) bekezdés a), b), d), e) és i) pontjának alkalmazása esetében az elővásárlási jog fennállását kizáró okra az adásvételi szerződésben hivatkozni kell.

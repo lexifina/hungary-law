@@ -1,0 +1,5 @@
+6/B. § (1) A 6/A. § alapján az állam tulajdonába kerülő, a 6/A. § (1) bekezdésében meghatározott ingatlanokat az érintett gazdasági társaságok a számvitelről szóló törvény rendelkezései alapján, könyv szerinti nyilvántartási értéken vezetik ki. Az ebből eredő saját tőke változásokat – ideértve a jegyzett tőke és a jegyzett tőkén felüli saját tőke elemei közötti átrendeződést is – az állami tulajdonszerzést követően, könyv szerinti nyilvántartási értéken kell elszámolni.
+
+(2) Az (1) bekezdés szerinti tőkerendezésre nem kell alkalmazni a a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:203–3:204. §-ában foglalt tőkeleszállítási eljárási szabályokat. Az (1) bekezdés szerinti tőkerendezés a Ptk. alkalmazásában nem minősül tőkeleszállításnak.
+
+(3) A 6/A. §, valamint az (1) bekezdés szerinti tulajdonátszállással, valamint az ehhez kapcsolódó elszámolással összefüggő ingatlan-nyilvántartási, telekalakítási és egyéb hatósági eljárások adó-, illeték-, díj- és járulékmentesek.

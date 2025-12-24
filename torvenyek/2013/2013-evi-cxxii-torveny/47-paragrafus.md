@@ -42,4 +42,6 @@ bejegyzett földhasználóként gyakorolta.
 
 (5b) Egybefoglalt haszonbér ellenében történő haszonbérbe adás esetén a szerződés tárgyát képező földek kizárólag azonos feltételekkel adhatók haszonbérbe.
 
+(5c) A mezőgazdasági igazgatási szerv megtagadja a haszonbérleti szerződés jóváhagyását, ha a haszonbérleti szerződés több föld haszonbérbe adásáról rendelkezik, és azok közül bármelyik vonatkozásában megtagadásnak van helye, függetlenül attól, hogy a haszonbér egybefoglalt-e.
+
 (6) Az olyan föld haszonbérbe adása esetén, amely földrészleten belül erdőnek minősülő és erdőnek nem minősülő alrészlet is található, a 45. § szerinti előhaszonbérleti jog abban az esetben áll fenn, ha az erdőnek minősülő föld területnagysága meghaladja az erdőnek nem minősülő föld területnagyságát.

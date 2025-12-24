@@ -6,7 +6,7 @@ a) a föld használatát valamely érvényes jogcímen
 
 aa) földművesnek minősülő közeli hozzátartozója,
 
-ab) a legalább 25%-ban a tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban a tulajdonában álló mezőgazdasági termelőszervezet, vagy
+ab) a legalább egy éve, legalább 25%-ban a tulajdonában, vagy a közeli hozzátartozójának legalább egy éve, legalább 25%-ban a tulajdonában álló mezőgazdasági termelőszervezet, vagy
 
 ac) olyan családi mezőgazdasági társaság, amelyben tag
 

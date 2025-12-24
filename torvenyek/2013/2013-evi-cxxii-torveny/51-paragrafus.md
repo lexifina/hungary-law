@@ -14,6 +14,10 @@ d) a haszonbérbeadó a föld haszonélvezője, aki nem igazolta, hogy a tulajdo
 
 e) a haszonbérleti szerződésben a felek alaptalanul hivatkoznak a 48. § (1) bekezdés valamely pontjának fennállására.
 
+f) az erdőnek minősülő földre vonatkozó haszonbérleti szerződés nem felel meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvényben meghatározott feltételeknek,
+
+g) az ingatlan tulajdoni lapján a föld tulajdonjogának átruházására irányuló szerződés benyújtásának ténye szerepel.
+
 (3) A mezőgazdasági igazgatási szerv az 50. § (1) bekezdése szerinti okiratok beérkezésétől számított 15 napon belül dönt a haszonbérleti szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy a (2) bekezdés alapján a haszonbérleti szerződés jóváhagyása megtagadásának lett volna helye.
 
 (3a) A mezőgazdasági igazgatási szerv az 50. § (1) bekezdése szerinti okiratok beérkezésétől számított 15 napon belül dönt a szerződés ismételt közzétételének elrendeléséről, ha a jegyző által megküldött okiratok alapján megállapítja az előhaszonbérleti jog gyakorlására vonatkozó eljárási szabályok megsértését.

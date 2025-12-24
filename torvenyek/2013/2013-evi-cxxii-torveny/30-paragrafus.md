@@ -10,7 +10,7 @@ d) a mezőgazdasági igazgatási szerv részéről a jogosult aláírását;
 
 e) a záradékolás dátumát és a mezőgazdasági igazgatási szerv bélyegzőjét.
 
-(2) Ha a 27. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv az eladó és a vevő között létrejött adás-vételi szerződést a 23. § (6) bekezdésének a) vagy b) pontjában foglalt esetek fennállása alapján jóváhagyja, az (1) bekezdésben meghatározottak szerint jár el, azzal, hogy záradék nem tartalmazza az (1) bekezdés a) és b) pontjában foglaltakat.
+(2) Ha a 27. §-ban foglaltak nem állnak fenn, és a mezőgazdasági igazgatási szerv az adásvételi szerződést a szerződés szerinti vevővel hagyja jóvá, az (1) bekezdésben meghatározottak szerint jár el, azzal, hogy a záradék nem tartalmazza az (1) bekezdés a) és b) pontjában foglaltakat.
 
 (3) Ha a mezőgazdasági igazgatási szerv a 27. §-ban foglaltak alapján az adás-vételi szerződés jóváhagyását megtagadja, erről a 27. §
 
