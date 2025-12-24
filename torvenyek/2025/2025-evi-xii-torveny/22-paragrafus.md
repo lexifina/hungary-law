@@ -6,7 +6,7 @@
 
 a) a hitelfelvásárló, vagy adott esetben a harmadik országbeli hitelfelvásárló kijelölt képviselője jogalany azonosítójáról (LEI), ennek hiányában
 
-aa) a hitelfelvásárló, vagy az irányítási jogkörrel rendelkező testületének tagja és a hitelfelvásárlóban befolyásoló részesedéssel rendelkező természetes személyek, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok személyazonosító adatairól, és
+aa) a hitelfelvásárló, vagy az irányítási jogkörrel rendelkező testületének tagja és a hitelfelvásárlóban befolyásoló részesedéssel rendelkező természetes személyek, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok 1. melléklet szerinti személyazonosító adatairól, és
 
 ab) a hitelfelvásárló, vagy adott esetben a harmadik országbeli hitelfelvásárló képviselője címéről;
 

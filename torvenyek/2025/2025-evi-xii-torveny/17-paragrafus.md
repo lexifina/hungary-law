@@ -24,4 +24,4 @@ b) az általa a hitelfelvásárló nevében kezelt és érvényesített egyes ne
 
 c) a hitelgondozási megállapodásról.
 
-(4) A hitelgondozó a (3) bekezdésben meghatározott nyilvántartásokat kérésre a Felügyelet rendelkezésére bocsátja.
+(4) A hitelgondozó a (3) bekezdésben meghatározott nyilvántartásokat kérésre a Felügyelet, valamint a fogadó EGT-állam illetékes felügyeleti hatósága rendelkezésére bocsátja.

@@ -31,3 +31,5 @@ a) a (3) bekezdés szerinti tájékoztatásnak a fogadó EGT-állam illetékes f
 b) az a) pont szerinti visszaigazolás kézhezvételének hiányában a (3) bekezdés szerinti tájékoztatásnak a fogadó EGT-állam illetékes felügyeleti hatósága általi hiánytalan megküldésének napjától számított két hónap.
 
 (6) A hitelgondozó haladéktalanul tájékoztatja a Felügyeletet a (2) bekezdésben meghatározott információkat érintő változásokról. Ebben az esetben a (3)–(5) bekezdésben meghatározottak szerinti eljárás alkalmazandó.
+
+(7) A hitelgondozó által másik EGT-államban határon átnyúló szolgáltatásként, vagy fióktelep létesítésével történő hitelgondozókénti működés a fogadó EGT-állam nemzeti jogában megállapított korlátozásokra és követelményekre figyelemmel végezhető.

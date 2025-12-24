@@ -2,7 +2,7 @@
 
 26. § (1) A hitelfelvásárló vagy képviselője félévente tájékoztatja a Felügyeletet az általa átruházott nemteljesítő hitelmegállapodásból származó hitelezői jog vagy az átruházott nemteljesítő hitelmegállapodás új hitelfelvásárlója, adott esetben annak képviselője jogalany azonosítójáról (LEI), ennek hiányában
 
-a) az új hitelfelvásárló (képviselő), vagy ügyvezető testületük tagjai és a hitelfelvásárlóban (képviselőjében) befolyásoló részesedéssel rendelkező természetes személyek személyazonosító adatairól,
+a) az új hitelfelvásárló (képviselő), vagy ügyvezető testületük tagjai és a hitelfelvásárlóban (képviselőjében) befolyásoló részesedéssel rendelkező természetes személyek 1. melléklet szerinti személyazonosító adatairól,
 
 b) az új hitelfelvásárló (képviselő) címéről.
 
