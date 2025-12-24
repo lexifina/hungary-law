@@ -14,6 +14,6 @@
 
 (7) A 281. § (2) és (3) bekezdése 2014. december 1-jén lép hatályba.
 
-(8) E törvény 155–161. §-a az Európai Bizottság – az ABAK-irányelv 67. cikk (6) bekezdése alapján elfogadandó – felhatalmazáson alapuló jogi aktusának meghozatalát követő 15. napon lép hatályba.
+(8) A 155–161. § 2026. április 16-án lép hatályba.
 
 (9)

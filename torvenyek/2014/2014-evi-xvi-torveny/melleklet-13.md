@@ -15,23 +15,3 @@ d) a javadalmazási politika végrehajtását legalább évente központi és f�
 e) az ellenőrzési feladatokat ellátó alkalmazottak a feladatkörükhöz kapcsolódó célkitűzések elérésével összhangban álló javadalmazást kapnak, függetlenül az általuk ellenőrzött tevékenységi területek teljesítményétől;
 
 f) a kockázatkezeléssel és megfelelőség-ellenőrzéssel foglalkozó vezető tisztviselők javadalmazását közvetlenül a javadalmazási bizottság felügyeli, amennyiben ilyen bizottság létezik;
-
-g) amennyiben a javadalmazást a teljesítményhez kötik, a javadalmazás teljes összege az egyén és az érintett szervezeti egység vagy befektetési alap teljesítményének együttes értékelésén, valamint a befektetési alapkezelő általános eredményein és kockázatain alapul, az egyéni teljesítmény értékelése során pedig pénzügyi és nem pénzügyi kritériumokat is figyelembe vesznek;
-
-h) a teljesítményértékelésre a befektetési alapkezelő kezelésében lévő befektetési alapok életciklusának, illetve a befektetőknek ajánlott tartási időszaknak megfelelő többéves kereten belül kerül sor annak biztosítása érdekében, hogy az értékelési folyamat alapja a hosszabb távú teljesítmény legyen, és hogy a javadalmazás teljesítményalapú összetevőinek tényleges kifizetése egy olyan időszakra legyen elosztva, amelynél figyelembe veszik a befektetési alapkezelő kezelésében lévő befektetési alapok visszaváltással kapcsolatos politikáját és befektetési kockázatait;
-
-i) a garantált változó javadalmazás kivételes jellegű, csak új alkalmazottak felvételével összefüggésben kerül rá sor, és az első évre korlátozódik;
-
-j) a teljes javadalmazás rögzített és változó összetevői megfelelő egyensúlyban vannak; a rögzített összetevő a teljes javadalmazás kellően nagy hányadát teszi ki, hogy a javadalmazás változó összetevőjével kapcsolatban teljes mértékben rugalmas politika érvényesülhessen, többek között lehetőség legyen arra, hogy változó összetevőt egyáltalán ne fizessenek;
-
-k) a szerződés idő előtti megszűnéséhez kapcsolódó kifizetések az adott időszakban elért teljesítményt tükrözik, és nem jutalmazzák a teljesítmény elmaradását;
-
-l) a változó javadalmazási összetevők vagy a változó javadalmazási összetevők összességének kiszámításához használt teljesítménymérés magában foglal egy átfogó kiigazítási mechanizmust minden releváns jelenlegi és jövőbeni veszélytípus figyelembevételére;
-
-m) a befektetési alap kezelési szabályzatától függően, bármely változó javadalmazási összetevő jelentős része, azaz legalább 50%-a az érintett befektetési alap kollektív befektetési értékpapírjaiból vagy egyenértékű, készpénztől eltérő eszközből áll, kivéve, ha a befektetési alap kezelése a befektetési alapkezelő által kezelt teljes portfóliónak csak kevesebb mint 50%-át teszi ki, amely esetben az 50%-os minimum nem érvényes;
-
-Ezekre az eszközökre megfelelő visszatartási szabályokat kell alkalmazni, amelyek célja, hogy az ösztönzőket összehangolja a befektetési alapkezelő, az általa kezelt befektetési alapok és az ilyen befektetési alapok befektetőinek érdekeivel. A Felügyelet szükség szerint korlátozásokat rendelhet el ezen eszközök bizonyos típusaira és konstrukcióira, vagy adott esetben betilthat egyes eszközöket. Ez a pont a változó javadalmazási összetevőnek mind az n) ponttal összhangban halasztott részére, mind a nem halasztott részére alkalmazandó;
-
-n) egy jelentős részt – amely a változó javadalmazási összetevő legalább 40%-a – halasztva, az adott befektetési alap életciklusához és visszaváltással kapcsolatos politikájához igazított időtartamra elosztva fizetnek ki, és azt megfelelően összehangolják az adott befektetési alap kockázatainak jellegével.
-
-Ennek az időszaknak legalább 3 évig kell tartania, kivéve, ha az érintett befektetési alap életciklusa rövidebb; a halasztási szabályok szerinti javadalmazási jogosultság legfeljebb időarányosan illeti meg az alkalmazottat. A belső szabályzatban meghatározott küszöbértéknél magasabb összegű változó javadalmazási összetevő esetében az összeg legalább 60%-át halasztva kell kifizetni.
