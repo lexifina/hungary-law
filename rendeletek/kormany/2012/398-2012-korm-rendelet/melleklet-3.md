@@ -472,9 +472,9 @@
 
 473. Szociális hozzájárulási adó
 
-474. Szakképzési hozzájárulás
+474.[^40]
 
-475.[^40]
+475.[^41]
 
 476. Egyéb állami adóhatósággal szembeni kötelezettség elszámolása
 
@@ -554,9 +554,9 @@
 
 561. Szociális hozzájárulási adó
 
-562.[^41]
+562.[^42]
 
-563. Szakképzési hozzájárulás
+563.[^43]
 
 569. Egyéb bérjárulékok
 
@@ -578,7 +578,7 @@
 
 599. Költségnemek átvezetési számla
 
-8.[^42] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
+8.[^44] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
 
 81. ANYAGJELLEGŰ RÁFORDÍTÁSOK
 
@@ -708,13 +708,13 @@
 
 891. Társasági adó
 
-892.[^43]
+892.[^45]
 
 893. Kisvállalati adó
 
 899. Eredményt terhelő egyéb adók
 
-9.[^44] SZÁMLAOSZTÁLY BEVÉTELEK
+9.[^46] SZÁMLAOSZTÁLY BEVÉTELEK
 
 91. BELFÖLDI ÉRTÉKESÍTÉS ÁRBEVÉTELE
 
@@ -826,8 +826,10 @@
 [^37]: A 3. melléklet korábbi 1499. pontjának számozását a 480/2016. (XII. 28.) Korm. rendelet 98. §-a 1599.-re változtatta, illetve a pont szövege a 98. §-ával megállapított szöveg.
 [^38]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
 [^39]: A 3. melléklet 419. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
-[^40]: A 3. számú melléklet 4. pont 45–47. alpont 475. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^41]: A 3. számú melléklet 5. pont 56. alpont 562. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^42]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
-[^43]: A 3. számú melléklet 8. pont 891. alpont 892. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^44]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^40]: A 3. melléklet 4. pont 45–47. alpont 474. pontját a 441/2025. (XII. 23.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte.
+[^41]: A 3. számú melléklet 4. pont 45–47. alpont 475. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^42]: A 3. számú melléklet 5. pont 56. alpont 562. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^43]: A 3. melléklet 5. pont 56. alpont 563. pontját a 441/2025. (XII. 23.) Korm. rendelet 34. § b) pontja hatályon kívül helyezte.
+[^44]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^45]: A 3. számú melléklet 8. pont 891. alpont 892. alpontját a 343/2019. (XII. 23.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^46]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.

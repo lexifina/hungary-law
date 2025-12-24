@@ -12,7 +12,7 @@ b) a könyvviteli szolgáltatást végzőre vonatkozó, az Szt. 88. § (9) bekez
 
 c) a kapcsolt felekkel lebonyolított ügyletekre vonatkozó, az Szt. 89. § (6) bekezdése szerinti információkat, ilyen ügylet hiányában ennek tényét,
 
-d)[^2] a 200 ezer forint egyedi bekerülési érték alatti vagyoni értékű jogok, szellemi termékek, tárgyi eszközök (a továbbiakban: kis értékű eszközök) egy összegű értékcsökkenési leírásánál alkalmazott értékhatárt, ha az kisebb, mint 200 ezer forint,
+d)[^2] az Szt. 80. § (2) bekezdésében meghatározott egyedi bekerülési érték alatti vagyoni értékű jogok, szellemi termékek, tárgyi eszközök (a továbbiakban: kis értékű eszközök) egy összegű értékcsökkenési leírásánál alkalmazott értékhatárt, ha az kisebb, mint az Szt. 80. § (2) bekezdésében meghatározott érték,
 
 e) ha a készletekről év közben értékbeni nyilvántartást vezet, annak tényét,
 
@@ -20,5 +20,5 @@ f) a 13. § szerinti mikrogazdálkodónál a 13. § szerinti eljárások alkalma
 
 (4)[^3] A mikrogazdálkodó a (3) bekezdés d)–f) pontja szerint rögzített választásától leghamarabb három, mikrogazdálkodói beszámolóval lezárt üzleti év után térhet el.
 
-[^2]: A 4. § (3) bekezdés d) pontja az 518/2013. (XII. 30.) Korm. rendelet 67. § (1) bekezdésével megállapított, a 343/2019. (XII. 23.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdés d) pontja a 441/2025. (XII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^3]: A 4. § (4) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 67. § (2) bekezdése iktatta be.

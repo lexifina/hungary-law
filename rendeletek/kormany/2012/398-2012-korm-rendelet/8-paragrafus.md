@@ -14,7 +14,7 @@
 
 (7)[^14] A kis értékű eszközök értékcsökkenését – a (8) bekezdés kivételével – egy összegben kell elszámolni.
 
-(8)[^15] A mikrogazdálkodó – a (7) bekezdéstől eltérően – a kis értékű eszközök egyösszegű leírása során 200 ezer forintnál kisebb értékhatárt is választhat. Ebben az esetben azonos értékhatárt kell alkalmazni minden kis értékű eszköz terv szerinti értékcsökkenésének elszámolása során.
+(8)[^15] A mikrogazdálkodó – a (7) bekezdéstől eltérően – a kis értékű eszközök egyösszegű leírása során az Szt. 80. § (2) bekezdésében meghatározott értéknél kisebb értékhatárt is választhat. Ebben az esetben azonos értékhatárt kell alkalmazni minden kis értékű eszköz terv szerinti értékcsökkenésének elszámolása során.
 
 [^14]: A 8. § (7) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 2. pontja szerint módosított szöveg.
-[^15]: A 8. § (8) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
+[^15]: A 8. § (8) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 19. § 2. pontja, a 441/2025. (XII. 23.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.

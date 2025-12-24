@@ -10,7 +10,7 @@
 
 | 4 | □ nem |
 
-| 5 | Kis értékű eszközök egy összegű leírásánál alkalmazott, 200 ezer forinttól eltérő értékhatár | … ezer forint |
+| 5 | Kis értékű eszközök egy összegű leírásánál alkalmazott, az Szt. 80. § (2) bekezdésében meghatározott értéktől eltérő értékhatár | … ezer forint |
 
 | 6 | A készletekről év közben folyamatos értékbeni nyilvántartást | □ vezet |
 
@@ -31,6 +31,8 @@
 | 14 | A 13. § szerinti mikrogazdálkodó a céltartalékképzési szabályokat alkalmazza | □ igen |
 
 | 15 | □ nem |
+
+## 9K10340N_1
 
 |  |  | ezer forintban |
 
