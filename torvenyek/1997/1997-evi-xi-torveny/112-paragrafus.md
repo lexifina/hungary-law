@@ -28,9 +28,9 @@ c) a földrajzi árujelző-oltalom megszűnésének megállapítása;
 
 d)
 
-e) az eredetmegjelölés nemzetközi bejelentésének továbbítása;
+e)
 
-f) a Nemzetközi Iroda által lajstromozott nemzetközi eredetmegjelölés és földrajzi jelzés Magyarországra kiterjedő oltalmának végleges elutasítása.
+f)
 
 (5) A (4) bekezdés b) és c) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 

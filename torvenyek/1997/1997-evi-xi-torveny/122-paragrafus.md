@@ -12,7 +12,7 @@ való megfelelést szolgálja.
 
 a) az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendeletnek;
 
-b)
+b) a kézműves és ipari termékek földrajzi jelzéseinek oltalmáról, valamint az (EU) 2017/1001 és az (EU) 2019/1753 rendelet módosításáról szóló, 2023. október 18-i (EU) 2023/2411 európai parlamenti és tanácsi rendeletnek;
 
 c)
 
