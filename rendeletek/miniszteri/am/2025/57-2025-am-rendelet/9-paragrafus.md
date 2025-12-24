@@ -1,1 +1,3 @@
-9. § A 37/2025. (VIII. 13.) AM rendelet 2. § (2) bekezdésében az „ötvenmillió” szövegrész helyébe a „százmillió” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

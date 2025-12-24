@@ -20,12 +20,6 @@
 
 ## 1. A tenyészkos és tenyészbak tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 74/2016. (XI. 29.) FM rendelet módosítása
 
-1. § A tenyészkos és tenyészbak tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 74/2016. (XI. 29.) FM rendelet
+1. §[^2]
 
-a) 2. § (2) bekezdés a) pontjában a „75 000 forint” szövegrész helyébe a „100 000 forint” szöveg,
-
-b) 2. § (2) bekezdés b) pontjában a „160 000 forint” szövegrész helyébe a „200 000 forint” szöveg,
-
-c) 2. § (2) bekezdés c) pontjában a „120 000 forint” szövegrész helyébe a „150 000 forint” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

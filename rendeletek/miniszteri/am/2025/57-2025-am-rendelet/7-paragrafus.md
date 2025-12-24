@@ -1,7 +1,3 @@
-7. § Az 1/2025. (II. 11.) AM rendelet
+7. §[^8]
 
-a) 9. § (3) bekezdésében a „míg az ezt követő években benyújtott kérelmek esetén tárgyév” szövegrész helyébe az „a 2025. május 1. és június 30. napja között benyújtott kérelmek esetén 2025. december 31-ig, a 2026-ban benyújtott kérelmek esetén 2026.” szöveg, valamint
-
-b) 11. § (1) bekezdés m) pontjában az „elszámolható, a végrehajtó szervezetnél felmerülő költség” szövegrész helyébe az „elszámolható költség” szöveg
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
