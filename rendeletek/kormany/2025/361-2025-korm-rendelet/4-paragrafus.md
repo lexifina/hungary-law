@@ -56,6 +56,8 @@ b) az Otthontámogatás-igénybevételi – 5. § (1) bekezdés a) vagy b) pontj
 
 teljesíti.
 
+(11a)[^5] Ha az Otthontámogatásra jogosult 1. melléklet 1. pont 1.2.3. alpontja szerinti adóstársa a (11) bekezdés szerinti foglalkoztató foglalkoztatottja, akkor az Otthontámogatásra jogosult által az 1. melléklet szerinti kérelemben az adóstársára vonatkozóan megjelölt adatokat az adóstárs foglalkoztatójára vonatkozó adatok nélkül adja át az Otthontámogatásra jogosult foglalkoztatója részére. Az Otthontámogatásra jogosult foglalkoztatója az Otthontámogatásra jogosult adóstársának foglalkoztatójára vonatkozó adatok nélkül teljesíti adatszolgáltatását a Kincstár részére.
+
 (12) A tárgyévben igénybe vett támogatással
 
 a) a központi költségvetési szerv a maradványelszámolás során,
@@ -69,3 +71,5 @@ köteles elszámolni.
 (14) E rendelet szabályait a munkáltatóval nem rendelkező Otthontámogatásra jogosultra azzal az eltéréssel kell alkalmazni, hogy munkáltató alatt azt kell érteni, aki az e rendelet szerinti támogatásra jogosító jogviszony alapján díjazást biztosított a jogosult számára.
 
 (15) Központi költségvetési szerv esetén a támogatás előirányzat-átcsoportosítás útján valósul meg a munkáltató számára.
+
+[^5]: A 4. § (11a) bekezdését a 440/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

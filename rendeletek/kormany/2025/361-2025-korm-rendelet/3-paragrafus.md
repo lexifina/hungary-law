@@ -2,7 +2,7 @@
 
 3. § (1) Az 1. § szerinti, az államháztartás központi vagy önkormányzati alrendszerébe nem tartozó jogi személy munkáltató 2025. december 15. napjáig elektronikus úton bejelenti a Kincstár részére, hogy Otthontámogatást kíván nyújtani az általa foglalkoztatott Otthontámogatásra jogosultak számára.
 
-(2) Az (1) bekezdés alá tartozó, fenntartóval rendelkező munkáltató az előzetes igénybejelentést a fenntartójánál teszi meg. A fenntartó – annak ellenőrzését követően, hogy a munkáltató foglalkoztat-e olyan munkavállalót, aki jogosult lehet az Otthontámogatás igénybevételére – az (1) bekezdés szerint jár el.
+(2)[^4] Az (1) bekezdés alá tartozó, 1. § (1) bekezdés a) pontja szerinti önkormányzati alrendszerbe tartozó fenntartóval rendelkező és az 1. § (1) bekezdés b) pontja szerinti fenntartóval rendelkező munkáltató az előzetes igénybejelentést a fenntartójánál teszi meg. A fenntartó – annak ellenőrzését követően, hogy a munkáltató foglalkoztat-e olyan munkavállalót, aki jogosult lehet az Otthontámogatás igénybevételére – az (1) bekezdés szerint jár el.
 
 (3) A Kincstár a munkáltatókról és fenntartókról nyilvántartást vezet (a továbbiakban: munkáltatói regiszter). A munkáltatói regiszter adatait – munkáltatói adatszolgáltatás alapján, a 4. §-ban foglaltaknak megfelelően – frissíteni kell.
 
@@ -11,3 +11,5 @@
 (5) A munkáltatói regiszterben szereplő adatokat a Kincstár az Otthontámogatással kapcsolatos tájékoztatás céljából kezelheti az Otthontámogatásra való jogosultság érvényesítésére, illetve az Otthontámogatással összefüggő kötelezettségek teljesítésének az ellenőrzésére rendelkezésre álló időtartamban.
 
 (6) Az 1. § szerinti, az államháztartás központi vagy önkormányzati alrendszerébe tartozó jogi személy munkáltatót a Kincstár automatikusan szerepelteti a munkáltatói regiszterben.
+
+[^4]: A 3. § (2) bekezdése a 440/2025. (XII. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
