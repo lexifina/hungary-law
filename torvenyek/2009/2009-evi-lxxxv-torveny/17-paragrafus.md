@@ -6,7 +6,17 @@
 
 (4) A felek a keretszerződésben kiköthetik, hogy a határozatlan idejű keretszerződést a pénzforgalmi szolgáltató a 8. §-ban meghatározott módon felmondhatja. Két hónapnál rövidebb felmondási idő kikötése semmis kivéve, ha az ügyfél a keretszerződésben foglalt kötelezettségét súlyosan vagy ismételten megszegte.
 
-(4a) Fogyasztóval kötött fizetési számla vezetésére irányuló szerződést a pénzforgalmi szolgáltató a tartozás rendezésére vonatkozó, az ügyfél részére igazolható módon megküldött felszólítást követően két hónapos felmondási idővel felmondja, ha a fizetési számlán fél évet meghaladóan nem történik jóváírás, illetve az ügyfél által kezdeményezett terhelés, továbbá fél évet meghaladó késedelmes tartozás áll fenn és egyúttal a fizetési számla egyenlege negatív.
+(4a) Fogyasztóval kötött fizetési számla vezetésére irányuló szerződést a pénzforgalmi szolgáltató a tartozás rendezésére vonatkozó, az ügyfél részére igazolható módon megküldött felszólítást követően két hónapos felmondási idővel felmondja, ha a fizetési számlán fél évet meghaladóan nem történik jóváírás, illetve az ügyfél által kezdeményezett terhelés, továbbá fél évet meghaladó késedelmes tartozás áll fenn és egyúttal a fizetési számla egyenlege negatív. A felmondási kötelezettség nem terheli a pénzforgalmi szolgáltatót, ha a fizetési számla
+
+a) a pénzforgalmi szolgáltatóval, vagy azzal azonos – a Hpt. szerinti – csoportba tartozó pénzügyi intézménnyel kötött másik és meg nem szűnt szerződés teljesítési helyeként szolgál,
+
+b) büntetőeljárásban elrendelt zár alá van helyezve,
+
+c) a fizetési számla megszüntetése ellehetetleníti a számlatulajdonos pénzforgalmi szolgáltatóval szembeni kötelezettségeinek teljesítését,
+
+d) a fizetési számla megszüntetése hatósági rendelkezés céljával ellentétes vagy annak végrehajtását meghiúsítja, vagy
+
+e) bírósági végrehajtási eljárásban elrendelt biztosítási intézkedés hatálya alatt áll.
 
 (4b) Ha a pénzforgalmi szolgáltató hitelt érdemlő módon tudomást szerzett az ügyfél elhalálozásáról, akkor a jogerős, teljes hatályú hagyatékátadó végzés vagy öröklési bizonyítvány pénzforgalmi szolgáltató részére történő benyújtásáig a (4a) bekezdésben meghatározott felmondási kötelezettség nem terheli a pénzforgalmi szolgáltatót.
 
