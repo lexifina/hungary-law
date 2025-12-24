@@ -60,6 +60,8 @@
 
 | Határidő: | a 2027. évtől az adott évi központi költségvetés tervezése során |
 
-## 2. A címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1060/2025. (III. 13.) Korm. határozat 1. pont b) alpontjában a „2027. szeptember 30.” szövegrész helyébe a „2027. szeptember 30., a Kulturális örökségvédelmi és egyéb feladatok jogcímcsoport részére biztosított 5 875 000 000 forint tekintetében 2028. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1578/2025. (XII. 23.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
