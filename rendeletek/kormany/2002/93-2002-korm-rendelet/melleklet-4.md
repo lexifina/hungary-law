@@ -2,7 +2,7 @@
 
 ## A könyvviteli szolgáltatást végzők igazolványa az alábbi adatokat tartalmazza:
 
-## 1.[^188] Kibocsátó szervezet megnevezése: „Nemzetgazdasági Minisztérium”;
+## 1.[^191] Kibocsátó szervezet megnevezése: „Nemzetgazdasági Minisztérium”;
 
 ## 2. Igazolvány megnevezése: „Könyvviteli szolgáltatást végzők igazolványa”;
 
@@ -22,7 +22,7 @@
 
 ## 7. Fénykép;
 
-## 8.[^189] „A nemzetgazdasági miniszter ................................-t a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából ..................... számon nyilvántartásba vette, aki így könyvviteli szolgáltatási tevékenység folytatására jogosult.”
+## 8.[^192] „A nemzetgazdasági miniszter ................................-t a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából ..................... számon nyilvántartásba vette, aki így könyvviteli szolgáltatási tevékenység folytatására jogosult.”
 
 ## 9. Igazolvány érvényességi ideje;
 
@@ -30,8 +30,8 @@
 
 ## 11. Kibocsátó aláírása, bélyegző lenyomata.
 
-4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^190]
+4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^193]
 
-[^188]: A 3. számú melléklet 1. pontja a 78/2025. (IV. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^189]: A 3. számú melléklet 8. pontja a 78/2025. (IV. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^190]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése szerint módosított szöveg.
+[^191]: A 3. számú melléklet 1. pontja a 78/2025. (IV. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^192]: A 3. számú melléklet 8. pontja a 78/2025. (IV. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^193]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése szerint módosított szöveg.

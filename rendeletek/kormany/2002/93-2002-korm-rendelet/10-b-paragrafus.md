@@ -42,15 +42,33 @@ b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
 
 foglaltak, valamint az igazgatási szolgáltatási díj megfizetésének igazolásával, a 12. számú mellékletben meghatározott adattartalommal nyújthatja be a nyilvántartásba vételt végző szervezetnek.
 
-(10)[^129] A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti szakmai konzultáción, képzésen, szakmai rendezvényen történő részvételi jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (7) bekezdés szerinti legfeljebb 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.
+(9a)[^129] A szakmai szervezetként minősített szervezetet a nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatást végzők továbbképzésében közreműködő szakmai szervezetként veszi nyilvántartásba.
+
+(10)[^130] A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti szakmai konzultáción, képzésen, szakmai rendezvényen történő részvételi jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (7) bekezdés szerinti legfeljebb 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.
 
 (11) A (7)–(8) bekezdés alkalmazásában szakmai szervezet tagja az a természetes személy, aki a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek. A szakmai szervezet tagjának minősül az a természetes személy is, akinek foglalkoztatója a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek, feltéve, hogy foglalkoztatója nevében a szakmai szervezet által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken jogosult részt venni.
 
-(12)[^130]
+(12)[^131] A (9a) bekezdés szerint nyilvántartásba vett szakmai szervezet a szakmai szervezeti minősítés feltételeit érintő változásokat azok bekövetkezését követő 8 napon belül, a nyilvántartásban szereplő adataiban bekövetkezett változásokat azok bekövetkezését követő 60 napon belül köteles bejelenteni a 12. számú mellékletben meghatározott adattartalommal és az adatváltozást igazoló dokumentum csatolásával a nyilvántartásba vételt végző szervezetnél.
 
-(13)[^131]
+(13)[^132] A (9a) bekezdés szerinti szakmai szervezeti minősítés annak visszavonásáig hatályos. A minősítés visszavonását és ezzel együtt a nyilvántartásból való törlés tényét a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon közzéteszi.
 
-(14)[^132] A számviteli törvény 151. § (5) bekezdés b) pont bd) alpontja szerinti szakmai továbbképzési kötelezettség teljesítésére a (7)–(11) bekezdés, valamint a 9/A. § előírásai nem alkalmazhatóak.
+(13a)[^133] A nyilvántartásba vételt végző szervezet visszavonja a minősítést, és törli a szervezetet a szakmai szervezetek nyilvántartásából, ha
+
+a) a szervezet két egymást követő továbbképzési évben (10) bekezdés szerinti bejelentést nem tesz,
+
+b) megállapítást nyer, hogy a szervezet a (8)–(8b) bekezdésben foglalt feltételeknek a minősítési eljárás időpontjában nem felelt meg, vagy ezen feltételek már nem állnak fenn,
+
+c) azt a szervezet maga kérelmezi,
+
+d) a szervezet jogutód nélkül szűnt meg,
+
+e) a szervezet a (12) bekezdés szerinti, a minősítés feltételeit érintő változások bejelentési kötelezettségét elmulasztja, vagy
+
+f) a szervezet a (12) bekezdés szerinti adatváltozás-bejelentési kötelezettségét elmulasztja, és e kötelezettségének a nyilvántartásba vételt végző szervezet felszólítását követően sem tesz eleget.
+
+(13b)[^134] A szakmai szervezeti minősítési eljárás során az Ákr. rendelkezéseit kell alkalmazni a számviteli törvényben és az e rendeletben foglaltak figyelembevételével.
+
+(14)[^135] A számviteli törvény 151. § (5) bekezdés b) pont bd) alpontja szerinti szakmai továbbképzési kötelezettség teljesítésére a (7)–(11) bekezdés, valamint a 9/A. § előírásai nem alkalmazhatóak.
 
 [^119]: A 10/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be, szövege a 357/2012. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^120]: A 10/B. § (2) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
@@ -62,7 +80,10 @@ foglaltak, valamint az igazgatási szolgáltatási díj megfizetésének igazol�
 [^126]: A 10/B. § (8b) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^127]: A 10/B. § (8c) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^128]: A 10/B. § (9) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított, záró szövegrésze a 445/2017. (XII. 27.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
-[^129]: A 10/B. § (10) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^130]: A 10/B. § (12) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 28. § 4. pontja hatályon kívül helyezte.
-[^131]: A 10/B. § (13) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be, , a 642/2023. (XII. 28.) Korm. rendelet 28. § 4. pontja hatályon kívül helyezte.
-[^132]: A 10/B. § (14) bekezdését a 719/2021. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 642/2023. (XII. 28.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.
+[^129]: A 10/B. § (9a) bekezdését a 441/2025. (XII. 23.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^130]: A 10/B. § (10) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^131]: A 10/B. § (12) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 28. § 4. pontja hatályon kívül helyezte, újonnan a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^132]: A 10/B. § (13) bekezdését újonnan a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^133]: A 10/B. § (13a) bekezdését a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^134]: A 10/B. § (13b) bekezdését a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^135]: A 10/B. § (14) bekezdését a 719/2021. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 642/2023. (XII. 28.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.

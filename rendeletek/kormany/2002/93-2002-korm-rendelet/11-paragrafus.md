@@ -2,6 +2,6 @@
 
 11. § (1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-(2)[^169]
+(2)[^172]
 
-[^169]: A 11. § (2) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^172]: A 11. § (2) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.

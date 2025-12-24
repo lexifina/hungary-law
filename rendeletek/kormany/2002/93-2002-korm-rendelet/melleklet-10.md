@@ -1,4 +1,4 @@
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^216]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^219]
 
 ADATLAP
 
@@ -90,4 +90,4 @@ e) „Kijelentem, hogy akkreditált szervezetünk elektronikus továbbképzési 
 
 6. Cégszerű aláírás
 
-[^216]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 23. § 3. pontjával megállapított, a 616/2020. (XII. 21.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^219]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 23. § 3. pontjával megállapított, a 616/2020. (XII. 21.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
