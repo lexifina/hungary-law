@@ -14,9 +14,11 @@
 
 a) ha az nem olyan földrészletekre vonatkozik, amelyeket az önkormányzat a településrendezési tervben meghatározott célra 4 éven belül ténylegesen felhasználni tervez,
 
-b) ha az olyan területfelhasználási célra irányul, amely a település belterületén beépítésre kijelölt, de még fel nem használt területén megvalósítható, vagy
+b) ha az olyan területfelhasználási célra irányul, amely a település belterületén beépítésre kijelölt, de még fel nem használt területén megvalósítható,
 
-c) ha a kérelemben és a képviselő-testületi döntésben megjelölt földrészletek nem azonosak.
+c) ha a kérelemben és a képviselő-testületi döntésben megjelölt földrészletek nem azonosak, vagy
+
+d) ha a kérelem benyújtását megelőzően az önkormányzat részére engedélyezett bármilyen célú belterületbe vonást engedélyező határozat alapján a tényleges felhasználásra 4 éven belül nem került sor, és az önkormányzat nem intézkedett a terület külterületbe visszacsatolása iránt.
 
 (6) Új község alakítása, településegyesítés megszüntetése esetén a belterületbe vonás során, valamint zártkerti ingatlannak a belterületbe vonása során a (2) bekezdés utolsó mondatát, a (3)–(5) bekezdés rendelkezéseit, továbbá a 11. § (2) bekezdésének első mondatát nem kell alkalmazni.
 

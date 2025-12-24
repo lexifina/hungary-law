@@ -12,7 +12,7 @@ d) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI
 
 e) halastó létesítése
 
-f) véglegessé vált vízjogi létesítési engedélyben meghatározott vízkivételt biztosító vízilétesítmény vagy mezőgazdasági vízellátást szolgáló vízilétesítmény, valamint az ezekhez kapcsolódó műtárgyak létesítése, illetve építési engedélyezés hatálya alá nem tartozó, öntözéshez kapcsolódó építmények létesítése, vagy
+f) vízkivételt biztosító vízilétesítmény, legfeljebb 2 hektár területű, mezőgazdasági vízellátást vagy öntözést szolgáló vízilétesítmény, valamint az ezekhez kapcsolódó műtárgyak vagy építmény létesítése,
 
 g) az országos jégkármegelőző rendszer kiépítése és működtetése
 
@@ -21,6 +21,10 @@ h) kis teljesítményű erőmű földműves tulajdonos, vagy földműves földha
 i) kis teljesítményű erőműnek a h) pont alá nem tartozó személy által az átlagosnál gyengébb minőségű, de legfeljebb hektáronként 15 AK értékű termőföldön történő létesítése, üzemeltetése
 
 j) a kulturális örökség egyes elemeinek fenntartható fejlesztéséről szóló törvény szerinti ingatlan rendeltetésszerű használata
+
+k) legfeljebb 2 hektár területű vízkárelhárítási célú vízilétesítmény létesítése,
+
+l) közjóléti tevékenységgel összefüggésben épített és használt sípálya és annak műszaki tartozékai létesítése vagy fenntartása
 
 céljából veszik igénybe.
 
@@ -32,7 +36,7 @@ b) műtárgy, illetve építmény alatt a magyar építészetről szóló törv�
 
 szerinti építményeket kell érteni.
 
-(2b) A (2) bekezdés f) pontjában meghatározott földvédelmi engedélyezési eljárás alóli mentesség megállapításához az ingatlanügyi hatóság a végleges vízjogi létesítési engedély beszerzése érdekében megkeresi a vízügyi hatóságot annak megállapítása érdekében, hogy a földvédelmi engedélyezési eljárás alóli mentesség alapjául szolgáló, a végleges más célú hasznosítás iránti kérelemben megjelölt cél, az igénybevétellel érintett terület és annak nagysága megegyezik-e a végleges vízjogi létesítési engedélyben foglaltakkal. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére.
+(2b) A (2) bekezdés f) pontja szerinti esetben az igénybevevő a más célú hasznosítást annak megkezdésétől számított 8 napon belül bejelenti az ingatlanügyi hatóságnak.
 
 (2c) A termőföld más célú hasznosítása mentes az ingatlanügyi hatóság utólagos hozzájárulása alól, ha a termőföldön természetes módon megjelenő víz állandó vízborítottságot eredményez, amelynek megtartása vízgazdálkodási szempontból szükséges és indokolt.
 

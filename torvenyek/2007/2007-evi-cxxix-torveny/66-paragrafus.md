@@ -30,7 +30,7 @@ c) a talajvédelmi terv készítésének részletes szabályait,
 
 d) a beruházások kiviteli és engedélyezési terveinek talajvédelmi követelményeit,
 
-e) a komposztok mezőgazdasági felhasználásának és minősítési rendszerének részletes szabályait,
+e) a mezőgazdasági komposztálás, valamint a komposztok mezőgazdasági felhasználásának és minősítési rendszerének részletes szabályait,
 
 f) gyümölcstermőhelyi kataszter részletes szabályait,
 

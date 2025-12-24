@@ -1,6 +1,6 @@
 5. melléklet a 2007. évi CXXIX. törvényhez
 
-A 26/A. § (2b) bekezdése szerinti nyilvántartás a következő adatokat tartalmazza:
+## A 26/A. § (2b) bekezdése szerinti nyilvántartás a következő adatokat tartalmazza:
 
 1. település;
 

@@ -1,6 +1,6 @@
 ## Újrahasznosítási eljárás
 
-6. § (1) A más célú hasznosítás megszüntetését követően, illetve a más célú hasznosítás 4 évet meghaladó szüneteltetése esetén az igénybevevő, illetve az igénybevevő személyének eredménytelen megállapítása esetén a terület tulajdonosa (ezen alcím alkalmazásában a továbbiakban együtt: igénybevevő) köteles a területet, de legalább a terület felét – a választása szerint – mező-, illetve erdőgazdasági művelésre alkalmassá tenni (a továbbiakban: újrahasznosítás).
+6. § (1) A más célú hasznosítás megszüntetését követően, illetve a más célú hasznosítás 4 évet meghaladó szüneteltetése esetén az igénybevevő, illetve az igénybevevő személyének eredménytelen megállapítása esetén a terület tulajdonosa (ezen alcím alkalmazásában a továbbiakban együtt: igénybevevő) köteles a területet, de legalább a terület felét – a választása szerint – mező-, illetve erdőgazdasági művelésre alkalmassá tenni (a továbbiakban: újrahasznosítás). Cél-kitermelőhely, anyagnyerő hely és külfejtéses bányászati tevékenység céljára igénybevett terület esetében az újrahasznosítás során a területet legelő vagy rét művelési ágba kell helyreállítani.
 
 (2) A más célú hasznosítás megszüntetését, illetve a más célú hasznosítás szüneteltetése esetén a 4 éves időtartam beálltát követő 60 napon belül az igénybevevő köteles a tervezett újrahasznosítást az ingatlanügyi hatóságnak bejelenteni, kivéve, ha
 

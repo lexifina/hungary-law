@@ -42,9 +42,9 @@
 
 10.10. egyéb;
 
-11. annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította-e;
+11. belterületbe vonás kivételével a 26/A. § (2a) bekezdés a) pontja szerinti esetben annak megjelölése, hogy a beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé vagy kiemelt beruházássá, és a kiemelt beruházással összefüggő földvédelmi eljárást kiemelt jelentőségű üggyé nyilvánította-e;
 
-12. annak megjelölése, hogy a területet a Kormány beruházási célterületté nyilvánította-e;
+12. belterületbe vonás kivételével a 26/A. § (2a) bekezdés a) pontja szerinti esetben annak megjelölése, hogy a területet a Kormány beruházási célterületté nyilvánította-e;
 
 13. a földvédelmi engedély típusa – végleges más célú hasznosítást engedélyező határozat vagy az engedély nélküli más célú hasznosítás miatt indult eljárásban hozott utólagos engedélyező határozat;
 
@@ -59,3 +59,5 @@
 17.1. természetes személy természetes személyazonosító adatai, lakcíme és 2026. december 31-ig a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy személyi azonosítója,
 
 17.2. nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.
+
+18. az igénybevétel megkezdésének napja.

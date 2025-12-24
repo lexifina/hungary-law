@@ -12,7 +12,7 @@ d) a talajszerkezet károsodik.
 
 (1a) Nem minősül időleges más célú hasznosításnak az ingatlan-nyilvántartásban foktó jogi jelleggel nyilvántartott földrészleten természetes módon megjelenő időszakos vízborítottság akkor sem, ha az az (1) bekezdés szerinti következményekkel jár, feltéve, hogy a vízzel való folyamatos borítottság időtartama nem haladja meg az 1 évet.
 
-(1b) Nem minősül időleges más célú hasznosításnak a földrészleten begyűjtött terménynek, vagy mellékterméknek, illetve a területre kijuttatni tervezett istállótrágyának az időszerű mezőgazdasági munkavégzésnek megfelelő módon és időtartamban, de legfeljebb 6 hónapig a termőföldön történő átmeneti tárolása.
+(1b) Nem minősül időleges más célú hasznosításnak a földrészleten begyűjtött terménynek, vagy mellékterméknek, illetve a területre kijuttatni tervezett istállótrágyának és a mezőgazdasági komposztnak az időszerű mezőgazdasági munkavégzésnek megfelelő módon és időtartamban, de legfeljebb 6 hónapig a termőföldön történő átmeneti tárolása, azonban azt a tevékenység megkezdését megelőzően legalább 8 nappal be kell jelenteni az ingatlanügyi hatósághoz.
 
 (2) A termőföld időleges más célú hasznosítása csak meghatározott időre, legfeljebb 5 évre engedélyezhető. Az időlegesen más célra hasznosított termőföldet az igénybevevő az engedélyező határozatban megállapított határidő vagy határnap lejártáig – a (9) bekezdésben meghatározott eset kivételével – köteles az eredeti állapotába helyreállítani. Az engedélyező határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi terv szerint kell végrehajtani.
 

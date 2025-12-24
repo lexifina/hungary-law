@@ -61,3 +61,5 @@
 27. kezelt mederiszap: olyan mederiszap, amely szennyezőanyag tartalma miatt biológiai, fizikai, kémiai, vagy más megfelelő eljárást követően, a jogszabályi előírásoknak megfelelően helyezhető ki termőföldre.
 
 28. tájképi elem: az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet 8. és 9. cikke szerinti támogatásokra vonatkozó eljárás során ekként használt fogalom.
+
+29. mezőgazdasági komposztálás: termőföldön végzett komposztálás, amelyhez mezőgazdasági termelőtevékenység során képződő növényi eredetű, nem veszélyes, természetes szerves anyagot használnak fel.
