@@ -18,6 +18,6 @@ b) aki nem áll jogi, államigazgatási, közgazdasági, pénzügyi vagy könyvv
 
 c) akivel szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok, és
 
-d) aki rendelkezik értékpapír-forgalmazói vizsgával, szakirányú felsőfokú végzettséggel és legalább 3 év pénztári vagyonkezelési, befektetési vagy portfoliókezelési gyakorlattal.
+d) aki rendelkezik szakirányú felsőfokú végzettséggel és legalább 3 év pénztári vagyonkezelési, befektetési vagy portfoliókezelési gyakorlattal.
 
 (6) Ha pénztárak mindegyike egyesülésük elhatározása előtt egyenként rendelkezik kormányrendelet szerinti olyan Magyarországon székhellyel rendelkező bank zártkörűen forgalomba hozott részvényével, amelynek kibocsátója eleget tesz a tőkepiacról szóló törvény szerinti, a nyilvánosan forgalomba hozott értékpapírral kapcsolatos tájékoztatási kötelezettségnek a pénztár felé, úgy a jogutód pénztár tekintetében a 37. § (5) bekezdésében foglaltaktól eltérően a zártkörűen működő részvénytársaságba történő befektetés esetén a bankban már meglévő tulajdoni részesedés mértékének 10 százalékos korlátra vonatkozó szabályát nem kell alkalmazni.
