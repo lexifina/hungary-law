@@ -12,6 +12,8 @@ d) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése
 
 e) a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
+f) a hitelgondozókról és a hitelfelvásárlókról, valamint a 2008/48/EK és a 2014/17/EU irányelv módosításáról szóló, 2021. november 24-i (EU) 2021/2167 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) E törvény
