@@ -14,6 +14,8 @@
 
 (5a) Az (5) bekezdéstől eltérően a tőzsde a Felügyelet engedélyével és ellenőrzése mellett értékpapírosítást elősegítő tanácsadói tevékenységet végző gazdasági társaságot is alapíthat és működtethet, amely gazdasági társaság részletes működési és eljárási szabályokat állapít meg, valamint tevékenysége során kiemelt figyelmet fordít az értékpapírosítással érintett befektetők érdekeinek védelmére.
 
+(5b) Az (5) bekezdéstől eltérően a tőzsde központi szerződő fél által működtetett klíringtagsági rendszerben történő részvétel érdekében befektetési vállalkozást is alapíthat és működtethet.
+
 (6) A tőzsde nem szerezhet olyan részesedést, illetőleg nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel.
 
 (7) A tőzsde saját tőkéje nem csökkenhet a jegyzett tőke alá a tőzsde alapításának engedélyezésétől számított második évtől kezdődően.

@@ -40,9 +40,9 @@ b) az (1) bekezdés b) pontja esetén a tárgyévet követő év január 15. nap
 
 c) az (1) bekezdés c) pontja esetén a részesedés megszerzését, illetve elidegenítését követő öt napon belül,
 
-d) az (1) bekezdés d) pontja esetén a kinevezést vagy választást megelőzően, illetve alkalmazása vagy megbízása megszűnését követő öt napon belül,
+d)
 
-e) az (1) bekezdés i) pontja esetén a cégbírósági határozat jogerőre emelkedését követő öt napon belül,
+e) az (1) bekezdés d) és i) pontja esetén a cégbírósági határozat jogerőre emelkedését követő öt napon belül,
 
 f) az (1) bekezdés j) pontja esetén a tudomásra jutástól számított öt napon belül,
 

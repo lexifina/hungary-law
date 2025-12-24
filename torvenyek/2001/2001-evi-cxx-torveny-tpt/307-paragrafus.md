@@ -12,7 +12,7 @@ b) aki – amennyiben nem természetes személy a 357. § (3a) bekezdésében fo
 
 c) aki (amely) elfogultságtól mentesen, az általános piaci érdekeket szem előtt tartva képes irányítani, illetve befolyásolni – mind szakmai, mind pénzügyi, gazdálkodási szempontból – a tőzsde megbízható, stabil, versenysemleges működését, és
 
-d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
+d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok és rendelkezik jó üzleti hírnévvel.
 
 (3) Köteles a Felügyelettől előzetesen engedélyt kérni, aki tőzsdében részesedést úgy kíván szerezni, vagy azt úgy kívánja módosítani, hogy közvetlen vagy közvetett tulajdoni részesedése vagy szavazati joga elérje a harminchárom, ötven, hatvanhat, hetvenöt, vagy a száz százalékos határértéket. A Felügyelet tulajdonszerzésre vonatkozó engedélye nem pótolja a Gazdasági Versenyhivatal engedélyét.
 
