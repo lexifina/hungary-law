@@ -1,3 +1,5 @@
 ## 6. A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet módosítása
 
-6. § A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet 2. § (1) bekezdés a) pontjában a „Honvédség” szövegrész helyébe a „Honvédség, a polgári nemzetbiztonsági szolgálatok” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
