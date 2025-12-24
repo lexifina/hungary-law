@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-60-00-00
 | 2022-08-02 | 2010. évi CXXX. törvény | 2021-60-00-00.10 |
 | 2023-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-60-00-00.11 |
 | 2023-01-02 | 2010. évi CXXX. törvény | 2021-60-00-00.12 |
+| 2025-12-24 | 2025. évi XCVII. törvény | 2021-60-00-00.15 |

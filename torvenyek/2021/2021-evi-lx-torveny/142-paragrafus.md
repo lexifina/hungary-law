@@ -12,4 +12,4 @@
 
 (6) A 106. § b) pontja 2023. január 1-jén lép hatályba.
 
-(7) A 46. § 2026. január 1-jén lép hatályba.
+(7) A 46. § 2027. január 1-jén lép hatályba.
