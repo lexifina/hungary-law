@@ -22,7 +22,7 @@
 
 ## 1.5. Ha több célra kívánja forgalmazni a biocid terméket, valamennyi terméktípus felsorolandó
 
-## 1.6.[^84]
+## 1.6.[^86]
 
 ## 1.7. Hatóanyag vagy hatóanyagok megnevezése, gyártójának neve, székhelye és telephelye címe.
 
@@ -32,7 +32,7 @@
 
 ## 1.9. Pontos és részletes összetétel [megnevezés (szabadnév, IUPAC/CA név), CAS-/EU-szám, mennyiség]
 
-## 1.10.[^85] Veszélyesnek minősülő biocid termékek esetében az 1907/2006/EK európai parlamenti és tanácsi rendelet szerint elkészített biztonsági adatlap
+## 1.10.[^87] Veszélyesnek minősülő biocid termékek esetében az 1907/2006/EK európai parlamenti és tanácsi rendelet szerint elkészített biztonsági adatlap
 
 ## 1.11. Dátum, név
 
@@ -86,196 +86,88 @@
 
 ## 4.6. Dátum, aláírás
 
-2. melléklet a 316/2013. (VIII. 28.) Korm. rendelethez[^86]
+2. melléklet a 316/2013. (VIII. 28.) Korm. rendelethez[^88]
 
-1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek kérelméhez szükséges adatok és dokumentumok
+1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek kérelméhez csatolandó adatok és dokumentumok
 
-1.1. A termék neve, hatóanyagainak megnevezése, kémiai összetétele (szerkezete), fizikai, kémiai tulajdonságai, CAS-, EINECS-szám
+1.1. A 6. pontban meghatározott alapadatok és alapdokumentumok
 
-1.2. Az előállításhoz felhasznált anyagok jegyzéke (kémiai elnevezések)
+1.2. A gyártótól független, akkreditált laboratórium által kiadott minőségi bizonyítvány (termékszabványokban meghatározott szennyezőkre vonatkozó mérési eredmények)
 
-1.3. A gyártó és forgalmazó cég neve, címe
+1.3. Valamennyi felhasználás tekintetében, valamennyi célszervezetre gyakorolt hatásosság mérési eredményeit tartalmazó, akkreditált laboratórium által kiadott jegyzőkönyv
 
-1.4. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
+1.4. A kockázatcsökkentő intézkedések, valamint az adagolás módjának és ellenőrzésének egyértelmű megadása
 
-1.5. A termék előállításának technológiája
+1.5. A termék vízben lévő koncentrációja meghatározásának módszere a felhasználási terület függvényében
 
-1.6. A gyártásra vonatkozó minőségbiztosítás
+2. Irtószerek és riasztószerek kérelméhez csatolandó adatok és dokumentumok
 
-1.7. Gyártótól független, akkreditált laboratórium által kiadott minőségi bizonyítvány (termékszabványokban meghatározott szennyezőkre vonatkozó mérési eredmények)
+2.1. A 6. pontban meghatározott alapadatok és alapdokumentumok
 
-1.8. Célszervezetre gyakorolt hatásosság mérési eredményei
+2.2. Irtószereknél a készítmény biológiai hatékonyságára vonatkozó vizsgálati adatok, különös tekintettel az egyes készítménytípusok (például: permetezhető koncentrátum, felhasználásra kész permet, felületkezelő aeroszol) hatástartóssági idejére (hány hét, illetve hónap)
 
-1.9. A termék felhasználási területe
+2.3. Riasztószereknél a készítmény biológiai hatékonyságára és hatástartósságára (hány óra távoltartó hatás) vonatkozó vizsgálati adatok, továbbá a személykezelésre szolgáló szerek ártalmatlanságát igazoló dermatológiai és egyéb releváns, humántoxikológiai teszt vagy kockázatbecslés eredménye
 
-1.10. Az adagolás módja és annak ellenőrzése
+2.4. Külföldi termékeknél az eredeti és angol nyelvű használati utasítás
 
-1.11. A termék ivóvízben lévő koncentrációja meghatározásának módszere
+2.5. Laboratóriumi hatásvizsgálatra szolgáló, a vizsgálat végrehajtásához szükséges mennyiségű termékminta a forgalmazni kívánt csomagolásban vagy más ország területén már forgalomban lévő, eredeti címkéjű kiszerelésben
 
-1.12. A gyártó által kibocsátott, eredeti biztonsági adatlap
-
-1.13. A keletkező hulladék elhelyezési terve
-
-1.14. Más (hazai vagy külföldi) engedély, illetve vizsgálati eredmény, ha rendelkezésre áll
-
-1.15. A címketerv, használati útmutató
-
-1.16.[^87] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
-
-1.17.[^88] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
-
-2. Irtószerek kérelméhez szükséges adatok és dokumentumok
-
-2.1. Az irtószer neve
-
-2.2. Az irtószer pontos összetétele az egyes összetevők megnevezésével, CAS- és EINECS-számával együtt (100%-ig)
-
-2.3. A kérelmező (magyarországi forgalmazó) neve, címe
-
-2.4. A gyártó neve, címe
-
-2.5. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
-
-2.6. A hatóanyag (hatóanyagok) és az adalékanyag (adalékanyagok) gyártótól (gyártóktól) származó eredeti biztonsági adatlapja
-
-2.7. A termék eredeti nyelvű, a gyártótól származó biztonsági adatlapja
-
-2.8. A termék magyar nyelvű biztonsági adatlapja
-
-2.9. A gyártástól számított eltarthatósági idő
-
-2.10. Töltési tömeg (tömegek), illetve térfogat (térfogatok) (ml vagy g)
-
-2.11. A csomagolás (csomagolások) formája és anyaga (anyagai)
-
-2.12. Tárolási feltételek
-
-2.13. Rovarirtó szereknél a készítmény biológiai hatékonyságára vonatkozó vizsgálati adatok, különös tekintettel egyes készítmények (például: permetező szer, felületkezelő aeroszol, rovarirtó permet) hatástartóssági idejére (például: hét, hónap)
-
-2.14. Rovarriasztó szereknél a készítmény biológiai hatékonyságára és hatástartósságára (óra) vonatkozó vizsgálati adatok, illetve a személykezelésre szolgáló rovar (szúnyog, kullancs) riasztó szer ártalmatlanságának bizonylata
-
-2.15. Külföldi termékeknél az eredeti nyelvű használati utasítás
-
-2.16. A készítmény magyar nyelvű használati utasítás-tervezete
-
-2.17. Külföldi termékeknél az eredeti címkével ellátott, laboratóriumi hatékonysági vizsgálatra szolgáló minta (ennek mennyisége a készítmény jellegétől függ)
-
-2.18. A gyártó cég nyilatkozata a kérelmező magyarországi forgalmazási jogáról és névhasználatáról
-
-2.19.[^89] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
-
-2.20.[^90] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
+2.6. A gyártó nyilatkozata a kérelmező magyarországi forgalmazási jogáról és névhasználatáról
 
 3. A 24/D. § (4) bekezdésében felsorolt fertőtlenítőszerek kérelmének adattartalma és a csatolandó dokumentumok
 
-3.1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
+3.1. A 6. pontban meghatározott alapadatok és alapdokumentumok
 
-3.2. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
+3.2. A gyártótól független, akkreditált laboratórium által elvégzett antimikrobiális hatást igazoló, Euronorm szabvány alapján végzett vizsgálatok jegyzőkönyve
 
-3.3. A biocid termék forgalmazója (név, cím, telefon, e-mail cím)
+3.3. Termékminta a forgalmazni kívánt csomagolásban vagy más ország területén már forgalomban lévő, eredeti címkéjű kiszerelésben
 
-3.4. A biocid termék biztonsági adatlapja (külföldi készítmény esetében magyar nyelvű biztonsági adatlap)
-
-3.5. A biocid termék teljes összetétele, a hatóanyag (hatóanyagok) megnevezése, CAS- vagy EC-száma, az összetevők funkcióinak leírása
-
-3.6. Az összetevők biztonsági adatlapja
-
-3.7. A biocid termék gyártástól számított szavatossági ideje, a munkaoldat felhasználhatósági ideje
-
-3.8. A forgalmazandó kiszerelési egységek
-
-3.9. A csomagolóanyag adatai
-
-3.10. A gyártótól független, akkreditált laboratórium által elvégzett antimikrobiális hatást igazoló, Euronorm szabvány alapján végzett vizsgálatok jegyzőkönyve
-
-3.11. Toxikológiai, ökotoxikológiai vizsgálati dokumentáció
-
-3.12. Külföldi engedélyek
-
-3.13. Anyag összeférhetőségi vizsgálatok
-
-3.14. Címke terv/Használati utasítás (külföldi készítmény esetében eredeti címke, a biocid termék felhasználási javaslata)
-
-3.15. Vizsgálati minta
-
-3.16. Minőségellenőrzési módszerek megadása
-
-3.17. Állattartó telepek fertőtlenítésére szolgáló termék esetén annak az időtartamnak a meghatározása, amelynek letelte után az állatok beengedhetők a fertőtlenített helyiségekbe
-
-3.18.[^91] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
-
-3.19.[^92] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
+3.4. Állattartó telepek fertőtlenítésére szolgáló termék esetén annak az időtartamnak a meghatározása, amelynek letelte után az állatok beengedhetők a fertőtlenített helyiségekbe
 
 4. A 24/D. § (5) bekezdése szerinti, kizárólag lakossági felhasználásra kerülő fertőtlenítő szerek kérelmének adattartalma és a csatolandó dokumentumok
 
-4.1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
+4.1. A 3. pontban meghatározott adatok és dokumentumok
 
-4.2. A termék hatóanyaga vagy hatóanyagai gyártójának neve, székhelye és telephelye címe
+5. A 24/E. §-ban felsorolt fertőtlenítőszerek kérelméhez csatolandó adatok és dokumentumok
 
-4.3. A biocid termék forgalmazója (név, cím, telefon, e-mail cím)
+5.1. A 6. pontban meghatározott alapadatok és alapdokumentumok
 
-4.4. A biocid termék biztonsági adatlapja (külföldi készítmény esetén magyar nyelvű is)
+5.2. Gyártótól független, akkreditált laboratórium által elvégzett antimikrobiális hatást igazoló, Euronorm szabvány vagy annak hiányában azzal egyenértékű más, tudományosan igazolt módszer alapján végzett vizsgálatok jegyzőkönyve
 
-4.5. A biocid termék teljes összetétele, a hatóanyag/ok megnevezése, CAS- vagy EC száma, mennyisége
+6. A kérelemhez csatolandó alapadatok és alapdokumentumok
 
-4.6. Az összetevők funkcióinak leírása, valamint CAS- vagy EC száma, ha az összetevő ilyennel rendelkezik
+6.1. A biocid termék kereskedelmi neve
 
-4.7. A biocid termék gyártástól számított szavatossági ideje
+6.2. Engedélyes neve, székhelye, kapcsolattartójának telefonszáma, e-mail-címe
 
-4.8. A forgalmazandó kiszerelési egységek
+6.3. A biocid termék kérelmezett alkalmazása, annak terméktípusa, felhasználói kategóriája, felhasználási területe, a felhasználás releváns paraméterei
 
-4.9. A csomagolóanyag adatai
+6.4. A biocid termék pontos, teljes összetétele (100 m/m%-ig) az egyes összetevők megnevezésének, CAS- vagy EK-számának és funkciójának megadásával
 
-4.10. Akkreditált laboratórium által elvégzett antimikrobiális hatást igazoló, Euronorm szabvány vagy azzal egyenértékű más módszer alapján elvégzett vizsgálatok jegyzőkönyve
+6.5. A biocid termék gyártójának neve, székhelye és a gyártás helye
 
-4.11. Termékminta
+6.6. A biocid termék hatóanyaga(i) gyártójának neve, székhelye és a gyártás helye
 
-4.12. Címke vagy címketerv / Használati utasítás
+6.7. A biocid termék magyar nyelvű biztonsági adatlapja
 
-4.13.[^93] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
+6.8. A biocid termék eredeti nyelvű, a gyártótól származó biztonsági adatlapja
 
-4.14.[^94] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
+6.9. A biocid termék hatóanyaga(i) és egyéb összetevő(i) angol vagy magyar nyelvű biztonsági adatlapja(i)
 
-5. A 24/E. §-ban felsorolt fertőtlenítőszerek kérelméhez szükséges adatok és dokumentumok
+6.10. A biocid termék gyártástól számított eltarthatósági ideje és a biocid termékre vonatkozó tárolási feltételek
 
-5.1. A kérelmező, a forgalmazó adatai (név, cím, telefon, e-mail)
+6.11. A forgalmazni kívánt összes kiszerelés töltési tömege, illetve térfogata, az egyes kiszerelésekhez tartozó csomagolás anyaga és formája, továbbá a lezárás módja
 
-5.2. A gyártó és a hatóanyaggyártó adatai (név, cím, telefon, e-mail)
+6.12. A termék és csomagolása biztonságos ártalmatlanítására vonatkozó előírások
 
-5.3. A termék neve, felhasználásának célja, a felhasználók köre, használati utasítás, felhasználási paraméterek
+6.13. Más (hazai vagy külföldi) engedély, illetve vizsgálati jegyzőkönyv, ha rendelkezésre áll
 
-5.4. A termék összetétele: hatóanyag (hatóanyagok) és az egyéb összetevők megnevezése (kémiai név, CAS-szám, EK-szám, Index-szám), a termék százalékos összetételének megadása, az összetevők funkciójának megadása
+6.14. A biocid termék magyar nyelvű címketerve és használati utasítás-tervezete
 
-5.5. A termék és minden összetevőjének biztonsági adatlapja
+6.15. Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának magyar nyelvű tervezete
 
-5.6. A termék összetevőinek minőségi bizonylata
+6.16. Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található minden hatóanyag valamely, az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyag. Szállítói lánc esetén a tagok közötti kapcsolatokat oly módon kell igazolni, hogy egy adott hatóanyag a 95. cikk (1) bekezdése szerinti listán szereplő cégtől egyértelműen végigkövethető legyen a terméket előállító céghez.
 
-5.7. A gyártás rövid leírása, a gyártásra vonatkozó minőségbiztosítás
-
-5.8. A termék fizikai-kémiai paraméterei, specifikációja, minőségi bizonylat, minőségellenőrzési paraméterek
-
-5.9. Hatásmód, hatékonyság, antimikrobiális spektrum, akkreditált laboratórium által kiadott, az EN-1276 és az EN-1650 szabványok szerint fehérjeterheléssel végzett mikrobiológiai vizsgálatok eredményei
-
-5.10. A címketerv
-
-5.11. Tárolási előírások, eltarthatóság, kiszerelési egység
-
-5.12. Toxikológiai, ökotoxikológiai vizsgálati dokumentáció
-
-5.13.[^95] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
-
-5.14.[^96] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
-
-[^84]: Az 1. melléklet 1. pont 1.6. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte.
-[^85]: Az 1. melléklet 1. pont 1.10. alpontja a 659/2023. (XII. 28.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^86]: A 2. mellékletet az 507/2017. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.
-[^87]: A 2. melléklet 1. pont 1.16. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^88]: A 2. melléklet 1. pont 1.17. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^89]: A 2. melléklet 2. pont 2.19. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^90]: A 2. melléklet 2. pont 2.20. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^91]: A 2. melléklet 3. pont 3.18. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^92]: A 2. melléklet 3. pont 3.19. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^93]: A 2. melléklet 4. pont 4.13. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^94]: A 2. melléklet 4. pont 4.14. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^95]: A 2. melléklet 5. pont 5.13. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^96]: A 2. melléklet 5. pont 5.14. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^86]: Az 1. melléklet 1. pont 1.6. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte.
+[^87]: Az 1. melléklet 1. pont 1.10. alpontja a 659/2023. (XII. 28.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^88]: A 2. mellékletet az 507/2017. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be, szövege a 418/2025. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.

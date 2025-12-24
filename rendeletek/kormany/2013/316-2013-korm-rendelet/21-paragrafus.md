@@ -12,7 +12,7 @@
 
 (4)[^43] Az (1) bekezdésben foglaltaktól eltérően az állat-egészségügyben felhasználásra kerülő biocid termék felhasználását – annak valamennyi hatóanyaga közösségi jegyzékbe történő felvételéig – a NÉBIH ellenőrzi. Az ellenőrzés eredményéről a NÉBIH az ellenőrzési jegyzőkönyv 30 napon belüli megküldésével tájékoztatja a járási hivatalt.
 
-(5)[^44]
+(5)[^44] Szándékoltan biocid termék előállítására szolgáló készülék csak az adott készüléket is magában foglaló, biocid termék forgalmazási és felhasználási engedély birtokában, az engedélyben foglalt feltételek betartása mellett forgalmazható és használható fel, amelyet az (1)–(2) és (4) bekezdés szerint kijelölt hatóság ellenőriz.
 
 (6)[^45] Ha a kapott ellenőrzési eredmény alapján annak szükségessége felmerül, az országos tisztifőorvos
 
@@ -26,6 +26,6 @@ b) a biocid termékkel kapcsolatosan az élelmiszerlánc területén kívül is 
 [^41]: A 21. § (2a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 109. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 240. § (2) bekezdés e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 119. § (3) bekezdés d)–e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^42]: A 21. § (3) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 52. §-a hatályon kívül helyezte.
 [^43]: A 21. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 229. § c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 119. § (3) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^44]: A 21. § (5) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 113. § a) pontja hatályon kívül helyezte.
+[^44]: A 21. § (5) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 113. § a) pontja hatályon kívül helyezte, újonnan a 418/2025. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
 [^45]: A 21. § (6) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 66. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 240. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^46]: A 21. § (6) bekezdés a) pontja a 250/2017. (IX. 5.) Korm. rendelet 51. §-a szerint módosított szöveg.
