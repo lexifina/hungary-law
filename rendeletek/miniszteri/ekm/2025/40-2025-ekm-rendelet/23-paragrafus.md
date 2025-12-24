@@ -1,1 +1,3 @@
-23. § Hatályát veszti a személyszállítási közszolgáltatási menetrendek egységes egyeztetési eljárásáról szóló 15/2010. (III. 5.) KHEM rendelet.
+23. §[^1]
+
+[^1]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
