@@ -8,10 +8,11 @@ b) a Jöt. 113. § (5) bekezdés b) pontja szerinti esetben a telephelyen tört�
 
 c) az adó-visszaigénylési jog érvényesítésével érintett kereskedelmi járművek forgalmi engedélye, bérelt kereskedelmi jármű esetén a bérleti szerződés,
 
-d) a közúti árufuvarozási vagy személyszállítási tevékenység folytatására jogosító engedély, saját számlás szállítás esetén a közúti áruszállítási vagy közúti személyszállítási igazolvány,
+d)[^115] a közúti árufuvarozási vagy személyszállítási tevékenység folytatására jogosító engedély, saját számlás szállítás esetén a közúti személyszállítási igazolvány,
 
 e) pénzügyi képviselő alkalmazása esetén a pénzügyi képviselővel kötött szerződés,
 
 f) az a)–e) pont szerinti, nem angol, német vagy francia nyelvű okiratok hiteles magyar nyelvű fordítása vagy rövid magyar nyelvű kivonata.
 
 [^114]: A 75. § a 23/2020. (XII. 30.) PM rendelet 2. §-ával megállapított szöveg.
+[^115]: A 75. § d) pontja a 47/2025. (XII. 23.) NGM rendelet 3. § a) pontja szerint módosított szöveg.

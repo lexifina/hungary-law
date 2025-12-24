@@ -1,4 +1,4 @@
-13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^211]
+13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^213]
 
 Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazható üzemanyag minőségi követelményei
 
@@ -726,4 +726,4 @@ Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazh
 
 | 16. | 2) Az EN ISO 8973 szabványt az MSZ EN 589:2024 szabvány C mellékletével együtt kell alkalmazni a jelzett hőmérsékleten. Belső, rutin minőségellenőrzés céljára az MSZ EN 589:2024 szabvány D mellékletében megadott értékek is használhatóak. |
 
-[^211]: A 13. melléklet a 20/2025. (VII. 7.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^213]: A 13. melléklet a 20/2025. (VII. 7.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -4,9 +4,9 @@
 
 (2) Az egy alkalommal megrendelhető zárjegy mennyisége a 21. melléklet szerinti zárjegy kiszerelési egységre megadott darabszám vagy annak egész számú többszöröse lehet.
 
-(3)[^137] Adóraktár legfeljebb az éves termeléshez, a bejegyzett kereskedő, az importáló és a jövedéki engedélyes kereskedő legfeljebb az éves beszerzéséhez szükséges mennyiségű zárjegykészletet tarthat.
+(3)[^138] Adóraktár legfeljebb az éves termeléshez, a bejegyzett kereskedő, az importáló és a jövedéki engedélyes kereskedő legfeljebb az éves beszerzéséhez szükséges mennyiségű zárjegykészletet tarthat.
 
-(4)[^138] Az eseti bejegyzett kereskedő beszerzésenként nyújthat be zárjegymegrendelést az állami adó- és vámhatósághoz.
+(4)[^139] Az eseti bejegyzett kereskedő beszerzésenként nyújthat be zárjegymegrendelést az állami adó- és vámhatósághoz.
 
-[^137]: A 93/B. § (3) bekezdése a 6/2023. (IX. 5.) PM rendelet 6. §-ával megállapított szöveg.
-[^138]: A 93/B. § (4) bekezdése a 6/2023. (IX. 5.) PM rendelet 6. §-ával megállapított szöveg.
+[^138]: A 93/B. § (3) bekezdése a 6/2023. (IX. 5.) PM rendelet 6. §-ával megállapított szöveg.
+[^139]: A 93/B. § (4) bekezdése a 6/2023. (IX. 5.) PM rendelet 6. §-ával megállapított szöveg.

@@ -8,6 +8,6 @@
 
 (4) A határozat eredeti példányát és a kiszabott bírság megfizetésének tényét igazoló nyugtát a jogsértő személy részére igazoltan át kell adni. Az átadott nyugta tartalmazza a határozatot hozó szerv megnevezését, a jövedéki bírság kiszabásáról rendelkező határozat számát, a jogsértő személy nevét és adóazonosító számát, annak hiányában a személyazonosító igazolvány (útlevél) számát, az államháztartási számla számlaszámát és a kiszabott jövedéki bírság összegét.
 
-(5)[^130] A kiszabott bírságnak a pénzforgalom lebonyolításáról szóló MNB rendelet szerinti azonnali átutalással történő megfizetéséről a (4) bekezdésben meghatározott nyugta kiállítására nem kerül sor. A befizetésről a jogsértő személy kérésére igazolást állít ki az ellenőrzést végző.
+(5)[^131] A kiszabott bírságnak a pénzforgalom lebonyolításáról szóló MNB rendelet szerinti azonnali átutalással történő megfizetéséről a (4) bekezdésben meghatározott nyugta kiállítására nem kerül sor. A befizetésről a jogsértő személy kérésére igazolást állít ki az ellenőrzést végző.
 
-[^130]: A 85. § (5) bekezdését a 7/2020. (VII. 30.) PM rendelet 7. §-a iktatta be.
+[^131]: A 85. § (5) bekezdését a 7/2020. (VII. 30.) PM rendelet 7. §-a iktatta be.

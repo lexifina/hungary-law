@@ -1,4 +1,4 @@
-2. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^198]
+2. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^200]
 
 Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
@@ -50,7 +50,7 @@ Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
 4.1.3. egyéb felhasználás
 
-4.2.[^199] Értékesített vagy szállított mennyiség [kiszerelt mennyiség (kiszerelési egységenként és darabszámban), tételszám, időpont, bizonylat száma, vevő megnevezése, jövedéki engedélyszáma vagy nyilvántartási száma és telephelye címe szerinti bontásban]
+4.2.[^201] Értékesített vagy szállított mennyiség [kiszerelt mennyiség (kiszerelési egységenként és darabszámban), tételszám, időpont, bizonylat száma, vevő megnevezése, jövedéki engedélyszáma vagy nyilvántartási száma és telephelye címe szerinti bontásban]
 
 4.2.1. Egyéb ellenőrzött ásványolaj 5 liternél/5 kilogrammnál nagyobb kiszerelésben
 
@@ -64,7 +64,7 @@ Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
 4.2.2.2. nyilvántartásba vett felhasználónak
 
-4.2.2.3.[^200] exportra vagy másik tagállamba történő kiszállításra
+4.2.2.3.[^202] exportra vagy másik tagállamba történő kiszállításra
 
 4.2.2.4. más személy részére adófizetési kötelezettség keletkezése mellett
 
@@ -108,6 +108,6 @@ Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
 5.2. kiszerelt mennyiség (kiszerelési egységenként és darabszámban)
 
-[^198]: A 2. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (2) bekezdésével megállapított szöveg.
-[^199]: A 2. melléklet 4. pont 4.2. alpontja a 6/2023. (IX. 5.) PM rendelet 11. § c) pontjával megállapított szöveg.
-[^200]: A 2. melléklet 4. pont 4.2. alpont 4.2.2. pont 4.2.2.3. alpontja a 20/2025. (VII. 7.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^200]: A 2. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^201]: A 2. melléklet 4. pont 4.2. alpontja a 6/2023. (IX. 5.) PM rendelet 11. § c) pontjával megállapított szöveg.
+[^202]: A 2. melléklet 4. pont 4.2. alpont 4.2.2. pont 4.2.2.3. alpontja a 20/2025. (VII. 7.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.

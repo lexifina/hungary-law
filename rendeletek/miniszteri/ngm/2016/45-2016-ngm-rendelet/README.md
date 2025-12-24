@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-45-20-2
 | 2025-07-08 | 2016-45-20-2X.24 | 20/2025. (VII. 7.) NGM rendelet |
 | 2025-07-22 | 2016-45-20-2X.27 | 20/2025. (VII. 7.) NGM rendelet |
 | 2025-08-07 | 2016-45-20-2X.25 | 20/2025. (VII. 7.) NGM rendelet |
+| 2025-12-24 | 2016-45-20-2X.28 | 47/2025. (XII. 23.) NGM rendelet |
