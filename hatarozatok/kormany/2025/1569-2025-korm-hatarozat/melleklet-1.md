@@ -42,8 +42,10 @@
 
 | Határidő: | az e határozat közzétételét követő hat hónapon belül |
 
-## 2. Az egyes állami vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 1378/2020. (VII. 10.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
 1. melléklet az 1569/2025. (XII. 23.) Korm. határozathoz
 
 Helyi önkormányzat tulajdonába kerülő ingatlanok jegyzéke
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
