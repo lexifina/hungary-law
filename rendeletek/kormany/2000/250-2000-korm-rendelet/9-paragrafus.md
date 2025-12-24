@@ -8,7 +8,7 @@
 
 (4)[^106] A hitelintézet a devizaeszközt és devizakötelezettséget az MNB által közzétett, a hónap utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden hónap utolsó napján és a mérleg fordulónapi értékelés során. A pénzügyi vállalkozás a devizaeszközt és devizakötelezettséget az MNB által közzétett, a negyedév utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden negyedév utolsó napján és a mérleg fordulónapi értékelés során.
 
-(5)[^107] A hitelintézetnek az MNB által nem jegyzett külföldi pénzértékre szóló követeléseket és kötelezettségeket, illetve deviza- és valutakészleteket országos napilapnak a világ valutáinak árfolyamaira vonatkozó tájékoztatójában közzétett, a hónap utolsó napján és az év utolsó napján érvényes középárfolyamon, ennek hiányában pedig a hitelintézet által az értékelést megelőző legutolsó hónapban alkalmazott átlagos középárfolyamon kell értékelni. A pénzügyi vállalkozásnak az MNB által nem jegyzett külföldi pénzértékre szóló követeléseket és kötelezettségeket, illetve deviza- és valutakészleteket országos napilapnak a világ valutáinak árfolyamaira vonatkozó tájékoztatójában közzétett, a negyedév utolsó napján és az év utolsó napján érvényes középárfolyamon, ennek hiányában pedig valamely hitelintézet által az értékelést megelőző legutolsó hónapban alkalmazott átlagos középárfolyamon kell értékelni.
+(5)[^107] A hitelintézetnek az MNB által nem jegyzett külföldi pénzértékre szóló követeléseket és kötelezettségeket, illetve deviza- és valutakészleteket a hónap utolsó napján és az év utolsó napján érvényes középárfolyamon, ennek hiányában pedig a hitelintézet által az értékelést megelőző legutolsó hónapban alkalmazott átlagos középárfolyamon kell értékelni. A pénzügyi vállalkozásnak az MNB által nem jegyzett külföldi pénzértékre szóló követeléseket és kötelezettségeket, illetve deviza- és valutakészleteket a negyedév utolsó napján és az év utolsó napján érvényes középárfolyamon, ennek hiányában pedig valamely hitelintézet által az értékelést megelőző legutolsó hónapban alkalmazott átlagos középárfolyamon kell értékelni.
 
 (6) A hitelintézet dönthet úgy, hogy a devizaeszközeit, valamint devizakötelezettségeit naponta a saját maga által jegyzett, illetve az MNB által közzétett hivatalos devizaárfolyamon átszámított forintértékre átértékeli.
 
@@ -48,7 +48,7 @@ b)[^111] állományát, ha azok követelés ellenében – pénzügyi rendezés 
 
 [^105]: A 9. § (1) bekezdése a 357/2006. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
 [^106]: A 9. § (4) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^107]: A 9. § (5) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^107]: A 9. § (5) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 441/2025. (XII. 23.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^108]: A 9. § (8) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
 [^109]: A 9. § (9) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 57. § 2. pontja szerint módosított szöveg.
 [^110]: A 9. § (9) bekezdésének a) pontja a 397/2007. (XII. 27.) Korm. rendelet 10. § (1) bekezdése, a 480/2016. (XII. 28.) Korm. rendelet 58. § 3. pontja szerint módosított szöveg.
