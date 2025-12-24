@@ -16,6 +16,6 @@
 
 ## 1. A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet módosítása
 
-1. § A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: R1.) 16/B. § (7) bekezdés d) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A (4) bekezdésben meghatározott járműfejlesztői kérelemnek a következőket kell tartalmaznia:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
