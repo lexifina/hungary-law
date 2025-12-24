@@ -1,0 +1,9 @@
+# 47/2025. (XII. 23.) NGM rendelet
+
+a jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-47-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2025-12-24 | 2025-47-20-2X.1 | 47/2025. (XII. 23.) NGM rendelet |
