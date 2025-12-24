@@ -1,0 +1,13 @@
+121. § A 16. alcím a borokra, a szeszes italokra és a mezőgazdasági termékekre vonatkozó földrajzi árujelzőkről, valamint a hagyományos különleges termékekről és a mezőgazdasági termékek minőségére utaló választható kifejezésekről, az 1308/2013/EU, az (EU) 2019/787 és az (EU) 2019/1753 rendelet módosításáról, továbbá az 1151/2012/EU rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1143 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+|
+
+Dr. Sulyok Tamás s. k.,
+
+köztársasági elnök
+
+|
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke

@@ -1,0 +1,1 @@
+92. § A Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület tevékenységével érintett egyes állami tulajdonú ingatlanok vagyonkezelésének rendezéséről szóló 2019. évi XXXI. törvény a 3. melléklet szerinti 2. melléklettel egészül ki.

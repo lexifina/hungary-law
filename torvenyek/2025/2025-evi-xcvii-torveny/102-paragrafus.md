@@ -1,0 +1,1 @@
+102. § A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 32. § (3) bekezdésében a „13. § (10) bekezdése” szövegrész helyébe a „13. § (6a) és (10) bekezdése” szöveg lép.

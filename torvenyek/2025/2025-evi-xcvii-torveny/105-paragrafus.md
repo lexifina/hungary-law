@@ -1,0 +1,1 @@
+105. § A Jövő Nemzedék Földje Alapítványról, a Jövő Nemzedék Földje Alapítvány részére történő vagyonjuttatásról és az ezzel összefüggésben egyes törvények módosításáról szóló 2021. évi XV. törvény 6. § (1) bekezdésében az „a 3. §, az 1. melléklet, és a 2. melléklet” szövegrész helyébe az „a 3. §, a 3/A. §, az 1. melléklet, a 2. melléklet és a 3. melléklet” szöveg lép.
