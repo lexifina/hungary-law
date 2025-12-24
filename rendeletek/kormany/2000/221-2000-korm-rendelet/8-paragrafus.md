@@ -62,15 +62,19 @@ d) a bankszámlákkal kapcsolatos külön kezelési díjakat,
 
 e) az emissziós szolgáltatáshoz kapcsolódó (pénztári szolgálat, pénzszállítás, pénzfeldolgozás) bevételeket,
 
-f)[^44] a felügyeleti tevékenységből származó
+f)[^44] a felügyeleti és hatósági tevékenységből származó
 
 fa) felügyeleti díjakat,
 
 fb) igazgatási szolgáltatási díjakat,
 
-fc)[^45] kiszabott bírságokat.
+fc) kiszabott bírságokat,
 
-(8)[^46] A pénzügyi műveletek realizált nyereségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamnyereségét, a kapott (járó) osztalékot, valamint a Tv. szerint a pénzügyi műveletek bevételeibe tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett bevételeket.
+fd) hatósági vizsgadíjakat,
+
+fe) megtérítendő eljárási és egyéb költségeket.
+
+(8)[^45] A pénzügyi műveletek realizált nyereségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamnyereségét, a kapott (járó) osztalékot, valamint a Tv. szerint a pénzügyi műveletek bevételeibe tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett bevételeket.
 
 [^34]: A 8. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 210. §-a szerint módosított szöveg.
 [^35]: A 8. § (2) bekezdés e) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte, újonnan az 518/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be.
@@ -82,6 +86,5 @@ fc)[^45] kiszabott bírságokat.
 [^41]: A 8. § (6) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 10. §-ának (3) bekezdése hatályon kívül helyezte.
 [^42]: A 8. § (7) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^43]: A 8. § (7) bekezdés c) pontja a 445/2017. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^44]: A 8. § (7) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^45]: A 8. § (7) bekezdés f) pont fc) alpontja az 547/2022. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^46]: A 8. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^44]: A 8. § (7) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 441/2025. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^45]: A 8. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

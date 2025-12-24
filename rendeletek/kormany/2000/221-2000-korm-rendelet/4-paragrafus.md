@@ -6,7 +6,7 @@
 
 (2)[^13]
 
-(3)[^14] Az egyéb követelések között úton levő tételként kell nyilvántartani – tartozik egyenleg esetén – a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységgel kapcsolatos, valamint a GIRO Elszámolásforgalmi Zártkörűen Működő Részvénytársaság (a továbbiakban: GIRO Zrt.) elszámolásával összefüggő tételeket. Az egyéb követelések között kell kimutatni többek között a felügyeleti tevékenységből származó követeléseket (felügyeleti díjelőírásokat, kiszabott bírságokat) és a dolgozói kölcsönöket.
+(3)[^14] Az egyéb követelések között úton levő tételként kell nyilvántartani – tartozik egyenleg esetén – a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységgel kapcsolatos, valamint a GIRO Elszámolásforgalmi Zártkörűen Működő Részvénytársaság (a továbbiakban: GIRO Zrt.) elszámolásával összefüggő tételeket. Az egyéb követelések között kell kimutatni többek között a felügyeleti és hatósági tevékenységből származó követeléseket (felügyeleti díjelőírásokat, kiszabott bírságokat, igazgatási szolgáltatási díjakat, megtérítendő eljárási és egyéb költségeket) és a dolgozói kölcsönöket.
 
 (4) Az arany- és devizatartalékok között kell kimutatni:
 
@@ -45,7 +45,7 @@ f)[^18]
 (8)[^20] Aktív időbeli elhatárolásként kell kimutatni a mérleg fordulónapjáig járó, a mérlegfordulónap és a mérlegkészítés időpontja között esedékes és pénzügyileg realizált kamatok és jutalékok összegét, valamint a mérleg fordulónapjáig időarányosan járó, de a mérlegkészítés időpontjáig nem esedékes kamatok összegét.
 
 [^13]: A 4. § (2) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 10. §-ának (3) bekezdése hatályon kívül helyezte.
-[^14]: A 4. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 4. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított, a 441/2025. (XII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^15]: A 4. § (4) bekezdésének a) pontja a 242/2003. (XII. 17.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^16]: A 4. § (4) bekezdés b) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte.
 [^17]: A 4. § (4) bekezdés d) pontjának 3. alpontja a 242/2003. (XII. 17.) Korm. rendelet 1. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

@@ -1,4 +1,4 @@
-2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^107]
+2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^108]
 
 Az eredménykimutatás előírt tagolása
 
@@ -36,7 +36,7 @@ V. Egyéb bevételek
 
 2. Jutaléktól eltérő egyéb bevételek
 
-3.[^108] Felügyeleti tevékenységből származó bevételek
+3.[^109] Felügyeleti és hatósági tevékenységből származó bevételek
 
 VI. Céltartalék felhasználás
 
@@ -80,6 +80,8 @@ XV. Egyéb ráfordítások
 
 2. Jutaléktól eltérő egyéb ráfordítások
 
+3.[^110] Felügyeleti és hatósági tevékenységből származó ráfordítások
+
 XVI. Céltartalékképzés
 
 XVII. Értékvesztés
@@ -90,8 +92,9 @@ XIX. Ráfordítások összesen
 
 XX. Tárgyévi eredmény
 
-XXI–XXIII.[^109]
+XXI–XXIII.[^111]
 
-[^107]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^108]: A 2. számú melléklet V. rész 3. pontját az 518/2013. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
-[^109]: A 2. számú melléklet XXI–XXIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
+[^108]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^109]: A 2. számú melléklet „BEVÉTELEK” alcím „V. Egyéb bevételek” pont 3. alpontját az 518/2013. (XII. 30.) Korm. rendelet 8. §-a iktatta be, szövege a 441/2025. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^110]: A 2. számú melléklet „RÁFORDÍTÁSOK” alcím „XV. Egyéb ráfordítások” pont 3. alpontját a 441/2025. (XII. 23.) Korm. rendelet 22. §-a iktatta be.
+[^111]: A 2. számú melléklet XXI–XXIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.

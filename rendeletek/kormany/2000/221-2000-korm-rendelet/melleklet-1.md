@@ -1,4 +1,4 @@
-1. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^103]
+1. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^104]
 
 A mérleg előírt tagolása
 
@@ -52,11 +52,11 @@ VII. Kötelezettségek devizában
 
 VIII. Céltartalék
 
-IX. Banküzem egyéb forrásai[^104]
+IX. Banküzem egyéb forrásai[^105]
 
 X. Passzív időbeli elhatárolások
 
-## XI.[^105] Saját tőke
+## XI.[^106] Saját tőke
 
 1. Jegyzett tőke
 
@@ -68,11 +68,11 @@ X. Passzív időbeli elhatárolások
 
 5. Deviza-értékpapírok kiegyenlítési tartaléka
 
-6.[^106] Tárgyévi eredmény
+6.[^107] Tárgyévi eredmény
 
 XII. Források összesen
 
-[^103]: Az 1. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^104]: A 236/2001. (XII. 10.) Korm. rendelet 11. §-ának (1) bekezdése alapján az MNB 2001. évi mérlegében a banküzem egyéb forrásai között kimutatott kiegyenlítési tartalékok összegét 2002. január 1–jei nyitó rendező tételként –jellegétől függően– a saját tőkén belül a forint árfolyam kiegyenlítési tartalékába és a deviza-értékpapírok kiegyenlítési tartalékába kell átvezetni.
-[^105]: Az 1. számú mellékletben a XI. mérlegfőcsoport és annak tételei a 236/2001. (XII. 10.) Korm. rendelet 9. §-ával megállapított szöveg, e módosító rendelet 10. § b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^106]: Az 1. számú melléklet „XI. Saját tőke” pont 6. alpontja a 484/2015. (XII. 29.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^104]: Az 1. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^105]: A 236/2001. (XII. 10.) Korm. rendelet 11. §-ának (1) bekezdése alapján az MNB 2001. évi mérlegében a banküzem egyéb forrásai között kimutatott kiegyenlítési tartalékok összegét 2002. január 1–jei nyitó rendező tételként –jellegétől függően– a saját tőkén belül a forint árfolyam kiegyenlítési tartalékába és a deviza-értékpapírok kiegyenlítési tartalékába kell átvezetni.
+[^106]: Az 1. számú mellékletben a XI. mérlegfőcsoport és annak tételei a 236/2001. (XII. 10.) Korm. rendelet 9. §-ával megállapított szöveg, e módosító rendelet 10. § b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^107]: Az 1. számú melléklet „XI. Saját tőke” pont 6. alpontja a 484/2015. (XII. 29.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.

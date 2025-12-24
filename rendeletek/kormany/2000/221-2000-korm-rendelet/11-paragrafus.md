@@ -14,9 +14,9 @@
 
 (6) A törvényes fizetési eszköznek minősülő nemesfémérméket a pénzeszközök között – névértéken – kell nyilvántartásba venni. Az érmék értékesítésekor az eladási ár és a névérték különbözetét az érmekibocsátás árfolyam-különbözeteként kell az egyéb bevételek, illetve az egyéb ráfordítások között elszámolni. Törvényes fizetőeszköznek minősülő nemesfémérmék vásárlásakor a vételár és a névérték különbözetét az érmekibocsátás árfolyam-különbözeteként kell az egyéb ráfordítások, illetve az egyéb bevételek között elszámolni.
 
-(7)[^62]
+(7)[^63]
 
-(8)[^63] A 2. § 19. pontja szerinti pénzbevonási nyereséget az egyéb bevételek között kell elszámolni.
+(8)[^64] A 2. § 19. pontja szerinti pénzbevonási nyereséget az egyéb bevételek között kell elszámolni.
 
-[^62]: A 11. § (7) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
-[^63]: A 11. § (8) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
+[^63]: A 11. § (7) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
+[^64]: A 11. § (8) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 5. §-a iktatta be.

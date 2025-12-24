@@ -2,7 +2,7 @@
 
 9. § (1) A kamatráfordítások között kell kimutatni többek között:
 
-a) a Magyar Államkincstár kincstári számláinak összevont egyenlege után fizetett kamatok összegét, valamint a központi költségvetés által elhelyezett egyéb betétek kamatait,
+a)[^46] a Magyar Államkincstár kincstári egységes számláinak mindenkori egyenlege után fizetett kamatok összegét, valamint a központi költségvetés által elhelyezett egyéb betétek kamatait,
 
 b)[^47] a hitelintézetek kötelező jegybanki (forint- és deviza-) tartalékai, valamint betétei után fizetendő és az MNB által visszavásárlási kötelezettséggel eladott értékpapírok után fizetett (fizetendő) kamatokat,
 
@@ -60,10 +60,13 @@ d) a fizetési forgalommal közvetlenül összefüggő ráfordításokat,
 
 e)[^58] az MNB részesedésekből származó ráfordításokat, árfolyamveszteséget.
 
+f)[^59] a felügyeleti és hatósági tevékenységből származó ráfordításokat (eljárási költségeket, követeléskezelés kapcsán felmerült díjakat és költségeket, valamint tárgyévet megelőzően keletkezett követeléseket érintő esetleges visszafizetéseket, megszüntetéseket).
+
 (7) A banküzem működési költségei és ráfordításai között kell kimutatni az MNB gazdálkodásával kapcsolatban, a tárgyévben felmerült és elszámolt összes költséget és ráfordítást.
 
-(8)[^59] A pénzügyi műveletek realizált veszteségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamveszteségét, valamint a Tv. szerint a pénzügyi műveletek ráfordításaiba tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett ráfordításokat.
+(8)[^60] A pénzügyi műveletek realizált veszteségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamveszteségét, valamint a Tv. szerint a pénzügyi műveletek ráfordításaiba tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett ráfordításokat.
 
+[^46]: A 9. § (1) bekezdés a) pontja a 441/2025. (XII. 23.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^47]: A 9. § (1) bekezdés b) pontja a 362/2014. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
 [^48]: A 9. § (1) bekezdés c) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte, újonnan a 362/2014. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
 [^49]: A 9. § (1) bekezdésének f) pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
@@ -76,4 +79,5 @@ e)[^58] az MNB részesedésekből származó ráfordításokat, árfolyamvesztes
 [^56]: A 9. § (5) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^57]: A 9. § (6) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^58]: A 9. § (6) bekezdés e) pontját a 445/2017. (XII. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^59]: A 9. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (5) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^59]: A 9. § (6) bekezdés f) pontját a 441/2025. (XII. 23.) Korm. rendelet 20. §-a iktatta be.
+[^60]: A 9. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (5) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
