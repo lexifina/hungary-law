@@ -1,0 +1,5 @@
+## „a) az a személy, aki az (1) bekezdés a)–j) pontja szerinti szervezet részére kizárólag megbízási vagy vállalkozási szerződés keretében lát el tevékenységet, kivéve a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet 28. § (1) bekezdés b) pontja szerinti tevékenységet végző személy,”
+
+3. § Az R. 4. §-a a következő (11a) bekezdéssel egészül ki:
+
+„(11a) Ha az Otthontámogatásra jogosult 1. melléklet 1. pont 1.2.3. alpontja szerinti adóstársa a (11) bekezdés szerinti foglalkoztató foglalkoztatottja, akkor az Otthontámogatásra jogosult által az 1. melléklet szerinti kérelemben az adóstársára vonatkozóan megjelölt adatokat az adóstárs foglalkoztatójára vonatkozó adatok nélkül adja át az Otthontámogatásra jogosult foglalkoztatója részére. Az Otthontámogatásra jogosult foglalkoztatója az Otthontámogatásra jogosult adóstársának foglalkoztatójára vonatkozó adatok nélkül teljesíti adatszolgáltatását a Kincstár részére.”

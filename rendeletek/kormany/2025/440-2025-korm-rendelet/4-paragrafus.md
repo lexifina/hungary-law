@@ -1,0 +1,3 @@
+4. § Az R. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Azon 4. § (4) bekezdés a) pontja szerinti igénybejelentések tekintetében, ahol az adós és az adóstárs házastársak a 8. § (4) bekezdés a) pont aa) alpontja alapján ugyanazon lakáskölcsön-szerződésre saját jogukon igénylik az Otthontámogatást, de a lakáskölcsön-szerződésből a hátralévő teljes futamidőre fennálló összes törlesztőrészlet összege kevesebb, mint a teljes keretösszeg kétszerese, a kettejük által igényelt Otthontámogatás összege nem haladhatja meg a lakáskölcsön-szerződésből a hátralévő teljes futamidőre fennálló összes törlesztőrészlet összegét.”
