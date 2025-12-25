@@ -78,13 +78,13 @@
 
 ## 6. Kiegészítő információk (Minden egyéb tényező, ami figyelembe veendő az exportengedély-kérelem elbírálásánál.):
 
-## 7.[^119] A címzett, a végfelhasználó igazolása:
+## 7.[^115] A címzett, a végfelhasználó igazolása:
 
 ## Igazoljuk, hogy minden feltüntetett adat a valóságnak megfelel, és nem ismerünk semmilyen, velük ellentétes más információt. Azonnal kiegészítő nyilatkozatot küldünk a nemzeti külkereskedelmi államigazgatási feladatkörében eljáró Budapest Főváros Kormányhivatalának, amennyiben bármilyen ténybeli vagy tervezett változás merül fel a nyilatkozatban rögzítettekhez képest annak elkészítése után. Vállaljuk, hogy a 4. pontban leírt termék (termékek) nem kerül (kerülnek) reexportra, újraértékesítésre vagy eladásra (1) egyetlen olyan országba sem, ahová az export nem engedélyezett, vagy (2) egyetlen olyan személynek sem, amennyiben joggal feltételezhető, hogy a terméket (termékeket) közvetve vagy közvetlenül a fenti nyilatkozattal vagy vonatkozó jogszabállyal ellentétesen birtokolnák.
 
 ## 8. A címzett, a végfelhasználó aláírása, dátum
 
-5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^120]
+5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^116]
 
-[^119]: A 4. melléklet B) rész 7. pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § o) pontja szerint módosított szöveg.
-[^120]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^115]: A 4. melléklet B) rész 7. pontja a 360/2022. (IX. 19.) Korm. rendelet 16. § o) pontja szerint módosított szöveg.
+[^116]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.

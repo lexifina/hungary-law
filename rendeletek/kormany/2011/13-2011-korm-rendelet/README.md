@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-13-20-2
 | 2022-06-15 | 2011-13-20-22.12 | 209/2022. (VI. 14.) Korm. rendelet |
 | 2022-07-01 | 2011-13-20-22.13 | 209/2022. (VI. 14.) Korm. rendelet |
 | 2022-09-27 | 2011-13-20-22.14 | 360/2022. (IX. 19.) Korm. rendelet |
+| 2025-12-25 | 2011-13-20-22.15 | 390/2025. (XII. 10.) Korm. rendelet |

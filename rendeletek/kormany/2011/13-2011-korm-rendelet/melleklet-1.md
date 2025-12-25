@@ -1,4 +1,4 @@
-## 33. §[^112] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 25. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig a Hivatal vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 33. §[^108] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 25. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig a Hivatal vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 1. melléklet a 13/2011. (II. 22.) Korm. rendelethez
 
@@ -46,7 +46,7 @@ A) Engedélykérelem tartalmi elemei a kettős felhasználású termékek export
 
 ## 21. A kérvényezett engedély jellege
 
-## 22.[^113]
+## 22.[^109]
 
 ## B) Engedélykérelem tartalmi elemei a kettős felhasználású termékek brókerügyletéhez
 
@@ -84,9 +84,9 @@ A) Engedélykérelem tartalmi elemei a kettős felhasználású termékek export
 
 ## 17. Kiegészítő információk (szállítóeszköz, szállítási útvonal, szállítás tervezett ideje)
 
-## 18.[^114]
+## 18.[^110]
 
-## C)[^115] Engedélykérelem tartalmi elemei a kettős felhasználású termékekkel kapcsolatos technikai segítségnyújtáshoz
+## C)[^111] Engedélykérelem tartalmi elemei a kettős felhasználású termékekkel kapcsolatos technikai segítségnyújtáshoz
 
 1. Technikai segítségnyújtás végző (kérelmező) neve, címe
 
@@ -122,7 +122,7 @@ A) Engedélykérelem tartalmi elemei a kettős felhasználású termékek export
 
 17. Kiegészítő információk (szállítóeszköz, szállítási útvonal, szállítás tervezett ideje, az ügyletben résztvevő további partnerek)
 
-[^112]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 53. § (1) bekezdése iktatta be.
-[^113]: Az 1. melléklet A) rész 22. pontját a 360/2022. (IX. 19.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
-[^114]: Az 1. melléklet B) rész 18. pontját a 360/2022. (IX. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^115]: Az 1. melléklet C) részét a 360/2022. (IX. 19.) Korm. rendelet 15. §-a iktatta be.
+[^108]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 53. § (1) bekezdése iktatta be.
+[^109]: Az 1. melléklet A) rész 22. pontját a 360/2022. (IX. 19.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^110]: Az 1. melléklet B) rész 18. pontját a 360/2022. (IX. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^111]: Az 1. melléklet C) részét a 360/2022. (IX. 19.) Korm. rendelet 15. §-a iktatta be.

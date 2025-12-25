@@ -1,6 +1,6 @@
-## 31/A. §[^107] E rendeletnek az egyes kormányrendeleteknek a nemzetközi szankcióban elrendelt kereskedelmi korlátozás alá eső termékekhez kapcsolódó finanszírozás engedélyezésével összefüggő módosításáról szóló 65/2020. (III. 25.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 26/A. §-át a Módr. hatálybalépésekor[^108] folyamatban lévő eljárásokban is alkalmazni kell.
+## 31/A. §[^101] E rendeletnek az egyes kormányrendeleteknek a nemzetközi szankcióban elrendelt kereskedelmi korlátozás alá eső termékekhez kapcsolódó finanszírozás engedélyezésével összefüggő módosításáról szóló 65/2020. (III. 25.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 26/A. §-át a Módr. hatálybalépésekor[^102] folyamatban lévő eljárásokban is alkalmazni kell.
 
-32. § (1)[^109] Ez a rendelet
+32. § (1)[^103] Ez a rendelet
 
 a) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet,
 
@@ -12,9 +12,9 @@ d) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendele
 
 e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
 
-f)[^110] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
+f)[^104] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
 
-g)[^111] a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet
+g)[^105] a kettős felhasználású termékek kivitelére, az azokkal végzett brókertevékenységre, az azokkal kapcsolatos technikai segítségnyújtásra, valamint azok tranzitjára és transzferjére vonatkozó uniós ellenőrzési rendszer kialakításáról szóló, 2021. május 20-i (EU) 2021/821 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -24,10 +24,16 @@ a) az egyes katonai célú végfelhasználásokkal kapcsolatos műszaki segíts�
 
 b) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak
 
+c)[^106] az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek,
+
+d)[^107] az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU rendelet módosításáról szóló, 2024. június 24-i (EU) 2024/1745 tanácsi rendeletnek
+
 való megfelelést szolgálja.
 
-[^107]: A 31/A. §-t a 65/2020. (III. 25.) Korm. rendelet 2. §-a iktatta be.
-[^108]: A hatálybalépés időpontja 2020. március 28.
-[^109]: A 32. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^110]: A 32. § (1) bekezdés f) pontját a 78/2013. (III. 13.) Korm. rendelet 20. §-a iktatta be.
-[^111]: A 32. § (1) bekezdés g) pontját a 360/2022. (IX. 19.) Korm. rendelet 14. §-a iktatta be.
+[^101]: A 31/A. §-t a 65/2020. (III. 25.) Korm. rendelet 2. §-a iktatta be.
+[^102]: A hatálybalépés időpontja 2020. március 28.
+[^103]: A 32. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^104]: A 32. § (1) bekezdés f) pontját a 78/2013. (III. 13.) Korm. rendelet 20. §-a iktatta be.
+[^105]: A 32. § (1) bekezdés g) pontját a 360/2022. (IX. 19.) Korm. rendelet 14. §-a iktatta be.
+[^106]: A 32. § (2) bekezdés c) pontját a 390/2025. (XII. 10.) Korm. rendelet 7. §-a iktatta be.
+[^107]: A 32. § (2) bekezdés d) pontját a 390/2025. (XII. 10.) Korm. rendelet 7. §-a iktatta be.

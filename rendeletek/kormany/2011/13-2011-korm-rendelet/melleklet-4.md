@@ -10,8 +10,8 @@
 
 ## aláírás/signature
 
-4. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^118]
+4. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^114]
 
 A) A Nemzetközi Importigazolás kibocsátása iránti kérelem tartalmi elemei
 
-[^118]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^114]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés g) pontja szerint módosított szöveg.

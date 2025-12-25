@@ -10,7 +10,7 @@
 
 (5)[^34] Az e rendelet szerinti eljárásokban az iratok az ügyfél nyilatkozatával nem pótolhatóak.
 
-(6)[^35] Az e rendelet szerinti engedélyezési eljárásokban az ügyintézési határidő 25 nap.
+(6)[^35] Az e rendelet szerinti engedélyezési eljárásokban az ügyintézési határidő 45 nap.
 
 (7)[^36] A vállalkozás az (EU) 2021/821 európai parlamenti és tanácsi rendelet hatálya alá tartozó terméknek az Európai Unión belüli átadása esetén köteles feltüntetni az áruhoz kapcsolódó szerződésen, számlákon és fuvarokmányokon a kettős felhasználású termék exportellenőrzési jegyzékszámát, valamint azt a tényt, hogy a termék kivitele exportengedély-köteles.
 
@@ -19,5 +19,5 @@
 [^32]: Az 5. § (3) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
 [^33]: Az 5. § (4) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 3. §-ával megállapított, a 88/2016. (IV. 29.) Korm. rendelet 27. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^34]: Az 5. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^35]: Az 5. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^35]: Az 5. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 318. §-a iktatta be, szövege a 390/2025. (XII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^36]: Az 5. § (7) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 360/2022. (IX. 19.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.

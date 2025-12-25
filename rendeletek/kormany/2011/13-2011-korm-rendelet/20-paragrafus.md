@@ -1,4 +1,4 @@
-## 14.[^78] Technikai segítségnyújtás
+## 14.[^75] Technikai segítségnyújtás
 
 20. § (1) Az (EU) 2021/821 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése alkalmazandó az (EU) 2021/821 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében említett felhasználási célokra szolgáló, az (EU) 2021/821 európai parlamenti és tanácsi rendelet I. mellékletében fel nem sorolt kettős felhasználású termékre.
 
@@ -6,4 +6,4 @@
 
 (3) Az engedélykérelem elbírálásánál az Egyedi Exportengedélyre és az exportengedély iránti kérelem elbírálására vonatkozó szabályok irányadók.
 
-[^78]: A 14. alcím (20. §) a 360/2022. (IX. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^75]: A 14. alcím (20. §) a 360/2022. (IX. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
