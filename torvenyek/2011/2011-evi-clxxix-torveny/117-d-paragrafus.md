@@ -1,4 +1,4 @@
-117/D. § Az országos nemzetiségi önkormányzat közgyűlése a nemzetiségi utónév utónévjegyzékbe való felvételére vonatkozó döntését az alábbi alapelvek figyelembevételével hozza meg:
+117/D. § Az országos nemzetiségi önkormányzat közgyűlése a nemzetiségi utónév utónévjegyzékbe való felvételére, valamint a nemzetiségi utónévjegyzék felülvizsgálatára vonatkozó döntését az alábbi alapelvek figyelembevételével hozza meg:
 
 a) az utónévjegyzékben szereplő nevek becéző változatai abban az esetben javasolhatók az utónévjegyzékbe való felvételre, ha az általuk képviselt típusnak már vannak hagyományai az adott nemzetiség névkincsében, vagyis gyakran előfordul és megtalálható az adott nemzetiség becenevei között, és nem hátrányos a névviselőre;
 

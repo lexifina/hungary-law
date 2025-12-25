@@ -12,7 +12,7 @@ d) a rendelkezésére álló közszolgálati rádió és televízió műsoridő 
 
 e) a nemzetiségi közösség számára jogsegélyszolgálat létrehozásáról és működtetéséről, továbbá a települési nemzetiségi önkormányzatok számára információs szolgálat működtetéséről,
 
-f) a nemzetiségi utónévjegyzék összeállításáról, a nemzetiségi utónévvel kapcsolatos megkeresésekről,
+f) a nemzetiségi utónévjegyzék összeállításáról – ideértve az utónévjegyzékben nem szereplő utónév utónévjegyzékbe való felvételét, valamint az utónévjegyzék felülvizsgálatát –, a nemzetiségi utónévvel kapcsolatos megkeresésekről,
 
 g) nemzetiségi médiumoknak az e törvény szerinti országos nemzetiségi önkormányzati állami támogatásból történő támogatásáról,
 
