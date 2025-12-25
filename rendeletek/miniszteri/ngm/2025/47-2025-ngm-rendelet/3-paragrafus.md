@@ -1,7 +1,3 @@
-3. § Hatályát veszti a 45/2016. (XI. 29.) NGM rendelet
+3. §[^3]
 
-a) 75. § d) pontjában a „közúti áruszállítási vagy” szövegrész,
-
-b) 82. § (4) bekezdésében az „az eljáró szerv bélyegzőlenyomatát,” szövegrész,
-
-c) 94. § (1) bekezdésében a „felelős üzemvezetője” szövegrész.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
