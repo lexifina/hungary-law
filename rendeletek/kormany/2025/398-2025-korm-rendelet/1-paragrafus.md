@@ -14,8 +14,6 @@
 
 ## 1. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-1. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 58. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„58. § (1) Az erőművi engedélyezés szempontjából – kivéve a szélerőmű parkok esetét – a 0,5 MW és az 50 MW erőművi teljesítményhatárt az erőművi névleges teljesítőképesség mértékének megállapítása során úgy kell alkalmazni, hogy az engedélyt kérelmező tulajdonában lévő, egy erőművi telephelyen üzemeltetett valamennyi villamos energia előállítására alkalmas erőműegységet együttesen kell figyelembe venni.
-
-(2) A szélerőmű park az erőművi engedélyezés szempontjából egy erőműnek tekintendő, azonban ha az adott szélerőmű park eléri az 50 MW erőművi teljesítményhatárt, akkor a Hivatal kérelemre azokat a kérelemben szereplő megbontásban 50 MW erőművi teljesítményhatár alatti erőművek szerinti megbontásban külön-külön engedélyezi.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
