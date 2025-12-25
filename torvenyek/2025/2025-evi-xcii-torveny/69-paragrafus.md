@@ -2,13 +2,13 @@
 
 a)
 
-b) 25. § (1) bekezdésében a „miniszter” szövegrész helyébe a „Kormány” szöveg,
+b)
 
-c) 31. § (1) bekezdésében a „miniszter” szövegrész helyébe a „Kormány” szöveg,
+c)
 
 d)
 
-e) 51. § (1) bekezdésében az „után járó” szövegrész helyébe az „után, díjjegyzékenként járó” szöveg,
+e)
 
 f)
 
