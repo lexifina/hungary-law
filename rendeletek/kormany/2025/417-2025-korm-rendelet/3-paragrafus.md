@@ -1,3 +1,3 @@
-3. § A NAV Korm. rendelet 65. §-a a következő (2a) bekezdéssel egészül ki:
+3. §[^3]
 
-„(2a) A (2) bekezdéstől eltérően a nyilvánosan működő részvénytársaság leválás útján létrejövő jogutódja a leválás évében és az azt követő két évben a KAVIG hatáskörébe tartozik, amennyiben a jogelőd megfelelt a KAVIG hatáskörét megalapozó jogszabályban meghatározott feltételeknek.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

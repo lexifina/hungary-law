@@ -18,6 +18,6 @@
 
 ## 1. A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet módosítása
 
-1. § A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet (a továbbiakban: NAV Korm. rendelet) 21/B. alcím címe helyébe a következő alcím cím lép:
+1. §[^1]
 
-„21/B. Szokásos piaci ár meghatározásával összefüggő ellenőrzésre vonatkozó különös illetékességi szabályok”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

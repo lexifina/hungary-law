@@ -1,3 +1,3 @@
-2. § A NAV Korm. rendelet 56/B. §-a a következő (3) bekezdéssel egészül ki:
+2. §[^2]
 
-„(3) Az (1) és (2) bekezdés szerinti különös illetékességgel rendelkező igazgatóságok állományába tartozó adóellenőr eljárhat az adóellenőrt foglalkoztató igazgatóság (2) bekezdés a)–c) pontja szerinti illetékességi területén más igazgatóság által lefolytatott, kapcsolt vállalkozásokat érintő adóellenőrzés során.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
