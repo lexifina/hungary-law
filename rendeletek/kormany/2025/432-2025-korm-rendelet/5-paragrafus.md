@@ -1,1 +1,3 @@
-5. § A Kr. 11/Q. § (1) bekezdésében az „a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.)” szövegrész helyébe az „a Gyer.” szöveg lép.
+5. §[^9]
+
+[^9]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

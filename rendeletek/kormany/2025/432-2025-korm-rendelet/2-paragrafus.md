@@ -1,15 +1,19 @@
 2. § A Gyer.
 
-a) 37. § (1) bekezdésében az „– az országos” szövegrész helyébe a „– vármegyei szakszolgálatnak, szükség szerint az országos” szöveg,
+a)[^2]
 
-b)[^1]
+b)[^3]
 
-c) 44/C. § (6) bekezdésében az „együttes örökbefogadásukat kell elősegíteni” szövegrész helyébe az „együttes örökbefogadásukat kell elősegíteni abban az esetben, ha a gyermekek között valódi kötődés áll fenn” szöveg,
+c)[^4]
 
-d) 44/C. § (7) bekezdésében a „követő munkanapon” szövegrész helyébe a „követően három napon belül” szöveg,
+d)[^5]
 
-e) 45. § (1) bekezdésében és az 51. § (1) bekezdés nyitó szövegrészében a „tizenöt napon belül” szövegrész helyébe az „öt napon belül” szöveg
+e)[^6]
 
 lép.
 
-[^1]: A 2. § b) pontja a 7. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^2]: A 2. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § b) pontja a 7. § (2) bekezdése alapján 2026. július 1-jén lép hatályba.
+[^4]: A 2. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

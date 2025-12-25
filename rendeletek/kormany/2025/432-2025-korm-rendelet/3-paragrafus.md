@@ -1,5 +1,3 @@
-3. § Hatályát veszti a Gyer.
+3. §[^7]
 
-a) 43. § (4) bekezdés c) pontja és
-
-b) 44. §-a.
+[^7]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
