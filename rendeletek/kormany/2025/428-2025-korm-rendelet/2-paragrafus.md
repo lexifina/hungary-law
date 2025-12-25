@@ -1,3 +1,3 @@
-2. § Az R1. a következő 12/D. §-sal egészül ki:
+2. §[^3]
 
-„12/D. § E rendeletnek az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet, valamint az Otthon Start program keretében biztosított FIX 3%-os hitelprogram feltételeit teljesítő lakások építésére irányuló építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 335/2025. (X. 30.) Korm. rendelet módosításáról szóló 428/2025. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr9.) módosított 1. § (1) bekezdését és megállapított 1/H. §-át a Módr9. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

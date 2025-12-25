@@ -1,3 +1,3 @@
-7. § Az R2. 4. §-a a következő (3) bekezdéssel egészül ki:
+7. §[^8]
 
-„(3) A 2. mellékletben foglalt táblázat B:4 mezőjében megjelölt ingatlan vonatkozásában 167 kerékpár várakozóhely elhelyezését kell biztosítani.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

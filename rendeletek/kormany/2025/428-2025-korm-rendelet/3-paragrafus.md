@@ -1,1 +1,3 @@
-3. § Az R1. 1. § (1) bekezdésében az „1/A–1/G. §-ban” szövegrész helyébe az „1/A–1/H. §-ban” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
