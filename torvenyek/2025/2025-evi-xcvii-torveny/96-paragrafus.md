@@ -1,1 +1,1 @@
-96. § Hatályát veszti a Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület tevékenységével érintett egyes állami tulajdonú ingatlanok vagyonkezelésének rendezéséről szóló 2019. évi XXXI. törvény 2. §-ában az „ingatlanok vonatkozásában az” szövegrész.
+### 96. §

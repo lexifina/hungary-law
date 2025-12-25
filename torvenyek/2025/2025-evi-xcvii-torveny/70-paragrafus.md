@@ -1,12 +1,12 @@
 70. § Hatályát veszti a Földforgalmi tv.
 
-1. 6. § (2) bekezdésében az „(a továbbiakban: AK)” szövegrész,
+1.
 
 2.
 
-3. 20. § (1) bekezdés i) pontjában a „kizárólagos tulajdonban álló és” szövegrész,
+3.
 
-4. 21. § (2) bekezdésében a „ , valamint állampolgárságán” szövegrész,
+4.
 
 5.
 
@@ -14,13 +14,13 @@
 
 7.
 
-8. 23. § (2) bekezdés d) pontjában a „vagy” szövegrész,
+8.
 
 9.
 
 10.
 
-11. 27. § (2) bekezdés b) pont bb) alpontja,
+11.
 
 12.
 
@@ -36,7 +36,7 @@
 
 18.
 
-19. 49. § (2) bekezdésében a „ , valamint állampolgárságán” szövegrész,
+19.
 
 20.
 
