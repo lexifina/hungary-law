@@ -2,4 +2,4 @@
 
 a)
 
-b) 395. § (4) bekezdés d) pontja.
+b)

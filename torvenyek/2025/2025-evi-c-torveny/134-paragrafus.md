@@ -36,6 +36,4 @@
 
 (19)
 
-(20) A Hpt. 6. § (1) bekezdése a következő 114a. ponttal egészül ki:
-
-(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
+(20)

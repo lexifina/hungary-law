@@ -1,5 +1,3 @@
 ## 2. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosítása
 
-3. § A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény 24/H. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az MRP szervezet a résztvevőre tekintettel a javadalmazási politika keretében megszerzett pénzügyi eszközt, annak átruházása vagy érvényesítése révén, a javadalmazási politikában meghatározott feltételek bekövetkezését követően, a belső szabályzatában meghatározott (legfeljebb hároméves) határidőn belül – az e pénzügyi eszközhöz kapcsolódó tagi részesedés bevonásának előkészítése érdekében – pénzre váltja át. Az MRP szervezet a pénzügyi eszközt legkorábban a megszerzését követő 24 hónap elteltével válthatja pénzre, vagy adhatja át a résztvevőnek. Ez a határidő kivételesen, kizárólag a résztvevőnek az MRP-ben való részvétele alapjául szolgáló jogviszonnyal összefüggő okból (így különösen a jogviszony évközi keletkezése vagy módosulása esetén) lehet 24 hónapnál rövidebb, de a jogviszony megszűnése nem eredményezheti a határidő csökkenését. Azokat a pénzügyi eszközöket, amelyek tekintetében a feltételek egyidejűleg következtek be, azonos szabályok szerint (így különösen azonos ütemezésben) kell pénzre átváltani.”
+### 3. §

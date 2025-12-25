@@ -46,12 +46,12 @@
 
 23.
 
-24. 234/A. § (1) bekezdésében a „betétállomány 0,8%-át” szövegrész helyébe a „betétállomány legalább 0,8%-át” szöveg,
+24.
 
-25. 288. § (1) bekezdésében a „postai úton, telefaxon,” szövegrész helyébe „postai úton,” szöveg,
+25.
 
-26. 4. melléklet Kifizetési szorzótényező című alcímében a „tőkekövetelményszint felett” szövegrészek helyébe a „tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett” szöveg,
+26.
 
-27. 4. melléklet Tőkeáttételi mutató pufferkövetelmény esetében alkalmazandó tényező című alcímében a „tőkekövetelményszint felett” szövegrészek helyébe a „tőkekövetelményszint – 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem megfelelően fedezett túlzott tőkeáttételi kockázat kezelése céljából előírt, az 575/2013/EU rendelet 429. cikk (4) bekezdésének megfelelően kiszámított teljes kockázati kitettségérték százalékában kifejezett érték – felett” szöveg
+27.
 
 lép.

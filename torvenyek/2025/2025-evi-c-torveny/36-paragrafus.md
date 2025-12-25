@@ -4,14 +4,14 @@ a)
 
 b)
 
-c) 145. § (2b) bekezdésében az „a (2a) bekezdésben” szövegrész helyébe az „az e §-ban” szöveg,
+c)
 
-d) 307. § (2) bekezdés d) pontjában a „kizáró ok” szövegrész helyébe a „kizáró ok és rendelkezik jó üzleti hírnévvel” szöveg,
+d)
 
-e) 336. § (2) bekezdésében az „egyéni alszámlán különítse el, amely egyéni alszámla” szövegrész helyébe az „egyéni alszámlán vagy számlán különítse el, amely egyéni alszámla vagy számla” szöveg,
+e)
 
-f) 395. § (4) bekezdés e) pontjában az „(1) bekezdés i) pontja” szövegrész helyébe az „(1) bekezdés d) és i) pontja” szöveg,
+f)
 
-g) 405. § (1) bekezdésében az „az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre” szövegrész helyébe az „az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre, az 596/2014/EU rendelet szerinti befektetési ajánlások, statisztikák ajánlására, készítésére, terjesztésére vonatkozó szabályozást megsértő személyekre” szöveg
+g)
 
 lép.
