@@ -1,1 +1,3 @@
-12. § A 316/2013. (VIII. 28.) Korm. rendelet 2. melléklete helyébe az 5. melléklet lép.
+12. §[^15]
+
+[^15]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
