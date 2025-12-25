@@ -1,1 +1,3 @@
-23. § A Magyar Nemzeti Bank éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 221/2000. (XII. 19.) Korm. rendelet 2. számú melléklet „BEVÉTELEK” alcím „V. Egyéb bevételek” pont 3. alpontjában a „Felügyeleti tevékenységből” szövegrész helyébe a „Felügyeleti és hatósági tevékenységből” szöveg lép.
+23. §[^6]
+
+[^6]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

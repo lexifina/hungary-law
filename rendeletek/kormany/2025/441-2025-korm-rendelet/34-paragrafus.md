@@ -1,5 +1,3 @@
-34. § Hatályát veszti a mikrogazdálkodói egyszerűsített éves beszámolóról szóló 398/2012. (XII. 20.) Korm. rendelet
+34. §[^18]
 
-a) 3. melléklet 4. pont 45–47. alpont 474. pontja,
-
-b) 3. melléklet 5. pont 56. alpont 563. pontja.
+[^18]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

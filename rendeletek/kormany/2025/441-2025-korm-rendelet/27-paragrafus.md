@@ -1,3 +1,3 @@
-27. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 150. § (1) bekezdése a következő t) ponttal egészül ki:
+27. §[^10]
 
-(Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványának kell tekinteni)
+[^10]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

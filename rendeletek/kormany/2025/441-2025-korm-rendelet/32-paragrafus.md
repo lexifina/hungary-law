@@ -1,3 +1,3 @@
-32. § A mikrogazdálkodói egyszerűsített éves beszámolóról szóló 398/2012. (XII. 20.) Korm. rendelet 4. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
+32. §[^16]
 
-(A mikrogazdálkodói beszámoló 1. melléklet szerinti mérlegén fel kell tüntetni)
+[^16]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

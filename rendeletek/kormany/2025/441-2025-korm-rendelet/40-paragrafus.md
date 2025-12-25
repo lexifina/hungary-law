@@ -1,1 +1,3 @@
-40. § A mérlegképes könyvelői, az adótanácsadói és az okleveles adószakértői szabályozott szakmák hatósági képzéséről és vizsgáztatásáról szóló 607/2023. (XII. 22.) Korm. rendelet 1. melléklet 3. pont 3.4. alpont 3.4.2. pont a) alpontjában és 3. pont 3.5. alpont 3.5.5. pont a) alpontjában az „a hivatalos okirat a következő kódú vizsgákat tartalmazza: AB, MA, FA, LW, PM, TX, FR, AA, FM” szövegrész helyébe az „a hivatalos okiraton az összes vizsga teljesítésének dátuma a felmentési kérelem benyújtását megelőző 10 éven belül van” szöveg lép.
+40. §[^24]
+
+[^24]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

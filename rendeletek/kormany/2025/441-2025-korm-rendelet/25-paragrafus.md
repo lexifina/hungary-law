@@ -1,1 +1,3 @@
-25. § Hatályukat vesztik a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet 9. § (5) bekezdésében az „országos napilapnak a világ valutáinak árfolyamaira vonatkozó tájékoztatójában közzétett,” szövegrészek.
+25. §[^8]
+
+[^8]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
