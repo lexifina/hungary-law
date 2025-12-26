@@ -1,0 +1,1 @@
+8. § Az ESG tanúsító Tanúsítók Névjegyzékébe történő felvétele öt évre szól, amely a Tanúsítók Névjegyzékében maradás céljából az ESG tanúsítói tevékenység végzésére történő jogosultság (a továbbiakban: ESG tanúsítói jogosultság) megújítása érdekében alkalmanként további öt éves időtartamra megújítható.
