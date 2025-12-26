@@ -1,3 +1,3 @@
-2. § A 13/2011. (II. 22.) Korm. rendelet 5. § (6) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(6) Az e rendelet szerinti engedélyezési eljárásokban az ügyintézési határidő 45 nap.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

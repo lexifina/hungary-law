@@ -1,3 +1,3 @@
-7. § A 13/2011. (II. 22.) Korm. rendelet 32. § (2) bekezdése a következő c) és d) ponttal egészül ki:
+7. §[^8]
 
-(Ez a rendelet)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

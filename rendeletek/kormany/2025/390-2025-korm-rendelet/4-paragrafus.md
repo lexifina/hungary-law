@@ -1,3 +1,3 @@
-4. § A 13/2011. (II. 22.) Korm. rendelet IV. fejezete a következő 26/B. §-sal egészül ki:
+4. §[^5]
 
-„26/B. § A nemzetközi szankcióban elrendelt, jelentéstételi kötelezettséggel érintett külkereskedelmi korlátozás alá eső termék esetében a jelentéstételhez kapcsolódó követelményeket a Kormányhivatal a honlapján teszi közzé.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
