@@ -10,7 +10,7 @@ ac) a föld szerződéskötéskori forgalmi értékét a Földforgalmi tv. 8/A. 
 
 ad) a föld átruházni kívánt tulajdoni hányadát, és
 
-ae) ha a föld hatályos vagy még hatályba nem lépett földhasználati szerződéssel vagy többlethasználati megállapodással érintett, akkor a használat jogcímét, időtartamát és ellenértékét;
+ae)[^2] ha a föld hatályos vagy a felek rendelkezése alapján későbbi időpontban hatályba lépő földhasználati szerződéssel vagy többlethasználati megállapodással érintett, akkor a használat jogcímét, időtartamát és ellenértékét;
 
 b) a Gtv. 3. § (3) bekezdése szerinti, a gazdaságátadó tulajdonát képező, azonban kizárólag a használat átengedésével járó föld esetében
 
@@ -48,7 +48,7 @@ eb) a gazdaságátadó közeli hozzátartozója használatában van;
 
 f) a gazdaságátadó tulajdonában vagy használatában álló, a mező- és erdőgazdasági tevékenység folytatásához szükséges ingó dolgok felsorolását és szerződéskötéskori forgalmi értékét az alábbiak szerint
 
-fa) állatállomány esetében a tenyészállatokat egyedenként, azonosító számuk feltüntetésével, egyéb állat esetében fajonként az összlétszám megadásával,
+fa)[^3] állatállomány esetében az állomány tenyészetkódját és tartási helyét, valamint a tenyészállatokat egyedenként, azonosító számuk feltüntetésével, egyéb állat esetében fajonként az összlétszám megadásával,
 
 fb) azonosítható módon megadva a gépjárműveket, a mezőgazdasági erőgépeket, a munkagépeket és
 
@@ -76,12 +76,28 @@ ic) a mező- és erdőgazdasági tevékenység folytatására irányuló engedé
 
 id) a Gtv. 7. § e) és f) pontja szerinti adatokat, a gazdaságátadó számára megítélt, folyamatban lévő támogatások esetében a megítélt támogatási összegek, a megvalósítás kezdetének és tervezett befejezésének napja, valamint az elszámolási időszak megadásával.
 
+j)[^4] a gazdaságátadó által megkötött, érvényesen létrejött, de hatóság (a továbbiakban: jóváhagyásért felelős hatóság) jóváhagyásától függően hatályba lépő azon szerződések felsorolását, amelyekben szereplő vagyonelemek a gazdaság átszállásának időpontját megelőzően válnának a gazdaság elemeivé, azzal, hogy azok a jóváhagyásért felelős hatóság jóváhagyását követően válnak a gazdaság részévé, feltéve, hogy a jóváhagyásért felelős hatóság a szerződést a gazdaság átszállásának napját megelőzően jóváhagyja.
+
 (2) Az (1) bekezdés i) pont ia) alpont szerinti kötelezettségek körében, erdőrészlet esetén a gazdaságátadási szerződésnek tartalmaznia kell az erdőfelújítási kötelezettséget, az erdőfelújítási biztosíték nyújtásával kapcsolatos kötelezettséget, az elrendelt erdőgazdálkodási tevékenységet, szabad rendelkezésű erdő, fásítás vagy fás szárú ültetvény esetén a vállalt újratelepítési kötelezettséget.
 
 (3) Ha a gazdaságátvevő kéri az (1) bekezdés i) pont ic) alpontja szerinti engedély átadását, a gazdaságátadási szerződés rögzíti – az engedély eredeti példánya felmutatása mellett – a másolati példány átadásának tényét.
+
+(3a)[^5] A gazdaságátadási szerződés az (1) bekezdés i) pont id) alpontja esetében a folyamatban lévő támogatási eljárások és támogatások felsorolását – az intézkedés megnevezésével, valamint a benyújtott támogatási kérelem és az agrártámogatási jogviszonyt létesítő okirat iratazonosítójának megadásával – a Magyar Államkincstár által, a gazdaságátadó kérelmére a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló miniszteri rendelet szerint kiállított adatigazolás alapján tartalmazza.
+
+(3b)[^6] Az (1) bekezdés j) pontja szerinti szerződés esetében a gazdaságátadási szerződés elkülönítve tartalmazza az (1) bekezdés a), b), d) pontja és i) pont ia) alpontja szerinti adatokat.
 
 (4) A gazdaságátadó kérelmezheti
 
 a) az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 73. § (5) bekezdés h) pontjára figyelemmel a gazdaság (1) bekezdés szerinti, a tulajdonában lévő valamennyi ingatlanelem megállapítása, ingatlan-nyilvántartásból való teljes körű lekérdezése érdekében az adatszolgáltatást, és
 
-b) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 99. § (2) bekezdése szerinti földhasználati összesítő kiállítását.
+b)[^7] a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 99. § (2) bekezdése szerinti földhasználati összesítő kiállítását.
+
+(5)[^8] A földhasználó fogalmának e rendelet szerinti alkalmazása során a Fétv. 45. § (2) bekezdés a) pontja irányadó.
+
+[^2]: A 2. § (1) bekezdés a) pont ae) alpontja a 416/2025. (XII. 23.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés f) pont fa) alpontja a 416/2025. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés j) pontját a 416/2025. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^5]: A 2. § (3a) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 2. § (3b) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § (4) bekezdés b) pontja a 416/2025. (XII. 23.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (5) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 2. § (3) bekezdése iktatta be.

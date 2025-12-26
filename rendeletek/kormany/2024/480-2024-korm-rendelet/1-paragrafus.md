@@ -10,6 +10,8 @@ c) a gazdaságátvevő nyilatkozatát a gazdaság átvételéről, valamint arr�
 
 (2) A gazdaságátadási szerződés tartalmazza
 
-a) az átadásra kerülő gazdaság főtevékenységét ÖVTJ besorolási főszámmal, és
+a)[^1] a Gtv. 12/C. § (1) bekezdés f) pontja szerinti adaton kívül a gazdaságátadó élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) nyilvántartott, az átadott gazdasághoz kapcsolódó tevékenység-azonosítóit, és
 
 b) a gazdaság átszállásának időpontjaként a Gtv. 3. § (7)–(10) és (12) bekezdése szerinti naptári napot, amelyet a felek egy határidőn belüli adott napként is meghatározhatnak.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 416/2025. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
