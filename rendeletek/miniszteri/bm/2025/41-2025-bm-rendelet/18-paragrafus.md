@@ -1,31 +1,28 @@
 18. § A 14/2007. (III. 14.) EüM rendelet
 
-a)[^18]
+a)[^17]
 
-b)[^19]
+b) 13. § (9) bekezdésében a „90 napos” szövegrész helyébe a „3 hónapos” szöveg,
 
-c)[^20]
+c) 14. § (7a) és (7b) bekezdésében a „90 napig” szövegrész helyébe a „3 hónapig” szöveg,
 
-d)[^21]
+d)[^18]
 
-e)[^22]
+e)[^19]
 
-f)[^23]
+f)[^20]
 
-g)[^24]
+g)[^21]
 
-h)[^25]
+h) 11. számú melléklet 7. pont 7.1. alpontjában az „időpontja” szövegrész helyébe az „időpontja (dátum, óra, perc)” szöveg,
 
-i)[^26]
+i)[^22]
 
 lép.
 
-[^18]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 18. § b) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^20]: A 18. § c) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^21]: A 18. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 18. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 18. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 18. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 18. § h) pontja a 24. § (3) bekezdése alapján 2025. december 28-án lép hatályba.
-[^26]: A 18. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 18. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 18. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 18. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 18. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
