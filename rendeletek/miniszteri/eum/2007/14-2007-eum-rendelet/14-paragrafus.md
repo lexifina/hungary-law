@@ -50,11 +50,11 @@ c) a kötszerek kivételével az egészségbiztosítói ellenjegyzéshez kötöt
 
 gyógyászati segédeszköz.
 
-(7)[^116] A vény a kiállítástól számított 90 napig, a méltányossági kérelem alapján támogatott gyógyászati segédeszköz esetében kiállított első vény az engedély véglegessé válásától számított 90 napig, az engedély alapján kiállított minden további vény a kiállítástól számított 90 napig, de legkésőbb az engedély érvényességének lejártáig váltható be.
+(7)[^116] A vény a kiállítástól számított 3 hónapig, a méltányossági kérelem alapján támogatott gyógyászati segédeszköz esetében kiállított első vény az engedély véglegessé válásától számított 3 hónapig, az engedély alapján kiállított minden további vény a kiállítástól számított 3 hónapig, de legkésőbb az engedély érvényességének lejártáig váltható be.
 
-(7a)[^117] A vény az egészségbiztosítói ellenjegyzéshez kötött gyógyászati segédeszközök esetében – a (7b) bekezdésben foglalt kivétellel – az ellenjegyzés megadásának dátumától számított 90 napig váltható be.
+(7a)[^117] A vény az egészségbiztosítói ellenjegyzéshez kötött gyógyászati segédeszközök esetében – a (7b) bekezdésben foglalt kivétellel – az ellenjegyzés megadásának dátumától számított 3 hónapig váltható be.
 
-(7b)[^118] A vény a kötszerek ellenjegyzéshez kötött felírása esetében a kiállítástól számított 90 napig váltható be.
+(7b)[^118] A vény a kötszerek ellenjegyzéshez kötött felírása esetében a kiállítástól számított 3 hónapig váltható be.
 
 (8)[^119] A vény alapján akkor számolható el társadalombiztosítási támogatás, amennyiben:
 
@@ -117,9 +117,9 @@ kell alkalmazni.
 [^113]: A 14. § (4) bekezdése a 32/2021. (VII. 29.) EMMI rendelet 10. § 5. pontja szerint módosított szöveg.
 [^114]: A 14. § (4a) bekezdését a 31/2012. (X. 8.) EMMI rendelet 7. §-a iktatta be, szövege a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 10. § 5. pontja szerint módosított szöveg.
 [^115]: A 14. § (6) bekezdése a 3/2014. (I. 16.) EMMI rendelet 24. §-ával megállapított szöveg.
-[^116]: A 14. § (7) bekezdése a 32/2021. (VII. 29.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^117]: A 14. § (7a) bekezdését a 32/2021. (VII. 29.) EMMI rendelet 6. § (4) bekezdése iktatta be.
-[^118]: A 14. § (7b) bekezdését a 32/2021. (VII. 29.) EMMI rendelet 6. § (4) bekezdése iktatta be.
+[^116]: A 14. § (7) bekezdése a 41/2025. (IX. 29.) BM rendelet 14. §-ával megállapított szöveg.
+[^117]: A 14. § (7a) bekezdését a 32/2021. (VII. 29.) EMMI rendelet 6. § (4) bekezdése iktatta be, szövege a 41/2025. (IX. 29.) BM rendelet 18. § c) pontja szerint módosított szöveg.
+[^118]: A 14. § (7b) bekezdését a 32/2021. (VII. 29.) EMMI rendelet 6. § (4) bekezdése iktatta be, szövege a 41/2025. (IX. 29.) BM rendelet 18. § c) pontja szerint módosított szöveg.
 [^119]: A 14. § (8) bekezdése a 32/2021. (VII. 29.) EMMI rendelet 6. § (5) bekezdésével megállapított szöveg.
 [^120]: A 14. § (8) bekezdés e) pontját a 11/2023. (V. 8.) BM rendelet 2. §-a iktatta be.
 [^121]: A 14. § (9) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c), n) pontja és (2) bekezdés a) pontja, a 32/2021. (VII. 29.) EMMI rendelet 10. § 6. pontja szerint módosított szöveg.

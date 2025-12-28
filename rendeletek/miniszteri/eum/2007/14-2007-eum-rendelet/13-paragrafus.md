@@ -70,7 +70,7 @@ i)[^87] az eszköz oldaliságát a 12. § (5) bekezdése és a 10. számú mell�
 
 (8)[^97] Ápolási gyógyászati segédeszközök körében a kölcsönzés időtartama egy beteg esetében tizenkét hónapon belül minimum két hét, maximum három hónap, mely egy alkalommal további három hónappal meghosszabbítható.
 
-(9)[^98] Az orvosnak a gyógyászati segédeszköz rendelésekor a beteget tájékoztatnia kell a Gyftv. 44. §-ában foglaltakon túl a gyógyászati segédeszköz kihordási idejéről, rendeltetéséről, a társadalombiztosítási támogatás mértékéről, összegéről, a beteg által fizetendő összegről, illetve a vénybeváltás 90 napos határidejéről.
+(9)[^98] Az orvosnak a gyógyászati segédeszköz rendelésekor a beteget tájékoztatnia kell a Gyftv. 44. §-ában foglaltakon túl a gyógyászati segédeszköz kihordási idejéről, rendeltetéséről, a társadalombiztosítási támogatás mértékéről, összegéről, a beteg által fizetendő összegről, illetve a vénybeváltás 3 hónapos határidejéről.
 
 (10)[^99] A beteg – a 12. § (5) és (6) bekezdésében foglaltak és méltányossági kérelem alapján rövidebb kihordási idővel kiszolgált eszköz kivételével – a vényre történő felírással egyidejűleg a vény hátoldalán írásban nyilatkozik arról, hogy a gyógyászati segédeszköz kihordási idején belül részére azonos rendeltetésű gyógyászati segédeszközt társadalombiztosítási támogatással nem váltottak ki. Elektronikus vényen történő rendelés esetén a beteg a nyilatkozatot a betegdokumentáció részeként írásban teszi meg, melynek meglétét az orvos az EESZT-ben feltünteti.
 
@@ -100,7 +100,7 @@ i)[^87] az eszköz oldaliságát a 12. § (5) bekezdése és a 10. számú mell�
 [^95]: A 13. § (7) bekezdése a 7/2016. (III. 30.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^96]: A 13. § (7a) bekezdését a 7/2016. (III. 30.) EMMI rendelet 13. § (2) bekezdése iktatta be.
 [^97]: A 13. § új (8) bekezdését a 8/2008. (III. 4.) EüM rendelet 7. § (1) bekezdése iktatta be, egyidejűleg az eredeti (8)–(10) bekezdésének számozását (9)–(11) bekezdésre változtatta. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően beváltott gyógyászati segédeszköz vények esetében kell alkalmazni.
-[^98]: A 13. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 7. § (1) bekezdése, szövege a 20/2010. (XII. 28.) NEFMI rendelet 5. §-ával megállapított, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
+[^98]: A 13. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 7. § (1) bekezdése. A 13. § (9) bekezdése a 20/2010. (XII. 28.) NEFMI rendelet 5. §-ával megállapított, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 41/2025. (IX. 29.) BM rendelet 18. § b) pontja szerint módosított szöveg.
 [^99]: A 13. § (10) bekezdése a 32/2021. (VII. 29.) EMMI rendelet 3. § (8) bekezdésével megállapított szöveg.
 [^100]: A 13. § (10) bekezdését a 39/2007. (VII. 25.) EüM rendelet 4. §-a iktatta be, számozását (11) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 7. § (1) bekezdése. A 13. § (11) bekezdése az 56/2008. (XII. 31.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 23. § (6) bekezdését.
 [^101]: A 13. § (12) bekezdését a 8/2008. (III. 4.) EüM rendelet 7. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
