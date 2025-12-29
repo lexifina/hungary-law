@@ -1,4 +1,4 @@
-10. § (1)[^41]
+10. § (1)[^39]
 
 (2) A jelzáloghitelre vonatkozó nyilvános tájékoztatónak és ajánlattételnek feltűnő módon tartalmaznia kell a THM értékét azzal a kiegészítéssel, hogy
 
@@ -12,4 +12,4 @@ c) a THM mutató értéke nem tükrözi a hitel kamatkockázatát.
 
 (4) Lakás-előtakarékossági szerződéssel kombinált jelzáloghitel esetén a kereskedelmi kommunikációban a THM értékét a legrövidebb megtakarítási idejű lakás-takarékpénztári termék figyelembevételével, havi 20 ezer forint folyamatos betételhelyezést feltételezve kell meghatározni.
 
-[^41]: A 10. § (1) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^39]: A 10. § (1) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.

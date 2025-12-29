@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-83-20-2
 | 2020-07-01 | 2010-83-20-22.7 | 253/2020. (V. 29.) Korm. rendelet |
 | 2022-10-31 | 2010-83-20-22.8 | 274/2022. (VII. 29.) Korm. rendelet |
 | 2023-04-30 | 2010-83-20-22.9 | 468/2015. (XII. 29.) Korm. rendelet |
+| 2025-12-29 | 2010-83-20-22.10 | 331/2025. (X. 30.) Korm. rendelet |
