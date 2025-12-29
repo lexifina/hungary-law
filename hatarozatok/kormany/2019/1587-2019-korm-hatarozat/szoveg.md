@@ -18,8 +18,10 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2019. november 30.
 
-5. felhívja az innovációért és technológiáért felelős minisztert, hogy a szakképzési centrumok tagintézményeiben energiahatékonysági szolgáltatási konstrukció szerinti energiahatékonysági beruházás lezárultával – az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság és a NEG Zrt. bevonásával – készítsen jelentést a Kormány részére a konstrukció tapasztalatairól.
+5.[^1] felhívja az innovációért és technológiáért felelős minisztert, hogy a szakképzési centrumok tagintézményeiben energiahatékonysági szolgáltatási konstrukció szerinti energiahatékonysági beruházás lezárultával – a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet és a NEG Zrt. bevonásával – készítsen jelentést a Kormány részére a konstrukció tapasztalatairól.
 
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a megvalósítás ütemében
+
+[^1]: Az 5. pont az 1584/2025. (XII. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
