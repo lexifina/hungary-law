@@ -1,5 +1,5 @@
 ## 12. A lakossági gyógyszerellátás során képződött gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 11/2017. (VI. 12.) EMMI rendelet módosítása
 
-23. §[^27]
+23. §[^24]
 
-[^27]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

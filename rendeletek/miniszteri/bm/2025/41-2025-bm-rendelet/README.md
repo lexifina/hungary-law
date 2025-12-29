@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-41-20-0
 | 2025-11-28 | 2025-41-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-11-29 | 2025-41-20-0A.4 | 2010. évi CXXX. törvény |
 | 2025-12-28 | 2025-41-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2025-12-29 | 2025-41-20-0A.6 | 2010. évi CXXX. törvény |

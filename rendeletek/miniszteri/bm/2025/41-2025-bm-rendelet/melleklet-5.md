@@ -1,3 +1,3 @@
-5. melléklet a 41/2025. (IX. 29.) BM rendelethez[^32]
+5. melléklet a 41/2025. (IX. 29.) BM rendelethez[^29]
 
-[^32]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
