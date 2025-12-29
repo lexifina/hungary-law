@@ -1,0 +1,1 @@
+3. § Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (3) bekezdését alkalmazni kell, azzal, hogy ahol az Itv. illetéket említ, azon igazgatási szolgáltatási díjat kell érteni.
