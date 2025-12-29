@@ -44,11 +44,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2021. június 30.
 
-7. egyetért azzal a céllal, hogy a stratégiai jelentőségű építési alapanyagok, építőanyagok és építési termékek minőségbiztosítása érdekében kiemelt jelentőségű a hazánkban forgalomba és beépítésre kerülő cement és mész termékek független minőségellenőrzése és gyártástanúsítása, amelynek érdekében a kapcsolódó termékek minőségellenőrzését az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉMI Nonprofit Kft.) lássa el, és felhívja az innovációért és technológiáért felelős minisztert, hogy a Kormány számára készítsen előterjesztést és részletes intézkedési tervet a végrehajtásra és a szükséges jogszabály-módosításokra vonatkozóan;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2021. július 31.
+7.[^1]
 
 8. egyetért azzal, hogy az építőipari konjunktúra kedvező hatásainak fenntarthatósága érdekében különösen fontos az építőipari nyers- és alapanyag termelés ellátásbiztonságának garantálása, amelynek elősegítése érdekében felhívja az innovációért és technológiáért felelős minisztert és a Miniszterelnökséget vezető minisztert, hogy – a Magyar Bányászati és Földtani Szolgálat bevonásával –
 
@@ -112,13 +108,7 @@ Határidő: az a) alpont esetében a felmerülés ütemében
 
 a b) alpont esetében az éves költségvetési törvény tervezése során
 
-14. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszterrel együttműködésben a 4. és 5. pontban megfogalmazott feladatok ellátására az ÉMI Nonprofit Kft. számára 2021. évben 2 500 000 000 forint forrást biztosítson;
-
-Felelős: pénzügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: a felmerülés ütemében
+14.[^2]
 
 15. felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter bevonásával az 5. ponttal összefüggésben az ÉPÍTŐ támogatási program keretében a Nemzeti Mintaházpark és Látogatóközpont fejlesztési céljaira, azon belül (Szentendre) az ágazati szereplők mintalétesítményeinek kialakítására és a Látogatóközpont üzemeltetésére
 
@@ -138,29 +128,9 @@ Határidő: az a) és b) alpont esetében a felmerülés ütemében
 
 a c) alpont esetében az éves költségvetési törvény tervezése során
 
-16. felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az ÉMI Nonprofit Kft. részére az építőanyagok, építési termékek vizsgálati hátterének megerősítése érdekében és a laboratóriumi háttér és infrastruktúra fejlesztéséhez
+16.[^3]
 
-a) a 2021. évben 900 000 000 forint,
-
-b) a 2022. évben 5 000 000 000 forint és
-
-c) a 2023. évben 3 370 000 000 forint
-
-forrás biztosításáról;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-pénzügyminiszter
-
-Határidő: az a) és b) alpont esetében a felmerülés ütemében
-
-a c) alpont esetében az éves költségvetési törvény tervezése során
-
-17. felhívja az innovációért és technológiáért felelős minisztert, hogy a 16. ponttal összefüggésben évente készítsen jelentést a Kormány számára;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2021. július 31-étől folyamatosan minden év július 31. napja
+17.[^4]
 
 18. felhívja az innovációért és technológiáért felelős minisztert, hogy évente készítsen jelentést a Kormány részére a Stratégia és a Stratégiához kapcsolódó intézkedési terv végrehajtásáról és eredményeiről;
 
@@ -178,6 +148,10 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. szeptember 15.
 
-20.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+20.[^5] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
-[^1]: A 20. pontot az 1291/2024. (IX. 19.) Korm. határozat 56. pontja iktatta be.
+[^1]: A 7. pontot az 1584/2025. (XII. 29.) Korm. határozat 2. pont g) alpontja visszavonta.
+[^2]: A 14. pontot az 1584/2025. (XII. 29.) Korm. határozat 2. pont g) alpontja visszavonta.
+[^3]: A 16. pontot az 1584/2025. (XII. 29.) Korm. határozat 2. pont g) alpontja visszavonta.
+[^4]: A 17. pontot az 1584/2025. (XII. 29.) Korm. határozat 2. pont g) alpontja visszavonta.
+[^5]: A 20. pontot az 1291/2024. (IX. 19.) Korm. határozat 56. pontja iktatta be.
