@@ -2,7 +2,7 @@
 
 66. § (1) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel –
 
-a) a környezeti hatásvizsgálat hatálya alá tartozó tevékenységek esetén – a b) pontban és az (1a) bekezdésben foglaltak kivételével – a tevékenységre a környezetvédelmi hatóság által kiadott környezetvédelmi engedély,
+a) a környezeti hatásvizsgálat hatálya alá tartozó tevékenységek esetén – a b) pontban és a 66/B. §-ban foglaltak kivételével – a tevékenységre a környezetvédelmi hatóság által kiadott környezetvédelmi engedély,
 
 b) az egységes környezethasználati engedélyezés hatálya alá tartozó esetekben a környezetvédelmi hatóság által kiadott egységes környezethasználati engedély,
 
@@ -16,7 +16,7 @@ f) az előzetes vizsgálati eljárást lezáró határozat alapján nem jelentő
 
 véglegessé válását követően kezdődhet meg, illetve folytatható.
 
-(1a) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel – az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdésének vagy 2. cikk (4) bekezdésének végrehajtása érdekében, törvényben meghatározott esetekben a környezeti hatásvizsgálati eljárás lefolytatása nélkül kezdődhet meg, illetve folytatható.
+(1a)
 
 (1b) A villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdés b) pontja szerinti eljárásban a környezetvédelmi engedély az integrált építési és környezetvédelmi engedély részeként kerül kiadásra.
 

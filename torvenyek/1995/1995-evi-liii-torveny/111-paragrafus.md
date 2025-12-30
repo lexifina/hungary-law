@@ -1,6 +1,6 @@
 111. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)
+a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 2011/92/EU irányelv módosításáról szóló, 2014. április 16-i 2014/52/EU európai parlamenti és tanácsi irányelv;
 
 b) a Tanács 91/271/EGK irányelve (1991. május 21.) a települési szennyvízkezelésről;
 
