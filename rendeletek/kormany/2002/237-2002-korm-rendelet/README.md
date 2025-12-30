@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-237-20-
 | 2015-05-01 | 2002-237-20-22.19 | 37/2015. (III. 6.) Korm. rendelet |
 | 2016-01-01 | 2002-237-20-22.20 | 227/2005. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2002-237-20-22.21 | 227/2005. (X. 13.) Korm. rendelet |
+| 2025-12-30 | 2002-237-20-22.22 | 110/2007. (V. 23.) Korm. rendelet |
