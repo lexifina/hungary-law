@@ -1,0 +1,5 @@
+22. § (1) Az eljáró tanács indokolt esetben határozatában rendelkezik az érintett infrastruktúraelemhez kapcsolódóan épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult nem elektronikus hírközlési szolgáltatónak a közös használatra alkalmassá tételével kapcsolatban felmerült költségeinek a nyilvános elektronikus hírközlő hálózat üzemeltetője általi megtérítéséről.
+
+(2) Az eljáró tanács a felmerült költségek megállapítása érdekében az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult nem elektronikus hírközlési szolgáltatót a felmerülő költségeket igazoló pénzügyi bizonylatok és dokumentumok, ajánlatok benyújtására kötelezheti.
+
+(3) Az eljáró tanács határozatában az épületen belüli fizikai infrastruktúra és az épület hozzáférési pont használatával összefüggésben nem állapít meg az érintett infrastruktúraelemhez kapcsolódóan épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult nem elektronikus hírközlési szolgáltató által alkalmazható díjat.

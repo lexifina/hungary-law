@@ -1,0 +1,1 @@
+12. § Az eljáró tanács az Eht. 93/B. § (3) bekezdése szerinti jogvitában hozott határozatában kötelezheti a hálózatüzemeltetőt vagy a közszférabeli szervezetet az adatszolgáltatási kötelezettsége teljesítésére, és megállapíthatja a szolgáltatni rendelt adatok körét, az adatszolgáltatás teljesítésének formáját és határidejét.
