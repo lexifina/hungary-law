@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-65-20-0
 | 2020-06-30 | 1999-65-20-0B.9 | 22/2020. (VI. 29.) ITM rendelet |
 | 2021-07-27 | 1999-65-20-0B.10 | 32/2021. (VII. 26.) ITM rendelet |
 | 2023-01-01 | 1999-65-20-0B.11 | 22/2020. (VI. 29.) ITM rendelet |
+| 2025-12-30 | 1999-65-20-0B.13 | 13/2014. (III. 14.) NGM rendelet |
