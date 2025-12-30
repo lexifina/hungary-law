@@ -12,6 +12,8 @@ c) elektronikus úton, vezetékes vagy vezeték nélküli adatátviteli vonalon
 
 történhet.
 
-(4) Az adatok továbbításáért (átviteléért), átvételéért, kezeléséért, tárolásáért, célhoz kötött felhasználásáért, védelméért és az őrzési időt követő megsemmisítéséért felelős szervezeti egység és személy adatkezelési jogosultságát, valamint a munkaterületet és a munkakört az érintett hatóság vezetője, illetve – rendvédelmi szerv esetében – a központi szerv vezetője határozza meg.
+(4)[^14] Az adatok továbbításáért (átviteléért), átvételéért, kezeléséért, tárolásáért, célhoz kötött felhasználásáért, védelméért és az őrzési időt követő megsemmisítéséért felelős szervezeti egység és személy adatkezelési jogosultságát, valamint a munkaterületet és a munkakört az érintett hatóság, polgári nemzetbiztonsági szolgálat vezetője, illetve – rendvédelmi szerv esetében – a központi szerv vezetője határozza meg.
 
 (5) Az érintett hatóságoknak biztosítaniuk kell, hogy az adatokhoz csak az arra jogosult más érintett hatóság, valamint a hozzáférési jogosultsággal rendelkezők jussanak hozzá.
+
+[^14]: A 6. § (4) bekezdése az 52/2025. (XII. 29.) NGM rendelet 1. §-a szerint módosított szöveg.
