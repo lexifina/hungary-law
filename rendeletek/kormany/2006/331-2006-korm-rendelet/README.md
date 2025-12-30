@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2025-07-01 | 2006-331-20-22.51 | 179/2025. (VI. 30.) Korm. rendelet |
 | 2025-07-18 | 2006-331-20-22.52 | 204/2025. (VII. 17.) Korm. rendelet |
 | 2025-12-24 | 2006-331-20-22.53 | 432/2025. (XII. 23.) Korm. rendelet |
+| 2025-12-30 | 2006-331-20-22.54 | 454/2025. (XII. 29.) Korm. rendelet |
