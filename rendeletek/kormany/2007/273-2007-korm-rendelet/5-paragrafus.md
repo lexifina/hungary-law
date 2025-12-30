@@ -8,9 +8,9 @@
 
 (5)[^37] A csatlakozási ponton a közcélú hálózatba villamos energiát betápláló háztartási méretű kiserőmű üzemeltetőjével mint felhasználóval jogviszonyban álló villamosenergia-kereskedő a háztartási méretű kiserőmű üzembe helyezésének időpontját – bővített háztartási méretű kiserőmű esetén a háztartási kiserőmű egésze tekintetében, a háztartási méretű kiserőmű névleges hatásos teljesítményének bővítése időpontját – követő 10 éves időszak végével érintett naptári hónap utolsó napjáig a hálózatba összesen betáplált és vételezett villamos energia vonatkozásában éves szaldó elszámolást alkalmaz
 
-a)[^38] a háztartási méretű kiserőmű esetén, amely 2023. szeptember 13. napjáig benyújtott igénybejelentés alapján legkésőbb 2026. január 1. napjáig üzembe helyezésre kerül, valamint
+a)[^38] a háztartási méretű kiserőmű esetén, amely 2023. szeptember 13. napjáig benyújtott igénybejelentés alapján legkésőbb 2026. január 1. napjáig készre jelentése megtörténik, valamint
 
-b)[^39] a bővített háztartási méretű kiserőmű esetén a háztartási méretű kiserőmű egésze tekintetében, amelynek névleges hatásos teljesítményének bővítése 2023. szeptember 13. napjáig benyújtott igénybejelentés alapján legkésőbb 2026. január 1. napjáig megtörténik.
+b)[^39] a bővített háztartási méretű kiserőmű esetén a háztartási méretű kiserőmű egésze tekintetében, amelynek névleges hatásos teljesítményének bővítés tekintetében a készre jelentés 2023. szeptember 13. napjáig benyújtott igénybejelentés alapján legkésőbb 2026. január 1. napjáig megtörténik.
 
 (5a)[^40] Az (5) bekezdéstől eltérően azon háztartási méretű kiserőmű esetén, amelynek üzembe helyezésének időpontjától – bővített háztartási méretű kiserőmű esetén a háztartási kiserőmű egésze tekintetében, a háztartási méretű kiserőmű névleges hatásos teljesítményének bővítése időpontjától – számított 10 év üzemidő 2023. december 31. napjáig letelik, a háztartási méretű kiserőmű üzemeltetőjével mint felhasználóval jogviszonyban álló villamosenergia-kereskedő az elszámolási időszak utolsó napját követő naptól 2023. december 31. napjáig tartó időszakra szaldó elszámolást alkalmaz a hálózatba összesen betáplált és vételezett villamos energia vonatkozásában.
 
@@ -20,9 +20,9 @@ b)[^39] a bővített háztartási méretű kiserőmű esetén a háztartási mé
 
 a)[^43] ha a háztartási méretű kiserőmű 2023. szeptember 13. napját követően benyújtott csatlakozási igénybejelentés alapján kerül üzembe helyezésre, az üzembe helyezés időpontjától,
 
-b)[^44] ha a 2023. szeptember 13. napjáig benyújtott csatlakozási igénybejelentés alapján a háztartási méretű kiserőmű csak 2026. január 1. napját követően kerül üzembe helyezésre, az üzembe helyezés időpontjától,
+b)[^44] ha a 2023. szeptember 13. napjáig benyújtott csatlakozási igénybejelentés alapján a háztartási méretű kiserőmű készre jelentése csak 2026. január 1. napját követően történik meg, az üzembe helyezés időpontjától,
 
-c)[^45] üzembe helyezett háztartási méretű kiserőmű esetén bővítés céljából 2023. szeptember 13. napjáig benyújtott igénybejelentés alapján a bővített rész csak 2026. január 1. napját követően kerül üzembe helyezésre, a teljes háztartási méretű kiserőmű vonatkozásában legkésőbb a bővített rész üzembe helyezésének időpontjától,
+c)[^45] üzembe helyezett háztartási méretű kiserőmű esetén bővítés céljából 2023. szeptember 13. napjáig benyújtott igénybejelentés alapján a bővített rész készre jelentése csak 2026. január 1. napját követően történik meg, a teljes háztartási méretű kiserőmű vonatkozásában legkésőbb a bővített rész üzembe helyezésének időpontjától,
 
 d)[^46] az (5) bekezdés szerinti háztartási méretű kiserőmű esetén az (5) bekezdés szerinti időszak végét követően, az időszak végét követő naptári hónap első napjától,
 
@@ -123,14 +123,14 @@ d) a rugalmassági szolgáltatás igénybevételének vizsgálatát.
 (11)[^76] Az egyetemes szolgáltató jogosult a (9) és (10) bekezdés alapján felmerült fizetési kötelezettségét a háztartási méretű kiserőmű üzemeltetője mint felhasználó lejárt tartozásába beszámítani, valamint a háztartási méretű kiserőmű üzemeltetőjének tárgyhavi és következő számlájában elszámolni.
 
 [^37]: A Vhr. 5. § (5) bekezdése a 427/2023. (IX. 13.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 680/2023. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^38]: A Vhr. 5. § (5) bekezdés a) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^39]: A Vhr. 5. § (5) bekezdés b) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^38]: A Vhr. 5. § (5) bekezdés a) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a, a 470/2025. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^39]: A Vhr. 5. § (5) bekezdés b) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a, a 470/2025. (XII. 30.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^40]: A Vhr. 5. § (5a) bekezdését a 721/2020. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 427/2023. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^41]: A Vhr. 5. § (5b) bekezdését a 427/2023. (IX. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 466/2024. (XII. 30.) Korm. rendelet 5. §-ával megállapított, a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^42]: A Vhr. 5. § (5c) bekezdését a 460/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 680/2023. (XII. 29.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
 [^43]: A Vhr. 5. § (5c) bekezdés a) pontját az Alkotmánybíróság a 2/2025. (V. 8.) AB határozatával megsemmisítette 2025. május 31. napjával, újonnan a 114/2025. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^44]: A Vhr. 5. § (5c) bekezdés b) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^45]: A Vhr. 5. § (5c) bekezdés c) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^44]: A Vhr. 5. § (5c) bekezdés b) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a, a 470/2025. (XII. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^45]: A Vhr. 5. § (5c) bekezdés c) pontja a 114/2025. (V. 26.) Korm. rendelet 4. §-a, a 470/2025. (XII. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^46]: A Vhr. 5. § (5c) bekezdés d) pontja a 680/2023. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^47]: A Vhr. 5. § (5c) bekezdés f) pontja a 680/2023. (XII. 29.) Korm. rendelet 17. § c) és 18. § c) pontja, a 114/2025. (V. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^48]: A Vhr. 5. § (5c) bekezdés g) pontja a 680/2023. (XII. 29.) Korm. rendelet 17. § d) pontja, a 280/2025. (VIII. 21.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
