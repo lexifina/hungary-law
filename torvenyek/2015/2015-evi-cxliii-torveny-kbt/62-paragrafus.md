@@ -34,7 +34,7 @@ e) gazdasági, illetve szakmai tevékenységével kapcsolatban bűncselekmény e
 
 f) tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdés b) pontja alapján vagy az adott közbeszerzési eljárásban releváns módon c) vagy g) pontja alapján a bíróság jogerős ítéletében korlátozta, az eltiltás ideje alatt, vagy ha az ajánlattevő tevékenységét más bíróság hasonló okból és módon jogerősen korlátozta;
 
-g)
+g) esetében az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet 25. cikk (2) bekezdés d) pontja értelmében az illetékes erdészeti hatóság véglegessé vált közigazgatási – vagy annak megtámadására irányuló közigazgatási per esetén a bíróság jogerős bírósági – határozatban legfeljebb 12 hónapra a közbeszerzésektől való eltiltásról döntött, a határozatban megállapított időtartam végéig;
 
 h) korábbi közbeszerzési vagy koncessziós beszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és
 
@@ -109,3 +109,5 @@ kell érteni.
 (7) Az ajánlatkérő – az érintett ajánlattevő, részvételre jelentkező, alvállalkozó, alkalmasság igazolásában részt vevő szervezet nevének és címének (székhelyének, lakóhelyének) az eljárás tárgyának és azonosítójának, valamint a kizárás és a kizárt gazdasági szereplő erről való tudomásszerzése időpontjának megjelölésével, valamint a kizárásra okot adó cselekmény és az eset lényeges körülményeinek leírásával – köteles tájékoztatni a Közbeszerzési Hatóságot az (1) bekezdés i) és j) pontja szerinti kizárásról és a kizárás időpontjáról.
 
 (8) A Gazdasági Versenyhivatal az EKR-ben közzéteszi az (1) bekezdés n) pontja szerinti – a Gazdasági Versenyhivatal vagy a Gazdasági Versenyhivatal döntésével szemben indított közigazgatási perben a bíróság által hozott – a kizáró okot megalapozó határozatokra vonatkozó, a kizáró ok hiányának ellenőrzését szolgáló információkat. A Gazdasági Versenyhivatal értesíti a közbeszerzésekért felelős minisztert, valamint a támogatást nyújtó szervet a Gazdasági Versenyhivatal döntésének közzétételéről, ha az (1) bekezdés n) pontja szerinti jogsértést európai uniós forrás felhasználását érintő ügyben állapították meg.
+
+(9) Az (1) bekezdés g) pontja szerint eljáró erdészeti hatóság az EKR-ben közzéteszi az (1) bekezdés g) pontja szerinti – az erdészeti hatóság vagy az erdészeti hatóság döntésével szemben indított közigazgatási perben a bíróság által hozott –, a kizáró okot megalapozó határozatokra vonatkozó, a kizáró ok hiányának ellenőrzését szolgáló információkat.
