@@ -270,7 +270,7 @@
 
 2.59.[^36] Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.,
 
-2.60.[^37] ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.
+2.60.[^37]
 
 2.61.[^38] Zalaegerszegi Járműipari Tesztpálya,
 
@@ -322,7 +322,7 @@
 [^34]: Az 1. melléklet 2. pont 2.57. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^35]: Az 1. melléklet 2. pont 2.58. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^36]: Az 1. melléklet 2. pont 2.59. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet 2. pont 2.60. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^37]: Az 1. melléklet 2. pont 2.60. alpontját az 1585/2025. (XII. 29.) Korm. határozat 2. pont b) alpontja hatályon kívül helyezte.
 [^38]: Az 1. melléklet 2. pont 2.61. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^39]: Az 1. melléklet 2. pont 2.62. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^40]: Az 1. melléklet 2. pont 2.63. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
