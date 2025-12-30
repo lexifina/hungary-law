@@ -1,4 +1,4 @@
-137. §[^528] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 483/2023. (X. 31.) Korm. rendelettel (a továbbiakban: Módr129.) 2. mellékletében foglalt táblázat 124. sorát a Módr129. hatálybalépésekor[^529] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+137. §[^530] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 483/2023. (X. 31.) Korm. rendelettel (a továbbiakban: Módr129.) 2. mellékletében foglalt táblázat 124. sorát a Módr129. hatálybalépésekor[^531] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^528]: A 137. §-t a 483/2023. (X. 31.) Korm. rendelet 1. §-a iktatta be.
-[^529]: A hatálybalépés időpontja 2023. november 1.
+[^530]: A 137. §-t a 483/2023. (X. 31.) Korm. rendelet 1. §-a iktatta be.
+[^531]: A hatálybalépés időpontja 2023. november 1.
