@@ -36,11 +36,13 @@ n)[^15] az állami, Egészségbiztosítási Alapból finanszírozott és az Orsz
 
 o)[^16] az MNV Zrt.-vel kötött megállapodás keretei között gondoskodik
 
-oa) a Budapest, XIV. kerület, belterület 32707/1 és 32707/7 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Dürer Kert Irodapark),
+oa) a Budapest XIV. kerület, belterület 32707/1 és 32707/7 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Dürer Kert Irodapark),
 
-ob) a Budapest, XIV. kerület, belterület 31267/140, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149 és 31267/150 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Zugló Városközpont Irodakomplexum),
+ob) a Budapest XIV. kerület, belterület 31267/140, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149 és 31267/150 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Zugló Városközpont Irodakomplexum), valamint
 
-oc) a Budapest, XI. kerület, belterület 4042/114, 4042/137, 4042/139, 4042/151, 4042/178 és 4042/180 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Kopaszi-gát Irodakomplexum) vonatkozásában az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról, azzal, hogy az ob) és oc) alpontok szerinti ingatlanokban elhelyezésre kerülő szervezetek évenként, megállapodáson alapuló előirányzat-átcsoportosítás útján vagy a szolgáltatások részletezését és igénybevételének rendjét szabályozó megállapodás alapján, számla ellenében közvetlenül a Főigazgatóság részére térítik meg az üzemeltetéssel összefüggésben felmerülő költségeket.
+oc) a Budapest XI. kerület, belterület 4042/114, 4042/137, 4042/139, 4042/151, 4042/178 és 4042/180 helyrajzi számú ingatlanokon megvalósuló iroda- és kiegészítő funkciójú épületek (Kopaszi-gát Irodakomplexum) vonatkozásában
+
+az 1. melléklet I. pontjában meghatározott üzemeltetési szolgáltatások biztosításáról, azzal, hogy az oa)–oc) alpont szerinti ingatlanokban elhelyezésre kerülő szervezetek évenként, megállapodáson alapuló előirányzat-átcsoportosítás útján vagy a szolgáltatások részletezését és igénybevételének rendjét szabályozó megállapodás alapján, számla ellenében közvetlenül a Főigazgatóság részére térítik meg az üzemeltetéssel összefüggésben felmerülő költségeket.
 
 (1a)[^17] A Főigazgatóság az (1) bekezdés a), b) és d) pontjában meghatározott szervezeteknek a 2. mellékletben meghatározott szolgáltatásokat abban az esetben nyújtja, ha azt az (1) bekezdés a), b) és d) pontjában meghatározott szerv kifejezetten igényli, és biztosítja az ahhoz szükséges költségvetési fedezetet.
 
@@ -101,7 +103,7 @@ megállapodást köthet. A megállapodásban rendelkezni kell a Főigazgatóság
 [^13]: A 3. § (1) bekezdés l) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^14]: A 3. § (1) bekezdés m) pontját a 72/2019. (IV. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 644/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: A 3. § (1) bekezdés n) pontját a 83/2023. (III. 16.) Korm. rendelet 4. §-a iktatta be, szövege ugyanezen módosító rendelet 6. §-a szerint módosított szöveg.
-[^16]: A 3. § (1) bekezdés o) pontját a 206/2025. (VII. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A 3. § (1) bekezdés o) pontját a 206/2025. (VII. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 452/2025. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 3. § (1a) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^18]: A 3. § (1b) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^19]: A 3. § (2) bekezdését a 293/2017. (X. 10.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 206/2025. (VII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
