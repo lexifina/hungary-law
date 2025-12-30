@@ -1,5 +1,5 @@
 ## 1. A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet [a továbbiakban: 321/2015. (X. 30.) Korm. rendelet] 8. §-a a következő e) ponttal egészül ki:
 
-[^1]: Az 1. § a 15. § (2) bekezdése alapján 2025. december 30-án lép hatályba.
+(Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban az ajánlatkérő a Kbt. 62. §-a tekintetében a következő igazolásokat és írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:)
