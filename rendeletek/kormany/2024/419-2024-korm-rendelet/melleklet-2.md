@@ -1,6 +1,6 @@
-2. melléklet a 419/2024. (XII. 23.) Korm. rendelethez[^12]
+2. melléklet a 419/2024. (XII. 23.) Korm. rendelethez[^13]
 
-A nevelő-oktató munka során alkalmazott tartalomszabályozókról szóló gyakornoki továbbképzési programok:
+## A nevelő-oktató munka során alkalmazott tartalomszabályozókról szóló gyakornoki továbbképzési programok:
 
 1. A magyar nyelv és irodalom tantárgy tartalmi szabályozása az 5–8. évfolyamon a Nemzeti alaptantervben (a továbbiakban: Nat.), a kerettantervekben és ennek megjelenése a tankönyvekben
 
@@ -64,7 +64,7 @@ A nevelő-oktató munka során alkalmazott tartalomszabályozókról szóló gya
 
 31. Az általános iskola alsó tagozatának tartalmi szabályozása a Nat.-ban, a kerettantervekben és ennek megjelenése a tankönyvekben.
 
-32.[^13] Az óvodapedagógusi munkát meghatározó központi szabályozó: az Óvodai Nevelés Országos Alapprogramja.
+32.[^14] Az óvodapedagógusi munkát meghatározó központi szabályozó: az Óvodai Nevelés Országos Alapprogramja.
 
-[^12]: A 2. mellékletet a 182/2025. (VI. 30.) Korm. rendelet 13. §-a iktatta be.
-[^13]: A 2. melléklet 32. pontját a 288/2025. (VIII. 28.) Korm. rendelet 25. §-a iktatta be.
+[^13]: A 2. mellékletet a 182/2025. (VI. 30.) Korm. rendelet 13. §-a iktatta be.
+[^14]: A 2. melléklet 32. pontját a 288/2025. (VIII. 28.) Korm. rendelet 25. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 9. A köznevelési igazgatóképzés
 
-13. § (1)[^9] A pedagógus az igazgatói megbízása előtt, a fenntartó jóváhagyásával, a Hivatal által szervezett köznevelési igazgatóképzésen vesz részt.
+13. § (1)[^10] A pedagógus az igazgatói megbízása előtt, a fenntartó jóváhagyásával, a Hivatal által szervezett köznevelési igazgatóképzésen vesz részt.
 
 (2) A köznevelési igazgatóképzést a Hivatal két féléves, százhúsz kreditértékű pedagógus-továbbképzés keretében szervezi meg.
 
@@ -8,4 +8,4 @@
 
 (4) A köznevelési igazgatóképzés során a pedagógus felkészítést kap az oktatásszervezés, az oktatásirányítás, a tanügyigazgatás, a gazdálkodás, a szakmai fejlesztés, a köznevelés jogi ismereteinek elsajátításához és a megszerzett ismeretek gyakorlati alkalmazásához.
 
-[^9]: A 13. § (1) bekezdése a 182/2025. (VI. 30.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^10]: A 13. § (1) bekezdése a 182/2025. (VI. 30.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
