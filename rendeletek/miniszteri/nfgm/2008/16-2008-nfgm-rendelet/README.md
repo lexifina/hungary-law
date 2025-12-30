@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-16-20-2
 | 2012-05-04 | 2008-16-20-2K.4 | 9/2012. (V. 3.) NGM rendelet |
 | 2019-09-01 | 2008-16-20-2K.5 | 25/2019. (VIII. 26.) ITM rendelet |
 | 2021-07-16 | 2008-16-20-2K.6 | 25/2020. (VII. 3.) ITM rendelet |
+| 2025-12-30 | 2008-16-20-2K.7 | 53/2025. (XII. 29.) NGM rendelet |

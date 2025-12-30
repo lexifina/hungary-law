@@ -1,5 +1,5 @@
-## 11. §[^11]
-
 ## Bejelentett szervezet
 
-[^11]: A 11. §-t a 25/2019. (VIII. 26.) ITM rendelet 5. §-a hatályon kívül helyezte.
+12–13. §[^13]
+
+[^13]: A 12–13. §-t a 16/2010. (IV. 28.) NFGM rendelet 27. §-a hatályon kívül helyezte.

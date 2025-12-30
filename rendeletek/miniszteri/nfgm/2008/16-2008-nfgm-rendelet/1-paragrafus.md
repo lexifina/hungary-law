@@ -42,7 +42,7 @@ ee) a légi-, vízi és vasúti járműre, az erre a járműre szerelt gép kiv�
 
 f) a tengerjáró hajóra, a mobil part menti szerkezetre és az ilyen hajó vagy egység fedélzetén elhelyezett berendezésre;
 
-g) a kifejezetten katonai célra vagy rendvédelmi szerv céljára tervezett és gyártott gépre;
+g)[^1] a kifejezetten katonai célra, rendvédelmi szerv céljára vagy polgári nemzetbiztonsági szolgálat céljára tervezett és gyártott gépre;
 
 h) a kifejezetten kutatási célra, ideiglenes laboratóriumi használatra tervezett és gyártott gépre;
 
@@ -71,3 +71,5 @@ la) a kapcsolóberendezésre és vezérlőműre,
 lb) a transzformátorra.
 
 (3) E rendelet hatálya nem terjed ki a gépre, ha az 1. mellékletben meghatározott alapvető követelményeket külön jogszabály részben vagy egészben egyedileg meghatározza.
+
+[^1]: Az 1. § (2) bekezdés g) pontja az 53/2025. (XII. 29.) NGM rendelet 1. §-a szerint módosított szöveg.

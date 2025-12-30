@@ -6,7 +6,7 @@
 
 1. A gyártónak vagy meghatalmazott képviselőjének a 8. melléklet „A” részében meghatározott műszaki dokumentációt minden egyes típusra el kell készítenie.
 
-2.[^18] Az EK-típusvizsgálatot a gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője az általa választott bejelentett szervezettel végezteti el. E célból a gyártó, vagy a meghatalmazott képviselő köteles átadni a bejelentett szervezetnek
+2.[^19] Az EK-típusvizsgálatot a gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője az általa választott bejelentett szervezettel végezteti el. E célból a gyártó, vagy a meghatalmazott képviselő köteles átadni a bejelentett szervezetnek
 
 2.1. a gyártó és indokolt esetben meghatalmazott képviselője nevét és címét,
 
@@ -52,4 +52,4 @@ A gyártó és a bejelentett szervezet a tanúsítvány, a műszaki dokumentáci
 
 9.4. Abban az esetben, ha az EK-típusvizsgálati tanúsítványt nem újítják meg, a gyártónak az érintett gép forgalmazását meg kell szüntetnie.
 
-[^18]: A 6. számú melléklet 2. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^19]: A 6. számú melléklet 2. pontja a 16/2010. (IV. 28.) NFGM rendelet 25. § (3) bekezdésével megállapított szöveg.
