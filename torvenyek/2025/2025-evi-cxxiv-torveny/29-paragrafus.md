@@ -11,15 +11,3 @@ való megfelelést szolgálja.
 (3) A 3. §, az 5. § c) pontja, a 2. alcím és a 4. alcím a csomagolásról és a csomagolási hulladékról, az (EU) 2019/1020 rendelet és az (EU) 2019/904 irányelv módosításáról, valamint a 94/62/EK irányelv hatályon kívül helyezéséről szóló, 2024. december 19-i (EU) 2025/40 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) A 4. alcím a hulladékszállításról, az 1257/2013/EU és az (EU) 2020/1056 rendelet módosításáról, valamint az 1013/2006/EK rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
