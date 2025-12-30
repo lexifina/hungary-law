@@ -1,0 +1,2135 @@
+# A miniszterelnök általános helyettesének 2/2025. (XII. 30.) TNM rendelete
+
+Magyar Közlöny 2025. évi 160. szám, 2025. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/p1UZBNSoHiBBftW595F66949b7f7ae914/dokumentumok/5858f900426cb56e532a468a989dbb1417d9aef0/letoltes)
+
+---
+
+A miniszterelnök általános helyettesének 2/2025. (XII. 30.) TNM rendelete
+a nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló
+2/2019. (III. 19.) TNM rendeletnek a 2026. évi felhasználási szabályok megállapítására irányuló módosításáról
+[1] A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.)
+TNM rendelet módosításának célja, hogy a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi
+LXIX. törvényben foglaltakra figyelemmel, a jogrendszer egységességét fenntartva, a 2026. év tekintetében az érintett
+előirányzatok kezelési és felhasználási szabályairól rendelkezzen.
+[2] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdés a) pont ab)−ag) alpontjában kapott felhatalmazás
+alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont
+11. alpont a) pontjában meghatározott feladatkörömben eljárva − a Kormány tagjainak feladat- és hatásköréről szóló
+182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 22. pontjában meghatározott feladatkörében eljáró nemzetgazdasági
+miniszterrel egyetértésben − a következőket rendelem el:
+1. §
+A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.)
+TNM rendelet (a továbbiakban: R.) 1. melléklete helyébe az 1. melléklet lép.
+2. §
+Az R. 4. §
+1. a) pontjában a„7a., 7b. és 15.”szövegrész helyébe a„15–17., 19., 20. és 24–26.”szöveg,
+2. b) pontjában az„5., 7a., 7b., 15., 19., 21. és 22.”szövegrész helyébe a„8., 15., 16., 18., 21., 23., 24. és 26.”szöveg,
+3. c) pontjában a„7a., 7b., 21. és 22a.”szövegrész helyébe a„15–21. és 26.”szöveg
+lép.
+3. §
+Ez a rendelet 2026. január 1. napján lép hatályba.
+4. §
+Ez a rendelet
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való
+alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet és
+b) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet
+hatálya alá tartozó támogatást tartalmaz.
+ Dr. Semjén Zsolt s. k.,
+ a miniszterelnök általános helyettese
+
+1. melléklet a 2/2025. (XII. 30.) TNM rendelethez
+„1. melléklet a 2/2019. (III. 19.) TNM rendelethez
+A XI. Miniszterelnökség fejezetébe sorolt nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok 2026. évi feladatterve
+1. melléklet az …/2025. ( …. ) TNM rendelethez
+„1. melléklet a 2/2019. (III. 19.) TNM rendelethez
+A XI. Miniszterelnökség fejezetébe sorolt nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok 2026. évi feladatterve
+A B C D E F G H I J K L M N O
+1.
+ÁHT
+azonosító
+Cím-
+név
+Alcím-
+név
+Jogcím-
+csoport név
+Jogcím-
+név
+Előirányzat célja
+Kifizetésben
+részesülők köre
+Támogatás
+biztosításának
+módja
+Támogatási
+előleg
+Rendelkezésre
+bocsátás
+módja
+Visszafizetés
+határideje
+Biztosíték Kezelő szerv
+Lebo-
+nyolító
+szerv
+Európai uniós
+forrásból
+finanszírozott
+költségvetési
+támogatás
+közreműködő
+szervezete
+2. 296635 30 Fejezeti kezelésű előirányzatok
+3. 334706 30/1 Célelőirányzatok
+4. 218814 30/1/30 Egyházi célú központi
+költségvetési hozzájárulások
+5. 351706 30/1/30/1 Karitatív
+Tanács tagjai által
+koordinált
+feladatok
+támogatása
+Az előirányzat
+biztosít fedezetet
+a Karitatív Tanács
+tagszervezetei
+részére a karitatív
+tanácsi tagságból
+eredő, valamint
+egyéb felmerülő
+feladataik
+megvalósításának
+támogatására.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor már
+megkezdett vagy
+megvalósult
+Karitatív
+Tanács
+tagszervezetei
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+szerződés
+vagy okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján,
+a költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+igénybe
+vehető
+-
+
+tevékenységre is
+nyújtható.
+6. 006057 30/1/30/2 Egyházi
+alapintézmény-
+működés, SZJA
+rendelkezés és
+kiegészítése
+Az előirányzat
+fedezetet biztosít
+a személyi
+jövedelemadó
+meghatározott
+részének az adózó
+rendelkezése szerinti
+felhasználásáról
+szóló 1996. évi
+CXXVI. törvény 1. §
+(4) bekezdés
+b) pontjában és
+4/A. §-ában
+meghatározottak
+szerint a rendelkező
+nyilatkozatot tevő
+magánszemélyek
+által befizetett
+személyi
+jövedelemadó
+egy százalékának
+a bevett egyházak,
+a bejegyzett
+egyházak, a
+nyilvántartásba vett
+egyházak és a vallási
+egyesületek részére
+történő
+rendelkezésre
+bocsátásához,
+valamint
+az egyházak hitéleti
+és közcélú
+tevékenységének
+anyagi feltételeiről
+szóló 1997. évi
+CXXIV. törvény
+(a továbbiakban:
+bevett egyház,
+bejegyzett
+egyház,
+nyilvántartásba
+vett egyház,
+vallási
+egyesület
+törvény
+alapján
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+- - - - -
+
+Eftv.) 4. § (2) és
+(3) bekezdése
+szerinti
+kiegészítéshez a
+bevett egyházak és
+a bejegyzett
+egyházak részére.
+7. 208602 30/1/30/3 Átadásra
+nem került
+ingatlanok utáni
+járadék
+Az előirányzat
+terhére kerül
+folyósításra a bevett
+egyházak részére
+egyrészt az Eftv. 3. §
+(1) bekezdése
+szerinti
+ingatlanjáradék,
+valamint a katolikus,
+református,
+evangélikus, baptista
+egyházak, zsidó
+hitközségek,
+továbbá a budai
+szerb ortodox
+egyházmegye
+kiemelt közfeladat
+átvállalásai miatt
+– megállapodásban
+rögzített – kiegészítő
+járadék; másrészt
+az Eftv. 3. §
+(2) bekezdése
+szerinti, az előző évi
+központi
+költségvetés
+végrehajtásáról szóló
+törvény elfogadását
+követően, a KSH által
+közzétett előző évi
+átlagos fogyasztói
+árindex alapján
+kiszámított
+bevett egyház törvény
+alapján
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+- - - - -
+
+zárszámadási
+korrekció.
+8. 298124 30/1/30/6 Egyházi
+gyűjtemények és
+művelődési
+intézmények
+támogatása
+Az előirányzat
+szolgálja az Eftv. 7. §
+(1) bekezdésében
+meghatározott
+támogatási célok
+teljesülését, így
+fedezetet biztosít az
+egyházi gyűjteményi
+feladatokat ellátó
+intézmények
+működési, felújítási,
+gyarapítási feladatai
+támogatására,
+egyházi
+gyűjteményekben
+dolgozó minősített
+kutatók
+illetménykiegészítés
+ére, valamint az
+egyházi művelődési
+intézmények
+működésére a
+lelkiismereti és
+vallásszabadság
+jogáról, valamint az
+egyházak,
+vallásfelekezetek és
+vallási közösségek
+jogállásáról szóló
+2011. évi CCVI.
+törvény
+végrehajtásáról szóló
+231/2019. (X. 4.)
+Korm. rendelet
+[a továbbiakban:
+231/2019. (X. 4.)
+Korm. rendelet]
+egyházi jogi
+személy
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján,
+a költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+rendelkezései
+szerint.
+A költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+9. 298146 30/1/30/7
+Fakultatív
+hittanoktatás
+támogatása
+A fakultatív
+hittanoktatás
+támogatása céljából
+– törvény vagy az
+egyházzal kötött
+megállapodás
+alapján – az
+előirányzat fedezetet
+biztosít az óvodások,
+valamint a
+köznevelési és
+szakképző
+intézmények nem
+felnőttoktatásban,
+illetve -képzésben
+részt vevő tanulói
+részére szervezett
+fakultatív
+hittanoktatás
+támogatására, ide
+nem értve a nemzeti
+köznevelésről szóló
+2011. évi CXC.
+törvény (a
+továbbiakban: Nktv.)
+35/A. §-a szerinti hit-
+és
+erkölcstanoktatást,
+ideértve ugyanakkor
+az Nktv. 35. § (1)
+bekezdése szerinti
+fakultatív hitoktatást.
+Az előirányzat
+fedezetet biztosít
+továbbá a
+közfeladatot ellátó
+egyházi jogi
+személy
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján,
+a költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+közérdekű
+vagyonkezelő
+alapítvány által
+fenntartott
+felsőoktatási
+intézmények
+gyakorlóiskoláiban –
+a tanulók és a szülők
+igényei szerint –
+szervezett fakultatív
+hittanoktatásra, ha
+annak feltételeiről a
+fenntartó alapítvány
+és az egyházi jogi
+személy között
+megkötött
+megállapodás
+rendelkezik.
+A fakultatív
+hittanoktatás
+támogatásra a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései
+irányadóak.
+A költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+10. 261290 30/1/30/8
+Magyarországi
+egyházi személyek
+jövedelempótléka
+és zsidó örökség
+ápolása
+céltámogatás
+Az előirányzat
+a) a Magyarországon
+hitéleti szolgálatot
+teljesítő egyházi
+személyek, valamint
+a külön
+megállapodással
+rendelkező egyházi
+jogi személyek és
+vallási közösségek
+egyházi személyei,
+illetve vallásos
+szertartást
+bevett egyház
+és a 231/2019.
+(X. 4.) Korm.
+rendelet 5.
+melléklete
+szerinti vallási
+egyesület
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján,
+a költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+hivatásszerűen
+végző tagjai
+jövedelempótléká-
+nak biztosítása
+céljából fedezetet
+biztosít
+a szolgálati helynek
+minősülő
+magyarországi
+településen hitéleti
+szolgálatot teljesítő
+egyházi személyek
+jövedelempótlékára,
+továbbá
+b) a zsidó örökség
+ápolása céljából
+fedezetet biztosít
+a teljes egészében
+lezárt zsidó temetők
+vallási előírásokat és
+kegyeleti
+szempontokat
+tiszteletben tartó
+fenntartásának,
+a nem a zsidó
+hitközségek
+tulajdonában álló,
+lezárt zsidó temetők
+fenntartásának és
+a használatban lévő
+zsidó temetők
+felújításának
+támogatására,
+valamint a jelentős
+zsidó múlttal
+rendelkező
+magyarországi vidéki
+és magyar
+közösséggel
+rendelkező külhoni
+
+települések zsidó
+kulturális életének
+reorganizációjához
+kapcsolódó
+támogatásra
+a 231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései
+szerint.
+A költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+11. 343462 30/1/30/9
+Külhonban
+szolgálatot teljesítő
+egyházi személyek
+támogatása
+A külhonban
+szolgálatot teljesítő
+egyházi személyek
+támogatása céljából
+az előirányzat
+fedezetet biztosít
+a külhoni
+szórványtelepülések
+gyülekezeteiben
+magyar nyelven
+szolgálatot teljesítő
+egyházi személyek
+pasztorációs
+munkájának
+támogatására,
+valamint a
+nemzetmegtartó
+tevékenységük
+kiegészítő
+támogatására
+a 231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései
+szerint.
+határon túli
+egyházi jogi
+személy,
+határon túli
+egyházi
+szervezet,
+bevett egyház
+és annak belső
+egyházi jogi
+személye
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján,
+támogatói
+okirattal
+biztosítható egyösszegű
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül, azzal,
+hogy a határon
+túli
+szervezetnek
+és a külföldi
+szervezetnek
+támogatási
+kérelem
+alapján
+nyújtott
+határon túli
+költségvetési
+támogatás
+Bethlen Gábor
+Alapkezelő
+Zártkörűen
+Működő
+Részvény-
+társaság
+(a továbbiakban:
+Bethlen Gábor
+Alapkezelő Zrt.)
+-
+
+A költségvetési
+támogatás
+a támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+esetén
+biztosíték
+kikötésére
+nem kerül sor.
+12. 375973 30/1/30/10
+Kórházlelkészi
+szolgálat
+támogatása
+Az előirányzat
+fedezetet biztosít
+a kórházakban és az
+egészségügyi
+intézményekben
+lelkészi vagy
+lelkigondozói
+szolgálatot végzők
+támogatására
+a 231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései
+szerint.
+A költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+bevett egyház pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján,
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+13. 375984 30/1/30/11 A
+külhoni és
+diaszpórában élő
+magyarság hitéleti
+tevékenységének
+támogatása
+Az előirányzat
+fedezetet biztosít
+a külhoni és
+diaszpórában élő
+magyarság hitéleti
+tevékenységének
+támogatására
+a 231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései
+szerint.
+A költségvetési
+támogatás a már
+bevett egyház pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján,
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+14. 333517 30/1/30/14 Egyházi
+fenntartású
+intézményekben
+foglalkoztatottak
+kompenzációja
+Az előirányzat
+szolgál a
+köznevelési,
+felsőoktatási,
+egészségügyi,
+karitatív, szociális,
+család-, gyermek- és
+ifjúságvédelmi,
+kulturális vagy
+sporttevékenységet
+ellátó bevett egyház
+és belső egyházi jogi
+személyénél
+foglalkoztatottak
+részére – az adó- és
+járulékfizetési
+kötelezettséget
+megállapító
+törvények
+módosításából
+adódó
+nettójövedelem-
+csökkenés
+kompenzálására
+jogszabály alapján –
+járó többlet-
+személyijuttatások
+és az azokhoz
+kapcsolódó
+munkaadókat
+terhelő járulékok és
+szociális
+hozzájárulási adó
+kifizetésére. A
+költségvetési
+támogatás az
+egyházi jogi
+bevett egyház,
+nemzetközi
+megállapodás
+alapján a
+Szuverén
+Jeruzsálemi,
+Rodoszi és
+Máltai Szent
+János Katonai
+és Ispotályos
+Rend kijelölt
+szervezetei
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható
+(az egyházi
+jogi
+személyek
+foglalkozta-
+tottjainak
+kompenzá-
+ciójáról
+szóló Korm.
+rendelet
+rendelkezé-
+sei szerint)
+egyösszegű
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+személyek
+foglalkoztatottjainak
+kompenzációjáról
+szóló
+kormányrendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+15. 263212 30/1/30/15 Egyházi
+épített örökség
+védelme és egyéb
+beruházások
+támogatása
+Az egyházi épített
+örökség védelme és
+egyéb beruházások
+támogatása céljából
+az előirányzat
+biztosít fedezetet az
+egyházi műemlék és
+nem műemlék
+ingatlanok
+állagmegóvási,
+felújítási, valamint
+egyházi fenntartású,
+hitéleti és egyéb
+feladatokat ellátó
+intézmények
+beruházási
+feladatainak
+megvalósítására és
+egyéb kapcsolódó
+fejlesztésekre. A
+támogatás műemlék
+és nem műemlék
+templomok,
+plébániák, parókiák,
+székesegyházak,
+érseki, püspöki
+egyházi jogi
+személy,
+határon túli
+egyházi
+szervezet,
+Karitatív
+Tanács
+tagszervezetei
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben,
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül, azzal,
+hogy a határon
+túli
+szervezetnek
+és a külföldi
+szervezetnek
+támogatási
+kérelem
+alapján
+nyújtott
+határon túli
+költségvetési
+támogatás
+esetén
+biztosíték
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+paloták, kolostorok,
+imaházak,
+gyülekezeti,
+közösségi házak,
+zsinagógák
+rekonstrukciójára,
+bővítésére, egyházi
+iskolák, kollégiumok
+felújítására,
+bővítésére,
+esetenként oktatási,
+szociális és karitatív
+beruházásokra,
+felújításokra
+használható fel. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+kikötésére
+(ide nem értve
+a beruházással
+létrejövő
+vagyonelemre
+vonatkozó
+vagyonbiztosít
+ási szerződés
+előírását) nem
+kerül sor.
+16. 335740 30/1/30/16 Egyházi
+közösségi célú
+programok
+támogatása
+Az előirányzat célja a
+közösségépítést
+szolgáló, továbbá
+hitéleti, kulturális,
+oktatási, szociális és
+egyéb programok,
+valamint az ezekhez
+kapcsolódó általános
+működési kiadások
+és beruházások
+egyházi jogi
+személy,
+határon túli
+egyházi
+szervezet,
+nemzetközi
+megállapodás
+alapján a
+Szuverén
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+biztosítható egy
+összegben,
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+támogatása. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+Jeruzsálemi,
+Rodoszi és
+Máltai Szent
+János Katonai
+és Ispotályos
+Rend és kijelölt
+szervezetei
+támogatói
+okirattal
+megjelölése
+nélkül, azzal,
+hogy a határon
+túli
+szervezetnek
+és a külföldi
+szervezetnek
+támogatási
+kérelem
+alapján
+nyújtott
+határon túli
+költségvetési
+támogatás
+esetén
+biztosíték
+kikötésére (ide
+nem értve a
+beruházással
+létrejövő
+vagyonelemre
+vonatkozó
+vagyonbiztosí-
+tási szerződés
+előírását) nem
+kerül sor.
+17. 343473 30/1/30/17 Vallási
+közösségek
+támogatása
+Az előirányzat a nem
+bevett egyháznak
+minősülő, vallási
+tevékenységet
+végző szervezetek
+támogatása céljából
+fedezetet biztosít
+azok működésének,
+valamint programjai
+és beruházásai
+megvalósításának –
+ezzel a lelkiismereti
+és vallásszabadság
+joga gyakorlásának –
+vallási
+egyesület,
+bejegyzett
+egyház,
+nyilvántartásba
+vett egyház
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+a támogatására. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+18. 343773 30/1/30//18
+Határon túli
+egyházi
+intézmények
+fejlesztésének
+támogatása
+Az előirányzat célja a
+hosszú távú
+nemzetpolitikai
+stratégiai célok
+megvalósításához
+való hozzájárulás a
+hitélet területén,
+amely érdekében az
+előirányzat fedezetet
+biztosít a határon túli
+egyházi intézmények
+fejlesztésére, az
+egyházi szervezetek
+feladatellátási
+tevékenységével
+szorosan összefüggő
+infrastruktúra
+fejlesztésére, nagy
+értékű tárgyi eszköz
+vásárlására,
+esetenként
+rendezvények és
+azok technikai
+infrastruktúrájának
+egyházi jogi
+személy,
+határon túli
+egyházi
+szervezet
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül, azzal,
+hogy a határon
+túli
+szervezetnek
+és a külföldi
+szervezetnek
+támogatási
+kérelem
+alapján
+nyújtott
+határon túli
+költségvetési
+támogatás
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+támogatására, a
+külhoni egyházi
+fenntartású
+létesítmények
+felújítási
+költségeinek és
+egyes
+beruházásainak,
+valamint a
+feladatellátási
+tevékenységükhöz
+kapcsolódó
+működési költségek
+támogatására. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+esetén
+biztosíték
+kikötésére
+(ide nem értve
+a beruházással
+létrejövő
+vagyonelemre
+vonatkozó
+vagyonbiztosí-
+tási szerződés
+előírását) nem
+kerül sor.
+19. 348517 30/1/30/19 Egyházi
+személyek
+eszközellátásának
+támogatása
+Az egyházi
+személyek
+eszközellátásának
+támogatása céljából
+az előirányzat
+fedezetet biztosít az
+egyházi szolgálatot
+teljesítő személyek
+munkájának segítése
+érdekében gépjármű
+vagy egyéb
+bevett egyház
+és annak belső
+egyházi jogi
+személye,
+nemzetközi
+megállapodás
+alapján a
+Szuverén
+Jeruzsálemi,
+Rodoszi és
+Máltai Szent
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+infrastrukturális és
+technikai eszközök
+vásárlásának
+támogatására. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+János Katonai
+és Ispotályos
+Rend és kijelölt
+szervezetei;
+támogatói
+okirattal
+megjelölése
+nélkül.
+20. 368928 30/1/30/20
+Görögkatolikus
+Metropólia
+működésének és
+beruházásainak
+támogatása
+Az előirányzat nyújt
+fedezetet a
+Görögkatolikus
+Metropólia
+működésének és
+beruházásainak a
+támogatására. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+bevett egyház
+és annak belső
+egyházi jogi
+személye
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egyösszegű
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+21. 380028 30/1/30/21 Egyházi
+közfeladatellátási
+és közösségi célú
+beruházások
+támogatása
+Az előirányzat
+fedezetet biztosít a
+közfeladatokat ellátó
+egyházi intézmények
+kiemelt beruházási
+feladatainak a
+megvalósítására és
+egyéb kapcsolódó
+fejlesztésekre,
+továbbá az ezekhez
+kapcsolódó
+működési
+költségekre. A
+költségvetési
+támogatás a
+231/2019. (X. 4.)
+Korm. rendelet
+rendelkezései szerint
+nyújtható.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+egyházi jogi
+személy,
+nemzetközi
+megállapodás
+alapján a
+Szuverén
+Jeruzsálemi,
+Rodoszi és
+Máltai Szent
+János Katonai
+és Ispotályos
+Rend és kijelölt
+szervezetei
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+22. 375717 30/1/31 Nemzetiségi célú
+költségvetési támogatások
+23. 243678 30/1/31/1
+Nemzetiségi
+támogatások
+Az előirányzat
+fedezetet biztosít
+a) a
+nemzetiségpolitikai
+szempontból
+kiemelten fontos
+nemzetiségi
+rendezvények,
+programok,
+kiadványok,
+eszközbeszerzések, a
+nemzetiségi
+helyi
+önkormányzat,
+nemzetiségi
+önkormányzat,
+nemzetiségi
+önkormányzati
+költségvetési
+szerv, egyes
+jogi személyek
+vállalata,
+az F:23 mező
+a), b), f) és g)
+pontja
+szerinti
+támogatás
+esetén
+pályázati
+rendszeren
+kívül
+kérelemre
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+Bethlen Gábor
+Alapkezelő Zrt.
+
+közösség erősítését,
+identitásának
+megtartását szolgáló
+projektek
+támogatására,
+továbbá a pénzügyi
+nehézségekkel
+küszködő, válságos
+helyzetbe jutott
+nemzetiségi
+intézmények,
+szervezetek,
+önkormányzatok
+működési zavarainak
+elhárításának
+támogatására;
+b) a szomszédos
+országokkal
+létrehozott
+nemzetiségi
+kormányközi vegyes
+bizottságok ülésein
+elfogadott
+kormányzati
+kötelezettségvállalá-
+sok finanszírozására;
+c) nemzetiségi civil
+szervezetek
+támogatására,
+d) a nemzetiségi
+közoktatási
+intézmények,
+szervezetek,
+önkormányzatok
+anyaországi
+intézményekkel,
+településekkel,
+szervezetekkel
+történő
+kapcsolattartásának
+támogatására,
+e) a nemzetiségi
+kulturális
+támogatásokra;
+f) nemzetiségi
+középiskolák
+kiemelkedő
+társulás, civil
+szervezet,
+közalapítvány,
+köztestület,
+egyházi jogi
+személy,
+gazdasági
+társaság,
+szövetkezet,
+jogi
+személyiségű
+társaság,
+leányvállalat,
+egyéni
+vállalkozó,
+jogszabály
+alapján jogi
+személynek
+nem minősülő
+egyéb
+szervezet,
+magánszemély
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+az F:23 mező
+c), d) és e)
+pontja
+szerinti
+támogatás
+esetén
+pályázati
+úton vagy
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+megjelölése
+nélkül.
+
+képességű
+tanulóinak
+nyújtandó
+ösztöndíjra és az
+ösztöndíjátadó
+ünnepséghez
+kapcsolódó
+kiadásokra;
+g) az anyaországban
+történő nemzetiségi
+pedagógus-
+továbbképzésekhez
+és a kétoldalú
+nemzetiségi vegyes
+bizottságok
+ajánlásaiban
+szereplő közoktatási
+intézményi
+fejlesztésre.
+Az a)–g) pont
+esetében
+költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+24. 019183 30/1/31/2
+Országos
+nemzetiségi
+önkormányzatok
+és média
+támogatása
+Az előirányzat
+fedezetet nyújt az
+országos
+nemzetiségi
+önkormányzatok
+működésével
+összefüggő kiadások
+és a nemzetiségi
+média feladatainak
+ellátása
+támogatására.
+A költségvetési
+támogatás a már
+megkezdett vagy
+nemzetiségi
+önkormányzat,
+nemzetiségi
+önkormányzati
+költségvetési
+szerv
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+- az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+megvalósult
+tevékenységre is
+nyújtható.
+25. 267301 30/1/31/3
+Országos
+nemzetiségi
+önkormányzatok
+által fenntartott
+intézmények
+támogatása
+Az előirányzat
+fedezetet nyújt az
+országos
+nemzetiségi
+önkormányzatok
+által fenntartott, a
+nemzetiségek
+jogairól szóló
+2011. évi
+CLXXIX. törvényben
+rögzített
+közfeladatok
+ellátására létrehozott
+intézmények
+támogatására.
+A költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+nemzetiségi
+önkormányzat,
+nemzetiségi
+önkormányzati
+költségvetési
+szerv
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+- az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+26. 349406 30/1/31/4
+Nemzetiségi
+intézmények
+támogatása
+beruházásra,
+felújításra,
+pályázati önrészre
+Az előirányzat
+fedezetet nyújt az
+egyes nemzetiségi
+önkormányzatok és
+nemzetiségi
+intézmények
+beruházási, felújítási
+vagy e célokhoz
+kapcsolódó
+költségeinek
+támogatására,
+valamint pályázati
+önrészére.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+helyi
+önkormányzat,
+nemzetiségi
+önkormányzat,
+nemzetiségi
+önkormányzati
+költségvetési
+szerv, helyi
+önkormányzati
+költségvetési
+szerv,
+gazdasági
+társaság
+pályázati
+úton vagy
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+
+megvalósult
+tevékenységre is
+nyújtható.
+27. 381062 30/1/31/5 A hazai
+nemzetiségi
+közösségek céljait
+szolgáló projektek
+támogatása
+Az előirányzat
+fedezetet nyújt a
+hazai nemzetiségi
+közösségek
+identitásának
+megőrzése
+érdekében vállalt
+kulturális,
+köznevelési,
+tudományos, hitéleti
+és közösségépítő
+célok
+megvalósításának
+támogatására.
+A költségvetési
+támogatás a
+támogatási igény
+benyújtásakor a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+helyi
+önkormányzat,
+nemzetiségi
+önkormányzat,
+költségvetési
+szerv, társulás,
+civil szervezet,
+közalapítvány,
+köztestület,
+egyházi jogi
+személy,
+gazdasági
+társaság
+pályázati
+úton vagy
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+döntés
+alapján
+támogatási
+szerződéssel
+vagy
+támogatói
+okirattal
+biztosítható egy
+összegben
+vagy
+részletekben,
+időarányosan
+vagy
+teljesítés-
+arányosan
+történő
+kifizetéssel
+okirat vagy
+szerződés
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+Bethlen Gábor
+Alapkezelő Zrt.
+- -
+28. 286023 30/1/31/6
+Nemzetiségi
+önkormányzatok
+kompenzációja
+Az előirányzaton
+áll rendelkezésre
+a nemzetiségi
+önkormányzatok
+által fenntartott
+intézményekben
+foglalkoztatottak
+részére – az adó- és
+járulékfizetési
+kötelezettséget
+megállapító
+törvények
+módosításából
+adódó nettó
+jövedelemcsökkenés
+kompenzálására
+jogszabály alapján –
+járó többlet-személyi
+juttatások és az
+azokhoz kapcsolódó
+munkaadókat
+országos
+nemzetiségi
+önkormányzati
+költségvetési
+szerv, helyi
+nemzetiségi
+önkormány-
+zatok
+jogszabály
+alapján
+támogatói
+okirattal
+biztosítható
+(az egyházi
+jogi
+személyek
+foglalkozta-
+tottjainak
+kompenzá-
+ciójáról
+szóló Korm.
+rendelet
+rendelkezé-
+sei szerint)
+egyösszegű
+kifizetéssel
+okirat
+szerint
+az Ávr. 84. §
+(2) bekezdése
+alapján, a
+költségvetési
+támogatás
+összegét
+meghaladó
+biztosítéki
+értékig vagy
+összeghatár
+megjelölése
+nélkül.
+- - -
+
+terhelő járulékok és
+szociális
+hozzájárulási adó
+kifizetésére
+biztosított
+támogatás. A
+költségvetési
+támogatás a
+költségvetési szervek
+és a bevett egyházak
+és belső egyházi jogi
+személyek
+foglalkoztatottjainak
+kompenzációjáról
+szóló
+kormányrendelet
+rendelkezései szerint
+nyújtható. A
+költségvetési
+támogatás a már
+megkezdett vagy
+megvalósult
+tevékenységre is
+nyújtható.
+”
+
+Helyesbítés
+A Magyar Közlöny 2025. december 29-én megjelent 158. számában kihirdetett, a TERC Kereskedelmi és Szolgáltató
+Korlátolt Felelősségű Társaság tulajdonosi joggyakorlójának kijelölése érdekében az egyes állami tulajdonban
+álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló
+személyek kijelöléséről szóló 1/2022. (V. 26.) GFM rendelet módosításáról szóló 56/2025. (XII. 29.) NGM rendelet
+1. mellékletének rendelkező része – a jelzett közlönyszám 11309. oldalán – helyesen a következő:
+„A Rendelet 1. melléklet VI. pontjában foglalt táblázat a következő 13. sorral egészül ki:”
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Bíró Attila.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a https://www.magyarkozlony.hu honlapon érhető el.
