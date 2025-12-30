@@ -14,7 +14,7 @@
 
 (5) Ha a pedagógus határozott időre szóló foglalkoztatási jogviszonyának időtartama rövidebb, mint a gyakornok számára megállapítandó gyakornoki idő, akkor a gyakornoki időt a határozott idő lejártáig kell kikötni.
 
-(5a)[^24] Ha a gyakornok foglalkoztatási jogviszonya annak létesítésekor vagy a pedagógus előmeneteli rendszer hatálya alá történő átkerülés esedékességének időpontjában szünetel, a (2)–(5) bekezdés szerinti gyakornoki idő a szünetelés megszűnésének időpontjától kezdődik el.
+(5a)[^26] Ha a gyakornok foglalkoztatási jogviszonya annak létesítésekor vagy a pedagógus előmeneteli rendszer hatálya alá történő átkerülés esedékességének időpontjában szünetel, a (2)–(5) bekezdés szerinti gyakornoki idő a szünetelés megszűnésének időpontjától kezdődik el.
 
 (6) A gyakornok
 
@@ -46,4 +46,4 @@ b) a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő
 
 (15) Ha a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy a jogviszonya fennállása alatt szerez pedagógus szakképzettséget, őt a szakképzettség igazolását követő hónap első napjától Gyakornok fokozatba kell sorolni azzal, hogy munkabére, illetménye ezzel összefüggésben nem csökkenthető.
 
-[^24]: A 37. § (5a) bekezdését a 201/2024. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^26]: A 37. § (5a) bekezdését a 201/2024. (VII. 29.) Korm. rendelet 14. §-a iktatta be.

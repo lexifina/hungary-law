@@ -1,3 +1,3 @@
-95/D. §[^58]
+95/D. §[^60]
 
-[^58]: A 95/D. §-t a 201/2024. (VII. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^60]: A 95/D. §-t a 201/2024. (VII. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.

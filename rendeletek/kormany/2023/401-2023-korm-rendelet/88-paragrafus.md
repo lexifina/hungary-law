@@ -4,11 +4,11 @@
 
 ## 37. Az illetmény megállapítása
 
-88. § (1)[^44] A Gyakornok fokozathoz tartozó havi illetmény a 2025. évben 640 900 Ft.
+88. § (1)[^46] A Gyakornok fokozathoz tartozó havi illetmény a 2025. évben 640 900 Ft.
 
-(2)[^45] A Púétv. 98. § (1) bekezdése szerinti köznevelési foglalkoztatott havi illetménye nem lehet kevesebb, mint az (1) bekezdés szerinti összeg.
+(2)[^47] A Púétv. 98. § (1) bekezdése szerinti köznevelési foglalkoztatott havi illetménye nem lehet kevesebb, mint az (1) bekezdés szerinti összeg.
 
-(3)[^46] Az esélyteremtési illetményrészre való jogosultság szempontjából figyelembe veendő kedvezményezett és felzárkózó települések listáját az Fktr. 1. melléklete tartalmazza.
+(3)[^48] Az esélyteremtési illetményrészre való jogosultság szempontjából figyelembe veendő kedvezményezett és felzárkózó települések listáját az Fktr. 1. melléklete tartalmazza.
 
 (4) Az esélyteremtési illetményrész megállapításának feltétele, hogy a köznevelési foglalkoztatotti jogviszonyban álló a kinevezésében feltüntettek szerint a Púétv. 76. § (1) bekezdése szerinti általános teljes napi munkaidő alapulvételével meghatározott heti munkaidő legalább ötven százalékában teljesítse a Púétv. 98. § (5) bekezdésében meghatározott feltételeket. Ebben az esetben az esélyteremtési illetményrésznek teljes összege jár, a feladatra fordított munkaidő arányától függetlenül.
 
@@ -20,6 +20,6 @@
 
 (8) Ha a köznevelési foglalkoztatotti jogviszonyban álló a Púétv. 68. § (4) bekezdése szerint lát el feladatot, akkor a feladatellátás idejére a havi illetményének pótlék és egyes köznevelési feladatokért járó megbízási díj nélküli összege tíz százalékával emelt összegű illetmény illeti meg.
 
-[^44]: A 88. § (1) bekezdése a 453/2024. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^45]: A 88. § (2) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^46]: A 88. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 8. pontja szerint módosított szöveg.
+[^46]: A 88. § (1) bekezdése a 453/2024. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^47]: A 88. § (2) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^48]: A 88. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 19. § 8. pontja szerint módosított szöveg.

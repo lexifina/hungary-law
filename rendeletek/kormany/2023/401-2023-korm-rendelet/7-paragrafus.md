@@ -2,7 +2,7 @@
 
 7. § (1) Ha a köznevelési foglalkoztatotti jogviszonyt pedagógus-munkakörre létesítik, nem köthető ki próbaidő annak, akinek
 
-a)[^2] a kinevezésére az oklevél megszerzését követő egy éven belül abban a köznevelési intézményben kerül sor, amelyben pedagógusképzést folytató felsőoktatási intézmény hallgatójaként az óvodai gyakorlati foglalkozását, vagy pedagógiai gyakorlatát részben vagy egészben teljesítette, vagy
+a)[^3] a kinevezésére az oklevél megszerzését követő egy éven belül abban a köznevelési intézményben kerül sor, amelyben pedagógusképzést folytató felsőoktatási intézmény hallgatójaként az óvodai gyakorlati foglalkozását, vagy pedagógiai gyakorlatát részben vagy egészben teljesítette, vagy
 
 b) határozatlan idejű kinevezésére abban az intézményben kerül sor, amelyben a kinevezése előtt határozott időre pedagógus-munkakörben foglalkoztatták és az e munkakörre létesített előző köznevelési foglalkoztatotti, közalkalmazotti jogviszonya vagy munkaviszonya megszűnésétől számítva 183 nap még nem telt el,
 
@@ -28,4 +28,4 @@ eltöltött időt kell figyelembe venni.
 
 (4) A (3) bekezdés szerinti szakmai gyakorlatot a 43. § (3) bekezdésére figyelemmel kell számítani.
 
-[^2]: A 7. § (1) bekezdés a) pontja a 201/2024. (VII. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 7. § (1) bekezdés a) pontja a 201/2024. (VII. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
