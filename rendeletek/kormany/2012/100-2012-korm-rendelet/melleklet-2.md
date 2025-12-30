@@ -38,15 +38,15 @@ A Kossuth Lajos téri beruházási programmal összefüggő ingatlanok közterü
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | A beruházás helyszínének közvetlen környezete | A beruházás megvalósításához szükséges közterület-használat időtartama |
 
-| 2. | Kossuth Lajos tér 11. szám alatti épület részleges bontása és rekonstrukciója | Budapest V. kerület, belterület 24891 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24834/1, 24834/2, 24859, 24890, 24892/1, 24893 helyrajzi számú ingatlan | 2021. 07. 01. – 2027. 03. 31. |
+| 2. | Kossuth Lajos tér 11. szám alatti épület részleges bontása és rekonstrukciója | Budapest V. kerület, belterület 24891 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24834/1, 24834/2, 24859, 24890, 24892/1, 24893 helyrajzi számú ingatlan | 2021. 07. 01. – 2028. 07. 31.[^55] |
 
-| 3. | Kossuth Lajos tér 11. szám alatti mélygarázs és a határos közterületek alatt egyéb közlekedési célú építmény építése | Budapest V. kerület, belterület 24891 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24834/1, 24834/2, 24859, 24890, 24892/1, 24893 helyrajzi számú ingatlan | 2021. 07. 01. – 2027. 03. 31. |
+| 3. | Kossuth Lajos tér 11. szám alatti mélygarázs és a határos közterületek alatt egyéb közlekedési célú építmény építése | Budapest V. kerület, belterület 24891 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24834/1, 24834/2, 24859, 24890, 24892/1, 24893 helyrajzi számú ingatlan | 2021. 07. 01. – 2028. 07. 31.[^56] |
 
-| 4. | Kossuth Lajos tér 12. szám alatti épület részleges bontása és rekonstrukciója | Budapest V. kerület, belterület 24898 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24892/1, 24893, 24899, 24914 helyrajzi számú ingatlan | 2021. 07. 01. – 2026. 03. 31. |
+| 4. | Kossuth Lajos tér 12. szám alatti épület részleges bontása és rekonstrukciója | Budapest V. kerület, belterület 24898 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24892/1, 24893, 24899, 24914 helyrajzi számú ingatlan | 2021. 07. 01. – 2027. 03. 31.[^57] |
 
-| 5. | Kozma Ferenc utca felszíni rendezése | Budapest V. kerület, belterület 24890 helyrajzi számú ingatlan | – | 2021. 07. 01. – 2027. 03. 31. |
+| 5. | Kozma Ferenc utca felszíni rendezése | Budapest V. kerület, belterület 24890 helyrajzi számú ingatlan | – | 2021. 07. 01. – 2028. 07. 31.[^58] |
 
-| 6. | Vajkay utca felszíni rendezése | Budapest V. kerület, belterület 24899 helyrajzi számú ingatlan | – | A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet módosításáról szóló 97/2024. (V. 7.) Korm. rendelet hatálybalépésének napjától 2026. 03. 31-ig |
+| 6. | Vajkay utca felszíni rendezése | Budapest V. kerület, belterület 24899 helyrajzi számú ingatlan | – | A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet módosításáról szóló 97/2024. (V. 7.) Korm. rendelet hatálybalépésének napjától 2027. 03. 31-ig[^59] |
 
 [^49]: Az 1. mellékletben foglalt táblázat C:4 mezője a 190/2025. (VII. 3.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^50]: Az 1. mellékletben foglalt táblázat 7. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
@@ -54,3 +54,8 @@ A Kossuth Lajos téri beruházási programmal összefüggő ingatlanok közterü
 [^52]: Az 1. mellékletben foglalt táblázat 11. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
 [^53]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
 [^54]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 97/2024. (V. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^55]: A 2. mellékletben foglalt táblázat D:2 mezője a 443/2025. (XII. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^56]: A 2. mellékletben foglalt táblázat D:3 mezője a 443/2025. (XII. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^57]: A 2. mellékletben foglalt táblázat D:4 mezője a 443/2025. (XII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^58]: A 2. mellékletben foglalt táblázat D:5 mezője a 443/2025. (XII. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^59]: A 2. mellékletben foglalt táblázat D:6 mezője a 443/2025. (XII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

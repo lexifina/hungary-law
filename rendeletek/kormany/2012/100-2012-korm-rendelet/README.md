@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-100-20-
 | 2024-10-01 | 2012-100-20-22.31 | 257/2024. (VIII. 29.) Korm. rendelet |
 | 2024-12-13 | 2012-100-20-22.32 | 97/2024. (V. 7.) Korm. rendelet |
 | 2025-07-04 | 2012-100-20-22.33 | 190/2025. (VII. 3.) Korm. rendelet |
+| 2025-12-30 | 2012-100-20-22.34 | 443/2025. (XII. 29.) Korm. rendelet |
