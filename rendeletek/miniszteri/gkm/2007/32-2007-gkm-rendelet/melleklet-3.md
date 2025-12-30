@@ -46,7 +46,7 @@
 
 ## Lőszer esetén a gyártási tételszámot kell ebben a rovatban szerepeltetni.
 
-## Vevő: a hazai értékesítésekor a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) szerinti engedélyes, vagy a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a Katonai Nemzetbiztonsági Szolgálat vagy kooperációs együttműködő; kiszállítás és kivitel esetén a külföldi fél neve.
+## Vevő: a hazai értékesítésekor a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) szerinti engedélyes, vagy a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a nemzetbiztonsági szolgálatok vagy kooperációs együttműködő; kiszállítás és kivitel esetén a külföldi fél neve.
 
 ## Esemény: a tűzfegyveren végrehajtott művelet:
 
@@ -84,7 +84,7 @@
 
 | Kelt: ...................................................., ...................... év .............................................. hónap .................... nap aláírás: ................................................................................... |
 
-3. melléklet a 32/2007. (III. 19.) GKM rendelethez[^35]
+3. melléklet a 32/2007. (III. 19.) GKM rendelethez[^36]
 
 Haditechnikai termék gyártásának, értékesítésének nyilvántartási lapja
 
@@ -112,7 +112,7 @@ Gyártási szám: a termék egyértelmű azonosítására szolgáló, a gyártó
 
 Gyártási év: a termék gyártásának/beérkezett vagy behozott termék esetén a kereskedelmi ügylet éve.
 
-Vevő/Végfelhasználó: a haditechnikai termék hazai értékesítésekor a Httv. szerinti engedélyes vagy végfelhasználó (Magyar Honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a Katonai Nemzetbiztonsági Szolgálat), vagy kooperációs együttműködő; kiszállítás és kivitel esetén a külföldi fél neve.
+Vevő/Végfelhasználó: a haditechnikai termék hazai értékesítésekor a Httv. szerinti engedélyes vagy végfelhasználó (Magyar Honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a nemzetbiztonsági szolgálatok), vagy kooperációs együttműködő; kiszállítás és kivitel esetén a külföldi fél neve.
 
 Megjegyzés: a termékkel kapcsolatos további információ.
 
@@ -132,4 +132,4 @@ Kelt, ..........................................................................
 
 Aláírás
 
-[^35]: A 3. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (3) bekezdésével megállapított, az 51/2025. (XII. 29.) NGM rendelet 1. §-a szerint módosított szöveg.

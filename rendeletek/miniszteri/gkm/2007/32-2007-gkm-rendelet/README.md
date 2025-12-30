@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-32-20-0
 | 2018-09-19 | 2007-32-20-0L.6 | 27/2015. (X. 15.) NGM rendelet |
 | 2019-09-01 | 2007-32-20-0L.7 | 27/2015. (X. 15.) NGM rendelet |
 | 2021-09-02 | 2007-32-20-0L.8 | 40/2021. (VIII. 18.) ITM rendelet |
+| 2025-12-30 | 2007-32-20-0L.9 | 27/2015. (X. 15.) NGM rendelet |

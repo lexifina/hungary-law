@@ -1,4 +1,4 @@
-10. §[^28] (1) A nyilvántartásra kötelezett a nyilvántartott termékekről adatot szolgáltat.
+10. §[^29] (1) A nyilvántartásra kötelezett a nyilvántartott termékekről adatot szolgáltat.
 
 (2) A Htkr. 1. melléklet I. fejezet a), b) és c) pontjában szereplő fegyverek és III. fejezetben szereplő lőszerek gyártása, forgalmazása, hatástalanítása, megsemmisítése esetén az adatszolgáltatásra kötelezett évente négy alkalommal (február 28., április 30., július 31. és október 31.) szolgáltat adatot a Hivatal részére. Az adatszolgáltatáshoz a 2. mellékletben meghatározott nyomtatványt kell használni.
 
@@ -14,4 +14,4 @@ c) gyártásának évére és a legyártott, hatástalanított, megsemmisített 
 
 d) vevőjének, valamint végfelhasználójának nevére.
 
-[^28]: A 10. § a 27/2015. (X. 15.) NGM rendelet 9. §-ával megállapított szöveg.
+[^29]: A 10. § a 27/2015. (X. 15.) NGM rendelet 9. §-ával megállapított szöveg.

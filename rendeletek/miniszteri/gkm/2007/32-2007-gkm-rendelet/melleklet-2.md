@@ -342,6 +342,6 @@
 
 ## A XI. fejezet előírásai alapján kell eljárni.
 
-2. melléklet a 32/2007. (III. 19.) GKM rendelethez[^34]
+2. melléklet a 32/2007. (III. 19.) GKM rendelethez[^35]
 
-[^34]: A 2. melléklet a 40/2021. (VIII. 18.) ITM rendelet 5. § b) pontjával megállapított szöveg.
+[^35]: A 2. melléklet a 40/2021. (VIII. 18.) ITM rendelet 5. § b) pontjával megállapított, az 51/2025. (XII. 29.) NGM rendelet 1. §-a szerint módosított szöveg.
