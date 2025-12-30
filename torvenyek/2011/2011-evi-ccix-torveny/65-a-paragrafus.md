@@ -4,9 +4,9 @@ a) amelyet a víziközmű-szolgáltató az elismert indokolt költségeihez kép
 
 b) amelyet a víziközmű-szolgáltató a Víziközmű-fejlesztési és Ellentételezési Alapból – a meg nem térülő elismert indokolt költségeire tekintettel – ellentételezésként igényelni jogosult, továbbá
 
-c) amelyet a víziközmű-szolgáltató elkülönítetten kezel, és kizárólag a víziközművek fenntartására fordít.
+c) amelyet a víziközmű-szolgáltató kizárólag a víziközművek és a tulajdonában álló víziközmű-működtető eszközök fenntartására fordít.
 
-(2) Az (1) bekezdés c) pontja szerint a víziközművek fenntartására elkülönített összeget a víziközmű-szolgáltató a keresztfinanszírozás tilalmára tekintet nélkül jogosult felhasználni.
+(2) Az (1) bekezdés c) pontja szerint a víziközművek és a víziközmű-szolgáltató tulajdonában álló víziközmű-működtető eszközök fenntartására fordítandó összeget a víziközmű-szolgáltató a keresztfinanszírozás tilalmára tekintet nélkül jogosult felhasználni.
 
 (3) Az (1) bekezdés a) pontja szerinti befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
 

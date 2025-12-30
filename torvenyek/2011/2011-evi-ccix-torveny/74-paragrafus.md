@@ -74,7 +74,7 @@ rendeletben állapítsa meg.
 
 3. állapítsa meg a lakossági és a nem lakossági felhasználók vonatkozásában a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 
-4. állapítsa meg a Víziközmű-fejlesztési és Ellentételezési Alap működtetésének részletes szabályait, valamint az abba történő befizetés és abból történő kifizetés során a víziközmű-fejlesztési és ellentételezési alapot működtető szerv, valamint a víziközmű-szolgáltatók jogosultságait és kötelezettségeit, továbbá a víziközművek fenntartásához elkülönítetten kezelt összegek mértékét, az újraelosztás alapját képező elismert indokolt költségek körét;
+4. állapítsa meg a Víziközmű-fejlesztési és Ellentételezési Alap működtetésének részletes szabályait, valamint az abba történő befizetés és abból történő kifizetés során a víziközmű-fejlesztési és ellentételezési alapot működtető szerv, valamint a víziközmű-szolgáltatók jogosultságait és kötelezettségeit, továbbá a víziközművek fenntartásához elkülönítetten kezelt összegek mértékét és annak felhasználásának szabályait, az újraelosztás alapját képező elismert indokolt költségek körét;
 
 5. állapítsa meg a víziközműves kapcsolódó szolgáltatás esetében az átadási árakat, és azok alkalmazásának kezdő időpontját;
 

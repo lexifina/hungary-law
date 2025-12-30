@@ -18,4 +18,6 @@ c) felmondhatja törvényben vagy az üzemeltetési szerződésében meghatároz
 
 (3a) A határozatlan vagy határozott időre kötött üzemeltetési szerződést az év végére szólóan, de legalább 4 hónapos felbontási határidővel a felek közös megegyezéssel is megszüntethetik.
 
+(3b) A (3a) bekezdésben foglaltaktól eltérően a határozatlan vagy határozott időre kötött üzemeltetési szerződés a felek közös megegyezésével 30 napos felmondási határidővel is megszüntethető, ha az ellátásért felelős ezzel egyidejűleg gondoskodik az új üzemeltetési szerződés megkötéséről, a szerződött víziközmű-szolgáltató pedig az új üzemeltetési szerződés jóváhagyására, valamint az engedély kiadására vagy annak módosítására irányuló kérelem Hivatalhoz történő benyújtásáról.
+
 (4) Az engedély visszavonásával az érintett ellátási területre vonatkozó üzemeltetési szerződés hatálya megszűnik.
