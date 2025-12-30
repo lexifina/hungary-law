@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2025-09-01 | 2025. évi XXXV. törvény | 2015-42-00-00.61 |
 | 2025-11-01 | 2025. évi LXXI. törvény | 2015-42-00-00.63 |
 | 2025-12-23 | 2025. évi CXXI. törvény | 2015-42-00-00.67 |
+| 2025-12-30 | 2025. évi LXXI. törvény | 2015-42-00-00.64 |
