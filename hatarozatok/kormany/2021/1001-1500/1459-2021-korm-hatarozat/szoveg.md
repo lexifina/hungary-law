@@ -20,7 +20,7 @@ c)[^1] vizsgálja a gazdaság újraindítása érdekében meghozandó, az épít
 
 3. A kormánybiztos az 1. pont szerinti feladatkörében felügyeli az építésgazdaság hatékonyságjavítását, teljesítménynövelését és az épített környezet fenntartható fejlesztését célzó középtávú stratégiáról és intézkedési tervről szóló 1337/2021. (VI. 1.) Korm. határozat szerinti beruházások költségkövetési rendszerének létrehozását.
 
-4. A kormánybiztos a 2. és 3. pontban meghatározott feladatait az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társasággal együttműködve látja el.
+4.[^2] A kormánybiztos a 2. és 3. pontban meghatározott feladatait a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézettel együttműködve látja el.
 
 5. A kormánybiztos feladatköre ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdése szerinti díjazásra és juttatásokra jogosult.
 
@@ -31,3 +31,4 @@ c)[^1] vizsgálja a gazdaság újraindítása érdekében meghozandó, az épít
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: A 2. pont c) alpontját az 1499/2021. (VII. 23.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 4. pont az 1585/2025. (XII. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
