@@ -1,3 +1,3 @@
-60/A. §[^164] A nem állami szakképző intézmény esetében a 60. § szerinti eljárás ügyintézési határideje harminc nap.
+60/A. §[^168] A nem állami szakképző intézmény esetében a 60. § szerinti eljárás ügyintézési határideje harminc nap.
 
-[^164]: A 60/A. §-t a 104/2024. (V. 9.) Korm. rendelet 36. §-a iktatta be.
+[^168]: A 60/A. §-t a 104/2024. (V. 9.) Korm. rendelet 36. §-a iktatta be.

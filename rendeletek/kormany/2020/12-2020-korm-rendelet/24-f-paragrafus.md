@@ -1,4 +1,4 @@
-## 8/B.[^67] Az Szkt. 14/A. § (7) bekezdéséhez és az Szkt. 14/C. §-ához
+## 8/B.[^71] Az Szkt. 14/A. § (7) bekezdéséhez és az Szkt. 14/C. §-ához
 
 24/F. § (1) A szakképzési államigazgatási szerv a szakértőt – kivéve a 24/D. § (2) bekezdése szerinti szakértőt – az általa vezetett szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
 
@@ -10,4 +10,4 @@
 
 (5) Az ellenőrzési eljárásba bevont szakértő részére a szakképzési államigazgatási szerv megbízólevelet állít ki.
 
-[^67]: A 8/B. alcímet (24/F. §-t) a 129/2024. (VI. 17.) Korm. rendelet 5. §-a iktatta be.
+[^71]: A 8/B. alcímet (24/F. §-t) a 129/2024. (VI. 17.) Korm. rendelet 5. §-a iktatta be.

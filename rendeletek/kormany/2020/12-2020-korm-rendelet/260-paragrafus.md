@@ -8,9 +8,9 @@ b) projektfeladat megvalósításából
 
 áll.
 
-(2)[^408] Az interaktív vizsgatevékenység feladatainak, javítási-értékelési útmutatójának és egyéb dokumentumainak elkészítéséről a szakképzésért felelős miniszter a Nemzeti Szakképzési és Felnőttképzési Hivatal útján a szakmai vizsga nyelvén gondoskodik. A feladat és az útmutató visszavonásig használható fel. A feladat és az útmutató alapján a számítógép által véletlenszerűen generált vizsgafeladatsort kell az interaktív vizsgán megoldani.
+(2)[^414] Az interaktív vizsgatevékenység feladatainak, javítási-értékelési útmutatójának és egyéb dokumentumainak elkészítéséről a szakképzésért felelős miniszter a Nemzeti Szakképzési és Felnőttképzési Hivatal útján a szakmai vizsga nyelvén gondoskodik. A feladat és az útmutató visszavonásig használható fel. A feladat és az útmutató alapján a számítógép által véletlenszerűen generált vizsgafeladatsort kell az interaktív vizsgán megoldani.
 
-(3)[^409] A projektfeladat az akkreditált szakképzési vizsgaközpont által – a képzési és kimeneti követelményekre tekintettel – a vizsgázó gyakorlati felkészültségének átfogóbb felmérése céljából meghatározott vizsgatevékenység, amelyet a szakmai vizsgára vagy a szakmai vizsgán kell elkészíteni és szóban az adott szakma folytatásához szükséges ismeretek ellenőrzésére is kiterjedően megvédeni. Projektfeladatként – a képzési és kimeneti követelményeknek megfelelően – gyakorlati vizsgamunka, vizsgaremek, vizsgamű vagy egyéb vizsgaprodukció megvalósítása vagy záródolgozat vagy portfólió elkészítése határozható meg.
+(3)[^415] A projektfeladat az akkreditált szakképzési vizsgaközpont által – a képzési és kimeneti követelményekre tekintettel – a vizsgázó gyakorlati felkészültségének átfogóbb felmérése céljából meghatározott vizsgatevékenység, amelyet a szakmai vizsgára vagy a szakmai vizsgán kell elkészíteni és szóban az adott szakma folytatásához szükséges ismeretek ellenőrzésére is kiterjedően megvédeni. Projektfeladatként – a képzési és kimeneti követelményeknek megfelelően – gyakorlati vizsgamunka, vizsgaremek, vizsgamű vagy egyéb vizsgaprodukció megvalósítása vagy záródolgozat vagy portfólió elkészítése határozható meg.
 
-[^408]: A 260. § (2) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 61. pontja és 48. § 54. pontja szerint módosított szöveg.
-[^409]: A 260. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 70. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 20. pontja szerint módosított szöveg.
+[^414]: A 260. § (2) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 61. pontja és 48. § 54. pontja szerint módosított szöveg.
+[^415]: A 260. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 70. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 20. pontja szerint módosított szöveg.

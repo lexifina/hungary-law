@@ -2,7 +2,7 @@
 
 80. § (1) Főigazgatói megbízást az kaphat, aki a szakképző intézmény vezetőjére jogszabályban meghatározott feltételeken túl
 
-a)[^197] legalább hároméves vezetői gyakorlattal,
+a)[^202] legalább hároméves vezetői gyakorlattal,
 
 b) legalább hároméves köznevelési intézményfenntartói vagy szakképző intézményfenntartói tapasztalattal vagy
 
@@ -10,10 +10,10 @@ c) köznevelési igazgatási, szakképzési igazgatási vagy közigazgatási tap
 
 rendelkezik.
 
-(2)[^198] A főigazgató megbízására és megbízásának visszavonására a szakképzésért felelős miniszter jogosult. A főigazgató felett a munkáltatói jogkört – a főigazgatói megbízás és annak visszavonása kivételével – a szakképzési intézményfenntartó központ vezetője gyakorolja.
+(2)[^203] A főigazgató megbízására és megbízásának visszavonására a szakképzésért felelős miniszter jogosult. A főigazgató felett a munkáltatói jogkört – a főigazgatói megbízás és annak visszavonása kivételével – a szakképzési intézményfenntartó központ vezetője gyakorolja.
 
-(3)[^199] A főigazgató-helyettes megbízásának feltételeire a főigazgatóra vonatkozó szabályokat kell alkalmazni azzal, hogy a főigazgató-helyettes megbízására és megbízásának visszavonására és felette a munkáltatói jogkör gyakorlására a főigazgató jogosult.
+(3)[^204] A főigazgató-helyettes megbízásának feltételeire a főigazgatóra vonatkozó szabályokat kell alkalmazni azzal, hogy a főigazgató-helyettes megbízására és megbízásának visszavonására és felette a munkáltatói jogkör gyakorlására a főigazgató jogosult.
 
-[^197]: A 80. § (1) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 33. pontja szerint módosított szöveg.
-[^198]: A 80. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 10. pontja szerint módosított szöveg.
-[^199]: A 80. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 11. pontja szerint módosított szöveg.
+[^202]: A 80. § (1) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 33. pontja szerint módosított szöveg.
+[^203]: A 80. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 10. pontja szerint módosított szöveg.
+[^204]: A 80. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 11. pontja szerint módosított szöveg.

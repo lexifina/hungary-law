@@ -2,7 +2,7 @@
 
 119. § (1) A mindennapos testnevelést azokon a napokon, amikor közismereti oktatás folyik, testnevelésóra megtartásával kell biztosítani.
 
-(2)[^238] A testnevelésóra – legfeljebb az (1) bekezdésben meghatározott mértékig –
+(2)[^244] A testnevelésóra – legfeljebb az (1) bekezdésben meghatározott mértékig –
 
 a) sportkörben való sportolással vagy
 
@@ -10,7 +10,7 @@ b) sportszervezet keretében versenyszerűen sporttevékenységet folytató tanu
 
 váltható ki.
 
-(3)[^239] Ha a tanuló a testnevelésórát sportkörben történő sportolással váltja ki, tekintet nélkül arra, hogy a sportkör feladatait a szakképző intézmény vagy a szakképző intézménnyel kötött megállapodás alapján diáksport-egyesület látja-e el, a szakképző intézmény a tanulótól a sportköri foglalkozáson való részvétel tekintetében sportköri tagdíjat nem szedhet.
+(3)[^245] Ha a tanuló a testnevelésórát sportkörben történő sportolással váltja ki, tekintet nélkül arra, hogy a sportkör feladatait a szakképző intézmény vagy a szakképző intézménnyel kötött megállapodás alapján diáksport-egyesület látja-e el, a szakképző intézmény a tanulótól a sportköri foglalkozáson való részvétel tekintetében sportköri tagdíjat nem szedhet.
 
-[^238]: A 119. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^239]: A 119. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^244]: A 119. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^245]: A 119. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 25. §-ával megállapított szöveg.

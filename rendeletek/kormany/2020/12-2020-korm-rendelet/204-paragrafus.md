@@ -12,12 +12,12 @@ e) a körülményekre tekintettel a legenyhébb fegyelmi büntetés kiszabása i
 
 (2) A fegyelmi bizottság a fegyelmi eljárást megszüntető határozatot hoz, ha
 
-a)[^339] a kötelességszegés elkövetése és a fegyelmi eljárás megindítása között három hónapnál hosszabb idő telt el, vagy
+a)[^345] a kötelességszegés elkövetése és a fegyelmi eljárás megindítása között három hónapnál hosszabb idő telt el, vagy
 
-b)[^340] a kötelességszegést valamely nevelési-oktatási intézmény már elbírálta.
+b)[^346] a kötelességszegést valamely nevelési-oktatási intézmény már elbírálta.
 
-c)[^341]
+c)[^347]
 
-[^339]: A 204. § (2) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 47. pontja szerint módosított szöveg.
-[^340]: A 204. § (2) bekezdés b) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 48. pontja szerint módosított szöveg.
-[^341]: A 204. § (2) bekezdés c) pontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 45. pontja hatályon kívül helyezte.
+[^345]: A 204. § (2) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 47. pontja szerint módosított szöveg.
+[^346]: A 204. § (2) bekezdés b) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 48. pontja szerint módosított szöveg.
+[^347]: A 204. § (2) bekezdés c) pontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 45. pontja hatályon kívül helyezte.

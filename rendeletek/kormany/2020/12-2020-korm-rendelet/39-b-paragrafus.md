@@ -1,4 +1,4 @@
-39/B. §[^131] (1) A mikrotanúsítvány tartalmazza
+39/B. §[^135] (1) A mikrotanúsítvány tartalmazza
 
 1. a mikrotanúsítvány sorszámát,
 
@@ -34,4 +34,4 @@
 
 (8) A mikrotanúsítványok nyilvántartásának elemeit a KIM rendelet határozza meg.
 
-[^131]: A 39/B. §-t a 225/2025. (VII. 24.) Korm. rendelet 24. §-a iktatta be.
+[^135]: A 39/B. §-t a 225/2025. (VII. 24.) Korm. rendelet 24. §-a iktatta be.

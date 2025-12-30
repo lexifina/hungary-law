@@ -1,3 +1,3 @@
-151. §[^274]
+151. §[^280]
 
-[^274]: A 151. §-t a 176/2024. (VII. 7.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^280]: A 151. §-t a 176/2024. (VII. 7.) Korm. rendelet 21. §-a hatályon kívül helyezte.

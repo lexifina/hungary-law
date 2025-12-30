@@ -6,6 +6,6 @@
 
 (4) A vizsgázó számára a szakmai vizsga időtartama a (2) és (3) bekezdésben foglaltakat figyelembe véve legfeljebb három – az (5) bekezdés szerinti meghosszabbítás esetén legfeljebb négy – nap lehet.
 
-(5)[^455] Az akkreditált szakképzési vizsgaközpont a szakmai vizsga időtartamát, ha a vizsgaszervezés helyi sajátosságai vagy rendkívüli esemény ezt indokolja, egy nappal meghosszabbíthatja. A meghosszabbítás tényét és annak indokát a vizsgajegyzőkönyvben rögzíteni kell.
+(5)[^461] Az akkreditált szakképzési vizsgaközpont a szakmai vizsga időtartamát, ha a vizsgaszervezés helyi sajátosságai vagy rendkívüli esemény ezt indokolja, egy nappal meghosszabbíthatja. A meghosszabbítás tényét és annak indokát a vizsgajegyzőkönyvben rögzíteni kell.
 
-[^455]: A 277. § (5) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 49. pontja szerint módosított szöveg.
+[^461]: A 277. § (5) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 49. pontja szerint módosított szöveg.

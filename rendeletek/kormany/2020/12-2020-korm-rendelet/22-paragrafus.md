@@ -1,10 +1,6 @@
 22. § (1)[^54] Szakmai és képesítő vizsgáztatási tevékenység folytatására irányuló engedély (a továbbiakban: engedély) annak adható ki, aki
 
-a) – az olyan személy kivételével, amelyet az állam alapított vagy az olyan együttműködési megállapodással rendelkező fenntartó alapított, akinek e tevékenysége pénzügyi fedezetének meghatározó része az államháztartás terhére nyújtott támogatásból származik – rendelkezik
-
-aa) legalább két lezárt üzleti évvel, és az engedély kiadását megelőző mindkét üzleti évben elért legalább tízmillió forint adózás előtti eredménnyel, vagy két lezárt üzleti év hiányában az engedély megszerzését követő legalább két üzleti évre vonatkozó, az e bekezdés szerinti adózás előtti eredmény elérését alátámasztó üzleti tervvel,
-
-ab) az engedély teljes időtartamára az adózás előtti eredménye kettő százalékának, de legalább az engedély kiadása iránti kérelemben megjelölt képzési területenként másfél millió forint vagyoni biztosítékkal a vizsgáztatási tevékenység bármely okból történő ellehetetlenüléséből fakadó károk megtérítésére;
+a)[^55] – az olyan személy kivételével, amely vonatkozásában az alapítói jogok gyakorlója az állam vagy az olyan együttműködési megállapodással rendelkező fenntartó, akinek e tevékenysége pénzügyi fedezetének meghatározó része az államháztartás terhére nyújtott támogatásból származik – működése során folyamatosan biztosítani képes azt a feltételt, hogy rendelkezik az engedély teljes időtartamára az adózás előtti eredménye kettő százalékának, de legalább az engedély kiadása iránti kérelemben megjelölt képzési területenként másfél millió forint vagyoni biztosítékkal a vizsgáztatási tevékenység bármely okból történő ellehetetlenüléséből fakadó károk megtérítésére;
 
 b) rendelkezik teljes munkaidőben határozatlan időre létrejött munkaviszonyban foglalkoztatott, oktatásszervezésben, -irányításban vagy mérés-értékelésben legalább hároméves szakmai gyakorlatot szerzett munkavállalóval (a továbbiakban: szakmai vezető);
 
@@ -36,16 +32,17 @@ h) létesítő okirata szerinti szakmai és képesítő vizsgáztatási tevéken
 
 i) Intézményi Vizsgáztatási Kézikönyvében részletesen bemutatja az Szkt. 14. § (4) bekezdése szerinti vizsga megszervezésének módját és feltételeinek biztosítását, amennyiben ilyen tevékenység végzését tervezi.
 
-(1a)[^55] Az (1) bekezdés a) pontja alkalmazásában meghatározó rész alatt a vizsgáztatásból származó nettó árbevétel ötvenegy százalékát kell érteni. Ilyennek kell tekinteni a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott felsőoktatási intézményt is.
+(1a)[^56] Az (1) bekezdés a) pontja alkalmazásában meghatározó rész alatt a vizsgáztatásból származó nettó árbevétel ötvenegy százalékát kell érteni. Ilyennek kell tekinteni a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott felsőoktatási intézményt is.
 
-(1b)[^56] A 7. melléklet alapján elkészítendő Intézményi Vizsgáztatási Kézikönyv kidolgozásának tartalmára vonatkozó ajánlásokat a szakképzésért felelős miniszter által kiadott útmutató tartalmazza. Az útmutatót a szakképzésért felelős miniszter által vezetett minisztérium a honlapján közzéteszi.
+(1b)[^57] A 7. melléklet alapján elkészítendő Intézményi Vizsgáztatási Kézikönyv kidolgozásának tartalmára vonatkozó ajánlásokat a szakképzésért felelős miniszter által kiadott útmutató tartalmazza. Az útmutatót a szakképzésért felelős miniszter által vezetett minisztérium a honlapján közzéteszi.
 
-(1c)[^57] Az útmutatóban foglaltaktól való eltérés esetén a szakképzési államigazgatási szerv az Intézményi Vizsgáztatási Kézikönyv helyességét, megfelelőségét és teljeskörűségét részleteiben vizsgálja.
+(1c)[^58] Az útmutatóban foglaltaktól való eltérés esetén a szakképzési államigazgatási szerv az Intézményi Vizsgáztatási Kézikönyv helyességét, megfelelőségét és teljeskörűségét részleteiben vizsgálja.
 
-(2)[^58]
+(2)[^59]
 
 [^54]: A 22. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^55]: A 22. § (1a) bekezdését a 800/2021. (XII. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^56]: A 22. § (1b) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^57]: A 22. § (1c) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^58]: A 22. § (2) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^55]: A 22. § (1) bekezdés a) pontja a 454/2025. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^56]: A 22. § (1a) bekezdését a 800/2021. (XII. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^57]: A 22. § (1b) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^58]: A 22. § (1c) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^59]: A 22. § (2) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.

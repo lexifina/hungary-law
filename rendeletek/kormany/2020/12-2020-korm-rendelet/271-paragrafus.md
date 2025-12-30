@@ -1,12 +1,12 @@
-271. § (1)[^438] A vizsgatörzslap egy kinyomtatott példányát az akkreditált szakképzési vizsgaközpont a szakmai vizsga befejezését követő húsz napon belül küldi meg a szakképzési államigazgatási szervnek. Az elektronikus vizsgatörzslapot a kinyomtatott példány megküldését és az abban szereplő adatokkal történő összevetést követően le kell zárni.
+271. § (1)[^444] A vizsgatörzslap egy kinyomtatott példányát az akkreditált szakképzési vizsgaközpont a szakmai vizsga befejezését követő húsz napon belül küldi meg a szakképzési államigazgatási szervnek. Az elektronikus vizsgatörzslapot a kinyomtatott példány megküldését és az abban szereplő adatokkal történő összevetést követően le kell zárni.
 
-(2)[^439] A vizsgatörzslap egy kinyomtatott példányát az akkreditált szakképzési vizsgaközpont irattárában, másik példányát a szakképzési államigazgatási szerv irattárában kell elhelyezni. A vizsgatörzslap nem selejtezhető, folyamatos sorszámozással kell ellátni, és a tárgyév végén bekötve kell irattárazni.
+(2)[^445] A vizsgatörzslap egy kinyomtatott példányát az akkreditált szakképzési vizsgaközpont irattárában, másik példányát a szakképzési államigazgatási szerv irattárában kell elhelyezni. A vizsgatörzslap nem selejtezhető, folyamatos sorszámozással kell ellátni, és a tárgyév végén bekötve kell irattárazni.
 
-(3)[^440] A vizsgajegyzőkönyvet az akkreditált szakképzési vizsgaközpont irattárában öt évig kell őrizni.
+(3)[^446] A vizsgajegyzőkönyvet az akkreditált szakképzési vizsgaközpont irattárában öt évig kell őrizni.
 
-(4)[^441] Az akkreditált szakképzési vizsgaközpont a szakmai vizsgával kapcsolatos levelek, iratok és egyéb küldemények iratkezelésére, irattárba helyezésére, selejtezésére, levéltári átadására a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletet alkalmazza.
+(4)[^447] Az akkreditált szakképzési vizsgaközpont a szakmai vizsgával kapcsolatos levelek, iratok és egyéb küldemények iratkezelésére, irattárba helyezésére, selejtezésére, levéltári átadására a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletet alkalmazza.
 
-[^438]: A 271. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 42. pontja szerint módosított szöveg.
-[^439]: A 271. § (2) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 43. pontja szerint módosított szöveg.
-[^440]: A 271. § (3) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 44. pontja szerint módosított szöveg.
-[^441]: A 271. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 45. pontja szerint módosított szöveg.
+[^444]: A 271. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 42. pontja szerint módosított szöveg.
+[^445]: A 271. § (2) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 43. pontja szerint módosított szöveg.
+[^446]: A 271. § (3) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 44. pontja szerint módosított szöveg.
+[^447]: A 271. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 45. pontja szerint módosított szöveg.
