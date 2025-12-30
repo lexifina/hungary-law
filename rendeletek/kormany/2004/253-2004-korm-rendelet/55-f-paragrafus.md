@@ -1,4 +1,4 @@
-## 55/E. §[^300] E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet jogharmonizációs célú módosításáról szóló 326/2020. (VII. 1.) Korm. rendelettel (a továbbiakban: Módosító Rendelet 3.) megállapított rendelkezései nem alkalmazhatóak a Módosító Rendelet 3. hatálybalépésének[^301] az időpontjában folyamatban lévő közigazgatási hatósági eljárások során.
+## 55/E. §[^299] E rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet jogharmonizációs célú módosításáról szóló 326/2020. (VII. 1.) Korm. rendelettel (a továbbiakban: Módosító Rendelet 3.) megállapított rendelkezései nem alkalmazhatóak a Módosító Rendelet 3. hatálybalépésének[^300] az időpontjában folyamatban lévő közigazgatási hatósági eljárások során.
 
-[^300]: Az 55/E. §-t a 326/2020. (VII. 1.) Korm. rendelet 18. §-a iktatta be.
-[^301]: A hatálybalépés időpontja 2020. július 2.
+[^299]: Az 55/E. §-t a 326/2020. (VII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^300]: A hatálybalépés időpontja 2020. július 2.

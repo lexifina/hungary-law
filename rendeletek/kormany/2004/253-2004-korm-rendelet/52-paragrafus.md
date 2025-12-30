@@ -4,6 +4,6 @@
 
 52. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^284]
+(2)[^283]
 
-[^284]: Az 52. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.
+[^283]: Az 52. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 640. pontja hatályon kívül helyezte.

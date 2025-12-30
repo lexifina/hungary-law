@@ -16,6 +16,6 @@
 
 | bizottsági tag | bizottsági tag |
 
-24. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^348]
+24. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^347]
 
-[^348]: A 24. számú mellékletet a 441/2013. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
+[^347]: A 24. számú mellékletet a 441/2013. (XI. 20.) Korm. rendelet 5. §-a iktatta be.

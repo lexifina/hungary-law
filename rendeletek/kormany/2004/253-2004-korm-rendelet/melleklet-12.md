@@ -34,6 +34,6 @@
 
 | bizottsági tag | bizottsági tag |
 
-12. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^335]
+12. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^334]
 
-[^335]: A 12. számú melléklet az 569/2022. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^334]: A 12. számú melléklet az 569/2022. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
