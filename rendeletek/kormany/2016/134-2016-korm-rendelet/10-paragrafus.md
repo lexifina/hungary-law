@@ -14,7 +14,7 @@ rendelkezik.
 
 (4)[^48] A tankerületi központ szakmai vezetőjét a tankerületi igazgató nevezi ki és menti fel, valamint gyakorolja felette az egyéb munkáltatói jogokat.
 
-(5)[^49] A tankerületi igazgató – az Nkt. 61. § (6) és (8) bekezdésében, valamint 68. §-ában meghatározott egyes munkáltatói jogok kivételével – gyakorolja a tankerületi központban foglalkoztatottak felett a munkáltatói jogokat. A Kit. 81. § (3) bekezdésében foglaltak kivételével a munkáltatói jogok gyakorlását a tankerületi igazgató helyettesére, vagy
+(5)[^49] A tankerületi igazgató gyakorolja a tankerületi központban foglalkoztatottak felett a munkáltatói jogokat. A Kit. 81. § (3) bekezdésében foglaltak kivételével a munkáltatói jogok gyakorlását a tankerületi igazgató helyettesére, vagy
 
 a) kormányzati szolgálati jogviszonyban álló foglalkoztatottakkal kapcsolatosan a főosztályvezetőre, osztályvezetőre,
 
@@ -28,4 +28,4 @@ b) közalkalmazotti jogviszonyban álló foglalkoztatottakkal kapcsolatosan veze
 [^46]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
 [^47]: A 10. § (3) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
 [^48]: A 10. § (4) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^49]: A 10. § (5) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^49]: A 10. § (5) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 454/2025. (XII. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
