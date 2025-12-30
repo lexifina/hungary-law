@@ -12,7 +12,7 @@ c) az adott tanévet megelőző tanévben 1000 példánynál kisebb példánysz�
 
 d) a digitális tananyagokra vonatkozó árkorlátot azzal a kivétellel, hogy a digitálisan rögzített könyv formátumú digitális tananyagra vonatkozó árkorlát a köznevelési közismereti tankönyv egyszínnyomású, adott terjedelemkategória árának 70%-a.
 
-(4)[^284] A művészeti, pedagógiai, közművelődési képzést folytató nevelési-oktatási intézményben, továbbá a szakiskolában és a készségfejlesztő iskolában alkalmazott tankönyv legmagasabb iskolai terjesztési árára a közismereti tankönyvekre vonatkozó árkorlátot kell alkalmazni.
+(4)[^285] A művészeti, pedagógiai, közművelődési képzést folytató nevelési-oktatási intézményben, továbbá a szakiskolában és a készségfejlesztő iskolában alkalmazott tankönyv legmagasabb iskolai terjesztési árára a közismereti tankönyvekre vonatkozó árkorlátot kell alkalmazni.
 
 (5) A nemzetiségi nyelv és irodalom, nemzetiségi népismereti, valamint a nemzetiségi nyelvű közismereti tankönyvek tekintetében a (3) bekezdésben nem szabályozott esetekben a köznevelési közismereti tankönyvekre meghatározott árkorlát az irányadó.
 
@@ -42,4 +42,4 @@ a) a tankönyvjegyzékre történő felvétel iránti kérelmet el kellett volna
 
 b) a könyvkiadást folytató jogi személy a (6) bekezdésben vállalt kötelezettségeit megszegte.
 
-[^284]: A 44/W. § (4) bekezdése a 620/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^285]: A 44/W. § (4) bekezdése a 620/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -4,14 +4,15 @@
 
 ## A KÖZNEVELÉS TANKÖNYVELLÁTÁSA
 
-44/L. § A Kormány
+44/L. §[^284] (1) A Kormány
 
 a) az Nkt. 93/A. § (3) bekezdés b) pontjában meghatározott állami tankönyvfejlesztésért és kiadásért felelős szerv feladatait ellátó szervként a Hivatalt,
 
-b) az Nkt. 93/A. § (3) bekezdés c) pontjában meghatározott könyvtárellátó feladatait ellátó szervként a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Könyvtárellátó),
-
-c) az Nkt. 93/A. § (3) bekezdés c) pontjában meghatározott a tankönyvek előállításáért felelős gazdasági társaságként az ALFÖLDI NYOMDA Zártkörűen Működő Részvénytársaságot
+b) az Nkt. 93/A. § (4) bekezdésében meghatározott könyvtárellátó feladatait ellátó szervként a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Könyvtárellátó)
 
 jelöli ki.
 
+(2) A Könyvtárellátó az iskolában alkalmazott tankönyvek terjesztésével kapcsolatos feladatok ellátása során bizományosként is eljárhat.
+
 [^283]: Az V/F. fejezetet (44/L-44/Y. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^284]: A 44/L. § a 454/2025. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
