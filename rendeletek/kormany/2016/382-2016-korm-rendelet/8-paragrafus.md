@@ -144,17 +144,19 @@ kapcsolatos ügyekben.
 
 33. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-34.[^115] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
+34.[^115] az (EU) 2023/959 európai parlamenti és tanácsi irányelv szerinti kiutasítási, feltartóztatási határozat meghozatalával összefüggő hajózási hatósági hatáskörrel,
+
+35.[^116] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
 
 kapcsolatos eljárásokban.
 
-(5)[^116] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
+(5)[^117] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
 
-(6)[^117] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
+(6)[^118] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
 
-(7)[^118]
+(7)[^119]
 
-(8)[^119] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
+(8)[^120] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
 
 [^94]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^95]: A 8. § (2) bekezdés 1. pontját a 247/2019. (X. 24.) Korm. rendelet 6. §-a hatályon kívül helyezte. [A 248/2019. (X. 24.) Korm. rendelet 15. § b) pontjával elrendelet módosítás, amely szerint hatályát veszti 8. § (2) bekezdés 1. pontja, nem vezethető át.]
@@ -177,8 +179,9 @@ kapcsolatos eljárásokban.
 [^112]: A 8. § (4) bekezdés 22. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^113]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, újonnan az 534/2020. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
 [^114]: A 8. § (4) bekezdés 26. pontja a 66/2022. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^115]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^116]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^117]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
-[^118]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § c) pontja hatályon kívül helyezte.
-[^119]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^115]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 450/2025. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^116]: A 8. § (4) bekezdés 35. pontját a 450/2025. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^117]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^118]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^119]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be, a 474/2024. (XII. 31.) Korm. rendelet 154. § c) pontja hatályon kívül helyezte.
+[^120]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

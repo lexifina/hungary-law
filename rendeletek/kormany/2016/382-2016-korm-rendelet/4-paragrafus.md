@@ -100,7 +100,7 @@ meghatározott országos nyilvántartások vezetésével összefüggő feladatok
 
 24.[^38] a közúti járművek időszakos vizsgálatával és közúti műszaki ellenőrzésével kapcsolatos nemzetközi kapcsolattartás és a Bizottsággal folytatott folyamatos információcsere;
 
-25.[^39] az új nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának nyomon követéséről és bejelentéséről szóló, 2018. június 28-i (EU) 2018/956 európai parlamenti és tanácsi rendeletben meghatározottaknak megfelelően, az Európai Unióban először nyilvántartásba vett új nehézgépjárművekre vonatkozó nyomon követési és bejelentési feladatok ellátása;
+25.[^39] az (EU) 2019/1242 európai parlamenti és tanácsi rendeletben meghatározottaknak megfelelően, az Európai Unióban először nyilvántartásba vett új nehézgépjárművekre vonatkozó nyomon követési és bejelentési feladatok ellátása;
 
 26.[^40] a közlekedési ágazat hatósági jellegű szakképzései tekintetében – jogszabályban meghatározott szakmai képzések és szakképesítések követelményrendszere alapján – szaktanfolyamok, továbbképzések tantárgyai, tantervei, vizsgakövetelményei meghatározása, vizsgabiztosok kinevezése és tanfolyami képzés ellenőrzése;
 
@@ -329,7 +329,7 @@ jelöli ki.
 [^36]: A 4. § (2) bekezdés 22. pontját az 516/2017. (XII. 29.) Korm. rendelet 38. § (1) bekezdése iktatta be.
 [^37]: A 4. § (2) bekezdés 23. pontját a 289/2018. (XII. 21.) Korm. rendelet 26. § (2) bekezdése iktatta be.
 [^38]: A 4. § (2) bekezdés 24. pontját a 289/2018. (XII. 21.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^39]: A 4. § (2) bekezdés 25. pontját a 128/2019. (V. 30.) Korm. rendelet 5. §-a iktatta be.
+[^39]: A 4. § (2) bekezdés 25. pontját a 128/2019. (V. 30.) Korm. rendelet 5. §-a iktatta be, szövege a 450/2025. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^40]: A 4. § (2) bekezdés 26. pontját a 248/2019. (X. 24.) Korm. rendelet 13. §-a iktatta be.
 [^41]: A 4. § (2) bekezdés 27. pontját a 248/2019. (X. 24.) Korm. rendelet 13. §-a iktatta be.
 [^42]: A 4. § (2) bekezdés 27. pont k) alpontját a 789/2021. (XII. 27.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 141/2023. (IV. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.
