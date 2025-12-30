@@ -28,10 +28,11 @@
 
 | 2.3. |  | A tag munkáltató adószáma |
 
-| 2.4. |  | A tag munkáltató fő tevékenységének TEÁOR ’08 szerinti besorolása |
+| 2.4.[^39] |  | A tag munkáltató fő tevékenységének TEÁOR ’25 szerinti besorolása |
 
 | 2.5. |  | A tag munkáltató által munkaviszony/közalkalmazotti jogviszony keretében foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
-3. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^33]
+3. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^40]
 
-[^33]: A 3. mellékletet a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés d) pontja hatályon kívül helyezte.
+[^39]: A 2. melléklet 2. pont 2.4. alpontja az 54/2025. (XII. 29.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^40]: A 3. mellékletet a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés d) pontja hatályon kívül helyezte.

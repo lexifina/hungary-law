@@ -20,7 +20,7 @@ d) amennyiben az ÁPBtv. 7. § (6) bekezdése alapján a feltételek elérése �
 
 (8)[^14] Az ÁRMB az eljárása során vizsgálja
 
-a) az ágazatba tartozó munkáltatók éves nettó árbevételét, szakágazati TEÁOR '08 kódjával kapcsolatos adatait,
+a)[^15] az ágazatba tartozó munkáltatók éves nettó árbevételét, szakágazati TEÁOR ’25 kódjával kapcsolatos adatait,
 
 b) a kollektív szerződéses lefedettséggel kapcsolatos adatokat,
 
@@ -38,3 +38,4 @@ e) az üzemi tanács választáson elért eredményekkel kapcsolatos adatokat.
 [^12]: Az 5. § (5) bekezdés c) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (7) bekezdése hatályon kívül helyezte, újonnan a 17/2012. (VII. 5.) NGM rendelet 5. § (3) bekezdése iktatta be.
 [^13]: Az 5. § (6)–(7) bekezdését az 51/2017. (XII. 29.) NGM rendelet 11. § (5) bekezdés a) pontja hatályon kívül helyezte.
 [^14]: Az 5. § (8) bekezdése az 51/2017. (XII. 29.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (8) bekezdés a) pontja az 54/2025. (XII. 29.) NGM rendelet 1. §-ával megállapított szöveg.

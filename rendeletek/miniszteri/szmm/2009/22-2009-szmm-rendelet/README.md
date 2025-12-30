@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-22-20-1
 | 2015-01-01 | 2009-22-20-1X.6 | 3/2012. (II. 10.) NGM rendelet |
 | 2017-01-01 | 2009-22-20-1X.7 | 62/2016. (XII. 29.) NGM rendelet |
 | 2018-01-01 | 2009-22-20-1X.8 | 51/2017. (XII. 29.) NGM rendelet |
+| 2025-12-30 | 2009-22-20-1X.9 | 54/2025. (XII. 29.) NGM rendelet |

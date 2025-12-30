@@ -2,7 +2,7 @@
 
 | 1. |  | Ágazati szakszervezet/szakszervezeti szövetség által elektronikusan szolgáltatott adatok |
 
-| 1.1. |  | ÁPB által lefedett TEÁOR '08 tevékenységek |
+| 1.1.[^33] |  | ÁPB által lefedett TEÁOR ’25 tevékenységek |
 
 |  |  | Kollektív szerződés kiterjesztésére irányuló kérelem esetén azon nemzetgazdasági ág, ágazatok (alágazatok, szakágazatok) TEÁOR '08 kódja és megnevezése, amelyre a kiterjesztést kérik; |
 
@@ -22,7 +22,7 @@
 
 | 1.2.7. |  | A munkáltató adószáma (statisztikai számjel hiányában) |
 
-| 1.2.8. |  | A munkáltató fő tevékenységének TEÁOR '08 szerinti besorolása |
+| 1.2.8.[^34] |  | A munkáltató fő tevékenységének TEÁOR ’25 szerinti besorolása |
 
 | 1.2.9. |  | A munkáltató által foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
@@ -36,7 +36,7 @@
 
 | 2. |  | Ágazati munkáltatói érdekképviselet/érdekképviseleti szövetség által elektronikusan szolgáltatott adatok |
 
-| 2.1. |  | Az ÁPB által lefedett TEÁOR '08 tevékenységek |
+| 2.1.[^35] |  | Az ÁPB által lefedett TEÁOR ’25 tevékenységek |
 
 |  |  | Kollektív szerződés kiterjesztésére irányuló kérelem esetén azon nemzetgazdasági ág, ágazatok (alágazatok, szakágazatok) TEÁOR '08 kódja és megnevezése, amelyre a kiterjesztést kérik; |
 
@@ -48,7 +48,7 @@
 
 | 2.2.3. |  | A tag munkáltató adószáma |
 
-| 2.2.4. |  | A tag munkáltató fő tevékenységének TEÁOR '08 szerinti besorolása |
+| 2.2.4.[^36] |  | A tag munkáltató fő tevékenységének TEÁOR ’25 szerinti besorolása |
 
 | 2.2.5. |  | A tag munkáltató által munkaviszony keretében foglalkoztatott átlagos statisztikai állományi létszám, a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
@@ -60,12 +60,17 @@
 
 | 3. |  | Az ÁPBtv. 8. §-a alapján kérelmet benyújtó munkáltató által elektronikusan szolgáltatott adatok |
 
-| 3.1. |  | Az ÁPB által lefedett TEÁOR '08 tevékenységek |
+| 3.1.[^37] |  | Az ÁPB által lefedett TEÁOR ’25 tevékenységek |
 
 |  |  | Kollektív szerződés kiterjesztésére irányuló kérelem esetén azon nemzetgazdasági ág, ágazatok (alágazatok, szakágazatok) TEÁOR '08 kódja és megnevezése, amelyre a kiterjesztést kérik; |
 
 | 3.2. |  | A munkáltató által munkaviszony keretében foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
-2. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^32]
+2. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^38]
 
-[^32]: A 2. melléklet a 17/2012. (VII. 5.) NGM rendelet 5. § (13) bekezdésével megállapított szöveg.
+[^33]: Az 1. melléklet 1. pont 1.1. alpontja az 54/2025. (XII. 29.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^34]: Az 1. melléklet 1.2. alpont 1.2.8. pontja az 54/2025. (XII. 29.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^35]: Az 1. melléklet 2. pont 2.1. alpontja az 54/2025. (XII. 29.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^36]: Az 1. melléklet 2. pont 2.2. alpont 2.2.4. pontja az 54/2025. (XII. 29.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^37]: Az 1. melléklet 3. pont 3.1. alpontja az 54/2025. (XII. 29.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^38]: A 2. melléklet a 17/2012. (VII. 5.) NGM rendelet 5. § (13) bekezdésével megállapított szöveg.
