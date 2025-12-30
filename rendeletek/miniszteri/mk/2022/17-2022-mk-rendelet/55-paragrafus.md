@@ -24,6 +24,8 @@
 
 (13)[^156] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendeletnek a 2025. évi felhasználási szabályok megállapításával összefüggő módosításáról szóló 10/2025. (IV. 24.) MK rendelettel (a továbbiakban: Módr9.) megállapított 2. § (2) és (4) bekezdését, 5. § (2) és (3) bekezdését, 6. § (4) és (5) bekezdését, 8. § (1) bekezdését és 1. mellékletét a Módr9. hatálybalépésekor[^157] folyamatban lévő eljárásokban is alkalmazni kell.
 
+(14)[^158] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet címrendi kiegészítéssel összefüggő módosításáról szóló 22/2025. (XII. 29.) MK rendelettel (a továbbiakban: Módr10.) megállapított 1. mellékletében foglalt táblázat 15. sorát a Módr10. hatálybalépésekor[^159] folyamatban lévő eljárásokban is alkalmazni kell.
+
 [^139]: Az 55. § (4) bekezdése a 26/2023. (IX. 21.) MK rendelet 11. § k) pontja szerint módosított szöveg.
 [^140]: Az 55. § (5) bekezdését a 20/2022. (XII. 27.) MK rendelet 9. §-a iktatta be.
 [^141]: A hatálybalépés időpontja 2022. december 28.
@@ -43,3 +45,5 @@
 [^155]: A hatálybalépés időpontja 2024. december 3.
 [^156]: Az 55. § (13) bekezdését a 10/2025. (IV. 24.) MK rendelet 2. §-a iktatta be.
 [^157]: A hatálybalépés időpontja 2025. április 25.
+[^158]: Az 55. § (14) bekezdését a 22/2025. (XII. 29.) MK rendelet 1. §-a iktatta be.
+[^159]: A hatálybalépés időpontja 2025. december 30.
