@@ -14,9 +14,9 @@ c) az 1. mellékletben foglalt táblázat F:43 mező 1. pontja és a 2. mellékl
 
 d) az 1. mellékletben foglalt táblázat 32a. sora alapján a 651/2014/EU bizottsági rendelet 13. és 14. cikke szerinti regionális beruházási támogatás,
 
-e) az 1. mellékletben foglalt táblázat 30., 32a., 33., 43a. és 43b. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatásfejlesztési projekthez nyújtott támogatás,
+e)[^27] az 1. mellékletben foglalt táblázat 30., 32a., 33. és 43a–43c. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatásfejlesztési projekthez nyújtott támogatás,
 
-f) az 1. mellékletben foglalt táblázat 30., 32., 32a., 33., 43a. és 43b. sora alapján a 651/2014/EU bizottsági rendelet 26. cikke szerinti kutatási infrastruktúrához nyújtott beruházási támogatás,
+f)[^28] az 1. mellékletben foglalt táblázat 30., 32., 32a., 33., 43a–43c. sora alapján a 651/2014/EU bizottsági rendelet 26. cikke szerinti kutatási infrastruktúrához nyújtott beruházási támogatás,
 
 g) az 1. mellékletben foglalt táblázat 30., 32. és 33. sora alapján a 651/2014/EU bizottsági rendelet 26a. cikke szerinti tesztelési és kísérleti infrastruktúrákra nyújtott beruházási támogatás,
 
@@ -31,3 +31,5 @@ k) az 1. mellékletben foglalt táblázat 30., 32. és 33. sora alapján a 651/2
 nyújtható.
 
 [^26]: A 4. § a 24/2025. (XI. 6.) KIM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^27]: A 4. § e) pontja a 25/2025. (XII. 29.) KIM rendelet 1. §-ával megállapított szöveg.
+[^28]: A 4. § f) pontja a 25/2025. (XII. 29.) KIM rendelet 1. §-ával megállapított szöveg.

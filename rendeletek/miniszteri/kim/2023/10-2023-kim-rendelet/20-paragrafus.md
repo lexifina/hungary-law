@@ -1,4 +1,4 @@
-## 10.[^42] A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
+## 10.[^44] A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
 
 20. § (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, amennyiben
 
@@ -40,4 +40,4 @@ f) hivatkozást a 2012/21/EU bizottsági határozatra.
 
 (10) Ha a közszolgáltatási megbízás időtartama alatt a jelen alcímben foglalt feltételek nem teljesülnek, a támogatás nyújtó az Atr. 7. §-a alapján köteles a támogatást bejelenteni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-[^42]: A 10. alcím (20. §) a 24/2025. (XI. 6.) KIM rendelet 8. §-ával megállapított szöveg.
+[^44]: A 10. alcím (20. §) a 24/2025. (XI. 6.) KIM rendelet 8. §-ával megállapított szöveg.
