@@ -106,7 +106,7 @@ e) nem kell lefolytatni vízjogi vagy vízvédelmi hatósági (engedélyezési) 
 
 36. kezelés: hasznosítási vagy ártalmatlanítási műveletek, ideértve a hasznosítást vagy ártalmatlanítást megelőző előkészítést is;
 
-36a. kiemelt hulladékjogi szabályszegést elkövető: akit a hulladékgazdálkodási hatóság egy költségvetési évben összesen százmillió forintot, természetes személy esetében tízmillió forintot elérő bírsággal sújt;
+36a. kiemelt hulladékjogi szabályszegést elkövető: akit a hulladékgazdálkodási hatóság egy költségvetési évben összesen legalább százmillió forintot, természetes személy esetében összesen legalább tízmillió forintot elérő bírsággal sújt;
 
 36b. kiterjesztett gyártói felelősségi rendszer: olyan intézkedések együttese, amelyek célja annak biztosítása, hogy a termék gyártója viselje a pénzügyi felelősséget, vagy a pénzügyi és szervezési felelősséget a termék életciklusa során a hulladékká válást követő hulladékkezelésért;
 

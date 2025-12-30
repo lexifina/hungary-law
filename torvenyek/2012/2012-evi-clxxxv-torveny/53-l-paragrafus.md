@@ -1,4 +1,4 @@
-53/L. § (1) A miniszter az 53/J. § szerinti éves beszámoló és az 53/K. § szerinti éves fejlesztési rendszerterv alapján átfogó elemzést készít a koncesszió hatálya alá tartozó hulladékgazdálkodási tevékenységek ellátásáról, a koncessziós díj felhasználásról és az érintett hulladékáramokra meghatározott célértékek teljesítéséről a Kormány számára minden év november 30-áig.
+53/L. § (1) A miniszter az 53/J. § szerinti éves beszámoló és az 53/K. § szerinti éves fejlesztési rendszerterv alapján átfogó elemzést készít a koncesszió hatálya alá tartozó hulladékgazdálkodási tevékenységek ellátásáról, a koncessziós díj felhasználásról és az érintett hulladékáramokra meghatározott célértékek teljesítéséről a Kormány számára az (1a) bekezdés b) pontja szerinti teljesítésigazolás kiadását követő 90 napon belül.
 
 (1a) Az 53/J. § (2) bekezdése szerinti éves beszámoló alapján, a koncessziós társaság szerződésszerű teljesítése esetén a miniszter a koncessziós társaság által a koncessziós szerződés szerint végzendő állami hulladékgazdálkodási közfeladat tekintetében, a beszámoló által érintett tárgyévre vonatkozó teljesítésigazolást két részletben,
 

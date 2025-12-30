@@ -76,6 +76,6 @@ a) kizárólag a hulladék pénzben kifejezhető értékkel bíró jellegének v
 
 b) a részére fizetett kompenzáció mértékének vitatása esetén, a kompenzációnak a koncessziós társaság általi megfizetését követően
 
-kezdeményezheti, legfeljebb a kérelem benyújtását 90 nappal megelőző időszakra vonatkozóan. A Hivatal (13) bekezdés szerinti eljárásában az ügyintézési határidő 45 nap.
+kezdeményezheti, legfeljebb a kérelem benyújtását 90 nappal megelőző időszakra vonatkozóan.
 
 (17) A kompenzáció mértékének (13) bekezdés szerinti, az eredeti hulladéktermelő gazdálkodó szervezet általi vitatása vagy a Hivatal (13) bekezdés szerinti határozata nem mentesíti az eredeti hulladéktermelő gazdálkodó szervezetet a hulladékgazdálkodási intézményi résztevékenységért szedhető díjak megfizetése alól.

@@ -40,7 +40,7 @@ jogsértés esetén nem mérsékelhető.
 
 (8)
 
-(9) Akit a hulladékgazdálkodási hatóság egy költségvetési évben összesen százmillió forintot, természetes személy esetében tízmillió forintot elérő bírsággal sújt, két évig nem részesülhet törvény vagy kormányrendelet szerint meghatározott támogatásban.
+(9) Akit a hulladékgazdálkodási hatóság egy költségvetési évben összesen legalább százmillió forintot, természetes személy esetében összesen legalább tízmillió forintot elérő bírsággal sújt, két évig nem részesülhet a hulladékgazdálkodással összefüggő tevékenységéhez kapcsolódó támogatásban.
 
 (10) A hulladékgazdálkodási bírság helyszíni bírságként is kiszabható.
 

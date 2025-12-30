@@ -6,13 +6,15 @@
 
 (2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik, valamint ha törvény vagy kormányrendelet az engedély kiadását más hatóság hatáskörébe nem utalja – a hulladékgazdálkodási hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
 
-(2a) A hulladékgazdálkodási hatóság nyilvántartásba vételével végezhető
+(2a) A hulladékgazdálkodási hatóság nyilvántartásba vételével végezhető, ha a tevékenység nem veszélyezteti a környezetet, és az emberi egészséget,
 
-a) környezetvédelmi célú oktatási-nevelési tevékenység körében arra alkalmas nem veszélyes hulladékból használati tárgyak, ajándéktárgyak készítése,
+a) valamint a felhasznált nem veszélyes hulladék mennyisége nem haladja meg az évi egy tonnát
 
-b) arra alkalmas hulladék művészeti célú felhasználása, amennyiben a műalkotás a közönség számára szervezett rendezvény keretében ténylegesen bemutatásra kerül,
+aa) a környezetvédelmi célú oktatási-nevelési tevékenység körében arra alkalmas nem veszélyes hulladékból használati tárgyak, ajándéktárgyak készítése,
 
-ha a tevékenység nem veszélyezteti a környezetet, és az emberi egészséget, valamint a felhasznált nem veszélyes hulladék mennyisége nem haladja meg az évi egy tonnát.
+ab) az arra alkalmas hulladék művészeti célú felhasználása, ha a műalkotás a közönség számára szervezett rendezvény keretében ténylegesen bemutatásra kerül,
+
+b) az eredeti hulladéktermelő gazdálkodó szervezet saját tevékenységeiből képződő folyékony hulladékainak hasznosítási célú semlegesítése a lúgok és savak kezelésére vonatkozó biztonsági előírások betartásával, ha az a környezetveszélyeztetés csökkentése érdekében történik.
 
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 

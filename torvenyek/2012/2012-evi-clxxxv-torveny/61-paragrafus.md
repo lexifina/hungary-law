@@ -116,7 +116,7 @@ vonatkozó adatokat.
 
 (24b) Természetes személy esetében különös méltánylást igénylő eset az, ha a költség megfizetése a kötelezett és a vele együtt élő hozzátartozók megélhetését súlyosan veszélyeztetné vagy a kötelezett számára súlyosan aránytalan megterhelést jelentene.
 
-(24c) Vállalkozási tevékenységet elsődlegesen nem folytató, nem természetes személy esetében különös méltánylást igénylő eset, ha a költség megfizetése a kötelezett számára az elsődlegesen végzett tevékenységét veszélyeztető, súlyosan aránytalan terhet jelentene.
+(24c) Közszolgáltatást végző gazdálkodó szervezet vagy vállalkozási tevékenységet elsődlegesen nem folytató, nem természetes személy esetében különös méltánylást igénylő eset, ha a költség megfizetése a kötelezett számára az elsődlegesen végzett tevékenységét veszélyeztető, súlyosan aránytalan terhet jelentene.
 
 (24d) A költség mérséklése esetén hulladékgazdálkodási hatóság a megfizetendő összeget a kötelezett teljesítőképességéhez mérten állapítja meg.
 

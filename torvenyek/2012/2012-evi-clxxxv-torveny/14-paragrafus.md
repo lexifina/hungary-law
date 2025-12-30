@@ -4,7 +4,7 @@ a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött h�
 
 b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe, vagy logisztikai telephelyére szállítja,
 
-c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja, vagy
+c) a gazdálkodó szervezet alkalmilag, illetve a tevékenységéhez ütemezetten saját célra, nem üzletszerűen, a tevékenysége során képződött, elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja,
 
 d) a természetes személy ingatlantulajdonos vagy ingatlanbirtokos által használt ingatlanon képződő, elkülönítetten gyűjtött 17 06 05* azonosító kódú, azbesztet tartalmazó építőanyag megnevezésű veszélyes hulladékot az annak szállítására és tárolására alkalmas gyűjtőedényben, környezetveszélyeztetést kizáró módon – nem üzletszerű szállítás keretében – az (5)–(8) bekezdésben foglaltak betartásával hulladékgyűjtő pontra vagy hulladékkezelő létesítménybe szállítja.
 

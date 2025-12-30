@@ -1,6 +1,6 @@
 78/I. § (1) A 18/D. § (4) bekezdése szerinti díj összegének megállapítására irányuló eljárásokban közvetlenül érintett kizárólag az eszköz üzemeltetője, a tulajdonosa, valamint a koncessziós társaság és a koncesszori alvállalkozó.
 
-(2) A 31. § (11) bekezdése szerinti, kompenzáció összegének megállapítására irányuló eljárásokban közvetlenül érintett kizárólag a 31. § (11) bekezdése szerinti eredeti hulladéktermelő gazdálkodó szervezet, valamint a koncessziós társaság és a koncesszori alvállalkozó.
+(2) A 31. § (13) bekezdése szerinti, kompenzáció összegének megállapítására irányuló eljárásokban közvetlenül érintett kizárólag a 31. § (11) bekezdése szerinti eredeti hulladéktermelő gazdálkodó szervezet, valamint a koncessziós társaság.
 
 (3) A Hivatalnak a használati vagy igénybevételi díj összegét, illetve a kompenzáció összegét megállapító határozata elleni közigazgatási per a határozat közlésétől számított 15 napon belül indítható. A Hivatal a keresetlevelet az ügy irataival és védiratával együtt 15 napon belül megküldi a bíróságnak.
 

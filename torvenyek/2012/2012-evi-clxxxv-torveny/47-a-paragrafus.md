@@ -4,6 +4,8 @@
 
 (3) A hulladékgazdálkodási közszolgáltatási díjat, és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjakat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 45 napon belül tegye meg javaslatát.
 
+(3a) A miniszter az (1) bekezdés szerinti díjakat rendeletben a tárgyév során módosíthatja.
+
 (4) A koncessziós társaság és a koncesszori alvállalkozó által a hulladékgazdálkodási közszolgáltatási résztevékenység keretében, valamint a gazdálkodó szervezetek és a települési önkormányzatok részére a hulladékgazdálkodási intézményi résztevékenység keretében, ugyanazon ingatlanhasználó részére, ugyanolyan tartalommal, meghatározott időközönként, ismétlődő jelleggel, rendszeres szolgáltatásként nyújtott hulladékgazdálkodási tevékenység mértékét meghaladó eseti szolgáltatás esetén a rendszeres szolgáltatás díjának figyelembevételével a hulladék típusára, mennyiségére, és a végzett hulladékgazdálkodási tevékenységre tekintettel kell az eseti szolgáltatás díját meghatározni.
 
 (5)

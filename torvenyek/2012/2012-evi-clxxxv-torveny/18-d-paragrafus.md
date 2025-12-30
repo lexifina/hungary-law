@@ -8,4 +8,4 @@
 
 (5) Ha a kötelezés véglegessé válását követően a kötelezéssel érintett eszköz üzemeltetője vagy tulajdonosa, valamint a kötelezés iránti kérelmet előterjesztő koncesszor, koncessziós társaság vagy koncesszori alvállalkozó az eszköz használati vagy igénybevételi díjának összegében nem tudnak megállapodni, akkor annak meghatározása tárgyában – a felek bármelyikének kérelmére – a Hivatal dönt. A Hivatal az eljárása során mindkét féltől jogosult adatot kérni.
 
-(6) A Hivatal (4) bekezdés szerinti eljárásában az ügyintézési határidő 30 nap.
+(6)

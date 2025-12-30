@@ -52,6 +52,8 @@ d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet ügyf
 
 (9) A hulladékgazdálkodási hatóság a 86. § (9) bekezdésben foglaltakra tekintettel az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint nyilvántartást vezet, melynek célja a kiemelt hulladékjogi szabályszegést elkövetők ellenőrizhetőségének biztosítása.
 
+(9a) A hulladékgazdálkodási hatóság a kiemelt hulladékjogi szabályszegést elkövetők nyilvántartásába azon döntés (10) bekezdésben meghatározott adatait jegyzi be, amely ellen kérelemre induló jogorvoslatnak már nincs helye. A hulladékgazdálkodási hatóság a döntés adatait a jogorvoslati kérelem benyújtására rendelkezésre álló idő elteltével, vagy jogorvoslati eljárás lefolytatása esetén az eljárás során hozott bírósági döntés jogerőre emelkedésével egyidejűleg jegyzi be.
+
 (10) A nyilvántartás tartalmazza
 
 a)
@@ -80,16 +82,18 @@ ec) a bírságot kiszabó döntés véglegessé válásának időpontját,
 
 ed) a bírságot kiszabó döntés ügyiratszámát,
 
-ee) a bírság típusát és összegét, valamint
+ee) a bírság típusát és összegét,
 
 ef)
 
 eg) a jogsértés időpontját,
 
-eh)
+eh) jogorvoslattal megtámadott döntés esetében az eljáró szerv megnevezését, a jogorvoslati eljárás során hozott döntés számát és véglegessé válásának – bírósági döntés esetén jogerőre emelkedésének – időpontját, valamint
 
-ei)
+ei) a 86. § (9) bekezdése szerinti két éves időtartam utolsó napját.
 
 (10a) A nyilvántartás (10) bekezdés c) és e) pontjában meghatározott adata a jogi személy és a jogi személyiséggel nem rendelkező szervezet esetében nyilvánosan hozzáférhető.
 
 (11)
+
+(12) A 86. § (9) bekezdése szerinti két éves időtartam kezdő időpontja a 86. § (9) bekezdésében meghatározott bírságösszeget a költségvetési évben elérő vagy azt meghaladó bírságot kiszabó utolsó döntés véglegessé válásának, vagy jogorvoslati eljárás lefolytatása esetén az eljárás során hozott bírósági döntés jogerőre emelkedésének időpontja.
