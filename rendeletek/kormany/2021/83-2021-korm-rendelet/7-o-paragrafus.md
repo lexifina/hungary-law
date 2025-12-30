@@ -1,6 +1,6 @@
-7/O. §[^75] (1)[^76]
+7/O. §[^78] (1)[^79]
 
-(2)[^77] A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan 4. mellékletben megjelölt, EOV koordináták által lehatárolt részén megvalósuló beruházás telkére a beépítés szabályait a (3) és (4) bekezdés állapítja meg, azzal, hogy
+(2)[^80] A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan 4. mellékletben megjelölt, EOV koordináták által lehatárolt részén megvalósuló beruházás telkére a beépítés szabályait a (3) és (4) bekezdés állapítja meg, azzal, hogy
 
 a) az OTÉK előírásait a (3) és (4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -26,6 +26,6 @@ b) a kerékpártárolók kialakításánál az építmények, illetve önálló 
 
 (5) A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan 4. mellékletben megjelölt, EOV koordináták által lehatárolt építési területen bontási tevékenység bontási engedély nélkül végezhető, azzal, hogy a tevékenység végzéséről elektronikus építési naplót kell vezetni.
 
-[^75]: A 7/O. §-t a 401/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be, szövege az 590/2021. (X. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^76]: A 7/O. § (1) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 330. §-a hatályon kívül helyezte.
-[^77]: A 7/O. § (2) bekezdés nyitó szövegrésze a 220/2023. (VI. 1.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^78]: A 7/O. §-t a 401/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be, szövege az 590/2021. (X. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^79]: A 7/O. § (1) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 330. §-a hatályon kívül helyezte.
+[^80]: A 7/O. § (2) bekezdés nyitó szövegrésze a 220/2023. (VI. 1.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.

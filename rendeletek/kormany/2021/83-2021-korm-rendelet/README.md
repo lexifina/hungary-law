@@ -76,3 +76,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2025-06-20 | 2021-83-20-22.68 | 149/2025. (VI. 19.) Korm. rendelet |
 | 2025-07-25 | 2021-83-20-22.69 | 218/2025. (VII. 24.) Korm. rendelet |
 | 2025-08-22 | 2021-83-20-22.70 | 279/2025. (VIII. 21.) Korm. rendelet |
+| 2025-12-30 | 2021-83-20-22.72 | 447/2025. (XII. 29.) Korm. rendelet |

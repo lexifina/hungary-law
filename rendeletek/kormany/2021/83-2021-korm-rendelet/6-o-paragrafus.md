@@ -1,4 +1,4 @@
-6/O. §[^46] (1) A 2. mellékletben foglalt táblázat 82. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+6/O. §[^49] (1) A 2. mellékletben foglalt táblázat 82. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -14,4 +14,4 @@ c) a zöldfelület e rendelkezés hatálybalépésekor fennálló mértéke a be
 
 d) a beruházással összefüggésben nem kell új személygépkocsi-parkolóhelyet megvalósítani.
 
-[^46]: A 6/O. §-t a 145/2022. (IV. 7.) Korm. rendelet 3. §-a iktatta be.
+[^49]: A 6/O. §-t a 145/2022. (IV. 7.) Korm. rendelet 3. §-a iktatta be.

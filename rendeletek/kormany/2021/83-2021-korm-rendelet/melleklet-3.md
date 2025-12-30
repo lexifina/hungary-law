@@ -126,7 +126,7 @@
 
 | 63. | Református iskola építése Biatorbágyon | Biatorbágy külterület 0313/5 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-| 64. | Református iskola építése Szigetszentmiklóson | Szigetszentmiklós belterület 5601/2, 5601/3, 5604/4, 5604/5, 5604/6, 5604/7, 5604/8, 5604/9, 5604/10, 5605/1, 5605/2, 5615, 5616, 5617/2, 5617/3, 5618/2, 5619/3, 5620/14, 5620/15, 5620/21, 5620/22, 5921, 5924, 5925, 5926, 5927 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 64. | Református iskola építése Szigetszentmiklóson | Szigetszentmiklós belterület 5601/2, 5601/3, 5603/4, 5604/2, 5604/4, 5604/5, 5604/6, 5604/7, 5604/8, 5604/9, 5604/10, 5605/1, 5605/2, 5605/5, 5606/2, 5608/2, 5609/2, 5614, 5615, 5616, 5617/2, 5617/3, 5618/2, 5619/3, 5620/14, 5620/15, 5620/22, 5645/4, 5645/6, 5921, 5924, 5925, 5926, 5927 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
 
 | 65. | Új konferenciaközpont építésére irányuló beruházás | Hajdúszoboszló belterület 3529 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
@@ -212,6 +212,6 @@
 
 | 106. | Terrorelhárítási Központ bővítése | Budapest X. kerület, belterület 38902 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^234]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^237]
 
-[^234]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^237]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
