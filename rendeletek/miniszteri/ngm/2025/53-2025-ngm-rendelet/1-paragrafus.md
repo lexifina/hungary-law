@@ -4,4 +4,6 @@
 
 ## [3] A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 16/2008. (VIII. 30.) NFGM rendelet 1. § (2) bekezdés g) pontjában a „célra vagy rendvédelmi szerv céljára” szövegrész helyébe a „célra, rendvédelmi szerv céljára vagy polgári nemzetbiztonsági szolgálat céljára” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
