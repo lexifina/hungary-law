@@ -2,7 +2,7 @@
 
 27/F. § (1) A Földforgalmi tv. alapján erre kötelezett személynek a Földforgalmi tv. 49. § (1) bekezdésében előírt határidőn belül a föld használatának átengedéséről szóló szerződés hatósági jóváhagyása iránt kérelmet (ezen alcím alkalmazása során a továbbiakban: hatósági jóváhagyás iránti kérelem) kell benyújtania a föld fekvése szerint illetékes mezőgazdasági igazgatási szervhez.
 
-(1a)[^83] Ha a kérelem nem elektronikus űrlapon kerül benyújtásra, a haszonbérleti szerződést három eredeti példányban kell benyújtani.
+(1a)[^86] Ha a kérelem nem elektronikus űrlapon kerül benyújtásra, a haszonbérleti szerződést három eredeti példányban kell benyújtani.
 
 (2) A hatósági jóváhagyás iránti kérelem adattartalmát a 4. melléklet tartalmazza. A kérelemhez csatolni kell az egységes okiratba foglalt szerződés másolatát, valamint haszonbérleti szerződés esetén az előhaszonbérleti jogosultságot bizonyító okiratok másolatát.
 
@@ -20,4 +20,4 @@ a hatósági jóváhagyás iránti kérelmet a tulajdonostársak döntése szeri
 
 (6) A hatósági jóváhagyás iránti kérelem haszonbérleti szerződés esetén egyben közzétételi kérelemnek is minősül, kivéve a Földforgalmi tv. 48. §-ában meghatározott eseteket.
 
-[^83]: A 27/F. § (1a) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 34. §-a iktatta be.
+[^86]: A 27/F. § (1a) bekezdését a 188/2025. (VII. 3.) Korm. rendelet 34. §-a iktatta be.

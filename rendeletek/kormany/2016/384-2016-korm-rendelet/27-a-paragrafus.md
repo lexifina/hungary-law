@@ -1,4 +1,4 @@
-## V/A. Fejezet[^82]
+## V/A. Fejezet[^85]
 
 ## A FÖLD TULAJDONJOGÁNAK ÉS A FÖLD HASZNÁLATI JOGOSULTSÁGÁNAK MEGSZERZÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK RÉSZLETES SZABÁLYAI
 
@@ -26,4 +26,4 @@ b) a csatolt elektronikus vagy egyszerű papír alapú másolat megegyezik az er
 
 (6) Egyéb közhiteles nyilvántartásba bejegyzett, cégnek nem minősülő szervezet esetében a kérelemben meg kell nevezni a szervezetet nyilvántartó hatóságot, valamint a szervezet nyilvántartási számát. A szervezet jogalanyiságának fennállását és a képviseletében eljáró törvényes képviselő kérelemben megadott adatait a mezőgazdasági igazgatási szerv a nyilvántartó hatóság megkeresése útján ellenőrzi.
 
-[^82]: Az V/A. Fejezetet (27/A–27/K. §-t) a 481/2024. (XII. 31.) Korm. rendelet 61. §-a iktatta be.
+[^85]: Az V/A. Fejezetet (27/A–27/K. §-t) a 481/2024. (XII. 31.) Korm. rendelet 61. §-a iktatta be.

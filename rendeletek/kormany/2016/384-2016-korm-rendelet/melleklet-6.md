@@ -1,6 +1,6 @@
-6. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^99]
+6. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^102]
 
-A földhasználat szerzés hatósági jóváhagyása alóli mentesség igazolására irányuló kérelem tartalma
+## A földhasználat szerzés hatósági jóváhagyása alóli mentesség igazolására irányuló kérelem tartalma
 
 1. A kérelmet benyújtó természetes személy
 
@@ -154,4 +154,4 @@ A földhasználat szerzés hatósági jóváhagyása alóli mentesség igazolás
 
 13. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^99]: A 6. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § e) pontja iktatta be.
+[^102]: A 6. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § e) pontja iktatta be.

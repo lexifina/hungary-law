@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-384-20-
 | 2025-07-06 | 2016-384-20-22.23 | 188/2025. (VII. 3.) Korm. rendelet |
 | 2025-08-01 | 2016-384-20-22.24 | 481/2024. (XII. 31.) Korm. rendelet |
 | 2025-08-28 | 2016-384-20-22.25 | 284/2025. (VIII. 25.) Korm. rendelet |
+| 2025-12-31 | 2016-384-20-22.26 | 420/2025. (XII. 23.) Korm. rendelet |

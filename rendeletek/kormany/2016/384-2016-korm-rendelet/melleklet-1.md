@@ -1,4 +1,4 @@
-1. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^92]
+1. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^95]
 
 A regisztrációs űrlap adattartalma
 
@@ -166,4 +166,4 @@ A regisztrációs űrlap adattartalma
 
 10.2. nyilatkozat arról, hogy az eredeti okirat papír alapon vagy elektronikusan készült.
 
-[^92]: Az 1. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 595. § e) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 63. § a) pontja iktatta be.
+[^95]: Az 1. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 595. § e) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 63. § a) pontja iktatta be.

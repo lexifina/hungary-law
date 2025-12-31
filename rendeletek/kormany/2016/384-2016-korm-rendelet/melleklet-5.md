@@ -1,6 +1,6 @@
-5. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^98]
+5. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^101]
 
-A tulajdonszerzés hatósági jóváhagyása alóli mentesség igazolására irányuló kérelem tartalma
+## A tulajdonszerzés hatósági jóváhagyása alóli mentesség igazolására irányuló kérelem tartalma
 
 1. A kérelmet benyújtó természetes személy
 
@@ -152,4 +152,4 @@ A tulajdonszerzés hatósági jóváhagyása alóli mentesség igazolására ir�
 
 13. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^98]: Az 5. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § d) pontja iktatta be.
+[^101]: Az 5. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § d) pontja iktatta be.

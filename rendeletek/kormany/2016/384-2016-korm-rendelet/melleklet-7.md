@@ -1,6 +1,6 @@
-7. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^100]
+7. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^103]
 
-A szerzési feltételek igazolására szolgáló hatósági bizonyítvány kiállítására irányuló kérelem tartalma
+## A szerzési feltételek igazolására szolgáló hatósági bizonyítvány kiállítására irányuló kérelem tartalma
 
 1. A kérelmet benyújtó természetes személy
 
@@ -112,4 +112,4 @@ A szerzési feltételek igazolására szolgáló hatósági bizonyítvány kiál
 
 10. A kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^100]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § f) pontja iktatta be.
+[^103]: A 7. mellékletet a 481/2024. (XII. 31.) Korm. rendelet 63. § f) pontja iktatta be.
