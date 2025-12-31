@@ -12,8 +12,8 @@
 
 | 5. | Baranya Vármegyei Kormányhivatal | Baranya, Somogy, Tolna, Vas és Zala vármegye |
 
-6. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^375]
+6. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^376]
 
 Az erdészeti hatóságként eljáró vármegyei kormányhivatal engedélyezési eljárásában az eljáró hatóság által vizsgálandó szakkérdések
 
-[^375]: A 6. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^376]: A 6. mellékletet a 258/2024. (VIII. 29.) Korm. rendelet 19. § (1) bekezdése iktatta be.

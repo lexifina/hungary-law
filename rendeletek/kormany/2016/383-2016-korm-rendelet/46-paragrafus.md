@@ -1,6 +1,6 @@
-46. § (1)[^244]
+46. § (1)[^245]
 
-(2)[^245] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatalok a 4. mellékletben foglaltak szerint több vármegyére kiterjedő illetékességgel járnak el.
+(2)[^246] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatalok a 4. mellékletben foglaltak szerint több vármegyére kiterjedő illetékességgel járnak el.
 
-[^244]: A 46. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 18. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^245]: A 46. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 18. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) és f) pontja szerint módosított szöveg.
+[^245]: A 46. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 18. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^246]: A 46. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 18. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) és f) pontja szerint módosított szöveg.

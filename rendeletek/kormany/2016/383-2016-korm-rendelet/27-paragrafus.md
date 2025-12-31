@@ -40,7 +40,7 @@ l) kutatási és műszaki fejlesztési feladatokat végez, ezen belül különö
 
 m)[^155] közreműködik a NÉBIH és a Magyar Államkincstár (4) bekezdés szerinti feladatainak ellátásában,
 
-n)[^156]
+n)[^156] üzemelteti és kezeli a Nemzeti Földalap vagyonnyilvántartásának szabályairól szóló 11/2011. (II. 22.) Korm. rendelet 1. § (1) bekezdése szerinti vagyonnyilvántartáshoz kapcsolódó ingatlan-nyilvántartási, térképi és egyéb térinformatikai adatbázist,
 
 o)[^157]
 
@@ -77,7 +77,7 @@ b) a Magyar Államkincstár látja el a szőlőültetvények azonosítását, az
 [^153]: A 27. § (2) bekezdés c) pontja a 713/2020. (XII. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
 [^154]: A 27. § (2) bekezdés g) pontja a 713/2020. (XII. 30.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^155]: A 27. § (2) bekezdés m) pontja a 220/2019. (IX. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 107/2024. (V. 9.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.
-[^156]: A 27. § (2) bekezdés n) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
+[^156]: A 27. § (2) bekezdés n) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte, újonnan a 420/2025. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
 [^157]: A 27. § (2) bekezdés o) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
 [^158]: A 27. § (2) bekezdés p) pontja a 713/2020. (XII. 30.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
 [^159]: A 27. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 51. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
