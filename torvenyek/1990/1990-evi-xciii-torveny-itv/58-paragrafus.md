@@ -24,7 +24,7 @@ b)
 
 (5) Ha az illeték mérséklésének az oka a fellebbezési eljárásban vagy a felülvizsgálati eljárásban merül fel, a mérsékelt illeték kedvezménye csak a fellebbezési vagy a felülvizsgálati eljárás illetékére terjed ki.
 
-(6)
+(6) Az illeték a peres eljárás illetékének 80%-a, ha közigazgatási perben a fél nem kéri tárgyalás tartását és a bíróság tárgyalás tartása nélkül hozza meg az ítéletet.
 
 (7) Az (1) bekezdés a) pont aa) alpontjának rendelkezését a nemperes eljárásban, továbbá az egyéb közigazgatási bírósági eljárásban megfelelően alkalmazni kell, ha a fél a bíróság érdemi határozatának meghozatala előtt áll el a kérelmétől. A fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bekezdés] – amennyiben ennek feltételei egyébként fennállnak – a mérsékelt illeték kedvezménye csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
