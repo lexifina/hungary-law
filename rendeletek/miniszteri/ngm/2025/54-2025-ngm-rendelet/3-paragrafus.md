@@ -1,1 +1,3 @@
-3. § A 22/2009. SZMM rendelet 1. melléklet 1. pont 1.1. alpontjában, 1. melléklet 1.2. alpont 1.2.8. pontjában, 1. melléklet 2. pont 2.1. alpontjában, 1. melléklet 2. pont 2.2. alpont 2.2.4. pontjában, 1. melléklet 3. pont 3.1. alpontjában és 2. melléklet 2. pont 2.4. alpontjában a „TEÁOR ’08” szövegrész helyébe a „TEÁOR ’25” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

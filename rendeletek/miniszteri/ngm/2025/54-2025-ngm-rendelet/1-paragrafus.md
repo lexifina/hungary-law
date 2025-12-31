@@ -4,6 +4,6 @@
 
 ## [3] Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszédről szóló 2009. évi LXXIV. törvény 29. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § Az ágazati párbeszéd bizottságokról, valamint a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény végrehajtásáról szóló 22/2009. (IX. 30.) SZMM rendelet (a továbbiakban: 22/2009. SZMM rendelet) 5. § (8) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az ÁRMB az eljárása során vizsgálja)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
