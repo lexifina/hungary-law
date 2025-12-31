@@ -1,0 +1,1 @@
+5. § Ez a rendelet a kültéri használatra tervezett berendezések levegőben terjedő zajkibocsátásának mérésére szolgáló módszerek tekintetében történő módosításáról szóló, 2023. november 16-i (EU) 2024/1208 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
