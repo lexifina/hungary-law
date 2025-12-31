@@ -1,1 +1,0 @@
-73. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2022. évben magyar filmalkotás esetén 337,5 millió forint, magyar részvételű koprodukciós filmalkotás esetén 303,4 millió forint.
