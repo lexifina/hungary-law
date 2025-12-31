@@ -21,3 +21,7 @@ bb) eredményeinek nyilvánossággal történő megismertetése,
 bc) értékelése, felülvizsgálata; és
 
 c) a digitalizációs célú támogatások hatását növelő agrárdigitalizációs stratégiák megvalósításának értékelése és felülvizsgálata.
+
+(3)[^36] A miniszter az AKI útján látja el a KAP Alapokból, valamint a nemzeti költségvetésből finanszírozott támogatások értékelését és felülvizsgálatát, és készíti el az értékelési tervet.
+
+[^36]: A 19. § (3) bekezdését a 420/2025. (XII. 23.) Korm. rendelet 25. §-a iktatta be.
