@@ -4,4 +4,6 @@
 
 ## [3] A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 10. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 12. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörében eljáró honvédelmi miniszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § A haditechnikai termékek jelöléséről, valamint a haditechnikai termékek és szolgáltatások nyilvántartásáról szóló 32/2007. (III. 19.) GKM rendelet 1. § (2) bekezdésében, 3. § (3) bekezdésében, 2. mellékletében, 3. mellékletében a „Katonai Nemzetbiztonsági Szolgálat” szövegrész helyébe a „nemzetbiztonsági szolgálatok” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
