@@ -1,12 +1,12 @@
-## 6a.[^90] A de minimis támogatásokra vonatkozó szabályok
+## 6a.[^98] A de minimis támogatásokra vonatkozó szabályok
 
 7/A. § (1) A de minimis támogatások nyújtásával kapcsolatos eljárásokra a Korm. rendelet 11–11/A. §-ában foglaltak az irányadók.
 
-(2)[^91] Az (EU) 2023/2831 bizottsági rendelet, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet), valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+(2)[^99] Az (EU) 2023/2831 bizottsági rendelet, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet), valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
-(3)[^92] Nem nyújtható az (EU) 2023/2831 bizottsági rendelet szerinti általános de minimis támogatás
+(3)[^100] Nem nyújtható az (EU) 2023/2831 bizottsági rendelet szerinti általános de minimis támogatás
 
-a)[^93] olyan vállalkozás számára, amely a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti 5. cikk a) és b) pontjában meghatározott halászati és akvakultúra-termékek
+a)[^101] olyan vállalkozás számára, amely a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti 5. cikk a) és b) pontjában meghatározott halászati és akvakultúra-termékek
 
 aa) elsődleges előállításával foglalkozik,
 
@@ -24,13 +24,13 @@ d) harmadik országba vagy tagállamba irányuló exporttal kapcsolatos tevéken
 
 e) importáru helyett belföldi áru használatához;
 
-f)[^94]
+f)[^102]
 
 g) hitel vagy kezességvállalás formájában, amennyiben a kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
 
-(3a)[^95] Ha a kedvezményezett a (3) bekezdés a)–c) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, az általános de minimis támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés a)–c) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek általános de minimis támogatásban.
+(3a)[^103] Ha a kedvezményezett a (3) bekezdés a)–c) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, az általános de minimis támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés a)–c) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek általános de minimis támogatásban.
 
-(4)[^96] Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható támogatás azon mezőgazdasági termelő részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+(4)[^104] Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem nyújtható támogatás azon mezőgazdasági termelő részére, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
 (5) Nem nyújtható a 717/2014/EU bizottsági rendelet szerinti halászati de minimis támogatásként olyan támogatás,
 
@@ -58,10 +58,10 @@ bi) a harmadik országba vagy tagállamba irányuló exporttal kapcsolatos tevé
 
 c) amely az importáruval szemben belföldi áru használatához kötött.
 
-[^90]: A 6a. alcímet (7/A–7/C. §) a 65/2016. (IX. 21.) FM rendelet 10. §-a iktatta be.
-[^91]: A 7/A. § (2) bekezdése a 14/2024. (IV. 25.) NGM rendelet 6. § a) pontja szerint módosított szöveg.
-[^92]: A 7/A. § (3) bekezdés nyitó szövegrésze a 14/2024. (IV. 25.) NGM rendelet 6. § b) pontja szerint módosított szöveg.
-[^93]: A 7/A. § (3) bekezdés a) pontja a 14/2024. (IV. 25.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^94]: A 7/A. § (3) bekezdés f) pontját a 14/2024. (IV. 25.) NGM rendelet 7. § a) pontja hatályon kívül helyezte.
-[^95]: A 7/A. § (3a) bekezdését a 14/2024. (IV. 25.) NGM rendelet 3. § (2) bekezdése iktatta be.
-[^96]: A 7/A. § (4) bekezdése a 23/2025. (VIII. 13.) NGM rendelet 5. §-ával megállapított szöveg.
+[^98]: A 6a. alcímet (7/A–7/C. §) a 65/2016. (IX. 21.) FM rendelet 10. §-a iktatta be.
+[^99]: A 7/A. § (2) bekezdése a 14/2024. (IV. 25.) NGM rendelet 6. § a) pontja szerint módosított szöveg.
+[^100]: A 7/A. § (3) bekezdés nyitó szövegrésze a 14/2024. (IV. 25.) NGM rendelet 6. § b) pontja szerint módosított szöveg.
+[^101]: A 7/A. § (3) bekezdés a) pontja a 14/2024. (IV. 25.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^102]: A 7/A. § (3) bekezdés f) pontját a 14/2024. (IV. 25.) NGM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^103]: A 7/A. § (3a) bekezdését a 14/2024. (IV. 25.) NGM rendelet 3. § (2) bekezdése iktatta be.
+[^104]: A 7/A. § (4) bekezdése a 23/2025. (VIII. 13.) NGM rendelet 5. §-ával megállapított szöveg.
