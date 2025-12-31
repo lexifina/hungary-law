@@ -1,3 +1,3 @@
-3. § (1) A Vet. Vhr. 2. számú melléklete az 1. melléklet szerint módosul.
+3. §[^3]
 
-(2) A Vet. Vhr. 4. számú melléklete a 2. melléklet szerint módosul.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

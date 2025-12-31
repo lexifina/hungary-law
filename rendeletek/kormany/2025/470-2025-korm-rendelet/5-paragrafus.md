@@ -1,1 +1,3 @@
-5. § Hatályát veszti a Vet. Vhr. 2. számú melléklet 2. pont 2.4. alpont i) pontjában a „valamint” szövegrész.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
