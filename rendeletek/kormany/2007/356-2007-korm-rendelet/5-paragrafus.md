@@ -36,7 +36,7 @@ d) szívességi földhasználat,
 
 e) haszonbérlet,
 
-f) a Fétv. 65. §-a szerinti alhaszonbérlet (a továbbiakban: alhaszonbérlet),
+f)[^17] a Fétv. 65. §-a vagy 65/A. §-a szerinti alhaszonbérlet (a továbbiakban: alhaszonbérlet),
 
 g) felesbérlet,
 
@@ -54,6 +54,8 @@ m) közfoglalkoztatási célú hasznosítási szerződésen alapuló földhaszno
 
 n) a Nemzeti Földalapról szóló törvényben meghatározott megbízási szerződésen alapuló földhasznosítás.
 
+(1b)[^18] Az (1a) bekezdés f) pontja szerinti jogcím esetén az ingatlanügyi hatóság a földhasználati lap jegyzet rovatában feltünteti, hogy az alhaszonbérlet a Fétv. 65. §-án vagy a Fétv. 65/A. §-án alapul.
+
 (2) Az (1) bekezdésben foglaltakon túl a földhasználati lap II. része tartalmazza a földhasználó által használt valamennyi földterület összterületét területi mértékben (hektárban, tízezred pontossággal) és aranykoronában (két tizedes pontossággal) kifejezve.
 
 [^12]: A 4. § a 473/2013. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -61,3 +63,5 @@ n) a Nemzeti Földalapról szóló törvényben meghatározott megbízási szerz
 [^14]: Az 5. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^15]: Az 5. § (1a) bekezdését a 45/2016. (III. 10.) Korm. rendelet 3. §-a iktatta be.
 [^16]: Az 5. § (1a) bekezdés a) pontja a 473/2016. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (1a) bekezdés f) pontja a 420/2025. (XII. 23.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^18]: Az 5. § (1b) bekezdését a 420/2025. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

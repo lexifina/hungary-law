@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-356-20-
 | 2024-02-25 | 2007-356-20-22.35 | 31/2024. (II. 22.) Korm. rendelet |
 | 2024-08-11 | 2007-356-20-22.36 | 242/2024. (VIII. 8.) Korm. rendelet |
 | 2025-01-15 | 2007-356-20-22.37 | 481/2024. (XII. 31.) Korm. rendelet |
+| 2025-12-31 | 2007-356-20-22.39 | 420/2025. (XII. 23.) Korm. rendelet |

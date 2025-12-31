@@ -1,8 +1,8 @@
-13/A. §[^80] (1) A földhasználati nyilvántartásban szereplő olyan
+13/A. §[^88] (1) A földhasználati nyilvántartásban szereplő olyan
 
-a)[^81] természetes személy földhasználó esetén, akinek a természetes személyazonosító adatai hiányosak, vagy tévesen kerültek feltüntetésre, illetve személyi azonosítója vagy lakcíme hiányzik, vagy tévesen került feltüntetésre,
+a)[^89] természetes személy földhasználó esetén, akinek a természetes személyazonosító adatai hiányosak, vagy tévesen kerültek feltüntetésre, illetve személyi azonosítója vagy lakcíme hiányzik, vagy tévesen került feltüntetésre,
 
-b)[^82] gazdálkodó szervezet földhasználó esetén, amelynek a megnevezése, székhelye (telephelye, fióktelepe), a hivatalos statisztikáról szóló törvény szerinti statisztikai azonosítója, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében a cégjegyzékszáma hiányzik, vagy tévesen került feltüntetésre,
+b)[^90] gazdálkodó szervezet földhasználó esetén, amelynek a megnevezése, székhelye (telephelye, fióktelepe), a hivatalos statisztikáról szóló törvény szerinti statisztikai azonosítója, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében a cégjegyzékszáma hiányzik, vagy tévesen került feltüntetésre,
 
 a földhasználó adatainak kijavítása vagy kiegészítése céljából az ingatlanügyi hatóság összeveti a földhasználati lapon szereplő adatokat a személyiadat- és lakcímnyilvántartásban vagy a cégnyilvántartásban fellelhető adatokkal, illetve az okirattárban fellelhető okiratok adataival.
 
@@ -26,6 +26,6 @@ történő értesítés megküldésével bevonja az adategyeztetésbe.
 
 (4) Ha a (3) bekezdés szerinti adategyeztetés alapján a földhasználó egyértelműen beazonosítható, az ingatlanügyi hatóság a földhasználati lapon a hiányzó vagy tévesen feltüntetett adatot hivatalból pótolja vagy kijavítja.
 
-[^80]: A 13/A. §-t a 242/2024. (VIII. 8.) Korm. rendelet 2. §-a iktatta be.
-[^81]: A 13/A. § (1) bekezdés a) pontja a 481/2024. (XII. 31.) Korm. rendelet 20. § g) pontja szerint módosított szöveg.
-[^82]: A 13/A. § (1) bekezdés b) pontja a 481/2024. (XII. 31.) Korm. rendelet 20. § h) pontja szerint módosított szöveg.
+[^88]: A 13/A. §-t a 242/2024. (VIII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^89]: A 13/A. § (1) bekezdés a) pontja a 481/2024. (XII. 31.) Korm. rendelet 20. § g) pontja szerint módosított szöveg.
+[^90]: A 13/A. § (1) bekezdés b) pontja a 481/2024. (XII. 31.) Korm. rendelet 20. § h) pontja szerint módosított szöveg.

@@ -1,9 +1,9 @@
-## 22. §[^148] E rendeletnek a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosításáról szóló 54/2013. (II. 26.) Korm. rendelettel (a továbbiakban: Mr.2.)
+## 22. §[^157] E rendeletnek a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosításáról szóló 54/2013. (II. 26.) Korm. rendelettel (a továbbiakban: Mr.2.)
 
-a) megállapított rendelkezéseit az Mr.2. hatálybalépésekor[^149] folyamatban lévő, valamint a megismételt eljárásokban is alkalmazni kell,
+a) megállapított rendelkezéseit az Mr.2. hatálybalépésekor[^158] folyamatban lévő, valamint a megismételt eljárásokban is alkalmazni kell,
 
-b) hatályon kívül helyezett rendelkezései az Mr.2. hatálybalépésekor[^150] folyamatban lévő, valamint a megismételt eljárásokban nem alkalmazhatók.
+b) hatályon kívül helyezett rendelkezései az Mr.2. hatálybalépésekor[^159] folyamatban lévő, valamint a megismételt eljárásokban nem alkalmazhatók.
 
-[^148]: A 22. §-t az 54/2013. (II. 26.) Korm. rendelet 5. §-a iktatta be.
-[^149]: A hatálybalépés időpontja 2013. február 27.
-[^150]: A hatálybalépés időpontja 2013. február 27.
+[^157]: A 22. §-t az 54/2013. (II. 26.) Korm. rendelet 5. §-a iktatta be.
+[^158]: A hatálybalépés időpontja 2013. február 27.
+[^159]: A hatálybalépés időpontja 2013. február 27.

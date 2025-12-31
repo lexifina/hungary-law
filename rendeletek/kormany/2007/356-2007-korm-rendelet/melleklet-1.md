@@ -1,4 +1,4 @@
-1. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^158]
+1. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^167]
 
 A bejelentési adatlap tartalma
 
@@ -16,6 +16,8 @@ A bejelentési adatlap tartalma
 
 2.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
+2.6.[^168] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+
 3. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
 4. Ha a benyújtó nem saját nevében jár el, a földhasználó következő adatai:
@@ -31,6 +33,8 @@ A bejelentési adatlap tartalma
 4.1.4. lakcíme,
 
 4.1.5. értesítésének módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
+
+4.1.6.[^169] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 4.2. a gazdálkodó szervezet földhasználó
 
@@ -50,7 +54,7 @@ A bejelentési adatlap tartalma
 
 4.2.8. telefonszáma,
 
-4.2.9. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+4.2.9.[^170] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 5. A használt földterületekre vonatkozó következő adatok földrészletenkénti bontásban:
 
@@ -74,9 +78,9 @@ A bejelentési adatlap tartalma
 
 6. A használatba adó adatai (kivéve, ha nincs használatba adó, mert a földhasználó a tulajdonos vagy a tulajdonosi joggyakorló szervezet, illetve az ingatlan-nyilvántartásba bejegyzett haszonélvezet vagy vagyonkezelői jog fennállása esetén a haszonélvező vagy a vagyonkezelő):
 
-6.1. a természetes személy használatba adó természetes személyazonosító adatai, állampolgársága, lakcíme és értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása);
+6.1.[^171] a természetes személy használatba adó természetes személyazonosító adatai, állampolgársága, lakcíme és értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása), továbbá a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén az igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje;
 
-6.2. a gazdálkodó szervezet használatba adó honossága, nyilvántartó hatóság megnevezése, nyilvántartási száma, teljes és rövid megnevezése, székhelye (telephelye, fióktelepe), statisztikai azonosítója, adószáma és értesítés módja (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+6.2.[^172] a gazdálkodó szervezet használatba adó honossága, nyilvántartó hatóság típusa és megnevezése, nyilvántartási száma, teljes és rövid megnevezése, székhelye (telephelye, fióktelepe), statisztikai azonosítója, adószáma és értesítés módja (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 7. A benyújtó nyilatkozata arról, hogy
 
@@ -114,8 +118,17 @@ A bejelentési adatlap tartalma
 
 7.6.2. cég esetében az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
 
-8. A hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetében nyilatkozat arról, hogy a földhasználat a törvényben meghatározott korlátozásokat nem sérti.
+7.7.[^173] alhaszonbérlet jogcímén bejelentett földhasználat esetén a használati jog a Fétv. 65. §-án vagy a Fétv. 65/A. §-án alapul.
+
+8.[^174]
 
 9. A benyújtó aláírása és az aláírás dátuma.
 
-[^158]: Az 1. melléklet a 481/2024. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^167]: Az 1. melléklet a 481/2024. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^168]: Az 1. melléklet 2.6. pontját a 420/2025. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^169]: Az 1. melléklet 4. pont 4.1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^170]: Az 1. melléklet 4. pont 4.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 5. § i) pontja szerint módosított szöveg.
+[^171]: Az 1. melléklet 6. pont 6.1. alpontja a 420/2025. (XII. 23.) Korm. rendelet 5. § j) pontja szerint módosított szöveg.
+[^172]: Az 1. melléklet 6. pont 6.2. alpontja a 420/2025. (XII. 23.) Korm. rendelet 5. § i) és k) pontja szerint módosított szöveg.
+[^173]: Az 1. melléklet 7. pont 7.7. alpontját a 420/2025. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^174]: Az 1. melléklet 8. pontját a 420/2025. (XII. 23.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

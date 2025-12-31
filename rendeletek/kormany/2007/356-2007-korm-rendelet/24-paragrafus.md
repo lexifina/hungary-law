@@ -1,6 +1,6 @@
-## 23. §[^151] E rendeletnek a mezőgazdasági vagy erdészeti szakirányú képzettségekről szóló 504/2013. (XII. 29.) Korm. rendelettel (a továbbiakban: Mr.3.) megállapított rendelkezéseit az Mr.3. hatálybalépésekor[^152] folyamatban lévő, 2013. december 15-e után indított, valamint a megismételt eljárásokban is alkalmazni kell.
+## 23. §[^160] E rendeletnek a mezőgazdasági vagy erdészeti szakirányú képzettségekről szóló 504/2013. (XII. 29.) Korm. rendelettel (a továbbiakban: Mr.3.) megállapított rendelkezéseit az Mr.3. hatálybalépésekor[^161] folyamatban lévő, 2013. december 15-e után indított, valamint a megismételt eljárásokban is alkalmazni kell.
 
-24. §[^153] (1) E rendeletnek az egyes mezőgazdasági tárgyú kormányrendeletek módosításáról szóló 45/2016. (III. 10.) Korm. rendelettel (a továbbiakban: Mr.4.) megállapított
+24. §[^162] (1) E rendeletnek az egyes mezőgazdasági tárgyú kormányrendeletek módosításáról szóló 45/2016. (III. 10.) Korm. rendelettel (a továbbiakban: Mr.4.) megállapított
 
 a) 5. § (1a) bekezdését,
 
@@ -14,7 +14,7 @@ e) 14/A. §-át,
 
 f) 15/A. §-át
 
-az Mr.4. hatálybalépésekor[^154] folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
+az Mr.4. hatálybalépésekor[^163] folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
 
 (2) E rendeletnek az Mr.4. által megállapított
 
@@ -26,10 +26,10 @@ c) 14. § (5) bekezdését,
 
 d) 14/B. §-át
 
-az Mr.4. hatálybalépését[^155] követően indult eljárásokban kell alkalmazni.
+az Mr.4. hatálybalépését[^164] követően indult eljárásokban kell alkalmazni.
 
-[^151]: A 23. §-t az 504/2013. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^152]: A hatálybalépés napja: 2014. január 2.
-[^153]: A 24. §-t a 45/2016. (III. 10.) Korm. rendelet 15. §-a iktatta be.
-[^154]: A hatálybalépés időpontja 2016. március 11.
-[^155]: A hatálybalépés időpontja 2016. március 11.
+[^160]: A 23. §-t az 504/2013. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^161]: A hatálybalépés napja: 2014. január 2.
+[^162]: A 24. §-t a 45/2016. (III. 10.) Korm. rendelet 15. §-a iktatta be.
+[^163]: A hatálybalépés időpontja 2016. március 11.
+[^164]: A hatálybalépés időpontja 2016. március 11.

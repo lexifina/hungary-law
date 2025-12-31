@@ -1,4 +1,4 @@
-6. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^163]
+6. melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^203]
 
 A fölhasználati lap másolat kiadása iránti kérelem tartalma
 
@@ -13,6 +13,8 @@ A fölhasználati lap másolat kiadása iránti kérelem tartalma
 1.4. lakcíme,
 
 1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+
+1.6.[^204] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
@@ -30,13 +32,15 @@ A fölhasználati lap másolat kiadása iránti kérelem tartalma
 
 3.1.5. értesítés módja (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása),
 
+3.1.6.[^205] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+
 3.2. gazdálkodó szervezet kérelmező
 
 3.2.1. teljes és rövidített megnevezése,
 
 3.2.2. honossága,
 
-3.2.3. nyilvántartó hatóság megnevezése,
+3.2.3.[^206] nyilvántartó hatóság típusa és megnevezése,
 
 3.2.4. nyilvántartási száma,
 
@@ -48,7 +52,7 @@ A fölhasználati lap másolat kiadása iránti kérelem tartalma
 
 3.2.8. telefonszáma,
 
-3.2.9. értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+3.2.9.[^207] értesítési adatok (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 4. A kérelmező jogállása: a kérelmező a kérelmet, mint földhasználó a saját földhasználati lapja másolatának kiadása iránt nyújtotta-e be.
 
@@ -106,4 +110,8 @@ A fölhasználati lap másolat kiadása iránti kérelem tartalma
 
 13. A benyújtó aláírása és az aláírás dátuma.
 
-[^163]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^203]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 481/2024. (XII. 31.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
+[^204]: A 6. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^205]: A 6. melléklet 3. pont 3.1.6. pontját a 420/2025. (XII. 23.) Korm. rendelet 4. § (6) bekezdése iktatta be.
+[^206]: A 6. melléklet 3. pont 3.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 5. § k) pontja szerint módosított szöveg.
+[^207]: A 6. melléklet 3. pont 3.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 5. § i) pontja szerint módosított szöveg.
