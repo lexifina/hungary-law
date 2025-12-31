@@ -1,4 +1,4 @@
-1. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^90]
+1. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^91]
 
 Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 
@@ -14,6 +14,8 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 
 1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
+1.6.[^92] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+
 2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
 
 3. Természetes személy kérelmező:
@@ -27,6 +29,8 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 3.4. lakóhelye,
 
 3.5. értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+
+3.6.[^93] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
 
 4. Nyilatkozat a nyilvántartásba vétel jogalapjáról:
 
@@ -46,7 +50,7 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 
 6. A 4.2–4.5. pontok szerinti jogalap esetében nyilatkozat arról, hogy a kérelmező megfelel a Földforgalmi tv. 5. § 7. pont a) vagy b) alpontjában foglalt feltételeknek.
 
-7.[^91] Őstermelő esetében a FELIR azonosító.
+7.[^94] Őstermelő esetében a FELIR azonosító.
 
 8. A 4.5. pont szerinti jogalap esetében a mezőgazdasági termelőszervezet:
 
@@ -68,7 +72,7 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 
 9.4. azonos-e a kérelmező lakóhelyével,
 
-9.5. tanyának minősül-e.
+9.5.[^95] a Földforgalmi tv.-ben meghatározott olyan tanyának minősül-e, amelyen a használati jogosultság a tanya egészére terjed ki.
 
 10. A benyújtó nyilatkozata arról, hogy
 
@@ -78,5 +82,8 @@ Földművesként való nyilvántartásba vétel iránti kérelem adattartalma
 
 11. A kérelmet benyújtó aláírása és az aláírás dátuma
 
-[^90]: Az 1. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
-[^91]: Az 1. melléklet 7. pontja a 188/2025. (VII. 3.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^91]: Az 1. melléklet a 481/2024. (XII. 31.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
+[^92]: Az 1. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^93]: Az 1. melléklet 3. pont 3.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^94]: Az 1. melléklet 7. pontja a 188/2025. (VII. 3.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^95]: Az 1. melléklet 9. pont 9.5. alpontja a 420/2025. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

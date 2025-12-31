@@ -8,6 +8,7 @@ ba) nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Té
 
 bb) nem különválással, kiválással, szervezeti formaváltással, egyéb jogutódlás folytán keletkezett.
 
-(2) Az állam, önkormányzat vagy költségvetési szerv 100%-os tulajdonában álló szervezet esetében a 6. § (1) bekezdés b) pontjában foglaltak helyett az okirat papír alapú vagy elektronikus másolatának csatolásával igazolni kell, hogy az adott szervezet az állam, az önkormányzat, illetve a költségvetési szerv 100%-os tulajdonában áll, ezért a Földforgalmi tv. 5. § 26. pont c) pontja szerinti feltételt nem kell vizsgálni. A 6. § (1) bekezdés c) pontja szerinti igazolással a szervezet valamely vezető tisztségviselőjének vagy a cégvezetőjének kell rendelkeznie.
+(2)[^26] Az állam, önkormányzat vagy költségvetési szerv 100%-os tulajdonában álló szervezet esetében a 6. § (1) bekezdés b) pontjában foglaltak helyett az okirat papír alapú vagy elektronikus másolatának csatolásával igazolni kell, hogy az adott szervezet az állam, az önkormányzat, illetve a költségvetési szerv 100%-os tulajdonában áll, ezért a Földforgalmi tv. 5. § 26. pont c) pontja szerinti feltételt nem kell vizsgálni.
 
 [^25]: A 7. § a 481/2024. (XII. 31.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^26]: A 7. § (2) bekezdése a 420/2025. (XII. 23.) Korm. rendelet 10. §-a szerint módosított szöveg.

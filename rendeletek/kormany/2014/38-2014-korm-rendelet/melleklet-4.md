@@ -1,4 +1,4 @@
-4. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^94]
+4. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^115]
 
 Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
@@ -14,7 +14,15 @@ Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
 1.5. értesítési adatok (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
+1.6.[^116] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+
 2. Annak jelölése, hogy a benyújtó saját nevében, meghatalmazással vagy törvényes képviselőként jár el, és amennyiben nem saját nevében jár el, a törvényes képviselet formájának megadása vagy nyilatkozat arról, hogy rendelkezik meghatalmazással a kérelmezőtől, és rendelkezik hozzájárulással a képviselt adatainak megismeréséhez.
+
+2.1.[^117] Amennyiben a törlést kérelmező nem azonos a kérelmet benyújtó személlyel és a nyilvántartásból törölni kért földművessel vagy mezőgazdasági termelőszervezettel,
+
+2.1.1. a természetes személy kérelmező 5.1.1–5.1.6. pont szerinti adatai,
+
+2.1.2. a jogi személy vagy jogi személyiséggel nem rendelkező szervezet kérelmező 5.2.1–5.2.9. pont szerinti adatai.
 
 3. Annak jelölése, hogy a kérelmező
 
@@ -24,7 +32,7 @@ Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
 4. A 3.1. pont esetében nyilatkozat arról, miszerint a kérelmező tudomásul veszi, hogy törlés esetén a továbbiakban nem minősül földművesnek, mezőgazdasági termelőszervezetnek vagy újonnan alapított mezőgazdasági termelőszervezetnek.
 
-5. A nyilvántartásból törölni kért földműves vagy mezőgazdasági termelőszervezet következő adatai:
+5.[^118] A nyilvántartásból törölni kért földműves vagy mezőgazdasági termelőszervezet következő adatai (ha nem azonos a kérelmezővel):
 
 5.1. A földműves
 
@@ -38,13 +46,15 @@ Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
 5.1.5. értesítési adatai (megegyezik a lakcímmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
 
+5.1.6.[^119] – a személyiadat- és lakcímnyilvántartásban nem szereplő természetes személy esetén – igazoló okmányának típusa, sorszáma, a kiállító ország, a kiállító hatóság neve és az okmány érvényességi ideje.
+
 5.2. A mezőgazdasági termelőszervezet/újonnan alapított mezőgazdasági termelőszervezet
 
 5.2.1. teljes és rövidített megnevezése,
 
 5.2.2. honossága,
 
-5.2.3. nyilvántartó hatóság megnevezése,
+5.2.3.[^120] nyilvántartó hatóság típusa és megnevezése,
 
 5.2.4. nyilvántartási száma,
 
@@ -56,7 +66,7 @@ Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
 5.2.8. telefonszáma,
 
-5.2.9. értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím vagy kézbesítési megbízott megadása).
+5.2.9.[^121] értesítési adatai (megegyezik a székhely címmel, vagy értesítési cím, kézbesítési megbízott, Cégkapu vagy Hivatali kapu megadása).
 
 6. A benyújtó nyilatkozata arról, hogy
 
@@ -66,4 +76,10 @@ Nyilvántartásból történő törlésre irányuló bejelentés adattartalma
 
 7. Kérelmet benyújtó aláírása és az aláírás dátuma.
 
-[^94]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (4) bekezdése iktatta be.
+[^115]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte, újonnan a 481/2024. (XII. 31.) Korm. rendelet 51. § (4) bekezdése iktatta be.
+[^116]: A 4. melléklet 1. pont 1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^117]: A 4. melléklet 2. pont 2.1. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^118]: A 4. melléklet 5. pontja a 420/2025. (XII. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^119]: A 4. melléklet 5. pont 5.1.6. alpontját a 420/2025. (XII. 23.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^120]: A 4. melléklet 5. pont 5.2.3. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^121]: A 4. melléklet 5. pont 5.2.9. alpontja a 420/2025. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

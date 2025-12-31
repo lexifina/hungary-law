@@ -1,6 +1,6 @@
-## 22. §[^82] A nyilvántartás adataihoz – a Központi Statisztikai Hivatal a feladatai ellátása érdekében, statisztikai célra, valamint az állami adóhatóság feladatai ellátása érdekében – egyedi azonosításra alkalmas módon jogosult hozzáférni.
+## 22. §[^83] A nyilvántartás adataihoz – a Központi Statisztikai Hivatal a feladatai ellátása érdekében, statisztikai célra, valamint az állami adóhatóság feladatai ellátása érdekében – egyedi azonosításra alkalmas módon jogosult hozzáférni.
 
-22/A. §[^83] (1)[^84] A földmérési és térinformatikai államigazgatási szerv – egyedi megállapodás alapján – a földműves nyilvántartás adatbázisából adatfeldolgozási tevékenységet igénylő esetekben
+22/A. §[^84] (1)[^85] A földmérési és térinformatikai államigazgatási szerv – egyedi megállapodás alapján – a földműves nyilvántartás adatbázisából adatfeldolgozási tevékenységet igénylő esetekben
 
 a) országos statisztikai célú adatgyűjtéshez,
 
@@ -12,11 +12,11 @@ adatleválogatást és elektronikusan feldolgozható formában adattovábbítás
 
 (2) Az (1) bekezdés a) és c) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
 
-(3)[^85] Az (1) bekezdésben meghatározott adatleválogatás az adatszolgáltatás iránti igény célhoz kötöttségétől függően legfeljebb az adatlap másolaton megjeleníthető adatokat tartalmazhatja. Az adatleválogatás eredménye nem tartalmazhatja a természetes személy földműves személyi azonosítóját, illetve a mezőgazdasági termelőszervezet cégjegyzékszámát és adószámát.
+(3)[^86] Az (1) bekezdésben meghatározott adatleválogatás az adatszolgáltatás iránti igény célhoz kötöttségétől függően legfeljebb az adatlap másolaton megjeleníthető adatokat tartalmazhatja. Az adatleválogatás eredménye nem tartalmazhatja a természetes személy földműves személyi azonosítóját, illetve a mezőgazdasági termelőszervezet cégjegyzékszámát és adószámát.
 
 (4) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az adatleválogatás adattartalmát, az átadásra kerülő adattartalom formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
-[^82]: A 22. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (14) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^83]: A 22/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (6) bekezdése iktatta be.
-[^84]: A 22/A. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 266. § (2) bekezdése szerint módosított szöveg.
-[^85]: A 22/A. § (3) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^83]: A 22. § a 457/2017. (XII. 28.) Korm. rendelet 487. § (14) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^84]: A 22/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (6) bekezdése iktatta be.
+[^85]: A 22/A. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 266. § (2) bekezdése szerint módosított szöveg.
+[^86]: A 22/A. § (3) bekezdése a 481/2024. (XII. 31.) Korm. rendelet 49. §-ával megállapított szöveg.
