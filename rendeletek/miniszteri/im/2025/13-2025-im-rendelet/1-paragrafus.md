@@ -1,0 +1,7 @@
+## [1] Figyelemmel a jogorvoslathoz való jog teljes körű érvényesülésére, illetve arra, hogy a közigazgatási perekben a megelőző hatósági eljárás során a releváns tényállás és adatok jelentős része már tisztázott, továbbá az eljárásban érintett alperes közigazgatási szerv szakmai jogalkalmazóként közreműködik, szükséges a keresetlevél és egyéb bírósági beadványok tartalmának és benyújtási módjának egyszerűsítése, különösen a jogi képviselő nélkül eljáró természetes személy felek számára. Ennek érdekében biztosított, hogy a keresetlevél ne tartalmazzon felesleges, a támadott közigazgatási döntésből vagy annak irataiból megállapítható adatokat. Emellett lehetővé válik a kereset benyújtása formanyomtatvány használatával, elősegítve ezáltal az állampolgárok könnyebb joggyakorlását és az eljárások gyorsabb lefolytatását.
+
+## [2] E célok végrehajtására a polgári perrendtartásról szóló 2016. évi CXXX. törvény 628. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+1. § A polgári perben és a közigazgatási bírósági eljárásban alkalmazható nyomtatványokról szóló 17/2020. (XII. 23.) IM rendelet 6. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a természetes személy fél a közigazgatási perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el, az egyedi döntéssel szemben a 22. mellékletben meghatározott nyomtatványon is előterjesztheti a keresetlevelet.”
