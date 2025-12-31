@@ -8,9 +8,9 @@ c)[^3] beszállítói hitelek, külföldön megvalósuló befektetési hitelek (
 
 d)[^4] belföldi és külföldi pénzügyi intézményeknek nyújtott egyéb export célú hitelek (a továbbiakban: egyéb export célú refinanszírozási hitel),
 
-e)[^5] nemzetközi versenyképességet javító befektetésekre, beruházásokra, forgóeszközigényekre nyújtott hitelek (a továbbiakban: versenyképességet javító hitel),
+e)[^5] a belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseihez, beruházásaihoz, forgóeszközigényeihez nyújtott hitelek (a továbbiakban: belföldi célú hitel),
 
-f)[^6] belföldi pénzügyi intézményeknek nyújtott versenyképességet javító hitelek (a továbbiakban: versenyképességet javító refinanszírozási hitel),
+f)[^6] belföldi pénzügyi intézményeknek nyújtott belföldi célú hitelek (a továbbiakban: belföldi célú refinanszírozási hitel),
 
 g)[^7] belföldi és külföldi pénzügyi intézmények által a Hpt. 6. § (1) bekezdés 60. pontja alapján végzett, külkereskedelmi szerződésből eredő exportkövetelések megvásárlásához nyújtott hitelek (a továbbiakban: exportkövetelések megvásárlásához nyújtott refinanszírozási hitel),
 
@@ -40,9 +40,9 @@ l)[^12] az a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb 
 
 (5a)[^20]
 
-(6)[^21] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+(6)[^21] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel, export előfinanszírozási hitellel vagy belföldi célú hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, export előfinanszírozási hitel vagy belföldi célú hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
 
-(7)[^22] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel, egyéb export célú hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
+(7)[^22] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel, export előfinanszírozási hitel vagy belföldi célú hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel, egyéb export célú hitellel, export előfinanszírozási hitellel vagy belföldi célú hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
 
 (8)[^23] Az Eximbank az (1a) bekezdésben meghatározott követelésvásárlási tevékenysége kapcsán akkor számolhat el a központi költségvetéssel, ha az megfelel a 6. §-ban meghatározott feltételeknek.
 
@@ -50,8 +50,8 @@ l)[^12] az a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb 
 [^2]: Az 1. § (1) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontja a 75/2017. (IV. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés d) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (1) bekezdés e) pontja a 327/2014. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (1) bekezdés f) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (7) bekezdés a) pontja, a 75/2017. (IV. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés e) pontja a 462/2025. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés f) pontja a 462/2025. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: Az 1. § (1) bekezdés g) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^8]: Az 1. § (1) bekezdés h) pontját a 75/2017. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (1) bekezdés i) pontját a 75/2017. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
@@ -66,6 +66,6 @@ l)[^12] az a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb 
 [^18]: Az 1. § (4) bekezdését a 645/2023. (XII. 28.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^19]: Az 1. § (5) bekezdése az 53/2020. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^20]: Az 1. § (5a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte az 53/2020. (III. 20.) Korm. rendelet 3. § a) pontja.
-[^21]: Az 1. § (6) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § c)–d) pontja szerint módosított szöveg.
-[^22]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § d)–e) pontja szerint módosított szöveg.
+[^21]: Az 1. § (6) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § c) és d) pontja, a 462/2025. (XII. 30.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
+[^22]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § d) és e) pontja, a 462/2025. (XII. 30.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
 [^23]: Az 1. § (8) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.
