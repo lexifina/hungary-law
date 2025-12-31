@@ -1,4 +1,4 @@
-## 174. §[^682] A Módr. hatálybalépését[^683] megelőző napon hatályos rendelkezések szerint illetékes szakszolgálat és a fővárosi területi gyermekvédelmi szakszolgálat együttesen, legkésőbb a Módr. hatálybalépését követő harmincadik napon kezdeményezik a menekült státuszt kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak, valamint a menekültként elismert, nevelésbe vett gyermekek gyermekvédelmi gyámjának felmentését és a fővárosi területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyám kirendelését.
+## 174. §[^688] A Módr. hatálybalépését[^689] megelőző napon hatályos rendelkezések szerint illetékes szakszolgálat és a fővárosi területi gyermekvédelmi szakszolgálat együttesen, legkésőbb a Módr. hatálybalépését követő harmincadik napon kezdeményezik a menekült státuszt kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak, valamint a menekültként elismert, nevelésbe vett gyermekek gyermekvédelmi gyámjának felmentését és a fővárosi területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyám kirendelését.
 
-[^682]: A 174. §-t a 46/2015. (X. 12.) EMMI rendelet 5. §-a iktatta be.
-[^683]: A hatálybalépés időpontja 2015. október 15.
+[^688]: A 174. §-t a 46/2015. (X. 12.) EMMI rendelet 5. §-a iktatta be.
+[^689]: A hatálybalépés időpontja 2015. október 15.
