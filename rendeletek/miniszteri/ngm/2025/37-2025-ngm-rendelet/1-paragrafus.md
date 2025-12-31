@@ -8,6 +8,6 @@
 
 ## [5] A tőkepiacról szóló 2001. évi CXX. törvény 451. § (2) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. §[^1]
+1. § A nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség részletes szabályairól szóló 24/2008. (VIII. 15.) PM rendelet [a továbbiakban: 24/2008. (VIII. 15.) PM rendelet] 9. §-a a következő f) ponttal egészül ki:
 
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2025. december 31-én lép hatályba.
+(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
