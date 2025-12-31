@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 8. § (2) bekezdése alapján 2025. december 31-én lép hatályba.
+6. § Nem lép hatályba az R2. 31. § (4) bekezdése és 1. melléklet 2.3.5. pontja.
