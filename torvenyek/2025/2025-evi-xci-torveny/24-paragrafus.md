@@ -1,1 +1,1 @@
-### 24. §
+24. § A 2–4. §, a 8. §, a 12. § és a 14. § a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelvnek való megfelelést szolgálja.
