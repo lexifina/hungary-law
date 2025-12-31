@@ -4,4 +4,6 @@
 
 ## [3] A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (4) bekezdés d) pont dp) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 11. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben – a következőket rendelem el:
 
-1. § A munkavállalók munkahelyen történő egyéni védőeszköz használatának minimális biztonsági és egészségvédelmi követelményeiről szóló 65/1999. (XII. 22.) EüM rendelet 2. § (2) bekezdés c) pontjában a „Honvédség” szövegrész helyébe a „Honvédség, a polgári nemzetbiztonsági szolgálatok” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
