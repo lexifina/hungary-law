@@ -1,0 +1,30 @@
+# A nemzetgazdasági miniszter 68/2025. (XII. 31.) NGM rendelete
+
+Magyar Közlöny 2025. évi 162. szám, 2025. december 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Dj92rQAQSf9ytLVELm0R6952b9f28e4a2/dokumentumok/b809478edfbe72641f8a2f1234653a031b5d7706/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 68/2025. (XII. 31.) NGM rendelete
+az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 13/2020. (XII. 23.) PM rendelet
+módosításáról
+[1] A polgári nemzetbiztonsági szolgálatok jogállásával összefüggő törvények módosításáról szóló 2024. évi LXXII. törvény
+a nemzetbiztonsági szolgálatoknak egy önálló szervi jogállást teremtett a központi államigazgatási szervekről, valamint
+a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosításával. A módosítással a polgári
+nemzetbiztonsági szolgálatok kikerültek a rendvédelmi szervek közül és önálló, a nemzetbiztonsági szolgálatok csoportba
+kerültek a központi államigazgatási szervek között.
+[2] A rendelet célja az új szervi jogállás bevezetésével összefüggésben szükséges, a nemzetgazdasági miniszter hatáskörébe
+tartozó miniszteri szintű jogszabály módosítása, ennek keretében a polgári nemzetbiztonsági szolgálat önálló szervi
+jogállás bevezetése.
+[3] Az adózás rendjéről szóló 2017. évi CL. törvény 269. § (10) bekezdésében kapott felhatalmazás alapján, a Kormány
+tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 21. pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+
+1. §
+Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 13/2020. (XII. 23.) PM rendelet 4. §
+a) pontjában a „Katonai Nemzetbiztonsági Szolgálat, továbbá a központi államigazgatási szervekről, valamint
+a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szerv” szövegrész helyébe
+a„rendvédelmi szerv, a nemzetbiztonsági szolgálat”szöveg lép.
+2. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Nagy Márton István s. k.,
+ nemzetgazdasági miniszter
