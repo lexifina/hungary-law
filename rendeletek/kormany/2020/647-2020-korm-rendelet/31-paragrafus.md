@@ -6,35 +6,35 @@
 
 a) a kezdeményező tulajdonostárs arra vonatkozó nyilatkozatát, hogy a tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának megszerzésére a Foktftv. 17. § (1) bekezdése alapján jogosult;
 
-b)[^25] az értékbecslési ajánlat szerinti értéket a földrészlet egésze vonatkozásában, továbbá a kezdeményező tulajdonostárs által ajánlott ellenértéknek a földrészlet egészére számított összegét;
+b)[^47] az értékbecslési ajánlat szerinti értéket a földrészlet egésze vonatkozásában, továbbá a kezdeményező tulajdonostárs által ajánlott ellenértéknek a földrészlet egészére számított összegét;
 
 c) az arra vonatkozó figyelemfelhívást, hogy amennyiben az értesített tulajdonostárs a részére ajánlott ellenértékkel nem ért egyet, úgy értékbecslési szakvéleményt készíttethet;
 
 d) arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs 30 napon belül adja meg a kezdeményező tulajdonostárs számára az ellenérték megfizetésére vonatkozó teljesítéssel kapcsolatos feltételeit;
 
-e)[^26] arra vonatkozó figyelemfelhívást, hogy ha az ingatlanon az értesített tulajdonostárs tulajdonában álló, a földtől elválaszthatatlan vagyontárgy található, az értesített tulajdonostársnak nyilatkoznia kell annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében;
+e)[^48] arra vonatkozó figyelemfelhívást, hogy ha az ingatlanon az értesített tulajdonostárs tulajdonában álló, a földtől elválaszthatatlan vagyontárgy található, az értesített tulajdonostársnak nyilatkoznia kell annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében;
 
-f)[^27] arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs 30 napon belül nyilatkozhat az ingatlant érintő bekebelezési szándékáról a 32. § (2) bekezdésében foglaltak szerinti ellenérték megjelölésével, ha a tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának megszerzésére a Foktftv. 17. § (1) bekezdése alapján jogosult;
+f)[^49] arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs 30 napon belül nyilatkozhat az ingatlant érintő bekebelezési szándékáról a 32. § (2) bekezdésében foglaltak szerinti ellenérték megjelölésével, ha a tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának megszerzésére a Foktftv. 17. § (1) bekezdése alapján jogosult;
 
-g)[^28] arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs a 31/A. §-ban foglalt esetekben 30 napon belül teljes bizonyító erejű magánokiratban nyilatkozhat arról, hogy nem ért egyet az ingatlan egyetlen tulajdonostárs általi tulajdonba vételével;
+g)[^50] arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs a 31/A. §-ban foglalt esetekben 30 napon belül teljes bizonyító erejű magánokiratban nyilatkozhat arról, hogy nem ért egyet az ingatlan egyetlen tulajdonostárs általi tulajdonba vételével;
 
-h)[^29] a kezdeményező tulajdonostárs nyilatkozatát arra vonatkozóan, hogy ha a Foktftv. 16. § (3) bekezdése alapján a földrészlet más tulajdonostárs által kerül bekebelezésre,
+h)[^51] a kezdeményező tulajdonostárs nyilatkozatát arra vonatkozóan, hogy ha a Foktftv. 16. § (3) bekezdése alapján a földrészlet más tulajdonostárs által kerül bekebelezésre,
 
 ha) és a földrészleten a tulajdonában álló és a földtől elválaszthatatlan vagyontárgy található, nyilatkozik annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében, továbbá
 
 hb) megjelöli az ellenérték megfizetésére vonatkozó teljesítéssel kapcsolatos feltételeit;
 
-i)[^30] a kezdeményező tulajdontárs nyilatkozatát, amelyben vállalja, hogy ha a földrészlet más tulajdonostárs által kerül bekebelezésre, az eljárás kezdeményezésére vonatkozó valamennyi okiratot – különösen a többi tulajdonostárs igazolt értesítését és a többi tulajdonostárs által adott visszajelzést, valamint ha készült ilyen, akkor az értékbecslési szakvéleményt – a földrészletet ténylegesen bekebelezni jogosult tulajdonostárs, illetve a 32. § (7) bekezdése szerinti ellenajánlatot tevő tulajdonostárs részére átadja.
+i)[^52] a kezdeményező tulajdontárs nyilatkozatát, amelyben vállalja, hogy ha a földrészlet más tulajdonostárs által kerül bekebelezésre, az eljárás kezdeményezésére vonatkozó valamennyi okiratot – különösen a többi tulajdonostárs igazolt értesítését és a többi tulajdonostárs által adott visszajelzést, valamint ha készült ilyen, akkor az értékbecslési szakvéleményt – a földrészletet ténylegesen bekebelezni jogosult tulajdonostárs, illetve a 32. § (7) bekezdése szerinti ellenajánlatot tevő tulajdonostárs részére átadja.
 
-(3)[^31]
+(3)[^53]
 
-(4)[^32]
+(4)[^54]
 
-[^25]: A 31. § (2) bekezdés b) pontja a 454/2021. (VII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^26]: A 31. § (2) bekezdés e) pontja a 454/2021. (VII. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^27]: A 31. § (2) bekezdés f) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^28]: A 31. § (2) bekezdés g) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^29]: A 31. § (2) bekezdés h) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^30]: A 31. § (2) bekezdés i) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^31]: A 31. § (3) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
-[^32]: A 31. § (4) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^47]: A 31. § (2) bekezdés b) pontja a 454/2021. (VII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^48]: A 31. § (2) bekezdés e) pontja a 454/2021. (VII. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^49]: A 31. § (2) bekezdés f) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^50]: A 31. § (2) bekezdés g) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^51]: A 31. § (2) bekezdés h) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^52]: A 31. § (2) bekezdés i) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^53]: A 31. § (3) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^54]: A 31. § (4) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.

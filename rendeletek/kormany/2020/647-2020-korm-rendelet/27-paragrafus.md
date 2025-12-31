@@ -10,4 +10,6 @@ d) ha az osztóprogram által létrehozott térképvázlat és területkimutatá
 
 e) ha a beadványnak pótolható hiányossága van, és a hiánypótlást a kérelmező az ingatlanügyi hatóság által megadott határidő lejártáig nem teljesíti.
 
-(2) Az ingatlanügyi hatóság a visszautasításról, az eljárás megszüntetéséről, illetve az elutasításról szóló döntésében felhívja a figyelmet arra, hogy a törléstől számított 30 napon belül ugyanazon ingatlanra ismételt tényfeljegyzési kérelem nem nyújtható be. Az ingatlanügyi hatóság a törléssel egyidejűleg gondoskodik az ügyazonosító érvénytelenítéséről, valamint megkeresi a működtető szervezetet a 10. § (5) bekezdése szerinti elektronikus tájékoztató levétele érdekében.
+(2)[^46] Az ingatlanügyi hatóság a visszautasításról, az eljárás megszüntetéséről, illetve az elutasításról szóló döntésében felhívja a figyelmet arra, hogy a törléstől számított 30 napon belül ugyanazon ingatlanra ismételt ténybejegyzési kérelem nem nyújtható be. Az ingatlanügyi hatóság a törléssel egyidejűleg gondoskodik az ügyazonosító érvénytelenítéséről, valamint megkeresi a működtető szervezetet a 10. § (5) bekezdése szerinti elektronikus tájékoztató levétele érdekében.
+
+[^46]: A 27. § (2) bekezdése a 420/2025. (XII. 23.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.

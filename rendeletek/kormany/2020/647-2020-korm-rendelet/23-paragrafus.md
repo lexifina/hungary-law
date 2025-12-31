@@ -6,6 +6,6 @@
 
 (4) Belterületen a településrendezési eszközökkel összhangban lévő utat kell kialakítani.
 
-(5)[^21] A Foktftv. 10. § (2) bekezdése szerinti szolgalmi jog alapításáról az egyezségben csak a megosztás eredményeként létrejövő azon új ingatlan esetében kell rendelkezni, amely nincs összekötve közúttal.
+(5)[^41] A Foktftv. 10. § (2) bekezdése szerinti szolgalmi jog alapításáról az egyezségben csak a megosztás eredményeként létrejövő azon új ingatlan esetében kell rendelkezni, amely nincs összekötve közúttal.
 
-[^21]: A 23. § (5) bekezdését a 170/2023. (V. 12.) Korm. rendelet 43. §-a iktatta be.
+[^41]: A 23. § (5) bekezdését a 170/2023. (V. 12.) Korm. rendelet 43. §-a iktatta be.

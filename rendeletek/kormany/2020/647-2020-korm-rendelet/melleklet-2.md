@@ -12,7 +12,7 @@
 
 ## 1.5. ha a kérelmező képviseletében más személy jár el, a képviselő neve/megnevezése, lakcíme/székhelye, jogi képviselő esetén kamarai azonosítója és elérhetősége;
 
-## 1.6. a kérelmező vagy a képviseletében eljáró személy kormányzati ügyfélkapujához tartozó felhasználóneve és a hozzátartozó elektronikus levelezési címe;
+## 1.6.[^77] a kérelmező vagy a képviseletében eljáró személy kormányzati központi ügyfélazonosító rendszeréhez tartozó felhasználóneve és a hozzátartozó elektronikus levelezési címe;
 
 ## 1.7. a kérelemhez kapcsolódó ingatlan-nyilvántartási iktatószám (ha ismert);
 
@@ -54,12 +54,15 @@ A Foktftv. 4. § (4) bekezdése szerinti hirdetmény adattartalma
 
 3. Képviselet esetén a kérelmező tulajdonostárs képviselőjének neve és lakcíme.
 
-4. A folyamatban lévő megosztás tényének feljegyzése és egyben a hirdetmény közzétételének időpontja.
+4.[^78] A folyamatban lévő megosztás tényének bejegyzése és egyben a hirdetmény közzétételének időpontja.
 
-5. Figyelemfelhívás arra, hogy a folyamatban lévő megosztás tényének feljegyzését követően öröklés miatt bekövetkezett tulajdonváltozás és kisajátítás kivételével a tulajdoni lapon és a térképi állományon más változás nem vezethető át; a tény feljegyzését követően benyújtott egyéb kérelmeket vagy megkereséseket az ingatlanügyi hatóság függőben tartja a megosztás tényének törléséig.
+5.[^79] Figyelemfelhívás arra, hogy a folyamatban lévő megosztás tényének bejegyzését követően öröklés miatt bekövetkezett tulajdonváltozás és kisajátítás kivételével a tulajdoni lapon és a térképi állományon más változás nem vezethető át; a tény bejegyzését követően benyújtott egyéb kérelmeket vagy megkereséseket az ingatlanügyi hatóság függőben tartja a megosztás tényének törléséig.
 
-6.[^55] Figyelemfelhívás arra, hogy a tényfeljegyzést követő 120 napon belül az ingatlan megosztásának átvezetésére irányuló kérelem benyújtása szükséges, ellenkező esetben a tényfeljegyzés hivatalból törlésre kerül, és a törléstől számított 30 napon belül az adott ingatlant érintően ismételten kérelem nem terjeszthető elő.
+6.[^80] Figyelemfelhívás arra, hogy a ténybejegyzést követő 120 napon belül az ingatlan megosztásának átvezetésére irányuló kérelem benyújtása szükséges, ellenkező esetben a ténybejegyzés hivatalból törlésre kerül, és a törléstől számított 30 napon belül az adott ingatlant érintően ismételten kérelem nem terjeszthető elő.
 
 7. Figyelemfelhívás, hogy a hirdetmény nem minősül a megosztási folyamat megkezdéséről szóló, a Foktftv. 5. § (1) bekezdése szerinti értesítésnek, az nem helyettesíti a tulajdonostársaknak az eljárást kezdeményező tulajdonostárs általi értesítését. A hirdetmény közzétételének célja, hogy lehetőség szerint minden tulajdonostárs részt vegyen a Foktftv. 6. § szerinti egyezség létrehozásában. Az a tulajdonos, akinek az értesítésére a Foktftv. 5. §-ában foglaltak ellenére nem került sor, az egyezség kialakításában részt vehet, ehhez szükséges felvennie a kapcsolatot a kérelmező tulajdonostárssal vagy képviselőjével.
 
-[^55]: A 2. melléklet 6. pontja 170/2023. (V. 12.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^77]: Az 1. melléklet 1. pont 1.6. alpontja a 420/2025. (XII. 23.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
+[^78]: A 2. melléklet 4. pontja a 420/2025. (XII. 23.) Korm. rendelet 22. § 9. pontja szerint módosított szöveg.
+[^79]: A 2. melléklet 5. pontja a 420/2025. (XII. 23.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^80]: A 2. melléklet 6. pontja 170/2023. (V. 12.) Korm. rendelet 47. § c) pontja, a 420/2025. (XII. 23.) Korm. rendelet 22. § 7. és 17. pontja szerint módosított szöveg.

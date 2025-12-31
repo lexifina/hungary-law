@@ -1,1 +1,5 @@
 ## 34. § Ha nem a tulajdonba vételt kezdeményező tulajdonostárs szerezheti meg a földrészlet tulajdonjogát, a kezdeményező tulajdonostárs köteles az egyetlen tulajdonostárs általi tulajdonba vétel kezdeményezésére vonatkozó valamennyi okiratot – különösen a többi tulajdonostárs igazolt értesítését és a többi tulajdonostárs által adott visszajelzést, valamint ha készült ilyen, akkor az értékbecslési szakvéleményt – a bekebelező részére átadni.
+
+35. §[^70] A bekebelezésről értesíteni kell a földrészletre bejegyzett egyéb jogok és tények jogosultjait, és ha a bekebelezendő tulajdoni hányadra az ingatlan-nyilvántartásba olyan jog vagy tény van bejegyezve, amely szükségessé teszi a tulajdonjog átruházásához a jogosult vagy valamely hatóság hozzájárulását, az elidegenítési tilalom kivételével, a bekebelező tulajdonostárs köteles a hozzájárulást a tulajdonszerzést megelőzően beszerezni.
+
+[^70]: A 35. § a 454/2021. (VII. 30.) Korm. rendelet 18. §-ával megállapított, a 420/2025. (XII. 23.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
