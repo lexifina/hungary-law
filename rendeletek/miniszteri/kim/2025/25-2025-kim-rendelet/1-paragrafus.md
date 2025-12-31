@@ -4,6 +4,6 @@
 
 ## 1. A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet módosítása
 
-1. § A fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2023. (X. 16.) KIM rendelet (a továbbiakban: Rendelet) 4. § e) és f) pontja helyébe a következő rendelkezések lépnek:
+1. §[^1]
 
-[Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatásként]
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
