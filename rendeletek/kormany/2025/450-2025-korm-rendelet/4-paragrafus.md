@@ -1,5 +1,5 @@
 ## 3. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
 
-4. § A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 382/2016. (XII. 2.) Korm. rendelet] 4. § (2) bekezdés 25. pontja helyébe a következő rendelkezés lép:
+4. §[^3]
 
-(Közúti gépjármű-közlekedési hatóságként a miniszter jár el:)
+[^3]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

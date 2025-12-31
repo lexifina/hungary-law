@@ -12,4 +12,6 @@
 
 ## 1. A hajózási hatóságok feladat- és hatásköréről, valamint illetékességéről szóló 237/2002. (XI. 8.) Korm. rendelet módosítása
 
-1. § Hatályát veszti a hajózási hatóságok feladat- és hatásköréről, valamint illetékességéről szóló 237/2002. (XI. 8.) Korm. rendelet 5/A. §-a és 10. §-a.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

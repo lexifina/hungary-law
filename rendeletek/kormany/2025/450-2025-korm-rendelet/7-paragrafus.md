@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 382/2016. (XII. 2.) Korm. rendelet 26. § (4) bekezdés c) pontja.
+7. §[^6]
+
+[^6]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
