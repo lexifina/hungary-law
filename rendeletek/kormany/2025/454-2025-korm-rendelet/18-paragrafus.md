@@ -1,17 +1,22 @@
 18. § Az Szkr.
 
-a) 24/E. § (2) bekezdés c) pontjában a „került, vagy” szövegrész helyébe a „került.” szöveg,
+a)[^18]
 
-b) 107. § (1) bekezdés b) pontjában az „a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.)” szövegrész helyébe az „az Nkt.” szöveg,
+b)[^19]
 
-c)[^6]
+c)[^20]
 
-d) 1. mellékletében foglalt táblázat G:152 mezőjében a „Speciális lábápoló” szövegrész helyébe a „Speciális lábápoló/Podológus” szöveg,
+d)[^21]
 
-e) 6. mellékletében foglalt táblázat A:3 mezőjében a „Díszpéldány” szövegrész helyébe az „Iskolatípusonként a díszpéldány tartótokjának második és további darabjai, valamint a díszpéldány ugyanazon évfolyamra vonatkozó” szöveg,
+e)[^22]
 
-f) 6. mellékletében foglalt táblázat C:3 mezőjében a „10%” szövegrész helyébe az „1%” szöveg
+f)[^23]
 
 lép.
 
-[^6]: A 18. § c) pontja a 20. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^18]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 18. § c) pontja a 20. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^21]: A 18. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 18. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 18. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

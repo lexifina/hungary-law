@@ -1,1 +1,3 @@
-19. § Hatályát veszti az Szkr. 24/E. § (2) bekezdés d) pontja.
+19. §[^24]
+
+[^24]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

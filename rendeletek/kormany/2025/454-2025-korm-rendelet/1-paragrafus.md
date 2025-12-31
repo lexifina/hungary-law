@@ -22,6 +22,6 @@
 
 ## 1. A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet módosítása
 
-1. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 23. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^1]
 
-„(1b) A születendő gyermek haza nem adhatóságának megállapítása iránti eljárásban a válsághelyzetben lévő várandós anya tényleges tartózkodási helye szerint illetékes gyámhivatal jár el. Ha az eljárás megindítását követően az anya tényleges tartózkodási helye megváltozik, az illetékesség az eljárás befejezéséig nem szűnik meg. A tényleges tartózkodási hely szerinti gyámhivatal a határozatát megküldi az anya lakóhelye szerint illetékes gyámhivatalnak.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

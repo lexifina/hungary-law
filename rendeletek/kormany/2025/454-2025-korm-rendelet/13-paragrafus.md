@@ -1,5 +1,5 @@
 ## 7. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet módosítása
 
-13. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet (a továbbiakban: Szkr.) 22. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+13. §[^13]
 
-[Szakmai és képesítő vizsgáztatási tevékenység folytatására irányuló engedély (a továbbiakban: engedély) annak adható ki, aki]
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 6. A pedagógus-továbbképzés rendszeréről szóló 419/2024. (XII. 23.) Korm. rendelet módosítása
 
-11. § A pedagógus-továbbképzés rendszeréről szóló 419/2024. (XII. 23.) Korm. rendelet (a továbbiakban: R4.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+11. §[^11]
 
-„(2) A gyakornoki továbbképzés két, egyenként tizenöt kreditértékű képzésen való részvétellel és az előírt tanulmányi követelmények teljesítésével valósul meg. Az egyik továbbképzés a köznevelés közszolgálat voltával kapcsolatos ismeretekre készít fel, a másik a pedagógus munkaköréhez kapcsolódó, az igazgató által megjelölt – gyógypedagógus, konduktor, fejlesztő pedagógus vagy óvoda-, iskolapszichológus, illetve kizárólag alapfokú művészeti iskolában, illetve pedagógiai szakszolgálati intézményben dolgozó, vagy szakgimnáziumban szakiskolában vagy készségfejlesztő iskolában kizárólag szakmai tantárgyat tanító Gyakornok fokozatba besorolt pedagógus kivételével –, a 2. melléklet szerinti képzés, amely a nevelő-oktató munka során alkalmazott tartalomszabályozókról szól. Gyógypedagógus, konduktor, fejlesztő pedagógus vagy óvoda-, iskolapszichológus, továbbá a kizárólag alapfokú művészeti iskolában, illetve pedagógiai szakszolgálati intézményben dolgozó, vagy szakgimnáziumban, szakiskolában vagy készségfejlesztő iskolában kizárólag szakmai tantárgyat tanító Gyakornok fokozatba besorolt pedagógus a másik tizenöt kreditértékű gyakornoki továbbképzést választható továbbképzéssel teljesíti.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

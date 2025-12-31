@@ -1,5 +1,3 @@
-10. § Hatályát veszti az R3.
+10. §[^10]
 
-a) 3. § (1) bekezdésében a „(főigazgató-helyettest)” szövegrész,
-
-b) 1. mellékletében foglalt táblázat A:5–A:11 mezőjében a „vagy főigazgató-helyettes” szövegrész.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
