@@ -1,4 +1,4 @@
-1. számú melléklet a 29/2001. (XII. 23.) KöM–GM együttes rendelethez[^3]
+1. számú melléklet a 29/2001. (XII. 23.) KöM–GM együttes rendelethez[^4]
 
 A zajkibocsátási határértékkel rendelkező berendezések határértékei
 
@@ -144,4 +144,4 @@ A zajkibocsátási határértékkel rendelkező berendezések határértékei
 
 1.4. Az 1. pontban foglalt táblázat 50, 51, 52 és 54, 55, 56 sorában foglaltak értelmezése: Pel hegesztő generátoroknál a szokásos hegesztőáram szorzata a szokásos hegesztőfeszültséggel a gyártó által megadott legkisebb kitöltési tényező mellett. Pel áramfejlesztő generátoroknál: primér teljesítmény az MSZ-ISO 8525-1:2001 szabvány 13.3.2. pontja szerint.
 
-[^3]: Az 1. melléklet a 42/2023. (XII. 29.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet a 42/2023. (XII. 29.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
