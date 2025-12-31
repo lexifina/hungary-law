@@ -1,1 +1,7 @@
-13. §
+13. § (1) Ha a kérelmező olyan dokumentumot nyújt be a KEF-nek, illetve tölt fel a KEF által üzemeltetett informatikai felületre, amely nem nyitható meg vagy a KEF rendelkezésére álló eszközökkel nem olvasható, a KEF legfeljebb 3 munkanapos határidő tűzésével az informatikai rendszeren keresztül megküldött értesítésben a kérelmezőt a dokumentum javítására irányuló hiánypótlásra hívja fel.
+
+(2) Ha a benyújtott vélemény kiadása iránti kérelem hiányos vagy a szakvélemény kiadhatóságához szükséges megfelelő adatot nem tartalmazza, a KEF a kérelem kézhezvételét követő 5 munkanapon belül a kérelmezőt írásban – legfeljebb 7 munkanapos határidő tűzésével – hiánypótlásra hívja fel, amely felhívás tartalmazza a hiánypótlási határidő elmulasztásának jogkövetkezményeit is.
+
+(3) Az (1) és (2) bekezdésben foglaltak alapján meghatározott határidő elmulasztása esetén a miniszter egyet nem értő véleményt ad ki. Ez esetben a kérelmező jogosult legfeljebb egy alkalommal az érdemben el nem bírált költségellenőrzési kérelmét új eljárásban ismételten előterjeszteni.
+
+(4) A határidők tekintetében a napokban, hónapokban vagy években megállapított határidőbe vagy időtartamba (a továbbiakban együtt: határidő) a kezdőnap nem számít bele. Kezdőnap az a nap, amelyre a határidő megkezdésére, valamint folytatólagos számítására okot adó cselekmény vagy egyéb körülmény esik. Ha a határidő utolsó napja nem munkanapra esik, a határidő csak az ezt követő legközelebbi munkanapon jár le.

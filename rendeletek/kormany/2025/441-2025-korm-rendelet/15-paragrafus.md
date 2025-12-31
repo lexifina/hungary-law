@@ -1,1 +1,1 @@
-15. §
+15. § A miniszter véleményét megküldi a KEF részére. A KEF – kivéve, ha a KEF a kérelmező – a miniszter költségellenőrzési véleményét elektronikusan vagy postai úton küldi meg a kérelmező részére. A miniszter egyetértő véleménye alapján a feltételes közbeszerzési eljárás eredményesen lezárható, illetve a kérelemmel érintett szerződés, szerződésmódosítás megköthető.

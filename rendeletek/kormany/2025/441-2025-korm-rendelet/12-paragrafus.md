@@ -1,1 +1,3 @@
-12. §
+12. § (1) A kérelmező közbeszerzési eljárás esetén a 11. § (3) bekezdésében meghatározott dokumentumokra vonatkozó adatszolgáltatást a KEF által üzemeltetett informatikai felületen keresztül történő benyújtás helyett a Kbt. szerinti elektronikus közbeszerzési rendszerhez (a továbbiakban: EKR) történő hozzáféréssel is teljesítheti. Ebben az esetben a KEF a kérelem benyújtását követő 1 munkanapon belül felhívja a kérelmezőt az EKR-ben rendelkezésre álló adatok esetében az adatok hozzáférhetővé tételére.
+
+(2) A költségellenőrzési eljárásban az EKR használatát a kérelmező, a KEF és a KEF arra kijelölt foglalkoztatottjai részére az EKR üzemeltetője az elektronikus közbeszerzés részletes szabályairól szóló 424/2017. (XII. 19.) Korm. rendeletben foglaltak szerint biztosítja.

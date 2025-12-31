@@ -1,1 +1,1 @@
-16. §
+16. § A költségellenőrzési eljárás során a kérelem elbírálásában nem vehet részt a kérelmező, a Kbt. 25. § (4) bekezdésében meghatározott személy, valamint az a személy, aki a kérelemmel érintett beszerzési eljárásban benyújtott ajánlatok elbírálásában, illetve a Kbt. 9. § (1) bekezdés h) és i) pontja szerinti szerződések előkészítésében közreműködött, továbbá az, akitől az ügy tárgyilagos megítélése egyéb okból nem várható el.

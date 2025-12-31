@@ -1,3 +1,3 @@
-29. §[^12]
+29. §[^11]
 
-[^12]: A 29. § a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^11]: A 29. § a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.

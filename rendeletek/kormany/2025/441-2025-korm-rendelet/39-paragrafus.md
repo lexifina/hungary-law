@@ -1,3 +1,3 @@
-39. §[^23]
+39. §[^22]
 
-[^23]: A 39. § a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^22]: A 39. § a 17. § (3) bekezdése alapján 2026. január 1-jén lép hatályba.

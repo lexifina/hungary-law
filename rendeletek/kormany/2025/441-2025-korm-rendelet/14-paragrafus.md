@@ -1,1 +1,5 @@
-14. §
+14. § (1) A KEF a beérkezett kérelmet és a hozzá csatolt, illetve ahhoz kapcsolódóan feltöltött dokumentumokat, valamint a döntési javaslatot a kérelem benyújtását követő 8 munkanapon belül megküldi a miniszter részére.
+
+(2) A miniszter a rendelkezésre álló dokumentumok alapján dönt az egyetértő véleményének megadásáról. A miniszter értékeli, hogy a kérelmező által az eljárást megindító felhívásban meghatározott, a Kbt. 76. § (2) bekezdése szerinti értékelési szempontok, a közbeszerzési dokumentumok, valamint a nyertes ajánlat szerinti ár, illetve egységár összhangban állnak-e.
+
+(3) Ha a KEF a Törvény hatálya alá tartozó beszerzés tekintetében az ajánlatkérő, akkor a KEF a 11. § (3) és (5) bekezdésében meghatározott dokumentumokat a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére elektronikusan küldi meg vagy az EKR-ben hozzáférést biztosít a minisztérium kijelölt foglalkoztatottjai részére. Ebben az esetben a kérelem elbírálásában kizárólag a minisztérium foglalkoztatottjai vesznek részt.
