@@ -4,4 +4,6 @@
 
 ## [3] A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 247. § 1. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 1. melléklet L) pontjában foglalt táblázat 3. sorában meghatározott feladatkörömben eljárva a következőket rendelem el:
 
-1. § A Nemzeti Adó- és Vámhivatal továbbképzési rendszeréről és a foglalkoztatottak továbbképzési kötelezettségéről szóló 4/2023. (VII. 24.) PM rendelet 10. §-ában a „Honvédségtől” szövegrész helyébe a „Honvédségtől, a polgári nemzetbiztonsági szolgálattól” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
