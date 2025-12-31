@@ -10,7 +10,13 @@ c) az (EU) 2019/1021 európai parlamenti és tanácsi rendelet I. mellékleténe
 
 d)[^6] az (EU) 2019/1021 európai parlamenti és tanácsi rendelet I. mellékletének a perfluorhexán-szulfonsav (PFHxS), annak sói és a PFHxS-rokon vegyületek felvétele tekintetében történő módosításáról szóló, 2023. május 30-i (EU) 2023/1608 felhatalmazáson alapuló bizottsági rendelet
 
+e)[^7] az (EU) 2019/1021 európai parlamenti és tanácsi rendelet I. mellékletének az UV-328 anyag felvétele tekintetében történő módosításáról szóló, 2025. május 5-i (EU) 2025/843 felhatalmazáson alapuló bizottsági rendelet,
+
+f)[^8] az (EU) 2019/1021 európai parlamenti és tanácsi rendeletnek a Dechlorane Plus tekintetében történő módosításáról szóló, 2025. május 15-i (EU) 2025/1930 bizottsági felhatalmazáson alapuló rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^5]: A 12. § a 681/2020. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 12. § d) pontját a 633/2023. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 12. § e) pontját a 472/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 12. § f) pontját a 472/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.

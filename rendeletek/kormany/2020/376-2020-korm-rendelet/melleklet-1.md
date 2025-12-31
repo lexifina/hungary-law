@@ -28,7 +28,13 @@ A környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 201
 
 1.12. Hexaklór-butadién.
 
-1.13.[^15] Perfluor-oktánsav (PFOA), a PFOA sói és a PFOA-rokon vegyületek.
+1.13.[^17] Perfluor-oktánsav (PFOA), a PFOA sói és a PFOA-rokon vegyületek.
+
+1.14.[^18] Perfluorhexán-szulfonsav (PFHxS), annak sói és PFHxS-rokon vegyületek,
+
+1.15.[^19] 2-(2H-benzotriazol-2-il)-4,6-di-terc-pentilfenol (UV-328),
+
+1.16.[^20] Dechlorane Plus.
 
 2. Nem szándékos előállításból származó anyagok:
 
@@ -76,7 +82,10 @@ A környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 201
 
 3.14. Pentaklór-fenol, valamint annak sói és észterei.
 
-3.15.[^16] Dikofol.
+3.15.[^21] Dikofol.
 
-[^15]: Az 1. melléklet 1. pont 1.13. alpontját a 681/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^16]: Az 1. melléklet 2. pont 3.15. alpontját a 681/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^17]: Az 1. melléklet 1. pont 1.13. alpontját a 681/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^18]: Az 1. melléklet 1. pont 1.14. alpontját a 472/2025. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 1. melléklet 1. pont 1.15. alpontját a 472/2025. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^20]: Az 1. melléklet 1. pont 1.16. alpontját a 472/2025. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^21]: Az 1. melléklet 2. pont 3.15. alpontját a 681/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
