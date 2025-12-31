@@ -4,12 +4,15 @@ a) az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelv
 
 b) a Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról,
 
-c)[^14] a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet,
+c)[^16] a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet,
 
-d)[^15] az 596/2014/EU európai parlamenti és tanácsi rendeletnek a harmadik országok egyes állami szervei és központi bankjai részére biztosított mentesség, a piaci manipuláció jelei, a közzétételi küszöbértékek, a késleltetésekkel kapcsolatos értesítések tekintetében illetékes hatóság, a tilalmi időszak alatti kereskedésre vonatkozó engedélyek és a vezető tisztségviselők értesítési kötelezettséggel járó ügyleteinek típusai tekintetében történő kiegészítéséről szóló, 2015. december 17-i 2016/522 felhatalmazáson alapuló bizottsági rendelet.
+d)[^17] az 596/2014/EU európai parlamenti és tanácsi rendeletnek a harmadik országok egyes állami szervei és központi bankjai részére biztosított mentesség, a piaci manipuláció jelei, a közzétételi küszöbértékek, a késleltetésekkel kapcsolatos értesítések tekintetében illetékes hatóság, a tilalmi időszak alatti kereskedésre vonatkozó engedélyek és a vezető tisztségviselők értesítési kötelezettséggel járó ügyleteinek típusai tekintetében történő kiegészítéséről szóló, 2015. december 17-i 2016/522 felhatalmazáson alapuló bizottsági rendelet.
 
-e)[^16] az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
+e)[^18] az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelv.
 
-[^14]: A 9. § c) pontját a 21/2016. (VI. 29.) NGM rendelet 7. §-a iktatta be.
-[^15]: A 9. § d) pontját a 21/2016. (VI. 29.) NGM rendelet 7. §-a iktatta be.
-[^16]: A 9. § e) pontját a 25/2024. (VII. 29.) NGM rendelet 2. §-a iktatta be.
+f)[^19] az (EU) 2022/2464 és az (EU) 2024/1760 irányelvnek az egyes fenntarthatósággal kapcsolatos vállalati beszámolási és átvilágítási követelmények tagállamok általi alkalmazásának kezdőnapjai tekintetében történő módosításáról szóló, 2025. április 14-i (EU) 2025/794 európai parlamenti és tanácsi irányelv.
+
+[^16]: A 9. § c) pontját a 21/2016. (VI. 29.) NGM rendelet 7. §-a iktatta be.
+[^17]: A 9. § d) pontját a 21/2016. (VI. 29.) NGM rendelet 7. §-a iktatta be.
+[^18]: A 9. § e) pontját a 25/2024. (VII. 29.) NGM rendelet 2. §-a iktatta be.
+[^19]: A 9. § f) pontját a 37/2025. (XII. 11.) NGM rendelet 1. §-a iktatta be.

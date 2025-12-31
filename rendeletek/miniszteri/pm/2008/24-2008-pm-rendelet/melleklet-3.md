@@ -1,6 +1,6 @@
 ## Féléves Jelentés
 
-## 1.[^25] A féléves jelentésnek elegendő információt kell tartalmaznia annak érdekében, hogy az adott féléves időszakot érintő, a jelentésben tükröződő események, változások és tendenciák megismerhetőek legyenek. A mérleg esetén az összehasonlítás alapja a folyó pénzügyi év első hat hónapjának utolsó napjával, mint mérlegfordulónappal készült mérleg és a közvetlenül azt megelőző pénzügyi év utolsó napjával, mint mérlegfordulónappal készült mérleg. Az eredménykimutatás esetén az összehasonlítás alapja a folyó pénzügyi év első hat hónapjának utolsó napjával készített eredménykimutatás és az előző pénzügyi év első hat hónapjának utolsó napjával készített eredménykimutatás. A féléves jelentés alapjául szolgáló számviteli elveknek azonosaknak kell lenniük. Amennyiben a kibocsátó az alkalmazott számviteli elveket megváltoztatja, az adatok összehasonlíthatóságát ez esetben is köteles biztosítani. A rövidített mérleg és a rövidített eredménykimutatás elkészítésekor az éves pénzügyi beszámolók elkészítésekor alkalmazottakkal azonos elismerési és mérési elveket kell követni. Magyarországi székhelyű, szabályozott piacra bevezetett értékpapír kibocsátója a féléves jelentést az Szt.-ben meghatározott számviteli elveknek megfelelően készíti el. Harmadik országbeli kibocsátó a féléves jelentést a Bizottság 2008. december 12-i, egyes harmadik országok nemzeti számviteli standardjainak és egyes nemzetközi pénzügyi beszámolási standardoknak harmadik országbeli értékpapír-kibocsátók által a konszolidált pénzügyi kimutatások elkészítésére való alkalmazásáról szóló 2008/961/EK határozatában foglaltaknak megfelelően készíti el.
+## 1.[^28] A féléves jelentésnek elegendő információt kell tartalmaznia annak érdekében, hogy az adott féléves időszakot érintő, a jelentésben tükröződő események, változások és tendenciák megismerhetőek legyenek. A mérleg esetén az összehasonlítás alapja a folyó pénzügyi év első hat hónapjának utolsó napjával, mint mérlegfordulónappal készült mérleg és a közvetlenül azt megelőző pénzügyi év utolsó napjával, mint mérlegfordulónappal készült mérleg. Az eredménykimutatás esetén az összehasonlítás alapja a folyó pénzügyi év első hat hónapjának utolsó napjával készített eredménykimutatás és az előző pénzügyi év első hat hónapjának utolsó napjával készített eredménykimutatás. A féléves jelentés alapjául szolgáló számviteli elveknek azonosaknak kell lenniük. Amennyiben a kibocsátó az alkalmazott számviteli elveket megváltoztatja, az adatok összehasonlíthatóságát ez esetben is köteles biztosítani. A rövidített mérleg és a rövidített eredménykimutatás elkészítésekor az éves pénzügyi beszámolók elkészítésekor alkalmazottakkal azonos elismerési és mérési elveket kell követni. Magyarországi székhelyű, szabályozott piacra bevezetett értékpapír kibocsátója a féléves jelentést az Szt.-ben meghatározott számviteli elveknek megfelelően készíti el. Harmadik országbeli kibocsátó a féléves jelentést a Bizottság 2008. december 12-i, egyes harmadik országok nemzeti számviteli standardjainak és egyes nemzetközi pénzügyi beszámolási standardoknak harmadik országbeli értékpapír-kibocsátók által a konszolidált pénzügyi kimutatások elkészítésére való alkalmazásáról szóló 2008/961/EK határozatában foglaltaknak megfelelően készíti el.
 
 ## 2. Az összevont (konszolidált) éves beszámoló készítésére nem köteles kibocsátó féléves jelentése legalább a következőket tartalmazza:
 
@@ -8,7 +8,7 @@
 
 ## a mérleg és az eredménykimutatás kivonata, amely az éves beszámoló mérlegének és eredménykimutatásának összegző sorait tartalmazza, továbbá mindazon sorokat, amelyek kihagyása félrevezető,
 
-## 2.2.[^26] az 1. melléklet 4. pontjában meghatározott vezetőségi jelentés a féléves beszámoló időszakáról, ide nem értve a fenntarthatósági jelentést és az ahhoz kapcsolódó követelményeket,
+## 2.2.[^29] az 1. melléklet 4. pontjában meghatározott vezetőségi jelentés a féléves beszámoló időszakáról, ide nem értve a fenntarthatósági jelentést és az ahhoz kapcsolódó követelményeket,
 
 ## 2.3. a könyvvizsgálói felülvizsgálatra vonatkozóan
 
@@ -28,7 +28,7 @@
 
 ## 3.1.1. a mérleg és az eredménykimutatás kivonata, amely az összevont (konszolidált) éves beszámoló mérlegének és eredménykimutatásának összegző sorait tartalmazza, továbbá mindazon sorokat, amelyek kihagyása félrevezető,
 
-## 3.2.[^27] az 1. melléklet 4. pontjában meghatározott összevont (konszolidált) vezetőségi jelentés az összevont (konszolidált) féléves beszámoló időszakáról, ide nem értve a fenntarthatósági jelentést és az ahhoz kapcsolódó követelményeket,
+## 3.2.[^30] az 1. melléklet 4. pontjában meghatározott összevont (konszolidált) vezetőségi jelentés az összevont (konszolidált) féléves beszámoló időszakáról, ide nem értve a fenntarthatósági jelentést és az ahhoz kapcsolódó követelményeket,
 
 ## 3.3. a könyvvizsgálói felülvizsgálatra vonatkozóan
 
@@ -42,12 +42,12 @@
 
 ## 3.4.2. az összevont (konszolidált) vezetőségi jelentés megbízható képet ad a kibocsátó és a konszolidációba bevont vállalkozások helyzetéről, fejlődéséről és teljesítményéről, ismertetve pénzügyi év hátralevő hat hónapját érintő főbb kockázatokat és bizonytalansági tényezőket.
 
-## 3.5.[^28] Amennyiben a kibocsátó a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tarozik, akkor a 3.1. pont helyett az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) féléves beszámolóját.
+## 3.5.[^31] Amennyiben a kibocsátó a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tarozik, akkor a 3.1. pont helyett az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) féléves beszámolóját.
 
-3. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^29]
+3. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^32]
 
-[^25]: A 2. melléklet 1. pontja a 19/2019. (XII. 18.) PM rendelet 4. §-a, a 25/2024. (VII. 29.) NGM rendelet 4. §-a szerint módosított szöveg.
-[^26]: A 2. melléklet 2. pont 2.2. alpontja a 37/2025. (XII. 11.) NGM rendelet 2. §-ával megállapított szöveg.
-[^27]: A 2. melléklet 3. pont 3.2. alpontja a 37/2025. (XII. 11.) NGM rendelet 2. §-ával megállapított szöveg.
-[^28]: A 2. melléklet 3.5. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^29]: A 3. mellékletet a 21/2016. (VI. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^28]: A 2. melléklet 1. pontja a 19/2019. (XII. 18.) PM rendelet 4. §-a, a 25/2024. (VII. 29.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^29]: A 2. melléklet 2. pont 2.2. alpontja a 37/2025. (XII. 11.) NGM rendelet 2. §-ával megállapított szöveg.
+[^30]: A 2. melléklet 3. pont 3.2. alpontja a 37/2025. (XII. 11.) NGM rendelet 2. §-ával megállapított szöveg.
+[^31]: A 2. melléklet 3.5. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^32]: A 3. mellékletet a 21/2016. (VI. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.

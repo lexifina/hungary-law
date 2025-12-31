@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-24-20-5
 | 2019-12-26 | 2008-24-20-53.9 | 19/2019. (XII. 18.) PM rendelet |
 | 2024-07-30 | 2008-24-20-53.10 | 25/2024. (VII. 29.) NGM rendelet |
 | 2025-12-12 | 2008-24-20-53.11 | 37/2025. (XII. 11.) NGM rendelet |
+| 2025-12-31 | 2008-24-20-53.12 | 37/2025. (XII. 11.) NGM rendelet |

@@ -1,3 +1,3 @@
-5. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^53]
+5. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^56]
 
-[^53]: Az 5. mellékletet a 21/2010. (V. 12.) PM rendelet 5. §-a hatályon kívül helyezte.
+[^56]: Az 5. mellékletet a 21/2010. (V. 12.) PM rendelet 5. §-a hatályon kívül helyezte.
