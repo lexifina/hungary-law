@@ -44,7 +44,7 @@ f) környezetvédelmi szempontok, a megújuló energia szektorának erősítése
 
 (9)[^83] Amennyiben közép- és hosszú lejáratú ügyletek és az egyedi módozat keretében biztosított rövid lejáratú ügyletek esetén a Mehib Zrt. több, egymással összefüggő exportirányú külkereskedelmi szerződéshez kapcsolódóan nyújt biztosítást, akkor az ebben a §-ban meghatározott feltételek a több, egymással összefüggő exportirányú külkereskedelmi szerződés alapján teljesített valamennyi exportügyletre vetítve is teljesülhetnek.
 
-(10)[^84]
+(10)[^84] Az elektronikus formában kiállított származási bizonyítványok és magyar hányad igazolás benyújtására a MEHIB üzletszabályzata és az általános szerződési feltételei speciális rendelkezéseket is előírhatnak.
 
 (11)[^85]
 
@@ -67,5 +67,5 @@ f) környezetvédelmi szempontok, a megújuló energia szektorának erősítése
 [^81]: A 7. § (7) bekezdés e) pontja a 630/2023. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^82]: A 7. § (8) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 17. pontja szerint módosított szöveg.
 [^83]: A 7. § (9) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
-[^84]: A 7. § (10) bekezdését a 630/2023. (XII. 23.) Korm. rendelet 18. § h) pontja hatályon kívül helyezte.
+[^84]: A 7. § (10) bekezdését a 630/2023. (XII. 23.) Korm. rendelet 18. § h) pontja hatályon kívül helyezte, újonnan a 463/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^85]: A 7. § (11) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 2. § (7) bekezdése iktatta be, a 630/2023. (XII. 23.) Korm. rendelet 18. § h) pontja hatályon kívül helyezte.

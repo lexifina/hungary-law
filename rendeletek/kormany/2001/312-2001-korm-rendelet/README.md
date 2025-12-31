@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-312-20-
 | 2022-12-09 | 2001-312-20-22.24 | 502/2022. (XII. 8.) Korm. rendelet |
 | 2023-12-24 | 2001-312-20-22.25 | 630/2023. (XII. 23.) Korm. rendelet |
 | 2024-08-01 | 2001-312-20-22.26 | 233/2024. (VII. 31.) Korm. rendelet |
+| 2025-12-31 | 2001-312-20-22.27 | 630/2023. (XII. 23.) Korm. rendelet |
