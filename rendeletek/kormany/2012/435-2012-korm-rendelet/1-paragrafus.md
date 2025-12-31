@@ -28,7 +28,7 @@
 
 13. vevőhitel: olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, az Európai Unió egy vagy több tagállamából származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet vállalja, hogy a szállítónak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet a vevő vagy kölcsönvevő nevében, míg a vevő vagy kölcsönvevő lejáratkor visszafizetik azt a hitelintézetnek;
 
-14.[^7] versenyképességet javító hitelgarancia: a finanszírozó hitelintézetnek az Eximbank által a 85/1998. Korm. rendelet 1. § (1) bekezdés f) pontjában meghatározott versenyképességet javító refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául az Eximbank által vállalt garancia, viszontgarancia vagy készfizető kezesség.
+14.[^7] belföldi célú hitelgarancia: a finanszírozó hitelintézetnek az Eximbank által a 85/1998. Korm. rendelet 1. § (1) bekezdés f) pontjában meghatározott belföldi célú refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés biztosítékául az Eximbank által vállalt garancia, viszontgarancia vagy készfizető kezesség;
 
 15.[^8] hitelfedezeti garancia: a legalább két éves, vagy két évet meghaladó futamidejű hitelhez az Eximbank által vállalt garancia, viszontgarancia vagy készfizető kezesség;
 
@@ -42,7 +42,7 @@
 [^4]: Az 1. § 7. pontja a 80/2014. (III. 14.) Korm. rendelet 33. §-a, a 126/2020. (IV. 16.) Korm. rendelet 17. § d) pontja, a 235/2021. (V. 6.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § 9. pontja a 184/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított, a 80/2014. (III. 14.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^6]: Az 1. § 10. pontja a 215/2015. (VII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 126/2020. (IV. 16.) Korm. rendelet 17. § e) pontja és 18. § a) pontja, a 235/2021. (V. 6.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^7]: Az 1. § 14. pontját a 140/2014. (IV. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 17. § f) pontja, a 235/2021. (V. 6.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § 14. pontját a 140/2014. (IV. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 465/2025. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: Az 1. § 15. pontját a 327/2014. (XII. 15.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 215/2015. (VII. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 126/2020. (IV. 16.) Korm. rendelet 17. § g) pontja és 18. § b) pontja, a 235/2021. (V. 6.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § 16. pontját a 327/2014. (XII. 15.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 17. § h) pontja, a 235/2021. (V. 6.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^10]: Az 1. § 17. pontját a 126/2020. (IV. 16.) Korm. rendelet 8. §-a iktatta be, szövege a 235/2021. (V. 6.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

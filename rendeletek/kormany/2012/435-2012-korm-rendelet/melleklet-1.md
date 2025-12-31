@@ -1,4 +1,4 @@
-1. melléklet a 435/2012. (XII. 29.) Korm. rendelethez[^49]
+1. melléklet a 435/2012. (XII. 29.) Korm. rendelethez[^51]
 
 Beváltási Kérelem
 
@@ -58,7 +58,7 @@ g) az f) pontban foglaltakat alátámasztó dokumentum(ok) (felmondás esetén a
 
 h) felmondás esetén annak indokának bemutatása
 
-i) annak igazolása, hogy a 435/2012. (XII. 29.) Korm. rendelet 5/A. § (1) bekezdésében foglalt kizáró okok nem álltak fenn[^50]
+i) annak igazolása, hogy a 435/2012. (XII. 29.) Korm. rendelet 5/A. § (1) bekezdésében foglalt kizáró okok nem álltak fenn[^52]
 
 j) tartozáskimutatás
 
@@ -68,5 +68,5 @@ Dátum: ..................................................
 
 Cégszerű aláírás
 
-[^49]: Az 1. mellékletet a 126/2020. (IV. 16.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan az 538/2023. (XII. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 339/2024. (XI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^50]: A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosításáról szóló 538/2023. (XII. 6.) Korm. rendelet hatálybalépését megelőzően létrejött hitel- és pénzkölcsön esetén a 3. pont i) alpontjában foglaltak igazolására az Eximbank nyilatkozata is elfogadható.
+[^51]: Az 1. mellékletet a 126/2020. (IV. 16.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan az 538/2023. (XII. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 339/2024. (XI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^52]: A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosításáról szóló 538/2023. (XII. 6.) Korm. rendelet hatálybalépését megelőzően létrejött hitel- és pénzkölcsön esetén a 3. pont i) alpontjában foglaltak igazolására az Eximbank nyilatkozata is elfogadható.
