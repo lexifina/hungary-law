@@ -19,3 +19,5 @@ a) ha a közigazgatási cselekményt megelőző eljárás nélkül valósított�
 b) a törvény által meghatározott jogvitában.
 
 (3) A másodfokú eljárásra az elsőfokú eljárásra és a határozatokra vonatkozó szabályokat az e fejezetben foglalt eltérésekkel kell megfelelően alkalmazni.
+
+(4) Rövidített indokolást tartalmazó ítélet esetében a fellebbezési szándék bejelentésére és az ítélet részletes indokolással való ellátására a polgári perrendtartásról szóló törvény rendelkezéseit kell alkalmazni.

@@ -22,7 +22,7 @@ i) a felperes a keresetindítási határidőt elmulasztja, és igazolási kérel
 
 j) a felperes a hiánypótlási felhívás teljesítésére rendelkezésre álló határidőben a keresetlevelet nem, vagy újból hiányosan nyújtotta be, és emiatt a keresetlevél nem bírálható el,
 
-k) a felperes keresetindítási határidőn belül nem jelölte meg a közigazgatási tevékenységgel okozott jogsérelmet,
+k) a felperes keresetindítási határidőn belül nem jelölte meg a közigazgatási tevékenységgel okozott jogsérelmet vagy jogsértést,
 
 l) az elektronikus ügyintézésre köteles felperes vagy a jogi képviselő nem elektronikus úton vagy elektronikus úton, de nem a jogszabályban meghatározott módon terjesztette elő,
 

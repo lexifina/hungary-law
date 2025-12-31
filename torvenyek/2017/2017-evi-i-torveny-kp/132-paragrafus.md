@@ -1,6 +1,6 @@
 ### 132. § [Viszontkereset és beszámítás]
 
-(1) Az alperes legkésőbb az első tárgyaláson viszontkeresetet indíthat, ha az így érvényesíteni kívánt jog a felperes keresetével azonos vagy azzal összefüggő jogviszonyból származik, vagy a viszontkereset tárgyául szolgáló követelés a felperes kereseti követelésével szemben beszámításra alkalmas. A viszontkeresetre a keresetlevél szabályait megfelelően alkalmazni kell.
+(1) Az alperes legkésőbb az első tárgyaláson viszontkeresetet indíthat, vagy beszámítási kérelmet terjeszthet elő, ha az így érvényesíteni kívánt jog a felperes keresetével azonos vagy azzal összefüggő jogviszonyból származik, vagy a viszontkereset tárgyául szolgáló követelés a felperes kereseti követelésével szemben beszámításra alkalmas. Az e törvény rendelkezéseinek megsértésével előterjesztett viszontkeresetet és beszámítási kérelmet vissza kell utasítani. A viszontkeresetre a keresetlevél szabályait megfelelően alkalmazni kell.
 
 (2) A felperes ellenkérelemben kérheti a viszontkereset elutasítását, vagy érdemi védekezést terjeszthet elő. Az ellenkérelem előterjesztésére a bíróság legalább tizenöt napos határidőt állapíthat meg.
 

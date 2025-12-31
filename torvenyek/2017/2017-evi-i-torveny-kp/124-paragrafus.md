@@ -16,7 +16,7 @@ a) a hatósági igazolvánnyal, a hatósági bizonyítvánnyal, valamint – a t
 
 b) a kizárólag a hatósági eljárás egyéb résztvevőjének keresete alapján indult perben,
 
-c) a járulékos közigazgatási cselekménnyel, továbbá a közigazgatási szerv visszautasító vagy az eljárást megszüntető döntésével kapcsolatos perben,
+c) az önálló jogorvoslattal támadható végzéssel, továbbá az eljárást az ügy érdemi elbírálása nélkül lezáró döntéssel kapcsolatos perben,
 
 d) a feloszlatás kivételével a gyülekezési joggal kapcsolatos perben,
 

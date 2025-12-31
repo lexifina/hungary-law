@@ -6,9 +6,9 @@
 
 (3) Egyesbíró jár el elsőfokon
 
-a) a kétfokú közigazgatási eljárásban hozott közigazgatási cselekmény vizsgálatára indított perben,
+a) a helyi önkormányzat szerve által államigazgatási feladatkörben megvalósított közigazgatási tevékenységgel kapcsolatos, másodfokon elbírált döntéssel szemben indított perben,
 
-b) a tízmillió forintot meg nem haladó alapösszegű fizetési kötelezettséget vitató kereset alapján indult perben,
+b) a tízmillió forintot meg nem haladó alapösszegű fizetési kötelezettséget – ideértve a döntés jogalapját vagy az azzal együtt alkalmazott kötelezést – vitató kereset alapján indult perben,
 
 c) a szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok beutazásával és tartózkodásával, valamint a menedékjoggal kapcsolatos perben,
 
@@ -16,15 +16,19 @@ d) a járási (kerületi) hivatal vezetője vagy helyi önkormányzat szerve ál
 
 e) a hatósági igazolvánnyal, hatósági bizonyítvánnyal, illetve hatósági nyilvántartás vezetésével kapcsolatos perben,
 
-f) a hatósági határozattal szemben kizárólag a hatósági eljárás egyéb résztvevőjének keresete alapján indult perben,
+f) a társadalombiztosítási, szociális vagy gyermekvédelmi ellátással, illetve az állami foglalkoztatási szerv által nyújtott ellátással vagy támogatással kapcsolatos perben,
 
-g) járulékos közigazgatási cselekménnyel, valamint a kérelmet visszautasító vagy az eljárást megszüntető döntéssel kapcsolatos perben,
+g) 124. § (2) bekezdés b) és c) pontjában meghatározott egyszerűsített perben,
 
 h) a mulasztási perben,
 
 i) a közszolgálati jogviszonnyal kapcsolatos perben,
 
-j) a közigazgatási nemperes eljárásban.
+j) a közigazgatási nemperes eljárásban,
+
+k) felügyeleti eljárásban megvalósított közigazgatási cselekmény vizsgálatára indított perben, ha a felügyeleti eljárással érintett közigazgatási cselekmény vizsgálata egyesbíró hatáskörébe tartozik, valamint
+
+l) a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetéssel vagy a vele együtt alkalmazott kötelezéssel kapcsolatos perben.
 
 (4) Ha az ügy különös bonyolultsága indokolja, az egyesbíró a (3) bekezdés szerinti perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 

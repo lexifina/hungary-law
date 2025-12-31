@@ -6,7 +6,7 @@
 
 (3) Az érdekelt a felek rendelkezési jogának sérelme nélkül jogosult perbeli cselekmény megtételére, amely akkor is hatályos, ha a felek cselekményeivel ellentétben áll. Az ellentétes cselekmény befolyását az ügy eldöntésére a bíróság a per egyéb adatait is figyelembe véve bírálja el.
 
-(4) A perbelépés lehetőségéről az ismert érdekeltet a bíróság értesíti. Az értesítéssel egyidejűleg a bíróság közli a keresetlevelet és az azonnali jogvédelem tárgyában hozott végzést, ha erre korábban nem került sor. A perbelépés lehetőségéről való értesítésnek hivatalból vagy valamely fél kérelmére az ítélet jogerőre emelkedéséig az eljárás bármely szakaszában helye van.
+(4) A perbelépés lehetőségéről a megelőző eljárásban részt vett ismert érdekeltet a bíróság értesíti, ha arra a 40. § (8) bekezdése alapján nem került sor. Az értesítéssel egyidejűleg a bíróság közli a keresetlevelet és az azonnali jogvédelem tárgyában hozott végzést, ha erre korábban nem került sor. A perbelépés lehetőségéről való értesítésnek hivatalból vagy valamely fél kérelmére a per jogerős lezárásáig az eljárás bármely szakaszában helye van.
 
 (5) Ha a megelőző eljárás hatásterület megállapítása mellett folyt, a bíróság elrendelheti, hogy azon érdekeltekkel, akik a megelőző eljárásban nem vettek részt, a perbelépés lehetőségéről szóló értesítést a közigazgatási szerv honlapján, ennek hiányában a helyben szokásos módon történő közzétételével kell közölni. A bíróság a közzétételre a közigazgatási szervet kötelezi. A perbelépés lehetőségéről szóló értesítést a közigazgatási szerv általi közzétételét követő tizenötödik napon kell közöltnek tekinteni.
 

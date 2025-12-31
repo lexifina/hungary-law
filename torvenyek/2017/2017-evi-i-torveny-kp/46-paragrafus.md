@@ -6,7 +6,7 @@
 
 (3) Ha a jogi képviselő nélkül eljáró felperes keresetlevele az alperes megjelölésére vonatkozóan hiányos, ellentmondásos vagy más okból kiegészítésre vagy kijavításra szorul, hiánypótlásnak csak akkor van helye, ha az alperes személye a vitatott közigazgatási cselekményből vagy az arra vonatkozó jogszabályokból nem állapítható meg.
 
-(4) Ha a keresetlevél nem tartalmazza a jogsérelem megjelölését, e hiány pótlása a keresetindítási határidőn belül lehetséges.
+(4) Ha a keresetlevél nem tartalmazza a jogsérelem vagy a jogsértés megjelölését, e hiány pótlása a keresetindítási határidőn belül lehetséges.
 
 (5) A bíróság a hiánypótlási felhívás mellett a jogi képviselőt pénzbírsággal sújthatja, ha
 

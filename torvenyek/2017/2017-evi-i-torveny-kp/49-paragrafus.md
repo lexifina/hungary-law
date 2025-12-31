@@ -16,4 +16,4 @@ b) a keresetlevél áttételéhez szükséges adatok nem voltak megállapíthat�
 
 és a felperes a visszautasító határozat jogerőre emelkedésétől számított harminc nap alatt a keresetlevelet az e törvényben foglaltaknak megfelelően a hatáskörrel és illetékességgel rendelkező bíróságnál benyújtja.
 
-(3) Az (1) és (2) bekezdésben megállapított határidő elmulasztása esetében igazolásnak nincs helye.
+(3) Az (1) és (2) bekezdésben megállapított határidő elmulasztása esetében igazolásnak nincs helye. Ha a felperes az (1) és (2) bekezdésben foglalt esetben a visszautasító végzés jogerőre emelkedését megelőzően a keresetlevelet – az e törvényben foglaltaknak megfelelően – újból előterjeszti, azt a visszautasító végzés ellen előterjesztett fellebbezés visszavonásnak vagy a fellebbezési jogról való lemondásnak kell tekinteni.

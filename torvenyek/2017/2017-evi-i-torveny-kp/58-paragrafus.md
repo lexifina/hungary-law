@@ -1,6 +1,6 @@
 ### 58. § [A tárgyalás kitűzése]
 
-(1) A bíróság legkésőbb a keresetlevélnek a bírósághoz való érkezését követő harminc napon belül intézkedik a tárgyalási határnap kitűzéséről.
+(1) A bíróság legkésőbb a keresetlevélnek a bírósághoz való érkezését követő harminc napon belül intézkedik a tárgyalási határnap kitűzéséről, kivéve akkor, ha az 57. § (2) bekezdése alapján bizonyítást rendel el, és a tárgyalás tartásának szükségessége a 77. § (4) bekezdésében foglaltakra figyelemmel a felek nyilatkozatától függ.
 
 (2) Az első tárgyalást úgy kell kitűzni, hogy az a keresetlevélnek a bírósághoz való érkezését követő hatvan napon belül megtartható legyen. Ha a keresetlevél csak a bíróság intézkedése alapján válik alkalmassá a tárgyalás kitűzésére, a tárgyalás megtartására előírt határidő kezdő időpontját ettől az időponttól kell számítani.
 

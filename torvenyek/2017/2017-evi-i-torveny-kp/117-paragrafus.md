@@ -2,6 +2,8 @@
 
 (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a jogerős határozat közlésétől számított harminc napon belül kell jogi képviselő útján benyújtani. A határidő elmulasztása miatt a határidő lejártát követő tizenöt napon belül van helye igazolásnak.
 
+(1a) Rövidített indokolást tartalmazó ítélet esetén a felülvizsgálati kérelmet a részletes indokolással ellátott ítélet közlésétől számított harminc napon belül kell benyújtani.
+
 (2) A felülvizsgálati kérelem visszautasításáról a Kúria tanácsban, indokolt végzésben határoz.
 
 (3) A felülvizsgálati kérelemben nem lehet hivatkozni új jogalapra és olyan új tényre, körülményre, amely nem volt az elsőfokú eljárás tárgya.

@@ -20,4 +20,4 @@ miatt indokolt.
 
 (3) A befogadhatóság tárgyában hozott végzést a Kúria közli a felülvizsgálati kérelmet előterjesztő féllel.
 
-(4) A felülvizsgálati kérelem befogadásáról szóló végzést – a felülvizsgálati kérelem egyidejű megküldésével – közölni kell a kérelmet előterjesztő fél ellenfelével és az érdekelttel, akik annak közlésétől számított nyolc napon belül, abban a körben, amelyre nézve a kérelmet befogadták, felülvizsgálati ellenkérelmet vagy csatlakozó felülvizsgálati kérelmet terjeszthetnek elő.
+(4) A felülvizsgálati kérelem befogadásáról szóló végzést – a felülvizsgálati kérelem egyidejű megküldésével – közölni kell a kérelmet előterjesztő fél ellenfelével és az érdekelttel, akik annak közlésétől számított tizenöt napon belül, abban a körben, amelyre nézve a kérelmet befogadták, felülvizsgálati ellenkérelmet vagy csatlakozó felülvizsgálati kérelmet terjeszthetnek elő.

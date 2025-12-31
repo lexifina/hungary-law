@@ -10,7 +10,19 @@ b) a tárgyalást valamennyi fél elmulasztja, vagy a tárgyaláson megjelent eg
 
 (3) A pertárgy értékének meghatározására a polgári perrendtartás szabályait kell alkalmazni. Közszolgálati jogviszonnyal kapcsolatos perben a pertárgy értékének meghatározására a polgári perrendtartás munkaügyi perekre vonatkozó szabályait is alkalmazni kell.
 
-(4) A felperes a keresetét a tárgyalás berekesztéséig változtathatja meg, feltéve, hogy a megváltoztatott keresettel érvényesített igény ugyanabból a jogviszonyból ered.
+(4) A felperes a keresetét – (4a) bekezdésben foglalt kivétellel – legkésőbb az első tárgyaláson változtathatja meg, feltéve, hogy a megváltoztatott keresettel érvényesített igény ugyanabból a jogviszonyból ered.
+
+(4a) A kereset megváltoztatásának az első tárgyalást követően akkor van helye, ha
+
+a) tényállítás megváltoztatása esetén a fél olyan tényre hivatkozik, amely önhibáján kívül, a keresetindítási határidő után jutott tudomására,
+
+b) a keresetváltoztatás – a bármelyik fél által előterjesztett – új tényállítással áll közvetlen okozati összefüggésben,
+
+c) jogsérelem, jogsértés vagy a kérelem megváltoztatását az a) pont szerint megváltoztatott tényállítás indokolja, vagy
+
+d) a keresetváltoztatást a bíróság anyagi pervezetése indokolja,
+
+és a megváltoztatott kereset ugyanabból a jogviszonyból ered, továbbá a bíróság hatásköre és illetékessége a megváltoztatott keresetre is fennáll.
 
 (5) A marasztalási kereseti kérelemhez kapcsolódó bizonyítási indítvány előterjesztésére, illetve bizonyítási eszköz rendelkezésre bocsátására a bíróság által megállapított határidőn belül, ennek hiányában a tárgyalás berekesztéséig van lehetőség.
 

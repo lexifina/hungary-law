@@ -24,8 +24,10 @@ h) a bíróság az alperes kérelmére a külföldi felperest a perrel felmerül
 
 (2) Ha az eljárás során hatáskör vagy illetékesség hiánya miatt áttételnek van helye, a bíróság az eljárást megszünteti és az áttétel szabályainak alkalmazásával jár el.
 
+(2a) Ha az eljárás során a bíróság határozata alapján szűnik meg a 48. § (1) bekezdés e) pontja szerinti perelőfeltétel, a bíróság az eljárást megszünteti.
+
 (3) Ha a bíróság az eljárást az (1) bekezdés b) pontja alapján szünteti meg, a perindítás joghatásai fennmaradnak, ha a felperes a megszüntető végzés jogerőre emelkedésétől számított nyolc napon belül a keresetlevelet szabályszerűen újra benyújtja. E határidő elmulasztása esetén igazolásnak helye nincs.
 
 (4) Ha az eljárás megszüntetésének az (1) bekezdés c)–e) vagy g) pontja alapján lenne helye, és a bíróság hivatalbóli vizsgálatot vagy bizonyítást rendelt el, a bíróság az eljárás megszüntetése előtt az ügyészséget a keresetlevél és a védirat megküldésével perbelépésre hívhatja fel, egyidejűleg tájékoztatja a hivatalbóli vizsgálat elrendelésének körülményeiről. Ha az ügyészség a felhívásban meghatározott határidőn belül nem lép be a perbe, a bíróság az eljárást megszünteti. A perbelépésre megállapított határidő elmulasztása miatt igazolásnak nincs helye.
 
-(5) Az eljárást megszüntető végzés ellen a (2) bekezdésben foglaltak kivételével fellebbezésnek van helye.
+(5) Az eljárást megszüntető végzés ellen fellebbezésnek van helye.
