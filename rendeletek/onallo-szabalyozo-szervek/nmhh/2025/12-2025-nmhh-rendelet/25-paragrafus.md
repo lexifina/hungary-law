@@ -1,1 +1,3 @@
-25. § Hatályát veszti az építési munkák összehangolásával és a fizikai infrastruktúra közös használatával kapcsolatos jogvitás eljárások részletes szabályairól szóló 5/2017. (VI. 1.) NMHH rendelet.
+25. §[^1]
+
+[^1]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
