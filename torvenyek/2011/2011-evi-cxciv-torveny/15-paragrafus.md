@@ -6,6 +6,8 @@
 
 15. § (1) A Költségvetési Tanács (a továbbiakban: Tanács) testületként eljárva vesz részt a központi költségvetésről szóló törvény (a továbbiakban: költségvetési törvény) előkészítésében és az államadósság mértékére vonatkozó előírások betartásának ellenőrzésében.
 
+(1a) A Tanács testületként eljárva értékeli az államháztartásra vonatkozó éves és többéves költségvetési tervezéshez szükséges makrogazdasági és költségvetési előrejelzéseket.
+
 (2) A Tanács kizárólag az Alaptörvénynek és a törvényeknek alárendelve végzi tevékenységét.
 
 (3) A Tanács tagjai önállóan alakítják ki véleményüket, álláspontjuk képviseletében egymástól függetlenek.

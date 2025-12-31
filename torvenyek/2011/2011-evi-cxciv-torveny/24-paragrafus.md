@@ -13,3 +13,5 @@ b) a központi költségvetésről szóló törvény módosítását tartalmazó
 (4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek. A Kormány a benyújtással egyidejűleg, a törvényjavaslat indokolásában tájékoztatja az Országgyűlést arról, hogy a Tanács észrevételei alapján milyen módosításokat hajtott végre a törvénytervezetben, illetve indokolja a Tanács észrevételeinek esetleges elutasítását. Ha a Tanács véleményében azt állapította meg, hogy a törvénytervezet szerinti kormányzati szektor egyenlege nem felel meg a 3/A. § (1) bekezdése szerinti követelményeknek, akkor a Kormány a törvényjavaslat indokolásában köteles értékelni a 3/A. § (1) bekezdése szerinti követelmények teljesítését.
 
 (5) Az Országgyűlésnek benyújtott központi költségvetésről szóló törvényjavaslatra a Tanács észrevételt tehet.
+
+(6) A Kormány a 23. § (3) bekezdése szerinti feladat elvégzéséhez szükséges információkat a Tanács rendelkezésére bocsátja, az erre irányuló kérelme kézhezvételét követően haladéktalanul.
