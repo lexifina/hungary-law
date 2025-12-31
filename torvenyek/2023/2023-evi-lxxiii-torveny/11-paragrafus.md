@@ -1,1 +1,0 @@
-11. § Az Országgyűlés megállapítja, hogy a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény végrehajtásáról szóló 2022. évi LXXII. törvény 12. §-ában előírt megtérítési, visszautalási és elszámolási kötelezettségek teljesítése megtörtént.

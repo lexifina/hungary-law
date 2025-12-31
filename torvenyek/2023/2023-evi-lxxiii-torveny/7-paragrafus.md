@@ -1,1 +1,0 @@
-7. § Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter – a Gst. 11. § (1) bekezdésében foglalt felhatalmazás alapján – a Kincstári Egységes Számla folyamatos likviditása érdekében 843 088,5 millió forint összeggel csökkentette a kincstárjegyek állományát.
