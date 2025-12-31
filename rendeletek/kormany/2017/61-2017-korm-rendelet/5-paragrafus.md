@@ -76,6 +76,17 @@
 
 38. együttműködik a miniszterelnök általános helyettesével a Statútum rendelet 49. § (2) bekezdés e) pontja szerinti feladatok ellátásával összefüggésben.
 
-(2) A turisztikai ügynökség az (1) bekezdésben meghatározott feladatokat a tulajdonosi joggyakorlása alá tartozó gazdasági társaságok útján is elláthatja.
+(2)[^12] A turisztikai ügynökség az (1) bekezdésben meghatározott feladatokat
+
+a) a tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet,
+
+b) az a) pontban meghatározott szervezet többségi befolyása alatt álló gazdasági társaság,
+
+c) a b) pontban meghatározott szervezet többségi befolyása alatt álló gazdasági társaság,
+
+d) a turisztikai ügynökség többségi befolyása alatt álló gazdálkodó szervezet és annak többségi befolyása alatt álló gazdasági társaság
+
+útján is elláthatja.
 
 [^11]: Az 5. § a 152/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 5. § (2) bekezdése a 460/2025. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

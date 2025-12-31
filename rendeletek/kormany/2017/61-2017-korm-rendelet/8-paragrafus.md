@@ -1,3 +1,3 @@
-## 7/A. §[^17] A turisztikai ügynökség kiemelt turisztikai jelentőségű, 100%-os állami tulajdonú ingatlant vagyonkezelésbe vehet, azon fejlesztéseket végezhet.
+## 7/A. §[^18] A turisztikai ügynökség kiemelt turisztikai jelentőségű, 100%-os állami tulajdonú ingatlant vagyonkezelésbe vehet, azon fejlesztéseket végezhet.
 
-[^17]: A 7/A. §-t a 114/2017. (V. 10.) Korm. rendelet 8. §-a iktatta be.
+[^18]: A 7/A. §-t a 114/2017. (V. 10.) Korm. rendelet 8. §-a iktatta be.

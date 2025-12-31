@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-61-20-2
 | 2022-12-30 | 2017-61-20-22.14 | 619/2022. (XII. 29.) Korm. rendelet |
 | 2024-06-29 | 2017-61-20-22.15 | 152/2024. (VI. 28.) Korm. rendelet |
 | 2025-06-20 | 2017-61-20-22.16 | 13/2020. (II. 7.) Korm. rendelet |
+| 2025-12-31 | 2017-61-20-22.17 | 460/2025. (XII. 30.) Korm. rendelet |
