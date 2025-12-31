@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-17-20-0
 | 2021-01-01 | 2020-17-20-06.1 | 17/2020. (XII. 23.) IM rendelet |
 | 2021-01-02 | 2020-17-20-06.2 | 2010: CXXX. törvény |
 | 2023-01-01 | 2020-17-20-06.3 | 38/2022. (XII. 27.) IM rendelet |
+| 2025-12-31 | 2020-17-20-06.4 | 13/2025. (X. 31.) IM rendelet |

@@ -5,3 +5,7 @@
 6. § (1) Ha a fél közigazgatási perben a közigazgatási perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el, a keresetlevelet – a (2) bekezdésben foglalt kivétellel – a 19. mellékletben meghatározott nyomtatványon is előterjesztheti.
 
 (2) Ha a fél a közigazgatási perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el, a 20. mellékletben meghatározott nyomtatványon is előterjesztheti a mulasztási per megindítására szolgáló keresetlevelet.
+
+(3)[^1] Ha a természetes személy fél a közigazgatási perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el, az egyedi döntéssel szemben a 22. mellékletben meghatározott nyomtatványon is előterjesztheti a keresetlevelet.
+
+[^1]: A 6. § (3) bekezdését a 13/2025. (X. 31.) IM rendelet 1. §-a iktatta be.

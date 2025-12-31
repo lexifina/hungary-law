@@ -2,9 +2,9 @@
 
 ## PÓTLAP
 
-## TANÚBIZONYÍTÁS INDÍTVÁNYOZÁSA[^711]
+## TANÚBIZONYÍTÁS INDÍTVÁNYOZÁSA[^712]
 
-## 1. A pótlap sorszáma:[^712]
+## 1. A pótlap sorszáma:[^713]
 
 ## 2.1. Tanú
 
@@ -20,7 +20,7 @@
 
 ## amennyiben nem,
 
-## Tanú lakóhelye (tartózkodási helye):[^713]
+## Tanú lakóhelye (tartózkodási helye):[^714]
 
 ## _____________________________________________________________________________________________________
 
@@ -60,11 +60,11 @@ Szakértői bizonyítás indítványozása iránti pótlap nyomtatvány
 
 PÓTLAP
 
-SZAKÉRTŐI BIZONYÍTÁS INDÍTVÁNYOZÁSA[^714]
+SZAKÉRTŐI BIZONYÍTÁS INDÍTVÁNYOZÁSA[^715]
 
-1. A pótlap sorszáma:[^715]
+1. A pótlap sorszáma:[^716]
 
-2. Az indítványozott szakértői alkalmazási mód:[^716]
+2. Az indítványozott szakértői alkalmazási mód:[^717]
 
 magánszakértő □
 
@@ -94,7 +94,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-Szakértő kirendelésének indítványozása esetén a szakértő által megválaszolandó kérdések:[^717]
+Szakértő kirendelésének indítványozása esetén a szakértő által megválaszolandó kérdések:[^718]
 
 ________________________________________________________________________________________________________
 
@@ -124,10 +124,10 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-[^711]: Ezt a nyomtatványt kell kitölteni, ha a fél perben tényállításait tanúval kívánja bizonyítani. Ha több tanú meghallgatását indítványozza, a további tanúbizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
-[^712]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
-[^713]: A tanú lakóhelye, tartózkodási helye csak akkor tölthető ki, ha a tanú előzetesen hozzájárult adatainak feltüntetéséhez, vagy ha az adatokat valamennyi peres fél ismeri, vagy ha azok valamely közhiteles nyilvántartásból bárki számára megismerhető. A hozzájárulás megadásáról vagy a tanú címének ismertségéről a nyomtatványon nyilatkozni kell. Ha a tanú adatainak feltüntetéséhez nem járul hozzá, a tanú idézhető címét külön lapon kell a nyomtatványhoz csatolni.
-[^714]: Ezt a nyomtatványt kell kitölteni, ha a fél tényállításainak bizonyítása olyan különleges szakértelmet kíván, ami szakértő igénybevételét indokolja.
-[^715]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
-[^716]: A fél három módon vehet igénybe szakértőt a perben, amelyek közül az indítványában választania kell. Vagy maga bízza meg a szakértőt a szakvélemény elkészítésével, de ebben az esetben is indítványoznia kell azt a nyomtatványon anélkül, hogy a szakértő személyét megnevezné. Ha magánszakértőt nem kíván igénybe venni, akkor vagy más eljárásban kirendelt szakértő szakvéleményét használja fel, vagy a szakértő kirendelését a bíróságtól kéri. Magánszakértő alkalmazása esetén a szakvélemény elkészítéséhez szükséges adatokat és kérdéseket a fél szolgáltatja a szakértőnek a bíróság közreműködése nélkül, míg szakértő kirendelése esetén a kirendelést a fél kérdései alapján a bíróság készíti el. Más eljárásban kirendelt szakértő akkor alkalmazható, ha egy másik, bármilyen eljárásban már szakértőt rendeltek ki és a szakértő abban a perbeli szakkérdést is érintő szakvélemény készített. A kívánt szakértői alkalmazási módot egyértelműen jelölje meg X-szel. Csak egyféle mód adható meg, csak egy négyzetet jelölhet meg X-szel.
-[^717]: Kitöltendő akkor, ha a fél a 2. pontban szakértő kirendelését indítványozza. Ebben az esetben a szakértő kirendelésére irányuló indítványban fel kell tüntetni azokat a kérdéseket, amelyeket a szakértőnek a szakvéleményében meg kell válaszolnia. Magánszakértői bizonyítás indítványozása esetén a szakértőhöz intézett kérdéseket a bizonyítási indítvány nem tartalmazza.
+[^712]: Ezt a nyomtatványt kell kitölteni, ha a fél perben tényállításait tanúval kívánja bizonyítani. Ha több tanú meghallgatását indítványozza, a további tanúbizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^713]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^714]: A tanú lakóhelye, tartózkodási helye csak akkor tölthető ki, ha a tanú előzetesen hozzájárult adatainak feltüntetéséhez, vagy ha az adatokat valamennyi peres fél ismeri, vagy ha azok valamely közhiteles nyilvántartásból bárki számára megismerhető. A hozzájárulás megadásáról vagy a tanú címének ismertségéről a nyomtatványon nyilatkozni kell. Ha a tanú adatainak feltüntetéséhez nem járul hozzá, a tanú idézhető címét külön lapon kell a nyomtatványhoz csatolni.
+[^715]: Ezt a nyomtatványt kell kitölteni, ha a fél tényállításainak bizonyítása olyan különleges szakértelmet kíván, ami szakértő igénybevételét indokolja.
+[^716]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^717]: A fél három módon vehet igénybe szakértőt a perben, amelyek közül az indítványában választania kell. Vagy maga bízza meg a szakértőt a szakvélemény elkészítésével, de ebben az esetben is indítványoznia kell azt a nyomtatványon anélkül, hogy a szakértő személyét megnevezné. Ha magánszakértőt nem kíván igénybe venni, akkor vagy más eljárásban kirendelt szakértő szakvéleményét használja fel, vagy a szakértő kirendelését a bíróságtól kéri. Magánszakértő alkalmazása esetén a szakvélemény elkészítéséhez szükséges adatokat és kérdéseket a fél szolgáltatja a szakértőnek a bíróság közreműködése nélkül, míg szakértő kirendelése esetén a kirendelést a fél kérdései alapján a bíróság készíti el. Más eljárásban kirendelt szakértő akkor alkalmazható, ha egy másik, bármilyen eljárásban már szakértőt rendeltek ki és a szakértő abban a perbeli szakkérdést is érintő szakvélemény készített. A kívánt szakértői alkalmazási módot egyértelműen jelölje meg X-szel. Csak egyféle mód adható meg, csak egy négyzetet jelölhet meg X-szel.
+[^718]: Kitöltendő akkor, ha a fél a 2. pontban szakértő kirendelését indítványozza. Ebben az esetben a szakértő kirendelésére irányuló indítványban fel kell tüntetni azokat a kérdéseket, amelyeket a szakértőnek a szakvéleményében meg kell válaszolnia. Magánszakértői bizonyítás indítványozása esetén a szakértőhöz intézett kérdéseket a bizonyítási indítvány nem tartalmazza.

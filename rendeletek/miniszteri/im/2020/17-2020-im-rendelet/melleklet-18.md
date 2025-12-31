@@ -4,9 +4,9 @@ Egyéb bizonyítás indítványozása iránti pótlap nyomtatvány
 
 PÓTLAP
 
-EGYÉB BIZONYÍTÁS INDÍTVÁNYOZÁSA[^720]
+EGYÉB BIZONYÍTÁS INDÍTVÁNYOZÁSA[^721]
 
-1. A pótlap sorszáma:[^721]
+1. A pótlap sorszáma:[^722]
 
 2. Az egyéb bizonyítási indítvány
 
@@ -40,5 +40,5 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-[^720]: Egyéb bizonyítási indítvány lehet pl. a szemle tartására irányuló indítvány, amikor a perben jelentős tény megállapításához helyszín, tárgy, személy közvetlen megvizsgálása, megtekintése szükséges, továbbá a más bíróságnál, közjegyzőnél, más hatóságnál, közigazgatási szervnél vagy valamely szervezetnél lévő irat, illetve adat beszerzése iránti indítvány. Ha több egyéb bizonyítási indítványt tesz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
-[^721]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^721]: Egyéb bizonyítási indítvány lehet pl. a szemle tartására irányuló indítvány, amikor a perben jelentős tény megállapításához helyszín, tárgy, személy közvetlen megvizsgálása, megtekintése szükséges, továbbá a más bíróságnál, közjegyzőnél, más hatóságnál, közigazgatási szervnél vagy valamely szervezetnél lévő irat, illetve adat beszerzése iránti indítvány. Ha több egyéb bizonyítási indítványt tesz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^722]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
