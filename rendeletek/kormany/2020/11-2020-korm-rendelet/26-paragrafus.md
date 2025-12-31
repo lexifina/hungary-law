@@ -6,7 +6,7 @@
 
 a) a képzési program megnevezését,
 
-b)[^79]
+b)[^82]
 
 c) a képzésben részt vevő személyek családi és utónevét,
 
@@ -14,7 +14,7 @@ d) a képzés oktatóinak nevét az általuk oktatott tananyagrész megnevezés�
 
 e) a c) és d) pont szerinti adatokban bekövetkezett változást a változás időpontjával.
 
-(3)[^80] A haladási napló az egységes dokumentumnak az Fktv. 15. § (1) bekezdésében meghatározott határidő szerint folyamatosan vezetett része, amely tartalmazza
+(3)[^83] A haladási napló az egységes dokumentumnak az Fktv. 15. § (1) bekezdésében meghatározott határidő szerint folyamatosan vezetett része, amely tartalmazza
 
 a) az Fktv. 2. § 8. pontja szerinti, a képzésben részt vevő személyes jelenlétét igénylő kontaktórás foglalkozás
 
@@ -40,5 +40,5 @@ c) a képzés befejezésének dátumát.
 
 (4) Az egységes dokumentum elektronikus formában is vezethető. Ha az egységes dokumentum valamely részét aláírással kell ellátni, az elektronikus formában vezetett egységes dokumentumot az oktatók és a résztvevők a dokumentumot legalább fokozott biztonságú elektronikus aláírással látják el.
 
-[^79]: A 26. § (2) bekezdés b) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 13. pontja hatályon kívül helyezte.
-[^80]: A 26. § (3) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 225/2025. (VII. 24.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^82]: A 26. § (2) bekezdés b) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 13. pontja hatályon kívül helyezte.
+[^83]: A 26. § (3) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 225/2025. (VII. 24.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

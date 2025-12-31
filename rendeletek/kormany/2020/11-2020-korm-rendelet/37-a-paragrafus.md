@@ -1,3 +1,3 @@
-37/A. §[^119] A 2020. december 31-éig nyilvántartásba vett felnőttképzési szakértő a 15. § (1) bekezdése szerinti továbbképzési kötelezettségét első alkalommal 2021. június 30-áig teljesítheti.
+37/A. §[^122] A 2020. december 31-éig nyilvántartásba vett felnőttképzési szakértő a 15. § (1) bekezdése szerinti továbbképzési kötelezettségét első alkalommal 2021. június 30-áig teljesítheti.
 
-[^119]: A 37/A. §-t a 95/2021. (II. 27.) Korm. rendelet 6. §-a iktatta be.
+[^122]: A 37/A. §-t a 95/2021. (II. 27.) Korm. rendelet 6. §-a iktatta be.

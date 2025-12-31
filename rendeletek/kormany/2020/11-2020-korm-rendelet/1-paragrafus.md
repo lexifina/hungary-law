@@ -6,6 +6,8 @@
 
 1. § (1)[^2] A felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 2/B. § (1) bekezdés b) pontja szerinti vagyoni biztosítékkal az engedély alapján végzett felnőttképzési tevékenység teljes időtartamára és a felnőttképzési tevékenység megszűnését követő hat hónapig kell rendelkezni az előlegként befizetett képzési díj azon részének a visszafizetése céljából, amelyre a felnőttképzési tevékenység bármely okból történő ellehetetlenülése miatt a felnőttképző már nem nyújtott szolgáltatást. A vagyoni biztosíték felhasználásához és megszüntetéséhez a felnőttképzési államigazgatási szerv jóváhagyása szükséges.
 
+(1a)[^3] A vagyoni biztosítékkal rendelkező felnőttképző a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti átalakulása, egyesülése vagy szétválása esetén, ha a jogutód a felnőttképzési tevékenységet tovább folytatja, a jogelőd felnőttképző vagyoni biztosítéka a jogutódot illeti.
+
 (2) A vagyoni biztosíték formája lehet
 
 a) egy vagy több biztosítóval kötött biztosítási szerződés,
@@ -32,3 +34,4 @@ a felnőttképzési államigazgatási szerv intézkedik a képzési díj vagyoni
 
 [^1]: Az I. fejezet címe a 95/2021. (II. 27.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 8. § b) pontja, a 688/2021. (XII. 8.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 473/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
