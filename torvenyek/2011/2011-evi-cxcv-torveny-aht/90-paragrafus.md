@@ -16,7 +16,7 @@ d) az állami kezességek, állami garanciák és állami viszontgaranciák áll
 
 e) az állam tulajdonában álló részesedések, valamint az állam többségi befolyása alatt álló gazdasági társaságok kötelezettségállománya alakulását,
 
-f) a középtávú tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
+f) a középtávú tervezés során figyelembe vett, valamint a Költségvetési Tanács által utólagosan értékelt makrogazdasági és költségvetési előrejelzés értékelését,
 
 g) a zárszámadásról szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként,
 

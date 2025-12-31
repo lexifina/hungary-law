@@ -109,3 +109,5 @@
 (48) A 2025. január 1-jét megelőzően a Közvetlen uniós programok támogatása előirányzat terhére létrejött támogatási jogviszonyokra, a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatokra a Kormány rendeletében meghatározott, e jogviszonyok létrejöttekor hatályos előleg-elszámolási szabályokat kell alkalmazni.
 
 (49) A 2025. január 1-je és a Módtv5. hatálybalépése közötti időszakban az 51. § (4b) bekezdése szerinti szervek és szervezeteknek a nem a kincstárnál vezetett fizetési számláján lévő, de a kincstár által vezetett fizetési számlára átutalt támogatási összeget a kincstár a kedvezményezett részére visszatéríti.
+
+(50) E törvénynek az államháztartási tárgyú törvényeknek a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011/85/EU irányelv módosításáról szóló, 2024. április 29-i (EU) 2024/1265 tanácsi irányelv átültetésével összefüggő módosításáról szóló 2025. évi XCI. törvénnyel megállapított 22. § (3) bekezdés c) pontját, valamint 22. § (4) bekezdés c) pontját első alkalommal a 2027. évi központi költségvetés tervezése során kell alkalmazni.

@@ -10,7 +10,7 @@ a) tájékoztatást ad a több év költségvetési kiadási előirányzatait te
 
 b) a 29. § (1) bekezdése szerinti tervszámokkal, mint változatlan szakpolitikát jelentő fiskális pályával összhangban, indokolással együtt bemutatja a tárgyévet követő négy év tervezett költségvetési bevételi előirányzatainak és költségvetési kiadási előirányzatainak keretszámait főbb csoportokban, valamint a 29. § (1) bekezdése szerinti tervszámoktól mint változatlan szakpolitikától történő eltérés esetén az eltérés indokait,
 
-c) ismerteti a középtávú költségvetési tervezés részeként a fő kormányzati politikák hosszú távú fenntarthatóságának felmérését, a közvetlen hosszú távú hatással rendelkező szakpolitikák bemutatásával, így különösen bemutatja az állami nyugdíj, egészségügyi, oktatási és egyéb korfüggő kiadások hosszú távú alakulását,
+c) ismerteti a középtávú költségvetési tervezés részeként az állami kezességek, az állami garanciák és az állami viszontgaranciák – ideértve a természeti jelenségből vagy az emberi tevékenységből eredő természeti katasztrófákkal, valamint az éghajlatváltozás káros hatásainak elkerülésével kapcsolatban vállalt állami kezességek, állami garanciák és állami viszontgaranciák – állományát, valamint a fő kormányzati politikák hosszú távú fenntarthatóságának felmérését, a közvetlen hosszú távú hatással rendelkező szakpolitikák bemutatásával, így különösen bemutatja az állami nyugdíj, egészségügyi, oktatási és egyéb korfüggő kiadások hosszú távú alakulását,
 
 d) ismerteti a kormányzati szektor Gst. 1. § c) pontja szerinti egyenlegére és a Gst. 1. § e) pontja szerinti strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait,
 
@@ -22,7 +22,7 @@ a) az államháztartás költségvetési bevételeit és költségvetési kiadá
 
 b) az államháztartás alrendszerei költségvetési egyenlegének összefüggését és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor hiányával, és az ugyanott meghatározott kamatkiadásokat figyelmen kívül hagyó elsődleges egyenlegmutatóval, és
 
-c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként.
+c) a központi költségvetésről szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó, azok bevételekre gyakorolt hatását is részletező kimutatást adónemenként, kitérve ezeknek az éghajlattal és környezetvédelemmel összefüggő kötelezettségek teljesítésére gyakorolt hatására.
 
 (5) A Kormány a központi költségvetésről szóló törvényjavaslat szerkezetéhez igazodó részletező táblázatokat és ezek szöveges indokolásait a központi költségvetésről szóló törvényjavaslat benyújtását követő tíz napon belül, a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatot pedig akként nyújtja be az Országgyűlésnek, hogy az a központi költségvetésről szóló törvénnyel legalább egyidejűleg hatályba lépjen.
 
