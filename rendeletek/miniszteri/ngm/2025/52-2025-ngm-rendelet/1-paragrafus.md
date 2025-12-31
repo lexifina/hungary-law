@@ -4,4 +4,6 @@
 
 ## [3] A kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet 12. § (1) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 12. és 21. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. és 26. pontjában meghatározott feladatkörében eljáró belügyminiszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 4. és 5. pontjában meghatározott feladatkörében eljáró Miniszterelnöki Kabinetirodát vezető miniszterrel egyetértésben – a következőket rendelem el:
 
-1. § A kábítószer-prekurzorokkal kapcsolatos hatósági feladatok ellátásához szükséges tárolandó adatok köréről és az adatokhoz való hozzáférés rendjéről szóló 49/2007. (IV. 26.) GKM–EüM–IRM–MeHVM–PM együttes rendelet 6. § (4) bekezdésében és 8. §-ában a „hatóság” szövegrész helyébe a „hatóság, polgári nemzetbiztonsági szolgálat” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
