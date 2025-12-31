@@ -2,6 +2,6 @@
 
 ## [2] A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
 
-1. § A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A Főigazgatóság a kormányzat központi logisztikai szerveként, illetve központi beszerző szervként:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
