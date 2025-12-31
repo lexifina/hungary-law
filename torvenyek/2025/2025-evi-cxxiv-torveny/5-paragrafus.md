@@ -1,9 +1,9 @@
 5. § Hatályát veszti a Kvt.
 
-a) 66. § (1a) bekezdése,
+a)
 
-b) 67. § (4) bekezdése,
+b)
 
 c)
 
-d) 114. §-a.
+d)
