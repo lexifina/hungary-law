@@ -1,0 +1,3 @@
+34. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 132. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az alperes legkésőbb az első tárgyaláson viszontkeresetet indíthat, vagy beszámítási kérelmet terjeszthet elő, ha az így érvényesíteni kívánt jog a felperes keresetével azonos vagy azzal összefüggő jogviszonyból származik, vagy a viszontkereset tárgyául szolgáló követelés a felperes kereseti követelésével szemben beszámításra alkalmas. Az e törvény rendelkezéseinek megsértésével előterjesztett viszontkeresetet és beszámítási kérelmet vissza kell utasítani. A viszontkeresetre a keresetlevél szabályait megfelelően alkalmazni kell.”
