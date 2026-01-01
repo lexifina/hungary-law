@@ -1,4 +1,4 @@
-## 29/A.[^25] Digitális szolgáltatások korlátozása
+## 29/A.[^35] Digitális szolgáltatások korlátozása
 
 48/A. § (1) A Kormány által biztosított kézbesítési szolgáltatás kijelölt szolgáltatója a felhasználó tekintetében jogosult ellenőrizni, hogy a hivatalos elérhetőségére küldött dokumentumok esetében egymást követően az átvétel ténye mennyi ideig nem igazolható.
 
@@ -8,4 +8,4 @@
 
 (4) A felfüggesztés megszüntetése az ügyfél-regisztrációs szerv előtt személyesen lehetséges.
 
-[^25]: A 29/A. alcímet (48/A. §-t) a 164/2025. (VI. 23.) Korm. rendelet 13. §-a iktatta be.
+[^35]: A 29/A. alcímet (48/A. §-t) a 164/2025. (VI. 23.) Korm. rendelet 13. §-a iktatta be.

@@ -1,8 +1,8 @@
 ## VI. Fejezet
 
-## A DIGITÁLIS ÁLLAMPOLGÁRSÁG SZOLGÁLTATÓ ÉS AZ ÉLETESEMÉNY-ALAPÚ SZOLGÁLTATÁS SZOLGÁLTATÓJÁNAK ADATKEZELÉSE[^17]
+## A DIGITÁLIS ÁLLAMPOLGÁRSÁG SZOLGÁLTATÓ ÉS AZ ÉLETESEMÉNY-ALAPÚ SZOLGÁLTATÁS SZOLGÁLTATÓJÁNAK ADATKEZELÉSE[^22]
 
-14. §[^18] (1) A digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója (e § alkalmazásában a továbbiakban együtt: szolgáltató) a felhasználóra vonatkozóan a személyazonosság igazolására alkalmas hatósági igazolványon és annak tárolóelemén, az egyedi azonosítót tartalmazó hatósági igazolványon, valamint a jogosultságot vagy jogviszonyt igazoló okmányon található adatokat (a továbbiakban együtt: okmány adatok), továbbá a felhasználó személyes adatát az általa nyújtott szolgáltatás során a (2) bekezdésben meghatározott célból felhasználja.
+14. §[^23] (1) A digitális állampolgárság szolgáltató és az életesemény-alapú szolgáltatás szolgáltatója (e § alkalmazásában a továbbiakban együtt: szolgáltató) a felhasználóra vonatkozóan a személyazonosság igazolására alkalmas hatósági igazolványon és annak tárolóelemén, az egyedi azonosítót tartalmazó hatósági igazolványon, valamint a jogosultságot vagy jogviszonyt igazoló okmányon található adatokat (a továbbiakban együtt: okmány adatok), továbbá a felhasználó személyes adatát az általa nyújtott szolgáltatás során a (2) bekezdésben meghatározott célból felhasználja.
 
 (2) A szolgáltató
 
@@ -68,5 +68,5 @@ köthető célból kezeli.
 
 (6) A szolgáltató a (2) bekezdés szerinti célból elérhető életesemény-alapú szolgáltatásról a honlapján ad tájékoztatást.
 
-[^17]: A VI. Fejezet címe a 164/2025. (VI. 23.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.
-[^18]: A 14. § a 164/2025. (VI. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^22]: A VI. Fejezet címe a 164/2025. (VI. 23.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.
+[^23]: A 14. § a 164/2025. (VI. 23.) Korm. rendelet 10. §-ával megállapított szöveg.

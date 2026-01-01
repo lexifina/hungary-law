@@ -1,4 +1,4 @@
-2. melléklet a 321/2024. (XI. 6.) Korm. rendelethez[^42]
+2. melléklet a 321/2024. (XI. 6.) Korm. rendelethez[^52]
 
 A nemzeti digitális irattárca szolgáltatás keretében a 7. § (1) bekezdés a) pontja szerint a felhasználó számára megjeleníthető adatok
 
@@ -14,9 +14,11 @@ A nemzeti digitális irattárca szolgáltatás keretében a 7. § (1) bekezdés 
 
 2.4. személyazonosság igazolására alkalmas hatósági igazolványok okmányazonosítója és érvényességének ténye
 
+2.5.[^53] arcképmás
+
 3. Adóazonosító jel
 
-4. Társadalombiztosítási azonosító jel
+4.[^54] Társadalombiztosítási Azonosító Jel
 
 5. A közúti közlekedési nyilvántartásból a felhasználó tulajdonában, üzemeltetésében álló jármű adataira vonatkozóan:
 
@@ -30,4 +32,15 @@ A nemzeti digitális irattárca szolgáltatás keretében a 7. § (1) bekezdés 
 
 5.5. járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére vonatkozó adatok
 
-[^42]: A 2. mellékletet a 164/2025. (VI. 23.) Korm. rendelet 17. §-a iktatta be.
+6.[^55] Az ingatlan-nyilvántartásból:
+
+6.1. az ingatlan-nyilvántartási tulajdonilap-másolat tartalma
+
+6.2. térkép tartalma
+
+6.3. földkönyv tartalma
+
+[^52]: A 2. mellékletet a 164/2025. (VI. 23.) Korm. rendelet 17. §-a iktatta be.
+[^53]: A 2. melléklet 2. pont 2.5. alpontját a 483/2025. (XII. 31.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^54]: A 2. melléklet 4. pontja a 483/2025. (XII. 31.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^55]: A 2. melléklet 6. pontját a 483/2025. (XII. 31.) Korm. rendelet 23. § (1) bekezdése iktatta be.

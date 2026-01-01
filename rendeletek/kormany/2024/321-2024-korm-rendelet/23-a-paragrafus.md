@@ -1,4 +1,4 @@
-## 16/A.[^20] Aggregátum szolgáltatás
+## 16/A.[^26] Aggregátum szolgáltatás
 
 23/A. § (1) Az aggregátum szolgáltató (ezen alcím alkalmazásában a továbbiakban: szolgáltató) az általa nyújtott aggregátum szolgáltatás keretében automatikus információátadási szolgáltatást (ezen alcím alkalmazásában a továbbiakban: szolgáltatás) nyújt. A szolgáltató a szolgáltatást igénybe vevőkről jogosultsági nyilvántartást vezet.
 
@@ -18,4 +18,4 @@ e) az adattovábbítás jogalapja, célja.
 
 (4) A szolgáltatás keretében az igénybe vevő számára átadható adatok körét és az adatátadás jogalapját a szolgáltató a (3) bekezdésben meghatározottak szerint közzéteszi.
 
-[^20]: A 16/A. alcímet (23/A–23/C. §-t) a 164/2025. (VI. 23.) Korm. rendelet 12. §-a iktatta be.
+[^26]: A 16/A. alcímet (23/A–23/C. §-t) a 164/2025. (VI. 23.) Korm. rendelet 12. §-a iktatta be.

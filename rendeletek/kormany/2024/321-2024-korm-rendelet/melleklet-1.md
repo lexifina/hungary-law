@@ -1,4 +1,4 @@
-1. melléklet a 321/2024. (XI. 6.) Korm. rendelethez[^40]
+1. melléklet a 321/2024. (XI. 6.) Korm. rendelethez[^50]
 
 A digitális állampolgárság szolgáltató által a keretalkalmazás igénybevételével nyújtott életesemény-alapú szolgáltatások és a szolgáltatások keretében a közhiteles nyilvántartásból igényelhető adatok
 
@@ -60,7 +60,7 @@ A digitális állampolgárság szolgáltató által a keretalkalmazás igénybev
 
 2.1.3. igazolni kért tény
 
-2.1.4.[^41] állampolgárság
+2.1.4.[^51] állampolgárság
 
-[^40]: Az 1. mellékletet a 164/2025. (VI. 23.) Korm. rendelet 16. §-a iktatta be.
-[^41]: Az 1. melléklet 2. pont 2.1. alpont 2.1.4. pontját a 216/2025. (VII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^50]: Az 1. mellékletet a 164/2025. (VI. 23.) Korm. rendelet 16. §-a iktatta be.
+[^51]: Az 1. melléklet 2. pont 2.1. alpont 2.1.4. pontját a 216/2025. (VII. 22.) Korm. rendelet 13. §-a iktatta be.
