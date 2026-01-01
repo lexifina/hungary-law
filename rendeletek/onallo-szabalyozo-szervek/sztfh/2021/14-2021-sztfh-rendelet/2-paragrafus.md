@@ -28,6 +28,9 @@ h) Magyarország vagy az Európai Gazdasági Térségről szóló megállapodás
 
 ## lehet.
 
-(4) A felszámoló szervezetnek a Cstv. 27/C. § (2) bekezdés c)–d) és f) pontjában előírt feltételek fennállásáról nyilatkozatot kell tennie.
+(4)[^1] A felszámoló szervezet a Cstv. 27/C. § (2) bekezdés c), d) és f) pontjában előírt feltételek fennállását, illetve meglétét közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatával igazolja.
 
-(5) A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló szervezet egy-egy fő közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá két fő, a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. A foglalkoztatott közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók (kivéve a könyvvizsgálót), valamint a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyek közül legalább egy-egy főnek, összesen legalább két főnek munkaviszonyban kell állnia a felszámoló szervezettel. E feltételek teljesítését a Cstv.-ben és az 1. melléklet 1. pont b) alpontjában meghatározott okiratokkal kell igazolni.
+(5)[^2] A felszámoló szervezet a Cstv. 27/C. § (2) bekezdés g) pontjában előírt feltételek teljesítését a Cstv.-ben és az 1. melléklet 1. pont b) alpontjában meghatározott okiratokkal igazolja.
+
+[^1]: A 2. § (4) bekezdése a 14/2025. (XII. 22.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^2]: A 2. § (5) bekezdése a 14/2025. (XII. 22.) SZTFH rendelet 7. §-ával megállapított szöveg.

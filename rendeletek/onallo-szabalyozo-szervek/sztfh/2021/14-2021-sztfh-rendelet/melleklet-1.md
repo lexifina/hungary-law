@@ -6,9 +6,9 @@
 
 a) a Cstv. 27/C. § (4) bekezdése szerinti azon adatokra vonatkozó nyilatkozatot, amely adatokat a pályázó egyéb nyilatkozatai nem tartalmaznak, és a Cstv. 27/C. § (4) bekezdése szerinti azon adatokat igazoló okiratokat, amelyek a Hatóság által a külön jogszabályok szerint nem ismerhetők meg,
 
-b) a 2. § (5) bekezdésében említett személyek iskolai végzettségét, szakképesítését, szakképzettségét igazoló okiratok másolatait, továbbá nyilatkozatot vagy igazolást arról, hogy az említetteket milyen jogviszonyban foglalkoztatja, vagy a névjegyzékbe való felvétele esetén az említett személyek foglalkoztatására irányuló kötelezettségvállalást tanúsító megállapodást, amennyiben a 2. § (5) bekezdésében említett személyeken túl további személyeket is foglalkoztatni kíván, úgy e személyek iskolai végzettségét, szakképesítését, szakképzettségét igazoló okiratok másolatait, továbbá nyilatkozatot vagy igazolást arról, hogy az említetteket milyen jogviszonyban foglalkoztatja, vagy a névjegyzékbe való felvétele esetén az említett személyek foglalkoztatására irányuló kötelezettségvállalást tanúsító megállapodást,
+b)[^7] a Cstv. 27/C. § (2) bekezdés g) pontjában felsorolt személyek iskolai végzettségét, szakképesítését, szakképzettségét igazoló okiratok másolatait, továbbá nyilatkozatot vagy igazolást arról, hogy az említetteket milyen jogviszonyban foglalkoztatja, vagy a névjegyzékbe való felvétele esetén az említett személyek foglalkoztatására irányuló kötelezettségvállalást tanúsító megállapodást, amennyiben a Cstv. 27/C. § (2) bekezdés g) pontjában felsorolt személyeken túl további személyeket is foglalkoztatni kíván, úgy e személyek iskolai végzettségét, szakképesítését, szakképzettségét igazoló okiratok másolatait, továbbá nyilatkozatot vagy igazolást arról, hogy az említetteket milyen jogviszonyban foglalkoztatja, vagy a névjegyzékbe való felvétele esetén az említett személyek foglalkoztatására irányuló kötelezettségvállalást tanúsító megállapodást,
 
-c) a pályázó nyilatkozatát arról, hogy a 2. § (5) bekezdésében említett személyeknek van-e és milyen időtartamú szakmai gyakorlatuk felszámolóbiztosként, vagyonfelügyelőként vagy reorganizációs, követeléskezelői, kockázatkezelési szakterületeken,
+c)[^8] a pályázó nyilatkozatát arról, hogy a Cstv. 27/C. § (2) bekezdés g) pontjában felsorolt személyeknek van-e és milyen időtartamú szakmai gyakorlatuk felszámolóbiztosként, vagyonfelügyelőként vagy reorganizációs, követeléskezelői, kockázatkezelési szakterületeken,
 
 d) a 2. § (3) bekezdésében előírt vagyoni biztosíték teljesítését igazoló okiratok másolatát, a névjegyzékben még nem szereplő pályázó esetén a vagyoni biztosítéknak a névjegyzékbe való felvételről szóló döntés esetén történő rendelkezésre bocsátására történő kötelezettségvállalását,
 
@@ -37,3 +37,6 @@ m) a pályázatban szerepeltetett személyek nyilatkozatát a jogszabályi és a
 2. A Hatóság az e célra rendszeresített elektronikus űrlapokat és nyilatkozatmintákat a honlapján közzéteszi.
 
 3. A pályázónak meg kell jelölnie azt is, hogy a székhelyén kívül – a 2. § (1) bekezdés b) pontja szerinti pályázó esetén pedig a magyarországi cégbejegyzése helyén kívül – melyik ítélőtábla (ítélőtáblák) illetékességi területén folytatja tevékenységét (működési terület). Működési területként olyan ítélőtábla illetékességi területét kell megjelölni, ahol a pályázónak székhelye vagy fióktelepe van.
+
+[^7]: Az 1. melléklet 1. pont b) alpontja a 14/2025. (XII. 22.) SZTFH rendelet 9. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 1. pont c) alpontja a 14/2025. (XII. 22.) SZTFH rendelet 9. § c) pontja szerint módosított szöveg.
