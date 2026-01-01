@@ -50,6 +50,8 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 
 (24)[^55] A 10., 11., 21. és 22. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet mézre, gyümölcslevekre, gyümölcsdzsemekre, valamint tartós tejtermékekre vonatkozó módosításáról szóló 51/2025. (XII. 16.) AM rendelettel (a továbbiakban: MódR13.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR13. hatálybalépésének[^56] napját megelőző napon hatályos előírásoknak megfelelő, 10., 11., 21. és 22. melléklet szerinti termékek 2026. június 14-ig forgalomba hozhatók, és a minőségmegőrzési vagy fogyaszthatósági idejük lejártáig forgalomban tarthatók.
 
+(25)[^57] A 13. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet tejtermékekről szóló előírása tekintetében történő módosításáról szóló 60/2025. (XII. 29.) AM rendelettel (a továbbiakban: MódR14.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR14. hatálybalépésének[^58] napját megelőző napon hatályos előírásoknak megfelelő, 13. melléklet szerinti termékek a MódR14. hatálybalépésének napjától számított 12. hónap utolsó napjáig előállíthatóak, forgalomba hozhatók és a fogyaszthatósági vagy minőségmegőrzési idejük lejártáig forgalomban tarthatók.
+
 [^23]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^24]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^25]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
@@ -84,3 +86,5 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 [^54]: A hatálybalépés időpontja 2025. december 19.
 [^55]: A 2. § (24) bekezdését az 51/2025. (XII. 16.) AM rendelet 1. §-a iktatta be.
 [^56]: A hatálybalépés időpontja 2025. december 19.
+[^57]: A 2. § (25) bekezdését a 60/2025. (XII. 29.) AM rendelet 1. §-a iktatta be.
+[^58]: A hatálybalépés időpontja 2026. január 1.

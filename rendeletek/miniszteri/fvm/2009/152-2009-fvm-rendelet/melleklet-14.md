@@ -10,7 +10,7 @@
 
 ## 2. Az előírásban szereplő tejtermék megnevezések a forgalomba hozott termékek esetén kizárólag akkor használhatók, ha a termékek megfelelnek ezen előírásban foglalt követelményeknek.
 
-## 3.[^83] Az előírás nem alkalmazandó az (EU) 2024/1143 európai parlamenti és tanácsi rendelet alapján oltalom alatt álló földrajzi árujelzővel ellátott vagy hagyományos különleges termékként bejegyzett tejtermékekre.
+## 3.[^86] Az előírás nem alkalmazandó az (EU) 2024/1143 európai parlamenti és tanácsi rendelet alapján oltalom alatt álló földrajzi árujelzővel ellátott vagy hagyományos különleges termékként bejegyzett tejtermékekre.
 
 ## 4. Az ebben az előírásban meghatározott technikai jellegű előírásoknak nem kell megfelelnie azon termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme vonatkozásában az ezen előírásban meghatározottal egyenértékű védelmet nyújtanak.
 
@@ -44,7 +44,7 @@
 
 ## 12.1. pasztőrözés:
 
-## 12.1.1.[^84] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
+## 12.1.1.[^87] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
 
 ## 12.1.2. pillanathevítés: olyan hőkezelés, amely során a tejet, tejszínt vagy a tejterméket 100 °C alatti hőmérsékleten olyan hőmérséklet-idő kombinációval kezelik, amely eredményeként a hőkezelés után az alkalikus-foszfatáz- és a peroxidáz-próba egyaránt negatív;
 
@@ -54,7 +54,7 @@
 
 ## 13. Író: köpüléskor a zsír kiválása után a tejfölből, tejszínből visszamaradó folyékony termék.
 
-## 14.[^85] Ízesítőanyag: gyümölcs-, zöldségkészítmények, fűszerek, cukor, méz, egyéb élelmiszerek, az 1334/2008/EK európai parlamenti és tanácsi rendelet szerinti aromák (például növényi kivonatok), amelyeket a termékek jellegzetes ízének elérése érdekében adnak a termékhez.
+## 14.[^88] Ízesítőanyag: gyümölcs-, zöldségkészítmények, fűszerek, cukor, méz, egyéb élelmiszerek, az 1334/2008/EK európai parlamenti és tanácsi rendelet szerinti aromák (például növényi kivonatok), amelyeket a termékek jellegzetes ízének elérése érdekében adnak a termékhez.
 
 ## 15. Kéregflóra: a sajt kiszáradt felületén, a kérgén megtelepedő, emberi egészségre ártalmatlan mikroorganizmusok összessége.
 
@@ -110,7 +110,7 @@
 
 ## 39. Vízmentes tejzsír: legalább 99,8% tejzsírt és legfeljebb 0,1% vizet tartalmazó termék.
 
-## III.[^86]
+## III.[^89]
 
 ## 1. Ízesített termék esetén az ízesítőanyag mennyiségének – ahol nincs erre vonatkozó előírás – a termék jellegzetességét biztosító arányúnak kell lennie.
 
@@ -170,7 +170,7 @@
 
 ## 1.1.1. Ízesített tejkészítmények
 
-## 1.1.1.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4, a kakaós tej és a karamellás tej kivételével, amelyekhez nem adható színezék.
+## 1.1.1.1.[^90] Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4.
 
 ## 1.1.1.2. Ízesített tejkészítmény a tejből ízesítőanyagok, továbbá színezékek és egyéb élelmiszer-adalékanyagok hozzáadásával előállított termék. A késztermékben a tejhányad legalább 70% (m/m), az állomány folyékony, zselírozott vagy szilárd.
 
@@ -180,7 +180,7 @@
 
 ## 1.1.2.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 14.1.4
 
-## 1.1.2.2.[^87] Tejalapú ital az a termék, amelyben a tejhányad legalább 50% (m/m), és az előállításához savót, írót, permeátumot vagy ezek keverékeit, ízesítőanyagot, továbbá szükség szerint vizet, színezéket és egyéb élelmiszer-adalékanyagot is felhasználnak.
+## 1.1.2.2.[^91] Tejalapú ital az a termék, amelyben a tejhányad legalább 50% (m/m), és az előállításához savót, írót, permeátumot vagy ezek keverékeit, ízesítőanyagot, továbbá szükség szerint vizet, színezéket és egyéb élelmiszer-adalékanyagot is felhasználnak.
 
 ## 1.1.3. Savó-, író- és permeátumalapú italok
 
@@ -250,49 +250,47 @@
 
 ## 1.4.2.1. A termék 1.3. pont szerinti zsírfokozatát fel kell tüntetni. Homogénezés esetén utalni kell a műveletre.
 
-## 2. SAVANYÚ TEJTERMÉKEK
+## 2.[^92] SAVANYÚ TEJTERMÉKEK
 
-## 2.1. A termékcsoport meghatározása
+## 2.1. A termékcsoport meghatározása: a termékcsoportba a megfelelően előkészített, hőkezelt tejből és szükség szerinti mennyiségben a 2.2. alpontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek hozzáadásával, savanyítással és alvasztással készült termékek tartoznak. Savanyú tejkészítménynek minősül a 10%-nál (m/m) kisebb zsírtartalmú termék, savanyú tejszínkészítménynek minősül a legalább 10% (m/m) és azt meghaladó zsírtartalmú termék.
 
-## A termékcsoportba a megfelelően előkészített, hőkezelt tejből és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek hozzáadásával, savanyítással és alvasztással készült termékek tartoznak. Savanyú tejnek minősül a 10%-nál (m/m) kisebb zsírtartalmú termék, savanyú tejszínnek minősül a legalább 10% (m/m) és azt meghaladó zsírtartalmú termék.
+## 2.1.1. Élőflórás, natúr savanyú tej- és tejszínkészítmények
 
-## 2.1.1. Élőflórás, natúr savanyú tejek és tejszínek
+## 2.1.1.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.2, 01.6
 
-## 2.1.1.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.2, 01.6, a tejföl kivételével, amelyhez nem adható élelmiszer-adalékanyag.
-
-## 2.1.1.2. Élőflórás natúr savanyú tej és tejszín az a termék, amelyet megfelelően előkészített, hőkezelt tejből, tejszínből és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek, illetve probiotikus mikrobatörzsek hozzáadásával, savanyítással (pH-csökkentés) és alvasztással állítottak elő, és a minőségmegőrzési időtartama lejártáig legalább a 2.3. pontban előírt mennyiségben tartalmazza a kultúrából származó élő, aktív mikroorganizmusokat. A termék nem tartalmazhat hozzáadott vizet.
-
-## 2.1.1.3. A savanyú tejek és tejszínek gyártásához a következő mikrobatenyészetek használhatók:
-
-## 2.1.1.3.1. joghurt: Streptococcus salivarius subsp. thermophilus és Lactobacillus delbrueckii subsp. bulgaricus szimbiotikus tenyészete, egyéb joghurtspecifikus tejsavbaktériumokból készített kultúrák;
-
-## 2.1.1.3.2. kefir: kefirgombából készített kultúrák (például Lactobacillus kefiri, Leuconostoc-, Lactococcus- és Acetobacter-félék jellemző arányban), laktózerjesztő élesztők (például Kluyveromyces marxianus), illetve laktózt nem erjesztő élesztők (például Saccharomyces unisporus, Saccharomyces cerevisiae, Saccharomyces exiguus, Debaryomyces hansenii);
-
-## 2.1.1.3.3. más fermentált tejtermékek: specifikus mezofil, illetve termofil tejsavbaktériumok egytörzs- vagy keveréktenyészete.
+## 2.1.1.2. Élőflórás, natúr savanyú tej- és tejszínkészítmény az a termék, amelyet megfelelően előkészített, hőkezelt tejből, tejszínből és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek, illetve probiotikus mikrobatörzsek hozzáadásával, savanyítással (pH-csökkentés) és alvasztással állítottak elő, és a minőségmegőrzési időtartama lejártáig legalább a 2.3. pontban előírt mennyiségben tartalmazza a kultúrából származó élő, aktív mikroorganizmusokat. A termék nem tartalmazhat hozzáadott vizet.
 
 ## 2.1.2. Élőflórás, ízesített savanyú tej- és tejszínkészítmények
 
-## 2.1.2.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.4
+## 2.1.2.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.4, 01.6
 
-## 2.1.2.2. Élőflórás, ízesített savanyú tej- és tejszínkészítmény az a termék, amelyet a 2.1.1. pont szerinti termékből ízesítőanyagok és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevők vagy azok egy részének hozzáadásával állítottak elő úgy, hogy a tejeredetű termékhányad legalább 70% (m/m). A végtermék a minőségmegőrzési időtartam lejártáig a 2.1.1. pont szerinti termék arányának megfelelő mennyiségben tartalmazza a kultúrából származó élő, aktív mikroorganizmusokat. Ha az ízesítésre gyümölcsöt használnak, annak hányada (az erős ízű, savas gyümölcsök kivételével) a végtermékben legalább 4% (m/m).
+## 2.1.2.2. Élőflórás, ízesített savanyú tej- és tejszínkészítmény az a termék, amelyet a 2.1.1. pont szerinti termékből ízesítőanyagok és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevők vagy azok egy részének hozzáadásával állítottak elő úgy, hogy a tejeredetű termékhányad legalább 70% (m/m). A végtermék a minőségmegőrzési időtartam lejártáig a 2.1.1. pont szerinti termék arányának megfelelő mennyiségben tartalmazza a kultúrából származó élő, aktív mikroorganizmusokat. Ha az ízesítésre gyümölcsöt használnak, annak hányada – az erős ízű, savas gyümölcsök kivételével – a végtermékben legalább 4% (m/m).
 
 ## 2.1.3. Nem élőflórás, natúr savanyú tej- és tejszínkészítmények
 
-## 2.1.3.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.3
+## 2.1.3.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.3, 01.6
 
-## 2.1.3.2. Nem élőflórás natúr savanyú tej- és tejszínkészítmény az a termék, amelyet olyan mikrobapusztító módszerrel (például utóhőkezeléssel) kezeltek, amelyet a 2.1.1. pont szerinti termékekből és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek hozzáadásával, savanyítással és alvasztással állítottak elő. A mikrobapusztítás következtében a termékben a romlást okozó, valamint a kultúrából származó mikroorganizmusok száma és aktivitása nagymértékben csökken, lehetővé téve a termék hosszabb ideig történő tárolását.
+## 2.1.3.2. Nem élőflórás natúr savanyú tej- és tejszínkészítmény az a termék, amelyet olyan mikrobapusztító módszerrel, például utóhőkezeléssel kezeltek, amelyet a 2.1.1. pont szerinti termékekből és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevőkből vagy azok egy részéből speciális mikrobatenyészetek hozzáadásával, savanyítással és alvasztással állítottak elő. A mikrobapusztítás következtében a termékben a romlást okozó, valamint a kultúrából származó mikroorganizmusok száma és aktivitása nagymértékben csökken, lehetővé téve a termék hosszabb ideig történő tárolását.
 
 ## 2.1.4. Nem élőflórás, ízesített savanyú tej- és tejszínkészítmények
 
-## 2.1.4.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.4
+## 2.1.4.1. Élelmiszer-kategória az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint: 01.4, 01.6
 
-## 2.1.4.2. Nem élőflórás, ízesített savanyú tej- és tejszínkészítmény az a termék, amelyet olyan mikrobapusztító módszerrel (például utóhőkezeléssel) kezeltek, amelyet a 2.1.1. pont szerinti termékekből ízesítőanyagok és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevők vagy azok egy részének hozzáadásával állítottak elő úgy, hogy a tejeredetű termékhányad legalább 70% (m/m). A mikrobapusztítás következtében a termékben a romlást okozó, valamint a kultúrából származó mikroorganizmusok száma és aktivitása nagymértékben csökken, lehetővé téve a termék hosszabb ideig történő tárolását. Ha az ízesítésre gyümölcsöt használnak, annak hányada (az erős ízű, savas gyümölcsök kivételével) a végtermékben legalább 4% (m/m).
+## 2.1.4.2. Nem élőflórás, ízesített savanyú tej- és tejszínkészítmény az a termék, amelyet olyan mikrobapusztító módszerrel, például utóhőkezeléssel kezeltek, amelyet a 2.1.1. pont szerinti termékekből ízesítőanyagok és szükség szerinti mennyiségben a 2.2. pontban felsorolt összetevők vagy azok egy részének hozzáadásával állítottak elő úgy, hogy a tejeredetű termékhányad legalább 70% (m/m). A mikrobapusztítás következtében a termékben a romlást okozó, valamint a kultúrából származó mikroorganizmusok száma és aktivitása nagymértékben csökken, lehetővé téve a termék hosszabb ideig történő tárolását. Ha az ízesítésre gyümölcsöt használnak, annak hányada – az erős ízű, savas gyümölcsök kivételével – a végtermékben legalább 4% (m/m).
 
 ## 2.2. Felhasználható összetevők
 
-## 2.2.1. Felhasználható összetevők: tej, tejsűrítmény vagy ezek keveréke, tejszín, vaj, tejpor, víz, étkezési só, savópor, tejfehérje-koncentrátum, savófehérje-koncentrátum, étkezési kazeinátok, prebiotikumok, a 2.1.1.3. pontban meghatározott mikrobatenyészetek.
+## 2.2.1. Felhasználható összetevők: tej, tejsűrítmény vagy ezek keveréke, tejszín, vaj, tejpor, víz, étkezési só, savópor, tejfehérje-koncentrátum, savófehérje-koncentrátum, étkezési kazeinátok, prebiotikumok, a 2.2.3. pontban meghatározott mikrobatenyészetek.
 
 ## 2.2.2. Ízesítőanyag és zselatin kizárólag a 2.1.2. és 2.1.4. pont szerinti termékekhez használható fel.
+
+## 2.2.3. A savanyú tej- és tejszínkészítmények gyártásához a következő mikrobatenyészetek használhatók:
+
+## 2.2.3.1. joghurt: Streptococcus salivarius subsp. thermophilus és Lactobacillus delbrueckii subsp. bulgaricus szimbiotikus tenyészete, és egyéb joghurtspecifikus tejsavbaktériumokból készített kultúrák;
+
+## 2.2.3.2. kefir: kefirgombából készített kultúrák, például Lactobacillus kefiri, Leuconostoc-, Lactococcus- és Acetobacter-félék jellemző arányban, laktózerjesztő élesztők, például Kluyveromyces marxianus vagy laktózt nem erjesztő élesztők, például Saccharomyces unisporus, Saccharomyces cerevisiae, Saccharomyces exiguus, Debaryomyces hansenii;
+
+## 2.2.3.3. más fermentált tejtermékek: specifikus mezofil vagy termofil tejsavbaktériumok egytörzs- vagy keveréktenyészete.
 
 ## 2.3. Minőségi követelmények
 
@@ -300,29 +298,39 @@
 
 ## 2.3.1.1. Savanyú tejkészítmények
 
-|  | A | B |
+|  | A | B | C |
 
-| 1. | Zsírfokozat | Zsírtartalom, % (m/m) |
+| 1. | Zsírfokozat |  | Zsírtartalom, % (m/m) |
 
-| 2. | Zsíros savanyú tejkészítmény | legalább kevesebb mint | 5,0 10,0 |
+| 2. | Zsíros savanyú tejkészítmény | legalább | 5,0 |
 
-| 3. | Savanyú tejkészítmény | legalább kevesebb mint | 3,0 5,0 |
+| 3. | kevesebb mint | 10,0 |
 
-| 4. | Zsírszegény savanyú tejkészítmény | kevesebb mint több mint | 3,0 0,5 |
+| 4. | Savanyú tejkészítmény | legalább | 3,0 |
 
-| 5. | Sovány savanyú tejkészítmény | legfeljebb | 0,5 |
+| 5. | kevesebb mint | 5,0 |
 
-## 2.3.1.2. Savanyú tejszínkészítmények (tejfölök)
+| 6. | Zsírszegény savanyú tejkészítmény | kevesebb mint | 3,0 |
 
-|  | A | B |
+| 7. | több mint | 0,5 |
 
-| 1. | Zsírfokozat | Zsírtartalom, % (m/m) |
+| 8. | Sovány savanyú tejkészítmény | legfeljebb | 0,5 |
+
+## 2.3.1.2. Savanyú tejszínkészítmények
+
+|  | A | B | C |
+
+| 1. | Zsírfokozat |  | Zsírtartalom, % (m/m) |
 
 | 2. | Zsíros savanyú tejszínkészítmény | legalább | 30 |
 
-| 3. | Savanyú tejszínkészítmény | legalább kevesebb mint | 18 30 |
+| 3. | Savanyú tejszínkészítmény | legalább | 18 |
 
-| 4. | Félzsíros savanyú tejszínkészítmény | kevesebb mint legalább | 18 10 |
+| 4. | kevesebb mint | 30 |
+
+| 5. | Félzsíros savanyú tejszínkészítmény | kevesebb mint | 18 |
+
+| 6. | legalább | 10 |
 
 ## 2.3.2. Kémiai és mikrobiológiai követelmények
 
@@ -330,31 +338,31 @@
 
 | 1. | Jellemző | Savanyú tejek, a kefir kivételével | Kefir | Tejföl |
 
-| 2. | Zsírmentes szárazanyag-tartalom, legalább, % (m/m) | – | – | 5,9* |
+| 2. | Zsírmentes szárazanyag-tartalom, legalább, % (m/m) | − | − | 5,9 |
 
 | 3. | Fehérjetartalom a zsírmentes szárazanyagban, legalább, % (m/m) | 34,0 |
 
-| 4. | Savfok, SH° | – | – | 25–40 |
+| 4. | Savfok, SH° | − | − | 25–40 |
 
-| 5. | Kultúrából származó tejsavbaktériumok száma, legalább, élőcsíra/g | 107** | 107** | 105** |
+| 5. | Kultúrából származó tejsavbaktériumok száma, legalább, élőcsíra/g | 107 | 107 | 105 |
 
-| 6. | Kultúrából származó élesztők száma, legalább, élőcsíra/g | – | 104** | – |
+| 6. | Kultúrából származó élesztők száma, legalább, élőcsíra/g | − | 104 | − |
 
-## * Félzsíros tejföl esetén 6,4% (m/m).
+## 2.3.2.1. Félzsíros tejföl esetén a zsírmentes szárazanyag-tartalom legalább 6,4% (m/m).
 
-## ** Az élő csíraszám legfeljebb egy nagyságrenddel (10n-1) lehet kevesebb a táblázatban megadott értékeknél, amely eltérés magában foglalja a mérési bizonytalanságot is.
+## 2.3.2.2. Az élő csíraszám legfeljebb egy nagyságrenddel (10n–1) lehet kevesebb a táblázatban megadott értékeknél, amely eltérés magában foglalja a mérési bizonytalanságot is.
 
-## 2.3.2.1. Ha a termék jelölésén mikrobát vagy mikrobacsoportot tüntetnek fel (például „Lactobacillus acidophilus”, „Bifidobacterium”, „L.casei”, „LA-5”, „BB-12”), a megnevezett, élő, aktív mikroba vagy mikrobacsoport mennyisége a termék minőségmegőrzési idejének végéig legalább 106/g kell hogy legyen.
+## 2.3.2.3. Ha a termék jelölésén mikrobát vagy mikrobacsoportot tüntetnek fel, például „Lactobacillus acidophilus”, „Bifidobacterium”, „L.casei”, „LA-5”, „BB-12”, a megnevezett, élő, aktív mikroba vagy mikrobacsoport mennyisége a termék minőségmegőrzési idejének végéig legalább 106 élőcsíra/g kell, hogy legyen.
 
-## 2.3.2.2. A 2.1.2. és a 2.1.4. pont szerinti termékek esetében a követelmények az egyszerű savanyú termékhányadra vonatkoznak az ízesítő- és egyéb anyagok hozzáadása előtt.
+## 2.3.2.4. A 2.1.2. és a 2.1.4. pont szerinti termékek esetében a követelmények az egyszerű savanyú termékhányadra vonatkoznak az ízesítő- és egyéb anyagok hozzáadása előtt.
 
-## 2.3.2.3. A 2.1.3. és a 2.1.4. pont szerinti termékekre az élőcsíra-előírások nem vonatkoznak.
+## 2.3.2.5. A 2.1.3. és a 2.1.4. pont szerinti termékekre az élőcsíra-előírások nem vonatkoznak.
 
 ## 2.3.3. Érzékszervi követelmények
 
 |  | A | B | C |
 
-| 1. |  | Natúr savanyú tej és tejszín | Ízesített savanyú tej- és tejszínkészítmény |
+| 1. |  | Natúr savanyú tej- és tejszínkészítmény | Ízesített savanyú tej- és tejszínkészítmény |
 
 | 2. | Külső | Egyenletesen csontfehér színű, felfölöződéstől mentes. | Egyenletes, a termék jellegének megfelelő színű, felfölöződéstől és savókiválástól mentes, darabos ízesítőanyagok felhasználásakor az alvadékban a darabok láthatók, habosítás esetén a habszerkezet érzékelhető. |
 
@@ -370,7 +378,7 @@
 
 ## 2.4.1.1. A „joghurt”, a „kefir”, az „aludttej”, az „acidofilusz tej” és a „tejföl” név a 2.1.1. pont szerinti termékekre, valamint a 2.1.2. pont követelményeinek is megfelelő ízesített változatai megnevezésében használható.
 
-## 2.4.1.2. Nem élőflórás termékek esetében a termék megnevezésében a „savanyú tej” vagy „savanyú tejszín” szókapcsolatot kell feltüntetni, kivéve a tejfölt, ahol a „tejföl” megnevezés használható.
+## 2.4.1.2. Nem élőflórás termékek esetében a termék megnevezésében a „savanyú tejkészítmény” vagy „savanyú tejszínkészítmény” szókapcsolatot kell feltüntetni.
 
 ## 2.4.2. Egyéb jelölés
 
@@ -380,7 +388,7 @@
 
 ## 2.4.2.3. Savanyú tejszínkészítmények esetében a megnevezés részeként vagy a megnevezéshez kapcsolódóan jelezni kell a termék zsírtartalmát tömegszázalékban, például „Tejföl 20%”, „Tejföl 20% zsírtartalommal”. A jelölésen feltüntetett zsírtartalomérték és az ellenőrzések során mért érték különbsége a mérési bizonytalanságot is beleértve +/−1,5% lehet, azonban a termék zsírtartalma a zsírfokozatnak megfelelő minimum és maximum értékeket nem lépheti át.
 
-## 2.4.2.4. Jelezni kell a csomagoláson a nem élőflórás termékek esetén a mikrobapusztító eljárást (például utóhőkezelést), illetve ha a termék állagát jelentősen befolyásoló egyéb fizikai kezelést (például habosítást) is alkalmaztak.
+## 2.4.2.4. Jelezni kell a csomagoláson a nem élőflórás termékek esetén a mikrobapusztító eljárást, például utóhőkezelést, illetve ha a termék állagát jelentősen befolyásoló egyéb fizikai kezelést, például habosítást is alkalmaztak.
 
 ## 2.4.2.5. Az „élőflórás” kifejezés a 2.1.1. és a 2.1.2. pont szerinti termékekre használható.
 
@@ -588,7 +596,7 @@
 
 ## A penésszel, rúzsflórával és sólében érlelt sajtok esetén utalni kell erre a sajátosságra.
 
-## 4.5.[^88] Trappista sajt
+## 4.5.[^93] Trappista sajt
 
 ## 4.5.1. A termék meghatározása
 
@@ -1178,14 +1186,16 @@
 
 | 32. | MSZ ISO 22935-3 Tej és tejtermékek. Érzékszervi vizsgálat. 3. rész: Útmutató a termékleírásban szereplő érzékszervi tulajdonságoknak való megfelelés pontozásos értékelési módszerére |
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^89]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^94]
 
 A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
-[^83]: A 13. melléklet A rész I. fejezet 3. pontja a 26/2025. (VI. 19.) AM rendelet 4. §-a szerint módosított szöveg.
-[^84]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
-[^85]: A 13. melléklet A rész II. fejezet 14. pontja a 11/2025. (IV. 22.) AM rendelet 4. § e) pontja és az 5. § b) pontja szerint módosított szöveg.
-[^86]: A 13. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 3. §-ával megállapított szöveg.
-[^87]: A 13. melléklet B rész 1.1.2.2. pontja a 11/2025. (IV. 22.) AM rendelet 5. § c) pontja szerint módosított szöveg.
-[^88]: A 13. melléklet B rész 4. pont 4.5. alpontját a 43/2025. (X. 2.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^89]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^86]: A 13. melléklet A rész I. fejezet 3. pontja a 26/2025. (VI. 19.) AM rendelet 4. §-a szerint módosított szöveg.
+[^87]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^88]: A 13. melléklet A rész II. fejezet 14. pontja a 11/2025. (IV. 22.) AM rendelet 4. § e) pontja és az 5. § b) pontja szerint módosított szöveg.
+[^89]: A 13. melléklet A rész III. fejezete a 11/2025. (IV. 22.) AM rendelet 3. §-ával megállapított szöveg.
+[^90]: A 13. melléklet B rész 1. pont 1.1.1.1. alpontja a 60/2025. (XII. 29.) AM rendelet 4. §-a szerint módosított szöveg.
+[^91]: A 13. melléklet B rész 1.1.2.2. pontja a 11/2025. (IV. 22.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^92]: A 13. melléklet B rész 2. pontja a 60/2025. (XII. 29.) AM rendelet 3. §-ával megállapított szöveg.
+[^93]: A 13. melléklet B rész 4. pont 4.5. alpontját a 43/2025. (X. 2.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^94]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.

@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2025-06-22 | 2009-152-20-82.45 | 26/2025. (VI. 19.) AM rendelet |
 | 2025-10-03 | 2009-152-20-82.47 | 43/2025. (X. 2.) AM rendelet |
 | 2025-12-19 | 2009-152-20-82.48 | 50/2025. (XII. 16.) AM rendelet |
+| 2026-01-01 | 2009-152-20-82.49 | 60/2025. (XII. 29.) AM rendelet |

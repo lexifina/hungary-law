@@ -166,6 +166,6 @@
 
 | 3. | igazoltan trópusi eredetű mézek és trópusi mézet tartalmazó keverékek esetén, a keverés arányában | legfeljebb 80 mg/kg |
 
-11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^80]
+11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^83]
 
-[^80]: A 11. melléklet az 51/2025. (XII. 16.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^83]: A 11. melléklet az 51/2025. (XII. 16.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
