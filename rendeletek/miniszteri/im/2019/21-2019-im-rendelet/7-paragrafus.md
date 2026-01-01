@@ -1,1 +1,0 @@
-## 6. § A szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törölni kell, ha legkésőbb 2019. október 11-én a választópolgár kérelmére a választópolgár nemzetiséghez tartozását a választási iroda törli a központi névjegyzékből. [Ve. 314. § (2) bekezdés]
