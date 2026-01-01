@@ -4,9 +4,9 @@
 
 a)
 
-b) a keresőképtelenséggel járó betegség,
+b)
 
-c) a beteg gyermek ápolására igénybe vett táppénzes állomány,
+c)
 
 d) a csecsemőgondozási díj, örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás folyósítása,
 

@@ -8,4 +8,4 @@ b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) 
 
 (3) A közigazgatási bírság helyszíni bírságként is kiszabható.
 
-(4) Közigazgatási bírság kiszabása helyett figyelmeztetés alkalmazásának nincs helye.
+(4) Közigazgatási bírság kiszabása helyett – az (1) bekezdés a) pontja kivételével – figyelmeztetés alkalmazásának nincs helye.

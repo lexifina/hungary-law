@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2024-09-01 | 2024. évi XII. törvény | 1991-4-00-00.138 |
 | 2025-01-01 | 2019. évi CX. törvény | 1991-4-00-00.141 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 1991-4-00-00.142 |
+| 2026-01-01 | 2025. évi XCIII. törvény | 1991-4-00-00.143 |

@@ -34,6 +34,8 @@ b) a munkaviszony megszűnésének időpontját megelőző négy naptári negyed
 
 13. társadalombiztosítási kifizetőhellyel rendelkező munkaadó esetén a biztosítási jogviszony megszüntetésekor a biztosítási jogviszony megszűnését közvetlenül megelőző két éven belül folyósított táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj és gyermekgondozási díj időtartamát.
 
+14. a munkaviszony megszűnését megelőző három évben a munkavállaló által igénybe vett, 30 napot meghaladó időtartamú fizetés nélküli szabadság kezdő és befejező időpontjait, valamint – ha annak igénybevételére a 25. § (4) bekezdésében meghatározott esetekben került sor – az igénybevétel jogcímét vagy azt, hogy a munkavállaló ebben az időszakban nem vett igénybe 30 napot meghaladó fizetés nélküli szabadságot.
+
 (3) Jogszabály a munkaviszony megszüntetése vagy megszűnése esetén a foglalkoztatási igazolás tekintetében a (2) bekezdésben megjelölteken felül további adattartalmat is megállapíthat.
 
 (4) A foglalkoztatási igazolást a munkaadó felmondás esetén az utolsó munkában töltött napot, egyéb esetben a munkaviszony megszűnését követő öt munkanapon belül kiadja a munkavállaló részére. A foglalkoztatási igazolás kiadását a munkavállaló papír alapon is kérheti a munkaadótól.
