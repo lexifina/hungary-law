@@ -80,13 +80,13 @@
 
 ## A locsolási vízmérő telepítése során nem követelmény az önálló mérőakna kialakítása. A mérőeszköz állagának megóvása és a fagyvédelem biztosítása a felhasználó kötelessége.
 
-6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^451]
+6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^453]
 
 Cégjogi esemény, befolyásszerzés előzetes hozzájáruláshoz benyújtandó iratok és adatok
 
 1. A kérelemhez benyújtandó iratokat és adatokat teljes bizonyító erejű magánokiratba foglalva szükséges megadni, az alábbiak szerint:
 
-1.1.[^452] a kérelmező nyilatkozata, amely tartalmazza a befolyásszerző és az érintett víziközmű-szolgáltató cégnevét, székhelyét, cégjegyzékszámát, képviselőjének nevét, elérhetőségét, a Hivatal által kiadott engedélyeinek típusát és számát,
+1.1.[^454] a kérelmező nyilatkozata, amely tartalmazza a befolyásszerző és az érintett víziközmű-szolgáltató cégnevét, székhelyét, cégjegyzékszámát, képviselőjének nevét, elérhetőségét, a Hivatal által kiadott engedélyeinek típusát és számát,
 
 1.2. a jogi képviselővel eljáró víziközmű-szolgáltató vagy befolyásszerző esetében a képviseleti jogosultság igazolása, ha azt a rendelkezési nyilvántartás nem tartalmazza,
 
@@ -94,7 +94,7 @@ Cégjogi esemény, befolyásszerzés előzetes hozzájáruláshoz benyújtandó 
 
 1.4. az eljárási díj kérelmezőnkénti – közösen benyújtott kérelem esetén valamennyi kérelmező általi – megfizetéséről szóló igazolás,
 
-1.5.[^453] a cégjogi eseményben vagy befolyásszerzésben érintett víziközmű-szolgáltató, továbbá a befolyásszerzés esetén a befolyásszerző külön-külön nyilatkozata arról, hogy
+1.5.[^455] a cégjogi eseményben vagy befolyásszerzésben érintett víziközmű-szolgáltató, továbbá a befolyásszerzés esetén a befolyásszerző külön-külön nyilatkozata arról, hogy
 
 1.5.1. a Vksztv. 42. § (1) és (2) bekezdése szerinti ügylet nem változtatja meg a víziközmű-szolgáltató vagyoni-működési feltételeit, vagy amennyiben megváltoztatja, annak igazolását, bemutatását, hogy a változás nem veszélyezteti a szolgáltatás színvonalát,
 
@@ -126,6 +126,6 @@ Cégjogi esemény, befolyásszerzés előzetes hozzájáruláshoz benyújtandó 
 
 1.9.3. ha a befolyásszerző gazdasági társaság, a döntéshozójának a befolyásszerzés megvalósításáról szóló döntése, valamint a víziközmű-szolgáltató döntéshozójának a befolyásszerzés megvalósításáról szóló döntése, vagy a befolyásszerző, illetve a víziközmű-szolgáltató nyilatkozata arról, hogy a befolyásszerzés kérdésében a létesítő okirat szerint nem szükséges döntést hoznia.
 
-[^451]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte, újonnan a 243/2023. (VI. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
-[^452]: A 6. melléklet 1. pont 1.1. alpontja a 358/2024. (XI. 25.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.
-[^453]: A 6. melléklet 1. pont 1.5. alpontja a 358/2024. (XI. 25.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.
+[^453]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte, újonnan a 243/2023. (VI. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
+[^454]: A 6. melléklet 1. pont 1.1. alpontja a 358/2024. (XI. 25.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.
+[^455]: A 6. melléklet 1. pont 1.5. alpontja a 358/2024. (XI. 25.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg.

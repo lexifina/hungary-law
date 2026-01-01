@@ -4,7 +4,7 @@ a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
 
 b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-c)[^356] a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
+c)[^358] a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
@@ -12,11 +12,11 @@ e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül,
 
-g)[^357] a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket, vagy
+g)[^359] a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket, vagy
 
-h)[^358] az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társasággal a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti, illetve az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény szerinti, a szociális lakásgazdálkodás keretében létrejött bérleti jogviszonyban áll,
+h)[^360] az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társasággal a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti, illetve az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény szerinti, a szociális lakásgazdálkodás keretében létrejött bérleti jogviszonyban áll,
 
-i)[^359] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
+i)[^361] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
 (2) E Fejezet alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -30,20 +30,20 @@ eredeti példányának bemutatásával igazolhatja a víziközmű-szolgáltató 
 
 (4) A víziközmű-szolgáltató az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
-(5)[^360] A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 15 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja. A víziközmű-szolgáltató tájékoztatja a védendő felhasználói státuszra jogosító ellátást megállapító szervet a nyilvántartásba vételről és a víziközmű-szolgáltató azon elérhetőségéről, ahova a védendő felhasználó státuszáról a Vksztv. 61/A. § (6) bekezdése szerinti tájékoztatás megküldhető.
+(5)[^362] A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 15 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja. A víziközmű-szolgáltató tájékoztatja a védendő felhasználói státuszra jogosító ellátást megállapító szervet a nyilvántartásba vételről és a víziközmű-szolgáltató azon elérhetőségéről, ahova a védendő felhasználó státuszáról a Vksztv. 61/A. § (6) bekezdése szerinti tájékoztatás megküldhető.
 
-(6)[^361] Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 15 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
+(6)[^363] Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 15 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
 
-(7)[^362]
+(7)[^364]
 
 (8) Ha a védendő felhasználók nyilvántartásában nem szereplő lakossági felhasználó díjtartozásával 45 napot meghaladó késedelembe esett, a víziközmű-szolgáltató további 15 napon belül írásban, közérthető módon és áttekinthető formában tájékoztatja a lakossági felhasználót a szociálisan rászoruló felhasználókat megillető kedvezményekről, a védendő felhasználók nyilvántartásába történő felvétel kérelmezésének módjáról, valamint megküldi részére a 9. melléklet szerinti adatlapot.
 
 (9) Ha a felhasználó kérte a védendő felhasználók nyilvántartásába történő felvételt, annak elbírálásáig a Vksztv. 58. § (1) bekezdés szerinti intézkedést a víziközmű-szolgáltató nem foganatosíthatja.
 
-[^356]: A 88/B. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^357]: A 88/B. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^358]: A 88/B. § (1) bekezdés h) pontja a 358/2024. (XI. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^359]: A 88/B. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^360]: A 88/B. § (5) bekezdése a 216/2023. (VI. 1.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^361]: A 88/B. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^362]: A 88/B. § (7) bekezdését a 216/2023. (VI. 1.) Korm. rendelet 5. § (12) bekezdése hatályon kívül helyezte.
+[^358]: A 88/B. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^359]: A 88/B. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^360]: A 88/B. § (1) bekezdés h) pontja a 358/2024. (XI. 25.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^361]: A 88/B. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^362]: A 88/B. § (5) bekezdése a 216/2023. (VI. 1.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^363]: A 88/B. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^364]: A 88/B. § (7) bekezdését a 216/2023. (VI. 1.) Korm. rendelet 5. § (12) bekezdése hatályon kívül helyezte.

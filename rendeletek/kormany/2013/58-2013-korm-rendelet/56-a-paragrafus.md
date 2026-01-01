@@ -1,4 +1,4 @@
-56/A. §[^197] (1) Az ellátási területen átnyúló víziközmű-szolgáltatás igénybevételét a lakossági felhasználó az igénybejelentéssel egyidejűleg abban az esetben kezdeményezheti a szomszédos ellátási terület víziközmű-szolgáltatójánál, ha
+56/A. §[^198] (1) Az ellátási területen átnyúló víziközmű-szolgáltatás igénybevételét a lakossági felhasználó az igénybejelentéssel egyidejűleg abban az esetben kezdeményezheti a szomszédos ellátási terület víziközmű-szolgáltatójánál, ha
 
 a) az ingatlan közműves ellátásához az ingatlan fekvése szerinti településhez tartozó ellátási területen a törzshálózat műszakilag nem elérhető, és
 
@@ -14,4 +14,4 @@ b) ehhez az ingatlan fekvése szerinti ellátási terület szerinti víziközmű
 
 (6) Az ingatlan ellátási területen átnyúló víziközmű-hálózatba történő bekötését követően a szomszédos településhez tartozó ellátási területen üzemeltető víziközmű-szolgáltató értesíti az érintett ellátásért felelősöket, valamint a Hivatalt.
 
-[^197]: Az 56/A. §-t a 159/2025. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^198]: Az 56/A. §-t a 159/2025. (VI. 23.) Korm. rendelet 2. §-a iktatta be.

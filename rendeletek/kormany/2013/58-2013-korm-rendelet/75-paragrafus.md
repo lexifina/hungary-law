@@ -2,13 +2,13 @@
 
 75. § (1) A víziközmű-szolgáltatás a felhasználó kérésére legfeljebb az üzletszabályzatban meghatározott időtartamra szüneteltethető, az alábbi feltételek együttes fennállása esetén:
 
-a)[^302] a felhasználó írásban kéri a szüneteltetést és nyilatkozik, hogy a felhasználási helyen vízfelhasználásra nem kerül sor
+a)[^304] a felhasználó írásban kéri a szüneteltetést és nyilatkozik, hogy a felhasználási helyen vízfelhasználásra nem kerül sor
 
-b)[^303] a felhasználó nyilatkozik, hogy nem a víziközmű-rendszerből származó egyéb vizet a szennyvíz-törzshálózatba nem kíván vezetni,
+b)[^305] a felhasználó nyilatkozik, hogy nem a víziközmű-rendszerből származó egyéb vizet a szennyvíz-törzshálózatba nem kíván vezetni,
 
 c) a szüneteltetés végrehajtásához a műszaki előfeltételek biztosítottak,
 
-d)[^304] a felhasználó az üzletszabályzatban előírt egyéb feltételeket teljesítette.
+d)[^306] a felhasználó az üzletszabályzatban előírt egyéb feltételeket teljesítette.
 
 (2) A szüneteltetési kérelemhez mellékelni kell a szünetelés foganatosításával együtt járó költségek előzetes megfizetéséről szóló igazolást, és a felhasználási hely tulajdonosának hozzájárulását, amennyiben az nem azonos a felhasználóval.
 
@@ -16,12 +16,12 @@ d)[^304] a felhasználó az üzletszabályzatban előírt egyéb feltételeket t
 
 (4) A víziközmű-szolgáltató a szüneteltetett víziközmű-szolgáltatás után szolgáltatási díjat nem számolhat fel.
 
-(5)[^305] Amennyiben a felhasználó a szolgáltatás szüneteltetése alatt a víziközmű-hálózatot használja, a víziközmű-szolgáltató jogosult a Vksztv.-ben és az e rendeletben meghatározott jogkövetkezményeket alkalmazni.
+(5)[^307] Amennyiben a felhasználó a szolgáltatás szüneteltetése alatt a víziközmű-hálózatot használja, a víziközmű-szolgáltató jogosult a Vksztv.-ben és az e rendeletben meghatározott jogkövetkezményeket alkalmazni.
 
-(6)[^306] A felhasználó a víziközmű-szolgáltatás szüneteltetésére vonatkozó kérelmét az üzletszabályzatban meghatározott időszakonként köteles megújítani. A kérelem megújításához kapcsolódóan a felhasználási hely ellenőrzésének lehetőségét a víziközmű-szolgáltató részére biztosítani kell.
+(6)[^308] A felhasználó a víziközmű-szolgáltatás szüneteltetésére vonatkozó kérelmét az üzletszabályzatban meghatározott időszakonként köteles megújítani. A kérelem megújításához kapcsolódóan a felhasználási hely ellenőrzésének lehetőségét a víziközmű-szolgáltató részére biztosítani kell.
 
-[^302]: A 75. § (1) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 39. pontja szerint módosított szöveg.
-[^303]: A 75. § (1) bekezdés b) pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^304]: A 75. § (1) bekezdés d) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 40. pontja szerint módosított szöveg.
-[^305]: A 75. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^306]: A 75. § (6) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^304]: A 75. § (1) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 39. pontja szerint módosított szöveg.
+[^305]: A 75. § (1) bekezdés b) pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^306]: A 75. § (1) bekezdés d) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 40. pontja szerint módosított szöveg.
+[^307]: A 75. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 38. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^308]: A 75. § (6) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 22. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## A VÍZIKÖZMŰ TÉRKÉPI NYILVÁNTARTÁSOKRA VONATKOZÓ SZABÁLYOK[^164]
 
-## 52. § A víziközmű térképi nyilvántartás közhiteles adatállománya:
+## 52. §[^165] A víziközmű térképi nyilvántartás adatállománya:
 
 a) a közműves ivóvízellátás felületszerű, vonalszerű és pontszerű egységei közül:
 
@@ -34,3 +34,4 @@ c) az egyéb víziközmű létesítmények felületszerű, vonalszerű és ponts
 
 [^163]: Az V. Fejezetet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnan (52. §) a 370/2016. (XI. 29.) Korm. rendelet 5. §-a iktatta be.
 [^164]: Az V. fejezet címe a 348/2017. (XI. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^165]: Az 52. § nyitó szövegrésze a 342/2025. (X. 31.) Korm. rendelet 24. §-a szerint módosított szöveg.
