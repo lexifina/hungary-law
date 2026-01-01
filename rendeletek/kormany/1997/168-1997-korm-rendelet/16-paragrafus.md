@@ -1,15 +1,15 @@
-16. §[^67] (1) Az öregségi nyugdíj alapját képező átlagkeresetet úgy kell kiszámítani, hogy az átlagszámítási időszak alatt elért – a Tny. 22. §-a, illetve e rendelet 14. §-a és 15. §-ának (2) bekezdése szerint figyelembe veendő – keresetnek a 15. § (6) bekezdése szerint számított együttes összegét el kell osztani az ez idő alatt biztosításban töltött azoknak a napoknak a számával, amelyekre a nyugdíjat igénylőnek figyelembe vett keresete, jövedelme volt. Az így kapott napi átlagkeresetet meg kell szorozni 365-tel és el kell osztani 12-vel.
+16. §[^68] (1) Az öregségi nyugdíj alapját képező átlagkeresetet úgy kell kiszámítani, hogy az átlagszámítási időszak alatt elért – a Tny. 22. §-a, illetve e rendelet 14. §-a és 15. §-ának (2) bekezdése szerint figyelembe veendő – keresetnek a 15. § (6) bekezdése szerint számított együttes összegét el kell osztani az ez idő alatt biztosításban töltött azoknak a napoknak a számával, amelyekre a nyugdíjat igénylőnek figyelembe vett keresete, jövedelme volt. Az így kapott napi átlagkeresetet meg kell szorozni 365-tel és el kell osztani 12-vel.
 
-(2)[^68] A Tny. 39. §-a szerint számított arányosan elismert szolgálati idő alkalmazása esetén a naptári évi keresethez tartozó osztószámként – a Tny. 22. § (10) bekezdésének alkalmazásával – azokat a napokat, amelyekre az igénylőnek keresete, jövedelme volt, arányosítás nélkül kell figyelembe venni.
+(2)[^69] A Tny. 39. §-a szerint számított arányosan elismert szolgálati idő alkalmazása esetén a naptári évi keresethez tartozó osztószámként – a Tny. 22. § (10) bekezdésének alkalmazásával – azokat a napokat, amelyekre az igénylőnek keresete, jövedelme volt, arányosítás nélkül kell figyelembe venni.
 
 (3) Az 1996. december 31-ét követően az adott naptári éven belül egyidejűleg fennállt több biztosítási jogviszony esetén osztószámként csak azok a napok vehetők figyelembe, amelyekre az igénylőnek az egyidejűleg fennállt több biztosítási jogviszony mindegyikében volt keresete.
 
-(4)[^69] Akkor sem vehetők figyelembe osztószámként azok a napok, amelyeken
+(4)[^70] Akkor sem vehetők figyelembe osztószámként azok a napok, amelyeken
 
 a) az egyéni vállalkozó biztosítása szünetelt, ha a társadalombiztosítási járulékot a járulékfizetési alsó határ után a teljes hónapra megfizette,
 
 b) a főállású kisadózó és a kisadózó vállalkozók tételes adójáról szóló törvény szerinti kisadózó biztosítása nem állt fenn vagy szünetelt, ha a tételes adót a teljes hónapra megfizette.
 
-[^67]: A 16. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
-[^68]: A 16. § (2) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
-[^69]: A 16. § (4) bekezdését a 464/2024. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^68]: A 16. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
+[^69]: A 16. § (2) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
+[^70]: A 16. § (4) bekezdését a 464/2024. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

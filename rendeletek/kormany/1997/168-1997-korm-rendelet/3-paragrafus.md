@@ -56,6 +56,8 @@ c)[^21] a Tny. 102/A. § szerinti nyugdíjnövelés megállapítására irányul
 
 d)[^22] a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény engedélyezésére irányuló ügyekben, ha a tartozást a Nyugdíjfolyósító Igazgatóság vagy a Központ írta elő.
 
+e)[^23] a késedelmi kamat megfizetésére kötelezés ügyében, ha a megfizetésre legalább részben az általános hatáskörű nyugdíj-megállapító szerv köteles.
+
 [^13]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^14]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 11. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^15]: A 3. § (1a) bekezdését a 464/2024. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -66,3 +68,4 @@ d)[^22] a tartozás mérséklésére, elengedésére vagy fizetési kedvezmény 
 [^20]: A 3. § (5) bekezdés b) pont bc) alpontja a 171/2017. (VI. 29.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^21]: A 3. § (5) bekezdés c) pontja a 707/2020. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^22]: A 3. § (5) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^23]: A 3. § (5) bekezdés e) pontját a 389/2025. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
