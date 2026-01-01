@@ -6,20 +6,52 @@
 
 (3) A nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza a szakmagyakorló:
 
-a) természetes személyazonosító adatait, nemét, állampolgárságát, értesítési címét,
+a) természetes személyazonosító adatait, állampolgárságát, lakcímét, értesítési címét, szakmagyakorló cég esetén annak nevét, székhelyét, értesítési címét, cégjegyzékszámát vagy nyilvántartásba vételi számát, magyarországi leányvállalata székhelyét,
 
 b) szakirányú végzettségét, az ezt igazoló oklevél (oklevelek) számát, keltét és a kiállító intézmény megjelölését,
 
 c) szakmai gyakorlatának rövid leírását, idejét,
 
-d) szakterületét,
+d) szakmagyakorlási tevékenysége területét, szakterületét, részszakterületét,
 
-e) szakmagyakorlási tevékenységet engedélyező határozat számát, kiállításának napját,
+e) szakmagyakorlási tevékenységét engedélyező határozat számát, véglegessé válásának napját,
 
-f) adatváltozásai bejelentésének idejét,
+f) nyilvántartása lejáratának napját,
 
-g) szakmagyakorlási tevékenysége szünetelésének tényét, kezdő napját, időtartamát és
+g) adatváltozásai bejelentésének idejét,
 
-h) nyilvántartási számát.
+h) szakmagyakorlási tevékenysége szünetelésének tényét, kezdő napját, időtartamát,
+
+i) a szakmai tevékenységtől való eltiltása tényét, annak okát, időtartamát, az alapjául szolgáló határozat véglegessé válásának napját, és
+
+j) nyilvántartási számát.
 
 (4) Ha a szakmagyakorlásra való alkalmasság megállapításához szükséges dokumentumokat eredetileg papír alapon állították ki, akkor a szakmagyakorlásra való alkalmasság megállapítására irányuló eljárásban e dokumentumokat papír alapon kell az atomenergia-felügyeleti szervnek benyújtani.
+
+(5) Az (1) bekezdés szerinti nyilvántartás a (3) bekezdés d)–j) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(6) Az atomenergia-felügyeleti szerv a szakmagyakorlók és a szakmagyakorló cégek jegyzékét a honlapján közzéteszi.
+
+(7) A közzétett jegyzék tartalmazza
+
+a) a szakmagyakorló
+
+aa) nevét, állampolgárságát, értesítési címét,
+
+ab) szakmagyakorlási tevékenysége szakterületét,
+
+ac) nyilvántartási számát, és
+
+ad) nyilvántartása lejáratának napját;
+
+b) a szakmagyakorló cég
+
+ba) nevét, székhelyét, magyarországi leányvállalata székhelyét,
+
+bb) szakmagyakorlási tevékenysége szakterületét,
+
+bc) szakmagyakorlója nevét, állampolgárságát, nyilvántartási számát, nyilvántartása lejártának napját, és
+
+bd) nyilvántartása lejáratának napját.
+
+(8) Az atomenergia-felügyeleti szerv a jegyzék tartalmában bekövetkezett változást a honlapján a változást követő nyolc napon belül közzéteszi.
