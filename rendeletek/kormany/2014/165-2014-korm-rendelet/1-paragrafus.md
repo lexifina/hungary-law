@@ -12,7 +12,7 @@ b) az eredeti, valamint a támogatott létesítményben előállított termék v
 
 c) az adózó vagy az adózótól független harmadik félnek nem minősülő személy eredeti létesítményében folytatott azonos vagy hasonló tevékenységéhez kapcsolódóan legalább két munkahely megszűnik;
 
-2.[^3] beruházás megkezdésének napja: az építkezés kezdetének a napja, vagy a beruházás célját szolgáló első tárgyi eszköz megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi, azzal, hogy ezen időpontok közül a legkorábbit kell figyelembe venni; nem minősül a beruházás megkezdésének különösen a földterület vásárlása vagy az építésügyi hatósági engedélyek megszerzése vagy a megvalósíthatósági tanulmányok készítése; az átmeneti fejlesztési adókedvezmény kivételével létesítmény felvásárlása esetén a beruházás megkezdésének napja a felvásárolt létesítményhez közvetlenül kapcsolódó eszközök tulajdonba vételének napja;
+2.[^3] beruházás megkezdésének napja: az építkezés kezdetének a napja, vagy a beruházás célját szolgáló első tárgyi eszköz megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi, azzal, hogy ezen időpontok közül a legkorábbit kell figyelembe venni; nem minősül a beruházás megkezdésének különösen a földterület vásárlása – ha az nem képezi részét a beruházás elszámolható költségeinek –, vagy az építésügyi hatósági engedélyek megszerzése vagy a megvalósíthatósági tanulmányok készítése; a tiszta technológiát támogató fejlesztési adókedvezmény kivételével létesítmény felvásárlása esetén a beruházás megkezdésének napja a felvásárolt létesítményhez közvetlenül kapcsolódó eszközök tulajdonba vételének napja;
 
 3.[^4] diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
@@ -22,13 +22,13 @@ c) az adózó vagy az adózótól független harmadik félnek nem minősülő sz
 
 5. kis- és középvállalkozás: a kérelem, illetve a bejelentés benyújtásának időpontjában a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 4. § 24. pontjában foglaltaknak megfelelő vállalkozás;
 
-5a.[^6] kötelező üzemeltetési időszak: a Tao. törvény 22/B. § (1) bekezdés a)–f) és h)–k) pontja szerinti beruházásnál nagyvállalkozás esetén a beruházás üzembe helyezését követő legalább ötéves, kis- és középvállalkozás esetén legalább hároméves időszak, a Tao. törvény 22/B. § (1) bekezdés g) pontja szerinti beruházás esetén az elszámolható költség részét képező új munkahely első alkalommal történő betöltése időpontját követő, nagyvállalkozás esetén legalább ötéves, kis- és középvállalkozás esetén legalább hároméves időszak;
+5a.[^6] kötelező üzemeltetési időszak: a Tao. törvény 22/B. § (1) bekezdés a)–f), h)–j) és l) pontja szerinti beruházásnál nagyvállalkozás esetén a beruházás üzembe helyezését követő legalább ötéves, kis- és középvállalkozás esetén legalább hároméves időszak, a Tao. törvény 22/B. § (1) bekezdés g) pontja szerinti beruházás esetén az elszámolható költség részét képező új munkahely első alkalommal történő betöltése időpontját követő, nagyvállalkozás esetén legalább ötéves, kis- és középvállalkozás esetén legalább hároméves időszak;
 
 6.[^7]
 
 7. létesítmény felvásárlása: a termék előállításához vagy a szolgáltatás nyújtásához közvetlenül kapcsolódó tárgyi eszközök és támogatható immateriális javak (a továbbiakban együtt: létesítmény) megvásárlása, ha a létesítmény bezárásra került vagy – amennyiben nem vásárolják meg – bezárásra került volna, és a felvásárló adózó a létesítmény tulajdonosától független fél;
 
-8.[^8] nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget, és amelynek meghatározásakor egyetlen beruházásnak kell tekinteni az egy vagy több, független harmadik félnek nem minősülő személy által egy háromszor háromszázhatvanöt napos időszakon belül, ugyanazon vármegyében megkezdett beruházásokat, azzal, hogy a nagyberuházás értékét úgy kell meghatározni, hogy a kérelemben, illetve a bejelentésben szereplő beruházás jelenértéken meghatározott elszámolható költségéhez hozzá kell adni és együttesen kell figyelembe venni az ugyanazon vármegyében a beruházás megkezdésének napját megelőző háromszor háromszázhatvanöt napos időszakon belül megkezdett beruházások jelenértéken számított értékét, amelyhez vagy amelyekhez az adózó vagy független harmadik félnek nem minősülő személy igénybe vett (igényelt) állami támogatást; a Tao. törvény 22/B. § (2a) bekezdésében meghatározott esetekben csak azok az egy háromszor háromszázhatvanöt napos időszakon belül, ugyanazon vármegyében megkezdett beruházások veendők figyelembe, amelyek az adózó vagy a független harmadik félnek nem minősülő személy azonos vagy hasonló tevékenységét szolgálják;
+8.[^8] nagyberuházás: az az induló beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 55 millió eurónak megfelelő forintösszeget, és amelynek meghatározásakor egyetlen beruházásnak kell tekinteni az egy vagy több, független harmadik félnek nem minősülő személy által egy háromszor háromszázhatvanöt napos időszakon belül, ugyanazon vármegyében megkezdett beruházásokat, azzal, hogy a nagyberuházás értékét úgy kell meghatározni, hogy a kérelemben, illetve a bejelentésben szereplő beruházás jelenértéken meghatározott elszámolható költségéhez hozzá kell adni és együttesen kell figyelembe venni az ugyanazon vármegyében a beruházás megkezdésének napját megelőző háromszor háromszázhatvanöt napos időszakon belül megkezdett beruházások jelenértéken számított értékét, amelyhez vagy amelyekhez az adózó vagy független harmadik félnek nem minősülő személy igénybe vett (igényelt) állami támogatást; továbbá azzal, hogy csak azok az egy háromszor háromszázhatvanöt napos időszakon belül, ugyanazon vármegyében megkezdett beruházások veendők figyelembe, amelyek az adózó vagy a független harmadik félnek nem minősülő személy azonos vagy hasonló tevékenységét szolgálják;
 
 9. nehéz helyzetben lévő társaság: bejelentés esetén a 6. mellékletben, kérelem esetén az Atr. 6. § (1)–(3) bekezdésében foglalt feltételeknek megfelelő társaság;
 
@@ -38,13 +38,13 @@ c) az adózó vagy az adózótól független harmadik félnek nem minősülő sz
 
 12. szinten tartást szolgáló eszközök: azok az eszközök, amelyek az adózó által már használt tárgyi eszközöket, támogatható immateriális javakat váltják ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását eredményezné;
 
-13.[^9] támogatási intenzitás: az átmeneti fejlesztési adókedvezmény kivételével a támogatástartalom és a jelenértéken számított elszámolható költség hányadosa százalékos formában kifejezve;
+13.[^9] támogatási intenzitás: a támogatástartalom és a jelenértéken számított elszámolható költség hányadosa százalékos formában kifejezve;
 
 14.[^10] támogatástartalom: az adózó számára nyújtott állami támogatásnak az Atr. 2. mellékletében meghatározott módszertan alapján kiszámolt értéke, adókedvezmény esetében az 5. § (8) bekezdése szerint meghatározott érték.
 
 (2) E rendelet alkalmazásában elszámolható költségnek minősül:
 
-a)[^11] a Tao. törvény 22/B. § (1) bekezdés a)–f) és h)–k) pontja szerinti beruházás esetén a beruházás célját szolgáló
+a)[^11] a Tao. törvény 22/B. § (1) bekezdés a)–f), h)–j) és l) pontja szerinti beruházás esetén a beruházás célját szolgáló
 
 aa)[^12] tárgyi eszköznek a bekerülési értéke,
 
@@ -88,15 +88,15 @@ h)[^18] a Tao. törvény 22/B. § (1) bekezdés g) pontja szerinti beruházás e
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 395/2017. (XII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 1a. pontját a 395/2017. (XII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^3]: Az 1. § (1) bekezdés 2. pontja a 622/2023. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés 2. pontja a 622/2023. (XII. 22.) Korm. rendelet 5. § a) pontja, a 459/2025. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés 3. pontja a 395/2017. (XII. 13.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 3a. pontját a 395/2017. (XII. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^6]: Az 1. § (1) bekezdés 5a. pontját a 395/2017. (XII. 13.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 110/2022. (III. 21.) Korm. rendelet 3. § b) pontja, a 622/2023. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. § (1) bekezdés 5a. pontját a 395/2017. (XII. 13.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 110/2022. (III. 21.) Korm. rendelet 3. § b) pontja, a 459/2025. (XII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § (1) bekezdés 6. pontját a 110/2022. (III. 21.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^8]: Az 1. § (1) bekezdés 8. pontja a 110/2022. (III. 21.) Korm. rendelet 1. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 185. § a) pontja szerint módosított szöveg.
-[^9]: Az 1. § (1) bekezdés 13. pontja a 622/2023. (XII. 22.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: Az 1. § (1) bekezdés 8. pontja a 110/2022. (III. 21.) Korm. rendelet 1. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 185. § a) pontja, a 459/2025. (XII. 30.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^9]: Az 1. § (1) bekezdés 13. pontja a 459/2025. (XII. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^10]: Az 1. § (1) bekezdés 14. pontja a 395/2017. (XII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (2) bekezdés a) pont nyitó szövegrésze a 622/2023. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. § (2) bekezdés a) pont nyitó szövegrésze a 459/2025. (XII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^12]: Az 1. § (2) bekezdés a) pont aa) alpontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 2. pontja szerint módosított szöveg.
 [^13]: Az 1. § (2) bekezdés a) pont ab) alpontja a 395/2017. (XII. 13.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.
 [^14]: Az 1. § (2) bekezdés a) pont ad) alpontja a 110/2022. (III. 21.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

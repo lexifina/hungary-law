@@ -1,56 +1,57 @@
-## 1. adózó azonosító adatai,
+2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^72]
 
-## 2. a beruházással kapcsolatos adatok:
+## Az adózó a Tao. törvény 22/B. § (1) bekezdés l) pontja szerinti beruházás tervezett kezdőnapja előtt nyilatkozik a következő adatokról:
 
-## a. beruházás megkezdésének és befejezésének tervezett napja,
+1. A Tao. törvény 22/B. § (40) bekezdése szerinti bejelentés esetén:
 
-## b. beruházás célja, jellege,
+1.1. az adózó azonosító adatai;
 
-## c. elszámolható költséggel, adókedvezményi összeggel kapcsolatos adatok,
+1.2. a beruházással kapcsolatos adatok:
 
-## d. a fejlesztési program részletes ismertetése a Tao. törvény 22/B. § (1) bekezdés d) pontja alapján igényelt adókedvezmény esetében;
+a. beruházás megkezdésének és befejezésének tervezett napja,
 
-## 3. az igénybevétel törvényi feltételeinek teljesítéséhez kapcsolódó adatok;
+b. a beruházás helye,
 
-## 4. jogszabályok által előírt nyilatkozatok.
+c. az adókedvezmény jogcíme,
 
-## B) Kérelem esetén:
+d. a beruházás bemutatása, az érintett térségben várható pozitív hatások rövid leírása,
 
-## 1. adózó azonosító adatai és bemutatása,
+e. az elszámolható költséggel, adókedvezményi összeggel kapcsolatos adatok (ideértve a teljes beruházási költséget, az összes elszámolható költséget, az igényelt adókedvezmény összegét, a támogatási intenzitást),
 
-## 2. a beruházással kapcsolatos adatok:
+f. az adókedvezmény szükségességének és az ezáltal a beruházási döntésre és a helyszínnel kapcsolatos döntésre gyakorolt hatásának rövid ismertetése;
 
-## a. beruházás megkezdésének és befejezésének tervezett napja,
+1.3. az igénybevétel törvényi feltételeinek teljesítéséhez kapcsolódó adatok;
 
-## b. beruházás célja, jellege, tartalma,
+1.4. jogszabályok által előírt nyilatkozatok (ideértve az adózó nyilatkozatát is, amelyben megerősíti, hogy a beruházása esetében nem valósítja meg támogatott beruházások mesterséges felosztását).
 
-## c. elszámolható költséggel, adókedvezményi összeggel kapcsolatos adatok,
+2. A Tao. törvény 22/B. § (42) bekezdése szerinti bejelentés esetén:
 
-## d. a fejlesztési program részletes ismertetése a Tao. törvény 22/B. § (1) bekezdés d) pontja alapján igényelt adókedvezmény esetében;
+2.1. az adózó azonosító adatai;
 
-## 3. az igénybevétel törvényi feltételeinek teljesítéséhez kapcsolódó adatok;
+2.2. a beruházással kapcsolatos adatok:
 
-## 4. jogszabályok által előírt nyilatkozatok;
+a. beruházás megkezdésének és befejezésének tervezett napja,
 
-## 5. tárgyi eszköz alapú beruházások költségelemeinek bemutatása;
+b. a beruházás helye,
 
-## 6. tárgyi eszköz alapú beruházások megvalósulásának ütemezése folyó áron;
+c. az adókedvezmény jogcíme,
 
-## 7. tárgyi eszköz alapú beruházások megvalósulásának ütemezése jelenértéken;
+d. a beruházás bemutatása, az érintett térségben várható pozitív hatások rövid leírása,
 
-## 8. munkahelyteremtő beruházások elszámolható költségének részletezése;
+e. az elszámolható költséggel, adókedvezményi összeggel kapcsolatos adatok (ideértve a teljes beruházási költséget, az összes elszámolható költséget, az igényelt adókedvezmény összegét, a támogatási intenzitást),
 
-## 9. az adókedvezmény igénybevételének tervezett ütemezése.
+f. az adókedvezmény szükségességének és az ezáltal a beruházási döntésre és a helyszínnel kapcsolatos döntésre gyakorolt hatásának rövid ismertetése,
 
-## C) Nagyberuházás esetén az A) vagy B) pont szerinti adattartalom mellett:
+g. a finanszírozási hiány elemzésével kapcsolatos adatok,
 
-## a) beruházás településenkénti adatai;
+h. annak bemutatása, hogy a beruházás hitelt érdemlően támogatásban részesülne egy EGT-n kívüli államban a kontrafaktuális forgatókönyvben szereplő hasonló projekt esetében,
 
-## b)[^70] vármegyei szintű összesítő adatok;
+i. annak bemutatása, hogy az adókedvezmény nélkül a tervezett beruházás nem az EGT-ben valósulna meg,
 
-## c) megelőző háromszor háromszázhatvanöt napos időszak beruházásainak bemutatása.
+j. annak bemutatása, hogy az adókedvezmény nem idéz elő kohézióellenes hatásokat;
 
-2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^71]
+2.3. az igénybevétel törvényi feltételeinek teljesítéséhez kapcsolódó adatok;
 
-[^70]: Az 1. melléklet C) rész b) pontja a 616/2022. (XII. 29.) Korm. rendelet 185. § b) pontja szerint módosított szöveg.
-[^71]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte, újonnan a 622/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+2.4. jogszabályok által előírt nyilatkozatok.
+
+[^72]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte, újonnan a 622/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 459/2025. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
