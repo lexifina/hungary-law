@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2023-01-01 | 2001-12-20-22.79 | 74/2011. (V. 2.) Korm. rendelet |
 | 2024-03-01 | 2001-12-20-22.80 | 35/2024. (II. 29.) Korm. rendelet |
 | 2024-10-01 | 2001-12-20-22.81 | 285/2024. (IX. 30.) Korm. rendelet |
+| 2026-01-01 | 2001-12-20-22.82 | 203/2013. (VI. 14.) Korm. rendelet |

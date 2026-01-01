@@ -1,4 +1,4 @@
-35. § (1)[^334] Az Előirányzatból támogatások kizárólag pályázat útján nyújthatók, amelyekkel kapcsolatos egyes feladatok ellátásával a 26. §, a 27/A. §, a 27/B. §, a 30. §, a 32/A. §, a 32/B. §, valamint a 32/D. § esetén lebonyolító vagy kezelő szervként az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. bízható meg.
+35. § (1)[^334] Az Előirányzatból támogatások kizárólag pályázat útján nyújthatók, amelyekkel kapcsolatos egyes feladatok ellátásával a 26. §, a 27/A. §, a 27/B. §, a 30. §, a 32/A. §, a 32/B. §, valamint a 32/D. § esetén lebonyolító vagy kezelő szervként a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet bízható meg.
 
 (2)[^335]
 
@@ -8,7 +8,7 @@
 
 (5)[^337]
 
-[^334]: A 35. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 9. §-ával megállapított, az 537/2013. (XII. 30.) Korm. rendelet 17. § m) pontja szerint módosított szöveg.
+[^334]: A 35. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 9. §-ával megállapított, az 537/2013. (XII. 30.) Korm. rendelet 17. § m) pontja, a 442/2025. (XII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^335]: A 35. § (2) bekezdését a 74/2011. (V. 2.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
 [^336]: A 35. § (3) bekezdése a 74/2011. (V. 2.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^337]: A 35. § (5) bekezdését a 138/2001. (VII. 31.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
