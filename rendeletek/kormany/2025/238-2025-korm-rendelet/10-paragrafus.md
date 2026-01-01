@@ -1,4 +1,4 @@
-10. § (1)
+10. § (1) A Tszt. Vhr. 3. melléklete az 1. melléklet szerint módosul.
 
 (2)[^10]
 
