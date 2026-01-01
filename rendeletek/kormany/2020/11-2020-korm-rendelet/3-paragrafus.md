@@ -18,7 +18,7 @@ b) a Szolg. tv. 22. § (1) bekezdés c) pontjában meghatározottak tekintetébe
 
 c) a felnőttképzési tevékenységhez kapcsolódó szolgáltatás megnevezését, valamint annak megjelölését, ha a felnőttképző csak az Fktv. 3. § (2) bekezdése szerinti ingyenes belső képzést szervez.
 
-(1a)[^7] A bejelentéshez csatolni kell az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
+(1a)[^7]
 
 (2) Az engedély megadása iránti kérelemnek tartalmaznia kell
 
@@ -46,7 +46,7 @@ d)[^15] a felnőttképzési tevékenységhez kapcsolódó szolgáltatás megneve
 
 (2a)[^16] Az engedély megadása iránti kérelemhez csatolni kell
 
-a) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot,
+a)[^17]
 
 b) a szakmai vezető szakmai vezetésre való alkalmasságát igazoló, egyetemi vagy főiskolai végzettségét és pedagógiai vagy andragógiai szakképzettségét bizonyító oklevél másolatát,
 
@@ -60,11 +60,13 @@ db) rendelkezik az e rendeletben meghatározott minőségirányítási rendszerr
 
 dc) biztosítja az ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételeket.
 
-(3)[^17] A szakképzési centrum részeként működő szakképző intézmény esetén a bejelentést, illetve az engedély megadása iránti kérelmet a szakképzési centrum nyújtja be a felnőttképzési államigazgatási szervhez.
+(3)[^18] A szakképzési centrum részeként működő szakképző intézmény esetén a bejelentést, illetve az engedély megadása iránti kérelmet a szakképzési centrum nyújtja be a felnőttképzési államigazgatási szervhez.
+
+(4)[^19] A bejelentés és az engedélyezési eljárás során az igazgatási szolgáltatási díj megfizetésekor az átutalás közlemény rovatában fel kell tüntetni az eljárási azonosító számot.
 
 [^5]: A 3. § (1) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés a) pont ac) alpontja a 12/2022. (I. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^7]: A 3. § (1a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^7]: A 3. § (1a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 395/2025. (XII. 16.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
 [^8]: A 3. § (2) bekezdés a) pont aa) alpontja a 688/2021. (XII. 8.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdés a) pont ab) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdés a) pont ac) alpontja a 12/2022. (I. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
@@ -74,4 +76,6 @@ dc) biztosítja az ügyfélszolgálati és panaszkezelési rendszer működteté
 [^14]: A 3. § (2) bekezdés c) pont cb) alpontja a 688/2021. (XII. 8.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^15]: A 3. § (2) bekezdés d) pontját a 688/2021. (XII. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^16]: A 3. § (2a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^17]: A 3. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^17]: A 3. § (2a) bekezdés a) pontját a 395/2025. (XII. 16.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
+[^18]: A 3. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^19]: A 3. § (4) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 37. §-a iktatta be.
