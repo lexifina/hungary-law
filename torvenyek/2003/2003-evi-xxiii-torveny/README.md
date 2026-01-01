@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-23-00-00
 | 2024-11-05 | 2024. évi XXXIX. törvény | 2003-23-00-00.19 |
 | 2025-07-01 | 2025. évi LXVII. törvény | 2003-23-00-00.20 |
 | 2025-12-24 | 2025. évi C. törvény | 2003-23-00-00.22 |
+| 2026-01-01 | 2025. évi XCIII. törvény | 2003-23-00-00.21 |
