@@ -1,3 +1,1 @@
-33. §[^69]
-
-[^69]: A 33. § a 37. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+33. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 30/A. § e) pontjában a „május 31-e” szövegrész helyébe a „május 15-e” szöveg lép.

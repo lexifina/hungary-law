@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-394-20-
 | --- | --- | --- |
 | 2025-12-12 | 2025-394-20-22.1 | 394/2025. (XII. 11.) Korm. rendelet |
 | 2025-12-13 | 2025-394-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2025-394-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
