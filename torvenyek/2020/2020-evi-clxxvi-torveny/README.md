@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-176-00-00
 | 2021-01-02 | 2010. évi CXXX. törvény | 2020-176-00-00.2 |
 | 2021-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-176-00-00.3 |
 | 2021-04-02 | 2010. évi CXXX. törvény | 2020-176-00-00.4 |
+| 2026-01-01 | 2025. évi XL. törvény | 2020-176-00-00.5 |
