@@ -6,7 +6,7 @@ A koncesszori alvállalkozók 2026. évre vonatkozó indokolt költségeinek mé
 
 | 1. | Hulladékgazdálkodási alrendszer megnevezése | Indokolt költségek mértéke (ÁFA nélkül e Ft) |
 
-| 2. | Átvétel és gyűjtés[^2] | Szállítás[^3] | Előkezelés és kezelésre átadás[^4] |
+| 2. | Átvétel és gyűjtés[^1] | Szállítás[^2] | Előkezelés és kezelésre átadás[^3] |
 
 | 3. | Hulladékgazdálkodási közszolgáltatási résztevékenységi alrendszer | 81 470 574 | 9 047 157 | 13 274 926 |
 
@@ -18,6 +18,6 @@ A koncesszori alvállalkozók 2026. évre vonatkozó indokolt költségeinek mé
 
 | 7. | Kötelező visszaváltási díjas intézményi alrendszer | 17 476 353 | 2 249 756 | 11 945 994 |
 
+[^1]: Beleértve az adott tevékenységgel összefüggő létesítményüzemeltetési és -fenntartási tevékenységet is.
 [^2]: Beleértve az adott tevékenységgel összefüggő létesítményüzemeltetési és -fenntartási tevékenységet is.
 [^3]: Beleértve az adott tevékenységgel összefüggő létesítményüzemeltetési és -fenntartási tevékenységet is.
-[^4]: Beleértve az adott tevékenységgel összefüggő létesítményüzemeltetési és -fenntartási tevékenységet is.
