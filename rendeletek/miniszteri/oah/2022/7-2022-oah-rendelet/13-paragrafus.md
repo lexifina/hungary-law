@@ -2,7 +2,7 @@
 
 13. § (1) A Hatóság a nyilvántartásba vett szakmagyakorló vagy szakmagyakorló cég tevékenységét az általa lefolytatott eljárás keretében ellenőrzi annak érdekében, hogy a szakmagyakorlási tevékenységet csak az arra jogosult végezze.
 
-(2) A szakmagyakorló vagy a szakmagyakorló cég a 12. § (2) bekezdésében foglalt adataiban történt változást, a szakmagyakorló cég licencének megszűnését, valamint a szakmagyakorlásra feljogosított cégnél a nyilvántartásba vett természetes személyek munkaviszonya vagy szerződéses kapcsolata megszűnését haladéktalanul köteles az engedélyes tudomására hozni. Az engedélyes az adatváltozást a változást igazoló okiratok rendelkezésére állását követő 8 napon belül bejelenti a Hatóságnak. A Hatóság az adatváltozást 15 napon belül átvezeti.
+(2)[^5] A szakmagyakorló vagy a szakmagyakorló cég az Atv. 18/D. § (3) bekezdésében foglalt adataiban történt változást, a szakmagyakorló cég licencének megszűnését, valamint a szakmagyakorlásra feljogosított cégnél a nyilvántartásba vett természetes személyek munkaviszonya vagy szerződéses kapcsolata megszűnését haladéktalanul köteles az engedélyes tudomására hozni. Az engedélyes az adatváltozást a változást igazoló okiratok rendelkezésére állását követő nyolc napon belül bejelenti a Hatóságnak. A Hatóság az adatváltozást a nyilvántartásban haladéktalanul átvezeti.
 
 (3) A Hatóság figyelmeztetésben részesíti a szakmagyakorlót és szakmagyakorló céget, amennyiben
 
@@ -20,10 +20,14 @@ c) a nyilvántartásba vételi kérelemhez csatolt dokumentumokban valótlan ada
 
 d) a Hatóság – a (3) bekezdés szerint – ismételt figyelmeztetést tesz.
 
-(5) A Hatóság által megtiltott szakmai tevékenység újra folytatható
+(5)[^6] A Hatóság által megtiltott szakmai tevékenység újra folytatható
 
-a) szakmagyakorló esetén az eltiltás napjától számított 1 év türelmi idő letelte után, a Hatóság által megjelölt továbbképzési kötelezettség teljesítésének igazolásával,
+a) szakmagyakorló esetén az eltiltásról rendelkező döntés véglegessé válásától számított 45 nap letelte után, az eltiltásról rendelkező döntésben meghatározott kötelezettség teljesítésének igazolásával,
 
-b) szakmagyakorló cég esetén az eltiltás napjától számított 1 év türelmi idő letelte után, az engedélyes által a Hatóság részvételével lefolytatott ellenőrzésen való megfelelő minősítés elérésekor.
+b) szakmagyakorló cég esetén az eltiltásról rendelkező döntés véglegessé válásától számított 45 nap letelte után, az engedélyes által a Hatóság részvételével lefolytatott ellenőrzésen való megfelelő minősítés elérésekor.
 
-(6) A nyilvántartásból való törlést követően a szakmagyakorlóra, valamint a szakmagyakorló cégre vonatkozó adatokat a Hatóság a nukleáris létesítmény leszereléséig, a radioaktívhulladék-tároló passzív intézményes ellenőrzésre való áttéréséig őrzi meg.
+(6)[^7]
+
+[^5]: A 13. § (2) bekezdése a 2/2025. (XII. 23.) OAH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 13. § (5) bekezdése a 2/2025. (XII. 23.) OAH rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 13. § (6) bekezdését a 2/2025. (XII. 23.) OAH rendelet 4. § c) pontja hatályon kívül helyezte.

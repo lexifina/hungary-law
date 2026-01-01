@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-7-20-8L
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-05-01 | 2022-7-20-8L.1 | 7/2022. (IV. 29.) OAH rendelet |
+| 2026-01-01 | 2022-7-20-8L.2 | 2/2025. (XII. 23.) OAH rendelet |
