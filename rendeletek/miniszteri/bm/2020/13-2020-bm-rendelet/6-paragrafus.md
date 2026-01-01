@@ -14,7 +14,7 @@ c)[^31] a megváltozott munkaképességű munkavállaló foglalkoztatásával j�
 
 d)[^32] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 165 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja a 82,5 millió eurónak megfelelő forintösszeget,
 
-e)[^33] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén projektenként meghaladja a 33 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 110 millió eurónak megfelelő forintösszeget, valamint sportlétesítményhez nyújtott működési támogatás esetén infrastruktúránként és évenként meghaladja a 2,2 millió eurónak megfelelő forintösszeget.
+e)[^33]
 
 (4)[^34] A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából az 5. és 5/B−5/E. alcím hatálya alá tartozó, elsődleges mezőgazdasági termelés támogatása, valamint a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása esetén a 10 000 eurónak megfelelő forintösszeget, egyéb tevékenység támogatása esetén a 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
 
@@ -38,7 +38,7 @@ lehet támogatási döntést hozni.
 [^30]: A 6. § (3) bekezdés b) pontja a 39/2023. (IX. 14.) BM rendelet 9. § d) pontja szerint módosított szöveg.
 [^31]: A 6. § (3) bekezdés c) pontja a 39/2023. (IX. 14.) BM rendelet 9. § e) pontja szerint módosított szöveg.
 [^32]: A 6. § (3) bekezdés d) pontja a 39/2023. (IX. 14.) BM rendelet 9. § f)-g) pontja szerint módosított szöveg.
-[^33]: A 6. § (3) bekezdés e) pontja a 39/2023. (IX. 14.) BM rendelet 9. § h)-j) pontja szerint módosított szöveg.
+[^33]: A 6. § (3) bekezdés e) pontját a 49/2025. (XII. 11.) BM rendelet 3. § c) pontja hatályon kívül helyezte.
 [^34]: A 6. § (4) bekezdése a 39/2023. (IX. 14.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^35]: A 6. § (5a) bekezdését a 32/2020. (VIII. 7.) BM rendelet 3. §-a iktatta be, a 33/2022. (IX. 22.) BM rendelet 6. § 4. pontja hatályon kívül helyezte.
 [^36]: A 6. § (6) bekezdése a 39/2023. (IX. 14.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -6,13 +6,13 @@
 
 a) a helyiségek átalakításának költsége,
 
-b) a megváltozott munkaképességű munkavállaló segítésével foglalkozó személy foglalkoztatásához kapcsolódó költség kizárólag a segítés ideje alatt, valamint ezen segítő személy képzési költsége,
+b)[^52] a megváltozott munkaképességű munkavállaló segítésével foglalkozó személy foglalkoztatásához kapcsolódó költség kizárólag a segítés ideje alatt, valamint ezen segítő személynek a megváltozott munkaképességű munkavállaló segítéséhez kapcsolódó képzési költsége,
 
 c) a megváltozott munkaképességű munkavállaló általi használatra alkalmassá tétel érdekében a berendezések átalakításának, beszerzésének és a szoftverek beszerzésének, hitelesítésének olyan költsége – ideértve az átalakított vagy segítség nyújtására alkalmas technológiai felszerelések költségét is –, amely a kedvezményezettnél megváltozott munkaképességű munkavállaló foglalkoztatásának hiányában nem merült volna fel,
 
 d) a megváltozott munkaképességű munkavállaló munkahelyre és munkával kapcsolatos tevékenység helyszínére történő szállításához közvetlenül kapcsolódó költség vagy
 
-e) a megváltozott munkaképességű munkavállaló által rehabilitációra fordított órák bérköltsége.
+e)[^53] a megváltozott munkaképességű munkavállaló által rehabilitációval töltött órák bérköltsége.
 
 (3) Amennyiben a kedvezményezett védett foglalkoztatást biztosít, a (2) bekezdésen túl elszámolhatóak a kedvezményezett termelőegységei létrehozásának, üzembe helyezésének vagy korszerűsítésének költségei, továbbá minden adminisztrációs és szállítási költség, feltéve, hogy azok közvetlenül a megváltozott munkaképességű munkavállalók foglalkoztatásából erednek.
 
@@ -20,3 +20,5 @@ e) a megváltozott munkaképességű munkavállaló által rehabilitációra for
 
 [^50]: Az 5/D. alcímet (13/F. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
 [^51]: A 13/F. § a 39/2023. (IX. 14.) BM rendelet 5. §-ával megállapított szöveg.
+[^52]: A 13/F. § (2) bekezdés b) pontja a 49/2025. (XII. 11.) BM rendelet 2. § g) pontja szerint módosított szöveg.
+[^53]: A 13/F. § (2) bekezdés e) pontja a 49/2025. (XII. 11.) BM rendelet 2. § h) pontja szerint módosított szöveg.

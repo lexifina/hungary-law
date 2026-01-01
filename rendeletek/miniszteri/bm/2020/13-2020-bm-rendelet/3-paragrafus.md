@@ -18,9 +18,9 @@
 
 7a.[^14] hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 4. pontja szerinti munkavállaló,
 
-7b.[^15] hivatásos csapat: olyan sportszervezet, amely hivatásos sportolót alkalmaz,
+7b.[^15]
 
-7c.[^16] hivatásos sportoló: olyan sportoló, aki jövedelemszerzési céllal, foglalkozásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet, amely során a sportoló részére nyújtott juttatás – a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek kivételével – meghaladja a részvételi költségeket, és az a sportoló jövedelmének legalább 50%-át teszi ki, függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e egymással munka- vagy más, munkavégzésre irányuló szerződést,
+7c.[^16]
 
 8. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
@@ -32,7 +32,7 @@
 
 11. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti forgalmazás,
 
-11a.[^18] multifunkcionális szabadidős létesítmény: a 651/2014/EU bizottsági rendelet 55. cikk (3) bekezdése szerinti létesítmény,
+11a.[^18]
 
 12. működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételei, csökkentve a diszkontált működési költségekkel (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) és – a támogatást nyújtó döntése alapján – a diszkontált észszerű nyereséggel, ha a számítás végeredménye pozitív, ellenkező esetben a működési eredmény nulla,
 
@@ -48,9 +48,9 @@
 
 [^13]: A 3. § 4. pontja az 51/2024. (X. 14.) BM rendelet 7. § 3. pontja szerint módosított szöveg.
 [^14]: A 3. § 7a. pontját a 12/2023. (V. 19.) BM rendelet 2. § (1) bekezdése iktatta be.
-[^15]: A 3. § 7b. pontját a 12/2023. (V. 19.) BM rendelet 2. § (2) bekezdése iktatta be, szövege a 39/2023. (IX. 14.) BM rendelet 9. § b) pontja szerint módosított szöveg.
-[^16]: A 3. § 7c. pontját a 12/2023. (V. 19.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^15]: A 3. § 7b. pontját a 12/2023. (V. 19.) BM rendelet 2. § (2) bekezdése iktatta be, a 49/2025. (XII. 11.) BM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^16]: A 3. § 7c. pontját a 12/2023. (V. 19.) BM rendelet 2. § (3) bekezdése iktatta be, a 49/2025. (XII. 11.) BM rendelet 3. § b) pontja hatályon kívül helyezte.
 [^17]: A 3. § 8a. pontját a 12/2023. (V. 19.) BM rendelet 2. § (4) bekezdése iktatta be.
-[^18]: A 3. § 11a. pontját a 12/2023. (V. 19.) BM rendelet 2. § (5) bekezdése iktatta be.
+[^18]: A 3. § 11a. pontját a 12/2023. (V. 19.) BM rendelet 2. § (5) bekezdése iktatta be, a 49/2025. (XII. 11.) BM rendelet 3. § b) pontja hatályon kívül helyezte.
 [^19]: A 3. § 13. pontja a 2/2022. (III. 10.) BM rendelet 5. § a) pontja szerint módosított szöveg.
 [^20]: A 3. § 17. pontját a 39/2023. (IX. 14.) BM rendelet 2. §-a iktatta be, a 15/2025. (V. 19.) BM rendelet 4. § c) pontja hatályon kívül helyezte.
