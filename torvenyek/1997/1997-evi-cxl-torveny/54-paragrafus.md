@@ -22,7 +22,7 @@ j) elnevezésében megjelenik a könyvtár kifejezés.
 
 (1a) Azok a fegyveres és rendvédelmi testületek által fenntartott könyvtárak, amelyek vállalják a nyilvános könyvtárak 55. § (1) bekezdés szerinti alapfeladatainak ellátását, a hozzáférést távhasználat útján is biztosíthatják.
 
-(2) A nyilvános könyvtárakról a miniszter jegyzéket vezet, az alapkövetelmények és alapfeladatok teljesítését a könyvtári intézet bevonásával értékeli.
+(2) A nyilvános könyvtárakról a miniszter a könyvtári intézet bevonásával nyilvános jegyzéket vezet.
 
 (3) Nyilvános könyvtár
 
@@ -36,9 +36,9 @@ d) a 3. számú melléklet szerinti országos szakkönyvtár, valamint
 
 e) az állami egyetem könyvtára.
 
-(4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár felvételét a nyilvános könyvtárak jegyzékébe.
+(4) A (3) bekezdés hatálya alá nem tartozó könyvtár fenntartója az (1) bekezdésben foglaltak teljesítésével, valamint az erről szóló nyilatkozat és a jogszabályban meghatározott adatok benyújtásával kérheti a minisztertől a könyvtár nyilvános könyvtárnak minősítését.
 
-(5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből. Törvény az ellenőrzés lefolytatását – az érintett könyvtár megnevezésével – a fenntartó kérelméhez kötheti.
+(5) Az (1) bekezdésben felsorolt követelmények betartását, valamint az alapfeladatok teljesítését a könyvtári intézet bevonásával miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását. A (4) bekezdés hatálya alá tartozó könyvtár esetében a hiánypótlás elmaradása esetén visszavonja annak nyilvános könyvtári minősítését.
 
 (6) A települési könyvtár megszüntetése esetén a fenntartó a döntés előkészítése során beszerzi és a döntést hozó testülettel ismerteti a miniszter véleményét.
 

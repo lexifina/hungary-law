@@ -16,23 +16,19 @@ c) megfelel a miniszter rendeletében előírt képesítési és egyéb feltéte
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 
-(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
+(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, amely az a), b), e) és f) pont szerinti adatok tekintetében közhitelesnek minősül. A nyilvántartás tartalmazza:
 
-a) a szakmai továbbképzési programot készítő intézmény megnevezése,
+a) a szakmai továbbképzési program megnevezését,
 
-b) a szakmai továbbképzési program megnevezése,
+b) a szakmai továbbképzési programot készítő és tartására jogosult megnevezését,
 
-c) a szakmai továbbképzés célcsoportja,
+c) a szakmai továbbképzési program alapján megszerezhető kompetencia megnevezését,
 
-d) a szakmai továbbképzési programba való jelentkezés feltételei,
+d) a szakmai továbbképzési program óraszámát,
 
-e) a szakmai továbbképzési program teljes óraszáma,
+e) a szakmai továbbképzési program nyilvántartásba vételéről szóló határozat számát,
 
-f) a szakmai továbbképzési program főbb területei,
-
-g) a szakmai továbbképzési program nyilvántartásba vételéről szóló határozat száma,
-
-h) a szakmai továbbképzési program nyilvántartásba vételének időpontja.
+f) a szakmai továbbképzési program érvényességi idejét.
 
 (5) A vármegyei hatókörű városi múzeum állami támogatása terhére évente biztosítani kell intézményenként legalább egy fő, szakmai munkakörben foglalkoztatott múzeumi szakember alaptevékenységnek megfelelő szakmai továbbképzését.
 
