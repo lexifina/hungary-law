@@ -1,4 +1,4 @@
-2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^126]
+2. számú melléklet a 32/2004. (IV. 26.) ESZCSM rendelethez[^129]
 
 A kiemelt indikációhoz kötött támogatási kategóriába (EÜ100) tartozó
 
@@ -1884,15 +1884,17 @@ EÜ100 22.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-- Terhes anyák részére, szerológiailag igazolt toxoplasmosisban
+– Terhes anyák részére, szerológiailag igazolt toxoplasmosisban
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
-|  | MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
+| MUNKAHELY: | SZAKKÉPESÍTÉS: | JOGOSULTSÁG: |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Infektológia | írhat |
+| Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Infektológia | írhat |
 
-|  | Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Szülészet-nőgyógyászat | írhat |
+| Járóbeteg szakrendelés / Fekvőbeteg gyógyintézet | Szülészet-nőgyógyászat | írhat |
+
+| Háziorvos | Megkötés nélkül | írhat |
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -4242,7 +4244,7 @@ EÜ100 76.
 
 TÁMOGATOTT INDIKÁCIÓK:
 
-In vitro és/vagy in vivo diagnosztikával igazolt, klinikai tüneteket okozó túlérzékenység gyakran allergizáló táplálékra, gyógyszerre, rovarméregre abban az esetben, ha súlyos szisztémás reakció szerepel a kórtörténetben, illetve bármilyen okból (foglakozás, környezet) nagy az anaphylaxia veszélye.
+In vitro és/vagy in vivo diagnosztikával igazolt, klinikai tüneteket okozó túlérzékenység gyakran allergizáló táplálékra, gyógyszerre, rovarméregre, abban az esetben, ha súlyos szisztémás reakció szerepel a kórtörténetben illetve bármilyen okból (foglalkozás, környezet) nagy az anaphylaxia veszélye.
 
 A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
 
@@ -4264,7 +4266,7 @@ A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAK
 
 | Megkötés nélkül | Bőrgyógyászat | írhat |
 
-| Megkötés nélkül | Fül-orr-gégegyógyászat | írhat |
+| Megkötés nélkül | Fül-orr gégegyógyászat | írhat |
 
 | Megkötés nélkül | Gasztroenterológia | írhat |
 
@@ -4272,7 +4274,7 @@ A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAK
 
 | Megkötés nélkül | Oxyológia és sürgősségi orvostan | írhat |
 
-|  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 12 hónap |
+|  | SZAKORVOSI JAVASLAT ÉRVÉNYESSÉGI IDEJE: 36 hónap |
 
 ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
@@ -4662,14 +4664,4 @@ ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot)
 
 Q891
 
-EÜ100 85.
-
-TÁMOGATOTT INDIKÁCIÓK:
-
-Polycythaemia verában (PV) szenvedő, felnőtt betegek kezelésére, akik dokumentáltan rezisztensek vagy intoleránsak legalább 3 hónapos hidroxikarbamid (hidroxiurea, HU) kezelésre. Amennyiben a 32. héten végzett laboratóriumi vizsgálat során a hematocrit >45% vagy a thrombocytaszám >400 G/l vagy a fehérvérsejtszám >10 G/l, a terápiát fel kell függeszteni.
-
-A terápia leállítandó, ha legalább 28 napnyi kezelést követően, legalább két hónapig, havi 2 E-nyi vörösvérsejt transzfúziós igény mutatkozik, vagy legalább grade 3 szintű trombocitopenia, anémia, vagy vérzés lép fel. Relabáló a beteg, ha legalább 3 hónapos kezelés mellett a lép újra megnövekszik, amelyet a léptérfogat <10%-os vagy a lépméret <30%-os csökkenése jellemez a kezdeti választ követően.
-
-A JAVASLATOT KIÁLLÍTÓ ÉS A GYÓGYSZERT RENDELŐ ORVOS MUNKAHELYÉRE ÉS SZAKKÉPESÍTÉSÉRE VONATKOZÓ ELŐÍRÁSOK:
-
-[^126]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja, a 47/2011. (VII. 27.) NEFMI rendelet 8. § (2) bekezdése, a 67/2011. (XII. 13.) NEFMI rendelet 3. § a)–b) pontja, a 2/2012. (I. 3.) NEFMI rendelet 6. § (1)–(3) bekezdése, a 25/2012. (IV. 21.) NEFMI rendelet 2. § (1) bekezdése, a 10/2012. (VII. 19.) EMMI rendelet 2. § (1) bekezdése és 3. § d) pontja, a 10/2013. (I. 31.) EMMI rendelet 13. § (2) bekezdése és 14. § (3) bekezdése, a 31/2013. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 7/2014. (I. 29.) EMMI rendelet 9. § (2) bekezdése, a 33/2014. (IV. 18.) EMMI rendelet 2. § (1) és (3) bekezdése, a 10/2015. (II. 23.) EMMI rendelet 5. § (3) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 2. §-a, a 38/2015. (VIII. 17.) EMMI rendelet 4. § (2) bekezdése és 5. §-a, a 15/2016. (VII. 15.) EMMI rendelet 2. § (2) bekezdése, a 41/2016. (XII. 22.) EMMI rendelet 1. § (2) bekezdése, a 9/2017. (V. 31.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 2. § (1) bekezdése, a 28/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 2. § (3) bekezdése, a 3/2020. (I. 31.) EMMI rendelet 2. § (2) bekezdése, a 16/2020. (IV. 30.) EMMI rendelet 1. §-a, a 40/2021. (IX. 6.) EMMI rendelet 2. §-a, az 55/2021. (XII. 22.) EMMI rendelet 3. § (2) bekezdése, a 16/2022. (IV. 29.) EMMI rendelet 2. § (2) bekezdése, a 37/2022. (X. 28.) BM rendelet 4. § (2) bekezdése, az 55/2022. (XII. 27.) BM rendelet 5. §-a, az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése, a 70/2023. (XII. 23.) BM rendelet 13. §-a, a 41/2024. (IX. 5.) BM rendelet 2. § (1) bekezdése, az 57/2024. (XII. 20.) BM rendelet 6. § (1) bekezdése, a 10/2025. (IV. 4.) BM rendelet 11–13. §-a, a 41/2025. (IX. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg. [A 36/2019. (XII. 30.) EMMI rendelet rendelet 2. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. számú melléklet EÜ100 7/a., EÜ100 7/b., EÜ100 8/t., EÜ100 23/a., EÜ100 34., EÜ100 36/a., EÜ100 36/b., EÜ100 36/c., EÜ100 37/a., EÜ100 37/b., EÜ100 37/c., EÜ100 38/b., EÜ100 41., EÜ100 42., EÜ100 43., EÜ100 50., EÜ100 51., EÜ100 56. pontjában foglalt táblázatban az „Egyesített Szent István és Szent László Kórház és Rendelőintézet” szövegrész helyébe a „Dél-pesti Centrumkórház-Országos Hematológiai Intézet” szöveg lép, nem vezethető át.][Az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése által elrendelt módosítás, amely szerint hatályát veszti a 2. számú melléklet EÜ100 28., EÜ100 29. és EÜ100 37/b. pontjában a „finanszírozási eljárásrendekről szóló miniszteri rendeletben” szövegrész, nem vezethető át.]
+[^129]: Az új 2. számú mellékletet az 53/2006. (XII. 28.) EüM rendelet 15. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2. számú melléklet számozását 5. számú mellékletre változtatva. A 2. számú melléklet a 45/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított, a 31/2010. (V. 13.) EüM rendelet 9. § (1) bekezdése, 10. §-a és 12. § b) pontja, a 36/2010. (V. 14.) EüM rendelet 3. § (2) bekezdése, 4. § (1) bekezdés q) pontja, a 47/2011. (VII. 27.) NEFMI rendelet 8. § (2) bekezdése, a 67/2011. (XII. 13.) NEFMI rendelet 3. § a)–b) pontja, a 2/2012. (I. 3.) NEFMI rendelet 6. § (1)–(3) bekezdése, a 25/2012. (IV. 21.) NEFMI rendelet 2. § (1) bekezdése, a 10/2012. (VII. 19.) EMMI rendelet 2. § (1) bekezdése és 3. § d) pontja, a 10/2013. (I. 31.) EMMI rendelet 13. § (2) bekezdése és 14. § (3) bekezdése, a 31/2013. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 7/2014. (I. 29.) EMMI rendelet 9. § (2) bekezdése, a 33/2014. (IV. 18.) EMMI rendelet 2. § (1) és (3) bekezdése, a 10/2015. (II. 23.) EMMI rendelet 5. § (3) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 2. §-a, a 38/2015. (VIII. 17.) EMMI rendelet 4. § (2) bekezdése és 5. §-a, a 15/2016. (VII. 15.) EMMI rendelet 2. § (2) bekezdése, a 41/2016. (XII. 22.) EMMI rendelet 1. § (2) bekezdése, a 9/2017. (V. 31.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 2. § (1) bekezdése, a 28/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 2. § (3) bekezdése, a 3/2020. (I. 31.) EMMI rendelet 2. § (2) bekezdése, a 16/2020. (IV. 30.) EMMI rendelet 1. §-a, a 40/2021. (IX. 6.) EMMI rendelet 2. §-a, az 55/2021. (XII. 22.) EMMI rendelet 3. § (2) bekezdése, a 16/2022. (IV. 29.) EMMI rendelet 2. § (2) bekezdése, a 37/2022. (X. 28.) BM rendelet 4. § (2) bekezdése, az 55/2022. (XII. 27.) BM rendelet 5. §-a, az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése, a 70/2023. (XII. 23.) BM rendelet 13. §-a, a 41/2024. (IX. 5.) BM rendelet 2. § (1) bekezdése, az 57/2024. (XII. 20.) BM rendelet 6. § (1) bekezdése, a 10/2025. (IV. 4.) BM rendelet 11–13. §-a, a 41/2025. (IX. 29.) BM rendelet 6. § (1) bekezdése, az 51/2025. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg. [A 36/2019. (XII. 30.) EMMI rendelet rendelet 2. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. számú melléklet EÜ100 7/a., EÜ100 7/b., EÜ100 8/t., EÜ100 23/a., EÜ100 34., EÜ100 36/a., EÜ100 36/b., EÜ100 36/c., EÜ100 37/a., EÜ100 37/b., EÜ100 37/c., EÜ100 38/b., EÜ100 41., EÜ100 42., EÜ100 43., EÜ100 50., EÜ100 51., EÜ100 56. pontjában foglalt táblázatban az „Egyesített Szent István és Szent László Kórház és Rendelőintézet” szövegrész helyébe a „Dél-pesti Centrumkórház-Országos Hematológiai Intézet” szöveg lép, nem vezethető át.][Az 50/2023. (XII. 12.) BM rendelet 6. § (2) bekezdése által elrendelt módosítás, amely szerint hatályát veszti a 2. számú melléklet EÜ100 28., EÜ100 29. és EÜ100 37/b. pontjában a „finanszírozási eljárásrendekről szóló miniszteri rendeletben” szövegrész, nem vezethető át.]
