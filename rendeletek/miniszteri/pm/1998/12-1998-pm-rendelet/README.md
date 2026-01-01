@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-12-20-5
 | 2023-01-01 | 1998-12-20-53.27 | 40/2012. (XII. 20.) NGM rendelet |
 | 2024-01-01 | 1998-12-20-53.28 | 40/2012. (XII. 20.) NGM rendelet |
 | 2025-01-01 | 1998-12-20-53.29 | 40/2012. (XII. 20.) NGM rendelet |
+| 2026-01-01 | 1998-12-20-53.30 | 40/2012. (XII. 20.) NGM rendelet |
