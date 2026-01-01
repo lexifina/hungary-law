@@ -14,7 +14,7 @@ a) az MK NZrt. a fővárosi személysérüléses baleseti adatokat elektronikus 
 
 b) az MK NZrt. elektronikus úton átadja a koncessziós társaságoknak a kezelésükben levő közutak személysérüléses baleseti adatait az (1) bekezdésben meghatározott átvételt követő 3 munkanapon belül.
 
-(4)[^7] A közúti közlekedési balesetek adatai közül a helyszín azonosítására vonatkozó földrajzi adatokat a BK Zrt. a fővárosi közutak vonatkozásában havonta ellenőrzi és az MK NZrt. részére továbbítja, aki biztosítja, hogy az adatok – az országos közutak és a fővárosi közutak tekintetében egyaránt – az érintett közútkezelők, a Közlekedéstudományi Intézet, a Magyar Mérnöki Kamara névjegyzékében szereplő közúti biztonsági auditorok és a Magyar Mérnöki Kamara Közlekedési Szakmai Tagozatának tagjaiként tervezői jogosultsággal rendelkező mérnökök részére hozzáférhetők legyenek.
+(4)[^7] A közúti közlekedési balesetek adatai közül a helyszín azonosítására vonatkozó földrajzi adatokat a BK Zrt. a fővárosi közutak vonatkozásában havonta ellenőrzi és az MK NZrt. részére továbbítja, aki biztosítja, hogy az adatok – az országos közutak és a fővárosi közutak tekintetében egyaránt – az érintett közútkezelők, a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet, a Magyar Mérnöki Kamara névjegyzékében szereplő közúti biztonsági auditorok és a Magyar Mérnöki Kamara Közlekedési Szakmai Tagozatának tagjaiként tervezői jogosultsággal rendelkező mérnökök részére hozzáférhetők legyenek.
 
 (5) Az MK NZrt. a tárgyévet követő 90 napon belül közzéteszi honlapján a rendelkezésére álló közúti közlekedési balesetek statisztikai adatait.
 
@@ -25,4 +25,4 @@ b) az MK NZrt. elektronikus úton átadja a koncessziós társaságoknak a kezel
 (8) A közlekedésért felelős miniszter legalább ötévenként gondoskodik a személyi sérüléssel, valamint anyagi kárral járó közúti közlekedési balesetek okozta – forintban kifejezett – nemzetgazdasági veszteség becsült értékének megállapításáról, és ezen adatokat a honlapján közzéteszi.
 
 [^6]: A 9. § (3) bekezdése a 109/2023. (III. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^7]: A 9. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 83. §-a, a 141/2025. (VI. 19.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^7]: A 9. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 83. §-a, a 141/2025. (VI. 19.) Korm. rendelet 17. §-a, a 442/2025. (XII. 29.) Korm. rendelet 17. §-a szerint módosított szöveg.
