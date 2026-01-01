@@ -72,6 +72,8 @@ kapcsolatos feladatok ellátására.
 
 (8)[^41] A Kormány egészségbiztosítóként a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (11) és (13) bekezdésében foglalt feladatok ellátására.
 
+(9)[^42] A Kormány egészségbiztosítási szervként a NEAK-ot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (7) bekezdésében, valamint 9/A. és 9/B. §-ában meghatározott feladatok ellátására.
+
 [^32]: A 8. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 29. §-ával megállapított, a 448/2024. (XII. 23.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^33]: A 8. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^34]: A 8. § (3) bekezdés c) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -82,3 +84,4 @@ kapcsolatos feladatok ellátására.
 [^39]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja, a 616/2022. (XII. 29.) Korm. rendelet 246. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^40]: A 8. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
 [^41]: A 8. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
+[^42]: A 8. § (9) bekezdését a 351/2025. (XI. 12.) Korm. rendelet 16. §-a iktatta be.
