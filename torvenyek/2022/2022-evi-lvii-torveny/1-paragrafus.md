@@ -8,7 +8,7 @@
 
 a) az 1. mellékletben meghatározott ingatlan vagy ingatlan tulajdoni hányad,
 
-b) a sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 1. mellékletében szereplő ingatlanok, vagy ingatlan tulajdoni hányadok, valamint
+b) a sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 1. és 2. mellékletében szereplő ingatlanok vagy ingatlan tulajdoni hányadok, valamint
 
 c) a Kormány egyedi, nyilvános határozatával a 2. § szerinti közfeladat ellátás céljából ekként minősített, a magyar állam tulajdonában álló ingatlan, vagy ingatlan tulajdoni hányad.
 

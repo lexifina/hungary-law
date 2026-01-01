@@ -1,6 +1,6 @@
 1. melléklet a 2022. évi LVII. törvényhez
 
-1. 2022. december 31-én állami tulajdonban álló sportingatlanok
+1. Állami tulajdonban álló sportingatlanok
 
 |
 
@@ -218,23 +218,13 @@ Ormai László Asztalitenisz Csarnok
 
 |
 
-Ráckeve
+|
 
 |
 
-54
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Ráckevei Vízisporttelep
 
 |
 
@@ -458,23 +448,13 @@ PM Klubház
 
 |
 
-Békés
+|
 
 |
 
-1152
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Békési Kajak-kenu ház
 
 |
 
@@ -530,23 +510,13 @@ Siófoki Kajak-kenu ház II.
 
 |
 
-Vác
+|
 
 |
 
-2432
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Váci Kajak-kenu ház I.
 
 |
 
@@ -554,23 +524,13 @@ Váci Kajak-kenu ház I.
 
 |
 
-Vác
+|
 
 |
 
-2433
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Váci Kajak-kenu ház II.
 
 |
 
@@ -674,23 +634,13 @@ Nemzeti Kézilabda Akadémia Szállásépületek
 
 |
 
-Budapest XIX. kerület
+|
 
 |
 
-168207/1
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Bozsik Stadion
 
 |
 
@@ -890,23 +840,13 @@ Mátraháza Pagoda ingatlan
 
 |
 
-Budapest XIX. kerület
+|
 
 |
 
-169171/1
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Dél-pesti Utánpótlás-nevelési Centrum (Honvéd Akadémia)
 
 |
 
@@ -2512,23 +2452,13 @@ Szegedi Multifunkciós Csarnok
 
 |
 
-Békés
+|
 
 |
 
-2290/1
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Békés Kézilabda Munkacsarnok
 
 |
 
@@ -3418,23 +3348,13 @@ Galyatetői Sícentrum és Biatlon pálya
 
 |
 
-Orfű
+|
 
 |
 
-777/1
-
 |
 
-belterület
-
 |
-
-1/1
-
-|
-
-Orfűi Sporttábor
 
 |
 
