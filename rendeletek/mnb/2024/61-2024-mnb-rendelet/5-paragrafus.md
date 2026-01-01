@@ -1,0 +1,5 @@
+5. § A Rendelet 10. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Amennyiben a modell TKM értéke nem monoton csökkenő valamely két szomszédos publikálandó tartam között, abban az esetben a biztosító a modell TKM értékét e két tartam között valamennyi évre külön-külön bemutatja. 20 éves tartam felett, amennyiben a 20 év feletti modell TKM értékek bármelyike meghaladja a 20 éves tartamhoz tartozó modell TKM értéket, akkor a biztosító a maximális modell TKM értéket külön tünteti fel, a hozzá tartozó tartammal együtt.
+
+(4) Amennyiben a biztosító a termék sajátosságai miatt a TKM számítás során a biztosított korára, a biztosítás tartamára és a biztosítás díjára vagy egyéb, a számítás során használt adatra a rendeletben előírt alapfeltevésektől eltérő paramétereket használ, ezt megjeleníti a költségmutató honlapján való közzététele során. A közzétételben a biztosító felhívja a figyelmet arra, hogy az egyedi paraméterek miatt a termék TKM értéke közvetlenül nem hasonlítható össze az előírt alapfeltételeknek megfelelő paramétereket alkalmazó TKM értékkel.”
