@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-97-00-00
 | 2024-07-01 | 2024. évi XIX. törvény | 2015-97-00-00.13 |
 | 2025-01-01 | 2024. évi XIX. törvény | 2015-97-00-00.14 |
 | 2025-07-09 | 2025. évi LXVII. törvény | 2015-97-00-00.15 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2015-97-00-00.16 |
