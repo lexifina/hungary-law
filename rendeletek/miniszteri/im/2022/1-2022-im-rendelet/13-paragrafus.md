@@ -1,1 +1,0 @@
-## 12. § Ha az átjelentkezéssel szavazásra kijelölt szavazókörben a névjegyzékben szereplő választópolgárok száma meghaladja az ezerötszázat, a helyi választási iroda vezetője legkésőbb 2022. március 29-én dönthet úgy, hogy a szavazóköri névjegyzéket több részre osztja. [Ve. 257/A. § (1) bekezdés]

@@ -1,1 +1,0 @@
-## 22. § A névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok számának megállapításakor nemzetiségi választópolgárként a 2022. február 12-én a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként szereplő választópolgárokat kell figyelembe venni. [Ve. 255. § (2) bekezdés]
