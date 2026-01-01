@@ -12,4 +12,6 @@ b) ha a bejelentő egyéni vállalkozó, a vállalkozói nyilvántartási száma
 
 c) a díjfizető neve, számlázási címe, adószáma vagy adóazonosító jele.
 
+(2a) A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartása – a természetes személyazonosító adatok, az egyéni vállalkozói nyilvántartási szám, az adószám és az adóazonosító kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A közforgalom elől el nem zárt területen létesült csatlakozó hálózat geodéziai bemérésre az igénybejelentő kizárólag a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletben meghatározott szakképzettséggel rendelkező személynek adhat megbízást.
