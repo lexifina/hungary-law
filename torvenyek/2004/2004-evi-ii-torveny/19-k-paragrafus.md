@@ -22,6 +22,28 @@ c) azokról a filmterjesztőkről, amelyek tevékenységének folytatását a Ha
 
 (6) Az (5) bekezdés szerinti nyilvántartások tartalmazzák a forgalmazók és a moziüzemeltetők nevére, elérhetőségére, valamint a mozik elnevezésére, címére és teremszámára vonatkozó adatait, valamint az e törvényben és a mozgóképszakmai hatóság által vezetett nyilvántartások részletes szabályairól és az igazolások kiadásának rendjéről szóló miniszteri rendeletben meghatározott egyéb adatokat. A Hatóság a forgalmazói és moziüzemeltetési tevékenység ellenőrzése céljából a forgalmazói, illetve moziüzemeltetési tevékenységet folytató természetes személy személyazonosító adatait kezeli a nyilvántartásból való törlésig.
 
-(7) Az (5) bekezdés szerinti nyilvántartások a (6) bekezdésben foglalt adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
+(7) Az (5) bekezdés szerinti nyilvántartásokban szereplő, a (6) bekezdésben foglalt adatok tekintetében közhitelesnek minősülnek
+
+a) a nyilvántartásba történő bejegyzésre (nyilvántartási szám, bejegyzés kelte) vonatkozó adatok,
+
+b) a mozi elnevezésére és címére vonatkozó adatok,
+
+c) a mozi állapotára (működő vagy szünetelő) vonatkozó adatok,
+
+d) a szünetelés kezdő napjára vonatkozó adatok,
+
+e) a forgalmazói tevékenység típusára vonatkozó adatok, valamint
+
+f) a határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységre vonatkozó bejelentés esetén a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 22. § (3) bekezdésében meghatározott adatok.
+
+(7a) Az (5) bekezdés c) pontja szerinti nyilvántartásban szereplő adatok tekintetében
+
+a) a tevékenység megtiltásának tényére,
+
+b) a tevékenység jellegére, valamint
+
+c) a tilalom időbeli és területi hatályára
+
+vonatkozó adatok közhitelesnek minősülnek.
 
 (8) Az (5) bekezdés c) pontja szerinti nyilvántartásban szereplő filmforgalmazótól a moziüzemeltető nem szerezhet be filmalkotást terjesztés céljából, továbbá a nyilvántartásban szereplő moziüzemeltetőnek a forgalmazó terjesztés céljából nem adhat át filmalkotást. Amennyiben az általános felügyeleti eljárás során a Hatóság megállapítja a filmalkotás terjesztés céljából történő beszerzése vagy átadása tilalmának megsértését, közigazgatási bírságot szab ki.

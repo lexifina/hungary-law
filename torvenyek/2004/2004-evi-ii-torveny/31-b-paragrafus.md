@@ -18,7 +18,7 @@ c) az igazgatási szolgáltatási díj megfizetésének igazolását,
 
 d)
 
-(2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
+(2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját – a (13b) bekezdésben foglaltakra figyelemmel – legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
 
 a) a filmalkotás végleges, az előkészítést, a forgatást és az utómunkálatokat is magában foglaló gyártási tervét,
 
@@ -102,8 +102,10 @@ c) 3 pont adható, ha az a) és b) pontokban említett értékek elérik vagy me
 
 (12) A Hatóság a (2a) bekezdés g) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
 
-(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.
+(13) A filmelőállító vagy filmgyártó vállalkozás a (2) és (2a) bekezdés szerint bejelentett adatokban bekövetkezett, a tényállás megállapítása szempontjából lényeges változást, így különösen a gyártási időszakra és a tervezett költségvetésre, valamint a 31/D. § (9) bekezdése szerinti közvetett támogatás igénybevételére jogosító költségekre vonatkozó adatokban történő változást haladéktalanul köteles bejelenteni a Hatóságnak. A Hatóság hivatalból indított eljárásában – a támogatásra jogosultság visszavonásának a terhe mellett, különösen a (13b) bekezdésben foglaltakra figyelemmel – felülvizsgálja a támogatásra jogosultságot megállapító határozatában szereplő adatokat.
 
 (13a) A filmalkotás költségvetésében bekövetkezett változás bejelentésével egyidejűleg – amennyiben a változás a közvetlen filmgyártási költség, és így a közvetett támogatás emelkedését vonhatja maga után – a különbözet vonatkozásában az igazgatási szolgáltatási díjat meg kell fizetni.
+
+(13b) A forgatást a támogatásra való jogosultságot megállapító határozat közlésétől számított 6 hónapon belül meg kell kezdeni, amennyiben ez nem történik meg, a Hatóság ellenőrzési eljárás keretében a támogatásra való jogosultságot megállapító határozatát módosíthatja vagy visszavonhatja. Amennyiben a támogatásra való jogosultságot megállapító határozat közlésétől számított egy naptári éven belül nem történik meg a forgatás megkezdése, abban az esetben a Hatóság ellenőrzési eljárása keretében a határozatát visszavonja.
 
 (14) A Hatóság a (2a) bekezdés g) pontja szerinti adatokat közvetett támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hatóság az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve, ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.

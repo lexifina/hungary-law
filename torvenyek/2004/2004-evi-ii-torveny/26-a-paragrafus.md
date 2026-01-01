@@ -12,6 +12,6 @@
 
 (5a)
 
-(6) A filmalkotások „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába.
+(6) A filmalkotások „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába. A nyilvántartás az „art” besorolás tekintetében közhiteles.
 
 (7) A filmalkotások „art” besorolása esetében a határozat jogorvoslatra tekintet nélkül azonnal végrehajtható, a Hatóság hivatalból indított eljárásban haladéktalanul bejegyzi az „art” minősítésűnek besorolt filmalkotást a terjesztésre kerülő filmalkotások nyilvántartásába.

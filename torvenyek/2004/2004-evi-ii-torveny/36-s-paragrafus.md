@@ -1,5 +1,1 @@
 36/S. § E törvénynek a Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló törvénnyel (a továbbiakban: Módtv5.) megállapított 31/B. § (13) bekezdését, illetve a 31/C. § (2a) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő támogatásra jogosultság megállapítására irányuló eljárásokban is alkalmazni kell.
-
-2. CÍM
-
-Felhatalmazó rendelkezések

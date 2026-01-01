@@ -4,4 +4,16 @@ a) – a szervezet képviselőjére, illetve tulajdonosára vonatkozó adatok ki
 
 b) az e törvényben és a jogszabályban meghatározott, e törvény céljainak megvalósításához szükséges adatoknak.
 
+(1a) Az (1) bekezdésben foglalt nyilvántartás közhitelesen tartalmazza
+
+a) a nyilvántartási számot,
+
+b) a kérelem beérkezésének dátumát,
+
+c) a nyilvántartásba vétel dátumát,
+
+d) a 28. § (10) bekezdése szerinti szünetelés tényét, valamint
+
+e) a szervezet törölt állapotának tényét.
+
 (2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az e törvény szerinti támogatást nyújtó az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hatóságnak.

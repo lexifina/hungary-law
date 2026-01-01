@@ -4,7 +4,7 @@ a) a filmalkotásokat a kiskorúak védelme érdekében e törvény szerint beso
 
 b) a művészi értékük miatt támogatásra érdemes és a kulturális követelmények teljesítése alapján támogatásra jogosult filmalkotásokat, valamint az ilyen filmalkotásokat terjesztő mozikat és mozitermeket e törvény szerint besorolja,
 
-c) közhiteles nyilvántartást vezet
+c) nyilvántartást vezet
 
 ca) az e törvény szerinti támogatásra jogosult mozgóképszakmai szervezetekről és természetes személyekről,
 
