@@ -1,5 +1,5 @@
-## 4X05059.pdf
+## 5X07400.pdf
 
-13. melléklet a 11/2024. (VII. 8.) IM rendelethez
+13. melléklet a 11/2024. (VII. 8.) IM rendelethez[^14]
 
-4X05062.pdf
+[^14]: A 13. melléklet a 12/2025. (IX. 15.) IM rendelet 31. § (1) bekezdésével megállapított szöveg.
