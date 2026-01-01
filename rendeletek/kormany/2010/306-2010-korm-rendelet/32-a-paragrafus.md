@@ -30,7 +30,7 @@ e) a szennyvízkezelésre vonatkozó adatok és előrejelzések vonatkozásában
 
 f) az ország gazdaságára és a társadalomra vonatkozó általános adatok vonatkozásában a Központi Statisztikai Hivatal által szolgáltatott adatok alapján és
 
-g)[^99] a Közlekedéstudományi Intézet (a továbbiakban: KTI) által készített, a közlekedési, szállítási ágazatra vonatkozó, az (1) bekezdésben foglalt kataszterek, kataszterjelentések és előrejelzések beépítésével
+g)[^99] a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI) által készített, a közlekedési, szállítási ágazatra vonatkozó, az (1) bekezdésben foglalt kataszterek, kataszterjelentések és előrejelzések beépítésével
 
 az OMSZ készít javaslatot.
 
@@ -56,7 +56,7 @@ c) az AKI Nonprofit Kft. részére a (10) bekezdés szerinti adatszolgáltatás,
 [^96]: A 32/A. § (1) bekezdés nyitó szövegrésze az 591/2023. (XII. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^97]: A 32/A. § (5) bekezdés záró szövegrésze az 591/2023. (XII. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^98]: A 32/A. § (5) bekezdés a) pontja a 620/2022. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^99]: A 32/A. § (5) bekezdés g) pontja a 612/2023. (XII. 22.) Korm. rendelet 25. §-a, a 141/2025. (VI. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^99]: A 32/A. § (5) bekezdés g) pontja a 612/2023. (XII. 22.) Korm. rendelet 25. §-a, a 141/2025. (VI. 19.) Korm. rendelet 3. §-a, a 442/2025. (XII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^100]: A 32/A. § (6) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^101]: A 32/A. § (6) bekezdés a) pontja az 591/2023. (XII. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^102]: A 32/A. § (7) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 4. § a) pontja, az 591/2023. (XII. 20.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
