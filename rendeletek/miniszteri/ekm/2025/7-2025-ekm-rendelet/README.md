@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2025-7-20-8X
 | --- | --- | --- |
 | 2025-03-08 | 2025-7-20-8X.1 | 7/2025. (III. 7.) ÉKM rendelet |
 | 2025-07-01 | 2025-7-20-8X.2 | 19/2025. (VI. 27.) ÉKM rendelet |
+| 2026-01-01 | 2025-7-20-8X.3 | 47/2025. (XII. 29.) ÉKM rendelet |
