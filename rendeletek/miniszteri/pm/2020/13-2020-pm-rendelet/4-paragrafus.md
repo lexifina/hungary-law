@@ -1,6 +1,6 @@
 ## 4. § Az állami adó- és vámhatósághoz történő bejelentés hiányában is folytatható
 
-a) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, továbbá a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség gépjárművével,
+a)[^2] a Magyar Honvédség, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség gépjárművével,
 
 b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erők és a Magyarországon felállított nemzetközi katonai parancsnokságok hivatali vagy szolgálati gépjárművével, valamint az egyéb szervezetek nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárművével,
 
@@ -19,3 +19,5 @@ h) a jövedéki adóról szóló törvény szerinti alkoholtermékkel, sörrel, 
 i) egy fuvarozás keretében egymillió forint értéket és ötszáz kilogramm bruttó tömeget meg nem haladó, bejelentésköteles termékkel ugyanazon feladótól ugyanazon címzett részére ugyanazon gépjárművel
 
 végzett közúti fuvarozással járó tevékenység.
+
+[^2]: A 4. § a) pontja a 68/2025. (XII. 31.) NGM rendelet 1. §-a szerint módosított szöveg.
