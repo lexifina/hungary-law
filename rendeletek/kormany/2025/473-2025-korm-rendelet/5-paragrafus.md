@@ -1,19 +1,22 @@
 5. § A felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet
 
-a) 18. § (6) bekezdésében a „minősítését.” szövegrész helyébe a „minősítését. Ha a képzési program módosítására kizárólag a programkövetelmény számának módosítása, valamint a programkövetelmény megnevezésének a programkövetelmény nyilvántartásba vételének tartalmi szabályairól szóló 1/2023. (II. 28.) KIM rendelet 1/A. §-a szerint meghatározott angol és német elnevezéssel való kiegészítés miatt kerülne sor, úgy az előzetes minősítést nem szükséges újra elvégezni.” szöveg,
+a)[^5]
 
-b) 22. § (1) bekezdés d) pontjában a „megnevezését, időpontját és” szövegrész helyébe a „megnevezését, képzés megkezdésének időpontját és a résztvevő általi befejezésének tényleges időpontját, valamint” szöveg,
+b)[^6]
 
-c)[^3]
+c)[^7]
 
-d)[^4]
+d)[^8]
 
-e)[^5]
+e)[^9]
 
-f) 34. § (4) bekezdésében a „Kormány a mikrotanúsítványok” szövegrész helyébe a „Kormány az egyéni tanulási számla rendszere, valamint a mikrotanúsítványok” szöveg
+f)[^10]
 
 lép.
 
-[^3]: Az 5. § c) pontja a 6. § (2) bekezdése alapján 2026. március 31-én lép hatályba.
-[^4]: Az 5. § d) pontja a 6. § (2) bekezdése alapján 2026. március 31-én lép hatályba.
-[^5]: Az 5. § e) pontja a 6. § (2) bekezdése alapján 2026. március 31-én lép hatályba.
+[^5]: Az 5. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § c) pontja a 6. § (2) bekezdése alapján 2026. március 31-én lép hatályba.
+[^8]: Az 5. § d) pontja a 6. § (2) bekezdése alapján 2026. március 31-én lép hatályba.
+[^9]: Az 5. § e) pontja a 6. § (2) bekezdése alapján 2026. március 31-én lép hatályba.
+[^10]: Az 5. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
