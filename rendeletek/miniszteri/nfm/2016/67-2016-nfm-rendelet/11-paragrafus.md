@@ -1,5 +1,5 @@
 11. § (1) Ez a rendelet 2017. január 1-jén lép hatályba.
 
-(2)[^23]
+(2)[^24]
 
-[^23]: A 11. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 11. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

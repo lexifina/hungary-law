@@ -12,7 +12,8 @@ b) a 2. § szerinti földgázforrás tekintetében a felajánlási ár csökkent
 
 (5) Az 1. § szerinti földgázforrás tekintetében az Árképzési rendelet 3. § (1) bekezdés c) pontja szerinti árelem számítása az 5. melléklet 1. pontja szerint történik az Árképzési rendelet előírásainak figyelembevételével.
 
-(6) A 9. melléklet szerinti dedikált tárolói forrást, valamint a 3. melléklet 6.7. alpontja szerinti tárolói fedezett mennyiséget és azok járulékos költségeit, illetve a 9. melléklet szerinti dedikált tárolói forrás fedezés esetén annak eredményét az egyetemes szolgáltatót ellátó földgázkereskedő számviteli nyilvántartásában mennyiségben és értékben elkülönítetten tartja nyilván, és a betárolási időszakot követő kitárolási időszakban az egyetemes szolgáltatási célú tárolói készletből elsődlegesen a 9. melléklet szerinti dedikált tárolói forrást, majd a 3. melléklet 6. pont 6.7. alpontja szerinti tárolói fedezett mennyiséget kitárolja.
+(6)[^5] A 9. melléklet szerinti dedikált tárolói forrást, valamint a 3. melléklet 6.7. alpontja szerinti tárolói fedezett mennyiséget és azok járulékos költségeit, illetve a 9. melléklet szerinti dedikált tárolói forrás fedezés esetén annak eredményét az egyetemes szolgáltatót ellátó földgázkereskedő számviteli nyilvántartásában mennyiségben és értékben elkülönítetten tartja nyilván, és – amennyiben a 9. melléklet ettől eltérően nem rendelkezik – a betárolási időszakot követő kitárolási időszakban az egyetemes szolgáltatási célú tárolói készletből elsődlegesen a 9. melléklet szerinti dedikált tárolói forrást, majd a 3. melléklet 6. pont 6.7. alpontja szerinti tárolói fedezett mennyiséget kitárolja.
 
 [^3]: A 3. § a 15/2025. (VI. 30.) EM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdése a 15/2025. (VI. 30.) EM rendelet 7. §-a szerint módosított szöveg.
+[^5]: A 3. § (6) bekezdése a 43/2025. (XII. 31.) EM rendelet 2. §-a szerint módosított szöveg.
