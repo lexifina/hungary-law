@@ -1,4 +1,4 @@
-## 8/A.[^60] A középiskolai tanfolyam és vizsga különleges szabályai
+## 8/A.[^54] A középiskolai tanfolyam és vizsga különleges szabályai
 
 8/A. § (1) A középiskolai tanfolyam biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez szükséges közlekedési alapismeretek, járművezetés elmélete, szerkezeti és üzemeltetési ismeretek, valamint az elsősegélynyújtási ismeretek átadását. A középiskola a középiskolai tanfolyam és vizsga tekintetében ellátja a képző szerv és a vizsgaközpont e rendeletben meghatározott feladatait. A középiskolai tanfolyam esetén a 3. § (6) bekezdése szerinti szerződéskötési kötelezettség nem áll fenn.
 
@@ -24,4 +24,4 @@ g) a vizsgaközpont, valamint a Magyar Vöröskereszt részére átadandó adato
 
 (5) A felnőttképzésről szóló 2013. évi LXXVII. törvény 1. § (2) bekezdése szerinti hatósági adatszolgáltatási kötelezettséget a Klebelsberg Központ és a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a Magyar Honvédség teljesíti.
 
-[^60]: A 8/A. alcímet (8/A–8/E. §-t) a 260/2024. (VIII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^54]: A 8/A. alcímet (8/A–8/E. §-t) a 260/2024. (VIII. 29.) Korm. rendelet 3. §-a iktatta be.
