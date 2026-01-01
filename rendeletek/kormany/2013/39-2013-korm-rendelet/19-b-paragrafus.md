@@ -2,7 +2,7 @@
 
 a) nem tartalmazhat ízesítő anyagot,
 
-b)[^92] nikotintartalmú folyadék vagy bármilyen formában nikotint tartalmazó, elektronikus cigarettában és utántöltő flakonban használt folyadék kifejezetten erre a célra szolgáló,
+b)[^94] nikotintartalmú folyadék vagy bármilyen formában nikotint tartalmazó, elektronikus cigarettában és utántöltő flakonban használt folyadék kifejezetten erre a célra szolgáló,
 
 ba) legfeljebb 10 ml űrtartalmú utántöltő flakonokban,
 
@@ -32,7 +32,7 @@ g) a nikotin kivételével a nikotintartalmú folyadék kizárólag olyan össze
 
 h) az elektronikus cigaretták a nikotindózist rendes használati körülmények között egyenletesen adhatják le,
 
-i)[^93] az elektronikus cigarettákat és az utántöltő flakonokat gyermekbiztos zárral kell ellátni, és
+i)[^95] az elektronikus cigarettákat és az utántöltő flakonokat gyermekbiztos zárral kell ellátni, és
 
 j) az elektronikus cigarettákat és az utántöltő flakonokat védetté kell tenni törés és szivárgás ellen, valamint olyan mechanizmussal kell ellátni, amely garantálja a szivárgásmentes utántöltést.
 
@@ -62,13 +62,13 @@ d) a következő figyelmeztető feliratot: „A termék gyermekektől elzárva t
 
 (4) Az elektronikus cigaretták és az utántöltő flakonok csomagolási egységeinek és gyűjtőcsomagjainak meg kell felelniük az Nvt. 6/A. § (1) bekezdés b), d) és e) pontjában, valamint (2) és (3) bekezdésében foglaltaknak.
 
-(5)[^94] A nikotintartalmú utántöltő folyadékkal előre megtöltött elektronikus cigaretták és az utántöltő flakonok csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotint tartalmaz, amely erős függőséget okozó anyag.”
+(5)[^96] A nikotintartalmú utántöltő folyadékkal előre megtöltött elektronikus cigaretták és az utántöltő flakonok csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotint tartalmaz, amely erős függőséget okozó anyag.”
 
 (6) Az (5) bekezdés szerinti egészségvédő figyelmeztetést fehér alapon, fekete színű, félkövér, Helvetica bold betűtípussal kell nyomtatni. A feliratot kisbetűvel kell szedni, kivéve a szöveg kezdőbetűjét, és azt az esetet, amikor a nagybetű használatát nyelvtani szabály követeli meg. Az egészségvédő figyelmeztetést a nyomtatására fenntartott területen középre zárva a csomag felső szélével párhuzamosan kell elhelyezni.
 
-(7)[^95] A gyógyszerészeti államigazgatási szerv a bejelentési kötelezettség teljesítéséről, valamint a bejelentett termék 19/A. és 19/B. §-nak való megfelelőségéről a hiánytalan bejelentés beérkezésétől – beleértve az igazgatási szolgáltatási díj beérkezését is – számított 60 napon belül igazolást állít ki.
+(7)[^97] A gyógyszerészeti államigazgatási szerv a bejelentési kötelezettség teljesítéséről, valamint a bejelentett termék 19/A. és 19/B. §-nak való megfelelőségéről a hiánytalan bejelentés beérkezésétől – beleértve az igazgatási szolgáltatási díj beérkezését is – számított 60 napon belül igazolást állít ki.
 
-[^92]: A 19/B. § (1) bekezdés b) pontja a 120/2024. (VI. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^93]: A 19/B. § (1) bekezdés i) pontja a 120/2024. (VI. 10.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^94]: A 19/B. § (5) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^95]: A 19/B. § (7) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^94]: A 19/B. § (1) bekezdés b) pontja a 120/2024. (VI. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^95]: A 19/B. § (1) bekezdés i) pontja a 120/2024. (VI. 10.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^96]: A 19/B. § (5) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^97]: A 19/B. § (7) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.

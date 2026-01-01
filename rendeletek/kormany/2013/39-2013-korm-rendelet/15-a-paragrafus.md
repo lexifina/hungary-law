@@ -1,8 +1,8 @@
 ## 15. § Dohánytermék – a darabonként értékesíthetők kivételével – csak eredeti fogyasztói csomagolási egységben vagy gyűjtőcsomagban hozható forgalomba. A dohánytermék a forgalomba hozatal során nem csomagolható át, a gyűjtőcsomag olyan felbontását kivéve, amely a fogyasztói csomagolási egységekre való szétválasztást eredményezi. A fogyasztói csomagolási egység nem bontható meg.
 
-## 15/A. §[^63] A csomagolási egység
+## 15/A. §[^64] A csomagolási egység
 
-a)[^64] cigaretta esetében 20 db cigarettát tartalmazó csomag,
+a)[^65] cigaretta esetében 20 db cigarettát tartalmazó csomag,
 
 b) a 2. § 3. pont b) pont ba) alpontja és a 2. § 3. pont b) pont bb) alpontja esetén
 
@@ -10,10 +10,10 @@ ba) szivarkának nem minősülő szivar esetén darab vagy doboz,
 
 bb) szivarka esetén legalább 5 darabot tartalmazó doboz,
 
-c)[^65] a fogyasztási dohány esetében a legalább 30 gramm, de legfeljebb 50 gramm – de minden esetben maradék nélkül tízzel osztható grammtömegű – fogyasztási dohányt tartalmazó téglalap alakú vagy álló tasak, azzal, hogy vízipipadohány esetében a legfeljebb 50 gramm vízipipadohányt tartalmazó doboz is,
+c)[^66] a fogyasztási dohány esetében a legalább 30 gramm, de legfeljebb 50 gramm – de minden esetben maradék nélkül tízzel osztható grammtömegű – fogyasztási dohányt tartalmazó téglalap alakú vagy álló tasak, azzal, hogy vízipipadohány esetében a legfeljebb 50 gramm vízipipadohányt tartalmazó doboz is,
 
 d) rágásra szolgáló vagy tüsszentésre szolgáló dohánytermékek esetében tasak vagy doboz.
 
-[^63]: A 15/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 11. §-a iktatta be.
-[^64]: A 15/A. § a) pontja a 120/2024. (VI. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^65]: A 15/A. § c) pontja a 120/2024. (VI. 10.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^64]: A 15/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 11. §-a iktatta be.
+[^65]: A 15/A. § a) pontja a 120/2024. (VI. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^66]: A 15/A. § c) pontja a 120/2024. (VI. 10.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -26,7 +26,7 @@ a) az Európai Gazdasági Térségről szóló megállapodásban részes állam 
 
 b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét rögzítő jegyzőkönyvet.
 
-(8) Az NNGYK a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e az e rendeletben tiltott adalékanyagok között. Amennyiben a vizsgálat során az NNGYK megállapítja, hogy a felhasználni tervezett adalékanyag használatát jogszabály nem tiltja, úgy a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. Az NNGYK a bejelentésről tájékoztatja a fogyasztóvédelemért felelős minisztert. Ha az NNGYK a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
+(8)[^17] Az NNGYK a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e az e rendeletben tiltott adalékanyagok között. Amennyiben a vizsgálat során az NNGYK megállapítja, hogy a felhasználni tervezett adalékanyag használatát jogszabály nem tiltja, úgy a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. Az NNGYK a bejelentésről tájékoztatja a fogyasztóvédelmi hatóságot. Ha az NNGYK a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
 
 (9) A (6) bekezdés szerint bejelentett adalékanyagokra vonatkozó tanulmányokat a felhasználás megkezdésétől számított 2 év elteltével a bejelentőnek meg kell küldenie az NNGYK részére. Az egészségügyért felelős miniszter által vezetett minisztérium a benyújtott dokumentáció alapján a benyújtástól számított 6 hónapon belül megvizsgálja, hogy a dokumentáció nem indokolja-e az adalékanyagnak a 4. melléklet szerinti tiltott adalékanyagok listáján történő szerepeltetését.
 
@@ -41,3 +41,4 @@ b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét r�
 (14) E § alkalmazásában nem minősül új adalékanyagnak, és nem esik a (6) bekezdésben meghatározott bejelentési kötelezettség alá az az adalékanyag, amelyet a gyártó 2016. augusztus 20-át megelőzően jogszabályi felhatalmazás vagy külön engedély alapján használni volt jogosult a dohánytermék gyártásához, feltéve, hogy az nem szerepel a 4. melléklet szerinti tiltott adalékanyagok listáján.
 
 [^16]: A 4. § a 120/2024. (VI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 4. § (8) bekezdése a 415/2025. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

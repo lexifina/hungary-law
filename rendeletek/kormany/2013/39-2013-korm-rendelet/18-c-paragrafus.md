@@ -1,4 +1,4 @@
-18/C. §[^83] (1) A dohányzási célú gyógynövénytermék a következő feltételekkel hozható forgalomba és forgalmazható:
+18/C. §[^85] (1) A dohányzási célú gyógynövénytermék a következő feltételekkel hozható forgalomba és forgalmazható:
 
 a) nem tartalmazhat a 4. melléklet szerinti adalékanyagot,
 
@@ -24,4 +24,4 @@ b) az (1) bekezdés b)–d) pontjában foglalt anyagok annyiban felhasználható
 
 (6) A dohányzási célú gyógynövénytermékek gyártásában felhasznált összetevőkkel, azok mennyiségével, valamint az ezek változásával kapcsolatban a (3) és (4) bekezdés szerint benyújtott információkat az NNGYK a honlapján közzéteszi. A közzététel során a gazdasági szereplő által megjelölt üzleti titok védelmére tekintettel kell lenni.
 
-[^83]: A 18/C. §-t a 239/2016. (VIII. 16.) Korm. rendelet 15. §-a iktatta be, szövege a 120/2024. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^85]: A 18/C. §-t a 239/2016. (VIII. 16.) Korm. rendelet 15. §-a iktatta be, szövege a 120/2024. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.

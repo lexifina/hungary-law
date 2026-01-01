@@ -1,4 +1,4 @@
-6/G. §[^39] (1) A dohánytermékek minden csomagolási egységét egyedi azonosítóval kell megjelölni. Az egyedi azonosító sértetlenségének biztosítása érdekében azt eltávolíthatatlanul kell nyomtatni vagy rögzíteni, annak kitörölhetetlennek kell lennie, és azt semmilyen módon nem lehet eltakarni vagy megszakítani például zárjegyek vagy árcédulák által, illetve a csomagolási egység felnyitásakor.
+6/G. §[^40] (1) A dohánytermékek minden csomagolási egységét egyedi azonosítóval kell megjelölni. Az egyedi azonosító sértetlenségének biztosítása érdekében azt eltávolíthatatlanul kell nyomtatni vagy rögzíteni, annak kitörölhetetlennek kell lennie, és azt semmilyen módon nem lehet eltakarni vagy megszakítani például zárjegyek vagy árcédulák által, illetve a csomagolási egység felnyitásakor.
 
 (2) Az egyedi azonosítónak lehetővé kell tennie a következők meghatározását:
 
@@ -38,9 +38,9 @@ k) a gyártástól az első kiskereskedelmi egységig valamennyi vásárló szá
 
 (9) A (8) bekezdés szerinti harmadik személy tevékenységét a dohánytermék gyártója által ajánlott és fizetett, az Európai Bizottság által jóváhagyott külső ellenőr ellenőrzi. A külső ellenőrnek éves jelentést kell benyújtania a vámhatóság és az Európai Bizottság részére, amelyben különösen a hozzáféréssel kapcsolatos szabálytalanságokat értékeli.
 
-(10)[^40] Az adattároló rendszerhez teljes hozzáférhetőségre jogosult a vámhatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, az Európai Bizottság és a külső ellenőr. Kellően indokolt esetben a vámhatóság a gyártók vagy importőrök számára hozzáférést biztosít ezekhez a tárolt adatokhoz, feltéve, hogy a kereskedelmi szempontból érzékeny információk továbbra is a vonatkozó jogszabályok által előírt megfelelő védelemben részesülnek.
+(10)[^41] Az adattároló rendszerhez teljes hozzáférhetőségre jogosult a vámhatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, az Európai Bizottság és a külső ellenőr. Kellően indokolt esetben a vámhatóság a gyártók vagy importőrök számára hozzáférést biztosít ezekhez a tárolt adatokhoz, feltéve, hogy a kereskedelmi szempontból érzékeny információk továbbra is a vonatkozó jogszabályok által előírt megfelelő védelemben részesülnek.
 
 (11) A rögzített adatokat a dohánytermékek kereskedelmében részt vevő gazdasági szereplő nem módosíthatja vagy törölheti.
 
-[^39]: A 6/G. §-t a 72/2018. (IV. 16.) Korm. rendelet 12. §-a iktatta be.
-[^40]: A 6/G. § (10) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^40]: A 6/G. §-t a 72/2018. (IV. 16.) Korm. rendelet 12. §-a iktatta be.
+[^41]: A 6/G. § (10) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.
