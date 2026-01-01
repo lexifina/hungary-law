@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-76-00-00
 | 2021-01-01 | 2020. évi CXLVI. törvény | 2009-76-00-00.18 |
 | 2021-07-16 | 2020. évi XLI. törvény | 2009-76-00-00.19 |
 | 2025-07-01 | 2025. évi LXII. törvény | 2009-76-00-00.20 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2009-76-00-00.21 |
