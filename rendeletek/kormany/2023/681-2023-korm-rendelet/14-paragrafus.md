@@ -1,3 +1,3 @@
-14. §[^3]
+14. §[^4]
 
-[^3]: A 14. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
