@@ -1012,35 +1012,51 @@
 
 | 2915 Semmelweis Egyetem |
 
-| 35. 01505 Percután rádiófrekvenciás máj-tumor ablációs eszköz |
+| 35. Rádiófrekvenciás ablációs eszközök |
+
+| 35/a. 01505 Percután rádiófrekvenciás máj-tumor ablációs eszköz |
 
 | Elszámolásra jogosult intézetek: |
 
-| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 1640 Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
 
-| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2137 Somogy Vármegyei Kaposi Mór Oktató Kórház |
 
-| 2734 Zala Megyei Szent Rafael Kórház |
+| 2734 Zala Vármegyei Szent Rafael Kórház |
 
-| 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
+| 2880 Észak-budai Szent János Centrumkórház |
 
-| 2889 Szent Imre Egyetemi Oktatókórház |
+| 2886 Budapesti Péterfy Sándor utcai Kórház-Rendelőintézet |
 
-| 2894 Debreceni Egyetem Klinikai Központ |
+| 2889 Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház |
+
+| 2891 Budapesti Uzsoki utcai Kórház |
+
+| U894 Debreceni Egyetem Klinikai Központ |
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2912 Pécsi Tudományegyetem |
+| U912 Pécsi Tudományegyetem Klinikai Központ |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
-| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| K403 Magyar Honvédség Egészségügyi Központ |
+| U403 Észak-Pesti Centrumkórház – Honvédkórház |
 
-| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| N595 Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
 
-| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| R730 Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
+
+| 35/b. 01530 Barrett-nyelőcső kezelésére szolgáló rádiófrekvenciás ablációs eszköz |
+
+| Elszámolásra jogosult intézetek: |
+
+| U912 Pécsi Tudományegyetem Klinikai Központ |
+
+| U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| U403Észak-Pesti Centrumkórház – Honvédkórház |
 
 | 36. 01506 Baclofen-pumpa |
 
@@ -2114,6 +2130,70 @@
 
 | Minden II., III.a és III.b progresszivitási szintű, „0200 sebészet” vagy „0506 gyermek-sebészet” szakmakódú aktív fekvőbeteg-szakellátóhellyel rendelkező egészségügyi szolgáltató. |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^134]
+| 52. 01540 Negatívnyomás-terápia során felhasznált speciális kötszer és folyadékgyűjtő rendszer egyszerhasználatos eszközei |
 
-[^134]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 37/2022. (X. 28.) BM rendelet 2. §-a, az 50/2023. (XII. 12.) BM rendelet 4. §-a és 5. § b) pontja szerint módosított szöveg.
+| Támogatott indikáció: |
+
+| Alkalmazható nyitott hasfali indikációk esetén: felületes, mély hasfalhiány; peritonitis; tompa vagy áthatoló, intraabdominális vérzést eredményező hasi sérülés; hasi kompartment szindróma (ACS); tervezett műtétsorozatok; nekrotizáló fascitis; damage controll surgery (DCS). |
+
+| Elszámolásra jogosult intézetek: |
+
+| 1122 Bács-Kiskun Vármegyei Oktatókórház |
+
+| 1568 Fejér Vármegyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+
+| 1640 Győr-Moson-Sopron Vármegyei Petz Aladár Egyetemi Oktató Kórház |
+
+| 1876 Komárom-Esztergom Vármegyei Szent Borbála Kórház, Tatabánya |
+
+| 2137 Somogy Vármegyei Kaposi Mór Oktató Kórház |
+
+| 2324 Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház – Rendelőintézet |
+
+| 2734 Zala Vármegyei Szent Rafael Kórház |
+
+| 2872 Bethesda Gyermekkórház |
+
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+
+| 2878 Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet |
+
+| 2879 Budapesti Jahn Ferenc Dél-pesti Kórház és Rendelőintézet |
+
+| 2880 Észak-budai Szent János Centrumkórház |
+
+| 2886 Budapesti Péterfy Sándor utcai Kórház-Rendelőintézet |
+
+| 2891 Budapesti Uzsoki Utcai Kórház |
+
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
+
+| 2897 Országos Korányi Pulmonológiai Intézet |
+
+| 2906 Országos Onkológiai Intézet |
+
+| N594 Veszprém Vármegyei Csolnoky Ferenc Kórház |
+
+| N595 Vas Vármegyei Markusovszky Egyetemi Oktatókórház |
+
+| N599 Szabolcs-Szatmár-Bereg Vármegyei Oktatókórház |
+
+| R464 Békés Vármegyei Központi Kórház |
+
+| R730 Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház |
+
+| U894 Debreceni Egyetem Klinikai Központ |
+
+| U909 Budapesti Dr. Manninger Jenő Baleseti Központ |
+
+| U912 Pécsi Tudományegyetem Klinikai Központ |
+
+| U915 Semmelweis Egyetem Klinikai Központ |
+
+| U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| U403 Észak-Pesti Centrumkórház – Honvédkórház |
+
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^135]
+
+[^135]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 1. §-a, a 3/2022. (I. 14.) EMMI rendelet 1. § (2) bekezdése, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 34/2022. (IX. 28.) BM rendelet 2. §-a, a 37/2022. (X. 28.) BM rendelet 2. §-a, az 50/2023. (XII. 12.) BM rendelet 4. §-a és 5. § b) pontja szerint módosított szöveg.
