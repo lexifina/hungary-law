@@ -1,5 +1,5 @@
-## 79.[^367]
+## 79.[^369]
 
 235. §
 
-[^367]: A 79. alcímet (235–236. §) a 380/2021. (VI. 30.) Korm. rendelet 59. § 15. pontja hatályon kívül helyezte.
+[^369]: A 79. alcímet (235–236. §) a 380/2021. (VI. 30.) Korm. rendelet 59. § 15. pontja hatályon kívül helyezte.

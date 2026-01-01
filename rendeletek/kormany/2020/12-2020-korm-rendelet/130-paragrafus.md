@@ -1,12 +1,12 @@
 ## 52. Az Szkt. 46. § (4) bekezdéséhez
 
-130. §[^256] A munkáltatói jogkört
+130. §[^258] A munkáltatói jogkört
 
-a)[^257] az igazgató felett a fenntartó, a szakképzési centrum részeként működő szakképző intézmény esetében a főigazgató,
+a)[^259] az igazgató felett a fenntartó, a szakképzési centrum részeként működő szakképző intézmény esetében a főigazgató,
 
 b) az igazgatóhelyettes felett – a szakképzési centrum részeként működő szakképző intézmény esetében az igazgatóhelyettesi megbízás és annak visszavonása kivételével – az igazgató
 
 gyakorolja.
 
-[^256]: A 130. § nyitó szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 19. pontja szerint módosított szöveg.
-[^257]: A 130. § a) pontja a 646/2023. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^258]: A 130. § nyitó szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 19. pontja szerint módosított szöveg.
+[^259]: A 130. § a) pontja a 646/2023. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

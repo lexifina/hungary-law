@@ -1,4 +1,4 @@
-285. § (1)[^471] A szakmai vizsga lezárását követően a vizsgafelügyelő és a vizsgabizottság további tagja – kivéve, ha delegálás hiányában a vizsgafelügyelőt az akkreditált szakképzési vizsgaközpont bízta meg – külön-külön elkészítik
+285. § (1)[^474] A szakmai vizsga lezárását követően a vizsgafelügyelő és a vizsgabizottság további tagja – kivéve, ha delegálás hiányában a vizsgafelügyelőt az akkreditált szakképzési vizsgaközpont bízta meg – külön-külön elkészítik
 
 a) a szakmai vizsga előkészítésével, lebonyolításával,
 
@@ -12,4 +12,4 @@ kapcsolatos észrevételeket, javaslatokat tartalmazó elektronikus jelentésük
 
 (2) Aki az (1) bekezdésben meghatározott kötelezettségének nem tesz eleget, e kötelezettség teljesítéséig nem bízható meg újabb vizsgafelügyelői, további vizsgabizottsági tagi teendők ellátásával.
 
-[^471]: A 285. § (1) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 58. pontja szerint módosított szöveg.
+[^474]: A 285. § (1) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 58. pontja szerint módosított szöveg.

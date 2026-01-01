@@ -1,12 +1,12 @@
 ## VII. Fejezet
 
-## A BIZONYÍTVÁNY, AZ OKLEVÉL, A SZAKMAI BIZONYÍTVÁNY, A MIKROTANÚSÍTVÁNY ÉS A KÉPESÍTŐ BIZONYÍTVÁNY[^73]
+## A BIZONYÍTVÁNY, AZ OKLEVÉL, A SZAKMAI BIZONYÍTVÁNY, A MIKROTANÚSÍTVÁNY ÉS A KÉPESÍTŐ BIZONYÍTVÁNY[^74]
 
 ## 9. Az Szkt. 15. § (1) bekezdéséhez
 
 25. § (1) A szakképző intézmény által használt nyomtatvány
 
-1.[^74] az Szkt. 7. § 1c. pontja szerinti digitális bizonyítvány (a továbbiakban: bizonyítvány),
+1.[^75] az Szkt. 7. § 1c. pontja szerinti digitális bizonyítvány (a továbbiakban: bizonyítvány),
 
 2. az érettségi bizonyítvány és az érettségi tanúsítvány,
 
@@ -20,13 +20,13 @@
 
 7. a közösségi szolgálati lap,
 
-8.[^75] a tanulói jogviszony igazoló lapja,
+8.[^76] a tanulói jogviszony igazoló lapja,
 
-9.[^76] az Szkt. 19. § (4) bekezdés b) pont bb) alpontja szerinti előkészítő évfolyam, a műhelyiskola elvégzéséhez és az ágazati alapvizsgához kapcsolódóan kiállított igazolás.
+9.[^77] az Szkt. 19. § (4) bekezdés b) pont bb) alpontja szerinti előkészítő évfolyam, a műhelyiskola elvégzéséhez és az ágazati alapvizsgához kapcsolódóan kiállított igazolás.
 
-10.[^77] a mikrotanúsítvány.
+10.[^78] a mikrotanúsítvány.
 
-(2)[^78] Az akkreditált szakképzési vizsgaközpont által használt nyomtatvány
+(2)[^79] Az akkreditált szakképzési vizsgaközpont által használt nyomtatvány
 
 1. az oklevél, a szakmai bizonyítvány és a képesítő bizonyítvány,
 
@@ -46,18 +46,18 @@ d) elektronikus úton előállított és hitelesített papíralapú nyomtatvány
 
 lehet.
 
-(4)[^79] Az (1) bekezdés 3–5. és 7–9. pontja szerinti nyomtatványt a szakképző intézmény a tanulmányi rendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
+(4)[^80] Az (1) bekezdés 3–5. és 7–9. pontja szerinti nyomtatványt a szakképző intézmény a tanulmányi rendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
 
-(5)[^80] Az (1) bekezdés 3–10. pontja és a (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a tanulmányi rendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
+(5)[^81] Az (1) bekezdés 3–10. pontja és a (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a tanulmányi rendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
 
-(6)[^81] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelye településének nevét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
+(6)[^82] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelye településének nevét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
 
-[^73]: A VII. Fejezet címe a 225/2025. (VII. 24.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^74]: A 25. § (1) bekezdés 1. pontja a 84/2025. (IV. 22.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^75]: A 25. § (1) bekezdés 8. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 18. pontja szerint módosított szöveg.
-[^76]: A 25. § (1) bekezdés 9. pontját a 380/2021. (VI. 30.) Korm. rendelet 17. §-a iktatta be.
-[^77]: A 25. § (1) bekezdés 10. pontját a 225/2025. (VII. 24.) Korm. rendelet 23. §-a iktatta be.
-[^78]: A 25. § (2) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
-[^79]: A 25. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 19. pontja, a 84/2025. (IV. 22.) Korm. rendelet 58. § 3. pontja szerint módosított szöveg.
-[^80]: A 25. § (5) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 58. § 4. és 5. pontja, a 225/2025. (VII. 24.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
-[^81]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^74]: A VII. Fejezet címe a 225/2025. (VII. 24.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^75]: A 25. § (1) bekezdés 1. pontja a 84/2025. (IV. 22.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^76]: A 25. § (1) bekezdés 8. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 18. pontja szerint módosított szöveg.
+[^77]: A 25. § (1) bekezdés 9. pontját a 380/2021. (VI. 30.) Korm. rendelet 17. §-a iktatta be.
+[^78]: A 25. § (1) bekezdés 10. pontját a 225/2025. (VII. 24.) Korm. rendelet 23. §-a iktatta be.
+[^79]: A 25. § (2) bekezdés nyitó szövegrésze a 129/2024. (VI. 17.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg.
+[^80]: A 25. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 19. pontja, a 84/2025. (IV. 22.) Korm. rendelet 58. § 3. pontja szerint módosított szöveg.
+[^81]: A 25. § (5) bekezdése a 84/2025. (IV. 22.) Korm. rendelet 58. § 4. és 5. pontja, a 225/2025. (VII. 24.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^82]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.

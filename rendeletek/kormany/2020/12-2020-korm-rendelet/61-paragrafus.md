@@ -2,7 +2,7 @@
 
 a) a szakképző intézmény
 
-aa)[^169] hivatalos nevét magyar nyelven,
+aa)[^170] hivatalos nevét magyar nyelven,
 
 ab) székhelyét, telephelyét,
 
@@ -10,9 +10,9 @@ b) a szakképzésialapfeladat-ellátással összefüggésben
 
 ba) szakképzési alapfeladatának jogszabály szerinti megnevezését,
 
-bb)[^170] költségvetési szervként működő szakképző intézmény esetében alaptevékenységének és további tevékenységi köreinek kormányzati funkció szerinti megjelölését,
+bb)[^171] költségvetési szervként működő szakképző intézmény esetében alaptevékenységének és további tevékenységi köreinek kormányzati funkció szerinti megjelölését,
 
-bc)[^171]
+bc)[^172]
 
 bd) az önálló költségvetéssel rendelkező szakképző intézmény esetében a gazdálkodással összefüggő jogosítványokat, valamint
 
@@ -30,7 +30,7 @@ c) megszűnésének időpontját vagy pontos feltételét, ha a szakképző int�
 
 a) szakképző intézményenként tartalmazza a szakképző intézmény
 
-aa)[^172] hivatalos nevét,
+aa)[^173] hivatalos nevét,
 
 ab) címét,
 
@@ -38,18 +38,18 @@ ac) szakképzési alapfeladatának és annak fennállása esetén köznevelési 
 
 b) összevontan tartalmazza
 
-ba)[^173] a szakképző intézmény alaptevékenységének és további tevékenységi köreinek jogszabály szerinti megnevezését és kormányzati funkció szerinti megjelölését,
+ba)[^174] a szakképző intézmény alaptevékenységének és további tevékenységi köreinek jogszabály szerinti megnevezését és kormányzati funkció szerinti megjelölését,
 
 bb) a szakképző intézmény vezetőjének megbízási rendjét.
 
-(3a)[^174] A szakképzési centrum részeként – a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 7. § (5) bekezdése alapján – működő köznevelési intézmény esetében a (3) bekezdést kell alkalmazni, azzal, hogy szakképző intézmény alatt köznevelési intézményt, szakképzési alapfeladat alatt pedig köznevelési alapfeladatot kell érteni.
+(3a)[^175] A szakképzési centrum részeként – a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 7. § (5) bekezdése alapján – működő köznevelési intézmény esetében a (3) bekezdést kell alkalmazni, azzal, hogy szakképző intézmény alatt köznevelési intézményt, szakképzési alapfeladat alatt pedig köznevelési alapfeladatot kell érteni.
 
-(4)[^175] A többcélú szakképző intézmény alapító okiratában a szakképzési alapfeladat mellett fel kell tüntetni az általa ellátott köznevelési alapfeladat jogszabály szerinti megjelölését is.
+(4)[^176] A többcélú szakképző intézmény alapító okiratában a szakképzési alapfeladat mellett fel kell tüntetni az általa ellátott köznevelési alapfeladat jogszabály szerinti megjelölését is.
 
-[^169]: A 61. § (1) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^170]: A 61. § (1) bekezdés b) pont bb) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
-[^171]: A 61. § (1) bekezdés b) pont bc) alpontját a 319/2020. (VII. 1.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
-[^172]: A 61. § (3) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^173]: A 61. § (3) bekezdés b) pont ba) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 5. pontja szerint módosított szöveg.
-[^174]: A 61. § (3a) bekezdését a 454/2025. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^175]: A 61. § (4) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
+[^170]: A 61. § (1) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^171]: A 61. § (1) bekezdés b) pont bb) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
+[^172]: A 61. § (1) bekezdés b) pont bc) alpontját a 319/2020. (VII. 1.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
+[^173]: A 61. § (3) bekezdés a) pont aa) alpontja a 319/2020. (VII. 1.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^174]: A 61. § (3) bekezdés b) pont ba) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 5. pontja szerint módosított szöveg.
+[^175]: A 61. § (3a) bekezdését a 454/2025. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^176]: A 61. § (4) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 4. §-a iktatta be.

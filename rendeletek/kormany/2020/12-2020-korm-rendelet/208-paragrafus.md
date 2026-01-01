@@ -1,3 +1,3 @@
-208. §[^348] A meghatározott kedvezmények, juttatások csökkentése, megvonása fegyelmi büntetés a diákigazolványra való jogosultságra, továbbá a szociális kedvezményekre és juttatásokra nem terjed ki.
+208. §[^350] A meghatározott kedvezmények, juttatások csökkentése, megvonása fegyelmi büntetés a diákigazolványra való jogosultságra, továbbá a szociális kedvezményekre és juttatásokra nem terjed ki.
 
-[^348]: A 208. § a 292/2023. (VII. 6.) Korm. rendelet 47. § 49. pontja szerint módosított szöveg.
+[^350]: A 208. § a 292/2023. (VII. 6.) Korm. rendelet 47. § 49. pontja szerint módosított szöveg.

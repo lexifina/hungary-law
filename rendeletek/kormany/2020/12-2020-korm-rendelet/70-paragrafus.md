@@ -1,3 +1,3 @@
-70. §[^188] A szakképző intézmény átalakításáról módosító okiratban kell rendelkezni. A 69. §-t az általános jogutódlással történő megszűnés esetén a módosító okiratra is alkalmazni kell azzal, hogy megszűnés alatt az átalakítást kell érteni.
+70. §[^189] A szakképző intézmény átalakításáról módosító okiratban kell rendelkezni. A 69. §-t az általános jogutódlással történő megszűnés esetén a módosító okiratra is alkalmazni kell azzal, hogy megszűnés alatt az átalakítást kell érteni.
 
-[^188]: A 70. § a 319/2020. (VII. 1.) Korm. rendelet 24. § 6. pontja szerint módosított szöveg.
+[^189]: A 70. § a 319/2020. (VII. 1.) Korm. rendelet 24. § 6. pontja szerint módosított szöveg.

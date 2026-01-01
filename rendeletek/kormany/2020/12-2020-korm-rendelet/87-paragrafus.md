@@ -1,5 +1,5 @@
-## 31.[^217]
+## 31.[^218]
 
 87. §
 
-[^217]: A 31. alcímet (87. §-t) a 800/2021. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^218]: A 31. alcímet (87. §-t) a 800/2021. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

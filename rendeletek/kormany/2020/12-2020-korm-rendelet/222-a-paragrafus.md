@@ -1,3 +1,3 @@
-222/A. §[^355] Mentesül az ágazati alapoktatásban való részvétel alól az a tanuló, illetve képzésben részt vevő személy, aki részszakmát szerzett, ha az adott részszakmát magában foglaló szakma szakmai oktatásában vesz részt.
+222/A. §[^357] Mentesül az ágazati alapoktatásban való részvétel alól az a tanuló, illetve képzésben részt vevő személy, aki részszakmát szerzett, ha az adott részszakmát magában foglaló szakma szakmai oktatásában vesz részt.
 
-[^355]: A 222/A. §-t a 292/2023. (VII. 6.) Korm. rendelet 26. §-a iktatta be.
+[^357]: A 222/A. §-t a 292/2023. (VII. 6.) Korm. rendelet 26. §-a iktatta be.

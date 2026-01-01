@@ -24,8 +24,8 @@ e) hozzájárul ahhoz, hogy a szakképző intézmény szakképzésialapfeladat-e
 
 f) a szakképzésialapfeladat-ellátás külső és belső partnereinek a bevonására épül.
 
-(3)[^146] A szakképző intézmény minőségirányítási rendszerét és annak módosítását az igazgató készíti el, és azt – az oktatói testület és a képzési tanács véleményének kikérését követően – a fenntartó, szakképzési centrum részeként működő szakképző intézmény esetén a szakképzési centrum főigazgatója hagyja jóvá.
+(3)[^147] A szakképző intézmény minőségirányítási rendszerét és annak módosítását az igazgató készíti el, és azt – az oktatói testület és a képzési tanács véleményének kikérését követően – a fenntartó, szakképzési centrum részeként működő szakképző intézmény esetén a szakképzési centrum főigazgatója hagyja jóvá.
 
 (4) A szakképzési centrum részeként működő szakképző intézmény esetében a főigazgató meghatározza a szakképzési centrum és a szakképző intézmény minőségirányítási feladatait.
 
-[^146]: A 47. § (3) bekezdése a 225/2025. (VII. 24.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^147]: A 47. § (3) bekezdése a 225/2025. (VII. 24.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
