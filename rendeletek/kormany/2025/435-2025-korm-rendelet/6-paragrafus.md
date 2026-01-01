@@ -1,0 +1,3 @@
+6. § A Púévhr. 58. alcíme a következő 132/D. §-sal egészül ki:
+
+„132/D. § E rendeletnek a 2026. évi tanárbéremelésről és az ahhoz nyújtott központi költségvetési támogatásról szóló 435/2025. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr.2.) megállapított 88. § (1) bekezdése és 88/A. § (1) bekezdése alapján – a Módr.2. 1. §-ában meghatározott rendelkezések figyelembevételével – megállapított, a pedagógust 2026. január 1-jétől megillető illetményt tartalmazó kinevezési okmányt a munkáltató 2026. január 26-ig állítja ki.”
