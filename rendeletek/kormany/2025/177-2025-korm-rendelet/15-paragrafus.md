@@ -1,15 +1,15 @@
-15. § (1)[^21]
+15. § (1)[^16]
 
-(2)[^22]
+(2)[^17]
 
-(3)[^23]
+(3)[^18]
 
-(4)
+(4) A Rendelet3. 12. melléklete helyébe az 5. melléklet lép.
 
-(5)
+(5) A Rendelet3. 13. melléklete helyébe a 6. melléklet lép.
 
-(6)
+(6) A Rendelet3. a 7. melléklet szerinti 14. melléklettel egészül ki.
 
-[^21]: A 15. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 15. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 15. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 15. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
