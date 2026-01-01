@@ -1,4 +1,4 @@
-26. § (1) Gazdálkodó szervezet felhasználó – törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele nem kötelező, létrejöttét követő nyolc napon belül – köteles hivatalos elérhetőségként bejelenteni a rendelkezési nyilvántartásba az elektronikus kapcsolattartásra szolgáló elérhetőségét (a továbbiakban: hivatalos elérhetőség), amely lehet
+26. § (1) Gazdálkodó szervezet felhasználó – törvény eltérő rendelkezése hiányában a nyilvántartásba vételét, ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele nem kötelező, létrejöttét követő 8 napon belül – köteles hivatalos elérhetőségként bejelenteni a rendelkezési nyilvántartásba az elektronikus kapcsolattartásra szolgáló elérhetőségét (a továbbiakban: hivatalos elérhetőség), amely lehet
 
 a) ajánlott elektronikus kézbesítési szolgáltatási cím, vagy
 

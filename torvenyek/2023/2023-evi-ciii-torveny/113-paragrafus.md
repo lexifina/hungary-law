@@ -84,7 +84,7 @@
 
 9. a digitális szolgáltatás nyújtására köteles szervek egymás közötti, valamint a természetes személyekkel vagy gazdálkodó szervezetekkel történő elektronikus kapcsolattartására vonatkozó szabályokat.
 
-10. a proaktív szolgáltatásokat, valamint a proaktív szolgáltatás nyújtására vonatkozó szabályokat,
+10. a proaktív szolgáltatásokat és a proaktív szolgáltatás nyújtására vonatkozó szabályokat,
 
 11. a hozzájárulás alapú adatszolgáltatás teljesítése érdekében a digitális állampolgárság szolgáltató által nyilvántartott adatokat,
 

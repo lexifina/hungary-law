@@ -12,7 +12,7 @@ b) emelt szintű kétfaktoros azonosítást biztosító ügyfélkapu.
 
 (4) A központi idegenrendészeti nyilvántartásban, vagy elektronikus ügyintézést igénybe vevő külföldiek nyilvántartásában szereplő természetes személy felhasználó az (1) bekezdés b) pontja szerinti azonosítási szolgáltatást veheti igénybe.
 
-(5) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó ajánlott elektronikus kézbesítési szolgáltatás és az ahhoz kapcsolódó tárhely használatára.
+(5) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó ajánlott elektronikus kézbesítési szolgáltatás, továbbá az ahhoz kapcsolódó tárhely használatára.
 
 (6) A digitális állampolgárság nyilvántartás tekintetében az ügyfél-regisztrációs nyilvántartás és a nyilvántartásba történő regisztráció szabályait a 12. §-ban foglalt eltérésekkel kell alkalmazni.
 

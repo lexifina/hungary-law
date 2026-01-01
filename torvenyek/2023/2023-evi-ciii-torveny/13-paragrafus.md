@@ -1,6 +1,6 @@
 13. § (1) A nyilvántartás a következő adatokat tartalmazza:
 
-a) a felhasználó felhasználói profilja aktiválásának, illetve inaktiválásának, valamint megszüntetésének ténye és ideje, a digitális állampolgár azonosító,
+a) a felhasználó felhasználói profilja aktiválásának, inaktiválásának, valamint megszüntetésének ténye és ideje, a digitális állampolgár azonosító,
 
 b) a 12. § (2)–(4) bekezdése szerint átvett adatok a személyazonosságot igazoló okmány érvényessége tényének kivételével, a természetes személy felhasználó személyiadat- és lakcímnyilvántartásból történő kikerülésének oka és ideje, valamint a 12. § (5) bekezdése szerinti kapcsolati kód,
 

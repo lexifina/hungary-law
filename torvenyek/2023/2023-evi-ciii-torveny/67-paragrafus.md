@@ -6,6 +6,8 @@
 
 67. § (1) A Kormány által kijelölt szerv az elektronikus ügyintézés biztonsága, a felhasználók hiteles elektronikus azonosítása, valamint az egyes elektronikus ügyintézési szolgáltatások igénybevételének biztosítása érdekében nyilvántartást vezet azon, életvitelszerűen külföldön élő, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező külföldi természetes személyekről, akik ebbe a nyilvántartásba az elektronikus ügyintézés céljából önkéntesen regisztrálnak (a továbbiakban: külföldi személyek nyilvántartása).
 
+(1a) A külföldi személyek nyilvántartása a digitális ügyintézés során történő személyazonosításhoz szükséges adatokat közhitelesen igazolja.
+
 (2) Az e törvény hatálya alá tartozó ügyeit az (1) bekezdés szerinti regisztráció nélkül is elektronikusan intézheti a külföldön élő, Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező az a természetes személy is, aki
 
 a) az eIDAS Rendelet hatálya alá tartozik és az eIDAS Rendelet 6. cikk (1) bekezdése szerinti feltételeknek megfelelő elektronikus azonosítási eszközzel azonosítja magát, vagy
