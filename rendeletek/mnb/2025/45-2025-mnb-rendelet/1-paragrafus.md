@@ -1,0 +1,5 @@
+## [1] E rendelet célja a pénztárak és a foglalkoztatói nyugdíjszolgáltató intézmény által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében jelentendő adatok körére, valamint az adatszolgáltatás teljesítésének módjára és határidejére vonatkozó szabályok meghatározása.
+
+## [2] A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés i) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (6) és (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
+
+1. § E rendelet hatálya az önkéntes nyugdíjpénztárra, az önkéntes kölcsönös egészségpénztárra (a továbbiakban: egészségpénztár), az önkéntes kölcsönös önsegélyező pénztárra (a továbbiakban: önsegélyező pénztár), az önkéntes kölcsönös egészség- és önsegélyező pénztárra (a továbbiakban: egészség- és önsegélyező pénztár), a magánnyugdíjpénztárra és a foglalkoztatói nyugdíjszolgáltató intézményre (a továbbiakban együtt: adatszolgáltató) terjed ki.
