@@ -6,4 +6,4 @@ b)
 
 c)
 
-d)
+d) 18/D. § (4) bekezdése.
