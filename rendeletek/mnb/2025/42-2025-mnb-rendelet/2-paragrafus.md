@@ -1,0 +1,3 @@
+2. § A Rendelet 11. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A kisbiztosítónak nem minősülő biztosító, valamint a mikro-, kis- vagy középvállalkozásnak nem minősülő alkusz, többes ügynök és kiegészítő biztosításközvetítői tevékenységet végző személy a jelentős IKT-vonatkozású eseményekre és jelentős kiberfenyegetésekre vonatkozó, az (EU) 2025/301 felhatalmazáson alapuló bizottsági rendelet szerinti tartalmú bejelentéseket az ERA rendszer „DORA Incidens bejelentés” szolgáltatása alatt elérhető, az (EU) 2025/302 bizottsági végrehajtási rendelet szerinti űrlapon, fokozott biztonságú vagy minősített elektronikus aláírással ellátva teljesíti.”
