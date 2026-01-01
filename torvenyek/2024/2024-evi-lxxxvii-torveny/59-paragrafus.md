@@ -1,1 +1,3 @@
-### 59. §
+59. § Az energiahatékonyságról szóló 2015. évi LVII. törvény 22/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A gazdálkodó szervezetnek első alkalommal azon év június 30-áig kell regisztrálnia a Hivatalnál, amely évet megelőző három évben az összes energiahordozót együttvéve a gazdálkodó szervezet átlagos éves energiafogyasztása meghaladta a 10 TJ-t. Ezt követően a gazdálkodó szervezetnek minden év június 30-áig kell regisztrálnia. A regisztráció alkalmával a gazdálkodó szervezet nyilatkozik arról, hogy az energetikai auditálásra vonatkozó kötelezettség feltételei fennállnak-e.”

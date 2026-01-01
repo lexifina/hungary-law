@@ -2,6 +2,6 @@
 
 a)
 
-b)
+b) 22. § (4) és (4a) bekezdése,
 
-c)
+c) 22. § (6) bekezdése,

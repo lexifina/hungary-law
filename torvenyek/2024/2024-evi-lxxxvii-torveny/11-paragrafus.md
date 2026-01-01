@@ -78,7 +78,7 @@ cj) a klímagázt tartalmazó terméket, alkalmazást és létesítményt érint
 
 ck) minden egyéb olyan adat, amelynek jelentésére és nyilvántartására az F-Gáz ügyfél-azonosítóval rendelkező vállalkozás az uniós jogi aktusok rendelkezései folytán köteles.
 
-(3) A klímavédelemért felelős hatóság által vezetett adatbázis a klímagázokkal kapcsolatos jogosultságokra vonatkozó, a (2) bekezdés c) pont ce) alpontja szerinti adatokat közhitelesen tartalmazza, ezen adatok tekintetében az adatbázis közhiteles hatósági nyilvántartásnak minősül.
+(3) A klímavédelemért felelős hatóság által vezetett adatbázis a klímagázokkal kapcsolatos tevékenység végzésére való jogosultság ténye, valamint annak keletkezési és megszűnési időpontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A nyilvántartásban szereplők – a személyiadat- és lakcímnyilvántartásban, a cégnyilvántartásban, vagy az egyéni vállalkozók nyilvántartásában szereplő adatok kivételével – az adataikban bekövetkezett változást kötelesek a klímavédelemért felelős hatóságnak a változást követő 8 munkanapon belül bejelenteni. A változásbejelentési kötelezettségeket a klímavédelemért felelős hatóság által az erre a célra rendszeresített nyomtatványon kell teljesíteni.
 
