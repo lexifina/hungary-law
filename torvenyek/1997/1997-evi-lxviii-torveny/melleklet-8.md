@@ -1,4 +1,4 @@
-## | | A | B | C | 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,38 | 2 | 3. | Főosztályvezető-helyettes, igazgató | 1,24 | 1,89 | 4. | Osztályvezető, igazgatóhelyettes | 1,12 | 1,77 | 5. | Osztályvezető-helyettes | 0,83 | 1,66 | 6. | Csoportvezető | 0,79 | 1,6 | 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,68 | 1,54
+## | | A | B | C | 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese | 1,56 | 2,18 | 3. | Főosztályvezető-helyettes, igazgató | 1,42 | 2,07 | 4. | Osztályvezető, igazgatóhelyettes | 1,3 | 1,95 | 5. | Osztályvezető-helyettes | 1,01 | 1,84 | 6. | Csoportvezető | 0,97 | 1,78 | 7. | Csoportvezető-helyettes, bírósági irodavezető | 0,86 | 1,72
 
 8. melléklet az 1997. évi LXVIII. törvényhez
 
