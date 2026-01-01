@@ -1,4 +1,4 @@
-## 13/E. [^104] A felvonók és a felvonókhoz készült biztonsági berendezések megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+## 13/E. [^106] A felvonók és a felvonókhoz készült biztonsági berendezések megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
 
 24/F. § (1) A kijelölő hatóság jelenti be az Európai Bizottságnak a bejelentett szervezeteket, a felvonókkal kapcsolatos megfelelőségértékelési eljárások lefolytatására feljogosított szervezetekként.
 
@@ -26,4 +26,4 @@ d) kérésre a bejelentésük hatálya alá tartozó megfelelőségértékelési
 
 (9) A bejelentett szervezetek tájékoztatják a felvonók és a felvonókhoz készült biztonsági berendezések biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet szerint bejelentett, azonos típusú felvonókra és felvonókhoz készült biztonsági berendezésekre vonatkozó hasonló megfelelőségértékelési tevékenységeket végző más szervezeteket a negatív és – kérésre – a pozitív megfelelőségértékelési eredményekről.
 
-[^104]: A 13/E. alcímet (24/F. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^106]: A 13/E. alcímet (24/F. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.

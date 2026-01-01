@@ -60,13 +60,13 @@ n)[^55] az egyes szórakoztatási célú berendezések, létesítmények és ide
 
 kapcsolatos eljárásokban.
 
-(4) A (3) bekezdés a) és b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(4)[^56]
 
 (5) A Kormány a (3) bekezdés a)–c) és i) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
 (6) A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
 
-(7)[^56] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és vármegyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
+(7)[^57] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és vármegyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
 
 [^38]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (5) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
 [^39]: A 13. § (2) bekezdés b) pontját a 190/2020. (V. 7.) Korm. rendelet 15. §-a hatályon kívül helyezte.
@@ -86,4 +86,5 @@ kapcsolatos eljárásokban.
 [^53]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^54]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^55]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be, szövege a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^56]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
+[^56]: A 13. § (4) bekezdését a 342/2025. (X. 31.) Korm. rendelet 37. § a) pontja hatályon kívül helyezte.
+[^57]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.

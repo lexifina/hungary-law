@@ -1,3 +1,3 @@
-21. §[^76]
+21. §[^78]
 
-[^76]: A 21. §-t a 213/2019. (VIII. 27.) Korm. rendelet 43. § b) pontja hatályon kívül helyezte.
+[^78]: A 21. §-t a 213/2019. (VIII. 27.) Korm. rendelet 43. § b) pontja hatályon kívül helyezte.
