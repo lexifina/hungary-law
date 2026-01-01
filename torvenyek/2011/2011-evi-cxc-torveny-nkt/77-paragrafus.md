@@ -24,11 +24,13 @@ i) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat,
 
 j) az e törvényben biztosított tanulói jogok érvényesülésének elősegítésére megszervezi a középiskolai felvételi eljárást, kidolgoztatja a középiskolai felvételi eljárásban alkalmazott írásbeli felvételi vizsgafeladatokat,
 
-k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról, valamint a tankerületi központ által fenntartott köznevelési intézmény létesítéséről, a 21. § (3) bekezdés c)–e) pontjaiban felsoroltak módosulásával járó átszervezéséről, megszüntetéséről, alapfeladatának módosításáról.
+k) dönt a tankerületi központ által fenntartott köznevelési intézmény létesítéséről, a 21. § (3) bekezdés c)–e) pontjaiban felsoroltak módosulásával járó átszervezéséről, megszüntetéséről, alapfeladatának módosításáról.
 
 l) nemzetközi megállapodás alapján működő köznevelési intézmény által folytatott nevelés-oktatás esetén megállapítja a nevelés-oktatás nemzetiségi irányelvnek való megfelelését.
 
 m) megállapítja a köznevelésért felelős miniszter által előírt képzés nyilvántartásba vételének feltételeit és eljárási szabályait, a nyilvántartás rendjét, a képzés tartalmát, a képzésben részt vevők körét, valamint a képzés teljesítésének szabályait.
+
+n) egyetértési jogot gyakorol az állami felsőoktatási intézmény által fenntartott köznevelési intézmény létesítéséről, átszervezéséről, megszüntetéséről, alapfeladatának módosításáról szóló, a felsőoktatásért felelős miniszter által meghozott döntéshez.
 
 (3) A köznevelésért felelős miniszter az általa vezetett minisztérium költségvetésének a terhére országos és térségi szakmai ellenőrzést, pedagógiai-szakmai mérések, átvilágítások, elemzések készítését rendelheti el, továbbá felkérheti a fenntartót, hogy a fenntartásában lévő nevelési-oktatási intézményben végeztessen törvényességi, szakmai ellenőrzést, pedagógiai-szakmai mérést, átvilágítást, elemzést, és ennek eredményéről tájékoztassa. Ha a fenntartó a felkérésnek nem tesz eleget, a köznevelésért felelős miniszter intézkedésére a hivatal jár el.
 

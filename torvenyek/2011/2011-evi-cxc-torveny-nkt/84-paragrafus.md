@@ -20,7 +20,7 @@ c) az iskola, kollégium, óvoda feladatait nem változtathatja meg.
 
 (6) A köznevelési feladatokat ellátó hatóság engedélyezi a működési engedéllyel rendelkező intézmények fenntartói számára a székhely, telephely változását tanítási évben, nevelési évben más, előre nem látható okból is. Ha a fenntartó három éven belül másodszor kéri előre nem látható okból a székhely-, telephelyváltozás engedélyezését, a köznevelési feladatokat ellátó hatóságnak le kell folytatnia a 34. § (2) bekezdésében szabályozott törvényességi ellenőrzést.
 
-(7) A fenntartó, a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény esetében a köznevelésért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
+(7) A fenntartó, a tankerületi központ esetében a köznevelésért felelős miniszter legkésőbb az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
 a) a nevelési-oktatási intézmény fenntartói jogának átadásával,
 
@@ -56,6 +56,6 @@ c) igazgatójának megbízásával, megbízásának visszavonásával
 
 (9a) A köznevelésért felelős miniszter a tankerületi központ által fenntartott intézmények tekintetében hozott, az e §-ban meghatározott döntéseihez nem köteles beszerezni az érintett nemzetiségi önkormányzat egyetértését, amennyiben a köznevelésért felelős miniszter a tankerületi központ véleményével egyező döntést hoz, és a tankerületi központ véleményével az érintett nemzetiségi önkormányzat egyetért.
 
-(9b) A magán köznevelési intézmény munkaviszonyból eredő olyan kötelezettségeiért, amelyek teljesítéséhez vagyona nem elégséges, a fenntartó kezesként felel. Ha a magán köznevelési intézmény jogutód nélkül szűnik meg, a munkaviszonyból származó, a munkavállalók elmaradt munkabérét és egyéb, munkáltatóval szemben fennálló követeléseit érintő jogok és kötelezettségek a megszűnés időpontjában a fenntartóra átszállnak.
+(9b) A magán köznevelési intézmény köznevelési foglalkoztatotti jogviszonyból, valamint munkaviszonyból eredő olyan kötelezettségeiért, amelyek teljesítéséhez vagyona nem elégséges, a fenntartó kezesként felel. Ha a magán köznevelési intézmény jogutód nélkül szűnik meg, a köznevelési foglalkoztatotti jogviszonyból, valamint munkaviszonyból származó, a köznevelési foglalkoztatottak és a munkavállalók elmaradt illetményét, munkabérét és egyéb, munkáltatóval szemben fennálló követeléseit érintő jogok és kötelezettségek a megszűnés időpontjában a fenntartóra átszállnak.
 
 (10) Többcélú köznevelési intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.

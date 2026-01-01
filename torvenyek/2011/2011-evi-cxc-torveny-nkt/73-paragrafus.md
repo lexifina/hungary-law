@@ -26,7 +26,7 @@ f) ügyrendjének a hivatal által történt jóváhagyását követően az int�
 
 g) képviseletét az elnök látja el.
 
-(5a) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
+(5a) Az e törvény alapján létrehozott intézményi tanácsról az (5) bekezdés a) pontja alapján vezetett nyilvántartás az a), b), d) és f) pontban meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
 
 a) az intézményi tanács neve,
 

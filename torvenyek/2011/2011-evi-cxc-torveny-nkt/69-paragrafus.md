@@ -4,7 +4,7 @@ a) felel az intézmény szakszerű és törvényes működéséért, fenntartó 
 
 b)
 
-c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
+c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés nem utal más hatáskörébe,
 
 d) felelős az intézményi szabályzatok elkészítéséért,
 

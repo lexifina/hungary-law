@@ -70,9 +70,11 @@ c) a fenntartó képviseletére jogosult személy nevét,
 
 d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat, valamint a 84. § (2a) bekezdése szerinti előzetes vizsgálat és a 84. § (2b) bekezdése szerinti nyomon követés eredményét tartalmazó határozatot,
 
-e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a megszűnt intézmény iratainak őrzési helyét.
+e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját,
 
-(5a) A hivatal és a köznevelési feladatokat ellátó hatóság által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa)–ac) alpontja, valamint b)–e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+f) a megszűnt intézmény iratainak őrzési helyét.
+
+(5a) A hivatal és a köznevelési feladatokat ellátó hatóság által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa) és ab) alpontja, az (5) bekezdés a) pont ac) alpontja szerinti képviseletre jogosult, valamint az (5) bekezdés b), d) és e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (6)
 
@@ -96,7 +98,9 @@ g) a hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során
 
 (9) Ha a köznevelési feladatokat ellátó hatóság a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból, az erről szóló határozatában kijelöli azt a nevelési-oktatási intézményt vagy szakképző intézményt, amely a törölt köznevelési intézménnyel jogviszonyban álló gyermek, tanköteles tanuló felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító nevelési-oktatási intézményt vagy – a szakképzési államigazgatási szerv egyetértésével – szakképző intézményt kijelölni. A nevelési-oktatási intézményt vagy szakképző intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a köznevelési intézmény székhelye szerint területileg illetékes tankerületi központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő köznevelési intézmény iratállományát a jogutód köznevelési intézménynek kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
 
-(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokra vonatkozó iratállományt nem kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a hivatal az arra jogosult kérelmére a tanulmányi rendszerben kiállított, tárolt és nyilvántartott digitális bizonyítványt továbbítja a kérelmező részére.
+(9a) A (9) bekezdéstől eltérően a digitális bizonyítványokat nem kell átadni a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára. A jogutód nélkül megszűnő köznevelési intézmény esetében a digitális bizonyítványokhoz történő hozzáférést a volt tanuló részére az intézmény archív tanulmányi rendszeréből továbbra is biztosítani kell a volt tanuló intézményi tanulmányi rendszerbe történő hitelesített belépését követően.
+
+(9b) A (9a) bekezdésben foglaltak ellátása érdekében a tanulmányi rendszer üzemeltetője a jogutód nélkül megszűnő köznevelési intézmény esetén a tanulói jogviszony megszűnésétől számított 80 évig a volt tanuló tanulmányi rendszerbe történő belépéséhez szükséges azonosító adatokat, valamint a volt tanuló digitális bizonyítványában foglalt adatokat kezeli. A tanulmányi rendszer üzemeltetője ezen adatokat csak a volt tanuló, a volt tanuló törvényes képviselője, valamint törvényben meghatározott más szerv vagy személy részére adhatja át.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
