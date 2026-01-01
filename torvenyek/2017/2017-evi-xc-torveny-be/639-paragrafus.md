@@ -25,3 +25,11 @@ terjeszthet elő perújítási indítványt.
 (5) A perújítási indítványnak tartalmaznia kell az indítványozó kézbesítésre alkalmas elérhetőségét, a 637. § (1) bekezdés g) pontjára alapított perújítási indítványnak továbbá a terhelt tényleges tartózkodási helyét.
 
 (6) Ha valamely hatóság vagy hivatalos személy a hivatali hatáskörében olyan körülményről szerez tudomást, amelynek alapján perújítást lehet indítványozni, köteles erről a perújítás megengedhetőségének kérdésében döntő bíróság mellett működő ügyészséget tájékoztatni.
+
+(7) A terhelt és a védő a 637. § (1) bekezdés h) pontjára alapított perújítási indítványt attól a naptól számított egy hónapon belül terjesztheti elő, amelyen a terhelt
+
+a) magyarországi tényleges tartózkodási helyét a bírósággal közölte,
+
+b) a terheltet Magyarországon elfogták, vagy
+
+c) a terheltet Magyarországra szállították.

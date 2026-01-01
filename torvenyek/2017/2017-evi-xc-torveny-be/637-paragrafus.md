@@ -26,7 +26,9 @@ e) az alapügyben a bíróság, az ügyészség vagy a nyomozó hatóság tagja 
 
 f) a köztársasági elnök a terhelttel szemben indult büntetőeljárás kegyelemből történő megszüntetéséről határozott,
 
-g) az alapügyet a CI–CII. Fejezet szerint fejezték be.
+g) az alapügyet a CI. Fejezet szerint fejezték be, vagy
+
+h) az alapügyet a CII. Fejezet szerint fejezték be és végrehajtandó szabadságvesztés büntetés kiszabására került sor.
 
 (2) Az (1) bekezdés a) pontja szerinti új bizonyítéknak kell tekinteni az olyan személy tanúvallomását, aki az alapügyben a mentességi jogával élve a vallomástételt megtagadta.
 
@@ -39,3 +41,5 @@ b) e bűncselekmény a bíróság vádról rendelkező ügydöntő határozatát
 (4) A perújításnak nem akadálya, ha a (3) bekezdés a) pontjában megjelölt bűncselekmény miatt a felelősségre vonás az elkövető büntethetőségét, illetve a cselekmény büntetendőségét kizáró ok vagy büntethetőséget megszüntető ok miatt maradt el.
 
 (5) Az (1) bekezdés f) és – ha a terhelt elérhető – g) pontja esetén a perújítás lefolytatása kötelező.
+
+(6) Az (1) bekezdés h) pontjában meghatározott esetben a perújítás lefolytatása kötelező, ha a terhelt Magyarországon tartózkodik.

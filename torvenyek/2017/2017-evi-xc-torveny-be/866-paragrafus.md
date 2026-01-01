@@ -24,7 +24,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 5. a bűnügyi költség előlegezésének, valamint a büntetőeljárásban elrendelt elővezetés végrehajtásával, illetve a terhelt elfogatóparancs alapján történő előállításával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésének – ide nem értve az elővezetés költsége mértéke megállapítását – a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 
-6.
+6. a büntetőeljárásban a tárgyalás online hallgatóság által történő nyomon követésére vonatkozó szabályokat,
 
 7. a büntetőeljárásban a pártfogó ügyvéd és a kirendelt védő díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 

@@ -1,19 +1,31 @@
 ## Nyomozás és vádemelés
 
-748. § (1) Ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy a gyanúsított elérhetősége ismeretlen, és a távollévő terhelttel szembeni eljárás lefolytatásának feltételei fennállnak, az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt vagy a gyanúsítottat távollévő terheltté nyilvánítja. A határozat ellen nincs helye panasznak.
+748. § (1) Ha a távollévő terhelttel szemben vádemelésnek lehet helye, az ügyészség vagy a nyomozó hatóság a terhelt részére védőt rendel ki, ha a terheltnek nincs védője.
 
-(1a) Ha az ügyészség a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt távollévő terheltté nyilvánítja, de a nyomozást nem fejezi be, a nyomozást a vizsgálat szabályai szerint kell folytatni.
+(2) A terhelt védője részére az ügyiratok megismerését a 352. § (1) bekezdése rendelkezései szerint biztosítani kell.
 
-(2) Ha a távollévő terheltnek nincs védője, részére az ügyészség az (1) bekezdés szerinti határozatával egyidejűleg védőt rendel ki.
+(3) Ha a távollévő terhelttel szemben vádemelésre került sor, az ügyészség tájékoztatja a terheltet, hogy
 
-(3) A távollévő terhelt részére az ügyészség, illetve a nyomozó hatóság csak
+a) az ügyészség a terhelt távollétében vádat emelt,
 
-a) az (1) bekezdés szerinti határozatot,
+b) a védő kirendeléséről és a védő elérhetőségéről, ha az (1) bekezdés alapján védő kirendelésére került sor,
 
-b) az eljárást felfüggesztő, megszüntető határozatot,
+c) az elfogatóparancs kibocsátására került sor, valamint
 
-c) a vádemelésről szóló tájékoztatást
+d) az eljárásról a továbbiakban a nyomozó hatóságnál vagy az ügyészségnél kaphat tájékoztatást, megjelölve az érintett hatóságok elérhetőségét.
 
-kézbesíti.
+(4) A (3) bekezdés szerinti tájékoztatást az ügyészség és a nyomozó hatóság központi elektronikus tájékoztatásra szolgáló honlapján, és a Kormány által rendeletben meghatározott közzétételi felületen olyan módon kell közzétenni, hogy az interneten keresztül széleskörűen elterjedt böngészőprogramokkal folyamatosan elérhető és megtekinthető legyen, és a honlapon belül kereshető legyen legalább
 
-(4) Az (1) bekezdésben meghatározott feltételek fennállása esetén a gyanúsítás közlésének elmaradása a vádemelésnek nem akadálya. Ha az ügyészség az eljárás terhelt távollétében történő lefolytatását a vádiratban indítványozza, a vádiratnak a 422. §-ban meghatározottak mellett tartalmaznia kell a 747. § (3) és (4) bekezdésben felsorolt körülmények részletes leírását is.
+a) a tájékoztatást közzétevő ügyészség vagy nyomozó hatóság megnevezése alapján,
+
+b) az ügy száma alapján,
+
+c) a tájékoztatás közzétételének időpontja alapján,
+
+d) az eljárás tárgyát képező bűncselekmény, több bűncselekmény esetén valamennyi bűncselekmény megnevezése alapján, és
+
+e) a terhelt neve alapján.
+
+(5) A terhelt részére a (3) bekezdés szerinti tájékoztatást az eljárás befejezéséig kell közzétenni.
+
+(6) A (3) bekezdés szerinti tájékoztatás közzétételét követően az ügyészség és a nyomozó hatóság a terhelt részére kézbesítendő ügyirat kézbesítését mellőzi.

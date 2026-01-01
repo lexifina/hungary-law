@@ -1,6 +1,6 @@
 488. § (1) A bíróság felfüggesztheti az eljárást, ha
 
-a) a vádlott ismeretlen helyen vagy külföldön tartózkodik,
+a) a vádlott ismeretlen helyen vagy külföldön tartózkodik, és a távollevő terhelttel szemben a CI. vagy a CII. Fejezet alapján a bírósági eljárás lefolytatásának nincs helye,
 
 b) a vádirat hiányosságainak pótlása vagy eljárási cselekmény elvégzése iránt intézkedett,
 

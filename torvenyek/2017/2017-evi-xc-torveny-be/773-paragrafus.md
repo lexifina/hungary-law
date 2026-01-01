@@ -29,3 +29,5 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 (5) Ha a tárgyaláson a magánvádló jogi képviselőjének a jelenléte kötelező és a magánvádló jogi képviselete az eljárásban megszűnik, a bíróság az erről való tudomásszerzést követő nyolc napon belül felhívja a magánvádlót, hogy jogi képviseletéről tizenöt napon belül gondoskodjék.
 
 (6) A magánvádló és − ha a magánvádló jogi képviselete kötelező – a magánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
+
+(7) Magánvádas eljárásban a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.

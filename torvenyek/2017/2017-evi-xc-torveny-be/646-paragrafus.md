@@ -12,6 +12,6 @@
 
 (6) A perújítás lefolytatása során
 
-a) a bizonyítás terjedelmét – a 637. § (1) bekezdés g) pontjában meghatározott ok kivételével – kizárólag az a perújítási ok határozza meg, amely miatt a perújítást elrendelték, és
+a) a bizonyítás terjedelmét – a 637. § (1) bekezdés g) és h) pontjában meghatározott ok kivételével – kizárólag az a perújítási ok határozza meg, amely miatt a perújítást elrendelték, és
 
 b) nem rendelhető el olyan bizonyítás, amely a terhelt terhére szóló változást eredményezne, ha a perújítási indítványt a terhelt javára terjesztették elő.

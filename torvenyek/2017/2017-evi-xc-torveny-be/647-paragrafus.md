@@ -2,9 +2,11 @@
 
 (2) A bíróság a perújítást elutasítja, ha
 
-a) azt alaptalannak találja, illetve
+a) azt alaptalannak találja,
 
-b) a 637. § (1) bekezdés g) pontja alapján elrendelt perújítás során a terhelt elérhetetlenné vált.
+b) a 637. § (1) bekezdés g) pontja alapján elrendelt perújítás során a terhelt elérhetetlenné vált, illetve,
+
+c) a 637. § (1) bekezdés h) pontjára alapított perújítási indítvány esetén a terhelt tényleges magyarországi tartózkodási helye megszűnt vagy elérhetetlenné vált.
 
 (3) Ha az alapügyben kiszabott büntetést összbüntetésbe foglalták, és a perújítás alapossága folytán az összbüntetési ítéletet is hatályon kívül kell helyezni, a bíróság az összbüntetési ítéletet is hatályon kívül helyezi, és – ha ennek feltételei fennállnak – lefolytatja az összbüntetési eljárást, feltéve, hogy ez a 839. § (1) bekezdése szerinti hatáskörét nem haladja meg; ellenkező esetben az ügyiratokat az összbüntetési eljárás lefolytatására hatáskörrel rendelkező bíróságnak küldi meg.
 

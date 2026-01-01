@@ -6,15 +6,19 @@
 
 394. § (1) Az ügyészség és a nyomozó hatóság felfüggeszti az eljárást, ha
 
-a) az elkövető kiléte a nyomozásban nem volt megállapítható, vagy
+a) az elkövető kiléte a nyomozásban nem volt megállapítható,
 
-b) az elkövető tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt.
+b) az elkövető tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt,
+
+c) az elkövető ismeretlen helyen tartózkodik és a távollévő terhelttel szemben a CI. Fejezet alapján a bírósági eljárás lefolytatásának nincs helye vagy
+
+d) az elkövető külföldön ismert helyen tartózkodik és a CII. Fejezet alapján a bírósági eljárás lefolytatásának nincs helye.
 
 (2) Az ügyészség felfüggeszti az eljárást a közvetítői eljárás lefolytatása céljából, ha annak feltételei fennállnak.
 
 (3) Az ügyészség és a nyomozó hatóság felfüggesztheti az eljárást, ha
 
-a) az elkövető ismeretlen helyen vagy külföldön tartózkodik,
+a)
 
 b) jogsegély iránti megkeresés más állam hatósága általi teljesítése szükséges,
 

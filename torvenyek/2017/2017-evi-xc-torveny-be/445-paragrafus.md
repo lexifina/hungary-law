@@ -18,7 +18,7 @@ g) az e törvényben meghatározott más személyes adatokat,
 
 h) az eljárási cselekményen jelen lévő egyéb személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben van jelen,
 
-i) azt, hogy hallgatóság jelen van-e.
+i) azt, hogy hallgatóság jelen van-e vagy az online hallgatóság a tárgyalást nyomon követi-e.
 
 (2) A jegyzőkönyvnek tartalmaznia kell
 

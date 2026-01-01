@@ -4,7 +4,7 @@ a) megküldi az alapügyben eljárt elsőfokú bíróságnak vagy
 
 b) átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz.
 
-(2) A 637. § (1) bekezdés g) pontja alapján a perújítást csak a másodfokú, illetve csak a harmadfokú bírósági eljárásra vonatkozóan kell elrendelni, ha a terhelt távollétében csak a másodfokú, illetve csak a harmadfokú bírósági eljárást folytatták le.
+(2) A 637. § (1) bekezdés g) és h) pontja alapján a perújítást csak a másodfokú, illetve csak a harmadfokú bírósági eljárásra vonatkozóan kell elrendelni, ha a terhelt vagy a külföldön ismert helyen tartózkodó terhelt távollétében csak a másodfokú, illetve csak a harmadfokú bírósági eljárást folytatták le.
 
 (3) Ha a bíróság a 637. § (1) bekezdés b) pontja alapján rendeli el a perújítást, maga is hatályon kívül helyezheti az alapügyben hozott ítéletet, vagy annak a perújítással megtámadott részét és az 567. § (1) bekezdés b) pontja alapján megszüntetheti az eljárást.
 
@@ -12,7 +12,11 @@ b) átteszi a hatáskörrel és illetékességgel rendelkező bírósághoz.
 
 (5) A bíróság a perújítás elrendelésével egyidejűleg az alapügyben kiszabott büntetés vagy alkalmazott intézkedés végrehajtását, illetve a jogerős ügydöntő határozatban foglaltak teljesítését felfüggesztheti, illetve félbeszakíthatja, vagy a szükséges kényszerintézkedést elrendelheti.
 
-(6) Az alaptalan, illetve a törvényben kizárt, az arra nem jogosulttól származó vagy elkésett perújítási indítványt a bíróság nem ügydöntő végzésével elutasítja. A bíróság a perújítási indítványt elutasítja akkor is, ha az indítványozó, illetve a 637. § (1) bekezdés g) pontjára alapított perújítási indítvány esetén a terhelt elérhetetlenné vált.
+(6) Az alaptalan, illetve a törvényben kizárt, az arra nem jogosulttól származó vagy elkésett perújítási indítványt a bíróság nem ügydöntő végzésével elutasítja. A bíróság a perújítási indítványt elutasítja akkor is, ha
+
+a) az indítványozó, illetve a 637. § (1) bekezdés g) pontjára alapított perújítási indítvány esetén a terhelt elérhetetlenné vált vagy
+
+b) a 637. § (1) bekezdés h) pontjára alapított perújítási indítvány esetén a terhelt tényleges magyarországi tartózkodási helye megszűnt vagy elérhetetlenné vált.
 
 (7) A bíróság a perújítási indítványt elutasító határozatát közli azzal, aki a perújítási indítványt előterjesztette, és ha az indítványt nem az ügyészség terjesztette elő, az ügyészséggel is. A más által előterjesztett perújítási indítványt elutasító határozatot a terhelttel és a védővel is közölni kell.
 

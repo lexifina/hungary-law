@@ -1,21 +1,63 @@
-755. § (1) A külföldön ismert helyen tartózkodó terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy távollétében az eljárás lefolytatásának akkor van helye, ha
+755. § (1) Ha az ügyészség az Európai Unió tagállamának területén ismert helyen tartózkodó terhelttel szemben emelt vádat, a külföldön ismert helyen tartózkodó terhelt távollétében a bírósági eljárás lefolytatásának az 754. § (1) bekezdésében foglaltak esetén is csak akkor van helye, ha
 
-a) európai vagy nemzetközi elfogatóparancs kibocsátásának nincs helye, vagy arra azért nem kerül sor, mert a vádiratban az ügyészség végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására nem tesz indítványt, és
+a) a terhelt szabadlábon van,
 
-aa) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy szabályszerű idézés ellenére nem jelent meg, vagy
+b) a vádlott szabályszerű idézés ellenére nem jelent meg, a tárgyaláson való jelenlét jogáról nem mondott le és jelenléte a tárgyaláson nemzetközi bűnügyi jogsegélykérelem alapján telekommunikációs eszköz használatával, illetve egyszerűsített telekommunikációs jelenléttel sem biztosítható,
 
-ab) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy külföldön fogva van,
+c) európai elfogatóparancs kibocsátásának nincs helye, vagy arra azért nem kerül sor, mert a vádiratban az ügyészség végrehajtandó szabadságvesztés büntetés kiszabására nem tesz indítványt, az európai elfogatóparancsot a terhelt elfogását követő tizenkét hónapon belül nem hajtották végre vagy a végrehajtását megtagadták.
 
-b) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogását követően a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy átadására vagy kiadatására tizenkét hónapon belül nem került sor, és a büntetőeljárás átadására sem került sor,
+(2) Ha az ügyészség az Európai Unió tagállamán kívüli ország területén ismert helyen tartózkodó, szabadlábon lévő terhelttel szemben emelt vádat, a külföldön ismert helyen tartózkodó terhelt távollétében a bírósági eljárás lefolytatásának a 754. § (1) bekezdésében foglaltak esetén is csak akkor van helye, ha
 
-c) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy átadását vagy kiadatását megtagadták, és a büntetőeljárás átadására sem került sor,
+a) a vádlott szabadlábon van,
 
-d) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, és a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy halasztott átadását vagy kiadatását rendelték el.
+b) a vádiratban az ügyészség a külföldön tartózkodó terhelt vonatkozásában végrehajtandó szabadságvesztés büntetés kiszabására tett indítványt, vagy az indítványozott büntetés végrehajtásának átadása nemzetközi bűnügyi jogsegély útján a terhelt tartózkodási helye szerinti államba lehetséges,
 
-(2) A külföldön tartózkodó terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy távollétében az eljárás lefolytatásának az (1) bekezdésben meghatározott feltételek esetén is csak akkor van helye, ha
+c) a külföldön tartózkodó terhelt tartózkodási helye szerinti államba a nemzetközi bűnügyi jogsegély szabályai alapján az ügyiratok közvetlen kézbesítésére lehetőség van, vagy az ügyiratok a terhelt részére elektronikus kapcsolattartás – ideértve az egyszerűsített elektronikus úton történő kézbesítést is – útján kézbesíthetők,
 
-a) azt a bűncselekmény tárgyi súlya vagy az ügy megítélése indokolja, és
+d) a vádlott szabályszerű idézés ellenére nem jelent meg, a tárgyaláson való jelenlét jogáról nem mondott le, és jelenléte a tárgyaláson nemzetközi bűnügyi jogsegélykérelem alapján telekommunikációs eszköz útján biztosított jelenléttel, illetve egyszerűsített telekommunikációs eszköz alkalmazása útján nem biztosítható,
 
-b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy részvétele az eljárásban, illetve jelenléte az eljárási cselekményen nemzetközi bűnügyi jogsegélykérelem előterjesztésével, illetve telekommunikációs eszköz alkalmazása útján nem biztosítható, vagy ezek alkalmazását a bűncselekmény tárgyi súlya vagy az ügy megítélése nem indokolja.
+e) a vádlott vonatkozásában kiadatási kérelem előterjesztésének nincs helye, a kiadatási kérelmet a terhelt elfogását követő tizenkét hónapon belül nem hajtották végre vagy a kiadatási kérelem végrehajtását megtagadták.
 
-(3) A külföldön tartózkodó terhelt távollétében folytatott eljárásban az 590. § (3)–(4) bekezdése szerinti felülbírálatnak is helye van.
+(3) Ha a bíróság megállapítja, hogy a bírósági eljárás a külföldön ismert helyen tartózkodó terhelt távollétében folytatható, erről tájékoztatja az ügyészséget.
+
+(4) Az egyesbíró vagy a tanács elnöke az eljárást felfüggeszti, ha
+
+a) a bíróság megállapítja, hogy a bírósági eljárás külföldön ismert helyen tartózkodó terhelt távollétében történő lefolytatásának nincs helye,
+
+b) az ügyészség a (3) bekezdés szerinti tájékoztatás kézbesítésétől számított 15 napon belül nem indítványozza a bírósági eljárás külföldön ismert helyen tartózkodó terhelt távollétében történő lefolytatását.
+
+(5) Az eljárás felfüggesztése nem akadálya annak, hogy az ügyészség az indítványát utóbb előterjessze.
+
+(6) A bíróság a vádlott részére védőt rendel ki, ha a terheltnek nincs védője. Az ügyész, a védő a tárgyaláson indítványozhatja a korábban lefolytatott bizonyítási eljárás lényegének ismertetését, valamint bizonyítás felvételére irányuló indítványt terjeszthet elő, ideértve a korábban már kihallgatott tanú kihallgatására, szakértő meghallgatására vagy más eljárási cselekmény elvégzésére irányuló indítványt is.
+
+(7) A bíróság tájékoztatja a vádlottat, hogy
+
+a) a bíróság az eljárást a távollétében folytatja,
+
+b) a védő kirendeléséről és a védő elérhetőségéről, ha a (6) bekezdés alapján védő kirendelésére került sor,
+
+c) megjelenése a tárgyaláson nem kötelező, a tárgyalásról a bíróság a vádlottat a továbbiakban értesíteni fogja, az egyéb kézbesítendő ügyiratokat a vádlott részére kézbesíti,
+
+d) védekezéshez való jogát írásban gyakorolhatja, amely keretében előadhatja, hogy személyes jelenléte és kihallgatása nélkül az eljárás miért nem folytatható, továbbá arról, hogy írásban észrevételt, indítványt tehet, a tárgyaláson megjelenhet és indítványozhatja, hogy a tárgyaláson való jelenlétét egyszerűsített telekommunikációs jelenléttel biztosítsák,
+
+e) a tárgyalást abban az esetben is e Fejezet szerint fogja lefolytatni, ha a vádlott a tárgyaláson önként megjelenik vagy más módon önként részt vesz.
+
+(8) A (7) bekezdés szerinti tájékoztatást követően a vádlott jelenléte a tárgyaláson nem kötelező. Ha a terhelt a tájékoztatást követően a tárgyaláson önként megjelenik vagy azon más módon önként rész vesz, a bíróság a vádlottat kihallgatja, ha arra a bírósági eljárás korábbi szakaszában nem került sor, továbbá az ügyész, a terhelt vagy a védő a tárgyaláson indítványozhatja a korábban lefolytatott bizonyítási eljárás lényegének ismertetését, valamint bizonyítás felvételére irányuló indítványt terjeszthet elő, ideértve a korábban már kihallgatott tanú kihallgatására, szakértő meghallgatására vagy más eljárási cselekmény elvégzésére irányuló indítványt is. A tárgyaláson önként megjelent vádlott a tárgyaláson való jelenlét jogáról nem mondhat le.
+
+(9) A bíróság az eljárást az általános szabályok szerint folytatja, ha
+
+a) a terhelttel szemben kibocsátott európai elfogatóparancsot vagy a kiadatási kérelmet végrehajtják,
+
+b) a terhelt a tárgyaláson önként megjelenik és igazolja, hogy a tartózkodási helye Magyarországon van,
+
+c) a terhelt az ítélet kihirdetéskor jelen van.
+
+(10) A külföldön ismert helyen tartózkodó terhelt távolléte estén – a külföldön tartózkodó terhelt vonatkozásában –
+
+a) a kihirdetés előtt írásba foglalt rendelkező rész kézbesítésének és az 562. § (1)–(3) bekezdése szerinti rövidített indokolásnak nincs helye,
+
+b) a másodfokú bíróság az elsőfokú ítéletet – a (12) bekezdésben meghatározott kivétellel – teljes körűen és arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
+
+(11) Az (1)–(10) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú és a harmadfokú bírósági eljárásban is, azzal, hogy a vádlottat a bírósági eljárásban egy alkalommal, e Fejezet szerinti eljárás megindulásakor kell tájékoztatni a (7) bekezdésben foglaltakról.
+
+(12) A külföldön ismert helyen tartózkodó terhelt távollétében folytatott eljárásban az 590. § (3)–(4) bekezdése szerinti felülbírálatnak is helye van.
