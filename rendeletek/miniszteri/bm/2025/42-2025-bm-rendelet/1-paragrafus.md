@@ -8,6 +8,6 @@
 
 ## 1. A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosítása
 
-1. §[^1]
+1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: Nmr.) 80. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„(2) Az ellátást nyújtó gondoskodik a szabadidős tevékenységekhez szükséges és indokolt költségekről. A sportoláshoz kapcsolódó kiadásokra fordított támogatás éves összege nem lehet kevesebb gyermekenként 50 000 forintnál.”

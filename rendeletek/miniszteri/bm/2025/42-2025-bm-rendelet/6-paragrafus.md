@@ -1,3 +1,1 @@
-6. §[^6]
-
-[^6]: A 6. § a 7. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+6. § Nem lép hatályba az egyes szociális, gyermekvédelmi és fogyatékosságügyi tárgyú miniszteri rendeletek módosításáról szóló 29/2025. (VII. 24.) BM rendelet 6. § a) pontja.
