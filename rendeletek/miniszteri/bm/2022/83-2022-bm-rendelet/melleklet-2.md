@@ -40,7 +40,7 @@
 
 ## 3.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett 40–54 év közötti biztosítottak
 
-## 3.2.[^12] Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett 40–54 év közötti biztosítottak közül azok aránya, akik magas vérnyomás kezelésére szolgáló, a C02, C03, C07, C08, C09, C10BX ATC csoportokba tartozó gyógyszert váltottak ki legalább 4 alkalommal a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
+## 3.2.[^18] Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett 40–54 év közötti biztosítottak közül azok aránya, akik magas vérnyomás kezelésére szolgáló, a C02, C03, C07, C08, C09, C10BX ATC csoportokba tartozó gyógyszert váltottak ki legalább 4 alkalommal a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
 
 ## 3.3. Számítás: HSZGH1% = HSZGH1 / BB40-54 * 100
 
@@ -58,7 +58,7 @@
 
 ## 4.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett 55–69 év közötti biztosítottak
 
-## 4.2.[^13] Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett 55–69 év közötti biztosítottak közül azok aránya, akik magas vérnyomás kezelésére szolgáló, a C02, C03, C07, C08, C09, C10BX ATC csoportokba tartozó gyógyszert váltottak ki legalább 4 alkalommal a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerül figyelembevételre.
+## 4.2.[^19] Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett 55–69 év közötti biztosítottak közül azok aránya, akik magas vérnyomás kezelésére szolgáló, a C02, C03, C07, C08, C09, C10BX ATC csoportokba tartozó gyógyszert váltottak ki legalább 4 alkalommal a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerül figyelembevételre.
 
 ## 4.3. Számítás: HSZGH2% = HSZGH2 / BB55-69 * 100
 
@@ -72,19 +72,13 @@
 
 ## 4.5. Pontszám: 1 vagy 2
 
-## 5. Szérum kreatinin vizsgálatban részesült magas vérnyomásban szenvedő betegek aránya (HSZGH3%)
+## 5.[^20] eGFR (ml/perc/1,73 m2) vizsgálatban részesült magas vérnyomásban szenvedő betegek aránya (HSZGH3%)
 
 ## 5.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett magas vérnyomásban szenvedő biztosítottak
 
-## 5.2.[^14] Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett magas vérnyomásban szenvedő betegek közül azok aránya, akik a megelőző 12 hónapban legalább egyszer jártak laboratóriumban szérum kreatininszint meghatározáson. Magas vérnyomásos betegnek minősül, aki magas vérnyomás kezelésére szolgáló, a C02, C03, C07, C08, C09, C10BX ATC csoportokba tartozó gyógyszert váltott ki legalább 4 alkalommal a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
+## 5.2. Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett magas vérnyomásban szenvedő betegek közül azok aránya, akik a megelőző 12 hónapban legalább egyszer jártak laboratóriumban eGFR (ml/perc/1,73 m2) meghatározáson. Magas vérnyomásos betegnek minősül, aki magas vérnyomás kezelésére szolgáló, a C02, C03, C07, C08, C09, C10BX ATC csoportokba tartozó gyógyszert váltott ki legalább 4 alkalommal a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
 
-## 5.3. Számítás: HSZGH3% = HSZGH3 / BBhyp * 100
-
-## HSZGH3%: a praxis TAJ körében magas vérnyomásban szenvedő betegek közül a szérum kreatininszint meghatározáson részt vettek aránya
-
-## HSZGH3: a megelőző 12 hónapban legalább egyszer szérum kreatininszint meghatározáson részt vett, a háziorvosi szolgáltatóhoz bejelentkezett magas vérnyomásos betegek száma
-
-## BBhyp: a megelőző 12 hónapban legalább négyszer vérnyomáscsökkentő gyógyszert kiváltó, a háziorvosi szolgáltatóhoz bejelentkezett betegek száma
+## 5.3. Számítás: HSZGH3% = HSZGH3 / BBhyp * 100 HSZGH3%: a praxis TAJ körében magas vérnyomásban szenvedő betegek közül az eGFR (ml/perc/1,73 m2) meghatározáson részt vettek aránya HSZGH3: a megelőző 12 hónapban legalább egyszer eGFR (ml/perc/1,73 m2) meghatározáson részt vett, a háziorvosi szolgáltatóhoz bejelentkezett magas vérnyomásos betegek száma BBhyp: a megelőző 12 hónapban legalább négyszer vérnyomáscsökkentő gyógyszert kiváltó, a háziorvosi szolgáltatóhoz bejelentkezett betegek száma
 
 ## 5.4. Adatforrás: gyógyszer vényforgalmi adatok és járóbeteg-szakellátás adatok
 
@@ -148,19 +142,13 @@
 
 ## 8.5. Pontszám: 1 vagy 2
 
-## 9. Gondozásban részesült cukorbetegek aránya – mikroalbumin vizsgálat (HSZD3%)
+## 9.[^21] Gondozásban részesült cukorbetegek aránya – vizelet albumin-kreatinin arány (UACR mg/mmol) vizsgálata (HSZD3%)
 
 ## 9.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett, az A10 ATC csoportba tartozó gyógyszereket kiváltó biztosítottak
 
-## 9.2. Jelentése: A háziorvosi szolgáltatókhoz bejelentkezett és a megelőző 12 hónapban A10 ATC kódú gyógyszert kiváltók közül azok, akik mikroalbumin vizsgálaton megjelentek a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
+## 9.2. Jelentése: A háziorvosi szolgáltatókhoz bejelentkezett és a megelőző 12 hónapban A10 ATC kódú gyógyszert kiváltók közül azok, akik a vizelet albumin-kreatinin arány (UACR mg/mmol) vizsgálatán megjelentek a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
 
-## 9.3. Számítás: HSZD3% = HSZD2 / BBD * 100
-
-## HSZD3%: a praxis TAJ körében megfelelően gondozott cukorbetegek aránya
-
-## HSZD3: a BBD szerinti biztosítottak közül azok, akik a megelőző 12 hónapban mikroalbumin vizsgálaton megjelentek
-
-## BBD: a háziorvosi szolgáltatóhoz bejelentkezett, a megelőző 12 hónapban legalább négyszer A10 ATC kódú gyógyszert kiváltók száma
+## 9.3. Számítás: HSZD3% = HSZD2 / BBD * 100 HSZD3%: a praxis TAJ körében megfelelően gondozott cukorbetegek aránya HSZD3: a BBD szerinti biztosítottak közül azok, akik a megelőző 12 hónapban a vizelet albumin-kreatinin arány (UACR mg/mmol) vizsgálatán megjelentek BBD: a háziorvosi szolgáltatóhoz bejelentkezett, a megelőző 12 hónapban legalább négyszer A10 ATC kódú gyógyszert kiváltók száma
 
 ## 9.4. Adatforrás: járóbeteg-szakellátás adatok, gyógyszer vényforgalmi adatok
 
@@ -186,19 +174,19 @@
 
 ## 10.5. Pontszám: 1 vagy 2
 
-## 11. Szűrővizsgálatok 65 év felett (HSZS65+%)
+## 11.[^22] Szűrővizsgálatok 40 és 64 éves kor között (HSZS40-64%)
 
-## 11.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett 65 éves és a feletti biztosítottak
+## 11.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett 40 és 64 éves kor közötti biztosítottak
 
-## 11.2. Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett 65 éves és az a feletti biztosítottak közül azok aránya, akik kardiovaszkuláris szűrésben részesültek a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
+## 11.2. Jelentése: A háziorvosi szolgáltatóhoz bejelentkezett 40 és 64 éves kor közötti biztosítottak közül azok aránya, akik kardiovaszkuláris szűrésben részesültek a megelőző 12 hónapban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
 
-## 11.3. Számítás: HSZS65+% = HSZS65+ / BB65+ * 100
+## 11.3. Számítás: HSZS40-64% = HSZS40-64 / BB40-64 * 100
 
-## HSZS65+%: a praxis TAJ körében kardiovaszkuláris szűrésben részesültek aránya a megelőző 12 hónapban
+## HSZS40-64%: a praxis 40-64 éves TAJ körében a megelőző 12 hónapban kardiovaszkuláris szűrésben részesültek aránya
 
-## HSZS65+: a megelőző 12 hónapban kardiovaszkuláris szűrésben részesült 65 éves és az a feletti bejelentkezett biztosítottak száma
+## HSZS40-64: a megelőző 12 hónapban kardiovaszkuláris szűrésben részesült 40-64 éves bejelentkezett biztosítottak száma
 
-## BB65+: összes 65éves és az a feletti bejelentkezett biztosítottak száma a tárgyhóban
+## BB40-64: a 40-64 éves bejelentkezett biztosítottak száma a tárgyhónapban
 
 ## 11.4. Adatforrás: háziorvosi tételes betegforgalmi jelentés adatai
 
@@ -240,17 +228,27 @@
 
 ## 1.4. Adatforrás: házi gyermekorvosi tételes betegforgalmi jelentés adatai (B_300-as jelentés, B_312 OENO adatsorok) (OENO kódja: 43594)
 
-## 1.5.[^15] Pontszám: 1,5 vagy 3
+## 1.5.[^23] Pontszám: 1,2 vagy 2,4
 
-## 2.[^16] Anaemia szűrés a 10–18 éves lányok körében (HSZV10-18%) [3. § (2) bekezdés c) pontja]
+## 2.[^24] Anaemia szűrés a 10–18 éves lányok körében (HSZV10-18%) [3. § (2) bekezdés b) pontja]
 
 ## 2.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 10–18 év közötti lányok
 
-## 2.2.[^17] Jelentése: HSZV10-18: a házi gyermekorvosi szolgáltatóhoz bejelentkezett 10–18 éves lány biztosítottak közül azok száma, akik a tárgyhónapot megelőző 24 hónapban legalább egyszer anaemia szűrésen vettek részt.
+## 2.2. Jelentése: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 10–18 éves lányok közül az anaemia szűrésben részesültek aránya.
 
-## 2.3. Adatforrás: járóbeteg-szakellátás adatok
+## 2.3. Számítás:
 
-## 2.4. Pontszám: 1,2 vagy 2,4
+## HSZV10-18% = HSZV10-18 / BB10-18 * 100
+
+## HSZV10-18%: a praxis TAJ körében anaemia szűrés aránya a 10–18 éves lányok között
+
+## HSZV10-18: a házi gyermekorvosi szolgáltatóhoz bejelentkezett 10–18 éves lány biztosítottak közül azok száma, akik a tárgyhónapot megelőző 24 hónapban legalább egyszer anaemia szűrésen vettek részt
+
+## BB10-18: a házi gyermekorvosi szolgáltatóhoz bejelentkezett 10–18 éves lány biztosítottak száma
+
+## 2.4. Adatforrás: járóbeteg-szakellátás adatok
+
+## 2.5. Pontszám: 1,2 vagy 2,4
 
 ## 3. Antibiotikumos kezelés gyakorisága (HSZA0-18%)
 
@@ -270,7 +268,7 @@
 
 ## 3.4. Adatforrás: gyógyszer vényforgalmi adatok
 
-## 3.5.[^18] Pontszám: 1,5 vagy 3
+## 3.5.[^25] Pontszám: 1,2 vagy 2,4
 
 ## 4. Colecalciferol belsőleges oldatos csepp adása (HSZCI%)
 
@@ -290,7 +288,7 @@
 
 ## 4.4. Adatforrás: gyógyszer vényforgalmi adatok
 
-## 4.5.[^19] Pontszám: 1,5 vagy 3
+## 4.5.[^26] Pontszám: 1,2 vagy 2,4
 
 ## 5. Szűrővizsgálatok végzése 6 éves kor alatt (HSZSZ%)
 
@@ -310,15 +308,15 @@
 
 ## 5.4. Adatforrás: házi gyermekorvosi tételes betegforgalmi jelentés adatai (B_300-as jelentés, B_308 Szűrés adatsorok)
 
-## 5.5.[^20] Pontszám: 1,5 vagy 3
+## 5.5.[^27] Pontszám: 1,2 vagy 2,4
 
 ## 6. Kizárólag anyatejes táplálásban részesült csecsemők aránya (HSZSZCS%)
 
-## 6.1.[^21] Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 4 hónapos kor alatti gyermekek
+## 6.1.[^28] Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett 4 hónapos kor alatti gyermekek
 
-## 6.2.[^22] Jelentése: A háziorvosi szolgálathoz bejelentkezett 4 hónapos kor alatti gyermekek közül azok aránya, akiknél a megelőző 4 hónapban maximum 1 anyatej helyettesítő tápszer vény került kiváltásra.
+## 6.2.[^29] Jelentése: A háziorvosi szolgálathoz bejelentkezett 4 hónapos kor alatti gyermekek közül azok aránya, akiknél a megelőző 4 hónapban maximum 1 anyatej helyettesítő tápszer vény került kiváltásra.
 
-## 6.3.[^23] Számítás:
+## 6.3.[^30] Számítás:
 
 ## HSZSZCS% = HSZSZCS / BB * 100
 
@@ -330,7 +328,7 @@
 
 ## 6.4. Adatforrás: gyógyszer vényforgalmi adatok
 
-## 6.5.[^24] Pontszám: 1,5 vagy 3
+## 6.5.[^31] Pontszám: 1,2 vagy 2,4
 
 ## 7. Szűrővizsgálatok végzése 5 éves korban (HSZSZ5%)
 
@@ -350,19 +348,19 @@
 
 ## 7.4. Adatforrás: házi gyermekorvosi tételes betegforgalmi jelentés adatai
 
-## 7.5.[^25] Pontszám: 1,5 vagy 3
+## 7.5.[^32] Pontszám: 1,2 vagy 2,4
 
-## 8.[^26]
+## 8.[^33]
 
-## 9.[^27]
+## 9.[^34]
 
 ## 10. Meningococcus védőoltás (HSZM2%)
 
 ## 10.1. Célcsoport: A házi gyermekorvosi szolgáltatóhoz bejelentkezett 12–24 hónapos gyermekek
 
-## 10.2.[^28] Jelentése: A házi gyermekorvosi szolgálathoz bejelentkezett 12–24 hónapos gyermekek közül azok aránya, akik legalább egy meningococcus elleni védőoltást kaptak 12–24 hónapos korukban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
+## 10.2.[^35] Jelentése: A házi gyermekorvosi szolgálathoz bejelentkezett 12–24 hónapos gyermekek közül azok aránya, akik legalább egy meningococcus elleni védőoltást kaptak 12–24 hónapos korukban. Egy TAJ a megelőző 12 hónap alatt csak egyszer kerülhet figyelembevételre.
 
-## 10.3.[^29] Számítás:
+## 10.3.[^36] Számítás:
 
 ## HSZM% = HSZM / BB2 * 100
 
@@ -374,29 +372,65 @@
 
 ## 10.4. Adatforrás: házi gyermekorvosi tételes betegforgalmi jelentés adatai (B_300-as jelentés, B_312 OENO adatsorok) (OENO kódja: 43594)
 
-## 10.5.[^30] Pontszám: 1,5 vagy 3
+## 10.5.[^37] Pontszám: 1,2 vagy 2,4
 
-## III.[^31] Háziorvos saját indikátorértékének megfelelő pontozás
+## 11.[^38] Vérzsír-tükör vizsgálat (HSZVZS%)
+
+## 11.1. Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett túlsúlyos gyermekek
+
+## 11.2. Jelentése: A háziorvosi szolgálathoz bejelentkezett túlsúlyos gyermekek közül azok aránya, akiknél a vérzsír-tükör vizsgálat megtörtént a megelőző 24 hónapban.
+
+## 11.3. Számítás: HSZVZS% = HSZVZS/BBT * 100
+
+## HSZVZS%: túlsúlyos bejelentkezett biztosítottak közül azok aránya, akiknél legalább egy alkalommal vérzsír-tükör vizsgálatot végeztek az elmúlt 24 hónapban
+
+## HSZVZS: háziorvosi szolgálat azon túlsúlyos biztosítottainak száma, akiknél a megelőző 24 hónapban legalább egy alkalommal vérzsír-tükör vizsgálatot végeztek
+
+## BBT: túlsúlyos bejelentkezett biztosítottak száma
+
+## 11.4. Adatforrás: házi gyermekorvosi tételes betegforgalmi jelentés adatai és járóbeteg szakellátás adatai
+
+## 11.5. Pontszám: 1,2 vagy 2,4
+
+## 12.[^39] Túlsúlyos gyermekek gondozása (HSZTG%)
+
+## 12.1. Célcsoport: A házi gyermekorvosi szolgálathoz bejelentkezett túlsúlyos gyermekek
+
+## 12.2. Jelentése: A háziorvosi szolgálathoz bejelentkezett túlsúlyos gyermekek közül azok aránya, akik legalább 4 alkalommal megjelentek a háziorvosnál a megelőző 12 hónapban.
+
+## 12.3. Számítás: HSZTG% = HSZTG/BBT * 100
+
+## HSZTG%: túlsúlyos bejelentkezett biztosítottak közül azok aránya, akik legalább 4 alkalommal megjelentek a háziorvosnál a megelőző 12 hónapban
+
+## HSZTG: háziorvosi szolgálat azon túlsúlyos biztosítottainak száma, akik legalább 4 alkalommal megjelentek a háziorvosnál a megelőző 12 hónapban
+
+## BBT: túlsúlyos bejelentkezett biztosítottak száma
+
+## 12.4. Adatforrás: házi gyermekorvosi tételes betegforgalmi jelentés adatai
+
+## 12.5. Pontszám: 1,2 vagy 2,4
+
+## III.[^40] Háziorvos saját indikátorértékének megfelelő pontozás
 
 ## 1. Háziorvos saját indikátorértékének megfelelő pontozás [5. § (3) bekezdés]
 
 | Háziorvos saját indikátorértékének megfelelő pontozás |
 
-| Százalék saját érték | 30% | 40% | 50% | 60% | 70% | 80% | 90% |
+| Százalék saját érték | 50% | 60% | 70% | 80% | 90% |
 
-| Pont (felnőtt és vegyes praxisok) | 0,5 | 0,75 | 1 | 1,25 | 1,5 | 1,75 | 2 |
+| Pont (felnőtt és vegyes praxisok) | 1 | 1,25 | 1,5 | 1,75 | 2 |
 
-| Pont (gyermek praxisok) | 0,75 | 1,125 | 1,5 | 1,875 | 2,25 | 2,625 | 3 |
+| Pont (gyermek praxisok) | 1,2 | 1,5 | 1,8 | 2,1 | 2,4 |
 
 ## 2. Háziorvos saját indikátorértékének megfelelő pontozás [5. § (4) bekezdés]
 
 | Háziorvos saját indikátorértékének megfelelő pontozás |
 
-| Százalék saját érték | 70% | 60% | 50% | 40% | 30% | 20% | 10% |
+| Százalék saját érték | 50% | 40% | 30% | 20% | 10% |
 
-| Pont (felnőtt és vegyes praxisok) | 0,5 | 0,75 | 1 | 1,25 | 1,5 | 1,75 | 2 |
+| Pont (felnőtt és vegyes praxisok) | 1 | 1,25 | 1,5 | 1,75 | 2 |
 
-| Pont (gyermek praxisok) | 0,75 | 1,125 | 1,5 | 1,875 | 2,25 | 2,625 | 3 |
+| Pont (gyermek praxisok) | 1,2 | 1,5 | 1,8 | 2,1 | 2,4 |
 
 2. melléklet a 83/2022. (XII. 30.) BM rendelethez
 
@@ -404,13 +438,11 @@ I. Felnőtt és vegyes fogorvosi körzet indikátorai
 
 1. Tömést követő gyökérkezelés (FOGGY%)
 
-1.1.[^32] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
+1.1.[^41] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
-1.2.[^33] Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően gyökérkezelésben részesültek a megelőző 24 hónapban.
+1.2.[^42] Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően gyökérkezelésben részesültek a megelőző 24 hónapban.
 
-1.3.[^34] Számítás:
-
-FOGGY% = FOGGY / BT * 100
+1.3.[^43] Számítás: FOGGY% = FOGGY / BT * 100
 
 FOGGY%: a praxisban tömést követően gyökérkezelésben részesültek aránya a megelőző 24 hónapban
 
@@ -418,19 +450,19 @@ FOGGY: a praxisban tömést követően gyökérkezelésben részesültek száma 
 
 BT: a töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
+A trauma miatt történő gyökérkezelés (BNO: T7980 A Trauma egyéb korai szövődményei) nem kerül figyelembevételre az indikátorelszámolás során. A trauma igazolására röntgen és/vagy fotódokumentáció készítése szükséges, amelyet az ellenőrzés során be kell tudni mutatni.
+
 1.4. Adatforrás: fogorvosi jelentések
 
 1.5. Pontszám: 1 vagy 2
 
 2. Tömést követő fogeltávolítás (FOGELT%)
 
-2.1.[^35] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
+2.1.[^44] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
-2.2.[^36] Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően fogeltávolításban részesültek a megelőző 24 hónapban.
+2.2.[^45] Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően fogeltávolításban részesültek a megelőző 24 hónapban.
 
-2.3.[^37] Számítás:
-
-FOGELT% = FOGELT / BT * 100
+2.3.[^46] Számítás: FOGELT% = FOGELT / BT * 100
 
 FOGELT%: a praxisban tömést követően fogeltávolításban részesültek aránya a megelőző 24 hónapban
 
@@ -438,13 +470,15 @@ FOGELT: a praxisban tömést követően fogeltávolításban részesültek szám
 
 BT: a töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
+A trauma (BNO: T7980 A Trauma egyéb korai szövődményei), orthodonciai (fogszabályozási) célból végzett, illetve gócvizsgálat eredményét követően vagy anamnézisben szereplő alapbetegség kezelését (kemoterápia, sugárkezelés és a tartós biszfoszfonát kezelés) megelőző fogeltávolítás nem kerül figyelembevételre az indikátorelszámolás során. A trauma igazolására röntgen és/vagy fotódokumentáció készítése szükséges, amelyet az ellenőrzés során be kell tudni mutatni.
+
 2.4. Adatforrás: fogorvosi jelentések
 
 2.5. Pontszám: 1 vagy 2
 
 3. Fogkő eltávolítás (FOGKO%)
 
-3.1.[^38] Célcsoport: A fogorvosnál adott hónapban ellátott biztosítottak száma, kivéve a teljes foghiánnyal (BNO: K0000) rendelkezőket.
+3.1.[^47] Célcsoport: A fogorvosnál adott hónapban ellátott biztosítottak száma, kivéve a teljes foghiánnyal (BNO: K0000) rendelkezőket.
 
 3.2. Jelentése: A fogorvosi szolgálatnál adott hónapban megjelentek közül azok aránya, akik fogkőeltávolításban részesültek.
 
@@ -486,11 +520,11 @@ II. Gyermek fogorvosi körzet indikátorai
 
 1. Tömést követő gyökérkezelés (FOGGY%)
 
-1.1.[^39] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
+1.1.[^48] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
-1.2.[^40] Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően gyökérkezelésben részesültek a megelőző 24 hónapban.
+1.2.[^49] Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően gyökérkezelésben részesültek a megelőző 24 hónapban.
 
-1.3.[^41] Számítás:
+1.3.[^50] Számítás:
 
 FOGGY% = FOGGY / BT * 100
 
@@ -506,11 +540,11 @@ BT: a töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
 2. Tömést követő fogeltávolítás (FOGELT%)
 
-2.1.[^42] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
+2.1.[^51] Célcsoport: A fogorvosi szolgálatnál töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
-2.2[^43]. Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően fogeltávolításban részesültek a megelőző 24 hónapban.
+2.2[^52]. Jelentése: A fogorvosi szolgálatnál a megelőző 24 hónapban töméssel ellátottak közül azok aránya, akik a tömést követően fogeltávolításban részesültek a megelőző 24 hónapban.
 
-2.3.[^44] Számítás:
+2.3.[^53] Számítás:
 
 FOGELT% = FOGELT / BT * 100
 
@@ -526,77 +560,82 @@ BT: a töméssel ellátott biztosítottak száma a megelőző 24 hónapban
 
 3. Barázdazárás (FOGBA%)
 
-3.1. Célcsoport: A fogorvosnál adott hónapban ellátott 18 év alatti biztosítottak száma
+3.1.[^54] Célcsoport: A fogorvosnál adott hónapban ellátott 6 és 16 éves kor közötti biztosítottak száma
 
-3.2. Jelentése: A fogorvosi szolgálatnál adott hónapban megjelentek közül azok aránya, akiknél barázdazárás történt.
+3.2.[^55] Jelentése: A fogorvosi szolgálatnál adott hónapban megjelent 6 és 16 éves kor közöttiek közül azok aránya, akiknél barázdazárás történt.
 
-3.3.[^45] Számítás:
+3.3.[^56] Számítás:
 
 FOGBA% = FOGBA / BE * 100
 
-FOGBA%: A fogorvosi szolgálatnál adott hónapban megjelentek közül azok aránya, akik barázdazárásban részesültek
+FOGBA%: A fogorvosi szolgálatnál adott hónapban megjelent 6-16 évesek közül azok aránya, akik fogkőeltávolításban részesültek
 
-FOGBA: A fogorvosi szolgálatnál adott hónapban megjelentek közül azok száma, akik barázdazárásban részesültek
+FOGBA: A fogorvosi szolgálatnál adott hónapban megjelent 6-16 évesek közül azok száma, akik fogkőeltávolításban részesültek
 
-BE: adott hónapban ellátott biztosítottak száma
+BE: adott hónapban ellátott 6-16 éves biztosítottak száma
 
 3.4. Adatforrás: fogorvosi jelentések
 
 3.5. Pontszám: 1 vagy 2
 
-4.[^46] Szűrővizsgálatok 18 év alatt (FOGSZ%)
+4.[^57] Szűrővizsgálatok 18 év alatt (FOGSZ%)
 
-III.[^47] Fogorvos saját indikátorértékének megfelelő pontozás
+III.[^58] Fogorvos saját indikátorértékének megfelelő pontozás
 
 1. Fogorvos saját indikátorértékének megfelelő pontozás [8. § (5) bekezdés]
 
 | Fogorvos saját indikátorértékének megfelelő pontozás |
 
-| Százalék saját érték | 7% | 6% | 5% | 4% | 3% | 2% | 1% |
+| Százalék saját érték | 5% | 4% | 3% | 2% | 1% |
 
-| Pont | 0,5 | 0,75 | 1 | 1,25 | 1,5 | 1,75 | 2 |
+| Pont | 1 | 1,25 | 1,5 | 1,75 | 2 |
 
 2. Fogorvos saját indikátorértékének megfelelő pontozás [8. § (6) bekezdés]
 
 | Fogorvos saját indikátorértékének megfelelő pontozás |
 
-| Százalék saját érték | 30% | 40% | 50% | 60% | 70% | 80% | 90% |
+| Százalék saját érték | 50% | 60% | 70% | 80% | 90% |
 
-| Pont | 0,5 | 0,75 | 1 | 1,25 | 1,5 | 1,75 | 2 |
+| Pont | 1 | 1,25 | 1,5 | 1,75 | 2 |
 
-[^12]: Az 1. melléklet I. rész 3. pont 3.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^13]: Az 1. melléklet I. rész 4. pont 4.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 1. melléklet I. rész 5. pont 5.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 1. melléklet II. rész 1. pont 1.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^16]: [Nem vezethető át a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésében foglalt azon módosítás, amely szerint a 1. melléklet II. rész 2. pont 2.5. alpontjában az „1,2 vagy 2,4” szövegrész helyébe az „1,5 vagy 3” szöveg lép.]
-[^17]: Az 1. melléklet II. rész 2. pont 2.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 1. melléklet II. rész 3. pont 3.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^19]: Az 1. melléklet II. rész 4. pont 4.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^20]: Az 1. melléklet II. rész .5 pont 5.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^21]: Az 1. melléklet II. rész 6. pont 6.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 1. melléklet II. rész 6. pont 6.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^23]: Az 1. melléklet II. rész 6. pont 6.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^24]: Az 1. melléklet II. rész 6. pont 6.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^25]: Az 1. melléklet II. rész 7. pont 7.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^26]: Az 1. melléklet II. rész 8. pontját a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^27]: Az 1. melléklet II. rész 9. pontját a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^28]: Az 1. melléklet II. rész 10. pont 10.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 1. melléklet II. rész 10. pont 10.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^30]: Az 1. melléklet II. rész 10. pont 10.5. alpontja a 83/2023. (VI. 6.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^31]: Az 1. melléklet III. részét a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdése iktatta be.
-[^32]: A 2. melléklet I. rész 1. pont 1.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^33]: A 2. melléklet I. rész 1. pont 1.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^34]: A 2. melléklet I. rész 1. pont 1.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^35]: A 2. melléklet I. rész 2. pont 2.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^36]: A 2. melléklet I. rész 2. pont 2.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^37]: A 2. melléklet I. rész 2. pont 2.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^38]: A 2. melléklet I. rész 3. pont 3.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^39]: A 2. melléklet II. rész 1. pont 1.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^40]: A 2. melléklet II. rész 1. pont 1.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^41]: A 2. melléklet II. rész 1. pont 1.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^42]: A 2. melléklet II. rész 2. pont 2.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^43]: A 2. melléklet II. rész 2. pont 2.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^44]: A 2. melléklet II. rész 2. pont 2.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^45]: A 2. melléklet II. rész 3. pont 3.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^46]: A 2. melléklet II. rész 4. pontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^47]: A 2. melléklet III. részét a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdése iktatta be.
+[^18]: Az 1. melléklet I. rész 3. pont 3.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet I. rész 4. pont 4.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 1. melléklet I. rész 5. pontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^21]: Az 1. melléklet I. rész 9. pontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 1. melléklet I. rész 11. pontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet II. rész 1. pont 1.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet II. rész 2. pontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 1. melléklet II. rész 3. pont 3.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^26]: Az 1. melléklet II. rész 4. pont 4.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^27]: Az 1. melléklet II. rész 5. pont 5.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^28]: Az 1. melléklet II. rész 6. pont 6.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 1. melléklet II. rész 6. pont 6.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet II. rész 6. pont 6.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet II. rész 6. pont 6.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 1. melléklet II. rész 7. pont 7.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^33]: Az 1. melléklet II. rész 8. pontját a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^34]: Az 1. melléklet II. rész 9. pontját a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^35]: Az 1. melléklet II. rész 10. pont 10.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^36]: Az 1. melléklet II. rész 10. pont 10.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^37]: Az 1. melléklet II. rész 10. pont 10.5. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. melléklet II. rész 11. pontját az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdése iktatta be.
+[^39]: Az 1. melléklet II. rész 12. pontját az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdése iktatta be.
+[^40]: Az 1. melléklet III. részét a 26/2023. (VII. 6.) BM rendelet 5. § (1) bekezdése iktatta be, szövege az 51/2025. (XII. 22.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^41]: A 2. melléklet I. rész 1. pont 1.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^42]: A 2. melléklet I. rész 1. pont 1.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^43]: A 2. melléklet I. rész 1. pont 1.3. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^44]: A 2. melléklet I. rész 2. pont 2.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^45]: A 2. melléklet I. rész 2. pont 2.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^46]: A 2. melléklet I. rész 2. pont 2.3. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^47]: A 2. melléklet I. rész 3. pont 3.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^48]: A 2. melléklet II. rész 1. pont 1.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^49]: A 2. melléklet II. rész 1. pont 1.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^50]: A 2. melléklet II. rész 1. pont 1.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^51]: A 2. melléklet II. rész 2. pont 2.1. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^52]: A 2. melléklet II. rész 2. pont 2.2. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^53]: A 2. melléklet II. rész 2. pont 2.3. alpontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^54]: A 2. melléklet II. rész 3. pont 3.1. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^55]: A 2. melléklet II. rész 3. pont 3.2. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^56]: A 2. melléklet II. rész 3. pont 3.3. alpontja az 51/2025. (XII. 22.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^57]: A 2. melléklet II. rész 4. pontja a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^58]: A 2. melléklet III. részét a 26/2023. (VII. 6.) BM rendelet 5. § (2) bekezdése iktatta be, szövege az 51/2025. (XII. 22.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
