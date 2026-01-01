@@ -50,7 +50,7 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 1.14.6. névjegyzékből törölt,
 
-1.14.7. elhunyt;
+1.14.7. elhalálozás miatt törölt;
 
 1.15. tudományos fokozat;
 
@@ -68,7 +68,7 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 1.20.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
 
-1.21. a Dáptv. szerinti hivatalos elérhetőség;
+1.21.
 
 1.22. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
 
