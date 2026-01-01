@@ -1,10 +1,6 @@
 ## 1. egyetért azzal, hogy az állami repülések céljára szolgáló pápai repülőtér futópályájának meghosszabbításához szükséges 13. számú Környe–Pápa vasútvonal érintett szakasza elbontásra kerüljön;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében meghatározott jogkörében eljárva az 1. pontban foglaltak megvalósítása érdekében elrendeli 362 805 000 forint egyszeri jelleggel történő átcsoportosítását a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 8. Fejezeti kezelésű előirányzatok cím, 2. Ágazati célelőirányzatok alcím, 25. Hozzájárulás a NATO Biztonsági Beruházási Programjához jogcímcsoport terhére, a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 2. Vasúti fejlesztések jogcím javára, az 1. melléklet szerint;
-
-| Felelős: | pénzügyminiszter honvédelmi miniszter technológiai és ipari miniszter |
-
-| Határidő: | azonnal |
+## 2. [^1]
 
 ## 3. felhívja a technológiai és ipari minisztert, hogy adjon ki támogatói okiratot a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV Zrt.) részére a 2. pont szerint biztosított forrás terhére, az 1. pontban foglaltak megvalósítása érdekében;
 
@@ -20,4 +16,7 @@
 
 ## 5. a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (3) bekezdésében foglalt jogkörében eljárva egyetért azzal, hogy a Pápa külterület 0541/35 helyrajzi számú, „rét” megnevezésű és a Nagygyimót külterület 096/1 helyrajzi számú, „szántó” megnevezésű ingatlanok honvédelmi feladatok ellátása céljából a Honvédelmi Minisztérium vagyonkezelésébe kerüljenek.
 
-1. melléklet az 1436/2022. (IX. 7.) Korm. határozathoz
+1. melléklet az 1436/2022. (IX. 7.) Korm. határozathoz[^2]
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került 2026. január 1. napjával.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került 2026. január 1. napjával.
