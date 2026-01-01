@@ -1,0 +1,3 @@
+2. § Az R. a következő 80. §-sal egészül ki:
+
+„80. § E rendeletnek az egyes sportlétesítmények felújításával összefüggésben az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 477/2025. (XII. 31.) Korm. rendelettel (a továbbiakban: Módr72.) megállapított 1. § (4) és (7) bekezdését, 5/F. §-át, 7/F. §-át, 2. mellékletében foglalt táblázat 108. sorát, 3. mellékletében foglalt táblázat 18. sorát a Módr72. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
