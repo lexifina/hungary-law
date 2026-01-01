@@ -1,4 +1,4 @@
-253/E. § (1) A Kar hivatali szerve – a végrehajtók feletti szakmai felügyelet gyakorlásának elősegítése, a végrehajtási eljárás folyamatban létének és az abban érvényesített igénynek az igazolása, az adattal érintett jogalany joggyakorlásának elősegítése, valamint mások jogainak védelme céljából – az önálló bírósági végrehajtók adatszolgáltatása és a Kar hivatali szervének megküldött végrehajtható okiratok adatai alapján elektronikus közhiteles nyilvántartást vezet az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről a következő tartalommal:
+253/E. § (1) A Kar hivatali szerve – a végrehajtók feletti szakmai felügyelet gyakorlásának elősegítése, a végrehajtási eljárás folyamatban létének és az abban érvényesített igénynek az igazolása, az adattal érintett jogalany joggyakorlásának elősegítése, valamint mások jogainak védelme céljából – az önálló bírósági végrehajtók adatszolgáltatása és a Kar hivatali szervének megküldött végrehajtható okiratok adatai alapján elektronikus nyilvántartást vezet az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről a következő tartalommal:
 
 a) az eljáró végrehajtó neve, székhelye,
 
@@ -38,7 +38,7 @@ c) a célját és az adatkéréshez fűződő jogi érdekét megjelölő kérelm
 
 (8) A Kar hivatali szerve a tanúsítványt költségtérítés fejében, a kérelem szerint papíralapú vagy elektronikus közokiratként, a kérelem beérkezésétől számított 15 napon belül állítja ki; a tanúsítvány tartalmazza a végrehajtási ügy (1) bekezdésben meghatározott adatait, a tanúsítvány kiállításának helyét és időpontját, a kiállító megnevezését, bélyegzőlenyomatát, valamint a kiadmányozásra jogosult aláírását.
 
-(9) A végrehajtási ügyek nyilvántartása a nyilvántartott tényadatok fennállását hitelesen tanúsítja (közhitelesség), az ellenkező bizonyításáig a végrehajtási ügyek nyilvántartásába feljegyzett tényadatról vélelmezni kell, hogy az fennáll, az adat törlése esetén – az ellenkező bizonyításáig – azt kell vélelmezni, hogy az nem áll fenn. A végrehajtási ügyek nyilvántartásában feltüntetett tényadatokkal szemben a bizonyítás azt terheli, aki a tényadatok helyességét, valósággal egyezőségét vitatja.
+(9)
 
 (10) A végrehajtási ügyek nyilvántartásában szereplő adatok kezelésére szolgáló informatikai alkalmazás működtetője naplót készít
 
