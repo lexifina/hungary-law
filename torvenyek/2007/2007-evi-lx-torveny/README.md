@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-60-00-00
 | 2022-12-01 | 2022. évi XLIII. törvény | 2007-60-00-00.31 |
 | 2025-01-01 | 2024. évi LXXXVII. törvény | 2007-60-00-00.32 |
 | 2025-03-01 | 2024. évi LXXXVII. törvény | 2007-60-00-00.33 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2007-60-00-00.34 |
