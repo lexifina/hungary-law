@@ -1,4 +1,4 @@
-69/B. § (1) A személyazonosító adatok nyilvántartása tartalmazza
+69/B. § (1) Az elektronikus anyakönyv személyi alapnyilvántartásként tartalmazza
 
 a) az egyedi elektronikus anyakönyvi azonosítót,
 
@@ -26,11 +26,11 @@ bj) családi állapotát,
 
 c) annak a házassági névviselési formának a megjelölését, amelynek viselésére az érintett törvény vagy bírósági határozat alapján nem jogosult,
 
-d) a b) pont ba), bd), bf), bg), bh), bi) és bj) alpontjában foglalt adatok változását,
+d) a b) pont ba), bd), bf), bg), bh), bi) és bj) alpontjában foglalt adatok változását és annak időpontját,
 
-e) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+e)
 
-f) a bejegyzés idejét,
+f)
 
 g) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén – ha azok a magyar ábécében nem szereplő betűt tartalmaznak – azoknak a magyar ábécé betűivel való átírását és
 
@@ -45,3 +45,11 @@ h) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén a család
 (4) Az anyakönyvbe korábban bejegyzett, a szülő nemének és ahhoz kapcsolódóan az utónevének a megváltozása a gyermek személyazonosító adatainál nem vezethető át adatváltozásként.
 
 (5) Amennyiben az érintett születési anyakönyvi bejegyzése vagy a személyiadat- és lakcímnyilvántartás az érintett anyjának születési családi és utónevét az elhalt anyja születési anyakönyvi bejegyzésétől eltérő adatokkal tartalmazza, az érintett kérelmezheti, hogy az anyja nevét a személyiadat- és lakcímnyilvántartás vagy a személyazonosító igazolványa által igazolt adattal jegyezzék be.
+
+(6) Az (1) bekezdés b) pont bd) és bh) alpontja szerinti adat nem minősül közhitelesnek.
+
+(7) Az elektronikus anyakönyvet – a nyilvántartott adatok közhitelességének biztosítása érdekében – a következő alapelvek figyelembevételével kell vezetni:
+
+a) az adat hitelessége abban az anyakönyvi bejegyzésben a legerősebb, amelyben keletkezett vagy amelyben az adat közvetlenül módosítható, valamint
+
+b) az anyakönyvi bejegyzésben az adatok hitelessége az esemény alanya vonatkozásában a legerősebb.

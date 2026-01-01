@@ -26,4 +26,4 @@ c) a külföldi okirat az anyakönyvbe bejegyzendő adatot nem az elektronikus a
 
 (3e) Az anyakönyvi eljárásban a hivatásos konzuli tisztviselő előtt benyújtott okirat hiteles magyar fordítása helyett a külföldi okirat anyakönyvezés szempontjából lényeges tartalmáról készített hivatalos, kivonatolt fordítás is elfogadható.
 
-(4) Ha a bemutatott okirat adatainak helyessége iránt alapos kétség merül fel, az ügyfél adatait az anyakönyvben ellenőrizni kell. Ha a bemutatott okiratokban valamely adat eltér, az anyakönyvi bejegyzés kijavításáig az anyakönyvi eljárásban az anyakönyvben szereplő adat az irányadó.
+(4) Ha a bemutatott okirat adatainak helyessége iránt alapos kétség merül fel, az ügyfél adatait az anyakönyvben ellenőrizni kell. Ha a bemutatott okiratokban valamely adat eltér, az anyakönyvi bejegyzés helyesbítéséig az anyakönyvi eljárásban az anyakönyvben szereplő adat az irányadó.

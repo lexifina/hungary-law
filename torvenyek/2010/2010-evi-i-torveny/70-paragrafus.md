@@ -40,7 +40,7 @@ be) személyi azonosítóját,
 
 bf) lakcímét,
 
-bg) családi állapotát,
+bg) nyilatkozattétel vagy – ha a gyermek már megszületett – a gyermek születése időpontjában fennálló családi állapotát,
 
 bh) elvált családi állapota esetén a házasságot felbontó határozatot meghozó bíróság vagy más hatóság megnevezését, a határozat jogerőre emelkedésének időpontját és a határozat számát,
 
@@ -70,7 +70,7 @@ ce) a terhességet igazoló igazolás kiállításának időpontját,
 
 d) – ha a gyermek már megszületett – a gyermek
 
-da) utónevét,
+da) születési családi és utónevét,
 
 db) születési idejét,
 
@@ -157,3 +157,5 @@ o) az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot rögzít�
 (8) Ha a megszületett gyermekre tett apai elismerő nyilatkozat teljes hatálya megállapítható, a rögzítő anyakönyvvezető, az adatok apai elismerő nyilatkozatok nyilvántartásában történő rögzítésével egyidejűleg a nyilatkozó férfi adatait az elektronikus anyakönyvbe apaként bejegyzi.
 
 (9) Ha az anyakönyv és az apai elismerő nyilatkozatok nyilvántartásának adattartalma eltér, az ellenkező bizonyításáig az anyakönyvet kell hitelesnek tekinteni.
+
+(10) Az apai elismerő nyilatkozatok nyilvántartásában nyilvántartott, a (2) bekezdés a) pont ae)–ai) alpontja, a (2) bekezdés b) pont be), bf), bk)–bm) alpontja, a (2) bekezdés d) pont dd) alpontja, a (2) bekezdés h) pontja, valamint a (2) bekezdés k) pont kc) és kd) alpontja szerinti adat nem minősül közhitelesnek.

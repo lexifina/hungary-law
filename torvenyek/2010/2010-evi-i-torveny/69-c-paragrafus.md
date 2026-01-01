@@ -1,6 +1,6 @@
 69/C. § (1) Az elektronikus anyakönyv a születéssel kapcsolatban nyilvántartja
 
-a) a szülők 69/B. § (1) bekezdés b) pont bb) és bd), annak hiányában bc), valamint bh) alpontjában foglalt adatait és az anyának a 69/B. § (1) bekezdés b) pont bi) alpontjában foglalt adatát, ha a gyermek születését az apa adatai nélkül anyakönyvezik és az anya házassági nevét a Ptk. 4:27. § (1) bekezdés d) pontja vagy (3) bekezdése szerinti formában viseli,
+a) a szülők 69/B. § (1) bekezdés a) pontja, 69/B. § (1) bekezdés b) pont bb)–bd), bh) és bi) alpontja és az anyának a 69/B. § (1) bekezdés b) pont bj) alpontja szerinti adatait,
 
 b) a származási helyet,
 
@@ -10,11 +10,11 @@ d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 e) ha valamelyik vagy mindkét szülő képzelt, ennek tényét,
 
-f) az a), d) és e) pontban foglalt adatok változását a szülők házassági neve változásának kivételével,
+f) az a), d) és e) pontban foglalt adatok változását és annak időpontját a szülők házassági neve változásának kivételével,
 
-g) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+g)
 
-h) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát, továbbá
+h)
 
 i) a keletkezett anyakönyvi alapiratok típusát és azonosítószámát.
 

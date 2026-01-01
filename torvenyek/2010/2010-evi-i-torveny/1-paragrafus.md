@@ -30,7 +30,7 @@ k) az anyakönyvi nyilvántartások rendszerének vezetése.
 
 l) az utónév módosítására irányuló eljárás.
 
-(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve az anyakönyvbe bejegyzett adatok változását.
+(2) Az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása – az e törvényben meghatározott adatok kivételével – az ellenkező bizonyításáig közhitelesen tanúsítja a bejegyzett adatokat, illetve az anyakönyvbe bejegyzett adatok változását.
 
 (3) Az anyakönyv
 

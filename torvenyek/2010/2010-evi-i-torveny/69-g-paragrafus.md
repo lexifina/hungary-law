@@ -8,11 +8,11 @@ c) az értesítést küldő rendőri szerv megnevezését,
 
 d) az ügyirat számát,
 
-e) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+e)
 
-f) a bejegyzés idejét,
+f)
 
-g) a keletkezett anyakönyvi alapiratok típusát és azonosító számát és
+g)
 
 h) ismertté válás esetén annak tényét és időpontját.
 

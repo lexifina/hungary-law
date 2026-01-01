@@ -36,7 +36,7 @@ p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a köt
 
 q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
 
-r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
+r) adatmódosítás: adatváltozás bejegyzése vagy az adat helyesbítésének elvégzése,
 
 s) adattörlés: az anyakönyvben és apai elismerő nyilatkozatok nyilvántartásában szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
 

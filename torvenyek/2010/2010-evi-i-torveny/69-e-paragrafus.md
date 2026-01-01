@@ -12,14 +12,14 @@ e) az érvényes bejegyzett élettársi kapcsolatnak a magyar jog szerinti kezd�
 
 f) a bejegyzett élettársi kapcsolat megszűnésének, megszüntetésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
 
-g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását,
+g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását és annak időpontját,
 
 h) az e) és f) pontban szereplő adatok változását,
 
-i) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+i)
 
-j) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
+j)
 
-k) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+k)
 
 (2) Ha a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető vagy a bíróság a bejegyzett élettársi kapcsolat nem létezését állapítja meg, a bejegyzett élettársi kapcsolatot nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a bejegyzett élettársi kapcsolatról kiállított kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.

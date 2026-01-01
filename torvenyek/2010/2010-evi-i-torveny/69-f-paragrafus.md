@@ -6,10 +6,10 @@ b) a holtnak nyilvánítás tényét vagy a halál tényének bírósági megál
 
 c) az a) és b) pontban foglalt adatok megváltozását,
 
-d) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+d) a túlélő házastárs vagy bejegyzett élettárs 69/B. § (1) bekezdés a) pontjában és b) pont ba)–bd), bi) és bh) alpontjában foglalt adatait,
 
-e) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát, a papír alapú anyakönyv azonosítóját és
+e) a házasságkötés helyét, idejét, vagy a bejegyzett élettársi kapcsolat létesítésének helyét, idejét.
 
-f) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+f)
 
 (2) Ha a házasság vagy a bejegyzett élettársi kapcsolat az egyik házastárs vagy bejegyzett élettárs halála miatt szűnt meg, a halálesetet az anyakönyvbe bejegyző személy gondoskodik a túlélő házastárs vagy bejegyzett élettárs 69/B. § (1) bekezdés b) pont bj) alpontjában foglalt adata megváltozásának bejegyzéséről.
