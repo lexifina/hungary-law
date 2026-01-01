@@ -24,4 +24,6 @@ h) egyéb bevételek, ideértve a kezelő szerv által beszedett nevezési díj 
 
 (5) Az Alap bevétele és év végi maradványa, valamint kezelő szervének az Alap kezelésével összefüggő bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával.
 
+(5a) A kincstár az államháztartásért felelős miniszter engedélyével a kincstári egységes számla terhére díj és kamat felszámítása nélkül megelőlegezi az Alap a bevételek és kiadások pénzügyi teljesítése időbeni ütemének eltérése miatt felmerülő finanszírozási igény fedezetét.
+
 (6) Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a tárgyévet megelőző évben az Alap pályázati felhívással vagy támogatói okirattal, támogatási szerződéssel lekötött forrása tárgyévi felhasználásának engedélyezésére – az Áht. 86. § (4) bekezdésétől eltérően – a Bizottság javaslatára a fejezetet irányító szerv az államháztartásért felelős miniszter jóváhagyása nélkül is jogosult.
