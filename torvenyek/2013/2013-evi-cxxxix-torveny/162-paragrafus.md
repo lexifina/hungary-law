@@ -1,6 +1,6 @@
 162. § (1) Az MNB könyveinek és e könyvekből vett cégszerűen aláírt kivonatoknak közokirati bizonyító erejük van.
 
-(2) Az MNB feladataival és elsődleges céljával összhangban, a többségi tulajdonában álló gazdasági társaságot alapíthat vagy alapítványt hozhat létre.
+(2) Az MNB feladataival és elsődleges céljával összhangban többségi tulajdonában álló gazdasági társaságot alapíthat vagy alapítványt hozhat létre azzal, hogy az MNB vagyonkezelő alapítványt nem alapíthat, valamint MNB által alapított alapítvány gazdasági tevékenységként nem végezhet befektetési, vagyonkezelési tevékenységet és nem bonyolíthat egyéb pénzforgalmi ügyleteket.
 
 (3) Az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság által az MNB bármely feladatának ellátásával kapcsolatban kezelt azon adat, amelynek megismerése az Infotv. 27. § (2) bekezdés e) pontja szerinti központi pénzügyi vagy devizapolitikai érdeket sértene, az MNB vagy az MNB többségi vagy kizárólagos tulajdonában álló gazdasági társaság általi nyilvánosságra hozataláig, de legfeljebb az adat keletkezésétől számított tíz évig nem nyilvános.
 

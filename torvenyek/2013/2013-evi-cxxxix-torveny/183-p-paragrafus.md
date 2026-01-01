@@ -1,0 +1,1 @@
+183/P. § Az államháztartásról szóló 2011. évi CXCV. törvény, valamint a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosításáról szóló 2025. évi XLVII. törvénnyel módosított 162. § (2) bekezdését a hatálybalépését megelőzően alapított alapítványra nem kell alkalmazni.
