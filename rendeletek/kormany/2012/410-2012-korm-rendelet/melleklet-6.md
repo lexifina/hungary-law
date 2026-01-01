@@ -1,4 +1,4 @@
-6. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^302]
+6. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^303]
 
 Üvegházhatású gázkibocsátással járó bejelentés-köteles tevékenység
 
@@ -10,4 +10,4 @@
 
 | 3. |  | Települési hulladék tüzelőanyag égetése a 20 MWth-ot meghaladó teljes névleges bemenő hőteljesítményű létesítményekben. | Szén-dioxid | 1.A.1.a | Közcélú villamos energia- és hőtermelés | 1.1 | Tüzelő- berendezések |
 
-[^302]: A 6. mellékletet a 127/2025. (VI. 5.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^303]: A 6. mellékletet a 127/2025. (VI. 5.) Korm. rendelet 31. § (2) bekezdése iktatta be.

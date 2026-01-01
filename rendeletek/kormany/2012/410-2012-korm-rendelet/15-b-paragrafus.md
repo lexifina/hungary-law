@@ -1,7 +1,7 @@
-15/B. §[^185] (1) A 2026. december 31-ig keletkező, a 2003/87/EK európai parlamenti és tanácsi irányelv 25a. cikk (3) bekezdése szerint elfogadott bizottsági végrehajtási jogi aktusban felsorolt államokból kiinduló vagy oda érkező légi járatokból származó kibocsátások tekintetében a légijármű-üzembentartó nem kötelesek a 15/A. § (2) bekezdésével összhangban kibocsátási egységeket visszaadni.
+15/B. §[^186] (1) A 2026. december 31-ig keletkező, a 2003/87/EK európai parlamenti és tanácsi irányelv 25a. cikk (3) bekezdése szerint elfogadott bizottsági végrehajtási jogi aktusban felsorolt államokból kiinduló vagy oda érkező légi járatokból származó kibocsátások tekintetében a légijármű-üzembentartó nem kötelesek a 15/A. § (2) bekezdésével összhangban kibocsátási egységeket visszaadni.
 
 (2) A 2026. december 31-ig keletkező, az EGT és a 2003/87/EK európai parlamenti és tanácsi irányelv 25a. cikk (3) bekezdése szerint elfogadott bizottsági végrehajtási jogi aktusban fel nem sorolt államok közötti légi járatokból – a Svájcba és az Egyesült Királyságba irányuló légi járatokat kivéve – származó kibocsátások tekintetében a légijármű-üzembentartók nem kötelesek a 15/A. § (2) bekezdésével összhangban kibocsátási egységeket visszaadni.
 
 (3) A 2003/87/EK európai parlamenti és tanácsi irányelv 25a. cikk (3) bekezdése szerint elfogadott bizottsági végrehajtási jogi aktusban felsoroltaktól és az uniós átlagot elérő vagy meghaladó egy főre jutó GDP-vel rendelkezőktől eltérő, az Egyesült Nemzetek Szervezete által meghatározott legkevésbé fejlett országokba és fejlődő kis szigetállamokba irányuló vagy onnan kiinduló légi járatokból származó kibocsátások tekintetében a légijármű-üzembentartók nem kötelesek a 15/A. § (2) bekezdésével összhangban kibocsátási egységeket visszaadni.
 
-[^185]: A 15/B. §-t a 127/2025. (VI. 5.) Korm. rendelet 21. §-a iktatta be.
+[^186]: A 15/B. §-t a 127/2025. (VI. 5.) Korm. rendelet 21. §-a iktatta be.

@@ -1,4 +1,4 @@
-21. §[^222] (1) A hatóság a (2), (3) és (5) bekezdésben meghatározottak szerint jár el a
+21. §[^223] (1) A hatóság a (2), (3) és (5) bekezdésben meghatározottak szerint jár el a
 
 a) 12. § (8) bekezdése szerinti jelentés,
 
@@ -22,4 +22,4 @@ bejelentésének vagy benyújtásának elmulasztása vagy téves adatszolgáltat
 
 (5) Amennyiben az üzemeltető nem utalja vissza a jogosulatlanul jóváírt többlet térítésmentes kibocsátási egységeket, akkor az (1) bekezdés a) pontja kivételével a hatóság az érintett üzemeltető forgalmi jegyzékben vezetett számláján rendelkezésre álló kvótamennyiség erejéig a jegyzékkezelő útján gondoskodik arról, hogy a jogosulatlanul jóváírt többlet térítésmentes kibocsátási egységek mennyisége levonásra kerüljön az üzemeltetőnek kiosztandó kibocsátási egységek mennyiségéből, és erről a hatóság tájékoztatja az Európai Bizottságot.
 
-[^222]: A 21. § a 127/2025. (VI. 5.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^223]: A 21. § a 127/2025. (VI. 5.) Korm. rendelet 26. §-ával megállapított szöveg.
