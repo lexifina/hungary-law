@@ -1,0 +1,1 @@
+37/A. § A Magyarország versenyképességének javítása érdekében egyes törvények módosításáról szóló 2025. évi LXVII. törvénnyel megállapított 20. § (7)–(10) bekezdésében és III/D. Fejezetében foglaltakat a Kormány rendeletében meghatározott időponttól kell alkalmazni.

@@ -19,3 +19,11 @@
 (5a) Az egészségbiztosítási szerv által finanszírozási célból gyűjtött adatokat egyedi azonosításra alkalmas módon a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (6) Az egészségügyi ellátóhálózat a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából kezeli a népmozgalmi adatszolgáltatás körébe tartozó adatokat.
+
+(7) Az egészségügyi ellátóhálózat szereplője, az EESZT működtetője a Központi Statisztikai Hivatal részére hivatalos statisztikai tevékenysége ellátásához, az ahhoz szükséges mértékben a Központi Statisztikai Hivatal által meghatározott, az ellátóhálózat, az EESZT működtetője által kezelt egészségügyi adatokat a Központi Statisztikai Hivatal által meghatározott paraméterek szerint álnevesíti és átadja.
+
+(8) Ha a (7) bekezdésben meghatározott paraméterek okán vagy más okból az adatok egyéb adatkezelő, vagy a Központi Statisztikai Hivatal saját kezelésében lévő adatbázisokkal való összekapcsolása indokolt, az adatátadást a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény (a továbbiakban: Nahtv.) szerinti adat-összekapcsolási szolgáltatás szabályai szerint kell végrehajtani.
+
+(9) A (7) és (8) bekezdés szerinti adatátadás, adatok álnevesítése, adat-összekapcsolás – ideértve a kulcsszolgáltató tevékenységét – térítésmentes.
+
+(10) A (7) és (8) bekezdés szerinti adatátadás feltételeiről a Központi Statisztikai Hivatal és az egészségügyi ellátóhálózat szereplője, illetve az EESZT működtetője a hivatalos statisztikáról szóló 2016. évi CLV. törvény szerint megállapodást köt.
