@@ -25,3 +25,17 @@ k) a harmadik országbeli állampolgár által meghatalmazott képviselő neve �
 (2) Az (1) bekezdés szerinti adatokat – a (3) bekezdés szerinti kivétellel – az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított tíz évig kezeli.
 
 (3) Az (1) bekezdés i) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
+
+(4) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+a) családi és utóneve (nevei),
+
+b) születési ideje,
+
+c) anyja születési családi és utóneve (utónevei),
+
+d) állampolgársága,
+
+e) részére kiadott (meghosszabbított) engedély száma és érvényességi ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.

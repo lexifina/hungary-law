@@ -54,4 +54,20 @@ d) az oktatási intézmény vagy a fogadó szervezet adatai.
 
 (4) Az (1) bekezdés n) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig, illetve a 70. § (1) bekezdés a) és b) pontjában, valamint d)–f) pontjában meghatározott humanitárius tartózkodási engedély kiadásáig kezeli, azt követően haladéktalanul törli.
 
-(5) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–j) pontja és a (2) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(5) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+a) családi és utóneve (nevei),
+
+b) születési ideje,
+
+c) anyja születési családi és utóneve (utónevei),
+
+d) állampolgársága,
+
+e) tartózkodásának célja,
+
+f) részére kiadott (meghosszabbított) tartózkodási engedély, valamint mobilitási engedély száma és érvényességi ideje,
+
+g) szálláshelyének címe
+
+vonatkozásában közhiteles nyilvántartásnak minősül.

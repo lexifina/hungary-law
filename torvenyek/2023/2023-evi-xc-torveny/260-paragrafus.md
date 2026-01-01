@@ -26,4 +26,4 @@ l) az úti okmány iránti kérelem elutasításának indokát.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az úti okmány iránti kérelem elutasítása esetén annak időpontjától, a kiadott úti okmány esetén annak érvényességi ideje lejártát, illetve visszavonását követő 10 évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–f) pontja szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3)

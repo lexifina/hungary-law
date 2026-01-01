@@ -54,4 +54,20 @@ f) a korábbi sikertelen kiutasítási kísérletekre vonatkozó adatok.
 
 (4) A (2) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az átszállítás kezdeményezését követő öt évig kezeli.
 
-(5) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(5) Az idegenrendészeti nyilvántartás a harmadik országbeli állampolgár (1) bekezdésben meghatározott adatok közül
+
+a) a családi és utóneve (nevei),
+
+b) a születési ideje,
+
+c) az anyja születési családi és utóneve (utónevei),
+
+d) az állampolgársága,
+
+e) az intézkedés, kötelezés elrendelő határozat szerinti jogalapja, határideje vagy időtartama,
+
+f) a kiutasítás célországa,
+
+g) a kiutasításhoz kapcsolódóan a kilépés ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.

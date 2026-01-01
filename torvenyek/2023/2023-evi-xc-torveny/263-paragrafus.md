@@ -8,4 +8,18 @@ c) a harmadik országbeli állampolgár úti okmányának típusa, száma, érv�
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a korlátozás megszűnését követő három évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3) Az idegenrendészeti nyilvántartás a harmadik országbeli állampolgár (1) bekezdésben meghatározott adatai közül
+
+a) a családi és utóneve (nevei),
+
+b) a születési ideje,
+
+c) az anyja születési családi és utóneve (utónevei),
+
+d) az állampolgársága,
+
+e) a külföldre utazási korlátozást kezdeményező szerv megnevezése,
+
+f) úti okmányának típusa, száma és érvényességi ideje
+
+vonatkozásában közhiteles nyilvántartásnak minősül.

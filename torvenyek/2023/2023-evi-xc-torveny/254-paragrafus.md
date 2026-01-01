@@ -32,4 +32,18 @@ k) a harmadik országbeli állampolgár által meghatalmazott képviselő neve �
 
 (5) Az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a Vízuminformációs Rendszerbe történő beviteléig kezeli. Az ujjnyomat-adatot ezt követően haladéktalanul törli.
 
-(6) Az idegenrendészeti nyilvántartás az (1) bekezdés szerinti adatok vonatkozásában közhiteles nyilvántartásnak minősül.
+(6) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+a) családi és utóneve (nevei),
+
+b) születési ideje,
+
+c) anyja születési családi és utóneve (utónevei),
+
+d) állampolgársága,
+
+e) beutazásának célja,
+
+f) részére kiadott (meghosszabbított) vízum érvényességi ideje és területi érvényessége
+
+vonatkozásában közhiteles nyilvántartásnak minősül.

@@ -18,4 +18,18 @@ h) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arc
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás érvényességi idejének lejártát, illetve visszavonását követő ötödik naptári év évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–d) pontja szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3) Az idegenrendészeti nyilvántartás az (1) bekezdésben meghatározott adatok közül a harmadik országbeli állampolgár
+
+a) családi és utóneve (nevei),
+
+b) születési ideje,
+
+c) anyja születési családi és utóneve (utónevei),
+
+d) állampolgársága,
+
+e) részére kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás száma és érvényességi ideje,
+
+f) részére kiállított ideiglenes tartózkodásra jogosító igazolás kiállításának indoka
+
+vonatkozásában közhiteles nyilvántartásnak minősül.

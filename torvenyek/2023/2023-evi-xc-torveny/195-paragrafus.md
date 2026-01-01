@@ -4,4 +4,4 @@
 
 (2) Az idegenrendészeti hatóság törvény szerint vezetett nyilvántartásaiba történt bejegyzés határozat.
 
-(3) Az ellenkező bizonyításáig az idegenrendészeti hatóság törvény szerint vezetett nyilvántartásába bejegyzett adatról vélelmezni kell, hogy fennáll, és az idegenrendészeti hatóság törvény szerint vezetett nyilvántartásából törölt adatról vélelmezni kell, hogy nem áll fenn.
+(3)

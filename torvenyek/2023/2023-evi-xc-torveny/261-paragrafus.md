@@ -14,4 +14,4 @@ f) a bejelentést felvevő szerv megnevezése.
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatbeviteltől számított legfeljebb 10 évig kezeli.
 
-(3) Az idegenrendészeti nyilvántartás az (1) bekezdés a)–e) pontja szerinti adatok vonatkozásában közhiteles nyilvántartás.
+(3)
