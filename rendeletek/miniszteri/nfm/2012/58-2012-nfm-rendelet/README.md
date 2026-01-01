@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-58-20-2
 | 2020-01-01 | 2012-58-20-2W.3 | 45/2019. (XI. 20.) ITM rendelet |
 | 2021-10-09 | 2012-58-20-2W.4 | 43/2021. (IX. 8.) ITM rendelet |
 | 2025-07-01 | 2012-58-20-2W.5 | 19/2025. (VI. 27.) ÉKM rendelet |
+| 2026-01-01 | 2012-58-20-2W.6 | 19/2025. (VI. 27.) ÉKM rendelet |

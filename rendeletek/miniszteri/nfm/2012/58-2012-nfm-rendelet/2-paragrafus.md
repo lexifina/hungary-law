@@ -30,7 +30,7 @@ n) a közlekedésre neveléstől a járművezető képzésig átfogó program ke
 
 o)[^5] a veszélyes áruk közúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése,
 
-p)[^6] közreműködik a Közlekedési Szakértői Testület működtetésében, az ahhoz szükséges feltételek biztosításával, támogatást nyújtva a működtetéshez kapcsolódó adminisztratív teendők ellátásához,
+p)[^6]
 
 q)[^7] a közúti közlekedésbiztonság javításával összefüggésben, a közúti ellenőrzésekhez kapcsolódó ügyeleti, információs, tájékoztatási és koordinációs feladatok, valamint a közlekedési hatósági rendszerekhez kapcsolódó adatintegritási és megfelelőségi vizsgálatok ellátása,
 
@@ -42,7 +42,7 @@ s)[^9] közreműködik a NATO Polgári Veszélyhelyzeti Tervezési Bizottság Sz
 [^3]: A 2. § a) pontja a 19/2025. (VI. 27.) ÉKM rendelet 5. § c) pontja szerint módosított szöveg.
 [^4]: A 2. § b) pontja a 43/2021. (IX. 8.) ITM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § o) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
-[^6]: A 2. § p) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^6]: A 2. § p) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be, a 49/2025. (XII. 30.) ÉKM rendelet 5. §-a hatályon kívül helyezte.
 [^7]: A 2. § q) pontját a 45/2019. (XI. 20.) ITM rendelet 50. §-a iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § r) pontját a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdése iktatta be.
 [^9]: A 2. § s) pontját a 43/2021. (IX. 8.) ITM rendelet 27. § (2) bekezdése iktatta be.
