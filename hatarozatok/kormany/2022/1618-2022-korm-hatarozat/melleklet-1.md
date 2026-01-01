@@ -1,24 +1,12 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében, valamint a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 18. § (3) bekezdésében biztosított jogkörében eljárva 8 446 380 584 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+## a)[^1]
 
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
-
-## b) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 39 835 133 989 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaság-újraindítási programok jogcímcsoport (a továbbiakban: GÚP előirányzat) terhére, a 2. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+## b)[^2]
 
 ## c) a Magyarország 2022. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 814/2021. (XII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) 8. § (3) bekezdése alapján jóváhagyja a GÚP előirányzatnak a b) alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 39 835 133 989 forinttal történő túlteljesülését;
 
-## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 204 805 641 945 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadása cím terhére, a 3. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+## d)[^3]
 
 ## e) a Korm. rendelet 8/A. § (7) bekezdése alapján jóváhagyja a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Rezsivédelmi Alap központi kiadása címnek a d) alpontja szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 204 805 641 945 forinttal történő túlteljesülését;
 
@@ -40,11 +28,7 @@
 
 | Határidő: | 2022. december 15. |
 
-## i) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 2 218 817 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | 2023. január 31. |
+## i) [^4]
 
 ## j) az Áht. 36. § (4b) és (4c) bekezdésében biztosított jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy a külképviseleti hálózati szolgáltatások tartós és biztonságos üzemeltetése érdekében szolgáltatási szerződést kössön a 2023–2027. évekre vonatkozóan összesen maximum 10 955 000 000 forint összegben a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím terhére;
 
@@ -52,14 +36,19 @@
 
 ## l) egyetért azzal, hogy a címrendi módosításról és kiegészítésről, a Központi Maradványelszámolási Alap előirányzatból, a Rezsivédelmi Alap központi kiadása előirányzatból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat módosításáról és kötelezettségvállalás engedélyezéséről szóló 1515/2022. (X. 26.) Korm. határozattal a Magyar Műszaki és Közlekedési Múzeum új központi kiállítóhelye előkészítésének további támogatásáról, valamint az átmeneti működéséhez szükséges többletforrás biztosításáról szóló 1198/2020. (V. 6.) Korm. határozat végrehajtása érdekében biztosított 893 000 000 forintból 136 000 000 forint a Magyar Műszaki és Közlekedési Múzeum új központi kiállítóhelye előkészítéséhez és a megvalósításához szükséges kormányzati intézkedésekről szóló 1657/2021. (IX. 24.) Korm. határozat szerinti feladatokra kerüljön felhasználásra.
 
-## 2.[^1]
+## 2.[^5]
 
-## 3.[^2]
+## 3.[^6]
 
-## 4.[^3]
+## 4.[^7]
 
-1. melléklet az 1618/2022. (XII. 13.) Korm. határozathoz
+1. melléklet az 1618/2022. (XII. 13.) Korm. határozathoz[^8]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont i) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
