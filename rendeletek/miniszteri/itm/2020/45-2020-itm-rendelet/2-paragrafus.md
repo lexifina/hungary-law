@@ -22,36 +22,44 @@ i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemelt
 
 j) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjárművek üzemeltetőinek, ezen feladatok ellátása során, továbbá az önkéntes tűzoltó egyesületek, az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes vagy köteles polgári védelmi egységek tagjainak az elrendelt gyakorlat során igénybe vett gépjárművek után.
 
-(2)[^3] Az (1) bekezdésben meghatározott jogosultak azokkal a gépjárműveikkel használhatják díjmentesen a díjköteles útszakaszt, amelyek forgalmi rendszámát – a közvetlen hozzáféréssel elektronikusan történő nyilvántartásba bejegyzés kivételével – a jogosultság igazolásával előzetesen írásban
+k)[^3] a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezet közútkezelési feladatai ellátása érdekében üzemben tartott gépjárműve után, az érintett ország és Magyarország államhatárától számított első csomóponti lehajtóig terjedő használatidíj-köteles útszakaszon,
 
-a) az (1) bekezdés a), c) és e) pontjában szereplő járművek esetén a közlekedési igazgatási hatóságnál,
+l)[^4] a gépjárműadóról szóló törvényben meghatározott muzeális jellegű gépjármű után.
+
+(2)[^5] Az (1) bekezdésben meghatározott jogosultak azokkal a gépjárműveikkel használhatják díjmentesen a díjköteles útszakaszt, amelyek forgalmi rendszámát – a közvetlen hozzáféréssel elektronikusan történő nyilvántartásba bejegyzés kivételével – a jogosultság igazolásával előzetesen írásban
+
+a)[^6] az (1) bekezdés a), c), e) és l) pontjában szereplő járművek esetén a közlekedési igazgatási hatóságnál,
 
 b) az (1) bekezdés b) pontjában szereplő járművek esetén – a feladatkörhöz kapcsolódóan – a közúti közlekedési nyilvántartó szervnél, a Magyar Honvédségnél vagy a rendőrségnél,
 
-c) az (1) bekezdés d), f)–h) pontjában szereplő járművek esetén a közúti közlekedési nyilvántartó szervnél,
+c)[^7] az (1) bekezdés d), f)–h) és k) pontjában szereplő járművek esetén a közúti közlekedési nyilvántartó szervnél,
 
 d) az (1) bekezdés i) és j) pontjában szereplő járművek esetén az Országos Katasztrófavédelmi Főigazgatóságnál
 
 bejelentették, és bejelentésük alapján nyilvántartásba vételre kerültek.
 
-(2a)[^4] Az (1) bekezdésben meghatározott jogosultak az (1) bekezdés szerinti jogosultságot érintő változásokat azok bekövetkeztétől számított 15 napon belül bejelentik a mentességi nyilvántartásba történő bejegyzés ügyében eljáró szervnek.
+(2a)[^8] Az (1) bekezdésben meghatározott jogosultak az (1) bekezdés szerinti jogosultságot érintő változásokat azok bekövetkeztétől számított 15 napon belül bejelentik a mentességi nyilvántartásba történő bejegyzés ügyében eljáró szervnek.
 
 (3) A (2) bekezdés szerinti díjmentes úthasználatra az (1) bekezdésben meghatározott jogosult – az (1) bekezdés c) pontja szerinti gépjárművek kivételével – addig jogosult, ameddig az (1) bekezdés alapján a díjmentesség az adott gépjármű tekintetében fennáll, de legkésőbb a (2) bekezdés szerinti bejelentés évét követő év január 31. napjáig. Az (1) bekezdés c) pontja szerinti gépjármű utáni útdíjfizetési mentesség addig áll fenn, ameddig a gépjármű megkülönböztető jelzés használatára jogosult.
 
-(4)[^5] Ha az (1) bekezdés szerinti jogosult nem tett eleget a (2) bekezdés szerinti bejelentési kötelezettségének, és az útdíjfizetés elmaradása következtében pótdíjfizetési kötelezettsége keletkezett, az (1) bekezdésben meghatározott feltételek fennállásának mentességi nyilvántartásba történő bejegyzés ügyében eljáró szerv általi utólagos igazolásával és a forgalmi rendszámonként fizetendő, 20. § szerinti ügyintézési díj megfizetésével mentesül a pótdíj megfizetése alól. A mentesítés érvényesítésére az első pótdíjfizetési felszólítás kézhezvételétől számított 90 napos határidőn belül van lehetőség. A 90 napos határidőt megtartottnak kell tekinteni akkor is, ha a jogosult a kérelmét a mentességi nyilvántartásba történő bejegyzés ügyében eljáró szervnél határidőben előterjesztette.
+(4)[^9] Ha az (1) bekezdés szerinti jogosult nem tett eleget a (2) bekezdés szerinti bejelentési kötelezettségének, és az útdíjfizetés elmaradása következtében pótdíjfizetési kötelezettsége keletkezett, az (1) bekezdésben meghatározott feltételek fennállásának mentességi nyilvántartásba történő bejegyzés ügyében eljáró szerv általi utólagos igazolásával és a forgalmi rendszámonként fizetendő, 20. § szerinti ügyintézési díj megfizetésével mentesül a pótdíj megfizetése alól. A mentesítés érvényesítésére az első pótdíjfizetési felszólítás kézhezvételétől számított 90 napos határidőn belül van lehetőség. A 90 napos határidőt megtartottnak kell tekinteni akkor is, ha a jogosult a kérelmét a mentességi nyilvántartásba történő bejegyzés ügyében eljáró szervnél határidőben előterjesztette.
 
 (5) Nincs helye pótdíj kiszabásának a közút lezárásának vagy forgalma korlátozásának, elterelésének az időtartama alatt azon az egyébként díjköteles útszakaszon történő úthasználat miatt, amelyet a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 14. § (1) bekezdés a) és b) pontjában meghatározott szervek – a közút kezelőjének és a díjfizetés ellenőrzésére jogosult szervezetnek előzetes vagy szükség esetén egyidejű tájékoztatása mellett – terelőútként jelöltek ki. Az úthasználati jogosultsággal nem rendelkező gépjárművek – a korlátozást vagy terelést elrendelő szerv ettől eltérő tájékoztatása hiányában – a terelőútként kijelölt díjköteles utat legfeljebb a díjköteles szakaszra hajtás kezdete és az azt követő első csomóponti lehajtó, e csomóponti lehajtó lezárása esetén az azt követő első, díjköteles szakaszon lévő, le nem zárt csomóponti lehajtó közötti szakaszán használhatják. A lezárást, korlátozást vagy terelést elrendelő szerv a terelőútként kijelölt díjfizetésre kötelezett útszakaszról és a lezárás, korlátozás vagy terelés időtartamáról a közlekedésben részt vevőket a médiaszolgáltatók útján tájékoztatja.
 
 (6) Nincs helye pótdíj kiszabásának, ha az (5) bekezdés szerinti terelőút kijelölése nélkül, a forgalom irányítására jogszabály alapján jogosult szerv a közúti forgalmat vagy annak egy részét díjköteles útszakaszra tereli, ezen intézkedés által indokolt úthasználat tekintetében.
 
-(7)[^6] Nem kell úthasználati díjat fizetni a kárelhárítás vagy kármegelőzés időtartamára az abban részt vevő gépjárművek után, ha azok a kárelhárítást vagy kármegelőzést térítésmentesen végzik, és a forgalmi rendszámuk a kárelhárítást megelőzően a közút kezelője vagy az útdíjszolgáltatási gazdasági társaság részére bejelentésre került, vagy forgalmi rendszámukat és a kárelhárítás vagy kármegelőzés várható időtartamát a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve az útdíjszolgáltatási gazdasági társaságnak és a közlekedési igazgatási hatóságnak a kárelhárítás megkezdését megelőzően vagy legkésőbb az azt követő második munkanapon bejelenti.
+(7)[^10] Nem kell úthasználati díjat fizetni a kárelhárítás vagy kármegelőzés időtartamára az abban részt vevő gépjárművek után, ha azok a kárelhárítást vagy kármegelőzést térítésmentesen végzik, és a forgalmi rendszámuk a kárelhárítást megelőzően a közút kezelője vagy az útdíjszolgáltatási gazdasági társaság részére bejelentésre került, vagy forgalmi rendszámukat és a kárelhárítás vagy kármegelőzés várható időtartamát a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve az útdíjszolgáltatási gazdasági társaságnak és a közlekedési igazgatási hatóságnak a kárelhárítás megkezdését megelőzően vagy legkésőbb az azt követő második munkanapon bejelenti.
 
-(8)[^7]
+(8)[^11]
 
 [^1]: A 2. § (1) bekezdés a) pontja a 38/2025. (XII. 22.) ÉKM rendelet 6. §-a szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés b) pontja a 46/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdése a 46/2023. (XII. 29.) ÉKM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2a) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 1. § (3) bekezdése iktatta be.
-[^5]: A 2. § (4) bekezdése a 46/2023. (XII. 29.) ÉKM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^6]: A 2. § (7) bekezdése a 22/2025. (VII. 22.) ÉKM rendelet 2. § a) és b) pontja szerint módosított szöveg.
-[^7]: A 2. § (8) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 4. §-a hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés k) pontját a 34/2025. (XI. 30.) ÉKM rendelet 3. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés l) pontját a 34/2025. (XI. 30.) ÉKM rendelet 3. §-a iktatta be.
+[^5]: A 2. § (2) bekezdése a 46/2023. (XII. 29.) ÉKM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdés a) pontja a 34/2025. (XI. 30.) ÉKM rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdés c) pontja a 34/2025. (XI. 30.) ÉKM rendelet 8. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (2a) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 1. § (3) bekezdése iktatta be.
+[^9]: A 2. § (4) bekezdése a 46/2023. (XII. 29.) ÉKM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^10]: A 2. § (7) bekezdése a 22/2025. (VII. 22.) ÉKM rendelet 2. § a) és b) pontja szerint módosított szöveg.
+[^11]: A 2. § (8) bekezdését a 46/2023. (XII. 29.) ÉKM rendelet 4. §-a hatályon kívül helyezte.

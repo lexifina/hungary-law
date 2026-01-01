@@ -1,4 +1,4 @@
-13. §[^48] (1) Ha egy gépjármű az ellenőrzésekor a gépjárműre az e rendelet szerint irányadó díjkategóriához képest alacsonyabb árú díjkategóriába tartozó jogosultsággal rendelkezik, az üzembentartó pótdíjkülönbözetet fizet.
+13. §[^52] (1) Ha egy gépjármű az ellenőrzésekor a gépjárműre az e rendelet szerint irányadó díjkategóriához képest alacsonyabb árú díjkategóriába tartozó jogosultsággal rendelkezik, az üzembentartó pótdíjkülönbözetet fizet.
 
 (2) E rendelet eltérő rendelkezése hiányában a pótdíjkülönbözet a kiszabásáról történő tudomásszerzéstől, legfeljebb azonban a 12. § (1) bekezdése szerinti felszólításnak a kézbesítésétől esedékes. A pótdíjkülönbözet fizetésére kötelezett a pótdíjkülönbözet esedékessé válásától számított 60 napon belül alap pótdíjkülönbözetet, a pótdíjkülönbözet esedékessé válásától számított 60. napot követően emelt pótdíjkülönbözetet fizet.
 
@@ -8,4 +8,4 @@
 
 (5) Nem kell pótdíjkülönbözetet fizetni, ha egy gépjármű az ellenőrzésekor a gépjárműre az e rendelet szerint irányadó díjkategóriához képest magasabb vagy azonos árú díjkategóriába tartozó jogosultsággal rendelkezik.
 
-[^48]: A 13. § a 24/2024. (VII. 31.) ÉKM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^52]: A 13. § a 24/2024. (VII. 31.) ÉKM rendelet 1. § (2) bekezdésével megállapított szöveg.

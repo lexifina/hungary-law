@@ -1,3 +1,3 @@
-4. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^91]
+4. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^95]
 
-[^91]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
