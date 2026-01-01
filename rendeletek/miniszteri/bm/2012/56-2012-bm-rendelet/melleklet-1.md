@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^377]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^380]
 
 Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -32,17 +32,17 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | osztályvezető-helyettes | 920 970* 1020* 1070*[^378] | 920 |
+| 3. | D | osztályvezető-helyettes | 920 970* 1020* 1070*[^381] | 920 |
 
 | 4. | D | ügyeletvezető I. | 920 |  |
 
 | 5. | D | ügyeletvezető II. | 870 |  |
 
-| 6. | D | kiemelt főreferens | 920 970* 1020* 1070*[^379] | 870 |
+| 6. | D | kiemelt főreferens | 920 970* 1020* 1070*[^382] | 870 |
 
 | 7. | D | jogtanácsos |  | 970 |
 
-| 8. | C | kiemelt főelőadó | 920 970*[^380] | 870 |
+| 8. | C | kiemelt főelőadó | 920 970*[^383] | 870 |
 
 | 9. | C | kiemelt biztonsági főtiszt | 1070 |  |
 
@@ -64,7 +64,7 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 3. | D | csoportvezető | 920 | 920 |
 
-| 4. | D | szolgálatparancsnok | 920 970*[^381] |  |
+| 4. | D | szolgálatparancsnok | 920 970*[^384] |  |
 
 | 5. | D | szakreferens | 920 | 870 |
 
@@ -72,7 +72,7 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 7. | C | szolgálatparancsnok-helyettes | 870 |  |
 
-| 8. | C | főreferens | 870 920*[^382] | 820 |
+| 8. | C | főreferens | 870 920*[^385] | 820 |
 
 | 9. | C | technikus | 870 |  |
 
@@ -84,13 +84,13 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 | 13. | B | objektumőr I. | 870 |  |
 
-| 14. | B | járőr I. | 520 |  |
+| 14. | B | járőr[^386] | 520 |  |
 
 | 15. | B | beosztott tűzoltó I. | 870 |  |
 
 | 16. | A | objektumőr II. | 870 |  |
 
-| 17. | A | járőr II. | 520 |  |
+| 17. | A | objektumőr III.[^387] | 520 |  |
 
 | 18. | A | beosztott tűzoltó II. | 870 |  |
 
@@ -102,15 +102,17 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 4.3. 1020*: Az Országgyűlési Őrség Híradó és Biztonságtechnikai Osztályon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 1020%.
 
-4.4.[^383] 970*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 970%.
+4.4.[^388] 970*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 970%.
 
-4.5.[^384] 920*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 920%.
+4.5.[^389] 920*: Az Országgyűlési Őrség protokolláris díszelgési feladatokat ellátó állománya esetében a hivatásos pótlék mértéke 920%.
 
-[^377]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 14. §-ával megállapított szöveg.
-[^378]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^379]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^380]: Az 1. melléklet 2. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^381]: Az 1. melléklet 3. pontjában foglalt táblázat C:4 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^382]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^383]: Az 1. melléklet 4.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.
-[^384]: Az 1. melléklet 4.5. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.
+[^380]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 14. §-ával megállapított szöveg.
+[^381]: Az 1. melléklet 2. pontjában foglalt táblázat C:3 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^382]: Az 1. melléklet 2. pontjában foglalt táblázat C:6 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^383]: Az 1. melléklet 2. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^384]: Az 1. melléklet 3. pontjában foglalt táblázat C:4 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^385]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^386]: Az 1. melléklet 3. pontjában foglalt táblázat B:14 mezője az 54/2025. (XII. 22.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^387]: Az 1. melléklet 3. pontjában foglalt táblázat B:17 mezője az 54/2025. (XII. 22.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^388]: Az 1. melléklet 4.4. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.
+[^389]: Az 1. melléklet 4.5. pontját a 60/2024. (XII. 23.) BM rendelet 38. § (1) bekezdése iktatta be.

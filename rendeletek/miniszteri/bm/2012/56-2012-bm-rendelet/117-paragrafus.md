@@ -1,3 +1,3 @@
-117. §[^329] Az eljáró személy vagy bizottság személyesen hallgatja meg a károkozásért felelősnek tartott személyt, illetve képviselőjét, a tanút, a szakértőt.
+117. §[^332] Az eljáró személy vagy bizottság személyesen hallgatja meg a károkozásért felelősnek tartott személyt, illetve képviselőjét, a tanút, a szakértőt.
 
-[^329]: A 117. § a 60/2024. (XII. 23.) BM rendelet 39. § 52. pontja szerint módosított szöveg.
+[^332]: A 117. § a 60/2024. (XII. 23.) BM rendelet 39. § 52. pontja szerint módosított szöveg.

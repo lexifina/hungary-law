@@ -1,3 +1,3 @@
-81. §[^255]
+81. §[^257]
 
-[^255]: A 81. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 17. pontja hatályon kívül helyezte.
+[^257]: A 81. §-t a 60/2024. (XII. 23.) BM rendelet 40. § 17. pontja hatályon kívül helyezte.

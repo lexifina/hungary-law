@@ -10,6 +10,6 @@ b) a lakás és egyéb hitelek kedvezményes törlesztésére és
 
 c) a szolgálati lakás használatára.
 
-d)[^67] a rendfokozat használatára.
+d)[^68] a rendfokozat használatára.
 
-[^67]: A 19. § (3) bekezdés d) pontját a 38/2020. (X. 14.) BM rendelet 8. §-a iktatta be.
+[^68]: A 19. § (3) bekezdés d) pontját a 38/2020. (X. 14.) BM rendelet 8. §-a iktatta be.

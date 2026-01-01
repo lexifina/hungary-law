@@ -1,4 +1,4 @@
-108/C. §[^301] (1) A névjegyzékre kerülőket az Országgyűlési Őrség parancsnoka választja ki. A névjegyzékre felvehető hivatásos állományúak számát – a Hszt. 227. § (1) bekezdésében foglaltaknak megfelelően – az Országgyűlési Őrség parancsnoka határozza meg és teszi közzé.
+108/C. §[^304] (1) A névjegyzékre kerülőket az Országgyűlési Őrség parancsnoka választja ki. A névjegyzékre felvehető hivatásos állományúak számát – a Hszt. 227. § (1) bekezdésében foglaltaknak megfelelően – az Országgyűlési Őrség parancsnoka határozza meg és teszi közzé.
 
 (2) A névjegyzékre felvett tagok megbízatása – e rendelet eltérő rendelkezésének hiányában – öt évre szól, amely megbízatásról az Országgyűlési Őrség parancsnoka megbízólevelet állít ki. A megbízatás lejártakor az adott év december havának harmincegyedik napjáig végre kell hajtani az új tagok kiválasztását.
 
@@ -18,12 +18,12 @@ d) abban az esetben, ha vele szemben a 108/B. § (5) bekezdés b) pontjában meg
 
 (6) A névjegyzék vezetése során az Országgyűlési Őrség parancsnoka
 
-a)[^302] gondoskodik az állomány részére történő nyilvánossá tételéről, valamint
+a)[^305] gondoskodik az állomány részére történő nyilvánossá tételéről, valamint
 
 b) a névjegyzékről, illetve az abban történt változásról tájékoztatja a Magyar Rendvédelmi Kar elnökét.
 
-(7)[^303] Az Országgyűlési Őrség parancsnoka a Becsületbíróság működési feltételeit a Becsületbíróság összehívását kezdeményező személy (a 108/D–108/G. § alkalmazásában a továbbiakban: kérelmező) szolgálati elöljárója útján biztosítja.
+(7)[^306] Az Országgyűlési Őrség parancsnoka a Becsületbíróság működési feltételeit a Becsületbíróság összehívását kezdeményező személy (a 108/D–108/G. § alkalmazásában a továbbiakban: kérelmező) szolgálati elöljárója útján biztosítja.
 
-[^301]: A 108/C. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
-[^302]: A 108/C. § (6) bekezdés a) pontja a 60/2024. (XII. 23.) BM rendelet 40. § 19. pontja szerint módosított szöveg.
-[^303]: A 108/C. § (7) bekezdése a 67/2015. (XII. 16.) BM rendelet 2. § (1) bekezdésével megállapított, a 60/2024. (XII. 23.) BM rendelet 39. § 43. pontja szerint módosított szöveg.
+[^304]: A 108/C. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+[^305]: A 108/C. § (6) bekezdés a) pontja a 60/2024. (XII. 23.) BM rendelet 40. § 19. pontja szerint módosított szöveg.
+[^306]: A 108/C. § (7) bekezdése a 67/2015. (XII. 16.) BM rendelet 2. § (1) bekezdésével megállapított, a 60/2024. (XII. 23.) BM rendelet 39. § 43. pontja szerint módosított szöveg.

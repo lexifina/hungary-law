@@ -1,4 +1,4 @@
-43/B. §[^133] (1) A váltásos I. szolgálati időrendszerben 12 óra szolgálat után 24 óra szabadidő, további 12 óra szolgálat után 48 óra szabadidő kerül elrendelésre váltásonként.
+43/B. §[^135] (1) A váltásos I. szolgálati időrendszerben 12 óra szolgálat után 24 óra szabadidő, további 12 óra szolgálat után 48 óra szabadidő kerül elrendelésre váltásonként.
 
 (2) A váltásos II. szolgálati időrendszerben 24 óra szolgálat után 72 óra szabadidő kerül elrendelésre váltásonként.
 
@@ -12,4 +12,4 @@
 
 (7) Ha a hivatásos állomány tagjának napi szolgálatteljesítési ideje a 24 órát eléri – a Hszt. 136. § (2) bekezdésében meghatározott munkaközi szüneten felül –, a halaszthatatlan intézkedést igénylő esetet kivéve – az erre alkalmas helyiségben, ruházatának könnyítése mellett – 4 órát a szolgálatteljesítési idő terhére pihenéssel tölthet.
 
-[^133]: A 43/B. §-t a 9/2018. (IV. 25.) BM rendelet 7. §-a iktatta be.
+[^135]: A 43/B. §-t a 9/2018. (IV. 25.) BM rendelet 7. §-a iktatta be.

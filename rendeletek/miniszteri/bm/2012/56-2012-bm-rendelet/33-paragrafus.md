@@ -1,5 +1,5 @@
-33. §[^107] (1) Vezetői kinevezést megelőzően a humánigazgatási szakszolgálat köteles megvizsgálni, hogy az érintett részére munkavégzéssel járó egyéb jogviszony létesítésére és fenntartására irányuló engedélyt korábban kiadtak-e.
+33. §[^109] (1) Vezetői kinevezést megelőzően a humánigazgatási szakszolgálat köteles megvizsgálni, hogy az érintett részére munkavégzéssel járó egyéb jogviszony létesítésére és fenntartására irányuló engedélyt korábban kiadtak-e.
 
 (2) Ha az (1) bekezdés szerinti vizsgálat alapján az érintett esetében a vezetői kinevezésre tekintettel összeférhetetlenség állna fenn, a humánigazgatási szakszolgálat jelentést tesz az Országgyűlési Őrség parancsnoka részére. Az Országgyűlési Őrség parancsnoka a jelentés alapján a vezetői kinevezéssel egyidejűleg visszavonja a munkavégzéssel járó egyéb jogviszony létesítésére és fenntartására irányuló engedélyt, egyidejűleg felszólítja az érintettet a Hszt. 110. § (1) bekezdése alapján az összeférhetetlenség megszüntetésére.
 
-[^107]: A 33. § a 38/2020. (X. 14.) BM rendelet 12. §-ával megállapított szöveg.
+[^109]: A 33. § a 38/2020. (X. 14.) BM rendelet 12. §-ával megállapított szöveg.
