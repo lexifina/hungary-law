@@ -50,7 +50,7 @@ l) a hasznosítási és a kényszerengedélyeket, és
 
 m) azt, ha a szabadalmi igény vagy a szabadalmi oltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
-(3) A szabadalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
+(3) A szabadalmi bejelentésekről vezetett nyilvántartás, valamint a szabadalmi lajstrom – az (1a) bekezdés c), d) és e) pontjában, valamint a (2) bekezdés d), e) és f) pontjában foglalt adatok kivételével – közhiteles nyilvántartás, amely a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
 (4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a szabadalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a szabadalmi lajstromba bejegyezték.
 
