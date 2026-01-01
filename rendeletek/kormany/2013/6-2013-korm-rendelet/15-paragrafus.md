@@ -46,6 +46,8 @@ való megfelelést szolgálja.
 
 (6)[^61] Ez a rendelet a mesterséges intelligenciára vonatkozó harmonizált szabályok megállapításáról, valamint a 300/2008/EK, a 167/2013/EU, a 168/2013/EU, az (EU) 2018/858, az (EU) 2018/1139 és az (EU) 2019/2144 rendelet, továbbá a 2014/90/EU, az (EU) 2016/797 és az (EU) 2020/1828 irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1689 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(7)[^62] Ez a rendelet az általános termékbiztonságról, az 1025/2012/EU európai parlamenti és tanácsi rendelet és az (EU) 2020/1828 európai parlamenti és tanácsi irányelv módosításáról, valamint a 2001/95/EK európai parlamenti és tanácsi irányelv és a 87/357/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. május 10-i (EU) 2023/988 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^55]: A 15. § (2) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^56]: A 15. § (2) bekezdés d) pontját a 316/2022. (VIII. 16.) Korm. rendelet 3. §-a iktatta be.
 [^57]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
@@ -53,3 +55,4 @@ való megfelelést szolgálja.
 [^59]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
 [^60]: A 15. § (5) bekezdését a 736/2021. (XII. 21.) Korm. rendelet 3. §-a iktatta be.
 [^61]: A 15. § (6) bekezdését a 344/2025. (X. 31.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^62]: A 15. § (7) bekezdését a 415/2025. (XII. 23.) Korm. rendelet 7. §-a iktatta be.

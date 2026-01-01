@@ -18,7 +18,7 @@ e)[^44] bányászati alkalmazásra szánt gépek, berendezések, külfejtésben 
 
 f)[^45] gazdasági célfelhasználású gépek és villamossági termékek, egyes nyomástartó edények és rendszerek, egyes szállítható nyomástartó edények, bányáktól eltérő környezetbe szánt robbanásbiztos berendezések, gázfogyasztó készülékek, egyes kötelező hitelesítésű mérőeszközök, egyes környezetbarát tervezéssel és energiafogyasztási címkézéssel kapcsolatos termékek, továbbá a mozgólépcsők, mozgójárdák és felvonók esetében a Kormányhivatalt,
 
-g)[^46] fogyasztói forgalomba szánt villamossági termékek, gépek és egyéni védőeszközök, ruházati termékek, lábbelik, játszótéri eszközök, öngyújtók, gyermekjátékok, bútorok, mosó- és tisztítószerek, építési termékek, festékek és lakkok, valamint minden egyéb a fogyasztói forgalomba szánt termék esetében az NKFH-t,
+g)[^46] fogyasztói forgalomba szánt villamossági termékek, gépek és egyéni védőeszközök, ruházati termékek, lábbelik, játszótéri eszközök, öngyújtók, gyermekjátékok, bútorok, mosó- és tisztítószerek, építési termékek, festékek és lakkok, valamint minden egyéb a fogyasztói forgalomba szánt termék esetében a fogyasztóvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt és az NKFH-t,
 
 h)[^47] járművek, járműtartozékok és alkatrészek esetében a közlekedésért felelős minisztert, valamint Budapest Főváros Kormányhivatalát,
 
@@ -44,7 +44,7 @@ n)[^51] a kiberbiztonsági tanúsítással rendelkező vagy kiberbiztonsági tan
 [^43]: A 10. § (1) bekezdés d) pontja az 531/2022. (XII. 19.) Korm. rendelet 6. §-ával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^44]: A 10. § (1) bekezdés e) pontja a 162/2017. (VI. 28.) Korm. rendelet 49. §-a, a 736/2021. (XII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^45]: A 10. § (1) bekezdés f) pontja a 146/2014. (V. 5.) Korm. rendelet 36. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^46]: A 10. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés e) pontja, a 328/2024. (XI. 14.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^46]: A 10. § (1) bekezdés g) pontja a 415/2025. (XII. 23.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^47]: A 10. § (1) bekezdés h) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés f) pontja szerint módosított szöveg.
 [^48]: A 10. § (1) bekezdés i) pontja a 318/2014. (XII. 13.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
 [^49]: A 10. § (1) bekezdés k) pontja a 257/2024. (VIII. 29.) Korm. rendelet 69. §-a szerint módosított szöveg.
