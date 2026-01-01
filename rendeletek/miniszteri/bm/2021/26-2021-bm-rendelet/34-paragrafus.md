@@ -8,6 +8,6 @@
 
 (5) A rendfokozati vizsgát az Országgyűlési Őrség humánigazgatási szakszolgálata szervezi.
 
-(6)[^11] Az általános részi és különös részi követelményrendszert, a felkészítő tananyagot és a vizsgakérdéssort az Országgyűlési Őrség a hivatásos állomány tájékoztatására szolgáló belső hálózaton teszi közzé.
+(6)[^21] Az általános részi és különös részi követelményrendszert, a felkészítő tananyagot és a vizsgakérdéssort az Országgyűlési Őrség a hivatásos állomány tájékoztatására szolgáló belső hálózaton teszi közzé.
 
-[^11]: A 34. § (6) bekezdése a 60/2024. (XII. 23.) BM rendelet 96. §-ával megállapított szöveg.
+[^21]: A 34. § (6) bekezdése a 60/2024. (XII. 23.) BM rendelet 96. §-ával megállapított szöveg.

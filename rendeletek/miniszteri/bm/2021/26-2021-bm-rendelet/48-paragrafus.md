@@ -1,3 +1,3 @@
-48. §[^15]
+48. §[^25]
 
-[^15]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

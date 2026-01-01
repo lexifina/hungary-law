@@ -1,4 +1,4 @@
-18. §[^9] (1) A vezetőkiválasztási eljárás során a hivatásos állomány tagja az R. 28. § (1) bekezdése szerinti, az R. 27/A. § (1) bekezdésében részletezett módszertani elemekből álló kompetenciafelmérésen vesz részt.
+18. §[^16] (1) A vezetőkiválasztási eljárás során a hivatásos állomány tagja az R. 28. § (1) bekezdése szerinti, az R. 27/A. § (1) bekezdésében részletezett módszertani elemekből álló kompetenciafelmérésen vesz részt.
 
 (2) A hivatásos állomány tagja a vezetőkiválasztási eljárásban való részvétel idejére mentesül a szolgálatteljesítési kötelezettség alól.
 
@@ -10,4 +10,4 @@
 
 (6) A rendészeti vezetővé képző tanfolyamot vezető tréner a KOMP-rendszer tréneri felületén ismeri meg azt, hogy a hivatásos állomány tagja vonatkozásában mely kompetenciák fejlesztése szükséges a vezetővé képző tanfolyamon. A tréner kizárólag a fejlesztendő kompetenciák felsorolását kapja meg, a kompetenciafelmérés eredményéhez nem fér hozzá.
 
-[^9]: A 18. § a 60/2024. (XII. 23.) BM rendelet 94. §-ával megállapított szöveg.
+[^16]: A 18. § a 60/2024. (XII. 23.) BM rendelet 94. §-ával megállapított szöveg.

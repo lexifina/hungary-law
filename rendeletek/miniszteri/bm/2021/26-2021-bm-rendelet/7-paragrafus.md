@@ -22,6 +22,6 @@ szerzi meg.
 
 (5) A hivatásos állomány tagjának a továbbképzési időszak egyes éveiben kötelező megszereznie a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 15%-át úgy, hogy a továbbképzési időszak harmadik éve végére a továbbképzési időszakban teljesítendő összes továbbképzési pont legalább 75%-át elérje.
 
-(6)[^3] A hivatásos állomány tagja szolgálati elöljárója egyetértésével a 6. § (2) bekezdésében előírtnál több továbbképzési pontot is teljesíthet a továbbképzési időszakban. Ha a hivatásos állomány tagja a továbbképzési időszakban a számára előírtnál több továbbképzési pontot teljesít, az előírt pontmennyiséget meghaladó továbbképzési pontok – legfeljebb az adott továbbképzési időszakra előírt továbbképzési pontmennyiség 25%-ának megfelelő mértékben – a következő továbbképzési időszakra átvihetők, feltéve, hogy a többletpontok megszerzése a továbbképzési időszak utolsó 12 hónapjában történt.
+(6)[^4] A hivatásos állomány tagja szolgálati elöljárója egyetértésével a 6. § (2) bekezdésében előírtnál több továbbképzési pontot is teljesíthet a továbbképzési időszakban. Ha a hivatásos állomány tagja a továbbképzési időszakban a számára előírtnál több továbbképzési pontot teljesít, az előírt pontmennyiséget meghaladó továbbképzési pontok – legfeljebb az adott továbbképzési időszakra előírt továbbképzési pontmennyiség 25%-ának megfelelő mértékben – a következő továbbképzési időszakra átvihetők, feltéve, hogy a többletpontok megszerzése a továbbképzési időszak utolsó 12 hónapjában történt.
 
-[^3]: A 7. § (6) bekezdése a 60/2024. (XII. 23.) BM rendelet 97. § a) pontja szerint módosított szöveg.
+[^4]: A 7. § (6) bekezdése a 60/2024. (XII. 23.) BM rendelet 97. § a) pontja szerint módosított szöveg.

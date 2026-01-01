@@ -1,4 +1,4 @@
-## 4/A.[^4] Irányítói továbbképzés
+## 4/A.[^5] Irányítói továbbképzés
 
 9/A. § (1) Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló jogszabályban meghatározott V–VIII. alkalmasságvizsgálati kategóriába tartozó szolgálati beosztást (a továbbiakban: irányítói szolgálati beosztás) betöltő tagja irányítói továbbképzésen köteles részt venni.
 
@@ -12,4 +12,4 @@ kell teljesítenie.
 
 (5) Az irányítói továbbképzés beszámít a 6. § (2) bekezdése szerinti továbbképzési kötelezettség teljesítésébe.
 
-[^4]: A 4/A. alcímet (9/A-9/B. §-t) a 43/2022. (XII. 19.) BM rendelet 120. §-a iktatta be.
+[^5]: A 4/A. alcímet (9/A-9/B. §-t) a 43/2022. (XII. 19.) BM rendelet 120. §-a iktatta be.
