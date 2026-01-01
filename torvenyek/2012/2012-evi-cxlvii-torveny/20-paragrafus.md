@@ -12,7 +12,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
 
-b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
+b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 100%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 100%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 
 c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 
@@ -28,7 +28,7 @@ a) a tőkekivonás (különösen a jegyzett tőke leszállítás) cégbíróság
 
 b) az adóévben jóváhagyott fizetendő osztalék összegét (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot),
 
-c) a pénztár értékének tárgyévi növekményét, de legfeljebb a pénztár tárgyévi mérlegben kimutatott értékének a mentesített értéket meghaladó részét,
+c) a pénztár értékének (ide nem értve az elektronikus pénzeszközök értékét) tárgyévi növekményét, de legfeljebb a pénztár tárgyévi mérlegben kimutatott értékének (ide nem értve az elektronikus pénzeszközök értékét) a mentesített értéket meghaladó részét,
 
 d) a Tao. tv. 3. számú melléklet A) részében meghatározott, a nem a vállalkozási tevékenység érdekében felmerülő egyes költségeket, ráfordításokat,
 
@@ -46,7 +46,7 @@ a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejeg
 
 b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként,
 
-c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
+c) a pénztár értékének (ide nem értve az elektronikus pénzeszközök értékét) tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének (ide nem értve az elektronikus pénzeszközök értékét) a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének (ide nem értve az elektronikus pénzeszközök értékét) és mentesített értékének pozitív különbözetét,
 
 d)
 

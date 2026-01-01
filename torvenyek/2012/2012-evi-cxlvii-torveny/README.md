@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2025-01-01 | 2024. évi LV. törvény | 2012-147-00-00.43 |
 | 2025-07-20 | 2025. évi LIV. törvény | 2012-147-00-00.44 |
 | 2025-12-01 | 2025. évi LXXXIV. törvény | 2012-147-00-00.46 |
+| 2026-01-01 | 2025. évi LXXXIV. törvény | 2012-147-00-00.45 |

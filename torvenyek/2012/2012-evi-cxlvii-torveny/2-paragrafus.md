@@ -74,6 +74,6 @@ g) a 19. pont g) alpontja szerinti kedvezményezett foglalkoztatott esetében sz
 
 22.
 
-23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke; a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke.
+23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke (ide nem értve az elektronikus pénzeszközök értékét); a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke (ide nem értve az elektronikus pénzeszközök értékét).
 
 24.
