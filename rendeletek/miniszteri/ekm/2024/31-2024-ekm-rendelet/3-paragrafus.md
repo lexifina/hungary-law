@@ -26,7 +26,7 @@
 
 12. koordinációs modell: a főmodell, valamint a csökkentett fejlettségi szintű részmodellekből és szakági modellekből képzett, az állami építési beruházás áttekintését biztosító információs modell,
 
-13.[^1] kormányzati beruházási portál: az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium hivatalos, a Közlekedéstudományi Intézet szakmai közreműködésével létrehozott tartalommal működtetett internetes információs felülete, amely az állami építési beruházásokkal kapcsolatos szabályozási elemeket és azokkal összefüggő információkat tartalmaz,
+13.[^1] kormányzati beruházási portál: az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium hivatalos, a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet szakmai közreműködésével létrehozott tartalommal működtetett internetes információs felülete, amely az állami építési beruházásokkal kapcsolatos szabályozási elemeket és azokkal összefüggő információkat tartalmaz,
 
 14. közös adatkörnyezet (CDE): a létesítmény életciklusához kapcsolódó szerződések teljesítése során képződő geometriai, alfanumerikus és metaadat-információkkal rendelkező adatelemek gyűjtésére, kezelésére és megosztására kialakított módszertan alapján működő egységes adatok összessége, illetve azok tárolására szolgáló tárhely,
 
@@ -48,4 +48,4 @@
 
 23. vállalkozó kivitelező: az az építőipari kivitelezési tevékenységet üzletszerű gazdasági tevékenységként végző vállalkozó, amely vagy aki a kivitelezői láncolatban elfoglalt helye és szerződés szerinti pozíciója alapján fővállalkozó kivitelező, megrendelő vállalkozó kivitelező vagy alvállalkozó kivitelező lehet.
 
-[^1]: A 3. § 13. pontja a 19/2025. (VI. 27.) ÉKM rendelet 15. §-a szerint módosított szöveg.
+[^1]: A 3. § 13. pontja a 47/2025. (XII. 29.) ÉKM rendelet 15. §-a szerint módosított szöveg.
