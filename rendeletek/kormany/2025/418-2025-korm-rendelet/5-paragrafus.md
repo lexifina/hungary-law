@@ -1,12 +1,10 @@
-5. § (1)[^6]
+5. § (1) A 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete helyébe az 1. melléklet lép.
 
-(2)[^7]
+(2)[^6]
 
-(3)[^8]
+(3)[^7]
 
-(4)[^9]
+(4) A 43/1999. (III. 3.) Korm. rendelet 28. számú melléklete helyébe a 4. melléklet lép.
 
-[^6]: Az 5. § (1) bekezdése a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^7]: Az 5. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 5. § (4) bekezdése a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^6]: Az 5. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

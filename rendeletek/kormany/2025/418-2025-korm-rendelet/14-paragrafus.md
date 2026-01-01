@@ -1,5 +1,5 @@
-## 6.[^17]
+## 6. A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény végrehajtásáról szóló 673/2020. (XII. 28.) Korm. rendelet módosítása
 
-14. §
+14. § A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény végrehajtásáról szóló 673/2020. (XII. 28.) Korm. rendelet [a továbbiakban: 673/2020. (XII. 28.) Korm. rendelet] 3. § (1) bekezdése a következő e) ponttal egészül ki:
 
-[^17]: A 6. alcím a 18. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+(A KSZDR egységes informatikai rendszerként magában foglalja)
