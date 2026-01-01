@@ -8,7 +8,7 @@ b) a kifizető (ideértve az egyéni vállalkozónak nem minősülő természete
 
 c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
-(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés d) pontja szerinti, az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a tárgyhót követő hónap tizenkettedik napjáig, az Szja tv. rendelkezései szerint átalányadózást alkalmazó egyéni vállalkozó – a tárgynegyedév adatait havonként külön feltüntetve – a tárgynegyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
+(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés d) pontja szerinti egyéni vállalkozó – a tárgynegyedév adatait havonként külön feltüntetve – a tárgynegyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
 (1b) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés h) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
@@ -56,7 +56,7 @@ a) a születési idejét,
 
 b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 
-7c. a természetes személy esetében az Szja tv. 29/G. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+7c. a természetes személy esetében a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
 
 a) a születési idejét,
 
@@ -66,7 +66,7 @@ c) – a magzat kivételével – a gyermek nevét, adóazonosító jelét,
 
 d) várandósság esetén ennek tényét, valamint
 
-e) az Szja tv. 29/G. § (3) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+e) a 30 év alatti anyák kedvezményéről szóló 2025. évi XIII. törvény 1. § (3) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 
 8. a 6–7b. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 

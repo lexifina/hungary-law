@@ -226,7 +226,7 @@
 
 ## 3.1. A társasági adó előlege
 
-## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
+## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóév első három negyedévére jutó adóelőleget a negyedévet követő hó huszadik napjáig, az adóév utolsó negyedévére jutó adóelőleget a negyedév harmadik hónapjának huszadik napjáig fizeti meg.
 
 ## 3.1.2.
 
@@ -246,7 +246,7 @@
 
 ## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
 
-## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
+## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot negyedévente a tárgynegyedévet követő hónap tizenkettedik napjáig
 
 ## fizeti meg.
 
@@ -263,11 +263,3 @@
 ## 6. Rehabilitációs hozzájárulás
 
 ## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
-
-## 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
-
-## 7. Külön fel nem sorolt befizetések
-
-## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
-
-## 8. Belföldi gépjárművek adója

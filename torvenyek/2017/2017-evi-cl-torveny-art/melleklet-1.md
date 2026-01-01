@@ -6,7 +6,7 @@ Az állami adó- és vámhatósághoz bejelentendő adatok
 
 1.1. nevét (elnevezését), rövidített cégnevét,
 
-1.2. természetes személy adóazonosító jelét,
+1.2. természetes személy adóazonosító jelét, a Tbj. 4. § 2.1. pontja szerinti egyéni vállalkozó bejelentkezése esetén adóazonosító jelét és TAJ számát,
 
 1.3. külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát, és a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv 284. cikk (3) bekezdésének megfelelően megállapított egyedi azonosítószámát, ha ilyennel rendelkezik,
 
@@ -66,7 +66,7 @@ Az állami adó- és vámhatósághoz bejelentendő adatok
 
 3.2. a jogviszony megszűnését, a szünetelés kezdetét és befejezését, a biztosítás megszűnését követően folyósított ellátás kezdő és befejező időpontját követő 8 napon belül kell teljesíteni, kivéve, ha a munkáltató az 50. § szerinti havi adó- és járulékbevallásban feltünteti a biztosítási jogviszony megszűnésének időpontját. Ez utóbbi esetben a havi adó- és járulékbevallás beérkezését követően az állami adó- és vámhatóság az adózó által közölt bevallási adatok alapján a biztosítási jogviszony megszűnéséről szóló bejelentést hivatalból e pontban foglaltaknak megfelelően elvégzi, amelyet a 6. pont alapján továbbít az egészségbiztosítás biztosítotti nyilvántartásának, és erről a foglalkoztatottat valamint a foglalkoztatót értesíti. Az állami adó- és vámhatóság a biztosítási jogviszony megszűnésének bejelentését nem pótolhatja, ha a foglalkoztatottnak a foglalkoztatóval egyidejűleg több biztosítási jogviszonya áll fenn.
 
-3.3. ha a foglalkoztató személyében jogutódlás következik be, a jogutód munkáltató, kifizető köteles a jogutódlással érintett, a Tbj. 6. § (1) bekezdés a)–c) és f)–g) pontja, valamint (2) bekezdése szerinti biztosított személyre vonatkozóan teljesíteni; a bejelentési határidőkre a 3.1. és 3.2. pontot, a bejelentendő adatok körére e bekezdést kell alkalmazni, azzal, hogy a bejelentésben fel kell tüntetni a jogelőd nevét, elnevezését és adószámát, a jogutódlás tényét és napját, továbbá a jogutód nevét, elnevezését, adószámát és a jogutód megalakulása napját is.
+3.3. ha a foglalkoztató személyében jogutódlás következik be, a jogutód munkáltató, kifizető köteles a jogutódlással érintett, a Tbj. 6. § (1) bekezdés a)–c), f)–g) és l) pontja, valamint (2) bekezdése szerinti biztosított személyre vonatkozóan teljesíteni; a bejelentési határidőkre a 3.1. és 3.2. pontot, a bejelentendő adatok körére e bekezdést kell alkalmazni, azzal, hogy a bejelentésben fel kell tüntetni a jogelőd nevét, elnevezését és adószámát, a jogutódlás tényét és napját, továbbá a jogutód nevét, elnevezését, adószámát és a jogutód megalakulása napját is.
 
 3.4. Ha a munkáltató, kifizető a 3.2. pont szerinti bejelentési kötelezettségét nem teljesítette, és az adózóról nyilvántartást vezető szerv – ideértve különösen a cégnyilvántartást, egyéni vállalkozói nyilvántartást, civil szervezetek névjegyzékét vezető szervet – által nyilvántartott adatok alapján jogutód nélkül megszűnt, az elmulasztott bejelentési kötelezettséget az állami adó-és vámhatóság hivatalból pótolja a jogutód nélküli megszűnés időpontjáról való tudomásszerzéstől számított tizenöt napon belül, amelyről elektronikus úton adatot szolgáltat az egészségbiztosítás biztosítotti nyilvántartása részére.
 
@@ -79,6 +79,8 @@ Az állami adó- és vámhatósághoz bejelentendő adatok
 3.8. Határozott idejű foglalkoztatás esetén a bejelentést egyidejűleg a biztosítás kezdetére és a jogviszony megszűnésére vonatkozóan is teljesíteni kell legkésőbb a biztosítási jogviszony első napján, de még a foglalkoztatás megkezdése előtt. A jogviszony megszűnése időpontjának módosulása vagy a határozott időtartam határozatlan időtartamra változása esetén e törvény változás-bejelentésre vonatkozó szabályai az irányadók.
 
 3.9. Ha a munkáltató végelszámolás, felszámolás, illetve kényszertörlési eljárás alatt áll, akkor a 3.2. alpont szerinti foglalkoztatottak biztosítási jogviszonya megszűnésének bejelentésére a végelszámoló, felszámoló, valamint a Bérgarancia biztos kötelezett.
+
+3.10. A 3.1. ponttól eltérően az állami adó- és vámhatóság a Tbj. 4. § 2.1. pontja szerinti egyéni vállalkozó helyett hivatalból teljesíti az egyéni vállalkozóra e minőségében vonatkozó biztosítotti bejelentést az 1. pont szerinti bejelentés, valamint az egyéni vállalkozók nyilvántartásának adatai alapján.
 
 4. Ha a munkáltató az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvényben (a továbbiakban: Efo. tv.) meghatározott korlátok túllépése miatt az Szja tv. és a Tbj. általános adózási és járulékfizetési szabályait köteles alkalmazni, az egyszerűsített foglalkoztatottként bejelentett személy(eke)t a jogsértés feltárásától számított nyolc napon belül – a 3. pontban előírt módon biztosítottként – jelenti be. Ettől eltérően nem kell a 3. pont szabályai szerint biztosítottként bejelenteni azt a természetes személyt, akit a munkáltató egyszerűsített foglalkoztatottként bejelentett, de a munkát nem vette fel és munkavégzés hiányában jövedelem kifizetésére nem került sor.
 
@@ -106,7 +108,7 @@ Az állami adó- és vámhatósághoz bejelentendő adatok
 
 14.1. az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, illetve a kisgyermekkel otthon lévők szövetkezetének adószámát,
 
-14.2. az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy nem nagyszülőként részesül-e gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
+14.2. az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy részesül-e csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
 
 15. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag, továbbá a kisgyermekkel otthon lévők szövetkezete tagjának jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
 

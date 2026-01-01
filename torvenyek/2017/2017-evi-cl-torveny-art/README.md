@@ -72,3 +72,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2025-10-28 | 2024. évi XCI. törvény | 2017-150-00-00.72 |
 | 2025-11-01 | 2025. évi LXXX. törvény | 2017-150-00-00.71 |
 | 2025-11-20 | 2025. évi LXXXIII. törvény | 2017-150-00-00.73 |
+| 2026-01-01 | 2025. évi LXXXIII. törvény | 2017-150-00-00.70 |

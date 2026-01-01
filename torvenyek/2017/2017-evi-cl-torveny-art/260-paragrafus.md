@@ -1,6 +1,6 @@
 ### 260. § [Köztartozásmentes adózói adatbázis működtetése és közzététele]
 
-(1) A köztartozásmentes adózói adatbázis az állami adó- és vámhatóság honlapján közzétett, az az adózók nevét, elnevezését, székhelyét, telephelyét, adóazonosító számát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akik vagy amelyek a közzétételt megelőző hónap utolsó napján az alábbi együttes feltételeknek megfelelnek
+(1) A köztartozásmentes adózói adatbázis az állami adó- és vámhatóság honlapján közzétett, az az adózók nevét, elnevezését, székhelyét, telephelyét, adóazonosító számát és az adatbázisba történő felvétel napját tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akik vagy amelyek a közzétételt megelőző hónap utolsó napján az alábbi együttes feltételeknek megfelelnek
 
 a) az állami adó- és vámhatóságnál nyilvántartott
 

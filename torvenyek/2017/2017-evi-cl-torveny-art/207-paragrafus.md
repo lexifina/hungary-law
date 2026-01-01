@@ -4,4 +4,4 @@
 
 (2) Az állami adó- és vámhatóság az adózó részére az adószámlán fennálló tartozásai után havonként felszámított, de a naptári évre vonatkozóan az ötezer forintot el nem érő késedelmi pótlékot nem írja elő.
 
-(3) Az adóhiány késedelmi pótléka az eredeti esedékességtől az ellenőrzésről felvett jegyzőkönyv keltéig, de legfeljebb három évre számítható fel.
+(3) Az adóhiány késedelmi pótléka az eredeti esedékességtől az ellenőrzésről felvett jegyzőkönyv keltéig, de legfeljebb három évre számítható fel. Az állami adó- és vámhatóság az adóhiány után felszámított, adónemenként ötezer forintot el nem érő késedelmi pótlékot nem írja elő.
