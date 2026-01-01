@@ -24,6 +24,9 @@ teljesíti.
 
 (9)[^76] Az országos hulladékgazdálkodási hatóság a gyártó által az (1) bekezdés szerint közölt adatokat a nyilvántartásba vétel iránti kérelem beérkezésétől számított 15 napon belül nyilvántartásba veszi, ha a kérelem megfelel az (1)–(7) bekezdésben foglaltaknak. A gyártó a nyilvántartásba vétel iránti kérelem beérkezésekor nyilvántartási számot kap.
 
+(10)[^77] A nyilvántartás – a személyiadat- és lakcímnyilvántartásban, valamint a cégnyilvántartásban szereplő adatok kivételével – a 3. melléklet 1.2–3. pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 [^74]: A 23. § (1) bekezdés nyitó szövegrésze a 276/2023. (VI. 29.) Korm. rendelet 72. § a) pontja, a 465/2024. (XII. 30.) Korm. rendelet 37. § 8. pontja szerint módosított szöveg.
 [^75]: A 23. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.
 [^76]: A 23. § (9) bekezdése a 203/2025. (VII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^77]: A 23. § (10) bekezdését a 342/2025. (X. 31.) Korm. rendelet 54. §-a iktatta be.

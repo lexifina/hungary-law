@@ -4,11 +4,11 @@
 
 (3)[^48] A kiterjesztett gyártói felelősségi díjfizetési kötelezettség 13. § (3) bekezdése szerinti átvállalása esetén a gépjármű termékáramba tartozó körforgásos termék átvállaló által fizetendő kiterjesztett gyártói felelősségi díja tartalmazza a gépjármű körforgásos termék tartozékára vagy alkotórészére külön-külön meghatározott kiterjesztett gyártói felelősségi díjakat.
 
-(3a)[^49] A gépjármű gyártója díjátalány-fizetésre jogosult. Díjátalány-fizetés választása esetén a gyártó által fizetendő kiterjesztett gyártói felelősségi díj mértékét a gyártó által forgalomba hozott, a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő gépjárműmennyiség alapulvételével kell megállapítani, amely a gépjármű körforgásos terméknek minősülő tartozékának vagy alkotórészének mennyiségét is tartalmazza. A gyártó a díjátalány-fizetésre vonatkozó választását tárgyéven belül nem változtathatja meg.
+(3a)[^49] A gépjármű gyártója díjátalány-fizetésre jogosult. Díjátalány-fizetés választása esetén a gyártó által fizetendő kiterjesztett gyártói felelősségi díj mértékét a gyártó által forgalomba hozott, a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő gépjárműmennyiség alapulvételével kell megállapítani, amely a gépjármű körforgásos terméknek minősülő tartozékának vagy alkotórészének mennyiségét is tartalmazza. A díjátalány tartalmazza a gépjármű csomagolásának kiterjesztett gyártói felelősségi díját is. A gyártó a díjátalány-fizetésre vonatkozó választását tárgyéven belül nem változtathatja meg.
 
 (4)[^50] A (3a) bekezdés kivételével, amennyiben a körforgásos termék forgalomba hozatala más körforgásos termék tartozékaként vagy alkotórészeként valósul meg, a kiterjesztett gyártói felelősségi díj mértékét a termékre és a tartozékra vagy alkotórészre külön-külön kell meghatározni.
 
 [^47]: A 20. § (1) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^48]: A 20. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 5. pontja szerint módosított szöveg.
-[^49]: A 20. § (3a) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 62. §-a iktatta be, szövege a 435/2023. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^49]: A 20. § (3a) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 62. §-a iktatta be, szövege a 203/2025. (VII. 17.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^50]: A 20. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 6. pontja szerint módosított szöveg.
