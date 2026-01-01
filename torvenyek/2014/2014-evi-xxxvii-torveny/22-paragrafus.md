@@ -28,7 +28,7 @@ be) minden közvetlen vagy közvetett részesedéssel rendelkező tagjának (ré
 
 bf) annak a jogi személynek a nevét, székhelyét, nyilvántartási számát, amelyben a független értékelő közvetlen vagy közvetett részesedéssel rendelkezik.
 
-(3) A (2) bekezdés szerinti nyilvántartás a független értékelő nyilvántartási száma, a nyilvántartásba-vétel időpontja, valamint a független értékelői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
+(3)
 
 (4) A szanálási feladatkörében eljáró MNB a független értékelőkre vonatkozóan legalább évente egyszer nyilvános pályázatot hirdet. A beérkezett pályázatokat a szanálási feladatkörében eljáró MNB által felkért, legalább három, de legfeljebb hét tagból álló bíráló bizottság bírálja el. A bíráló bizottság döntése közigazgatási perben megtámadható. Ha a pályázó a jogszabályi feltételeknek megfelel, akkor a szanálási feladatkörében eljáró MNB a névjegyzékbe felveszi.
 
