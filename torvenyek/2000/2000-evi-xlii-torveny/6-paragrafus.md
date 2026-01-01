@@ -12,6 +12,6 @@ c) az orvos működési nyilvántartási száma;
 
 d) annak megjelölése, hogy az orvos belvízi vagy tengeri hajós szolgálatot ellátó személy egészségi alkalmasságának vizsgálatára jogosult.
 
-(4) Az egészségi alkalmasság vizsgálatát végző orvosok nyilvántartása közhiteles nyilvántartásnak minősül, amelyet – az orvos nevét nem érintő természetes személyazonosító adatok kivételével – a hajózási hatóság a honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+(4) Az egészségi alkalmasság vizsgálatát végző orvosok nyilvántartása a (3) bekezdés a) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül, amelyet a hajózási hatóság a honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
 
 (5) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat az orvos nyilvántartásból való törlését követő két évig kezeli.

@@ -8,4 +8,28 @@
 
 (2a) A hivatásos hajós képesítésekről szóló miniszteri rendelet hatálya alá nem tartozó úszólétesítmény személyzete részére hajós szolgálati könyv nem kötelező.
 
-(3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet, amely nyilvántartás a hajón töltött szolgálati időre, a beosztásra és az egészségügyi alkalmasságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet az alábbi adatokkal:
+
+a) a szolgálati könyv tulajdonosának
+
+aa) neve és születési adatai,
+
+ab) személyzeti azonosító száma,
+
+ac) fényképe,
+
+b) a szolgálati könyv sorszáma,
+
+c) a kiállítás dátuma,
+
+d) a kiállító hatóság megnevezése,
+
+e) a szolgálati könyv tulajdonosának képesítései,
+
+f) szolgálati idő és beosztás,
+
+g) szolgálati idő alatt megtett utak,
+
+h) egészségügyi alkalmasságra vonatkozó adatok.
+
+(4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés b)–h) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.

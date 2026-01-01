@@ -1,12 +1,12 @@
-26/A. § (1) A hajózási hatóság a jóváhagyott képzőszervekről nyilvántartást vezet, amely az alábbi adatokat tartalmazza
+26/A. § (1) A hajózási hatóság a jóváhagyott képzőszervekről nyilvántartást vezet, amely tartalmazza
 
-a) a képző szervezet nevét és címét;
+a) a képző szervezet nevét és az általa megadott elérhetőségeit;
 
 b) az engedély számát, dátumát és annak hatályát; valamint
 
-c) a jóváhagyott képzés típusát.
+c) a jóváhagyott képzés típusát és jellegét.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés b)–c) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás adatai nyilvánosak, azokat a hajózási hatóság a honlapján közzéteszi.
 
 (3) A hajózási hatóság a képzőszerv engedélyét visszavonja és a képzőszervet a nyilvántartásból törli, ha
 

@@ -10,7 +10,9 @@ c) nyilvántartásba vétel száma, időpontja,
 
 d) nyilvántartásba vétel alapját képező engedélyező döntés kelte, száma.
 
-(3) A névjegyzék a (2) bekezdés a), c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(3) A névjegyzék a (2) bekezdés c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(3a) A névjegyzékben szereplő vizsgabiztosok nevét és a vizsgabiztos igazolványának számát a hajózási hatóság a honlapján közzéteszi.
 
 (4) A hajózási hatóság a vizsgabiztosi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgabiztos büntetlen előéletű-e.
 

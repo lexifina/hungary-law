@@ -42,4 +42,4 @@ e) a hajózási engedély időbeli hatályát,
 
 f) a kérelmező hajózási vállalkozás és a hajózási tevékenységhez használt úszólétesítmény magyar tulajdoni hányadának a megjelölését.
 
-(6) A hajózási engedélyekről vezetett nyilvántartás az (5) bekezdésben foglalt adatok tekintetében – az (5) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(6)

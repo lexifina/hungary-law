@@ -52,7 +52,7 @@ d) a tengerész munkaközvetítő és a tengerész kölcsönbeadó Tengerészeti
 
 e) a tengerész munkaközvetítő és a tengerész kölcsönbeadó hajózási hatóság nyilvántartásából való törlésére, tevékenységének felfüggesztésére vonatkozó adatok.
 
-(6a) A tengerész munkaközvetítők és a tengerész kölcsönbeadók nyilvántartása a természetes személyazonosító adatok kivételével közhiteles nyilvántartásnak minősül, amelyet a hajózási hatóság honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+(6a) A tengerész munkaközvetítők és a tengerész kölcsönbeadók nyilvántartása a (6) bekezdés a), d) és e) pontja tekintetében közhiteles nyilvántartásnak minősül, amelyet a hajózási hatóság honlapján bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
 
 (6b) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat a tengerész munkaközvetítő vagy a tengerész kölcsönbeadó nyilvántartásból való törlését követő két évig kezeli.
 
