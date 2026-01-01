@@ -1,5 +1,3 @@
-## 2X06663.pdf
+5. melléklet az 1471/2022. (X. 5.) Korm. határozathoz[^15]
 
-5. melléklet az 1471/2022. (X. 5.) Korm. határozathoz
-
-2X06665.pdf
+[^15]: Az 5. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
