@@ -1,0 +1,3 @@
+33. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 152. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A Dáptv. 80. § (1) bekezdése szerinti, valamint a Dáptv. 65. § (1) bekezdése szerinti digitális szolgáltatást biztosító szervezetnek nem minősülő szervezet, amely a 2024. augusztus 31-én hatályos, az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerint vett igénybe támogató szolgáltatást, – a 91. § (5a) bekezdésétől eltérően – az igénybe vett szolgáltatást megszakítás nélkül folytathatja, amennyiben a IX. Fejezetében foglalt rá irányadó kötelezettségének eleget tesz.”

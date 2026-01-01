@@ -1,0 +1,3 @@
+29. § A digitális szolgáltatások, a digitális állampolgárság szolgáltatások és támogató szolgáltatások részletes műszaki követelményeiről szóló 322/2024. (XI. 6.) Korm. rendelet 110. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A SZÜF szolgáltató a (2) bekezdés a) pontjában meghatározott feladatai keretében biztosítja és ellátja az SDG-OOTS végrehajtási rendelet 15. és 16. cikkben foglaltakat. A SZÜF szolgáltató e bekezdése szerinti feladatkörében az SDG-OOTS végrehajtási rendelet szerinti igazolásszolgáltató nevében eljárva hitelesített igazolást állít ki. Az e bekezdés alapján kiállított igazolás közokirat.”
