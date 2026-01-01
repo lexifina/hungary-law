@@ -1,4 +1,4 @@
-14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^378]
+14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^379]
 
 A részletező nyilvántartások tartalma
 
@@ -340,4 +340,20 @@ e) a leltározással kapcsolatos feljegyzéseket.
 
 4. Az átsorolt, követelés fejében átvett készletekről olyan nyilvántartást kell vezetni, amelyet e rendelet az eszköz jellemzője szerint megkövetelne abban az esetben, ha azt nem értékesítenék.
 
-[^378]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 43. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 11. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 4. pontja, a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 4. pontja szerint módosított szöveg.
+XI. Az időbeli elhatárolások nyilvántartása
+
+1. Az időbeli elhatárolások nyilvántartása tartalmazza legalább
+
+a) az időbeli elhatárolás fajtáját a mérlegben történő bemutatás szerint,
+
+b) az időbeli elhatárolást előidéző gazdasági esemény meghatározását,
+
+c) az időbeli elhatárolás képzésének időpontját,
+
+d) az időbeli elhatárolás összegét, a képzésére vonatkozó számítást, a számítást alátámasztó bizonylatok azonosításához szükséges adatokat,
+
+e) az időbeli elhatárolás összegében bekövetkezett változás, megszüntetés időpontját, annak bizonylati hivatkozását, a kapcsolódó számításokat és ezek könyvelésének időpontját (ideértve a követelés jellegű aktív időbeli elhatárolások és a kötelezettség jellegű passzív időbeli elhatárolások esetén az év végi értékelés miatti elszámolásokat is),
+
+f) a könyvviteli számlákhoz való kapcsolódást.
+
+[^379]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 43. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 11. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 4. pontja, a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 4. pontja, a 394/2025. (XII. 11.) Korm. rendelet 32. § (2) bekezdés 3. pontja szerint módosított szöveg.
