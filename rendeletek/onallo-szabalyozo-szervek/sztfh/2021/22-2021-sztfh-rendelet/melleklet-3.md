@@ -2,9 +2,9 @@
 
 A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett termékek regisztrációs lapjának tartalmi elemei
 
-1.[^18] A termékregisztrátor neve, címe, adószáma, jövedéki típusú engedélyének a száma.
+1.[^19] A termékregisztrátor neve, címe, adószáma, jövedéki típusú engedélyének a száma.
 
-2.[^19] A termékregisztrátor minőségének megjelölése [a Jöt. 3. § (1) bekezdés 26. pontja szerinti jövedéki engedélyes kereskedő, a Jöt. 3. § (1) bekezdés 9. pontja szerinti bejegyzett kereskedő, a Jöt. 3. § (1) bekezdés 16. pontja szerinti eseti bejegyzett kereskedő vagy a Jöt. 3. § (1) bekezdés 5. pontja szerinti adóraktár engedélyes].
+2.[^20] A termékregisztrátor minőségének megjelölése [a Jöt. 3. § (1) bekezdés 26. pontja szerinti jövedéki engedélyes kereskedő, a Jöt. 3. § (1) bekezdés 9. pontja szerinti bejegyzett kereskedő, a Jöt. 3. § (1) bekezdés 16. pontja szerinti eseti bejegyzett kereskedő vagy a Jöt. 3. § (1) bekezdés 5. pontja szerinti adóraktár engedélyes].
 
 3. A termék
 
@@ -14,11 +14,11 @@ b) márkaneve/márkajelzése,
 
 c) alfajtája (ha megkülönböztethető),
 
-d)[^20] egyedi jellemző [ha megkülönböztethető; illetve elektronikus cigaretta esetén az (EU) 2015/2183 bizottsági végrehajtási határozat 5. cikke szerinti Termékazonosító szám],
+d)[^21] egyedi jellemző [ha megkülönböztethető; illetve elektronikus cigaretta esetén az (EU) 2015/2183 bizottsági végrehajtási határozat 5. cikke szerinti Termékazonosító szám],
 
 e) a termék megnevezése (amennyiben releváns, az ízesítés jelölése is),
 
-f)[^21] egyéb jellemző kódok [így különösen: EAN kód, a Jöt. 3. § (1) bekezdés 32. pontja szerinti KN-kód (ennek hiányában vámtarifaszám), gyógyszerészeti államigazgatási szerv igazolásának száma, fogyasztóvédelmi hatósági engedélyszám, egyéb engedélyszám, gyártói cikkszám],
+f)[^22] egyéb jellemző kódok [így különösen: EAN kód, a Jöt. 3. § (1) bekezdés 32. pontja szerinti KN-kód (ennek hiányában vámtarifaszám), gyógyszerészeti államigazgatási szerv igazolásának száma, fogyasztóvédelmi hatósági engedélyszám, egyéb engedélyszám, gyártói cikkszám],
 
 g) Jöt. szerinti besorolása,
 
@@ -64,12 +64,12 @@ d) füstszűrő alkalmazása;
 
 e) kapszula alkalmazása;
 
-f)[^22] ízesítés alkalmazása;
+f)[^23] ízesítés alkalmazása;
 
 g) finomra vágott fogyasztási dohány esetében annak meghatározása, hogy egy szál cigaretta töltéséhez hány gramm dohányra van szükség.
 
-[^18]: A 3. melléklet 1. pontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § d) pontja szerint módosított szöveg.
-[^19]: A 3. melléklet 2. pontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § d) és e) pontja szerint módosított szöveg.
-[^20]: A 3. melléklet 3. pont d) alpontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § f) pontja szerint módosított szöveg.
-[^21]: A 3. melléklet 3. pont f) alpontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § g) pontja szerint módosított szöveg.
-[^22]: A 3. melléklet 6. pont f) alpontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § h) pontja szerint módosított szöveg.
+[^19]: A 3. melléklet 1. pontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § d) pontja szerint módosított szöveg.
+[^20]: A 3. melléklet 2. pontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § d) és e) pontja szerint módosított szöveg.
+[^21]: A 3. melléklet 3. pont d) alpontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § f) pontja szerint módosított szöveg.
+[^22]: A 3. melléklet 3. pont f) alpontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § g) pontja szerint módosított szöveg.
+[^23]: A 3. melléklet 6. pont f) alpontja a 13/2023. (VI. 30.) SZTFH rendelet 6. § h) pontja szerint módosított szöveg.
