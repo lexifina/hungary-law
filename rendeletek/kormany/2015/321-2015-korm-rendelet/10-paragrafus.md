@@ -16,7 +16,7 @@ g) a Kbt. 62. § (1) bekezdés k) pontjára vonatkozóan:
 
 ga) a Kbt. 62. § (1) bekezdés k) pont ka) alpontja tekintetében az érintett ország illetékes hatósága által kiállított adóilletőség-igazolást;
 
-gb)[^39] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező nyilatkozata, amely a pénzmosásról szóló törvény 3. § 38. pont a)–b) vagy d) alpontja szerint definiált valamennyi tényleges tulajdonosa nevének és lakóhelyének bemutatását tartalmazza; ha a gazdasági szereplőnek nincs a pénzmosásról szóló törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosa, úgy erre vonatkozó nyilatkozatot szükséges csatolni;
+gb)[^39] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező nyilatkozata, amely a pénzmosásról szóló törvény 3. § 38. pont a)–b) d), e) vagy g) alpontja szerint definiált valamennyi tényleges tulajdonosa nevének és lakóhelyének bemutatását tartalmazza; ha a gazdasági szereplőnek nincs a pénzmosásról szóló törvény 3. § 38. pont a)–b) d), e) vagy g) alpontja szerinti tényleges tulajdonosa, úgy erre vonatkozó nyilatkozatot szükséges csatolni;
 
 gc) a Kbt. 62. § (1) bekezdés k) pont kc) pontja tekintetében az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
@@ -37,7 +37,7 @@ l)[^43]
 [^36]: A 10. § (1) bekezdés c) pontja a 40/2021. (II. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^37]: A 10. § (1) bekezdés d) pontja a 40/2021. (II. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 12. § 8. pontja szerint módosított szöveg.
 [^38]: A 10. § (1) bekezdés f) pontja a 40/2021. (II. 2.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 12. § 9. pontja szerint módosított szöveg.
-[^39]: A 10. § (1) bekezdés g) pont gb) alpontja a 66/2019. (III. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^39]: A 10. § (1) bekezdés g) pont gb) alpontja a 66/2019. (III. 27.) Korm. rendelet 13. §-ával megállapított, a 371/2025. (XI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^40]: A 10. § (1) bekezdés h) pontja a 40/2021. (II. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^41]: A 10. § (1) bekezdés j) pontja a 40/2021. (II. 2.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
 [^42]: A 10. § (1) bekezdés k) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 3. pontja hatályon kívül helyezte, újonnan a 427/2024. (XII. 23.) Korm. rendelet 2. §-a iktatta be.

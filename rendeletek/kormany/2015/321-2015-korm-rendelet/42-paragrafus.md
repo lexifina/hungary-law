@@ -2,9 +2,9 @@
 
 a) nem felel meg a minősítési szempontoknak;
 
-b)[^98]
+b)[^101]
 
-c)[^99] közbeszerzéssel kapcsolatos jogorvoslati eljárásban végleges határozattal elrendelték a kamarai jegyzékéből való törlését;
+c)[^102] közbeszerzéssel kapcsolatos jogorvoslati eljárásban végleges határozattal elrendelték a kamarai jegyzékéből való törlését;
 
 d) azt a minősített ajánlattevő kéri;
 
@@ -18,5 +18,5 @@ g) a gazdasági szereplő kamarai tagsága megszűnt.
 
 (3) A minősített ajánlattevő a kamarai jegyzékből való törléséről szóló határozat kézhezvételét követően köteles haladéktalanul törlését bejelenteni az ajánlatkérőnek, ha folyamatban levő közbeszerzési eljárásban vesz részt.
 
-[^98]: A 42. § (1) bekezdés b) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 7. pontja hatályon kívül helyezte.
-[^99]: A 42. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 547. § f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^101]: A 42. § (1) bekezdés b) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 7. pontja hatályon kívül helyezte.
+[^102]: A 42. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 547. § f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
