@@ -16,6 +16,8 @@
 
 (3a) A bíróság a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést a (3) bekezdésben foglaltak szerint közli.
 
+(3b) Ha a 14. § (1a) bekezdése alapján indított eljárásban a bíróság által elrendelt megelőző távoltartás gyermek jogát is érinti, a bíróság a határozatot az illetékes gyámhatóságnak is megküldi.
+
 (4) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya a bíróság által elrendelt megelőző távoltartás hatályának beálltával megszűnik.
 
 (5) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya akkor is megszűnik, ha a bíróság nem rendeli el a megelőző távoltartást.

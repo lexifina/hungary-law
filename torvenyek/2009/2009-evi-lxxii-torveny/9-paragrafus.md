@@ -6,7 +6,7 @@
 
 (2a) A rendőrség a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést az (1) és (2) bekezdésben foglaltak szerint közli.
 
-(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhatóságnak is megküldi.
+(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt lakóhelye szerinti gyámhatóságnak is megküldi.
 
 (3a) A rendőrség a távoltartó határozatot megküldi az érdekérvényesítés elősegítése szolgáltatás igénybevételének lehetőségét biztosító áldozatsegítő központnak.
 

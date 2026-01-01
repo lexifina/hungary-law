@@ -1,0 +1,1 @@
+25. § E törvénynek a rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 16. § (3b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

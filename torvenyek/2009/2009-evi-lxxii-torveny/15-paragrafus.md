@@ -15,3 +15,5 @@
 (6) Az eljárást hivatalból indult eljárás esetén a rendőrség által elrendelt ideiglenes megelőző távoltartás kezdő időpontjától számított három napon belül, kérelemre indult eljárás esetén a kérelem beérkezésétől számított három munkanapon belül le kell folytatni.
 
 (7) A személyes meghallgatáson a bíróság – a rendőrségi iratokban vagy a kérelemben foglaltakra, így különösen a hozzátartozók közötti erőszak módjára, rendszerességére, a bántalmazott kiszolgáltatott helyzetére figyelemmel – a bántalmazott és a bántalmazó egymás jelenlétében való meghallgatását részben vagy teljes egészében mellőzheti. Indokolt esetben a bíróság gondoskodik annak megakadályozásáról is, hogy a bántalmazott és a bántalmazó a bíróság épületében személyesen találkozzon. A határozat közlésére ez esetben is a 16. § (3) bekezdését kell megfelelően alkalmazni.
+
+(8) A bíróság a megelőző távoltartás elrendelésére irányuló eljárásban a kérelmező indítványára, amennyiben a bántalmazott krízisközpontban vagy titkos menedékházban kerül elhelyezésre, elrendeli a bántalmazott meghallgatásának elektronikus hírközlő hálózaton keresztül történő lefolytatását.
