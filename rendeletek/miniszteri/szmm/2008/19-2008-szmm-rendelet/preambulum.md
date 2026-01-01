@@ -1,1 +1,0 @@
-A szakképzésről szóló 1993. évi LXXVI. törvény 4. § (2) bekezdés b) pontjában foglalt felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában foglalt feladatkörömben eljárva – a szakképesítésért felelős miniszterekkel egyetértésben – a következőket rendelem:
