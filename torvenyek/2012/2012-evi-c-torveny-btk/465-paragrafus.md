@@ -19,7 +19,3 @@ e) 290–291. §-a a magánszektorban tapasztalható korrupció elleni küzdelem
 f) 375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,
 
 g) 389. §-a az euró bevezetésével kapcsolatos pénzhamisítás elleni, büntetőjogi és egyéb szankciókkal megvalósuló védelem megerősítésről szóló, 2000. május 29-i 2000/383/IB tanácsi kerethatározat 3–6. cikkének,
-
-h) 392–394. §-a a nem készpénzes fizetőeszközökkel összefüggő csalás és hamisítás elleni küzdelemről szóló, 2001. május 28-i 2001/413/IB tanácsi kerethatározat 2., 4. és 6. cikkének,
-
-i) 399–402. §-a
