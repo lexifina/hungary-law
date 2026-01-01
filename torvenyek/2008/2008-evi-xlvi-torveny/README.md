@@ -63,3 +63,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2025-01-01 | 2024. évi L. törvény | 2008-46-00-00.63 |
 | 2025-01-15 | 2024. évi LXXX. törvény | 2008-46-00-00.64 |
 | 2025-01-20 | 2024. évi LXXX. törvény | 2008-46-00-00.65 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2008-46-00-00.67 |

@@ -2,7 +2,7 @@
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti a FELIR-t.
 
-(1a) A FELIR a természetes személy ügyfél személyes adatai, jogi személy és szervezet esetén a cégjegyzékbe bejegyzett adatai, valamint a (2) bekezdés p) pont kivételével a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(1a) A FELIR – a személyiadat- és lakcímnyilvántartásban, a cégnyilvántartásban, az ingatlan-nyilvántartásban, a közlekedési nyilvántartásban, valamint az adózással kapcsolatos nyilvántartásban szereplő közhiteles adatok kivételével – közhiteles nyilvántartásnak minősül, a nyilvántartás adattartalmát szabályozó jogszabályban meghatározott adatok tekintetében.
 
 (2) A FELIR tartalmazza
 
@@ -16,13 +16,13 @@ ac) ügyfél által végzett tevékenység helyére (beleértve a térinformatik
 
 b) az állatok nyilvántartási és állategészségügyi felügyeleti elektronikus rendszerét (a továbbiakban: DATAVET), amely magába foglalja
 
-ba) az állattartó helyeket, állatállományokat, a járványügyi egységeket, a kompartmenteket és a járványügyi intézkedések adatait,
+ba) az állattartó helyeket, állatállományokat, a járványügyi egységeket, a kompartmenteket, a 30. § (1) bekezdés m) pontjában meghatározott laboratóriumi vizsgálatok adatait és a járványügyi intézkedések adatait,
 
 bb) a lófélék, szarvasmarhafélék, sertés, juh, kecske, baromfi, nyúl, méhészeti, hal, halgazdálkodási akvakultúra termék nyomonkövetési adatait (valamennyi ENAR vonatkozásában), beleértve az állattartó helyek közötti állatmozgások adatait, továbbá az ebeknek az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény alapján nyilvántartott adatait;
 
 c) az élelmiszerlánc-felügyelet keretében elvégzett valamennyi ellenőrzés, minősítés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez, létesítményhez, és termékhez is köthető legyen;
 
-d) az élelmiszerlánc-felügyeleti szerv által vezetett nyilvántartások adatait;
+d)
 
 e) az ökológiai termelési rendszerben részt vevő ügyfelekkel, az ökológiai termelés tanúsításával, ellenőrzésével kapcsolatos adatokat;
 
@@ -54,13 +54,13 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 
 i) az Élelmiszerlánc Adatközpontot, beleértve a lakosság hiteles tájékoztatását támogató tartalomszolgáltató rendszer adatait, valamint az élelmiszerlánc-felügyelet alá tartozó termékekre, szolgáltatásokra és tevékenységekre vonatkozó követelmények és védjegyek tudástárát;
 
-j) a őstermelők családi gazdaságaira, valamint a mezőgazdasági őstermelőkre vonatkozó nyilvántartásban szereplő adatokat;
+j)
 
 k)
 
 l) a talaj, növény, növénytermesztés nyilvántartási, ellenőrzési és engedélyezési rendszerét;
 
-m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilvántartási, ellenőrzési, valamint kockázatelemzést megalapozó adatait;
+m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilvántartási, ellenőrzési, valamint kockázatelemzést megalapozó adatokat;
 
 n) vállalkozók által az élelmiszerlánc-felügyeleti szervhez beküldött önellenőrzési adatokat;
 

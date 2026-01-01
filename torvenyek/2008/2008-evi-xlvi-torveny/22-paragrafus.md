@@ -6,7 +6,9 @@ a) a külső és a belső környezetnek, az elhelyezésnek, az elrendezésnek, a
 
 b) olyan önellenőrzési, minőségbiztosítási, nyomonkövetési, termékvisszahívási rendszereket vagy ilyen rendszerek olyan elemeit kell működtetni, amelyekkel biztosítható az élelmiszer vagy takarmány biztonságossága, megfelelő minősége, azonosíthatósága és nyomonkövethetősége;
 
-c) az üzemelés teljes időtartama alatt jelen kell lennie egy – az e törvény végrehajtására kiadott jogszabályban meghatározott élelmiszer- vagy takarmánybiztonsági szaktudással rendelkező – azonnali intézkedésre feljogosított, felelős személynek.
+c) az (1a) bekezdésben foglaltak kivételével az üzemelés teljes időtartama alatt rendelkezésre kell állnia egy – az e törvény végrehajtására kiadott jogszabályban meghatározott élelmiszer- vagy takarmánybiztonsági szaktudással rendelkező –, azonnali intézkedésre feljogosított, felelős személynek.
+
+(1a) Élelmiszer- és a takarmány-mikrovállalkozások esetében az (1) bekezdés c) pontja szerinti azonnali intézkedésre feljogosított, felelős személynek oly módon kell rendelkezésre állnia, hogy szükség esetén rövid időn – legfeljebb 2 órán – belül meg tudjon jelenni a helyszínen.
 
 (2) Az élelmiszer-, illetve takarmány-vállalkozás az élelmiszer, illetve a takarmány előállítását, valamint forgalomba hozatalát megelőzően az e törvény végrehajtására kiadott jogszabályban meghatározott részletes, írásos dokumentációt (így különösen gyártmánylapot, anyaghányad-nyilvántartást) köteles készíteni és vezetni.
 

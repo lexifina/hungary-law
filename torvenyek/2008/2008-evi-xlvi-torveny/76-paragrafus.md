@@ -166,6 +166,8 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 61. az Elektronikus Gazdálkodási Napló személyes adatok körébe nem tartozó tartalmát.
 
+62. a FELIR részét képező nyilvántartások közhiteles adattartalmát.
+
 (3)
 
 (4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza

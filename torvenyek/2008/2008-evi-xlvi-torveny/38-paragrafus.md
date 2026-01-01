@@ -1,4 +1,4 @@
-38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint nyilvántartást vezet
+38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint, a 38/A. § (1) bekezdése szerinti FELIR-ben nyilvántartást vezet
 
 1. az állatorvosokról;
 
@@ -42,7 +42,7 @@
 
 21. a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
 
-22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatát végzőkről, a használatban lévő növényvédelmi gépekről, a növényvédelmi szolgáltatási tevékenységet végzőkről és a növényvédelmi munkavégzőkről;
+22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatára jogosultakról, a használatban lévő növényvédelmi gépekről, a növényvédelmi szolgáltatási tevékenységet végzőkről és a növényvédelmi munkavégzőkről;
 
 23. kistermelői élelmiszer előállítást és forgalmazást végzőkről;
 
@@ -78,6 +78,8 @@ h) vágóhídi segédszemélyzetről;
 
 31. a vadbegyűjtő és a mobil vadfeldolgozó létesítményekről.
 
+32. a faanyag-kereskedelmi lánc tevékenységhez kapcsolódó nyomtatvány kiállító programokról.
+
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
 a) a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény (a továbbiakban: KAP tv.) 10. § (2) bekezdés b) pontja szerinti támogatási azonosítót (a továbbiakban: támogatási azonosító),
@@ -88,7 +90,7 @@ c) természetes személyek esetén a természetes személyazonosító adatokat, 
 
 d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adószámot, főtevékenységet a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere (a továbbiakban: TEÁOR) nómenklatúra szerinti megjelöléssel, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
-(2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27–29. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2a)
 
 (3) Élelmiszer-, illetve takarmányvállalkozások, valamint a növényvédelmi szolgáltató vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
