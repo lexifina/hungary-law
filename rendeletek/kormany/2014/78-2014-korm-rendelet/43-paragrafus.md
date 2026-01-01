@@ -8,6 +8,6 @@ b) befektetési jegyei csak szakmai befektetők körében forgalmazhatók.
 
 (2) Zártkörű, vagy az (1) bekezdés szerinti nyilvános ingatlanalap kollektív befektetési forma által zártkörűen forgalomba hozott kollektív befektetési értékpapírjaiba is befektethet, továbbá kezelési szabályzata a 41. §-ban szabályozottaktól eltérően is meghatározhatja az egyes eszközök összes eszközön belüli maximális arányát, valamint az ingatlanalap a kezelési szabályzat adta keretek között eltérhet a 42. §-ban szereplő kölcsön felvételi korláttól, továbbá ingatlantársasági részesedés tekintetében a 48. § (3) bekezdés e) pontjában meghatározott befektetési korláttól. Eltérés esetén a kezelési szabályzatban részletesen be kell mutatni az eltérés lehetőségét és annak indokát.
 
-(3)[^35] Zártkörű ingatlanalap nem bocsáthat ki kötvényt.
+(3)[^38] Zártkörű ingatlanalap nem bocsáthat ki kötvényt.
 
-[^35]: A 43. § (3) bekezdését az 55/2024. (III. 7.) Korm. rendelet 6. §-a iktatta be.
+[^38]: A 43. § (3) bekezdését az 55/2024. (III. 7.) Korm. rendelet 6. §-a iktatta be.

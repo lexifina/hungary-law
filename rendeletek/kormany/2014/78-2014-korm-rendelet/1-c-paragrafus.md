@@ -80,6 +80,24 @@ c) legfeljebb 52%-a egyéb eszköz.
 
 (13) Átalakuló ingatlanalap a (11) bekezdésben meghatározott korlátokat az átalakulás napjától számított egy éven belül éri el, amely időszak a Felügyeletnek történő bejelentést követően egy évvel meghosszabbítható.
 
+(14)[^11] A (11) bekezdéstől eltérően, nyilvános nyílt végű ingatlanalap esetében a (11) bekezdés (a) pontjában meghatározott limitbe a nyilvános nyílt végű ingatlanalap által tulajdonolt – akár több – zártkörű ingatlanalap befektetési jegyei is beszámíthatóak. A beszámítás során a mögöttes zártkörű ingatlanalapnak a 37. § a)–c) és f) pontjában meghatározott eszközei arányos részét kell figyelembe venni. Nem beszámíthatók a mögöttes zártkörű ingatlanalap által tulajdonolt további, ebben a bekezdésben és a (15) bekezdésben meghatározott feltételeknek megfelelő zártkörű ingatlanalapok által kibocsátott befektetési jegyei.
+
+(15)[^12] A nyilvános nyílt végű ingatlanalap a (14) bekezdés szerinti beszámítást akkor alkalmazhatja, ha
+
+a) eszközei legalább 35%-át – 6 havi átlagát tekintve – a beszámítás előtt és alatt folyamatosan 37. § a)–c) és f) pontjai szerinti ingatlankitettségben tartja,
+
+b) a mögöttes zártkörű ingatlanalap a beszámítás alatt folyamatosan legalább 51%-ban a 37. § a)–c) és f) pontjában meghatározott eszközöket tart,
+
+c) a tulajdonában lévő ingatlantársaságban nem rendelkezik részesedéssel a mögöttes zártkörű alap,
+
+d) a nettó eszközérték kiszámításának és a mögöttes zártkörű ingatlanalap nettó eszközérték kiszámításának gyakorisága megegyezik,
+
+e) alapkezelője és letétkezelője megegyezik a mögöttes zártkörű ingatlanalap alapkezelőjével és letétkezelőjével,
+
+f) felügyeleti hatósága és a mögöttes zártkörű ingatlanalap felügyeleti hatósága megegyezik.
+
+(16)[^13] A (14) bekezdés szerinti beszámítást alkalmazó nyilvános nyílt végű ingatlanalap a beszámítás ideje alatt is ingatlanalapnak minősül, függetlenül a (10) bekezdésben meghatározott rendelkezésektől.
+
 [^3]: Az 1/C. § (1) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^4]: Az 1/C. § (2) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^5]: Az 1/C. § (3) bekezdés c) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
@@ -88,3 +106,6 @@ c) legfeljebb 52%-a egyéb eszköz.
 [^8]: Az 1/C. § (9) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
 [^9]: Az 1/C. § (10) bekezdés c) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
 [^10]: Az 1/C. § (11) bekezdés b) pontja a 80/2025. (IV. 17.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
+[^11]: Az 1/C. § (14) bekezdését a 331/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.
+[^12]: Az 1/C. § (15) bekezdését a 331/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.
+[^13]: Az 1/C. § (16) bekezdését a 331/2025. (X. 30.) Korm. rendelet 5. §-a iktatta be.

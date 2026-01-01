@@ -1,4 +1,4 @@
-## ELSŐ/B. RÉSZ[^11]
+## ELSŐ/B. RÉSZ[^14]
 
 ## A BEFEKTETÉSI ALAP DEVIZA NEME SZERINTI BESOROLÁSA
 
@@ -12,4 +12,4 @@
 
 (5) Ez a rész nem vonatkozik a zártkörű befektetési alapokra és a nyilvános, belépési korláttal rendelkező ingatlanalapokra.
 
-[^11]: Az ELSŐ/B. Részt (1/M. §-t) a 80/2025. (IV. 17.) Korm. rendelet 1. §-a iktatta be.
+[^14]: Az ELSŐ/B. Részt (1/M. §-t) a 80/2025. (IV. 17.) Korm. rendelet 1. §-a iktatta be.
