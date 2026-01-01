@@ -36,6 +36,8 @@ l) végzi az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó 
 
 m) az e törvényben meghatározott feladatok hatékony teljesítése érdekében gazdálkodó szervezetekkel együttműködési megállapodást köthet.
 
+n) működteti a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 24. pontja szerinti informatikai rendszert.
+
 (3) A NAV
 
 a) végzi az európai uniós és a külön jogszabályok alapján a feladatkörébe tartozó ügyekben az informatikai rendszerek működtetéséből, alkalmazásából adódó tagállami feladatokat,
