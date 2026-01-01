@@ -4,11 +4,7 @@
 
 ## b)[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 31 156 488 883 forint összegben határozza meg;
 
-## c) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében meghatározott jogkörében eljárva, a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet az 58. Nemzeti Atlétikai Központ szabadtéri edzőpályák megvalósítása jogcímcsoporttal egészíti ki;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## c)[^2]
 
 ## d) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a b) alpont szerinti összeg 2022. évi részének rendelkezésre állásáról a c) alpont szerinti előirányzaton;
 
@@ -26,7 +22,7 @@
 
 ## Határidő: a 2023. évi központi költségvetés tervezése során
 
-## ea)[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 1. pont b) alpontja szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+## ea)[^3] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 1. pont b) alpontja szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
 
 | Felelős: | építési és beruházási miniszter pénzügyminiszter |
 
@@ -58,7 +54,7 @@
 
 ## Határidő: 2022. július 31.
 
-## 2.[^3]
+## 2.[^4]
 
 1. melléklet az 1218/2022. (IV. 5.) Korm. határozathoz
 
@@ -113,5 +109,6 @@ A Beruházás megvalósításával érintett ingatlanok
 | 23. | Budapest | XXI. | 210020/1 |
 
 [^1]: Az 1. pont b) alpontja az 1492/2022. (X. 19.) Korm. határozat 114. pontja szerint módosított szöveg.
-[^2]: Az 1. pont e) alpont ea) alpontját az 1492/2022. (X. 19.) Korm. határozat 113. pontja iktatta be.
-[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont c) alpontja 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont e) alpont ea) alpontját az 1492/2022. (X. 19.) Korm. határozat 113. pontja iktatta be.
+[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
