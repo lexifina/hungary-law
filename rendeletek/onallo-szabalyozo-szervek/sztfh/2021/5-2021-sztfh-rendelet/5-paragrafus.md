@@ -4,7 +4,7 @@
 
 ## 1. A jelentős önkorlátozó nyilatkozat
 
-5. § (1) A játékos egy vagy több szerencsejáték fajtára vagy több szervezőre kiterjedő önkorlátozó nyilatkozatot tehet (a továbbiakban: jelentős önkorlátozó nyilatkozat).
+5. § (1)[^6] A játékos egy vagy több szerencsejáték fajtára kiterjedő önkorlátozó nyilatkozatot tehet (a továbbiakban: jelentős önkorlátozó nyilatkozat).
 
 (2) A játékos a jelentős önkorlátozó nyilatkozatot írásba foglalja, és azt
 
@@ -26,7 +26,7 @@ c) online kaszinó,
 
 d) távszerencsejáték.
 
-(4) A jelentős önkorlátozó nyilatkozatban a Hatóság tevékenységi engedélyével rendelkező szervező jelölhető meg.
+(4)[^7]
 
 (5) A jelentős önkorlátozó nyilatkozat érvényességi ideje 1 év, 3 év vagy 5 év. Az 1 évet meg nem haladó érvényességű nyilatkozat visszavonásának nincs helye. Az 1 évet meghaladó érvényességű nyilatkozat legalább 2 év leteltét követően a személyazonosság igazolása mellett a Hatóság ügyfélszolgálatán, személyesen tett írásbeli nyilatkozatban vonható vissza.
 
@@ -39,3 +39,6 @@ b) a (2) bekezdés b) pontja esetén a jelentős önkorlátozó nyilatkozat beé
 c) a (2) bekezdés c) pontja esetén az elektronikus nyilatkozat beérkezését követő 1 munkanapon belül elektronikus formában
 
 a játékos rendelkezésére bocsátja.
+
+[^6]: Az 5. § (1) bekezdése a 6/2025. (VII. 31.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: Az 5. § (4) bekezdését a 6/2025. (VII. 31.) SZTFH rendelet 3. § b) pontja hatályon kívül helyezte.
