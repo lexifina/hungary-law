@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-20-20-5
 | --- | --- | --- |
 | 2018-12-29 | 2018-20-20-53.1 | 20/2018. (XII. 21.) PM rendelet |
 | 2018-12-30 | 2018-20-20-53.2 | 2010: CXXX. törvény |
+| 2026-01-01 | 2018-20-20-53.3 | 67/2025. (XII. 31.) NGM rendelet |

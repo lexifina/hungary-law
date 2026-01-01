@@ -4,6 +4,8 @@
 
 (3) El kell állni az elővezetéstől, ha azt a szabálysértési eljárásban kiszabott pénzbírság helyébe lépő elzárás végrehajtása céljából rendelték el, és az elővezetendő személy hitelt érdemlően igazolja a pénzbírság kifizetését. El kell állni az elővezetéstől akkor is, ha elővezetés közben az elővezetendő személy a szabálysértési eljárásban kiszabott pénzbírságot megfizeti és ezt hitelt érdemlően igazolja.
 
-(4) Ha a NAV hatáskörébe tartozó szándékos bűncselekmény esetén a pénzügyőrnek tudomására jut, hogy az elővezetendő személy a honvédek jogállásáról szóló törvény hatálya alá tartozó tényleges szolgálatot teljesítő személy vagy a rendvédelmi feladatokat ellátó szerv hivatásos állományú tagja, az elővezetést az elővezetendő személy szolgálati elöljárójának értesítése mellett végrehajtja, vagy az elővezetendő személy szolgálati elöljáróját az elővezetés foganatosítása érdekében megkeresi.
+(4)[^5] Ha a NAV hatáskörébe tartozó szándékos bűncselekmény esetén a pénzügyőrnek tudomására jut, hogy az elővezetendő személy a honvédek jogállásáról szóló törvény hatálya alá tartozó tényleges szolgálatot teljesítő személy, a rendvédelmi feladatokat ellátó szerv hivatásos állományú tagja vagy a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja, az elővezetést az elővezetendő személy szolgálati elöljárójának értesítése mellett végrehajtja, vagy az elővezetendő személy szolgálati elöljáróját az elővezetés foganatosítása érdekében megkeresi.
 
 (5) Ha az elővezetés bármely okból nem hajtható végre, ezt a körülményt a pénzügyőr haladéktalanul jelenti szolgálati elöljárójának, aki erről, valamint a végrehajtást akadályozó okról soron kívül tájékoztatja az elővezetés elrendelő határozatot kiadó szervet.
+
+[^5]: A 29. § (4) bekezdése a 67/2025. (XII. 31.) NGM rendelet 1. § e) pontja szerint módosított szöveg.
