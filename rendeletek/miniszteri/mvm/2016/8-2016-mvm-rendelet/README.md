@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2024-05-17 | 2016-8-20-6N.42 | 7/2024. (V. 16.) MVM rendelet |
 | 2024-10-01 | 2016-8-20-6N.43 | 9/2024. (IX. 30.) MvM rendelet |
 | 2025-04-05 | 2016-8-20-6N.44 | 1/2025. (IV. 4.) MvM rendelet |
+| 2026-01-01 | 2016-8-20-6N.45 | 3/2025. (XII. 30.) MvM rendelet |

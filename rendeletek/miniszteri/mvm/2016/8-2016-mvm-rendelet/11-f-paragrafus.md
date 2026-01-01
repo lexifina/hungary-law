@@ -1,3 +1,3 @@
-11/F. §[^62]
+11/F. §[^100]
 
-[^62]: A 11/F. §-t a 8/2023. (XII. 28.) MVM rendelet 25. § c) pontja hatályon kívül helyezte.
+[^100]: A 11/F. §-t a 8/2023. (XII. 28.) MVM rendelet 25. § c) pontja hatályon kívül helyezte.

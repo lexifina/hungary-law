@@ -6,15 +6,15 @@
 
 ## 4. § E fejezet alkalmazásában
 
-1. alapkutatás: a 651/2014/EU bizottsági rendelet 2. cikk 84. pontja szerinti kísérleti vagy elméleti munka,
+1.[^17]
 
-1a.[^17] acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
+1a.[^18] acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
 
 2. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
 3. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
-3a.[^18] áttelepítés: ha
+3a.[^19] áttelepítés: ha
 
 a) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó azonos vagy hasonló tevékenységet vagy annak egy részét az EGT megállapodás egyik szerződő felének területén található létesítményből az EGT megállapodás egy másik szerződő felének területén található azon létesítménybe helyezi át, ahol a támogatott beruházásra sor kerül,
 
@@ -22,31 +22,31 @@ b) a létesítményben előállított termék vagy nyújtott szolgáltatás lega
 
 c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó vállalkozás valamely, az EGT-n belüli eredeti létesítményében folytatott azonos vagy hasonló tevékenység körében munkahelyek szűnnek meg,
 
-4. belső energiapiaci szabályozás: a 651/2014/EU bizottsági rendelet 2. cikk 131. pontja szerinti szabályok,
+4.[^20]
 
-4a.[^19] bérköltség: a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerinti költség,
+4a.[^21] bérköltség: a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerinti költség,
 
 5. dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghatározhatóan az érintett vállalkozás igényeihez igazítottan jön létre,
 
-6.[^20] egy és ugyanazon vállalkozás: a 2023/2831/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+6.[^22] egy és ugyanazon vállalkozás: a 2023/2831/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
-7. eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti fejlesztés,
+7.[^23]
 
-7a.[^21] elsődleges mezőgazdasági termelés: a 651/2014/EU bizottsági rendelet 2. cikk 9. pontja szerinti termelés,
+7a.[^24] elsődleges mezőgazdasági termelés: a 651/2014/EU bizottsági rendelet 2. cikk 9. pontja szerinti termelés,
 
 8. elszámolható költség: az Atr. 2. § 6. pontja szerinti költség,
 
-9. energetikai infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 130. pontja szerinti fizikai berendezés vagy létesítmény,
+9.[^25]
 
-10. energiahatékonyság: a 651/2014/EU bizottsági rendelet 2. cikk 103. pontja szerinti megtakarított energiamennyiség,
+10.[^26]
 
-11. energiahatékonysági alap: a 651/2014/EU bizottsági rendelet 2. cikk 105. pontja szerinti beruházási eszköz,
+11.[^27]
 
-12. energiahatékonysági alap kezelője: a 651/2014/EU bizottsági rendelet 2. cikk 106. pontja szerinti személy,
+12.[^28]
 
 13. ésszerű nyereség: a 651/2014/EU bizottsági rendelet 2. cikk 142. pontja szerinti nyereség,
 
-13a.[^22] finanszírozási hiány: a 651/2014/EU bizottsági rendelet 2. cikk 118. pontja szerinti hiány,
+13a.[^29]
 
 14. független magánbefektető: olyan magánbefektető, amely a befektetés tárgyát képező kis- és középvállalkozásnak nem tulajdonosa, például a tulajdonosi szerkezettől függetlenül az üzleti angyal és a pénzügyi közvetítő, ha az teljes mértékben viseli befektetése kockázatát,
 
@@ -56,87 +56,87 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 17. hitel: olyan megállapodás, amelyben a hitelező kötelezi magát, hogy meghatározott pénzösszeget meghatározott időre a hitelfelvevő rendelkezésére bocsát, és amely a hitelfelvevőt arra kötelezi, hogy meghatározott időszakon belül visszafizesse az összeget, például kölcsön vagy egyéb finanszírozási eszköz, ideértve a lízinget is, amely a hitelező számára elsődlegesen minimumhozamot nyújt azzal, hogy már meglévő hitel kiváltása nem finanszírozható,
 
-17a.[^23] hivatásos csapat: az a sportszervezet, amely hivatásos sportolót alkalmaz,
+17a.[^30]
 
-17b.[^24] hivatásos sportoló: az a sportoló, aki jövedelemszerzési céllal, foglalkozásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet,
+17b.[^31]
 
-17c.[^25] hőszivattyú: a 651/2014/EU bizottsági rendelet 2. cikk 108b. pontja szerinti gép, készülék vagy berendezés,
+17c.[^32]
 
 18. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
-18a.[^26] induló beruházás: a 651/2014/EU bizottsági rendelet 2. cikk 49. pontja szerinti beruházás,
+18a.[^33] induló beruházás: a 651/2014/EU bizottsági rendelet 2. cikk 49. pontja szerinti beruházás,
 
-19. innovációs klaszter: a 651/2014/EU bizottsági rendelet 2. cikk 92. pontja szerinti csoport,
+19.[^34]
 
-20. innovációs támogató szolgáltatás: a 651/2014/EU bizottsági rendelet 2. cikk 95. pontja szerinti szolgáltatás,
+20.[^35]
 
-21. innovációs tanácsadás: a 651/2014/EU bizottsági rendelet 2. cikk 94. pontja szerinti tanácsadás, segítségnyújtás és képzés,
+21.[^36]
 
-22. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat,
+22.[^37]
 
-22a.[^27] kapcsolt energiatermelés vagy kapcsolt hő- és villamosenergia-termelés: a 651/2014/EU bizottsági rendelet 2. cikk 108. pontja szerinti energiatermelés,
+22a.[^38]
 
-23. kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás,
+23.[^39]
 
 24. kilépési stratégia: adott részesedésre vonatkozó tulajdonviszony pénzügyi közvetítő vagy befektető általi megszüntetésére vonatkozó terv, például kereskedelmi értékesítés, leírás, részvények, kölcsönök visszafizetése, más pénzügyi közvetítő vagy egyéb befektető részére történő eladás, pénzügyi intézmény részére történő eladás, valamint nyilvános forgalomba hozatallal történő értékesítés,
 
-25. kísérleti fejlesztés: a 651/2014/EU bizottsági rendelet 2. cikk 86. pontja szerinti tevékenység,
+25.[^40]
 
 26. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
 
-27. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység,
+27.[^41]
 
 28. közszolgáltatás: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás,
 
-29. kutatási és tudásközvetítő szervezet: a 651/2014/EU bizottsági rendelet 2. cikk 83. pontja szerinti entitás,
+29.[^42]
 
-30. kutatási infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti létesítmények, erőforrások és szolgáltatások,
+30.[^43]
 
 31. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység,
 
 32. létesítmény felvásárlása: egy létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a létesítmény bezárásra került vagy – ha nem vásárolják meg – bezárásra került volna, és – annak kivételével, ha egy kisvállalkozást az eladónak a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy korábbi munkavállalója vásárol meg – a felvásárló beruházó a létesítmény tulajdonosától független harmadik fél,
 
-33. magasan képzett munkaerő: a 651/2014/EU bizottsági rendelet 2. cikk 93. pontja szerinti munkaerő,
+33.[^44]
 
 34. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti elemzés,
 
 35. megváltozott munkaképességű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 3. pontja szerinti munkavállaló,
 
-35a.[^28] mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék,
+35a.[^45] mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék,
 
-35b.[^29] mezőgazdasági termék feldolgozása: a 651/2014/EU bizottsági rendelet 2. cikk 10. pontja szerinti feldolgozás,
+35b.[^46] mezőgazdasági termék feldolgozása: a 651/2014/EU bizottsági rendelet 2. cikk 10. pontja szerinti feldolgozás,
 
-35c.[^30] mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti forgalmazás,
+35c.[^47] mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti forgalmazás,
 
-36. multifunkcionális szabadidős létesítmény: a 651/2014/EU bizottsági rendelet 55. cikk (3) bekezdése szerinti létesítmény,
+36.[^48]
 
 37. működési eredmény: a beruházás a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevétele és diszkontált működési költsége – például személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek – közötti pozitív előjelű különbség,
 
-37a.[^31] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
+37a.[^49] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 38. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás,
 
-39.[^32] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
+39.[^50] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
 
-39a.[^33] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+39a.[^51] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
 40. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
-40a.[^34] primer energia: a 651/2014/EU bizottsági rendelet 2. cikk 103a. pontja szerinti energia,
+40a.[^52]
 
-40b.[^35] regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás,
+40b.[^53] regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás,
 
 41. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
 42. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás,
 
-43. szennyezett terület: a 651/2014/EU bizottsági rendelet 2. cikk 121. pontja szerinti terület,
+43.[^54]
 
-44. szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy,
+44.[^55]
 
-45. szennyező fizet elv: a 651/2014/EU bizottsági rendelet 2. cikk 122. pontja szerinti szabály,
+45.[^56]
 
-46. szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti fejlesztés,
+46.[^57]
 
 47. szokásos piaci feltételek: a 651/2014/EU bizottsági rendelet 2. cikk 89. pontja szerinti elv,
 
@@ -146,31 +146,56 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 50. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-51. újrafeldolgozás: a 651/2014/EU bizottsági rendelet 2. cikk 128. pontja szerinti tevékenység,
+51.[^58]
 
-52. újrahasználat: a 651/2014/EU bizottsági rendelet 2. cikk 126. pontja szerinti művelet,
+52.[^59]
 
-53. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
+53.[^60]
 
-54.[^36] versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
+54.[^61]
 
-[^17]: A 4. § 1a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (1) bekezdése iktatta be.
-[^18]: A 4. § 3a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (2) bekezdése iktatta be.
-[^19]: A 4. § 4a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (3) bekezdése iktatta be.
-[^20]: A 4. § 6. pontja a 8/2023. (XII. 28.) MVM rendelet 24. § 1. pontja szerint módosított szöveg.
-[^21]: A 4. § 7a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (1) bekezdése iktatta be.
-[^22]: A 4. § 13a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (2) bekezdése iktatta be.
-[^23]: A 4. § 17a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (3) bekezdése iktatta be.
-[^24]: A 4. § 17b. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (3) bekezdése iktatta be.
-[^25]: A 4. § 17c. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (3) bekezdése iktatta be.
-[^26]: A 4. § 18a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (4) bekezdése iktatta be.
-[^27]: A 4. § 22a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (4) bekezdése iktatta be.
-[^28]: A 4. § 35a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (5) bekezdése iktatta be.
-[^29]: A 4. § 35b. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (5) bekezdése iktatta be.
-[^30]: A 4. § 35c. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (5) bekezdése iktatta be.
-[^31]: A 4. § 37a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (5) bekezdése iktatta be.
-[^32]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
-[^33]: A 4. § 39a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (6) bekezdése iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 7. § b) pontja szerint módosított szöveg.
-[^34]: A 4. § 40a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (7) bekezdése iktatta be, szövege a 8/2023. (XII. 28.) MVM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^35]: A 4. § 40b. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (7) bekezdése iktatta be.
-[^36]: A 4. § 54. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (8) bekezdése iktatta be.
+[^17]: A 4. § 1. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^18]: A 4. § 1a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (1) bekezdése iktatta be.
+[^19]: A 4. § 3a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (2) bekezdése iktatta be.
+[^20]: A 4. § 4. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^21]: A 4. § 4a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (3) bekezdése iktatta be.
+[^22]: A 4. § 6. pontja a 8/2023. (XII. 28.) MVM rendelet 24. § 1. pontja szerint módosított szöveg.
+[^23]: A 4. § 7. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^24]: A 4. § 7a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (1) bekezdése iktatta be.
+[^25]: A 4. § 9. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^26]: A 4. § 10. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^27]: A 4. § 11. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^28]: A 4. § 12. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^29]: A 4. § 13a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (2) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^30]: A 4. § 17a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (3) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^31]: A 4. § 17b. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (3) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^32]: A 4. § 17c. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (3) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^33]: A 4. § 18a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (4) bekezdése iktatta be.
+[^34]: A 4. § 19. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^35]: A 4. § 20. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^36]: A 4. § 21. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^37]: A 4. § 22. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^38]: A 4. § 22a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (4) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^39]: A 4. § 23. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^40]: A 4. § 25. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^41]: A 4. § 27. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^42]: A 4. § 29. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^43]: A 4. § 30. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^44]: A 4. § 33. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^45]: A 4. § 35a. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (5) bekezdése iktatta be.
+[^46]: A 4. § 35b. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (5) bekezdése iktatta be.
+[^47]: A 4. § 35c. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (5) bekezdése iktatta be.
+[^48]: A 4. § 36. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^49]: A 4. § 37a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (5) bekezdése iktatta be.
+[^50]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
+[^51]: A 4. § 39a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (6) bekezdése iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 7. § b) pontja szerint módosított szöveg.
+[^52]: A 4. § 40a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (7) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^53]: A 4. § 40b. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (7) bekezdése iktatta be.
+[^54]: A 4. § 43. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^55]: A 4. § 44. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^56]: A 4. § 45. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^57]: A 4. § 46. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^58]: A 4. § 51. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^59]: A 4. § 52. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^60]: A 4. § 53. pontját a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^61]: A 4. § 54. pontját a 8/2023. (XII. 28.) MVM rendelet 2. § (8) bekezdése iktatta be, a 3/2025. (XII. 30.) MvM rendelet 4. § 1. pontja hatályon kívül helyezte.

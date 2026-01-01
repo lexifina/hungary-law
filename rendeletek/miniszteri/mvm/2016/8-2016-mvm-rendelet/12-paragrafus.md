@@ -1,5 +1,5 @@
-## 8. A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás
+## 8.[^102]
 
-12. § (1) A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+12. §
 
-(2) A támogatás keretében a külső szakértő által nyújtott tanácsadási szolgáltatás költsége számolható el, azzal, hogy az érintett szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység és nem kapcsolódhat a vállalkozás szokásos működési költségeihez (például folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy hirdetéshez).
+[^102]: A 8. alcímet (12. §-t) a 3/2025. (XII. 30.) MvM rendelet 4. § 12. pontja hatályon kívül helyezte.

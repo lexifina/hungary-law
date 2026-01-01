@@ -12,7 +12,7 @@ kell levonni az elszámolható költségekből.
 
 a) az infrastruktúra építésének, korszerűsítésének, bővítésének, megvásárlásának, megőrzésének és fejlesztésének költsége, ha az infrastruktúra időbeli vagy térbeli kapacitását évente legalább 80%-ban kulturális célra használják,
 
-b)[^82] a kulturális örökség megszerzésének költsége, ideértve a kulturális örökség bérletének, birtokátruházásának és a kulturális örökség áthelyezésének költségeit is,
+b)[^117] a kulturális örökség megszerzésének költsége, ideértve a kulturális örökség bérletének, birtokátruházásának és a kulturális örökség áthelyezésének költségeit is,
 
 c) a tárgyi és szellemi kulturális örökség védelmének, megőrzésének, újjáépítésének és helyreállításának költsége (például a megfelelő körülmények között történő tárolás költsége, a speciális eszközök, anyagok használatából fakadó többletköltség, valamint a dokumentációs, kutatási, digitalizálási és publikációs költség),
 
@@ -20,4 +20,4 @@ d) a közönség kulturális örökséghez való hozzáférésének javítását
 
 e) a kulturális projektek és tevékenységek, együttműködési és csereprogramok, valamint ösztöndíjak költsége (például a kiválasztási eljárással kapcsolatos marketing és a projekt eredményeként közvetlenül felmerülő költség).
 
-[^82]: A 32. § (3) bekezdés b) pontja a 8/2023. (XII. 28.) MVM rendelet 24. § 15. pontja szerint módosított szöveg.
+[^117]: A 32. § (3) bekezdés b) pontja a 8/2023. (XII. 28.) MVM rendelet 24. § 15. pontja szerint módosított szöveg.

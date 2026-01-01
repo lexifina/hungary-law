@@ -1,4 +1,4 @@
-11/D. §[^60] (1) A támogatás keretében elszámolható
+11/D. §[^98] (1) A támogatás keretében elszámolható
 
 a) a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége,
 
@@ -58,4 +58,4 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-[^60]: A 11/D. § a 8/2023. (XII. 28.) MVM rendelet 11. §-ával megállapított szöveg.
+[^98]: A 11/D. § a 8/2023. (XII. 28.) MVM rendelet 11. §-ával megállapított szöveg.
