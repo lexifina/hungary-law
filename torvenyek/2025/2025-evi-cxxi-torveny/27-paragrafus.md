@@ -1,3 +1,5 @@
-## 9.
+## 9. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-### 27. §
+27. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 257. § (43) bekezdése helyébe a következő rendelkezés lép:
+
+„(43) A végkielégítésre és a jubileumi jutalomra jogosító szolgálati jogviszonyban töltött időt az e törvény hatálybalépése előtti időszak vonatkozásában a pénzügyőri státuszú foglalkoztatott esetében a Hszt. 2020. december 31-én hatályos 280. § (1) bekezdése szerinti szolgálati idejének figyelembevételével kell megállapítani. Ha a pénzügyőri státuszú foglalkoztatott rendelkezik 1996. évi XLIII. törvény 341/D. §-a alapján kiadott szolgálati idő igazolással, akkor kérelmére az abban a végkielégítés és a jubileumi jutalom tekintetében elismert jogviszonyban töltött időszakokat a 2012. január 1. előtti időszakra vonatkozólag a végkielégítés és a jubileumi jutalom tekintetében szolgálati jogviszonyban töltött időként, a nyugdíj előtti rendelkezési állomány tekintetében elismert jogviszonyban töltött időszakokat a 2012. január 1. előtti időszakra vonatkozólag a 232. § (1) bekezdése és a 257. § (25) bekezdése szerinti tényleges szolgálati időként figyelembe kell venni, feltéve, ha az a foglalkoztatottra nézve kedvezőbb, mint az e törvény szerinti szolgálati idő számítása.”
