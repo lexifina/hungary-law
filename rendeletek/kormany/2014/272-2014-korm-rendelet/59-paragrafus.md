@@ -2,11 +2,11 @@
 
 (2) A konzorcium létrehozására irányuló, a felhívás részeként közzétett szerződés-tervezetben foglalt rendelkezéseket is tartalmazó konzorciumi szerződéssel a támogatási kérelem benyújtására jogosult támogatást igénylők arra vállalnak kötelezettséget, hogy a projektet a támogatási kérelemben meghatározott módon közösen megvalósítják.
 
-(3)[^454] A konzorcium tagja csak az lehet, aki a felhívásban meghatározott követelményeknek megfelel és támogatásban részesülhet.
+(3)[^456] A konzorcium tagja csak az lehet, aki a felhívásban meghatározott követelményeknek megfelel és támogatásban részesülhet.
 
 (4) A konzorciumot az irányító hatósággal szemben a konzorciumi tagok által a konzorciumi szerződésben kijelölt tag képviselheti.
 
-(5)[^455] A konzorciumi tagoknak a támogatási szerződés megszegéséért való felelősségét a konzorciumi megállapodás rendezi.
+(5)[^457] A konzorciumi tagoknak a támogatási szerződés megszegéséért való felelősségét a konzorciumi megállapodás rendezi.
 
-[^454]: Az 59. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^455]: Az 59. § (5) bekezdése a 387/2017. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^456]: Az 59. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^457]: Az 59. § (5) bekezdése a 387/2017. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.

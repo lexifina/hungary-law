@@ -107,3 +107,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2024-08-01 | 2014-272-20-22.101 | 218/2024. (VII. 31.) Korm. rendelet |
 | 2025-03-14 | 2014-272-20-22.102 | 37/2025. (III. 11.) Korm. rendelet |
 | 2025-07-19 | 2014-272-20-22.103 | 202/2025. (VII. 16.) Korm. rendelet |
+| 2026-01-01 | 2014-272-20-22.104 | 384/2025. (XII. 8.) Korm. rendelet |

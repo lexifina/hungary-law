@@ -1,6 +1,6 @@
-126. § (1)[^891]
+126. § (1)[^893]
 
-(2)[^892]
+(2)[^894]
 
 (3) Ha a projekt keretében elszámolható költségről szóló bizonylat eredeti példánya elveszett vagy megsemmisült, és a bizonylat kibocsátója az általa kiállított vagy őrzött bizonylatról másolatként új bizonylatot állít ki, akkor az abban az esetben fogadható el, ha a bizonylat kibocsátója a bizonylat azonosságát szabályszerűen igazolta.
 
@@ -8,11 +8,11 @@
 
 (5) Az új bizonylatnak tartalmaznia kell, hogy az az eredetivel mindenben megegyezik. Az új bizonylat bizonyító ereje a tartalmát illetően az eredetiével azonos.
 
-(6)[^893] Az új bizonylat eredeti példányát a 4. melléklet szerint záradékolni kell és elkülönítetten kell nyilvántartani, illetve megőrizni.
+(6)[^895] Az új bizonylat eredeti példányát a 4. melléklet szerint záradékolni kell és elkülönítetten kell nyilvántartani, illetve megőrizni.
 
-(7)[^894] Kifizetési igénylés benyújtása esetén a 4. melléklet szerint záradékolt új bizonylatot kell a kifizetési igényléshez mellékelni.
+(7)[^896] Kifizetési igénylés benyújtása esetén a 4. melléklet szerint záradékolt új bizonylatot kell a kifizetési igényléshez mellékelni.
 
-[^891]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
-[^892]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
-[^893]: A 126. § (6) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 21. pontja szerint módosított szöveg.
-[^894]: A 126. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 154. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^893]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
+[^894]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
+[^895]: A 126. § (6) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^896]: A 126. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 154. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 22. pontja szerint módosított szöveg.
