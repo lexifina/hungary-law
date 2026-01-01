@@ -100,7 +100,7 @@ k) alkalmazási jogviszonyának típusát;
 
 l) foglalkoztatásának, megbízásának kezdő, illetve befejező időpontját.
 
-(10) A (9) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(10) A (9) bekezdésben meghatározott nyilvántartás a (9) bekezdés a) és f)–i) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (11) A hivatásos halőrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint annak végrehajtására kiadott rendelet és az e törvény végrehajtására kiadott rendelet határozza meg.
 

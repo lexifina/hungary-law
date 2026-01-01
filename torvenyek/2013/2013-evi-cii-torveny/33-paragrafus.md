@@ -38,7 +38,7 @@ n) a különleges rendeltetésűvé nyilvánítást;
 
 o) a halgazdálkodási kíméleti területek kijelölését.
 
-(2) Az (1) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – az (1) bekezdés b) pont ba) és bb) alpontjában, valamint az (1) bekezdés g)–i) és m) pontjában meghatározott adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A halgazdálkodásra jogosult jogosultsága időpontjától kezdődő hatállyal, illetve az adataiban történt változást követő 15 napon belül köteles az (1) bekezdés szerinti adatait, illetve az adatváltozást bejelenteni a halgazdálkodási hatóságnak.
 
