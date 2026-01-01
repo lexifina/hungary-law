@@ -52,11 +52,11 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 5.2.7. „Magyar Kártya”
 
-5.2.8. „EU Kék Kártya”
+5.2.8.[^142] az EU Kék Kártya esetén: „Tartózkodási engedély”
 
-5.2.9. „Vállalaton belül áthelyezett személy / ICT”
+5.2.9.[^143] a vállalaton belül áthelyezett személy / ICT esetén: „Tartózkodási engedély”
 
-5.2.10. „Hosszú távú mobilitási engedély / mobile ICT”
+5.2.10.[^144] a hosszú távú mobilitási engedély / mobile ICT esetén: „Tartózkodási engedély”
 
 5.2.11. „Kutatás”
 
@@ -104,7 +104,7 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 5.3.4. „Egyéb”
 
-5.4. az EU tartózkodási kártya esetén: „Huzamos tartózkodási engedéllyel rendelkező – EK”
+5.4.[^145] a huzamos tartózkodási engedéllyel rendelkező személy EU tartózkodási engedélye (EU tartózkodási kártya) esetén: „EU tartózkodási kártya”
 
 5.5. az Szmtv. 95. § (4), (7), (9) és (11) bekezdése alapján kiadott nemzeti tartózkodási kártya esetén: „Kilépési megállapodás 18. cikkének (1) bekezdése alapján”
 
@@ -120,7 +120,7 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 6.2.1. szezonális munkavállalás célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”
 
-6.2.2.[^142] beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá az engedély kiállításának jogalapja szerint „beruházás előkészítés” vagy „beruházás beüzemelés”
+6.2.2.[^146] beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá az engedély kiállításának jogalapja szerint „beruházás előkészítés” vagy „beruházás beüzemelés”
 
 6.2.3. foglalkoztatási célú tartózkodási engedély esetén: „Munkavégzésre jogosult …-nál/-nél”
 
@@ -142,7 +142,7 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 6.2.12. Vállalati Kártya Tv. 48. § (2) bekezdés b)–c) pontja szerinti kiállítása esetén: „Munkavégzésre jogosult …-nál/-nél”
 
-6.2.13.[^143] Nemzeti Kártya esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá, ha a Nemzeti Kártya határ menti ingázó munkavállaló részére kerül kiállításra: „határ menti ingázó munkavállaló”
+6.2.13.[^147] Nemzeti Kártya esetén: „Munkavégzésre jogosult …-nál/-nél”, továbbá, ha a Nemzeti Kártya határ menti ingázó munkavállaló részére kerül kiállításra: „határ menti ingázó munkavállaló”
 
 6.2.14. tanulmányi célú tartózkodási engedély esetén: „Tanulmányokat folytat …-nál/-nél”, illetve „Ösztöndíj keretében …-nál/-nél”
 
@@ -180,5 +180,21 @@ Az egyes okmányokra vonatkozó formai és tartalmi követelmények
 
 8. A regionális igazgatóság az Szmtv. 95. § (16) és (17) bekezdése alapján kiadott tartózkodási engedély esetén az engedély típusa rovatban az „Az EUSZ 50. cikke – Határ menti ingázó munkavállaló” szöveget tünteti fel.
 
-[^142]: Az 1. melléklet 6.2.2. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^143]: Az 1. melléklet 6.2.13. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
+9.[^148] A regionális igazgatóság az általa kiadott EU Kék Kártya tartózkodási engedély esetén az engedély típusa rovatban az „EU Kék Kártya” szöveget tünteti fel.
+
+10.[^149] A regionális igazgatóság az általa vállalaton belül áthelyezett személy részére kiadott tartózkodási engedély esetén az engedély típusa rovatban a „Vállalaton belül áthelyezett személy / ICT” szöveget tünteti fel.
+
+11.[^150] A regionális igazgatóság az általa hosszú távú mobilitási engedélyként kiadott tartózkodási engedély esetén az engedély típusa rovatban a „Hosszú távú mobilitási engedély / mobile ICT” szöveget tünteti fel.
+
+12.[^151] A regionális igazgatóság az általa kiadott, huzamos tartózkodási engedéllyel rendelkező személy EU tartózkodási engedélye (EU tartózkodási kártya) esetén az engedély típusa rovatban a „Huzamos tartózkodási engedéllyel rendelkező – EU” szöveget tünteti fel.
+
+[^142]: Az 1. melléklet 5.2.8. pontja a 373/2025. (XI. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^143]: Az 1. melléklet 5.2.9. pontja a 373/2025. (XI. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^144]: Az 1. melléklet 5.2.10. pontja a 373/2025. (XI. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^145]: Az 1. melléklet 5.4. pontja a 373/2025. (XI. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^146]: Az 1. melléklet 6.2.2. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^147]: Az 1. melléklet 6.2.13. pontja a 73/2025. (IV. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^148]: Az 1. melléklet 9. pontját a 373/2025. (XI. 28.) Korm. rendelet 14. §-a iktatta be.
+[^149]: Az 1. melléklet 10. pontját a 373/2025. (XI. 28.) Korm. rendelet 14. §-a iktatta be.
+[^150]: Az 1. melléklet 11. pontját a 373/2025. (XI. 28.) Korm. rendelet 14. §-a iktatta be.
+[^151]: Az 1. melléklet 12. pontját a 373/2025. (XI. 28.) Korm. rendelet 14. §-a iktatta be.
