@@ -1,1 +1,1 @@
-### 68. §
+68. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 23. § (7) bekezdése szerinti deviza-illetményalap összege 2026. évben 1401 amerikai dollár, a 25. § (4) bekezdése szerinti lakhatási költségtérítés-alap 1166 amerikai dollár, a vegyes költségtérítés-alap 989 amerikai dollár, a gyermeknevelési költségtérítés-alap 833 amerikai dollár. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 23. § (7a) bekezdése szerinti külszolgálati felkészülési illetményalap összege a 2026. évben bruttó 500 000 forint.

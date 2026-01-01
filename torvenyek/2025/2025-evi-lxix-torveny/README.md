@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2025-69-00-00
 | 2025-10-01 | 2025. évi LXIX. törvény | 2025-69-00-00.0 (közlönyállapot) |
 | 2025-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2025-69-00-00.1 |
 | 2025-12-17 | 2025. évi XCI. törvény | 2025-69-00-00.3 |
+| 2026-01-01 | 2025. évi XCI. törvény | 2025-69-00-00.2 |

@@ -1,1 +1,1 @@
-### 30. §
+30. § A szakképzésért felelős miniszter a XX. Kulturális és Innovációs Minisztérium fejezet, 20. cím, 14. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása alcím terhére átcsoportosíthat a XX. Kulturális és Innovációs Minisztérium fejezet, 6. Szakképzési Centrumok cím javára.
