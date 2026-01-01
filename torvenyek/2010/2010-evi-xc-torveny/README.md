@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-90-00-00
 | 2021-06-10 | 2021. évi LXIX. törvény | 2010-90-00-00.25 |
 | 2024-01-01 | 2023. évi LXXXIII. törvény | 2010-90-00-00.26 |
 | 2024-09-01 | 2024. évi XII. törvény | 2010-90-00-00.27 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2010-90-00-00.28 |
