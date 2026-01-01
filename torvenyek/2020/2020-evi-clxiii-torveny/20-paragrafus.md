@@ -46,7 +46,7 @@ dh) engedély nélkül telepített, illetve kivágott státuszát, ha van ilyen.
 
 e) a szakmai-jövedéki nyilvántartás vezetésének módját.
 
-(2) A gazdasági akta az (1) bekezdés a) pont af) és ag) alpontja, valamint b) és c) pontja tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(2) A gazdasági akta az (1) bekezdés a) pont af) és ag) alpontja, valamint az (1) bekezdés b) pontja szerinti adatok, továbbá az (1) bekezdés c) pontja szerinti hatósági bizonyítványok kiállításának alapjául szolgáló, a szőlőültetvény vagy ültetvényrész azonosítására, a szőlő és borászati termék jellemzőire és eredetére vonatkozó adatok tekintetében – a természetes személyazonosító adatok, valamint a cégnyilvántartásban szereplő adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A gazdasági akta az adatszolgáltató személyes adatait az adatszolgáltatási kötelezettség megszűnését követő 5 évig tartja nyilván.
 

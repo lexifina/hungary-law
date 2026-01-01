@@ -14,7 +14,11 @@ lehetséges.
 
 (2) Nem kell alkalmazni az (1) bekezdés
 
-a) b)–d) pontját a Magyarország területéről kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény,
+a) b)–d) pontját a Magyarország területéről
+
+aa) kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény, valamint
+
+ab) további feldolgozás, illetve kiszerelés céljából kiszállított, majd annak elvégzését követően visszaszállított borászati termék;
 
 b) b) és c) pontját
 
@@ -30,7 +34,7 @@ tekintetében.
 
 (2a) Szőlőmust Magyarország területéről való kivitele esetén a 9. § (1) bekezdés a) pontja szerinti származási bizonyítványt a kivitelt követően az e törvény végrehajtására kiadott kormányrendeletben meghatározott határidőn belül szükséges beszerezni.
 
-(2b)
+(2b) A Magyarország területéről a (2) bekezdés a) pont ab) alpontja szerint további feldolgozás, illetve kiszerelés céljából kiszállított borászati terméket a művelet elvégzésétől számított 7 napon belül vissza kell szállítani abba a borászati üzembe, ahonnan eredetileg elszállították.
 
 (3) A hegybíró az első származási bizonyítványt az érintett borászati termékhez kapcsolódó szüreti bejegyzés alapján adja ki.
 

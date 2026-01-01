@@ -4,9 +4,9 @@
 
 (2) A szőlő termőhelyi katasztert vezető szerv besorolja a földterületet a szőlő termőhelyi kataszterbe.
 
-(3) A szőlő termőhelyi kataszter azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít, közhiteles hatósági nyilvántartásnak minősül.
+(3) A szőlő termőhelyi kataszter azon adatok tekintetében, amelyeket e törvény végrehajtására kiadott kormányrendelet annak nyilvánít, közhitelesnek minősül.
 
-(4) A hegyközség hozzájárulása szükséges
+(4) A hegyközség illetékességi területén belül a hegyközség, a hegyközség illetékességi területen kívül a Hegyközségek Nemzeti Tanácsának (a továbbiakban: HNT) hozzájárulása szükséges
 
 a) a szőlő termőhelyi kataszterbe sorolt földterületen a csemegeszőlő-telepítést kivéve gyümölcsös, erdő vagy fásítás telepítéséhez, faiskola, halastó és nádas létesítéséhez, valamint a termőföld más célú hasznosításához,
 

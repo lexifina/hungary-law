@@ -10,4 +10,4 @@ b) a (2) bekezdés szerinti nyilatkozattételnek az ültetvény használója vag
 
 (3a) A rendeltetésszerű művelés elmulasztása miatt kiszabott bírság a szőlőültetvény fekvése szerinti hegyközség bevétele.
 
-(4) Ha a szőlőültetvény használója vagy tulajdonosa a (3) bekezdés szerinti kivágásra vonatkozó kötelezettségét nem teljesíti, a hegybíró értesíti a növénytermesztési hatóságot, amely – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 133. § (1) bekezdésében foglaltak szerint – elrendeli a döntés végrehajtását.
+(4) Ha a szőlőültetvény tulajdonosa a (3) bekezdés szerinti kivágásra vonatkozó kötelezettségét nem teljesíti, a hegybíró értesíti a növénytermesztési hatóságot, amely – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 133. § (1) bekezdésében foglaltak szerint – elrendeli a döntés végrehajtását.

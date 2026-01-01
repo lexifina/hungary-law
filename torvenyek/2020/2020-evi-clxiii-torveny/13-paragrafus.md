@@ -1,6 +1,6 @@
 ## 6. A földrajzi árujelzőt kezelő hegyközségi szervezet jogosultságai
 
-13. § (1) Az e törvény végrehajtására kiadott kormányrendeletben foglalt szempontok figyelembevételével a földrajzi árujelzőt kezelő hegyközségi szervezet a miniszter hozzájárulásával
+13. § (1) Az e törvény végrehajtására kiadott kormányrendeletben foglalt szempontok figyelembevételével a földrajzi árujelzőt kezelő hegyközségi szervezet az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) hozzájárulásával
 
 a) meghatározhatja az általa kezelt földrajzi árujelző termőterületén telepíthető fajták listáját,
 
