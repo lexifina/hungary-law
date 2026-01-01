@@ -1,0 +1,3 @@
+3. § (1) A koordináló szervezet költséghatékonysági, célszerűségi, és szakszerűségi szempontból előzetesen – a felekre nézve kötelező erővel nem rendelkező módon – véleményezi az útdíjszolgáltatási gazdasági társaság, az útdíjszedő, az útdíjellenőrzés-támogatói feladatok ellátására kijelölt szervezet, és az egyetemes útdíjszolgáltató által a használatidíj-rendszer és az útdíjrendszer üzemeltetése és fejlesztése tárgyában felmerült azon beszerzési igényét, amelynél a kijelölt szervezet közreműködőt kíván igénybe venni.
+
+(2) A koordináló szervezet az (1) bekezdésben meghatározott beszerzési igénnyel összefüggő véleményéről, annak kézhezvételétől számított 30 napon belül tájékoztatja az érintett szervezetet és a minisztert.

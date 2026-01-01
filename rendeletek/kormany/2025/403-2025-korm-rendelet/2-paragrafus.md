@@ -1,0 +1,1 @@
+2. § A közlekedésért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság (a továbbiakban: koordináló szervezet) útján biztosítja a használatidíj-rendszer és az útdíjrendszer üzemeltetésével és fejlesztésével összefüggő feladatok koordinációját.
