@@ -77,3 +77,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2025-05-31 | 2025. évi XXXII. törvény | 1996-20-00-00.101 |
 | 2025-06-20 | 2025. évi LIV. törvény | 1996-20-00-00.102 |
 | 2025-07-01 | 2025. évi XXIII. törvény | 1996-20-00-00.100 |
+| 2026-01-01 | 2025. évi CXXXVI. törvény | 1996-20-00-00.103 |

@@ -7,3 +7,5 @@
 (4) A (2) és (3) bekezdés szerinti adattovábbítás az (1) bekezdés szerinti adatkezelő által képzett egyedi tranzakciós kódra hivatkozással történik. Az egyedi tranzakciós kód képzési szabályait az adatigénylést kezdeményező adatkezelő határozza meg azzal, hogy az egyedi tranzakciós kód nem lehet azonos az (1) bekezdés szerinti azonosítóval vagy bármely egyéb, az adatkezelő által használt azonosítóval, továbbá nem származtatható azokból.
 
 (5) Az adatkezelő az adatigénylésre kapott válaszüzenet megérkezését követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatigénylés érdekében a (2) bekezdés szerint megadott azonosítót, kivéve ha annak kezelésére törvény feljogosítja.
+
+(6) Az Elektronikus Egészségügyi Szolgáltatási Térhez csatlakozott egészségügyi szolgáltató az (1)–(5) bekezdés szerinti szolgáltatást az Elektronikus Egészségügyi Szolgáltatási Tér útján éri el.

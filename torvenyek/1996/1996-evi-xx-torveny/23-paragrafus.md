@@ -46,4 +46,4 @@ t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvén
 
 u) az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság, a védettségi igazolvány kiállítása érdekében.
 
-v) a sportról szóló törvény szerinti sportszervezetek, sportszövetségek, sportköztestületek, egyéb adatszolgáltatók a nemzeti sportinformációs rendszerbe történő adatszolgáltatás, valamint a sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer működtetése érdekében.
+v) a sportról szóló törvény szerinti sportszervezetek, sportszövetségek, sportköztestületek, egyéb adatszolgáltatók a nemzeti sportinformációs rendszerbe történő adatszolgáltatás, a sportpolitikáért felelős miniszter, valamint a nemzeti sportinformációs rendszer működtetéséért felelős szerv a nemzeti sportinformációs rendszer működtetése érdekében.
