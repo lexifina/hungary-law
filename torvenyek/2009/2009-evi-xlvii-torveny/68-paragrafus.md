@@ -42,6 +42,8 @@ ca) a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § 
 
 cb) a határbiztosítási távoltartás szabályai betartásának ellenőrzése céljából a 23. § c) pontjában meghatározott adatok, amennyiben az érintettet a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §), jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vontak;
 
+cc) a feltételes ügyészi felfüggesztés ellenőrzése céljából a 23. § f) pontjában meghatározott adatok,
+
 d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
 da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
