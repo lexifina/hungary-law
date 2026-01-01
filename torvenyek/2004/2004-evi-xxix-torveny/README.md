@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-29-00-00
 | 2021-01-01 | 2020. évi XLIII. törvény | 2004-29-00-00.24 |
 | 2021-07-02 | 2021. évi LXXIX. törvény | 2004-29-00-00.25 |
 | 2022-10-26 | 2022. évi XXIX. törvény | 2004-29-00-00.26 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2004-29-00-00.27 |
