@@ -1,6 +1,6 @@
 15. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-I.[^663] A járműkísérő lap tartalmi elemei
+I.[^664] A járműkísérő lap tartalmi elemei
 
 H
 
@@ -126,12 +126,4 @@ a járműkísérő lap kiállításának helye és ideje, a kiállító aláír�
 
 (C.1.3) címe
 
-(C.4.) a jármű üzemben tartója
-
-a) a jármű tulajdonosa
-
-b) nem a jármű tulajdonosa
-
-Műszaki érvényességre vonatkozó adatok
-
-[^663]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^664]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja, a 155/2025. (VI. 23.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.

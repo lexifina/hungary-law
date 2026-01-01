@@ -280,7 +280,7 @@
 
 ## állampolgárság adat (többes állampolgárság esetén csak a magyar állampolgárság feltüntetése), születési név adat (ha eltér a viselt névtől)
 
-6. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^633]
+6. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^634]
 
 Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei 2013. január 18-ig
 
@@ -326,4 +326,4 @@ b) aki a 21. életévét betöltötte, és külön vizsgát tett a kategóriára
 
 4.5. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-[^633]: A 6. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^634]: A 6. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
