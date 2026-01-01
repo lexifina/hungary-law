@@ -1,1 +1,3 @@
-### 204. §
+204. § A hulladékról szóló 2012. évi CLXXXV. törvény 79. § (4a) bekezdése helyébe a következő rendelkezés lép:
+
+„(4a) A hulladékgazdálkodási hatóság felveszi a koncesszori alvállalkozói nyilvántartásba azokat az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozásokat, amelyek a koncesszorral, illetve koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat egyes elmeinek ellátására kötött hatályos szerződéssel rendelkeznek. A hulladékgazdálkodási hatóság vezeti, naprakészen tartja és nyilvánosan hozzáférhetővé teszi a koncesszori alvállalkozói nyilvántartást. A nyilvántartásba való felvétel és az onnan való törlés időpontja közhiteles adat.”

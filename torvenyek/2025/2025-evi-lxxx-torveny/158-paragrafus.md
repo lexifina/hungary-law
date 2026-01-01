@@ -1,1 +1,1 @@
-### 158. §
+158. § A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 8. § (1) bekezdésében a „szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatok között” szövegrész helyébe a „szolgáltató nevét, a szolgáltató lakcímét, szervezet esetén székhelyét,” szöveg lép.

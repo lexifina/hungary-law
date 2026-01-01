@@ -1,1 +1,3 @@
-### 16. §
+16. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 36/G. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a szerencsejáték-felügyeleti hatóság hatósági ellenőrzés során az (1) bekezdés szerinti jogsértő tevékenység megvalósulását észleli és a jogsértő tevékenység folytatásának megszakítása érdekében az szükséges, a hatósági eljárás befejezéséig hatósági intézkedésként végzésben az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 3 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. A végzés közlésének napja a hirdetmény közzétételét követő 3. nap. A végzés – annak az (1) bekezdés szerinti jogsértő tevékenységet végzővel való közlésére tekintet nélkül – azonnal végrehajtható.”

@@ -1,1 +1,1 @@
-### 260. §
+260. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 2. melléklet 1.1. pont a) alpontjában a „száma;” szövegrész helyébe a „száma, állampolgársági adatai, lakcím adatai, társadalombiztosítási azonosító jele;” szöveg lép.

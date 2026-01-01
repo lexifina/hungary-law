@@ -1,1 +1,1 @@
-### 288. §
+288. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § l) pontjában a „szolgáltatásokra” szövegrész helyébe a „szolgáltatásokra, az Fdvtv. 15/J. § (1) bekezdése, valamint 20. § (1) és (2) bekezdése szerinti nyilvántartás vezetésére és a nyilvántartások személyes adatnak nem minősülő adattartalmára” szöveg lép.

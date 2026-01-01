@@ -1,1 +1,3 @@
-### 2. §
+2. § A közúti közlekedésről szóló 1988. évi I. törvény a következő 19/B. §-sal egészül ki:
+
+„19/B. § A közlekedési hatóság által a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendeletben meghatározott nyilvántartások a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott adatok tekintetében közhiteles nyilvántartásnak minősülnek.”

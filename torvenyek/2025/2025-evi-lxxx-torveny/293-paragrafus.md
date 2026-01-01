@@ -1,1 +1,3 @@
-### 293. §
+293. § A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 108. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Honvédség központi nyilvántartó szerve Magyarország területén működtetett katonai futárszolgálatra kijelölt hivatásos, szerződéses és önkéntes tartalékos katona ez irányú jogosultságainak és a belföldi katonai futárszolgálat ellátásának igazolására szolgáló igazolvány kiadásával összefüggő feladatok ellátása, valamint a biztonsági okmány jogszerűtlen használatának vizsgálata céljából a 27. melléklet 1–8., 10–13. és 16. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat a katonai futár jogosultságának kezdetétől a jogosultság megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig kezeli.”

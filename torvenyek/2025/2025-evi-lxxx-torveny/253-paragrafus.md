@@ -1,1 +1,1 @@
-### 253. §
+253. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 208. § (2) bekezdésében az „– azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít –” szövegrész helyébe az „az (5) bekezdés d) pontjában foglalt adatok tekintetében” szöveg lép.

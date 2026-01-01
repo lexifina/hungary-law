@@ -1,1 +1,1 @@
-### 108. §
+108. § A mozgóképről szóló 2004. évi II. törvény 19/M. § (1) bekezdésében a „szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényt” szövegrész helyébe a „Szolg. tv.-t” szöveg lép.

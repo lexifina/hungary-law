@@ -1,1 +1,3 @@
-### 285. §
+285. § A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A gazdasági akta az (1) bekezdés a) pont af) és ag) alpontja, valamint az (1) bekezdés b) pontja szerinti adatok, továbbá az (1) bekezdés c) pontja szerinti hatósági bizonyítványok kiállításának alapjául szolgáló, a szőlőültetvény vagy ültetvényrész azonosítására, a szőlő és borászati termék jellemzőire és eredetére vonatkozó adatok tekintetében – a természetes személyazonosító adatok, valamint a cégnyilvántartásban szereplő adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.”
