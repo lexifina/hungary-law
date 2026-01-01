@@ -14,137 +14,60 @@
 
 ## Határidő: az 5. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva – az 1. pontban és a 3. pontban foglalt cél megvalósítása érdekében – 4 350 675 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, az 1. melléklet szerint.
+## 5.[^1]
 
-## Felelős: pénzügyminiszter
+## 6.[^2] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelésével kapcsolatos feladatok ellátásának 2023. évi folytatása érdekében a Karitatív Tanács szervezeti tagjainak támogatásával;
 
-## Határidő: azonnal
-
-## 6.[^1] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelésével kapcsolatos feladatok ellátásának 2023. évi folytatása érdekében a Karitatív Tanács szervezeti tagjainak támogatásával;
-
-## 7.[^2] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 6. pontban meghatározott cél megvalósítása érdekében 1 500 900 000 forint forrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
+## 7.[^3] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 6. pontban meghatározott cél megvalósítása érdekében 1 500 900 000 forint forrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
 
 | Felelős: | pénzügyminiszter a miniszterelnök általános helyettese |
 
 | Határidő: | 2023. január 31. |
 
-## 8.[^3] felhívja a miniszterelnök általános helyettesét, hogy a 6. pontban foglalt cél megvalósítása érdekében, a 7. pontban meghatározott forrás terhére a Karitatív Tanács szervezeti tagjaival szervezetenként 250 000 000 forint támogatási összegben létesítsen támogatási jogviszonyt.
+## 8.[^4] felhívja a miniszterelnök általános helyettesét, hogy a 6. pontban foglalt cél megvalósítása érdekében, a 7. pontban meghatározott forrás terhére a Karitatív Tanács szervezeti tagjaival szervezetenként 250 000 000 forint támogatási összegben létesítsen támogatási jogviszonyt.
 
 | Felelős: | a miniszterelnök általános helyettese |
 
 | Határidő: | a 7. pontban meghatározott forrás rendelkezésre állását követően azonnal |
 
-## 9.[^4] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelésével kapcsolatos feladatok ellátásának 2023. évi kiegészítése érdekében a Karitatív Tanács szervezeti tagjának további támogatásával;
+## 9.[^5] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelésével kapcsolatos feladatok ellátásának 2023. évi kiegészítése érdekében a Karitatív Tanács szervezeti tagjának további támogatásával;
 
-## 10.[^5] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 9. pontban meghatározott cél megvalósítása érdekében 33 377 515 forint forrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcíme javára;
+## 10.[^6] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 9. pontban meghatározott cél megvalósítása érdekében 33 377 515 forint forrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcíme javára;
 
 | Felelős: | pénzügyminiszter a miniszterelnök általános helyettese |
 
 | Határidő: | azonnal |
 
-## 11.[^6] felhívja a miniszterelnök általános helyettesét, hogy a 9. pontban foglalt cél megvalósítása érdekében, a 10. pontban meghatározott forrás terhére 33 357 500 forint támogatási összegben létesítsen támogatási jogviszonyt.
+## 11.[^7] felhívja a miniszterelnök általános helyettesét, hogy a 9. pontban foglalt cél megvalósítása érdekében, a 10. pontban meghatározott forrás terhére 33 357 500 forint támogatási összegben létesítsen támogatási jogviszonyt.
 
 | Felelős: | a miniszterelnök általános helyettese |
 
 | Határidő: | a 10. pontban meghatározott forrás rendelkezésre állását követően azonnal |
 
-## 12.[^7] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelése érdekében a záhonyi és beregsurányi határátkelők melletti segítségpontok üzemeltetésének 2024. évi támogatásával;
+## 12.[^8] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelése érdekében a záhonyi és beregsurányi határátkelők melletti segítségpontok üzemeltetésének 2024. évi támogatásával;
 
-## 13.[^8] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 12. pontban meghatározott cél megvalósítása érdekében 120 072 000 forint forrás rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
+## 13.[^9] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 12. pontban meghatározott cél megvalósítása érdekében 120 072 000 forint forrás rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
 
 | Felelős: | pénzügyminiszter a miniszterelnök általános helyettese |
 
 | Határidő: | azonnal |
 
-## 14.[^9] felhívja a miniszterelnök általános helyettesét, hogy a 12. pontban foglalt cél megvalósítása érdekében, a 13. pontban meghatározott forrás terhére segítségpontonként 60 000 000 forint támogatási összegben létesítsen támogatási jogviszonyt.
+## 14.[^10] felhívja a miniszterelnök általános helyettesét, hogy a 12. pontban foglalt cél megvalósítása érdekében, a 13. pontban meghatározott forrás terhére segítségpontonként 60 000 000 forint támogatási összegben létesítsen támogatási jogviszonyt.
 
 | Felelős: | a miniszterelnök általános helyettese |
 
 | Határidő: | a 13. pontban meghatározott forrás rendelkezésre állását követően azonnal |
 
-1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^10]
+1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^11]
 
-2X01608M_0
-
-| XI. Miniszterelnökség XLII. A költségvetés közvetlen bevételei és kiadásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2022. forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 367206 |  |  |  | 28 |  |  |  |  |  | Hungary Helps Programhoz kapcsolódó támogatások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 675 000 |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 1 350 000 000 |  |  |  |
-
-|  |  |  |  | 30 |  |  |  |  |  | Egyházi célú központi költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 386295 |  |  |  |  | 1 |  |  |  |  |  | Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 3 000 000 000 |  |  |  |
-
-|  | XLII. |  |  |  |  |  | A költségvetés közvetlen bevételei és kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 374873 |  | 43 |  |  |  |  |  | Központi Maradványelszámolási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -4 350 675 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 367206 |  |  |  | 28 |  |  |  |  |  | Hungary Helps Programhoz kapcsolódó támogatások |  |  |  |  |  |  |  |  | 1 350 675 000 |  |  |  |
-
-|  |  |  |  | 30 |  |  |  |  |  | Egyházi célú központi költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 386295 |  |  |  |  | 1 |  |  |  |  |  | Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása |  |  |  |  |  |  |  |  | 3 000 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | egyéb: |  | azonnal |  | 4 350 675 000 |  |  |  |  |  |  |  |  | 4 350 675 000 |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: A 6. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
-[^2]: A 7. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
-[^3]: A 8. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
-[^4]: A 9. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
-[^5]: A 10. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
-[^6]: A 11. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
-[^7]: A 12. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
-[^8]: A 13. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
-[^9]: A 14. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
-[^10]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
+[^3]: A 7. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
+[^4]: A 8. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
+[^5]: A 9. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
+[^6]: A 10. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
+[^7]: A 11. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
+[^8]: A 12. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
+[^9]: A 13. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
+[^10]: A 14. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
+[^11]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
