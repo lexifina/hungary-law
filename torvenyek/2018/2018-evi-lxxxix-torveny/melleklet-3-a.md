@@ -6,59 +6,115 @@
 
 ## I. Felsőoktatási intézménytörzs
 
-## A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetve az ezt követően fennálló – személyes adatokat tartalmazza:
+## A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetve az ezt követően fennálló – személyes adatokat tartalmazza, amely adatok közül az 1.1.2., 1.2.2., 1.3.2., 1.5.1., 1.5.2.2., 1.6.2., 2.1., 2.2.2., 2.3.2., 3.1., 3.2.2., 4.1.2., 4.2.2., 5.2., 6.1.2. és 6.2.2. pontban meghatározott adatok közhiteles adatoknak minősülnek:
 
 ## 1. az államilag elismert felsőoktatási intézmény
 
-## 1.1. fenntartójának, tulajdonosának neve, székhelyének címe,
+## 1.1. fenntartójának, tulajdonosának
 
-## 1.2. tisztségviselőinek – rektor, kancellár, elnök, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – családi és utóneve,
+## 1.1.1. neve, székhelyének címe,
 
-## 1.3. közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak családi és utóneve és értesítési címe,
+## 1.1.2. fenntartói vagy tulajdonosi minősége,
+
+## 1.2. tisztségviselőinek – rektor, kancellár, elnök, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője –
+
+## 1.2.1. családi és utóneve,
+
+## 1.2.2. tisztségviselői minősége,
+
+## 1.3. közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak
+
+## 1.3.1. családi és utóneve és értesítési címe,
+
+## 1.3.2. felügyelőbizottsági tagi minősége,
 
 ## 1.4.
 
-## 1.5. magán felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységének – ide nem értve az Nftv. 14. § (3) bekezdése szerinti, törvény alapján jogi személyiségű szervezeti egységként működtetett köznevelési intézményt, szakképző intézményt – teljes neve, címe, képviselőjének családi és utóneve,
+## 1.5. magán felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységének – ide nem értve az Nftv. 14. § (3) bekezdése szerinti, törvény alapján jogi személyiségű szervezeti egységként működtetett köznevelési intézményt, szakképző intézményt –
 
-## 1.6. duális képzéssel, hallgatók számára szálláshely biztosításával, valamint az Nftv. 78. § (1) bekezdése szerinti külföldi székhelyen kívüli képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
+## 1.5.1. teljes neve, címe,
+
+## 1.5.2. képviselőjének
+
+## 1.5.2.1. családi és utóneve,
+
+## 1.5.2.2. képviselői minősége,
+
+## 1.6. hallgatók számára szálláshely biztosításával, valamint az Nftv. 78. § (1) bekezdése szerinti külföldi székhelyen kívüli képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó
+
+## 1.6.1. neve, címe, adószáma,
+
+## 1.6.2. szálláshely-biztosítói vagy képzésihelyszín-biztosítói minősége.
 
 ## 2. a Magyarországon működő külföldi felsőoktatási intézmény
 
-## 2.1. fenntartójának neve, székhelyének címe,
+## 2.1. fenntartójának neve, székhelyének címe, fenntartói minősége,
 
-## 2.2. magyarországi képviselőjének családi és utóneve, értesítési címe;
+## 2.2. magyarországi képviselőjének
 
-## 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
+## 2.2.1. családi és utóneve, értesítési címe,
+
+## 2.2.2. magyarországi képviselői minősége,
+
+## 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó
+
+## 2.3.1. neve, címe, adószáma,
+
+## 2.3.2. képzésihelyszín-biztosítói minősége.
 
 ## 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
 
 ## 3.1. a szervezet neve, székhelye,
 
-## 3.2. a vezetőjének, felügyelő bizottsága tagjainak családi és utóneve és értesítési címe;
+## 3.2. a vezetőjének, felügyelő bizottsága tagjainak
+
+## 3.2.1. családi és utóneve és értesítési címe,
+
+## 3.2.2. vezetői vagy felügyelő bizottsági tagsági minősége.
 
 ## 4. a diákotthon
 
-## 4.1. fenntartójának neve, székhelyének címe,
+## 4.1. fenntartójának
 
-## 4.2. vezetőjének és a szakkollégium képviselőjének családi és utóneve;
+## 4.1.1. neve, székhelyének címe,
 
-## 5. a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve.
+## 4.1.2. fenntartói minősége,
+
+## 4.2. vezetőjének és a szakkollégium képviselőjének
+
+## 4.2.1. családi és utóneve,
+
+## 4.2.2. diákotthon-vezetői vagy szakkollégiumi képviselői minősége.
+
+## 5. a közösségi felsőoktatási képzési központ képviselőjének
+
+## 5.1. családi és utóneve,
+
+## 5.2. közösségi felsőoktatási képzési központ képviselői minősége.
 
 ## 6. Az Nftv. 54. §-ában meghatározott szervezet által létesített szakkollégium esetében
 
-## 6.1. a szakkollégium képviselőjének családi és utóneve
+## 6.1. a szakkollégium képviselőjének
 
-## 6.2. a szakkollégiumot létesítő szervezet neve, székhelye.
+## 6.1.1. családi és utóneve,
+
+## 6.1.2. szakkollégiumi képviselői minősége,
+
+## 6.2. a szakkollégiumot létesítő szervezet
+
+## 6.2.1. neve, székhelye,
+
+## 6.2.2. szakkollégium-létesítői minősége.
 
 ## II. Felsőoktatási alkalmazotti személyi törzs
 
-## A felsőoktatási alkalmazotti személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített alkalmazotti jogviszonnyal rendelkező személyek alábbi személyes adatait tartalmazza:
+## A felsőoktatási alkalmazotti személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített alkalmazotti jogviszonnyal rendelkező személyek alábbi személyes adatait tartalmazza, amely adatok közül a 2–13. pontban meghatározott adatok közhiteles adatoknak minősülnek:
 
-## 1. oktatási azonosító szám,
+## 1. oktatási azonosító szám, természetes személyazonosító adatai, nem, állampolgársági adatok, lakcím adatai, tartózkodás jogcíme, a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és oka, adóazonosító jel, társadalombiztosítási azonosító jel, személyazonosító okmány száma,
 
 ## 2. értesítési cím, elektronikus levélcím,
 
-## 3. végzettségi szint, szakképzettség, idegennyelv-tudás, tudományos fokozat,
+## 3. végzettségi szint, szakképzettség, idegennyelv-tudás, tudományos fokozat, habilitáció,
 
 ## 4. a foglalkoztatási jogviszony típusa,
 
@@ -84,9 +140,9 @@
 
 ## III. Felsőoktatási felvételi alrendszer
 
-## A felsőoktatási felvételi alrendszer a jelentkező alábbi személyes adatait tartalmazza:
+## A felsőoktatási felvételi alrendszer a jelentkező alábbi személyes adatait tartalmazza, amely adatok közül a 2. és 11. pontban meghatározott adatok közhiteles adatoknak minősülnek:
 
-## 1. oktatási azonosító száma,
+## 1. oktatási azonosító száma, természetes személyazonosító adatai, neme, állampolgársági adatai, lakcím adatai, tartózkodás jogcíme,
 
 ## 2. felvételi azonosítója,
 
@@ -106,11 +162,13 @@
 
 ## 10. központi ügyfél-regisztrációs nyilvántartási kapcsolati kódja.
 
+## 11. a besorolási döntésből az érdemi döntést és a jelentkező valamennyi jelentkezésére vonatkozóan a számított pontszámot.
+
 ## IV. Hallgatói személyi törzs
 
-## A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
+## A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza, amely adatok közül a 2–22. pontban meghatározott adatok közhiteles adatoknak minősülnek:
 
-## 1. oktatási azonosító száma, adóazonosító jele,társadalombiztosítási azonosító jele,
+## 1. oktatási azonosító száma, természetes személyazonosító adatai, neme, állampolgársági adatai, lakcím adatai, tartózkodás jogcíme, a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és oka, adóazonosító jele, társadalombiztosítási azonosító jele, személyazonosító okmány száma,
 
 ## 2. értesítési címe, elektronikus levélcíme,
 
@@ -120,7 +178,7 @@
 
 ## 5. a jogviszony típusa, keletkezésének és megszűnésének időpontja, szünetelése,
 
-## 6. a hallgató által folytatott képzés megnevezése, a képzés kezdő dátuma, megkezdésének módja, a képzés költségviselési formája és munkarendje, megkezdett félévek, a képzés befejezésének dátuma és indoka,
+## 6. a hallgató által folytatott képzés megnevezése, a képzés kezdő dátuma, megkezdésének módja, a képzés költségviselési formája és munkarendje, megkezdett félévek, a képzés befejezésének dátuma és indoka, a képzés egyéb adata,
 
 ## 7. a képzés során, illetve azt megelőzően igénybe vett támogatási idő,
 
@@ -144,21 +202,21 @@
 
 ## 17. diákotthoni elhelyezés esetén a diákotthon megnevezése és OM azonosítója, az adott félévre vonatkozó elhelyezés ténye,
 
-## 18. a kiadott oklevél, oklevélmelléklet adata:
+## 18. a kiadott oklevél adata:
 
 ## 18.1. az oklevéllel megszerzett szakképzettség megnevezése,
 
-## 18.2. az oklevél, oklevélmelléklet kelte,
+## 18.2. az oklevél kelte,
 
 ## 18.3. az oklevél aláírójának családi és utóneve,
 
-## 18.4. az oklevél, oklevélmelléklet kiállítására szolgáló nyomtatvány sorszáma,
+## 18.4. az oklevél kiállítására szolgáló nyomtatvány sorszáma,
 
 ## 18.5. a hallgató törzskönyvi száma,
 
-## 18.6. az oklevél, oklevélmelléklet nyelve,
+## 18.6. az oklevél nyelve,
 
-## 18.7. az oklevél, oklevélmelléklet egyéb adata,
+## 18.7. az oklevél egyéb adata,
 
 ## 19. az általa fizetett díjak és térítések adata,
 
@@ -171,3 +229,5 @@
 ## 23. a Diákhitel Központ által megítélt hitel fennálltára, típusára, valamint kötött felhasználású hitel esetén a hallgató által igényelt diákhitel összegére, a hitelszerződés számára, a felsőoktatási intézmény részére átutalt összegre és az átutalás dátumára vonatkozó adat.
 
 3/A. melléklet a 2018. évi LXXXIX. törvényhez
+
+A felnőttképzés adatszolgáltatási rendszere személyes adatokat kezelő alrendszerei

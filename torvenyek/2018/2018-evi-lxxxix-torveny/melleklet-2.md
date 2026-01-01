@@ -6,7 +6,7 @@ A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő ren
 
 1.1. a pedagógiai szakszolgálati ellátásban részesülő személy személyes adatai:
 
-a) oktatási azonosító száma;
+a) oktatási azonosító száma, állampolgársági adatai, lakcím adatai, társadalombiztosítási azonosító jele;
 
 b) az 1. melléklet I. rész b), e)–g) pontjában foglalt adatai, valamint hátrányos vagy halmozottan hátrányos helyzete;
 

@@ -1,4 +1,4 @@
-2. § Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban az 1. § (1) bekezdése szerinti célból a természetes személy alábbi adatait kezeli:
+2. § (1) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban az 1. § (1) bekezdése szerinti célból a természetes személy alábbi adatait kezeli:
 
 a) családi és utónév,
 
@@ -29,3 +29,5 @@ m) az azonosításhoz szükséges kapcsolati kódok,
 n) a 4. § (1) bekezdése szerinti szakrendszerek 1–6. mellékletben meghatározott adatai.
 
 o) nyilvántartás jogcímének adata.
+
+(2) Az (1) bekezdés a)–g) pontjában szereplő adat közhiteles adatnak minősül azon természetes személyek tekintetében, akik nem szerepelnek a személyiadat- és lakcímnyilvántartásban, a központi idegenrendészeti nyilvántartásban vagy az elektronikus ügyintézést igénybe vevő külföldön élő természetes személyek nyilvántartásában. Közhiteles továbbá az (1) bekezdés l) pontja szerinti adat.

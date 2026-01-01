@@ -1,6 +1,6 @@
 ## A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása
 
-## A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása közhiteles nyilvántartásként – ide nem értve a vizsgázó oktatási azonosítóját – 2000. január 1-je óta az alábbi személyes adatokat tartalmazza:
+## A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása az a) és b) pontban, a c) pont ca) és cc) alpontjában, valamint a d) pontban foglalt adatok tekintetében közhiteles nyilvántartás. A nyilvántartás 2000. január 1-je óta – a vizsgázó oktatási azonosítója kivételével – az alábbi személyes adatokat tartalmazza:
 
 ## a) a vizsgázó személy oktatási azonosító száma;
 
