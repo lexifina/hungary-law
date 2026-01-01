@@ -6,8 +6,8 @@
 
 | 3 | Energiahatékonysági kötelezettségi rendszer (járulékfizetés) | 0,001 | 0,004 | 0,008 | 0,014 | 0,020 | 0,027 | 0,035 | 0,044 | 0,055 |
 
-9. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^147]
+9. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^155]
 
 Az Európai Bizottság felé teljesítendő tájékoztatási kötelezettség esetkörei és teljesítésük részletszabályai
 
-[^147]: A 9. melléklet a 459/2024. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^155]: A 9. melléklet a 459/2024. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

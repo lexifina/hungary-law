@@ -2,6 +2,6 @@
 
 ## 382/2007. (XII. 23.) Korm. rendelet módosítása
 
-32. §[^112]
+32. §[^119]
 
-[^112]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

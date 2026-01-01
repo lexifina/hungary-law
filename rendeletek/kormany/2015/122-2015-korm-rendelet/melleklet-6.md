@@ -1,52 +1,60 @@
-6. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^129]
+6. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^136]
 
 1. Átváltási tényezők
 
-## A végsőenergia-megtakarítás meghatározásakor a tüzelőanyagok energiatartalmát az 1.1. táblázatban feltüntetett felső fűtőérték (égéshő) értékekkel kell figyelembe venni.
+## A végsőenergia-megtakarítás meghatározásakor a tüzelőanyagok energiatartalmát az 1.1. táblázatban feltüntetett alsó fűtőérték értékekkel kell figyelembe venni.
 
-1.1. Egyes végső felhasználásra szánt tüzelőanyagok energiatartalma (felső fűtőérték) – átváltási táblázat
+1.1. Egyes végső felhasználásra szánt tüzelőanyagok energiatartalma (alsó fűtőérték) – átváltási táblázat
 
-| Égéshő – GCV – Felső fűtőérték |
+| Fűtőérték – NCV – Alsó fűtőérték |
 
-|  | Energiahordozó | Égéshő – GCV [MJ/kg] | Égéshő – GCV [MJ/l] | Égéshő – GCV [MJ/m³] | Égéshő – GCV [kWh/kg] | Égéshő – GCV [kWh/l] | Égéshő – GCV [kWh/m³] |
+|  | Energiahordozó | Fűtőérték – NCV [MJ/kg] | Fűtőérték – NCV [MJ/l] | Fűtőérték – NCV [MJ/m³] | Fűtőérték – NCV [kWh/kg] | Fűtőérték – NCV [kWh/l] | Fűtőérték – NCV [kWh/m³] |
 
-| 1. | koksz | 33,5 |  |  | 9,31 |  |  |
+| 1. | koksz | 28,2 | – | – | 7,83 |  |  |
 
-| 2. | kőszén (feketeszén) | 32 |  |  | 8,89 |  |  |
+| 2. | kőszén (feketeszén) | 29 |  |  | 8,06 |  |  |
 
-| 3. | barnaszén | 27,6 |  |  | 7,67 |  |  |
+| 3. | barnaszén | 19,6 |  |  | 5,44 |  |  |
 
-| 4. | fekete lignit | 12,56 |  |  | 3,49 |  |  |
+| 4. | barnaszén brikett | – |  |  |  |  |  |
 
-| 5. | tőzegbrikett | 16,17 |  |  | 4,49 |  |  |
+| 5. | fekete lignit | 14,5 |  |  | 4,03 |  |  |
 
-| 6. | fűtőolaj (nehéz olaj) | 43,76 | 42,16 |  | 12,16 | 11,71 |  |
+| 6. | tőzeg | 9,76 |  |  | 2,71 |  |  |
 
-| 7. | fűtőolaj (könnyű olaj) | 44,4 | 41,07 |  | 12,33 | 11,41 |  |
+| 7. | tőzegbrikett | – |  |  |  |  |  |
 
-| 8. | közlekedési dízel | 45,66 | 38,53 |  | 12,68 | 10,70 |  |
+| 8. | olajpala | 8,9 |  |  | 2,47 |  |  |
 
-| 9. | biodízel | 40,2 | 35,7 |  | 11,17 | 9,92 |  |
+| 9. | fűtőolaj (nehéz olaj) | 41,57 | 40,05 |  | 11,55 | 11,12 |  |
 
-| 10. | motorbenzin (benzin) | 47,1 | 34,89 |  | 13,08 | 9,69 |  |
+| 10. | fűtőolaj (könnyű olaj) | 42,18 | 39,02 |  | 11,72 | 10,84 |  |
 
-| 11. | bioetanol | 29,7 | 23,43 |  | 8,25 | 6,51 |  |
+| 11. | közlekedési dízel | 43 | 36,34 |  | 11,94 | 10,09 |  |
 
-| 12. | paraffin | 46 | 41,40 |  | 12,78 | 11,50 |  |
+| 12. | biodízel | 37,5 | 33,3 |  | 10,42 | 9,25 |  |
 
-| 13. | LPG (cseppfolyósított propán-bután gáz) | 50,08 | 26,15 |  | 13,91 | 7,26 |  |
+| 13. | motorbenzin (benzin) | 44,3 | 33,11 |  | 12,31 | 9,20 |  |
 
-| 14. | földgáz (vezetékes vagy CNG)* |  |  | 38,8 |  |  | 10,78 |
+| 14. | bioetanol | 27 | 21,3 |  | 7,50 | 5,92 |  |
 
-| 15. | LNG (cseppfolyósított földgáz) | 55,2 | 23,6 |  | 15,33 | 6,56 |  |
+| 15. | paraffin | 41,5 | 37,4 |  | 11,53 | 10,39 |  |
 
-| 16. | fa (25%-os nedvességtartalmú)** | 13,365 |  |  | 3,71 |  |  |
+| 16. | LPG (cseppfolyósított propán-bután gáz) | 46,15 | 24,10 |  | 12,82 | 6,69 |  |
 
-| 17. | pellet/fabrikett | 17,19 |  |  | 4,78 |  |  |
+| 17. | földgáz (vezetékes vagy CNG)* |  |  | 34 |  |  | 9,44 |
 
-1.2. A kWh-ban kifejezett villamosenergia-megtakarítás esetében 2,1-es primer energia átváltási tényező alkalmazandó. Ha az energiamegtakarítást a primer energia viszonylatában számítják ki a végsőenergia- fogyasztáson alapuló, alulról építkező módszer alkalmazásával, a villamos energia átváltása esetén az alkalmazandó együttható 1.
+| 18. | LNG (cseppfolyósított földgáz) | 48,6 | 20,8 |  | 13,50 | 5,78 |  |
 
-1.3. Indokolt esetben eltérő átváltási tényezők is alkalmazhatók a következők szerint:
+| 19. | fa (25%-os nedvességtartalmú)** | 13,8 |  |  | 3,83 |  |  |
+
+| 20. | pellet/fabrikett | 16,9 |  |  | 4,69 |  |  |
+
+| 21. | hulladék | – |  |  |  |  |  |
+
+1.2. A kWh-ban kifejezett villamosenergia-megtakarítás esetében 2,1-es primer energia átváltási tényező alkalmazandó. Ha az energiamegtakarítást a primer energia viszonylatában számítják ki a végsőenergia-fogyasztáson alapuló, alulról építkező módszer alkalmazásával, a villamos energia átváltása esetén az alkalmazandó együttható 1.
+
+1.3. Indokolt esetben eltérő átváltási tényezők is alkalmazhatók, a következők szerint:
 
 ## (*) 93% metán.
 
@@ -160,9 +168,9 @@
 
 | 52 | 4404 - Ipari folyamatok - Termelési folyamatok - Egyéb (pl. villanymotorok cseréje) | 8 | 0% |
 
-| 53 | 4405 – Ipari folyamatok – Egyéb hulladékhő hasznosítás, hővisszanyerés | 10 | 0% |
+| 53 | 4405 - Ipari folyamatok – Egyéb hulladékhő hasznosítás, hővisszanyerés | 10 | 0% |
 
-| 54 | 4406 - Technológiai szigetelés | 15 | 0% |
+| 54 | 4406 – Technológiai szigetelés | 15 | 0% |
 
 | 55 | 5101 - Szállítás - Személyszállítás - Személyszállító jármű cseréje (nem fosszilisra) | 15 | 0% |
 
@@ -172,10 +180,10 @@
 
 | 58 | 5301 - Szállítás - Áruszállítás – Mozdony és motorvonat cseréje (nem fosszilisra) | 30 | 0,03% |
 
-| 59 | 6102 - Megújuló energiák - Napenergia - Napkollektoros rendszer telepítése | 15 | 0% |
+| 59 | 5302 - Szállítás - Személyszállítás – Mozdony és motorvonat cseréje (nem fosszilisra) | 30 | 0,03% |
+
+| 60 | 6102 - Megújuló energiák - Napenergia - Napkollektoros rendszer telepítése | 15 | 0% |
 
 2.1. Megjegyzés a 2. pontban foglalt táblázathoz:
 
-* 6 év fenntartási időszakkal alkalmazható
-
-[^129]: A 6. melléklet a 145/2025. (VI. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^136]: A 6. melléklet a 471/2025. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

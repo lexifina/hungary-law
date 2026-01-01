@@ -1,6 +1,6 @@
 ## külön kell feltüntetni a végrehajtó hatóságok energiahatékonyságról szóló 2015. évi LVII. törvény 14. § (1) bekezdés b) pont bb) alpontja és a Hivatal energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (5) bekezdése szerinti adatszolgáltatásában.
 
-8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^146]
+8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^153]
 
 I. rész: A 2021–2030 közötti időszakra vonatkozó végfelhasználási energiamegtakarítás éves célértékei
 
@@ -86,7 +86,7 @@ II. rész: Az egyes alternatív szakpolitikai intézkedések és megvalósítás
 
 ## (*) az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés a) pontja szerinti intézkedés
 
-III. RÉSZ: AZ EGYES ALTERNATÍV SZAKPOLITIKAI INTÉZKEDÉSEK, A MEGVALÓSÍTÁSUKÉRT FELELŐS VÉGREHAJTÓ HATÓSÁGOK, ÉS AZ EGYES SZAKPOLITIKAI INTÉZKEDÉSEKBŐL EREDŐ HALMOZOTT ENERGIAMEGTAKARÍTÁS CÉLÉRTÉKEI A 2021–2030-AS IDŐSZAKBAN
+III.[^154] rész: Az egyes alternatív szakpolitikai intézkedések, a megvalósításukért felelős végrehajtó hatóságok és az egyes szakpolitikai intézkedésekből eredő halmozott energiamegtakarítás célértékei a 2021–2030-as időszakban
 
 |  | A | B | C |
 
@@ -106,7 +106,7 @@ III. RÉSZ: AZ EGYES ALTERNATÍV SZAKPOLITIKAI INTÉZKEDÉSEK, A MEGVALÓSÍTÁS
 
 | 8 | Versenyképesség Növelő Támogatási Program | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zrt. |
 
-| 9 | Gazdaság újraindítása érdekében önkormányzatok részére biztosított új energiahatékonysági fejlesztési programok | Energiapolitikáért felelős miniszter |
+| 9 | Gazdaság újraindítása érdekében önkormányzatok részére biztosított új energiahatékonysági fejlesztési programok | Energiapolitikáért felelős miniszter |  |
 
 | 10 | Önkormányzatok önálló energiahatékonysági célú intézkedései | Energiapolitikáért felelős miniszter |
 
@@ -120,14 +120,17 @@ III. RÉSZ: AZ EGYES ALTERNATÍV SZAKPOLITIKAI INTÉZKEDÉSEK, A MEGVALÓSÍTÁS
 
 | 15 | Elektromobilitás elősegítése (Jedlik Ányos Terv) és Magyarország új buszstratégiai koncepciójának, valamint a Zöld Busz Program megvalósítása | HUMDA Magyar Mobilitás-fejlesztési Ügynökség Zrt. |
 
-| 16 | Energetikai szakreferens kötelező alkalmazása, almérő felszerelésére vonatkozó kötelezés | Magyar Energetikai és Közműszabályozási Hivatal |
+| 16 | Energetikai szakreferens kötelező alkalmazása, almérő felszerelésére vonatkozó kötelezés | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
-| 17 | Nemzeti Energetikusi Hálózat – Középületek energiahatékony használatának elősegítése | Magyar Energetikai és Közműszabályozási Hivatal |
+| 17 | Nemzeti Energetikusi Hálózat – Középületek energiahatékony használatának elősegítése | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
-| 18 | Magyar Mérnöki Kamara által biztost tanácsadási tevékenységek a lakossági, valamint a kis- és középvállalkozási szektorban | Magyar Mérnöki Kamara |
+| 18 | Magyar Mérnöki Kamara által biztosított tanácsadási tevékenységek a lakossági, valamint a kis- és középvállalkozási szektorban | Magyar Mérnöki Kamara |
 
-| 19 | Egyéb elsődlegesen nem energiahatékonysági célú | A mindenkori irányító hatósági feladatokat ellátó, valamennyi érintett szervezet |
+| 19 | Egyéb energiahatékonysági, valamint elsődlegesen nem energiahatékonysági célú | A mindenkori irányító hatósági feladatokat ellátó, valamennyi érintett szervezet |
+
+| 20 | Vidéki Otthonfelújítási Program | Magyar Államkincstár |
 
 IV. RÉSZ: AZ ENERGIAHATÉKONYSÁGI KÖTELEZETTSÉGI RENDSZERBŐL EREDŐ HALMOZOTT ENERGIAMEGTAKARÍTÁS ÉVES CÉLÉRTÉKEI A 2021–2030-AS IDŐSZAKBAN (PJ)
 
-[^146]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a, a 98/2024. (V. 7.) Korm. rendelet 6. § (2) bekezdése, a 459/2024. (XII. 30.) Korm. rendelet 6. § (2) bekezdése, a 145/2025. (VI. 19.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^153]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a, a 98/2024. (V. 7.) Korm. rendelet 6. § (2) bekezdése, a 459/2024. (XII. 30.) Korm. rendelet 6. § (2) bekezdése, a 145/2025. (VI. 19.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^154]: A 8. melléklet III. része a 471/2025. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

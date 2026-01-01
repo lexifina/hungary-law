@@ -1,4 +1,4 @@
-28/I. §[^103] A 6. melléklet 1.1. pontjában szereplő táblázatot nem kell alkalmazni az energiahatékonyságról szóló 2015. évi LVII. törvény 48. § (15) bekezdése alapján kiigazított, 2025-ös kötelezettségi év energiamegtakarítási kötelezettségének megállapítása során, valamint nem alkalmazható az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet módosításáról szóló 145/2025. (VI. 19.) Korm. rendelet hatálybalépését[^104] megelőzően megvalósult beruházásokra.
+28/I. §[^108] A 6. melléklet 1.1. pontjában szereplő táblázatot a 2026-os kötelezettségi évre is alkalmazni kell az energiamegtakarítási kötelezettség Hivatal általi megállapítására. A Hivatal a 2026. évben teljesítendő energiamegtakarítási kötelezettség mértékét 2026. január 31-ig kiigazítja. A 6. melléklet 1.1. pontjában szereplő táblázat nem alkalmazható a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet és az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet módosításáról szóló 471/2025. (XII. 30.) Korm. rendelet hatálybalépését[^109] megelőzően hitelesített beruházásokra.
 
-[^103]: A 28/I. §-t a 145/2025. (VI. 19.) Korm. rendelet 4. §-a iktatta be.
-[^104]: A hatálybalépés időpontja 2025. június 20.
+[^108]: A 28/I. §-t a 145/2025. (VI. 19.) Korm. rendelet 4. §-a iktatta be, szövege a 471/2025. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^109]: A hatálybalépés időpontja 2026. január 1.

@@ -20,6 +20,6 @@
 
 | 10. | A nemzeti tanúsítási, vagy az azzal egyenértékű képesítési rendszerek értékelése | energiapolitikáért felelős miniszter a Magyar Mérnöki Kamara és a Hivatal bevonásával | az (EU) 2018/1999 rendelet 28. cikkével összhangban létrehozott e-platformon keresztül | Első alkalommal 2025. június 30., ezt követően négyévente |
 
-10. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^148]
+10. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^156]
 
-[^148]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 393/2016. (XII. 5.) Korm. rendelet 15. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^156]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 393/2016. (XII. 5.) Korm. rendelet 15. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

@@ -1,3 +1,3 @@
-28/F. §[^99] A 8/A. § (1) bekezdése szerinti átlagárat a 2025. évben megkötendő megállapodások esetében a 2024. évi szervezett piaci aukciókon a kétszeresen elszámolható hitelesített energiamegtakarítások kereskedett mennyiséggel súlyozott átlagára alapján kell megállapítani.
+28/F. §[^104] A 8/A. § (1) bekezdése szerinti átlagárat a 2025. évben megkötendő megállapodások esetében a 2024. évi szervezett piaci aukciókon a kétszeresen elszámolható hitelesített energiamegtakarítások kereskedett mennyiséggel súlyozott átlagára alapján kell megállapítani. Az ezt követő években megkötendő megállapodások esetében az így meghatározott átlagárat indexálni kell az adott évet megelőző második év július 1. napja és az adott évet megelőző év június 30. napja közötti 12 hónapos időszakra vonatkozó KSH által közzétett ipari termelői árindexszel.
 
-[^99]: A 28/F. §-t a 145/2025. (VI. 19.) Korm. rendelet 4. §-a iktatta be.
+[^104]: A 28/F. §-t a 145/2025. (VI. 19.) Korm. rendelet 4. §-a iktatta be, szövege a 471/2025. (XII. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## III/B. Fejezet
 
-## A HITELESÍTETT ENERGIAMEGTAKARÍTÁS KÉTOLDALÚ MEGÁLLAPODÁS KERETÉBEN TÖRTÉNŐ ÁTRUHÁZÁSAKOR FIZETENDŐ TRANZAKCIÓS DÍJ MEGFIZETÉSÉNEK SZABÁLYAI[^89]
+## A HITELESÍTETT ENERGIAMEGTAKARÍTÁS KÉTOLDALÚ MEGÁLLAPODÁS KERETÉBEN TÖRTÉNŐ ÁTRUHÁZÁSAKOR FIZETENDŐ TRANZAKCIÓS DÍJ MEGFIZETÉSÉNEK SZABÁLYAI[^94]
 
 27/G. § (1) Az energiahatékonyságról szóló 2015. évi LVII. törvény 15/B. § (7) bekezdése szerinti tranzakciós díjat a kétoldalú megállapodásban megjelölt vevő a hitelesített energiamegtakarítás kétoldalú megállapodás keretében történő átruházására irányuló megállapodásban megjelölt vételár megfizetését követően haladéktalanul, átutalással fizeti meg az energiapolitikáért felelős miniszter által vezetett minisztériumnak a Magyar Államkincstárnál vezetett, 10032000-00290737-50000036 számú bankszámlájára. Az átutalás közlemény rovatában fel kell tüntetni az átruházással érintett hitelesített energiamegtakarítás GJ-ban kifejezett mennyiségét és az eladó megnevezését.
 
@@ -12,4 +12,4 @@
 
 (5) Tévesen teljesített tranzakciós díjfizetés esetén az energiapolitikáért felelős miniszter a téves fizetésről történő tudomásszerzést követő 30 napon belül intézkedik a visszafizetésről azon pénzforgalmi szolgáltatónál vezetett fizetési számla javára, amelyről a téves fizetés az energiapolitikáért felelős miniszter által vezetett minisztérium számlájára érkezett.
 
-[^89]: A III/B. fejezetet (27/G. §-t) a 145/2025. (VI. 19.) Korm. rendelet 3. §-a iktatta be.
+[^94]: A III/B. fejezetet (27/G. §-t) a 145/2025. (VI. 19.) Korm. rendelet 3. §-a iktatta be.

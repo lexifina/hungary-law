@@ -4,9 +4,9 @@
 
 | 2. | 11. melléklet szerinti mesterképzésben/osztatlan képzésben szerzett szakképzettség esetén | 5 év |
 
-| 3. | 11. melléklet szerinti alapképzésben szerzett szakképzettség esetén[^151] | 8 év |
+| 3. | 11. melléklet szerinti alapképzésben szerzett szakképzettség esetén[^159] | 8 év |
 
-13. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^152]
+13. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^160]
 
 Az adatközpontok európai adatbázisába történő adatszolgáltatás tartalma
 
@@ -88,5 +88,5 @@ Az adatközpontok európai adatbázisába történő adatszolgáltatás tartalma
 
 3.4. a kimenő adatforgalom exabájtban kifejezve.
 
-[^151]: A 12. mellékletben foglalt táblázat A:3 mezője a 459/2024. (XII. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^152]: A 13. mellékletet a 459/2024. (XII. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^159]: A 12. mellékletben foglalt táblázat A:3 mezője a 459/2024. (XII. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^160]: A 13. mellékletet a 459/2024. (XII. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
