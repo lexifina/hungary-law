@@ -1,4 +1,4 @@
-2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^77]
+2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^78]
 
 1. A népegészségügyi feladatokat ellátó járási hivatalok illetékességi területe
 
@@ -776,4 +776,4 @@
 
 | 7. | Hajdú-Bihar Vármegyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg vármegye |
 
-[^77]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja, a 371/2020. (VII. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 245. § b), d)-e) pontja, az 550/2023. (XII. 12.) Korm. rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^78]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja, a 371/2020. (VII. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 245. § b), d)-e) pontja, az 550/2023. (XII. 12.) Korm. rendelet 1. § a) és b) pontja szerint módosított szöveg.
