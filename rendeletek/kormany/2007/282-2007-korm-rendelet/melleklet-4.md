@@ -58,6 +58,8 @@
 
 | 16. | Büntetőeljárás során orvosszakértői vizsgálat | NSZKK, egyetemi intézetek |
 
+| 17. | Kriminalisztikai digitális nyomszakértői vizsgálat | NSZKK, Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^11]
 
 Szakvélemény adására feljogosított szervek
@@ -110,7 +112,7 @@ Szakvélemény adására feljogosított szervek
 
 | 23 |  | u) forenzikus botanikai vizsgálat | NSZKK, HUN-REN Szegedi Biológiai Kutatóközpont, HUN-REN Ökológiai Kutatóközpont |
 
-| 24 |  | v) kriminalisztikai digitális nyomszakértői vizsgálat | Nemzetbiztonsági Szakszolgálat Szakértői Intézete |
+| 24[^12] |  |  |  |
 
 | 25 | 2. | Tűzvédelemmel kapcsolatos szakkérdés | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és katasztrófavédelmi igazgatóságok |
 
@@ -171,3 +173,4 @@ Szakvélemény adására feljogosított szervek
 | 53 | 16. | Környezeti víz- és talajvédelem | HUN-REN Balatoni Limnológiai Kutatóintézet, Magyar Mérnöki Kamara, Országos Vízügyi Főigazgatóság |
 
 [^11]: A 4. számú melléklet a 331/2024. (XI. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 4. mellékletben foglalt táblázat 24. sorát a 481/2025. (XII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.

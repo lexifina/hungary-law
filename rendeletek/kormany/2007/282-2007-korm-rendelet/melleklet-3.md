@@ -58,4 +58,4 @@
 
 Szakvélemény adására elsősorban feljogosított szervek
 
-[^10]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a, a 285/2018. (XII. 21.) Korm. rendelet 1. §-a, a 155/2019. (VI. 27.) Korm. rendelet 2. §-a, a 337/2020. (VII. 9.) Korm. rendelet 4. §-a, az 501/2021. (VIII. 18.) Korm. rendelet 1. §-a, a 764/2021. (XII. 23.) Korm. rendelet 16. §-a, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) és f) pontja, a 350/2023. (VII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a, a 285/2018. (XII. 21.) Korm. rendelet 1. §-a, a 155/2019. (VI. 27.) Korm. rendelet 2. §-a, a 337/2020. (VII. 9.) Korm. rendelet 4. §-a, az 501/2021. (VIII. 18.) Korm. rendelet 1. §-a, a 764/2021. (XII. 23.) Korm. rendelet 16. §-a, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) és f) pontja, a 350/2023. (VII. 27.) Korm. rendelet 2. §-a, a 481/2025. (XII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
