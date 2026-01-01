@@ -1,4 +1,4 @@
-## 9/C.[^14] A távszerencsejáték szervezés egyéb feltételei
+## 9/C.[^16] A távszerencsejáték szervezés egyéb feltételei
 
 16/C. § (1) A szerencsejáték-felügyeleti hatóság a távszerencsejáték szervezését legfeljebb hétéves időtartamra engedélyezi.
 
@@ -16,4 +16,4 @@ c) büntetlen előéletű.
 
 (5) Az EGT-állami gazdasági társaság a (3) bekezdés szerinti fióktelepét a távszerencsejáték szervezésére jogosító engedély kiadásától számított 90 napon belül köteles létrehozni és azt a szerencsejáték-felügyeleti hatósághoz a cégnyilvántartásba való bejegyzés igazolásával bejelenteni.
 
-[^14]: A 9/C. alcímet (16/C-16/E. §-t) a 40/2022. (XII. 19.) SZTFH rendelet 10. §-a iktatta be.
+[^16]: A 9/C. alcímet (16/C-16/E. §-t) a 40/2022. (XII. 19.) SZTFH rendelet 10. §-a iktatta be.

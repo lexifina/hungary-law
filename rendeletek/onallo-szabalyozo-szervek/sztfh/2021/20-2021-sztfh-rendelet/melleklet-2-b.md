@@ -1,4 +1,4 @@
-2/b. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^65]
+2/b. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^67]
 
 Az EGT-állami gazdasági társaság képviselőjének nyilvántartásból történő törlésére irányuló kérelemhez csatolandó okiratok és megadni szükséges adatok
 
@@ -26,4 +26,4 @@ Az EGT-állami gazdasági társaság képviselőjének nyilvántartásból tört
 
 2.2.3. székhelye.
 
-[^65]: A 2/b. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § b) pontja iktatta be.
+[^67]: A 2/b. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § b) pontja iktatta be.

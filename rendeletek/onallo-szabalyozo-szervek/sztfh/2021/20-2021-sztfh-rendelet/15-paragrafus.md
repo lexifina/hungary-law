@@ -1,6 +1,6 @@
 ## 9. Auditálásra vonatkozó előírások
 
-15. § (1) Az Szjtv. 29/F. § (1a) bekezdés a) pontja alkalmazásában auditálásra jogosult szervezet az Európai Gazdasági Térség területén letelepedett, az Európai Gazdasági Térség valamely államának joga szerint a (2) bekezdésben meghatározottak auditálására jogosult szervezet.
+15. § (1)[^13]
 
 (2) A kérelmező
 
@@ -15,3 +15,5 @@ az auditálásra jogosult szervezettel a kérelem benyújtását megelőzően au
 a) a játékfunkciók körében különösen a véletlenszám-generátorra (a játékkaszinóban vagy a szerencsejáték-felügyeleti hatóság által eseti vagy állandó jelleggel engedélyezett más helyen folyó kaszinójátékban hírközlő eszköz vagy rendszer útján történő játék kivételével), a játékszabályokra, a részvételi feltételekre, a játékos nyilvántartásba vételére, a játékosi egyenleg kezelésére, az adatszolgáltatásra, a távoli hozzáférésre, valamint
 
 b) a játékfunkcióknak a játékeseményekkel összhangban álló, manipulációmentes, valós és a játéktervnek megfelelő működésére.
+
+[^13]: A 15. § (1) bekezdését a 6/2025. (VII. 31.) SZTFH rendelet 10. § b) pontja hatályon kívül helyezte.
