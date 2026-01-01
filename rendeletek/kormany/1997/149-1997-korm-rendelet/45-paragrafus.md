@@ -1,58 +1,58 @@
 ## Az örökbefogadás iránti kérelem elbírálása
 
-45. §[^336] (1)[^337] A A kijelölt gyámhivatal a 41. § (1) és (2) bekezdésében felsorolt iratok, illetve az örökbe fogadni szándékozó személy és a gyermek szülőjének kérelme, gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekvédelmi szakszolgálat javaslata és a gyermekvédelmi gyám kérelme alapján öt napon belül, hathetesnél fiatalabb gyermek esetén nyolc napon belül dönt a kötelező gondozásba történő kihelyezésről. A kijelölt gyámhivatal a kötelező gondozásba történő kihelyezést elrendelő végzésében a gondozási idő számításánál figyelembe veszi a tényleges gondozás kezdő időpontját. Nyílt örökbefogadás esetén a végzés tartalmazza az örökbefogadásban közreműködő szervezet nevét.
+45. §[^337] (1)[^338] A A kijelölt gyámhivatal a 41. § (1) és (2) bekezdésében felsorolt iratok, illetve az örökbe fogadni szándékozó személy és a gyermek szülőjének kérelme, gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekvédelmi szakszolgálat javaslata és a gyermekvédelmi gyám kérelme alapján öt napon belül, hathetesnél fiatalabb gyermek esetén nyolc napon belül dönt a kötelező gondozásba történő kihelyezésről. A kijelölt gyámhivatal a kötelező gondozásba történő kihelyezést elrendelő végzésében a gondozási idő számításánál figyelembe veszi a tényleges gondozás kezdő időpontját. Nyílt örökbefogadás esetén a végzés tartalmazza az örökbefogadásban közreműködő szervezet nevét.
 
-(2)[^338] Nyílt örökbefogadás esetén a kijelölt gyámhivatal annak megállapítását, hogy a hathetesnél fiatalabb életkorú gyermek örökbefogadásához tett szülői hozzájáruló nyilatkozattal a szülő szülői felügyeleti joga szünetel, legkésőbb a gondozásba történő kihelyezésről szóló végzésben rögzíti. Ezzel egyidejűleg a kijelölt gyámhivatal a 127. § (4) bekezdése alapján a gyermek részére családbafogadó gyámot rendel.
+(2)[^339] Nyílt örökbefogadás esetén a kijelölt gyámhivatal annak megállapítását, hogy a hathetesnél fiatalabb életkorú gyermek örökbefogadásához tett szülői hozzájáruló nyilatkozattal a szülő szülői felügyeleti joga szünetel, legkésőbb a gondozásba történő kihelyezésről szóló végzésben rögzíti. Ezzel egyidejűleg a kijelölt gyámhivatal a 127. § (4) bekezdése alapján a gyermek részére családbafogadó gyámot rendel.
 
-(2a)[^339] Titkos örökbefogadás esetén a 97. § (5) bekezdésében foglaltak szerint kell eljárni.
+(2a)[^340] Titkos örökbefogadás esetén a 97. § (5) bekezdésében foglaltak szerint kell eljárni.
 
-(3)[^340] A kijelölt gyámhivatal az örökbefogadás engedélyezése előtt az örökbe fogadni szándékozó személy lakóhelye, tartózkodási helye szerint illetékes gyermekvédelmi szakszolgálat örökbefogadásra vonatkozó javaslata alapján meggyőződik a gyermeknek a Ptk. 4:128. § (1) bekezdésében meghatározott kötelező gondozási idő alatt a családba történő beilleszkedéséről.
+(3)[^341] A kijelölt gyámhivatal az örökbefogadás engedélyezése előtt az örökbe fogadni szándékozó személy lakóhelye, tartózkodási helye szerint illetékes gyermekvédelmi szakszolgálat örökbefogadásra vonatkozó javaslata alapján meggyőződik a gyermeknek a Ptk. 4:128. § (1) bekezdésében meghatározott kötelező gondozási idő alatt a családba történő beilleszkedéséről.
 
-(4)[^341] Amennyiben az örökbefogadási eljárás során olyan új körülmény, tény merül fel, amely kétségessé teszi a korábbi alkalmasságot megalapozó szakvéleményben foglaltakat, a kijelölt gyámhivatal a 39/A. § (1)–(2) és (4) bekezdése alapján intézkedik az alkalmasság felülvizsgálata iránt.
+(4)[^342] Amennyiben az örökbefogadási eljárás során olyan új körülmény, tény merül fel, amely kétségessé teszi a korábbi alkalmasságot megalapozó szakvéleményben foglaltakat, a kijelölt gyámhivatal a 39/A. § (1)–(2) és (4) bekezdése alapján intézkedik az alkalmasság felülvizsgálata iránt.
 
-(5)[^342] Nem kell a kötelező gondozásba történő kihelyezésről rendelkezni, azonban a kijelölt gyámhivatal az örökbefogadási eljárás során környezettanulmányt végez vagy szerez be, ha
+(5)[^343] Nem kell a kötelező gondozásba történő kihelyezésről rendelkezni, azonban a kijelölt gyámhivatal az örökbefogadási eljárás során környezettanulmányt végez vagy szerez be, ha
 
 a) az örökbefogadó és a vér szerinti szülő házastársak, vagy
 
 b) az örökbefogadó és a vér szerinti szülő meghallgatása során arról nyilatkozik, hogy a gyermeket a vér szerinti szülő hozzájárulásával már legalább egy éve saját háztartásában gondozza, vagy
 
-c)[^343] a nevelésbe vett gyermeket a nevelőszülője (és házastársa) fogadja örökbe, és a gyermek megfelelő neveléséről, gondozásáról legalább egy éve saját háztartásában gondoskodik, és ennek tényét a nevelőszülői hálózat igazolta,
+c)[^344] a nevelésbe vett gyermeket a nevelőszülője (és házastársa) fogadja örökbe, és a gyermek megfelelő neveléséről, gondozásáról legalább egy éve saját háztartásában gondoskodik, és ennek tényét a nevelőszülői hálózat igazolta,
 
-d)[^344] a hathetesnél fiatalabb, ideiglenes hatállyal elhelyezett gyermeket az örökbefogadó legalább egy hónapja saját háztartásában gondozza,
+d)[^345] a hathetesnél fiatalabb, ideiglenes hatállyal elhelyezett gyermeket az örökbefogadó legalább egy hónapja saját háztartásában gondozza,
 
-e)[^345] a gyámság alatt álló gyermeket családbafogadó gyámja fogadja örökbe, és a gyermek megfelelő neveléséről, gondozásáról legalább egy éve saját háztartásában gondoskodik.
+e)[^346] a gyámság alatt álló gyermeket családbafogadó gyámja fogadja örökbe, és a gyermek megfelelő neveléséről, gondozásáról legalább egy éve saját háztartásában gondoskodik.
 
-f)[^346] a gyermeket rokona fogadja örökbe.
+f)[^347] a gyermeket rokona fogadja örökbe.
 
-(6)[^347] Az örökbe fogadni szándékozó személy a hozzá örökbefogadási szándékkal kihelyezett gyermek gondozásáról, tartásáról saját költségén köteles gondoskodni, azonban jogosult a gyermek után jogszabály alapján járó családtámogatási ellátások igénybevételére.
+(6)[^348] Az örökbe fogadni szándékozó személy a hozzá örökbefogadási szándékkal kihelyezett gyermek gondozásáról, tartásáról saját költségén köteles gondoskodni, azonban jogosult a gyermek után jogszabály alapján járó családtámogatási ellátások igénybevételére.
 
-(7)[^348] Az örökbefogadási szándékkal kihelyezett gyermek a kijelölt gyámhivatal kötelező gondozási időre történő kihelyező végzésében megállapított időtartam eredményes eltelte után is az örökbefogadni szándékozó személynél maradhat az örökbefogadási eljárás befejezéséig.
+(7)[^349] Az örökbefogadási szándékkal kihelyezett gyermek a kijelölt gyámhivatal kötelező gondozási időre történő kihelyező végzésében megállapított időtartam eredményes eltelte után is az örökbefogadni szándékozó személynél maradhat az örökbefogadási eljárás befejezéséig.
 
-(8)[^349] A kijelölt gyámhivatal a gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekre vonatkozó igazolásokat és szakvéleményeket a gyermekvédelmi szakszolgálat útján szerzi be.
+(8)[^350] A kijelölt gyámhivatal a gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekre vonatkozó igazolásokat és szakvéleményeket a gyermekvédelmi szakszolgálat útján szerzi be.
 
-(9)[^350] A kijelölt gyámhivatal a kötelező gondozási idő letelte után nyilatkoztatja az örökbefogadni szándékozó személyt az örökbefogadási szándéka fenntartásáról, illetve ismerteti a (4) bekezdés, valamint a 41. § (5) bekezdése szerinti iratok tartalmát.
+(9)[^351] A kijelölt gyámhivatal a kötelező gondozási idő letelte után nyilatkoztatja az örökbefogadni szándékozó személyt az örökbefogadási szándéka fenntartásáról, illetve ismerteti a (4) bekezdés, valamint a 41. § (5) bekezdése szerinti iratok tartalmát.
 
-(10)[^351] A kijelölt gyámhivatal a gyermeket ellátó nevelőszülőt vagy gyermekotthont a gyermek kötelező gondozásba történő kihelyezésének tényéről és időpontjáról az örökbe fogadni szándékozó személy személyazonosító adatainak közlése nélkül értesíti.
+(10)[^352] A kijelölt gyámhivatal a gyermeket ellátó nevelőszülőt vagy gyermekotthont a gyermek kötelező gondozásba történő kihelyezésének tényéről és időpontjáról az örökbe fogadni szándékozó személy személyazonosító adatainak közlése nélkül értesíti.
 
-(11)[^352] Ha az örökbe fogadni szándékozó szülő az örökbefogadás utánkövetésére közhasznú szervezetet jelölt meg, a gyámhivatal megkeresi e szervezetet az utánkövetés vállalására vonatkozó nyilatkozatának beszerzése érdekében.
+(11)[^353] Ha az örökbe fogadni szándékozó szülő az örökbefogadás utánkövetésére közhasznú szervezetet jelölt meg, a gyámhivatal megkeresi e szervezetet az utánkövetés vállalására vonatkozó nyilatkozatának beszerzése érdekében.
 
-(12)[^353] Ha a megkeresett közhasznú szervezet nem vállalja az utánkövetést, a gyámhivatal tájékoztatja erről az örökbe fogadni szándékozó személyt, és újabb közhasznú szervezet megjelölésének hiányában tájékoztatja a gyermekvédelmi szakszolgálatot az örökbefogadás utánkövetésében való együttműködési kötelezettségéről.
+(12)[^354] Ha a megkeresett közhasznú szervezet nem vállalja az utánkövetést, a gyámhivatal tájékoztatja erről az örökbe fogadni szándékozó személyt, és újabb közhasznú szervezet megjelölésének hiányában tájékoztatja a gyermekvédelmi szakszolgálatot az örökbefogadás utánkövetésében való együttműködési kötelezettségéről.
 
-[^336]: A 45. § a 14/2003. (II. 12.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^337]: A 45. § (1) bekezdése a 447/2020. (X. 1.) Korm. rendelet 2. §-ával megállapított, a 432/2025. (XII. 23.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
-[^338]: A 45. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított, az 1/2025. (I. 23.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
-[^339]: A 45. § (2a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (2) bekezdése iktatta be.
-[^340]: A 45. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg.
-[^341]: A 45. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^342]: A 45. § (5) bekezdés nyitó szövegrésze a 97/2013. (III. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^343]: A 45. § (5) bekezdés c) pontja a 194/2024. (VII. 8.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^344]: A 45. § (5) bekezdésének d) pontját a 315/2005. (XII. 25.) Korm. rendelet 36. §-a iktatta be.
-[^345]: A 45. § (5) bekezdés e) pontját a 275/2008. (XI. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^346]: A 45. § (5) bekezdés f) pontját az 1/2025. (I. 23.) Korm. rendelet 3. §-a iktatta be.
-[^347]: A 45. § (6) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^348]: A 45. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja, a 447/2020. (X. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^349]: A 45. § (8) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^350]: A 45. § (9) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^351]: A 45. § (10) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^352]: A 45. § (11) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (4) bekezdése iktatta be.
-[^353]: A 45. § (12) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (4) bekezdése iktatta be.
+[^337]: A 45. § a 14/2003. (II. 12.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^338]: A 45. § (1) bekezdése a 447/2020. (X. 1.) Korm. rendelet 2. §-ával megállapított, a 432/2025. (XII. 23.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^339]: A 45. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított, az 1/2025. (I. 23.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^340]: A 45. § (2a) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^341]: A 45. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg.
+[^342]: A 45. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^343]: A 45. § (5) bekezdés nyitó szövegrésze a 97/2013. (III. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^344]: A 45. § (5) bekezdés c) pontja a 194/2024. (VII. 8.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^345]: A 45. § (5) bekezdésének d) pontját a 315/2005. (XII. 25.) Korm. rendelet 36. §-a iktatta be.
+[^346]: A 45. § (5) bekezdés e) pontját a 275/2008. (XI. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 21/2012. (II. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^347]: A 45. § (5) bekezdés f) pontját az 1/2025. (I. 23.) Korm. rendelet 3. §-a iktatta be.
+[^348]: A 45. § (6) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^349]: A 45. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja, a 447/2020. (X. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^350]: A 45. § (8) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^351]: A 45. § (9) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^352]: A 45. § (10) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^353]: A 45. § (11) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (4) bekezdése iktatta be.
+[^354]: A 45. § (12) bekezdését a 70/2014. (III. 13.) Korm. rendelet 32. § (4) bekezdése iktatta be.

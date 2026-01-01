@@ -1,4 +1,4 @@
-49/A. §[^401] (1) Az örökbefogadható gyermek nemzetközi örökbefogadási nyilvántartásba vételét megelőzően a kijelölt Kormányhivatal a Gyermekeink védelmében elnevezésű informatikai rendszerben foglalt adatok megismerését követően javaslatot készít, amelyben
+49/A. §[^402] (1) Az örökbefogadható gyermek nemzetközi örökbefogadási nyilvántartásba vételét megelőzően a kijelölt Kormányhivatal a Gyermekeink védelmében elnevezésű informatikai rendszerben foglalt adatok megismerését követően javaslatot készít, amelyben
 
 a) javasolja a központi hatóság részére a gyermek nemzetközi örökbefogadási nyilvántartásba vételét, ha a nevelésbe vett, örökbefogadható gyermeket belföldön azért nem fogadták örökbe, mert az örökbefogadása érdekében tett intézkedések nem vezettek eredményre, vagy
 
@@ -10,4 +10,4 @@ b) nem javasolja a gyermek nemzetközi örökbefogadási nyilvántartásba véte
 
 (4) A Kormány az (1) bekezdés szerinti javaslat elkészítésére a Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt jelöli ki.
 
-[^401]: A 49/A. §-t a 432/2025. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^402]: A 49/A. §-t a 432/2025. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

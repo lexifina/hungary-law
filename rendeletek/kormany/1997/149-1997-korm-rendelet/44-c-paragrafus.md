@@ -36,17 +36,17 @@ c) az eljárása megindításáról, ha a hathetes időtartam alatt a gyámhivat
 
 a) megteszi a 44/A. § (3) bekezdése szerinti intézkedést,
 
-b) megállapítja a gyermek örökbefogadhatóságának tényét, és erről értesíti a gyermekvédelmi szakszolgálatot, egyidejűleg javaslatot kér az örökbe fogadni szándékozó szülők személyére és
+b)[^333] megállapítja a gyermek örökbefogadhatóságának tényét, és erről értesíti a gyermekvédelmi szakszolgálatot, egyidejűleg az országos örökbefogadást elősegítő szervtől javaslatot kér az örökbe fogadni szándékozó szülők személyére és
 
 c) a 127. § (3) bekezdése szerint a gyermek részére gyermekvédelmi gyámot, helyettes gyermekvédelmi gyámot rendel.
 
-(6)[^333] A gyermekvédelmi szakszolgálatnak az örökbe fogadni szándékozó szülők személyére vonatkozó javaslattétel során testvérek örökbefogadhatóvá válása esetén az együttes örökbefogadásukat kell elősegíteni abban az esetben, ha a gyermekek között valódi kötődés áll fenn, kivéve, ha ez bármelyik gyermek érdekével ellentétes.
+(6)[^334] Az országos örökbefogadást elősegítő szervnek az örökbe fogadni szándékozó szülők személyére vonatkozó javaslattétel során testvérek örökbefogadhatóvá válása esetén az együttes örökbefogadásukat kell elősegíteni abban az esetben, ha a gyermekek között valódi kötődés áll fenn, kivéve, ha ez bármelyik gyermek érdekével ellentétes.
 
-(7)[^334] Az illetékes kijelölt gyámhivatal az (5) bekezdés szerinti határozatát az (5) bekezdésben foglalt határidő eredménytelen leteltét követően három napon belül hozza meg.
+(7)[^335] Az illetékes kijelölt gyámhivatal az (5) bekezdés szerinti határozatát az (5) bekezdésben foglalt határidő eredménytelen leteltét követően három napon belül hozza meg.
 
 (8) Az illetékes kijelölt gyámhivatal – a közvetlenül a születését követően az egészségügyi intézményben hagyott gyermek ügyében indult eljárás megszüntetésével és egyidejűleg az iratok megküldésével – felhívja az illetékes gyámhivatalt a gyermek veszélyeztetettségének megszüntetésére, illetve nevelésbe vétele ügyében szükséges intézkedések megtételére, ha
 
-a)[^335] a szülő vagy a gyermek más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket elvitte, illetve írásban vagy jegyzőkönyvbe mondva olyan tartalmú nyilatkozatot tett a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni vagy
+a)[^336] a szülő vagy a gyermek más hozzátartozója az anya kórházi zárójelentése kiállításának napjától számított hat héten belül a gyermeket elvitte, illetve írásban vagy jegyzőkönyvbe mondva olyan tartalmú nyilatkozatot tett a gyámhivatal felé, hogy a gyermeket az egészségügyi intézményből el szándékozik vinni vagy
 
 b) nincs a gyermek örökbefogadására jelentkező személy.
 
@@ -59,6 +59,7 @@ b) nincs a gyermek örökbefogadására jelentkező személy.
 [^330]: A 44/C. § (4) bekezdése az 1/2025. (I. 23.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
 [^331]: A 44/C. § (4a) bekezdését az 1/2025. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 179/2025. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^332]: A 44/C. § (5) bekezdés nyitó szövegrésze az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
-[^333]: A 44/C. § (6) bekezdése a 432/2025. (XII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^334]: A 44/C. § (7) bekezdése a 432/2025. (XII. 23.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^335]: A 44/C. § (8) bekezdés a) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^333]: A 44/C. § (5) bekezdés b) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^334]: A 44/C. § (6) bekezdése az 1/2025. (I. 23.) Korm. rendelet 7. § h) pontja, a 432/2025. (XII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^335]: A 44/C. § (7) bekezdése a 432/2025. (XII. 23.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^336]: A 44/C. § (8) bekezdés a) pontja az 1/2025. (I. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
