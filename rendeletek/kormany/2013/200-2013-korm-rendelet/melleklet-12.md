@@ -1,73 +1,47 @@
-12. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^81]
+12. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^82]
 
-1. Az állami jutalomra, illetve eredményességi támogatásra vonatkozó javaslat adattartalma sportoló esetén
+A versenyzői eredményességi pénzjutalom mértéke világ- és Európa-bajnokság esetében IWGA által szervezett Világjátékok versenyszámaiban(nettó összegben, forintban, 100%)
 
-1.1. a sportesemény
+1. Évenként rendezett versenyek esetében
 
-1.1.1. elnevezése
+|  | A | B | C | D |
 
-1.1.2. időpontja
+| 1. | Eredményességi szint | Európa-bajnokság | Világbajnokság |
 
-1.1.3. helyszíne
+| 2. | Korosztály | Helyezés | Eredményességi jutalom mértéke |
 
-1.1.4. rendezési gyakorisága (hány évente rendezik a sporteseményt)
+| 3. | Felnőtt | I. | 1 203 125 | 2 406 250 |
 
-1.2. a sportoló
+| 4. | II. | 859 031 | 1 718 062 |
 
-1.2.1. neve
+| 5. | III. | 685 781 | 1 371 562 |
 
-1.2.2. korosztálya
+2. Kétévenként rendezett versenyek esetében
 
-1.2.3. sporteseményen elért helyezése
+|  | A | B | C | D |
 
-1.3. az állami jutalomra, eredményességi támogatásra jogosító eredmény
+| 1. | Eredményességi szint | Európa-bajnokság | Világbajnokság |
 
-1.3.1. versenyszámának megnevezése
+| 2. | Korosztály | Helyezés | Eredményességi jutalom mértéke |
 
-1.3.2. versenyszáma olimpiai vagy nem olimpiai jellegének megjelölése
+| 3. | Felnőtt | I. | 2 406 250 | 4 812 500 |
 
-1.3.3. versenyszáma egyéni, páros vagy csapat jellegének megjelölése
+| 4. | II. | 1 718 062 | 3 436 125 |
 
-1.3.4. versenyszámában induló országok száma
+| 5. | III. | 1 371 562 | 2 743 125 |
 
-1.3.5. versenyszámában induló versenyzők száma
+3. Négyévenként rendezett versenyek esetében
 
-1.4. a sporteseményen
+|  | A | B | C | D |
 
-1.4.1. résztvevő földrészek száma
+| 1. | Eredményességi szint | Európa-bajnokság | Világbajnokság |
 
-1.4.2. résztvevő országok száma
+| 2. | Korosztály | Helyezés | Eredményességi jutalom mértéke |
 
-1.5. az állami jutalom, illetve az eredményességi támogatás javasolt összege.
+| 3. | Felnőtt | I. | 4 812 500 | 9 625 000 |
 
-2. Az állami jutalomra, illetve eredményességi támogatásra vonatkozó javaslat adattartalma sportszakember esetén
+| 4. | II. | 3 436 125 | 6 872 250 |
 
-2.1. a sportesemény
+| 5. | III. | 2 743 125 | 5 486 250 |
 
-2.1.1. elnevezése
-
-2.1.2. időpontja
-
-2.1.3. helyszíne
-
-2.1.4. rendezési gyakorisága (hány évente rendezik a sporteseményt)
-
-2.2. a sportszakembert állami jutalomra, illetve eredményességi támogatásra jogosító sportoló
-
-2.2.1. neve
-
-2.2.2. korosztálya
-
-2.2.3. versenyszámának megnevezése
-
-2.2.4. sporteseményen elért helyezése
-
-2.3. a sportszakember
-
-2.3.1. neve
-
-2.3.2. sportszakmai felkészítésben végzett feladatköre
-
-2.4. az állami jutalom, illetve az eredményességi támogatás javasolt összege.
-
-[^81]: A 12. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^82]: A 12. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.

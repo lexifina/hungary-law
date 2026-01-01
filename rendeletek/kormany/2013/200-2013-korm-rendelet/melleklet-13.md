@@ -1,126 +1,73 @@
-13. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^82]
+13. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^83]
 
-Az eredményességi támogatásra jogosult utánpótlás korosztály
+1. Az állami jutalomra, illetve eredményességi jutalomra vonatkozó határozat adattartalma versenyző esetén
 
-|  | A | B | C | D |
+1.1. a sportesemény
 
-| 1. | Sportág | Eredményességi támogatásra jogosult utánpótlás korosztály Európa-bajnokság esetén (szövegesen és életkorral, pl. junior U20) | Eredményességi támogatásra jogosult utánpótlás korosztály Világbajnokság esetén (szövegesen és életkorral, pl. junior U20) | Egyéb specifikumok (súlycsoportok, versenytávok) |
+1.1.1. elnevezése
 
-| 2. | Asztalitenisz | ifjúsági (16–18 évesek) | ifjúsági (16–18 évesek) |  |
+1.1.2. időpontja
 
-| 3. | Atlétika | junior (U20) | junior (U20) |  |
+1.1.3. helyszíne
 
-| 4. | Baseball/Softball | junior (U18) | junior (U22) |  |
+1.1.4. rendezési gyakorisága (hány évente rendezik a sporteseményt)
 
-| 5. | Birkózás | U23 | U23 | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
+1.2. a sportoló
 
-| 6. | Breaktánc | ifjúsági korosztály | ifjúsági korosztály | adott évben tölti be a 16., 17., 18. életévét |
+1.2.1. neve
 
-| 7. | Kerékpár/BMX | U19 kategória[^83] | U19 kategória[^84] |  |
+1.2.2. korosztálya
 
-| 8. | Csúszókorong (Curling) | nincs | junior (U21) |  |
+1.2.3. sporteseményen elért helyezése
 
-| 9. | Evezés | U23 | U23 |  |
+1.3. az állami jutalomra, eredményességi jutalomra jogosító eredmény
 
-| 10. | Golf | nincs | nincs |  |
+1.3.1. versenyszámának megnevezése
 
-| 11. | Gördeszka | junior (U19) | junior (U19) |  |
+1.3.2. versenyszáma olimpiai vagy nem olimpiai jellegének megjelölése
 
-| 12. | Gumiasztal | junior (13–17 évesek) | nincs |  |
+1.3.3. versenyszáma egyéni, páros vagy csapat jellegének megjelölése
 
-| 13. | Gyeplabda | U16 | U21 |  |
+1.3.4. versenyszámában induló országok száma
 
-| 14. | Hullámszörf | junior (14–18 évesek) | junior (14–18 évesek) |  |
+1.3.5. versenyszámában induló versenyzők száma
 
-| 15. | Íjászat | junior (U20) | junior (U20) |  |
+1.4. a sporteseményen
 
-| 16. | Jégkorong | nincs | női ifjúsági (U18) férfi junior (U20) |  |
+1.4.1. részt vevő földrészek száma
 
-| 17. | Judo | U23 | junior (U21) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
+1.4.2. részt vevő országok száma
 
-| 18. | Kajak-Kenu | ifjúsági | ifjúsági |  |
+1.5. az állami jutalom, illetve az eredményességi jutalom javasolt összege.
 
-| 19. | Kerékpár / Pálya és Országúti | U19 kategória | U19 kategória |  |
+2. Az állami jutalomra, illetve eredményességi jutalomra vonatkozó határozat adattartalma edző, nevelőedző és más sportszakember esetén
 
-| 20. | Kézilabda | junior – női: U19, férfi: U20 | junior – női: U20, férfi: U21 |  |
+2.1. a sportesemény
 
-| 21. | Korcsolya / Rövidpályás Gyorskorcsolya, Gyorskorcsolya | nincs | legidősebb junior |  |
+2.1.1. elnevezése
 
-| 22. | Korcsolya/Műkorcsolya | nincs | junior |  |
+2.1.2. időpontja
 
-| 23. | Korcsolya / Páros Műkorcsolya és Jégtánc | nincs | junior |  |
+2.1.3. helyszíne
 
-| 24. | Korcsolya / Szinkronkorcsolya | nincs | junior |  |
+2.1.4. rendezési gyakorisága (hány évente rendezik a sporteseményt)
 
-| 25. | Kosárlabda | U20 | U19 |  |
+2.2. a sportszakembert állami jutalomra, illetve eredményességi jutalomra jogosító sportoló
 
-| 26. | Labdarúgás | női: U19, férfi: U21 | U20 |  |
+2.2.1. neve
 
-| 27. | Lovaglás | díjugratás – fiatal lovas (junior 19–21 évesek) díjlovaglás – fiatal lovas (junior 19–21 évesek) lovastusa (military) – fiatal lovas (junior 19–21 évesek) | nincs |  |
+2.2.2. korosztálya
 
-| 28. | Kerékpár / Hegyi Kerékpár | U19 kategória[^85] | U19 kategória |  |
+2.2.3. versenyszámának megnevezése
 
-| 29. | Műugrás | ifjúsági A (16–18 évesek) | ifjúsági A (16–18 évesek) |  |
+2.2.4. sporteseményen elért helyezése
 
-| 30. | Ökölvívás | ifjúsági | ifjúsági | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
+2.3. a sportszakember
 
-| 31. | Öttusa | junior (19–21 évesek) | junior (19–21 évesek) |  |
+2.3.1. neve
 
-| 32. | Torna | junior – női: 14–15 évesek, férfi: 14–18 évesek | junior |  |
+2.3.2. sportszakmai felkészítésben végzett feladatköre
 
-| 33. | Rögbi | U18 | U18 |  |
+2.4. az állami jutalom, illetve az eredményességi jutalom javasolt összege.
 
-| 34. | Röplabda | női: U19, férfi: U20 | női: U20, férfi: U21 |  |
-
-| 35. | Hódeszka / Parallel Óriás Műlesiklás, Parallel Műlesiklás, Hódeszkakrossz | nincs | junior (16–20 évesek) |  |
-
-| 36. | Hódeszka/Félcső, Szabadstílusú lesiklás | nincs | junior (14–18 évesek) |  |
-
-| 37. | Sí / Alpesi Sí | nincs | U21 |  |
-
-| 38. | Sí/Sífutás | nincs | U21 | női: 5 km C – 5 km klasszikus Skiathlon 5/5 km C/F – 5 km klasszikus, majd 5 km szabadstílus (kötelező síléc váltással) Rel 4×3.3 km M – váltó 4×5 km (első két váltótag klasszikus stílusban, második kettő szabad stílusban) férfi: 10 km C – 10 km klasszikus stílus Skiathlon 10/10 km C/F – 10 km klasszikus, 10 km szabad stílusban (kötelező síléc váltással) Rel 4×5 km M – váltó 4×5 km (első két váltótag klasszikus, második kettő szabad stílusban) |
-
-| 39. | Sí/Síugrás | nincs | U21 | HS 100 – 100 m-es sáncon Team HS 100 – csapatverseny 100 m-es sáncon Mixed Team HS 100 – vegyes csapatverseny 100 m-es sáncon HS = Hill Size, a kifejezés a sánc méretére utal |
-
-| 40. | Sí / Északi összetett | nincs | U21 | NH HS 100/10.0 km – síugrás 100m-es sáncon, majd 10 km-es sífutás Team HS 100/4×5 km – csapatverseny síugrás 100 m-es sáncon, majd 4×5 km sífutó váltó NH HS100/5.0 km – síugrás 100 m-es sáncon, majd 5 km sífutás NH = Normal Hill, a kifejezés a sánc méretére, besorolására utal (85–109 m) |
-
-| 41. | Sí/Síakrobatika | nincs | junior (U19) |  |
-
-| 42. | Sí/Síkrossz | nincs | U20 |  |
-
-| 43. | Sí/Biatlon (Sílövészet) | U21 | U21 | EB – női/férfi: junior vegyes váltó 2×6 km (lányok) + 2×7.5 km (fiúk) VB – női: 3x6 km váltó férfi: 4×7.5 km váltó |
-
-| 44. | Sportlövészet | junior (14–20 évesek) | junior (14–20 évesek) |  |
-
-| 45. | Sportmászás | ifjúsági B (14–15 évesek) | ifjúsági A (16–17 évesek) |  |
-
-| 46. | Súlyemelés | junior (15–20 évesek) | junior (15–20 évesek) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
-
-| 47. | Szánkó és Bob | nincs | junior (19–23 évesek) |  |
-
-| 48. | Szinkronúszás | junior (15–18 évesek) | junior (15–18 évesek) |  |
-
-| 49. | Szörf | IQFoil Ifjúsági U19 (Youth) | IQFoil Ifjúsági U19 (Youth) |  |
-
-| 50. | Taekwondo | junior (14–17 évesek) | junior (14–17 évesek) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
-
-| 51. | Tenisz | U18 | nincs |  |
-
-| 52. | Tollaslabda | U19 | U19 |  |
-
-| 53. | Torna | junior – női: 14–15 évesek, férfi: 14–18 évesek | nincs |  |
-
-| 54. | Triatlon | U23 | U23 |  |
-
-| 55. | Úszás | ifjúsági nyílt vízi – junior | ifjúsági nyílt vízi – junior | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott versenytáv |
-
-| 56. | Vitorlázás | Dinghy (ILCA laser) férfi – U21 Dinghy (ILCA laser radial) női – U21 Skiff (49er) férfi – junior (U24) Skiff (49er FX) női – U24 Kite – junior (U21) Multihull (Nacra 17) mix – U24 Dinghy (470) mix – junior (U24) | Dinghy (ILCA laser) férfi – U21 Dinghy (ILCA laser radial) női – U21 Skiff (49er) férfi – junior (U24) Skiff (49er FX) női – U24 Kite – junior (U21) Multihull (Nacra 17) mix – U24 Dinghy (470) mix – junior (U24) |  |
-
-| 57. | Vívás | junior (U20) | junior (U20) |  |
-
-| 58. | Vízilabda | U19 | U20 |  |
-
-[^82]: A 13. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^83]: A 13. mellékletben foglalt táblázat B:7 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
-[^84]: A 13. mellékletben foglalt táblázat C:7 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
-[^85]: A 13. mellékletben foglalt táblázat B:28 mezője a 177/2025. (VI. 30.) Korm. rendelet 16. § 18. pontja szerint módosított szöveg.
+[^83]: A 13. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.

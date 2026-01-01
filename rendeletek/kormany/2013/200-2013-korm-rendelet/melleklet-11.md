@@ -1,4 +1,4 @@
-11. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^80]
+11. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^81]
 
 A versenyzői eredményességi pénzjutalom mértéke világ- és Európa-bajnokság esetében paralimpiai versenyszámban(nettó összegben, forintban, 100%)
 
@@ -44,4 +44,4 @@ A versenyzői eredményességi pénzjutalom mértéke világ- és Európa-bajnok
 
 | 5. | III. | 3 918 750 | 7 837 500 |
 
-[^80]: A 11. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^81]: A 11. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.

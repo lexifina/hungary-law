@@ -1,5 +1,5 @@
-2. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^70]
+2. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^71]
 
 A versenyzői pénzjutalom az IPC által szervezett nyári és téli paralimpiai játékok esetén(nettó összegben, forintban, 100%)
 
-[^70]: A 2. melléklet a 151/2024. (VI. 28.) Korm. rendelet 16. § (1) bekezdés b) pontjával megállapított szöveg.
+[^71]: A 2. melléklet a 151/2024. (VI. 28.) Korm. rendelet 16. § (1) bekezdés b) pontjával megállapított szöveg.

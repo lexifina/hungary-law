@@ -18,7 +18,7 @@
 
 | 9. | VIII. helyezés | 77 000 |
 
-10. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^79]
+10. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^80]
 
 A versenyzői eredményességi pénzjutalom mértéke világ- és Európa-bajnokság esetében olimpiai versenyszámban(nettó összegben, forintban, 100%)
 
@@ -82,4 +82,4 @@ A versenyzői eredményességi pénzjutalom mértéke világ- és Európa-bajnok
 
 | 8. | III. | 783 750 | 1 567 500 |
 
-[^79]: A 10. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^80]: A 10. mellékletet a 151/2024. (VI. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 177/2025. (VI. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

@@ -41,7 +41,7 @@ i) a Speciális Olimpia esetében a Magyar Speciális Olimpia Szövetség ügyin
 [^23]: A 4. § (4) bekezdés f) pontját a 177/2025. (VI. 30.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
 [^24]: A 4. § (4) bekezdés g) pontja a 151/2024. (VI. 28.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^25]: A 4. § (5) bekezdése a 177/2025. (VI. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^26]: A 4. § (6) bekezdése a 177/2025. (VI. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^26]: A 4. § (6) bekezdése a 177/2025. (VI. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg. [Nem vezethető át a 177/2025. (VI. 30.) Korm. rendelet 16. § 6. pontjában foglalt azon módosítás, amely szerint a 4. § (6) bekezdésében az „a 12. melléklet alapján összeállított sportköztestületi javaslathoz” szövegrész helyébe az „a 13. melléklet alapján összeállított sportköztestületi határozathoz” szöveg lép.]
 [^27]: A 4. § (7) bekezdése a 294/2015. (X. 8.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 475/2016. (XII. 27.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
 [^28]: A 4. § (8) bekezdését a 294/2015. (X. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^29]: A 4. § (9) bekezdését a 294/2015. (X. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 151/2024. (VI. 28.) Korm. rendelet 13. § (4) bekezdésével megállapított, a 177/2025. (VI. 30.) Korm. rendelet 16. § 7. pontja szerint módosított szöveg.
