@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-349-20-
 | 2023-07-01 | 2021-349-20-22.11 | 108/2023. (III. 30.) Korm. rendelet |
 | 2024-07-03 | 2021-349-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2025-01-01 | 2021-349-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2026-01-01 | 2021-349-20-22.12 | 342/2025. (X. 31.) Korm. rendelet |

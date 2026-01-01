@@ -14,7 +14,7 @@ c) 9. cikk (1) bekezdése szerinti elkülönített gyűjtésre vonatkozó célé
 
 d) 6. cikk (5) bekezdésében meghatározott célok elérésének bemutatása céljából a 1. melléklet 4. pontjában felsorolt italpalackok újrafeldolgozott tartalmára vonatkozó információkat;
 
-e)[^8] 8. cikk (3) bekezdésével összhangban az 1. melléklet 6.8. pontjában felsorolt egyszer használatos műanyagtermékek fogyasztás utáni hulladékaira vonatkozó összegyűjtött adatokat.
+e)[^10] 8. cikk (3) bekezdésével összhangban az 1. melléklet 6.8. pontjában felsorolt egyszer használatos műanyagtermékek fogyasztás utáni hulladékaira vonatkozó összegyűjtött adatokat.
 
 (3) Az adatok és információk benyújtása elektronikus úton történik annak a jelentéstételi évnek a végét követő tizennyolc hónapon belül, amelyre az adatok vonatkoznak.
 
@@ -22,4 +22,4 @@ e)[^8] 8. cikk (3) bekezdésével összhangban az 1. melléklet 6.8. pontjában 
 
 (5) Az e § szerinti adat- és információszolgáltatást az Európai Bizottság által meghatározott formátumban kell végezni.
 
-[^8]: A 18. § (2) bekezdés e) pontja a 108/2023. (III. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^10]: A 18. § (2) bekezdés e) pontja a 108/2023. (III. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
