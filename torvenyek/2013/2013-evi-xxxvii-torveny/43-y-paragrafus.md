@@ -18,7 +18,7 @@ g) az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló ko
 
 h) azon más tagállambeli személyek és a hozzájuk kapcsolódó tagállamok megnevezése, amelyeket az adatszolgáltatási kötelezettség alá tartozó, határokon átnyúló konstrukció valószínűsíthetően érint.
 
-(3) A 43/U. § szerinti adatszolgáltatásra kötelezett e kötelezettségét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített elektronikus űrlapon teljesíti.
+(3) A 43/U. § szerinti adatszolgáltatásra kötelezett e kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti.
 
 (4) Az állami adó- és vámhatóság az automatikus információcserét a 2011/16/EU tanácsi irányelv 26. cikk (2) bekezdése szerinti eljárásnak megfelelően meghatározott formanyomtatvány felhasználásával, a központi adattárban való rögzítés útján elektronikus úton teljesíti.
 

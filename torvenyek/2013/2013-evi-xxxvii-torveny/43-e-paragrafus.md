@@ -1,4 +1,4 @@
-43/E. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/A–43/C. § szerinti bejelentési és adatszolgáltatási kötelezettségét, a Nem jelentő Magyar Pénzügyi Intézmény a 43/A. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét elektronikus úton, az állami adóhatóság által e célra rendszeresített elektronikus űrlapon teljesíti az állami adóhatósághoz.
+43/E. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/A–43/C. § szerinti bejelentési és adatszolgáltatási kötelezettségét, a Nem jelentő Magyar Pénzügyi Intézmény a 43/A. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti az állami adó- és vámhatósághoz.
 
 (2) A 43/A–43/C. § szerinti bejelentési és adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
 

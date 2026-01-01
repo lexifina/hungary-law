@@ -1,0 +1,1 @@
+21/K. § A 6. melléklet I/C–H. pontja szerinti Adatszolgáltatásra kötelezett kriptoeszköz-szolgáltatónak minősülő Kriptoeszköz üzemeltető mentesül a 21/J. § (2) bekezdésében meghatározott bejelentési kötelezettség alól, ha a 6. melléklet II. és III. pontja szerinti adatszolgáltatási és átvilágítási kötelezettségét más tagállamban teljesíti.

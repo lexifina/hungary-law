@@ -32,6 +32,8 @@ k) az Adatszolgáltatási időszakban az Érintett tevékenységek száma, valam
 
 l) az Adatszolgáltatási időszakban az Adatszolgáltatásra kötelezett platformüzemeltető által levont vagy felszámított bármely díj, jutalék vagy adó negyedéves bontásban feltüntetett összege.
 
+m) ha az Adatszolgáltatásra kötelezett platformüzemeltető az Értékesítő személyazonosságának és adóügyi illetőségének megállapítása céljából Azonosítási szolgáltatáson keresztül közvetlenül erősíti meg az Értékesítő személyazonosságát és illetőségét, az Azonosítási szolgáltatás azonosítója és az azt kiadó tagállam vagy más állam, és a más állam által kiadott egyéb Adóazonosító szám; ebben az esetben a c)–g) pontokban említett információkat nem szükséges közölni az Azonosítási szolgáltatás azonosítóját kiadó tagállammal vagy más állammal.
+
 (5) Ha a Jelentendő értékesítő ingatlan-bérbeadási szolgáltatásokat is nyújt, az állami adó- és vámhatóság a (4) bekezdésben meghatározottakon túl a következő kiegészítő információkat is közli:
 
 a) az 5. melléklet II/E. pontja szerinti eljárás alapján meghatározott Közvetített ingatlan címét, és ha az rendelkezésre áll, annak helyrajzi számát vagy annak az ingatlan helye szerinti tagállam vagy más állam nemzeti joga által megállapított megfelelőjét;

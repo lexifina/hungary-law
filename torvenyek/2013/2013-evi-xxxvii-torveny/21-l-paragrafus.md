@@ -1,0 +1,3 @@
+21/L. § (1) Az Adatszolgáltatásra kötelezett kriptoeszköz-szolgáltató a 6. melléklet III. pontjában meghatározott átvilágítási szabályoknak megfelelően megszerzett adatok kapcsán fennálló adatszolgáltatási kötelezettségét a 6. melléklet II/D. pontjában meghatározott határidőben a 6. melléklet II/B. pontja szerinti adattartalommal teljesíti az állami adó- és vámhatósághoz.
+
+(2) Ha az Adatszolgáltatásra kötelezett kriptoeszköz-szolgáltatónak az (1) bekezdés alapján nem keletkezik adatszolgáltatási kötelezettsége, erről a tényről az azonosító adatainak feltüntetésével az (1) bekezdésben foglaltaknak megfelelő határidőben nullás tartalmú adatszolgáltatást teljesít az állami adó- és vámhatósághoz.

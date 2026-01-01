@@ -1,0 +1,1 @@
+21/O. § Az Adatszolgáltatásra kötelezett kriptoeszköz-szolgáltató a 6. melléklet III. pontja alapján beszerzendő információk közlésére vonatkozó második sikertelen felhívása után, az eredeti adatkéréstől számított 60 nap elteltével a Kriptoeszköz-felhasználó részére a Jelentendő ügylet végrehajtását megtagadja.

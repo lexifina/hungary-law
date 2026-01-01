@@ -1,4 +1,4 @@
-43/R. § (1) A 43/N. § szerinti adatszolgáltatásra, illetve a 43/O. § szerinti bejelentésre kötelezett e kötelezettségét elektronikus úton, az állami adóhatóság által erre a célra rendszeresített elektronikus űrlapon teljesíti.
+43/R. § (1) A 43/N. § szerinti adatszolgáltatásra, illetve a 43/O. § szerinti bejelentésre kötelezett e kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti.
 
 (2) Az állami adóhatóság a 43/P. §-ban meghatározott automatikus információcsere tárgyát képező adatokat az Európai Bizottság által az adózás területén történő közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 26. cikk (2) bekezdése szerinti eljárásnak megfelelően meghatározott nyelvhasználati szabályok szerint továbbítja. E nyelvhasználati szabályok hiányában a 16. § (4) bekezdésében foglaltak alkalmazandók.
 
