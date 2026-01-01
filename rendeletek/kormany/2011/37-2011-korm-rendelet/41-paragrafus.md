@@ -1,5 +1,5 @@
 ## 20. Hatályon kívül helyező rendelkezések
 
-41. §[^235]
+41. §[^236]
 
-[^235]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^236]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

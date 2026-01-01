@@ -4,4 +4,7 @@
 
 (3) A miniszter minden év június 30. napjáig megküldi az Európai Bizottság részére a nyilvántartási és hozzáférhetővé tételi kötelezettség hatálya alá tartozó támogatások előző naptári évre vonatkozó, aggregált éves adatait.
 
+(4)[^170] A Kincstár a monitoringrendszerben kezelt adatokat naponta frissítve naprakészen tartja, és biztosítja a nyilvántartási és hozzáférhetővé tételi kötelezettség hatálya alá tartozó támogatások kereshetőségét.
+
 [^169]: A 18/E. §-t a 347/2025. (XI. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^170]: A 18/E. § (4) bekezdését a 347/2025. (XI. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.

@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2024-12-28 | 2011-37-20-22.36 | 432/2024. (XII. 23.) Korm. rendelet |
 | 2025-04-27 | 2011-37-20-22.37 | 86/2025. (IV. 24.) Korm. rendelet |
 | 2025-11-09 | 2011-37-20-22.38 | 347/2025. (XI. 4.) Korm. rendelet |
+| 2026-01-01 | 2011-37-20-22.39 | 347/2025. (XI. 4.) Korm. rendelet |

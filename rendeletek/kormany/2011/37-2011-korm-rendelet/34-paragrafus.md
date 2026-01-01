@@ -1,3 +1,3 @@
-34. §[^212]
+34. §[^213]
 
-[^212]: A 34. §-t a 639/2023. (XII. 28.) Korm. rendelet 8. § 7. pontja hatályon kívül helyezte.
+[^213]: A 34. §-t a 639/2023. (XII. 28.) Korm. rendelet 8. § 7. pontja hatályon kívül helyezte.
