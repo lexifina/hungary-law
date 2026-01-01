@@ -2,13 +2,13 @@
 
 a) a rendszeres díjas életbiztosítások esetében
 
-aa)[^4]
+aa)[^8]
 
 ab) a 3. melléklet vonatkozásában havi 25 000 forint,
 
 b) az egyszeri díjas életbiztosítások esetében
 
-ba)[^5]
+ba)[^9]
 
 bb) a 3. melléklet vonatkozásában 4 500 000 forint,
 
@@ -18,7 +18,7 @@ c) amennyiben az adott termékhez tartozó minimális díj az a), illetve a b) p
 
 (3) A díjfizetés gyakorisága:
 
-a)[^6]
+a)[^10]
 
 b) a 3. melléklet vonatkozásában havi (vagy egyszeri),
 
@@ -26,11 +26,11 @@ c) amennyiben rendszeres díjas termék esetén a havi díjfizetés nem megenged
 
 (4) A díjfizetés módja:
 
-a)[^7]
+a)[^11]
 
 b) a 3. melléklet vonatkozásában átutalás.
 
-[^4]: A 4. § (1) bekezdés a) pont aa) alpontját a 12. § (4) bekezdése hatályon kívül helyezte.
-[^5]: A 4. § (1) bekezdés b) pont ba) alpontját a 12. § (4) bekezdése hatályon kívül helyezte.
-[^6]: A 4. § (3) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.
-[^7]: A 4. § (4) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^8]: A 4. § (1) bekezdés a) pont aa) alpontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^9]: A 4. § (1) bekezdés b) pont ba) alpontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^10]: A 4. § (3) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.
+[^11]: A 4. § (4) bekezdés a) pontját a 12. § (4) bekezdése hatályon kívül helyezte.

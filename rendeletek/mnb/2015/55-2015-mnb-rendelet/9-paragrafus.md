@@ -1,4 +1,4 @@
-## 8. §[^14] A TKM értékének meghatározása során a biztosító feltételezi, hogy a szerződés az előre meghatározott tartam előtt nem kerül (részleges) visszavásárlásra (ideértve a rendszeres pénzkivonást is), (részleges) díjmentesítésre, és egyéb módon (ideértve a biztosítási szolgáltatást is) sem szűnik meg az előre rögzített lejárati időpont, illetve az élethosszig tartó biztosítás (whole life) esetén az 5. § (2) bekezdésben rögzített időpontok előtt.
+## 8. §[^20] A TKM értékének meghatározása során a biztosító feltételezi, hogy a szerződés az előre meghatározott tartam előtt nem kerül (részleges) visszavásárlásra (ideértve a rendszeres pénzkivonást is), (részleges) díjmentesítésre, és egyéb módon (ideértve a biztosítási szolgáltatást is) sem szűnik meg az előre rögzített lejárati időpont, illetve az élethosszig tartó biztosítás (whole life) esetén az 5. § (2) bekezdésben rögzített időpontok előtt.
 
 9. § (1) Azon megtakarítási jellegű életbiztosítási termék esetében, amely a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerint nyugdíjbiztosításnak minősül, a biztosító a 2–8. §-ban foglaltakat a (2) és (3) bekezdésben foglaltak figyelembevételével alkalmazza.
 
@@ -12,4 +12,4 @@ b) egyszeri díjas biztosítás esetében az 5, 10, illetve 20 éves tartamokra 
 
 személyt vesz figyelembe.
 
-[^14]: A 8. § az 53/2016. (XII. 21.) MNB rendelet 8. § d) pontja szerint módosított szöveg.
+[^20]: A 8. § az 53/2016. (XII. 21.) MNB rendelet 8. § d) pontja szerint módosított szöveg.
