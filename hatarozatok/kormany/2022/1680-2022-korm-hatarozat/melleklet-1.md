@@ -1,14 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 66 623 731 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+## 1.[^1]
 
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
-
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 136 825 158 695 forint egyszeri átcsoportosítását rendeli el a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 1. Gazdaság-újraindítási programok jogcímcsoport (a továbbiakban: GÚP előirányzat) terhére, a 2. melléklet szerint;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | azonnal |
+## 2.[^2]
 
 ## 3. a Magyarország 2022. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 814/2021. (XII. 28.) Korm. rendelet 8. § (3) bekezdése alapján jóváhagyja a GÚP előirányzatnak a 2. pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 136 825 158 695 forinttal történő túlteljesülését;
 
@@ -19,3 +11,6 @@
 | Határidő: | a 2. pont szerinti forrás rendelkezésre állását követően azonnal |
 
 1. melléklet az 1680/2022. (XII. 23.) Korm. határozathoz
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
