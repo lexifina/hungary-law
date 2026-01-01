@@ -14,13 +14,7 @@ külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-3. az 1. pont b) alpontjában foglalt feladat végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok alcímének a 4. A koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatás jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-külgazdasági és külügyminiszter
-
-Határidő: 2022. január 5.
+3.[^1]
 
 4. az 1. pont b) alpontjában foglalt feladat végrehajtása érdekében felhívja a külgazdasági és külügyminisztert, hogy a 2. pont szerinti előirányzat terhére rögzített kötelezettségvállalások 2021. évben pénzügyileg nem teljesült állományáról az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 149. § (1) bekezdésében foglaltakat megelőzően tájékoztassa a pénzügyminisztert;
 
@@ -39,3 +33,5 @@ Határidő: a befizetési kötelezettség teljesítését követően azonnal
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
