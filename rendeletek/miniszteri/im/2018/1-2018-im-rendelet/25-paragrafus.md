@@ -1,3 +1,0 @@
-## VIII. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
