@@ -1,1 +1,3 @@
-4. § A Korm. rendelet 3. § (3) bekezdésében és 13. §-ában a „versenyképességet javító hitelgarancia” szövegrész helyébe a „belföldi célú hitelgarancia” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
