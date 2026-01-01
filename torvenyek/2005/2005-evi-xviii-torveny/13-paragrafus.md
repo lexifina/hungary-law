@@ -10,6 +10,8 @@ c) a kérelmező a 12. § (1) és (2) bekezdése szerinti bármely engedélyét 
 
 d) a kérelmező nem rendelkezik a kérelemben szereplő tevékenység folyamatos, hosszú távú ellátásához szükséges engedélyekkel.
 
+e) a kérelmező az adózás rendjéről szóló törvény alapján nem minősül köztartozásmentes adózónak.
+
 (2a) A Hivatal a maradékhő-értékesítési engedély kiadását megtagadja, ha
 
 a) a rendelkezésre álló maradékhő a megvalósítani kívánt műszaki megoldással a távhőrendszerbe a távhőszolgáltató által a Hivatal felé igazolt módon nem táplálható be, vagy
