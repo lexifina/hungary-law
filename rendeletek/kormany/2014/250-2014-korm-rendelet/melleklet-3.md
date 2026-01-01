@@ -22,6 +22,8 @@ Kórházak részére biztosított ingatlanüzemeltetési szolgáltatások
 
 3.2.[^57] Vizesblokkok higiénés termékeinek kihelyezése
 
+3.2a.[^58] Betegforgalom részére megnyitott vizesblokkokban kézmosószer és toalettpapír biztosítása
+
 3.3. Épületen belüli szelektívhulladék-gyűjtés
 
 3.4. Épületen belüli kommunálishulladék-gyűjtés
@@ -40,9 +42,9 @@ Kórházak részére biztosított ingatlanüzemeltetési szolgáltatások
 
 5.2. Beépített hő- és füstelvezető rendszerek üzemeltetése, karbantartása, javítása
 
-5.3.[^58] A létesítmény külső határoló elemeinek védelmét (héjvédelem) biztosító beléptető-, behatolásjelző és videomegfigyelő rendszerek műszaki infrastrukturális üzemeltetése, karbantartása, javítása
+5.3.[^59] A létesítmény külső határoló elemeinek védelmét (héjvédelem) biztosító beléptető-, behatolásjelző és videomegfigyelő rendszerek műszaki infrastrukturális üzemeltetése, karbantartása, javítása
 
-5.4.[^59]
+5.4.[^60]
 
 6. Épületekkel kapcsolatos, üzemeltetőt terhelő tűz- és munkavédelmi, valamint egyéb veszélyelhárítási feladatok ellátása
 
@@ -52,17 +54,18 @@ Kórházak részére biztosított ingatlanüzemeltetési szolgáltatások
 
 6.3. Tűz- és munkavédelmi szemle végzése
 
-6.4.[^60] Tűzvédelmi szabályzat készítésének üzemeltetői támogatása és felülvizsgálata
+6.4.[^61] Tűzvédelmi szabályzat készítésének üzemeltetői támogatása és felülvizsgálata
 
 6.5. Üzemeltetőt terhelő katasztrófavédelmi és veszélyelhárítási tervek készítése
 
-7.[^61]
+7.[^62]
 
 [^54]: A 3. mellékletet a 83/2023. (III. 16.) Korm. rendelet 5. §-a iktatta be.
 [^55]: A 3. melléklet 2.5. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^56]: A 3. melléklet 3. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^57]: A 3. melléklet 3.2. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^58]: A 3. melléklet 5.3. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^59]: A 3. melléklet 5.4. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^60]: A 3. melléklet 6.4. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^61]: A 3. melléklet 7. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^58]: A 3. melléklet 3. pont 3.2a. alpontját a 315/2025. (X. 17.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A 3. melléklet 5.3. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^60]: A 3. melléklet 5.4. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^61]: A 3. melléklet 6.4. pontja a 206/2025. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^62]: A 3. melléklet 7. pontját a 206/2025. (VII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
