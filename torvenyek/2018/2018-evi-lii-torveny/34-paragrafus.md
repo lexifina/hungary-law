@@ -24,7 +24,7 @@ d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolvá
 
 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
 
-8.
+8. éves átlagkereset: az Szja tv. szerinti éves átlagkereset.
 
 9. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
 
@@ -71,3 +71,7 @@ p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségká
 14. saját jogú nyugdíjas: a Tbj. szerint saját jogú nyugdíjasnak minősülő természetes személy;
 
 15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.
+
+16. anyák kedvezménye: az Szja tv. 29/D. § -a szerinti kedvezmény, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény szerinti kedvezmény, a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény szerinti kedvezmény;
+
+17. anyák kedvezménye alapját képező jövedelem: az Szja tv. 29/D. § (2) bekezdése szerinti jövedelem, a három gyermeket nevelő anyák kedvezményéről szóló 2025. évi XV. törvény 1. § (2) bekezdése szerinti jövedelem és a két gyermeket nevelő anyák kedvezményéről szóló 2025. évi XIV. törvény 1. § (2) bekezdése szerinti jövedelem együttes összege.

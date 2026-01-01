@@ -52,4 +52,4 @@ Magyarországon adóztatható része után.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
 
-(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja az (1)–(3) bekezdés szerinti jövedelem esetében megegyezik a társadalombiztosítási járulék alapjával (ide nem értve a felszolgálási díjat).
+(10) A Tbj. 6. § (1) bekezdés a) és l) pontja szerinti biztosítási jogviszony esetében az adó alapja az (1)–(3) bekezdés szerinti jövedelem esetében megegyezik a társadalombiztosítási járulék alapjával (ide nem értve a felszolgálási díjat).

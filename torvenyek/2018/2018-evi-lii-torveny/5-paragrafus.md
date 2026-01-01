@@ -28,7 +28,15 @@ i) az egyházi jogi személynek az egyházi szolgálati viszonyban álló egyhá
 
 j) a Tbj. szerint saját jogú nyugdíjasnak minősülő adófizetésre kötelezett személynek az Szja tv. szerinti egyéb jövedelem kivételével.
 
-k) a kisgyermekkel otthon lévők szövetkezetének a nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjával fennálló jogviszonyára tekintettel.
+k) a kisgyermekkel otthon lévők szövetkezetének a csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjával fennálló jogviszonyára tekintettel.
+
+(1a) Az (1) bekezdéstől eltérően adókötelezettség keletkezik az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély
+
+a) részére a tárgyévben ugyanazon kifizető által juttatott az anyák kedvezménye alapját képező olyan jövedelmei együttes összegének az éves átlagkereset négyszeresét meghaladó része után, amely jövedelmekből a kifizető az Szja tv. szabályai szerint egyébként adóelőleget lenne köteles levonni;
+
+b) által megszerzett az anyák kedvezménye alapját képező olyan jövedelmei együttes összegének az éves átlagkereset négyszeresét meghaladó része után, amely jövedelmek nem kifizetőtől származnak vagy a jövedelmekből a kifizető az Szja tv. szabályai szerint egyébként adóelőleget nem lenne köteles levonni.
+
+(1b) Az (1a) bekezdés a) pontjának alkalmazása során egyazon kifizetőnek kell tekinteni a kifizetővel a társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásnak minősülő más kifizetőt is.
 
 (2) Nem esik az 1. § (1)–(3) bekezdés szerinti adófizetési kötelezettség alá – e tevékenysége, jogállása alapján szerzett jövedelme tekintetében –
 

@@ -15,3 +15,11 @@
 (7) Munkaerő-kölcsönzés keretében kölcsönbe adott munkavállalóval fennálló jogviszonyra tekintettel fizetendő adó alanya a kölcsönbe adó. Ha a kölcsönbe adó külföldi kifizető, az adófizetésre kötelezett a munkavállalót kölcsönbe vevő személy.
 
 (8) Több munkáltatóval létesített munkaviszony [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 195. §] esetén az adókötelezettséget az adózás rendjéről szóló törvény szerint meghatározott munkáltató teljesíti.
+
+(9) Adófizetésre kötelezett személynek az 5. § (1a) bekezdés
+
+a) a) pontja szerinti adókötelezettség esetén a kifizető,
+
+b) b) pontja szerinti adókötelezettség esetén az anyák kedvezményét érvényesítő Tbj. szerinti saját jogú nyugdíjas magánszemély
+
+minősül.
