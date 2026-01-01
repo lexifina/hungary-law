@@ -1,3 +1,3 @@
-11. §[^11]
+11. §[^5]
 
-[^11]: A 11. § a 12. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.
+[^5]: A 11. § a 12. § (3) bekezdése alapján 2026. szeptember 1-jén lép hatályba.

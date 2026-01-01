@@ -1,3 +1,1 @@
-8. §[^8]
-
-[^8]: A 8. § a 12. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+8. § Hatályát veszti a 322/2015. (X. 30.) Korm. rendelet 21. §-a.

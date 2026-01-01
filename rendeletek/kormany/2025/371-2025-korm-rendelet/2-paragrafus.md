@@ -1,5 +1,5 @@
 ## 2. A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet módosítása
 
-2. §[^2]
+2. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet [a továbbiakban: 321/2015. (X. 30.) Korm. rendelet] 21/A. §-a helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 12. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+„21/A. § A 21. § (1) bekezdés a) pontja, (2) bekezdés a) pontja és (3) bekezdés a) pontja alkalmazásában az ajánlatkérő a teljesítés igazolásaként köteles elfogadni annak igazolását, ha a referencia követelményben foglalt eredmény vagy tevékenység a szerződés részteljesítéseként valósult meg. Az ajánlatkérő köteles elfogadni azon megvalósult teljesítések igazolását is, amelyek esetén bár szerződésszegés történt, de a gazdasági szereplő szerződésszegésért való felelőssége – a szerződést kötő másik fél által nem vitatottan – nem áll fenn. Az ajánlatkérő a közbeszerzési dokumentumokban meghatározhatja a szerződésszegések olyan további körét, amellyel érintett teljesítések igazolását elfogadja, feltéve, hogy a referencia követelményben elvárt teljesítés megvalósult.”
