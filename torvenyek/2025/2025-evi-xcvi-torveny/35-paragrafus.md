@@ -1,0 +1,1 @@
+35. § A Tfvt. 12. § (2a) bekezdés nyitó szövegrészében a „megvalósításához szükséges” szövegrész helyébe a „megvalósításához, továbbá a villamos energiáról szóló törvény szerinti szélerőműpark-beruházás termelői vezetékeinek elhelyezéséhez szükséges” szöveg lép.

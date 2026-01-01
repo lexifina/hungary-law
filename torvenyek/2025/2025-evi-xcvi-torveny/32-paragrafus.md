@@ -1,0 +1,5 @@
+## 3. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
+
+32. § A termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A termőföld más célú hasznosításával járó engedélyezési, jóváhagyási vagy tudomásulvételi (a továbbiakban együtt: engedélyezési) eljárásban érdemi döntés a termőföld más célú hasznosításának engedélyezéséről szóló, véglegessé vált ingatlanügyi hatósági határozat figyelembevételével hozható. Az ingatlanügyi hatóság határozatának hiányában az engedélyezési eljárás megindítható, az ingatlanügyi hatóság által vizsgálandó szempontoktól elkülöníthető szempontokat az eljáró hatóság vizsgálja, ezen túlmenően azonban az engedélyezési eljárását az eljáró hatóság az ingatlanügyi hatóság határozatának véglegessé válásáig felfüggeszti. Engedélyezési eljárás alatt a más célú hasznosítással járó tevékenység vagy beruházás megvalósítására ténylegesen és közvetlenül jogosító eljárás értendő és abba nem tartoznak bele az engedélyezési eljárás szempontjából ágazati szempontot vizsgáló vagy helyi szabályozási környezetet módosító eljárások.”

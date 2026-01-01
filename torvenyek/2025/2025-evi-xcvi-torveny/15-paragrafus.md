@@ -1,0 +1,3 @@
+15. § A VET 70. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés eredménytelensége esetén a villamosenergia-ellátási szabályzatot a nemzetközi üzemi és kereskedelmi szabályzat kivételével hivatalból módosíthatja, ha a villamosenergia-ellátási szabályzat akadályozza a hatékony versenyt, az árszabályozásra vonatkozó rendelkezések érvényesülését, indokolatlan megkülönböztetés alkalmazását teszi lehetővé vagy a felhasználó hozzájáruló nyilatkozatával rendelkező jogosult félre aránytalan adminisztratív terhet ír elő.”
