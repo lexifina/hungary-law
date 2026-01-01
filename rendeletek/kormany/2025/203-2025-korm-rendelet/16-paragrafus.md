@@ -1,77 +1,75 @@
 16. § Hatályát veszti a 445/2012. (XII. 29.) Korm. rendelet
 
-1.[^27]
+1.[^24]
 
-2.[^28]
+2. 2. § (1) bekezdés 5a. pontja,
 
-3.[^29]
+3.[^25]
 
-4.[^30]
+4.[^26]
 
-5.[^31]
+5.[^27]
 
-6.[^32]
+6.[^28]
 
-7.[^33]
+7.[^29]
 
-8.[^34]
+8.[^30]
 
-9.[^35]
+9.[^31]
 
-10.[^36]
+10.[^32]
 
-11.[^37]
+11.[^33]
 
-12.[^38]
+12.[^34]
 
-13.[^39]
+13.[^35]
 
-14.[^40]
+14.[^36]
 
-15.[^41]
+15.[^37]
 
-16.[^42]
+16.[^38]
 
-17.[^43]
+17.[^39]
 
-18.[^44]
+18.[^40]
 
-19.[^45]
+19.[^41]
 
-20.[^46]
+20.[^42]
 
-21.[^47]
+21.[^43]
 
-22.[^48]
+22.[^44]
 
-23.[^49]
+23.[^45]
 
-24.[^50]
+24.[^46]
 
-25.[^51]
+25. 4. és 5. melléklete.
 
-[^27]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 16. § 2. pontja a 38. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
-[^29]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 16. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 16. § 6. pontja a 38. § (3) bekezdése alapján 2026. augusztus 18-án lép hatályba.
-[^33]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 16. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 16. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 16. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^38]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 16. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 16. § 18. pontja a 38. § (3) bekezdése alapján 2026. augusztus 18-án lép hatályba.
-[^45]: A 16. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^46]: A 16. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^47]: A 16. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^48]: A 16. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^49]: A 16. § 23. pontja a 38. § (3) bekezdése alapján 2026. augusztus 18-án lép hatályba.
-[^50]: A 16. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: A 16. § 25. pontja a 38. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^24]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 16. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 16. § 6. pontja a 38. § (3) bekezdése alapján 2026. augusztus 18-án lép hatályba.
+[^29]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 16. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 16. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 16. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 16. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 16. § 18. pontja a 38. § (3) bekezdése alapján 2026. augusztus 18-án lép hatályba.
+[^41]: A 16. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 16. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 16. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 16. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 16. § 23. pontja a 38. § (3) bekezdése alapján 2026. augusztus 18-án lép hatályba.
+[^46]: A 16. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
