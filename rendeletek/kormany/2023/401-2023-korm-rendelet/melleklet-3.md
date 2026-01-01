@@ -2,13 +2,13 @@
 
 | 1. | A nevelő-oktató munka pedagógiai szakaszai / Nevelési-oktatási intézmények | Pedagógus-munkakör | Az alkalmazáshoz szükséges szakképzettség |
 
-| 2. | Óvodai nevelés | óvodapedagógus | óvodapedagógus, óvodai nevelő[^79] |
+| 2. | Óvodai nevelés | óvodapedagógus | óvodapedagógus, óvodai nevelő[^80] |
 
 | 3. | Alsó tagozat | tanító | tanító |
 
 | 4. | 5–8. évfolyam | tanár | a tantárgynak megfelelő szakos tanár, tanító |
 
-| 5. | 9–12. évfolyam gimnáziumban, szakgimnáziumban[^80] | gimnáziumi, szakgimnáziumi tanár[^81] | mesterfokozatú (az általános iskolai tanár kivételével), a tantárgynak megfelelő szakos tanár |
+| 5. | 9–12. évfolyam gimnáziumban, szakgimnáziumban[^81] | gimnáziumi, szakgimnáziumi tanár[^82] | mesterfokozatú (az általános iskolai tanár kivételével), a tantárgynak megfelelő szakos tanár |
 
 | 6. | Szakgimnázium (pedagógiai, közművelődési) | szakmai tantárgyat oktató tanár | a szakmai tantárgynak megfelelő szakos felsőfokú szakképzettség |
 
@@ -24,15 +24,15 @@
 
 | 12. |  | könyvtárostanár (tanító) | könyvtárpedagógia-tanár, informatikus könyvtáros és tanító vagy tanár vagy szociálpedagógus |
 
-| 13. |  | óvodapszichológus/ iskolapszichológus | pszichológus és óvodapedagógus vagy gyógypedagógus vagy konduktor vagy tanító vagy tanár, pszichológus tanácsadás és iskolapszichológia specializáció, pedagógiai szakpszichológus, óvoda- és iskola-szakpszichológus, óvoda- és iskolapszichológus, tanácsadó szakpszichológus[^82] |
+| 13. |  | óvodapszichológus/ iskolapszichológus | pszichológus és óvodapedagógus vagy gyógypedagógus vagy konduktor vagy tanító vagy tanár, pszichológus tanácsadás és iskolapszichológia specializáció, pedagógiai szakpszichológus, óvoda- és iskola-szakpszichológus, óvoda- és iskolapszichológus, tanácsadó szakpszichológus[^83] |
 
 | 14. |  | fejlesztő pedagógus | óvodapedagógus, tanító, tanár, szociálpedagógus, konduktor, a továbbiakban meg nem nevezett gyógypedagógus, pedagógia szakos előadó, pedagógia szakos nevelőtanár és a beilleszkedési, tanulási, magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség, oligofrénpedagógia szakos gyógypedagógiai tanár, gyógypedagógus, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógiai tanár vagy terapeuta, gyógypedagógus tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon |
 
 | 15. |  | szociálpedagógus | szociálpedagógus |
 
-| 16.[^83] |  | konduktor | a) konduktor, b) konduktor-tanító, c) konduktor-óvodapedagógus, d) konduktor (óvodapedagógus vagy tanító szakiránnyal), e) konduktor (óvodapedagógus vagy tanító specializációval), f) konduktor (óvodai, iskolai vagy pedagógiai rehabilitáció specializációval), g) speciális pedagógia szakos tanár és szakpedagógus, ha az a)–f) alpontra épül, h) okleveles konduktortanár |
+| 16.[^84] |  | konduktor | a) konduktor, b) konduktor-tanító, c) konduktor-óvodapedagógus, d) konduktor (óvodapedagógus vagy tanító szakiránnyal), e) konduktor (óvodapedagógus vagy tanító specializációval), f) konduktor (óvodai, iskolai vagy pedagógiai rehabilitáció specializációval), g) speciális pedagógia szakos tanár és szakpedagógus, ha az a)–f) alpontra épül, h) okleveles konduktortanár |
 
-| 17. |  | gyógypedagógus (beleértve a logopédia szakon, szakirányon végzett gyógypedagógust is) | a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy okleveles gyógypedagógia-tanár vagy okleveles logopédus és a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta[^84] |
+| 17. |  | gyógypedagógus (beleértve a logopédia szakon, szakirányon végzett gyógypedagógust is) | a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy okleveles gyógypedagógia-tanár vagy okleveles logopédus és a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta[^85] |
 
 | 18. | Nemzetiségi óvodai nevelés | nemzetiségi óvodapedagógus | nemzetiségi óvodapedagógus |
 
@@ -64,9 +64,9 @@
 
 A nevelő és oktató munkát közvetlenül segítő munkakörök, valamint a gazdasági, ügyviteli, műszaki és kisegítő munkakörök képesítési szintje
 
-[^79]: A 2. mellékletben foglalt táblázat C:2 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 14. pontja szerint módosított szöveg.
-[^80]: A 2. mellékletben foglalt táblázat A:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 12. pontjával megállapított szöveg.
-[^81]: A 2. mellékletben foglalt táblázat B:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 13. pontjával megállapított szöveg.
-[^82]: A 2. mellékletben foglalt táblázat C:13 mezője a 454/2025. (XII. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^83]: A 2. mellékletben foglalt táblázat 16. sora a 182/2025. (VI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^84]: A 2. mellékletben foglalt táblázat C:17 mezője a 182/2025. (VI. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^80]: A 2. mellékletben foglalt táblázat C:2 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 14. pontja szerint módosított szöveg.
+[^81]: A 2. mellékletben foglalt táblázat A:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 12. pontjával megállapított szöveg.
+[^82]: A 2. mellékletben foglalt táblázat B:5 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 13. pontjával megállapított szöveg.
+[^83]: A 2. mellékletben foglalt táblázat C:13 mezője a 454/2025. (XII. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^84]: A 2. mellékletben foglalt táblázat 16. sora a 182/2025. (VI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^85]: A 2. mellékletben foglalt táblázat C:17 mezője a 182/2025. (VI. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

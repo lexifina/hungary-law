@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-401-20-
 | 2025-04-27 | 2023-401-20-22.9 | 86/2025. (IV. 24.) Korm. rendelet |
 | 2025-07-01 | 2023-401-20-22.10 | 182/2025. (VI. 30.) Korm. rendelet |
 | 2025-12-30 | 2023-401-20-22.12 | 454/2025. (XII. 29.) Korm. rendelet |
+| 2026-01-01 | 2023-401-20-22.11 | 435/2025. (XII. 23.) Korm. rendelet |

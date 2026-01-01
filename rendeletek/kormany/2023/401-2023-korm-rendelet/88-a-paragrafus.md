@@ -1,12 +1,12 @@
-88/A. §[^49] (1)[^50] A munkáltató a pedagógus, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott (e § alkalmazásában a továbbiakban együtt: pedagógus) tartós pótlékok és megbízási díjak nélküli havi illetményét a Púétv. 97. § (1) bekezdése szerinti fokozata alapján a Púétv. 98. § (2) és (3) bekezdésében foglaltak figyelembevételével – a (2) és (3) bekezdésben foglalt eltéréssel – olyan módon állapítja meg, hogy a havi illetmény összege – az esélyteremtési illetményrészt ide nem értve –
+88/A. §[^49] (1)[^50] A munkáltató a pedagógus, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott (e § alkalmazásában a továbbiakban együtt: pedagógus) illetménynövekedés, esélyteremtési illetményrész, tartós pótlékok és megbízási díjak, valamint a teljesítményértékelés alapján biztosított illetményemelés nélküli havi illetményét a Púétv. 97. § (1) bekezdése szerinti fokozata alapján a Púétv. 98. § (2) és (3) bekezdésében foglaltak figyelembevételével – a (2) és (3) bekezdésben foglalt eltéréssel – olyan módon állapítja meg, hogy a havi illetmény összege
 
-a) Pedagógus I. esetén 653 100 forinttól 1 290 800 forintig,
+a) Pedagógus I. esetén 718 000 forinttól 1 400 000 forintig,
 
-b) Pedagógus II. esetén 660 400 forinttól 1 375 600 forintig,
+b) Pedagógus II. esetén 725 000 forinttól 1 490 000 forintig,
 
-c) Mesterpedagógus esetén 716 900 forinttól 1 654 400 forintig,
+c) Mesterpedagógus esetén 785 000 forinttól 1 790 000 forintig,
 
-d) Kutatótanár esetén 840 000 forinttól 1 781 600 forintig
+d) Kutatótanár esetén 915 000 forinttól 1 930 000 forintig
 
 terjedhet.
 
@@ -15,4 +15,4 @@ terjedhet.
 (3) A (2) bekezdés alkalmazása során nem minősül illetménynövelésnek, ha a pedagógus számára magasabb fokozatba történő átsorolás vagy a teljesítményértékelés eredménye okán lett magasabb illetmény megállapítva.
 
 [^49]: A 88/A. §-t a 3/2024. (I. 18.) Korm. rendelet 3. §-a iktatta be.
-[^50]: A 88/A. § (1) bekezdése a 453/2024. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^50]: A 88/A. § (1) bekezdése a 435/2025. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
