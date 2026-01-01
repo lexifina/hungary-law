@@ -2,6 +2,10 @@
 
 9/F. § (1) A működési engedélyhez nem kötött vasúti tevékenység és a pályahálózat-működtetés a vasúti igazgatási szerv részére történő bejelentés mellett végezhető.
 
-(2) A működési engedély megszerzésére nem kötelezett vasúti társaság, valamint a pályahálózat-működtető a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasságával kapcsolatos, a vasúti tevékenység megkezdésének és folytatásának bejelentéséről szóló rendeletben meghatározott követelményeknek eleget kell tennie. Az alkalmasságot a vasúti igazgatási szerv – a vasúti tevékenység megkezdésének és folytatásának bejelentéséről szóló rendeletben meghatározottak szerint – vizsgálja.
+(2) A vasúti igazgatási szerv a bejelentéssel rendelkező szervezetekről és a bejelentett tevékenységekről nyilvántartást vezet.
 
-(3) Ha a vasúti igazgatási szerv megállapítja, hogy a (2) bekezdés szerint vasúti társaság, valamint a pályahálózat-működtető a kárfedezeti képességgel kapcsolatos feltételnek nem felel meg, a vasúti igazgatási szerv a megfelelés igazolásáig, de legfeljebb hat hónapra a tevékenység folytatását megtiltja. Ha a vasúti társaság, valamint a pályahálózat-működtető a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül igazolja, a vasúti igazgatási szerv a tevékenység folytatásának megtiltását megszünteti. Ha a vasúti társaság, valamint a pályahálózat-működtető a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül nem igazolja, a vasúti igazgatási szerv a tevékenység folytatását megtiltja és a közhiteles nyilvántartásból a vasúti társaságot vagy a pályahálózat-működtetőt törli.
+(3) A bejelentésköteles tevékenységet végző szervezetnek a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló kormányrendeletekben előírt kárfedezeti képességgel kell rendelkeznie.
+
+(4) A kárfedezeti képesség rendelkezésre állását a vasúti igazgatási szerv hivatalból ellenőrzi.
+
+(5) Ha a vasúti igazgatási szerv megállapítja, hogy a bejelentésköteles tevékenységet végző szervezet a kárfedezeti képességgel kapcsolatos feltételnek nem felel meg, a vasúti igazgatási szerv a megfelelés igazolásáig a szervezetet a tevékenység végzésétől eltiltja és az eltiltás tényét a nyilvántartásban rögzíti.

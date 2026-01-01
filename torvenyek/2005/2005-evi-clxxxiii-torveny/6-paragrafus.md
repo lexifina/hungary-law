@@ -10,6 +10,6 @@
 
 (3) A Magyarországon kiadott működési engedéllyel egy tekintet alá esik a valamely más EGT-tagállamban a 2012/34/EU irányelv alapján kiadott működési engedély.
 
-(4) A vasúti igazgatási szerv a kiadott működési engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(4) A vasúti igazgatási szerv a kiadott működési engedélyekről nyilvántartást vezet.
 
 (5) A működési engedély határozatlan időtartamra szól.
