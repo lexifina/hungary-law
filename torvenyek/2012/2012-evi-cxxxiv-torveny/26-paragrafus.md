@@ -16,4 +16,6 @@ g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forga
 
 h) a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetésére, szakmai képzés feltételeire, annak teljesítésére és díjára
 
+i) a 15/J. § (1) bekezdése, valamint a 20. § (1) és (2) bekezdése szerinti nyilvántartás vezetésére és a nyilvántartások személyes adatnak nem minősülő adattartalmára
+
 vonatkozó részletes szabályokat rendeletben megállapítsa.

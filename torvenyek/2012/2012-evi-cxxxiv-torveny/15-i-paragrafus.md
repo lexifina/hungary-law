@@ -20,7 +20,7 @@ bb) a Hatóság által biztosított felhasználó nevét, és
 
 bc) telefonszámát.
 
-(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés b) pont bb) alpontja vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(3)
 
 (4) A termékregisztrátor az első érintett termék nyilvántartásba vétele előtt legalább 15 nappal a termékregisztrációs portál használatához – a (2) bekezdés b) pont bb) alpontja szerinti felhasználónév kivételével – a (2) bekezdés szerinti adatok megadásával kéri a Hatóságnál a nyilvántartásba vételét.
 

@@ -38,7 +38,7 @@ j) a termékregisztrátorokról és a Hatóság elnökének a nyilvántartásvez
 
 k) a dohánygyártmányok árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 
-l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről közhiteles nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
+l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
 
 m) eljár a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet folytatókkal szemben.
 
