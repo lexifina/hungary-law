@@ -1,0 +1,1 @@
+5. § Ez a rendelet a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2025. június 2-i (EU) 2025/1079 bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
