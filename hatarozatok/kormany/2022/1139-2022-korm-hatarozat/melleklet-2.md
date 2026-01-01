@@ -24,4 +24,6 @@
 
 | 12. | Bocskai István Református Oktatási Központ | a Bocskai István Református Oktatási Központ fejlesztése | 177 800 000 |
 
-2. melléklet az 1139/2022. (III. 10.) Korm. határozathoz
+2. melléklet az 1139/2022. (III. 10.) Korm. határozathoz[^8]
+
+[^8]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
