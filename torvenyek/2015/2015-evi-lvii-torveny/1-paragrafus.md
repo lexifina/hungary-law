@@ -16,6 +16,8 @@
 
 2b. egyéni fellépés kezdete: a beruházás, vagy intézkedés célját szolgáló termékek, szolgáltatások megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi;
 
+2c. energetikai auditálásra kötelezett gazdálkodó szervezet: az a gazdálkodó szervezet, amelynek a tárgyévet megelőző három évben az éves energiafogyasztásának átlaga az összes energiahordozót együttvéve meghaladja a 10 TJ-t, azzal, hogy a mérés nélkül továbbadott energia a továbbadó fogyasztásának számít;
+
 3. energia: az 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek;
 
 4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó tervet meghatározó stratégia egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége, ideértve a tényleges energiafogyasztás nyomon követését, az energiahatékonyság növelésére hozott intézkedéseket és a haladás mérését is;

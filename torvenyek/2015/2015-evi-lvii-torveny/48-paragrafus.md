@@ -2,6 +2,8 @@
 
 48. § (1) Annak a nagyvállalatnak, amely 2015. december 5-én energetikai auditálásra volt kötelezett és 2015. december 26. napját követően nem mentesül az auditálási kötelezettség alól, következő alkalommal – az első kötelező energetikai audit elkészítésének időpontjától függetlenül – 2019. december 5-ig kell energetikai auditálást elvégeztetnie.
 
+(1a) Annak a nagyvállalatnak, amely 2025. december 31-én energetikai auditálásra volt kötelezett és 2026. január 1. napját követően energetikai auditálásra kötelezett gazdálkodó szervezetként is energetikai auditálásra kötelezett marad, a következő alkalommal a korábbi energetikai audit elkészítésének időpontját követő 4 éven belül kell elkészíttetnie az energetikai auditot.
+
 (2) Az energetikai szakreferensnek a 21/B. § (4) bekezdés c) pontja szerinti vizsgát első alkalommal 2017. június 30-ig kell teljesítenie.
 
 (3) A regisztráló szervezeti tevékenység végzésére jogosító engedéllyel rendelkező köztestület engedélye közreműködő szervezeti tevékenység végzésére történő átminősítését kérheti az egyes klímapolitikai és zöldgazdaság fejlesztési tárgyú törvények módosításáról szóló 2016. évi CXXXVIII. törvény (a továbbiakban: Mód. Tv.) 5. alcímének hatálybalépését követő 1 hónapos jogvesztő határidőn belül. Átminősítés esetén az annak megtörténtétől számított 30 napon belül a regisztráló szervezetnek el kell számolnia a Hivatal felé.

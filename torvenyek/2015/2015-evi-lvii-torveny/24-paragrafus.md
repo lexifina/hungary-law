@@ -18,4 +18,4 @@ b) az energetikai auditáló szervezetek névjegyzékében szereplő szervezet, 
 
 (5) A Hivatal éves ellenőrzési tervben határozza meg az adott évet megelőző évben elvégzett kötelező auditálás keretében létrejött energetikai auditálások statisztikailag jelentős hányadát, amely vonatkozásában megfelelőségi ellenőrzést végez.
 
-(6) A Hivatal az energetikai auditálási kötelezettség teljesítésének ellenőrzése során a nagyvállalattól bekérhet a kötelezettség teljesítésével kapcsolatos bármely iratot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.
+(6) A Hivatal az energetikai auditálási kötelezettség teljesítésének ellenőrzése során az energetikai auditálásra kötelezett gazdálkodó szervezettől bekérhet a kötelezettség teljesítésével kapcsolatos bármely iratot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.

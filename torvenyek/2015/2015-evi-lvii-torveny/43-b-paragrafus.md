@@ -21,3 +21,5 @@ d) az éves felügyeleti díjat megfizette.
 (7) Az energetikai felülvizsgáló nyilvántartásba vételét követően köteles részt venni a Magyar Mérnöki Kamara által meghatározott továbbképzésen.
 
 (8) Ha az energetikai felülvizsgáló a (7) bekezdésben meghatározott kötelezettségének nem tesz eleget, az energetikai felülvizsgálót törölni kell az Adatbázisból.
+
+(9) A nyilvántartás az energetikai felülvizsgálói tevékenység végzésére való jogosultság ténye, valamint annak keletkezési és megszűnési időpontja tekintetében közhiteles hatósági nyilvántartásnak minősül.

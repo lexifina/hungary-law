@@ -72,6 +72,6 @@ h) a felülvizsgáló által kiállított felülvizsgálati jelentések egyedi a
 
 (5) Az Adatbázisban tárolt, energetikai felülvizsgálóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell. A Hatóság biztosítja az energetikai felülvizsgáló nevére és elérhetőségére vonatkozó adatok nyilvánosságát.
 
-(6) Az Adatbázis a felülvizsgálati jelentésre vonatkozó adatokat közhitelesen tartalmazza.
+(6)
 
 (7) Az energetikai felülvizsgáló és a rendszerüzemeltető az adataiban bekövetkezett változást a Hatóságnak az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon, a változást követő 15 napon belül bejelenti.

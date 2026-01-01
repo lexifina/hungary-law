@@ -20,6 +20,8 @@
 
 (4f) A Hivatal ellenőrzési tevékenységéért a hitelesítő szervezet felügyeleti díjat köteles fizetni, amelynek mértéke a hitelesített energiamegtakarítások nyilvántartásába felvezetett 1 GJ hitelesített energiamegtakarítás után az energiahatékonysági járulék 0,1%-a.
 
+(4g) A hitelesített energiamegtakarítások nyilvántartásában az energiamegtakarításra vonatkozó adat közhiteles adat.
+
 (5) A hitelesítő szervezet hitelesítésével igazolja az egyéni fellépés tényleges megvalósulását, a vásárolt termékekről és szolgáltatásokról kiállított számla hitelesítő szervezet részére történő bemutatását, valamint azt, hogy az energiamegtakarítás megállapítása során megfelelően vették figyelembe az e törvény végrehajtására kiadott kormányrendelet szerinti átváltási tényezőket, számítási módszereket és elveket, a lényeges hozzájárulás meglétét, továbbá az energiamegtakarítás addicionális mértékét a tárgyévre és az azt követő évekre egyaránt.
 
 (6) Az addicionalitás kritériumait az e törvény végrehajtására kiadott kormányrendelet a szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei között rögzíti.

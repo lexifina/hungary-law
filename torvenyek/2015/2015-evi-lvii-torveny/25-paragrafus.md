@@ -1,6 +1,6 @@
 25. § (1) Az energetikai auditálási kötelezettség nem teljesítése esetén a Hivatal
 
-a) írásban felszólítja a nagyvállalatot a kötelezettség 180 napon belüli teljesítésére,
+a) írásban felszólítja az energetikai auditálásra kötelezett gazdálkodó szervezetet a kötelezettség 180 napon belüli teljesítésére,
 
 b) 10 millió forintig terjedő bírságot szabhat ki.
 
