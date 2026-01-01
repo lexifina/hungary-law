@@ -32,7 +32,7 @@
 
 | 15. | régésztechnikusként a Kötv. 35. § (4) bekezdése szerinti feltárási engedély és bejelentési kötelezettség nélkül végezhető terepmunka részvétel 1 alkalommal | 1 |
 
-2. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^472]
+2. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^473]
 
 Régészeti lelőhely-bejelentő adatlap adattartalma
 
@@ -70,4 +70,4 @@ Régészeti lelőhely-bejelentő adatlap adattartalma
 
 8.4. A kutatott terület digitális vektoros EOV vagy WGS84 vetületű állománya
 
-[^472]: A 2. melléklet a 142/2025. (VI. 19.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^473]: A 2. melléklet a 142/2025. (VI. 19.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.

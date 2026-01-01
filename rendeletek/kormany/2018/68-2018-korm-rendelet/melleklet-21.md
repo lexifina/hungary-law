@@ -1,3 +1,3 @@
-21. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^507]
+21. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^508]
 
-[^507]: A 21. mellékletet a 142/2025. (VI. 19.) Korm. rendelet 38. § 24. pontja hatályon kívül helyezte.
+[^508]: A 21. mellékletet a 142/2025. (VI. 19.) Korm. rendelet 38. § 24. pontja hatályon kívül helyezte.

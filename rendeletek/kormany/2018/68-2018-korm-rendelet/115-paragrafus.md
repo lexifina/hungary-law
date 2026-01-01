@@ -1,3 +1,3 @@
-115. §[^454]
+115. §[^455]
 
-[^454]: A 115. § a 677/2020. (XII. 28.) Korm. rendelet 84. § 31. pontja hatályon kívül helyezte.
+[^455]: A 115. § a 677/2020. (XII. 28.) Korm. rendelet 84. § 31. pontja hatályon kívül helyezte.
