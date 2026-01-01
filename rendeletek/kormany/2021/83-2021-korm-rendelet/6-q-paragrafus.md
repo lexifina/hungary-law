@@ -1,4 +1,4 @@
-6/Q. §[^51] (1) A 2. mellékletben foglalt táblázat 85. sora szerinti beruházással érintett ingatlan a) alrészletén és az ebből telekalakítással létrejövő ingatlanon a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
+6/Q. §[^52] (1) A 2. mellékletben foglalt táblázat 85. sora szerinti beruházással érintett ingatlan a) alrészletén és az ebből telekalakítással létrejövő ingatlanon a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -38,4 +38,4 @@ l) a parkolóhelyek kialakításánál az építmények és önálló rendeltet�
 
 (6) A 2. mellékletben foglalt táblázat 85. sora szerinti beruházással érintett ingatlanon a történeti kert területén a műemléki értékek sérelme nélkül futókör kialakítható.
 
-[^51]: A 6/Q. §-t a 159/2022. (IV. 19.) Korm. rendelet 1. §-a iktatta be.
+[^52]: A 6/Q. §-t a 159/2022. (IV. 19.) Korm. rendelet 1. §-a iktatta be.

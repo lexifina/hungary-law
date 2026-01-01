@@ -1,8 +1,8 @@
-6/E. §[^34] (1) A 2. mellékletben foglalt táblázat 64. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+6/E. §[^35] (1) A 2. mellékletben foglalt táblázat 64. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
-a)[^35] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a)[^36] a hatályos településrendezési terv és az OTÉK, illetve a TÉKA előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b)[^36] ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+b)[^37] ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat 64. sora szerinti beruházással érintett ingatlanra vonatkozó sajátos beépítési szabályok:
 
@@ -22,9 +22,9 @@ g) az előkert legkisebb mélysége 5 méter, az oldalkert legkisebb szélesség
 
 h) az épületmagasság megengedett legnagyobb mértéke 12 méter.
 
-i)[^37] a csapadékvíz telken kívül elvezetésre kerülhet.
+i)[^38] a csapadékvíz telken kívül elvezetésre kerülhet.
 
-[^34]: A 6/E. §-t a 779/2021. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^35]: A 6/E. § (1) bekezdés a) pontja a 447/2025. (XII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^36]: A 6/E. § (1) bekezdés b) pontja a 447/2025. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^37]: A 6/E. § (2) bekezdés i) pontját a 447/2025. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^35]: A 6/E. §-t a 779/2021. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A 6/E. § (1) bekezdés a) pontja a 447/2025. (XII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^37]: A 6/E. § (1) bekezdés b) pontja a 447/2025. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^38]: A 6/E. § (2) bekezdés i) pontját a 447/2025. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

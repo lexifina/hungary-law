@@ -42,7 +42,7 @@
 
 | 21. |  |  |  |
 
-| 22. | A korábbi Büntetés-végrehajtási Központi Kórház átalakítása | Tököl külterület 0165/5 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 22. |  |  |  |
 
 | 23. | A Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet területén könnyűszerkezetes épületegyüttesek telepítése | Szirmabesenyő külterület 0124/16 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
 
@@ -60,7 +60,7 @@
 
 | 30. | Dombóvári Szabadidő- és Sportcentrum beruházás | Dombóvár belterület 85, 1356/3, 1357, 1358/2, 1359, 1414/35 és 1414/37 helyrajzi számú ingatlanok | Tolna Vármegyei Kormányhivatalt vezető főispán |
 
-| 31. | Gödöllői jégcsarnok beruházás | Gödöllő belterület 5880 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
+| 31. |  |  |  |
 
 | 32. | Kisújszállási sportcélú beruházás | Kisújszállás belterület 31, 32, 38/2, 39, 40/1, 40/2 és 2213 helyrajzi számú ingatlan | Jász-Nagykun-Szolnok Vármegyei Kormányhivatalt vezető főispán |
 
@@ -212,6 +212,10 @@
 
 | 106. | Terrorelhárítási Központ bővítése | Budapest X. kerület, belterület 38902 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^237]
+| 107. | Duna Aréna fejlesztése | Budapest 25879 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-[^237]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+| 108. | A Hajós Alfréd és Széchy Tamás Sportuszoda fejlesztése | Budapest 23801 és 23800/7 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^244]
+
+[^244]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja, a 9/2025. (II. 7.) Korm. rendelet 2. § b) pontja, a 475/2025. (XII. 31.) Korm. rendelet 3. §-a, a 477/2025. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

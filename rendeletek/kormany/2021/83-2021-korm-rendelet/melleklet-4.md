@@ -34,8 +34,12 @@
 
 | 16. | Miskolctapolca Barlangfürdő rekonstrukció | Miskolc 46294/1 helyrajzi számú ingatlan | A kivitelezés megkezdésétől 2025. július 31-ig |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^238]
+| 17. | Duna Aréna fejlesztése | Budapest 25879 helyrajzi számú ingatlan | 2026. május 1. – 2027. december 31. |
+
+| 18. | A Hajós Alfréd és Széchy Tamás Sportuszoda fejlesztése | Budapest 23801 és 23800/7 helyrajzi számú ingatlanok | 2026. május 1. – 2027. december 31. |
+
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^245]
 
 A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
 
-[^238]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+[^245]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-68. §[^206] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 495/2023. (XI. 2.) Korm. rendelettel (a továbbiakban: Módr60.) megállapított 7/C. §-át, valamint 2. mellékletében foglalt táblázat 99. sorát a Módr60. hatálybalépésekor[^207] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+68. §[^209] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 495/2023. (XI. 2.) Korm. rendelettel (a továbbiakban: Módr60.) megállapított 7/C. §-át, valamint 2. mellékletében foglalt táblázat 99. sorát a Módr60. hatálybalépésekor[^210] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^206]: A 68. §-t a 495/2023. (XI. 2.) Korm. rendelet 6. §-a iktatta be.
-[^207]: A hatálybalépés időpontja 2023. november 3.
+[^209]: A 68. §-t a 495/2023. (XI. 2.) Korm. rendelet 6. §-a iktatta be.
+[^210]: A hatálybalépés időpontja 2023. november 3.
