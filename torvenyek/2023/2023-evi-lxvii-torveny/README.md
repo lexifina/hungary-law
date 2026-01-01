@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-67-00-00
 | --- | --- | --- |
 | 2023-11-01 | 2023. évi LXVII. törvény | 2023-67-00-00.0 (közlönyállapot) |
 | 2023-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-67-00-00.1 |
+| 2026-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-67-00-00.2 |
