@@ -1,5 +1,5 @@
 ## 6. Az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet módosítása
 
-11. §[^11]
+11. §[^9]
 
-[^11]: A 11. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 11. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

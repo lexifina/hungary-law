@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a 12. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+4. § Az anyakönyvezési feladatok ellátásának részletes szabályairól szóló 429/2017. (XII. 20.) Korm. rendelet az 1. melléklet szerinti 6a. melléklettel egészül ki.
