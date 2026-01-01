@@ -1,0 +1,5 @@
+## 2. A felelős játékszervezés részletes szabályairól szóló 5/2021. (X. 21.) SZTFH rendelet módosítása
+
+3. § A felelős játékszervezés részletes szabályairól szóló 5/2021. (X. 21.) SZTFH rendelet [a továbbiakban: 5/2021. (X. 21.) SZTFH rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szerencsejáték-szervező (a továbbiakban: szervező) – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 16. §-a szerinti nem folyamatosan szervezett sorsolásos játék kivételével – az Szjtv. hatálya alá tartozó tevékenysége és annak kereskedelmi kommunikációja során a 18 éven aluli személyek játéktilalmára, a túlzásba vitt szerencsejáték ártalmaira és a szenvedélybetegség kialakulásának veszélyeire vonatkozó figyelmeztetést alkalmaz. A figyelmeztetés mellőzhető, ha szponzorként vagy szponzorációs tevékenységben együttműködő partnerként kizárólag a szervező neve, illetve logója jelenik meg vagy hangzik el, továbbá azon promóciós termék esetében, amely kizárólag a szervező nevét, illetve logóját, vagy az általa szervezett szerencsejáték nevét, illetve logóját jeleníti meg.”
