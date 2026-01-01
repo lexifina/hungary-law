@@ -1,0 +1,1 @@
+26/C. § Ha a katonai ügyész Magyar Honvédséggel fennálló szolgálati viszonya a honvédek jogállásáról szóló jogszabály szerint az öregségi nyugdíjkorhatár betöltésével megszűnik, a 26/A. § szerinti továbbfoglalkoztatása csak az alkalmasságának megfelelő másik betölthető ügyészi munkakörben lehetséges.

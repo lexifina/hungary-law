@@ -56,7 +56,7 @@ h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezetts
 
 a) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani vagy
 
-b) aki betöltötte az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatárt.
+b) aki betöltötte az általános öregségi nyugdíjkorhatárt.
 
 (5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a Honvéd Vezérkar főnöke – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
 

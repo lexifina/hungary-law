@@ -1,1 +1,1 @@
-24/A. § Az Alaptörvény 29. cikk (3) bekezdésében meghatározott általános öregségi nyugdíjkorhatár a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév.
+24/A. § Az általános öregségi nyugdíjkorhatár a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév.

@@ -11,3 +11,9 @@
 (6) A tisztviselőt, írnokot, fizikai alkalmazottat és vezetőt az e törvénynek a Módtv3.-al megállapított rendelkezései alapján kiszámított illetmény 2025. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2025. január 1-jére visszamenőleg, legkésőbb a Módtv3. 119. § -ának hatálybalépését követő 60 napon belül kerül sor.
 
 (7) Ha a tisztviselő és az írnok számára az e törvénynek a Módtv3.-al megállapított rendelkezései alapján járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a Módtv3. hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény Módtv3.-al megállapított rendelkezései szerinti szabadsága meg nem haladja.
+
+(8) Az alügyész és az ügyészségi fogalmazó számára az e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései alapján az illetményt akként kell megállapítani, hogy az magasabb legyen, mint a Módtv3. 124. §-ának hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+(9) Az alügyészt és az ügyészségi fogalmazót 2026. február 28-ig kell 2026. január 1-jétől kezdődően e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései szerint besorolni és – a (7) bekezdésben foglaltakat is figyelembe véve – illetményét megállapítani. A besorolásnál megállapítandó szolgálati idő a 2026. január 1-je előtti besorolásnál megállapított szolgálati időnél kevesebb nem lehet. A 2026. január 1. előtt soron kívüli előresorolással megszerzett szolgálati időt a besorolásnál figyelembe kell venni.
+
+(10) Az alügyészt és az ügyészségi fogalmazót az e törvénynek a Módtv3. 124. §-ával megállapított rendelkezései alapján kiszámított illetmény 2026. január 1-jétől illeti meg. Az illetmény már folyósított és megemelt összege közötti különbözet kifizetésére 2026. január 1-jére visszamenőleg, legkésőbb 2026. március 31-ig kerül sor.

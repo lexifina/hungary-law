@@ -8,7 +8,7 @@ b) felmentésével;
 
 c) lemondásával;
 
-d) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
+d) a 26/A. § szerinti továbbfoglalkoztatás esetét kivéve az általános öregségi nyugdíjkorhatár betöltésével;
 
 e) rendkívüli lemondásával;
 
@@ -31,3 +31,5 @@ m) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már ne
 n) e törvényben előírt eskütételi kötelezettség megszegésével;
 
 o) külön törvényben meghatározott vagyonnyilatkozat-tételi kötelezettség megszegésével.
+
+p) az általános öregségi nyugdíjkorhatár betöltését követő továbbfoglalkoztatása esetén a hetvenedik életév betöltésével.

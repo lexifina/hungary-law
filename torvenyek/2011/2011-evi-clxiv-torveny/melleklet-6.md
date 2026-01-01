@@ -1,4 +1,4 @@
-## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 1 | 0,68 | 0,89 | 3. | 2. | 2 | 3 | 0,72 | 0,94 | 4. | 3. | 4 | | 0,75 | 0,98
+## | | A | B | C | D | E | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ szorzószáma | Felső határ szorzószáma | 2. | 1. | 0 | 1 | 0,86 | 1,07 | 3. | 2. | 2 | 3 | 0,9 | 1,12 | 4. | 3. | 4 | | 0,93 | 1,16
 
 6. melléklet az 2011. évi CLXIV. törvényhez
 
