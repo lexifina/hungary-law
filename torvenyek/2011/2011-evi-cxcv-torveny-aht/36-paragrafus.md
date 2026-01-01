@@ -36,15 +36,15 @@ b) – a központi költségvetésről szóló törvény eltérő rendelkezése 
 
 (4d) A 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére – a 32. § a) pontja szerinti költségvetési kiadási előirányzatok kivételével – a költségvetési évet követő évre vagy évekre szóló kötelezettség nem vállalható.
 
-(4e) A Beruházási Alapból finanszírozott beruházások esetében a lebonyolító szerv az 1. § 15. pontjában meghatározottakon túl – a (4d) bekezdésben foglaltaktól eltérően – a fejezetet irányító szerv vezetője nevében és megbízásából költségvetési évet követő évre vagy évekre szóló kötelezettséget vállalhat.
+(4e)
 
-(4f) Ha a Kormány közvetlen vagy közvetett állami vagy önkormányzati vagyon növekedését vagy állagának javítását eredményező építési beruházások megvalósítását, továbbá egyéb szervezeteknek nyújtott építési beruházási támogatások nyújtását határozatban olyan módon támogatja, hogy azok teljes vagy részbeni fedezetének biztosítása a Beruházási Alap terhére történik, az (1)–(4c) bekezdésben meghatározottaktól eltérően a beruházásra vagy a támogatásra a Kormány egyedi határozatában adott felhatalmazás alapján vállalható kötelezettség.
+(4f)
 
-(4g) A Kormány a (4f) bekezdés szerint adott felhatalmazása a tárgyévi és éven túli kötelezettségek együttes összegét tartalmazza, továbbá a felhatalmazásnak a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésen – így különösen kivitelezési szerződésen – kell alapulnia.
+(4g)
 
-(4h) A (4g) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az állami beruházásokért felelős minisztert, valamint az államháztartásért felelős minisztert írásban tájékoztatja.
+(4h)
 
-(4i) A Kormány által adott felhatalmazás kiterjedhet a Beruházási Alappal érintett beruházások előkészítésére, továbbá az e beruházásokhoz közvetlenül szükséges ingatlanszerzésre is. Ebben az esetben a (4g) és (4h) bekezdésben foglaltakat a beruházás előkészítésére, valamint az ingatlanszerzésre irányuló szerződésre kell alkalmazni.
+(4i)
 
 (5)
 

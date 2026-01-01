@@ -44,9 +44,11 @@ i) a szakmai gyakorlat időtartamát vagy a gyakorlat alóli felmentést igazol�
 
 j) a kötelező szakmai továbbképzésen történő részvétel idejét.
 
-(5a) Az (5) bekezdés szerinti nyilvántartás az (5) bekezdés b), és g)–j) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+k) a belső ellenőrzési tevékenység – meghatározott költségvetési szervre vagy köztulajdonban álló gazdasági társaságra – korlátozásának tényét.
 
-(6) Az (5) bekezdésben meghatározott adatok közül a belső ellenőr nyilvántartási száma, neve és választása alapján az (5) bekezdés c)–f) pontjában meghatározott adatainak egyike nyilvános, ezen adatokról bárki tájékoztatást kaphat. A nyilvántartásba vételt végző szervezet a nyilvántartásban szereplő belső ellenőr nyilvános adatait honlapján nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kaphasson.
+(5a) Az (5) bekezdés szerinti nyilvántartás az (5) bekezdés b) és k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(6) Az (5) bekezdésben meghatározott adatok közül a belső ellenőr nyilvántartási száma, neve és választása alapján az (5) bekezdés c)–f) pontjában meghatározott adatainak egyike, valamint a belső ellenőrzési tevékenység (5) bekezdés k) pont szerinti korlátozásának ténye nyilvános, ezen adatokról bárki tájékoztatást kaphat. A nyilvántartásba vételt végző szervezet a nyilvántartásban szereplő belső ellenőr nyilvános adatait honlapján nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kaphasson.
 
 (7) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesítő személyt törli a nyilvántartásból, illetve a tevékenység gyakorlásától eltiltja. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
 

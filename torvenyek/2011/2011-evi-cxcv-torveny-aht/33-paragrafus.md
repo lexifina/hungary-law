@@ -40,11 +40,11 @@ bd) az az államháztartás központi alrendszerébe tartozó költségvetési s
 
 be) az elkülönített állami pénzalap és a központi kezelésű kiadási előirányzat, valamint a fejezeti kezelésű kiadási előirányzat javára feladatátadással kapcsolatban szükséges.
 
-(3b) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a fejezetet irányító szerv a központi költségvetésről szóló törvény XVI. Építési és Közlekedési Minisztérium fejezetbe sorolt kiadási előirányzata illetve a központi költségvetésről szóló törvény XLV. Állami beruházások fejezetbe sorolt központi kezelésű előirányzata terhére – az államháztartásért felelős miniszter a Kormány rendeletében meghatározottak szerint teljesítendő tájékoztatása mellett – előirányzat-átcsoportosítást hajthat végre. Ha az előirányzat-átcsoportosítással érintett előirányzaton megtakarítás keletkezik, vagy az előirányzat-átcsoportosítás a közfeladatok változásával kapcsolatban szükséges, az előirányzat-átcsoportosítással szemben az államháztartásért felelős miniszter – az előirányzat-átcsoportosítás megalapozatlansága esetén – a Kormány rendeletében meghatározottak szerint kifogással élhet a költségvetési szerv kiadási előirányzatai terhére végrehajtott előirányzat-átcsoportosítás kivételével.
+(3b)
 
-(3c) A (3a) és a (3b) bekezdés szerinti előirányzat-átcsoportosítás esetén az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti előirányzat-átcsoportosításról, amennyiben a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges, a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett.
+(3c) Az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti előirányzat-átcsoportosításról, amennyiben a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges, a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett.
 
-(4) A (3)–(3c) bekezdés alapján
+(4) A alapján
 
 a) fejezeten belüli előirányzat-átcsoportosításra, valamint ha az előirányzat-átcsoportosítással érintett fejezetek fejezetet irányító szervének vezetője azonos személy, fejezetek közötti átcsoportosításra a fejezetet irányító szerv vezetőjének egyoldalú írásbeli jognyilatkozata, vagy
 
@@ -52,7 +52,7 @@ b) az a) pont hatálya alá nem tartozó fejezetek közötti előirányzat-átcs
 
 alapján kerülhet sor.
 
-(4a) A (3a)–(3c) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
+(4a) A szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
 
 (4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó,
 
@@ -60,13 +60,13 @@ a) a központi költségvetés előirányzat-módosítási kötelezettség nélk
 
 b) az európai uniós forrásból finanszírozott költségvetési támogatások teljesítésére szolgáló kiadási előirányzata,
 
-c) a (3b) bekezdésben meghatározott fejezetek kivételével a (3a) bekezdés a) pontja szerinti kiadási előirányzat, valamint
+c) a (3a) bekezdés a) pontja szerinti kiadási előirányzat, valamint
 
-d) a (3b) bekezdésben meghatározott fejezetek kivételével a (3a) bekezdés b) pont ba) és bb) alpontja szerinti kiadási előirányzat
+d) a (3a) bekezdés b) pont ba) és bb) alpontja szerinti kiadási előirányzat
 
 terhére történő fejezeten belüli átcsoportosításhoz.
 
-(4c) Nincs szükség a (4b) bekezdés c) pontja szerinti előzetes hozzájárulásra, ha a (3a) bekezdés a) pontja szerinti előirányzat-átcsoportosítás a Kormány irányítása alá tartozó fejezeten belül az azonos alaptevékenységet végző költségvetési szervekből álló önálló címen belüli központi költségvetési szervek között történik.
+(4c)
 
 (5) A Kormány irányítása alá tartozó fejezetek közötti és a fejezeten belüli, a (4b) bekezdésbe nem tartozó előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
 

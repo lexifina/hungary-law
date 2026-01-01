@@ -102,7 +102,7 @@ részletes szabályait,
 
 38. a gépjárműadóval kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,
 
-39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési vagy adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
+39. a törzskönyvi nyilvántartásba bejegyzendő közhiteles és nem közhiteles adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési vagy adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
 
 40. a 11/A. § (1) bekezdése szerinti társaság
 
