@@ -1,3 +1,3 @@
-## 9. §[^11]
+10. §[^8]
 
-[^11]: Az „Az engedély felfüggesztése” alcímet (9. §) a 12/2021. (III. 5.) ITM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^8]: Az „Az engedély visszavonása” alcímet (10. §) a 12/2021. (III. 5.) ITM rendelet 8. § b) pontja hatályon kívül helyezte.

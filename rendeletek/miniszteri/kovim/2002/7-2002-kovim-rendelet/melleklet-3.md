@@ -1,3 +1,5 @@
-3. számú melléklet a 7/2002. (I. 28.) KöViM rendelethez[^36]
+3. számú melléklet a 7/2002. (I. 28.) KöViM rendelethez[^43]
 
-[^36]: A 3. számú melléklet a 9/2022. (VIII. 1.) TIM rendelet 21. § (1) bekezdésével megállapított szöveg.
+A földi kiszolgálás alterületeire vonatkozó szakmai követelmények egységes szerkezetben történő megjelenítése
+
+[^43]: A 3. melléklet az 51/2025. (XII. 30.) ÉKM rendelet 11. § (3) bekezdésével megállapított szöveg.

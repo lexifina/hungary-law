@@ -1,163 +1,59 @@
-## Egyes földi kiszolgálási tevékenységekhez előírt szakmai követelmények
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-## I. Általános követelmények
+| 1. |  | Rakodás irányítása, kézbesítés és távközlés | Egység- rakományok kezelése (ULD) | Utas- és poggyász- kezelés (Passanger & Baggage) | Áru- és postaküldemények kezelése (Cargo & Post Office Mail) | Előtéri kiszolgálás (Ramp handling) | Repülőgép- takarítás | Személyzet földi szállítása | Catering szolgáltatás | Jégtelenítés | Üzemelés irányítás (Flight Operation) |
 
-## A kérelmezőnek rendelkeznie kell a földi kiszolgálás ellátásához szükséges, a jogszabályok által előírt munkavédelmi, tűzvédelmi és foglalkozás-egészségügyi előírásoknak megfelelő iroda- és szolgálati helyiségekkel.
+| 2. | Iroda- és szolgálati helyiség | + | + | + | + | + | + | + | + | + | + |
 
-## II. Az egyes tevékenységekkel kapcsolatos szakmai követelmények
+| 3. | DCS használati jog és képzés | + |  | + |  |  |  |  |  |  |  |
 
-## 1. A repülőgép terhelés és súlypont számítása (Load Control)
+| 4. | SITA | + |  | + | + |  |  |  |  |  | + |
 
-## A légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tiszt képzéséről, vizsgáztatásáról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló miniszteri rendelet által előírt szakszolgálati engedély megléte kötelező, továbbá a kérelmezőnek rendelkeznie kell
+| 5. | BRS használati jog és képzés |  |  | + |  | + |  |  |  |  |  |
 
-## 1.1. a számítógépes repülőgép terhelés és súlypontszámító rendszer (Load Control System) használati jogával,
+| 6. | Load Control System | + |  |  |  | + |  |  |  |  |  |
 
-## 1.2. a SITA (Société Internationale de Télécommunications Aéronautiques) kommunikációs rendszer használatának jogosultságával,
+| 7. | Teljes tevékenységet átfogó kidolgozott eljárások/kézikönyv | + | + | + | + | + | + | + | + | + | + |
 
-## 1.3. a légijármű és a földi kiszolgáló egység közötti rádió kommunikáció technikai és egyéb eszközeivel, valamint ezen berendezések üzemeltetéséhez szükséges repülőtéri engedélyekkel,
+| 8. | Képzett személyzet | + | + | + | + | + | + | + | + | + | + |
 
-## valamint igazolja a saját vagy megvásárolt Load Control Rendszer használatához szükséges képzés elvégzését, illetve rendelkezik kidolgozott képzési tematikával a rendszer használatát illetően.
+| 9. | Megfelelő eszközök | + | + | + | + | + | + | + | + | + | + |
 
-## 2. Jegykezelés (Departure Control)
+| 10. | Kidolgozott képzési tematika | + | + | + | + | + | + |  | + | + | + |
 
-## A kérelmezőnek rendelkeznie kell
+| 11. | Minőségbiztosítási tanúsítás | + | + | + | + | + | + | + | + | + | + |
 
-## 2.1. a számítógépes jegykezelési rendszer (Departures Control System, DCS) használati jogával,
+| 12. | Repülőtéri kézikönyv/reptérrend betartása | + | + | + | + | + | + | + | + | + | + |
 
-## 2.2. a SITA kommunikációs rendszer használatának jogosultságával,
+| 13. | Vonatkozó engedélyek | + |  |  | + | + | + |  | + |  | + |
 
-## valamint igazolja a saját vagy megvásárolt DCS használatához szükséges képzés elvégzését, illetve rendelkezik kidolgozott képzési tematikával a rendszer használatát illetően.
+| 14. | Kidolgozott eljárás rendellenességek kezelésére | + | + | + | + | + | + | + | + | + | + |
 
-## 3. Az egységrakományok kezelése (ULD Control)
+| 15. | Kijelölt védelmi tiszt | + | + | + | + | + | + | + | + | + | + |
 
-## A kérelmezőnek rendelkezni kell
+| 16. | Jóváhagyott védelmi terv | + | + | + | + | + | + | + | + | + | + |
 
-## 3.1. speciális eszközökkel és megfelelő tárolóhelyiséggel,
+4. számú melléklet a 7/2002. (I. 28.) KöViM rendelethez[^44]
 
-## 3.2. speciális egységrakomány képző eszközök (ULD) tárolásához, kezeléséhez és szállításához szükséges eszközökkel,
+Az ajánlati felhívás tartalma
 
-## 3.3. statikus és mobil rakodó/emelő eszközökkel,
+1. Az ajánlati felhívásnak tartalmaznia kell:
 
-## 3.4. megfelelő adminisztrációs rendszerrel az eszközök és az egységrakomány képző eszközök nyilvántartására.
+1.1. a kiválasztási eljárást lefolytató szervezet nevét, címét, telefonszámát, e-mail-címét és szükség szerint azon szervezeti egység elérhetőségét, amely további tájékoztatást nyújt,
 
-## 4. Utas- és poggyászkezelés (Passanger & Baggage)
+1.2. a földi kiszolgálás körébe tartozó szolgáltatás meghatározását, rövid leírását és a legfőbb sajátosságait, amely alapján a többi szolgáltatástól elhatárolható,
 
-## A kérelmező
+1.3. a szolgáltatás nyújtásának lehetséges kezdő időpontját,
 
-## 4.1. kézikönyvének tartalmaznia kell az utas- és poggyászkezelési eljárásokat, különös tekintettel a kíséret nélküli gyermek, tranzitutas, vízum nélküli tranzitutas, deportált utas, VIP utas kezelésére,
+1.4. a szolgáltatás nyújtására vonatkozó szerződés elvárt időtartamát,
 
-## 4.2. rendelkezik a jegykezelő pultok üzemeltetőjével érvényes szerződéssel a jegykezelő pultokhoz való hozzáféréséről,
+1.5. szükség szerint utalást a követelmények katalógusára, a műszaki előírásokra és specifikációkra,
 
-## 4.3. rendelkezik Elveszett Poggyász Kereső Szolgálattal és az ehhez szükséges rendszerhez való igazolható használati jogosultsággal,
+1.6. a kiválasztási eljáráson való részvételhez szükséges pályázat beküldésének határidejét, a kiválasztási eljárás megkezdésének és tervezett befejezésének dátumát,
 
-## 4.4. rendelkezik az utaskezeléshez szükséges infrastruktúrához való hozzáférése a tranzitterületen is,
+1.7. a pályázathoz benyújtandó dokumentumok listáját,
 
-## 4.5. rendelkezik a túlsúly beszedéséhez szükséges infrastruktúrával és technikai háttérrel,
+1.8. a felhívás közzétételének napját,
 
-## 4.6. rendelkezik veszélyes áru kezelésére vonatkozó tanfolyamot (DGR) elvégzett személyzettel,
+1.9. az értékelés szempontjait.
 
-## 4.7. rendelkezik a poggyászok és utasok szállítására megfelelő eszközzel.
-
-## 5. Áru- és postai küldemények kezelése (Cargo & Post Office Mail)
-
-## A kérelmező rendelkezik
-
-## 5.1. fedett tárolóhelyiséggel,
-
-## 5.2. a vonatkozó vámjogszabályoknak megfelelő raktárral az uniós és nem uniós áruk kezeléséhez,
-
-## 5.3. speciális áruk tárolásához speciális raktárakkal, ezek kezeléséhez megfelelően képzett és jogosított személyzettel,
-
-## 5.4. árukezeléshez előírt vizsgával rendelkező személyzettel,
-
-## 5.5. a célnak megfelelő hitelesített mérleggel,
-
-## 5.6. megfelelő számítógépes háttérrel,
-
-## 5.7. megfelelő vámhatósági engedélyekkel, valamint a vámrendszerekhez való hozzáférési jogosultsággal és annak technikai hátterével,
-
-## 5.8. az elvégzendő tevékenységhez külön jogszabályban előírt egészségügyi, állategészségügyi és tűzvédelmi engedélyekkel,
-
-## 5.9. tűzvédelmi szabályzattal és veszélyes árukezelési szabályzattal (DGR),
-
-## 5.10. a Légifuvarozók Nemzetközi Szervezete (IATA) által elfogadott teljes körű tűzvédelmi és veszélyes árukezelési (DGR) képzésen részt vett személyzettel.
-
-## 6. Előtéri kiszolgálás (Ramp handling)
-
-## A kérelmező számára követelmény
-
-## 6.1. a biztonsági előírások megléte és azok betartása,
-
-## 6.2. a dokumentáltan karbantartott, üzemképes, a tevékenységhez folyamatosan rendelkezésre álló, megfelelő számú eszközparkkal való rendelkezés,
-
-## 6.3. a légijármű földi beállítása induláskori és érkezéskori tevékenységhez:
-
-## 6.3.1. a légijármű és a földi kiszolgáló egység közötti rádió kommunikáció technikai és egyéb eszközeivel, valamint ezen berendezések üzemeltetéséhez szükséges repülőtéri és egyéb engedélyekkel, különösképpen a Nemzeti Média és Hírközlési Hatóság által kiadott frekvencia engedéllyel való rendelkezés,
-
-## 6.3.2. a légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tiszt képzésről, vizsgáztatásról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló miniszteri rendelet által előírt szakszolgálati engedély megléte.
-
-## 7. A repülőgép takarítása
-
-## A kérelmező számára követelmény a külön jogszabályban foglalt egészségügyi előírások betartása.
-
-## 8. A személyzet földi szállítása
-
-## A kérelmező dokumentáltan karbantartott, üzemképes, a tevékenységhez folyamatosan rendelkezésre álló, megfelelő számú eszközparkkal rendelkezik.
-
-## 9. Biztonság (Security)
-
-## A kérelmező a cargo tevékenység ellátáshoz szükséges átvilágító berendezéssel rendelkezik.
-
-## 10. Jégtelenítés
-
-## A kérelmező a jégtelenítési tevékenységhez dokumentáltan karbantartott, üzemképes, a tevékenységhez folyamatosan rendelkezésre álló, megfelelő számú, a jégtelenítő folyadék típusának megfelelő, kifejezetten repülőgép jégtelenítésére gyártott eszközzel (eszközökkel) rendelkezik. A jégtelenítésre kizárólag ISO minősített jégtelenítő folyadék használható.
-
-## 11. Az üzemelés irányítása (Flight Operation)
-
-## A kérelmező számára
-
-## 11.1. a légijármű és a földi kiszolgáló egység közötti rádió kommunikáció technikai és egyéb eszközeivel, valamint ezen berendezések üzemeltetéséhez szükséges repülőtéri és egyéb engedélyekkel, különösképpen a Nemzeti Média és Hírközlési Hatóság által kiadott frekvencia engedély,
-
-## 11.2. a légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tisztképzésről, vizsgáztatásról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló miniszteri rendelet által előírt szakszolgálati engedély
-
-## megléte kötelező.
-
-4. számú melléklet a 7/2002. (I. 28.) KöViM rendelethez[^37]
-
-A követelmények egységes szerkezetben történő megjelenítéséről
-
-|  |  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1. |  | Repülőgép terhelés- és súlypont számítása (Load Control) | Jegykezelés (Departure Control) | Egység- rakományok kezelése (ULD) | Utas- és pogygyász- kezelés (Passanger & Baggage) | Áru- és postaküldemények kezelése (Cargo & Post Office Mail) | Előtéri kiszolgálás (Ramp handling) | Repülőgép- takarítás | Személyzet földi szállítása | Catering szolgáltatás | Biztonság (Security) | Jégtelenítés | Üzemelés irányítás (Flight Operation) |
-
-| 2. | Iroda- és szolgálati helyiség | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 3. | DCS használati jog és képzés | + | + |  | + |  |  |  |  |  |  |  |  |
-
-| 4. | SITA | + | + |  | + | + |  |  |  |  |  |  | + |
-
-| 5. | BRS használati jog és képzés |  |  |  | + |  | + |  |  |  |  |  |  |
-
-| 6. | Load Control System | + |  |  |  |  | + |  |  |  |  |  |  |
-
-| 7. | Teljes tevékenységet átfogó kidolgozott eljárások/ kézikönyv | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 8. | Képzett személyzet | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 9. | Megfelelő eszközök | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 10. | Kidolgozott képzési tematika | + | + | + | + | + | + | + |  | + | + | + | + |
-
-| 11. | Minőségbiztosí- tási tanúsítás | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 12. | Repülőtéri kézikönyv/reptérrend betartása | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 13. | Vonatkozó engedélyek | + |  |  |  | + | + | + |  | + | + |  | + |
-
-| 14. | Kidolgozott eljárás rendellenességek kezelésére | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 15. | Kijelölt védelmi tiszt | + | + | + | + | + | + | + | + | + | + | + | + |
-
-| 16. | Jóváhagyott védelmi terv | + | + | + | + | + | + | + | + | + | + | + | + |
-
-[^37]: A 4. számú melléklet a 9/2022. (VIII. 1.) TIM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet az 51/2025. (XII. 30.) ÉKM rendelet 11. § (4) bekezdésével megállapított szöveg.

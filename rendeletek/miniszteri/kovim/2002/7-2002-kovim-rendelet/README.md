@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-7-20-93
 | 2021-03-06 | 2002-7-20-93.14 | 12/2021. (III. 5.) ITM rendelet |
 | 2022-08-06 | 2002-7-20-93.15 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2022-10-15 | 2002-7-20-93.16 | 9/2022. (VIII. 1.) TIM rendelet |
+| 2026-01-01 | 2002-7-20-93.17 | 51/2025. (XII. 30.) ÉKM rendelet |

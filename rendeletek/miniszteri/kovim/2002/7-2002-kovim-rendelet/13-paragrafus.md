@@ -1,22 +1,23 @@
-## 12. §[^14]
-
 ## A harmadik fél részére történő földi kiszolgálás korlátozása
 
-13. § (1)[^15]
+13. §[^11] (1) A Budapest Liszt Ferenc Nemzetközi Repülőtéren földi kiszolgálási tevékenység végzésére tevékenységenként két földi kiszolgáló kaphat engedélyt az alábbi tevékenységek tekintetében:
 
-(2)[^16] A földi kiszolgálók közül legalább egy nem állhat a következők irányítása alatt:
+a) poggyászkezelés,
+
+b) forgalmi előtéren előforduló feladatok és
+
+c) üzemanyag- és olajkezelés.
+
+(2) Az (1) bekezdésben meghatározott korlátozás nem terjed ki az állami légijárműnek a repülőtéren történő kiszolgálására.
+
+(3) Az (1) bekezdés szerinti földi kiszolgálók közül legalább egy nem állhat a következők irányítása alatt:
 
 a) a repülőtér üzemben tartója,
 
 b) olyan repülőtér-használó, amely a kiszolgálók kiválasztásának évét megelőző évben a repülőtér utas- vagy áruforgalmának több mint 25%-át bonyolította,
 
-c) az a) vagy a b) pontban meghatározottak irányítása alatt álló szervezet,
+c) az a) vagy a b) pontban meghatározottak irányítása alatt álló szervezet vagy
 
-d) az a szervezet, amely az a) vagy a b) pontban meghatározottak irányítása alatt áll.
+d) az a szervezet, amelynek az irányítása alatt az a) vagy a b) pontban meghatározott szervezetek állnak.
 
-(3)[^17]
-
-[^14]: A 12. §-t az 55/2017. (XII. 27.) NFM rendelet 20. § b) pontja hatályon kívül helyezte.
-[^15]: A 13. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 20. § c) pontja hatályon kívül helyezte.
-[^16]: A 13. § (2) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 19. § a) pontja szerint módosított szöveg.
-[^17]: A 13. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 20. § c) pontja hatályon kívül helyezte.
+[^11]: A 13. § az 51/2025. (XII. 30.) ÉKM rendelet 5. §-ával megállapított szöveg.

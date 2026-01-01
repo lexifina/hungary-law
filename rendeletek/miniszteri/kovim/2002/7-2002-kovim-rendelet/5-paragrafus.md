@@ -1,5 +1,1 @@
-## 4. §[^3]
-
-## Kérelem
-
-[^3]: A 4. §-t az 55/2017. (XII. 27.) NFM rendelet 20. § a) pontja hatályon kívül helyezte.
+5. § Az 1. számú mellékletben meghatározott tevékenységek közül földi kiszolgálási tevékenység folytatására jogosultnak utaskezelés tevékenység végzésére engedély csak poggyászkezelés tevékenység végzésére szolgáló engedéllyel együtt adható ki.

@@ -1,5 +1,3 @@
-## 10. §[^12]
+11. §[^9]
 
-## Számviteli elkülönítés és a keresztfinanszírozás tilalma
-
-[^12]: Az „Az engedély visszavonása” alcímet (10. §) a 12/2021. (III. 5.) ITM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^9]: A 11. §-t az 55/2017. (XII. 27.) NFM rendelet 20. § b) pontja hatályon kívül helyezte. A „Számviteli elkülönítés és a keresztfinanszírozás tilalma” alcím címét az 51/2025. (XII. 30.) ÉKM rendelet 13. § f) pontja hatályon kívül helyezte.

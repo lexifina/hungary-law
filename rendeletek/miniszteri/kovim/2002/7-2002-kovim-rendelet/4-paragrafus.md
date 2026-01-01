@@ -1,3 +1,1 @@
-## 3. §[^2]
-
-[^2]: A 3. §-t a 9/2022. (VIII. 1.) TIM rendelet 22. § a) pontja hatályon kívül helyezte.
+4. § A kölcsönbeadó által munkaerő-kölcsönzés keretében átengedett foglalkoztatottak létszáma nem haladhatja meg a kölcsönbevevő kérelmező összes engedélyezett tevékenységére nézve összesítetten a kérelmező saját állományában foglalkoztatottak hivatalos statisztikai létszámának 49%-át.
