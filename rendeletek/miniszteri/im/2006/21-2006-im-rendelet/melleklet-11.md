@@ -286,6 +286,6 @@
 
 ## Okirati ellenjegyzés/közjegyzői okirat elemei
 
-11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^90]
+11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^92]
 
-[^90]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 9/2024. (VI. 28.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^92]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 9/2024. (VI. 28.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
