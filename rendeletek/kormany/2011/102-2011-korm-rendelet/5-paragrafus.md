@@ -8,7 +8,7 @@ b) a súlyos mozgáskorlátozott személy szállítását lehetővé tevő átal
 
 nyújtott hozzájárulás.
 
-(2)[^27] Az átalakítási támogatás mértéke az átalakítás költsége, de legfeljebb 90 000 forint.
+(2)[^27] Az átalakítási támogatás mértéke az átalakítás költsége, de legfeljebb 150 000 forint.
 
 [^26]: Az 5. § (1) bekezdés nyitó szövegrésze a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés c) pontja, a 61/2012. (III. 30.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^27]: Az 5. § (2) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^27]: Az 5. § (2) bekezdése a 179/2025. (VI. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
