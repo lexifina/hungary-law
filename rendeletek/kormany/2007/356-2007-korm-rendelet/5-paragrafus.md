@@ -1,6 +1,6 @@
 ## 4. §[^12] A földhasználati lap I. része a földhasználónak a Fétv. 94. § (1) bekezdés b) és c) pontjában meghatározott adatait tartalmazza.
 
-5. §[^13] (1)[^14] A földhasználati lap II. része – földrészletenkénti bontásban – a használt földterületre vonatkozó, a Fétv. 94. § (1) bekezdés a), d) és e) pontjában meghatározott adatokat tartalmazza. A Fétv. 94. § (1) bekezdés a) pontja szerinti adatok és a használt földterület adatai tekintetében a földhasználati lap II. része a következő adatokat tartalmazza:
+5. §[^13] (1)[^14] A földhasználati lap II. része – földrészletenkénti bontásban – a használt földterületre vonatkozó, a Fétv. 94. § (1) bekezdés a), d) és e) pontjában meghatározott adatokat tartalmazza. A földhasználó által használt földterület adatai tekintetében a földhasználati lap II. része a következő adatokat tartalmazza:
 
 a) a település neve;
 
@@ -60,7 +60,7 @@ n) a Nemzeti Földalapról szóló törvényben meghatározott megbízási szerz
 
 [^12]: A 4. § a 473/2013. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^13]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: Az 5. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 5. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 3. §-ával megállapított, nyitó szövegrésze a 342/2025. (X. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^15]: Az 5. § (1a) bekezdését a 45/2016. (III. 10.) Korm. rendelet 3. §-a iktatta be.
 [^16]: Az 5. § (1a) bekezdés a) pontja a 473/2016. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^17]: Az 5. § (1a) bekezdés f) pontja a 420/2025. (XII. 23.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
