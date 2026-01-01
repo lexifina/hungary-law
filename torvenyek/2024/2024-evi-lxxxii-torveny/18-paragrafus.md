@@ -7,3 +7,5 @@
 (3) A 15. § (2) bekezdés a) pontja szerinti auditálást legkésőbb e törvény alkalmazását 9 hónappal megelőzően kell kezdeményezni, és a tanúsítvány közzététele és hatálybalépése között legalább hat hónapnak kell eltelnie, ha az auditálást kezdeményező ezt kéri.
 
 (4) Az e törvény hatálybalépése előtt közhitelesen nyilvántartott adatok és közhiteles nyilvántartások, amelyek nem felelnek meg e törvény rendelkezéseinek, és nem rendelkeznek a 15. § (2) bekezdés a) pontja szerinti tanúsítvánnyal vagy jogszabály nem rendelkezik külön a közhitelességükről, 2027. január 1-jén elveszítik közhiteles jellegüket, és jogszabály alapján nyilvántartott adatokká, valamint ezen adatok nyilvántartásával összefüggésben a nyilvántartást vezető szerv által vezetett nem közhiteles nyilvántartássá minősülnek át.
+
+(5) A (2) bekezdéstől eltérően e törvény rendelkezéseit kell alkalmazni a közhitelesség tanúsító erejére és megdöntésére, ha jogszabály eltérően nem rendelkezik.
