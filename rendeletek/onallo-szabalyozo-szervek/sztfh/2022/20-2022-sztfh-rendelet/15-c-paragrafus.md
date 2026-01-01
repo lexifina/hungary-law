@@ -26,7 +26,7 @@ jb) szerves komponensek (fenolok, gáz-víz arány és gázösszetétel), valami
 
 jc) azon szerves és szervetlen, makro- és mikroparamétereket, amelyeket a termelés, illetve üzemeltetés során az esetlegesen használt adalékanyagok tartalmaznak és
 
-k)[^75] a geotermikus védőidomok nyilvántartása tartalmazza
+k)[^81] a geotermikus védőidomok nyilvántartása tartalmazza
 
 ka) a geotermikus védőidomot megállapító, módosító és törlő határozat számát és véglegessé válásának napját,
 
@@ -42,4 +42,4 @@ kf) a kitermelhető termálvíz éves mennyiségét.
 
 (2) A geotermikus energia kinyerését végző engedélyes köteles a bányafelügyelet részére a kinyeréssel érintett évet követő év február 28. napjáig az (1) bekezdésben foglalt adatokat szolgáltatni.
 
-[^75]: A 15/C. § (1) bekezdés k) pontja a 4/2024. (V. 31.) SZTFH rendelet 6. §-ával megállapított szöveg.
+[^81]: A 15/C. § (1) bekezdés k) pontja a 4/2024. (V. 31.) SZTFH rendelet 6. §-ával megállapított szöveg.

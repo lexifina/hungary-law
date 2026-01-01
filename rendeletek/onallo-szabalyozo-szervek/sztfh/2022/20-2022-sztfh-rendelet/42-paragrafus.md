@@ -1,6 +1,6 @@
 ## 21. Bányabezárás, mezőfelhagyás
 
-42. §[^165] (1) A bánya bezárására, a mező felhagyására készített műszaki üzemi terv tartalmazza
+42. §[^187] (1) A bánya bezárására, a mező felhagyására készített műszaki üzemi terv tartalmazza
 
 a) a bányabezárás – ideértve a meddőhányók megszüntetését és tájrendezését –, mezőfelhagyás környezetre, a külszíni és a felszín alatti vizekre, természeti értékekre gyakorolt hatásának vizsgálatát,
 
@@ -104,4 +104,4 @@ e) a biztosíték elfogadására vonatkozó rendelkezést.
 
 (15) A más célra hasznosított föld alatti bányatérségek, egyéb létesítmények felhagyását a bányafelügyelet engedélyezi. Az engedély iránti kérelemhez mellékelni kell felhagyására vonatkozó műszaki tervet.
 
-[^165]: A 42. § a 4/2025. (IV. 17.) SZTFH rendelet 22. §-ával megállapított szöveg.
+[^187]: A 42. § a 4/2025. (IV. 17.) SZTFH rendelet 22. §-ával megállapított szöveg.

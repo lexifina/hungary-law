@@ -6,11 +6,11 @@ b) az engedélyezett kutatási tevékenységet, a kutatás során kinyerni terve
 
 c) ha ismert, a kutatási létesítménnyel érintett ingatlanok helyrajzi számát,
 
-d)[^63] a kutatási időszak hosszát és az egyes kutatási feladatok végrehajtásának időtartamát,
+d)[^67] a kutatási időszak hosszát és az egyes kutatási feladatok végrehajtásának időtartamát,
 
 e) a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket,
 
-f)[^64] a tájrendezési feladatokat és azok elvégzésének ütemezését, a kitermelésre engedélyezett víz elhelyezési módjának meghatározását,
+f)[^68] a tájrendezési feladatokat és azok elvégzésének ütemezését, a kitermelésre engedélyezett víz elhelyezési módjának meghatározását,
 
 g) a pénzügyi biztosítékkal kapcsolatos rendelkezést és
 
@@ -36,5 +36,5 @@ c) a kutatási engedélyben engedélyezett kutatási feladatait igazoltan elvég
 
 (8) Ha a kutatási engedély módosítása iránti kérelem az engedélyezett kutatási tevékenység csökkentésére irányul, a bányavállalkozó a kutatási engedély módosítása iránti kérelemben igazolja, hogy a kutatás eredeti célja a kutatási feladatok csökkentése esetén is elérhető, és megadja a kutatás végrehajtásának új ütemezését. A bányafelügyelet a kutatási feladatok csökkentése esetén a kutatási időszakot csökkenti a csökkentéssel érintett kutatási feladatok elvégzésének tervezett időtartamával.
 
-[^63]: A 13. § (1) bekezdés d) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § g) pontja, a 25/2023. (XII. 22.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
-[^64]: A 13. § (1) bekezdés f) pontja a 4/2024. (V. 31.) SZTFH rendelet 12. § c) pontja szerint módosított szöveg.
+[^67]: A 13. § (1) bekezdés d) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § g) pontja, a 25/2023. (XII. 22.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
+[^68]: A 13. § (1) bekezdés f) pontja a 4/2024. (V. 31.) SZTFH rendelet 12. § c) pontja szerint módosított szöveg.

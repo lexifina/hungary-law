@@ -16,7 +16,7 @@ lehet.
 
 (3) Blokkok meghatározása nélkül engedélyezhető a kutatás szeizmikus kutatási vonalra vagy légifelvételezéssel tervezett kutatásra.
 
-(4)[^31] A kutatás során végzett szilárd ásványi nyersanyag kitermelést, annak várható mennyiségi és minőségi adatait a bányavállalkozó a kitermelés megkezdése előtt legalább 8 nappal, a szénhidrogén kitermelését jellemző mennyiségi és minőségi adatokat a kitermelés megkezdését követő 8 napon belül bejelenti a bányafelügyeletnek.
+(4)[^34] A kutatás során végzett szilárd ásványi nyersanyag kitermelést, annak várható mennyiségi és minőségi adatait a bányavállalkozó a kitermelés megkezdése előtt legalább 8 nappal, a szénhidrogén kitermelését jellemző mennyiségi és minőségi adatokat a kitermelés megkezdését követő 8 napon belül bejelenti a bányafelügyeletnek.
 
 (5) A Bt. 22. § (10) bekezdése szerinti megállapodást a bányafelügyelet akkor hagyja jóvá, ha abból egyértelműen megállapíthatóak
 
@@ -26,4 +26,4 @@ b) az ásványvagyon-gazdálkodásra, a biztonságra és a tulajdon védelmére 
 
 c) az együttműködési megállapodás megkötésére vonatkozó indokoltság fennállása.
 
-[^31]: A 10. § (4) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 23. § g) pontja szerint módosított szöveg.
+[^34]: A 10. § (4) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 23. § g) pontja szerint módosított szöveg.

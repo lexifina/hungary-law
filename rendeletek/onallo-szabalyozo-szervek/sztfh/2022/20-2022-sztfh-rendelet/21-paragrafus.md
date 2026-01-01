@@ -2,7 +2,7 @@
 
 21. § (1) Szénhidrogén-szállítóvezeték, alkotórésze, valamint tartozéka (a továbbiakban együtt: szénhidrogén-szállítóvezeték) hatósági engedély alapján történő létesítésére és használatba vételére a Bt. 31. §-ában, üzemeltetésére a Bt. 28. § (1) bekezdésében és 32–35. §-ában foglalt rendelkezéseket kell alkalmazni. A szénhidrogén-szállítóvezeték tartozéka a földgázszállító vezetékről közvetlenül ellátott felhasználó kiszolgálását biztosító vezeték a felhasználó telekhatáráig, ha az nem minősül célvezetéknek.
 
-(2) Szénhidrogén-szállítóvezeték építése, valamint bővítése szénhidrogén szállítására jogosult gazdálkodó szervezet kérelmére és részére engedélyezhető.
+(2)[^89]
 
 (3) Földgáz szállítóvezeték létesítése, valamint bővítése a földgázellátásról szóló törvény (a továbbiakban: GET) szerinti szállítóvezeték-létesítésre vagy szállítási rendszerüzemeltetésre vonatkozó engedéllyel rendelkező kérelmező részére engedélyezhető, ha a tervezett beruházást
 
@@ -16,7 +16,7 @@ c) a GET szerinti szállítóvezeték-létesítési engedély tartalmazza.
 
 (5) Földgáz elosztóvezeték építése, valamint bővítése az építéssel érintett településre, településrészre, területre elosztói engedéllyel rendelkező engedélyes kérelmére és részére engedélyezhető.
 
-(6)[^82]
+(6)[^90]
 
 (7) A szénhidrogén-szállítóvezetékhez és a szén-dioxid-szállítóvezetékhez kapcsolódó távközlő hálózat technológiai berendezéseihez tartozó, telekhatáron belüli vagy a távközlési hálózat hozzáférési pontjain elhelyezni tervezett létesítmények létesítését a bányafelügyelet engedélyezi.
 
@@ -40,4 +40,5 @@ d) a szerződéssel már lekötött
 
 teljesítőképességen felül rendelkezésre álló kapacitás.
 
-[^82]: A 21. § (6) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 12. § d) pontja hatályon kívül helyezte.
+[^89]: A 21. § (2) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 29. § a) pontja hatályon kívül helyezte.
+[^90]: A 21. § (6) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 12. § d) pontja hatályon kívül helyezte.

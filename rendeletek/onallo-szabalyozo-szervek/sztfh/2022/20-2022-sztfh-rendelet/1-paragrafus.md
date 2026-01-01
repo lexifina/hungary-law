@@ -24,10 +24,10 @@
 
 10. Kútfej: a bányának, kőolaj- és földgázbányászati üzemnek az első technológiai pontja, ahol a kitermelt, nyers bányatermék (a meddővel és kísérő ásványi nyersanyaggal együtt) a külszínen megjelenik,
 
-11.[^3]
+11.[^3] Mezőfejlesztés: a szénhidrogén készletek kitermeléséhez szükséges felszíni és földalatti eszközök telepítésének folyamata,
 
 12. Nagy nyomású tároló: olyan föld alatti térrész, amely a hidrosztatikus nyomású tároló esetében megadott értéknél nagyobb nyomással rendelkezik.
 
 [^1]: Az 1. § 7. pontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § 9a. pontját a 19/2024. (XII. 30.) SZTFH rendelet 7. §-a iktatta be.
-[^3]: Az 1. § 11. pontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § 11. pontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § b) pontja hatályon kívül helyezte, újonnan a 14/2025. (XII. 22.) SZTFH rendelet 14. §-a iktatta be.

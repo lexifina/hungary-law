@@ -2,7 +2,7 @@
 
 29. § (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
 
-(2)[^112] A bányaüzemi kutatásra, feltárásra, kitermelésre, és meddőhányó hasznosítására vonatkozó műszaki üzemi terv szöveges része tartalmazza
+(2)[^126] A bányaüzemi kutatásra, feltárásra, kitermelésre, és meddőhányó hasznosítására vonatkozó műszaki üzemi terv szöveges része tartalmazza
 
 a) a tervidőszakra előirányzott bányászati tevékenységeket, a technológiai és biztonsági feltételeket, továbbá a tervtérképen lehatárolt bányaüzem meghatározását,
 
@@ -36,29 +36,43 @@ ic) az égetés bányatelken kívülre történő áthúzódását megakadályoz
 
 id) az igénybe vett szén mennyiségének meghatározását,
 
-j) a szénhidrogén feltárás, kitermelés és földgáztárolás esetében
+j)[^127] a szénhidrogén feltárás, kitermelés és földgáz, illetve hidrogén tárolás esetében
 
 ja) a telepenként kitermelni tervezett olaj, gáz, kondenzátum és víz, valamint a besajtolandó szénhidrogén és szén-dioxid gáz mennyiségét,
 
 jb) a művelés tervezett módjának, ütemezésének, technológiáinak ismertetését, a művelési tervekre való utalást,
 
-jc)[^113] a kitermelés fenntartásához és az új területek (telepek) bekapcsolásához szükséges lemélyítendő kutak számát és tervezett helyét, a mező gyűjtési rendszerét, valamint az új külszíni létesítmények felsorolását és azok fontosabb műszaki jellemzőit, valamint
+jc)[^128] feltárás esetén a mezőfejlesztés során elvégezni tervezett tevékenységek bemutatását, kitermelés esetén a mező gyűjtési rendszerét, továbbá a kitermelés fenntartásához és az új területek – telepek – bekapcsolásához szükséges létesítmények felsorolását és azok fontosabb műszaki jellemzőit,
 
-jd)[^114]
+jd)[^129] a földtani szerkezetben történő földgáz, illetve hidrogén tárolása során végzett megfigyelési és ellenőrzési tevékenység részletes műszaki leírását (a továbbiakban: monitoring terv), valamint
 
-je)[^115] a szénhidrogének feltárására és kitermelésére kijelölt bányatelekkel lehatárolt földtani közegben tervezett rétegrepesztések és egyéb kitermelést serkentő besajtolások tervét, az alkalmazni tervezett folyadék összetételét, mennyiségét és a 30. § (4) bekezdésében foglaltak teljesülésének igazolását,
+je)[^130] a szénhidrogének feltárására és kitermelésére kijelölt bányatelekkel lehatárolt földtani közegben tervezett rétegrepesztések és egyéb kitermelést serkentő besajtolások tervét, az alkalmazni tervezett folyadék összetételét, mennyiségét és a 30. § (4) bekezdésében foglaltak teljesülésének igazolását,
 
 k) az esetleges régészeti feltárás ütemezését, módszerét, és a feltárást követően bolygatatlanul maradó régészeti lelőhelyrészlet megőrzésére tett intézkedéseket,
 
-l)[^116] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
+l)[^131] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
 
 m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságot igazoló okiratot.
+
+(2a)[^132] A (2) bekezdés j) pont jd) alpontja szerinti monitoring terv tartalmazza
+
+a) a monitoring rendszer leírását, különösen az abban részt vevő kutak adatait,
+
+b) az elvégzendő nyomás- és térfogatárammérések ismertetését, gyakoriságát,
+
+c) a mérési eredmények dokumentálásának módját,
+
+d) az éves gázösszetétel- és hidrogénkoncentrációs vizsgálatok laboratóriumi eredményei dokumentálásának módját, és
+
+e) ha a korábbi földtani kutatások a fedőréteget harántoló szerkezetet, vagy egyéb, a fedőréteg integritását negatívan befolyásoló jelenséget tártak fel, a sekély rétegek megfigyelésének módját.
+
+(2b)[^133] A monitoring rendszert úgy kell kialakítani, hogy alkalmas legyen az esetleges szivárgások korai fázisban a környezet, illetve egyéb felszín alatti tevékenységek károsodásának bekövetkezése előtti észlelésére, lehetővé téve a korai beavatkozást és a kialakuló károk minimalizálását.
 
 (3) A minimális kitermelési mennyiség nem lehet kevesebb, mint az engedélyezni kért legnagyobb éves kitermelési mennyiség 20%-a.
 
 (4) Ha az utolsó hatályos kitermelési műszaki üzemi terv alapján engedélyezett legnagyobb kitermelési mennyiség 20%-a, vagy több haszonanyag esetén a kitermelési mennyiségek 20%-a meghaladja a kérelem szerinti minimális mennyiséget, akkor ezt a mennyiséget, vagy mennyiségeket kell figyelembe venni minimális mennyiségként.
 
-(4a)[^117] Ha a bányavállalkozó több haszonanyag kitermelésére is jogosult, a minimális kitermelési mennyiség bármelyik haszonanyag kitermelésével teljesíthető.
+(4a)[^134] Ha a bányavállalkozó több haszonanyag kitermelésére is jogosult, a minimális kitermelési mennyiség bármelyik haszonanyag kitermelésével teljesíthető.
 
 (5) A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelem benyújtása során megfelelően alkalmazni kell a 25. § (1) bekezdés a) pontjában, valamint (2) bekezdésében foglaltakat.
 
@@ -68,7 +82,7 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 
 (8) Ha a bánya bezárását (megszüntetését), a szénhidrogénmező felhagyását a 30. § (5) bekezdése szerinti időszakra tervezik, a műszaki üzemi tervnek tartalmaznia kell a 42. § szerinti tervrészletet is.
 
-(9)[^118] Ha a bányavállalkozó a bányászati tevékenysége során járulékosan felszín alatti víz kitermelését végzi, és a kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerését tervezi, az e § szerinti műszaki üzemi terv jóváhagyása iránti kérelemben megadja
+(9)[^135] Ha a bányavállalkozó a bányászati tevékenysége során járulékosan felszín alatti víz kitermelését végzi, és a kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerését tervezi, az e § szerinti műszaki üzemi terv jóváhagyása iránti kérelemben megadja
 
 a) a kinyerni tervezett ásványi nyersanyagnak az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendelet szerinti alcsoport, annak hiányában csoport szintű besorolását, ércek esetében a kinyerni kívánt fém vagy fémek (kémiai elemek) megnevezésével,
 
@@ -80,10 +94,13 @@ d) az oldott ásványi nyersanyag kinyeréséhez szükséges technológia leír�
 
 e) a kinyerés során keletkező hulladékok fajtáját és mennyiségét, az elhelyezésükre, ártalmatlanításukra tervezett intézkedéseket.
 
-[^112]: A 29. § (2) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 43. § b) pontja szerint módosított szöveg.
-[^113]: A 29. § (2) bekezdés j) pont jc) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § g) pontja szerint módosított szöveg.
-[^114]: A 29. § (2) bekezdés j) pont jd) alpontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § m) pontja hatályon kívül helyezte.
-[^115]: A 29. § (2) bekezdés j) pont je) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § h) pontja szerint módosított szöveg.
-[^116]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
-[^117]: A 29. § (4a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 38. §-a iktatta be.
-[^118]: A 29. § (9) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 7. §-a iktatta be.
+[^126]: A 29. § (2) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 43. § b) pontja szerint módosított szöveg.
+[^127]: A 29. § (2) bekezdés j) pont nyitó szövegrésze a 14/2025. (XII. 22.) SZTFH rendelet 28. § e) pontja szerint módosított szöveg.
+[^128]: A 29. § (2) bekezdés j) pont jc) alpontja a 14/2025. (XII. 22.) SZTFH rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^129]: A 29. § (2) bekezdés j) pont jd) alpontját a 19/2024. (XII. 30.) SZTFH rendelet 23. § m) pontja hatályon kívül helyezte, újonnan a 14/2025. (XII. 22.) SZTFH rendelet 23. § (1) bekezdése iktatta be.
+[^130]: A 29. § (2) bekezdés j) pont je) alpontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § h) pontja szerint módosított szöveg.
+[^131]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^132]: A 29. § (2a) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 23. § (2) bekezdése iktatta be.
+[^133]: A 29. § (2b) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 23. § (2) bekezdése iktatta be.
+[^134]: A 29. § (4a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 38. §-a iktatta be.
+[^135]: A 29. § (9) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 7. §-a iktatta be.

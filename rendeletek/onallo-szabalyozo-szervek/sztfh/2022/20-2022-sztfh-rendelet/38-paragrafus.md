@@ -2,7 +2,7 @@
 
 (2) A keresztezett létesítmény keresztezéséhez és megközelítéséhez azok üzemeltetőinek egyetértése szükséges. Az üzemeltető az egyetértés megadását feltételekhez kötheti.
 
-(3)[^144] A keresztező, megközelítő építmény építtetőjének – át nem hárítható felelősséggel – gondoskodnia kell
+(3)[^165] A keresztező, megközelítő építmény építtetőjének – át nem hárítható felelősséggel – gondoskodnia kell
 
 a) a szükséges engedélyezési és kivitelezési, valamint üzemeltetési, technológiai tervek elkészítéséről és az üzemeltetővel történő egyeztetéséről,
 
@@ -16,11 +16,11 @@ c) a biztonsági övezet kialakítása érdekében szükséges költségek visel
 
 (6) Gépi földmunkát a keresztezett létesítmény feltárásához szükséges szilárd burkolatú út felbontása kivételével, a létesítmény szélső alkotóitól számított 1-1 méteres övezeten belül végezni nem lehet.
 
-(6a)[^145] Gépi földmunkának minősül különösen a keresztezett létesítmény feltárásához, valamint a keresztező, megközelítő építmény építéséhez szükséges furat, árok, vágat, kutatóárok, munkagödör, munkaárok kialakításával, biztosításával, használatával, megszüntetésével kapcsolatban géppel végzett tevékenység, beleértve a dúcolás, rézsűzés, és a munkaárok falainak állékonysága érdekében géppel végzett tevékenységeket is.
+(6a)[^166] Gépi földmunkának minősül különösen a keresztezett létesítmény feltárásához, valamint a keresztező, megközelítő építmény építéséhez szükséges furat, árok, vágat, kutatóárok, munkagödör, munkaárok kialakításával, biztosításával, használatával, megszüntetésével kapcsolatban géppel végzett tevékenység, beleértve a dúcolás, rézsűzés, és a munkaárok falainak állékonysága érdekében géppel végzett tevékenységeket is.
 
 (7) Az építési tevékenység fővállalkozó kivitelezőjének – át nem hárítható felelősséggel – gondoskodnia kell
 
-a)[^146] a kivitelezési munka megkezdése előtt – az üzemeltető szakmai felügyelete mellett – a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról, továbbá az üzemeltető (3) bekezdés a) pontja szerinti egyeztetés során kiadott nyilatkozatának rendelkezésre állásáról,
+a)[^167] a kivitelezési munka megkezdése előtt – az üzemeltető szakmai felügyelete mellett – a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról, továbbá az üzemeltető (3) bekezdés a) pontja szerinti egyeztetés során kiadott nyilatkozatának rendelkezésre állásáról,
 
 b) a kijelölt övezetnek az építési tevékenység alatti fenntartásáról,
 
@@ -28,15 +28,15 @@ c) a keresztezett létesítmény feltárásáról, és
 
 d) a keresztezés takarása előtt az üzemeltető értesítéséről.
 
-(8)[^147] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező viseli.
+(8)[^168] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező viseli.
 
 (9) Az üzemeltető köteles bejelenteni a bányafelügyeletnek, ha az üzemeltetésében álló szállító- vagy elosztóvezetéket a 37. § (2) és (3) bekezdésében, illetve a (6) bekezdésben foglalt tilalmak megsértésével megrongálták.
 
-(10)[^148] Az üzemeltető a (9) bekezdés szerinti bejelentést a rongálásról történő tudomásszerzést követő három munkanapon belül teszi meg. A bejelentés tartalmazza
+(10)[^169] Az üzemeltető a (9) bekezdés szerinti bejelentést a rongálásról történő tudomásszerzést követő három munkanapon belül teszi meg. A bejelentés tartalmazza
 
-a)[^149] a rongálás helyszínét, a helyszínről készített, a rongálás körülményeit rögzítő fényképfelvételeket,
+a)[^170] a rongálás helyszínét, a helyszínről készített, a rongálás körülményeit rögzítő fényképfelvételeket,
 
-b)[^150] a rongálást elkövető azonosító adatait, a rongálást eredményező cselekmény leírását,
+b)[^171] a rongálást elkövető azonosító adatait, a rongálást eredményező cselekmény leírását,
 
 c) a kivitelező azonosító adatait, ha a rongálást a fővállalkozóval szerződéses viszonyban álló személy valósította meg,
 
@@ -50,7 +50,9 @@ g) a megrongált szállító- vagy elosztóvezeték rongálás helyszínén mér
 
 (11) A bejelentés a (10) bekezdésben foglalt adatokat tartalmazó, az üzemeltető által a rongálás helyszínén készített jegyzőkönyv megküldésével is teljesíthető. Az üzemeltető a rongálást elkövető nyilatkozatát is megküldi a bányafelügyeletnek, ha ilyen nyilatkozattételre sor került.
 
-(12)[^151] Ha más nyomvonalas létesítmény üzemzavarának elhárítása szükséges, az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője az egységes elektronikus közműnyilvántartás adatai alapján meggyőződik, hogy az üzemzavar elhárítás érint-e keresztezett létesítményt. Az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője érintettség esetén az üzemzavar-elhárítás megkezdése előtt a keresztezett létesítmény üzemeltetőjével a tervezett munkálatokról és azok helyéről egyeztet.
+(12)[^172] Ha más nyomvonalas létesítmény üzemzavarának elhárítása szükséges, az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője az egységes elektronikus közműnyilvántartás adatai alapján meggyőződik, hogy az üzemzavar elhárítás érint-e keresztezett létesítményt. Az üzemzavarral érintett nyomvonalas létesítmény üzemeltetője érintettség esetén az üzemzavar-elhárítás megkezdése előtt a keresztezett létesítmény üzemeltetőjével a tervezett munkálatokról és azok helyéről egyeztet.
+
+(12a)[^173] Az üzemzavar-elhárítás megkezdése előtt gondoskodni kell a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról.
 
 (13) Közvetlen veszélyhelyzet áll fenn, ha a megrongált keresztezett létesítményből a szállított közeg kiáramlik, és a kiáramló közeg
 
@@ -58,11 +60,12 @@ a) robbanás- vagy tűzveszélyes, vagy
 
 b) az egészségre vagy a környezetre ártalmas.
 
-[^144]: A 38. § (3) bekezdés nyitó szövegrésze a 25/2023. (XII. 22.) SZTFH rendelet 10. § g) pontja szerint módosított szöveg.
-[^145]: A 38. § (6a) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 17. § (1) bekezdése iktatta be.
-[^146]: A 38. § (7) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § m) pontja, a 25/2023. (XII. 22.) SZTFH rendelet 10. § h) pontja szerint módosított szöveg.
-[^147]: A 38. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § n) pontja szerint módosított szöveg.
-[^148]: A 38. § (10) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 42. § o) pontja szerint módosított szöveg.
-[^149]: A 38. § (10) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § i) pontja szerint módosított szöveg.
-[^150]: A 38. § (10) bekezdés b) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § j) pontja szerint módosított szöveg.
-[^151]: A 38. § (12) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^165]: A 38. § (3) bekezdés nyitó szövegrésze a 25/2023. (XII. 22.) SZTFH rendelet 10. § g) pontja szerint módosított szöveg.
+[^166]: A 38. § (6a) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 17. § (1) bekezdése iktatta be.
+[^167]: A 38. § (7) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § m) pontja, a 25/2023. (XII. 22.) SZTFH rendelet 10. § h) pontja szerint módosított szöveg.
+[^168]: A 38. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § n) pontja szerint módosított szöveg.
+[^169]: A 38. § (10) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 42. § o) pontja szerint módosított szöveg.
+[^170]: A 38. § (10) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § i) pontja szerint módosított szöveg.
+[^171]: A 38. § (10) bekezdés b) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § j) pontja szerint módosított szöveg.
+[^172]: A 38. § (12) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^173]: A 38. § (12a) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 25. §-a iktatta be.

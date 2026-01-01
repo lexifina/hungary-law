@@ -1,4 +1,4 @@
-25. § (1) A bányatelek megállapítására irányuló kérelem tartalmazza:
+25. § (1)[^97] Az ásványi nyersanyag feltárására és kitermelésére szolgáló bányatelek megállapítására irányuló kérelem tartalmazza:
 
 a) ha a bányászati tevékenység a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet hatálya alá tartozik
 
@@ -30,7 +30,7 @@ f) a bányatelek műszaki leírását,
 
 g) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányatérképek méretarányára és tartalmára vonatkozó Bányabiztonsági Szabályzatról szóló rendelete szerinti bányatelek térképet,
 
-h)[^89] külfejtéses művelésre tervezett bányatelek esetében az újrahasznosítási célt,
+h)[^98] külfejtéses művelésre tervezett bányatelek esetében az újrahasznosítási célt,
 
 i) ha a megállapításra kért külfejtéses bányatelek erdőt vagy erdő művelési ágú erdőgazdálkodási tevékenységet közvetlenül szolgáló területet érint, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása nem került lefolytatásra
 
@@ -48,17 +48,17 @@ ie) a tervezett igénybevétel közérdekkel való összhangját alátámasztó 
 
 (3) Az (1) bekezdés f) pontja szerinti műszaki leírás tartalmazza
 
-a)[^90] a bányatelek határvonala folyamatos sorszámozással ellátott töréspontjainak EOV rendszer szerinti koordinátáit, a határvonal töréspontjainál a terep magasságát, az alap- és fedőlap magasságát, a haszonanyag fekü- és fedőszintjeit (mBf),
+a)[^99] a bányatelek határvonala folyamatos sorszámozással ellátott töréspontjainak EOV rendszer szerinti koordinátáit, a határvonal töréspontjainál a terep magasságát, az alap- és fedőlap magasságát, a haszonanyag fekü- és fedőszintjeit (mBf),
 
-b)[^91] a kutatási zárójelentés vagy a készletszámítási jelentés alapján a bányatelek földtani és kitermelhető ásványvagyonának mennyiségét és minőségi jellemzőit, továbbá az ásványi nyersanyagoknak az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott besorolási kódját,
+b)[^100] a kutatási zárójelentés vagy a készletszámítási jelentés alapján a bányatelek földtani és kitermelhető ásványvagyonának mennyiségét és minőségi jellemzőit, továbbá az ásványi nyersanyagoknak az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott besorolási kódját,
 
 c) a bányászati tevékenységek következtében várható felszíni kőzetmozgásokkal szemben védelmet igénylő létesítmény, lakótelepülés, vízbázis, folyó- vagy állóvíz megjelölését,
 
 d) a kijelölendő határ- és védőpillért, annak méretezését és az abban lekötött ásványvagyont,
 
-e)[^92] szénhidrogének és szén-dioxid esetében az 1. melléklet II. pontja szerinti bizonytalansági kategóriáját, illetve szilárd ásványi nyersanyagok esetében az 1. melléklet IV. pontja szerinti ismeretességi kategóriáját, továbbá – amennyiben a bányatelek ásványvagyona több telepből vagy készletszámítási tömbből áll – az ásványi nyersanyag mennyiségi és minőségi adatait tartalmazó összefoglaló táblázatot, szénhidrogének és szén-dioxid esetében telepszintű, szilárd ásványi nyersanyagok esetében tömbszintű bontásban, valamint az összesített adatokat nyersanyagonként,
+e)[^101] szénhidrogének és szén-dioxid esetében az 1. melléklet II. pontja szerinti bizonytalansági kategóriáját, illetve szilárd ásványi nyersanyagok esetében az 1. melléklet IV. pontja szerinti ismeretességi kategóriáját, továbbá – amennyiben a bányatelek ásványvagyona több telepből vagy készletszámítási tömbből áll – az ásványi nyersanyag mennyiségi és minőségi adatait tartalmazó összefoglaló táblázatot, szénhidrogének és szén-dioxid esetében telepszintű, szilárd ásványi nyersanyagok esetében tömbszintű bontásban, valamint az összesített adatokat nyersanyagonként,
 
-f) a földalatti gáztárolásra megállapítani kért bányatelek esetében a tárolás céljára szolgáló földtani szerkezetbe, természetes vagy mesterséges üregbe mélyített fúrások műszaki állapotát, felhasználásuk lehetőségét, a szükséges külszíni berendezéseket, azok műszaki jellemzőit és a gáztárolásnak a környezet veszélyeztetését, szennyezését, károsítását kizáró technológiáját.
+f)[^102]
 
 (4) A műszaki leírásban ismertetni kell:
 
@@ -66,23 +66,25 @@ a) az ásványi nyersanyag feltárására, kitermelésére kiválasztható bány
 
 b) a feltáráshoz, kitermeléshez várhatóan szükséges külszíni és felszín alatti létesítménycsoportok megnevezését és
 
-c)[^93] a kitermelési feltételek teljesíthetőségét.
+c)[^103] a kitermelési feltételek teljesíthetőségét.
 
-(5)[^94] Az (1) bekezdés h) pontja szerinti újrahasznosítási célt a hatályos településrendezési tervekre figyelemmel kell elkészíteni.
+(5)[^104] Az (1) bekezdés h) pontja szerinti újrahasznosítási célt a hatályos településrendezési tervekre figyelemmel kell elkészíteni.
 
-(6)[^95]
+(6)[^105]
 
 (7) A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányatérképek méretarányára és tartalmára vonatkozó Bányabiztonsági Szabályzatról szóló rendeletében meghatározott bányaművelési térkép méretarányának megfelelő térképen ábrázolni kell a tájrendezéssel kialakított új terepviszonyokat, ezek magassági adatait és az érthetőséget elősegítő metszeteket; valamint az ingatlan-nyilvántartási térkép tartalmát.
 
-(8)[^96]
+(8)[^106]
 
 (9) Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányafelügyelet az adatokat maga szerzi be.
 
-[^89]: A 25. § (1) bekezdés h) pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § d) pontja szerint módosított szöveg.
-[^90]: A 25. § (3) bekezdés a) pontja a 4/2025. (IV. 17.) SZTFH rendelet 24. § d) pontja szerint módosított szöveg.
-[^91]: A 25. § (3) bekezdés b) pontja a 19/2024. (XII. 30.) SZTFH rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^92]: A 25. § (3) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § a) pontja hatályon kívül helyezte, újonnan a 19/2024. (XII. 30.) SZTFH rendelet 11. § (2) bekezdése iktatta be.
-[^93]: A 25. § (4) bekezdés c) pontja a 21/2023. (XI. 9.) SZTFH rendelet 4. § b) pontja szerint módosított szöveg.
-[^94]: A 25. § (5) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^95]: A 25. § (6) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § i) pontja hatályon kívül helyezte.
-[^96]: A 25. § (8) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § j) pontja hatályon kívül helyezte.
+[^97]: A 25. § (1) bekezdés nyitó szövegrésze a 14/2025. (XII. 22.) SZTFH rendelet 28. § d) pontja szerint módosított szöveg.
+[^98]: A 25. § (1) bekezdés h) pontja a 19/2024. (XII. 30.) SZTFH rendelet 22. § d) pontja szerint módosított szöveg.
+[^99]: A 25. § (3) bekezdés a) pontja a 4/2025. (IV. 17.) SZTFH rendelet 24. § d) pontja szerint módosított szöveg.
+[^100]: A 25. § (3) bekezdés b) pontja a 19/2024. (XII. 30.) SZTFH rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^101]: A 25. § (3) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § a) pontja hatályon kívül helyezte, újonnan a 19/2024. (XII. 30.) SZTFH rendelet 11. § (2) bekezdése iktatta be.
+[^102]: A 25. § (3) bekezdés f) pontját a 14/2025. (XII. 22.) SZTFH rendelet 29. § b) pontja hatályon kívül helyezte.
+[^103]: A 25. § (4) bekezdés c) pontja a 21/2023. (XI. 9.) SZTFH rendelet 4. § b) pontja szerint módosított szöveg.
+[^104]: A 25. § (5) bekezdése a 19/2024. (XII. 30.) SZTFH rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^105]: A 25. § (6) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § i) pontja hatályon kívül helyezte.
+[^106]: A 25. § (8) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § j) pontja hatályon kívül helyezte.

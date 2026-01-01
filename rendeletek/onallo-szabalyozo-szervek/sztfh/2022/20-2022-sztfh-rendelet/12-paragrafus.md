@@ -1,4 +1,4 @@
-## 6.[^39] A geotermikus energia kutatása, kinyerése, hasznosítása, a geotermikus védőidom megállapítása
+## 6.[^42] A geotermikus energia kutatása, kinyerése, hasznosítása, a geotermikus védőidom megállapítása
 
 12. § (1) A geotermikus energia kutatási engedély iránti kérelem tartalmazza
 
@@ -6,7 +6,7 @@ a) a kutatási terület közigazgatási megjelölését az érintett település
 
 b) a kutatási blokkok EOV rendszer szerinti koordinátákkal történő lehatárolását,
 
-c)[^40] a kutatási terület alap- és fedőlapját, a Balti-tenger átlagos tengerszintjéhez viszonyítva, mBf megjelöléssel,
+c)[^43] a kutatási terület alap- és fedőlapját, a Balti-tenger átlagos tengerszintjéhez viszonyítva, mBf megjelöléssel,
 
 d) az engedélyezni kért kutatási terület, valamint térrész nagyságának indokolását, figyelemmel a kutatással célzott geotermikus energia tervezett hasznosítási formáira és a kutatási terület földtani felépítésének, hidrogeológiai és geotermikus jellemzőinek ismertetésére,
 
@@ -26,15 +26,15 @@ b) a tervezett, a bányafelügyelet hatáskörébe tartozó egyes sajátos épí
 
 c) ha ismert, a kutatólétesítményekkel érintett ingatlanok helyrajzi számát,
 
-d)[^41] az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, technológiájának leírását,
+d)[^44] az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, technológiájának leírását,
 
-e)[^42] a kutatás során kinyerni tervezett hő és kitermelni tervezett termálvíz mennyiségét és elhelyezésének módját.
+e)[^45] a kutatás során kinyerni tervezett hő és kitermelni tervezett termálvíz mennyiségét és elhelyezésének módját.
 
-f)[^43] a tervezett geotermikusenergia-hasznosításhoz kapcsolódó várható termálvízigényt, a hőmérséklet és a hozam megadásával,
+f)[^46] a tervezett geotermikusenergia-hasznosításhoz kapcsolódó várható termálvízigényt, a hőmérséklet és a hozam megadásával,
 
-g)[^44] az elérhető földtani, geofizikai és vízföldtani adatok alapján az f) pont alapján megadásra kerülő termálvízigény − hőmérséklet és hozam − kinyerésének lehetőségére vonatkozó elemzést és
+g)[^47] az elérhető földtani, geofizikai és vízföldtani adatok alapján az f) pont alapján megadásra kerülő termálvízigény − hőmérséklet és hozam − kinyerésének lehetőségére vonatkozó elemzést és
 
-h)[^45] azt, hogy a kutatási munkaprogramban szereplő szakmai feladatok végrehajtása milyen mértékben növeli a fúrási sikeresség esélyét a kutatási terület vonatkozásában.
+h)[^48] azt, hogy a kutatási munkaprogramban szereplő szakmai feladatok végrehajtása milyen mértékben növeli a fúrási sikeresség esélyét a kutatási terület vonatkozásában.
 
 (3) A kutatási munkaprogramban egy kutatólétesítmény is tervezhető, ha a rendelkezésre álló archív adattári vagy a hatósági nyilvántartásban szereplő adatok mennyisége és minősége alapján a geotermikus védőidom megállapításához szükséges adatok rendelkezésre állnak.
 
@@ -48,25 +48,25 @@ c) a bányászati létesítmény használatára jogosult.
 
 (5) A kérelmező a kérelemhez mellékeli a kutatási terület Egységes Országos Térképrendszerben készült, legfeljebb 1:100 000 méretarányú térképét. A térképen ábrázolni kell a kutatási terület és a kutatási blokk határvonalát a határpontok számozásával.
 
-(5a)[^46] Ha a kutatási terület kőolaj, földgáz, valamint a szén-dioxid gáz kitermelésére vagy a földalatti gáztárolásra megállapított bányatelek területét vagy kőolaj, földgáz, valamint szén-dioxid gáz kutatási területét érinti, a kérelmező kérelméhez mellékeli a bányászati jog jogosultjának kutatással kapcsolatos nyilatkozatát, amely tartalmában a kutatáshoz való hozzájárulásra, feltétellel való hozzájárulásra vagy indokolással ellátott megtagadására vonatkozhat. Ha a bányászati jog jogosultja a hozzájárulást feltétellel adja meg, a feltételben foglaltakat megindokolja. Ha a bányászati jog jogosultja a nyilatkozat megadása iránti megkeresés közlésétől számított 15 napon belül nem tesz nyilatkozatot, a hozzájárulást megadottnak kell tekinteni.
+(5a)[^49] Ha a kutatási terület kőolaj, földgáz, valamint a szén-dioxid gáz kitermelésére vagy a földalatti gáztárolásra megállapított bányatelek területét vagy kőolaj, földgáz, valamint szén-dioxid gáz kutatási területét érinti, a kérelmező kérelméhez mellékeli a bányászati jog jogosultjának kutatással kapcsolatos nyilatkozatát, amely tartalmában a kutatáshoz való hozzájárulásra, feltétellel való hozzájárulásra vagy indokolással ellátott megtagadására vonatkozhat. Ha a bányászati jog jogosultja a hozzájárulást feltétellel adja meg, a feltételben foglaltakat megindokolja. Ha a bányászati jog jogosultja a nyilatkozat megadása iránti megkeresés közlésétől számított 15 napon belül nem tesz nyilatkozatot, a hozzájárulást megadottnak kell tekinteni.
 
-(5b)[^47] Ha a kérelmező az (5a) bekezdés szerinti nyilatkozat tartalmát a kérelmében sérelmesnek tartja, a bányafelügyelet a nyilatkozat megalapozottságát földtani, ásványvagyon- és geotermikusenergia-gazdálkodási, hidrogeológiai, rezervoármechanikai és műveléstechnológiai szempontok alapján felülvizsgálja. A felülvizsgálat szempontjait, indokait és eredményét a geotermikusenergia-kutatás engedélyezése tárgyában hozott döntésben a bányafelügyelet ismerteti.
+(5b)[^50] Ha a kérelmező az (5a) bekezdés szerinti nyilatkozat tartalmát a kérelmében sérelmesnek tartja, a bányafelügyelet a nyilatkozat megalapozottságát földtani, ásványvagyon- és geotermikusenergia-gazdálkodási, hidrogeológiai, rezervoármechanikai és műveléstechnológiai szempontok alapján felülvizsgálja. A felülvizsgálat szempontjait, indokait és eredményét a geotermikusenergia-kutatás engedélyezése tárgyában hozott döntésben a bányafelügyelet ismerteti.
 
 (6) Vízügyi igazgatósági vagyonkezelésben lévő vizek érintettsége esetén a kérelmező a kérelemhez mellékeli a vízügyi igazgatóságnak a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet (a továbbiakban: a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet) 1/J. §-a szerinti vagyonkezelői hozzájárulását.
 
 (7) A pénzügyi biztosíték a kutatással összefüggésben várható károk rendezésére, a környezet- és természetvédelmi, a tájrendezési és bányakár kötelezettségek teljesítésére szolgáló összeg, amely
 
-a)[^48] a természetes felszíntől 1000 méterig történő kutatás esetén kutatási blokkonként legalább 40 millió forint,
+a)[^51] a természetes felszíntől 1000 méterig történő kutatás esetén kutatási blokkonként legalább 40 millió forint,
 
-b)[^49] a természetes felszíntől mért 1000 és 2000 méter közötti kutatás esetén kutatási blokkonként legalább 100 millió forint,
+b)[^52] a természetes felszíntől mért 1000 és 2000 méter közötti kutatás esetén kutatási blokkonként legalább 100 millió forint,
 
-c)[^50] a természetes felszíntől mért 2000 méter alatti kutatás esetén kutatási blokkonként legalább 200 millió forint.
+c)[^53] a természetes felszíntől mért 2000 méter alatti kutatás esetén kutatási blokkonként legalább 200 millió forint.
 
-(7a)[^51] Ha a kérelem a (7) bekezdés szerinti mélységkategóriák közül több mélységkategóriára is kiterjed, akkor minden érintett mélységkategória tekintetében teljesíteni kell legalább a biztosíték legalacsonyabb összegét.
+(7a)[^54] Ha a kérelem a (7) bekezdés szerinti mélységkategóriák közül több mélységkategóriára is kiterjed, akkor minden érintett mélységkategória tekintetében teljesíteni kell legalább a biztosíték legalacsonyabb összegét.
 
-(8)[^52] A pénzügyi biztosíték összegét költségterv alapján kell meghatározni. A költségtervet a kérelmezőnek úgy kell elkészítenie, mintha harmadik személy végezné el a 41. § (3) bekezdése szerinti, a bányavállalkozót terhelő kötelezettségekből származó feladatokat.
+(8)[^55] A pénzügyi biztosíték összegét költségterv alapján kell meghatározni. A költségtervet a kérelmezőnek úgy kell elkészítenie, mintha harmadik személy végezné el a 41. § (3) bekezdése szerinti, a bányavállalkozót terhelő kötelezettségekből származó feladatokat.
 
-(9)[^53] A pénzügyi biztosítékra a 41. § (5)–(6), valamint (8) és (9) bekezdését alkalmazni kell.
+(9)[^56] A pénzügyi biztosítékra a 41. § (5)–(6), valamint (8) és (9) bekezdését alkalmazni kell.
 
 (10) A bányafelügyelet a kutatási engedély iránti kérelmet elutasítja
 
@@ -74,9 +74,9 @@ a) ha a kérelmező vagy a társasági adóról és az osztalékadóról szóló
 
 b) a kérelmezett kutatási terület azon részére, amelyet a bányavállalkozó vagy kapcsolt vállalkozása öt éven belül már megkutatott,
 
-c)[^54] a kérelmezett kutatási terület azon részére, amely
+c)[^57] a kérelmezett kutatási terület azon részére, amely
 
-ca)[^55] más jogosult geotermikus kutatási engedélyét vagy geotermikus védőidomát érinti, a Bt. 21/A. § (2a) bekezdésében foglaltak kivételével, vagy
+ca)[^58] más jogosult geotermikus kutatási engedélyét vagy geotermikus védőidomát érinti, a Bt. 21/A. § (2a) bekezdésében foglaltak kivételével, vagy
 
 cb) kőolaj, földgáz, valamint a szén-dioxid gáz kitermelésére vagy a földalatti gáztárolásra megállapított bányatelek területét vagy kőolaj, földgáz, valamint szén-dioxid gáz kutatási területét érinti, és a kutatás bányászati jog jogosultja általi megtagadását a bányafelügyelet megalapozottnak tekintette,
 
@@ -88,17 +88,17 @@ f) ha a kérelmező vagy kapcsolt vállalkozása geotermikus energia kinyerésé
 
 g) ha az engedélyezni kért kutatási terület (térrész) nagysága a kérelmező indokai alapján nem megalapozott, vagy
 
-h)[^56] ha a kutatási terület átfedésben van olyan térrésszel, amelynek tekintetében európai uniós vagy állami támogatással megvalósuló termálvíz kitermelésére vonatkozó beruházásra vízügyi hatósági engedélyt adtak ki.
+h)[^59] ha a kutatási terület átfedésben van olyan térrésszel, amelynek tekintetében európai uniós vagy állami támogatással megvalósuló termálvíz kitermelésére vonatkozó beruházásra vízügyi hatósági engedélyt adtak ki.
 
-(10a)[^57] Ha azonos területre, térrészre több geotermikus kutatási engedély iránti kérelmet nyújtanak be, a bányafelügyelet felhívására (a továbbiakban: felhívás) a kérelmezők egyeztetnek a kutatási területek tekintetében.
+(10a)[^60] Ha azonos területre, térrészre több geotermikus kutatási engedély iránti kérelmet nyújtanak be, a bányafelügyelet felhívására (a továbbiakban: felhívás) a kérelmezők egyeztetnek a kutatási területek tekintetében.
 
-(10b)[^58] A bányafelügyelet a felhívást az utolsóként benyújtott kérelem beérkezését követő 8 napon belül bocsátja ki. A bányafelügyelet a felhívást nem bocsátja ki, ha kérelem elutasítása vagy visszautasítása eredményeként nincs folyamatban azonos területre, térrészre több geotermikus kutatás engedélyezésére irányuló eljárás.
+(10b)[^61] A bányafelügyelet a felhívást az utolsóként benyújtott kérelem beérkezését követő 8 napon belül bocsátja ki. A bányafelügyelet a felhívást nem bocsátja ki, ha kérelem elutasítása vagy visszautasítása eredményeként nincs folyamatban azonos területre, térrészre több geotermikus kutatás engedélyezésére irányuló eljárás.
 
-(10c)[^59] A kérelmezők az egyeztetést a felhívást követő 30 napon belül folytatják le, és annak eredményéről közös nyilatkozatban tájékoztatják a bányafelügyeletet. Eredményes egyeztetés esetén a kérelmezők a benyújtott kérelmek módosítására irányuló kérelmüket is benyújtják.
+(10c)[^62] A kérelmezők az egyeztetést a felhívást követő 30 napon belül folytatják le, és annak eredményéről közös nyilatkozatban tájékoztatják a bányafelügyeletet. Eredményes egyeztetés esetén a kérelmezők a benyújtott kérelmek módosítására irányuló kérelmüket is benyújtják.
 
-(10d)[^60] Ha a kérelmezők az egyeztetés alapján a kérelmüket nem módosítják úgy, hogy azok azonos területre, térrészre ne vonatkozzanak, a bányafelügyelet a kérelmezettől eltérően állapíthatja meg a kutatási területet.
+(10d)[^63] Ha a kérelmezők az egyeztetés alapján a kérelmüket nem módosítják úgy, hogy azok azonos területre, térrészre ne vonatkozzanak, a bányafelügyelet a kérelmezettől eltérően állapíthatja meg a kutatási területet.
 
-(10e)[^61] A bányafelügyelet a (10d) bekezdés szerinti esetben különösen az alábbiakat mérlegelve hoz döntést:
+(10e)[^64] A bányafelügyelet a (10d) bekezdés szerinti esetben különösen az alábbiakat mérlegelve hoz döntést:
 
 a) a kérelmezők rendelkeznek-e a kinyert hő hasznosítására vagy villamosenergia-termelésre vonatkozó engedéllyel vagy jognyilatkozattal, figyelemmel a minél korábbi hasznosítás megvalósítására,
 
@@ -108,29 +108,32 @@ c) a geotermikusenergia-kutatást egy időben több bányavállalkozó végezhes
 
 d) a módosított kutatási területek alkalmasak legyenek a tervezett kutatás elvégzésére és a tervezett hőhasznosítás, villamosenergia-termelés vagy hő- és villamosenergia-termelés együttes megvalósítására.
 
-(11)[^62]
+(11)[^65] A geotermikus védőidom bővítésére irányuló geotermikus energia kutatásra az (1)–(10) bekezdést és a 13–15. § rendelkezéseit kell alkalmazni.
 
-[^39]: A 6. alcím (12-15/F. §) a 6/2023. (II. 28.) SZTFH rendelet 3. §-ával megállapított szöveg.
-[^40]: A 12. § (1) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
-[^41]: A 12. § (2) bekezdés d) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § b) pontja szerint módosított szöveg.
-[^42]: A 12. § (2) bekezdés e) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § c) pontja szerint módosított szöveg.
-[^43]: A 12. § (2) bekezdés f) pontját a 9/2023. (V. 12.) SZTFH rendelet 1. § (1) bekezdése iktatta be.
-[^44]: A 12. § (2) bekezdés g) pontját a 9/2023. (V. 12.) SZTFH rendelet 1. § (1) bekezdése iktatta be.
-[^45]: A 12. § (2) bekezdés h) pontját a 9/2023. (V. 12.) SZTFH rendelet 1. § (1) bekezdése iktatta be.
-[^46]: A 12. § (5a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
-[^47]: A 12. § (5b) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
-[^48]: A 12. § (7) bekezdés a) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § d) pontja szerint módosított szöveg.
-[^49]: A 12. § (7) bekezdés b) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § e) pontja szerint módosított szöveg.
-[^50]: A 12. § (7) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § f) pontja szerint módosított szöveg.
-[^51]: A 12. § (7a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (3) bekezdése iktatta be.
-[^52]: A 12. § (8) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 24. § a) pontja szerint módosított szöveg.
-[^53]: A 12. § (9) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 11. § c) pontja szerint módosított szöveg.
-[^54]: A 12. § (10) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^55]: A 12. § (10) bekezdés c) pont ca) alpontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § a) pontja szerint módosított szöveg.
-[^56]: A 12. § (10) bekezdés h) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^57]: A 12. § (10a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^58]: A 12. § (10b) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^59]: A 12. § (10c) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^60]: A 12. § (10d) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^61]: A 12. § (10e) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^62]: A 12. § (11) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § h) pontja hatályon kívül helyezte.
+(12)[^66] A geotermikus kutatási terület visszaadására a 8. § (11) bekezdését kell alkalmazni.
+
+[^42]: A 6. alcím (12-15/F. §) a 6/2023. (II. 28.) SZTFH rendelet 3. §-ával megállapított szöveg.
+[^43]: A 12. § (1) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
+[^44]: A 12. § (2) bekezdés d) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § b) pontja szerint módosított szöveg.
+[^45]: A 12. § (2) bekezdés e) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § c) pontja szerint módosított szöveg.
+[^46]: A 12. § (2) bekezdés f) pontját a 9/2023. (V. 12.) SZTFH rendelet 1. § (1) bekezdése iktatta be.
+[^47]: A 12. § (2) bekezdés g) pontját a 9/2023. (V. 12.) SZTFH rendelet 1. § (1) bekezdése iktatta be.
+[^48]: A 12. § (2) bekezdés h) pontját a 9/2023. (V. 12.) SZTFH rendelet 1. § (1) bekezdése iktatta be.
+[^49]: A 12. § (5a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
+[^50]: A 12. § (5b) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (2) bekezdése iktatta be.
+[^51]: A 12. § (7) bekezdés a) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § d) pontja szerint módosított szöveg.
+[^52]: A 12. § (7) bekezdés b) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § e) pontja szerint módosított szöveg.
+[^53]: A 12. § (7) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § f) pontja szerint módosított szöveg.
+[^54]: A 12. § (7a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (3) bekezdése iktatta be.
+[^55]: A 12. § (8) bekezdése a 4/2025. (IV. 17.) SZTFH rendelet 24. § a) pontja szerint módosított szöveg.
+[^56]: A 12. § (9) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 11. § c) pontja szerint módosított szöveg.
+[^57]: A 12. § (10) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^58]: A 12. § (10) bekezdés c) pont ca) alpontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § a) pontja szerint módosított szöveg.
+[^59]: A 12. § (10) bekezdés h) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^60]: A 12. § (10a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^61]: A 12. § (10b) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^62]: A 12. § (10c) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^63]: A 12. § (10d) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^64]: A 12. § (10e) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^65]: A 12. § (11) bekezdését a 19/2024. (XII. 30.) SZTFH rendelet 23. § h) pontja hatályon kívül helyezte, újonnan a 14/2025. (XII. 22.) SZTFH rendelet 18. §-a iktatta be.
+[^66]: A 12. § (12) bekezdését a 14/2025. (XII. 22.) SZTFH rendelet 18. §-a iktatta be.
