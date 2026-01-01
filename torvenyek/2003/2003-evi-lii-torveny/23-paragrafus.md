@@ -28,7 +28,7 @@ ba) a természetes személy ügyfél természetes személyazonosító adatait, l
 
 bb) jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatokat (cégnevét, adószámát, székhelyét, telephelyét),
 
-bc) az ügyfél regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
+bc) az ügyfél támogatási azonosítóját vagy a növénytermesztési hatóság partner azonosítóját,
 
 bd) a tevékenység megjelölését,
 

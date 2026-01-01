@@ -40,7 +40,7 @@ d) telephelyeinek címét, a telephelyen folytatott tevékenység jellegét, a t
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
-(11) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(11) A növénytermesztési hatóság – a személyiadat- és lakcímnyilvántartásban, a cégnyilvántartásban és az adózással kapcsolatos nyilvántartásban, a 23. § (1) bekezdés a) pont aa) alpont 5.) pontjában szereplő adatok, valamint az ügyfél támogatási azonosítója kivételével – közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (12) A szaporítóanyagnak a minősítés során megállapított minőségéért a szaporítóanyag-tétel forgalomban tartásának ideje alatt a szaporítóanyag-forgalmazó a felelős.
 

@@ -34,6 +34,8 @@ d) a határozat hatályossági idejét.
 
 (2e) A növénytermesztési hatóság a (2b) bekezdés szerinti, részére átadott személyes adatokat a (2b) bekezdés d) pontja szerinti hatályossági idő lejártát követő második év végéig a 23. § (2) bekezdés j) pont jd) alpontjában meghatározott feladata ellátása érdekében kezeli.
 
+(2f) A vetőmag-előállító zárt körzet nyilvántartás a (2b) bekezdés c) és d) pontjában szereplő adatok, valamint a vetőmag-előállítással érintett terület helye és nagysága tekintetében közhiteles.
+
 (3) Ha a 18. § (5) bekezdése szerinti egyeztetési igény bejelentésére sor kerül, de elmarad a 18/A. § szerinti szerződéskötés, a zárt körzet létrehozását a növénytermesztési hatóság engedélyezi a (2) bekezdés szerinti feltétel teljesülésének vizsgálatát követően, a 18/C. §-ban foglaltak szerint. A zárt körzet létesítését kezdeményező vetőmag-előállítónak a zárt körzet létesítésére vonatkozó szándékát a 18. § (3) bekezdésében meghatározott módon közzé kell tennie.
 
 (4) A zárt körzet területén a védőtávolságba eső földterületek használójának az egyeztetés iránti igényét a közzétételt követő 30 napon belül kell bejelentenie a vetőmag-előállító és a területi agrárkamara részére, ha a meghirdetett zárt körzet a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz, amelyet a 18. § (5) bekezdésében foglaltak szerint bizonyítania kell.
