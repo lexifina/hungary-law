@@ -6,7 +6,7 @@
 
 2. az (EU) 2017/2394 rendelet 27. cikk (1) bekezdésében,
 
-3. az Fgytv. 19. §-ában, 48/A. § (1) és (2) bekezdésében, valamint 48. § (3) bekezdésében,
+3.[^1] az Fgytv. 19. §-ában, 38. § (6) bekezdésében, 38/G. § (1) bekezdésében, 48. § (3) bekezdésében, valamint 48/A. § (1) bekezdésében,
 
 4. a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 56/A. § (5) bekezdésében, 72. § (3) bekezdésében, 163. § (2) bekezdésében,
 
@@ -18,9 +18,15 @@
 
 8. a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5. § (1) bekezdésében,
 
-9. a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében
+9.[^2] a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 3. § (3) és (4) bekezdésében, 4. § (8) bekezdésében, 9. § (4) bekezdésében, 17. § (3) és (4) bekezdésében, valamint 18. § (5) bekezdésében
+
+10.[^3] a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 6/K. § (4) és (5) bekezdésében,
+
+11.[^4] a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 26. § (1) bekezdésében
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként az NKFH-t jelöli ki.
+
+(2a)[^5] A Kormány az Fgytv. 51/B. § (1) bekezdése szerinti közzététel tekintetében fogyasztóvédelmi hatóságként az NKFH-t jelöli ki.
 
 (3) A Kormány az Fgytv. 43/B. §-a tekintetében fogyasztóvédelmi hatóságként a minisztert és az NKFH-t jelöli ki.
 
@@ -41,6 +47,8 @@ foglaltak tekintetében fogyasztóvédelmi hatóságként az NKFH-t és a kormá
 (6) Az NKFH és a kormányhivatal piacfelügyeleti feladat- és hatáskörében ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
 
 (7) A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – az NKFH-t és a kormányhivatalt jelöli ki.
+
+(7a)[^6] A Kormány az előrecsomagolt termékek névleges mennyiségére vonatkozó szabályok megállapításáról és azok ellenőrzési módszereiről szóló 13/2008. (VIII. 8.) NFGM–FVM együttes rendelet 2. § f) pontjában foglaltak tekintetében fogyasztóvédelmi hatóságként az NKFH-t és a kormányhivatalt jelöli ki.
 
 (8) A Kormány
 
@@ -68,7 +76,7 @@ foglaltak tekintetében fogyasztóvédelmi hatóságként a Pest Vármegyei Korm
 
 (10) A Kormány
 
-1. az Fgytv. 16/B. §-ában, 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) bekezdésében, 29. § (11) bekezdésében, valamint 37/B. §-ában foglaltak,
+1.[^7] az Fgytv. 16/B. §-ában, 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) bekezdésében, 29. § (11) bekezdésében, 37/B. §-ában, valamint 45/A. § (3) bekezdés h) pontjában foglaltak,
 
 2. a gazdasági reklámok és az üzletfeliratok, továbbá egyes közérdekű közlemények magyar nyelvű közzétételéről szóló 2001. évi XCVI. törvény 4. § (1) és (2) bekezdésében foglaltak,
 
@@ -76,7 +84,7 @@ foglaltak tekintetében fogyasztóvédelmi hatóságként a Pest Vármegyei Korm
 
 4. a Tszt. 7. § (1) bekezdés a) pontjában, 8. § (1) bekezdés b) pontjában, 10. § a) pontjában foglaltak,
 
-5. a kereskedelemről szóló 2005. évi CLXIV. törvény 5/C. és 5/D. §-ában foglaltak,
+5.[^8] a Kertv. 5/C. és 5/D. §-ában foglaltak,
 
 6. a Vet. 57. §-ában foglaltak,
 
@@ -94,7 +102,7 @@ foglaltak tekintetében fogyasztóvédelmi hatóságként a Pest Vármegyei Korm
 
 13. az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 11. §-ában foglaltak,
 
-14. a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak,
+14.[^9] a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában és 7. § (1) bekezdésében foglaltak,
 
 15. a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
 
@@ -122,7 +130,7 @@ foglaltak tekintetében fogyasztóvédelmi hatóságként a Pest Vármegyei Korm
 
 27. az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet 25. § (6) bekezdésében foglaltak,
 
-28. a 39/2013. Korm. rendelet 17. § (1) bekezdés d) pontjában foglaltak,
+28.[^10] a 39/2013. Korm. rendelet 17. § (1) bekezdés c) pontjában foglaltak,
 
 29. a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (1) bekezdés c) pontjában foglaltak,
 
@@ -147,3 +155,14 @@ d) módszertani segédanyagokat készít a helyi önkormányzatok fogyasztóvéd
 e) támogatja az önkormányzati tanácsadó irodák működését, és
 
 f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát el a fenntartható és egészségtudatos fogyasztási szokások kialakítása érdekében.
+
+[^1]: A 3. § (2) bekezdés 3. pontja a 415/2025. (XII. 23.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (2) bekezdés 9. pontja a 415/2025. (XII. 23.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdés 10. pontját a 415/2025. (XII. 23.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^4]: A 3. § (2) bekezdés 11. pontját a 415/2025. (XII. 23.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^5]: A 3. § (2a) bekezdését a 415/2025. (XII. 23.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^6]: A 3. § (7a) bekezdését a 415/2025. (XII. 23.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^7]: A 3. § (10) bekezdés 1. pontja a 415/2025. (XII. 23.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (10) bekezdés 5. pontja a 415/2025. (XII. 23.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (10) bekezdés 14. pontja a 415/2025. (XII. 23.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^10]: A 3. § (10) bekezdés 28. pontja a 415/2025. (XII. 23.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

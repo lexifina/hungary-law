@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-326-20-
 | --- | --- | --- |
 | 2025-01-01 | 2024-326-20-22.1 | 326/2024. (XI. 14.) Korm. rendelet |
 | 2025-01-02 | 2024-326-20-22.2 | 2010. évi CXXX. törvény |
+| 2026-01-01 | 2024-326-20-22.3 | 415/2025. (XII. 23.) Korm. rendelet |
