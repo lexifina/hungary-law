@@ -8,7 +8,7 @@
 
 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 
-3. vagyoni értékű jog: az építményi jog, a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a földhasználat és a lakásbérlet;
+3. vagyoni értékű jog: az építményi jog, a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a lízingbevevői jog, tulajdonjog-fenntartáshoz kapcsolódó vevői jog, a földhasználat és a lakásbérlet;
 
 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
 
@@ -152,7 +152,7 @@ g) a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönz
 
 34. beszerző, értékesítő szövetkezet: az a szövetkezet, amelynek nettó árbevétele legalább 95%-ban tagjai részére történő értékesítésből vagy tagjai termékeinek értékesítéséből származik;
 
-35. közszolgáltató szervezet: a Magyar Posta Zrt., a Duna Médiaszolgáltató Nonprofit Zrt., a Diákhitel Központ Zrt., a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság. Közszolgáltató szervezet továbbá a vasúti pályahálózatot üzemeltető, feltéve, ha nettó árbevétele legalább 55%-ban a vasúti pályahálózat működtetéséből származik, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatást nyújtó, feltéve, ha nettó árbevétele legalább 55%-ban a tömegközlekedési szolgáltatás nyújtásából származik, valamint a személyszállítási szolgáltatásokról szóló törvény szerinti közlekedésszervező;
+35. közszolgáltató szervezet: a Magyar Posta Zrt., a Duna Médiaszolgáltató Nonprofit Zrt., a Diákhitel Központ Zrt., a Tartalékgazdálkodási Kht., a MÁV Magyar Államvasutak Zrt., illetve annak tevékenységét folytató nonprofit gazdasági társaság. Közszolgáltató szervezet a vasúti pályahálózatot üzemeltető, feltéve, ha nettó árbevétele legalább 55%-ban a vasúti pályahálózat működtetéséből származik, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatást nyújtó, feltéve, ha nettó árbevétele legalább 55%-ban a tömegközlekedési szolgáltatás nyújtásából származik. Közszolgáltató szervezet az integrált vasútvállalat, feltéve, ha a vasúti pályahálózat üzemeltetéséből, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatásból származó nettó árbevétele együttesen eléri az összes nettó árbevételének 55%-át. Közszolgáltató szervezet továbbá a személyszállítási szolgáltatásokról szóló törvény szerinti közlekedésszervező;
 
 36. eladott áruk beszerzési értéke: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt és változatlan formában eladott anyagoknak, áruknak – a számvitelről szóló törvény szerint az eladott áruk beszerzési értékeként elszámolt – bekerülési (beszerzési) értéke, ide nem értve a hulladékról szóló törvény szerinti visszaváltási díjat. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi árubeszerzésre fordított kiadás, csökkentve a kifizetett árukészlet leltár szerinti záró értékével, növelve a kifizetett árukészlet leltár szerinti nyitó értékével, azzal, hogy a hulladékról szóló törvény szerinti visszaváltási díjat nem lehet figyelembe venni sem kiadásként, sem a kifizetett árukészlet leltár szerinti értékeként. Csökkenti az eladott áruk beszerzési értékét az az érték, amellyel az adóalany a 37. pont szerint anyagköltségként, a 32. pont szerint alvállalkozói teljesítés értékeként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
 
@@ -263,3 +263,5 @@ keretében végzett kötelezettség;
 69. áttérési különbözet: a 40/J. § (1) bekezdés szerinti adóalap-növelő és -csökkentő tételek együttes összege (előjellel ellátva).
 
 70. önkormányzati ASP rendszer: az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet szerinti elektronikus információs rendszer;
+
+71. integrált vasútvállalat: a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 2. § 5.2. pont d) alpontja szerinti szervezet.
