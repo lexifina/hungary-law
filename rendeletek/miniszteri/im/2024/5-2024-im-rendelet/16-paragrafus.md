@@ -1,1 +1,0 @@
-16. § A szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törölni kell, ha legkésőbb 2024. május 31-én a választópolgár kérelmére a választópolgár nemzetiséghez tartozását a Nemzeti Választási Iroda törli a központi névjegyzékből. [Ve. 314. § (2) bekezdés]

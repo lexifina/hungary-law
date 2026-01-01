@@ -1,1 +1,0 @@
-25. § A Nemzeti Választási Iroda a levélben szavazók névjegyzékének azon választópolgárokat tartalmazó részét, akik a szavazási levélcsomag személyes átvételét kérték, 2024. május 24-ig hozzáférhetővé teszi az illetékes választási iroda részére. [Ve. 267/A. §]

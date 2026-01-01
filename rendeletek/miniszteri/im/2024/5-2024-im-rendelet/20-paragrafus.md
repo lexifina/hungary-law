@@ -1,1 +1,0 @@
-20. § A helyi önkormányzati képviselők és polgármesterek választásán átjelentkezésre az a választópolgár jogosult, aki 2024. február 11-én és az átjelentkezésre irányuló kérelme elbírálásakor ugyanazon választókerületben tartózkodási hellyel rendelkezett, és tartózkodási helyének érvényessége legalább 2024. június 9-ig tart. [Ve. 337/A. § (3) bekezdés és 307/A. § (1) bekezdés]

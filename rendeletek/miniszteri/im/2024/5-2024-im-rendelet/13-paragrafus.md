@@ -1,1 +1,0 @@
-13. § A választási iroda értesítő átadásával vagy megküldésével tájékoztatja a szavazóköri névjegyzékbe történt felvételéről azt a választópolgárt, aki 2024. április 3-át követően kerül a település szavazóköri névjegyzékébe. [Ve. 116. § (1) bekezdés]
