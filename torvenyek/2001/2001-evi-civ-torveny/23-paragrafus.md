@@ -14,4 +14,4 @@ c) a jogi személy az ügydöntő határozatban nem a bírósági nyilvántartá
 
 (2) Ha a perújítást azon vádlott vonatkozásában rendelték el, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a perújítás elrendelése az ítélet jogi személyre vonatkozó rendelkezésére is kihat. Ha a bíróság megállapítja, hogy a perújítás alapos, és új ítéletet hoz, a 3. § rendelkezései az új ítélet kapcsán is alkalmazandók.
 
-(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen perújítási indítványt az ügyészség, a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő terjeszthet elő.
+(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen perújítási indítványt az ügyészség, az eljárás alá vont jogi személy törvényes képviselője és az eljárás alá vont jogi személy védője terjeszthet elő.

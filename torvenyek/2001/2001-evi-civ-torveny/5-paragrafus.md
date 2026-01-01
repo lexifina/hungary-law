@@ -1,6 +1,6 @@
 ## A jogi személy tevékenységének korlátozása
 
-5. § (1) A bíróság a jogi személy tevékenységét a (2) bekezdésben meghatározott körben egy évtől három évig terjedő időtartamra korlátozhatja; a tartamot években kell meghatározni. A korlátozás kiterjedhet a (2) bekezdésben felsorolt valamennyi tevékenység vagy egyes tevékenységek gyakorlására.
+5. § (1) A bíróság az eljárás alá vont jogi személy tevékenységét a (2) bekezdésben meghatározott körben egy évtől öt évig terjedő időtartamra korlátozhatja, ha ez a jogszerű gazdasági tevékenységének helyreállítása érdekében szükséges. A korlátozás tartamát években kell meghatározni. A korlátozás kiterjedhet a (2) bekezdésben felsorolt valamennyi tevékenység vagy egyes tevékenységek gyakorlására.
 
 (2) Az eltiltás ideje alatt a jogi személy
 
@@ -16,7 +16,7 @@ e) nem részesülhet központi vagy helyi önkormányzati költségvetés, elkü
 
 f)
 
-g) nem folytathat egyéb olyan tevékenységet, amelynek gyakorlásától a bíróság eltiltotta.
+g) nem folytathat egyéb olyan – a jogi személlyel szemben alkalmazott intézkedést megalapozó bűncselekménnyel összefüggő – tevékenységet, amelynek gyakorlásától a bíróság eltiltotta.
 
 (3) A jogi személy tevékenységének korlátozása esetén a bíróság határozatának jogerőre emelkedésekor a bíróság rendelkezésétől függően
 

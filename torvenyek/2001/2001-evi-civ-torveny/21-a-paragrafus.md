@@ -8,4 +8,4 @@ a) olyan jogi személlyel szemben alkalmazott intézkedést, akivel szemben az e
 
 b) olyan jogi személlyel szemben utasította el az ügyészség intézkedés alkalmazására irányuló indítványát, mellőzte az intézkedés alkalmazását, vagy szüntette meg az eljárás jogi személlyel kapcsolatos részét, amellyel szemben az elsőfokú bíróság intézkedést alkalmazott,
 
-c) olyan jogi személlyel szemben alkalmazott intézkedést, akivel szemben az elsőfokú bíróság ítélete nem tartalmazott rendelkezést.
+c)

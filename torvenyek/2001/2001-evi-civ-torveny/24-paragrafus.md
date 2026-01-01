@@ -4,7 +4,7 @@
 
 (2) Ha a felülvizsgálatnak azon vádlott vonatkozásában van helye, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a felülvizsgálat kiterjed az ítélet jogi személyre vonatkozó rendelkezésére is. A 3. § rendelkezései a felülvizsgálati eljárás során, illetve a megismételt eljárás során hozott határozat kapcsán is alkalmazandók.
 
-(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyészség – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – valamint a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő jogosult.
+(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyészség – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – valamint az eljárás alá vont jogi személy törvényes képviselője és az eljárás alá vont jogi személy védője jogosult.
 
 (4) A Kúria a megtámadott határozat jogi személyre vonatkozó rendelkezését hatályon kívül helyezi, és a korábban eljárt bíróságot új eljárásra utasítja, ha
 

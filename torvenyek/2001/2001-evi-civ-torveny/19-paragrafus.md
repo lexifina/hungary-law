@@ -8,4 +8,4 @@
 
 (4) Ha a bíróság a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványt elutasítja, az intézkedés alkalmazását mellőzi, vagy az eljárás jogi személlyel kapcsolatos részét megszünteti, az állam viseli a bűnügyi költséget.
 
-(5) Ha a bíróság azért szüntette meg az eljárás jogi személlyel kapcsolatos részét, mert az ügyészség a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványát visszavonta, az állam az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a jogi személy költségét, továbbá meghatalmazással a jogi személy érdekében eljáró ügyvéd díját és költségét.
+(5) Ha a bíróság azért szüntette meg az eljárás jogi személlyel kapcsolatos részét, mert az ügyészség a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványát visszavonta, az állam az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a jogi személy költségét, továbbá – amennyiben meghatalmazás alapján jár el – az eljárás alá vont jogi személy védőjének díját és költségét.

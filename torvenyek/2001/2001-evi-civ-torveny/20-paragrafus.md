@@ -1,12 +1,12 @@
 ## A másodfokú bírósági eljárás
 
-20. § (1) Az elsőfokú bíróság ítéletének jogi személyre vonatkozó rendelkezése ellen fellebbezésre az ügyészség, valamint a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő jogosult, ez utóbbiak csak a jogi személlyel szemben alkalmazott intézkedéssel kapcsolatos ítéleti rendelkezés vagy az ítélet indokolása ellen. A jogi személy terhére az ügyészség fellebbezhet.
+20. § (1) Az elsőfokú bíróság ítéletének jogi személyre vonatkozó rendelkezése ellen fellebbezésre az ügyészség, valamint az eljárás alá vont jogi személy törvényes képviselője és az eljárás alá vont jogi személy védője jogosult, ez utóbbiak csak a jogi személlyel szemben alkalmazott intézkedéssel kapcsolatos ítéleti rendelkezés vagy az ítélet indokolása ellen. A jogi személy terhére az ügyészség fellebbezhet.
 
 (2) Ha a fellebbezés kizárólag az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezése ellen irányul, a másodfokú bíróság az ítéletnek csak ezt a részét bírálja felül.
 
-(3) A másodfokú bíróság a (2) bekezdésben meghatározott esetben is felülbírálja a fellebbezéssel nem érintett 2. §-ban meghatározott bűncselekmény és annak vádlottja vonatkozásában a Be. 590. § (5) bekezdésében foglaltakat.
+(3)
 
-(4) Ha a fellebbezés a 2. §-ban meghatározott bűncselekmény vádlottját érinti, a másodfokú bíróság hivatalból dönt az ítélet jogi személyre vonatkozó rendelkezéséről is.
+(4) Ha a fellebbezés a 2. §-ban meghatározott bűncselekmény vádlottját érinti, a másodfokú bíróság a vádlott felmentése vagy az eljárás megszüntetése esetén hivatalból dönt az ítélet jogi személyre vonatkozó rendelkezéséről is.
 
 (5) Nem bírálható felül az ítéletnek a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványt elutasító, az intézkedés alkalmazását mellőző, vagy az eljárás jogi személlyel kapcsolatos részének megszüntetésére vonatkozó rendelkezése, amely ellen nem fellebbeztek.
 
