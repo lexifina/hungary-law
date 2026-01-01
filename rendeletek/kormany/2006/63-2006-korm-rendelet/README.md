@@ -61,3 +61,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2025-01-01 | 2006-63-20-22.74 | 359/2017. (XI. 30.) Korm. rendelet |
 | 2025-01-16 | 2006-63-20-22.73 | 303/2018. (XII. 27.) Korm. rendelet |
 | 2025-07-01 | 2006-63-20-22.71 | 179/2025. (VI. 30.) Korm. rendelet |
+| 2026-01-01 | 2006-63-20-22.75 | 359/2017. (XI. 30.) Korm. rendelet |
