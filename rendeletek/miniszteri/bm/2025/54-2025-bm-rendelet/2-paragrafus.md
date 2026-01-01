@@ -1,0 +1,3 @@
+2. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a hivatásos állomány tagja a képzési és vizsgakötelezettségének önhibájából nem tett eleget, a szolgálati viszonyának a Hszt. 82. § (1) bekezdés a) pontja szerinti megszűnésének megállapítása előtt az Országgyűlési Őrség parancsnoka az érintettet meghallgatja, vagy írásban 8 napos határidővel felszólítja az okok ismertetésével a mulasztás kimentésére, és figyelmezteti a mulasztás kimentése elmaradásának jogkövetkezményeire.”
