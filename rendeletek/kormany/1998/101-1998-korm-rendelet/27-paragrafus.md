@@ -1,5 +1,5 @@
 ## Az úti okmány cseréje
 
-27. §[^179]
+27. §[^180]
 
-[^179]: A 27. §-t a 317/2020. (VII. 1.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^180]: A 27. §-t a 317/2020. (VII. 1.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

@@ -18,9 +18,11 @@ b) a kérelem diplomata vagy külügyi szolgálati útlevél kiállítására ir
 
 (5)[^105] A szolgálati útlevél iránti kérelem az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában az országos hatáskörű szerv vagy hivatal vezetőjének az útlevél kiállítására irányuló, indokolt javaslata alapján bírálható el.
 
-(6)[^106] A hajós szolgálati útlevélre való jogosultságot a gazdálkodó szervezet hajózási engedély kivonatával vagy cégkivonatával, illetve a gazdálkodó szervezet által kiállított, a kérelmező hajón teljesítendő szolgálatát tanúsító okirat bemutatásával kell igazolni. A külföldön regisztrált gazdálkodó szervezet esetében a cégkivonat beszerzéséről – erre vonatkozó elektronikus nyilvántartás hiányában – az ügyfél gondoskodik.
+(6)[^106] A hajós szolgálati útlevélre való jogosultságot a gazdálkodó szervezet hajózási engedély kivonatával, illetve a gazdálkodó szervezet által kiállított, a kérelmező hajón teljesítendő szolgálatát tanúsító okirat bemutatásával kell igazolni. A külföldön regisztrált gazdálkodó szervezet esetében a cégkivonat beszerzéséről – erre vonatkozó elektronikus nyilvántartás hiányában – az ügyfél gondoskodik.
 
-(7)[^107] A 16. § (3) bekezdésében meghatározott esetben a kérelem elbírálása során vizsgálni kell a kérelmező külföldön történt születését, valamint a magyar állampolgárságú törvényes képviselőnek a gyermek adataira és állampolgárságára, valamint a gyermek születésének hazai anyakönyvezésére irányuló kérelem benyújtására vonatkozó nyilatkozatát.
+(6a)[^107] Ha a kérelmező a hajózási engedély kivonatát nem nyújtotta be, a gazdálkodó szervezet hajózási útlevélre vonatkozó jogosultságának igazolása céljából a cégkivonatát az általános hatáskörű útlevélhatóság, vagy amennyiben a kérelmet a járási hivatalhoz nyújtották be, a járási hivatal elektronikus úton, közvetlen lekérdezéssel szerzi be a cégnyilvántartásból.
+
+(7)[^108] A 16. § (3) bekezdésében meghatározott esetben a kérelem elbírálása során vizsgálni kell a kérelmező külföldön történt születését, valamint a magyar állampolgárságú törvényes képviselőnek a gyermek adataira és állampolgárságára, valamint a gyermek születésének hazai anyakönyvezésére irányuló kérelem benyújtására vonatkozó nyilatkozatát.
 
 [^98]: A 17. § (1) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés e) pontja, a 317/2020. (VII. 1.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^99]: A 17. § (2) bekezdése a 478/2024. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
@@ -30,5 +32,6 @@ b) a kérelem diplomata vagy külügyi szolgálati útlevél kiállítására ir
 [^103]: A 17. § (3b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be.
 [^104]: A 17. § új (4) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 2. § (5) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. A 17. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^105]: A 17. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 2. § (5) bekezdése. A 17. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^106]: A 17. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^107]: A 17. § (7) bekezdését a 203/2015. (VII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 58. § (2) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^106]: A 17. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 395/2025. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^107]: A 17. § (6a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^108]: A 17. § (7) bekezdését a 203/2015. (VII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 58. § (2) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
