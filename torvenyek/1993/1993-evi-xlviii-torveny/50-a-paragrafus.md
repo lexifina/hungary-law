@@ -212,6 +212,8 @@ j) az új tárolási engedélyes kijelölésére,
 
 38. a feltáró kutatásra vonatkozó kérelem tartalmi követelményeire, a feltáró kutatás engedélyezésére, az engedély tartalmi követelményeire, a kutatás során megszerzett földtani adatok szolgáltatásának rendjére
 
+39. a földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatására, kiképzésére, tárolásra történő hasznosítására és bezárására
+
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (1c) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben területet zárt területté nyilvánítson.
@@ -228,7 +230,7 @@ d) az előkutatás és az e törvény hatálya alá tartozó jogosultságok rés
 
 e) a bányászati jog átruházása során a bányafelügyeleti vizsgálat részletes szabályait,
 
-f) a kutatási, feltárási, kitermelési, szüneteltetési, bányabezárási és tájrendezési, föld alatti gáztárolási és meddőhányó-hasznosítási műszaki üzemi terv részletes tartalmi követelményeit, építőipari nyers- és alapanyagokra megállapított bányatelekre vonatkozó kitermelési műszaki üzemi terv rendszeres felülvizsgálatának részletes szabályait,
+f) a kutatási, feltárási, kitermelési, szüneteltetési, bányabezárási és tájrendezési, föld alatti földgáz-, illetve hidrogéntárolási és meddőhányó-hasznosítási műszaki üzemi terv részletes tartalmi követelményeit, építőipari nyers- és alapanyagokra megállapított bányatelekre vonatkozó kitermelési műszaki üzemi terv rendszeres felülvizsgálatának részletes szabályait,
 
 g) világörökségi területen az ásványi nyersanyag kitermelésének a feltételeit, megkezdett kitermelés esetén az ezeknek a feltételeknek való megfelelés határidejét, valamint ezekhez kapcsolódóan a világörökségi területen bányászati tevékenységre vonatkozó műszaki üzemi terv jóváhagyásának részletes feltételeit,
 

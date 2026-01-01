@@ -36,7 +36,7 @@ b) célkitermelőhely vagy bánya rekultiválására felhasznált
 
 (1f) A földgáz szolgáltató az (1e) bekezdés szerinti földgáz tulajdonjogát 0 forint értéken szerzi meg és a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése alapján 0 forint bekerülési értéken tartja nyilván.
 
-(2) A kőolaj, a kőolajtermékek, továbbá – a földgáz kivételével – a szénhidrogén-gázok csővezetéken történő szállítása kizárólagos állami tevékenység.
+(2)
 
 (3) A bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) — a (4) bekezdésben szabályozott esetek kivételével — a 8. §-ban felsorolt tevékenységek gyakorlását koncessziós szerződéssel meghatározott időre átengedheti.
 

@@ -1,4 +1,4 @@
-47/C. § (1) A bányafelügyelet az anyagnyerő helyről – közhitelesnek nem minősülő – nyilvántartást vezet, és azt a honlapján közzéteszi.
+47/C. § (1) A bányafelügyelet az anyagnyerő helyről nyilvántartást vezet, és azt a honlapján közzéteszi.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
 

@@ -24,7 +24,7 @@ c) a bánya szüneteltetése, bezárása, a szénhidrogénmező felhagyása,
 
 d) a bányászati tevékenység befejezését követő tájrendezés,
 
-e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
+e) a földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatása, kiképzése, tárolásra történő hasznosítása és bezárása,
 
 f) a geotermikus energia kutatása, kinyerése és hasznosítása,
 
@@ -34,7 +34,7 @@ h) a bányavállalkozó bányászati tevékenysége során felszín alatti víz 
 
 5. „Bányavállalkozó” a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, továbbá
 
-a) a 2. §, a 18. §, a 21. § (1) bekezdése, a 24. § (1) bekezdése, a 28. § (1) bekezdése, a 31–35. §, a 37. és 38. §, a 41. § alkalmazásában a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására jogosult személy,
+a) a 2. §, a 6/B. és 6/C. §, a 18. §, a 21. § (1) bekezdése, a 24. § (1) bekezdése, a 28. § (1) bekezdése, a 31–35. §, a 37. és 38. §, a 41. § alkalmazásában a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására jogosult személy,
 
 b) a 2. §, a 21. § (1) bekezdése, a 28. § (1) bekezdése, a 31–34. §, a 41. és 42. § alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy, valamint
 
@@ -76,9 +76,9 @@ a) az ásványi nyersanyagok lelőhelyének felfedezése,
 
 b) a felfedezett ásványi nyersanyag lelőhely lehatárolása és mennyiségi, minőségi megismerése, továbbá
 
-c) a geotermikus energia földkéregbeli viszonyainak megismerése, valamint
+c) a geotermikus energia földkéregbeli viszonyainak megismerése.
 
-d) a földtani szerkezetek megismerése szénhidrogén felszín alatti tárolására való alkalmasság szempontjából.
+d)
 
 18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatást engedélyező határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
 

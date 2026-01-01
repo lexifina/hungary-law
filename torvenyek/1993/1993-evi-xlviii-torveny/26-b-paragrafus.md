@@ -32,7 +32,7 @@ bd) az ásványi nyersanyag kitermelésének módját,
 
 be) a bányatelket törlő határozat számát, véglegessé válásának napját.
 
-(3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3b)
 
 (4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozata alapján felhívja az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
 

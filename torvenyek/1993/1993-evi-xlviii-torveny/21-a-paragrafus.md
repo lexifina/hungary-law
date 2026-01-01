@@ -50,4 +50,4 @@ d) a kutatásra engedélyezett időtartamot és
 
 e) a kutatási engedély visszavonása esetén, a kutatási engedély megszűnésének napját.
 
-(9) A (8) bekezdés szerinti nyilvántartás – a (8) bekezdés c) pontja szerinti adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(9)

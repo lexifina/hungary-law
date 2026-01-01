@@ -18,7 +18,7 @@ e) más törvény hatálya alá nem tartozó, nem bányászati célt szolgáló,
 
 f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén- és széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek és bányaüzem területén az egyéb gáztechnológiák létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;
 
-g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
+g) földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatása, kiképzése, tárolásra történő hasznosítása és bezárása;
 
 h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 

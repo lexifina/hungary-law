@@ -47,3 +47,5 @@ c) a bányafelügyeletnek adatot szolgáltató természetes személy, és
 d) a bányafelügyeleti eljárásokban a természetes személy kérelmező.
 
 (13)
+
+(14) A bányafelügyelet elektronikus hozzáférést biztosít a Nemzeti Építésgazdasági Nyilvántartásról és az építőipari ellátásbiztonság érdekében a stratégiai jelentőségű építési anyagokkal kapcsolatos építésgazdasági intézkedésekről szóló kormányrendeletben foglaltak szerint az építési alapanyagok körébe tartozó építőipari nyersanyagok vonatkozásában a Kormány rendeletében meghatározott adatokhoz a Nemzeti Építésgazdasági Nyilvántartás építési alapanyag modulja számára.

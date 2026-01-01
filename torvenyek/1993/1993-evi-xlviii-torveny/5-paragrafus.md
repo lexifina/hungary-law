@@ -8,9 +8,9 @@ b) a bányatelek megállapítását követően az ásványvagyon feltárását �
 
 c) a meddőhányó hasznosítását,
 
-d) földgáz tárolására alkalmas földtani szerkezetek kutatását, kiképezését és tárolásra történő hasznosítását, ha ez a környezetet nem veszélyezteti,
+d) földgáz, illetve hidrogén tárolására alkalmas földtani szerkezetek kutatását, kiképzését, tárolásra történő hasznosítását és bezárását, ha ez a környezetet nem veszélyezteti,
 
-e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld alatti gáztároló létesítményei létesítését, használatba vételét, elbontását, illetőleg felhagyását,
+e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld alatti gáztároló létesítményei létesítését, használatba vételét, üzemeltetését, elbontását, illetőleg felhagyását,
 
 f) a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazását, a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, valamint felhagyását,
 
@@ -32,9 +32,11 @@ m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutat�
 
 (2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energetikai és Közmű-szabályozási Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
 
-(2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti gáztárolásra történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
+(2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti földgáz, illetve hidrogén tárolására történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
 
 (2b) A 3. § (1e) bekezdése szerint a földgáz szolgáltató tulajdonába került földgázt földgáztárolási működési engedéllyel rendelkező bányavállalkozó termeli ki.
+
+(2c) A kőolaj- és földgázbányászatra jogosult bányavállalkozó a bányafelügyelettől kérelmezheti a földgáz tárolására vonatkozó engedélyének módosítását annak érdekében, hogy az engedély hidrogén tárolására is kiterjedjen. A bányafelügyelet az együttes tárolást akkor engedélyezi, ha az a tároló integritását nem veszélyezteti, továbbá a környezetet nem veszélyezteti, szennyezi vagy károsítja.
 
 (3) Az e törvény szerint engedélyköteles tevékenységeket a bányafelügyelet által kiadott engedélyek alapján lehet megkezdeni, és az abban foglalt feltételek szerint gyakorolni.
 

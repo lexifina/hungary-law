@@ -10,6 +10,6 @@ aa) az ásványi nyersanyagok kutatását, feltárását, kitermelését,
 
 ab) a geotermikus energia kutatását, kinyerését és hasznosítását,
 
-b) a kőolaj, a kőolajtermék, továbbá – a földgáz kivételével – az egyéb szénhidrogén-gáz szállítóvezetékek létesítését és üzemben tartását.
+b)
 
 (2) A 21/A. § (2a) bekezdése szerinti geotermikus energia kutatást a bányafelügyelet az (1) bekezdés a) pont ab) alpontja szerinti zárt területen is engedélyezheti. A bányafelügyelet a 21/A. § (2a) bekezdése szerinti kutatási engedély iránti kérelmet elutasítja, ha a kérelem szerinti kutatási tevékenység a koncesszió jogosultjának a koncessziós szerződés szerinti kutatási tevékenységének elvégzését, vagy a geotermikus energia kinyerését és hasznosítását jelentős mértékben korlátozná vagy kizárná.
