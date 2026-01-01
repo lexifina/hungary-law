@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2025-01-01 | 2024. évi LXXXV. törvény | 2011-191-00-00.43 |
 | 2025-03-01 | 2024. évi LXXI. törvény | 2011-191-00-00.48 |
 | 2025-06-02 | 2025. évi XXXIV. törvény | 2011-191-00-00.49 |
+| 2026-01-01 | 2025. évi LXXX. törvény | 2011-191-00-00.50 |

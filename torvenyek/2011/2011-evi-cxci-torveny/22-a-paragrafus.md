@@ -1,4 +1,4 @@
-22/A. § (1) A 23. § (1) bekezdésének alkalmazása során – legutoljára a 23. életévének betöltése szerinti naptári évben – a megváltozott munkaképességű személyekkel egy tekintet alá esik az a személy is, aki
+22/A. § (1) A 23. § (1) bekezdésének alkalmazása során – legutoljára a 26. életévének betöltése szerinti naptári évben – a megváltozott munkaképességű személyekkel egy tekintet alá esik az a személy is, aki
 
 a) köznevelési intézményben – a nemzeti köznevelésről szóló törvény szerint megállapított – sajátos nevelési igényű gyermeknek vagy
 

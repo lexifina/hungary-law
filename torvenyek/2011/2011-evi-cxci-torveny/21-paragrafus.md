@@ -36,7 +36,7 @@ c) a komplex minősítés során megállapított körülményekre
 
 vonatkozó adatokat kezelheti.
 
-(2)
+(2) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a gyámügyi feladatokat ellátó szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 

@@ -22,7 +22,7 @@ d)
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: foglalkozási rehabilitációs szakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A foglalkozási rehabilitációs szakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(3a) A foglalkozási rehabilitációs szakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3a) A foglalkozási rehabilitációs szakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében – ide nem értve a szakértő értesítési címére vonatkozó adatot – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Kormány által kijelölt szerv a foglalkozási rehabilitációs szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi az (1) bekezdésben meghatározott feltételek teljesülését.
 

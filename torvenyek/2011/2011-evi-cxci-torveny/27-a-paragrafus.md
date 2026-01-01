@@ -20,7 +20,7 @@ c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat.
 
-(3a) A rehabilitációs orvosszakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3a) A rehabilitációs orvosszakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében – ide nem értve a szakértő értesítési címére vonatkozó adatot – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Kormány által kijelölt szerv a rehabilitációs orvosszakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi az (1) bekezdésben meghatározott feltételek teljesülését.
 
