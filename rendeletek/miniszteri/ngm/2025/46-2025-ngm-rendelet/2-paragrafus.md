@@ -1,0 +1,1 @@
+2. § Az 1. § és az 1. melléklet az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2025. április 14-i (EU) 2025/872 tanácsi irányelvnek való megfelelést szolgálja.
