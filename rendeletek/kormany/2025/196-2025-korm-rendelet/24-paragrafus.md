@@ -1,3 +1,1 @@
-24. §[^3]
-
-[^3]: A 24. § a 21. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
+24. § A 8. § (4) bekezdésében és a 18. § (10) bekezdésében a „Válsághelyzeti támogatás” szövegrész helyébe a „Foglalkoztatási támogatások” szöveg lép.

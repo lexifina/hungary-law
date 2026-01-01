@@ -8,4 +8,6 @@ a) a használt lakás vásárlásához, bővítéséhez igényelhető családi o
 
 b) egyéb településen található, legfeljebb havonta 80 000 forint.
 
-(4) A támogatás a Nemzeti Foglalkoztatási Alap Válsághelyzeti támogatás cím előirányzata terhére nyújtható.
+(4)[^2] A támogatás a Nemzeti Foglalkoztatási Alap Foglalkoztatási támogatások cím előirányzata terhére nyújtható.
+
+[^2]: A 8. § (4) bekezdése a 24. § szerint módosított szöveg.
