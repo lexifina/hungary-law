@@ -14,7 +14,7 @@ olyan újabb csatlakozási igény merül fel, amit a hálózati engedélyes az �
 
 (5) Ha a csatlakozást igénylő és a hálózati engedélyes a VET 27. § (5) bekezdése szerint olyan csatlakozási szerződést köt, mely szerint a közcélú hálózaton történő közvetlen csatlakozási beruházást, illetve kapcsolóállomásban történő csatlakozás esetén a kapcsolóállomási csatlakozási beruházást a csatlakozást igénylő saját beruházásában végzi el, akkor a csatlakozást igénylő
 
-a)[^1]
+a) a csatlakozási díjfizetés részeként a saját beruházáshoz kapcsolódóan csatlakozási minimumdíjat köteles fizetni, és
 
 b) az általa megvalósított beruházást térítés nélkül köteles átadni
 
@@ -27,5 +27,3 @@ a) az újonnan igényelt csatlakozási teljesítmény és
 b) a kapcsolóállomási csatlakozási beruházással korábban kielégített csatlakozási teljesítmény
 
 egymáshoz viszonyított aránya szerint kerül figyelembevételre.
-
-[^1]: Az 5. § (5) bekezdés a) pontja a 15. § (2) bekezdése alapján 2026. január 1-jén lép hatályba.
