@@ -16,11 +16,11 @@ c) a kísérletek súlyossági besorolásának értékelését és megállapít�
 
 d) a projekt elemzését ártalom és haszon szempontjából, azaz annak megállapítása, hogy az állatoknak szenvedés, fájdalom vagy félelemformájában okozott ártalmat indokolttá teszi-e a várt eredmény – az etikai megfontolásokat is figyelembe véve –, és végeredményben az emberek, állatok és a környezet javát szolgálhatja-e;
 
-e)[^42] a 3–8., 11., 12., 14., 28. és 29. §-ban, valamint az Ávtv. 30 §-ban említett indokolás értékelését;
+e)[^43] a 3–8., 11., 12., 14., 28. és 29. §-ban, valamint az Ávtv. 30 §-ban említett indokolás értékelését;
 
-f)[^43] annak megállapítását – figyelemmel a 46. § (2) és (3) bekezdésére –, hogy szükség van-e a projekt visszamenőleges értékelésére, és ha igen, ennek időpontját, és
+f)[^44] annak megállapítását – figyelemmel a 46. § (2) és (3) bekezdésére –, hogy szükség van-e a projekt visszamenőleges értékelésére, és ha igen, ennek időpontját, és
 
-g)[^44] a 45. §-ban meghatározott nem szakmai jellegű összefoglaló megfelelőségének értékelését.
+g)[^45] a 45. §-ban meghatározott nem szakmai jellegű összefoglaló megfelelőségének értékelését.
 
 (3) A projektértékelés során különösen a következő szakterületek szempontjait kell figyelembe venni:
 
@@ -34,9 +34,9 @@ d) állattenyésztés és állatgondozás a felhasználni kívánt fajok vonatko
 
 (4) A projektértékelés folyamatának átláthatónak kell lennie. A projektértékelést a szellemi tulajdon és a bizalmas információk védelmére figyelemmel, részrehajlás nélkül kell végezni, és a független felek véleményét is magában foglalhatja.
 
-(5)[^45]
+(5)[^46]
 
-[^42]: A 42. § (2) bekezdés e) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^43]: A 42. § (2) bekezdés f) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^44]: A 42. § (2) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (5) bekezdése iktatta be.
-[^45]: A 42. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 189. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^43]: A 42. § (2) bekezdés e) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^44]: A 42. § (2) bekezdés f) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^45]: A 42. § (2) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+[^46]: A 42. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 189. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -1,8 +1,8 @@
-## 56/A. §[^69] Az országos főállatorvos az 51. § (1) bekezdése szerinti tájékoztatást első alkalommal 2023. november 10-ig küldi meg az Európai Bizottságnak.
+## 56/A. §[^76] Az országos főállatorvos az 51. § (1) bekezdése szerinti tájékoztatást első alkalommal 2023. november 10-ig küldi meg az Európai Bizottságnak.
 
-57. §[^70] (1) Ez a rendelet a tudományos célokra felhasznált állatok védelméről szóló, 2010. szeptember 22-i 2010/63/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+57. §[^77] (1) Ez a rendelet a tudományos célokra felhasznált állatok védelméről szóló, 2010. szeptember 22-i 2010/63/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) Ez a rendelet a környezettel kapcsolatos jogszabályok területén a jelentéstételi kötelezettségek összehangolásáról, valamint a 166/2006/EK és a 995/2010/EU európai parlamenti és tanácsi rendelet, a 2002/49/EK, a 2004/35/EK, a 2007/2/EK, a 2009/147/EK és a 2010/63/EU európai parlamenti és tanácsi irányelv, a 338/97/EK és a 2173/2005/EK tanácsi rendelet, továbbá a 86/278/EGK tanácsi irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/1010 európai parlamenti és tanácsi rendelet 6. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^69]: Az 56/A. §-t a 425/2020. (IX. 10.) Korm. rendelet 3. §-a iktatta be.
-[^70]: Az 57. § a 425/2020. (IX. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^76]: Az 56/A. §-t a 425/2020. (IX. 10.) Korm. rendelet 3. §-a iktatta be.
+[^77]: Az 57. § a 425/2020. (IX. 10.) Korm. rendelet 4. §-ával megállapított szöveg.

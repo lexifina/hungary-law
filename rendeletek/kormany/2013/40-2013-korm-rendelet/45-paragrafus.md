@@ -8,6 +8,6 @@ b) a helyettesítésre, csökkentésre és tökéletesítésre vonatkozó előí
 
 (3) A nem szakmai jellegű projekt-összefoglalók nem tartalmazzák a felhasználónak és személyzetének nevét és címét.
 
-(4)[^49] Az országos főállatorvos legkésőbb az engedélyezéstől számított hat hónapon belül közzététel céljából megküldi az Európai Bizottságnak a nem szakmai jellegű összefoglalókat és azok módosításait.
+(4)[^51] Az országos főállatorvos legkésőbb az engedélyezéstől számított hat hónapon belül közzététel céljából megküldi az Európai Bizottságnak a nem szakmai jellegű összefoglalókat és azok módosításait.
 
-[^49]: A 45. § (4) bekezdése a 425/2020. (IX. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^51]: A 45. § (4) bekezdése a 425/2020. (IX. 10.) Korm. rendelet 1. §-ával megállapított szöveg.

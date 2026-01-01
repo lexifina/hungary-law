@@ -26,6 +26,8 @@
 
 ## 1. A projekt megnevezése.
 
+## 1a. A projekt tervezett időtartama (legalább 1, legfeljebb 5 év).
+
 ## 2. Annak megjelölése, hogy az alábbiak közül mely célkitűzésnek, illetve célkitűzéseknek felel meg a kísérleti tevékenység, azzal, hogy több célkitűzés megjelölése esetén meg kell jelölni a kísérlet elsődleges célját:
 
 ## a) alapkutatás,
@@ -66,13 +68,15 @@
 
 ## e) amennyiben a projektben főemlős faj egyedét tervezik felhasználni, meg kell adnia azokat a tudományos indokokat, melyek alapján kifejezetten a fenti egyedek felhasználása szükséges.
 
-## 5. A projektben alkalmazott összes kísérlet számozott felsorolása és ismertetése, melynek keretében a kérelmezőnek
+## f) ha a projektben genetikailag módosított állatokat terveznek használni, meg kell adni a vonal nevét, a genetikai módosítás típusát és annak következményeit, a vonal genotípusát, genetikai hátterét és eredetét, valamint ismertetni kell a vonal fenotípusát.
 
-## a) ismertetnie kell a kísérletben alkalmazott módszereket, kitérve az állaton végzett beavatkozásokra, továbbá ismertetnie kell az alkalmazott érzéstelenítési, gyógyszeres és fájdalomcsillapítási eljárásokat,
+## 5. A projektben alkalmazott összes kísérlet számozott felsorolása és ismertetése, melynek keretében a kérelmezőnek kísérletenként
 
-## b) meg kell adnia a kísérlet időtartamát,
+## a) ismertetnie kell a kísérletben alkalmazott módszereket – kitérve az állaton végzett beavatkozásokra –, valamint az alkalmazott érzéstelenítési, gyógyszeres és fájdalomcsillapítási eljárásokat, továbbá meg kell adnia a kiindulási vonalakat, a keresztezés menetét, a genotipizálás módszerét, valamint a fenotípus káros mivoltát, amennyiben a kísérlet genetikailag módosított vonalak keresztezéssel történő előállítása vagy káros fenotípusú vonalak fenntartó vagy kiterjesztő tenyésztése a projekt céljára.
 
-## c) meg kell adnia a kísérletben felhasznált állatok faját és fejlődési állapotát, adott esetben jeleznie és indokolnia kell az állatok ismételt felhasználásának előfordulását,
+## b) meg kell adnia a kísérlet egy állatra vetített időtartamát,
+
+## c) meg kell adnia a kísérletben felhasznált állatok faját, amelyen belül a kísérletben használt genetikailag módosított állatokat külön nevesítenie kell, valamint az állatok fejlődési állapotát; adott esetben jeleznie és indokolnia kell az állatok ismételt felhasználásának előfordulását,
 
 ## d) ki kell térnie a felhasznált kísérleti állatok számának és adott esetben a környezeti hatás mértékének csökkentése érdekében alkalmazott kísérleti vagy statisztikai módszertanra; meg kell adnia a tervezett mintaelemszámot,
 
@@ -96,7 +100,7 @@
 
 ## a) a 3. § (1) bekezdés a)–i) és k)–l) pontjaiban felsorolt fajok nem kifejezetten kísérleti célra tenyészetett egyedeinek felhasználására tudományos indokok alapján;
 
-## b) háziasított fajok gazdátlan vagy elvadult egyedének kísérletben való felhasználására az 5. § a), illetve b) pontjában szereplő indokok alapján;
+## b) háziasított fajok gazdátlan vagy elvadult egyedének kísérletben való felhasználására az 5. § a) és b) pontjában szereplő indokok alapján;
 
 ## c) vadon élő vagy vadon befogott állat felhasználására tudományos indokok alapján a 7. § (1) és (4) bekezdésének feltételei szerint;
 
@@ -112,7 +116,7 @@
 
 ## i) a 3. mellékletben foglalt elhelyezési és gondozási előírások alkalmazása alól tudományos, állatjóléti vagy állategészségügyi okból.
 
-## 11. A projekt nem szakmai jellegű összefoglalója.
+## 11. A projekt nem szakmai jellegű összefoglalója az Európai Bizottság által rendszeresített és a Nébih honlapján közzétett, uniós szinten harmonizált Excel dokumentumban mellékelve.
 
 ## 12. A kérelem kelte.
 
@@ -157,6 +161,8 @@
 ## 1. A hatályos engedéllyel rendelkező projekt megnevezése.
 
 ## 2. A meghosszabbítás kérelmezett ideje.
+
+## 2a. A meghosszabbítás szükségességének indoklása.
 
 ## 3. A kérelem kelte.
 

@@ -16,6 +16,8 @@ d) a projektértékelést követően esetlegesen meghatározott egyéb előírá
 
 e) a projektértékelés eredményét.
 
-(3) Projektengedély legfeljebb 5 évre adható.
+(3)[^50] Projektengedély legalább 1, de legfeljebb 5 évre adható.
 
 (4) Az ugyanazon felhasználó által végrehajtott több azonos típusú projekt együttesen is engedélyezhető, amennyiben e projektek célja jogszabályban meghatározott kötelezettség teljesítése, vagy ha a projektek termelési vagy diagnosztikai célból, bevált módszerek alkalmazásával használnak fel állatokat.
+
+[^50]: A 44. § (3) bekezdése a 453/2025. (XII. 29.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
